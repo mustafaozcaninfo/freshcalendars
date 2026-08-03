@@ -1,0 +1,72 @@
+{
+  "sitemap": 93,
+  "404": [
+    "/2026-calendar.html",
+    "/manifest.webmanifest"
+  ],
+  "broken_links": [],
+  "cdn_bad": [
+    "https://cdn.freshcalendars.com/assets/2026/monthly/april/classic-bw/calendar.png</image:loc>",
+    "https://cdn.freshcalendars.com/assets/2026/monthly/august/classic-bw/calendar.png</image:loc>",
+    "https://cdn.freshcalendars.com/assets/2026/monthly/august/color-modern/calendar.png</image:loc>",
+    "https://cdn.freshcalendars.com/assets/2026/monthly/august/holidays/calendar.png</image:loc>",
+    "https://cdn.freshcalendars.com/assets/2026/monthly/august/landscape-soft/calendar.png</image:loc>",
+    "https://cdn.freshcalendars.com/assets/2026/monthly/august/monday-start/calendar.png</image:loc>",
+    "https://cdn.freshcalendars.com/assets/2026/monthly/august/notes-planner/calendar.png</image:loc>",
+    "https://cdn.freshcalendars.com/assets/2026/monthly/december/classic-bw/calendar.png</image:loc>",
+    "https://cdn.freshcalendars.com/assets/2026/monthly/december/color-modern/calendar.png</image:loc>",
+    "https://cdn.freshcalendars.com/assets/2026/monthly/december/holidays/calendar.png</image:loc>",
+    "https://cdn.freshcalendars.com/assets/2026/monthly/december/landscape-soft/calendar.png</image:loc>",
+    "https://cdn.freshcalendars.com/assets/2026/monthly/december/monday-start/calendar.png</image:loc>",
+    "https://cdn.freshcalendars.com/assets/2026/monthly/december/notes-planner/calendar.png</image:loc>",
+    "https://cdn.freshcalendars.com/assets/2026/monthly/february/classic-bw/calendar.png</image:loc>",
+    "https://cdn.freshcalendars.com/assets/2026/monthly/january/classic-bw/calendar.png</image:loc>",
+    "https://cdn.freshcalendars.com/assets/2026/monthly/july/classic-bw/calendar.png</image:loc>",
+    "https://cdn.freshcalendars.com/assets/2026/monthly/june/classic-bw/calendar.png</image:loc>",
+    "https://cdn.freshcalendars.com/assets/2026/monthly/march/classic-bw/calendar.png</image:loc>",
+    "https://cdn.freshcalendars.com/assets/2026/monthly/may/classic-bw/calendar.png</image:loc>",
+    "https://cdn.freshcalendars.com/assets/2026/monthly/november/classic-bw/calendar.png</image:loc>",
+    "https://cdn.freshcalendars.com/assets/2026/monthly/november/color-modern/calendar.png</image:loc>",
+    "https://cdn.freshcalendars.com/assets/2026/monthly/november/holidays/calendar.png</image:loc>",
+    "https://cdn.freshcalendars.com/assets/2026/monthly/november/landscape-soft/calendar.png</image:loc>",
+    "https://cdn.freshcalendars.com/assets/2026/monthly/november/monday-start/calendar.png</image:loc>",
+    "https://cdn.freshcalendars.com/assets/2026/monthly/november/notes-planner/calendar.png</image:loc>",
+    "https://cdn.freshcalendars.com/assets/2026/monthly/october/classic-bw/calendar.png</image:loc>",
+    "https://cdn.freshcalendars.com/assets/2026/monthly/october/color-modern/calendar.png</image:loc>",
+    "https://cdn.freshcalendars.com/assets/2026/monthly/october/holidays/calendar.png</image:loc>",
+    "https://cdn.freshcalendars.com/assets/2026/monthly/october/landscape-soft/calendar.png</image:loc>",
+    "https://cdn.freshcalendars.com/assets/2026/monthly/october/monday-start/calendar.png</image:loc>",
+    "https://cdn.freshcalendars.com/assets/2026/monthly/october/notes-planner/calendar.png</image:loc>",
+    "https://cdn.freshcalendars.com/assets/2026/monthly/september/classic-bw/calendar.png</image:loc>",
+    "https://cdn.freshcalendars.com/assets/2026/monthly/september/color-modern/calendar.png</image:loc>",
+    "https://cdn.freshcalendars.com/assets/2026/monthly/september/holidays/calendar.png</image:loc>",
+    "https://cdn.freshcalendars.com/assets/2026/monthly/september/landscape-soft/calendar.png</image:loc>",
+    "https://cdn.freshcalendars.com/assets/2026/monthly/september/monday-start/calendar.png</image:loc>",
+    "https://cdn.freshcalendars.com/assets/2026/monthly/september/notes-planner/calendar.png</image:loc>"
+  ],
+  "soft_redirects": [
+    [
+      "/year/2026",
+      "/printable-calendars.html",
+      "2026 Yearly Calendar \u00b7 Printable Year Overview | Fresh Calendars"
+    ]
+  ],
+  "not_in_sitemap": [
+    "/manifest.json/"
+  ],
+  "missing_templates": [
+    "armed-forces-day",
+    "constitution-day",
+    "day-of-the-dead",
+    "dia-de-los-muertos",
+    "indigenous-peoples-day",
+    "international-womens-day",
+    "native-americans-day",
+    "samhain",
+    "star-wars-day",
+    "world-environment-day",
+    "world-teachers-day"
+  ],
+  "ic_matches": [],
+  "canonical_issues": []
+}

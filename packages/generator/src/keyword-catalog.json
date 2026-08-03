@@ -1,0 +1,16 @@
+{
+  "families": [
+    { "id": "yearly", "queries": ["printable calendar", "2026 calendar", "yearly calendar"] },
+    { "id": "yearly-holidays", "queries": ["calendar with holidays", "2026 calendar with holidays"] },
+    { "id": "monthly", "queries": ["printable monthly calendar", "january 2026 calendar"] },
+    { "id": "monthly-holidays", "queries": ["monthly calendar holidays"] },
+    { "id": "blank-monthly", "queries": ["printable blank calendar", "blank monthly calendar"] },
+    { "id": "blank-yearly", "queries": ["blank yearly calendar"] },
+    { "id": "monday-start", "queries": ["monday start calendar"] },
+    { "id": "weekly", "queries": ["printable weekly calendar"] },
+    { "id": "school", "queries": ["school calendar 2026-2027"] },
+    { "id": "academic", "queries": ["academic calendar 2026"] },
+    { "id": "landscape", "queries": ["landscape calendar printable"] },
+    { "id": "large", "queries": ["large printable calendar"] }
+  ]
+}

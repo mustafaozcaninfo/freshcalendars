@@ -1,0 +1,95 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <title>{{title}}</title>
+  <link href="https://fonts.googleapis.com/css2?family=Sora:wght@600;700&family=Manrope:wght@400;600;700&family=IBM+Plex+Sans:wght@400;600;700&display=swap" rel="stylesheet" />
+  <style>
+    :root { --ink:#1c2430; --accent:#0092d1; --line:#c5d3dc; --rule:#e8eef3; --paper:#f4f7fa; }
+    * { box-sizing: border-box; }
+    body {
+      margin: 0; width: 1100px; height: 1420px; padding: 32px;
+      background: var(--paper); color: var(--ink);
+      font-family: Karla, sans-serif;
+    }
+    .sheet {
+      height: 100%; display: grid; grid-template-columns: 1fr 220px; gap: 18px;
+    }
+    .main { display: flex; flex-direction: column; min-width: 0; }
+    .head {
+      display: flex; justify-content: space-between; align-items: flex-end;
+      margin-bottom: 12px; padding-bottom: 10px; border-bottom: 2px solid var(--ink);
+    }
+    .brand { font-size: 11px; letter-spacing: .2em; text-transform: uppercase; color: var(--accent); font-weight: 700; }
+    h1 {
+      margin: 4px 0 0; font-family: Sora, "IBM Plex Sans", sans-serif; font-size: 56px; line-height: .9;
+      font-variation-settings: "opsz" 72;
+    }
+    .year { font-family: Sora, "IBM Plex Sans", sans-serif; font-size: 40px; color: var(--accent); }
+    .hint { font-size: 12px; color: #6a6258; margin-bottom: 8px; }
+    table.cal { width: 100%; flex: 1; border-collapse: collapse; table-layout: fixed; }
+    th {
+      font-size: 11px; font-weight: 700; letter-spacing: .12em; text-transform: uppercase;
+      padding: 8px 4px; border-bottom: 1.5px solid var(--accent); color: var(--accent);
+    }
+    td {
+      border: 1px solid var(--line); vertical-align: top; height: 175px; padding: 6px 8px;
+      background:
+        repeating-linear-gradient(transparent, transparent 21px, var(--rule) 21px, var(--rule) 22px),
+        #fff;
+    }
+    td .n {
+      font-family: Sora, "IBM Plex Sans", sans-serif; font-size: 18px; font-weight: 700;
+      background: #fff; display: inline-block; padding: 0 4px 2px 0;
+    }
+    td.hol .n { color: var(--accent); }
+    .side {
+      border: 1.5px solid var(--ink); padding: 16px 14px; background: #fff;
+      display: flex; flex-direction: column;
+    }
+    .side h2 {
+      margin: 0 0 12px; font-family: Sora, "IBM Plex Sans", sans-serif; font-size: 20px; font-weight: 700;
+    }
+    .side .lines { flex: 1; background: repeating-linear-gradient(transparent, transparent 27px, var(--line) 27px, var(--line) 28px); }
+    .side .block { margin-top: 16px; }
+    .side .block label {
+      display: block; font-size: 11px; letter-spacing: .14em; text-transform: uppercase;
+      font-weight: 700; color: var(--accent); margin-bottom: 6px;
+    }
+    .side .mini {
+      height: 72px; border-bottom: 1px solid var(--line);
+      background: repeating-linear-gradient(transparent, transparent 23px, var(--rule) 23px, var(--rule) 24px);
+    }
+  </style>
+</head>
+<body>
+  <div class="sheet">
+    <div class="main">
+      <header class="head">
+        <div>
+          <div class="brand">Fresh Calendars · Planner</div>
+          <h1>{{monthName}}</h1>
+        </div>
+        <div class="year">{{year}}</div>
+      </header>
+      <div class="hint">{{subtitle}} — write in the ruled cells</div>
+      <table class="cal">
+        <thead><tr>{{weekdayHeader}}</tr></thead>
+        <tbody>{{weeksHtml}}</tbody>
+      </table>
+    </div>
+    <aside class="side">
+      <h2>Notes</h2>
+      <div class="lines"></div>
+      <div class="block">
+        <label>Priorities</label>
+        <div class="mini"></div>
+      </div>
+      <div class="block">
+        <label>Next month</label>
+        <div class="mini"></div>
+      </div>
+    </aside>
+  </div>
+</body>
+</html>

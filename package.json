@@ -1,0 +1,33 @@
+{
+  "name": "freshcalendars",
+  "private": true,
+  "type": "module",
+  "packageManager": "pnpm@10.33.2",
+  "scripts": {
+    "fc": "tsx packages/generator/src/cli.ts",
+    "build": "tsx packages/generator/src/cli.ts build",
+    "test": "tsx --test packages/engine/src/resolve.test.ts packages/engine/src/content/editorial.test.ts packages/engine/src/holidays/holidays.test.ts",
+    "verify": "tsx packages/generator/src/cli.ts verify",
+    "gen": "tsx packages/generator/src/cli.ts gen",
+    "refresh-evergreen": "tsx packages/generator/src/cli.ts refresh-evergreen",
+    "deploy": "tsx packages/generator/src/cli.ts deploy",
+    "smoke": "bash scripts/smoke.sh",
+    "smoke:auto": "tsx scripts/smoke-automation.mjs",
+    "smoke:mobile": "node scripts/smoke-mobile.mjs",
+    "smoke:contrast": "node scripts/smoke-contrast.mjs",
+    "smoke:ads": "node scripts/smoke-ads.mjs",
+    "smoke:lighthouse": "node scripts/smoke-lighthouse.mjs"
+  },
+  "devDependencies": {
+    "@types/node": "^22.13.10",
+    "tsx": "^4.19.3",
+    "typescript": "^5.8.2"
+  },
+  "pnpm": {
+    "onlyBuiltDependencies": [
+      "esbuild",
+      "sharp"
+    ]
+  },
+  "version": "1.0.0"
+}

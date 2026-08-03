@@ -1,0 +1,44 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <title>{{title}}</title>
+  <link href="https://fonts.googleapis.com/css2?family=Sora:wght@600;700&family=Manrope:wght@400;600;700&family=IBM+Plex+Sans:wght@400;600;700&display=swap" rel="stylesheet" />
+  <style>
+    :root { --ink:#0b3d66; --accent:#004a7f; --line:#c5d3dc; }
+    * { box-sizing: border-box; }
+    body {
+      margin: 0; width: 1100px; height: 1420px; padding: 40px 44px;
+      background: #e8eef2; color: var(--ink); font-family: "Source Sans 3", sans-serif;
+    }
+    .sheet {
+      height: 100%; border: 2px solid var(--ink); background: #fff;
+      padding: 28px; display: flex; flex-direction: column;
+    }
+    .head { border-bottom: 2px solid var(--ink); padding-bottom: 14px; margin-bottom: 18px; }
+    .brand { font-size: 12px; letter-spacing: .2em; text-transform: uppercase; color: var(--accent); font-weight: 700; }
+    h1 { margin: 6px 0 0; font-family: Sora, "IBM Plex Sans", sans-serif; font-size: 48px; line-height: 1; }
+    .tag { display: inline-block; margin-top: 8px; font-size: 11px; font-weight: 700; letter-spacing: .1em; text-transform: uppercase; border: 1px solid var(--ink); padding: 3px 8px; }
+    .days { flex: 1; display: grid; grid-template-columns: repeat(7, 1fr); gap: 8px; }
+    .day { border: 1px solid var(--line); display: flex; flex-direction: column; }
+    .day .dow {
+      font-size: 11px; font-weight: 700; letter-spacing: .08em; text-transform: uppercase;
+      padding: 10px 8px; background: #eef3f6; border-bottom: 1px solid var(--line);
+    }
+    .day .box { flex: 1; padding: 8px; }
+    .day .lines { border-top: 1px dashed var(--line); height: 70%; margin-top: 8px; }
+    .foot { margin-top: 14px; font-size: 11px; color: #456; display: flex; justify-content: space-between; }
+  </style>
+</head>
+<body>
+  <div class="sheet">
+    <header class="head">
+      <div class="brand">Fresh Calendars · Weekly</div>
+      <h1>Monday-start week</h1>
+      <span class="tag">Mon → Sun</span>
+    </header>
+    <div class="days">{{daysHtml}}</div>
+    <div class="foot"><span>Workweek-first weekly planner</span><span>freshcalendars.com</span></div>
+  </div>
+</body>
+</html>

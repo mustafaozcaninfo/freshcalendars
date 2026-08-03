@@ -1,0 +1,57 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <title>{{title}}</title>
+  <link href="https://fonts.googleapis.com/css2?family=Sora:wght@600;700&family=Manrope:wght@400;600;700&family=IBM+Plex+Sans:wght@400;600;700&display=swap" rel="stylesheet" />
+  <style>
+    :root { --ink:#14212b; --accent:#ec1d00; --blue:#007bff; --paper:#ffffff; --line:#d0d7de; --we:#eef5fb; }
+    * { box-sizing: border-box; }
+    body {
+      margin: 0; width: 1100px; height: 1420px; padding: 36px 40px;
+      background: #e8eef3;
+      color: var(--ink); font-family: Manrope, "IBM Plex Sans", sans-serif;
+    }
+    .poster {
+      height: 100%; border: 3px solid var(--ink); background: #fff;
+      padding: 26px 26px 20px; display: flex; flex-direction: column;
+    }
+    .hero {
+      display: flex; justify-content: space-between; align-items: flex-end;
+      border-bottom: 4px solid var(--accent); padding-bottom: 12px; margin-bottom: 16px;
+    }
+    .brand { font-size: 13px; letter-spacing: .18em; text-transform: uppercase; color: var(--accent); font-weight: 700; }
+    h1 { margin: 4px 0 0; font-family: Sora, "IBM Plex Sans", sans-serif; font-size: 56px; line-height: .95; }
+    .year-mark { font-family: Sora, "IBM Plex Sans", sans-serif; font-size: 100px; line-height: .8; color: var(--accent); }
+    .grid {
+      flex: 1; display: grid; grid-template-columns: repeat(3, 1fr); grid-template-rows: repeat(4, 1fr); gap: 12px;
+    }
+    .month { border: 1px solid var(--line); padding: 7px; background: var(--paper); }
+    .month h2 { margin: 0 0 5px; font-family: Sora, "IBM Plex Sans", sans-serif; font-size: 15px; color: var(--accent); }
+    table { width: 100%; border-collapse: collapse; table-layout: fixed; }
+    th { font-size: 8px; color: #8a6a55; font-weight: 700; padding: 1px 0; }
+    th.we { color: var(--accent); }
+    td { font-size: 10px; text-align: center; padding: 2px 0; height: 16px; font-variant-numeric: tabular-nums; }
+    td.we { background: var(--we); }
+    td.hol { color: var(--accent); font-weight: 700; text-decoration: underline; text-underline-offset: 2px; }
+    .foot { margin-top: 12px; display: flex; justify-content: space-between; font-size: 11px; color: #6a5040; }
+    .badge { font-weight: 700; letter-spacing: .08em; text-transform: uppercase; font-size: 10px; color: var(--accent); }
+  </style>
+</head>
+<body>
+  <div class="poster">
+    <header class="hero">
+      <div>
+        <div class="brand">Fresh Calendars · Holidays</div>
+        <h1>Year with US holidays</h1>
+      </div>
+      <div class="year-mark">{{year}}</div>
+    </header>
+    <div class="grid">{{monthsHtml}}</div>
+    <div class="foot">
+      <span class="badge">Federal &amp; observances tinted</span>
+      <span>freshcalendars.com</span>
+    </div>
+  </div>
+</body>
+</html>

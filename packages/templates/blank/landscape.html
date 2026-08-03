@@ -1,0 +1,58 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <title>{{title}}</title>
+  <link href="https://fonts.googleapis.com/css2?family=Sora:wght@600;700&family=Manrope:wght@400;600;700&family=IBM+Plex+Sans:wght@400;600;700&display=swap" rel="stylesheet" />
+  <style>
+    :root { --ink:#2a3439; --accent:#5a6b75; --paper:#f2f4f6; --line:#d0d7de; }
+    * { box-sizing: border-box; }
+    body {
+      margin: 0; width: 1600px; height: 1100px; padding: 36px 44px;
+      background: linear-gradient(120deg, #f2f4f6, #e8e2d4);
+      color: var(--ink); font-family: Manrope, "IBM Plex Sans", sans-serif;
+    }
+    .pad {
+      height: 100%; border: 2px solid var(--ink); padding: 24px 28px;
+      background: rgba(255,255,255,.7); display: flex; flex-direction: column;
+    }
+    .top { display: flex; justify-content: space-between; align-items: flex-end; margin-bottom: 12px; }
+    .brand { letter-spacing: .2em; text-transform: uppercase; font-size: 12px; color: var(--accent); font-weight: 700; }
+    h1 { margin: 6px 0 0; font-family: Sora, "IBM Plex Sans", sans-serif; font-size: 44px; font-weight: 500; }
+    .month-line { width: 320px; font-size: 13px; }
+    .month-line span { display: block; border-bottom: 1.5px solid var(--ink); height: 28px; margin-top: 4px; }
+    table { width: 100%; flex: 1; border-collapse: collapse; table-layout: fixed; }
+    th {
+      font-size: 12px; font-weight: 700; letter-spacing: .08em; text-transform: uppercase;
+      color: var(--accent); padding: 8px; border-bottom: 2px solid var(--accent);
+    }
+    td {
+      border: 1px solid var(--line); height: 118px; vertical-align: top; padding: 10px;
+      background: rgba(255,255,255,.85);
+    }
+    td .box {
+      width: 20px; height: 20px; border: 1.5px solid var(--ink); border-radius: 2px; opacity: .35;
+    }
+    .foot { margin-top: 10px; font-size: 12px; color: #5a6b60; display: flex; justify-content: space-between; }
+  </style>
+</head>
+<body>
+  <div class="pad">
+    <div class="top">
+      <div>
+        <div class="brand">Fresh Calendars · Blank landscape</div>
+        <h1>Blank monthly</h1>
+      </div>
+      <div class="month-line">Month / Year <span></span></div>
+    </div>
+    <table>
+      <thead><tr>{{weekdayHeader}}</tr></thead>
+      <tbody>{{weeksHtml}}</tbody>
+    </table>
+    <div class="foot">
+      <span>Wide undated layout</span>
+      <span>freshcalendars.com</span>
+    </div>
+  </div>
+</body>
+</html>

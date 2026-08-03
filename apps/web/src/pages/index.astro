@@ -1,0 +1,41 @@
+---
+import Base from "../layouts/Base.astro";
+import {
+  resolveMonthYear,
+  resolvePlanningYear,
+  monthNumberToName,
+} from "@freshcalendars/engine";
+
+const today = new Date();
+const planning = resolvePlanningYear(today);
+const janYear = resolveMonthYear(1, today);
+const augYear = resolveMonthYear(8, today);
+---
+<Base title="Fresh Calendars — design preview" family="yearly">
+  <p class="eyebrow">Fresh Calendars · Astro design preview</p>
+  <h1>Premium calendar factory</h1>
+  <p>
+    Production pages with exact legacy filenames are built by
+    <code>pnpm fc build</code> (generator SSG). This Astro app holds the shared design system.
+  </p>
+  <ul>
+    <li>Planning year: <strong>{planning}</strong></li>
+    <li>{monthNumberToName(1)} resolves to <strong>{janYear}</strong></li>
+    <li>{monthNumberToName(8)} resolves to <strong>{augYear}</strong></li>
+  </ul>
+  <p>
+    <a href="/printable-calendars.html">Yearly hub</a> ·
+    <a href="/blank-calendars.html">Blank</a> ·
+    <a href="/january-calendars.html">January evergreen</a>
+  </p>
+</Base>
+
+<style>
+  .eyebrow {
+    letter-spacing: 0.18em;
+    text-transform: uppercase;
+    font-size: 0.8rem;
+    color: var(--yearly-accent);
+    font-weight: 700;
+  }
+</style>

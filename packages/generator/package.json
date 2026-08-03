@@ -1,0 +1,21 @@
+{
+  "name": "@freshcalendars/generator",
+  "version": "0.1.0",
+  "type": "module",
+  "dependencies": {
+    "@aws-sdk/client-s3": "^3.1101.0",
+    "@aws-sdk/lib-storage": "^3.1101.0",
+    "@fontsource/dm-sans": "^5.3.0",
+    "@fontsource/fraunces": "^5.3.0",
+    "@fontsource/manrope": "^5.3.0",
+    "@fontsource/sora": "^5.3.0",
+    "@fontsource/source-sans-3": "^5.3.0",
+    "@freshcalendars/engine": "workspace:*",
+    "@freshcalendars/templates": "workspace:*",
+    "playwright": "^1.51.0",
+    "sharp": "^0.35.3"
+  },
+  "devDependencies": {
+    "@types/sharp": "^0.32.0"
+  }
+}

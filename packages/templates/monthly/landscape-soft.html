@@ -1,0 +1,90 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <title>{{title}}</title>
+  <link href="https://fonts.googleapis.com/css2?family=Sora:wght@600;700&family=Manrope:wght@400;600;700&family=IBM+Plex+Sans:wght@400;600;700&display=swap" rel="stylesheet" />
+  <style>
+    :root { --ink:#1c2430; --moss:#007bff; --blush:#ec1d00; --sand:#e8eef3; --line:#c5d3dc; }
+    * { box-sizing: border-box; }
+    body {
+      margin: 0; width: 1600px; height: 1100px; padding: 36px 44px;
+      background:
+        radial-gradient(ellipse at 8% 20%, rgba(212,165,165,.35), transparent 42%),
+        radial-gradient(ellipse at 92% 80%, rgba(79,111,90,.22), transparent 45%),
+        linear-gradient(180deg, #f7f3ec, #e8efe8 55%, #f0e8df);
+      color: var(--ink);
+      font-family: "Nunito Sans", sans-serif;
+    }
+    .sheet {
+      height: 100%; display: flex; flex-direction: column;
+      border: 1.5px solid var(--moss); background: rgba(255,255,255,.78);
+      padding: 26px 34px 20px; position: relative; overflow: hidden;
+    }
+    .sheet::before, .sheet::after {
+      content: ""; position: absolute; pointer-events: none; border-radius: 50%;
+      opacity: .45;
+    }
+    .sheet::before {
+      width: 220px; height: 220px; top: -70px; left: -50px;
+      background: radial-gradient(circle, var(--blush), transparent 70%);
+    }
+    .sheet::after {
+      width: 280px; height: 280px; bottom: -100px; right: -60px;
+      background: radial-gradient(circle, rgba(79,111,90,.35), transparent 70%);
+    }
+    .head {
+      text-align: center; margin-bottom: 14px; position: relative; z-index: 1;
+    }
+    .brand {
+      font-size: 12px; letter-spacing: .28em; text-transform: uppercase;
+      color: var(--moss); font-weight: 700;
+    }
+    h1 {
+      margin: 4px 0 0; font-family: "Cormorant Garamond", serif;
+      font-size: 72px; font-weight: 600; line-height: .9; letter-spacing: .02em;
+      color: var(--ink);
+    }
+    .year-line {
+      margin-top: 4px; font-size: 18px; color: var(--moss); font-weight: 600;
+      letter-spacing: .16em; text-transform: uppercase;
+    }
+    table.cal {
+      width: 100%; flex: 1; border-collapse: collapse; table-layout: fixed;
+      position: relative; z-index: 1;
+    }
+    th {
+      font-family: "Cormorant Garamond", serif; font-size: 18px; font-weight: 600;
+      padding: 8px; color: var(--moss); border-bottom: 1.5px solid var(--blush);
+    }
+    td {
+      border: 1px solid var(--line); vertical-align: top; height: 118px; padding: 10px 12px;
+      background: rgba(255,253,248,.9);
+    }
+    td .n {
+      font-family: "Cormorant Garamond", serif; font-size: 26px; font-weight: 700;
+      color: var(--ink);
+    }
+    td.hol { background: rgba(212,165,165,.18); }
+    td.hol .n { color: #8a4f4f; }
+    .foot {
+      margin-top: 10px; text-align: center; font-size: 12px; letter-spacing: .14em;
+      text-transform: uppercase; color: #6a766c; position: relative; z-index: 1;
+    }
+  </style>
+</head>
+<body>
+  <div class="sheet">
+    <header class="head">
+      <div class="brand">Fresh Calendars</div>
+      <h1>{{monthName}}</h1>
+      <div class="year-line">{{year}} · {{subtitle}}</div>
+    </header>
+    <table class="cal">
+      <thead><tr>{{weekdayHeader}}</tr></thead>
+      <tbody>{{weeksHtml}}</tbody>
+    </table>
+    <div class="foot">Landscape printable · soft seasonal</div>
+  </div>
+</body>
+</html>

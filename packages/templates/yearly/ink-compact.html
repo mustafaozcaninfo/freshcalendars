@@ -1,0 +1,60 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <title>{{title}}</title>
+  <link href="https://fonts.googleapis.com/css2?family=Sora:wght@600;700&family=Manrope:wght@400;600;700&family=IBM+Plex+Sans:wght@400;600;700&display=swap" rel="stylesheet" />
+  <style>
+    * { box-sizing: border-box; }
+    body {
+      margin: 0; width: 1100px; height: 1420px; padding: 28px 32px;
+      background: #fff; color: #0a0a0a; font-family: "IBM Plex Sans", sans-serif;
+    }
+    .poster {
+      height: 100%; border: 3px solid #0a0a0a; padding: 18px 18px 14px;
+      display: flex; flex-direction: column;
+    }
+    .hero {
+      display: flex; justify-content: space-between; align-items: baseline;
+      border-bottom: 2px solid #0a0a0a; padding-bottom: 8px; margin-bottom: 10px;
+    }
+    .brand { font-size: 10px; letter-spacing: .28em; text-transform: uppercase; font-weight: 700; }
+    h1 {
+      margin: 2px 0 0; font-family: "IBM Plex Serif", serif; font-size: 42px; line-height: .95;
+      text-transform: uppercase; letter-spacing: -.02em;
+    }
+    .year-mark { font-size: 56px; font-weight: 700; letter-spacing: -.03em; }
+    .grid {
+      flex: 1; display: grid; grid-template-columns: repeat(3, 1fr); grid-template-rows: repeat(4, 1fr); gap: 8px;
+    }
+    .month { border: 1px solid #bbb; padding: 5px 5px 4px; }
+    .month h2 {
+      margin: 0 0 3px; font-size: 12px; font-weight: 700; letter-spacing: .06em; text-transform: uppercase;
+    }
+    table { width: 100%; border-collapse: collapse; table-layout: fixed; }
+    th { font-size: 7px; font-weight: 700; letter-spacing: .08em; text-transform: uppercase; padding: 0; color: #444; }
+    td { font-size: 9px; text-align: center; padding: 1px 0; height: 14px; font-variant-numeric: tabular-nums; }
+    td.hol { font-weight: 700; text-decoration: underline; text-underline-offset: 1px; }
+    .foot {
+      margin-top: 8px; font-size: 10px; letter-spacing: .12em; text-transform: uppercase;
+      display: flex; justify-content: space-between; color: #333;
+    }
+  </style>
+</head>
+<body>
+  <div class="poster">
+    <header class="hero">
+      <div>
+        <div class="brand">Fresh Calendars · Ink saver</div>
+        <h1>{{year}} compact</h1>
+      </div>
+      <div class="year-mark">{{year}}</div>
+    </header>
+    <div class="grid">{{monthsHtml}}</div>
+    <div class="foot">
+      <span>B&amp;W dense yearly</span>
+      <span>freshcalendars.com</span>
+    </div>
+  </div>
+</body>
+</html>

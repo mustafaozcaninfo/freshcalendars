@@ -1,0 +1,61 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <title>{{title}}</title>
+  <link href="https://fonts.googleapis.com/css2?family=Sora:wght@600;700&family=Manrope:wght@400;600;700&family=IBM+Plex+Sans:wght@400;600;700&display=swap" rel="stylesheet" />
+  <style>
+    :root { --ink:#0b3d66; --accent:#007bff; --gold:#fccc00; --paper:#dce8f4; --line:#b8c9d8; }
+    * { box-sizing: border-box; }
+    body {
+      margin: 0; width: 1600px; height: 1100px; padding: 28px 32px;
+      background: linear-gradient(120deg, #dce8f4 0%, #b8d4ec 50%, #9ec4e8 100%);
+      color: var(--ink); font-family: Manrope, "IBM Plex Sans", sans-serif;
+    }
+    .poster {
+      height: 100%; border: 2px solid var(--ink); background: rgba(255,253,248,.85);
+      padding: 20px 22px 16px; display: flex; flex-direction: column;
+    }
+    .hero {
+      display: flex; justify-content: space-between; align-items: flex-end;
+      border-bottom: 3px solid var(--gold, var(--accent)); padding-bottom: 10px; margin-bottom: 14px;
+    }
+    .brand { font-size: 12px; letter-spacing: .2em; text-transform: uppercase; color: var(--accent); font-weight: 600; }
+    h1 {
+      margin: 2px 0 0; font-family: Sora, "IBM Plex Sans", sans-serif; font-size: 48px; line-height: .95;
+      }
+    .year-mark {
+      font-family: Sora, "IBM Plex Sans", sans-serif; font-size: 88px; line-height: .8; color: var(--accent);
+      }
+    .grid {
+      flex: 1; display: grid; grid-template-columns: repeat(4, 1fr); grid-template-rows: repeat(3, 1fr);
+      gap: 12px;
+    }
+    .month { border: 1px solid var(--line); padding: 6px 7px 5px; background: #fff; }
+    .month h2 {
+      margin: 0 0 4px; font-family: Sora, "IBM Plex Sans", sans-serif; font-size: 14px; font-weight: 600; color: var(--accent);
+    }
+    table { width: 100%; border-collapse: collapse; table-layout: fixed; }
+    th { font-size: 8px; color: #7a6a58; font-weight: 600; padding: 1px 0; }
+    td { font-size: 11px; text-align: center; padding: 2px 0; height: 18px; font-variant-numeric: tabular-nums; }
+    td.hol { color: var(--accent); font-weight: 700; }
+    .foot { margin-top: 10px; display: flex; justify-content: space-between; font-size: 11px; color: #6a5a48; }
+  </style>
+</head>
+<body>
+  <div class="poster">
+    <header class="hero">
+      <div>
+        <div class="brand">Fresh Calendars · Landscape</div>
+        <h1>Year on the wall</h1>
+      </div>
+      <div class="year-mark">{{year}}</div>
+    </header>
+    <div class="grid">{{monthsHtml}}</div>
+    <div class="foot">
+      <span>Printable {{year}} landscape calendar</span>
+      <span>freshcalendars.com</span>
+    </div>
+  </div>
+</body>
+</html>

@@ -1,0 +1,71 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <title>{{title}}</title>
+  <link href="https://fonts.googleapis.com/css2?family=Sora:wght@600;700&family=Manrope:wght@400;600;700&family=IBM+Plex+Sans:wght@400;600;700&display=swap" rel="stylesheet" />
+  <style>
+    * { box-sizing: border-box; }
+    body {
+      margin: 0; width: 1100px; height: 1420px; padding: 48px 52px;
+      background: #fff; color: #0a0a0a;
+      font-family: "IBM Plex Sans", sans-serif;
+    }
+    .sheet {
+      height: 100%; display: flex; flex-direction: column;
+      border: 4px solid #0a0a0a; padding: 28px 30px 22px;
+    }
+    .head {
+      display: flex; justify-content: space-between; align-items: baseline;
+      border-bottom: 3px solid #0a0a0a; padding-bottom: 14px; margin-bottom: 18px;
+    }
+    .brand { font-size: 11px; letter-spacing: .28em; text-transform: uppercase; font-weight: 600; }
+    h1 {
+      margin: 4px 0 0; font-family: "IBM Plex Serif", serif;
+      font-size: 64px; line-height: .9; font-weight: 600; text-transform: uppercase;
+      letter-spacing: -.02em;
+    }
+    .year {
+      font-size: 48px; font-weight: 700; letter-spacing: -.03em;
+    }
+    .sub { display: block; font-size: 13px; font-weight: 400; text-align: right; margin-top: 4px; letter-spacing: .06em; text-transform: uppercase; }
+    table.cal { width: 100%; flex: 1; border-collapse: collapse; table-layout: fixed; }
+    th {
+      font-size: 12px; font-weight: 700; letter-spacing: .14em; text-transform: uppercase;
+      padding: 10px 6px; border-bottom: 2px solid #0a0a0a; text-align: center;
+    }
+    td {
+      border: 1px solid #c8c8c8; vertical-align: top; height: 168px; padding: 10px 12px;
+      background: #fff;
+    }
+    td .n { font-size: 22px; font-weight: 700; letter-spacing: -.02em; }
+    td.hol .n { text-decoration: underline; text-underline-offset: 3px; }
+    .foot {
+      margin-top: 12px; font-size: 11px; letter-spacing: .12em; text-transform: uppercase;
+      display: flex; justify-content: space-between; color: #444;
+    }
+  </style>
+</head>
+<body>
+  <div class="sheet">
+    <header class="head">
+      <div>
+        <div class="brand">Fresh Calendars</div>
+        <h1>{{monthName}}</h1>
+      </div>
+      <div>
+        <div class="year">{{year}}</div>
+        <span class="sub">{{subtitle}}</span>
+      </div>
+    </header>
+    <table class="cal">
+      <thead><tr>{{weekdayHeader}}</tr></thead>
+      <tbody>{{weeksHtml}}</tbody>
+    </table>
+    <div class="foot">
+      <span>Printable monthly · Sun–Sat</span>
+      <span>freshcalendars.com</span>
+    </div>
+  </div>
+</body>
+</html>

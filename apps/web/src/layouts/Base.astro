@@ -1,0 +1,58 @@
+---
+import "../styles/tokens.css";
+interface Props {
+  title: string;
+  family?: "yearly" | "monthly" | "blank" | "default";
+}
+const { title, family = "default" } = Astro.props;
+---
+<!doctype html>
+<html lang="en" data-family={family}>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>{title}</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;700&family=Fraunces:wght@700&display=swap" rel="stylesheet" />
+  </head>
+  <body>
+    <header class="bar">
+      <a class="brand" href="/">Fresh Calendars</a>
+      <nav>
+        <a href="/printable-calendars.html">Yearly</a>
+        <a href="/blank-calendars.html">Blank</a>
+        <a href="/holidays">Holidays</a>
+      </nav>
+    </header>
+    <main>
+      <slot />
+    </main>
+  </body>
+</html>
+
+<style is:global>
+  body {
+    margin: 0;
+    font-family: "DM Sans", system-ui, sans-serif;
+    background: var(--paper);
+    color: var(--ink);
+  }
+  .bar {
+    display: flex;
+    justify-content: space-between;
+    gap: 1rem;
+    padding: 1rem 1.5rem;
+    border-bottom: 1px solid var(--line);
+  }
+  .brand {
+    font-family: Fraunces, Georgia, serif;
+    font-weight: 700;
+    text-decoration: none;
+    color: inherit;
+    font-size: 1.4rem;
+  }
+  nav { display: flex; gap: 1rem; }
+  nav a { color: var(--muted); text-decoration: none; }
+  main { padding: 2rem 1.5rem 4rem; width: min(1100px, 100%); margin: 0 auto; }
+  h1 { font-family: Fraunces, Georgia, serif; line-height: 1.05; }
+</style>

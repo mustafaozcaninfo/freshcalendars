@@ -1,0 +1,11 @@
+{
+  "name": "@freshcalendars/templates",
+  "version": "0.1.0",
+  "type": "module",
+  "exports": {
+    "./yearly/print.html": "./yearly/print.html",
+    "./monthly/print.html": "./monthly/print.html",
+    "./blank/print.html": "./blank/print.html",
+    "./og.html": "./og.html"
+  }
+}

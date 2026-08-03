@@ -1,0 +1,42 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <title>{{title}}</title>
+  <link href="https://fonts.googleapis.com/css2?family=Sora:wght@600;700&family=Manrope:wght@400;600;700&family=IBM+Plex+Sans:wght@400;600;700&display=swap" rel="stylesheet" />
+  <style>
+    * { box-sizing: border-box; }
+    body {
+      margin: 0; width: 1100px; height: 1420px; padding: 28px 30px;
+      background: #fff; color: #111; font-family: "IBM Plex Sans", sans-serif;
+    }
+    .sheet { height: 100%; border: 3px solid #111; padding: 16px 16px 12px; display: flex; flex-direction: column; }
+    .head { display: flex; justify-content: space-between; align-items: baseline; border-bottom: 2px solid #111; padding-bottom: 8px; margin-bottom: 10px; }
+    .brand { font-size: 10px; letter-spacing: .22em; text-transform: uppercase; font-weight: 700; }
+    h1 { margin: 2px 0 0; font-size: 32px; font-weight: 700; letter-spacing: -.02em; }
+    .sub { font-size: 12px; color: #444; }
+    table { width: 100%; flex: 1; border-collapse: collapse; table-layout: fixed; }
+    th { font-size: 11px; font-weight: 700; letter-spacing: .06em; text-transform: uppercase; border-bottom: 2px solid #111; padding: 6px 4px; }
+    th.time { width: 48px; }
+    td { border: 1px solid #ccc; height: 72px; vertical-align: top; padding: 2px; }
+    td.time {
+      font-size: 9px; font-weight: 700; color: #555; text-align: right; padding-right: 6px;
+      border-left: none; vertical-align: middle; height: auto;
+    }
+    .foot { margin-top: 8px; font-size: 10px; letter-spacing: .1em; text-transform: uppercase; display: flex; justify-content: space-between; }
+  </style>
+</head>
+<body>
+  <div class="sheet">
+    <header class="head">
+      <div>
+        <div class="brand">Fresh Calendars · Hourly</div>
+        <h1>Week by the hour</h1>
+      </div>
+      <div class="sub">7am – 7pm · fill dates</div>
+    </header>
+    {{hourlyTableHtml}}
+    <div class="foot"><span>Hourly weekly planner</span><span>freshcalendars.com</span></div>
+  </div>
+</body>
+</html>
