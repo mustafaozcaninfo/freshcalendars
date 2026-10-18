@@ -8,6 +8,7 @@ import { buildRamadanDownloads } from "./ramadan.js";
 import { buildWeekNumberDownloads } from "./weeknumbers.js";
 import { buildMoonDownloads } from "./moon.js";
 import { buildLunarNewYearDownloads } from "./lunarnewyear.js";
+import { buildSocialSecurityDownloads } from "./socialsecurity.js";
 import { ROOT } from "./paths.js";
 import { purgeDoCdn, syncCdnAssets } from "./spaces.js";
 
@@ -90,6 +91,8 @@ async function main(): Promise<void> {
       await buildMoonDownloads();
     } else if (cmd === "news-lunar") {
       await buildLunarNewYearDownloads();
+    } else if (cmd === "news-ssa") {
+      await buildSocialSecurityDownloads();
     } else if (cmd === "rollover") {
       const to = Number(argValue("--to"));
       if (!to) throw new Error("--to YYYY required");
@@ -121,6 +124,7 @@ async function main(): Promise<void> {
   pnpm fc news-weeks                       # /news/ week number 2027 printables (PDF + PNG)
   pnpm fc news-moon                        # /news/ moon phases 2027 printables (PDF + PNG)
   pnpm fc news-lunar                       # /news/ Lunar New Year 2027 printables (PDF + PNG)
+  pnpm fc news-ssa                         # /news/ Social Security 2027 printables (PDF + PNG)
   pnpm fc refresh-evergreen
   pnpm fc rollover --to 2027 --confirm
   pnpm fc verify
