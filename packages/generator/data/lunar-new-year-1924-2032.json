@@ -1,0 +1,552 @@
+{
+ "source": "Hong Kong Observatory, Gregorian-Lunar Calendar Conversion Tables",
+ "url": "https://www.hko.gov.hk/en/gts/time/conversion.htm",
+ "retrieved": "2026-10-18",
+ "years": {
+  "1924": {
+   "lny": "1924-02-05",
+   "animal": "Mouse",
+   "stem": "Jia"
+  },
+  "1925": {
+   "lny": "1925-01-24",
+   "animal": "Ox",
+   "stem": "Yi"
+  },
+  "1926": {
+   "lny": "1926-02-13",
+   "animal": "Tiger",
+   "stem": "Bing"
+  },
+  "1927": {
+   "lny": "1927-02-02",
+   "animal": "Rabbit",
+   "stem": "Ding"
+  },
+  "1928": {
+   "lny": "1928-01-23",
+   "animal": "Dragon",
+   "stem": "Wu"
+  },
+  "1929": {
+   "lny": "1929-02-10",
+   "animal": "Snake",
+   "stem": "Ji"
+  },
+  "1930": {
+   "lny": "1930-01-30",
+   "animal": "Horse",
+   "stem": "Geng"
+  },
+  "1931": {
+   "lny": "1931-02-17",
+   "animal": "Goat",
+   "stem": "Xin"
+  },
+  "1932": {
+   "lny": "1932-02-06",
+   "animal": "Monkey",
+   "stem": "Ren"
+  },
+  "1933": {
+   "lny": "1933-01-26",
+   "animal": "Rooster",
+   "stem": "Gui"
+  },
+  "1934": {
+   "lny": "1934-02-14",
+   "animal": "Dog",
+   "stem": "Jia"
+  },
+  "1935": {
+   "lny": "1935-02-04",
+   "animal": "Pig",
+   "stem": "Yi"
+  },
+  "1936": {
+   "lny": "1936-01-24",
+   "animal": "Mouse",
+   "stem": "Bing"
+  },
+  "1937": {
+   "lny": "1937-02-11",
+   "animal": "Ox",
+   "stem": "Ding"
+  },
+  "1938": {
+   "lny": "1938-01-31",
+   "animal": "Tiger",
+   "stem": "Wu"
+  },
+  "1939": {
+   "lny": "1939-02-19",
+   "animal": "Rabbit",
+   "stem": "Ji"
+  },
+  "1940": {
+   "lny": "1940-02-08",
+   "animal": "Dragon",
+   "stem": "Geng"
+  },
+  "1941": {
+   "lny": "1941-01-27",
+   "animal": "Snake",
+   "stem": "Xin"
+  },
+  "1942": {
+   "lny": "1942-02-15",
+   "animal": "Horse",
+   "stem": "Ren"
+  },
+  "1943": {
+   "lny": "1943-02-05",
+   "animal": "Goat",
+   "stem": "Gui"
+  },
+  "1944": {
+   "lny": "1944-01-25",
+   "animal": "Monkey",
+   "stem": "Jia"
+  },
+  "1945": {
+   "lny": "1945-02-13",
+   "animal": "Rooster",
+   "stem": "Yi"
+  },
+  "1946": {
+   "lny": "1946-02-02",
+   "animal": "Dog",
+   "stem": "Bing"
+  },
+  "1947": {
+   "lny": "1947-01-22",
+   "animal": "Pig",
+   "stem": "Ding"
+  },
+  "1948": {
+   "lny": "1948-02-10",
+   "animal": "Mouse",
+   "stem": "Wu"
+  },
+  "1949": {
+   "lny": "1949-01-29",
+   "animal": "Ox",
+   "stem": "Ji"
+  },
+  "1950": {
+   "lny": "1950-02-17",
+   "animal": "Tiger",
+   "stem": "Geng"
+  },
+  "1951": {
+   "lny": "1951-02-06",
+   "animal": "Rabbit",
+   "stem": "Xin"
+  },
+  "1952": {
+   "lny": "1952-01-27",
+   "animal": "Dragon",
+   "stem": "Ren"
+  },
+  "1953": {
+   "lny": "1953-02-14",
+   "animal": "Snake",
+   "stem": "Gui"
+  },
+  "1954": {
+   "lny": "1954-02-03",
+   "animal": "Horse",
+   "stem": "Jia"
+  },
+  "1955": {
+   "lny": "1955-01-24",
+   "animal": "Goat",
+   "stem": "Yi"
+  },
+  "1956": {
+   "lny": "1956-02-12",
+   "animal": "Monkey",
+   "stem": "Bing"
+  },
+  "1957": {
+   "lny": "1957-01-31",
+   "animal": "Rooster",
+   "stem": "Ding"
+  },
+  "1958": {
+   "lny": "1958-02-18",
+   "animal": "Dog",
+   "stem": "Wu"
+  },
+  "1959": {
+   "lny": "1959-02-08",
+   "animal": "Pig",
+   "stem": "Ji"
+  },
+  "1960": {
+   "lny": "1960-01-28",
+   "animal": "Mouse",
+   "stem": "Geng"
+  },
+  "1961": {
+   "lny": "1961-02-15",
+   "animal": "Ox",
+   "stem": "Xin"
+  },
+  "1962": {
+   "lny": "1962-02-05",
+   "animal": "Tiger",
+   "stem": "Ren"
+  },
+  "1963": {
+   "lny": "1963-01-25",
+   "animal": "Rabbit",
+   "stem": "Gui"
+  },
+  "1964": {
+   "lny": "1964-02-13",
+   "animal": "Dragon",
+   "stem": "Jia"
+  },
+  "1965": {
+   "lny": "1965-02-02",
+   "animal": "Snake",
+   "stem": "Yi"
+  },
+  "1966": {
+   "lny": "1966-01-21",
+   "animal": "Horse",
+   "stem": "Bing"
+  },
+  "1967": {
+   "lny": "1967-02-09",
+   "animal": "Goat",
+   "stem": "Ding"
+  },
+  "1968": {
+   "lny": "1968-01-30",
+   "animal": "Monkey",
+   "stem": "Wu"
+  },
+  "1969": {
+   "lny": "1969-02-17",
+   "animal": "Rooster",
+   "stem": "Ji"
+  },
+  "1970": {
+   "lny": "1970-02-06",
+   "animal": "Dog",
+   "stem": "Geng"
+  },
+  "1971": {
+   "lny": "1971-01-27",
+   "animal": "Pig",
+   "stem": "Xin"
+  },
+  "1972": {
+   "lny": "1972-02-15",
+   "animal": "Mouse",
+   "stem": "Ren"
+  },
+  "1973": {
+   "lny": "1973-02-03",
+   "animal": "Ox",
+   "stem": "Gui"
+  },
+  "1974": {
+   "lny": "1974-01-23",
+   "animal": "Tiger",
+   "stem": "Jia"
+  },
+  "1975": {
+   "lny": "1975-02-11",
+   "animal": "Rabbit",
+   "stem": "Yi"
+  },
+  "1976": {
+   "lny": "1976-01-31",
+   "animal": "Dragon",
+   "stem": "Bing"
+  },
+  "1977": {
+   "lny": "1977-02-18",
+   "animal": "Snake",
+   "stem": "Ding"
+  },
+  "1978": {
+   "lny": "1978-02-07",
+   "animal": "Horse",
+   "stem": "Wu"
+  },
+  "1979": {
+   "lny": "1979-01-28",
+   "animal": "Goat",
+   "stem": "Ji"
+  },
+  "1980": {
+   "lny": "1980-02-16",
+   "animal": "Monkey",
+   "stem": "Geng"
+  },
+  "1981": {
+   "lny": "1981-02-05",
+   "animal": "Rooster",
+   "stem": "Xin"
+  },
+  "1982": {
+   "lny": "1982-01-25",
+   "animal": "Dog",
+   "stem": "Ren"
+  },
+  "1983": {
+   "lny": "1983-02-13",
+   "animal": "Pig",
+   "stem": "Gui"
+  },
+  "1984": {
+   "lny": "1984-02-02",
+   "animal": "Mouse",
+   "stem": "Jia"
+  },
+  "1985": {
+   "lny": "1985-02-20",
+   "animal": "Ox",
+   "stem": "Yi"
+  },
+  "1986": {
+   "lny": "1986-02-09",
+   "animal": "Tiger",
+   "stem": "Bing"
+  },
+  "1987": {
+   "lny": "1987-01-29",
+   "animal": "Rabbit",
+   "stem": "Ding"
+  },
+  "1988": {
+   "lny": "1988-02-17",
+   "animal": "Dragon",
+   "stem": "Wu"
+  },
+  "1989": {
+   "lny": "1989-02-06",
+   "animal": "Snake",
+   "stem": "Ji"
+  },
+  "1990": {
+   "lny": "1990-01-27",
+   "animal": "Horse",
+   "stem": "Geng"
+  },
+  "1991": {
+   "lny": "1991-02-15",
+   "animal": "Goat",
+   "stem": "Xin"
+  },
+  "1992": {
+   "lny": "1992-02-04",
+   "animal": "Monkey",
+   "stem": "Ren"
+  },
+  "1993": {
+   "lny": "1993-01-23",
+   "animal": "Rooster",
+   "stem": "Gui"
+  },
+  "1994": {
+   "lny": "1994-02-10",
+   "animal": "Dog",
+   "stem": "Jia"
+  },
+  "1995": {
+   "lny": "1995-01-31",
+   "animal": "Pig",
+   "stem": "Yi"
+  },
+  "1996": {
+   "lny": "1996-02-19",
+   "animal": "Mouse",
+   "stem": "Bing"
+  },
+  "1997": {
+   "lny": "1997-02-07",
+   "animal": "Ox",
+   "stem": "Ding"
+  },
+  "1998": {
+   "lny": "1998-01-28",
+   "animal": "Tiger",
+   "stem": "Wu"
+  },
+  "1999": {
+   "lny": "1999-02-16",
+   "animal": "Rabbit",
+   "stem": "Ji"
+  },
+  "2000": {
+   "lny": "2000-02-05",
+   "animal": "Dragon",
+   "stem": "Geng"
+  },
+  "2001": {
+   "lny": "2001-01-24",
+   "animal": "Snake",
+   "stem": "Xin"
+  },
+  "2002": {
+   "lny": "2002-02-12",
+   "animal": "Horse",
+   "stem": "Ren"
+  },
+  "2003": {
+   "lny": "2003-02-01",
+   "animal": "Goat",
+   "stem": "Gui"
+  },
+  "2004": {
+   "lny": "2004-01-22",
+   "animal": "Monkey",
+   "stem": "Jia"
+  },
+  "2005": {
+   "lny": "2005-02-09",
+   "animal": "Rooster",
+   "stem": "Yi"
+  },
+  "2006": {
+   "lny": "2006-01-29",
+   "animal": "Dog",
+   "stem": "Bing"
+  },
+  "2007": {
+   "lny": "2007-02-18",
+   "animal": "Pig",
+   "stem": "Ding"
+  },
+  "2008": {
+   "lny": "2008-02-07",
+   "animal": "Mouse",
+   "stem": "Wu"
+  },
+  "2009": {
+   "lny": "2009-01-26",
+   "animal": "Ox",
+   "stem": "Ji"
+  },
+  "2010": {
+   "lny": "2010-02-14",
+   "animal": "Tiger",
+   "stem": "Geng"
+  },
+  "2011": {
+   "lny": "2011-02-03",
+   "animal": "Rabbit",
+   "stem": "Xin"
+  },
+  "2012": {
+   "lny": "2012-01-23",
+   "animal": "Dragon",
+   "stem": "Ren"
+  },
+  "2013": {
+   "lny": "2013-02-10",
+   "animal": "Snake",
+   "stem": "Gui"
+  },
+  "2014": {
+   "lny": "2014-01-31",
+   "animal": "Horse",
+   "stem": "Jia"
+  },
+  "2015": {
+   "lny": "2015-02-19",
+   "animal": "Goat",
+   "stem": "Yi"
+  },
+  "2016": {
+   "lny": "2016-02-08",
+   "animal": "Monkey",
+   "stem": "Bing"
+  },
+  "2017": {
+   "lny": "2017-01-28",
+   "animal": "Rooster",
+   "stem": "Ding"
+  },
+  "2018": {
+   "lny": "2018-02-16",
+   "animal": "Dog",
+   "stem": "Wu"
+  },
+  "2019": {
+   "lny": "2019-02-05",
+   "animal": "Pig",
+   "stem": "Ji"
+  },
+  "2020": {
+   "lny": "2020-01-25",
+   "animal": "Mouse",
+   "stem": "Geng"
+  },
+  "2021": {
+   "lny": "2021-02-12",
+   "animal": "Ox",
+   "stem": "Xin"
+  },
+  "2022": {
+   "lny": "2022-02-01",
+   "animal": "Tiger",
+   "stem": "Ren"
+  },
+  "2023": {
+   "lny": "2023-01-22",
+   "animal": "Rabbit",
+   "stem": "Gui"
+  },
+  "2024": {
+   "lny": "2024-02-10",
+   "animal": "Dragon",
+   "stem": "Jia"
+  },
+  "2025": {
+   "lny": "2025-01-29",
+   "animal": "Snake",
+   "stem": "Yi"
+  },
+  "2026": {
+   "lny": "2026-02-17",
+   "animal": "Horse",
+   "stem": "Bing"
+  },
+  "2027": {
+   "lny": "2027-02-06",
+   "animal": "Goat",
+   "stem": "Ding"
+  },
+  "2028": {
+   "lny": "2028-01-26",
+   "animal": "Monkey",
+   "stem": "Wu"
+  },
+  "2029": {
+   "lny": "2029-02-13",
+   "animal": "Rooster",
+   "stem": "Ji"
+  },
+  "2030": {
+   "lny": "2030-02-03",
+   "animal": "Dog",
+   "stem": "Geng"
+  },
+  "2031": {
+   "lny": "2031-01-23",
+   "animal": "Pig",
+   "stem": "Xin"
+  },
+  "2032": {
+   "lny": "2032-02-11",
+   "animal": "Mouse",
+   "stem": "Ren"
+  }
+ }
+}

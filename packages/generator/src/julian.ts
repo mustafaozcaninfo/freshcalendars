@@ -22,7 +22,7 @@ const SITE = "freshcalendars.com/news/julian-date-calendar-2027-2026-printable/"
 
 // US Letter at 96 px/in; PNGs are rendered at 2x for print quality.
 export const LETTER = { width: 816, height: 1056 };
-const LETTER_LANDSCAPE = { width: 1056, height: 816 };
+export const LETTER_LANDSCAPE = { width: 1056, height: 816 };
 
 const MONTHS = ["January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December"];
 const MON3 = MONTHS.map((m) => m.slice(0, 3));

@@ -250,7 +250,9 @@ check("08-ABBREV", "Abbreviations defined on first use in article prose (§08 l.
       // Proper names written in capitals, not abbreviations.
       "TIME", "GOV", "NORC",
       // Phone mnemonics (1-800-MEDICARE).
-      "MEDICARE"]);
+      "MEDICARE",
+      // Spreadsheet function names.
+      "WEEKNUM", "ISOWEEKNUM"]);
     const undefined_ = [];
     const seen = new Set();
     for (const m of text.matchAll(/\b([A-Z][A-Z-]{1,}[A-Z])\b/g)) {
