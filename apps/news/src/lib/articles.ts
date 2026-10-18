@@ -7,7 +7,7 @@ const SLUG = /^[a-z0-9]+(?:-[a-z0-9]+)*$/;
 /** Discover / Article rich results want large images; 1600px also covers 2x on 800px layouts. */
 export const HERO_MIN_WIDTH = 1600;
 /** Slugs that are section/policy routes under /news/. */
-const RESERVED = new Set<string>(["page", "category", "author", "404", ...POLICY_PAGES]);
+const RESERVED = new Set<string>(["page", "category", "author", "printables", "404", ...POLICY_PAGES]);
 
 /**
  * Articles that may be rendered: no drafts in production builds and nothing

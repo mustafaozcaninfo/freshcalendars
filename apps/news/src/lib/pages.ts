@@ -13,8 +13,8 @@ import { paginate, type Page } from "./listing";
 
 export const HOME = {
   heading: "Calendar & Holiday News",
-  intro: "Date changes that affect your calendar: federal and state holidays, daylight saving time, school calendars and key retail dates.",
-  description: "Holiday date changes, daylight saving time updates, school calendar decisions and other date news from the Fresh Calendars News Desk.",
+  intro: "Dates that change your calendar: holidays, clock changes, Social Security and Medicare deadlines, the Moon and religious calendars, each with free printables.",
+  description: "Holiday dates, clock changes, Social Security and Medicare deadlines, moon phases and religious calendars from the Fresh Calendars News Desk.",
 };
 
 export async function homePages(): Promise<Page<Article>[]> {

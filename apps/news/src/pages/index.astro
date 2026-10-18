@@ -1,27 +1,21 @@
 ---
-import ListingView from "../components/ListingView.astro";
+import HomeView from "../components/HomeView.astro";
 import { getActiveCategories, getCategoryNames, getPublishedArticles } from "../lib/articles";
 import { getCollection } from "astro:content";
-import { authorHref } from "../lib/articles";
 import { HOME, homePages } from "../lib/pages";
 
 const [page] = await homePages();
+const all = await getPublishedArticles();
 // Bylines on the hub keep every author page linked, even before a first story.
-const authors = await getCollection("authors");
-const chips = (await getActiveCategories(await getPublishedArticles())).map((c) => ({ id: c.id, name: c.data.name }));
+const authors = (await getCollection("authors")).map((a) => ({ id: a.id, name: a.data.name }));
 ---
-<ListingView
+<HomeView
   page={page!}
+  all={all}
   heading={HOME.heading}
   intro={HOME.intro}
   description={HOME.description}
-  trail={[{ name: "News", path: "/news/" }]}
-  kind="CollectionPage"
+  categories={await getActiveCategories(all)}
   categoryNames={await getCategoryNames()}
-  chips={chips}
->
-  <p class="desk">Reported by {authors.map((a, i) => <>{i > 0 && ", "}<a href={authorHref(a.id)}>{a.data.name}</a></>)}.</p>
-</ListingView>
-<style>
-  .desk{margin:-.5rem 0 1.25rem;font-size:.95rem;color:var(--ink)}
-</style>
+  authors={authors}
+/>

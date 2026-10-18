@@ -1,0 +1,248 @@
+---
+/**
+ * News home (page 1): lead story with a latest column, "Coming up" dates, the newest free
+ * printables, one block per category, then the full story list. Later pages use ListingView.
+ * The only scripts are a small client-side search over the stories on this page and the
+ * "in N days" refresh for cached copies.
+ */
+import { Image } from "astro:assets";
+import NewsBase from "../layouts/NewsBase.astro";
+import ArticleCard from "./ArticleCard.astro";
+import Breadcrumb from "./Breadcrumb.astro";
+import Pagination from "./Pagination.astro";
+import type { Article, Category } from "../lib/articles";
+import { authorHref, categoryHref } from "../lib/articles";
+import { pagedTitle, type Page } from "../lib/listing";
+import { upcoming } from "../lib/keydates";
+import { allPrintables, PRINTABLES_PATH } from "../lib/printables";
+import { articlePath, formatDateET, isoDateTime, listingGraph } from "../lib/seo";
+
+interface Props {
+  page: Page<Article>;
+  all: Article[];
+  heading: string;
+  intro: string;
+  description: string;
+  categories: Category[];
+  categoryNames: Map<string, string>;
+  authors: { id: string; name: string }[];
+}
+const { page, all, heading, intro, description, categories, categoryNames, authors } = Astro.props;
+const [lead, ...others] = page.items;
+const latest = others.slice(0, 4);
+const dates = upcoming(new Set(all.map((a) => a.id)), 6);
+const printables = allPrintables(all);
+const strip = printables.slice(0, 6);
+const sections = categories
+  .map((c) => ({ c, items: all.filter((a) => a.data.category.id === c.id).slice(0, 3), total: all.filter((a) => a.data.category.id === c.id).length }))
+  .filter((s) => s.items.length > 0);
+const counts = new Map(sections.map((s) => [s.c.id, s.total]));
+const monthDay = (iso: string) => new Date(`${iso}T12:00:00Z`).toLocaleDateString("en-US", { month: "short", day: "numeric", timeZone: "UTC" });
+const weekday = (iso: string) => new Date(`${iso}T12:00:00Z`).toLocaleDateString("en-US", { weekday: "short", timeZone: "UTC" });
+const inDays = (n: number) => (n === 0 ? "Today" : n === 1 ? "Tomorrow" : `In ${n} days`);
+// Search index: every published story (small; one entry per story).
+const index = all.map((a) => ({ t: a.data.title, d: a.data.description, k: a.data.keywords.join(" "), c: categoryNames.get(a.data.category.id) ?? "", u: articlePath(a.id) }));
+const jsonLd = listingGraph({
+  path: page.path,
+  name: heading,
+  description,
+  trail: [{ name: "News", path: "/news/" }],
+  items: page.items.map((a) => ({ path: articlePath(a.id), name: a.data.title })),
+  kind: "CollectionPage",
+});
+---
+<NewsBase title={pagedTitle(heading, 1)} description={description} path={page.path} jsonLd={jsonLd}>
+  <div class="home">
+    <Breadcrumb items={[{ name: "Home", href: "/" }, { name: "News", href: "/news/" }]} />
+    <header class="top">
+      <div>
+        <h1>{heading}</h1>
+        <p class="news-lede">{intro}</p>
+        <p class="desk">Reported by {authors.map((a, i) => <>{i > 0 && ", "}<a href={authorHref(a.id)}>{a.name}</a></>)} · <a href={PRINTABLES_PATH}>{printables.length} free printables</a></p>
+      </div>
+      <form class="search" role="search" action="/news/" onsubmit="return false" data-index={JSON.stringify(index)}>
+        <label for="news-q">Search the news</label>
+        <input id="news-q" type="search" placeholder="Try “COLA”, “full moon” or “Ramadan”" autocomplete="off" aria-controls="news-results" />
+        <p class="count" id="news-count" aria-live="polite"></p>
+        <ul id="news-results" class="results" hidden></ul>
+      </form>
+    </header>
+
+    <nav class="chips" aria-label="News categories">
+      {sections.map((s) => <a href={categoryHref(s.c.id)}>{s.c.data.name}<span>{counts.get(s.c.id)}</span></a>)}
+      <a class="pr" href={PRINTABLES_PATH}>Free printables<span>{printables.length}</span></a>
+    </nav>
+
+    {lead && (
+      <section class="lead-grid" aria-label="Top stories">
+        <div class="lead-story"><ArticleCard article={lead} categoryName={categoryNames.get(lead.data.category.id) ?? ""} featured /></div>
+        {latest.length > 0 && (
+          <div class="latest">
+            <h2 class="sec">Latest</h2>
+            <ol>
+              {latest.map((a) => (
+                <li>
+                  <p class="cat"><a href={categoryHref(a.data.category.id)}>{categoryNames.get(a.data.category.id)}</a></p>
+                  <h3><a href={articlePath(a.id)}>{a.data.title}</a></h3>
+                  <time datetime={isoDateTime(a.data.publishedAt)}>{formatDateET(a.data.publishedAt)}</time>
+                </li>
+              ))}
+            </ol>
+          </div>
+        )}
+      </section>
+    )}
+
+    {dates.length > 0 && (
+      <section class="upcoming" aria-labelledby="up-title">
+        <h2 class="sec" id="up-title">Coming up</h2>
+        <ol>
+          {dates.map((k) => (
+            <li>
+              <a href={articlePath(k.slug)}>
+                <span class="date"><b>{monthDay(k.date)}</b>{weekday(k.date)}</span>
+                <span class="what">{k.label}</span>
+                <span class="in" data-date={k.date}>{inDays(k.days)}</span>
+              </a>
+            </li>
+          ))}
+        </ol>
+      </section>
+    )}
+
+    {strip.length > 0 && (
+      <section class="strip" aria-labelledby="pr-title">
+        <div class="sec-head"><h2 class="sec" id="pr-title">Free printables</h2><a href={PRINTABLES_PATH}>All {printables.length} printables →</a></div>
+        <ul>
+          {strip.map((p) => (
+            <li>
+              <a href={p.article.href + "#downloads"}>
+                <Image src={p.preview} alt={p.alt} title={p.title} widths={[180, 270, 360]} sizes="(max-width: 700px) 42vw, 170px" format="webp" quality={62} loading="lazy" decoding="async" />
+                <span>{p.title}</span>
+              </a>
+            </li>
+          ))}
+        </ul>
+      </section>
+    )}
+
+    <div class="sections">
+      {sections.map((s) => (
+        <section class="cat-block" aria-labelledby={`sec-${s.c.id}`}>
+          <div class="sec-head"><h2 class="sec" id={`sec-${s.c.id}`}><a href={categoryHref(s.c.id)}>{s.c.data.name}</a></h2>{s.total > s.items.length && <a href={categoryHref(s.c.id)}>More →</a>}</div>
+          <div class="tiles">{s.items.map((a) => <ArticleCard article={a} categoryName={s.c.data.name} headingLevel={3} tile />)}</div>
+        </section>
+      ))}
+    </div>
+
+    <section class="all" aria-labelledby="all-title">
+      <h2 class="sec" id="all-title">All stories</h2>
+      <ol>
+        {page.items.map((a) => (
+          <li><a href={articlePath(a.id)}>{a.data.title}</a> <time datetime={isoDateTime(a.data.publishedAt)}>{formatDateET(a.data.publishedAt)}</time></li>
+        ))}
+      </ol>
+      <Pagination page={page} />
+    </section>
+  </div>
+  <script is:inline>
+    (() => {
+      const q = document.getElementById("news-q"), out = document.getElementById("news-results"), count = document.getElementById("news-count");
+      const idx = JSON.parse(q.form.dataset.index);
+      const esc = (s) => s.replace(/[&<>"]/g, (c) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;" })[c]);
+      const run = () => {
+        const terms = q.value.toLowerCase().split(/\s+/).filter(Boolean);
+        if (!terms.length) { out.hidden = true; out.innerHTML = ""; count.textContent = ""; return; }
+        const hits = idx.filter((a) => { const h = (a.t + " " + a.d + " " + a.k + " " + a.c).toLowerCase(); return terms.every((t) => h.includes(t)); });
+        out.innerHTML = hits.slice(0, 8).map((a) => `<li><a href="${a.u}"><b>${esc(a.t)}</b><span>${esc(a.c)}</span></a></li>`).join("") || "<li class=none>No stories match. Try another word.</li>";
+        out.hidden = false;
+        count.textContent = hits.length === 1 ? "1 story found" : hits.length + " stories found";
+      };
+      q.addEventListener("input", run);
+      q.addEventListener("keydown", (e) => { if (e.key === "Escape") { q.value = ""; run(); } });
+      document.addEventListener("keydown", (e) => { if (e.key === "/" && document.activeElement !== q && !/input|textarea/i.test(document.activeElement.tagName)) { e.preventDefault(); q.focus(); } });
+      // Cached copies: recompute "in N days" from today's date in New York.
+      const today = new Intl.DateTimeFormat("en-CA", { timeZone: "America/New_York" }).format(new Date());
+      for (const el of document.querySelectorAll(".upcoming [data-date]")) {
+        const n = Math.round((Date.parse(el.dataset.date) - Date.parse(today)) / 864e5);
+        if (n < 0) el.closest("li").remove(); else el.textContent = n === 0 ? "Today" : n === 1 ? "Tomorrow" : "In " + n + " days";
+      }
+    })();
+  </script>
+</NewsBase>
+<style>
+  .home{width:min(1120px,calc(100% - 2rem));margin:0 auto;padding:clamp(1.5rem,4vw,2.5rem) 0}
+  .home h1{font-family:Sora,"Sora Fallback",ui-sans-serif,system-ui,sans-serif;color:var(--ink-strong);font-size:clamp(1.9rem,5vw,2.6rem);line-height:1.15;margin:0 0 .6rem}
+  .top{display:grid;gap:1.25rem;margin-bottom:1rem}
+  .desk{margin:.6rem 0 0;font-size:.95rem;color:var(--ink)}
+  .sec{font-family:Sora,"Sora Fallback",sans-serif;font-size:1.15rem;color:var(--ink-strong);margin:0 0 .75rem}
+  .sec a{color:var(--ink-strong);text-decoration:none}
+  .sec-head{display:flex;justify-content:space-between;align-items:baseline;gap:1rem;border-bottom:3px solid var(--ink-strong);margin-bottom:1rem}
+  .sec-head .sec{margin:0 0 .4rem}
+  .sec-head > a{font-weight:700;font-size:.92rem;text-decoration:none;padding:.5rem 0}
+
+  .search{position:relative;align-self:end}
+  .search label{display:block;font-weight:700;color:var(--ink-strong);margin-bottom:.35rem}
+  .search input{width:100%;min-height:48px;padding:0 1rem;border:2px solid var(--line);border-radius:6px;font:inherit;font-size:1rem;color:var(--ink-strong);background:#fff}
+  .search input:focus{outline:3px solid var(--gold);outline-offset:1px;border-color:var(--focus)}
+  .count{margin:.3rem 0 0;font-size:.85rem;color:var(--ink);min-height:1.2em}
+  .results{position:absolute;z-index:20;left:0;right:0;top:calc(100% - .25rem);list-style:none;margin:0;padding:.35rem;background:#fff;border:1px solid var(--line);border-radius:6px;box-shadow:0 12px 30px rgba(0,0,0,.14);max-height:60vh;overflow:auto}
+  .results :global(a){display:block;padding:.6rem .7rem;border-radius:4px;text-decoration:none;color:var(--ink-strong)}
+  .results :global(a:hover),.results :global(a:focus-visible){background:#eef5fb}
+  .results :global(b){display:block;font-size:.95rem;line-height:1.3}
+  .results :global(span){font-size:.8rem;color:var(--ink)}
+  .results :global(.none){padding:.6rem .7rem;color:var(--ink)}
+
+  .chips{display:flex;flex-wrap:wrap;gap:.5rem;margin:0 0 1.75rem}
+  .chips a{display:inline-flex;align-items:center;gap:.45rem;min-height:44px;padding:0 .9rem;border:1px solid var(--line);border-radius:999px;color:var(--ink-strong);text-decoration:none;font-weight:700;font-size:.9rem;background:#fff}
+  .chips a span{display:inline-grid;place-items:center;min-width:1.5rem;height:1.5rem;padding:0 .35rem;border-radius:999px;background:var(--wash);font-size:.75rem;color:var(--ink-strong)}
+  .chips a:hover,.chips a:focus-visible{border-color:var(--focus);color:var(--focus)}
+  .chips a.pr{border-color:var(--gold);background:#fffaf0}
+
+  .lead-grid{display:grid;gap:1.5rem;margin-bottom:2rem}
+  .latest ol{list-style:none;margin:0;padding:0}
+  .latest li{padding:.8rem 0;border-top:1px solid var(--line-soft)}
+  .latest li:first-child{border-top:0;padding-top:0}
+  .latest .cat{margin:0 0 .2rem;font-size:.72rem;font-weight:700;text-transform:uppercase;letter-spacing:.06em}
+  .latest .cat a{color:var(--focus);text-decoration:none}
+  .latest h3{font-family:Sora,"Sora Fallback",sans-serif;font-size:1rem;line-height:1.3;margin:0 0 .3rem}
+  .latest h3 a{color:var(--ink-strong);text-decoration:none}
+  .latest h3 a:hover,.latest h3 a:focus-visible{text-decoration:underline}
+  .latest time,.all time{font-size:.82rem;color:var(--ink)}
+
+  .upcoming{margin:0 0 2.25rem;padding:1.1rem 1.1rem .4rem;background:#f3f8fc;border:1px solid #d6e6f3;border-radius:8px}
+  .upcoming ol{list-style:none;margin:0;padding:0;display:grid;gap:.6rem}
+  .upcoming a{display:grid;grid-template-columns:4.2rem 1fr auto;gap:.85rem;align-items:center;padding:.6rem .7rem;background:#fff;border:1px solid #d6e6f3;border-radius:6px;text-decoration:none;color:var(--ink-strong);min-height:56px}
+  .upcoming a:hover,.upcoming a:focus-visible{border-color:var(--focus)}
+  .upcoming .date{display:grid;text-align:center;font-size:.75rem;color:var(--ink);text-transform:uppercase;letter-spacing:.04em;border-right:1px solid var(--line-soft);padding-right:.6rem}
+  .upcoming .date b{font-family:Sora,"Sora Fallback",sans-serif;font-size:1rem;color:var(--focus);text-transform:none;letter-spacing:0}
+  .upcoming .what{font-weight:700;line-height:1.3}
+  .upcoming .in{font-size:.8rem;font-weight:700;color:#7a5200;background:#fff4cc;border-radius:999px;padding:.2rem .6rem;white-space:nowrap}
+
+  .strip{margin:0 0 2.25rem}
+  .strip ul{list-style:none;margin:0;padding:0;display:grid;grid-template-columns:repeat(2,1fr);gap:1rem}
+  .strip a{display:grid;gap:.5rem;text-decoration:none;color:var(--ink-strong);font-weight:700;font-size:.9rem;line-height:1.3}
+  .strip :global(img){display:block;width:100%;height:auto;aspect-ratio:17/22;object-fit:cover;object-position:top;border:1px solid var(--line-soft);border-radius:6px;background:#fff;box-shadow:0 2px 8px rgba(0,0,0,.06)}
+  .strip a:hover span,.strip a:focus-visible span{text-decoration:underline}
+
+  .sections{display:grid;gap:2.25rem;margin-bottom:2.25rem}
+  .tiles{display:grid;gap:1.25rem}
+
+  .all ol{margin:0;padding-left:1.25rem;columns:1}
+  .all li{margin:0 0 .55rem;break-inside:avoid}
+  .all li a{font-weight:700;color:var(--ink-strong)}
+
+  @media (min-width:700px){
+    .strip ul{grid-template-columns:repeat(3,1fr)}
+    .tiles{grid-template-columns:repeat(3,1fr)}
+    .upcoming ol{grid-template-columns:repeat(2,1fr)}
+    .all ol{columns:2;column-gap:2.5rem}
+  }
+  @media (min-width:960px){
+    .top{grid-template-columns:1fr 380px;align-items:end;gap:2.5rem}
+    .lead-grid{grid-template-columns:minmax(0,1fr) 340px;gap:2.5rem}
+    .latest{border-left:1px solid var(--line-soft);padding-left:2rem}
+    .strip ul{grid-template-columns:repeat(6,1fr)}
+    .upcoming ol{grid-template-columns:repeat(3,1fr)}
+  }
+</style>

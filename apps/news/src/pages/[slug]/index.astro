@@ -14,9 +14,11 @@ import KeyPoints from "../../components/KeyPoints.astro";
 import RelatedGrid from "../../components/RelatedGrid.astro";
 import Sources from "../../components/Sources.astro";
 import Toc from "../../components/Toc.astro";
+import ArticleAside from "../../components/ArticleAside.astro";
+import ShareBar from "../../components/ShareBar.astro";
 import { authorHref, getPublishedArticles, lastModified, type Article } from "../../lib/articles";
 import { heroImages } from "../../lib/images";
-import { SITE_ORIGIN } from "../../lib/site";
+import { SITE_ORIGIN, absNewsUrl } from "../../lib/site";
 import { pickRelated } from "../../lib/related";
 import {
   articleGraph,
@@ -104,6 +106,8 @@ const related = pickRelated(
   headTags={articleHeadTags(seo)}
   jsonLd={articleGraph(seo)}
 >
+  <div class="progress" aria-hidden="true"><span></span></div>
+  <div class="article-layout">
   <article class="news-wrap article">
     <Breadcrumb items={[
       { name: "Home", href: "/" },
@@ -128,6 +132,10 @@ const related = pickRelated(
     <div class="prose-news">
       <Content />
     </div>
+    <div class="after">
+      <ShareBar url={absNewsUrl(articlePath(article.id))} title={d.title} />
+      <a class="top-link" href="#main">Back to top ↑</a>
+    </div>
     <AdSlot label="News in-article" />
     <CalendarLinks links={d.internalLinks} />
     <Faq items={d.faq} />
@@ -138,6 +146,25 @@ const related = pickRelated(
     ))}
     <RelatedGrid items={related} />
   </article>
+  <ArticleAside headings={headings} downloads={d.downloads.length} url={absNewsUrl(articlePath(article.id))} title={d.title} />
+  </div>
+  <script is:inline>
+    (() => {
+      // Reading progress (transform only, no layout work) and the current section in the sidebar.
+      const bar = document.querySelector(".progress span"), body = document.querySelector(".prose-news");
+      const tick = () => { const r = body.getBoundingClientRect(), h = r.height - innerHeight; bar.style.transform = "scaleX(" + Math.min(1, Math.max(0, h > 0 ? -r.top / h : 1)) + ")"; };
+      addEventListener("scroll", () => requestAnimationFrame(tick), { passive: true }); tick();
+      const links = new Map([...document.querySelectorAll("[data-toc]")].map((a) => [a.dataset.toc, a]));
+      if (links.size && "IntersectionObserver" in window) {
+        const io = new IntersectionObserver((es) => { for (const e of es) if (e.isIntersecting) { links.forEach((a) => a.classList.remove("on")); links.get(e.target.id)?.classList.add("on"); } }, { rootMargin: "0px 0px -70% 0px" });
+        links.forEach((_, id) => { const h = document.getElementById(id); if (h) io.observe(h); });
+      }
+      for (const b of document.querySelectorAll(".share .copy")) b.addEventListener("click", async () => {
+        try { await navigator.clipboard.writeText(b.dataset.url); b.textContent = "Link copied"; b.classList.add("done"); setTimeout(() => { b.textContent = "Copy link"; b.classList.remove("done"); }, 2000); } catch { prompt("Copy this link:", b.dataset.url); }
+      });
+      if (navigator.share) for (const b of document.querySelectorAll(".share .native")) { b.hidden = false; b.addEventListener("click", () => navigator.share({ title: b.dataset.title, url: b.dataset.url }).catch(() => {})); }
+    })();
+  </script>
 </NewsBase>
 
 <style>
@@ -157,4 +184,17 @@ const related = pickRelated(
   .prose-news :global(th),.prose-news :global(td){border:1px solid var(--line-soft);padding:.5rem;text-align:left}
   .article :global(section h2),.article :global(aside h2){font-family:Sora,"Sora Fallback",sans-serif;color:var(--ink-strong)}
   .article :global(section){margin:2rem 0}
+  .progress{position:fixed;left:0;right:0;top:0;height:4px;z-index:70;pointer-events:none}
+  .progress span{display:block;height:100%;background:var(--gold);transform:scaleX(0);transform-origin:0 50%}
+  .after{display:flex;flex-wrap:wrap;justify-content:space-between;align-items:flex-end;gap:1rem;margin:2rem 0 0;padding-top:1.25rem;border-top:1px solid var(--line-soft)}
+  .top-link{display:inline-flex;align-items:center;min-height:44px;font-weight:700;margin-bottom:1.25rem}
+  @media (min-width:1100px){
+    .article-layout{display:grid;grid-template-columns:minmax(0,720px) 260px;gap:3.5rem;justify-content:center;width:min(1120px,calc(100% - 2rem));margin:0 auto}
+    .article-layout > .article{width:auto;margin:0}
+    .article-layout :global(.aside){padding-top:clamp(1.75rem,4vw,2.75rem)}
+  }
+  @media print{
+    .progress,.after,:global(.aside),:global(.site-header),:global(.site-footer),:global(.ad-slot){display:none!important}
+    .prose-news{font-size:11pt}
+  }
 </style>

@@ -3,20 +3,20 @@ import { Image } from "astro:assets";
 import type { Article } from "../lib/articles";
 import { categoryHref } from "../lib/articles";
 import { articlePath, formatDateET, isoDateTime } from "../lib/seo";
-interface Props { article: Article; categoryName: string; featured?: boolean; headingLevel?: 2 | 3 }
-const { article, categoryName, featured = false, headingLevel = 2 } = Astro.props;
+interface Props { article: Article; categoryName: string; featured?: boolean; headingLevel?: 2 | 3; /** Image-on-top card for home section grids. */ tile?: boolean }
+const { article, categoryName, featured = false, headingLevel = 2, tile = false } = Astro.props;
 const d = article.data;
 const H = `h${headingLevel}` as "h2" | "h3";
 const href = articlePath(article.id);
 ---
-<article class:list={["card", { featured }]}>
+<article class:list={["card", { featured, tile }]}>
   <a class="thumb" href={href} tabindex="-1" aria-hidden="true">
     <Image
       src={d.hero.src}
       alt={d.hero.alt}
       title={d.hero.title ?? d.title}
-      widths={featured ? [400, 640, 828, 1080, 1344] : [160, 240, 320]}
-      sizes={featured ? "(max-width: 752px) calc(100vw - 2rem), 720px" : "120px"}
+      widths={featured ? [400, 640, 828, 1080, 1344] : tile ? [320, 480, 640] : [160, 240, 320]}
+      sizes={featured ? "(max-width: 752px) calc(100vw - 2rem), 720px" : tile ? "(max-width: 700px) calc(100vw - 2rem), 340px" : "120px"}
       format="webp"
       quality={62}
       loading={featured ? "eager" : "lazy"}
@@ -45,4 +45,7 @@ const href = articlePath(article.id);
   .featured .thumb{order:0}
   .featured .title{font-size:clamp(1.3rem,4vw,1.75rem)}
   .desc{margin:0 0 .5rem;color:var(--ink-strong)}
+  .tile{grid-template-columns:1fr;gap:.6rem;border-top:0;padding:0}
+  .tile .thumb{order:0}
+  .tile .title{font-size:1rem}
 </style>

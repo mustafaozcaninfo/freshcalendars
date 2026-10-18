@@ -1,0 +1,42 @@
+---
+/** Wide-screen sidebar: sticky contents list with the current section highlighted, printables and share. */
+import type { MarkdownHeading } from "astro";
+import ShareBar from "./ShareBar.astro";
+import { PRINTABLES_PATH } from "../lib/printables";
+interface Props { headings: MarkdownHeading[]; downloads: number; url: string; title: string }
+const { headings, downloads, url, title } = Astro.props;
+const items = headings.filter((h) => h.depth === 2);
+---
+<aside class="aside" aria-label="Article tools">
+  <div class="stick">
+    {items.length >= 3 && (
+      <nav class="toc-side" aria-labelledby="toc-side-title">
+        <p class="tool-label" id="toc-side-title">On this page</p>
+        <ol>{items.map((h) => <li><a href={`#${h.slug}`} data-toc={h.slug}>{h.text}</a></li>)}</ol>
+      </nav>
+    )}
+    {downloads > 0 && (
+      <a class="dl" href="#downloads"><b>{downloads} free printable{downloads === 1 ? "" : "s"}</b><span>PDF and PNG, no sign-up</span></a>
+    )}
+    <ShareBar url={url} title={title} compact />
+    <a class="all-pr" href={PRINTABLES_PATH}>Browse all printables →</a>
+  </div>
+</aside>
+<style>
+  .aside{display:none}
+  @media (min-width:1100px){
+    .aside{display:block}
+    .stick{position:sticky;top:5.25rem;max-height:calc(100vh - 6.5rem);overflow:auto;padding-bottom:1rem}
+  }
+  .tool-label{margin:0 0 .5rem;font-size:.75rem;font-weight:700;text-transform:uppercase;letter-spacing:.08em;color:var(--ink)}
+  .toc-side{margin:0 0 1.25rem}
+  .toc-side ol{list-style:none;margin:0;padding:0;border-left:2px solid var(--line-soft)}
+  .toc-side a{display:block;padding:.4rem 0 .4rem .85rem;margin-left:-2px;border-left:2px solid transparent;font-size:.9rem;line-height:1.35;color:var(--ink);text-decoration:none}
+  .toc-side a:hover,.toc-side a:focus-visible{color:var(--focus)}
+  .toc-side a.on{border-left-color:var(--focus);color:var(--focus);font-weight:700}
+  .dl{display:grid;gap:.15rem;margin:0 0 1.25rem;padding:.8rem 1rem;border:2px solid var(--gold);border-radius:8px;background:#fffdf3;text-decoration:none;color:var(--ink-strong)}
+  .dl b{font-family:Sora,"Sora Fallback",sans-serif;font-size:.95rem}
+  .dl span{font-size:.82rem;color:var(--ink)}
+  .dl:hover,.dl:focus-visible{border-color:var(--focus)}
+  .all-pr{font-weight:700;font-size:.9rem}
+</style>

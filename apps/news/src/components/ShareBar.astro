@@ -1,0 +1,24 @@
+---
+/** Share links that work without scripts; "Copy link" and the native share sheet add a tiny script. */
+interface Props { url: string; title: string; compact?: boolean }
+const { url, title, compact = false } = Astro.props;
+const u = encodeURIComponent(url), t = encodeURIComponent(title);
+---
+<div class:list={["share", { compact }]}>
+  <p class="tool-label">Share</p>
+  <ul>
+    <li><button type="button" class="copy" data-url={url}>Copy link</button></li>
+    <li><a href={`https://www.facebook.com/sharer/sharer.php?u=${u}`} rel="noopener" target="_blank">Facebook</a></li>
+    <li><a href={`https://twitter.com/intent/tweet?url=${u}&text=${t}`} rel="noopener" target="_blank">X</a></li>
+    <li><a href={`mailto:?subject=${t}&body=${u}`}>Email</a></li>
+    <li><button type="button" class="native" hidden data-url={url} data-title={title}>More…</button></li>
+  </ul>
+</div>
+<style>
+  .share{margin:0 0 1.25rem}
+  .tool-label{margin:0 0 .4rem;font-size:.75rem;font-weight:700;text-transform:uppercase;letter-spacing:.08em;color:var(--ink)}
+  .share ul{list-style:none;margin:0;padding:0;display:flex;flex-wrap:wrap;gap:.4rem}
+  .share a,.share button{display:inline-flex;align-items:center;min-height:44px;padding:0 .8rem;border:1px solid var(--line);border-radius:999px;background:#fff;color:var(--ink-strong);font:inherit;font-size:.88rem;font-weight:700;text-decoration:none;cursor:pointer}
+  .share a:hover,.share button:hover,.share a:focus-visible,.share button:focus-visible{border-color:var(--focus);color:var(--focus)}
+  .share button.done{border-color:#1a7f5a;color:#1a7f5a}
+</style>
