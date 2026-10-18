@@ -1,6 +1,6 @@
 # Fresh Calendars News — Yol Haritası (`/news/`, Astro, Google News)
 
-Hazırlanma: 2026-10-18 · Durum: **N0 ✔ · N1 ✔ · sıradaki N2**
+Hazırlanma: 2026-10-18 · Durum: **N0 ✔ · N1 ✔ · N2 ✔ · sıradaki N3**
 Kaynaklar: canlı `tech-insider.org` analizi (sitemap index, post sitemap, RSS, örnek makale `verizon-iphone-handoff-fee-10-dollars-2026`), `SEO-HARITASI-TAM.md`, `docs/DESIGN.md`, `docs/BLUEPRINT-A-Z.md`, `packages/generator/src/sitePages.ts`, VPS/nginx/Cloudflare yapılandırması.
 
 ---
@@ -354,6 +354,7 @@ AdSense yüklendiğinde Best Practices üçüncü-taraf çerez/konsol uyarılar�
 - **N2.1** `content.config.ts` zod şemaları (§4), referans bütünlüğü.
 - **N2.2** 1 yazar, 7 kategori, 3 örnek makale (news/explainer/update).
 - ✅ Kabul: şema ihlali build’i kırar (eksik alt, 160+ description vb.).
+- ✔ **Yapıldı (2026-10-18):** `apps/news/src/content.config.ts` (articles/authors/categories, glob loader, id = dosya adı), `src/lib/articles.ts` `getPublishedArticles()` — prod’da draft ve ileri tarihli (zamanlanmış) yazılar dışarıda, `NEWS_INCLUDE_DRAFTS=1` veya dev’de taslaklar görünür; slug kebab, hero ≥1600 px ve referans varlığı (category/authors/related) her build’de kontrol edilir (Astro `image()` genişliği ve `reference()` varlığı şema aşamasında doğrulanamıyor). İçerik: `news-desk` (Organization), 7 kategori (≥80 kelime), 3 örnek **taslak** (news / explainer / update+correction) + yer tutucu hero’lar. `apps/news/test/schema-negative.sh`: 7 bozuk-içerik vakası build’i kırıyor (7/7 ok).
 
 ### Faz N3 — Makale şablonu (2 gün)
 - **N3.1** Bileşenler: Breadcrumb, ArticleMeta, Hero (Picture), KeyPoints, Toc, Prose, Faq, Sources, Corrections, AuthorCard, RelatedGrid, AdSlot.

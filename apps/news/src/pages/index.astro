@@ -1,5 +1,9 @@
 ---
 import NewsBase from "../layouts/NewsBase.astro";
+import { getPublishedArticles } from "../lib/articles";
+
+// Listing UI arrives in N4; calling this now runs the slug/hero checks on every build.
+const articles = await getPublishedArticles();
 ---
 <NewsBase
   title="Calendar & Holiday News | Fresh Calendars"
@@ -9,5 +13,10 @@ import NewsBase from "../layouts/NewsBase.astro";
   <div class="news-wrap">
     <h1>Calendar &amp; Holiday News</h1>
     <p class="news-lede">Date changes that affect your calendar: federal and state holidays, daylight saving time, school calendars and key retail dates.</p>
+    {articles.length > 0 && (
+      <ul>
+        {articles.map((a) => <li>{a.data.title}</li>)}
+      </ul>
+    )}
   </div>
 </NewsBase>
