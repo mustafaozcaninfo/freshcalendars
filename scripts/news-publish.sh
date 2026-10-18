@@ -35,7 +35,9 @@ if [[ ${#CHANGES[@]} -eq 0 ]]; then
   echo "changed=0"
   exit 0
 fi
-printf '[news] %s\n' "${CHANGES[@]}" | head -50
+# Print at most 50 changed paths without a pipe (head would SIGPIPE printf under pipefail).
+for ((i = 0; i < ${#CHANGES[@]} && i < 50; i++)); do echo "[news] ${CHANGES[i]}"; done
+(( ${#CHANGES[@]} > 50 )) && echo "[news] … and $(( ${#CHANGES[@]} - 50 )) more"
 
 # Public URLs to purge: pages (dir/index.html → dir/), xml/xsl; hashed _astro files never need it.
 URLS=()
