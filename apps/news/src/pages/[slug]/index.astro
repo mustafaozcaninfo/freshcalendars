@@ -147,7 +147,8 @@ const related = pickRelated(
   .prose-news :global(th){background:var(--wash)}
   .prose-news :global(p){margin:0 0 1.1rem}
   .prose-news :global(a){color:var(--focus)}
-  .prose-news :global(table){width:100%;border-collapse:collapse;margin:0 0 1.25rem;font-size:1rem}
+  /* Wide tables scroll inside their own box instead of being clipped on phones. */
+  .prose-news :global(table){width:100%;border-collapse:collapse;margin:0 0 1.25rem;font-size:1rem;display:block;overflow-x:auto}
   .prose-news :global(th),.prose-news :global(td){border:1px solid var(--line-soft);padding:.5rem;text-align:left}
   .article :global(section h2),.article :global(aside h2){font-family:Sora,"Sora Fallback",sans-serif;color:var(--ink-strong)}
   .article :global(section){margin:2rem 0}
