@@ -1,6 +1,6 @@
 ---
-title: "Veterans Day 2026 Is Wednesday, Nov. 11: What's Open, What's Closed and Why It Never Moves to Monday"
-seoTitle: "Veterans Day 2026 (Nov. 11): What's Open and Closed"
+title: "What's Open and Closed on Veterans Day 2026, and Why the Holiday Never Moves to a Monday"
+seoTitle: "What's Open and Closed on Veterans Day 2026 (Nov. 11)"
 description: "Veterans Day 2026 falls on Wednesday, Nov. 11. Federal offices, banks, mail and the bond market close; stock markets stay open. Full list and history."
 type: update
 publishedAt: "2026-10-17T17:00:00-04:00"
@@ -15,7 +15,7 @@ hero:
 summary:
   - "Veterans Day 2026 is Wednesday, Nov. 11, a federal holiday that stays on Nov. 11 every year."
   - "Federal offices, the Federal Reserve, most banks and the Postal Service close; there is no regular mail delivery."
-  - "The New York Stock Exchange and Nasdaq are open; the bond market closes under SIFMA's recommendation."
+  - "The New York Stock Exchange and Nasdaq are open; the bond market closes for the day."
   - "In 2028 and 2029 the holiday falls on a weekend, so federal workers get Friday, Nov. 10, 2028 and Monday, Nov. 12, 2029 off."
 faq:
   - q: "Is Veterans Day 2026 a federal holiday?"
@@ -68,12 +68,12 @@ Veterans Day 2026 falls on **Wednesday, Nov. 11**. It is a federal holiday, so f
 | Federal Reserve | Closed |
 | Most banks | Closed (ATMs, cards and online banking work) |
 | U.S. Postal Service | Post offices closed, no regular mail delivery |
-| Bond market | Closed (SIFMA recommendation) |
+| Bond market | Closed (industry recommendation) |
 | New York Stock Exchange and Nasdaq | Open, 9:30 a.m. to 4:00 p.m. ET |
 | Public schools | Varies by district |
 | Most stores and restaurants | Open |
 
-The federal closures come from the Office of Personnel Management's 2026 holiday table, which lists Veterans Day on Wednesday, Nov. 11, and from the Federal Reserve's 2026 holiday schedule. Because the Federal Reserve is closed, bank transfers and direct deposits started on Nov. 11 generally settle on Thursday, Nov. 12.
+The federal closures come from the Office of Personnel Management (OPM) 2026 holiday table, which lists Veterans Day on Wednesday, Nov. 11, and from the Federal Reserve's 2026 holiday schedule. Because the Federal Reserve is closed, bank transfers and direct deposits started on Nov. 11 generally settle on Thursday, Nov. 12.
 
 Stock trading continues because the New York Stock Exchange does not close for Veterans Day. The bond market follows a different calendar: the Securities Industry and Financial Markets Association (SIFMA) recommends a full close on Veterans Day, as it does on Columbus Day.
 

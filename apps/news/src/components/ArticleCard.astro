@@ -13,7 +13,7 @@ const href = articlePath(article.id);
   <a class="thumb" href={href} tabindex="-1" aria-hidden="true">
     <Image
       src={d.hero.src}
-      alt=""
+      alt={d.hero.alt}
       widths={featured ? [400, 640, 828, 1080, 1344] : [160, 240, 320]}
       sizes={featured ? "(max-width: 752px) calc(100vw - 2rem), 720px" : "120px"}
       format="webp"

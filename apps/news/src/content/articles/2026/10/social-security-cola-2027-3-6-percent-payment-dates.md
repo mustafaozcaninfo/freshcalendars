@@ -57,7 +57,7 @@ internalLinks:
 draft: false
 ---
 
-Social Security and Supplemental Security Income (SSI) benefits will rise **3.6% in 2027**, the Social Security Administration announced on Wednesday, Oct. 14, 2026. The increase reaches about 76 million people. For the average retired worker it means roughly **$75 more a month**, and the first higher payments arrive on Dec. 31, 2026, for SSI recipients.
+Social Security and Supplemental Security Income (SSI) benefits will rise **3.6% in 2027**, the Social Security Administration (SSA) announced on Wednesday, Oct. 14, 2026. The increase reaches about 76 million people. For the average retired worker it means roughly **$75 more a month**, and the first higher payments arrive on Dec. 31, 2026, for SSI recipients.
 
 ## What SSA announced
 
@@ -117,7 +117,7 @@ The payroll tax rate itself does not change: 7.65% for employees and 15.3% for t
 
 ## Federal retirees get a different raise
 
-Retirees under the Civil Service Retirement System receive the same 3.6% increase. Retirees under the Federal Employees Retirement System get 2.6%, Federal News Network reports, because the FERS formula subtracts one percentage point when inflation is above 3%.
+Retirees under the Civil Service Retirement System receive the same 3.6% increase. Retirees under the Federal Employees Retirement System (FERS) get 2.6%, Federal News Network reports, because the FERS formula subtracts one percentage point when inflation is above 3%.
 
 ## Medicare costs are still to come
 

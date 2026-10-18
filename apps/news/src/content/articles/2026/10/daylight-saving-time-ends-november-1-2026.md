@@ -107,7 +107,7 @@ The lame-duck session starts after the Nov. 3 election, two days after the clock
 
 ## The debate in brief
 
-Supporters of permanent daylight time point to brighter evenings and polling that shows most people dislike changing clocks. An AP-NORC poll cited by TIME found 47% of adults oppose the twice-yearly change and 12% support it, with 56% preferring permanent daylight time to 42% for permanent standard time.
+Supporters of permanent daylight time point to brighter evenings and polling that shows most people dislike changing clocks. A poll by The Associated Press-NORC Center for Public Affairs Research (AP-NORC), cited by TIME magazine, found 47% of adults oppose the twice-yearly change and 12% support it, with 56% preferring permanent daylight time to 42% for permanent standard time.
 
 Sleep doctors favor the other option. The American Academy of Sleep Medicine has endorsed permanent standard time, arguing that later winter sunrises under permanent daylight time would conflict with the body clock. Opponents also cite the country's earlier attempt: year-round daylight time began in January 1974 during the energy crisis and was repealed before the year ended.
 
