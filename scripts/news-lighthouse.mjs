@@ -31,6 +31,7 @@ const article = fs.readdirSync(dist).find((d) => !["_astro", "author", "category
 const urls = ["/news/", article && `/news/${article}/`, firstDir("category") && `/news/category/${firstDir("category")}/`, `/news/author/${firstDir("author")}/`, "/news/editorial-policy/"]
   // Heaviest article template (download grid with previews) when present.
   .concat(fs.existsSync(path.join(dist, "julian-date-calendar-2027-2026-printable/index.html")) ? ["/news/julian-date-calendar-2027-2026-printable/"] : [])
+  .concat(fs.existsSync(path.join(dist, "ramadan-2027-calendar-dates-timetable/index.html")) ? ["/news/ramadan-2027-calendar-dates-timetable/"] : [])
   .filter(Boolean)
   .map((p) => ORIGIN + p);
 

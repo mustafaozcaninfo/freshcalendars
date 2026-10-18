@@ -21,7 +21,7 @@ const OUT_ASSETS = path.join(ROOT, "apps/news/src/assets/news/julian-date-calend
 const SITE = "freshcalendars.com/news/julian-date-calendar-2027-2026-printable/";
 
 // US Letter at 96 px/in; PNGs are rendered at 2x for print quality.
-const LETTER = { width: 816, height: 1056 };
+export const LETTER = { width: 816, height: 1056 };
 const LETTER_LANDSCAPE = { width: 1056, height: 816 };
 
 const MONTHS = ["January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December"];
@@ -43,7 +43,7 @@ export function julianDayNumber(y: number, m1: number, d: number): number {
   return d + Math.floor((153 * mm + 2) / 5) + 365 * yy + Math.floor(yy / 4) - Math.floor(yy / 100) + Math.floor(yy / 400) - 32045;
 }
 
-async function fontFaces(): Promise<string> {
+export async function fontFaces(): Promise<string> {
   const f = (pkg: string, file: string) => path.join(ROOT, "packages/generator/node_modules/@fontsource", pkg, "files", file);
   const faces: [string, number, string][] = [
     ["Sora", 700, f("sora", "sora-latin-700-normal.woff2")],
@@ -61,7 +61,7 @@ async function fontFaces(): Promise<string> {
   return css.join("");
 }
 
-function doc(fonts: string, size: { width: number; height: number }, css: string, pages: string[]): string {
+export function doc(fonts: string, size: { width: number; height: number }, css: string, pages: string[]): string {
   return `<!doctype html><html><head><meta charset="utf-8"><style>
   ${fonts}
   @page{size:${size.width}px ${size.height}px;margin:0}
