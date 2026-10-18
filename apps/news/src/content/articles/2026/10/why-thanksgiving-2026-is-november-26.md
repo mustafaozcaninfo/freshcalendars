@@ -28,7 +28,7 @@ internalLinks:
     label: "When is Black Friday?"
   - href: "/november-calendars.html"
     label: "November printable calendar"
-draft: true
+draft: false
 ---
 
 Thanksgiving Day 2026 is **Thursday, Nov. 26**. The date is not chosen each year; it follows a rule written into federal law.

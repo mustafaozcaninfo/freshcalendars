@@ -27,7 +27,7 @@ internalLinks:
 corrections:
   - date: "2026-10-17T18:00:00-04:00"
     text: "An earlier version said Veterans Day moves to the nearest Monday. It is always observed on Nov. 11."
-draft: true
+draft: false
 ---
 
 Veterans Day 2026 falls on **Wednesday, Nov. 11**. It is one of the federal holidays listed by the Office of Personnel Management.

@@ -32,7 +32,7 @@ internalLinks:
     label: "Daylight saving time guide"
   - href: "/november-calendars.html"
     label: "November printable calendar"
-draft: true
+draft: false
 ---
 
 Daylight saving time ends at 2:00 a.m. local time on **Sunday, Nov. 1, 2026**, when clocks in most of the United States move back one hour to 1:00 a.m.
