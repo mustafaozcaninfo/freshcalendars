@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 # Unified VPS cron entry — daily HTML bake, monthly refresh, Sep next-year, Jan rollover, health.
-# Usage: FC_JOB=refresh-meta|refresh|generate-next|rollover|health ./scripts/server-cron.sh
+# Usage: FC_JOB=refresh-meta|refresh|generate-next|rollover|health|news-publish ./scripts/server-cron.sh
 set -euo pipefail
 
 APP_DIR="${FRESHCALENDARS_APP:-/home/yuzdehesaplama/private/freshcalendars-app}"
@@ -225,7 +225,39 @@ run_health() {
   if [[ "$meta_stale" != "fresh" ]]; then
     fail "refresh-meta looks stale ($meta_stale) — daily HTML job may have stopped"
   fi
+  # News publisher (only once its cron is installed): last successful run < 1h ago
+  if crontab -l 2>/dev/null | grep -q "FC_JOB=news-publish"; then
+    local last age
+    last="$(cat "$NEWS_HEARTBEAT" 2>/dev/null || echo 0)"
+    age=$(( $(date +%s) - last ))
+    if (( age > 3600 )); then
+      fail "news-publish looks stale (last ok ${age}s ago) — /news/ cron may have stopped"
+    fi
+    curl -fsS -A "$SMOKE_UA" --max-time 20 -o /dev/null "$SMOKE_BASE/news/" || fail "/news/ not reachable"
+    curl -fsS -A "$SMOKE_UA" --max-time 20 "$SMOKE_BASE/news/news-sitemap.xml" | grep -q "<urlset" \
+      || fail "/news/news-sitemap.xml invalid"
+  fi
 }
+
+NEWS_HEARTBEAT="$APP_DIR/.news-last-ok"
+
+# Every 15 min: rebuild /news/ (scheduled posts, 48h News sitemap window) and publish
+# only what changed. Logged to cron_runs only on change or failure to keep the table small.
+run_news_publish() {
+  local out changed
+  # flock: a manual news:deploy and the 15-min cron never build/publish at the same time.
+  out="$(cd "$APP_DIR" && flock -w 600 "$APP_DIR/.news.lock" bash scripts/news-publish.sh 2>&1)" || fail "news-publish: $(printf '%s' "$out" | tail -5)"
+  printf '%s\n' "$out"
+  changed="$(printf '%s' "$out" | sed -n 's/^changed=//p' | tail -1)"
+  date +%s >"$NEWS_HEARTBEAT"
+  if [[ "${changed:-0}" != "0" ]]; then php_log "ok" "news-publish changed=$changed"; fi
+}
+
+if [[ "$JOB" == "news-publish" ]]; then
+  echo "[freshcalendars] job=news-publish start $(date -Is)"
+  run_news_publish
+  exit 0
+fi
 
 echo "[freshcalendars] job=$JOB start $(date -Is) (month_day=$MONTH_DAY)"
 php_log "running" "started"

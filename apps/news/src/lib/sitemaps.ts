@@ -114,9 +114,11 @@ export function absolutizeHtml(html: string): string {
   return html.replace(/\s(href|src)="\/(?!\/)/g, ` $1="${SITE_ORIGIN}/`);
 }
 
-export function rssFeed(items: FeedItem[], now: Date): string {
+/** lastBuildDate follows the newest item (not the clock) so unchanged content yields an identical file. */
+export function rssFeed(items: FeedItem[]): string {
   const self = absNewsUrl("/news/feed.xml");
   const list = [...items].sort((a, b) => b.publishedAt.getTime() - a.publishedAt.getTime()).slice(0, FEED_ITEMS);
+  const built = list[0] ? `\n    <lastBuildDate>${list[0].publishedAt.toUTCString()}</lastBuildDate>` : "";
   const body = list
     .map((i) => {
       const url = absNewsUrl(i.path);
@@ -142,8 +144,7 @@ ${i.authors.map((a) => `      <dc:creator>${cdata(a)}</dc:creator>`).join("\n")}
     <atom:link href="${self}" rel="self" type="application/rss+xml" />
     <link>${absNewsUrl("/news/")}</link>
     <description>Calendar, holiday and date news from the Fresh Calendars News Desk.</description>
-    <language>en-US</language>
-    <lastBuildDate>${now.toUTCString()}</lastBuildDate>
+    <language>en-US</language>${built}
     <sy:updatePeriod>hourly</sy:updatePeriod>
     <sy:updateFrequency>1</sy:updateFrequency>
     <image>

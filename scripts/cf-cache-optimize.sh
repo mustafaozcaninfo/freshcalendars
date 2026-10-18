@@ -57,6 +57,27 @@ RULESET=$(cat <<'JSON'
         "serve_stale": { "disable_stale_while_updating": false },
         "respect_strong_etags": true
       }
+    },
+    {
+      "expression": "(http.host eq \"freshcalendars.com\" and starts_with(http.request.uri.path, \"/news/\") and not starts_with(http.request.uri.path, \"/news/_astro/\"))",
+      "description": "FreshCalendars /news/ — short edge TTL (later rule overrides the site-wide 31d); publish purges by URL",
+      "action": "set_cache_settings",
+      "action_parameters": {
+        "cache": true,
+        "edge_ttl": {
+          "mode": "override_origin",
+          "default": 600,
+          "status_code_ttl": [
+            { "status_code_range": { "from": 200, "to": 299 }, "value": 600 },
+            { "status_code_range": { "from": 300, "to": 399 }, "value": 600 },
+            { "status_code_range": { "from": 400, "to": 499 }, "value": 60 },
+            { "status_code_range": { "from": 500, "to": 599 }, "value": 0 }
+          ]
+        },
+        "browser_ttl": { "mode": "respect_origin" },
+        "serve_stale": { "disable_stale_while_updating": false },
+        "respect_strong_etags": true
+      }
     }
   ]
 }

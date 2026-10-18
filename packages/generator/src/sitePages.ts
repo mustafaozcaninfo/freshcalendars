@@ -141,12 +141,22 @@ function metaTags(meta: SeoMeta, opts: { howTo?: boolean } = {}): string {
   const websiteLd = {
     "@context": "https://schema.org",
     "@type": "WebSite",
+    // Same @ids as /news/ (apps/news/src/lib/seo.ts) so both sections describe one publisher.
+    "@id": "https://freshcalendars.com/#website",
     name: "Fresh Calendars",
     url: "https://freshcalendars.com/",
     publisher: {
       "@type": "Organization",
+      "@id": "https://freshcalendars.com/#organization",
       name: "Fresh Calendars",
       url: "https://freshcalendars.com/",
+      logo: {
+        "@type": "ImageObject",
+        "@id": "https://freshcalendars.com/#logo",
+        url: "https://freshcalendars.com/icons/icon-512.png",
+        width: 512,
+        height: 512,
+      },
     },
     potentialAction: {
       "@type": "SearchAction",
@@ -2020,6 +2030,16 @@ RewriteRule ^printable/monthly/[0-9]{4}/(january|february|march|april|may|june|j
     Header set Cache-Control "public, max-age=604800, stale-while-revalidate=2592000"
     Header set CDN-Cache-Control "public, max-age=2678400"
   </FilesMatch>
+  # /news/ (apps/news, published every 15 min): short TTLs; hashed /news/_astro/ files are immutable.
+  # nginx serves /news/ itself (hestia-apply-nginx-cache.sh); this is the Apache fallback.
+  <If "%{REQUEST_URI} =~ m#^/news/_astro/#">
+    Header set Cache-Control "public, max-age=31536000, immutable"
+    Header unset CDN-Cache-Control
+  </If>
+  <ElseIf "%{REQUEST_URI} =~ m#^/news/#">
+    Header set Cache-Control "public, max-age=300, stale-while-revalidate=600"
+    Header set CDN-Cache-Control "public, max-age=600"
+  </ElseIf>
 </IfModule>
 `;
 }

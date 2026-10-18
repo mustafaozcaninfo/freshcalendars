@@ -1,6 +1,6 @@
 # Fresh Calendars News — Yol Haritası (`/news/`, Astro, Google News)
 
-Hazırlanma: 2026-10-18 · Durum: **N0 ✔ · N1 ✔ · N2 ✔ · N3 ✔ · N4 ✔ · N5 ✔ · N6 ✔ · sıradaki N7**
+Hazırlanma: 2026-10-18 · Durum: **N0–N6 ✔ · N7 kod ✔ (production uygulaması onay bekliyor) · sonra N8**
 Kaynaklar: canlı `tech-insider.org` analizi (sitemap index, post sitemap, RSS, örnek makale `verizon-iphone-handoff-fee-10-dollars-2026`), `SEO-HARITASI-TAM.md`, `docs/DESIGN.md`, `docs/BLUEPRINT-A-Z.md`, `packages/generator/src/sitePages.ts`, VPS/nginx/Cloudflare yapılandırması.
 
 ---
@@ -403,6 +403,15 @@ AdSense yüklendiğinde Best Practices üçüncü-taraf çerez/konsol uyarılar�
 - **N7.7** `sync-app.sh` → `apps/news`; VPS cron `FC_JOB=news-publish` her 15 dk (yeni/48 saat penceresi değiştiyse build+deploy); `cron_runs` loglama; health job’a “news sitemap 48 saatte en az 1 öğe” kontrolü (yayın varsa).
 - **N7.8** Smoke: `/news/`, örnek makale 200, `cf-cache-status`, header’lar, `/news/page/2/` redirect yok.
 - ✅ Kabul: takvim cron’u çalıştıktan sonra `/news/` hâlâ yerinde; yeni makale publish → ≤10 dk içinde canlı ve sitemap’te.
+- ✔ **Kod yapıldı (2026-10-18), production’a henüz uygulanmadı:**
+  - `pnpm news:verify` (`scripts/news-verify.mjs`): link/H1/yetim/derinlik + canonical + tek JSON-LD parse + XML well-formed (xmllint varsa) + News sitemap’te 48 saati aşan öğe yok + build artığı yok + `localhost` sızıntısı yok.
+  - `scripts/news-publish.sh` (VPS’te çalışır): prod build → verify → rsync dry-run ile **yalnız değişen dosyalar** → önce `_astro/`, sonra HTML/XML (`--delete`), izin/sahiplik → değişen URL’ler için Cloudflare **URL purge** (30’luk paketler) → değişen makaleler için **IndexNow**. Değişiklik yoksa `changed=0` ile hiçbir şey yapmaz (feed `lastBuildDate` en yeni makaleye bağlandı, build saati değil). Yerel hedef klasörde test edildi: ilk yayın 95 dosya, tekrar 0, tek makale düzenlemesi = 2 dosya / 2 purge / 1 ping.
+  - `server-cron.sh` `FC_JOB=news-publish` (flock ile tekil; cron_runs’a yalnız değişiklik/hata yazar; heartbeat `.news-last-ok`), `health` job’ına news kontrolleri (heartbeat <1 saat, `/news/` 200, news-sitemap geçerli) — yalnız news cron kuruluysa.
+  - `install-crontab.sh`: `NEWS_CRON=1` ile `*/15 * * * * FC_JOB=news-publish` (varsayılan kapalı).
+  - `sync-app.sh` artık `apps/news`’i de gönderir. `pnpm news:deploy` (`scripts/news-deploy.sh`): test + build + verify → sync (veya `NEWS_CONTENT_ONLY=1`) → VPS’te news-publish → canlı smoke (200, `max-age=300`, news-sitemap, `/news/page/99/` = 404 redirect değil).
+  - Cache: `.htaccess` `/news/` `<If>` blokları (300 s / CDN 600 s, `_astro` 1 yıl immutable) — ana sitenin geri kalanı byte-byte aynı; `hestia-apply-nginx-cache.sh` `location ^~ /news/` (nginx diskten servis eder, dotfile deny, `.xsl` text/xsl); `cf-cache-optimize.sh` ikinci Cache Rule (`/news/*`, `_astro` hariç, edge 600 s; sonraki kural site geneli 31 günü ezer). Canlı CF ruleset’i script’in ilk kuralıyla aynı (PUT bir şey kaybettirmez).
+  - N7.6: ana sitenin 93 sayfasında WebSite `@id #website`, publisher Organization `@id #organization` + 512 px logo (news ile aynı varlık).
+- ⏳ **Production adımları (onay gerekir):** 1) `sync-app.sh` (kod + apps/news + pnpm install), 2) VPS’te `hestia-apply-nginx-cache.sh` (`nginx -t` + reload), 3) `cf-cache-optimize.sh` (zone ayarları + 2 kuralı PUT), 4) ilk `news-publish` ve `NEWS_CRON=1 install-crontab.sh` — 4. adım `/news/`’i canlıya açar (şu an tüm örnekler taslak → boş liste); N9 lansmanına kadar bekletilmesi önerilir.
 
 ### Faz N8 — Güven sayfaları ve iç link (1 gün)
 - **N8.1** About News, Editorial Policy, Corrections, Masthead.

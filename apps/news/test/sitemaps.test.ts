@@ -59,7 +59,7 @@ describe("rss", () => {
     image: { url: "https://freshcalendars.com/news/_astro/a.webp", width: 1200, height: 675, alt: "alt" },
   };
   it("absolutizes links and keeps CDATA intact", () => {
-    const xml = rssFeed([item], now);
+    const xml = rssFeed([item]);
     assert.match(xml, /href="https:\/\/freshcalendars.com\/when-is\/thanksgiving\/"/);
     assert.ok(xml.includes("]]]]><![CDATA[>"));
     assert.match(xml, /<guid isPermaLink="true">https:\/\/freshcalendars.com\/news\/a\/<\/guid>/);
@@ -68,9 +68,13 @@ describe("rss", () => {
   });
   it("caps at 30 items, newest first", () => {
     const items = Array.from({ length: 40 }, (_, i) => ({ ...item, path: `/news/i${i}/`, publishedAt: hoursAgo(i) }));
-    const xml = rssFeed(items, now);
+    const xml = rssFeed(items);
     assert.equal((xml.match(/<item>/g) ?? []).length, 30);
     assert.ok(xml.indexOf("/news/i0/") < xml.indexOf("/news/i1/"));
+  });
+  it("is deterministic: lastBuildDate is the newest item, omitted when empty", () => {
+    assert.match(rssFeed([item]), new RegExp(`<lastBuildDate>${item.publishedAt.toUTCString()}</lastBuildDate>`));
+    assert.doesNotMatch(rssFeed([]), /lastBuildDate/);
   });
   it("helpers", () => {
     assert.equal(xmlEscape(`a&<>"'`), "a&amp;&lt;&gt;&quot;&apos;");

@@ -23,6 +23,11 @@ $MARKER
 15 7 * * 1 FC_JOB=health $CRON_SH >> /var/log/freshcalendars-cron.log 2>&1
 EOF
 )
+# /news/ publisher — opt-in until launch: NEWS_CRON=1 bash scripts/install-crontab.sh
+if [[ "${NEWS_CRON:-0}" == "1" ]]; then
+  BLOCK+=$'\n'"# /news/: every 15 min — scheduled posts, 48h News sitemap window, changed-only publish"
+  BLOCK+=$'\n'"*/15 * * * * FC_JOB=news-publish $CRON_SH >> /var/log/freshcalendars-news.log 2>&1"
+fi
 
 TMP="$(mktemp)"
 # Drop only this factory's block (until the next "# *-factory" marker).
@@ -42,7 +47,7 @@ crontab "$TMP"
 rm -f "$TMP"
 
 echo "Crontab installed:"
-crontab -l | awk -v m="$MARKER" '$0==m{p=1} p{print; n++} p && n>=12{exit}'
+crontab -l | awk -v m="$MARKER" '$0==m{p=1} p{print; n++} p && n>=14{exit}'
 
 php -r '
   $c = require "/home/yuzdehesaplama/web/freshcalendars.com/private/freshcalendars/config.php";

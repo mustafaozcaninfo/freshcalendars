@@ -22,7 +22,9 @@
     "news:schema-test": "bash apps/news/test/schema-negative.sh",
     "news:links": "node apps/news/test/links.mjs",
     "news:lighthouse": "node scripts/news-lighthouse.mjs",
-    "news:serve": "node scripts/news-serve.mjs"
+    "news:serve": "node scripts/news-serve.mjs",
+    "news:verify": "node scripts/news-verify.mjs",
+    "news:deploy": "bash scripts/news-deploy.sh"
   },
   "devDependencies": {
     "@types/node": "^22.13.10",

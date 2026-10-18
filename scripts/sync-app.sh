@@ -33,6 +33,15 @@ rsync -avz --delete --exclude '.DS_Store' -e ssh \
 rsync -avz --delete --exclude '.DS_Store' -e ssh \
   "$ROOT/server/" "$REMOTE_HOST:$APP_DIR/server/"
 
+# News app (/news/) — built on the VPS by FC_JOB=news-publish.
+ssh -o BatchMode=yes "$REMOTE_HOST" "mkdir -p '$APP_DIR/apps'"
+rsync -avz --delete \
+  --exclude '.DS_Store' \
+  --exclude 'node_modules' \
+  --exclude '.astro' \
+  -e ssh \
+  "$ROOT/apps/news/" "$REMOTE_HOST:$APP_DIR/apps/news/"
+
 rsync -avz -e ssh \
   "$ROOT/package.json" \
   "$ROOT/pnpm-lock.yaml" \

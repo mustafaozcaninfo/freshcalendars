@@ -9,6 +9,40 @@ IP=2.25.147.42
 ROOT=/home/${USER}/web/${DOMAIN}/public_html
 CONF_DIR=/home/${USER}/conf/web/${DOMAIN}
 
+NEWS_LOCATION="
+	# /news/ (apps/news): served straight from disk; short TTLs, immutable hashed assets.
+	location ^~ /news/ {
+		root           ${ROOT};
+		index          index.html;
+		absolute_redirect off;
+		try_files      \$uri \$uri/index.html \$uri/ =404;
+		error_page     404 /404.html;
+		access_log     /var/log/apache2/domains/${DOMAIN}.log combined;
+		access_log     /var/log/apache2/domains/${DOMAIN}.bytes bytes;
+		expires        off;
+		add_header Cache-Control \"public, max-age=300, stale-while-revalidate=600\" always;
+		add_header CDN-Cache-Control \"public, max-age=600\" always;
+
+		location ~ /\\. {
+			deny all;
+			return 404;
+		}
+
+		location ^~ /news/_astro/ {
+			root       ${ROOT};
+			expires    off;
+			add_header Cache-Control \"public, max-age=31536000, immutable\" always;
+		}
+
+		location ~* \\.xsl\$ {
+			root         ${ROOT};
+			default_type text/xsl;
+			expires      off;
+			add_header Cache-Control \"public, max-age=86400\" always;
+		}
+	}
+"
+
 HTTP_BODY="#=========================================================================#
 # FreshCalendars custom proxy cache TTLs (monthly SSG) — :80
 #=========================================================================#
@@ -25,6 +59,7 @@ server {
 		return 404;
 	}
 
+${NEWS_LOCATION}
 	location = / {
 		try_files /index.html @fallback;
 		root       ${ROOT};
@@ -98,6 +133,7 @@ server {
 		return 404;
 	}
 
+${NEWS_LOCATION}
 	location = / {
 		try_files /index.html @fallback;
 		root       ${ROOT};

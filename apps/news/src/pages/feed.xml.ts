@@ -26,5 +26,5 @@ export const GET: APIRoute = async () => {
       };
     }),
   );
-  return new Response(rssFeed(items, now), { headers: { "Content-Type": "application/rss+xml; charset=utf-8" } });
+  return new Response(rssFeed(items), { headers: { "Content-Type": "application/rss+xml; charset=utf-8" } });
 };
