@@ -18,6 +18,7 @@ const href = articlePath(article.id);
       widths={featured ? [400, 640, 828, 1080, 1344] : [160, 240, 320]}
       sizes={featured ? "(max-width: 752px) calc(100vw - 2rem), 720px" : "120px"}
       format="webp"
+      quality={62}
       loading={featured ? "eager" : "lazy"}
       fetchpriority={featured ? "high" : "auto"}
       decoding="async"

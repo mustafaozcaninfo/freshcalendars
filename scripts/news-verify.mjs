@@ -40,6 +40,13 @@ for (const f of html) {
   if (/localhost/.test(s)) bad(`${rel}: contains localhost (built with NEWS_SITE_ORIGIN?)`);
 }
 
+// Download links (PDF/PNG printables) must point at files that exist in the build.
+for (const f of html) {
+  for (const m of readFileSync(f, "utf8").matchAll(/href="\/news\/(downloads\/[^"]+)"/g)) {
+    if (!existsSync(path.join(dist, m[1]))) bad(`${path.relative(dist, f)}: missing download ${m[1]}`);
+  }
+}
+
 const xmlFiles = readdirSync(dist).filter((f) => f.endsWith(".xml"));
 for (const want of ["sitemap.xml", "post-sitemap.xml", "news-sitemap.xml", "feed.xml"]) {
   if (!xmlFiles.includes(want)) bad(`missing ${want}`);

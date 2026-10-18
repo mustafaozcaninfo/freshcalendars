@@ -19,7 +19,7 @@ const TYPES = {
   ".html": "text/html; charset=utf-8", ".xml": "application/xml; charset=utf-8", ".xsl": "text/xsl; charset=utf-8",
   ".css": "text/css; charset=utf-8", ".js": "text/javascript; charset=utf-8", ".json": "application/json",
   ".txt": "text/plain; charset=utf-8", ".svg": "image/svg+xml", ".png": "image/png", ".jpg": "image/jpeg",
-  ".webp": "image/webp", ".avif": "image/avif", ".ico": "image/x-icon", ".woff2": "font/woff2",
+  ".webp": "image/webp", ".pdf": "application/pdf", ".avif": "image/avif", ".ico": "image/x-icon", ".woff2": "font/woff2",
   ".webmanifest": "application/manifest+json",
 };
 const COMPRESSIBLE = /^(text\/|application\/(xml|json|manifest)|image\/svg)/;

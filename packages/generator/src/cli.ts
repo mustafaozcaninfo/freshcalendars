@@ -3,6 +3,7 @@ import { spawn } from "node:child_process";
 import fs from "node:fs";
 import path from "node:path";
 import { generateAll, refreshEvergreen, refreshMeta, rollover, shutdown, verifyDist } from "./gen.js";
+import { buildJulianDownloads } from "./julian.js";
 import { ROOT } from "./paths.js";
 import { purgeDoCdn, syncCdnAssets } from "./spaces.js";
 
@@ -74,6 +75,9 @@ async function main(): Promise<void> {
       await refreshEvergreen();
     } else if (cmd === "refresh-meta" || cmd === "gen-meta-daily") {
       await refreshMeta();
+    } else if (cmd === "news-julian") {
+      const years = (argValue("--years") ?? "2026,2027").split(",").map(Number);
+      await buildJulianDownloads(years);
     } else if (cmd === "rollover") {
       const to = Number(argValue("--to"));
       if (!to) throw new Error("--to YYYY required");
@@ -100,6 +104,7 @@ async function main(): Promise<void> {
   pnpm fc build [--skip-assets]
   pnpm fc gen-meta          # meta + HTML only (skips PNG/PDF render)
   pnpm fc refresh-meta      # daily: Eastern bake date, HTML only, no PNG/OG
+  pnpm fc news-julian [--years 2026,2027]  # /news/ Julian date printables (PDF + PNG)
   pnpm fc refresh-evergreen
   pnpm fc rollover --to 2027 --confirm
   pnpm fc verify

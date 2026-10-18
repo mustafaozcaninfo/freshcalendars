@@ -29,6 +29,8 @@ const dist = path.join(ROOT, "dist/news");
 const firstDir = (sub) => fs.readdirSync(path.join(dist, sub)).find((d) => fs.existsSync(path.join(dist, sub, d, "index.html")));
 const article = fs.readdirSync(dist).find((d) => !["_astro", "author", "category", "page", "about", "editorial-policy", "corrections-policy", "masthead"].includes(d) && fs.existsSync(path.join(dist, d, "index.html")));
 const urls = ["/news/", article && `/news/${article}/`, firstDir("category") && `/news/category/${firstDir("category")}/`, `/news/author/${firstDir("author")}/`, "/news/editorial-policy/"]
+  // Heaviest article template (download grid with previews) when present.
+  .concat(fs.existsSync(path.join(dist, "julian-date-calendar-2027-2026-printable/index.html")) ? ["/news/julian-date-calendar-2027-2026-printable/"] : [])
   .filter(Boolean)
   .map((p) => ORIGIN + p);
 

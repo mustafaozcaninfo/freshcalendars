@@ -60,6 +60,22 @@ const articles = defineCollection({
           .array(z.object({ href: z.string().regex(INTERNAL_PATH), label: z.string().min(3) }))
           .min(2, "link at least two calendar pages (outer → core)"),
         related: z.array(reference("articles")).default([]),
+        /** Free printables offered on the page (rendered as a download grid + MediaObject JSON-LD). */
+        downloads: z
+          .array(
+            z.object({
+              group: z.string().min(2),
+              title: z.string().min(5).max(80),
+              description: z.string().min(20).max(200),
+              preview: image(),
+              alt: z.string().min(10).max(160),
+              pdf: z.string().regex(/^\/news\/downloads\/[a-z0-9\-/]+\.pdf$/),
+              png: z.string().regex(/^\/news\/downloads\/[a-z0-9\-/]+\.png$/),
+              pages: z.number().int().min(1),
+              paper: z.string().default("US Letter"),
+            }),
+          )
+          .default([]),
         corrections: z.array(z.object({ date: isoDate, text: z.string().min(10) })).default([]),
         draft: z.boolean().default(false),
         noindex: z.boolean().default(false),

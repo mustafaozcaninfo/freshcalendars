@@ -1,0 +1,57 @@
+---
+import { Image } from "astro:assets";
+import type { ImageMetadata } from "astro";
+interface Item {
+  group: string; title: string; description: string; preview: ImageMetadata; alt: string;
+  pdf: string; png: string; pages: number; paper: string;
+}
+interface Props { items: Item[] }
+const { items } = Astro.props;
+const groups = [...new Set(items.map((i) => i.group))];
+---
+{items.length > 0 && (
+  <section class="downloads" id="downloads" aria-labelledby="downloads-title">
+    <h2 id="downloads-title">Free printable downloads</h2>
+    <p class="intro">Every template is free, needs no sign-up and prints on {items[0]!.paper} paper. Choose PDF for printing or PNG for screens and documents.</p>
+    {groups.map((g) => (
+      <>
+        <h3>{g}</h3>
+        <ul>
+          {items.filter((i) => i.group === g).map((i) => (
+            <li>
+              <a class="thumb" href={i.pdf} title={`Download ${i.title} (PDF)`}>
+                <Image src={i.preview} alt={i.alt} title={i.title} widths={[280, 420, 560]} sizes="(max-width: 600px) 45vw, 220px" format="webp" loading="lazy" decoding="async" />
+              </a>
+              <div class="body">
+                <h4>{i.title}</h4>
+                <p>{i.description}</p>
+                <p class="meta">{`PDF · ${i.pages} ${i.pages === 1 ? "page" : "pages"} · ${i.paper}`}</p>
+                <div class="btns">
+                  <a class="btn pdf" href={i.pdf} download type="application/pdf">Download PDF</a>
+                  <a class="btn png" href={i.png} download type="image/png">PNG</a>
+                </div>
+              </div>
+            </li>
+          ))}
+        </ul>
+      </>
+    ))}
+  </section>
+)}
+<style>
+  .downloads{margin:0 0 2rem;padding:1.25rem;border:2px solid var(--gold);border-radius:6px;background:#fffdf3}
+  .downloads h2{font-family:Sora,"Sora Fallback",sans-serif;font-size:1.3rem;margin:0 0 .25rem;color:var(--ink-strong)}
+  .intro{margin:0 0 1rem;font-size:.95rem}
+  .downloads h3{font-family:Sora,"Sora Fallback",sans-serif;font-size:1.05rem;margin:1.25rem 0 .75rem;color:var(--ink-strong)}
+  .downloads ul{list-style:none;margin:0;padding:0;display:grid;gap:1rem;grid-template-columns:repeat(auto-fill,minmax(250px,1fr))}
+  .downloads li{display:grid;grid-template-columns:96px 1fr;gap:.75rem;background:#fff;border:1px solid var(--line-soft);border-radius:6px;padding:.75rem}
+  .thumb :global(img){display:block;width:96px;height:auto;border:1px solid var(--line-soft);border-radius:3px;background:#fff}
+  .downloads h4{font-family:Sora,"Sora Fallback",sans-serif;font-size:.98rem;line-height:1.25;margin:0 0 .25rem;color:var(--ink-strong)}
+  .downloads .body p{margin:0 0 .35rem;font-size:.88rem;line-height:1.4}
+  .meta{color:var(--ink);font-size:.8rem}
+  .btns{display:flex;gap:.5rem;flex-wrap:wrap}
+  .btn{display:inline-flex;align-items:center;min-height:44px;padding:0 .85rem;border-radius:4px;font-weight:700;font-size:.9rem;text-decoration:none}
+  .btn.pdf{background:var(--focus);color:#fff}
+  .btn.png{border:1px solid var(--focus);color:var(--focus);background:#fff}
+  .btn:focus-visible{outline:3px solid var(--gold);outline-offset:2px}
+</style>

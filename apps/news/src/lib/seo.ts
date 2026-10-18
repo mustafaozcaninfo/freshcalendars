@@ -52,6 +52,8 @@ export interface ArticleSeo {
   };
   wordCount: number;
   readingMinutes: number;
+  /** Printable files offered on the page (absolute URLs). */
+  downloads?: { name: string; description: string; pdf: string; png: string }[];
 }
 
 export type HeadTag =
@@ -242,6 +244,20 @@ export function articleGraph(a: ArticleSeo): Record<string, unknown> {
         inLanguage: "en-US",
         isPartOf: { "@id": `${url}#webpage` },
         mainEntityOfPage: { "@id": `${url}#webpage` },
+        ...(a.downloads?.length
+          ? {
+              associatedMedia: a.downloads.map((d) => ({
+                "@type": "MediaObject",
+                name: d.name,
+                description: d.description,
+                contentUrl: d.pdf,
+                encodingFormat: "application/pdf",
+                thumbnailUrl: d.png,
+                isAccessibleForFree: true,
+                license: TRUST_PAGES.license ? absNewsUrl(TRUST_PAGES.license) : undefined,
+              })),
+            }
+          : {}),
       },
     ],
   };

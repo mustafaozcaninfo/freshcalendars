@@ -6,6 +6,7 @@ import ArticleMeta from "../../components/ArticleMeta.astro";
 import AuthorCard from "../../components/AuthorCard.astro";
 import Breadcrumb from "../../components/Breadcrumb.astro";
 import CalendarLinks from "../../components/CalendarLinks.astro";
+import DownloadGrid from "../../components/DownloadGrid.astro";
 import Corrections from "../../components/Corrections.astro";
 import Faq from "../../components/Faq.astro";
 import Hero from "../../components/Hero.astro";
@@ -15,6 +16,7 @@ import Sources from "../../components/Sources.astro";
 import Toc from "../../components/Toc.astro";
 import { authorHref, getPublishedArticles, lastModified, type Article } from "../../lib/articles";
 import { heroImages } from "../../lib/images";
+import { SITE_ORIGIN } from "../../lib/site";
 import { pickRelated } from "../../lib/related";
 import {
   articleGraph,
@@ -78,6 +80,7 @@ const seo: ArticleSeo = {
   },
   wordCount,
   readingMinutes: minutes,
+  downloads: d.downloads.map((x) => ({ name: x.title, description: x.description, pdf: `${SITE_ORIGIN}${x.pdf}`, png: `${SITE_ORIGIN}${x.png}` })),
 };
 
 const related = pickRelated(
@@ -120,6 +123,7 @@ const related = pickRelated(
     />
     <Hero src={d.hero.src} alt={d.hero.alt} title={d.hero.title ?? d.title} caption={d.hero.caption} credit={d.hero.credit} />
     <KeyPoints points={d.summary} />
+    <DownloadGrid items={d.downloads} />
     <Toc headings={headings} />
     <div class="prose-news">
       <Content />
