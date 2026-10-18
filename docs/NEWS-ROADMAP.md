@@ -1,6 +1,6 @@
 # Fresh Calendars News — Yol Haritası (`/news/`, Astro, Google News)
 
-Hazırlanma: 2026-10-18 · Durum: **N0–N6 ✔ · N7 kod ✔ (production uygulaması onay bekliyor) · sonra N8**
+Hazırlanma: 2026-10-18 · Durum: **N0–N7 ✔ (altyapı canlıda, /news/ yayını ve news cron’u N9’a kadar kapalı) · sıradaki N8**
 Kaynaklar: canlı `tech-insider.org` analizi (sitemap index, post sitemap, RSS, örnek makale `verizon-iphone-handoff-fee-10-dollars-2026`), `SEO-HARITASI-TAM.md`, `docs/DESIGN.md`, `docs/BLUEPRINT-A-Z.md`, `packages/generator/src/sitePages.ts`, VPS/nginx/Cloudflare yapılandırması.
 
 ---
@@ -411,7 +411,12 @@ AdSense yüklendiğinde Best Practices üçüncü-taraf çerez/konsol uyarılar�
   - `sync-app.sh` artık `apps/news`’i de gönderir. `pnpm news:deploy` (`scripts/news-deploy.sh`): test + build + verify → sync (veya `NEWS_CONTENT_ONLY=1`) → VPS’te news-publish → canlı smoke (200, `max-age=300`, news-sitemap, `/news/page/99/` = 404 redirect değil).
   - Cache: `.htaccess` `/news/` `<If>` blokları (300 s / CDN 600 s, `_astro` 1 yıl immutable) — ana sitenin geri kalanı byte-byte aynı; `hestia-apply-nginx-cache.sh` `location ^~ /news/` (nginx diskten servis eder, dotfile deny, `.xsl` text/xsl); `cf-cache-optimize.sh` ikinci Cache Rule (`/news/*`, `_astro` hariç, edge 600 s; sonraki kural site geneli 31 günü ezer). Canlı CF ruleset’i script’in ilk kuralıyla aynı (PUT bir şey kaybettirmez).
   - N7.6: ana sitenin 93 sayfasında WebSite `@id #website`, publisher Organization `@id #organization` + 512 px logo (news ile aynı varlık).
-- ⏳ **Production adımları (onay gerekir):** 1) `sync-app.sh` (kod + apps/news + pnpm install), 2) VPS’te `hestia-apply-nginx-cache.sh` (`nginx -t` + reload), 3) `cf-cache-optimize.sh` (zone ayarları + 2 kuralı PUT), 4) ilk `news-publish` ve `NEWS_CRON=1 install-crontab.sh` — 4. adım `/news/`’i canlıya açar (şu an tüm örnekler taslak → boş liste); N9 lansmanına kadar bekletilmesi önerilir.
+- ✔ **Production’a uygulandı (2026-10-18 ~08:00 UTC):**
+  1. `sync-app.sh` → VPS’te `apps/news` + yeni kod + `pnpm install`; VPS’te `pnpm test` 45/45, `news:build` + `news:verify` OK, `pnpm fc refresh-meta` OK (yeni `.htaccess` news blokları ve `#organization` 05:25 UTC günlük cron’uyla canlıya çıkacak). `public_html/news/` **oluşturulmadı**.
+  2. nginx: `/root/nginx-backup-20261018-075516` ve `-075623` yedekleri alındı, `hestia-apply-nginx-cache.sh` uygulandı (`nginx -t` OK). Origin’de ana sayfalar 200; `/news/*` nginx’ten, `error_page 404 /news/404.html` (yeni news 404 sayfası, kısa TTL).
+  3. Cloudflare: yalnız Cache Rules PUT (2 kural: site geneli 31 gün + `/news/*` 600 s). Zone ayarları **değiştirilmedi** — script’teki minify (css/js on) canlıdaki “hepsi off” ile çelişiyordu; script canlı değere hizalandı. Ana sayfalar `cf-cache-status: HIT` (purge yapılmadı); `/news/` 404 `max-age=300` + `CDN-Cache-Control 600`.
+  4. **Bekleyen (N9):** ilk `news-publish` ve `NEWS_CRON=1 install-crontab.sh`; `NEWS_LAUNCHED=true`.
+- (eski plan) **Production adımları:** 1) `sync-app.sh` (kod + apps/news + pnpm install), 2) VPS’te `hestia-apply-nginx-cache.sh` (`nginx -t` + reload), 3) `cf-cache-optimize.sh` (zone ayarları + 2 kuralı PUT), 4) ilk `news-publish` ve `NEWS_CRON=1 install-crontab.sh` — 4. adım `/news/`’i canlıya açar (şu an tüm örnekler taslak → boş liste); N9 lansmanına kadar bekletilmesi önerilir.
 
 ### Faz N8 — Güven sayfaları ve iç link (1 gün)
 - **N8.1** About News, Editorial Policy, Corrections, Masthead.

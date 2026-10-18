@@ -30,7 +30,8 @@ patch_setting always_online '{"value":"on"}'
 patch_setting rocket_loader '{"value":"off"}'
 # Lossless polish for origin images (icons); calendars live on Spaces CDN
 patch_setting polish '{"value":"lossless"}'
-patch_setting minify '{"value":{"css":"on","html":"off","js":"on"}}'
+# Auto Minify stays off (live zone value since 2026-08; Cloudflare deprecated it). Build output is already compact.
+patch_setting minify '{"value":{"css":"off","html":"off","js":"off"}}'
 
 echo "→ Cache Rules entrypoint (http_request_cache_settings)"
 # Edge: 31d for HTML+static on apex; browser respects origin (7d HTML / 30d assets)
