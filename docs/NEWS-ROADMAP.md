@@ -1,6 +1,6 @@
 # Fresh Calendars News — Yol Haritası (`/news/`, Astro, Google News)
 
-Hazırlanma: 2026-10-18 · Durum: **N0–N8 ✔ (altyapı canlıda, /news/ yayını ve news cron’u N9’a kadar kapalı) · sıradaki N9 lansman**
+Hazırlanma: 2026-10-18 · Durum: **CANLI (2026-10-18 08:06 UTC)** · N0–N8 ✔ · N9 lansman yapıldı, izleme sürüyor
 Kaynaklar: canlı `tech-insider.org` analizi (sitemap index, post sitemap, RSS, örnek makale `verizon-iphone-handoff-fee-10-dollars-2026`), `SEO-HARITASI-TAM.md`, `docs/DESIGN.md`, `docs/BLUEPRINT-A-Z.md`, `packages/generator/src/sitePages.ts`, VPS/nginx/Cloudflare yapılandırması.
 
 ---
@@ -431,6 +431,9 @@ AdSense yüklendiğinde Best Practices üçüncü-taraf çerez/konsol uyarılar�
 - ⚠ Politika metinleri (özellikle AI/araç kullanımı ve düzeltme taahhütleri) yayından önce site sahibi tarafından okunup onaylanmalı.
 
 ### Faz N9 — Lansman (0.5 gün + izleme)
+- ✔ **Lansman (2026-10-18):** 3 yazı taslaktan çıkarıldı (gerçek tarihli ve kaynaklı, hero’lar hâlâ marka renkli yer tutucu), `NEWS_LAUNCHED=true`. VPS: `news-publish` 101 dosya yayınladı, CF URL purge OK, IndexNow 7 URL → 200; `refresh-meta` ana siteyi yayınladı (header/footer News + Editorial policy, robots.txt’de 2 news sitemap, llms.txt News bölümü, 3 when-is sayfasında “Latest news”); `NEWS_CRON=1 install-crontab.sh` → `*/15 * * * * FC_JOB=news-publish` (crontab yedeği `/root/crontab-backup-20261018-080649`, diğer sitelerin satırları korunuyor). Tekrar çalıştırma: `changed=0`.
+- Canlı doğrulama: tüm news sayfaları/sitemap/feed 200, `/news` → 301 `/news/`, `/news/page/99/` 404; `/news/` `max-age=300` + CDN 600, `cf-cache-status: HIT`; news-sitemap 3 öğe. Canlı Lighthouse (mobil, tek koşu): makale 100/100/100/100, `/news/` 98/100/100/100 (FCP/LCP 1.9 s — gerçek ağ değişkenliği; yerel gate 100).
+- ⏳ Kalan (kullanıcı): Google Search Console’a `/news/sitemap.xml` + `/news/news-sitemap.xml` gönderimi, Google Publisher Center profili, politika metinlerinin okunması, gerçek hero görselleri ve yeni haberler (yeni yazı: `apps/news/src/content/articles/…` → `NEWS_CONTENT_ONLY=1 pnpm news:deploy`).
 - **N9.1** İlk 10 gerçek haber (kaynaklı, editör kontrollü).
 - **N9.2** GSC sitemap gönderimi, Publisher Center profili, Bing.
 - **N9.3** 4 hafta izleme raporu (§9.3); §03 durdurma kuralı.
