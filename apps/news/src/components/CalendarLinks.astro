@@ -1,0 +1,14 @@
+---
+interface Props { links: { href: string; label: string }[] }
+const { links } = Astro.props;
+---
+<aside class="cal-links" aria-labelledby="cal-links-title">
+  <h2 id="cal-links-title">On Fresh Calendars</h2>
+  <ul>{links.map((l) => <li><a href={l.href}>{l.label}</a></li>)}</ul>
+</aside>
+<style>
+  .cal-links{background:var(--wash);border-radius:4px;padding:1rem 1.25rem;margin:1.5rem 0}
+  .cal-links h2{font-size:1rem;margin:0 0 .5rem}
+  .cal-links ul{margin:0;padding-left:1.1rem}
+  .cal-links li{margin:.35rem 0}
+</style>

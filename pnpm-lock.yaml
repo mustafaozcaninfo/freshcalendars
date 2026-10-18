@@ -29,6 +29,9 @@ importers:
       astro:
         specifier: ^5.18.2
         version: 5.18.2(@types/node@22.20.1)(rollup@4.62.4)(tsx@4.23.4)(typescript@5.9.3)
+      sharp:
+        specifier: ^0.35.3
+        version: 0.35.3(@types/node@22.20.1)
 
   apps/web:
     dependencies:

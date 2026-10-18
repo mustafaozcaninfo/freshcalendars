@@ -1,0 +1,14 @@
+---
+interface Props { points: string[] }
+const { points } = Astro.props;
+---
+<aside class="keypoints" aria-labelledby="kp-title">
+  <h2 id="kp-title">Key points</h2>
+  <ul>{points.map((p) => <li>{p}</li>)}</ul>
+</aside>
+<style>
+  .keypoints{border-left:4px solid var(--gold);background:#fffbe6;padding:1rem 1.25rem;margin:0 0 1.5rem;border-radius:0 4px 4px 0}
+  .keypoints h2{font-family:Sora,"Sora Fallback",sans-serif;font-size:1rem;margin:0 0 .5rem;color:var(--ink-strong)}
+  .keypoints ul{margin:0;padding-left:1.1rem;color:var(--ink-strong)}
+  .keypoints li+li{margin-top:.35rem}
+</style>

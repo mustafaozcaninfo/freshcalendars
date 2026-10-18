@@ -1,0 +1,29 @@
+---
+import { formatDateTimeET, isoDateTime } from "../lib/seo";
+interface Props {
+  authors: { name: string; href: string }[];
+  publishedAt: Date;
+  modifiedAt: Date;
+  readingMinutes: number;
+  dateline: string;
+}
+const { authors, publishedAt, modifiedAt, readingMinutes, dateline } = Astro.props;
+const updated = modifiedAt.getTime() - publishedAt.getTime() > 60_000;
+---
+<div class="meta">
+  <p class="byline">By {authors.map((a, i) => <>{i > 0 && ", "}<a href={a.href} rel="author">{a.name}</a></>)}</p>
+  <p class="dates">
+    <span>Published <time datetime={isoDateTime(publishedAt)}>{formatDateTimeET(publishedAt)}</time></span>
+    {updated && <span>Updated <time datetime={isoDateTime(modifiedAt)}>{formatDateTimeET(modifiedAt)}</time></span>}
+    <span>{readingMinutes} min read</span>
+  </p>
+  <p class="dateline">{dateline.toUpperCase()}</p>
+</div>
+<style>
+  .meta{font-size:.9rem;color:var(--ink);margin:0 0 1.25rem}
+  .meta p{margin:0 0 .25rem}
+  .byline{font-weight:700}
+  .byline a{color:var(--focus)}
+  .dates{display:flex;flex-wrap:wrap;gap:.25rem 1rem}
+  .dateline{display:none}
+</style>

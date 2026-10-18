@@ -8,7 +8,7 @@ category: holidays
 keywords: ["Thanksgiving 2026", "when is Thanksgiving", "fourth Thursday in November"]
 dateline: "New York"
 hero:
-  src: ../../../../assets/news/why-thanksgiving-2026-is-november-26/hero.jpg
+  src: ../../../../assets/news/why-thanksgiving-2026-is-november-26/why-thanksgiving-2026-is-november-26.jpg
   alt: "Calendar page marked Nov. 26, Thanksgiving Day 2026"
 summary:
   - "Thanksgiving 2026 is Thursday, Nov. 26."

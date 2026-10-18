@@ -1,0 +1,18 @@
+---
+interface Props { items: { title: string; url: string; publisher: string; date?: string }[] }
+const { items } = Astro.props;
+---
+{items.length > 0 && (
+  <section class="sources" aria-labelledby="sources-title">
+    <h2 id="sources-title">Sources</h2>
+    <ol>
+      {items.map((s) => (
+        <li><a href={s.url} rel="noopener">{s.title}</a> — {s.publisher}{s.date && `, ${s.date}`}</li>
+      ))}
+    </ol>
+  </section>
+)}
+<style>
+  .sources ol{padding-left:1.25rem;font-size:.95rem}
+  .sources li{margin:.4rem 0;overflow-wrap:anywhere}
+</style>

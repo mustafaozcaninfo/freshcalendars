@@ -9,7 +9,7 @@ category: holidays
 keywords: ["Veterans Day 2026", "is Veterans Day a federal holiday", "November 11 2026"]
 dateline: "New York"
 hero:
-  src: ../../../../assets/news/veterans-day-2026-wednesday-november-11/hero.jpg
+  src: ../../../../assets/news/veterans-day-2026-wednesday-november-11/veterans-day-2026-wednesday-november-11.jpg
   alt: "Calendar page marked Nov. 11, Veterans Day 2026"
 summary:
   - "Veterans Day 2026 is Wednesday, Nov. 11, a federal holiday."

@@ -1,0 +1,11 @@
+---
+/**
+ * Ads are off for the first three months (NEWS-ROADMAP §8.3 decision C).
+ * Renders nothing unless NEWS_ADS=1 at build time.
+ */
+import { ADS, adUnit } from "@freshcalendars/site-chrome";
+interface Props { slot?: keyof typeof ADS; label: string }
+const { slot = "inArticle", label } = Astro.props;
+const enabled = process.env.NEWS_ADS === "1";
+---
+{enabled && <Fragment set:html={adUnit(ADS[slot], label)} />}

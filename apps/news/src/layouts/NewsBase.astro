@@ -8,6 +8,7 @@ import {
   siteHeaderHtml,
 } from "@freshcalendars/site-chrome";
 import { NEWS_NAME, absNewsUrl } from "../lib/site";
+import { ROBOTS_INDEX, jsonLdString, type HeadTag } from "../lib/seo";
 
 interface Props {
   title: string;
@@ -16,21 +17,29 @@ interface Props {
   path: string;
   robots?: string;
   ogType?: "website" | "article";
+  /** Page-specific meta/link tags (og:image, article:*, twitter labels…). */
+  headTags?: HeadTag[];
+  /** One JSON-LD document (usually an @graph). */
+  jsonLd?: unknown;
 }
 
 const {
   title,
   description,
   path,
-  robots = "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+  robots = ROBOTS_INDEX,
   ogType = "website",
+  headTags = [],
+  jsonLd,
 } = Astro.props;
 const canonical = absNewsUrl(path);
 const today = new Date();
-// Article body type is Source Sans 3 (DESIGN.md); Sora for headings.
+// News pages use two families only: Sora (headings) + Source Sans 3 (everything else,
+// DESIGN.md article type). font-display:optional means unpreloaded faces fall back on first view.
 const fontPreload = [
   "/fonts/sora-latin-700-normal.woff2",
   "/fonts/source-sans-3-latin-400-normal.woff2",
+  "/fonts/source-sans-3-latin-700-normal.woff2",
 ];
 ---
 <!doctype html>
@@ -54,6 +63,9 @@ const fontPreload = [
 <meta name="twitter:card" content="summary_large_image" />
 <meta name="twitter:title" content={title} />
 <meta name="twitter:description" content={description} />
+<link rel="alternate" type="application/rss+xml" title="Fresh Calendars News" href="/news/feed.xml" />
+{headTags.map((t) => (t.tag === "meta" ? <meta {...t.attrs} /> : <link {...t.attrs} />))}
+{jsonLd !== undefined && <script type="application/ld+json" is:inline set:html={jsonLdString(jsonLd)} />}
 {fontPreload.map((href) => <link rel="preload" as="font" type="font/woff2" href={href} crossorigin />)}
 <Fragment set:html={brandHeadLinks()} />
 <slot name="head" />
@@ -73,6 +85,7 @@ const fontPreload = [
 <style is:global>
   .skip-link{position:absolute;left:-999px;top:0;z-index:100;background:#fff;color:var(--focus);padding:.75rem 1rem;font-weight:700}
   .skip-link:focus{left:1rem;top:1rem}
+  html.news body{font-family:"Source Sans 3","Source Sans 3 Fallback",ui-sans-serif,system-ui,sans-serif}
   .news-main{background:var(--paper);min-height:70vh}
   .news-wrap{width:min(720px,calc(100% - 2rem));margin:0 auto;padding:clamp(1.75rem,4vw,2.75rem) 0}
   .news-wrap h1{font-family:Sora,"Sora Fallback",ui-sans-serif,system-ui,sans-serif;color:var(--ink-strong);font-size:clamp(1.9rem,5vw,2.75rem);line-height:1.15;margin:0 0 .75rem}

@@ -1,0 +1,16 @@
+---
+interface Props { name: string; role: string; bio: string; href: string }
+const { name, role, bio, href } = Astro.props;
+---
+<aside class="author-card" aria-label="About the author">
+  <p class="name"><a href={href} rel="author">{name}</a></p>
+  <p class="role">{role}</p>
+  <p class="bio">{bio}</p>
+</aside>
+<style>
+  .author-card{border-top:4px solid var(--gold);padding-top:1rem;margin:2rem 0}
+  .author-card p{margin:0 0 .35rem}
+  .name{font-family:Sora,"Sora Fallback",sans-serif;font-weight:700;font-size:1.05rem}
+  .role{font-size:.85rem;text-transform:uppercase;letter-spacing:.04em;color:var(--ink)}
+  .bio{font-size:.95rem}
+</style>

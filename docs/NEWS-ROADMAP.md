@@ -1,6 +1,6 @@
 # Fresh Calendars News — Yol Haritası (`/news/`, Astro, Google News)
 
-Hazırlanma: 2026-10-18 · Durum: **N0 ✔ · N1 ✔ · N2 ✔ · sıradaki N3**
+Hazırlanma: 2026-10-18 · Durum: **N0 ✔ · N1 ✔ · N2 ✔ · N3 ✔ · sıradaki N4**
 Kaynaklar: canlı `tech-insider.org` analizi (sitemap index, post sitemap, RSS, örnek makale `verizon-iphone-handoff-fee-10-dollars-2026`), `SEO-HARITASI-TAM.md`, `docs/DESIGN.md`, `docs/BLUEPRINT-A-Z.md`, `packages/generator/src/sitePages.ts`, VPS/nginx/Cloudflare yapılandırması.
 
 ---
@@ -362,6 +362,8 @@ AdSense yüklendiğinde Best Practices üçüncü-taraf çerez/konsol uyarılar�
 - **N3.3** `seo.ts` head + `@graph` (§1.2, §1.3), birim testleri.
 - **N3.4** Related: aynı kategori + keyword örtüşmesi, 3 kart.
 - ✅ Kabul: Rich Results Test’te Article geçerli, uyarı yok; head alanları §1.2 listesiyle %100 eşleşir.
+- ✔ **Yapıldı (2026-10-18):** `src/pages/[slug]/index.astro` + bileşenler (Breadcrumb görünür, ArticleMeta ET saatli byline/yayın/güncelleme/okuma süresi, Hero `<Picture>` AVIF+WebP 400–1600w eager/high, KeyPoints, Toc `<details>` (≥3 H2), Faq `<details>` (FAQPage yok), Sources, Corrections, CalendarLinks, AuthorCard, RelatedGrid lazy WebP, AdSlot `NEWS_ADS=1` olmadan boş). `lib/seo.ts`: head etiketleri + `@graph` (Organization/WebSite/ImageObject/BreadcrumbList sayısal pozisyon/WebPage/author/NewsArticle·BackgroundNewsArticle·AnalysisNewsArticle, 3 crop 1200×675/900/1200, wordCount, timeRequired); henüz yayında olmayan güven sayfalarına link verilmez (`TRUST_PAGES`). Görsel dosya adları slug’dan (`<slug>.<hash>.webp`). News sayfaları yalnız Sora + Source Sans 3 (3 preload). Astro build artıkları (`*.mjs`, `collections/`) integration ile siliniyor. Testler: `apps/news/test/*.test.ts` (12) kök `pnpm test`’e bağlı; `pnpm news:schema-test`. Makale HTML’i ~13 KB gzip.
+- ⚠ Rich Results Test canlı URL ister → N9’da yapılır. Kategori ve yazar linkleri N4’e kadar 404.
 
 ### Faz N4 — Listeler (1 gün)
 - **N4.1** `/news/`, `/news/page/n/`, kategori (+sayfalama), yazar sayfaları; sayfa başı 20.

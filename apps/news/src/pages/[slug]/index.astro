@@ -1,0 +1,157 @@
+---
+import { getImage } from "astro:assets";
+import { getEntry, render } from "astro:content";
+import NewsBase from "../../layouts/NewsBase.astro";
+import AdSlot from "../../components/AdSlot.astro";
+import ArticleMeta from "../../components/ArticleMeta.astro";
+import AuthorCard from "../../components/AuthorCard.astro";
+import Breadcrumb from "../../components/Breadcrumb.astro";
+import CalendarLinks from "../../components/CalendarLinks.astro";
+import Corrections from "../../components/Corrections.astro";
+import Faq from "../../components/Faq.astro";
+import Hero from "../../components/Hero.astro";
+import KeyPoints from "../../components/KeyPoints.astro";
+import RelatedGrid from "../../components/RelatedGrid.astro";
+import Sources from "../../components/Sources.astro";
+import Toc from "../../components/Toc.astro";
+import { getPublishedArticles, lastModified, type Article } from "../../lib/articles";
+import { pickRelated } from "../../lib/related";
+import {
+  articleGraph,
+  articleHeadTags,
+  articlePath,
+  categoryPath,
+  countWords,
+  pageTitle,
+  readingMinutes,
+  type ArticleSeo,
+  type AuthorSeo,
+} from "../../lib/seo";
+import { SITE_ORIGIN } from "../../lib/site";
+
+export async function getStaticPaths() {
+  const all = await getPublishedArticles();
+  return all.map((article) => ({ params: { slug: article.id }, props: { article, all } }));
+}
+
+interface Props { article: Article; all: Article[] }
+const { article, all } = Astro.props;
+const d = article.data;
+const { Content, headings } = await render(article);
+
+const category = (await getEntry(d.category))!;
+const authors = await Promise.all(d.authors.map(async (ref) => (await getEntry(ref))!));
+const authorPath = (id: string) => `/news/author/${id}/`;
+
+const abs = (u: string) => (u.startsWith("http") ? u : `${SITE_ORIGIN}${u}`);
+const main = await getImage({ src: d.hero.src, width: 1344, height: 756, fit: "cover", format: "webp" });
+const crops = await Promise.all(
+  [[1200, 675], [1200, 900], [1200, 1200]].map(([width, height]) =>
+    getImage({ src: d.hero.src, width, height, fit: "cover", format: "webp" }),
+  ),
+);
+
+const wordCount = countWords(article.body ?? "");
+const minutes = readingMinutes(wordCount);
+const modifiedAt = lastModified(article);
+
+const authorSeo: AuthorSeo[] = authors.map((a) => ({
+  kind: a.data.kind,
+  name: a.data.name,
+  path: authorPath(a.id),
+  role: a.data.role,
+  sameAs: a.data.sameAs,
+}));
+
+const seo: ArticleSeo = {
+  slug: article.id,
+  title: d.title,
+  seoTitle: d.seoTitle,
+  description: d.description,
+  type: d.type,
+  publishedAt: d.publishedAt,
+  modifiedAt,
+  authors: authorSeo,
+  category: { slug: category.id, name: category.data.name },
+  keywords: d.keywords,
+  dateline: d.dateline,
+  hero: {
+    main: { url: abs(main.src), width: 1344, height: 756, type: "image/webp" },
+    crops: crops.map((c, i) => ({ url: abs(c.src), width: [1200, 1200, 1200][i]!, height: [675, 900, 1200][i]! })),
+    alt: d.hero.alt,
+    caption: d.hero.caption,
+    credit: d.hero.credit,
+  },
+  wordCount,
+  readingMinutes: minutes,
+};
+
+const related = pickRelated(
+  { id: article.id, category: category.id, keywords: d.keywords, publishedAt: d.publishedAt },
+  all.map((a) => ({ id: a.id, category: a.data.category.id, keywords: a.data.keywords, publishedAt: a.data.publishedAt, a })),
+  d.related.map((r) => r.id),
+).map(({ a }) => ({
+  href: articlePath(a.id),
+  title: a.data.title,
+  image: a.data.hero.src,
+  alt: a.data.hero.alt,
+  publishedAt: a.data.publishedAt,
+}));
+---
+<NewsBase
+  title={pageTitle(d)}
+  description={d.description}
+  path={articlePath(article.id)}
+  ogType="article"
+  robots={d.noindex ? "noindex, follow" : undefined}
+  headTags={articleHeadTags(seo)}
+  jsonLd={articleGraph(seo)}
+>
+  <article class="news-wrap article">
+    <Breadcrumb items={[
+      { name: "Home", href: "/" },
+      { name: "News", href: "/news/" },
+      { name: category.data.name, href: categoryPath(category.id) },
+      { name: d.title },
+    ]} />
+    <p class="kicker"><a href={categoryPath(category.id)}>{category.data.name}</a></p>
+    <h1>{d.title}</h1>
+    <p class="news-lede">{d.description}</p>
+    <ArticleMeta
+      authors={authors.map((a) => ({ name: a.data.name, href: authorPath(a.id) }))}
+      publishedAt={d.publishedAt}
+      modifiedAt={modifiedAt}
+      readingMinutes={minutes}
+      dateline={d.dateline}
+    />
+    <Hero src={d.hero.src} alt={d.hero.alt} caption={d.hero.caption} credit={d.hero.credit} />
+    <KeyPoints points={d.summary} />
+    <Toc headings={headings} />
+    <div class="prose-news">
+      <Content />
+    </div>
+    <AdSlot label="News in-article" />
+    <CalendarLinks links={d.internalLinks} />
+    <Faq items={d.faq} />
+    <Sources items={d.sources} />
+    <Corrections items={d.corrections} />
+    {authors.map((a) => (
+      <AuthorCard name={a.data.name} role={a.data.role} bio={a.data.bio} href={authorPath(a.id)} />
+    ))}
+    <RelatedGrid items={related} />
+  </article>
+</NewsBase>
+
+<style>
+  .article .kicker{margin:0 0 .5rem;font-size:.8rem;font-weight:700;text-transform:uppercase;letter-spacing:.06em}
+  .article .kicker a{color:var(--focus);text-decoration:none}
+  .article .news-lede{margin-bottom:1rem}
+  .prose-news{font-family:"Source Sans 3","Source Sans 3 Fallback",ui-sans-serif,system-ui,sans-serif;font-size:1.125rem;line-height:1.7;color:var(--ink-strong)}
+  .prose-news :global(h2){font-family:Sora,"Sora Fallback",sans-serif;font-size:1.35rem;line-height:1.3;margin:2rem 0 .75rem;color:var(--ink-strong);scroll-margin-top:5rem}
+  .prose-news :global(p){margin:0 0 1.1rem}
+  .prose-news :global(a){color:var(--focus)}
+  .prose-news :global(table){width:100%;border-collapse:collapse;margin:0 0 1.25rem;font-size:1rem}
+  .prose-news :global(th),.prose-news :global(td){border:1px solid var(--line-soft);padding:.5rem;text-align:left}
+  .article :global(section h2),.article :global(aside h2){font-family:Sora,"Sora Fallback",sans-serif;color:var(--ink-strong)}
+  .article :global(section){margin:2rem 0}
+</style>

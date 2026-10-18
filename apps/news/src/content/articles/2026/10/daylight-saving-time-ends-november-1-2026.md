@@ -9,7 +9,7 @@ category: time-change
 keywords: ["daylight saving time 2026", "fall back 2026", "clocks change November 2026"]
 dateline: "New York"
 hero:
-  src: ../../../../assets/news/daylight-saving-time-ends-november-1-2026/hero.jpg
+  src: ../../../../assets/news/daylight-saving-time-ends-november-1-2026/daylight-saving-time-ends-november-1-2026.jpg
   alt: "Calendar page marked Nov. 1, the day daylight saving time ends in 2026"
 summary:
   - "Daylight saving time ends at 2:00 a.m. local time on Sunday, Nov. 1, 2026."

@@ -1,4 +1,22 @@
+import { readdir, rm } from "node:fs/promises";
+import path from "node:path";
+import { fileURLToPath } from "node:url";
 import { defineConfig } from "astro/config";
+
+/** Astro leaves content-layer/server chunks in an outDir outside the project; none of it is public. */
+const cleanBuildLeftovers = {
+  name: "clean-build-leftovers",
+  hooks: {
+    "astro:build:done": async ({ dir }) => {
+      const out = fileURLToPath(dir);
+      for (const f of await readdir(out)) {
+        if (f.endsWith(".mjs") || f === "chunks" || f === "collections") {
+          await rm(path.join(out, f), { recursive: true, force: true });
+        }
+      }
+    },
+  },
+};
 
 /**
  * Fresh Calendars News — static Google News section served at /news/.
@@ -17,6 +35,7 @@ export default defineConfig({
     inlineStylesheets: "always",
     assets: "_astro",
   },
+  integrations: [cleanBuildLeftovers],
   devToolbar: { enabled: false },
   vite: {
     server: { port: 4322 },

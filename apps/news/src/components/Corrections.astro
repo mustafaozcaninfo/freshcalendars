@@ -1,0 +1,16 @@
+---
+import { formatDateET, isoDateTime } from "../lib/seo";
+interface Props { items: { date: Date; text: string }[] }
+const { items } = Astro.props;
+---
+{items.length > 0 && (
+  <section class="corrections" aria-labelledby="corr-title">
+    <h2 id="corr-title">Corrections</h2>
+    <ul>{items.map((c) => <li><time datetime={isoDateTime(c.date)}>{formatDateET(c.date)}</time>: {c.text}</li>)}</ul>
+  </section>
+)}
+<style>
+  .corrections{border-left:4px solid var(--red);padding:.25rem 1rem;margin:1.5rem 0}
+  .corrections h2{font-size:1rem}
+  .corrections ul{margin:0;padding-left:1rem}
+</style>
