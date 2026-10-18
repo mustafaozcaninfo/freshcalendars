@@ -18,6 +18,18 @@ importers:
         specifier: ^5.8.2
         version: 5.9.3
 
+  apps/news:
+    dependencies:
+      '@freshcalendars/engine':
+        specifier: workspace:*
+        version: link:../../packages/engine
+      '@freshcalendars/site-chrome':
+        specifier: workspace:*
+        version: link:../../packages/site-chrome
+      astro:
+        specifier: ^5.18.2
+        version: 5.18.2(@types/node@22.20.1)(rollup@4.62.4)(tsx@4.23.4)(typescript@5.9.3)
+
   apps/web:
     dependencies:
       '@freshcalendars/engine':
@@ -55,6 +67,9 @@ importers:
       '@freshcalendars/engine':
         specifier: workspace:*
         version: link:../engine
+      '@freshcalendars/site-chrome':
+        specifier: workspace:*
+        version: link:../site-chrome
       '@freshcalendars/templates':
         specifier: workspace:*
         version: link:../templates
@@ -68,6 +83,12 @@ importers:
       '@types/sharp':
         specifier: ^0.32.0
         version: 0.32.0(@types/node@22.20.1)
+
+  packages/site-chrome:
+    dependencies:
+      '@freshcalendars/engine':
+        specifier: workspace:*
+        version: link:../engine
 
   packages/templates: {}
 

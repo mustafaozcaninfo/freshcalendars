@@ -1,0 +1,81 @@
+---
+import {
+  CSS,
+  FONTS_CSS,
+  NAV_JS,
+  brandHeadLinks,
+  siteFooterHtml,
+  siteHeaderHtml,
+} from "@freshcalendars/site-chrome";
+import { NEWS_NAME, absNewsUrl } from "../lib/site";
+
+interface Props {
+  title: string;
+  description: string;
+  /** Site-relative path with trailing slash, e.g. /news/ */
+  path: string;
+  robots?: string;
+  ogType?: "website" | "article";
+}
+
+const {
+  title,
+  description,
+  path,
+  robots = "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+  ogType = "website",
+} = Astro.props;
+const canonical = absNewsUrl(path);
+const today = new Date();
+// Article body type is Source Sans 3 (DESIGN.md); Sora for headings.
+const fontPreload = [
+  "/fonts/sora-latin-700-normal.woff2",
+  "/fonts/source-sans-3-latin-400-normal.woff2",
+];
+---
+<!doctype html>
+<html lang="en" class="news">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+<title>{title}</title>
+<meta name="description" content={description} />
+<meta name="robots" content={robots} />
+<link rel="canonical" href={canonical} />
+<link rel="alternate" hreflang="en" href={canonical} />
+<link rel="alternate" hreflang="x-default" href={canonical} />
+<meta name="theme-color" content="#007bff" />
+<meta property="og:locale" content="en_US" />
+<meta property="og:type" content={ogType} />
+<meta property="og:title" content={title} />
+<meta property="og:description" content={description} />
+<meta property="og:url" content={canonical} />
+<meta property="og:site_name" content={NEWS_NAME} />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:title" content={title} />
+<meta name="twitter:description" content={description} />
+{fontPreload.map((href) => <link rel="preload" as="font" type="font/woff2" href={href} crossorigin />)}
+<Fragment set:html={brandHeadLinks()} />
+<slot name="head" />
+<style is:inline set:html={FONTS_CSS + CSS} />
+</head>
+<body>
+<a class="skip-link" href="#main">Skip to content</a>
+<Fragment set:html={siteHeaderHtml(today, { news: true, current: "news" })} />
+<main id="main" class="news-main">
+<slot />
+</main>
+<Fragment set:html={siteFooterHtml(today, { news: true })} />
+<script is:inline set:html={NAV_JS} />
+</body>
+</html>
+
+<style is:global>
+  .skip-link{position:absolute;left:-999px;top:0;z-index:100;background:#fff;color:var(--focus);padding:.75rem 1rem;font-weight:700}
+  .skip-link:focus{left:1rem;top:1rem}
+  .news-main{background:var(--paper);min-height:70vh}
+  .news-wrap{width:min(720px,calc(100% - 2rem));margin:0 auto;padding:clamp(1.75rem,4vw,2.75rem) 0}
+  .news-wrap h1{font-family:Sora,"Sora Fallback",ui-sans-serif,system-ui,sans-serif;color:var(--ink-strong);font-size:clamp(1.9rem,5vw,2.75rem);line-height:1.15;margin:0 0 .75rem}
+  .news-lede{font-family:"Source Sans 3","Source Sans 3 Fallback",ui-sans-serif,system-ui,sans-serif;font-size:1.15rem;color:var(--ink);margin:0}
+  .news-main a:not(.btn){color:var(--focus)}
+</style>

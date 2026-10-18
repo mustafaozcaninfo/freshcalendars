@@ -1,0 +1,16 @@
+{
+  "name": "@freshcalendars/news",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "astro dev",
+    "build": "astro build",
+    "check": "astro check"
+  },
+  "dependencies": {
+    "@freshcalendars/engine": "workspace:*",
+    "@freshcalendars/site-chrome": "workspace:*",
+    "astro": "^5.18.2"
+  }
+}

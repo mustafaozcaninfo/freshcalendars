@@ -20,9 +20,11 @@ fi
 
 export COPYFILE_DISABLE=1
 echo "Deploying $SITE_DIR → $REMOTE_HOST:$REMOTE_PATH ($MODE)"
+# news/ is published by its own pipeline (apps/news) — never delete it from here.
 rsync -avz --delete \
   --exclude '.DS_Store' \
   --exclude 'name-of-archive.tar.gz' \
+  --exclude 'news/' \
   -e ssh \
   "$SITE_DIR/" \
   "$REMOTE_HOST:$REMOTE_PATH"

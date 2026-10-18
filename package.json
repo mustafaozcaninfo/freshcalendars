@@ -16,7 +16,9 @@
     "smoke:mobile": "node scripts/smoke-mobile.mjs",
     "smoke:contrast": "node scripts/smoke-contrast.mjs",
     "smoke:ads": "node scripts/smoke-ads.mjs",
-    "smoke:lighthouse": "node scripts/smoke-lighthouse.mjs"
+    "smoke:lighthouse": "node scripts/smoke-lighthouse.mjs",
+    "news:dev": "pnpm --filter @freshcalendars/news dev",
+    "news:build": "pnpm --filter @freshcalendars/news build"
   },
   "devDependencies": {
     "@types/node": "^22.13.10",

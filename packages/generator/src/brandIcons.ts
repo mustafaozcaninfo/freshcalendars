@@ -192,25 +192,7 @@ export function browserConfigXml(): string {
 `;
 }
 
-/** HTML head fragment: favicons + Apple + PWA (theme-color stays in SEO meta). */
-export function brandHeadLinks(): string {
-  return `<link rel="icon" href="/favicon.svg" type="image/svg+xml" />
-<link rel="icon" href="/favicon.ico" sizes="48x48" />
-<link rel="icon" href="/favicon-32x32.png" type="image/png" sizes="32x32" />
-<link rel="icon" href="/favicon-16x16.png" type="image/png" sizes="16x16" />
-<link rel="apple-touch-icon" href="/apple-touch-icon.png" sizes="180x180" />
-<link rel="mask-icon" href="/safari-pinned-tab.svg" color="${BLUE}" />
-<link rel="manifest" href="/site.webmanifest" />
-<meta name="apple-mobile-web-app-capable" content="yes" />
-<meta name="mobile-web-app-capable" content="yes" />
-<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
-<meta name="apple-mobile-web-app-title" content="${SITE_NAME}" />
-<meta name="application-name" content="${SITE_NAME}" />
-<meta name="msapplication-TileColor" content="${THEME_COLOR}" />
-<meta name="msapplication-config" content="/browserconfig.xml" />
-<link rel="apple-touch-icon" sizes="152x152" href="/icons/apple-touch-icon-152x152.png" />
-<link rel="apple-touch-icon" sizes="167x167" href="/icons/apple-touch-icon-167x167.png" />`;
-}
+export { brandHeadLinks } from "@freshcalendars/site-chrome";
 
 export async function writeBrandIcons(): Promise<void> {
   const master = brandIconSvg(512);

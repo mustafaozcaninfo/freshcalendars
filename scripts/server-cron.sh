@@ -85,7 +85,8 @@ fail() {
 deploy_site() {
   # $1 = "html-only" → never touch origin /assets (PNG/PDF live there + on CDN)
   local mode="${1:-all}"
-  local -a rsync_args=(-a --delete --exclude '.DS_Store')
+  # news/ is published by its own pipeline (apps/news) — never delete it from here.
+  local -a rsync_args=(-a --delete --exclude '.DS_Store' --exclude 'news/')
   if [[ "$mode" == "html-only" ]]; then
     rsync_args+=(--exclude 'assets/')
   fi

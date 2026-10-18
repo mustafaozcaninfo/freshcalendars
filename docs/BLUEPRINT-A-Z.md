@@ -18,6 +18,7 @@ Keşif çıktıları: [`URLS.md`](URLS.md) · [`../URL_INVENTORY.md`](../URL_INV
 | Binary assets | DigitalOcean Spaces + `cdn.freshcalendars.com` | HTML ince; PNG/PDF/og CDN’de |
 | Monetization | AdSense **manuel** `ca-pub-2597035827677267` | Auto ads CLS |
 | Preview UI | Astro (`apps/web`) design sandbox only | Production path değil |
+| News | Astro (`apps/news`) → `/news/`, ayrı build + ayrı deploy | [`NEWS-ROADMAP.md`](NEWS-ROADMAP.md); takvim rsync'leri `news/`'i exclude eder |
 | Marka | Mavi / altın / kırmızı — [`DESIGN.md`](DESIGN.md) | Live CSS + logo; ItsCalendar krem/terracotta değil |
 
 **Yapma:** Soft-404, year-qualified indexable twin’ler, FullCalendar editor’ü core ürün, ItsCalendar görsel klonu.
@@ -48,6 +49,7 @@ packages/
   generator/   # CLI + Playwright + sitePages SSG + Spaces
 apps/
   web/         # Astro design preview ONLY
+  news/        # Astro Google News bölümü → /news/ (NEWS-ROADMAP.md)
 scripts/       # deploy, cron, smoke, CF/nginx
 server/
   php/         # contact API + admin
@@ -285,7 +287,7 @@ ItsCalendar `.env` değerlerini aynen kopyalama — yanlış zone/bucket/path.
 
 - Year-qualified indexable kopyalar
 - Soft-404
-- Full blog CMS
+- Full blog CMS (istisna: `/news/` git tabanlı Markdown haber bölümü — veritabanlı CMS yok, bkz. NEWS-ROADMAP.md)
 - Legacy editor / DOCX / PHPlinks
 - ItsCalendar görsel kimliğini kopyalamak
 
