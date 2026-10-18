@@ -1,50 +1,137 @@
 ---
-title: "Daylight Saving Time Ends Sunday, Nov. 1, 2026: Clocks Fall Back One Hour"
-seoTitle: "Daylight Saving Time Ends Nov. 1, 2026: Fall Back"
-description: "Clocks in most of the US move back one hour at 2 a.m. local time on Sunday, Nov. 1, 2026. Who changes, who does not, and which calendar dates it touches."
+title: "Daylight Saving Time Ends Nov. 1, 2026: Clocks Fall Back While the Permanent-DST Bill Waits in the Senate"
+seoTitle: "Daylight Saving Time Ends Nov. 1, 2026: Fall Back Guide"
+description: "Clocks fall back one hour at 2 a.m. on Sunday, Nov. 1, 2026. The House voted for permanent DST in July, but the Senate has not acted. What changes and when."
 type: news
 publishedAt: "2026-10-17T16:00:00-04:00"
+updatedAt: "2026-10-18T04:30:00-04:00"
 authors: [news-desk]
 category: time-change
-keywords: ["daylight saving time 2026", "fall back 2026", "clocks change November 2026"]
+keywords: ["daylight saving time ends 2026", "fall back November 1 2026", "Sunshine Protection Act 2026", "permanent daylight saving time", "clocks change 2026"]
 dateline: "New York"
 hero:
   src: ../../../../assets/news/daylight-saving-time-ends-november-1-2026/daylight-saving-time-ends-november-1-2026.jpg
-  alt: "Calendar page marked Nov. 1, the day daylight saving time ends in 2026"
+  alt: "Illustration of a clock turning back from 2:00 to 1:00 next to a calendar page for Sunday, Nov. 1"
 summary:
-  - "Daylight saving time ends at 2:00 a.m. local time on Sunday, Nov. 1, 2026."
-  - "Clocks go back one hour, so 1:00 a.m. to 2:00 a.m. happens twice that night."
-  - "Hawaii and most of Arizona stay on standard time all year and do not change."
+  - "Daylight saving time ends at 2:00 a.m. local time on Sunday, Nov. 1, 2026; clocks go back to 1:00 a.m."
+  - "The House passed the Sunshine Protection Act 308-117 on July 14, 2026, but the Senate has not voted on it."
+  - "Any Senate vote would come after Nov. 1, so the November clock change happens either way."
+  - "Clocks spring forward again on Sunday, March 14, 2027, unless Congress changes the law first."
 faq:
-  - q: "Do I gain or lose an hour on Nov. 1, 2026?"
-    a: "You gain an hour. Clocks move from 2:00 a.m. back to 1:00 a.m., so the night is one hour longer."
+  - q: "What time does daylight saving time end in 2026?"
+    a: "At 2:00 a.m. local time on Sunday, Nov. 1, 2026. Clocks move back to 1:00 a.m., so the hour from 1:00 to 2:00 a.m. happens twice."
+  - q: "Do I gain or lose an hour of sleep?"
+    a: "You gain an hour. The night of Oct. 31 to Nov. 1 is 25 hours long in places that observe daylight saving time."
+  - q: "Did Congress make daylight saving time permanent?"
+    a: "No. The House passed the Sunshine Protection Act on July 14, 2026, but the Senate has not voted on it and the president has not signed it. Current law still requires the November change."
   - q: "When does daylight saving time start again?"
-    a: "Under current federal law it starts on the second Sunday in March, which is March 14, 2027."
+    a: "On the second Sunday in March, which is March 14, 2027. Clocks move forward from 2:00 a.m. to 3:00 a.m."
+  - q: "Which states do not change their clocks?"
+    a: "Hawaii and most of Arizona stay on standard time all year. The Navajo Nation in Arizona does observe daylight saving time. Puerto Rico, Guam, American Samoa and the U.S. Virgin Islands also stay on standard time."
 sources:
+  - title: "Daylight Saving Time (DST)"
+    url: "https://www.nist.gov/pml/time-and-frequency-division/popular-links/daylight-saving-time-dst"
+    publisher: "National Institute of Standards and Technology"
+  - title: "Roll Call 238, H.R. 139, 119th Congress"
+    url: "https://clerk.house.gov/Votes/2026238"
+    publisher: "Office of the Clerk, U.S. House of Representatives"
+    date: "2026-07-14"
+  - title: "House Passes Legislation to Make Daylight Saving Time Permanent"
+    url: "https://energycommerce.house.gov/posts/house-passes-legislation-to-make-daylight-saving-time-permanent"
+    publisher: "House Committee on Energy and Commerce"
+    date: "2026-07-14"
+  - title: "Most Americans Want to Stop Changing the Clocks. Here's Why Senators Are Hesitating"
+    url: "https://time.com/article/2026/10/07/senate-permanent-daylight-saving-time-sunshine-protection-act/"
+    publisher: "TIME"
+    date: "2026-10-07"
+  - title: "Daylight Saving Time State Legislation"
+    url: "https://www.ncsl.org/transportation/daylight-saving-time-state-legislation"
+    publisher: "National Conference of State Legislatures"
   - title: "15 U.S. Code § 260a — Advancement of time or changeover dates"
     url: "https://www.law.cornell.edu/uscode/text/15/260a"
     publisher: "Legal Information Institute, Cornell Law School"
-  - title: "Daylight Saving Time"
-    url: "https://www.nist.gov/pml/time-and-frequency-division/popular-links/daylight-saving-time-dst"
-    publisher: "National Institute of Standards and Technology"
 internalLinks:
   - href: "/page/daylight-savings/"
-    label: "Daylight saving time guide"
+    label: "Daylight saving time guide: 2026 and 2027 dates"
+  - href: "/when-is/daylight-savings/"
+    label: "When does daylight saving time start and end?"
   - href: "/november-calendars.html"
-    label: "November printable calendar"
+    label: "November 2026 printable calendar"
+  - href: "/march-calendars.html"
+    label: "March 2027 printable calendar"
 draft: false
 ---
 
-Daylight saving time ends at 2:00 a.m. local time on **Sunday, Nov. 1, 2026**, when clocks in most of the United States move back one hour to 1:00 a.m.
+Daylight saving time ends at **2:00 a.m. local time on Sunday, Nov. 1, 2026**, when clocks in most of the United States move back one hour to 1:00 a.m. The change goes ahead even though the House of Representatives voted in July to make daylight saving time permanent: that bill, the Sunshine Protection Act, is still waiting for the Senate, and no Senate vote can happen before Nov. 1.
 
-## What changes on Nov. 1
+## What happens at 2 a.m. on Nov. 1
 
-The Uniform Time Act sets the end of daylight saving time on the first Sunday in November. In 2026 that is Nov. 1. Phones and computers update on their own; wall clocks, ovens and car clocks need to be set back by hand.
+Federal law sets the end of daylight saving time on the first Sunday in November, and each time zone switches at 2:00 a.m. local time. In 2026 that Sunday is Nov. 1. Clocks go from 1:59:59 a.m. back to 1:00 a.m., so the hour from 1:00 to 2:00 a.m. happens twice and the night is 25 hours long.
+
+Phones, computers and most smart watches update on their own. Ovens, microwaves, car dashboards, wall clocks and many thermostats do not. The National Institute of Standards and Technology (NIST) keeps the official U.S. time and lists the switch rules used by every time zone.
+
+| Time zone | Change happens at | Standard time after the change |
+|---|---|---|
+| Eastern | 2:00 a.m. EDT → 1:00 a.m. EST | UTC−5 |
+| Central | 2:00 a.m. CDT → 1:00 a.m. CST | UTC−6 |
+| Mountain (except most of Arizona) | 2:00 a.m. MDT → 1:00 a.m. MST | UTC−7 |
+| Pacific | 2:00 a.m. PDT → 1:00 a.m. PST | UTC−8 |
+| Alaska | 2:00 a.m. AKDT → 1:00 a.m. AKST | UTC−9 |
+| Hawaii | No change | UTC−10 all year |
+
+Because each zone switches at its own 2:00 a.m., the East Coast changes first and Alaska changes four hours later.
 
 ## Who does not change clocks
 
-Hawaii and most of Arizona observe standard time all year. The Navajo Nation in Arizona does observe daylight saving time. US territories including Puerto Rico, Guam and the US Virgin Islands also stay on standard time.
+Hawaii and most of Arizona stay on standard time all year. The Navajo Nation, which covers part of northeastern Arizona, does observe daylight saving time. Puerto Rico, Guam, American Samoa and the U.S. Virgin Islands also stay on standard time. For people in those places, the only thing that changes on Nov. 1 is the time difference with the rest of the country.
 
-## Dates to mark
+## The Sunshine Protection Act: where it stands
 
-Write the change on the Nov. 1 square of your November calendar. The next change, when clocks spring forward, is Sunday, March 14, 2027.
+The House passed the Sunshine Protection Act (H.R. 139) on **July 14, 2026, by a vote of 308 to 117**, according to the House Clerk's roll call. Republicans voted 193 to 22 in favor and Democrats 114 to 95, with one independent voting yes. The measure reached the floor as part of the Motor Vehicle Modernization Act, which the Energy and Commerce Committee had approved 48 to 1.
+
+The bill would end the twice-a-year switch by keeping the country on daylight time all year. Places that already skip daylight saving time, such as Hawaii and most of Arizona, could stay on standard time.
+
+The Senate received the bill on July 15 and sent it to the Committee on Commerce, Science, and Transportation. It has not had a floor vote. In early October, Senate Majority Leader John Thune said there was no consensus among senators on moving it, TIME reported. Sen. Tom Cotton of Arkansas has led opposition, pointing to late winter sunrises, and Sen. Roger Wicker of Mississippi raised safety concerns about children waiting for school buses in the dark. Sen. Rick Scott of Florida, a long-time sponsor, has said he wants a vote in the lame-duck session in November and December. President Donald Trump has repeatedly urged Congress to pass the bill.
+
+| Step | Status |
+|---|---|
+| House vote | Passed 308-117 on July 14, 2026 |
+| Senate committee | Referred to Commerce, Science, and Transportation on July 15, 2026 |
+| Senate floor vote | Not scheduled |
+| President's signature | Not reached |
+| Effect on Nov. 1, 2026 | None: clocks still fall back |
+
+### Why the timing matters
+
+The lame-duck session starts after the Nov. 3 election, two days after the clocks change. Even a fast Senate vote could not stop the Nov. 1 switch. The next date that could be affected is March 14, 2027, when clocks are scheduled to spring forward.
+
+## The debate in brief
+
+Supporters of permanent daylight time point to brighter evenings and polling that shows most people dislike changing clocks. An AP-NORC poll cited by TIME found 47% of adults oppose the twice-yearly change and 12% support it, with 56% preferring permanent daylight time to 42% for permanent standard time.
+
+Sleep doctors favor the other option. The American Academy of Sleep Medicine has endorsed permanent standard time, arguing that later winter sunrises under permanent daylight time would conflict with the body clock. Opponents also cite the country's earlier attempt: year-round daylight time began in January 1974 during the energy crisis and was repealed before the year ended.
+
+States are split as well. At least 18 states have passed laws to adopt permanent daylight time if Congress allows it, according to the National Conference of State Legislatures, while bills for permanent standard time, which states can adopt without Congress, were pending in several legislatures in 2026.
+
+## Dates to mark on your calendar
+
+| Event | Date | Clock change |
+|---|---|---|
+| Daylight saving time ends | Sunday, Nov. 1, 2026 | 2:00 a.m. → 1:00 a.m. |
+| Election Day | Tuesday, Nov. 3, 2026 | None |
+| Daylight saving time begins | Sunday, March 14, 2027 | 2:00 a.m. → 3:00 a.m. |
+| Daylight saving time ends | Sunday, Nov. 7, 2027 | 2:00 a.m. → 1:00 a.m. |
+
+Under current rules, daylight saving time covers 238 days a year, about 65% of the calendar, NIST notes.
+
+## A short checklist for the weekend
+
+- Set manual clocks back one hour before bed on Saturday, Oct. 31, or first thing Sunday.
+- Check smoke and carbon monoxide alarm batteries; many fire departments use the clock change as a reminder.
+- If you work an overnight shift, confirm how your employer counts the repeated 1:00 a.m. hour.
+- Expect earlier sunsets: evenings get dark about an hour sooner by clock time starting Nov. 1.
+- Write Nov. 1 and March 14, 2027 on your printed calendar so the next change does not catch you off guard.
+
+## What to watch next
+
+The Senate returns for its lame-duck session after the Nov. 3 election. If the bill is not passed before the 119th Congress ends on Jan. 3, 2027, it expires and would have to be introduced again in the next Congress. Until a law changes, the second Sunday in March and the first Sunday in November remain the national switch dates.
