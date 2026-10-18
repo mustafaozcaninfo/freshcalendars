@@ -1,6 +1,6 @@
 # Fresh Calendars News — Yol Haritası (`/news/`, Astro, Google News)
 
-Hazırlanma: 2026-10-18 · Durum: **N0–N7 ✔ (altyapı canlıda, /news/ yayını ve news cron’u N9’a kadar kapalı) · sıradaki N8**
+Hazırlanma: 2026-10-18 · Durum: **N0–N8 ✔ (altyapı canlıda, /news/ yayını ve news cron’u N9’a kadar kapalı) · sıradaki N9 lansman**
 Kaynaklar: canlı `tech-insider.org` analizi (sitemap index, post sitemap, RSS, örnek makale `verizon-iphone-handoff-fee-10-dollars-2026`), `SEO-HARITASI-TAM.md`, `docs/DESIGN.md`, `docs/BLUEPRINT-A-Z.md`, `packages/generator/src/sitePages.ts`, VPS/nginx/Cloudflare yapılandırması.
 
 ---
@@ -422,6 +422,13 @@ AdSense yüklendiğinde Best Practices üçüncü-taraf çerez/konsol uyarılar�
 - **N8.1** About News, Editorial Policy, Corrections, Masthead.
 - **N8.2** `/when-is/*` sayfalarına “Latest news” kutusu (generator, `latest.json`).
 - **N8.3** Footer’a News, Editorial Policy linkleri.
+- ✔ **Yapıldı (2026-10-18):**
+  - `policies` koleksiyonu + `PolicyPage`: `/news/about/` (AboutPage), `/news/editorial-policy/` (kaynak, doğruluk, araç/AI kullanımı + insan onayı, `#ethics`, güncellemeler, `#feedback`), `/news/corrections-policy/` (tarihli düzeltme notu, `#feedback`), `/news/masthead/` (News Desk, iletişim, politikalar). Hepsinde görünür breadcrumb, “Last updated”, politika gezinmesi; JSON-LD `policyGraph`. Makale slug’ları bu yolları ve `page/category/author/404`’ü kullanamaz.
+  - Organization JSON-LD artık `publishingPrinciples`, `ethicsPolicy`, `correctionsPolicy`, `masthead`, `actionableFeedbackPolicy` (+ `license`) veriyor; `page-sitemap.xml` index’e eklendi.
+  - Footer (`opts.news`): News + Editorial policy.
+  - N8.2: news build `dist/news-data/latest.json` üretir (when-is slug → son 120 gündeki en fazla 3 haber, `internalLinks`’ten; public çıktıya girmez). Generator `newsLinks.ts` → when-is sayfalarında “Latest news” kutusu, yalnız `NEWS_LAUNCHED=true` iken; kapalıyken when-is HTML’i byte-byte aynı (doğrulandı), açıkken yalnız haberi olan 3 sayfada görünüyor (doğrulandı). VPS’te sıralama: 15 dk news-publish veriyi tazeler, 05:25 refresh-meta okur.
+  - Lighthouse: makale + editorial-policy dahil 5 sayfa tipinde 100/100/100/100. Testler 46/46.
+- ⚠ Politika metinleri (özellikle AI/araç kullanımı ve düzeltme taahhütleri) yayından önce site sahibi tarafından okunup onaylanmalı.
 
 ### Faz N9 — Lansman (0.5 gün + izleme)
 - **N9.1** İlk 10 gerçek haber (kaynaklı, editör kontrollü).

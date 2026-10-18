@@ -299,6 +299,46 @@ export function listingGraph(l: ListingSeo): Record<string, unknown> {
   return { "@context": "https://schema.org", "@graph": nodes };
 }
 
+/** Single editorial/trust page (About, Editorial Policy, …): WebPage or AboutPage + breadcrumb. */
+export function policyGraph(p: {
+  path: string;
+  name: string;
+  description: string;
+  schemaType: "AboutPage" | "WebPage";
+  modifiedAt: Date;
+}): Record<string, unknown> {
+  const url = absNewsUrl(p.path);
+  const crumbs = [
+    { name: "Home", item: `${SITE_ORIGIN}/` },
+    { name: "News", item: absNewsUrl("/news/") },
+    { name: p.name, item: url },
+  ];
+  return {
+    "@context": "https://schema.org",
+    "@graph": [
+      organizationNode(),
+      { "@type": "WebSite", "@id": WEBSITE_ID, url: `${SITE_ORIGIN}/`, name: NEWS_NAME, publisher: { "@id": ORG_ID }, inLanguage: "en-US" },
+      {
+        "@type": "BreadcrumbList",
+        "@id": `${url}#breadcrumb`,
+        itemListElement: crumbs.map((c, i) => ({ "@type": "ListItem", position: i + 1, item: { "@id": c.item, name: c.name } })),
+      },
+      {
+        "@type": p.schemaType,
+        "@id": `${url}#webpage`,
+        url,
+        name: p.name,
+        description: p.description,
+        dateModified: isoDateTime(p.modifiedAt),
+        isPartOf: { "@id": WEBSITE_ID },
+        about: { "@id": ORG_ID },
+        breadcrumb: { "@id": `${url}#breadcrumb` },
+        inLanguage: "en-US",
+      },
+    ],
+  };
+}
+
 /** JSON for a <script type="application/ld+json"> — `<` escaped so text can't close the tag. */
 export function jsonLdString(data: unknown): string {
   return JSON.stringify(data).replace(/</g, "\\u003c");

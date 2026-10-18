@@ -1,7 +1,7 @@
 import assert from "node:assert/strict";
 import { describe, it } from "node:test";
 import { pagePath, pagedTitle, paginate } from "../src/lib/listing.ts";
-import { listingGraph } from "../src/lib/seo.ts";
+import { listingGraph, policyGraph } from "../src/lib/seo.ts";
 
 type Node = Record<string, any>;
 
@@ -52,5 +52,15 @@ describe("listingGraph", () => {
     const page = g.find((n) => n["@type"] === "ProfilePage")!;
     assert.equal(page.mainEntity["@id"], "https://freshcalendars.com/news/author/news-desk/");
     assert.ok(g.some((n) => n["@id"] === page.mainEntity["@id"] && n.description === "bio"));
+  });
+});
+
+describe("policyGraph", () => {
+  it("emits AboutPage with breadcrumb Home → News → page and dateModified", () => {
+    const g = policyGraph({ path: "/news/about/", name: "About Fresh Calendars News", description: "d", schemaType: "AboutPage", modifiedAt: new Date("2026-10-18T13:00:00Z") })["@graph"] as Node[];
+    const page = g.find((n) => n["@type"] === "AboutPage")!;
+    assert.equal(page.dateModified, "2026-10-18T13:00:00+00:00");
+    const crumbs = g.find((n) => n["@type"] === "BreadcrumbList")!.itemListElement as Node[];
+    assert.deepEqual(crumbs.map((c) => c.position), [1, 2, 3]);
   });
 });

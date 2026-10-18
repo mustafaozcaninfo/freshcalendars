@@ -15,8 +15,8 @@ export function absNewsUrl(path: string): string {
 }
 
 /**
- * Trust/policy pages referenced from Organization JSON-LD. null = not published yet
- * (N8), so nothing links to a 404. Fill in the path when the page ships.
+ * Trust/policy pages referenced from Organization JSON-LD (Google News transparency signals).
+ * Set a path to null to stop referencing a page.
  */
 export const TRUST_PAGES: {
   publishingPrinciples: string | null;
@@ -26,10 +26,13 @@ export const TRUST_PAGES: {
   actionableFeedbackPolicy: string | null;
   license: string | null;
 } = {
-  publishingPrinciples: null,
-  ethicsPolicy: null,
-  correctionsPolicy: null,
-  masthead: null,
-  actionableFeedbackPolicy: null,
+  publishingPrinciples: "/news/editorial-policy/",
+  ethicsPolicy: "/news/editorial-policy/#ethics",
+  correctionsPolicy: "/news/corrections-policy/",
+  masthead: "/news/masthead/",
+  actionableFeedbackPolicy: "/news/corrections-policy/#feedback",
   license: "/page/terms-of-use/",
 };
+
+/** Policy page slugs live at /news/<id>/ — articles may not reuse them. */
+export const POLICY_PAGES = ["about", "editorial-policy", "corrections-policy", "masthead"] as const;

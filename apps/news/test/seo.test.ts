@@ -63,9 +63,11 @@ describe("articleGraph", () => {
     assert.equal(t("explainer"), "BackgroundNewsArticle");
     assert.equal(t("analysis"), "AnalysisNewsArticle");
   });
-  it("does not reference unpublished trust pages", () => {
+  it("links the Organization to the published trust pages", () => {
     const org = byType("Organization")[0]!;
-    assert.equal(org.publishingPrinciples, undefined);
+    assert.equal(org.publishingPrinciples, "https://freshcalendars.com/news/editorial-policy/");
+    assert.equal(org.correctionsPolicy, "https://freshcalendars.com/news/corrections-policy/");
+    assert.equal(org.masthead, "https://freshcalendars.com/news/masthead/");
     assert.equal(org.logo.width, 512);
   });
 });

@@ -1,10 +1,13 @@
 import { getCollection, getEntry, type CollectionEntry } from "astro:content";
+import { POLICY_PAGES } from "./site";
 
 export type Article = CollectionEntry<"articles">;
 
 const SLUG = /^[a-z0-9]+(?:-[a-z0-9]+)*$/;
 /** Discover / Article rich results want large images; 1600px also covers 2x on 800px layouts. */
 export const HERO_MIN_WIDTH = 1600;
+/** Slugs that are section/policy routes under /news/. */
+const RESERVED = new Set<string>(["page", "category", "author", "404", ...POLICY_PAGES]);
 
 /**
  * Articles that may be rendered: no drafts in production builds and nothing
@@ -15,6 +18,7 @@ export async function getPublishedArticles(now: Date = new Date()): Promise<Arti
   const all = await getCollection("articles");
   for (const a of all) {
     if (!SLUG.test(a.id)) throw new Error(`article slug "${a.id}" must be lowercase kebab-case`);
+    if (RESERVED.has(a.id)) throw new Error(`article slug "${a.id}" is reserved for a section page`);
     const w = a.data.hero.src.width;
     if (w < HERO_MIN_WIDTH) throw new Error(`article "${a.id}": hero is ${w}px wide, needs ${HERO_MIN_WIDTH}px`);
     // Astro does not check that references exist until they are resolved — do it for every build.

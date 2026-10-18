@@ -52,6 +52,7 @@ import {
   siteHeaderHtml,
 } from "@freshcalendars/site-chrome";
 import { brandHeadLinks, writeBrandIcons } from "./brandIcons.js";
+import { latestNewsHtml } from "./newsLinks.js";
 import { DIST_SITE, ROOT } from "./paths.js";
 import { displayPreview2xUrl, displayPreviewUrl } from "./previews.js";
 
@@ -1401,7 +1402,7 @@ ${adBand(ADS.inArticle, "FreshCalendars_WhenIs_Top")}`;
     ${tips.map((t) => `<li>${esc(t)}</li>`).join("\n    ")}
     <li>Use the <a href="/printable-weekly-calendar.html">weekly planner pack</a> for the days around ${esc(h.formatted)}.</li>
   </ul>
-  ${adUnit(ADS.holiday, "FreshCalendars_New_Holidays", "banner")}
+  ${latestNewsHtml(slug)}${adUnit(ADS.holiday, "FreshCalendars_New_Holidays", "banner")}
   <h3>Nearby ${y} holidays</h3>
   <div class="side-links" style="grid-template-columns:repeat(auto-fill,minmax(12rem,1fr));display:grid;gap:.5rem">${related}</div>
 </section>

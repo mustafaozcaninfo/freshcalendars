@@ -27,8 +27,8 @@ if (process.env.LH_SKIP_BUILD !== "1") {
 
 const dist = path.join(ROOT, "dist/news");
 const firstDir = (sub) => fs.readdirSync(path.join(dist, sub)).find((d) => fs.existsSync(path.join(dist, sub, d, "index.html")));
-const article = fs.readdirSync(dist).find((d) => !["_astro", "author", "category", "page"].includes(d) && fs.existsSync(path.join(dist, d, "index.html")));
-const urls = ["/news/", article && `/news/${article}/`, firstDir("category") && `/news/category/${firstDir("category")}/`, `/news/author/${firstDir("author")}/`]
+const article = fs.readdirSync(dist).find((d) => !["_astro", "author", "category", "page", "about", "editorial-policy", "corrections-policy", "masthead"].includes(d) && fs.existsSync(path.join(dist, d, "index.html")));
+const urls = ["/news/", article && `/news/${article}/`, firstDir("category") && `/news/category/${firstDir("category")}/`, `/news/author/${firstDir("author")}/`, "/news/editorial-policy/"]
   .filter(Boolean)
   .map((p) => ORIGIN + p);
 

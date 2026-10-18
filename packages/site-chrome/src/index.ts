@@ -853,7 +853,7 @@ export function siteFooterHtml(today: Date = new Date(), opts: ChromeOpts = {}):
       <a href="/print-guide.html" title="Print guide">Print guide</a>
       <a href="/holidays/" title="US holidays">US holidays</a>
       <a href="/uk-holidays/" title="UK holidays">UK</a>
-      <a href="/canada-holidays/" title="Canada holidays">Canada</a>${opts.news ? `\n      <a href="/news/" title="Calendar and holiday news">News</a>` : ""}
+      <a href="/canada-holidays/" title="Canada holidays">Canada</a>${opts.news ? `\n      <a href="/news/" title="Calendar and holiday news">News</a>\n      <a href="/news/editorial-policy/" title="Fresh Calendars News editorial policy">Editorial policy</a>` : ""}
       <a href="/guides/classroom-printable-calendars.html" title="Classroom guides">Guides</a>
       <a href="/sitemap.xml" title="Sitemap">Sitemap</a>
       <a href="/feed.xml" title="RSS feed">RSS</a>

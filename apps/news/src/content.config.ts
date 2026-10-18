@@ -104,4 +104,15 @@ const categories = defineCollection({
   }),
 });
 
-export const collections = { articles, authors, categories };
+/** Trust pages (About News, Editorial Policy, Corrections, Masthead) — NEWS-ROADMAP N8. */
+const policies = defineCollection({
+  loader: glob({ pattern: "*.md", base: "./src/content/policies", generateId: slugFromFile }),
+  schema: z.object({
+    title: z.string().min(5).max(70),
+    description: z.string().min(120).max(160),
+    schemaType: z.enum(["AboutPage", "WebPage"]).default("WebPage"),
+    updatedAt: isoDate,
+  }),
+});
+
+export const collections = { articles, authors, categories, policies };
