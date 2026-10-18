@@ -718,6 +718,8 @@ ins.adsbygoogle[data-ad-status="filled"]{
   .site-header{background:transparent; backdrop-filter:none; min-height:60px}
   .nav-toggle{display:none!important}
   .nav-drawer{width:auto; margin-left:0; flex:1 1 auto; min-width:0}
+  /* Chrome 131+ hides a closed <details> body via ::details-content; show the inline desktop nav anyway. */
+  .nav-drawer::details-content{content-visibility:visible; display:contents}
   .nav-drawer[open]::before{display:none}
   .nav-drawer > .nav,
   .nav-drawer[open] > .nav{
