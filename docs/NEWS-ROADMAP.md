@@ -1,6 +1,6 @@
 # Fresh Calendars News — Yol Haritası (`/news/`, Astro, Google News)
 
-Hazırlanma: 2026-10-18 · Durum: **N0 ✔ · N1 ✔ · N2 ✔ · N3 ✔ · N4 ✔ · N5 ✔ · sıradaki N6**
+Hazırlanma: 2026-10-18 · Durum: **N0 ✔ · N1 ✔ · N2 ✔ · N3 ✔ · N4 ✔ · N5 ✔ · N6 ✔ · sıradaki N7**
 Kaynaklar: canlı `tech-insider.org` analizi (sitemap index, post sitemap, RSS, örnek makale `verizon-iphone-handoff-fee-10-dollars-2026`), `SEO-HARITASI-TAM.md`, `docs/DESIGN.md`, `docs/BLUEPRINT-A-Z.md`, `packages/generator/src/sitePages.ts`, VPS/nginx/Cloudflare yapılandırması.
 
 ---
@@ -390,6 +390,8 @@ AdSense yüklendiğinde Best Practices üçüncü-taraf çerez/konsol uyarılar�
 - **N6.4** Kontrast/link renkleri, a11y düzeltmeleri.
 - **N6.5** `pnpm news:lighthouse` (LHCI, minScore 1.0).
 - ✅ Kabul: 3 sayfa tipinde mobil 100/100/100/100 (3 koşu medyanı).
+- ✔ **Yapıldı (2026-10-18):** `pnpm news:lighthouse` (`scripts/news-lighthouse.mjs`, lighthouse@12.2.1 mobil; `/news/`, makale, kategori, yazar; `LH_RUNS` medyan, `LH_MIN` eşik, başarısız denetimleri düğüm düzeyinde yazdırır) + `pnpm news:serve` (`scripts/news-serve.mjs`: `/news/`→`dist/news`, gerisi `dist/site`, gzip, §7.4 cache başlıkları). Lighthouse için build `NEWS_SITE_ORIGIN=http://localhost:4324` ile yapılır (canonical denetlenen host’ta kalsın). **Sonuç (3 koşu medyanı): 4 sayfa tipinin hepsi 100/100/100/100, LCP 1.4 s, CLS 0, TBT 0 ms.** Tek bulgu kontrasttı: `#777` metin (→ news-main `--ink`) ve mavi zeminde beyaz “Menu” 3.97:1 (→ news sayfalarında 19 px bold = büyük metin). Inline CSS 35 KB ham / 8 KB gzip, makale HTML 13.6 KB gzip, 2 inline script (nav + JSON-LD).
+- ⚠ Ana sitede de aynı “Menu” kontrast sorunu var (site-chrome’da düzeltilirse ana site görünümü de değişir — ayrı karar).
 
 ### Faz N7 — Deploy ve operasyon (1.5 gün)
 - **N7.1** `news:build`, `news:verify`, `news:deploy` script’leri.

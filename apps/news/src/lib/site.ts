@@ -1,4 +1,5 @@
-export const SITE_ORIGIN = "https://freshcalendars.com";
+/** NEWS_SITE_ORIGIN lets local Lighthouse runs keep canonicals on the audited host. */
+export const SITE_ORIGIN = process.env.NEWS_SITE_ORIGIN ?? "https://freshcalendars.com";
 export const NEWS_BASE = "/news/";
 export const NEWS_NAME = "Fresh Calendars";
 export const NEWS_DESK = {

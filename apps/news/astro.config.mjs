@@ -24,7 +24,7 @@ const cleanBuildLeftovers = {
  * and is deployed on its own to public_html/news/. See docs/NEWS-ROADMAP.md.
  */
 export default defineConfig({
-  site: "https://freshcalendars.com",
+  site: process.env.NEWS_SITE_ORIGIN ?? "https://freshcalendars.com",
   base: "/news",
   trailingSlash: "always",
   output: "static",
