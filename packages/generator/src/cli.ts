@@ -2,7 +2,7 @@
 import { spawn } from "node:child_process";
 import fs from "node:fs";
 import path from "node:path";
-import { generateAll, refreshEvergreen, rollover, shutdown, verifyDist } from "./gen.js";
+import { generateAll, refreshEvergreen, refreshMeta, rollover, shutdown, verifyDist } from "./gen.js";
 import { ROOT } from "./paths.js";
 import { purgeDoCdn, syncCdnAssets } from "./spaces.js";
 
@@ -72,6 +72,8 @@ async function main(): Promise<void> {
       console.log(`${cmd} complete`);
     } else if (cmd === "refresh-evergreen") {
       await refreshEvergreen();
+    } else if (cmd === "refresh-meta" || cmd === "gen-meta-daily") {
+      await refreshMeta();
     } else if (cmd === "rollover") {
       const to = Number(argValue("--to"));
       if (!to) throw new Error("--to YYYY required");
@@ -97,6 +99,7 @@ async function main(): Promise<void> {
   pnpm fc gen --year 2026 [--family monthly|yearly|blank|weekly|school]
   pnpm fc build [--skip-assets]
   pnpm fc gen-meta          # meta + HTML only (skips PNG/PDF render)
+  pnpm fc refresh-meta      # daily: Eastern bake date, HTML only, no PNG/OG
   pnpm fc refresh-evergreen
   pnpm fc rollover --to 2027 --confirm
   pnpm fc verify

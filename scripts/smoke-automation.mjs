@@ -12,6 +12,8 @@ import {
   schoolYearStartYear,
   schoolYearSpanLabel,
   holidaysForYear,
+  resolveBakeToday,
+  sundayWeekRangeLabel,
 } from "../packages/engine/src/index.ts";
 
 const BASE = process.env.SMOKE_BASE || "https://freshcalendars.com";
@@ -83,6 +85,22 @@ function verifyYearMath() {
   ok("year-transition engine math (Aug/Sep/Jan + UK/CA 2027)");
 }
 
+async function verifyThisWeek() {
+  const bake = resolveBakeToday(new Date());
+  const range = sundayWeekRangeLabel(bake);
+  const needle = `Week of ${range} (Sunday start)`;
+  const url = `${BASE}/printable-weekly-calendar.html`;
+  const html = await (await fetch(url)).text();
+  if (!html.includes(needle)) {
+    fail(`weekly page missing ${needle}`);
+  } else ok(`this week → ${range}`);
+  if (String(BASE).includes("freshcalendars")) {
+    const logo = await fetch(`${BASE}/img/fresh-logo.png`, { redirect: "manual" });
+    if (logo.status !== 200) fail(`/img/fresh-logo.png expected 200 got ${logo.status}`);
+    else ok("header logo /img/fresh-logo.png");
+  }
+}
+
 async function verifyLiveYears() {
   const now = new Date();
   const y = resolvePlanningYear(now);
@@ -90,7 +108,7 @@ async function verifyLiveYears() {
   const janY = resolveMonthYear(1, now);
 
   // Homepage / yearly hubs mention planning year in HTML
-  const yearly = await (await fetch(`${BASE}/printable-calendar.html`)).text();
+  const yearly = await (await fetch(`${BASE}/printable-calendars.html`)).text();
   if (!yearly.includes(String(y))) fail(`yearly hub missing planning year ${y}`);
   else ok(`yearly hub shows ${y}`);
 
@@ -98,7 +116,7 @@ async function verifyLiveYears() {
   if (!nextPage.includes(String(next))) fail(`next-year hub missing ${next}`);
   else ok(`next-year hub shows ${next}`);
 
-  const jan = await (await fetch(`${BASE}/printable-january-calendar.html`)).text();
+  const jan = await (await fetch(`${BASE}/january-calendars.html`)).text();
   if (!jan.includes(String(janY))) fail(`january page missing resolved year ${janY}`);
   else ok(`january evergreen → ${janY}`);
 
@@ -118,7 +136,7 @@ async function verifyLiveYears() {
 }
 
 async function verifyCacheHeaders() {
-  const html = await fetchHead(`${BASE}/printable-calendar.html`);
+  const html = await fetchHead(`${BASE}/printable-calendars.html`);
   const cc = html.headers.get("cache-control") || "";
   const cdnCc = html.headers.get("cdn-cache-control") || "";
   const cf = html.headers.get("cf-cache-status") || "";
@@ -160,7 +178,7 @@ async function verifyCacheHeaders() {
 
   // TTFB sanity on warm HIT
   const t0 = performance.now();
-  const warm = await fetch(`${BASE}/printable-august-calendar.html`);
+  const warm = await fetch(`${BASE}/august-calendars.html`);
   await warm.arrayBuffer();
   const ms = performance.now() - t0;
   const wst = warm.headers.get("cf-cache-status") || "";
@@ -169,9 +187,21 @@ async function verifyCacheHeaders() {
 }
 
 async function main() {
+  const only = process.env.SMOKE_ONLY || "";
+  if (only === "week") {
+    console.log("=== This-week smoke ===");
+    await verifyThisWeek();
+    if (fails) {
+      console.error(`\nWeek smoke FAILED (${fails})`);
+      process.exit(1);
+    }
+    console.log("\nWeek smoke OK");
+    return;
+  }
   console.log("=== Automation / year / cache smoke ===");
   verifyYearMath();
   runShellSmoke();
+  await verifyThisWeek();
   await verifyLiveYears();
   await verifyCacheHeaders();
 
@@ -179,7 +209,7 @@ async function main() {
     console.error(`\nAutomation smoke FAILED (${fails})`);
     process.exit(1);
   }
-  console.log("\nAutomation smoke OK — year transitions + HTTP + CDN + cache");
+  console.log("\nAutomation smoke OK — year transitions + HTTP + CDN + cache + week");
 }
 
 main().catch((e) => {

@@ -18,11 +18,16 @@ import {
   DEFAULT_MONTHLY_VARIANT,
   DEFAULT_YEARLY_VARIANT,
   resolveHoliday,
+  resolveHolidayYear,
   resolveMonthYear,
   resolvePlanningYear,
+  sundayWeekRangeLabel,
+  sundayWeekStart,
   schoolYearStartYear,
   schoolYearSpanLabel,
   holidayDefBySlug,
+  getHolidayEditorial,
+  ruleHowCalculated,
   type HolidayLocale,
   type SeoMeta,
   type UrlEntry,
@@ -972,6 +977,33 @@ const NAV_JS = `
 })();
 `;
 
+/** Live “Today” card — SSG HTML is only a fallback; visitor local date wins. */
+const TODAY_JS = `
+(function(){
+  var card=document.querySelector('.today-card');
+  if(!card) return;
+  var dateEl=card.querySelector('[data-today-date]');
+  var metaEl=card.querySelector('[data-today-meta]');
+  var monthLink=card.querySelector('[data-today-month]');
+  if(!dateEl||!metaEl) return;
+  var months=['january','february','march','april','may','june','july','august','september','october','november','december'];
+  var now=new Date();
+  var start=new Date(now.getFullYear(),0,0);
+  var doy=Math.floor((now-start)/86400000);
+  var t=new Date(Date.UTC(now.getFullYear(),now.getMonth(),now.getDate()));
+  t.setUTCDate(t.getUTCDate()+4-(t.getUTCDay()||7));
+  var yearStart=new Date(Date.UTC(t.getUTCFullYear(),0,1));
+  var week=Math.ceil((((t-yearStart)/86400000)+1)/7);
+  dateEl.textContent=now.toLocaleDateString('en-US',{weekday:'long',month:'long',day:'numeric',year:'numeric'});
+  metaEl.textContent='Week '+week+' · Day '+doy+' of '+now.getFullYear();
+  if(monthLink){
+    var slug=months[now.getMonth()];
+    monthLink.href='/'+slug+'-calendars.html';
+    monthLink.title="This month's printable calendar";
+  }
+})();
+`;
+
 const LIGHTBOX_JS = `
 (function(){
   var box=document.getElementById('lightbox');
@@ -1046,7 +1078,7 @@ function siteHeaderHtml(today: Date = new Date()): string {
   return `<div class="site-header-bar">
 <header class="wrap site-header">
   <a class="brand" href="/" title="Fresh Calendars home">
-    <img src="/img/fresh-logo.png" width="220" height="46" alt="Fresh Calendars" />
+    <img src="/img/fresh-logo.png" width="300" height="58" alt="Fresh Calendars" />
   </a>
   <details class="nav-drawer">
     <summary class="nav-toggle" aria-label="Open menu" aria-expanded="false" aria-controls="site-nav">
@@ -1133,6 +1165,7 @@ ${siteFooterHtml(today)}
   <img alt="" title="" />
 </div>
 <script>${NAV_JS}</script>
+<script>${TODAY_JS}</script>
 <script>${LIGHTBOX_JS}</script>
 ${meta.calendar.family === "legal" && meta.pageId === "legal-contact" ? `<script>${CONTACT_JS}</script>` : ""}
 ${adsEnabled ? `<script>${ADSENSE_JS}</script>` : ""}
@@ -1170,13 +1203,14 @@ function todaySidebarCard(today: Date = new Date()): string {
   });
   const m = today.getMonth() + 1;
   const slug = monthNumberToSlug(m);
+  // Static fallback = last gen/deploy date; TODAY_JS overwrites with the visitor’s local “today”.
   return `
 <div class="side-card today-card">
   <h3>Today</h3>
-  <strong>${esc(fmt)}</strong>
-  <p style="margin:0;color:var(--muted)">Week ${isoWeekNumber(today)} · Day ${dayOfYear(today)} of ${today.getFullYear()}</p>
+  <strong data-today-date>${esc(fmt)}</strong>
+  <p data-today-meta style="margin:0;color:var(--muted)">Week ${isoWeekNumber(today)} · Day ${dayOfYear(today)} of ${today.getFullYear()}</p>
   <div class="side-links" style="margin-top:.65rem">
-    <a href="/${slug}-calendars.html" title="This month’s printable calendar">This month’s calendar</a>
+    <a data-today-month href="/${slug}-calendars.html" title="This month’s printable calendar">This month’s calendar</a>
     <a href="/printable-weekly-calendar.html" title="Printable weekly calendar">This week planner</a>
   </div>
 </div>`;
@@ -1510,9 +1544,7 @@ ${faqSection(meta)}`;
 }
 
 function weekGridHtml(today: Date): string {
-  const start = new Date(today);
-  start.setHours(0, 0, 0, 0);
-  start.setDate(start.getDate() - start.getDay());
+  const start = sundayWeekStart(today);
   const days = Array.from({ length: 7 }, (_, i) => {
     const d = new Date(start);
     d.setDate(start.getDate() + i);
@@ -1526,9 +1558,7 @@ function weekGridHtml(today: Date): string {
   <div class="lines" aria-hidden="true"></div>
 </div>`;
   }).join("");
-  const end = new Date(start);
-  end.setDate(start.getDate() + 6);
-  const range = `${start.toLocaleDateString("en-US", { month: "short", day: "numeric" })} – ${end.toLocaleDateString("en-US", { month: "short", day: "numeric", year: "numeric" })}`;
+  const range = sundayWeekRangeLabel(today);
   return `<p class="lead" style="margin:0 0 .75rem">Week of ${esc(range)} (Sunday start). Print this page for a quick seven-day sheet.</p>
 <div class="week-print" role="table" aria-label="Weekly planner ${esc(range)}">${days}</div>`;
 }
@@ -2112,19 +2142,50 @@ ${faqSection(meta)}`;
     const mName = monthNumberToName(h.month);
     const locale = holidayLocaleForSlug(slug);
     const hub = holidaysHubPath(locale);
+    const hubLabel =
+      locale === "uk" ? "UK holidays" : locale === "ca" ? "Canada holidays" : "US holidays";
+    const ed = getHolidayEditorial(slug);
+    const lead = ed ? ed.lead(h) : `${h.blurb}`;
+    const overview = ed
+      ? ed.overview(h).map((p) => `<p>${esc(p)}</p>`).join("\n  ")
+      : `<p>${esc(h.name)} falls on <strong>${esc(h.formatted)}</strong> (${esc(h.weekdayName)}). This evergreen page always shows the <strong>next upcoming</strong> ${esc(h.name)} — once ${y}’s date passes, the page rolls to the following year (same idea as our month calendars).</p>
+  <p>${esc(h.blurb)}</p>`;
+    const howCalc = ed ? ed.howCalculated(h) : ruleHowCalculated(def, h);
+    const meaning = ed
+      ? `<h3>${esc(ed.meaningTitle)}</h3>
+  ${ed.meaning(h).map((p) => `<p>${esc(p)}</p>`).join("\n  ")}`
+      : "";
+    const tips = ed
+      ? ed.planningTips(h)
+      : [
+          `Block travel and school closures on the ${mName} ${y} sheet before the week fills up.`,
+          `Use the weekly planner pack for the seven days around ${h.formatted}.`,
+          `Scan nearby federal or observance days on the full ${hubLabel} list.`,
+          `For classrooms, jump to the school-year hub and mark breaks by hand.`,
+        ];
+    const printTip =
+      locale === "uk"
+        ? `Open the <a href="/${mSlug}-calendars.html" title="${mName} ${y} printable calendar">${mName} ${y} printable</a> and mark ${esc(h.name)} on the grid (UK bank holidays are listed on our <a href="${hub}">${hubLabel}</a> hub). Prefer a wall overview? Grab the <a href="/printable-calendars.html">${y} yearly poster</a>.`
+        : locale === "ca"
+          ? `Open the <a href="/${mSlug}-calendars.html" title="${mName} ${y} printable calendar">${mName} ${y} printable</a> and mark ${esc(h.name)} beside other Canadian dates from our <a href="${hub}">${hubLabel}</a> hub. Prefer a wall overview? Grab the <a href="/printable-calendars.html">${y} yearly poster</a>.`
+          : `Open the <a href="/${mSlug}-calendars.html" title="${mName} ${y} printable calendar">${mName} ${y} printable</a> and choose the holidays-marked template so ${esc(h.name)} is labeled in-cell when the engine includes it. Prefer a wall overview? Grab the <a href="/printable-calendars.html">${y} yearly poster</a> or plan ahead with <a href="/printable-yearly-calendar.html">${y + 1} yearly</a>.`;
     const related = holidaysForYear(y, { locale })
       .filter((x) => x.slug !== slug)
       .slice(0, 8)
       .map(
         (x) =>
-          `<a href="${holidayWhenIsPath(x.slug)}" title="When is ${esc(x.name)} ${y}?">${esc(x.name)}</a>`,
+          `<a href="${holidayWhenIsPath(x.slug)}" title="When is ${esc(x.name)}?">${esc(x.name)}</a>`,
       )
       .join("");
+    const dstGuide =
+      slug === "daylight-savings"
+        ? `<p>Need both spring-forward and fall-back dates on one checklist? See our <a href="/page/daylight-savings/">daylight saving time guide</a>.</p>`
+        : "";
     const hero = `
 <section class="hero"><div class="hero-inner">
   <div class="eyebrow">Fresh Calendars · When is…</div>
   <h1>${esc(h.name)} ${y} — what day?</h1>
-  <p class="lead"><strong>${esc(h.formatted)}</strong> — ${esc(h.blurb)}</p>
+  <p class="lead"><strong>${esc(h.formatted)}</strong> — ${esc(lead)}</p>
   <div class="cta">
     <a class="btn btn-primary" href="/${mSlug}-calendars.html" title="Printable ${mName} ${y} calendar">${mName} calendar</a>
     ${downloadBtn(meta.download.pdf, "Download PDF", meta.downloadTitles.pdf, "ghost")}
@@ -2134,18 +2195,19 @@ ${adBand(ADS.inArticle, "FreshCalendars_WhenIs_Top")}`;
     const main = `
 <section class="section prose">
   <h2>${esc(h.name)} ${y}</h2>
-  <p>${esc(h.name)} falls on <strong>${esc(h.formatted)}</strong> (${esc(h.weekdayName)}). This evergreen page always shows the current planning year — dates refresh automatically when we rebuild.</p>
-  <p>${esc(h.blurb)}</p>
+  ${overview}
+  <p><em>Evergreen page:</em> we always show the next upcoming ${esc(h.name)}. After ${y} passes, this URL rolls forward automatically.</p>
   <h3>How the date is calculated</h3>
-  <p>Fresh Calendars does not hand-edit a single year’s spreadsheet. ${esc(h.name)} is resolved from the same holiday engine that powers the <a href="${hub}">${y} holidays list</a>${locale === "us" ? " and the US Holidays Marked monthly templates" : ""} — fixed calendar dates, nth-weekday rules, or Easter-based offsets depending on the observance.</p>
+  <p>${esc(howCalc)}</p>
+  <p>The same holiday engine powers our <a href="${hub}">${hubLabel} list</a>${locale === "us" ? " and US Holidays Marked monthly templates" : ""}.</p>
+  ${meaning}
   <h3>Print this month</h3>
-  <p>Open the <a href="/${mSlug}-calendars.html" title="${mName} ${y} printable calendar">${mName} ${y} printable</a> and choose the holidays-marked template so ${esc(h.name)} is labeled in-cell. Prefer a wall overview? Grab the <a href="/printable-calendars.html">${y} yearly poster</a> or plan ahead with <a href="/printable-yearly-calendar.html">${y + 1} yearly</a>.</p>
+  <p>${printTip}</p>
+  ${dstGuide}
   <h3>Plan around ${esc(h.name)}</h3>
   <ul>
-    <li>Block travel and school closures on the ${mName} ${y} sheet before the week fills up.</li>
-    <li>Use the <a href="/printable-weekly-calendar.html">weekly planner pack</a> (classic, hourly, or priorities) for the seven days around ${esc(h.formatted)}.</li>
-    <li>Scan nearby federal or observance days on the full holidays list.</li>
-    <li>For classrooms, jump to the <a href="/printable-school-calendar.html">school-year hub</a> and mark breaks by hand.</li>
+    ${tips.map((t) => `<li>${esc(t)}</li>`).join("\n    ")}
+    <li>Use the <a href="/printable-weekly-calendar.html">weekly planner pack</a> for the days around ${esc(h.formatted)}.</li>
   </ul>
   ${adUnit(ADS.holiday, "FreshCalendars_New_Holidays", "banner")}
   <h3>Nearby ${y} holidays</h3>
@@ -2827,12 +2889,14 @@ export function resolveEntryYear(
   if (entry.pageId === "yearly-next") {
     return { year: planningYear + 1 };
   }
-  if (
-    entry.kind.includes("holidays") ||
-    entry.kind.includes("yearly") ||
-    entry.kind === "easter" ||
-    entry.kind === "holiday"
-  ) {
+  // when-is evergreen: next occurrence of that holiday (like monthly next-occurrence)
+  if (entry.kind === "easter" || entry.kind === "holiday") {
+    const slug = entry.holidaySlug ?? "easter";
+    const def = holidayDefBySlug(slug);
+    if (!def) return { year: planningYear };
+    return { year: resolveHolidayYear(def, today) };
+  }
+  if (entry.kind.includes("holidays") || entry.kind.includes("yearly")) {
     return { year: planningYear };
   }
   return { year: planningYear };

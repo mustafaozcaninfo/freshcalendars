@@ -15,6 +15,41 @@ export function resolvePlanningYear(today: Date = new Date()): number {
   return today.getFullYear();
 }
 
+/**
+ * Calendar date used for SSG — US Eastern (America/New_York).
+ * Daily refresh-meta runs ~05:25 UTC (~01:25 Eastern) so the bake matches
+ * the new Eastern civil day. Noon local Date avoids DST edges.
+ */
+export function resolveBakeToday(now: Date = new Date()): Date {
+  const parts = new Intl.DateTimeFormat("en-US", {
+    timeZone: "America/New_York",
+    year: "numeric",
+    month: "2-digit",
+    day: "2-digit",
+  }).formatToParts(now);
+  const y = Number(parts.find((p) => p.type === "year")?.value);
+  const m = Number(parts.find((p) => p.type === "month")?.value);
+  const d = Number(parts.find((p) => p.type === "day")?.value);
+  if (!y || !m || !d) throw new Error("resolveBakeToday: could not parse Eastern date");
+  return new Date(y, m - 1, d, 12, 0, 0, 0);
+}
+
+/** Sunday 00:00 of the week containing `today` (local date fields). */
+export function sundayWeekStart(today: Date): Date {
+  const start = new Date(today);
+  start.setHours(0, 0, 0, 0);
+  start.setDate(start.getDate() - start.getDay());
+  return start;
+}
+
+/** e.g. "Aug 30 – Sep 5, 2026" for the on-page weekly planner (Sunday start). */
+export function sundayWeekRangeLabel(today: Date): string {
+  const start = sundayWeekStart(today);
+  const end = new Date(start);
+  end.setDate(start.getDate() + 6);
+  return `${start.toLocaleDateString("en-US", { month: "short", day: "numeric" })} – ${end.toLocaleDateString("en-US", { month: "short", day: "numeric", year: "numeric" })}`;
+}
+
 export function resolveAllMonthYears(today: Date = new Date()): Record<number, number> {
   const out: Record<number, number> = {};
   for (let month = 1; month <= 12; month++) {

@@ -126,6 +126,27 @@ export function resolveHoliday(def: HolidayDef, year: number): ResolvedHoliday {
   };
 }
 
+/**
+ * Evergreen when-is pages — same idea as `resolveMonthYear`:
+ * show the next occurrence of this holiday from `today` (today still counts).
+ * Example: Aug 2026 → New Year’s Day resolves to 2027, Thanksgiving stays 2026.
+ */
+export function resolveHolidayYear(def: HolidayDef, today: Date = new Date()): number {
+  const y = today.getFullYear();
+  const occurrence = resolveHoliday(def, y);
+  const startToday = new Date(today.getFullYear(), today.getMonth(), today.getDate()).getTime();
+  const holidayDay = new Date(
+    occurrence.date.getFullYear(),
+    occurrence.date.getMonth(),
+    occurrence.date.getDate(),
+  ).getTime();
+  return holidayDay >= startToday ? y : y + 1;
+}
+
+export function resolveNextHoliday(def: HolidayDef, today: Date = new Date()): ResolvedHoliday {
+  return resolveHoliday(def, resolveHolidayYear(def, today));
+}
+
 export function holidaysForYear(
   year: number,
   opts: {

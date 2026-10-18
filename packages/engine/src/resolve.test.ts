@@ -1,6 +1,12 @@
 import assert from "node:assert/strict";
 import { describe, it } from "node:test";
-import { resolveMonthYear, resolvePlanningYear, resolveAllMonthYears } from "./resolve.js";
+import {
+  resolveMonthYear,
+  resolvePlanningYear,
+  resolveAllMonthYears,
+  resolveBakeToday,
+  sundayWeekRangeLabel,
+} from "./resolve.js";
 import { easterSunday } from "./holidays/easter.js";
 import { holidaysForYear } from "./holidays/engine.js";
 
@@ -32,6 +38,26 @@ describe("resolvePlanningYear", () => {
   it("equals civil year", () => {
     assert.equal(resolvePlanningYear(new Date(2026, 7, 2)), 2026);
     assert.equal(resolvePlanningYear(new Date(2027, 0, 1)), 2027);
+  });
+});
+
+describe("resolveBakeToday", () => {
+  it("uses America/New_York calendar date", () => {
+    const beforeMidnightEt = new Date("2026-08-12T03:30:00.000Z");
+    const bake = resolveBakeToday(beforeMidnightEt);
+    assert.equal(bake.getFullYear(), 2026);
+    assert.equal(bake.getMonth() + 1, 8);
+    assert.equal(bake.getDate(), 11);
+
+    const afterCron = new Date("2026-08-12T05:15:00.000Z");
+    const bake2 = resolveBakeToday(afterCron);
+    assert.equal(bake2.getDate(), 12);
+  });
+});
+
+describe("sundayWeekRangeLabel", () => {
+  it("Tue Sep 1 2026 is week of Aug 30 – Sep 5 (Sunday start)", () => {
+    assert.equal(sundayWeekRangeLabel(new Date(2026, 8, 1, 12)), "Aug 30 – Sep 5, 2026");
   });
 });
 

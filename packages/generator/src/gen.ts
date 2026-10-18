@@ -6,6 +6,7 @@ import {
   monthNumberToSlug,
   preservedEvergreenUrls,
   resolveAllMonthYears,
+  resolveBakeToday,
   resolvePlanningYear,
   schoolYearStartYear,
   validateSeoMeta,
@@ -48,7 +49,10 @@ export type GenOptions = {
   years: number[];
   today?: Date;
   families?: Array<"yearly" | "monthly" | "blank" | "weekly" | "school">;
+  /** Skip printable PNG/PDF render (reuse existing dist/assets). */
   skipAssets?: boolean;
+  /** Skip OG PNG re-render (reuse existing dist/og). */
+  skipOg?: boolean;
 };
 
 async function writeJson(file: string, data: unknown): Promise<void> {
@@ -203,7 +207,9 @@ export async function generateAll(opts: GenOptions): Promise<{ metas: SeoMeta[] 
   // Fresh HTML/meta/og each build so legacy year-qualified twins are not redeployed.
   await fs.rm(DIST_SITE, { recursive: true, force: true });
   await fs.rm(DIST_META, { recursive: true, force: true });
-  await fs.rm(DIST_OG, { recursive: true, force: true });
+  if (!opts.skipOg) {
+    await fs.rm(DIST_OG, { recursive: true, force: true });
+  }
   await fs.mkdir(DIST_SITE, { recursive: true });
   await fs.mkdir(DIST_META, { recursive: true });
   await fs.mkdir(DIST_OG, { recursive: true });
@@ -232,7 +238,7 @@ export async function generateAll(opts: GenOptions): Promise<{ metas: SeoMeta[] 
     if (errors.length) throw new Error(`${meta.pageId}: ${errors.join(", ")}`);
 
     await writeJson(path.join(DIST_META, `${meta.pageId}.json`), meta);
-    await writeOgForMeta(meta);
+    if (!opts.skipOg) await writeOgForMeta(meta);
 
     const html = renderPageHtml(entry, meta, { today });
     await writeSitePage(entryToRelPath(entry), html);
@@ -304,14 +310,15 @@ export async function generateAll(opts: GenOptions): Promise<{ metas: SeoMeta[] 
     await fs.copyFile(found, path.join(fontOut, file));
   }
 
-  // Brand logo for blue header (white wordmark)
   const logoSrc = path.join(ROOT, "brand/fresh-logo.png");
+  await fs.access(logoSrc);
+  await fs.mkdir(path.join(DIST_SITE, "img"), { recursive: true });
+  await fs.copyFile(logoSrc, path.join(DIST_SITE, "img", "fresh-logo.png"));
+  const lockup = path.join(ROOT, "brand/logo.png");
   try {
-    await fs.access(logoSrc);
-    await fs.mkdir(path.join(DIST_SITE, "img"), { recursive: true });
-    await fs.copyFile(logoSrc, path.join(DIST_SITE, "img", "fresh-logo.png"));
+    await fs.copyFile(lockup, path.join(DIST_SITE, "logo.png"));
   } catch {
-    /* optional if brand/ missing */
+    /* optional alternate lockup */
   }
 
   return { metas };
@@ -327,6 +334,23 @@ export async function refreshEvergreen(today = new Date()): Promise<void> {
   );
   await generateAll({ years, today });
   console.log("refresh-evergreen complete", { planningYear, monthYears, years });
+}
+
+/** Daily HTML-only bake (Eastern date). Reuses PNG/PDF/OG. */
+export async function refreshMeta(now = new Date()): Promise<void> {
+  const today = resolveBakeToday(now);
+  const planningYear = resolvePlanningYear(today);
+  const monthYears = resolveAllMonthYears(today);
+  const years = Array.from(
+    new Set([planningYear, planningYear + 1, ...Object.values(monthYears)]),
+  );
+  await generateAll({ years, today, skipAssets: true, skipOg: true });
+  console.log("refresh-meta complete", {
+    bakeDate: `${today.getFullYear()}-${String(today.getMonth() + 1).padStart(2, "0")}-${String(today.getDate()).padStart(2, "0")}`,
+    planningYear,
+    monthYears,
+    years,
+  });
 }
 
 export async function rollover(toYear: number, confirm: boolean): Promise<void> {
@@ -470,6 +494,12 @@ export async function verifyDist(): Promise<void> {
     if (meta.calendar.year !== expected) {
       errors.push(`january evergreen year ${meta.calendar.year} != expected ${expected}`);
     }
+  }
+
+  try {
+    await fs.access(path.join(DIST_SITE, "img/fresh-logo.png"));
+  } catch {
+    errors.push("missing header logo img/fresh-logo.png (copy from brand/fresh-logo.png)");
   }
 
   if (errors.length) {

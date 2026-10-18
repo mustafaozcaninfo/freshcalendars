@@ -22,6 +22,7 @@ ok() {
 echo "Smoke against $BASE"
 ok "$BASE/" 200
 ok "$BASE/printable-calendars.html" 200
+ok "$BASE/printable-weekly-calendar.html" 200
 ok "$BASE/blank-calendars.html" 200
 ok "$BASE/january-calendars.html" 200
 ok "$BASE/august-calendars.html" 200

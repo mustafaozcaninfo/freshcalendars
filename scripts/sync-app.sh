@@ -28,6 +28,9 @@ rsync -avz --delete --exclude '.DS_Store' -e ssh \
   "$ROOT/scripts/" "$REMOTE_HOST:$APP_DIR/scripts/"
 
 rsync -avz --delete --exclude '.DS_Store' -e ssh \
+  "$ROOT/brand/" "$REMOTE_HOST:$APP_DIR/brand/"
+
+rsync -avz --delete --exclude '.DS_Store' -e ssh \
   "$ROOT/server/" "$REMOTE_HOST:$APP_DIR/server/"
 
 rsync -avz -e ssh \
@@ -45,7 +48,7 @@ fi
 
 echo "Installing deps on VPS (pnpm)…"
 ssh -o BatchMode=yes "$REMOTE_HOST" \
-  "cd '$APP_DIR' && export PATH=\"/usr/local/bin:\$HOME/.local/share/pnpm:\$PATH\" && pnpm install --frozen-lockfile || pnpm install"
+  "cd '$APP_DIR' && export PATH=\"/usr/local/bin:\$HOME/.local/share/pnpm:\$PATH\" && (pnpm install --frozen-lockfile || pnpm install) && export PLAYWRIGHT_BROWSERS_PATH='$APP_DIR/.playwright' && ./packages/generator/node_modules/.bin/playwright install chromium"
 
 # Upsert alert recipient without rewriting other VPS secrets
 if [[ -n "${CRON_NOTIFY_TO:-}" ]]; then

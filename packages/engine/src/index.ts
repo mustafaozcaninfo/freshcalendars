@@ -9,6 +9,7 @@ export * from "./holidays/engine.js";
 export * from "./seo/types.js";
 export * from "./seo/buildMeta.js";
 export * from "./content/monthlyEditorial.js";
+export * from "./content/holidayEditorial.js";
 export * from "./monthlyVariants.js";
 export * from "./yearlyVariants.js";
 export * from "./weeklyVariants.js";

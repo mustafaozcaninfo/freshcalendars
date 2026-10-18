@@ -4,6 +4,7 @@ import {
   buildYearlyFaq,
   getMonthEditorial,
 } from "../content/monthlyEditorial.js";
+import { buildHolidayFaq, getHolidayEditorial } from "../content/holidayEditorial.js";
 import { holidaysForMonth, holidaysForYear, resolveHoliday } from "../holidays/engine.js";
 import {
   holidayDefBySlug,
@@ -520,11 +521,15 @@ export function buildMetaForEntry(
     const hub = holidaysHubPath(locale);
     const hubLabel =
       locale === "uk" ? "UK Holidays" : locale === "ca" ? "Canada Holidays" : "Holidays";
+    const ed = getHolidayEditorial(slug);
+    const description = ed
+      ? ed.description(h)
+      : `${h.name} falls on ${h.formatted} in ${year}. ${h.blurb} Evergreen when-is URL — always the next upcoming ${h.name}. Print the ${monthName} calendar with holidays marked.`;
     return baseMeta({
       pageId: entry.pageId,
       path: entry.path,
       title: `${h.name} ${year} Date · ${h.formatted} | ${SITE_NAME}`,
-      description: `${h.name} falls on ${h.formatted} in ${year}. ${h.blurb} Fresh Calendars keeps this URL evergreen for the planning year — print ${monthName} with holidays marked.`,
+      description,
       family: "holiday",
       year,
       month: h.month,
@@ -537,27 +542,10 @@ export function buildMetaForEntry(
       ],
       breadcrumbs: [
         home,
-        { name: `${year} ${hubLabel}`, url: absUrl(hub) },
-        { name: h.name, url: absUrl(holidayWhenIsPath(slug)) },
+        { name: hubLabel, url: absUrl(hub) },
+        { name: `${h.name} ${year}`, url: absUrl(holidayWhenIsPath(slug)) },
       ],
-      faq: [
-        {
-          q: `What date is ${h.name} in ${year}?`,
-          a: `${h.name} ${year} falls on ${h.formatted}.`,
-        },
-        {
-          q: `How is ${h.name} calculated?`,
-          a: h.blurb,
-        },
-        {
-          q: `Which printable calendar should I use for ${h.name} ${year}?`,
-          a: `Download the ${monthName} ${year} printable calendar and choose the US Holidays Marked template so the day is labeled in-cell.`,
-        },
-        {
-          q: "Does this page change every year?",
-          a: `Yes. ${holidayWhenIsPath(slug)} is evergreen and updates with the planning year automatically.`,
-        },
-      ],
+      faq: buildHolidayFaq(def, h, locale, holidayWhenIsPath(slug)),
       download: {
         png: `/assets/${year}/monthly/${monthName.toLowerCase()}/${DEFAULT_MONTHLY_VARIANT}/calendar.png`,
         pdf: `/assets/${year}/monthly/${monthName.toLowerCase()}/${DEFAULT_MONTHLY_VARIANT}/calendar.pdf`,
@@ -851,8 +839,8 @@ export function buildMetaForEntry(
         a: "Fresh Calendars is a free printable calendar site — monthly, yearly, weekly, blank, and school-year hubs generated from a live calendar engine with US holidays.",
       },
       {
-        q: "Why do month URLs stay the same every year?",
-        a: "Evergreen pages always resolve to the next occurrence of that month or the current planning year, so bookmarks stay useful.",
+        q: "Why do month and when-is URLs stay the same every year?",
+        a: "Evergreen month pages roll to the next occurrence of that month; when-is holiday pages roll to the next upcoming date for that holiday. Yearly hubs track the current planning year. Bookmarks stay useful.",
       },
     ],
     advertising: [

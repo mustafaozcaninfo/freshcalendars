@@ -11,22 +11,29 @@ chmod +x "$APP_DIR/scripts/"*.sh 2>/dev/null || true
 
 BLOCK=$(cat <<EOF
 $MARKER
-15 0 1 * * FC_JOB=refresh $CRON_SH >> /var/log/freshcalendars-cron.log 2>&1
-30 0 1 9 * FC_JOB=generate-next $CRON_SH >> /var/log/freshcalendars-cron.log 2>&1
-20 0 1 1 * FC_JOB=rollover $CRON_SH >> /var/log/freshcalendars-cron.log 2>&1
-0 3 * * 1 FC_JOB=health $CRON_SH >> /var/log/freshcalendars-cron.log 2>&1
+# Daily HTML: 05:25 UTC ≈ 01:25 America/New_York (Today, when-is, this-week + logo)
+25 5 * * * FC_JOB=refresh-meta $CRON_SH >> /var/log/freshcalendars-cron.log 2>&1
+# Monthly PNG/PDF/CDN: 06:30 UTC ≈ 02:30 ET, 1st of Feb–Dec (Jan = rollover instead)
+30 6 1 2-12 * FC_JOB=refresh $CRON_SH >> /var/log/freshcalendars-cron.log 2>&1
+# Sep 1 after Fresh monthly refresh: bake next civil year
+45 8 1 9 * FC_JOB=generate-next $CRON_SH >> /var/log/freshcalendars-cron.log 2>&1
+# Jan 1 06:30 UTC ≈ 01:30 ET: Y-1 / Y / Y+1 lock
+30 6 1 1 * FC_JOB=rollover $CRON_SH >> /var/log/freshcalendars-cron.log 2>&1
+# Monday after daily bake
+15 7 * * 1 FC_JOB=health $CRON_SH >> /var/log/freshcalendars-cron.log 2>&1
 EOF
 )
 
 TMP="$(mktemp)"
-# Drop previous factory block + legacy wrappers
-crontab -l 2>/dev/null | awk -v m="$MARKER" '
+# Drop only this factory's block (until the next "# *-factory" marker).
+# Do NOT delete other sites' server-cron.sh lines.
+crontab -l 2>/dev/null | awk -v m="$MARKER" -v app="$APP_DIR" '
   $0 == m { skip=1; next }
-  skip && /^FC_JOB=/ { next }
-  skip && /^[0-9*]/ { next }
-  skip && /^#/ { next }
-  skip { skip=0 }
-  /server-refresh\.sh|cron-refresh\.sh|cron-yearly\.sh|server-cron\.sh/ { next }
+  skip {
+    if ($0 ~ /^# [A-Za-z0-9._-]+-factory$/) { skip=0; print; next }
+    next
+  }
+  index($0, app "/scripts/") { next }
   { print }
 ' >"$TMP" || true
 
@@ -35,7 +42,7 @@ crontab "$TMP"
 rm -f "$TMP"
 
 echo "Crontab installed:"
-crontab -l | awk -v m="$MARKER" '($0==m){p=1} p{print} p && /^0 3/{exit}'
+crontab -l | awk -v m="$MARKER" '$0==m{p=1} p{print; n++} p && n>=12{exit}'
 
 php -r '
   $c = require "/home/yuzdehesaplama/web/freshcalendars.com/private/freshcalendars/config.php";
@@ -45,18 +52,23 @@ php -r '
     [PDO::ATTR_ERRMODE => PDO::ERRMODE_EXCEPTION]
   );
   $rows = [
-    ["refresh", "15 0 1 * *", "Monthly evergreen rebuild + CDN + deploy"],
-    ["generate-next", "30 0 1 9 *", "September: bake next civil year assets"],
-    ["rollover", "20 0 1 1 *", "January 1: planning-year rollover"],
-    ["health", "0 3 * * 1", "Weekly smoke + stale refresh alert"],
+    ["refresh-meta", "25 5 * * *", "Daily HTML bake (Eastern today) + html-only deploy + week/logo smoke"],
+    ["refresh", "30 6 1 2-12 *", "Monthly evergreen PNG/PDF/CDN — 1st Feb–Dec 06:30 UTC"],
+    ["generate-next", "45 8 1 9 *", "September 08:45 UTC: bake next civil year after monthly refresh"],
+    ["rollover", "30 6 1 1 *", "January 1 06:30 UTC: planning-year rollover (no monthly refresh)"],
+    ["health", "15 7 * * 1", "Monday 07:15 UTC smoke + stale refresh / refresh-meta"],
   ];
   $st = $pdo->prepare("INSERT INTO cron_schedule (job_name, cron_expr, description, enabled) VALUES (?,?,?,1)
     ON DUPLICATE KEY UPDATE cron_expr=VALUES(cron_expr), description=VALUES(description), enabled=1");
   foreach ($rows as $r) $st->execute($r);
-  // Seed a fresh ok so health does not false-alarm right after install
-  $pdo->prepare("INSERT INTO cron_runs (job_name, status, message, finished_at) VALUES (?,?,?,NOW())")
-    ->execute(["refresh", "ok", "seed after crontab install"]);
-  echo "cron_schedule upserted + refresh seed ok\n";
+  if (getenv("CRON_SKIP_SEED") !== "1") {
+    $ins = $pdo->prepare("INSERT INTO cron_runs (job_name, status, message, finished_at) VALUES (?,?,?,NOW())");
+    $ins->execute(["refresh", "ok", "seed after crontab install"]);
+    $ins->execute(["refresh-meta", "ok", "seed after crontab install"]);
+    echo "cron_schedule upserted + refresh seeds ok\n";
+  } else {
+    echo "cron_schedule upserted (seed skipped)\n";
+  }
 '
 
 touch /var/log/freshcalendars-cron.log 2>/dev/null || true
