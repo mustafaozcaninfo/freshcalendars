@@ -1,5 +1,4 @@
 ---
-import { getImage } from "astro:assets";
 import { getEntry, render } from "astro:content";
 import NewsBase from "../../layouts/NewsBase.astro";
 import AdSlot from "../../components/AdSlot.astro";
@@ -15,6 +14,7 @@ import RelatedGrid from "../../components/RelatedGrid.astro";
 import Sources from "../../components/Sources.astro";
 import Toc from "../../components/Toc.astro";
 import { authorHref, getPublishedArticles, lastModified, type Article } from "../../lib/articles";
+import { heroImages } from "../../lib/images";
 import { pickRelated } from "../../lib/related";
 import {
   articleGraph,
@@ -27,7 +27,6 @@ import {
   type ArticleSeo,
   type AuthorSeo,
 } from "../../lib/seo";
-import { SITE_ORIGIN } from "../../lib/site";
 
 export async function getStaticPaths() {
   const all = await getPublishedArticles();
@@ -43,13 +42,7 @@ const category = (await getEntry(d.category))!;
 const authors = await Promise.all(d.authors.map(async (ref) => (await getEntry(ref))!));
 const authorPath = authorHref;
 
-const abs = (u: string) => (u.startsWith("http") ? u : `${SITE_ORIGIN}${u}`);
-const main = await getImage({ src: d.hero.src, width: 1344, height: 756, fit: "cover", format: "webp" });
-const crops = await Promise.all(
-  [[1200, 675], [1200, 900], [1200, 1200]].map(([width, height]) =>
-    getImage({ src: d.hero.src, width, height, fit: "cover", format: "webp" }),
-  ),
-);
+const hero = await heroImages(d.hero.src);
 
 const wordCount = countWords(article.body ?? "");
 const minutes = readingMinutes(wordCount);
@@ -76,8 +69,8 @@ const seo: ArticleSeo = {
   keywords: d.keywords,
   dateline: d.dateline,
   hero: {
-    main: { url: abs(main.src), width: 1344, height: 756, type: "image/webp" },
-    crops: crops.map((c, i) => ({ url: abs(c.src), width: [1200, 1200, 1200][i]!, height: [675, 900, 1200][i]! })),
+    main: hero.main,
+    crops: hero.crops,
     alt: d.hero.alt,
     caption: d.hero.caption,
     credit: d.hero.credit,

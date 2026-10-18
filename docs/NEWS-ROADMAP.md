@@ -1,6 +1,6 @@
 # Fresh Calendars News — Yol Haritası (`/news/`, Astro, Google News)
 
-Hazırlanma: 2026-10-18 · Durum: **N0 ✔ · N1 ✔ · N2 ✔ · N3 ✔ · N4 ✔ · sıradaki N5**
+Hazırlanma: 2026-10-18 · Durum: **N0 ✔ · N1 ✔ · N2 ✔ · N3 ✔ · N4 ✔ · N5 ✔ · sıradaki N6**
 Kaynaklar: canlı `tech-insider.org` analizi (sitemap index, post sitemap, RSS, örnek makale `verizon-iphone-handoff-fee-10-dollars-2026`), `SEO-HARITASI-TAM.md`, `docs/DESIGN.md`, `docs/BLUEPRINT-A-Z.md`, `packages/generator/src/sitePages.ts`, VPS/nginx/Cloudflare yapılandırması.
 
 ---
@@ -379,6 +379,9 @@ AdSense yüklendiğinde Best Practices üçüncü-taraf çerez/konsol uyarılar�
 - **N5.5** Sitemap/feed birim testleri (XSD ile doğrulama).
 - **N5.6** Generator robots.txt + llms.txt satırları.
 - ✅ Kabul: GSC’de “Success”, News sitemap’te yalnızca 48 saatlik öğeler.
+- ✔ **Yapıldı (2026-10-18):** `lib/sitemaps.ts` (urlset/sitemapIndex/newsSitemap/rssFeed, saf + 9 test) ve endpoint’ler: `/news/sitemap.xml` (index; boş kategori sitemap’i listelenmez, `page-sitemap.xml` N8’de), `post-sitemap.xml` (`/news/` priority 1.0 + makaleler lastmod azalan, `image:image` 1344 WebP; 5.000 URL’de build “böl” hatası verir), `category-sitemap.xml`, `author-sitemap.xml`, `news-sitemap.xml` (48 saat, ≤1000, boşken geçerli), `feed.xml` (RSS 2.0, content:encoded mutlak linkli, dc:creator, media:content 1200×675, 30 öğe). Noindex makaleler sitemap/feed dışı. `public/sitemap.xsl` (marka renkli tablo, **same-origin** yol — mutlak URL tarayıcıda boş görünüyordu). Hero türevleri `lib/images.ts` ile tek yerde (sayfa, sitemap, RSS aynı URL). Tüm XML `xmllint` ile well-formed; referans verilen her `_astro` görseli dist’te var.
+- ✔ N5.6: `packages/site-chrome` `NEWS_LAUNCHED` (şimdilik `false`) tek anahtar → `true` olunca generator robots.txt’ye 2 news Sitemap satırı, llms.txt’ye News bölümü, header/footer’a News linki ekler. `false` iken ana site çıktısı byte-byte aynı (doğrulandı); `true` çıktısı da kontrol edildi.
+- ⚠ Resmi XSD doğrulaması yapılmadı (şema dosyası indirmek gerekir); yapı birim testleri + xmllint ile kapsandı.
 
 ### Faz N6 — Performans sertleştirme (1 gün)
 - **N6.1** Görsel pipeline (AVIF/WebP, srcset, preload), OG türevleri.

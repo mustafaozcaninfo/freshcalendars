@@ -31,6 +31,7 @@ import {
   type HolidayLocale,
   type SeoMeta,
   type UrlEntry,
+  SITE_ORIGIN,
   absUrl,
   cdnUrl,
 } from "@freshcalendars/engine";
@@ -42,6 +43,8 @@ import {
   FONTS_CSS,
   FONT_PRELOAD,
   NAV_JS,
+  NEWS_LAUNCHED,
+  NEWS_SITEMAPS,
   adBand,
   adUnit,
   esc,
@@ -334,11 +337,11 @@ ${metaTags(meta, { howTo: opts.howTo })}
 <style>${FONTS_CSS}${CSS}</style>
 </head>
 <body>
-${siteHeaderHtml(today)}
+${siteHeaderHtml(today, { news: NEWS_LAUNCHED })}
 <main id="main">
 ${body}
 </main>
-${siteFooterHtml(today)}
+${siteFooterHtml(today, { news: NEWS_LAUNCHED })}
 <div id="lightbox" class="lightbox" aria-hidden="true" role="dialog" aria-label="Enlarged calendar preview">
   <button type="button" class="lightbox-close" aria-label="Close preview">Close</button>
   <img alt="" title="" />
@@ -1838,7 +1841,8 @@ ${feedItems}
 
   await writeSitePage(
     "robots.txt",
-    `User-agent: *\nAllow: /\nSitemap: ${absUrl("/sitemap.xml")}\nSitemap: ${absUrl("/sitemap-images.xml")}\n`,
+    `User-agent: *\nAllow: /\nSitemap: ${absUrl("/sitemap.xml")}\nSitemap: ${absUrl("/sitemap-images.xml")}\n` +
+      (NEWS_LAUNCHED ? NEWS_SITEMAPS.map((p) => `Sitemap: ${SITE_ORIGIN}${p}\n`).join("") : ""),
   );
   // Legacy Google Search Console HTML verification (backup/public_html).
   await writeSitePage(
@@ -1884,7 +1888,16 @@ Feed: ${absUrl("/feed.xml")}
 - ${absUrl("/page/about")} — about the site
 - ${absUrl("/page/contact")} — contact form
 
-## Monthly evergreen (always next occurrence)
+${
+  NEWS_LAUNCHED
+    ? `## News
+- ${SITE_ORIGIN}/news/ — calendar, holiday and date news (Fresh Calendars News Desk)
+- ${SITE_ORIGIN}/news/feed.xml — news RSS
+- ${SITE_ORIGIN}/news/sitemap.xml — news sitemap index
+
+`
+    : ""
+}## Monthly evergreen (always next occurrence)
 ${MONTH_SLUGS.map((m) => `- ${absUrl(`/${m}-calendars.html`)}`).join("\n")}
 
 ## Holiday when-is pages (engine-calculated)
@@ -2027,7 +2040,7 @@ ${FONT_PRELOAD}
 <style>${FONTS_CSS}${CSS}</style>
 </head>
 <body>
-${siteHeaderHtml(today)}
+${siteHeaderHtml(today, { news: NEWS_LAUNCHED })}
 <main id="main">
   <section class="hero"><div class="hero-inner">
     <div class="eyebrow">404</div>
@@ -2039,7 +2052,7 @@ ${siteHeaderHtml(today)}
     </div>
   </div></section>
 </main>
-${siteFooterHtml(today)}
+${siteFooterHtml(today, { news: NEWS_LAUNCHED })}
 <script>${NAV_JS}</script>
 </body>
 </html>

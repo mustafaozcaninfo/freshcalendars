@@ -53,3 +53,12 @@ export async function getActiveCategories(articles: Article[]): Promise<Category
 export async function getCategoryNames(): Promise<Map<string, string>> {
   return new Map((await getCollection("categories")).map((c) => [c.id, c.data.name]));
 }
+
+/** Articles that belong in sitemaps and feeds (published and indexable). */
+export async function getIndexableArticles(now: Date = new Date()): Promise<Article[]> {
+  return (await getPublishedArticles(now)).filter((a) => !a.data.noindex);
+}
+
+export function newest(dates: Date[]): Date | undefined {
+  return dates.length ? new Date(Math.max(...dates.map((d) => d.getTime()))) : undefined;
+}

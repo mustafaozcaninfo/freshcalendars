@@ -786,6 +786,14 @@ export const NAV_JS = `
 })();
 `;
 
+/**
+ * Flip to true when /news/ goes live (NEWS-ROADMAP N9). Turns on the News nav/footer
+ * links and the news sitemap/llms entries on the calendar site in one place.
+ */
+export const NEWS_LAUNCHED = false;
+
+export const NEWS_SITEMAPS = ["/news/sitemap.xml", "/news/news-sitemap.xml"] as const;
+
 export type ChromeOpts = {
   /** Show the News nav/footer links. Off for the calendar site until /news/ launches. */
   news?: boolean;
