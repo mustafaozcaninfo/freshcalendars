@@ -815,7 +815,7 @@ export function siteHeaderHtml(today: Date = new Date(), opts: ChromeOpts = {}):
   return `<div class="site-header-bar">
 <header class="wrap site-header">
   <a class="brand" href="/" title="Fresh Calendars home">
-    <img src="/img/fresh-logo.png" width="300" height="58" alt="Fresh Calendars" />
+    <img src="/img/fresh-logo.png" width="300" height="58" alt="Fresh Calendars"${opts.news ? ' title="Fresh Calendars: free printable calendars and holiday news"' : ""} />
   </a>
   <details class="nav-drawer">
     <summary class="nav-toggle" aria-label="Open menu" aria-expanded="false" aria-controls="site-nav">

@@ -10,7 +10,9 @@ keywords: ["Medicare open enrollment 2026", "Medicare open enrollment deadline D
 dateline: "New York"
 hero:
   src: ../../../../assets/news/medicare-open-enrollment-2026-december-7-90-dollar-rebate/medicare-open-enrollment-2026-december-7-90-dollar-rebate.jpg
-  alt: "Illustration of a health insurance card next to calendar pages for Oct. 15 and Dec. 7 and a $90 coin"
+  alt: "Medicare open enrollment 2026: a Medicare card beside Oct. 15 and Dec. 7 calendar pages and a one-time $90 Part B rebate coin"
+  title: "Medicare open enrollment Oct. 15 to Dec. 7, 2026 and the $90 Part B rebate"
+  caption: "Medicare open enrollment runs from Oct. 15 to Dec. 7, 2026, and changes take effect on Jan. 1, 2027."
 summary:
   - "Medicare open enrollment runs from Thursday, Oct. 15 to Monday, Dec. 7, 2026; changes take effect Jan. 1, 2027."
   - "About 20.8 million people in Original Medicare Part B qualify for a one-time $90 rebate paid in October."

@@ -45,6 +45,8 @@ export interface ArticleSeo {
     /** 16:9, 4:3, 1:1 crops ≥1200px for Article rich results */
     crops: ImageVariant[];
     alt: string;
+    /** Image title (name); defaults to the headline. */
+    title?: string;
     caption?: string;
     credit?: string;
   };
@@ -162,9 +164,11 @@ export function articleGraph(a: ArticleSeo): Record<string, unknown> {
     contentUrl: heroId,
     width: a.hero.main.width,
     height: a.hero.main.height,
+    name: a.hero.title ?? a.title,
     caption: a.hero.caption ?? a.hero.alt,
+    description: a.hero.alt,
     inLanguage: "en-US",
-    creditText: a.hero.credit ?? NEWS_NAME,
+    creditText: a.hero.credit ?? `Illustration: ${NEWS_NAME}`,
     copyrightNotice: NEWS_NAME,
     creator: { "@id": ORG_ID },
   };

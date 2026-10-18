@@ -10,7 +10,9 @@ keywords: ["voter registration deadline October 19 2026", "register to vote Penn
 dateline: "New York"
 hero:
   src: ../../../../assets/news/voter-registration-deadline-october-19-2026-early-voting/voter-registration-deadline-october-19-2026-early-voting.jpg
-  alt: "Illustration of a ballot going into a ballot box beside calendar pages for Monday, Oct. 19 and Tuesday, Nov. 3"
+  alt: "Voter registration deadline Oct. 19, 2026: a ballot going into a ballot box beside Oct. 19 and Election Day Nov. 3 calendar pages"
+  title: "Voter registration deadline Oct. 19, 2026 and Election Day Nov. 3"
+  caption: "Monday, Oct. 19 is the last day to register in California and Pennsylvania, and to register online or by mail in Michigan."
 summary:
   - "Monday, Oct. 19, 2026 is the registration deadline for the Nov. 3 general election in California, Pennsylvania and Michigan (online and mail)."
   - "Pennsylvania has no same-day registration; California and Michigan still allow in-person registration through Election Day."

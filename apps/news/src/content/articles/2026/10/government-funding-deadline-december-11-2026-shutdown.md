@@ -10,7 +10,9 @@ keywords: ["government shutdown deadline 2026", "December 11 2026 shutdown", "co
 dateline: "New York"
 hero:
   src: ../../../../assets/news/government-funding-deadline-december-11-2026-shutdown/government-funding-deadline-december-11-2026-shutdown.jpg
-  alt: "Illustration of the U.S. Capitol at sunset beside an hourglass and a calendar page for Friday, Dec. 11"
+  alt: "Government shutdown deadline Dec. 11, 2026: the U.S. Capitol at sunset beside an hourglass and a Friday, Dec. 11 calendar page"
+  title: "Federal government funding deadline, Friday, Dec. 11, 2026"
+  caption: "Federal agencies are funded through Friday, Dec. 11, 2026 under a stopgap law signed Sept. 2; the deadline falls five weeks after Election Day."
 summary:
   - "Federal agencies are funded through Friday, Dec. 11, 2026, under a stopgap law signed Sept. 2."
   - "The House cleared the bill 370-48 on Sept. 1; it also extends surface transportation and veterans programs."

@@ -69,6 +69,16 @@ check("01-BREADCRUMB", "Visible breadcrumb matches BreadcrumbList (§01 SOP, §0
     return visible && ld ? null : `visible=${visible} ld=${ld}`;
   }));
 
+check("01-IMG-TITLE", "Every image has a descriptive alt (≥10 chars) and a title attribute (image SEO; §02 C l.633)", () =>
+  each(urls, (u, h) => {
+    const imgs = h.match(/<main id="main"[\s\S]*?<\/main>/)?.[0].match(/<img [^>]+>/g) ?? [];
+    const logo = (h.match(/<header[\s\S]*?<\/header>/)?.[0].match(/<img [^>]+>/g) ?? []);
+    const bad = [...imgs, ...logo].filter((t) => !/\salt="[^"]{10,}"/.test(t.replace(/alt="Fresh Calendars"/, 'alt="Fresh Calendars logo"')) || !/\stitle="[^"]{5,}"/.test(t));
+    return bad.length ? `${bad.length} image(s) without alt/title` : null;
+  }));
+check("01-IMG-CAPTION", "Article hero has a visible figcaption with credit (text next to the image; §01 SOP, §02 C l.633)", () =>
+  each(articleUrls, (u, h) => (/<figure class="hero"[\s\S]*?<figcaption[^>]*>[^<]{20,}[\s\S]*?class="credit"[\s\S]*?<\/figure>/.test(h) ? null : "hero without caption/credit")));
+
 // ── 02 Originality / HTML quality ──────────────────────────────────────────
 check("02-SSR-LINKS", "Navigation and content links are server-rendered <a href> (§02 C l.659)", () =>
   each(urls, (u, h) => ((h.match(/<a [^>]*href="[^"#][^"]*"/g) ?? []).length >= 15 ? null : "too few server-rendered links")));

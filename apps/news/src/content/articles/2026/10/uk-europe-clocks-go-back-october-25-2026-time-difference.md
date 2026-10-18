@@ -10,7 +10,9 @@ keywords: ["clocks go back 2026", "UK clocks change October 25 2026", "time diff
 dateline: "New York"
 hero:
   src: ../../../../assets/news/uk-europe-clocks-go-back-october-25-2026-time-difference/uk-europe-clocks-go-back-october-25-2026-time-difference.jpg
-  alt: "Illustration of London and New York clocks four hours apart next to a calendar page for Sunday, Oct. 25"
+  alt: "UK and Europe clocks go back Oct. 25, 2026: London and New York clocks four hours apart beside an Oct. 25 calendar page"
+  title: "London to New York time difference after the UK clock change, Oct. 25, 2026"
+  caption: "From Oct. 25 to Nov. 1, 2026, London is four hours ahead of New York instead of five, because Europe changes clocks a week earlier."
 summary:
   - "The UK and EU countries turn clocks back one hour on Sunday, Oct. 25, 2026; the U.S. and most of Canada follow on Nov. 1."
   - "From Oct. 25 to Nov. 1, London is 4 hours ahead of New York instead of the usual 5."

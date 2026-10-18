@@ -11,7 +11,9 @@ keywords: ["Veterans Day 2026", "is the stock market open on Veterans Day", "is 
 dateline: "New York"
 hero:
   src: ../../../../assets/news/veterans-day-2026-wednesday-november-11/veterans-day-2026-wednesday-november-11.jpg
-  alt: "Illustration of a waving U.S. flag and red poppies next to a calendar page for Wednesday, Nov. 11"
+  alt: "Veterans Day 2026 on Wednesday, Nov. 11: a waving U.S. flag and red remembrance poppies beside a Nov. 11 calendar page"
+  title: "Veterans Day 2026, Wednesday, Nov. 11: what's open and closed"
+  caption: "Veterans Day stays on Nov. 11 every year; in 2026 it falls on a Wednesday, so federal offices, banks and mail delivery stop midweek."
 summary:
   - "Veterans Day 2026 is Wednesday, Nov. 11, a federal holiday that stays on Nov. 11 every year."
   - "Federal offices, the Federal Reserve, most banks and the Postal Service close; there is no regular mail delivery."

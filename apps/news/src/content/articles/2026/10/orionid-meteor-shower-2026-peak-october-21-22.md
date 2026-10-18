@@ -10,7 +10,9 @@ keywords: ["Orionid meteor shower 2026", "Orionids peak 2026", "meteor shower Oc
 dateline: "New York"
 hero:
   src: ../../../../assets/news/orionid-meteor-shower-2026-peak-october-21-22/orionid-meteor-shower-2026-peak-october-21-22.jpg
-  alt: "Illustration of meteors streaking away from the constellation Orion above a pine forest while a gibbous moon sets"
+  alt: "Orionid meteor shower 2026: meteors streaking from the constellation Orion over a pine forest as the gibbous moon sets"
+  title: "Orionid meteor shower 2026 peak, Oct. 21-22"
+  caption: "The Orionids appear to come from near Orion's raised club; the darkest skies on the Oct. 21-22 peak come after moonset."
 summary:
   - "The Orionid meteor shower peaks the night of Wednesday, Oct. 21 into Thursday, Oct. 22, 2026."
   - "Expect up to about 20 meteors an hour under dark skies; a bright waxing gibbous moon washes out the evening hours."

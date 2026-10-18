@@ -14,6 +14,7 @@ const href = articlePath(article.id);
     <Image
       src={d.hero.src}
       alt={d.hero.alt}
+      title={d.hero.title ?? d.title}
       widths={featured ? [400, 640, 828, 1080, 1344] : [160, 240, 320]}
       sizes={featured ? "(max-width: 752px) calc(100vw - 2rem), 720px" : "120px"}
       format="webp"

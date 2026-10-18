@@ -72,6 +72,7 @@ const seo: ArticleSeo = {
     main: hero.main,
     crops: hero.crops,
     alt: d.hero.alt,
+    title: d.hero.title ?? d.title,
     caption: d.hero.caption,
     credit: d.hero.credit,
   },
@@ -117,7 +118,7 @@ const related = pickRelated(
       readingMinutes={minutes}
       dateline={d.dateline}
     />
-    <Hero src={d.hero.src} alt={d.hero.alt} caption={d.hero.caption} credit={d.hero.credit} />
+    <Hero src={d.hero.src} alt={d.hero.alt} title={d.hero.title ?? d.title} caption={d.hero.caption} credit={d.hero.credit} />
     <KeyPoints points={d.summary} />
     <Toc headings={headings} />
     <div class="prose-news">

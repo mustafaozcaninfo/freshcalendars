@@ -16,7 +16,7 @@ export const GET: APIRoute = async () => {
       articles.map(async (a) => ({
         path: articlePath(a.id),
         lastmod: lastModified(a),
-        image: { url: (await heroImages(a.data.hero.src)).main.url, title: a.data.hero.alt },
+        image: { url: (await heroImages(a.data.hero.src)).main.url, title: a.data.hero.title ?? a.data.title },
       })),
     )),
   ];

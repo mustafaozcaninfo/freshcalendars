@@ -11,7 +11,9 @@ keywords: ["daylight saving time ends 2026", "fall back November 1 2026", "Sunsh
 dateline: "New York"
 hero:
   src: ../../../../assets/news/daylight-saving-time-ends-november-1-2026/daylight-saving-time-ends-november-1-2026.jpg
-  alt: "Illustration of a clock turning back from 2:00 to 1:00 next to a calendar page for Sunday, Nov. 1"
+  alt: "Daylight saving time ends Sunday, Nov. 1, 2026: a clock falls back from 2:00 to 1:00 a.m. beside a Nov. 1 calendar page"
+  title: "Daylight saving time ends Nov. 1, 2026: clocks fall back one hour"
+  caption: "Clocks in most of the U.S. go back one hour, from 2:00 a.m. to 1:00 a.m. local time, on Sunday, Nov. 1, 2026."
 summary:
   - "Daylight saving time ends at 2:00 a.m. local time on Sunday, Nov. 1, 2026; clocks go back to 1:00 a.m."
   - "The House passed the Sunshine Protection Act 308-117 on July 14, 2026, but the Senate has not voted on it."

@@ -11,7 +11,9 @@ keywords: ["why is Thanksgiving on a different date", "fourth Thursday in Novemb
 dateline: "New York"
 hero:
   src: ../../../../assets/news/why-thanksgiving-2026-is-november-26/why-thanksgiving-2026-is-november-26.jpg
-  alt: "Illustration of a November 2026 calendar with Thursday the 26th circled among autumn leaves and pumpkins"
+  alt: "Thanksgiving 2026 on Thursday, Nov. 26, circled as the fourth Thursday on a November 2026 calendar with autumn leaves"
+  title: "Why Thanksgiving 2026 falls on Nov. 26, the fourth Thursday of November"
+  caption: "November 2026 begins on a Sunday, so the fourth Thursday, and Thanksgiving Day, is Nov. 26. Black Friday follows on Nov. 27."
 summary:
   - "Thanksgiving Day 2026 is Thursday, Nov. 26; Black Friday follows on Nov. 27."
   - "A 1941 law fixed the holiday on the fourth Thursday of November, so it always lands between Nov. 22 and Nov. 28."

@@ -10,7 +10,9 @@ keywords: ["Social Security COLA 2027", "2027 Social Security increase", "Social
 dateline: "New York"
 hero:
   src: ../../../../assets/news/social-security-cola-2027-3-6-percent-payment-dates/social-security-cola-2027-3-6-percent-payment-dates.jpg
-  alt: "Illustration of a January 2027 calendar with Social Security paydays on Jan. 13, 20 and 27 and a +3.6% COLA badge"
+  alt: "Social Security COLA 2027: January 2027 calendar with payment dates Jan. 13, 20 and 27 and a +3.6% cost-of-living badge"
+  title: "Social Security COLA 2027 (3.6%) and January 2027 payment dates"
+  caption: "Social Security benefits rise 3.6% with January 2027 payments, which arrive on Jan. 13, 20 or 27 depending on birth date."
 summary:
   - "The Social Security Administration announced a 3.6% cost-of-living adjustment for 2027 on Oct. 14, 2026."
   - "The average retired worker's benefit rises about $75, from $2,095 to an estimated $2,170 a month."

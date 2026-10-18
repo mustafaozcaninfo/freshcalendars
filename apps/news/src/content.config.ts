@@ -38,7 +38,10 @@ const articles = defineCollection({
           // Width can't be refined here (image() resolves after parsing); checked in lib/articles.ts.
           src: image(),
           alt: z.string().min(10).max(160),
-          caption: z.string().optional(),
+          /** Tooltip/title text for the image; defaults to the article title. */
+          title: z.string().min(10).max(110).optional(),
+          /** Visible caption under the hero (also ImageObject.caption). */
+          caption: z.string().min(20).max(220).optional(),
           credit: z.string().optional(),
         }),
         summary: z.array(z.string().min(10)).min(2).max(4),

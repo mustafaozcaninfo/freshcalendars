@@ -12,7 +12,7 @@ const { items } = Astro.props;
       {items.map((r) => (
         <li>
           <a href={r.href}>
-            <Image src={r.image} alt={r.alt} widths={[320, 480, 640]} sizes="(max-width: 600px) 100vw, 230px" format="webp" loading="lazy" decoding="async" />
+            <Image src={r.image} alt={r.alt} title={r.title} widths={[320, 480, 640]} sizes="(max-width: 600px) 100vw, 230px" format="webp" loading="lazy" decoding="async" />
             <span class="t">{r.title}</span>
           </a>
           <time datetime={isoDateTime(r.publishedAt)}>{formatDateET(r.publishedAt)}</time>
