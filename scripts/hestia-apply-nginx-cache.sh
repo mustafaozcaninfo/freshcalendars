@@ -16,7 +16,7 @@ NEWS_LOCATION="
 		index          index.html;
 		absolute_redirect off;
 		try_files      \$uri \$uri/index.html \$uri/ =404;
-		error_page     404 /404.html;
+		error_page     404 /news/404.html;
 		access_log     /var/log/apache2/domains/${DOMAIN}.log combined;
 		access_log     /var/log/apache2/domains/${DOMAIN}.bytes bytes;
 		expires        off;

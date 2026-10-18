@@ -1,0 +1,16 @@
+---
+/** /news/404.html — nginx error_page for /news/ so missing stories keep the short news TTL. */
+import NewsBase from "../layouts/NewsBase.astro";
+---
+<NewsBase
+  title="Story not found | Fresh Calendars News"
+  description="This news story is not available. Browse the latest calendar and holiday news from the Fresh Calendars News Desk."
+  path="/news/"
+  robots="noindex, follow"
+>
+  <div class="news-wrap">
+    <h1>Story not found</h1>
+    <p class="news-lede">This page may have moved, or the story is not published yet.</p>
+    <p><a href="/news/">Latest calendar &amp; holiday news</a> · <a href="/holidays/">2026 US holidays</a></p>
+  </div>
+</NewsBase>
