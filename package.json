@@ -19,7 +19,8 @@
     "smoke:lighthouse": "node scripts/smoke-lighthouse.mjs",
     "news:dev": "pnpm --filter @freshcalendars/news dev",
     "news:build": "pnpm --filter @freshcalendars/news build",
-    "news:schema-test": "bash apps/news/test/schema-negative.sh"
+    "news:schema-test": "bash apps/news/test/schema-negative.sh",
+    "news:links": "node apps/news/test/links.mjs"
   },
   "devDependencies": {
     "@types/node": "^22.13.10",

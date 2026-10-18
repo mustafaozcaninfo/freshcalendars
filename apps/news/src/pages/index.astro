@@ -1,22 +1,27 @@
 ---
-import NewsBase from "../layouts/NewsBase.astro";
-import { getPublishedArticles } from "../lib/articles";
+import ListingView from "../components/ListingView.astro";
+import { getActiveCategories, getCategoryNames, getPublishedArticles } from "../lib/articles";
+import { getCollection } from "astro:content";
+import { authorHref } from "../lib/articles";
+import { HOME, homePages } from "../lib/pages";
 
-// Listing UI arrives in N4; calling this now runs the slug/hero checks on every build.
-const articles = await getPublishedArticles();
+const [page] = await homePages();
+// Bylines on the hub keep every author page linked, even before a first story.
+const authors = await getCollection("authors");
+const chips = (await getActiveCategories(await getPublishedArticles())).map((c) => ({ id: c.id, name: c.data.name }));
 ---
-<NewsBase
-  title="Calendar & Holiday News | Fresh Calendars"
-  description="Holiday date changes, daylight saving time updates, school calendar decisions and other date news from the Fresh Calendars News Desk."
-  path="/news/"
+<ListingView
+  page={page!}
+  heading={HOME.heading}
+  intro={HOME.intro}
+  description={HOME.description}
+  trail={[{ name: "News", path: "/news/" }]}
+  kind="CollectionPage"
+  categoryNames={await getCategoryNames()}
+  chips={chips}
 >
-  <div class="news-wrap">
-    <h1>Calendar &amp; Holiday News</h1>
-    <p class="news-lede">Date changes that affect your calendar: federal and state holidays, daylight saving time, school calendars and key retail dates.</p>
-    {articles.length > 0 && (
-      <ul>
-        {articles.map((a) => <li>{a.data.title}</li>)}
-      </ul>
-    )}
-  </div>
-</NewsBase>
+  <p class="desk">Reported by {authors.map((a, i) => <>{i > 0 && ", "}<a href={authorHref(a.id)}>{a.data.name}</a></>)}.</p>
+</ListingView>
+<style>
+  .desk{margin:-.5rem 0 1.25rem;font-size:.95rem;color:var(--ink)}
+</style>

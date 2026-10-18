@@ -35,3 +35,21 @@ export async function getPublishedArticles(now: Date = new Date()): Promise<Arti
 export function lastModified(a: Article): Date {
   return a.data.updatedAt ?? a.data.publishedAt;
 }
+
+export type Category = CollectionEntry<"categories">;
+export type Author = CollectionEntry<"authors">;
+
+export const categoryHref = (id: string) => `/news/category/${id}/`;
+export const authorHref = (id: string) => `/news/author/${id}/`;
+
+/** Categories in display order that have at least one published article (no thin, empty hubs). */
+export async function getActiveCategories(articles: Article[]): Promise<Category[]> {
+  const used = new Set(articles.map((a) => a.data.category.id));
+  return (await getCollection("categories"))
+    .filter((c) => used.has(c.id))
+    .sort((a, b) => a.data.order - b.data.order);
+}
+
+export async function getCategoryNames(): Promise<Map<string, string>> {
+  return new Map((await getCollection("categories")).map((c) => [c.id, c.data.name]));
+}

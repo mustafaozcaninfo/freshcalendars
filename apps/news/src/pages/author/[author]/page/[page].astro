@@ -1,0 +1,12 @@
+---
+import AuthorListing from "../../../../components/AuthorListing.astro";
+import { authorPages } from "../../../../lib/pages";
+
+export async function getStaticPaths() {
+  return (await authorPages())
+    .filter(({ page }) => page.page > 1)
+    .map(({ author, page }) => ({ params: { author: author.id, page: String(page.page) }, props: { author, page } }));
+}
+const { author, page } = Astro.props;
+---
+<AuthorListing author={author} page={page} />

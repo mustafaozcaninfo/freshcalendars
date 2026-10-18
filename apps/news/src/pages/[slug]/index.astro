@@ -14,7 +14,7 @@ import KeyPoints from "../../components/KeyPoints.astro";
 import RelatedGrid from "../../components/RelatedGrid.astro";
 import Sources from "../../components/Sources.astro";
 import Toc from "../../components/Toc.astro";
-import { getPublishedArticles, lastModified, type Article } from "../../lib/articles";
+import { authorHref, getPublishedArticles, lastModified, type Article } from "../../lib/articles";
 import { pickRelated } from "../../lib/related";
 import {
   articleGraph,
@@ -41,7 +41,7 @@ const { Content, headings } = await render(article);
 
 const category = (await getEntry(d.category))!;
 const authors = await Promise.all(d.authors.map(async (ref) => (await getEntry(ref))!));
-const authorPath = (id: string) => `/news/author/${id}/`;
+const authorPath = authorHref;
 
 const abs = (u: string) => (u.startsWith("http") ? u : `${SITE_ORIGIN}${u}`);
 const main = await getImage({ src: d.hero.src, width: 1344, height: 756, fit: "cover", format: "webp" });

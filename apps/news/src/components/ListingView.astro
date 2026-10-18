@@ -1,0 +1,80 @@
+---
+import NewsBase from "../layouts/NewsBase.astro";
+import ArticleCard from "./ArticleCard.astro";
+import Breadcrumb from "./Breadcrumb.astro";
+import Pagination from "./Pagination.astro";
+import type { Article } from "../lib/articles";
+import { categoryHref } from "../lib/articles";
+import { pagedTitle, type Page } from "../lib/listing";
+import { articlePath, listingGraph, type AuthorSeo } from "../lib/seo";
+
+interface Props {
+  page: Page<Article>;
+  /** H1 text and base of the <title> */
+  heading: string;
+  intro: string;
+  description: string;
+  /** Breadcrumb after Home; the last item is this listing (page 1 path). */
+  trail: { name: string; path: string }[];
+  kind: "CollectionPage" | "ProfilePage";
+  author?: AuthorSeo & { description?: string };
+  categoryNames: Map<string, string>;
+  /** Category chips shown under the intro (news home only). */
+  chips?: { name: string; id: string }[];
+  emptyText?: string;
+  /** Longer section description shown after the list (keeps stories above the fold). */
+  about?: string;
+}
+const { page, heading, intro, description, trail, kind, author, categoryNames, chips = [], emptyText, about } = Astro.props;
+const [first, ...rest] = page.items;
+const featured = page.page === 1 && kind === "CollectionPage" && trail.length === 1 ? first : undefined;
+const list = featured ? rest : page.items;
+const pageDescription = page.page > 1 ? `${description} Page ${page.page} of ${page.totalPages}.` : description;
+const jsonLd = listingGraph({
+  path: page.path,
+  name: pagedTitle(heading, page.page, "").replace(/ \| $/, ""),
+  description: pageDescription,
+  trail: page.page > 1 ? [...trail, { name: `Page ${page.page}`, path: page.path }] : trail,
+  items: page.items.map((a) => ({ path: articlePath(a.id), name: a.data.title })),
+  kind,
+  author,
+});
+---
+<NewsBase title={pagedTitle(heading, page.page)} description={pageDescription} path={page.path} jsonLd={jsonLd}>
+  <div class="news-wrap listing">
+    <Breadcrumb items={[{ name: "Home", href: "/" }, ...trail.map((t) => ({ name: t.name, href: t.path })), ...(page.page > 1 ? [{ name: `Page ${page.page}` }] : [])]} />
+    <h1>{heading}{page.page > 1 && <span class="pg"> – Page {page.page}</span>}</h1>
+    {page.page === 1 && <p class="news-lede">{intro}</p>}
+    <slot />
+    {chips.length > 0 && (
+      <nav class="chips" aria-label="News categories">
+        {chips.map((c) => <a href={categoryHref(c.id)}>{c.name}</a>)}
+      </nav>
+    )}
+    {page.items.length === 0 && <p class="empty">{emptyText ?? "No stories yet. Check back soon."}</p>}
+    {featured && <ArticleCard article={featured} categoryName={categoryNames.get(featured.data.category.id) ?? ""} featured />}
+    {list.length > 0 && (
+      <div class="list">
+        {list.map((a) => <ArticleCard article={a} categoryName={categoryNames.get(a.data.category.id) ?? ""} />)}
+      </div>
+    )}
+    <Pagination page={page} />
+    {about && page.page === 1 && (
+      <section class="about" aria-labelledby="about-title">
+        <h2 id="about-title">About this section</h2>
+        <p>{about}</p>
+      </section>
+    )}
+  </div>
+</NewsBase>
+<style>
+  .listing .news-lede{margin-bottom:1.25rem}
+  .pg{color:var(--ink)}
+  .chips{display:flex;flex-wrap:wrap;gap:.5rem;margin:0 0 1.5rem}
+  .chips a{display:inline-flex;align-items:center;min-height:44px;padding:0 .9rem;border:1px solid var(--line);border-radius:4px;color:var(--ink-strong);text-decoration:none;font-weight:700;font-size:.9rem}
+  .chips a:hover,.chips a:focus-visible{border-color:var(--focus);color:var(--focus)}
+  .list{margin-top:1rem}
+  .empty{padding:2rem 0;color:var(--ink)}
+  .about{margin-top:2rem;padding-top:1rem;border-top:4px solid var(--gold);color:var(--ink-strong)}
+  .about h2{font-family:Sora,"Sora Fallback",sans-serif;font-size:1.1rem;margin:0 0 .5rem}
+</style>

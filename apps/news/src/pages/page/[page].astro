@@ -1,0 +1,20 @@
+---
+import ListingView from "../../components/ListingView.astro";
+import { getCategoryNames, type Article } from "../../lib/articles";
+import type { Page } from "../../lib/listing";
+import { HOME, homePages } from "../../lib/pages";
+
+export async function getStaticPaths() {
+  return (await homePages()).slice(1).map((page) => ({ params: { page: String(page.page) }, props: { page } }));
+}
+const { page } = Astro.props as { page: Page<Article> };
+---
+<ListingView
+  page={page}
+  heading={HOME.heading}
+  intro={HOME.intro}
+  description={HOME.description}
+  trail={[{ name: "News", path: "/news/" }]}
+  kind="CollectionPage"
+  categoryNames={await getCategoryNames()}
+/>

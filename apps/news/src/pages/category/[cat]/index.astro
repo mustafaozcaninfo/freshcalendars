@@ -1,0 +1,22 @@
+---
+import ListingView from "../../../components/ListingView.astro";
+import { categoryHref, getCategoryNames } from "../../../lib/articles";
+import { categoryHeading, categoryPages, shortDescription } from "../../../lib/pages";
+
+export async function getStaticPaths() {
+  return (await categoryPages())
+    .filter(({ page }) => page.page === 1)
+    .map(({ category, page }) => ({ params: { cat: category.id }, props: { category, page } }));
+}
+const { category, page } = Astro.props;
+---
+<ListingView
+  page={page}
+  heading={categoryHeading(category)}
+  intro={shortDescription(category.data.description, 220)}
+  about={category.data.description}
+  description={shortDescription(category.data.description)}
+  trail={[{ name: "News", path: "/news/" }, { name: category.data.name, path: categoryHref(category.id) }]}
+  kind="CollectionPage"
+  categoryNames={await getCategoryNames()}
+/>

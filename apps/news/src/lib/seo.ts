@@ -243,6 +243,62 @@ export function articleGraph(a: ArticleSeo): Record<string, unknown> {
   };
 }
 
+export interface ListingSeo {
+  /** Site-relative path of this page */
+  path: string;
+  name: string;
+  description: string;
+  /** Breadcrumb trail after Home, e.g. [{name:"News", path:"/news/"}] — last item is this page. */
+  trail: { name: string; path: string }[];
+  items: { path: string; name: string }[];
+  /** CollectionPage for news home/category, ProfilePage for author pages */
+  kind: "CollectionPage" | "ProfilePage";
+  /** Author node for ProfilePage.mainEntity */
+  author?: AuthorSeo & { description?: string };
+}
+
+export function listingGraph(l: ListingSeo): Record<string, unknown> {
+  const url = absNewsUrl(l.path);
+  const crumbs = [{ name: "Home", item: `${SITE_ORIGIN}/` }, ...l.trail.map((t) => ({ name: t.name, item: absNewsUrl(t.path) }))];
+  const page: Record<string, unknown> = {
+    "@type": l.kind,
+    "@id": `${url}#webpage`,
+    url,
+    name: l.name,
+    description: l.description,
+    isPartOf: { "@id": WEBSITE_ID },
+    breadcrumb: { "@id": `${url}#breadcrumb` },
+    inLanguage: "en-US",
+  };
+  const nodes: Record<string, unknown>[] = [
+    organizationNode(),
+    { "@type": "WebSite", "@id": WEBSITE_ID, url: `${SITE_ORIGIN}/`, name: NEWS_NAME, publisher: { "@id": ORG_ID }, inLanguage: "en-US" },
+    {
+      "@type": "BreadcrumbList",
+      "@id": `${url}#breadcrumb`,
+      itemListElement: crumbs.map((c, i) => ({ "@type": "ListItem", position: i + 1, item: { "@id": c.item, name: c.name } })),
+    },
+    page,
+  ];
+  if (l.items.length) {
+    page.mainEntity = { "@id": `${url}#itemlist` };
+    nodes.push({
+      "@type": "ItemList",
+      "@id": `${url}#itemlist`,
+      numberOfItems: l.items.length,
+      itemListElement: l.items.map((it, i) => ({ "@type": "ListItem", position: i + 1, url: absNewsUrl(it.path), name: it.name })),
+    });
+  }
+  if (l.kind === "ProfilePage" && l.author) {
+    const node = authorNode(l.author);
+    if (l.author.description) node.description = l.author.description;
+    nodes.push(node);
+    page.mainEntity = { "@id": node["@id"] };
+    if (l.items.length) page.hasPart = { "@id": `${url}#itemlist` };
+  }
+  return { "@context": "https://schema.org", "@graph": nodes };
+}
+
 /** JSON for a <script type="application/ld+json"> — `<` escaped so text can't close the tag. */
 export function jsonLdString(data: unknown): string {
   return JSON.stringify(data).replace(/</g, "\\u003c");

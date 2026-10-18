@@ -1,6 +1,6 @@
 # Fresh Calendars News — Yol Haritası (`/news/`, Astro, Google News)
 
-Hazırlanma: 2026-10-18 · Durum: **N0 ✔ · N1 ✔ · N2 ✔ · N3 ✔ · sıradaki N4**
+Hazırlanma: 2026-10-18 · Durum: **N0 ✔ · N1 ✔ · N2 ✔ · N3 ✔ · N4 ✔ · sıradaki N5**
 Kaynaklar: canlı `tech-insider.org` analizi (sitemap index, post sitemap, RSS, örnek makale `verizon-iphone-handoff-fee-10-dollars-2026`), `SEO-HARITASI-TAM.md`, `docs/DESIGN.md`, `docs/BLUEPRINT-A-Z.md`, `packages/generator/src/sitePages.ts`, VPS/nginx/Cloudflare yapılandırması.
 
 ---
@@ -369,6 +369,7 @@ AdSense yüklendiğinde Best Practices üçüncü-taraf çerez/konsol uyarılar�
 - **N4.1** `/news/`, `/news/page/n/`, kategori (+sayfalama), yazar sayfaları; sayfa başı 20.
 - **N4.2** CollectionPage/ItemList/ProfilePage JSON-LD.
 - ✅ Kabul: tüm makalelere ≤3 tıkta erişim, yetim sayfa yok.
+- ✔ **Yapıldı (2026-10-18):** `/news/` (öne çıkan eager kart + liste, kategori çipleri, News Desk byline linki), `/news/page/N/`, `/news/category/<id>/` (+`page/N/`; kısa intro üstte, ≥80 kelimelik açıklama listenin altında “About this section”), `/news/author/<id>/` (+`page/N/`, ProfilePage). Boş kategoriler üretilmez (ince sayfa yok); yazar sayfaları her zaman üretilir (byline linkleri çözülsün). Sayfa 1 = taban yol, `/page/1/` yok; sayfa 2+ başlık/açıklama/breadcrumb’da “Page N”. `lib/listing.ts` (paginate, `NEWS_PER_PAGE` test override), `listingGraph` (CollectionPage/ProfilePage + ItemList + BreadcrumbList). `pnpm news:links`: kırık iç link, tek H1, yetim ve derinlik (>3, `/page/N/` arşivleri hariç) kontrolü — prod (0 makale), taslaklı ve 1’er sayfalık build’lerde 0 sorun. Testler 35/35.
 
 ### Faz N5 — Sitemap, feed, robots (1 gün)
 - **N5.1** index + post + category + author + page sitemap’leri, XSL.

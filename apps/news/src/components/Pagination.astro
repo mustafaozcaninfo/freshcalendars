@@ -1,0 +1,17 @@
+---
+import type { Page } from "../lib/listing";
+interface Props { page: Page<unknown> }
+const { page } = Astro.props;
+---
+{page.totalPages > 1 && (
+  <nav class="pager" aria-label="Pagination">
+    {page.prevPath ? <a href={page.prevPath} rel="prev">← Newer</a> : <span />}
+    <span class="count">Page {page.page} of {page.totalPages}</span>
+    {page.nextPath ? <a href={page.nextPath} rel="next">Older →</a> : <span />}
+  </nav>
+)}
+<style>
+  .pager{display:flex;justify-content:space-between;align-items:center;gap:1rem;margin:2rem 0 0;padding-top:1rem;border-top:1px solid var(--line-soft)}
+  .pager a{min-height:44px;display:inline-flex;align-items:center;font-weight:700;color:var(--focus)}
+  .count{font-size:.9rem;color:var(--ink)}
+</style>
