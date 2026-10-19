@@ -1,10 +1,10 @@
 ---
 title: "Masthead"
 description: "Who is responsible for Fresh Calendars News: the Fresh Calendars News Desk, how to reach the editorial team, and where to find our policies."
-updatedAt: "2026-10-18T09:00:00-04:00"
+updatedAt: "2026-10-19T10:30:00-04:00"
 ---
 
-Fresh Calendars News is published by Fresh Calendars.
+Fresh Calendars News is published by Fresh Calendars, the independent free printable calendar website at freshcalendars.com. It is not part of a media network.
 
 ## News desk
 

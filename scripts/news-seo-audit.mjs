@@ -122,6 +122,32 @@ check("02-NOT-X-BUT-Y", "No 'not X, but Y' / 'it's not just X' constructions (§
 check("02-ENDINGS", "Paragraphs/sections do not end with formulaic wrap-ups (§02 B l.607)", () =>
   each(articleUrls, (u) => (/\b(in summary|to sum up|all in all|in conclusion|ultimately,)\b/.test(words(u)) ? "formulaic wrap-up" : null)));
 
+// ── 09 Google News technical checklist (Publisher Center answer 6204050, 9607104; Article structured data) ──
+check("09-NEWSARTICLE-TYPE", "Story JSON-LD uses NewsArticle (Google recognizes Article, NewsArticle, BlogPosting only)", () =>
+  each(articleUrls, (u, h) => (nodes(h).some((n) => n["@type"] === "NewsArticle") ? null : `type is ${types(h).find((t) => /Article$/.test(t))}`)));
+check("09-GOOGLEBOT", "Every page has robots and googlebot meta with the same directives", () =>
+  each(urls, (u, h) => { const r = h.match(/<meta name="robots" content="([^"]+)"/)?.[1]; const g = h.match(/<meta name="googlebot" content="([^"]+)"/)?.[1]; return r && g && r === g ? null : `robots=${r} googlebot=${g}`; }));
+check("09-ARTICLE-FIELDS", "NewsArticle has headline = H1, description, image, dates, typed author with url, publisher, mainEntityOfPage, articleSection", () =>
+  each(articleUrls, (u, h) => {
+    const a = nodes(h).find((n) => n["@type"] === "NewsArticle"); if (!a) return "no NewsArticle";
+    const h1 = (h.match(/<h1[^>]*>([\s\S]*?)<\/h1>/)?.[1] ?? "").replace(/<[^>]+>/g, "").replace(/&#39;/g, "'").replace(/&amp;/g, "&").replace(/&quot;/g, '"').trim();
+    const miss = ["headline", "description", "image", "datePublished", "dateModified", "author", "publisher", "mainEntityOfPage", "articleSection"].filter((k) => !a[k]);
+    if (a.headline !== h1) miss.push(`headline≠H1`);
+    for (const au of [].concat(a.author)) if (!au["@type"] || !au.url || !au.name) miss.push("author @type/url/name");
+    return miss.length ? miss.join(", ") : null;
+  }));
+check("09-IMAGE-MATCH", "og:image is the first NewsArticle image and the hero is in the HTML (not JS-only)", () =>
+  each(articleUrls, (u, h) => {
+    const og = h.match(/<meta property="og:image" content="([^"]+)"/)?.[1];
+    const a = nodes(h).find((n) => n["@type"] === "NewsArticle");
+    const first = [].concat(a?.image ?? [])[0];
+    const file = (x) => (x ?? "").split("/").pop()?.split("_")[0];
+    if (og !== first) return `og:image ${og} ≠ image[0] ${first}`;
+    return h.includes(file(og)) && /<img[^>]+src="[^"]+"/.test(h) ? null : "hero not in HTML";
+  }));
+check("09-VISIBLE-BYLINE-DATE", "Visible byline and publication date sit apart from the first sentence of the story", () =>
+  each(articleUrls, (u, h) => (/<p class="byline"/.test(h) && /<p class="dates"[\s\S]*?<time datetime=/.test(h) ? null : "byline/date block missing")));
+
 // ── 03 Scaled content / velocity ───────────────────────────────────────────
 check("03-VELOCITY", "No mass publishing: new subfolder far below 1,000 URLs/7 days; batch by QA capacity (§03 l.758, l.833)", () => {
   const n = articleUrls.length;

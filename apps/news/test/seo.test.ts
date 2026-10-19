@@ -44,9 +44,10 @@ describe("articleGraph", () => {
     assert.deepEqual(items.map((i) => i.position), [1, 2, 3, 4]);
     assert.deepEqual(items.map((i) => i.item.name), ["Home", "News", "Holidays", article.title]);
   });
-  it("gives the article three ≥1200px crops and ISO dates with offset", () => {
+  it("lists the og:image first, then three ≥1200px crops, with ISO dates and offset", () => {
     const art = byType("NewsArticle")[0]!;
-    assert.equal(art.image.length, 3);
+    assert.equal(art.image.length, 4);
+    assert.equal(art.image[0], article.hero.main.url);
     assert.match(art.datePublished, /^\d{4}-\d{2}-\d{2}T\d{2}:\d{2}:\d{2}\+00:00$/);
     assert.equal(art.dateModified, "2026-10-17T22:00:00+00:00");
     assert.ok(art.headline.length <= 110);
@@ -58,10 +59,15 @@ describe("articleGraph", () => {
     assert.ok(ids.has(art.publisher["@id"]));
     for (const a of art.author) assert.ok(ids.has(a["@id"]), `author ${a["@id"]} has no node`);
   });
-  it("maps explainer and analysis to NewsArticle subtypes", () => {
-    const t = (type: ArticleSeo["type"]) => (articleGraph({ ...article, type })["@graph"] as Node[]).at(-1)!["@type"];
-    assert.equal(t("explainer"), "BackgroundNewsArticle");
-    assert.equal(t("analysis"), "AnalysisNewsArticle");
+  it("keeps every story type as NewsArticle and moves the type to genre", () => {
+    const node = (type: ArticleSeo["type"]) => (articleGraph({ ...article, type })["@graph"] as Node[]).at(-1)!;
+    assert.equal(node("explainer")["@type"], "NewsArticle");
+    assert.equal(node("analysis")["@type"], "NewsArticle");
+    assert.equal(node("explainer").genre, "Explainer");
+  });
+  it("types each author and gives it a url", () => {
+    const art = byType("NewsArticle")[0]!;
+    for (const a of art.author) { assert.ok(a["@type"]); assert.ok(a.url); }
   });
   it("links the Organization to the published trust pages", () => {
     const org = byType("Organization")[0]!;

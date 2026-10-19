@@ -1,19 +1,23 @@
 ---
 title: "About Fresh Calendars News"
-description: "Fresh Calendars News reports date changes that affect planning: holidays, daylight saving time, school calendars and fixed retail and government dates."
+description: "Fresh Calendars News reports the dates people plan around: holidays, clock changes, government deadlines, elections, religious calendars and retail dates."
 schemaType: AboutPage
-updatedAt: "2026-10-18T09:00:00-04:00"
+updatedAt: "2026-10-19T10:30:00-04:00"
 ---
 
 Fresh Calendars News is the news section of [Fresh Calendars](/), a free printable calendar site for the United States, the United Kingdom and Canada.
 
 ## What we cover
 
-We report changes to dates people plan around: federal, state and statutory holidays, daylight saving time, school calendar decisions, sky events, retail dates such as Black Friday, and government deadlines. Every story links to the printable calendar or holiday page it affects, so readers can update their plans in one place.
+We report the dates people plan around: federal, state and statutory holidays; daylight saving time; Social Security, Medicare and other government deadlines; election dates and voting rules; religious and cultural calendars such as Ramadan, Diwali and Lunar New Year; sky events; school calendars; and retail dates such as Black Friday and seasonal product launches. Every story links to the printable calendar or holiday page it affects, and many include free printable templates made by Fresh Calendars.
 
 ## What we do not cover
 
-We do not publish general news, opinion columns or sponsored stories. Rumors and unconfirmed announcements are not reported until an official source publishes them.
+We do not publish general news, opinion columns or sponsored stories. Rumors and unconfirmed announcements are not reported as fact until an official source publishes them; when readers are searching for something that has not been announced, we say so plainly.
+
+## Who publishes Fresh Calendars News
+
+Fresh Calendars News is published by Fresh Calendars, the independent website at freshcalendars.com. It is not part of a larger media network, and no outside company or advertiser owns or directs it.
 
 ## Who writes the news
 

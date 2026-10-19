@@ -1,7 +1,7 @@
 ---
 title: "Editorial Policy"
 description: "How Fresh Calendars News chooses stories, checks dates against primary sources, uses tools, keeps ads separate and handles updates to published stories."
-updatedAt: "2026-10-18T09:00:00-04:00"
+updatedAt: "2026-10-19T10:30:00-04:00"
 ---
 
 This policy explains how Fresh Calendars News reports. It applies to every story under [/news/](/news/).
@@ -17,6 +17,10 @@ Each story states the full date, the day of the week and, when it matters, the t
 ## Use of tools
 
 We use software, which may include AI tools, for research, drafting and checks. A person on the news desk reviews every story, checks each date against its source and approves it before it is published. We do not publish stories that have not been reviewed.
+
+## Product and shopping stories
+
+Some stories cover seasonal products, such as advent calendars. Prices, contents and availability come from the maker's or official retailer's own website and are dated in the story, because they change. When a product has not been officially announced, we say so instead of repeating unconfirmed listings. No company pays for a product to be covered or placed, and news stories do not carry affiliate links.
 
 ## Ethics
 

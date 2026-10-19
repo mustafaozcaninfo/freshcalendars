@@ -77,12 +77,15 @@ export function isoDateTime(d: Date): string {
   return d.toISOString().replace(/\.\d{3}Z$/, "+00:00");
 }
 
+// Google's Article rich results recognize Article, NewsArticle and BlogPosting only, so every
+// story is a NewsArticle; the story type travels in `genre` instead of a schema.org subtype.
 const SCHEMA_TYPE: Record<ArticleType, string> = {
   news: "NewsArticle",
   update: "NewsArticle",
-  explainer: "BackgroundNewsArticle",
-  analysis: "AnalysisNewsArticle",
+  explainer: "NewsArticle",
+  analysis: "NewsArticle",
 };
+const GENRE: Record<ArticleType, string> = { news: "News", update: "Update", explainer: "Explainer", analysis: "Analysis" };
 
 /** Article-only tags; NewsBase adds title, description, robots, canonical, hreflang and og basics. */
 export function articleHeadTags(a: ArticleSeo): HeadTag[] {
@@ -233,9 +236,11 @@ export function articleGraph(a: ArticleSeo): Record<string, unknown> {
         articleSection: a.category.name,
         datePublished: published,
         dateModified: modified,
-        author: a.authors.map((au) => ({ "@id": absNewsUrl(au.path), name: au.name })),
+        genre: GENRE[a.type],
+        author: a.authors.map((au) => ({ "@type": au.kind, "@id": absNewsUrl(au.path), name: au.name, url: absNewsUrl(au.path) })),
         publisher: { "@id": ORG_ID },
-        image: a.hero.crops.map((c) => c.url),
+        // og:image first so the share image and the structured-data image match; then 16:9, 4:3, 1:1.
+        image: [a.hero.main.url, ...a.hero.crops.map((c) => c.url)],
         thumbnailUrl: a.hero.crops[0]?.url,
         dateline: a.dateline,
         wordCount: a.wordCount,
