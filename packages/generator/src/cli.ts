@@ -13,6 +13,7 @@ import { buildNovemberDownloads } from "./diwali.js";
 import { buildAdventDownloads } from "./advent.js";
 import { buildFallDownloads } from "./fall2026.js";
 import { buildDateListDownloads } from "./datelists.js";
+import { buildDateList2Downloads } from "./datelists2.js";
 import { ROOT } from "./paths.js";
 import { purgeDoCdn, syncCdnAssets } from "./spaces.js";
 
@@ -105,6 +106,8 @@ async function main(): Promise<void> {
       await buildFallDownloads();
     } else if (cmd === "news-datelists") {
       await buildDateListDownloads();
+    } else if (cmd === "news-datelists2") {
+      await buildDateList2Downloads();
     } else if (cmd === "rollover") {
       const to = Number(argValue("--to"));
       if (!to) throw new Error("--to YYYY required");
@@ -141,6 +144,7 @@ async function main(): Promise<void> {
   pnpm fc news-advent                      # /news/ Advent calendar 2026 printables (PDF + PNG)
   pnpm fc news-fall                        # /news/ Halloween, ACA enrollment, November sky printables
   pnpm fc news-datelists                   # /news/ NYC and Chicago school calendars, UK bank holidays 2027
+  pnpm fc news-datelists2                  # /news/ 2027 holidays, Florida school calendars, MCAT/SAT/ACT/LSAT
   pnpm fc refresh-evergreen
   pnpm fc rollover --to 2027 --confirm
   pnpm fc verify

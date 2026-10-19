@@ -43,6 +43,16 @@ export const KEY_DATES: KeyDate[] = [
   { date: "2027-02-06", label: "Lunar New Year, Year of the Goat", slug: "lunar-new-year-2027-year-of-the-goat" },
   { date: "2027-02-08", label: "Ramadan 2027 expected to begin", slug: "ramadan-2027-calendar-dates-timetable" },
   { date: "2027-03-09", label: "Eid al-Fitr", slug: "ramadan-2027-calendar-dates-timetable" },
+  { date: "2026-10-20", label: "MCAT 2027 registration opens (Group A states)", slug: "mcat-2027-test-dates-registration-opens-october-20" },
+  { date: "2026-10-23", label: "SAT registration deadline for Nov. 7", slug: "sat-act-test-dates-2026-27-registration-deadlines" },
+  { date: "2026-11-07", label: "SAT test day", slug: "sat-act-test-dates-2026-27-registration-deadlines" },
+  { date: "2026-11-11", label: "November LSAT begins (Nov. 11-14)", slug: "lsat-test-dates-2026-27-registration-deadlines" },
+  { date: "2026-11-23", label: "Thanksgiving week off in Miami-Dade, Broward and Palm Beach", slug: "broward-county-school-calendar-2026-27" },
+  { date: "2026-12-01", label: "LSAT registration deadline for January", slug: "lsat-test-dates-2026-27-registration-deadlines" },
+  { date: "2026-12-12", label: "ACT test day", slug: "sat-act-test-dates-2026-27-registration-deadlines" },
+  { date: "2027-01-01", label: "New Year's Day, first federal holiday of 2027", slug: "federal-holidays-2027-observed-dates-list" },
+  { date: "2027-03-26", label: "Good Friday: stock market closed", slug: "stock-market-holidays-2027-nyse-closed-dates" },
+  { date: "2027-03-26", label: "Ultra Music Festival in Miami (March 26-28)", slug: "ultra-music-festival-2027-miami-dates-march-26-28" },
 ];
 
 /** Today's date in Eastern Time as YYYY-MM-DD. */

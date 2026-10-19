@@ -11,23 +11,27 @@
 import { LETTER, doc, fontFaces } from "./julian.js";
 import { renderPrintables } from "./printables.js";
 
-type Row = { date: string; day: string; what: string; kind?: "off" | "break" | "remote" | "half" | "key" };
-type Spec = { title: string; sub: string; accent: string; rows: Row[]; note: string; site: string; cols?: 1 | 2 };
+export type Row = { date: string; day: string; what: string; kind?: "off" | "break" | "remote" | "half" | "key" };
+export type Spec = { title: string; sub: string; accent: string; rows: Row[]; note: string; site: string; cols?: 1 | 2 };
 
-function list(fonts: string, s: Spec): string {
+export function list(fonts: string, s: Spec): string {
   const cls = (k?: Row["kind"]) => (k ? ` class="${k}"` : "");
   const body = (rows: Row[]) => `<table><thead><tr><th>Date</th><th>Day</th><th>What happens</th></tr></thead><tbody>${rows.map((r) => `<tr${cls(r.kind)}><td class="d">${r.date}</td><td>${r.day}</td><td>${r.what}</td></tr>`).join("")}</tbody></table>`;
   const two = s.cols === 2;
+  // Short lists get taller rows and larger type so the sheet fills the page.
+  const roomy = !two && s.rows.length <= 16;
+  const pad = two ? 5 : roomy ? Math.min(16, Math.floor(560 / s.rows.length / 2)) : 6.5;
+  const fs = two ? 10.4 : roomy ? 13 : 11.6;
   const half = Math.ceil(s.rows.length / 2);
   const css = `
   .l{padding:32px 34px 0}
   .l header{border-bottom:4px solid ${s.accent};padding-bottom:8px;margin-bottom:12px}
-  .l h1{font-family:Sora;font-weight:800;font-size:28px;margin:0;color:${s.accent};line-height:1.1}
+  .l h1{font-family:Sora;font-weight:800;font-size:${roomy ? 32 : 28}px;margin:0;color:${s.accent};line-height:1.1}
   .l .sub{margin:4px 0 0;font-size:11.5px;color:#37474f}
   .l .cols{display:grid;grid-template-columns:${two ? "1fr 1fr" : "1fr"};gap:14px}
-  .l table{width:100%;border-collapse:collapse;font-size:${two ? 10.4 : 11.6}px}
+  .l table{width:100%;border-collapse:collapse;font-size:${fs}px}
   .l th{background:${s.accent};color:#fff;font-family:Sora;font-size:9.5px;padding:6px;text-align:left}
-  .l td{padding:${two ? 5 : 6.5}px 6px;border-bottom:1px solid #e3e8ee;vertical-align:top}
+  .l td{padding:${pad}px 8px;border-bottom:1px solid #e3e8ee;vertical-align:top}
   .l td.d{font-weight:700;white-space:nowrap}
   .l tr.off td{background:#fde8e8}.l tr.break td{background:#fff1c2;font-weight:700}.l tr.remote td{background:#e0f2fe}.l tr.half td{background:#f1f5f9}.l tr.key td{background:#dcfce7;font-weight:700}
   .l .legend{display:flex;flex-wrap:wrap;gap:14px;margin-top:10px;font-size:10px;color:#37474f}
