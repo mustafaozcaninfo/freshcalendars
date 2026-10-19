@@ -1,0 +1,103 @@
+{
+ "source": "U.S. Naval Observatory rstt/oneday API",
+ "date": "2026-10-31",
+ "retrieved": "2026-10-19",
+ "cities": [
+  {
+   "city": "New York, NY",
+   "sunset": "17:53",
+   "civilEnd": "18:22",
+   "moonrise": "22:59"
+  },
+  {
+   "city": "Boston, MA",
+   "sunset": "17:39",
+   "civilEnd": "18:08",
+   "moonrise": "22:41"
+  },
+  {
+   "city": "Philadelphia, PA",
+   "sunset": "17:59",
+   "civilEnd": "18:27",
+   "moonrise": "23:06"
+  },
+  {
+   "city": "Washington, DC",
+   "sunset": "18:09",
+   "civilEnd": "18:36",
+   "moonrise": "23:17"
+  },
+  {
+   "city": "Atlanta, GA",
+   "sunset": "18:46",
+   "civilEnd": "19:12",
+   "moonrise": null
+  },
+  {
+   "city": "Miami, FL",
+   "sunset": "18:40",
+   "civilEnd": "19:04",
+   "moonrise": null
+  },
+  {
+   "city": "Detroit, MI",
+   "sunset": "18:27",
+   "civilEnd": "18:56",
+   "moonrise": "23:32"
+  },
+  {
+   "city": "Chicago, IL",
+   "sunset": "17:46",
+   "civilEnd": "18:15",
+   "moonrise": "22:52"
+  },
+  {
+   "city": "Dallas, TX",
+   "sunset": "18:37",
+   "civilEnd": "19:02",
+   "moonrise": "23:57"
+  },
+  {
+   "city": "Houston, TX",
+   "sunset": "18:35",
+   "civilEnd": "19:00",
+   "moonrise": "23:59"
+  },
+  {
+   "city": "Minneapolis, MN",
+   "sunset": "18:02",
+   "civilEnd": "18:33",
+   "moonrise": "23:05"
+  },
+  {
+   "city": "Denver, CO",
+   "sunset": "17:59",
+   "civilEnd": "18:27",
+   "moonrise": "23:12"
+  },
+  {
+   "city": "Phoenix, AZ",
+   "sunset": "17:37",
+   "civilEnd": "18:03",
+   "moonrise": "23:00"
+  },
+  {
+   "city": "Seattle, WA",
+   "sunset": "17:53",
+   "civilEnd": "18:25",
+   "moonrise": "22:57"
+  },
+  {
+   "city": "San Francisco, CA",
+   "sunset": "18:12",
+   "civilEnd": "18:39",
+   "moonrise": "23:31"
+  },
+  {
+   "city": "Los Angeles, CA",
+   "sunset": "18:01",
+   "civilEnd": "18:27",
+   "moonrise": "23:24"
+  }
+ ]
+}
