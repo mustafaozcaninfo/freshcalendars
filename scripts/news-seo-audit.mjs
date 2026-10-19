@@ -248,7 +248,7 @@ check("08-ABBREV", "Abbreviations defined on first use in article prose (§08 l.
     // Abbreviations every US reader knows are exempt.
     const COMMON = new Set(["US", "U.S.", "UK", "EU", "ET", "AM", "PM", "TV", "NBC", "ID", "UTC", "NYSE", "AARP", "AAA", "DST", "EST", "EDT", "CST", "CDT", "MST", "MDT", "PST", "PDT", "AKST", "AKDT", "GMT", "BST", "CET", "CEST", "COLA", "SSI", "II", "DC", "NASA", "IRS", "PDF", "PNG",
       // Proper names written in capitals, not abbreviations.
-      "TIME", "GOV", "NORC",
+      "TIME", "GOV", "NORC", "LEGO",
       // Phone mnemonics (1-800-MEDICARE).
       "MEDICARE",
       // Spreadsheet function names.
