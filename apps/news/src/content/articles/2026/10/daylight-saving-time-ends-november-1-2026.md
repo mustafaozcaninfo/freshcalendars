@@ -62,6 +62,7 @@ internalLinks:
   - href: "/march-calendars.html"
     label: "March 2027 printable calendar"
 draft: false
+related: [halloween-2026-saturday-sunset-trick-or-treat-times, november-2026-meteor-showers-taurids-leonids]
 ---
 
 Daylight saving time ends at **2:00 a.m. local time on Sunday, Nov. 1, 2026**, when clocks in most of the United States move back one hour to 1:00 a.m. The change goes ahead even though the House of Representatives voted in July to make daylight saving time permanent: that bill, the Sunshine Protection Act, is still waiting for the Senate, and no Senate vote can happen before Nov. 1.

@@ -278,7 +278,7 @@ check("08-ABBREV", "Abbreviations defined on first use in article prose (§08 l.
       // Phone mnemonics (1-800-MEDICARE).
       "MEDICARE",
       // Spreadsheet function names.
-      "WEEKNUM", "ISOWEEKNUM",
+      "WEEKNUM", "ISOWEEKNUM", "NYC", "USPS",
       // Postal codes, as familiar as ID.
       "ZIP"]);
     const undefined_ = [];

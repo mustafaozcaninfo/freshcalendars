@@ -62,6 +62,7 @@ internalLinks:
   - href: "/holidays/"
     label: "2026 US holiday list"
 draft: false
+related: [costco-holiday-hours-closures-2026-2027, usps-holiday-shipping-deadlines-2026, nyc-public-schools-calendar-2026-27-breaks-holidays]
 ---
 
 Thanksgiving Day 2026 is **Thursday, Nov. 26**. The date is not picked each year: a 1941 federal law places the holiday on the fourth Thursday of November, which is why it moves around the calendar while holidays like Christmas stay put. Black Friday follows on Nov. 27, and the 100th Macy's Thanksgiving Day Parade steps off the morning of the 26th.

@@ -49,7 +49,7 @@ internalLinks:
     label: "Daylight saving time guide"
   - href: "/october-calendars.html"
     label: "October 2026 printable calendar"
-related: [daylight-saving-time-ends-november-1-2026]
+related: [daylight-saving-time-ends-november-1-2026, uk-bank-holidays-2027-dates-england-scotland-northern-ireland]
 draft: false
 ---
 

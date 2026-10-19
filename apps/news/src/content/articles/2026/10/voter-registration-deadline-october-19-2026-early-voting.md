@@ -60,6 +60,7 @@ internalLinks:
   - href: "/printable-weekly-calendar.html"
     label: "Printable weekly planner"
 draft: false
+related: [sample-ballot-by-zip-code-2026-texas-ballot, nyc-public-schools-calendar-2026-27-breaks-holidays]
 ---
 
 **Monday, Oct. 19, 2026** is the last day to register to vote in California and Pennsylvania for the Nov. 3 general election, and the last day to register online or by mail in Michigan. The same day, early in-person voting opens in Texas and Connecticut. Election Day is Tuesday, Nov. 3.
