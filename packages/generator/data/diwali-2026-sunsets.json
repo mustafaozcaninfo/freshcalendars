@@ -1,0 +1,80 @@
+{
+ "source": "U.S. Naval Observatory, Astronomical Applications Department (rstt/oneday API)",
+ "date": "2026-11-08",
+ "retrieved": "2026-10-19",
+ "newMoonUTC": "2026-11-09T07:02Z",
+ "cities": [
+  {
+   "city": "New York, NY",
+   "zone": "ET",
+   "sunrise": "06:35",
+   "sunset": "16:44"
+  },
+  {
+   "city": "Edison, NJ",
+   "zone": "ET",
+   "sunrise": "06:36",
+   "sunset": "16:46"
+  },
+  {
+   "city": "Boston, MA",
+   "zone": "ET",
+   "sunrise": "06:26",
+   "sunset": "16:29"
+  },
+  {
+   "city": "Washington, DC",
+   "zone": "ET",
+   "sunrise": "06:43",
+   "sunset": "17:00"
+  },
+  {
+   "city": "Atlanta, GA",
+   "zone": "ET",
+   "sunrise": "07:03",
+   "sunset": "17:39"
+  },
+  {
+   "city": "Chicago, IL",
+   "zone": "CT",
+   "sunrise": "06:32",
+   "sunset": "16:36"
+  },
+  {
+   "city": "Dallas, TX",
+   "zone": "CT",
+   "sunrise": "06:51",
+   "sunset": "17:30"
+  },
+  {
+   "city": "Houston, TX",
+   "zone": "CT",
+   "sunrise": "06:41",
+   "sunset": "17:30"
+  },
+  {
+   "city": "Phoenix, AZ",
+   "zone": "MT",
+   "sunrise": "06:53",
+   "sunset": "17:30"
+  },
+  {
+   "city": "Seattle, WA",
+   "zone": "PT",
+   "sunrise": "07:04",
+   "sunset": "16:41"
+  },
+  {
+   "city": "San Jose, CA",
+   "zone": "PT",
+   "sunrise": "06:40",
+   "sunset": "17:03"
+  },
+  {
+   "city": "Los Angeles, CA",
+   "zone": "PT",
+   "sunrise": "06:19",
+   "sunset": "16:54"
+  }
+ ]
+}

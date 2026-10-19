@@ -252,7 +252,9 @@ check("08-ABBREV", "Abbreviations defined on first use in article prose (§08 l.
       // Phone mnemonics (1-800-MEDICARE).
       "MEDICARE",
       // Spreadsheet function names.
-      "WEEKNUM", "ISOWEEKNUM"]);
+      "WEEKNUM", "ISOWEEKNUM",
+      // Postal codes, as familiar as ID.
+      "ZIP"]);
     const undefined_ = [];
     const seen = new Set();
     for (const m of text.matchAll(/\b([A-Z][A-Z-]{1,}[A-Z])\b/g)) {
