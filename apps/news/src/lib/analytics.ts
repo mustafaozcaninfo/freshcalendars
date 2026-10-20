@@ -1,9 +1,9 @@
 /**
  * Google Analytics 4 for /news/ (every page, including policy and 404 pages).
  *
- * The gtag queue is set up at once, so the page_view is recorded even if the reader leaves before
- * the library arrives; gtag.js itself is injected after window load (idle, max 1.5 s), so it never
- * competes with the LCP image or fonts. The snippet rides in the existing nav inline script: pages
+ * The gtag queue and config are set up at once and sent when gtag.js arrives; the library is
+ * injected after window load (idle, max 1.5 s) so it never competes with the LCP image or fonts.
+ * Trade-off: a reader who leaves before the page finishes loading is not counted. The snippet rides in the existing nav inline script: pages
  * keep ≤2 inline scripts and no <script src> in the HTML (audit 02-NO-JS-CONTENT, 01-GA-LOAD).
  * NEWS_GA=0 at build time turns it off.
  */
