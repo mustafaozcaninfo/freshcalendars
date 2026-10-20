@@ -98,7 +98,7 @@ There is no federal law guaranteeing time off to vote, but about half the states
 - **New York:** up to two hours of paid time if you do not have four consecutive hours to vote outside your working hours; notice is due two to 10 working days before Election Day (Election Law 3-110).
 - **Illinois:** up to two hours with advance notice.
 
-Early voting and mail voting make the issue less pressing, since 47 states offer some form of in-person voting before Election Day. If you plan to vote on Nov. 3, check [what time polls close](/news/what-time-do-polls-close-election-day-2026/) in your state.
+Early voting and mail voting make the issue less pressing, since 47 states offer some form of in-person voting before Election Day. If you plan to vote on Nov. 3, check [what time polls close](/news/what-time-do-polls-close-election-day-2026/) in your state and look up [your sample ballot by ZIP code](/news/sample-ballot-by-zip-code-2026-texas-ballot/) so you know every race before you go.
 
 ## Why it isn't a federal holiday
 

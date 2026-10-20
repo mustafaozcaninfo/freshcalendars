@@ -167,6 +167,28 @@ const related = pickRelated(
         try { await navigator.clipboard.writeText(b.dataset.url); b.textContent = "Link copied"; b.classList.add("done"); setTimeout(() => { b.textContent = "Copy link"; b.classList.remove("done"); }, 2000); } catch { prompt("Copy this link:", b.dataset.url); }
       });
       if (navigator.share) for (const b of document.querySelectorAll(".share .native")) { b.hidden = false; b.addEventListener("click", () => navigator.share({ title: b.dataset.title, url: b.dataset.url }).catch(() => {})); }
+      // ZIP finder (sample ballot story): the first three ZIP digits give the state (USPS prefixes),
+      // then the matching row of the server-rendered state table supplies the official lookup link.
+      const zf = document.querySelector("[data-zip-finder]");
+      if (zf) {
+        const AB = { AL: "Alabama", AK: "Alaska", AZ: "Arizona", AR: "Arkansas", CA: "California", CO: "Colorado", CT: "Connecticut", DE: "Delaware", DC: "District of Columbia", FL: "Florida", GA: "Georgia", HI: "Hawaii", ID: "Idaho", IL: "Illinois", IN: "Indiana", IA: "Iowa", KS: "Kansas", KY: "Kentucky", LA: "Louisiana", ME: "Maine", MD: "Maryland", MA: "Massachusetts", MI: "Michigan", MN: "Minnesota", MS: "Mississippi", MO: "Missouri", MT: "Montana", NE: "Nebraska", NV: "Nevada", NH: "New Hampshire", NJ: "New Jersey", NM: "New Mexico", NY: "New York", NC: "North Carolina", ND: "North Dakota", OH: "Ohio", OK: "Oklahoma", OR: "Oregon", PA: "Pennsylvania", RI: "Rhode Island", SC: "South Carolina", SD: "South Dakota", TN: "Tennessee", TX: "Texas", UT: "Utah", VT: "Vermont", VA: "Virginia", WA: "Washington", WV: "West Virginia", WI: "Wisconsin", WY: "Wyoming" };
+        const R = "005-005NY,010-027MA,028-029RI,030-038NH,039-049ME,050-054VT,055-055MA,056-059VT,060-069CT,070-089NJ,100-149NY,150-196PA,197-199DE,200-200DC,201-201VA,202-205DC,206-219MD,220-246VA,247-268WV,270-289NC,290-299SC,300-319GA,320-339FL,341-349FL,350-369AL,370-385TN,386-397MS,398-399GA,400-427KY,430-459OH,460-479IN,480-499MI,500-528IA,530-549WI,550-567MN,569-569DC,570-577SD,580-588ND,590-599MT,600-629IL,630-658MO,660-679KS,680-693NE,700-714LA,716-729AR,730-732OK,733-733TX,734-749OK,750-799TX,800-816CO,820-831WY,832-838ID,840-847UT,850-865AZ,870-884NM,885-885TX,889-898NV,900-961CA,967-968HI,970-979OR,980-994WA,995-999AK"
+          .split(",").map((s) => [+s.slice(0, 3), +s.slice(4, 7), AB[s.slice(7)]]);
+        const out = zf.querySelector(".zip-out"), input = zf.querySelector("input");
+        const rows = [...document.querySelectorAll(".prose-news tbody tr")];
+        zf.addEventListener("submit", (ev) => {
+          ev.preventDefault();
+          rows.forEach((r) => r.classList.remove("zip-hit"));
+          const z = input.value.trim();
+          if (!/^\d{5}$/.test(z)) { out.textContent = "Enter a five-digit ZIP code."; return; }
+          const p = +z.slice(0, 3), st = R.find(([a, b]) => p >= a && p <= b)?.[2];
+          const row = st && rows.find((r) => r.cells[0]?.textContent.trim() === st);
+          if (!row) { out.textContent = "We could not match ZIP " + z + " to a state. Pick your state in the table below."; return; }
+          out.replaceChildren(document.createTextNode("ZIP " + z + " is in " + st + ". Official lookup: "), ...[...row.cells[1].childNodes].map((n) => n.cloneNode(true)), document.createTextNode(" · Sample ballots: " + row.cells[2].textContent.trim() + ". "));
+          const jump = document.createElement("a"); jump.href = "#"; jump.textContent = "See the row"; jump.addEventListener("click", (e) => { e.preventDefault(); row.scrollIntoView({ block: "center" }); }); out.append(jump);
+          row.classList.add("zip-hit");
+        });
+      }
     })();
   </script>
 </NewsBase>
@@ -188,6 +210,13 @@ const related = pickRelated(
   /* Wide tables scroll inside their own box instead of being clipped on phones. */
   .prose-news :global(table){width:100%;border-collapse:collapse;margin:0 0 1.25rem;font-size:1rem;display:block;overflow-x:auto}
   .prose-news :global(th),.prose-news :global(td){border:1px solid var(--line-soft);padding:.5rem;text-align:left}
+  /* ZIP finder (raw HTML inside the sample ballot story). */
+  .prose-news :global(.zip-finder){display:flex;flex-wrap:wrap;align-items:flex-end;gap:.6rem;margin:0 0 1.25rem;padding:1rem;border:2px solid var(--focus);border-radius:12px;background:var(--wash)}
+  .prose-news :global(.zip-finder label){flex:1 0 100%;font-weight:700;font-size:1rem}
+  .prose-news :global(.zip-finder input){flex:1 1 9rem;min-height:48px;font:inherit;font-size:1.15rem;padding:.4rem .7rem;border:1px solid var(--line-soft);border-radius:8px;letter-spacing:.08em}
+  .prose-news :global(.zip-finder button){min-height:48px;padding:0 1.1rem;font:700 1rem/1 "Source Sans 3","Source Sans 3 Fallback",sans-serif;color:#fff;background:var(--focus);border:0;border-radius:8px;cursor:pointer}
+  .prose-news :global(.zip-out){flex:1 0 100%;margin:0;font-size:1rem;min-height:1.5em}
+  .prose-news :global(tr.zip-hit td){background:#fff7d6}
   .article :global(section h2),.article :global(aside h2){font-family:Sora,"Sora Fallback",sans-serif;color:var(--ink-strong)}
   .article :global(section){margin:2rem 0}
   .progress{position:fixed;left:0;right:0;top:0;height:4px;z-index:70;pointer-events:none}

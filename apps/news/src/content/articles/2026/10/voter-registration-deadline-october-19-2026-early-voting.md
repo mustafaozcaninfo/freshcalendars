@@ -107,5 +107,6 @@ Deadlines differ by state, and some states allow same-day registration while oth
 
 - Confirm you are registered, and that your address is current, on your state's election website.
 - If you plan to vote early, note your county's early voting locations and hours.
+- Look up your [sample ballot by ZIP code](/news/sample-ballot-by-zip-code-2026-texas-ballot/) and copy your choices onto paper before you go.
 - If you vote by mail, check your state's deadline for applying and for returning the ballot; they are not the same date.
 - Write Nov. 3 on your calendar, along with any early voting day you plan to use.

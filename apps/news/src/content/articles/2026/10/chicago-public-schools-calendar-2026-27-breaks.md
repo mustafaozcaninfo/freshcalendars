@@ -1,6 +1,6 @@
 ---
 title: "CPS Calendar 2026-27: No School Nov. 2-3, Winter Break Dec. 21-Jan. 1 and Spring Break March 22-26"
-seoTitle: "CPS Calendar 2026-27: Chicago School Breaks"
+seoTitle: "CPS Calendar 2026-27: Thanksgiving, Winter and Spring Break"
 description: "Chicago Public Schools 2026-27: no school Nov. 2-3, Thanksgiving Nov. 26-27, winter break Dec. 21-Jan. 1, spring break March 22-26, last day June 11."
 type: news
 publishedAt: "2026-10-19T10:45:00-04:00"

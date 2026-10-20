@@ -1,13 +1,13 @@
 ---
-title: "Why Thanksgiving Falls on Nov. 26 This Year: The 1941 Fourth-Thursday Rule and What Is Closed"
-seoTitle: "Why Thanksgiving Moves Every Year: The 1941 Rule Explained"
-description: "Thanksgiving 2026 falls on Thursday, Nov. 26, the fourth Thursday under a 1941 law. Black Friday is Nov. 27. Closures, parade time and future dates."
+title: "Thanksgiving 2026 Is Thursday, Nov. 26: Why the Date Moves, the 1941 Fourth-Thursday Rule and What Is Closed"
+seoTitle: "Thanksgiving 2026: Thursday, Nov. 26, and Why the Date Moves"
+description: "Thanksgiving 2026 is Thursday, Nov. 26, the fourth Thursday under a 1941 law. Black Friday is Nov. 27. What is closed, parade time and dates through 2030."
 type: explainer
 publishedAt: "2026-10-17T16:30:00-04:00"
-updatedAt: "2026-10-18T04:30:00-04:00"
+updatedAt: "2026-10-20T14:15:00-04:00"
 authors: [news-desk]
 category: holidays
-keywords: ["why is Thanksgiving on a different date", "fourth Thursday in November", "Thanksgiving history 1941", "what is closed on Thanksgiving 2026", "Thanksgiving dates 2027"]
+keywords: ["Thanksgiving 2026", "when is Thanksgiving 2026", "why is Thanksgiving on a different date", "what is closed on Thanksgiving 2026", "Thanksgiving dates 2027"]
 dateline: "New York"
 hero:
   src: ../../../../assets/news/why-thanksgiving-2026-is-november-26/why-thanksgiving-2026-is-november-26.jpg

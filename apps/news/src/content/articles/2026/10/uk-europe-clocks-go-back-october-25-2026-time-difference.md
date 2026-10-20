@@ -1,6 +1,6 @@
 ---
 title: "UK and Europe Turn Clocks Back Oct. 25, a Week Before the U.S.: What Happens to the Time Difference"
-seoTitle: "UK and Europe Clocks Go Back Oct. 25, 2026: Time Gap Guide"
+seoTitle: "UK Clocks Change October 2026: Back One Hour Sunday, Oct. 25"
 description: "Britain and the EU end summer time on Sunday, Oct. 25, 2026; the U.S. waits until Nov. 1. For one week London is 4 hours ahead of New York instead of 5."
 type: news
 publishedAt: "2026-10-18T04:20:00-04:00"

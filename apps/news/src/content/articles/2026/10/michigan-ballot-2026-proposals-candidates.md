@@ -117,6 +117,6 @@ You will be asked to show photo ID, such as a Michigan driver's license or state
 
 ## Plan your vote
 
-Four counties in the Upper Peninsula are on Central Time and close an hour later in Eastern Time; see [poll closing times by state](/news/what-time-do-polls-close-election-day-2026/). The Senate race is one of 35 nationwide; follow them with the tracker in our [2026 midterm guide](/news/2026-midterm-elections-whats-on-the-ballot-results-tracker/). For another Great Lakes battleground, see the [Pennsylvania ballot guide](/news/pennsylvania-2026-election-governor-mail-ballot-deadlines/).
+Four counties in the Upper Peninsula are on Central Time and close an hour later in Eastern Time; see [poll closing times by state](/news/what-time-do-polls-close-election-day-2026/). The Senate race is one of 35 nationwide; follow them with the tracker in our [2026 midterm guide](/news/2026-midterm-elections-whats-on-the-ballot-results-tracker/). For another Great Lakes battleground, see the [Pennsylvania ballot guide](/news/pennsylvania-2026-election-governor-mail-ballot-deadlines/). To find the official sample ballot lookup in any state from a ZIP code, use our [sample ballot finder](/news/sample-ballot-by-zip-code-2026-texas-ballot/).
 
 Print the checklist below, and add early voting to our [October](/october-calendars.html) and [November](/november-calendars.html) printable calendars or a [weekly planner](/printable-weekly-calendar.html).
