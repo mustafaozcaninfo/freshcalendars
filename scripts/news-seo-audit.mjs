@@ -81,6 +81,7 @@ check("01-ADS-LOAD", "Ads load at page load without blocking: no <script src> fo
     if (/<script[^>]+adsbygoogle\.js/.test(h)) return "render-path <script src> for adsbygoogle.js";
     if (!/<link rel="preconnect" href="https:\/\/pagead2\.googlesyndication\.com"/.test(h)) return "missing preconnect to pagead2.googlesyndication.com";
     if (!/\.ad-slot\{[^}]*min-height:\d/.test(h)) return "ad slots without a reserved min-height";
+    if (/ad-slot--top/.test(h) && /\.ad-slot:has\(ins\[data-ad-status="?unfilled"?\]\)\{display:none/.test(h)) return "top ad collapses when unfilled (shifts the H1: CLS)";
     return null;
   }));
 check("01-GA-LOAD", "Google Analytics on every page, loaded after window load: no gtag <script src> in the HTML (CWV)", () =>
@@ -161,7 +162,7 @@ check("02-EMDASH", "Em-dash overuse avoided (≤2 per article) (§02 B l.605)", 
 check("02-NOT-X-BUT-Y", "No 'not X, but Y' / 'it's not just X' constructions (§02 B l.606)", () =>
   each(articleUrls, (u) => { const m = words(u).match(/\b(it'?s|is|isn't) not (just|only|merely)\b[^.]{0,60}\b(but|it'?s)\b|\bnot just\b[^.]{0,60}\bbut\b/); return m ? `"${m[0].slice(0, 60)}"` : null; }));
 check("02-ENDINGS", "Paragraphs/sections do not end with formulaic wrap-ups (§02 B l.607)", () =>
-  each(articleUrls, (u) => (/\b(in summary|to sum up|all in all|in conclusion|ultimately,)\b/.test(words(u)) ? "formulaic wrap-up" : null)));
+  each(articleUrls, (u) => (/\b(in summary|to sum up|all in all|in conclusion)\b|(^|[.!?:]\s+)(ultimately|overall|in short|in the end),/.test(words(u)) ? "formulaic wrap-up" : null)));
 
 // ── 09 Google News technical checklist (Publisher Center answer 6204050, 9607104; Article structured data) ──
 check("09-NEWSARTICLE-TYPE", "Story JSON-LD uses NewsArticle (Google recognizes Article, NewsArticle, BlogPosting only)", () =>
@@ -367,6 +368,68 @@ check("03-LASTMOD", "Sitemap lastmod reflects real edits (updatedAt/publishedAt)
 });
 check("08-INLANG", "en-US declared in JSON-LD inLanguage (§08 l.2572)", () =>
   each(urls, (u, h) => (nodes(h).filter((n) => /Page$|Article$|WebSite/.test(n["@type"])).every((n) => n.inLanguage === "en-US") ? null : "inLanguage missing")));
+
+// ── Feeds, images and story-level rules added from the SEO map gap review ──────────────
+const xmlDecode = (t) => t.replace(/&apos;/g, "'").replace(/&quot;/g, '"').replace(/&lt;/g, "<").replace(/&gt;/g, ">").replace(/&amp;/g, "&");
+const ART = (u) => nodes(html[u]).find((n) => n["@type"] === "NewsArticle");
+const indexable = (u) => !/<meta name="robots" content="noindex/.test(html[u]);
+check("09-NEWS-SITEMAP", "Google News sitemap: publication name/language, ISO date and title per story; only indexable stories, headline = news:title, last 48h, ≤1,000 URLs (§08 l.2594, §03 l.758)", () => {
+  const f = path.join(dist, "news-sitemap.xml");
+  if (!existsSync(f)) return ["news-sitemap.xml missing"];
+  const xml = readFileSync(f, "utf8"), fails = [];
+  const items = [...xml.matchAll(/<url>([\s\S]*?)<\/url>/g)].map((m) => m[1]);
+  if (!items.length) return ["news-sitemap.xml has no stories"];
+  if (items.length > 1000) fails.push(`${items.length} URLs (max 1,000)`);
+  const dates = [];
+  for (const it of items) {
+    const loc = it.match(/<loc>([^<]+)</)?.[1] ?? "", u = loc.replace("https://freshcalendars.com", "");
+    const date = it.match(/<news:publication_date>([^<]+)</)?.[1] ?? "", title = xmlDecode(it.match(/<news:title>([^<]*)</)?.[1] ?? "");
+    if (!/<news:name>Fresh Calendars<\/news:name>/.test(it) || !/<news:language>en<\/news:language>/.test(it)) fails.push(`${u}: publication name/language`);
+    if (!/^\d{4}-\d\d-\d\dT\d\d:\d\d:\d\d([+-]\d\d:\d\d|Z)$/.test(date)) fails.push(`${u}: publication_date "${date}" not ISO 8601`);
+    if (!html[u] || !articleUrls.includes(u) || !indexable(u)) { fails.push(`${u}: not an indexable story`); continue; }
+    if (ART(u).headline !== title) fails.push(`${u}: news:title differs from headline`);
+    dates.push(Date.parse(date));
+  }
+  const newest = Math.max(...articleUrls.filter(indexable).map((u) => Date.parse(ART(u).datePublished)));
+  dates.forEach((d) => { if (newest - d > 48 * 3600e3) fails.push(`entry ${new Date(d).toISOString()} older than 48h before the newest story`); });
+  const listed = new Set(items.map((it) => it.match(/<loc>([^<]+)</)[1].replace("https://freshcalendars.com", "")));
+  articleUrls.filter((u) => indexable(u) && newest - Date.parse(ART(u).datePublished) < 24 * 3600e3 && !listed.has(u)).forEach((u) => fails.push(`${u}: story from the last 24h missing`));
+  return fails;
+});
+check("07-FEED", "RSS feed: en-US, absolute links and guids, every item is a built indexable story (§07 echo pipeline)", () => {
+  const f = path.join(dist, "feed.xml");
+  if (!existsSync(f)) return ["feed.xml missing"];
+  const xml = readFileSync(f, "utf8"), fails = [];
+  if (!/<language>en-US<\/language>/.test(xml)) fails.push("channel language is not en-US");
+  const items = [...xml.matchAll(/<item>([\s\S]*?)<\/item>/g)].map((m) => m[1]);
+  if (!items.length) fails.push("no items");
+  for (const it of items) {
+    const link = it.match(/<link>([^<]+)</)?.[1] ?? "", guid = it.match(/<guid[^>]*>([^<]+)</)?.[1] ?? "";
+    const u = link.replace("https://freshcalendars.com", "");
+    if (!/^https:\/\/freshcalendars\.com\/news\//.test(link) || !/^https?:\/\//.test(guid)) fails.push(`item link/guid not absolute: ${link}`);
+    else if (!articleUrls.includes(u) || !indexable(u)) fails.push(`${u}: feed item is not an indexable story`);
+  }
+  return fails;
+});
+check("09-IMAGE-SIZE", "Story image ≥1200px wide in og:image and schema, with 16:9, 4:3 and 1:1 crops (Article rich results, Discover)", () =>
+  each(articleUrls, (u, h) => {
+    const w = +(h.match(/<meta property="og:image:width" content="(\d+)"/)?.[1] ?? 0);
+    if (w < 1200) return `og:image:width ${w}`;
+    const im = ART(u).image, list = Array.isArray(im) ? im : [im];
+    return list.length >= 3 ? null : `${list.length} schema image(s), need the 3 crops`;
+  }));
+check("02-IMG-FILENAME", "Story image file names are descriptive (slug words, not IMG_1234) (§02 C l.633)", () =>
+  each(articleUrls, (u, h) => {
+    const base = (h.match(/<meta property="og:image" content="[^"]*\/([^/"]+)"/)?.[1] ?? "").split(".")[0].toLowerCase();
+    const slugWords = u.split("/").filter(Boolean).pop().split("-").filter((w) => w.length > 3);
+    return slugWords.filter((w) => base.includes(w)).length >= Math.min(2, slugWords.length) ? null : `og:image "${base}"`;
+  }));
+check("08-DATELINE", "Visible dateline and NewsArticle.dateline on every story (§08 l.2594)", () =>
+  each(articleUrls, (u, h) => (!/<p class="dateline"/.test(h) ? "no visible dateline" : ART(u).dateline ? null : "schema dateline missing")));
+check("08-NO-OPINION", "No first-person opinion in factual news prose (§08 l.2298, l.2372, l.2600)", () =>
+  each(articleUrls, (u, h) => { const m = plain(proseOf(h)).match(/\b(I think|I believe|we believe|in my opinion|in our opinion|honestly,|personally,|I'd say|we'd say|I feel)\b/i); return m ? `"${m[0]}"` : null; }));
+check("01-THIN", "No thin stories: at least 300 words of body text (§02 l.548, §08 token economy)", () =>
+  each(articleUrls, (u) => { const n = ART(u).wordCount ?? 0; return n >= 300 ? null : `${n} words`; }));
 
 warn("02-OXFORD", "Oxford comma use is not 100% uniform (§02 B l.610) — informational", () => {
   const all = articleUrls.map((u) => plain(proseOf(html[u]))).join(" ");

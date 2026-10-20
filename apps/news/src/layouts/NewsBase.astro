@@ -103,11 +103,12 @@ const fontPreload = [
   .news-wrap h1{font-family:Sora,"Sora Fallback",ui-sans-serif,system-ui,sans-serif;color:var(--ink-strong);font-size:clamp(1.9rem,5vw,2.75rem);line-height:1.15;margin:0 0 .75rem}
   .news-lede{font-family:"Source Sans 3","Source Sans 3 Fallback",ui-sans-serif,system-ui,sans-serif;font-size:1.15rem;color:var(--ink);margin:0}
   .news-main a:not(.btn){color:var(--focus)}
-  /* Ad units: labeled, height reserved before fill (no CLS), collapsed only if AdSense returns nothing. */
+  /* Ad units: labeled, height reserved before fill (no CLS), collapsed only if AdSense returns nothing.
+     The top unit never collapses: it sits above the H1, so collapsing it would shift the whole page. */
   .ad-slot{display:flex;flex-direction:column;align-items:center;justify-content:flex-start;width:100%;min-height:300px;margin:2rem auto;padding:.4rem 0 .6rem;border-top:1px solid var(--line-soft);border-bottom:1px solid var(--line-soft);contain:layout;clear:both}
   .ad-slot::before{content:"Advertisement";display:block;margin:0 0 .4rem;font:700 .68rem/1 "Source Sans 3","Source Sans 3 Fallback",sans-serif;letter-spacing:.1em;text-transform:uppercase;color:var(--ink)}
   .ad-slot ins.adsbygoogle{width:100%}
-  .ad-slot:has(ins[data-ad-status="unfilled"]){display:none}
+  .ad-slot:not(.ad-slot--top):has(ins[data-ad-status="unfilled"]){display:none}
   .ad-slot--top{margin:.5rem auto 1.5rem}
   .ad-slot--side{min-height:280px;margin:1.25rem 0 0;border-bottom:0}
   @media (min-width:768px){ .ad-slot--wide{min-height:280px} }
