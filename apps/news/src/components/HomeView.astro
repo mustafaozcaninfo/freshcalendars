@@ -37,12 +37,9 @@ const strip = printables.slice(0, 6);
 const sections = categories
   .map((c) => ({ c, items: all.filter((a) => a.data.category.id === c.id).slice(0, 3), total: all.filter((a) => a.data.category.id === c.id).length }))
   .filter((s) => s.items.length > 0);
-const counts = new Map(sections.map((s) => [s.c.id, s.total]));
 const monthDay = (iso: string) => new Date(`${iso}T12:00:00Z`).toLocaleDateString("en-US", { month: "short", day: "numeric", timeZone: "UTC" });
 const weekday = (iso: string) => new Date(`${iso}T12:00:00Z`).toLocaleDateString("en-US", { weekday: "short", timeZone: "UTC" });
 const inDays = (n: number) => (n === 0 ? "Today" : n === 1 ? "Tomorrow" : `In ${n} days`);
-// Search index: every published story (small; one entry per story).
-const index = all.map((a) => ({ t: a.data.title, d: a.data.description, k: a.data.keywords.join(" "), c: categoryNames.get(a.data.category.id) ?? "", u: articlePath(a.id) }));
 const jsonLd = listingGraph({
   path: page.path,
   name: heading,
@@ -55,25 +52,15 @@ const jsonLd = listingGraph({
 <NewsBase title={pagedTitle(heading, 1)} description={description} path={page.path} jsonLd={jsonLd}>
   <div class="home">
     <Breadcrumb items={[{ name: "Home", href: "/" }, { name: "News", href: "/news/" }]} />
-    <AdSlot unit={6} variant="top" />
     <header class="top">
       <div>
         <h1>{heading}</h1>
         <p class="news-lede">{intro}</p>
         <p class="desk">Reported by {authors.map((a, i) => <>{i > 0 && ", "}<a href={authorHref(a.id)}>{a.name}</a></>)} · <a href={PRINTABLES_PATH}>{printables.length} free printables</a></p>
       </div>
-      <form class="search" role="search" action="/news/" onsubmit="return false" data-index={JSON.stringify(index)}>
-        <label for="news-q">Search the news</label>
-        <input id="news-q" type="search" placeholder="Try “COLA”, “full moon” or “Ramadan”" autocomplete="off" aria-controls="news-results" />
-        <p class="count" id="news-count" aria-live="polite"></p>
-        <ul id="news-results" class="results" hidden></ul>
-      </form>
     </header>
 
-    <nav class="chips" aria-label="News categories">
-      {sections.map((s) => <a href={categoryHref(s.c.id)}>{s.c.data.name}<span>{counts.get(s.c.id)}</span></a>)}
-      <a class="pr" href={PRINTABLES_PATH}>Free printables<span>{printables.length}</span></a>
-    </nav>
+    <AdSlot unit={6} variant="top" />
 
     {lead && (
       <section class="lead-grid" aria-label="Top stories">
@@ -156,20 +143,6 @@ const jsonLd = listingGraph({
   </div>
   <script is:inline>
     (() => {
-      const q = document.getElementById("news-q"), out = document.getElementById("news-results"), count = document.getElementById("news-count");
-      const idx = JSON.parse(q.form.dataset.index);
-      const esc = (s) => s.replace(/[&<>"]/g, (c) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;" })[c]);
-      const run = () => {
-        const terms = q.value.toLowerCase().split(/\s+/).filter(Boolean);
-        if (!terms.length) { out.hidden = true; out.innerHTML = ""; count.textContent = ""; return; }
-        const hits = idx.filter((a) => { const h = (a.t + " " + a.d + " " + a.k + " " + a.c).toLowerCase(); return terms.every((t) => h.includes(t)); });
-        out.innerHTML = hits.slice(0, 8).map((a) => `<li><a href="${a.u}"><b>${esc(a.t)}</b><span>${esc(a.c)}</span></a></li>`).join("") || "<li class=none>No stories match. Try another word.</li>";
-        out.hidden = false;
-        count.textContent = hits.length === 1 ? "1 story found" : hits.length + " stories found";
-      };
-      q.addEventListener("input", run);
-      q.addEventListener("keydown", (e) => { if (e.key === "Escape") { q.value = ""; run(); } });
-      document.addEventListener("keydown", (e) => { if (e.key === "/" && document.activeElement !== q && !/input|textarea/i.test(document.activeElement.tagName)) { e.preventDefault(); q.focus(); } });
       // Cached copies: recompute "in N days" from today's date in New York.
       const today = new Intl.DateTimeFormat("en-CA", { timeZone: "America/New_York" }).format(new Date());
       for (const el of document.querySelectorAll(".upcoming [data-date]")) {
@@ -181,7 +154,6 @@ const jsonLd = listingGraph({
 </NewsBase>
 <style>
   .home{width:min(1120px,calc(100% - 2rem));margin:0 auto;padding:clamp(1.5rem,4vw,2.5rem) 0}
-  .home h1{font-family:Sora,"Sora Fallback",ui-sans-serif,system-ui,sans-serif;color:var(--ink-strong);font-size:clamp(1.9rem,5vw,2.6rem);line-height:1.15;margin:0 0 .6rem}
   .top{display:grid;gap:1.25rem;margin-bottom:1rem}
   .desk{margin:.6rem 0 0;font-size:.95rem;color:var(--ink)}
   .sec{font-family:Sora,"Sora Fallback",sans-serif;font-size:1.15rem;color:var(--ink-strong);margin:0 0 .75rem}
@@ -190,23 +162,7 @@ const jsonLd = listingGraph({
   .sec-head .sec{margin:0 0 .4rem}
   .sec-head > a{font-weight:700;font-size:.92rem;text-decoration:none;padding:.5rem 0}
 
-  .search{position:relative;align-self:end}
-  .search label{display:block;font-weight:700;color:var(--ink-strong);margin-bottom:.35rem}
-  .search input{width:100%;min-height:48px;padding:0 1rem;border:2px solid var(--line);border-radius:6px;font:inherit;font-size:1rem;color:var(--ink-strong);background:#fff}
-  .search input:focus{outline:3px solid var(--gold);outline-offset:1px;border-color:var(--focus)}
-  .count{margin:.3rem 0 0;font-size:.85rem;color:var(--ink);min-height:1.2em}
-  .results{position:absolute;z-index:20;left:0;right:0;top:calc(100% - .25rem);list-style:none;margin:0;padding:.35rem;background:#fff;border:1px solid var(--line);border-radius:6px;box-shadow:0 12px 30px rgba(0,0,0,.14);max-height:60vh;overflow:auto}
-  .results :global(a){display:block;padding:.6rem .7rem;border-radius:4px;text-decoration:none;color:var(--ink-strong)}
-  .results :global(a:hover),.results :global(a:focus-visible){background:#eef5fb}
-  .results :global(b){display:block;font-size:.95rem;line-height:1.3}
-  .results :global(span){font-size:.8rem;color:var(--ink)}
-  .results :global(.none){padding:.6rem .7rem;color:var(--ink)}
 
-  .chips{display:flex;flex-wrap:wrap;gap:.5rem;margin:0 0 1.75rem}
-  .chips a{display:inline-flex;align-items:center;gap:.45rem;min-height:44px;padding:0 .9rem;border:1px solid var(--line);border-radius:999px;color:var(--ink-strong);text-decoration:none;font-weight:700;font-size:.9rem;background:#fff}
-  .chips a span{display:inline-grid;place-items:center;min-width:1.5rem;height:1.5rem;padding:0 .35rem;border-radius:999px;background:var(--wash);font-size:.75rem;color:var(--ink-strong)}
-  .chips a:hover,.chips a:focus-visible{border-color:var(--focus);color:var(--focus)}
-  .chips a.pr{border-color:var(--gold);background:#fffaf0}
 
   .lead-grid{display:grid;gap:1.5rem;margin-bottom:2rem}
   .latest ol{list-style:none;margin:0;padding:0}
@@ -248,7 +204,6 @@ const jsonLd = listingGraph({
     .all ol{columns:2;column-gap:2.5rem}
   }
   @media (min-width:960px){
-    .top{grid-template-columns:1fr 380px;align-items:end;gap:2.5rem}
     .lead-grid{grid-template-columns:minmax(0,1fr) 340px;gap:2.5rem}
     .latest{border-left:1px solid var(--line-soft);padding-left:2rem}
     .strip ul{grid-template-columns:repeat(6,1fr)}

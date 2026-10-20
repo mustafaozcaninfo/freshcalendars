@@ -26,9 +26,9 @@ const jsonLd = listingGraph({
 <NewsBase title={`${title} | Fresh Calendars`} description={description} path={PRINTABLES_PATH} jsonLd={jsonLd}>
   <div class="hub">
     <Breadcrumb items={[{ name: "Home", href: "/" }, { name: "News", href: "/news/" }, { name: "Free printables" }]} />
-    <AdSlot unit={6} variant="top" />
     <h1>{title}</h1>
     <p class="news-lede">Every template from our stories in one place: {items.length} free PDFs and PNGs on US Letter paper, made by Fresh Calendars. No account, no email.</p>
+    <AdSlot unit={6} variant="top" />
 
     <div class="tools">
       <label class="q" for="pr-q"><span>Find a printable</span><input id="pr-q" type="search" placeholder="Try “moon”, “tracker” or “2027”" autocomplete="off" /></label>
@@ -94,7 +94,6 @@ const jsonLd = listingGraph({
 </NewsBase>
 <style>
   .hub{width:min(1120px,calc(100% - 2rem));margin:0 auto;padding:clamp(1.5rem,4vw,2.5rem) 0}
-  .hub h1{font-family:Sora,"Sora Fallback",ui-sans-serif,system-ui,sans-serif;color:var(--ink-strong);font-size:clamp(1.9rem,5vw,2.6rem);line-height:1.15;margin:0 0 .6rem}
   .hub .news-lede{max-width:46rem}
   .tools{position:sticky;top:66px;z-index:10;background:var(--paper);padding:1rem 0 .6rem;margin:1rem 0 1.25rem;border-bottom:1px solid var(--line-soft);display:grid;gap:.75rem}
   .q span{display:block;font-weight:700;color:var(--ink-strong);margin-bottom:.35rem}

@@ -1,0 +1,41 @@
+---
+/**
+ * End-of-story navigation: more stories from the same section (hub → spoke links that keep a
+ * category's pages connected) and the previous/next story by publication time.
+ */
+import { formatDateET, isoDateTime } from "../lib/seo";
+type Link = { href: string; title: string; publishedAt: Date };
+interface Props { section: { name: string; href: string }; more: Link[]; newer?: Link; older?: Link }
+const { section, more, newer, older } = Astro.props;
+---
+{more.length > 0 && (
+  <section class="more" aria-labelledby="more-title">
+    <div class="more-head"><h2 id="more-title">More in {section.name}</h2><a href={section.href}>All {section.name} stories →</a></div>
+    <ol>
+      {more.map((m) => <li><a href={m.href}>{m.title}</a><time datetime={isoDateTime(m.publishedAt)}>{formatDateET(m.publishedAt)}</time></li>)}
+    </ol>
+  </section>
+)}
+{(newer || older) && (
+  <nav class="pn" aria-label="Previous and next stories">
+    {older ? <a class="prev" href={older.href} rel="prev"><span>← Previous story</span><b>{older.title}</b></a> : <span></span>}
+    {newer ? <a class="next" href={newer.href} rel="next"><span>Next story →</span><b>{newer.title}</b></a> : <span></span>}
+  </nav>
+)}
+<style>
+  .more{margin:2.25rem 0 0}
+  .more-head{display:flex;flex-wrap:wrap;justify-content:space-between;align-items:baseline;gap:.25rem 1rem;border-bottom:3px solid var(--ink-strong);margin-bottom:.4rem}
+  .more-head h2{margin:0 0 .4rem;font-size:1.15rem}
+  .more-head a{font-weight:700;font-size:.92rem;text-decoration:none;padding:.4rem 0}
+  .more ol{list-style:none;margin:0;padding:0}
+  .more li{display:grid;gap:.15rem;padding:.7rem 0;border-bottom:1px solid var(--line-soft)}
+  .more li a{font-weight:700;line-height:1.35;color:var(--ink-strong)!important;text-decoration:none}
+  .more li a:hover,.more li a:focus-visible{text-decoration:underline}
+  .more time{font-size:.85rem;color:var(--ink)}
+  .pn{display:grid;grid-template-columns:1fr;gap:.75rem;margin:1.75rem 0 0}
+  .pn a{display:grid;gap:.25rem;padding:.9rem 1rem;border:1px solid var(--line);border-radius:10px;text-decoration:none;color:var(--ink-strong)!important;background:#fff}
+  .pn a:hover,.pn a:focus-visible{border-color:var(--focus)}
+  .pn span{font-size:.8rem;font-weight:700;letter-spacing:.04em;text-transform:uppercase;color:var(--focus)}
+  .pn b{font-family:Sora,"Sora Fallback",sans-serif;font-size:.98rem;line-height:1.3}
+  @media (min-width:640px){ .pn{grid-template-columns:1fr 1fr} .pn .next{text-align:right} }
+</style>

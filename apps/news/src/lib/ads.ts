@@ -25,7 +25,8 @@ export const AD_ORIGINS = {
 /**
  * Loader, appended to the existing nav inline script at the end of <body> (the page keeps ≤2
  * inline scripts and no external <script src>). It injects adsbygoogle.js right away, while the
- * page is still loading, and requests every visible unit at once. Units hidden by CSS (the sidebar
+ * page is still loading, and requests every visible unit at once. Unfilled units collapse only
+ * while off screen (no layout shift in view). Units hidden by CSS (the sidebar
  * on phones) are never requested. No ?client= on the script, so account-level Auto ads cannot
  * inject unplanned units.
  */
@@ -43,5 +44,12 @@ export const ADS_LOADER_JS = `
     ins.dataset.pushed='1';
     try{window.adsbygoogle.push({});}catch(e){}
   });
+  // An unfilled unit (not the top one) collapses only while it is off screen, so the story the
+  // reader is looking at never moves (scroll anchoring absorbs shifts above the viewport).
+  if(!('IntersectionObserver' in window)||!('MutationObserver' in window)) return;
+  var off=new IntersectionObserver(function(es){ es.forEach(function(e){ if(!e.isIntersecting){ e.target.classList.add('ad-off'); off.unobserve(e.target); } }); });
+  var mo=new MutationObserver(function(ms){ ms.forEach(function(m){ var ins=m.target, slot=ins.closest('.ad-slot');
+    if(slot&&!slot.classList.contains('ad-slot--top')&&ins.getAttribute('data-ad-status')==='unfilled') off.observe(slot); }); });
+  slots.forEach(function(ins){ mo.observe(ins,{attributes:true,attributeFilter:['data-ad-status']}); });
 })();
 `;

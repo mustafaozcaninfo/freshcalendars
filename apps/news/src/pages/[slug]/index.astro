@@ -16,6 +16,7 @@ import Sources from "../../components/Sources.astro";
 import Toc from "../../components/Toc.astro";
 import ArticleAside from "../../components/ArticleAside.astro";
 import ShareBar from "../../components/ShareBar.astro";
+import StoryNav from "../../components/StoryNav.astro";
 import { authorHref, getPublishedArticles, lastModified, type Article } from "../../lib/articles";
 import { heroImages } from "../../lib/images";
 import { SITE_ORIGIN, absNewsUrl } from "../../lib/site";
@@ -96,6 +97,15 @@ const related = pickRelated(
   alt: a.data.hero.alt,
   publishedAt: a.data.publishedAt,
 }));
+
+// End-of-story navigation: same-section stories not already in Related, and the stories
+// published just before and after this one.
+const linkOf = (a: Article) => ({ href: articlePath(a.id), title: a.data.title, publishedAt: a.data.publishedAt });
+const relatedHrefs = new Set(related.map((r) => r.href));
+const more = all.filter((a) => a.id !== article.id && a.data.category.id === category.id && !relatedHrefs.has(articlePath(a.id))).slice(0, 5).map(linkOf);
+const pos = all.findIndex((a) => a.id === article.id);
+const newer = pos > 0 ? linkOf(all[pos - 1]!) : undefined;
+const older = pos >= 0 && pos < all.length - 1 ? linkOf(all[pos + 1]!) : undefined;
 ---
 <NewsBase
   title={pageTitle(d)}
@@ -105,6 +115,7 @@ const related = pickRelated(
   robots={d.noindex ? "noindex, follow" : undefined}
   headTags={articleHeadTags(seo)}
   jsonLd={articleGraph(seo)}
+  section={category.id}
 >
   <div class="progress" aria-hidden="true"><span></span></div>
   <div class="article-layout">
@@ -115,9 +126,8 @@ const related = pickRelated(
       { name: category.data.name, href: categoryPath(category.id) },
       { name: d.title },
     ]} />
-    <AdSlot unit={6} variant="top" />
     <p class="kicker"><a href={categoryPath(category.id)}>{category.data.name}</a></p>
-    <h1>{d.title}</h1>
+    <h1 class={d.title.length > 80 ? "long" : undefined}>{d.title}</h1>
     <p class="news-lede">{d.description}</p>
     <ArticleMeta
       authors={authors.map((a) => ({ name: a.data.name, href: authorPath(a.id) }))}
@@ -127,6 +137,7 @@ const related = pickRelated(
       dateline={d.dateline}
     />
     <Hero src={d.hero.src} alt={d.hero.alt} title={d.hero.title ?? d.title} caption={d.hero.caption} credit={d.hero.credit} />
+    <AdSlot unit={6} variant="top" />
     <KeyPoints points={d.summary} />
     {d.downloads.length > 0 && <p class="jump"><a href="#downloads">{d.downloads.length} free printable{d.downloads.length === 1 ? "" : "s"} below ↓</a></p>}
     <Toc headings={headings} />
@@ -148,6 +159,7 @@ const related = pickRelated(
       <AuthorCard name={a.data.name} role={a.data.role} bio={a.data.bio} href={authorPath(a.id)} />
     ))}
     <RelatedGrid items={related} />
+    <StoryNav section={{ name: category.data.name, href: categoryPath(category.id) }} more={more} newer={newer} older={older} />
     <AdSlot unit={5} />
   </article>
   <ArticleAside headings={headings} downloads={d.downloads.length} url={absNewsUrl(articlePath(article.id))} title={d.title} />

@@ -55,10 +55,15 @@ check("01-ADS-CENTER", "One top ad under the breadcrumb, other ads stay out of t
     if (/<meta name="robots" content="noindex/.test(h) || /\/(about|editorial-policy|corrections-policy|masthead)\/$/.test(u)) return "ads on a policy or noindex page";
     if (ads.length > 6) return `${ads.length} ad units (max 6)`;
     if (ads.some((m) => !/aria-label="Advertisement"/.test(m[0]))) return "ad unit without the Advertisement label";
-    // One top unit is allowed directly under the breadcrumb; everything else follows the centerpiece rule.
+    // One top unit, after the headline block: below the H1 and lede on listings, below the hero
+    // image on stories, so the H1, lede, byline and hero stay unbroken; the rest follow the centerpiece rule.
     const tops = ads.filter((m) => /ad-slot--top/.test(m[0]));
     if (tops.length > 1) return `${tops.length} top ad units (max 1)`;
-    if (tops.length && !/<\/nav>\s*$/.test(main.slice(0, tops[0].index).replace(/<!--[\s\S]*?-->/g, ""))) return "top ad not directly under the breadcrumb";
+    if (tops.length) {
+      const before = main.slice(0, tops[0].index);
+      if (!/<\/h1>/.test(before)) return "top ad above the H1";
+      if (isArticle(h) && !/<\/figure>/.test(before)) return "top ad between the headline and the hero image";
+    }
     const rest = ads.filter((m) => !/ad-slot--top/.test(m[0]));
     if (!rest.length) return null;
     const first = rest[0].index;
@@ -88,6 +93,20 @@ check("01-GA-LOAD", "Google Analytics on every page, loaded after window load: n
   each(urls, (u, h) => {
     if (/<script[^>]+googletagmanager\.com\/gtag/.test(h)) return "render-path <script src> for gtag.js";
     return /gtag\('config','G-[A-Z0-9]+'\)|gtag\('config',id\)/.test(h) && /G-VT08H0GXHZ/.test(h) ? null : "GA4 snippet missing";
+  }));
+check("01-NEWSBAR", "Every page has the news bar: story search and crawlable links to every section (hub links on all pages)", () =>
+  each(urls, (u, h) => {
+    if (!/<form class="nb-search[^"]*"[^>]*data-news-search/.test(h)) return "no news search";
+    const nav = h.match(/<nav class="nb-sections[^"]*" aria-label="News sections"[\s\S]*?<\/nav>/)?.[0] ?? "";
+    const cats = urls.filter((x) => /^\/news\/category\/[a-z0-9-]+\/$/.test(x));
+    const missing = cats.filter((c) => !nav.includes(`href="${c}"`));
+    return missing.length ? `section links missing: ${missing.join(" ")}` : null;
+  }));
+check("01-H1-FIT", "Headlines use the full column: the calendar site's 14-16ch h1 cap is lifted on news pages; the breadcrumb shows the current page", () =>
+  each(urls, (u, h) => {
+    if (!/\.news-main h1,\.news-main h2,\.news-main h3\{max-width:none/.test(h)) return "h1 max-width cap not lifted";
+    if (/\.crumbs li:last-child\{display:none\}/.test(h)) return "breadcrumb hides the current page";
+    return null;
   }));
 check("01-HERO-IMG", "Primary image has alt, width, height; LCP image eager + high priority (§01 SOP)", () =>
   each(articleUrls, (u, h) => {
@@ -126,7 +145,7 @@ check("02-SSR-LINKS", "Navigation and content links are server-rendered <a href>
   each(urls, (u, h) => ((h.match(/<a [^>]*href="[^"#][^"]*"/g) ?? []).length >= 15 ? null : "too few server-rendered links")));
 check("02-NO-JS-CONTENT", "Content does not depend on client JS (≤2 inline scripts, no framework bundles) (§02 C)", () =>
   each(urls, (u, h) => {
-    const scripts = (h.match(/<script(?![^>]*ld\+json)[^>]*>/g) ?? []);
+    const scripts = (h.match(/<script(?![^>]*(ld\+json|speculationrules))[^>]*>/g) ?? []);
     const external = scripts.filter((s) => / src=/.test(s));
     return external.length || scripts.length > 2 ? `${scripts.length} scripts (${external.length} external)` : null;
   }));

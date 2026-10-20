@@ -1,0 +1,72 @@
+---
+/**
+ * News bar under the site header on every /news/ page: the section list (one crawlable hub link
+ * per category, plus Latest and Printables) and the story search. Search results are rendered by
+ * SEARCH_JS (src/lib/search-client.ts) from /news/search/index.json; without JS the form submits
+ * nowhere and the section links still work.
+ */
+import { categoryHref, getActiveCategories, getPublishedArticles } from "../lib/articles";
+import { PRINTABLES_PATH } from "../lib/printables";
+interface Props { section?: string }
+const { section } = Astro.props;
+const cats = await getActiveCategories(await getPublishedArticles());
+// Short labels keep the bar on one line on desktop; category pages keep the full names.
+const SHORT: Record<string, string> = { "school-calendars": "Schools", "retail-dates": "Retail" };
+const links = [
+  { id: "home", name: "Latest", href: "/news/" },
+  ...cats.map((c) => ({ id: c.id, name: SHORT[c.id] ?? c.data.name, href: categoryHref(c.id) })),
+  { id: "printables", name: "Printables", href: PRINTABLES_PATH },
+];
+---
+<div class="newsbar">
+  <div class="nb-in">
+    <form class="nb-search" role="search" action="/news/" onsubmit="return false" data-news-search>
+      <label class="nb-sr" for="nq">Search news and printables</label>
+      <svg class="nb-icon" viewBox="0 0 24 24" aria-hidden="true" width="20" height="20"><circle cx="10.5" cy="10.5" r="6.5" fill="none" stroke="currentColor" stroke-width="2.4"/><path d="M15.5 15.5 21 21" stroke="currentColor" stroke-width="2.4" stroke-linecap="round"/></svg>
+      <input id="nq" type="search" name="q" placeholder="Search news" autocomplete="off" spellcheck="false" enterkeyhint="search" role="combobox" aria-expanded="false" aria-controls="nq-list" aria-autocomplete="list" />
+      <kbd class="nb-kbd" aria-hidden="true">/</kbd>
+      <ul id="nq-list" role="listbox" aria-label="Search results" hidden></ul>
+      <p class="nq-status nb-sr" aria-live="polite"></p>
+    </form>
+    <nav class="nb-sections" aria-label="News sections">
+      <ul>
+        {links.map((l) => <li><a href={l.href} aria-current={l.id === section ? "page" : undefined}>{l.name}</a></li>)}
+      </ul>
+    </nav>
+  </div>
+</div>
+<style>
+  .newsbar{background:#fff;border-bottom:1px solid var(--line-soft)}
+  .nb-in{width:min(1120px,calc(100% - 2rem));margin:0 auto;display:grid;grid-template-columns:minmax(0,1fr);gap:.5rem;padding:.6rem 0 .1rem}
+  .nb-sr{position:absolute;width:1px;height:1px;overflow:hidden;clip:rect(0 0 0 0);white-space:nowrap}
+  .nb-search{position:relative;display:flex;align-items:center}
+  .nb-icon{position:absolute;left:.85rem;color:var(--ink);pointer-events:none}
+  .nb-search input{width:100%;min-height:46px;padding:0 2.6rem 0 2.6rem;border:2px solid var(--line);border-radius:999px;font:inherit;font-size:1rem;color:var(--ink-strong);background:var(--paper);-webkit-appearance:none;appearance:none}
+  .nb-search input::-webkit-search-cancel-button{display:none}
+  .nb-search input:focus{outline:3px solid var(--gold);outline-offset:1px;border-color:var(--focus);background:#fff}
+  .nb-kbd{position:absolute;right:.9rem;font:700 .78rem/1 "Source Sans 3","Source Sans 3 Fallback",sans-serif;color:var(--ink);border:1px solid var(--line);border-radius:5px;padding:.2rem .4rem;background:#fff}
+  .nb-search.is-open .nb-kbd,.nb-search input:focus ~ .nb-kbd{display:none}
+  .nb-search [role=listbox]{position:absolute;z-index:60;top:calc(100% + .4rem);left:0;right:0;margin:0;padding:.35rem;list-style:none;background:#fff;border:1px solid var(--line);border-radius:14px;box-shadow:0 18px 40px rgba(15,23,42,.18);max-height:min(70vh,560px);overflow:auto}
+  .nb-search :global([role=option] a){display:grid;color:var(--ink-strong)!important;gap:.15rem;padding:.6rem .75rem;border-radius:10px;text-decoration:none;color:var(--ink-strong)}
+  .nb-search :global([role=option] b){font-family:Sora,"Sora Fallback",sans-serif;font-size:.95rem;line-height:1.3;font-weight:700}
+  .nb-search :global([role=option] span){font-size:.82rem;color:var(--ink)}
+  .nb-search :global([role=option] mark){background:#fff3b0;color:inherit;border-radius:3px;padding:0 .05em}
+  .nb-search :global([role=option][aria-selected=true] a),.nb-search :global([role=option] a:hover){background:var(--wash)}
+  .nb-search :global(.nq-head){padding:.45rem .75rem .2rem;font-size:.72rem;font-weight:700;letter-spacing:.08em;text-transform:uppercase;color:var(--ink)}
+  .nb-search :global(.nq-none){padding:.75rem;font-size:.95rem;color:var(--ink)}
+  .nb-sections{overflow-x:auto;scrollbar-width:none;-webkit-overflow-scrolling:touch;mask-image:linear-gradient(90deg,#000 92%,transparent)}
+  .nb-sections::-webkit-scrollbar{display:none}
+  .nb-sections ul{display:flex;gap:.25rem;margin:0;padding:0;list-style:none;white-space:nowrap}
+  .nb-sections a{display:inline-flex;align-items:center;min-height:44px;padding:0 .7rem;border-bottom:3px solid transparent;font-weight:700;font-size:.95rem;color:var(--ink-strong)!important;text-decoration:none}
+  .nb-sections a:hover{color:var(--focus)!important}
+  .nb-sections a[aria-current=page]{border-bottom-color:var(--focus);color:var(--focus)!important}
+  @media (min-width:900px){
+    .nb-in{grid-template-columns:minmax(0,1fr) clamp(220px,21vw,270px);align-items:center;gap:1rem;padding:.4rem 0}
+    .nb-search{order:2}
+    .nb-sections{order:1;mask-image:none}
+    .nb-sections ul{flex-wrap:wrap;white-space:normal;row-gap:0}
+    .nb-sections a{padding:0 .55rem;font-size:.92rem;min-height:42px}
+    .nb-search input{min-height:42px}
+    .nb-search [role=listbox]{left:auto;width:min(560px,calc(100vw - 2rem))}
+  }
+</style>

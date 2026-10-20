@@ -11,6 +11,8 @@ import { NEWS_NAME, absNewsUrl } from "../lib/site";
 import { ROBOTS_INDEX, jsonLdString, type HeadTag } from "../lib/seo";
 import { ADS_ENABLED, ADS_LOADER_JS, AD_ORIGINS } from "../lib/ads";
 import { GA_ENABLED, GA_JS, GA_ORIGINS } from "../lib/analytics";
+import { SEARCH_JS } from "../lib/search-client";
+import NewsBar from "../components/NewsBar.astro";
 
 interface Props {
   title: string;
@@ -25,6 +27,8 @@ interface Props {
   jsonLd?: unknown;
   /** Policy and error pages carry no ads, so they skip the AdSense connection hints and loader. */
   ads?: boolean;
+  /** News bar section to mark as current (category id, "home" or "printables"); inferred from path. */
+  section?: string;
 }
 
 const {
@@ -36,8 +40,12 @@ const {
   headTags = [],
   jsonLd,
   ads = true,
+  section = path === "/news/" ? "home" : path.startsWith("/news/printables/") ? "printables" : /^\/news\/category\/([a-z0-9-]+)\//.exec(path)?.[1],
 } = Astro.props;
 const withAds = ADS_ENABLED && ads;
+// Chrome fetches a story's HTML when the pointer rests on its link (no prerender, so ads and
+// analytics never run for pages the reader does not open).
+const SPECULATION = JSON.stringify({ prefetch: [{ where: { and: [{ href_matches: "/news/*" }, { not: { href_matches: "/news/downloads/*" } }] }, eagerness: "moderate" }] });
 const canonical = absNewsUrl(path);
 const today = new Date();
 // News pages use two families only: Sora (headings) + Source Sans 3 (everything else,
@@ -79,16 +87,18 @@ const fontPreload = [
 {withAds && AD_ORIGINS.preconnect.map((href) => <link rel="preconnect" href={href} crossorigin />)}
 {withAds && AD_ORIGINS.dnsPrefetch.map((href) => <link rel="dns-prefetch" href={href} />)}
 <slot name="head" />
+<script type="speculationrules" is:inline set:html={SPECULATION} />
 <style is:inline set:html={FONTS_CSS + CSS} />
 </head>
 <body>
 <a class="skip-link" href="#main">Skip to content</a>
 <Fragment set:html={siteHeaderHtml(today, { news: true, current: "news" })} />
+<NewsBar section={section} />
 <main id="main" class="news-main">
 <slot />
 </main>
 <Fragment set:html={siteFooterHtml(today, { news: true })} />
-<script is:inline set:html={NAV_JS + (GA_ENABLED ? GA_JS : "") + (withAds ? ADS_LOADER_JS : "")} />
+<script is:inline set:html={NAV_JS + (GA_ENABLED ? GA_JS : "") + (withAds ? ADS_LOADER_JS : "") + SEARCH_JS} />
 </body>
 </html>
 
@@ -100,17 +110,24 @@ const fontPreload = [
   /* White on brand blue is 3.97:1 — passes WCAG AA only as large text (≥18.67px bold). */
   html.news .nav-toggle-label{font-size:1.1875rem}
   .news-wrap{width:min(720px,calc(100% - 2rem));margin:0 auto;padding:clamp(1.75rem,4vw,2.75rem) 0}
-  .news-wrap h1{font-family:Sora,"Sora Fallback",ui-sans-serif,system-ui,sans-serif;color:var(--ink-strong);font-size:clamp(1.9rem,5vw,2.75rem);line-height:1.15;margin:0 0 .75rem}
-  .news-lede{font-family:"Source Sans 3","Source Sans 3 Fallback",ui-sans-serif,system-ui,sans-serif;font-size:1.15rem;color:var(--ink);margin:0}
+  /* Headings: the calendar site's global h1 caps width at 14-16ch; news headlines use the column. */
+  .news-main h1,.news-main h2,.news-main h3{max-width:none;text-wrap:balance}
+  .news-main h1{font-family:Sora,"Sora Fallback",ui-sans-serif,system-ui,sans-serif;color:var(--ink-strong);font-size:clamp(1.75rem,1.15rem + 2.4vw,2.6rem);line-height:1.12;letter-spacing:-.015em;margin:0 0 .75rem}
+  .news-main h1.long{font-size:clamp(1.55rem,1.05rem + 2.1vw,2.3rem);line-height:1.15}
+  .news-main p,.news-main li{text-wrap:pretty}
+  .news-lede{font-family:"Source Sans 3","Source Sans 3 Fallback",ui-sans-serif,system-ui,sans-serif;font-size:clamp(1.06rem,1rem + .35vw,1.22rem);line-height:1.5;color:var(--ink);margin:0;max-width:68ch}
+  .news-main :focus-visible{outline:3px solid var(--gold);outline-offset:2px}
+  /* Below-the-fold chrome renders only when scrolled near (faster first paint on long stories). */
+  html.news .site-footer{content-visibility:auto;contain-intrinsic-size:auto 640px}
   .news-main a:not(.btn){color:var(--focus)}
-  /* Ad units: labeled, height reserved before fill (no CLS), collapsed only if AdSense returns nothing.
-     The top unit never collapses: it sits above the H1, so collapsing it would shift the whole page. */
+  /* Ad units: labeled, height reserved before fill (no CLS), collapsed (by the loader, off screen only) if AdSense returns nothing.
+     The top unit never collapses: it sits right under the headline, so collapsing it would shift the story. */
   .ad-slot{display:flex;flex-direction:column;align-items:center;justify-content:flex-start;width:100%;min-height:300px;margin:2rem auto;padding:.4rem 0 .6rem;border-top:1px solid var(--line-soft);border-bottom:1px solid var(--line-soft);contain:layout;clear:both}
   .ad-slot::before{content:"Advertisement";display:block;margin:0 0 .4rem;font:700 .68rem/1 "Source Sans 3","Source Sans 3 Fallback",sans-serif;letter-spacing:.1em;text-transform:uppercase;color:var(--ink)}
   .ad-slot ins.adsbygoogle{width:100%}
-  .ad-slot:not(.ad-slot--top):has(ins[data-ad-status="unfilled"]){display:none}
+  .ad-slot.ad-off{display:none}
   /* Top unit: label + padding + a 280px desktop ad, so the fill does not grow the box. */
-  .ad-slot--top{margin:.5rem auto 1.5rem}
+  .ad-slot--top{margin:1.25rem auto 1.5rem}
   .ad-slot--side{min-height:280px;margin:1.25rem 0 0;border-bottom:0}
   @media (min-width:768px){ .ad-slot--wide{min-height:280px} .ad-slot--top{min-height:316px} }
   @media print{ .ad-slot{display:none!important} }
