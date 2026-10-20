@@ -128,6 +128,8 @@ const fontPreload = [
   .ad-slot.ad-off{display:none}
   /* Top unit: label + padding + a 280px desktop ad, so the fill does not grow the box. */
   .ad-slot--top{margin:1.25rem auto 1.5rem}
+  /* Phones: AdSense opens a full-width responsive unit as a square (viewport width) plus the label. */
+  @media (max-width:767px){ .ad-slot--top{min-height:calc(100vw + 36px)} }
   .ad-slot--side{min-height:280px;margin:1.25rem 0 0;border-bottom:0}
   @media (min-width:768px){ .ad-slot--wide{min-height:280px} .ad-slot--top{min-height:316px} }
   @media print{ .ad-slot{display:none!important} }

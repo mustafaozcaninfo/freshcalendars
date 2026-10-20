@@ -44,6 +44,12 @@ export const ADS_LOADER_JS = `
     ins.dataset.pushed='1';
     try{window.adsbygoogle.push({});}catch(e){}
   });
+  // AdSense first sizes a responsive unit to its largest candidate, then shrinks it to the ad it
+  // serves; a slot keeps the tallest height it reached, so content below never jumps up.
+  if('ResizeObserver' in window){
+    var ro=new ResizeObserver(function(es){ es.forEach(function(e){ var s=e.target, h=s.offsetHeight; if(h>(+s.dataset.maxh||0)){ s.dataset.maxh=h; s.style.minHeight=h+'px'; } }); });
+    [].forEach.call(document.querySelectorAll('.ad-slot'),function(s){ if(s.offsetWidth) ro.observe(s); });
+  }
   // An unfilled unit (not the top one) collapses only while it is off screen, so the story the
   // reader is looking at never moves (scroll anchoring absorbs shifts above the viewport).
   if(!('IntersectionObserver' in window)||!('MutationObserver' in window)) return;
