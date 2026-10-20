@@ -12,7 +12,11 @@ import { LETTER, doc, fontFaces } from "./julian.js";
 import { renderPrintables } from "./printables.js";
 
 export type Row = { date: string; day: string; what: string; kind?: "off" | "break" | "remote" | "half" | "key" };
-export type Spec = { title: string; sub: string; accent: string; rows: Row[]; note: string; site: string; cols?: 1 | 2 };
+/** Color key under the table; defaults to the school-calendar key. "plain" is an uncolored row. */
+export type Legend = [NonNullable<Row["kind"]> | "plain", string][];
+export type Spec = { title: string; sub: string; accent: string; rows: Row[]; note: string; site: string; cols?: 1 | 2; legend?: Legend };
+const SWATCH: Record<Legend[number][0], string> = { off: "#fde8e8", break: "#fff1c2", remote: "#e0f2fe", half: "#f1f5f9", key: "#dcfce7", plain: "#ffffff;border:1px solid #cfd8e3" };
+const SCHOOL_LEGEND: Legend = [["off", "No school / holiday"], ["break", "Break"], ["remote", "Remote day"], ["half", "Early dismissal or no students"], ["key", "First or last day"]];
 
 export function list(fonts: string, s: Spec): string {
   const cls = (k?: Row["kind"]) => (k ? ` class="${k}"` : "");
@@ -40,7 +44,7 @@ export function list(fonts: string, s: Spec): string {
   const page = `<section class="page l">
     <header><h1>${s.title}</h1><p class="sub">${s.sub}</p></header>
     <div class="cols">${two ? body(s.rows.slice(0, half)) + body(s.rows.slice(half)) : body(s.rows)}</div>
-    <div class="legend"><span><i style="background:#fde8e8"></i>No school / holiday</span><span><i style="background:#fff1c2"></i>Break</span><span><i style="background:#e0f2fe"></i>Remote day</span><span><i style="background:#f1f5f9"></i>Early dismissal or no students</span><span><i style="background:#dcfce7"></i>First or last day</span></div>
+    ${(s.legend ?? SCHOOL_LEGEND).length ? `<div class="legend">${(s.legend ?? SCHOOL_LEGEND).map(([k, t]) => `<span><i style="background:${SWATCH[k]}"></i>${t}</span>`).join("")}</div>` : ""}
     <p class="note">${s.note}</p>
     <div class="foot">Free printable from Fresh Calendars · ${s.site}</div>
   </section>`;
@@ -119,5 +123,5 @@ export async function buildDateListDownloads(): Promise<void> {
   const fonts = await fontFaces();
   await renderPrintables("nyc-public-schools-2026-27", [{ slug: "nyc-public-schools-calendar-2026-27", size: LETTER, html: list(fonts, { title: "NYC Public Schools Calendar 2026–27", sub: "Key dates for 3-K to grade 12 · first day Thursday, Sept. 10, 2026 · last day Monday, June 28, 2027", accent: "#1e3a8a", rows: NYC, cols: 2, note: "Source: NYC Public Schools 2026–27 school year calendar. Parent-teacher conference dates can differ by school. Charter, private and parochial schools set their own calendars. On snow or emergency days NYCPS may hold school remotely.", site: "freshcalendars.com/news/nyc-public-schools-calendar-2026-27-breaks-holidays/" }) }]);
   await renderPrintables("chicago-public-schools-2026-27", [{ slug: "cps-calendar-2026-27", size: LETTER, html: list(fonts, { title: "Chicago Public Schools Calendar 2026–27", sub: "Elementary and high schools · first day Monday, Aug. 24, 2026 · last day Friday, June 11, 2027 · 176 student days", accent: "#0f4c81", rows: CPS, note: "Source: CPS 2026–2027 family calendar (last updated March 5, 2026). June 15–17 and 21–22 are emergency days, used only if student days fall below the state requirement.", site: "freshcalendars.com/news/chicago-public-schools-calendar-2026-27-breaks/" }) }]);
-  await renderPrintables("uk-bank-holidays-2027", [{ slug: "uk-bank-holidays-2027", size: LETTER, html: list(fonts, { title: "UK Bank Holidays 2027", sub: "England and Wales: 8 · Scotland: 9 · Northern Ireland: 10 · Christmas and Boxing Day move to Monday 27 and Tuesday 28 December", accent: "#7f1d1d", rows: UK, note: "Source: GOV.UK bank holidays. Substitute days apply when a bank holiday falls on a weekend. In 2026, Boxing Day (Saturday 26 December) is observed on Monday 28 December.", site: "freshcalendars.com/news/uk-bank-holidays-2027-dates-england-scotland-northern-ireland/" }) }]);
+  await renderPrintables("uk-bank-holidays-2027", [{ slug: "uk-bank-holidays-2027", size: LETTER, html: list(fonts, { title: "UK Bank Holidays 2027", sub: "England and Wales: 8 · Scotland: 9 · Northern Ireland: 10 · Christmas and Boxing Day move to Monday 27 and Tuesday 28 December", accent: "#7f1d1d", rows: UK, note: "Source: GOV.UK bank holidays. Substitute days apply when a bank holiday falls on a weekend. In 2026, Boxing Day (Saturday 26 December) is observed on Monday 28 December.", legend: [["off", "Bank holiday"], ["break", "Substitute day"]], site: "freshcalendars.com/news/uk-bank-holidays-2027-dates-england-scotland-northern-ireland/" }) }]);
 }

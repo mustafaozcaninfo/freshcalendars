@@ -309,6 +309,8 @@ check("08-ABBREV", "Abbreviations defined on first use in article prose (§08 l.
       "MEDICARE",
       // Spreadsheet function names.
       "WEEKNUM", "ISOWEEKNUM", "NYC", "USPS",
+      // IRS form suffixes (Form 1099-NEC, 1099-MISC).
+      "NEC", "MISC",
       // Postal codes, as familiar as ID.
       "ZIP"]);
     const undefined_ = [];
