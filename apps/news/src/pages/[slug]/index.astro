@@ -222,6 +222,8 @@ const older = pos >= 0 && pos < all.length - 1 ? linkOf(all[pos + 1]!) : undefin
   /* Wide tables scroll inside their own box instead of being clipped on phones. */
   .prose-news :global(table){width:100%;border-collapse:collapse;margin:0 0 1.25rem;font-size:1rem;display:block;overflow-x:auto}
   .prose-news :global(th),.prose-news :global(td){border:1px solid var(--line-soft);padding:.5rem;text-align:left}
+  /* Freshness note at the top of a running list (raw HTML in the story). */
+  .prose-news :global(.callout){margin:0 0 1.25rem;padding:.85rem 1rem;border:2px solid var(--gold);border-left-width:6px;border-radius:10px;background:#fffbea;font-size:1rem;line-height:1.5}
   /* ZIP finder (raw HTML inside the sample ballot story). */
   .prose-news :global(.zip-finder){display:flex;flex-wrap:wrap;align-items:flex-end;gap:.6rem;margin:0 0 1.25rem;padding:1rem;border:2px solid var(--focus);border-radius:12px;background:var(--wash)}
   .prose-news :global(.zip-finder label){flex:1 0 100%;font-weight:700;font-size:1rem}

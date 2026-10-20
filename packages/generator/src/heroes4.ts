@@ -62,6 +62,23 @@ function gta6(fonts: string): string {
     <div class="card" style="left:64px;top:390px;width:460px"><span>Pre-load opens Thursday, Nov. 12</span><b>Launch Thursday, Nov. 19</b><span>PlayStation 5 and Xbox Series X<span style="font-family:Arial,sans-serif">|</span>S</span></div>`);
 }
 
+/** Veterans Day free meals: a plate, a coffee cup and a Nov. 11 calendar card; no brand logos. */
+function vetsMeals(fonts: string): string {
+  const stripes = Array.from({ length: 7 }, (_, i) => `<rect x="0" y="${560 + i * 18}" width="${W}" height="9" fill="${i % 2 ? "#ffffff" : "#b91c1c"}" opacity=".55"/>`).join("");
+  const svg = `<svg width="${W}" height="${H}" style="position:absolute;inset:0"><defs><linearGradient id="vb" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0b2a5b"/><stop offset="1" stop-color="#132f6b"/></linearGradient><filter id="sh"><feDropShadow dx="0" dy="18" stdDeviation="18" flood-opacity=".35"/></filter></defs>
+    <rect width="${W}" height="${H}" fill="url(#vb)"/>${stars(71, 46)}${stripes}
+    <g transform="translate(860,380)" filter="url(#sh)"><ellipse rx="210" ry="120" fill="#f8fafc"/><ellipse rx="160" ry="88" fill="#e2e8f0"/>
+      <path d="M-95 -10 q40 -55 95 -35 q55 -25 95 35 q-30 40 -95 30 q-65 10 -95 -30z" fill="#b45309"/><path d="M-70 -18 q35 -30 70 -18" stroke="#fbbf24" stroke-width="6" fill="none"/>
+      <ellipse cx="60" cy="25" rx="44" ry="16" fill="#16a34a"/><ellipse cx="-55" cy="28" rx="38" ry="14" fill="#facc15"/></g>
+    <g transform="translate(1090,250)" filter="url(#sh)"><rect x="-48" y="-70" width="96" height="120" rx="14" fill="#fff"/><path d="M48 -40 q36 0 36 30 q0 30 -36 30" stroke="#fff" stroke-width="14" fill="none"/><rect x="-48" y="-70" width="96" height="26" rx="10" fill="#b91c1c"/><path d="M-20 -95 q10 -16 0 -30 M10 -95 q10 -16 0 -30" stroke="#cbd5e1" stroke-width="5" fill="none" stroke-linecap="round"/></g>
+    <g transform="translate(650,110) rotate(-5)" filter="url(#sh)"><rect width="210" height="220" rx="16" fill="#fff"/><rect width="210" height="58" rx="16" fill="#b91c1c"/><rect y="42" width="210" height="16" fill="#b91c1c"/>
+      <text x="105" y="40" font-family="Sora" font-size="22" font-weight="800" fill="#fff" text-anchor="middle">NOVEMBER</text><text x="105" y="160" font-family="Sora" font-size="100" font-weight="800" fill="#0b2a5b" text-anchor="middle">11</text><text x="105" y="200" font-family="Sora" font-size="20" font-weight="800" fill="#b91c1c" text-anchor="middle">WEDNESDAY</text></g></svg>`;
+  return frame(fonts, "#0b2a5b", `${svg}
+    <div class="k" style="left:64px;top:84px;color:#fde68a">Veterans Day · Nov. 11, 2026</div>
+    <div class="t" style="left:64px;top:118px;font-size:64px;width:560px">Free meals and discounts</div>
+    <div class="card" style="left:64px;top:390px;width:470px"><span>Bring proof of service</span><b>Printable deal sheet</b><span>Dine-in and ID rules for every offer</span></div>`);
+}
+
 function polls(fonts: string): string {
   // One instant on four clocks: 8 p.m. ET is 7 p.m. CT, 6 p.m. MT and 5 p.m. PT.
   const zones = [["ET", "8:00", "#fde68a"], ["CT", "7:00", "#fdba74"], ["MT", "6:00", "#fca5a5"], ["PT", "5:00", "#c4b5fd"]];
@@ -124,6 +141,7 @@ export const HEROES4: [string, (f: string) => string][] = [
   ["georgia-2026-ballot-amendments-advance-voting", (f) => stateHero(f, { state: "Georgia", bg: "#9f1239", bg2: "#4c0519", accent: "#9f1239", kicker: "Georgia · Nov. 3, 2026", title: "Senate, governor and 3 amendments", cardTop: "Advance voting", cardBig: "Oct. 13-30", cardBottom: "Runoff, if needed: Dec. 1", lines: ["U.S. SENATE", "GOVERNOR", "SECRETARY OF STATE"], measure: "AMENDMENT", seed: 47 })],
   ["arizona-propositions-2026-ballot-explained", (f) => stateHero(f, { state: "Arizona", bg: "#b45309", bg2: "#7c2d12", accent: "#b45309", kicker: "Arizona · Nov. 3, 2026", title: "8 propositions on the ballot", cardTop: "Early ballots must arrive by", cardBig: "7 p.m. Nov. 3", cardBottom: "Postmarks do not count", lines: ["GOVERNOR / LT. GOV.", "ATTORNEY GENERAL", "CORPORATION COMM."], measure: "PROPOSITION 141", seed: 53 })],
   ["what-time-do-polls-close-election-day-2026", polls],
+  ["veterans-day-free-meals-discounts", vetsMeals],
   ["gta-6-october-22-2026-what-is-confirmed-release-countdown", gta6],
   ["mail-ballot-deadlines-2026-by-state", mail],
   ["is-election-day-a-holiday-2026-whats-open", holiday],
