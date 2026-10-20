@@ -2,6 +2,7 @@ import { mkdir, readdir, rename, rm } from "node:fs/promises";
 import path from "node:path";
 import { fileURLToPath } from "node:url";
 import { defineConfig } from "astro/config";
+import { rehypeMidArticleAd } from "./src/lib/ad-units.mjs";
 
 /** Astro leaves content-layer/server chunks in an outDir outside the project; none of it is public.
  *  Also moves latest.json (calendar-site data) to dist/news-data/. */
@@ -41,6 +42,7 @@ export default defineConfig({
     assets: "_astro",
   },
   integrations: [cleanBuildLeftovers],
+  markdown: { rehypePlugins: [rehypeMidArticleAd] },
   devToolbar: { enabled: false },
   vite: {
     server: { port: 4322 },

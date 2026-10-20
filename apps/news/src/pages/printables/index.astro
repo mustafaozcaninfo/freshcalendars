@@ -2,6 +2,7 @@
 /** Free printables hub: every PDF/PNG template from News stories, filterable by topic and text. */
 import { Image } from "astro:assets";
 import NewsBase from "../../layouts/NewsBase.astro";
+import AdSlot from "../../components/AdSlot.astro";
 import Breadcrumb from "../../components/Breadcrumb.astro";
 import { getActiveCategories, getCategoryNames, getPublishedArticles } from "../../lib/articles";
 import { allPrintables, PRINTABLES_PATH } from "../../lib/printables";
@@ -37,7 +38,9 @@ const jsonLd = listingGraph({
       <p class="count" id="pr-count" aria-live="polite">{items.length} printables</p>
     </div>
 
-    {articles.map((a) => (
+    {articles.map((a, n) => (
+      <>
+      {(n === 3 || n === 8) && <AdSlot unit={n === 3 ? 3 : 2} />}
       <section class="story" data-topic={a.data.category.id} aria-labelledby={`h-${a.id}`}>
         <div class="story-head">
           <p class="cat">{names.get(a.data.category.id)}</p>
@@ -60,8 +63,10 @@ const jsonLd = listingGraph({
           ))}
         </ul>
       </section>
+      </>
     ))}
     <p class="none" id="pr-none" hidden>No printables match. Clear the search or pick another topic.</p>
+    <AdSlot unit={5} />
     <p class="terms">Free for personal, classroom and office use. See our <a href="/page/terms-of-use/">terms of use</a> for sharing and reuse.</p>
   </div>
   <script is:inline>

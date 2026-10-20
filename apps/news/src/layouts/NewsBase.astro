@@ -9,6 +9,7 @@ import {
 } from "@freshcalendars/site-chrome";
 import { NEWS_NAME, absNewsUrl } from "../lib/site";
 import { ROBOTS_INDEX, jsonLdString, type HeadTag } from "../lib/seo";
+import { ADS_ENABLED, ADS_LOADER_JS, AD_ORIGINS } from "../lib/ads";
 
 interface Props {
   title: string;
@@ -21,6 +22,8 @@ interface Props {
   headTags?: HeadTag[];
   /** One JSON-LD document (usually an @graph). */
   jsonLd?: unknown;
+  /** Policy and error pages carry no ads, so they skip the AdSense connection hints and loader. */
+  ads?: boolean;
 }
 
 const {
@@ -31,7 +34,9 @@ const {
   ogType = "website",
   headTags = [],
   jsonLd,
+  ads = true,
 } = Astro.props;
+const withAds = ADS_ENABLED && ads;
 const canonical = absNewsUrl(path);
 const today = new Date();
 // News pages use two families only: Sora (headings) + Source Sans 3 (everything else,
@@ -69,6 +74,8 @@ const fontPreload = [
 {jsonLd !== undefined && <script type="application/ld+json" is:inline set:html={jsonLdString(jsonLd)} />}
 {fontPreload.map((href) => <link rel="preload" as="font" type="font/woff2" href={href} crossorigin />)}
 <Fragment set:html={brandHeadLinks()} />
+{withAds && AD_ORIGINS.preconnect.map((href) => <link rel="preconnect" href={href} crossorigin />)}
+{withAds && AD_ORIGINS.dnsPrefetch.map((href) => <link rel="dns-prefetch" href={href} />)}
 <slot name="head" />
 <style is:inline set:html={FONTS_CSS + CSS} />
 </head>
@@ -79,7 +86,7 @@ const fontPreload = [
 <slot />
 </main>
 <Fragment set:html={siteFooterHtml(today, { news: true })} />
-<script is:inline set:html={NAV_JS} />
+<script is:inline set:html={withAds ? NAV_JS + ADS_LOADER_JS : NAV_JS} />
 </body>
 </html>
 
@@ -94,4 +101,12 @@ const fontPreload = [
   .news-wrap h1{font-family:Sora,"Sora Fallback",ui-sans-serif,system-ui,sans-serif;color:var(--ink-strong);font-size:clamp(1.9rem,5vw,2.75rem);line-height:1.15;margin:0 0 .75rem}
   .news-lede{font-family:"Source Sans 3","Source Sans 3 Fallback",ui-sans-serif,system-ui,sans-serif;font-size:1.15rem;color:var(--ink);margin:0}
   .news-main a:not(.btn){color:var(--focus)}
+  /* Ad units: labeled, height reserved before fill (no CLS), collapsed only if AdSense returns nothing. */
+  .ad-slot{display:flex;flex-direction:column;align-items:center;justify-content:flex-start;width:100%;min-height:300px;margin:2rem auto;padding:.4rem 0 .6rem;border-top:1px solid var(--line-soft);border-bottom:1px solid var(--line-soft);contain:layout;clear:both}
+  .ad-slot::before{content:"Advertisement";display:block;margin:0 0 .4rem;font:700 .68rem/1 "Source Sans 3","Source Sans 3 Fallback",sans-serif;letter-spacing:.1em;text-transform:uppercase;color:var(--ink)}
+  .ad-slot ins.adsbygoogle{width:100%}
+  .ad-slot:has(ins[data-ad-status="unfilled"]){display:none}
+  .ad-slot--side{min-height:280px;margin:1.25rem 0 0;border-bottom:0}
+  @media (min-width:768px){ .ad-slot--wide{min-height:280px} }
+  @media print{ .ad-slot{display:none!important} }
 </style>

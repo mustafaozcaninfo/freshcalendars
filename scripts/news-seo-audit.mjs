@@ -45,8 +45,38 @@ const each = (list, pred) => list.flatMap((u) => { const r = pred(u, html[u]); r
 // ── 01 Visual semantics / layout ───────────────────────────────────────────
 check("01-H1", "Exactly one H1 per page (§01 checklist, §02 C)", () =>
   each(urls, (u, h) => { const n = (h.match(/<h1[\s>]/g) ?? []).length; return n === 1 ? null : `${n} H1`; }));
-check("01-ADS-CENTER", "No ads inside the main content / above the fold (§01 l.214, l.314)", () =>
-  each(urls, (u, h) => (/adsbygoogle|class="[^"]*ad-unit/.test(h.match(/<main id="main"[\s\S]*?<\/main>/)?.[0] ?? "") ? "ad markup inside <main>" : null)));
+check("01-ADS-CENTER", "Ads stay out of the centerpiece and above-the-fold area; labeled, space-reserved, ≤5 per page, none on policy pages (§01 l.214, l.314)", () =>
+  each(urls, (u, h) => {
+    const main = h.match(/<main id="main"[\s\S]*?<\/main>/)?.[0] ?? "";
+    const ads = [...main.matchAll(/<aside class="ad-slot[^"]*"[^>]*>/g)];
+    const stray = (main.match(/<ins class="adsbygoogle/g) ?? []).length - ads.length;
+    if (stray) return `${stray} ad unit(s) outside an .ad-slot wrapper`;
+    if (!ads.length) return null;
+    if (/<meta name="robots" content="noindex/.test(h) || /\/(about|editorial-policy|corrections-policy|masthead)\/$/.test(u)) return "ads on a policy or noindex page";
+    if (ads.length > 5) return `${ads.length} ad units (max 5)`;
+    if (ads.some((m) => !/aria-label="Advertisement"/.test(m[0]))) return "ad unit without the Advertisement label";
+    const first = ads[0].index;
+    if (isArticle(h)) {
+      // Centerpiece: H1, lede, hero, key points and the first two prose sections stay unbroken.
+      const prose = main.indexOf('<div class="prose-news');
+      if (prose < 0 || first < prose) return "ad before the story body";
+      const h2s = (main.slice(prose, first).match(/<h2[\s>]/g) ?? []).length;
+      if (first < main.indexOf("</div>", prose) && h2s < 2) return `in-article ad after only ${h2s} section(s)`;
+    } else {
+      // Listings: the H1, lede and the first content block come before any ad.
+      const firstBlock = main.search(/<\/section>|<\/article>/);
+      if (firstBlock < 0 || first < firstBlock) return "ad above the first content block";
+    }
+    return null;
+  }));
+check("01-ADS-LOAD", "Ads load late without blocking: no <script src> for AdSense, preconnect hint, reserved min-height (§01 SOP, CWV)", () =>
+  each(urls, (u, h) => {
+    if (!/class="ad-slot/.test(h)) return /googlesyndication/.test(h) ? "AdSense hints on a page without ads" : null;
+    if (/<script[^>]+adsbygoogle\.js/.test(h)) return "render-path <script src> for adsbygoogle.js";
+    if (!/<link rel="preconnect" href="https:\/\/pagead2\.googlesyndication\.com"/.test(h)) return "missing preconnect to pagead2.googlesyndication.com";
+    if (!/\.ad-slot\{[^}]*min-height:\d/.test(h)) return "ad slots without a reserved min-height";
+    return null;
+  }));
 check("01-HERO-IMG", "Primary image has alt, width, height; LCP image eager + high priority (§01 SOP)", () =>
   each(articleUrls, (u, h) => {
     const pic = h.match(/<picture[\s\S]*?<\/picture>/)?.[0];

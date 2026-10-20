@@ -300,7 +300,9 @@ Her makale ≥2 ana-site linki (when-is / tatil hub / ay sayfası) — haber = d
 - Kontrast: mevcut tokenlar (`--ink #37474f` beyazda 9.9:1, `--accent #007bff` beyazda 3.98:1 → **gövde linkleri için `--focus #004a7f` veya altı çizili koyu mavi kullan**, aksi halde a11y < 100).
 - `lang="en"`, skip-link, landmark’lar, tap target ≥44 px, `<time datetime>`.
 
-### 8.3 Reklam ile 100 çelişkisi — **karar: C (ilk 3 ay reklamsız)**
+### 8.3 Reklam ile 100 çelişkisi — **karar: C (ilk 3 ay reklamsız)** → **2026-10-20 güncelleme: reklamlar açıldı (sahip kararı)**
+> Uygulanan: beş Fresh_News birimi (`apps/news/src/lib/ad-units.mjs`). Script HTML’de yok; pencere `load` + idle sonrası IntersectionObserver, ilk birim görünüme 600px yaklaşınca `adsbygoogle.js` enjekte edilir (A’ya yakın: mobilde ilk ekranda hiç istek yok). `pagead2` preconnect + 2 dns-prefetch. Slotlar etiketli (“Advertisement”, CSS ile), min-height rezerveli, dolmazsa kapanır. Merkez parça (H1, lede, hero, key points, ilk iki bölüm) reklamsız; politika/404/yazar sayfaları reklamsız. Denetim: `01-ADS-CENTER`, `01-ADS-LOAD`. Kapatma: `NEWS_ADS=0`.
+
 AdSense yüklendiğinde Best Practices üçüncü-taraf çerez/konsol uyarıları nedeniyle düşüyor (INFRA-STATUS: ana sitede BP ~75), TBT de artabiliyor. Seçenekler:
 - **A (önerilen):** News’te reklam scripti **ilk kullanıcı etkileşiminde** (scroll/pointerdown/keydown) yüklenir. Lab Lighthouse 100/100/100/100; gerçek kullanıcıda reklam gösterimi neredeyse aynı (okuyucu zaten kaydırır). Slotlar min-height’lı rezerve, CLS 0.
 - B: Ana sitedeki idle-loader aynen → Performance ~95–99, BP ~75.

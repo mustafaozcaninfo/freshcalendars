@@ -2,6 +2,7 @@
 /** Wide-screen sidebar: sticky contents list with the current section highlighted, printables and share. */
 import type { MarkdownHeading } from "astro";
 import ShareBar from "./ShareBar.astro";
+import AdSlot from "./AdSlot.astro";
 import { PRINTABLES_PATH } from "../lib/printables";
 interface Props { headings: MarkdownHeading[]; downloads: number; url: string; title: string }
 const { headings, downloads, url, title } = Astro.props;
@@ -20,6 +21,7 @@ const items = headings.filter((h) => h.depth === 2);
     )}
     <ShareBar url={url} title={title} compact />
     <a class="all-pr" href={PRINTABLES_PATH}>Browse all printables →</a>
+    <AdSlot unit={3} variant="side" />
   </div>
 </aside>
 <style>

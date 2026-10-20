@@ -1,11 +1,15 @@
 ---
 /**
- * Ads are off for the first three months (NEWS-ROADMAP §8.3 decision C).
- * Renders nothing unless NEWS_ADS=1 at build time.
+ * One Fresh_News AdSense unit. The "Advertisement" tag is CSS-generated so it never enters the
+ * page text; the reserved min-height keeps the late fill from shifting content (CLS).
+ * See src/lib/ads.ts for the placement rules and the loader.
  */
-import { ADS, adUnit } from "@freshcalendars/site-chrome";
-interface Props { slot?: keyof typeof ADS; label: string }
-const { slot = "inArticle", label } = Astro.props;
-const enabled = process.env.NEWS_ADS === "1";
+import { ADSENSE_CLIENT, ADS_ENABLED, NEWS_AD_UNITS, type NewsAdUnit } from "../lib/ads";
+interface Props { unit: NewsAdUnit; variant?: "wide" | "side" }
+const { unit, variant = "wide" } = Astro.props;
 ---
-{enabled && <Fragment set:html={adUnit(ADS[slot], label)} />}
+{ADS_ENABLED && (
+  <aside class={`ad-slot ad-slot--${variant}`} aria-label="Advertisement">
+    <ins class="adsbygoogle" style="display:block" data-ad-client={ADSENSE_CLIENT} data-ad-slot={NEWS_AD_UNITS[unit]} data-ad-format="auto" data-full-width-responsive="true"></ins>
+  </aside>
+)}

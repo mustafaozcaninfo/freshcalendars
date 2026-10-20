@@ -3,6 +3,7 @@ import NewsBase from "../layouts/NewsBase.astro";
 import ArticleCard from "./ArticleCard.astro";
 import Breadcrumb from "./Breadcrumb.astro";
 import Pagination from "./Pagination.astro";
+import AdSlot from "./AdSlot.astro";
 import type { Article } from "../lib/articles";
 import { categoryHref } from "../lib/articles";
 import { pagedTitle, type Page } from "../lib/listing";
@@ -55,10 +56,11 @@ const jsonLd = listingGraph({
     {featured && <ArticleCard article={featured} categoryName={categoryNames.get(featured.data.category.id) ?? ""} featured />}
     {list.length > 0 && (
       <div class="list">
-        {list.map((a) => <ArticleCard article={a} categoryName={categoryNames.get(a.data.category.id) ?? ""} />)}
+        {list.map((a, i) => <>{i === 4 && list.length > 6 && <AdSlot unit={2} />}<ArticleCard article={a} categoryName={categoryNames.get(a.data.category.id) ?? ""} /></>)}
       </div>
     )}
     <Pagination page={page} />
+    {list.length > 0 && <AdSlot unit={5} />}
     {about && page.page === 1 && (
       <section class="about" aria-labelledby="about-title">
         <h2 id="about-title">About this section</h2>

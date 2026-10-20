@@ -137,15 +137,17 @@ const related = pickRelated(
       <ShareBar url={absNewsUrl(articlePath(article.id))} title={d.title} />
       <a class="top-link" href="#main">Back to top ↑</a>
     </div>
-    <AdSlot label="News in-article" />
+    <AdSlot unit={2} />
     <CalendarLinks links={d.internalLinks} />
     <Faq items={d.faq} />
     <Sources items={d.sources} />
     <Corrections items={d.corrections} />
+    <AdSlot unit={4} />
     {authors.map((a) => (
       <AuthorCard name={a.data.name} role={a.data.role} bio={a.data.bio} href={authorPath(a.id)} />
     ))}
     <RelatedGrid items={related} />
+    <AdSlot unit={5} />
   </article>
   <ArticleAside headings={headings} downloads={d.downloads.length} url={absNewsUrl(articlePath(article.id))} title={d.title} />
   </div>

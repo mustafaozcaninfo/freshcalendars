@@ -8,6 +8,7 @@
 import { Image } from "astro:assets";
 import NewsBase from "../layouts/NewsBase.astro";
 import ArticleCard from "./ArticleCard.astro";
+import AdSlot from "./AdSlot.astro";
 import Breadcrumb from "./Breadcrumb.astro";
 import Pagination from "./Pagination.astro";
 import type { Article, Category } from "../lib/articles";
@@ -110,6 +111,8 @@ const jsonLd = listingGraph({
       </section>
     )}
 
+    <AdSlot unit={1} />
+
     {strip.length > 0 && (
       <section class="strip" aria-labelledby="pr-title">
         <div class="sec-head"><h2 class="sec" id="pr-title">Free printables</h2><a href={PRINTABLES_PATH}>All {printables.length} printables →</a></div>
@@ -127,11 +130,15 @@ const jsonLd = listingGraph({
     )}
 
     <div class="sections">
-      {sections.map((s) => (
-        <section class="cat-block" aria-labelledby={`sec-${s.c.id}`}>
-          <div class="sec-head"><h2 class="sec" id={`sec-${s.c.id}`}><a href={categoryHref(s.c.id)}>{s.c.data.name}</a></h2>{s.total > s.items.length && <a href={categoryHref(s.c.id)}>More →</a>}</div>
-          <div class="tiles">{s.items.map((a) => <ArticleCard article={a} categoryName={s.c.data.name} headingLevel={3} tile />)}</div>
-        </section>
+      {sections.map((s, i) => (
+        <>
+          <section class="cat-block" aria-labelledby={`sec-${s.c.id}`}>
+            <div class="sec-head"><h2 class="sec" id={`sec-${s.c.id}`}><a href={categoryHref(s.c.id)}>{s.c.data.name}</a></h2>{s.total > s.items.length && <a href={categoryHref(s.c.id)}>More →</a>}</div>
+            <div class="tiles">{s.items.map((a) => <ArticleCard article={a} categoryName={s.c.data.name} headingLevel={3} tile />)}</div>
+          </section>
+          {i === 1 && <AdSlot unit={3} />}
+          {i === 4 && <AdSlot unit={4} />}
+        </>
       ))}
     </div>
 
@@ -144,6 +151,7 @@ const jsonLd = listingGraph({
       </ol>
       <Pagination page={page} />
     </section>
+    <AdSlot unit={5} />
   </div>
   <script is:inline>
     (() => {

@@ -9,7 +9,7 @@ const { Content } = await render(entry);
 const d = entry.data;
 const path = `/news/${entry.id}/`;
 ---
-<NewsBase
+<NewsBase ads={false}
   title={`${d.title} | Fresh Calendars News`}
   description={d.description}
   path={path}
