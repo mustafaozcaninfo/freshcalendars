@@ -61,6 +61,13 @@ export const KEY_DATES: KeyDate[] = [
   { date: "2026-12-21", label: "Winter break begins in most large school districts", slug: "winter-break-2026-school-districts-dates" },
   { date: "2027-01-15", label: "Fourth-quarter 2026 estimated tax due", slug: "tax-calendar-2027-irs-deadlines" },
   { date: "2027-04-15", label: "Tax Day 2027", slug: "tax-calendar-2027-irs-deadlines" },
+  { date: "2026-10-22", label: "Florida: last day to request a mail ballot", slug: "florida-amendments-2026-ballot-senate-special-election" },
+  { date: "2026-10-23", label: "Georgia and Arizona: last day to request a mail ballot", slug: "georgia-2026-ballot-amendments-advance-voting" },
+  { date: "2026-10-24", label: "Early voting opens in Michigan, Florida and New York", slug: "michigan-ballot-2026-proposals-candidates" },
+  { date: "2026-10-27", label: "Pennsylvania mail ballot applications due, 5 p.m.", slug: "pennsylvania-2026-election-governor-mail-ballot-deadlines" },
+  { date: "2026-10-27", label: "Mail your ballot by today (USPS advice)", slug: "mail-ballot-deadlines-2026-by-state" },
+  { date: "2026-11-03", label: "Polls close from 6 p.m. ET", slug: "what-time-do-polls-close-election-day-2026" },
+  { date: "2026-12-01", label: "Georgia runoff, if needed", slug: "georgia-2026-ballot-amendments-advance-voting" },
 ];
 
 /** Today's date in Eastern Time as YYYY-MM-DD. */

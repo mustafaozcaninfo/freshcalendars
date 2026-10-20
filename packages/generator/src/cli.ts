@@ -16,6 +16,8 @@ import { buildDateListDownloads } from "./datelists.js";
 import { buildDateList2Downloads } from "./datelists2.js";
 import { buildDateList3Downloads } from "./datelists3.js";
 import { buildHeroes3 } from "./heroes3.js";
+import { buildElection2026Downloads } from "./election2026.js";
+import { buildHeroes4 } from "./heroes4.js";
 import { ROOT } from "./paths.js";
 import { purgeDoCdn, syncCdnAssets } from "./spaces.js";
 
@@ -114,6 +116,10 @@ async function main(): Promise<void> {
       await buildDateList3Downloads();
     } else if (cmd === "news-heroes3") {
       await buildHeroes3();
+    } else if (cmd === "news-election2026") {
+      await buildElection2026Downloads();
+    } else if (cmd === "news-heroes4") {
+      await buildHeroes4();
     } else if (cmd === "rollover") {
       const to = Number(argValue("--to"));
       if (!to) throw new Error("--to YYYY required");
@@ -151,6 +157,8 @@ async function main(): Promise<void> {
   pnpm fc news-fall                        # /news/ Halloween, ACA enrollment, November sky printables
   pnpm fc news-datelists                   # /news/ NYC and Chicago school calendars, UK bank holidays 2027
   pnpm fc news-datelists2                  # /news/ 2027 holidays, Florida school calendars, MCAT/SAT/ACT/LSAT
+  pnpm fc news-election2026                # /news/ poll times, mail deadlines, results tracker, state ballot checklists
+  pnpm fc news-heroes4                     # /news/ hero illustrations for the Election 2026 batch
   pnpm fc news-heroes3                     # /news/ hero illustrations for the Oct. 20, 2026 batch
   pnpm fc news-datelists3                  # /news/ sunset times, Hunter's Moon, 2027 tax calendar, late October, winter break
   pnpm fc refresh-evergreen

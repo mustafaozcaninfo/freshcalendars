@@ -4,6 +4,7 @@ seoTitle: "Sample Ballot by ZIP Code 2026: Find Your Ballot"
 description: "How to see your exact Nov. 3, 2026 sample ballot by address, why a ZIP code alone is not enough, and Texas steps as early voting runs Oct. 19 to 30."
 type: news
 publishedAt: "2026-10-19T07:50:00-04:00"
+updatedAt: "2026-10-20T11:35:00-04:00"
 authors: [news-desk]
 category: planning
 keywords: ["sample ballot by zip code", "Texas ballot November 2026", "sample ballot 2026", "what's on my ballot", "Texas early voting 2026"]
@@ -60,7 +61,7 @@ internalLinks:
     label: "October 2026 printable calendar"
   - href: "/printable-weekly-calendar.html"
     label: "Printable weekly planner"
-related: [voter-registration-deadline-october-19-2026-early-voting, daylight-saving-time-ends-november-1-2026]
+related: [what-time-do-polls-close-election-day-2026, mail-ballot-deadlines-2026-by-state, voter-registration-deadline-october-19-2026-early-voting]
 downloads:
   - group: "Election 2026 printables"
     title: "My Ballot Worksheet, 2026"
@@ -115,6 +116,10 @@ If your official sample ballot and a third-party guide disagree, the county's ve
 Our free ballot worksheet has a line for each common office and five lines for ballot measures. Copy your picks from the official sample ballot and take the sheet with you; that works in Texas and in states that are just as strict about phones. The voting plan sheet covers the rest: when and where you will vote, the ID you will bring and how you will get there.
 
 Our [voter registration deadline report](/news/voter-registration-deadline-october-19-2026-early-voting/) lists the states whose deadlines fall today. Clocks fall back on Sunday, Nov. 1, two days before the election; the [daylight saving time story](/news/daylight-saving-time-ends-november-1-2026/) has the details.
+
+## State ballot guides
+
+For what is on the ballot in other large states, with free printable checklists, see our guides to [California's 14 propositions](/news/california-propositions-2026-november-ballot-explained/), [Florida's amendments and Senate special](/news/florida-amendments-2026-ballot-senate-special-election/), [Georgia](/news/georgia-2026-ballot-amendments-advance-voting/), [Michigan](/news/michigan-ballot-2026-proposals-candidates/), [Pennsylvania](/news/pennsylvania-2026-election-governor-mail-ballot-deadlines/) and [Arizona's eight propositions](/news/arizona-propositions-2026-ballot-explained/). For every state, check [poll closing times](/news/what-time-do-polls-close-election-day-2026/) and [mail ballot deadlines](/news/mail-ballot-deadlines-2026-by-state/), and follow the results with our [2026 midterm tracker](/news/2026-midterm-elections-whats-on-the-ballot-results-tracker/).
 
 ## Key dates
 
