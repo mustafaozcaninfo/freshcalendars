@@ -244,12 +244,99 @@ export const STATES: StateSheet[] = [
   },
 ];
 
+// ── Sample ballot lookup by state ────────────────────────────────────────────
+/**
+ * [state, official portal, URL, where sample ballots are posted]. Checked Oct. 20, 2026 against each
+ * state election office and vote.gov; the same list is the table in the sample ballot story.
+ */
+export const BALLOT_LOOKUPS: [string, string, string, "state" | "county" | "both"][] = [
+  ["Alabama", "Alabama Votes VoterView", "https://myinfo.alabamavotes.gov/voterview", "county"],
+  ["Alaska", "Alaska Voter Information", "https://myvoterinformation.alaska.gov/", "state"],
+  ["Arizona", "My.Arizona.Vote", "https://my.arizona.vote/WhereToVote/Default.aspx", "county"],
+  ["Arkansas", "Arkansas Voter View", "https://www.voterview.ar-nova.org/voterview", "county"],
+  ["California", "My Voter Status", "https://www.sos.ca.gov/elections/registration-status", "county"],
+  ["Colorado", "GoVoteColorado: Find My Registration", "https://www.coloradosos.gov/voter/pages/pub/olvr/findVoterReg.xhtml", "state"],
+  ["Connecticut", "Connecticut Voter Registration Lookup", "https://portaldir.ct.gov/sots/LookUp.aspx", "county"],
+  ["Delaware", "Delaware iVote VoterView", "https://ivote.de.gov/VoterView", "state"],
+  ["District of Columbia", "D.C. Board of Elections: Check Registration", "https://www.dcboe.org/voters/register-to-vote/check-voter-registration-status", "state"],
+  ["Florida", "Florida Voter Information Lookup", "https://registration.elections.myflorida.com/CheckVoterStatus", "county"],
+  ["Georgia", "Georgia My Voter Page", "https://mvp.sos.ga.gov/s/", "state"],
+  ["Hawaii", "Hawaii Online Voter Services", "https://olvr.hawaii.gov/", "county"],
+  ["Idaho", "IdahoVotes", "https://idahovotes.gov/", "county"],
+  ["Illinois", "Illinois Voter Registration Lookup", "https://ova.elections.il.gov/RegistrationLookup.aspx", "county"],
+  ["Indiana", "Indiana Voter Portal", "https://indianavoters.in.gov/", "state"],
+  ["Iowa", "Iowa Voter Information", "https://sos.iowa.gov/elections/voterreg/voterinformation.aspx", "county"],
+  ["Kansas", "Kansas VoterView", "https://myvoteinfo.voteks.org/voterview", "county"],
+  ["Kentucky", "GoVoteKY", "https://govoteky.com/", "county"],
+  ["Louisiana", "Louisiana Voter Portal (GeauxVote)", "https://voterportal.sos.la.gov/", "state"],
+  ["Maine", "Maine Elections: Information About Voting", "https://www.maine.gov/sos/elections-voting/information-about-voting", "county"],
+  ["Maryland", "Maryland Voter Lookup", "https://voterservices.elections.maryland.gov/votersearch", "state"],
+  ["Massachusetts", "Massachusetts Voter Registration Status", "https://www.sec.state.ma.us/VoterRegistrationSearch/MyVoterRegStatus.aspx", "county"],
+  ["Michigan", "Michigan Voter Information Center", "https://mvic.sos.state.mi.us/", "state"],
+  ["Minnesota", "What's On My Ballot", "https://www.sos.mn.gov/elections-voting/whats-on-my-ballot/", "state"],
+  ["Mississippi", "Y'all Vote", "https://yallvote.sos.ms.gov/", "county"],
+  ["Missouri", "Missouri Voter Lookup", "https://voteroutreach.sos.mo.gov/portal/", "county"],
+  ["Montana", "Montana My Voter Page", "https://app.mt.gov/voterinfo/", "county"],
+  ["Nebraska", "Nebraska VoterCheck", "https://www.votercheck.necvr.ne.gov/voterview", "county"],
+  ["Nevada", "Nevada Voter Search", "https://www.nvsos.gov/votersearch/", "both"],
+  ["New Hampshire", "New Hampshire Voter Information Lookup", "https://app.sos.nh.gov/voterinformation", "county"],
+  ["New Jersey", "New Jersey Voter Registration Check", "https://voter.svrs.nj.gov/registration-check", "county"],
+  ["New Mexico", "New Mexico Voter Portal", "https://voterportal.servis.sos.state.nm.us/WhereToVote.aspx", "state"],
+  ["New York", "New York Voter Lookup", "https://voterlookup.elections.ny.gov/", "county"],
+  ["North Carolina", "North Carolina Voter Search", "https://vt.ncsbe.gov/RegLkup/", "state"],
+  ["North Dakota", "North Dakota Where to Vote", "https://vip.sos.nd.gov/WhereToVote.aspx", "county"],
+  ["Ohio", "Ohio Voter Lookup", "https://voterlookup.ohiosos.gov/voterlookup.aspx", "county"],
+  ["Oklahoma", "Oklahoma Voter Portal", "https://oklahoma.gov/elections/ovp.html", "state"],
+  ["Oregon", "Oregon My Vote", "https://secure.sos.state.or.us/orestar/vr/showVoterSearch.do", "county"],
+  ["Pennsylvania", "Pennsylvania Voter Registration Status", "https://www.pavoterservices.pa.gov/pages/voterregistrationstatus.aspx", "county"],
+  ["Rhode Island", "Rhode Island Voter Information Center", "https://vote.sos.ri.gov/", "state"],
+  ["South Carolina", "MyscVOTES at scVOTES.gov", "https://scvotes.gov/", "state"],
+  ["South Dakota", "South Dakota Voter Information Portal", "https://vip.sdsos.gov/VIPLogin.aspx", "county"],
+  ["Tennessee", "GoVoteTN Voter Lookup", "https://web.go-vote-tn.elections.tn.gov/", "state"],
+  ["Texas", "Texas My Voter Portal", "https://teamrv-mvp.sos.texas.gov/MVP/mvp.do", "county"],
+  ["Utah", "Vote.Utah.gov", "https://vote.utah.gov/", "state"],
+  ["Vermont", "Vermont My Voter Page", "https://mvp.vermont.gov/", "county"],
+  ["Virginia", "Virginia Department of Elections: View Your Info", "https://www.elections.virginia.gov/registration/view-your-info/", "county"],
+  ["Washington", "VoteWA", "https://voter.votewa.gov/WhereToVote.aspx", "state"],
+  ["West Virginia", "West Virginia Voter Registration Lookup", "https://apps.sos.wv.gov/elections/voter/", "county"],
+  ["Wisconsin", "Wisconsin MyVote", "https://myvote.wi.gov/en-us/", "state"],
+  ["Wyoming", "Wyoming Secretary of State: Elections", "https://sos.wyo.gov/Elections/", "county"],
+];
+function lookupSheet(fonts: string): string {
+  const short = (u: string) => u.replace(/^https?:\/\/(www\.)?/, "").replace(/\/$/, "");
+  const tag = { state: "State", county: "County", both: "Both" };
+  const row = ([st, name, url, b]: (typeof BALLOT_LOOKUPS)[number]) => `<tr><td class="c">${st}</td><td><b>${name}</b><span>${short(url)}</span></td><td class="t ${b}">${tag[b]}</td></tr>`;
+  const half = Math.ceil(BALLOT_LOOKUPS.length / 2);
+  const tbl = (x: typeof BALLOT_LOOKUPS) => `<table><thead><tr><th>State</th><th>Official lookup</th><th>Ballot</th></tr></thead><tbody>${x.map(row).join("")}</tbody></table>`;
+  const css = `
+  .lk{padding:24px 26px 0}
+  .lk h1{font-family:Sora;font-weight:800;font-size:25px;margin:0;color:#1f3a5f;line-height:1.05}
+  .lk .sub{margin:4px 0 9px;font-size:10px;color:#37474f}
+  .lk .cols{display:grid;grid-template-columns:1fr 1fr;gap:10px}
+  .lk table{width:100%;border-collapse:collapse;font-size:9.2px}
+  .lk th{background:#1f3a5f;color:#fff;font-family:Sora;font-size:8.6px;padding:4.5px 5px;text-align:left}
+  .lk td{padding:3.4px 5px;border-bottom:1px solid #e3e8ee;line-height:1.22;vertical-align:top}
+  .lk td.c{font-weight:700;width:23%}
+  .lk td b{display:block;font-size:9.2px}
+  .lk td span{display:block;color:#475569;font-size:7.9px;word-break:break-all}
+  .lk td.t{width:12%;font-weight:700;font-size:8.4px}
+  .lk td.state{color:#15803d} .lk td.both{color:#1d4ed8} .lk td.county{color:#9a3412}
+  .lk .note{margin-top:9px;font-size:9.4px;color:#5a6b75;line-height:1.4}`;
+  const page = `<section class="page lk"><h1>Find Your Sample Ballot: Official Lookup by State, 2026</h1>
+    <p class="sub">General election Tuesday, Nov. 3, 2026 · "State" = the state portal shows your sample ballot · "County" = your county, city or town elections office posts it · nonpartisan</p>
+    <div class="cols">${tbl(BALLOT_LOOKUPS.slice(0, half))}${tbl(BALLOT_LOOKUPS.slice(half))}</div>
+    <p class="note">Search by your full street address or by name and date of birth, not by ZIP code alone: one ZIP code can include several districts. Links checked Oct. 20, 2026 against state election offices and vote.gov. If a portal shows only your registration, open your county elections office site for the ballot.</p>
+    <div class="foot">Free printable from Fresh Calendars · freshcalendars.com/news/sample-ballot-by-zip-code-2026-texas-ballot/</div></section>`;
+  return doc(fonts, LETTER, css, [page]);
+}
+
 export async function buildElection2026Downloads(): Promise<void> {
   const fonts = await fontFaces();
   await renderPrintables("election-2026", [
     { slug: "poll-closing-times-2026", size: LETTER, html: pollSheet(fonts) },
     { slug: "mail-ballot-deadlines-2026", size: LETTER, html: mailSheet(fonts) },
     { slug: "election-night-tracker-2026", size: LETTER, html: trackerSheets(fonts) },
+    { slug: "sample-ballot-lookup-by-state-2026", size: LETTER, html: lookupSheet(fonts) },
     ...STATES.map((s) => ({ slug: s.slug, size: LETTER, html: stateSheet(fonts, s) })),
   ]);
 }
