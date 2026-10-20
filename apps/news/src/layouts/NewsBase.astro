@@ -10,6 +10,7 @@ import {
 import { NEWS_NAME, absNewsUrl } from "../lib/site";
 import { ROBOTS_INDEX, jsonLdString, type HeadTag } from "../lib/seo";
 import { ADS_ENABLED, ADS_LOADER_JS, AD_ORIGINS } from "../lib/ads";
+import { GA_ENABLED, GA_JS, GA_ORIGINS } from "../lib/analytics";
 
 interface Props {
   title: string;
@@ -74,6 +75,7 @@ const fontPreload = [
 {jsonLd !== undefined && <script type="application/ld+json" is:inline set:html={jsonLdString(jsonLd)} />}
 {fontPreload.map((href) => <link rel="preload" as="font" type="font/woff2" href={href} crossorigin />)}
 <Fragment set:html={brandHeadLinks()} />
+{GA_ENABLED && GA_ORIGINS.map((href) => <link rel="dns-prefetch" href={href} />)}
 {withAds && AD_ORIGINS.preconnect.map((href) => <link rel="preconnect" href={href} crossorigin />)}
 {withAds && AD_ORIGINS.dnsPrefetch.map((href) => <link rel="dns-prefetch" href={href} />)}
 <slot name="head" />
@@ -86,7 +88,7 @@ const fontPreload = [
 <slot />
 </main>
 <Fragment set:html={siteFooterHtml(today, { news: true })} />
-<script is:inline set:html={withAds ? NAV_JS + ADS_LOADER_JS : NAV_JS} />
+<script is:inline set:html={NAV_JS + (GA_ENABLED ? GA_JS : "") + (withAds ? ADS_LOADER_JS : "")} />
 </body>
 </html>
 

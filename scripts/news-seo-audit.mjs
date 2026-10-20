@@ -77,6 +77,11 @@ check("01-ADS-LOAD", "Ads load late without blocking: no <script src> for AdSens
     if (!/\.ad-slot\{[^}]*min-height:\d/.test(h)) return "ad slots without a reserved min-height";
     return null;
   }));
+check("01-GA-LOAD", "Google Analytics on every page, loaded after window load: no gtag <script src> in the HTML (CWV)", () =>
+  each(urls, (u, h) => {
+    if (/<script[^>]+googletagmanager\.com\/gtag/.test(h)) return "render-path <script src> for gtag.js";
+    return /gtag\('config','G-[A-Z0-9]+'\)|gtag\('config',id\)/.test(h) && /G-VT08H0GXHZ/.test(h) ? null : "GA4 snippet missing";
+  }));
 check("01-HERO-IMG", "Primary image has alt, width, height; LCP image eager + high priority (§01 SOP)", () =>
   each(articleUrls, (u, h) => {
     const pic = h.match(/<picture[\s\S]*?<\/picture>/)?.[0];
