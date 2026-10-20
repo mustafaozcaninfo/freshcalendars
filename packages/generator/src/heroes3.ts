@@ -154,12 +154,36 @@ function winter(fonts: string): string {
     <div class="card" style="left:64px;top:290px;width:400px"><span>Most large districts</span><b>Dec. 21 - Jan. 1</b><span>Some return Jan. 5 or later</span></div>`, "#1d4ed8", "color:#1e3a8a");
 }
 
+// 6 ── Connections hints (spoiler-free: no puzzle words on the image) ───────────
+function puzzle(fonts: string): string {
+  const cols = ["#f9df6d", "#a0c35a", "#b0c4ef", "#ba81c5"];
+  const tiles = Array.from({ length: 16 }, (_, i) => {
+    const row = Math.floor(i / 4), col = i % 4, solved = row === 0;
+    return `<div class="tile" style="left:${col * 128}px;top:${row * 100}px;background:${solved ? cols[0] : "#efefe6"};${solved ? "" : ""}">${solved ? "" : "?"}</div>`;
+  }).join("");
+  const dots = cols.map((c, i) => `<i style="background:${c};left:${i * 34}px"></i>`).join("");
+  return frame(fonts, `
+    <style>.board{position:absolute;left:640px;top:120px;width:500px;height:390px;transform:rotate(-3deg);filter:drop-shadow(0 22px 30px rgba(0,0,0,.35))}
+    .tile{position:absolute;width:118px;height:90px;border-radius:12px;display:grid;place-items:center;font-family:Sora;font-weight:800;font-size:40px;color:#5a5a46}
+    .bar{position:absolute;left:640px;top:536px;width:500px;height:56px;border-radius:14px;background:#f9df6d;transform:rotate(-3deg);display:grid;place-items:center;font-family:Sora;font-weight:800;font-size:22px;color:#3d3a1a;letter-spacing:.06em}
+    .dots{position:absolute;left:64px;top:396px;height:24px}.dots i{position:absolute;top:0;width:24px;height:24px;border-radius:50%}</style>
+    <svg width="${W}" height="${H}" style="position:absolute;inset:0"><defs><radialGradient id="p" cx=".75" cy=".45" r=".8"><stop offset="0" stop-color="#3b2f63"/><stop offset="1" stop-color="#16122b"/></radialGradient></defs><rect width="${W}" height="${H}" fill="url(#p)"/>
+    ${Array.from({ length: 9 }, (_, i) => `<circle cx="${180 + i * 120}" cy="${80 + (i % 3) * 210}" r="${40 + (i % 4) * 22}" fill="#ffffff" opacity=".03"/>`).join("")}</svg>
+    <div class="board">${tiles.replace(/<div class="tile" style="left:(\d+)px;top:0px;background:#f9df6d;">/g, '<div class="tile" style="left:$1px;top:0px;background:#f9df6d;opacity:0">')}</div>
+    <div class="bar" style="top:118px">ONE GROUP DOWN, THREE TO GO</div>
+    <div class="k" style="left:64px;top:96px;color:#f9df6d">Puzzle #1227 · Tuesday, Oct. 20, 2026</div>
+    <div class="t" style="left:64px;top:130px;font-size:76px;width:560px">Connections hints</div>
+    <div class="dots">${dots}</div>
+    <div style="position:absolute;left:64px;top:440px;width:500px;color:#e9e4ff;font-size:21px;line-height:1.4;font-weight:600">Graded hints for all four groups first, answers only at the end.</div>`, "#16122b");
+}
+
 export const HEROES3: [string, (f: string) => string][] = [
   ["sunset-times-after-daylight-saving-time-ends-2026", sunset],
   ["hunters-moon-october-2026-full-moon-time", moon],
   ["tax-calendar-2027-irs-deadlines", tax],
   ["october-20-2026-what-day-holidays-observances", late],
   ["winter-break-2026-school-districts-dates", winter],
+  ["nyt-connections-hints-answers-october-20-2026-1227", puzzle],
 ];
 
 export async function buildHeroes3(): Promise<void> {
