@@ -55,7 +55,7 @@ const jsonLd = listingGraph({
 <NewsBase title={pagedTitle(heading, 1)} description={description} path={page.path} jsonLd={jsonLd}>
   <div class="home">
     <Breadcrumb items={[{ name: "Home", href: "/" }, { name: "News", href: "/news/" }]} />
-    <AdSlot unit={5} variant="top" />
+    <AdSlot unit={6} variant="top" />
     <header class="top">
       <div>
         <h1>{heading}</h1>
@@ -152,6 +152,7 @@ const jsonLd = listingGraph({
       </ol>
       <Pagination page={page} />
     </section>
+    <AdSlot unit={5} />
   </div>
   <script is:inline>
     (() => {

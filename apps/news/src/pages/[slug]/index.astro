@@ -115,7 +115,7 @@ const related = pickRelated(
       { name: category.data.name, href: categoryPath(category.id) },
       { name: d.title },
     ]} />
-    <AdSlot unit={5} variant="top" />
+    <AdSlot unit={6} variant="top" />
     <p class="kicker"><a href={categoryPath(category.id)}>{category.data.name}</a></p>
     <h1>{d.title}</h1>
     <p class="news-lede">{d.description}</p>
@@ -148,6 +148,7 @@ const related = pickRelated(
       <AuthorCard name={a.data.name} role={a.data.role} bio={a.data.bio} href={authorPath(a.id)} />
     ))}
     <RelatedGrid items={related} />
+    <AdSlot unit={5} />
   </article>
   <ArticleAside headings={headings} downloads={d.downloads.length} url={absNewsUrl(articlePath(article.id))} title={d.title} />
   </div>

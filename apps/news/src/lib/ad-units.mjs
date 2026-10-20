@@ -9,6 +9,7 @@ export const NEWS_AD_UNITS = {
   3: "3950625273", // Fresh_News_3: wide-screen article sidebar · home mid-sections · printables mid-page
   4: "1404177977", // Fresh_News_4: after FAQ and sources
   5: "7542210911", // Fresh_News_5: end of page, above the footer
+  6: "8981385284", // Fresh_News_Top: top of every page, under the breadcrumb
 };
 export const ADS_ENABLED = process.env.NEWS_ADS !== "0";
 

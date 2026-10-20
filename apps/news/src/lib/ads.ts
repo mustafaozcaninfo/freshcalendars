@@ -1,11 +1,11 @@
 /**
- * AdSense for /news/ only: the five Fresh_News units. The calendar site keeps its own slots in
+ * AdSense for /news/ only: the six Fresh_News units. The calendar site keeps its own slots in
  * @freshcalendars/site-chrome; these IDs must not be reused there.
  *
  * Placement rules (SEO-HARITASI-TAM.md §01 l.214, l.314, enforced by 01-ADS-CENTER in
  * scripts/news-seo-audit.mjs): one labeled top unit under the breadcrumb on every page, nothing else
  * inside the centerpiece (H1, lede, hero, key points and the first two prose sections), every
- * unit labeled and its height reserved, at most five per page, none on policy pages.
+ * unit labeled and its height reserved, at most six per page, none on policy pages.
  *
  * Ads are on by default so the VPS cron build matches local builds; NEWS_ADS=0 turns them off.
  * Unit IDs live in ./ad-units.mjs (shared with the in-article rehype plugin).
@@ -14,7 +14,7 @@ import { ADS_ENABLED, NEWS_AD_CLIENT, NEWS_AD_UNITS } from "./ad-units.mjs";
 
 export { ADS_ENABLED, NEWS_AD_UNITS };
 export const ADSENSE_CLIENT = NEWS_AD_CLIENT;
-export type NewsAdUnit = 1 | 2 | 3 | 4 | 5;
+export type NewsAdUnit = 1 | 2 | 3 | 4 | 5 | 6;
 
 /** Hosts AdSense contacts first; preconnected in <head> so the late load costs no handshakes. */
 export const AD_ORIGINS = {

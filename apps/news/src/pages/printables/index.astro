@@ -26,7 +26,7 @@ const jsonLd = listingGraph({
 <NewsBase title={`${title} | Fresh Calendars`} description={description} path={PRINTABLES_PATH} jsonLd={jsonLd}>
   <div class="hub">
     <Breadcrumb items={[{ name: "Home", href: "/" }, { name: "News", href: "/news/" }, { name: "Free printables" }]} />
-    <AdSlot unit={5} variant="top" />
+    <AdSlot unit={6} variant="top" />
     <h1>{title}</h1>
     <p class="news-lede">Every template from our stories in one place: {items.length} free PDFs and PNGs on US Letter paper, made by Fresh Calendars. No account, no email.</p>
 
@@ -67,6 +67,7 @@ const jsonLd = listingGraph({
       </>
     ))}
     <p class="none" id="pr-none" hidden>No printables match. Clear the search or pick another topic.</p>
+    <AdSlot unit={5} />
     <p class="terms">Free for personal, classroom and office use. See our <a href="/page/terms-of-use/">terms of use</a> for sharing and reuse.</p>
   </div>
   <script is:inline>
