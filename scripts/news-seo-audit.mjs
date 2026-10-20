@@ -45,7 +45,7 @@ const each = (list, pred) => list.flatMap((u) => { const r = pred(u, html[u]); r
 // ── 01 Visual semantics / layout ───────────────────────────────────────────
 check("01-H1", "Exactly one H1 per page (§01 checklist, §02 C)", () =>
   each(urls, (u, h) => { const n = (h.match(/<h1[\s>]/g) ?? []).length; return n === 1 ? null : `${n} H1`; }));
-check("01-ADS-CENTER", "Ads stay out of the centerpiece and above-the-fold area; labeled, space-reserved, ≤5 per page, none on policy pages (§01 l.214, l.314)", () =>
+check("01-ADS-CENTER", "One top ad under the breadcrumb, other ads stay out of the centerpiece; labeled, space-reserved, ≤5 per page, none on policy pages (§01 l.214, l.314)", () =>
   each(urls, (u, h) => {
     const main = h.match(/<main id="main"[\s\S]*?<\/main>/)?.[0] ?? "";
     const ads = [...main.matchAll(/<aside class="ad-slot[^"]*"[^>]*>/g)];
@@ -55,7 +55,13 @@ check("01-ADS-CENTER", "Ads stay out of the centerpiece and above-the-fold area;
     if (/<meta name="robots" content="noindex/.test(h) || /\/(about|editorial-policy|corrections-policy|masthead)\/$/.test(u)) return "ads on a policy or noindex page";
     if (ads.length > 5) return `${ads.length} ad units (max 5)`;
     if (ads.some((m) => !/aria-label="Advertisement"/.test(m[0]))) return "ad unit without the Advertisement label";
-    const first = ads[0].index;
+    // One top unit is allowed directly under the breadcrumb; everything else follows the centerpiece rule.
+    const tops = ads.filter((m) => /ad-slot--top/.test(m[0]));
+    if (tops.length > 1) return `${tops.length} top ad units (max 1)`;
+    if (tops.length && !/<\/nav>\s*$/.test(main.slice(0, tops[0].index).replace(/<!--[\s\S]*?-->/g, ""))) return "top ad not directly under the breadcrumb";
+    const rest = ads.filter((m) => !/ad-slot--top/.test(m[0]));
+    if (!rest.length) return null;
+    const first = rest[0].index;
     if (isArticle(h)) {
       // Centerpiece: H1, lede, hero, key points and the first two prose sections stay unbroken.
       const prose = main.indexOf('<div class="prose-news');
@@ -69,7 +75,7 @@ check("01-ADS-CENTER", "Ads stay out of the centerpiece and above-the-fold area;
     }
     return null;
   }));
-check("01-ADS-LOAD", "Ads load late without blocking: no <script src> for AdSense, preconnect hint, reserved min-height (§01 SOP, CWV)", () =>
+check("01-ADS-LOAD", "Ads load at page load without blocking: no <script src> for AdSense, preconnect hint, reserved min-height (§01 SOP, CWV)", () =>
   each(urls, (u, h) => {
     if (!/class="ad-slot/.test(h)) return /googlesyndication/.test(h) ? "AdSense hints on a page without ads" : null;
     if (/<script[^>]+adsbygoogle\.js/.test(h)) return "render-path <script src> for adsbygoogle.js";

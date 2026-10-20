@@ -44,6 +44,7 @@ const jsonLd = listingGraph({
 <NewsBase title={pagedTitle(heading, page.page)} description={pageDescription} path={page.path} jsonLd={jsonLd}>
   <div class="news-wrap listing">
     <Breadcrumb items={[{ name: "Home", href: "/" }, ...trail.map((t) => ({ name: t.name, href: t.path })), ...(page.page > 1 ? [{ name: `Page ${page.page}` }] : [])]} />
+    {page.items.length > 0 && <AdSlot unit={5} variant="top" />}
     <h1>{heading}{page.page > 1 && <span class="pg"> – Page {page.page}</span>}</h1>
     {page.page === 1 && <p class="news-lede">{intro}</p>}
     <slot />
@@ -60,7 +61,6 @@ const jsonLd = listingGraph({
       </div>
     )}
     <Pagination page={page} />
-    {list.length > 0 && <AdSlot unit={5} />}
     {about && page.page === 1 && (
       <section class="about" aria-labelledby="about-title">
         <h2 id="about-title">About this section</h2>
