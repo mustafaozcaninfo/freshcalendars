@@ -47,6 +47,21 @@ function stateHero(fonts: string, o: { state: string; bg: string; bg2: string; a
     <div class="card" style="left:64px;top:${o.title.length > 26 ? 380 : 320}px;width:430px"><span>${o.cardTop}</span><b>${o.cardBig}</b><span>${o.cardBottom}</span></div>`);
 }
 
+/** GTA 6 countdown: neon sunset and a calendar page; original art, no game imagery or logos. */
+function gta6(fonts: string): string {
+  const sun = `<defs><linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#2e1065"/><stop offset=".55" stop-color="#be185d"/><stop offset="1" stop-color="#f97316"/></linearGradient><linearGradient id="sun" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#fde68a"/><stop offset="1" stop-color="#f472b6"/></linearGradient><filter id="sh"><feDropShadow dx="0" dy="18" stdDeviation="18" flood-opacity=".35"/></filter></defs>
+    <rect width="${W}" height="${H}" fill="url(#sky)"/>${stars(61, 30)}
+    <circle cx="900" cy="470" r="230" fill="url(#sun)"/>${[0, 1, 2, 3, 4].map((i) => `<rect x="640" y="${430 + i * 34}" width="520" height="${6 + i * 3}" fill="#be185d"/>`).join("")}
+    <rect y="560" width="${W}" height="${H - 560}" fill="#1e0b3a"/>${[0, 1, 2, 3].map((i) => `<path d="M0 ${590 + i * 22} H${W}" stroke="#f472b6" stroke-opacity="${0.5 - i * 0.1}" stroke-width="2"/>`).join("")}
+`;
+  const cal = `<g transform="translate(690,120) rotate(4)" filter="url(#sh)"><rect width="250" height="270" rx="18" fill="#fff"/><rect width="250" height="70" rx="18" fill="#7c3aed"/><rect y="52" width="250" height="18" fill="#7c3aed"/>
+    <text x="125" y="46" font-family="Sora" font-size="26" font-weight="800" fill="#fff" text-anchor="middle">OCTOBER</text><text x="125" y="196" font-family="Sora" font-size="120" font-weight="800" fill="#1e1b4b" text-anchor="middle">22</text><text x="125" y="244" font-family="Sora" font-size="24" font-weight="800" fill="#be185d" text-anchor="middle">THURSDAY</text></g>`;
+  return frame(fonts, "#2e1065", `<svg width="${W}" height="${H}" style="position:absolute;inset:0">${sun}${cal}</svg>
+    <div class="k" style="left:64px;top:84px;color:#fde68a">GTA 6 · Launch countdown</div>
+    <div class="t" style="left:64px;top:118px;font-size:64px;width:560px">What's confirmed before Nov. 19</div>
+    <div class="card" style="left:64px;top:390px;width:460px"><span>Pre-load opens Thursday, Nov. 12</span><b>Launch Thursday, Nov. 19</b><span>PlayStation 5 and Xbox Series X<span style="font-family:Arial,sans-serif">|</span>S</span></div>`);
+}
+
 function polls(fonts: string): string {
   // One instant on four clocks: 8 p.m. ET is 7 p.m. CT, 6 p.m. MT and 5 p.m. PT.
   const zones = [["ET", "8:00", "#fde68a"], ["CT", "7:00", "#fdba74"], ["MT", "6:00", "#fca5a5"], ["PT", "5:00", "#c4b5fd"]];
@@ -109,6 +124,7 @@ export const HEROES4: [string, (f: string) => string][] = [
   ["georgia-2026-ballot-amendments-advance-voting", (f) => stateHero(f, { state: "Georgia", bg: "#9f1239", bg2: "#4c0519", accent: "#9f1239", kicker: "Georgia · Nov. 3, 2026", title: "Senate, governor and 3 amendments", cardTop: "Advance voting", cardBig: "Oct. 13-30", cardBottom: "Runoff, if needed: Dec. 1", lines: ["U.S. SENATE", "GOVERNOR", "SECRETARY OF STATE"], measure: "AMENDMENT", seed: 47 })],
   ["arizona-propositions-2026-ballot-explained", (f) => stateHero(f, { state: "Arizona", bg: "#b45309", bg2: "#7c2d12", accent: "#b45309", kicker: "Arizona · Nov. 3, 2026", title: "8 propositions on the ballot", cardTop: "Early ballots must arrive by", cardBig: "7 p.m. Nov. 3", cardBottom: "Postmarks do not count", lines: ["GOVERNOR / LT. GOV.", "ATTORNEY GENERAL", "CORPORATION COMM."], measure: "PROPOSITION 141", seed: 53 })],
   ["what-time-do-polls-close-election-day-2026", polls],
+  ["gta-6-october-22-2026-what-is-confirmed-release-countdown", gta6],
   ["mail-ballot-deadlines-2026-by-state", mail],
   ["is-election-day-a-holiday-2026-whats-open", holiday],
   ["2026-midterm-elections-whats-on-the-ballot-results-tracker", midterm],
