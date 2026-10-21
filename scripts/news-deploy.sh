@@ -27,11 +27,15 @@ ssh -o BatchMode=yes "$REMOTE_HOST" "FC_JOB=news-publish '$APP_DIR/scripts/serve
 # and a deep pagination path is not swallowed by the calendar site's /page/ redirects.
 BASE="${SMOKE_BASE:-https://freshcalendars.com}"
 UA="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36"
-hdrs="$(curl -fsSI -A "$UA" "$BASE/news/")" || { echo "✖ $BASE/news/ not reachable"; exit 1; }
+# Ask for compression like a browser: the first request after a purge fills the edge cache, and an
+# uncompressed fill would be served raw to everyone (seen on /news/ before respect_strong_etags was off).
+AE=(-H "Accept-Encoding: br, gzip")
+hdrs="$(curl -fsS -o /dev/null -D - -A "$UA" "${AE[@]}" "$BASE/news/")" || { echo "✖ $BASE/news/ not reachable"; exit 1; }
 grep -qi '^cache-control: .*max-age=300' <<<"$hdrs" || { echo "✖ /news/ Cache-Control is not the 300s news TTL"; grep -i '^cache-control' <<<"$hdrs"; exit 1; }
+grep -qiE '^content-encoding: (br|gzip|zstd)' <<<"$hdrs" || echo "⚠ /news/ answered without compression"
 # Read the whole body first: `curl | grep -q` fails under pipefail once grep exits early (SIGPIPE).
-sm="$(curl -fsS -A "$UA" "$BASE/news/news-sitemap.xml")" || { echo "✖ news-sitemap.xml not reachable"; exit 1; }
+sm="$(curl -fsS --compressed -A "$UA" "${AE[@]}" "$BASE/news/news-sitemap.xml")" || { echo "✖ news-sitemap.xml not reachable"; exit 1; }
 grep -q '<urlset' <<<"$sm" || { echo "✖ news-sitemap.xml invalid"; exit 1; }
-code="$(curl -s -o /dev/null -w '%{http_code}' -A "$UA" "$BASE/news/page/99/")"
+code="$(curl -s -o /dev/null -w '%{http_code}' -A "$UA" "${AE[@]}" "$BASE/news/page/99/")"
 [[ "$code" == "404" ]] || { echo "✖ /news/page/99/ returned $code (expected 404, not a redirect)"; exit 1; }
 echo "✔ /news/ live: $(grep -i '^cf-cache-status' <<<"$hdrs" | tr -d '\r')"
