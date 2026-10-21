@@ -1,0 +1,11 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "news-preview",
+      "runtimeExecutable": "node",
+      "runtimeArgs": ["scripts/news-serve.mjs", "4323"],
+      "port": 4323
+    }
+  ]
+}

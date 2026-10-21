@@ -5,6 +5,11 @@ on:
     branches: [main, master]
   pull_request:
 
+# A newer push to the same pull request cancels the older run.
+concurrency:
+  group: ci-${{ github.ref }}
+  cancel-in-progress: true
+
 jobs:
   verify:
     runs-on: ubuntu-latest
@@ -28,3 +33,31 @@ jobs:
           else
             echo "No dist/manifest.json — skipping verify (gen runs on deploy hosts)."
           fi
+
+  # The same gates `pnpm news:deploy` runs before publishing, so a story pull request
+  # that is green here can be merged and published without a local rebuild.
+  news:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    env:
+      TZ: America/New_York
+    steps:
+      - uses: actions/checkout@v4
+      - uses: pnpm/action-setup@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: pnpm
+      - name: Install
+        run: pnpm install --frozen-lockfile
+      - name: Build /news/ (frontmatter schema, hero size, references)
+        run: pnpm news:build
+      - name: Verify (links, H1, orphans)
+        run: pnpm news:verify
+      - name: SEO and writing audit
+        run: pnpm news:seo-audit
+      - name: Changed stories
+        if: github.event_name == 'pull_request'
+        run: |
+          git fetch --depth=1 origin "${{ github.base_ref }}"
+          git diff --name-status FETCH_HEAD -- apps/news/src/content apps/news/public/downloads >> "$GITHUB_STEP_SUMMARY" || true
