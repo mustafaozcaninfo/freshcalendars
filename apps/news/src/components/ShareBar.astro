@@ -1,24 +1,52 @@
 ---
-/** Share links that work without scripts; "Copy link" and the native share sheet add a tiny script. */
-interface Props { url: string; title: string; compact?: boolean }
-const { url, title, compact = false } = Astro.props;
+/**
+ * Share links that work without scripts; "Copy link" and the native share sheet add a tiny script
+ * (in the story page). Icons come from the page's ShareIcons sprite, in each brand's own color.
+ * Pinterest pins `image` (a story's first printable, else its hero); Bluesky takes the link inside
+ * the post text. Share endpoints are rel="nofollow": they are actions, not pages to rank.
+ */
+interface Props { url: string; title: string; image: string; compact?: boolean }
+const { url, title, image, compact = false } = Astro.props;
 const u = encodeURIComponent(url), t = encodeURIComponent(title);
+const nets = [
+  { id: "facebook", name: "Facebook", href: `https://www.facebook.com/sharer/sharer.php?u=${u}` },
+  { id: "x", name: "X", href: `https://x.com/intent/tweet?url=${u}&text=${t}` },
+  { id: "pinterest", name: "Pinterest", href: `https://www.pinterest.com/pin/create/button/?url=${u}&media=${encodeURIComponent(image)}&description=${t}` },
+  { id: "whatsapp", name: "WhatsApp", href: `https://wa.me/?text=${encodeURIComponent(`${title} ${url}`)}` },
+  { id: "reddit", name: "Reddit", href: `https://www.reddit.com/submit?url=${u}&title=${t}` },
+  { id: "bluesky", name: "Bluesky", href: `https://bsky.app/intent/compose?text=${encodeURIComponent(`${title} ${url}`)}` },
+];
 ---
 <div class:list={["share", { compact }]}>
   <p class="tool-label">Share</p>
   <ul>
-    <li><button type="button" class="copy" data-url={url}>Copy link</button></li>
-    <li><a href={`https://www.facebook.com/sharer/sharer.php?u=${u}`} rel="noopener" target="_blank">Facebook</a></li>
-    <li><a href={`https://twitter.com/intent/tweet?url=${u}&text=${t}`} rel="noopener" target="_blank">X</a></li>
-    <li><a href={`mailto:?subject=${t}&body=${u}`}>Email</a></li>
-    <li><button type="button" class="native" hidden data-url={url} data-title={title}>More…</button></li>
+    <li><button type="button" class="copy" data-url={url} aria-label="Copy link to this story"><svg class="ico" aria-hidden="true"><use href="#si-link" /></svg><span class="lbl">Copy link</span></button></li>
+    {nets.map((n) => (
+      <li><a class={`net ${n.id}`} href={n.href} rel="noopener nofollow" target="_blank" aria-label={`Share on ${n.name} (opens in a new tab)`} title={`Share on ${n.name}`}><svg class="ico" aria-hidden="true"><use href={`#si-${n.id}`} /></svg><span class="lbl">{n.name}</span></a></li>
+    ))}
+    <li><a class="net mail" href={`mailto:?subject=${t}&body=${u}`} aria-label="Share by email" title="Share by email"><svg class="ico" aria-hidden="true"><use href="#si-mail" /></svg><span class="lbl">Email</span></a></li>
+    <li><button type="button" class="native" hidden data-url={url} data-title={title} aria-label="More ways to share"><svg class="ico" aria-hidden="true"><use href="#si-share" /></svg><span class="lbl">More</span></button></li>
   </ul>
 </div>
 <style>
   .share{margin:0 0 1.25rem}
-  .tool-label{margin:0 0 .4rem;font-size:.75rem;font-weight:700;text-transform:uppercase;letter-spacing:.08em;color:var(--ink)}
-  .share ul{list-style:none;margin:0;padding:0;display:flex;flex-wrap:wrap;gap:.4rem}
-  .share a,.share button{display:inline-flex;align-items:center;min-height:44px;padding:0 .8rem;border:1px solid var(--line);border-radius:999px;background:#fff;color:var(--ink-strong);font:inherit;font-size:.88rem;font-weight:700;text-decoration:none;cursor:pointer}
-  .share a:hover,.share button:hover,.share a:focus-visible,.share button:focus-visible{border-color:var(--focus);color:var(--focus)}
-  .share button.done{border-color:#1a7f5a;color:#1a7f5a}
+  .tool-label{margin:0 0 .5rem;font-size:.75rem;font-weight:700;text-transform:uppercase;letter-spacing:.08em;color:var(--ink)}
+  .share ul{list-style:none;margin:0;padding:0;display:flex;flex-wrap:wrap;gap:.45rem}
+  .share a,.share button{--c:var(--ink-strong);display:inline-flex;align-items:center;gap:.45rem;min-height:44px;padding:0 .9rem 0 .7rem;border:1px solid var(--line);border-radius:999px;background:#fff;color:var(--ink-strong);font:inherit;font-size:.88rem;font-weight:700;text-decoration:none;cursor:pointer;transition:border-color .15s ease,box-shadow .15s ease,transform .15s ease}
+  .ico{width:20px;height:20px;flex:none;fill:var(--c);color:var(--c)}
+  .share .facebook{--c:#0866FF}.share .x{--c:#000}.share .pinterest{--c:#BD081C}.share .whatsapp{--c:#25D366}.share .reddit{--c:#FF4500}.share .bluesky{--c:#1185FE}
+  .share a:hover,.share button:hover,.share a:focus-visible,.share button:focus-visible{border-color:var(--c);box-shadow:0 3px 10px rgba(16,24,40,.12);transform:translateY(-1px)}
+  .share :focus-visible{outline:3px solid var(--gold);outline-offset:2px}
+  .share [hidden],.share li:has(> [hidden]){display:none}
+  .share button.done{--c:#1a7f5a;border-color:#1a7f5a;color:#1a7f5a}
+  /* Phones and the sidebar: round icon buttons; the label stays for screen readers via aria-label. */
+  @media (max-width:560px){
+    .share ul{display:grid;grid-template-columns:repeat(5,44px);gap:.6rem}
+    .share a,.share button{width:44px;padding:0;justify-content:center}
+    .share .lbl{display:none}
+  }
+  .compact ul{display:grid;grid-template-columns:repeat(5,44px);gap:.5rem}
+  .compact a,.compact button{width:44px;padding:0;justify-content:center}
+  .compact .lbl{display:none}
+  @media print{ .share{display:none} }
 </style>

@@ -11,8 +11,8 @@ import ShareBar from "./ShareBar.astro";
 import AdSlot from "./AdSlot.astro";
 import { PRINTABLES_PATH } from "../lib/printables";
 import { LONG_STORY_H2 } from "../lib/ad-units.mjs";
-interface Props { headings: MarkdownHeading[]; downloads: number; url: string; title: string }
-const { headings, downloads, url, title } = Astro.props;
+interface Props { headings: MarkdownHeading[]; downloads: number; url: string; title: string; image: string }
+const { headings, downloads, url, title, image } = Astro.props;
 const items = headings.filter((h) => h.depth === 2);
 const rails = items.length >= LONG_STORY_H2 ? 3 : items.length >= 5 ? 2 : 1;
 ---
@@ -27,7 +27,7 @@ const rails = items.length >= LONG_STORY_H2 ? 3 : items.length >= 5 ? 2 : 1;
     {downloads > 0 && (
       <a class="dl" href="#downloads"><b>{downloads} free printable{downloads === 1 ? "" : "s"}</b><span>PDF and PNG, no sign-up</span></a>
     )}
-    <ShareBar url={url} title={title} compact />
+    <ShareBar url={url} title={title} image={image} compact />
     <a class="all-pr" href={PRINTABLES_PATH}>Browse all printables →</a>
   </div>
   {Array.from({ length: rails }, () => <div class="rail"><div class="side-ad"><AdSlot unit={3} variant="side" /></div></div>)}

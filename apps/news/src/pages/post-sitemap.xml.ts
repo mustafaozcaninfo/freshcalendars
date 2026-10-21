@@ -2,6 +2,7 @@ import type { APIRoute } from "astro";
 import { getIndexableArticles, lastModified, newest } from "../lib/articles";
 import { heroImages } from "../lib/images";
 import { articlePath } from "../lib/seo";
+import { absNewsUrl } from "../lib/site";
 import { URLSET_MAX, urlset, type UrlEntry } from "../lib/sitemaps";
 
 /** All articles, newest change first; the news home leads with priority 1.0 (tech-insider layout). */
@@ -16,7 +17,11 @@ export const GET: APIRoute = async () => {
       articles.map(async (a) => ({
         path: articlePath(a.id),
         lastmod: lastModified(a),
-        image: { url: (await heroImages(a.data.hero.src)).main.url, title: a.data.hero.title ?? a.data.title },
+        images: [
+          { url: (await heroImages(a.data.hero.src)).main.url, title: a.data.hero.title ?? a.data.title },
+          // Printables rank in image search for "printable …" queries; list each full-page PNG.
+          ...a.data.downloads.map((d) => ({ url: absNewsUrl(d.png), title: d.title })),
+        ],
       })),
     )),
   ];

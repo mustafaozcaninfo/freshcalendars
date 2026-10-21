@@ -5,8 +5,10 @@ interface Item {
   group: string; title: string; description: string; preview: ImageMetadata; alt: string;
   pdf: string; png: string; pages: number; paper: string;
 }
-interface Props { items: Item[] }
-const { items } = Astro.props;
+interface Props { items: Item[]; pageUrl: string }
+const { items, pageUrl } = Astro.props;
+// "Save" pins the printable itself (its full-page PNG) and links the Pin back to this story.
+const pin = (i: Item) => `https://www.pinterest.com/pin/create/button/?url=${encodeURIComponent(pageUrl)}&media=${encodeURIComponent(new URL(i.png, pageUrl).href)}&description=${encodeURIComponent(`${i.title}: free printable PDF`)}`;
 const groups = [...new Set(items.map((i) => i.group))];
 ---
 {items.length > 0 && (
@@ -29,6 +31,7 @@ const groups = [...new Set(items.map((i) => i.group))];
                 <div class="btns">
                   <a class="btn pdf" href={i.pdf} download type="application/pdf">Download PDF</a>
                   <a class="btn png" href={i.png} download type="image/png">PNG</a>
+                  <a class="btn pin" href={pin(i)} rel="noopener nofollow" target="_blank" aria-label={`Save ${i.title} to Pinterest (opens in a new tab)`}><svg aria-hidden="true"><use href="#si-pinterest" /></svg>Save</a>
                 </div>
               </div>
             </li>
@@ -56,5 +59,9 @@ const groups = [...new Set(items.map((i) => i.group))];
   .btn.pdf:hover{background:#003a64;box-shadow:0 4px 10px rgba(0,74,127,.25)}
   .btn.png:hover{background:var(--n-brand-soft)}
   .btn.png{border:1px solid var(--focus);color:var(--focus);background:#fff}
+  .btn.pin{gap:.35rem;border:1px solid #BD081C;color:#BD081C;background:#fff}
+  .btn.pin svg{width:18px;height:18px;fill:#BD081C}
+  .btn.pin:hover{background:#BD081C;color:#fff}
+  .btn.pin:hover svg{fill:#fff}
   .btn:focus-visible{outline:3px solid var(--gold);outline-offset:2px}
 </style>

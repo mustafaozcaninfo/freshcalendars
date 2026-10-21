@@ -17,6 +17,7 @@ import Sources from "../../components/Sources.astro";
 import Toc from "../../components/Toc.astro";
 import ArticleAside from "../../components/ArticleAside.astro";
 import ShareBar from "../../components/ShareBar.astro";
+import ShareIcons from "../../components/ShareIcons.astro";
 import StoryNav from "../../components/StoryNav.astro";
 import { authorHref, getPublishedArticles, lastModified, type Article } from "../../lib/articles";
 import { heroImages } from "../../lib/images";
@@ -51,6 +52,8 @@ const authors = await Promise.all(d.authors.map(async (ref) => (await getEntry(r
 const authorPath = authorHref;
 
 const hero = await heroImages(d.hero.src);
+// Pinterest gets the first printable (a tall page, the format Pinterest favors), else the hero.
+const shareImage = d.downloads[0] ? absNewsUrl(d.downloads[0].png) : hero.main.url;
 
 const wordCount = countWords(article.body ?? "");
 const minutes = readingMinutes(wordCount);
@@ -147,9 +150,9 @@ const older = pos >= 0 && pos < all.length - 1 ? linkOf(all[pos + 1]!) : undefin
     <div class="prose-news">
       <Content />
     </div>
-    <DownloadGrid items={d.downloads} />
+    <DownloadGrid items={d.downloads} pageUrl={absNewsUrl(articlePath(article.id))} />
     <div class="after">
-      <ShareBar url={absNewsUrl(articlePath(article.id))} title={d.title} />
+      <ShareBar url={absNewsUrl(articlePath(article.id))} title={d.title} image={shareImage} />
       <a class="top-link" href="#main">Back to top ↑</a>
     </div>
     <AdSlot unit={2} />
@@ -165,7 +168,8 @@ const older = pos >= 0 && pos < all.length - 1 ? linkOf(all[pos + 1]!) : undefin
     <StoryNav section={{ name: category.data.name, href: categoryPath(category.id) }} more={more} newer={newer} older={older} />
     {!longStory && <AdSlot unit={5} />}
   </article>
-  <ArticleAside headings={headings} downloads={d.downloads.length} url={absNewsUrl(articlePath(article.id))} title={d.title} />
+  <ArticleAside headings={headings} downloads={d.downloads.length} url={absNewsUrl(articlePath(article.id))} title={d.title} image={shareImage} />
+  <ShareIcons />
   </div>
   <script is:inline>
     (() => {
@@ -179,7 +183,8 @@ const older = pos >= 0 && pos < all.length - 1 ? linkOf(all[pos + 1]!) : undefin
         links.forEach((_, id) => { const h = document.getElementById(id); if (h) io.observe(h); });
       }
       for (const b of document.querySelectorAll(".share .copy")) b.addEventListener("click", async () => {
-        try { await navigator.clipboard.writeText(b.dataset.url); b.textContent = "Link copied"; b.classList.add("done"); setTimeout(() => { b.textContent = "Copy link"; b.classList.remove("done"); }, 2000); } catch { prompt("Copy this link:", b.dataset.url); }
+        const lbl = b.querySelector(".lbl"), use = b.querySelector("use");
+        try { await navigator.clipboard.writeText(b.dataset.url); lbl.textContent = "Link copied"; use.setAttribute("href", "#si-check"); b.classList.add("done"); setTimeout(() => { lbl.textContent = "Copy link"; use.setAttribute("href", "#si-link"); b.classList.remove("done"); }, 2000); } catch { prompt("Copy this link:", b.dataset.url); }
       });
       if (navigator.share) for (const b of document.querySelectorAll(".share .native")) { b.hidden = false; b.addEventListener("click", () => navigator.share({ title: b.dataset.title, url: b.dataset.url }).catch(() => {})); }
       // ZIP finder (sample ballot story): the first three ZIP digits give the state (USPS prefixes),

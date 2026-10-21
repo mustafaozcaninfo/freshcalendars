@@ -28,20 +28,21 @@ export interface UrlEntry {
   path: string;
   lastmod?: Date;
   priority?: string;
-  image?: { url: string; title: string };
+  /** Up to 1,000 per URL: the hero first, then any printables on the page. */
+  images?: { url: string; title: string }[];
 }
 
 export function urlset(entries: UrlEntry[]): string {
-  const hasImages = entries.some((e) => e.image);
+  const hasImages = entries.some((e) => e.images?.length);
   const ns = `xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"${hasImages ? ' xmlns:image="http://www.google.com/schemas/sitemap-image/1.1"' : ""}`;
   const body = entries
     .map((e) => {
       const lines = [`    <loc>${xmlEscape(absNewsUrl(e.path))}</loc>`];
       if (e.lastmod) lines.push(`    <lastmod>${isoDateTime(e.lastmod)}</lastmod>`);
       if (e.priority) lines.push(`    <priority>${e.priority}</priority>`);
-      if (e.image) {
+      for (const img of e.images ?? []) {
         lines.push(
-          `    <image:image>\n      <image:loc>${xmlEscape(e.image.url)}</image:loc>\n      <image:title>${xmlEscape(e.image.title)}</image:title>\n    </image:image>`,
+          `    <image:image>\n      <image:loc>${xmlEscape(img.url)}</image:loc>\n      <image:title>${xmlEscape(img.title)}</image:title>\n    </image:image>`,
         );
       }
       return `  <url>\n${lines.join("\n")}\n  </url>`;

@@ -35,7 +35,7 @@ describe("news sitemap", () => {
 describe("urlset and index", () => {
   it("adds image namespace only when images exist", () => {
     assert.doesNotMatch(urlset([{ path: "/news/" }]), /xmlns:image/);
-    const xml = urlset([{ path: "/news/a/", lastmod: now, image: { url: "https://x/a.webp", title: "A <b>" } }]);
+    const xml = urlset([{ path: "/news/a/", lastmod: now, images: [{ url: "https://x/a.webp", title: "A <b>" }] }]);
     assert.match(xml, /xmlns:image=/);
     assert.match(xml, /<image:title>A &lt;b&gt;<\/image:title>/);
     assert.match(xml, /<loc>https:\/\/freshcalendars.com\/news\/a\/<\/loc>/);
