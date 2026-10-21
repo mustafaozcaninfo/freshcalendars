@@ -34,6 +34,16 @@ NEWS_LOCATION="
 			add_header Cache-Control \"public, max-age=31536000, immutable\" always;
 		}
 
+		# Printables: cache for a day in browsers and a month at the edge (deploys purge changed
+		# files); each PDF names its story as canonical (map: /etc/nginx/conf.d/freshcalendars-pdf-map.conf).
+		location ^~ /news/downloads/ {
+			root       ${ROOT};
+			expires    off;
+			add_header Cache-Control \"public, max-age=86400, stale-while-revalidate=604800\" always;
+			add_header CDN-Cache-Control \"public, max-age=2592000\" always;
+			add_header Link \$fc_pdf_canonical always;
+		}
+
 		location ~* \\.xsl\$ {
 			root         ${ROOT};
 			default_type text/xsl;
@@ -189,6 +199,13 @@ ${NEWS_LOCATION}
 	include ${CONF_DIR}/nginx.ssl.conf_*;
 }
 "
+
+# PDF path -> canonical Link header, at http level so both server blocks can use it. The map file
+# is written by scripts/news-publish.sh from the /news/ build (dist/news-data/pdf-canonical.map).
+PDF_MAP=/etc/nginx/freshcalendars/pdf-canonical.map
+mkdir -p "$(dirname "$PDF_MAP")"
+[[ -f "$PDF_MAP" ]] || : >"$PDF_MAP"
+printf 'map $uri $fc_pdf_canonical {\n\tdefault "";\n\tinclude %s;\n}\n' "$PDF_MAP" >/etc/nginx/conf.d/freshcalendars-pdf-map.conf
 
 printf '%s\n' "$HTTP_BODY" >"/etc/nginx/conf.d/domains/${DOMAIN}.conf"
 printf '%s\n' "$HTTP_BODY" >"${CONF_DIR}/nginx.conf"

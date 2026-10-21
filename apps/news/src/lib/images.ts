@@ -18,12 +18,10 @@ export interface HeroImages {
 }
 
 export async function heroImages(src: ImageMetadata): Promise<HeroImages> {
-  // The main image feeds og:image, twitter:image and JSON-LD: JPEG, because LinkedIn and some
-  // messaging apps drop WebP link previews. Page images and the extra crops stay WebP.
-  const main = await getImage({ src, ...HERO_MAIN, fit: "cover", format: "jpg", quality: 82 });
+  const main = await getImage({ src, ...HERO_MAIN, fit: "cover", format: "webp" });
   const crops = await Promise.all(HERO_CROPS.map((c) => getImage({ src, ...c, fit: "cover", format: "webp" })));
   return {
-    main: { url: abs(main.src), ...HERO_MAIN, type: "image/jpeg" },
+    main: { url: abs(main.src), ...HERO_MAIN, type: "image/webp" },
     crops: crops.map((c, i) => ({ url: abs(c.src), ...HERO_CROPS[i]! })),
   };
 }

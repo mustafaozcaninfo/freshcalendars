@@ -24,6 +24,16 @@ unset NEWS_INCLUDE_DRAFTS NEWS_SITE_ORIGIN NEWS_PER_PAGE
 env ${NEWS_BUILD_ENV:-} pnpm --silent news:build >/dev/null
 node scripts/news-verify.mjs "$DIST"
 
+# Printable PDF -> story canonical map for nginx (scripts/hestia-apply-nginx-cache.sh includes it).
+# Installed and reloaded only when it changed; a failing config test restores the previous map.
+PDF_MAP_SRC="$ROOT/dist/news-data/pdf-canonical.map" PDF_MAP=/etc/nginx/freshcalendars/pdf-canonical.map
+if [[ "$(id -u)" == "0" && -f "$PDF_MAP_SRC" && -d "$(dirname "$PDF_MAP")" ]] && ! cmp -s "$PDF_MAP_SRC" "$PDF_MAP"; then
+  cp "$PDF_MAP" "$PDF_MAP.prev" 2>/dev/null || : >"$PDF_MAP.prev"
+  cp "$PDF_MAP_SRC" "$PDF_MAP"
+  if nginx -t >/dev/null 2>&1; then systemctl reload nginx && echo "[news] pdf canonical map updated ($(grep -c '\.pdf' "$PDF_MAP") PDFs)"
+  else cp "$PDF_MAP.prev" "$PDF_MAP"; echo "[news] pdf canonical map rejected by nginx -t; kept the previous one"; fi
+fi
+
 mkdir -p "$TARGET"
 # Itemized dry run → list of changed/deleted paths (files only).
 CHANGES=()

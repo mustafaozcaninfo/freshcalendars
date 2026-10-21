@@ -1,9 +1,10 @@
-import { mkdir, readdir, rename, rm } from "node:fs/promises";
+import { mkdir, readFile, readdir, rename, rm } from "node:fs/promises";
 import path from "node:path";
 import { fileURLToPath } from "node:url";
 import { defineConfig } from "astro/config";
 import { rehypeMidArticleAd } from "./src/lib/ad-units.mjs";
 import { minifyHtmlDir } from "./src/lib/minify-html.mjs";
+import { stampPdfs } from "./src/lib/pdf-meta.mjs";
 
 /** Astro leaves content-layer/server chunks in an outDir outside the project; none of it is public.
  *  Also moves latest.json (calendar-site data) to dist/news-data/. */
@@ -30,6 +31,21 @@ const cleanBuildLeftovers = {
  * Output goes to dist/news (outside dist/site, which the calendar generator wipes)
  * and is deployed on its own to public_html/news/. See docs/NEWS-ROADMAP.md.
  */
+/** Printable PDFs: document properties, top link and the nginx canonical map (src/lib/pdf-meta.mjs). */
+const stampPrintables = {
+  name: "stamp-printables",
+  hooks: {
+    "astro:build:done": async ({ dir, logger }) => {
+      const out = fileURLToPath(dir), json = path.join(out, "pdf-map.json");
+      const data = path.join(out, "..", "news-data");
+      await mkdir(data, { recursive: true });
+      const n = await stampPdfs(out, JSON.parse(await readFile(json, "utf8")), path.join(data, "pdf-canonical.map"));
+      await rm(json);
+      logger.info(`stamped ${n} printable PDFs`);
+    },
+  },
+};
+
 /** Squeezes the whitespace compressHTML cannot reach (see src/lib/minify-html.mjs). */
 const minifyHtml = {
   name: "minify-html",
@@ -53,7 +69,7 @@ export default defineConfig({
     inlineStylesheets: "always",
     assets: "_astro",
   },
-  integrations: [cleanBuildLeftovers, minifyHtml],
+  integrations: [cleanBuildLeftovers, stampPrintables, minifyHtml],
   markdown: { rehypePlugins: [rehypeMidArticleAd] },
   devToolbar: { enabled: false },
   vite: {
