@@ -4,6 +4,7 @@ seoTitle: "Halloween 2026 on Saturday: Sunset and Dark by City"
 description: "Halloween 2026 is Saturday, Oct. 31, the first Saturday Halloween since 2020, and clocks fall back hours later. Sunset and dark times for 16 U.S. cities."
 type: news
 publishedAt: "2026-10-19T10:25:00-04:00"
+updatedAt: "2026-10-21T13:01:00-04:00"
 authors: [news-desk]
 category: holidays
 keywords: ["Halloween 2026", "Halloween 2026 Saturday", "trick or treat times 2026", "sunset on Halloween 2026", "Halloween daylight saving time 2026"]
@@ -27,9 +28,17 @@ faq:
     a: "Not during trick-or-treating. Clocks fall back at 2 a.m. on Sunday, Nov. 1, long after most Halloween events end. At that moment 2 a.m. becomes 1 a.m., so the 1 a.m. hour happens twice."
   - q: "What are trick-or-treat hours in 2026?"
     a: "Hours are set by each city or town, not nationally, and most fall in the early evening. Check your local government's announcement. Our table shows when it gets dark in 16 cities."
+  - q: "Is Halloween a federal holiday?"
+    a: "No. Halloween is not one of the 11 federal holidays, and the Federal Reserve's bank holiday calendar does not include it. On Saturday, Oct. 31, 2026, mail delivery and bank hours follow the usual Saturday schedule."
   - q: "Is there a full moon on Halloween 2026?"
     a: "No. The full moon is Oct. 26. On Halloween the Moon is a waning gibbous, about 63% lit, and it rises around 11 p.m. in most U.S. cities."
 sources:
+  - title: "Federal Holidays"
+    url: "https://www.opm.gov/policy-data-oversight/pay-leave/federal-holidays/"
+    publisher: "U.S. Office of Personnel Management"
+  - title: "Federal Reserve Bank Holidays"
+    url: "https://www.federalreserve.gov/aboutthefed/k8.htm"
+    publisher: "Board of Governors of the Federal Reserve System"
   - title: "Sun and Moon Data for One Day"
     url: "https://aa.usno.navy.mil/data/RS_OneDay"
     publisher: "U.S. Naval Observatory, Astronomical Applications Department"
@@ -101,6 +110,10 @@ Most phones change on their own; oven and car clocks may not. Hawaii and most of
 ## The Moon on Halloween
 
 The Hunter's Moon is full on Oct. 26, five days earlier, so on Halloween night the Moon is a waning gibbous, about 63% lit. It rises late, around 11 p.m. in most cities, which makes the trick-or-treat hours unusually dark. Reflective tape, glow sticks or a small flashlight help drivers see children.
+
+## Is Halloween a holiday? What is open
+
+Halloween is not a federal holiday, so nothing closes for it. The 11 federal holidays are set by law and listed by the Office of Personnel Management; the Federal Reserve's holiday calendar, which banks follow, does not include Oct. 31 either. In 2026 Halloween is a Saturday, so the usual Saturday schedule applies: the Postal Service delivers mail and banks keep their Saturday hours. Stores set their own hours, so check your local store if you are shopping late. The stock market is closed, as on every Saturday. If you plan to stay up for World Series Game 7, it would start at 8 p.m. Eastern Time (ET) that night if the series goes the distance; see the [World Series 2026 schedule](/news/world-series-2026-schedule-game-times-tv-channel/).
 
 ## What follows Halloween
 

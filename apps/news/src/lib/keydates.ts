@@ -56,6 +56,8 @@ export const KEY_DATES: KeyDate[] = [
   { date: "2027-01-01", label: "New Year's Day, first federal holiday of 2027", slug: "federal-holidays-2027-observed-dates-list" },
   { date: "2027-03-26", label: "Good Friday: stock market closed", slug: "stock-market-holidays-2027-nyse-closed-dates" },
   { date: "2027-03-26", label: "Ultra Music Festival in Miami (March 26-28)", slug: "ultra-music-festival-2027-miami-dates-march-26-28" },
+  { date: "2026-10-22", label: "This day in history: Oct. 22", slug: "october-22-2026-this-day-in-history-observances" },
+  { date: "2026-10-23", label: "Mole Day, 6:02 a.m. to 6:02 p.m.", slug: "mole-day-2026-october-23-6-02" },
   { date: "2026-10-23", label: "World Series Game 1, 8 p.m. ET on FOX", slug: "world-series-2026-schedule-game-times-tv-channel" },
   { date: "2026-10-24", label: "DEA Prescription Drug Take Back Day, 10 a.m.-2 p.m.", slug: "dea-drug-take-back-day-october-24-2026-locations" },
   { date: "2026-10-25", label: "Hunter's Moon rises at sunset (full 12:12 a.m. EDT Oct. 26)", slug: "hunters-moon-october-2026-full-moon-time" },
