@@ -20,6 +20,7 @@ import { buildElection2026Downloads } from "./election2026.js";
 import { buildGta6Downloads } from "./gta6.js";
 import { buildVeteransDownloads } from "./veterans.js";
 import { buildShoppingDownloads } from "./shopping2026.js";
+import { buildSkyDownloads } from "./sky2026.js";
 import { buildHeroes4 } from "./heroes4.js";
 import { ROOT } from "./paths.js";
 import { purgeDoCdn, syncCdnAssets } from "./spaces.js";
@@ -129,6 +130,8 @@ async function main(): Promise<void> {
       await buildVeteransDownloads();
     } else if (cmd === "news-shopping") {
       await buildShoppingDownloads();
+    } else if (cmd === "news-sky") {
+      await buildSkyDownloads();
     } else if (cmd === "rollover") {
       const to = Number(argValue("--to"));
       if (!to) throw new Error("--to YYYY required");
@@ -171,6 +174,7 @@ async function main(): Promise<void> {
   pnpm fc news-gta6                        # /news/ GTA 6 launch countdown calendar
   pnpm fc news-veterans                    # /news/ Veterans Day free meals cheat sheet
   pnpm fc news-shopping                    # /news/ Black Friday planner + Christmas Eve checklist (3 themes each)
+  pnpm fc news-sky                         # /news/ Orionid viewing times + checklist (night, ink)
   pnpm fc news-heroes3                     # /news/ hero illustrations for the Oct. 20, 2026 batch
   pnpm fc news-datelists3                  # /news/ sunset times, Hunter's Moon, 2027 tax calendar, late October, winter break
   pnpm fc refresh-evergreen
