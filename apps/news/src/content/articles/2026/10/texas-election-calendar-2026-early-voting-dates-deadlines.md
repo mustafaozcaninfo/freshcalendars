@@ -4,6 +4,7 @@ seoTitle: "Texas Election Calendar 2026: Early Voting and Deadlines"
 description: "Texas early voting runs Oct. 19-30, 2026, mail ballot applications are due Oct. 23 and polls are open 7 a.m.-7 p.m. Nov. 3. Every 2026 date, with a printable."
 type: news
 publishedAt: "2026-10-21T15:30:00-04:00"
+updatedAt: "2026-10-21T17:16:00-04:00"
 authors: [news-desk]
 category: planning
 keywords: ["Texas election calendar 2026", "Texas early voting dates 2026", "Texas election schedule 2026", "Texas mail ballot deadline 2026", "Texas primary runoff 2026 date"]
@@ -78,7 +79,7 @@ draft: false
 | Sat., Oct. 31-Mon., Nov. 2 | No early voting |
 | Tue., Nov. 3, 7 a.m.-7 p.m. | Election Day; mailed ballots due by 7 p.m. |
 | Wed., Nov. 4, 5 p.m. | Mailed ballots postmarked by 7 p.m. Nov. 3 still count if they arrive by now |
-| Mon., Nov. 9 | Ballots from overseas and military voters due; last day to fix a mail ballot flagged as defective |
+| Mon., Nov. 9 | Ballots from overseas and military voters due; last day to fix a flagged mail ballot in person at the early voting clerk's office |
 
 The voter registration deadline for this election was Monday, Oct. 5. The 30th day before the election fell on a Sunday, so the state moved the deadline to the next business day.
 
@@ -88,12 +89,13 @@ The election law calendar sets how long a county's main early voting site must s
 
 | Days | Minimum at the main site |
 |---|---|
-| Mon., Oct. 19-Fri., Oct. 23 | 9 hours each day |
+| Mon., Oct. 19-Thu., Oct. 22 | 9 hours each day |
+| Fri., Oct. 23 | 12 hours |
 | Sat., Oct. 24 | 12 hours |
 | Sun., Oct. 25 | 6 hours |
 | Mon., Oct. 26-Fri., Oct. 30 | 12 hours each day |
 
-Weekday early voting cannot start before 6 a.m. or run past 10 p.m. Sunday voting cannot start before 9 a.m. The busiest stretch is usually the final week, when every weekday has at least 12 hours.
+Weekday early voting cannot start before 6 a.m. or run past 10 p.m. Sunday voting cannot start before 9 a.m. The Secretary of State's calendar sets 12 hours for Friday, Oct. 23, and for every weekday of the final week, Oct. 26-30.
 
 ## Mail ballot deadlines
 
@@ -102,7 +104,7 @@ Texas allows voting by mail for people who are 65 or older on Election Day, sick
 - **Application:** it must reach the early voting clerk by Friday, Oct. 23, by the close of regular business or noon, whichever is later. You can deliver it in person, mail it, or send it by email or fax. An emailed or faxed copy needs the original to reach the clerk within four business days.
 - **Ballot:** due by 7 p.m. on Nov. 3. A ballot mailed in the United States with a postmark or receipt mark of 7 p.m. Nov. 3 or earlier counts if it arrives by 5 p.m. Wednesday, Nov. 4.
 - **Overseas and military voters:** ballots sent by 7 p.m. Nov. 3 count if they arrive by Monday, Nov. 9. Some voters who applied with a Federal Post Card Application (FPCA) do not need a postmark.
-- **Fixing a problem:** if the clerk flags a defect on your carrier envelope, you can correct it through the sixth day after the election, Monday, Nov. 9.
+- **Fixing a problem:** if the clerk flags a defect on your carrier envelope, you can correct certain defects in person at the early voting clerk's office through the sixth day after the election, Monday, Nov. 9.
 
 Deadlines in other states are in our [mail ballot deadlines by state](/news/mail-ballot-deadlines-2026-by-state/) guide.
 

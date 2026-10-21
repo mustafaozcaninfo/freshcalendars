@@ -22,7 +22,7 @@ type Kind = "reg" | "ev" | "mail" | "eday" | "after" | "none";
 const MARKS: [number, number, Kind, string][] = [
   [9, 5, "reg", "Last day to register"],
   [9, 19, "ev", "Early voting, 9+ hrs"], [9, 20, "ev", "9+ hrs"], [9, 21, "ev", "9+ hrs"], [9, 22, "ev", "9+ hrs"],
-  [9, 23, "mail", "Mail ballot applications due · 9+ hrs"], [9, 24, "ev", "12+ hrs"], [9, 25, "ev", "Sunday, 6+ hrs"],
+  [9, 23, "mail", "Mail ballot applications due · 12+ hrs"], [9, 24, "ev", "12+ hrs"], [9, 25, "ev", "Sunday, 6+ hrs"],
   [9, 26, "ev", "12+ hrs"], [9, 27, "ev", "12+ hrs"], [9, 28, "ev", "12+ hrs"], [9, 29, "ev", "12+ hrs"], [9, 30, "ev", "Last day of early voting, 12+ hrs"],
   [9, 31, "none", "No early voting"], [10, 1, "none", "No early voting"], [10, 2, "none", "No early voting"],
   [10, 3, "eday", "Election Day, 7 a.m.-7 p.m."], [10, 4, "after", "Postmarked mail ballots due 5 p.m."],
@@ -34,7 +34,7 @@ const COLOR: Record<Kind, string> = { reg: "#64748b", ev: "#0f766e", mail: "#7c3
 const YEAR: [string, [string, string][]][] = [
   ["March 3 primary", [["Mon., Feb. 2", "Last day to register"], ["Tue., Feb. 17-Fri., Feb. 27", "Early voting"], ["Fri., Feb. 20", "Mail ballot applications due"], ["Tue., March 3", "Primary Election Day"]]],
   ["May 26 primary runoff", [["Mon., April 27", "Last day to register"], ["Fri., May 15", "Mail ballot applications due"], ["Mon., May 18-Fri., May 22", "Early voting"], ["Tue., May 26", "Runoff Election Day"]]],
-  ["After Nov. 3", [["Mon., Nov. 9", "Last day to fix a mail ballot flagged as defective"], ["Sat., Nov. 21", "Earliest date for the state canvass"], ["Sat., Dec. 12", "Runoffs for local Nov. 3 races"]]],
+  ["After Nov. 3", [["Mon., Nov. 9", "Last day to fix a flagged mail ballot, in person"], ["Sat., Nov. 21", "Earliest date for the state canvass"], ["Sat., Dec. 12", "Runoffs for local Nov. 3 races"]]],
 ];
 
 function month(m: number): string {
