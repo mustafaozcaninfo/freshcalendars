@@ -153,6 +153,8 @@ export type StateSheet = {
   candidates?: [string, string[]][];
   /** Heading over the candidate list when ballot order is not the order given. */
   candidatesLabel?: string;
+  /** Blank lines under "Local races and notes" (default 14 with candidates, 12 without). */
+  localLines?: number;
 };
 export function stateSheet(fonts: string, s: StateSheet): string {
   const dates = s.dates.map(([d, w]) => `<li><b>${d}</b><span>${w}</span></li>`).join("");
@@ -187,8 +189,8 @@ export function stateSheet(fonts: string, s: StateSheet): string {
   const page = `<section class="page st"><header><div><h1>${s.state} Ballot Checklist, Nov. 3, 2026</h1><p class="sub">Copy your choices from your official sample ballot, then take this sheet with you · nonpartisan</p></div><div class="badge">Election Day · Tue., Nov. 3</div></header>
     <div class="grid"><div><h2>Key dates</h2><ul>${dates}</ul><h2>My voting plan</h2><div class="plan"><p>How I'll vote: in person early · by mail · on Election Day</p><p>Where:</p><p>When:</p><p>ID I'll bring:</p><p>Ride / childcare:</p></div></div>
     <div><h2>${s.candidatesLabel ?? (s.candidates ? "Statewide races (candidates in ballot order)" : "Statewide races")}</h2><div class="offs">${offices}</div>
-    <h2>${s.measureLabel}</h2>${measures}</div></div>
-    <h2 class="loc">Local races and notes</h2><div class="lines">${Array.from({ length: s.candidates ? 14 : 12 }, () => "<p></p>").join("")}</div>
+    ${s.measures.length ? `<h2>${s.measureLabel}</h2>${measures}` : ""}</div></div>
+    <h2 class="loc">Local races and notes</h2><div class="lines">${Array.from({ length: s.localLines ?? (s.candidates ? 14 : 12) }, () => "<p></p>").join("")}</div>
     <p class="note">${s.note}</p>
     <div class="foot">Free printable from Fresh Calendars · ${s.site}</div></section>`;
   return doc(fonts, LETTER, css, [page]);
