@@ -79,7 +79,21 @@ Valid calendar-site links: check that the page answers on freshcalendars.com bef
 ## 4. Hero image and printables
 
 - Hero: 2400×1350 JPEG in `apps/news/src/assets/news/<slug>/`. Draw it with code, like the existing generators (`packages/generator/src/heroes5.ts`): HTML/SVG rendered by Playwright, saved with sharp. Add your script as `packages/generator/src/<topic>.ts` and register a `news-<topic>` command in `cli.ts`, then run `pnpm fc news-<topic>`. No stock photos or images you don't have rights to; no answers in puzzle heroes.
-- Printables (when they help the reader: checklists, trackers, calendars): PDF + PNG in `apps/news/public/downloads/<group>/`, preview PNG in `apps/news/src/assets/news/<group>/`, listed under `downloads:` in frontmatter. See `packages/generator/src/november2026.ts` or `shopping2026.ts` for the pattern. Offer 2-3 styles when it is cheap (classic, color, ink saver).
+- Printables (when they help the reader: checklists, trackers, calendars): PDF + PNG in `apps/news/public/downloads/<group>/`, preview PNG in `apps/news/src/assets/news/<group>/`, listed under `downloads:` in frontmatter. See `packages/generator/src/oct24.ts` or `november2026.ts` for the pattern, and render with `renderPrintables()` from `printables.ts`. Offer 2-3 styles when it is cheap (classic, color, ink saver).
+
+### Printable PDF rules (Google's guidance on PDFs; checked by `10-PDF-*` in the audit)
+
+Write the template so the PDF is good on its own, because Google indexes PDFs like pages:
+
+- **Real text, never page images.** Build the sheet in HTML/SVG and let `renderPrintables()` print it with Chromium; do not screenshot a page into the PDF or embed the whole sheet as one image. Test: select all text in the PDF and paste it; it must come out readable.
+- **US Letter, usually one page** (`LETTER` from `julian.ts`; two pages only when the content needs it), under 5 MB, fonts from `fontFaces()`. Keep at least 18 pt clear at the top right: the build puts a small "freshcalendars.com" link there.
+- **A clear `<h1>` title on the sheet** that matches the `downloads[].title` in frontmatter, and a footer with `Free printable from Fresh Calendars · freshcalendars.com/news/<slug>/` (the `.foot` class).
+- **Sources and dates on the sheet** in a short note line, the same facts as the story. Nothing on a printable that the story does not support.
+- **No third-party art, logos or brand marks.** Draw everything; name brands in text only.
+- **File names:** lowercase kebab-case with the year (`black-friday-planner-2026-bold.pdf`). If the content changes in a big way after publishing, give the file a new name so search engines refetch it, and update the frontmatter.
+- **`downloads[].title` (5-80 characters) and `description` (20-200)** become the PDF's title and subject, so write them as you would a page title and meta description.
+
+You do not add metadata by hand. On every build `apps/news/src/lib/pdf-meta.mjs` stamps each PDF that a story lists: title, author (Fresh Calendars), subject, keywords (the story's keywords plus "free printable"), language en-US, the story's dates, copyright and the terms-of-use license, "show title" for viewers, the top link to the story, and an entry in the nginx map that sends `Link: <story>; rel="canonical"` with the file. A PDF that no story lists gets none of this, so always list it under `downloads:`.
 
 ## 5. Check
 
@@ -87,7 +101,7 @@ Valid calendar-site links: check that the page answers on freshcalendars.com bef
 pnpm news:build && pnpm news:verify && pnpm news:seo-audit && pnpm test
 ```
 
-All must pass. Then read the page: `pnpm news:serve` and open `http://localhost:4324/news/<slug>/`. Check the hero, tables on a narrow window, and that every link opens.
+All must pass, including `10-PDF-FILES`, `10-PDF-PROPERTIES` and `10-PDF-LINK-CANONICAL` for any printable. Open one PDF from `dist/news/downloads/<group>/` and check the title in the viewer's title bar, the top-right link and that the text can be selected. Then read the page: `pnpm news:serve` and open `http://localhost:4324/news/<slug>/`. Check the hero, tables on a narrow window, and that every link opens.
 
 Fix failures at the source (shorten the title, expand the abbreviation, correct the link); never weaken a check to make it pass.
 

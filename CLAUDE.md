@@ -40,6 +40,7 @@ Do not run Lighthouse (`news:lighthouse`, `smoke:lighthouse`). The goal is fast,
 - Banned words and patterns are listed in `scripts/news-seo-audit.mjs` (BANNED_EN, em dashes, "not X but Y", "in conclusion"). Write plainly, vary sentence length.
 - No superlatives you cannot source ("biggest ever"), no invented people or quotes. Byline is `news-desk` unless the editor adds a named author.
 - Every story links at least two calendar pages (`internalLinks`) and up to three related /news/ stories (`related`).
+- Printable PDFs are real text drawn by our generators (never page images or third-party art) and are listed under the story's `downloads:`. The build stamps their metadata, license, top link and canonical (`apps/news/src/lib/pdf-meta.mjs`); never edit PDFs by hand. Rules: "Printable PDF rules" in the `news-article` skill; the audit's `10-PDF-*` checks must pass.
 
 ## Frontmatter limits (enforced by `apps/news/src/content.config.ts`)
 

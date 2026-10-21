@@ -453,6 +453,55 @@ check("08-NO-OPINION", "No first-person opinion in factual news prose (§08 l.22
 check("01-THIN", "No thin stories: at least 300 words of body text (§02 l.548, §08 token economy)", () =>
   each(articleUrls, (u) => { const n = ART(u).wordCount ?? 0; return n >= 300 ? null : `${n} words`; }));
 
+// ── 10 Printable PDFs (Google, Search Off the Record "PDF files"; apps/news/src/lib/pdf-meta.mjs) ──
+// Byte-level reads are enough: pdf-meta saves without object streams, so dictionaries stay plain.
+const PDF_MAX = 5 * 1024 * 1024;
+const pdfLinks = (h) => [...new Set([...h.matchAll(/href="(\/news\/downloads\/[^"]+\.pdf)"/g)].map((m) => m[1]))];
+const pngLinks = (h) => [...new Set([...h.matchAll(/href="(\/news\/downloads\/[^"]+\.png)"/g)].map((m) => m[1]))];
+const fileOf = (u) => path.join(dist, u.replace(/^\/news\//, ""));
+const pdfMapFile = path.join(dist, "..", "news-data", "pdf-canonical.map");
+const pdfMap = existsSync(pdfMapFile)
+  ? new Map([...readFileSync(pdfMapFile, "utf8").matchAll(/^"~\^(\S+?)\$" "<([^>]+)>/gm)].map((m) => [m[1].replace(/\\(.)/g, "$1"), m[2]]))
+  : new Map();
+const pdfBytes = (u) => readFileSync(fileOf(u)).toString("latin1");
+check("10-PDF-FILES", "Every printable a story offers exists as PDF and PNG, the PDF under 5 MB and text-based (fonts, not page images)", () =>
+  each(articleUrls, (u, h) => {
+    const bad = [];
+    for (const f of [...pdfLinks(h), ...pngLinks(h)]) if (!existsSync(fileOf(f))) bad.push(`missing ${f}`);
+    for (const f of pdfLinks(h).filter((x) => existsSync(fileOf(x)))) {
+      if (statSync(fileOf(f)).size > PDF_MAX) bad.push(`${f} over 5 MB`);
+      if (!/\/Font\b/.test(pdfBytes(f))) bad.push(`${f} has no text layer`);
+    }
+    return bad.length ? bad.join("; ") : null;
+  }));
+check("10-PDF-PROPERTIES", "Printable PDFs carry title, author, subject, keywords, en-US language, shown title, copyright and the terms-of-use license", () =>
+  each(articleUrls, (u, h) => {
+    const bad = [];
+    for (const f of pdfLinks(h).filter((x) => existsSync(fileOf(x)))) {
+      const b = pdfBytes(f);
+      const miss = ["/Title", "/Author", "/Subject", "/Keywords", "/Copyright", "/Lang (en-US)", "/DisplayDocTitle true", "xmpRights:WebStatement>https://freshcalendars.com/page/terms-of-use/"].filter((k) => !b.includes(k));
+      if (miss.length) bad.push(`${f}: ${miss.join(", ")}`);
+    }
+    return bad.length ? bad.join("; ") : null;
+  }));
+check("10-PDF-LINK-CANONICAL", "Each printable PDF links to its story from the top of the page and is in the nginx canonical map (Link rel=canonical)", () =>
+  each(articleUrls, (u, h) => {
+    const bad = [];
+    for (const f of pdfLinks(h).filter((x) => existsSync(fileOf(x)))) {
+      const story = pdfMap.get(f);
+      if (!story) { bad.push(`${f} not in pdf-canonical.map`); continue; }
+      if (!html[story.replace(/^https:\/\/[^/]+/, "")]) bad.push(`${f} canonical ${story} is not a built story`);
+      if (!pdfBytes(f).includes(`/URI (${story})`)) bad.push(`${f} has no top link to ${story}`);
+    }
+    return bad.length ? bad.join("; ") : null;
+  }));
+warn("10-PDF-ORPHANS", "Printable PDFs that no story links to (not stamped, no canonical) — informational", () => {
+  const linked = new Set(articleUrls.flatMap((u) => pdfLinks(html[u])));
+  const all = [];
+  (function walk(d) { if (!existsSync(d)) return; for (const f of readdirSync(d)) { const p = path.join(d, f); if (statSync(p).isDirectory()) walk(p); else if (f.endsWith(".pdf")) all.push("/news/" + path.relative(dist, p).split(path.sep).join("/")); } })(path.join(dist, "downloads"));
+  return all.filter((f) => !linked.has(f));
+});
+
 warn("02-OXFORD", "Oxford comma use is not 100% uniform (§02 B l.610) — informational", () => {
   const all = articleUrls.map((u) => plain(proseOf(html[u]))).join(" ");
   const withC = (all.match(/\w+, \w+(?: \w+)?, (and|or) \w+/g) ?? []).length;
