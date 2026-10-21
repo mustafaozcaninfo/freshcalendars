@@ -123,3 +123,5 @@ Canadian Thanksgiving falls on the second Monday of October. In 2026 it was Mond
 - Order groceries and book travel early; the Tuesday and Wednesday before the holiday are usually the busiest.
 - Mail cards or packages by Tuesday, Nov. 24 if they need to arrive before the holiday.
 - If you trade stocks, remember the 1:00 p.m. ET close on Friday.
+- Check store hours before you go: [Costco closes on Thanksgiving](/news/costco-holiday-hours-closures-2026-2027/), [Black Friday 2026 store hours](/news/black-friday-2026-store-hours-walmart-target-best-buy/) lists who opens when on Nov. 27, and the [USPS holiday shipping deadlines](/news/usps-holiday-shipping-deadlines-2026/) list the last mailing days for December gifts.
+- See everything else this month in [November 2026 important dates](/news/november-2026-important-dates-days-until/).

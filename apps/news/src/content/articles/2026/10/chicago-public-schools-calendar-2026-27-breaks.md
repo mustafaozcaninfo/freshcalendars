@@ -114,3 +114,5 @@ Because Labor Day was late this year, the first semester ends after winter vacat
 High school graduations cannot be held before Friday, May 28, 2027, and elementary graduations not before Monday, June 7. Summer programs can start as early as July 6, 2027. June 15-17 and 21-22 are emergency days, added only if snow or other closures push student days below the state minimum.
 
 Our free printable puts every date on one page. For the full year on paper, see our [printable school-year calendar](/printable-school-calendar.html), or plan the next breaks on the [November 2026](/november-calendars.html) and [March 2027](/march-calendars.html) calendars. New York City families can compare the [NYC public schools 2026-27 calendar](/news/nyc-public-schools-calendar-2026-27-breaks-holidays/), and our [Veterans Day 2026 story](/news/veterans-day-2026-wednesday-november-11/) lists what else is closed on Nov. 11.
+
+Other large districts' December dates are in our [winter break 2026 roundup](/news/winter-break-2026-school-districts-dates/).

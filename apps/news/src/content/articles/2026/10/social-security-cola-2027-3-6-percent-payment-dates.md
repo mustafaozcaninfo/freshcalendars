@@ -138,3 +138,5 @@ SSA says people with a personal my Social Security account can read their COLA n
 | December 2026 | Paper COLA notices arrive by mail |
 | Thursday, Dec. 31, 2026 | First SSI payment with the 3.6% increase |
 | Jan. 13, 20 and 27, 2027 | First Social Security payments with the 3.6% increase |
+
+Scammers use the COLA announcement as a hook every year; our [COLA scams guide](/news/social-security-cola-2027-scams-increase-chart/) shows what the agency will and will not send you. Medicare's open enrollment runs through Dec. 7 ([Medicare open enrollment 2026](/news/medicare-open-enrollment-2026-december-7-90-dollar-rebate/)), and the [2027 tax calendar](/news/tax-calendar-2027-irs-deadlines/) lists the IRS deadlines that follow.

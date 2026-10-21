@@ -115,4 +115,4 @@ Polls close from 6 p.m. Eastern in parts of Indiana and Kentucky to 1 a.m. Easte
 
 ## Use the tracker
 
-The free two-page printable below lists every Senate and governor's race with the time the state's polls close in Eastern Time, plus blank columns to write in the winner and when the race was called. Keep it next to the TV or your phone on election night, and use our [November](/november-calendars.html) and [December](/december-calendars.html) printable calendars for the dates that follow.
+The free two-page printable below lists every Senate and governor's race with the time the state's polls close in Eastern Time, plus blank columns to write in the winner and when the race was called. Keep it next to the TV or your phone on election night, and read [when results are expected in each state](/news/when-will-we-know-election-results-2026-midterms/) before you settle in; and use our [November](/november-calendars.html) and [December](/december-calendars.html) printable calendars for the dates that follow.

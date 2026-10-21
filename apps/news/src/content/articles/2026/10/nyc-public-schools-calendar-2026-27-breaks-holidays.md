@@ -116,3 +116,5 @@ Regents exams run Jan. 26-29 and June 15-18 and 21-25, 2027. The spring semester
 This calendar covers NYC public schools from 3-K through grade 12. Charter, private and parochial schools, NYC Early Education Centers and family child care programs set their own dates. On snow days or emergencies, NYCPS may hold school remotely rather than close.
 
 The free one-page printable below lists every date. For a wall planner covering the whole school year, see our [printable school-year calendar](/printable-school-calendar.html), or the [November](/november-calendars.html) and [December 2026](/december-calendars.html) monthly calendars for the next two recesses. Families in Chicago can compare the [Chicago Public Schools 2026-27 calendar](/news/chicago-public-schools-calendar-2026-27-breaks/).
+
+For winter break in Chicago, Miami-Dade and other large districts, see the [winter break 2026 roundup](/news/winter-break-2026-school-districts-dates/).

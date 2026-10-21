@@ -1,12 +1,13 @@
 ---
-title: "Is Election Day a Holiday? What's Open and Closed on Nov. 3, 2026, From Banks and Mail to Schools"
-seoTitle: "Is Election Day a Holiday? What's Open Nov. 3, 2026"
-description: "Election Day, Nov. 3, 2026, is not a federal holiday: banks, post offices and stock markets are open. The 11 states that make it a holiday, and school closures."
+title: "Is Election Day a Holiday? Is the DMV, Bank or Post Office Open on Nov. 3, 2026? What's Open and Closed"
+seoTitle: "Is the DMV, Bank or Post Office Open on Election Day 2026?"
+description: "Election Day, Nov. 3, 2026, is not a federal holiday; banks and post offices open. Where motor vehicle offices (DMV) close, the 11 holiday states and schools."
 type: explainer
 publishedAt: "2026-10-20T10:50:00-04:00"
+updatedAt: "2026-10-21T00:34:00-04:00"
 authors: [news-desk]
 category: holidays
-keywords: ["is election day a holiday", "is election day a federal holiday 2026", "are banks open on election day", "is mail delivered on election day", "election day 2026 school closed"]
+keywords: ["is election day a holiday", "is the DMV open on election day", "are banks open on election day", "is the post office open on election day", "election day 2026 school closed"]
 dateline: "Washington"
 hero:
   src: ../../../../assets/news/is-election-day-a-holiday-2026-whats-open/is-election-day-a-holiday-2026-whats-open.jpg
@@ -29,6 +30,8 @@ faq:
     a: "Yes. Election Day is not on the New York Stock Exchange holiday calendar."
   - q: "Which states make Election Day a holiday?"
     a: "Delaware, Hawaii, Illinois, Indiana, Maryland, Montana, New Jersey, New York, Rhode Island, Virginia and West Virginia, according to the Council of State Governments' Book of the States. Some sources also list Louisiana in even-numbered years. State holidays usually close state offices but do not require private employers to close."
+  - q: "Is the DMV open on Election Day 2026?"
+    a: "In most states, yes. State motor vehicle offices close in the states where Election Day is a state holiday in 2026, including Delaware, Hawaii, Illinois, Louisiana, Maryland, Montana, New Jersey, New York, Rhode Island, Virginia and West Virginia. Indiana's BMV has kept branches open on past election days, and Kentucky's holiday applies only in presidential years. Online DMV services stay available."
   - q: "Do I get time off work to vote?"
     a: "Many states require it. California and New York give up to two hours of paid time off if you do not have enough time to vote outside work, and Illinois also guarantees two hours. Rules differ on notice and pay, so check your state's labor or election office."
 sources:
@@ -38,6 +41,15 @@ sources:
   - title: "State Election Day holidays map (from the Book of the States)"
     url: "https://www.dayondemocracy.org/map"
     publisher: "Day On Democracy"
+  - title: "State of Delaware Holidays 2026"
+    url: "https://dhr.delaware.gov/holidays/2026.shtml"
+    publisher: "Delaware Department of Human Resources"
+  - title: "Kentucky Revised Statutes 2.190, Legal holidays"
+    url: "https://apps.legislature.ky.gov/law/statutes/statute.aspx?id=3433"
+    publisher: "Kentucky General Assembly"
+  - title: "Code of Virginia § 2.2-3300, Legal holidays"
+    url: "https://law.lis.virginia.gov/vacode/title2.2/chapter33/section2.2-3300/"
+    publisher: "Virginia General Assembly"
   - title: "Federal Reserve Holidays"
     url: "https://www.federalreserve.gov/aboutthefed/k8.htm"
     publisher: "Board of Governors of the Federal Reserve System"
@@ -74,6 +86,29 @@ draft: false
 
 The next federal holiday is [Veterans Day, Wednesday, Nov. 11](/news/veterans-day-2026-wednesday-november-11/), when post offices, federal offices and many banks close.
 
+## Is the DMV open on Election Day?
+
+In most of the country, yes: Nov. 3 is a normal Tuesday for driver's license and vehicle offices. Where Election Day is a state holiday, state offices close, and the motor vehicle agency closes with them.
+
+| State | Motor vehicle offices on Nov. 3, 2026 |
+|---|---|
+| Delaware | Closed (state holiday; Return Day, Nov. 5, is a half-day for state workers in Sussex County) |
+| Hawaii | Closed (state holiday) |
+| Illinois | Closed (Secretary of State facilities close for the general election) |
+| Louisiana | Closed (state holiday in even-numbered years) |
+| Maryland | Closed (state holiday) |
+| Montana | Closed (state holiday) |
+| New Jersey | Closed (state holiday) |
+| New York | Closed (state holiday) |
+| Rhode Island | Closed (state holiday) |
+| Virginia | Closed (state holiday) |
+| West Virginia | Closed (state holiday) |
+| Indiana | Usually open: Election Day is a state holiday, but the Bureau of Motor Vehicles (BMV) has kept branches open on past election days to issue ID cards for voting |
+| Kentucky | Open: the Election Day holiday applies only in presidential election years |
+| All other states | Open, normal hours |
+
+Delaware's 2026 state holiday calendar lists Election Day on Nov. 3; Kentucky's rule is in the Kentucky Revised Statutes (KRS), section 2.190, and Virginia's in § 2.2-3300 of the state code. Online services such as license renewals stay available in every state, and offices reopen on Wednesday, Nov. 4. County and city offices often follow the state but not always: in Virginia, some city offices stay open while Commonwealth offices close.
+
 ## States where Election Day is a holiday
 
 According to the Council of State Governments' Book of the States, general Election Day is a state holiday in **Delaware, Hawaii, Illinois, Indiana, Maryland, Montana, New Jersey, New York, Rhode Island, Virginia and West Virginia**. Other compilations also list Louisiana in even-numbered years, and Kentucky observes it only in presidential election years, so not in 2026.
@@ -98,7 +133,7 @@ There is no federal law guaranteeing time off to vote, but about half the states
 - **New York:** up to two hours of paid time if you do not have four consecutive hours to vote outside your working hours; notice is due two to 10 working days before Election Day (Election Law 3-110).
 - **Illinois:** up to two hours with advance notice.
 
-Early voting and mail voting make the issue less pressing, since 47 states offer some form of in-person voting before Election Day. If you plan to vote on Nov. 3, check [what time polls close](/news/what-time-do-polls-close-election-day-2026/) in your state and look up [your sample ballot by ZIP code](/news/sample-ballot-by-zip-code-2026-texas-ballot/) so you know every race before you go.
+Early voting and mail voting make the issue less pressing, since 47 states offer some form of in-person voting before Election Day. If you plan to vote on Nov. 3, check [what time polls close](/news/what-time-do-polls-close-election-day-2026/) in your state, see [when results are expected](/news/when-will-we-know-election-results-2026-midterms/), and look up [your sample ballot by ZIP code](/news/sample-ballot-by-zip-code-2026-texas-ballot/) so you know every race before you go.
 
 ## Why it isn't a federal holiday
 

@@ -4,6 +4,7 @@ seoTitle: "Veterans Day Free Meals 2026: Full List + Printable"
 description: "Free meals for veterans on Wednesday, Nov. 11, 2026: the deals confirmed so far, last year's offers to watch, ID and dine-in rules, and a printable cheat sheet."
 type: update
 publishedAt: "2026-10-20T16:55:00-04:00"
+updatedAt: "2026-10-20T17:05:00-04:00"
 authors: [news-desk]
 category: holidays
 keywords: ["Veterans Day free meals 2026", "Veterans Day discounts 2026", "Veterans Day restaurant deals", "free meals for veterans November 11", "Veterans Day freebies"]
@@ -36,6 +37,9 @@ sources:
     url: "https://www.military.com/veterans-day/restaurants-veterans-day-military-discounts.html"
     publisher: "Military.com"
     date: "2026-10-20"
+  - title: "Free Veterans Day Meal"
+    url: "https://www.chilis.com/restaurant-events/veterans-day"
+    publisher: "Chili's Grill & Bar"
   - title: "Fee-Free Days"
     url: "https://www.nps.gov/planyourvisit/fee-free-parks.htm"
     publisher: "National Park Service"
@@ -78,7 +82,7 @@ downloads:
 draft: false
 ---
 
-<p class="callout"><b>Last updated Oct. 20, 2026, 4:55 p.m. ET.</b> Nine chains have announced 2026 offers so far. Restaurants keep announcing through Nov. 10, and we add each deal once the chain or Military.com's list confirms it.</p>
+<p class="callout"><b>Last updated Oct. 20, 2026, 5:05 p.m. ET.</b> Nine chains have announced 2026 offers so far; Chili's has also posted its terms on its own site. Restaurants keep announcing through Nov. 10, and we add each deal once the chain or Military.com's list confirms it.</p>
 
 **Veterans and active-duty service members can eat free at a growing list of restaurants on Veterans Day, Wednesday, Nov. 11, 2026.** Nine chains have announced 2026 offers so far, according to Military.com's list updated Oct. 20. The biggest names, including Applebee's, Denny's, International House of Pancakes (IHOP) and Olive Garden, offered free meals last year and usually confirm in early November. Below are the 2026 deals, last year's terms for the chains still to announce, the fine print that trips people up, and a one-page cheat sheet to print.
 
@@ -90,7 +94,7 @@ All on Nov. 11, at participating locations, from Military.com's 2026 list:
 |---|---|---|
 | Bob Evans | Free meal from a select menu | **Dine-in only** |
 | Bonefish Grill | Free Bang Bang Shrimp and a nonalcoholic drink | **Valid ID**; veterans, active duty **and families** |
-| Chili's | Free meal from select items | **In-restaurant only** |
+| Chili's | Free meal from a limited Veterans Day menu | **Dine-in only, Nov. 11 only**; drinks and tip not included; no substitutions (Chili's) |
 | Golden Corral | Free "thank you" meal, Military Appreciation Night | **Dine-in, 4 p.m. to close** |
 | Hoss's Steak & Sea House | Free soup, salad, bread, nacho and dessert bar with iced tea | **Dine-in only**; plus a $10-off-$40 voucher good through Nov. 25 |
 | In-N-Out Burger | Free burger, fries and drink, plus a Veterans Day decal | **Proof of service**; veterans, active duty, Reserve and National Guard |

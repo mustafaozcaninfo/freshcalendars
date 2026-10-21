@@ -138,3 +138,5 @@ Under current rules, daylight saving time covers 238 days a year, about 65% of t
 ## What to watch next
 
 The Senate returns for its lame-duck session after the Nov. 3 election. If the bill is not passed before the 119th Congress ends on Jan. 3, 2027, it expires and would have to be introduced again in the next Congress. Until a law changes, the second Sunday in March and the first Sunday in November remain the national switch dates.
+
+For what the change does to your evenings, see [sunset times after the clocks fall back](/news/sunset-times-after-daylight-saving-time-ends-2026/). Britain and most of Europe switched a week earlier, on Oct. 25, as our [UK and Europe clock story](/news/uk-europe-clocks-go-back-october-25-2026-time-difference/) explains, and the rest of the month's dates are in [November 2026 important dates](/news/november-2026-important-dates-days-until/).

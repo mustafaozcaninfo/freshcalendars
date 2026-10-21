@@ -149,3 +149,5 @@ Thanksgiving is Thursday, Nov. 26, 2026. Thirteen of these districts give studen
 The Saturday that starts the break, Dec. 19, and the Sunday before school resumes, Jan. 3, are likely to be busy travel days in districts that share the Dec. 21-Jan. 1 break. Families in Los Angeles have an extra week, through Sunday, Jan. 10. Check whether your school has an early dismissal on Friday, Dec. 18, and plan around the Jan. 4 staff day if your district has one.
 
 Mark the dates on our [printable school-year calendar](/printable-school-calendar.html) and the [December](/december-calendars.html) and [January](/january-calendars.html) monthly calendars, see the [school holidays guide](/page/school-holidays/), or print the one-page district table below.
+
+Doing the last shopping with the kids home? Our [Christmas Eve and Christmas Day store hours](/news/christmas-eve-christmas-day-2026-store-hours/) list what closes early on Dec. 24.

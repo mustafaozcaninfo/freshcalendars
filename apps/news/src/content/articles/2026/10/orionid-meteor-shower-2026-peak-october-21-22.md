@@ -115,3 +115,5 @@ The moon looks full on both the evening of Oct. 25 and Oct. 26, rising in the ea
 | Nov. 1 | Daylight saving time ends in the U.S.; evenings get dark an hour earlier by the clock |
 
 If you want the clock change and the full moon on the same page, our [November 2026 printable calendar](/november-calendars.html) and the [daylight saving time story](/news/daylight-saving-time-ends-november-1-2026/) have the dates.
+
+The next showers are the Taurids and Leonids; see [November 2026 meteor showers](/news/november-2026-meteor-showers-taurids-leonids/).

@@ -182,3 +182,5 @@ Each date is the Gregorian day; observances held at night begin the evening befo
 ## How we checked these dates
 
 We compared three calendars: the FCNA calculated calendar followed by mosques across North America, the Umm al-Qura calendar published in Saudi Arabia, and the AlAdhan calendar service. All three give 1 Ramadan 1448 as Feb. 8 and 1 Shawwal as March 9, 2027. Prayer times were calculated for each city with the ISNA method and rounded to the minute. Moon-sighting committees announce their decisions on the evening of the 29th day of the month before: around Feb. 6 for Ramadan and March 8 for Eid.
+
+For the other lunar new year early in 2027, see [Lunar New Year 2027](/news/lunar-new-year-2027-year-of-the-goat/), and our [2027 moon phases calendar](/news/moon-phases-2027-full-moon-calendar/) lists every new and full moon of the year.

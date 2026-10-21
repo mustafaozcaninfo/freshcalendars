@@ -84,3 +84,5 @@ Costco's gas stations, pharmacies, optical centers and tire centers often keep d
 ## Not a federal holiday schedule
 
 Costco's list is not the same as the federal holiday list. Costco stays open on several federal holidays, including Veterans Day, Martin Luther King Jr. Day and Presidents' Day, and closes on Easter Sunday, which is not a federal holiday. Easter 2027 falls on March 28; see [when Easter falls](/when-is/easter/) each year. Shoppers buying holiday sets early, such as this year's [LEGO advent calendars](/news/lego-advent-calendars-2026-prices-whats-inside/), can also order online from Costco.com on days the warehouses are closed.
+
+For other chains, see our [Black Friday 2026 store hours](/news/black-friday-2026-store-hours-walmart-target-best-buy/) and [Christmas Eve and Christmas Day store hours](/news/christmas-eve-christmas-day-2026-store-hours/).

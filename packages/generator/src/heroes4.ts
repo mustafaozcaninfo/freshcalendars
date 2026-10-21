@@ -79,6 +79,41 @@ function vetsMeals(fonts: string): string {
     <div class="card" style="left:64px;top:390px;width:470px"><span>Bring proof of service</span><b>Printable deal sheet</b><span>Dine-in and ID rules for every offer</span></div>`);
 }
 
+/** Shared: a tilted calendar page with a month, a big day number and a weekday. */
+function calCard(x: number, y: number, rot: number, head: string, month: string, day: string, wd: string, ink: string): string {
+  return `<g transform="translate(${x},${y}) rotate(${rot})" filter="url(#sh)"><rect width="230" height="240" rx="18" fill="#fff"/><rect width="230" height="62" rx="18" fill="${head}"/><rect y="46" width="230" height="16" fill="${head}"/>
+    <text x="115" y="42" font-family="Sora" font-size="24" font-weight="800" fill="#fff" text-anchor="middle">${month}</text><text x="115" y="170" font-family="Sora" font-size="108" font-weight="800" fill="${ink}" text-anchor="middle">${day}</text><text x="115" y="218" font-family="Sora" font-size="21" font-weight="800" fill="${head}" text-anchor="middle">${wd}</text></g>`;
+}
+/** Shared: a wall clock showing h:m. */
+function clock(x: number, y: number, r: number, h: number, m: number, ring: string): string {
+  const a = ((h % 12) + m / 60) / 12 * Math.PI * 2, b = m / 60 * Math.PI * 2;
+  return `<g transform="translate(${x},${y})" filter="url(#sh)"><circle r="${r}" fill="#fff"/><circle r="${r - 10}" fill="none" stroke="${ring}" stroke-width="10"/>${Array.from({ length: 12 }, (_, k) => { const t = k / 12 * Math.PI * 2; return `<circle cx="${(r - 30) * Math.sin(t)}" cy="${-(r - 30) * Math.cos(t)}" r="${k % 3 ? 3 : 5}" fill="#334155"/>`; }).join("")}
+    <line x1="0" y1="0" x2="${(r * .45) * Math.sin(a)}" y2="${-(r * .45) * Math.cos(a)}" stroke="#0f172a" stroke-width="9" stroke-linecap="round"/><line x1="0" y1="0" x2="${(r * .68) * Math.sin(b)}" y2="${-(r * .68) * Math.cos(b)}" stroke="#0f172a" stroke-width="6" stroke-linecap="round"/><circle r="7" fill="${ring}"/></g>`;
+}
+const SH = `<defs><filter id="sh"><feDropShadow dx="0" dy="18" stdDeviation="18" flood-opacity=".35"/></filter></defs>`;
+
+function blackFridayHero(fonts: string): string {
+  const bag = `<g transform="translate(880,260) rotate(6)" filter="url(#sh)"><path d="M-40 -40 q0 -70 70 -70 q70 0 70 70" stroke="#facc15" stroke-width="14" fill="none"/><rect x="-110" y="-40" width="280" height="300" rx="20" fill="#facc15"/><text x="30" y="110" font-family="Sora" font-size="52" font-weight="800" fill="#111827" text-anchor="middle">SALE</text><text x="30" y="170" font-family="Sora" font-size="26" font-weight="800" fill="#111827" text-anchor="middle">BLACK FRIDAY</text></g>`;
+  return frame(fonts, "#111827", `<svg width="${W}" height="${H}" style="position:absolute;inset:0">${SH}<rect width="${W}" height="${H}" fill="#111827"/>${stars(81, 40, "#facc15")}${bag}${calCard(640, 110, -6, "#ca8a04", "NOVEMBER", "27", "FRIDAY", "#111827")}${clock(1080, 520, 95, 6, 0, "#ca8a04")}</svg>
+    <div class="k" style="left:64px;top:84px;color:#facc15">Black Friday · Nov. 27, 2026</div>
+    <div class="t" style="left:64px;top:118px;font-size:62px;width:540px">Store hours: Walmart, Target, Best Buy</div>
+    <div class="card" style="left:64px;top:420px;width:440px"><span>Most big chains close on Thanksgiving</span><b>Doors open from 5-6 a.m.</b><span>2025 hours until 2026 hours are announced</span></div>`);
+}
+function christmasHoursHero(fonts: string): string {
+  const gift = `<g transform="translate(930,330)" filter="url(#sh)"><rect x="-120" y="-40" width="240" height="190" rx="12" fill="#b91c1c"/><rect x="-135" y="-80" width="270" height="56" rx="12" fill="#dc2626"/><rect x="-16" y="-80" width="32" height="230" fill="#facc15"/><path d="M0 -80 q-70 -70 -90 -10 q40 20 90 10 q50 10 90 -10 q-20 -60 -90 10" fill="#facc15"/></g>`;
+  return frame(fonts, "#14532d", `<svg width="${W}" height="${H}" style="position:absolute;inset:0">${SH}<rect width="${W}" height="${H}" fill="#14532d"/>${stars(91, 50)}${gift}${calCard(640, 110, -5, "#b91c1c", "DECEMBER", "24", "THURSDAY", "#14532d")}${clock(1090, 210, 92, 5, 0, "#b91c1c")}</svg>
+    <div class="k" style="left:64px;top:84px;color:#fde68a">Christmas 2026 · Dec. 24-25</div>
+    <div class="t" style="left:64px;top:118px;font-size:62px;width:540px">What's open Christmas Eve and Day</div>
+    <div class="card" style="left:64px;top:420px;width:440px"><span>Stores close early Thursday</span><b>Most stores closed Dec. 25</b><span>Pharmacies and convenience stores vary</span></div>`);
+}
+function resultsHero(fonts: string): string {
+  const bars = [0.82, 0.55, 0.93, 0.68, 0.38, 0.74].map((v, i) => `<rect x="${700 + i * 70}" y="${560 - v * 300}" width="46" height="${v * 300}" rx="6" fill="${i % 2 ? "#93c5fd" : "#e2e8f0"}"/>`).join("");
+  return frame(fonts, "#0b1f4a", `<svg width="${W}" height="${H}" style="position:absolute;inset:0">${SH}<rect width="${W}" height="${H}" fill="#0b1f4a"/>${stars(101, 50)}<g filter="url(#sh)"><rect x="670" y="220" width="460" height="380" rx="18" fill="#132c63"/>${bars}<rect x="690" y="560" width="420" height="4" fill="#cbd5e1"/><text x="900" y="590" font-family="Sora" font-size="18" font-weight="800" fill="#cbd5e1" text-anchor="middle">SHARE OF VOTES COUNTED</text></g>${clock(1070, 150, 80, 11, 0, "#facc15")}</svg>
+    <div class="k" style="left:64px;top:84px;color:#fde68a">Election night · Nov. 3, 2026</div>
+    <div class="t" style="left:64px;top:118px;font-size:62px;width:560px">When will we know the results?</div>
+    <div class="card" style="left:64px;top:420px;width:440px"><span>Unofficial counts start at poll closing</span><b>Some states take days</b><span>State by state counting rules</span></div>`);
+}
+
 function polls(fonts: string): string {
   // One instant on four clocks: 8 p.m. ET is 7 p.m. CT, 6 p.m. MT and 5 p.m. PT.
   const zones = [["ET", "8:00", "#fde68a"], ["CT", "7:00", "#fdba74"], ["MT", "6:00", "#fca5a5"], ["PT", "5:00", "#c4b5fd"]];
@@ -142,6 +177,9 @@ export const HEROES4: [string, (f: string) => string][] = [
   ["arizona-propositions-2026-ballot-explained", (f) => stateHero(f, { state: "Arizona", bg: "#b45309", bg2: "#7c2d12", accent: "#b45309", kicker: "Arizona · Nov. 3, 2026", title: "8 propositions on the ballot", cardTop: "Early ballots must arrive by", cardBig: "7 p.m. Nov. 3", cardBottom: "Postmarks do not count", lines: ["GOVERNOR / LT. GOV.", "ATTORNEY GENERAL", "CORPORATION COMM."], measure: "PROPOSITION 141", seed: 53 })],
   ["what-time-do-polls-close-election-day-2026", polls],
   ["veterans-day-free-meals-discounts", vetsMeals],
+  ["black-friday-2026-store-hours-walmart-target-best-buy", blackFridayHero],
+  ["christmas-eve-christmas-day-2026-store-hours", christmasHoursHero],
+  ["when-will-we-know-election-results-2026-midterms", resultsHero],
   ["gta-6-october-22-2026-what-is-confirmed-release-countdown", gta6],
   ["mail-ballot-deadlines-2026-by-state", mail],
   ["is-election-day-a-holiday-2026-whats-open", holiday],

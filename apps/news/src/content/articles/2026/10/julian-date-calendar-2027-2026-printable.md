@@ -206,3 +206,5 @@ All four are designed by Fresh Calendars for 2027 and 2026, use the same holiday
 ## Leap years change the count after February
 
 In a leap year, Feb. 29 becomes day 060 and every later date moves up by one, ending at 366 on Dec. 31. Neither 2026 nor 2027 is a leap year. The next is 2028, then 2032. If you keep one of these charts on the wall, replace it when the year changes, because Jan. 1 always restarts the count at 001.
+
+For planning by week instead of by day, use the [2027 week numbers calendar](/news/week-numbers-2027-calendar-printable/), and the [2027 tax calendar](/news/tax-calendar-2027-irs-deadlines/) puts the IRS deadlines on one page.
