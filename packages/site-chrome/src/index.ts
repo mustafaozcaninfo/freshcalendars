@@ -126,11 +126,27 @@ export const ADSENSE_JS = `
 `;
 
 /**
+ * Inline CSS ships on every page, so it is minified once at load: comments go, whitespace
+ * collapses, and spaces around { } ; , and after ":" are dropped. Spaces inside values (calc,
+ * shorthands) and before ":" (descendant pseudo-class selectors) are kept, so meaning is unchanged;
+ * scripts/check-css-minify.mjs compares the result with esbuild's minifier.
+ */
+export function minifyCss(css: string): string {
+  return css
+    .replace(/\/\*[\s\S]*?\*\//g, "")
+    .replace(/\s+/g, " ")
+    .replace(/\s*([{};,])\s*/g, "$1")
+    .replace(/:\s+/g, ":")
+    .replace(/;}/g, "}")
+    .trim();
+}
+
+/**
  * Critical webfonts — inlined + preloaded.
  * `optional` avoids late-swap CLS (PSI culprit: display font on monthly hero).
  * Fallback faces use size/metric overrides so Arial/Georgia match webfont boxes.
  */
-export const FONTS_CSS = `
+export const FONTS_CSS = minifyCss(`
 @font-face{font-family:"Sora Fallback";src:local("Arial Bold"),local("Arial");size-adjust:98%;ascent-override:92%;descent-override:22%;line-gap-override:0%}
 @font-face{font-family:"Manrope Fallback";src:local("Arial"),local("Helvetica Neue");size-adjust:100%;ascent-override:95%;descent-override:24%;line-gap-override:0%}
 @font-face{font-family:"Source Sans 3 Fallback";src:local("Arial");size-adjust:100%;ascent-override:92%;descent-override:24%;line-gap-override:0%}
@@ -139,7 +155,7 @@ export const FONTS_CSS = `
 @font-face{font-family:Manrope;font-style:normal;font-weight:700;font-display:optional;src:url("/fonts/manrope-latin-700-normal.woff2") format("woff2")}
 @font-face{font-family:"Source Sans 3";font-style:normal;font-weight:400;font-display:optional;src:url("/fonts/source-sans-3-latin-400-normal.woff2") format("woff2")}
 @font-face{font-family:"Source Sans 3";font-style:normal;font-weight:700;font-display:optional;src:url("/fonts/source-sans-3-latin-700-normal.woff2") format("woff2")}
-`;
+`);
 
 export const FONT_PRELOAD = `
 <link rel="preload" as="font" type="font/woff2" href="/fonts/sora-latin-700-normal.woff2" crossorigin />
@@ -147,7 +163,7 @@ export const FONT_PRELOAD = `
 <link rel="preload" as="font" type="font/woff2" href="/fonts/manrope-latin-700-normal.woff2" crossorigin />
 `;
 
-export const CSS = `
+export const CSS = minifyCss(`
 :root{
   /* Tokens from legacy css/app.css — Fresh, not ItsCalendar */
   --ink:#37474f;
@@ -759,7 +775,7 @@ ins.adsbygoogle[data-ad-status="filled"]{
   .btn,.nav-toggle,.month-chips a,.side-card{border-width:2px}
   .nav a:hover,.month-chips a:hover{outline:2px solid var(--ink); outline-offset:1px}
 }
-`;
+`);
 
 
 export const NAV_JS = `
