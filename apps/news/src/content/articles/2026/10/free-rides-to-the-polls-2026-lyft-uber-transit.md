@@ -1,10 +1,10 @@
 ---
-title: "Free Rides to the Polls 2026: Lyft's VOTE26 Code, Free Transit on Nov. 3 and What Uber Has Said"
+title: "Free Rides to the Polls 2026: Lyft's VOTE26 Discount, Free Transit on Nov. 3 and What Uber Has Announced"
 seoTitle: "Free Rides to the Polls 2026: Lyft, Uber and Transit"
-description: "Lyft's VOTE26 code takes 50% off, up to $10, a ride to the polls on Nov. 3, 2026. Which transit systems are free on Election Day, and where Uber stands."
+description: "Lyft's VOTE26 code takes 50% off, up to $10, one ride to the polls on Nov. 3, 2026. Verified free transit on Election Day and in early voting, and Uber."
 type: news
 publishedAt: "2026-10-21T13:18:00-04:00"
-updatedAt: "2026-10-21T14:27:00-04:00"
+updatedAt: "2026-10-21T14:33:00-04:00"
 authors: [news-desk]
 category: planning
 keywords: ["free rides to the polls 2026", "Uber free rides to vote 2026", "Lyft VOTE26", "free bus rides Election Day 2026", "rides to the polls"]
@@ -15,19 +15,19 @@ hero:
   title: "Free and discounted rides to the polls, Nov. 3, 2026"
   caption: "Lyft's VOTE26 code and fare-free transit in several cities cut the cost of getting to the polls on Election Day, Tuesday, Nov. 3, 2026."
 summary:
-  - "Lyft's code VOTE26 gives 50% off, up to $10, one ride to a polling place or ballot drop box on Tuesday, Nov. 3, 2026, from 5 a.m. to 10 p.m. local time. Load it in the app before Election Day."
+  - "Lyft's VOTE26 code gives 50% off, up to $10, one eligible ride to a polling place on Tuesday, Nov. 3, 2026, from 5 a.m. to 10 p.m. local time. It is a discount, not a free ride; add it to the Lyft app before Election Day."
   - "The code works on one car, scooter or Lyft-run bikeshare ride, one per person, while supplies last. It does not cover Lyft Black or tips."
-  - "Transit is free on Nov. 3 in Los Angeles, Cincinnati, Hampton Roads, Virginia, and the Dallas area, where riders show a voter registration card."
-  - "Uber had not announced a 2026 rides-to-the-polls offer as of Oct. 21. In 2024 its in-app Go Vote! tile took 50% off, up to $10, a ride to the polls."
+  - "Transit agencies in Los Angeles, Cincinnati, Hampton Roads, Virginia, and the Dallas area have announced free service on Nov. 3, each with its own rules. In Fort Worth, Trinity Metro is free during early voting, Oct. 19-30."
+  - "As of Oct. 21, we found no 2026 Election Day ride discount in Uber's official newsroom. Its 2024 Go Vote! offer is not a current promotion."
 faq:
   - q: "Is Uber giving free rides to vote in 2026?"
-    a: "Not so far. As of Oct. 21, 2026, Uber had not announced a rides-to-the-polls offer for the Nov. 3 election on its newsroom. In 2024 it offered 50% off, up to $10, a ride to your polling place through a Go Vote! tile in the app on Election Day."
+    a: "As of Oct. 21, 2026, we found no announcement of a 2026 Election Day ride discount in Uber's official newsroom. In 2024 its Go Vote! tile in the app offered 50% off, up to $10, one ride to a polling place, but that offer does not carry over. Check the app and Uber's newsroom closer to Nov. 3."
   - q: "What is the Lyft promo code for Election Day 2026?"
-    a: "VOTE26. Load it in the Lyft app before Tuesday, Nov. 3, for 50% off, up to $10, one ride to your polling place or a ballot drop box between 5 a.m. and 10 p.m. local time."
+    a: "VOTE26. Add it to the Lyft app before Tuesday, Nov. 3, for 50% off, up to $10, one eligible ride to your polling place between 5 a.m. and 10 p.m. local time. Rides to a registered ballot drop box count in vote-by-mail states and where your state allows drop-off."
   - q: "Does the Lyft code work on early voting days?"
-    a: "No. Lyft's terms say the code is valid on Nov. 3, 2026, only. Lyft's nonprofit partners hand out separate ride codes, some of them for early voting."
+    a: "No. Lyft's terms say VOTE26 is valid on Nov. 3, 2026, only. Lyft says some partner organizations hand out their own ride codes that also cover early voting; check with the organization. In Fort Worth, Trinity Metro is free during early voting, Oct. 19-30."
   - q: "Which buses are free on Election Day 2026?"
-    a: "Among the agencies that have announced it: LA Metro, Cincinnati Metro, Hampton Roads Transit in Virginia and DART in Dallas. Check your own transit agency's site; many announce in the last week before the election."
+    a: "Among the agencies whose announcements we verified: LA Metro, Cincinnati Metro, Hampton Roads Transit in Virginia and DART in Dallas. This is not a complete list; check your own transit agency's site, since agencies often announce in the last week before the election."
   - q: "Is it legal to offer free rides to the polls?"
     a: "Lyft's terms say the offer is not meant to induce voting or a vote for or against any candidate or measure, and it does not depend on whether you vote. Nonpartisan ride programs are structured that way."
 sources:
@@ -54,7 +54,7 @@ sources:
     url: "https://thesource.metro.net/metro-can-help-you-vote-we-have-ballot-boxes-at-stations-and-free-rides-on-election-day-tuesday-nov-3/"
     publisher: "LA Metro, The Source"
     date: "2026-10-13"
-  - title: "LA Metro to Offer Free Rides on Election Day, Nov. 3 (2020, board policy)"
+  - title: "LA Metro to Offer Free Rides on Election Day, Nov. 3 (2020; background on the 2019 board policy)"
     url: "https://www.metro.net/about/media-relations/la-metro-to-offer-free-rides-on-election-day-nov-3/"
     publisher: "LA Metro"
     date: "2020-11-02"
@@ -65,6 +65,15 @@ sources:
   - title: "Rides (newsroom)"
     url: "https://www.uber.com/us/en/newsroom/rides/"
     publisher: "Uber Newsroom"
+  - title: "Let's Ride to Vote"
+    url: "https://www.fwta.org/vote26/"
+    publisher: "Trinity Metro"
+  - title: "How to find your polling place"
+    url: "https://www.usa.gov/find-polling-place"
+    publisher: "USAGov"
+  - title: "Voter registration card"
+    url: "https://www.usa.gov/voter-registration-card"
+    publisher: "USAGov"
 internalLinks:
   - href: "/november-calendars.html"
     label: "November 2026 printable calendar"
@@ -74,7 +83,7 @@ related: [is-election-day-a-holiday-2026-whats-open, what-time-do-polls-close-el
 draft: false
 ---
 
-**Lyft is taking 50% off, up to $10, one ride to the polls on Election Day, Tuesday, Nov. 3, 2026, with the code VOTE26, and transit systems in Los Angeles, Cincinnati, Hampton Roads and Dallas will carry riders free that day.** The Lyft code works from 5 a.m. to 10 p.m. local time on a car, scooter or bikeshare ride to a polling place or ballot drop box, the company said on Sept. 16. Uber had not announced a 2026 offer as of Oct. 21. Below: how the Lyft code works, which buses and trains are free, and what to check before you go.
+**Lyft's VOTE26 code takes 50% off one eligible ride, up to $10, on Election Day, Tuesday, Nov. 3, 2026.** Separately, transit agencies in Los Angeles, Cincinnati, Hampton Roads and the Dallas area have announced fare-free service for that day, each with its own conditions, and Fort Worth's Trinity Metro is free during early voting. As of Oct. 21, we found no 2026 Election Day ride-discount announcement in Uber's official newsroom; its 2024 offer is not a current promotion. This guide lists the programs we verified in official sources and is not a complete nationwide list.
 
 ## Lyft: code VOTE26
 
@@ -82,33 +91,39 @@ draft: false
 |---|---|
 | Discount | 50% off, up to $10, one ride |
 | When | Tuesday, Nov. 3, 2026, 5 a.m. to 10 p.m. local time |
-| Rides covered | One Lyft car ride, one Lyft scooter ride or one Lyft-run bikeshare ride, where available |
-| Not covered | Lyft Black and Lyft Black's larger vehicles, and tips |
-| Where to | A polling place, or a registered ballot drop box where your state allows drop-off |
-| How | Load VOTE26 in the Lyft app before Nov. 3; one code and one ride per person, limited quantity |
+| Rides covered | One Lyft car ride, or one Lyft scooter ride or Lyft-run bikeshare ride in the markets where Lyft offers them |
+| Not covered | Lyft Black rides, including Black's larger vehicles, and tips |
+| Where to | A polling place where Lyft operates in the U.S.; a registered ballot drop box only in vote-by-mail states or states that allow ballots to be returned to drop boxes |
+| How | Add VOTE26 to the Lyft app before Nov. 3; one code and one ride per person, limited quantity |
 
-Lyft also works with nonprofit partners that give out their own ride codes, among them the League of Women Voters, VoteRiders, Asian and Pacific Islander American Vote (APIAVote), the National Council on Aging, the National Down Syndrome Society, the National Coalition for Homeless Veterans and the Students Learn Students Vote Coalition. Lyft says the codes from APIAVote and the National Council on Aging also cover early voting; ask the organization near you. The offer is not tied to voting or to how you vote, Lyft's terms say.
+Lyft also works with nonprofit partners that give out their own ride codes: the League of Women Voters, VoteRiders, Asian and Pacific Islander American Vote (APIAVote), the National Council on Aging, the National Down Syndrome Society, the National Coalition for Homeless Veterans, the Students Learn Students Vote Coalition and When We All Vote. Lyft says the APIAVote and National Council on Aging programs reach early voting as well; those codes follow each partner's own terms, while VOTE26 itself is good only on Nov. 3. The offer is not tied to voting or to how you vote, Lyft's terms say.
 
-## Free transit on Election Day
+## Free transit on Nov. 3: announcements we verified
+
+These are the Election Day programs we confirmed on each agency's own website as of Oct. 21. Other agencies may add free service; this is not a complete list.
 
 | Agency | What is free on Tuesday, Nov. 3 |
 |---|---|
-| LA Metro (Los Angeles County) | Buses and trains, Metro Micro on-demand rides, and a free 30-minute Metro Bike Share ride: choose "1-Ride" and enter code 110326 (a credit or debit card is required; longer rides are charged) |
-| Cincinnati Metro (Ohio) | All service: buses, Access paratransit for eligible riders and MetroNow! on-demand rides |
+| LA Metro (Los Angeles County) | Buses and trains; Metro Micro rides, booked in the Micro app with no code needed; and a free 30-minute Metro Bike Share ride: choose "1-Ride" and enter code 110326 (a credit or debit card is required, and longer rides are charged) |
+| Cincinnati Metro (Ohio) | Fixed-route buses, Access paratransit for eligible riders and MetroNow! on-demand rides |
 | Hampton Roads Transit (HRT), Virginia | Buses, light rail, ferry, paratransit and OnDemand rides |
-| Dallas Area Rapid Transit (DART) | Buses, trains, GoLink, the Dallas Streetcar, paratransit, the Silver Line and the Trinity Railway Express (TRE) between Union Station and CentrePort station; show your voter registration card. GoLink riders use code VOTENOV3 in the GoPass app |
+| Dallas Area Rapid Transit (DART) | Buses, trains, GoLink, the Dallas Streetcar, paratransit, the Silver Line and the Trinity Railway Express (TRE) between Union Station and CentrePort station, for riders who show a valid voter registration card. GoLink riders use code VOTENOV3 in the GoPass app for a free Adult Local Day Pass |
 
-LA Metro's free election-day rides follow a 2019 decision by its board to offer them on every federal and statewide election day; the agency posted the 2026 details on Oct. 13. Its stations also host ballot drop boxes. Transit agencies often announce in the final week, so look at your agency's alerts page before you rely on a free ride.
+LA Metro posted its 2026 details on Oct. 13, and its stations host ballot drop boxes for Los Angeles County voters; drop-off deadlines elsewhere are set by your own county. The free rides follow a 2019 decision by LA Metro's board to offer them on every federal and statewide election day. DART's voter registration card rule is a condition of the free fare, separate from what Texas requires to vote. Look at your agency's alerts page before you rely on a free ride.
+
+## Free rides during early voting
+
+Trinity Metro in Fort Worth and Tarrant County, Texas, is free during early voting, Oct. 19-30, 2026, but not on Election Day itself. It covers Trinity Metro buses, TEXRail, the TRE within Tarrant County between Fort Worth T&P Station and CentrePort station, On-Demand rideshare and paratransit, and Trinity Metro Bikes for rides up to 30 minutes, with a credit card on file. Enter code VOTE26 in the GoPass app for a free Local Day Pass, or ask for a paper day pass at the customer service kiosk at Fort Worth Central Station; one pass per person, and regular hours and service areas apply.
 
 ## Uber
 
-Uber's newsroom had no 2026 rides-to-the-polls announcement as of Oct. 21; its most recent rides post is dated Oct. 14. For the 2024 election, Uber put a Go Vote! tile on the app's home screen that took 50% off, up to $10, a ride to your polling place on Election Day, Nov. 5, 2024, excluding Reserve rides, the company said at the time. If Uber posts a 2026 offer, we will add it here.
+As of Oct. 21, 2026, we found no Election Day ride-discount announcement for 2026 in Uber's official newsroom; its most recent rides post is dated Oct. 14. For the 2024 election, Uber's Go Vote! tile in the app took 50% off, up to $10, one ride to a polling place on Election Day, Nov. 5, 2024, excluding Reserve rides, the company said at the time. That offer does not mean a 2026 offer exists; check the app and Uber's newsroom again closer to Nov. 3. We will add any 2026 offer once Uber posts it.
 
 ## Before you ride
 
-- **Know where you vote.** On Election Day your state may assign you to one polling place; a ride to the wrong one costs time. Our [sample ballot by ZIP code guide](/news/sample-ballot-by-zip-code-2026-texas-ballot/) links every state's official lookup, which also shows your polling place.
+- **Confirm where you vote.** Your polling place is set by your home address and can change from one election to the next, USAGov says, so check your state or local election office's official lookup before the trip. Our [sample ballot by ZIP code guide](/news/sample-ballot-by-zip-code-2026-texas-ballot/) links every state's lookup.
 - **Check the hours.** Polls close as early as 6 p.m. local time in some states; see [what time polls close](/news/what-time-do-polls-close-election-day-2026/). The Lyft code stops at 10 p.m.
-- **Bring what your state requires.** That may be a photo ID, and in Dallas your voter registration card is also your bus fare.
-- **Early voting is still open.** In Texas it ends Friday, Oct. 30, and in Michigan and New York it runs Oct. 24 to Nov. 1; see [early voting in Michigan and New York](/news/early-voting-starts-october-24-michigan-new-york-2026/).
+- **Know your state's ID rules.** A voter registration card is generally not required to vote, USAGov notes, though states set their own ID rules. In Dallas the card is what gets you the free DART fare.
+- **Early voting dates differ by state.** Texas runs Oct. 19-30, and Michigan and New York run Oct. 24 to Nov. 1; check your own state's election office for its dates. See [early voting in Michigan and New York](/news/early-voting-starts-october-24-michigan-new-york-2026/).
 
 Whether you get time off to vote, and what is open on Nov. 3, is in [is Election Day a holiday](/news/is-election-day-a-holiday-2026-whats-open/). Plan the day on our [November 2026 printable calendar](/november-calendars.html) or a [weekly planner](/printable-weekly-calendar.html).
