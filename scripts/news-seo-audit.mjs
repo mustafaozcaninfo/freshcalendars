@@ -95,7 +95,7 @@ check("01-ADS-LOAD", "Ads load at page load without blocking: no <script src> fo
 check("01-GA-LOAD", "Google Analytics on every page, loaded after window load: no gtag <script src> in the HTML (CWV)", () =>
   each(urls, (u, h) => {
     if (/<script[^>]+googletagmanager\.com\/gtag/.test(h)) return "render-path <script src> for gtag.js";
-    return /gtag\('config','G-[A-Z0-9]+'\)|gtag\('config',id\)/.test(h) && /G-VT08H0GXHZ/.test(h) ? null : "GA4 snippet missing";
+    return /gtag\((['"])config\1,\s*(?:(['"])G-[A-Z0-9]+\2|\w+)\)/.test(h) && /G-VT08H0GXHZ/.test(h) ? null : "GA4 snippet missing";
   }));
 check("01-NEWSBAR", "Every page has the news bar: story search and crawlable links to every section (hub links on all pages)", () =>
   each(urls, (u, h) => {

@@ -3,6 +3,7 @@ import path from "node:path";
 import { fileURLToPath } from "node:url";
 import { defineConfig } from "astro/config";
 import { rehypeMidArticleAd } from "./src/lib/ad-units.mjs";
+import { minifyHtmlDir } from "./src/lib/minify-html.mjs";
 
 /** Astro leaves content-layer/server chunks in an outDir outside the project; none of it is public.
  *  Also moves latest.json (calendar-site data) to dist/news-data/. */
@@ -29,6 +30,17 @@ const cleanBuildLeftovers = {
  * Output goes to dist/news (outside dist/site, which the calendar generator wipes)
  * and is deployed on its own to public_html/news/. See docs/NEWS-ROADMAP.md.
  */
+/** Squeezes the whitespace compressHTML cannot reach (see src/lib/minify-html.mjs). */
+const minifyHtml = {
+  name: "minify-html",
+  hooks: {
+    "astro:build:done": async ({ dir, logger }) => {
+      const [n, before, after] = await minifyHtmlDir(fileURLToPath(dir));
+      logger.info(`minified ${n} HTML files: ${Math.round(before / 1024)} KB -> ${Math.round(after / 1024)} KB`);
+    },
+  },
+};
+
 export default defineConfig({
   site: process.env.NEWS_SITE_ORIGIN ?? "https://freshcalendars.com",
   base: "/news",
@@ -41,7 +53,7 @@ export default defineConfig({
     inlineStylesheets: "always",
     assets: "_astro",
   },
-  integrations: [cleanBuildLeftovers],
+  integrations: [cleanBuildLeftovers, minifyHtml],
   markdown: { rehypePlugins: [rehypeMidArticleAd] },
   devToolbar: { enabled: false },
   vite: {
