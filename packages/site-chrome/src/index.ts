@@ -112,6 +112,8 @@ export const ADSENSE_JS = `
     s.async=true;
     /* No ?client= — avoids enabling account Auto ads from the script tag alone */
     s.src='https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js';
+    /* Anchor ads only at the bottom: a top anchor pads <body> and pushes the page down (CLS) */
+    s.setAttribute('data-overlays','bottom');
     s.crossOrigin='anonymous';
     s.onload=pushPending;
     document.head.appendChild(s);

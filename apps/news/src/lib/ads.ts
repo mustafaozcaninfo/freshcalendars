@@ -28,7 +28,8 @@ export const AD_ORIGINS = {
  * page is still loading, and requests every visible unit at once. Unfilled units collapse only
  * while off screen (no layout shift in view). Units hidden by CSS (the sidebar
  * on phones) are never requested. No ?client= on the script, so account-level Auto ads cannot
- * inject unplanned units.
+ * inject unplanned units. data-overlays="bottom" keeps anchor ads at the bottom of the screen:
+ * a top anchor pads <body> by its height and pushes the whole page down (CLS).
  */
 export const ADS_LOADER_JS = `
 (function(){
@@ -37,6 +38,7 @@ export const ADS_LOADER_JS = `
   var s=document.createElement('script');
   s.async=true; s.crossOrigin='anonymous';
   s.src='https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js';
+  s.setAttribute('data-overlays','bottom');
   document.head.appendChild(s);
   window.adsbygoogle=window.adsbygoogle||[];
   // Sidebar rail units: a 300×600 half page when the window can show it whole under the header.
