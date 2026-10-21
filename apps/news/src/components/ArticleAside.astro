@@ -1,16 +1,20 @@
 ---
 /**
  * Wide-screen sidebar: contents list with the current section highlighted, printables and share,
- * then the sidebar ad in its own sticky box. The ad sits outside any scroll container and never
- * overlaps the tools above it; it sticks only when the window is tall enough to show it whole.
+ * then a rail of sticky ad segments. The segments split the rest of the sidebar's height equally;
+ * each ad sticks under the header through its share of the story, then slides away as the next
+ * one arrives, so a long read sees a fresh unit instead of one ad for the whole page. One rail
+ * per page (short stories), two from five sections, three from LONG_STORY_H2 sections.
  */
 import type { MarkdownHeading } from "astro";
 import ShareBar from "./ShareBar.astro";
 import AdSlot from "./AdSlot.astro";
 import { PRINTABLES_PATH } from "../lib/printables";
+import { LONG_STORY_H2 } from "../lib/ad-units.mjs";
 interface Props { headings: MarkdownHeading[]; downloads: number; url: string; title: string }
 const { headings, downloads, url, title } = Astro.props;
 const items = headings.filter((h) => h.depth === 2);
+const rails = items.length >= LONG_STORY_H2 ? 3 : items.length >= 5 ? 2 : 1;
 ---
 <aside class="aside" aria-label="Article tools">
   <div class="stick">
@@ -26,17 +30,20 @@ const items = headings.filter((h) => h.depth === 2);
     <ShareBar url={url} title={title} compact />
     <a class="all-pr" href={PRINTABLES_PATH}>Browse all printables →</a>
   </div>
-  <div class="side-ad"><AdSlot unit={3} variant="side" /></div>
+  {Array.from({ length: rails }, () => <div class="rail"><div class="side-ad"><AdSlot unit={3} variant="side" /></div></div>)}
 </aside>
 <style>
   .aside{display:none}
   @media (min-width:1100px){
-    .aside{display:block}
+    .aside{display:flex;flex-direction:column}
     .stick{padding-bottom:.25rem}
-    .side-ad{width:300px}
+    .rail{flex:1 1 0;min-height:0}
+    .rail + .rail{padding-top:2rem}
+    .side-ad{width:300px;position:sticky;top:5.25rem}
+    .side-ad :global(.ad-slot--side){min-height:296px}
   }
   @media (min-width:1100px) and (min-height:760px){
-    .side-ad{position:sticky;top:5.25rem}
+    .side-ad :global(.ad-slot--side){min-height:646px}
   }
   .tool-label{margin:0 0 .5rem;font-size:.75rem;font-weight:700;text-transform:uppercase;letter-spacing:.08em;color:var(--ink)}
   .toc-side{margin:0 0 1.25rem}

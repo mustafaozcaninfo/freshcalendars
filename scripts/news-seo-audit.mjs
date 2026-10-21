@@ -45,7 +45,7 @@ const each = (list, pred) => list.flatMap((u) => { const r = pred(u, html[u]); r
 // ── 01 Visual semantics / layout ───────────────────────────────────────────
 check("01-H1", "Exactly one H1 per page (§01 checklist, §02 C)", () =>
   each(urls, (u, h) => { const n = (h.match(/<h1[\s>]/g) ?? []).length; return n === 1 ? null : `${n} H1`; }));
-check("01-ADS-CENTER", "One top ad under the breadcrumb, other ads stay out of the centerpiece; labeled, space-reserved, ≤6 per page, none on policy pages (§01 l.214, l.314)", () =>
+check("01-ADS-CENTER", "One top ad under the breadcrumb, other ads stay out of the centerpiece; labeled, space-reserved, ≤6 in-flow + ≤3 sidebar rail per page, none on policy pages (§01 l.214, l.314)", () =>
   each(urls, (u, h) => {
     const main = h.match(/<main id="main"[\s\S]*?<\/main>/)?.[0] ?? "";
     const ads = [...main.matchAll(/<aside class="ad-slot[^"]*"[^>]*>/g)];
@@ -53,7 +53,10 @@ check("01-ADS-CENTER", "One top ad under the breadcrumb, other ads stay out of t
     if (stray) return `${stray} ad unit(s) outside an .ad-slot wrapper`;
     if (!ads.length) return null;
     if (/<meta name="robots" content="noindex/.test(h) || /\/(about|editorial-policy|corrections-policy|masthead)\/$/.test(u)) return "ads on a policy or noindex page";
-    if (ads.length > 6) return `${ads.length} ad units (max 6)`;
+    // The sidebar rail (wide screens only, one sticky unit in view at a time) is counted on its own.
+    const side = ads.filter((m) => /ad-slot--side/.test(m[0])).length;
+    if (ads.length - side > 6) return `${ads.length - side} in-flow ad units (max 6)`;
+    if (side > 3) return `${side} sidebar rail units (max 3)`;
     if (ads.some((m) => !/aria-label="Advertisement"/.test(m[0]))) return "ad unit without the Advertisement label";
     // One top unit, after the headline block: below the H1 and lede on listings, below the hero
     // image on stories, so the H1, lede, byline and hero stay unbroken; the rest follow the centerpiece rule.

@@ -13,10 +13,14 @@ export const NEWS_AD_UNITS = {
 };
 export const ADS_ENABLED = process.env.NEWS_ADS !== "0";
 
+/** Long stories (this many H2 sections or more) get a second in-article unit: Fresh_News_5, moved
+ * up from the end of the page, where few readers reach it. The story page skips its end unit then. */
+export const LONG_STORY_H2 = 7;
+
 /**
  * Rehype plugin: puts Fresh_News_1 before the third H2 of a story, so the centerpiece (lede,
- * hero, key points and the first two sections) is never interrupted. Stories with fewer than
- * four H2 sections get no in-article unit.
+ * hero, key points and the first two sections) is never interrupted, and on long stories
+ * Fresh_News_5 before the sixth H2. Stories with fewer than four H2 sections get no in-article unit.
  */
 export function rehypeMidArticleAd() {
   return (tree, file) => {
@@ -24,23 +28,28 @@ export function rehypeMidArticleAd() {
     if (!ADS_ENABLED || !/[\\/]content[\\/]articles[\\/]/.test(file?.path ?? file?.history?.[0] ?? "")) return;
     const h2 = tree.children.map((n, i) => (n.type === "element" && n.tagName === "h2" ? i : -1)).filter((i) => i >= 0);
     if (h2.length < 4) return;
-    tree.children.splice(h2[2], 0, {
+    if (h2.length >= LONG_STORY_H2) tree.children.splice(h2[5], 0, midAd(NEWS_AD_UNITS[5]));
+    tree.children.splice(h2[2], 0, midAd(NEWS_AD_UNITS[1]));
+  };
+}
+
+function midAd(slot) {
+  return {
+    type: "element",
+    tagName: "aside",
+    properties: { className: ["ad-slot", "ad-slot--wide", "ad-slot--mid"], ariaLabel: "Advertisement" },
+    children: [{
       type: "element",
-      tagName: "aside",
-      properties: { className: ["ad-slot", "ad-slot--wide", "ad-slot--mid"], ariaLabel: "Advertisement" },
-      children: [{
-        type: "element",
-        tagName: "ins",
-        properties: {
-          className: ["adsbygoogle"],
-          style: "display:block",
-          dataAdClient: NEWS_AD_CLIENT,
-          dataAdSlot: NEWS_AD_UNITS[1],
-          dataAdFormat: "auto",
-          dataFullWidthResponsive: "true",
-        },
-        children: [],
-      }],
-    });
+      tagName: "ins",
+      properties: {
+        className: ["adsbygoogle"],
+        style: "display:block",
+        dataAdClient: NEWS_AD_CLIENT,
+        dataAdSlot: slot,
+        dataAdFormat: "auto",
+        dataFullWidthResponsive: "true",
+      },
+      children: [],
+    }],
   };
 }

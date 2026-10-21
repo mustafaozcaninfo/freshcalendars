@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "astro dev",
-    "build": "astro build",
+    "build": "rm -f node_modules/.astro/data-store.json && astro build",
     "check": "astro check"
   },
   "dependencies": {

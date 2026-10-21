@@ -39,8 +39,11 @@ export const ADS_LOADER_JS = `
   s.src='https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js';
   document.head.appendChild(s);
   window.adsbygoogle=window.adsbygoogle||[];
+  // Sidebar rail units: a 300×600 half page when the window can show it whole under the header.
+  var tall=innerHeight>=760;
   slots.forEach(function(ins){
     if(ins.dataset.pushed||!ins.offsetWidth) return;
+    if(tall&&ins.parentNode.classList.contains('ad-slot--side')) ins.style.height='600px';
     ins.dataset.pushed='1';
     try{window.adsbygoogle.push({});}catch(e){}
   });

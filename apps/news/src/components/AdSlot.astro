@@ -2,7 +2,8 @@
 /**
  * One Fresh_News AdSense unit. The "Advertisement" tag is CSS-generated so it never enters the
  * page text; the reserved min-height keeps the late fill from shifting content (CLS).
- * See src/lib/ads.ts for the placement rules and the loader.
+ * Sidebar units are fixed 300×250 (the loader makes them 300×600 in tall windows), so a sticky
+ * sidebar ad always fits the window. See src/lib/ads.ts for the placement rules and the loader.
  */
 import { ADSENSE_CLIENT, ADS_ENABLED, NEWS_AD_UNITS, type NewsAdUnit } from "../lib/ads";
 interface Props { unit: NewsAdUnit; variant?: "wide" | "side" | "top" }
@@ -10,6 +11,8 @@ const { unit, variant = "wide" } = Astro.props;
 ---
 {ADS_ENABLED && (
   <aside class={`ad-slot ${variant === "top" ? "ad-slot--wide ad-slot--top" : `ad-slot--${variant}`}`} aria-label="Advertisement">
-    <ins class="adsbygoogle" style="display:block" data-ad-client={ADSENSE_CLIENT} data-ad-slot={NEWS_AD_UNITS[unit]} data-ad-format="auto" data-full-width-responsive="true"></ins>
+    {variant === "side"
+      ? <ins class="adsbygoogle" style="display:inline-block;width:300px;height:250px" data-ad-client={ADSENSE_CLIENT} data-ad-slot={NEWS_AD_UNITS[unit]}></ins>
+      : <ins class="adsbygoogle" style="display:block" data-ad-client={ADSENSE_CLIENT} data-ad-slot={NEWS_AD_UNITS[unit]} data-ad-format="auto" data-full-width-responsive="true"></ins>}
   </aside>
 )}
