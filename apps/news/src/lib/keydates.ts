@@ -14,6 +14,9 @@ export interface KeyDate {
 export const KEY_DATES: KeyDate[] = [
   { date: "2026-10-19", label: "Voter registration deadline in California, Pennsylvania and Michigan", slug: "voter-registration-deadline-october-19-2026-early-voting" },
   { date: "2026-10-21", label: "Orionid meteor shower peaks, night of Oct. 21-22", slug: "orionid-meteor-shower-2026-peak-october-21-22" },
+  { date: "2026-10-21", label: "Social Security payday: birthdays 11th-20th", slug: "social-security-payment-schedule-october-2026-who-gets-paid-today" },
+  { date: "2026-10-28", label: "Social Security payday: birthdays 21st-31st", slug: "social-security-payment-schedule-october-2026-who-gets-paid-today" },
+  { date: "2026-11-10", label: "Social Security paid a day early (Veterans Day)", slug: "social-security-payment-schedule-october-2026-who-gets-paid-today" },
   { date: "2026-10-25", label: "Clocks go back in the UK and Europe", slug: "uk-europe-clocks-go-back-october-25-2026-time-difference" },
   { date: "2026-10-31", label: "Halloween falls on a Saturday", slug: "halloween-2026-saturday-sunset-trick-or-treat-times" },
   { date: "2026-11-01", label: "Daylight saving time ends in the U.S.", slug: "daylight-saving-time-ends-november-1-2026" },
@@ -56,7 +59,7 @@ export const KEY_DATES: KeyDate[] = [
   { date: "2026-10-23", label: "World Series Game 1, 8 p.m. ET on FOX", slug: "world-series-2026-schedule-game-times-tv-channel" },
   { date: "2026-10-24", label: "DEA Prescription Drug Take Back Day, 10 a.m.-2 p.m.", slug: "dea-drug-take-back-day-october-24-2026-locations" },
   { date: "2026-10-25", label: "Hunter's Moon rises at sunset (full 12:12 a.m. EDT Oct. 26)", slug: "hunters-moon-october-2026-full-moon-time" },
-  { date: "2026-10-30", label: "Nevada Day · November SSI paid early", slug: "october-20-2026-what-day-holidays-observances" },
+  { date: "2026-10-30", label: "Nevada Day · November SSI paid early", slug: "social-security-payment-schedule-october-2026-who-gets-paid-today" },
   { date: "2026-11-01", label: "Sunset jumps an hour earlier", slug: "sunset-times-after-daylight-saving-time-ends-2026" },
   { date: "2026-12-21", label: "Winter break begins in most large school districts", slug: "winter-break-2026-school-districts-dates" },
   { date: "2027-01-15", label: "Fourth-quarter 2026 estimated tax due", slug: "tax-calendar-2027-irs-deadlines" },
