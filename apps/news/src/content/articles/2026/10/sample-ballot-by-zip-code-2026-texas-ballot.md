@@ -4,7 +4,7 @@ seoTitle: "Sample Ballot by ZIP Code 2026: Find and Print Yours"
 description: "Enter your ZIP code to find the official sample ballot lookup for your state, see all 50 states and D.C., and print a free ballot worksheet for Nov. 3, 2026."
 type: news
 publishedAt: "2026-10-19T07:50:00-04:00"
-updatedAt: "2026-10-20T14:35:00-04:00"
+updatedAt: "2026-10-21T11:50:00-04:00"
 authors: [news-desk]
 category: planning
 keywords: ["sample ballot by zip code", "printable sample ballot 2026", "my sample ballot 2026", "sample ballot by address", "Texas sample ballot 2026"]
@@ -24,6 +24,10 @@ faq:
     a: "Enter your ZIP code in the finder at the top of this story to get your state's official lookup, then search there by full street address or by name and date of birth. A ZIP code tells you the state, but only your address tells the county which precinct ballot you get."
   - q: "Why doesn't my ZIP code show one ballot?"
     a: "ZIP codes are drawn for mail delivery, not elections. A single ZIP code can include parts of different congressional, state legislative, city, school and judicial districts, so neighbors can have different ballots."
+  - q: "How do I read a sample ballot?"
+    a: "Go race by race from the top. Each race says how many choices you can make, and ballot measures are yes-or-no questions. Read each measure's own wording. In Texas there is no straight-ticket option, so you choose a candidate in each race."
+  - q: "How do I find my voting precinct in Texas?"
+    a: "Your precinct number is printed next to your year of birth on your voter registration certificate. The Secretary of State's My Voter Portal lists your polling places once you enter your name, county, date of birth and ZIP code."
   - q: "Can I print my sample ballot?"
     a: "Yes. Most county sample ballots are PDFs you can print. You can also copy your choices onto our free My Ballot Worksheet, a one-page printable with lines for each office and ballot measure."
   - q: "Is the sample ballot the same for early voting and Election Day?"
@@ -37,6 +41,12 @@ faq:
   - q: "What ID do I need to vote in Texas?"
     a: "One of seven photo IDs, including a Texas driver license, Texas Election Identification Certificate, Texas ID card, handgun license, U.S. military ID, U.S. citizenship certificate or U.S. passport. Voters who cannot reasonably obtain one may sign a Reasonable Impediment Declaration and show a supporting document such as a utility bill."
 sources:
+  - title: "HB 25 (2017): Elimination of Straight-Party Voting (Election Advisory No. 2020-29)"
+    url: "https://www.sos.texas.gov/elections/laws/advisory2020-29.shtml"
+    publisher: "Texas Secretary of State"
+  - title: "Frequently Asked Questions"
+    url: "https://www.votetexas.gov/faq/"
+    publisher: "Texas Secretary of State (VoteTexas.gov)"
   - title: "Where to Vote"
     url: "https://www.votetexas.gov/voting/where.html"
     publisher: "Texas Secretary of State (VoteTexas.gov)"
@@ -122,6 +132,16 @@ ZIP codes are drawn by the Postal Service for delivering mail. Election district
 
 That is why official lookups ask for your street address, or for your name and date of birth so they can match you to your precinct. If a site asks only for a ZIP code, treat its ballot as a rough preview.
 
+## How to read your sample ballot
+
+A sample ballot shows the same contests, in the same order, as the ballot you will vote on. Each race tells you how many choices you can make, such as one candidate for governor or more than one for a school board. Ballot measures, called propositions, amendments or questions depending on the state, are a yes-or-no choice, so read the measure's own wording, not just its number.
+
+In Texas there is no straight-ticket option. The Legislature ended straight-party voting starting Sept. 1, 2020, so the Secretary of State tells voters who want to back one party's candidates to select each one at a time. Plan every race on your sample ballot, from the top of the ticket to the local offices at the end.
+
+## Research the candidates
+
+Start with the candidate list on your official sample ballot, then read what the candidates and measures say for themselves. VOTE411, run by the League of Women Voters Education Fund, collects candidates' answers to the same questions, and Ballotpedia lists the candidates and measures for an address. Both are nonpartisan. For measures, your county or city usually publishes the full text with the sample ballot; read it before Election Day, because the summary on the ballot is short.
+
 ## Official sample ballot lookup in every state
 
 Each state's election office runs a voter lookup. In 18 states and Washington, D.C., that portal shows a personalized sample ballot; elsewhere it shows your registration and polling place, and your county, city or town elections office posts the ballot. Nevada does both. Links were checked on Oct. 20, 2026, against each state election office and Vote.gov; some portals block automated checks but open normally in a browser.
@@ -203,6 +223,8 @@ Texas sample ballots are posted by counties. The state's My Voter Portal shows y
 | Williamson | [Williamson County Elections](https://www.wilcotx.gov/elections) |
 | Montgomery | [Montgomery County Elections](https://www.mctx.org/departments/departments_q_-_z/voter_registration_elections/index.php) |
 
+**Your precinct.** Your precinct number is printed next to your year of birth on your voter registration certificate, according to VoteTexas.gov, and My Voter Portal lists your early voting and Election Day polling places. Your county's sample ballot is matched to that precinct.
+
 **Dates.** Early voting runs through Friday, Oct. 30, and you can use any early voting location in your county of registration. An application for a ballot by mail must be received by Friday, Oct. 23. A mailed ballot counts if it arrives by 7 p.m. on Nov. 3, or if it is postmarked by 7 p.m. that day and arrives by 5 p.m. on Wednesday, Nov. 4. On Election Day, polls are open 7 a.m. to 7 p.m. Counties in the state's Countywide Polling Place Program let you vote at any vote center in the county; in other counties you must go to your assigned precinct.
 
 **What is on the ballot.** Texas votes this year for governor and other statewide executive offices, a U.S. Senate seat, all 38 U.S. House seats, the Texas Legislature, judges and local offices. Your county sample ballot adds any city, county or school district measures for your address.
@@ -223,7 +245,7 @@ Our [voter registration deadline report](/news/voter-registration-deadline-octob
 
 ## State ballot guides
 
-For what is on the ballot in other large states, with free printable checklists, see our guides to [California's 14 propositions](/news/california-propositions-2026-november-ballot-explained/), [Florida's amendments and Senate special](/news/florida-amendments-2026-ballot-senate-special-election/), [Georgia](/news/georgia-2026-ballot-amendments-advance-voting/), [Michigan](/news/michigan-ballot-2026-proposals-candidates/), [Pennsylvania](/news/pennsylvania-2026-election-governor-mail-ballot-deadlines/) and [Arizona's eight propositions](/news/arizona-propositions-2026-ballot-explained/). For every state, check [poll closing times](/news/what-time-do-polls-close-election-day-2026/) and [mail ballot deadlines](/news/mail-ballot-deadlines-2026-by-state/), see [whether Election Day is a holiday](/news/is-election-day-a-holiday-2026-whats-open/) where you work, and follow the results with our [2026 midterm tracker](/news/2026-midterm-elections-whats-on-the-ballot-results-tracker/).
+For what is on the ballot in other large states, with free printable checklists, see our guides to [California's 14 propositions](/news/california-propositions-2026-november-ballot-explained/), [Florida's amendments and Senate special](/news/florida-amendments-2026-ballot-senate-special-election/), [Georgia](/news/georgia-2026-ballot-amendments-advance-voting/), [Michigan](/news/michigan-ballot-2026-proposals-candidates/), [New York](/news/new-york-ballot-2026-sample-ballot-governor-nyc-proposals/), [Pennsylvania](/news/pennsylvania-2026-election-governor-mail-ballot-deadlines/) and [Arizona's eight propositions](/news/arizona-propositions-2026-ballot-explained/). For every state, check [poll closing times](/news/what-time-do-polls-close-election-day-2026/) and [mail ballot deadlines](/news/mail-ballot-deadlines-2026-by-state/), see [whether Election Day is a holiday](/news/is-election-day-a-holiday-2026-whats-open/) where you work, and follow the results with our [2026 midterm tracker](/news/2026-midterm-elections-whats-on-the-ballot-results-tracker/).
 
 ## Key dates
 
