@@ -107,4 +107,4 @@ Ariel is the heroine of The Little Mermaid, Belle of Beauty and the Beast, Doc i
 
 **Pencil, Chevron, Horseshoe, Walrus.** None of these looks related to the others until you think of facial hair.
 
-We checked the solution against more than one published source before posting. Puzzle #1228 arrives at midnight.
+We checked the solution against more than one published source before posting. Wednesday's puzzle is out: see [Connections hints for #1228](/news/nyt-connections-hints-answers-october-21-2026-1228/).
