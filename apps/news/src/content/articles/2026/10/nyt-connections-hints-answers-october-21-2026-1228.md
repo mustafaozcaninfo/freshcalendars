@@ -105,3 +105,5 @@ Stop here if you still want to solve it yourself.
 **Heavyweight.** It suggests boxing, but here it means an important, influential person.
 
 We checked the solution against more than one published source before posting. Puzzle #1229 arrives at midnight.
+
+Missed yesterday's puzzle? See [Connections hints for #1227](/news/nyt-connections-hints-answers-october-20-2026-1227/).

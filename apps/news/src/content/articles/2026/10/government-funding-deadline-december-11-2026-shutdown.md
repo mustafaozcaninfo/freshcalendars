@@ -52,6 +52,7 @@ internalLinks:
     label: "November 2026 printable calendar"
   - href: "/holidays/"
     label: "2026 US holiday list"
+related: [social-security-cola-2027-3-6-percent-payment-dates, medicare-open-enrollment-2026-december-7-90-dollar-rebate, november-2026-important-dates-days-until]
 draft: false
 ---
 
@@ -103,3 +104,5 @@ The most recent full shutdown, from Oct. 1 to Nov. 12, 2025, lasted 43 days, the
 - **Thursday, Nov. 26:** Thanksgiving; Congress typically recesses that week.
 - **Friday, Dec. 11:** Funding deadline.
 - **Sunday, Jan. 3, 2027:** The 119th Congress ends and the 120th begins.
+
+Social Security and Medicare payments continue during a shutdown; see the [2027 COLA payment dates](/news/social-security-cola-2027-3-6-percent-payment-dates/) and the [Medicare open enrollment deadline](/news/medicare-open-enrollment-2026-december-7-90-dollar-rebate/). Other dates are in our [November 2026 calendar with holidays](/news/november-2026-important-dates-days-until/).

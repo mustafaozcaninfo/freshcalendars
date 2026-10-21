@@ -164,3 +164,5 @@ The one-page moon phase calendar draws the Moon for every day of 2027 as it look
 | Winter (December solstice) | Tuesday, Dec. 21, 9:42 p.m. EST |
 
 Season times also come from the USNO. Daylight saving time in 2027 runs from Sunday, March 14 to Sunday, Nov. 7, which is why the times switch between EST and EDT. To plan Harvest Moon week, print the September page of the monthly moon calendar and pair it with a [September printable calendar](/september-calendars.html).
+
+For this year's sky, see the [Hunter's Moon on Oct. 26](/news/hunters-moon-october-2026-full-moon-time/), the [Orionid meteor shower viewing times](/news/orionid-meteor-shower-2026-peak-october-21-22/) and [November 2026 meteor showers](/news/november-2026-meteor-showers-taurids-leonids/).

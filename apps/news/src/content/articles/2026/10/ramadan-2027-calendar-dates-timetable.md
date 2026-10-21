@@ -56,6 +56,7 @@ internalLinks:
     label: "March 2027 printable calendar"
   - href: "/printable-yearly-calendar.html"
     label: "2027 printable yearly calendar"
+related: [lunar-new-year-2027-year-of-the-goat, moon-phases-2027-full-moon-calendar, federal-holidays-2027-observed-dates-list]
 downloads:
   - group: "Ramadan 2027 printables"
     title: "Ramadan 2027 Calendar"

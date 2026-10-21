@@ -113,3 +113,5 @@ The 2027 Part B premium had not been announced as of Oct. 18. Our [Social Securi
 - Confirm your doctors are in network if you are considering a Medicare Advantage plan.
 - Compare total yearly costs, not only the monthly premium.
 - Put Dec. 7 on your calendar, and allow a few days for the plan to process your request.
+
+Two related deadlines: the Affordable Care Act (ACA) marketplace's [open enrollment](/news/aca-open-enrollment-2027-dates-november-1-january-15/) runs Nov. 1 to Jan. 15 for people under 65, and federal funding expires on [Dec. 11](/news/government-funding-deadline-december-11-2026-shutdown/). Watch for [COLA and Medicare scams](/news/social-security-cola-2027-scams-increase-chart/) during enrollment.

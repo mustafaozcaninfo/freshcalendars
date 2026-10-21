@@ -57,6 +57,7 @@ internalLinks:
     label: "2026 printable yearly calendar"
   - href: "/january-calendars.html"
     label: "January 2027 printable calendar"
+related: [week-numbers-2027-calendar-printable, tax-calendar-2027-irs-deadlines, moon-phases-2027-full-moon-calendar]
 downloads:
   - group: "2027 printables"
     title: "2027 Day-of-Year Chart"

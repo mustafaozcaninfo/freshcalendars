@@ -103,3 +103,5 @@ In the U.S., the House passed a bill in July 2026 to make daylight saving time p
 - Confirm any transatlantic meetings or calls scheduled between Oct. 26 and Oct. 30.
 - If you travel between Europe and North America that week, double-check pickup and check-in times.
 - Mark Oct. 25 and Nov. 1 on your calendar; the gap closes when the U.S. changes clocks.
+
+The U.S. change comes on Nov. 1; see [daylight saving time ends](/news/daylight-saving-time-ends-november-1-2026/). For next year's days off, see [UK bank holidays 2027](/news/uk-bank-holidays-2027-dates-england-scotland-northern-ireland/) and [Canada statutory holidays 2027](/news/canada-statutory-holidays-2027-federal-general-holidays/).

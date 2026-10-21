@@ -96,3 +96,5 @@ Día de los Muertos is not a federal holiday, so on Monday, Nov. 2, federal offi
 | Tuesday, Nov. 3 | Election Day |
 
 For other festivals of the season, see our [Diwali 2026 guide](/news/diwali-2026-date-lakshmi-puja-time-usa/), which falls the following Sunday, Nov. 8. The [when is Halloween](/when-is/halloween/) and [daylight saving time](/when-is/daylight-savings/) pages give those dates for future years, and the whole month fits on a [November 2026 printable calendar](/november-calendars.html).
+
+Día de los Muertos opens a busy month: [Diwali](/news/diwali-2026-date-lakshmi-puja-time-usa/) falls on Nov. 8 and Veterans Day on Nov. 11, and every date is in our [November 2026 calendar with holidays](/news/november-2026-important-dates-days-until/).

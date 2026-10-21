@@ -164,3 +164,5 @@ Microsoft documents ISOWEEKNUM and the WEEKNUM return types on its support site,
 ## Planning with week numbers
 
 Week numbers help with school terms, sprint planning, payroll and shipping schedules, where "week 14" is shorter than a date range. A 52-week year also lines up neatly with four 13-week quarters, the pattern many retail and fiscal calendars follow; our [fiscal year calendar guide](/guides/fiscal-year-calendar.html) explains those layouts. For day-by-day planning, pair the week number calendar with a [printable weekly planner](/printable-weekly-calendar.html), and for day-of-year numbers see our [Julian date calendar](/news/julian-date-calendar-2027-2026-printable/).
+
+For a day-of-year count instead of weeks, use the [2027 Julian date calendar](/news/julian-date-calendar-2027-2026-printable/); the [2027 tax calendar](/news/tax-calendar-2027-irs-deadlines/) and [2027 stock market holidays](/news/stock-market-holidays-2027-nyse-closed-dates/) list the year's other fixed dates.

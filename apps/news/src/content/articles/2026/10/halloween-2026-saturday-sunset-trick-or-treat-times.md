@@ -105,3 +105,5 @@ The Hunter's Moon is full on Oct. 26, five days earlier, so on Halloween night t
 ## What follows Halloween
 
 Halloween weekend runs straight into Día de los Muertos on Nov. 1 and 2; our [Day of the Dead 2026 guide](/news/day-of-the-dead-2026-dia-de-los-muertos-dates/) has the dates and traditions. Election Day follows on Tuesday, Nov. 3. For the date of Halloween in other years, see [when is Halloween](/when-is/halloween/), and plan the week on an [October 2026 calendar](/october-calendars.html). The free printable below lists sunset, dark and moonrise for all 16 cities with room to plan your route.
+
+For everything else on the calendar this week, see [what day it is on Oct. 20](/news/october-20-2026-what-day-holidays-observances/).

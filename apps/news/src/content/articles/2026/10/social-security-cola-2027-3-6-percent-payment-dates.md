@@ -56,6 +56,7 @@ internalLinks:
     label: "December 2026 printable calendar"
   - href: "/printable-yearly-calendar.html"
     label: "2027 printable yearly calendar"
+related: [social-security-cola-2027-scams-increase-chart, medicare-open-enrollment-2026-december-7-90-dollar-rebate, tax-calendar-2027-irs-deadlines]
 draft: false
 ---
 

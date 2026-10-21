@@ -106,3 +106,5 @@ People with Medicare have a separate window, Oct. 15 to Dec. 7, 2026, covered in
 ## Mark the dates
 
 Circle Nov. 1 on a [November 2026 calendar](/november-calendars.html), Dec. 15 on the [December 2026 calendar](/december-calendars.html) and Jan. 15 on the [January 2027 calendar](/january-calendars.html). Free help is available through HealthCare.gov's Find Local Help tool or the Marketplace call center at 1-800-318-2596.
+
+People with Medicare have a separate window; see [Medicare open enrollment, ending Dec. 7](/news/medicare-open-enrollment-2026-december-7-90-dollar-rebate/).

@@ -134,3 +134,5 @@ Thanksgiving falls on Nov. 26 this year, the fourth Thursday under a 1941 law; o
 ## Plan your Black Friday
 
 Our free planner has the store opening times, a 15-line shopping list with target prices, a budget box and a Cyber Monday wish list. It comes in three styles: bold black and gold, autumn colors, and an ink-saver version. Mark the weekend on our [November 2026 printable calendar](/november-calendars.html) or a [weekly planner](/printable-weekly-calendar.html), and see the date in other years on [when is Black Friday](/when-is/black-friday/).
+
+The week before Thanksgiving also brings the launch of Grand Theft Auto (GTA) VI on Nov. 19; see [what Rockstar has confirmed](/news/gta-6-october-22-2026-what-is-confirmed-release-countdown/).

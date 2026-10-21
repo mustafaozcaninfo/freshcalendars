@@ -62,7 +62,7 @@ internalLinks:
   - href: "/holidays/"
     label: "2026 US holiday list"
 draft: false
-related: [costco-holiday-hours-closures-2026-2027, usps-holiday-shipping-deadlines-2026, nyc-public-schools-calendar-2026-27-breaks-holidays]
+related: [veterans-day-2026-wednesday-november-11, black-friday-2026-store-hours-walmart-target-best-buy, federal-holidays-2027-observed-dates-list]
 ---
 
 Thanksgiving Day 2026 is **Thursday, Nov. 26**. The date is not picked each year: a 1941 federal law places the holiday on the fourth Thursday of November, which is why it moves around the calendar while holidays like Christmas stay put. Black Friday follows on Nov. 27, and the 100th Macy's Thanksgiving Day Parade steps off the morning of the 26th.
@@ -125,3 +125,5 @@ Canadian Thanksgiving falls on the second Monday of October. In 2026 it was Mond
 - If you trade stocks, remember the 1:00 p.m. ET close on Friday.
 - Check store hours before you go: [Costco closes on Thanksgiving](/news/costco-holiday-hours-closures-2026-2027/), [Black Friday 2026 store hours](/news/black-friday-2026-store-hours-walmart-target-best-buy/) lists who opens when on Nov. 27, and the [USPS holiday shipping deadlines](/news/usps-holiday-shipping-deadlines-2026/) list the last mailing days for December gifts.
 - See everything else this month in [November 2026 important dates](/news/november-2026-important-dates-days-until/).
+
+Thanksgiving is one of two federal holidays this month; the other is [Veterans Day on Wednesday, Nov. 11](/news/veterans-day-2026-wednesday-november-11/). For next year's dates, including Thanksgiving on Nov. 25, 2027, see the [2027 federal holiday list](/news/federal-holidays-2027-observed-dates-list/).
