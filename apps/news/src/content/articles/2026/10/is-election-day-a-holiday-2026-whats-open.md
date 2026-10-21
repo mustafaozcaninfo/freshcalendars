@@ -127,7 +127,7 @@ Check your district's calendar or our [printable school-year calendar](/printabl
 
 ## Time off to vote
 
-There is no federal law guaranteeing time off to vote, but about half the states require employers to allow it. Three of the largest states:
+There is no federal law guaranteeing time off to vote, but about half the states require employers to allow it. If you need a ride, Lyft's VOTE26 code and free transit in Cincinnati, Hampton Roads and Dallas are in our [free rides to the polls guide](/news/free-rides-to-the-polls-2026-lyft-uber-transit/). Three of the largest states:
 
 - **California:** up to two hours of paid time at the start or end of a shift if you cannot otherwise get to the polls; you generally must tell your employer at least two working days ahead (Elections Code 14000).
 - **New York:** up to two hours of paid time if you do not have four consecutive hours to vote outside your working hours; notice is due two to 10 working days before Election Day (Election Law 3-110).

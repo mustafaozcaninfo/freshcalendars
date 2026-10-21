@@ -28,6 +28,7 @@ import { buildNyBallot } from "./nyballot.js";
 import { buildSsaOct } from "./ssa2026.js";
 import { buildTxBallot } from "./txballot.js";
 import { buildOct22 } from "./oct22.js";
+import { buildRides } from "./rides2026.js";
 import { buildHeroes4 } from "./heroes4.js";
 import { ROOT } from "./paths.js";
 import { purgeDoCdn, syncCdnAssets } from "./spaces.js";
@@ -153,6 +154,8 @@ async function main(): Promise<void> {
       await buildTxBallot();
     } else if (cmd === "news-oct22") {
       await buildOct22();
+    } else if (cmd === "news-rides") {
+      await buildRides();
     } else if (cmd === "rollover") {
       const to = Number(argValue("--to"));
       if (!to) throw new Error("--to YYYY required");
