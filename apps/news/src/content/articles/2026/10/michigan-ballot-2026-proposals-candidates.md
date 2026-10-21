@@ -109,7 +109,7 @@ Supreme Court candidates are nominated at party conventions but appear on the ba
 | Mon., Nov. 2, 4 p.m. | Last day to request and vote an absentee ballot in person at your clerk's office |
 | Tue., Nov. 3, 7 a.m.-8 p.m. | Election Day; absentee ballots must be received by 8 p.m. |
 
-Michigan voters approved a nine-day minimum for early voting in 2022, and some communities start earlier. Absentee ballots come with prepaid return postage and can be returned to a drop box in every community. Ballots must be in the clerk's hands by 8 p.m. on Election Day; a postmark does not count. Check your registration, sample ballot and early voting sites at the Michigan Voter Information Center.
+Michigan voters approved a nine-day minimum for early voting in 2022, and some communities start earlier. Absentee ballots come with prepaid return postage and can be returned to a drop box in every community. Ballots must be in the clerk's hands by 8 p.m. on Election Day; a postmark does not count. Check your registration, sample ballot and early voting sites at the Michigan Voter Information Center. Site hours and the rules for the nine days are in [early voting starts Oct. 24 in Michigan and New York](/news/early-voting-starts-october-24-michigan-new-york-2026/).
 
 ## ID at the polls
 

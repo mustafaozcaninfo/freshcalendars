@@ -105,13 +105,13 @@ The Social Security Administration (SSA) pays most retirement, survivor and disa
 
 ## Saturday, Oct. 24: four observances
 
-United Nations Day marks the day the UN Charter took effect in 1945. Rotary International holds World Polio Day on the same date to rally support for ending the disease. Points of Light's Make A Difference Day, a national day of volunteering, falls on the fourth Saturday of October. The DEA runs its 31st National Prescription Drug Take Back Day from 10 a.m. to 2 p.m. local time at collection sites nationwide, where unused medicines can be dropped off anonymously.
+United Nations Day marks the day the UN Charter took effect in 1945. Rotary International holds World Polio Day on the same date to rally support for ending the disease. Points of Light's Make A Difference Day, a national day of volunteering, falls on the fourth Saturday of October. The DEA runs its 31st National Prescription Drug Take Back Day from 10 a.m. to 2 p.m. local time at collection sites nationwide, where unused medicines can be dropped off anonymously. What to bring and how to find a site are in our [Take Back Day guide](/news/dea-drug-take-back-day-october-24-2026-locations/).
 
 ## The Hunter's Moon and the World Series
 
 October's full moon peaks at 12:12 a.m. EDT on Monday, Oct. 26, which is Sunday evening in the Central, Mountain and Pacific time zones; our [Hunter's Moon guide](/news/hunters-moon-october-2026-full-moon-time/) has moonrise times by city. The Orionid meteor shower, debris from Halley's Comet, peaks the night of Oct. 21-22; see our [Orionid viewing guide](/news/orionid-meteor-shower-2026-peak-october-21-22/).
 
-The World Series opens Friday, Oct. 23, with games scheduled at 8 p.m. ET, according to Major League Baseball. A seventh game, if needed, would be played on Halloween.
+The World Series opens Friday, Oct. 23, with games scheduled at 8 p.m. ET, according to Major League Baseball; every date and channel is in our [World Series 2026 schedule](/news/world-series-2026-schedule-game-times-tv-channel/). A seventh game, if needed, would be played on Halloween.
 
 ## Nevada Day and Halloween
 
