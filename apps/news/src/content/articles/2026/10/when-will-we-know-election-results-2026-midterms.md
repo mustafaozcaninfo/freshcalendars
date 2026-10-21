@@ -12,7 +12,7 @@ hero:
   src: ../../../../assets/news/when-will-we-know-election-results-2026-midterms/when-will-we-know-election-results-2026-midterms.jpg
   alt: "When will we know the 2026 election results: a bar chart of the share of votes counted beside a clock near 11"
   title: "When will we know the 2026 midterm election results?"
-  caption: "Results on election night, Nov. 3, 2026, are unofficial. Some states count mail ballots for days, and certification follows weeks later. Illustration: Fresh Calendars."
+  caption: "Results on election night, Nov. 3, 2026, are unofficial. Some states count mail ballots for days, and certification follows weeks later."
 summary:
   - "Results on election night, Tuesday, Nov. 3, 2026, are unofficial. News organizations project winners; states make results official weeks later through the canvass and certification."
   - "Speed depends on state law: Pennsylvania and Wisconsin cannot start processing mail ballots until 7 a.m. on Election Day, while Florida can start 22 days early."

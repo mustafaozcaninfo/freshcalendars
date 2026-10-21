@@ -8,9 +8,9 @@ const { name, role, bio, href } = Astro.props;
   <p class="bio">{bio}</p>
 </aside>
 <style>
-  .author-card{border-top:4px solid var(--gold);padding-top:1rem;margin:2rem 0}
+  .author-card{border:1px solid var(--n-border);border-top:4px solid var(--gold);background:var(--n-soft);border-radius:var(--n-radius);padding:1rem 1.25rem;margin:2rem 0}
   .author-card p{margin:0 0 .35rem}
   .name{font-family:Sora,"Sora Fallback",sans-serif;font-weight:700;font-size:1.05rem}
-  .role{font-size:.85rem;text-transform:uppercase;letter-spacing:.04em;color:var(--ink)}
+  .role{font-size:.8rem;font-weight:700;text-transform:uppercase;letter-spacing:.06em;color:var(--ink)}
   .bio{font-size:.95rem}
 </style>

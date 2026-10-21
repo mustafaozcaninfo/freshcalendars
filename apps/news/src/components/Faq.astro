@@ -14,8 +14,11 @@ const { items } = Astro.props;
   </section>
 )}
 <style>
-  .faq-block details{border-top:1px solid var(--line-soft);padding:.25rem 0}
-  .faq-block details:last-child{border-bottom:1px solid var(--line-soft)}
-  .faq-block summary{cursor:pointer;font-weight:700;color:var(--ink-strong);min-height:44px;display:flex;align-items:center}
-  .faq-block p{margin:.25rem 0 .75rem}
+  .faq-block details{border:1px solid var(--n-border);border-radius:var(--n-radius);padding:0 1rem;margin:.55rem 0;background:#fff;transition:box-shadow .2s ease,background .2s ease}
+  .faq-block details[open]{background:var(--n-soft);box-shadow:var(--n-shadow)}
+  .faq-block summary{cursor:pointer;font-weight:700;color:var(--ink-strong);min-height:48px;display:flex;align-items:center;justify-content:space-between;gap:1rem;list-style:none}
+  .faq-block summary::-webkit-details-marker{display:none}
+  .faq-block summary::after{content:"+";flex:none;display:grid;place-items:center;width:1.6rem;height:1.6rem;border-radius:50%;background:var(--n-brand-soft);color:var(--n-brand);font-size:1.1rem;font-weight:800;transition:transform .2s ease}
+  .faq-block details[open] summary::after{content:"\2212"}
+  .faq-block p{margin:0 0 .9rem}
 </style>

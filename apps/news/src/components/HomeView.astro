@@ -70,7 +70,7 @@ const jsonLd = listingGraph({
             <h2 class="sec">Latest</h2>
             <ol>
               {latest.map((a) => (
-                <li>
+                <li data-cat={a.data.category.id}>
                   <p class="cat"><a href={categoryHref(a.data.category.id)}>{categoryNames.get(a.data.category.id)}</a></p>
                   <h3><a href={articlePath(a.id)}>{a.data.title}</a></h3>
                   <time datetime={isoDateTime(a.data.publishedAt)}>{formatDateET(a.data.publishedAt)}</time>
@@ -120,7 +120,7 @@ const jsonLd = listingGraph({
     <div class="sections">
       {sections.map((s, i) => (
         <>
-          <section class="cat-block" aria-labelledby={`sec-${s.c.id}`}>
+          <section class="cat-block" data-cat={s.c.id} aria-labelledby={`sec-${s.c.id}`}>
             <div class="sec-head"><h2 class="sec" id={`sec-${s.c.id}`}><a href={categoryHref(s.c.id)}>{s.c.data.name}</a></h2>{s.total > s.items.length && <a href={categoryHref(s.c.id)}>More →</a>}</div>
             <div class="tiles">{s.items.map((a) => <ArticleCard article={a} categoryName={s.c.data.name} headingLevel={3} tile />)}</div>
           </section>
@@ -159,6 +159,9 @@ const jsonLd = listingGraph({
   .sec{font-family:Sora,"Sora Fallback",sans-serif;font-size:1.15rem;color:var(--ink-strong);margin:0 0 .75rem}
   .sec a{color:var(--ink-strong);text-decoration:none}
   .sec-head{display:flex;justify-content:space-between;align-items:baseline;gap:1rem;border-bottom:3px solid var(--ink-strong);margin-bottom:1rem}
+  .cat-block .sec-head{border-bottom-color:var(--cat)}
+  .cat-block .sec a{color:var(--ink-strong)!important}
+  .cat-block .sec::before{content:"";display:inline-block;width:.6rem;height:.6rem;border-radius:3px;background:var(--cat);margin-right:.5rem;vertical-align:.12em}
   .sec-head .sec{margin:0 0 .4rem}
   .sec-head > a{font-weight:700;font-size:.92rem;text-decoration:none;padding:.5rem 0}
 
@@ -166,10 +169,12 @@ const jsonLd = listingGraph({
 
   .lead-grid{display:grid;gap:1.5rem;margin-bottom:2rem}
   .latest ol{list-style:none;margin:0;padding:0}
-  .latest li{padding:.8rem 0;border-top:1px solid var(--line-soft)}
+  .latest li{padding:.8rem 0;border-top:1px solid var(--n-border)}
   .latest li:first-child{border-top:0;padding-top:0}
   .latest .cat{margin:0 0 .2rem;font-size:.72rem;font-weight:700;text-transform:uppercase;letter-spacing:.06em}
-  .latest .cat a{color:var(--focus);text-decoration:none}
+  .latest .cat a{color:var(--cat)!important;text-decoration:none}
+  .latest li{border-left:3px solid transparent;transition:border-color .15s ease}
+  .latest li:hover{border-left-color:var(--cat);padding-left:.6rem}
   .latest h3{font-family:Sora,"Sora Fallback",sans-serif;font-size:1rem;line-height:1.3;margin:0 0 .3rem}
   .latest h3 a{color:var(--ink-strong);text-decoration:none}
   .latest h3 a:hover,.latest h3 a:focus-visible{text-decoration:underline}
@@ -187,7 +192,8 @@ const jsonLd = listingGraph({
   .strip{margin:0 0 2.25rem}
   .strip ul{list-style:none;margin:0;padding:0;display:grid;grid-template-columns:repeat(2,1fr);gap:1rem}
   .strip a{display:grid;gap:.5rem;text-decoration:none;color:var(--ink-strong);font-weight:700;font-size:.9rem;line-height:1.3}
-  .strip :global(img){display:block;width:100%;height:auto;aspect-ratio:17/22;object-fit:cover;object-position:top;border:1px solid var(--line-soft);border-radius:6px;background:#fff;box-shadow:0 2px 8px rgba(0,0,0,.06)}
+  .strip :global(img){display:block;width:100%;height:auto;aspect-ratio:17/22;object-fit:cover;object-position:top;border:1px solid var(--n-border);border-radius:10px;background:#fff;box-shadow:var(--n-shadow);transition:box-shadow .2s ease,transform .2s ease}
+  .strip a:hover :global(img){box-shadow:var(--n-shadow-h);transform:translateY(-3px)}
   .strip a:hover span,.strip a:focus-visible span{text-decoration:underline}
 
   .sections{display:grid;gap:2.25rem;margin-bottom:2.25rem}

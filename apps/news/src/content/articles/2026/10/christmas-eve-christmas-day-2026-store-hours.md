@@ -12,7 +12,7 @@ hero:
   src: ../../../../assets/news/christmas-eve-christmas-day-2026-store-hours/christmas-eve-christmas-day-2026-store-hours.jpg
   alt: "Christmas Eve 2026 store hours: a gift box and a calendar page for Thursday, Dec. 24, beside a clock at 5 o'clock"
   title: "Christmas Eve and Christmas Day 2026 store hours"
-  caption: "Christmas Eve falls on Thursday, Dec. 24, 2026, and Christmas Day on Friday, Dec. 25. Most stores close early Thursday and stay closed Friday. Illustration: Fresh Calendars."
+  caption: "Christmas Eve falls on Thursday, Dec. 24, 2026, and Christmas Day on Friday, Dec. 25. Most stores close early Thursday and stay closed Friday."
 summary:
   - "Christmas Eve is Thursday, Dec. 24, 2026, and Christmas Day is Friday, Dec. 25, so stores close early on a weekday and reopen on Saturday, Dec. 26."
   - "Home Depot has posted its 2026 hours: closing at 5 p.m. on Christmas Eve and closed on Christmas Day. Lowe's says its stores will close on Christmas Day."

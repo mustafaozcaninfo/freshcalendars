@@ -13,7 +13,7 @@ hero:
   src: ../../../../assets/news/veterans-day-free-meals-discounts/veterans-day-free-meals-discounts.jpg
   alt: "Veterans Day free meals 2026: a plate and a coffee cup beside a calendar page for Wednesday, Nov. 11, with a card reading printable deal sheet"
   title: "Veterans Day free meals and discounts, Nov. 11, 2026"
-  caption: "Restaurants and stores honor veterans and service members on Wednesday, Nov. 11, 2026. Most offers require proof of service. Illustration: Fresh Calendars."
+  caption: "Restaurants and stores honor veterans and service members on Wednesday, Nov. 11, 2026. Most offers require proof of service."
 summary:
   - "Nine restaurant chains have announced free Veterans Day meals for Wednesday, Nov. 11, 2026, so far, including Chili's, Golden Corral, In-N-Out Burger and Sizzler."
   - "Big chains such as Applebee's, Denny's, IHOP, Olive Garden and Texas Roadhouse offered free meals in 2025 and usually announce in early November; we list last year's terms so you know what to expect."

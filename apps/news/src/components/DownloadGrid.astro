@@ -39,19 +39,22 @@ const groups = [...new Set(items.map((i) => i.group))];
   </section>
 )}
 <style>
-  .downloads{margin:0 0 2rem;padding:1.25rem;border:2px solid var(--gold);border-radius:6px;background:#fffdf3}
+  .downloads{margin:0 0 2rem;padding:1.25rem;border:1px solid #f3dc8b;border-top:5px solid var(--gold);border-radius:16px;background:linear-gradient(180deg,#fffdf4,#fff);box-shadow:var(--n-shadow)}
   .downloads h2{font-family:Sora,"Sora Fallback",sans-serif;font-size:1.3rem;margin:0 0 .25rem;color:var(--ink-strong)}
   .intro{margin:0 0 1rem;font-size:.95rem}
   .downloads h3{font-family:Sora,"Sora Fallback",sans-serif;font-size:1.05rem;margin:1.25rem 0 .75rem;color:var(--ink-strong)}
   .downloads ul{list-style:none;margin:0;padding:0;display:grid;gap:1rem;grid-template-columns:repeat(auto-fill,minmax(250px,1fr))}
-  .downloads li{display:grid;grid-template-columns:96px 1fr;gap:.75rem;background:#fff;border:1px solid var(--line-soft);border-radius:6px;padding:.75rem}
-  .thumb :global(img){display:block;width:96px;height:auto;border:1px solid var(--line-soft);border-radius:3px;background:#fff}
+  .downloads li{display:grid;grid-template-columns:96px 1fr;gap:.75rem;background:#fff;border:1px solid var(--n-border);border-radius:12px;padding:.75rem;transition:box-shadow .2s ease,transform .2s ease}
+  .downloads li:hover{box-shadow:var(--n-shadow-h);transform:translateY(-2px)}
+  .thumb :global(img){display:block;width:96px;height:auto;border:1px solid var(--n-border);border-radius:6px;background:#fff;box-shadow:0 1px 3px rgba(16,24,40,.08)}
   .downloads h4{font-family:Sora,"Sora Fallback",sans-serif;font-size:.98rem;line-height:1.25;margin:0 0 .25rem;color:var(--ink-strong)}
   .downloads .body p{margin:0 0 .35rem;font-size:.88rem;line-height:1.4}
   .meta{color:var(--ink);font-size:.8rem}
   .btns{display:flex;gap:.5rem;flex-wrap:wrap}
-  .btn{display:inline-flex;align-items:center;min-height:44px;padding:0 .85rem;border-radius:4px;font-weight:700;font-size:.9rem;text-decoration:none}
+  .btn{display:inline-flex;align-items:center;min-height:44px;padding:0 .95rem;border-radius:8px;transition:background .15s ease,box-shadow .15s ease;font-weight:700;font-size:.9rem;text-decoration:none}
   .btn.pdf{background:var(--focus);color:#fff}
+  .btn.pdf:hover{background:#003a64;box-shadow:0 4px 10px rgba(0,74,127,.25)}
+  .btn.png:hover{background:var(--n-brand-soft)}
   .btn.png{border:1px solid var(--focus);color:var(--focus);background:#fff}
   .btn:focus-visible{outline:3px solid var(--gold);outline-offset:2px}
 </style>

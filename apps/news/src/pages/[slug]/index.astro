@@ -126,7 +126,7 @@ const older = pos >= 0 && pos < all.length - 1 ? linkOf(all[pos + 1]!) : undefin
       { name: category.data.name, href: categoryPath(category.id) },
       { name: d.title },
     ]} />
-    <p class="kicker"><a href={categoryPath(category.id)}>{category.data.name}</a></p>
+    <p class="kicker" data-cat={category.id}><a href={categoryPath(category.id)}>{category.data.name}</a></p>
     <h1 class={d.title.length > 80 ? "long" : undefined}>{d.title}</h1>
     <p class="news-lede">{d.description}</p>
     <ArticleMeta
@@ -206,8 +206,8 @@ const older = pos >= 0 && pos < all.length - 1 ? linkOf(all[pos + 1]!) : undefin
 </NewsBase>
 
 <style>
-  .article .kicker{margin:0 0 .5rem;font-size:.8rem;font-weight:700;text-transform:uppercase;letter-spacing:.06em}
-  .article .kicker a{color:var(--focus);text-decoration:none}
+  .article .kicker{margin:0 0 .6rem}
+  .article .kicker a{display:inline-block;padding:.18rem .65rem;border-radius:999px;background:color-mix(in srgb,var(--cat) 10%,#fff);color:var(--cat)!important;font-size:.75rem;font-weight:800;text-transform:uppercase;letter-spacing:.07em;text-decoration:none}
   .article .news-lede{margin-bottom:1rem}
   .jump{margin:-.5rem 0 1.25rem;font-weight:700}
   .jump a{display:inline-flex;align-items:center;min-height:44px}
@@ -216,12 +216,18 @@ const older = pos >= 0 && pos < all.length - 1 ? linkOf(all[pos + 1]!) : undefin
   .prose-news :global(h3){font-family:Sora,"Sora Fallback",sans-serif;font-size:1.1rem;line-height:1.3;margin:1.5rem 0 .5rem;color:var(--ink-strong)}
   .prose-news :global(ul){padding-left:1.25rem;margin:0 0 1.1rem}
   .prose-news :global(li){margin:.35rem 0}
-  .prose-news :global(th){background:var(--wash)}
   .prose-news :global(p){margin:0 0 1.1rem}
   .prose-news :global(a){color:var(--focus)}
   /* Wide tables scroll inside their own box instead of being clipped on phones. */
-  .prose-news :global(table){width:100%;border-collapse:collapse;margin:0 0 1.25rem;font-size:1rem;display:block;overflow-x:auto}
-  .prose-news :global(th),.prose-news :global(td){border:1px solid var(--line-soft);padding:.5rem;text-align:left}
+  .prose-news :global(table){width:100%;border-collapse:separate;border-spacing:0;margin:0 0 1.4rem;font-size:.98rem;border:1px solid var(--n-border);border-radius:var(--n-radius);box-shadow:var(--n-shadow)}
+  .prose-news :global(th),.prose-news :global(td){border-bottom:1px solid var(--n-border);padding:.6rem .7rem;text-align:left;vertical-align:top}
+  .prose-news :global(th){background:var(--n-brand-soft);color:var(--ink-strong);font-weight:800;font-size:.9rem;white-space:nowrap}
+  .prose-news :global(tbody tr:nth-child(even) td){background:#fafbfd}
+  .prose-news :global(tbody tr:hover td){background:#fff8e1}
+  .prose-news :global(tbody tr:last-child td){border-bottom:0}
+  /* Phones: wide tables scroll inside their own box instead of being clipped. */
+  @media (max-width:640px){ .prose-news :global(table){display:block;overflow-x:auto} }
+  .prose-news :global(blockquote){margin:1.25rem 0;padding:.75rem 1.1rem;border-left:4px solid var(--n-brand);background:var(--n-soft);border-radius:0 var(--n-radius) var(--n-radius) 0}
   /* Freshness note at the top of a running list (raw HTML in the story). */
   .prose-news :global(.callout){margin:0 0 1.25rem;padding:.85rem 1rem;border:2px solid var(--gold);border-left-width:6px;border-radius:10px;background:#fffbea;font-size:1rem;line-height:1.5}
   /* ZIP finder (raw HTML inside the sample ballot story). */

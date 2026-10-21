@@ -12,7 +12,7 @@ hero:
   src: ../../../../assets/news/black-friday-2026-store-hours-walmart-target-best-buy/black-friday-2026-store-hours-walmart-target-best-buy.jpg
   alt: "Black Friday 2026 store hours: a shopping bag and a calendar page for Friday, Nov. 27, beside a clock at 6 a.m."
   title: "Black Friday 2026 store hours, Nov. 27"
-  caption: "Black Friday falls on Friday, Nov. 27, 2026. Most large chains close on Thanksgiving and open between 5 and 6 a.m. Illustration: Fresh Calendars."
+  caption: "Black Friday falls on Friday, Nov. 27, 2026. Most large chains close on Thanksgiving and open between 5 and 6 a.m."
 summary:
   - "Black Friday is Friday, Nov. 27, 2026, the day after Thanksgiving. Small Business Saturday is Nov. 28 and Cyber Monday is Nov. 30."
   - "Home Depot has published its 2026 hours: closed on Thanksgiving, open at 6 a.m. on Black Friday. Lowe's says its stores will be closed on Thanksgiving."

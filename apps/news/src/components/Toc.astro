@@ -10,9 +10,12 @@ const items = Astro.props.headings.filter((h) => h.depth === 2);
   </details>
 )}
 <style>
-  .toc{border:1px solid var(--line-soft);border-radius:4px;padding:.75rem 1rem;margin:0 0 1.5rem}
-  .toc summary{cursor:pointer;font-weight:700;color:var(--ink-strong);min-height:44px;display:flex;align-items:center}
-  .toc ol{margin:.5rem 0 0;padding-left:1.25rem}
-  .toc li{margin:.35rem 0}
-  .toc a{color:var(--focus)}
+  .toc{border:1px solid var(--n-border);background:var(--n-soft);border-radius:var(--n-radius);padding:.35rem 1rem;margin:0 0 1.5rem}
+  .toc summary{cursor:pointer;font-weight:800;color:var(--ink-strong);min-height:44px;display:flex;align-items:center;justify-content:space-between;list-style:none}
+  .toc summary::-webkit-details-marker{display:none}
+  .toc summary::after{content:"";width:.55rem;height:.55rem;border-right:2px solid currentColor;border-bottom:2px solid currentColor;transform:rotate(45deg);transition:transform .2s ease;margin-right:.2rem}
+  .toc[open] summary::after{transform:rotate(-135deg)}
+  .toc ol{margin:.25rem 0 .75rem;padding-left:1.25rem}
+  .toc li{margin:.4rem 0}
+  .toc a{color:var(--n-brand)}
 </style>

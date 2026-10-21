@@ -7,8 +7,9 @@ const { points } = Astro.props;
   <ul>{points.map((p) => <li>{p}</li>)}</ul>
 </aside>
 <style>
-  .keypoints{border-left:4px solid var(--gold);background:#fffbe6;padding:1rem 1.25rem;margin:0 0 1.5rem;border-radius:0 4px 4px 0}
-  .keypoints h2{font-family:Sora,"Sora Fallback",sans-serif;font-size:1rem;margin:0 0 .5rem;color:var(--ink-strong)}
-  .keypoints ul{margin:0;padding-left:1.1rem;color:var(--ink-strong)}
-  .keypoints li+li{margin-top:.35rem}
+  .keypoints{border:1px solid #f5dfa0;border-left:5px solid var(--gold);background:linear-gradient(180deg,#fffbeb,#fff7dc);padding:1rem 1.25rem;margin:0 0 1.5rem;border-radius:var(--n-radius);box-shadow:var(--n-shadow)}
+  .keypoints h2{font-family:Sora,"Sora Fallback",sans-serif;font-size:.85rem;text-transform:uppercase;letter-spacing:.08em;margin:0 0 .6rem;color:#7a4a00}
+  .keypoints ul{margin:0;padding-left:1.15rem;color:var(--ink-strong)}
+  .keypoints li::marker{color:#b45309}
+  .keypoints li+li{margin-top:.45rem}
 </style>

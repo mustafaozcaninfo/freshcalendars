@@ -12,7 +12,7 @@ hero:
   src: ../../../../assets/news/gta-6-october-22-2026-what-is-confirmed-release-countdown/gta-6-october-22-2026-what-is-confirmed-release-countdown.jpg
   alt: "GTA 6 countdown: a calendar page for Thursday, Oct. 22 over a neon sunset, beside a card reading launch Thursday, Nov. 19"
   title: "GTA 6: what is confirmed before the Nov. 19 launch"
-  caption: "Grand Theft Auto VI launches Nov. 19, 2026, on PlayStation 5 and Xbox Series X|S. Pre-loading opens Nov. 12. Illustration: Fresh Calendars."
+  caption: "Grand Theft Auto VI launches Nov. 19, 2026, on PlayStation 5 and Xbox Series X|S. Pre-loading opens Nov. 12."
 summary:
   - "Rockstar Games has not announced anything for Thursday, Oct. 22. The date draws attention because Rockstar has released Grand Theft Auto VI news on recent Thursdays, most recently the Launch Trailer on Oct. 15."
   - "Confirmed by Take-Two Interactive: launch on Thursday, Nov. 19, 2026, on PlayStation 5 and Xbox Series X|S for $79.99, or $99.99 for the Ultimate Edition."

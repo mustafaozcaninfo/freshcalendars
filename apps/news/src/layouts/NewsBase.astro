@@ -103,6 +103,15 @@ const fontPreload = [
 </html>
 
 <style is:global>
+  /* News design tokens: soft borders, rounded cards, one shadow scale, a color per section. */
+  html.news{--n-border:#e3e8ef;--n-soft:#f6f8fb;--n-brand:#0b5cad;--n-brand-soft:#eaf2fb;--n-radius:12px;--n-shadow:0 1px 2px rgba(16,24,40,.05),0 6px 16px rgba(16,24,40,.06);--n-shadow-h:0 2px 4px rgba(16,24,40,.07),0 14px 30px rgba(16,24,40,.12);--cat:#0b5cad}
+  html.news [data-cat="holidays"]{--cat:#b42318} html.news [data-cat="planning"]{--cat:#0b5cad} html.news [data-cat="retail-dates"]{--cat:#93370d}
+  html.news [data-cat="school-calendars"]{--cat:#067647} html.news [data-cat="sky-events"]{--cat:#5b3fc4} html.news [data-cat="time-change"]{--cat:#0b6680}
+  html.news [data-cat="uk-canada"]{--cat:#a11043} html.news [data-cat="puzzles"]{--cat:#6d28d9}
+  html.news ::selection{background:#fff1b8;color:#111}
+  .news-main a{text-underline-offset:.18em;text-decoration-thickness:1px}
+  .news-main a:hover{text-decoration-thickness:2px}
+  @media (prefers-reduced-motion:reduce){ html.news *{transition:none!important;animation:none!important} }
   .skip-link{position:absolute;left:-999px;top:0;z-index:100;background:#fff;color:var(--focus);padding:.75rem 1rem;font-weight:700}
   .skip-link:focus{left:1rem;top:1rem}
   html.news body{font-family:"Source Sans 3","Source Sans 3 Fallback",ui-sans-serif,system-ui,sans-serif}
