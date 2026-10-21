@@ -162,7 +162,7 @@ Each state's election office runs a voter lookup. In 18 states and Washington, D
 | New Hampshire | [New Hampshire Voter Information Lookup](https://app.sos.nh.gov/voterinformation) | County or local office |
 | New Jersey | [New Jersey Voter Registration Check](https://voter.svrs.nj.gov/registration-check) | County or local office |
 | New Mexico | [New Mexico Voter Portal](https://voterportal.servis.sos.state.nm.us/WhereToVote.aspx) | State portal |
-| New York | [New York Voter Lookup](https://voterlookup.elections.ny.gov/) | County or local office |
+| New York | [New York Voter Lookup](https://voterlookup.elections.ny.gov/); races in our [New York ballot guide](/news/new-york-ballot-2026-sample-ballot-governor-nyc-proposals/) | County or local office |
 | North Carolina | [North Carolina Voter Search](https://vt.ncsbe.gov/RegLkup/) | State portal |
 | North Dakota | [North Dakota Where to Vote](https://vip.sos.nd.gov/WhereToVote.aspx) | County or local office |
 | Ohio | [Ohio Voter Lookup](https://voterlookup.ohiosos.gov/voterlookup.aspx) | County or local office |

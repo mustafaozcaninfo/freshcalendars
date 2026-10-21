@@ -97,7 +97,7 @@ Look up your assigned site and its hours at Michigan.gov/Vote. In line at closin
 - **Registration:** Online and mail registration closed on Oct. 19. You can still register in person at your local clerk's office, with proof of residency, through 8 p.m. on Election Day. Early voting sites do not register voters unless the site is at a clerk's office.
 - **Mail ballots:** Clerks must receive your absentee ballot by 8 p.m. on Nov. 3; a postmark does not count. The state recommends hand-delivering it to your clerk's office or assigned drop box, or bringing it to your early voting site.
 
-By 7 a.m. on Oct. 20, 789,572 Michigan voters had already cast a ballot, 10.7% of active registered voters, nearly all of them by mail. Voters had requested 2,121,458 mail ballots, 17% more than at the same point before the 2022 midterm. For what is on the ballot, see our [Michigan ballot guide](/news/michigan-ballot-2026-proposals-candidates/).
+By 7 a.m. on Oct. 20, 789,572 Michigan voters had already cast a ballot, 10.7% of active registered voters, nearly all of them by mail. Voters had requested 2,121,458 mail ballots, 17% more than at the same point before the 2022 midterm. For what is on the ballot, see our [Michigan ballot guide](/news/michigan-ballot-2026-proposals-candidates/) and [New York ballot guide](/news/new-york-ballot-2026-sample-ballot-governor-nyc-proposals/).
 
 ## New York: hours set by each county
 

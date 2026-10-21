@@ -39,7 +39,7 @@ function ballot(accent: string, lines: string[], measure: string): string {
     <g transform="translate(1085,250) rotate(12)" filter="url(#sh)"><circle r="62" fill="#fff"/><circle r="54" fill="none" stroke="${accent}" stroke-width="5"/><text y="-6" font-family="Sora" font-size="22" font-weight="800" fill="${accent}" text-anchor="middle">I VOTED</text><text y="20" font-family="Sora" font-size="14" font-weight="800" fill="#334155" text-anchor="middle">NOV. 3, 2026</text></g></svg>`;
 }
 
-function stateHero(fonts: string, o: { state: string; bg: string; bg2: string; accent: string; kicker: string; title: string; cardTop: string; cardBig: string; cardBottom: string; lines: string[]; measure: string; seed: number }): string {
+export function stateHero(fonts: string, o: { state: string; bg: string; bg2: string; accent: string; kicker: string; title: string; cardTop: string; cardBig: string; cardBottom: string; lines: string[]; measure: string; seed: number }): string {
   return frame(fonts, o.bg, `<svg width="${W}" height="${H}" style="position:absolute;inset:0"><defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="${o.bg}"/><stop offset="1" stop-color="${o.bg2}"/></linearGradient></defs><rect width="${W}" height="${H}" fill="url(#bg)"/>${stars(o.seed, 40)}</svg>
     ${ballot(o.accent, o.lines, o.measure)}
     <div class="k" style="left:64px;top:84px;color:#fde68a">${o.kicker}</div>
