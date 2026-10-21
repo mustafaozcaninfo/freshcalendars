@@ -131,6 +131,8 @@ Not statewide. Texas usually votes on constitutional amendments in November of o
 | Tue., Nov. 3, 7 a.m.-7 p.m. | Election Day; mailed ballots due by 7 p.m. |
 | Wed., Nov. 4, 5 p.m. | A mailed ballot postmarked by 7 p.m. Nov. 3 still counts if it arrives by now |
 
+Early voting hours, the full mail ballot rules and the March and May dates are in our [Texas election calendar 2026](/news/texas-election-calendar-2026-early-voting-dates-deadlines/).
+
 Bring one of the seven accepted photo IDs, or sign a Reasonable Impediment Declaration if you cannot reasonably get one. The full ID list, the county election offices for the 12 largest counties and how to find your precinct are in our [sample ballot by ZIP code guide](/news/sample-ballot-by-zip-code-2026-texas-ballot/). Phones cannot be used where you vote, so bring your choices on paper.
 
 ## Print your checklist
