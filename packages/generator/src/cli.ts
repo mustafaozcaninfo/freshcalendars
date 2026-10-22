@@ -10,6 +10,7 @@ import { buildMoonDownloads } from "./moon.js";
 import { buildLunarNewYearDownloads } from "./lunarnewyear.js";
 import { buildSocialSecurityDownloads } from "./socialsecurity.js";
 import { buildNovemberDownloads } from "./diwali.js";
+import { buildHanukkahDownloads } from "./hanukkah.js";
 import { buildAdventDownloads } from "./advent.js";
 import { buildFallDownloads } from "./fall2026.js";
 import { buildDateListDownloads } from "./datelists.js";
@@ -119,6 +120,8 @@ async function main(): Promise<void> {
       await buildSocialSecurityDownloads();
     } else if (cmd === "news-november") {
       await buildNovemberDownloads();
+    } else if (cmd === "news-hanukkah") {
+      await buildHanukkahDownloads();
     } else if (cmd === "news-advent") {
       await buildAdventDownloads();
     } else if (cmd === "news-fall") {
@@ -208,6 +211,7 @@ async function main(): Promise<void> {
   pnpm fc news-lunar                       # /news/ Lunar New Year 2027 printables (PDF + PNG)
   pnpm fc news-ssa                         # /news/ Social Security 2027 printables (PDF + PNG)
   pnpm fc news-november                    # /news/ Diwali 2026 and Election 2026 printables (PDF + PNG)
+  pnpm fc news-hanukkah                    # /news/ Hanukkah 2026 hero, figures and printables (PDF + PNG)
   pnpm fc news-advent                      # /news/ Advent calendar 2026 printables (PDF + PNG)
   pnpm fc news-fall                        # /news/ Halloween, ACA enrollment, November sky printables
   pnpm fc news-datelists                   # /news/ NYC and Chicago school calendars, UK bank holidays 2027
