@@ -30,6 +30,7 @@ import { buildTxBallot } from "./txballot.js";
 import { buildOct22 } from "./oct22.js";
 import { buildRides } from "./rides2026.js";
 import { buildTxCalendar } from "./txcalendar.js";
+import { buildNewsAssets } from "./newsAssets.js";
 import { buildHeroes4 } from "./heroes4.js";
 import { ROOT } from "./paths.js";
 import { purgeDoCdn, syncCdnAssets } from "./spaces.js";
@@ -159,6 +160,8 @@ async function main(): Promise<void> {
       await buildRides();
     } else if (cmd === "news-txcalendar") {
       await buildTxCalendar();
+    } else if (cmd === "news-assets") {
+      await buildNewsAssets(process.argv[3] ?? "");
     } else if (cmd === "rollover") {
       const to = Number(argValue("--to"));
       if (!to) throw new Error("--to YYYY required");

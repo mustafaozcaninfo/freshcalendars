@@ -7,6 +7,16 @@ description: Write, update or publish-prepare a Fresh Calendars /news/ story (As
 
 Read `CLAUDE.md` first; its content rules apply to every step. The finished work is a commit pushed to `main`, not a deploy; the owner publishes it.
 
+## Who does what (keeps token use low)
+
+Run this skill in a fresh session for each story or small batch of related stories; long sessions re-read their whole history on every turn.
+
+- **Research → `news-researcher` agent (Haiku).** Send it the topic and the exact questions (dates, times, names, numbers, URLs to check). It returns a fact sheet with sources and an UNCONFIRMED/BLOCKED list. If it reports a BLOCKED official page that matters, open it yourself in the browser; never get around a bot challenge.
+- **Writing and checks → `news-writer` agent (Sonnet).** Send it the slug, target query, category, related slugs and the fact sheet. It writes the file with an `assets:` block, runs `pnpm fc news-assets <slug>`, and runs the checks until they pass.
+- **The main session** decides new-vs-update, resolves conflicting sources, does one quick look at the hero and printable images, reads the finished story once, commits and pushes. Use the strongest model only for this part.
+
+Write a one-off generator (step 4) only when a story truly needs a custom visual that `news-assets` cannot draw.
+
 ## 1. Decide: new story or update
 
 Search existing stories before writing:
@@ -78,8 +88,28 @@ Valid calendar-site links: check that the page answers on freshcalendars.com bef
 
 ## 4. Hero image and printables
 
-- Hero: 2400×1350 JPEG in `apps/news/src/assets/news/<slug>/`. Draw it with code, like the existing generators (`packages/generator/src/heroes5.ts`): HTML/SVG rendered by Playwright, saved with sharp. Add your script as `packages/generator/src/<topic>.ts` and register a `news-<topic>` command in `cli.ts`, then run `pnpm fc news-<topic>`. No stock photos or images you don't have rights to; no answers in puzzle heroes.
-- Printables (when they help the reader: checklists, trackers, calendars): PDF + PNG in `apps/news/public/downloads/<group>/`, preview PNG in `apps/news/src/assets/news/<group>/`, listed under `downloads:` in frontmatter. See `packages/generator/src/oct24.ts` or `november2026.ts` for the pattern, and render with `renderPrintables()` from `printables.ts`. Offer 2-3 styles when it is cheap (classic, color, ink saver).
+- **Default: `pnpm fc news-assets <slug>`.** Add an `assets:` block to the frontmatter (Astro ignores it) and run the command. It draws the hero (2400×1350 JPEG with kicker, title, an optional calendar card for `date`, and an optional white card) and, if you give `printable:`, a one-page date-list printable with a Done column and notes, then prints the `downloads:` entry to paste. The full field list is at the top of `packages/generator/src/newsAssets.ts`. Example:
+
+```yaml
+assets:
+  kicker: "Texas · Nov. 3, 2026"
+  title: "Every Texas voting deadline left"
+  date: "2026-11-03"
+  card: { top: "Early voting runs through", big: "Fri., Oct. 30", bottom: "Polls 7 a.m.-7 p.m." }
+  printable:
+    slug: texas-key-dates-2026
+    group: election-2026
+    title: "Texas Key Dates, Nov. 3, 2026"
+    subtitle: "Every remaining deadline from the Texas Secretary of State"
+    rows:
+      - ["Fri., Oct. 23", "Mail ballot applications must be received"]
+      - ["Tue., Nov. 3, 7 a.m.-7 p.m.", "Election Day"]
+    note: "Source: Texas Secretary of State, Election Advisory No. 2026-21."
+    description: "Every remaining Texas voting deadline for Nov. 3, 2026, with boxes to tick off."
+    alt: "Texas key dates 2026 printable with early voting, mail ballot and Election Day deadlines"
+```
+
+- **Custom visuals only when needed:** a story-specific generator in `packages/generator/src/<topic>.ts` with a `news-<topic>` command in `cli.ts` (patterns: `oct24.ts`, `november2026.ts`, `renderPrintables()` in `printables.ts`). No stock photos or images you don't have rights to; no answers in puzzle heroes.
 
 ### Printable PDF rules (Google's guidance on PDFs; checked by `10-PDF-*` in the audit)
 

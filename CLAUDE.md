@@ -12,7 +12,7 @@ Shared header, footer and site CSS live in `packages/site-chrome/src/index.ts`. 
 Writers (editors) produce /news/ stories from their own Claude sessions and have full write access to this repository. Publishing is separate: only the site owner deploys.
 
 1. Start from an up-to-date `main` (`git pull origin main`).
-2. Write the story with the `news-article` skill (`.claude/skills/news-article/SKILL.md`). It has the full checklist, including the source and PDF rules.
+2. Write the story with the `news-article` skill (`.claude/skills/news-article/SKILL.md`), in a fresh session per story. It has the full checklist, including the source and PDF rules, and hands research to the `news-researcher` agent (Haiku) and writing to the `news-writer` agent (Sonnet) to keep token use low.
 3. Run the checks below locally. All must pass, with no warnings left unexplained.
 4. Commit only the files of your story (and any shared file you deliberately changed) with a clear message, then push straight to `main`. CI repeats the checks on every push; if it fails, fix it with a new commit right away.
 5. Tell the owner the story is pushed. The owner pulls and deploys. **Never run `pnpm news:deploy` or `pnpm fc deploy`, never force-push or rewrite `main`'s history, and never ask for `.env`.** Deploys need server and Cloudflare credentials that only the owner holds.
@@ -65,7 +65,9 @@ Do not run Lighthouse (`news:lighthouse`, `smoke:lighthouse`). The goal is fast,
 | `apps/news/src/content/articles/YYYY/MM/<slug>.md` | stories |
 | `apps/news/src/assets/news/<slug>/` | hero and preview images |
 | `apps/news/public/downloads/<group>/` | printable PDFs and PNGs |
-| `packages/generator/src/*.ts` + `cli.ts` (`news-*` commands) | scripts that draw heroes and printables with Playwright |
+| `pnpm fc news-assets <slug>` (`packages/generator/src/newsAssets.ts`) | draws a story's hero and date-list printable from its frontmatter `assets:` block; use it by default |
+| `packages/generator/src/*.ts` + `cli.ts` (`news-*` commands) | custom hero and printable generators, only when `news-assets` is not enough |
+| `.claude/agents/news-researcher.md`, `news-writer.md` | Haiku research agent and Sonnet writing agent the skill delegates to |
 | `docs/NEWS-ROADMAP.md`, `docs/NEWS-SEO-COMPLIANCE.md` | design of /news/ and the SEO rule map |
 | `docs/YAYIN-REHBERI.md` | how the owner deploys (writers do not deploy) |
 | `SEO-HARITASI-TAM.md` | the SEO playbook the audit cites |

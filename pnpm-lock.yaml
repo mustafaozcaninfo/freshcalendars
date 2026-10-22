@@ -28,7 +28,7 @@ importers:
         version: link:../../packages/site-chrome
       astro:
         specifier: ^5.18.2
-        version: 5.18.2(@types/node@22.20.1)(rollup@4.62.4)(tsx@4.23.4)(typescript@5.9.3)
+        version: 5.18.2(@types/node@22.20.1)(rollup@4.62.4)(tsx@4.23.4)(typescript@5.9.3)(yaml@2.8.1)
       sharp:
         specifier: ^0.35.3
         version: 0.35.3(@types/node@22.20.1)
@@ -47,7 +47,7 @@ importers:
         version: link:../../packages/engine
       astro:
         specifier: ^5.5.3
-        version: 5.18.2(@types/node@22.20.1)(rollup@4.62.4)(tsx@4.23.4)(typescript@5.9.3)
+        version: 5.18.2(@types/node@22.20.1)(rollup@4.62.4)(tsx@4.23.4)(typescript@5.9.3)(yaml@2.8.1)
 
   packages/engine: {}
 
@@ -89,6 +89,9 @@ importers:
       sharp:
         specifier: ^0.35.3
         version: 0.35.3(@types/node@22.20.1)
+      yaml:
+        specifier: 2.8.1
+        version: 2.8.1
     devDependencies:
       '@types/sharp':
         specifier: ^0.32.0
@@ -2262,6 +2265,11 @@ packages:
   xxhash-wasm@1.1.0:
     resolution: {integrity: sha512-147y/6YNh+tlp6nd/2pWq38i9h6mz/EuQ6njIrmW8D1BS5nCqs0P6DG+m6zTGnNz5I+uhZ0SHxBs9BsPrwcKDA==}
 
+  yaml@2.8.1:
+    resolution: {integrity: sha512-lcYcMxX2PO9XMGvAJkJ3OsNMw+/7FKes7/hgerGUYWIoWu5j/+YQqcZr5JnPZWzOsEBgMbSbiSTn/dv/69Mkpw==}
+    engines: {node: '>= 14.6'}
+    hasBin: true
+
   yargs-parser@21.1.1:
     resolution: {integrity: sha512-tVpsJW7DdjecAiFpbIB1e3qxIQsE6NoPc5/eTdrbbIC4h0LVsWhnoa3g+m2HclBIujHzsxZ4VJVA+GUuc2/LBw==}
     engines: {node: '>=12'}
@@ -3205,7 +3213,7 @@ snapshots:
 
   array-iterate@2.0.1: {}
 
-  astro@5.18.2(@types/node@22.20.1)(rollup@4.62.4)(tsx@4.23.4)(typescript@5.9.3):
+  astro@5.18.2(@types/node@22.20.1)(rollup@4.62.4)(tsx@4.23.4)(typescript@5.9.3)(yaml@2.8.1):
     dependencies:
       '@astrojs/compiler': 2.13.1
       '@astrojs/internal-helpers': 0.7.6
@@ -3262,8 +3270,8 @@ snapshots:
       unist-util-visit: 5.1.0
       unstorage: 1.17.5
       vfile: 6.0.3
-      vite: 6.4.3(@types/node@22.20.1)(tsx@4.23.4)
-      vitefu: 1.1.3(vite@6.4.3(@types/node@22.20.1)(tsx@4.23.4))
+      vite: 6.4.3(@types/node@22.20.1)(tsx@4.23.4)(yaml@2.8.1)
+      vitefu: 1.1.3(vite@6.4.3(@types/node@22.20.1)(tsx@4.23.4)(yaml@2.8.1))
       xxhash-wasm: 1.1.0
       yargs-parser: 21.1.1
       yocto-spinner: 0.2.3
@@ -4552,7 +4560,7 @@ snapshots:
       '@types/unist': 3.0.3
       vfile-message: 4.0.3
 
-  vite@6.4.3(@types/node@22.20.1)(tsx@4.23.4):
+  vite@6.4.3(@types/node@22.20.1)(tsx@4.23.4)(yaml@2.8.1):
     dependencies:
       esbuild: 0.25.12
       fdir: 6.5.0(picomatch@4.0.5)
@@ -4564,10 +4572,11 @@ snapshots:
       '@types/node': 22.20.1
       fsevents: 2.3.3
       tsx: 4.23.4
+      yaml: 2.8.1
 
-  vitefu@1.1.3(vite@6.4.3(@types/node@22.20.1)(tsx@4.23.4)):
+  vitefu@1.1.3(vite@6.4.3(@types/node@22.20.1)(tsx@4.23.4)(yaml@2.8.1)):
     optionalDependencies:
-      vite: 6.4.3(@types/node@22.20.1)(tsx@4.23.4)
+      vite: 6.4.3(@types/node@22.20.1)(tsx@4.23.4)(yaml@2.8.1)
 
   web-namespaces@2.0.1: {}
 
@@ -4584,6 +4593,8 @@ snapshots:
       strip-ansi: 7.2.0
 
   xxhash-wasm@1.1.0: {}
+
+  yaml@2.8.1: {}
 
   yargs-parser@21.1.1: {}
 
