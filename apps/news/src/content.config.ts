@@ -16,6 +16,9 @@ const isoDate = z
   .regex(ISO_WITH_TZ, "use ISO-8601 with offset, e.g. 2026-10-18T09:30:00-04:00")
   .transform((s) => new Date(s));
 
+/** Clock skew allowed between a writer's machine and the build server before a date counts as future. */
+const FUTURE_SLACK_MS = 10 * 60_000;
+
 /** File name (without folders/extension) is the URL slug: articles/2026/10/<slug>.md */
 const slugFromFile = ({ entry }: { entry: string }) => path.basename(entry, path.extname(entry));
 
@@ -93,6 +96,19 @@ const articles = defineCollection({
       .superRefine((a, ctx) => {
         if (a.updatedAt && a.updatedAt < a.publishedAt) {
           ctx.addIssue({ code: "custom", path: ["updatedAt"], message: "updatedAt is before publishedAt" });
+        }
+        // A future publishedAt schedules a story; a future updatedAt or correction on a live story is a typo
+        // (usually a time copied from the writer's own time zone), and readers would see a date that has not come.
+        const now = Date.now() + FUTURE_SLACK_MS;
+        if (a.publishedAt.getTime() <= now) {
+          if (a.updatedAt && a.updatedAt.getTime() > now) {
+            ctx.addIssue({ code: "custom", path: ["updatedAt"], message: `updatedAt ${a.updatedAt.toISOString()} is in the future; use the current America/New_York time` });
+          }
+          for (const [i, c] of a.corrections.entries()) {
+            if (c.date.getTime() > now) {
+              ctx.addIssue({ code: "custom", path: ["corrections", i, "date"], message: `correction date ${c.date.toISOString()} is in the future` });
+            }
+          }
         }
         if (a.hero.license && !a.hero.credit) {
           ctx.addIssue({ code: "custom", path: ["hero", "credit"], message: "a licensed photo needs a visible credit" });
