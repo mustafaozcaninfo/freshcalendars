@@ -137,4 +137,6 @@ In Watson v. Republican National Committee, decided June 29, 2026, the U.S. Supr
 | Late Nov.-Dec. | States certify results |
 | Jan. 3, 2027 | The new Congress is sworn in |
 
+You can follow these dates on our [November](/november-calendars.html) and [December](/december-calendars.html) printable calendars.
+
 Louisiana holds December runoffs for races in which no candidate wins a majority; check dates with the Louisiana Secretary of State. Follow every Senate and governor's race with our [2026 midterm tracker](/news/2026-midterm-elections-whats-on-the-ballot-results-tracker/) and the free printable below, which lists each race with its poll closing time in ET. Before you vote, find your [sample ballot by ZIP code](/news/sample-ballot-by-zip-code-2026-texas-ballot/), and see [whether Election Day is a holiday](/news/is-election-day-a-holiday-2026-whats-open/) where you live.

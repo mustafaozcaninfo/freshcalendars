@@ -111,3 +111,5 @@ The U.S. Consumer Product Safety Commission (CPSC) gives general Halloween costu
 - Do not eat treats until an adult has examined them.
 
 Read the full CPSC release, [Halloween Safety Tips for Selecting Costumes and Decor](https://www.cpsc.gov/Newsroom/News-Releases/2013/Halloween-Safety-Tips-for-Selecting-Costumes-and-Decor).
+
+If you are hosting instead of going door to door, our [Halloween party punch recipe](/news/halloween-party-ideas-2026-witches-brew-punch/) has a nonalcoholic witches' brew and a printable checklist.

@@ -55,7 +55,7 @@ internalLinks:
     label: "When does daylight saving time end"
   - href: "/october-calendars.html"
     label: "October 2026 printable calendar"
-related: [daylight-saving-time-ends-november-1-2026, day-of-the-dead-2026-dia-de-los-muertos-dates]
+related: [halloween-2026-what-day-trick-or-treating-start, daylight-saving-time-ends-november-1-2026, day-of-the-dead-2026-dia-de-los-muertos-dates]
 downloads:
   - group: "Halloween 2026 printable"
     title: "Halloween 2026 Sunset and Dark by City"
@@ -117,6 +117,6 @@ Halloween is not a federal holiday, so nothing closes for it. The 11 federal hol
 
 ## What follows Halloween
 
-Halloween weekend runs straight into Día de los Muertos on Nov. 1 and 2; our [Day of the Dead 2026 guide](/news/day-of-the-dead-2026-dia-de-los-muertos-dates/) has the dates and traditions. Election Day follows on Tuesday, Nov. 3. For the date of Halloween in other years, see [when is Halloween](/when-is/halloween/), and plan the week on an [October 2026 calendar](/october-calendars.html). The free printable below lists sunset, dark and moonrise for all 16 cities with room to plan your route.
+Halloween weekend runs straight into Día de los Muertos on Nov. 1 and 2; our [Day of the Dead 2026 guide](/news/day-of-the-dead-2026-dia-de-los-muertos-dates/) has the dates and traditions. Election Day follows on Tuesday, Nov. 3. For the date of Halloween in other years, see [when is Halloween](/when-is/halloween/), and plan the week on an [October 2026 calendar](/october-calendars.html). The free printable below lists sunset, dark and moonrise for all 16 cities with room to plan your route. Hosting at home instead? Our [witches' brew punch recipe](/news/halloween-party-ideas-2026-witches-brew-punch/) is nonalcoholic and keeps the dry ice out of the drink.
 
-For everything else on the calendar this week, see [what day it is on Oct. 20](/news/october-20-2026-what-day-holidays-observances/).
+Trick-or-treat hours are set town by town; our story on [what time trick-or-treating starts](/news/halloween-2026-what-day-trick-or-treating-start/) lists published schedules. For everything else on the calendar this week, see [what day it is on Oct. 20](/news/october-20-2026-what-day-holidays-observances/).

@@ -12,9 +12,6 @@ export interface KeyDate {
 }
 
 export const KEY_DATES: KeyDate[] = [
-  { date: "2026-10-19", label: "Voter registration deadline in California, Pennsylvania and Michigan", slug: "voter-registration-deadline-october-19-2026-early-voting" },
-  { date: "2026-10-21", label: "Orionid meteor shower peaks, night of Oct. 21-22", slug: "orionid-meteor-shower-2026-peak-october-21-22" },
-  { date: "2026-10-21", label: "Social Security payday: birthdays 11th-20th", slug: "social-security-payment-schedule-october-2026-who-gets-paid-today" },
   { date: "2026-10-28", label: "Social Security payday: birthdays 21st-31st", slug: "social-security-payment-schedule-october-2026-who-gets-paid-today" },
   { date: "2026-11-10", label: "Social Security paid a day early (Veterans Day)", slug: "social-security-payment-schedule-october-2026-who-gets-paid-today" },
   { date: "2026-10-25", label: "Clocks go back in the UK and Europe", slug: "uk-europe-clocks-go-back-october-25-2026-time-difference" },
@@ -47,7 +44,6 @@ export const KEY_DATES: KeyDate[] = [
   { date: "2027-02-06", label: "Lunar New Year, Year of the Goat", slug: "lunar-new-year-2027-year-of-the-goat" },
   { date: "2027-02-08", label: "Ramadan 2027 expected to begin", slug: "ramadan-2027-calendar-dates-timetable" },
   { date: "2027-03-09", label: "Eid al-Fitr", slug: "ramadan-2027-calendar-dates-timetable" },
-  { date: "2026-10-20", label: "MCAT 2027 registration opens (Group A states)", slug: "mcat-2027-test-dates-registration-opens-october-20" },
   { date: "2026-10-23", label: "SAT registration deadline for Nov. 7", slug: "sat-act-test-dates-2026-27-registration-deadlines" },
   { date: "2026-11-07", label: "SAT test day", slug: "sat-act-test-dates-2026-27-registration-deadlines" },
   { date: "2026-11-11", label: "November LSAT begins (Nov. 11-14)", slug: "lsat-test-dates-2026-27-registration-deadlines" },
@@ -81,6 +77,11 @@ export const KEY_DATES: KeyDate[] = [
   { date: "2026-11-12", label: "GTA 6 pre-load opens; boxed edition on sale", slug: "gta-6-october-22-2026-what-is-confirmed-release-countdown" },
   { date: "2026-11-19", label: "GTA 6 launches on PS5 and Xbox Series X|S", slug: "gta-6-october-22-2026-what-is-confirmed-release-countdown" },
   { date: "2026-12-01", label: "Georgia runoff, if needed", slug: "georgia-2026-ballot-amendments-advance-voting" },
+  { date: "2026-11-03", label: "Lyft VOTE26: 50% off one ride to the polls, up to $10", slug: "free-rides-to-the-polls-2026-lyft-uber-transit" },
+  { date: "2026-11-12", label: "Northern Taurid meteor shower peaks (Nov. 11-12)", slug: "november-2026-meteor-showers-taurids-leonids" },
+  { date: "2026-11-21", label: "Start thawing a 16-20 lb turkey in the fridge (Nov. 21-22)", slug: "when-to-thaw-thanksgiving-turkey-2026" },
+  { date: "2026-12-09", label: "USPS: send-by date for international gifts (Priority Mail International)", slug: "usps-holiday-shipping-deadlines-2026" },
+  { date: "2027-01-15", label: "ACA open enrollment for 2027 ends", slug: "aca-open-enrollment-2027-dates-november-1-january-15" },
 ];
 
 /** Today's date in Eastern Time as YYYY-MM-DD. */

@@ -47,7 +47,7 @@ internalLinks:
     label: "November 2026 printable calendar"
   - href: "/october-calendars.html"
     label: "October 2026 printable calendar"
-related: [what-time-do-polls-close-election-day-2026, sample-ballot-by-zip-code-2026-texas-ballot, usps-holiday-shipping-deadlines-2026]
+related: [what-time-do-polls-close-election-day-2026, sample-ballot-by-zip-code-2026-texas-ballot, early-voting-2026-which-states-are-voting-now]
 downloads:
   - group: "Election 2026 printables"
     title: "Mail Ballot Deadlines, Nov. 3, 2026"
@@ -120,4 +120,4 @@ Do not wait on a postmark in a grace-period state either. Postal facilities do n
 
 Voters covered by the federal overseas voting law often have different, more generous deadlines. Check with your state election office or the Federal Voting Assistance Program.
 
-Late-arriving ballots are one reason some states count for days; see [when we will know the results](/news/when-will-we-know-election-results-2026-midterms/). For poll hours on Election Day, see [what time polls close in every state](/news/what-time-do-polls-close-election-day-2026/), and to see your full ballot first, read our guide to [finding your sample ballot](/news/sample-ballot-by-zip-code-2026-texas-ballot/). Mark the mailing deadline on our [October](/october-calendars.html) and [November](/november-calendars.html) printable calendars.
+Late-arriving ballots are one reason some states count for days; see [when we will know the results](/news/when-will-we-know-election-results-2026-midterms/). For poll hours on Election Day, see [what time polls close in every state](/news/what-time-do-polls-close-election-day-2026/), and to see your full ballot first, read our guide to [finding your sample ballot](/news/sample-ballot-by-zip-code-2026-texas-ballot/). If you would rather vote in person before Nov. 3, see [which states have early voting open now](/news/early-voting-2026-which-states-are-voting-now/). Mark the mailing deadline on our [October](/october-calendars.html) and [November](/november-calendars.html) printable calendars.

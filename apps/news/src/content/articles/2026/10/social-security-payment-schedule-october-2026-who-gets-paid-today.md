@@ -1,26 +1,27 @@
 ---
-title: "Social Security October 2026 Payment Schedule: Who Gets Paid Today, Oct. 21, and When the Next Payments Arrive"
+title: "Social Security Payment Schedule: Next Payday Oct. 28, Then the Nov. 10 Veterans Day Shift and December Dates"
 seoTitle: "Social Security Payment Schedule October 2026"
-description: "Social Security pays people born on the 11th to 20th today, Wednesday, Oct. 21, 2026. Every October and November date, including the Nov. 10 holiday shift."
+description: "Social Security's next payday is Wednesday, Oct. 28, 2026, for birthdays on the 21st to 31st. Every date through December, including the Nov. 10 holiday shift."
 type: news
 publishedAt: "2026-10-21T09:20:00-04:00"
+updatedAt: "2026-10-22T03:00:00-04:00"
 authors: [news-desk]
 category: planning
 keywords: ["Social Security payment schedule October 2026", "Social Security payment today", "when is my Social Security check", "Social Security November 2026 payment dates", "SSI payment dates 2026"]
 dateline: "New York"
 hero:
   src: ../../../../assets/news/social-security-payment-schedule-october-2026-who-gets-paid-today/social-security-payment-schedule-october-2026-who-gets-paid-today.jpg
-  alt: "Social Security payment schedule October 2026: calendar cards for Wednesdays Oct. 14, 21 and 28 with Oct. 21 marked today"
+  alt: "Social Security payment schedule October 2026: calendar cards for Wednesdays Oct. 14, 21 and 28 with Oct. 28 marked as the next payday"
   title: "Social Security October 2026 payment schedule"
-  caption: "Wednesday, Oct. 21, 2026, is payday for beneficiaries born on the 11th to the 20th. Those born on the 21st to the 31st are paid Oct. 28."
+  caption: "Wednesday, Oct. 28, 2026, is the next payday, for beneficiaries born on the 21st to the 31st. Those born on the 1st to the 10th are paid next on Nov. 10."
 summary:
-  - "Today, Wednesday, Oct. 21, 2026, Social Security pays retirement, survivor and disability benefits to people born on the 11th through the 20th of the month."
-  - "Those born on the 21st through the 31st are paid next Wednesday, Oct. 28. People born on the 1st through the 10th were paid Oct. 14."
+  - "The next Social Security payment date is Wednesday, Oct. 28, 2026, for retirement, survivor and disability benefits of people born on the 21st through the 31st of the month."
+  - "People born on the 1st through the 10th were paid Oct. 14, and those born on the 11th through the 20th on Oct. 21."
   - "November's first Wednesday payment comes a day early, on Tuesday, Nov. 10, because Nov. 11 is Veterans Day. November SSI is paid Friday, Oct. 30."
   - "The 3.6% cost-of-living adjustment starts with payments made in January 2027; SSI recipients see it in the payment dated Thursday, Dec. 31, 2026."
 faq:
-  - q: "Who gets a Social Security payment today, Oct. 21, 2026?"
-    a: "People whose birthday falls on the 11th through the 20th of any month and who started benefits after April 1997 and do not also get SSI. Their payment is dated the third Wednesday of the month, Oct. 21."
+  - q: "Who got a Social Security payment on Oct. 21, 2026?"
+    a: "People whose birthday falls on the 11th through the 20th of any month and who started benefits after April 1997 and do not also get SSI. Their payment was dated the third Wednesday of the month, Oct. 21."
   - q: "When is the next Social Security payment in October 2026?"
     a: "Wednesday, Oct. 28, for people born on the 21st through the 31st. After that, November SSI is paid Friday, Oct. 30."
   - q: "Why is a November Social Security payment on Tuesday, Nov. 10?"
@@ -65,11 +66,13 @@ downloads:
 draft: false
 ---
 
-**Today, Wednesday, Oct. 21, 2026, is payday for Social Security beneficiaries born on the 11th through the 20th of the month.** The Social Security Administration (SSA) pays retirement, survivor and disability benefits on one of three Wednesdays, depending on your birthday, and Oct. 21 is the third Wednesday of October. One more round goes out next week, on Oct. 28. November brings two date changes: a Veterans Day shift and an early Supplemental Security Income (SSI) payment. Every date below is from SSA's published 2026 schedule.
+<p class="callout"><b>Last updated Oct. 22, 2026, 3:00 a.m. ET.</b> The Oct. 21 payments have gone out. This story now leads with the next payday, Oct. 28, and every date below was checked again against Social Security's published 2026 payment schedule.</p>
 
-## Who gets paid today
+**The next Social Security payday is Wednesday, Oct. 28, 2026, for beneficiaries born on the 21st through the 31st of the month.** The Social Security Administration (SSA) pays retirement, survivor and disability benefits on one of three Wednesdays, depending on your birthday: people born on the 1st to the 10th were paid Oct. 14, and those born on the 11th to the 20th on Oct. 21. November brings two date changes: a Veterans Day shift and an early Supplemental Security Income (SSI) payment. Every date below is from SSA's published 2026 schedule.
 
-If your birthday is on the 11th through the 20th, your October payment is dated today. That applies to retirement, survivor and disability benefits for people who started receiving Social Security after April 1997 and do not also get SSI.
+## Who gets paid next
+
+If your birthday is on the 21st through the 31st, your October payment is dated Wednesday, Oct. 28, the fourth Wednesday of the month. That applies to retirement, survivor and disability benefits for people who started receiving Social Security after April 1997 and do not also get SSI.
 
 The October payment is your benefit for September: Social Security pays each month's benefit in the following month.
 
@@ -80,8 +83,8 @@ The October payment is your benefit for September: Social Security pays each mon
 | Thursday, Oct. 1 | SSI for October |
 | Friday, Oct. 2 | Benefits started before May 1997, or Social Security plus SSI (the 3rd is a Saturday) |
 | Wednesday, Oct. 14 | Birthdays on the 1st to the 10th |
-| **Wednesday, Oct. 21** | **Birthdays on the 11th to the 20th** |
-| Wednesday, Oct. 28 | Birthdays on the 21st to the 31st |
+| Wednesday, Oct. 21 | Birthdays on the 11th to the 20th |
+| **Wednesday, Oct. 28** | **Birthdays on the 21st to the 31st** |
 | Friday, Oct. 30 | SSI for November (Nov. 1 is a Sunday) |
 
 ## November 2026 payment schedule

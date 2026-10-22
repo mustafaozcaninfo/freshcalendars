@@ -4,6 +4,7 @@ seoTitle: "Voter Registration Deadline Oct. 19, 2026: State Guide"
 description: "Oct. 19 is the voter registration deadline in California, Pennsylvania and Michigan for the Nov. 3 election. Early voting opens in Texas and Connecticut."
 type: news
 publishedAt: "2026-10-18T08:30:00-04:00"
+updatedAt: "2026-10-22T03:00:00-04:00"
 authors: [news-desk]
 category: planning
 keywords: ["voter registration deadline October 19 2026", "register to vote Pennsylvania deadline", "California voter registration deadline 2026", "Texas early voting 2026", "Election Day November 3 2026"]
@@ -63,6 +64,8 @@ draft: false
 related: [sample-ballot-by-zip-code-2026-texas-ballot, nyc-public-schools-calendar-2026-27-breaks-holidays]
 ---
 
+<p class="callout"><b>Last updated Oct. 22, 2026, 3:00 a.m. ET.</b> The Oct. 19 deadlines have passed. Michigan voters can still register in person at their local clerk's office with proof of residency through Election Day, and California offers conditional registration at county elections offices through Nov. 3. Pennsylvania has no registration after Oct. 19. Early voting runs through Oct. 30 in Texas and Nov. 1 in Connecticut, and opens Saturday, Oct. 24, in Michigan and New York; see <a href="/news/early-voting-2026-which-states-are-voting-now/">which states are voting now</a>.</p>
+
 **Monday, Oct. 19, 2026** is the last day to register to vote in California and Pennsylvania for the Nov. 3 general election, and the last day to register online or by mail in Michigan. The same day, early in-person voting opens in Texas and Connecticut. Election Day is Tuesday, Nov. 3.
 
 ## Deadlines that fall on Monday
@@ -109,4 +112,4 @@ Deadlines differ by state, and some states allow same-day registration while oth
 - If you plan to vote early, note your county's early voting locations and hours.
 - Look up your [sample ballot by ZIP code](/news/sample-ballot-by-zip-code-2026-texas-ballot/) and copy your choices onto paper before you go.
 - If you vote by mail, check your state's deadline for applying and for returning the ballot; they are not the same date.
-- Write Nov. 3 on your calendar, along with any early voting day you plan to use.
+- Write Nov. 3 on a [November 2026 printable calendar](/november-calendars.html), along with any early voting day you plan to use; a [weekly planner](/printable-weekly-calendar.html) helps for the final week.

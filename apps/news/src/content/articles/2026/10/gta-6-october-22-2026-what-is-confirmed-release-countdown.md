@@ -4,6 +4,7 @@ seoTitle: "GTA 6 Oct. 22 News: What's Confirmed Before Nov. 19"
 description: "Rockstar has announced nothing for Thursday, Oct. 22. What is official on Grand Theft Auto VI: the Nov. 19 launch, $79.99 price and Nov. 12 pre-load."
 type: news
 publishedAt: "2026-10-20T15:00:00-04:00"
+updatedAt: "2026-10-22T03:00:00-04:00"
 authors: [news-desk]
 category: retail-dates
 keywords: ["GTA 6 October 22", "GTA 6 release date", "GTA 6 preload date", "GTA 6 news this week", "GTA 6 countdown"]
@@ -34,6 +35,10 @@ faq:
   - q: "What is GTA 6 rated?"
     a: "M for Mature 17+ by the Entertainment Software Rating Board, for blood and gore, intense violence, mature humor, nudity, strong language, strong sexual content and use of drugs and alcohol, with in-game purchases."
 sources:
+  - title: "Take-Two Interactive Software, Inc. to Report Second Quarter Fiscal Year 2027 Results on Monday, November 9, 2026"
+    url: "https://www.businesswire.com/news/home/20261013510921/en/"
+    publisher: "Take-Two Interactive Software"
+    date: "2026-10-13"
   - title: "Rockstar Games Announces Pre-Orders for Grand Theft Auto VI"
     url: "https://ir.take2games.com/node/32311/pdf"
     publisher: "Take-Two Interactive Software"
@@ -93,6 +98,8 @@ downloads:
     pages: 1
 draft: false
 ---
+
+<p class="callout"><b>Last checked Oct. 22, 2026, 3:00 a.m. ET.</b> The newest Grand Theft Auto VI post on the Rockstar Newswire is still the Launch Trailer from Oct. 15. Take-Two has confirmed it reports quarterly results on Monday, Nov. 9, after the market closes.</p>
 
 **Rockstar Games has not announced anything for Thursday, Oct. 22.** The date is getting attention because Rockstar has posted Grand Theft Auto (GTA) VI news on a string of recent Thursdays, most recently the Launch Trailer on Oct. 15, and gaming sites including GameRant expect the next update on Oct. 22. Rockstar has not said it follows a weekly schedule. What is official is the calendar: the game launches Thursday, Nov. 19, 2026, on PlayStation 5 and Xbox Series X|S, and pre-loading opens a week earlier.
 

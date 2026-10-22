@@ -1,10 +1,10 @@
 ---
-title: "Orionid Meteor Shower 2026 Viewing Times: When and How to Watch Tonight's Peak, City by City"
+title: "Orionid Meteor Shower 2026 Viewing Times: Peak Morning Oct. 22 and How to Watch Through Nov. 7"
 seoTitle: "Orionid Meteor Shower 2026: Viewing Times, How to Watch"
 description: "Orionid meteor shower 2026 viewing times: the peak is the night of Oct. 21-22. Watch after moonset, about 3-4 a.m., until dawn. Times for 12 U.S. cities."
 type: news
 publishedAt: "2026-10-18T04:10:00-04:00"
-updatedAt: "2026-10-21T01:05:00-04:00"
+updatedAt: "2026-10-22T03:00:00-04:00"
 authors: [news-desk]
 category: sky-events
 keywords: ["Orionid meteor shower 2026 viewing times", "Orionid meteor shower tonight", "how to watch the Orionids", "Orionids peak time 2026", "meteor shower October 2026"]
@@ -48,6 +48,12 @@ sources:
   - title: "Orionids"
     url: "https://science.nasa.gov/solar-system/meteors-meteorites/orionids/"
     publisher: "NASA Science"
+  - title: "Leonids"
+    url: "https://science.nasa.gov/solar-system/meteors-meteorites/leonids/"
+    publisher: "NASA Science"
+  - title: "Geminids"
+    url: "https://science.nasa.gov/solar-system/meteors-meteorites/geminids/"
+    publisher: "NASA Science"
   - title: "Orionid meteor shower 2026: when and where to see it in the UK"
     url: "https://www.rmg.co.uk/stories/space-astronomy/orionid-meteor-shower-2026-when-where-see-it-uk"
     publisher: "Royal Museums Greenwich"
@@ -81,6 +87,8 @@ downloads:
     pages: 1
 draft: false
 ---
+
+<p class="callout"><b>Last updated Oct. 22, 2026, 3:00 a.m. ET.</b> The peak is the morning of Thursday, Oct. 22, from moonset until dawn, and the morning of Oct. 23 is nearly as good. NASA lists the Orionids as active through Nov. 7, with fewer meteors each night. Next come the Taurids in early November, the Leonids on the night of Nov. 16-17 and the Geminids on Dec. 13-14; see <a href="/news/november-2026-meteor-showers-taurids-leonids/">November 2026 meteor showers</a>.</p>
 
 <p class="callout"><b>The golden window: watch from moonset to dawn.</b> The moon is about 86% lit and bright until it sets, around 3 to 4 a.m. local time in most U.S. cities on Thursday, Oct. 22. From then until dawn twilight begins, about 5:15 to 6:30 a.m., the sky is dark and the Orionids are at their best.</p>
 

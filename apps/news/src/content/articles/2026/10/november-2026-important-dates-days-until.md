@@ -157,7 +157,7 @@ Rockstar Games says Grand Theft Auto VI comes out on Thursday, Nov. 19 for PlayS
 
 The full Beaver Moon peaks on Tuesday, Nov. 24 at 9:53 a.m. Eastern, according to the U.S. Naval Observatory, so the evenings of Nov. 23 and 24 are best for viewing. Wednesday, Nov. 25 is the day before Thanksgiving and one of the heaviest travel days of the year.
 
-Thanksgiving is Thursday, Nov. 26. It is always the fourth Thursday of November, which can fall anywhere from Nov. 22 to Nov. 28; our [Thanksgiving explainer](/news/why-thanksgiving-2026-is-november-26/) explains the rule. Black Friday follows on Nov. 27, and Cyber Monday on Nov. 30. Advent begins on Sunday, Nov. 29, four Sundays before Christmas.
+Thanksgiving is Thursday, Nov. 26. It is always the fourth Thursday of November, which can fall anywhere from Nov. 22 to Nov. 28; our [Thanksgiving explainer](/news/why-thanksgiving-2026-is-november-26/) explains the rule. Black Friday follows on Nov. 27, and Cyber Monday on Nov. 30. Advent begins on Sunday, Nov. 29, four Sundays before Christmas. A frozen 16 to 20 lb turkey needs to go in the fridge on Nov. 21 or 22; our [turkey thawing timeline](/news/when-to-thaw-thanksgiving-turkey-2026/) covers other weights.
 
 ## Deadlines that run into December
 

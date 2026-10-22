@@ -64,9 +64,11 @@ function sheet(fonts: string): string {
 }
 
 const W = 1200, H = 675;
+/** Raised card in the hero: the next payday. Oct. 22 update moved it from Oct. 21 (index 1) to Oct. 28. */
+const NEXT = 2;
 function hero(fonts: string): string {
   const days = [["WED", "14", "Born 1st-10th", "#1d4ed8"], ["WED", "21", "Born 11th-20th", "#0f766e"], ["WED", "28", "Born 21st-31st", "#b45309"]];
-  const cards = days.map(([w, d, l, c], i) => `<g transform="translate(${650 + i * 180},${i === 1 ? 120 : 160})" filter="url(#sh)"><rect width="160" height="${i === 1 ? 250 : 210}" rx="16" fill="#fff"/><rect width="160" height="46" rx="16" fill="${c}"/><rect y="30" width="160" height="16" fill="${c}"/><text x="80" y="31" font-family="Sora" font-size="17" font-weight="800" fill="#fff" text-anchor="middle">OCT. · ${w}</text><text x="80" y="${i === 1 ? 160 : 135}" font-family="Sora" font-size="${i === 1 ? 96 : 76}" font-weight="800" fill="#0b2a5b" text-anchor="middle">${d}</text><text x="80" y="${i === 1 ? 218 : 182}" font-family="Manrope" font-size="15" font-weight="800" fill="${c}" text-anchor="middle">${l}</text>${i === 1 ? `<rect x="40" y="-34" width="80" height="26" rx="13" fill="#facc15"/><text x="80" y="-16" font-family="Sora" font-size="14" font-weight="800" fill="#0b2a5b" text-anchor="middle">TODAY</text>` : ""}</g>`).join("");
+  const cards = days.map(([w, d, l, c], i) => `<g transform="translate(${650 + i * 180},${i === NEXT ? 120 : 160})" filter="url(#sh)"><rect width="160" height="${i === NEXT ? 250 : 210}" rx="16" fill="#fff"/><rect width="160" height="46" rx="16" fill="${c}"/><rect y="30" width="160" height="16" fill="${c}"/><text x="80" y="31" font-family="Sora" font-size="17" font-weight="800" fill="#fff" text-anchor="middle">OCT. · ${w}</text><text x="80" y="${i === NEXT ? 160 : 135}" font-family="Sora" font-size="${i === NEXT ? 96 : 76}" font-weight="800" fill="#0b2a5b" text-anchor="middle">${d}</text><text x="80" y="${i === NEXT ? 218 : 182}" font-family="Manrope" font-size="15" font-weight="800" fill="${c}" text-anchor="middle">${l}</text>${i === NEXT ? `<rect x="40" y="-34" width="80" height="26" rx="13" fill="#facc15"/><text x="80" y="-16" font-family="Sora" font-size="14" font-weight="800" fill="#0b2a5b" text-anchor="middle">NEXT</text>` : ""}</g>`).join("");
   const check = `<g transform="translate(700,470) rotate(-4)" filter="url(#sh)"><rect width="420" height="120" rx="10" fill="#ecfdf5"/><rect width="420" height="120" rx="10" fill="none" stroke="#10b981" stroke-width="3" stroke-dasharray="2 0"/><text x="24" y="38" font-family="Sora" font-size="16" font-weight="800" fill="#065f46">DIRECT DEPOSIT</text><rect x="24" y="56" width="230" height="12" rx="6" fill="#a7f3d0"/><rect x="24" y="80" width="160" height="12" rx="6" fill="#a7f3d0"/><text x="396" y="96" font-family="Sora" font-size="36" font-weight="800" fill="#065f46" text-anchor="end">$</text></g>`;
   return `<!doctype html><html><head><meta charset="utf-8"><style>${fonts}*{box-sizing:border-box}html,body{margin:0}body{width:${W}px;height:${H}px;overflow:hidden;background:#0b2a5b;font-family:Manrope,sans-serif;position:relative}
   .k{position:absolute;left:64px;top:84px;font-weight:800;font-size:15px;letter-spacing:.18em;text-transform:uppercase;color:#fde68a}
@@ -75,8 +77,8 @@ function hero(fonts: string): string {
   .card b{display:block;font-family:Sora;font-size:30px;line-height:1.05;margin:2px 0}.card span{font-size:15px;color:#475569;font-weight:700}
   .brand{position:absolute;right:28px;bottom:20px;font-size:13px;font-weight:700;letter-spacing:.06em;color:rgba(255,255,255,.78)}</style></head><body>
   <svg width="${W}" height="${H}" style="position:absolute;inset:0"><defs><filter id="sh"><feDropShadow dx="0" dy="18" stdDeviation="18" flood-opacity=".35"/></filter><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0b2a5b"/><stop offset="1" stop-color="#123c7a"/></linearGradient></defs><rect width="${W}" height="${H}" fill="url(#bg)"/>${cards}${check}</svg>
-  <div class="k">Social Security · October 2026</div><div class="t">Who gets paid today</div>
-  <div class="card"><span>Wednesday, Oct. 21</span><b>Birthdays 11th-20th</b><span>Next: Oct. 28 for the 21st-31st</span></div>
+  <div class="k">Social Security · October 2026</div><div class="t">Who gets paid next</div>
+  <div class="card"><span>Wednesday, Oct. 28</span><b>Birthdays 21st-31st</b><span>Then: Nov. 10 for the 1st-10th</span></div>
   <div class="brand">freshcalendars.com/news</div></body></html>`;
 }
 

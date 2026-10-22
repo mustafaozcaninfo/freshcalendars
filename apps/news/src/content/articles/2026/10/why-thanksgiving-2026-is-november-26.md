@@ -119,11 +119,12 @@ Canadian Thanksgiving falls on the second Monday of October. In 2026 it was Mond
 
 ## Plan the week
 
-- Mark Thursday, Nov. 26 and Friday, Nov. 27 on your calendar, along with any school closures on Wednesday, Nov. 25.
+- Mark Thursday, Nov. 26 and Friday, Nov. 27 on a [November 2026 printable calendar](/november-calendars.html), along with any school closures on Wednesday, Nov. 25.
 - Order groceries and book travel early; the Tuesday and Wednesday before the holiday are usually the busiest.
+- If your turkey is frozen, start thawing it in the fridge days ahead; our [turkey thawing timeline](/news/when-to-thaw-thanksgiving-turkey-2026/) gives the start date for each weight.
 - Mail cards or packages by Tuesday, Nov. 24 if they need to arrive before the holiday.
 - If you trade stocks, remember the 1:00 p.m. ET close on Friday.
 - Check store hours before you go: [Costco closes on Thanksgiving](/news/costco-holiday-hours-closures-2026-2027/), [Black Friday 2026 store hours](/news/black-friday-2026-store-hours-walmart-target-best-buy/) lists who opens when on Nov. 27, and the [USPS holiday shipping deadlines](/news/usps-holiday-shipping-deadlines-2026/) list the last mailing days for December gifts.
 - See everything else this month in [November 2026 important dates](/news/november-2026-important-dates-days-until/).
 
-Thanksgiving is one of two federal holidays this month; the other is [Veterans Day on Wednesday, Nov. 11](/news/veterans-day-2026-wednesday-november-11/). For next year's dates, including Thanksgiving on Nov. 25, 2027, see the [2027 federal holiday list](/news/federal-holidays-2027-observed-dates-list/).
+Thanksgiving is one of two federal holidays this month; the other is [Veterans Day on Wednesday, Nov. 11](/news/veterans-day-2026-wednesday-november-11/). For next year's dates, including Thanksgiving on Nov. 25, 2027, see the [2027 federal holiday list](/news/federal-holidays-2027-observed-dates-list/), or check [when Thanksgiving falls](/when-is/thanksgiving/) in any year.

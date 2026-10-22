@@ -112,6 +112,6 @@ The two holidays are often confused. Veterans Day honors everyone who has served
 - Send time-sensitive mail and bank transfers by Tuesday, Nov. 10.
 - If you have children in school, confirm whether your district is open; closures differ even between neighboring districts.
 - Many restaurants and retailers offer discounts to veterans and service members on Nov. 11; most require a military ID or proof of service. Our [Veterans Day free meals and discounts list](/news/veterans-day-free-meals-discounts/) tracks every confirmed 2026 offer.
-- Thanksgiving follows two weeks later, on Thursday, Nov. 26, so November 2026 has two federal holidays in the same month.
+- Thanksgiving follows two weeks later, on Thursday, Nov. 26, so November 2026 has two federal holidays in the same month. Both are marked on our [November 2026 printable calendar](/november-calendars.html), and the full year is in the [2026 US holiday list](/holidays/).
 
 The next federal holiday is [Thanksgiving on Thursday, Nov. 26](/news/why-thanksgiving-2026-is-november-26/). Election Day, Nov. 3, is not a federal holiday; see [what is open on Election Day](/news/is-election-day-a-holiday-2026-whats-open/), and the [2027 federal holiday list](/news/federal-holidays-2027-observed-dates-list/) has next year's dates.

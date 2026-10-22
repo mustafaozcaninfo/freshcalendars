@@ -111,7 +111,7 @@ United Nations Day marks the day the UN Charter took effect in 1945. Rotary Inte
 
 October's full moon peaks at 12:12 a.m. EDT on Monday, Oct. 26, which is Sunday evening in the Central, Mountain and Pacific time zones; our [Hunter's Moon guide](/news/hunters-moon-october-2026-full-moon-time/) has moonrise times by city. The Orionid meteor shower, debris from Halley's Comet, peaks the night of Oct. 21-22; see our [Orionid viewing guide](/news/orionid-meteor-shower-2026-peak-october-21-22/).
 
-The World Series opens Friday, Oct. 23, with games scheduled at 8 p.m. ET, according to Major League Baseball; every date and channel is in our [World Series 2026 schedule](/news/world-series-2026-schedule-game-times-tv-channel/). A seventh game, if needed, would be played on Halloween.
+The World Series opens Friday, Oct. 23, with games scheduled at 8 p.m. ET, according to Major League Baseball; every date and channel is in our [World Series 2026 schedule](/news/world-series-2026-schedule-game-times-tv-channel/). A seventh game, if needed, would be played on Halloween. The same Friday, Oct. 23, is Mole Day, marked in chemistry classes from 6:02 a.m. to 6:02 p.m.; see our [Mole Day guide](/news/mole-day-2026-october-23-6-02/).
 
 ## Nevada Day and Halloween
 
