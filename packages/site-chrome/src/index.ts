@@ -333,6 +333,8 @@ h1{
   transition:transform .15s ease, filter .15s ease; cursor:pointer;
   touch-action:manipulation; max-width:100%;
 }
+/* <button> does not inherit the page font (browsers default to ~13px system font); links already do. */
+button.btn{font:inherit; font-weight:700}
 .btn:active{transform:scale(.98)}
 .btn:hover{filter:brightness(1.06)}
 .btn:focus-visible{outline:3px solid var(--focus); outline-offset:2px}
@@ -376,7 +378,7 @@ h1{
 .section h2{font-family:Sora,"Sora Fallback",Manrope,sans-serif; font-size:clamp(1.5rem,3.5vw,1.85rem); margin:0 0 .85rem; color:var(--ink); line-height:1.2; letter-spacing:-.02em}
 .section h3{font-family:Sora,"Sora Fallback",Manrope,sans-serif; font-size:1.15rem; margin:1.4rem 0 .55rem; color:var(--accent); line-height:1.25; font-weight:700}
 .latest-news{list-style:none; margin:0 0 .75rem; padding:0; display:grid; gap:.55rem}
-.latest-news a{font-weight:700}
+.latest-news a{font-weight:700; color:var(--focus)}
 .latest-news time{display:block; font-size:.85rem; color:var(--muted)}
 .prose p{max-width:68ch; color:var(--ink); margin:0 0 1rem}
 .prose ul{max-width:68ch; padding-left:1.2rem; margin:0 0 1rem; color:var(--ink)}
@@ -608,6 +610,8 @@ a.zoomable,img.zoomable{cursor:zoom-in}
   border-radius:4px; color:var(--ink); min-height:44px; width:100%; max-width:100%;
 }
 .contact-form textarea{min-height:140px; resize:vertical}
+.contact-form select{-webkit-appearance:none; appearance:none; padding-right:2.6rem; cursor:pointer;
+  background:#fff url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 16'%3E%3Cpath d='M3.5 6l4.5 4.5L12.5 6' fill='none' stroke='%2337474f' stroke-width='2' stroke-linecap='round' stroke-linejoin='round'/%3E%3C/svg%3E") no-repeat right .85rem center/16px 16px}
 .contact-form .hp{position:absolute; left:-9999px; opacity:0; height:0; width:0; overflow:hidden}
 .contact-form .form-msg{margin:.25rem 0 0; font-weight:700}
 .contact-form .form-msg.ok{color:var(--blank-accent)}
