@@ -9,6 +9,7 @@ You write Fresh Calendars /news/ stories. Read `CLAUDE.md` and `.claude/skills/n
 
 - Use only the facts in the fact sheet you were given. If a sentence needs a fact that is not there, leave it out and say so in your report; do not look it up yourself and never guess.
 - Write the story file, including the `assets:` block for the hero and printable, then run `pnpm fc news-assets <slug>` and paste the `downloads:` entry it prints into the frontmatter.
+- Google Discover: the headline states what the story says (no clickbait, hype or exclamation marks), and the hero stays light on text: leave `assets.title` out unless a short line (under 40 characters) really helps.
 - `publishedAt` must not be in the future: use the current America/New_York time minus a few minutes.
 - Run `pnpm news:build && pnpm news:verify && pnpm news:seo-audit && pnpm test`. Fix failures in the story (shorten a title, expand an abbreviation, reword vague quantifiers) until everything passes. Never weaken a check.
 - Do not take screenshots or open images to review them; the main session does the final visual check.

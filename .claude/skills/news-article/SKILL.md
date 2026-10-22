@@ -82,18 +82,27 @@ draft: false
 Tables for anything structured (dates by state, store hours). Lists for steps.
 ```
 
+### Google Discover (most /news/ traffic can come from here)
+
+Discover picks stories for people's feeds without a search. The technical part is already done by the templates (`max-image-preview:large`, 16:9 `og:image` at 1344 px, schema images in 16:9, 4:3 and 1:1, RSS feed). What you control:
+
+- **Headline says what the story says.** "Halloween 2026 Is on a Saturday: Trick-or-Treat Hours by City" is good; "You Won't Believe When Trick-or-Treating Starts" is clickbait. No hype, no outrage, no withholding the answer, no exclamation marks (the audit's `11-DISCOVER-HEADLINE` blocks the usual phrases).
+- **Timely and original.** Write before the date people care about, add something others don't have (a printable, a full date table from the official source, a computed countdown), and update the same story instead of writing a near-copy.
+- **Stay in our topics.** Since the February 2026 Discover core update Google judges expertise topic by topic. Ours: calendars and dates, holidays, school calendars, election dates and deadlines, sky events, time changes, retail dates, daily puzzles. A one-off story far from these is unlikely to show.
+- **US readers first.** The update favors sites from the reader's country; use US dates, times (ET with other zones) and sources.
+- **Hero image: a picture, not a poster.** Google advises against text-heavy images, and Discover shows the real headline beside the image. With `news-assets`, leave `assets.title` out (or keep it under 40 characters) and let the kicker, calendar card and one short white card carry the image.
+
 Writing rules the audit enforces: no banned words (list in `scripts/news-seo-audit.mjs`), at most two em dashes, no "not X but Y", no closing summaries ("in conclusion", "overall,"), mixed sentence lengths, abbreviations expanded on first use. Link related /news/ stories and calendar pages inside the body text where they help the reader, not in a link dump.
 
 Valid calendar-site links: check that the page answers on freshcalendars.com before using it. The ones stories use most: `/<month>-calendars.html`, `/printable-weekly-calendar.html`, `/printable-yearly-calendar.html`, `/printable-school-calendar.html`, `/when-is/<holiday>/`. To see what others link: `grep -rhoE 'href: "/[^"]+"' apps/news/src/content/articles | sort | uniq -c | sort -rn | head -20`.
 
 ## 4. Hero image and printables
 
-- **Default: `pnpm fc news-assets <slug>`.** Add an `assets:` block to the frontmatter (Astro ignores it) and run the command. It draws the hero (2400×1350 JPEG with kicker, title, an optional calendar card for `date`, and an optional white card) and, if you give `printable:`, a one-page date-list printable with a Done column and notes, then prints the `downloads:` entry to paste. The full field list is at the top of `packages/generator/src/newsAssets.ts`. Example:
+- **Default: `pnpm fc news-assets <slug>`.** Add an `assets:` block to the frontmatter (Astro ignores it) and run the command. It draws the hero (2400×1350 JPEG with a kicker, an optional calendar card for `date`, an optional white card and, only if you set it, a short `title`) and, if you give `printable:`, a one-page date-list printable with a Done column and notes, then prints the `downloads:` entry to paste. The full field list is at the top of `packages/generator/src/newsAssets.ts`. Example:
 
 ```yaml
 assets:
   kicker: "Texas · Nov. 3, 2026"
-  title: "Every Texas voting deadline left"
   date: "2026-11-03"
   card: { top: "Early voting runs through", big: "Fri., Oct. 30", bottom: "Polls 7 a.m.-7 p.m." }
   printable:

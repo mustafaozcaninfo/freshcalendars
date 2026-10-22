@@ -497,6 +497,22 @@ check("10-PDF-LINK-CANONICAL", "Each printable PDF links to its story from the t
     }
     return bad.length ? bad.join("; ") : null;
   }));
+/** Google Discover: headlines that hide or hype the content (clickbait, outrage) are demoted since the Feb. 2026 core update. */
+const CLICKBAIT = ["you won't believe", "won't believe", "shocking", "shocked", "jaw-dropping", "mind-blowing", "what happens next", "this one trick",
+  "you need to know", "everyone is talking", "goes viral", "gone wrong", "must see", "must-see", "the truth about", "will shock", "insane", "unbelievable"];
+check("11-DISCOVER-HEADLINE", "Headline, social title and lede are plain: no clickbait phrases, no exclamation marks (Google Discover)", () =>
+  each(articleUrls, (u, h) => {
+    const text = [h.match(/<h1[^>]*>([\s\S]*?)<\/h1>/)?.[1], h.match(/<meta property="og:title" content="([^"]*)"/)?.[1], h.match(/<meta name="description" content="([^"]*)"/)?.[1]]
+      .map((s) => plain(s ?? "")).join(" | ");
+    const hit = CLICKBAIT.filter((w) => text.toLowerCase().includes(w));
+    if (text.includes("!")) hit.push("exclamation mark");
+    return hit.length ? hit.join(", ") : null;
+  }));
+check("11-DISCOVER-IMAGE", "og:image is at least 1200 px wide, over 300,000 pixels and 16:9 (Google Discover)", () =>
+  each(articleUrls, (u, h) => {
+    const w = +(h.match(/<meta property="og:image:width" content="(\d+)"/)?.[1] ?? 0), ht = +(h.match(/<meta property="og:image:height" content="(\d+)"/)?.[1] ?? 0);
+    return w >= 1200 && w * ht > 300000 && Math.abs(w / ht - 16 / 9) < 0.02 ? null : `og:image ${w}×${ht}`;
+  }));
 warn("10-PDF-ORPHANS", "Printable PDFs that no story links to (not stamped, no canonical) — informational", () => {
   const linked = new Set(articleUrls.flatMap((u) => pdfLinks(html[u])));
   const all = [];

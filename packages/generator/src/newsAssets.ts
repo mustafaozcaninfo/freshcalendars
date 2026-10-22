@@ -8,7 +8,8 @@
  *
  * assets:
  *   kicker: "Texas · Nov. 3, 2026"          # small line above the title
- *   title: "Who is on the Texas ballot"     # hero headline; defaults to seoTitle
+ *   title: "Who is on the Texas ballot"     # optional short hero line (<=40 chars); Discover shows
+ *                                           # the real headline beside the image and avoids text-heavy images
  *   date: "2026-11-03"                      # calendar card on the hero (optional)
  *   color: "#9a3412"                        # defaults to the category color
  *   card: { top: "Early voting through", big: "Fri., Oct. 30", bottom: "No straight ticket" }
@@ -22,7 +23,8 @@
  *     note: "Source: Texas Secretary of State, ..."   # sources, required
  *     description: "..."                    # 20-200 chars, for the downloads entry
  *     alt: "..."                            # 10-160 chars, for the downloads entry
- * Original art only: shapes, a calendar card and text, no logos.
+ * Original art only: shapes, a calendar card and a little text, no logos. Keep the main shapes inside the
+ * middle 900 px so 4:3 and 1:1 crops (Discover, schema images) still read.
  */
 import fs from "node:fs/promises";
 import path from "node:path";
@@ -62,14 +64,17 @@ async function findStory(slug: string): Promise<string> {
 
 function hero(fonts: string, f: Front, a: Assets): string {
   const color = a.color ?? CATEGORY_COLOR[f.category] ?? "#1e3a8a";
-  const title = a.title ?? f.seoTitle ?? f.title;
-  const size = title.length > 44 ? 48 : title.length > 30 ? 56 : 64;
+  const title = a.title ?? "";
+  if (title.length > 40) console.warn(`assets.title is ${title.length} chars; keep it under 40 so the hero is not text-heavy (Google Discover)`);
+  const size = title.length > 30 ? 56 : 64;
   const dots = Array.from({ length: 48 }, (_, i) => `<circle cx="${700 + (i % 8) * 62}" cy="${70 + Math.floor(i / 8) * 62}" r="4" fill="#fff" opacity="${0.08 + ((i * 7) % 5) * 0.03}"/>`).join("");
-  const rings = [0, 1, 2].map((i) => `<circle cx="${980}" cy="${470}" r="${150 + i * 70}" fill="none" stroke="#fff" stroke-opacity="${0.12 - i * 0.03}" stroke-width="2"/>`).join("");
+  /** No headline: a centered layout (kicker and card left, calendar right) inside the middle 900 px for crops. */
+  const center = !title;
+  const rings = [0, 1, 2].map((i) => `<circle cx="${center ? 820 : 980}" cy="${center ? 330 : 470}" r="${150 + i * 70}" fill="none" stroke="#fff" stroke-opacity="${0.12 - i * 0.03}" stroke-width="2"/>`).join("");
   let cal = "";
   if (a.date) {
     const d = new Date(`${a.date}T12:00:00Z`);
-    cal = `<g transform="translate(860,170) rotate(4)" filter="url(#sh)"><rect width="240" height="250" rx="18" fill="#fff"/><rect width="240" height="62" rx="18" fill="${color}"/><rect y="44" width="240" height="18" fill="${color}"/>
+    cal = `<g transform="${center ? "translate(690,170) scale(1.15)" : "translate(860,170)"} rotate(4)" filter="url(#sh)"><rect width="240" height="250" rx="18" fill="#fff"/><rect width="240" height="62" rx="18" fill="${color}"/><rect y="44" width="240" height="18" fill="${color}"/>
       <text x="120" y="43" font-family="Sora" font-size="24" font-weight="800" fill="#fff" text-anchor="middle">${MONTHS[d.getUTCMonth()]!.toUpperCase()}</text>
       <text x="120" y="182" font-family="Sora" font-size="118" font-weight="800" fill="${shade(color, 0.45)}" text-anchor="middle">${d.getUTCDate()}</text>
       <text x="120" y="228" font-family="Sora" font-size="22" font-weight="800" fill="${color}" text-anchor="middle">${DOW[d.getUTCDay()]}</text></g>`;
@@ -81,11 +86,12 @@ function hero(fonts: string, f: Front, a: Assets): string {
   .t{position:absolute;left:64px;top:118px;width:${a.date ? 640 : 900}px;font-family:Sora;font-weight:800;color:#fff;line-height:1.04;font-size:${size}px;letter-spacing:-.01em}
   .card{position:absolute;left:64px;bottom:96px;width:470px;border-radius:18px;background:#fff;box-shadow:0 18px 40px rgba(0,0,0,.28);padding:18px 22px;color:#0f172a}
   .card b{display:block;font-family:Sora;font-size:30px;line-height:1.05;margin:2px 0}.card span{font-size:15px;color:#475569;font-weight:700}
+  ${center ? `.k{left:170px;top:${a.card ? 228 : 318}px}.card{left:170px;bottom:auto;top:264px;width:440px;padding:22px 26px}.card b{font-size:44px}.card span{font-size:17px}` : ""}
   .brand{position:absolute;right:28px;bottom:20px;font-size:13px;font-weight:700;letter-spacing:.06em;color:rgba(255,255,255,.78)}</style></head><body>
   <svg width="${W}" height="${H}" style="position:absolute;inset:0"><defs><filter id="sh"><feDropShadow dx="0" dy="18" stdDeviation="18" flood-opacity=".35"/></filter>
   <linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="${color}"/><stop offset="1" stop-color="${shade(color, 0.55)}"/></linearGradient></defs>
   <rect width="${W}" height="${H}" fill="url(#g)"/>${dots}${rings}${cal}</svg>
-  ${a.kicker ? `<div class="k">${esc(a.kicker)}</div>` : ""}<div class="t">${esc(title)}</div>${card}
+  ${a.kicker ? `<div class="k">${esc(a.kicker)}</div>` : ""}${title ? `<div class="t">${esc(title)}</div>` : ""}${card}
   <div class="brand">freshcalendars.com/news</div></body></html>`;
 }
 
