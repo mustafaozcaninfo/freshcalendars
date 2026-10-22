@@ -32,7 +32,7 @@ hero:
   src: ../../../../assets/news/when-to-thaw-thanksgiving-turkey-2026/when-to-thaw-thanksgiving-turkey-2026.jpg
   alt: "When to thaw a Thanksgiving turkey in 2026: calendar card for Thursday, Nov. 26 with the refrigerator start date for a 20 lb turkey"
   title: "When to thaw your Thanksgiving turkey"
-  caption: "A 20 lb turkey needs 5 to 6 days in the refrigerator, so thawing starts around Nov. 20 or 21 for dinner on Thursday, Nov. 26, 2026."
+  caption: "A 20 lb turkey needs 4 to 5 days in the refrigerator, so thawing starts around Nov. 21 or 22 for dinner on Thursday, Nov. 26, 2026."
 summary:
   - "Thanksgiving Day 2026 is Thursday, Nov. 26. The USDA says to allow about 24 hours of refrigerator thawing for every 4 to 5 pounds of turkey."
   - "A 4 to 12 lb bird needs 1 to 3 days, 12 to 16 lb needs 3 to 4 days, 16 to 20 lb needs 4 to 5 days and 20 to 24 lb needs 5 to 6 days."
