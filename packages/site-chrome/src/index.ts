@@ -375,6 +375,9 @@ h1{
 .section{padding:clamp(1.75rem,4vw,2.75rem) 0; border-top:1px solid var(--line-soft)}
 .section h2{font-family:Sora,"Sora Fallback",Manrope,sans-serif; font-size:clamp(1.5rem,3.5vw,1.85rem); margin:0 0 .85rem; color:var(--ink); line-height:1.2; letter-spacing:-.02em}
 .section h3{font-family:Sora,"Sora Fallback",Manrope,sans-serif; font-size:1.15rem; margin:1.4rem 0 .55rem; color:var(--accent); line-height:1.25; font-weight:700}
+.latest-news{list-style:none; margin:0 0 .75rem; padding:0; display:grid; gap:.55rem}
+.latest-news a{font-weight:700}
+.latest-news time{display:block; font-size:.85rem; color:var(--muted)}
 .prose p{max-width:68ch; color:var(--ink); margin:0 0 1rem}
 .prose ul{max-width:68ch; padding-left:1.2rem; margin:0 0 1rem; color:var(--ink)}
 .prose li{margin:.35rem 0}

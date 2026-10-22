@@ -52,7 +52,7 @@ import {
   siteHeaderHtml,
 } from "@freshcalendars/site-chrome";
 import { brandHeadLinks, writeBrandIcons } from "./brandIcons.js";
-import { latestNewsHtml } from "./newsLinks.js";
+import { latestNewsHtml, newsStripHtml } from "./newsLinks.js";
 import { DIST_SITE, ROOT } from "./paths.js";
 import { displayPreview2xUrl, displayPreviewUrl } from "./previews.js";
 
@@ -351,6 +351,7 @@ ${metaTags(meta, { howTo: opts.howTo })}
 ${siteHeaderHtml(today, { news: NEWS_LAUNCHED })}
 <main id="main">
 ${body}
+${newsStripHtml(new URL(meta.canonical).pathname)}
 </main>
 ${siteFooterHtml(today, { news: NEWS_LAUNCHED })}
 <div id="lightbox" class="lightbox" aria-hidden="true" role="dialog" aria-label="Enlarged calendar preview">
