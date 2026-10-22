@@ -1,7 +1,7 @@
 ---
 title: "Diwali 2026 Is Sunday, Nov. 8: Five-Day Calendar, Lakshmi Puja Times in U.S. Cities and Where It's a Holiday"
-seoTitle: "Diwali 2026 in USA: Sunday, Nov. 8, and Lakshmi Puja Time"
-description: "Diwali 2026 falls on Sunday, Nov. 8. Five-day dates from Dhanteras to Bhai Dooj, Lakshmi Puja evening times for 12 U.S. cities and three free printables."
+seoTitle: "Diwali 2026 USA Date: Sunday, Nov. 8, Lakshmi Puja Times"
+description: "When is Diwali 2026 in the United States? Sunday, Nov. 8. Lakshmi Puja times for 12 U.S. cities, all five days from Dhanteras to Bhai Dooj and free printables."
 type: explainer
 publishedAt: "2026-10-19T07:45:00-04:00"
 authors: [news-desk]

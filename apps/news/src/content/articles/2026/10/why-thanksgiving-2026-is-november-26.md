@@ -1,7 +1,7 @@
 ---
 title: "Thanksgiving 2026 Is Thursday, Nov. 26: Why the Date Moves, the 1941 Fourth-Thursday Rule and What Is Closed"
-seoTitle: "Thanksgiving 2026: Thursday, Nov. 26, and Why the Date Moves"
-description: "Thanksgiving 2026 is Thursday, Nov. 26, the fourth Thursday under a 1941 law. Black Friday is Nov. 27. What is closed, parade time and dates through 2030."
+seoTitle: "Thanksgiving 2026 Date: Nov. 26, Parade, What's Closed"
+description: "Thanksgiving 2026 is Thursday, Nov. 26. The 100th Macy's parade starts at 8:30 a.m., Black Friday is Nov. 27, plus what is closed and dates through 2030."
 type: explainer
 publishedAt: "2026-10-17T16:30:00-04:00"
 updatedAt: "2026-10-20T14:15:00-04:00"
