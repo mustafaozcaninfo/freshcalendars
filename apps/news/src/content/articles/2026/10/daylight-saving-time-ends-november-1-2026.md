@@ -4,7 +4,7 @@ seoTitle: "Daylight Saving Time Ends Nov. 1, 2026: Fall Back Guide"
 description: "Clocks fall back one hour at 2 a.m. on Sunday, Nov. 1, 2026. The House voted for permanent DST in July, but the Senate has not acted. What changes and when."
 type: news
 publishedAt: "2026-10-17T16:00:00-04:00"
-updatedAt: "2026-10-18T04:30:00-04:00"
+updatedAt: "2026-10-22T09:30:00-04:00"
 authors: [news-desk]
 category: time-change
 keywords: ["daylight saving time ends 2026", "fall back November 1 2026", "Sunshine Protection Act 2026", "permanent daylight saving time", "clocks change 2026"]
@@ -28,12 +28,19 @@ faq:
     a: "No. The House passed the Sunshine Protection Act on July 14, 2026, but the Senate has not voted on it and the president has not signed it. Current law still requires the November change."
   - q: "When does daylight saving time start again?"
     a: "On the second Sunday in March, which is March 14, 2027. Clocks move forward from 2:00 a.m. to 3:00 a.m."
+  - q: "Do clocks change this weekend?"
+    a: "No. This weekend is Oct. 24 and 25, 2026. Clocks fall back the weekend after, on Sunday, Nov. 1."
+  - q: "Do clocks change on Halloween 2026?"
+    a: "No. Halloween is Saturday, Oct. 31. The clocks fall back at 2:00 a.m. the next morning, Sunday, Nov. 1."
   - q: "Which states do not change their clocks?"
     a: "Hawaii and most of Arizona stay on standard time all year. The Navajo Nation in Arizona does observe daylight saving time. Puerto Rico, Guam, American Samoa and the U.S. Virgin Islands also stay on standard time."
 sources:
   - title: "Daylight Saving Time (DST)"
     url: "https://www.nist.gov/pml/time-and-frequency-division/popular-links/daylight-saving-time-dst"
     publisher: "National Institute of Standards and Technology"
+  - title: "Daylight Saving Time dates for 2026"
+    url: "https://aa.usno.navy.mil/calculated/daylightsaving?submit=Get+Data&year=2026"
+    publisher: "U.S. Naval Observatory"
   - title: "Roll Call 238, H.R. 139, 119th Congress"
     url: "https://clerk.house.gov/Votes/2026238"
     publisher: "Office of the Clerk, U.S. House of Representatives"
@@ -65,13 +72,15 @@ draft: false
 related: [halloween-2026-saturday-sunset-trick-or-treat-times, november-2026-meteor-showers-taurids-leonids]
 ---
 
+<p class="callout"><b>Last updated Oct. 22, 2026, 9:30 a.m. ET.</b> Added a "this weekend" check and the Halloween timing. The clocks do not change on Oct. 24 and 25.</p>
+
 Daylight saving time ends at **2:00 a.m. local time on Sunday, Nov. 1, 2026**, when clocks in most of the United States move back one hour to 1:00 a.m. The change goes ahead even though the House of Representatives voted in July to make daylight saving time permanent: that bill, the Sunshine Protection Act, is still waiting for the Senate, and no Senate vote can happen before Nov. 1.
 
 ## What happens at 2 a.m. on Nov. 1
 
 Federal law sets the end of daylight saving time on the first Sunday in November, and each time zone switches at 2:00 a.m. local time. In 2026 that Sunday is Nov. 1. Clocks go from 1:59:59 a.m. back to 1:00 a.m., so the hour from 1:00 to 2:00 a.m. happens twice and the night is 25 hours long.
 
-Phones, computers and most smart watches update on their own. Ovens, microwaves, car dashboards, wall clocks and many thermostats do not. The National Institute of Standards and Technology (NIST) keeps the official U.S. time and lists the switch rules used by every time zone.
+Phones, computers and most smart watches update on their own when their time-zone and automatic date-and-time settings are on. Ovens, microwaves, car dashboards, wall clocks and many thermostats do not. If a device shows the wrong time on Sunday, check its time zone and automatic settings first. Overnight shifts, early flights and timestamped records are where the repeated 1:00 a.m. hour causes the most confusion, so confirm whether a booking uses daylight or standard time. The National Institute of Standards and Technology (NIST) keeps the official U.S. time and lists the switch rules used by every time zone.
 
 | Time zone | Change happens at | Standard time after the change |
 |---|---|---|
@@ -83,6 +92,12 @@ Phones, computers and most smart watches update on their own. Ovens, microwaves,
 | Hawaii | No change | UTC−10 all year |
 
 Because each zone switches at its own 2:00 a.m., the East Coast changes first and Alaska changes four hours later.
+
+## Do clocks change this weekend?
+
+No. As of Thursday, Oct. 22, the change is not this coming weekend (Oct. 24 and 25). Most of the country falls back the weekend after, on Sunday, Nov. 1. The U.S. Naval Observatory lists Nov. 1 as the 2026 end date, with the shift at 2:00 a.m. local time.
+
+Halloween is Saturday, Oct. 31, so the clocks do not change on Halloween itself. They move back in the early hours of the next morning, which means trick-or-treaters get the same daylight hours as any other Oct. 31, and the extra hour of sleep comes after the party. Sunset times for the night are in our [Halloween 2026 trick-or-treat story](/news/halloween-2026-saturday-sunset-trick-or-treat-times/).
 
 ## Who does not change clocks
 
