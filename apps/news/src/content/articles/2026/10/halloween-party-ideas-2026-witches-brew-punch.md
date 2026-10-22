@@ -40,7 +40,7 @@ hero:
   caption: "Halloween 2026 is Saturday, Oct. 31. Google lists \"witches brew punch\" as the top trending Halloween drink search."
 summary:
   - "Halloween 2026 is Saturday, Oct. 31, and Google says \"witches brew punch\" is the top trending Halloween drink search."
-  - "The recipe below is a nonalcoholic punch for about 10 to 12 cups, made from juice, citrus, berries and soda."
+  - "The recipe below is a nonalcoholic punch of about 13 cups, or 10 to 12 servings, made from juice, citrus, berries and soda."
   - "The bubbling cauldron look works with a black bowl and battery-powered lights, with no dry ice in the drink."
   - "Federal and poison center guidance says dry ice should never go into drinking cups or touch bare skin."
 faq:
@@ -53,7 +53,7 @@ faq:
   - q: "Can I make witches' brew punch the night before?"
     a: "Yes. Mix the juices and citrus, cover and refrigerate. Add the soda or sparkling water right before serving so the punch stays fizzy."
   - q: "How many people does this recipe serve?"
-    a: "About 10 to 12 cups. For a larger party, double the ingredients and use a food-safe container with enough room."
+    a: "It makes about 13 cups, enough for 10 to 12 servings. For a larger party, double the ingredients and use a food-safe container with enough room."
 sources:
   - title: "Check out this year's buzziest Halloween trends."
     url: "https://blog.google/products-and-platforms/products/search/frightgeist-halloween-trends-2026/"
@@ -97,7 +97,7 @@ related: [halloween-2026-what-day-trick-or-treating-start, halloween-2026-saturd
 draft: false
 ---
 
-**A nonalcoholic witches' brew punch for about 10 to 12 cups takes 10 minutes to mix, and Halloween 2026 falls on Saturday, Oct. 31.** The color comes from cranberry juice, berries and citrus, and the fizz from soda or sparkling water. Pour it into a black cauldron-style bowl, add gummy worms or frozen berry "eyeballs," and light the outside of the bowl for the bubbling look.
+**A nonalcoholic witches' brew punch that makes about 13 cups, or 10 to 12 servings, takes 10 minutes to mix, and Halloween 2026 falls on Saturday, Oct. 31.** The color comes from cranberry juice, berries and citrus, and the fizz from soda or sparkling water. Pour it into a black cauldron-style bowl, add gummy worms or frozen berry "eyeballs," and light the outside of the bowl for the bubbling look.
 
 The idea fits what people are searching for. Google's Halloween trends post, published Oct. 14, 2026, names "witches brew punch" as the top trending Halloween drink. It says search interest in "cauldron crock pot" is at an all-time high, that "how to make a bubbling cauldron" is a breakout search this month, and that "where can I buy dry ice" spikes every year. Those are search trends, not a survey of what party hosts plan to serve. The recipe here is our own. Google has not tested or endorsed it.
 
@@ -105,7 +105,7 @@ If you are also planning the evening, see our guide to [what time trick-or-treat
 
 ## Witches' brew punch recipe
 
-Serves about 10 to 12 cups. Prep takes 10 minutes. Chill it for 1 to 2 hours for the best flavor.
+Makes about 13 cups, enough for 10 to 12 servings. Prep takes 10 minutes. Chill it for 1 to 2 hours for the best flavor.
 
 **Ingredients**
 
