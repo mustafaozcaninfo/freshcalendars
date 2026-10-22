@@ -4,39 +4,50 @@ seoTitle: "Witches' Brew Punch Recipe and Safe Bubbling Cauldron"
 description: "Make a nonalcoholic witches' brew punch for Halloween 2026 with a printable checklist and a bubbling cauldron look that keeps dry ice out of the drink."
 type: explainer
 publishedAt: "2026-10-22T01:45:00-04:00"
+updatedAt: "2026-10-22T02:37:00-04:00"
 authors: [news-desk]
 category: holidays
 keywords: ["witches brew punch", "bubbling cauldron halloween", "halloween punch recipe", "non alcoholic halloween punch", "halloween party drinks 2026"]
 dateline: "New York"
 assets:
+  scene: halloween-party
   kicker: "Halloween 2026 · Sat., Oct. 31"
   date: "2026-10-31"
   card: { top: "Halloween party drink", big: "Witches' brew punch", bottom: "Serves 10-12, no dry ice" }
   printable:
-    slug: halloween-witches-brew-punch-checklist-2026
+    slug: halloween-witches-brew-punch-recipe-checklist-2026
     group: halloween-2026
-    title: "Halloween Witches' Brew Punch: Recipe and Party Checklist"
-    subtitle: "Nonalcoholic punch for 10-12 servings, Halloween 2026 (Sat., Oct. 31)"
-    columns: ["Part", "What to do"]
+    title: "Witches' Brew Punch Recipe and Party Checklist, Halloween 2026"
+    subtitle: "Nonalcoholic punch, about 13 cups (10-12 servings), for Sat., Oct. 31, 2026"
+    notesLabel: "Guests and allergies"
+    inkSaver: true
     rows:
-      - ["Ingredients", "4 cups cranberry juice, 4 cups apple juice, 2 cups pineapple juice, 2 tbsp lemon or lime juice, 3 cups lemon-lime soda or sparkling water, 1 sliced orange, 1 cup frozen raspberries or blackberries, ice"]
-      - ["Step 1", "Chill the juices and soda."]
-      - ["Step 2", "Combine the three juices and the lemon or lime juice in a clean punch bowl."]
-      - ["Step 3", "Add the orange slices and frozen berries, then refrigerate."]
-      - ["Step 4", "Just before serving, stir in the soda or sparkling water slowly."]
-      - ["Step 5", "Add ice to the cups, ladle the punch and add a food-safe garnish."]
-      - ["Shopping", "[ ] Juices  [ ] Lemon or lime  [ ] Soda or sparkling water  [ ] Orange and berries  [ ] Ice  [ ] Cups, napkins, ladle  [ ] Allergen labels  [ ] Battery-powered lights"]
-      - ["Day before", "Buy ingredients, wash fruit, chill juices, check guest allergies."]
-      - ["2 hours before", "Mix the juices and citrus, cover and refrigerate."]
-      - ["30 minutes before", "Set out cups, napkins, ladle and the ingredient list."]
-      - ["Just before serving", "Add soda, ice and garnish."]
-      - ["After the party", "Refrigerate leftovers that stayed chilled; discard food left out too long."]
-    note: "Safety: Never put dry ice in drinking cups or serve drinks while dry ice may remain. Use pasteurized juice and keep perishable food out of the fridge no more than two hours. Sources: U.S. Food and Drug Administration, Illinois Poison Center, America's Poison Centers. The recipe is original to Fresh Calendars."
-    description: "One-page Halloween 2026 witches' brew punch recipe for 10-12 servings with five steps, a shopping checklist, a party timeline and a dry ice safety note."
-    alt: "Printable witches' brew punch recipe with ingredients, five steps, shopping checklist and party timeline for Halloween 2026"
+      - { when: "4 cups", what: "Cranberry juice", section: "Ingredients" }
+      - { when: "4 cups", what: "Apple juice", section: "Ingredients" }
+      - { when: "2 cups", what: "Pineapple juice", section: "Ingredients" }
+      - { when: "2 tbsp", what: "Lemon or lime juice", section: "Ingredients" }
+      - { when: "3 cups", what: "Lemon-lime soda or sparkling water", section: "Ingredients" }
+      - { when: "1", what: "Orange, sliced", section: "Ingredients" }
+      - { when: "1 cup", what: "Frozen raspberries or blackberries", section: "Ingredients" }
+      - { when: "1", what: "Chill the juices and soda", section: "Steps" }
+      - { when: "2", what: "Combine the three juices and the lemon or lime juice in a clean punch bowl", section: "Steps" }
+      - { when: "3", what: "Add the orange slices and frozen berries, then refrigerate", section: "Steps" }
+      - { when: "4", what: "Just before serving, stir in the soda or sparkling water slowly", section: "Steps" }
+      - { when: "5", what: "Ice in the cups, ladle the punch, add a food-safe garnish", section: "Steps" }
+      - { when: "", what: "Cups, napkins and a ladle", section: "Also buy" }
+      - { when: "", what: "Allergen labels", section: "Also buy" }
+      - { when: "", what: "Battery-powered lights for the cauldron", section: "Also buy" }
+      - { when: "Fri., Oct. 30", what: "Buy ingredients, wash fruit, chill juices, check guest allergies", section: "Party timeline" }
+      - { when: "2 hours before", what: "Mix the juices and citrus, cover and refrigerate", section: "Party timeline" }
+      - { when: "30 min before", what: "Set out cups, napkins, ladle and the ingredient list", section: "Party timeline" }
+      - { when: "Serving", what: "Add soda, ice and garnish", section: "Party timeline" }
+      - { when: "After", what: "Refrigerate leftovers that stayed chilled; discard food left out too long", section: "Party timeline" }
+    note: "Sources: U.S. Food and Drug Administration, Illinois Poison Center, America's Poison Centers. Never put dry ice in drinking cups. Keep perishable food out of the fridge no more than two hours. Recipe original to Fresh Calendars."
+    description: "One-page Halloween 2026 witches' brew punch recipe for 10-12 servings: ingredients, five steps, a shopping checklist, a party timeline and a dry ice safety note."
+    alt: "Printable witches' brew punch recipe and party checklist for Halloween 2026 with ingredients, steps, shopping list and timeline"
 hero:
   src: ../../../../assets/news/halloween-party-ideas-2026-witches-brew-punch/halloween-party-ideas-2026-witches-brew-punch.jpg
-  alt: "Halloween 2026 calendar card for Saturday, Oct. 31 beside a witches' brew punch card: serves 10-12, no dry ice"
+  alt: "Witches' brew punch illustration for Halloween 2026: a bubbling cauldron of green punch with a ladle, lit by party lights, beside an Oct. 31 calendar tile"
   caption: "Halloween 2026 is Saturday, Oct. 31. Google lists \"witches brew punch\" as the top trending Halloween drink search."
 summary:
   - "Halloween 2026 is Saturday, Oct. 31, and Google says \"witches brew punch\" is the top trending Halloween drink search."
@@ -78,13 +89,21 @@ sources:
     publisher: "U.S. Consumer Product Safety Commission"
     date: "2022-10-18"
 downloads:
-  - group: "Halloween Witches' Brew Punch printables"
-    title: "Halloween Witches' Brew Punch: Recipe and Party Checklist"
-    description: "One-page Halloween 2026 witches' brew punch recipe for 10-12 servings with five steps, a shopping checklist, a party timeline and a dry ice safety note."
-    preview: ../../../../assets/news/halloween-2026/halloween-witches-brew-punch-checklist-2026.png
-    alt: "Printable witches' brew punch recipe with ingredients, five steps, shopping checklist and party timeline for Halloween 2026"
-    pdf: "/news/downloads/halloween-2026/halloween-witches-brew-punch-checklist-2026.pdf"
-    png: "/news/downloads/halloween-2026/halloween-witches-brew-punch-checklist-2026.png"
+  - group: "Witches' Brew Punch Recipe and Party Checklist printables"
+    title: "Witches' Brew Punch Recipe and Party Checklist, Halloween 2026"
+    description: "One-page Halloween 2026 witches' brew punch recipe for 10-12 servings: ingredients, five steps, a shopping checklist, a party timeline and a dry ice safety note."
+    preview: ../../../../assets/news/halloween-2026/halloween-witches-brew-punch-recipe-checklist-2026.png
+    alt: "Printable witches' brew punch recipe and party checklist for Halloween 2026 with ingredients, steps, shopping list and timeline"
+    pdf: "/news/downloads/halloween-2026/halloween-witches-brew-punch-recipe-checklist-2026.pdf"
+    png: "/news/downloads/halloween-2026/halloween-witches-brew-punch-recipe-checklist-2026.png"
+    pages: 1
+  - group: "Witches' Brew Punch Recipe and Party Checklist printables"
+    title: "Witches' Brew Punch Recipe and Party Checklist, Halloween 2026 (ink saver)"
+    description: "One-page Halloween 2026 witches' brew punch recipe for 10-12 servings: ingredients, five steps, a shopping checklist, a party timeline and a dry ice safety note. Ink-saver version."
+    preview: ../../../../assets/news/halloween-2026/halloween-witches-brew-punch-recipe-checklist-2026-ink.png
+    alt: "Printable witches' brew punch recipe and party checklist for Halloween 2026 with ingredients, steps, shopping list and timeline, ink-saver version"
+    pdf: "/news/downloads/halloween-2026/halloween-witches-brew-punch-recipe-checklist-2026-ink.pdf"
+    png: "/news/downloads/halloween-2026/halloween-witches-brew-punch-recipe-checklist-2026-ink.png"
     pages: 1
 internalLinks:
   - href: "/october-calendars.html"

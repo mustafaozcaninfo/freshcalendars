@@ -11,14 +11,14 @@
  */
 
 export const SCENES = [
-  "halloween", "thanksgiving", "election", "winter-holidays", "night-sky", "time-change",
+  "halloween", "halloween-party", "thanksgiving", "election", "winter-holidays", "night-sky", "time-change",
   "shopping", "school", "money", "puzzle", "fireworks", "spring", "autumn", "calendar",
 ] as const;
 export type SceneName = (typeof SCENES)[number];
 
 /** Base color per scene, used when the story sets no `assets.color`. */
 export const SCENE_COLOR: Record<SceneName, string> = {
-  halloween: "#3b1d5e", thanksgiving: "#9a3412", election: "#1e3a8a", "winter-holidays": "#14532d", "night-sky": "#1e1b4b",
+  halloween: "#3b1d5e", "halloween-party": "#2e1065", thanksgiving: "#9a3412", election: "#1e3a8a", "winter-holidays": "#14532d", "night-sky": "#1e1b4b",
   "time-change": "#6d28d9", shopping: "#be123c", school: "#0f766e", money: "#166534", puzzle: "#4c1d95",
   fireworks: "#1e1b4b", spring: "#0e7490", autumn: "#9a3412", calendar: "#1e3a8a",
 };
@@ -103,6 +103,26 @@ function pumpkin(x: number, y: number, s: number, carved: boolean, id: string): 
   return `<g filter="url(#soft)"><radialGradient id="pk${id}" cx=".4" cy=".35" r=".8"><stop offset="0" stop-color="#ffb24a"/><stop offset=".6" stop-color="#f07d12"/><stop offset="1" stop-color="#b24f06"/></radialGradient>
   <path d="M${x - 6 * s} ${y - 70 * s} q${-4 * s} ${-26 * s} ${10 * s} ${-40 * s} l${10 * s} ${8 * s} q${-10 * s} ${12 * s} ${-4 * s} ${32 * s}z" fill="#4d6b2a"/>
   ${lobes}${face}</g>`;
+}
+
+/** Black cauldron with a glowing brew, rising bubbles and LED-style light (no fog: our stories say no dry ice). */
+function cauldron(x: number, y: number, s: number, r: Rng): string {
+  const bubbles = Array.from({ length: 16 }, () => {
+    const bx = x + between(r, -120, 120) * s, by = y - between(r, 10, 230) * s, br = between(r, 5, 18) * s;
+    return `<circle cx="${f1(bx)}" cy="${f1(by)}" r="${f1(br)}" fill="#a3e635" fill-opacity="${f1(between(r, 0.25, 0.7) * 100) / 100}" stroke="#ecfccb" stroke-opacity=".7" stroke-width="2"/><circle cx="${f1(bx - br * 0.35)}" cy="${f1(by - br * 0.35)}" r="${f1(br * 0.25)}" fill="#fff" opacity=".8"/>`;
+  }).join("");
+  return `<g><ellipse cx="${x}" cy="${y - 40 * s}" rx="${260 * s}" ry="${200 * s}" fill="#84cc16" opacity=".22" filter="url(#blur)"/>
+  <ellipse cx="${x}" cy="${y + 175 * s}" rx="${230 * s}" ry="${26 * s}" fill="#000" opacity=".45"/>
+  ${[-120, 0, 120].map((dx) => `<path d="M${x + dx * s - 14 * s} ${y + 120 * s} l${8 * s} ${56 * s} h${12 * s} l${8 * s} ${-56 * s}z" fill="#111827"/>`).join("")}
+  <radialGradient id="cz" cx=".35" cy=".3" r=".85"><stop offset="0" stop-color="#4b5563"/><stop offset=".45" stop-color="#1f2937"/><stop offset="1" stop-color="#030712"/></radialGradient>
+  <g filter="url(#soft)"><path d="M${x - 190 * s} ${y - 10 * s} q0 ${200 * s} ${190 * s} ${200 * s} q${190 * s} 0 ${190 * s} ${-200 * s}z" fill="url(#cz)"/>
+  <path d="M${x - 150 * s} ${y + 40 * s} q${40 * s} ${110 * s} ${110 * s} ${125 * s}" stroke="#9ca3af" stroke-opacity=".35" stroke-width="${10 * s}" fill="none" stroke-linecap="round"/></g>
+  <radialGradient id="brew" cx=".5" cy=".4" r=".7"><stop offset="0" stop-color="#d9f99d"/><stop offset=".5" stop-color="#84cc16"/><stop offset="1" stop-color="#4d7c0f"/></radialGradient>
+  <ellipse cx="${x}" cy="${y - 10 * s}" rx="${200 * s}" ry="${44 * s}" fill="#111827"/><ellipse cx="${x}" cy="${y - 14 * s}" rx="${176 * s}" ry="${32 * s}" fill="url(#brew)"/>
+  <path d="M${x - 176 * s} ${y - 14 * s} q${30 * s} ${-26 * s} ${60 * s} 0 q${30 * s} ${-22 * s} ${60 * s} 0 q${30 * s} ${-30 * s} ${60 * s} 0 q${30 * s} ${-24 * s} ${60 * s} 0 q${30 * s} ${-28 * s} ${56 * s} 0" fill="#bef264" opacity=".85"/>
+  <ellipse cx="${x}" cy="${y - 10 * s}" rx="${204 * s}" ry="${46 * s}" fill="none" stroke="#374151" stroke-width="${14 * s}"/>
+  <g transform="rotate(24 ${x + 90 * s} ${y - 60 * s})"><rect x="${x + 80 * s}" y="${y - 210 * s}" width="${16 * s}" height="${190 * s}" rx="${8 * s}" fill="#a16207"/><rect x="${x + 82 * s}" y="${y - 210 * s}" width="${5 * s}" height="${190 * s}" rx="2" fill="#fde68a" opacity=".5"/></g>
+  ${bubbles}</g>`;
 }
 
 function bat(x: number, y: number, s: number): string {
@@ -245,6 +265,12 @@ const BUILDERS: Record<SceneName, (r: Rng, c: string) => string> = {
     <path d="M560 470 l60 -70 l60 70 v-10 h40 v-60 l70 -60 l70 60 v130 h-300z" fill="#0c0a1a"/>${[[600, 445], [650, 445], [760, 420], [800, 420]].map(([x, y]) => `<rect x="${x}" y="${y}" width="22" height="26" fill="#fbbf24" opacity=".9"/>`).join("")}
     ${ground("#120d22", 500)}${bat(between(r, 640, 720), between(r, 120, 180), 1.1)}${bat(between(r, 760, 840), between(r, 200, 250), 0.8)}${bat(between(r, 980, 1060), between(r, 270, 310), 0.7)}
     ${pumpkin(between(r, 700, 740), 548, 1.15, true, "a")}${pumpkin(between(r, 900, 940), 578, 0.85, r() > 0.4, "b")}${pumpkin(1040, 600, 0.6, false, "c")}`,
+  "halloween-party": (r) => `<rect width="1200" height="675" fill="#1a0b2e" opacity=".5"/>${stars(r, 50, 0, 300)}${moon(between(r, 1000, 1060), 110, 52)}
+    ${bat(between(r, 600, 660), between(r, 90, 140), 0.9)}${bat(between(r, 820, 880), between(r, 60, 100), 0.7)}
+    <rect y="560" width="1200" height="115" fill="#120a1f"/><rect y="556" width="1200" height="6" fill="#4c1d95" opacity=".6"/>
+    ${cauldron(820, 400, 1.05, r)}${pumpkin(between(r, 1030, 1050), 578, 0.56, true, "p")}${pumpkin(1122, 596, 0.38, false, "q")}
+    ${[0, 1, 2, 3, 4, 5, 6, 7].map((i) => `<circle cx="${560 + i * 72}" cy="${f1(150 + Math.sin(i) * 14)}" r="6" fill="${["#a855f7", "#fb923c", "#a3e635"][i % 3]}" opacity=".9"/><circle cx="${560 + i * 72}" cy="${f1(150 + Math.sin(i) * 14)}" r="16" fill="${["#a855f7", "#fb923c", "#a3e635"][i % 3]}" opacity=".18"/>`).join("")}
+    <path d="M520 140 ${[0, 1, 2, 3, 4, 5, 6, 7].map((i) => `L${560 + i * 72} ${f1(150 + Math.sin(i) * 14)}`).join(" ")} L1140 140" stroke="#1f2937" stroke-width="2" fill="none"/>`,
   thanksgiving: (r) => `${bokeh(r, 14, "#ffd27a")}<rect y="470" width="1200" height="205" fill="#5b3413" opacity=".55"/>
     ${turkeyRoast(810, 430, 1.05)}${pie(between(r, 560, 600), 590, 0.9)}${pie(1030, 600, 0.75)}
     ${Array.from({ length: 9 }, () => leaf(between(r, 520, 1150), between(r, 60, 300), between(r, 0.6, 1.1), between(r, -40, 40), pick(r, ["#d97706", "#b45309", "#dc2626", "#ca8a04"]))).join("")}`,
@@ -275,6 +301,7 @@ export function scene(name: SceneName, o: Opts): string {
 
 /** Flat two-tone header icons for printables: light on ink, readable in grayscale. */
 const ICONS: Record<string, (c: string) => string> = {
+  cauldron: (c) => `<path d="M7 16 q0 20 15 20 q15 0 15 -20z" fill="none" stroke="${c}" stroke-width="2.4"/><path d="M5 16 h34" stroke="${c}" stroke-width="2.6" stroke-linecap="round"/><circle cx="17" cy="10" r="2.6" fill="none" stroke="${c}" stroke-width="1.8"/><circle cx="26" cy="7" r="2" fill="none" stroke="${c}" stroke-width="1.8"/><path d="M12 36 l-2 4 M32 36 l2 4" stroke="${c}" stroke-width="2.2"/>`,
   pumpkin: (c) => `<ellipse cx="22" cy="26" rx="18" ry="14" fill="none" stroke="${c}" stroke-width="2.4"/><ellipse cx="22" cy="26" rx="7" ry="14" fill="none" stroke="${c}" stroke-width="2"/><path d="M22 12 q0 -6 5 -8" stroke="${c}" stroke-width="2.4" fill="none"/>`,
   turkey: (c) => `<ellipse cx="22" cy="28" rx="16" ry="10" fill="none" stroke="${c}" stroke-width="2.4"/><path d="M6 36 h32" stroke="${c}" stroke-width="2.4"/><path d="M8 22 l-4 -6 M36 22 l4 -6" stroke="${c}" stroke-width="2.4" stroke-linecap="round"/>`,
   ballot: (c) => `<rect x="6" y="18" width="32" height="20" rx="2" fill="none" stroke="${c}" stroke-width="2.4"/><path d="M14 18 v-12 h16 v12" fill="none" stroke="${c}" stroke-width="2.4"/><path d="M17 12 l3 3 l6 -6" stroke="${c}" stroke-width="2.4" fill="none"/>`,
@@ -290,7 +317,7 @@ const ICONS: Record<string, (c: string) => string> = {
   money: (c) => `<rect x="4" y="12" width="36" height="22" rx="3" fill="none" stroke="${c}" stroke-width="2.4"/><circle cx="22" cy="23" r="6" fill="none" stroke="${c}" stroke-width="2.2"/>`,
 };
 export const SCENE_ICON: Record<SceneName, string> = {
-  halloween: "pumpkin", thanksgiving: "turkey", election: "ballot", "winter-holidays": "gift", "night-sky": "moon",
+  halloween: "pumpkin", "halloween-party": "cauldron", thanksgiving: "turkey", election: "ballot", "winter-holidays": "gift", "night-sky": "moon",
   "time-change": "clock", shopping: "bag", school: "book", money: "money", puzzle: "star", fireworks: "star",
   spring: "leaf", autumn: "leaf", calendar: "calendar",
 };
