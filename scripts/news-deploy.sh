@@ -2,7 +2,7 @@
 # Mac → live /news/: test + build + verify locally, ship sources to the VPS, then let the
 # VPS build and publish (one builder, so cron and manual runs never fight over hashes).
 # Usage: pnpm news:deploy                       (full factory sync: code + content + deps)
-#        NEWS_CONTENT_ONLY=1 pnpm news:deploy   (articles/images only, no pnpm install)
+#        NEWS_CONTENT_ONLY=1 pnpm news:deploy   (articles, images and printables only, no pnpm install)
 set -euo pipefail
 ROOT="$(cd "$(dirname "$0")/.." && pwd)"
 set -a; source "$ROOT/.env"; set +a
@@ -17,6 +17,8 @@ pnpm news:verify
 if [[ "${NEWS_CONTENT_ONLY:-0}" == "1" ]]; then
   rsync -avz --delete --exclude '.DS_Store' -e ssh "$ROOT/apps/news/src/content/" "$REMOTE_HOST:$APP_DIR/apps/news/src/content/"
   rsync -avz --delete --exclude '.DS_Store' -e ssh "$ROOT/apps/news/src/assets/" "$REMOTE_HOST:$APP_DIR/apps/news/src/assets/"
+  # Printables (public/downloads) too: a story that lists a PDF the server lacks fails the build in stampPdf.
+  rsync -avz --delete --exclude '.DS_Store' -e ssh "$ROOT/apps/news/public/" "$REMOTE_HOST:$APP_DIR/apps/news/public/"
 else
   bash "$ROOT/scripts/sync-app.sh"
 fi

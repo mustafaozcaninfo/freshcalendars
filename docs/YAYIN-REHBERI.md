@@ -34,7 +34,7 @@ Sonra yazının adresini tarayıcıda aç ve bir göz at.
 NEWS_CONTENT_ONLY=1 pnpm news:deploy
 ```
 
-Sadece `apps/news/src/content` ve `apps/news/src/assets` gönderilir, paket kurulumu atlanır. Editör kod, generator, `package.json` veya bileşen değiştirdiyse normal `pnpm news:deploy` kullan.
+Sadece `apps/news/src/content`, `apps/news/src/assets` ve `apps/news/public` (printable PDF'ler) gönderilir, paket kurulumu atlanır. Editör kod, generator, `package.json` veya bileşen değiştirdiyse normal `pnpm news:deploy` kullan.
 
 ## Sorun çıkarsa
 
@@ -44,6 +44,7 @@ Sadece `apps/news/src/content` ve `apps/news/src/assets` gönderilir, paket kuru
 | `news:seo-audit` FAIL | Kural ihlali (kısaltma açılmamış, yasaklı kelime, PDF metadatası). Editöre geri gönder. |
 | En sonda `curl` hatası (ör. exit code 35) ama öncesinde `changed=` ve `purge ok` var | Yayın tamamlandı; sadece son kontrol bir anlık bağlantı hatası verdi. Sayfayı tarayıcıda aç, açılıyorsa sorun yok. |
 | Yazı sitede görünmüyor | `publishedAt` gelecekte olabilir. VPS her 15 dakikada yeniden yayınlar; saat geldiğinde kendiliğinden çıkar. |
+| Uyarı e-postasında `stampPdf` ve `ENOENT` / `open` hatası | Yazının listelediği bir PDF sunucuda yok (eskiden hızlı mod PDF göndermiyordu). Normal `pnpm news:deploy` çalıştır. |
 | `git pull` çakışma verdi | Kendi Mac'inde commit etmediğin değişiklik vardır. `git status` ile bak; emin değilsen bana sor. |
 | Yanlış bir şey yayınlandı | `git revert <commit>` ile geri al, sonra `pnpm news:deploy`. Gerekirse `git push origin main`. |
 
