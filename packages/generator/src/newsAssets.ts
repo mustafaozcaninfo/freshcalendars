@@ -7,6 +7,7 @@
  * then prints the `downloads:` entry to paste into the frontmatter. Astro ignores `assets:`.
  *
  * assets:
+ *   scene: thanksgiving                     # illustration from art.ts (pnpm fc news-scenes); none = flat poster
  *   kicker: "Texas · Nov. 3, 2026"          # small line above the title
  *   title: "Who is on the Texas ballot"     # optional short hero line (<=40 chars); Discover shows
  *                                           # the real headline beside the image and avoids text-heavy images
@@ -23,6 +24,9 @@
  *     note: "Source: Texas Secretary of State, ..."   # sources, required
  *     description: "..."                    # 20-200 chars, for the downloads entry
  *     alt: "..."                            # 10-160 chars, for the downloads entry
+ *     layout: auto                          # month | timeline | checklist | list (see newsPrintable.ts)
+ *     inkSaver: true                        # also <slug>-ink, black on white
+ * A story with a licensed photo (news-photo, <slug>.photo.json) keeps it; only the printable is drawn.
  * Original art only: shapes, a calendar card and a little text, no logos. Keep the main shapes inside the
  * middle 900 px so 4:3 and 1:1 crops (Discover, schema images) still read.
  */
@@ -31,9 +35,11 @@ import path from "node:path";
 import { chromium } from "playwright";
 import sharp from "sharp";
 import { parse } from "yaml";
-import { LETTER, doc, fontFaces } from "./julian.js";
+import { LETTER, fontFaces } from "./julian.js";
 import { MONTHS, renderPrintables } from "./printables.js";
 import { ROOT } from "./paths.js";
+import { type Printable, printableHtml } from "./newsPrintable.js";
+import { CATEGORY_SCENE, SCENE_ICON, SCENE_COLOR, SCENES, type SceneName, scene, tint } from "./art.js";
 
 const W = 1200, H = 675;
 const ARTICLES = path.join(ROOT, "apps/news/src/content/articles");
@@ -43,8 +49,7 @@ const CATEGORY_COLOR: Record<string, string> = {
 };
 const DOW = ["SUNDAY", "MONDAY", "TUESDAY", "WEDNESDAY", "THURSDAY", "FRIDAY", "SATURDAY"];
 
-type Printable = { slug: string; group: string; title: string; subtitle?: string; columns?: [string, string]; rows: [string, string][]; note: string; description?: string; alt?: string };
-type Assets = { kicker?: string; title?: string; date?: string; color?: string; card?: { top?: string; big: string; bottom?: string }; printable?: Printable };
+type Assets = { scene?: SceneName | "none"; kicker?: string; title?: string; date?: string; color?: string; card?: { top?: string; big: string; bottom?: string }; printable?: Printable };
 type Front = { title: string; seoTitle?: string; category: string; assets?: Assets };
 
 const esc = (s: string) => s.replace(/&/g, "&amp;").replace(/</g, "&lt;").replace(/>/g, "&gt;").replace(/"/g, "&quot;");
@@ -95,30 +100,42 @@ function hero(fonts: string, f: Front, a: Assets): string {
   <div class="brand">freshcalendars.com/news</div></body></html>`;
 }
 
-function sheet(fonts: string, slug: string, color: string, p: Printable): string {
-  const rows = p.rows.map(([d, w]) => `<tr><td class="d">${esc(d)}</td><td>${esc(w)}</td><td class="ck"><span></span></td></tr>`).join("");
-  const small = p.rows.length > 16;
-  const notes = Math.max(4, 22 - p.rows.length);
-  const css = `
-  .dl{padding:34px 40px 0}
-  .dl h1{font-family:Sora;font-weight:800;font-size:27px;margin:0;color:${color};line-height:1.08}
-  .dl .sub{margin:6px 0 16px;font-size:11.5px;color:#37474f}
-  .dl table{width:100%;border-collapse:collapse;font-size:${small ? 10.5 : 12}px}
-  .dl th{font-family:Sora;font-size:9.5px;text-transform:uppercase;letter-spacing:.08em;color:${color};text-align:left;padding:6px 8px;border-bottom:3px solid ${color}}
-  .dl td{padding:${small ? 6 : 9}px 8px;border-bottom:1px solid #e2e8f0;vertical-align:top;line-height:1.35;color:#1f2937}
-  .dl td.d{font-family:Sora;font-weight:800;color:#0f172a;width:34%}
-  .dl td.ck{width:46px;text-align:center}.dl td.ck span{display:inline-block;width:14px;height:14px;border:1.6px solid ${color};border-radius:3px}
-  .dl .notes{margin-top:16px;border:1.6px solid #e2e8f0;border-radius:10px;padding:10px 14px}
-  .dl .notes b{font-family:Sora;font-size:12.5px;color:${color}}
-  .dl .notes i{display:block;border-bottom:1px solid #e2e8f0;height:28px}
-  .dl .note{margin-top:10px;font-size:8.8px;color:#5a6b75;line-height:1.45}`;
-  const [c1, c2] = p.columns ?? ["Date", "What happens"];
-  const page = `<section class="page dl"><h1>${esc(p.title)}</h1>${p.subtitle ? `<p class="sub">${esc(p.subtitle)}</p>` : ""}
-    <table><thead><tr><th>${esc(c1)}</th><th>${esc(c2)}</th><th>Done</th></tr></thead><tbody>${rows}</tbody></table>
-    <div class="notes"><b>My notes</b>${"<i></i>".repeat(notes)}</div>
-    <p class="note">${esc(p.note)}</p>
-    <div class="foot">Free printable from Fresh Calendars · freshcalendars.com/news/${slug}/</div></section>`;
-  return doc(fonts, LETTER, css, [page]);
+/** assets.color, else the chosen scene's palette, else the category color (so default heroes keep their colors). */
+function storyColor(f: Front, a: Assets, name: SceneName | "none"): string {
+  if (a.color) return a.color;
+  if (a.scene && name !== "none") return SCENE_COLOR[name];
+  return CATEGORY_COLOR[f.category] ?? (name !== "none" ? SCENE_COLOR[name] : "#1e3a8a");
+}
+
+/**
+ * Illustrated hero: an original scene from art.ts fills the right side, text sits on a scrim at the
+ * left. The date becomes a small tear-off tile beside the card so it never covers the scene.
+ */
+function sceneHero(fonts: string, f: Front, a: Assets, slug: string, name: SceneName): string {
+  const color = storyColor(f, a, name);
+  const title = a.title ?? "";
+  if (title.length > 40) console.warn(`assets.title is ${title.length} chars; keep it under 40 so the hero is not text-heavy (Google Discover)`);
+  let tile = "";
+  if (a.date) {
+    const d = new Date(`${a.date}T12:00:00Z`);
+    tile = `<div class="tile"><i style="background:${color}">${MONTHS[d.getUTCMonth()]!.slice(0, 3).toUpperCase()}</i><b style="color:${tint(color, -0.4)}">${d.getUTCDate()}</b><em style="color:${color}">${DOW[d.getUTCDay()]!.slice(0, 3)}</em></div>`;
+  }
+  const card = a.card ? `<div class="card"><span>${esc(a.card.top ?? "")}</span><b>${esc(a.card.big)}</b><span>${esc(a.card.bottom ?? "")}</span></div>` : "";
+  return `<!doctype html><html><head><meta charset="utf-8"><style>${fonts}*{box-sizing:border-box}html,body{margin:0}
+  body{width:${W}px;height:${H}px;overflow:hidden;font-family:Manrope,sans-serif;position:relative;background:${color}}
+  .k{position:absolute;left:64px;top:76px;font-weight:800;font-size:15px;letter-spacing:.18em;text-transform:uppercase;color:#fde68a;text-shadow:0 2px 10px rgba(0,0,0,.35)}
+  .t{position:absolute;left:64px;top:110px;width:500px;font-family:Sora;font-weight:800;color:#fff;line-height:1.04;font-size:${title.length > 26 ? 52 : 60}px;letter-spacing:-.01em;text-shadow:0 4px 24px rgba(0,0,0,.35)}
+  .row{position:absolute;left:64px;bottom:84px;display:flex;gap:16px;align-items:stretch}
+  .tile{width:118px;border-radius:16px;background:#fff;box-shadow:0 18px 40px rgba(0,0,0,.32);overflow:hidden;text-align:center;font-family:Sora;transform:rotate(-3deg)}
+  .tile i{display:block;font-style:normal;color:#fff;font-weight:800;font-size:17px;letter-spacing:.12em;padding:7px 0}
+  .tile b{display:block;font-size:60px;line-height:1;margin-top:8px}.tile em{display:block;font-style:normal;font-weight:800;font-size:14px;letter-spacing:.14em;padding:4px 0 10px}
+  .card{width:${tile ? 360 : 440}px;border-radius:18px;background:rgba(255,255,255,.96);box-shadow:0 18px 40px rgba(0,0,0,.3);padding:18px 22px;color:#0f172a;display:flex;flex-direction:column;justify-content:center}
+  .card b{display:block;font-family:Sora;font-size:34px;line-height:1.05;margin:3px 0}.card span{font-size:15px;color:#475569;font-weight:700}
+  .brand{position:absolute;right:28px;bottom:20px;font-size:13px;font-weight:700;letter-spacing:.06em;color:rgba(255,255,255,.8)}</style></head><body>
+  <svg width="${W}" height="${H}" viewBox="0 0 ${W} ${H}" style="position:absolute;inset:0">${scene(name, { color, seed: slug })}</svg>
+  ${a.kicker ? `<div class="k">${esc(a.kicker)}</div>` : ""}${title ? `<div class="t">${esc(title)}</div>` : ""}
+  ${tile || card ? `<div class="row">${tile}${card}</div>` : ""}
+  <div class="brand">freshcalendars.com/news</div></body></html>`;
 }
 
 export async function buildNewsAssets(slug: string): Promise<void> {
@@ -131,13 +148,18 @@ export async function buildNewsAssets(slug: string): Promise<void> {
   const a = f.assets ?? {};
   if (!f.assets) console.log("no assets: block; drawing a hero from the title and category only");
   const fonts = await fontFaces();
-  const browser = await chromium.launch({ headless: true });
-  try {
+  const dir = path.join(ROOT, "apps/news/src/assets/news", slug);
+  const name = a.scene ?? CATEGORY_SCENE[f.category] ?? "calendar";
+  if (name !== "none" && !SCENES.includes(name)) throw new Error(`assets.scene "${name}" is not one of: ${SCENES.join(", ")}, none`);
+  // A licensed photo (news-photo) is the hero; only the printable is drawn then.
+  const photo = await fs.access(path.join(dir, `${slug}.photo.json`)).then(() => true, () => false);
+  if (photo) console.log(`hero: licensed photo ${slug}.webp kept (delete ${slug}.photo.json to draw a scene instead)`);
+  const browser = photo ? null : await chromium.launch({ headless: true });
+  if (browser) try {
     const page = await browser.newPage({ viewport: { width: W, height: H }, deviceScaleFactor: 2 });
-    await page.setContent(hero(fonts, f, a), { waitUntil: "load" });
+    await page.setContent(name === "none" ? hero(fonts, f, a) : sceneHero(fonts, f, a, slug, name), { waitUntil: "load" });
     await page.evaluate(() => document.fonts.ready);
     const png = await page.screenshot({ type: "png" });
-    const dir = path.join(ROOT, "apps/news/src/assets/news", slug);
     await fs.mkdir(dir, { recursive: true });
     await sharp(png).jpeg({ quality: 86, mozjpeg: true }).toFile(path.join(dir, `${slug}.jpg`));
     console.log(`hero: apps/news/src/assets/news/${slug}/${slug}.jpg`);
@@ -148,15 +170,52 @@ export async function buildNewsAssets(slug: string): Promise<void> {
   if (!p) return;
   if (!/^[a-z0-9-]+$/.test(p.slug) || !/^[a-z0-9-]+$/.test(p.group)) throw new Error("printable slug and group must be lowercase kebab-case");
   if (!p.rows?.length || !p.note) throw new Error("printable needs rows and a sources note");
-  const color = a.color ?? CATEGORY_COLOR[f.category] ?? "#1e3a8a";
-  await renderPrintables(p.group, [{ slug: p.slug, size: LETTER, html: sheet(fonts, slug, color, p) }]);
+  const color = storyColor(f, a, name);
+  const year = Number((a.date ?? "").slice(0, 4)) || new Date().getFullYear();
+  const iconName = SCENE_ICON[name === "none" ? "calendar" : name];
+  const main = printableHtml(fonts, slug, color, p, year, iconName);
+  for (const w of main.warnings) console.warn(`printable: ${w}`);
+  console.log(`printable layout: ${main.layout}${p.layout && p.layout !== "auto" ? "" : " (auto)"}`);
+  const sheets = [{ slug: p.slug, size: LETTER, html: main.html }];
+  if (p.inkSaver) sheets.push({ slug: `${p.slug}-ink`, size: LETTER, html: printableHtml(fonts, slug, color, { ...p, layout: main.layout as Printable["layout"] }, year, iconName, true).html });
+  await renderPrintables(p.group, sheets);
   const q = (s: string) => JSON.stringify(s);
-  console.log(`\nPaste under downloads: in the frontmatter:\n  - group: ${q(p.title.replace(/[,:].*$/, "") + " printables")}
-    title: ${q(p.title)}
-    description: ${q(p.description ?? (p.subtitle ?? p.title))}
-    preview: ../../../../assets/news/${p.group}/${p.slug}.png
-    alt: ${q(p.alt ?? `${p.title} printable`)}
-    pdf: "/news/downloads/${p.group}/${p.slug}.pdf"
-    png: "/news/downloads/${p.group}/${p.slug}.png"
-    pages: 1`);
+  const entry = (file: string, title: string, desc: string, alt: string) => `  - group: ${q(p.title.replace(/[,:].*$/, "") + " printables")}
+    title: ${q(title)}
+    description: ${q(desc)}
+    preview: ../../../../assets/news/${p.group}/${file}.png
+    alt: ${q(alt)}
+    pdf: "/news/downloads/${p.group}/${file}.pdf"
+    png: "/news/downloads/${p.group}/${file}.png"
+    pages: 1`;
+  const desc = p.description ?? p.subtitle ?? p.title, alt = p.alt ?? `${p.title} printable`;
+  console.log(`\nPaste under downloads: in the frontmatter:\n${entry(p.slug, p.title, desc, alt)}${p.inkSaver ? `\n${entry(`${p.slug}-ink`, `${p.title.slice(0, 68)} (ink saver)`, `${desc.slice(0, 170)} Ink-saver version.`, `${alt.slice(0, 140)}, ink-saver version`)}` : ""}`);
+}
+
+/**
+ * Contact sheet of every scene, so a writer can pick `assets.scene` by eye:
+ *   pnpm fc news-scenes [out.png]   (default .cache/news-scenes.png)
+ */
+export async function buildSceneGallery(out = path.join(ROOT, ".cache/news-scenes.png")): Promise<void> {
+  const fonts = await fontFaces();
+  const browser = await chromium.launch({ headless: true });
+  try {
+    const page = await browser.newPage({ viewport: { width: W, height: H } });
+    const shots: Buffer[] = [];
+    for (const name of SCENES) {
+      const f: Front = { title: name, category: "planning" };
+      const a: Assets = { scene: name, kicker: `Scene · ${name}`, date: "2026-11-26", card: { top: "Example card", big: "Thu., Nov. 26", bottom: name } };
+      await page.setContent(sceneHero(fonts, f, a, "gallery", name), { waitUntil: "load" });
+      await page.evaluate(() => document.fonts.ready);
+      shots.push(await sharp(await page.screenshot({ type: "png" })).resize(600, 338).png().toBuffer());
+    }
+    const cols = 3, rows = Math.ceil(shots.length / cols);
+    await fs.mkdir(path.dirname(out), { recursive: true });
+    await sharp({ create: { width: cols * 600, height: rows * 338, channels: 3, background: "#ffffff" } })
+      .composite(shots.map((input, i) => ({ input, left: (i % cols) * 600, top: Math.floor(i / cols) * 338 })))
+      .png().toFile(out);
+    console.log(`scenes: ${path.relative(ROOT, out)} (${SCENES.join(", ")})`);
+  } finally {
+    await browser.close();
+  }
 }

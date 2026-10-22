@@ -6,7 +6,7 @@
   "scripts": {
     "fc": "tsx packages/generator/src/cli.ts",
     "build": "tsx packages/generator/src/cli.ts build",
-    "test": "tsx --test packages/engine/src/resolve.test.ts packages/engine/src/content/editorial.test.ts packages/engine/src/content/holidayEditorial.test.ts packages/engine/src/holidays/holidays.test.ts apps/news/test/*.test.ts",
+    "test": "tsx --test packages/generator/src/newsRules.test.ts packages/engine/src/resolve.test.ts packages/engine/src/content/editorial.test.ts packages/engine/src/content/holidayEditorial.test.ts packages/engine/src/holidays/holidays.test.ts apps/news/test/*.test.ts",
     "verify": "tsx packages/generator/src/cli.ts verify",
     "gen": "tsx packages/generator/src/cli.ts gen",
     "refresh-evergreen": "tsx packages/generator/src/cli.ts refresh-evergreen",

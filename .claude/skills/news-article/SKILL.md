@@ -98,27 +98,74 @@ Valid calendar-site links: check that the page answers on freshcalendars.com bef
 
 ## 4. Hero image and printables
 
-- **Default: `pnpm fc news-assets <slug>`.** Add an `assets:` block to the frontmatter (Astro ignores it) and run the command. It draws the hero (2400×1350 JPEG with a kicker, an optional calendar card for `date`, an optional white card and, only if you set it, a short `title`) and, if you give `printable:`, a one-page date-list printable with a Done column and notes, then prints the `downloads:` entry to paste. The full field list is at the top of `packages/generator/src/newsAssets.ts`. Example:
+Every story gets one of two heroes. Both come from commands; never hand-place an image.
+
+### A. Illustrated hero (default): `pnpm fc news-assets <slug>`
+
+Add an `assets:` block to the frontmatter (Astro ignores it) and run the command. It draws a 2400×1350 hero from our own illustration library (`packages/generator/src/art.ts`): a full scene on the right, the kicker, an optional date tile and a white card on the left. Everything is drawn in code, so the image is ours and unique to the story (the slug seeds the details).
+
+- `scene:` picks the picture. Run `pnpm fc news-scenes` to see them all on one sheet (`.cache/news-scenes.png`): halloween, thanksgiving, election, winter-holidays, night-sky, time-change, shopping, school, money, puzzle, fireworks, spring, autumn, calendar. Without `scene:` the category's default is used; `scene: none` gives the old flat poster.
+- Match the scene to the subject, not the category: a turkey story is `thanksgiving` even in `holidays`; a meteor story is `night-sky`.
+- `title:` is optional and short (under 40 characters); Discover shows the real headline beside the image.
+
+### B. Licensed photo: `pnpm fc news-photo`
+
+Use a real photo when it helps the reader more than an illustration (a NASA image of the event, a landmark, a real place). Only sources with a machine-readable license, checked again at download:
+
+```bash
+pnpm fc news-photo search "Leonid meteor" --source nasa      # or commons, or all
+pnpm fc news-photo use <slug> 3                              # number from the search list
+```
+
+`use` crops to 16:9 (never upscales, needs 1600 px), writes `<slug>.webp` with the author and license embedded, a `<slug>.photo.json` record, and prints the `hero:` block with `credit` and `license`. Paste it and write the `alt` and `caption` yourself. The page then shows the credit with links to the source and the license, and the schema names the photographer and license instead of us. `news-assets` keeps a licensed photo and only draws the printable.
+
+Photo rules (the schema and the tool enforce most of them):
+- Allowed: public domain (U.S. federal works such as NASA), CC0, CC BY, CC BY-SA. Refused: NC, ND, GFDL-only, "fair use", no license, NASA items credited to someone else.
+- **Never** take an image from a search engine, a news site, a stock agency (Getty, AP, Reuters, Shutterstock) or social media. Being a news site does not license a photo, and a credit line is attribution, not permission.
+- Look at the Commons page before using a candidate: no recognizable private people as the subject, no logos as the subject, nothing misleading for the story (a 2019 crowd is not "this year's" crowd; say "file photo" in the caption when it is not from this event).
+- Press-kit images: `pnpm fc news-photo press <slug> --url <image> --terms <terms page> --author "<company>"`, only when the company's terms page allows editorial use by the press. The main session reads that page before committing.
+
+### Printables (`assets.printable`, drawn by `news-assets`)
+
+A printable is the product readers keep, so plan it with the story, not after it. Every story whose content can be acted on gets one: dates to mark, steps to follow, things to bring or check. Pick the rows that someone would stick on a fridge; the story carries the explanation.
 
 ```yaml
 assets:
-  kicker: "Texas · Nov. 3, 2026"
-  date: "2026-11-03"
-  card: { top: "Early voting runs through", big: "Fri., Oct. 30", bottom: "Polls 7 a.m.-7 p.m." }
+  scene: thanksgiving
+  kicker: "Thanksgiving 2026 · Thu., Nov. 26"
+  date: "2026-11-26"
+  card: { top: "Thaw a 20 lb turkey from", big: "Sat., Nov. 21", bottom: "In a fridge at 40°F or below" }
   printable:
-    slug: texas-key-dates-2026
-    group: election-2026
-    title: "Texas Key Dates, Nov. 3, 2026"
-    subtitle: "Every remaining deadline from the Texas Secretary of State"
+    slug: thanksgiving-turkey-thaw-dates-2026
+    group: thanksgiving-2026
+    title: "Thanksgiving Turkey Thaw Dates, Nov. 26, 2026"
+    subtitle: "When to move a frozen turkey to the refrigerator"
     rows:
-      - ["Fri., Oct. 23", "Mail ballot applications must be received"]
-      - ["Tue., Nov. 3, 7 a.m.-7 p.m.", "Election Day"]
-    note: "Source: Texas Secretary of State, Election Advisory No. 2026-21."
-    description: "Every remaining Texas voting deadline for Nov. 3, 2026, with boxes to tick off."
-    alt: "Texas key dates 2026 printable with early voting, mail ballot and Election Day deadlines"
+      - ["Fri., Nov. 20 to Sat., Nov. 21", "20 to 24 lb turkey, refrigerator (5 to 6 days)"]
+      - ["Thu., Nov. 26", "Cook to 165°F (74°C)"]
+    note: "Source: USDA Food Safety and Inspection Service, Turkey Basics: Safe Thawing."
+    inkSaver: true            # also writes <slug>-ink for home printers
+    description: "..."
+    alt: "..."
 ```
 
-- **Custom visuals only when needed:** a story-specific generator in `packages/generator/src/<topic>.ts` with a `news-<topic>` command in `cli.ts` (patterns: `oct24.ts`, `november2026.ts`, `renderPrintables()` in `printables.ts`). No stock photos or images you don't have rights to; no answers in puzzle heroes.
+The layout is chosen from the rows (`layout: auto`); set `layout:` only to override it:
+
+| Content | Layout | How to write the rows |
+|---|---|---|
+| Dated days or short ranges inside one or two months, at most three on any day | `month`: calendar grid with numbered markers and a legend | `["Sat., Nov. 21", "..."]` or ranges `"Fri., Nov. 20 to Sat., Nov. 21"`, `"Oct. 22-24"` |
+| Up to 12 ordered steps that do not overlap | `timeline` | one step per row, earliest first |
+| Things to bring, check or do, in groups | `checklist`: two columns of tick boxes | `{ when: "Sat., Oct. 31", what: "Flashlight", section: "Bring" }` |
+| Many overlapping ranges (by state, by store) or anything else | `list`: date, what, Done | keep `what` under 140 characters |
+
+Rules the generator enforces:
+- **Weekdays are checked.** "Fri., Nov. 21" in a 2026 sheet fails, because Nov. 21, 2026 is a Saturday. The year comes from the printable title (put it there), `year:`, or `assets.date`.
+- **One page, always full.** The sheet is measured in the browser: long content scales down to 80%, short content scales up to 130%, and a lined notes area takes the rest. If it still does not fit, the build fails: cut rows or split into two printables (max 40 rows).
+- **The note starts with "Source:"** and names the same sources as the story. A header icon matching the scene and the footer link are added for you.
+
+Then paste the `downloads:` entry the command prints (two entries with `inkSaver`).
+
+- **Custom visuals only when needed:** a story-specific generator in `packages/generator/src/<topic>.ts` with a `news-<topic>` command in `cli.ts` (patterns: `oct24.ts`, `november2026.ts`, `renderPrintables()` in `printables.ts`). No answers in puzzle heroes.
 
 ### Printable PDF rules (Google's guidance on PDFs; checked by `10-PDF-*` in the audit)
 

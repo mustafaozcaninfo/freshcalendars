@@ -49,6 +49,7 @@ export interface ArticleSeo {
     title?: string;
     caption?: string;
     credit?: string;
+    license?: { name: string; url: string; source: string; author: string; authorUrl?: string };
   };
   wordCount: number;
   readingMinutes: number;
@@ -177,7 +178,17 @@ export function articleGraph(a: ArticleSeo): Record<string, unknown> {
     copyrightNotice: NEWS_NAME,
     creator: { "@id": ORG_ID },
   };
-  if (TRUST_PAGES.license) {
+  const lic = a.hero.license;
+  if (lic) {
+    // A third party's photo: their name and license, never ours (Google image license metadata).
+    Object.assign(imageNode, {
+      creditText: a.hero.credit,
+      copyrightNotice: lic.author,
+      creator: { "@type": "Person", name: lic.author, ...(lic.authorUrl ? { url: lic.authorUrl } : {}) },
+      license: lic.url,
+      acquireLicensePage: lic.source,
+    });
+  } else if (TRUST_PAGES.license) {
     imageNode.license = absNewsUrl(TRUST_PAGES.license);
     imageNode.acquireLicensePage = absNewsUrl(TRUST_PAGES.license);
   }

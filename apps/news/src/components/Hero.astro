@@ -1,8 +1,9 @@
 ---
 import { Picture } from "astro:assets";
 import type { ImageMetadata } from "astro";
-interface Props { src: ImageMetadata; alt: string; title: string; caption?: string; credit?: string }
-const { src, alt, title, caption, credit = "Illustration: Fresh Calendars" } = Astro.props;
+type License = { name: string; url: string; source: string; author: string; authorUrl?: string };
+interface Props { src: ImageMetadata; alt: string; title: string; caption?: string; credit?: string; license?: License }
+const { src, alt, title, caption, credit = "Illustration: Fresh Calendars", license } = Astro.props;
 ---
 <figure class="hero">
   <Picture
@@ -17,11 +18,23 @@ const { src, alt, title, caption, credit = "Illustration: Fresh Calendars" } = A
     fetchpriority="high"
     decoding="async"
   />
-  {(caption || credit) && <figcaption>{caption}{caption && credit && " "}{credit && <span class="credit">{credit}</span>}</figcaption>}
+  {(caption || credit) && (
+    <figcaption>
+      {caption}{caption && credit && " "}
+      {credit && (
+        <span class="credit">
+          {credit}
+          {/* Title, author, source, license: what CC BY and BY-SA ask for. */}
+          {license && <> · <a href={license.source} rel="nofollow noopener">Source</a> · <a href={license.url} rel="license nofollow noopener">{license.name}</a></>}
+        </span>
+      )}
+    </figcaption>
+  )}
 </figure>
 <style>
   .hero{margin:0 0 1.5rem}
   .hero :global(img){display:block;width:100%;height:auto;aspect-ratio:16/9;object-fit:cover;border-radius:14px;background:var(--wash);box-shadow:var(--n-shadow)}
   figcaption{font-size:.85rem;color:var(--ink);margin-top:.6rem;line-height:1.45}
   .credit{color:#64748b}
+  .credit a{color:inherit}
 </style>

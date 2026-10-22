@@ -43,6 +43,16 @@ const articles = defineCollection({
           /** Visible caption under the hero (also ImageObject.caption). */
           caption: z.string().min(20).max(220).optional(),
           credit: z.string().optional(),
+          /** Third-party photo license, written by `pnpm fc news-photo use`; absent for our own illustrations. */
+          license: z
+            .object({
+              name: z.string().min(2),
+              url: z.string().url(),
+              source: z.string().url(),
+              author: z.string().min(2),
+              authorUrl: z.string().url().optional(),
+            })
+            .optional(),
         }),
         summary: z.array(z.string().min(10)).min(2).max(4),
         faq: z.array(z.object({ q: z.string().min(5), a: z.string().min(10) })).default([]),
@@ -83,6 +93,12 @@ const articles = defineCollection({
       .superRefine((a, ctx) => {
         if (a.updatedAt && a.updatedAt < a.publishedAt) {
           ctx.addIssue({ code: "custom", path: ["updatedAt"], message: "updatedAt is before publishedAt" });
+        }
+        if (a.hero.license && !a.hero.credit) {
+          ctx.addIssue({ code: "custom", path: ["hero", "credit"], message: "a licensed photo needs a visible credit" });
+        }
+        if (!a.hero.license && /^photo\b/i.test(a.hero.credit ?? "")) {
+          ctx.addIssue({ code: "custom", path: ["hero", "license"], message: "a photo credit needs hero.license (use pnpm fc news-photo)" });
         }
         if ((a.type === "news" || a.type === "update") && a.sources.length === 0) {
           ctx.addIssue({ code: "custom", path: ["sources"], message: `${a.type} articles need at least one source` });

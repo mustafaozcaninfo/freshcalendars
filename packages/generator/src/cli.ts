@@ -30,7 +30,8 @@ import { buildTxBallot } from "./txballot.js";
 import { buildOct22 } from "./oct22.js";
 import { buildRides } from "./rides2026.js";
 import { buildTxCalendar } from "./txcalendar.js";
-import { buildNewsAssets } from "./newsAssets.js";
+import { buildNewsAssets, buildSceneGallery } from "./newsAssets.js";
+import { photoPress, photoSearch, photoUse } from "./newsPhoto.js";
 import { buildHeroes4 } from "./heroes4.js";
 import { ROOT } from "./paths.js";
 import { purgeDoCdn, syncCdnAssets } from "./spaces.js";
@@ -162,6 +163,14 @@ async function main(): Promise<void> {
       await buildTxCalendar();
     } else if (cmd === "news-assets") {
       await buildNewsAssets(process.argv[3] ?? "");
+    } else if (cmd === "news-scenes") {
+      await buildSceneGallery(process.argv[3]);
+    } else if (cmd === "news-photo") {
+      const sub = process.argv[3], focus = argValue("--focus") ?? "attention";
+      if (sub === "search") await photoSearch(process.argv[4] ?? "", argValue("--source") ?? "all");
+      else if (sub === "use") await photoUse(process.argv[4] ?? "", process.argv[5] ?? "", focus);
+      else if (sub === "press") await photoPress(process.argv[4] ?? "", argValue("--url") ?? "", argValue("--terms") ?? "", argValue("--author") ?? "", focus);
+      else throw new Error("usage: pnpm fc news-photo search|use|press …");
     } else if (cmd === "rollover") {
       const to = Number(argValue("--to"));
       if (!to) throw new Error("--to YYYY required");
@@ -188,6 +197,10 @@ async function main(): Promise<void> {
   pnpm fc build [--skip-assets]
   pnpm fc gen-meta          # meta + HTML only (skips PNG/PDF render)
   pnpm fc refresh-meta      # daily: Eastern bake date, HTML only, no PNG/OG
+  pnpm fc news-assets <slug>               # /news/ story hero (illustrated scene) and printable from frontmatter assets:
+  pnpm fc news-scenes [out.png]            # contact sheet of every hero scene
+  pnpm fc news-photo search "<q>"          # licensed photo candidates (Wikimedia Commons, NASA)
+  pnpm fc news-photo use <slug> <n>        # crop to 16:9 WebP with credit and license record
   pnpm fc news-julian [--years 2026,2027]  # /news/ Julian date printables (PDF + PNG)
   pnpm fc news-ramadan                     # /news/ Ramadan 2027 printables (PDF + PNG)
   pnpm fc news-weeks                       # /news/ week number 2027 printables (PDF + PNG)

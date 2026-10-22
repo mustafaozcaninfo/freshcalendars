@@ -16,3 +16,6 @@ test-results/
 .vscode/
 scripts/.mobile-*.png
 .u
+
+# generator scratch (scene sheets, photo search results)
+.cache/

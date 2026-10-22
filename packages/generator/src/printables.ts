@@ -30,6 +30,10 @@ export async function renderPrintables(dir: string, list: Printable[]): Promise<
       const page = await browser.newPage({ viewport: t.size, deviceScaleFactor: 2 });
       await page.setContent(t.html, { waitUntil: "load" });
       await page.evaluate(() => document.fonts.ready);
+      // Templates that ship a fit script (newsPrintable.ts) scale themselves to one page here.
+      const fit = await page.evaluate(() => (window as unknown as { __fit?: () => number }).__fit?.() ?? null);
+      if (await page.evaluate(() => document.body.dataset.overflow === "1")) throw new Error(`${t.slug}: content does not fit on the page even at 80%; cut or split the rows`);
+      if (fit !== null && fit !== 1) console.log(`${t.slug}: scaled to ${Math.round(fit * 100)}% to fit`);
       const pdf = path.join(outPublic, `${t.slug}.pdf`), png = path.join(outPublic, `${t.slug}.png`);
       await page.pdf({ path: pdf, width: `${t.size.width}px`, height: `${t.size.height}px`, printBackground: true, margin: { top: "0", right: "0", bottom: "0", left: "0" } });
       await page.screenshot({ path: png, type: "png", clip: { x: 0, y: 0, ...t.size } });

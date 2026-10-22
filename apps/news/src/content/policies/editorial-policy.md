@@ -1,7 +1,7 @@
 ---
 title: "Editorial Policy"
 description: "How Fresh Calendars News chooses stories, checks dates against primary sources, uses tools, keeps ads separate and handles updates to published stories."
-updatedAt: "2026-10-19T10:30:00-04:00"
+updatedAt: "2026-10-22T02:05:00-04:00"
 ---
 
 This policy explains how Fresh Calendars News reports. It applies to every story under [/news/](/news/).
@@ -17,6 +17,10 @@ Each story states the full date, the day of the week and, when it matters, the t
 ## Use of tools
 
 We use software, which may include AI tools, for research, drafting and checks. A person on the news desk reviews every story, checks each date against its source and approves it before it is published. We do not publish stories that have not been reviewed.
+
+## Images
+
+Story images are illustrations drawn by Fresh Calendars or photos used under a license that allows it: public domain works (for example from NASA), or Creative Commons CC0, CC BY and CC BY-SA. Each photo shows the photographer's name with links to the original and to its license, and we say when a photo was cropped. Our printables are drawn from the same sourced facts as the story.
 
 ## Product and shopping stories
 
