@@ -4,7 +4,7 @@ seoTitle: "USPS Holiday Shipping Deadlines 2026 for Christmas"
 description: "USPS 2026 holiday deadlines for Christmas delivery: Ground Advantage and First-Class Mail by Dec. 17, Priority Mail Dec. 18, Priority Mail Express Dec. 19."
 type: news
 publishedAt: "2026-10-19T10:55:00-04:00"
-updatedAt: "2026-10-22T08:30:00-04:00"
+updatedAt: "2026-10-22T02:40:00-04:00"
 authors: [news-desk]
 category: retail-dates
 keywords: ["USPS holiday shipping deadlines 2026", "last day to ship for Christmas 2026", "USPS Christmas deadline 2026", "Priority Mail holiday deadline", "holiday mailing dates 2026"]
@@ -92,11 +92,12 @@ downloads:
     png: "/news/downloads/usps-christmas-2026/usps-christmas-send-by-dates-2026-ink.png"
     pages: 1
 corrections:
-  - date: "2026-10-22T08:30:00-04:00"
+  - date: "2026-10-22T02:40:00-04:00"
     text: "An earlier version listed Wednesday, Dec. 16 as the Ground Advantage date for Alaska, Hawaii, Puerto Rico and the territories. USPS lists no single date; it says those packages have a service expectation of 10 days or more."
 draft: false
 ---
 
+**To get a package delivered by Christmas in the lower 48 states, the U.S. Postal Service (USPS) recommends mailing it by Thursday, Dec. 17, 2026** for USPS Ground Advantage and First-Class Mail, by **Friday, Dec. 18** for Priority Mail, and by **Saturday, Dec. 19** for Priority Mail Express. The agency announced the dates on Sept. 22. They are recommendations for expected delivery by Dec. 25, not guarantees.
 
 *Last checked against the [USPS holiday shipping page](https://www.usps.com/holiday/holiday-shipping-dates.htm) on Thursday, Oct. 22, 2026.*
 
