@@ -4,7 +4,7 @@ seoTitle: "November 2026 Calendar With Holidays and Important Dates"
 description: "November 2026 calendar with holidays: Veterans Day Nov. 11, Thanksgiving Nov. 26, every key date, days until each and a printable, Sunday or Monday start."
 type: explainer
 publishedAt: "2026-10-19T08:00:00-04:00"
-updatedAt: "2026-10-21T02:40:00-04:00"
+updatedAt: "2026-10-22T01:50:00-04:00"
 authors: [news-desk]
 category: planning
 keywords: ["November 2026 calendar with holidays", "November 2026 holidays", "November 2026 important dates", "Thanksgiving 2026 calendar", "days until Thanksgiving 2026"]
@@ -100,6 +100,20 @@ November 2026 starts on a Sunday and ends on a Monday, so it fills exactly five 
 | 29 | 30 · Cyber Monday |  |  |  |  |  |
 
 The two federal holidays are Veterans Day on Wednesday, Nov. 11 and Thanksgiving Day on Thursday, Nov. 26, according to the U.S. Office of Personnel Management. Election Day, Nov. 3, is not a federal holiday, though 11 states close state offices; see [what is open on Election Day](/news/is-election-day-a-holiday-2026-whats-open/). Our free printable below puts every date in this story on one page, in Sunday-start, Monday-start and ink-saver versions. For plain monthly layouts without the extra dates, the [November 2026 printable calendar](/november-calendars.html) has six designs, including landscape and Monday start.
+
+## Which November 2026 dates are federal holidays?
+
+Only two of the month's best-known dates give federal employees a day off. The U.S. Office of Personnel Management (OPM) lists Veterans Day and Thanksgiving Day for 2026; the rest are election, observance or shopping dates.
+
+| Date | Event | Federal holiday? |
+|---|---|---|
+| Tuesday, Nov. 3 | Election Day | No |
+| Wednesday, Nov. 11 | Veterans Day | Yes |
+| Thursday, Nov. 26 | Thanksgiving Day | Yes |
+| Friday, Nov. 27 | Black Friday | No, a retail shopping day |
+| Monday, Nov. 30 | Cyber Monday | No, an online shopping event |
+
+A federal holiday does not close every business or school. Banks, stores, transit systems and districts set their own schedules, so check the organization directly. Black Friday and Cyber Monday hours and deals are set by each retailer; our [Black Friday 2026 store hours](/news/black-friday-2026-store-hours-walmart-target-best-buy/) list shows what chains have announced.
 
 ## November 2026 important dates
 
