@@ -5,8 +5,6 @@
 import { NEWS_NAME, SITE_ORIGIN, absNewsUrl } from "./site.ts";
 import { isoDateTime } from "./seo.ts";
 
-export const XSL_PATH = "/news/sitemap.xsl";
-/** Same-origin XSL (browsers refuse cross-origin stylesheets for XML). */
 /** Google News: only articles published in the last two days, at most 1,000 URLs. */
 export const NEWS_WINDOW_MS = 48 * 60 * 60 * 1000;
 export const NEWS_MAX = 1000;
@@ -22,7 +20,8 @@ export function xmlEscape(s: string): string {
     .replaceAll("'", "&apos;");
 }
 
-const head = `<?xml version="1.0" encoding="UTF-8"?>\n<?xml-stylesheet type="text/xsl" href="${XSL_PATH}"?>\n`;
+/** Plain XML, no XSLT stylesheet: Chrome is removing XSLT and warns on pages that use it. */
+const head = `<?xml version="1.0" encoding="UTF-8"?>\n`;
 
 export interface UrlEntry {
   path: string;
