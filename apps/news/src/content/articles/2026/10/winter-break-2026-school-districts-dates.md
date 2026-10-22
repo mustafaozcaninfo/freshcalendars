@@ -4,6 +4,7 @@ seoTitle: "Winter Break 2026 Dates for Big School Districts"
 description: "Winter break 2026 in 21 big school districts: most are off Dec. 21-Jan. 1, NYC from Dec. 24, Los Angeles until Jan. 8. Return dates and Thanksgiving breaks."
 type: news
 publishedAt: "2026-10-20T01:35:00-04:00"
+updatedAt: "2026-10-22T13:03:00-04:00"
 authors: [news-desk]
 category: school-calendars
 keywords: ["winter break 2026", "christmas break 2026 schools", "when is winter break 2026", "school winter break dates 2026-27", "when do schools go back after winter break 2027"]
@@ -66,6 +67,9 @@ sources:
   - title: "2026-2027 NISD Calendar"
     url: "https://nisd.net/sites/default/files/attachments/file/2025/2026-2027-nisd-calendar.pdf"
     publisher: "Northside Independent School District"
+  - title: "2026-2027 Calendar At A Glance"
+    url: "https://harvardes.lausd.org/apps/news/article/2093959?categoryId=20828"
+    publisher: "Los Angeles Unified School District (Harvard Elementary)"
   - title: "School Year Calendar 2026-27"
     url: "https://www.dpsk12.org/documents/calendars-&-publications/2026-27-calendars/17704516"
     publisher: "Denver Public Schools"
@@ -88,6 +92,9 @@ downloads:
     pdf: "/news/downloads/winter-break-2026/winter-break-2026-school-districts.pdf"
     png: "/news/downloads/winter-break-2026/winter-break-2026-school-districts.png"
     pages: 1
+corrections:
+  - date: "2026-10-22T13:03:00-04:00"
+    text: "An earlier version said Los Angeles Unified students are off only Nov. 26-27 for Thanksgiving. The district's 2026-27 calendar marks Nov. 23-25 as no-school days too, so students are off the whole week of Nov. 23-27."
 draft: false
 ---
 
@@ -142,7 +149,7 @@ For full-year calendars, see our stories on [NYC public schools](/news/nyc-publi
 
 ## Thanksgiving comes first
 
-Thanksgiving is Thursday, Nov. 26, 2026. Thirteen of these districts give students the whole week of Nov. 23-27 off, including Miami-Dade, Houston, Gwinnett, Dallas, Denver and San Diego. Clark County, Fairfax County, Wake County and Charlotte-Mecklenburg close Nov. 25-27, and New York City, Los Angeles, Chicago and Montgomery County close Nov. 26-27. The printable below lists each one.
+Thanksgiving is Thursday, Nov. 26, 2026. Fourteen of these districts give students the whole week of Nov. 23-27 off, including Los Angeles, Miami-Dade, Houston, Gwinnett, Dallas, Denver and San Diego. Clark County, Fairfax County, Wake County and Charlotte-Mecklenburg close Nov. 25-27, and New York City, Chicago and Montgomery County close Nov. 26-27. Our [Thanksgiving break 2026](/news/thanksgiving-break-2026-school-districts-dates/) story has the full list. The printable below lists each one.
 
 ## Planning travel
 

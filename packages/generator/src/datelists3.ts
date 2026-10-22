@@ -191,7 +191,7 @@ const LATE_OCT: Row[] = [
 /** [district, state, first day off, last day off, extra no-school days, students return, Thanksgiving break]. From each district's official 2026-27 calendar. */
 export const WINTER_2026: [string, string, string, string, string, string, string][] = [
   ["New York City Public Schools", "N.Y.", "2026-12-24", "2027-01-01", "", "2027-01-04", "2026-11-26..2026-11-27"],
-  ["Los Angeles Unified", "Calif.", "2026-12-21", "2027-01-08", "", "2027-01-11", "2026-11-26..2026-11-27"],
+  ["Los Angeles Unified", "Calif.", "2026-12-21", "2027-01-08", "", "2027-01-11", "2026-11-23..2026-11-27"],
   ["Miami-Dade County", "Fla.", "2026-12-21", "2027-01-01", "Dec. 18 planning day", "2027-01-04", "2026-11-23..2026-11-27"],
   ["Chicago Public Schools", "Ill.", "2026-12-21", "2027-01-01", "Jan. 4 PD day", "2027-01-05", "2026-11-26..2026-11-27"],
   ["Clark County", "Nev.", "2026-12-21", "2027-01-01", "Jan. 4 staff day", "2027-01-05", "2026-11-25..2026-11-27"],
