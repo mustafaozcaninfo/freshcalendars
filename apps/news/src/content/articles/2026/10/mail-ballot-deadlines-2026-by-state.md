@@ -64,6 +64,12 @@ draft: false
 
 ## States that count a Nov. 3 postmark
 
+<form class="tool-box" data-state-finder data-none="{state} is not listed in this story; check your state election office." onsubmit="return false" hidden>
+<label for="state-pick">Find your state's mail ballot deadline</label>
+<select id="state-pick"><option value="">Choose a state</option></select>
+<output class="tool-out"></output>
+</form>
+
 | State | Postmarked ballot must arrive by |
 |---|---|
 | Alaska | Nov. 13 |

@@ -113,6 +113,12 @@ draft: false
 
 ## Early voting dates by state
 
+<form class="tool-box" data-state-finder data-none="{state} is not among the eight states in this story. Your state election office lists its early voting dates, if it offers early voting." onsubmit="return false" hidden>
+<label for="state-pick">Check your state</label>
+<select id="state-pick"><option value="">Choose a state</option></select>
+<output class="tool-out"></output>
+</form>
+
 | State | Dates | Hours and notes |
 |---|---|---|
 | Connecticut | Mon., Oct. 19-Sun., Nov. 1, every day | 10 a.m.-6 p.m.; 8 a.m.-8 p.m. on Tue., Oct. 27 and Thu., Oct. 29 |

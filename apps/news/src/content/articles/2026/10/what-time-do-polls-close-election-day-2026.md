@@ -63,6 +63,12 @@ draft: false
 
 ## Poll closing times in Eastern Time
 
+<form class="tool-box" data-state-finder data-none="{state} is not listed in this story; check your county election office." onsubmit="return false" hidden>
+<label for="state-pick">Find your state's closing time</label>
+<select id="state-pick"><option value="">Choose a state</option></select>
+<output class="tool-out"></output>
+</form>
+
 | Eastern Time | States (most polling places) |
 |---|---|
 | 6 p.m. | Indiana, Kentucky |

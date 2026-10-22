@@ -76,6 +76,14 @@ If your birthday is on the 21st through the 31st, your October payment is dated 
 
 The October payment is your benefit for September: Social Security pays each month's benefit in the following month.
 
+<form class="tool-box" data-ssa-payday data-w2="2026-10-14,2026-11-10,2026-12-09" data-w3="2026-10-21,2026-11-18,2026-12-16" data-w4="2026-10-28,2026-11-25,2026-12-23" data-ss3="2026-10-02,2026-11-03,2026-12-03" data-ssi="2026-10-01,2026-10-30,2026-12-01,2026-12-31" onsubmit="return false" hidden>
+<label for="ssa-kind">Your benefits</label>
+<select id="ssa-kind"><option value="new">Started after April 1997</option><option value="old">Started before May 1997</option><option value="both">Social Security and SSI</option><option value="ssi">SSI only</option></select>
+<label for="ssa-day">Birthday on the record (day of the month)</label>
+<select id="ssa-day"></select>
+<output class="tool-out"></output>
+</form>
+
 ## October 2026 payment schedule
 
 | Date | Who is paid |

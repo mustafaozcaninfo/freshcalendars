@@ -188,11 +188,11 @@ const older = pos >= 0 && pos < all.length - 1 ? linkOf(all[pos + 1]!) : undefin
         try { await navigator.clipboard.writeText(b.dataset.url); lbl.textContent = "Link copied"; use.setAttribute("href", "#si-check"); b.classList.add("done"); setTimeout(() => { lbl.textContent = "Copy link"; use.setAttribute("href", "#si-link"); b.classList.remove("done"); }, 2000); } catch { prompt("Copy this link:", b.dataset.url); }
       });
       if (navigator.share) for (const b of document.querySelectorAll(".share .native")) { b.hidden = false; b.addEventListener("click", () => navigator.share({ title: b.dataset.title, url: b.dataset.url }).catch(() => {})); }
+      const AB = { AL: "Alabama", AK: "Alaska", AZ: "Arizona", AR: "Arkansas", CA: "California", CO: "Colorado", CT: "Connecticut", DE: "Delaware", DC: "District of Columbia", FL: "Florida", GA: "Georgia", HI: "Hawaii", ID: "Idaho", IL: "Illinois", IN: "Indiana", IA: "Iowa", KS: "Kansas", KY: "Kentucky", LA: "Louisiana", ME: "Maine", MD: "Maryland", MA: "Massachusetts", MI: "Michigan", MN: "Minnesota", MS: "Mississippi", MO: "Missouri", MT: "Montana", NE: "Nebraska", NV: "Nevada", NH: "New Hampshire", NJ: "New Jersey", NM: "New Mexico", NY: "New York", NC: "North Carolina", ND: "North Dakota", OH: "Ohio", OK: "Oklahoma", OR: "Oregon", PA: "Pennsylvania", RI: "Rhode Island", SC: "South Carolina", SD: "South Dakota", TN: "Tennessee", TX: "Texas", UT: "Utah", VT: "Vermont", VA: "Virginia", WA: "Washington", WV: "West Virginia", WI: "Wisconsin", WY: "Wyoming" };
       // ZIP finder (sample ballot story): the first three ZIP digits give the state (USPS prefixes),
       // then the matching row of the server-rendered state table supplies the official lookup link.
       const zf = document.querySelector("[data-zip-finder]");
       if (zf) {
-        const AB = { AL: "Alabama", AK: "Alaska", AZ: "Arizona", AR: "Arkansas", CA: "California", CO: "Colorado", CT: "Connecticut", DE: "Delaware", DC: "District of Columbia", FL: "Florida", GA: "Georgia", HI: "Hawaii", ID: "Idaho", IL: "Illinois", IN: "Indiana", IA: "Iowa", KS: "Kansas", KY: "Kentucky", LA: "Louisiana", ME: "Maine", MD: "Maryland", MA: "Massachusetts", MI: "Michigan", MN: "Minnesota", MS: "Mississippi", MO: "Missouri", MT: "Montana", NE: "Nebraska", NV: "Nevada", NH: "New Hampshire", NJ: "New Jersey", NM: "New Mexico", NY: "New York", NC: "North Carolina", ND: "North Dakota", OH: "Ohio", OK: "Oklahoma", OR: "Oregon", PA: "Pennsylvania", RI: "Rhode Island", SC: "South Carolina", SD: "South Dakota", TN: "Tennessee", TX: "Texas", UT: "Utah", VT: "Vermont", VA: "Virginia", WA: "Washington", WV: "West Virginia", WI: "Wisconsin", WY: "Wyoming" };
         const R = "005-005NY,010-027MA,028-029RI,030-038NH,039-049ME,050-054VT,055-055MA,056-059VT,060-069CT,070-089NJ,100-149NY,150-196PA,197-199DE,200-200DC,201-201VA,202-205DC,206-219MD,220-246VA,247-268WV,270-289NC,290-299SC,300-319GA,320-339FL,341-349FL,350-369AL,370-385TN,386-397MS,398-399GA,400-427KY,430-459OH,460-479IN,480-499MI,500-528IA,530-549WI,550-567MN,569-569DC,570-577SD,580-588ND,590-599MT,600-629IL,630-658MO,660-679KS,680-693NE,700-714LA,716-729AR,730-732OK,733-733TX,734-749OK,750-799TX,800-816CO,820-831WY,832-838ID,840-847UT,850-865AZ,870-884NM,885-885TX,889-898NV,900-961CA,967-968HI,970-979OR,980-994WA,995-999AK"
           .split(",").map((s) => [+s.slice(0, 3), +s.slice(4, 7), AB[s.slice(7)]]);
         const out = zf.querySelector(".zip-out"), input = zf.querySelector("input");
@@ -209,6 +209,118 @@ const older = pos >= 0 && pos < all.length - 1 ? linkOf(all[pos + 1]!) : undefin
           const jump = document.createElement("a"); jump.href = "#"; jump.textContent = "See the row"; jump.addEventListener("click", (e) => { e.preventDefault(); row.scrollIntoView({ block: "center" }); }); out.append(jump);
           row.classList.add("zip-hit");
         });
+      }
+
+      // Story tools. Each one reads its facts from the story itself (table rows, list items or data-*
+      // attributes written next to the source text), starts hidden and only appears when this script
+      // runs, so the page reads the same without JavaScript. Dates count in Eastern Time.
+      const todayET = new Intl.DateTimeFormat("en-CA", { timeZone: "America/New_York" }).format(new Date());
+      const MON = ["Jan.", "Feb.", "March", "April", "May", "June", "July", "Aug.", "Sept.", "Oct.", "Nov.", "Dec."];
+      const WD = ["Sunday", "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday"];
+      const WD_AP = ["Sun.", "Mon.", "Tue.", "Wed.", "Thu.", "Fri.", "Sat."];
+      const daysFrom = (iso) => Math.round((Date.parse(iso) - Date.parse(todayET)) / 864e5);
+      const apDate = (iso, wd = true) => { const d = new Date(iso + "T12:00:00Z"); return (wd ? WD[d.getUTCDay()] + ", " : "") + MON[d.getUTCMonth()] + " " + d.getUTCDate(); };
+      const inDays = (n) => (n === 0 ? "today" : n === 1 ? "tomorrow" : "in " + n + " days");
+      const show = (el) => { el.hidden = false; return el; };
+
+      // Days-until column: the table after [data-days-until] gets a live "Days from today" column.
+      for (const el of document.querySelectorAll("[data-days-until]")) {
+        let t = el.nextElementSibling;
+        while (t && !t.matches("table")) t = t.nextElementSibling;
+        if (!t || !t.tHead || !t.tBodies[0]) continue;
+        const year = +el.dataset.daysUntil, last = t.tHead.rows[0].cells.length - 1;
+        t.tHead.rows[0].cells[last].textContent = "Days from today";
+        let next = null;
+        for (const r of t.tBodies[0].rows) {
+          const m = /^([A-Z][a-z]+)\.? (\d{1,2})\b/.exec(r.cells[0].textContent.trim());
+          const mi = m ? MON.findIndex((x) => x.startsWith(m[1].slice(0, 3))) : -1;
+          if (mi < 0) continue;
+          const n = daysFrom(year + "-" + String(mi + 1).padStart(2, "0") + "-" + m[2].padStart(2, "0"));
+          r.cells[last].textContent = n < 0 ? "Passed" : n === 0 ? "Today" : String(n);
+          r.classList.toggle("is-past", n < 0);
+          if (n >= 0 && !next) { next = r; r.classList.add("is-next"); }
+        }
+        show(el).textContent = "Counting from today, " + apDate(todayET) + ", Eastern Time." + (next ? " Next up: " + next.cells[2].textContent.trim() + " (" + next.cells[0].textContent.trim() + ")." : "");
+      }
+
+      // Social Security payday: dates come from the form's data-* lists (SSA's 2026 schedule).
+      const sp = document.querySelector("[data-ssa-payday]");
+      if (sp) {
+        const day = sp.querySelector("#ssa-day"), kind = sp.querySelector("#ssa-kind"), out = sp.querySelector(".tool-out");
+        for (let i = 1; i <= 31; i++) day.add(new Option(String(i), String(i)));
+        const list = (k) => (sp.dataset[k] || "").split(",").filter(Boolean);
+        const line = (label, dates) => {
+          const left = dates.filter((d) => daysFrom(d) >= 0);
+          if (!left.length) return label + ": no more dates in this schedule.";
+          const [n, ...rest] = left;
+          return label + ": " + apDate(n) + ", " + inDays(daysFrom(n)) + (rest.length ? ". After that: " + rest.map((d) => apDate(d, false)).join(", ") : "") + ".";
+        };
+        const run = () => {
+          const k = kind.value, d = +day.value;
+          // Only the post-1997 Wednesday schedule depends on the birthday; hide the field otherwise.
+          day.hidden = day.labels[0].hidden = k !== "new";
+          const g = d <= 10 ? "w2" : d <= 20 ? "w3" : "w4";
+          const lines = k === "new" ? [line("Your next payment", list(g))]
+            : k === "old" ? [line("Your next payment", list("ss3"))]
+            : k === "both" ? [line("Social Security", list("ss3")), line("SSI", list("ssi"))]
+            : [line("Your next SSI payment", list("ssi"))];
+          out.replaceChildren(...lines.map((t) => Object.assign(document.createElement("p"), { textContent: t })));
+        };
+        day.value = "1"; day.addEventListener("change", run); kind.addEventListener("change", run); run(); show(sp);
+      }
+
+      // State finder: every table row and list item in the story that names the chosen state.
+      const sf = document.querySelector("[data-state-finder]");
+      if (sf) {
+        const sel = sf.querySelector("select"), out = sf.querySelector(".tool-out");
+        for (const n of Object.values(AB).sort()) sel.add(new Option(n, n));
+        const body = document.querySelector(".prose-news");
+        const names = (text, st) => {
+          const t = st === "Virginia" ? text.replace(/West Virginia/g, "") : text;
+          return new RegExp("(^|[^A-Za-z])" + st + "(?![A-Za-z])").test(t);
+        };
+        const section = (el) => { let h = el.closest("table, ul, ol"); while (h && !/^H[23]$/.test(h.tagName)) h = h.previousElementSibling; return h ? h.textContent.trim() : ""; };
+        sel.addEventListener("change", () => {
+          body.querySelectorAll(".zip-hit").forEach((r) => r.classList.remove("zip-hit"));
+          const st = sel.value; if (!st) { out.replaceChildren(); return; }
+          const hits = [];
+          for (const r of body.querySelectorAll("tbody tr")) {
+            const i = [...r.cells].findIndex((c) => names(c.textContent, st));
+            if (i < 0) continue;
+            const head = r.closest("table").tHead?.rows[0].cells;
+            // Leave out the cell that names the state; the other cells, with their headers, are the answer.
+            const parts = [...r.cells].map((c, j) => [c, j]).filter(([, j]) => j !== i || r.cells.length === 1).map(([c, j]) => (head ? head[j].textContent.trim() + ": " : "") + c.textContent.trim());
+            // The column headers already say what the row is, so table hits skip the section title.
+            hits.push(["", parts.join(" · "), r]); r.classList.add("zip-hit");
+          }
+          for (const li of body.querySelectorAll("li")) if (!li.closest("nav, form") && names(li.textContent, st)) hits.push([section(li), li.textContent.trim(), li]);
+          if (!hits.length) { out.replaceChildren(Object.assign(document.createElement("p"), { textContent: (sf.dataset.none || "This story does not list {state}. Check your state election office.").replace("{state}", st) })); return; }
+          out.replaceChildren(...hits.map(([sec, txt, el]) => {
+            const p = document.createElement("p");
+            if (sec) p.append(Object.assign(document.createElement("b"), { textContent: sec + ": " }));
+            const a = Object.assign(document.createElement("a"), { href: "#", textContent: "see it" });
+            a.addEventListener("click", (e) => { e.preventDefault(); el.scrollIntoView({ block: "center" }); });
+            p.append(txt + " (", a, ")");
+            return p;
+          }));
+        });
+        show(sf);
+      }
+
+      // Time difference by day: offsets come from the browser's own time zone data at noon UTC.
+      const tg = document.querySelector("[data-tz-gap]");
+      if (tg) {
+        const off = (tz, d) => (new Date(d.toLocaleString("en-US", { timeZone: tz })) - new Date(d.toLocaleString("en-US", { timeZone: "UTC" }))) / 36e5;
+        const gap = (d) => off("Europe/London", d) - off("America/New_York", d);
+        const hm = (h) => { const x = ((h % 24) + 24) % 24; return (x % 12 || 12) + " " + (x < 12 ? "a.m." : "p.m."); };
+        const rows = [];
+        for (let d = new Date(tg.dataset.from + "T12:00:00Z"); d <= new Date(tg.dataset.to + "T12:00:00Z"); d = new Date(+d + 864e5)) {
+          const iso = d.toISOString().slice(0, 10), g = gap(d);
+          const d0 = new Date(iso + "T12:00:00Z");
+          rows.push("<tr" + (iso === todayET ? ' class="is-next"' : "") + "><td>" + WD_AP[d0.getUTCDay()] + ", " + apDate(iso, false) + "</td><td>" + g + " hours</td><td>" + hm(9 + g) + "</td></tr>");
+        }
+        tg.querySelector(".tool-out").innerHTML = "<p>Right now London is <b>" + gap(new Date()) + " hours</b> ahead of New York.</p><table><thead><tr><th>Date</th><th>London ahead</th><th>9 a.m. New York</th></tr></thead><tbody>" + rows.join("") + "</tbody></table>";
+        show(tg);
       }
     })();
   </script>
@@ -235,17 +347,40 @@ const older = pos >= 0 && pos < all.length - 1 ? linkOf(all[pos + 1]!) : undefin
   .prose-news :global(tbody tr:hover td){background:#fff8e1}
   .prose-news :global(tbody tr:last-child td){border-bottom:0}
   /* Phones: wide tables scroll inside their own box instead of being clipped. */
-  @media (max-width:640px){ .prose-news :global(table){display:block;overflow-x:auto} }
+  /* Phones: tables scroll in their own box; headers may wrap so one long header cannot squeeze the first column to a word per line. */
+  @media (max-width:640px){ .prose-news :global(table){display:block;overflow-x:auto} .prose-news :global(th){white-space:normal} .prose-news :global(th),.prose-news :global(td){padding:.5rem .55rem} }
   .prose-news :global(blockquote){margin:1.25rem 0;padding:.75rem 1.1rem;border-left:4px solid var(--n-brand);background:var(--n-soft);border-radius:0 var(--n-radius) var(--n-radius) 0}
   /* Freshness note at the top of a running list (raw HTML in the story). */
   .prose-news :global(.callout){margin:0 0 1.25rem;padding:.85rem 1rem;border:2px solid var(--gold);border-left-width:6px;border-radius:10px;background:#fffbea;font-size:1rem;line-height:1.5}
   /* ZIP finder (raw HTML inside the sample ballot story). */
-  .prose-news :global(.zip-finder){display:flex;flex-wrap:wrap;align-items:flex-end;gap:.6rem;margin:0 0 1.25rem;padding:1rem;border:2px solid var(--focus);border-radius:12px;background:var(--wash)}
+  /* Reader tools: the ZIP finder and the story tools (data-ssa-payday, data-state-finder, data-tz-gap,
+     data-days-until). Story tools stay hidden until the article script fills them. */
+  .prose-news :global(.zip-finder),.prose-news :global(.tool-box){margin:0 0 1.25rem;padding:1rem 1.1rem;border:1px solid #c7dbf0;border-left:4px solid var(--focus);border-radius:var(--n-radius);background:var(--n-brand-soft)}
+  .prose-news :global(.zip-finder){display:flex;flex-wrap:wrap;align-items:flex-end;gap:.6rem}
   .prose-news :global(.zip-finder label){flex:1 0 100%;font-weight:700;font-size:1rem}
-  .prose-news :global(.zip-finder input){flex:1 1 9rem;min-height:48px;font:inherit;font-size:1.15rem;padding:.4rem .7rem;border:1px solid var(--line-soft);border-radius:8px;letter-spacing:.08em}
+  .prose-news :global(.zip-finder input){flex:1 1 9rem;min-height:48px;font:inherit;font-size:1.15rem;padding:.4rem .75rem;border:1px solid #9fb3c8;border-radius:8px;background:#fff;color:var(--ink-strong);letter-spacing:.08em}
   .prose-news :global(.zip-finder button){min-height:48px;padding:0 1.1rem;font:700 1rem/1 "Source Sans 3","Source Sans 3 Fallback",sans-serif;color:#fff;background:var(--focus);border:0;border-radius:8px;cursor:pointer}
+  .prose-news :global(.zip-finder button:hover){background:#00365d}
   .prose-news :global(.zip-out){flex:1 0 100%;margin:0;font-size:1rem;min-height:1.5em}
-  .prose-news :global(tr.zip-hit td){background:#fff7d6}
+  .prose-news :global(tbody tr.zip-hit td){background:#fff7d6}
+  .prose-news :global(.tool-box){margin-inline:0}
+  .prose-news :global(.tool-box label){display:block;font-weight:700;font-size:1rem;margin:0 0 .35rem;color:var(--ink-strong)}
+  /* Native arrows sit flush against the edge and differ per browser, so draw one chevron everywhere. */
+  .prose-news :global(.tool-box select){display:block;width:100%;max-width:26rem;min-height:48px;margin:0 0 .85rem;padding:.5rem 2.75rem .5rem .8rem;font:inherit;font-size:1.05rem;line-height:1.3;color:var(--ink-strong);background:#fff url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 16'%3E%3Cpath d='M3.5 6l4.5 4.5L12.5 6' fill='none' stroke='%23004a7f' stroke-width='2' stroke-linecap='round' stroke-linejoin='round'/%3E%3C/svg%3E") no-repeat right .85rem center/16px 16px;border:1px solid #9fb3c8;border-radius:8px;-webkit-appearance:none;appearance:none;cursor:pointer;text-overflow:ellipsis}
+  .prose-news :global(.tool-box select::-ms-expand){display:none}
+  .prose-news :global(.tool-box select:hover),.prose-news :global(.zip-finder input:hover){border-color:var(--focus)}
+  .prose-news :global(.tool-box select:focus-visible),.prose-news :global(.zip-finder input:focus-visible),.prose-news :global(.zip-finder button:focus-visible){outline:3px solid #f5cc3e;outline-offset:2px;border-color:var(--focus)}
+  .prose-news :global(.tool-box [hidden]){display:none}
+  .prose-news :global(.tool-title){font-weight:700;margin:0 0 .6rem;color:var(--ink-strong)}
+  .prose-news :global(.tool-out){display:block}
+  .prose-news :global(.tool-out p){margin:.45rem 0 0;padding:.6rem .8rem;font-size:1.02rem;line-height:1.5;background:#fff;border:1px solid var(--n-border);border-radius:8px}
+  .prose-news :global(.tool-out p:first-child){margin-top:0}
+  .prose-news :global(.tool-out table){width:100%;margin:.6rem 0 0;background:#fff}
+  .prose-news :global(.tool-out td:first-child){white-space:nowrap}
+  .prose-news :global(.days-live){font-size:1rem;font-weight:700;margin:0 0 .6rem;padding:.55rem .8rem;border-left:4px solid var(--focus);background:var(--n-brand-soft);border-radius:0 8px 8px 0}
+  /* tbody in the selector so highlights beat the zebra stripe on even rows. */
+  .prose-news :global(tbody tr.is-next td){background:#fff7d6;font-weight:700}
+  .prose-news :global(tbody tr.is-past td){color:#6b7280}
   .article :global(section h2),.article :global(aside h2){font-family:Sora,"Sora Fallback",sans-serif;color:var(--ink-strong)}
   .article :global(section){margin:2rem 0}
   .progress{position:fixed;left:0;right:0;top:0;height:4px;z-index:70;pointer-events:none}

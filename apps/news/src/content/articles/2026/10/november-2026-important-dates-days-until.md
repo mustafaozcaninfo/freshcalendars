@@ -117,6 +117,8 @@ A federal holiday does not close every business or school. Banks, stores, transi
 
 ## November 2026 important dates
 
+<p class="days-live" data-days-until="2026" hidden></p>
+
 | Date | Day | What happens | Days from Oct. 21 |
 |---|---|---|---|
 | Nov. 1 | Sunday | Daylight saving time ends at 2 a.m.; All Saints' Day | 11 |

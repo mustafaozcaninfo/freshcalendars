@@ -73,6 +73,11 @@ Between Oct. 25 and Nov. 1, Europe is on winter time while North America is stil
 | Paris or Berlin to New York | 6 hours | 5 hours |
 | Paris or Berlin to Los Angeles | 9 hours | 8 hours |
 
+<figure class="tool-box" data-tz-gap data-from="2026-10-23" data-to="2026-11-02" hidden>
+<p class="tool-title">London and New York, day by day</p>
+<output class="tool-out"></output>
+</figure>
+
 A 9:00 a.m. call in New York during that week is 1:00 p.m. in London, not 2:00 p.m. The normal gap returns at 2:00 a.m. on Sunday, Nov. 1, when U.S. clocks go back.
 
 ## Who is affected
