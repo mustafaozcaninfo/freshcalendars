@@ -1,11 +1,11 @@
 ---
 name: news-article
-description: Write, update or publish-prepare a Fresh Calendars /news/ story (Astro, apps/news) from research to pull request. Use whenever someone asks for a news article, story, explainer, puzzle hints page, store hours list, holiday or date story, or an update to an existing /news/ story.
+description: Write, update or publish-prepare a Fresh Calendars /news/ story (Astro, apps/news) from research to a pushed commit on main. Use whenever someone asks for a news article, story, explainer, puzzle hints page, store hours list, holiday or date story, or an update to an existing /news/ story.
 ---
 
 # Writing a /news/ story
 
-Read `CLAUDE.md` first; its content rules apply to every step. The finished work is a branch with a pull request, not a deploy.
+Read `CLAUDE.md` first; its content rules apply to every step. The finished work is a commit pushed to `main`, not a deploy; the owner publishes it.
 
 ## 1. Decide: new story or update
 
@@ -105,14 +105,13 @@ All must pass, including `10-PDF-FILES`, `10-PDF-PROPERTIES` and `10-PDF-LINK-CA
 
 Fix failures at the source (shorten the title, expand the abbreviation, correct the link); never weaken a check to make it pass.
 
-## 6. Pull request
+## 6. Commit and push
 
 ```bash
-git switch -c news/<slug>
+git pull origin main
 git add apps/news/src/content/articles/YYYY/MM/<slug>.md apps/news/src/assets/news/<slug>/ <generator and download files you added>
 git commit -m "feat(news): <what the story covers>"
-git push -u origin news/<slug>
-gh pr create --fill
+git push origin main
 ```
 
-In the PR description list: the query you target, the main sources, and anything not yet confirmed that should be updated later (with the date to recheck). Do not deploy; the editor merges and publishes.
+Writers push stories straight to `main` once every check passes. In the commit message list the main sources and anything not yet confirmed that should be rechecked (with the date). Then tell the owner the story is pushed; the owner deploys it. Never deploy, never force-push.

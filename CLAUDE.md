@@ -9,13 +9,15 @@ Shared header, footer and site CSS live in `packages/site-chrome/src/index.ts`. 
 
 ## Team workflow (read this first)
 
-Several teams write /news/ stories from their own Claude accounts. Everyone works through GitHub pull requests:
+Writers (editors) produce /news/ stories from their own Claude sessions and have full write access to this repository. Publishing is separate: only the site owner deploys.
 
-1. Start from an up-to-date `main` and create a branch `news/<slug>` (one story or one batch per branch).
-2. Write the story with the `news-article` skill (`.claude/skills/news-article/SKILL.md`). It has the full checklist.
-3. Run the checks below locally. All must pass.
-4. Commit only the files of your story, push your branch and open a pull request. CI repeats the checks.
-5. The editor reviews, merges and publishes. **Never push to `main`, never run `pnpm news:deploy` or `pnpm fc deploy`, and never ask for `.env`.** Deploys need server and Cloudflare credentials that only the editor holds.
+1. Start from an up-to-date `main` (`git pull origin main`).
+2. Write the story with the `news-article` skill (`.claude/skills/news-article/SKILL.md`). It has the full checklist, including the source and PDF rules.
+3. Run the checks below locally. All must pass, with no warnings left unexplained.
+4. Commit only the files of your story (and any shared file you deliberately changed) with a clear message, then push straight to `main`. CI repeats the checks on every push; if it fails, fix it with a new commit right away.
+5. Tell the owner the story is pushed. The owner pulls and deploys. **Never run `pnpm news:deploy` or `pnpm fc deploy`, never force-push or rewrite `main`'s history, and never ask for `.env`.** Deploys need server and Cloudflare credentials that only the owner holds.
+
+A branch and pull request are still welcome for large or risky changes (shared components, scripts, `site-chrome`); stories can go straight to `main`.
 
 ## Commands
 
@@ -65,8 +67,10 @@ Do not run Lighthouse (`news:lighthouse`, `smoke:lighthouse`). The goal is fast,
 | `apps/news/public/downloads/<group>/` | printable PDFs and PNGs |
 | `packages/generator/src/*.ts` + `cli.ts` (`news-*` commands) | scripts that draw heroes and printables with Playwright |
 | `docs/NEWS-ROADMAP.md`, `docs/NEWS-SEO-COMPLIANCE.md` | design of /news/ and the SEO rule map |
+| `docs/YAYIN-REHBERI.md` | how the owner deploys (writers do not deploy) |
+| `SEO-HARITASI-TAM.md` | the SEO playbook the audit cites |
 | `scripts/news-*.mjs` | build gates and the publish script |
 
 ## Code style
 
-Match the surrounding code: TypeScript, two-space indent, short doc comments that explain why. Keep changes scoped to your story; shared components (`apps/news/src/components`, `site-chrome`) change only in a separate pull request.
+Match the surrounding code: TypeScript, two-space indent, short doc comments that explain why. Keep changes scoped to your story; shared components (`apps/news/src/components`, `site-chrome`) change in their own commit, preferably through a branch and pull request.
