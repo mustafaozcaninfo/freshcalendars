@@ -168,7 +168,7 @@ Each state's election office runs a voter lookup. In 18 states and Washington, D
 | Iowa | [Iowa Voter Information](https://sos.iowa.gov/elections/voterreg/voterinformation.aspx) | County or local office |
 | Kansas | [Kansas VoterView](https://myvoteinfo.voteks.org/voterview) | County or local office |
 | Kentucky | [GoVoteKY](https://govoteky.com/) | County or local office |
-| Louisiana | [Louisiana Voter Portal (GeauxVote)](https://voterportal.sos.la.gov/) | State portal |
+| Louisiana | [Louisiana Voter Portal (GeauxVote)](https://voterportal.sos.la.gov/); races in our [Louisiana sample ballot guide](/news/louisiana-sample-ballot-2026-senate-amendments/) | State portal |
 | Maine | [Maine Elections: Information About Voting](https://www.maine.gov/sos/elections-voting/information-about-voting) | County or local office |
 | Maryland | [Maryland Voter Lookup](https://voterservices.elections.maryland.gov/votersearch) | State portal |
 | Massachusetts | [Massachusetts Voter Registration Status](https://www.sec.state.ma.us/VoterRegistrationSearch/MyVoterRegStatus.aspx) | County or local office |
@@ -180,12 +180,12 @@ Each state's election office runs a voter lookup. In 18 states and Washington, D
 | Nebraska | [Nebraska VoterCheck](https://www.votercheck.necvr.ne.gov/voterview) | County or local office |
 | Nevada | [Nevada Voter Search](https://www.nvsos.gov/votersearch/) | State portal and counties |
 | New Hampshire | [New Hampshire Voter Information Lookup](https://app.sos.nh.gov/voterinformation) | County or local office |
-| New Jersey | [New Jersey Voter Registration Check](https://voter.svrs.nj.gov/registration-check) | County or local office |
+| New Jersey | [New Jersey Voter Registration Check](https://voter.svrs.nj.gov/registration-check); races in our [New Jersey sample ballot guide](/news/new-jersey-sample-ballot-2026-senate-early-voting/) | County or local office |
 | New Mexico | [New Mexico Voter Portal](https://voterportal.servis.sos.state.nm.us/WhereToVote.aspx) | State portal |
 | New York | [New York Voter Lookup](https://voterlookup.elections.ny.gov/); races in our [New York ballot guide](/news/new-york-ballot-2026-sample-ballot-governor-nyc-proposals/) | County or local office |
-| North Carolina | [North Carolina Voter Search](https://vt.ncsbe.gov/RegLkup/) | State portal |
+| North Carolina | [North Carolina Voter Search](https://vt.ncsbe.gov/RegLkup/); races in our [North Carolina sample ballot guide](/news/north-carolina-sample-ballot-2026-senate-amendments/) | State portal |
 | North Dakota | [North Dakota Where to Vote](https://vip.sos.nd.gov/WhereToVote.aspx) | County or local office |
-| Ohio | [Ohio Voter Lookup](https://voterlookup.ohiosos.gov/voterlookup.aspx) | County or local office |
+| Ohio | [Ohio Voter Lookup](https://voterlookup.ohiosos.gov/voterlookup.aspx); races in our [Ohio sample ballot guide](/news/ohio-sample-ballot-2026-governor-senate-issue-3/) | County or local office |
 | Oklahoma | [Oklahoma Voter Portal](https://oklahoma.gov/elections/ovp.html) | State portal |
 | Oregon | [Oregon My Vote](https://secure.sos.state.or.us/orestar/vr/showVoterSearch.do) | County or local office |
 | Pennsylvania | [Pennsylvania Voter Registration Status](https://www.pavoterservices.pa.gov/pages/voterregistrationstatus.aspx) | County or local office |
@@ -245,7 +245,7 @@ Our [voter registration deadline report](/news/voter-registration-deadline-octob
 
 ## State ballot guides
 
-For Texas candidates, see our [Texas ballot guide](/news/texas-ballot-2026-candidates-senate-governor-statewide-races/). For what is on the ballot in other large states, with free printable checklists, see our guides to [California's 14 propositions](/news/california-propositions-2026-november-ballot-explained/), [Florida's amendments and Senate special](/news/florida-amendments-2026-ballot-senate-special-election/), [Georgia](/news/georgia-2026-ballot-amendments-advance-voting/), [Michigan](/news/michigan-ballot-2026-proposals-candidates/), [New York](/news/new-york-ballot-2026-sample-ballot-governor-nyc-proposals/), [Pennsylvania](/news/pennsylvania-2026-election-governor-mail-ballot-deadlines/) and [Arizona's eight propositions](/news/arizona-propositions-2026-ballot-explained/). For every state, check [poll closing times](/news/what-time-do-polls-close-election-day-2026/) and [mail ballot deadlines](/news/mail-ballot-deadlines-2026-by-state/), see [whether Election Day is a holiday](/news/is-election-day-a-holiday-2026-whats-open/) where you work, and follow the results with our [2026 midterm tracker](/news/2026-midterm-elections-whats-on-the-ballot-results-tracker/).
+For Texas candidates, see our [Texas ballot guide](/news/texas-ballot-2026-candidates-senate-governor-statewide-races/). For what is on the ballot in other large states, with free printable checklists, see our guides to [California's 14 propositions](/news/california-propositions-2026-november-ballot-explained/), [Florida's amendments and Senate special](/news/florida-amendments-2026-ballot-senate-special-election/), [Georgia](/news/georgia-2026-ballot-amendments-advance-voting/), [Michigan](/news/michigan-ballot-2026-proposals-candidates/), [New York](/news/new-york-ballot-2026-sample-ballot-governor-nyc-proposals/), [New Jersey](/news/new-jersey-sample-ballot-2026-senate-early-voting/), [North Carolina](/news/north-carolina-sample-ballot-2026-senate-amendments/), [Ohio](/news/ohio-sample-ballot-2026-governor-senate-issue-3/), [Louisiana](/news/louisiana-sample-ballot-2026-senate-amendments/), [Pennsylvania](/news/pennsylvania-2026-election-governor-mail-ballot-deadlines/) and [Arizona's eight propositions](/news/arizona-propositions-2026-ballot-explained/). For every state, check [poll closing times](/news/what-time-do-polls-close-election-day-2026/) and [mail ballot deadlines](/news/mail-ballot-deadlines-2026-by-state/), see [whether Election Day is a holiday](/news/is-election-day-a-holiday-2026-whats-open/) where you work, and follow the results with our [2026 midterm tracker](/news/2026-midterm-elections-whats-on-the-ballot-results-tracker/).
 
 ## Key dates
 
