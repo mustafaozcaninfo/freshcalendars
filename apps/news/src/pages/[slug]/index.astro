@@ -22,7 +22,10 @@ import StoryNav from "../../components/StoryNav.astro";
 import { authorHref, getPublishedArticles, lastModified, type Article } from "../../lib/articles";
 import { heroImages } from "../../lib/images";
 import { SITE_ORIGIN, absNewsUrl } from "../../lib/site";
-import { pickRelated } from "../../lib/related";
+import { relatedFor, topicsOf } from "../../lib/storygraph";
+import { topicPath } from "../../lib/topics";
+import { upcomingFor } from "../../lib/keydates";
+import KeyDates from "../../components/KeyDates.astro";
 import {
   articleGraph,
   articleHeadTags,
@@ -93,11 +96,9 @@ const seo: ArticleSeo = {
   downloads: d.downloads.map((x) => ({ name: x.title, description: x.description, pdf: `${SITE_ORIGIN}${x.pdf}`, png: `${SITE_ORIGIN}${x.png}` })),
 };
 
-const related = pickRelated(
-  { id: article.id, category: category.id, keywords: d.keywords, publishedAt: d.publishedAt },
-  all.map((a) => ({ id: a.id, category: a.data.category.id, keywords: a.data.keywords, publishedAt: a.data.publishedAt, a })),
-  d.related.map((r) => r.id),
-).map(({ a }) => ({
+// Related: the writer's picks first, then the most similar stories (lib/similarity.ts, lib/storygraph.ts).
+const byId = new Map(all.map((a) => [a.id, a]));
+const related = relatedFor(all, article.id, d.related.map((r) => r.id)).map((id) => byId.get(id)!).map((a) => ({
   href: articlePath(a.id),
   title: a.data.title,
   image: a.data.hero.src,
@@ -113,6 +114,9 @@ const more = all.filter((a) => a.id !== article.id && a.data.category.id === cat
 const pos = all.findIndex((a) => a.id === article.id);
 const newer = pos > 0 ? linkOf(all[pos - 1]!) : undefined;
 const older = pos >= 0 && pos < all.length - 1 ? linkOf(all[pos + 1]!) : undefined;
+// Running topics this story belongs to (hub links) and its own upcoming dates (add to calendar).
+const topics = d.noindex ? [] : topicsOf(all, article.id);
+const keyDates = upcomingFor(new Set([article.id]));
 ---
 <NewsBase
   title={pageTitle(d)}
@@ -146,6 +150,7 @@ const older = pos >= 0 && pos < all.length - 1 ? linkOf(all[pos + 1]!) : undefin
     <Hero src={d.hero.src} alt={d.hero.alt} title={d.hero.title ?? d.title} caption={d.hero.caption} credit={d.hero.credit} license={d.hero.license} />
     <AdSlot unit={6} variant="top" />
     <KeyPoints points={d.summary} />
+    <KeyDates dates={keyDates} heading={keyDates.length === 1 ? "Key date" : "Key dates"} ics={`${articlePath(article.id)}dates.ics`} />
     {d.downloads.length > 0 && <p class="jump"><a href="#downloads">{d.downloads.length} free printable{d.downloads.length === 1 ? "" : "s"} below ↓</a></p>}
     <Toc headings={headings} />
     <div class="prose-news">
@@ -165,6 +170,12 @@ const older = pos >= 0 && pos < all.length - 1 ? linkOf(all[pos + 1]!) : undefin
     {authors.map((a) => (
       <AuthorCard name={a.data.name} role={a.data.role} bio={a.data.bio} href={authorPath(a.id)} />
     ))}
+    {topics.length > 0 && (
+      <nav class="topic-links" aria-label="Topics">
+        <span>Follow the story</span>
+        {topics.map((t) => <a href={topicPath(t.slug)}>All {t.name} stories →</a>)}
+      </nav>
+    )}
     <RelatedGrid items={related} />
     <StoryNav section={{ name: category.data.name, href: categoryPath(category.id) }} more={more} newer={newer} older={older} />
     {!longStory && <AdSlot unit={5} />}
@@ -359,6 +370,9 @@ const older = pos >= 0 && pos < all.length - 1 ? linkOf(all[pos + 1]!) : undefin
   .article .kicker{margin:0 0 .6rem}
   .article .kicker a{display:inline-block;padding:.18rem .65rem;border-radius:999px;background:color-mix(in srgb,var(--cat) 10%,#fff);color:var(--cat)!important;font-size:.75rem;font-weight:800;text-transform:uppercase;letter-spacing:.07em;text-decoration:none}
   .article .news-lede{margin-bottom:1rem}
+  .topic-links{display:flex;flex-wrap:wrap;align-items:center;gap:.25rem 1rem;margin:2rem 0 0;padding:.85rem 1rem;border-left:4px solid var(--gold);background:#fffdf3;border-radius:0 8px 8px 0}
+  .topic-links span{flex-basis:100%;font-size:.75rem;font-weight:700;text-transform:uppercase;letter-spacing:.08em;color:var(--ink)}
+  .topic-links a{display:inline-flex;align-items:center;min-height:44px;font-weight:700}
   .jump{margin:-.5rem 0 1.25rem;font-weight:700}
   .jump a{display:inline-flex;align-items:center;min-height:44px}
   .prose-news{font-family:"Source Sans 3","Source Sans 3 Fallback",ui-sans-serif,system-ui,sans-serif;font-size:1.125rem;line-height:1.7;color:var(--ink-strong)}

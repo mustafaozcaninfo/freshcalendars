@@ -12,6 +12,7 @@ import { ROBOTS_INDEX, jsonLdString, type HeadTag } from "../lib/seo";
 import { ADS_ENABLED, ADS_LOADER_JS, AD_ORIGINS } from "../lib/ads";
 import { GA_ENABLED, GA_JS, GA_ORIGINS } from "../lib/analytics";
 import { SEARCH_JS } from "../lib/search-client";
+import { DAYS_JS } from "../lib/keydates";
 import NewsBar from "../components/NewsBar.astro";
 
 interface Props {
@@ -98,7 +99,7 @@ const fontPreload = [
 <slot />
 </main>
 <Fragment set:html={siteFooterHtml(today, { news: true })} />
-<script is:inline set:html={NAV_JS + (GA_ENABLED ? GA_JS : "") + (withAds ? ADS_LOADER_JS : "") + SEARCH_JS} />
+<script is:inline set:html={NAV_JS + (GA_ENABLED ? GA_JS : "") + (withAds ? ADS_LOADER_JS : "") + SEARCH_JS + DAYS_JS} />
 </body>
 </html>
 

@@ -15,6 +15,8 @@ import type { Article, Category } from "../lib/articles";
 import { authorHref, categoryHref } from "../lib/articles";
 import { pagedTitle, type Page } from "../lib/listing";
 import { upcoming } from "../lib/keydates";
+import { liveTopics } from "../lib/storygraph";
+import { topicPath } from "../lib/topics";
 import { allPrintables, PRINTABLES_PATH } from "../lib/printables";
 import { articlePath, formatDateET, isoDateTime, listingGraph } from "../lib/seo";
 
@@ -32,6 +34,7 @@ const { page, all, heading, intro, description, categories, categoryNames, autho
 const [lead, ...others] = page.items;
 const latest = others.slice(0, 4);
 const dates = upcoming(new Set(all.map((a) => a.id)), 6);
+const topics = liveTopics(all).map(({ topic, items }) => ({ ...topic, count: items.length }));
 const printables = allPrintables(all);
 const strip = printables.slice(0, 6);
 const sections = categories
@@ -91,12 +94,19 @@ const jsonLd = listingGraph({
               <a href={articlePath(k.slug)}>
                 <span class="date"><b>{monthDay(k.date)}</b>{weekday(k.date)}</span>
                 <span class="what">{k.label}</span>
-                <span class="in" data-date={k.date}>{inDays(k.days)}</span>
+                <span class="in" data-days-until={k.date}>{inDays(k.days)}</span>
               </a>
             </li>
           ))}
         </ol>
       </section>
+    )}
+
+    {topics.length > 0 && (
+      <nav class="topic-nav" aria-labelledby="tp-title">
+        <h2 class="sec" id="tp-title">Follow a topic</h2>
+        <ul>{topics.map((t) => <li><a href={topicPath(t.slug)}><b>{t.name}</b><span>{t.count} stories</span></a></li>)}</ul>
+      </nav>
     )}
 
     <AdSlot unit={1} />
@@ -141,16 +151,6 @@ const jsonLd = listingGraph({
     </section>
     <AdSlot unit={5} />
   </div>
-  <script is:inline>
-    (() => {
-      // Cached copies: recompute "in N days" from today's date in New York.
-      const today = new Intl.DateTimeFormat("en-CA", { timeZone: "America/New_York" }).format(new Date());
-      for (const el of document.querySelectorAll(".upcoming [data-date]")) {
-        const n = Math.round((Date.parse(el.dataset.date) - Date.parse(today)) / 864e5);
-        if (n < 0) el.closest("li").remove(); else el.textContent = n === 0 ? "Today" : n === 1 ? "Tomorrow" : "In " + n + " days";
-      }
-    })();
-  </script>
 </NewsBase>
 <style>
   .home{width:min(1120px,calc(100% - 2rem));margin:0 auto;padding:clamp(1.5rem,4vw,2.5rem) 0}
@@ -180,6 +180,12 @@ const jsonLd = listingGraph({
   .latest h3 a:hover,.latest h3 a:focus-visible{text-decoration:underline}
   .latest time,.all time{font-size:.82rem;color:var(--ink)}
 
+  .topic-nav{margin:0 0 2.25rem}
+  .topic-nav ul{list-style:none;margin:0;padding:0;display:grid;gap:.6rem;grid-template-columns:repeat(auto-fill,minmax(210px,1fr))}
+  .topic-nav a{display:grid;gap:.1rem;min-height:56px;padding:.65rem .85rem;border:1px solid var(--line);border-left:4px solid var(--gold);border-radius:6px;text-decoration:none;color:var(--ink-strong);background:#fff}
+  .topic-nav a:hover,.topic-nav a:focus-visible{border-color:var(--focus)}
+  .topic-nav b{font-family:Sora,"Sora Fallback",sans-serif;font-size:.95rem;line-height:1.25}
+  .topic-nav span{font-size:.82rem;color:var(--ink)}
   .upcoming{margin:0 0 2.25rem;padding:1.1rem 1.1rem .4rem;background:#f3f8fc;border:1px solid #d6e6f3;border-radius:8px}
   .upcoming ol{list-style:none;margin:0;padding:0;display:grid;gap:.6rem}
   .upcoming a{display:grid;grid-template-columns:4.2rem 1fr auto;gap:.85rem;align-items:center;padding:.6rem .7rem;background:#fff;border:1px solid #d6e6f3;border-radius:6px;text-decoration:none;color:var(--ink-strong);min-height:56px}

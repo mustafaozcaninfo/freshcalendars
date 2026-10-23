@@ -59,7 +59,8 @@ for p in "${CHANGES[@]}"; do
     */index.html)
       u="$ORIGIN/news/${p%index.html}"
       URLS+=("$u")
-      if [[ "$p" =~ ^[^/]+/index\.html$ && ! "$p" =~ ^(category|author|page)/ ]]; then ARTICLE_URLS+=("$u"); fi
+      # Stories and topic hubs go to IndexNow; category, author and paged lists wait for the crawl.
+      if [[ ( "$p" =~ ^[^/]+/index\.html$ && ! "$p" =~ ^(category|author|page)/ ) || "$p" =~ ^topic/[^/]+/index\.html$ ]]; then ARTICLE_URLS+=("$u"); fi
       ;;
     *) URLS+=("$ORIGIN/news/$p") ;;
   esac

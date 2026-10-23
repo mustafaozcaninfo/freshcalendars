@@ -1,0 +1,58 @@
+---
+/**
+ * Topic hub: every story on one running subject across categories, newest first, with the
+ * topic's upcoming key dates (add to calendar) and its pillar story as "Start here".
+ * CollectionPage + ItemList JSON-LD via ListingView.
+ */
+import ListingView from "../../../components/ListingView.astro";
+import KeyDates from "../../../components/KeyDates.astro";
+import { getCategoryNames, getPublishedArticles, type Article } from "../../../lib/articles";
+import { upcomingFor } from "../../../lib/keydates";
+import { articlePath } from "../../../lib/seo";
+import { centralId } from "../../../lib/similarity";
+import { liveTopics, storyIndex } from "../../../lib/storygraph";
+import { startId, topicPath, type Topic } from "../../../lib/topics";
+
+export async function getStaticPaths() {
+  const all = await getPublishedArticles();
+  return liveTopics(all).map(({ topic, items }) => ({ params: { topic: topic.slug }, props: { topic, items, all } }));
+}
+interface Props { topic: Topic; items: Article[]; all: Article[] }
+const { topic, items, all } = Astro.props;
+const path = topicPath(topic.slug);
+const ix = storyIndex(all);
+const startSlug = startId(topic, items.map((a) => ({ id: a.id, title: a.data.title, keywords: a.data.keywords })), (ids) => centralId(ix, ids));
+const start = items.find((a) => a.id === startSlug);
+const dates = upcomingFor(new Set(items.map((a) => a.id)));
+const others = liveTopics(all).map((t) => t.topic).filter((t) => t.slug !== topic.slug);
+const page = { items, page: 1, totalPages: 1, path };
+---
+<ListingView
+  page={page}
+  heading={`${topic.name}: All Stories and Key Dates`}
+  intro={topic.description}
+  description={topic.description}
+  trail={[{ name: "News", path: "/news/" }, { name: topic.name, path }]}
+  kind="CollectionPage"
+  categoryNames={await getCategoryNames()}
+  about={`${items.length} stories. A story joins this page when it covers ${topic.name}; the newest is first. Other topics: ${others.map((t) => t.name).join(", ")}.`}
+>
+  {start && (
+    <p class="start"><span>Start here</span><a href={articlePath(start.id)}>{start.data.title}</a></p>
+  )}
+  <KeyDates dates={dates.slice(0, 8)} heading={`Coming up in ${topic.name}`} ics={`${path}dates.ics`} linkStories />
+  {others.length > 0 && (
+    <nav class="topics" aria-label="Other topics">
+      {others.map((t) => <a href={topicPath(t.slug)}>{t.name}</a>)}
+    </nav>
+  )}
+</ListingView>
+<style>
+  .start{display:grid;gap:.2rem;margin:0 0 1rem;padding:.85rem 1rem;border-left:4px solid var(--gold);background:#fffdf3;border-radius:0 8px 8px 0}
+  .start span{font-size:.75rem;font-weight:700;text-transform:uppercase;letter-spacing:.08em;color:var(--ink)}
+  .start a{font-family:Sora,"Sora Fallback",sans-serif;font-weight:700;line-height:1.3;color:var(--ink-strong);text-decoration:none}
+  .start a:hover,.start a:focus-visible{text-decoration:underline}
+  .topics{display:flex;flex-wrap:wrap;gap:.5rem;margin:0 0 1.25rem}
+  .topics a{display:inline-flex;align-items:center;min-height:44px;padding:0 .9rem;border:1px solid var(--line);border-radius:4px;color:var(--ink-strong);text-decoration:none;font-weight:700;font-size:.9rem}
+  .topics a:hover,.topics a:focus-visible{border-color:var(--focus);color:var(--focus)}
+</style>
