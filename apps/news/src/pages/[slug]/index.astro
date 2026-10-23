@@ -322,6 +322,35 @@ const older = pos >= 0 && pos < all.length - 1 ? linkOf(all[pos + 1]!) : undefin
         tg.querySelector(".tool-out").innerHTML = "<p>Right now London is <b>" + gap(new Date()) + " hours</b> ahead of New York.</p><table><thead><tr><th>Date</th><th>London ahead</th><th>9 a.m. New York</th></tr></thead><tbody>" + rows.join("") + "</tbody></table>";
         show(tg);
       }
+
+      // Launch clock: a live countdown to one of the moments listed in data-targets ("label|ISO instant;...",
+      // facts copied from the story's sources). An entry with no instant means local midnight on data-local
+      // (an assumption, labeled as one). Shows the target in the reader's own time zone. Stops at zero.
+      const lc = document.querySelector("[data-launch-clock]");
+      if (lc) {
+        const sel = lc.querySelector("select"), out = lc.querySelector(".tool-out");
+        const items = lc.dataset.targets.split(";").map((s) => s.split("|"));
+        const at = ([, iso]) => (iso ? new Date(iso) : new Date(+lc.dataset.local.slice(0, 4), +lc.dataset.local.slice(5, 7) - 1, +lc.dataset.local.slice(8, 10)));
+        items.forEach(([label], i) => sel.add(new Option(label, String(i))));
+        const own = new Intl.DateTimeFormat("en-US", { weekday: "long", month: "long", day: "numeric", hour: "numeric", minute: "2-digit", timeZoneName: "short" });
+        const digits = Object.assign(document.createElement("p"), { className: "lc-digits" });
+        digits.setAttribute("role", "timer");
+        const when = document.createElement("p");
+        out.replaceChildren(digits, when);
+        let timer;
+        const tick = () => {
+          const ms = at(items[+sel.value]) - Date.now();
+          if (ms <= 0) { digits.textContent = lc.dataset.done; digits.classList.add("lc-done"); clearInterval(timer); return; }
+          const s = Math.floor(ms / 1e3), cell = (n, u) => "<span><b>" + String(n).padStart(2, "0") + "</b>" + u + "</span>";
+          digits.innerHTML = cell(Math.floor(s / 86400), "days") + cell(Math.floor(s / 3600) % 24, "hours") + cell(Math.floor(s / 60) % 60, "minutes") + cell(s % 60, "seconds");
+        };
+        const run = () => {
+          digits.classList.remove("lc-done"); clearInterval(timer);
+          when.textContent = "That moment is " + own.format(at(items[+sel.value])) + " in your time zone.";
+          tick(); timer = setInterval(tick, 1000);
+        };
+        sel.addEventListener("change", run); run(); show(lc);
+      }
     })();
   </script>
 </NewsBase>
@@ -378,6 +407,11 @@ const older = pos >= 0 && pos < all.length - 1 ? linkOf(all[pos + 1]!) : undefin
   .prose-news :global(.tool-out table){width:100%;margin:.6rem 0 0;background:#fff}
   .prose-news :global(.tool-out td:first-child){white-space:nowrap}
   .prose-news :global(.days-live){font-size:1rem;font-weight:700;margin:0 0 .6rem;padding:.55rem .8rem;border-left:4px solid var(--focus);background:var(--n-brand-soft);border-radius:0 8px 8px 0}
+  /* Launch clock digits: fixed-width figures so the numbers do not shift as they tick. */
+  .prose-news :global(.tool-out .lc-digits){display:flex;flex-wrap:wrap;gap:.5rem;padding:.7rem .8rem;font-variant-numeric:tabular-nums}
+  .prose-news :global(.lc-digits span){flex:1 1 4.5rem;display:flex;flex-direction:column;align-items:center;padding:.4rem .2rem;border-radius:8px;background:var(--n-brand-soft);font-size:.8rem;font-weight:700;text-transform:uppercase;letter-spacing:.06em;color:var(--ink-strong)}
+  .prose-news :global(.lc-digits b){font-family:Sora,"Sora Fallback",sans-serif;font-size:clamp(1.7rem,7vw,2.5rem);line-height:1.1;letter-spacing:0;text-transform:none}
+  .prose-news :global(.lc-digits.lc-done){display:block;font-weight:800;font-size:1.2rem}
   /* tbody in the selector so highlights beat the zebra stripe on even rows. */
   .prose-news :global(tbody tr.is-next td){background:#fff7d6;font-weight:700}
   .prose-news :global(tbody tr.is-past td){color:#6b7280}
