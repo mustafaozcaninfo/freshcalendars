@@ -213,14 +213,14 @@ check("09-VISIBLE-BYLINE-DATE", "Visible byline and publication date sit apart f
   each(articleUrls, (u, h) => (/<p class="byline"/.test(h) && /<p class="dates"[\s\S]*?<time datetime=/.test(h) ? null : "byline/date block missing")));
 
 // ── 03 Scaled content / velocity ───────────────────────────────────────────
-check("03-VELOCITY", "No mass publishing: at most 100 stories in any 7 days, far below 1,000 URLs/7 days; batch by QA capacity (§03 l.758, l.833)", () => {
+check("03-VELOCITY", "No mass publishing: at most 150 stories in any 7 days (raised from 100 by owner 2026-10-23), far below 1,000 URLs/7 days; batch by QA capacity (§03 l.758, l.833)", () => {
   // Velocity is a rate: count stories by datePublished in every rolling 7-day window.
   const days = articleUrls
     .map((u) => nodes(html[u]).find((n) => /NewsArticle$/.test(n["@type"]))?.datePublished)
     .filter(Boolean).map((d) => Date.parse(d)).sort((a, b) => a - b);
   let worst = 0;
   for (let i = 0, j = 0; i < days.length; i++) { while (days[i] - days[j] > 7 * 864e5) j++; worst = Math.max(worst, i - j + 1); }
-  return worst <= 100 ? [] : [`${worst} stories published within 7 days`];
+  return worst <= 150 ? [] : [`${worst} stories published within 7 days`];
 });
 check("03-UNIQUE-TITLES", "Unique <title> and meta description per page (no templated duplicates) (§03 risks)", () => {
   const seen = {}; const dup = [];
