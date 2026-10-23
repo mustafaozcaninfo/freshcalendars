@@ -6,7 +6,7 @@ type: news
 publishedAt: "2026-10-18T08:30:00-04:00"
 updatedAt: "2026-10-22T03:00:00-04:00"
 authors: [news-desk]
-category: planning
+category: elections
 keywords: ["voter registration deadline October 19 2026", "register to vote Pennsylvania deadline", "California voter registration deadline 2026", "Texas early voting 2026", "Election Day November 3 2026"]
 dateline: "New York"
 hero:

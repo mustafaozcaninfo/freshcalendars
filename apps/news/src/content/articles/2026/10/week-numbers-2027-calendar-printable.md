@@ -5,7 +5,7 @@ description: "Week 1 of 2027 starts Monday, Jan. 4 under the international stand
 type: explainer
 publishedAt: "2026-10-18T11:40:00-04:00"
 authors: [news-desk]
-category: planning
+category: calendar-guides
 keywords: ["week numbers 2027", "2027 calendar with week numbers", "what week is it", "ISO week number 2027", "how many weeks in 2027"]
 dateline: "New York"
 hero:

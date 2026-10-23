@@ -5,7 +5,7 @@ description: "The Nov. 3, 2026 midterms decide 35 Senate seats, all 435 House se
 type: explainer
 publishedAt: "2026-10-20T11:00:00-04:00"
 authors: [news-desk]
-category: planning
+category: elections
 keywords: ["2026 midterm elections", "senate seats up in 2026", "governor races 2026", "midterm election 2026 date", "election night tracker printable"]
 dateline: "Washington"
 hero:

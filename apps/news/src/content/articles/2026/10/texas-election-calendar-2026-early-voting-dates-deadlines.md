@@ -6,7 +6,7 @@ type: news
 publishedAt: "2026-10-21T15:30:00-04:00"
 updatedAt: "2026-10-21T17:16:00-04:00"
 authors: [news-desk]
-category: planning
+category: elections
 keywords: ["Texas election calendar 2026", "Texas early voting dates 2026", "Texas election schedule 2026", "Texas mail ballot deadline 2026", "Texas primary runoff 2026 date"]
 dateline: "Austin, Texas"
 hero:

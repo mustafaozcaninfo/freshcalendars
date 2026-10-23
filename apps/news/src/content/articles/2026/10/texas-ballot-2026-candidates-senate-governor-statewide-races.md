@@ -5,7 +5,7 @@ description: "Who is on the Texas ballot on Nov. 3, 2026: U.S. Senate, governor,
 type: explainer
 publishedAt: "2026-10-21T11:58:00-04:00"
 authors: [news-desk]
-category: planning
+category: elections
 keywords: ["Texas ballot 2026", "Texas candidates 2026", "Texas governor race 2026 candidates", "Texas Senate race 2026 candidates", "Texas propositions 2026"]
 dateline: "Austin, Texas"
 hero:

@@ -51,6 +51,7 @@ const ARTICLES = path.join(ROOT, "apps/news/src/content/articles");
 const CATEGORY_COLOR: Record<string, string> = {
   holidays: "#b45309", planning: "#1e3a8a", "retail-dates": "#be123c", "school-calendars": "#0f766e",
   "sky-events": "#1e1b4b", "time-change": "#6d28d9", "uk-canada": "#9f1239", puzzles: "#4c1d95",
+  elections: "#7f1d1d", "calendar-guides": "#155e75",
 };
 const DOW = ["SUNDAY", "MONDAY", "TUESDAY", "WEDNESDAY", "THURSDAY", "FRIDAY", "SATURDAY"];
 

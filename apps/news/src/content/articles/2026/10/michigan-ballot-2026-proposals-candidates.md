@@ -5,7 +5,7 @@ description: "Michigan's Nov. 3, 2026 ballot: a constitutional convention questi
 type: explainer
 publishedAt: "2026-10-20T11:15:00-04:00"
 authors: [news-desk]
-category: planning
+category: elections
 keywords: ["Michigan ballot 2026", "Michigan Proposal 1 2026", "Michigan Proposal 2 2026", "Michigan governor candidates 2026", "Michigan early voting 2026"]
 dateline: "Lansing, Mich."
 hero:

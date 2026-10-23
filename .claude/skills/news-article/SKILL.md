@@ -48,7 +48,7 @@ description: "<120-160 chars; renders as the lede; expand abbreviations: Eastern
 type: news            # news | explainer | analysis | update
 publishedAt: "2026-10-21T09:30:00-04:00"   # now or earlier, America/New_York
 authors: [news-desk]
-category: holidays    # holidays | planning | puzzles | retail-dates | school-calendars | sky-events | time-change | uk-canada
+category: holidays    # holidays | elections | calendar-guides | planning | puzzles | retail-dates | school-calendars | sky-events | time-change | uk-canada
 keywords: ["<main query>", "<variant>", "<variant>"]   # 1-5
 dateline: "New York"
 hero:

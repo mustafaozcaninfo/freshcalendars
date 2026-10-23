@@ -5,7 +5,7 @@ description: "Pennsylvania's Nov. 3, 2026 ballot is led by the governor's race. 
 type: explainer
 publishedAt: "2026-10-20T11:20:00-04:00"
 authors: [news-desk]
-category: planning
+category: elections
 keywords: ["Pennsylvania election 2026", "Pennsylvania mail ballot deadline 2026", "PA governor race 2026", "Pennsylvania sample ballot 2026", "Pennsylvania early voting 2026"]
 dateline: "Harrisburg, Pa."
 hero:

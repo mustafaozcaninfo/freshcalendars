@@ -11,7 +11,7 @@ interface Props { section?: string }
 const { section } = Astro.props;
 const cats = await getActiveCategories(await getPublishedArticles());
 // Short labels keep the bar on one line on desktop; category pages keep the full names.
-const SHORT: Record<string, string> = { "school-calendars": "Schools", "retail-dates": "Retail" };
+const SHORT: Record<string, string> = { "school-calendars": "Schools", "retail-dates": "Retail", "calendar-guides": "Calendars" };
 const links = [
   { id: "home", name: "Latest", href: "/news/" },
   ...cats.map((c) => ({ id: c.id, name: SHORT[c.id] ?? c.data.name, href: categoryHref(c.id) })),

@@ -6,7 +6,7 @@ type: news
 publishedAt: "2026-10-19T07:50:00-04:00"
 updatedAt: "2026-10-21T11:50:00-04:00"
 authors: [news-desk]
-category: planning
+category: elections
 keywords: ["sample ballot by zip code", "printable sample ballot 2026", "my sample ballot 2026", "sample ballot by address", "Texas sample ballot 2026"]
 dateline: "New York"
 hero:

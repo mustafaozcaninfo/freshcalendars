@@ -5,7 +5,7 @@ description: "New Jersey sample ballots for Nov. 3, 2026 come from your county c
 type: news
 publishedAt: "2026-10-22T14:13:00-04:00"
 authors: [news-desk]
-category: planning
+category: elections
 keywords: ["New Jersey sample ballot 2026", "NJ Senate race 2026", "New Jersey early voting 2026", "sample ballot by zip code NJ", "New Jersey vote by mail 2026"]
 dateline: "Trenton, N.J."
 assets:

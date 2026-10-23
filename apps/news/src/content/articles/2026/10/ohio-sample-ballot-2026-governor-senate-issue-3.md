@@ -5,7 +5,7 @@ description: "Find your Ohio sample ballot for Nov. 3, 2026 by county, with ever
 type: news
 publishedAt: "2026-10-22T14:13:00-04:00"
 authors: [news-desk]
-category: planning
+category: elections
 keywords: ["Ohio sample ballot 2026", "Ohio Issue 3 2026", "Ohio governor candidates 2026", "Ohio Senate race 2026", "sample ballot by zip code Ohio"]
 dateline: "Columbus, Ohio"
 assets:

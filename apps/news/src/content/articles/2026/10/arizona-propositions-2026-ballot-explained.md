@@ -5,7 +5,7 @@ description: "Arizona's Nov. 3, 2026 ballot has eight propositions, all referred
 type: explainer
 publishedAt: "2026-10-20T11:30:00-04:00"
 authors: [news-desk]
-category: planning
+category: elections
 keywords: ["Arizona propositions 2026", "Arizona ballot November 2026", "Prop 144 Arizona", "Arizona early voting 2026", "Arizona voter guide 2026"]
 dateline: "Phoenix"
 hero:
