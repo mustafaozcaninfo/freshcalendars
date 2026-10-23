@@ -13,7 +13,7 @@ pnpm news:deploy
 `pnpm news:deploy` sırasıyla şunları yapar:
 
 1. Testler, build ve link/SEO doğrulaması (biri hata verirse durur, hiçbir şey yayınlanmaz).
-2. Kodu ve içeriği VPS'e gönderir, VPS'te aynı build'i yapar.
+2. Kodu ve içeriği VPS'e gönderir, VPS'te aynı build'i yapar. `pnpm-lock.yaml` değişmediyse VPS'te `pnpm install` ve Chromium kurulumu atlanır (`.deps-stamp`); zorlamak için `FORCE_INSTALL=1 pnpm news:deploy`.
 3. Değişen dosyaları `public_html/news/` altına kopyalar.
 4. Değişen adresleri Cloudflare önbelleğinden temizler, Google ve Bing için IndexNow'a bildirir.
 5. Canlı siteyi kısa bir sağlık kontrolünden geçirir.

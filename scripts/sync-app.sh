@@ -55,9 +55,12 @@ if [[ -f "$ROOT/.npmrc" ]]; then
   rsync -avz -e ssh "$ROOT/.npmrc" "$REMOTE_HOST:$APP_DIR/"
 fi
 
-echo "Installing deps on VPS (pnpm)…"
+# pnpm install and the Chromium download only when the lockfile changed: the Playwright version
+# comes from the lockfile, so the same stamp means the same deps and browser. The stamp is written
+# only after both succeed, so a failed install retries next time. FORCE_INSTALL=1 always installs.
+DEPS_STAMP="$(cat "$ROOT/pnpm-lock.yaml" "$ROOT/pnpm-workspace.yaml" | shasum -a 256 | cut -d' ' -f1)"
 ssh -o BatchMode=yes "$REMOTE_HOST" \
-  "cd '$APP_DIR' && export PATH=\"/usr/local/bin:\$HOME/.local/share/pnpm:\$PATH\" && (pnpm install --frozen-lockfile || pnpm install) && export PLAYWRIGHT_BROWSERS_PATH='$APP_DIR/.playwright' && ./packages/generator/node_modules/.bin/playwright install chromium"
+  "cd '$APP_DIR' && if [ '${FORCE_INSTALL:-0}' != 1 ] && [ \"\$(cat .deps-stamp 2>/dev/null)\" = '$DEPS_STAMP' ] && [ -d node_modules ] && [ -d .playwright ]; then echo 'Deps unchanged on VPS, skipping pnpm install and Chromium'; else echo 'Installing deps on VPS (pnpm)…' && rm -f .deps-stamp && export PATH=\"/usr/local/bin:\$HOME/.local/share/pnpm:\$PATH\" && (pnpm install --frozen-lockfile || pnpm install) && export PLAYWRIGHT_BROWSERS_PATH='$APP_DIR/.playwright' && ./packages/generator/node_modules/.bin/playwright install chromium && echo '$DEPS_STAMP' > .deps-stamp; fi"
 
 # Upsert alert recipient without rewriting other VPS secrets
 if [[ -n "${CRON_NOTIFY_TO:-}" ]]; then
