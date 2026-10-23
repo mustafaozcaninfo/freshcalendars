@@ -46,7 +46,7 @@ summary:
   - "PEAK, a co-op climbing game from Landfall and Aggro Crab, launched on PlayStation 5, Xbox Series X|S and Nintendo Switch 2 on Thursday, Oct. 22, 2026, for $9.99 in the U.S. on each."
   - "Up to four players can climb together online across Steam, Xbox Series X|S, Switch 2 and PS5. Online play on console needs a subscription, and solo offline play does not."
   - "There is no progress transfer between platforms and no online matchmaking, so you invite friends. The map changes every 24 hours."
-  - "Official pages describe online co-op only; none lists split-screen or a physical edition."
+  - "Official pages describe online co-op only and list no split-screen. The Oct. 22 console release is digital; a PS5 disc edition is announced for Dec. 9."
 faq:
   - q: "When did PEAK come out on PS5?"
     a: "Thursday, Oct. 22, 2026, on PlayStation 5 (PS5), Xbox Series X|S and Nintendo Switch 2. The PC version on Steam came out June 16, 2025."
@@ -63,7 +63,7 @@ faq:
   - q: "Does PEAK have split-screen on PS5?"
     a: "Not listed. The official pages we checked describe online co-op only."
   - q: "Is there a physical PEAK disc for PS5?"
-    a: "None is listed. The official pages show a digital version."
+    a: "Not yet. The Oct. 22 release is digital only. Landfall and Aggro Crab announced a PS5 physical edition with Skybound Games for Dec. 9, 2026, at $19.99, in a press release reported by TheSixthAxis. The store pages we checked do not list it yet."
   - q: "What is PEAK rated?"
     a: "Everyone 10+ by the Entertainment Software Rating Board (ESRB), for Fantasy Violence and Users Interact, according to the PlayStation Store."
 sources:
@@ -87,6 +87,9 @@ sources:
   - title: "PEAK on Steam"
     url: "https://store.steampowered.com/app/3527290/PEAK/"
     publisher: "Steam"
+  - title: "Peak climbs onto consoles next week, and a PS5 physical release coming in December"
+    url: "https://www.thesixthaxis.com/?p=477402"
+    publisher: "TheSixthAxis"
 internalLinks:
   - href: "/printable-weekly-calendar.html"
     label: "Printable weekly planner"
@@ -158,9 +161,9 @@ Landfall's FAQ is direct: "There is no save progress transfer for PEAK to other 
 
 Landfall's FAQ says PEAK has no online matchmaking. You play with friends you invite. A solo player has the offline single-player mode.
 
-## Split-screen: not listed
+## Split-screen and the disc edition
 
-The official listings describe online co-op only. None of the pages we checked lists split-screen or couch co-op, so we cannot say it exists. A physical edition is not listed either; every official page shows a digital version.
+The official listings describe online co-op only. None of the pages we checked lists split-screen or couch co-op, so we cannot say it exists. The Oct. 22 console release is digital only. A PS5 physical edition with Skybound Games is announced for Dec. 9, 2026, at $19.99 in the U.S., according to the developers' press release as reported by TheSixthAxis; the official store pages we checked do not list it yet.
 
 ## What is in the game
 
