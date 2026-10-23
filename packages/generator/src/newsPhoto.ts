@@ -1,17 +1,22 @@
 /**
  * Licensed photos for /news/ heroes, from sources that publish a machine-readable license:
  *
- *   pnpm fc news-photo search "<query>" [--source commons|nasa|all]
- *   pnpm fc news-photo use <slug> <n | commons:File:Name.jpg | nasa:<id>> [--focus attention|entropy|center|top|bottom]
+ *   pnpm fc news-photo search "<query>" [--source commons|nasa|openverse|pexels|all]
+ *   pnpm fc news-photo use <slug> <n | commons:File:Name.jpg | nasa:<id> | openverse:<id> | pexels:<id>> [--focus …] [--allow-flickr]
  *   pnpm fc news-photo press <slug> --url <image> --terms <terms page> --author "<owner>"
  *
  * `search` lists candidates and marks the ones we may use. `use` re-reads the license from the source
  * (never from the cache), crops to 16:9 without upscaling, writes <slug>.webp with the credit embedded,
  * a <slug>.photo.json record, and prints the `hero:` block for the frontmatter.
  *
- * Allowed: public domain (incl. U.S. federal works), CC0, CC BY and CC BY-SA. Refused: NC, ND, GFDL-only,
- * "fair use", anything without a license field, and NASA items credited to a third party. Being a news
- * site does not license a photo; a credit line is attribution, not permission.
+ * Allowed: public domain (incl. U.S. federal works), CC0, CC BY, CC BY-SA and the Pexels License. Refused:
+ * NC, ND, GFDL-only, "fair use", anything without a license field, and NASA items credited to a third
+ * party. Being a news site does not license a photo; a credit line is attribution, not permission.
+ * Openverse indexes museums, Wikimedia and Flickr; Flickr uploads are refused unless --allow-flickr,
+ * because re-uploads of other people's photos under a CC label are common there: open the page and
+ * confirm the uploader is the photographer first. Pexels needs PEXELS_API_KEY in the environment.
+ * `use` also keeps the untouched crop as <slug>.source.webp, which `news-assets` uses for the
+ * branded overlay (assets.overlay), so the overlay is never applied twice.
  * `press` is for a company's own press-kit image; the terms page must be on the same site as the image
  * and must allow editorial use. The main session checks the terms before committing.
  */
@@ -25,7 +30,7 @@ const CACHE = path.join(ROOT, ".cache/news-photo-last.json");
 const MIN_W = 1600, OUT_W = 2400;
 
 type Candidate = {
-  ref: string; source: "Wikimedia Commons" | "NASA" | "press"; title: string; page: string; file: string;
+  ref: string; source: "Wikimedia Commons" | "NASA" | "Openverse" | "Pexels" | "press"; provider?: string; title: string; page: string; file: string;
   width?: number; height?: number; license: string; licenseUrl: string; author: string; authorUrl?: string;
   ok: boolean; why?: string;
 };
@@ -36,12 +41,12 @@ const strip = (html = "") => html.replace(/<[^>]+>/g, "").replace(/&amp;/g, "&")
 export function licenseOk(name: string): string | null {
   const n = name.toLowerCase();
   if (/\b(nc|nd)\b|non-?commercial|no ?deriv|fair use|all rights reserved/.test(n)) return `license "${name}" does not allow our use`;
-  if (/^(public domain|pd\b|pd-|cc0|cc by(-sa)? \d)/.test(n)) return null;
-  return `license "${name}" is not on the allowlist (public domain, CC0, CC BY, CC BY-SA)`;
+  if (/^(public domain|pd\b|pd-|cc0|cc by(-sa)? \d|pexels license$)/.test(n)) return null;
+  return `license "${name}" is not on the allowlist (public domain, CC0, CC BY, CC BY-SA, Pexels License)`;
 }
 
 async function getJson(url: string): Promise<any> {
-  const r = await fetch(url, { headers: { "User-Agent": UA } });
+  const r = await fetch(url, { headers: { "User-Agent": UA }, signal: AbortSignal.timeout(20_000) });
   if (!r.ok) throw new Error(`${r.status} from ${url}`);
   return r.json();
 }
@@ -111,23 +116,80 @@ async function nasaItem(id: string): Promise<Candidate> {
   return c;
 }
 
+// ── Openverse (museums, Wikimedia, Flickr…) ───────────────────────────────
+const OPENVERSE = "https://api.openverse.org/v1/images/";
+
+/** Openverse license codes → the names licenseOk() knows. */
+export function openverseLicense(code: string, version = ""): string {
+  const v = version ? ` ${version}` : "";
+  if (code === "cc0") return "CC0 1.0";
+  if (code === "pdm") return "Public domain";
+  if (code === "by") return `CC BY${v}`;
+  if (code === "by-sa") return `CC BY-SA${v}`;
+  return `CC ${code.toUpperCase()}${v}`;
+}
+
+function fromOpenverse(d: any, allowFlickr = false): Candidate {
+  const license = openverseLicense(d.license, d.license_version);
+  const c: Candidate = {
+    ref: `openverse:${d.id}`, source: "Openverse", provider: d.source ?? d.provider, title: d.title || d.id, page: d.foreign_landing_url,
+    file: d.url, width: d.width ?? undefined, height: d.height ?? undefined, license, licenseUrl: d.license_url ?? "",
+    author: d.creator || "Unknown author", authorUrl: d.creator_url ?? undefined, ok: true,
+  };
+  const why = licenseOk(license)
+    ?? (/flickr/i.test(`${d.source} ${d.provider}`) && !allowFlickr ? "Flickr upload: open the page, confirm the uploader took the photo, then use --allow-flickr" : null)
+    ?? (c.width && c.height && Math.min(c.width, (c.height * 16) / 9) < MIN_W ? `16:9 crop narrower than ${MIN_W}px` : null);
+  if (why) Object.assign(c, { ok: false, why });
+  return c;
+}
+
+async function searchOpenverse(q: string): Promise<Candidate[]> {
+  const j = await getJson(`${OPENVERSE}?q=${encodeURIComponent(q)}&license_type=commercial,modification&mature=false&page_size=20`);
+  return (j.results ?? []).map((d: any) => fromOpenverse(d));
+}
+
+// ── Pexels (needs PEXELS_API_KEY) ─────────────────────────────────────────
+async function pexelsJson(url: string): Promise<any> {
+  const key = process.env.PEXELS_API_KEY;
+  if (!key) throw new Error("PEXELS_API_KEY is not set");
+  const r = await fetch(url, { headers: { Authorization: key, "User-Agent": UA }, signal: AbortSignal.timeout(20_000) });
+  if (!r.ok) throw new Error(`${r.status} from ${url}`);
+  return r.json();
+}
+
+function fromPexels(p: any): Candidate {
+  const c: Candidate = {
+    ref: `pexels:${p.id}`, source: "Pexels", title: p.alt || `Pexels photo ${p.id}`, page: p.url, file: p.src?.original ?? "",
+    width: p.width, height: p.height, license: "Pexels License", licenseUrl: "https://www.pexels.com/license/",
+    author: p.photographer || "Unknown photographer", authorUrl: p.photographer_url, ok: true,
+  };
+  if (Math.min(c.width ?? 0, ((c.height ?? 0) * 16) / 9) < MIN_W) Object.assign(c, { ok: false, why: `16:9 crop narrower than ${MIN_W}px` });
+  return c;
+}
+
+const searchPexels = async (q: string): Promise<Candidate[]> => ((await pexelsJson(`https://api.pexels.com/v1/search?query=${encodeURIComponent(q)}&per_page=24&orientation=landscape`)).photos ?? []).map(fromPexels);
+
 // ── commands ──────────────────────────────────────────────────────────────
 export async function photoSearch(q: string, source = "all"): Promise<void> {
-  if (!q) throw new Error('usage: pnpm fc news-photo search "<query>" [--source commons|nasa|all]');
-  const list = [
-    ...(source === "nasa" ? [] : await searchCommons(q)),
-    ...(source === "commons" ? [] : await searchNasa(q).catch(() => [])),
+  if (!q) throw new Error('usage: pnpm fc news-photo search "<query>" [--source commons|nasa|openverse|pexels|all]');
+  const want = (s: string) => source === "all" || source === s;
+  const soft = (p: Promise<Candidate[]>, name: string) => p.catch((e): Candidate[] => (console.warn(`${name}: ${e.message}`), []));
+  const list: Candidate[] = [
+    ...(want("commons") ? await searchCommons(q) : []),
+    ...(want("nasa") ? await soft(searchNasa(q), "NASA") : []),
+    ...(want("openverse") ? await soft(searchOpenverse(q), "Openverse") : []),
+    ...(want("pexels") && (source === "pexels" || process.env.PEXELS_API_KEY) ? await soft(searchPexels(q), "Pexels") : []),
   ];
   await fs.mkdir(path.dirname(CACHE), { recursive: true });
   await fs.writeFile(CACHE, JSON.stringify(list, null, 2));
   list.forEach((c, i) => {
     const size = c.width ? `${c.width}×${c.height}` : "size on use";
-    console.log(`${String(i + 1).padStart(2)} ${c.ok ? "OK  " : "NO  "} ${c.title.slice(0, 60)}\n      ${c.source} · ${c.license} · ${c.author.slice(0, 50)} · ${size}${c.why ? `\n      ✗ ${c.why}` : ""}\n      ${c.page}`);
+    console.log(`${String(i + 1).padStart(2)} ${c.ok ? "OK  " : "NO  "} ${c.title.slice(0, 60)}\n      ${c.source}${c.provider ? ` (${c.provider})` : ""} · ${c.license} · ${c.author.slice(0, 50)} · ${size}${c.why ? `\n      ✗ ${c.why}` : ""}\n      ${c.page}`);
   });
   console.log(`\n${list.filter((c) => c.ok).length} usable of ${list.length}. Look at the page before choosing, then: pnpm fc news-photo use <slug> <n>`);
 }
 
-async function resolve(ref: string): Promise<Candidate> {
+async function resolve(ref: string, allowFlickr = false): Promise<Candidate> {
   if (/^\d+$/.test(ref)) {
     const list: Candidate[] = JSON.parse(await fs.readFile(CACHE, "utf8").catch(() => "[]"));
     const c = list[Number(ref) - 1];
@@ -136,7 +198,9 @@ async function resolve(ref: string): Promise<Candidate> {
   }
   if (ref.startsWith("commons:")) return commonsFile(ref.slice(8));
   if (ref.startsWith("nasa:")) return nasaItem(ref.slice(5));
-  throw new Error(`unknown reference ${ref}; use a number from search, commons:File:… or nasa:<id>`);
+  if (ref.startsWith("openverse:")) return fromOpenverse(await getJson(`${OPENVERSE}${encodeURIComponent(ref.slice(10))}/`), allowFlickr);
+  if (ref.startsWith("pexels:")) return fromPexels(await pexelsJson(`https://api.pexels.com/v1/photos/${encodeURIComponent(ref.slice(7))}`));
+  throw new Error(`unknown reference ${ref}; use a number from search, commons:File:…, nasa:<id>, openverse:<id> or pexels:<id>`);
 }
 
 const POSITIONS: Record<string, string | number> = { attention: sharp.strategy.attention, entropy: sharp.strategy.entropy, center: "centre", top: "north", bottom: "south" };
@@ -163,8 +227,11 @@ async function write(slug: string, c: Candidate, focus: string): Promise<void> {
     .resize(outW, outH, { fit: "cover", position: POSITIONS[focus] ?? sharp.strategy.attention, withoutEnlargement: true })
     .withExif({ IFD0: { Artist: c.author, Copyright: rights, ImageDescription: c.title } }).withXmp(xmp)
     .webp({ quality: 84, effort: 6 }).toFile(out);
+  // The untouched crop: news-assets draws the branded overlay from this, never from the hero itself.
+  await fs.copyFile(out, path.join(dir, `${slug}.source.webp`));
   /** Commons names the platform after the author; NASA and press credits already name the owner. */
-  const credit = `Photo: ${c.author}${c.source === "Wikimedia Commons" ? " / Wikimedia Commons" : ""}${cropped ? ", cropped" : ""}`;
+  const via = c.source === "Wikimedia Commons" || c.source === "Pexels" ? ` / ${c.source}` : c.source === "Openverse" && c.provider ? ` / ${c.provider}` : "";
+  const credit = `Photo: ${c.author}${via}${cropped ? ", cropped" : ""}`;
   const record = { ...c, slug, fetchedAt: new Date().toISOString(), original: `${w}×${h}`, output: `${outW}×${outH}`, cropped, credit };
   await fs.writeFile(path.join(dir, `${slug}.photo.json`), `${JSON.stringify(record, null, 2)}\n`);
   const q = JSON.stringify;
@@ -183,9 +250,9 @@ hero:
 
 const xmlEsc = (s: string) => s.replace(/&/g, "&amp;").replace(/</g, "&lt;").replace(/>/g, "&gt;");
 
-export async function photoUse(slug: string, ref: string, focus = "attention"): Promise<void> {
-  if (!/^[a-z0-9-]+$/.test(slug ?? "") || !ref) throw new Error("usage: pnpm fc news-photo use <slug> <n | commons:File:… | nasa:<id>>");
-  await write(slug, await resolve(ref), focus);
+export async function photoUse(slug: string, ref: string, focus = "attention", allowFlickr = false): Promise<void> {
+  if (!/^[a-z0-9-]+$/.test(slug ?? "") || !ref) throw new Error("usage: pnpm fc news-photo use <slug> <n | commons:File:… | nasa:<id> | openverse:<id> | pexels:<id>>");
+  await write(slug, await resolve(ref, allowFlickr), focus);
 }
 
 /** A company's own press-kit image. Same-site check only; a person still reads the terms. */

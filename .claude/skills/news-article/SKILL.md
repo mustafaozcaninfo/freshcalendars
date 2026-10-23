@@ -102,9 +102,9 @@ Every story gets one of two heroes. Both come from commands; never hand-place an
 
 ### A. Illustrated hero (default): `pnpm fc news-assets <slug>`
 
-Add an `assets:` block to the frontmatter (Astro ignores it) and run the command. It draws a 2400×1350 hero from our own illustration library (`packages/generator/src/art.ts`): a full scene on the right, the kicker, an optional date tile and a white card on the left. Everything is drawn in code, so the image is ours and unique to the story (the slug seeds the details).
+Add an `assets:` block to the frontmatter (Astro ignores it) and run the command. It draws a 2400×1350 hero: a 3D scene on the right (three.js in headless Chromium, `packages/generator/render3d/`, with studio light, soft shadows and a photographic finish from `fx.ts`), the kicker, an optional date tile and a white card on the left. Every model is built in code from primitives, so the image is ours and unique to the story (the slug seeds the details). The calendar scene shows the story's real month with `assets.date` circled. A render takes about 5 seconds.
 
-- `scene:` picks the picture. Run `pnpm fc news-scenes` to see them all on one sheet (`.cache/news-scenes.png`): halloween, thanksgiving, election, winter-holidays, night-sky, time-change, shopping, school, money, puzzle, fireworks, spring, autumn, calendar. Without `scene:` the category's default is used; `scene: none` gives the old flat poster.
+- `scene:` picks the picture. Run `pnpm fc news-scenes` (or `--only gaming,sports`) to see them on one sheet (`.cache/news-scenes.png`). In 3D: calendar, election, halloween, halloween-party, thanksgiving, winter-holidays, night-sky, time-change, shopping, school, money, puzzle, gaming (a generic game pad), sports (an American football), phone (a generic foldable). Flat SVG only: fireworks, spring, autumn. `render: 2d` forces the older flat SVG scene; `scene: none` gives the flat poster. Without `scene:` the category's default is used.
 - Match the scene to the subject, not the category: a turkey story is `thanksgiving` even in `holidays`; a meteor story is `night-sky`.
 - `title:` is optional and short (under 40 characters); Discover shows the real headline beside the image.
 
@@ -113,14 +113,18 @@ Add an `assets:` block to the frontmatter (Astro ignores it) and run the command
 Use a real photo when it helps the reader more than an illustration (a NASA image of the event, a landmark, a real place). Only sources with a machine-readable license, checked again at download:
 
 ```bash
-pnpm fc news-photo search "Leonid meteor" --source nasa      # or commons, or all
+pnpm fc news-photo search "Leonid meteor" --source nasa      # or commons, openverse, pexels, all
 pnpm fc news-photo use <slug> 3                              # number from the search list
 ```
 
-`use` crops to 16:9 (never upscales, needs 1600 px), writes `<slug>.webp` with the author and license embedded, a `<slug>.photo.json` record, and prints the `hero:` block with `credit` and `license`. Paste it and write the `alt` and `caption` yourself. The page then shows the credit with links to the source and the license, and the schema names the photographer and license instead of us. `news-assets` keeps a licensed photo and only draws the printable.
+`use` crops to 16:9 (never upscales, needs 1600 px), writes `<slug>.webp` with the author and license embedded, the untouched crop as `<slug>.source.webp`, a `<slug>.photo.json` record, and prints the `hero:` block with `credit` and `license`. Paste it and write the `alt` and `caption` yourself. The page then shows the credit with links to the source and the license, and the schema names the photographer and license instead of us. `news-assets` keeps a licensed photo and only draws the printable.
+
+To put our layer on the photo (kicker, date tile, card, brand line, a scrim and the same finish as the 3D heroes), add `overlay: true` to `assets:` and run `pnpm fc news-assets <slug>`. It always redraws from `<slug>.source.webp`, keeps the source width, and changes the credit to end in ", edited", which CC BY and CC BY-SA require when an image is changed. Copy that new credit into `hero.credit`. Overlays are for photos we are licensed to adapt; the allowlist below already excludes ND (no derivatives).
+
+Sources: Wikimedia Commons and NASA (no key), Openverse (no key; museums such as the Smithsonian, Wikimedia and Flickr), Pexels (`PEXELS_API_KEY` in the environment). Openverse Flickr results are refused unless you pass `--allow-flickr` to `use`, and only after you open the page and confirm the uploader took the photo; re-uploads of other people's work under a CC label are common there.
 
 Photo rules (the schema and the tool enforce most of them):
-- Allowed: public domain (U.S. federal works such as NASA), CC0, CC BY, CC BY-SA. Refused: NC, ND, GFDL-only, "fair use", no license, NASA items credited to someone else.
+- Allowed: public domain (U.S. federal works such as NASA), CC0, CC BY, CC BY-SA, the Pexels License. Refused: NC, ND, GFDL-only, "fair use", no license, NASA items credited to someone else.
 - **Never** take an image from a search engine, a news site, a stock agency (Getty, AP, Reuters, Shutterstock) or social media. Being a news site does not license a photo, and a credit line is attribution, not permission.
 - Look at the Commons page before using a candidate: no recognizable private people as the subject, no logos as the subject, nothing misleading for the story (a 2019 crowd is not "this year's" crowd; say "file photo" in the caption when it is not from this event).
 - Press-kit images: `pnpm fc news-photo press <slug> --url <image> --terms <terms page> --author "<company>"`, only when the company's terms page allows editorial use by the press. The main session reads that page before committing.
