@@ -105,7 +105,7 @@ The Social Security Administration (SSA) pays most retirement, survivor and disa
 
 ## Saturday, Oct. 24: four observances
 
-United Nations Day marks the day the UN Charter took effect in 1945. Rotary International holds World Polio Day on the same date to rally support for ending the disease. Points of Light's Make A Difference Day, a national day of volunteering, falls on the fourth Saturday of October. The DEA runs its 31st National Prescription Drug Take Back Day from 10 a.m. to 2 p.m. local time at collection sites nationwide, where unused medicines can be dropped off anonymously. What to bring and how to find a site are in our [Take Back Day guide](/news/dea-drug-take-back-day-october-24-2026-locations/).
+United Nations Day marks the day the UN Charter took effect in 1945. Rotary International holds [World Polio Day](/news/world-polio-day-2026-october-24/) on the same date to rally support for ending the disease. [Make A Difference Day](/news/make-a-difference-day-2026-october-24/), a national day of volunteering, falls on the fourth Saturday of October. The DEA runs its 31st National Prescription Drug Take Back Day from 10 a.m. to 2 p.m. local time at collection sites nationwide, where unused medicines can be dropped off anonymously. What to bring and how to find a site are in our [Take Back Day guide](/news/dea-drug-take-back-day-october-24-2026-locations/).
 
 ## The Hunter's Moon and the World Series
 
