@@ -2,7 +2,9 @@
 import assert from "node:assert/strict";
 import { test } from "node:test";
 import { chooseLayout, items, parseWhen } from "./newsPrintable.ts";
-import { licenseOk } from "./newsPhoto.ts";
+import { licenseOk, openverseLicense } from "./newsPhoto.ts";
+import { finish, grainLayer } from "./fx.ts";
+import sharp from "sharp";
 
 const base = { slug: "t", group: "g", title: "Test Dates 2026", note: "Source: test" };
 const iso = (d: Date) => d.toISOString().slice(0, 10);
@@ -30,4 +32,22 @@ test("auto layout: month for dated days, list when days get crowded, checklist f
 test("photo licenses: only public domain, CC0, CC BY and CC BY-SA", () => {
   for (const ok of ["CC0", "CC BY 4.0", "CC BY-SA 2.5", "Public domain", "PD-USGov-NASA"]) assert.equal(licenseOk(ok), null, ok);
   for (const no of ["CC BY-NC 2.0", "CC BY-ND 4.0", "GFDL", "Fair use", "All rights reserved"]) assert.notEqual(licenseOk(no), null, no);
+});
+
+test("photo sources map to allowed licenses", () => {
+  assert.equal(licenseOk("Pexels License"), null);
+  assert.equal(openverseLicense("by-sa", "4.0"), "CC BY-SA 4.0");
+  assert.equal(licenseOk(openverseLicense("by", "2.0")), null);
+  assert.equal(licenseOk(openverseLicense("cc0")), null);
+  assert.equal(licenseOk(openverseLicense("pdm")), null);
+  assert.notEqual(licenseOk(openverseLicense("by-nc", "4.0")), null);
+  assert.notEqual(licenseOk(openverseLicense("by-nd", "4.0")), null);
+});
+
+test("hero finish is deterministic per seed", async () => {
+  assert.deepEqual(grainLayer(64, 32, 7, "a"), grainLayer(64, 32, 7, "a"));
+  assert.notDeepEqual(grainLayer(64, 32, 7, "a"), grainLayer(64, 32, 7, "b"));
+  const img = await sharp({ create: { width: 120, height: 68, channels: 3, background: "#1e3a8a" } }).png().toBuffer();
+  const [a, b] = await Promise.all([finish(img, { seed: "s" }), finish(img, { seed: "s" })]);
+  assert.ok(a.equals(b));
 });

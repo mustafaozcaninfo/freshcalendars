@@ -26,7 +26,11 @@
  *     alt: "..."                            # 10-160 chars, for the downloads entry
  *     layout: auto                          # month | timeline | checklist | list (see newsPrintable.ts)
  *     inkSaver: true                        # also <slug>-ink, black on white
- * A story with a licensed photo (news-photo, <slug>.photo.json) keeps it; only the printable is drawn.
+ *   render: 2d                              # optional: SVG scene instead of the 3D one (render3d/)
+ *   overlay: true                           # licensed-photo stories: kicker, date tile and card over the photo
+ * A story with a licensed photo (news-photo, <slug>.photo.json) keeps it; with `overlay: true` the
+ * hero is redrawn from the untouched <slug>.source.webp with our scrim, text and finish, and the
+ * credit gains ", edited" (CC BY asks us to say the image was changed).
  * Original art only: shapes, a calendar card and a little text, no logos. Keep the main shapes inside the
  * middle 900 px so 4:3 and 1:1 crops (Discover, schema images) still read.
  */
@@ -40,6 +44,7 @@ import { MONTHS, renderPrintables } from "./printables.js";
 import { ROOT } from "./paths.js";
 import { type Printable, printableHtml } from "./newsPrintable.js";
 import { CATEGORY_SCENE, SCENE_ICON, SCENE_COLOR, SCENES, type SceneName, scene, tint } from "./art.js";
+import { SCENES_3D, backdrop3d, shootHero, type HeroDoc } from "./news3d.js";
 
 const W = 1200, H = 675;
 const ARTICLES = path.join(ROOT, "apps/news/src/content/articles");
@@ -49,7 +54,7 @@ const CATEGORY_COLOR: Record<string, string> = {
 };
 const DOW = ["SUNDAY", "MONDAY", "TUESDAY", "WEDNESDAY", "THURSDAY", "FRIDAY", "SATURDAY"];
 
-type Assets = { scene?: SceneName | "none"; kicker?: string; title?: string; date?: string; color?: string; card?: { top?: string; big: string; bottom?: string }; printable?: Printable };
+type Assets = { scene?: SceneName | "none"; render?: "2d" | "3d"; overlay?: boolean; kicker?: string; title?: string; date?: string; color?: string; card?: { top?: string; big: string; bottom?: string }; printable?: Printable };
 type Front = { title: string; seoTitle?: string; category: string; assets?: Assets };
 
 const esc = (s: string) => s.replace(/&/g, "&amp;").replace(/</g, "&lt;").replace(/>/g, "&gt;").replace(/"/g, "&quot;");
@@ -108,11 +113,10 @@ function storyColor(f: Front, a: Assets, name: SceneName | "none"): string {
 }
 
 /**
- * Illustrated hero: an original scene from art.ts fills the right side, text sits on a scrim at the
- * left. The date becomes a small tear-off tile beside the card so it never covers the scene.
+ * Text layer shared by every illustrated hero: kicker and optional short title at the left (on the
+ * art's scrim), a date tile and card at the bottom left, the brand line at the bottom right.
  */
-function sceneHero(fonts: string, f: Front, a: Assets, slug: string, name: SceneName): string {
-  const color = storyColor(f, a, name);
+function heroUi(fonts: string, a: Assets, color: string): { css: string; ui: string } {
   const title = a.title ?? "";
   if (title.length > 40) console.warn(`assets.title is ${title.length} chars; keep it under 40 so the hero is not text-heavy (Google Discover)`);
   let tile = "";
@@ -121,22 +125,49 @@ function sceneHero(fonts: string, f: Front, a: Assets, slug: string, name: Scene
     tile = `<div class="tile"><i style="background:${color}">${MONTHS[d.getUTCMonth()]!.slice(0, 3).toUpperCase()}</i><b style="color:${tint(color, -0.4)}">${d.getUTCDate()}</b><em style="color:${color}">${DOW[d.getUTCDay()]!.slice(0, 3)}</em></div>`;
   }
   const card = a.card ? `<div class="card"><span>${esc(a.card.top ?? "")}</span><b>${esc(a.card.big)}</b><span>${esc(a.card.bottom ?? "")}</span></div>` : "";
-  return `<!doctype html><html><head><meta charset="utf-8"><style>${fonts}*{box-sizing:border-box}html,body{margin:0}
-  body{width:${W}px;height:${H}px;overflow:hidden;font-family:Manrope,sans-serif;position:relative;background:${color}}
-  .k{position:absolute;left:64px;top:76px;font-weight:800;font-size:15px;letter-spacing:.18em;text-transform:uppercase;color:#fde68a;text-shadow:0 2px 10px rgba(0,0,0,.35)}
-  .t{position:absolute;left:64px;top:110px;width:500px;font-family:Sora;font-weight:800;color:#fff;line-height:1.04;font-size:${title.length > 26 ? 52 : 60}px;letter-spacing:-.01em;text-shadow:0 4px 24px rgba(0,0,0,.35)}
+  const css = `${fonts}body{font-family:Manrope,sans-serif;background:${color}}
+  .k{position:absolute;left:64px;top:76px;font-weight:800;font-size:15px;letter-spacing:.18em;text-transform:uppercase;color:#fde68a;text-shadow:0 2px 10px rgba(0,0,0,.45)}
+  .t{position:absolute;left:64px;top:110px;width:500px;font-family:Sora;font-weight:800;color:#fff;line-height:1.04;font-size:${title.length > 26 ? 52 : 60}px;letter-spacing:-.01em;text-shadow:0 4px 24px rgba(0,0,0,.45)}
   .row{position:absolute;left:64px;bottom:84px;display:flex;gap:16px;align-items:stretch}
   .tile{width:118px;border-radius:16px;background:#fff;box-shadow:0 18px 40px rgba(0,0,0,.32);overflow:hidden;text-align:center;font-family:Sora;transform:rotate(-3deg)}
   .tile i{display:block;font-style:normal;color:#fff;font-weight:800;font-size:17px;letter-spacing:.12em;padding:7px 0}
   .tile b{display:block;font-size:60px;line-height:1;margin-top:8px}.tile em{display:block;font-style:normal;font-weight:800;font-size:14px;letter-spacing:.14em;padding:4px 0 10px}
   .card{width:${tile ? 360 : 440}px;border-radius:18px;background:rgba(255,255,255,.96);box-shadow:0 18px 40px rgba(0,0,0,.3);padding:18px 22px;color:#0f172a;display:flex;flex-direction:column;justify-content:center}
   .card b{display:block;font-family:Sora;font-size:34px;line-height:1.05;margin:3px 0}.card span{font-size:15px;color:#475569;font-weight:700}
-  .brand{position:absolute;right:28px;bottom:20px;font-size:13px;font-weight:700;letter-spacing:.06em;color:rgba(255,255,255,.8)}</style></head><body>
-  <svg width="${W}" height="${H}" viewBox="0 0 ${W} ${H}" style="position:absolute;inset:0">${scene(name, { color, seed: slug })}</svg>
-  ${a.kicker ? `<div class="k">${esc(a.kicker)}</div>` : ""}${title ? `<div class="t">${esc(title)}</div>` : ""}
-  ${tile || card ? `<div class="row">${tile}${card}</div>` : ""}
-  <div class="brand">freshcalendars.com/news</div></body></html>`;
+  .brand{position:absolute;right:28px;bottom:20px;font-size:13px;font-weight:700;letter-spacing:.06em;color:rgba(255,255,255,.82);text-shadow:0 1px 6px rgba(0,0,0,.4)}`;
+  const ui = `${a.kicker ? `<div class="k">${esc(a.kicker)}</div>` : ""}${title ? `<div class="t">${esc(title)}</div>` : ""}
+  ${tile || card ? `<div class="row">${tile}${card}</div>` : ""}<div class="brand">freshcalendars.com/news</div>`;
+  return { css, ui };
 }
+
+/**
+ * Illustrated hero. Scenes listed in SCENES_3D are rendered in 3D (render3d/); the rest, or any
+ * story with `assets.render: 2d`, use the SVG scenes in art.ts. Text sits on a scrim at the left.
+ */
+function sceneDoc(fonts: string, f: Front, a: Assets, slug: string, name: SceneName): HeroDoc {
+  const color = storyColor(f, a, name);
+  const { css, ui } = heroUi(fonts, a, color);
+  const three = a.render !== "2d" ? SCENES_3D[name] : undefined;
+  if (three) {
+    return { css, ui, art: backdrop3d(color, three.accent, slug, three.night), three: { scene: name, color, accent: three.accent, seed: slug, date: a.date } };
+  }
+  return { css, ui, art: `<svg width="${W}" height="${H}" viewBox="0 0 ${W} ${H}" style="position:absolute;inset:0">${scene(name, { color, seed: slug })}</svg>` };
+}
+
+/** Licensed photo with our layer: the photo, a scrim for the text, then kicker, tile, card and brand. */
+async function photoDoc(fonts: string, f: Front, a: Assets, src: string): Promise<HeroDoc> {
+  const color = storyColor(f, a, "none");
+  const { css, ui } = heroUi(fonts, a, color);
+  const data = (await fs.readFile(src)).toString("base64");
+  return {
+    css, ui,
+    art: `<img src="data:image/webp;base64,${data}" style="position:absolute;inset:0;width:${W}px;height:${H}px;object-fit:cover">
+  <div style="position:absolute;inset:0;background:linear-gradient(90deg,rgba(0,0,0,.62) 0%,rgba(0,0,0,.3) 40%,rgba(0,0,0,0) 66%),linear-gradient(0deg,rgba(0,0,0,.45) 0%,rgba(0,0,0,0) 38%)"></div>`,
+  };
+}
+
+/** Finish per hero kind: 3D gets a stronger bloom (lit pumpkins, light strips), SVG art a light one. */
+const fxFor = (doc: HeroDoc, slug: string) => (doc.three ? { seed: slug, bloom: 0.5, threshold: 215 } : { seed: slug, bloom: 0.18, threshold: 200, vignette: 0.18 });
 
 export async function buildNewsAssets(slug: string): Promise<void> {
   if (!slug) throw new Error("usage: pnpm fc news-assets <slug>");
@@ -152,14 +183,39 @@ export async function buildNewsAssets(slug: string): Promise<void> {
   const name = a.scene ?? CATEGORY_SCENE[f.category] ?? "calendar";
   if (name !== "none" && !SCENES.includes(name)) throw new Error(`assets.scene "${name}" is not one of: ${SCENES.join(", ")}, none`);
   // A licensed photo (news-photo) is the hero; only the printable is drawn then.
-  const photo = await fs.access(path.join(dir, `${slug}.photo.json`)).then(() => true, () => false);
-  if (photo) console.log(`hero: licensed photo ${slug}.webp kept (delete ${slug}.photo.json to draw a scene instead)`);
+  const recordFile = path.join(dir, `${slug}.photo.json`);
+  const photo = await fs.access(recordFile).then(() => true, () => false);
+  if (photo && a.overlay) {
+    const src = path.join(dir, `${slug}.source.webp`);
+    if (!(await fs.access(src).then(() => true, () => false))) throw new Error(`${slug}.source.webp is missing; run pnpm fc news-photo use again so the untouched crop is kept`);
+    const rec = JSON.parse(await fs.readFile(recordFile, "utf8"));
+    const browser = await chromium.launch({ headless: true });
+    try {
+      const png = await shootHero(browser, await photoDoc(fonts, f, a, src), { seed: slug, bloom: 0.08, threshold: 235, vignette: 0.2, grain: 4, saturation: 1.04 });
+      // Never upscale a photo: the branded hero keeps the source width.
+      const { width = 0 } = await sharp(src).metadata();
+      const credit = /, edited$/.test(rec.credit) ? rec.credit : `${rec.credit}, edited`;
+      const rights = `${rec.author}, ${rec.license}${rec.licenseUrl ? ` (${rec.licenseUrl})` : ""}; edited by Fresh Calendars`;
+      await sharp(png).resize(Math.min(width, W * 2)).withExif({ IFD0: { Artist: rec.author, Copyright: rights, ImageDescription: rec.title } })
+        .webp({ quality: 84, effort: 6 }).toFile(path.join(dir, `${slug}.webp`));
+      await fs.writeFile(recordFile, `${JSON.stringify({ ...rec, credit, overlay: true }, null, 2)}\n`);
+      console.log(`hero: ${slug}.webp redrawn from ${slug}.source.webp with the overlay\nset hero.credit in the frontmatter to: ${JSON.stringify(credit)}`);
+    } finally {
+      await browser.close();
+    }
+  } else if (photo) console.log(`hero: licensed photo ${slug}.webp kept (assets.overlay: true adds our layer; delete ${slug}.photo.json to draw a scene instead)`);
   const browser = photo ? null : await chromium.launch({ headless: true });
   if (browser) try {
-    const page = await browser.newPage({ viewport: { width: W, height: H }, deviceScaleFactor: 2 });
-    await page.setContent(name === "none" ? hero(fonts, f, a) : sceneHero(fonts, f, a, slug, name), { waitUntil: "load" });
-    await page.evaluate(() => document.fonts.ready);
-    const png = await page.screenshot({ type: "png" });
+    let png: Buffer;
+    if (name === "none") {
+      const page = await browser.newPage({ viewport: { width: W, height: H }, deviceScaleFactor: 2 });
+      await page.setContent(hero(fonts, f, a), { waitUntil: "load" });
+      await page.evaluate(() => document.fonts.ready);
+      png = await page.screenshot({ type: "png" });
+    } else {
+      const doc = sceneDoc(fonts, f, a, slug, name);
+      png = await shootHero(browser, doc, fxFor(doc, slug));
+    }
     await fs.mkdir(dir, { recursive: true });
     await sharp(png).jpeg({ quality: 86, mozjpeg: true }).toFile(path.join(dir, `${slug}.jpg`));
     console.log(`hero: apps/news/src/assets/news/${slug}/${slug}.jpg`);
@@ -194,27 +250,26 @@ export async function buildNewsAssets(slug: string): Promise<void> {
 
 /**
  * Contact sheet of every scene, so a writer can pick `assets.scene` by eye:
- *   pnpm fc news-scenes [out.png]   (default .cache/news-scenes.png)
+ *   pnpm fc news-scenes [out.png] [--only calendar,election]   (default .cache/news-scenes.png)
  */
-export async function buildSceneGallery(out = path.join(ROOT, ".cache/news-scenes.png")): Promise<void> {
+export async function buildSceneGallery(out = path.join(ROOT, ".cache/news-scenes.png"), only?: string[]): Promise<void> {
   const fonts = await fontFaces();
   const browser = await chromium.launch({ headless: true });
   try {
-    const page = await browser.newPage({ viewport: { width: W, height: H } });
     const shots: Buffer[] = [];
-    for (const name of SCENES) {
+    const names = only?.length ? SCENES.filter((n) => only.includes(n)) : SCENES;
+    for (const name of names) {
       const f: Front = { title: name, category: "planning" };
-      const a: Assets = { scene: name, kicker: `Scene · ${name}`, date: "2026-11-26", card: { top: "Example card", big: "Thu., Nov. 26", bottom: name } };
-      await page.setContent(sceneHero(fonts, f, a, "gallery", name), { waitUntil: "load" });
-      await page.evaluate(() => document.fonts.ready);
-      shots.push(await sharp(await page.screenshot({ type: "png" })).resize(600, 338).png().toBuffer());
+      const a: Assets = { scene: name, kicker: `Scene · ${name}${SCENES_3D[name] ? " · 3D" : ""}`, date: "2026-11-26", card: { top: "Example card", big: "Thu., Nov. 26", bottom: name } };
+      const doc = sceneDoc(fonts, f, a, "gallery", name);
+      shots.push(await sharp(await shootHero(browser, doc, fxFor(doc, "gallery"))).resize(600, 338).png().toBuffer());
     }
-    const cols = 3, rows = Math.ceil(shots.length / cols);
+    const cols = Math.min(3, shots.length), rows = Math.ceil(shots.length / cols);
     await fs.mkdir(path.dirname(out), { recursive: true });
     await sharp({ create: { width: cols * 600, height: rows * 338, channels: 3, background: "#ffffff" } })
       .composite(shots.map((input, i) => ({ input, left: (i % cols) * 600, top: Math.floor(i / cols) * 338 })))
       .png().toFile(out);
-    console.log(`scenes: ${path.relative(ROOT, out)} (${SCENES.join(", ")})`);
+    console.log(`scenes: ${path.relative(ROOT, out)} (${names.join(", ")})`);
   } finally {
     await browser.close();
   }

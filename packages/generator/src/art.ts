@@ -12,7 +12,7 @@
 
 export const SCENES = [
   "halloween", "halloween-party", "thanksgiving", "election", "winter-holidays", "night-sky", "time-change",
-  "shopping", "school", "money", "puzzle", "fireworks", "spring", "autumn", "calendar",
+  "shopping", "school", "money", "puzzle", "fireworks", "spring", "autumn", "calendar", "gaming", "sports", "phone",
 ] as const;
 export type SceneName = (typeof SCENES)[number];
 
@@ -20,7 +20,7 @@ export type SceneName = (typeof SCENES)[number];
 export const SCENE_COLOR: Record<SceneName, string> = {
   halloween: "#3b1d5e", "halloween-party": "#2e1065", thanksgiving: "#9a3412", election: "#1e3a8a", "winter-holidays": "#14532d", "night-sky": "#1e1b4b",
   "time-change": "#6d28d9", shopping: "#be123c", school: "#0f766e", money: "#166534", puzzle: "#4c1d95",
-  fireworks: "#1e1b4b", spring: "#0e7490", autumn: "#9a3412", calendar: "#1e3a8a",
+  fireworks: "#1e1b4b", spring: "#0e7490", autumn: "#9a3412", calendar: "#1e3a8a", gaming: "#312e81", sports: "#14532d", phone: "#1e293b",
 };
 
 /** Which scene a category gets when `assets.scene` is not set. */
@@ -290,6 +290,10 @@ const BUILDERS: Record<SceneName, (r: Rng, c: string) => string> = {
   spring: (r) => `${bokeh(r, 14, "#fef9c3")}${ground("#4d7c0f", 560)}${Array.from({ length: 7 }, (_, i) => flower(560 + i * 80 + between(r, -14, 14), between(r, 400, 470), between(r, 0.8, 1.2), pick(r, ["#f472b6", "#fb7185", "#c084fc", "#fbbf24", "#f8fafc"]))).join("")}`,
   autumn: (r) => `${bokeh(r, 14, "#fed7aa")}${Array.from({ length: 22 }, () => leaf(between(r, 480, 1180), between(r, 40, 640), between(r, 0.7, 1.6), between(r, -60, 60), pick(r, ["#d97706", "#b45309", "#dc2626", "#ca8a04", "#9a3412"]))).join("")}`,
   calendar: (r, c) => `${bokeh(r, 14)}${calendarPage(820, 360, 1.12, c, r)}`,
+  // 3D-first scenes (render3d/); with `render: 2d` they fall back to the calendar page.
+  gaming: (r, c) => `${bokeh(r, 16, "#c4b5fd")}${calendarPage(820, 360, 1.12, c, r)}`,
+  sports: (r, c) => `${bokeh(r, 14)}${calendarPage(820, 360, 1.12, c, r)}`,
+  phone: (r, c) => `${bokeh(r, 14, "#bfdbfe")}${calendarPage(820, 360, 1.12, c, r)}`,
 };
 
 /** Full hero background: gradient, the scene, a left scrim for text, vignette and film grain. */
@@ -319,7 +323,7 @@ const ICONS: Record<string, (c: string) => string> = {
 export const SCENE_ICON: Record<SceneName, string> = {
   halloween: "pumpkin", "halloween-party": "cauldron", thanksgiving: "turkey", election: "ballot", "winter-holidays": "gift", "night-sky": "moon",
   "time-change": "clock", shopping: "bag", school: "book", money: "money", puzzle: "star", fireworks: "star",
-  spring: "leaf", autumn: "leaf", calendar: "calendar",
+  spring: "leaf", autumn: "leaf", calendar: "calendar", gaming: "star", sports: "star", phone: "bag",
 };
 export function icon(name: string, color: string, size = 44): string {
   const draw = ICONS[name] ?? ICONS.calendar!;
