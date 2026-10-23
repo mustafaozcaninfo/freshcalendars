@@ -10,13 +10,17 @@ import { PRINTABLES_PATH } from "../lib/printables";
 interface Props { section?: string }
 const { section } = Astro.props;
 const cats = await getActiveCategories(await getPublishedArticles());
-// Short labels keep the bar on one line on desktop; category pages keep the full names.
+// The bar holds Latest and the first PRIMARY sections by `order` on one line; the rest (and, on
+// phones, every section) live in the More menu, so new categories never wrap or hide the bar.
+const PRIMARY = 6;
+// Short labels keep the bar on one line; the More menu and category pages use the full names.
 const SHORT: Record<string, string> = { "school-calendars": "Schools", "retail-dates": "Retail", "calendar-guides": "Calendars" };
-const links = [
-  { id: "home", name: "Latest", href: "/news/" },
-  ...cats.map((c) => ({ id: c.id, name: SHORT[c.id] ?? c.data.name, href: categoryHref(c.id) })),
-  { id: "printables", name: "Printables", href: PRINTABLES_PATH },
+const all = [
+  ...cats.map((c) => ({ id: c.id, name: c.data.name, short: SHORT[c.id] ?? c.data.name, href: categoryHref(c.id) })),
+  { id: "printables", name: "Printables", short: "Printables", href: PRINTABLES_PATH },
 ];
+const main = [{ id: "home", name: "Latest", short: "Latest", href: "/news/" }, ...all.slice(0, PRIMARY)];
+const inMore = all.slice(PRIMARY).some((l) => l.id === section);
 ---
 <div class="newsbar">
   <div class="nb-in">
@@ -29,9 +33,15 @@ const links = [
       <p class="nq-status nb-sr" aria-live="polite"></p>
     </form>
     <nav class="nb-sections" aria-label="News sections">
-      <ul>
-        {links.map((l) => <li><a href={l.href} aria-current={l.id === section ? "page" : undefined}>{l.name}</a></li>)}
+      <ul class="nb-main">
+        {main.map((l) => <li><a href={l.href} aria-current={l.id === section ? "page" : undefined}>{l.short}</a></li>)}
       </ul>
+      <details class="nb-more" data-nb-more>
+        <summary class={inMore ? "is-current" : undefined}>More<svg viewBox="0 0 12 12" aria-hidden="true" width="12" height="12"><path d="M2.5 4.5 6 8l3.5-3.5" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg></summary>
+        <ul class="nb-panel">
+          {all.map((l, i) => <li class={i < PRIMARY ? "nb-dup" : undefined}><a href={l.href} aria-current={l.id === section ? "page" : undefined}>{l.name}</a></li>)}
+        </ul>
+      </details>
     </nav>
   </div>
 </div>
@@ -54,18 +64,30 @@ const links = [
   .nb-search :global([role=option][aria-selected=true] a),.nb-search :global([role=option] a:hover){background:var(--wash)}
   .nb-search :global(.nq-head){padding:.45rem .75rem .2rem;font-size:.72rem;font-weight:700;letter-spacing:.08em;text-transform:uppercase;color:var(--ink)}
   .nb-search :global(.nq-none){padding:.75rem;font-size:.95rem;color:var(--ink)}
-  .nb-sections{overflow-x:auto;scrollbar-width:none;-webkit-overflow-scrolling:touch;mask-image:linear-gradient(90deg,#000 92%,transparent)}
-  .nb-sections::-webkit-scrollbar{display:none}
-  .nb-sections ul{display:flex;gap:.25rem;margin:0;padding:0;list-style:none;white-space:nowrap}
-  .nb-sections a{display:inline-flex;align-items:center;min-height:44px;padding:0 .7rem;border-bottom:3px solid transparent;font-weight:700;font-size:.95rem;color:var(--ink-strong)!important;text-decoration:none}
-  .nb-sections a:hover{color:var(--focus)!important}
-  .nb-sections a[aria-current=page]{border-bottom-color:var(--focus);color:var(--focus)!important}
+  .nb-sections{position:relative;display:flex;align-items:center;gap:.25rem}
+  .nb-main{flex:1 1 auto;min-width:0;display:flex;gap:.25rem;margin:0;padding:0;list-style:none;white-space:nowrap;overflow-x:auto;scrollbar-width:none;-webkit-overflow-scrolling:touch;mask-image:linear-gradient(90deg,#000 88%,transparent)}
+  .nb-main::-webkit-scrollbar{display:none}
+  .nb-main a,.nb-more summary{display:inline-flex;align-items:center;min-height:44px;padding:0 .7rem;border-bottom:3px solid transparent;font-weight:700;font-size:.95rem;color:var(--ink-strong)!important;text-decoration:none}
+  .nb-main a:hover,.nb-more summary:hover{color:var(--focus)!important}
+  .nb-main a[aria-current=page],.nb-more summary.is-current{border-bottom-color:var(--focus);color:var(--focus)!important}
+  .nb-more{flex:none}
+  .nb-more summary{gap:.3rem;cursor:pointer;list-style:none;user-select:none}
+  .nb-more summary::-webkit-details-marker{display:none}
+  .nb-more summary:focus-visible{outline:3px solid var(--gold);outline-offset:-3px;border-radius:6px}
+  .nb-more svg{transition:transform .15s}
+  .nb-more[open] svg{transform:rotate(180deg)}
+  .nb-panel{position:absolute;z-index:60;top:calc(100% + .25rem);left:0;right:0;display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:.15rem;margin:0;padding:.4rem;list-style:none;background:#fff;border:1px solid var(--line);border-radius:14px;box-shadow:0 18px 40px rgba(15,23,42,.18)}
+  .nb-panel a{display:flex;align-items:center;min-height:44px;padding:0 .75rem;border-radius:10px;font-weight:700;font-size:.95rem;color:var(--ink-strong)!important;text-decoration:none}
+  .nb-panel a:hover{background:var(--wash)}
+  .nb-panel a[aria-current=page]{background:var(--wash);color:var(--focus)!important}
   @media (min-width:900px){
     .nb-in{grid-template-columns:minmax(0,1fr) clamp(220px,21vw,270px);align-items:center;gap:1rem;padding:.4rem 0}
     .nb-search{order:2}
-    .nb-sections{order:1;mask-image:none}
-    .nb-sections ul{flex-wrap:wrap;white-space:normal;row-gap:0}
-    .nb-sections a{padding:0 .55rem;font-size:.92rem;min-height:42px}
+    .nb-sections{order:1}
+    .nb-main{mask-image:none}
+    .nb-main a,.nb-more summary{padding:0 .55rem;font-size:.92rem;min-height:42px}
+    .nb-panel{left:auto;right:0;width:max-content;min-width:240px;grid-template-columns:minmax(0,1fr)}
+    .nb-panel .nb-dup{display:none}
     .nb-search input{min-height:42px}
     .nb-search [role=listbox]{left:auto;width:min(560px,calc(100vw - 2rem))}
   }

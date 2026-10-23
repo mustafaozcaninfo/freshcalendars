@@ -7,6 +7,9 @@
  * Keyboard: "/" focuses, arrows move, Enter opens, Escape closes. Picks are sent to GA4 as the
  * recommended "search" event.
  */
+/** News bar More menu (a <details>, works without JS): closes on an outside click or Escape. */
+export const MORE_MENU_JS = `(function(){var d=document.querySelector('[data-nb-more]');if(!d)return;document.addEventListener('click',function(e){if(d.open&&!d.contains(e.target))d.open=false});document.addEventListener('keydown',function(e){if(e.key==='Escape'&&d.open){d.open=false;d.querySelector('summary').focus()}})})();`;
+
 export const SEARCH_JS = `
 (function(){
   var form=document.querySelector('[data-news-search]'); if(!form) return;
