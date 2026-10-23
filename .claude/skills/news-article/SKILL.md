@@ -71,7 +71,7 @@ internalLinks:        # at least 2 calendar-site pages, never /news/
     label: "November 2026 printable calendar"
   - href: "/when-is/thanksgiving/"
     label: "When is Thanksgiving?"
-related: [<slug>, <slug>, <slug>]   # existing /news/ slugs on the same topic
+related: [<slug>, <slug>, <slug>]   # existing /news/ slugs on the same topic  (optional; similar stories fill the rest automatically)
 draft: false
 ---
 

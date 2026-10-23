@@ -300,7 +300,10 @@ check("08-SOURCES", "Every news/update article cites ≥1 primary source with a 
 
 // ── Sitemaps ───────────────────────────────────────────────────────────────
 check("02-SITEMAP", "Every indexable page is in a sitemap; no noindex page is (§02 C l.661)", () => {
-  const xml = ["post-sitemap.xml", "category-sitemap.xml", "author-sitemap.xml", "page-sitemap.xml"].map((f) => existsSync(path.join(dist, f)) ? readFileSync(path.join(dist, f), "utf8") : "").join("");
+  // Every child of the sitemap index except the 48-hour News sitemap, so a new sitemap is checked too.
+  const index = readFileSync(path.join(dist, "sitemap.xml"), "utf8");
+  const children = [...index.matchAll(/<loc>[^<]*\/news\/([^<\/]+\.xml)<\/loc>/g)].map((m) => m[1]).filter((f) => f !== "news-sitemap.xml");
+  const xml = children.map((f) => existsSync(path.join(dist, f)) ? readFileSync(path.join(dist, f), "utf8") : "").join("");
   const inMap = new Set([...xml.matchAll(/<loc>https:\/\/freshcalendars\.com([^<]+)<\/loc>/g)].map((m) => m[1]));
   const out = [];
   for (const u of urls) {

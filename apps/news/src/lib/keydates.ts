@@ -103,3 +103,30 @@ export function upcoming(published: Set<string>, limit = 6, now: Date = new Date
     .slice(0, limit)
     .map((k) => ({ ...k, days: daysUntil(k.date, today) }));
 }
+
+/** Upcoming dates (today included) reported by any of `slugs`, soonest first: a story's or a topic's own dates. */
+export function upcomingFor(slugs: Set<string>, now: Date = new Date()): (KeyDate & { days: number })[] {
+  const today = todayET(now);
+  return KEY_DATES.filter((k) => k.date >= today && slugs.has(k.slug))
+    .sort((a, b) => a.date.localeCompare(b.date) || a.label.localeCompare(b.label))
+    .map((k) => ({ ...k, days: daysUntil(k.date, today) }));
+}
+
+/** Stable event id for calendar files: the date plus a slug of the label. */
+export const keyDateUid = (k: KeyDate) => `${k.date}-${k.label.toLowerCase().replace(/[^a-z0-9]+/g, "-").replace(/^-|-$/g, "")}`;
+
+/**
+ * Cached pages: recompute "In N days" from today's date in New York for every
+ * [data-days-until="YYYY-MM-DD"] and drop the row once the date has passed. Appended to the
+ * layout's inline script, so the home page, stories and topic hubs share one copy.
+ */
+export const DAYS_JS = `
+(function(){
+  var els=document.querySelectorAll('[data-days-until]'); if(!els.length) return;
+  var today=new Intl.DateTimeFormat('en-CA',{timeZone:'America/New_York'}).format(new Date());
+  els.forEach(function(el){
+    var n=Math.round((Date.parse(el.getAttribute('data-days-until'))-Date.parse(today))/864e5);
+    if(n<0){ var li=el.closest('li'); if(li) li.remove(); } else el.textContent=n===0?'Today':n===1?'Tomorrow':'In '+n+' days';
+  });
+})();
+`;
