@@ -362,6 +362,123 @@ const keyDates = upcomingFor(new Set([article.id]));
         };
         sel.addEventListener("change", run); run(); show(lc);
       }
+
+      // Season schedule (NFL story): each "Week N" H3 is followed by a table of Day | Kickoff (ET) | Game | TV.
+      // Kickoffs become instants (EDT before Nov. 1, EST after; the season ends before March), past games
+      // dim, the next one is marked, and [data-nfl-team] lists one team's weeks with the reader's own time,
+      // the team's PDF from data-pdf and an .ics file of the dated games. "Not set" rows stay undated.
+      const nt = document.querySelector("[data-nfl-team]");
+      if (nt) {
+        const body = document.querySelector(".prose-news"), out = nt.querySelector(".tool-out"), sel = nt.querySelector("select");
+        const year0 = +nt.dataset.year;
+        const at = (day, time) => {
+          const d = /([A-Z][a-z]+)\.? (\d{1,2})/.exec(day), t = /^(\d{1,2})(?::(\d\d))? ([ap])\.m\./.exec(time);
+          if (!d || !t) return null;
+          const m = MON.findIndex((x) => x.startsWith(d[1].slice(0, 3))), y = m < 6 ? year0 + 1 : year0;
+          const h = (+t[1] % 12) + (t[3] === "p" ? 12 : 0), off = y === year0 && m < 10 ? 4 : 5;
+          return new Date(Date.UTC(y, m, +d[2], h + off, +(t[2] || 0)));
+        };
+        const weeks = [];
+        for (const h of body.querySelectorAll("h3")) {
+          const wm = /^Week (\d+)/.exec(h.textContent.trim());
+          let t = h.nextElementSibling;
+          while (t && !t.matches("table, h2, h3")) t = t.nextElementSibling;
+          if (!wm || !t || !t.matches("table")) continue;
+          const games = [...t.tBodies[0].rows].map((r) => ({ week: +wm[1], day: r.cells[0].textContent.trim(), time: r.cells[1].textContent.trim(), game: r.cells[2].textContent.trim(), tv: r.cells[3].textContent.trim(), row: r }));
+          games.forEach((g) => (g.at = at(g.day, g.time)));
+          weeks.push({ n: +wm[1], h, games });
+        }
+        const all = weeks.flatMap((w) => w.games), now = Date.now();
+        // A game counts as played four hours after kickoff.
+        const next = all.filter((g) => g.at && +g.at + 4 * 36e5 > now).sort((a, b) => a.at - b.at)[0];
+        for (const g of all) if (g.at && +g.at + 4 * 36e5 <= now) g.row.classList.add("is-past");
+        if (next) next.row.classList.add("is-next");
+        const zone = Intl.DateTimeFormat().resolvedOptions().timeZone, sameZone = zone === "America/New_York";
+        const local = (d) => d.toLocaleString("en-US", { hour: "numeric", minute: "2-digit", timeZoneName: "short" }).replace(":00", "").replace("AM", "a.m.").replace("PM", "p.m.");
+        const localDay = (d) => d.toLocaleString("en-US", { weekday: "short", month: "short", day: "numeric" });
+        const el = (tag, props, ...kids) => { const e = Object.assign(document.createElement(tag), props); e.append(...kids); return e; };
+        const jump = (row, text) => el("a", { href: "#", textContent: text, onclick: (e) => { e.preventDefault(); row.scrollIntoView({ block: "center" }); } });
+        const status = el("p", {});
+        if (next) {
+          const n = daysFrom(new Intl.DateTimeFormat("en-CA", { timeZone: "America/New_York" }).format(next.at));
+          status.append("Today is " + apDate(todayET) + ". Next kickoff: ", el("b", { textContent: next.game }), ", Week " + next.week + ", " + next.day + " at " + next.time + " ET" + (sameZone ? "" : " (" + local(next.at) + ")") + ", " + inDays(n) + ". ", jump(next.row, "Show it in the schedule"));
+        } else status.textContent = "The regular season is over.";
+        const teams = nt.dataset.teams.split(";").map((s) => s.split("|"));
+        for (const [name] of teams) sel.add(new Option(name, name));
+        const run = () => {
+          const name = sel.value, kids = [status];
+          if (name) {
+            const nick = name.split(" ").pop(), re = new RegExp("(^|[^A-Za-z0-9])" + nick + "(?![A-Za-z])");
+            const div = teams.find(([n]) => n === name)[1];
+            const rows = weeks.map((w) => ({ w: w.n, g: w.games.find((g) => re.test(g.game)) }));
+            const bye = rows.find((r) => !r.g)?.w;
+            const opp = (g) => {
+              const m = /^(.+?) (at|vs\.) (.+?)(?: \((.+)\))?$/.exec(g.game);
+              if (!m) return g.game;
+              const mine = m[1] === nick, other = mine ? m[3] : m[1];
+              return m[4] ? "vs. " + other + " in " + m[4] : mine ? "at " + other : "vs. " + other;
+            };
+            const mineNext = rows.map((r) => r.g).find((g) => g && g.at && +g.at + 4 * 36e5 > now);
+            const sum = el("p", {}, el("b", { textContent: name }), " (" + div + "). Bye: Week " + bye + ". ");
+            if (mineNext) sum.append("Next game: " + opp(mineNext) + ", " + mineNext.day + " at " + mineNext.time + " ET" + (sameZone ? "" : " (" + local(mineNext.at) + ")") + (mineNext.tv && mineNext.tv !== "Not set" ? " on " + mineNext.tv : "") + ", " + inDays(daysFrom(new Intl.DateTimeFormat("en-CA", { timeZone: "America/New_York" }).format(mineNext.at))) + ".");
+            else sum.append("No dated games left; check the weeks marked Not set.");
+            const head = ["Week", "Date", "Opponent", "Kickoff (ET)"].concat(sameZone ? [] : ["Your time"], ["TV"]);
+            const tb = el("tbody", {});
+            for (const r of rows) {
+              const g = r.g, tr = el("tr", {});
+              if (!g) { tr.append(el("td", { textContent: String(r.w) }), el("td", { textContent: "Bye week", colSpan: head.length - 1 })); tr.className = "is-bye"; }
+              else {
+                tr.append(...[String(r.w), g.day, opp(g), g.time].concat(sameZone ? [] : [g.at ? localDay(g.at) + ", " + local(g.at) : "Not set"], [g.tv]).map((t) => el("td", { textContent: t })));
+                if (g === mineNext) tr.className = "is-next"; else if (g.at && +g.at + 4 * 36e5 <= now) tr.className = "is-past";
+              }
+              tb.append(tr);
+            }
+            const table = el("table", {}, el("thead", {}, el("tr", {}, ...head.map((t) => el("th", { textContent: t })))), tb);
+            const slug = name.toLowerCase().replace(/[^a-z0-9]+/g, "-");
+            const dated = rows.map((r) => r.g).filter((g) => g && g.at);
+            const stamp = (d) => d.toISOString().replace(/[-:]/g, "").replace(/\.\d{3}/, "");
+            const ics = ["BEGIN:VCALENDAR", "VERSION:2.0", "PRODID:-//Fresh Calendars//NFL 2026//EN", "CALSCALE:GREGORIAN", "X-WR-CALNAME:" + name + " 2026"]
+              .concat(...dated.map((g) => ["BEGIN:VEVENT", "UID:nfl2026-w" + g.week + "-" + slug + "@freshcalendars.com", "DTSTAMP:" + stamp(new Date()), "DTSTART:" + stamp(g.at), "DURATION:PT3H30M", "SUMMARY:" + g.game, "DESCRIPTION:Week " + g.week + ". TV: " + g.tv + ". Kickoff times can change; check NFL.com. " + location.href.split("#")[0], "END:VEVENT"]), ["END:VCALENDAR"]).join("\r\n");
+            const icsUrl = URL.createObjectURL(new Blob([ics], { type: "text/calendar" }));
+            const btns = el("p", { className: "tool-btns" },
+              el("a", { className: "tb-main", href: nt.dataset.pdf.replace("{slug}", slug), textContent: name + " schedule (PDF, 1 page)" }),
+              el("a", { href: icsUrl, download: "2026-nfl-" + slug + "-schedule.ics", textContent: "Add " + dated.length + " games to my calendar (.ics)" }));
+            const undated = rows.filter((r) => r.g && !r.g.at).length;
+            kids.push(sum, table, btns);
+            if (undated) kids.push(el("p", { className: "tool-note", textContent: undated + " game" + (undated === 1 ? " has" : "s have") + " no date or time yet, so the calendar file leaves " + (undated === 1 ? "it" : "them") + " out. Download it again once the NFL sets them." }));
+          }
+          out.replaceChildren(...kids);
+          try { name ? localStorage.setItem("nfl-team", name) : localStorage.removeItem("nfl-team"); } catch {}
+        };
+        try { const saved = localStorage.getItem("nfl-team"); if (saved && teams.some(([n]) => n === saved)) sel.value = saved; } catch {}
+        sel.addEventListener("change", run); run(); show(nt);
+      }
+
+      // Printable picker: data-files lists "what|paper|ink|pdf|pages|tip;..." for the story's downloads.
+      // Each choice narrows the next one, so the reader only sees combinations that exist.
+      const pp = document.querySelector("[data-pdf-picker]");
+      if (pp) {
+        const files = pp.dataset.files.split(";").map((s) => s.split("|"));
+        const [what, paper, ink] = pp.querySelectorAll("select"), out = pp.querySelector(".tool-out");
+        const fill = (s, vals) => { const keep = s.value; s.replaceChildren(...vals.map((v) => new Option(v, v))); if (vals.includes(keep)) s.value = keep; };
+        const uniq = (a) => [...new Set(a)];
+        fill(what, uniq(files.map((f) => f[0])));
+        const run = () => {
+          fill(paper, uniq(files.filter((f) => f[0] === what.value).map((f) => f[1])));
+          fill(ink, uniq(files.filter((f) => f[0] === what.value && f[1] === paper.value).map((f) => f[2])));
+          paper.disabled = paper.options.length < 2; ink.disabled = ink.options.length < 2;
+          const f = files.find((x) => x[0] === what.value && x[1] === paper.value && x[2] === ink.value);
+          out.replaceChildren(
+            Object.assign(document.createElement("p"), { className: "tool-btns" }),
+            Object.assign(document.createElement("p"), { textContent: f[5] }),
+          );
+          const b = out.firstChild;
+          b.append(Object.assign(document.createElement("a"), { className: "tb-main", href: f[3], textContent: "Download PDF · " + f[4] + (f[4] === "1" ? " page" : " pages") + " · " + f[1] }),
+            Object.assign(document.createElement("a"), { href: f[3].replace(/\.pdf$/, ".png"), textContent: "PNG preview of page 1" }));
+        };
+        for (const s of [what, paper, ink]) s.addEventListener("change", run);
+        run(); show(pp);
+      }
     })();
   </script>
 </NewsBase>
@@ -426,6 +543,18 @@ const keyDates = upcomingFor(new Set([article.id]));
   .prose-news :global(.lc-digits span){flex:1 1 4.5rem;display:flex;flex-direction:column;align-items:center;padding:.4rem .2rem;border-radius:8px;background:var(--n-brand-soft);font-size:.8rem;font-weight:700;text-transform:uppercase;letter-spacing:.06em;color:var(--ink-strong)}
   .prose-news :global(.lc-digits b){font-family:Sora,"Sora Fallback",sans-serif;font-size:clamp(1.7rem,7vw,2.5rem);line-height:1.1;letter-spacing:0;text-transform:none}
   .prose-news :global(.lc-digits.lc-done){display:block;font-weight:800;font-size:1.2rem}
+  /* Team finder and printable picker: link buttons under the answer; the picker's three choices sit in a row. */
+  .prose-news :global(.tool-out .tool-btns){display:flex;flex-wrap:wrap;gap:.5rem;padding:0;background:none;border:0}
+  .prose-news :global(.tool-btns a){display:inline-flex;align-items:center;min-height:44px;padding:0 1rem;border:1px solid var(--focus);border-radius:8px;background:#fff;color:var(--focus);font-weight:700;font-size:.95rem;text-decoration:none}
+  .prose-news :global(.tool-btns a.tb-main){background:var(--focus);color:#fff}
+  .prose-news :global(.tool-btns a:hover){box-shadow:0 4px 10px rgba(0,74,127,.2)}
+  .prose-news :global(.tool-out .tool-note){font-size:.92rem;color:var(--ink)}
+  .prose-news :global(tbody tr.is-bye td){background:#eef2f7;font-weight:700}
+  .prose-news :global(.pick-row){display:grid;grid-template-columns:repeat(auto-fit,minmax(10rem,1fr));gap:0 .75rem}
+  .prose-news :global(.pick-row > div:first-child){grid-column:1/-1}
+  .prose-news :global(.pick-row > div:first-child select){max-width:none}
+  .prose-news :global([data-nfl-team] .tool-out td:nth-child(2)){white-space:nowrap}
+  .prose-news :global(.tool-box select:disabled){opacity:.75;cursor:default}
   /* tbody in the selector so highlights beat the zebra stripe on even rows. */
   .prose-news :global(tbody tr.is-next td){background:#fff7d6;font-weight:700}
   .prose-news :global(tbody tr.is-past td){color:#6b7280}

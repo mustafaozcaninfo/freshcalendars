@@ -3,23 +3,26 @@ import { Image } from "astro:assets";
 import type { ImageMetadata } from "astro";
 interface Item {
   group: string; title: string; description: string; preview: ImageMetadata; alt: string;
-  pdf: string; png: string; pages: number; paper: string;
+  pdf: string; png: string; pages: number; paper: string; compact: boolean;
 }
 interface Props { items: Item[]; pageUrl: string }
 const { items, pageUrl } = Astro.props;
 // "Save" pins the printable itself (its full-page PNG) and links the Pin back to this story.
 const pin = (i: Item) => `https://www.pinterest.com/pin/create/button/?url=${encodeURIComponent(pageUrl)}&media=${encodeURIComponent(new URL(i.png, pageUrl).href)}&description=${encodeURIComponent(`${i.title}: free printable PDF`)}`;
 const groups = [...new Set(items.map((i) => i.group))];
+const papers = [...new Set(items.map((i) => i.paper))];
+const paperNote = papers.length === 1 ? `prints on ${papers[0]} paper` : `names its paper size (${papers.join(", ")})`;
+const groupId = (g: string) => "dl-" + g.toLowerCase().replace(/[^a-z0-9]+/g, "-").replace(/^-|-$/g, "");
 ---
 {items.length > 0 && (
   <section class="downloads" id="downloads" aria-labelledby="downloads-title">
     <h2 id="downloads-title">Free printable downloads</h2>
-    <p class="intro">Every template is free, needs no sign-up and prints on {items[0]!.paper} paper. Choose PDF for printing or PNG for screens and documents.</p>
+    <p class="intro">Every template is free, needs no sign-up and {paperNote}. Choose PDF for printing or PNG for screens and documents.</p>
     {groups.map((g) => (
       <>
-        <h3>{g}</h3>
+        <h3 id={groupId(g)}>{g}</h3>
         <ul>
-          {items.filter((i) => i.group === g).map((i) => (
+          {items.filter((i) => i.group === g && !i.compact).map((i) => (
             <li>
               <a class="thumb" href={i.pdf} title={`Download ${i.title} (PDF)`}>
                 <Image src={i.preview} alt={i.alt} title={i.title} widths={[280, 420, 560]} sizes="(max-width: 600px) 45vw, 220px" format="webp" loading="lazy" decoding="async" />
@@ -37,6 +40,17 @@ const groups = [...new Set(items.map((i) => i.group))];
             </li>
           ))}
         </ul>
+        {items.some((i) => i.group === g && i.compact) && (
+          <ul class="compact">
+            {items.filter((i) => i.group === g && i.compact).map((i) => (
+              <li>
+                <span class="ct">{i.title}</span>
+                <a class="btn pdf" href={i.pdf} download type="application/pdf" aria-label={`Download ${i.title} (PDF)`}>PDF</a>
+                <a class="btn png" href={i.png} download type="image/png" aria-label={`Download ${i.title} (PNG)`}>PNG</a>
+              </li>
+            ))}
+          </ul>
+        )}
       </>
     ))}
   </section>
@@ -64,4 +78,11 @@ const groups = [...new Set(items.map((i) => i.group))];
   .btn.pin:hover{background:#BD081C;color:#fff}
   .btn.pin:hover svg{fill:#fff}
   .btn:focus-visible{outline:3px solid var(--gold);outline-offset:2px}
+  .downloads ul:empty{display:none}
+  /* Compact sets: a dense two-column list of file links, no thumbnails. */
+  .downloads ul.compact{grid-template-columns:repeat(auto-fill,minmax(270px,1fr));gap:.5rem;margin:1rem 0}
+  .downloads ul.compact li{display:flex;align-items:center;gap:.4rem;padding:.35rem .5rem .35rem .75rem}
+  .downloads ul.compact li:hover{transform:none}
+  .ct{flex:1;font-weight:700;font-size:.92rem;line-height:1.25;color:var(--ink-strong)}
+  .compact .btn{min-height:40px;padding:0 .7rem;font-size:.85rem}
 </style>

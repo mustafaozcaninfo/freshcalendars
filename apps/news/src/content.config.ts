@@ -86,6 +86,8 @@ const articles = defineCollection({
               png: z.string().regex(/^\/news\/downloads\/[a-z0-9\-/]+\.png$/),
               pages: z.number().int().min(1),
               paper: z.string().default("US Letter"),
+              /** One line per file, no thumbnail: long same-format sets (one sheet per team). */
+              compact: z.boolean().default(false),
             }),
           )
           .default([]),
