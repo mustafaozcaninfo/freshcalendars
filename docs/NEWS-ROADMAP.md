@@ -418,6 +418,7 @@ AdSense yüklendiğinde Best Practices üçüncü-taraf çerez/konsol uyarılar�
   2. nginx: `/root/nginx-backup-20261018-075516` ve `-075623` yedekleri alındı, `hestia-apply-nginx-cache.sh` uygulandı (`nginx -t` OK). Origin’de ana sayfalar 200; `/news/*` nginx’ten, `error_page 404 /news/404.html` (yeni news 404 sayfası, kısa TTL).
   3. Cloudflare: yalnız Cache Rules PUT (2 kural: site geneli 31 gün + `/news/*` 600 s). Zone ayarları **değiştirilmedi** — script’teki minify (css/js on) canlıdaki “hepsi off” ile çelişiyordu; script canlı değere hizalandı. Ana sayfalar `cf-cache-status: HIT` (purge yapılmadı); `/news/` 404 `max-age=300` + `CDN-Cache-Control 600`.
   4. **Bekleyen (N9):** ilk `news-publish` ve `NEWS_CRON=1 install-crontab.sh`; `NEWS_LAUNCHED=true`.
+- **2026-10-23:** 15 dk'lık `news-publish` cron'unu kapatma kararı (zamanlanmış yazı yok; VPS'te `install-crontab.sh` yeniden çalıştırılınca uygulanır); yayın yalnız `pnpm news:deploy` ile. Yeniden açmak: VPS'te `NEWS_CRON=1 bash scripts/install-crontab.sh`.
 - (eski plan) **Production adımları:** 1) `sync-app.sh` (kod + apps/news + pnpm install), 2) VPS’te `hestia-apply-nginx-cache.sh` (`nginx -t` + reload), 3) `cf-cache-optimize.sh` (zone ayarları + 2 kuralı PUT), 4) ilk `news-publish` ve `NEWS_CRON=1 install-crontab.sh` — 4. adım `/news/`’i canlıya açar (şu an tüm örnekler taslak → boş liste); N9 lansmanına kadar bekletilmesi önerilir.
 
 ### Faz N8 — Güven sayfaları ve iç link (1 gün)

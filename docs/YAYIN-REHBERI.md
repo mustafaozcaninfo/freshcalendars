@@ -43,10 +43,20 @@ Sadece `apps/news/src/content`, `apps/news/src/assets` ve `apps/news/public` (pr
 | Build hatası, "does not match collection schema" | Yazının üst bilgisi (başlık en fazla 110 karakter, açıklama 120-160) hatalı. Editöre geri gönder; hiçbir şey yayınlanmadı. |
 | `news:seo-audit` FAIL | Kural ihlali (kısaltma açılmamış, yasaklı kelime, PDF metadatası). Editöre geri gönder. |
 | En sonda `curl` hatası (ör. exit code 35) ama öncesinde `changed=` ve `purge ok` var | Yayın tamamlandı; sadece son kontrol bir anlık bağlantı hatası verdi. Sayfayı tarayıcıda aç, açılıyorsa sorun yok. |
-| Yazı sitede görünmüyor | `publishedAt` gelecekte olabilir. VPS her 15 dakikada yeniden yayınlar; saat geldiğinde kendiliğinden çıkar. |
+| Yazı sitede görünmüyor | `publishedAt` gelecekte olabilir. Zamanlanmış yayın şu an kapalı (15 dakikalık cron yok): saat geldikten sonraki ilk `pnpm news:deploy` ile çıkar. |
 | Uyarı e-postasında `stampPdf` ve `ENOENT` / `open` hatası | Yazının listelediği bir PDF sunucuda yok (eskiden hızlı mod PDF göndermiyordu). Normal `pnpm news:deploy` çalıştır. |
 | `git pull` çakışma verdi | Kendi Mac'inde commit etmediğin değişiklik vardır. `git status` ile bak; emin değilsen bana sor. |
 | Yanlış bir şey yayınlandı | `git revert <commit>` ile geri al, sonra `pnpm news:deploy`. Gerekirse `git push origin main`. |
+
+## Zamanlanmış yayın (şu an kapalı)
+
+VPS'teki 15 dakikalık `news-publish` cron'u 2026-10-23'te kapatılmasına karar verildi; /news/ yalnızca `pnpm news:deploy` ile yayınlanır. Kapatmak (veya kapalı tutmak) için VPS'te:
+
+```bash
+bash /home/yuzdehesaplama/private/freshcalendars-app/scripts/install-crontab.sh
+```
+
+`NEWS_CRON=1` olmadan çalışınca crontab'daki news satırını kaldırır, takvim işleri aynen kalır. Geri açmak için başına `NEWS_CRON=1` ekle.
 
 ## Hızlı kontroller
 

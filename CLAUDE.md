@@ -52,7 +52,7 @@ Do not run Lighthouse (`news:lighthouse`, `smoke:lighthouse`). The goal is fast,
 | `title` | 20 to 110 characters, equals the H1 |
 | `seoTitle` | 20 to 60 characters |
 | `description` | 120 to 160 characters |
-| `publishedAt` / `updatedAt` | ISO with offset, America/New_York (`2026-10-21T09:30:00-04:00`), never in the future (the build fails on a future `updatedAt` or correction date; a future `publishedAt` schedules the story) |
+| `publishedAt` / `updatedAt` | ISO with offset, America/New_York (`2026-10-21T09:30:00-04:00`), never in the future (the build fails on a future `updatedAt` or correction date; scheduled publishing is off, so a future `publishedAt` only hides the story until the next deploy after that time) |
 | `keywords` | 1 to 5 |
 | `summary` | 2 to 4 bullets |
 | `type` | `news`, `explainer`, `analysis` or `update` (`news` and `update` need sources) |

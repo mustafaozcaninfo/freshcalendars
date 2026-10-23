@@ -11,7 +11,7 @@ const RESERVED = new Set<string>(["page", "category", "author", "topic", "printa
 
 /**
  * Articles that may be rendered: no drafts in production builds and nothing
- * scheduled for later than `now` (the VPS cron rebuild picks those up).
+ * scheduled for later than `now` (they go live with the first deploy after that time; the 15-min VPS cron is off since 2026-10-23).
  * Dev server shows drafts so they can be reviewed.
  */
 export async function getPublishedArticles(now: Date = new Date()): Promise<Article[]> {
