@@ -1,0 +1,108 @@
+FRESH CALENDARS — 2026 NFL PRODUCTION QA
+Actual verification date: 2026-10-23 (23 October 2026).
+Release status: PASS for digital schedule data, PDF content/layout and WebP integrity.
+
+DATA CHECKS — PASS
+32 unique teams; 18 regular-season weeks; 272 unique games.
+576 unique team-week slots; 17 games and 1 bye per team.
+Every game has 1 home and 1 away team; no self-matchups.
+All 272 games reconciled with BOTH participating teams' official NFL.com schedule pages.
+All home/away roles, week numbers, dates, UTC kickoff timestamps and US TV channels agree.
+All byes match the official NFL week-selector bye records.
+No duplicated team-week slots, games, invalid team abbreviations or missing slots.
+Arizona code normalized from official AZ to familiar ARI; Washington uses WAS.
+272 unique weekly listings per weekly edition; 544 game appearances per team-pack edition.
+Scores and predictions are blank throughout. No scores were invented or prefilled.
+Times converted from official UTC timestamps to America/New_York with DST, labelled ET.
+24 games have officially unannounced date/time; they remain TBD.
+For past games with no FINAL summary in this source response, the weekly edition says
+PAST DATE rather than asserting an unverified result. PLAYED is used only with FINAL.
+Neutral-site games retain designated home/away roles and are flagged in detailed schedules.
+Weekly PDF shows verified US English TV channels; CSV preserves all returned TV channels.
+
+FINAL PDF CHECKS — PASS
+Actual PDF text was re-extracted from every grid cell, weekly matchup and team row.
+It matches the canonical dataset; dates and times agree in weekly/team PDFs.
+32 individual team PDFs match the corresponding pack pages in both text and rendered pixels.
+Page dimensions, page counts, text boundaries, missing glyphs and embedded used fonts checked.
+All print layouts use selectable vector text and vector rules, not a screenshot background.
+Ink-saver editions: every 300-DPI rendered pixel checked for equal R/G/B; grayscale-only PASS.
+All primary PDF pages rendered to PNG at 300 DPI. Dense pocket QA render also supplied at 600 DPI.
+All primary pages reviewed in four-page boards; full-page renders and all-page contact sheets retained.
+Visual issues found during production (header spacing and division-label overlays) were corrected
+and the relevant PDFs regenerated before their preview exports.
+
+WEBP CHECKS — PASS
+Web previews exported only from final PDF page-1 renders after PDF review.
+13 web previews at up to 2200 px on long edge; 13 matching 300-DPI-equivalent archival images.
+Lossless WebP, opaque page backgrounds, sRGB ICC profiles, successful full decoding.
+All web previews visually reviewed; archival pixels match their approved 300-DPI PDF renders.
+WebP is a preview, not a vector print master.
+
+REFERENCE COMPARISON
+Both reference PDFs: all 576 cells per PDF compared after notation normalization.
+One PDF discrepancy: 2026-27-nfl-schedule.pdf, CIN Week 9, ATL should be @ATL.
+Official weekly and both team pages resolve the discrepancy; output uses @ATL.
+The screenshot was visually compared only; representative errors are documented separately.
+It was not used to populate schedule data. No claim of exhaustive OCR comparison is made.
+
+SOURCE ACCESS LIMITATION
+The requested operations.nfl.com/gameday/nfl-schedule/2026-regular-season-schedule/
+was unavailable through the research tool. The schedule overview redirected to /schedules.
+Verification instead used the corresponding 18 official NFL weekly pages and 32 official
+NFL team pages listed below. No inaccessible source was claimed as verified.
+
+UNRESOLVED DATA/LAYOUT ISSUES: None found by the checks performed.
+Schedule may change after the verification date. Recheck official listings before use.
+
+OFFICIAL SOURCE URLS ACTUALLY ACCESSED
+https://www.nfl.com/schedules/2026/by-week/week-1
+https://www.nfl.com/schedules/2026/by-week/week-2
+https://www.nfl.com/schedules/2026/by-week/week-3
+https://www.nfl.com/schedules/2026/by-week/week-4
+https://www.nfl.com/schedules/2026/by-week/week-5
+https://www.nfl.com/schedules/2026/by-week/week-6
+https://www.nfl.com/schedules/2026/by-week/week-7
+https://www.nfl.com/schedules/2026/by-week/week-8
+https://www.nfl.com/schedules/2026/by-week/week-9
+https://www.nfl.com/schedules/2026/by-week/week-10
+https://www.nfl.com/schedules/2026/by-week/week-11
+https://www.nfl.com/schedules/2026/by-week/week-12
+https://www.nfl.com/schedules/2026/by-week/week-13
+https://www.nfl.com/schedules/2026/by-week/week-14
+https://www.nfl.com/schedules/2026/by-week/week-15
+https://www.nfl.com/schedules/2026/by-week/week-16
+https://www.nfl.com/schedules/2026/by-week/week-17
+https://www.nfl.com/schedules/2026/by-week/week-18
+https://www.nfl.com/schedules/2026/by-team/arizona-cardinals
+https://www.nfl.com/schedules/2026/by-team/atlanta-falcons
+https://www.nfl.com/schedules/2026/by-team/baltimore-ravens
+https://www.nfl.com/schedules/2026/by-team/buffalo-bills
+https://www.nfl.com/schedules/2026/by-team/carolina-panthers
+https://www.nfl.com/schedules/2026/by-team/chicago-bears
+https://www.nfl.com/schedules/2026/by-team/cincinnati-bengals
+https://www.nfl.com/schedules/2026/by-team/cleveland-browns
+https://www.nfl.com/schedules/2026/by-team/dallas-cowboys
+https://www.nfl.com/schedules/2026/by-team/denver-broncos
+https://www.nfl.com/schedules/2026/by-team/detroit-lions
+https://www.nfl.com/schedules/2026/by-team/green-bay-packers
+https://www.nfl.com/schedules/2026/by-team/houston-texans
+https://www.nfl.com/schedules/2026/by-team/indianapolis-colts
+https://www.nfl.com/schedules/2026/by-team/jacksonville-jaguars
+https://www.nfl.com/schedules/2026/by-team/kansas-city-chiefs
+https://www.nfl.com/schedules/2026/by-team/las-vegas-raiders
+https://www.nfl.com/schedules/2026/by-team/los-angeles-chargers
+https://www.nfl.com/schedules/2026/by-team/los-angeles-rams
+https://www.nfl.com/schedules/2026/by-team/miami-dolphins
+https://www.nfl.com/schedules/2026/by-team/minnesota-vikings
+https://www.nfl.com/schedules/2026/by-team/new-england-patriots
+https://www.nfl.com/schedules/2026/by-team/new-orleans-saints
+https://www.nfl.com/schedules/2026/by-team/new-york-giants
+https://www.nfl.com/schedules/2026/by-team/new-york-jets
+https://www.nfl.com/schedules/2026/by-team/philadelphia-eagles
+https://www.nfl.com/schedules/2026/by-team/pittsburgh-steelers
+https://www.nfl.com/schedules/2026/by-team/san-francisco-49ers
+https://www.nfl.com/schedules/2026/by-team/seattle-seahawks
+https://www.nfl.com/schedules/2026/by-team/tampa-bay-buccaneers
+https://www.nfl.com/schedules/2026/by-team/tennessee-titans
+https://www.nfl.com/schedules/2026/by-team/washington-commanders
