@@ -4,6 +4,7 @@ seoTitle: "Thanksgiving 2026 TV Schedule: Macy's Parade, NFL"
 description: "The 100th Macy's parade airs Thu., Nov. 26 at 8:30 a.m. on NBC. Five National Football League (NFL) games run Nov. 25-27. Times, channels and a printable."
 type: news
 publishedAt: "2026-10-22T12:55:00-04:00"
+updatedAt: "2026-10-24T01:40:00-04:00"
 authors: [news-desk]
 category: holidays
 keywords: ["Thanksgiving 2026 TV schedule", "Macy's Thanksgiving Day Parade 2026", "NFL Thanksgiving games 2026", "what channel is the Macy's parade on", "Thanksgiving Eve game 2026"]
@@ -21,7 +22,7 @@ assets:
     layout: list
     columns: ["When", "What and where to watch"]
     rows:
-      - ["Wed., Nov. 25, 8 p.m.", "Packers at Rams, first NFL Thanksgiving Eve game · Netflix"]
+      - ["Wed., Nov. 25, 8 p.m.", "Packers at Rams, first NFL Thanksgiving Eve game, U2 halftime · Netflix"]
       - ["Thu., Nov. 26, 8:30 a.m.", "100th Macy's Thanksgiving Day Parade, 8:30 a.m. in every time zone · NBC, Peacock, Telemundo"]
       - ["Thu., Nov. 26, 8:45 a.m.", "America's Thanksgiving Parade steps off in Detroit, its 100th parade"]
       - ["Thu., Nov. 26, 1 p.m.", "Bears at Lions · CBS, Paramount+, NFL+"]
@@ -67,6 +68,9 @@ sources:
   - title: "2026 NFL schedule release: Rams to host Packers in inaugural Thanksgiving Eve game on Netflix"
     url: "https://www.nfl.com/news-migrated-v2/packers-rams-thanksgiving-eve-netflix-2026-nfl-schedule-release"
     publisher: "NFL.com"
+  - title: "U2 to headline halftime of NFL's first-ever Thanksgiving Eve Gameday live on Netflix"
+    url: "https://www.nfl.com/news/u2-to-headline-halftime-of-nfl-s-first-ever-thanksgiving-eve-gameday-live-on-netflix"
+    publisher: "NFL.com"
   - title: "America's Most-Watched Entertainment Telecast of the Year, Macy's Thanksgiving Day Parade, Returns Live on NBC"
     url: "https://www.nbcuniversal.com/article/americas-most-watched-entertainment-telecast-year-macys-thanksgiving-day-parader-returns-live-nbc"
     publisher: "NBCUniversal"
@@ -104,6 +108,8 @@ downloads:
     pages: 1
 draft: false
 ---
+
+<p class="callout"><b>Updated Sat., Oct. 24, 2026.</b> The NFL has announced that U2 will headline the halftime show of the Thanksgiving Eve game, Packers at Rams, on Wednesday, Nov. 25, live on Netflix. The Thanksgiving Day halftime performers have not been announced.</p>
 
 **The 100th Macy's Thanksgiving Day Parade airs on Thursday, Nov. 26, 2026, starting at 8:30 a.m. in all time zones on NBC and Peacock.** Telemundo carries it in Spanish. Around it, the National Football League (NFL) has packed five games into three days, including its first game on Thanksgiving Eve.
 
@@ -149,7 +155,7 @@ NBC has not announced the 2026 hosts or musical acts. Last year's broadcast was 
 
 ### Wednesday, Nov. 25: the first Thanksgiving Eve game
 
-The Green Bay Packers visit the Los Angeles Rams at SoFi Stadium at 8 p.m. ET, streaming on Netflix. NFL.com calls it the league's inaugural Thanksgiving Eve game. In Los Angeles, kickoff is 5 p.m. Pacific Time.
+The Green Bay Packers visit the Los Angeles Rams at SoFi Stadium at 8 p.m. ET, streaming on Netflix. NFL.com calls it the league's inaugural Thanksgiving Eve game. In Los Angeles, kickoff is 5 p.m. Pacific Time. U2 will headline the halftime show, the NFL says, in a performance produced by Jesse Collins Entertainment. The Thanksgiving Day halftime performers have not been announced.
 
 ### Thursday, Nov. 26: the tripleheader
 

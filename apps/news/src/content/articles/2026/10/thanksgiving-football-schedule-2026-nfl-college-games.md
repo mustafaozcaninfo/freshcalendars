@@ -4,7 +4,11 @@ seoTitle: "Thanksgiving Football 2026: NFL and College Games"
 description: "Every Thanksgiving weekend 2026 football game, Wed., Nov. 25 to Sat., Nov. 28, in one Eastern Time (ET) table: National Football League (NFL) and college."
 type: news
 publishedAt: "2026-10-23T15:00:00-04:00"
+updatedAt: "2026-10-24T01:40:00-04:00"
 authors: [news-desk]
+corrections:
+  - date: "2026-10-24T01:40:00-04:00"
+    text: "An earlier version said no Thanksgiving week halftime performers had been announced. The NFL had announced U2 for the Thanksgiving Eve game."
 category: holidays
 keywords: ["Thanksgiving football schedule 2026", "college football Thanksgiving weekend 2026", "Black Friday football games 2026", "rivalry week 2026 schedule"]
 dateline: "New York"
@@ -22,7 +26,7 @@ assets:
     layout: list
     columns: ["When (ET)", "Game and where to watch"]
     rows:
-      - ["Wed., Nov. 25, 8 p.m.", "Packers at Rams, NFL Thanksgiving Eve · Netflix"]
+      - ["Wed., Nov. 25, 8 p.m.", "Packers at Rams, NFL Thanksgiving Eve, U2 halftime · Netflix"]
       - ["Thu., Nov. 26, 1 p.m.", "Bears at Lions, NFL · CBS"]
       - ["Thu., Nov. 26, 4:30 p.m.", "Eagles at Cowboys, NFL · FOX"]
       - ["Thu., Nov. 26, 8:20 p.m.", "Chiefs at Bills, NFL · NBC"]
@@ -65,6 +69,9 @@ sources:
     publisher: "NFL.com"
   - title: "2026 NFL schedule release: Rams to host Packers in inaugural Thanksgiving Eve game on Netflix"
     url: "https://www.nfl.com/news-migrated-v2/packers-rams-thanksgiving-eve-netflix-2026-nfl-schedule-release"
+    publisher: "NFL.com"
+  - title: "U2 to headline halftime of NFL's first-ever Thanksgiving Eve Gameday live on Netflix"
+    url: "https://www.nfl.com/news/u2-to-headline-halftime-of-nfl-s-first-ever-thanksgiving-eve-gameday-live-on-netflix"
     publisher: "NFL.com"
   - title: "Egg Bowl Game Time Announced"
     url: "https://hailstate.com/news/2026/5/12/football-egg-bowl-game-time-announced"
@@ -123,6 +130,8 @@ downloads:
 draft: false
 ---
 
+<p class="callout"><b>Updated Sat., Oct. 24, 2026.</b> The NFL has announced that U2 will headline the halftime show of the first Thanksgiving Eve game, Packers at Rams, on Wednesday, Nov. 25, live on Netflix. The Thanksgiving Day halftime performers have not been announced.</p>
+
 **Thanksgiving weekend 2026 runs four days of football, from Wednesday, Nov. 25 to Saturday, Nov. 28, and this story puts every game, professional and college, in one Eastern Time (ET) table.** The National Football League (NFL) owns Thursday; college football takes over on Friday and Saturday.
 
 Where a source gives a Central Time (CT) kickoff, both times are shown. Two of the college games air on the American Broadcasting Company (ABC). Kickoffs marked "to be announced" are set by the television networks closer to the date.
@@ -147,7 +156,7 @@ Where a source gives a Central Time (CT) kickoff, both times are shown. Two of t
 
 The NFL stacks five games across three days. For the first time, it plays on Thanksgiving Eve: the Green Bay Packers visit the Los Angeles Rams at SoFi Stadium at 8 p.m. ET on Wednesday, Nov. 25, streaming on Netflix. Thanksgiving Day keeps its tripleheader, with Bears at Lions at 1 p.m., Eagles at Cowboys at 4:30 p.m. and Chiefs at Bills at 8:20 p.m. The Denver Broncos play the Pittsburgh Steelers at 3 p.m. ET on Black Friday, Nov. 27, on Prime Video.
 
-Those are the facts the league confirmed in its 2026 schedule release. For the parade, channels, streaming services and Thanksgiving Day viewing order, see our [Thanksgiving 2026 TV schedule](/news/thanksgiving-2026-tv-schedule-macys-parade-nfl-games/). The halftime performers have not been announced. If you want the full season on paper, our [printable 2026-27 NFL schedule](/news/printable-nfl-schedule-2026-2027-pdf/) covers every week.
+Those are the facts the league confirmed in its 2026 schedule release. For the parade, channels, streaming services and Thanksgiving Day viewing order, see our [Thanksgiving 2026 TV schedule](/news/thanksgiving-2026-tv-schedule-macys-parade-nfl-games/). U2 will headline the halftime show of the Thanksgiving Eve game, Packers at Rams, live on Netflix, the NFL says; the show is produced by Jesse Collins Entertainment. The Thanksgiving Day halftime performers have not been announced. If you want the full season on paper, our [printable 2026-27 NFL schedule](/news/printable-nfl-schedule-2026-2027-pdf/) covers every week.
 
 ## College football on Thanksgiving Day
 

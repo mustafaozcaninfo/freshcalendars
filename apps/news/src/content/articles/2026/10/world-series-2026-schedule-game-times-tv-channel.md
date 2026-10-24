@@ -1,9 +1,10 @@
 ---
-title: "World Series 2026 Schedule: Game Times, TV Channel and How to Watch Brewers vs. Rays From Oct. 23"
-seoTitle: "World Series 2026 Schedule, Game Times and TV Channel"
-description: "The 2026 World Series opens Friday, Oct. 23, Rays at Brewers, 8 p.m. Eastern Time (ET) on FOX. Every game date, start time, stream and radio option."
+title: "World Series 2026 Schedule: Brewers Lead Rays 1-0, Game 2 Saturday, Oct. 24, Game Times and TV Channel"
+seoTitle: "World Series 2026: Brewers Lead 1-0, Game Times, TV"
+description: "The Brewers lead the 2026 World Series 1-0 after a 3-2 Game 1 win over the Rays. Game 2 is Saturday, Oct. 24, at 8 p.m. Eastern Time (ET) on FOX. Full schedule."
 type: news
 publishedAt: "2026-10-21T05:45:00-04:00"
+updatedAt: "2026-10-24T01:40:00-04:00"
 authors: [news-desk]
 category: planning
 keywords: ["World Series 2026 schedule", "World Series game times", "what channel is the World Series on", "Brewers vs Rays World Series", "World Series Game 1 time"]
@@ -14,7 +15,7 @@ hero:
   title: "World Series 2026 schedule, game times and TV channel"
   caption: "Game 1 of the 2026 World Series is Friday, Oct. 23, at 8 p.m. ET in Milwaukee. Every game airs on FOX."
 summary:
-  - "The Milwaukee Brewers host the Tampa Bay Rays in Game 1 on Friday, Oct. 23, at American Family Field. Every game starts at 8 p.m. ET."
+  - "The Milwaukee Brewers lead the series 1-0 after beating the Tampa Bay Rays 3-2 in Game 1 on Friday, Oct. 23. Game 2 is Saturday, Oct. 24. Every game starts at 8 p.m. ET."
   - "FOX televises all seven games, which stream on FOX One. FOX Deportes carries every game in Spanish, Univision airs Game 1, and ESPN Radio has the national radio call."
   - "Milwaukee holds home-field advantage with the better record, 103-59 to 98-64, so it hosts Games 1, 2, 6 and 7. Games 5, 6 and 7 are played only if needed."
   - "A Game 7 would fall on Saturday, Oct. 31, Halloween night, hours before clocks fall back on Sunday, Nov. 1."
@@ -74,19 +75,21 @@ downloads:
 draft: false
 ---
 
-**The 2026 World Series starts Friday, Oct. 23, when the Milwaukee Brewers host the Tampa Bay Rays at American Family Field at 8 p.m. Eastern Time (ET).** Major League Baseball (MLB) has set every game of the best-of-seven series for 8 p.m. ET, and FOX televises all of them. Milwaukee has home-field advantage, so the series opens with two games there before moving to Tampa Bay for three. Below: the full schedule, every way to watch or listen, how both teams got here, and a free printable score tracker.
+<p class="callout"><b>Updated Sat., Oct. 24, 2026.</b> Milwaukee leads the series 1-0 after a 3-2 win in Game 1 on Friday, Oct. 23. Game 2 is tonight, Saturday, Oct. 24, at 8 p.m. ET on FOX, in Milwaukee. Source: Major League Baseball.</p>
+
+**The Milwaukee Brewers lead the 2026 World Series 1-0 after beating the Tampa Bay Rays 3-2 in Game 1 on Friday, Oct. 23. Game 2 is Saturday, Oct. 24, at 8 p.m. Eastern Time (ET) on FOX.** Major League Baseball (MLB) has set every game of the best-of-seven series for 8 p.m. ET, and FOX televises all of them. Milwaukee has home-field advantage, so the series opens with two games there before moving to Tampa Bay for three. Below: the full schedule, every way to watch or listen, how both teams got here, and a free printable score tracker.
 
 ## World Series 2026 schedule
 
-| Game | Date | Home team | Start (ET) | TV |
-|---|---|---|---|---|
-| 1 | Friday, Oct. 23 | Brewers | 8 p.m. | FOX |
-| 2 | Saturday, Oct. 24 | Brewers | 8 p.m. | FOX |
-| 3 | Monday, Oct. 26 | Rays | 8 p.m. | FOX |
-| 4 | Tuesday, Oct. 27 | Rays | 8 p.m. | FOX |
-| 5* | Wednesday, Oct. 28 | Rays | 8 p.m. | FOX |
-| 6* | Friday, Oct. 30 | Brewers | 8 p.m. | FOX |
-| 7* | Saturday, Oct. 31 | Brewers | 8 p.m. | FOX |
+| Game | Date | Home team | Start (ET) | TV | Result |
+|---|---|---|---|---|---|
+| 1 | Friday, Oct. 23 | Brewers | 8 p.m. | FOX | Brewers 3, Rays 2 |
+| 2 | Saturday, Oct. 24 | Brewers | 8 p.m. | FOX | - |
+| 3 | Monday, Oct. 26 | Rays | 8 p.m. | FOX | - |
+| 4 | Tuesday, Oct. 27 | Rays | 8 p.m. | FOX | - |
+| 5* | Wednesday, Oct. 28 | Rays | 8 p.m. | FOX | - |
+| 6* | Friday, Oct. 30 | Brewers | 8 p.m. | FOX | - |
+| 7* | Saturday, Oct. 31 | Brewers | 8 p.m. | FOX | - |
 
 *If necessary. There are no games on Sunday, Oct. 25, or Thursday, Oct. 29. The first team to win four games takes the title, so the series ends as early as Tuesday, Oct. 27. Milwaukee's home games are at American Family Field; 8 p.m. ET is 7 p.m. Central Time there. MLB notes the schedule can change, so check its postseason page on game day.
 

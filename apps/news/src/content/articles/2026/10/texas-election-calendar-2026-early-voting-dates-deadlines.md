@@ -1,10 +1,10 @@
 ---
-title: "Texas Election Calendar 2026: Early Voting Dates, Mail Ballot Deadline and Election Day on Nov. 3"
-seoTitle: "Texas Election Calendar 2026: Early Voting and Deadlines"
-description: "Texas early voting runs Oct. 19-30, 2026, mail ballot applications are due Oct. 23 and polls are open 7 a.m.-7 p.m. Nov. 3. Every 2026 date, with a printable."
+title: "Texas Election Calendar 2026: Early Voting Runs Through Oct. 30, Election Day Is Nov. 3"
+seoTitle: "Texas Early Voting Through Oct. 30; Election Day Nov. 3"
+description: "Texas early voting runs through Friday, Oct. 30, 2026, and polls are open 7 a.m. to 7 p.m. on Election Day, Tuesday, Nov. 3. Every 2026 date, with a printable."
 type: news
 publishedAt: "2026-10-21T15:30:00-04:00"
-updatedAt: "2026-10-21T17:16:00-04:00"
+updatedAt: "2026-10-24T01:40:00-04:00"
 authors: [news-desk]
 category: elections
 keywords: ["Texas election calendar 2026", "Texas early voting dates 2026", "Texas election schedule 2026", "Texas mail ballot deadline 2026", "Texas primary runoff 2026 date"]
@@ -68,14 +68,16 @@ downloads:
 draft: false
 ---
 
-**Early voting in Texas runs from Monday, Oct. 19 through Friday, Oct. 30, 2026, and Election Day is Tuesday, Nov. 3, with polls open 7 a.m. to 7 p.m.** The next deadline is Friday, Oct. 23: applications for a ballot by mail must reach your county's early voting clerk by then. Every date below comes from the Texas Secretary of State's election calendars. Your county sets the exact early voting sites and hours, within the minimums the state requires.
+<p class="callout"><b>Updated Sat., Oct. 24, 2026.</b> The Oct. 23 deadline to apply for a ballot by mail has passed. Early voting continues through Friday, Oct. 30; Election Day is Tuesday, Nov. 3, with polls open 7 a.m. to 7 p.m.</p>
+
+**Early voting in Texas runs through Friday, Oct. 30, 2026, and Election Day is Tuesday, Nov. 3, with polls open 7 a.m. to 7 p.m.** The deadline to apply for a ballot by mail, Friday, Oct. 23, has passed. Every date below comes from the Texas Secretary of State's election calendars. Your county sets the exact early voting sites and hours, within the minimums the state requires.
 
 ## Dates left before Nov. 3
 
 | Date | What happens |
 |---|---|
-| Mon., Oct. 19-Fri., Oct. 30 | Early voting at any early voting site in your county |
-| Fri., Oct. 23 | Last day for the clerk to receive a mail ballot application |
+| Through Fri., Oct. 30 | Early voting at any early voting site in your county |
+| Fri., Oct. 23 (passed) | Last day for the clerk to receive a mail ballot application |
 | Sat., Oct. 31-Mon., Nov. 2 | No early voting |
 | Tue., Nov. 3, 7 a.m.-7 p.m. | Election Day; mailed ballots due by 7 p.m. |
 | Wed., Nov. 4, 5 p.m. | Mailed ballots postmarked by 7 p.m. Nov. 3 still count if they arrive by now |

@@ -1,9 +1,10 @@
 ---
 title: "Early Voting 2026: Which States Are Voting Now?"
 seoTitle: "Early Voting 2026: Which States Are Voting Now?"
-description: "Early in-person voting is open in Texas, Connecticut, North Carolina and more, and starts Oct. 22 in Maryland and Delaware. Dates and hours for 8 states."
+description: "Early in-person voting is open in many states, and Michigan and New York open Oct. 24. Dates and hours by state ahead of Election Day, Tuesday, Nov. 3."
 type: news
 publishedAt: "2026-10-22T01:36:00-04:00"
+updatedAt: "2026-10-24T01:40:00-04:00"
 authors: [news-desk]
 category: elections
 keywords: ["early voting 2026", "which states have early voting", "early voting dates by state", "early voting now"]
@@ -14,13 +15,13 @@ hero:
   title: "Early voting 2026: which states are voting now"
   caption: "Early in-person voting is open in many states ahead of Election Day on Tuesday, Nov. 3, 2026. Dates differ by state."
 summary:
-  - "Early in-person voting is already open in Connecticut, Texas, North Carolina, Massachusetts, Tennessee and New Mexico, and opens Thursday, Oct. 22, in Maryland and Delaware."
+  - "Early in-person voting is open in Connecticut, Texas, Georgia, North Carolina, Massachusetts, Tennessee, New Mexico, Maryland and Delaware, and Michigan and New York open Saturday, Oct. 24."
   - "End dates differ: Tennessee ends Thursday, Oct. 29; Texas and Massachusetts end Friday, Oct. 30; North Carolina and New Mexico end Saturday, Oct. 31; Connecticut ends Sunday, Nov. 1."
   - "Hours and exact locations are set by counties or towns in most of these states, so check your local schedule before you go."
   - "Election Day is Tuesday, Nov. 3, 2026. This guide covers selected states only and is not a complete list."
 faq:
   - q: "Which states have early voting right now?"
-    a: "Among the states covered here, Connecticut, Texas, North Carolina, Massachusetts, Tennessee and New Mexico are open, and Maryland and Delaware open on Oct. 22. Many other states also offer it. This is not a full list."
+    a: "Among the states covered here, Connecticut, Texas, Georgia, North Carolina, Massachusetts, Tennessee, New Mexico, Maryland and Delaware are open, and Michigan and New York open Saturday, Oct. 24. Many other states also offer it. This is not a full list."
   - q: "How many states offer early in-person voting?"
     a: "The Center for Election Innovation & Research (CEIR) says 47 states plus the District of Columbia offer early in-person voting in 2026. Most start in mid-October."
   - q: "When does early voting end?"
@@ -89,27 +90,32 @@ assets:
       - ["Sat., Oct. 17-Fri., Oct. 30", "Massachusetts: towns set schedules; confirm with your town clerk"]
       - ["Mon., Oct. 19-Sun., Nov. 1", "Connecticut: 10 a.m.-6 p.m.; 8 a.m.-8 p.m. Oct. 27 and 29"]
       - ["Mon., Oct. 19-Fri., Oct. 30", "Texas: hours set by county; no excuse needed"]
+      - ["Tue., Oct. 13-Fri., Oct. 30", "Georgia: advance voting; vote at any site in your county"]
+      - ["Sat., Oct. 24-Sun., Nov. 1", "Michigan: at least 8 hours daily; find your site at Michigan.gov/Vote"]
+      - ["Sat., Oct. 24-Sun., Nov. 1", "New York: hours set by county board; NYC 9 a.m.-5 p.m. most days"]
       - ["Wed., Oct. 14-Thu., Oct. 29", "Tennessee: confirm your county schedule"]
       - ["Thu., Oct. 22-Thu., Oct. 29", "Maryland: 7 a.m.-8 p.m. daily, including weekends"]
       - ["Oct. 22-Nov. 1", "Delaware: none Sun., Oct. 25; 7 a.m.-7 p.m. to Oct. 27, then 11 a.m.-7 p.m."]
       - ["Tue., Oct. 6-Sat., Oct. 31", "New Mexico: county clerk offices; more sites from Oct. 17"]
       - ["Tue., Nov. 3", "Election Day"]
-    note: "Sources: state election offices in Connecticut, Texas, North Carolina, Maryland and Delaware; Massachusetts and Tennessee dates as reported; Santa Fe County Clerk, New Mexico."
-    description: "Early voting dates and hours for eight states ahead of Election Day on Nov. 3, 2026, with boxes to tick off. Selected states, not a complete list."
-    alt: "Early voting dates by state 2026 printable listing eight states and Election Day on Nov. 3"
+    note: "Sources: state election offices in Connecticut, Texas, Georgia, Michigan, New York, North Carolina, Maryland and Delaware; Massachusetts and Tennessee dates as reported; Santa Fe County Clerk, New Mexico."
+    description: "Early voting dates and hours for eleven states ahead of Election Day on Nov. 3, 2026, with boxes to tick off. Selected states, not a complete list."
+    alt: "Early voting dates by state 2026 printable listing eleven states and Election Day on Nov. 3"
 downloads:
   - group: "Early Voting Dates by State printables"
     title: "Early Voting Dates by State, Nov. 3, 2026"
-    description: "Early voting dates and hours for eight states ahead of Election Day on Nov. 3, 2026, with boxes to tick off. Selected states, not a complete list."
+    description: "Early voting dates and hours for eleven states ahead of Election Day on Nov. 3, 2026, with boxes to tick off. Selected states, not a complete list."
     preview: ../../../../assets/news/election-2026/early-voting-dates-by-state-2026.png
-    alt: "Early voting dates by state 2026 printable listing eight states and Election Day on Nov. 3"
+    alt: "Early voting dates by state 2026 printable listing eleven states and Election Day on Nov. 3"
     pdf: "/news/downloads/election-2026/early-voting-dates-by-state-2026.pdf"
     png: "/news/downloads/election-2026/early-voting-dates-by-state-2026.png"
     pages: 1
 draft: false
 ---
 
-**Early in-person voting is open now in many states ahead of Election Day on Tuesday, Nov. 3, 2026.** Connecticut, Texas, North Carolina, Massachusetts, Tennessee and New Mexico are already voting, and Maryland and Delaware start today, Thursday, Oct. 22. This is a guide to selected states with confirmed dates, not a complete list. The Center for Election Innovation & Research (CEIR) says 47 states plus the District of Columbia offer early in-person voting in 2026, and most start in mid-October.
+<p class="callout"><b>Updated Sat., Oct. 24, 2026.</b> Early voting is now open in all the states in this guide. Michigan and New York open today, Saturday, Oct. 24, through Sunday, Nov. 1; see <a href="/news/early-voting-starts-october-24-michigan-new-york-2026/">early voting starts Oct. 24 in Michigan and New York</a>.</p>
+
+**Early in-person voting is open now in many states ahead of Election Day on Tuesday, Nov. 3, 2026.** Connecticut, Texas, Georgia, North Carolina, Massachusetts, Tennessee, New Mexico, Maryland and Delaware are already voting, and Michigan and New York open today, Saturday, Oct. 24. This is a guide to selected states with confirmed dates, not a complete list. The Center for Election Innovation & Research (CEIR) says 47 states plus the District of Columbia offer early in-person voting in 2026, and most start in mid-October.
 
 ## Early voting dates by state
 
@@ -123,6 +129,9 @@ draft: false
 |---|---|---|
 | Connecticut | Mon., Oct. 19-Sun., Nov. 1, every day | 10 a.m.-6 p.m.; 8 a.m.-8 p.m. on Tue., Oct. 27 and Thu., Oct. 29 |
 | Texas | Mon., Oct. 19-Fri., Oct. 30 | Hours and locations set by county; no excuse needed |
+| Georgia | Tue., Oct. 13-Fri., Oct. 30 | Advance voting, including two Saturdays; vote at any site in your county |
+| Michigan | Sat., Oct. 24-Sun., Nov. 1 | At least eight hours a day; find your site at Michigan.gov/Vote |
+| New York | Sat., Oct. 24-Sun., Nov. 1 | Hours set by each county board; New York City sites open 9 a.m.-5 p.m. most days |
 | North Carolina | Thu., Oct. 15-Sat., Oct. 31 | Hours vary by county; sites open at least during county board office business hours on weekdays; ends 3 p.m. on Oct. 31 |
 | Massachusetts | Sat., Oct. 17-Fri., Oct. 30 | Two weekends included; cities and towns set schedules, and some limit Friday hours |
 | Tennessee | Wed., Oct. 14-Thu., Oct. 29 | Confirm your county schedule |
@@ -134,9 +143,9 @@ Hours are local time. For Massachusetts and Tennessee, the official pages were n
 
 ## When early voting ends
 
-End dates are close together. Tennessee finishes first among these states on Thursday, Oct. 29, followed by Texas and Massachusetts on Friday, Oct. 30. North Carolina and New Mexico end Saturday, Oct. 31, and Connecticut ends Sunday, Nov. 1. CEIR lists end dates from Oct. 27 in Louisiana and Pennsylvania to the day before Election Day in 14 states. If you live elsewhere, start with your state's election office.
+End dates are close together. Tennessee finishes first among these states on Thursday, Oct. 29, followed by Texas, Georgia and Massachusetts on Friday, Oct. 30. North Carolina and New Mexico end Saturday, Oct. 31, and Connecticut, Michigan, New York and Delaware end Sunday, Nov. 1. CEIR lists end dates from Oct. 27 in Louisiana and Pennsylvania to the day before Election Day in 14 states. If you live elsewhere, start with your state's election office.
 
-Michigan and New York open Saturday, Oct. 24, and have their own guide: [early voting starts Oct. 24 in Michigan and New York](/news/early-voting-starts-october-24-michigan-new-york-2026/). Texas voters can find county-level detail in the [Texas election calendar](/news/texas-election-calendar-2026-early-voting-dates-deadlines/).
+Michigan and New York opened Saturday, Oct. 24, and have their own guide: [early voting starts Oct. 24 in Michigan and New York](/news/early-voting-starts-october-24-michigan-new-york-2026/). Texas voters can find county-level detail in the [Texas election calendar](/news/texas-election-calendar-2026-early-voting-dates-deadlines/), and Georgia's advance voting dates and amendments are in the [Georgia 2026 ballot guide](/news/georgia-2026-ballot-amendments-advance-voting/).
 
 ## When is Election Day 2026?
 

@@ -1,10 +1,10 @@
 ---
-title: "Oct. 19 Is the Last Day to Register in California, Pennsylvania and Michigan; Early Voting Opens in Texas"
-seoTitle: "Voter Registration Deadline Oct. 19, 2026: State Guide"
-description: "Oct. 19 is the voter registration deadline in California, Pennsylvania and Michigan for the Nov. 3 election. Early voting opens in Texas and Connecticut."
+title: "Oct. 19 Voter Registration Deadline Has Passed; Same-Day Options Remain and Election Day Is Nov. 3"
+seoTitle: "Voter Registration Deadline Passed; Election Day Nov. 3"
+description: "The Oct. 19 voter registration deadline has passed in California, Pennsylvania and Michigan. Same-day options remain in some states; Election Day is Nov. 3."
 type: news
 publishedAt: "2026-10-18T08:30:00-04:00"
-updatedAt: "2026-10-22T03:00:00-04:00"
+updatedAt: "2026-10-24T01:40:00-04:00"
 authors: [news-desk]
 category: elections
 keywords: ["voter registration deadline October 19 2026", "register to vote Pennsylvania deadline", "California voter registration deadline 2026", "Texas early voting 2026", "Election Day November 3 2026"]
@@ -61,12 +61,12 @@ internalLinks:
   - href: "/printable-weekly-calendar.html"
     label: "Printable weekly planner"
 draft: false
-related: [sample-ballot-by-zip-code-2026-texas-ballot, nyc-public-schools-calendar-2026-27-breaks-holidays]
+related: [sample-ballot-by-zip-code-2026-texas-ballot, what-time-do-polls-close-election-day-2026, early-voting-2026-which-states-are-voting-now]
 ---
 
-<p class="callout"><b>Last updated Oct. 22, 2026, 3:00 a.m. ET.</b> The Oct. 19 deadlines have passed. Michigan voters can still register in person at their local clerk's office with proof of residency through Election Day, and California offers conditional registration at county elections offices through Nov. 3. Pennsylvania has no registration after Oct. 19. Early voting runs through Oct. 30 in Texas and Nov. 1 in Connecticut, and opens Saturday, Oct. 24, in Michigan and New York; see <a href="/news/early-voting-2026-which-states-are-voting-now/">which states are voting now</a>.</p>
+<p class="callout"><b>Updated Sat., Oct. 24, 2026.</b> The Oct. 19 registration deadlines have passed. California offers conditional registration at county elections offices through Nov. 3, and Michigan voters can register in person at their local clerk's office with proof of residency through Election Day; Pennsylvania has no registration after Oct. 19. Early voting is under way; see <a href="/news/early-voting-2026-which-states-are-voting-now/">which states are voting now</a>, look up your <a href="/news/sample-ballot-by-zip-code-2026-texas-ballot/">sample ballot by ZIP code</a>, and check <a href="/news/what-time-do-polls-close-election-day-2026/">when polls close on Election Day, Tuesday, Nov. 3</a>.</p>
 
-**Monday, Oct. 19, 2026** is the last day to register to vote in California and Pennsylvania for the Nov. 3 general election, and the last day to register online or by mail in Michigan. The same day, early in-person voting opens in Texas and Connecticut. Election Day is Tuesday, Nov. 3.
+**Monday, Oct. 19, 2026 was the last day to register** to vote in California and Pennsylvania for the Nov. 3 general election, and the last day to register online or by mail in Michigan. That deadline has passed, but California and Michigan still allow in-person registration through Election Day, Tuesday, Nov. 3. Early in-person voting is now open in Texas and Connecticut.
 
 ## Deadlines that fall on Monday
 

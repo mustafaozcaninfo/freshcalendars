@@ -1,10 +1,10 @@
 ---
-title: "Orionid Meteor Shower 2026 Viewing Times: Peak Morning Oct. 22 and How to Watch Through Nov. 7"
-seoTitle: "Orionid Meteor Shower 2026: Viewing Times, How to Watch"
-description: "Orionid meteor shower 2026 viewing times: the peak is the night of Oct. 21-22. Watch after moonset, about 3-4 a.m., until dawn. Times for 12 U.S. cities."
+title: "Orionid Meteor Shower 2026 Stays Active Through Nov. 7 After Its Oct. 22 Peak"
+seoTitle: "Orionids 2026 Active Through Nov. 7 After Oct. 22 Peak"
+description: "The Orionid meteor shower peaked Oct. 21-22 but stays active through Nov. 7, 2026. Watch after moonset before dawn; the Taurids and Leonids follow in November."
 type: news
 publishedAt: "2026-10-18T04:10:00-04:00"
-updatedAt: "2026-10-22T03:00:00-04:00"
+updatedAt: "2026-10-24T01:40:00-04:00"
 authors: [news-desk]
 category: sky-events
 keywords: ["Orionid meteor shower 2026 viewing times", "Orionid meteor shower tonight", "how to watch the Orionids", "Orionids peak time 2026", "meteor shower October 2026"]
@@ -88,11 +88,11 @@ downloads:
 draft: false
 ---
 
-<p class="callout"><b>Last updated Oct. 22, 2026, 3:00 a.m. ET.</b> The peak is the morning of Thursday, Oct. 22, from moonset until dawn, and the morning of Oct. 23 is nearly as good. NASA lists the Orionids as active through Nov. 7, with fewer meteors each night. Next come the Taurids in early November, the Leonids on the night of Nov. 16-17 and the Geminids on Dec. 13-14; see <a href="/news/november-2026-meteor-showers-taurids-leonids/">November 2026 meteor showers</a>.</p>
+<p class="callout"><b>Updated Sat., Oct. 24, 2026.</b> The Oct. 21-22 peak has passed, but NASA lists the Orionids as active through Nov. 7, with fewer meteors each night; watch after moonset before dawn. Next come the <a href="/news/november-2026-meteor-showers-taurids-leonids/">Southern Taurids on Nov. 4-5 and the Leonids on Nov. 16-17</a>, then the <a href="/news/supermoon-2026-beaver-moon-cold-moon-geminids-solstice/">Geminids on Dec. 13-14</a>.</p>
 
-<p class="callout"><b>The golden window: watch from moonset to dawn.</b> The moon is about 86% lit and bright until it sets, around 3 to 4 a.m. local time in most U.S. cities on Thursday, Oct. 22. From then until dawn twilight begins, about 5:15 to 6:30 a.m., the sky is dark and the Orionids are at their best.</p>
+<p class="callout"><b>The best window was moonset to dawn.</b> On the Oct. 21-22 peak the moon, about 86% lit, stayed up until around 3 to 4 a.m. local time in most U.S. cities. From moonset until dawn twilight began, about 5:15 to 6:30 a.m., the sky was dark and the Orionids were at their best. The shower stays active through Nov. 7, with the darkest hours still before dawn.</p>
 
-**The Orionid meteor shower, made of dust from Halley's Comet, peaks the night of Wednesday, Oct. 21 into Thursday, Oct. 22, 2026.** Under a dark sky you may see up to about 20 meteors an hour. This year the catch is the moon: it is a bright waxing gibbous that stays up until the small hours, so going out at midnight shows only the brightest meteors. The table below gives the moonset and the end of full darkness for 12 U.S. cities, from U.S. Naval Observatory data, so you know exactly when to set the alarm.
+**The Orionid meteor shower, made of dust from Halley's Comet, peaked the night of Wednesday, Oct. 21 into Thursday, Oct. 22, 2026, and remains active through Nov. 7.** Under a dark sky you could see up to about 20 meteors an hour at the peak; rates fall each night now, though you may still catch a few after moonset before dawn. The table below gives the moonset and the end of full darkness for 12 U.S. cities on the peak morning, from U.S. Naval Observatory data.
 
 ## Orionid viewing times by city
 
