@@ -2,9 +2,9 @@
 
 ## Otomatik yayın (2026-10-24'ten beri)
 
-Mac'inde bir launchd görevi 5 dakikada bir `main`'e bakar. `main`'e yeni bir commit gelmiş ve GitHub CI o commit'te yeşil bitmişse, o commit'i `~/Documents/Workspace/FreshCalendars-publish` adlı temiz bir kopyadan `pnpm news:deploy` ile yayınlar. Sadece yazı, görsel veya PDF değiştiyse hızlı modu (`NEWS_CONTENT_ONLY=1`), kod da değiştiyse tam senkronu kullanır. Gelecek tarihli `publishedAt` taşıyan yazılar, saati geldikten sonraki ilk kontrolde yayına çıkar. Kırmızı CI asla yayınlanmaz; düzelten yeni commit yeşil olunca yayın devam eder. Her yayında ve her hatada macOS bildirimi gelir.
+Mac'inde bir launchd görevi 5 dakikada bir `main`'e bakar. `main`'e yeni bir commit gelmiş ve GitHub CI o commit'te yeşil bitmişse, o commit'i `~/.freshcalendars-publish` adlı ayrı bir clone'dan (macOS arka plan görevlerinin `~/Documents`'a erişmesine izin vermiyor) `pnpm news:deploy` ile yayınlar. Sadece yazı, görsel veya PDF değiştiyse hızlı modu (`NEWS_CONTENT_ONLY=1`), kod da değiştiyse tam senkronu kullanır. Gelecek tarihli `publishedAt` taşıyan yazılar, saati geldikten sonraki ilk kontrolde yayına çıkar. Kırmızı CI asla yayınlanmaz; düzelten yeni commit yeşil olunca yayın devam eder. Her yayında ve her hatada macOS bildirimi gelir.
 
-- Kurmak (bir kez, merge'den sonra): `bash scripts/install-autopublish.sh`
+- Kurmak (bir kez, merge'den sonra): `bash scripts/install-autopublish.sh`. `.env` clone'a kopyalanır; `.env`'i değiştirirsen bu komutu tekrar çalıştır.
 - Kapatmak: `bash scripts/install-autopublish.sh --remove`
 - Kayıt: `~/Library/Logs/freshcalendars-autopublish.log`, son deploy çıktısı: `~/Library/Logs/freshcalendars-deploy-last.log`
 - Durum dosyaları: `~/Library/Application Support/FreshCalendars/autopublish/` (`last-sha`: son yayınlanan commit)
