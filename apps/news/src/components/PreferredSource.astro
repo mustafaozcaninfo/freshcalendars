@@ -1,0 +1,28 @@
+---
+/**
+ * Google "Preferred Sources" button (developers.google.com/search/docs/appearance/preferred-sources).
+ * A reader who picks us sees our stories more often in Top Stories, AI Overviews and AI Mode.
+ * Google's script is loaded by PREF_SRC_JS (NewsBase's shared inline script) only when the box nears the
+ * viewport; until it renders (or without JavaScript) the plain deeplink from the same docs does the job.
+ */
+interface Props { compact?: boolean }
+const { compact = false } = Astro.props;
+const DEEPLINK = "https://www.google.com/preferences/source?q=freshcalendars.com";
+---
+<aside class:list={["pref-src", { compact }]} aria-label="Follow Fresh Calendars on Google" data-pref-src>
+  <p class="pref-txt"><b>See more of our dates and printables on Google.</b> Add Fresh Calendars as a preferred source for Top Stories.</p>
+  <div class="pref-btn" google-add-preferred-source-btn data-lang="en"></div>
+  <a class="pref-link" href={DEEPLINK} rel="noopener" target="_blank">Add as a preferred source on Google</a>
+</aside>
+<style>
+  .pref-src{display:flex;flex-wrap:wrap;align-items:center;gap:.6rem 1rem;margin:0 0 1.25rem;padding:.85rem 1rem;border:1px solid var(--line);border-radius:14px;background:#fff}
+  .pref-txt{flex:1 1 260px;margin:0;font-size:.92rem;line-height:1.4;color:var(--ink)}
+  .pref-txt b{color:var(--ink-strong)}
+  .pref-btn:empty{display:none}
+  .pref-link{display:inline-flex;align-items:center;min-height:44px;padding:0 1rem;border:1px solid var(--line);border-radius:999px;font-size:.88rem;font-weight:700;color:var(--ink-strong);text-decoration:none}
+  .pref-link:hover,.pref-link:focus-visible{border-color:#1a73e8;color:#1a73e8}
+  .pref-src.ready .pref-link{display:none}
+  .compact{margin:.25rem 0 0;padding:.6rem .8rem}
+  .compact .pref-txt{font-size:.85rem}
+  @media print{ .pref-src{display:none} }
+</style>

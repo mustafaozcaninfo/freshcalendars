@@ -51,6 +51,7 @@ const jsonLd = listingGraph({
   items: page.items.map((a) => ({ path: articlePath(a.id), name: a.data.title })),
   kind: "CollectionPage",
 });
+import PreferredSource from "./PreferredSource.astro";
 ---
 <NewsBase title={pagedTitle(heading, 1)} description={description} path={page.path} jsonLd={jsonLd}>
   <div class="home">
@@ -60,6 +61,7 @@ const jsonLd = listingGraph({
         <h1>{heading}</h1>
         <p class="news-lede">{intro}</p>
         <p class="desk">Reported by {authors.map((a, i) => <>{i > 0 && ", "}<a href={authorHref(a.id)}>{a.name}</a></>)} · <a href={PRINTABLES_PATH}>{printables.length} free printables</a></p>
+        <PreferredSource compact />
       </div>
     </header>
 
