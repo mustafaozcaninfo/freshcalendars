@@ -18,6 +18,12 @@ export const DAY = 86_400_000;
 export const utc = (y: number, m: number, d: number) => new Date(Date.UTC(y, m, d));
 export const daysIn = (y: number, m: number) => new Date(Date.UTC(y, m + 1, 0)).getUTCDate();
 
+/** Two PDFs that differ only in their creation/modification dates and file ID. */
+export function samePdf(a: Uint8Array, b: Uint8Array): boolean {
+  const norm = (x: Uint8Array) => Buffer.from(x).toString("latin1").replace(/\/(CreationDate|ModDate) \(D:[^)]*\)/g, "").replace(/\/ID \[<[0-9A-Fa-f]*> ?<[0-9A-Fa-f]*>\]/g, "");
+  return norm(a) === norm(b);
+}
+
 /** Renders every template to <public>/<slug>.pdf|png and copies the PNG to <assets>/<slug>.png. */
 export async function renderPrintables(dir: string, list: Printable[]): Promise<void> {
   const outPublic = path.join(ROOT, "apps/news/public/downloads", dir);
@@ -35,7 +41,12 @@ export async function renderPrintables(dir: string, list: Printable[]): Promise<
       if (await page.evaluate(() => document.body.dataset.overflow === "1")) throw new Error(`${t.slug}: content does not fit on the page even at 80%; cut or split the rows`);
       if (fit !== null && fit !== 1) console.log(`${t.slug}: scaled to ${Math.round(fit * 100)}% to fit`);
       const pdf = path.join(outPublic, `${t.slug}.pdf`), png = path.join(outPublic, `${t.slug}.png`);
-      await page.pdf({ path: pdf, width: `${t.size.width}px`, height: `${t.size.height}px`, printBackground: true, margin: { top: "0", right: "0", bottom: "0", left: "0" } });
+      const bytes = await page.pdf({ width: `${t.size.width}px`, height: `${t.size.height}px`, printBackground: true, margin: { top: "0", right: "0", bottom: "0", left: "0" } });
+      // Chromium stamps a fresh creation date into every PDF. Keep the old file when nothing else
+      // changed, so a re-run does not show up as an edit, a re-upload and a Cloudflare purge.
+      const old = await fs.readFile(pdf).catch(() => null);
+      if (old && samePdf(old, bytes)) console.log(`${t.slug}: pdf unchanged`);
+      else await fs.writeFile(pdf, bytes);
       await page.screenshot({ path: png, type: "png", clip: { x: 0, y: 0, ...t.size } });
       await fs.copyFile(png, path.join(outAssets, `${t.slug}.png`));
       const pages = await page.evaluate(() => document.querySelectorAll(".page").length);

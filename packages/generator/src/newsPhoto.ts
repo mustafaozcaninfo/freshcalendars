@@ -32,6 +32,8 @@ const MIN_W = 1600, OUT_W = 2400;
 type Candidate = {
   ref: string; source: "Wikimedia Commons" | "NASA" | "Openverse" | "Pexels" | "press"; provider?: string; title: string; page: string; file: string;
   width?: number; height?: number; license: string; licenseUrl: string; author: string; authorUrl?: string;
+  /** A small preview for the contact sheet; never used for the hero. */
+  thumb?: string;
   ok: boolean; why?: string;
 };
 
@@ -62,6 +64,7 @@ function fromCommons(p: any): Candidate {
   const c: Candidate = {
     ref: `commons:${p.title}`, source: "Wikimedia Commons", title: strip(m.ObjectName?.value) || p.title.replace(/^File:/, ""),
     page: ii.descriptionurl, file: String(ii.url ?? "").replace(/\?.*$/, ""), width: ii.width, height: ii.height,
+    thumb: `https://commons.wikimedia.org/wiki/Special:FilePath/${encodeURIComponent(p.title.replace(/^File:/, ""))}?width=640`,
     license, licenseUrl: m.LicenseUrl?.value ?? (/^(public domain|pd)/i.test(license) ? "https://creativecommons.org/publicdomain/mark/1.0/" : ""),
     author: strip(authorHtml) || "Unknown author", authorUrl: href ? (href.startsWith("//") ? `https:${href}` : href) : undefined, ok: true,
   };
@@ -89,10 +92,10 @@ async function commonsFile(title: string): Promise<Candidate> {
 /** NASA media is public domain unless credited to someone else; those are refused. */
 const THIRD_PARTY = /©|copyright|getty|associated press|\bap photo|reuters|esa\/|\besa\b|courtesy of|used with permission/i;
 
-function fromNasa(d: any): Candidate {
+function fromNasa(d: any, thumb?: string): Candidate {
   const credit = [d.photographer, d.secondary_creator].filter(Boolean).join(", ");
   const c: Candidate = {
-    ref: `nasa:${d.nasa_id}`, source: "NASA", title: d.title, page: `https://images.nasa.gov/details/${encodeURIComponent(d.nasa_id)}`, file: "",
+    ref: `nasa:${d.nasa_id}`, source: "NASA", title: d.title, page: `https://images.nasa.gov/details/${encodeURIComponent(d.nasa_id)}`, file: "", thumb,
     license: "Public domain (NASA)", licenseUrl: "https://www.nasa.gov/nasa-brand-center/images-and-media/",
     author: credit ? `NASA/${credit.replace(/^NASA\/?/i, "")}` : `NASA${d.center ? ` ${d.center}` : ""}`, ok: true,
   };
@@ -102,7 +105,7 @@ function fromNasa(d: any): Candidate {
 
 async function searchNasa(q: string): Promise<Candidate[]> {
   const j = await getJson(`https://images-api.nasa.gov/search?media_type=image&q=${encodeURIComponent(q)}`);
-  return (j.collection?.items ?? []).slice(0, 24).map((it: any) => fromNasa(it.data[0]));
+  return (j.collection?.items ?? []).slice(0, 24).map((it: any) => fromNasa(it.data[0], it.links?.[0]?.href));
 }
 
 async function nasaItem(id: string): Promise<Candidate> {
@@ -133,7 +136,7 @@ function fromOpenverse(d: any, allowFlickr = false): Candidate {
   const license = openverseLicense(d.license, d.license_version);
   const c: Candidate = {
     ref: `openverse:${d.id}`, source: "Openverse", provider: d.source ?? d.provider, title: d.title || d.id, page: d.foreign_landing_url,
-    file: d.url, width: d.width ?? undefined, height: d.height ?? undefined, license, licenseUrl: d.license_url ?? "",
+    file: d.url, width: d.width ?? undefined, height: d.height ?? undefined, license, licenseUrl: d.license_url ?? "", thumb: d.thumbnail ?? undefined,
     author: d.creator || "Unknown author", authorUrl: d.creator_url ?? undefined, ok: true,
   };
   const why = licenseOk(license)
@@ -160,7 +163,7 @@ async function pexelsJson(url: string): Promise<any> {
 function fromPexels(p: any): Candidate {
   const c: Candidate = {
     ref: `pexels:${p.id}`, source: "Pexels", title: p.alt || `Pexels photo ${p.id}`, page: p.url, file: p.src?.original ?? "",
-    width: p.width, height: p.height, license: "Pexels License", licenseUrl: "https://www.pexels.com/license/",
+    width: p.width, height: p.height, thumb: p.src?.medium, license: "Pexels License", licenseUrl: "https://www.pexels.com/license/",
     author: p.photographer || "Unknown photographer", authorUrl: p.photographer_url, ok: true,
   };
   if (Math.min(c.width ?? 0, ((c.height ?? 0) * 16) / 9) < MIN_W) Object.assign(c, { ok: false, why: `16:9 crop narrower than ${MIN_W}px` });
@@ -170,23 +173,54 @@ function fromPexels(p: any): Candidate {
 const searchPexels = async (q: string): Promise<Candidate[]> => ((await pexelsJson(`https://api.pexels.com/v1/search?query=${encodeURIComponent(q)}&per_page=24&orientation=landscape`)).photos ?? []).map(fromPexels);
 
 // ── commands ──────────────────────────────────────────────────────────────
-export async function photoSearch(q: string, source = "all"): Promise<void> {
-  if (!q) throw new Error('usage: pnpm fc news-photo search "<query>" [--source commons|nasa|openverse|pexels|all]');
+/**
+ * Several phrasings in one call ("runners bridge|marathon Verrazzano"): results are merged and
+ * de-duplicated, and the usable ones are drawn on a numbered contact sheet, cropped 16:9 with the
+ * left 40% (where the overlay card goes) shaded, so one look picks the photo.
+ */
+export async function photoSearch(q: string, source = "all", sheet = true): Promise<void> {
+  if (!q) throw new Error('usage: pnpm fc news-photo search "<query>[|<another phrasing>…]" [--source commons|nasa|openverse|pexels|all] [--no-sheet]');
   const want = (s: string) => source === "all" || source === s;
   const soft = (p: Promise<Candidate[]>, name: string) => p.catch((e): Candidate[] => (console.warn(`${name}: ${e.message}`), []));
-  const list: Candidate[] = [
-    ...(want("commons") ? await searchCommons(q) : []),
-    ...(want("nasa") ? await soft(searchNasa(q), "NASA") : []),
-    ...(want("openverse") ? await soft(searchOpenverse(q), "Openverse") : []),
-    ...(want("pexels") && (source === "pexels" || process.env.PEXELS_API_KEY) ? await soft(searchPexels(q), "Pexels") : []),
-  ];
+  const one = async (q: string) => (await Promise.all([
+    want("commons") ? searchCommons(q) : [],
+    want("nasa") ? soft(searchNasa(q), "NASA") : [],
+    want("openverse") ? soft(searchOpenverse(q), "Openverse") : [],
+    want("pexels") && (source === "pexels" || process.env.PEXELS_API_KEY) ? soft(searchPexels(q), "Pexels") : [],
+  ])).flat();
+  const seen = new Set<string>();
+  const list = (await Promise.all(q.split("|").map((s) => s.trim()).filter(Boolean).map(one))).flat().filter((c) => !seen.has(c.ref) && seen.add(c.ref));
   await fs.mkdir(path.dirname(CACHE), { recursive: true });
   await fs.writeFile(CACHE, JSON.stringify(list, null, 2));
   list.forEach((c, i) => {
     const size = c.width ? `${c.width}×${c.height}` : "size on use";
     console.log(`${String(i + 1).padStart(2)} ${c.ok ? "OK  " : "NO  "} ${c.title.slice(0, 60)}\n      ${c.source}${c.provider ? ` (${c.provider})` : ""} · ${c.license} · ${c.author.slice(0, 50)} · ${size}${c.why ? `\n      ✗ ${c.why}` : ""}\n      ${c.page}`);
   });
-  console.log(`\n${list.filter((c) => c.ok).length} usable of ${list.length}. Look at the page before choosing, then: pnpm fc news-photo use <slug> <n>`);
+  const usable = list.map((c, i) => ({ c, n: i + 1 })).filter(({ c }) => c.ok && c.thumb);
+  console.log(`\n${list.filter((c) => c.ok).length} usable of ${list.length}.`);
+  if (sheet && usable.length) console.log(`contact sheet: ${path.relative(ROOT, await contactSheet(usable.slice(0, 16)))} (read it, then: pnpm fc news-photo use <slug> <n>)`);
+  else console.log("Look at the page before choosing, then: pnpm fc news-photo use <slug> <n>");
+}
+
+const SHEET = path.join(ROOT, ".cache/news-photo-sheet.jpg");
+async function contactSheet(items: { c: Candidate; n: number }[]): Promise<string> {
+  const TW = 480, TH = 270, cols = 4, rows = Math.ceil(items.length / cols);
+  const tiles = await Promise.all(items.map(async ({ c, n }) => {
+    const label = `<svg width="${TW}" height="${TH}"><rect width="${TW * 0.4}" height="${TH}" fill="#000" opacity=".35"/>
+      <rect x="8" y="8" width="${46 + String(n).length * 12}" height="34" rx="6" fill="#111827"/><text x="18" y="32" font-family="Helvetica" font-weight="700" font-size="22" fill="#fff">#${n}</text>
+      <rect x="0" y="${TH - 26}" width="${TW}" height="26" fill="#000" opacity=".6"/><text x="8" y="${TH - 8}" font-family="Helvetica" font-size="14" fill="#fff">${xmlEsc(`${c.license} · ${c.width ?? "?"}×${c.height ?? "?"} · ${c.author.slice(0, 34)}`)}</text></svg>`;
+    try {
+      const r = await fetch(c.thumb!, { headers: { "User-Agent": UA }, signal: AbortSignal.timeout(20_000) });
+      if (!r.ok) throw new Error(String(r.status));
+      const img = await sharp(Buffer.from(await r.arrayBuffer())).resize(TW, TH, { fit: "cover", position: sharp.strategy.attention }).toBuffer();
+      return sharp(img).composite([{ input: Buffer.from(label) }]).jpeg().toBuffer();
+    } catch {
+      return sharp({ create: { width: TW, height: TH, channels: 3, background: "#374151" } }).composite([{ input: Buffer.from(label) }]).jpeg().toBuffer();
+    }
+  }));
+  await sharp({ create: { width: cols * TW, height: rows * TH, channels: 3, background: "#ffffff" } })
+    .composite(tiles.map((input, i) => ({ input, left: (i % cols) * TW, top: Math.floor(i / cols) * TH }))).jpeg({ quality: 80 }).toFile(SHEET);
+  return SHEET;
 }
 
 async function resolve(ref: string, allowFlickr = false): Promise<Candidate> {

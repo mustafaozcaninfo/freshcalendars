@@ -177,7 +177,7 @@ async function main(): Promise<void> {
       await listHeroes();
     } else if (cmd === "news-photo") {
       const sub = process.argv[3], focus = argValue("--focus") ?? "attention";
-      if (sub === "search") await photoSearch(process.argv[4] ?? "", argValue("--source") ?? "all");
+      if (sub === "search") await photoSearch(process.argv[4] ?? "", argValue("--source") ?? "all", !process.argv.includes("--no-sheet"));
       else if (sub === "use") await photoUse(process.argv[4] ?? "", process.argv[5] ?? "", focus, process.argv.includes("--allow-flickr"));
       else if (sub === "press") await photoPress(process.argv[4] ?? "", argValue("--url") ?? "", argValue("--terms") ?? "", argValue("--author") ?? "", focus);
       else throw new Error("usage: pnpm fc news-photo search|use|press …");
@@ -210,7 +210,7 @@ async function main(): Promise<void> {
   pnpm fc news-assets <slug>               # /news/ story hero (illustrated scene) and printable from frontmatter assets:
   pnpm fc news-scenes [out.png] [--only a,b] # contact sheet of hero scenes (3D where available)
   pnpm fc news-heroes                      # which scenes are taken and which heroes repeat (news-visuals skill)
-  pnpm fc news-photo search "<q>"          # licensed photo candidates (Commons, NASA, Openverse, Pexels with PEXELS_API_KEY)
+  pnpm fc news-photo search "<q>|<q2>"     # licensed photo candidates (Commons, NASA, Openverse, Pexels) + numbered contact sheet
   pnpm fc news-photo use <slug> <n>        # crop to 16:9 WebP with credit and license record
   pnpm fc news-julian [--years 2026,2027]  # /news/ Julian date printables (PDF + PNG)
   pnpm fc news-ramadan                     # /news/ Ramadan 2027 printables (PDF + PNG)

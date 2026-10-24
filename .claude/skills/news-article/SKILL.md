@@ -13,7 +13,7 @@ Two companion skills hold the detail: **`news-seo`** (choosing the query, the an
 
 Run this skill in a fresh session for each story or small batch of related stories; long sessions re-read their whole history on every turn.
 
-- **Research → `news-researcher` agent (Haiku).** Send it the topic and the exact questions (dates, times, names, numbers, URLs to check). It returns a fact sheet with sources and an UNCONFIRMED/BLOCKED list. If it reports a BLOCKED official page that matters, open it yourself in the browser; never get around a bot challenge.
+- **Research → `news-researcher` agent (Haiku).** Send it the topic and the exact questions (dates, times, names, numbers, URLs to check). It returns a fact sheet with sources and an UNCONFIRMED/BLOCKED list. If it reports BLOCKED official pages that matter, open them yourself in the built-in browser in one pass (`get_page_text`; collapsed sections open with a click or `javascript_tool` on their `<summary>`/accordion headers). A waiting room or queue page usually lets a real browser through; a bot challenge never gets worked around.
 - **Writing and checks → `news-writer` agent (Sonnet).** Send it the slug, target query, category, related slugs and the fact sheet. It writes the file with an `assets:` block, runs `pnpm fc news-assets <slug>`, and runs the checks until they pass.
 - **The main session** decides new-vs-update and the angle (`news-seo`), picks the hero photo or scene (`news-visuals`), resolves conflicting sources, looks at the hero and printable images, reads the finished story once, commits and pushes. Use the strongest model only for this part.
 
@@ -210,4 +210,4 @@ git commit -m "feat(news): <what the story covers>"
 git push origin main
 ```
 
-Writers push stories straight to `main` once every check passes. In the commit message list the main sources and anything not yet confirmed that should be rechecked (with the date). Then tell the owner the story is pushed; the owner deploys it. Never deploy, never force-push.
+Writers push stories straight to `main` once every check passes. In the commit message list the main sources and anything not yet confirmed that should be rechecked (with the date). When CI passes on that commit, auto-publish deploys it within about five minutes; watch the CI run (`gh run list --branch main --limit 1`) and fix a red one with a new commit right away, because nothing after it publishes until main is green. Never deploy, never force-push.

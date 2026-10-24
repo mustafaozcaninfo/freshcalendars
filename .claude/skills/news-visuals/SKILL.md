@@ -18,7 +18,7 @@ Never ship the category's default scene without checking `news-heroes`: that def
 ## 2. Licensed photo with the overlay (default)
 
 ```bash
-pnpm fc news-photo search "<subject> <place>" --source commons     # also nasa, openverse, pexels (PEXELS_API_KEY)
+pnpm fc news-photo search "<subject> <place>|<another phrasing>"   # all sources; Commons only: --source commons
 pnpm fc news-photo use <slug> <n>                                   # crops to 16:9, keeps <slug>.source.webp
 # frontmatter: assets.overlay: true, plus kicker, date and card (below)
 pnpm fc news-assets <slug>                                          # redraws the hero: photo, scrim, kicker, date tile, card, finish
@@ -27,9 +27,9 @@ pnpm fc news-assets <slug>                                          # redraws th
 Then paste the `hero:` block `news-photo use` printed, and replace `credit` with the line `news-assets` prints (it ends in `, edited`, which CC BY requires).
 
 Searching well:
-- Search the subject and the place in plain words ("runners Verrazzano Bridge", "Grand Teton autumn", "airplane wing sunset"). Try three or four phrasings; the first query is rarely the best.
+- Search the subject and the place in plain words, three or four phrasings in one call separated by `|` ("runners Verrazzano Bridge|New York City Marathon|marathon First Avenue"). The first phrasing is rarely the best.
 - Prefer U.S. federal public-domain photos: the agency that runs the subject often posts on Commons (NPS park accounts such as GrandTetonNPS, NASA, NOAA, USDA, MTA under CC BY). They are accurate, free of licensing doubt and usually large.
-- Look at every candidate before choosing it. Make a quick contact sheet of thumbnails in the scratchpad and read it; do not choose from titles.
+- The search writes a numbered contact sheet of the usable candidates to `.cache/news-photo-sheet.jpg`, each cropped 16:9 with the left 40% (the overlay card's area) shaded, and its license, size and author. Read that one image and choose by number; never choose from titles. Open the Commons page of the one you pick to check people, logos and the date.
 
 A photo passes when:
 - **License:** public domain, CC0, CC BY, CC BY-SA or the Pexels License (the tool refuses the rest). Flickr re-uploads need a manual check (`--allow-flickr`).
