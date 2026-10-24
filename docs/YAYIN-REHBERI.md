@@ -1,5 +1,17 @@
 # /news/ yayın rehberi (site sahibi için)
 
+## Otomatik yayın (2026-10-24'ten beri)
+
+Mac'inde bir launchd görevi 5 dakikada bir `main`'e bakar. `main`'e yeni bir commit gelmiş ve GitHub CI o commit'te yeşil bitmişse, o commit'i `~/Documents/Workspace/FreshCalendars-publish` adlı temiz bir kopyadan `pnpm news:deploy` ile yayınlar. Sadece yazı, görsel veya PDF değiştiyse hızlı modu (`NEWS_CONTENT_ONLY=1`), kod da değiştiyse tam senkronu kullanır. Gelecek tarihli `publishedAt` taşıyan yazılar, saati geldikten sonraki ilk kontrolde yayına çıkar. Kırmızı CI asla yayınlanmaz; düzelten yeni commit yeşil olunca yayın devam eder. Her yayında ve her hatada macOS bildirimi gelir.
+
+- Kurmak (bir kez, merge'den sonra): `bash scripts/install-autopublish.sh`
+- Kapatmak: `bash scripts/install-autopublish.sh --remove`
+- Kayıt: `~/Library/Logs/freshcalendars-autopublish.log`, son deploy çıktısı: `~/Library/Logs/freshcalendars-deploy-last.log`
+- Durum dosyaları: `~/Library/Application Support/FreshCalendars/autopublish/` (`last-sha`: son yayınlanan commit)
+- Mac uykudaysa yayın bekler; uyandığında ilk kontrolde yapılır.
+
+Elle yayın (aşağıdaki adımlar) hâlâ çalışır; sunucudaki yayın kilidi (`flock`) iki yayını aynı anda çalıştırmaz, ama elle yaptığında `last-sha` güncellenmez, sonraki kontrol aynı commit'i bir kez daha yayınlar (değişiklik yoksa `changed=0` ile biter).
+
 Editörler yazıyı yazar, kontrolleri geçirir ve `main`'e push eder. Yayını sadece sen yaparsın; sunucu ve Cloudflare anahtarları (`.env`, SSH anahtarı) yalnızca senin Mac'inde.
 
 ## Her yeni yazıda (3 adım)
@@ -43,14 +55,14 @@ Sadece `apps/news/src/content`, `apps/news/src/assets` ve `apps/news/public` (pr
 | Build hatası, "does not match collection schema" | Yazının üst bilgisi (başlık en fazla 110 karakter, açıklama 120-160) hatalı. Editöre geri gönder; hiçbir şey yayınlanmadı. |
 | `news:seo-audit` FAIL | Kural ihlali (kısaltma açılmamış, yasaklı kelime, PDF metadatası). Editöre geri gönder. |
 | En sonda `curl` hatası (ör. exit code 35) ama öncesinde `changed=` ve `purge ok` var | Yayın tamamlandı; sadece son kontrol bir anlık bağlantı hatası verdi. Sayfayı tarayıcıda aç, açılıyorsa sorun yok. |
-| Yazı sitede görünmüyor | `publishedAt` gelecekte olabilir. Zamanlanmış yayın şu an kapalı (15 dakikalık cron yok): saat geldikten sonraki ilk `pnpm news:deploy` ile çıkar. |
+| Yazı sitede görünmüyor | `publishedAt` gelecekte olabilir: otomatik yayın saat geldikten sonraki ilk kontrolde (5 dakika içinde) çıkarır. CI kırmızıysa hiçbir yeni commit yayınlanmaz; `gh run list --branch main --limit 1` ile bak. |
 | Uyarı e-postasında `stampPdf` ve `ENOENT` / `open` hatası | Yazının listelediği bir PDF sunucuda yok (eskiden hızlı mod PDF göndermiyordu). Normal `pnpm news:deploy` çalıştır. |
 | `git pull` çakışma verdi | Kendi Mac'inde commit etmediğin değişiklik vardır. `git status` ile bak; emin değilsen bana sor. |
 | Yanlış bir şey yayınlandı | `git revert <commit>` ile geri al, sonra `pnpm news:deploy`. Gerekirse `git push origin main`. |
 
-## Zamanlanmış yayın (şu an kapalı)
+## Sunucudaki eski cron (kapalı)
 
-VPS'teki 15 dakikalık `news-publish` cron'u 2026-10-23'te kapatılmasına karar verildi; /news/ yalnızca `pnpm news:deploy` ile yayınlanır. Kapatmak (veya kapalı tutmak) için VPS'te:
+VPS'teki 15 dakikalık `news-publish` cron'u 2026-10-23'te kapatıldı; zamanlanmış yazıları artık Mac'teki otomatik yayın çıkarıyor (yukarıda). Kapatmak (veya kapalı tutmak) için VPS'te:
 
 ```bash
 bash /home/yuzdehesaplama/private/freshcalendars-app/scripts/install-crontab.sh

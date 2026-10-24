@@ -34,11 +34,15 @@ if [[ "$(id -u)" == "0" && -f "$PDF_MAP_SRC" && -d "$(dirname "$PDF_MAP")" ]] &&
   else cp "$PDF_MAP.prev" "$PDF_MAP"; echo "[news] pdf canonical map rejected by nginx -t; kept the previous one"; fi
 fi
 
-mkdir -p "$TARGET"
-# Itemized dry run → list of changed/deleted paths (files only).
+mkdir -p "$TARGET" "$TARGET/_astro"
+# Itemized dry run → list of changed/deleted paths (files only). Astro names every _astro file
+# by a hash of its content, so those are compared by name (new or gone), never checksummed:
+# _astro holds about 80% of the bytes and checksumming it on each pass was the slow part.
 CHANGES=()
-while IFS= read -r line; do CHANGES+=("$line"); done < <(rsync -rcn --delete --itemize-changes --out-format='%i %n' "$DIST/" "$TARGET" \
-  | awk '$1 ~ /^[<>ch*]f|^\*deleting/ { sub(/^[^ ]+ /, ""); print }' | grep -v '/$' || true)
+while IFS= read -r line; do CHANGES+=("$line"); done < <({
+  rsync -rcn --delete --exclude '/_astro/' --itemize-changes --out-format='%i %n' "$DIST/" "$TARGET"
+  rsync -rn --delete --ignore-existing --itemize-changes --out-format='%i %n' "$DIST/_astro/" "$TARGET/_astro/" | sed -E 's#^([^ ]+ +)#\1_astro/#'
+} | awk '$1 ~ /^[<>ch*]f|^\*deleting/ { sub(/^[^ ]+ +/, ""); print }' | grep -v '/$' || true)
 
 if [[ ${#CHANGES[@]} -eq 0 ]]; then
   echo "[news] no changes"
@@ -74,8 +78,9 @@ if [[ "${NEWS_DRY_RUN:-0}" == "1" ]]; then
 fi
 
 # Assets first so new HTML never points at a file that is not there yet; delete last.
-rsync -rc "$DIST/_astro/" "$TARGET/_astro/"
-rsync -rc --delete "$DIST/" "$TARGET"
+rsync -r --ignore-existing "$DIST/_astro/" "$TARGET/_astro/"
+rsync -rc --delete --exclude '/_astro/' "$DIST/" "$TARGET"
+rsync -r --delete --ignore-existing "$DIST/_astro/" "$TARGET/_astro/"
 find "$TARGET" -type d -exec chmod 755 {} + && find "$TARGET" -type f -exec chmod 644 {} +
 if [[ "$(id -u)" == "0" ]]; then chown -R "$OWNER" "$TARGET"; fi
 

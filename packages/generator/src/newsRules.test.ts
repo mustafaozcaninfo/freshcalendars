@@ -4,6 +4,7 @@ import { test } from "node:test";
 import { chooseLayout, items, parseWhen } from "./newsPrintable.ts";
 import { licenseOk, openverseLicense } from "./newsPhoto.ts";
 import { finish, grainLayer } from "./fx.ts";
+import { samePdf } from "./printables.ts";
 import sharp from "sharp";
 
 const base = { slug: "t", group: "g", title: "Test Dates 2026", note: "Source: test" };
@@ -50,4 +51,11 @@ test("hero finish is deterministic per seed", async () => {
   const img = await sharp({ create: { width: 120, height: 68, channels: 3, background: "#1e3a8a" } }).png().toBuffer();
   const [a, b] = await Promise.all([finish(img, { seed: "s" }), finish(img, { seed: "s" })]);
   assert.ok(a.equals(b));
+});
+
+test("a PDF that differs only in its dates and ID counts as unchanged", () => {
+  const a = Buffer.from("%PDF-1.4 /Title (X) /CreationDate (D:20261024101010+00'00') /ModDate (D:20261024101010+00'00') /ID [<AB12> <CD34>] page");
+  const b = Buffer.from("%PDF-1.4 /Title (X) /CreationDate (D:20261025111111+00'00') /ModDate (D:20261025111111+00'00') /ID [<EF56> <0099>] page");
+  assert.ok(samePdf(a, b));
+  assert.ok(!samePdf(a, Buffer.from(b.toString().replace("page", "page 2"))));
 });
