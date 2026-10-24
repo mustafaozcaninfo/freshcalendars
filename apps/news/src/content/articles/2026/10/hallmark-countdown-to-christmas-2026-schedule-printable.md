@@ -10,6 +10,7 @@ keywords: ["Hallmark Christmas movies 2026 schedule", "Countdown to Christmas 20
 dateline: "New York"
 assets:
   scene: winter-holidays
+  overlay: true
   kicker: "Countdown to Christmas 2026 · Fri., Oct. 16"
   date: "2026-10-16"
   card: { top: "Hallmark Countdown to Christmas", big: "Oct. 16 to Dec. 20", bottom: "34 new movies, 8 p.m. ET" }
@@ -59,10 +60,17 @@ assets:
     description: "One-page checklist of all 34 Hallmark Countdown to Christmas 2026 movies, Oct. 16 to Dec. 20, grouped by month with a tick box for each. Free."
     alt: "Printable Hallmark Countdown to Christmas 2026 checklist with all 34 movies grouped by October, November and December and a tick box for each"
 hero:
-  src: ../../../../assets/news/hallmark-countdown-to-christmas-2026-schedule-printable/hallmark-countdown-to-christmas-2026-schedule-printable.jpg
-  alt: "Hallmark Countdown to Christmas 2026 schedule: a winter holiday scene beside a date tile for Friday, Oct. 16 and a card reading 34 new movies, 8 p.m. ET"
+  src: ../../../../assets/news/hallmark-countdown-to-christmas-2026-schedule-printable/hallmark-countdown-to-christmas-2026-schedule-printable.webp
+  alt: "A cozy fireplace mantel with a red JOY sign, gold snowflakes and hung stockings, for the Hallmark Countdown to Christmas 2026 schedule"
   title: "Countdown to Christmas 2026"
-  caption: "The Hallmark Channel's 17th Countdown to Christmas runs Friday, Oct. 16 to Sunday, Dec. 20, 2026, with 34 new original movies."
+  caption: "The Hallmark Channel's Countdown to Christmas 2026 runs Oct. 16 to Dec. 20 with 34 new movies. File photo (2014) of a decorated holiday mantel and stockings."
+  credit: "Photo: Personal Creations / Wikimedia Commons, cropped, edited"
+  license:
+    name: "CC BY 2.0"
+    url: "https://creativecommons.org/licenses/by/2.0"
+    source: "https://commons.wikimedia.org/wiki/File:Christmas_Mantel_with_Joy_sign_and_personalized_family_stockings_in_front_of_fireplace_(15745251978).jpg"
+    author: "Personal Creations"
+    authorUrl: "https://www.flickr.com/people/127294011@N07"
 summary:
   - "The Hallmark Channel's 17th annual Countdown to Christmas runs Friday, Oct. 16 to Sunday, Dec. 20, 2026, with 34 new original movies."
   - "Movies premiere at 8 p.m. Eastern Time (ET) unless noted and stream on Hallmark+ the next day. The lineup was unveiled Sept. 17, 2026."

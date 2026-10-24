@@ -10,6 +10,7 @@ keywords: ["national parks free days 2026", "national parks free Veterans Day 20
 dateline: "New York"
 assets:
   scene: autumn
+  overlay: true
   kicker: "Fee-free days · Oct. 27 and Nov. 11"
   date: "2026-10-27"
   card: { top: "Next free entrance day", big: "Tue., Oct. 27", bottom: "Then Veterans Day, Wed., Nov. 11" }
@@ -36,7 +37,7 @@ hero:
   src: ../../../../assets/news/national-parks-free-days-october-27-veterans-day-2026/national-parks-free-days-october-27-veterans-day-2026.webp
   alt: "Grand Teton peaks above golden autumn aspens at Grand Teton National Park, one of the parks free to enter on national parks free days"
   caption: "Grand Teton from Elk Ranch Flats in autumn, a National Park Service photo. The park charges an entrance fee that is waived for U.S. residents on Oct. 27 and Nov. 11."
-  credit: "Photo: GrandTetonNPS / Wikimedia Commons, cropped"
+  credit: "Photo: GrandTetonNPS / Wikimedia Commons, cropped, edited"
   license:
     name: "Public domain"
     url: "https://creativecommons.org/publicdomain/mark/1.0/"

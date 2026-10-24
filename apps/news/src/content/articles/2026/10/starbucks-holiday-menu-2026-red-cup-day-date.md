@@ -10,6 +10,7 @@ keywords: ["Starbucks holiday menu 2026", "Starbucks red cup day 2026", "when do
 dateline: "New York"
 assets:
   scene: winter-holidays
+  overlay: true
   kicker: "Starbucks holiday menu · Thu., Nov. 5"
   date: "2026-11-05"
   card: { top: "Starbucks holiday menu returns", big: "Thu., Nov. 5", bottom: "Red Cup Day date not yet announced" }
@@ -44,10 +45,17 @@ assets:
     description: "One-page checklist of the Starbucks 2026 holiday menu: returning and new drinks, food and merchandise to try from Nov. 5. Free."
     alt: "Printable Starbucks holiday menu 2026 checklist with drinks, food and merchandise grouped into sections and a tick box for each"
 hero:
-  src: ../../../../assets/news/starbucks-holiday-menu-2026-red-cup-day-date/starbucks-holiday-menu-2026-red-cup-day-date.jpg
-  alt: "Starbucks holiday menu 2026: a winter holiday scene beside a date tile for Thursday, Nov. 5 and a card noting Red Cup Day is not yet announced"
+  src: ../../../../assets/news/starbucks-holiday-menu-2026-red-cup-day-date/starbucks-holiday-menu-2026-red-cup-day-date.webp
+  alt: "A red disposable holiday coffee cup reading Merry Christmas, for the Starbucks holiday menu 2026 and Red Cup Day"
   title: "Holiday menu returns Nov. 5"
-  caption: "Starbucks says its 2026 holiday menu returns Thursday, Nov. 5, with returning favorites and a new Tiramisu Velvet line."
+  caption: "Starbucks says its 2026 holiday menu returns Thursday, Nov. 5. File photo (2021) of a festive red holiday coffee cup, shown without branding."
+  credit: "Photo: Kgbo / Wikimedia Commons, cropped, edited"
+  license:
+    name: "CC BY-SA 4.0"
+    url: "https://creativecommons.org/licenses/by-sa/4.0"
+    source: "https://commons.wikimedia.org/wiki/File:Disposable_,_paper_coffee_cups,_Christmas_in_Australia,_2021.jpg"
+    author: "Kgbo"
+    authorUrl: "https://commons.wikimedia.org/wiki/User:Kgbo"
 summary:
   - "Starbucks' 2026 holiday menu returns Thursday, Nov. 5, the company announced on Oct. 5, 2026."
   - "Returning drinks include the Peppermint Mocha, Caramel Brulee Latte, Sugar Cookie Latte and Gingerbread Chai; new this year is a Tiramisu Velvet Latte and Cold Brew."

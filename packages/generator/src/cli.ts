@@ -36,6 +36,7 @@ import { buildNewsAssets, buildSceneGallery } from "./newsAssets.js";
 import { photoPress, photoSearch, photoUse } from "./newsPhoto.js";
 import { buildHeroes4 } from "./heroes4.js";
 import { ROOT } from "./paths.js";
+import { listHeroes } from "./newsHeroes.js";
 import { purgeDoCdn, syncCdnAssets } from "./spaces.js";
 
 function loadRootEnv(): void {
@@ -172,6 +173,8 @@ async function main(): Promise<void> {
     } else if (cmd === "news-scenes") {
       const out = process.argv[3] && !process.argv[3].startsWith("--") ? process.argv[3] : undefined;
       await buildSceneGallery(out, argValue("--only")?.split(","));
+    } else if (cmd === "news-heroes") {
+      await listHeroes();
     } else if (cmd === "news-photo") {
       const sub = process.argv[3], focus = argValue("--focus") ?? "attention";
       if (sub === "search") await photoSearch(process.argv[4] ?? "", argValue("--source") ?? "all");
@@ -206,6 +209,7 @@ async function main(): Promise<void> {
   pnpm fc refresh-meta      # daily: Eastern bake date, HTML only, no PNG/OG
   pnpm fc news-assets <slug>               # /news/ story hero (illustrated scene) and printable from frontmatter assets:
   pnpm fc news-scenes [out.png] [--only a,b] # contact sheet of hero scenes (3D where available)
+  pnpm fc news-heroes                      # which scenes are taken and which heroes repeat (news-visuals skill)
   pnpm fc news-photo search "<q>"          # licensed photo candidates (Commons, NASA, Openverse, Pexels with PEXELS_API_KEY)
   pnpm fc news-photo use <slug> <n>        # crop to 16:9 WebP with credit and license record
   pnpm fc news-julian [--years 2026,2027]  # /news/ Julian date printables (PDF + PNG)

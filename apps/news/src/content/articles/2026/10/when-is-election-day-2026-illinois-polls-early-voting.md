@@ -10,6 +10,7 @@ keywords: ["when is election day 2026 in illinois", "illinois early voting 2026"
 dateline: "Chicago"
 assets:
   scene: election
+  overlay: true
   kicker: "Illinois · Election Day Tue., Nov. 3"
   date: "2026-11-03"
   card: { top: "Polls open in Illinois", big: "6 a.m. to 7 p.m.", bottom: "Mail ballot applications due Thu., Oct. 29" }
@@ -32,10 +33,17 @@ assets:
     description: "One-page Illinois voter calendar for the Nov. 3, 2026 general election: early voting dates, the Oct. 29 mail ballot deadline and Election Day hours. Free printable."
     alt: "Illinois voter calendar printable for the Nov. 3, 2026 election with early voting dates, the Oct. 29 mail ballot deadline and polling hours"
 hero:
-  src: ../../../../assets/news/when-is-election-day-2026-illinois-polls-early-voting/when-is-election-day-2026-illinois-polls-early-voting.jpg
-  alt: "Illinois Election Day 2026: a ballot and a Nov. 3 date tile beside a card reading polls open 6 a.m. to 7 p.m., mail ballots due Oct. 29"
+  src: ../../../../assets/news/when-is-election-day-2026-illinois-polls-early-voting/when-is-election-day-2026-illinois-polls-early-voting.webp
+  alt: "The Illinois State Capitol dome in Springfield under winter skies, for a guide to Illinois Election Day 2026 polls and early voting"
   title: "Illinois votes Tue., Nov. 3"
-  caption: "Illinois holds its general election on Tuesday, Nov. 3, 2026. Polling places are open 6 a.m. to 7 p.m., and mail ballot applications are due by Oct. 29."
+  caption: "Illinois votes Tuesday, Nov. 3, 2026, with polls open 6 a.m. to 7 p.m. File photo (2008) of the Illinois State Capitol in Springfield."
+  credit: "Photo: Daniel Schwen / Wikimedia Commons, cropped, edited"
+  license:
+    name: "CC BY-SA 4.0"
+    url: "https://creativecommons.org/licenses/by-sa/4.0"
+    source: "https://commons.wikimedia.org/wiki/File:Illinois_State_Capitol_pano.jpg"
+    author: "Daniel Schwen"
+    authorUrl: "https://commons.wikimedia.org/wiki/User:Dschwen"
 summary:
   - "Election Day in Illinois is Tuesday, Nov. 3, 2026. Polling places are open 6 a.m. to 7 p.m. local time."
   - "Early voting began statewide on Sept. 24 at election authority offices and runs in person through Monday, Nov. 2."

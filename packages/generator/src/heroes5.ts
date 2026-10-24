@@ -9,6 +9,7 @@ import { chromium } from "playwright";
 import sharp from "sharp";
 import { fontFaces } from "./julian.js";
 import { ROOT } from "./paths.js";
+import { rng } from "./art.js";
 
 const W = 1200, H = 675;
 const frame = (fonts: string, bg: string, body: string) => `<!doctype html><html><head><meta charset="utf-8"><style>${fonts}
@@ -19,23 +20,67 @@ const frame = (fonts: string, bg: string, body: string) => `<!doctype html><html
 .brand{position:absolute;right:28px;bottom:20px;font-size:13px;font-weight:700;letter-spacing:.06em;color:rgba(255,255,255,.75)}
 </style></head><body>${body}<div class="brand">freshcalendars.com/news</div></body></html>`;
 
-type Opts = { bg: string; accent: string; kicker: string; title: string; dek: string; art: string };
-const hero = (fonts: string, o: Opts) => frame(fonts, o.bg, `<svg width="${W}" height="${H}" style="position:absolute;inset:0"><defs><filter id="sh"><feDropShadow dx="0" dy="18" stdDeviation="18" flood-opacity=".35"/></filter></defs><rect width="${W}" height="${H}" fill="${o.bg}"/><g filter="url(#sh)">${o.art}</g></svg>
+type Opts = { bg: string; accent: string; kicker: string; title: string; dek: string; art: string; seed: string };
+/**
+ * Each day's board is tilted, scaled and placed differently, over a seeded scatter of faint tiles in
+ * the accent color, so a daily series never repeats a picture.
+ */
+const hero = (fonts: string, o: Opts) => {
+  const r = rng(`layout:${o.seed}`);
+  const tilt = (r() * 2 - 1) * 11, scale = 0.86 + r() * 0.18, dx = (r() * 2 - 1) * 60, dy = (r() * 2 - 1) * 30;
+  const confetti = Array.from({ length: 26 }, () => {
+    const sz = 14 + r() * 34, x = 560 + r() * 640, y = r() * H;
+    return `<rect x="${x.toFixed(0)}" y="${y.toFixed(0)}" width="${sz.toFixed(0)}" height="${sz.toFixed(0)}" rx="${(sz / 5).toFixed(0)}" fill="${o.accent}" opacity="${(0.06 + r() * 0.16).toFixed(2)}" transform="rotate(${(r() * 90).toFixed(0)} ${x.toFixed(0)} ${y.toFixed(0)})"/>`;
+  }).join("");
+  return frame(fonts, o.bg, `<svg width="${W}" height="${H}" style="position:absolute;inset:0"><defs><filter id="sh"><feDropShadow dx="0" dy="18" stdDeviation="18" flood-opacity=".35"/></filter></defs><rect width="${W}" height="${H}" fill="${o.bg}"/>${confetti}<g filter="url(#sh)" transform="translate(${dx.toFixed(0)} ${dy.toFixed(0)}) rotate(${tilt.toFixed(1)} 905 335) translate(905 335) scale(${scale.toFixed(3)}) translate(-905 -335)">${o.art}</g></svg>
   <div class="k" style="color:${o.accent}">${o.kicker}</div><div class="t">${o.title}</div><div class="d" style="top:${o.title.length > 18 ? 360 : 300}px">${o.dek}</div>`);
+};
 
 const grid = (x: number, y: number, cols: number, rows: number, s: number, gap: number, fill: (r: number, c: number) => string, rx = 8) =>
   Array.from({ length: rows * cols }, (_, i) => { const r = Math.floor(i / cols), c = i % cols; return `<rect x="${x + c * (s + gap)}" y="${y + r * (s + gap)}" width="${s}" height="${s}" rx="${rx}" fill="${fill(r, c)}"/>`; }).join("");
 
 const G = "#6aaa64", Y = "#c9b458", N = "#787c7e", E = "#ffffff";
-const ART: Record<string, string> = {
-  wordle: grid(700, 95, 5, 6, 76, 10, (r, c) => (r === 0 ? [N, Y, N, N, G][c] : r === 1 ? [Y, N, G, N, G][c] : r === 2 ? [G, G, G, G, G][c] : E), 6),
-  connections: grid(690, 120, 4, 4, 112, 12, (r) => (r === 0 ? "#f9df6d" : r === 1 ? "#a0c35a" : "#efefe6"), 12),
-  strands: Array.from({ length: 48 }, (_, i) => { const r = Math.floor(i / 6), c = i % 6, on = [8, 14, 15, 21, 27, 28, 34].includes(i), sp = [0, 7, 13, 20].includes(i); return `<circle cx="${740 + c * 70}" cy="${80 + r * 70}" r="27" fill="${sp ? "#f8cd05" : on ? "#aedfee" : "#ffffff"}"/>`; }).join(""),
-  mini: grid(720, 110, 5, 5, 86, 4, (r, c) => ((r === 0 && c === 0) || (r === 4 && c === 4) ? "#111827" : r === 1 ? "#a7d8ff" : c === 2 && r < 4 ? "#ffda00" : E), 2),
-  quordle: [0, 1, 2, 3].map((q) => grid(690 + (q % 2) * 230, 90 + Math.floor(q / 2) * 260, 5, 5, 38, 5, (r, c) => (r === 4 && q !== 3 ? G : r < 2 ? (c % 2 ? Y : N) : E), 4)).join(""),
-  bee: [[0, 0], [0, -1], [0.866, -0.5], [0.866, 0.5], [0, 1], [-0.866, 0.5], [-0.866, -0.5]].map(([dx, dy], i) => { const cx = 900 + dx * 150, cy = 330 + dy * 150; const pts = Array.from({ length: 6 }, (_, k) => { const a = Math.PI / 3 * k; return `${cx + 82 * Math.cos(a)},${cy + 82 * Math.sin(a)}`; }).join(" "); return `<polygon points="${pts}" fill="${i === 0 ? "#f7da21" : "#e6e6e6"}"/>`; }).join(""),
-  contexto: [0.95, 0.82, 0.7, 0.55, 0.42, 0.3, 0.2].map((v, i) => `<rect x="690" y="${110 + i * 64}" width="460" height="48" rx="10" fill="#1f2a44"/><rect x="690" y="${110 + i * 64}" width="${460 * v}" height="48" rx="10" fill="${i < 2 ? "#22c55e" : i < 4 ? "#eab308" : "#ef4444"}"/>`).join(""),
-  blossom: Array.from({ length: 6 }, (_, k) => { const a = Math.PI / 3 * k - Math.PI / 2; return `<ellipse cx="${905 + 135 * Math.cos(a)}" cy="${335 + 135 * Math.sin(a)}" rx="78" ry="78" fill="#f9a8d4"/>`; }).join("") + `<circle cx="905" cy="335" r="90" fill="#fde047"/>`,
+/**
+ * Board motifs, seeded by the story slug: the same game looks the same in kind but never the same
+ * picture two days running (audit 12-HERO-UNIQUE). Colors and positions are random, so they reveal
+ * nothing about the day's answer.
+ */
+type Rng = () => number;
+const pick = <T,>(r: Rng, a: readonly T[]): T => a[Math.floor(r() * a.length)]!;
+const shuffle = <T,>(r: Rng, a: T[]): T[] => { for (let i = a.length - 1; i > 0; i--) { const j = Math.floor(r() * (i + 1)); [a[i], a[j]] = [a[j]!, a[i]!]; } return a; };
+const ART: Record<string, (r: Rng) => string> = {
+  wordle: (r) => {
+    const solved = 2 + Math.floor(r() * 4);
+    const rows = Array.from({ length: solved - 1 }, () => Array.from({ length: 5 }, () => pick(r, [N, N, N, Y, Y, G])));
+    return grid(700, 95, 5, 6, 76, 10, (row, c) => (row < solved - 1 ? rows[row]![c]! : row === solved - 1 ? G : E), 6);
+  },
+  connections: (r) => {
+    const solved = 1 + Math.floor(r() * 3), order = shuffle(r, ["#f9df6d", "#a0c35a", "#b0c4ef", "#ba81c5"]);
+    return grid(690, 120, 4, 4, 112, 12, (row) => (row < solved ? order[row]! : "#efefe6"), 12);
+  },
+  strands: (r) => {
+    // A connected path for the spangram and a short theme word, drawn as a random walk.
+    const walk = (len: number, start: number) => { const out = [start]; while (out.length < len) { const at = out[out.length - 1]!, row = Math.floor(at / 6), col = at % 6; const next = [[1, 0], [-1, 0], [0, 1], [0, -1], [1, 1], [1, -1]].map(([dr, dc]) => [row + dr!, col + dc!]).filter(([a, b]) => a! >= 0 && a! < 8 && b! >= 0 && b! < 6).map(([a, b]) => a! * 6 + b!).filter((i) => !out.includes(i)); if (!next.length) break; out.push(pick(r, next)); } return out; };
+    const sp = walk(6, Math.floor(r() * 6)), on = walk(4 + Math.floor(r() * 3), 18 + Math.floor(r() * 24)).filter((i) => !sp.includes(i));
+    return Array.from({ length: 48 }, (_, i) => `<circle cx="${740 + (i % 6) * 70}" cy="${80 + Math.floor(i / 6) * 70}" r="27" fill="${sp.includes(i) ? "#f8cd05" : on.includes(i) ? "#aedfee" : "#ffffff"}"/>`).join("");
+  },
+  mini: (r) => {
+    const black = new Set(Array.from({ length: 2 + Math.floor(r() * 3) }, () => Math.floor(r() * 25))), across = Math.floor(r() * 5), down = Math.floor(r() * 5);
+    return grid(720, 110, 5, 5, 86, 4, (row, c) => (black.has(row * 5 + c) ? "#111827" : row === across ? "#a7d8ff" : c === down ? "#ffda00" : E), 2);
+  },
+  quordle: (r) => [0, 1, 2, 3].map((q) => {
+    const solvedAt = 2 + Math.floor(r() * 3), rows = Array.from({ length: 5 }, () => Array.from({ length: 5 }, () => pick(r, [N, N, Y, G])));
+    return grid(690 + (q % 2) * 230, 90 + Math.floor(q / 2) * 260, 5, 5, 38, 5, (row, c) => (row < solvedAt ? rows[row]![c]! : row === solvedAt ? G : E), 4);
+  }).join(""),
+  bee: (r) => {
+    const turn = r() * Math.PI / 3, lit = Math.floor(r() * 6) + 1;
+    return [[0, 0], [0, -1], [0.866, -0.5], [0.866, 0.5], [0, 1], [-0.866, 0.5], [-0.866, -0.5]].map(([dx, dy], i) => { const cx = 900 + dx! * 150, cy = 330 + dy! * 150; const pts = Array.from({ length: 6 }, (_, k) => { const a = Math.PI / 3 * k + turn; return `${cx + 82 * Math.cos(a)},${cy + 82 * Math.sin(a)}`; }).join(" "); return `<polygon points="${pts}" fill="${i === 0 ? "#f7da21" : i === lit ? "#fff3a8" : "#e6e6e6"}"/>`; }).join("");
+  },
+  contexto: (r) => Array.from({ length: 7 }, () => 0.15 + r() * 0.82).sort((a, b) => b - a).map((v, i) => `<rect x="690" y="${110 + i * 64}" width="460" height="48" rx="10" fill="#1f2a44"/><rect x="690" y="${110 + i * 64}" width="${Math.round(460 * v)}" height="48" rx="10" fill="${v > 0.75 ? "#22c55e" : v > 0.45 ? "#eab308" : "#ef4444"}"/>`).join(""),
+  blossom: (r) => {
+    const turn = r() * Math.PI / 3, petal = pick(r, ["#f9a8d4", "#c4b5fd", "#fda4af", "#93c5fd"]);
+    return Array.from({ length: 6 }, (_, k) => { const a = Math.PI / 3 * k - Math.PI / 2 + turn; return `<ellipse cx="${905 + 135 * Math.cos(a)}" cy="${335 + 135 * Math.sin(a)}" rx="78" ry="78" fill="${petal}"/>`; }).join("") + `<circle cx="905" cy="335" r="90" fill="#fde047"/>`;
+  },
 };
 
 /** [slug, game art key, bg, accent, kicker, title, dek]: filled in per day. */
@@ -52,13 +97,14 @@ export async function buildHeroes5(): Promise<void> {
   try {
     for (const [slug, art, bg, accent, kicker, title, dek] of PUZZLE_HEROES) {
       const page = await browser.newPage({ viewport: { width: W, height: H }, deviceScaleFactor: 2 });
-      await page.setContent(hero(fonts, { bg, accent, kicker, title, dek, art: ART[art] }), { waitUntil: "load" });
+      await page.setContent(hero(fonts, { bg, accent, kicker, title, dek, art: ART[art]!(rng(slug)), seed: slug }), { waitUntil: "load" });
       await page.evaluate(() => document.fonts.ready);
       const png = await page.screenshot({ type: "png" });
       await page.close();
       const dir = path.join(ROOT, "apps/news/src/assets/news", slug);
       await fs.mkdir(dir, { recursive: true });
       await sharp(png).jpeg({ quality: 86, mozjpeg: true }).toFile(path.join(dir, `${slug}.jpg`));
+      await fs.writeFile(path.join(dir, `${slug}.hero.json`), `${JSON.stringify({ kind: "custom" }, null, 2)}\n`);
       console.log(`${slug}.jpg`);
     }
   } finally {

@@ -518,6 +518,17 @@ check("11-DISCOVER-IMAGE", "og:image is at least 1200 px wide, over 300,000 pixe
     const w = +(h.match(/<meta property="og:image:width" content="(\d+)"/)?.[1] ?? 0), ht = +(h.match(/<meta property="og:image:height" content="(\d+)"/)?.[1] ?? 0);
     return w >= 1200 && w * ht > 300000 && Math.abs(w / ht - 16 / 9) < 0.02 ? null : `og:image ${w}×${ht}`;
   }));
+// ── 12 Unique heroes ───────────────────────────────────────────────────────
+// Discover and image search treat a repeated picture as a repeated page; every story gets its own.
+const { UNIQUE_SINCE, storyHeroes, heroProblems, duplicateHeroes } = await import("./lib/hero-hash.mjs");
+const heroStories = storyHeroes(ARTICLES_SRC);
+const heroFails = [];
+for (const s of heroStories.filter((s) => s.published >= UNIQUE_SINCE)) for (const p of await heroProblems(s.slug, heroStories)) heroFails.push(`${s.slug}: ${p}`);
+check("12-HERO-UNIQUE", `Every story published since ${UNIQUE_SINCE} has its own hero: no illustrated scene or picture shared with another story`, () => heroFails);
+const oldRepeats = (await duplicateHeroes(heroStories)).filter((p) => p.a.published < UNIQUE_SINCE && p.b.published < UNIQUE_SINCE);
+warn("12-HERO-REPEATS", "Older stories that share a hero picture (redraw with a photo or another scene when you update them) — informational", () =>
+  oldRepeats.length ? [`${oldRepeats.length} pairs`, ...oldRepeats.slice(0, 7).map((p) => `${p.a.slug} = ${p.b.slug} (${p.d} bits)`)] : []);
+
 warn("10-PDF-ORPHANS", "Printable PDFs that no story links to (not stamped, no canonical) — informational", () => {
   const linked = new Set(articleUrls.flatMap((u) => pdfLinks(html[u])));
   const all = [];

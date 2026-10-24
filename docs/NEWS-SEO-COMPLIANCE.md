@@ -82,3 +82,7 @@ Doküman (2.666 satır, bölüm 00–08) baştan sona okundu, 96 kural çıkarı
 ## 5. Geçerli olmayan kurallar
 
 R071–R074 (araç sayfası rozetleri, “free / no sign up”, düz takvim-araç URL’leri, Letter kâğıt/2027–2028 kapsamı) PrintGridCalendar’ın takvim ürününe özgü. /news/ yalnızca en-US ve Eastern Time ilkesini devralıyor (uygulanmış). Türkçe yasaklı kelime/yapı listeleri (l.615–622) Türkçe metin için; /news/ metni İngilizce olduğu için İngilizce liste uygulandı.
+
+## 6. Ek: benzersiz hero kuralı (2026-10-24)
+
+`12-HERO-UNIQUE` (FAIL): 2026-10-24 ve sonrası yayımlanan her haberin hero'su kendine ait olmalı. İki ölçü: aynı çizim sahnesi (`<slug>.hero.json` kaydı) başka bir haberde kullanılmış olamaz; resmin parmak izi (sağ %60, 256 bit fark hash'i, `scripts/lib/hero-hash.mjs`) başka bir hero'ya 40 bitten yakın olamaz. `pnpm fc news-assets` aynı kontrolü üretim anında yapar ve tekrar eden hero'yu reddeder. `12-HERO-REPEATS` (WARN): eski haberlerde aynı resmi paylaşan çiftler; güncellenirken yeni hero alırlar. Yöntem: `news-visuals` skill'i. Yazım kararları: `news-seo` skill'i.

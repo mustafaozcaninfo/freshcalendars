@@ -45,6 +45,7 @@ import { ROOT } from "./paths.js";
 import { type Printable, printableHtml } from "./newsPrintable.js";
 import { CATEGORY_SCENE, SCENE_ICON, SCENE_COLOR, SCENES, type SceneName, scene, tint } from "./art.js";
 import { SCENES_3D, backdrop3d, shootHero, type HeroDoc } from "./news3d.js";
+import { UNIQUE_SINCE, heroProblems, storyHeroes } from "../../../scripts/lib/hero-hash.mjs";
 
 const W = 1200, H = 675;
 const ARTICLES = path.join(ROOT, "apps/news/src/content/articles");
@@ -56,7 +57,7 @@ const CATEGORY_COLOR: Record<string, string> = {
 const DOW = ["SUNDAY", "MONDAY", "TUESDAY", "WEDNESDAY", "THURSDAY", "FRIDAY", "SATURDAY"];
 
 type Assets = { scene?: SceneName | "none"; render?: "2d" | "3d"; overlay?: boolean; kicker?: string; title?: string; date?: string; color?: string; card?: { top?: string; big: string; bottom?: string }; printable?: Printable };
-type Front = { title: string; seoTitle?: string; category: string; assets?: Assets };
+type Front = { title: string; seoTitle?: string; category: string; publishedAt?: string; assets?: Assets };
 
 const esc = (s: string) => s.replace(/&/g, "&amp;").replace(/</g, "&lt;").replace(/>/g, "&gt;").replace(/"/g, "&quot;");
 
@@ -222,6 +223,17 @@ export async function buildNewsAssets(slug: string): Promise<void> {
     console.log(`hero: apps/news/src/assets/news/${slug}/${slug}.jpg`);
   } finally {
     await browser.close();
+  }
+  // Record what was drawn, then refuse a hero that repeats another story's scene or picture.
+  const kind = photo ? "photo" : name === "none" ? "poster" : "scene";
+  const render = kind === "scene" ? (a.render !== "2d" && SCENES_3D[name] ? "3d" : "2d") : undefined;
+  await fs.mkdir(dir, { recursive: true });
+  await fs.writeFile(path.join(dir, `${slug}.hero.json`), `${JSON.stringify({ kind, ...(kind === "scene" ? { scene: name, render } : {}) }, null, 2)}\n`);
+  const problems = await heroProblems(slug, storyHeroes());
+  if (problems.length) {
+    const msg = `hero is not unique:\n  - ${problems.join("\n  - ")}\nUse a licensed photo with the overlay (pnpm fc news-photo, assets.overlay: true) or a scene no story has used; see .claude/skills/news-visuals/SKILL.md`;
+    if (String(f.publishedAt ?? "").slice(0, 10) >= UNIQUE_SINCE) throw new Error(msg);
+    console.warn(`${msg}\n(older story, published before ${UNIQUE_SINCE}: warning only)`);
   }
   const p = a.printable;
   if (!p) return;

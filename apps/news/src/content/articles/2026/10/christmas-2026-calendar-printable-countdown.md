@@ -10,6 +10,7 @@ keywords: ["christmas 2026 calendar printable", "how many days until christmas 2
 dateline: "New York"
 assets:
   scene: winter-holidays
+  overlay: true
   kicker: "Christmas 2026 · Fri., Dec. 25"
   date: "2026-12-25"
   card: { top: "Christmas Day 2026", big: "Fri., Dec. 25", bottom: "62 days from Sat., Oct. 24" }
@@ -38,10 +39,17 @@ assets:
     description: "One-page December 2026 calendar with Christmas Day, Hanukkah, Advent, mailing deadlines and enrollment cutoffs marked. Free printable from Fresh Calendars."
     alt: "December 2026 calendar printable with Christmas Day Dec. 25, Hanukkah, Advent Sundays and USPS shipping deadlines marked"
 hero:
-  src: ../../../../assets/news/christmas-2026-calendar-printable-countdown/christmas-2026-calendar-printable-countdown.jpg
-  alt: "Christmas 2026 countdown: a winter holiday scene beside a date tile for Friday, Dec. 25, 2026 and a card reading 62 days from Oct. 24"
+  src: ../../../../assets/news/christmas-2026-calendar-printable-countdown/christmas-2026-calendar-printable-countdown.webp
+  alt: "A decorated Christmas tree with red ornaments, glowing lights and wrapped gifts underneath, for a Christmas 2026 countdown and printable calendar"
   title: "Christmas 2026 is Friday, Dec. 25"
-  caption: "Christmas Day 2026 falls on Friday, Dec. 25, and from Saturday, Oct. 24 that is 62 days away. The clock on the page counts down in your own time zone."
+  caption: "Christmas Day 2026 is Friday, Dec. 25, 62 days from Oct. 24. File photo (2014) of a lit Christmas tree and gifts; the clock on this page counts down in your time zone."
+  credit: "Photo: Alhill42 / Wikimedia Commons, cropped, edited"
+  license:
+    name: "CC BY-SA 4.0"
+    url: "https://creativecommons.org/licenses/by-sa/4.0"
+    source: "https://commons.wikimedia.org/wiki/File:Christmas_Tree_and_Presents.jpg"
+    author: "Alhill42"
+    authorUrl: "https://commons.wikimedia.org/wiki/User:Alhill42"
 summary:
   - "Christmas Day 2026 is Friday, Dec. 25, and from Saturday, Oct. 24 that is 62 days away."
   - "A live countdown on this page ticks down to midnight on Dec. 25 in your own time zone, with options for Eastern Time (ET) and New Year's Day 2027."
