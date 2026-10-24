@@ -84,8 +84,8 @@ const ART: Record<string, (r: Rng) => string> = {
   /** Connections: Sports Edition: the 4×4 board with a stitched ball in one corner. */
   sports: (r) => {
     const solved = 1 + Math.floor(r() * 3), order = shuffle(r, ["#f9df6d", "#a0c35a", "#b0c4ef", "#ba81c5"]);
-    return grid(690, 120, 4, 4, 112, 12, (row) => (row < solved ? order[row]! : "#efefe6"), 12)
-      + `<g transform="translate(1150 110) rotate(${(r() * 60 - 30).toFixed(0)})"><ellipse rx="70" ry="44" fill="#9a3412"/><path d="M-34 0 H34" stroke="#fff" stroke-width="5"/>${[-20, -7, 7, 20].map((x) => `<path d="M${x} -9 V9" stroke="#fff" stroke-width="5"/>`).join("")}</g>`;
+    return grid(660, 110, 4, 4, 104, 12, (row) => (row < solved ? order[row]! : "#efefe6"), 12)
+      + `<g transform="translate(680 560) rotate(${(r() * 60 - 30).toFixed(0)})"><ellipse rx="70" ry="44" fill="#9a3412"/><path d="M-34 0 H34" stroke="#fff" stroke-width="5"/>${[-20, -7, 7, 20].map((x) => `<path d="M${x} -9 V9" stroke="#fff" stroke-width="5"/>`).join("")}</g>`;
   },
   /** Pips: colored regions on a 4×4 board with a few dominoes laid on it; pip counts are random. */
   pips: (r) => {
@@ -104,7 +104,7 @@ const ART: Record<string, (r: Rng) => string> = {
     const n = 6, s = 70, cols = shuffle(r, [0, 1, 2, 3, 4, 5]);
     const board = grid(700, 70, n, n, s, 4, (row, c) => region[(Math.floor(row / 2) * 2 + Math.floor(c / 3) + (row % 2 && c > 3 ? 1 : 0)) % n]!, 6);
     const crowns = Array.from({ length: 3 }, (_, i) => { const row = i * 2 + Math.floor(r() * 2), c = cols[i]!, x = 700 + c * (s + 4) + s / 2, y = 70 + row * (s + 4) + s / 2; return `<path d="M${x - 20} ${y + 14} L${x - 22} ${y - 12} L${x - 8} ${y} L${x} ${y - 18} L${x + 8} ${y} L${x + 22} ${y - 12} L${x + 20} ${y + 14} Z" fill="#111827"/>`; }).join("");
-    const tango = Array.from({ length: 6 }, (_, i) => { const x = 700 + i * 74 + 35, y = 545; return r() < 0.5 ? `<circle cx="${x}" cy="${y}" r="24" fill="#f59e0b"/>` : `<path d="M${x + 10} ${y - 24} A24 24 0 1 0 ${x + 10} ${y + 24} A18 18 0 1 1 ${x + 10} ${y - 24} Z" fill="#60a5fa"/>`; }).join("");
+    const tango = Array.from({ length: 6 }, (_, i) => { const x = 700 + i * 74 + 35, y = 545; return r() < 0.5 ? `<circle cx="${x}" cy="${y}" r="24" fill="#f59e0b"/>` : `<circle cx="${x}" cy="${y}" r="24" fill="#60a5fa"/><circle cx="${x + 11}" cy="${y - 7}" r="20" fill="#ffffff"/>`; }).join("");
     return board + crowns + `<rect x="696" y="505" width="448" height="80" rx="12" fill="#ffffff" opacity=".9"/>` + tango;
   },
 };
@@ -115,6 +115,10 @@ export const PUZZLE_HEROES: [string, string, string, string, string, string, str
   ["nyt-connections-hints-answers-october-25-2026-1232", "connections", "#1e1a3a", "#f9df6d", "Connections #1232 · Sun., Oct. 25, 2026", "Connections hints", "Gentle hints for every group first, answers only at the end."],
   ["nyt-strands-hints-answers-october-25-2026-966", "strands", "#0f2f3a", "#aedfee", "Strands #966 · Sun., Oct. 25, 2026", "Strands hints today", "Spangram and theme-word hints first, answers at the end."],
   ["quordle-hints-answers-october-25-2026-1735", "quordle", "#1f2937", "#6aaa64", "Quordle #1735 · Sun., Oct. 25, 2026", "Quordle hints today", "A clue for each of the four words, answers at the end."],
+  ["nyt-spelling-bee-hints-answers-october-25-2026", "bee", "#1c1917", "#f7da21", "Spelling Bee · Sun., Oct. 25, 2026", "Spelling Bee hints", "Hint grid and two-letter list first, the word list at the end."],
+  ["nyt-pips-hints-answers-october-25-2026", "pips", "#1e293b", "#f9a8d4", "Pips · Sun., Oct. 25, 2026", "Pips hints today", "Hints for Easy, Medium and Hard, placements at the end."],
+  ["nyt-connections-sports-edition-hints-answers-october-25-2026-762", "sports", "#0f2a1d", "#a0c35a", "Sports Edition #762 · Sun., Oct. 25, 2026", "Sports Connections", "Hints for every group first, answers only at the end."],
+  ["linkedin-games-answers-today-october-25-2026-queens-tango-zip", "linkedin", "#0b2545", "#93c5fd", "LinkedIn games · Sun., Oct. 25, 2026", "LinkedIn games hints", "Queens, Tango, Zip, Pinpoint and Crossclimb, answers at the end."],
 ];
 
 export async function buildHeroes5(): Promise<void> {
