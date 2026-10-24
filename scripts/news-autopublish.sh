@@ -10,12 +10,13 @@
 # A red or cancelled CI run is never published; the next green commit is. Writers keep pushing
 # to main; nobody runs news:deploy by hand unless this is switched off.
 #
-# Env: FC_REPO (main checkout, only fetched), FC_PUBLISH_WT (the publish worktree),
+# Env: FC_PUBLISH_WT (the publish clone, default ~/.freshcalendars-publish), FC_REPO (where to fetch),
 #      FC_AUTOPUBLISH_DRY=1 (decide and log, do not deploy).
 set -euo pipefail
 
-REPO="${FC_REPO:-$HOME/Documents/Workspace/FreshCalendars}"
-WT="${FC_PUBLISH_WT:-$HOME/Documents/Workspace/FreshCalendars-publish}"
+WT="${FC_PUBLISH_WT:-$HOME/.freshcalendars-publish}"
+# Where to fetch and diff; the installed job uses its own clone for both (launchd cannot read ~/Documents).
+REPO="${FC_REPO:-$WT}"
 STATE="$HOME/Library/Application Support/FreshCalendars/autopublish"
 DEPLOY_LOG="$HOME/Library/Logs/freshcalendars-deploy-last.log"
 mkdir -p "$STATE" "$(dirname "$DEPLOY_LOG")"
