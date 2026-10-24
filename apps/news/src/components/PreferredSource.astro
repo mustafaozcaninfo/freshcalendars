@@ -18,7 +18,8 @@ const DEEPLINK = "https://www.google.com/preferences/source?q=freshcalendars.com
   .pref-src{display:flex;flex-wrap:wrap;align-items:center;gap:.6rem 1rem;margin:0 0 1.25rem;padding:.85rem 1rem;border:1px solid var(--line);border-radius:14px;background:#fff}
   .pref-txt{flex:1 1 260px;margin:0;font-size:.92rem;line-height:1.4;color:var(--ink)}
   .pref-txt b{color:var(--ink-strong)}
-  .pref-btn:empty{display:none}
+  /* Google draws the button in a shadow root and marks the host data-initialized; hide the host until then. */
+  .pref-btn:not([data-initialized]){display:none}
   .pref-link{display:inline-flex;align-items:center;min-height:44px;padding:0 1rem;border:1px solid var(--line);border-radius:999px;font-size:.88rem;font-weight:700;color:var(--ink-strong);text-decoration:none}
   .pref-link:hover,.pref-link:focus-visible{border-color:#1a73e8;color:#1a73e8}
   .pref-src.ready .pref-link{display:none}

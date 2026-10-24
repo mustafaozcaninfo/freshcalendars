@@ -7,10 +7,13 @@ export const PREF_SRC_JS = `(() => {
     const boxes = document.querySelectorAll("[data-pref-src]");
     if (!boxes.length || window.__prefSrc) return;
     window.__prefSrc = true;
-    // Once Google's button has drawn itself, drop the fallback link so readers see one control.
+    // Google renders into a shadow root and sets data-initialized on the host. Once the button is
+    // really drawn there, drop the fallback link so readers see one control.
     for (const b of boxes) {
       const btn = b.querySelector(".pref-btn");
-      new MutationObserver((_, mo) => { if (btn.childElementCount) { b.classList.add("ready"); mo.disconnect(); } }).observe(btn, { childList: true, subtree: true });
+      const drawn = () => btn.hasAttribute("data-initialized") && btn.shadowRoot && btn.shadowRoot.childElementCount > 0;
+      const mark = () => { if (drawn()) { b.classList.add("ready"); return true; } return false; };
+      new MutationObserver((_, mo) => { if (mark()) mo.disconnect(); else setTimeout(mark, 300); }).observe(btn, { attributes: true, attributeFilter: ["data-initialized"] });
     }
     const load = () => {
       if (document.querySelector('script[src*="news.google.com/swg/js/v1/publisher.js"]')) return;
