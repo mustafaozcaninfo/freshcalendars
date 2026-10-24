@@ -40,13 +40,10 @@ const ART: Record<string, string> = {
 
 /** [slug, game art key, bg, accent, kicker, title, dek]: filled in per day. */
 export const PUZZLE_HEROES: [string, string, string, string, string, string, string][] = [
-  ["wordle-hint-answer-today-october-21-2026-1950", "wordle", "#121213", "#c9b458", "Wordle #1950 · Wed., Oct. 21, 2026", "Wordle hints today", "Five clues from gentle to strong, the answer only at the end."],
-  ["nyt-connections-hints-answers-october-21-2026-1228", "connections", "#1e1a3a", "#f9df6d", "Connections #1228 · Wed., Oct. 21, 2026", "Connections hints", "Two hints for every group first, answers only at the end."],
-  ["nyt-strands-hints-answers-october-21-2026-962", "strands", "#0f2f3a", "#aedfee", "Strands #962 · Wed., Oct. 21, 2026", "Strands hints today", "Spangram and theme-word hints first, answers at the end."],
-  ["nyt-mini-crossword-answers-october-21-2026", "mini", "#0b2545", "#a7d8ff", "NYT Mini · Wed., Oct. 21, 2026", "Mini Crossword answers", "A hint for every clue, then the full grid."],
-  ["quordle-hints-answers-october-21-2026-1731", "quordle", "#1f2937", "#6aaa64", "Quordle #1731 · Wed., Oct. 21, 2026", "Quordle hints today", "A clue for each of the four words, answers at the end."],
-  ["contexto-answer-hints-october-21-2026-1494", "contexto", "#111827", "#22c55e", "Contexto #1494 · Wed., Oct. 21, 2026", "Contexto hints today", "Close words and graded hints before the secret word."],
-  ["blossom-word-game-answers-october-21-2026", "blossom", "#3b0a2a", "#fde047", "Blossom · Wed., Oct. 21, 2026", "Blossom answers today", "Today's letters, scoring tips and both pangrams."],
+  ["wordle-hint-answer-today-october-25-2026-1954", "wordle", "#121213", "#c9b458", "Wordle #1954 · Sun., Oct. 25, 2026", "Wordle hints today", "Six clues from gentle to strong, the answer only at the end."],
+  ["nyt-connections-hints-answers-october-25-2026-1232", "connections", "#1e1a3a", "#f9df6d", "Connections #1232 · Sun., Oct. 25, 2026", "Connections hints", "Gentle hints for every group first, answers only at the end."],
+  ["nyt-strands-hints-answers-october-25-2026-966", "strands", "#0f2f3a", "#aedfee", "Strands #966 · Sun., Oct. 25, 2026", "Strands hints today", "Spangram and theme-word hints first, answers at the end."],
+  ["quordle-hints-answers-october-25-2026-1735", "quordle", "#1f2937", "#6aaa64", "Quordle #1735 · Sun., Oct. 25, 2026", "Quordle hints today", "A clue for each of the four words, answers at the end."],
 ];
 
 export async function buildHeroes5(): Promise<void> {
