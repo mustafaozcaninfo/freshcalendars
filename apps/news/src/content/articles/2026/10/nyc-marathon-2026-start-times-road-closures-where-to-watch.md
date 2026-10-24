@@ -38,9 +38,16 @@ assets:
     description: "One-page race-day timeline for the Nov. 1, 2026 New York City Marathon: the time change, every start wave, TV windows and the finish cutoff. Free printable."
     alt: "NYC Marathon 2026 race-day timeline printable with the time change, pro and wave start times, TV windows and the 10 p.m. finish cutoff"
 hero:
-  src: ../../../../assets/news/nyc-marathon-2026-start-times-road-closures-where-to-watch/nyc-marathon-2026-start-times-road-closures-where-to-watch.jpg
-  alt: "NYC Marathon 2026 illustration: a Nov. 1 date tile beside a card reading Wave 1 starts 9:10 a.m. ET, pros start at 8:00 a.m."
-  caption: "The 2026 TCS New York City Marathon runs Sunday, Nov. 1. The professional wheelchair races start at 8:00 a.m. and the first amateur wave at 9:10 a.m. Eastern Time."
+  src: ../../../../assets/news/nyc-marathon-2026-start-times-road-closures-where-to-watch/nyc-marathon-2026-start-times-road-closures-where-to-watch.webp
+  alt: "NYC Marathon runners seen from behind crossing the Verrazzano-Narrows Bridge from Staten Island, the race's first mile"
+  caption: "File photo from the 2014 race: runners climb the Verrazzano-Narrows Bridge out of Staten Island. The 2026 marathon starts there on Sunday, Nov. 1."
+  credit: "Photo: Metropolitan Transportation Authority of the State of New York / Wikimedia Commons, cropped"
+  license:
+    name: "CC BY 2.0"
+    url: "https://creativecommons.org/licenses/by/2.0"
+    source: "https://commons.wikimedia.org/wiki/File:New_York_City_Marathon_2014_(15082977714).jpg"
+    author: "Metropolitan Transportation Authority of the State of New York"
+    authorUrl: "https://www.flickr.com/people/61135621@N03"
 summary:
   - "The 2026 TCS New York City Marathon is Sunday, Nov. 1, over 26.2 miles through the five boroughs."
   - "Professional wheelchair racers start at 8:00 a.m. Eastern Time (ET); the professional runners follow at 8:35 and 9:05 a.m.; the five amateur waves start from 9:10 to 11:30 a.m."

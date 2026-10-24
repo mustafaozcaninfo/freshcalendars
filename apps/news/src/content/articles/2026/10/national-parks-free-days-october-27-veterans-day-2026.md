@@ -33,9 +33,16 @@ assets:
     description: "A one-page checklist of the last two National Parks fee-free days of 2026, Oct. 27 and Nov. 11, with what to confirm and check before you go."
     alt: "National Parks free days 2026 checklist printable with dates Oct. 27 and Nov. 11 and a before you go section"
 hero:
-  src: ../../../../assets/news/national-parks-free-days-october-27-veterans-day-2026/national-parks-free-days-october-27-veterans-day-2026.jpg
-  alt: "National parks free days 2026 illustration: an autumn landscape with a card reading Tuesday, Oct. 27"
-  caption: "The next entrance-fee-free day at National Park Service sites is Tuesday, Oct. 27, 2026, Theodore Roosevelt's birthday, followed by Veterans Day on Wednesday, Nov. 11."
+  src: ../../../../assets/news/national-parks-free-days-october-27-veterans-day-2026/national-parks-free-days-october-27-veterans-day-2026.webp
+  alt: "Grand Teton peaks above golden autumn aspens at Grand Teton National Park, one of the parks free to enter on national parks free days"
+  caption: "Grand Teton from Elk Ranch Flats in autumn, a National Park Service photo. The park charges an entrance fee that is waived for U.S. residents on Oct. 27 and Nov. 11."
+  credit: "Photo: GrandTetonNPS / Wikimedia Commons, cropped"
+  license:
+    name: "Public domain"
+    url: "https://creativecommons.org/publicdomain/mark/1.0/"
+    source: "https://commons.wikimedia.org/wiki/File:Grand_Teton_from_Elk_Ranch_Flats_(29692922180).jpg"
+    author: "GrandTetonNPS"
+    authorUrl: "https://www.flickr.com/people/grandtetonnps/"
 summary:
   - "The next entrance-fee-free day at National Park Service (NPS) sites is Tuesday, Oct. 27, 2026, Theodore Roosevelt's birthday."
   - "Veterans Day, Wednesday, Nov. 11, 2026, is the last fee-free day of the year at the parks."

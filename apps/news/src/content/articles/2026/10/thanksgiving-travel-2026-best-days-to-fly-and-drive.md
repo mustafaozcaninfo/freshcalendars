@@ -35,10 +35,16 @@ assets:
     description: "A Thanksgiving 2026 travel calendar for Nov. 21 to 30 with planning notes and last year's heaviest-traffic windows by day."
     alt: "Thanksgiving 2026 travel calendar printable for Nov. 21 to 30 with planning notes by day"
 hero:
-  src: ../../../../assets/news/thanksgiving-travel-2026-best-days-to-fly-and-drive/thanksgiving-travel-2026-best-days-to-fly-and-drive.jpg
-  alt: "Thanksgiving travel 2026 planner: calendar card for Thursday, Nov. 26 with the Nov. 21 to 30 travel window"
-  title: "Thanksgiving travel 2026"
-  caption: "Thanksgiving Day 2026 is Thursday, Nov. 26. Most trips fall between Saturday, Nov. 21 and Monday, Nov. 30."
+  src: ../../../../assets/news/thanksgiving-travel-2026-best-days-to-fly-and-drive/thanksgiving-travel-2026-best-days-to-fly-and-drive.webp
+  alt: "Airplane wing and winglet over green farmland at sunset, a view from a window seat during Thanksgiving travel 2026 planning"
+  caption: "File photo: an Embraer 190 wing at sunset. AAA counted about 6 million domestic flyers over Thanksgiving 2025; its 2026 forecast is not out yet."
+  credit: "Photo: PierreSelim / Wikimedia Commons, cropped"
+  license:
+    name: "CC BY-SA 3.0"
+    url: "https://creativecommons.org/licenses/by-sa/3.0"
+    source: "https://commons.wikimedia.org/wiki/File:Embraer_190_-_Wing_and_winglet_at_sunset.jpg"
+    author: "PierreSelim"
+    authorUrl: "https://commons.wikimedia.org/wiki/User:PierreSelim"
 summary:
   - "Thanksgiving Day 2026 is Thursday, Nov. 26, a federal holiday, and this guide covers the travel days from Saturday, Nov. 21 to Monday, Nov. 30."
   - "The American Automobile Association (AAA) had not released its 2026 Thanksgiving forecast as of Oct. 24, 2026; last year's came out Nov. 17, 2025."
