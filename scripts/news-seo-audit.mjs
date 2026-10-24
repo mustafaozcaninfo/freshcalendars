@@ -213,14 +213,14 @@ check("09-VISIBLE-BYLINE-DATE", "Visible byline and publication date sit apart f
   each(articleUrls, (u, h) => (/<p class="byline"/.test(h) && /<p class="dates"[\s\S]*?<time datetime=/.test(h) ? null : "byline/date block missing")));
 
 // ── 03 Scaled content / velocity ───────────────────────────────────────────
-check("03-VELOCITY", "No mass publishing: at most 150 stories in any 7 days (raised from 100 by owner 2026-10-23), far below 1,000 URLs/7 days; batch by QA capacity (§03 l.758, l.833)", () => {
+check("03-VELOCITY", "No mass publishing: at most 120 stories in any 7 days, far below 1,000 URLs/7 days; batch by QA capacity (§03 l.758, l.833)", () => {
   // Velocity is a rate: count stories by datePublished in every rolling 7-day window.
   const days = articleUrls
     .map((u) => nodes(html[u]).find((n) => /NewsArticle$/.test(n["@type"]))?.datePublished)
     .filter(Boolean).map((d) => Date.parse(d)).sort((a, b) => a - b);
   let worst = 0;
   for (let i = 0, j = 0; i < days.length; i++) { while (days[i] - days[j] > 7 * 864e5) j++; worst = Math.max(worst, i - j + 1); }
-  return worst <= 150 ? [] : [`${worst} stories published within 7 days`];
+  return worst <= 120 ? [] : [`${worst} stories published within 7 days`];
 });
 check("03-UNIQUE-TITLES", "Unique <title> and meta description per page (no templated duplicates) (§03 risks)", () => {
   const seen = {}; const dup = [];
@@ -246,7 +246,7 @@ check("04-NO-ORPHANS", "Zero orphan pages; every page reachable from /news/ (§0
 check("04-TOPIC-FOCUS", "Articles stay inside the declared source context (calendar/holiday/date categories) (§04 l.1010-1015)", () =>
   each(articleUrls, (u, h) => {
     const sec = nodes(h).find((n) => /NewsArticle$/.test(n["@type"]))?.articleSection;
-    return ["Holidays", "Time Change", "School Calendars", "Retail Dates", "Sky Events", "UK & Canada", "Planning", /* owner decision 2026-10-20 */ "Puzzles", /* split out of Planning 2026-10-23 */ "Elections", "Calendar Guides"].includes(sec) ? null : `section=${sec}`;
+    return ["Holidays", "Time Change", "School Calendars", "Retail Dates", "Sky Events", "UK & Canada", "Planning", /* owner decision 2026-10-20 */ "Puzzles"].includes(sec) ? null : `section=${sec}`;
   }));
 
 // ── 05/08 Schema rules ─────────────────────────────────────────────────────
@@ -300,10 +300,7 @@ check("08-SOURCES", "Every news/update article cites ≥1 primary source with a 
 
 // ── Sitemaps ───────────────────────────────────────────────────────────────
 check("02-SITEMAP", "Every indexable page is in a sitemap; no noindex page is (§02 C l.661)", () => {
-  // Every child of the sitemap index except the 48-hour News sitemap, so a new sitemap is checked too.
-  const index = readFileSync(path.join(dist, "sitemap.xml"), "utf8");
-  const children = [...index.matchAll(/<loc>[^<]*\/news\/([^<\/]+\.xml)<\/loc>/g)].map((m) => m[1]).filter((f) => f !== "news-sitemap.xml");
-  const xml = children.map((f) => existsSync(path.join(dist, f)) ? readFileSync(path.join(dist, f), "utf8") : "").join("");
+  const xml = ["post-sitemap.xml", "category-sitemap.xml", "author-sitemap.xml", "page-sitemap.xml"].map((f) => existsSync(path.join(dist, f)) ? readFileSync(path.join(dist, f), "utf8") : "").join("");
   const inMap = new Set([...xml.matchAll(/<loc>https:\/\/freshcalendars\.com([^<]+)<\/loc>/g)].map((m) => m[1]));
   const out = [];
   for (const u of urls) {
@@ -347,8 +344,6 @@ check("08-ABBREV", "Abbreviations defined on first use in article prose (§08 l.
     const COMMON = new Set(["US", "U.S.", "UK", "EU", "ET", "AM", "PM", "TV", "NBC", "ID", "UTC", "NYSE", "SAT", "ACT", "EDM", "AARP", "AAA", "DST", "EST", "EDT", "CST", "CDT", "MST", "MDT", "PST", "PDT", "AKST", "AKDT", "GMT", "BST", "CET", "CEST", "COLA", "SSI", "II", "DC", "NASA", "IRS", "PDF", "PNG",
       // Proper names written in capitals, not abbreviations.
       "TIME", "GOV", "NORC", "LEGO", "PEAK", "IKEA", "H-E-B", "CVS", "UPS", "FOX", "ESPN", "CBS",
-      // Traffic-analytics company name and the REAL ID program name, proper nouns in capitals.
-      "INRIX", "REAL",
       // Words quoted as printed in capitals ("10-22-38 ASTORIA", the first xerographic copy).
       "ASTORIA",
       // Phone mnemonics (1-800-MEDICARE).
