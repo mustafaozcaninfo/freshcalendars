@@ -4,10 +4,10 @@ seoTitle: "USPS Holiday Shipping Deadlines 2026 for Christmas"
 description: "USPS 2026 holiday deadlines for Christmas delivery: Ground Advantage and First-Class Mail by Dec. 17, Priority Mail Dec. 18, Priority Mail Express Dec. 19."
 type: news
 publishedAt: "2026-10-19T10:55:00-04:00"
-updatedAt: "2026-10-22T02:40:00-04:00"
+updatedAt: "2026-10-24T00:50:00-04:00"
 authors: [news-desk]
 category: retail-dates
-keywords: ["USPS holiday shipping deadlines 2026", "last day to ship for Christmas 2026", "USPS Christmas deadline 2026", "Priority Mail holiday deadline", "holiday mailing dates 2026"]
+keywords: ["holiday shipping deadlines 2026 usps", "USPS holiday shipping deadlines 2026", "last day to ship for Christmas 2026", "USPS Christmas deadline 2026", "Priority Mail holiday deadline"]
 dateline: "New York"
 assets:
   scene: winter-holidays
@@ -40,6 +40,8 @@ summary:
   - "International First-Class Package and Priority Mail should go by Wednesday, Dec. 9, and Priority Mail Express International by Wednesday, Dec. 16."
   - "Ground Advantage to Alaska, Hawaii, Puerto Rico and the territories has a service expectation of 10 days or more; military Ground Advantage is Nov. 4. All dates are recommendations, not guarantees."
 faq:
+  - q: "What are the USPS holiday shipping deadlines for 2026?"
+    a: "For Christmas delivery in the lower 48 states, the Postal Service recommends Ground Advantage and First-Class Mail by Thursday, Dec. 17, 2026, Priority Mail by Friday, Dec. 18, and Priority Mail Express by Saturday, Dec. 19. The days-until table on this page counts from today."
   - q: "What is the last day to ship USPS for Christmas 2026?"
     a: "Saturday, Dec. 19, 2026, using Priority Mail Express, for delivery in the lower 48 states. Priority Mail should be sent by Friday, Dec. 18, and Ground Advantage and First-Class Mail by Thursday, Dec. 17."
   - q: "Are the USPS holiday dates guaranteed?"
@@ -103,12 +105,15 @@ draft: false
 
 ## USPS holiday shipping deadlines 2026
 
-| Service | Lower 48 states | Alaska, Hawaii, Puerto Rico, territories |
-|---|---|---|
-| USPS Ground Advantage | Thursday, Dec. 17 | Check your ZIP Codes (10 days or more) |
-| First-Class Mail (cards, letters) | Thursday, Dec. 17 | Thursday, Dec. 17 |
-| Priority Mail | Friday, Dec. 18 | Friday, Dec. 18 |
-| Priority Mail Express | Saturday, Dec. 19 | Saturday, Dec. 19 |
+<p class="days-live" data-days-until="2026" hidden></p>
+
+| Send-by date | Day | USPS service (lower 48 states) | Days from today |
+|---|---|---|---|
+| Dec. 17 | Thursday | Ground Advantage and First-Class Mail (cards, letters) | - |
+| Dec. 18 | Friday | Priority Mail | - |
+| Dec. 19 | Saturday | Priority Mail Express | - |
+
+For Alaska, Hawaii, Puerto Rico and the territories, First-Class Mail, Priority Mail and Priority Mail Express follow the same send-by dates above; only Ground Advantage differs, with a service expectation of 10 days or more.
 
 USPS says Ground Advantage packages between the lower 48 and Alaska, Hawaii, American Samoa, Puerto Rico, the U.S. Virgin Islands, Guam, the Northern Mariana Islands and the Freely Associated States have a service expectation of 10 days or more. Use the [USPS Service Commitments tool](https://postcalc.usps.com/ServiceCommitments) for your origin and destination ZIP Codes instead of the lower-48 date.
 

@@ -1,14 +1,37 @@
 ---
-title: "Thanksgiving 2026 Is Thursday, Nov. 26: Why the Date Moves, the 1941 Fourth-Thursday Rule and What Is Closed"
-seoTitle: "Thanksgiving 2026 Date: Nov. 26, Parade, What's Closed"
-description: "Thanksgiving 2026 is Thursday, Nov. 26. The 100th Macy's parade starts at 8:30 a.m., Black Friday is Nov. 27, plus what is closed and dates through 2030."
+title: "Thanksgiving 2026 Is Thursday, Nov. 26: Live Countdown, Printable Calendar and What Is Closed"
+seoTitle: "Thanksgiving 2026: Nov. 26 Date, Countdown, Calendar"
+description: "Thanksgiving 2026 is Thursday, Nov. 26. See a live countdown, how many days until Thanksgiving, a printable November 2026 calendar and what is closed."
 type: explainer
 publishedAt: "2026-10-17T16:30:00-04:00"
-updatedAt: "2026-10-20T14:15:00-04:00"
+updatedAt: "2026-10-24T00:50:00-04:00"
 authors: [news-desk]
 category: holidays
-keywords: ["Thanksgiving 2026", "when is Thanksgiving 2026", "why is Thanksgiving on a different date", "what is closed on Thanksgiving 2026", "Thanksgiving dates 2027"]
+keywords: ["thanksgiving 2026", "how many days until thanksgiving 2026", "thanksgiving 2026 date and day", "thanksgiving 2026 calendar", "how long until thanksgiving 2026"]
 dateline: "New York"
+assets:
+  scene: thanksgiving
+  kicker: "Thanksgiving 2026 · Thu., Nov. 26"
+  date: "2026-11-26"
+  card: { top: "Thanksgiving Day 2026", big: "Thu., Nov. 26", bottom: "The fourth Thursday of November" }
+  printable:
+    slug: thanksgiving-2026-calendar-november
+    group: thanksgiving-2026
+    title: "Thanksgiving 2026 Calendar, November 2026"
+    subtitle: "Thanksgiving week and the dates around it"
+    layout: month
+    rows:
+      - ["Nov. 11", "Veterans Day (federal holiday)"]
+      - ["Nov. 25", "Thanksgiving Eve, first NFL Thanksgiving Eve game"]
+      - ["Nov. 26", "Thanksgiving Day (federal holiday)"]
+      - ["Nov. 27", "Black Friday"]
+      - ["Nov. 28", "Small Business Saturday"]
+      - ["Nov. 29", "First Sunday of Advent"]
+      - ["Nov. 30", "Cyber Monday"]
+    note: "Source: 5 U.S. Code Section 6103; U.S. Office of Personnel Management federal holidays."
+    inkSaver: true
+    description: "A printable November 2026 calendar marking Thanksgiving Day, Black Friday, Small Business Saturday, Cyber Monday and Veterans Day."
+    alt: "Printable November 2026 calendar with Thanksgiving Day on Nov. 26 and the surrounding holiday dates marked"
 hero:
   src: ../../../../assets/news/why-thanksgiving-2026-is-november-26/why-thanksgiving-2026-is-november-26.jpg
   alt: "Thanksgiving 2026 on Thursday, Nov. 26, circled as the fourth Thursday on a November 2026 calendar with autumn leaves"
@@ -22,6 +45,10 @@ summary:
 faq:
   - q: "What date is Thanksgiving 2026?"
     a: "Thursday, Nov. 26, 2026. It is the fourth Thursday of November, as set by federal law."
+  - q: "How many days until Thanksgiving 2026?"
+    a: "Thanksgiving is Thursday, Nov. 26, 2026. The live countdown and days-until table on this page count the days from today in Eastern Time."
+  - q: "What is the date and day of Thanksgiving 2026?"
+    a: "Thanksgiving 2026 falls on Thursday, Nov. 26, the fourth Thursday of November."
   - q: "Why is Thanksgiving on a different date every year?"
     a: "The law ties Thanksgiving to a weekday, the fourth Thursday of November, not to a calendar number. The date therefore moves between Nov. 22 and Nov. 28 depending on which weekday Nov. 1 falls on."
   - q: "Is the day after Thanksgiving a federal holiday?"
@@ -61,11 +88,52 @@ internalLinks:
     label: "November 2026 printable calendar"
   - href: "/holidays/"
     label: "2026 US holiday list"
+downloads:
+  - group: "Thanksgiving 2026 Calendar printables"
+    title: "Thanksgiving 2026 Calendar, November 2026"
+    description: "A printable November 2026 calendar marking Thanksgiving Day, Black Friday, Small Business Saturday, Cyber Monday and Veterans Day."
+    preview: ../../../../assets/news/thanksgiving-2026/thanksgiving-2026-calendar-november.png
+    alt: "Printable November 2026 calendar with Thanksgiving Day on Nov. 26 and the surrounding holiday dates marked"
+    pdf: "/news/downloads/thanksgiving-2026/thanksgiving-2026-calendar-november.pdf"
+    png: "/news/downloads/thanksgiving-2026/thanksgiving-2026-calendar-november.png"
+    pages: 1
+  - group: "Thanksgiving 2026 Calendar printables"
+    title: "Thanksgiving 2026 Calendar, November 2026 (ink saver)"
+    description: "A printable November 2026 calendar marking Thanksgiving Day, Black Friday, Small Business Saturday, Cyber Monday and Veterans Day. Ink-saver version."
+    preview: ../../../../assets/news/thanksgiving-2026/thanksgiving-2026-calendar-november-ink.png
+    alt: "Printable November 2026 calendar with Thanksgiving Day on Nov. 26 and the surrounding holiday dates marked, ink-saver version"
+    pdf: "/news/downloads/thanksgiving-2026/thanksgiving-2026-calendar-november-ink.pdf"
+    png: "/news/downloads/thanksgiving-2026/thanksgiving-2026-calendar-november-ink.png"
+    pages: 1
 draft: false
-related: [veterans-day-2026-wednesday-november-11, black-friday-2026-store-hours-walmart-target-best-buy, federal-holidays-2027-observed-dates-list]
+related: [thanksgiving-2026-planner-countdown-checklist, thanksgiving-football-schedule-2026-nfl-college-games, black-friday-2026-ad-tracker-walmart-target-best-buy]
 ---
 
-Thanksgiving Day 2026 is **Thursday, Nov. 26**. The date is not picked each year: a 1941 federal law places the holiday on the fourth Thursday of November, which is why it moves around the calendar while holidays like Christmas stay put. Black Friday follows on Nov. 27, and the 100th Macy's Thanksgiving Day Parade steps off the morning of the 26th.
+**Thanksgiving 2026 is Thursday, Nov. 26, the fourth Thursday of November.** The date is not picked each year: a 1941 federal law places the holiday on the fourth Thursday of November, which is why it moves around the calendar while holidays like Christmas stay put. Black Friday follows on Nov. 27, and the 100th Macy's Thanksgiving Day Parade steps off the morning of the 26th.
+
+## Countdown to Thanksgiving 2026
+
+<div class="tool-box" data-launch-clock data-local="2026-11-26" data-done="Thanksgiving 2026 is here. Happy Thanksgiving." data-targets="Thanksgiving Day, midnight in your time zone|;Macy's parade starts, 8:30 a.m. ET|2026-11-26T13:30:00Z;First NFL kickoff, Bears at Lions, 1 p.m. ET|2026-11-26T18:00:00Z" hidden>
+<p class="tool-title">Days, hours, minutes and seconds until Thanksgiving</p>
+<label for="lc-tg">Count down to</label>
+<select id="lc-tg"></select>
+<div class="tool-out"></div>
+</div>
+
+The clock needs JavaScript. Without it, the table below shows how many days until each day of Thanksgiving week. The parade and kickoff times come from the [Thanksgiving 2026 TV schedule](/news/thanksgiving-2026-tv-schedule-macys-parade-nfl-games/); the midnight option counts from your own device's idea of midnight, which it says.
+
+## How many days until Thanksgiving week 2026
+
+<p class="days-live" data-days-until="2026" hidden></p>
+
+| Date | Day | What happens | Days from today |
+|---|---|---|---|
+| Nov. 25 | Wednesday | Thanksgiving Eve, first NFL game | - |
+| Nov. 26 | Thursday | Thanksgiving Day (federal holiday) | - |
+| Nov. 27 | Friday | Black Friday | - |
+| Nov. 28 | Saturday | Small Business Saturday | - |
+| Nov. 29 | Sunday | First Sunday of Advent | - |
+| Nov. 30 | Monday | Cyber Monday | - |
 
 ## How the date is set
 
@@ -125,6 +193,9 @@ Canadian Thanksgiving falls on the second Monday of October. In 2026 it was Mond
 - Mail cards or packages by Tuesday, Nov. 24 if they need to arrive before the holiday.
 - If you trade stocks, remember the 1:00 p.m. ET close on Friday.
 - Check store hours before you go: [Costco closes on Thanksgiving](/news/costco-holiday-hours-closures-2026-2027/), [Black Friday 2026 store hours](/news/black-friday-2026-store-hours-walmart-target-best-buy/) lists who opens when on Nov. 27, and the [USPS holiday shipping deadlines](/news/usps-holiday-shipping-deadlines-2026/) list the last mailing days for December gifts.
+- Work through the whole holiday with the [Thanksgiving 2026 planner, countdown and checklist](/news/thanksgiving-2026-planner-countdown-checklist/).
+- Follow the games with the [Thanksgiving football schedule 2026](/news/thanksgiving-football-schedule-2026-nfl-college-games/), which lists the NFL and college games.
+- Track the deals early with the [Black Friday 2026 ad tracker](/news/black-friday-2026-ad-tracker-walmart-target-best-buy/) for Walmart, Target and Best Buy.
 - See everything else this month in [November 2026 important dates](/news/november-2026-important-dates-days-until/).
 
 Thanksgiving is one of two federal holidays this month; the other is [Veterans Day on Wednesday, Nov. 11](/news/veterans-day-2026-wednesday-november-11/). For next year's dates, including Thanksgiving on Nov. 25, 2027, see the [2027 federal holiday list](/news/federal-holidays-2027-observed-dates-list/), or check [when Thanksgiving falls](/when-is/thanksgiving/) in any year.

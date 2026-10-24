@@ -1,12 +1,13 @@
 ---
-title: "Medicare Open Enrollment Runs Through Dec. 7: Key 2027 Dates and Who Gets the One-Time $90 Part B Rebate"
-seoTitle: "Medicare Open Enrollment 2026: Dates and $90 Rebate"
-description: "Medicare open enrollment runs Oct. 15 to Dec. 7, 2026, with 2027 coverage starting Jan. 1. Who qualifies for the one-time $90 Part B rebate paid in October."
+title: "Medicare Open Enrollment 2026 Deadline Is Dec. 7: Key Dates, Countdown and the $90 Part B Rebate"
+seoTitle: "Medicare Open Enrollment 2026 Deadline: Dec. 7"
+description: "Medicare open enrollment for 2027 coverage ends Monday, Dec. 7, 2026. See a live countdown, the key dates and who gets the one-time $90 Part B rebate."
 type: news
 publishedAt: "2026-10-18T08:40:00-04:00"
+updatedAt: "2026-10-24T00:50:00-04:00"
 authors: [news-desk]
 category: planning
-keywords: ["Medicare open enrollment 2026", "Medicare open enrollment deadline December 7", "$90 Medicare rebate", "Medicare Improvement Fund premium rebate", "Part D out-of-pocket cap 2027"]
+keywords: ["medicare open enrollment 2026 deadline", "Medicare open enrollment 2026", "Medicare deadline December 7", "$90 Medicare rebate", "Part D out-of-pocket cap 2027"]
 dateline: "New York"
 hero:
   src: ../../../../assets/news/medicare-open-enrollment-2026-december-7-90-dollar-rebate/medicare-open-enrollment-2026-december-7-90-dollar-rebate.jpg
@@ -19,6 +20,8 @@ summary:
   - "Medicare Advantage enrollees, people whose Part B premium is paid by Medicaid, and people who pay IRMAA are not eligible."
   - "The Part D out-of-pocket cap rises to $2,400 in 2027, up from $2,100."
 faq:
+  - q: "When is the Medicare open enrollment 2026 deadline?"
+    a: "Monday, Dec. 7, 2026. Your plan must receive your enrollment request by Dec. 7, and the change takes effect on Jan. 1, 2027. The countdown and days-until table on this page count from today."
   - q: "When is Medicare open enrollment for 2027 coverage?"
     a: "From Oct. 15 to Dec. 7, 2026. Your plan must receive your enrollment request by Dec. 7, and the change takes effect on Jan. 1, 2027."
   - q: "Who gets the $90 Medicare rebate?"
@@ -58,7 +61,27 @@ related: [social-security-cola-2027-3-6-percent-payment-dates, aca-open-enrollme
 draft: false
 ---
 
-Medicare's annual open enrollment period started on Thursday, Oct. 15 and runs through **Monday, Dec. 7, 2026**. It is the main window each year to change Medicare health and drug coverage, and any change made now takes effect on **Jan. 1, 2027**. This month, about 20.8 million people in Original Medicare are also receiving a one-time $90 payment toward their Part B premium.
+**The Medicare open enrollment 2026 deadline is Monday, Dec. 7, the last day to change your Medicare coverage for 2027.** The date does not move. Enrollment started on Thursday, Oct. 15, it is the main window each year to change Medicare health and drug coverage, and any change made now takes effect on Jan. 1, 2027. This month, about 20.8 million people in Original Medicare are also receiving a one-time $90 payment toward their Part B premium.
+
+## Countdown to the Dec. 7 deadline
+
+<div class="tool-box" data-launch-clock data-local="2026-12-07" data-done="The Dec. 7 deadline has passed. Medicare Advantage members can still make one change by March 31, 2027." data-targets="Dec. 7 deadline, 11:59 p.m. Eastern Time|2026-12-08T04:59:00Z" hidden>
+<p class="tool-title">Days, hours, minutes and seconds until the deadline</p>
+<label for="lc-med">Count down to</label>
+<select id="lc-med"></select>
+<div class="tool-out"></div>
+</div>
+
+The clock counts to 11:59 p.m. Eastern Time on Dec. 7, shown in your own time zone. Your plan must receive the request by then. Without JavaScript, use the table below.
+
+## How many days until the Dec. 7 deadline
+
+<p class="days-live" data-days-until="2026" hidden></p>
+
+| Date | What happens | Days from today |
+|---|---|---|
+| Oct. 15 | Open enrollment begins | - |
+| Dec. 7 | Open enrollment deadline | - |
 
 ## What you can change before Dec. 7
 

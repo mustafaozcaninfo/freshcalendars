@@ -1,12 +1,13 @@
 ---
-title: "Small Business Saturday 2026 Is Nov. 28, and Cyber Monday Is Nov. 30: Thanksgiving Weekend Dates"
-seoTitle: "Small Business Saturday 2026 Nov. 28, Cyber Monday Nov. 30"
-description: "Small Business Saturday is Nov. 28, 2026, the day after Black Friday, and Cyber Monday is Nov. 30. Both dates, what each day is and a free weekend sheet."
+title: "Cyber Monday 2026 Is Monday, Nov. 30, and Small Business Saturday Is Nov. 28"
+seoTitle: "Cyber Monday 2026 Date: Nov. 30, Weekend Dates"
+description: "Cyber Monday 2026 is Monday, Nov. 30, and Small Business Saturday is Nov. 28, the Saturday after Thanksgiving. Both dates, what each day is and a free sheet."
 type: explainer
 publishedAt: "2026-10-23T02:50:00-04:00"
+updatedAt: "2026-10-24T00:50:00-04:00"
 authors: [news-desk]
 category: retail-dates
-keywords: ["Small Business Saturday 2026", "Cyber Monday 2026", "Black Friday 2026 date", "Thanksgiving weekend 2026"]
+keywords: ["cyber monday 2026 date", "Cyber Monday 2026", "Small Business Saturday 2026", "Thanksgiving weekend 2026", "Black Friday 2026 date"]
 dateline: "New York"
 assets:
   scene: shopping
@@ -37,10 +38,12 @@ summary:
   - "American Express created Small Business Saturday in 2010, and the U.S. Small Business Administration (SBA) has co-sponsored it since 2011."
   - "Cyber Monday is a retail marketing term, not a federal holiday."
 faq:
+  - q: "What is the Cyber Monday 2026 date?"
+    a: "Cyber Monday 2026 is Monday, Nov. 30, the Monday after Thanksgiving (Thursday, Nov. 26)."
   - q: "When is Small Business Saturday in 2026?"
     a: "Saturday, Nov. 28, 2026, the Saturday after Thanksgiving."
-  - q: "When is Cyber Monday in 2026?"
-    a: "Monday, Nov. 30, 2026, the Monday after Thanksgiving."
+  - q: "How many days until Cyber Monday 2026?"
+    a: "Cyber Monday is Monday, Nov. 30, 2026. The days-until table on this page counts the days from today in Eastern Time."
   - q: "Is Cyber Monday a federal holiday?"
     a: "No. It is a retail marketing term."
 sources:
@@ -75,16 +78,19 @@ downloads:
 draft: false
 ---
 
-**Small Business Saturday 2026 is Saturday, Nov. 28, and Cyber Monday is Monday, Nov. 30.** Both are counted from Thanksgiving, which falls on Thursday, Nov. 26 this year (see [why Thanksgiving is Nov. 26](/news/why-thanksgiving-2026-is-november-26/)). Black Friday sits between them and Small Business Saturday on Friday, Nov. 27.
+**Cyber Monday 2026 is Monday, Nov. 30, and Small Business Saturday 2026 is Saturday, Nov. 28.** Both are counted from Thanksgiving, which falls on Thursday, Nov. 26 this year (see [why Thanksgiving is Nov. 26](/news/why-thanksgiving-2026-is-november-26/)). Black Friday sits between them, on Friday, Nov. 27.
 
 ## Thanksgiving weekend 2026 at a glance
 
-| Date | Day |
-|---|---|
-| Thu., Nov. 26 | Thanksgiving Day |
-| Fri., Nov. 27 | Black Friday |
-| Sat., Nov. 28 | Small Business Saturday |
-| Mon., Nov. 30 | Cyber Monday |
+<p class="days-live" data-days-until="2026" hidden></p>
+
+| Date | Day | What happens | Days from today |
+|---|---|---|---|
+| Nov. 26 | Thursday | Thanksgiving Day | - |
+| Nov. 27 | Friday | Black Friday | - |
+| Nov. 28 | Saturday | Small Business Saturday | - |
+| Nov. 29 | Sunday | Quiet day before Cyber Monday | - |
+| Nov. 30 | Monday | Cyber Monday | - |
 
 Our [Black Friday date page](/when-is/black-friday/) and [Cyber Monday date page](/when-is/cyber-monday/) cover those two days on their own.
 

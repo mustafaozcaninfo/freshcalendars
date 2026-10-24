@@ -1,12 +1,13 @@
 ---
-title: "Diwali 2026 Is Sunday, Nov. 8: Five-Day Calendar, Lakshmi Puja Times in U.S. Cities and Where It's a Holiday"
-seoTitle: "Diwali 2026 USA Date: Sunday, Nov. 8, Lakshmi Puja Times"
-description: "When is Diwali 2026 in the United States? Sunday, Nov. 8. Lakshmi Puja times for 12 U.S. cities, all five days from Dhanteras to Bhai Dooj and free printables."
+title: "Diwali 2026 in the USA Is Sunday, Nov. 8: Countdown, Lakshmi Puja Times and the Five Days"
+seoTitle: "Diwali 2026 in the USA: Sunday, Nov. 8"
+description: "When is Diwali 2026 in the United States (USA)? Sunday, Nov. 8. See a countdown, Lakshmi Puja times for 12 U.S. cities and the five days of celebration."
 type: explainer
 publishedAt: "2026-10-19T07:45:00-04:00"
+updatedAt: "2026-10-24T00:50:00-04:00"
 authors: [news-desk]
 category: holidays
-keywords: ["Diwali 2026", "when is Diwali 2026", "Lakshmi Puja time 2026 USA", "Dhanteras 2026", "Diwali holiday California"]
+keywords: ["when is diwali 2026 in usa", "diwali 2026 usa", "Diwali 2026", "Lakshmi Puja time 2026 USA", "Dhanteras 2026"]
 dateline: "New York"
 hero:
   src: ../../../../assets/news/diwali-2026-date-lakshmi-puja-time-usa/diwali-2026-date-lakshmi-puja-time-usa.jpg
@@ -19,6 +20,10 @@ summary:
   - "In New York the Pradosh Kaal evening window is 4:44 p.m. to 7:08 p.m.; in Los Angeles it is 4:54 p.m. to 7:18 p.m. U.S. clocks will already be on standard time."
   - "2026 is California's first Diwali as a state holiday. Pennsylvania and Connecticut also recognize it, and New York City schools close for it on school days."
 faq:
+  - q: "When is Diwali 2026 in the USA?"
+    a: "Sunday, Nov. 8, 2026, the same night as in India. Lakshmi Puja is performed that evening after sunset, on the Amavasya (new moon) night of the Hindu month of Kartik."
+  - q: "How many days until Diwali 2026?"
+    a: "Diwali is Sunday, Nov. 8, 2026. The countdown and days-until table on this page count from today in Eastern Time."
   - q: "When is Diwali 2026?"
     a: "Sunday, Nov. 8, 2026. Lakshmi Puja is performed that evening, on the Amavasya (new moon) night of the Hindu month of Kartik."
   - q: "What time is Lakshmi Puja in the USA on Diwali 2026?"
@@ -84,7 +89,30 @@ downloads:
 draft: false
 ---
 
-**Diwali 2026 falls on Sunday, Nov. 8.** Lakshmi Puja, the central prayer of the festival, takes place that evening after sunset, on the Amavasya (new moon) night of the Hindu month of Kartik. The five days of celebration begin with Dhanteras on Friday, Nov. 6 and end with Bhai Dooj on Tuesday, Nov. 10. This year is also the first Diwali that California observes as a state holiday.
+**Diwali 2026 in the United States (USA) is Sunday, Nov. 8, the same night as in India.** The date shifts each year. Lakshmi Puja, the central prayer of the festival, takes place that evening after sunset, on the Amavasya (new moon) night of the Hindu month of Kartik. The five days of celebration begin with Dhanteras on Friday, Nov. 6 and end with Bhai Dooj on Tuesday, Nov. 10. This year is also the first Diwali that California observes as a state holiday.
+
+## Countdown to Diwali 2026
+
+<div class="tool-box" data-launch-clock data-local="2026-11-08" data-done="Diwali 2026 is here. Happy Diwali." data-targets="Lakshmi Puja begins in New York, 4:44 p.m. EST|2026-11-08T21:44:00Z;Lakshmi Puja begins in Chicago, 4:36 p.m. CST|2026-11-08T22:36:00Z;Lakshmi Puja begins in Houston and Dallas, 5:30 p.m. CST|2026-11-08T23:30:00Z;Lakshmi Puja begins in Los Angeles, 4:54 p.m. PST|2026-11-09T00:54:00Z;Diwali, midnight in your own time zone (an assumption)|" hidden>
+<p class="tool-title">Days, hours, minutes and seconds until Diwali</p>
+<label for="lc-diwali">Count down to</label>
+<select id="lc-diwali"></select>
+<div class="tool-out"></div>
+</div>
+
+The Lakshmi Puja options count to the start of the Pradosh Kaal window (sunset) in each city, from the Naval Observatory sunset times below, shown in your own time zone. Without JavaScript, use the table.
+
+## How many days until the five days of Diwali 2026
+
+<p class="days-live" data-days-until="2026" hidden></p>
+
+| Date | Day | What it marks | Days from today |
+|---|---|---|---|
+| Nov. 6 | Dhanteras | Buying gold, silver or new utensils | - |
+| Nov. 7 | Choti Diwali (Naraka Chaturdashi) | Early oil bath, first diyas, rangoli | - |
+| Nov. 8 | Diwali (Lakshmi Puja) | Lakshmi and Ganesha puja after sunset | - |
+| Nov. 9 | Govardhan Puja | Annakut food offerings | - |
+| Nov. 10 | Bhai Dooj | Sisters pray for brothers; brothers give gifts | - |
 
 ## Diwali 2026 dates: the five days
 

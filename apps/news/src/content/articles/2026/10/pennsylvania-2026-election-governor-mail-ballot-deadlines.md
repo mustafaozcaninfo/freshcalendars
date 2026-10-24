@@ -1,12 +1,13 @@
 ---
-title: "Pennsylvania 2026 Election: What's on the Ballot, the Oct. 27 Mail Ballot Deadline and Voting in One Visit"
-seoTitle: "Pennsylvania Election 2026: Ballot and Deadlines"
-description: "Pennsylvania's Nov. 3, 2026 ballot is led by the governor's race. Apply for a mail ballot by 5 p.m. Oct. 27; it must arrive by 8 p.m. on Election Day."
+title: "When Is Election Day 2026 in Pennsylvania? Tuesday, Nov. 3, and the Oct. 27 Mail Ballot Deadline"
+seoTitle: "Election Day 2026 in Pennsylvania: Tuesday, Nov. 3"
+description: "Election Day 2026 in Pennsylvania is Tuesday, Nov. 3. Polls open 7 a.m. to 8 p.m. Apply for a mail ballot by 5 p.m. Oct. 27; it must arrive by 8 p.m."
 type: explainer
 publishedAt: "2026-10-20T11:20:00-04:00"
+updatedAt: "2026-10-24T00:50:00-04:00"
 authors: [news-desk]
 category: elections
-keywords: ["Pennsylvania election 2026", "Pennsylvania mail ballot deadline 2026", "PA governor race 2026", "Pennsylvania sample ballot 2026", "Pennsylvania early voting 2026"]
+keywords: ["when is election day 2026 in pennsylvania", "Pennsylvania election 2026", "Pennsylvania mail ballot deadline 2026", "PA governor race 2026", "Pennsylvania early voting 2026"]
 dateline: "Harrisburg, Pa."
 hero:
   src: ../../../../assets/news/pennsylvania-2026-election-governor-mail-ballot-deadlines/pennsylvania-2026-election-governor-mail-ballot-deadlines.jpg
@@ -19,6 +20,8 @@ summary:
   - "Pennsylvania has no traditional early voting, but you can apply for, fill out and return a mail ballot in a single visit to your county election office."
   - "The registration deadline was Oct. 19, and polls are open 7 a.m. to 8 p.m. on Nov. 3."
 faq:
+  - q: "When is Election Day 2026 in Pennsylvania?"
+    a: "Tuesday, Nov. 3, 2026. Polls are open from 7 a.m. to 8 p.m. Mail ballots must be received by 8 p.m.; a postmark does not count."
   - q: "Is there a U.S. Senate race in Pennsylvania in 2026?"
     a: "No. Pennsylvania's Senate seats are next on the ballot in 2028 and 2030. The top race in 2026 is governor and lieutenant governor."
   - q: "When is the deadline to apply for a mail ballot in Pennsylvania?"
@@ -67,7 +70,16 @@ downloads:
 draft: false
 ---
 
-**Pennsylvania voters elect a governor and lieutenant governor on Tuesday, Nov. 3, 2026, and the most important date before then is Tuesday, Oct. 27.** That is the last day, by 5 p.m., to apply for a mail ballot, according to the Pennsylvania Department of State. Completed mail ballots must reach your county election office by 8 p.m. on Election Day; one that arrives later is not counted, whatever its postmark.
+**Election Day 2026 in Pennsylvania is Tuesday, Nov. 3, with polls open from 7 a.m. to 8 p.m.** Voters elect a governor and lieutenant governor, and the most important date before then is Tuesday, Oct. 27, the last day, by 5 p.m., to apply for a mail ballot, according to the Pennsylvania Department of State. Completed mail ballots must reach your county election office by 8 p.m. on Election Day; one that arrives later is not counted, whatever its postmark.
+
+## How many days until Election Day in Pennsylvania
+
+<p class="days-live" data-days-until="2026" hidden></p>
+
+| Date | What happens | Days from today |
+|---|---|---|
+| Oct. 27 | Last day to apply for a mail ballot (by 5 p.m.) | - |
+| Nov. 3 | Election Day; polls open 7 a.m. to 8 p.m. | - |
 
 ## What's on the ballot
 

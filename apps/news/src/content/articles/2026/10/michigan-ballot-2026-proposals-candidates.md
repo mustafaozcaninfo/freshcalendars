@@ -1,12 +1,13 @@
 ---
-title: "Michigan Ballot 2026: Proposals 1 and 2, the Certified Candidates for Governor and Senate, and Early Voting"
-seoTitle: "Michigan Ballot 2026: Proposals and Candidates"
-description: "Michigan's Nov. 3, 2026 ballot: a constitutional convention question, a campaign finance proposal and open races for governor and Senate, with dates."
+title: "When Is Election Day 2026 in Michigan? Tuesday, Nov. 3: Ballot, Candidates and Early Voting"
+seoTitle: "Election Day 2026 in Michigan: Tuesday, Nov. 3"
+description: "Election Day 2026 in Michigan is Tuesday, Nov. 3. See polling hours, early voting and absentee deadlines, the certified candidates and both ballot proposals."
 type: explainer
 publishedAt: "2026-10-20T11:15:00-04:00"
+updatedAt: "2026-10-24T00:50:00-04:00"
 authors: [news-desk]
 category: elections
-keywords: ["Michigan ballot 2026", "Michigan Proposal 1 2026", "Michigan Proposal 2 2026", "Michigan governor candidates 2026", "Michigan early voting 2026"]
+keywords: ["when is election day 2026 in michigan", "Michigan election 2026", "Michigan ballot 2026", "Michigan early voting 2026", "Michigan governor candidates 2026"]
 dateline: "Lansing, Mich."
 hero:
   src: ../../../../assets/news/michigan-ballot-2026-proposals-candidates/michigan-ballot-2026-proposals-candidates.jpg
@@ -19,6 +20,8 @@ summary:
   - "Early in-person voting runs at least Oct. 24 through Nov. 1 statewide, and you can register in person with proof of residency through 8 p.m. on Election Day."
   - "Absentee ballots must be received by 8 p.m. on Nov. 3; a postmark does not count."
 faq:
+  - q: "When is Election Day 2026 in Michigan?"
+    a: "Tuesday, Nov. 3, 2026. Polls are open from 7 a.m. to 8 p.m. Absentee ballots must be received by 8 p.m.; a postmark does not count."
   - q: "What are the Michigan ballot proposals for 2026?"
     a: "Proposal 1 asks whether to hold a convention in 2027 to draft a general revision of the state constitution, a question the constitution requires every 16 years. Proposal 2 is a citizen-initiated law that would bar campaign contributions from certain regulated utilities and large government contractors and expand disclosure rules for political ads."
   - q: "Who is running for governor of Michigan in 2026?"
@@ -67,7 +70,19 @@ downloads:
 draft: false
 ---
 
-**Michigan's Nov. 3, 2026 ballot has two statewide proposals and an unusually open top of the ticket.** Gov. Gretchen Whitmer, Secretary of State Jocelyn Benson and Attorney General Dana Nessel are term-limited, and U.S. Sen. Gary Peters is not seeking reelection, so all four offices have new nominees. The candidates below come from the Michigan Bureau of Elections' certified general election listing, in the order the parties appear.
+**Election Day 2026 in Michigan is Tuesday, Nov. 3, with polls open from 7 a.m. to 8 p.m.** The ballot has two statewide proposals and an unusually open top of the ticket. Gov. Gretchen Whitmer, Secretary of State Jocelyn Benson and Attorney General Dana Nessel are term-limited, and U.S. Sen. Gary Peters is not seeking reelection, so all four offices have new nominees. The candidates below come from the Michigan Bureau of Elections' certified general election listing, in the order the parties appear.
+
+## How many days until Election Day in Michigan
+
+<p class="days-live" data-days-until="2026" hidden></p>
+
+| Date | What happens | Days from today |
+|---|---|---|
+| Oct. 24 | Early in-person voting begins (at least nine days) | - |
+| Oct. 30 | Recommended last day to request a mail absentee ballot | - |
+| Nov. 1 | Early in-person voting ends | - |
+| Nov. 2 | Last day to vote absentee in person at your clerk's office | - |
+| Nov. 3 | Election Day; polls open 7 a.m. to 8 p.m. | - |
 
 ## Proposal 1: a constitutional convention
 

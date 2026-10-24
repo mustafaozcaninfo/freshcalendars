@@ -1,13 +1,13 @@
 ---
-title: "Sample Ballot by ZIP Code 2026: Find Your Nov. 3 Ballot in Every State, Printable Worksheet and Texas Guide"
-seoTitle: "Sample Ballot by ZIP Code 2026: Find and Print Yours"
-description: "Enter your ZIP code to find the official sample ballot lookup for your state, see all 50 states and D.C., and print a free ballot worksheet for Nov. 3, 2026."
+title: "Printable Sample Ballot by ZIP Code 2026: Find the Ballot for My ZIP Code in Every State"
+seoTitle: "Printable Sample Ballot by ZIP Code 2026"
+description: "Enter your ZIP code to find the official sample ballot for your ZIP code in any state, see all 50 states and D.C., and print a free ballot worksheet."
 type: news
 publishedAt: "2026-10-19T07:50:00-04:00"
-updatedAt: "2026-10-21T11:50:00-04:00"
+updatedAt: "2026-10-24T00:50:00-04:00"
 authors: [news-desk]
 category: elections
-keywords: ["sample ballot by zip code", "printable sample ballot 2026", "my sample ballot 2026", "sample ballot by address", "Texas sample ballot 2026"]
+keywords: ["printable sample ballot by zip code 2026", "sample ballot by zip code", "sample ballot for my zip code", "printable sample ballot 2026", "Texas sample ballot 2026"]
 dateline: "New York"
 hero:
   src: ../../../../assets/news/sample-ballot-by-zip-code-2026-texas-ballot/sample-ballot-by-zip-code-2026-texas-ballot.jpg
@@ -22,6 +22,8 @@ summary:
 faq:
   - q: "How do I find my sample ballot by ZIP code?"
     a: "Enter your ZIP code in the finder at the top of this story to get your state's official lookup, then search there by full street address or by name and date of birth. A ZIP code tells you the state, but only your address tells the county which precinct ballot you get."
+  - q: "Where is the sample ballot for my ZIP code?"
+    a: "Type your ZIP code into the finder at the top of this page. It points you to your state's official lookup, where you enter your address to see and print the sample ballot for your precinct."
   - q: "Why doesn't my ZIP code show one ballot?"
     a: "ZIP codes are drawn for mail delivery, not elections. A single ZIP code can include parts of different congressional, state legislative, city, school and judicial districts, so neighbors can have different ballots."
   - q: "How do I read a sample ballot?"
@@ -113,7 +115,7 @@ downloads:
 draft: false
 ---
 
-**Your sample ballot shows exactly what you will vote on Nov. 3, 2026, and in most of the country you can see it online today.** Enter your ZIP code below to get your state's official lookup, then search there by street address. In Texas, early voting is underway through Friday, Oct. 30, according to the Texas Secretary of State, and sample ballots come from each county elections office rather than the state. Below: why a ZIP code alone can show the wrong races, the official lookup for every state, links for 12 large Texas counties, and free printables to take your choices with you.
+**To find the sample ballot for your ZIP code, enter your ZIP code below to get your state's official lookup for Nov. 3, 2026, then search there by street address and print your choices on our free worksheet.** Your sample ballot shows exactly what you will vote on, and in most of the country you can see it online today. In Texas, early voting is underway through Friday, Oct. 30, according to the Texas Secretary of State, and sample ballots come from each county elections office rather than the state. Below: why a ZIP code alone can show the wrong races, the official lookup for every state, links for 12 large Texas counties, and free printables to take your choices with you.
 
 ## Find your sample ballot by ZIP code
 

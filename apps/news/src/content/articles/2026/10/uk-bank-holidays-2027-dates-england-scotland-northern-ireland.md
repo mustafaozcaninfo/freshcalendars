@@ -1,12 +1,13 @@
 ---
-title: "UK Bank Holidays 2027: Every Date for England, Wales, Scotland and Northern Ireland"
-seoTitle: "UK Bank Holidays 2027: Full List and Dates"
-description: "UK bank holidays 2027: eight in England and Wales, nine in Scotland, 10 in Northern Ireland. Easter is March 26-29; Christmas moves to Dec. 27-28."
+title: "UK Bank Holidays 2027: Printable List of Every Date for England, Scotland and Northern Ireland"
+seoTitle: "UK Bank Holidays 2027: Printable List and Dates"
+description: "UK bank holidays 2027: eight in England and Wales, nine in Scotland, 10 in Northern Ireland. Free printable calendar, and Easter is early on March 26-29."
 type: explainer
 publishedAt: "2026-10-19T10:50:00-04:00"
+updatedAt: "2026-10-24T00:50:00-04:00"
 authors: [news-desk]
 category: uk-canada
-keywords: ["UK bank holidays 2027", "bank holidays 2027", "Scotland bank holidays 2027", "Northern Ireland bank holidays 2027", "Christmas bank holiday 2027"]
+keywords: ["bank holidays 2027 printable calendar", "bank holidays 2027", "UK bank holidays 2027", "Scotland bank holidays 2027", "Northern Ireland bank holidays 2027"]
 dateline: "London"
 hero:
   src: ../../../../assets/news/uk-bank-holidays-2027-dates-england-scotland-northern-ireland/uk-bank-holidays-2027-dates-england-scotland-northern-ireland.jpg
@@ -19,6 +20,8 @@ summary:
   - "Christmas Day falls on a Saturday in 2027, so the Christmas and Boxing Day bank holidays move to Monday, Dec. 27 and Tuesday, Dec. 28."
   - "In 2026, Boxing Day falls on a Saturday and is observed on Monday, Dec. 28, 2026."
 faq:
+  - q: "Is there a printable 2027 bank holidays calendar?"
+    a: "Yes. A free one-page printable listing every 2027 bank holiday for England and Wales, Scotland and Northern Ireland, with substitute days marked, is in the downloads on this page."
   - q: "How many bank holidays are there in 2027 in the UK?"
     a: "Eight in England and Wales, nine in Scotland and 10 in Northern Ireland."
   - q: "When is Easter 2027 in the UK?"
@@ -60,21 +63,23 @@ draft: false
 
 ## UK bank holidays 2027
 
-| Date | Day | Bank holiday | Where |
-|---|---|---|---|
-| Jan. 1 | Friday | New Year's Day | All UK nations |
-| Jan. 4 | Monday | 2nd January (substitute day) | Scotland |
-| March 17 | Wednesday | St Patrick's Day | Northern Ireland |
-| March 26 | Friday | Good Friday | All UK nations |
-| March 29 | Monday | Easter Monday | England, Wales, Northern Ireland |
-| May 3 | Monday | Early May bank holiday | All UK nations |
-| May 31 | Monday | Spring bank holiday | All UK nations |
-| July 12 | Monday | Battle of the Boyne (Orangemen's Day) | Northern Ireland |
-| Aug. 2 | Monday | Summer bank holiday | Scotland |
-| Aug. 30 | Monday | Summer bank holiday | England, Wales, Northern Ireland |
-| Nov. 30 | Tuesday | St Andrew's Day | Scotland |
-| Dec. 27 | Monday | Christmas Day (substitute day) | All UK nations |
-| Dec. 28 | Tuesday | Boxing Day (substitute day) | All UK nations |
+<p class="days-live" data-days-until="2027" hidden></p>
+
+| Date | Day | Bank holiday | Where | Days from today |
+|---|---|---|---|---|
+| Jan. 1 | Friday | New Year's Day | All UK nations | - |
+| Jan. 4 | Monday | 2nd January (substitute day) | Scotland | - |
+| March 17 | Wednesday | St Patrick's Day | Northern Ireland | - |
+| March 26 | Friday | Good Friday | All UK nations | - |
+| March 29 | Monday | Easter Monday | England, Wales, Northern Ireland | - |
+| May 3 | Monday | Early May bank holiday | All UK nations | - |
+| May 31 | Monday | Spring bank holiday | All UK nations | - |
+| July 12 | Monday | Battle of the Boyne (Orangemen's Day) | Northern Ireland | - |
+| Aug. 2 | Monday | Summer bank holiday | Scotland | - |
+| Aug. 30 | Monday | Summer bank holiday | England, Wales, Northern Ireland | - |
+| Nov. 30 | Tuesday | St Andrew's Day | Scotland | - |
+| Dec. 27 | Monday | Christmas Day (substitute day) | All UK nations | - |
+| Dec. 28 | Tuesday | Boxing Day (substitute day) | All UK nations | - |
 
 ## Substitute days in 2027
 

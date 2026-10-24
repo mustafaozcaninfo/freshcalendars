@@ -1,12 +1,13 @@
 ---
-title: "Federal Holidays 2027: All 11 Dates, Three Observed Fridays and Mondays, and a Bonus Day Off on Dec. 31"
-seoTitle: "Federal Holidays 2027: Full List and Observed Dates"
-description: "Federal holidays 2027: 11 dates, with Juneteenth, Independence Day and Christmas observed on other days, and New Year's 2028 observed Dec. 31."
+title: "Federal Holidays 2027: All 11 Observed Dates, a Printable List and a Bonus Day Off on Dec. 31"
+seoTitle: "Federal Holidays 2027: Observed Dates, Printable List"
+description: "Federal holidays 2027 observed dates: 11 holidays, with Juneteenth, Independence Day and Christmas moved to weekdays, plus a free printable list."
 type: explainer
 publishedAt: "2026-10-19T11:00:00-04:00"
+updatedAt: "2026-10-24T00:50:00-04:00"
 authors: [news-desk]
 category: holidays
-keywords: ["federal holidays 2027", "2027 federal holiday calendar", "2027 US holiday calendar", "holidays 2027", "federal holidays 2027 observed"]
+keywords: ["federal holidays 2027 observed dates", "federal holidays 2027", "2027 federal holiday calendar", "holidays 2027", "federal holidays 2027 observed"]
 dateline: "Washington"
 hero:
   src: ../../../../assets/news/federal-holidays-2027-observed-dates-list/federal-holidays-2027-observed-dates-list.jpg
@@ -72,20 +73,22 @@ draft: false
 
 ## Federal holidays 2027
 
-| Holiday | Date | Day |
-|---|---|---|
-| New Year's Day | Jan. 1 | Friday |
-| Birthday of Martin Luther King, Jr. | Jan. 18 | Monday |
-| Washington's Birthday (Presidents' Day) | Feb. 15 | Monday |
-| Memorial Day | May 31 | Monday |
-| Juneteenth National Independence Day | June 18 (observed) | Friday |
-| Independence Day | July 5 (observed) | Monday |
-| Labor Day | Sept. 6 | Monday |
-| Columbus Day | Oct. 11 | Monday |
-| Veterans Day | Nov. 11 | Thursday |
-| Thanksgiving Day | Nov. 25 | Thursday |
-| Christmas Day | Dec. 24 (observed) | Friday |
-| New Year's Day 2028 | Dec. 31, 2027 (observed) | Friday |
+<p class="days-live" data-days-until="2027" hidden></p>
+
+| Observed date | Day | Holiday | Days from today |
+|---|---|---|---|
+| Jan. 1 | Friday | New Year's Day | - |
+| Jan. 18 | Monday | Birthday of Martin Luther King, Jr. | - |
+| Feb. 15 | Monday | Washington's Birthday (Presidents' Day) | - |
+| May 31 | Monday | Memorial Day | - |
+| June 18 | Friday | Juneteenth National Independence Day (observed) | - |
+| July 5 | Monday | Independence Day (observed) | - |
+| Sept. 6 | Monday | Labor Day | - |
+| Oct. 11 | Monday | Columbus Day | - |
+| Nov. 11 | Thursday | Veterans Day | - |
+| Nov. 25 | Thursday | Thanksgiving Day | - |
+| Dec. 24 | Friday | Christmas Day (observed) | - |
+| Dec. 31 | Friday | New Year's Day 2028 (observed) | - |
 
 OPM lists the last row in its 2028 schedule, but the day off falls in 2027.
 

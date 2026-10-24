@@ -1,12 +1,13 @@
 ---
-title: "2027 Tax Calendar: Every IRS Deadline From the Jan. 15 Estimate to Tax Day on Thursday, April 15"
-seoTitle: "2027 Tax Calendar: IRS Deadlines and Due Dates"
-description: "Tax Day 2027 is Thursday, April 15. Every 2027 IRS deadline for individuals and small businesses, from Jan. 15 estimates to the Oct. 15 extension date."
+title: "Tax Deadline 2027: Thursday, April 15, Every IRS Due Date and a Live Countdown"
+seoTitle: "Tax Deadline 2027: Thursday, April 15"
+description: "The tax deadline 2027 is Thursday, April 15, for 2026 federal returns. See a live countdown and every 2027 IRS due date for individuals and small businesses."
 type: explainer
 publishedAt: "2026-10-20T01:30:00-04:00"
+updatedAt: "2026-10-24T00:50:00-04:00"
 authors: [news-desk]
 category: planning
-keywords: ["tax deadline 2027", "2027 tax calendar", "when are taxes due 2027", "estimated tax due dates 2027", "tax day 2027"]
+keywords: ["tax deadline 2027 date", "tax deadline 2027", "2027 tax calendar", "when are taxes due 2027", "tax day 2027"]
 dateline: "Washington"
 hero:
   src: ../../../../assets/news/tax-calendar-2027-irs-deadlines/tax-calendar-2027-irs-deadlines.jpg
@@ -19,6 +20,8 @@ summary:
   - "Weekend and holiday rules push several 2027 business deadlines: W-2s and 1099-NECs are due Monday, Feb. 1, because Jan. 31 is a Sunday."
   - "The IRS has not yet released its 2027 inflation adjustments or announced when the 2027 filing season opens."
 faq:
+  - q: "What is the tax deadline 2027 date?"
+    a: "Thursday, April 15, 2027, for 2026 federal individual income tax returns. The countdown and days-until table on this page count down to it. With an extension filed by that date, the return is due Friday, Oct. 15, 2027, but any tax owed is still due April 15."
   - q: "When are taxes due in 2027?"
     a: "Thursday, April 15, 2027, for 2026 federal individual income tax returns. With an extension filed by that date, the return is due Friday, Oct. 15, 2027, but any tax owed is still due April 15."
   - q: "Does Emancipation Day move Tax Day in 2027?"
@@ -66,7 +69,30 @@ downloads:
 draft: false
 ---
 
-**Federal income tax returns for 2026 are due Thursday, April 15, 2027.** That date also covers extension requests, 2026 individual retirement account (IRA) and health savings account (HSA) contributions and the first estimated tax payment for 2027. The rest of the year's deadlines follow the Internal Revenue Service's (IRS) usual pattern, with a few moved by weekends and holidays. Here is every 2027 federal deadline for individuals and small businesses.
+**The tax deadline 2027 is Thursday, April 15, the due date for 2026 federal income tax returns.** It lands on a Thursday. That date also covers extension requests, 2026 individual retirement account (IRA) and health savings account (HSA) contributions and the first estimated tax payment for 2027. The rest of the year's deadlines follow the Internal Revenue Service's (IRS) usual pattern, with a few moved by weekends and holidays. Here is every 2027 federal deadline for individuals and small businesses.
+
+## Countdown to the 2027 tax deadline
+
+<div class="tool-box" data-launch-clock data-local="2027-04-16" data-done="The April 15 tax deadline has passed. File as soon as you can to limit penalties." data-targets="End of April 15 in your time zone|" hidden>
+<p class="tool-title">Days, hours, minutes and seconds until the deadline</p>
+<label for="lc-tax">Count down to</label>
+<select id="lc-tax"></select>
+<div class="tool-out"></div>
+</div>
+
+The clock counts to midnight at the end of Thursday, April 15, 2027 in your own time zone. Returns filed electronically are on time if submitted by then; a paper return is on time if postmarked by that date. Without JavaScript, use the table below.
+
+## How many days until the 2027 tax deadlines
+
+<p class="days-live" data-days-until="2027" hidden></p>
+
+| Date | What is due | Days from today |
+|---|---|---|
+| Jan. 15 | Fourth-quarter 2026 estimated tax payment | - |
+| April 15 | 2026 Form 1040, extension and first-quarter 2027 estimate | - |
+| June 15 | Second-quarter 2027 estimated tax | - |
+| Sept. 15 | Third-quarter 2027 estimated tax | - |
+| Oct. 15 | Extended 2026 Form 1040 | - |
 
 ## 2027 tax deadlines for individuals
 

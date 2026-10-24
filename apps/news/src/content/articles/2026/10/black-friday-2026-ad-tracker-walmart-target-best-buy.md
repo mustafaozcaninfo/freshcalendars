@@ -1,12 +1,13 @@
 ---
-title: "Black Friday 2026 Ad Tracker: Which Walmart, Target and Best Buy Deals Are Announced"
-seoTitle: "Black Friday 2026 Ad Tracker: Walmart, Target, Best Buy"
-description: "Black Friday 2026 is Friday, Nov. 27. A live tracker of which retailers have announced ads and dates, plus Target's early deals and a deals calendar."
+title: "Black Friday 2026 Deals: Date Is Friday, Nov. 27, Live Countdown and Ad Tracker"
+seoTitle: "Black Friday 2026 Deals: Nov. 27 Date and Countdown"
+description: "Black Friday 2026 deals land Friday, Nov. 27. See a live countdown, how many days until Black Friday, Target early deals and which ads are announced."
 type: news
 publishedAt: "2026-10-23T15:05:00-04:00"
+updatedAt: "2026-10-24T00:50:00-04:00"
 authors: [news-desk]
 category: retail-dates
-keywords: ["Black Friday 2026 ads", "Walmart Black Friday ad 2026", "Black Friday 2026 deals calendar", "Target Black Friday 2026", "Best Buy Black Friday 2026"]
+keywords: ["black friday 2026 deals", "how many days until black friday 2026", "what date is black friday 2026", "Walmart Black Friday ad 2026", "Target Black Friday 2026"]
 dateline: "New York"
 assets:
   scene: shopping
@@ -39,8 +40,10 @@ summary:
   - "Walmart and Best Buy have shared holiday plans but no 2026 Black Friday event dates or doorbuster prices yet."
   - "No retailer has released official Black Friday 2026 television or electronics prices. Where a chain is silent, this tracker shows last year's dates labeled 2025."
 faq:
-  - q: "When is Black Friday 2026?"
-    a: "Friday, Nov. 27, 2026, the day after Thanksgiving (Thursday, Nov. 26). Cyber Monday is Monday, Nov. 30."
+  - q: "What date is Black Friday 2026?"
+    a: "Black Friday 2026 is Friday, Nov. 27, the day after Thanksgiving (Thursday, Nov. 26). Cyber Monday is Monday, Nov. 30."
+  - q: "How many days until Black Friday 2026?"
+    a: "Black Friday is Friday, Nov. 27, 2026. The live countdown and the deals calendar on this page count the days from today in Eastern Time."
   - q: "Has Walmart released its Black Friday 2026 ad?"
     a: "Not yet. Walmart's October 2026 holiday announcement covered store closures and pickup, not Black Friday event dates. Last year it announced its events on Oct. 27, 2025."
   - q: "What has Target announced for Black Friday 2026?"
@@ -105,20 +108,33 @@ draft: false
 
 <p class="callout"><b>Last checked Fri., Oct. 23, 2026, 3:05 p.m. ET.</b> This is a living tracker. Target has published early deal dates; Walmart, Best Buy and most other chains have not yet confirmed 2026 Black Friday events. We update it as official ads land.</p>
 
-**Black Friday 2026 is Friday, Nov. 27, and as of Oct. 23, Target is the only major retailer with dated Black Friday deals on the record.** Target will run a Deal of the Day every day from Nov. 1 to Dec. 24 and Early Black Friday deals from Nov. 5 to 7, according to its Oct. 21 press release. Walmart and Best Buy have described their holiday plans but have not set Black Friday event dates, and no chain has released official Black Friday 2026 television or electronics prices. Below is a deals calendar, a status table for each retailer, what Walmart has and has not said, how to judge a deal, and a shopping-safety checklist from the Federal Trade Commission (FTC).
+**Black Friday 2026 deals land Friday, Nov. 27, and as of Oct. 23, Target is the only major retailer with dated Black Friday deals on the record.** Target will run a Deal of the Day every day from Nov. 1 to Dec. 24 and Early Black Friday deals from Nov. 5 to 7, according to its Oct. 21 press release. Walmart and Best Buy have described their holiday plans but have not set Black Friday event dates, and no chain has released official Black Friday 2026 television or electronics prices. Below is a live countdown, a deals calendar, a status table for each retailer, what Walmart has and has not said, how to judge a deal, and a shopping-safety checklist from the Federal Trade Commission (FTC).
+
+## Countdown to Black Friday 2026
+
+<div class="tool-box" data-launch-clock data-local="2026-11-27" data-done="Black Friday 2026 is here. Check each retailer's deals." data-targets="Black Friday, 12:00 a.m. Eastern Time (midnight ET)|2026-11-27T05:00:00Z;Target Early Black Friday deals begin, Nov. 5, 12:00 a.m. ET (midnight ET)|2026-11-05T05:00:00Z;Cyber Monday, 12:00 a.m. ET (midnight ET)|2026-11-30T05:00:00Z;Black Friday, midnight in your own time zone (an assumption)|" hidden>
+<p class="tool-title">Days, hours, minutes and seconds until Black Friday</p>
+<label for="lc-bf">Count down to</label>
+<select id="lc-bf"></select>
+<div class="tool-out"></div>
+</div>
+
+The clock needs JavaScript. Without it, the deals calendar below shows how many days until each date. The Eastern Time options count from midnight in New York; the last option counts from your own device's idea of midnight, which it says.
 
 ## Black Friday 2026 deals calendar
 
 These are the dated events retailers have announced so far. Unconfirmed sales are left out on purpose.
 
-| Date | Day | Event |
-|---|---|---|
-| Nov. 1 to Dec. 24 | Daily | Target Deal of the Day |
-| Nov. 5 to 7 | Thu. to Sat. | Target Early Black Friday deals |
-| Nov. 26 | Thursday | Thanksgiving; Walmart stores closed |
-| Nov. 27 | Friday | Black Friday |
-| Nov. 28 | Saturday | Small Business Saturday |
-| Nov. 30 | Monday | Cyber Monday |
+<p class="days-live" data-days-until="2026" hidden></p>
+
+| Date | Day | Event | Days from today |
+|---|---|---|---|
+| Nov. 1 to Dec. 24 | Daily | Target Deal of the Day | - |
+| Nov. 5 to 7 | Thu. to Sat. | Target Early Black Friday deals | - |
+| Nov. 26 | Thursday | Thanksgiving; Walmart stores closed | - |
+| Nov. 27 | Friday | Black Friday | - |
+| Nov. 28 | Saturday | Small Business Saturday | - |
+| Nov. 30 | Monday | Cyber Monday | - |
 
 Amazon held its Prime Big Deal Days on Oct. 6 and 7, 2026, and Target ran its Circle Deal Days on Oct. 6 and 7; both have passed. For store opening times on Black Friday morning, see our [Black Friday 2026 store hours guide](/news/black-friday-2026-store-hours-walmart-target-best-buy/). You can mark every date on our [November 2026 printable calendar](/november-calendars.html).
 
