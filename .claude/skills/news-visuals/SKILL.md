@@ -53,6 +53,8 @@ Overlay text (`assets.kicker`, `assets.date`, `assets.card`):
 - Set `assets.scene` explicitly. Set `assets.date` so the calendar scene circles the story's day.
 - A scene can be used once. A second story on the same topic uses a photo or a new scene.
 
+**Daily series (puzzle hints):** `pnpm fc news-heroes5` draws each day's board from the story slug: random tile colors (never the answer), a different tilt, scale and position, and a seeded scatter behind it. Add the day's rows to `PUZZLE_HEROES` and run it; never copy yesterday's hero file.
+
 ## 4. Adding a scene
 
 A new scene is a reusable asset, so build it with care:
