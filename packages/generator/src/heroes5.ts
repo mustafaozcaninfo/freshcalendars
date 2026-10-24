@@ -81,6 +81,32 @@ const ART: Record<string, (r: Rng) => string> = {
     const turn = r() * Math.PI / 3, petal = pick(r, ["#f9a8d4", "#c4b5fd", "#fda4af", "#93c5fd"]);
     return Array.from({ length: 6 }, (_, k) => { const a = Math.PI / 3 * k - Math.PI / 2 + turn; return `<ellipse cx="${905 + 135 * Math.cos(a)}" cy="${335 + 135 * Math.sin(a)}" rx="78" ry="78" fill="${petal}"/>`; }).join("") + `<circle cx="905" cy="335" r="90" fill="#fde047"/>`;
   },
+  /** Connections: Sports Edition: the 4×4 board with a stitched ball in one corner. */
+  sports: (r) => {
+    const solved = 1 + Math.floor(r() * 3), order = shuffle(r, ["#f9df6d", "#a0c35a", "#b0c4ef", "#ba81c5"]);
+    return grid(660, 110, 4, 4, 104, 12, (row) => (row < solved ? order[row]! : "#efefe6"), 12)
+      + `<g transform="translate(680 560) rotate(${(r() * 60 - 30).toFixed(0)})"><ellipse rx="70" ry="44" fill="#9a3412"/><path d="M-34 0 H34" stroke="#fff" stroke-width="5"/>${[-20, -7, 7, 20].map((x) => `<path d="M${x} -9 V9" stroke="#fff" stroke-width="5"/>`).join("")}</g>`;
+  },
+  /** Pips: colored regions on a 4×4 board with a few dominoes laid on it; pip counts are random. */
+  pips: (r) => {
+    const region = ["#f9a8d4", "#93c5fd", "#fde68a", "#86efac", "#c4b5fd"];
+    const cells = grid(700, 110, 4, 4, 100, 8, (row, c) => region[(row * 2 + c + Math.floor(r() * 2)) % region.length]!, 10);
+    const dot = (cx: number, cy: number, n: number) => [[0, 0], [-1, -1], [1, 1], [-1, 1], [1, -1], [-1, 0], [1, 0]].slice(n % 2 ? 0 : 1, (n % 2 ? 0 : 1) + n).map(([dx, dy]) => `<circle cx="${cx + dx! * 22}" cy="${cy + dy! * 22}" r="8" fill="#111827"/>`).join("");
+    const dominoes = Array.from({ length: 3 }, (_, i) => {
+      const x = 700 + Math.floor(r() * 3) * 108, y = 110 + i * 108 + (i === 2 ? 108 : 0), a = Math.floor(r() * 7), b = Math.floor(r() * 7);
+      return `<g><rect x="${x + 4}" y="${y + 4}" width="${200}" height="92" rx="14" fill="#fff" stroke="#111827" stroke-width="3"/><path d="M${x + 104} ${y + 14} V${y + 86}" stroke="#111827" stroke-width="3"/>${dot(x + 54, y + 50, a)}${dot(x + 154, y + 50, b)}</g>`;
+    }).join("");
+    return cells + dominoes;
+  },
+  /** LinkedIn games: a Queens board of colored regions with crowns, and a strip of Tango suns and moons. */
+  linkedin: (r) => {
+    const region = shuffle(r, ["#fca5a5", "#fdba74", "#fde047", "#86efac", "#93c5fd", "#c4b5fd"]);
+    const n = 6, s = 70, cols = shuffle(r, [0, 1, 2, 3, 4, 5]);
+    const board = grid(700, 70, n, n, s, 4, (row, c) => region[(Math.floor(row / 2) * 2 + Math.floor(c / 3) + (row % 2 && c > 3 ? 1 : 0)) % n]!, 6);
+    const crowns = Array.from({ length: 3 }, (_, i) => { const row = i * 2 + Math.floor(r() * 2), c = cols[i]!, x = 700 + c * (s + 4) + s / 2, y = 70 + row * (s + 4) + s / 2; return `<path d="M${x - 20} ${y + 14} L${x - 22} ${y - 12} L${x - 8} ${y} L${x} ${y - 18} L${x + 8} ${y} L${x + 22} ${y - 12} L${x + 20} ${y + 14} Z" fill="#111827"/>`; }).join("");
+    const tango = Array.from({ length: 6 }, (_, i) => { const x = 700 + i * 74 + 35, y = 545; return r() < 0.5 ? `<circle cx="${x}" cy="${y}" r="24" fill="#f59e0b"/>` : `<circle cx="${x}" cy="${y}" r="24" fill="#60a5fa"/><circle cx="${x + 11}" cy="${y - 7}" r="20" fill="#ffffff"/>`; }).join("");
+    return board + crowns + `<rect x="696" y="505" width="448" height="80" rx="12" fill="#ffffff" opacity=".9"/>` + tango;
+  },
 };
 
 /** [slug, game art key, bg, accent, kicker, title, dek]: filled in per day. */
@@ -89,6 +115,10 @@ export const PUZZLE_HEROES: [string, string, string, string, string, string, str
   ["nyt-connections-hints-answers-october-25-2026-1232", "connections", "#1e1a3a", "#f9df6d", "Connections #1232 · Sun., Oct. 25, 2026", "Connections hints", "Gentle hints for every group first, answers only at the end."],
   ["nyt-strands-hints-answers-october-25-2026-966", "strands", "#0f2f3a", "#aedfee", "Strands #966 · Sun., Oct. 25, 2026", "Strands hints today", "Spangram and theme-word hints first, answers at the end."],
   ["quordle-hints-answers-october-25-2026-1735", "quordle", "#1f2937", "#6aaa64", "Quordle #1735 · Sun., Oct. 25, 2026", "Quordle hints today", "A clue for each of the four words, answers at the end."],
+  ["nyt-spelling-bee-hints-answers-october-25-2026", "bee", "#1c1917", "#f7da21", "Spelling Bee · Sun., Oct. 25, 2026", "Spelling Bee hints", "Hint grid and two-letter list first, the word list at the end."],
+  ["nyt-pips-hints-answers-october-25-2026", "pips", "#1e293b", "#f9a8d4", "Pips · Sun., Oct. 25, 2026", "Pips hints today", "Hints for Easy, Medium and Hard, placements at the end."],
+  ["nyt-connections-sports-edition-hints-answers-october-25-2026-762", "sports", "#0f2a1d", "#a0c35a", "Sports Edition #762 · Sun., Oct. 25, 2026", "Sports Connections", "Hints for every group first, answers only at the end."],
+  ["linkedin-games-answers-today-october-25-2026-queens-tango-zip", "linkedin", "#0b2545", "#93c5fd", "LinkedIn games · Sun., Oct. 25, 2026", "LinkedIn games hints", "Queens, Tango, Zip, Pinpoint and Crossclimb, answers at the end."],
 ];
 
 export async function buildHeroes5(): Promise<void> {
