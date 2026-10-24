@@ -10,6 +10,7 @@ keywords: ["Thanksgiving travel 2026", "best days to travel for Thanksgiving 202
 dateline: "New York"
 assets:
   scene: thanksgiving
+  overlay: true
   kicker: "Thanksgiving travel · Nov. 21 to 30, 2026"
   date: "2026-11-26"
   card: { top: "Thanksgiving Day", big: "Thu., Nov. 26", bottom: "Plan trips Nov. 21 to 30" }
@@ -38,7 +39,7 @@ hero:
   src: ../../../../assets/news/thanksgiving-travel-2026-best-days-to-fly-and-drive/thanksgiving-travel-2026-best-days-to-fly-and-drive.webp
   alt: "Airplane wing and winglet over green farmland at sunset, a view from a window seat during Thanksgiving travel 2026 planning"
   caption: "File photo: an Embraer 190 wing at sunset. AAA counted about 6 million domestic flyers over Thanksgiving 2025; its 2026 forecast is not out yet."
-  credit: "Photo: PierreSelim / Wikimedia Commons, cropped"
+  credit: "Photo: PierreSelim / Wikimedia Commons, cropped, edited"
   license:
     name: "CC BY-SA 3.0"
     url: "https://creativecommons.org/licenses/by-sa/3.0"

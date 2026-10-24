@@ -13,6 +13,8 @@ Rules:
 - Check that a page is about the current year. Pages from past years (for example a "Nov. 3" page from 2020) are PAST, not current.
 - If a site answers with a bot challenge, 403 or a JavaScript-only shell, do not try to get around it. Report the URL as BLOCKED so the main session can open it in a browser, and look for another official source.
 - Compute weekdays and day counts instead of recalling them.
+- Note what the official pages show that a reader would not expect (a change from last year, a nearby date, a rule that excludes some readers); stories win on these details.
+- If the main session asks for hero candidates, list public-domain or CC BY / CC BY-SA photos of the real subject from the agency's own Wikimedia Commons or NASA uploads, with the file page URL and license; do not download them.
 
 Return, in under 700 words:
 1. Each fact on its own line, with the source URL, page title, publisher and date.

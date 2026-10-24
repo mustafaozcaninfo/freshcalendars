@@ -12,7 +12,7 @@ Shared header, footer and site CSS live in `packages/site-chrome/src/index.ts`. 
 Writers (editors) produce /news/ stories from their own Claude sessions and have full write access to this repository. Publishing is separate: only the site owner deploys.
 
 1. Start from an up-to-date `main` (`git pull origin main`).
-2. Write the story with the `news-article` skill (`.claude/skills/news-article/SKILL.md`), in a fresh session per story. It has the full checklist, including the source and PDF rules, and hands research to the `news-researcher` agent (Haiku) and writing to the `news-writer` agent (Sonnet) to keep token use low.
+2. Write the story with the `news-article` skill (`.claude/skills/news-article/SKILL.md`), in a fresh session per story. It has the full checklist, including the source and PDF rules, and hands research to the `news-researcher` agent (Haiku) and writing to the `news-writer` agent (Sonnet) to keep token use low. Two companion skills decide what makes the story win: `news-seo` (the query, the angle, the page structure; the playbook `SEO-HARITASI-TAM.md` turned into decisions) and `news-visuals` (a hero no other story has, and the printable).
 3. Run the checks below locally. All must pass, with no warnings left unexplained.
 4. Commit only the files of your story (and any shared file you deliberately changed) with a clear message, then push straight to `main`. CI repeats the checks on every push; if it fails, fix it with a new commit right away.
 5. Tell the owner the story is pushed. The owner pulls and deploys. **Never run `pnpm news:deploy` or `pnpm fc deploy`, never force-push or rewrite `main`'s history, and never ask for `.env`.** Deploys need server and Cloudflare credentials that only the owner holds.
@@ -42,6 +42,8 @@ Do not run Lighthouse (`news:lighthouse`, `smoke:lighthouse`). The goal is fast,
 - Banned words and patterns are listed in `scripts/news-seo-audit.mjs` (BANNED_EN, em dashes, "not X but Y", "in conclusion"). Write plainly, vary sentence length.
 - No superlatives you cannot source ("biggest ever"), no invented people or quotes. Byline is `news-desk` unless the editor adds a named author.
 - Every story links at least two calendar pages (`internalLinks`) and up to three related /news/ stories (`related`).
+- **Every story adds something the top results lack**: a computed table from the official source, a printable built from the story's facts, a fact others missed. A story that only restates one official page is not written (`news-seo`).
+- **Every story gets its own hero.** Default: a licensed photo of the real subject with `assets.overlay: true`; otherwise an illustrated scene no story has used (`pnpm fc news-heroes`). `news-assets` refuses a repeated scene or picture and the audit's `12-HERO-UNIQUE` fails the build (`news-visuals`).
 - Images are either our own illustrations (`pnpm fc news-assets`: 3D scenes from `packages/generator/render3d/`, flat scenes from `packages/generator/src/art.ts`) or licensed photos fetched with `pnpm fc news-photo` (public domain, CC0, CC BY, CC BY-SA, Pexels License, with credit and license on the page; `assets.overlay: true` adds our text layer and marks the credit "edited"). Never use images from search engines, news sites, stock agencies or social media, and never put our layer on an image we are not licensed to adapt; a credit line is not permission, and taking it down after a complaint does not undo the infringement.
 - Printable PDFs are real text drawn by our generators (never page images or third-party art) and are listed under the story's `downloads:`. The build stamps their metadata, license, top link and canonical (`apps/news/src/lib/pdf-meta.mjs`); never edit PDFs by hand. Rules: "Printable PDF rules" in the `news-article` skill; the audit's `10-PDF-*` checks must pass.
 
@@ -67,9 +69,11 @@ Do not run Lighthouse (`news:lighthouse`, `smoke:lighthouse`). The goal is fast,
 | `apps/news/src/assets/news/<slug>/` | hero and preview images |
 | `apps/news/public/downloads/<group>/` | printable PDFs and PNGs |
 | `pnpm fc news-assets <slug>` (`packages/generator/src/newsAssets.ts`) | draws a story's illustrated hero and its printable (month, timeline, checklist or list layout, `newsPrintable.ts`) from the frontmatter `assets:` block; use it by default |
+| `pnpm fc news-heroes` | scenes already taken, scenes still free, and heroes that repeat (fingerprints in `scripts/lib/hero-hash.mjs`, a `<slug>.hero.json` record per story) |
 | `pnpm fc news-scenes`, `pnpm fc news-photo` | contact sheet of hero scenes; licensed photo search and download from Commons, NASA, Openverse and Pexels (`newsPhoto.ts`) |
 | `packages/generator/render3d/`, `src/news3d.ts`, `src/fx.ts` | 3D hero scenes (three.js in headless Chromium, models built from primitives), the two-layer hero renderer, and the finish (bloom, grade, vignette, seeded grain) |
 | `packages/generator/src/*.ts` + `cli.ts` (`news-*` commands) | custom hero and printable generators, only when `news-assets` is not enough |
+| `.claude/skills/news-seo/`, `news-visuals/` | ranking decisions from the SEO playbook; hero and printable method |
 | `.claude/agents/news-researcher.md`, `news-writer.md` | Haiku research agent and Sonnet writing agent the skill delegates to |
 | `docs/NEWS-ROADMAP.md`, `docs/NEWS-SEO-COMPLIANCE.md` | design of /news/ and the SEO rule map |
 | `docs/YAYIN-REHBERI.md` | how the owner deploys (writers do not deploy) |

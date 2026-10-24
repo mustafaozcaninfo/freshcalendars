@@ -10,6 +10,7 @@ keywords: ["what's open on Thanksgiving 2026", "grocery stores open on Thanksgiv
 dateline: "New York"
 assets:
   scene: thanksgiving
+  overlay: true
   kicker: "Thanksgiving 2026 · Thu., Nov. 26"
   date: "2026-11-26"
   card: { top: "Closed on Thanksgiving", big: "Walmart, Costco", bottom: "Many grocery stores open shorter hours" }
@@ -40,10 +41,17 @@ assets:
     description: "One-page Thanksgiving 2026 open-or-closed list for Walmart, Costco, Target, grocery stores, the Postal Service, banks and the stock market. Free printable."
     alt: "Thanksgiving 2026 open or closed printable listing Walmart, Costco, Target, Whole Foods, Dollar General, the Postal Service, banks and the stock market"
 hero:
-  src: ../../../../assets/news/whats-open-thanksgiving-2026-grocery-stores-walmart-costco/whats-open-thanksgiving-2026-grocery-stores-walmart-costco.jpg
-  alt: "What's open on Thanksgiving 2026: a Thanksgiving scene with a Nov. 26 date tile and a card reading Walmart and Costco closed, grocery stores open"
+  src: ../../../../assets/news/whats-open-thanksgiving-2026-grocery-stores-walmart-costco/whats-open-thanksgiving-2026-grocery-stores-walmart-costco.webp
+  alt: "A grocery store aisle of stocked shelves as a shopper pushes a cart, for a guide to what is open on Thanksgiving 2026"
   title: "Open or closed on Thanksgiving 2026"
-  caption: "Thanksgiving is Thursday, Nov. 26, 2026. Walmart, Costco and Target close for the day, while many grocery stores open with shorter hours."
+  caption: "Thanksgiving is Thursday, Nov. 26, 2026. Walmart, Costco and Target close, while many grocery stores open with shorter hours. File photo (2025)."
+  credit: "Photo: Tessa Bury / Wikimedia Commons, cropped, edited"
+  license:
+    name: "CC BY 4.0"
+    url: "https://creativecommons.org/licenses/by/4.0"
+    source: "https://commons.wikimedia.org/wiki/File:Grocery_Store_Aisle,_vermont.jpg"
+    author: "Tessa Bury"
+    authorUrl: "https://commons.wikimedia.org/wiki/User:Chive_Cream_Cheese"
 summary:
   - "Thanksgiving Day 2026 is Thursday, Nov. 26. Walmart, Costco, Target, Best Buy, Home Depot, Lowe's and Aldi are closed."
   - "Whole Foods Market says many stores open with modified hours, and Dollar General says most of its stores open. Check your local store first."

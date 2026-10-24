@@ -7,19 +7,21 @@ description: Write, update or publish-prepare a Fresh Calendars /news/ story (As
 
 Read `CLAUDE.md` first; its content rules apply to every step. The finished work is a commit pushed to `main`, not a deploy; the owner publishes it.
 
+Two companion skills hold the detail: **`news-seo`** (choosing the query, the angle and the page structure that ranks) and **`news-visuals`** (a unique hero and the printable). Read both before step 1 of a new story.
+
 ## Who does what (keeps token use low)
 
 Run this skill in a fresh session for each story or small batch of related stories; long sessions re-read their whole history on every turn.
 
 - **Research → `news-researcher` agent (Haiku).** Send it the topic and the exact questions (dates, times, names, numbers, URLs to check). It returns a fact sheet with sources and an UNCONFIRMED/BLOCKED list. If it reports a BLOCKED official page that matters, open it yourself in the browser; never get around a bot challenge.
 - **Writing and checks → `news-writer` agent (Sonnet).** Send it the slug, target query, category, related slugs and the fact sheet. It writes the file with an `assets:` block, runs `pnpm fc news-assets <slug>`, and runs the checks until they pass.
-- **The main session** decides new-vs-update, resolves conflicting sources, does one quick look at the hero and printable images, reads the finished story once, commits and pushes. Use the strongest model only for this part.
+- **The main session** decides new-vs-update and the angle (`news-seo`), picks the hero photo or scene (`news-visuals`), resolves conflicting sources, looks at the hero and printable images, reads the finished story once, commits and pushes. Use the strongest model only for this part.
 
 Write a one-off generator (step 4) only when a story truly needs a custom visual that `news-assets` cannot draw.
 
 ## 1. Decide: new story or update
 
-Search existing stories before writing:
+Run the page / section / link decision tree in `news-seo` (section 1), then search existing stories:
 
 ```bash
 grep -ril "<main keyword>" apps/news/src/content/articles | head
@@ -27,7 +29,7 @@ grep -ril "<main keyword>" apps/news/src/content/articles | head
 
 - Same search intent already covered → update that file: edit the facts, set `updatedAt` to now (ET), add a `<p class="callout"><b>Last updated Mon. D, YYYY, H:MM a.m. ET.</b> …</p>` line at the top of the body if the change matters to readers, and add a `corrections` entry if a fact was wrong.
 - A question that `/when-is/<holiday>/` already answers ("when is X") → write a different angle (what is open, why this date, deals) and link to the when-is page instead of competing with it.
-- Otherwise → new story.
+- Otherwise → new story. Write down the one thing it adds that the top results lack (a computed table, a printable, a fact others missed); if there is nothing, do not write it.
 
 ## 2. Research
 
@@ -98,19 +100,23 @@ Valid calendar-site links: check that the page answers on freshcalendars.com bef
 
 ## 4. Hero image and printables
 
-Every story gets one of two heroes. Both come from commands; never hand-place an image.
+Every story gets **its own** hero, made by a command; never hand-place an image. `news-assets` refuses a hero that repeats another story's scene or picture, and the audit check `12-HERO-UNIQUE` fails the build. The full method is in the `news-visuals` skill; the order is:
 
-### A. Illustrated hero (default): `pnpm fc news-assets <slug>`
+1. A real subject a photo can show → licensed photo with `assets.overlay: true` (B below). This is the default.
+2. An abstract date topic → an illustrated scene no story has used yet (`pnpm fc news-heroes` lists free scenes) (A below).
+3. Neither → add a scene (`news-visuals`, section 4).
 
-Add an `assets:` block to the frontmatter (Astro ignores it) and run the command. It draws a 2400×1350 hero: a 3D scene on the right (three.js in headless Chromium, `packages/generator/render3d/`, with studio light, soft shadows and a photographic finish from `fx.ts`), the kicker, an optional date tile and a white card on the left. Every model is built in code from primitives, so the image is ours and unique to the story (the slug seeds the details). The calendar scene shows the story's real month with `assets.date` circled. A render takes about 5 seconds.
+### A. Illustrated hero: `pnpm fc news-assets <slug>`
+
+Add an `assets:` block to the frontmatter (Astro ignores it) and run the command. It draws a 2400×1350 hero: a 3D scene on the right (three.js in headless Chromium, `packages/generator/render3d/`, with studio light, soft shadows and a photographic finish from `fx.ts`), the kicker, an optional date tile and a white card on the left. Every model is built in code from primitives, so the image is ours. The slug only seeds small details, so two stories with the same scene show the same picture: each scene is used once. The calendar scene shows the story's real month with `assets.date` circled. A render takes about 5 seconds.
 
 - `scene:` picks the picture. Run `pnpm fc news-scenes` (or `--only gaming,sports`) to see them on one sheet (`.cache/news-scenes.png`). In 3D: calendar, election, halloween, halloween-party, thanksgiving, winter-holidays, night-sky, time-change, shopping, school, money, puzzle, gaming (a generic game pad), sports (an American football), phone (a generic foldable). Flat SVG only: fireworks, spring, autumn. `render: 2d` forces the older flat SVG scene; `scene: none` gives the flat poster. Without `scene:` the category's default is used.
 - Match the scene to the subject, not the category: a turkey story is `thanksgiving` even in `holidays`; a meteor story is `night-sky`.
 - `title:` is optional and short (under 40 characters); Discover shows the real headline beside the image.
 
-### B. Licensed photo: `pnpm fc news-photo`
+### B. Licensed photo: `pnpm fc news-photo` (default)
 
-Use a real photo when it helps the reader more than an illustration (a NASA image of the event, a landmark, a real place). Only sources with a machine-readable license, checked again at download:
+Use a real photo whenever the story has a real subject (a NASA image of the event, a landmark, a real place, the vehicle or venue), with our overlay on top. Only sources with a machine-readable license, checked again at download:
 
 ```bash
 pnpm fc news-photo search "Leonid meteor" --source nasa      # or commons, openverse, pexels, all

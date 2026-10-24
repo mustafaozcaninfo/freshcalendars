@@ -10,6 +10,7 @@ keywords: ["NYC Marathon 2026 start times", "where to watch NYC Marathon 2026", 
 dateline: "New York"
 assets:
   scene: calendar
+  overlay: true
   kicker: "NYC Marathon · Sun., Nov. 1, 2026"
   date: "2026-11-01"
   card: { top: "Wave 1 starts", big: "9:10 a.m. ET", bottom: "Pros start at 8:00 a.m." }
@@ -41,7 +42,7 @@ hero:
   src: ../../../../assets/news/nyc-marathon-2026-start-times-road-closures-where-to-watch/nyc-marathon-2026-start-times-road-closures-where-to-watch.webp
   alt: "NYC Marathon runners seen from behind crossing the Verrazzano-Narrows Bridge from Staten Island, the race's first mile"
   caption: "File photo from the 2014 race: runners climb the Verrazzano-Narrows Bridge out of Staten Island. The 2026 marathon starts there on Sunday, Nov. 1."
-  credit: "Photo: Metropolitan Transportation Authority of the State of New York / Wikimedia Commons, cropped"
+  credit: "Photo: Metropolitan Transportation Authority of the State of New York / Wikimedia Commons, cropped, edited"
   license:
     name: "CC BY 2.0"
     url: "https://creativecommons.org/licenses/by/2.0"
