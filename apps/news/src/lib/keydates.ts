@@ -36,6 +36,7 @@ export const KEY_DATES: KeyDate[] = [
   { date: "2026-11-09", label: "Federal Benefits Open Season begins", slug: "federal-benefits-open-season-2026-dates-fehb-premiums" },
   { date: "2026-11-11", label: "Remembrance Day in Canada: two minutes of silence at 11 a.m.", slug: "remembrance-day-2026-canada-statutory-holiday-remembrance-sunday-uk" },
   { date: "2026-11-01", label: "All Saints Day, a U.S. holy day of obligation", slug: "all-saints-day-2026-holy-day-of-obligation-all-souls-day" },
+  { date: "2026-10-26", label: "Ballon d'Or ceremony, London: 20:00 GMT (4 p.m. ET)", slug: "ballon-dor-2026-date-time-by-time-zone-nominees-london" },
   { date: "2026-11-13", label: "AP exam order deadline for full-year courses", slug: "ap-exam-schedule-2027-dates-times-registration-deadline" },
   { date: "2027-02-06", label: "Annular solar eclipse (South America, Africa)", slug: "eclipses-2027-dates-times-total-solar-eclipse-august-2" },
   { date: "2027-05-03", label: "AP Exams begin (through May 14)", slug: "ap-exam-schedule-2027-dates-times-registration-deadline" },
