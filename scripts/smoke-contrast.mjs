@@ -1,346 +1,245 @@
 #!/usr/bin/env node
 /**
- * WCAG 2.1 AA contrast smoke:
- * 1) Static CSS token pairs from :root
- * 2) Live DOM sample of text + buttons on key pages
+ * WCAG 2.1 AA text contrast gate for the built site.
+ *
+ * Serves dist/site (and dist/news at /news/ when it exists) on a local port and, in Chromium,
+ * checks every visible text element and input placeholder on every page against 4.5:1
+ * (3:1 for large text: 24px+, or 18.66px+ bold). Runs at desktop and phone width, with the
+ * phone menu open on the home pages, then hovers and focuses every link and button on a few
+ * representative pages. Semi-transparent backgrounds are composited and every stop of a
+ * gradient background is checked, so the worst point of a hero counts.
+ *
+ * Exit code 1 lists each failing color pair once with the pages it appears on.
+ *
+ * Usage: pnpm fc gen-meta && pnpm news:build && pnpm smoke:contrast
+ *        CONTRAST_MAX_PAGES=40 pnpm smoke:contrast   (quick local run: first 40 pages per site)
  */
 import fs from "node:fs";
+import http from "node:http";
 import path from "node:path";
-import { fileURLToPath, pathToFileURL } from "node:url";
+import { createRequire } from "node:module";
+import { fileURLToPath } from "node:url";
 
-const __dirname = path.dirname(fileURLToPath(import.meta.url));
-const ROOT = path.resolve(__dirname, "..");
-const BASE = process.env.SMOKE_BASE || "https://freshcalendars.com";
+const ROOT = path.resolve(path.dirname(fileURLToPath(import.meta.url)), "..");
+const SITE = path.join(ROOT, "dist/site");
+const NEWS = path.join(ROOT, "dist/news");
+const PORT = Number(process.env.CONTRAST_PORT || 4398);
+const MAX = Number(process.env.CONTRAST_MAX_PAGES || Infinity);
+const HOVER_PAGES = ["/", "/october-calendars.html", "/printable-calendars.html", "/when-is/thanksgiving/", "/holidays/", "/page/contact/", "/news/"];
 
-const PATHS = [
-  "/",
-  "/printable-calendar.html",
-  "/printable-august-calendar.html",
-  "/printable-blank-calendar.html",
-  "/printable-weekly-calendar.html",
-  "/print-guide.html",
-  "/holidays.html",
-  "/when-is/easter.html",
-  "/page/contact.html",
-];
-
-function lin(c) {
-  const v = c / 255;
-  return v <= 0.04045 ? v / 12.92 : ((v + 0.055) / 1.055) ** 2.4;
-}
-function relL(rgb) {
-  return 0.2126 * lin(rgb[0]) + 0.7152 * lin(rgb[1]) + 0.0722 * lin(rgb[2]);
-}
-function parseCssColor(input) {
-  if (!input || input === "transparent" || input === "rgba(0, 0, 0, 0)") return null;
-  const hex = input.match(/^#([0-9a-f]{3}|[0-9a-f]{6})$/i);
-  if (hex) {
-    let h = hex[1];
-    if (h.length === 3) h = h.split("").map((c) => c + c).join("");
-    return [parseInt(h.slice(0, 2), 16), parseInt(h.slice(2, 4), 16), parseInt(h.slice(4, 6), 16)];
-  }
-  const m = input.match(/rgba?\(\s*([\d.]+)\s*,\s*([\d.]+)\s*,\s*([\d.]+)(?:\s*,\s*([\d.]+))?\s*\)/i);
-  if (!m) return null;
-  const a = m[4] == null ? 1 : Number(m[4]);
-  if (a < 0.2) return null;
-  return [Number(m[1]), Number(m[2]), Number(m[3])];
-}
-function contrast(a, b) {
-  const la = relL(a);
-  const lb = relL(b);
-  const [hi, lo] = la > lb ? [la, lb] : [lb, la];
-  return (hi + 0.05) / (lo + 0.05);
-}
-function hexToRgb(hex) {
-  const h = hex.replace("#", "");
-  return [parseInt(h.slice(0, 2), 16), parseInt(h.slice(2, 4), 16), parseInt(h.slice(4, 6), 16)];
-}
-
-function extractRootTokens(css) {
-  const block = css.match(/:root\{([\s\S]*?)\}/);
-  if (!block) throw new Error(":root block missing");
-  const tokens = {};
-  for (const m of block[1].matchAll(/--([a-z0-9-]+)\s*:\s*(#[0-9a-fA-F]{3,8})\s*;/g)) {
-    tokens[m[1]] = m[2];
-  }
-  return tokens;
-}
-
-function staticAudit(tokens) {
-  const t = tokens;
-  const need = [
-    ["ink", "paper", 4.5],
-    ["ink", "panel", 4.5],
-    ["muted", "paper", 4.5],
-    ["muted", "panel", 4.5],
-    ["accent", "paper", 4.5],
-    ["accent", "panel", 4.5],
-    ["line", "paper", 3],
-    ["line", "panel", 3],
-    ["home-accent", "btn-on-dark", 4.5],
-    ["yearly-accent", "btn-on-dark", 4.5],
-    ["monthly-accent", "btn-on-dark", 4.5],
-    ["blank-accent", "btn-on-dark", 4.5],
-    ["ink", "btn-on-dark", 4.5],
-    ["home-muted", "ink", 4.5], // vs darkest ink as proxy; live checks hero
-    ["home-eyebrow", "ink", 4.5],
-    ["danger", "paper", 4.5],
-    ["blank-accent", "paper", 4.5],
-    ["focus", "paper", 3],
-    ["yearly-ink", "panel", 4.5],
-    ["monthly-ink", "panel", 4.5],
-    ["blank-ink", "panel", 4.5],
-  ];
-  const fails = [];
-  for (const [a, b, min] of need) {
-    if (!t[a] || !t[b]) {
-      fails.push(`missing token ${a} or ${b}`);
-      continue;
-    }
-    const r = contrast(hexToRgb(t[a]), hexToRgb(t[b]));
-    if (r + 1e-9 < min) fails.push(`${a}/${b} ${r.toFixed(2)} < ${min}`);
-  }
-  return fails;
-}
-
-function findPlaywrightIndex() {
-  const pnpm = path.join(ROOT, "node_modules/.pnpm");
-  if (fs.existsSync(pnpm)) {
-    for (const name of fs.readdirSync(pnpm)) {
-      if (!name.startsWith("playwright@")) continue;
-      const idx = path.join(pnpm, name, "node_modules/playwright/index.mjs");
-      if (fs.existsSync(idx)) return idx;
-    }
-  }
-  const flat = path.join(ROOT, "node_modules/playwright/index.mjs");
-  return fs.existsSync(flat) ? flat : null;
-}
-
-const sitePages = fs.readFileSync(path.join(ROOT, "packages/generator/src/sitePages.ts"), "utf8");
-const cssMatch = sitePages.match(/const CSS = `\n([\s\S]*?)\n`;/);
-if (!cssMatch) {
-  console.error("Could not extract CSS from sitePages.ts");
+if (!fs.existsSync(path.join(SITE, "index.html"))) {
+  console.error("dist/site is missing: run `pnpm fc gen-meta` first");
   process.exit(1);
 }
-const tokens = extractRootTokens(cssMatch[1]);
-const staticFails = staticAudit(tokens);
-console.log("Static token audit");
-if (staticFails.length) {
-  for (const f of staticFails) console.error("FAIL", f);
-  process.exit(1);
+const require = createRequire(path.join(ROOT, "packages/generator/package.json"));
+const { chromium } = require("playwright");
+
+const TYPES = {
+  ".html": "text/html", ".css": "text/css", ".js": "text/javascript", ".mjs": "text/javascript",
+  ".svg": "image/svg+xml", ".png": "image/png", ".webp": "image/webp", ".avif": "image/avif",
+  ".jpg": "image/jpeg", ".woff2": "font/woff2", ".json": "application/json", ".xml": "application/xml",
+};
+function fileFor(url) {
+  let p = decodeURIComponent(new URL(url, "http://x").pathname);
+  let base = SITE;
+  if (p.startsWith("/news/")) { base = NEWS; p = p.slice("/news".length); }
+  let f = path.join(base, p);
+  if (!f.startsWith(base)) return null;
+  if (fs.existsSync(f) && fs.statSync(f).isDirectory()) f = path.join(f, "index.html");
+  return fs.existsSync(f) ? f : null;
 }
-console.log("OK  all required token pairs");
+const server = http
+  .createServer((req, res) => {
+    const f = fileFor(req.url);
+    if (!f) { res.writeHead(404); res.end(); return; }
+    res.writeHead(200, { "content-type": TYPES[path.extname(f)] || "application/octet-stream" });
+    fs.createReadStream(f).pipe(res);
+  })
+  .listen(PORT);
 
-const idx = findPlaywrightIndex();
-if (!idx) {
-  console.error("playwright not found");
-  process.exit(1);
-}
-const { chromium } = await import(pathToFileURL(idx).href);
-const browser = await chromium.launch({ headless: true });
-const page = await browser.newPage({ viewport: { width: 390, height: 844 } });
-
-let fail = 0;
-console.log(`Live contrast smoke against ${BASE}`);
-
-for (const p of PATHS) {
-  const url = `${BASE}${p}`;
-  try {
-    await page.goto(url, { waitUntil: "domcontentloaded", timeout: 60000 });
-  } catch {
-    fail = 1;
-    console.error(`FAIL navigate ${url}`);
-    continue;
-  }
-  await page.waitForTimeout(350);
-  const report = await page.evaluate(() => {
-    function parseColor(input) {
-      if (!input || input === "transparent" || input === "rgba(0, 0, 0, 0)") return null;
-      const m = input.match(/rgba?\(\s*([\d.]+)\s*,\s*([\d.]+)\s*,\s*([\d.]+)(?:\s*,\s*([\d.]+))?\s*\)/i);
-      if (!m) return null;
-      const a = m[4] == null ? 1 : Number(m[4]);
-      if (a < 0.35) return null;
-      return [Number(m[1]), Number(m[2]), Number(m[3]), a];
-    }
-    function lin(c) {
-      const v = c / 255;
-      return v <= 0.04045 ? v / 12.92 : ((v + 0.055) / 1.055) ** 2.4;
-    }
-    function relL(rgb) {
-      return 0.2126 * lin(rgb[0]) + 0.7152 * lin(rgb[1]) + 0.0722 * lin(rgb[2]);
-    }
-    function contrast(a, b) {
-      const la = relL(a);
-      const lb = relL(b);
-      const [hi, lo] = la > lb ? [la, lb] : [lb, la];
-      return (hi + 0.05) / (lo + 0.05);
-    }
-    function blend(fg, bg) {
-      const a = fg[3] ?? 1;
-      if (a >= 0.999) return [fg[0], fg[1], fg[2]];
-      return [
-        fg[0] * a + bg[0] * (1 - a),
-        fg[1] * a + bg[1] * (1 - a),
-        fg[2] * a + bg[2] * (1 - a),
-      ];
-    }
-    function heroFallback() {
-      const html = document.documentElement;
-      if (html.classList.contains("family-home")) return [21, 32, 40];
-      if (html.classList.contains("family-yearly")) return [197, 216, 228];
-      if (html.classList.contains("family-monthly")) return [232, 217, 196];
-      if (html.classList.contains("family-blank")) return [211, 226, 215];
-      return [243, 239, 230];
-    }
-    function bgBehind(el) {
-      let node = el;
-      let acc = null;
-      while (node && node !== document.documentElement) {
-        if (node.classList?.contains("hero")) {
-          const heroBg = heroFallback();
-          return acc ? blend([acc[0], acc[1], acc[2], 1], heroBg) : heroBg;
+/** Every HTML page under dir, as URL paths; assets, OG images and admin tools are skipped. */
+function pagesIn(dir, prefix) {
+  if (!fs.existsSync(dir)) return [];
+  const out = [];
+  const walk = (d, pre) => {
+    for (const e of fs.readdirSync(d, { withFileTypes: true })) {
+      if (e.isDirectory()) {
+        if (!["assets", "og", "meta", "_astro", "downloads", "admin", "api", "news", "fonts", "img", "icons"].includes(e.name)) {
+          walk(path.join(d, e.name), `${pre}${e.name}/`);
         }
-        const s = getComputedStyle(node);
-        const bg = parseColor(s.backgroundColor);
-        if (bg) {
-          acc = acc ? blend([bg[0], bg[1], bg[2], bg[3]], acc) : [bg[0], bg[1], bg[2]];
-          if ((bg[3] ?? 1) >= 0.95) return acc;
-        }
-        node = node.parentElement;
+      } else if (e.name.endsWith(".html") && !e.name.startsWith("google") && e.name !== "404.html") {
+        out.push(pre + (e.name === "index.html" ? "" : e.name));
       }
-      const bodyBg = parseColor(getComputedStyle(document.body).backgroundColor);
-      if (bodyBg) return acc ? blend([bodyBg[0], bodyBg[1], bodyBg[2], bodyBg[3]], acc) : [bodyBg[0], bodyBg[1], bodyBg[2]];
-      return acc || [243, 239, 230];
     }
-    function isLargeText(el, style) {
-      const px = parseFloat(style.fontSize) || 16;
-      const weight = parseInt(style.fontWeight, 10) || 400;
-      const bold = weight >= 700;
-      return px >= 24 || (bold && px >= 18.66);
+  };
+  walk(dir, prefix);
+  return out.sort().slice(0, MAX);
+}
+const pages = [...pagesIn(SITE, "/"), ...pagesIn(NEWS, "/news/")];
+
+/** Runs in the page: contrast of one element against the backgrounds actually behind it. */
+function measureFn() {
+  const lin = (c) => { c /= 255; return c <= 0.04045 ? c / 12.92 : ((c + 0.055) / 1.055) ** 2.4; };
+  const lum = (c) => 0.2126 * lin(c[0]) + 0.7152 * lin(c[1]) + 0.0722 * lin(c[2]);
+  const ratio = (a, b) => { const x = lum(a), y = lum(b); return (Math.max(x, y) + 0.05) / (Math.min(x, y) + 0.05); };
+  const parse = (s) => {
+    const m = s && s.match(/rgba?\(([^)]+)\)/);
+    if (!m) return null;
+    const v = m[1].split(/[ ,/]+/).filter(Boolean).map(Number);
+    return [v[0], v[1], v[2], v[3] ?? 1];
+  };
+  const blend = (fg, bg) => [0, 1, 2].map((i) => fg[i] * fg[3] + bg[i] * (1 - fg[3]));
+  const backgrounds = (el) => {
+    const layers = [];
+    for (let e = el; e; e = e.parentElement) {
+      const cs = getComputedStyle(e);
+      if (cs.backgroundImage && cs.backgroundImage !== "none") {
+        const stops = (cs.backgroundImage.match(/rgba?\([^)]+\)/g) || []).map(parse);
+        if (stops.length) { layers.push({ stops }); break; }
+      }
+      const c = parse(cs.backgroundColor);
+      if (c && c[3] > 0) { layers.push({ c }); if (c[3] >= 1) break; }
     }
-    const selectors = [
-      "h1",
-      "h2",
-      "h3",
-      ".lead",
-      ".eyebrow",
-      ".btn",
-      ".nav a",
-      ".nav-toggle",
-      ".brand",
-      ".prose a",
-      ".prose p",
-      ".site-footer",
-      ".site-footer a",
-      ".side-card p",
-      ".side-links a",
-      ".month-chips a",
-      ".school-months a",
-      ".showcase-card .meta .label",
-      ".showcase-card .meta p",
-      ".gallery-copy p",
-      ".hol-table th",
-      ".hol-table td",
-      ".hol-table a",
-      ".kind-pill",
-      ".faq summary",
-      ".week-print .dow",
-      ".week-print .dom",
-      ".today-card",
-      ".contact-form label",
-      ".lightbox-close",
-    ];
-    const fails = [];
-    const seen = new Set();
-    for (const sel of selectors) {
-      for (const el of document.querySelectorAll(sel)) {
-        const style = getComputedStyle(el);
-        if (style.visibility === "hidden" || style.display === "none") continue;
-        const rect = el.getBoundingClientRect();
-        if (rect.width < 2 || rect.height < 2) continue;
-        const fg = parseColor(style.color);
-        if (!fg) continue;
-        let bg = bgBehind(el);
-        // Buttons: use own background when opaque
-        if (el.classList.contains("btn") || el.classList.contains("nav-toggle") || el.classList.contains("lightbox-close")) {
-          const btnBg = parseColor(style.backgroundColor);
-          if (btnBg && (btnBg[3] ?? 1) >= 0.5) {
-            bg = blend([btnBg[0], btnBg[1], btnBg[2], btnBg[3] ?? 1], bg);
-          }
+    const last = layers[layers.length - 1];
+    let bases = [[255, 255, 255]];
+    if (last && last.stops) bases = last.stops.map((s) => blend(s, [255, 255, 255]));
+    else if (last && last.c[3] >= 1) bases = [last.c.slice(0, 3)];
+    const overlays = layers.filter((l) => l.c && l.c[3] < 1).reverse();
+    return bases.map((b) => overlays.reduce((acc, l) => blend(l.c, acc), b));
+  };
+  const selector = (el) => {
+    const parts = [];
+    for (let e = el; e && e !== document.body && parts.length < 3; e = e.parentElement) {
+      let s = e.tagName.toLowerCase();
+      if (e.id) s += `#${e.id}`;
+      else if (e.classList.length) s += `.${[...e.classList].slice(0, 2).join(".")}`;
+      parts.unshift(s);
+    }
+    return parts.join(" > ");
+  };
+  window.__contrast = (el, colorOverride) => {
+    const cs = getComputedStyle(el);
+    let opacity = 1;
+    for (let e = el; e; e = e.parentElement) opacity *= Number(getComputedStyle(e).opacity);
+    const fg = parse(colorOverride || cs.color);
+    if (!fg) return null;
+    const bases = backgrounds(el);
+    let worst = 99;
+    for (const b of bases) worst = Math.min(worst, ratio(blend([fg[0], fg[1], fg[2], fg[3] * opacity], b), b));
+    const size = parseFloat(cs.fontSize);
+    const large = size >= 24 || (size >= 18.66 && Number(cs.fontWeight) >= 700);
+    return {
+      ratio: Math.round(worst * 100) / 100,
+      need: large ? 3 : 4.5,
+      fg: colorOverride || cs.color,
+      bg: bases.map((b) => `rgb(${b.map(Math.round).join(", ")})`).join(" → "),
+      sel: selector(el),
+      text: (el.innerText || el.placeholder || el.value || "").trim().replace(/\s+/g, " ").slice(0, 50),
+    };
+  };
+}
+
+function auditTextFn() {
+  const out = [];
+  for (const el of document.querySelectorAll("body *:not(script):not(style):not(noscript)")) {
+    const hasText = [...el.childNodes].some((n) => n.nodeType === 3 && n.textContent.trim());
+    const field = el.matches("input:not([type=hidden]):not([type=checkbox]):not([type=radio]), textarea, select");
+    if (!hasText && !field) continue;
+    if (el.closest("svg") || el.closest("[aria-hidden=true]")) continue;
+    const cs = getComputedStyle(el);
+    const r = el.getBoundingClientRect();
+    if (r.width < 1 || r.height < 1 || cs.visibility === "hidden") continue;
+    // Screen-reader-only text is clipped to a 1px box; nobody sees its colors.
+    if (r.width <= 1 && r.height <= 1) continue;
+    const m = window.__contrast(el);
+    if (m && m.ratio < m.need) out.push({ kind: "text", ...m });
+    if (field && el.placeholder) {
+      const ph = window.__contrast(el, getComputedStyle(el, "::placeholder").color);
+      if (ph && ph.ratio < 4.5) out.push({ kind: "placeholder", ...ph, need: 4.5 });
+    }
+  }
+  return out;
+}
+
+const failures = new Map();
+function record(page, mode, items) {
+  for (const it of items) {
+    const key = `${it.kind} | ${it.sel} | ${it.fg} on ${it.bg}`;
+    const f = failures.get(key) ?? { ...it, mode, pages: new Set() };
+    f.ratio = Math.min(f.ratio, it.ratio);
+    f.pages.add(`${mode} ${page}`);
+    failures.set(key, f);
+  }
+}
+
+const browser = await chromium.launch();
+try {
+  for (const vp of [{ name: "desktop", width: 1280, height: 900 }, { name: "phone", width: 390, height: 844 }]) {
+    const ctx = await browser.newContext({ viewport: { width: vp.width, height: vp.height }, reducedMotion: "reduce" });
+    // Ads, fonts CDN and analytics stay offline: only our own CSS decides colors.
+    await ctx.route(/^https?:\/\/(?!localhost)/, (r) => r.abort());
+    await ctx.addInitScript(measureFn);
+    const page = await ctx.newPage();
+    for (const p of pages) {
+      await page.goto(`http://localhost:${PORT}${p}`, { waitUntil: "domcontentloaded", timeout: 30000 });
+      record(p, vp.name, await page.evaluate(auditTextFn));
+      if (vp.name === "phone" && (p === "/" || p === "/news/")) {
+        const toggle = page.locator("summary.nav-toggle").first();
+        if (await toggle.isVisible().catch(() => false)) {
+          await toggle.click();
+          await page.waitForTimeout(250);
+          record(p, "phone menu", await page.evaluate(auditTextFn));
         }
-        const ratio = contrast([fg[0], fg[1], fg[2]], bg);
-        const large = isLargeText(el, style);
-        const min = large ? 3 : 4.5;
-        const key = `${sel}|${style.color}|${bg.map((n) => Math.round(n)).join(",")}|${el.textContent.trim().slice(0, 24)}`;
-        if (seen.has(key)) continue;
-        seen.add(key);
-        if (ratio + 1e-9 < min) {
-          fails.push({
-            sel,
-            text: (el.textContent || "").trim().slice(0, 40),
-            ratio: Number(ratio.toFixed(2)),
-            min,
-            color: style.color,
-            bg: `rgb(${bg.map((n) => Math.round(n)).join(",")})`,
+      }
+      if (HOVER_PAGES.includes(p)) {
+        // Transitions off so hover colors apply at once; one element per distinct style.
+        await page.addStyleTag({ content: "*,*::before,*::after{transition:none!important}" });
+        const picks = await page.evaluate(() => {
+          const seen = new Set();
+          const idx = [];
+          document.querySelectorAll("a, button, summary").forEach((el, i) => {
+            const r = el.getBoundingClientRect();
+            if (r.width < 1 || r.height < 1 || !(el.innerText || "").trim()) return;
+            const key = `${el.tagName}.${el.className}|${el.parentElement?.className}|${getComputedStyle(el).color}|${getComputedStyle(el).backgroundColor}`;
+            if (!seen.has(key)) { seen.add(key); idx.push(i); }
           });
-        }
-      }
-    }
-    // Hero special: sample eyebrow/lead/h1 against approximated hero fill via canvas-less midpoint
-    const hero = document.querySelector(".hero");
-    if (hero) {
-      const hs = getComputedStyle(hero);
-      // Use a dark fallback for home, light for others based on class on html
-      const html = document.documentElement;
-      let heroBg = [243, 239, 230];
-      if (html.classList.contains("family-home")) heroBg = [21, 32, 40];
-      else if (html.classList.contains("family-yearly")) heroBg = [197, 216, 228];
-      else if (html.classList.contains("family-monthly")) heroBg = [232, 217, 196];
-      else if (html.classList.contains("family-blank")) heroBg = [211, 226, 215];
-      for (const sel of [".hero h1", ".hero .lead", ".hero .eyebrow", ".hero .btn-primary", ".hero .btn-ghost"]) {
-        for (const el of hero.querySelectorAll(sel)) {
-          const style = getComputedStyle(el);
-          const fg = parseColor(style.color);
-          if (!fg) continue;
-          let bg = heroBg;
-          const own = parseColor(style.backgroundColor);
-          if (own && (own[3] ?? 1) >= 0.35) bg = blend([own[0], own[1], own[2], own[3] ?? 1], heroBg);
-          const ratio = contrast([fg[0], fg[1], fg[2]], bg);
-          const large = isLargeText(el, style) || sel.includes("h1");
-          const min = large ? 3 : 4.5;
-          if (ratio + 1e-9 < min) {
-            fails.push({
-              sel,
-              text: (el.textContent || "").trim().slice(0, 40),
-              ratio: Number(ratio.toFixed(2)),
-              min,
-              color: style.color,
-              bg: `rgb(${bg.join(",")})`,
-              note: "hero-sample",
-            });
+          return idx;
+        });
+        const all = page.locator("a, button, summary");
+        for (const i of picks) {
+          const h = all.nth(i);
+          for (const state of ["hover", "focus"]) {
+            try {
+              if (state === "hover") await h.hover({ timeout: 1500, force: true });
+              else await h.focus({ timeout: 1500 });
+            } catch { continue; }
+            const m = await h.evaluate((el) => window.__contrast(el));
+            if (m && m.ratio < m.need) record(p, `${vp.name} ${state}`, [{ kind: state, ...m }]);
           }
+          await page.mouse.move(0, 0);
         }
       }
     }
-    return fails.slice(0, 40);
-  });
-
-  if (report.length) {
-    fail = 1;
-    console.error(`FAIL ${url}`);
-    for (const f of report) {
-      console.error(
-        `  ${f.sel} “${f.text}” ${f.ratio}:1 < ${f.min} fg=${f.color} bg=${f.bg}${f.note ? " (" + f.note + ")" : ""}`,
-      );
-    }
-  } else {
-    console.log(`OK  ${url}`);
+    await ctx.close();
   }
+} finally {
+  await browser.close();
+  server.close();
 }
 
-await browser.close();
-if (fail) {
-  console.error("Contrast smoke FAILED");
-  process.exit(1);
+console.log(`Contrast audit: ${pages.length} pages × desktop + phone, hover/focus on ${HOVER_PAGES.length} pages`);
+if (!failures.size) {
+  console.log("OK  no text under WCAG AA");
+  process.exit(0);
 }
-console.log("Contrast smoke OK");
+const rows = [...failures.values()].sort((a, b) => b.pages.size - a.pages.size);
+for (const f of rows) {
+  const where = [...f.pages];
+  console.error(
+    `FAIL ${f.ratio.toFixed(2)}:1 (needs ${f.need}) ${f.kind} ${f.sel}  "${f.text}"\n` +
+      `     ${f.fg} on ${f.bg}\n` +
+      `     ${where.length} page(s): ${where.slice(0, 4).join(", ")}${where.length > 4 ? ", …" : ""}`,
+  );
+}
+console.error(`\n${rows.length} failing color pair(s). Fix the tokens in packages/site-chrome/src/index.ts or the component CSS.`);
+process.exit(1);

@@ -76,6 +76,14 @@ jobs:
         run: pnpm news:verify
       - name: SEO and writing audit
         run: pnpm news:seo-audit
+      # Text contrast gate (WCAG AA 4.5:1, 3:1 for large text) over every calendar and /news/ page,
+      # desktop and phone, plus hover and focus on representative pages. Needs the built site too.
+      - name: Install Chromium
+        run: pnpm --filter @freshcalendars/generator exec playwright install --with-deps chromium
+      - name: Build calendar site HTML
+        run: pnpm fc gen-meta
+      - name: Text contrast (WCAG AA)
+        run: pnpm smoke:contrast
       - name: Changed stories
         if: github.event_name == 'pull_request'
         run: |

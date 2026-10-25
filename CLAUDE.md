@@ -28,6 +28,7 @@ pnpm news:build              # builds dist/news; schema errors in frontmatter fa
 pnpm news:verify             # links, H1, orphans, build leftovers
 pnpm news:seo-audit          # SEO and writing rules (all checks must PASS)
 pnpm news:serve              # preview on http://localhost:4324/news/ (pass a port to change it)
+pnpm smoke:contrast          # WCAG AA text contrast on every built page (after fc gen-meta + news:build; CI runs it)
 ```
 
 Do not run Lighthouse (`news:lighthouse`, `smoke:lighthouse`). The goal is fast, correct publishing.
