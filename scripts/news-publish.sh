@@ -19,6 +19,17 @@ OWNER="${NEWS_OWNER:-yuzdehesaplama:www-data}"
 DIST="$ROOT/dist/news"
 INDEXNOW_KEY="freshcalendars-indexnow-2026"
 
+# nginx keeps open file handles for up to 60s (open_file_cache_valid), so right after a sync it can
+# still serve the old copy of a replaced file; a purge in that window lets Cloudflare re-cache the old
+# page. A graceful reload starts workers with an empty cache; without root or a valid config, wait it out.
+refresh_origin_cache() {
+  if [[ "$(id -u)" == "0" ]] && command -v nginx >/dev/null && nginx -t >/dev/null 2>&1 && systemctl reload nginx; then
+    sleep 2
+  else
+    sleep 61
+  fi
+}
+
 cd "$ROOT"
 unset NEWS_INCLUDE_DRAFTS NEWS_SITE_ORIGIN NEWS_PER_PAGE
 env ${NEWS_BUILD_ENV:-} pnpm --silent news:build >/dev/null
@@ -83,6 +94,7 @@ rsync -rc --delete --exclude '/_astro/' "$DIST/" "$TARGET"
 rsync -r --delete --ignore-existing "$DIST/_astro/" "$TARGET/_astro/"
 find "$TARGET" -type d -exec chmod 755 {} + && find "$TARGET" -type f -exec chmod 644 {} +
 if [[ "$(id -u)" == "0" ]]; then chown -R "$OWNER" "$TARGET"; fi
+[[ "${NEWS_PURGE:-1}" == "1" ]] && refresh_origin_cache
 
 if [[ "${NEWS_PURGE:-1}" == "1" && -n "${CF_ZONE_ID:-}" && -n "${CF_API_KEY:-}" && -n "${CF_EMAIL:-}" && ${#URLS[@]} -gt 0 ]]; then
   for ((i = 0; i < ${#URLS[@]}; i += 30)); do

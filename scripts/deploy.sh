@@ -45,6 +45,10 @@ if [[ "${SKIP_APP_SYNC:-}" != "1" ]]; then
   bash "$ROOT/scripts/sync-app.sh"
 fi
 
+# nginx may serve a replaced file from its open_file_cache for up to 60s; reload it before the purge
+# so Cloudflare re-caches the new pages, not the old ones (same step as server-cron.sh deploy_site).
+ssh -o BatchMode=yes "$REMOTE_HOST" "nginx -t >/dev/null 2>&1 && systemctl reload nginx" || sleep 61
+
 if [[ -n "${CF_ZONE_ID:-}" && -n "${CF_API_KEY:-}" && -n "${CF_EMAIL:-}" ]]; then
   echo "Purging Cloudflare zone $CF_ZONE_ID"
   curl -sS -X POST "https://api.cloudflare.com/client/v4/zones/${CF_ZONE_ID}/purge_cache" \
