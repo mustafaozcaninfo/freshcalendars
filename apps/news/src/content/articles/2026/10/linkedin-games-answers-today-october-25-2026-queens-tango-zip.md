@@ -4,6 +4,7 @@ seoTitle: "LinkedIn Games Answers Today, Oct. 25: Queens, Zip, Tango"
 description: "LinkedIn's Oct. 25, 2026 puzzles go live at midnight Pacific Time (PT), 3 a.m. ET; hints go here then. Saturday's Pinpoint and Crossclimb answers are below."
 type: explainer
 publishedAt: "2026-10-24T16:30:00-04:00"
+updatedAt: "2026-10-25T03:15:00-04:00"
 authors: [news-desk]
 category: puzzles
 keywords: ["LinkedIn games answers today", "LinkedIn Queens answer today", "LinkedIn Zip answer today", "LinkedIn Tango answer today", "Pinpoint answer today"]
@@ -60,7 +61,7 @@ related: [nyt-pips-hints-answers-october-25-2026, nyt-spelling-bee-hints-answers
 draft: false
 ---
 
-<p class="callout"><b>Sunday's LinkedIn puzzles are not live yet.</b> They go live at midnight Pacific Time, 3 a.m. Eastern. Hints and answers for Oct. 25 go here after that. Saturday's confirmed answers are below.</p>
+<p class="callout"><b>Sunday's LinkedIn puzzles are live.</b> They went live at midnight Pacific Time, 3 a.m. Eastern. Answers for Oct. 25 go here as soon as two independent published solutions agree on them. Saturday's confirmed answers are below.</p>
 
 **LinkedIn's puzzles for Sunday, Oct. 25, 2026, go live at midnight Pacific Time (PT), which is 3 a.m. Eastern Time (ET), and we add hints and answers for each game here once they are out.** LinkedIn now has eight daily games, from the Queens logic grid to the Pinpoint word game. Saturday's Pinpoint category was words that come after close, and the Crossclimb ladder ran from Food to Menu. We post an answer only when two independent published solutions agree on it.
 
