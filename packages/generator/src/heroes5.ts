@@ -123,6 +123,7 @@ export const PUZZLE_HEROES: [string, string, string, string, string, string, str
   ["nyt-connections-hints-answers-october-26-2026-1233", "connections", "#1e1a3a", "#f9df6d", "Connections #1233 · Mon., Oct. 26, 2026", "Connections hints", "Gentle hints for every group first, answers only at the end."],
   ["nyt-strands-hints-answers-october-26-2026-967", "strands", "#0f2f3a", "#aedfee", "Strands #967 · Mon., Oct. 26, 2026", "Strands hints today", "Spangram and theme-word hints first, answers at the end."],
   ["nyt-pips-hints-answers-october-26-2026", "pips", "#1e293b", "#93c5fd", "Pips · Mon., Oct. 26, 2026", "Pips hints today", "Hints for Easy, Medium and Hard, placements at the end."],
+  ["nyt-mini-crossword-answers-october-25-2026", "mini", "#111827", "#a7d8ff", "NYT Mini · Sun., Oct. 25, 2026", "NYT Mini answers", "A hint for every clue first, the full grid at the end."],
 ];
 
 export async function buildHeroes5(): Promise<void> {
