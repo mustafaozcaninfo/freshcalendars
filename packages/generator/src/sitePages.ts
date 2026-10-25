@@ -2123,7 +2123,7 @@ export function renderNotFoundHtml(): string {
 <title>Page not found | Fresh Calendars</title>
 <meta name="robots" content="noindex,follow" />
 ${brandHeadLinks()}
-<meta name="theme-color" content="#007bff" />
+<meta name="theme-color" content="#0062cc" />
 <link rel="canonical" href="${absUrl("/404.html")}" />
 ${FONT_PRELOAD}
 <style>${FONTS_CSS}${CSS}</style>
