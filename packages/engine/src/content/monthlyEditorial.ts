@@ -281,7 +281,7 @@ const EDITORIAL: Record<number, MonthEditorial> = {
     lead: (y) =>
       `August ${y} Fresh Calendars month — last vacations, supply lists, and back-to-school dates without a federal holiday buffer.`,
     description: (y) =>
-      `August ${y} printable calendars from Fresh Calendars: six layouts, weekend tints, and late-summer SEO-ready copy.`,
+      `August ${y} printable calendars from Fresh Calendars: six layouts, weekend tints, and room for back-to-school dates.`,
     overview: (y) => [
       `August ${y} is often the last full stretch of summer break. Fresh Calendars still ships a full dated grid even with no US federal holiday.`,
       `Use notes-planner for first-day-of-school announcements the week they drop.`,

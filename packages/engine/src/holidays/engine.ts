@@ -104,6 +104,26 @@ function resolveDate(def: HolidayDef, year: number, stack: Set<string>): Date {
   return date;
 }
 
+/** "Sunday, November 1, 2026" — the long form used across when-is pages. */
+function formatLong(date: Date): string {
+  return `${WEEKDAY_NAMES[date.getDay()]!}, ${date.toLocaleDateString("en-US", {
+    month: "long",
+    day: "numeric",
+    year: "numeric",
+  })}`;
+}
+
+/**
+ * US daylight saving time end ("fall back"): first Sunday of November at
+ * 2:00 a.m. local (15 U.S.C. 260a). Kept out of the holiday list on purpose:
+ * the daylight-savings when-is slug stays the March start, and pages that
+ * need both edges of the season read this instead.
+ */
+export function usDstFallBack(year: number): { date: Date; iso: string; formatted: string } {
+  const date = nthWeekday(year, 11, "sunday", 1);
+  return { date, iso: toIso(date), formatted: formatLong(date) };
+}
+
 export function resolveHoliday(def: HolidayDef, year: number): ResolvedHoliday {
   const date = resolveDate(def, year, new Set());
   const weekdayName = WEEKDAY_NAMES[date.getDay()]!;
@@ -114,11 +134,7 @@ export function resolveHoliday(def: HolidayDef, year: number): ResolvedHoliday {
     date,
     iso: toIso(date),
     weekdayName,
-    formatted: `${weekdayName}, ${date.toLocaleDateString("en-US", {
-      month: "long",
-      day: "numeric",
-      year: "numeric",
-    })}`,
+    formatted: formatLong(date),
     month: date.getMonth() + 1,
     day: date.getDate(),
     year: date.getFullYear(),
