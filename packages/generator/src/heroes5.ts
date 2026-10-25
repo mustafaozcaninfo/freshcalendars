@@ -124,6 +124,7 @@ export const PUZZLE_HEROES: [string, string, string, string, string, string, str
   ["nyt-strands-hints-answers-october-26-2026-967", "strands", "#0f2f3a", "#aedfee", "Strands #967 · Mon., Oct. 26, 2026", "Strands hints today", "Spangram and theme-word hints first, answers at the end."],
   ["nyt-pips-hints-answers-october-26-2026", "pips", "#1e293b", "#93c5fd", "Pips · Mon., Oct. 26, 2026", "Pips hints today", "Hints for Easy, Medium and Hard, placements at the end."],
   ["nyt-mini-crossword-answers-october-25-2026", "mini", "#111827", "#a7d8ff", "NYT Mini · Sun., Oct. 25, 2026", "NYT Mini answers", "A hint for every clue first, the full grid at the end."],
+  ["contexto-answer-hints-october-25-2026-1498", "contexto", "#0f172a", "#22c55e", "Contexto #1498 · Sun., Oct. 25, 2026", "Contexto hints", "Close words and hints first, the secret word only at the end."],
   ["blossom-word-game-answers-october-25-2026", "blossom", "#3b0764", "#fde047", "Blossom · Sun., Oct. 25, 2026", "Blossom answers", "Letters and hints first, the pangrams only at the end."],
   ["nyt-connections-answers-meanings-october-25-2026-1232", "connections", "#14213d", "#b0c4ef", "Connections #1232 · Sun., Oct. 25, 2026", "Connections meanings", "What every word means and why it fits, answers in spoilers."],
 ];
