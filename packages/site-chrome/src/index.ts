@@ -4,7 +4,7 @@
  */
 import { SITE_NAME, THEME_COLOR, resolvePlanningYear } from "@freshcalendars/engine";
 
-const BLUE = "#007bff";
+const BLUE = "#0062cc";
 
 export function esc(s: string): string {
   return s
@@ -173,22 +173,26 @@ export const CSS = minifyCss(`
   --paper:#ffffff;
   --panel:#ffffff;
   --wash:#e0e0e0;
-  --accent:#007bff;
+  /* Text-safe brand blue: white on it and it on white both pass WCAG AA (5.8:1). */
+  --accent:#0062cc;
   --gold:#fccc00;
   --gold-soft:#f5cc3e;
-  --cyan:#0092d1;
+  --cyan:#00729f;
   --red:#ec1d00;
-  --muted:#777777;
+  --muted:#5f6368;
   --line:#cccccc;
   --line-soft:#dddddd;
   --footer:#37474f;
   --yearly-ink:#0b3d66;
-  --yearly-accent:#007bff;
+  --yearly-accent:#0062cc;
+  --yearly-eyebrow:#004f9e;
   --monthly-ink:#1c2430;
-  --monthly-accent:#0092d1;
+  --monthly-accent:#00729f;
+  --monthly-eyebrow:#005a80;
   --blank-ink:#2a3439;
   --blank-accent:#5a6b75;
-  --home-accent:#007bff;
+  --blank-eyebrow:#465560;
+  --home-accent:#0062cc;
   --home-fg:#ffffff;
   --home-muted:#e8eef3;
   --home-eyebrow:#fccc00;
@@ -210,7 +214,7 @@ body{
   padding-left:env(safe-area-inset-left,0);
   padding-right:env(safe-area-inset-right,0);
   padding-bottom:calc(96px + env(safe-area-inset-bottom,0px));
-  -webkit-tap-highlight-color:rgba(0,123,255,.12);
+  -webkit-tap-highlight-color:rgba(0,98,204,.12);
   min-height:100dvh; display:flex; flex-direction:column;
 }
 #main{
@@ -292,14 +296,14 @@ a{color:inherit}
   padding:.7rem .9rem; border-radius:4px;
   touch-action:manipulation;
 }
-.nav a:hover,.nav a:focus-visible{background:rgba(0,123,255,.1); color:var(--accent)}
+.nav a:hover,.nav a:focus-visible{background:rgba(0,98,204,.1); color:var(--accent)}
 .hero{
   min-height:auto; display:grid; align-content:start; gap:1rem;
   padding:clamp(1.1rem,3.5vw,3.25rem) 0 clamp(1rem,3vw,2.25rem); position:relative;
 }
 .family-home .hero{
   background:
-    linear-gradient(125deg, #004a7f 0%, #007bff 52%, #0092d1 100%);
+    linear-gradient(125deg, #00395f 0%, #00509e 52%, #005a85 100%);
   color:var(--home-fg); min-height:auto; padding:clamp(1.5rem,5vw,3.25rem) 0 clamp(1.25rem,4vw,2.25rem);
   border-bottom:4px solid var(--gold);
 }
@@ -312,15 +316,17 @@ a{color:inherit}
 .family-home .hero-inner{max-width:720px; margin-left:auto; margin-right:auto; text-align:left}
 .eyebrow{letter-spacing:.16em; text-transform:uppercase; font-size:.8rem; font-weight:700}
 .family-home .hero .eyebrow{color:var(--home-eyebrow)}
-.family-yearly .hero .eyebrow{color:var(--yearly-accent)}
-.family-monthly .hero .eyebrow{color:var(--monthly-accent)}
-.family-blank .hero .eyebrow{color:var(--blank-accent)}
+.family-yearly .hero .eyebrow{color:var(--yearly-eyebrow)}
+.family-monthly .hero .eyebrow{color:var(--monthly-eyebrow)}
+.family-blank .hero .eyebrow{color:var(--blank-eyebrow)}
 h1{
   font-family:Sora,"Sora Fallback",Manrope,sans-serif; font-size:clamp(2.1rem,6vw,4.2rem);
   line-height:1.12; text-wrap:balance; margin:0; max-width:16ch; font-weight:700;
 }
 .family-home .hero h1{max-width:18ch; color:var(--btn-on-dark)}
 .lead{max-width:44ch; font-size:clamp(1.02rem,2.4vw,1.12rem); color:var(--muted); margin:0}
+/* Hero tints end darker than white, where --muted drops under 4.5:1. */
+.hero .lead{color:var(--ink)}
 .family-home .hero .lead{color:var(--home-muted); max-width:48ch}
 .family-home .hero a:not(.btn){color:var(--gold-soft); font-weight:700; text-decoration:underline; text-underline-offset:3px}
 .family-home .hero a:not(.btn):hover{color:#fff}
@@ -338,7 +344,7 @@ button.btn{font:inherit; font-weight:700}
 .btn:active{transform:scale(.98)}
 .btn:hover{filter:brightness(1.06)}
 .btn:focus-visible{outline:3px solid var(--focus); outline-offset:2px}
-.btn-primary{background:var(--cyan); color:var(--ink); border-color:var(--cyan)}
+.btn-primary{background:var(--cyan); color:var(--btn-on-dark); border-color:var(--cyan)}
 .family-home .hero .btn-primary{background:var(--gold-soft); color:var(--ink); border-color:var(--gold-soft)}
 .family-yearly .hero .btn-primary{background:var(--accent); color:var(--btn-on-dark); border-color:var(--accent)}
 .family-monthly .hero .btn-primary{background:var(--cyan); color:var(--btn-on-dark); border-color:var(--cyan)}
@@ -392,7 +398,7 @@ button.btn{font:inherit; font-weight:700}
 .prose a.btn{text-decoration:none; font-weight:700}
 .prose a.btn-primary,
 .prose a.btn-primary:hover{
-  color:var(--ink); background:var(--cyan); border-color:var(--cyan);
+  color:var(--btn-on-dark); background:var(--cyan); border-color:var(--cyan);
 }
 .prose a.btn-ghost,
 .prose a.btn-ghost:hover{
@@ -582,7 +588,7 @@ button.btn{font:inherit; font-weight:700}
 .yearly-band img,.yearly-band a.img-link img{display:block; width:100%; height:auto; aspect-ratio:540 / 697; object-fit:contain; box-shadow:0 14px 36px rgba(0,74,127,.12); background:var(--panel)}
 .feature-list{display:grid; gap:.65rem; margin:1rem 0 0; padding:0; list-style:none; max-width:60ch}
 .feature-list li{
-  padding:.7rem .85rem; border-left:3px solid var(--accent); background:rgba(0,123,255,.06);
+  padding:.7rem .85rem; border-left:3px solid var(--accent); background:rgba(0,98,204,.06);
 }
 a.img-link{display:block; text-decoration:none; color:inherit; max-width:100%}
 a.img-link img{display:block; width:100%; height:auto}
@@ -761,7 +767,7 @@ ins.adsbygoogle[data-ad-status="filled"]{
     color:rgba(255,255,255,.92); font-weight:700; white-space:nowrap;
   }
   .nav a:hover,.nav a:focus-visible{
-    background:rgba(255,255,255,.14); color:#fff;
+    background:rgba(0,0,0,.18); color:#fff;
   }
   .family-home .hero{
     min-height:min(72svh,640px); align-content:center;
