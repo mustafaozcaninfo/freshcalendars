@@ -3,7 +3,7 @@ title: "CMA Awards 2026: Date, Time, Channel, Host and Nominees"
 seoTitle: "CMA Awards 2026 Date, Time, Channel and Host"
 description: "The Country Music Association (CMA) lists its awards for Nov. 18, 2026, 8 p.m. Eastern Time (ET), on American Broadcasting Company (ABC). Lainey Wilson hosts."
 type: news
-publishedAt: "2026-10-27T06:00:00-04:00"
+publishedAt: "2026-10-25T17:04:00-04:00"
 authors: [jordan-bennett]
 category: planning
 keywords: ["CMA Awards 2026", "CMA Awards 2026 date and time", "what channel are the CMA Awards on", "CMA Awards 2026 host"]

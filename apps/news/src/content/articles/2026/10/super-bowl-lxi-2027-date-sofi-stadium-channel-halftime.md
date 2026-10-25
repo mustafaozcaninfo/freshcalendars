@@ -3,7 +3,7 @@ title: "Super Bowl 2027: Super Bowl LXI Date, SoFi Stadium, TV Channel and Halft
 seoTitle: "Super Bowl 2027: LXI Date, Stadium, Channel, Halftime"
 description: "Super Bowl 61 (LXI) is at SoFi Stadium in February 2027, the National Football League (NFL) says, on ESPN and the American Broadcasting Company (ABC)."
 type: explainer
-publishedAt: "2026-10-26T16:00:00-04:00"
+publishedAt: "2026-10-25T17:02:00-04:00"
 authors: [jordan-bennett]
 category: planning
 keywords: ["Super Bowl 2027", "Super Bowl LXI date", "where is the Super Bowl 2027", "Super Bowl 2027 channel", "Super Bowl 2027 halftime show"]
