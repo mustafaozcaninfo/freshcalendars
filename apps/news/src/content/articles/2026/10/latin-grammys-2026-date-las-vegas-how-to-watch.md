@@ -3,7 +3,7 @@ title: "Latin Grammys 2026: Thursday, Nov. 12 in Las Vegas, and How to Watch"
 seoTitle: "Latin Grammys 2026 Date, Venue and How to Watch"
 description: "The 27th Latin Grammy Awards are set for Thursday, Nov. 12, 2026, the Latin Recording Academy says. Venue and Univision broadcast are as reported."
 type: news
-publishedAt: "2026-10-27T07:00:00-04:00"
+publishedAt: "2026-10-25T17:06:00-04:00"
 authors: [jordan-bennett]
 category: planning
 keywords: ["Latin Grammys 2026", "Latin Grammy 2026 fecha", "Latin Grammys 2026 date and time", "how to watch Latin Grammys"]
