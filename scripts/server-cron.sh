@@ -82,6 +82,17 @@ fail() {
   exit 1
 }
 
+# nginx keeps open file handles for up to 60s (open_file_cache_valid), so right after a sync it can
+# still serve the old copy of a replaced file; a purge in that window lets Cloudflare re-cache the old
+# page. A graceful reload starts workers with an empty cache; without root or a valid config, wait it out.
+refresh_origin_cache() {
+  if [[ "$(id -u)" == "0" ]] && command -v nginx >/dev/null && nginx -t >/dev/null 2>&1 && systemctl reload nginx; then
+    sleep 2
+  else
+    sleep 61
+  fi
+}
+
 deploy_site() {
   # $1 = "html-only" → never touch origin /assets (PNG/PDF live there + on CDN)
   local mode="${1:-all}"
@@ -92,6 +103,7 @@ deploy_site() {
   fi
   rsync "${rsync_args[@]}" "$APP_DIR/dist/site/" "$PUBLIC_HTML"
   rsync -a "$APP_DIR/server/php/lib/" "${PRIVATE_PATH}lib/"
+  refresh_origin_cache
   if [[ -n "${CF_ZONE_ID:-}" && -n "${CF_API_KEY:-}" && -n "${CF_EMAIL:-}" ]]; then
     curl -sS -X POST "https://api.cloudflare.com/client/v4/zones/${CF_ZONE_ID}/purge_cache" \
       -H "X-Auth-Email: ${CF_EMAIL}" \
