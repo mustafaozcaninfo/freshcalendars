@@ -31,6 +31,7 @@ import { buildSsaOct } from "./ssa2026.js";
 import { buildTxBallot } from "./txballot.js";
 import { buildOct22 } from "./oct22.js";
 import { buildRides } from "./rides2026.js";
+import { buildConnectionsMeanings } from "./connmeanings.js";
 import { buildTxCalendar } from "./txcalendar.js";
 import { buildNewsAssets, buildSceneGallery } from "./newsAssets.js";
 import { photoPress, photoSearch, photoUse } from "./newsPhoto.js";
@@ -166,6 +167,8 @@ async function main(): Promise<void> {
       await buildOct22();
     } else if (cmd === "news-rides") {
       await buildRides();
+    } else if (cmd === "news-connections-meanings") {
+      await buildConnectionsMeanings();
     } else if (cmd === "news-txcalendar") {
       await buildTxCalendar();
     } else if (cmd === "news-assets") {
