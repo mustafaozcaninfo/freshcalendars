@@ -385,6 +385,9 @@ button.btn{font:inherit; font-weight:700}
 .prose li{margin:.35rem 0}
 .prose a{color:var(--accent); font-weight:700; text-decoration-thickness:1px; text-underline-offset:2px}
 .prose a:hover{color:var(--ink)}
+.dates-table{border-collapse:collapse; width:100%; max-width:34rem; margin:0 0 1.25rem; font-variant-numeric:tabular-nums}
+.dates-table th,.dates-table td{text-align:left; padding:.45rem .75rem; border-bottom:1px solid var(--line-soft)}
+.dates-table th{font-weight:700; color:var(--muted); border-bottom-color:var(--line)}
 /* Buttons inside .prose must keep button colors — .prose a is more specific than .btn-* */
 .prose a.btn{text-decoration:none; font-weight:700}
 .prose a.btn-primary,

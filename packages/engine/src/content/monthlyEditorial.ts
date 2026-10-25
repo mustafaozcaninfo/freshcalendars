@@ -43,7 +43,7 @@ const EDITORIAL: Record<number, MonthEditorial> = {
     lead: (y) =>
       `Start ${y} on paper — a Fresh Calendars January sheet for resolutions, MLK Day, and Q1 deadlines.`,
     description: (y) =>
-      `Download a Fresh Calendars January ${y} printable (six layouts). Correct weekdays, US holiday marks, PNG and PDF — no signup.`,
+      `January ${y} printable calendar in six free designs, PNG and PDF. Correct weekdays, with New Year's Day and MLK Day on the holidays template. No signup.`,
     overview: (y) => [
       `January ${y} is the reset month on Fresh Calendars: 31 dated cells, New Year’s Day, and Martin Luther King Jr. Day placed by our holiday engine.`,
       `Print a classic ink-saver for binders or the holidays layout when federal days need to jump out on the fridge.`,
@@ -77,7 +77,7 @@ const EDITORIAL: Record<number, MonthEditorial> = {
     lead: (y) =>
       `February ${y} is short — lock Valentine’s and Presidents’ Day on a Fresh Calendars month grid before the weeks collide.`,
     description: (y) =>
-      `Fresh Calendars February ${y} printables with the real ${y} day count, holiday labels, and six downloadable designs.`,
+      `February ${y} printable calendar with the real ${y} day count, Presidents' Day marked on the holidays template, and six free designs in PNG and PDF.`,
     overview: (y) => [
       `February ${y} gets the correct day count on Fresh Calendars — including leap years — so weekday placement never drifts.`,
       `Use the holidays sheet for Presidents’ Day (third Monday) and keep Valentine’s dinner plans on the planner layout.`,
@@ -111,7 +111,7 @@ const EDITORIAL: Record<number, MonthEditorial> = {
     lead: (y) =>
       `March ${y} from Fresh Calendars — spring-forward energy, school breaks, and a dated grid before daylight stretches.`,
     description: (y) =>
-      `Grab March ${y} from Fresh Calendars: six printable styles, accurate weekdays, and March-only planning notes.`,
+      `March ${y} printable calendar in six free designs, PNG and PDF, with accurate weekdays and room for spring break and March planning notes.`,
     overview: (y) => [
       `March ${y} is when schedules reopen outdoors and spring break windows appear. Fresh Calendars keeps every weekday locked for the month.`,
       `Pin the landscape sheet near a mudroom or classroom; use Monday-start if your week is work-first.`,
@@ -145,7 +145,7 @@ const EDITORIAL: Record<number, MonthEditorial> = {
     lead: (y) =>
       `April ${y} on Fresh Calendars — showers, tax timing, Earth Day, and Easter-aware holiday cells when the Sunday lands here.`,
     description: (y) =>
-      `April ${y} Fresh Calendars downloads with Easter-aware holidays, six print styles, and April-specific tips.`,
+      `April ${y} printable calendar in six free designs, PNG and PDF, with Easter-aware holiday marks, accurate weekdays, and April planning tips.`,
     overview: (y) => [
       `April’s thirty days pack testing windows, outdoor reopenings, and Earth Day projects. Fresh Calendars dates the grid so nothing slips a weekday.`,
       `When Easter falls in April ${y}, the holidays template labels Sunday from the same computus as our when-is page.`,
@@ -179,7 +179,7 @@ const EDITORIAL: Record<number, MonthEditorial> = {
     lead: (y) =>
       `May ${y} Fresh Calendars sheets for graduations, Mother’s Day, and Memorial Day weekend logistics.`,
     description: (y) =>
-      `Print May ${y} from Fresh Calendars — Memorial Day calculated, six visual styles, family-and-classroom friendly PDFs.`,
+      `May ${y} printable calendar with Memorial Day calculated, six free designs in PNG and PDF, and layouts that work for families and classrooms.`,
     overview: (y) => [
       `May ${y} bridges spring and summer: Mother’s Day, finales, and Memorial Day as the unofficial US summer start.`,
       `Because Memorial Day moves, Fresh Calendars regenerates May ${y} instead of recycling last year’s grid.`,
@@ -213,7 +213,7 @@ const EDITORIAL: Record<number, MonthEditorial> = {
     lead: (y) =>
       `June ${y} Fresh Calendars printables — solstice daylight, Juneteenth, and Father’s Day on one month page.`,
     description: (y) =>
-      `June ${y} calendars from Fresh Calendars with Juneteenth marked, six templates, and summer logistics tips.`,
+      `June ${y} printable calendar with Juneteenth marked, six free designs in PNG and PDF, and tips for summer schedules and camp weeks.`,
     overview: (y) => [
       `June ${y} brings peak Northern Hemisphere daylight plus Juneteenth (June 19) and Father’s Day on the third Sunday.`,
       `Households and teams both benefit from a Fresh Calendars wall sheet before camp and vacation PTO overlap.`,
@@ -247,7 +247,7 @@ const EDITORIAL: Record<number, MonthEditorial> = {
     lead: (y) =>
       `July ${y} Fresh Calendars grids for Independence Day travel, cookouts, and mid-week holiday bridges.`,
     description: (y) =>
-      `Free July ${y} Fresh Calendars printables with July 4 labeled, six designs, and midsummer planning notes.`,
+      `July ${y} printable calendar with Independence Day labeled, six free designs in PNG and PDF, and room for midsummer travel plans.`,
     overview: (y) => [
       `July ${y} is defined in the US by Independence Day. Fresh Calendars places the 4th correctly so group plans stop asking “what day is it?”`,
       `Vacations and special retail hours pile up — a dated month sheet keeps the chaos readable.`,
@@ -281,7 +281,7 @@ const EDITORIAL: Record<number, MonthEditorial> = {
     lead: (y) =>
       `August ${y} Fresh Calendars month — last vacations, supply lists, and back-to-school dates without a federal holiday buffer.`,
     description: (y) =>
-      `August ${y} printable calendars from Fresh Calendars: six layouts, weekend tints, and room for back-to-school dates.`,
+      `August ${y} printable calendar in six free designs, PNG and PDF, with weekend tints and room for back-to-school dates. No federal holidays this month.`,
     overview: (y) => [
       `August ${y} is often the last full stretch of summer break. Fresh Calendars still ships a full dated grid even with no US federal holiday.`,
       `Use notes-planner for first-day-of-school announcements the week they drop.`,
@@ -315,7 +315,7 @@ const EDITORIAL: Record<number, MonthEditorial> = {
     lead: (y) =>
       `September ${y} Fresh Calendars reset — Labor Day weekend, school rhythm, and early Q4 prep on one printable.`,
     description: (y) =>
-      `September ${y} from Fresh Calendars with Labor Day placed, six templates, and back-to-routine guidance.`,
+      `September ${y} printable calendar with Labor Day placed, six free designs in PNG and PDF, and tips for the back-to-routine month.`,
     overview: (y) => [
       `September ${y} is the practical new year for many US households. Fresh Calendars anchors Labor Day (first Monday) then the busier weeks that follow.`,
       `Meeting density climbs after the holiday weekend — keep it visible on a wall sheet.`,
@@ -349,7 +349,7 @@ const EDITORIAL: Record<number, MonthEditorial> = {
     lead: (y) =>
       `October ${y} Fresh Calendars planning — federal Monday observance, Halloween, and Q4 sprint weeks.`,
     description: (y) =>
-      `October ${y} Fresh Calendars downloads with holiday marks, Halloween writing room, and six distinct print files.`,
+      `October ${y} printable calendar with holiday marks, room to plan Halloween, and six free designs to download as PNG or PDF.`,
     overview: (y) => [
       `October ${y} packs earlier sunsets, school events, and Halloween on the 31st. Fresh Calendars follows the federal second-Monday rule for Columbus Day while you note local Indigenous Peoples’ Day practice.`,
       `Notes-planner is the costume-and-party workhorse by mid-month.`,
@@ -383,7 +383,7 @@ const EDITORIAL: Record<number, MonthEditorial> = {
     lead: (y) =>
       `November ${y} Fresh Calendars — Veterans Day, Thanksgiving week math, and travel locks before the fourth Thursday.`,
     description: (y) =>
-      `November ${y} printables from Fresh Calendars with Thanksgiving calculated, Veterans Day marked, and six templates.`,
+      `November ${y} printable calendar with Thanksgiving calculated and Veterans Day marked. Six free designs to download as PNG or PDF.`,
     overview: (y) => [
       `November ${y} concentrates Veterans Day (11th) and Thanksgiving (fourth Thursday). Fresh Calendars regenerates the month so Wednesday travel never inherits last year’s weekday.`,
       `Shade the holiday week early, then cook prep two days prior on the planner.`,
@@ -417,7 +417,7 @@ const EDITORIAL: Record<number, MonthEditorial> = {
     lead: (y) =>
       `December ${y} Fresh Calendars sheets for Christmas Day, shipping cutoffs, and year-end office closures.`,
     description: (y) =>
-      `December ${y} Fresh Calendars printables with Christmas marked, six designs, and year-end planning notes.`,
+      `December ${y} printable calendar with Christmas marked, six free designs in PNG and PDF, and space for year-end planning notes.`,
     overview: (y) => [
       `December ${y} compresses concerts, religious observances, and Christmas Day on the 25th. Fresh Calendars keeps the grid honest while fiscal close and family travel compete.`,
       `Mark shipping cutoffs before gift orders slip past carrier deadlines.`,
@@ -443,7 +443,7 @@ const EDITORIAL: Record<number, MonthEditorial> = {
       },
       {
         q: `Can I print December ${y} and January together?`,
-        a: `Download December ${y} here and the January evergreen/fixed page for the resolved January year — rolling rules may point January at ${y + 1}.`,
+        a: `Download December ${y} here and January ${y + 1} from the January page, which shows ${y + 1} from February ${y} onward.`,
       },
     ],
   },

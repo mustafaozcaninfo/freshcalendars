@@ -8,6 +8,7 @@ import { buildHolidayFaq, getHolidayEditorial } from "../content/holidayEditoria
 import { holidaysForMonth, holidaysForYear, resolveHoliday } from "../holidays/engine.js";
 import {
   holidayDefBySlug,
+  holidayRulesForLocale,
   holidaysHubPath,
   holidayLocaleForSlug,
   type HolidayLocale,
@@ -70,8 +71,11 @@ function baseMeta(partial: {
   downloadTitles?: SeoMeta["downloadTitles"];
   variants?: SeoMeta["variants"];
   keywords?: string[];
+  hreflang?: SeoMeta["hreflang"];
+  ogLocale?: string;
 }): SeoMeta {
   const url = absUrl(partial.path);
+  partial = { ...partial, title: fitTitle(partial.title) };
   const ogImagePath = ogPath(partial.pageId);
   const ogAbs = cdnUrl(ogImagePath);
   const pngRel =
@@ -152,14 +156,14 @@ function baseMeta(partial: {
     author: SITE_NAME,
     themeColor: THEME_COLOR,
     keywords: partial.keywords,
-    hreflang: [{ lang: "en", href: url }],
+    hreflang: partial.hreflang ?? [{ lang: "en", href: url }],
     openGraph: {
       type: "website",
       siteName: SITE_NAME,
       title: partial.title,
       description: partial.description,
       url,
-      locale: "en_US",
+      locale: partial.ogLocale ?? "en_US",
       images: [
         {
           url: ogAbs,
@@ -197,6 +201,42 @@ function baseMeta(partial: {
   };
 }
 
+/** Drop the brand suffix when it would push a title past ~60 characters (SERP truncation). */
+function fitTitle(title: string): string {
+  const suffix = ` | ${SITE_NAME}`;
+  return title.length > 60 && title.endsWith(suffix) ? title.slice(0, -suffix.length) : title;
+}
+
+const LOCALE_HREFLANG: Record<HolidayLocale, string> = { us: "en-US", uk: "en-GB", ca: "en-CA" };
+
+/**
+ * US/UK/Canada versions of the same holiday (same name) are regional
+ * alternates of one page, so they point at each other; the US page is x-default.
+ */
+function holidayHreflang(name: string, slug: string): SeoMeta["hreflang"] | undefined {
+  const twins = (["us", "uk", "ca"] as HolidayLocale[]).flatMap((loc) =>
+    holidayRulesForLocale(loc)
+      .filter((d) => d.name === name && holidayLocaleForSlug(d.slug) === loc)
+      .map((d) => ({ loc, slug: d.slug })),
+  );
+  if (twins.length < 2 || !twins.some((t) => t.slug === slug)) return undefined;
+  const links = twins.map((t) => ({ lang: LOCALE_HREFLANG[t.loc], href: absUrl(holidayWhenIsPath(t.slug)) }));
+  const fallback = twins.find((t) => t.loc === "us") ?? twins[0]!;
+  return [...links, { lang: "x-default", href: absUrl(holidayWhenIsPath(fallback.slug)) }];
+}
+
+/** Longest when-is title that fits ~60 characters: full date with brand first, then shorter dates. */
+function holidayTitle(h: { formatted: string; weekdayName: string; date: Date }, head: string): string {
+  const short = h.date.toLocaleDateString("en-US", { month: "short", day: "numeric", year: "numeric" });
+  const options = [
+    `${head} Date · ${h.formatted} | ${SITE_NAME}`,
+    `${head} Date · ${h.formatted}`,
+    `${head} Date · ${h.weekdayName}, ${short}`,
+    `${head} · ${short}`,
+  ];
+  return options.find((t) => t.length <= 60) ?? head;
+}
+
 /** Longest tail that keeps a meta description within the 160-character snippet. */
 function fitDescription(head: string, tails: string[]): string {
   for (const tail of tails) {
@@ -222,7 +262,7 @@ export function buildMetaForEntry(
       pageId: entry.pageId,
       path: "/",
       title: `Printable Calendars ${year} · Free Monthly & Year PDFs | ${SITE_NAME}`,
-      description: `Fresh Calendars home for ${year}: grab this month’s ${curName} sheet, next month, blank write-ins, and a ${year} year-at-a-glance PDF. US holidays calculated live — six monthly designs, no account.`,
+      description: `Free printable calendars for ${year}: this month’s ${curName} sheet, next month, blank write-ins, and a ${year} year-at-a-glance PDF. Six monthly designs, no account.`,
       family: "home",
       year,
       month: curM,
@@ -251,7 +291,7 @@ export function buildMetaForEntry(
         },
         {
           q: `Will January pages show the correct year later in ${year}?`,
-          a: `Evergreen month URLs always resolve to the next occurrence of that month — so after the month passes, the page rolls forward automatically.`,
+          a: `Yes. Each month page shows the next occurrence of that month, so once a month ends its page moves on to the following year.`,
         },
       ],
       download: {
@@ -283,8 +323,8 @@ export function buildMetaForEntry(
         ? `${year} Yearly Calendar · Next-Year Poster Hub | ${SITE_NAME}`
         : `${year} Yearly Calendar · Printable Year Overview | ${SITE_NAME}`,
       description: isNext
-        ? `Get ahead with Fresh Calendars’ free ${year} yearly poster (PNG & PDF). Five wall formats — classic, landscape, holidays, Monday-start, ink-compact — on our evergreen next-year hub.`
-        : `Free ${year} yearly printable from Fresh Calendars (PNG & PDF). Five poster formats, twelve mini-months, accurate ${year} weekdays — current planning-year hub.`,
+        ? `Free ${year} yearly calendar poster in PNG and PDF. Five wall formats: classic, landscape, holidays, Monday-start, and ink-compact, with twelve accurate months.`
+        : `Free ${year} yearly printable calendar in PNG and PDF: five poster formats with twelve mini-months and accurate ${year} weekdays on one page.`,
       family: "yearly",
       year,
       month: null,
@@ -369,7 +409,7 @@ export function buildMetaForEntry(
       path: entry.path,
       title: `Blank Calendar Printables · 5 Undated Monthly Sheets | ${SITE_NAME}`,
       description:
-        "Fresh Calendars blank month pack — classic, Monday-start, notes, landscape, and kids/classroom undated PNG/PDF sheets you can reuse any month.",
+        "Blank monthly calendar printables: five undated sheets (classic, Monday-start, notes, landscape, kids) in PNG and PDF that you can reuse any month.",
       family: "blank",
       year: null,
       month: null,
@@ -395,7 +435,7 @@ export function buildMetaForEntry(
       path: entry.path,
       title: `Blank Yearly Calendar · Undated 12-Month Fill-In | ${SITE_NAME}`,
       description:
-        "Fresh Calendars undated yearly poster — twelve mini-months to fill by hand (PNG & PDF). Reuse for any year or custom fiscal span.",
+        "Blank yearly calendar to fill in by hand: twelve undated mini-months on one page, in PNG and PDF. Reuse it for any year or a custom fiscal span.",
       family: "blank",
       year: null,
       month: null,
@@ -455,8 +495,8 @@ export function buildMetaForEntry(
           : `${year} ${localeLabel} Holiday List · Public & Bank Dates | ${SITE_NAME}`,
       description:
         locale === "us"
-          ? `Fresh Calendars ${year} US holiday list — ${federal.length} federal days plus popular observances${highlight ? ` (Thanksgiving ${highlight.formatted})` : ""}. Each date opens a when-is page and matching month printable.`
-          : `Fresh Calendars ${year} ${localeLabel} holiday list — ${federal.length} public/bank holidays plus observances${highlight ? ` (${highlightName} ${highlight.formatted})` : ""}. Every date has its own when-is page.`,
+          ? `${year} US holiday list: ${federal.length} federal holidays plus popular observances${highlight ? ` (Thanksgiving ${highlight.formatted})` : ""}, each with a when-is page.`
+          : `${year} ${localeLabel} holiday list: ${federal.length} public and bank holidays plus observances${highlight ? ` (${highlightName} ${highlight.formatted})` : ""}, each with a when-is page.`,
       family: "holidays",
       year,
       month: null,
@@ -537,11 +577,20 @@ export function buildMetaForEntry(
           `Free printable ${monthName} ${year} calendar with holidays marked.`,
           `Printable ${monthName} ${year} calendar.`,
         ]);
+    // Same-name UK/Canada pages would otherwise share the US title.
+    const localeTag =
+      locale === "uk" && !/\bUK\b/.test(h.name)
+        ? " (UK)"
+        : locale === "ca" && !/Canad/.test(h.name)
+          ? " (Canada)"
+          : "";
     return baseMeta({
       pageId: entry.pageId,
       path: entry.path,
-      title: `${h.name} ${year} Date · ${h.formatted} | ${SITE_NAME}`,
+      title: holidayTitle(h, `${h.name} ${year}${localeTag}`),
       description,
+      hreflang: holidayHreflang(h.name, slug),
+      ogLocale: locale === "uk" ? "en_GB" : locale === "ca" ? "en_CA" : undefined,
       family: "holiday",
       year,
       month: h.month,
@@ -601,7 +650,7 @@ export function buildMetaForEntry(
       },
       weekly: {
         title: `Weekly Calendar Printables · 5 Planner Packs | ${SITE_NAME}`,
-        description: `Fresh Calendars weekly pack — classic Sunday, Monday-start, hourly, priorities, and habit-tracker PNG/PDFs, plus a current-week grid you can print from the browser.`,
+        description: `Printable weekly calendars: classic Sunday, Monday-start, hourly, priorities, and habit-tracker PNG and PDF sheets, plus this week’s grid to print.`,
         keywords: [
           "printable weekly calendar",
           "weekly planner printable",
@@ -651,7 +700,7 @@ export function buildMetaForEntry(
       },
       "monday-start": {
         title: `Monday-Start Monthly Calendars · Mon–Sun Grids | ${SITE_NAME}`,
-        description: `Fresh Calendars Monday-start months — Mon–Sun downloads for this month and next, plus links to every evergreen month and a short how-to.`,
+        description: `Monday-start monthly calendars: Mon–Sun printable grids for this month and next, links to every month, and a short how-to for Monday-first planning.`,
         keywords: [
           "monday start calendar",
           "monday start printable calendar",
@@ -867,14 +916,14 @@ export function buildMetaForEntry(
     ],
   };
   const legalDesc: Record<string, string> = {
-    contact: `Reach ${SITE_NAME} about printable calendars, download issues, or licensing — we reply by email.`,
-    "privacy-policy": `${SITE_NAME} privacy details: hosting logs, cookies, Google AdSense, contact-form storage, and your ad choices.`,
-    "terms-of-use": `${SITE_NAME} terms: personal calendar license, linking rules, disclaimers, and liability limits for free downloads.`,
-    about: `What ${SITE_NAME} is: free printables, evergreen URLs, a live US holidays engine, and how monthly/yearly sheets are built.`,
-    advertising: `How ads fund ${SITE_NAME}: AdSense units, Auto ads, and privacy controls while calendars stay free.`,
-    disclosure: `${SITE_NAME} affiliate disclosure for Amazon Associates and other advertising relationships.`,
-    "school-holidays": `${SITE_NAME} school-year guide: August–July planning, month packs, and classroom printables (not district-official).`,
-    "daylight-savings": `US daylight saving on ${SITE_NAME}: when clocks spring forward and fall back for the planning year.`,
+    contact: `Contact ${SITE_NAME} about printable calendars, broken downloads, or licensing questions. Send a message with the form and we reply by email.`,
+    "privacy-policy": `How ${SITE_NAME} handles your data: hosting logs, cookies, Google AdSense, contact-form storage, and the ad choices available to you.`,
+    "terms-of-use": `Terms for using ${SITE_NAME}: the personal calendar license, linking rules, disclaimers, and liability limits that apply to our free downloads.`,
+    about: `What ${SITE_NAME} is: free printables, pages that roll to the next date, a live US holidays engine, and how monthly/yearly sheets are built.`,
+    advertising: `How ads fund ${SITE_NAME}: where AdSense units and Auto ads appear and which privacy controls you can use, while calendars stay free to download.`,
+    disclosure: `${SITE_NAME} affiliate disclosure: how Amazon Associates and other advertising relationships work on this site and when a link may earn us a commission.`,
+    "school-holidays": `School holiday planning for the August to July year: month packs, a school-year overview, and classroom printables. Check your district for official dates.`,
+    "daylight-savings": `US daylight saving time ${today.getFullYear()} and ${today.getFullYear() + 1}: clocks spring forward the second Sunday of March and fall back the first Sunday of November.`,
   };
   return baseMeta({
     pageId: entry.pageId,
