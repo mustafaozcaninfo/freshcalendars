@@ -72,6 +72,7 @@ function baseMeta(partial: {
   variants?: SeoMeta["variants"];
   keywords?: string[];
   hreflang?: SeoMeta["hreflang"];
+  ogLocale?: string;
 }): SeoMeta {
   const url = absUrl(partial.path);
   partial = { ...partial, title: fitTitle(partial.title) };
@@ -162,7 +163,7 @@ function baseMeta(partial: {
       title: partial.title,
       description: partial.description,
       url,
-      locale: "en_US",
+      locale: partial.ogLocale ?? "en_US",
       images: [
         {
           url: ogAbs,
@@ -222,6 +223,18 @@ function holidayHreflang(name: string, slug: string): SeoMeta["hreflang"] | unde
   const links = twins.map((t) => ({ lang: LOCALE_HREFLANG[t.loc], href: absUrl(holidayWhenIsPath(t.slug)) }));
   const fallback = twins.find((t) => t.loc === "us") ?? twins[0]!;
   return [...links, { lang: "x-default", href: absUrl(holidayWhenIsPath(fallback.slug)) }];
+}
+
+/** Longest when-is title that fits ~60 characters: full date with brand first, then shorter dates. */
+function holidayTitle(h: { formatted: string; weekdayName: string; date: Date }, head: string): string {
+  const short = h.date.toLocaleDateString("en-US", { month: "short", day: "numeric", year: "numeric" });
+  const options = [
+    `${head} Date · ${h.formatted} | ${SITE_NAME}`,
+    `${head} Date · ${h.formatted}`,
+    `${head} Date · ${h.weekdayName}, ${short}`,
+    `${head} · ${short}`,
+  ];
+  return options.find((t) => t.length <= 60) ?? head;
 }
 
 /** Longest tail that keeps a meta description within the 160-character snippet. */
@@ -574,9 +587,10 @@ export function buildMetaForEntry(
     return baseMeta({
       pageId: entry.pageId,
       path: entry.path,
-      title: `${h.name} ${year}${localeTag} Date · ${h.formatted} | ${SITE_NAME}`,
+      title: holidayTitle(h, `${h.name} ${year}${localeTag}`),
       description,
       hreflang: holidayHreflang(h.name, slug),
+      ogLocale: locale === "uk" ? "en_GB" : locale === "ca" ? "en_CA" : undefined,
       family: "holiday",
       year,
       month: h.month,
@@ -902,14 +916,14 @@ export function buildMetaForEntry(
     ],
   };
   const legalDesc: Record<string, string> = {
-    contact: `Reach ${SITE_NAME} about printable calendars, download issues, or licensing — we reply by email.`,
-    "privacy-policy": `${SITE_NAME} privacy details: hosting logs, cookies, Google AdSense, contact-form storage, and your ad choices.`,
-    "terms-of-use": `${SITE_NAME} terms: personal calendar license, linking rules, disclaimers, and liability limits for free downloads.`,
+    contact: `Contact ${SITE_NAME} about printable calendars, broken downloads, or licensing questions. Send a message with the form and we reply by email.`,
+    "privacy-policy": `How ${SITE_NAME} handles your data: hosting logs, cookies, Google AdSense, contact-form storage, and the ad choices available to you.`,
+    "terms-of-use": `Terms for using ${SITE_NAME}: the personal calendar license, linking rules, disclaimers, and liability limits that apply to our free downloads.`,
     about: `What ${SITE_NAME} is: free printables, pages that roll to the next date, a live US holidays engine, and how monthly/yearly sheets are built.`,
-    advertising: `How ads fund ${SITE_NAME}: AdSense units, Auto ads, and privacy controls while calendars stay free.`,
-    disclosure: `${SITE_NAME} affiliate disclosure for Amazon Associates and other advertising relationships.`,
-    "school-holidays": `${SITE_NAME} school-year guide: August–July planning, month packs, and classroom printables (not district-official).`,
-    "daylight-savings": `US daylight saving on ${SITE_NAME}: when clocks spring forward and fall back for the planning year.`,
+    advertising: `How ads fund ${SITE_NAME}: where AdSense units and Auto ads appear and which privacy controls you can use, while calendars stay free to download.`,
+    disclosure: `${SITE_NAME} affiliate disclosure: how Amazon Associates and other advertising relationships work on this site and when a link may earn us a commission.`,
+    "school-holidays": `School holiday planning for the August to July year: month packs, a school-year overview, and classroom printables. Check your district for official dates.`,
+    "daylight-savings": `US daylight saving time ${today.getFullYear()} and ${today.getFullYear() + 1}: clocks spring forward the second Sunday of March and fall back the first Sunday of November.`,
   };
   return baseMeta({
     pageId: entry.pageId,

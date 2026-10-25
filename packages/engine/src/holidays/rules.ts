@@ -54,7 +54,7 @@ export const US_HOLIDAY_RULES: HolidayDef[] = [
     kind: "observance",
     sort: 3,
     rule: { t: "fixed", m: 2, d: 2 },
-    blurb: "February 2 folklore observance — will the groundhog see its shadow?",
+    blurb: "February 2 folklore observance: will the groundhog see its shadow?",
   },
   {
     slug: "valentines-day",
@@ -70,7 +70,7 @@ export const US_HOLIDAY_RULES: HolidayDef[] = [
     kind: "federal",
     sort: 5,
     rule: { t: "nth_weekday", n: 3, weekday: "monday", m: 2 },
-    blurb: "Officially Washington's Birthday — observed the third Monday of February.",
+    blurb: "Officially Washington's Birthday: observed the third Monday of February.",
   },
   {
     slug: "st-patricks-day",
@@ -86,7 +86,7 @@ export const US_HOLIDAY_RULES: HolidayDef[] = [
     kind: "movable",
     sort: 7,
     rule: { t: "easter_offset", offset: -46 },
-    blurb: "Western Lent begins — Ash Wednesday is Easter Sunday minus 46 days (Gregorian computus).",
+    blurb: "Western Lent begins: Ash Wednesday is Easter Sunday minus 46 days (Gregorian computus).",
   },
   {
     slug: "april-fools-day",
@@ -94,7 +94,7 @@ export const US_HOLIDAY_RULES: HolidayDef[] = [
     kind: "observance",
     sort: 8,
     rule: { t: "fixed", m: 4, d: 1 },
-    blurb: "April 1 observance for jokes and hoaxes — cultural day, not a public holiday.",
+    blurb: "April 1 observance for jokes and hoaxes: cultural day, not a public holiday.",
   },
   {
     slug: "palm-sunday",
@@ -102,7 +102,7 @@ export const US_HOLIDAY_RULES: HolidayDef[] = [
     kind: "movable",
     sort: 9,
     rule: { t: "easter_offset", offset: -7 },
-    blurb: "Sunday before Easter — one week before Easter Sunday.",
+    blurb: "Sunday before Easter: one week before Easter Sunday.",
   },
   {
     slug: "good-friday",
@@ -166,7 +166,7 @@ export const US_HOLIDAY_RULES: HolidayDef[] = [
     kind: "observance",
     sort: 17,
     rule: { t: "nth_weekday", n: 3, weekday: "sunday", m: 6 },
-    blurb: "US Father's Day — third Sunday of June (observance, not a federal holiday).",
+    blurb: "US Father's Day: third Sunday of June (observance, not a federal holiday).",
   },
   {
     slug: "juneteenth",
@@ -174,7 +174,7 @@ export const US_HOLIDAY_RULES: HolidayDef[] = [
     kind: "federal",
     sort: 18,
     rule: { t: "fixed", m: 6, d: 19 },
-    blurb: "Juneteenth National Independence Day — US federal holiday on June 19 (Galveston 1865).",
+    blurb: "Juneteenth National Independence Day: US federal holiday on June 19 (Galveston 1865).",
   },
   {
     slug: "independence-day",
@@ -182,7 +182,7 @@ export const US_HOLIDAY_RULES: HolidayDef[] = [
     kind: "federal",
     sort: 19,
     rule: { t: "fixed", m: 7, d: 4 },
-    blurb: "US Independence Day — July 4 federal holiday.",
+    blurb: "US Independence Day: July 4 federal holiday.",
   },
   {
     slug: "labor-day",
@@ -222,7 +222,7 @@ export const US_HOLIDAY_RULES: HolidayDef[] = [
     kind: "federal",
     sort: 24,
     rule: { t: "fixed", m: 11, d: 11 },
-    blurb: "Federal holiday honoring military veterans — November 11.",
+    blurb: "Federal holiday honoring military veterans: November 11.",
   },
   {
     slug: "thanksgiving",
@@ -230,7 +230,7 @@ export const US_HOLIDAY_RULES: HolidayDef[] = [
     kind: "federal",
     sort: 25,
     rule: { t: "nth_weekday", n: 4, weekday: "thursday", m: 11 },
-    blurb: "US Thanksgiving — fourth Thursday of November.",
+    blurb: "US Thanksgiving: fourth Thursday of November.",
   },
   {
     slug: "black-friday",
@@ -238,7 +238,7 @@ export const US_HOLIDAY_RULES: HolidayDef[] = [
     kind: "observance",
     sort: 26,
     rule: { t: "offset_from", base: "thanksgiving", days: 1 },
-    blurb: "Day after Thanksgiving — major shopping observance.",
+    blurb: "Day after Thanksgiving: major shopping observance.",
   },
   {
     slug: "cyber-monday",
@@ -246,7 +246,7 @@ export const US_HOLIDAY_RULES: HolidayDef[] = [
     kind: "observance",
     sort: 27,
     rule: { t: "offset_from", base: "thanksgiving", days: 4 },
-    blurb: "Monday after Thanksgiving — online shopping peak.",
+    blurb: "Monday after Thanksgiving: online shopping peak.",
   },
   {
     slug: "daylight-savings",
@@ -254,7 +254,7 @@ export const US_HOLIDAY_RULES: HolidayDef[] = [
     kind: "observance",
     sort: 28,
     rule: { t: "nth_weekday", n: 2, weekday: "sunday", m: 3 },
-    blurb: "US DST starts — clocks spring forward 1 hour on the second Sunday of March at 2:00 a.m.",
+    blurb: "US DST starts: clocks spring forward 1 hour on the second Sunday of March at 2:00 a.m.",
   },
   {
     slug: "christmas-eve",
@@ -278,7 +278,7 @@ export const US_HOLIDAY_RULES: HolidayDef[] = [
     kind: "observance",
     sort: 31,
     rule: { t: "fixed", m: 12, d: 31 },
-    blurb: "Last day of the civil year — countdown and party planning.",
+    blurb: "Last day of the civil year: countdown and party planning.",
   },
 ];
 
@@ -301,7 +301,7 @@ export const UK_HOLIDAY_RULES: HolidayDef[] = [
     kind: "federal",
     sort: 2,
     rule: { t: "easter_offset", offset: -2 },
-    blurb: "UK bank holiday — Friday before Easter Sunday (Gregorian computus).",
+    blurb: "UK bank holiday: Friday before Easter Sunday (Gregorian computus).",
   },
   {
     slug: "uk-easter-monday",
@@ -309,7 +309,7 @@ export const UK_HOLIDAY_RULES: HolidayDef[] = [
     kind: "federal",
     sort: 3,
     rule: { t: "easter_offset", offset: 1 },
-    blurb: "UK bank holiday — the Monday immediately after Easter Sunday (Gregorian computus).",
+    blurb: "UK bank holiday: the Monday immediately after Easter Sunday (Gregorian computus).",
   },
   {
     slug: "uk-early-may-bank-holiday",
@@ -317,7 +317,7 @@ export const UK_HOLIDAY_RULES: HolidayDef[] = [
     kind: "federal",
     sort: 4,
     rule: { t: "nth_weekday", n: 1, weekday: "monday", m: 5 },
-    blurb: "UK bank holiday — first Monday of May (occasionally moved for commemorations).",
+    blurb: "UK bank holiday: first Monday of May (occasionally moved for commemorations).",
   },
   {
     slug: "uk-spring-bank-holiday",
@@ -333,7 +333,7 @@ export const UK_HOLIDAY_RULES: HolidayDef[] = [
     kind: "federal",
     sort: 6,
     rule: { t: "last_weekday", weekday: "monday", m: 8 },
-    blurb: "England & Wales (and NI) bank holiday — last Monday of August (Scotland differs).",
+    blurb: "England & Wales (and NI) bank holiday: last Monday of August (Scotland differs).",
   },
   {
     slug: "uk-christmas-day",
@@ -357,7 +357,7 @@ export const UK_HOLIDAY_RULES: HolidayDef[] = [
     kind: "observance",
     sort: 9,
     rule: { t: "fixed", m: 4, d: 23 },
-    blurb: "England's patronal day — not a UK-wide bank holiday.",
+    blurb: "England's patronal day: not a UK-wide bank holiday.",
   },
   {
     slug: "uk-guy-fawkes-night",
@@ -365,7 +365,7 @@ export const UK_HOLIDAY_RULES: HolidayDef[] = [
     kind: "observance",
     sort: 10,
     rule: { t: "fixed", m: 11, d: 5 },
-    blurb: "Bonfire Night — 5 November observance of the 1605 Gunpowder Plot failure.",
+    blurb: "Bonfire Night: 5 November observance of the 1605 Gunpowder Plot failure.",
   },
   {
     slug: "uk-remembrance-sunday",
@@ -373,7 +373,7 @@ export const UK_HOLIDAY_RULES: HolidayDef[] = [
     kind: "observance",
     sort: 11,
     rule: { t: "nth_weekday", n: 2, weekday: "sunday", m: 11 },
-    blurb: "Second Sunday of November — national Remembrance services (Armistice Day is 11 Nov).",
+    blurb: "Second Sunday of November: national Remembrance services (Armistice Day is 11 Nov).",
   },
   {
     slug: "uk-christmas-eve",
@@ -389,7 +389,7 @@ export const UK_HOLIDAY_RULES: HolidayDef[] = [
     kind: "observance",
     sort: 13,
     rule: { t: "fixed", m: 12, d: 31 },
-    blurb: "31 December — Hogmanay eve and UK countdown night (not a bank holiday).",
+    blurb: "31 December: Hogmanay eve and UK countdown night (not a bank holiday).",
   },
 ];
 
@@ -420,7 +420,7 @@ export const CA_HOLIDAY_RULES: HolidayDef[] = [
     kind: "federal",
     sort: 3,
     rule: { t: "easter_offset", offset: -2 },
-    blurb: "Canadian statutory holiday — Friday before Easter Sunday.",
+    blurb: "Canadian statutory holiday: Friday before Easter Sunday.",
   },
   {
     slug: "ca-easter-monday",
@@ -428,7 +428,7 @@ export const CA_HOLIDAY_RULES: HolidayDef[] = [
     kind: "observance",
     sort: 4,
     rule: { t: "easter_offset", offset: 1 },
-    blurb: "Monday after Easter — observed by many employers; not federal for all.",
+    blurb: "Monday after Easter: observed by many employers; not federal for all.",
   },
   {
     slug: "ca-victoria-day",
@@ -436,7 +436,7 @@ export const CA_HOLIDAY_RULES: HolidayDef[] = [
     kind: "federal",
     sort: 5,
     rule: { t: "weekday_on_or_before", weekday: "monday", m: 5, d: 24 },
-    blurb: "Monday on or before 24 May — Victoria Day federal holiday.",
+    blurb: "Monday on or before 24 May: Victoria Day federal holiday.",
   },
   {
     slug: "ca-canada-day",
@@ -452,7 +452,7 @@ export const CA_HOLIDAY_RULES: HolidayDef[] = [
     kind: "observance",
     sort: 7,
     rule: { t: "nth_weekday", n: 1, weekday: "monday", m: 8 },
-    blurb: "First Monday of August — common provincial civic holiday (names vary).",
+    blurb: "First Monday of August: common provincial civic holiday (names vary).",
   },
   {
     slug: "ca-labour-day",
@@ -460,7 +460,7 @@ export const CA_HOLIDAY_RULES: HolidayDef[] = [
     kind: "federal",
     sort: 8,
     rule: { t: "nth_weekday", n: 1, weekday: "monday", m: 9 },
-    blurb: "Canadian federal Labour Day — first Monday of September (summer’s bookend weekend).",
+    blurb: "Canadian federal Labour Day: first Monday of September (summer’s bookend weekend).",
   },
   {
     slug: "ca-national-day-truth",
@@ -468,7 +468,7 @@ export const CA_HOLIDAY_RULES: HolidayDef[] = [
     kind: "federal",
     sort: 9,
     rule: { t: "fixed", m: 9, d: 30 },
-    blurb: "Federal holiday on 30 September — Truth and Reconciliation / Orange Shirt Day.",
+    blurb: "Federal holiday on 30 September: Truth and Reconciliation / Orange Shirt Day.",
   },
   {
     slug: "ca-thanksgiving",
@@ -476,7 +476,7 @@ export const CA_HOLIDAY_RULES: HolidayDef[] = [
     kind: "federal",
     sort: 10,
     rule: { t: "nth_weekday", n: 2, weekday: "monday", m: 10 },
-    blurb: "Canadian Thanksgiving — second Monday of October (weeks before US Thanksgiving).",
+    blurb: "Canadian Thanksgiving: second Monday of October (weeks before US Thanksgiving).",
   },
   {
     slug: "ca-remembrance-day",
@@ -500,7 +500,7 @@ export const CA_HOLIDAY_RULES: HolidayDef[] = [
     kind: "federal",
     sort: 13,
     rule: { t: "fixed", m: 12, d: 26 },
-    blurb: "26 December — statutory in several provinces and a major Canadian retail day.",
+    blurb: "26 December: statutory in several provinces and a major Canadian retail day.",
   },
   {
     slug: "ca-christmas-eve",

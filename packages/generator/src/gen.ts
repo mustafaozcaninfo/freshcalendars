@@ -41,6 +41,7 @@ import {
   resolveEntryYear,
   htaccessContent,
   renderNotFoundHtml,
+  splitVolatile,
   writeSitePage,
   writeSitemap,
 } from "./sitePages.js";
@@ -230,6 +231,8 @@ export async function generateAll(opts: GenOptions): Promise<{ metas: SeoMeta[] 
 
   const entries = collectEntries(years);
   const metas: SeoMeta[] = [];
+  const lastmodState = await readLastmodState();
+  const nextLastmod: LastmodState = {};
 
   for (const entry of entries) {
     const resolved = resolveEntryYear(entry, today, planningYear, monthYears);
@@ -237,13 +240,18 @@ export async function generateAll(opts: GenOptions): Promise<{ metas: SeoMeta[] 
     const errors = validateSeoMeta(meta);
     if (errors.length) throw new Error(`${meta.pageId}: ${errors.join(", ")}`);
 
+    const { html, contentHash } = splitVolatile(renderPageHtml(entry, meta, { today }));
+    // lastmod moves only when the page's own content changes, not on every daily bake.
+    const prev = lastmodState[meta.url];
+    if (prev?.hash === contentHash) meta.sitemap.lastmod = prev.lastmod;
+    nextLastmod[meta.url] = { hash: contentHash, lastmod: meta.sitemap.lastmod };
+
     await writeJson(path.join(DIST_META, `${meta.pageId}.json`), meta);
     if (!opts.skipOg) await writeOgForMeta(meta);
-
-    const html = renderPageHtml(entry, meta, { today });
     await writeSitePage(entryToRelPath(entry), html);
     metas.push(meta);
   }
+  await writeJson(LASTMOD_STATE, nextLastmod);
 
   await writeSitemap(metas);
 
@@ -337,6 +345,18 @@ export async function refreshEvergreen(today = new Date()): Promise<void> {
 }
 
 /** Daily HTML-only bake (Eastern date). Reuses PNG/PDF/OG. */
+/** Kept beside dist/site (which is wiped each build) so it survives daily bakes. */
+const LASTMOD_STATE = path.join(DIST, "sitemap-lastmod.json");
+type LastmodState = Record<string, { hash: string; lastmod: string }>;
+
+async function readLastmodState(): Promise<LastmodState> {
+  try {
+    return JSON.parse(await fs.readFile(LASTMOD_STATE, "utf8")) as LastmodState;
+  } catch {
+    return {};
+  }
+}
+
 export async function refreshMeta(now = new Date()): Promise<void> {
   const today = resolveBakeToday(now);
   const planningYear = resolvePlanningYear(today);

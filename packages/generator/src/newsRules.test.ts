@@ -5,6 +5,7 @@ import { chooseLayout, items, parseWhen } from "./newsPrintable.ts";
 import { licenseOk, openverseLicense } from "./newsPhoto.ts";
 import { finish, grainLayer } from "./fx.ts";
 import { samePdf } from "./printables.ts";
+import { splitVolatile } from "./sitePages.ts";
 import sharp from "sharp";
 
 const base = { slug: "t", group: "g", title: "Test Dates 2026", note: "Source: test" };
@@ -58,4 +59,13 @@ test("a PDF that differs only in its dates and ID counts as unchanged", () => {
   const b = Buffer.from("%PDF-1.4 /Title (X) /CreationDate (D:20261025111111+00'00') /ModDate (D:20261025111111+00'00') /ID [<EF56> <0099>] page");
   assert.ok(samePdf(a, b));
   assert.ok(!samePdf(a, Buffer.from(b.toString().replace("page", "page 2"))));
+});
+
+test("sitemap hash ignores volatile blocks and strips their markers", () => {
+  const a = splitVolatile("<main>A<!--fc:volatile-->Today: Oct 25<!--/fc:volatile-->B</main>");
+  const b = splitVolatile("<main>A<!--fc:volatile-->Today: Oct 26<!--/fc:volatile-->B</main>");
+  const c = splitVolatile("<main>A changed<!--fc:volatile-->Today: Oct 26<!--/fc:volatile-->B</main>");
+  assert.equal(a.contentHash, b.contentHash);
+  assert.notEqual(a.contentHash, c.contentHash);
+  assert.equal(a.html, "<main>AToday: Oct 25B</main>");
 });

@@ -1,4 +1,5 @@
 import fs from "node:fs/promises";
+import { createHash } from "node:crypto";
 import path from "node:path";
 import {
   MONTH_SLUGS,
@@ -353,7 +354,7 @@ ${metaTags(meta, { howTo: opts.howTo })}
 ${siteHeaderHtml(today, { news: NEWS_LAUNCHED })}
 <main id="main">
 ${body}
-${newsStripHtml(new URL(meta.canonical).pathname)}
+${volatile(newsStripHtml(new URL(meta.canonical).pathname))}
 </main>
 ${siteFooterHtml(today, { news: NEWS_LAUNCHED })}
 <div id="lightbox" class="lightbox" aria-hidden="true" role="dialog" aria-label="Enlarged calendar preview">
@@ -446,7 +447,7 @@ function sidebar(opts: {
     : "";
   return `
 <aside class="sidebar" aria-label="Calendar navigation">
-  ${todaySidebarCard(opts.today)}
+  ${volatile(todaySidebarCard(opts.today))}
   <div class="side-card">
     <h2>${esc(opts.title ?? "Browse months")}</h2>
     <div class="month-chips">${monthChips(opts.currentSlug)}</div>
@@ -477,7 +478,7 @@ function sidebar(opts: {
   </div>
   ${
     dl
-      ? `<div class="side-card"><h3>Download</h3><p>Print-ready PNG and PDF — ready the moment you click.</p>${dl}</div>`
+      ? `<div class="side-card"><h3>Download</h3><p>Print-ready PNG and PDF files, ready the moment you click.</p>${dl}</div>`
       : ""
   }
   ${opts.extra ? `<div class="side-card">${opts.extra}</div>` : ""}
@@ -579,10 +580,31 @@ function faqSection(meta: SeoMeta): string {
 </section>`;
 }
 
+const VOLATILE_OPEN = "<!--fc:volatile-->";
+const VOLATILE_CLOSE = "<!--/fc:volatile-->";
+
+/**
+ * Marks HTML that changes without the page's own content changing (the
+ * "Today" card, news links), so sitemap lastmod can ignore it.
+ */
+function volatile(html: string): string {
+  return html ? `${VOLATILE_OPEN}${html}${VOLATILE_CLOSE}` : "";
+}
+
+/** Published HTML (markers removed) plus a hash of everything outside the volatile blocks. */
+export function splitVolatile(html: string): { html: string; contentHash: string } {
+  const stable = html.split(VOLATILE_OPEN).map((part, i) => (i === 0 ? part : part.split(VOLATILE_CLOSE)[1] ?? "")).join("");
+  return {
+    html: html.split(VOLATILE_OPEN).join("").split(VOLATILE_CLOSE).join(""),
+    contentHash: createHash("sha256").update(stable).digest("hex").slice(0, 16),
+  };
+}
+
 export async function writeSitePage(filePath: string, html: string): Promise<void> {
   const full = path.join(DIST_SITE, filePath.replace(/^\//, ""));
   await fs.mkdir(path.dirname(full), { recursive: true });
-  await fs.writeFile(full, html, "utf8");
+  // Any page rendered with volatile markers (404, extras) ships without them.
+  await fs.writeFile(full, html.includes(VOLATILE_OPEN) ? splitVolatile(html).html : html, "utf8");
 }
 
 function renderHome(meta: SeoMeta, today: Date): string {
@@ -1351,6 +1373,20 @@ ${faqSection(meta)}`;
       ? ed.overview(h).map((p) => `<p>${esc(p)}</p>`).join("\n  ")
       : `<p>${esc(h.name)} ${y} falls on <strong>${esc(h.formatted)}</strong>. ${esc(h.blurb)}</p>`;
     const howCalc = ed ? ed.howCalculated(h) : ruleHowCalculated(def, h);
+    // Same rule, next five years: answers "when is X 2028" without a page per year.
+    const upcoming = [y, y + 1, y + 2, y + 3, y + 4].map((yy) => resolveHoliday(def, yy));
+    const datesTable = `<h3>${esc(h.name)} dates, ${y} to ${y + 4}</h3>
+  <table class="dates-table">
+    <thead><tr><th scope="col">Year</th><th scope="col">Date</th><th scope="col">Day of the week</th></tr></thead>
+    <tbody>
+      ${upcoming
+        .map((u) => {
+          const date = u.date.toLocaleDateString("en-US", { month: "long", day: "numeric" });
+          return `<tr><td>${u.year}</td><td>${esc(date)}</td><td>${esc(u.weekdayName)}</td></tr>`;
+        })
+        .join("\n      ")}
+    </tbody>
+  </table>`;
     const meaning = ed
       ? `<h3>${esc(ed.meaningTitle)}</h3>
   ${ed.meaning(h).map((p) => `<p>${esc(p)}</p>`).join("\n  ")}`
@@ -1412,6 +1448,7 @@ ${adBand(ADS.inArticle, "FreshCalendars_WhenIs_Top")}`;
   <h2>${esc(h.name)} ${y}</h2>
   ${overview}
   <p>This page always shows the next ${esc(h.name)}: once ${esc(h.formatted)} has passed, it switches to the ${y + 1} date.</p>
+  ${datesTable}
   <h3>How the date is calculated</h3>
   <p>${esc(howCalc)}</p>
   <p>The same holiday engine powers our <a href="${hub}">${hubLabel} list</a>${locale === "us" ? " and US Holidays Marked monthly templates" : ""}.</p>
@@ -1424,7 +1461,7 @@ ${adBand(ADS.inArticle, "FreshCalendars_WhenIs_Top")}`;
     ${tips.map((t) => `<li>${esc(t)}</li>`).join("\n    ")}
     <li>Use the <a href="/printable-weekly-calendar.html">weekly planner pack</a> for the days around ${esc(h.formatted)}.</li>
   </ul>
-  ${latestNewsHtml(slug)}${adUnit(ADS.holiday, "FreshCalendars_New_Holidays", "banner")}
+  ${volatile(latestNewsHtml(slug))}${adUnit(ADS.holiday, "FreshCalendars_New_Holidays", "banner")}
   <h3>Nearby holidays</h3>
   <div class="side-links" style="grid-template-columns:repeat(auto-fill,minmax(12rem,1fr));display:grid;gap:.5rem">${related}</div>
 </section>
