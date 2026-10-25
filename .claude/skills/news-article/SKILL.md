@@ -52,7 +52,6 @@ publishedAt: "2026-10-21T09:30:00-04:00"   # now or earlier, America/New_York
 authors: [news-desk]
 category: holidays    # holidays | elections | calendar-guides | planning | puzzles | retail-dates | school-calendars | sky-events | time-change | uk-canada
 keywords: ["<main query>", "<variant>", "<variant>"]   # 1-5
-dateline: "New York"
 hero:
   src: ../../../../assets/news/<slug>/<slug>.jpg
   alt: "<describes the image and contains the main keyword>"

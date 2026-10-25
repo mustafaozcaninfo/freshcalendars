@@ -2,7 +2,7 @@
 title: "About Fresh Calendars News"
 description: "Fresh Calendars News reports the dates people plan around: holidays, clock changes, government deadlines, elections, religious calendars and retail dates."
 schemaType: AboutPage
-updatedAt: "2026-10-19T10:30:00-04:00"
+updatedAt: "2026-10-25T05:05:00-04:00"
 ---
 
 Fresh Calendars News is the news section of [Fresh Calendars](/), a free printable calendar site for the United States, the United Kingdom and Canada.
@@ -17,7 +17,7 @@ We do not publish general news, opinion columns or sponsored stories. Rumors and
 
 ## Who publishes Fresh Calendars News
 
-Fresh Calendars News is published by Fresh Calendars, the independent website at freshcalendars.com. It is not part of a larger media network, and no outside company or advertiser owns or directs it.
+Fresh Calendars News is published by Fresh Calendars, Inc., 295 NW Lost Springs Terrace, Portland, OR 97229, United States, the company behind freshcalendars.com. It is not part of a larger media network, and no outside company or advertiser owns or directs it.
 
 ## Who writes the news
 
