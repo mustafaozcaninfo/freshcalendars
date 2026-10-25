@@ -40,7 +40,7 @@ Do not run Lighthouse (`news:lighthouse`, `smoke:lighthouse`). The goal is fast,
 - **No FAQPage, QAPage or Review schema.** FAQs render as visible `<details>` only (the build handles this).
 - Expand every abbreviation on first use, including in `description` (it is the lede): "Eastern Time (ET)". The audit needs the literal `Full Name (ABBR)`.
 - Banned words and patterns are listed in `scripts/news-seo-audit.mjs` (BANNED_EN, em dashes, "not X but Y", "in conclusion"). Write plainly, vary sentence length.
-- No superlatives you cannot source ("biggest ever"), no invented people or quotes. Byline is `news-desk` unless the editor adds a named author.
+- No superlatives you cannot source ("biggest ever"), no invented people or quotes. Byline is `news-desk` unless one of the editors (`alex-morgan`: holidays and policy; `emily-carter`: school calendars and education; `jordan-bennett`: time, seasonal events and data) actually edited the story. Never put an editor's name on a story they did not edit, and never add them to stories published before they edited them.
 - Every story links at least two calendar pages (`internalLinks`) and up to three related /news/ stories (`related`).
 - **Every story adds something the top results lack**: a computed table from the official source, a printable built from the story's facts, a fact others missed. A story that only restates one official page is not written (`news-seo`).
 - **Every story gets its own hero.** Default: a licensed photo of the real subject with `assets.overlay: true`; otherwise an illustrated scene no story has used (`pnpm fc news-heroes`). `news-assets` refuses a repeated scene or picture and the audit's `12-HERO-UNIQUE` fails the build (`news-visuals`).
