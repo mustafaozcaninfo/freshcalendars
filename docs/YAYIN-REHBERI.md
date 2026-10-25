@@ -1,18 +1,15 @@
 # /news/ yayın rehberi (site sahibi için)
 
-## Otomatik yayın (2026-10-24'ten beri)
+## Otomatik yayın (sunucuda, 2026-10-25'ten beri)
 
-Mac'inde bir launchd görevi 5 dakikada bir `main`'e bakar. `main`'e yeni bir commit gelmiş ve GitHub CI o commit'te yeşil bitmişse, o commit'i `~/.freshcalendars-publish` adlı ayrı bir clone'dan (macOS arka plan görevlerinin `~/Documents`'a erişmesine izin vermiyor) `pnpm news:deploy` ile yayınlar. Sadece yazı, görsel veya PDF değiştiyse hızlı modu (`NEWS_CONTENT_ONLY=1`), kod da değiştiyse tam senkronu kullanır. Gelecek tarihli `publishedAt` taşıyan yazılar, saati geldikten sonraki ilk kontrolde yayına çıkar. Kırmızı CI asla yayınlanmaz; düzelten yeni commit yeşil olunca yayın devam eder. Her yayında ve her hatada macOS bildirimi gelir.
+VPS'te her 2 dakikada bir cron çalışır (`scripts/server-autopublish.sh`). `main`'e yeni bir commit gelmiş ve GitHub CI o commit'te yeşil bitmişse, commit'i sunucudaki ayrı clone'dan (`/home/yuzdehesaplama/private/freshcalendars-src`) uygulama dizinine kopyalar ve yayın işini (`news-publish`, kilitli) çalıştırır. Sadece yazı, görsel veya PDF değiştiyse hızlı modu, kod da değiştiyse tam senkronu kullanır; `pnpm-lock.yaml` değiştiyse paketleri kurar. Gelecek tarihli `publishedAt` taşıyan yazılar saati geldikten sonraki ilk çalışmada çıkar. Kırmızı CI asla yayınlanmaz. Yayın hatasında `CRON_NOTIFY_TO` adresine e-posta gider. Mac'in açık olması gerekmez.
 
-- Kurmak (bir kez, merge'den sonra): `bash scripts/install-autopublish.sh`. `.env` clone'a kopyalanır; `.env`'i değiştirirsen bu komutu tekrar çalıştır.
-- Kapatmak: `bash scripts/install-autopublish.sh --remove`
-- Kayıt: `~/Library/Logs/freshcalendars-autopublish.log`, son deploy çıktısı: `~/Library/Logs/freshcalendars-deploy-last.log`
-- Durum dosyaları: `~/Library/Application Support/FreshCalendars/autopublish/` (`last-sha`: son yayınlanan commit)
-- Mac uykudaysa yayın bekler; uyandığında ilk kontrolde yapılır.
+- GitHub erişimi: `/root/.config/freshcalendars/github-token` (yalnızca bu depo için, Contents ve Actions salt okunur fine-grained token, izin 600). Süresi dolunca yenisini aynı dosyaya koy: `ssh root@2.25.147.42 'umask 077 && cat > /root/.config/freshcalendars/github-token'`
+- Kayıt: `/var/log/freshcalendars-autopublish.log`; durum: `/var/lib/freshcalendars-autopublish/` (`last-sha`: son yayınlanan commit)
+- Kapatmak: sunucuda `bash /home/yuzdehesaplama/private/freshcalendars-app/scripts/install-server-autopublish.sh --remove`; tekrar açmak: aynı komut `--remove` olmadan.
+- Mac'teki eski görev (`scripts/install-autopublish.sh`) 2026-10-25'te kaldırıldı; sunucu kapalıyken yedek olarak tekrar kurulabilir.
 
-Elle yayın (aşağıdaki adımlar) hâlâ çalışır; sunucudaki yayın kilidi (`flock`) iki yayını aynı anda çalıştırmaz, ama elle yaptığında `last-sha` güncellenmez, sonraki kontrol aynı commit'i bir kez daha yayınlar (değişiklik yoksa `changed=0` ile biter).
-
-Editörler yazıyı yazar, kontrolleri geçirir ve `main`'e push eder. Yayını sadece sen yaparsın; sunucu ve Cloudflare anahtarları (`.env`, SSH anahtarı) yalnızca senin Mac'inde.
+Elle yayın (aşağıdaki adımlar) hâlâ çalışır; sunucudaki yayın kilidi (`flock`) iki yayını aynı anda çalıştırmaz.
 
 ## Her yeni yazıda (3 adım)
 

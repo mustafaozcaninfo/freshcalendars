@@ -15,7 +15,7 @@ Writers (editors) produce /news/ stories from their own Claude sessions and have
 2. Write the story with the `news-article` skill (`.claude/skills/news-article/SKILL.md`), in a fresh session per story. It has the full checklist, including the source and PDF rules, and hands research to the `news-researcher` agent (Haiku) and writing to the `news-writer` agent (Sonnet) to keep token use low. Two companion skills decide what makes the story win: `news-seo` (the query, the angle, the page structure; the playbook `SEO-HARITASI-TAM.md` turned into decisions) and `news-visuals` (a hero no other story has, and the printable).
 3. Run the checks below locally. All must pass, with no warnings left unexplained.
 4. Commit only the files of your story (and any shared file you deliberately changed) with a clear message, then push straight to `main`. CI repeats the checks on every push; if it fails, fix it with a new commit right away.
-5. **Publishing is automatic.** When CI passes on `main`, the owner's Mac deploys that commit within about five minutes (`scripts/news-autopublish.sh`; content-only when only stories, images or printables changed). A story with a future `publishedAt` goes live on the first check after that time. A red CI run is never published, so a failing push stays off the site until a new commit fixes it. **Never run `pnpm news:deploy` or `pnpm fc deploy` yourself, never force-push or rewrite `main`'s history, and never ask for `.env`.** Deploys need server and Cloudflare credentials that only the owner holds.
+5. **Publishing is automatic.** When CI passes on `main`, the server publishes that commit within about two minutes (`scripts/server-autopublish.sh`, cron on the VPS; content-only when only stories, images or printables changed). A story with a future `publishedAt` goes live on the first check after that time. A red CI run is never published, so a failing push stays off the site until a new commit fixes it. **Never run `pnpm news:deploy` or `pnpm fc deploy` yourself, never force-push or rewrite `main`'s history, and never ask for `.env`.** Deploys need server and Cloudflare credentials that only the owner holds.
 
 A branch and pull request are still welcome for large or risky changes (shared components, scripts, `site-chrome`); stories can go straight to `main`.
 
@@ -54,7 +54,7 @@ Do not run Lighthouse (`news:lighthouse`, `smoke:lighthouse`). The goal is fast,
 | `title` | 20 to 110 characters, equals the H1 |
 | `seoTitle` | 20 to 60 characters |
 | `description` | 120 to 160 characters |
-| `publishedAt` / `updatedAt` | ISO with offset, America/New_York (`2026-10-21T09:30:00-04:00`). The build fails on a future `updatedAt` or correction date; a future `publishedAt` schedules the story, and auto-publish puts it live within about five minutes of that time |
+| `publishedAt` / `updatedAt` | ISO with offset, America/New_York (`2026-10-21T09:30:00-04:00`). The build fails on a future `updatedAt` or correction date; a future `publishedAt` schedules the story, and auto-publish puts it live within about two minutes of that time |
 | `keywords` | 1 to 5 |
 | `summary` | 2 to 4 bullets |
 | `type` | `news`, `explainer`, `analysis` or `update` (`news` and `update` need sources) |
