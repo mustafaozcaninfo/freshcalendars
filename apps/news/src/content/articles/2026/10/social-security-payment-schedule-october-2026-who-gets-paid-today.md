@@ -5,7 +5,7 @@ description: "The Supplemental Security Income (SSI) payment on Friday, Oct. 30,
 type: news
 publishedAt: "2026-10-21T09:20:00-04:00"
 updatedAt: "2026-10-24T00:55:00-04:00"
-authors: [news-desk]
+authors: [alex-morgan]
 category: planning
 keywords: ["Social Security payment schedule October 2026", "Social Security payment today", "when is my Social Security check", "Social Security November 2026 payment dates", "SSI payment dates 2026"]
 dateline: "New York"

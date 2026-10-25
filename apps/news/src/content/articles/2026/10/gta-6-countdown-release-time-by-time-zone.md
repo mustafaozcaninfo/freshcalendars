@@ -4,7 +4,7 @@ seoTitle: "GTA 6 Countdown: Release Time by Time Zone"
 description: "Live Grand Theft Auto (GTA) VI countdown to Nov. 19, 2026, with the PlayStation Store release time in Eastern Time (ET), Pacific Time (PT), the UK and India."
 type: explainer
 publishedAt: "2026-10-23T03:05:00-04:00"
-authors: [news-desk]
+authors: [jordan-bennett]
 category: retail-dates
 keywords: ["GTA 6 countdown", "GTA 6 release time", "GTA 6 release date and time EST", "GTA 6 countdown days", "GTA 6 countdown printable"]
 dateline: "New York"

@@ -5,7 +5,7 @@ description: "Britain and the EU end summer time on Sunday, Oct. 25, 2026; the U
 type: news
 publishedAt: "2026-10-18T04:20:00-04:00"
 updatedAt: "2026-10-25T00:55:00-04:00"
-authors: [news-desk]
+authors: [jordan-bennett]
 category: uk-canada
 keywords: ["clocks go back 2026", "UK clocks change October 25 2026", "time difference London New York", "Europe daylight saving time ends 2026", "British Summer Time ends"]
 dateline: "New York"

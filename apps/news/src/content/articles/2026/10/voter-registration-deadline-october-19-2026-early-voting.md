@@ -5,7 +5,7 @@ description: "The Oct. 19 voter registration deadline has passed in California, 
 type: news
 publishedAt: "2026-10-18T08:30:00-04:00"
 updatedAt: "2026-10-24T01:40:00-04:00"
-authors: [news-desk]
+authors: [alex-morgan]
 category: elections
 keywords: ["voter registration deadline October 19 2026", "register to vote Pennsylvania deadline", "California voter registration deadline 2026", "Texas early voting 2026", "Election Day November 3 2026"]
 dateline: "New York"

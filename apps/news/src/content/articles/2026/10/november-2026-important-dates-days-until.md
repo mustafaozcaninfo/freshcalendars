@@ -5,7 +5,7 @@ description: "Holidays in November 2026: Election Day Nov. 3, Veterans Day Nov. 
 type: explainer
 publishedAt: "2026-10-19T08:00:00-04:00"
 updatedAt: "2026-10-22T01:50:00-04:00"
-authors: [news-desk]
+authors: [jordan-bennett]
 category: planning
 keywords: ["November 2026 calendar with holidays", "November 2026 holidays", "November 2026 important dates", "Thanksgiving 2026 calendar", "days until Thanksgiving 2026"]
 dateline: "New York"

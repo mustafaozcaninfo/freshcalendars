@@ -5,7 +5,7 @@ description: "Black Friday 2026 deals land Friday, Nov. 27. See a live countdown
 type: news
 publishedAt: "2026-10-23T15:05:00-04:00"
 updatedAt: "2026-10-24T00:50:00-04:00"
-authors: [news-desk]
+authors: [jordan-bennett]
 category: retail-dates
 keywords: ["black friday 2026 deals", "how many days until black friday 2026", "what date is black friday 2026", "Walmart Black Friday ad 2026", "Target Black Friday 2026"]
 dateline: "New York"

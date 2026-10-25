@@ -4,7 +4,7 @@ seoTitle: "Canada Statutory Holidays 2027: Federal List"
 description: "Canada's 10 federal general holidays in 2027, from New Year's Day on Friday, Jan. 1 to Boxing Day on Sunday, Dec. 26, with weekend rules explained."
 type: explainer
 publishedAt: "2026-10-19T11:08:00-04:00"
-authors: [news-desk]
+authors: [alex-morgan]
 category: uk-canada
 keywords: ["Canada statutory holidays 2027", "Canada holidays 2027", "stat holidays 2027", "federal statutory holidays 2027 Canada", "Canada Day 2027"]
 dateline: "Ottawa"

@@ -4,7 +4,7 @@ seoTitle: "Hallmark Christmas Movies 2026 Schedule: All 34 Dates"
 description: "The Hallmark Channel Countdown to Christmas 2026 runs Friday, Oct. 16 to Sunday, Dec. 20, with 34 new movies at 8 p.m. Eastern Time (ET). See the full schedule."
 type: news
 publishedAt: "2026-10-24T00:45:00-04:00"
-authors: [news-desk]
+authors: [alex-morgan]
 category: holidays
 keywords: ["Hallmark Christmas movies 2026 schedule", "Countdown to Christmas 2026 schedule", "printable Hallmark Christmas movie checklist 2026", "new Hallmark movie tonight"]
 dateline: "New York"

@@ -5,7 +5,7 @@ description: "Federal holidays 2027 observed dates: 11 holidays, with Juneteenth
 type: explainer
 publishedAt: "2026-10-19T11:00:00-04:00"
 updatedAt: "2026-10-24T00:50:00-04:00"
-authors: [news-desk]
+authors: [alex-morgan]
 category: holidays
 keywords: ["federal holidays 2027 observed dates", "federal holidays 2027", "2027 federal holiday calendar", "holidays 2027", "federal holidays 2027 observed"]
 dateline: "Washington"

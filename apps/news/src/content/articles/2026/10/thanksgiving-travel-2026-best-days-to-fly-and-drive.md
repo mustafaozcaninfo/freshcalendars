@@ -4,7 +4,7 @@ seoTitle: "Thanksgiving Travel 2026: Best Days to Fly and Drive"
 description: "Thanksgiving is Thursday, Nov. 26, 2026. The American Automobile Association (AAA) 2026 forecast is not out yet, so here are the 2026 dates and 2025 patterns."
 type: explainer
 publishedAt: "2026-10-24T13:15:00-04:00"
-authors: [news-desk]
+authors: [jordan-bennett]
 category: planning
 keywords: ["Thanksgiving travel 2026", "best days to travel for Thanksgiving 2026", "busiest travel days Thanksgiving", "Thanksgiving driving times", "REAL ID Thanksgiving"]
 dateline: "New York"

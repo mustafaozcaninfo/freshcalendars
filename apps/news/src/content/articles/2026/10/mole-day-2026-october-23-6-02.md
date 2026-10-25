@@ -5,7 +5,7 @@ description: "Mole Day 2026 is Friday, Oct. 23, from 6:02 a.m. to 6:02 p.m., for
 type: explainer
 publishedAt: "2026-10-21T13:06:00-04:00"
 updatedAt: "2026-10-24T01:40:00-04:00"
-authors: [news-desk]
+authors: [alex-morgan]
 category: holidays
 keywords: ["Mole Day 2026", "when is Mole Day", "Mole Day October 23", "Avogadro's number", "Mole Day activities"]
 dateline: "New York"

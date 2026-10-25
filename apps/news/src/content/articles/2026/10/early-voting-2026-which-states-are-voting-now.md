@@ -5,7 +5,7 @@ description: "Early in-person voting is open in many states, and Michigan and Ne
 type: news
 publishedAt: "2026-10-22T01:36:00-04:00"
 updatedAt: "2026-10-24T01:40:00-04:00"
-authors: [news-desk]
+authors: [alex-morgan]
 category: elections
 keywords: ["early voting 2026", "which states have early voting", "early voting dates by state", "early voting now"]
 dateline: "New York"

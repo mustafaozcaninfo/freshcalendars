@@ -4,7 +4,7 @@ seoTitle: "October 22: This Day in History and 2026 Calendar"
 description: "Oct. 22, 2026 is a Thursday, day 295 of the year. On this day: Sam Houston took office in 1836, Kennedy spoke on Cuba in 1962 and the first xerox copy was made."
 type: explainer
 publishedAt: "2026-10-21T13:05:00-04:00"
-authors: [news-desk]
+authors: [alex-morgan]
 category: holidays
 keywords: ["this day in history October 22", "October 22 2026", "what happened on October 22", "October 22 holidays", "what day is October 22 2026"]
 dateline: "New York"

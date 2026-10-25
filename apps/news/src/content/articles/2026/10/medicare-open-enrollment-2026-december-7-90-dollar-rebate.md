@@ -5,7 +5,7 @@ description: "Medicare open enrollment for 2027 coverage ends Monday, Dec. 7, 20
 type: news
 publishedAt: "2026-10-18T08:40:00-04:00"
 updatedAt: "2026-10-24T00:50:00-04:00"
-authors: [news-desk]
+authors: [alex-morgan]
 category: planning
 keywords: ["medicare open enrollment 2026 deadline", "Medicare open enrollment 2026", "Medicare deadline December 7", "$90 Medicare rebate", "Part D out-of-pocket cap 2027"]
 dateline: "New York"

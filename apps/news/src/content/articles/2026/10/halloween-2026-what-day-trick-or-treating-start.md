@@ -4,7 +4,7 @@ seoTitle: "Halloween 2026 Date and Trick-or-Treat Start Times"
 description: "Halloween 2026 is Saturday, Oct. 31. Trick-or-treat hours are set town by town; four published schedules start between 5 p.m. and 6 p.m. and end by 8 p.m."
 type: news
 publishedAt: "2026-10-22T01:31:00-04:00"
-authors: [news-desk]
+authors: [alex-morgan]
 category: holidays
 keywords: ["what day is Halloween 2026", "what time does trick-or-treating start 2026", "trick-or-treat hours 2026", "Halloween 2026 Saturday"]
 dateline: "New York"

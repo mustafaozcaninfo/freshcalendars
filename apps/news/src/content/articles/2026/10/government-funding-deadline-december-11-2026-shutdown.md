@@ -4,7 +4,7 @@ seoTitle: "Government Shutdown Deadline Dec. 11, 2026: Key Dates"
 description: "A stopgap law signed Sept. 2 funds federal agencies through Friday, Dec. 11, 2026. What the deadline means and the calendar Congress faces after Nov. 3."
 type: news
 publishedAt: "2026-10-18T08:50:00-04:00"
-authors: [news-desk]
+authors: [alex-morgan]
 category: planning
 keywords: ["government shutdown deadline 2026", "December 11 2026 shutdown", "continuing resolution 2027", "H.R. 6500", "lame duck session 2026"]
 dateline: "New York"

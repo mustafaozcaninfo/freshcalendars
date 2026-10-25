@@ -4,7 +4,7 @@ seoTitle: "Bonfire Night 2026: Nov. 5 Fireworks Rules and Cut-Off"
 description: "Bonfire Night is Thursday, Nov. 5, 2026, and GOV.UK says fireworks may be set off until midnight; on other nights the cut-off is 11 p.m."
 type: explainer
 publishedAt: "2026-10-24T17:00:00-04:00"
-authors: [news-desk]
+authors: [alex-morgan]
 category: uk-canada
 keywords: ["Bonfire Night 2026", "Guy Fawkes Night 2026", "fireworks rules UK 2026"]
 dateline: "London"

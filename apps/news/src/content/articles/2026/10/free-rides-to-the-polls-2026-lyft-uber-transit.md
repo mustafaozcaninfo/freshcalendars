@@ -5,7 +5,7 @@ description: "Lyft's VOTE26 code takes 50% off, up to $10, one ride to the polls
 type: news
 publishedAt: "2026-10-21T13:18:00-04:00"
 updatedAt: "2026-10-21T14:33:00-04:00"
-authors: [news-desk]
+authors: [alex-morgan]
 category: elections
 keywords: ["free rides to the polls 2026", "Uber free rides to vote 2026", "Lyft VOTE26", "free bus rides Election Day 2026", "rides to the polls"]
 dateline: "New York"

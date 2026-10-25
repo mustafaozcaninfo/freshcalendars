@@ -4,7 +4,7 @@ seoTitle: "National Parks Free Days 2026: Oct. 27 and Nov. 11"
 description: "The next National Park Service (NPS) free entrance day is Tuesday, Oct. 27, 2026, then Veterans Day, Wednesday, Nov. 11, the last fee-free day of the year."
 type: news
 publishedAt: "2026-10-24T13:10:00-04:00"
-authors: [news-desk]
+authors: [alex-morgan]
 category: holidays
 keywords: ["national parks free days 2026", "national parks free Veterans Day 2026", "free national park day October 27 2026", "fee-free days 2026 public lands", "national parks free for nonresidents"]
 dateline: "New York"

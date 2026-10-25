@@ -5,7 +5,7 @@ description: "Veterans Day 2026 falls on Wednesday, Nov. 11. Federal offices, ba
 type: update
 publishedAt: "2026-10-17T17:00:00-04:00"
 updatedAt: "2026-10-18T04:30:00-04:00"
-authors: [news-desk]
+authors: [alex-morgan]
 category: holidays
 keywords: ["Veterans Day 2026", "is the stock market open on Veterans Day", "is there mail on Veterans Day", "banks closed Veterans Day 2026", "November 11 2026"]
 dateline: "New York"

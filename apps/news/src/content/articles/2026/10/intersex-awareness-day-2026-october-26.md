@@ -4,7 +4,7 @@ seoTitle: "Intersex Awareness Day 2026, Oct. 26: Origin and Dates"
 description: "Intersex Awareness Day is observed Oct. 26, a Monday in 2026. It marks a 1996 demonstration in Boston; Intersex Day of Solidarity follows on Sunday, Nov. 8."
 type: explainer
 publishedAt: "2026-10-23T02:50:00-04:00"
-authors: [news-desk]
+authors: [alex-morgan]
 category: holidays
 keywords: ["Intersex Awareness Day 2026", "Intersex Awareness Day October 26", "Intersex Day of Solidarity"]
 dateline: "New York"

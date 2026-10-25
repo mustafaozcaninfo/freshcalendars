@@ -5,7 +5,7 @@ description: "Winter break 2026 in 21 big school districts: most are off Dec. 21
 type: news
 publishedAt: "2026-10-20T01:35:00-04:00"
 updatedAt: "2026-10-22T13:03:00-04:00"
-authors: [news-desk]
+authors: [emily-carter]
 category: school-calendars
 keywords: ["winter break 2026", "christmas break 2026 schools", "when is winter break 2026", "school winter break dates 2026-27", "when do schools go back after winter break 2027"]
 dateline: "New York"

@@ -4,7 +4,7 @@ seoTitle: "Ramadan 2027 Date: Starts Feb. 8, Eid March 9, Timetable"
 description: "When is Ramadan 2027? It is expected to start Monday, Feb. 8 and end with Eid al-Fitr on Tuesday, March 9. Day-by-day dates, iftar times and printables."
 type: explainer
 publishedAt: "2026-10-18T11:30:00-04:00"
-authors: [news-desk]
+authors: [jordan-bennett]
 category: planning
 keywords: ["Ramadan 2027", "Ramadan calendar 2027", "when is Ramadan 2027", "Eid al-Fitr 2027", "Ramadan timetable 2027"]
 dateline: "New York"

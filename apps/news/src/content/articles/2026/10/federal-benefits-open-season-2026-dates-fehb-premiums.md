@@ -4,7 +4,7 @@ seoTitle: "Federal Open Season 2026: Nov. 9 to Dec. 14 Dates"
 description: "The Office of Personnel Management (OPM) set federal open season for Nov. 9 to Dec. 14, 2026. See 2027 health premium changes, deadlines and start dates."
 type: news
 publishedAt: "2026-10-24T16:48:00-04:00"
-authors: [news-desk]
+authors: [alex-morgan]
 category: planning
 keywords: ["open season 2026 federal employees", "FEHB open season 2026 dates", "2027 FEHB premiums", "federal benefits open season 2026", "FSAFEDS 2027 reenroll"]
 dateline: "Washington"

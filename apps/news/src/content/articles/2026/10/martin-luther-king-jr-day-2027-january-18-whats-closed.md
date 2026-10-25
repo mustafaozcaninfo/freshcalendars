@@ -4,7 +4,7 @@ seoTitle: "MLK Day 2027: Monday, Jan. 18, What's Closed"
 description: "Martin Luther King Jr. (MLK) Day 2027 is Monday, Jan. 18, per the Office of Personnel Management (OPM). Stock markets close; dates run through 2030."
 type: news
 publishedAt: "2026-10-25T01:30:00-04:00"
-authors: [news-desk]
+authors: [alex-morgan]
 category: holidays
 keywords: ["MLK Day 2027", "Martin Luther King Jr. Day 2027 date", "is MLK Day a federal holiday", "what's closed on MLK Day 2027"]
 dateline: "Atlanta"

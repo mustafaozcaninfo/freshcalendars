@@ -4,7 +4,7 @@ seoTitle: "Arizona Propositions 2026: All 8 Explained"
 description: "Arizona's Nov. 3, 2026 ballot has eight propositions, all referred by the Legislature, plus governor and judicial retention. What each does, and key dates."
 type: explainer
 publishedAt: "2026-10-20T11:30:00-04:00"
-authors: [news-desk]
+authors: [alex-morgan]
 category: elections
 keywords: ["Arizona propositions 2026", "Arizona ballot November 2026", "Prop 144 Arizona", "Arizona early voting 2026", "Arizona voter guide 2026"]
 dateline: "Phoenix"

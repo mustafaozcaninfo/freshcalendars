@@ -4,7 +4,7 @@ seoTitle: "New Jersey Sample Ballot 2026: Senate and Early Voting"
 description: "New Jersey sample ballots for Nov. 3, 2026 come from your county clerk. The four U.S. Senate candidates, early voting Oct. 24-Nov. 1 and mail ballot rules."
 type: news
 publishedAt: "2026-10-22T14:13:00-04:00"
-authors: [news-desk]
+authors: [alex-morgan]
 category: elections
 keywords: ["New Jersey sample ballot 2026", "NJ Senate race 2026", "New Jersey early voting 2026", "sample ballot by zip code NJ", "New Jersey vote by mail 2026"]
 dateline: "Trenton, N.J."

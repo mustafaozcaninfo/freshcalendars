@@ -4,7 +4,7 @@ seoTitle: "NC Sample Ballot 2026: Senate, Courts and 3 Amendments"
 description: "Find your North Carolina sample ballot for Nov. 3, 2026 with Voter Search, plus the U.S. Senate and court candidates, three amendments and early voting dates."
 type: news
 publishedAt: "2026-10-22T14:13:00-04:00"
-authors: [news-desk]
+authors: [alex-morgan]
 category: elections
 keywords: ["North Carolina sample ballot 2026", "NC constitutional amendments 2026", "North Carolina Senate race 2026", "NC early voting 2026", "sample ballot by zip code North Carolina"]
 dateline: "Raleigh, N.C."

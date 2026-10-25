@@ -4,7 +4,7 @@ seoTitle: "Election Night 2026 TV Schedule and Where to Stream"
 description: "NBC starts election night coverage at 5 p.m. Eastern Time (ET) on Nov. 3, 2026, and Fox News at 6 p.m. Anchors, free streams and poll closings by hour."
 type: news
 publishedAt: "2026-10-24T16:00:00-04:00"
-authors: [news-desk]
+authors: [alex-morgan]
 category: elections
 keywords: ["election night 2026 TV schedule", "how to watch election results 2026", "election night coverage 2026", "where to stream election results", "midterm election coverage start time"]
 dateline: "New York"

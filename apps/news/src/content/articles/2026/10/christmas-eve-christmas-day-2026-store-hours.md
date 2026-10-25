@@ -4,7 +4,7 @@ seoTitle: "Christmas Eve and Christmas Day 2026 Store Hours"
 description: "Store hours for Christmas Eve, Thursday, Dec. 24, 2026, and what is open on Christmas Day: stores, pharmacies, banks, mail and markets, plus a printable."
 type: update
 publishedAt: "2026-10-21T00:32:00-04:00"
-authors: [news-desk]
+authors: [jordan-bennett]
 category: retail-dates
 keywords: ["Christmas Eve store hours 2026", "what's open on Christmas Day 2026", "Walmart Christmas Eve hours", "stores open Christmas Day", "is the post office open Christmas Eve"]
 dateline: "New York"

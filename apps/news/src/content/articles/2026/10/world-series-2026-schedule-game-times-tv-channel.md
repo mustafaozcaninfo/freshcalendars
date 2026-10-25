@@ -5,7 +5,7 @@ description: "The Brewers lead the 2026 World Series 2-0 after a 5-4 Game 2 win 
 type: news
 publishedAt: "2026-10-21T05:45:00-04:00"
 updatedAt: "2026-10-24T23:50:00-04:00"
-authors: [news-desk]
+authors: [jordan-bennett]
 category: planning
 keywords: ["World Series 2026 schedule", "World Series game times", "what channel is the World Series on", "Brewers vs Rays World Series", "World Series Game 1 time"]
 dateline: "New York"

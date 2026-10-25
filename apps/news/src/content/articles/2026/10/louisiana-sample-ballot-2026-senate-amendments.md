@@ -4,7 +4,7 @@ seoTitle: "Louisiana Sample Ballot 2026: Senate and 10 Amendments"
 description: "Find your Louisiana sample ballot for Nov. 3, 2026 by name or address, with the U.S. Senate candidates, 10 constitutional amendments, House primaries and dates."
 type: news
 publishedAt: "2026-10-22T14:13:00-04:00"
-authors: [news-desk]
+authors: [alex-morgan]
 category: elections
 keywords: ["Louisiana sample ballot 2026", "Louisiana constitutional amendments 2026", "Louisiana Senate race 2026", "Louisiana early voting 2026", "sample ballot by zip code Louisiana"]
 dateline: "Baton Rouge, La."

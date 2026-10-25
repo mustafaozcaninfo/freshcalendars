@@ -4,7 +4,7 @@ seoTitle: "When Will We Know 2026 Midterm Election Results?"
 description: "Polls close Nov. 3, 2026, but counting takes days in some states. When mail ballots are counted in 17 key states, late-ballot rules and certification dates."
 type: explainer
 publishedAt: "2026-10-21T00:30:00-04:00"
-authors: [news-desk]
+authors: [alex-morgan]
 category: elections
 keywords: ["when will we know election results 2026", "2026 midterm results timeline", "how long does it take to count votes", "election results by state 2026", "when are election results certified"]
 dateline: "New York"

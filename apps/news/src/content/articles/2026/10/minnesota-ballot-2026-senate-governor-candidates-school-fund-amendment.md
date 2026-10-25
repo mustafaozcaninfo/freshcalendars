@@ -4,7 +4,7 @@ seoTitle: "Minnesota Ballot 2026: Senate, Governor, Amendment"
 description: "Minnesota votes Nov. 3, 2026 on U.S. Senate, governor and one constitutional amendment. Early voting ends Nov. 2, and polls open 7 a.m. to 8 p.m."
 type: explainer
 publishedAt: "2026-10-24T17:00:00-04:00"
-authors: [news-desk]
+authors: [alex-morgan]
 category: elections
 keywords: ["Minnesota ballot 2026", "Minnesota Senate race 2026 candidates", "Minnesota governor race 2026", "Minnesota constitutional amendment 2026", "Minnesota early voting 2026"]
 dateline: "St. Paul, Minn."

@@ -4,7 +4,7 @@ seoTitle: "GivingTuesday 2026: Dec. 1, New Non-Itemizer Deduction"
 description: "GivingTuesday 2026 is Tue., Dec. 1, per GivingTuesday. New for 2026: the Internal Revenue Service (IRS) allows up to $1,000 in cash gifts without itemizing."
 type: explainer
 publishedAt: "2026-10-25T01:31:00-04:00"
-authors: [news-desk]
+authors: [alex-morgan]
 category: holidays
 keywords: ["Giving Tuesday 2026", "when is Giving Tuesday 2026", "charitable deduction 2026 non itemizers", "how to check a charity"]
 dateline: "New York"

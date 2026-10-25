@@ -4,7 +4,7 @@ seoTitle: "Is Christmas Eve a Federal Holiday in 2026?"
 description: "Christmas Eve, Thursday, Dec. 24, 2026, is not a federal holiday. The Office of Personnel Management (OPM) lists Christmas Day only. See what could change."
 type: explainer
 publishedAt: "2026-10-23T15:25:00-04:00"
-authors: [news-desk]
+authors: [alex-morgan]
 category: holidays
 keywords: ["is christmas eve a federal holiday 2026", "do federal employees get christmas eve off 2026", "is december 24 2026 a holiday", "is the stock market open christmas eve 2026"]
 dateline: "New York"

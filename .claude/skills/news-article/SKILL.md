@@ -49,7 +49,7 @@ seoTitle: "<20-60 chars>"
 description: "<120-160 chars; renders as the lede; expand abbreviations: Eastern Time (ET)>"
 type: news            # news | explainer | analysis | update
 publishedAt: "2026-10-21T09:30:00-04:00"   # now or earlier, America/New_York
-authors: [news-desk]  # or the editor who actually edited this story (see "Bylines" below)
+authors: [alex-morgan]  # the beat editor who reviews the story (see "Bylines" below); puzzles: [news-desk]
 category: holidays    # holidays | elections | calendar-guides | planning | puzzles | retail-dates | school-calendars | sky-events | time-change | uk-canada
 keywords: ["<main query>", "<variant>", "<variant>"]   # 1-5
 hero:
@@ -80,15 +80,15 @@ draft: false
 
 ## Bylines
 
-`authors` is `[news-desk]` unless one of the editors actually edited this story. Ask the person you are working with which editor reviews it; never pick one yourself.
+`authors` is the editor responsible for the story's beat; that editor reviews the story before it is published. Daily puzzle pages (Wordle, Connections, Strands and similar) use `[news-desk]`. When a story spans two beats, ask the person you are working with which editor reviews it.
 
 | Author id | Editor | Beat |
 |---|---|---|
-| `alex-morgan` | Alex Morgan, Senior Editor | public holidays, holiday law, civic calendars, UK and Canada holidays |
-| `emily-carter` | Emily Carter, Managing Editor | school calendars, school breaks, education, family planning |
-| `jordan-bennett` | Jordan Bennett, News Editor | daylight saving and time zones, seasons and sky events, retail dates, data-led explainers |
+| `alex-morgan` | Alex Morgan, Senior Editor | holidays (`holidays`), elections (`elections`), UK and Canada (`uk-canada`), government and tax deadlines: Social Security, Medicare, IRS, open enrollment, market closures |
+| `emily-carter` | Emily Carter, Managing Editor | school calendars (`school-calendars`), school breaks, SAT, ACT, LSAT and MCAT dates, family printables |
+| `jordan-bennett` | Jordan Bennett, News Editor | clock changes (`time-change`), sky events (`sky-events`), calendar guides (`calendar-guides`), retail dates (`retail-dates`), sports, festival and event schedules, travel, movable dates such as Ramadan and Lunar New Year |
 
-Do not add an editor to stories published before they edited them. A new Person author needs a real, confirmed person and `confirmedAt` in `apps/news/src/content/authors/<id>.json`; `news:seo-audit` (07-NO-FAKE-EXPERTS) rejects any other Person.
+A new Person author needs a real, confirmed person and `confirmedAt` in `apps/news/src/content/authors/<id>.json`; `news:seo-audit` (07-NO-FAKE-EXPERTS) rejects any other Person.
 
 ## Short, descriptive H2s
 

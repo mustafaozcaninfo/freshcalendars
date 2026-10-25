@@ -5,7 +5,7 @@ description: "Halloween 2026 is Saturday, Oct. 31, the first Saturday Halloween 
 type: news
 publishedAt: "2026-10-19T10:25:00-04:00"
 updatedAt: "2026-10-21T13:01:00-04:00"
-authors: [news-desk]
+authors: [alex-morgan]
 category: holidays
 keywords: ["Halloween 2026", "Halloween 2026 Saturday", "trick or treat times 2026", "sunset on Halloween 2026", "Halloween daylight saving time 2026"]
 dateline: "New York"

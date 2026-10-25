@@ -4,7 +4,7 @@ seoTitle: "DEA Drug Take Back Day Oct. 24, 2026: Hours and Sites"
 description: "Drug Enforcement Administration (DEA) Take Back Day is Saturday, Oct. 24, 2026, 10 a.m.-2 p.m. How to find a site, what is accepted, year-round options."
 type: news
 publishedAt: "2026-10-21T05:50:00-04:00"
-authors: [news-desk]
+authors: [alex-morgan]
 category: planning
 keywords: ["DEA Take Back Day October 24 2026", "drug take back day near me", "National Prescription Drug Take Back Day 2026", "where to dispose of old medications", "what can you drop off at drug take back day"]
 dateline: "New York"

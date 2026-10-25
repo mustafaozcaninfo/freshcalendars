@@ -4,7 +4,7 @@ seoTitle: "All Saints Day 2026: Sunday, Nov. 1, Holy Days to 2027"
 description: "All Saints Day 2026 is Sunday, Nov. 1, so Mass applies. In 2027 it is a Monday and the duty is lifted, says the U.S. Conference of Catholic Bishops (USCCB)."
 type: explainer
 publishedAt: "2026-10-25T01:33:00-04:00"
-authors: [news-desk]
+authors: [alex-morgan]
 category: holidays
 keywords: ["is All Saints Day a holy day of obligation 2026", "All Saints Day 2026", "All Souls Day 2026", "holy days of obligation 2027"]
 dateline: "Washington"

@@ -5,7 +5,7 @@ description: "Make a nonalcoholic witches' brew punch for Halloween 2026 with a 
 type: explainer
 publishedAt: "2026-10-22T01:45:00-04:00"
 updatedAt: "2026-10-22T02:37:00-04:00"
-authors: [news-desk]
+authors: [alex-morgan]
 category: holidays
 keywords: ["witches brew punch", "bubbling cauldron halloween", "halloween punch recipe", "non alcoholic halloween punch", "halloween party drinks 2026"]
 dateline: "New York"

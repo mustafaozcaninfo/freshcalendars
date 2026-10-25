@@ -4,7 +4,7 @@ seoTitle: "When to Thaw a Thanksgiving Turkey 2026: By Weight"
 description: "Thanksgiving is Thursday, Nov. 26, 2026. Start thawing a 16 to 20 lb turkey in the fridge on Nov. 21 or 22, using U.S. Department of Agriculture (USDA) times."
 type: explainer
 publishedAt: "2026-10-22T01:30:00-04:00"
-authors: [news-desk]
+authors: [alex-morgan]
 category: holidays
 keywords: ["when to thaw turkey for Thanksgiving 2026", "turkey thawing time by weight", "how long to thaw a turkey in the fridge", "thaw turkey cold water method"]
 dateline: "New York"

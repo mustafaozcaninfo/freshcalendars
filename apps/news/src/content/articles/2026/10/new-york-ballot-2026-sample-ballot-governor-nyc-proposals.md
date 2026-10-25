@@ -4,7 +4,7 @@ seoTitle: "New York Ballot 2026: Sample Ballot and Races"
 description: "What's on New York's Nov. 3, 2026 ballot: governor, attorney general, comptroller, all 26 House seats, NYC's five charter questions and how to see your ballot."
 type: explainer
 publishedAt: "2026-10-21T06:33:00-04:00"
-authors: [news-desk]
+authors: [alex-morgan]
 category: elections
 keywords: ["New York ballot 2026", "New York sample ballot 2026", "New York governor race 2026", "NYC ballot proposals 2026", "what's on my ballot New York"]
 dateline: "New York"

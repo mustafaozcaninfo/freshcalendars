@@ -5,7 +5,7 @@ description: "When is Diwali 2026 in the United States (USA)? Sunday, Nov. 8. Se
 type: explainer
 publishedAt: "2026-10-19T07:45:00-04:00"
 updatedAt: "2026-10-24T00:50:00-04:00"
-authors: [news-desk]
+authors: [alex-morgan]
 category: holidays
 keywords: ["when is diwali 2026 in usa", "diwali 2026 usa", "Diwali 2026", "Lakshmi Puja time 2026 USA", "Dhanteras 2026"]
 dateline: "New York"

@@ -4,7 +4,7 @@ seoTitle: "Black Friday 2026 Store Hours: Walmart, Target, Best Buy"
 description: "Black Friday is Nov. 27, 2026. Opening times for Walmart, Target, Best Buy, Costco and more, which stores close on Thanksgiving, and a printable planner."
 type: update
 publishedAt: "2026-10-20T17:30:00-04:00"
-authors: [news-desk]
+authors: [jordan-bennett]
 category: retail-dates
 keywords: ["Black Friday 2026 store hours", "what time does Walmart open on Black Friday", "Target Black Friday hours 2026", "Best Buy Black Friday 2026", "stores closed on Thanksgiving 2026"]
 dateline: "New York"

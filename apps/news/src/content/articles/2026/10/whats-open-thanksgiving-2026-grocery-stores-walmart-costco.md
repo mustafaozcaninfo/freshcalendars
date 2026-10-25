@@ -4,7 +4,7 @@ seoTitle: "What's Open on Thanksgiving 2026: Stores and Hours"
 description: "Thanksgiving is Thursday, Nov. 26, 2026. Walmart, Costco and Target are closed; Whole Foods and Dollar General open shorter hours. See the full list."
 type: news
 publishedAt: "2026-10-24T00:52:00-04:00"
-authors: [news-desk]
+authors: [jordan-bennett]
 category: retail-dates
 keywords: ["what's open on Thanksgiving 2026", "grocery stores open on Thanksgiving 2026", "is Walmart open on Thanksgiving 2026", "is Costco open on Thanksgiving 2026", "stores closed on Thanksgiving 2026"]
 dateline: "New York"
