@@ -1,10 +1,10 @@
 ---
-title: "World Series 2026 Schedule: Brewers Lead Rays 1-0, Game 2 Saturday, Oct. 24, Game Times and TV Channel"
-seoTitle: "World Series 2026: Brewers Lead 1-0, Game Times, TV"
-description: "The Brewers lead the 2026 World Series 1-0 after a 3-2 Game 1 win over the Rays. Game 2 is Saturday, Oct. 24, at 8 p.m. Eastern Time (ET) on FOX. Full schedule."
+title: "World Series 2026 Schedule: Brewers Lead Rays 2-0, Game 3 Monday, Oct. 26, Game Times and TV Channel"
+seoTitle: "World Series 2026: Brewers Lead 2-0, Game Times, TV"
+description: "The Brewers lead the 2026 World Series 2-0 after a 5-4 Game 2 win over the Rays. Game 3 is Monday, Oct. 26, at 8 p.m. Eastern Time (ET) on FOX in Tampa Bay."
 type: news
 publishedAt: "2026-10-21T05:45:00-04:00"
-updatedAt: "2026-10-24T01:40:00-04:00"
+updatedAt: "2026-10-24T23:50:00-04:00"
 authors: [news-desk]
 category: planning
 keywords: ["World Series 2026 schedule", "World Series game times", "what channel is the World Series on", "Brewers vs Rays World Series", "World Series Game 1 time"]
@@ -15,7 +15,7 @@ hero:
   title: "World Series 2026 schedule, game times and TV channel"
   caption: "Game 1 of the 2026 World Series is Friday, Oct. 23, at 8 p.m. ET in Milwaukee. Every game airs on FOX."
 summary:
-  - "The Milwaukee Brewers lead the series 1-0 after beating the Tampa Bay Rays 3-2 in Game 1 on Friday, Oct. 23. Game 2 is Saturday, Oct. 24. Every game starts at 8 p.m. ET."
+  - "The Milwaukee Brewers lead the series 2-0 after beating the Tampa Bay Rays 3-2 in Game 1 and 5-4 in Game 2 on Saturday, Oct. 24. Game 3 is Monday, Oct. 26, in Tampa Bay. Every game starts at 8 p.m. ET."
   - "FOX televises all seven games, which stream on FOX One. FOX Deportes carries every game in Spanish, Univision airs Game 1, and ESPN Radio has the national radio call."
   - "Milwaukee holds home-field advantage with the better record, 103-59 to 98-64, so it hosts Games 1, 2, 6 and 7. Games 5, 6 and 7 are played only if needed."
   - "A Game 7 would fall on Saturday, Oct. 31, Halloween night, hours before clocks fall back on Sunday, Nov. 1."
@@ -47,6 +47,14 @@ sources:
     url: "https://www.foxsports.com/stories/mlb/2026-world-series-schedule-how-watch-brewers-vs-rays-fox"
     publisher: "FOX Sports"
     date: "2026-10-20"
+  - title: "World Series Game 2: Brewers erase early 4-run deficit to take 2-0 lead"
+    url: "https://sports.yahoo.com/mlb/live/brewers-rays-box-score-live-updates-world-series-game-2-lineups-starting-pitchers-news-highlights-where-to-watch-230120651.html"
+    publisher: "Yahoo Sports"
+    date: "2026-10-24"
+  - title: "World Series Game 2 score, live updates"
+    url: "https://www.cbssports.com/mlb/news/world-series-game-2-score-live-updates-brewers-rays/live/"
+    publisher: "CBS Sports"
+    date: "2026-10-24"
 internalLinks:
   - href: "/october-calendars.html"
     label: "October 2026 printable calendar"
@@ -75,16 +83,16 @@ downloads:
 draft: false
 ---
 
-<p class="callout"><b>Updated Sat., Oct. 24, 2026.</b> Milwaukee leads the series 1-0 after a 3-2 win in Game 1 on Friday, Oct. 23. Game 2 is tonight, Saturday, Oct. 24, at 8 p.m. ET on FOX, in Milwaukee. Source: Major League Baseball.</p>
+<p class="callout"><b>Last updated Oct. 24, 2026, 11:50 p.m. ET.</b> Milwaukee won Game 2, 5-4, on Saturday after trailing 4-0 early, and leads the series 2-0. Game 3 is Monday, Oct. 26, at 8 p.m. ET on FOX, in Tampa Bay. Sources: Yahoo Sports and CBS Sports game reports.</p>
 
-**The Milwaukee Brewers lead the 2026 World Series 1-0 after beating the Tampa Bay Rays 3-2 in Game 1 on Friday, Oct. 23. Game 2 is Saturday, Oct. 24, at 8 p.m. Eastern Time (ET) on FOX.** Major League Baseball (MLB) has set every game of the best-of-seven series for 8 p.m. ET, and FOX televises all of them. Milwaukee has home-field advantage, so the series opens with two games there before moving to Tampa Bay for three. Below: the full schedule, every way to watch or listen, how both teams got here, and a free printable score tracker.
+**The Milwaukee Brewers lead the 2026 World Series 2-0 after beating the Tampa Bay Rays 5-4 in Game 2 on Saturday, Oct. 24. Game 3 is Monday, Oct. 26, at 8 p.m. Eastern Time (ET) on FOX in Tampa Bay.** Milwaukee won Game 1, 3-2, on Friday. Major League Baseball (MLB) has set every game of the best-of-seven series for 8 p.m. ET, and FOX televises all of them. The series now moves to Tampa Bay for up to three games, and a fourth win for either team ends it. Below: the full schedule, every way to watch or listen, how both teams got here, and a free printable score tracker.
 
 ## World Series 2026 schedule
 
 | Game | Date | Home team | Start (ET) | TV | Result |
 |---|---|---|---|---|---|
 | 1 | Friday, Oct. 23 | Brewers | 8 p.m. | FOX | Brewers 3, Rays 2 |
-| 2 | Saturday, Oct. 24 | Brewers | 8 p.m. | FOX | - |
+| 2 | Saturday, Oct. 24 | Brewers | 8 p.m. | FOX | Brewers 5, Rays 4 |
 | 3 | Monday, Oct. 26 | Rays | 8 p.m. | FOX | - |
 | 4 | Tuesday, Oct. 27 | Rays | 8 p.m. | FOX | - |
 | 5* | Wednesday, Oct. 28 | Rays | 8 p.m. | FOX | - |
