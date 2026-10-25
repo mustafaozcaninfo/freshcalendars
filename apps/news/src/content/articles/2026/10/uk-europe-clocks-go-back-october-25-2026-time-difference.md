@@ -4,6 +4,7 @@ seoTitle: "UK Clocks Change October 2026: Back One Hour Sunday, Oct. 25"
 description: "Britain and the EU end summer time on Sunday, Oct. 25, 2026; the U.S. waits until Nov. 1. For one week London is 4 hours ahead of New York instead of 5."
 type: news
 publishedAt: "2026-10-18T04:20:00-04:00"
+updatedAt: "2026-10-25T00:55:00-04:00"
 authors: [news-desk]
 category: uk-canada
 keywords: ["clocks go back 2026", "UK clocks change October 25 2026", "time difference London New York", "Europe daylight saving time ends 2026", "British Summer Time ends"]
@@ -52,6 +53,8 @@ internalLinks:
 related: [daylight-saving-time-ends-november-1-2026, uk-bank-holidays-2027-dates-england-scotland-northern-ireland]
 draft: false
 ---
+
+<p class="callout"><b>Last updated Oct. 25, 2026, 12:55 a.m. ET.</b> Clocks in the UK and the EU went back one hour early this Sunday morning. Until the U.S. change on Sunday, Nov. 1, London is 4 hours ahead of New York and Paris is 5.</p>
 
 Clocks in the United Kingdom and the European Union go back one hour on **Sunday, Oct. 25, 2026**, one week before the United States and most of Canada make the same change on Nov. 1. For those seven days the usual time differences across the Atlantic shrink by an hour: **London is 4 hours ahead of New York instead of 5**, and Paris and Berlin are 5 hours ahead instead of 6.
 

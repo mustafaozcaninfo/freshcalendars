@@ -4,6 +4,7 @@ seoTitle: "Hunter's Moon 2026: Full Moon Time and Moonrise"
 description: "The Hunter's Moon is full at 12:12 a.m. EDT Monday, Oct. 26, 2026, or 9:12 p.m. PDT Sunday. Moonrise times for 20 U.S. cities and the next full moons."
 type: explainer
 publishedAt: "2026-10-20T01:25:00-04:00"
+updatedAt: "2026-10-25T00:55:00-04:00"
 authors: [news-desk]
 category: sky-events
 keywords: ["Hunter's Moon 2026", "full moon October 2026", "October 2026 full moon time", "moonrise tonight", "Beaver Moon November 2026"]
@@ -58,6 +59,8 @@ downloads:
     pages: 1
 draft: false
 ---
+
+<p class="callout"><b>Last updated Oct. 25, 2026, 12:55 a.m. ET.</b> Tonight, Sunday, Oct. 25, is the night to watch: the moon rises at 5:26 p.m. in New York and is full at 12:12 a.m. Eastern Daylight Time on Monday, according to the U.S. Naval Observatory.</p>
 
 **October's full moon, the Hunter's Moon, is full at 12:12 a.m. Eastern Daylight Time on Monday, Oct. 26, 2026**, according to the U.S. Naval Observatory (USNO). Everywhere west of the Eastern time zone, that moment falls on Sunday evening, Oct. 25, which makes Sunday the night to watch the moon come up in the east around sunset.
 
