@@ -282,8 +282,20 @@ check("07-ENTITY-IDS", "One consistent Organization entity (@id, name, logo) acr
 });
 check("07-SAMEAS", "sameAs only for verified profiles (none claimed yet) (§07 l.2148)", () =>
   each(urls, (u, h) => { const s = nodes(h).flatMap((n) => n.sameAs ?? []); return s.length ? `sameAs: ${s.join(" ")}` : null; }));
-check("07-NO-FAKE-EXPERTS", "No invented people, credentials or reviewers (§02 l.2587, §07 l.2148)", () =>
-  each(urls, (u, h) => (nodes(h).some((n) => n["@type"] === "Person") ? "Person node present (verify it is a real, documented author)" : null)));
+// A Person is accepted only when its author file records the publisher's confirmation (confirmedAt).
+const authorsDir = path.join(ROOT, "apps/news/src/content/authors");
+const confirmedPeople = new Set(
+  readdirSync(authorsDir)
+    .filter((f) => f.endsWith(".json"))
+    .map((f) => [f.replace(/\.json$/, ""), JSON.parse(readFileSync(path.join(authorsDir, f), "utf8"))])
+    .filter(([, a]) => a.kind === "Person" && a.confirmedAt)
+    .map(([slug]) => `https://freshcalendars.com/news/author/${slug}/`),
+);
+check("07-NO-FAKE-EXPERTS", "No invented people: every Person is a confirmed author (§02 l.2587, §07 l.2148)", () =>
+  each(urls, (u, h) => {
+    const bad = nodes(h).filter((n) => n["@type"] === "Person" && !confirmedPeople.has(n["@id"]));
+    return bad.length ? `unconfirmed Person ${bad.map((n) => n.name ?? n["@id"]).join(", ")}` : null;
+  }));
 check("07-TRUST-PAGES", "About / editorial / corrections / masthead pages exist and are linked from the Organization (§07 entity checklist)", () => {
   const need = ["/news/about/", "/news/editorial-policy/", "/news/corrections-policy/", "/news/masthead/"];
   const miss = need.filter((u) => !html[u]);

@@ -41,7 +41,7 @@ const jsonLd = listingGraph({
   author,
 });
 ---
-<NewsBase title={pagedTitle(heading, page.page)} description={pageDescription} path={page.path} jsonLd={jsonLd}>
+<NewsBase title={pagedTitle(heading, page.page)} description={pageDescription} path={page.path} jsonLd={jsonLd} ads={page.items.length > 0}>
   <div class="news-wrap listing">
     <Breadcrumb items={[{ name: "Home", href: "/" }, ...trail.map((t) => ({ name: t.name, href: t.path })), ...(page.page > 1 ? [{ name: `Page ${page.page}` }] : [])]} />
     <h1>{heading}{page.page > 1 && <span class="pg"> – Page {page.page}</span>}</h1>

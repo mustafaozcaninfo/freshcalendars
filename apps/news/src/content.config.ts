@@ -147,7 +147,12 @@ const authors = defineCollection({
       photo: image().optional(),
       sameAs: z.array(z.string().url()).default([]),
       email: z.string().email().optional(),
-    }),
+      /**
+       * Date the publisher confirmed a Person is a real editor who approved this profile. Required for
+       * Person authors: the 07-NO-FAKE-EXPERTS audit check only accepts confirmed people.
+       */
+      confirmedAt: z.string().regex(/^\d{4}-\d{2}-\d{2}$/).optional(),
+    }).refine((a) => a.kind !== "Person" || !!a.confirmedAt, "Person authors need confirmedAt"),
 });
 
 const categories = defineCollection({

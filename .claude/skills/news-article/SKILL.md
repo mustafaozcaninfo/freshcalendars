@@ -49,7 +49,7 @@ seoTitle: "<20-60 chars>"
 description: "<120-160 chars; renders as the lede; expand abbreviations: Eastern Time (ET)>"
 type: news            # news | explainer | analysis | update
 publishedAt: "2026-10-21T09:30:00-04:00"   # now or earlier, America/New_York
-authors: [news-desk]
+authors: [news-desk]  # or the editor who actually edited this story (see "Bylines" below)
 category: holidays    # holidays | elections | calendar-guides | planning | puzzles | retail-dates | school-calendars | sky-events | time-change | uk-canada
 keywords: ["<main query>", "<variant>", "<variant>"]   # 1-5
 hero:
@@ -77,6 +77,18 @@ draft: false
 ---
 
 **First sentence answers the query with the date, time or number.** Then context and attribution.
+
+## Bylines
+
+`authors` is `[news-desk]` unless one of the editors actually edited this story. Ask the person you are working with which editor reviews it; never pick one yourself.
+
+| Author id | Editor | Beat |
+|---|---|---|
+| `alex-morgan` | Alex Morgan, Senior Editor | public holidays, holiday law, civic calendars, UK and Canada holidays |
+| `emily-carter` | Emily Carter, Managing Editor | school calendars, school breaks, education, family planning |
+| `jordan-bennett` | Jordan Bennett, News Editor | daylight saving and time zones, seasons and sky events, retail dates, data-led explainers |
+
+Do not add an editor to stories published before they edited them. A new Person author needs a real, confirmed person and `confirmedAt` in `apps/news/src/content/authors/<id>.json`; `news:seo-audit` (07-NO-FAKE-EXPERTS) rejects any other Person.
 
 ## Short, descriptive H2s
 
