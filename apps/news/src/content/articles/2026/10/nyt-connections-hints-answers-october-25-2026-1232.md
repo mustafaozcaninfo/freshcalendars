@@ -102,4 +102,4 @@ Stop here if you still want to solve it yourself.
 
 **Football.** The ball is snapped to the quarterback at the start of a play, so it joins fingers, glow sticks and rubber bands in the purple group.
 
-We checked the solution against more than one published source before posting. Puzzle #1233 arrives at midnight.
+For what every word means, with a picture card for each group, see [Connections #1232 answers explained](/news/nyt-connections-answers-meanings-october-25-2026-1232/). We checked the solution against more than one published source before posting. Puzzle #1233 arrives at midnight.
