@@ -1,5 +1,7 @@
 ---
+import { Image } from "astro:assets";
 import ListingView from "./ListingView.astro";
+import { authorImage, authorImageAlt } from "../lib/images";
 import type { Article, Author } from "../lib/articles";
 import { authorHref, getCategoryNames } from "../lib/articles";
 import type { Page } from "../lib/listing";
@@ -8,6 +10,7 @@ interface Props { author: Author; page: Page<Article> }
 const { author, page } = Astro.props;
 const d = author.data;
 const path = authorHref(author.id);
+const image = d.photo ? await authorImage(d.photo) : undefined;
 ---
 <ListingView
   page={page}
@@ -16,12 +19,13 @@ const path = authorHref(author.id);
   description={shortDescription(d.bio)}
   trail={[{ name: "News", path: "/news/" }, { name: d.name, path }]}
   kind="ProfilePage"
-  author={{ kind: d.kind, name: d.name, path, role: d.role, sameAs: d.sameAs, description: d.bio }}
+  author={{ kind: d.kind, name: d.name, path, role: d.role, sameAs: d.sameAs, description: d.bio, image }}
   categoryNames={await getCategoryNames()}
   emptyText={`${d.name} has not published a story yet.`}
 >
   {page.page === 1 && (
     <div class="profile">
+      {d.photo && <Image src={d.photo} alt={authorImageAlt(d.name, d.role)} title={d.name} loading="eager" width={160} height={160} densities={[1, 2]} format="webp" class="avatar" />}
       <p>{d.bio}</p>
       {d.sameAs.length > 0 && (
         <ul class="same-as">{d.sameAs.map((u) => <li><a href={u} rel="me noopener">{new URL(u).hostname}</a></li>)}</ul>
@@ -32,6 +36,7 @@ const path = authorHref(author.id);
 </ListingView>
 <style>
   .profile{color:var(--ink-strong);margin:0 0 1rem}
+  .avatar{width:160px;height:160px;border-radius:50%;margin:0 0 1rem}
   .same-as{display:flex;flex-wrap:wrap;gap:.75rem;list-style:none;padding:0}
   .latest{font-family:Sora,"Sora Fallback",sans-serif;font-size:1.2rem;margin:1.5rem 0 0}
 </style>

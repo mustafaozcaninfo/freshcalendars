@@ -21,7 +21,7 @@ import PreferredSource from "../../components/PreferredSource.astro";
 import ShareIcons from "../../components/ShareIcons.astro";
 import StoryNav from "../../components/StoryNav.astro";
 import { authorHref, getPublishedArticles, lastModified, type Article } from "../../lib/articles";
-import { heroImages } from "../../lib/images";
+import { authorImage, heroImages } from "../../lib/images";
 import { SITE_ORIGIN, absNewsUrl } from "../../lib/site";
 import { relatedFor, topicsOf } from "../../lib/storygraph";
 import { topicPath } from "../../lib/topics";
@@ -63,13 +63,16 @@ const wordCount = countWords(article.body ?? "");
 const minutes = readingMinutes(wordCount);
 const modifiedAt = lastModified(article);
 
-const authorSeo: AuthorSeo[] = authors.map((a) => ({
-  kind: a.data.kind,
-  name: a.data.name,
-  path: authorPath(a.id),
-  role: a.data.role,
-  sameAs: a.data.sameAs,
-}));
+const authorSeo: AuthorSeo[] = await Promise.all(
+  authors.map(async (a) => ({
+    kind: a.data.kind,
+    name: a.data.name,
+    path: authorPath(a.id),
+    role: a.data.role,
+    sameAs: a.data.sameAs,
+    image: a.data.photo ? await authorImage(a.data.photo) : undefined,
+  })),
+);
 
 const seo: ArticleSeo = {
   slug: article.id,
@@ -168,7 +171,7 @@ const keyDates = upcomingFor(new Set([article.id]));
     <Corrections items={d.corrections} />
     <AdSlot unit={4} />
     {authors.map((a) => (
-      <AuthorCard name={a.data.name} role={a.data.role} bio={a.data.bio} href={authorPath(a.id)} />
+      <AuthorCard name={a.data.name} role={a.data.role} bio={a.data.bio} href={authorPath(a.id)} photo={a.data.photo} />
     ))}
     {topics.length > 0 && (
       <nav class="topic-links" aria-label="Topics">
