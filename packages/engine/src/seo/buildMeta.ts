@@ -197,6 +197,15 @@ function baseMeta(partial: {
   };
 }
 
+/** Longest tail that keeps a meta description within the 160-character snippet. */
+function fitDescription(head: string, tails: string[]): string {
+  for (const tail of tails) {
+    const full = `${head} ${tail}`;
+    if (full.length <= 160) return full;
+  }
+  return head;
+}
+
 export function buildMetaForEntry(
   entry: UrlEntry,
   resolved: { year: number; month?: number },
@@ -524,7 +533,10 @@ export function buildMetaForEntry(
     const ed = getHolidayEditorial(slug);
     const description = ed
       ? ed.description(h)
-      : `${h.name} falls on ${h.formatted} in ${year}. ${h.blurb} Evergreen when-is URL — always the next upcoming ${h.name}. Print the ${monthName} calendar with holidays marked.`;
+      : fitDescription(`${h.name} ${year} falls on ${h.formatted}. ${h.blurb}`, [
+          `Free printable ${monthName} ${year} calendar with holidays marked.`,
+          `Printable ${monthName} ${year} calendar.`,
+        ]);
     return baseMeta({
       pageId: entry.pageId,
       path: entry.path,

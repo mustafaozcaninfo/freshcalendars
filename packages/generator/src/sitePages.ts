@@ -8,6 +8,8 @@ import {
   holidayWhenIsPath,
   holidaysForMonth,
   holidaysForYear,
+  usDstFallBack,
+  resolveNextHoliday,
   holidaysHubPath,
   holidayLocaleForSlug,
   monthNumberToName,
@@ -1568,20 +1570,29 @@ ${faqSection(meta)}`;
     const py = resolvePlanningYear(today);
     const dst = holidaysForYear(py).find((h) => h.slug === "daylight-savings");
     const dstNext = holidaysForYear(py + 1).find((h) => h.slug === "daylight-savings");
+    // Lead names the next upcoming change of each kind; the bake runs daily.
+    const startToday = new Date(today.getFullYear(), today.getMonth(), today.getDate()).getTime();
+    const nextFallBack =
+      usDstFallBack(py).date.getTime() >= startToday ? usDstFallBack(py) : usDstFallBack(py + 1);
+    const springDef = holidayDefBySlug("daylight-savings")!;
+    const nextSpring = resolveNextHoliday(springDef, today);
     const hero = `
 <section class="hero"><div class="hero-inner">
   <div class="eyebrow">Fresh Calendars · DST</div>
   <h1>Daylight saving time ${py}</h1>
-  <p class="lead">When US clocks spring forward — second Sunday of March at 2:00 AM local time.</p>
+  <p class="lead">Next US clock changes: fall back on ${esc(nextFallBack.formatted)} and spring forward on ${esc(nextSpring.formatted)}, both at 2:00 a.m. local time.</p>
 </div></section>
 ${adBand(ADS.inArticle, "FreshCalendars_Dst_Top")}`;
     const main = `
 <section class="section prose">
   <h2>${py} &amp; ${py + 1} dates</h2>
   <ul>
-    <li><strong>${py}:</strong> ${dst ? esc(dst.formatted) : "Second Sunday of March"} — clocks spring forward</li>
-    <li><strong>${py + 1}:</strong> ${dstNext ? esc(dstNext.formatted) : "Second Sunday of March"} — clocks spring forward</li>
+    <li><strong>${py} start:</strong> ${dst ? esc(dst.formatted) : "Second Sunday of March"}, clocks spring forward</li>
+    <li><strong>${py} end:</strong> ${esc(usDstFallBack(py).formatted)}, clocks fall back</li>
+    <li><strong>${py + 1} start:</strong> ${dstNext ? esc(dstNext.formatted) : "Second Sunday of March"}, clocks spring forward</li>
+    <li><strong>${py + 1} end:</strong> ${esc(usDstFallBack(py + 1).formatted)}, clocks fall back</li>
   </ul>
+  <p>Daylight saving time starts on the second Sunday of March and ends on the first Sunday of November. Hawaii and most of Arizona stay on standard time all year.</p>
   <p>Also see <a href="/when-is/daylight-savings/">when is daylight saving time</a> for the evergreen when-is page.</p>
   <div class="cta">
     <a class="btn btn-primary" href="/printable-calendars.html">${py} yearly calendar</a>

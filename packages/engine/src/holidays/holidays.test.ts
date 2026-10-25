@@ -1,6 +1,6 @@
 import assert from "node:assert/strict";
 import { describe, it } from "node:test";
-import { holidaysForYear, resolveHoliday, resolveHolidayYear } from "./engine.js";
+import { holidaysForYear, resolveHoliday, resolveHolidayYear, usDstFallBack } from "./engine.js";
 import { CA_HOLIDAY_RULES, UK_HOLIDAY_RULES, holidayDefBySlug } from "./rules.js";
 
 describe("resolveHolidayYear (evergreen when-is)", () => {
@@ -47,5 +47,13 @@ describe("UK/CA holiday rules", () => {
     assert.ok(holidaysForYear(2026, { locale: "ca" }).length >= CA_HOLIDAY_RULES.length);
     assert.ok(!holidaysForYear(2026, { locale: "uk" }).some((h) => h.slug === "thanksgiving"));
     assert.ok(holidaysForYear(2026, { locale: "ca" }).some((h) => h.slug === "ca-thanksgiving"));
+  });
+});
+
+describe("usDstFallBack", () => {
+  it("is the first Sunday of November", () => {
+    assert.equal(usDstFallBack(2026).formatted, "Sunday, November 1, 2026");
+    assert.equal(usDstFallBack(2027).formatted, "Sunday, November 7, 2027");
+    assert.equal(usDstFallBack(2028).iso, "2028-11-05");
   });
 });

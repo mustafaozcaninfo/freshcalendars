@@ -1,5 +1,5 @@
 import type { HolidayDef, HolidayLocale, HolidayRule } from "../holidays/rules.js";
-import type { ResolvedHoliday } from "../holidays/engine.js";
+import { usDstFallBack, type ResolvedHoliday } from "../holidays/engine.js";
 import { monthNumberToName } from "../months.js";
 
 export type FaqItem = { q: string; a: string };
@@ -299,33 +299,39 @@ const EDITORIAL: Record<string, HolidayEditorial> = {
     ],
   },
 
+  // The slug resolves to the March start, so the previous November's
+  // fall-back always lands inside the window this page is live for.
   "daylight-savings": {
     lead: (h) =>
-      `US daylight saving time begins ${h.year} on ${h.formatted} — clocks spring forward at 2:00 a.m. local time.`,
+      `US clocks spring forward at 2:00 a.m. local time. The ${h.year - 1} season ends first, on ${usDstFallBack(h.year - 1).formatted}, when clocks fall back one hour.`,
     description: (h) =>
-      `Daylight saving time ${h.year} starts ${h.formatted} in most of the US. Spring-forward rule, fall-back reminder, and a printable March ${h.year} calendar from Fresh Calendars.`,
+      `Clocks fall back ${usDstFallBack(h.year - 1).formatted}, at 2:00 a.m. Daylight saving time ${h.year} starts ${h.formatted} in most of the US. Printable March calendar.`,
     overview: (h) => [
-      `Under current US federal rules (Energy Policy Act of 2005), daylight saving time begins at 2:00 a.m. on the second Sunday of March. In ${h.year} that Sunday is ${h.formatted}. Clocks spring forward one hour — 2:00 a.m. becomes 3:00 a.m.`,
-      `This when-is page tracks the spring-forward (start) date as the next upcoming DST change from “today.” Arizona (except the Navajo Nation) and Hawaii stay on standard time year-round; some US territories also do not observe DST.`,
-      `The matching fall-back is the first Sunday of November at 2:00 a.m., when clocks return to standard time. Use our daylight-saving guide page for both ends of the season when you need a two-date checklist.`,
+      `Under current US federal rules (Energy Policy Act of 2005), daylight saving time ends at 2:00 a.m. on the first Sunday of November and begins at 2:00 a.m. on the second Sunday of March.`,
+      `In ${h.year - 1}, clocks fall back on ${usDstFallBack(h.year - 1).formatted}: 2:00 a.m. becomes 1:00 a.m. and standard time returns. In ${h.year}, they spring forward on ${h.formatted}: 2:00 a.m. becomes 3:00 a.m. The ${h.year} season then ends on ${usDstFallBack(h.year).formatted}.`,
+      `Arizona (except the Navajo Nation) and Hawaii stay on standard time year-round; some US territories also do not observe DST. The daylight-saving guide page lists both dates for this year and next on one checklist.`,
     ],
     howCalculated: (h) =>
-      `Fresh Calendars models the US spring-forward with an nth-weekday rule: the second Sunday of March. For ${h.year} that is ${h.formatted}. The engine does not shift the instant by time zone — local 2:00 a.m. still applies wherever DST is observed.`,
+      `Fresh Calendars models both US clock changes with nth-weekday rules: the second Sunday of March (${h.formatted}) and the first Sunday of November (${usDstFallBack(h.year - 1).formatted} for ${h.year - 1}). The engine does not shift the instant by time zone — local 2:00 a.m. still applies wherever DST is observed.`,
     meaningTitle: "Why the clocks still move",
     meaning: (h) => [
       `Daylight saving time stretches evening daylight in warmer months. Congress has debated making DST or standard time permanent; until law changes, the March/November pattern remains the planning default for most states.`,
       `Practical impact is bigger than “lose an hour”: meeting links, medication schedules, observatories, and broadcast times all jump. Marking the Sunday on a March printable prevents Monday chaos.`,
     ],
     planningTips: (h) => [
-      `Write “spring forward” on ${h.formatted} on the March ${h.year} calendar and set phone alarms the night before.`,
+      `Write “fall back” on ${usDstFallBack(h.year - 1).formatted} and “spring forward” on ${h.formatted}; set phone alarms the night before each.`,
       `Remote teams: announce the change in Slack/email Friday — not everyone notices until the Monday stand-up is empty.`,
       `Parents: bedtime the Saturday night before is often harder; shift routines gradually mid-week if kids are sensitive.`,
-      `Also note the November fall-back on the yearly poster so both DST edges stay visible.`,
+      `The November ${h.year} fall-back is ${usDstFallBack(h.year).formatted}; note it on the yearly poster so both DST edges stay visible.`,
     ],
     faq: (h) => [
       {
+        q: `When do clocks fall back in ${h.year - 1}?`,
+        a: `In most of the US, standard time returns on ${usDstFallBack(h.year - 1).formatted} at 2:00 a.m. local time, when clocks move back one hour.`,
+      },
+      {
         q: `When do clocks fall back in ${h.year}?`,
-        a: `In most of the US, standard time returns on the first Sunday of November at 2:00 a.m. This when-is page highlights the next spring-forward (${h.formatted}); check the daylight-saving guide for the November date.`,
+        a: `On ${usDstFallBack(h.year).formatted}, the first Sunday of November, at 2:00 a.m. local time.`,
       },
       {
         q: `Does every US state change clocks on ${h.formatted}?`,
