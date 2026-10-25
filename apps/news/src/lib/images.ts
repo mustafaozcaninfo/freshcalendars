@@ -17,6 +17,18 @@ export interface HeroImages {
   crops: { url: string; width: number; height: number }[];
 }
 
+/** Square author avatar for JSON-LD (Person.image) and the byline card. */
+export const AUTHOR_IMAGE = { width: 400, height: 400 };
+export async function authorImage(src: ImageMetadata): Promise<{ url: string; width: number; height: number }> {
+  const img = await getImage({ src, ...AUTHOR_IMAGE, fit: "cover", format: "webp" });
+  return { url: abs(img.src), ...AUTHOR_IMAGE };
+}
+
+/** Alt text that says the avatar is an illustration, not a photograph. */
+export function authorImageAlt(name: string, role: string): string {
+  return `Illustrated avatar of ${name}, ${role}`;
+}
+
 export async function heroImages(src: ImageMetadata): Promise<HeroImages> {
   const main = await getImage({ src, ...HERO_MAIN, fit: "cover", format: "webp" });
   const crops = await Promise.all(HERO_CROPS.map((c) => getImage({ src, ...c, fit: "cover", format: "webp" })));

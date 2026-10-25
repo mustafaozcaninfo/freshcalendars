@@ -1,15 +1,25 @@
 ---
-interface Props { name: string; role: string; bio: string; href: string }
-const { name, role, bio, href } = Astro.props;
+import { Image } from "astro:assets";
+import type { ImageMetadata } from "astro";
+import { authorImageAlt } from "../lib/images";
+interface Props { name: string; role: string; bio: string; href: string; photo?: ImageMetadata }
+const { name, role, bio, href, photo } = Astro.props;
 ---
 <aside class="author-card" aria-label="About the author">
-  <p class="name"><a href={href} rel="author">{name}</a></p>
-  <p class="role">{role}</p>
+  <div class="head">
+    {photo && <Image src={photo} alt={authorImageAlt(name, role)} title={name} width={72} height={72} densities={[1, 2]} format="webp" class="avatar" loading="lazy" />}
+    <div>
+      <p class="name"><a href={href} rel="author">{name}</a></p>
+      <p class="role">{role}</p>
+    </div>
+  </div>
   <p class="bio">{bio}</p>
 </aside>
 <style>
   .author-card{border:1px solid var(--n-border);border-top:4px solid var(--gold);background:var(--n-soft);border-radius:var(--n-radius);padding:1rem 1.25rem;margin:2rem 0}
   .author-card p{margin:0 0 .35rem}
+  .head{display:flex;align-items:center;gap:.85rem;margin:0 0 .35rem}
+  .avatar{width:72px;height:72px;border-radius:50%;flex:0 0 auto}
   .name{font-family:Sora,"Sora Fallback",sans-serif;font-weight:700;font-size:1.05rem}
   .role{font-size:.8rem;font-weight:700;text-transform:uppercase;letter-spacing:.06em;color:var(--ink)}
   .bio{font-size:.95rem}
