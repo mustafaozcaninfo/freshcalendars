@@ -161,11 +161,7 @@ function metaTags(meta: SeoMeta, opts: { howTo?: boolean } = {}): string {
         height: 512,
       },
     },
-    potentialAction: {
-      "@type": "SearchAction",
-      target: "https://freshcalendars.com/printable-calendars.html?q={search_term_string}",
-      "query-input": "required name=search_term_string",
-    },
+    // No SearchAction: the site has no search page for it to point at.
   };
   const imageLd = {
     "@context": "https://schema.org",
@@ -192,7 +188,12 @@ function metaTags(meta: SeoMeta, opts: { howTo?: boolean } = {}): string {
         ],
       }
     : null;
-  const hreflang = (meta.hreflang?.length ? meta.hreflang : [{ lang: "en", href: meta.canonical }])
+  const alternates = meta.hreflang?.length ? meta.hreflang : [{ lang: "en", href: meta.canonical }];
+  // Regional holiday twins carry their own x-default; everything else defaults to itself.
+  const withDefault = alternates.some((h) => h.lang === "x-default")
+    ? alternates
+    : [...alternates, { lang: "x-default", href: meta.canonical }];
+  const hreflang = withDefault
     .map((h) => `<link rel="alternate" hreflang="${esc(h.lang)}" href="${esc(h.href)}" />`)
     .join("\n");
   return `
@@ -203,7 +204,6 @@ function metaTags(meta: SeoMeta, opts: { howTo?: boolean } = {}): string {
 ${meta.keywords?.length ? `<meta name="keywords" content="${esc(meta.keywords.join(", "))}" />` : ""}
 <link rel="canonical" href="${esc(meta.canonical)}" />
 ${hreflang}
-<link rel="alternate" hreflang="x-default" href="${esc(meta.canonical)}" />
 <link rel="alternate" type="application/rss+xml" title="Fresh Calendars RSS" href="/feed.xml" />
 <meta property="og:type" content="${esc(meta.openGraph.type)}" />
 <meta property="og:site_name" content="${esc(meta.openGraph.siteName)}" />
@@ -458,6 +458,7 @@ function sidebar(opts: {
       <a href="/printable-yearly-calendar.html" title="${nextPlanningY} printable yearly calendar">${nextPlanningY} yearly calendar</a>
       <a href="/printable-weekly-calendar.html" title="Printable weekly calendar">Weekly calendar</a>
       <a href="/printable-school-calendar.html" title="Printable school year calendar">School year</a>
+      <a href="/page/school-holidays/" title="School holiday planning">School holidays</a>
       <a href="/blank-calendars.html" title="Printable blank undated calendar">Blank calendar</a>
       <a href="/printable-blank-yearly-calendar.html" title="Printable blank yearly calendar">Blank yearly</a>
       <a href="/printable-monday-start-calendar.html" title="Monday-start calendars">Monday start</a>
@@ -466,6 +467,9 @@ function sidebar(opts: {
       <a href="/canada-holidays/" title="${planningY} Canada holidays">Canada holidays</a>
       <a href="/print-guide.html" title="How to print a calendar">Print guide</a>
       <a href="/guides/classroom-printable-calendars.html" title="Classroom printable calendars guide">Classroom guide</a>
+      <a href="/guides/monday-start-calendar.html" title="Monday-start vs Sunday-start calendars">Monday vs Sunday start</a>
+      <a href="/guides/fiscal-year-calendar.html" title="Fiscal year vs calendar year printables">Fiscal year guide</a>
+      <a href="/page/daylight-savings/" title="US daylight saving time dates">Daylight saving time</a>
       <a href="/when-is/thanksgiving/" title="When is Thanksgiving ${y}?">Thanksgiving</a>
       <a href="/when-is/easter/" title="When is Easter ${y}?">Easter</a>
     </div>
@@ -621,7 +625,7 @@ function renderHome(meta: SeoMeta, today: Date): string {
   const main = `
 <section class="section">
   <h2>This month &amp; next</h2>
-  <p class="lead" style="margin:0 0 1.25rem;max-width:52ch">Rolling dated pages always show the next occurrence of each month — so ${curName} is ${curY} and ${nextName} is ${nextY} right now.</p>
+  <p class="lead" style="margin:0 0 1.25rem;max-width:52ch">Each month page shows that month’s next occurrence: today that means ${curName} ${curY} and ${nextName} ${nextY}.</p>
   <div class="showcase">
     <article class="showcase-card">
       <div class="visual">${imgTag({
@@ -691,7 +695,7 @@ ${adUnit(ADS.homeTop, "FreshCalendars_New_Index", "header")}
   </div>
   <div class="yearly-band" style="margin-top:1.25rem">
     <div>
-      <p>Plan ahead with the ${nextPlanning} yearly hub — same five formats, already generated and evergreen at <a href="/printable-yearly-calendar.html">/printable-yearly-calendar.html</a>.</p>
+      <p>Plan ahead with the ${nextPlanning} yearly hub — same five formats, ready on the <a href="/printable-yearly-calendar.html">${nextPlanning} yearly calendar</a> page.</p>
       <div class="cta">
         <a class="btn btn-primary" href="/printable-yearly-calendar.html" title="${nextPlanning} printable yearly calendar">View ${nextPlanning}</a>
         ${downloadBtn(nextYearlyPdf, "PDF", `Download ${nextPlanning} yearly printable calendar PDF | Fresh Calendars`, "ghost")}
@@ -714,7 +718,7 @@ ${adUnit(ADS.homeMid, "FreshCalendars_Home_Mid", "banner")}
 <section class="section prose">
   <h2>Why printable calendars still win</h2>
   <p>Screens remind you; paper helps you decide. A printable calendar puts the whole month — or the whole year — in one glance without app notifications competing for attention. Fresh Calendars is built for that: download, print, write, move on.</p>
-  <p>Every dated grid is generated from a calendar engine (not hand-edited weekdays), so ${planningYear} federal holidays and month lengths stay correct. Evergreen month URLs roll forward when a month ends — January after August already points at the next January.</p>
+  <p>Every dated grid is generated from a calendar engine (not hand-edited weekdays), so ${planningYear} federal holidays and month lengths stay correct. Month pages roll forward when a month ends, so in August the January page already shows next January.</p>
   <ul class="feature-list">
     <li><strong>Five monthly designs</strong> — classic B&amp;W, modern color, holidays marked, notes planner, landscape soft.</li>
     <li><strong>Blank undated sheets</strong> — reuse forever when weekdays don't matter yet.</li>
@@ -848,7 +852,7 @@ ${adBand(ADS.inArticle, "FreshCalendars_School_Top")}`;
     const main = `
 <section class="section prose">
   <h2>${esc(label)} month pack</h2>
-  <p>Each row links the evergreen month page plus direct Classic B&amp;W and Monday-start downloads for that academic month.</p>
+  <p>Each row links the month page plus direct Classic B&amp;W and Monday-start downloads for that academic month.</p>
   <div class="table-scroll" role="region" aria-label="School year month pack" tabindex="0">
   <table class="hol-table">
     <thead><tr><th>Month</th><th>Classic B&amp;W</th><th>Monday start</th></tr></thead>
@@ -864,6 +868,7 @@ ${adBand(ADS.inArticle, "FreshCalendars_School_Top")}`;
     <a class="btn btn-ghost btn-sm" href="/blank-calendars.html#template-notes">Blank notes</a>
     <a class="btn btn-ghost btn-sm" href="/blank-calendars.html#template-kids">Kids blank</a>
     <a class="btn btn-ghost btn-sm" href="/guides/classroom-printable-calendars.html">Classroom guide</a>
+    <a class="btn btn-ghost btn-sm" href="/page/school-holidays/">School holiday planning</a>
   </div>
   <h3>Month chips</h3>
   <div class="school-months">
@@ -904,7 +909,7 @@ ${faqSection(meta)}`;
       meta,
       curPng,
       "Fresh Calendars · Monday start",
-      "Mon–Sun monthly calendars for workweeks and classrooms — current and next month previews, then every evergreen month.",
+      "Mon–Sun monthly calendars for workweeks and classrooms — current and next month previews, then every month.",
     )}
 ${adBand(ADS.inArticle, "FreshCalendars_Monday_Top")}`;
     const main = `
@@ -939,7 +944,7 @@ ${adBand(ADS.inArticle, "FreshCalendars_Monday_Top")}`;
 </section>
 <section class="section prose">
   <h2>All months</h2>
-  <p>Every evergreen month page includes a Monday-start PDF/PNG in the gallery.</p>
+  <p>Every month page includes a Monday-start PDF/PNG in the gallery.</p>
   <div class="month-chips">${monthChips()}</div>
   <p>Also see the <a href="/guides/monday-start-calendar.html">Monday-start how-to</a>, <a href="/blank-calendars.html#template-monday-start">undated Monday blank</a>, and <a href="/printable-weekly-calendar.html#template-monday-start">Monday weekly</a>.</p>
 </section>
@@ -994,7 +999,7 @@ ${faqSection(meta)}`;
               lead: "Jan–Dec, custom fiscal spans, and academic Aug–Jul — matching Fresh Calendars downloads to each.",
               body: `
   <h2>Calendar year</h2>
-  <p>January–December. Use the <a href="/printable-calendars.html">dated yearly poster</a> and evergreen monthly pages.</p>
+  <p>January–December. Use the <a href="/printable-calendars.html">dated yearly poster</a> and the monthly pages.</p>
   <h2>Fiscal year</h2>
   <p>Any 12-month accounting span. Print the <a href="/printable-blank-yearly-calendar.html">blank yearly</a> poster and label your fiscal months, or chain dated month PDFs for your span.</p>
   <h2>Academic year</h2>
@@ -1092,7 +1097,7 @@ export function renderPageHtml(
       meta.download.png,
       isNext ? "Fresh Calendars · Next year" : "Fresh Calendars · Yearly",
       isNext
-        ? `Plan ahead with a ${y} year-at-a-glance poster — five formats, twelve mini-months, evergreen next-year hub.`
+        ? `Plan ahead with a ${y} year-at-a-glance poster — five formats and twelve mini-months.`
         : `Poster-style ${y} year-at-a-glance — five formats with twelve accurate mini-months on one sheet.`,
     )}
 ${adBand(ADS.yearTop, "Freshcalendars_New_Year", "header")}`;
@@ -1291,7 +1296,7 @@ ${adBand(ADS.inArticle, "FreshCalendars_Holidays_Top")}`;
     const main = `
 <section class="section prose">
   <h2>All ${y} ${localeLabel} dates (engine-calculated)</h2>
-  <p>Every row is computed from rules — fixed dates, nth weekdays, Easter computus, and relative offsets. Click a holiday for its evergreen when-is page.</p>
+  <p>Every row is computed from rules — fixed dates, nth weekdays, Easter computus, and relative offsets. Click a holiday for its own date page.</p>
   ${alsoLinks}
   <p>Print the year: <a href="/printable-calendars.html">${y} yearly</a> · <a href="/printable-yearly-calendar.html">${y + 1} yearly</a> · <a href="/printable-school-calendar.html">school year hub</a>.</p>
   <div class="table-scroll" role="region" aria-label="${y} holidays table" tabindex="0">
@@ -1344,8 +1349,7 @@ ${faqSection(meta)}`;
     const lead = ed ? ed.lead(h) : `${h.blurb}`;
     const overview = ed
       ? ed.overview(h).map((p) => `<p>${esc(p)}</p>`).join("\n  ")
-      : `<p>${esc(h.name)} falls on <strong>${esc(h.formatted)}</strong> (${esc(h.weekdayName)}). This evergreen page always shows the <strong>next upcoming</strong> ${esc(h.name)} — once ${y}’s date passes, the page rolls to the following year (same idea as our month calendars).</p>
-  <p>${esc(h.blurb)}</p>`;
+      : `<p>${esc(h.name)} ${y} falls on <strong>${esc(h.formatted)}</strong>. ${esc(h.blurb)}</p>`;
     const howCalc = ed ? ed.howCalculated(h) : ruleHowCalculated(def, h);
     const meaning = ed
       ? `<h3>${esc(ed.meaningTitle)}</h3>
@@ -1365,9 +1369,24 @@ ${faqSection(meta)}`;
         : locale === "ca"
           ? `Open the <a href="/${mSlug}-calendars.html" title="${mName} ${y} printable calendar">${mName} ${y} printable</a> and mark ${esc(h.name)} beside other Canadian dates from our <a href="${hub}">${hubLabel}</a> hub. Prefer a wall overview? Grab the <a href="/printable-calendars.html">${y} yearly poster</a>.`
           : `Open the <a href="/${mSlug}-calendars.html" title="${mName} ${y} printable calendar">${mName} ${y} printable</a> and choose the holidays-marked template so ${esc(h.name)} is labeled in-cell when the engine includes it. Prefer a wall overview? Grab the <a href="/printable-calendars.html">${y} yearly poster</a> or plan ahead with <a href="/printable-yearly-calendar.html">${y + 1} yearly</a>.`;
-    const related = holidaysForYear(y, { locale })
-      .filter((x) => x.slug !== slug)
-      .slice(0, 8)
+    // Neighbours by date (across the year boundary), so every when-is page
+    // gets links from the pages around it rather than only from January's.
+    const pool = [y - 1, y, y + 1]
+      .flatMap((yy) => holidaysForYear(yy, { locale }))
+      .sort((a, b) => a.date.getTime() - b.date.getTime());
+    const at = pool.findIndex((x) => x.slug === slug && x.year === y);
+    const seen = new Set([slug]);
+    const nearby: typeof pool = [];
+    for (let d = 1; nearby.length < 8 && d < pool.length; d++) {
+      for (const x of [pool[at + d], pool[at - d]]) {
+        if (x && !seen.has(x.slug) && nearby.length < 8) {
+          seen.add(x.slug);
+          nearby.push(x);
+        }
+      }
+    }
+    const related = nearby
+      .sort((a, b) => a.date.getTime() - b.date.getTime())
       .map(
         (x) =>
           `<a href="${holidayWhenIsPath(x.slug)}" title="When is ${esc(x.name)}?">${esc(x.name)}</a>`,
@@ -1380,8 +1399,8 @@ ${faqSection(meta)}`;
     const hero = `
 <section class="hero"><div class="hero-inner">
   <div class="eyebrow">Fresh Calendars · When is…</div>
-  <h1>${esc(h.name)} ${y} — what day?</h1>
-  <p class="lead"><strong>${esc(h.formatted)}</strong> — ${esc(lead)}</p>
+  <h1>When is ${esc(h.name)} ${y}${locale === "uk" && !/\bUK\b/.test(h.name) ? " in the UK" : locale === "ca" && !/Canad/.test(h.name) ? " in Canada" : ""}?</h1>
+  <p class="lead"><strong>${esc(h.formatted)}</strong>: ${esc(lead)}</p>
   <div class="cta">
     <a class="btn btn-primary" href="/${mSlug}-calendars.html" title="Printable ${mName} ${y} calendar">${mName} calendar</a>
     ${downloadBtn(meta.download.pdf, "Download PDF", meta.downloadTitles.pdf, "ghost")}
@@ -1392,7 +1411,7 @@ ${adBand(ADS.inArticle, "FreshCalendars_WhenIs_Top")}`;
 <section class="section prose">
   <h2>${esc(h.name)} ${y}</h2>
   ${overview}
-  <p><em>Evergreen page:</em> we always show the next upcoming ${esc(h.name)}. After ${y} passes, this URL rolls forward automatically.</p>
+  <p>This page always shows the next ${esc(h.name)}: once ${esc(h.formatted)} has passed, it switches to the ${y + 1} date.</p>
   <h3>How the date is calculated</h3>
   <p>${esc(howCalc)}</p>
   <p>The same holiday engine powers our <a href="${hub}">${hubLabel} list</a>${locale === "us" ? " and US Holidays Marked monthly templates" : ""}.</p>
@@ -1406,7 +1425,7 @@ ${adBand(ADS.inArticle, "FreshCalendars_WhenIs_Top")}`;
     <li>Use the <a href="/printable-weekly-calendar.html">weekly planner pack</a> for the days around ${esc(h.formatted)}.</li>
   </ul>
   ${latestNewsHtml(slug)}${adUnit(ADS.holiday, "FreshCalendars_New_Holidays", "banner")}
-  <h3>Nearby ${y} holidays</h3>
+  <h3>Nearby holidays</h3>
   <div class="side-links" style="grid-template-columns:repeat(auto-fill,minmax(12rem,1fr));display:grid;gap:.5rem">${related}</div>
 </section>
 ${adUnit(ADS.blankMid, "FreshCalendars_WhenIs_Bottom", "banner")}
@@ -1555,7 +1574,7 @@ ${adBand(ADS.inArticle, "FreshCalendars_SchoolHolidays_Top")}`;
     const main = `
 <section class="section prose">
   <h2>Printable school-year calendars</h2>
-  <p>District calendars vary by state and county. Fresh Calendars ships an evergreen <a href="/printable-school-calendar.html">school-year hub</a> with an Aug–Jul overview and month-by-month downloads for ${py}–${py + 1}.</p>
+  <p>District calendars vary by state and county. Fresh Calendars has a <a href="/printable-school-calendar.html">school-year hub</a> with an Aug–Jul overview and month-by-month downloads for ${py}–${py + 1}.</p>
   <p>For US federal observances, see the <a href="/holidays/">holidays list</a>. For DST planning, see <a href="/page/daylight-savings/">daylight saving time</a>.</p>
   <div class="cta">
     <a class="btn btn-primary" href="/printable-school-calendar.html">School year hub</a>
@@ -1593,7 +1612,7 @@ ${adBand(ADS.inArticle, "FreshCalendars_Dst_Top")}`;
     <li><strong>${py + 1} end:</strong> ${esc(usDstFallBack(py + 1).formatted)}, clocks fall back</li>
   </ul>
   <p>Daylight saving time starts on the second Sunday of March and ends on the first Sunday of November. Hawaii and most of Arizona stay on standard time all year.</p>
-  <p>Also see <a href="/when-is/daylight-savings/">when is daylight saving time</a> for the evergreen when-is page.</p>
+  <p>Also see <a href="/when-is/daylight-savings/">when is daylight saving time</a> for the March start date and a printable March calendar.</p>
   <div class="cta">
     <a class="btn btn-primary" href="/printable-calendars.html">${py} yearly calendar</a>
     <a class="btn btn-ghost" href="/holidays/">US holidays</a>

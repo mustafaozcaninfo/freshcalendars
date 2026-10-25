@@ -93,9 +93,9 @@ const EDITORIAL: Record<string, HolidayEditorial> = {
     lead: (h) =>
       `April Fools' Day ${h.year} is ${h.weekdayName}, April 1 — plan the pranks (and the “not at work” boundary) before the month grid fills up.`,
     description: (h) =>
-      `April Fools' Day ${h.year} falls on ${h.formatted}. History of the April 1 prank tradition, how Fresh Calendars places the date, and a printable April ${h.year} calendar to mark the day.`,
+      `April Fools' Day ${h.year} falls on ${h.formatted}. History of the April 1 prank tradition and a printable April ${h.year} calendar to mark the day.`,
     overview: (h) => [
-      `April Fools' Day is observed every year on April 1. In ${h.year} that is a ${h.weekdayName}. Fresh Calendars keeps this when-is URL evergreen: after April 1 ${h.year} passes, the page rolls to the next April 1 automatically.`,
+      `April Fools' Day is observed every year on April 1. In ${h.year} that is a ${h.weekdayName}. After April 1 ${h.year} passes, this page switches to the next April 1.`,
       `Unlike federal holidays, April Fools' is a cultural observance — no banks close — but schools, offices, and media still treat the morning as “joke season.” Putting it on a dated April printable stops the day from sneaking up during spring deadlines.`,
       `Origins are debated (medieval “new year” calendar shifts, French poisson d'avril, British newspaper hoaxes). What matters for planning is the fixed date: always April 1, weekday changing each year.`,
     ],
@@ -128,7 +128,7 @@ const EDITORIAL: Record<string, HolidayEditorial> = {
     lead: (h) =>
       `Ash Wednesday ${h.year} is ${h.formatted} — the Western Lent opener, 46 days before Easter Sunday.`,
     description: (h) =>
-      `Ash Wednesday ${h.year} falls on ${h.formatted}. How Lent is counted from Easter, what the day means, and which printable month calendar to mark for ${h.year}.`,
+      `Ash Wednesday ${h.year} falls on ${h.formatted}. How Lent is counted from Easter and a printable ${monthNumberToName(h.month)} ${h.year} calendar.`,
     overview: (h) => [
       `Ash Wednesday opens Lent in Western Christian calendars. In ${h.year} it falls on ${h.formatted}. Many churches offer ashes and begin fasting or abstinence practices that run through Holy Saturday.`,
       `The date is not fixed on the civil calendar. It rides on Easter Sunday: Ash Wednesday is always 46 days earlier (Lent’s forty weekdays of fasting plus the Sundays that fall inside the season).`,
@@ -139,7 +139,7 @@ const EDITORIAL: Record<string, HolidayEditorial> = {
     meaningTitle: "Lent, ashes, and the spring calendar",
     meaning: (h) => [
       `The name comes from the custom of marking the forehead with ash as a sign of repentance and mortality. For liturgical churches, Ash Wednesday is a solemn fast day; for planners, it is the signal that Holy Week and Easter are six-and-a-half weeks away.`,
-      `Because Easter moves between late March and late April, Ash Wednesday can fall in February or March. Always check the resolved year on this evergreen page rather than copying last year’s February/March assumption.`,
+      `Because Easter moves between late March and late April, Ash Wednesday can fall in February or March. Check the date for the year you need rather than copying last year’s February/March assumption.`,
     ],
     planningTips: (h) => [
       `Mark ${h.formatted} on the ${monthNumberToName(h.month)} ${h.year} printable and draw a light line through to Easter so the Lent window is visible.`,
@@ -163,7 +163,7 @@ const EDITORIAL: Record<string, HolidayEditorial> = {
     lead: (h) =>
       `Boxing Day in Canada ${h.year} is ${h.formatted} — December 26, a statutory holiday in several provinces and a major retail day.`,
     description: (h) =>
-      `Canadian Boxing Day ${h.year} falls on ${h.formatted}. Provincial holiday status, shopping-week planning, and a printable December ${h.year} calendar from Fresh Calendars.`,
+      `Canadian Boxing Day ${h.year} falls on ${h.formatted}. Provincial holiday status, shopping-week planning, and a printable December ${h.year} calendar.`,
     overview: (h) => [
       `Boxing Day is observed on December 26. In ${h.year} that is a ${h.weekdayName}. In Canada it is a statutory holiday in provinces and territories such as Ontario, British Columbia, and Alberta, while coverage differs elsewhere — always confirm your province’s employment standards.`,
       `Federally regulated workplaces list Boxing Day among general holidays under the Canada Labour Code. Retailers treat the 26th (and often the surrounding weekend) as one of the busiest post-Christmas shopping stretches of the year.`,
@@ -198,7 +198,7 @@ const EDITORIAL: Record<string, HolidayEditorial> = {
     lead: (h) =>
       `Canada’s Labour Day ${h.year} is ${h.formatted} — the first Monday of September and the unofficial end of summer.`,
     description: (h) =>
-      `Canadian Labour Day ${h.year} falls on ${h.formatted}. First-Monday rule, federal holiday status, back-to-school timing, and a printable September ${h.year} calendar.`,
+      `Canadian Labour Day ${h.year} falls on ${h.formatted}. First-Monday rule, federal holiday status, and a printable September ${h.year} calendar.`,
     overview: (h) => [
       `Labour Day in Canada is the first Monday in September. In ${h.year} that Monday is ${h.formatted}. It is a federal general holiday and is widely observed across provinces as a statutory day.`,
       `Parades and union commemorations still mark the labour movement’s history, but for most households the day functions as a long weekend: final cottage trips, sports tournaments, and the last pause before a full school/work September.`,
@@ -233,7 +233,7 @@ const EDITORIAL: Record<string, HolidayEditorial> = {
     lead: (h) =>
       `National Day for Truth and Reconciliation ${h.year} is ${h.formatted} — September 30, also observed as Orange Shirt Day.`,
     description: (h) =>
-      `National Day for Truth and Reconciliation ${h.year} falls on ${h.formatted}. Federal holiday context, Orange Shirt Day, and a printable September ${h.year} calendar from Fresh Calendars.`,
+      `National Day for Truth and Reconciliation ${h.year} is ${h.formatted}. Federal holiday context, Orange Shirt Day and a printable calendar.`,
     overview: (h) => [
       `September 30 is Canada’s National Day for Truth and Reconciliation. In ${h.year} it falls on a ${h.weekdayName}. The day honours First Nations, Inuit, and Métis Survivors of the residential school system, their families, and communities.`,
       `Parliament created the federal statutory holiday in 2021 in response to the Truth and Reconciliation Commission’s Call to Action 80. It shares the date with Orange Shirt Day, the Indigenous-led commemorative movement that began with Phyllis Webstad’s story and the message “Every Child Matters.”`,
@@ -488,7 +488,7 @@ const EDITORIAL: Record<string, HolidayEditorial> = {
     overview: (h) => [
       `New Year's Day is a UK public holiday on 1 January. In ${h.year} it falls on a ${h.weekdayName}. When 1 January lands on a weekend, a substitute weekday bank holiday is commonly designated — this page shows the calendar date of New Year’s Day itself.`,
       `Scotland’s Hogmanay celebrations make 1–2 January especially significant; 2 January is also a bank holiday in Scotland. England, Wales, and Northern Ireland focus the statutory holiday on the 1st (plus substitutes when needed).`,
-      `Fresh Calendars rolls this evergreen page to the next upcoming 1 January after the date passes — the same next-occurrence logic as monthly calendars.`,
+      `After the date passes, this page switches to the next 1 January, the same way our monthly calendars roll forward.`,
     ],
     howCalculated: (h) =>
       `Fixed-date rule: 1 January. For ${h.year} that is ${h.weekdayName}, ${h.formatted}. Substitute bank holidays for weekend New Year’s dates are published separately by the government and may add an extra weekday off.`,
@@ -519,11 +519,10 @@ const EDITORIAL: Record<string, HolidayEditorial> = {
     lead: (h) =>
       `New Year's Eve ${h.year} is ${h.formatted} — 31 December, the countdown day before the New Year’s Day bank holiday.`,
     description: (h) =>
-      `UK New Year's Eve ${h.year} falls on ${h.formatted}. Hogmanay and London countdown planning, plus a printable December ${h.year} calendar from Fresh Calendars.`,
+      `UK New Year's Eve ${h.year} falls on ${h.formatted}. Hogmanay and London countdown planning, plus a printable December ${h.year} calendar.`,
     overview: (h) => [
       `New Year's Eve is 31 December every year. In ${h.year} it is a ${h.weekdayName}. It is not a UK bank holiday, but many offices close early and cities run major public events — London fireworks, Edinburgh’s Hogmanay, and local council displays.`,
       `Travel and hospitality demand peaks on the 31st even more than on New Year’s Day. Treat Dec 31–Jan 1 as one logistics block on your December and January printables.`,
-      `This evergreen page always shows the next upcoming 31 December after the date passes.`,
     ],
     howCalculated: (h) =>
       `Fixed-date rule: 31 December. Fresh Calendars maps 31 December ${h.year} to ${h.weekdayName}. No substitute-day logic applies because New Year’s Eve is an observance, not a bank holiday.`,
@@ -682,7 +681,7 @@ export function buildHolidayFaq(
     },
     {
       q: "Does this page change every year?",
-      a: `Yes. ${path} is evergreen: after ${h.name} ${h.year} passes, the page rolls to the next occurrence (same rolling logic as our monthly calendar URLs).`,
+      a: `Yes. After ${h.name} ${h.year} passes, ${path} switches to the next date, the same way our monthly calendar pages roll forward.`,
     },
   ];
   if (ed) base.push(...ed.faq(h));

@@ -118,7 +118,7 @@ export const US_HOLIDAY_RULES: HolidayDef[] = [
     kind: "movable",
     sort: 11,
     rule: { t: "easter_offset", offset: 0 },
-    blurb: "Western Easter Sunday via the Gregorian computus (Anonymous algorithm).",
+    blurb: "Western Easter Sunday, set by the Gregorian church calendar's Easter rule.",
   },
   {
     slug: "earth-day",
