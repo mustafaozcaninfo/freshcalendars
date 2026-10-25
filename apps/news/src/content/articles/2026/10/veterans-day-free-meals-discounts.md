@@ -4,7 +4,7 @@ seoTitle: "Veterans Day Free Meals 2026: Full List + Printable"
 description: "Free meals for veterans on Wednesday, Nov. 11, 2026: the deals confirmed so far, last year's offers to watch, ID and dine-in rules, and a printable cheat sheet."
 type: update
 publishedAt: "2026-10-20T16:55:00-04:00"
-updatedAt: "2026-10-20T17:05:00-04:00"
+updatedAt: "2026-10-25T17:35:00-04:00"
 authors: [alex-morgan]
 category: holidays
 keywords: ["Veterans Day free meals 2026", "Veterans Day discounts 2026", "Veterans Day restaurant deals", "free meals for veterans November 11", "Veterans Day freebies"]
@@ -15,13 +15,13 @@ hero:
   title: "Veterans Day free meals and discounts, Nov. 11, 2026"
   caption: "Restaurants and stores honor veterans and service members on Wednesday, Nov. 11, 2026. Most offers require proof of service."
 summary:
-  - "Nine restaurant chains have announced free Veterans Day meals for Wednesday, Nov. 11, 2026, so far, including Chili's, Golden Corral, In-N-Out Burger and Sizzler."
+  - "Ten restaurant chains have announced free Veterans Day meals for Wednesday, Nov. 11, 2026, so far, including Chili's, Golden Corral, In-N-Out Burger, Red Robin and Sizzler."
   - "Big chains such as Applebee's, Denny's, IHOP, Olive Garden and Texas Roadhouse offered free meals in 2025 and usually announce in early November; we list last year's terms so you know what to expect."
   - "Nearly every offer requires proof of service, most are dine-in only and for the veteran alone, and drinks, tax and tip are usually extra."
   - "National parks are free to enter on Nov. 11 for U.S. citizens and residents, and veterans can get a free lifetime parks pass any day."
 faq:
   - q: "What restaurants give free meals to veterans on Nov. 11, 2026?"
-    a: "Confirmed so far for 2026: Bob Evans, Bonefish Grill, Chili's, Golden Corral, Hoss's Steak & Sea House, In-N-Out Burger, Marzoni's Brick Oven, Rubio's (buy one, get one) and Sizzler, according to Military.com's list updated Oct. 20. Many other chains, including Applebee's, Denny's, IHOP, Olive Garden and Red Lobster, offered free meals in 2025 and have not yet announced 2026 terms."
+    a: "Confirmed so far for 2026: Bob Evans, Bonefish Grill, Chili's, Golden Corral, Hoss's Steak & Sea House, In-N-Out Burger, Marzoni's Brick Oven, Red Robin, Rubio's (buy one, get one) and Sizzler, according to Military.com's list updated Oct. 20 and Red Robin's Oct. 22 press release. Many other chains, including Applebee's, Denny's, IHOP, Olive Garden and Red Lobster, offered free meals in 2025 and have not yet announced 2026 terms."
   - q: "Do spouses get free meals on Veterans Day?"
     a: "Usually not. Most free meals are for the veteran or service member only. Exceptions in the current lists: Bonefish Grill includes families in its 2026 offer, and Starbucks included military spouses in its 2025 free coffee."
   - q: "Is McDonald's doing anything for Veterans Day 2026?"
@@ -40,6 +40,10 @@ sources:
   - title: "Free Veterans Day Meal"
     url: "https://www.chilis.com/restaurant-events/veterans-day"
     publisher: "Chili's Grill & Bar"
+  - title: "Red Robin Offers Free Burger and Bottomless Steak Fries to Veterans and Active-Duty Military on Veterans Day"
+    url: "https://ir.redrobin.com/news-events/press-releases/detail/741/red-robin-offers-free-burger-and-bottomless-steak-fries-to"
+    publisher: "Red Robin Gourmet Burgers"
+    date: "2026-10-22"
   - title: "Fee-Free Days"
     url: "https://www.nps.gov/planyourvisit/fee-free-parks.htm"
     publisher: "National Park Service"
@@ -82,13 +86,13 @@ downloads:
 draft: false
 ---
 
-<p class="callout"><b>Last updated Oct. 20, 2026, 5:05 p.m. ET.</b> Nine chains have announced 2026 offers so far; Chili's has also posted its terms on its own site. Restaurants keep announcing through Nov. 10, and we add each deal once the chain or Military.com's list confirms it.</p>
+<p class="callout"><b>Last updated Oct. 25, 2026, 5:35 p.m. ET.</b> Red Robin confirmed its 2026 offer in an Oct. 22 press release, bringing the total to 10 chains; Chili's has also posted its terms on its own site. Restaurants keep announcing through Nov. 10, and we add each deal once the chain or Military.com's list confirms it.</p>
 
-**Veterans and active-duty service members can eat free at a growing list of restaurants on Veterans Day, Wednesday, Nov. 11, 2026.** Nine chains have announced 2026 offers so far, according to Military.com's list updated Oct. 20. The biggest names, including Applebee's, Denny's, International House of Pancakes (IHOP) and Olive Garden, offered free meals last year and usually confirm in early November. Below are the 2026 deals, last year's terms for the chains still to announce, the fine print that trips people up, and a one-page cheat sheet to print.
+**Veterans and active-duty service members can eat free at a growing list of restaurants on Veterans Day, Wednesday, Nov. 11, 2026.** Ten chains have announced 2026 offers so far, according to Military.com's list updated Oct. 20 and Red Robin's own announcement. The biggest names, including Applebee's, Denny's, International House of Pancakes (IHOP) and Olive Garden, offered free meals last year and usually confirm in early November. Below are the 2026 deals, last year's terms for the chains still to announce, the fine print that trips people up, and a one-page cheat sheet to print.
 
 ## Free meals confirmed for 2026
 
-All on Nov. 11, at participating locations, from Military.com's 2026 list:
+All on Nov. 11, at participating locations, from Military.com's 2026 list and the chains' own pages:
 
 | Restaurant | Offer | Fine print |
 |---|---|---|
@@ -99,6 +103,7 @@ All on Nov. 11, at participating locations, from Military.com's 2026 list:
 | Hoss's Steak & Sea House | Free soup, salad, bread, nacho and dessert bar with iced tea | **Dine-in only**; plus a $10-off-$40 voucher good through Nov. 25 |
 | In-N-Out Burger | Free burger, fries and drink, plus a Veterans Day decal | **Proof of service**; veterans, active duty, Reserve and National Guard |
 | Marzoni's Brick Oven & Brewing | One free 12-ounce draft beer or nonalcoholic drink | **Dine-in only**, one per veteran |
+| Red Robin | Free Red's Big Tavern Burger with Bottomless Steak Fries | **Dine-in only**; military ID or proof of service (Red Robin) |
 | Rubio's | Buy one entrée, get one free with code VETS26 | **In-store only, military ID** |
 | Sizzler | Free lunch and nonalcoholic drink: tri-tip, Malibu chicken or shrimp | **Open to 4 p.m.** |
 
@@ -127,7 +132,6 @@ These chains offered the following on Nov. 11, 2025, according to Military.com, 
 | Olive Garden | Free entrée from a special menu | **Dine-in, proof of service** |
 | Outback Steakhouse | Free three-course meal | **Dine-in, Nov. 10 and 11, valid military ID** |
 | Red Lobster | Free Shrimp & Chips | **Dine-in, proof of service**; drink, tax and tip not included |
-| Red Robin | Free Big Tavern Burger and bottomless side | **Dine-in only** |
 | Shake Shack | Free Big Shack | **Military ID**, while supplies last |
 | Texas Roadhouse | Free meal voucher | Handed out Nov. 11 and redeemable later; the 2025 voucher ran through May 30, 2026 |
 

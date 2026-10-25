@@ -4,6 +4,7 @@ seoTitle: "World Polio Day 2026, Oct. 24: What It Marks"
 description: "World Polio Day is Saturday, Oct. 24, 2026. What the day honors, where wild poliovirus still spreads, the U.S. vaccine schedule and a free printable check."
 type: explainer
 publishedAt: "2026-10-23T02:40:00-04:00"
+updatedAt: "2026-10-25T17:35:00-04:00"
 authors: [alex-morgan]
 category: holidays
 keywords: ["World Polio Day 2026", "World Polio Day October 24", "polio vaccine schedule", "Jonas Salk birthday"]
@@ -92,6 +93,8 @@ downloads:
     pages: 1
 draft: false
 ---
+
+<p class="callout"><b>Updated Sun., Oct. 25, 2026.</b> World Polio Day 2026, Saturday, Oct. 24, has passed. It is Oct. 24 every year; in 2027 it falls on a Sunday. The Global Polio Eradication Initiative (GPEI) keeps posting case counts weekly.</p>
 
 **World Polio Day is Saturday, Oct. 24, 2026.** It falls on Oct. 24 every year. Rotary International set it up to commemorate Jonas Salk, who led the team that developed the first polio vaccine. It is an awareness day, not a holiday, so offices, schools and banks keep their usual hours. The same date is United Nations Day, one of several observances listed in our [Oct. 20 guide to what day it is](/news/october-20-2026-what-day-holidays-observances/).
 

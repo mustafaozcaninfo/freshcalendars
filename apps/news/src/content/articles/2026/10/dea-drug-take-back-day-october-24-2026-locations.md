@@ -4,6 +4,7 @@ seoTitle: "DEA Drug Take Back Day Oct. 24, 2026: Hours and Sites"
 description: "Drug Enforcement Administration (DEA) Take Back Day is Saturday, Oct. 24, 2026, 10 a.m.-2 p.m. How to find a site, what is accepted, year-round options."
 type: news
 publishedAt: "2026-10-21T05:50:00-04:00"
+updatedAt: "2026-10-25T17:35:00-04:00"
 authors: [alex-morgan]
 category: planning
 keywords: ["DEA Take Back Day October 24 2026", "drug take back day near me", "National Prescription Drug Take Back Day 2026", "where to dispose of old medications", "what can you drop off at drug take back day"]
@@ -61,6 +62,8 @@ downloads:
     pages: 1
 draft: false
 ---
+
+<p class="callout"><b>Updated Sun., Oct. 25, 2026.</b> Take Back Day 2026, Saturday, Oct. 24, has passed. The Drug Enforcement Administration (DEA) had not posted collection totals or the date of the spring 2027 event when we checked. Pharmacies and other year-round drop-off sites below still take unused medicines.</p>
 
 **The Drug Enforcement Administration (DEA) holds its 31st National Prescription Drug Take Back Day on Saturday, Oct. 24, 2026, from 10 a.m. to 2 p.m.** More than 4,400 collection sites, run with more than 4,300 law enforcement partners, will take unused and expired prescription medicines for free, the agency said in its Oct. 16 announcement. The goal is to get pills out of home medicine cabinets, where they can be misused, stolen or taken by mistake. Below: what to bring, how to find a site, how much past events collected, and what to do if you cannot go on Saturday.
 

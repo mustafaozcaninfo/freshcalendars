@@ -4,6 +4,7 @@ seoTitle: "iPhone Duo October 24: US Stock, Price and Pickup"
 description: "iPhone Duo went on sale in the US on Oct. 23. Prices start at $1,999. How to check Apple Store pickup on Saturday, Oct. 24, and what to confirm before you buy."
 type: news
 publishedAt: "2026-10-23T10:50:00-04:00"
+updatedAt: "2026-10-25T17:35:00-04:00"
 authors: [jordan-bennett]
 category: retail-dates
 keywords: ["iPhone Duo October 24", "iPhone Duo availability", "iPhone Duo pickup", "iPhone Duo price", "iPhone Duo in stock"]
@@ -118,7 +119,7 @@ downloads:
 draft: false
 ---
 
-<p class="callout"><b>Last checked Oct. 23, 2026, 10:50 a.m. Eastern Time (ET).</b> Prices, colors and specifications are from Apple's own pages. Store stock changes by the hour, and we do not list stock for any single store.</p>
+<p class="callout"><b>Updated Sun., Oct. 25, 2026.</b> The Oct. 24 pickup day has passed. Prices, colors and specifications below are from Apple's own pages. Pickup and walk-in stock still change by store and by the hour, so check your store on Apple's site before you go; we do not list stock for any single store.</p>
 
 **Yes, you can buy an iPhone Duo in the US on Saturday, Oct. 24, 2026, but getting one that day depends on your local Apple Store.** Apple's first foldable iPhone went on sale on Friday, Oct. 23, starting at $1,999. MacRumors reported that Apple's US online store told shoppers to check back on Saturday for Apple Store pickup reservations, and Apple told Reuters that walk-in stock would be limited.
 

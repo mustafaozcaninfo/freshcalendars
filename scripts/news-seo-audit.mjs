@@ -361,6 +361,8 @@ check("08-ABBREV", "Abbreviations defined on first use in article prose (§08 l.
     const COMMON = new Set(["US", "U.S.", "UK", "EU", "ET", "AM", "PM", "TV", "NBC", "ID", "UTC", "NYSE", "SAT", "ACT", "EDM", "AARP", "AAA", "DST", "EST", "EDT", "CST", "CDT", "MST", "MDT", "PST", "PDT", "AKST", "AKDT", "GMT", "BST", "CET", "CEST", "COLA", "SSI", "II", "DC", "NASA", "IRS", "PDF", "PNG",
       // Proper names written in capitals, not abbreviations.
       "TIME", "GOV", "NORC", "LEGO", "PEAK", "IKEA", "H-E-B", "CVS", "UPS", "FOX", "ESPN", "CBS",
+      // Album titles and an artist name styled in capitals (Premios Billboard winners).
+      "DINASTIA", "LUX", "MAG",
       // Traffic-analytics company name and the REAL ID program name, proper nouns in capitals.
       "INRIX", "REAL",
       // Words quoted as printed in capitals ("10-22-38 ASTORIA", the first xerographic copy).

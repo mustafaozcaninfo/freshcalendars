@@ -2,7 +2,8 @@
  * Veterans Day 2026 free meals cheat sheet for /news/ (veterans-day-free-meals-discounts).
  * One US Letter page: offers confirmed for 2026 first, then 2025 offers to watch for, with the
  * fine print as short tags, and a cut-out wallet card listing accepted proof of service.
- * Offers come from Military.com's 2026 and 2025 lists (checked Oct. 20, 2026) and brand pages;
+ * Offers come from Military.com's 2026 and 2025 lists (checked Oct. 20, 2026) and brand pages
+ * or press releases (Red Robin, Oct. 22, 2026);
  * no logos. Usage: pnpm fc news-veterans
  */
 import { LETTER, doc, fontFaces } from "./julian.js";
@@ -17,6 +18,7 @@ export const CONFIRMED_2026: Deal[] = [
   ["Golden Corral", "Free thank-you meal, 4 p.m. to close", ["D", "T"]],
   ["Hoss's Steak & Sea House", "Free soup, salad and dessert bar + iced tea", ["D"]],
   ["In-N-Out Burger", "Free burger, fries and drink + decal", ["ID"]],
+  ["Red Robin", "Free Red's Big Tavern Burger + Bottomless Steak Fries", ["D", "ID"]],
   ["Marzoni's Brick Oven", "One free draft beer or nonalcoholic drink", ["D"]],
   ["Rubio's", "Buy one entrée, get one free (code VETS26)", ["ID"]],
   ["Sizzler", "Free lunch + drink, open to 4 p.m.", ["T"]],
@@ -35,7 +37,6 @@ export const WATCH_2025: [string, Deal[]][] = [
     ["Applebee's", "Free meal, select menu", ["D"]],
     ["Olive Garden", "Free entrée, special menu", ["D", "ID"]],
     ["Red Lobster", "Free Shrimp & Chips", ["D", "ID"]],
-    ["Red Robin", "Free Big Tavern Burger + side", ["D"]],
     ["Texas Roadhouse", "Free meal voucher for a later visit", []],
     ["Outback Steakhouse", "Free 3-course meal, Nov. 10-11", ["D", "ID"]],
     ["Buffalo Wild Wings", "10 free boneless wings + fries", ["D", "ID"]],
@@ -80,7 +81,7 @@ function cheatSheet(fonts: string): string {
       <div class="side"><b>Year-round store discounts</b><ul><li>Home Depot: 10% off, up to $400 a year (register in the app)</li><li>Lowe's: 10% off most full-price items (verify with ID.me)</li></ul></div></div>
       <div>${WATCH_2025.map(([h, l]) => tbl(`Offered in 2025: ${h}`, l, false)).join("")}</div></div>
     <div class="cut"><div><b>✂ Wallet card: bring one of these</b><ol><li>Veteran ID Card (VA) or Veteran Health Identification Card</li><li>Military ID: Common Access Card or Uniformed Services ID</li><li>Driver's license or state ID with a veteran designation</li><li>DD-214 (a copy or a photo on your phone)</li></ol></div><div><b>Before you go</b>Most offers are for the veteran only, not guests; drinks, tax and tip are usually extra; many are dine-in only and limited to Nov. 11. Wear the uniform only where the offer says it counts.</div></div>
-    <p class="note">Green boxes: offers announced for 2026 (Military.com list updated Oct. 20, 2026). Gray boxes: offered in 2025; watch for each chain's 2026 announcement. National Park Service, Department of Veterans Affairs, Home Depot and Lowe's terms as published. Updates: freshcalendars.com/news/veterans-day-free-meals-discounts/</p>
+    <p class="note">Green boxes: offers announced for 2026 (Military.com list updated Oct. 20, 2026, and chain announcements through Oct. 25). Gray boxes: offered in 2025; watch for each chain's 2026 announcement. National Park Service, Department of Veterans Affairs, Home Depot and Lowe's terms as published. Updates: freshcalendars.com/news/veterans-day-free-meals-discounts/</p>
     <div class="foot">Free printable from Fresh Calendars · freshcalendars.com/news/veterans-day-free-meals-discounts/</div></section>`;
   return doc(fonts, LETTER, css, [page]);
 }

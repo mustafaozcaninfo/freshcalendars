@@ -4,6 +4,7 @@ seoTitle: "Early Voting Starts Oct. 24 in Michigan and New York"
 description: "Early in-person voting runs Oct. 24 to Nov. 1, 2026, in Michigan and New York. Site hours, how to find your location, ID and registration rules, NYC hours."
 type: news
 publishedAt: "2026-10-21T05:55:00-04:00"
+updatedAt: "2026-10-25T17:35:00-04:00"
 authors: [alex-morgan]
 category: elections
 keywords: ["early voting Michigan 2026", "early voting New York 2026", "early voting starts October 24", "NYC early voting hours", "where do I vote early"]
@@ -70,6 +71,8 @@ downloads:
     pages: 1
 draft: false
 ---
+
+<p class="callout"><b>Updated Sun., Oct. 25, 2026.</b> Early voting is under way in Michigan and New York and runs through Sunday, Nov. 1. New York City sites stay open later, 10 a.m. to 8 p.m., on Tuesday, Oct. 27, and Wednesday, Oct. 28. New York registration closed Oct. 24; Michigan voters can still register in person at their clerk's office through Election Day.</p>
 
 **Early in-person voting for the Nov. 3, 2026 general election starts Saturday, Oct. 24, in Michigan and New York, and runs nine days through Sunday, Nov. 1.** It works like Election Day. You mark a paper ballot at a site and feed it into a scanner yourself. In Michigan, sites are open at least eight hours every day of the period. In New York, each county sets its own hours, and New York City has already posted its schedule. Below: the dates, how to find your site, ID and registration rules in each state, and a free printable plan.
 

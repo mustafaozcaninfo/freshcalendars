@@ -4,6 +4,7 @@ seoTitle: "Marine Corps Marathon 2026: Start Times, Road Closures"
 description: "The 51st Marine Corps Marathon is Sunday, Oct. 25, 2026. All runners start at 7:20 a.m. Eastern Daylight Time (EDT). Closures, cutoffs and Beat the Bridge."
 type: news
 publishedAt: "2026-10-25T02:50:00-04:00"
+updatedAt: "2026-10-25T17:35:00-04:00"
 authors: [jordan-bennett]
 category: planning
 keywords: ["Marine Corps Marathon 2026", "Marine Corps Marathon road closures", "Marine Corps Marathon start time", "beat the bridge time"]
@@ -65,6 +66,10 @@ faq:
   - q: "Will Metrobus run on its normal routes on race day?"
     a: "No. WMATA says buses detour from 2:30 a.m. until 7:00 p.m. on Sunday, Oct. 25. The detour notice lists routes A11, A1X, A27, A40, A58, A66, A76, D10, D1X, D30, D32, D40, D4X, D44, D50, D60, D6X, D74, D80, F44 and F62."
 sources:
+  - title: "51st Marine Corps Marathon"
+    url: "https://www.stripes.com/theaters/us/2026-10-25/51st-marine-corps-marathon-23256730.html"
+    publisher: "Stars and Stripes"
+    date: "2026-10-25"
   - title: "Race Day"
     url: "https://www.marinemarathon.com/event/marine-corps-marathon/race-day/"
     publisher: "Marine Corps Marathon"
@@ -106,6 +111,8 @@ downloads:
     pages: 1
 draft: false
 ---
+
+<p class="callout"><b>Updated Sun., Oct. 25, 2026, 5:35 p.m. ET.</b> The 51st Marine Corps Marathon was run on Sunday morning. Marine Corps Maj. Kyle King won the men's race in 2:17:31, his third straight win, and Kaylee Slade won the women's race in 2:44:34, Stars and Stripes reported. The official results page had not been updated for 2026 when we checked. The times and closures below are the plan as published before the race.</p>
 
 The 51st Marine Corps Marathon is on Sunday, Oct. 25, 2026, and all runners start at 7:20 a.m. Eastern Daylight Time (EDT), according to the Marine Corps Marathon race-day page. Wheels start at 7:05 a.m. and Duos at 7:07 a.m. Every participant must pass 14th and D Streets by 1:15 p.m., the "Beat the Bridge" time, and Arlington County lists road closures from about 3:00 a.m.
 
