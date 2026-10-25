@@ -177,7 +177,7 @@ Faz 1: Git içinde Markdown/MDX (content collections). Yayın akışı = commit 
 | `category` | `reference('categories')` | articleSection, breadcrumb |
 | `keywords` | 1–5 string | `NewsArticle.keywords` (`news:keywords` Google tarafından kullanılmıyor, eklenmez) |
 | `hero` | `{ image(), alt (zorunlu), caption?, credit?, license? }` kaynak ≥1600 px | og:image, ImageObject, LCP |
-| `dateline` | ör. `New York` | `NewsArticle.dateline` + görünür |
+| `dateline` | kullanılmıyor (2026-10-25) | eski yazılarda kalabilir; sayfada ve şemada gösterilmez |
 | `type` | `news | explainer | analysis | update` | şablon varyantı, schema (`NewsArticle` / `AnalysisNewsArticle` / `BackgroundNewsArticle`) |
 | `summary` | 2–4 madde | “Key points” kutusu |
 | `faq` | `{q,a}[]` opsiyonel | görünür FAQ (FAQPage yok) |
@@ -316,7 +316,7 @@ AdSense yüklendiğinde Best Practices üçüncü-taraf çerez/konsol uyarılar�
 ## 9. Google News uygunluğu ve E-E-A-T
 
 ### 9.1 Zorunlu güven yüzeyi (yayından önce)
-- Her makalede görünür byline (yazar sayfasına link), görünür yayın ve güncelleme tarihi/saati (ET), dateline.
+- Her makalede görünür byline (yazar sayfasına link), görünür yayın ve güncelleme tarihi/saati (ET). Dateline 2026-10-25 itibarıyla kullanılmıyor.
 - Yazar sayfaları: gerçek kişi, gerçek foto, bio, iletişim; uydurma kimlik/yetkinlik **yok** (SEO-HARITASI §07 l.2148).
 - About News, Editorial Policy (kaynak kullanımı, AI kullanımı beyanı, düzeltme süreci), Corrections Policy, Masthead, Contact.
 - Organization JSON-LD’de bu sayfalara `publishingPrinciples` vb. referansları.

@@ -2,7 +2,7 @@
  * Article <head> tags and JSON-LD @graph (docs/NEWS-ROADMAP.md §1.2, §1.3).
  * Pure functions on plain data so they can be unit-tested without Astro.
  */
-import { NEWS_NAME, SITE_ORIGIN, TRUST_PAGES, absNewsUrl } from "./site.ts";
+import { NEWS_NAME, PUBLISHER, SITE_ORIGIN, TRUST_PAGES, absNewsUrl } from "./site.ts";
 
 export const ORG_ID = `${SITE_ORIGIN}/#organization`;
 export const WEBSITE_ID = `${SITE_ORIGIN}/#website`;
@@ -38,7 +38,6 @@ export interface ArticleSeo {
   authors: AuthorSeo[];
   category: { slug: string; name: string };
   keywords: string[];
-  dateline: string;
   hero: {
     /** 16:9 main image (og:image, primaryImageOfPage) */
     main: ImageVariant & { type: string };
@@ -121,7 +120,16 @@ function organizationNode(): Record<string, unknown> {
     "@type": "Organization",
     "@id": ORG_ID,
     name: NEWS_NAME,
+    legalName: PUBLISHER.legalName,
     url: `${SITE_ORIGIN}/`,
+    address: {
+      "@type": "PostalAddress",
+      streetAddress: PUBLISHER.streetAddress,
+      addressLocality: PUBLISHER.addressLocality,
+      addressRegion: PUBLISHER.addressRegion,
+      postalCode: PUBLISHER.postalCode,
+      addressCountry: PUBLISHER.addressCountry,
+    },
     logo: {
       "@type": "ImageObject",
       "@id": `${SITE_ORIGIN}/#logo`,
@@ -253,7 +261,6 @@ export function articleGraph(a: ArticleSeo): Record<string, unknown> {
         // og:image first so the share image and the structured-data image match; then 16:9, 4:3, 1:1.
         image: [a.hero.main.url, ...a.hero.crops.map((c) => c.url)],
         thumbnailUrl: a.hero.crops[0]?.url,
-        dateline: a.dateline,
         wordCount: a.wordCount,
         timeRequired: `PT${a.readingMinutes}M`,
         isAccessibleForFree: true,

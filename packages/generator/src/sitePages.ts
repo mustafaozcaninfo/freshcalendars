@@ -153,7 +153,16 @@ function metaTags(meta: SeoMeta, opts: { howTo?: boolean } = {}): string {
       "@type": "Organization",
       "@id": "https://freshcalendars.com/#organization",
       name: "Fresh Calendars",
+      legalName: "Fresh Calendars, Inc.",
       url: "https://freshcalendars.com/",
+      address: {
+        "@type": "PostalAddress",
+        streetAddress: "295 NW Lost Springs Terrace",
+        addressLocality: "Portland",
+        addressRegion: "OR",
+        postalCode: "97229",
+        addressCountry: "US",
+      },
       logo: {
         "@type": "ImageObject",
         "@id": "https://freshcalendars.com/#logo",
@@ -1593,6 +1602,8 @@ ${adBand(ADS.inArticle, "FreshCalendars_Contact_Top")}`;
     </div>
     <p id="contact-msg" class="form-msg" role="status" aria-live="polite"></p>
   </form>
+  <h2>Mailing address</h2>
+  <p>Fresh Calendars, Inc.<br />295 NW Lost Springs Terrace<br />Portland, OR 97229<br />United States</p>
 </section>
 ${adUnit(ADS.homeMid, "FreshCalendars_Contact_Bottom", "banner")}
 ${faqSection(meta)}`;

@@ -2591,7 +2591,8 @@ sağlanmış resmi kaynaklar ve varsa izinli gerçek uzman/kullanıcı katkısı
 ayrı iç QA kaydına gider. Public sayfaya inceleme/yayın tarihi ekleme.
 ```
 
-> **İstisna — FreshCalendars `/news/`:** Haber makalelerinde görünür byline, yayın ve güncelleme tarihi/saati (ET) ve dateline **zorunludur** (Google News güven sinyali). Bkz. `docs/NEWS-ROADMAP.md` §9.1.
+> **İstisna — FreshCalendars `/news/`:** Haber makalelerinde görünür byline ve yayın ve güncelleme tarihi/saati (ET) **zorunludur** (Google News şeffaflık şartı: "clear dates and bylines"). Bkz. `docs/NEWS-ROADMAP.md` §9.1.
+> **Dateline (25 Ekim 2026 kararı):** kullanılmaz. Google'ın News politikalarında dateline şartı yok; varsayılan "New York" haberin yazıldığı yeri göstermediği için okuru yanıltıyordu ve gizli metin olarak duruyordu. `news:seo-audit` 08-DATELINE artık dateline'ın geri gelmediğini kontrol eder.
 
 ## Yazar QA kontrol listesi
 

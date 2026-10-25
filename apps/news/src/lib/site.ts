@@ -8,6 +8,16 @@ export const NEWS_DESK = {
   path: "/news/author/news-desk/",
 };
 
+/** The company behind freshcalendars.com (Google News transparency: who publishes and how to reach them). */
+export const PUBLISHER = {
+  legalName: "Fresh Calendars, Inc.",
+  streetAddress: "295 NW Lost Springs Terrace",
+  addressLocality: "Portland",
+  addressRegion: "OR",
+  postalCode: "97229",
+  addressCountry: "US",
+} as const;
+
 /** Absolute URL with a trailing slash for directory paths (matches engine absUrl). */
 export function absNewsUrl(path: string): string {
   const p = path.startsWith("/") ? path : `/${path}`;

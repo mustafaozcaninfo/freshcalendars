@@ -36,7 +36,9 @@ const articles = defineCollection({
         authors: z.array(reference("authors")).min(1),
         category: reference("categories"),
         keywords: z.array(z.string().min(2)).min(1).max(5),
-        dateline: z.string().min(2),
+        // Legacy: no longer rendered or put in JSON-LD (a default city we did not report from
+        // would mislead readers). Kept optional so older stories still parse.
+        dateline: z.string().min(2).optional(),
         hero: z.object({
           // Width can't be refined here (image() resolves after parsing); checked in lib/articles.ts.
           src: image(),

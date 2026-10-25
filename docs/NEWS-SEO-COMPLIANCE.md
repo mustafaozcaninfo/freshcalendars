@@ -34,7 +34,7 @@ Doküman (2.666 satır, bölüm 00–08) baştan sona okundu, 96 kural çıkarı
 | Tek Organization varlığı, `sameAs` yalnız doğrulanmış (yok) (§07 l.2148–2159) | PASS | `#organization` 17 sayfada aynı |
 | Uydurma uzman/kişi yok (§02 l.2587, §07 l.2148) | PASS | Kurumsal “News Desk” byline, Person düğümü yok |
 | Güven sayfaları + Organization linkleri (§07 entity checklist) | PASS | about, editorial-policy, corrections-policy, masthead |
-| /news/ istisnası: görünür byline + yayın/güncelleme saati ET + dateline (l.2591 notu) | PASS | — |
+| /news/ istisnası: görünür byline + yayın/güncelleme saati ET (l.2591 notu); dateline kullanılmaz (2026-10-25) | PASS | — |
 | Her haberde ≥1 birincil, linkli kaynak (§02 Who/How/Why) | PASS | SSA, NIST, OPM, Fed, House Clerk, AMS, NASA, GOV.UK… |
 | Dış → çekirdek iç link, yetim sayfa yok (§04 l.1041, l.1210) | PASS | Her makale ≥2 takvim sayfasına link; 0 yetim |
 | Konu odağı kaynak bağlamı içinde (§04 l.1010–1015) | PASS | 7 takvim/tarih kategorisi |

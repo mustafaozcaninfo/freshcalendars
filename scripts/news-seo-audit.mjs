@@ -293,7 +293,7 @@ check("07-TRUST-PAGES", "About / editorial / corrections / masthead pages exist 
 });
 
 // ── News-specific exception to §08 l.2591 (visible dates) ───────────────────
-check("08-NEWS-DATES", "/news/ exception: visible byline, published and updated date/time ET, dateline (l.2591 note)", () =>
+check("08-NEWS-DATES", "/news/ exception: visible byline, published and updated date/time ET (l.2591 note)", () =>
   each(articleUrls, (u, h) => (/class="byline"/.test(h) && /Published <time/.test(h) && / ET<\/time>/.test(h) ? null : "byline/date missing")));
 check("08-SOURCES", "Every news/update article cites ≥1 primary source with a link (§02 SOP Who/How/Why, editorial policy)", () =>
   each(articleUrls, (u, h) => ((h.match(/<section class="sources"[\s\S]*?<\/section>/)?.[0].match(/<a href="https?:/g) ?? []).length >= 1 ? null : "no linked sources")));
@@ -453,8 +453,10 @@ check("02-IMG-FILENAME", "Story image file names are descriptive (slug words, no
     const slugWords = u.split("/").filter(Boolean).pop().split("-").filter((w) => w.length > 3);
     return slugWords.filter((w) => base.includes(w)).length >= Math.min(2, slugWords.length) ? null : `og:image "${base}"`;
   }));
-check("08-DATELINE", "Visible dateline and NewsArticle.dateline on every story (§08 l.2594)", () =>
-  each(articleUrls, (u, h) => (!/<p class="dateline"/.test(h) ? "no visible dateline" : ART(u).dateline ? null : "schema dateline missing")));
+// Datelines were a default city ("New York") that did not say where a story was reported, so they
+// are no longer rendered; this keeps one from coming back as hidden text or schema (2026-10-25).
+check("08-DATELINE", "No dateline in the page or NewsArticle (§08 l.2594, revised 2026-10-25)", () =>
+  each(articleUrls, (u, h) => (/class="dateline"/.test(h) ? "dateline in HTML" : ART(u).dateline ? "schema dateline" : null)));
 check("08-NO-OPINION", "No first-person opinion in factual news prose (§08 l.2298, l.2372, l.2600)", () =>
   each(articleUrls, (u, h) => { const m = plain(proseOf(h)).match(/\b(I think|I believe|we believe|in my opinion|in our opinion|honestly,|personally,|I'd say|we'd say|I feel)\b/i); return m ? `"${m[0]}"` : null; }));
 check("01-THIN", "No thin stories: at least 300 words of body text (§02 l.548, §08 token economy)", () =>

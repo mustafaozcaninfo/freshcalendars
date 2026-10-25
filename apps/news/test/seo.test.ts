@@ -23,7 +23,6 @@ const article: ArticleSeo = {
   authors: [{ kind: "Organization", name: "Fresh Calendars News Desk", path: "/news/author/news-desk/", sameAs: [] }],
   category: { slug: "holidays", name: "Holidays" },
   keywords: ["Veterans Day 2026", "November 11 2026"],
-  dateline: "New York",
   hero: { main: { ...img(1344, 756), type: "image/webp" }, crops: [img(1200, 675), img(1200, 900), img(1200, 1200)], alt: "Calendar page marked Nov. 11" },
   wordCount: 450,
   readingMinutes: 2,
@@ -75,6 +74,13 @@ describe("articleGraph", () => {
     assert.equal(org.correctionsPolicy, "https://freshcalendars.com/news/corrections-policy/");
     assert.equal(org.masthead, "https://freshcalendars.com/news/masthead/");
     assert.equal(org.logo.width, 512);
+  });
+  it("names the publishing company and its address, and carries no dateline", () => {
+    const org = byType("Organization")[0]!;
+    assert.equal(org.legalName, "Fresh Calendars, Inc.");
+    assert.equal(org.address.addressLocality, "Portland");
+    assert.equal(org.address.postalCode, "97229");
+    assert.equal(byType("NewsArticle")[0]!.dateline, undefined);
   });
 });
 

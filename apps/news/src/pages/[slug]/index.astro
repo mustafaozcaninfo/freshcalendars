@@ -82,7 +82,6 @@ const seo: ArticleSeo = {
   authors: authorSeo,
   category: { slug: category.id, name: category.data.name },
   keywords: d.keywords,
-  dateline: d.dateline,
   hero: {
     main: hero.main,
     crops: hero.crops,
@@ -146,7 +145,6 @@ const keyDates = upcomingFor(new Set([article.id]));
       publishedAt={d.publishedAt}
       modifiedAt={modifiedAt}
       readingMinutes={minutes}
-      dateline={d.dateline}
     />
     <Hero src={d.hero.src} alt={d.hero.alt} title={d.hero.title ?? d.title} caption={d.hero.caption} credit={d.hero.credit} license={d.hero.license} />
     <AdSlot unit={6} variant="top" />
