@@ -4,7 +4,7 @@ seoTitle: "Starbucks Holiday Menu 2026: Nov. 5 Date, Red Cup Day"
 description: "Starbucks' 2026 holiday menu returns Thursday, Nov. 5, with Peppermint Mocha and a new Tiramisu Velvet Latte. Red Cup Day's date is not yet announced."
 type: news
 publishedAt: "2026-10-24T00:50:00-04:00"
-authors: [news-desk]
+authors: [jordan-bennett]
 category: retail-dates
 keywords: ["Starbucks holiday menu 2026", "Starbucks red cup day 2026", "when does Starbucks holiday menu come out 2026", "Starbucks holiday cups 2026"]
 dateline: "New York"

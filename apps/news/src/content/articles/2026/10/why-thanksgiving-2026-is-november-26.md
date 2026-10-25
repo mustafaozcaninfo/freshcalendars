@@ -5,7 +5,7 @@ description: "Thanksgiving 2026 is Thursday, Nov. 26. See a live countdown, how 
 type: explainer
 publishedAt: "2026-10-17T16:30:00-04:00"
 updatedAt: "2026-10-24T00:50:00-04:00"
-authors: [news-desk]
+authors: [alex-morgan]
 category: holidays
 keywords: ["thanksgiving 2026", "how many days until thanksgiving 2026", "thanksgiving 2026 date and day", "thanksgiving 2026 calendar", "how long until thanksgiving 2026"]
 dateline: "New York"

@@ -4,7 +4,7 @@ seoTitle: "Thanksgiving 2026 Planner: Countdown and Turkey Math"
 description: "Thanksgiving is Thursday, Nov. 26, 2026. A dated countdown, turkey to buy at one pound per guest and oven times from the U.S. Department of Agriculture (USDA)."
 type: explainer
 publishedAt: "2026-10-23T15:00:00-04:00"
-authors: [news-desk]
+authors: [alex-morgan]
 category: holidays
 keywords: ["Thanksgiving planner 2026", "Thanksgiving countdown checklist", "Thanksgiving planning timeline", "how much turkey per person"]
 dateline: "New York"

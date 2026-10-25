@@ -154,6 +154,7 @@ function metaTags(meta: SeoMeta, opts: { howTo?: boolean } = {}): string {
       "@id": "https://freshcalendars.com/#organization",
       name: "Fresh Calendars",
       legalName: "Fresh Calendars, Inc.",
+      email: "info@freshcalendars.com",
       url: "https://freshcalendars.com/",
       address: {
         "@type": "PostalAddress",
@@ -1602,6 +1603,8 @@ ${adBand(ADS.inArticle, "FreshCalendars_Contact_Top")}`;
     </div>
     <p id="contact-msg" class="form-msg" role="status" aria-live="polite"></p>
   </form>
+  <h2>Email</h2>
+  <p><a href="mailto:info@freshcalendars.com">info@freshcalendars.com</a></p>
   <h2>Mailing address</h2>
   <p>Fresh Calendars, Inc.<br />295 NW Lost Springs Terrace<br />Portland, OR 97229<br />United States</p>
 </section>
@@ -1681,7 +1684,7 @@ ${faqSection(meta)}`;
   <div class="eyebrow">Fresh Calendars · Legal</div>
   <h1>${esc(meta.title.split("|")[0]!.trim())}</h1>
   <p class="lead">${esc(lead)}</p>
-  <p class="lead" style="font-size:.95rem">Last updated: August 3, 2026</p>
+  <p class="lead" style="font-size:.95rem">Last updated: October 25, 2026</p>
 </div></section>
 ${adBand(ADS.inArticle, `FreshCalendars_${label}_Top`)}`;
   const legalMain = `
@@ -1694,7 +1697,7 @@ ${faqSection(meta)}`;
 
 function privacyPolicyBody(): string {
   return `
-<p>This Privacy Policy explains how <strong>Fresh Calendars</strong> (“we”, “us”, “our”) handles information on <a href="https://freshcalendars.com/">https://freshcalendars.com/</a> (the “Site”). We take visitor privacy seriously. If you have questions, use our <a href="/page/contact/">contact form</a>.</p>
+<p>This Privacy Policy explains how <strong>Fresh Calendars, Inc.</strong> (“Fresh Calendars”, “we”, “us”, “our”) handles information on <a href="https://freshcalendars.com/">https://freshcalendars.com/</a> (the “Site”). We take visitor privacy seriously. If you have questions, use our <a href="/page/contact/">contact form</a>.</p>
 
 <h2>1. Scope</h2>
 <p>This policy covers online activity on the Site only — browsing, downloads, advertising impressions, and messages you send through our contact form. It does not cover offline collection or third-party sites we link to.</p>
@@ -1778,13 +1781,13 @@ function privacyPolicyBody(): string {
 <p>We may update this Privacy Policy from time to time. The “Last updated” date at the top of this page will change when we do. Continued use of the Site after an update means you accept the revised policy. For material changes we may also highlight the update on the Site when practical.</p>
 
 <h2>12. Contact</h2>
-<p>Questions about privacy: <a href="/page/contact/">Contact Fresh Calendars</a>.</p>
+<p>Questions about privacy: email <a href="mailto:info@freshcalendars.com">info@freshcalendars.com</a>, use the <a href="/page/contact/">contact form</a>, or write to Fresh Calendars, Inc., 295 NW Lost Springs Terrace, Portland, OR 97229, United States.</p>
 `;
 }
 
 function termsOfUseBody(): string {
   return `
-<p>Please read these Terms of Use (“Terms”) carefully before using <a href="https://freshcalendars.com/">https://freshcalendars.com/</a> (the “Service” or “Site”) operated by <strong>Fresh Calendars</strong> (“we”, “us”, “our”). By accessing or using the Service you agree to these Terms. If you disagree with any part, do not use the Service.</p>
+<p>Please read these Terms of Use (“Terms”) carefully before using <a href="https://freshcalendars.com/">https://freshcalendars.com/</a> (the “Service” or “Site”) operated by <strong>Fresh Calendars, Inc.</strong>, an Oregon company at 295 NW Lost Springs Terrace, Portland, OR 97229 (“Fresh Calendars”, “we”, “us”, “our”). By accessing or using the Service you agree to these Terms. If you disagree with any part, do not use the Service.</p>
 
 <h2>1. The Service</h2>
 <p>Fresh Calendars provides free printable calendar templates (including PNG and PDF downloads), holiday reference pages, and related informational content. Features, URLs, and available years may change as calendars roll forward automatically.</p>
@@ -1843,13 +1846,13 @@ function termsOfUseBody(): string {
 <p>You agree to indemnify and hold harmless Fresh Calendars and its operators from claims, damages, losses, and expenses (including reasonable legal fees) arising from your misuse of the Service, your redistribution of files in violation of these Terms, or your violation of law or third-party rights.</p>
 
 <h2>14. Governing law</h2>
-<p>These Terms are governed by the laws of the State of California, United States, without regard to conflict-of-law rules. Courts located in California will have exclusive jurisdiction over disputes arising from these Terms, except where prohibited by applicable consumer law.</p>
+<p>These Terms are governed by the laws of the State of Oregon, United States, without regard to conflict-of-law rules. State and federal courts located in Oregon will have exclusive jurisdiction over disputes arising from these Terms, except where prohibited by applicable consumer law.</p>
 
 <h2>15. Entire agreement</h2>
 <p>These Terms, together with the <a href="/page/privacy-policy/">Privacy Policy</a>, are the entire agreement between you and us regarding the Service and supersede prior agreements on the same subject. If a court finds any provision unenforceable, the remaining provisions remain in effect. Our failure to enforce a provision is not a waiver.</p>
 
 <h2>16. Contact</h2>
-<p>Questions about these Terms: <a href="/page/contact/">Contact Fresh Calendars</a>.</p>
+<p>Questions about these Terms: email <a href="mailto:info@freshcalendars.com">info@freshcalendars.com</a>, use the <a href="/page/contact/">contact form</a>, or write to Fresh Calendars, Inc., 295 NW Lost Springs Terrace, Portland, OR 97229, United States.</p>
 `;
 }
 

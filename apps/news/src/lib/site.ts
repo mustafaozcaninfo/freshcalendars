@@ -11,6 +11,7 @@ export const NEWS_DESK = {
 /** The company behind freshcalendars.com (Google News transparency: who publishes and how to reach them). */
 export const PUBLISHER = {
   legalName: "Fresh Calendars, Inc.",
+  email: "info@freshcalendars.com",
   streetAddress: "295 NW Lost Springs Terrace",
   addressLocality: "Portland",
   addressRegion: "OR",

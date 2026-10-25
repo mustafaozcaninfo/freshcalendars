@@ -5,7 +5,7 @@ description: "Free meals for veterans on Wednesday, Nov. 11, 2026: the deals con
 type: update
 publishedAt: "2026-10-20T16:55:00-04:00"
 updatedAt: "2026-10-20T17:05:00-04:00"
-authors: [news-desk]
+authors: [alex-morgan]
 category: holidays
 keywords: ["Veterans Day free meals 2026", "Veterans Day discounts 2026", "Veterans Day restaurant deals", "free meals for veterans November 11", "Veterans Day freebies"]
 dateline: "New York"

@@ -5,7 +5,7 @@ description: "Medical College Admission Test (MCAT) 2027 registration is now ope
 type: news
 publishedAt: "2026-10-19T11:24:00-04:00"
 updatedAt: "2026-10-24T01:40:00-04:00"
-authors: [news-desk]
+authors: [emily-carter]
 category: planning
 keywords: ["MCAT 2027 test dates", "mcat registration 2027", "MCAT registration opening 2027", "MCAT score release dates 2027", "MCAT 2027 fees"]
 dateline: "Washington"

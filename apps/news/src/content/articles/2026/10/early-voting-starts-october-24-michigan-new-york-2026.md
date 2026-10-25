@@ -4,7 +4,7 @@ seoTitle: "Early Voting Starts Oct. 24 in Michigan and New York"
 description: "Early in-person voting runs Oct. 24 to Nov. 1, 2026, in Michigan and New York. Site hours, how to find your location, ID and registration rules, NYC hours."
 type: news
 publishedAt: "2026-10-21T05:55:00-04:00"
-authors: [news-desk]
+authors: [alex-morgan]
 category: elections
 keywords: ["early voting Michigan 2026", "early voting New York 2026", "early voting starts October 24", "NYC early voting hours", "where do I vote early"]
 dateline: "New York"

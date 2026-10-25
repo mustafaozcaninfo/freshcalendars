@@ -4,7 +4,7 @@ seoTitle: "Day of the Dead 2026: Día de los Muertos Dates"
 description: "Día de los Muertos 2026 is Sunday, Nov. 1 and Monday, Nov. 2, the weekend clocks fall back. The dates, what each day honors and how ofrendas are built."
 type: explainer
 publishedAt: "2026-10-19T10:35:00-04:00"
-authors: [news-desk]
+authors: [alex-morgan]
 category: holidays
 keywords: ["Day of the Dead 2026", "Día de los Muertos 2026", "when is Day of the Dead 2026", "Day of the Dead dates", "ofrenda"]
 dateline: "New York"

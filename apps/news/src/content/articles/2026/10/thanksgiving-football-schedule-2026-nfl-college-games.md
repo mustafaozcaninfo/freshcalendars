@@ -5,7 +5,7 @@ description: "Every Thanksgiving weekend 2026 football game, Wed., Nov. 25 to Sa
 type: news
 publishedAt: "2026-10-23T15:00:00-04:00"
 updatedAt: "2026-10-24T01:40:00-04:00"
-authors: [news-desk]
+authors: [alex-morgan]
 corrections:
   - date: "2026-10-24T01:40:00-04:00"
     text: "An earlier version said no Thanksgiving week halftime performers had been announced. The NFL had announced U2 for the Thanksgiving Eve game."

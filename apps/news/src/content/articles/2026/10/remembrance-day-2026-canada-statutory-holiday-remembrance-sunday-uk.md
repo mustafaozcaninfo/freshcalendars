@@ -4,7 +4,7 @@ seoTitle: "Remembrance Day 2026: Statutory Holiday by Province"
 description: "Remembrance Day is Wednesday, Nov. 11, 2026. British Columbia and New Brunswick list it as a holiday; Ontario does not. The UK marks Remembrance Sunday Nov. 8."
 type: explainer
 publishedAt: "2026-10-24T17:00:00-04:00"
-authors: [news-desk]
+authors: [alex-morgan]
 category: uk-canada
 keywords: ["is Remembrance Day a statutory holiday 2026", "Remembrance Day 2026", "Remembrance Sunday 2026"]
 dateline: "Ottawa"

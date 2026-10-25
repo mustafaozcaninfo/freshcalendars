@@ -4,7 +4,7 @@ seoTitle: "Make A Difference Day 2026, Oct. 24: Find a Project"
 description: "Make A Difference Day is Saturday, Oct. 24, 2026. Projects are organized locally: where to search, two local examples, campus dates and a free planner."
 type: explainer
 publishedAt: "2026-10-23T02:41:00-04:00"
-authors: [news-desk]
+authors: [alex-morgan]
 category: holidays
 keywords: ["Make A Difference Day 2026", "Make A Difference Day October 24", "volunteer opportunities near me", "fourth Saturday of October"]
 dateline: "New York"

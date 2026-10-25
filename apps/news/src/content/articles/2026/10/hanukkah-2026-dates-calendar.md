@@ -4,7 +4,7 @@ seoTitle: "When Is Hanukkah 2026? Dates and Printable Calendar"
 description: "Hanukkah 2026 begins at sundown on Friday, Dec. 4 and ends at nightfall on Saturday, Dec. 12. See all eight nights, Shabbat timing and free printables."
 type: explainer
 publishedAt: "2026-10-22T11:45:00-04:00"
-authors: [news-desk]
+authors: [alex-morgan]
 category: holidays
 keywords: ["when is Hanukkah 2026", "Hanukkah 2026 dates", "Hanukkah calendar 2026 printable", "8 nights of Hanukkah 2026", "Hanukkah candle lighting 2026"]
 dateline: "New York"

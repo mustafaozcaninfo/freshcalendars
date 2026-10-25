@@ -4,7 +4,7 @@ seoTitle: "NYC Marathon 2026: Start Times, TV, Road Closures"
 description: "The 2026 New York City Marathon runs Sunday, Nov. 1. Wave 1 starts at 9:10 a.m. Eastern Time (ET). Start times, TV, road closures and where to watch."
 type: news
 publishedAt: "2026-10-24T13:05:00-04:00"
-authors: [news-desk]
+authors: [jordan-bennett]
 category: planning
 keywords: ["NYC Marathon 2026 start times", "where to watch NYC Marathon 2026", "NYC Marathon road closures 2026", "NYC Marathon TV channel 2026", "NYC Marathon course change Bronx"]
 dateline: "New York"

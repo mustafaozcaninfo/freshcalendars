@@ -5,7 +5,7 @@ description: "Rockstar's Grand Theft Auto VI page still lists Nov. 19, 2026, as 
 type: news
 publishedAt: "2026-10-20T15:00:00-04:00"
 updatedAt: "2026-10-24T01:40:00-04:00"
-authors: [news-desk]
+authors: [jordan-bennett]
 category: retail-dates
 keywords: ["GTA 6 October 22", "GTA 6 release date", "GTA 6 preload date", "GTA 6 news this week", "GTA 6 countdown"]
 dateline: "New York"

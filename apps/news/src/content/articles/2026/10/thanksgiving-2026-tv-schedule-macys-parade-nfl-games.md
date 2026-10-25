@@ -5,7 +5,7 @@ description: "The 100th Macy's parade airs Thu., Nov. 26 at 8:30 a.m. on NBC. Fi
 type: news
 publishedAt: "2026-10-22T12:55:00-04:00"
 updatedAt: "2026-10-24T01:40:00-04:00"
-authors: [news-desk]
+authors: [alex-morgan]
 category: holidays
 keywords: ["Thanksgiving 2026 TV schedule", "Macy's Thanksgiving Day Parade 2026", "NFL Thanksgiving games 2026", "what channel is the Macy's parade on", "Thanksgiving Eve game 2026"]
 dateline: "New York"

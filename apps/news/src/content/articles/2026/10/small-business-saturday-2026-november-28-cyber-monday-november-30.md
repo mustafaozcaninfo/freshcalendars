@@ -5,7 +5,7 @@ description: "Cyber Monday 2026 is Monday, Nov. 30, and Small Business Saturday 
 type: explainer
 publishedAt: "2026-10-23T02:50:00-04:00"
 updatedAt: "2026-10-24T00:50:00-04:00"
-authors: [news-desk]
+authors: [jordan-bennett]
 category: retail-dates
 keywords: ["cyber monday 2026 date", "Cyber Monday 2026", "Small Business Saturday 2026", "Thanksgiving weekend 2026", "Black Friday 2026 date"]
 dateline: "New York"

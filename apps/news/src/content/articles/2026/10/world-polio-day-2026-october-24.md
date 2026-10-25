@@ -4,7 +4,7 @@ seoTitle: "World Polio Day 2026, Oct. 24: What It Marks"
 description: "World Polio Day is Saturday, Oct. 24, 2026. What the day honors, where wild poliovirus still spreads, the U.S. vaccine schedule and a free printable check."
 type: explainer
 publishedAt: "2026-10-23T02:40:00-04:00"
-authors: [news-desk]
+authors: [alex-morgan]
 category: holidays
 keywords: ["World Polio Day 2026", "World Polio Day October 24", "polio vaccine schedule", "Jonas Salk birthday"]
 dateline: "New York"

@@ -4,7 +4,7 @@ seoTitle: "Avatar: Seven Havens Release Schedule"
 description: "Avatar: Seven Havens releases episodes 7-9 on Friday, Oct. 23, 2026, on Paramount+ (Paramount Plus), with the Book One finale set for Friday, Oct. 30."
 type: news
 publishedAt: "2026-10-23T15:02:00-04:00"
-authors: [news-desk]
+authors: [jordan-bennett]
 category: retail-dates
 keywords: ["Avatar: Seven Havens release schedule", "Avatar Seven Havens episode 10 release date", "when does Avatar Seven Havens come out", "Seven Havens finale date"]
 dateline: "New York"

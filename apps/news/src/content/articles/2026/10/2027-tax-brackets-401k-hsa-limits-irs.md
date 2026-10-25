@@ -4,7 +4,7 @@ seoTitle: "2027 Tax Brackets and 401(k) Limits: IRS Status"
 description: "The Internal Revenue Service (IRS) has not set 2027 tax brackets or 401(k) limits yet. See what is official, 2027 Health Savings Account limits and key dates."
 type: news
 publishedAt: "2026-10-23T15:20:00-04:00"
-authors: [news-desk]
+authors: [alex-morgan]
 category: planning
 keywords: ["2027 tax brackets", "2027 401k limit", "2027 HSA limits", "2027 standard deduction"]
 dateline: "New York"

@@ -4,7 +4,7 @@ seoTitle: "Wisconsin Ballot 2026: Governor Race and 3 Amendments"
 description: "Wisconsin votes Nov. 3, 2026 on governor, four other statewide offices and three constitutional amendments; absentee requests are due Oct. 29, per local news."
 type: explainer
 publishedAt: "2026-10-24T17:00:00-04:00"
-authors: [news-desk]
+authors: [alex-morgan]
 category: elections
 keywords: ["Wisconsin ballot 2026", "Wisconsin governor race 2026 candidates", "Wisconsin constitutional amendments 2026", "Wisconsin absentee ballot deadline 2026"]
 dateline: "Madison, Wis."

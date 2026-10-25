@@ -4,7 +4,7 @@ seoTitle: "December 2026 Holidays: Calendar With Every Key Date"
 description: "Holidays in December 2026: Hanukkah from Dec. 4, the solstice Dec. 21, Christmas on Friday, Dec. 25, plus shipping and enrollment deadlines and days until each."
 type: explainer
 publishedAt: "2026-10-24T17:00:00-04:00"
-authors: [news-desk]
+authors: [jordan-bennett]
 category: calendar-guides
 keywords: ["December 2026 calendar with holidays", "December 2026 holidays", "December 2026 important dates", "days until Christmas 2026", "Christmas 2026 day of week"]
 dateline: "New York"

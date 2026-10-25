@@ -4,7 +4,7 @@ seoTitle: "Florida Amendments 2026 and the Senate Special"
 description: "Florida's Nov. 3, 2026 ballot has three amendments that each need 60%, a U.S. Senate special election and an open race for governor. Dates and rules."
 type: explainer
 publishedAt: "2026-10-20T11:10:00-04:00"
-authors: [news-desk]
+authors: [alex-morgan]
 category: elections
 keywords: ["Florida amendments 2026", "Florida ballot November 2026", "Amendment 3 Florida 2026 homestead", "Florida early voting 2026", "Florida Senate special election 2026"]
 dateline: "Tallahassee, Fla."

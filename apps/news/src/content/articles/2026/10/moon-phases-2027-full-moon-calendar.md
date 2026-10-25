@@ -4,7 +4,7 @@ seoTitle: "Moon Phases 2027: Full Moon Calendar and Dates"
 description: "Every full moon of 2027 with dates, U.S. times and names, plus new moons, eclipses and the Harvest Moon on Sept. 15. Four free moon phase printables."
 type: explainer
 publishedAt: "2026-10-18T11:50:00-04:00"
-authors: [news-desk]
+authors: [jordan-bennett]
 category: sky-events
 keywords: ["moon phases 2027", "full moon calendar 2027", "full moon dates 2027", "moon calendar 2027", "Harvest Moon 2027"]
 dateline: "New York"

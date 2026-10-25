@@ -4,7 +4,7 @@ seoTitle: "Sunset Times After the Clock Change 2026 by City"
 description: "Sunset jumps an hour earlier on Nov. 1, 2026: 4:52 p.m. in New York, 4:45 in Chicago. Naval Observatory data, 20 cities, plus each city's earliest sunset date."
 type: explainer
 publishedAt: "2026-10-20T01:20:00-04:00"
-authors: [news-desk]
+authors: [jordan-bennett]
 category: time-change
 keywords: ["sunset time after daylight saving time ends", "what time does it get dark November 2026", "earliest sunset 2026", "sunset times by city", "sunset November 1 2026"]
 dateline: "Washington"

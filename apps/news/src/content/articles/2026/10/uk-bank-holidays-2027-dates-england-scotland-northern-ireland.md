@@ -5,7 +5,7 @@ description: "UK bank holidays 2027: eight in England and Wales, nine in Scotlan
 type: explainer
 publishedAt: "2026-10-19T10:50:00-04:00"
 updatedAt: "2026-10-24T00:50:00-04:00"
-authors: [news-desk]
+authors: [alex-morgan]
 category: uk-canada
 keywords: ["bank holidays 2027 printable calendar", "bank holidays 2027", "UK bank holidays 2027", "Scotland bank holidays 2027", "Northern Ireland bank holidays 2027"]
 dateline: "London"

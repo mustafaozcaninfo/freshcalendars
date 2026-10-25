@@ -4,7 +4,7 @@ seoTitle: "PEAK on PS5: $9.99, Crossplay and What to Know"
 description: "PEAK launched on PlayStation 5 (PS5) on Thursday, Oct. 22, 2026, for $9.99 in the U.S., with crossplay with Steam, Xbox and Switch 2 but no cross-save."
 type: news
 publishedAt: "2026-10-23T03:00:00-04:00"
-authors: [news-desk]
+authors: [jordan-bennett]
 category: retail-dates
 keywords: ["PEAK PS5", "PEAK PS5 price", "PEAK PS5 crossplay", "PEAK PS5 release date", "PEAK cross-save"]
 dateline: "New York"

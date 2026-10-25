@@ -1,7 +1,7 @@
 ---
 title: "Corrections Policy"
 description: "How Fresh Calendars News fixes errors: corrections are made openly, dated and noted at the end of the story. How to report a mistake to the news desk."
-updatedAt: "2026-10-18T09:00:00-04:00"
+updatedAt: "2026-10-25T05:20:00-04:00"
 ---
 
 We want every date we publish to be right. When we get something wrong, we fix it openly.
@@ -14,4 +14,4 @@ Small changes that do not affect meaning, such as spelling or formatting, are ma
 
 ## Feedback
 
-To report an error, use the [contact form](/page/contact/) and choose "Other" as the subject. Include the story link and the source that shows the correct information. The news desk reviews every report and updates the story when the report is confirmed.
+To report an error, email [info@freshcalendars.com](mailto:info@freshcalendars.com) with "Correction" in the subject, or use the [contact form](/page/contact/) and choose "Other" as the subject. Include the story link and the source that shows the correct information. The news desk reviews every report and updates the story when the report is confirmed.

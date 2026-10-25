@@ -4,7 +4,7 @@ seoTitle: "Black Friday 2026 Sales Tax Holiday: Is There One?"
 description: "The Institute on Taxation and Economic Policy (ITEP) list shows no general state sales tax holiday on Black Friday, Nov. 27, or Cyber Monday, Nov. 30, 2026."
 type: explainer
 publishedAt: "2026-10-23T02:50:00-04:00"
-authors: [news-desk]
+authors: [jordan-bennett]
 category: retail-dates
 keywords: ["Black Friday sales tax holiday 2026", "Cyber Monday sales tax 2026", "sales tax holiday November 2026"]
 dateline: "New York"

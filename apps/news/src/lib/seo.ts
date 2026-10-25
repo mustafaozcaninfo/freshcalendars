@@ -121,6 +121,7 @@ function organizationNode(): Record<string, unknown> {
     "@id": ORG_ID,
     name: NEWS_NAME,
     legalName: PUBLISHER.legalName,
+    email: PUBLISHER.email,
     url: `${SITE_ORIGIN}/`,
     address: {
       "@type": "PostalAddress",

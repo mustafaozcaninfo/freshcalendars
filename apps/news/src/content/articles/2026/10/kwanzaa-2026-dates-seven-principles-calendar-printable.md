@@ -4,7 +4,7 @@ seoTitle: "Kwanzaa 2026 Dates and Principles by Day"
 description: "Kwanzaa 2026 runs Saturday, Dec. 26, to Friday, Jan. 1, 2027, per Maulana Karenga's site. See each day's principle, the symbols and a printable."
 type: explainer
 publishedAt: "2026-10-25T01:32:00-04:00"
-authors: [news-desk]
+authors: [alex-morgan]
 category: holidays
 keywords: ["Kwanzaa 2026", "when is Kwanzaa 2026", "Kwanzaa principles by day", "Kwanzaa 2026 calendar"]
 dateline: "Los Angeles"

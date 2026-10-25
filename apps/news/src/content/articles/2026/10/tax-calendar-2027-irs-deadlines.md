@@ -5,7 +5,7 @@ description: "The tax deadline 2027 is Thursday, April 15, for 2026 federal retu
 type: explainer
 publishedAt: "2026-10-20T01:30:00-04:00"
 updatedAt: "2026-10-24T00:50:00-04:00"
-authors: [news-desk]
+authors: [alex-morgan]
 category: planning
 keywords: ["tax deadline 2027 date", "tax deadline 2027", "2027 tax calendar", "when are taxes due 2027", "tax day 2027"]
 dateline: "Washington"

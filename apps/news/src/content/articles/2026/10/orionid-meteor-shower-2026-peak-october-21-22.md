@@ -5,7 +5,7 @@ description: "The Orionid meteor shower peaked Oct. 21-22 but stays active throu
 type: news
 publishedAt: "2026-10-18T04:10:00-04:00"
 updatedAt: "2026-10-24T01:40:00-04:00"
-authors: [news-desk]
+authors: [jordan-bennett]
 category: sky-events
 keywords: ["Orionid meteor shower 2026 viewing times", "Orionid meteor shower tonight", "how to watch the Orionids", "Orionids peak time 2026", "meteor shower October 2026"]
 dateline: "New York"

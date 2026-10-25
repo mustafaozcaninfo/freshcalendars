@@ -4,7 +4,7 @@ seoTitle: "Social Security COLA 2027: 3.6% Raise and Payment Dates"
 description: "Social Security benefits rise 3.6% in 2027, about $75 a month for the average retiree. SSI raises arrive Dec. 31; January 2027 payment dates by birthday."
 type: news
 publishedAt: "2026-10-18T04:00:00-04:00"
-authors: [news-desk]
+authors: [alex-morgan]
 category: planning
 keywords: ["Social Security COLA 2027", "2027 Social Security increase", "Social Security payment dates January 2027", "SSI payment December 31 2026", "taxable maximum 2027"]
 dateline: "New York"

@@ -2,7 +2,7 @@
 title: "About Fresh Calendars News"
 description: "Fresh Calendars News reports the dates people plan around: holidays, clock changes, government deadlines, elections, religious calendars and retail dates."
 schemaType: AboutPage
-updatedAt: "2026-10-25T05:11:00-04:00"
+updatedAt: "2026-10-25T05:20:00-04:00"
 ---
 
 Fresh Calendars News is the news section of [Fresh Calendars](/), a free printable calendar site for the United States, the United Kingdom and Canada.
@@ -21,7 +21,7 @@ Fresh Calendars News is published by Fresh Calendars, Inc., 295 NW Lost Springs 
 
 ## Who writes the news
 
-Stories edited by one of our editors, [Alex Morgan](/news/author/alex-morgan/), [Emily Carter](/news/author/emily-carter/) or [Jordan Bennett](/news/author/jordan-bennett/), carry that editor's name; other stories are published under the [Fresh Calendars News Desk](/news/author/news-desk/) byline. How we choose sources and check facts is described in our [editorial policy](/news/editorial-policy/); how we fix mistakes is in our [corrections policy](/news/corrections-policy/). The people responsible are listed on the [masthead](/news/masthead/).
+Each story carries the name of the editor responsible for its beat: [Alex Morgan](/news/author/alex-morgan/) for holidays, elections and government deadlines, [Emily Carter](/news/author/emily-carter/) for school calendars and education, and [Jordan Bennett](/news/author/jordan-bennett/) for time, seasonal events and schedules. Daily puzzle pages are published under the [Fresh Calendars News Desk](/news/author/news-desk/) byline. How we choose sources and check facts is described in our [editorial policy](/news/editorial-policy/); how we fix mistakes is in our [corrections policy](/news/corrections-policy/). The people responsible are listed on the [masthead](/news/masthead/).
 
 ## Advertising
 
@@ -29,4 +29,4 @@ Fresh Calendars is free and supported by advertising and affiliate links, as exp
 
 ## Contact
 
-Send story tips, corrections and questions through the [contact form](/page/contact/).
+Send story tips, corrections and questions to [info@freshcalendars.com](mailto:info@freshcalendars.com) or through the [contact form](/page/contact/).

@@ -4,7 +4,7 @@ seoTitle: "October 20, 2026: Day, Holidays and Observances"
 description: "Oct. 20, 2026 is a Tuesday, day 293 of the year. Today's observances and every key date through Nov. 1: the Hunter's Moon, World Series, Nevada Day, Halloween."
 type: explainer
 publishedAt: "2026-10-20T01:40:00-04:00"
-authors: [news-desk]
+authors: [alex-morgan]
 category: holidays
 keywords: ["October 20 2026", "October 20 2026 holiday", "what day is October 20 2026", "October 21 2026", "holidays this week October 2026"]
 dateline: "New York"

@@ -5,7 +5,7 @@ description: "Texas early voting runs through Friday, Oct. 30, 2026, and polls a
 type: news
 publishedAt: "2026-10-21T15:30:00-04:00"
 updatedAt: "2026-10-24T01:40:00-04:00"
-authors: [news-desk]
+authors: [alex-morgan]
 category: elections
 keywords: ["Texas election calendar 2026", "Texas early voting dates 2026", "Texas election schedule 2026", "Texas mail ballot deadline 2026", "Texas primary runoff 2026 date"]
 dateline: "Austin, Texas"

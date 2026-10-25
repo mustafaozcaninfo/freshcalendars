@@ -4,7 +4,7 @@ seoTitle: "Georgia 2026 Ballot: Amendments and Early Voting"
 description: "Georgia's Nov. 3, 2026 ballot: a U.S. Senate seat, governor, six more statewide offices and three amendments. Advance voting is Oct. 13-30; runoffs Dec. 1."
 type: explainer
 publishedAt: "2026-10-20T11:25:00-04:00"
-authors: [news-desk]
+authors: [alex-morgan]
 category: elections
 keywords: ["Georgia ballot 2026", "Georgia constitutional amendments 2026", "Georgia early voting 2026", "Georgia sample ballot 2026", "Georgia runoff December 2026"]
 dateline: "Atlanta"

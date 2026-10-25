@@ -5,7 +5,7 @@ description: "USPS 2026 holiday deadlines for Christmas delivery: Ground Advanta
 type: news
 publishedAt: "2026-10-19T10:55:00-04:00"
 updatedAt: "2026-10-24T00:50:00-04:00"
-authors: [news-desk]
+authors: [jordan-bennett]
 category: retail-dates
 keywords: ["holiday shipping deadlines 2026 usps", "USPS holiday shipping deadlines 2026", "last day to ship for Christmas 2026", "USPS Christmas deadline 2026", "Priority Mail holiday deadline"]
 dateline: "New York"

@@ -4,7 +4,7 @@ seoTitle: "Disarmament Week 2026: Oct. 24 to 30 Explained"
 description: "Disarmament Week runs Oct. 24 to 30 every year, starting on United Nations Day; in 2026 it begins on a Saturday. Its origin, per the United Nations."
 type: explainer
 publishedAt: "2026-10-23T02:50:00-04:00"
-authors: [news-desk]
+authors: [alex-morgan]
 category: holidays
 keywords: ["Disarmament Week 2026", "Disarmament Week October 24", "UN Day October 24"]
 dateline: "New York"

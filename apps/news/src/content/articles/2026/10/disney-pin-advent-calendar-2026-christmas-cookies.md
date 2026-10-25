@@ -4,7 +4,7 @@ seoTitle: "Disney Pin Advent Calendar 2026: Price and Pins"
 description: "Disney's 2026 pin advent calendar is the $275 Christmas Cookies 24-day mystery set, limited to 5,750. The 12 known pins, where it's sold and what to know."
 type: news
 publishedAt: "2026-10-19T08:15:00-04:00"
-authors: [news-desk]
+authors: [jordan-bennett]
 category: retail-dates
 keywords: ["Disney pin advent calendar 2026", "Disney Christmas Cookies advent calendar", "Disney advent calendar 2026", "Disney pin trading 2026", "Disney Store advent calendar"]
 dateline: "New York"

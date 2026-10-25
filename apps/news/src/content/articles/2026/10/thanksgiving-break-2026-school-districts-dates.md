@@ -4,7 +4,7 @@ seoTitle: "Thanksgiving Break 2026 Dates by School District"
 description: "Thanksgiving break 2026: 14 of 21 big districts are off Nov. 23-27, four from Nov. 25, and New York City, Chicago and Montgomery County only Nov. 26-27."
 type: news
 publishedAt: "2026-10-22T13:10:00-04:00"
-authors: [news-desk]
+authors: [emily-carter]
 category: school-calendars
 keywords: ["Thanksgiving break 2026", "Thanksgiving break 2026 schools", "is there school the week of Thanksgiving 2026", "when is Thanksgiving break 2026", "school Thanksgiving break dates 2026"]
 dateline: "New York"

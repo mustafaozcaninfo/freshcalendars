@@ -4,7 +4,7 @@ seoTitle: "ACA Open Enrollment 2027: Nov. 1 to Jan. 15 Dates"
 description: "HealthCare.gov open enrollment for 2027 plans runs Nov. 1, 2026 to Jan. 15, 2027. Enroll by Dec. 15 for Jan. 1 coverage. Why the window was not shortened."
 type: news
 publishedAt: "2026-10-19T10:20:00-04:00"
-authors: [news-desk]
+authors: [alex-morgan]
 category: planning
 keywords: ["ACA open enrollment 2027", "Obamacare open enrollment 2026", "HealthCare.gov open enrollment dates", "open enrollment deadline December 15", "marketplace open enrollment January 15"]
 dateline: "New York"

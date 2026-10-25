@@ -4,7 +4,7 @@ seoTitle: "Marine Corps Marathon 2026: Start Times, Road Closures"
 description: "The 51st Marine Corps Marathon is Sunday, Oct. 25, 2026. All runners start at 7:20 a.m. Eastern Daylight Time (EDT). Closures, cutoffs and Beat the Bridge."
 type: news
 publishedAt: "2026-10-25T02:50:00-04:00"
-authors: [news-desk]
+authors: [jordan-bennett]
 category: planning
 keywords: ["Marine Corps Marathon 2026", "Marine Corps Marathon road closures", "Marine Corps Marathon start time", "beat the bridge time"]
 dateline: "Arlington, Va."

@@ -5,7 +5,7 @@ description: "Election Day 2026 in Michigan is Tuesday, Nov. 3. See polling hour
 type: explainer
 publishedAt: "2026-10-20T11:15:00-04:00"
 updatedAt: "2026-10-24T00:50:00-04:00"
-authors: [news-desk]
+authors: [alex-morgan]
 category: elections
 keywords: ["when is election day 2026 in michigan", "Michigan election 2026", "Michigan ballot 2026", "Michigan early voting 2026", "Michigan governor candidates 2026"]
 dateline: "Lansing, Mich."

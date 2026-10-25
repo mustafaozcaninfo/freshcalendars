@@ -4,7 +4,7 @@ seoTitle: "LoL Worlds 2026 Schedule, Bracket and Tickets"
 description: "The League of Legends (LoL) Worlds 2026 Swiss Stage starts Friday, Oct. 23, and the final is Saturday, Nov. 14, 2 p.m. Eastern Standard Time (EST) in Brooklyn."
 type: news
 publishedAt: "2026-10-23T14:10:00-04:00"
-authors: [news-desk]
+authors: [jordan-bennett]
 category: planning
 keywords: ["lol worlds 2026 schedule", "Worlds 2026 schedule", "LoL Worlds 2026 tickets", "Worlds 2026 bracket", "Worlds 2026 final date"]
 dateline: "New York"

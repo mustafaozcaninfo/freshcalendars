@@ -4,7 +4,7 @@ seoTitle: "iPhone Duo October 24: US Stock, Price and Pickup"
 description: "iPhone Duo went on sale in the US on Oct. 23. Prices start at $1,999. How to check Apple Store pickup on Saturday, Oct. 24, and what to confirm before you buy."
 type: news
 publishedAt: "2026-10-23T10:50:00-04:00"
-authors: [news-desk]
+authors: [jordan-bennett]
 category: retail-dates
 keywords: ["iPhone Duo October 24", "iPhone Duo availability", "iPhone Duo pickup", "iPhone Duo price", "iPhone Duo in stock"]
 dateline: "New York"
