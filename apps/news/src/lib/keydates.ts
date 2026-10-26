@@ -46,6 +46,8 @@ export const KEY_DATES: KeyDate[] = [
   { date: "2026-11-29", label: "First Sunday of Advent", slug: "when-does-advent-start-2026-november-29-advent-wreath-candles" },
   { date: "2026-12-03", label: "National Christmas Tree lighting on the Ellipse", slug: "national-christmas-tree-lighting-2026-ticket-lottery-october-28" },
   { date: "2026-11-10", label: "NFL trade deadline, 4 p.m. ET (1 p.m. PT)", slug: "nfl-trade-deadline-2026-november-10-time-et" },
+  { date: "2026-11-14", label: "Lord Mayor's Show, City of London, 11am", slug: "lord-mayors-show-2026-date-time-route-november-14" },
+  { date: "2026-12-25", label: "Christmas Day NBA and NFL games, from 12 p.m. ET", slug: "christmas-day-2026-games-nba-nfl-schedule-times-tv" },
   { date: "2026-11-05", label: "PSAT scores for schools that submitted by Oct. 23", slug: "psat-scores-2026-release-date-november-5-november-12" },
   { date: "2026-11-12", label: "PSAT scores for schools that submitted by Oct. 30", slug: "psat-scores-2026-release-date-november-5-november-12" },
   { date: "2026-12-09", label: "Canada Post deadline for letters to Santa", slug: "canada-post-holiday-shipping-deadlines-2026-christmas" },
