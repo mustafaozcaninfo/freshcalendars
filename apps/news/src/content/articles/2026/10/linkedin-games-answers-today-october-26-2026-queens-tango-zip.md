@@ -1,9 +1,10 @@
 ---
 title: "LinkedIn Games Answers for Monday, Oct. 26, 2026: Queens, Tango, Zip, Pinpoint and Crossclimb Hints"
 seoTitle: "LinkedIn Games Answers Today, Oct. 26: Queens, Zip, Tango"
-description: "LinkedIn's Oct. 26, 2026 puzzles go live at midnight Pacific Time (PT), 3 a.m. ET; hints go here then. Sunday's Pinpoint and Crossclimb answers are below."
+description: "LinkedIn's Oct. 26, 2026 puzzles are live: Queens #909, Tango #749, Zip #588. Answers go here once two solutions agree; Sunday's confirmed answers are below."
 type: explainer
 publishedAt: "2026-10-25T05:25:00-04:00"
+updatedAt: "2026-10-26T04:15:00-04:00"
 authors: [news-desk]
 category: puzzles
 keywords: ["LinkedIn games answers today", "LinkedIn Queens answer today", "LinkedIn Zip answer today", "LinkedIn Tango answer today", "Pinpoint answer today"]
@@ -14,7 +15,7 @@ hero:
   title: "LinkedIn games hints, Oct. 26, 2026"
   caption: "LinkedIn's daily puzzles for Monday, Oct. 26, 2026, go live at midnight Pacific Time; hints first, answers in the spoiler section."
 summary:
-  - "LinkedIn releases new puzzles daily at midnight Pacific Time (PT), which is 3 a.m. Eastern Time (ET) on Monday, Oct. 26, 2026; hints and answers go here after that."
+  - "LinkedIn released Monday's puzzles at midnight Pacific Time (PT), 3 a.m. Eastern Time (ET), on Oct. 26, 2026: Queens, Crossclimb and Pinpoint #909, Tango #749 and Zip #588."
   - "LinkedIn has eight daily games: Pinpoint, Crossclimb, Queens, Tango, Zip, Mini Sudoku, Patches and Wend."
   - "Sunday's Pinpoint #908 category was things with roots, and Sunday's Crossclimb #908 ladder ran Date, Rate, Rake, Sake, Sale, Pale, Palm."
   - "We post an answer only when two independent published solutions agree on it."
@@ -60,9 +61,9 @@ related: [nyt-spelling-bee-hints-answers-october-26-2026, nyt-connections-sports
 draft: false
 ---
 
-<p class="callout"><b>Monday's LinkedIn puzzles are not live yet.</b> They go live at midnight Pacific Time, 3 a.m. Eastern. Hints and answers for Oct. 26 go here after that. Sunday's confirmed answers are below.</p>
+<p class="callout"><b>Updated Oct. 26, 2026, 4:15 a.m. ET.</b> Monday's puzzles are live. As of this update only one early solution site had posted Monday's Pinpoint and Crossclimb, and its Crossclimb ladder did not fit the puzzle's clues, so we have not printed any Monday answer yet. Each one goes here when two independent published solutions agree. Sunday's confirmed answers are below.</p>
 
-**LinkedIn's puzzles for Monday, Oct. 26, 2026, go live at midnight Pacific Time (PT), which is 3 a.m. Eastern Time (ET), and we add hints and answers for each game here once they are out.** LinkedIn now has eight daily games, from the Queens logic grid to the Pinpoint word game. Sunday's Pinpoint #908 category was things with roots, and the Crossclimb ladder ran from Date to Palm. We post an answer only when two independent published solutions agree on it.
+**LinkedIn's puzzles for Monday, Oct. 26, 2026, went live at midnight Pacific Time (PT), which is 3 a.m. Eastern Time (ET), and we add hints and answers for each game here as solutions are confirmed.** LinkedIn now has eight daily games, from the Queens logic grid to the Pinpoint word game. Sunday's Pinpoint #908 category was things with roots, and the Crossclimb ladder ran from Date to Palm. We post an answer only when two independent published solutions agree on it.
 
 ## LinkedIn's eight daily games
 

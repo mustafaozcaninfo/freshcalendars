@@ -1,9 +1,10 @@
 ---
 title: "NYT Spelling Bee Hints and Answers for Monday, Oct. 26, 2026: Hint Grid, Pangram and Sunday's Solution"
 seoTitle: "Spelling Bee Hints Today, Oct. 26, 2026"
-description: "Spelling Bee for Monday, Oct. 26, 2026: the hint grid, two-letter list and pangram once it goes live, plus Sunday's full solution, Binomial and Bibliomania."
+description: "Spelling Bee for Monday, Oct. 26, 2026: center letter L, 43 words, 245 points and one pangram. Hint grid and two-letter list first, then every answer."
 type: explainer
 publishedAt: "2026-10-25T05:25:00-04:00"
+updatedAt: "2026-10-26T04:00:00-04:00"
 authors: [news-desk]
 category: puzzles
 keywords: ["Spelling Bee hints today", "Spelling Bee answers today", "NYT Spelling Bee October 26 2026", "Spelling Bee pangram today", "Spelling Bee hint grid"]
@@ -14,11 +15,15 @@ hero:
   title: "Spelling Bee hints, Oct. 26, 2026"
   caption: "Spelling Bee for Monday, Oct. 26, 2026: the hint grid and two-letter list first, the word list only in the spoiler section."
 summary:
-  - "Monday's Spelling Bee from The New York Times goes live overnight; its hint grid, two-letter list and answers go into this story as soon as it is live."
-  - "Sunday's puzzle, Oct. 25, 2026, used the center letter M with A, B, I, L, N and O, and had two pangrams, Binomial and Bibliomania."
-  - "Sunday had 66 words worth 282 points; Genius needed 197 points, 70% of the total."
+  - "Monday's Spelling Bee from The New York Times, Oct. 26, 2026, uses the center letter L with G, H, I, N, T and Y."
+  - "It has 43 words worth 245 points and one pangram; Genius needs 172 points, 70% of the total."
+  - "Sunday's puzzle, Oct. 25, had 66 words worth 282 points and two pangrams, Binomial and Bibliomania."
   - "Every word list here comes from the puzzle data on the Spelling Bee page itself."
 faq:
+  - q: "What is the Spelling Bee pangram for Oct. 26, 2026?"
+    a: "Nightly. It is the only pangram on Monday. The center letter is L and the outer letters are G, H, I, N, T and Y."
+  - q: "How many points does Genius need on Oct. 26, 2026?"
+    a: "172 of 245 possible points. The puzzle has 43 words."
   - q: "What were the Spelling Bee pangrams on Oct. 25, 2026?"
     a: "Binomial, eight letters, and Bibliomania, eleven letters. The center letter was M and the outer letters were A, B, I, L, N and O."
   - q: "How many points did Genius need on Oct. 25, 2026?"
@@ -45,36 +50,58 @@ related: [linkedin-games-answers-today-october-26-2026-queens-tango-zip, nyt-con
 draft: false
 ---
 
-<p class="callout"><b>Monday's puzzle is not live yet.</b> The hint grid, two-letter list and answers for Oct. 26 go here as soon as The New York Times posts the new Spelling Bee overnight. Sunday's full solution is below.</p>
+<p class="callout"><b>Updated Oct. 26, 2026, 4:00 a.m. ET.</b> Monday's puzzle is live. The hint grid, two-letter list and full answers below come from the puzzle data on The New York Times' Spelling Bee page. Sunday's full solution is at the end.</p>
 
-**Monday's Spelling Bee from The New York Times (NYT), for Oct. 26, 2026, goes live overnight, about 3 a.m. Eastern Time (ET), and we add its hint grid, two-letter list and pangram here as soon as it is live.** Sunday's puzzle used the center letter M with A, B, I, L, N and O, and its two pangrams were Binomial and Bibliomania. It was a long one. Sunday had 66 words worth 282 points, and Genius took 197. Every word below comes from the puzzle data on the Spelling Bee page.
+**Monday's Spelling Bee from The New York Times (NYT), for Oct. 26, 2026, uses the center letter L with G, H, I, N, T and Y.** It has 43 words worth 245 points and one pangram, and Genius takes 172 points. Every word must use the L, and most of the list ends in -ing or -ly. The hint grid and two-letter list come first; the word list waits in a marked spoiler section.
 
 ## How Spelling Bee works
 
-You get seven letters in a honeycomb. Each word must be at least four letters long and must use the yellow center letter; letters can repeat. A four-letter word is worth 1 point and a longer word is worth one point per letter. A pangram uses all seven letters and earns 7 extra points. Ranks climb as you score, and Genius sits at 70% of the day's total, which was 197 of 282 points on Sunday.
+You get seven letters in a honeycomb. Each word must be at least four letters long and must use the yellow center letter; letters can repeat. A four-letter word is worth 1 point and a longer word is worth one point per letter. A pangram uses all seven letters and earns 7 extra points. Ranks climb as you score, and Genius sits at 70% of the day's total, which is 172 of 245 points on Monday.
 
 ## How to use the hint grid
 
-The grid counts the answers by first letter and by length. Start with a row that has many short words, find those, then move to the longer columns. The two-letter list does the same job with more precision: "MA-15" means 15 answers begin with M and A.
+The grid counts the answers by first letter and by length. Start with a row that has many short words, find those, then move to the longer columns. The two-letter list does the same job with more precision: "TI-11" means 11 answers begin with T and I.
 
-## Sunday's hint grid, Oct. 25, 2026
+## Monday's hint grid, Oct. 26, 2026
 
-Center letter M; outer letters A, B, I, L, N, O. 66 words, 282 points, two pangrams.
+Center letter L; outer letters G, H, I, N, T, Y. 43 words, 245 points, one pangram.
 
-| Starts with | 4 letters | 5 letters | 6 letters | 7 letters | 8 letters | 9 letters | 11 letters | Total |
-|---|---|---|---|---|---|---|---|---|
-| A | 1 | 3 | 2 | 1 | - | - | - | 7 |
-| B | 4 | 1 | 1 | - | 1 | - | 1 | 8 |
-| I | 2 | 1 | - | - | - | - | - | 3 |
-| L | 8 | 2 | 1 | 2 | - | - | - | 13 |
-| M | 12 | 8 | 5 | 4 | 1 | 2 | - | 32 |
-| N | - | 1 | - | 1 | - | - | - | 2 |
-| O | - | - | 1 | - | - | - | - | 1 |
-| Total | 27 | 16 | 10 | 8 | 2 | 2 | 1 | 66 |
+| Starts with | 4 letters | 5 letters | 6 letters | 7 letters | 8 letters | 9 letters | 10 letters | 12 letters | Total |
+|---|---|---|---|---|---|---|---|---|---|
+| G | 2 | 1 | 1 | 1 | 2 | - | - | - | 7 |
+| H | 2 | 1 | 1 | 1 | - | 1 | - | 1 | 7 |
+| I | 1 | - | - | - | - | - | - | - | 1 |
+| L | 3 | 3 | 1 | 2 | 1 | 1 | - | - | 11 |
+| N | - | - | 1 | 2 | 1 | - | 1 | - | 5 |
+| T | 2 | 1 | 4 | 4 | 1 | - | - | - | 12 |
+| Total | 10 | 6 | 8 | 10 | 5 | 2 | 1 | 1 | 43 |
 
-Two-letter starts: AB-1, AM-4, AN-2, BA-2, BI-2, BL-2, BO-2, IA-2, IM-1, LA-4, LI-6, LL-1, LO-2, MA-15, MI-7, MO-10, NI-1, NO-1, OI-1.
+No answer starts with Y.
+
+Two-letter starts: GI-5, GL-2, HI-7, IL-1, LI-10, LY-1, NI-5, TH-1, TI-11.
+
+## Two hints before the answers
+
+- The pangram is a seven-letter adverb: something that happens every evening.
+- The longest word has 12 letters and starts with H; it is what you do with a yellow marker.
 
 More of Monday's games: [Wordle hints](/news/wordle-hint-answer-today-october-26-2026-1955/), [Connections hints](/news/nyt-connections-hints-answers-october-26-2026-1233/) and [Pips hints](/news/nyt-pips-hints-answers-october-26-2026/). Sunday's puzzle has its own page: [Sunday's Spelling Bee hints and answers](/news/nyt-spelling-bee-hints-answers-october-25-2026/). Track a Genius streak on our [printable weekly calendar](/printable-weekly-calendar.html) or the [October 2026 calendar](/october-calendars.html).
+
+## Monday's Spelling Bee answers, Oct. 26, 2026 (spoilers)
+
+Stop here if you are still working on Monday's puzzle.
+
+- **Pangram:** Nightly
+- **4 letters:** Gill, Gilt, Hill, Hilt, Illy, Lilt, Lily, Lint, Till, Tilt
+- **5 letters:** Glint, Hilly, Light, Linty, Lying, Tilth
+- **6 letters:** Giggly, Highly, Lining, Niggly, Thinly, Tiling, Tingly, Tinily
+- **7 letters:** Gilling, Hilling, Lightly, Lilting, Nightly, Ninthly, Tightly, Tilling, Tilting, Titling
+- **8 letters:** Giggling, Glinting, Lighting, Niggling, Tingling
+- **9 letters:** Highlight, Lightning
+- **10 letters:** Nightlight
+- **12 letters:** Highlighting
+
+The 10 four-letter words give 10 points, the 33 longer words give 228, and the pangram bonus adds 7, for 245.
 
 ## Sunday's Spelling Bee answers, Oct. 25, 2026 (spoilers)
 
