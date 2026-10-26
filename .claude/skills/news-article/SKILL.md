@@ -7,6 +7,8 @@ description: Write, update or publish-prepare a Fresh Calendars /news/ story (As
 
 Read `CLAUDE.md` first; its content rules apply to every step. The finished work is a commit pushed to `main`, not a deploy; the owner publishes it.
 
+**Daily puzzle pages** (Wordle, Connections, Strands, Pips, Spelling Bee and the other games) follow the `news-puzzles` skill: official data saved first, answers checked with `pnpm news:puzzle-check`, boards and tap-to-reveal hints drawn by the build.
+
 Two companion skills hold the detail: **`news-seo`** (choosing the query, the angle and the page structure that ranks) and **`news-visuals`** (a unique hero and the printable). Read both before step 1 of a new story.
 
 ## Who does what (keeps token use low)

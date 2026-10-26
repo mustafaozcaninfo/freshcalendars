@@ -27,6 +27,8 @@ pnpm test                    # unit tests
 pnpm news:build              # builds dist/news; schema errors in frontmatter fail here
 pnpm news:verify             # links, H1, orphans, build leftovers
 pnpm news:seo-audit          # SEO and writing rules (all checks must PASS)
+pnpm news:puzzle-check       # daily puzzle pages vs the saved official NYT data (CI runs it)
+pnpm news:puzzle-data <date> # save official puzzle data before writing a puzzle page
 pnpm news:serve              # preview on http://localhost:4324/news/ (pass a port to change it)
 pnpm smoke:contrast          # WCAG AA text contrast on every built page (after fc gen-meta + news:build; CI runs it)
 ```
@@ -75,6 +77,7 @@ Do not run Lighthouse (`news:lighthouse`, `smoke:lighthouse`). The goal is fast,
 | `packages/generator/render3d/`, `src/news3d.ts`, `src/fx.ts` | 3D hero scenes (three.js in headless Chromium, models built from primitives), the two-layer hero renderer, and the finish (bloom, grade, vignette, seeded grain) |
 | `packages/generator/src/*.ts` + `cli.ts` (`news-*` commands) | custom hero and printable generators, only when `news-assets` is not enough |
 | `.claude/skills/news-seo/`, `news-visuals/` | ranking decisions from the SEO playbook; hero and printable method |
+| `.claude/skills/news-puzzles/`, `apps/news/src/content/puzzles/` | daily puzzle pages: method, saved official data, `puzzle-boards.mjs` draws solved boards and tap-to-reveal hints |
 | `.claude/agents/news-researcher.md`, `news-writer.md` | Haiku research agent and Sonnet writing agent the skill delegates to |
 | `docs/NEWS-ROADMAP.md`, `docs/NEWS-SEO-COMPLIANCE.md` | design of /news/ and the SEO rule map |
 | `docs/YAYIN-REHBERI.md` | how the owner deploys (writers do not deploy) |

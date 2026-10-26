@@ -560,6 +560,31 @@ const keyDates = upcomingFor(new Set([article.id]));
   /* tbody in the selector so highlights beat the zebra stripe on even rows. */
   .prose-news :global(tbody tr.is-next td){background:#fff7d6;font-weight:700}
   .prose-news :global(tbody tr.is-past td){color:#6b7280}
+  /* Daily puzzle pages (src/lib/puzzle-boards.mjs): shortcut bar, tap-to-reveal hints, solved boards. */
+  .prose-news :global(.pz-nav){display:flex;flex-wrap:wrap;gap:.5rem;margin:0 0 1.25rem}
+  .prose-news :global(.pz-nav a){display:inline-flex;align-items:center;min-height:44px;padding:0 1rem;border:1px solid var(--n-border);border-radius:999px;background:#fff;color:var(--focus);font-weight:700;font-size:.95rem;text-decoration:none;box-shadow:var(--n-shadow)}
+  .prose-news :global(.pz-nav a.pz-go){background:var(--focus);border-color:var(--focus);color:#fff}
+  .prose-news :global(.pz-nav a:hover){box-shadow:var(--n-shadow-h)}
+  .prose-news :global(details.pz-hint summary){display:flex;flex-wrap:wrap;align-items:center;gap:.25rem .6rem;min-height:44px;cursor:pointer;font-weight:700;color:var(--ink-strong);list-style:none}
+  .prose-news :global(details.pz-hint summary::-webkit-details-marker){display:none}
+  .prose-news :global(details.pz-hint summary::after){content:"Show hint";padding:.1rem .6rem;border:1px solid var(--focus);border-radius:999px;font-size:.8rem;font-weight:700;color:var(--focus);background:#fff}
+  .prose-news :global(details.pz-hint[open] summary::after){content:"Hide";color:var(--ink);border-color:var(--n-border)}
+  .prose-news :global(details.pz-hint > span){display:block;margin:.1rem 0 .4rem;padding:.5rem .8rem;border-left:4px solid var(--gold);background:#fffdf3;border-radius:0 8px 8px 0}
+  .prose-news :global(.pz-board){margin:0 0 1.5rem;padding:1rem;border:1px solid var(--n-border);border-radius:var(--n-radius);background:#fff;box-shadow:var(--n-shadow)}
+  .prose-news :global(.pz-board figcaption){margin:.75rem 0 0;font-size:.9rem;line-height:1.45;color:var(--ink)}
+  .prose-news :global(.pz-tiles){display:flex;justify-content:center;gap:.4rem;margin:0;padding:0;list-style:none}
+  .prose-news :global(.pz-tiles li){display:grid;place-items:center;width:clamp(2.6rem,14vw,3.6rem);aspect-ratio:1;margin:0;border-radius:4px;background:#3f7a3a;color:#fff;font:800 clamp(1.5rem,7vw,2rem)/1 Sora,"Sora Fallback",sans-serif}
+  .prose-news :global(.pz-groups){display:grid;gap:.5rem;margin:0;padding:0;list-style:none}
+  .prose-news :global(.pz-groups li){margin:0;padding:.75rem .9rem;border-radius:10px;text-align:center;color:#111}
+  .prose-news :global(.pz-groups strong){display:block;font-size:.95rem;letter-spacing:.05em;text-transform:uppercase}
+  .prose-news :global(.pz-groups span){display:block;font-size:.95rem;text-transform:uppercase}
+  .prose-news :global(.pz-groups .pz-y){background:#f9df6d}
+  .prose-news :global(.pz-groups .pz-g){background:#a0c35a}
+  .prose-news :global(.pz-groups .pz-b){background:#b0c4ef}
+  .prose-news :global(.pz-groups .pz-p){background:#ba81c5}
+  .prose-news :global(.pz-svg){display:block;width:100%;height:auto;max-width:440px;margin:0 auto}
+  .prose-news :global(.pz-strands .pz-svg){max-width:340px}
+  .prose-news :global(.pz-svg.pz-hive){max-width:220px}
   .article :global(section h2),.article :global(aside h2){font-family:Sora,"Sora Fallback",sans-serif;color:var(--ink-strong)}
   .article :global(section){margin:2rem 0}
   .progress{position:fixed;left:0;right:0;top:0;height:4px;z-index:70;pointer-events:none}
