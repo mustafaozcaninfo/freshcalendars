@@ -52,11 +52,11 @@ draft: false
 
 ## How Spelling Bee works
 
-You get seven letters in a honeycomb. Each word must be at least four letters long and must use the yellow center letter; letters can repeat. A four-letter word is worth 1 point and a longer word is worth one point per letter. A pangram uses all seven letters and earns 7 extra points. Genius sits at 70% of the day's total, which is 249 of 355 points today (70% is 248.5, rounded to 249).
+You get seven letters in a honeycomb. Each word must be at least four letters long and must use the yellow center letter; letters can repeat. That is the whole rulebook. A four-letter word is worth 1 point and a longer word is worth one point per letter. A pangram uses all seven letters and earns 7 extra points. Genius sits at 70% of the day's total, which is 249 of 355 points today (70% is 248.5, rounded to 249).
 
 ## How to use the hint grid
 
-The grid counts the answers by first letter and by length. Start with a row that has many short words, find those, then move to the longer columns. The two-letter list does the same job with more precision: "GI-10" means 10 answers begin with G and I.
+The grid counts the answers by first letter and by length. Think of it as a map. Start with a row that has many short words, find those, then move to the longer columns. The two-letter list does the same job with more precision: "GI-10" means 10 answers begin with G and I.
 
 ## Wednesday's hint grid, Oct. 28, 2026
 

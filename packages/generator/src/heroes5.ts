@@ -165,6 +165,22 @@ export const PUZZLE_HEROES: [string, string, string, string, string, string, str
   ["nyt-letter-boxed-answer-hints-october-29-2026", "letterboxed", "#3d1f1a", "#fa8072", "Letter Boxed · Thu., Oct. 29, 2026", "Letter Boxed hints", "Starting letters and word lengths first, the answer at the end."],
   ["contexto-answer-hints-october-26-2026-1499", "contexto", "#0f172a", "#eab308", "Contexto #1499 · Mon., Oct. 26, 2026", "Contexto hints", "Close words and hints first, the secret word only at the end."],
   ["contexto-answer-hints-october-27-2026-1500", "contexto", "#111827", "#22c55e", "Contexto #1500 · Tue., Oct. 27, 2026", "Contexto hints", "Close words and hints first, the secret word only at the end."],
+  ["wordle-hint-answer-today-october-30-2026-1959", "wordle", "#121213", "#c9b458", "Wordle #1959 · Fri., Oct. 30, 2026", "Wordle hints today", "Six clues from gentle to strong, the answer only at the end."],
+  ["nyt-connections-hints-answers-october-30-2026-1237", "connections", "#1e1a3a", "#f9df6d", "Connections #1237 · Fri., Oct. 30, 2026", "Connections hints", "Gentle hints for every group first, answers only at the end."],
+  ["nyt-strands-hints-answers-october-30-2026-971", "strands", "#0f2f3a", "#aedfee", "Strands #971 · Fri., Oct. 30, 2026", "Strands hints today", "Spangram and theme-word hints first, answers at the end."],
+  ["nyt-pips-hints-answers-october-30-2026", "pips", "#1e293b", "#fda4af", "Pips · Fri., Oct. 30, 2026", "Pips hints today", "Hints for Easy, Medium and Hard, placements at the end."],
+  ["nyt-spelling-bee-hints-answers-october-30-2026", "bee", "#1c1917", "#f7da21", "Spelling Bee · Fri., Oct. 30, 2026", "Spelling Bee hints", "Hint grid and two-letter list first, the word list at the end."],
+  ["nyt-letter-boxed-answer-hints-october-30-2026", "letterboxed", "#3d1f1a", "#fa8072", "Letter Boxed · Fri., Oct. 30, 2026", "Letter Boxed hints", "Starting letters and word lengths first, the answer at the end."],
+  ["wordle-hint-answer-today-october-31-2026-1960", "wordle", "#121213", "#c9b458", "Wordle #1960 · Sat., Oct. 31, 2026", "Wordle hints today", "Six clues from gentle to strong, the answer only at the end."],
+  ["nyt-connections-hints-answers-october-31-2026-1238", "connections", "#1e1a3a", "#f9df6d", "Connections #1238 · Sat., Oct. 31, 2026", "Connections hints", "Gentle hints for every group first, answers only at the end."],
+  ["nyt-strands-hints-answers-october-31-2026-972", "strands", "#0f2f3a", "#aedfee", "Strands #972 · Sat., Oct. 31, 2026", "Strands hints today", "Spangram and theme-word hints first, answers at the end."],
+  ["nyt-pips-hints-answers-october-31-2026", "pips", "#1e293b", "#fdba74", "Pips · Sat., Oct. 31, 2026", "Pips hints today", "Hints for Easy, Medium and Hard, placements at the end."],
+  ["nyt-spelling-bee-hints-answers-october-31-2026", "bee", "#1c1917", "#f7da21", "Spelling Bee · Sat., Oct. 31, 2026", "Spelling Bee hints", "Hint grid and two-letter list first, the word list at the end."],
+  ["nyt-letter-boxed-answer-hints-october-31-2026", "letterboxed", "#3d1f1a", "#fa8072", "Letter Boxed · Sat., Oct. 31, 2026", "Letter Boxed hints", "Starting letters and word lengths first, the answer at the end."],
+  ["contexto-answer-hints-october-28-2026-1501", "contexto", "#0f172a", "#f59e0b", "Contexto #1501 · Wed., Oct. 28, 2026", "Contexto hints", "Close words and hints first, the secret word only at the end."],
+  ["contexto-answer-hints-october-29-2026-1502", "contexto", "#0f172a", "#a78bfa", "Contexto #1502 · Thu., Oct. 29, 2026", "Contexto hints", "Close words and hints first, the secret word only at the end."],
+  ["contexto-answer-hints-october-30-2026-1503", "contexto", "#0f172a", "#38bdf8", "Contexto #1503 · Fri., Oct. 30, 2026", "Contexto hints", "Close words and hints first, the secret word only at the end."],
+  ["contexto-answer-hints-october-31-2026-1504", "contexto", "#0f172a", "#fb923c", "Contexto #1504 · Sat., Oct. 31, 2026", "Contexto hints", "Close words and hints first, the secret word only at the end."],
 ];
 
 export async function buildHeroes5(only?: string): Promise<void> {
