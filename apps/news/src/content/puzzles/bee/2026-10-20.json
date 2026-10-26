@@ -1,0 +1,26 @@
+{
+ "center_letter": "h",
+ "outer_letters": "cikmnu",
+ "pangrams": [
+  "munchkin"
+ ],
+ "answers": [
+  "chic",
+  "chichi",
+  "chick",
+  "chin",
+  "chuck",
+  "chum",
+  "chunk",
+  "cinch",
+  "hick",
+  "hunch",
+  "hunk",
+  "inch",
+  "kimchi",
+  "much",
+  "munch",
+  "nunchuck",
+  "nunchuk"
+ ]
+}

@@ -88,7 +88,7 @@ Some dominoes on the Easy and Medium boards can be flipped without breaking a ru
 
 **Medium, by Rodolfo Kurchan.** Regions: R1C6 and R2C6 total less than 6; R2C2 is more than 2; R2C3, R3C2, R3C3 and R3C4 are equal; R2C4 adds up to 0; R2C5, R3C5 and R3C6 are all different; R1C1, R2C1 and R3C1 take any value.
 
-- 1-3: R2C6 = 3, R1C6 = 1
+- 1-3: R2C6 = 1, R1C6 = 3
 - 4-5: R3C5 = 4, R3C6 = 5
 - 6-6: R3C3 = 6, R3C4 = 6
 - 0-3: R2C4 = 0, R2C5 = 3
