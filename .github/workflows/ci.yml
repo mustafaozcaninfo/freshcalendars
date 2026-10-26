@@ -5,10 +5,12 @@ on:
     branches: [main, master]
   pull_request:
 
-# A newer push to the same pull request cancels the older run.
+# A newer push to the same pull request cancels the older run. Pushes to main each get their own
+# group: cancelling there held every story back until pushes stopped, and auto-publish only
+# waits for the run of the newest commit anyway.
 concurrency:
-  group: ci-${{ github.ref }}
-  cancel-in-progress: true
+  group: ci-${{ github.event_name == 'pull_request' && github.ref || github.sha }}
+  cancel-in-progress: ${{ github.event_name == 'pull_request' }}
 
 jobs:
   verify:
@@ -52,6 +54,18 @@ jobs:
           cache: pnpm
       - name: Install
         run: pnpm install --frozen-lockfile
+      # Story-only changes (the same paths auto-publish treats as content) cannot change colours,
+      # so they skip the calendar build and contrast gate: about three of the run's five minutes.
+      - name: Story-only change?
+        id: scope
+        run: |
+          base="${{ github.event_name == 'pull_request' && github.event.pull_request.base.sha || github.event.before }}"
+          only=false
+          if git fetch -q --depth=1 origin "$base" 2>/dev/null && files="$(git diff --name-only "$base" HEAD)"; then
+            grep -vE '^apps/news/(src/content/|src/assets/|public/|src/lib/keydates\.ts$)' <<<"$files" | grep -q . || only=true
+          fi
+          echo "story_only=$only" >>"$GITHUB_OUTPUT"
+          echo "story-only change: $only"
       # Astro's optimized-image cache. Entries are named by a hash of the source and the options,
       # so a stale entry is never used for a changed image; restore-keys picks up the latest cache.
       - name: Restore image cache
@@ -79,10 +93,13 @@ jobs:
       # Text contrast gate (WCAG AA 4.5:1, 3:1 for large text) over every calendar and /news/ page,
       # desktop and phone, plus hover and focus on representative pages. Needs the built site too.
       - name: Install Chromium
+        if: steps.scope.outputs.story_only != 'true'
         run: pnpm --filter @freshcalendars/generator exec playwright install --with-deps chromium
       - name: Build calendar site HTML
+        if: steps.scope.outputs.story_only != 'true'
         run: pnpm fc gen-meta
       - name: Text contrast (WCAG AA)
+        if: steps.scope.outputs.story_only != 'true'
         run: pnpm smoke:contrast
       - name: Changed stories
         if: github.event_name == 'pull_request'

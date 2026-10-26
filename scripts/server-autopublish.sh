@@ -4,7 +4,7 @@
 #   1. fetch origin/main;
 #   2. if main moved and GitHub CI finished green on that exact commit, copy it into the app
 #      directory the way scripts/sync-app.sh does from the Mac (content only when only stories,
-#      images or printables changed) and run the news-publish job (flock-protected);
+#      images, printables or keydates.ts changed) and run the news-publish job (flock-protected);
 #   3. if main did not move but a scheduled story's publishedAt has passed since the last
 #      publish, run news-publish so it goes live.
 # A red or cancelled CI run is never published. Reading the private repository and its CI status
@@ -60,7 +60,7 @@ if [[ "$SHA" != "$LAST" ]]; then
   esac
   if [[ -z "$LAST" ]] || ! git -C "$SRC" cat-file -e "$LAST" 2>/dev/null; then MODE=full
   # Read the list first: `grep -q` exits early and pipefail would turn that into "no match".
-  elif FILES="$(git -C "$SRC" diff --name-only "$LAST" "$SHA")"; grep -vE '^apps/news/(src/content|src/assets|public)/' <<<"$FILES" | grep -q .; then MODE=full
+  elif FILES="$(git -C "$SRC" diff --name-only "$LAST" "$SHA")"; grep -vE '^apps/news/(src/content/|src/assets/|public/|src/lib/keydates\.ts$)' <<<"$FILES" | grep -q .; then MODE=full
   else MODE=content; fi
   REASON="main ${SHA:0:7} (CI green)"
 else
@@ -83,6 +83,7 @@ R=(rsync -a --delete --exclude '.DS_Store')
 if [[ "$MODE" == "content" ]]; then
   # Same three folders as NEWS_CONTENT_ONLY=1 pnpm news:deploy.
   for d in src/content src/assets public; do "${R[@]}" "$SRC/apps/news/$d/" "$APP_DIR/apps/news/$d/"; done
+  cp "$SRC/apps/news/src/lib/keydates.ts" "$APP_DIR/apps/news/src/lib/keydates.ts"  # stories add their dates here
 elif [[ "$MODE" == "full" ]]; then
   # Same set as scripts/sync-app.sh; secrets (.env), node_modules, dist and caches stay as they are.
   "${R[@]}" --exclude 'node_modules' --exclude 'dist' "$SRC/packages/" "$APP_DIR/packages/"
