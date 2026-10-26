@@ -1,0 +1,39 @@
+{
+ "center_letter": "h",
+ "outer_letters": "egilnw",
+ "pangrams": [
+  "wheeling"
+ ],
+ "answers": [
+  "ghee",
+  "heel",
+  "heeling",
+  "heinie",
+  "hell",
+  "henge",
+  "hewing",
+  "hewn",
+  "high",
+  "hill",
+  "hilling",
+  "hinge",
+  "hinging",
+  "neigh",
+  "neighing",
+  "nigh",
+  "weigh",
+  "weighing",
+  "whee",
+  "wheel",
+  "wheelie",
+  "when",
+  "whew",
+  "while",
+  "whiling",
+  "whine",
+  "whinge",
+  "whingeing",
+  "whinging",
+  "whining"
+ ]
+}

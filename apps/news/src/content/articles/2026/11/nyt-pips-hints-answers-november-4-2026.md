@@ -94,7 +94,7 @@ Two dominoes on the Medium board can be flipped without breaking a rule: the 4-0
 - 5-3: R2C4 = 5, R3C4 = 3
 - 4-0: R3C1 = 4, R3C2 = 0
 - 3-3: R4C4 = 3, R4C5 = 3
-- 5-4: R5C2 = 4, R4C2 = 5
+- 5-4: R5C2 = 5, R4C2 = 4
 
 **Hard, by Rodolfo Kurchan.** Regions: R1C1 adds up to 4; R1C2 adds up to 3; R1C3 adds up to 3; R1C4 adds up to 2; R1C5 adds up to 5; R2C1 adds up to 5; R2C2 adds up to 0; R2C3 adds up to 0; R2C4 adds up to 1; R2C5 adds up to 1; R3C1 adds up to 2; R3C2 adds up to 0; R3C3 adds up to 1; R3C4 adds up to 2; R3C5 adds up to 3; R3C6 adds up to 3; R4C1 adds up to 2; R4C2 adds up to 3; R4C3 adds up to 5; R4C4 adds up to 3; R4C5 adds up to 2; R4C6 and R5C6 are equal; R5C2 adds up to 0; R5C4 adds up to 6; R5C5, R6C5 and R6C6 are equal; R6C2 adds up to 4; R6C3 and R6C4 are equal; R5C3 takes any value.
 

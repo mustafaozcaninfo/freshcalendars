@@ -1,0 +1,37 @@
+{
+ "center_letter": "l",
+ "outer_letters": "cgiotx",
+ "pangrams": [
+  "toxicologic"
+ ],
+ "answers": [
+  "clog",
+  "clot",
+  "coil",
+  "colic",
+  "colt",
+  "cool",
+  "gigolo",
+  "gill",
+  "gilt",
+  "googol",
+  "igloo",
+  "illicit",
+  "illogic",
+  "licit",
+  "lilt",
+  "loci",
+  "loco",
+  "logic",
+  "logo",
+  "loll",
+  "loot",
+  "lotto",
+  "olio",
+  "till",
+  "tilt",
+  "toil",
+  "toll",
+  "tool"
+ ]
+}

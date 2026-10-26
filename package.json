@@ -26,6 +26,8 @@
     "news:verify": "node scripts/news-verify.mjs",
     "news:deploy": "bash scripts/news-deploy.sh",
     "news:seo-audit": "node scripts/news-seo-audit.mjs",
+    "news:puzzle-check": "node scripts/news-puzzle-check.mjs",
+    "news:puzzle-data": "node scripts/news-puzzle-data.mjs",
     "news:index": "node scripts/index-submit.mjs"
   },
   "devDependencies": {

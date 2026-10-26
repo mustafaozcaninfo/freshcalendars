@@ -1,0 +1,43 @@
+{
+ "center_letter": "d",
+ "outer_letters": "acetvx",
+ "pangrams": [
+  "excavated"
+ ],
+ "answers": [
+  "accede",
+  "acceded",
+  "aced",
+  "acted",
+  "added",
+  "axed",
+  "cadet",
+  "caved",
+  "cede",
+  "ceded",
+  "data",
+  "date",
+  "dated",
+  "dead",
+  "decade",
+  "deed",
+  "deeded",
+  "detect",
+  "detected",
+  "eaved",
+  "evade",
+  "evaded",
+  "exacted",
+  "exceed",
+  "exceeded",
+  "tatted",
+  "taxed",
+  "teed",
+  "texted",
+  "vacated",
+  "vaxed",
+  "vaxxed",
+  "vetted",
+  "vexed"
+ ]
+}

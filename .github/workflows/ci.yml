@@ -28,6 +28,9 @@ jobs:
         run: pnpm install --frozen-lockfile
       - name: Test
         run: pnpm test
+      # Daily puzzle pages vs the official data saved with them (offline): a wrong answer never publishes.
+      - name: Puzzle answers vs official data
+        run: pnpm news:puzzle-check
       - name: Verify dist (skip if no prior gen artifacts)
         run: |
           if [ -f dist/manifest.json ]; then
