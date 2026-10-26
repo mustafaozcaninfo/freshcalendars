@@ -10,9 +10,9 @@
  * Ads are on by default so the VPS cron build matches local builds; NEWS_ADS=0 turns them off.
  * Unit IDs live in ./ad-units.mjs (shared with the in-article rehype plugin).
  */
-import { ADS_ENABLED, NEWS_AD_CLIENT, NEWS_AD_UNITS } from "./ad-units.mjs";
+import { ADS_ENABLED, NEWS_AD_CLIENT, NEWS_AD_RULES, NEWS_AD_UNITS } from "./ad-units.mjs";
 
-export { ADS_ENABLED, NEWS_AD_UNITS };
+export { ADS_ENABLED, NEWS_AD_RULES, NEWS_AD_UNITS };
 export const ADSENSE_CLIENT = NEWS_AD_CLIENT;
 export type NewsAdUnit = 1 | 2 | 3 | 4 | 5 | 6;
 
@@ -25,9 +25,9 @@ export const AD_ORIGINS = {
 /**
  * Loader, appended to the existing nav inline script at the end of <body> (the page keeps ≤2
  * inline scripts and no external <script src>). It injects adsbygoogle.js right away, while the
- * page is still loading, and requests every visible unit at once. Unfilled units collapse only
- * while off screen (no layout shift in view). Units hidden by CSS (the sidebar
- * on phones) are never requested. No ?client= on the script, so account-level Auto ads cannot
+ * page is still loading, and requests each visible unit as it nears the screen
+ * (NEWS_AD_RULES.lazyMargin). Unfilled units collapse only while off screen (no layout shift in
+ * view). Units hidden by CSS (the sidebar on phones) are never requested. No ?client= on the script, so account-level Auto ads cannot
  * inject unplanned units. data-overlays="bottom" keeps anchor ads at the bottom of the screen:
  * a top anchor pads <body> by its height and pushes the whole page down (CLS).
  */
@@ -43,12 +43,19 @@ export const ADS_LOADER_JS = `
   window.adsbygoogle=window.adsbygoogle||[];
   // Sidebar rail units: a 300×600 half page when the window can show it whole under the header.
   var tall=innerHeight>=760;
-  slots.forEach(function(ins){
+  function push(ins){
     if(ins.dataset.pushed||!ins.offsetWidth) return;
     if(tall&&ins.parentNode.classList.contains('ad-slot--side')) ins.style.height='600px';
     ins.dataset.pushed='1';
     try{window.adsbygoogle.push({});}catch(e){}
-  });
+  }
+  // Units within ${NEWS_AD_RULES.lazyMargin} of a screen are requested now, the rest as the reader nears
+  // them: a reader who leaves early never loads the end-of-page units, and every unit fills while
+  // still off screen, so its final size never moves what the reader is looking at.
+  if('IntersectionObserver' in window){
+    var near=new IntersectionObserver(function(es){ es.forEach(function(e){ if(e.isIntersecting){ near.unobserve(e.target); push(e.target); } }); },{rootMargin:'${NEWS_AD_RULES.lazyMargin} 0px'});
+    slots.forEach(function(ins){ if(ins.offsetWidth) near.observe(ins); });
+  } else slots.forEach(push);
   // AdSense first sizes a responsive unit to its largest candidate, then shrinks it to the ad it
   // serves; a slot keeps the tallest height it reached, so content below never jumps up.
   if('ResizeObserver' in window){

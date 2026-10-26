@@ -83,6 +83,15 @@ check("01-ADS-CENTER", "One top ad under the breadcrumb, other ads stay out of t
     }
     return null;
   }));
+check("01-ADS-SPOILER", "No in-article ad inside a spoiler section: puzzle answers run unbroken from their (spoilers) heading to the next section (Google ad placement policy, accidental clicks)", () =>
+  each(urls, (u, h) => {
+    const prose = h.match(/<div class="prose-news[\s\S]*$/)?.[0] ?? "";
+    for (const m of prose.matchAll(/<aside class="ad-slot[^"]*ad-slot--mid/g)) {
+      const heads = [...prose.slice(0, m.index).matchAll(/<h2[^>]*>([\s\S]*?)<\/h2>/g)];
+      if (heads.length && /\bspoilers?\b/i.test(heads.at(-1)[1])) return "in-article ad inside a spoiler section";
+    }
+    return null;
+  }));
 check("01-ADS-LOAD", "Ads load at page load without blocking: no <script src> for AdSense, preconnect hint, reserved min-height (§01 SOP, CWV)", () =>
   each(urls, (u, h) => {
     if (!/class="ad-slot/.test(h)) return /googlesyndication/.test(h) ? "AdSense hints on a page without ads" : null;
