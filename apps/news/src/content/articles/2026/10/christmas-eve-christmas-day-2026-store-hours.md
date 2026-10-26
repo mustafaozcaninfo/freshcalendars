@@ -4,6 +4,7 @@ seoTitle: "Christmas Eve and Christmas Day 2026 Store Hours"
 description: "Store hours for Christmas Eve, Thursday, Dec. 24, 2026, and what is open on Christmas Day: stores, pharmacies, banks, mail and markets, plus a printable."
 type: update
 publishedAt: "2026-10-21T00:32:00-04:00"
+updatedAt: "2026-10-26T13:00:00-04:00"
 authors: [jordan-bennett]
 category: retail-dates
 keywords: ["Christmas Eve store hours 2026", "what's open on Christmas Day 2026", "Walmart Christmas Eve hours", "stores open Christmas Day", "is the post office open Christmas Eve"]
@@ -20,7 +21,7 @@ summary:
   - "The stock market closes at 1 p.m. Eastern Time (ET) on Dec. 24; banks, post offices and markets are closed on Dec. 25."
 faq:
   - q: "What time does Walmart close on Christmas Eve 2026?"
-    a: "Walmart has not announced 2026 hours. On Christmas Eve 2025 its stores were open 6 a.m. to 6 p.m., and they were closed on Christmas Day."
+    a: "Walmart has not announced its 2026 Christmas Eve hours. It confirmed on Oct. 7 that stores will be closed on Christmas Day. On Christmas Eve 2025 its stores were open 6 a.m. to 6 p.m."
   - q: "What stores are open on Christmas Day 2026?"
     a: "Most big retailers and grocery chains close on Christmas Day. Many CVS and Walgreens stores, 7-Eleven and some McDonald's and Starbucks locations open, often with shorter hours and pharmacies closed or limited. Check your local store."
   - q: "Is the post office open on Christmas Eve?"
@@ -32,6 +33,10 @@ faq:
   - q: "Is Christmas Eve a federal holiday in 2026?"
     a: "No. Christmas Day is a federal holiday by law. In 2024 and 2025, presidents gave federal workers Christmas Eve off by executive order, but each order covered only that year, and none has been issued for 2026."
 sources:
+  - title: "New Ways to Shop, Holiday Traditions to Keep: Walmart is Ready for the Season"
+    url: "https://corporate.walmart.com/news/2026/10/walmart-is-ready-for-the-season"
+    publisher: "Walmart"
+    date: "2026-10-07"
   - title: "Store Holiday Hours"
     url: "https://corporate.homedepot.com/news/company/store-holiday-hours-home-depot"
     publisher: "The Home Depot"
@@ -93,7 +98,7 @@ downloads:
 draft: false
 ---
 
-<p class="callout"><b>Last updated Oct. 21, 2026, 12:30 a.m. ET.</b> Home Depot and Lowe's have published their 2026 Christmas plans. Most chains post holiday hours in December; we update this list as they do.</p>
+<p class="callout"><b>Last updated Oct. 26, 2026, 1 p.m. ET.</b> Walmart has confirmed its stores close on Christmas Day. Home Depot and Lowe's have published their 2026 Christmas plans. Most chains post holiday hours in December; we update this list as they do.</p>
 
 **Christmas Eve falls on Thursday, Dec. 24, 2026, and Christmas Day on Friday, Dec. 25, so most stores will close early on a weekday and stay shut on Friday.** Home Depot has already posted its 2026 hours: open until 5 p.m. on Christmas Eve and closed on Christmas Day. Lowe's says its stores will be closed on Christmas Day. For other chains, last year's hours are the best guide until each one confirms. Below: Christmas Eve closing times, what is open on Christmas Day, banks, mail and the stock market, and a free checklist in three styles.
 
@@ -103,7 +108,7 @@ draft: false
 |---|---|---|---|
 | Home Depot | Closes 5 p.m. | Closed | 2026 confirmed |
 | Lowe's | Not yet announced | Closed | Christmas Day closure confirmed for 2026 |
-| Walmart | 6 a.m. to 6 p.m. in 2025 | Closed in 2025 | 2026 not announced |
+| Walmart | 6 a.m. to 6 p.m. in 2025 | Closed | Christmas Day closure confirmed for 2026 |
 | Sam's Club | 8 a.m. (Plus) or 9 a.m. to 6 p.m. in 2025 | Closed in 2025 | 2026 not announced |
 | Costco | 10 a.m. to 5 p.m. in 2025 | Closed in 2025 | 2026 not announced |
 | H-E-B | 6 a.m. to 8 p.m. in 2025; pharmacy to 5 p.m. | Closed in 2025 | 2026 not announced |
@@ -115,7 +120,7 @@ The 2025 hours come from Spectrum News's holiday list of Dec. 23, 2025, and Home
 
 ## What is closed on Christmas Day
 
-Last year Aldi, Costco, Harris Teeter, Home Depot, IKEA, Jewel-Osco, Kroger, Lowe's, Macy's, Meijer, Publix, Sam's Club, Sprouts, Target, Trader Joe's, Walmart and Whole Foods all closed on Christmas Day, Scripps News reported. Expect the same list in 2026: the stores reopen on Saturday, Dec. 26, which also starts the busy week of returns and gift-card shopping.
+Last year Aldi, Costco, Harris Teeter, Home Depot, IKEA, Jewel-Osco, Kroger, Lowe's, Macy's, Meijer, Publix, Sam's Club, Sprouts, Target, Trader Joe's, Walmart and Whole Foods all closed on Christmas Day, Scripps News reported. Walmart has confirmed it will close again on Christmas Day 2026; expect the rest of the list to repeat: the stores reopen on Saturday, Dec. 26, which also starts the busy week of returns and gift-card shopping.
 
 ## What is usually open on Christmas Day
 

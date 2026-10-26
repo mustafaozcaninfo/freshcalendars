@@ -1,10 +1,10 @@
 ---
 title: "GTA 6 Release Date Is Still Nov. 19: What Rockstar Has Confirmed and Every Date Until Launch"
 seoTitle: "GTA 6 Release Still Nov. 19: What's Confirmed"
-description: "Rockstar's Grand Theft Auto VI page still lists Nov. 19, 2026, as of Oct. 24. What is official: the $79.99 price, Nov. 12 pre-load and every date until launch."
+description: "Rockstar's Grand Theft Auto VI page still lists Nov. 19, 2026, as of Oct. 26. What is official: the $79.99 price, Nov. 12 pre-load and every date until launch."
 type: news
 publishedAt: "2026-10-20T15:00:00-04:00"
-updatedAt: "2026-10-24T01:40:00-04:00"
+updatedAt: "2026-10-26T13:00:00-04:00"
 authors: [jordan-bennett]
 category: retail-dates
 keywords: ["GTA 6 October 22", "GTA 6 release date", "GTA 6 preload date", "GTA 6 news this week", "GTA 6 countdown"]
@@ -15,13 +15,13 @@ hero:
   title: "GTA 6: what is confirmed before the Nov. 19 launch"
   caption: "Grand Theft Auto VI launches Nov. 19, 2026, on PlayStation 5 and Xbox Series X|S. Pre-loading opens Nov. 12."
 summary:
-  - "Rockstar's Grand Theft Auto VI page still lists the Thursday, Nov. 19, 2026 launch as of Oct. 24. Rockstar posts most GTA VI news on Thursdays, most recently the Launch Trailer on Oct. 15."
+  - "Rockstar's Grand Theft Auto VI page still lists the Thursday, Nov. 19, 2026 launch as of Oct. 26. Rockstar posts most GTA VI news on Thursdays, most recently the Launch Trailer on Oct. 15."
   - "Confirmed by Take-Two Interactive: launch on Thursday, Nov. 19, 2026, on PlayStation 5 and Xbox Series X|S for $79.99, or $99.99 for the Ultimate Edition."
   - "Digital pre-orders can pre-load from Nov. 12, the same day the boxed edition, which holds a download code and no disc, goes on sale."
   - "Take-Two reports quarterly results on Nov. 9, its last report before launch. Rockstar has not announced a PC version."
 faq:
   - q: "Did GTA 6 change its release date?"
-    a: "No. Rockstar's official Grand Theft Auto VI page still lists the Thursday, Nov. 19, 2026 launch and the $79.99 price as of Oct. 24. Rockstar posts most GTA VI news on Thursdays, so watch the Rockstar Newswire for any further reveals before launch."
+    a: "No. Rockstar's official Grand Theft Auto VI page still lists the Thursday, Nov. 19, 2026 launch and the $79.99 price as of Oct. 26. Rockstar posts most GTA VI news on Thursdays, so watch the Rockstar Newswire for any further reveals before launch."
   - q: "When does GTA 6 come out?"
     a: "Thursday, Nov. 19, 2026, on PlayStation 5 and Xbox Series X|S, according to Rockstar Games and Take-Two Interactive."
   - q: "When can I pre-load GTA 6?"
@@ -99,13 +99,13 @@ downloads:
 draft: false
 ---
 
-<p class="callout"><b>Updated Sat., Oct. 24, 2026.</b> Rockstar's Grand Theft Auto VI page still lists Nov. 19, 2026, for PlayStation 5 and Xbox Series X|S as of Oct. 24. For the launch time where you live, see our <a href="/news/gta-6-countdown-release-time-by-time-zone/">Grand Theft Auto VI countdown and release time by time zone</a>.</p>
+<p class="callout"><b>Updated Mon., Oct. 26, 2026.</b> Rockstar's Grand Theft Auto VI page still lists Nov. 19, 2026, for PlayStation 5 and Xbox Series X|S as of Oct. 26. For the launch time where you live, see our <a href="/news/gta-6-countdown-release-time-by-time-zone/">Grand Theft Auto VI countdown and release time by time zone</a>.</p>
 
-**Grand Theft Auto (GTA) VI is still set to launch Thursday, Nov. 19, 2026, on PlayStation 5 and Xbox Series X|S.** Rockstar's official game page still lists that date as of Oct. 24, and pre-loading opens a week earlier, on Nov. 12. The game has drawn attention on recent Thursdays, when Rockstar posted GTA VI news, most recently the Launch Trailer on Oct. 15. Rockstar has not said it follows a weekly schedule. Below is everything official, with every date until launch.
+**Grand Theft Auto (GTA) VI is still set to launch Thursday, Nov. 19, 2026, on PlayStation 5 and Xbox Series X|S.** Rockstar's official game page still lists that date as of Oct. 26, and pre-loading opens a week earlier, on Nov. 12. The game has drawn attention on recent Thursdays, when Rockstar posted GTA VI news, most recently the Launch Trailer on Oct. 15. Rockstar has not said it follows a weekly schedule. Below is everything official, with every date until launch.
 
 ## What Rockstar and Take-Two have confirmed
 
-These come from Take-Two Interactive's pre-order announcement of June 24, 2026, and from Rockstar's official game page as of Oct. 24.
+These come from Take-Two Interactive's pre-order announcement of June 24, 2026, and from Rockstar's official game page as of Oct. 26.
 
 | Item | Confirmed detail |
 |---|---|

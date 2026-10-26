@@ -4,6 +4,7 @@ seoTitle: "Black Friday 2026 Store Hours: Walmart, Target, Best Buy"
 description: "Black Friday is Nov. 27, 2026. Opening times for Walmart, Target, Best Buy, Costco and more, which stores close on Thanksgiving, and a printable planner."
 type: update
 publishedAt: "2026-10-20T17:30:00-04:00"
+updatedAt: "2026-10-26T13:00:00-04:00"
 authors: [jordan-bennett]
 category: retail-dates
 keywords: ["Black Friday 2026 store hours", "what time does Walmart open on Black Friday", "Target Black Friday hours 2026", "Best Buy Black Friday 2026", "stores closed on Thanksgiving 2026"]
@@ -20,18 +21,22 @@ summary:
   - "The stock market closes early, at 1 p.m. Eastern Time (ET), on Black Friday."
 faq:
   - q: "What time does Walmart open on Black Friday 2026?"
-    a: "Walmart has not announced its 2026 hours. Last year its stores opened at 6 a.m. on Black Friday after closing on Thanksgiving, according to The Associated Press. We will update this story when Walmart confirms."
+    a: "Walmart has not given a Black Friday opening time. It confirmed on Oct. 7 that stores close on Thanksgiving, Nov. 26, and its Black Friday Deals event (Nov. 23 to 29) starts in stores at 6 a.m. local time. Last year stores opened at 6 a.m. on Black Friday, The Associated Press reported."
   - q: "What time does Target open on Black Friday?"
     a: "Target opened at 6 a.m. on Black Friday 2025 and closed on Thanksgiving. Its 2026 hours have not been announced."
   - q: "Is Best Buy open on Thanksgiving 2026?"
     a: "Best Buy has closed on Thanksgiving in recent years and opened at 6 a.m. on Black Friday 2025, staying open until 10 p.m. It has not announced 2026 hours."
   - q: "Which stores are closed on Thanksgiving 2026?"
-    a: "Home Depot and Lowe's have confirmed they will close on Thanksgiving, Nov. 26, 2026. Walmart, Target, Best Buy, Costco, Kohl's, Macy's and most other big chains closed on Thanksgiving in 2025; many grocery stores and pharmacies open with shorter hours."
+    a: "Walmart, Home Depot and Lowe's have confirmed they will close on Thanksgiving, Nov. 26, 2026. Target, Best Buy, Costco, Kohl's, Macy's and most other big chains closed on Thanksgiving in 2025; many grocery stores and pharmacies open with shorter hours."
   - q: "When is Black Friday 2026?"
     a: "Friday, Nov. 27, 2026, the day after Thanksgiving. Cyber Monday is Monday, Nov. 30."
   - q: "Is the stock market open on Black Friday?"
     a: "Yes, but it closes early. The New York Stock Exchange trades until 1 p.m. ET on Friday, Nov. 27, 2026, and is closed on Thanksgiving."
 sources:
+  - title: "New Ways to Shop, Holiday Traditions to Keep: Walmart is Ready for the Season"
+    url: "https://corporate.walmart.com/news/2026/10/walmart-is-ready-for-the-season"
+    publisher: "Walmart"
+    date: "2026-10-07"
   - title: "Store Holiday Hours"
     url: "https://corporate.homedepot.com/news/company/store-holiday-hours-home-depot"
     publisher: "The Home Depot"
@@ -89,7 +94,7 @@ downloads:
 draft: false
 ---
 
-<p class="callout"><b>Last updated Oct. 20, 2026, 5:30 p.m. ET.</b> Home Depot and Lowe's have confirmed their 2026 holiday plans. Other chains usually announce Black Friday hours in early to mid-November; we update this list as they do.</p>
+<p class="callout"><b>Last updated Oct. 26, 2026, 1 p.m. ET.</b> Walmart confirmed its stores close on Thanksgiving, and its Black Friday Deals event runs Nov. 23 to 29. Home Depot and Lowe's have also confirmed their 2026 holiday plans. Other chains usually announce Black Friday hours in early to mid-November; we update this list as they do.</p>
 
 **Black Friday is Friday, Nov. 27, 2026, and most big chains will open their doors between 5 and 6 a.m. after closing for Thanksgiving.** Home Depot is the first major retailer to publish its 2026 hours: closed on Thursday, Nov. 26, and open at 6 a.m. on Black Friday. Lowe's says its stores will also close on Thanksgiving. For Walmart, Target, Best Buy and the rest, last year's hours are the best guide until each chain confirms. Below: the opening times, who closes on Thanksgiving, when the online sales start, and a free planner in three styles.
 
@@ -99,7 +104,7 @@ draft: false
 |---|---|---|---|
 | Home Depot | Closed | Opens 6 a.m. | 2026 confirmed |
 | Lowe's | Closed | Opened 6 a.m. in 2025 | Thanksgiving closure confirmed for 2026 |
-| Walmart | Closed in 2025 | Opened 6 a.m. in 2025 | 2026 not announced |
+| Walmart | Closed | Opened 6 a.m. in 2025 | Thanksgiving closure confirmed for 2026 |
 | Target | Closed in 2025 | Opened 6 a.m. in 2025 | 2026 not announced |
 | Best Buy | Closed in 2025 | 6 a.m. to 10 p.m. in 2025 | 2026 not announced |
 | Dick's Sporting Goods | Closed in 2025 | 6 a.m. to 10 p.m. in 2025 | 2026 not announced |
@@ -113,11 +118,11 @@ The 2025 hours come from The Associated Press's Black Friday roundup, and Home D
 
 ## Which stores close on Thanksgiving
 
-Most national chains now stay closed on Thanksgiving Day. For 2026, Home Depot and Lowe's have confirmed it; Lowe's said its stores "will remain closed on Thanksgiving Day" while online deals continue. Walmart, Target, Best Buy, Costco, Kohl's, Macy's and Dick's all closed on Thanksgiving in 2025. Grocery stores and pharmacies are the main exception: many open on Thanksgiving morning with shorter hours, so check before you go. Our [Costco holiday hours list](/news/costco-holiday-hours-closures-2026-2027/) has every day Costco closes through 2027.
+Most national chains now stay closed on Thanksgiving Day. For 2026, Walmart, Home Depot and Lowe's have confirmed it; Walmart said stores "will be closed again on Thanksgiving and Christmas this year," and Lowe's said its stores "will remain closed on Thanksgiving Day" while online deals continue. Target, Best Buy, Costco, Kohl's, Macy's and Dick's all closed on Thanksgiving in 2025. Grocery stores and pharmacies are the main exception: many open on Thanksgiving morning with shorter hours, so check before you go. Our [Costco holiday hours list](/news/costco-holiday-hours-closures-2026-2027/) has every day Costco closes through 2027.
 
 ## When the deals start
 
-Black Friday sales now run for weeks before the day itself. Lowe's starts "Four Weeks of Black Friday Deals" on Oct. 29, followed by 12 Days of Deals beginning Nov. 16, with early online access for MyLowe's Rewards members. Last year Walmart ran its Black Friday Deals events from Nov. 14 to 16 and Nov. 25 to 30, and Amazon's Black Friday Week ran Nov. 20 to Dec. 1. Both have yet to announce 2026 dates.
+Black Friday sales now run for weeks before the day itself. Lowe's starts "Four Weeks of Black Friday Deals" on Oct. 29, followed by 12 Days of Deals beginning Nov. 16, with early online access for MyLowe's Rewards members. This year Walmart runs Early Black Friday Deals from Nov. 12 to 15 and Black Friday Deals from Nov. 23 to 29, with online access at 12:01 a.m. ET and stores at 6 a.m. local time, it announced on Oct. 26; last year the events ran Nov. 14 to 16 and Nov. 25 to 30, and Amazon's Black Friday Week ran Nov. 20 to Dec. 1. Both have yet to announce 2026 dates.
 
 ## The rest of the long weekend
 

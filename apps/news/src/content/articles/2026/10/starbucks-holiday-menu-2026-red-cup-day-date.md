@@ -4,6 +4,7 @@ seoTitle: "Starbucks Holiday Menu 2026: Nov. 5 Date, Red Cup Day"
 description: "Starbucks' 2026 holiday menu returns Thursday, Nov. 5, with Peppermint Mocha and a new Tiramisu Velvet Latte. Red Cup Day's date is not yet announced."
 type: news
 publishedAt: "2026-10-24T00:50:00-04:00"
+updatedAt: "2026-10-26T13:00:00-04:00"
 authors: [jordan-bennett]
 category: retail-dates
 keywords: ["Starbucks holiday menu 2026", "Starbucks red cup day 2026", "when does Starbucks holiday menu come out 2026", "Starbucks holiday cups 2026"]
@@ -38,9 +39,10 @@ assets:
       - { when: "Nov. 5", what: "Holiday Bearista collection", section: "Merchandise" }
       - { when: "Nov. 5", what: "Holiday Village collection", section: "Merchandise" }
       - { when: "Nov. 5", what: "Peppermint Mocha collection", section: "Merchandise" }
+      - { when: "Nov. 10", what: "Bearista Glass Cold Cup, Surprise Box Edition", section: "Merchandise" }
       - { when: "Nov. 17", what: "Winter Wonderland collection", section: "Merchandise" }
-      - { when: "TBA", what: "Original Bearista Glass Cold Cup returns", section: "Merchandise" }
-    note: "Source: Starbucks, Starbucks holiday menu is coming to town Nov. 5, about.starbucks.com, Oct. 5, 2026. Red Cup Day date not yet announced."
+      - { when: "Dec. 1", what: "Original Bearista Glass Cold Cup returns", section: "Merchandise" }
+    note: "Source: Starbucks, Starbucks holiday menu is coming to town Nov. 5, about.starbucks.com, Oct. 5, 2026, and Bearista cold cup dates, Oct. 26, 2026. Red Cup Day date not yet announced."
     inkSaver: true
     description: "One-page checklist of the Starbucks 2026 holiday menu: returning and new drinks, food and merchandise to try from Nov. 5. Free."
     alt: "Printable Starbucks holiday menu 2026 checklist with drinks, food and merchandise grouped into sections and a tick box for each"
@@ -71,8 +73,12 @@ faq:
   - q: "What holiday drinks are returning to Starbucks in 2026?"
     a: "The Peppermint Mocha, Caramel Brulee Latte, Sugar Cookie Latte and Gingerbread Chai all return on Nov. 5, according to Starbucks."
   - q: "When does Starbucks holiday merchandise come out in 2026?"
-    a: "The Holiday Bearista, Holiday Village and Peppermint Mocha collections arrive Nov. 5. The Winter Wonderland collection launches Tuesday, Nov. 17. The original Bearista Glass Cold Cup returns at a time Starbucks has not yet announced."
+    a: "The Holiday Bearista, Holiday Village and Peppermint Mocha collections arrive Nov. 5. The Winter Wonderland collection launches Tuesday, Nov. 17. A Bearista Glass Cold Cup Surprise Box Edition arrives Tuesday, Nov. 10, and the original Bearista Glass Cold Cup returns Tuesday, Dec. 1, in select stores, Starbucks said on Oct. 26."
 sources:
+  - title: "Mark your calendars: Starbucks Bearista Glass Cold Cups are returning with a twist"
+    url: "https://about.starbucks.com/press/2026/mark-your-calendars-starbucks-bearista-glass-cold-cups-are-returning-with-a-twist/"
+    publisher: "Starbucks"
+    date: "2026-10-26"
   - title: "Starbucks holiday menu is coming to town Nov. 5"
     url: "https://about.starbucks.com/stories/2026/starbucks-holiday-menu-is-coming-to-town-nov-5/"
     publisher: "Starbucks"
@@ -111,7 +117,7 @@ downloads:
 draft: false
 ---
 
-<p class="callout"><b>Red Cup Day update.</b> Starbucks says Red Cup Day "will return later this season" but has not announced the 2026 date. We will add it here as soon as the company confirms it.</p>
+<p class="callout"><b>Last updated Mon., Oct. 26, 2026, 1 p.m. ET.</b> Starbucks set the Bearista Glass Cold Cup dates: a Surprise Box Edition on Nov. 10 and the original cup on Dec. 1. It says Red Cup Day "will return later this season" but has not announced the 2026 date. We will add it here as soon as the company confirms it.</p>
 
 **The Starbucks holiday menu returns Thursday, Nov. 5, 2026, the company announced on Oct. 5.** Returning favorites and a new Tiramisu Velvet line go on sale that day, along with holiday food and the first merchandise collections. Red Cup Day, the giveaway of a reusable holiday cup, will come later in the season on a date Starbucks has not yet set.
 
@@ -162,7 +168,7 @@ New on the food menu from Nov. 5 are a Bearista Cake Pop and a Braised Short Rib
 
 ## Starbucks holiday cups and merchandise
 
-Three collections arrive Nov. 5: the Holiday Bearista collection, a Holiday Village collection featuring the original Pike Place store, and a Peppermint Mocha collection. The Winter Wonderland collection launches Tuesday, Nov. 17. The original Bearista Glass Cold Cup returns at a time Starbucks has not yet announced.
+Three collections arrive Nov. 5: the Holiday Bearista collection, a Holiday Village collection featuring the original Pike Place store, and a Peppermint Mocha collection. The Winter Wonderland collection launches Tuesday, Nov. 17. On Oct. 26 Starbucks added two cup dates: the Bearista Glass Cold Cup Surprise Box Edition, mystery cups with new designs in limited quantities, arrives in U.S. stores Tuesday, Nov. 10, and the original Bearista Glass Cold Cup with the green hat returns to select stores Tuesday, Dec. 1, while supplies last.
 
 ## When is Starbucks Red Cup Day 2026?
 
