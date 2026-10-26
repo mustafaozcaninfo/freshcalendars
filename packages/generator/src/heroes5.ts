@@ -151,6 +151,20 @@ export const PUZZLE_HEROES: [string, string, string, string, string, string, str
   ["nyt-mini-crossword-answers-october-26-2026", "mini", "#111827", "#ffda00", "NYT Mini · Mon., Oct. 26, 2026", "NYT Mini answers", "A hint for every clue first, the full grid at the end."],
   ["nyt-letter-boxed-answer-hints-october-27-2026", "letterboxed", "#3d1f1a", "#fa8072", "Letter Boxed · Tue., Oct. 27, 2026", "Letter Boxed hints", "Starting letters and word lengths first, the answer at the end."],
   ["waffle-answer-hints-today-october-26-2026-1739", "waffle", "#1f2937", "#6aaa64", "Waffle #1739 · Mon., Oct. 26, 2026", "Waffle hints today", "A clue for each of the six words, the solved grid at the end."],
+  ["wordle-hint-answer-today-october-28-2026-1957", "wordle", "#121213", "#c9b458", "Wordle #1957 · Wed., Oct. 28, 2026", "Wordle hints today", "Six clues from gentle to strong, the answer only at the end."],
+  ["nyt-connections-hints-answers-october-28-2026-1235", "connections", "#1e1a3a", "#f9df6d", "Connections #1235 · Wed., Oct. 28, 2026", "Connections hints", "Gentle hints for every group first, answers only at the end."],
+  ["nyt-strands-hints-answers-october-28-2026-969", "strands", "#0f2f3a", "#aedfee", "Strands #969 · Wed., Oct. 28, 2026", "Strands hints today", "Spangram and theme-word hints first, answers at the end."],
+  ["nyt-pips-hints-answers-october-28-2026", "pips", "#1e293b", "#86efac", "Pips · Wed., Oct. 28, 2026", "Pips hints today", "Hints for Easy, Medium and Hard, placements at the end."],
+  ["nyt-spelling-bee-hints-answers-october-28-2026", "bee", "#1c1917", "#f7da21", "Spelling Bee · Wed., Oct. 28, 2026", "Spelling Bee hints", "Hint grid and two-letter list first, the word list at the end."],
+  ["nyt-letter-boxed-answer-hints-october-28-2026", "letterboxed", "#3d1f1a", "#fa8072", "Letter Boxed · Wed., Oct. 28, 2026", "Letter Boxed hints", "Starting letters and word lengths first, the answer at the end."],
+  ["wordle-hint-answer-today-october-29-2026-1958", "wordle", "#121213", "#c9b458", "Wordle #1958 · Thu., Oct. 29, 2026", "Wordle hints today", "Six clues from gentle to strong, the answer only at the end."],
+  ["nyt-connections-hints-answers-october-29-2026-1236", "connections", "#1e1a3a", "#f9df6d", "Connections #1236 · Thu., Oct. 29, 2026", "Connections hints", "Gentle hints for every group first, answers only at the end."],
+  ["nyt-strands-hints-answers-october-29-2026-970", "strands", "#0f2f3a", "#aedfee", "Strands #970 · Thu., Oct. 29, 2026", "Strands hints today", "Spangram and theme-word hints first, answers at the end."],
+  ["nyt-pips-hints-answers-october-29-2026", "pips", "#1e293b", "#c4b5fd", "Pips · Thu., Oct. 29, 2026", "Pips hints today", "Hints for Easy, Medium and Hard, placements at the end."],
+  ["nyt-spelling-bee-hints-answers-october-29-2026", "bee", "#1c1917", "#f7da21", "Spelling Bee · Thu., Oct. 29, 2026", "Spelling Bee hints", "Hint grid and two-letter list first, the word list at the end."],
+  ["nyt-letter-boxed-answer-hints-october-29-2026", "letterboxed", "#3d1f1a", "#fa8072", "Letter Boxed · Thu., Oct. 29, 2026", "Letter Boxed hints", "Starting letters and word lengths first, the answer at the end."],
+  ["contexto-answer-hints-october-26-2026-1499", "contexto", "#0f172a", "#eab308", "Contexto #1499 · Mon., Oct. 26, 2026", "Contexto hints", "Close words and hints first, the secret word only at the end."],
+  ["contexto-answer-hints-october-27-2026-1500", "contexto", "#111827", "#22c55e", "Contexto #1500 · Tue., Oct. 27, 2026", "Contexto hints", "Close words and hints first, the secret word only at the end."],
 ];
 
 export async function buildHeroes5(only?: string): Promise<void> {

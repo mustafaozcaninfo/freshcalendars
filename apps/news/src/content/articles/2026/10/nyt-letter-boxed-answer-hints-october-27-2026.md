@@ -14,7 +14,7 @@ hero:
   title: "Letter Boxed hints, Oct. 27, 2026"
   caption: "Letter Boxed for Tuesday, Oct. 27, 2026: the four sides and graded hints first, the solution only in the final section."
 summary:
-  - "Letter Boxed from The New York Times for Tuesday, Oct. 27, 2026 has the sides CDI, UFT, RMA and BEO, with a par of 5 words."
+  - "Letter Boxed from The New York Times for Tuesday, Oct. 27, 2026 has the sides C/D/I, U/F/T, R/M/A and B/E/O, with a par of 5 words."
   - "The puzzle is edited by Sam Ezersky, according to its puzzle data."
   - "Seven hints below go from gentle to strong; stop when it clicks."
   - "The Times' own solution is in the last section, marked as a spoiler."
@@ -43,7 +43,7 @@ internalLinks:
 related: [nyt-spelling-bee-hints-answers-october-27-2026, wordle-hint-answer-today-october-27-2026-1956, nyt-connections-hints-answers-october-27-2026-1234]
 draft: false
 ---
-**Letter Boxed from The New York Times (NYT) for Tuesday, Oct. 27, 2026 has the sides CDI, UFT, RMA and BEO and a par of 5 words, according to the puzzle data on the Letter Boxed page.** Sam Ezersky edits it. The Times' own solution needs only two words, so there is room to beat par. Work down the hints one at a time, and scroll to the last section only if you want the words themselves.
+**Letter Boxed from The New York Times (NYT) for Tuesday, Oct. 27, 2026 has the sides C/D/I, U/F/T, R/M/A and B/E/O and a par of 5 words, according to the puzzle data on the Letter Boxed page.** Sam Ezersky edits it. The Times' own solution needs only two words, so there is room to beat par. Work down the hints one at a time, and scroll to the last section only if you want the words themselves.
 
 ## How Letter Boxed works
 
@@ -68,7 +68,7 @@ Par is 5 words. The puzzle data lists 1,277 dictionary words that fit this box w
 4. **Second word:** it describes someone who feels extremely embarrassed.
 5. **Link:** the first word ends in M, and the second word starts with M.
 6. **First letters:** the first word starts with B and the second starts with M.
-7. **Strong nudge:** the first word begins BAC and the second begins MORT.
+7. **Strong nudge:** the first word begins "Bac" and the second begins "Mort".
 
 ## Tips for today's box
 
@@ -99,7 +99,7 @@ The two words follow every rule. Using the side numbers from the table above, th
 
 | Word | Side of each letter, in order |
 |---|---|
-| BACTERIUM | B4, A3, C1, T2, E4, R3, I1, U2, M3 |
-| MORTIFIED | M3, O4, R3, T2, I1, F2, I1, E4, D1 |
+| Bacterium | B4, A3, C1, T2, E4, R3, I1, U2, M3 |
+| Mortified | M3, O4, R3, T2, I1, F2, I1, E4, D1 |
 
 Bacterium ends in M, so Mortified can start with it. Together they use all twelve letters: B, A, C, T, E, R, I, U, M, O, F and D. We checked both words against the puzzle's official data before posting. Other valid solutions can exist; this is the one The New York Times shows after you solve the puzzle.
