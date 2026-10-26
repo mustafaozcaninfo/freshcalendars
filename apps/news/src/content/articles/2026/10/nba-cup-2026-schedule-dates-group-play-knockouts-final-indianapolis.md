@@ -4,6 +4,7 @@ seoTitle: "NBA Cup 2026 Schedule: Dates, Cup Nights and Final"
 description: "The National Basketball Association (NBA) Emirates NBA Cup 2026 runs Oct. 30 to Dec. 11, with the final at Hinkle Fieldhouse in Indianapolis."
 type: explainer
 publishedAt: "2026-10-25T20:18:00-04:00"
+updatedAt: "2026-10-26T14:00:00-04:00"
 authors: [jordan-bennett]
 category: planning
 keywords: ["NBA Cup 2026 schedule", "Emirates NBA Cup 2026", "NBA Cup final 2026 date", "NBA Cup Nights"]
@@ -20,7 +21,7 @@ assets:
     subtitle: "Group Play, Knockout Rounds and the Dec. 11 final"
     layout: timeline
     rows:
-      - ["Fri., Oct. 30", "Group Play begins (Cup Night)"]
+      - ["Fri., Oct. 30", "Group Play begins: Knicks at 76ers 7:30 p.m. ET, Lakers at Warriors 10 p.m. ET (Prime Video)"]
       - ["Fri., Nov. 6", "Group Play (Cup Night)"]
       - ["Fri., Nov. 13", "Group Play (Cup Night)"]
       - ["Fri., Nov. 20", "Group Play (Cup Night)"]
@@ -30,7 +31,7 @@ assets:
       - ["Fri., Dec. 4 to Sat., Dec. 5", "Quarterfinals in NBA team markets"]
       - ["Tue., Dec. 8 and/or Wed., Dec. 9", "Semifinals"]
       - ["Fri., Dec. 11", "Championship, Hinkle Fieldhouse, Indianapolis"]
-    note: "Source: National Basketball Association (NBA), NBA.com and NBA Communications. Tip times and game-by-game networks not yet announced."
+    note: "Source: National Basketball Association (NBA), NBA.com and NBA Communications. National TV: Prime on Fridays, NBC on Nov. 24, ESPN on Nov. 25."
     inkSaver: true
     description: "Every date of the Emirates NBA Cup 2026, from Group Play on Oct. 30 to the Dec. 11 Championship in Indianapolis, with weekdays."
     alt: "Printable NBA Cup 2026 schedule timeline from Group Play on Oct. 30 to the Championship on Dec. 11"
@@ -58,8 +59,12 @@ faq:
   - q: "Which network shows the NBA Cup knockout games?"
     a: "NBA Communications says Prime Video will present all seven games in the Knockout Rounds, including the two semifinals and the Championship."
   - q: "What time are the NBA Cup games?"
-    a: "Tip times and game-by-game networks for Group Play were not in the sources we used, so this page does not list them. Check NBA.com for each game."
+    a: "Opening night, Fri., Oct. 30, is a Prime Video doubleheader: New York at Philadelphia at 7:30 p.m. ET and the Los Angeles Lakers at Golden State at 10 p.m. ET, NBA.com says. Check NBA.com for other tip times."
 sources:
+  - title: "Group Play schedule for Emirates NBA Cup 2026 revealed"
+    url: "https://www.nba.com/news/2026-nba-cup-group-play-schedule-announced"
+    publisher: "NBA.com"
+    date: "2026-08-12"
   - title: "Emirates NBA Cup 2026 groups announced"
     url: "https://www.nba.com/news/emirates-nba-cup-2026-groups-announced"
     publisher: "NBA.com"
@@ -98,7 +103,7 @@ downloads:
 draft: false
 ---
 
-**The Emirates NBA Cup 2026 begins on Fri., Oct. 30 and concludes on Fri., Dec. 11 with the Championship at Hinkle Fieldhouse in Indianapolis, according to the National Basketball Association (NBA).** NBA.com says the competition "begins on Oct. 30 and concludes Dec. 11 with the Emirates NBA Cup 2026 Championship."
+**The Emirates NBA Cup 2026 begins on Fri., Oct. 30 and concludes on Fri., Dec. 11 with the Championship at Hinkle Fieldhouse in Indianapolis, according to the National Basketball Association (NBA).** NBA.com says the competition "begins on Oct. 30 and concludes Dec. 11 with the Emirates NBA Cup 2026 Championship." Opening night is a Prime Video doubleheader: the New York Knicks at the Philadelphia 76ers at 7:30 p.m. Eastern Time (ET) and the Los Angeles Lakers at the Golden State Warriors at 10 p.m. ET.
 
 This page puts every round on one dated table with its weekday and the network facts the league has confirmed. A one-page printable of the same dates is further down.
 
@@ -138,7 +143,17 @@ The networks that the league has confirmed so far:
 - **Group Play:** NBA.com says that of the 60 total Group Play games, 15 will be broadcast across Prime Video, NBC and ESPN. NBA Communications adds that NBC and Peacock will air two Group Play games on Tuesday, Nov. 24.
 - **Knockout Rounds:** Prime Video will present all seven games, including the two semifinals and the Championship, according to NBA Communications.
 
-Game-by-game networks and tip times for Group Play are not in the sources we used, so they are not listed here. Check NBA.com before each game night.
+NBA.com's Aug. 12 Group Play release names the national network for each Cup Night:
+
+| Cup Night | National TV |
+|---|---|
+| Fri., Oct. 30 | Prime Video: Knicks at 76ers, 7:30 p.m. ET; Lakers at Warriors, 10 p.m. ET |
+| Fri., Nov. 6, 13 and 20 | Prime Video |
+| Tue., Nov. 24 | NBC and Peacock |
+| Wed., Nov. 25 | ESPN |
+| Fri., Nov. 27 | Prime Video |
+
+Other Group Play games air on local and regional channels and NBA League Pass. Check NBA.com for their tip times.
 
 ## Is there a printable NBA Cup 2026 schedule?
 
