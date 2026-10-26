@@ -47,14 +47,16 @@ http
     const urlPath = new URL(req.url ?? "/", "http://x").pathname;
     const hit = resolve(urlPath);
     if (hit?.redirect) { res.writeHead(301, { Location: hit.redirect }); return res.end(); }
-    const file = hit?.file ?? path.join(SITE, "404.html");
+    const file = hit?.file ?? path.join(urlPath.startsWith("/news/") ? NEWS : SITE, "404.html");
     const ext = path.extname(file);
     const type = TYPES[ext] ?? "application/octet-stream";
-    const headers = { "Content-Type": type, "Cache-Control": cacheControl(urlPath, ext), "X-Content-Type-Options": "nosniff" };
+    // Design previews must reflect rebuilt HTML immediately; opt in when testing production TTLs.
+    const headers = { "Content-Type": type, "Cache-Control": process.env.PREVIEW_CACHE === "1" ? cacheControl(urlPath, ext) : "no-store", "X-Content-Type-Options": "nosniff" };
     const gzip = COMPRESSIBLE.test(type) && /\bgzip\b/.test(req.headers["accept-encoding"] ?? "");
     if (gzip) headers["Content-Encoding"] = "gzip";
     res.writeHead(hit ? 200 : 404, headers);
     const stream = createReadStream(file);
+    stream.on("error", () => res.destroy()); // a rebuild can replace a file between resolve and open
     (gzip ? stream.pipe(zlib.createGzip()) : stream).pipe(res);
   })
   .listen(PORT, () => console.log(`news origin on http://localhost:${PORT} (news: ${NEWS}, site: ${SITE})`));

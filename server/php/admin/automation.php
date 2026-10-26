@@ -7,7 +7,7 @@ $pdo = ic_db();
 $schedule = $pdo->query('SELECT * FROM cron_schedule ORDER BY job_name')->fetchAll();
 $runs = $pdo->query('SELECT * FROM cron_runs ORDER BY id DESC LIMIT 50')->fetchAll();
 ?><!doctype html>
-<html lang="en">
+<html lang="en" data-design-version="concept-v3" data-design-layout="admin">
 <head>
 <meta charset="utf-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1" />

@@ -179,6 +179,7 @@ export const DAYS_JS = `
   var els=document.querySelectorAll('[data-days-until]'); if(!els.length) return;
   var today=new Intl.DateTimeFormat('en-CA',{timeZone:'America/New_York'}).format(new Date());
   els.forEach(function(el){
+    if(!/^\\d{4}-\\d\\d-\\d\\d$/.test(el.getAttribute('data-days-until'))) return; // year-only values belong to the story's days-until table
     var n=Math.round((Date.parse(el.getAttribute('data-days-until'))-Date.parse(today))/864e5);
     if(n<0){ var li=el.closest('li'); if(li) li.remove(); } else el.textContent=n===0?'Today':n===1?'Tomorrow':'In '+n+' days';
   });

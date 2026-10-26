@@ -1,17 +1,21 @@
 ---
 import type { Page } from "../lib/listing";
+import { pagePath } from "../lib/listing";
 interface Props { page: Page<unknown> }
 const { page } = Astro.props;
+const base = page.path.replace(/page\/\d+\/$/, "");
+const pages = Array.from({length:page.totalPages},(_,i)=>i+1).filter(n=>page.totalPages<=7||n===1||n===page.totalPages||Math.abs(n-page.page)<=1);
 ---
 {page.totalPages > 1 && (
   <nav class="pager" aria-label="Pagination">
     {page.prevPath ? <a href={page.prevPath} rel="prev">← Newer</a> : <span />}
-    <span class="count">Page {page.page} of {page.totalPages}</span>
+    <div class="page-numbers">{pages.map((n,i)=><>{i>0&&n>pages[i-1]!+1&&<span class="ellipsis">…</span>}{n===page.page?<span class="current" aria-current="page">{n}</span>:<a href={pagePath(base,n)} aria-label={`Page ${n}`}>{n}</a>}</>)}</div>
     {page.nextPath ? <a href={page.nextPath} rel="next">Older →</a> : <span />}
   </nav>
 )}
 <style>
-  .pager{display:flex;justify-content:space-between;align-items:center;gap:1rem;margin:2rem 0 0;padding-top:1rem;border-top:1px solid var(--line-soft)}
-  .pager a{min-height:44px;display:inline-flex;align-items:center;font-weight:700;color:var(--focus)}
+  .pager{display:flex;justify-content:space-between;align-items:center;gap:12px;margin:25px 0 0;padding-top:18px;border-top:1px solid var(--line-soft);flex-wrap:wrap}
+  .pager a{min-height:34px;display:inline-flex;align-items:center;font-weight:700;color:var(--focus);font-size:11px;text-decoration:none}
+  .page-numbers{display:flex;align-items:center;gap:5px}.page-numbers a,.page-numbers .current{display:grid;place-items:center;width:32px;min-height:32px;border:1px solid var(--line);border-radius:6px;font-size:11px;color:var(--ink-strong)}.page-numbers .current{background:var(--accent);color:#fff;border-color:var(--accent)}.ellipsis{font-size:11px;color:var(--muted);padding:0 3px}
   .count{font-size:.9rem;color:var(--ink)}
 </style>

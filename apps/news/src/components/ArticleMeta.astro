@@ -1,7 +1,9 @@
 ---
 import { formatDateTimeET, isoDateTime } from "../lib/seo";
+import { Image } from "astro:assets";
+import type { ImageMetadata } from "astro";
 interface Props {
-  authors: { name: string; href: string }[];
+  authors: { name: string; href: string; photo?: ImageMetadata }[];
   publishedAt: Date;
   modifiedAt: Date;
   readingMinutes: number;
@@ -10,12 +12,15 @@ const { authors, publishedAt, modifiedAt, readingMinutes } = Astro.props;
 const updated = modifiedAt.getTime() - publishedAt.getTime() > 60_000;
 ---
 <div class="meta">
+  {authors[0]?.photo && <Image class="byline-avatar" src={authors[0].photo} alt={`Illustrated avatar of ${authors[0].name}`} title={authors[0].name} width={36} height={36} format="webp" />}
+  <div>
   <p class="byline">By {authors.map((a, i) => <>{i > 0 && ", "}<a href={a.href} rel="author">{a.name}</a></>)}</p>
   <p class="dates">
     <span>Published <time datetime={isoDateTime(publishedAt)}>{formatDateTimeET(publishedAt)}</time></span>
     {updated && <span>Updated <time datetime={isoDateTime(modifiedAt)}>{formatDateTimeET(modifiedAt)}</time></span>}
     <span>{readingMinutes} min read</span>
   </p>
+  </div>
 </div>
 <style>
   .meta{font-size:.9rem;color:var(--ink);margin:0 0 1.25rem}
@@ -23,4 +28,7 @@ const updated = modifiedAt.getTime() - publishedAt.getTime() > 60_000;
   .byline{font-weight:700}
   .byline a{color:var(--focus)}
   .dates{display:flex;flex-wrap:wrap;gap:.25rem 1rem}
+  .meta{display:flex;gap:10px;align-items:center;font-size:11px;margin:0}
+  .byline-avatar{border-radius:50%;width:36px;height:36px;object-fit:cover}
+  .dates{font-size:11px;color:var(--muted)}
 </style>

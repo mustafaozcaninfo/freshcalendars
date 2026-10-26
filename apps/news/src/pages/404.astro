@@ -2,15 +2,11 @@
 /** /news/404.html — nginx error_page for /news/ so missing stories keep the short news TTL. */
 import NewsBase from "../layouts/NewsBase.astro";
 ---
-<NewsBase ads={false}
+<NewsBase ads={false} design="news-error"
   title="Story not found | Fresh Calendars News"
   description="This news story is not available. Browse the latest calendar and holiday news from the Fresh Calendars News Desk."
-  path="/news/"
+  path="/news/404.html"
   robots="noindex, follow"
 >
-  <div class="news-wrap">
-    <h1>Story not found</h1>
-    <p class="news-lede">This page may have moved, or the story is not published yet.</p>
-    <p><a href="/news/">Latest calendar &amp; holiday news</a> · <a href="/holidays/">2026 US holidays</a></p>
-  </div>
+  <section class="concept-wrap error-page"><div class="error-visual" aria-hidden="true"><strong>404</strong></div><div class="error-content"><p class="overline">Fresh Calendars News</p><h1>Story not found</h1><p>This page may have moved, or the story is not published yet. Browse the latest stories, find a useful printable, or search above.</p><div class="error-links"><a href="/news/">Latest stories</a><a href="/news/printables/">Free printables</a><a href="/page/contact/">Contact us</a></div></div></section>
 </NewsBase>

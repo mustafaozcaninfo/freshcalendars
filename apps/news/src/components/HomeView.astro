@@ -33,6 +33,7 @@ interface Props {
 const { page, all, heading, intro, description, categories, categoryNames, authors } = Astro.props;
 const [lead, ...others] = page.items;
 const latest = others.slice(0, 4);
+const trending = others.slice(4, 9);
 const dates = upcoming(new Set(all.map((a) => a.id)), 6);
 const topics = liveTopics(all).map(({ topic, items }) => ({ ...topic, count: items.length }));
 const printables = allPrintables(all);
@@ -52,40 +53,40 @@ const jsonLd = listingGraph({
   kind: "CollectionPage",
 });
 import PreferredSource from "./PreferredSource.astro";
+import NewsBar from "./NewsBar.astro";
 ---
 <NewsBase title={pagedTitle(heading, 1)} description={description} path={page.path} jsonLd={jsonLd}>
   <div class="home">
-    <Breadcrumb items={[{ name: "Home", href: "/" }, { name: "News", href: "/news/" }]} />
-    <header class="top">
-      <div>
-        <h1>{heading}</h1>
-        <p class="news-lede">{intro}</p>
-        <p class="desk">Reported by {authors.map((a, i) => <>{i > 0 && ", "}<a href={authorHref(a.id)}>{a.name}</a></>)} · <a href={PRINTABLES_PATH}>{printables.length} free printables</a></p>
-        <PreferredSource compact />
+    <header class="concept-news-hero">
+      <img src="/news/design/news-desk-v1.webp" width="1600" height="533" alt="Sunlit desk with a coffee cup, a laptop and plants" title="Fresh Calendars News" fetchpriority="high" />
+      <div class="news-concept-wrap">
+        <Breadcrumb items={[{ name: "Home", href: "/" }, { name: "News", href: "/news/" }]} />
+        <h1>News</h1>
+        <p>Latest calendar news, holiday dates and practical planning ideas.</p>
       </div>
     </header>
-
-    <AdSlot unit={6} variant="top" />
-
+    <NewsBar section="home" />
+    <div class="news-concept-wrap">
     {lead && (
-      <section class="lead-grid" aria-label="Top stories">
-        <div class="lead-story"><ArticleCard article={lead} categoryName={categoryNames.get(lead.data.category.id) ?? ""} featured /></div>
-        {latest.length > 0 && (
-          <div class="latest">
-            <h2 class="sec">Latest</h2>
-            <ol>
-              {latest.map((a) => (
-                <li data-cat={a.data.category.id}>
-                  <p class="cat"><a href={categoryHref(a.data.category.id)}>{categoryNames.get(a.data.category.id)}</a></p>
-                  <h3><a href={articlePath(a.id)}>{a.data.title}</a></h3>
-                  <time datetime={isoDateTime(a.data.publishedAt)}>{formatDateET(a.data.publishedAt)}</time>
-                </li>
-              ))}
-            </ol>
-          </div>
-        )}
+      <section class="concept-news-lead" aria-label="Featured and latest stories">
+        <article class="concept-feature">
+          <a href={articlePath(lead.id)}>
+            <Image src={lead.data.hero.src} alt={lead.data.hero.alt} title={lead.data.hero.title ?? lead.data.title} widths={[960,1320,1600]} sizes="1600px" format="webp" loading="eager" />
+            <span class="feature-badge">Featured</span>
+            <div class="feature-copy"><p>{formatDateET(lead.data.publishedAt)}</p><h2>{lead.data.title}</h2><p class="feature-desc">{lead.data.description}</p><span class="feature-read">Read the story →</span></div>
+          </a>
+        </article>
+        <div class="concept-latest">
+          {latest.map(a => <article data-cat={a.data.category.id}>
+            <a href={articlePath(a.id)}><Image src={a.data.hero.src} alt={a.data.hero.alt} title={a.data.hero.title ?? a.data.title} widths={[200,320,400]} sizes="(max-width: 700px) 32vw, 220px" format="webp" loading="eager" /><div><span class="story-category">{categoryNames.get(a.data.category.id)}</span><h2>{a.data.title}</h2><time datetime={isoDateTime(a.data.publishedAt)}>◷ {formatDateET(a.data.publishedAt)}</time></div></a>
+          </article>)}
+        </div>
       </section>
     )}
+    <section class="concept-trending" aria-labelledby="trending-heading"><div class="trending-heading"><h2 id="trending-heading">Trending Now</h2><a href="/news/page/2/">View all news →</a></div><ol>{trending.map((a,i) => <li><a href={articlePath(a.id)}><Image src={a.data.hero.src} alt={a.data.hero.alt} title={a.data.hero.title ?? a.data.title} widths={[240,360]} sizes="240px" format="webp" loading="lazy"/><span class="trend-rank">{i+1}</span><h3>{a.data.title}</h3><time datetime={isoDateTime(a.data.publishedAt)}>◷ {formatDateET(a.data.publishedAt)}</time></a></li>)}</ol></section>
+    <p class="desk">Reported by {authors.map((a,i)=><>{i>0&&", "}<a href={authorHref(a.id)}>{a.name}</a></>)} · <a href={PRINTABLES_PATH}>{printables.length} free printables</a></p>
+    <PreferredSource compact />
+    <AdSlot unit={6} variant="top" />
 
     {dates.length > 0 && (
       <section class="upcoming" aria-labelledby="up-title">
@@ -152,11 +153,18 @@ import PreferredSource from "./PreferredSource.astro";
       <Pagination page={page} />
     </section>
     <AdSlot unit={5} />
+    </div>
   </div>
 </NewsBase>
 <style>
-  .home{width:min(1120px,calc(100% - 2rem));margin:0 auto;padding:clamp(1.5rem,4vw,2.5rem) 0}
-  .top{display:grid;gap:1.25rem;margin-bottom:1rem}
+  .home{width:100%;margin:0;padding:0}
+  .top{position:relative;isolation:isolate;overflow:hidden;border-radius:12px;display:grid;gap:1.25rem;margin-bottom:1.5rem;padding:2rem;min-height:230px;align-items:center;background:#153321;color:#fff}
+  .news-scenery{position:absolute;inset:0;width:100%;height:100%;object-fit:cover;z-index:-2}
+  .top:after{content:"";position:absolute;inset:0;background:linear-gradient(90deg,rgba(10,32,21,.97),rgba(10,32,21,.87) 40%,rgba(10,32,21,.2));z-index:-1}
+  .top h1{color:#fff;font-size:2.3rem;letter-spacing:-.04em}
+  .top .news-lede{color:#fff;font-size:.9375rem;max-width:52ch}
+  .top .desk,.top .desk a{color:#fff;font-size:.8125rem}
+  @media(max-width:640px){.top{padding:1.5rem;min-height:240px}.top h1{font-size:1.8rem}.top:after{background:rgba(10,32,21,.9)}}
   .desk{margin:.6rem 0 0;font-size:.95rem;color:var(--ink)}
   .sec{font-family:Sora,"Sora Fallback",sans-serif;font-size:1.15rem;color:var(--ink-strong);margin:0 0 .75rem}
   .sec a{color:var(--ink-strong);text-decoration:none}
@@ -188,14 +196,14 @@ import PreferredSource from "./PreferredSource.astro";
   .topic-nav a:hover,.topic-nav a:focus-visible{border-color:var(--focus)}
   .topic-nav b{font-family:Sora,"Sora Fallback",sans-serif;font-size:.95rem;line-height:1.25}
   .topic-nav span{font-size:.82rem;color:var(--ink)}
-  .upcoming{margin:0 0 2.25rem;padding:1.1rem 1.1rem .4rem;background:#f3f8fc;border:1px solid #d6e6f3;border-radius:8px}
+  .upcoming{margin:0 0 2.25rem;padding:1.1rem 1.1rem .4rem;background:var(--surface-soft);border:1px solid var(--line);border-radius:8px}
   .upcoming ol{list-style:none;margin:0;padding:0;display:grid;gap:.6rem}
-  .upcoming a{display:grid;grid-template-columns:4.2rem 1fr auto;gap:.85rem;align-items:center;padding:.6rem .7rem;background:#fff;border:1px solid #d6e6f3;border-radius:6px;text-decoration:none;color:var(--ink-strong);min-height:56px}
+  .upcoming a{display:grid;grid-template-columns:4.2rem 1fr auto;gap:.85rem;align-items:center;padding:.6rem .7rem;background:#fff;border:1px solid var(--line);border-radius:6px;text-decoration:none;color:var(--ink-strong);min-height:56px}
   .upcoming a:hover,.upcoming a:focus-visible{border-color:var(--focus)}
   .upcoming .date{display:grid;text-align:center;font-size:.75rem;color:var(--ink);text-transform:uppercase;letter-spacing:.04em;border-right:1px solid var(--line-soft);padding-right:.6rem}
   .upcoming .date b{font-family:Sora,"Sora Fallback",sans-serif;font-size:1rem;color:var(--focus);text-transform:none;letter-spacing:0}
   .upcoming .what{font-weight:700;line-height:1.3}
-  .upcoming .in{font-size:.8rem;font-weight:700;color:#7a5200;background:#fff4cc;border-radius:999px;padding:.2rem .6rem;white-space:nowrap}
+  .upcoming .in{font-size:.8rem;font-weight:700;color:var(--warm-ink);background:var(--surface-warm);border-radius:999px;padding:.2rem .6rem;white-space:nowrap}
 
   .strip{margin:0 0 2.25rem}
   .strip ul{list-style:none;margin:0;padding:0;display:grid;grid-template-columns:repeat(2,1fr);gap:1rem}
@@ -223,4 +231,49 @@ import PreferredSource from "./PreferredSource.astro";
     .strip ul{grid-template-columns:repeat(6,1fr)}
     .upcoming ol{grid-template-columns:repeat(3,1fr)}
   }
+  @media(max-width:480px){.upcoming a{grid-template-columns:48px minmax(0,1fr);gap:7px 10px}.upcoming .what{min-width:0;overflow-wrap:anywhere}.upcoming .date{grid-row:span 2}.upcoming .in{grid-column:2;justify-self:start;white-space:normal}.upcoming li{min-width:0}}
+</style>
+
+<style>
+.home{width:100%;padding:0}
+.news-concept-wrap{width:min(1320px,calc(100% - 80px));margin:0 auto}
+.concept-news-hero{position:relative;isolation:isolate;min-height:180px;display:flex;align-items:center;overflow:hidden;background:#f3f7f8}
+.concept-news-hero>img{position:absolute;inset:0;width:100%;height:100%;object-fit:cover;object-position:right center;z-index:-2}
+.concept-news-hero:after{content:"";position:absolute;inset:0;background:linear-gradient(90deg,#f4f8fcee,#f4f8fcfa 42%,#f4f8fc00 80%);z-index:-1}
+.concept-news-hero .news-concept-wrap{padding:23px 0}
+.concept-news-hero h1{font:700 44px/1.1 Sora,sans-serif;letter-spacing:-.04em;color:#0e2135;margin:10px 0 10px}
+.concept-news-hero p{font-size:13px;color:#0e2135;margin:0;max-width:65ch}
+.concept-news-lead{display:grid;grid-template-columns:1.06fr .94fr;gap:24px;margin:20px 0 24px;align-items:stretch}
+.concept-feature{position:relative;min-width:0;border-radius:8px;overflow:hidden;min-height:425px;background:#152e3c}
+.concept-feature>a{display:block;height:100%;text-decoration:none!important;color:#fff!important}
+.concept-feature :global(img){position:absolute;inset:0;width:100%;height:100%;object-fit:cover}
+.concept-feature>a:after{content:"";position:absolute;inset:0;background:linear-gradient(180deg,transparent 25%,#071a25ef 100%)}
+.feature-badge{position:absolute;top:15px;left:15px;z-index:1;padding:6px 10px;border-radius:6px;background:#fff;color:#10283b;font-size:11px;font-weight:700;text-transform:uppercase}
+.feature-copy{position:absolute;bottom:0;left:0;right:0;z-index:1;padding:22px;background:linear-gradient(180deg,#071a25c4,#071a25f5)}
+.feature-copy:before{content:"";position:absolute;bottom:100%;left:0;right:0;height:36px;background:linear-gradient(180deg,transparent,#071a25c4);pointer-events:none}
+.feature-copy h2{font:700 25px/1.2 Sora,sans-serif;letter-spacing:-.04em;margin:8px 0;color:#fff}
+.feature-copy p{font-size:11px;margin:0;color:#fff}
+.feature-copy .feature-desc{font-size:12px;line-height:1.5;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden}
+.feature-read{display:block;font-size:11px;margin-top:12px;color:#fff}
+.concept-latest{display:grid;grid-template-rows:repeat(4,1fr);gap:10px;min-width:0}
+.concept-latest article{border:1px solid var(--line-soft);border-radius:8px;overflow:hidden;min-width:0;background:var(--paper)}
+.concept-latest a{height:100%;display:grid;grid-template-columns:40% 1fr;gap:14px;text-decoration:none!important;color:var(--ink-strong)!important}
+.concept-latest :global(img){height:100%;min-height:90px;width:100%;object-fit:cover}
+.concept-latest a>div{padding:8px 10px 8px 0;align-self:center;min-width:0}
+.story-category{font-size:11px;text-transform:uppercase;color:var(--cat);background:color-mix(in srgb,var(--cat) 8%,var(--paper));padding:3px 5px;border-radius:3px}
+.concept-latest h2{font-size:13px;line-height:1.35;margin:6px 0;color:var(--ink-strong);display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden}
+.concept-latest time{font-size:11px;color:var(--muted)}
+.trending-heading{display:flex;justify-content:space-between;align-items:center;margin-bottom:12px}
+.trending-heading h2{font:700 20px/1.2 Sora,sans-serif;color:var(--ink-strong);letter-spacing:-.03em;margin:0}
+.trending-heading>a{font-size:11px;color:var(--focus);text-decoration:none}
+.concept-trending ol{display:grid;grid-template-columns:repeat(5,minmax(0,1fr));gap:14px;padding:0;list-style:none;margin:0 0 25px}
+.concept-trending li{position:relative;border:1px solid var(--line-soft);border-radius:9px;overflow:hidden;background:var(--paper)}
+.concept-trending li>a{position:relative;isolation:isolate;display:flex;flex-direction:column;min-height:139px;padding:12px;text-decoration:none!important;color:var(--ink-strong)!important}
+.concept-trending :global(img){position:absolute;inset:0;width:100%;height:100%;object-fit:cover;opacity:.1;z-index:-1}
+.trend-rank{display:grid;place-items:center;width:26px;height:26px;border-radius:50%;background:#e8eef4;font-size:11px;color:#0e2135;font-weight:700;margin-bottom:10px}
+.concept-trending h3{font-size:11px;line-height:1.4;margin:0 0 12px;display:-webkit-box;-webkit-line-clamp:3;-webkit-box-orient:vertical;overflow:hidden}
+.concept-trending time{font-size:11px;color:var(--muted);margin-top:auto}
+@media(max-width:1023px){.news-concept-wrap{width:calc(100% - 40px)}.concept-news-lead{gap:16px}.feature-copy h2{font-size:21px}.concept-feature{min-height:390px}.concept-latest a{gap:10px}.concept-latest h2{font-size:12px}.concept-trending ol{gap:10px}}
+@media(max-width:640px){.news-concept-wrap{width:calc(100% - 32px)}.concept-news-hero{min-height:155px}.concept-news-hero h1{font-size:34px}.concept-news-hero p{font-size:11px;max-width:36ch}.concept-news-lead{grid-template-columns:1fr;gap:14px}.concept-feature{min-height:340px}.concept-latest{grid-template-rows:none;grid-template-columns:1fr 1fr;gap:10px}.concept-latest a{display:flex;flex-direction:column;gap:0}.concept-latest :global(img){height:100px;min-height:100px}.concept-latest a>div{padding:10px;width:100%}.concept-latest h2{font-size:11px}.concept-trending ol{display:flex;overflow-x:auto;scrollbar-width:thin}.concept-trending li{flex:0 0 160px}.feature-copy{padding:18px}.feature-copy h2{font-size:22px}}
+  @media(max-width:480px){.upcoming a{grid-template-columns:48px minmax(0,1fr);gap:7px 10px}.upcoming .what{min-width:0;overflow-wrap:anywhere}.upcoming .date{grid-row:span 2}.upcoming .in{grid-column:2;justify-self:start;white-space:normal}.upcoming li{min-width:0}}
 </style>

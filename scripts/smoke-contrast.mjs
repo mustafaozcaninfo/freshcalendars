@@ -83,6 +83,9 @@ function measureFn() {
   const lum = (c) => 0.2126 * lin(c[0]) + 0.7152 * lin(c[1]) + 0.0722 * lin(c[2]);
   const ratio = (a, b) => { const x = lum(a), y = lum(b); return (Math.max(x, y) + 0.05) / (Math.min(x, y) + 0.05); };
   const parse = (s) => {
+    // color-mix() resolves to color(srgb r g b / a) with 0-1 channels, not rgb().
+    const c = s && s.match(/color\(srgb ([^)]+)\)/);
+    if (c) { const v = c[1].split(/[ /]+/).filter(Boolean).map(Number); return [v[0] * 255, v[1] * 255, v[2] * 255, v[3] ?? 1]; }
     const m = s && s.match(/rgba?\(([^)]+)\)/);
     if (!m) return null;
     const v = m[1].split(/[ ,/]+/).filter(Boolean).map(Number);
@@ -94,7 +97,7 @@ function measureFn() {
     for (let e = el; e; e = e.parentElement) {
       const cs = getComputedStyle(e);
       if (cs.backgroundImage && cs.backgroundImage !== "none") {
-        const stops = (cs.backgroundImage.match(/rgba?\([^)]+\)/g) || []).map(parse);
+        const stops = (cs.backgroundImage.match(/(?:rgba?|color)\([^)]+\)/g) || []).map(parse);
         if (stops.length) { layers.push({ stops }); break; }
       }
       const c = parse(cs.backgroundColor);
@@ -178,11 +181,25 @@ try {
     const ctx = await browser.newContext({ viewport: { width: vp.width, height: vp.height }, reducedMotion: "reduce" });
     // Ads, fonts CDN and analytics stay offline: only our own CSS decides colors.
     await ctx.route(/^https?:\/\/(?!localhost)/, (r) => r.abort());
+    if (process.env.CONTRAST_THEME === "dark") await ctx.addInitScript(() => localStorage.setItem("fc-theme", "dark"));
     await ctx.addInitScript(measureFn);
-    const page = await ctx.newPage();
+    let page = await ctx.newPage();
+    let visited = 0;
     for (const p of pages) {
-      await page.goto(`http://localhost:${PORT}${p}`, { waitUntil: "domcontentloaded", timeout: 30000 });
+      // Release accumulated document/image state during the full archive crawl.
+      if (visited && visited % 40 === 0) { await page.close(); page = await ctx.newPage(); }
+      const url = `http://localhost:${PORT}${p}`;
+      try {
+        await page.goto(url, { waitUntil: "domcontentloaded", timeout: 30000 });
+      } catch (error) {
+        if (error.name !== "TimeoutError") throw error;
+        console.warn(`Retrying timed-out ${vp.name} page in a fresh tab: ${p}`);
+        await page.close(); page = await ctx.newPage();
+        await page.goto(url, { waitUntil: "domcontentloaded", timeout: 30000 });
+      }
       record(p, vp.name, await page.evaluate(auditTextFn));
+      visited++;
+      if (visited % 100 === 0) console.log(`Contrast ${vp.name}: ${visited}/${pages.length}`);
       if (vp.name === "phone" && (p === "/" || p === "/news/")) {
         const toggle = page.locator("summary.nav-toggle").first();
         if (await toggle.isVisible().catch(() => false)) {

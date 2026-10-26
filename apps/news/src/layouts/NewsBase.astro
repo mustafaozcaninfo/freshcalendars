@@ -6,17 +6,18 @@ import {
   brandHeadLinks,
   siteFooterHtml,
   siteHeaderHtml,
+  THEME_BOOT_HTML,
 } from "@freshcalendars/site-chrome";
 import { NEWS_NAME, absNewsUrl } from "../lib/site";
 import { ROBOTS_INDEX, jsonLdString, type HeadTag } from "../lib/seo";
 import { ADS_ENABLED, ADS_LOADER_JS, AD_ORIGINS } from "../lib/ads";
 import { GA_ENABLED, GA_JS, GA_ORIGINS } from "../lib/analytics";
-import { MORE_MENU_JS, SEARCH_JS } from "../lib/search-client";
+import { MORE_MENU_JS } from "../lib/search-client";
 import { DAYS_JS } from "../lib/keydates";
 import { PREF_SRC_JS } from "../lib/preferred-source";
-import NewsBar from "../components/NewsBar.astro";
 
 interface Props {
+  design?: string;
   title: string;
   description: string;
   /** Site-relative path with trailing slash, e.g. /news/ */
@@ -49,6 +50,7 @@ const withAds = ADS_ENABLED && ads;
 // analytics never run for pages the reader does not open).
 const SPECULATION = JSON.stringify({ prefetch: [{ where: { and: [{ href_matches: "/news/*" }, { not: { href_matches: "/news/downloads/*" } }] }, eagerness: "moderate" }] });
 const canonical = absNewsUrl(path);
+const designLayout = Astro.props.design ?? (path === "/news/" ? "news-home" : path.startsWith("/news/author/") ? "news-author" : path.startsWith("/news/category/") ? "news-category" : path.startsWith("/news/topic/") ? "news-topic" : path.startsWith("/news/page/") ? "news-pagination" : path.startsWith("/news/printables/") ? "news-printables" : ["/news/about/", "/news/editorial-policy/", "/news/corrections-policy/", "/news/masthead/"].includes(path) ? "news-policy" : "news-article");
 const today = new Date();
 // News pages use two families only: Sora (headings) + Source Sans 3 (everything else,
 // DESIGN.md article type). font-display:optional means unpreloaded faces fall back on first view.
@@ -56,13 +58,16 @@ const fontPreload = [
   "/fonts/sora-latin-700-normal.woff2",
   "/fonts/source-sans-3-latin-400-normal.woff2",
   "/fonts/source-sans-3-latin-700-normal.woff2",
+  "/fonts/manrope-latin-400-normal.woff2",
+  "/fonts/manrope-latin-700-normal.woff2",
 ];
 ---
 <!doctype html>
-<html lang="en" class="news">
+<html lang="en" class="news" data-design-version="concept-v3" data-design-layout={designLayout}>
 <head>
 <meta charset="utf-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+<Fragment set:html={THEME_BOOT_HTML} />
 <title>{title}</title>
 <meta name="description" content={description} />
 <meta name="robots" content={robots} />
@@ -70,7 +75,7 @@ const fontPreload = [
 <link rel="canonical" href={canonical} />
 <link rel="alternate" hreflang="en" href={canonical} />
 <link rel="alternate" hreflang="x-default" href={canonical} />
-<meta name="theme-color" content="#0062cc" />
+<meta name="theme-color" content="#007b48" />
 <meta property="og:locale" content="en_US" />
 <meta property="og:type" content={ogType} />
 <meta property="og:title" content={title} />
@@ -95,40 +100,45 @@ const fontPreload = [
 <body>
 <a class="skip-link" href="#main">Skip to content</a>
 <Fragment set:html={siteHeaderHtml(today, { news: true, current: "news" })} />
-<NewsBar section={section} />
 <main id="main" class="news-main">
 <slot />
 </main>
 <Fragment set:html={siteFooterHtml(today, { news: true })} />
-<script is:inline set:html={NAV_JS + (GA_ENABLED ? GA_JS : "") + (withAds ? ADS_LOADER_JS : "") + SEARCH_JS + MORE_MENU_JS + DAYS_JS + PREF_SRC_JS} />
+<script is:inline set:html={NAV_JS + (GA_ENABLED ? GA_JS : "") + (withAds ? ADS_LOADER_JS : "") + MORE_MENU_JS + DAYS_JS + PREF_SRC_JS} />
 </body>
 </html>
 
 <style is:global>
   /* News design tokens: soft borders, rounded cards, one shadow scale, a color per section. */
-  html.news{--n-border:#e3e8ef;--n-soft:#f6f8fb;--n-brand:#0b5cad;--n-brand-soft:#eaf2fb;--n-radius:12px;--n-shadow:0 1px 2px rgba(16,24,40,.05),0 6px 16px rgba(16,24,40,.06);--n-shadow-h:0 2px 4px rgba(16,24,40,.07),0 14px 30px rgba(16,24,40,.12);--cat:#0b5cad}
-  html.news [data-cat="holidays"]{--cat:#b42318} html.news [data-cat="planning"]{--cat:#0b5cad} html.news [data-cat="retail-dates"]{--cat:#93370d}
-  html.news [data-cat="school-calendars"]{--cat:#067647} html.news [data-cat="sky-events"]{--cat:#5b3fc4} html.news [data-cat="time-change"]{--cat:#0b6680}
-  html.news [data-cat="uk-canada"]{--cat:#a11043} html.news [data-cat="puzzles"]{--cat:#6d28d9}
-  html.news [data-cat="elections"]{--cat:#9b1c1c} html.news [data-cat="calendar-guides"]{--cat:#0e6b7f}
-  html.news ::selection{background:#fff1b8;color:#111}
+  html.news{--n-border:var(--line);--n-soft:var(--surface-soft);--n-brand:var(--accent);--n-brand-soft:var(--surface-tint);--n-radius:10px;--n-shadow:0 1px 2px rgba(16,24,40,.03),0 4px 14px rgba(16,24,40,.04);--n-shadow-h:0 2px 4px rgba(16,24,40,.06),0 10px 24px rgba(16,24,40,.09);--cat:var(--accent)}
+  html.news [data-cat="holidays"]{--cat:#855449} html.news [data-cat="planning"]{--cat:#34645c} html.news [data-cat="retail-dates"]{--cat:#795f39}
+  html.news [data-cat="school-calendars"]{--cat:#416748} html.news [data-cat="sky-events"]{--cat:#625677} html.news [data-cat="time-change"]{--cat:#35696b}
+  html.news [data-cat="uk-canada"]{--cat:#755667} html.news [data-cat="puzzles"]{--cat:#665b70}
+  html.news [data-cat="elections"]{--cat:#77584b} html.news [data-cat="calendar-guides"]{--cat:#376762}
+  html.news ::selection{background:#e8ddc3;color:#111}
   .news-main a{text-underline-offset:.18em;text-decoration-thickness:1px}
   .news-main a:hover{text-decoration-thickness:2px}
   @media (prefers-reduced-motion:reduce){ html.news *{transition:none!important;animation:none!important} }
   .skip-link{position:absolute;left:-999px;top:0;z-index:100;background:#fff;color:var(--focus);padding:.75rem 1rem;font-weight:700}
   .skip-link:focus{left:1rem;top:1rem}
-  html.news body{font-family:"Source Sans 3","Source Sans 3 Fallback",ui-sans-serif,system-ui,sans-serif}
+  html.news body{font-family:Manrope,"Manrope Fallback",ui-sans-serif,system-ui,sans-serif}
   .news-main{background:var(--paper);min-height:70vh;color:var(--ink)}
-  /* White on brand blue is 3.97:1 — passes WCAG AA only as large text (≥18.67px bold). */
-  html.news .nav-toggle-label{font-size:1.1875rem}
+  .news-workspace{display:grid;grid-template-columns:205px minmax(0,1fr);gap:32px;width:min(1320px,calc(100% - 80px));margin:0 auto;align-items:start}
+  .news-workspace>.listing,.news-workspace>.policy,.news-workspace>.hub{width:100%;max-width:none;margin:0;padding:25px 0 35px;min-width:0}
+  .news-main .news-workspace h1{font-size:28px;line-height:1.24;letter-spacing:-.04em;max-width:33ch}
+  .news-workspace .crumbs ol{font-size:11px;margin-bottom:20px}.news-workspace .crumbs a{min-height:24px;text-decoration:none}.news-workspace .crumbs li+li::before{width:3px;height:3px;border-width:1px}
+  .news-workspace .news-lede{font-size:12px;line-height:1.7;max-width:80ch;font-family:Manrope,sans-serif}
+  @media(max-width:1023px){.news-workspace{grid-template-columns:180px minmax(0,1fr);gap:22px;width:calc(100% - 40px)}}
+  @media(max-width:700px){.news-workspace{display:block;width:calc(100% - 32px)}.news-workspace h1{font-size:24px}.news-workspace>.listing,.news-workspace>.policy,.news-workspace>.hub{padding-top:20px}}
+  @media print{.news-workspace{display:block}}
   .news-wrap{width:min(720px,calc(100% - 2rem));margin:0 auto;padding:clamp(1.75rem,4vw,2.75rem) 0}
   /* Headings: the calendar site's global h1 caps width at 14-16ch; news headlines use the column. */
   .news-main h1,.news-main h2,.news-main h3{max-width:none;text-wrap:balance}
-  .news-main h1{font-family:Sora,"Sora Fallback",ui-sans-serif,system-ui,sans-serif;color:var(--ink-strong);font-size:clamp(1.75rem,1.15rem + 2.4vw,2.6rem);line-height:1.12;letter-spacing:-.015em;margin:0 0 .75rem}
+  .news-main h1{font-family:Sora,"Sora Fallback",ui-sans-serif,system-ui,sans-serif;color:var(--ink-strong);font-size:clamp(1.6rem,1.1rem + 2vw,2.2rem);line-height:1.2;letter-spacing:-.035em;margin:0 0 .75rem}
   .news-main h1.long{font-size:clamp(1.55rem,1.05rem + 2.1vw,2.3rem);line-height:1.15}
   .news-main p,.news-main li{text-wrap:pretty}
   .news-lede{font-family:"Source Sans 3","Source Sans 3 Fallback",ui-sans-serif,system-ui,sans-serif;font-size:clamp(1.06rem,1rem + .35vw,1.22rem);line-height:1.5;color:var(--ink);margin:0;max-width:68ch}
-  .news-main :focus-visible{outline:3px solid var(--gold);outline-offset:2px}
+  .news-main :focus-visible{outline:3px solid var(--focus);outline-offset:2px}
   /* Below-the-fold chrome renders only when scrolled near (faster first paint on long stories). */
   html.news .site-footer{content-visibility:auto;contain-intrinsic-size:auto 640px}
   .news-main a:not(.btn){color:var(--focus)}

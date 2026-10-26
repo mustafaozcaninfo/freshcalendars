@@ -108,8 +108,13 @@ check("01-GA-LOAD", "Google Analytics on every page, loaded after window load: n
   }));
 check("01-NEWSBAR", "Every page has the news bar: story search and crawlable links to every section (hub links on all pages)", () =>
   each(urls, (u, h) => {
-    if (!/<form class="nb-search[^"]*"[^>]*data-news-search/.test(h)) return "no news search";
-    const nav = h.match(/<nav class="nb-sections[^"]*" aria-label="News sections"[\s\S]*?<\/nav>/)?.[0] ?? "";
+    // Story search is either the news bar form or the shared header search, which also loads the news index.
+    const barSearch = /<form class="nb-search[^"]*"[^>]*data-news-search/.test(h);
+    const siteSearch = /<form class="site-search[^"]*"[^>]*data-site-search/.test(h) && h.includes("/news/search/index.json");
+    if (!barSearch && !siteSearch) return "no news search";
+    // Section links come from the news bar or, on listing and policy pages, the News directory rail.
+    const nav = (h.match(/<nav class="nb-sections[^"]*" aria-label="News sections"[\s\S]*?<\/nav>/)?.[0] ?? "") +
+      (h.match(/<aside class="news-rail"[^>]*aria-label="News directory"[\s\S]*?<\/aside>/)?.[0] ?? "");
     const cats = urls.filter((x) => /^\/news\/category\/[a-z0-9-]+\/$/.test(x));
     const missing = cats.filter((c) => !nav.includes(`href="${c}"`));
     return missing.length ? `section links missing: ${missing.join(" ")}` : null;
@@ -157,7 +162,7 @@ check("02-SSR-LINKS", "Navigation and content links are server-rendered <a href>
   each(urls, (u, h) => ((h.match(/<a [^>]*href="[^"#][^"]*"/g) ?? []).length >= 15 ? null : "too few server-rendered links")));
 check("02-NO-JS-CONTENT", "Content does not depend on client JS (≤2 inline scripts, no framework bundles) (§02 C)", () =>
   each(urls, (u, h) => {
-    const scripts = (h.match(/<script(?![^>]*(ld\+json|speculationrules))[^>]*>/g) ?? []);
+    const scripts = (h.match(/<script(?![^>]*(ld\+json|speculationrules|data-theme-boot))[^>]*>/g) ?? []);
     const external = scripts.filter((s) => / src=/.test(s));
     return external.length || scripts.length > 2 ? `${scripts.length} scripts (${external.length} external)` : null;
   }));

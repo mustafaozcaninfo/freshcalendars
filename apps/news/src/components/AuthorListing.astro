@@ -25,18 +25,24 @@ const image = d.photo ? await authorImage(d.photo) : undefined;
 >
   {page.page === 1 && (
     <div class="profile">
+      <div class:list={["profile-card", { "without-avatar": !d.photo }]}>
       {d.photo && <Image src={d.photo} alt={authorImageAlt(d.name, d.role)} title={d.name} loading="eager" width={160} height={160} densities={[1, 2]} format="webp" class="avatar" />}
       <p>{d.bio}</p>
       {d.sameAs.length > 0 && (
         <ul class="same-as">{d.sameAs.map((u) => <li><a href={u} rel="me noopener">{new URL(u).hostname}</a></li>)}</ul>
       )}
+      </div>
       <h2 class="latest">Latest stories</h2>
     </div>
   )}
 </ListingView>
 <style>
-  .profile{color:var(--ink-strong);margin:0 0 1rem}
-  .avatar{width:160px;height:160px;border-radius:50%;margin:0 0 1rem}
-  .same-as{display:flex;flex-wrap:wrap;gap:.75rem;list-style:none;padding:0}
+  .profile{color:var(--ink-strong);margin:20px 0 1rem}
+  .profile-card{display:grid;grid-template-columns:88px minmax(0,1fr);gap:18px;padding:20px;background:var(--surface-soft);border:1px solid var(--line);border-radius:10px;align-items:start}
+  .profile-card p{font-size:12px;line-height:1.8;margin:0;color:var(--ink)}
+  .profile-card.without-avatar{grid-template-columns:minmax(0,1fr)}.profile-card.without-avatar .same-as{grid-column:1}
+  .avatar{width:88px;height:88px;border-radius:12px;margin:0;object-fit:cover;grid-row:span 2}
+  .same-as{display:flex;flex-wrap:wrap;gap:.75rem;list-style:none;padding:0;margin:0;grid-column:2;font-size:11px}
   .latest{font-family:Sora,"Sora Fallback",sans-serif;font-size:1.2rem;margin:1.5rem 0 0}
+  @media(max-width:700px){.profile-card{grid-template-columns:60px minmax(0,1fr);gap:12px;padding:14px}.avatar{width:60px;height:60px}.profile-card p{font-size:11px}.same-as{grid-column:1/-1}}
 </style>

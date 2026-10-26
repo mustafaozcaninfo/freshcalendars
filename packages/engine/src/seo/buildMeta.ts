@@ -262,7 +262,7 @@ export function buildMetaForEntry(
       pageId: entry.pageId,
       path: "/",
       title: `Printable Calendars ${year} · Free Monthly & Year PDFs | ${SITE_NAME}`,
-      description: `Free printable calendars for ${year}: this month’s ${curName} sheet, next month, blank write-ins, and a ${year} year-at-a-glance PDF. Six monthly designs, no account.`,
+      description: `Free printable calendars for ${year}: this month’s ${curName} sheet, next month, blank write-ins, and a ${year} year-at-a-glance PDF. Seven monthly designs, no account.`,
       family: "home",
       year,
       month: curM,
@@ -366,7 +366,7 @@ export function buildMetaForEntry(
     return baseMeta({
       pageId: entry.pageId,
       path: entry.path,
-      title: `${name} ${year} Printable Calendar · 6 Free Designs | ${SITE_NAME}`,
+      title: `${name} ${year} Printable Calendar · 7 Free Designs | ${SITE_NAME}`,
       description: editorial.description(year),
       family: "monthly",
       year,

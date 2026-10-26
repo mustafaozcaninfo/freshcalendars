@@ -4,6 +4,7 @@ import ArticleCard from "./ArticleCard.astro";
 import Breadcrumb from "./Breadcrumb.astro";
 import Pagination from "./Pagination.astro";
 import AdSlot from "./AdSlot.astro";
+import NewsRail from "./NewsRail.astro";
 import type { Article } from "../lib/articles";
 import { categoryHref } from "../lib/articles";
 import { pagedTitle, type Page } from "../lib/listing";
@@ -28,6 +29,7 @@ interface Props {
 }
 const { page, heading, intro, description, trail, kind, author, categoryNames, chips = [], emptyText, about } = Astro.props;
 const [first, ...rest] = page.items;
+const tiles = kind === "CollectionPage";
 const featured = page.page === 1 && kind === "CollectionPage" && trail.length === 1 ? first : undefined;
 const list = featured ? rest : page.items;
 const pageDescription = page.page > 1 ? `${description} Page ${page.page} of ${page.totalPages}.` : description;
@@ -42,24 +44,31 @@ const jsonLd = listingGraph({
 });
 ---
 <NewsBase title={pagedTitle(heading, page.page)} description={pageDescription} path={page.path} jsonLd={jsonLd} ads={page.items.length > 0}>
-  <div class="news-wrap listing">
+  <div class="news-workspace"><NewsRail path={page.path} />
+  <div class:list={["news-wrap", "listing", { "tile-listing": tiles }]} data-news-listing>
     <Breadcrumb items={[{ name: "Home", href: "/" }, ...trail.map((t) => ({ name: t.name, href: t.path })), ...(page.page > 1 ? [{ name: `Page ${page.page}` }] : [])]} />
     <h1>{heading}{page.page > 1 && <span class="pg"> – Page {page.page}</span>}</h1>
     {page.page === 1 && <p class="news-lede">{intro}</p>}
-    {page.items.length > 0 && <AdSlot unit={6} variant="top" />}
     <slot />
+    {page.items.length>0 && <div class="listing-controls"><label><span>Filter this page</span><input type="search" data-listing-search placeholder="Search these stories…" /></label><p data-listing-count aria-live="polite">{page.items.length} stories</p></div>}
     {chips.length > 0 && (
       <nav class="chips" aria-label="News categories">
         {chips.map((c) => <a href={categoryHref(c.id)}>{c.name}</a>)}
       </nav>
     )}
     {page.items.length === 0 && <p class="empty">{emptyText ?? "No stories yet. Check back soon."}</p>}
+    <p class="empty" data-listing-empty hidden>No stories match. Try another word or use the site search above.</p>
     {featured && <ArticleCard article={featured} categoryName={categoryNames.get(featured.data.category.id) ?? ""} featured />}
     {list.length > 0 && (
-      <div class="list">
-        {list.map((a, i) => <>{i === 4 && list.length > 6 && <AdSlot unit={2} />}<ArticleCard article={a} categoryName={categoryNames.get(a.data.category.id) ?? ""} /></>)}
+      <div class:list={["list", { tiles }]}>
+        {list.map((a, i) => <>
+          {tiles && i === 6 && <AdSlot unit={6} variant="top" />}
+          {i === (tiles ? 12 : 4) && list.length > (tiles ? 14 : 6) && <AdSlot unit={2} />}
+          <ArticleCard article={a} categoryName={categoryNames.get(a.data.category.id) ?? ""} tile={tiles} />
+        </>)}
       </div>
     )}
+    {page.items.length > 0 && (!tiles || list.length <= 6) && <AdSlot unit={6} variant="top" />}
     <Pagination page={page} />
     {list.length > 0 && <AdSlot unit={5} />}
     {about && page.page === 1 && (
@@ -69,15 +78,27 @@ const jsonLd = listingGraph({
       </section>
     )}
   </div>
+  </div>
+  <script is:inline>
+  (()=>{const root=document.querySelector('[data-news-listing]');if(!root)return;const q=root.querySelector('[data-listing-search]');if(!q)return;q.addEventListener('input',()=>{const terms=q.value.toLowerCase().split(/\s+/).filter(Boolean);let n=0;root.querySelectorAll('[data-search-text]').forEach(card=>{const show=terms.every(t=>card.dataset.searchText.includes(t));card.hidden=!show;if(show)n++;});root.querySelector('[data-listing-count]').textContent=n+' stories';root.querySelector('[data-listing-empty]').hidden=n>0;});})();
+  </script>
 </NewsBase>
 <style>
   .listing .news-lede{margin-bottom:1.25rem}
+  .listing-controls{display:flex;align-items:center;justify-content:space-between;gap:16px;padding:13px;background:var(--surface-soft);border:1px solid var(--line);border-radius:9px;margin:20px 0}.listing-controls label{display:flex;gap:12px;align-items:center;font-size:11px;color:var(--ink-strong)}.listing-controls input{width:240px;max-width:100%;min-height:34px;border:1px solid var(--line);border-radius:6px;background:var(--paper);color:var(--ink-strong);padding:7px 10px;font:inherit;font-size:11px}.listing-controls p{font-size:11px;white-space:nowrap;color:var(--muted);margin:0}
+  .tile-listing{width:min(1120px,calc(100% - 2rem))}
+  .list.tiles{display:grid;grid-template-columns:minmax(0,1fr);gap:1.5rem;margin-top:1.5rem}
+  .list.tiles :global(.ad-slot){grid-column:1/-1;width:100%}
+  @media(min-width:640px){.list.tiles{grid-template-columns:repeat(2,minmax(0,1fr))}}
+  @media(min-width:1000px){.list.tiles{grid-template-columns:repeat(3,minmax(0,1fr))}}
   .pg{color:var(--ink)}
   .chips{display:flex;flex-wrap:wrap;gap:.5rem;margin:0 0 1.5rem}
   .chips a{display:inline-flex;align-items:center;min-height:44px;padding:0 .9rem;border:1px solid var(--line);border-radius:4px;color:var(--ink-strong);text-decoration:none;font-weight:700;font-size:.9rem}
   .chips a:hover,.chips a:focus-visible{border-color:var(--focus);color:var(--focus)}
   .list{margin-top:1rem}
+  .list :global(.card:not(.tile)){border:1px solid var(--line);border-radius:9px;padding:14px;margin-bottom:12px}.list :global(.card .title){font-size:14px}.list.tiles :global(.card .title){font-size:13px}.list :global(.card time){font-size:11px}
   .empty{padding:2rem 0;color:var(--ink)}
   .about{margin-top:2rem;padding-top:1rem;border-top:4px solid var(--gold);color:var(--ink-strong)}
   .about h2{font-family:Sora,"Sora Fallback",sans-serif;font-size:1.1rem;margin:0 0 .5rem}
+  @media(max-width:700px){.listing-controls{gap:8px;padding:10px}.listing-controls label{display:block;font-size:11px}.listing-controls input{display:block;margin-top:6px;width:190px}.listing-controls p{font-size:11px}}
 </style>
