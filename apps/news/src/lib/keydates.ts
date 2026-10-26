@@ -41,6 +41,7 @@ export const KEY_DATES: KeyDate[] = [
   { date: "2026-12-21", label: "Winter Fuel Payment: opting out for 2027 to 2028 possible from this date", slug: "winter-fuel-payment-2026-dates-amounts-35000-threshold" },
   { date: "2027-03-31", label: "Winter Fuel Payment: deadline to claim for winter 2026 to 2027", slug: "winter-fuel-payment-2026-dates-amounts-35000-threshold" },
   { date: "2026-10-28", label: "UK Budget 2026 and OBR forecast", slug: "uk-budget-2026-date-wednesday-28-october-what-time" },
+  { date: "2026-11-01", label: "UK Cold Weather Payment scheme opens (£25 per 7-day freeze)", slug: "cold-weather-payment-2026-27-dates-25-pounds-who-gets-it" },
   { date: "2026-12-29", label: "Rose Parade Bandfest opens in Pasadena", slug: "rose-parade-2027-date-start-time-by-time-zone-route-floatfest" },
   { date: "2027-01-01", label: "138th Rose Parade: 8 a.m. PT (11 a.m. ET)", slug: "rose-parade-2027-date-start-time-by-time-zone-route-floatfest" },
   { date: "2027-03-08", label: "Spring break 2027 starts in Houston ISD", slug: "spring-break-2027-dates-school-districts" },
