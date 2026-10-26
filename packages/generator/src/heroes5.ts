@@ -129,6 +129,10 @@ export const PUZZLE_HEROES: [string, string, string, string, string, string, str
   ["nyt-mini-crossword-answers-october-25-2026", "mini", "#111827", "#a7d8ff", "NYT Mini · Sun., Oct. 25, 2026", "NYT Mini answers", "A hint for every clue first, the full grid at the end."],
   ["contexto-answer-hints-october-25-2026-1498", "contexto", "#0f172a", "#22c55e", "Contexto #1498 · Sun., Oct. 25, 2026", "Contexto hints", "Close words and hints first, the secret word only at the end."],
   ["blossom-word-game-answers-october-25-2026", "blossom", "#3b0764", "#fde047", "Blossom · Sun., Oct. 25, 2026", "Blossom answers", "Letters and hints first, the pangrams only at the end."],
+  ["nyt-mini-crossword-answers-october-26-2026", "mini", "#0f1d2e", "#fcd34d", "NYT Mini · Mon., Oct. 26, 2026", "NYT Mini answers", "A hint for every clue first, the full grid at the end."],
+  ["contexto-answer-hints-october-26-2026-1499", "contexto", "#111827", "#38bdf8", "Contexto #1499 · Mon., Oct. 26, 2026", "Contexto hints", "Close words and hints first, the secret word only at the end."],
+  ["quordle-hints-answers-october-26-2026-1736", "quordle", "#172033", "#f59e0b", "Quordle #1736 · Mon., Oct. 26, 2026", "Quordle hints today", "A clue for each of the four words, answers at the end."],
+  ["blossom-word-game-answers-october-26-2026", "blossom", "#2e1065", "#f9a8d4", "Blossom · Mon., Oct. 26, 2026", "Blossom answers", "Letters and hints first, the pangrams only at the end."],
   ["nyt-connections-answers-meanings-october-25-2026-1232", "connections", "#14213d", "#b0c4ef", "Connections #1232 · Sun., Oct. 25, 2026", "Connections meanings", "What every word means and why it fits, answers in spoilers."],
 ];
 
