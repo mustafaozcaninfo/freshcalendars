@@ -25,7 +25,8 @@
     "news:serve": "node scripts/news-serve.mjs",
     "news:verify": "node scripts/news-verify.mjs",
     "news:deploy": "bash scripts/news-deploy.sh",
-    "news:seo-audit": "node scripts/news-seo-audit.mjs"
+    "news:seo-audit": "node scripts/news-seo-audit.mjs",
+    "news:index": "node scripts/index-submit.mjs"
   },
   "devDependencies": {
     "@types/node": "^22.13.10",
