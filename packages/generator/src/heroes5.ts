@@ -240,6 +240,14 @@ export const PUZZLE_HEROES: [string, string, string, string, string, string, str
   ["nyt-connections-hints-answers-november-9-2026-1247", "connections", "#0f2a3a", "#b0c4ef", "Connections #1247 · Mon., Nov. 9, 2026", "Connections hints", "Gentle hints for every group first, answers only at the end.", "nyt-connections-november-9-b"],
   ["nyt-strands-hints-answers-november-9-2026-981", "strands", "#0f2f3a", "#aedfee", "Strands #981 · Mon., Nov. 9, 2026", "Strands hints today", "Spangram and theme-word hints first, answers at the end."],
   ["nyt-pips-hints-answers-november-9-2026", "pips", "#1e293b", "#f9a8d4", "Pips · Mon., Nov. 9, 2026", "Pips hints today", "Hints for Easy, Medium and Hard, placements at the end."],
+  ["wordle-hint-answer-today-november-10-2026-1970", "wordle", "#121213", "#c9b458", "Wordle #1970 · Tue., Nov. 10, 2026", "Wordle hints today", "Six clues from gentle to strong, the answer only at the end."],
+  ["nyt-connections-hints-answers-november-10-2026-1248", "connections", "#1e1a3a", "#a0c35a", "Connections #1248 · Tue., Nov. 10, 2026", "Connections hints", "Gentle hints for every group first, answers only at the end."],
+  ["nyt-strands-hints-answers-november-10-2026-982", "strands", "#0f2f3a", "#aedfee", "Strands #982 · Tue., Nov. 10, 2026", "Strands hints today", "Spangram and theme-word hints first, answers at the end."],
+  ["nyt-pips-hints-answers-november-10-2026", "pips", "#1e293b", "#86efac", "Pips · Tue., Nov. 10, 2026", "Pips hints today", "Hints for Easy, Medium and Hard, placements at the end."],
+  ["wordle-hint-answer-today-november-11-2026-1971", "wordle", "#121213", "#c9b458", "Wordle #1971 · Wed., Nov. 11, 2026", "Wordle hints today", "Six clues from gentle to strong, the answer only at the end."],
+  ["nyt-connections-hints-answers-november-11-2026-1249", "connections", "#2a1a2e", "#ba81c5", "Connections #1249 · Wed., Nov. 11, 2026", "Connections hints", "Gentle hints for every group first, answers only at the end."],
+  ["nyt-strands-hints-answers-november-11-2026-983", "strands", "#0f2f3a", "#aedfee", "Strands #983 · Wed., Nov. 11, 2026", "Strands hints today", "Spangram and theme-word hints first, answers at the end."],
+  ["nyt-pips-hints-answers-november-11-2026", "pips", "#1e293b", "#fdba74", "Pips · Wed., Nov. 11, 2026", "Pips hints today", "Hints for Easy, Medium and Hard, placements at the end."],
   ["wordle-answers-2026-full-list-repeat-answers", "wordle", "#1a1a2e", "#6aaa64", "Wordle · 2026 so far", "Old answers are back", "Every 2026 answer, #1657 to #1955, and the 28 past words that returned."],
 ];
 
