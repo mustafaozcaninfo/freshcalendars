@@ -63,3 +63,26 @@ A good `news-writer` brief has:
 | Photo search and CI | Small |
 
 The two biggest savings are short sessions and complete briefs.
+
+## 6. Scheduled rounds: a fresh session every time
+
+If you publish on a schedule (for example, a round every two hours overnight), the session setup decides most of the cost.
+
+- **Never run a schedule inside one long session.** A routine that wakes the same session keeps adding to its history, and every round and every CI notice re-reads all of it. One such session ran for five days, and its context grew to about 485,000 tokens. That re-reading, not the writing, was the largest cost.
+- **Make the routine start a fresh session on every run.** In the claude.ai Routines screen, choose to start a new session each time. From a session, call `create_trigger` with `create_new_session_on_fire: true`. Each round then starts from an empty history, does its 3 to 5 stories, ships one pull request, and ends.
+- **Write the routine prompt so it stands alone.** A fresh session knows nothing else, so the prompt must say:
+  1. Usage gate: check the usage limit first (step 0 below).
+  2. Setup: clone the repo if it is missing, read `CLAUDE.md`, this guide and the `news-article` skill, start from `origin/main`, and list open pull requests.
+  3. Topics: pick 3 to 5, research them with Haiku agents, and hold any topic whose official source is blocked.
+  4. Writing: Sonnet agents, with complete briefs (section 4).
+  5. Heroes, checks and shipping: one pull request per round, merged on green CI.
+  6. Updates: which pending stories to refresh.
+  7. Report: a short summary for the editor.
+- **Usage gate (step 0 of the prompt).** First, the session calls `get_session` (claude-code-remote tools) and reads `external_metadata.rate_limit_info`.
+  - If `status` is not `allowed`, or `isUsingOverage` is true, it writes one line with the reset time and stops.
+  - It checks again before writing. If the limit was reached, it finishes only the stories already written.
+  - Writing then never stops for long: the next scheduled round starts by itself once the limit resets, and a full limit costs nothing.
+- **Keep the strongest model as the round's main session.** Only the main session, the one that decides, uses it; research stays on Haiku and writing on Sonnet (section 1).
+- **One routine for news and a separate one for puzzles.** Two sessions writing the same day's puzzle pages caused duplicate work and a merge conflict. The news routine's prompt says: "Do not write or edit daily puzzle pages."
+- **One news routine for the whole team.** If two editors each run a routine, they pick the same topics. Agree on one routine, and run anything extra by hand in a fresh session.
+- **Do not chat in the routine's sessions.** Read each round's report in its own session in the Claude app. Open a new session for questions instead of asking in an old one.
