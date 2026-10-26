@@ -122,8 +122,11 @@ const ART: Record<string, (r: Rng) => string> = {
   waffle: (r) => grid(700, 95, 5, 5, 88, 10, (row, c) => (row % 2 && c % 2 ? "none" : pick(r, [G, G, G, Y, Y, "#e5e7eb"])), 12),
 };
 
-/** [slug, game art key, bg, accent, kicker, title, dek]: filled in per day. */
-export const PUZZLE_HEROES: [string, string, string, string, string, string, string][] = [
+/**
+ * [slug, game art key, bg, accent, kicker, title, dek, seed?]: filled in per day. The optional seed
+ * replaces the slug as the layout seed when two days of one game come out as the same picture.
+ */
+export const PUZZLE_HEROES: [string, string, string, string, string, string, string, string?][] = [
   ["wordle-hint-answer-today-october-25-2026-1954", "wordle", "#121213", "#c9b458", "Wordle #1954 · Sun., Oct. 25, 2026", "Wordle hints today", "Six clues from gentle to strong, the answer only at the end."],
   ["nyt-connections-hints-answers-october-25-2026-1232", "connections", "#1e1a3a", "#f9df6d", "Connections #1232 · Sun., Oct. 25, 2026", "Connections hints", "Gentle hints for every group first, answers only at the end."],
   ["nyt-strands-hints-answers-october-25-2026-966", "strands", "#0f2f3a", "#aedfee", "Strands #966 · Sun., Oct. 25, 2026", "Strands hints today", "Spangram and theme-word hints first, answers at the end."],
@@ -232,7 +235,7 @@ export const PUZZLE_HEROES: [string, string, string, string, string, string, str
   ["nyt-pips-hints-answers-november-8-2026", "pips", "#1e293b", "#fde68a", "Pips · Sun., Nov. 8, 2026", "Pips hints today", "Hints for Easy, Medium and Hard, placements at the end."],
   ["nyt-spelling-bee-hints-answers-november-8-2026", "bee", "#1c1917", "#f7da21", "Spelling Bee · Sun., Nov. 8, 2026", "Spelling Bee hints", "Hint grid and two-letter list first, the word list at the end."],
   ["wordle-hint-answer-today-november-9-2026-1969", "wordle", "#121213", "#c9b458", "Wordle #1969 · Mon., Nov. 9, 2026", "Wordle hints today", "Six clues from gentle to strong, the answer only at the end."],
-  ["nyt-connections-hints-answers-november-9-2026-1247", "connections", "#0f2a3a", "#b0c4ef", "Connections #1247 · Mon., Nov. 9, 2026", "Connections hints", "Gentle hints for every group first, answers only at the end."],
+  ["nyt-connections-hints-answers-november-9-2026-1247", "connections", "#0f2a3a", "#b0c4ef", "Connections #1247 · Mon., Nov. 9, 2026", "Connections hints", "Gentle hints for every group first, answers only at the end.", "nyt-connections-november-9-b"],
   ["nyt-strands-hints-answers-november-9-2026-981", "strands", "#0f2f3a", "#aedfee", "Strands #981 · Mon., Nov. 9, 2026", "Strands hints today", "Spangram and theme-word hints first, answers at the end."],
   ["nyt-pips-hints-answers-november-9-2026", "pips", "#1e293b", "#f9a8d4", "Pips · Mon., Nov. 9, 2026", "Pips hints today", "Hints for Easy, Medium and Hard, placements at the end."],
 ];
@@ -241,10 +244,10 @@ export async function buildHeroes5(only?: string): Promise<void> {
   const fonts = await fontFaces();
   const browser = await chromium.launch({ headless: true });
   try {
-    for (const [slug, art, bg, accent, kicker, title, dek] of PUZZLE_HEROES) {
+    for (const [slug, art, bg, accent, kicker, title, dek, seed = slug] of PUZZLE_HEROES) {
       if (only && !slug.includes(only)) continue;
       const page = await browser.newPage({ viewport: { width: W, height: H }, deviceScaleFactor: 2 });
-      await page.setContent(hero(fonts, { bg, accent, kicker, title, dek, art: ART[art]!(rng(slug)), seed: slug }), { waitUntil: "load" });
+      await page.setContent(hero(fonts, { bg, accent, kicker, title, dek, art: ART[art]!(rng(seed)), seed }), { waitUntil: "load" });
       await page.evaluate(() => document.fonts.ready);
       const png = await page.screenshot({ type: "png" });
       await page.close();
