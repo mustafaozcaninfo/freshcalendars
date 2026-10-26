@@ -7,6 +7,7 @@ import { buildJulianDownloads } from "./julian.js";
 import { buildRamadanDownloads } from "./ramadan.js";
 import { buildWeekNumberDownloads } from "./weeknumbers.js";
 import { buildJanuary2027Downloads } from "./january2027.js";
+import { buildNovember2026Downloads } from "./november2026cal.js";
 import { buildMoonDownloads } from "./moon.js";
 import { buildLunarNewYearDownloads } from "./lunarnewyear.js";
 import { buildSocialSecurityDownloads } from "./socialsecurity.js";
@@ -114,6 +115,8 @@ async function main(): Promise<void> {
       await buildJulianDownloads(years);
     } else if (cmd === "news-ramadan") {
       await buildRamadanDownloads();
+    } else if (cmd === "news-november2026") {
+      await buildNovember2026Downloads();
     } else if (cmd === "news-january2027") {
       await buildJanuary2027Downloads();
     } else if (cmd === "news-weeks") {
@@ -220,6 +223,7 @@ async function main(): Promise<void> {
   pnpm fc news-photo use <slug> <n>        # crop to 16:9 WebP with credit and license record
   pnpm fc news-julian [--years 2026,2027]  # /news/ Julian date printables (PDF + PNG)
   pnpm fc news-ramadan                     # /news/ Ramadan 2027 printables (PDF + PNG)
+  pnpm fc news-november2026                # /news/ November 2026 calendar: 14 printables (PDF + PNG + WebP) and hero
   pnpm fc news-january2027                 # /news/ January 2027 calendar: 12 printables (PDF + PNG + WebP) and hero
   pnpm fc news-weeks                       # /news/ week number 2027 printables (PDF + PNG)
   pnpm fc news-moon                        # /news/ moon phases 2027 printables (PDF + PNG)

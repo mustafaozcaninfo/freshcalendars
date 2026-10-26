@@ -23,11 +23,11 @@ const GROUP = "january-2027-calendar";
 const FOOT = `Free printable from Fresh Calendars · freshcalendars.com/news/${STORY}/`;
 const Y = 2027, M = 0;
 
-type Cell = { y: number; m: number; d: number; dow: number; inMonth: boolean; key: string };
-const iso = (dt: Date) => dt.toISOString().slice(0, 10);
+export type Cell = { y: number; m: number; d: number; dow: number; inMonth: boolean; key: string };
+export const iso = (dt: Date) => dt.toISOString().slice(0, 10);
 
 /** Whole weeks covering a month, starting on Sunday (0) or Monday (1). */
-function weeksOf(start: 0 | 1, y = Y, m = M): Cell[][] {
+export function weeksOf(start: 0 | 1, y = Y, m = M): Cell[][] {
   const lead = (utc(y, m, 1).getUTCDay() - start + 7) % 7;
   const total = Math.ceil((lead + daysIn(y, m)) / 7) * 7;
   const out: Cell[][] = [];
@@ -40,7 +40,7 @@ function weeksOf(start: 0 | 1, y = Y, m = M): Cell[][] {
 }
 
 /** ISO 8601 week number: Jan. 1-3, 2027 fall in week 53 of 2026. */
-function isoWeek(c: Cell): number {
+export function isoWeek(c: Cell): number {
   // The Thursday of this week decides the year; count weeks from that year's first Thursday.
   const th = utc(c.y, c.m, c.d - ((c.dow + 6) % 7) + 3);
   const jan1 = utc(th.getUTCFullYear(), 0, 1);
@@ -51,7 +51,7 @@ function isoWeek(c: Cell): number {
 /** U.S. federal holidays, Office of Personnel Management. */
 const HOL: Record<string, string> = { "2027-01-01": "New Year's Day", "2027-01-18": "Martin Luther King Jr. Day" };
 /** Primary Moon phases, U.S. Naval Observatory, Eastern Standard Time (EST). */
-type Phase = "new" | "fq" | "full" | "lq";
+export type Phase = "new" | "fq" | "full" | "lq";
 const MOON: Record<string, { p: Phase; name: string; t: string }> = {
   "2027-01-07": { p: "new", name: "New Moon", t: "3:24 p.m." },
   "2027-01-15": { p: "fq", name: "First Quarter", t: "3:34 p.m." },
@@ -72,7 +72,7 @@ const KEY: { key: string; short: string; long: string; color: string }[] = [
 
 // ── Drawn art ───────────────────────────────────────────────────────────────
 /** Six-armed snowflake with two pairs of branches per arm. */
-function flake(cx: number, cy: number, r: number, rot: number, color: string, w: number): string {
+export function flake(cx: number, cy: number, r: number, rot: number, color: string, w: number): string {
   let d = "";
   for (let i = 0; i < 6; i++) {
     const a = ((rot + i * 60) * Math.PI) / 180;
@@ -94,7 +94,7 @@ function flake(cx: number, cy: number, r: number, rot: number, color: string, w:
 }
 
 /** Moon disc as seen from the Northern Hemisphere: first quarter lit on the right, last quarter on the left. */
-function moon(p: Phase, s: number): string {
+export function moon(p: Phase, s: number): string {
   const r = s / 2 - 1.5, c = s / 2, dark = "#22324a";
   const half = (side: 1 | -1) => `<path d="M${c} ${c - r}A${r} ${r} 0 0 ${side === 1 ? 1 : 0} ${c} ${c + r}Z" fill="#fff"/>`;
   const body = p === "new" ? `<circle cx="${c}" cy="${c}" r="${r}" fill="${dark}"/>`
@@ -121,7 +121,7 @@ function coloringArt(): string {
 }
 
 // ── Shared pieces ───────────────────────────────────────────────────────────
-const dowLabels = (start: 0 | 1, names: string[]) => [...names.slice(start), ...names.slice(0, start)];
+export const dowLabels = (start: 0 | 1, names: string[]) => [...names.slice(start), ...names.slice(0, start)];
 
 interface GridOpts { start: 0 | 1; names: string[]; cell: (c: Cell) => string; week?: boolean; cls?: string }
 function grid(o: GridOpts): string {
@@ -133,7 +133,7 @@ function grid(o: GridOpts): string {
   return `<div class="grid${o.week ? " withwk" : ""} ${o.cls ?? ""}" style="--rows:${rows.length}">${head}${body}</div>`;
 }
 
-const GRID_CSS = `
+export const GRID_CSS = `
   .grid{display:grid;grid-template-columns:repeat(7,1fr);grid-template-rows:auto repeat(var(--rows),1fr)}
   .grid.withwk{grid-template-columns:52px repeat(7,1fr)}
   .grid .dh{text-align:center;font-family:Sora;font-weight:700}
@@ -142,12 +142,12 @@ const GRID_CSS = `
   .grid .h{display:block;font-weight:700;line-height:1.15}`;
 
 /** Small month grid (December 2026, February 2027) for headers and the three-month sheet. */
-function mini(y: number, m: number, title: string, cls = "mini"): string {
+export function mini(y: number, m: number, title: string, cls = "mini"): string {
   const rows = weeksOf(0, y, m);
   const cells = rows.flat().map((c) => `<span class="${c.inMonth ? "" : "o"}">${c.inMonth ? c.d : ""}</span>`).join("");
   return `<div class="${cls}"><b>${title}</b><div class="mg">${DOW3.map((d) => `<i>${d[0]}</i>`).join("")}${cells}</div></div>`;
 }
-const MINI_CSS = `
+export const MINI_CSS = `
   .mini{font-size:9px;color:#37474f}
   .mini b{display:block;font-family:Sora;font-size:11px;color:#0b3d66;margin-bottom:3px}
   .mini .mg{display:grid;grid-template-columns:repeat(7,16px);gap:1px 2px;text-align:right}

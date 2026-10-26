@@ -1,13 +1,13 @@
 ---
-title: "November 2026 Calendar With Holidays: Every Important Date, Thanksgiving Week and How Many Days Until Each"
+title: "November 2026 Holidays and Important Dates: Election Day, Veterans Day, Thanksgiving Week and Days Until Each"
 seoTitle: "November 2026 Holidays: Calendar With Every Key Date"
 description: "Holidays in November 2026: Election Day Nov. 3, Veterans Day Nov. 11, Thanksgiving Nov. 26, Black Friday Nov. 27. Every date, days until each and a printable."
 type: explainer
 publishedAt: "2026-10-19T08:00:00-04:00"
-updatedAt: "2026-10-22T01:50:00-04:00"
+updatedAt: "2026-10-26T05:23:00-04:00"
 authors: [jordan-bennett]
 category: planning
-keywords: ["November 2026 calendar with holidays", "November 2026 holidays", "November 2026 important dates", "Thanksgiving 2026 calendar", "days until Thanksgiving 2026"]
+keywords: ["November 2026 holidays", "November 2026 important dates", "holidays in November 2026", "Thanksgiving 2026 calendar", "days until Thanksgiving 2026"]
 dateline: "New York"
 hero:
   src: ../../../../assets/news/november-2026-important-dates-days-until/november-2026-important-dates-days-until.jpg
@@ -173,4 +173,4 @@ The [Medicare open enrollment guide](/news/medicare-open-enrollment-2026-decembe
 
 ## Put it on the wall
 
-Every date above fits on one page: print our free November 2026 calendar with holidays below, or pick a plain design from the [November 2026 printable calendars](/november-calendars.html) and circle Nov. 3, Nov. 11 and Nov. 26. The pages on [when Thanksgiving falls](/when-is/thanksgiving/), [Black Friday](/when-is/black-friday/) and [Veterans Day](/when-is/veterans-day/) cover those holidays year by year. For Nov. 11 deals, see our [Veterans Day free meals list](/news/veterans-day-free-meals-discounts/); for Nov. 27, [Black Friday 2026 store hours](/news/black-friday-2026-store-hours-walmart-target-best-buy/); for Nov. 3, [when election results are expected](/news/when-will-we-know-election-results-2026-midterms/); Grand Theft Auto (GTA) VI launches Nov. 19 ([what is confirmed](/news/gta-6-october-22-2026-what-is-confirmed-release-countdown/)); and federal funding runs out on Dec. 11 ([the shutdown deadline](/news/government-funding-deadline-december-11-2026-shutdown/)).
+Every date above fits on one page: print our free November 2026 calendar with holidays below, choose from [14 free November 2026 calendar templates](/news/november-2026-calendar-printable/), or pick a plain design from the [November 2026 printable calendars](/november-calendars.html) and circle Nov. 3, Nov. 11 and Nov. 26. The pages on [when Thanksgiving falls](/when-is/thanksgiving/), [Black Friday](/when-is/black-friday/) and [Veterans Day](/when-is/veterans-day/) cover those holidays year by year. For Nov. 11 deals, see our [Veterans Day free meals list](/news/veterans-day-free-meals-discounts/); for Nov. 27, [Black Friday 2026 store hours](/news/black-friday-2026-store-hours-walmart-target-best-buy/); for Nov. 3, [when election results are expected](/news/when-will-we-know-election-results-2026-midterms/); Grand Theft Auto (GTA) VI launches Nov. 19 ([what is confirmed](/news/gta-6-october-22-2026-what-is-confirmed-release-countdown/)); and federal funding runs out on Dec. 11 ([the shutdown deadline](/news/government-funding-deadline-december-11-2026-shutdown/)).
