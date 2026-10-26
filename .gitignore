@@ -19,3 +19,6 @@ scripts/.mobile-*.png
 
 # generator scratch (scene sheets, photo search results)
 .cache/
+
+# AnindaIndex submission record (scripts/index-submit.mjs)
+.index-submit/

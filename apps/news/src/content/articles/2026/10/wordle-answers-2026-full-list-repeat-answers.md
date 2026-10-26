@@ -176,7 +176,7 @@ For the single puzzle in front of you, the [Wordle hint page for Oct. 26, 2026](
 
 ## What was every Wordle answer in 2026?
 
-The tables below list each puzzle from #1657 to #1955. A repeat is marked "(repeat)". October stops at Oct. 26, the latest puzzle live when this list was made. The June 10 answer (#1817) is given as a clue because our style list keeps that word out of our copy: a five-letter verb meaning to put in a straight line, starting with A.
+The tables below list each puzzle from #1657 to #1955. A repeat is marked "(repeat)". October stops at Oct. 26; the full month, with letter counts, is in our October 2026 Wordle answers story, which publishes on Oct. 31. The June 10 answer (#1817) is given as a clue because our style list keeps that word out of our copy: a five-letter verb meaning to put in a straight line, starting with A.
 
 ### January 2026
 

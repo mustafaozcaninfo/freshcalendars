@@ -1,11 +1,13 @@
 #!/usr/bin/env bash
 # Build, verify and publish /news/ (NEWS-ROADMAP §3.3, N7). Runs on the VPS (cron job
 # news-publish, or triggered by scripts/news-deploy.sh). Only changed files are synced;
-# Cloudflare is purged by URL for exactly those files, and changed articles go to IndexNow.
+# Cloudflare is purged by URL for exactly those files, changed articles go to IndexNow and
+# new ones go once to the AnindaIndex API (scripts/index-submit.mjs).
 # Prints "changed=N" on its last line. Exit 0 with changed=0 when nothing differs.
 #
 # Env: NEWS_TARGET (default $DEPLOY_PATH/news/), NEWS_OWNER (default yuzdehesaplama:www-data),
 #      NEWS_DRY_RUN=1 (diff only), NEWS_PURGE=0 (skip Cloudflare), NEWS_INDEXNOW=0 (skip ping),
+#      NEWS_INDEX_SUBMIT=0 (skip AnindaIndex; it also needs ANINDA_INDEX_KEY in .env),
 #      NEWS_BUILD_ENV="NEWS_INCLUDE_DRAFTS=1" (test builds only), SITE_ORIGIN.
 set -euo pipefail
 
@@ -49,14 +51,25 @@ mkdir -p "$TARGET" "$TARGET/_astro"
 # Itemized dry run → list of changed/deleted paths (files only). Astro names every _astro file
 # by a hash of its content, so those are compared by name (new or gone), never checksummed:
 # _astro holds about 80% of the bytes and checksumming it on each pass was the slow part.
+# Each line is "N<TAB>path" for a file the target did not have yet, "-<TAB>path" otherwise.
 CHANGES=()
-while IFS= read -r line; do CHANGES+=("$line"); done < <({
+NEW_FILES=$'\n'
+while IFS= read -r line; do
+  CHANGES+=("${line#*$'\t'}")
+  if [[ "${line%%$'\t'*}" == N ]]; then NEW_FILES+="${line#*$'\t'}"$'\n'; fi
+done < <({
   rsync -rcn --delete --exclude '/_astro/' --itemize-changes --out-format='%i %n' "$DIST/" "$TARGET"
   rsync -rn --delete --ignore-existing --itemize-changes --out-format='%i %n' "$DIST/_astro/" "$TARGET/_astro/" | sed -E 's#^([^ ]+ +)#\1_astro/#'
-} | awk '$1 ~ /^[<>ch*]f|^\*deleting/ { sub(/^[^ ]+ +/, ""); print }' | grep -v '/$' || true)
+} | awk '$1 ~ /^[<>ch*]f|^\*deleting/ { n = ($1 ~ /^[<>c]f\+\+\+/) ? "N" : "-"; sub(/^[^ ]+ +/, ""); print n "\t" $0 }' | grep -v '/$' || true)
+
+submit_for_index() {
+  [[ "${NEWS_INDEX_SUBMIT:-1}" == "1" && -n "${ANINDA_INDEX_KEY:-}" ]] || return 0
+  node scripts/index-submit.mjs submit "$@" || true
+}
 
 if [[ ${#CHANGES[@]} -eq 0 ]]; then
   echo "[news] no changes"
+  [[ "${NEWS_DRY_RUN:-0}" == "1" ]] || submit_for_index  # sends anything an earlier run left queued
   echo "changed=0"
   exit 0
 fi
@@ -67,6 +80,7 @@ for ((i = 0; i < ${#CHANGES[@]} && i < 50; i++)); do echo "[news] ${CHANGES[i]}"
 # Public URLs to purge: pages (dir/index.html → dir/), xml/xsl; hashed _astro files never need it.
 URLS=()
 ARTICLE_URLS=()
+NEW_URLS=()
 for p in "${CHANGES[@]}"; do
   case "$p" in
     _astro/*) ;;
@@ -75,7 +89,10 @@ for p in "${CHANGES[@]}"; do
       u="$ORIGIN/news/${p%index.html}"
       URLS+=("$u")
       # Stories and topic hubs go to IndexNow; category, author and paged lists wait for the crawl.
-      if [[ ( "$p" =~ ^[^/]+/index\.html$ && ! "$p" =~ ^(category|author|page)/ ) || "$p" =~ ^topic/[^/]+/index\.html$ ]]; then ARTICLE_URLS+=("$u"); fi
+      if [[ ( "$p" =~ ^[^/]+/index\.html$ && ! "$p" =~ ^(category|author|page)/ ) || "$p" =~ ^topic/[^/]+/index\.html$ ]]; then
+        ARTICLE_URLS+=("$u")
+        if [[ "$NEW_FILES" == *$'\n'"$p"$'\n'* ]]; then NEW_URLS+=("$u"); fi
+      fi
       ;;
     *) URLS+=("$ORIGIN/news/$p") ;;
   esac
@@ -84,6 +101,7 @@ done
 if [[ "${NEWS_DRY_RUN:-0}" == "1" ]]; then
   printf '[news] would purge %s\n' "${URLS[@]}"
   printf '[news] would ping IndexNow %s\n' "${ARTICLE_URLS[@]:-}"
+  printf '[news] would submit for indexing %s\n' "${NEW_URLS[@]:-}"
   echo "changed=${#CHANGES[@]}"
   exit 0
 fi
@@ -113,5 +131,8 @@ print(json.dumps({'host':'${ORIGIN#https://}','key':'$INDEXNOW_KEY','keyLocation
     -H 'Content-Type: application/json; charset=utf-8' --data "$body" || echo 000)
   echo "[news] IndexNow ${#ARTICLE_URLS[@]} url(s) → HTTP $code"
 fi
+
+# New stories and hubs only, once each; the script keeps the record and retries what failed.
+submit_for_index ${NEW_URLS[@]+"${NEW_URLS[@]}"}
 
 echo "changed=${#CHANGES[@]}"
