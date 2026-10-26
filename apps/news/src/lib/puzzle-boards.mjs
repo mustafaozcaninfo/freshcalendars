@@ -11,7 +11,7 @@
  *   the hint grid section (letters only, no answers).
  * No <div> inside the story body: the audit reads prose up to the first </div>.
  */
-import { readdirSync } from "node:fs";
+import { readdirSync, readFileSync } from "node:fs";
 import path from "node:path";
 import { GAMES, addDays, loadPuzzle, pipsValues, puzzleOf, slugDate } from "./puzzles.mjs";
 
@@ -21,15 +21,22 @@ const HINTS = /\b(hints?|clues?)\b/i;
 const NOT_HINTS = /\b(how|works|read|tips|grid)\b/i;
 const ANSWER_ID = "pz-answer";
 
-let slugs;
-/** Every story slug, read once per build, to link yesterday's page only when it exists. */
-const allSlugs = () => {
-  if (!slugs) {
-    const walk = (d) => readdirSync(d, { withFileTypes: true }).flatMap((e) => (e.isDirectory() ? walk(path.join(d, e.name)) : [e.name.replace(/\.mdx?$/, "")]));
-    slugs = new Set(walk(ARTICLES));
+let stories;
+/**
+ * Every story's slug and publishedAt, read once per build: yesterday's page is linked only when
+ * it exists, and a game's hub only once it has MIN_TOPIC_STORIES (4) live pages (topics.ts).
+ */
+const allStories = () => {
+  if (!stories) {
+    const walk = (d) => readdirSync(d, { withFileTypes: true }).flatMap((e) => (e.isDirectory() ? walk(path.join(d, e.name)) : [path.join(d, e.name)]));
+    stories = new Map(walk(ARTICLES).filter((f) => /\.mdx?$/.test(f)).map((f) => [
+      path.basename(f).replace(/\.mdx?$/, ""),
+      Date.parse(readFileSync(f, "utf8").match(/^publishedAt: "([^"]+)"/m)?.[1] ?? "") || Infinity,
+    ]));
   }
-  return slugs;
+  return stories;
 };
+const HUB_MIN = 4;
 
 export function rehypePuzzleBoards() {
   return (tree, file) => {
@@ -108,13 +115,16 @@ function shortcuts(p, answer) {
   const g = GAMES[p.game];
   const y = addDays(p.date, -1);
   const prefix = `${g.prefix}-${slugDate(y)}`;
-  const ySlug = [...allSlugs()].find((s) => s === prefix || s.startsWith(`${prefix}-`));
+  const now = Date.now();
+  const live = [...allStories()].filter(([s, at]) => s.startsWith(`${g.prefix}-`) && at <= now).map(([s]) => s);
+  const ySlug = live.find((s) => s === prefix || s.startsWith(`${prefix}-`));
   const links = [
     answer && `<a class="pz-go" href="${answer}">Skip to the answer ↓</a>`,
     ySlug && `<a href="/news/${ySlug}/">Yesterday's ${esc(g.name)}</a>`,
-    `<a href="/news/topic/${g.hub}/">All ${esc(g.name)} answers</a>`,
+    live.length >= HUB_MIN && `<a href="/news/topic/${g.hub}/">All ${esc(g.name)} answers</a>`,
   ].filter(Boolean);
-  return `<nav class="pz-nav" aria-label="${esc(g.name)} shortcuts">${links.join("")}</nav>`;
+  // A list, so the links read as navigation and stay out of the prose checks.
+  return `<nav class="pz-nav" aria-label="${esc(g.name)} shortcuts"><ul>${links.map((a) => `<li>${a}</li>`).join("")}</ul></nav>`;
 }
 
 /**
@@ -197,7 +207,9 @@ function strandsBoard(d) {
 
 /** Pips board: colored regions with their conditions, and every domino in place with its pips. */
 function pipsBoard(L, name) {
-  const S = 64, PAD = 6;
+  // 72px cells, dominoes inset 12px: the region color shows around each domino and the badge in
+  // the cell corner clears the nearest pip.
+  const S = 72, PAD = 12;
   const PALETTE = ["#f9c6d0", "#c9e4b4", "#b9d7f2", "#f6dd9c", "#d8c6f0", "#f5c9a8", "#b8e3dc", "#e7d1b0", "#cfd8e3", "#f2b8e0"];
   const cells = L.regions.flatMap((r) => r.indices);
   const rows = Math.max(...cells.map(([r]) => r)) + 1, cols = Math.max(...cells.map(([, c]) => c)) + 1;
@@ -226,8 +238,8 @@ function pipsBoard(L, name) {
     if (rg.type === "empty") continue;
     const [r, c] = [...rg.indices].sort((p, q) => p[0] - q[0] || p[1] - q[1])[0];
     const lbl = SYM[rg.type] ?? (rg.type === "less" ? `<${rg.target}` : rg.type === "greater" ? `>${rg.target}` : String(rg.target));
-    const bx = c * S + 3, by = r * S + 3, bw = 10 + 9 * lbl.length;
-    out.push(`<rect x="${bx}" y="${by}" width="${bw}" height="20" rx="6" fill="#1f2937"/><text x="${bx + bw / 2}" y="${by + 15}" text-anchor="middle" font-size="14" font-weight="700" fill="#fff">${esc(lbl)}</text>`);
+    const bx = c * S + 1, by = r * S + 1, bw = 8 + 8 * lbl.length;
+    out.push(`<rect x="${bx}" y="${by}" width="${bw}" height="16" rx="5" fill="#1f2937"/><text x="${bx + bw / 2}" y="${by + 12.5}" text-anchor="middle" font-size="12" font-weight="700" fill="#fff">${esc(lbl)}</text>`);
   }
   const label = `Solved Pips ${name} board by ${L.constructors}: ${L.dominoes.length} dominoes on ${values.size} cells`;
   const svg = `<svg class="pz-svg" viewBox="-2 -2 ${cols * S + 4} ${rows * S + 4}" role="img" aria-label="${esc(label)}" font-family="Sora,sans-serif">${out.join("")}</svg>`;
@@ -236,7 +248,7 @@ function pipsBoard(L, name) {
 
 /** Domino pips for a value 0-6, drawn in a square half centered on (cx, cy). */
 function pips(cx, cy, v) {
-  const o = 14;
+  const o = 13;
   const SPOTS = { 0: [], 1: [[0, 0]], 2: [[-1, -1], [1, 1]], 3: [[-1, -1], [0, 0], [1, 1]], 4: [[-1, -1], [1, -1], [-1, 1], [1, 1]], 5: [[-1, -1], [1, -1], [0, 0], [-1, 1], [1, 1]], 6: [[-1, -1], [1, -1], [-1, 0], [1, 0], [-1, 1], [1, 1]] };
   return (SPOTS[v] ?? []).map(([dx, dy]) => `<circle cx="${cx + dx * o}" cy="${cy + dy * o}" r="5.5" fill="#1f2937"/>`).join("");
 }
@@ -254,5 +266,5 @@ function beeBoard(d) {
   const body = [hex(cx, cy, "#f7da21", d.center_letter.toUpperCase()), ...ring.map(([dx, dy], k) => hex(cx + dx, cy + dy, "#e6e6e6", outer[k]))].join("");
   const label = `Spelling Bee letters: center ${d.center_letter.toUpperCase()}, outer ${outer.join(", ")}`;
   const svg = `<svg class="pz-svg pz-hive" viewBox="0 0 300 300" role="img" aria-label="${esc(label)}"><g font-family="Sora,sans-serif" font-weight="800" font-size="30" fill="#1a1a1a">${body}</g></svg>`;
-  return figure("pz-bee", svg, `Today's seven letters: every word must use the yellow center letter. ${FROM_DATA}`);
+  return figure("pz-bee", svg, "Today's seven letters, from the official puzzle data published by The New York Times; every word must use the yellow center letter.");
 }

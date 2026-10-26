@@ -561,7 +561,8 @@ const keyDates = upcomingFor(new Set([article.id]));
   .prose-news :global(tbody tr.is-next td){background:#fff7d6;font-weight:700}
   .prose-news :global(tbody tr.is-past td){color:#6b7280}
   /* Daily puzzle pages (src/lib/puzzle-boards.mjs): shortcut bar, tap-to-reveal hints, solved boards. */
-  .prose-news :global(.pz-nav){display:flex;flex-wrap:wrap;gap:.5rem;margin:0 0 1.25rem}
+  .prose-news :global(.pz-nav ul){display:flex;flex-wrap:wrap;gap:.5rem;margin:0 0 1.25rem;padding:0;list-style:none}
+  .prose-news :global(.pz-nav li){margin:0}
   .prose-news :global(.pz-nav a){display:inline-flex;align-items:center;min-height:44px;padding:0 1rem;border:1px solid var(--n-border);border-radius:999px;background:#fff;color:var(--focus);font-weight:700;font-size:.95rem;text-decoration:none;box-shadow:var(--n-shadow)}
   .prose-news :global(.pz-nav a.pz-go){background:var(--focus);border-color:var(--focus);color:#fff}
   .prose-news :global(.pz-nav a:hover){box-shadow:var(--n-shadow-h)}
