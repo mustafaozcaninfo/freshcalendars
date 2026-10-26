@@ -215,6 +215,16 @@ export const PUZZLE_HEROES: [string, string, string, string, string, string, str
   ["nyt-pips-hints-answers-november-5-2026", "pips", "#1e293b", "#c4b5fd", "Pips · Thu., Nov. 5, 2026", "Pips hints today", "Hints for Easy, Medium and Hard, placements at the end."],
   ["nyt-spelling-bee-hints-answers-november-5-2026", "bee", "#1c1917", "#f7da21", "Spelling Bee · Thu., Nov. 5, 2026", "Spelling Bee hints", "Hint grid and two-letter list first, the word list at the end."],
   ["contexto-answer-hints-november-4-2026-1508", "contexto", "#0f172a", "#fb7185", "Contexto #1508 · Wed., Nov. 4, 2026", "Contexto hints", "Close words and hints first, the secret word only at the end."],
+  ["wordle-hint-answer-today-november-6-2026-1966", "wordle", "#121213", "#c9b458", "Wordle #1966 · Fri., Nov. 6, 2026", "Wordle hints today", "Six clues from gentle to strong, the answer only at the end."],
+  ["nyt-connections-hints-answers-november-6-2026-1244", "connections", "#1e1a3a", "#f9df6d", "Connections #1244 · Fri., Nov. 6, 2026", "Connections hints", "Gentle hints for every group first, answers only at the end."],
+  ["nyt-strands-hints-answers-november-6-2026-978", "strands", "#0f2f3a", "#aedfee", "Strands #978 · Fri., Nov. 6, 2026", "Strands hints today", "Spangram and theme-word hints first, answers at the end."],
+  ["nyt-pips-hints-answers-november-6-2026", "pips", "#1e293b", "#fda4af", "Pips · Fri., Nov. 6, 2026", "Pips hints today", "Hints for Easy, Medium and Hard, placements at the end."],
+  ["nyt-spelling-bee-hints-answers-november-6-2026", "bee", "#1c1917", "#f7da21", "Spelling Bee · Fri., Nov. 6, 2026", "Spelling Bee hints", "Hint grid and two-letter list first, the word list at the end."],
+  ["wordle-hint-answer-today-november-7-2026-1967", "wordle", "#121213", "#c9b458", "Wordle #1967 · Sat., Nov. 7, 2026", "Wordle hints today", "Six clues from gentle to strong, the answer only at the end."],
+  ["nyt-connections-hints-answers-november-7-2026-1245", "connections", "#1e1a3a", "#f9df6d", "Connections #1245 · Sat., Nov. 7, 2026", "Connections hints", "Gentle hints for every group first, answers only at the end."],
+  ["nyt-strands-hints-answers-november-7-2026-979", "strands", "#0f2f3a", "#aedfee", "Strands #979 · Sat., Nov. 7, 2026", "Strands hints today", "Spangram and theme-word hints first, answers at the end."],
+  ["nyt-pips-hints-answers-november-7-2026", "pips", "#1e293b", "#93c5fd", "Pips · Sat., Nov. 7, 2026", "Pips hints today", "Hints for Easy, Medium and Hard, placements at the end."],
+  ["nyt-spelling-bee-hints-answers-november-7-2026", "bee", "#1c1917", "#f7da21", "Spelling Bee · Sat., Nov. 7, 2026", "Spelling Bee hints", "Hint grid and two-letter list first, the word list at the end."],
 ];
 
 export async function buildHeroes5(only?: string): Promise<void> {
