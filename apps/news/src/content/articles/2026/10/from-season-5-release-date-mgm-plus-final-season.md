@@ -1,9 +1,10 @@
 ---
 title: "From Season 5 Release Date: MGM+ Has Not Announced It for the Final Season"
 seoTitle: "From Season 5 Release Date: Not Yet Announced"
-description: "Metro-Goldwyn-Mayer (MGM) streaming service MGM+ has not announced a From Season 5 release date as of Oct. 25, 2026. Deadline reported it is the final season."
+description: "Metro-Goldwyn-Mayer (MGM) streaming service MGM+ has not announced a From Season 5 release date as of Oct. 26, 2026. Deadline reported it is the final season."
 type: explainer
 publishedAt: "2026-10-25T13:16:00-04:00"
+updatedAt: "2026-10-26T06:02:00-04:00"
 authors: [jordan-bennett]
 category: planning
 keywords: ["From season 5 release date", "From season 5", "From final season", "From MGM+ season 5"]
@@ -45,19 +46,21 @@ hero:
     author: "Dietmar Rabich"
     authorUrl: "https://www.wikidata.org/wiki/Q34788025"
 summary:
-  - "MGM+ (MGM Plus) has not announced a premiere date, episode count or schedule for From Season 5 as of Oct. 25, 2026."
+  - "MGM+ (MGM Plus) has not announced a premiere date, episode count or schedule for From Season 5 as of Oct. 26, 2026."
+  - "What's on Netflix reported that Seasons 1 to 3 of From began streaming on Netflix in the U.S. on Oct. 19, 2026, and that Season 5 is set for MGM+ in 2027."
   - "Deadline reported in April 2026 that MGM+ renewed From for a fifth and final season; Variety also reported the show is ending with Season 5."
   - "Season 4 premiered April 19, 2026, with 10 episodes, and its finale aired June 21, 2026, according to episode listings."
-  - "Reports said filming on Season 5 began in July 2026 in Nova Scotia."
 faq:
   - q: "When is the From Season 5 release date?"
-    a: "It has not been announced. MGM+ had not posted a Season 5 premiere date as of Oct. 25, 2026. We will update this page when it does."
+    a: "It has not been announced. MGM+ had not posted a Season 5 premiere date as of Oct. 26, 2026. What's on Netflix reported that Season 5 is set for MGM+ in 2027, but the exact date is not yet announced."
   - q: "Is From Season 5 the final season?"
     a: "Yes, according to reports. Deadline reported in April 2026 that MGM+ renewed the show for a fifth and final season, and Variety also reported it is ending with Season 5."
   - q: "How many episodes will From Season 5 have?"
     a: "The episode count has not been announced. Season 4 had 10 episodes, according to episode listings, but that does not confirm the Season 5 count."
   - q: "Where can I watch From?"
-    a: "From streams on MGM+ (MGM Plus), the streaming service and app. Earlier seasons stream there too."
+    a: "New episodes are on MGM+ (MGM Plus), the streaming service and app, and earlier seasons stream there too. What's on Netflix reported that Seasons 1 to 3 began streaming on Netflix in the U.S. on Monday, Oct. 19, 2026. Season 5 is set for MGM+, per the same report."
+  - q: "Is From on Netflix?"
+    a: "Partly, as reported. What's on Netflix reported on Oct. 13, 2026 that Seasons 1 to 3 began streaming on Netflix in the U.S. on Monday, Oct. 19, 2026. Season 5 is set for MGM+ in 2027, per the same report."
 sources:
   - title: "From renewed for final Season 5 at MGM+"
     url: "https://deadline.com/2026/04/from-renewed-final-season-5-canceled-mgm-plus-1236861520/"
@@ -65,6 +68,10 @@ sources:
   - title: "From ending with Season 5 at MGM+"
     url: "https://variety.com/2026/tv/news/from-ending-season-5-mgm-plus-1236722443/"
     publisher: "Variety"
+  - title: "From Seasons 1-4 Netflix release date"
+    url: "https://www.whats-on-netflix.com/news/from-seasons-1-4-netflix-release-date/"
+    publisher: "What's on Netflix"
+    date: "2026-10-13"
 internalLinks:
   - href: "/printable-yearly-calendar.html"
     label: "printable yearly calendar"
@@ -83,9 +90,9 @@ downloads:
 draft: false
 ---
 
-<p class="callout"><b>Not yet announced:</b> MGM+ has not posted a Season 5 premiere date as of Oct. 25, 2026. We will update this page when it does.</p>
+<p class="callout"><b>Updated Oct. 26, 2026.</b> MGM+ has still not posted a Season 5 premiere date. We added a What's on Netflix report (Oct. 13, 2026) that Seasons 1 to 3 began streaming on Netflix in the U.S. on Oct. 19 and that Season 5 is set for MGM+ in 2027. The exact date is not yet announced.</p>
 
-MGM+ (MGM Plus) has not announced a From Season 5 release date as of Oct. 25, 2026. Deadline reported in April 2026 that the network renewed the series for a fifth and final season, and Variety also reported that the show is ending with Season 5.
+MGM+ (MGM Plus) has not announced a From Season 5 release date as of Oct. 26, 2026. Deadline reported in April 2026 that the network renewed the series for a fifth and final season, and Variety also reported that the show is ending with Season 5. What's on Netflix reported on Oct. 13, 2026 that Season 5 is set for MGM+ "in 2027."
 
 Our check of MGM+ pages was blocked, so the status below rests on those trade reports and on episode listings. Nothing here predicts a premiere date.
 
@@ -95,7 +102,8 @@ Our check of MGM+ pages was blocked, so the status below rests on those trade re
 |---|---|---|
 | Is there a Season 5? | Yes, renewed April 2026 | Deadline |
 | Is it the final season? | Yes, reported as the last | Deadline, Variety |
-| Premiere date | Not yet announced | MGM+ had posted none as of Oct. 25, 2026 |
+| Premiere year | Reported as 2027 | What's on Netflix, Oct. 13, 2026 |
+| Premiere date | Not yet announced | MGM+ had posted none as of Oct. 26, 2026 |
 | Episode count | Not yet announced | None |
 | Weekly schedule | Not yet announced | None |
 | Filming | Reports said it began in July 2026 in Nova Scotia | Reports; no dates given |
@@ -113,7 +121,7 @@ Season 4 arrived in spring. That is a fact about last season, and it does not te
 
 ## Where can you watch From?
 
-From streams on MGM+, the streaming service and app. Earlier seasons stream on MGM+ as well. We have no confirmed release time of day for any future episode.
+New episodes of From are on MGM+, the streaming service and app, and earlier seasons stream there as well. What's on Netflix reported that Seasons 1 to 3 began streaming on Netflix in the U.S. on Monday, Oct. 19, 2026, and that Season 5 is set for MGM+ "in 2027." That is a report, and the exact Season 5 date is not yet announced. We have no confirmed release time of day for any future episode.
 
 ## How can you track Season 5 when dates arrive?
 
