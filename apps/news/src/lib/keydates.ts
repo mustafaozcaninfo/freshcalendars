@@ -38,6 +38,8 @@ export const KEY_DATES: KeyDate[] = [
   { date: "2026-11-01", label: "All Saints Day, a U.S. holy day of obligation", slug: "all-saints-day-2026-holy-day-of-obligation-all-souls-day" },
   { date: "2026-10-26", label: "Ballon d'Or ceremony, London: 20:00 GMT (4 p.m. ET)", slug: "ballon-dor-2026-date-time-by-time-zone-nominees-london" },
   { date: "2026-10-27", label: "National Black Cat Day", slug: "national-black-cat-day-2026-october-27" },
+  { date: "2026-12-21", label: "Winter Fuel Payment: opting out for 2027 to 2028 possible from this date", slug: "winter-fuel-payment-2026-dates-amounts-35000-threshold" },
+  { date: "2027-03-31", label: "Winter Fuel Payment: deadline to claim for winter 2026 to 2027", slug: "winter-fuel-payment-2026-dates-amounts-35000-threshold" },
   { date: "2026-10-28", label: "UK Budget 2026 and OBR forecast", slug: "uk-budget-2026-date-wednesday-28-october-what-time" },
   { date: "2026-12-29", label: "Rose Parade Bandfest opens in Pasadena", slug: "rose-parade-2027-date-start-time-by-time-zone-route-floatfest" },
   { date: "2027-01-01", label: "138th Rose Parade: 8 a.m. PT (11 a.m. ET)", slug: "rose-parade-2027-date-start-time-by-time-zone-route-floatfest" },
