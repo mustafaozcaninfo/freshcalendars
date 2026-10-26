@@ -209,6 +209,12 @@ export const PUZZLE_HEROES: [string, string, string, string, string, string, str
   ["nyt-strands-answers-october-2026-all-spangrams", "strands", "#123a2f", "#f8cd05", "Strands · October 2026", "Every October spangram", "All 31 puzzles, #942 to #972, with themes and constructors."],
   ["nyt-spelling-bee-answers-october-2026-all-pangrams", "bee", "#2b2111", "#f7da21", "Spelling Bee · October 2026", "Every October pangram", "All 31 days with word counts, points and the Genius score."],
   ["nyt-letter-boxed-answers-october-2026", "letterboxed", "#2a1512", "#fdba74", "Letter Boxed · October 2026", "Every October solution", "The Times' two-word answer for all 31 days, each one checked."],
+  ["wordle-hint-answer-today-november-5-2026-1965", "wordle", "#121213", "#c9b458", "Wordle #1965 · Thu., Nov. 5, 2026", "Wordle hints today", "Six clues from gentle to strong, the answer only at the end."],
+  ["nyt-connections-hints-answers-november-5-2026-1243", "connections", "#1e1a3a", "#f9df6d", "Connections #1243 · Thu., Nov. 5, 2026", "Connections hints", "Gentle hints for every group first, answers only at the end."],
+  ["nyt-strands-hints-answers-november-5-2026-977", "strands", "#0f2f3a", "#aedfee", "Strands #977 · Thu., Nov. 5, 2026", "Strands hints today", "Spangram and theme-word hints first, answers at the end."],
+  ["nyt-pips-hints-answers-november-5-2026", "pips", "#1e293b", "#c4b5fd", "Pips · Thu., Nov. 5, 2026", "Pips hints today", "Hints for Easy, Medium and Hard, placements at the end."],
+  ["nyt-spelling-bee-hints-answers-november-5-2026", "bee", "#1c1917", "#f7da21", "Spelling Bee · Thu., Nov. 5, 2026", "Spelling Bee hints", "Hint grid and two-letter list first, the word list at the end."],
+  ["contexto-answer-hints-november-4-2026-1508", "contexto", "#0f172a", "#fb7185", "Contexto #1508 · Wed., Nov. 4, 2026", "Contexto hints", "Close words and hints first, the secret word only at the end."],
 ];
 
 export async function buildHeroes5(only?: string): Promise<void> {
