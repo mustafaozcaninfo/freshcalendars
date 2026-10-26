@@ -2,7 +2,6 @@
 import { getEntry, render } from "astro:content";
 import NewsBase from "../../layouts/NewsBase.astro";
 import AdSlot from "../../components/AdSlot.astro";
-import { LONG_STORY_H2 } from "../../lib/ad-units.mjs";
 import ArticleMeta from "../../components/ArticleMeta.astro";
 import AuthorCard from "../../components/AuthorCard.astro";
 import Breadcrumb from "../../components/Breadcrumb.astro";
@@ -47,9 +46,9 @@ export async function getStaticPaths() {
 interface Props { article: Article; all: Article[] }
 const { article, all } = Astro.props;
 const d = article.data;
-const { Content, headings } = await render(article);
-// Long stories carry Fresh_News_5 inside the body (rehypeMidArticleAd), not at the end.
-const longStory = headings.filter((h) => h.depth === 2).length >= LONG_STORY_H2;
+const { Content, headings, remarkPluginFrontmatter } = await render(article);
+// Stories with room for two in-article units carry Fresh_News_5 in the body (rehypeMidArticleAd), not at the end.
+const endAd = (remarkPluginFrontmatter?.adsInBody ?? 0) < 2;
 
 const category = (await getEntry(d.category))!;
 const authors = await Promise.all(d.authors.map(async (ref) => (await getEntry(ref))!));
@@ -181,7 +180,7 @@ const keyDates = upcomingFor(new Set([article.id]));
     )}
     <RelatedGrid items={related} />
     <StoryNav section={{ name: category.data.name, href: categoryPath(category.id) }} more={more} newer={newer} older={older} />
-    {!longStory && <AdSlot unit={5} />}
+    {endAd && <AdSlot unit={5} />}
   </article>
   <ArticleAside headings={headings} downloads={d.downloads.length} url={absNewsUrl(articlePath(article.id))} title={d.title} image={shareImage} />
   <ShareIcons />
