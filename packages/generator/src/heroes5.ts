@@ -192,6 +192,11 @@ export const PUZZLE_HEROES: [string, string, string, string, string, string, str
   ["nyt-strands-hints-answers-november-2-2026-974", "strands", "#0f2f3a", "#aedfee", "Strands #974 · Mon., Nov. 2, 2026", "Strands hints today", "Spangram and theme-word hints first, answers at the end."],
   ["nyt-pips-hints-answers-november-2-2026", "pips", "#1e293b", "#f9a8d4", "Pips · Mon., Nov. 2, 2026", "Pips hints today", "Hints for Easy, Medium and Hard, placements at the end."],
   ["nyt-spelling-bee-hints-answers-november-2-2026", "bee", "#1c1917", "#f7da21", "Spelling Bee · Mon., Nov. 2, 2026", "Spelling Bee hints", "Hint grid and two-letter list first, the word list at the end."],
+  ["wordle-hint-answer-today-november-3-2026-1963", "wordle", "#121213", "#c9b458", "Wordle #1963 · Tue., Nov. 3, 2026", "Wordle hints today", "Six clues from gentle to strong, the answer only at the end."],
+  ["nyt-connections-hints-answers-november-3-2026-1241", "connections", "#1e1a3a", "#f9df6d", "Connections #1241 · Tue., Nov. 3, 2026", "Connections hints", "Gentle hints for every group first, answers only at the end."],
+  ["nyt-strands-hints-answers-november-3-2026-975", "strands", "#0f2f3a", "#aedfee", "Strands #975 · Tue., Nov. 3, 2026", "Strands hints today", "Spangram and theme-word hints first, answers at the end."],
+  ["nyt-pips-hints-answers-november-3-2026", "pips", "#1e293b", "#fde68a", "Pips · Tue., Nov. 3, 2026", "Pips hints today", "Hints for Easy, Medium and Hard, placements at the end."],
+  ["nyt-spelling-bee-hints-answers-november-3-2026", "bee", "#1c1917", "#f7da21", "Spelling Bee · Tue., Nov. 3, 2026", "Spelling Bee hints", "Hint grid and two-letter list first, the word list at the end."],
 ];
 
 export async function buildHeroes5(only?: string): Promise<void> {
