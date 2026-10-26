@@ -568,15 +568,15 @@ const keyDates = upcomingFor(new Set([article.id]));
   /* Daily puzzle pages (src/lib/puzzle-boards.mjs): shortcut bar, tap-to-reveal hints, solved boards. */
   .prose-news :global(.pz-nav ul){display:flex;flex-wrap:wrap;gap:.5rem;margin:0 0 1.25rem;padding:0;list-style:none}
   .prose-news :global(.pz-nav li){margin:0}
-  .prose-news :global(.pz-nav a){display:inline-flex;align-items:center;min-height:44px;padding:0 1rem;border:1px solid var(--n-border);border-radius:999px;background:#fff;color:var(--focus);font-weight:700;font-size:.95rem;text-decoration:none;box-shadow:var(--n-shadow)}
-  .prose-news :global(.pz-nav a.pz-go){background:var(--focus);border-color:var(--focus);color:#fff}
+  .prose-news :global(.pz-nav a){display:inline-flex;align-items:center;min-height:44px;padding:0 1rem;border:1px solid var(--n-border);border-radius:999px;background:var(--paper);color:var(--focus);font-weight:700;font-size:.95rem;text-decoration:none;box-shadow:var(--n-shadow)}
+  .prose-news :global(.pz-nav a.pz-go){background:var(--focus);border-color:var(--focus);color:var(--paper)}
   .prose-news :global(.pz-nav a:hover){box-shadow:var(--n-shadow-h)}
   .prose-news :global(details.pz-hint summary){display:flex;flex-wrap:wrap;align-items:center;gap:.25rem .6rem;min-height:44px;cursor:pointer;font-weight:700;color:var(--ink-strong);list-style:none}
   .prose-news :global(details.pz-hint summary::-webkit-details-marker){display:none}
-  .prose-news :global(details.pz-hint summary::after){content:"Show hint";padding:.1rem .6rem;border:1px solid var(--focus);border-radius:999px;font-size:.8rem;font-weight:700;color:var(--focus);background:#fff}
+  .prose-news :global(details.pz-hint summary::after){content:"Show hint";padding:.1rem .6rem;border:1px solid var(--focus);border-radius:999px;font-size:.8rem;font-weight:700;color:var(--focus);background:var(--paper)}
   .prose-news :global(details.pz-hint[open] summary::after){content:"Hide";color:var(--ink);border-color:var(--n-border)}
-  .prose-news :global(details.pz-hint > span){display:block;margin:.1rem 0 .4rem;padding:.5rem .8rem;border-left:4px solid var(--gold);background:#fffdf3;border-radius:0 8px 8px 0}
-  .prose-news :global(.pz-board){margin:0 0 1.5rem;padding:1rem;border:1px solid var(--n-border);border-radius:var(--n-radius);background:#fff;box-shadow:var(--n-shadow)}
+  .prose-news :global(details.pz-hint > span){display:block;margin:.1rem 0 .4rem;padding:.5rem .8rem;border-left:4px solid var(--gold);background:var(--surface-warm);border-radius:0 8px 8px 0}
+  .prose-news :global(.pz-board){margin:0 0 1.5rem;padding:1rem;border:1px solid var(--n-border);border-radius:var(--n-radius);background:var(--paper);box-shadow:var(--n-shadow)}
   .prose-news :global(.pz-board figcaption){margin:.75rem 0 0;font-size:.9rem;line-height:1.45;color:var(--ink)}
   .prose-news :global(.pz-tiles){display:flex;justify-content:center;gap:.4rem;margin:0;padding:0;list-style:none}
   .prose-news :global(.pz-tiles li){display:grid;place-items:center;width:clamp(2.6rem,14vw,3.6rem);aspect-ratio:1;margin:0;border-radius:4px;background:#3f7a3a;color:#fff;font:800 clamp(1.5rem,7vw,2rem)/1 Sora,"Sora Fallback",sans-serif}
