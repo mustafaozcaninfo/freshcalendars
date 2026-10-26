@@ -92,7 +92,7 @@ The Easy and Hard boards have only one arrangement of values. On the Medium boar
 - 6-0: R4C1 = 6, R3C1 = 0
 - 5-5: R2C3 = 5, R2C4 = 5
 - 0-4: R3C2 = 0, R2C2 = 4
-- 1-4: R3C3 = 4, R4C3 = 1
+- 1-4: R3C3 = 1, R4C3 = 4
 - 5-3: R1C3 = 5, R1C2 = 3
 - 2-1: R2C1 = 2, R1C1 = 1
 
