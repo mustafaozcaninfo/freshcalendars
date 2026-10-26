@@ -102,6 +102,8 @@ downloads:
 draft: false
 ---
 
+<iframe class="video-embed" src="https://www.youtube-nocookie.com/embed/HGWyEj23Qdk?autoplay=1&mute=1&playsinline=1&rel=0" title="Ballon d'Or 2026 ceremony" style="width:100%;aspect-ratio:16/9;height:auto;border:0;border-radius:10px;margin:0 0 1.25rem;display:block" loading="eager" allow="autoplay; encrypted-media; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 **The 2026 Ballon d'Or ceremony is Monday, Oct. 26, at the London Palladium Theatre, starting at 20:00 Greenwich Mean Time (GMT), which is 4 p.m. Eastern Time (ET), according to the Union of European Football Associations (UEFA).** Dazn streams it live and free in 200 markets. UEFA calls it the first Ballon d'Or ceremony staged in London. Below: where to watch, the start time in 13 cities, both full nominee lists, the award categories, and a free one-page ballot for your own picks.
 
 ## Where can you watch the Ballon d'Or 2026 live stream?
