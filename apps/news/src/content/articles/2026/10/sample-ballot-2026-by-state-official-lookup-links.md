@@ -1,9 +1,10 @@
 ---
 title: "Sample Ballot 2026: How to View Your Sample Ballot With Official Lookup Links by State"
 seoTitle: "Sample Ballot 2026: Official Lookup Links by State"
-description: "View your sample ballot for Nov. 3, 2026: official lookup pages for 31 states and D.C., plus the National Association of Secretaries of State (NASS) tool."
+description: "View your sample ballot for Nov. 3, 2026: official lookup pages for 33 states and D.C., plus the National Association of Secretaries of State (NASS) tool."
 type: explainer
 publishedAt: "2026-10-25T13:09:00-04:00"
+updatedAt: "2026-10-26T06:10:00-04:00"
 authors: [alex-morgan]
 category: elections
 keywords: ["sample ballot 2026", "view my sample ballot", "sample ballot by zip code", "printable sample ballot"]
@@ -21,7 +22,7 @@ hero:
     authorUrl: "https://commons.wikimedia.org/wiki/User:LauraHale"
 summary:
   - "Election Day is Tuesday, Nov. 3, 2026; the National Association of Secretaries of State (NASS) Can I Vote tool links to each state's election website."
-  - "We checked each state's lookup page on Oct. 25, 2026: 31 states and Washington, D.C. loaded, and 19 states blocked our automated check or moved their page."
+  - "We rechecked each state's lookup page on Oct. 26, 2026: 33 states and Washington, D.C. loaded, and 17 states blocked our automated check or moved their page."
   - "Sample ballots are not a ZIP code lookup in most states, because the ballot depends on your exact address and precinct."
   - "A free one-page Election Day 2026 Ballot Prep Checklist covers finding your ballot, marking your choices and what to check before you go."
 faq:
@@ -92,9 +93,9 @@ downloads:
 draft: false
 ---
 
-<p class="callout"><b>Editor's note.</b> We checked each state's lookup page on Oct. 25, 2026. Some state sites block automated checks, so for those we point to the official National Association of Secretaries of State (NASS) tool; we will update this page as states post November ballots.</p>
+<p class="callout"><b>Updated Oct. 26, 2026.</b> We rechecked every state's lookup page and added the official sample ballot pages for Minnesota and South Carolina. Some state sites block automated checks, so for those we point to the official National Association of Secretaries of State (NASS) tool; we will update this page as states post November ballots.</p>
 
-**To view your sample ballot for Election Day, Tuesday, Nov. 3, 2026, start with your state's official voter lookup page or the National Association of Secretaries of State (NASS) "Can I Vote" tool.** NASS says the tool "links directly to state election websites and trusted resources" and "does not capture any information." Below: the lookup page for 31 states and Washington, D.C. that loaded when we checked, what to do in the 19 states that did not, and a free printable checklist.
+**To view your sample ballot for Election Day, Tuesday, Nov. 3, 2026, start with your state's official voter lookup page or the National Association of Secretaries of State (NASS) "Can I Vote" tool.** NASS says the tool "links directly to state election websites and trusted resources" and "does not capture any information." Below: the lookup page for 33 states and Washington, D.C. that loaded when we checked, what to do in the 17 states that did not, and a free printable checklist.
 
 ## Can I find a sample ballot by ZIP code?
 
@@ -127,6 +128,7 @@ These are voter information lookup pages. Many show your sample ballot once it i
 | Louisiana | [Louisiana voter portal](https://voterportal.sos.la.gov/) |
 | Maryland | [Maryland voter search](https://voterservices.elections.maryland.gov/VoterSearch) |
 | Massachusetts | [Massachusetts voter registration status](https://www.sec.state.ma.us/VoterRegistrationSearch/MyVoterRegStatus.aspx) |
+| Minnesota | [Minnesota What's On My Ballot?](https://www.sos.mn.gov/elections-voting/whats-on-my-ballot/) |
 | Mississippi | [Mississippi am I registered](https://www.msegov.com/sos/voter_registration/AmIRegistered) |
 | Montana | [Montana voter portal](https://prodvoterportal.mt.gov/) |
 | Nebraska | [Nebraska VoterCheck](https://www.votercheck.necvr.ne.gov/voterview) |
@@ -135,6 +137,7 @@ These are voter information lookup pages. Many show your sample ballot once it i
 | North Carolina | [North Carolina voter search](https://vt.ncsbe.gov/RegLkup/) |
 | North Dakota | [North Dakota voter information portal](https://vip.sos.nd.gov/) |
 | Oregon | [Oregon My Vote](https://sos.oregon.gov/voting/Pages/myvote.aspx) |
+| South Carolina | [South Carolina Get My Sample Ballot](https://vrems.scvotes.sc.gov/Voter/Login?PageMode=Sampleballot) |
 | South Dakota | [South Dakota voter information portal](https://vip.sdsos.gov/VIPLogin.aspx) |
 | Tennessee | [Tennessee voter lookup](https://tnmap.tn.gov/voterlookup/) |
 | Utah | [Utah vote search](https://votesearch.utah.gov/) |
@@ -147,7 +150,7 @@ These are voter information lookup pages. Many show your sample ballot once it i
 
 ## What if my state is not in the table?
 
-For these states, the lookup page blocked our automated check or has moved: Alaska, Arizona, Georgia, Iowa, Kentucky, Maine, Michigan, Minnesota, Missouri, New Hampshire, New Mexico, New York, Ohio, Oklahoma, Pennsylvania, Rhode Island, South Carolina, Texas and Wisconsin. Use the [NASS Can I Vote tool](https://www.nass.org/can-i-vote) to reach your state's election website, then your state election office.
+For these states, the lookup page blocked our automated check or has moved: Alaska, Arizona, Georgia, Iowa, Kentucky, Maine, Michigan, Missouri, New Hampshire, New Mexico, New York, Ohio, Oklahoma, Pennsylvania, Rhode Island, Texas and Wisconsin. Use the [NASS Can I Vote tool](https://www.nass.org/can-i-vote) to reach your state's election website, then your state election office.
 
 Texas has its own story: see [sample ballot by ZIP code in Texas](/news/sample-ballot-by-zip-code-2026-texas-ballot/). We do not list a link we could not confirm.
 

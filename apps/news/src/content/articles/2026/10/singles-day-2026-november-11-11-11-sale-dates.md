@@ -1,9 +1,10 @@
 ---
 title: "Singles Day 2026 Is Wednesday, Nov. 11: 11.11 Sale Dates and U.S. Time Zones"
 seoTitle: "Singles Day 2026: Nov. 11 Date and 11.11 Sale Times"
-description: "Singles Day 2026 is Wednesday, Nov. 11. Midnight in China is 11 a.m. Eastern Time (ET) on Nov. 10, and Alibaba had not posted its own 2026 schedule in English."
+description: "Singles Day 2026 is Wednesday, Nov. 11. Alibaba's Alizila set the 11.11 sale start for Oct. 20 in China; midnight Nov. 11 there is 11 a.m. Eastern Time (ET)."
 type: explainer
 publishedAt: "2026-10-25T13:15:00-04:00"
+updatedAt: "2026-10-26T06:02:00-04:00"
 authors: [jordan-bennett]
 category: retail-dates
 keywords: ["Singles Day 2026", "11.11 sale 2026", "Double 11 2026 date", "AliExpress 11.11 2026"]
@@ -42,18 +43,24 @@ hero:
 summary:
   - "Singles Day 2026 is Wednesday, Nov. 11, the same day as Veterans Day, a U.S. federal holiday."
   - "Midnight on Nov. 11 in China is 11 a.m. Eastern Standard Time (EST) on Tuesday, Nov. 10."
-  - "Alibaba had not posted its own 2026 11.11 schedule in English when we checked on Oct. 25, 2026."
-  - "Reported Tmall and Taobao presales began Oct. 15, with a first sales window on Oct. 20 at 8 p.m. China time."
+  - "Alizila, Alibaba's official news site, said on Oct. 15, 2026 that the 11.11 sale begins at 8 p.m. on Oct. 20 in China, with pre-sales opening Oct. 15."
+  - "AliExpress and JD.com have not officially published their 2026 11.11 dates as of Oct. 26, 2026."
 faq:
   - q: "What is the date of Singles Day 2026?"
     a: "Wednesday, Nov. 11, 2026. The name 11.11 comes from the date, and Double 11 is another name for the event."
   - q: "What time does the 11.11 sale start for U.S. shoppers?"
     a: "Midnight on Nov. 11 in China is 11 a.m. Eastern Standard Time on Tuesday, Nov. 10, and 8 a.m. Pacific Time. Check each store for its own start time."
   - q: "What are the AliExpress 11.11 2026 dates?"
-    a: "No official 2026 dates for U.S. shoppers had been confirmed in English when we checked on Oct. 25, 2026. They are not yet announced."
+    a: "No official 2026 dates for U.S. shoppers had been confirmed when we checked on Oct. 26, 2026. They are not yet announced."
+  - q: "When does the 2026 11.11 sale start, according to Alibaba?"
+    a: "Alizila, Alibaba's official news site, said on Oct. 15, 2026: \"The 11.11 sale will begin at 8 p.m. on October 20 in China, with pre-sales opening on October 15.\""
   - q: "Is Singles Day the same day as Black Friday?"
     a: "No. Singles Day is Wednesday, Nov. 11. Black Friday 2026 is Friday, Nov. 27."
 sources:
+  - title: "Tmall Supports Brand Growth as 11.11 Draws Record Participation"
+    url: "https://www.alizila.com/2026-11-11-kick-off/"
+    publisher: "Alizila (Alibaba Group)"
+    date: "2026-10-15"
   - title: "Taobao and Tmall's 11.11 Shopping Festival Delivers Solid Growth for Brands"
     url: "https://www.alibabagroup.com/en-US/document-1926184987447525376"
     publisher: "Alibaba Group"
@@ -84,9 +91,9 @@ downloads:
 draft: false
 ---
 
-<p class="callout"><b>Alibaba had not posted its own 2026 11.11 schedule in English when we checked on Oct. 25, 2026.</b> Dates below marked "reported" come from news coverage, and we will update with official dates.</p>
+<p class="callout"><b>Updated Oct. 26, 2026.</b> Alizila, Alibaba's official news site, now confirms the Oct. 15 pre-sale opening and the Oct. 20 sale start, so both are listed as official below. AliExpress and JD.com have not officially published their 2026 dates.</p>
 
-**Singles Day 2026 falls on Wednesday, Nov. 11, and Alibaba Group, the company behind the Tmall and Taobao shopping sites, had not posted its own 2026 schedule in English as of Oct. 25.** The event is also called 11.11 and Double 11, after the month and day. It lands on the same day as Veterans Day, a federal holiday in the U.S. according to the U.S. Office of Personnel Management (OPM); see our [Veterans Day 2026 story](/news/veterans-day-2026-wednesday-november-11/).
+**Singles Day 2026 falls on Wednesday, Nov. 11, and Alibaba Group's official news site Alizila said on Oct. 15, 2026 that the 11.11 sale begins at 8 p.m. on Oct. 20 in China.** The event is also called 11.11 and Double 11, after the month and day. It lands on the same day as Veterans Day, a federal holiday in the U.S. according to the U.S. Office of Personnel Management (OPM); see our [Veterans Day 2026 story](/news/veterans-day-2026-wednesday-november-11/).
 
 ## What time does 11.11 start in U.S. time zones?
 
@@ -99,19 +106,19 @@ China Standard Time is UTC+8. The U.S. is on standard time after Nov. 1, so midn
 | Mountain Time (MT) | 9 a.m. | Tue., Nov. 10 |
 | Pacific Time (PT) | 8 a.m. | Tue., Nov. 10 |
 
-## What is the reported 2026 schedule?
+## What is the official 2026 schedule?
 
-South China Morning Post coverage reported that Tmall and Taobao presales began Oct. 15 and that the first sales window opened Oct. 20 at 8 p.m. China time. We list both as reported, not confirmed by Alibaba. The Oct. 20 start converts to 8 a.m. Eastern Daylight Time (EDT) that same day, since the U.S. was still on daylight time.
+Alizila, Alibaba's official news site, said in "Tmall Supports Brand Growth as 11.11 Draws Record Participation" on Oct. 15, 2026: "The 11.11 sale will begin at 8 p.m. on October 20 in China, with pre-sales opening on October 15." The Oct. 20 start converts to 8 a.m. Eastern Daylight Time (EDT) that same day, since the U.S. was still on daylight time. We computed that conversion.
 
 | Date | Event | Status |
 |---|---|---|
-| Thu., Oct. 15 | Presales begin | Reported |
-| Tue., Oct. 20, 8 p.m. China time (8 a.m. EDT) | First sales window opens | Reported |
+| Thu., Oct. 15 | Pre-sales open | Official, per Alizila |
+| Tue., Oct. 20, 8 p.m. China time (8 a.m. EDT) | 11.11 sale begins | Official, per Alizila |
 | Wed., Nov. 11 | Singles Day, 11.11 | Date computed |
 
 ## What are the AliExpress 11.11 dates for U.S. shoppers?
 
-Official 2026 AliExpress dates for U.S. shoppers had not been confirmed in English when we checked on Oct. 25, 2026. They are not yet announced, so any date you see on a coupon site is unconfirmed until AliExpress posts it.
+Official 2026 AliExpress dates for U.S. shoppers had not been confirmed when we checked on Oct. 26, 2026. They are not yet announced, and JD.com has not officially published its 2026 dates either, so any date you see on a coupon site is unconfirmed until the company posts it.
 
 ## How big is Singles Day, and what did Alibaba say in 2025?
 
@@ -138,4 +145,4 @@ For the U.S. side of the month, see our [Black Friday and Cyber Monday sales tax
 
 Compare prices with what U.S. retailers list for Black Friday on Nov. 27 and Cyber Monday on Nov. 30. Check shipping times from overseas sellers before you order. Mark the dates on our [November 2026 printable calendar](/november-calendars.html), and look ahead to the [December 2026 printable calendar](/december-calendars.html).
 
-Print the November 2026 sale calendar below to keep the dates in one place. We will update this story when Alibaba or AliExpress posts official 2026 dates.
+Print the November 2026 sale calendar below to keep the dates in one place. We will update this story when AliExpress or JD.com posts official 2026 dates.
