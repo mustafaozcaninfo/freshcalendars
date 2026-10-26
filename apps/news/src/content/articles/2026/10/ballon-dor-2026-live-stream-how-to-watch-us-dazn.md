@@ -104,7 +104,7 @@ Some guides online list 3 p.m. ET. That is one hour early for this year: Europe 
 
 ## How to watch the Ballon d'Or 2026 in the U.S.
 
-UEFA's broadcaster list reads "Global: DAZN (excluding all other territories listed below)." The 20 territories it lists are in Europe and Central Asia. The United States is not among them, so Dazn is the official U.S. option.
+UEFA's broadcaster list gives Dazn the global rights, excluding the territories it lists by name. The 20 territories it lists are in Europe and Central Asia. The United States is not among them, so Dazn is the official U.S. option.
 
 1. Open the Dazn app on a phone, smart TV or streaming device, or go to dazn.com.
 2. Sign in, or create an account if the app asks for one.
@@ -135,7 +135,7 @@ Red carpet and press conference times are posted on the official Ballon d'Or sit
 
 ## Where to watch the Ballon d'Or 2026 around the world
 
-UEFA lists a local partner for each country below. Everywhere else, the official broadcaster is Dazn. In Hungary the partner is RTL Hungary, part of the group founded as Radio Télévision Luxembourg (RTL). Local start times are our conversion from 20:00 GMT.
+UEFA lists a local partner for each country below. Everywhere else, the official broadcaster is Dazn. In Hungary the partner is the Hungarian channel of the group founded as Radio Télévision Luxembourg (RTL). Local start times are our conversion from 20:00 GMT.
 
 | Country | Official broadcaster | Local start |
 |---|---|---|
