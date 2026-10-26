@@ -197,6 +197,9 @@ export const PUZZLE_HEROES: [string, string, string, string, string, string, str
   ["nyt-strands-hints-answers-november-3-2026-975", "strands", "#0f2f3a", "#aedfee", "Strands #975 · Tue., Nov. 3, 2026", "Strands hints today", "Spangram and theme-word hints first, answers at the end."],
   ["nyt-pips-hints-answers-november-3-2026", "pips", "#1e293b", "#fde68a", "Pips · Tue., Nov. 3, 2026", "Pips hints today", "Hints for Easy, Medium and Hard, placements at the end."],
   ["nyt-spelling-bee-hints-answers-november-3-2026", "bee", "#1c1917", "#f7da21", "Spelling Bee · Tue., Nov. 3, 2026", "Spelling Bee hints", "Hint grid and two-letter list first, the word list at the end."],
+  ["contexto-answer-hints-november-1-2026-1505", "contexto", "#0f172a", "#34d399", "Contexto #1505 · Sun., Nov. 1, 2026", "Contexto hints", "Close words and hints first, the secret word only at the end."],
+  ["contexto-answer-hints-november-2-2026-1506", "contexto", "#0f172a", "#f472b6", "Contexto #1506 · Mon., Nov. 2, 2026", "Contexto hints", "Close words and hints first, the secret word only at the end."],
+  ["contexto-answer-hints-november-3-2026-1507", "contexto", "#0f172a", "#facc15", "Contexto #1507 · Tue., Nov. 3, 2026", "Contexto hints", "Close words and hints first, the secret word only at the end."],
 ];
 
 export async function buildHeroes5(only?: string): Promise<void> {
