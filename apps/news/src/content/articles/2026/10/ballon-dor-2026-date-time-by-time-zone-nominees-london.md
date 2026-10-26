@@ -1,9 +1,10 @@
 ---
-title: "Ballon d'Or 2026: Ceremony Time by Time Zone on Monday, Oct. 26, and Both Nominee Lists"
-seoTitle: "Ballon d'Or 2026: Start Time by Time Zone, Nominees"
-description: "The 2026 Ballon d'Or ceremony is Monday, Oct. 26, at 4 p.m. Eastern Time (ET) in London, the Union of European Football Associations (UEFA) says."
+title: "Ballon d'Or 2026: Free Live Stream, Ceremony Time by Time Zone on Monday, Oct. 26, and Nominees"
+seoTitle: "Ballon d'Or 2026 Live Stream, Start Time, Nominees"
+description: "The 2026 Ballon d'Or is Monday, Oct. 26, at 4 p.m. Eastern Time (ET) in London. Dazn streams it live and free in 200 markets; no U.S. channel is named."
 type: news
 publishedAt: "2026-10-25T13:05:00-04:00"
+updatedAt: "2026-10-26T13:03:00-04:00"
 authors: [jordan-bennett]
 category: planning
 keywords: ["Ballon d'Or 2026", "Ballon d'Or 2026 time", "Ballon d'Or 2026 nominees", "what time is the Ballon d'Or"]
@@ -23,8 +24,10 @@ summary:
   - "The 2026 Ballon d'Or ceremony is Monday, Oct. 26, at the London Palladium Theatre, starting at 20:00 Greenwich Mean Time (GMT), which is 4 p.m. Eastern Time (ET), UEFA says."
   - "It is the first Ballon d'Or ceremony staged in London. UEFA lists 30 men's and 30 women's nominees, announced on Sept. 8, 2026."
   - "Europe changed its clocks on Oct. 25 and the United States does not until Nov. 1, so New York is 4 hours behind London this week."
-  - "UEFA names no U.S. broadcaster. Dazn says it will show the ceremony free in 200 markets and does not list the United States."
+  - "Dazn streams the ceremony live and free in 200 markets with a free Dazn account. It does not list the United States, and UEFA names no U.S. broadcaster."
 faq:
+  - q: "Is there a Ballon d'Or 2026 live stream?"
+    a: "Yes. Dazn streams the ceremony live and free to fans in 200 markets, starting at 20:00 GMT (4 p.m. ET). You need a free Dazn account. Dazn does not list which markets are included."
   - q: "What time is the Ballon d'Or in 2026?"
     a: "UEFA says the ceremony starts at 20:00 GMT, or 21:00 Central European Time (CET), on Monday, Oct. 26, 2026. That is 4 p.m. ET, 3 p.m. Central Daylight Time (CDT) and 1 p.m. Pacific Daylight Time (PDT), by our conversion."
   - q: "Where is the 2026 Ballon d'Or ceremony?"
@@ -34,7 +37,7 @@ faq:
   - q: "Who won the Ballon d'Or 2026?"
     a: "The winners are not known yet. They are announced at the ceremony on Monday, Oct. 26."
   - q: "What channel is the Ballon d'Or on in the U.S.?"
-    a: "UEFA does not name a U.S. broadcaster. It says partners in Europe and across the globe are broadcasting the ceremony. Dazn lists 200 markets for a free stream but does not name the United States, so check Dazn in your country."
+    a: "UEFA does not name a U.S. broadcaster. It says partners in Europe and across the globe are broadcasting the ceremony. Dazn lists 200 markets for a free stream but does not name the United States, so check Dazn in your country. No U.S. channel has confirmed the ceremony on its own site."
 sources:
   - title: "2026 Ballon d'Or ceremony: When and where, all the nominees and how the awards are decided"
     url: "https://www.uefa.com/ballondor/news/02aa-21dcfc743210-2786daba77d8-1000--2026-ballon-d-or-ceremony-when-and-where-all-the-nominees-/"
@@ -99,7 +102,19 @@ downloads:
 draft: false
 ---
 
-**The 2026 Ballon d'Or ceremony is Monday, Oct. 26, at the London Palladium Theatre, starting at 20:00 Greenwich Mean Time (GMT), which is 4 p.m. Eastern Time (ET), according to the Union of European Football Associations (UEFA).** UEFA calls it the first Ballon d'Or ceremony staged in London. Below: the start time in 13 cities, both full nominee lists, the award categories, and a free one-page ballot for your own picks.
+**The 2026 Ballon d'Or ceremony is Monday, Oct. 26, at the London Palladium Theatre, starting at 20:00 Greenwich Mean Time (GMT), which is 4 p.m. Eastern Time (ET), according to the Union of European Football Associations (UEFA).** Dazn streams it live and free in 200 markets. UEFA calls it the first Ballon d'Or ceremony staged in London. Below: where to watch, the start time in 13 cities, both full nominee lists, the award categories, and a free one-page ballot for your own picks.
+
+## Where can you watch the Ballon d'Or 2026 live stream?
+
+Dazn streams the ceremony live from 20:00 GMT (4 p.m. ET). The stream is free: Dazn says it will make the ceremony "available free to fans in 200 markets globally." You sign up for a free Dazn account with an email address, or log in, on the Dazn app or website. Thierry Henry and Kate Scott host the evening, UEFA says.
+
+| Where you are | How to watch | Price |
+|---|---|---|
+| Most of the world (Dazn's 200 markets) | Dazn app or dazn.com, live | Free with a Dazn account |
+| United States | No broadcaster announced; check Dazn | Not announced |
+| Countries with their own TV partner | UEFA's list of local broadcast partners | Set by each partner |
+
+Dazn does not publish the list of its 200 markets in its release and does not name the United States. UEFA says partners in Europe and across the globe are broadcasting the ceremony and names no U.S. broadcaster. As of Monday afternoon, no U.S. network has confirmed the ceremony on its own site. Neither UEFA nor Dazn gives a red carpet time.
 
 ## What time is the Ballon d'Or in 2026?
 
@@ -163,10 +178,6 @@ UEFA announced the nominees on Sept. 8, 2026: 30 men and 30 women. The lists bel
 ## Which awards are presented?
 
 UEFA lists these categories: the men's and women's Ballon d'Or; the men's and women's young talent of the season; goalkeeper of the season; the men's and women's coach of the season; the men's and women's club of the season; goalscorer of the season; and the Sócrates Prize. The winners are not known yet, and this story does not predict them.
-
-## Where can you watch the Ballon d'Or in the U.S.?
-
-UEFA says partners in Europe and across the globe are broadcasting the ceremony, and it names no U.S. broadcaster. Dazn says it will make the ceremony available free to fans in 200 markets globally. Its release does not list the United States, so check Dazn in your country. Hosts are not confirmed in the sources we used.
 
 ## How does it compare with last year?
 
