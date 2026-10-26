@@ -207,6 +207,7 @@ export const PUZZLE_HEROES: [string, string, string, string, string, string, str
   ["nyt-spelling-bee-hints-answers-november-4-2026", "bee", "#1c1917", "#f7da21", "Spelling Bee · Wed., Nov. 4, 2026", "Spelling Bee hints", "Hint grid and two-letter list first, the word list at the end."],
   ["nyt-connections-answers-october-2026-all-groups", "connections", "#2a1f4a", "#ba81c5", "Connections · October 2026", "Every October group", "All 31 puzzles, #1208 to #1238, with the purple wordplay counted."],
   ["nyt-strands-answers-october-2026-all-spangrams", "strands", "#123a2f", "#f8cd05", "Strands · October 2026", "Every October spangram", "All 31 puzzles, #942 to #972, with themes and constructors."],
+  ["nyt-spelling-bee-answers-october-2026-all-pangrams", "bee", "#2b2111", "#f7da21", "Spelling Bee · October 2026", "Every October pangram", "All 31 days with word counts, points and the Genius score."],
 ];
 
 export async function buildHeroes5(only?: string): Promise<void> {
