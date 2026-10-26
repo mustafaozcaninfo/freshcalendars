@@ -1,7 +1,7 @@
 /**
  * Spoiler-free hero illustrations for the daily puzzle stories on /news/ (Puzzles category):
  * each game gets its own board motif with no answer letters, plus the puzzle number and date.
- * Drawn as HTML/SVG in Chromium, saved as 2400×1350 JPEGs. Usage: pnpm fc news-heroes5
+ * Drawn as HTML/SVG in Chromium, saved as 2400×1350 JPEGs. Usage: pnpm fc news-heroes5 [--only <slug-substring>]
  */
 import fs from "node:fs/promises";
 import path from "node:path";
@@ -107,10 +107,26 @@ const ART: Record<string, (r: Rng) => string> = {
     const tango = Array.from({ length: 6 }, (_, i) => { const x = 700 + i * 74 + 35, y = 545; return r() < 0.5 ? `<circle cx="${x}" cy="${y}" r="24" fill="#f59e0b"/>` : `<circle cx="${x}" cy="${y}" r="24" fill="#60a5fa"/><circle cx="${x + 11}" cy="${y - 7}" r="20" fill="#ffffff"/>`; }).join("");
     return board + crowns + `<rect x="696" y="505" width="448" height="80" rx="12" fill="#ffffff" opacity=".9"/>` + tango;
   },
+  /** Letter Boxed: the square with three letter dots per side and a few random lines across it; no letters. */
+  letterboxed: (r) => {
+    const x0 = 730, y0 = 140, s = 360, at = [0.2, 0.5, 0.8];
+    const dots = [0, 1, 2, 3].flatMap((side) => at.map((t) => side === 0 ? [x0 + s * t, y0] : side === 1 ? [x0 + s, y0 + s * t] : side === 2 ? [x0 + s * t, y0 + s] : [x0, y0 + s * t]));
+    let at0 = Math.floor(r() * 12);
+    const path = [dots[at0]!];
+    for (let i = 0; i < 4 + Math.floor(r() * 3); i++) { let n = at0; while (Math.floor(n / 3) === Math.floor(at0 / 3)) n = Math.floor(r() * 12); path.push(dots[n]!); at0 = n; }
+    return `<rect x="${x0}" y="${y0}" width="${s}" height="${s}" fill="#ffffff" stroke="#111827" stroke-width="10"/>`
+      + `<polyline points="${path.map(([x, y]) => `${x!.toFixed(0)},${y!.toFixed(0)}`).join(" ")}" fill="none" stroke="#fa8072" stroke-width="7" stroke-dasharray="${r() < 0.5 ? "0" : "14 10"}" stroke-linejoin="round"/>`
+      + dots.map(([x, y]) => `<circle cx="${x!.toFixed(0)}" cy="${y!.toFixed(0)}" r="17" fill="#ffffff" stroke="#111827" stroke-width="6"/>`).join("");
+  },
+  /** Waffle: the 5×5 waffle grid with its four holes; tile colors are random. */
+  waffle: (r) => grid(700, 95, 5, 5, 88, 10, (row, c) => (row % 2 && c % 2 ? "none" : pick(r, [G, G, G, Y, Y, "#e5e7eb"])), 12),
 };
 
-/** [slug, game art key, bg, accent, kicker, title, dek]: filled in per day. */
-export const PUZZLE_HEROES: [string, string, string, string, string, string, string][] = [
+/**
+ * [slug, game art key, bg, accent, kicker, title, dek, seed?]: filled in per day. The optional seed
+ * replaces the slug as the layout seed when two days of one game come out as the same picture.
+ */
+export const PUZZLE_HEROES: [string, string, string, string, string, string, string, string?][] = [
   ["wordle-hint-answer-today-october-25-2026-1954", "wordle", "#121213", "#c9b458", "Wordle #1954 · Sun., Oct. 25, 2026", "Wordle hints today", "Six clues from gentle to strong, the answer only at the end."],
   ["nyt-connections-hints-answers-october-25-2026-1232", "connections", "#1e1a3a", "#f9df6d", "Connections #1232 · Sun., Oct. 25, 2026", "Connections hints", "Gentle hints for every group first, answers only at the end."],
   ["nyt-strands-hints-answers-october-25-2026-966", "strands", "#0f2f3a", "#aedfee", "Strands #966 · Sun., Oct. 25, 2026", "Strands hints today", "Spangram and theme-word hints first, answers at the end."],
@@ -134,15 +150,107 @@ export const PUZZLE_HEROES: [string, string, string, string, string, string, str
   ["quordle-hints-answers-october-26-2026-1736", "quordle", "#172033", "#f59e0b", "Quordle #1736 · Mon., Oct. 26, 2026", "Quordle hints today", "A clue for each of the four words, answers at the end."],
   ["blossom-word-game-answers-october-26-2026", "blossom", "#2e1065", "#f9a8d4", "Blossom · Mon., Oct. 26, 2026", "Blossom answers", "Letters and hints first, the pangrams only at the end."],
   ["nyt-connections-answers-meanings-october-25-2026-1232", "connections", "#14213d", "#b0c4ef", "Connections #1232 · Sun., Oct. 25, 2026", "Connections meanings", "What every word means and why it fits, answers in spoilers."],
+  ["wordle-hint-answer-today-october-27-2026-1956", "wordle", "#121213", "#c9b458", "Wordle #1956 · Tue., Oct. 27, 2026", "Wordle hints today", "Six clues from gentle to strong, the answer only at the end."],
+  ["nyt-connections-hints-answers-october-27-2026-1234", "connections", "#1e1a3a", "#f9df6d", "Connections #1234 · Tue., Oct. 27, 2026", "Connections hints", "Gentle hints for every group first, answers only at the end."],
+  ["nyt-strands-hints-answers-october-27-2026-968", "strands", "#0f2f3a", "#aedfee", "Strands #968 · Tue., Oct. 27, 2026", "Strands hints today", "Spangram and theme-word hints first, answers at the end."],
+  ["nyt-pips-hints-answers-october-27-2026", "pips", "#1e293b", "#fde68a", "Pips · Tue., Oct. 27, 2026", "Pips hints today", "Hints for Easy, Medium and Hard, placements at the end."],
+  ["nyt-spelling-bee-hints-answers-october-27-2026", "bee", "#1c1917", "#f7da21", "Spelling Bee · Tue., Oct. 27, 2026", "Spelling Bee hints", "Hint grid and two-letter list first, the word list at the end."],
+  ["nyt-letter-boxed-answer-hints-october-27-2026", "letterboxed", "#3d1f1a", "#fa8072", "Letter Boxed · Tue., Oct. 27, 2026", "Letter Boxed hints", "Starting letters and word lengths first, the answer at the end."],
+  ["waffle-answer-hints-today-october-26-2026-1739", "waffle", "#1f2937", "#6aaa64", "Waffle #1739 · Mon., Oct. 26, 2026", "Waffle hints today", "A clue for each of the six words, the solved grid at the end."],
+  ["wordle-hint-answer-today-october-28-2026-1957", "wordle", "#121213", "#c9b458", "Wordle #1957 · Wed., Oct. 28, 2026", "Wordle hints today", "Six clues from gentle to strong, the answer only at the end."],
+  ["nyt-connections-hints-answers-october-28-2026-1235", "connections", "#1e1a3a", "#f9df6d", "Connections #1235 · Wed., Oct. 28, 2026", "Connections hints", "Gentle hints for every group first, answers only at the end."],
+  ["nyt-strands-hints-answers-october-28-2026-969", "strands", "#0f2f3a", "#aedfee", "Strands #969 · Wed., Oct. 28, 2026", "Strands hints today", "Spangram and theme-word hints first, answers at the end."],
+  ["nyt-pips-hints-answers-october-28-2026", "pips", "#1e293b", "#86efac", "Pips · Wed., Oct. 28, 2026", "Pips hints today", "Hints for Easy, Medium and Hard, placements at the end."],
+  ["nyt-spelling-bee-hints-answers-october-28-2026", "bee", "#1c1917", "#f7da21", "Spelling Bee · Wed., Oct. 28, 2026", "Spelling Bee hints", "Hint grid and two-letter list first, the word list at the end."],
+  ["nyt-letter-boxed-answer-hints-october-28-2026", "letterboxed", "#3d1f1a", "#fa8072", "Letter Boxed · Wed., Oct. 28, 2026", "Letter Boxed hints", "Starting letters and word lengths first, the answer at the end."],
+  ["wordle-hint-answer-today-october-29-2026-1958", "wordle", "#121213", "#c9b458", "Wordle #1958 · Thu., Oct. 29, 2026", "Wordle hints today", "Six clues from gentle to strong, the answer only at the end."],
+  ["nyt-connections-hints-answers-october-29-2026-1236", "connections", "#1e1a3a", "#f9df6d", "Connections #1236 · Thu., Oct. 29, 2026", "Connections hints", "Gentle hints for every group first, answers only at the end."],
+  ["nyt-strands-hints-answers-october-29-2026-970", "strands", "#0f2f3a", "#aedfee", "Strands #970 · Thu., Oct. 29, 2026", "Strands hints today", "Spangram and theme-word hints first, answers at the end."],
+  ["nyt-pips-hints-answers-october-29-2026", "pips", "#1e293b", "#c4b5fd", "Pips · Thu., Oct. 29, 2026", "Pips hints today", "Hints for Easy, Medium and Hard, placements at the end."],
+  ["nyt-spelling-bee-hints-answers-october-29-2026", "bee", "#1c1917", "#f7da21", "Spelling Bee · Thu., Oct. 29, 2026", "Spelling Bee hints", "Hint grid and two-letter list first, the word list at the end."],
+  ["nyt-letter-boxed-answer-hints-october-29-2026", "letterboxed", "#3d1f1a", "#fa8072", "Letter Boxed · Thu., Oct. 29, 2026", "Letter Boxed hints", "Starting letters and word lengths first, the answer at the end."],
+  ["contexto-answer-hints-october-27-2026-1500", "contexto", "#111827", "#22c55e", "Contexto #1500 · Tue., Oct. 27, 2026", "Contexto hints", "Close words and hints first, the secret word only at the end."],
+  ["wordle-hint-answer-today-october-30-2026-1959", "wordle", "#121213", "#c9b458", "Wordle #1959 · Fri., Oct. 30, 2026", "Wordle hints today", "Six clues from gentle to strong, the answer only at the end."],
+  ["nyt-connections-hints-answers-october-30-2026-1237", "connections", "#1e1a3a", "#f9df6d", "Connections #1237 · Fri., Oct. 30, 2026", "Connections hints", "Gentle hints for every group first, answers only at the end."],
+  ["nyt-strands-hints-answers-october-30-2026-971", "strands", "#0f2f3a", "#aedfee", "Strands #971 · Fri., Oct. 30, 2026", "Strands hints today", "Spangram and theme-word hints first, answers at the end."],
+  ["nyt-pips-hints-answers-october-30-2026", "pips", "#1e293b", "#fda4af", "Pips · Fri., Oct. 30, 2026", "Pips hints today", "Hints for Easy, Medium and Hard, placements at the end."],
+  ["nyt-spelling-bee-hints-answers-october-30-2026", "bee", "#1c1917", "#f7da21", "Spelling Bee · Fri., Oct. 30, 2026", "Spelling Bee hints", "Hint grid and two-letter list first, the word list at the end."],
+  ["nyt-letter-boxed-answer-hints-october-30-2026", "letterboxed", "#3d1f1a", "#fa8072", "Letter Boxed · Fri., Oct. 30, 2026", "Letter Boxed hints", "Starting letters and word lengths first, the answer at the end."],
+  ["wordle-hint-answer-today-october-31-2026-1960", "wordle", "#121213", "#c9b458", "Wordle #1960 · Sat., Oct. 31, 2026", "Wordle hints today", "Six clues from gentle to strong, the answer only at the end."],
+  ["nyt-connections-hints-answers-october-31-2026-1238", "connections", "#1e1a3a", "#f9df6d", "Connections #1238 · Sat., Oct. 31, 2026", "Connections hints", "Gentle hints for every group first, answers only at the end."],
+  ["nyt-strands-hints-answers-october-31-2026-972", "strands", "#0f2f3a", "#aedfee", "Strands #972 · Sat., Oct. 31, 2026", "Strands hints today", "Spangram and theme-word hints first, answers at the end."],
+  ["nyt-pips-hints-answers-october-31-2026", "pips", "#1e293b", "#fdba74", "Pips · Sat., Oct. 31, 2026", "Pips hints today", "Hints for Easy, Medium and Hard, placements at the end."],
+  ["nyt-spelling-bee-hints-answers-october-31-2026", "bee", "#1c1917", "#f7da21", "Spelling Bee · Sat., Oct. 31, 2026", "Spelling Bee hints", "Hint grid and two-letter list first, the word list at the end."],
+  ["nyt-letter-boxed-answer-hints-october-31-2026", "letterboxed", "#3d1f1a", "#fa8072", "Letter Boxed · Sat., Oct. 31, 2026", "Letter Boxed hints", "Starting letters and word lengths first, the answer at the end."],
+  ["contexto-answer-hints-october-28-2026-1501", "contexto", "#0f172a", "#f59e0b", "Contexto #1501 · Wed., Oct. 28, 2026", "Contexto hints", "Close words and hints first, the secret word only at the end."],
+  ["contexto-answer-hints-october-29-2026-1502", "contexto", "#0f172a", "#a78bfa", "Contexto #1502 · Thu., Oct. 29, 2026", "Contexto hints", "Close words and hints first, the secret word only at the end."],
+  ["contexto-answer-hints-october-30-2026-1503", "contexto", "#0f172a", "#38bdf8", "Contexto #1503 · Fri., Oct. 30, 2026", "Contexto hints", "Close words and hints first, the secret word only at the end."],
+  ["contexto-answer-hints-october-31-2026-1504", "contexto", "#0f172a", "#fb923c", "Contexto #1504 · Sat., Oct. 31, 2026", "Contexto hints", "Close words and hints first, the secret word only at the end."],
+  ["wordle-hint-answer-today-november-1-2026-1961", "wordle", "#121213", "#c9b458", "Wordle #1961 · Sun., Nov. 1, 2026", "Wordle hints today", "Six clues from gentle to strong, the answer only at the end."],
+  ["nyt-connections-hints-answers-november-1-2026-1239", "connections", "#1e1a3a", "#f9df6d", "Connections #1239 · Sun., Nov. 1, 2026", "Connections hints", "Gentle hints for every group first, answers only at the end."],
+  ["nyt-strands-hints-answers-november-1-2026-973", "strands", "#0f2f3a", "#aedfee", "Strands #973 · Sun., Nov. 1, 2026", "Strands hints today", "Spangram and theme-word hints first, answers at the end."],
+  ["nyt-pips-hints-answers-november-1-2026", "pips", "#1e293b", "#93c5fd", "Pips · Sun., Nov. 1, 2026", "Pips hints today", "Hints for Easy, Medium and Hard, placements at the end."],
+  ["nyt-spelling-bee-hints-answers-november-1-2026", "bee", "#1c1917", "#f7da21", "Spelling Bee · Sun., Nov. 1, 2026", "Spelling Bee hints", "Hint grid and two-letter list first, the word list at the end."],
+  ["nyt-letter-boxed-answer-hints-november-1-2026", "letterboxed", "#3d1f1a", "#fa8072", "Letter Boxed · Sun., Nov. 1, 2026", "Letter Boxed hints", "Starting letters and word lengths first, the answer at the end."],
+  ["wordle-hint-answer-today-november-2-2026-1962", "wordle", "#121213", "#c9b458", "Wordle #1962 · Mon., Nov. 2, 2026", "Wordle hints today", "Six clues from gentle to strong, the answer only at the end."],
+  ["nyt-connections-hints-answers-november-2-2026-1240", "connections", "#1e1a3a", "#f9df6d", "Connections #1240 · Mon., Nov. 2, 2026", "Connections hints", "Gentle hints for every group first, answers only at the end."],
+  ["nyt-strands-hints-answers-november-2-2026-974", "strands", "#0f2f3a", "#aedfee", "Strands #974 · Mon., Nov. 2, 2026", "Strands hints today", "Spangram and theme-word hints first, answers at the end."],
+  ["nyt-pips-hints-answers-november-2-2026", "pips", "#1e293b", "#f9a8d4", "Pips · Mon., Nov. 2, 2026", "Pips hints today", "Hints for Easy, Medium and Hard, placements at the end."],
+  ["nyt-spelling-bee-hints-answers-november-2-2026", "bee", "#1c1917", "#f7da21", "Spelling Bee · Mon., Nov. 2, 2026", "Spelling Bee hints", "Hint grid and two-letter list first, the word list at the end."],
+  ["wordle-hint-answer-today-november-3-2026-1963", "wordle", "#121213", "#c9b458", "Wordle #1963 · Tue., Nov. 3, 2026", "Wordle hints today", "Six clues from gentle to strong, the answer only at the end."],
+  ["nyt-connections-hints-answers-november-3-2026-1241", "connections", "#1e1a3a", "#f9df6d", "Connections #1241 · Tue., Nov. 3, 2026", "Connections hints", "Gentle hints for every group first, answers only at the end."],
+  ["nyt-strands-hints-answers-november-3-2026-975", "strands", "#0f2f3a", "#aedfee", "Strands #975 · Tue., Nov. 3, 2026", "Strands hints today", "Spangram and theme-word hints first, answers at the end."],
+  ["nyt-pips-hints-answers-november-3-2026", "pips", "#1e293b", "#fde68a", "Pips · Tue., Nov. 3, 2026", "Pips hints today", "Hints for Easy, Medium and Hard, placements at the end."],
+  ["nyt-spelling-bee-hints-answers-november-3-2026", "bee", "#1c1917", "#f7da21", "Spelling Bee · Tue., Nov. 3, 2026", "Spelling Bee hints", "Hint grid and two-letter list first, the word list at the end."],
+  ["contexto-answer-hints-november-1-2026-1505", "contexto", "#0f172a", "#34d399", "Contexto #1505 · Sun., Nov. 1, 2026", "Contexto hints", "Close words and hints first, the secret word only at the end."],
+  ["contexto-answer-hints-november-2-2026-1506", "contexto", "#0f172a", "#f472b6", "Contexto #1506 · Mon., Nov. 2, 2026", "Contexto hints", "Close words and hints first, the secret word only at the end."],
+  ["contexto-answer-hints-november-3-2026-1507", "contexto", "#0f172a", "#facc15", "Contexto #1507 · Tue., Nov. 3, 2026", "Contexto hints", "Close words and hints first, the secret word only at the end."],
+  ["wordle-hint-answer-today-november-4-2026-1964", "wordle", "#121213", "#c9b458", "Wordle #1964 · Wed., Nov. 4, 2026", "Wordle hints today", "Six clues from gentle to strong, the answer only at the end."],
+  ["nyt-connections-hints-answers-november-4-2026-1242", "connections", "#1e1a3a", "#f9df6d", "Connections #1242 · Wed., Nov. 4, 2026", "Connections hints", "Gentle hints for every group first, answers only at the end."],
+  ["nyt-strands-hints-answers-november-4-2026-976", "strands", "#0f2f3a", "#aedfee", "Strands #976 · Wed., Nov. 4, 2026", "Strands hints today", "Spangram and theme-word hints first, answers at the end."],
+  ["nyt-pips-hints-answers-november-4-2026", "pips", "#1e293b", "#86efac", "Pips · Wed., Nov. 4, 2026", "Pips hints today", "Hints for Easy, Medium and Hard, placements at the end."],
+  ["nyt-spelling-bee-hints-answers-november-4-2026", "bee", "#1c1917", "#f7da21", "Spelling Bee · Wed., Nov. 4, 2026", "Spelling Bee hints", "Hint grid and two-letter list first, the word list at the end."],
+  ["nyt-connections-answers-october-2026-all-groups", "connections", "#2a1f4a", "#ba81c5", "Connections · October 2026", "Every October group", "All 31 puzzles, #1208 to #1238, with the purple wordplay counted."],
+  ["nyt-strands-answers-october-2026-all-spangrams", "strands", "#123a2f", "#f8cd05", "Strands · October 2026", "Every October spangram", "All 31 puzzles, #942 to #972, with themes and constructors."],
+  ["nyt-spelling-bee-answers-october-2026-all-pangrams", "bee", "#2b2111", "#f7da21", "Spelling Bee · October 2026", "Every October pangram", "All 31 days with word counts, points and the Genius score."],
+  ["nyt-letter-boxed-answers-october-2026", "letterboxed", "#2a1512", "#fdba74", "Letter Boxed · October 2026", "Every October solution", "The Times' two-word answer for all 31 days, each one checked."],
+  ["wordle-hint-answer-today-november-5-2026-1965", "wordle", "#121213", "#c9b458", "Wordle #1965 · Thu., Nov. 5, 2026", "Wordle hints today", "Six clues from gentle to strong, the answer only at the end."],
+  ["nyt-connections-hints-answers-november-5-2026-1243", "connections", "#1e1a3a", "#f9df6d", "Connections #1243 · Thu., Nov. 5, 2026", "Connections hints", "Gentle hints for every group first, answers only at the end."],
+  ["nyt-strands-hints-answers-november-5-2026-977", "strands", "#0f2f3a", "#aedfee", "Strands #977 · Thu., Nov. 5, 2026", "Strands hints today", "Spangram and theme-word hints first, answers at the end."],
+  ["nyt-pips-hints-answers-november-5-2026", "pips", "#1e293b", "#c4b5fd", "Pips · Thu., Nov. 5, 2026", "Pips hints today", "Hints for Easy, Medium and Hard, placements at the end."],
+  ["nyt-spelling-bee-hints-answers-november-5-2026", "bee", "#1c1917", "#f7da21", "Spelling Bee · Thu., Nov. 5, 2026", "Spelling Bee hints", "Hint grid and two-letter list first, the word list at the end."],
+  ["contexto-answer-hints-november-4-2026-1508", "contexto", "#0f172a", "#fb7185", "Contexto #1508 · Wed., Nov. 4, 2026", "Contexto hints", "Close words and hints first, the secret word only at the end."],
+  ["wordle-hint-answer-today-november-6-2026-1966", "wordle", "#121213", "#c9b458", "Wordle #1966 · Fri., Nov. 6, 2026", "Wordle hints today", "Six clues from gentle to strong, the answer only at the end."],
+  ["nyt-connections-hints-answers-november-6-2026-1244", "connections", "#1e1a3a", "#f9df6d", "Connections #1244 · Fri., Nov. 6, 2026", "Connections hints", "Gentle hints for every group first, answers only at the end."],
+  ["nyt-strands-hints-answers-november-6-2026-978", "strands", "#0f2f3a", "#aedfee", "Strands #978 · Fri., Nov. 6, 2026", "Strands hints today", "Spangram and theme-word hints first, answers at the end."],
+  ["nyt-pips-hints-answers-november-6-2026", "pips", "#1e293b", "#fda4af", "Pips · Fri., Nov. 6, 2026", "Pips hints today", "Hints for Easy, Medium and Hard, placements at the end."],
+  ["nyt-spelling-bee-hints-answers-november-6-2026", "bee", "#1c1917", "#f7da21", "Spelling Bee · Fri., Nov. 6, 2026", "Spelling Bee hints", "Hint grid and two-letter list first, the word list at the end."],
+  ["wordle-hint-answer-today-november-7-2026-1967", "wordle", "#121213", "#c9b458", "Wordle #1967 · Sat., Nov. 7, 2026", "Wordle hints today", "Six clues from gentle to strong, the answer only at the end."],
+  ["nyt-connections-hints-answers-november-7-2026-1245", "connections", "#1e1a3a", "#f9df6d", "Connections #1245 · Sat., Nov. 7, 2026", "Connections hints", "Gentle hints for every group first, answers only at the end."],
+  ["nyt-strands-hints-answers-november-7-2026-979", "strands", "#0f2f3a", "#aedfee", "Strands #979 · Sat., Nov. 7, 2026", "Strands hints today", "Spangram and theme-word hints first, answers at the end."],
+  ["nyt-pips-hints-answers-november-7-2026", "pips", "#1e293b", "#93c5fd", "Pips · Sat., Nov. 7, 2026", "Pips hints today", "Hints for Easy, Medium and Hard, placements at the end."],
+  ["nyt-spelling-bee-hints-answers-november-7-2026", "bee", "#1c1917", "#f7da21", "Spelling Bee · Sat., Nov. 7, 2026", "Spelling Bee hints", "Hint grid and two-letter list first, the word list at the end."],
+  ["contexto-answers-october-2026-all-words", "contexto", "#111c33", "#a78bfa", "Contexto · October 2026", "Every October word", "All 31 secret words, #1474 to #1504, with the closest words."],
+  ["wordle-hint-answer-today-november-8-2026-1968", "wordle", "#121213", "#c9b458", "Wordle #1968 · Sun., Nov. 8, 2026", "Wordle hints today", "Six clues from gentle to strong, the answer only at the end."],
+  ["nyt-connections-hints-answers-november-8-2026-1246", "connections", "#1e1a3a", "#f9df6d", "Connections #1246 · Sun., Nov. 8, 2026", "Connections hints", "Gentle hints for every group first, answers only at the end."],
+  ["nyt-strands-hints-answers-november-8-2026-980", "strands", "#0f2f3a", "#aedfee", "Strands #980 · Sun., Nov. 8, 2026", "Strands hints today", "Spangram and theme-word hints first, answers at the end."],
+  ["nyt-pips-hints-answers-november-8-2026", "pips", "#1e293b", "#fde68a", "Pips · Sun., Nov. 8, 2026", "Pips hints today", "Hints for Easy, Medium and Hard, placements at the end."],
+  ["nyt-spelling-bee-hints-answers-november-8-2026", "bee", "#1c1917", "#f7da21", "Spelling Bee · Sun., Nov. 8, 2026", "Spelling Bee hints", "Hint grid and two-letter list first, the word list at the end."],
+  ["wordle-hint-answer-today-november-9-2026-1969", "wordle", "#121213", "#c9b458", "Wordle #1969 · Mon., Nov. 9, 2026", "Wordle hints today", "Six clues from gentle to strong, the answer only at the end."],
+  ["nyt-connections-hints-answers-november-9-2026-1247", "connections", "#0f2a3a", "#b0c4ef", "Connections #1247 · Mon., Nov. 9, 2026", "Connections hints", "Gentle hints for every group first, answers only at the end.", "nyt-connections-november-9-b"],
+  ["nyt-strands-hints-answers-november-9-2026-981", "strands", "#0f2f3a", "#aedfee", "Strands #981 · Mon., Nov. 9, 2026", "Strands hints today", "Spangram and theme-word hints first, answers at the end."],
+  ["nyt-pips-hints-answers-november-9-2026", "pips", "#1e293b", "#f9a8d4", "Pips · Mon., Nov. 9, 2026", "Pips hints today", "Hints for Easy, Medium and Hard, placements at the end."],
+  ["wordle-answers-2026-full-list-repeat-answers", "wordle", "#1a1a2e", "#6aaa64", "Wordle · 2026 so far", "Old answers are back", "Every 2026 answer, #1657 to #1955, and the 28 past words that returned."],
 ];
 
-export async function buildHeroes5(): Promise<void> {
+export async function buildHeroes5(only?: string): Promise<void> {
   const fonts = await fontFaces();
   const browser = await chromium.launch({ headless: true });
   try {
-    for (const [slug, art, bg, accent, kicker, title, dek] of PUZZLE_HEROES) {
+    for (const [slug, art, bg, accent, kicker, title, dek, seed = slug] of PUZZLE_HEROES) {
+      if (only && !slug.includes(only)) continue;
       const page = await browser.newPage({ viewport: { width: W, height: H }, deviceScaleFactor: 2 });
-      await page.setContent(hero(fonts, { bg, accent, kicker, title, dek, art: ART[art]!(rng(slug)), seed: slug }), { waitUntil: "load" });
+      await page.setContent(hero(fonts, { bg, accent, kicker, title, dek, art: ART[art]!(rng(seed)), seed }), { waitUntil: "load" });
       await page.evaluate(() => document.fonts.ready);
       const png = await page.screenshot({ type: "png" });
       await page.close();

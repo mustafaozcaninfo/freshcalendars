@@ -155,7 +155,7 @@ async function main(): Promise<void> {
     } else if (cmd === "news-sky") {
       await buildSkyDownloads();
     } else if (cmd === "news-heroes5") {
-      await buildHeroes5();
+      await buildHeroes5(argValue("--only"));
     } else if (cmd === "news-november-holidays") {
       await buildNovemberHolidayDownloads();
     } else if (cmd === "news-oct24") {
