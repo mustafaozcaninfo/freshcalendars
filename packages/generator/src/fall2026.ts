@@ -77,9 +77,9 @@ function aca(fonts: string): string {
 function meteors(fonts: string): string {
   const N = "#0b1736";
   const showers = [
-    { name: "Southern Taurids", peak: "Night of Nov. 4–5", moon: "Waning crescent, about 18% lit", rate: "About 5 meteors an hour; known for bright fireballs", when: "Best around midnight, low in the east before that" },
-    { name: "Northern Taurids", peak: "Night of Nov. 11–12", moon: "Thin crescent, about 7% lit", rate: "About 5 an hour, slow and bright", when: "Best around midnight; the darkest skies of the month" },
-    { name: "Leonids", peak: "Night of Nov. 16–17", moon: "First quarter, sets around midnight", rate: "About 15 an hour at best, fast meteors", when: "After the Moon sets, from midnight to dawn" },
+    { name: "Southern Taurids", peak: "Night of Nov. 4–5", moon: "Waning crescent, about 25% lit (AMS)", rate: "A few an hour; fireball swarm peaks Nov. 5", when: "Best around midnight, low in the east before that" },
+    { name: "Northern Taurids", peak: "Night of Nov. 11–12", moon: "Thin crescent, about 4% lit (AMS)", rate: "A few an hour, slow and bright", when: "Best around midnight; the darkest skies of the month" },
+    { name: "Leonids", peak: "Night of Nov. 16–17", moon: "About 39% lit (AMS), sets before midnight", rate: "Often fewer than 3 an hour (NASA), fast meteors", when: "After the Moon sets, from midnight to dawn" },
   ];
   const css = `
   .m1{padding:34px 38px 0;background:${N};color:#e5e9f5}
@@ -108,7 +108,7 @@ function meteors(fonts: string): string {
       <tr><td>First quarter</td><td>Tuesday, Nov. 17, 6:48 a.m. EST</td></tr>
       <tr><td>Full moon (Beaver Moon)</td><td>Tuesday, Nov. 24, 9:53 a.m. EST</td></tr>
     </tbody></table>
-    <p class="note">Peak nights and rates: American Meteor Society. Moon phases: U.S. Naval Observatory. Rates assume a dark sky far from city lights; expect fewer from suburbs. Give your eyes 20 minutes to adjust and look about halfway up the sky.</p>
+    <p class="note">Peak nights and Moon light: American Meteor Society. Leonid rate: NASA. Moon phases: U.S. Naval Observatory. Rates assume a dark sky far from city lights; expect fewer from suburbs. Give your eyes 20 minutes to adjust and look about halfway up the sky.</p>
     <div class="foot">Free printable from Fresh Calendars · freshcalendars.com/news/november-2026-meteor-showers-taurids-leonids/</div>
   </section>`;
   return doc(fonts, LETTER, css, [page]);

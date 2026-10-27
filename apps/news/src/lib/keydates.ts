@@ -13,6 +13,7 @@ export interface KeyDate {
 
 export const KEY_DATES: KeyDate[] = [
   { date: "2026-10-27", label: "Free entry at national parks (U.S. residents)", slug: "national-parks-free-days-october-27-veterans-day-2026" },
+  { date: "2026-10-27", label: "Moon covers stars of the Pleiades (eastern U.S.)", slug: "moon-pleiades-occultation-october-27-2026" },
   { date: "2026-11-01", label: "NYC Marathon: Wave 1 starts 9:10 a.m. ET", slug: "nyc-marathon-2026-start-times-road-closures-where-to-watch" },
   { date: "2026-11-11", label: "Last 2026 fee-free day at national parks", slug: "national-parks-free-days-october-27-veterans-day-2026" },
   { date: "2026-11-24", label: "Thanksgiving travel period begins (2025 pattern)", slug: "thanksgiving-travel-2026-best-days-to-fly-and-drive" },
