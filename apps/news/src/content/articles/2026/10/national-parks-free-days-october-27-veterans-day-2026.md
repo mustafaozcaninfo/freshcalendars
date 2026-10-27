@@ -1,9 +1,10 @@
 ---
 title: "National Parks Free Days 2026: Tuesday, Oct. 27 and Veterans Day, Nov. 11"
 seoTitle: "National Parks Free Days 2026: Oct. 27 and Nov. 11"
-description: "The next National Park Service (NPS) free entrance day is Tuesday, Oct. 27, 2026, then Veterans Day, Wednesday, Nov. 11, the last fee-free day of the year."
+description: "Tuesday, Oct. 27, 2026 is a National Park Service (NPS) fee-free day, then Veterans Day, Wednesday, Nov. 11, the last free entrance day of 2026."
 type: news
 publishedAt: "2026-10-24T13:10:00-04:00"
+updatedAt: "2026-10-27T02:54:00-04:00"
 authors: [alex-morgan]
 category: holidays
 keywords: ["national parks free days 2026", "national parks free Veterans Day 2026", "free national park day October 27 2026", "fee-free days 2026 public lands", "national parks free for nonresidents"]
@@ -45,8 +46,8 @@ hero:
     author: "GrandTetonNPS"
     authorUrl: "https://www.flickr.com/people/grandtetonnps/"
 summary:
-  - "The next entrance-fee-free day at National Park Service (NPS) sites is Tuesday, Oct. 27, 2026, Theodore Roosevelt's birthday."
-  - "Veterans Day, Wednesday, Nov. 11, 2026, is the last fee-free day of the year at the parks."
+  - "Tuesday, Oct. 27, 2026, Theodore Roosevelt's birthday, is an entrance-fee-free day at National Park Service (NPS) sites."
+  - "Veterans Day, Wednesday, Nov. 11, 2026, is the last fee-free day of the year at the parks; the NPS has not published 2027 fee-free days."
   - "Free entrance on these days is for U.S. citizens and residents only; nonresidents pay the regular entrance fee and any nonresident fees."
   - "The waiver covers entrance only; timed-entry or reservation fees, camping, tours and permits are still charged."
 sources:
@@ -102,13 +103,15 @@ downloads:
 draft: false
 ---
 
-**The next free entrance day at National Park Service (NPS) parks is Tuesday, Oct. 27, 2026, Theodore Roosevelt's birthday.** After that, Veterans Day on Wednesday, Nov. 11, 2026, is the last entrance-fee-free day of the year, according to the National Park Service.
+<p class="callout"><b>Last updated Tue. Oct. 27, 2026, 2:54 a.m. ET.</b> Today, Tuesday, Oct. 27, is a fee-free day at National Park Service parks for Theodore Roosevelt's birthday. The next and last fee-free day of 2026 is Veterans Day, Wednesday, Nov. 11. The National Park Service has not published 2027 fee-free days.</p>
+
+**Tuesday, Oct. 27, 2026, Theodore Roosevelt's birthday, is a free entrance day at National Park Service (NPS) parks.** The next and last entrance-fee-free day of 2026 is Veterans Day, Wednesday, Nov. 11, according to the National Park Service.
 
 On both days, parks that normally charge an entrance fee waive it. The NPS says the free entrance "will be for US citizens and residents only." Nonresidents "will pay the regular entrance fee and any applicable nonresident fees."
 
 ## The last two fee-free days of 2026
 
-The National Park Service lists eight fee-free days in 2026. The two still ahead are Oct. 27 and Nov. 11. The Bureau of Land Management (BLM) marks the same two dates, and national wildlife refuges run by the U.S. Fish and Wildlife Service (FWS) are free on Veterans Day.
+The National Park Service lists eight fee-free days in 2026. The last two are Oct. 27 and Nov. 11, and the Service has not yet published 2027 fee-free days. The Bureau of Land Management (BLM) marks the same two dates, and national wildlife refuges run by the U.S. Fish and Wildlife Service (FWS) are free on Veterans Day.
 
 | Date | Day | Occasion | Agencies with free entry |
 |---|---|---|---|

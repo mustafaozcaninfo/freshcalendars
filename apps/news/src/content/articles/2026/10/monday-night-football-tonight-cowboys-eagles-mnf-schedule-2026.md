@@ -1,25 +1,26 @@
 ---
-title: "Monday Night Football: Cowboys at Eagles Kickoff Time, Channel and the Full MNF Schedule 2026"
-seoTitle: "Monday Night Football: Cowboys at Eagles Time, Channel"
-description: "Monday Night Football (MNF), Mon., Oct. 26, 2026: Cowboys at Eagles kicks off at 8:15 p.m. Eastern Time (ET) on ESPN. Times by U.S. zone and the MNF schedule."
+title: "Monday Night Football: Cowboys Beat Eagles 38-21; Bears at Seahawks Next on Nov. 2"
+seoTitle: "Monday Night Football: Cowboys Beat Eagles 38-21"
+description: "Monday Night Football: the Dallas Cowboys beat the Philadelphia Eagles 38-21 on Oct. 26, 2026. Bears at Seahawks is next on Mon., Nov. 2, at 8:15 p.m. Eastern."
 type: news
 publishedAt: "2026-10-25T14:15:00-04:00"
+updatedAt: "2026-10-27T03:05:00-04:00"
 authors: [jordan-bennett]
 category: planning
-keywords: ["Monday Night Football tonight", "Cowboys vs Eagles Monday Night Football time", "MNF schedule 2026", "what channel is Monday Night Football"]
+keywords: ["Monday Night Football", "Cowboys vs Eagles score", "MNF schedule 2026", "what channel is Monday Night Football"]
 dateline: "Philadelphia"
 assets:
   overlay: true
   kicker: "Monday Night Football · Oct. 26, 2026"
   date: "2026-10-26"
-  card: { top: "Monday Night Football tonight", big: "Cowboys at Eagles", bottom: "8:15 p.m. ET on ESPN" }
+  card: { top: "Monday Night Football result", big: "Cowboys 38, Eagles 21", bottom: "Bears at Seahawks next, Mon., Nov. 2" }
   printable:
     slug: mnf-schedule-2026
     group: mnf-2026
     title: "Monday Night Football Schedule 2026 (Weeks 7 to 17)"
-    subtitle: "Every dated Monday game, 8:15 p.m. Eastern Time on ESPN"
+    subtitle: "Every dated Monday game on ESPN, 8:15 p.m. Eastern Time"
     rows:
-      - ["Mon., Oct. 26", "Week 7: Cowboys at Eagles"]
+      - ["Mon., Oct. 26", "Week 7: Cowboys 38, Eagles 21 (final)"]
       - ["Mon., Nov. 2", "Week 8: Bears at Seahawks"]
       - ["Mon., Nov. 9", "Week 9: Bills at Vikings"]
       - ["Mon., Nov. 16", "Week 10: Chargers at Ravens"]
@@ -30,14 +31,14 @@ assets:
       - ["Mon., Dec. 21", "Week 15: Patriots at Chiefs"]
       - ["Mon., Dec. 28", "Week 16: Giants at Lions"]
       - ["Jan. 4, 2027", "Week 17: Texans at Packers"]
-    note: "Source: NFL.com weekly schedules; ESPN. Times Eastern. TBD games not listed."
+    note: "Source: NFL.com weekly schedules; ESPN; FOX Sports box score for Week 7. Times Eastern. TBD games not listed."
     inkSaver: true
-    description: "All 11 dated Monday Night Football games of the 2026 NFL season, Weeks 7 to 17, with the 8:15 p.m. Eastern kickoff and ESPN."
+    description: "All 11 dated Monday Night Football games of the 2026 NFL season, Weeks 7 to 17, on ESPN, with the Week 7 result and the 8:15 p.m. Eastern kickoff."
     alt: "Printable Monday Night Football schedule 2026 listing 11 Monday games from Oct. 26 to Jan. 4, 2027"
 hero:
   src: ../../../../assets/news/monday-night-football-tonight-cowboys-eagles-mnf-schedule-2026/monday-night-football-tonight-cowboys-eagles-mnf-schedule-2026.webp
-  alt: "Monday Night Football: Cowboys at Eagles on Oct. 26, 2026; the field and stands of Lincoln Financial Field in Philadelphia"
-  caption: "Lincoln Financial Field, home of the Philadelphia Eagles. The Cowboys play the Eagles on Monday Night Football on Monday, Oct. 26, 2026, at 8:15 p.m. Eastern Time on ESPN, according to NFL.com."
+  alt: "Monday Night Football: the field and stands of Lincoln Financial Field in Philadelphia, where the Cowboys beat the Eagles on Oct. 26, 2026"
+  caption: "Lincoln Financial Field in Philadelphia, where the Dallas Cowboys beat the Philadelphia Eagles 38-21 on Monday Night Football on Monday, Oct. 26, 2026, per the FOX Sports box score."
   credit: "Photo: U.S. Army National Guard photo by Staff Sgt. Tianna Wilson / Wikimedia Commons, cropped, edited"
   license:
     name: "Public domain"
@@ -46,29 +47,32 @@ hero:
     author: "U.S. Army National Guard photo by Staff Sgt. Tianna Wilson"
     authorUrl: "https://www.dvidshub.net/portfolio/1272348"
 summary:
-  - "Cowboys at Eagles is the Week 7 Monday Night Football (MNF) game on Mon., Oct. 26, 2026, at 8:15 p.m. Eastern Time (ET) on ESPN, according to NFL.com."
-  - "The kickoff is 7:15 p.m. Central, 6:15 p.m. Mountain, 5:15 p.m. Pacific and 5:15 p.m. in Arizona; the table below lists every U.S. time zone."
-  - "Ten more Monday games are dated through Mon., Jan. 4, 2027, all at 8:15 p.m. ET on ESPN. Week 18 has no Monday game."
+  - "The Dallas Cowboys beat the Philadelphia Eagles 38-21 on Monday Night Football (MNF) on Mon., Oct. 26, 2026, according to the FOX Sports box score."
+  - "The next Monday night game is the Chicago Bears at the Seattle Seahawks on Mon., Nov. 2, 2026, at 8:15 p.m. Eastern Time (ET) on ESPN, per NFL.com."
+  - "Nov. 2 falls after the Nov. 1 clock change, so kickoff is 7:15 p.m. Central, 6:15 p.m. Mountain and 5:15 p.m. Pacific; the table has every U.S. zone."
+  - "Monday games run at 8:15 p.m. ET on ESPN through Mon., Jan. 4, 2027; Week 18 has no Monday game."
 faq:
-  - q: "What time is Monday Night Football tonight?"
-    a: "On Mon., Oct. 26, 2026, Cowboys at Eagles kicks off at 8:15 p.m. Eastern Time (ET), which is 7:15 p.m. Central, 6:15 p.m. Mountain and 5:15 p.m. Pacific."
+  - q: "Who plays on Monday Night Football next?"
+    a: "The Chicago Bears play at the Seattle Seahawks on Mon., Nov. 2, 2026, at 8:15 p.m. Eastern Time (ET) on ESPN, per NFL.com. That is 7:15 p.m. Central, 6:15 p.m. Mountain and 5:15 p.m. Pacific."
+  - q: "What was the Cowboys vs Eagles score?"
+    a: "The Dallas Cowboys beat the Philadelphia Eagles 38-21 on Mon., Oct. 26, 2026, according to the FOX Sports box score. ESPN's game page headlined it 'Cowboys bounce back, take down Eagles on MNF.'"
   - q: "What channel is Monday Night Football?"
     a: "NFL.com lists ESPN for every Monday game from Week 7 through Week 17. It does not list American Broadcasting Company (ABC) simulcasts game by game, so check your local listings."
   - q: "Does the kickoff time change after the clocks fall back on Nov. 1?"
     a: "No. NFL.com keeps Monday games at 8:15 p.m. ET. Clocks in Arizona and Hawaii do not change, so kickoff there is one hour later on the local clock from Nov. 2; the table below has each zone."
   - q: "Is there a Monday Night Football game in Week 18?"
     a: "No. NFL.com lists Saturday and Sunday games for Week 18."
-  - q: "Are the Week 16 and Week 17 Monday games the only games in those weeks?"
-    a: "No. Other Week 16 and Week 17 games are still to be determined (TBD). The NFL says those dates will be announced later."
 sources:
-  - title: "2026 NFL schedule by week, Week 7"
-    url: "https://www.nfl.com/schedules/2026/by-week/week-7"
-    publisher: "NFL"
+  - title: "Week 7 Dallas Cowboys vs Philadelphia Eagles Oct 26 2026 game boxscore"
+    url: "https://www.foxsports.com/nfl/week-7-dallas-cowboys-vs-philadelphia-eagles-oct-26-2026-game-boxscore-11249"
+    publisher: "FOX Sports"
+    date: "2026-10-26"
+  - title: "Cowboys bounce back, take down Eagles on MNF"
+    url: "https://www.espn.com/nfl/"
+    publisher: "ESPN"
+    date: "2026-10-26"
   - title: "2026 NFL schedule by week, Week 8"
     url: "https://www.nfl.com/schedules/2026/by-week/week-8"
-    publisher: "NFL"
-  - title: "2026 NFL schedule by week, Week 12"
-    url: "https://www.nfl.com/schedules/2026/by-week/week-12"
     publisher: "NFL"
   - title: "2026 NFL schedule by week, Week 16"
     url: "https://www.nfl.com/schedules/2026/by-week/week-16"
@@ -89,7 +93,7 @@ related: [printable-nfl-schedule-2026-2027-pdf, thanksgiving-football-schedule-2
 downloads:
   - group: "Monday Night Football Schedule 2026 (Weeks 7 to 17) printables"
     title: "Monday Night Football Schedule 2026 (Weeks 7 to 17)"
-    description: "All 11 dated Monday Night Football games of the 2026 NFL season, Weeks 7 to 17, with the 8:15 p.m. Eastern kickoff and ESPN."
+    description: "All 11 dated Monday Night Football games of the 2026 NFL season, Weeks 7 to 17, on ESPN, with the Week 7 result and the 8:15 p.m. Eastern kickoff."
     preview: ../../../../assets/news/mnf-2026/mnf-schedule-2026.png
     alt: "Printable Monday Night Football schedule 2026 listing 11 Monday games from Oct. 26 to Jan. 4, 2027"
     pdf: "/news/downloads/mnf-2026/mnf-schedule-2026.pdf"
@@ -97,7 +101,7 @@ downloads:
     pages: 1
   - group: "Monday Night Football Schedule 2026 (Weeks 7 to 17) printables"
     title: "Monday Night Football Schedule 2026 (Weeks 7 to 17) (ink saver)"
-    description: "All 11 dated Monday Night Football games of the 2026 NFL season, Weeks 7 to 17, with the 8:15 p.m. Eastern kickoff and ESPN. Ink-saver version."
+    description: "All 11 dated Monday Night Football games of the 2026 NFL season, Weeks 7 to 17, on ESPN, with the Week 7 result and the 8:15 p.m. Eastern kickoff. Ink-saver version."
     preview: ../../../../assets/news/mnf-2026/mnf-schedule-2026-ink.png
     alt: "Printable Monday Night Football schedule 2026 listing 11 Monday games from Oct. 26 to Jan. 4, 2027, ink-saver version"
     pdf: "/news/downloads/mnf-2026/mnf-schedule-2026-ink.pdf"
@@ -106,29 +110,31 @@ downloads:
 draft: false
 ---
 
-**Cowboys at Eagles kicks off Monday Night Football (MNF) on Mon., Oct. 26, 2026, at 8:15 p.m. Eastern Time (ET) on ESPN, according to the National Football League (NFL) schedule on NFL.com.** It is the Week 7 Monday game.
+<p class="callout"><b>Last updated Tue. Oct. 27, 2026, 3:05 a.m. ET.</b> The Dallas Cowboys beat the Philadelphia Eagles 38-21 on Monday night. This story now carries the final score and turns to the next Monday night game, Bears at Seahawks on Nov. 2.</p>
 
-This page has the kickoff in every U.S. time zone, the channel, and the full list of the remaining dated Monday games. A one-page printable of that list is further down.
+**The Dallas Cowboys beat the Philadelphia Eagles 38-21 on Monday Night Football (MNF) on Mon., Oct. 26, 2026, according to the FOX Sports box score.** The next Monday night game is the Chicago Bears at the Seattle Seahawks on Mon., Nov. 2, 2026, at 8:15 p.m. Eastern Time (ET) on ESPN, per the National Football League (NFL) schedule on NFL.com.
 
-## What time does Cowboys at Eagles start in my time zone?
+ESPN's game page headlined the result "Cowboys bounce back, take down Eagles on MNF." This page has the kickoff for the Nov. 2 game in every U.S. time zone, the channel, and the full list of the remaining dated Monday games. A one-page printable of that list is further down.
 
-Monday night's kickoff is 8:15 p.m. ET. Clocks fall back on Sunday, Nov. 1, so the table gives both periods. The NFL's 8:15 p.m. ET stays the same on NFL.com for the Nov. 2 game and every Monday after it. Our [guide to when daylight saving time ends](/news/daylight-saving-time-ends-november-1-2026/) covers the change itself.
+## What time is Bears at Seahawks in my time zone?
 
-| Time zone | Mon., Oct. 26 (Cowboys at Eagles) | Mon., Nov. 2 onward |
-|---|---|---|
-| Eastern | 8:15 p.m. | 8:15 p.m. |
-| Central | 7:15 p.m. | 7:15 p.m. |
-| Mountain | 6:15 p.m. | 6:15 p.m. |
-| Pacific | 5:15 p.m. | 5:15 p.m. |
-| Arizona (no clock change) | 5:15 p.m. | 6:15 p.m. |
-| Alaska | 4:15 p.m. | 4:15 p.m. |
-| Hawaii (no clock change) | 2:15 p.m. | 3:15 p.m. |
+The next Monday night game, Bears at Seahawks on Mon., Nov. 2, kicks off at 8:15 p.m. ET. Clocks fall back on Sunday, Nov. 1, so Nov. 2 is on standard time: that is 8:15 p.m. Eastern Standard Time (EST). The NFL keeps Monday games at 8:15 p.m. ET on NFL.com. Our [guide to when daylight saving time ends](/news/daylight-saving-time-ends-november-1-2026/) covers the change itself.
 
-We worked these out from the NFL's 8:15 p.m. ET listing. Arizona and Hawaii do not change their clocks, so their hour shifts on Nov. 2.
+| Time zone | Mon., Nov. 2 (Bears at Seahawks) |
+|---|---|
+| Eastern Standard Time (EST) | 8:15 p.m. |
+| Central Standard Time (CST) | 7:15 p.m. |
+| Mountain Standard Time (MST) | 6:15 p.m. |
+| Pacific Standard Time (PST) | 5:15 p.m. |
+| Arizona (no clock change) | 6:15 p.m. |
+| Alaska Standard Time (AKST) | 4:15 p.m. |
+| Hawaii-Aleutian Standard Time (HST) | 3:15 p.m. |
+
+We worked these out from the NFL's 8:15 p.m. ET listing. Arizona stays on Mountain Standard Time all year, and Hawaii does not change its clocks either.
 
 ## What channel is Monday Night Football on?
 
-NFL.com lists ESPN for Cowboys at Eagles and for every other Monday game on this page. In its May 11, 2026, press release, ESPN said its games often air on the American Broadcasting Company (ABC) too: "the majority of ESPN's games also simulcast on ABC." NFL.com does not list ABC per game, so check your local listings if you want ABC. Our [printable NFL schedule for 2026-2027](/news/printable-nfl-schedule-2026-2027-pdf/) shows every game of the season by week.
+NFL.com lists ESPN for Bears at Seahawks and for every other Monday game on this page. In its May 11, 2026, press release, ESPN said its games often air on the American Broadcasting Company (ABC) too: "the majority of ESPN's games also simulcast on ABC." NFL.com does not list ABC per game, so check your local listings if you want ABC. Our [printable NFL schedule for 2026-2027](/news/printable-nfl-schedule-2026-2027-pdf/) shows every game of the season by week.
 
 ## What is the MNF schedule for the rest of 2026?
 
@@ -136,7 +142,7 @@ Ten more Monday games are dated after Oct. 26, from Mon., Nov. 2 to Mon., Jan. 4
 
 | Week | Date | Game | Kickoff | TV |
 |---|---|---|---|---|
-| 7 | Mon., Oct. 26 | Cowboys at Eagles | 8:15 p.m. ET | ESPN |
+| 7 | Mon., Oct. 26 | Cowboys at Eagles | Final: Cowboys 38-21 | ESPN |
 | 8 | Mon., Nov. 2 | Bears at Seahawks | 8:15 p.m. ET | ESPN |
 | 9 | Mon., Nov. 9 | Bills at Vikings | 8:15 p.m. ET | ESPN |
 | 10 | Mon., Nov. 16 | Chargers at Ravens | 8:15 p.m. ET | ESPN |
@@ -152,4 +158,5 @@ Other Week 16 and Week 17 games are still to be determined (TBD); the NFL says t
 
 ## Is there a printable MNF schedule?
 
-Yes. The one-page printable lists all 11 dated Monday games with the 8:15 p.m. ET kickoff and ESPN, so you can pin it up next to the [October 2026 printable calendar](/october-calendars.html) or the [November 2026 printable calendar](/november-calendars.html). It leaves out games that are still TBD. For the Thanksgiving week games, see our [Thanksgiving football schedule](/news/thanksgiving-football-schedule-2026-nfl-college-games/). If you are also tracking baseball, the [World Series 2026 schedule](/news/world-series-2026-schedule-game-times-tv-channel/) has game times and channels.
+Yes. The one-page printable lists all 11 dated Monday games with the Week 7 result and the 8:15 p.m. ET kickoff on ESPN, so you can pin it up next to the [October 2026 printable calendar](/october-calendars.html) or the [November 2026 printable calendar](/november-calendars.html). It leaves out games that are still TBD. For the Thanksgiving week games, see our [Thanksgiving football schedule](/news/thanksgiving-football-schedule-2026-nfl-college-games/). If you are also tracking baseball, the [World Series 2026 schedule](/news/world-series-2026-schedule-game-times-tv-channel/) has game times and channels.
+</content>
