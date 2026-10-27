@@ -119,6 +119,25 @@ const CHECK = {
     }
   },
 
+  mini(page, d, p, err) {
+    const answer = (cl) => cl.cells.map((i) => d.cells[i]).join("");
+    for (const cl of d.clues) {
+      const key = `${cl.label}-${cl.direction}`;
+      const row = page.body.match(new RegExp(`^\\| ${key} \\| (.+?) \\|$`, "m"))?.[1];
+      if (!row) err(`no answer row for ${key}`);
+      else if (letters(row) !== answer(cl)) err(`${key} answer ${row}, data ${answer(cl)}`);
+      // Hint lines quote the clue and give the length: "- **1-Across** (5 letters), *clue*: hint".
+      const hint = page.body.match(new RegExp(`^- \\*\\*${key}\\*\\* \\((\\d+) letters\\), \\*(.+?)\\*:`, "m"));
+      if (!hint) err(`no hint line for ${key}`);
+      else {
+        if (Number(hint[1]) !== cl.cells.length) err(`${key} hint says ${hint[1]} letters, data ${cl.cells.length}`);
+        if (norm(hint[2].replace(/\\/g, "")) !== norm(cl.text)) err(`${key} clue "${hint[2]}", data "${cl.text}"`);
+      }
+    }
+    const by = page.body.match(/clues? by ([A-Z][A-Za-z'-]+(?: [A-Z][A-Za-z'-]+)+)/)?.[1];
+    if (by && !d.constructors.includes(by)) err(`constructor ${by}, data ${d.constructors.join(", ")}`);
+  },
+
   bee(page, d, p, err) {
     // Every spoiler section is checked against the data of the date in its heading (today and yesterday).
     const dated = page.sections.filter((s) => /spoilers?\)/i.test(s.h) && /Spelling Bee answers/i.test(s.h));
@@ -163,6 +182,7 @@ for (const file of walk(ART).filter((f) => /\.mdx?$/.test(f)).sort()) {
   const errs = [];
   const err = (m) => errs.push(m);
   const d = loadPuzzle(p.game, p.date);
+  if (!d && GAMES[p.game].since && p.date < GAMES[p.game].since) { pages--; continue; } // written before data was saved
   if (!d) err(`no saved official data; run: node scripts/news-puzzle-data.mjs ${p.date} --games ${p.game}`);
   else {
     const page = parse(file);

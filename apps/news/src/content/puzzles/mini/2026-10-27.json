@@ -1,0 +1,153 @@
+{
+ "publicationDate": "2026-10-27",
+ "constructors": [
+  "Joel Fagliano"
+ ],
+ "width": 5,
+ "height": 5,
+ "cells": [
+  "S",
+  "P",
+  "E",
+  "L",
+  "L",
+  "T",
+  "H",
+  "R",
+  "E",
+  "E",
+  "R",
+  "O",
+  "O",
+  "M",
+  "S",
+  "U",
+  "N",
+  "D",
+  "O",
+  null,
+  "T",
+  "E",
+  "E",
+  "N",
+  null
+ ],
+ "clues": [
+  {
+   "direction": "Across",
+   "label": "1",
+   "text": "Say \"C-H-E-E-S-E\"?",
+   "cells": [
+    0,
+    1,
+    2,
+    3,
+    4
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "6",
+   "text": "Number of stripes on many world flags",
+   "cells": [
+    5,
+    6,
+    7,
+    8,
+    9
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "7",
+   "text": "Places visited on a Clue board",
+   "cells": [
+    10,
+    11,
+    12,
+    13,
+    14
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "8",
+   "text": "\"Go back\" command",
+   "cells": [
+    15,
+    16,
+    17,
+    18
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "9",
+   "text": "Follower of six or seven, but not five",
+   "cells": [
+    20,
+    21,
+    22,
+    23
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "1",
+   "text": "Walk with swagger",
+   "cells": [
+    0,
+    5,
+    10,
+    15,
+    20
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "2",
+   "text": "What gets texts (and also scrolls?)",
+   "cells": [
+    1,
+    6,
+    11,
+    16,
+    21
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "3",
+   "text": "Wear away slowly",
+   "cells": [
+    2,
+    7,
+    12,
+    17,
+    22
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "4",
+   "text": "Kind of juice in a French 75 cocktail",
+   "cells": [
+    3,
+    8,
+    13,
+    18,
+    23
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "5",
+   "text": "\"___ Misérables\"",
+   "cells": [
+    4,
+    9,
+    14
+   ]
+  }
+ ]
+}

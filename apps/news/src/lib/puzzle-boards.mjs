@@ -69,6 +69,9 @@ export function rehypePuzzleBoards() {
       } else if (p.game === "strands") {
         const i = after((n) => n.tagName === "ul");
         if (i !== undefined) inserts.push([i + 1, strandsBoard(data)]);
+      } else if (p.game === "mini") {
+        const i = after((n) => n.tagName === "table");
+        if (i !== undefined) inserts.push([i + 1, miniBoard(data)]);
       } else if (p.game === "pips") {
         for (const lvl of ["easy", "medium", "hard"]) {
           const name = lvl[0].toUpperCase() + lvl.slice(1);
@@ -136,27 +139,30 @@ function revealHints(node) {
   for (const li of node.children) {
     if (li.type !== "element" || li.tagName !== "li") continue;
     const kids = li.children.filter((c) => !(c.type === "text" && !c.value.trim()));
-    let label, rest;
+    let label, rest; // label: the nodes shown as the summary
+    const t = (value) => ({ type: "text", value });
     if (kids[0]?.tagName === "strong") {
-      // "**Part of speech:** it is a noun." or "**Pangram** (8 letters, starts with P): clue."
+      // "**Part of speech:** it is a noun.", "**Pangram** (8 letters, starts with P): clue." or
+      // "**1-Across** (5 letters), *clue*: hint." (the summary keeps the quoted clue in italics).
       const strong = text(kids[0]).trim();
       const tail = kids.slice(1);
-      if (strong.endsWith(":")) { label = strong.slice(0, -1); rest = tail; }
-      else if (tail[0]?.type === "text" && /^\s*\([^)]*\):/.test(tail[0].value)) {
-        const m = tail[0].value.match(/^\s*(\([^)]*\)):\s*/);
-        label = `${strong} ${m[1]}`;
-        rest = [{ type: "text", value: tail[0].value.slice(m[0].length) }, ...tail.slice(1)];
+      const k = tail.findIndex((n) => n.type === "text" && n.value.includes(":"));
+      if (strong.endsWith(":")) { label = [t(strong.slice(0, -1))]; rest = tail; }
+      else if (k >= 0) {
+        const at = tail[k].value.indexOf(":");
+        label = [t(`${strong}`), ...tail.slice(0, k), t(tail[k].value.slice(0, at).replace(/,\s*$/, ""))];
+        rest = [t(tail[k].value.slice(at + 1)), ...tail.slice(k + 1)];
       }
     } else if (kids[0]?.type === "text") {
       const m = kids[0].value.match(/^\s*([^:]{2,40}):\s*/);
-      if (m) { label = m[1]; rest = [{ type: "text", value: kids[0].value.slice(m[0].length) }, ...kids.slice(1)]; }
+      if (m) { label = [t(m[1])]; rest = [t(kids[0].value.slice(m[0].length)), ...kids.slice(1)]; }
     }
-    if (!label || !rest?.length) continue;
+    if (!label || !rest?.length || !text({ children: rest }).trim()) continue;
     if (rest[0].type === "text") rest[0] = { ...rest[0], value: rest[0].value.replace(/^\s+/, "") };
     li.children = [{
       type: "element", tagName: "details", properties: { className: ["pz-hint"] },
       children: [
-        { type: "element", tagName: "summary", properties: {}, children: [{ type: "text", value: label }] },
+        { type: "element", tagName: "summary", properties: {}, children: label },
         { type: "element", tagName: "span", properties: {}, children: rest },
       ],
     }];
@@ -251,6 +257,21 @@ function pips(cx, cy, v) {
   const o = 13;
   const SPOTS = { 0: [], 1: [[0, 0]], 2: [[-1, -1], [1, 1]], 3: [[-1, -1], [0, 0], [1, 1]], 4: [[-1, -1], [1, -1], [-1, 1], [1, 1]], 5: [[-1, -1], [1, -1], [0, 0], [-1, 1], [1, 1]], 6: [[-1, -1], [1, -1], [-1, 0], [1, 0], [-1, 1], [1, 1]] };
   return (SPOTS[v] ?? []).map(([dx, dy]) => `<circle cx="${cx + dx * o}" cy="${cy + dy * o}" r="5.5" fill="#1f2937"/>`).join("");
+}
+
+/** The solved Mini grid: black squares, clue numbers and every answer letter. */
+function miniBoard(d) {
+  const S = 64;
+  const num = new Map(d.clues.map((c) => [c.cells[0], c.label]));
+  const cells = d.cells.map((ch, i) => {
+    const x = (i % d.width) * S, y = Math.floor(i / d.width) * S;
+    if (ch === null) return `<rect x="${x}" y="${y}" width="${S}" height="${S}" fill="#1a1a1a"/>`;
+    const n = num.has(i) ? `<text x="${x + 5}" y="${y + 16}" font-size="13" font-weight="600">${num.get(i)}</text>` : "";
+    return `<rect x="${x}" y="${y}" width="${S}" height="${S}" fill="#fff" stroke="#1a1a1a" stroke-width="2"/>${n}<text x="${x + S / 2}" y="${y + S / 2 + 12}" text-anchor="middle" font-size="32" font-weight="700">${esc(ch)}</text>`;
+  }).join("");
+  const label = `Solved Mini Crossword grid, ${d.width} by ${d.height}`;
+  const svg = `<svg class="pz-svg pz-mini" viewBox="-2 -2 ${d.width * S + 4} ${d.height * S + 4}" role="img" aria-label="${esc(label)}"><g font-family="Sora,sans-serif" fill="#1a1a1a">${cells}</g></svg>`;
+  return figure("pz-minigrid", svg, `The filled grid, with each clue number in its first square. ${FROM_DATA}`);
 }
 
 /** Spelling Bee honeycomb: the center letter in yellow, the six outer letters around it. */

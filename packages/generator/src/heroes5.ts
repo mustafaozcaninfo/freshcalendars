@@ -248,6 +248,9 @@ export const PUZZLE_HEROES: [string, string, string, string, string, string, str
   ["nyt-connections-hints-answers-november-11-2026-1249", "connections", "#2a1a2e", "#ba81c5", "Connections #1249 · Wed., Nov. 11, 2026", "Connections hints", "Gentle hints for every group first, answers only at the end."],
   ["nyt-strands-hints-answers-november-11-2026-983", "strands", "#0f2f3a", "#aedfee", "Strands #983 · Wed., Nov. 11, 2026", "Strands hints today", "Spangram and theme-word hints first, answers at the end."],
   ["nyt-pips-hints-answers-november-11-2026", "pips", "#1e293b", "#fdba74", "Pips · Wed., Nov. 11, 2026", "Pips hints today", "Hints for Easy, Medium and Hard, placements at the end."],
+  ["nyt-mini-crossword-answers-october-27-2026", "mini", "#0f1d2e", "#86efac", "NYT Mini · Tue., Oct. 27, 2026", "NYT Mini answers", "A hint for every clue first, the full grid at the end."],
+  ["quordle-hints-answers-october-27-2026-1737", "quordle", "#172033", "#38bdf8", "Quordle #1737 · Tue., Oct. 27, 2026", "Quordle hints today", "A clue for each of the four words, answers at the end."],
+  ["blossom-word-game-answers-october-27-2026", "blossom", "#2e1065", "#fde68a", "Blossom · Tue., Oct. 27, 2026", "Blossom answers", "Letters and hints first, the pangrams only at the end."],
   ["wordle-answers-2026-full-list-repeat-answers", "wordle", "#1a1a2e", "#6aaa64", "Wordle · 2026 so far", "Old answers are back", "Every 2026 answer, #1657 to #1955, and the 28 past words that returned."],
 ];
 

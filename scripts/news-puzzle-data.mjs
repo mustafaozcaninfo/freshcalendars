@@ -4,7 +4,8 @@
  * trimmed to the fields our pages use. The page checker (news-puzzle-check.mjs) and the solved-board
  * drawings (src/lib/puzzle-boards.mjs) read only these files, so CI never needs the network.
  *
- * Usage: node scripts/news-puzzle-data.mjs <from> [to] [--games wordle,connections,strands,pips,bee] [--force]
+ * Usage: node scripts/news-puzzle-data.mjs <from> [to] [--games wordle,connections,strands,pips,bee,mini] [--force]
+ *        (the Mini is saved only for the date NYT is currently serving: after about 10 p.m. ET, the next day's)
  *        node scripts/news-puzzle-data.mjs --pages     (every puzzle page in the repo that has no data yet)
  *
  * Requests go through curl, which honors HTTPS_PROXY. A date NYT has not published returns a
@@ -21,6 +22,7 @@ const URL = {
   strands: (d) => `https://www.nytimes.com/svc/strands/v2/${d}.json`,
   pips: (d) => `https://www.nytimes.com/svc/pips/v1/${d}.json`,
   bee: (d) => `https://www.nytimes.com/svc/spelling-bee/v1/${d}.json`,
+  mini: () => "https://www.nytimes.com/svc/crosswords/v6/puzzle/mini.json", // the current puzzle only
 };
 
 /** Only the fields the pages and checks use (Strands' full dictionary list is dropped). */
@@ -30,10 +32,18 @@ const TRIM = {
   strands: (j) => ({ printDate: j.printDate, clue: j.clue, spangram: j.spangram, themeWords: j.themeWords, editor: j.editor, constructors: j.constructors, startingBoard: j.startingBoard, themeCoords: j.themeCoords, spangramCoords: j.spangramCoords }),
   pips: (j) => ({ printDate: j.printDate, editor: j.editor, ...Object.fromEntries(["easy", "medium", "hard"].map((k) => [k, { constructors: j[k].constructors, dominoes: j[k].dominoes, regions: j[k].regions, solution: j[k].solution }])) }),
   bee: (j) => ({ center_letter: j.center_letter, outer_letters: j.outer_letters, pangrams: j.pangrams, answers: j.answers }),
+  mini: (j) => {
+    const b = j.body[0];
+    return {
+      publicationDate: j.publicationDate, constructors: j.constructors, width: b.dimensions.width, height: b.dimensions.height,
+      cells: b.cells.map((c) => c.answer ?? null),
+      clues: b.clues.map((c) => ({ direction: c.direction, label: c.label, text: c.text[0].plain, cells: c.cells })),
+    };
+  },
 };
 
 /** The data's own date, to make sure NYT answered for the day we asked about. */
-const DATE_OF = { wordle: (j) => j.print_date, connections: (j) => j.print_date, strands: (j) => j.printDate, pips: (j) => j.printDate, bee: () => null };
+const DATE_OF = { wordle: (j) => j.print_date, connections: (j) => j.print_date, strands: (j) => j.printDate, pips: (j) => j.printDate, bee: () => null, mini: (j) => j.publicationDate };
 
 function get(url) {
   // No --fail: an unpublished date answers 404 (Spelling Bee) or a 200 "404 page not found" body.

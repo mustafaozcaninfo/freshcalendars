@@ -23,6 +23,9 @@ export const GAMES = {
   strands: { prefix: "nyt-strands-hints-answers", name: "Strands", hub: "nyt-strands", first: "2024-03-04" },
   pips: { prefix: "nyt-pips-hints-answers", name: "Pips", hub: "nyt-pips" },
   bee: { prefix: "nyt-spelling-bee-hints-answers", name: "Spelling Bee", hub: "nyt-spelling-bee" },
+  // NYT serves only the current Mini, so its data is saved from the day it is written; pages dated
+  // before `since` were written before saving started and have no data to check against.
+  mini: { prefix: "nyt-mini-crossword-answers", name: "Mini Crossword", hub: "nyt-mini-crossword", since: "2026-10-27" },
 };
 
 /** { game, date: "YYYY-MM-DD", number } for a daily puzzle slug, or null for any other story. */
