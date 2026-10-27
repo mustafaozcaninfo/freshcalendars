@@ -69,6 +69,9 @@ server {
 		return 404;
 	}
 
+	# Removed or renamed /news/ URLs (apps/news/redirects.map); empty for every other path.
+	if (\$fc_news_redirect) { return 301 \$fc_news_redirect; }
+
 ${NEWS_LOCATION}
 	location = / {
 		try_files /index.html @fallback;
@@ -143,6 +146,9 @@ server {
 		return 404;
 	}
 
+	# Removed or renamed /news/ URLs (apps/news/redirects.map); empty for every other path.
+	if (\$fc_news_redirect) { return 301 \$fc_news_redirect; }
+
 ${NEWS_LOCATION}
 	location = / {
 		try_files /index.html @fallback;
@@ -206,6 +212,11 @@ PDF_MAP=/etc/nginx/freshcalendars/pdf-canonical.map
 mkdir -p "$(dirname "$PDF_MAP")"
 [[ -f "$PDF_MAP" ]] || : >"$PDF_MAP"
 printf 'map $uri $fc_pdf_canonical {\n\tdefault "";\n\tinclude %s;\n}\n' "$PDF_MAP" >/etc/nginx/conf.d/freshcalendars-pdf-map.conf
+# Old /news/ path -> new path for the 301 in both server blocks; installed by news-publish.sh from
+# apps/news/redirects.map.
+REDIRECT_MAP=/etc/nginx/freshcalendars/news-redirects.map
+[[ -f "$REDIRECT_MAP" ]] || : >"$REDIRECT_MAP"
+printf 'map $uri $fc_news_redirect {\n\tdefault "";\n\tinclude %s;\n}\n' "$REDIRECT_MAP" >/etc/nginx/conf.d/freshcalendars-news-redirects.conf
 
 printf '%s\n' "$HTTP_BODY" >"/etc/nginx/conf.d/domains/${DOMAIN}.conf"
 printf '%s\n' "$HTTP_BODY" >"${CONF_DIR}/nginx.conf"
