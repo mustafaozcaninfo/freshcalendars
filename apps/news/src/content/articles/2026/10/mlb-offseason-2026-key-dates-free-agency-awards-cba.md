@@ -20,7 +20,7 @@ hero:
     authorUrl: "https://www.flickr.com/people/44124370018@N01"
 summary:
   - "Per MLB.com's offseason rules guide, players become free agents the day after the World Series ends, which is Wednesday, Oct. 28 at the earliest and Sunday, Nov. 1 at the latest in 2026."
-  - "MLB.com's awards guide (Oct. 26, 2026) starts with the Gold Glove Awards on Sunday, Nov. 1 and ends with the Silver Slugger Awards on Tuesday, Nov. 17; the Most Valuable Player (MVP) award is Thursday, Nov. 12."
+  - "MLB.com's awards guide (Oct. 26, 2026) starts with the Gold Glove Awards on Sunday, Nov. 1 and ends with the Silver Slugger Awards on Tuesday, Nov. 17; the M.V.P. award is Thursday, Nov. 12."
   - "Just Baseball reports the Collective Bargaining Agreement (CBA) expires Dec. 1, 2026 at 11:59 p.m. Eastern Time (ET); MLB and the MLB Players Association have not published a 2026 calendar of other dates."
   - "Spring Training games begin Friday, Feb. 19, 2027, and Opening Day is Thursday, Mar. 25, 2027, according to MLB."
 faq:
@@ -31,7 +31,7 @@ faq:
   - q: "What is the 2026 qualifying offer?"
     a: "Not yet announced. MLB.com says the offer is set at the average salary of the top 125 highest-paid players, which was $22.025 million last offseason."
   - q: "When do the 2026 MLB awards come out?"
-    a: "From Sunday, Nov. 1 (Gold Glove Awards) to Tuesday, Nov. 17 (Silver Slugger Awards). The BBWAA MVP award is Thursday, Nov. 12, per MLB.com."
+    a: "From Sunday, Nov. 1 (Gold Glove Awards) to Tuesday, Nov. 17 (Silver Slugger Awards). The BBWAA M.V.P. award is Thursday, Nov. 12, per MLB.com."
   - q: "When does the MLB collective bargaining agreement expire?"
     a: "Just Baseball reports Dec. 1, 2026 at 11:59 p.m. ET, and The Associated Press reported the same expiration when the deal was signed in 2022."
   - q: "When is the 2026 Rule 5 Draft?"
@@ -102,7 +102,7 @@ assets:
       - ["Mon., Nov. 9, 2026", "BBWAA Rookie of the Year; GM Meetings Nov. 9-12 in Las Vegas (reported)"]
       - ["Tue., Nov. 10, 2026", "BBWAA Manager of the Year"]
       - ["Wed., Nov. 11, 2026", "BBWAA Cy Young and Relief Pitcher of the Year; All-MLB Teams; show at 9 p.m. ET"]
-      - ["Thu., Nov. 12, 2026", "BBWAA Most Valuable Player"]
+      - ["Thu., Nov. 12, 2026", "BBWAA M.V.P. Awards"]
       - ["Tue., Nov. 17, 2026", "Silver Slugger Awards"]
       - ["Fri., Nov. 20, 2026", "Non-tender deadline (reported by Just Baseball; 2025 was Nov. 21)"]
       - ["Tue., Dec. 1, 2026", "CBA expires at 11:59 p.m. ET (reported)"]
@@ -129,7 +129,7 @@ MLB.com's guide says: "Officially, players become free agents the day after the 
 | Game 6 | Fri., Oct. 30 | Sat., Oct. 31 | Wed., Nov. 4 | Wed., Nov. 4, 5 p.m. ET |
 | Game 7 | Sat., Oct. 31 | Sun., Nov. 1 | Thu., Nov. 5 | Thu., Nov. 5, 5 p.m. ET |
 
-The game dates come from the MLB Stats API schedule. Games 5 to 7 are played only if needed. The qualifying offer column is our count of the five-day window; MLB has not yet announced the 2026 deadline.
+The game dates come from the MLB Stats application programming interface (API) schedule. Games 5 to 7 are played only if needed. The qualifying offer column is our count of the five-day window; MLB has not yet announced the 2026 deadline.
 
 ## What is the 2026 qualifying offer?
 
@@ -137,7 +137,7 @@ Not yet announced. MLB.com (Aug. 8, 2026) says the offer is "set at the average 
 
 ## When are the 2026 MLB awards announced?
 
-Every date below is from MLB.com's awards guide of Oct. 26, 2026. BBWAA stands for the Baseball Writers' Association of America.
+Every date below is from MLB.com's awards guide of Oct. 26, 2026. The Baseball Writers' Association of America (BBWAA) votes on four of them.
 
 | Date | Award |
 |---|---|
@@ -146,7 +146,7 @@ Every date below is from MLB.com's awards guide of Oct. 26, 2026. BBWAA stands f
 | Mon., Nov. 9 | BBWAA Rookie of the Year |
 | Tue., Nov. 10 | BBWAA Manager of the Year |
 | Wed., Nov. 11 | BBWAA Cy Young; BBWAA Relief Pitcher of the Year; All-MLB Teams; Hank Aaron Awards; Comeback Player of the Year; Rivera/Hoffman Reliever of the Year; Edgar Martinez Outstanding Designated Hitter |
-| Thu., Nov. 12 | BBWAA Most Valuable Player (MVP) |
+| Thu., Nov. 12 | BBWAA M.V.P. Awards |
 | Tue., Nov. 17 | Silver Slugger Awards |
 
 This is the first season the BBWAA gives a Relief Pitcher of the Year award. Several of the Nov. 11 honors are announced in a show that begins at 9 p.m. ET. The Executive of the Year award is announced during the General Manager (GM) Meetings in Las Vegas. Show times for the other days are not yet announced.
@@ -164,7 +164,7 @@ Each row is labeled official (MLB or MLB.com), reported (a news outlet, not MLB)
 | Sun., Nov. 1 | Gold Glove Awards, 8:30 p.m. ET, ESPN | Official |
 | Fri., Nov. 6 | Platinum Glove and Heart & Hustle Awards | Official |
 | Mon., Nov. 9 to Thu., Nov. 12 | GM Meetings, Las Vegas | Reported (Just Baseball); MLB.com confirms Las Vegas only |
-| Mon., Nov. 9 to Thu., Nov. 12 | Rookie of the Year, Manager of the Year, Cy Young, MVP | Official |
+| Mon., Nov. 9 to Thu., Nov. 12 | Rookie of the Year, Manager of the Year, Cy Young, M.V.P. | Official |
 | Tue., Nov. 17 | Silver Slugger Awards | Official |
 | Wed., Nov. 18, 4 p.m. ET | Last year's qualifying offer accept deadline | 2025 value |
 | Fri., Nov. 20, 2026 | Non-tender deadline | Reported (Just Baseball); the 2025 deadline was Nov. 21 |
@@ -184,4 +184,4 @@ The 2026 qualifying offer amount and accept deadline, the Rule 5 Draft date, the
 
 ## Free MLB offseason dates printable
 
-Our one-page list puts free agency, the awards, the meetings, the CBA expiration and Opening Day in date order. Mark the dates on the [November 2026 printable calendar](/november-calendars.html) and the [December 2026 printable calendar](/december-calendars.html), then count down on the [March 2027 printable calendar](/march-calendars.html). For the end of the season, see [MLB Opening Day 2027](/news/mlb-opening-day-2027-date-march-25-spring-training-all-star/), and for another sport's dates, our [printable NFL schedule](/news/printable-nfl-schedule-2026-2027-pdf/).
+Our one-page list puts free agency, the awards, the meetings, the CBA expiration and Opening Day in date order. Mark the dates on the [November 2026 printable calendar](/november-calendars.html) and the [December 2026 printable calendar](/december-calendars.html), then count down on the [March 2027 printable calendar](/march-calendars.html). For the end of the season, see [MLB Opening Day 2027](/news/mlb-opening-day-2027-date-march-25-spring-training-all-star/), and for another sport's dates, our [printable National Football League (NFL) schedule](/news/printable-nfl-schedule-2026-2027-pdf/).
