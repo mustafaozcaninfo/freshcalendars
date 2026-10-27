@@ -171,6 +171,11 @@ export const KEY_DATES: KeyDate[] = [
   { date: "2026-11-12", label: "BBWAA MVP Awards", slug: "mlb-offseason-2026-key-dates-free-agency-awards-cba" },
   { date: "2026-11-11", label: "Veterans Day: federal offices closed, NYSE open", slug: "business-days-november-december-2026-working-days-calendar" },
   { date: "2026-11-27", label: "NYSE early close, 1 p.m. ET", slug: "business-days-november-december-2026-working-days-calendar" },
+  { date: "2026-11-05", label: "Canada's Eurovision vote closes, 11:59 p.m. PT", slug: "canadas-choice-eurovision-2027-vote-finalists-deadline-november-5" },
+  { date: "2026-11-08", label: "WTA Finals begin at Indian Wells", slug: "wta-finals-2026-indian-wells-dates-qualified-players-time-zones" },
+  { date: "2026-11-15", label: "WTA Finals end at Indian Wells", slug: "wta-finals-2026-indian-wells-dates-qualified-players-time-zones" },
+  { date: "2027-03-14", label: "U.S. daylight saving time starts, 2 a.m.", slug: "clock-changes-2027-when-does-daylight-saving-time-start-again-march-14" },
+  { date: "2027-03-28", label: "UK and EU clocks go forward", slug: "clock-changes-2027-when-does-daylight-saving-time-start-again-march-14" },
 ];
 
 /** Today's date in Eastern Time as YYYY-MM-DD. */
