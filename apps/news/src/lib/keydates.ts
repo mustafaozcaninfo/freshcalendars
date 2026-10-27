@@ -41,6 +41,7 @@ export const KEY_DATES: KeyDate[] = [
   { date: "2026-12-21", label: "Winter Fuel Payment: opting out for 2027 to 2028 possible from this date", slug: "winter-fuel-payment-2026-dates-amounts-35000-threshold" },
   { date: "2027-03-31", label: "Winter Fuel Payment: deadline to claim for winter 2026 to 2027", slug: "winter-fuel-payment-2026-dates-amounts-35000-threshold" },
   { date: "2026-10-28", label: "UK Budget 2026 and OBR forecast", slug: "uk-budget-2026-date-wednesday-28-october-what-time" },
+  { date: "2026-11-23", label: "Austin ISD fall break (Nov. 23-27)", slug: "austin-isd-calendar-2026-27-holidays-breaks" },
   { date: "2026-12-21", label: "Charlotte-Mecklenburg Schools (CMS) winter break begins (through Jan. 1)", slug: "charlotte-mecklenburg-schools-calendar-2026-27-breaks" },
   { date: "2027-03-29", label: "Wake County (WCPSS) traditional-calendar spring break (through Apr. 2)", slug: "wake-county-public-schools-calendar-2026-27-traditional" },
   { date: "2026-11-05", label: "Bank of England interest rate decision (MPC)", slug: "bank-of-england-interest-rate-dates-2027-mpc-5-november" },
