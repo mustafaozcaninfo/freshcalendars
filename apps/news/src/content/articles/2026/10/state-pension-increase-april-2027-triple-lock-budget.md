@@ -1,7 +1,7 @@
 ---
 title: "State Pension Increase April 2027: Triple Lock Inputs Point to at Least 3.5%, Budget Is Oct. 28"
 seoTitle: "State Pension Increase April 2027: Triple Lock Rates"
-description: "The Budget is Wed., Oct. 28, 2026. Office for National Statistics (ONS) data point to a State Pension rise of at least 3.5% in April 2027; rates not yet announced."
+description: "The Budget is Wed., Oct. 28, 2026. Office for National Statistics (ONS) data put the April 2027 State Pension rise at 3.5% or more; rates not yet set."
 type: explainer
 publishedAt: "2026-10-27T09:59:00-04:00"
 authors: [alex-morgan]
