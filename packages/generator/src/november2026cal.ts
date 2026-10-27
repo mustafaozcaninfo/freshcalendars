@@ -36,8 +36,8 @@ const OBS: Record<string, string> = {
 };
 /** Primary Moon phases, U.S. Naval Observatory, converted to Eastern Time. */
 const MOON: Record<string, { p: Phase; name: string; t: string }> = {
-  "2026-11-01": { p: "new", name: "New Moon", t: "3:28 p.m. EST" },
-  "2026-11-09": { p: "lq", name: "Last Quarter", t: "2:02 a.m. EST" },
+  "2026-11-01": { p: "lq", name: "Last Quarter", t: "3:28 p.m. EST" },
+  "2026-11-09": { p: "new", name: "New Moon", t: "2:02 a.m. EST" },
   "2026-11-17": { p: "fq", name: "First Quarter", t: "6:48 a.m. EST" },
   "2026-11-24": { p: "full", name: "Full Moon", t: "9:53 a.m. EST" },
 };
