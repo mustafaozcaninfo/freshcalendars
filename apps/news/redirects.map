@@ -1,0 +1,8 @@
+# /news/ permanent redirects for removed or renamed URLs, one per line: "~^<old path>$" <new path>;
+# nginx answers 301 for them (map $fc_news_redirect in scripts/hestia-apply-nginx-cache.sh);
+# scripts/news-publish.sh installs this file on every publish. Keys are anchored regexes (escape
+# dots) because long exact keys overflow nginx's map hash, as in the PDF canonical map. Point a
+# renamed printable at its new file and a removed one at its story; never redirect a live URL.
+"~^/news/downloads/premios-billboard-2026/premios-billboard-2026-winners\.pdf$" /news/downloads/premios-billboard-2026/premios-billboard-2026-winners-full-list.pdf;
+"~^/news/downloads/halloween-2026/halloween-witches-brew-punch-checklist-2026\.pdf$" /news/downloads/halloween-2026/halloween-witches-brew-punch-recipe-checklist-2026.pdf;
+"~^/news/downloads/nfl-2026-2027/printable-nfl-schedule-2026-2027\.pdf$" /news/printable-nfl-schedule-2026-2027-pdf/;
