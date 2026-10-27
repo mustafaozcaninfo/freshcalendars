@@ -251,6 +251,18 @@ export const PUZZLE_HEROES: [string, string, string, string, string, string, str
   ["nyt-mini-crossword-answers-october-27-2026", "mini", "#0f1d2e", "#86efac", "NYT Mini · Tue., Oct. 27, 2026", "NYT Mini answers", "A hint for every clue first, the full grid at the end."],
   ["quordle-hints-answers-october-27-2026-1737", "quordle", "#172033", "#38bdf8", "Quordle #1737 · Tue., Oct. 27, 2026", "Quordle hints today", "A clue for each of the four words, answers at the end."],
   ["blossom-word-game-answers-october-27-2026", "blossom", "#2e1065", "#fde68a", "Blossom · Tue., Oct. 27, 2026", "Blossom answers", "Letters and hints first, the pangrams only at the end."],
+  ["wordle-hint-answer-today-november-12-2026-1972", "wordle", "#121213", "#c9b458", "Wordle #1972 · Thu., Nov. 12, 2026", "Wordle hints today", "Six clues from gentle to strong, the answer only at the end."],
+  ["nyt-connections-hints-answers-november-12-2026-1250", "connections", "#1e1a3a", "#f9df6d", "Connections #1250 · Thu., Nov. 12, 2026", "Connections hints", "Gentle hints for every group first, answers only at the end."],
+  ["nyt-strands-hints-answers-november-12-2026-984", "strands", "#0f2f3a", "#aedfee", "Strands #984 · Thu., Nov. 12, 2026", "Strands hints today", "Spangram and theme-word hints first, answers at the end."],
+  ["nyt-pips-hints-answers-november-12-2026", "pips", "#1e293b", "#c4b5fd", "Pips · Thu., Nov. 12, 2026", "Pips hints today", "Hints for Easy, Medium and Hard, placements at the end."],
+  ["wordle-hint-answer-today-november-13-2026-1973", "wordle", "#121213", "#c9b458", "Wordle #1973 · Fri., Nov. 13, 2026", "Wordle hints today", "Six clues from gentle to strong, the answer only at the end."],
+  ["nyt-connections-hints-answers-november-13-2026-1251", "connections", "#0f2a3a", "#b0c4ef", "Connections #1251 · Fri., Nov. 13, 2026", "Connections hints", "Gentle hints for every group first, answers only at the end."],
+  ["nyt-strands-hints-answers-november-13-2026-985", "strands", "#0f2f3a", "#aedfee", "Strands #985 · Fri., Nov. 13, 2026", "Strands hints today", "Spangram and theme-word hints first, answers at the end."],
+  ["nyt-pips-hints-answers-november-13-2026", "pips", "#1e293b", "#fda4af", "Pips · Fri., Nov. 13, 2026", "Pips hints today", "Hints for Easy, Medium and Hard, placements at the end."],
+  ["wordle-hint-answer-today-november-14-2026-1974", "wordle", "#121213", "#c9b458", "Wordle #1974 · Sat., Nov. 14, 2026", "Wordle hints today", "Six clues from gentle to strong, the answer only at the end."],
+  ["nyt-connections-hints-answers-november-14-2026-1252", "connections", "#2a1a2e", "#a0c35a", "Connections #1252 · Sat., Nov. 14, 2026", "Connections hints", "Gentle hints for every group first, answers only at the end."],
+  ["nyt-strands-hints-answers-november-14-2026-986", "strands", "#0f2f3a", "#aedfee", "Strands #986 · Sat., Nov. 14, 2026", "Strands hints today", "Spangram and theme-word hints first, answers at the end."],
+  ["nyt-pips-hints-answers-november-14-2026", "pips", "#1e293b", "#93c5fd", "Pips · Sat., Nov. 14, 2026", "Pips hints today", "Hints for Easy, Medium and Hard, placements at the end."],
   ["wordle-answers-2026-full-list-repeat-answers", "wordle", "#1a1a2e", "#6aaa64", "Wordle · 2026 so far", "Old answers are back", "Every 2026 answer, #1657 to #1955, and the 28 past words that returned."],
 ];
 
