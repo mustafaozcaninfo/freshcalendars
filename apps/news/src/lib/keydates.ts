@@ -176,6 +176,13 @@ export const KEY_DATES: KeyDate[] = [
   { date: "2026-11-15", label: "WTA Finals end at Indian Wells", slug: "wta-finals-2026-indian-wells-dates-qualified-players-time-zones" },
   { date: "2027-03-14", label: "U.S. daylight saving time starts, 2 a.m.", slug: "clock-changes-2027-when-does-daylight-saving-time-start-again-march-14" },
   { date: "2027-03-28", label: "UK and EU clocks go forward", slug: "clock-changes-2027-when-does-daylight-saving-time-start-again-march-14" },
+  { date: "2026-10-28", label: "Statue of Liberty: 140 years since its Oct. 28, 1886, dedication", slug: "statue-of-liberty-140th-anniversary-october-28-2026-timeline-visit" },
+  { date: "2026-11-06", label: "FA Cup first round: Oxford City v Leicester City, 7.45pm GMT (2:45 p.m. ET)", slug: "fa-cup-first-round-2026-27-fixtures-tv-picks-kickoff-times" },
+  { date: "2026-11-09", label: "FA Cup second round draw, live on TNT Sports", slug: "fa-cup-first-round-2026-27-fixtures-tv-picks-kickoff-times" },
+  { date: "2026-11-01", label: "College basketball opens: Notre Dame v Villanova in Rome, 9:30 a.m. ET", slug: "college-basketball-2026-27-key-dates-season-start-march-madness-printable" },
+  { date: "2026-11-10", label: "Champions Classic at the United Center, Chicago", slug: "college-basketball-2026-27-key-dates-season-start-march-madness-printable" },
+  { date: "2027-03-14", label: "Selection Sunday for the 2027 NCAA tournaments", slug: "college-basketball-2026-27-key-dates-season-start-march-madness-printable" },
+  { date: "2027-04-05", label: "NCAA men's championship game, Ford Field, Detroit", slug: "college-basketball-2026-27-key-dates-season-start-march-madness-printable" },
 ];
 
 /** Today's date in Eastern Time as YYYY-MM-DD. */
