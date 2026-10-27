@@ -26,6 +26,7 @@ The build adds the shortcut bar, the tap-to-reveal hints and the boards (`apps/n
 | Strands | the 6×8 board with the spangram (yellow) and theme words (blue) traced | under the answer list |
 | Pips | each board (Easy, Medium, Hard) with colored regions, condition badges and every domino with its pips | under each level's placements |
 | Spelling Bee | the honeycomb of the day's letters (no answers) | in the hint grid section |
+| Mini Crossword | the filled grid with clue numbers | under the answer table |
 
 What we add that most results lack: the drawn solved boards, Pips placements checked cell by cell, trap explanations for Connections, the Spelling Bee hint grid with points and Genius, and yesterday's solution on the same page. Keep adding: a fact others missed (a repeated Wordle answer, a double letter, a rare pangram) belongs in the summary.
 
@@ -45,6 +46,8 @@ What we add that most results lack: the drawn solved boards, Pips placements che
    - Pips: generate the placement lines and the region list from the data (the `pipsValues`/`pipsRegionOk` helpers in `apps/news/src/lib/puzzles.mjs`), never by hand. Each line is `- a-b: <cell of a> = a, <cell of b> = b`, in the data's order. If a domino can be flipped without breaking a rule, say so, and still print the data's placement.
    - Every hint must be true for the data: count letters, check which word repeats a letter, check traps against the actual groups. Read each hint against the answer before moving on.
    - Answers only in the spoiler section and the spoiler FAQ, never in the title, description, summary or hero.
+   - The Mini: NYT serves only the current puzzle (the next day's from about 10 p.m. ET), so save it with `pnpm news:puzzle-data <date> --games mini` the evening it appears. Hint lines keep the shape `- **1-Across** (5 letters), *clue as printed*: hint.`; the check compares the quoted clue and the letter count with the data.
+   - Quote official wording exactly (group names, entries, clues). The writing audit skips that quoted text when it is capitalized as printed, but checks every word we write around it.
 
 4. **Hero**: add one row per page to `PUZZLE_HEROES` in `packages/generator/src/heroes5.ts` (vary the accent so no two match) and run `pnpm fc news-heroes5 --only <date-part>`. Look at one or two.
 
@@ -61,7 +64,7 @@ What we add that most results lack: the drawn solved boards, Pips placements che
 
 ## Checking existing dates ("are the Oct. 28 pages ready?")
 
-Run `pnpm news:puzzle-check <date-part>` (for example `october-28`). It lists any page that disagrees with the saved data. A page without saved data fails with the exact `news:puzzle-data` command to run. Games with no dated official data (the Mini, Quordle, Blossom, Contexto, LinkedIn games, Connections: Sports Edition) are not in the check; follow `docs/PUZZLES.md` for their sources (two published solutions that agree, or today's data for the Mini).
+Run `pnpm news:puzzle-check <date-part>` (for example `october-28`). It lists any page that disagrees with the saved data. A page without saved data fails with the exact `news:puzzle-data` command to run. Games with no official data we can save (Quordle, Blossom, Contexto, LinkedIn games, Connections: Sports Edition) are not in the check; follow `docs/PUZZLES.md` for their sources (two published solutions that agree, or today's data for the Mini).
 
 ## Adding a game to the check and the boards
 

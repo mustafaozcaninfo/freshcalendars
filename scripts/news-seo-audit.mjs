@@ -7,6 +7,7 @@
 import { existsSync, readFileSync, readdirSync, statSync } from "node:fs";
 import path from "node:path";
 import { fileURLToPath } from "node:url";
+import { loadPuzzle, puzzleOf } from "../apps/news/src/lib/puzzles.mjs";
 
 const ROOT = path.resolve(path.dirname(fileURLToPath(import.meta.url)), "..");
 const dist = path.resolve(process.argv[2] ?? path.join(ROOT, "dist/news"));
@@ -182,8 +183,28 @@ const BANNED_EN = ["delve", "tapestry", "testament", "interplay", "intricate", "
   "navigate", "navigating", "elevate", "embark", "unleash", "unlock", "harness", "bustling", "vibrant", "ever-evolving", "game-changer", "cutting-edge",
   "dive in", "dive into", "in today's digital world", "it's important to note", "it is important to note", "when it comes to", "in conclusion", "moreover", "furthermore"];
 const words = (u) => mainText(html[u]).toLowerCase();
+/**
+ * Text a daily puzzle page quotes verbatim from the official puzzle data (Connections group names
+ * and entries, clues), lowercased. It is the publisher's wording, not ours, so the writing-style
+ * checks skip it; everything we write around it is still checked.
+ */
+const officialText = (u) => {
+  const p = puzzleOf(u.split("/").filter(Boolean).at(-1) ?? "");
+  const d = p && loadPuzzle(p.game, p.date);
+  if (!d) return [];
+  if (p.game === "connections") return d.categories.flatMap((c) => [c.title, ...c.cards.map((x) => x.content)]).map((s) => s.toLowerCase());
+  if (p.game === "mini") return d.clues.map((c) => c.text.toLowerCase());
+  if (p.game === "strands") return [d.clue.toLowerCase()];
+  return [];
+};
+// Only the quoted form is skipped: capitalized as the puzzle prints it ("Cutting-Edge"), never the
+// same words in lowercase running text, which is ours.
+const ownWords = (u) => officialText(u).reduce(
+  (t, s) => t.replace(new RegExp(s.replace(/[.*+?^${}()|[\]\\]/g, "\\$&"), "gi"), (m) => (m === m.toLowerCase() ? m : " ")),
+  mainText(html[u]),
+).toLowerCase();
 check("02-BANNED-WORDS", "No banned AI-tell words/phrases in article or policy text (§02 B l.603)", () =>
-  each(urls.filter((u) => !/\/page\/\d+\/$/.test(u)), (u) => { const hit = BANNED_EN.filter((w) => new RegExp(`\\b${w.replace(/[-']/g, ".")}\\b`).test(words(u))); return hit.length ? hit.join(", ") : null; }));
+  each(urls.filter((u) => !/\/page\/\d+\/$/.test(u)), (u) => { const text = ownWords(u); const hit = BANNED_EN.filter((w) => new RegExp(`\\b${w.replace(/[-']/g, ".")}\\b`).test(text)); return hit.length ? hit.join(", ") : null; }));
 check("02-EMDASH", "Em-dash overuse avoided (≤2 per article) (§02 B l.605)", () =>
   each(articleUrls, (u, h) => {
     const prose = (h.match(/<div class="prose-news[^>]*>([\s\S]*?)<\/div>/)?.[1] ?? "") + (h.match(/<p class="news-lede[^>]*>([\s\S]*?)<\/p>/)?.[1] ?? "");
