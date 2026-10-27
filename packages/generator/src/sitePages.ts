@@ -2105,8 +2105,9 @@ RewriteRule ^printable/monthly/[0-9]{4}/(january|february|march|april|may|june|j
   <FilesMatch "\\.(pdf)$">
     Header set Cache-Control "public, max-age=2592000, stale-while-revalidate=604800"
   </FilesMatch>
+  # HTML: short in browsers so a deploy reaches returning visitors; long at Cloudflare (purged on deploy).
   <FilesMatch "\\.(html)$">
-    Header set Cache-Control "public, max-age=604800, stale-while-revalidate=2592000"
+    Header set Cache-Control "public, max-age=300, stale-while-revalidate=3600"
     Header set CDN-Cache-Control "public, max-age=2678400"
   </FilesMatch>
   # /news/ (apps/news, published every 15 min): short TTLs; hashed /news/_astro/ files are immutable.
