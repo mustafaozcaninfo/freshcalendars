@@ -4,9 +4,10 @@ seoTitle: "Christmas 2026: Days Until Dec. 25 and Printable"
 description: "Christmas Day 2026 is Friday, Dec. 25. Get a live countdown in your time zone, a December 2026 calendar with holidays and a free printable of key dates."
 type: explainer
 publishedAt: "2026-10-24T00:50:00-04:00"
+updatedAt: "2026-10-27T03:03:00-04:00"
 authors: [alex-morgan]
 category: holidays
-keywords: ["christmas 2026 calendar printable", "how many days until christmas 2026", "what day is christmas 2026", "december 2026 calendar with holidays"]
+keywords: ["christmas 2026 calendar printable", "how many days until christmas 2026", "what day is christmas 2026", "christmas 2026 calendar"]
 dateline: "New York"
 assets:
   scene: winter-holidays
@@ -201,4 +202,4 @@ The next federal holiday after Christmas is New Year's Day, which falls on Frida
 
 ## Free printable December 2026 calendar
 
-The printable puts Christmas, Hanukkah, Advent and every mailing and enrollment deadline on one US Letter page, with an ink-saver version for a home printer. It is a static sheet, so check the clock above if a date changes, and it uses no third-party art. For a plain month layout, the [December 2026 printable calendar](/december-calendars.html) has several designs, and the [printable yearly calendar](/printable-yearly-calendar.html) shows all of 2026 on one page. The date in other years is on [when is Christmas Day](/when-is/christmas-day/).
+The printable puts Christmas, Hanukkah, Advent and every mailing and enrollment deadline on one US Letter page, with an ink-saver version for a home printer. It is a static sheet, so check the clock above if a date changes, and it uses no third-party art. For a plain month layout, the [December 2026 printable calendar](/december-calendars.html) has several designs, our [16 December 2026 calendar templates](/news/december-2026-calendar-printable/) include a Dec. 1 to 25 countdown sheet, and the [printable yearly calendar](/printable-yearly-calendar.html) shows all of 2026 on one page. The date in other years is on [when is Christmas Day](/when-is/christmas-day/).

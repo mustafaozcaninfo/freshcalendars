@@ -1,12 +1,13 @@
 ---
-title: "December 2026 Calendar With Holidays: Hanukkah, the Solstice, Christmas and Every Deadline, Days Until Each"
+title: "December 2026 Holidays and Key Dates: Hanukkah, the Solstice, Christmas and Every Deadline, Days Until Each"
 seoTitle: "December 2026 Holidays: Calendar With Every Key Date"
 description: "Holidays in December 2026: Hanukkah from Dec. 4, the solstice Dec. 21, Christmas on Friday, Dec. 25, plus shipping and enrollment deadlines and days until each."
 type: explainer
 publishedAt: "2026-10-24T17:00:00-04:00"
+updatedAt: "2026-10-27T03:03:00-04:00"
 authors: [jordan-bennett]
 category: calendar-guides
-keywords: ["December 2026 calendar with holidays", "December 2026 holidays", "December 2026 important dates", "days until Christmas 2026", "Christmas 2026 day of week"]
+keywords: ["December 2026 holidays", "December 2026 important dates", "holidays in December 2026", "days until Christmas 2026", "Christmas 2026 day of week"]
 dateline: "New York"
 hero:
   src: ../../../../assets/news/december-2026-important-dates-holidays-days-until/december-2026-important-dates-holidays-days-until.jpg
@@ -154,4 +155,4 @@ Christmas Day, Friday, Dec. 25, is a federal holiday, so federal offices, banks 
 
 ## Print the December calendar
 
-Our free one-page December 2026 Important Dates Calendar marks Hanukkah, the solstice, the Cold Moon, Christmas and every deadline above on a month grid, with space for your own plans. For the holiday weekends themselves, see [when Christmas Eve falls](/when-is/christmas-eve/) and [when New Year's Eve falls](/when-is/new-years-eve/) on our calendar pages.
+Our free one-page December 2026 Important Dates Calendar marks Hanukkah, the solstice, the Cold Moon, Christmas and every deadline above on a month grid, with space for your own plans. For more designs, there are [16 free December 2026 calendar templates](/news/december-2026-calendar-printable/), from a Christmas countdown to a Hanukkah calendar. For the holiday weekends themselves, see [when Christmas Eve falls](/when-is/christmas-eve/) and [when New Year's Eve falls](/when-is/new-years-eve/) on our calendar pages.

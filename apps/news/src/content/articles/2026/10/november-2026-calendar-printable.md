@@ -4,6 +4,10 @@ seoTitle: "November 2026 Calendar: 14 Free Printables With Holidays"
 description: "November 2026 starts on Sunday, Nov. 1, when clocks fall back, and has two federal holidays. Get 14 free printable November 2026 calendars as PDF or image."
 type: explainer
 publishedAt: "2026-10-26T05:20:00-04:00"
+updatedAt: "2026-10-27T03:00:00-04:00"
+corrections:
+  - date: "2026-10-27T03:00:00-04:00"
+    text: "An earlier version swapped two Moon phases. The Moon is at last quarter on Sun., Nov. 1 and new on Mon., Nov. 9, per the U.S. Naval Observatory; the moon phase sheet and daily list are corrected."
 authors: [jordan-bennett]
 category: calendar-guides
 keywords: ["november 2026 calendar", "november 2026 calendar printable", "printable november 2026 calendar pdf", "november 2026 blank calendar", "november 2026 thanksgiving calendar"]
@@ -25,7 +29,7 @@ faq:
   - q: "How many working days are in November 2026?"
     a: "November 2026 has 21 weekdays. Taking out Veterans Day and Thanksgiving leaves 19 working days for federal employees. Many private employers also give the Friday after Thanksgiving off, which leaves 18."
   - q: "When is the full moon in November 2026?"
-    a: "Tuesday, Nov. 24, 2026 at 9:53 a.m. EST, according to the U.S. Naval Observatory. It is often called the Beaver Moon. The new moon is Sunday, Nov. 1 at 3:28 p.m. EST."
+    a: "Tuesday, Nov. 24, 2026 at 9:53 a.m. EST, according to the U.S. Naval Observatory. It is often called the Beaver Moon. The new moon is Monday, Nov. 9 at 2:02 a.m. EST."
   - q: "Is there a Friday the 13th in November 2026?"
     a: "Yes. Nov. 13, 2026 is a Friday. It is the third and last Friday the 13th of 2026, after Feb. 13 and March 13."
   - q: "Are these November 2026 calendars free to print?"
@@ -130,9 +134,9 @@ downloads:
     pages: 1
   - group: "November 2026 calendar templates"
     title: "November 2026 Moon Phase Calendar"
-    description: "November 2026 calendar with the new moon, last quarter, first quarter and full Beaver Moon drawn on their days, with U.S. Naval Observatory times."
+    description: "November 2026 calendar with the last quarter, new moon, first quarter and full Beaver Moon drawn on their days, with U.S. Naval Observatory times."
     preview: ../../../../assets/news/november-2026-calendar/november-2026-moon-phase-calendar.png
-    alt: "November 2026 moon phase calendar with new moon Nov. 1, last quarter Nov. 9, first quarter Nov. 17 and full moon Nov. 24"
+    alt: "November 2026 moon phase calendar with last quarter Nov. 1, new moon Nov. 9, first quarter Nov. 17 and full moon Nov. 24"
     pdf: "/news/downloads/november-2026-calendar/november-2026-moon-phase-calendar.pdf"
     png: "/news/downloads/november-2026-calendar/november-2026-moon-phase-calendar.png"
     pages: 1
@@ -218,11 +222,11 @@ Only Veterans Day and Thanksgiving are federal holidays. The rest of the table l
 | Fri., Oct. 30 | November Supplemental Security Income (SSI) paid early, because Nov. 1 is a Sunday | Social Security Administration (SSA) |
 | Sun., Nov. 1, 2 a.m. | Daylight saving time ends; clocks fall back 1 hour | NIST |
 | Sun., Nov. 1 | HealthCare.gov open enrollment for 2027 plans begins | HealthCare.gov |
-| Sun., Nov. 1, 3:28 p.m. EST | New moon | U.S. Naval Observatory (USNO) |
+| Sun., Nov. 1, 3:28 p.m. EST | Last quarter Moon | U.S. Naval Observatory (USNO) |
 | Tue., Nov. 3 | Election Day; Social Security for people paid on the 3rd | State election offices; SSA |
 | Night of Nov. 4-5 | Southern Taurid meteor shower peak | American Meteor Society |
 | Sun., Nov. 8 | Diwali | See our [Diwali 2026](/news/diwali-2026-date-lakshmi-puja-time-usa/) story |
-| Mon., Nov. 9, 2:02 a.m. EST | Last quarter Moon | USNO |
+| Mon., Nov. 9, 2:02 a.m. EST | New moon | USNO |
 | Tue., Nov. 10 | Social Security payment, birthdays on the 1st to 10th | SSA |
 | Wed., Nov. 11 | Veterans Day, federal holiday | OPM |
 | Night of Nov. 11-12 | Northern Taurid meteor shower peak | American Meteor Society |
@@ -302,9 +306,9 @@ The month on top and Thanksgiving week below it, one lined box a day from Sunday
 
 ### 8. November 2026 Moon Phase Calendar
 
-Each primary phase is drawn in its box with its time in Eastern Standard Time (EST), from the U.S. Naval Observatory (USNO): new moon Sunday, Nov. 1, last quarter Monday, Nov. 9, first quarter Tuesday, Nov. 17 and the full Beaver Moon Tuesday, Nov. 24.
+Each primary phase is drawn in its box with its time in Eastern Standard Time (EST), from the U.S. Naval Observatory (USNO): last quarter Sunday, Nov. 1, new moon Monday, Nov. 9, first quarter Tuesday, Nov. 17 and the full Beaver Moon Tuesday, Nov. 24.
 
-<a class="tpl" href="/news/downloads/november-2026-calendar/november-2026-moon-phase-calendar.pdf"><img title="Download November 2026 Moon Phase Calendar (PDF)" src="/news/downloads/november-2026-calendar/november-2026-moon-phase-calendar.webp" alt="November 2026 moon phase calendar with new moon Nov. 1, last quarter Nov. 9, first quarter Nov. 17 and full moon Nov. 24" width="1100" height="1424" loading="lazy" decoding="async"></a>
+<a class="tpl" href="/news/downloads/november-2026-calendar/november-2026-moon-phase-calendar.pdf"><img title="Download November 2026 Moon Phase Calendar (PDF)" src="/news/downloads/november-2026-calendar/november-2026-moon-phase-calendar.webp" alt="November 2026 moon phase calendar with last quarter Nov. 1, new moon Nov. 9, first quarter Nov. 17 and full moon Nov. 24" width="1100" height="1424" loading="lazy" decoding="async"></a>
 
 [Download the November 2026 Moon Phase Calendar PDF](/news/downloads/november-2026-calendar/november-2026-moon-phase-calendar.pdf) · [PNG image](/news/downloads/november-2026-calendar/november-2026-moon-phase-calendar.png) · Moon phases, US Letter, one page.
 
