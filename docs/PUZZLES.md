@@ -50,6 +50,10 @@ All of these return JSON or HTML to a plain request (no login, no bot challenge)
 
 A date returns a "404 page not found" body (with HTTP 200) until NYT publishes it, so check the body, not the status code.
 
+## Daily routines
+
+Two scheduled routines write the daily pages: official-data games every evening, published-solution games every morning. Schedules, setup steps and the full prompts: `docs/PUZZLE-ROUTINES.md`.
+
 ## Saved data and the answer check
 
 Every page for Wordle, Connections, Strands, Pips and Spelling Bee has its official data saved in `apps/news/src/content/puzzles/<game>/<date>.json` (`pnpm news:puzzle-data <from> [to]`). `pnpm news:puzzle-check` compares each page with it and CI runs it on every push, so a wrong answer or placement cannot publish. The build draws the solved boards from the same files. Method: `.claude/skills/news-puzzles/SKILL.md`.

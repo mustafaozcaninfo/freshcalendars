@@ -30,6 +30,8 @@ The build adds the shortcut bar, the tap-to-reveal hints and the boards (`apps/n
 
 What we add that most results lack: the drawn solved boards, Pips placements checked cell by cell, trap explanations for Connections, the Spelling Bee hint grid with points and Genius, and yesterday's solution on the same page. Keep adding: a fact others missed (a repeated Wordle answer, a double letter, a rare pangram) belongs in the summary.
 
+Two scheduled routines run this workflow every day (`docs/PUZZLE-ROUTINES.md`): official-data games at 10:23 p.m. ET, published-solution games at 7:17 a.m. ET. A hand-run session should check open pull requests first so it does not write the same dates.
+
 ## Workflow (one session, a batch of days)
 
 1. **See what is missing.** Pages are scheduled ahead: Wordle, Connections, Strands and Pips several days out; Spelling Bee as far as its data goes. List what exists per game and date, and what NYT has published:
