@@ -63,6 +63,7 @@ export default defineConfig({
   base: "/news",
   trailingSlash: "always",
   output: "static",
+  image: { service: { entrypoint: fileURLToPath(new URL("./src/lib/image-service.mjs", import.meta.url)) } },
   outDir: "../../dist/news",
   compressHTML: true,
   build: {
