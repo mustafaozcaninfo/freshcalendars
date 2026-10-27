@@ -4,11 +4,13 @@ seoTitle: "Thanksgiving Football 2026: NFL and College Games"
 description: "Every Thanksgiving weekend 2026 football game, Wed., Nov. 25 to Sat., Nov. 28, in one Eastern Time (ET) table: National Football League (NFL) and college."
 type: news
 publishedAt: "2026-10-23T15:00:00-04:00"
-updatedAt: "2026-10-24T01:40:00-04:00"
+updatedAt: "2026-10-27T03:30:00-04:00"
 authors: [alex-morgan]
 corrections:
   - date: "2026-10-24T01:40:00-04:00"
     text: "An earlier version said no Thanksgiving week halftime performers had been announced. The NFL had announced U2 for the Thanksgiving Eve game."
+  - date: "2026-10-27T03:30:00-04:00"
+    text: "An earlier version said the Nebraska at Iowa kickoff time and television network were not yet announced. Iowa Athletics had already set an 11 a.m. Central Time (noon Eastern) kickoff on CBS on May 27, 2026."
 category: holidays
 keywords: ["Thanksgiving football schedule 2026", "college football Thanksgiving weekend 2026", "Black Friday football games 2026", "rivalry week 2026 schedule"]
 dateline: "New York"
@@ -31,9 +33,9 @@ assets:
       - ["Thu., Nov. 26, 4:30 p.m.", "Eagles at Cowboys, NFL · FOX"]
       - ["Thu., Nov. 26, 8:20 p.m.", "Chiefs at Bills, NFL · NBC"]
       - ["Fri., Nov. 27, 12 noon", "Egg Bowl: Mississippi State at Ole Miss (11 a.m. CT) · ABC"]
+      - ["Fri., Nov. 27, 12 noon", "Nebraska at Iowa (11 a.m. CT), Kinnick Stadium · CBS"]
       - ["Fri., Nov. 27, 3 p.m.", "Broncos at Steelers, NFL Black Friday game · Prime Video"]
       - ["Fri., Nov. 27, 7:30 p.m.", "Lone Star Showdown: Texas at Texas A&M (6:30 p.m. CT) · ABC"]
-      - ["Fri., Nov. 27, TBA", "Nebraska at Iowa, kickoff and TV not yet announced"]
       - ["Sat., Nov. 28, 12 noon", "The Game: Michigan at Ohio State · FOX"]
       - ["Sat., Nov. 28, TBA", "Iron Bowl: Auburn at Alabama, time and TV not yet announced"]
       - ["Sat., Nov. 28, TBA", "Georgia Tech at Georgia, time and TV not yet announced"]
@@ -85,6 +87,10 @@ sources:
     url: "https://hawkeyesports.com/news/2026/05/8/iowa-to-play-2-friday-football-games-in-2026"
     publisher: "Iowa Athletics"
     date: "2026-05-08"
+  - title: "Start Times, TV Announced For Select Football Games"
+    url: "https://hawkeyesports.com/news/2026/05/27/start-times-tv-announced-for-select-football-games-26"
+    publisher: "Iowa Athletics"
+    date: "2026-05-27"
   - title: "Television windows announced for 2026 football season"
     url: "https://12thman.com/news/2026/6/10/television-windows-announced-for-2026-football-season"
     publisher: "Texas A&M Athletics"
@@ -130,7 +136,7 @@ downloads:
 draft: false
 ---
 
-<p class="callout"><b>Updated Sat., Oct. 24, 2026.</b> The NFL has announced that U2 will headline the halftime show of the first Thanksgiving Eve game, Packers at Rams, on Wednesday, Nov. 25, live on Netflix. The Thanksgiving Day halftime performers have not been announced.</p>
+<p class="callout"><b>Last updated Tue. Oct. 27, 2026, 3:30 a.m. ET.</b> Nebraska at Iowa on Friday, Nov. 27 kicks off at 11 a.m. Central Time (noon Eastern) on CBS; Iowa Athletics set the start time and network on May 27, 2026. U2 headlines the Thanksgiving Eve halftime show, Packers at Rams, live on Netflix; the Thanksgiving Day halftime performers have not been announced.</p>
 
 **Thanksgiving weekend 2026 runs four days of football, from Wednesday, Nov. 25 to Saturday, Nov. 28, and this story puts every game, professional and college, in one Eastern Time (ET) table.** The National Football League (NFL) owns Thursday; college football takes over on Friday and Saturday.
 
@@ -145,9 +151,9 @@ Where a source gives a Central Time (CT) kickoff, both times are shown. Two of t
 | Thu., Nov. 26, 4:30 p.m. | Eagles at Cowboys (NFL) | FOX |
 | Thu., Nov. 26, 8:20 p.m. | Chiefs at Bills (NFL) | NBC |
 | Fri., Nov. 27, 12 noon | Egg Bowl: Mississippi State at Ole Miss | ABC |
+| Fri., Nov. 27, 12 noon | Nebraska at Iowa | CBS |
 | Fri., Nov. 27, 3 p.m. | Broncos at Steelers (NFL, Black Friday) | Prime Video |
 | Fri., Nov. 27, 7:30 p.m. | Lone Star Showdown: Texas at Texas A&M | ABC |
-| Fri., Nov. 27, to be announced | Nebraska at Iowa | Not yet announced |
 | Sat., Nov. 28, 12 noon | The Game: Michigan at Ohio State | FOX |
 | Sat., Nov. 28, to be announced | Iron Bowl: Auburn at Alabama | Not yet announced |
 | Sat., Nov. 28, to be announced | Georgia Tech at Georgia | Not yet announced |
@@ -168,7 +174,7 @@ Black Friday has grown into a day of college rivalries.
 
 - **Egg Bowl: Mississippi State at Ole Miss, 11 a.m. CT / noon ET, ABC.** The 123rd meeting runs at Vaught-Hemingway Stadium in Oxford, Mississippi, per Mississippi State Athletics. It is the second straight year the Egg Bowl has opened Black Friday at 11 a.m. and the seventh Friday meeting in the series.
 - **Lone Star Showdown: Texas at Texas A&M, 6:30 p.m. CT / 7:30 p.m. ET, ABC.** Texas A&M Athletics listed the kickoff in its television windows release. The game is at Kyle Field in College Station.
-- **Nebraska at Iowa, kickoff and television not yet announced.** Iowa Athletics has confirmed the game as one of its two Friday dates in 2026, at Kinnick Stadium in Iowa City, but the start time and network are still open.
+- **Nebraska at Iowa, 11 a.m. CT / noon ET, CBS.** Iowa's regular-season finale is at Kinnick Stadium in Iowa City. Iowa Athletics announced the 11 a.m. Central kickoff and the CBS broadcast on May 27, 2026.
 
 ## Saturday rivalry weekend, Nov. 28
 
