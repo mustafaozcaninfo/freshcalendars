@@ -30,8 +30,6 @@ faq:
     a: "As of Oct. 27, the WTA's singles race page marks eight players Qualified: Elena Rybakina, Aryna Sabalenka, Mirra Andreeva, Jessica Pegula, Coco Gauff, Elina Svitolina, Karolina Muchova and Linda Noskova."
   - q: "What time do WTA Finals matches start?"
     a: "Not yet announced. The WTA's order of play page said \"Order of Play Not Available Yet\" on Oct. 27. The conversion table in this story uses example start times only."
-  - q: "Who won the WTA Finals in 2025?"
-    a: "Elena Rybakina beat Aryna Sabalenka 6-3, 7-6(0) in the final in Riyadh on Nov. 8, 2025, Reuters reported via The National. Rybakina is the defending champion."
   - q: "What channel shows the WTA Finals 2026?"
     a: "The WTA has not posted broadcast details on the tournament page we read. Check your local listings."
 sources:
@@ -50,10 +48,9 @@ sources:
     url: "https://www.wtatennis.com/tournaments/808/wta-finals/2026/order-of-play"
     publisher: "Women's Tennis Association (WTA)"
     date: "2026-10-27"
-  - title: "Rybakina beats Sabalenka in the 2025 WTA Finals final in Riyadh"
-    url: "https://www.wtatennis.com/tournaments/808/wta-finals/2026"
-    publisher: "Reuters via The National"
-    date: "2025-11-08"
+  - title: "WTA Finals Riyadh 2025 Scores"
+    url: "https://www.wtatennis.com/tournaments/808/wta-finals/2025/scores"
+    publisher: "Women's Tennis Association (WTA)"
 downloads:
   - group: "WTA Finals 2026 Tracker printables"
     title: "WTA Finals 2026 Tracker, Nov. 8-15, Indian Wells"
@@ -140,7 +137,7 @@ The WTA says the top eight singles players and doubles teams on the Race to the 
 
 The WTA lists no country code for Sabalenka and Andreeva, who appear as neutral athletes. The doubles field is not covered here because we did not confirm it.
 
-In 2025, Rybakina beat Sabalenka 6-3, 7-6(0) in the final in Riyadh on Nov. 8, according to Reuters via The National, so Rybakina is the defending champion. The 2025 edition was in Riyadh, and the WTA says the 2026 Finals are at Indian Wells.
+The 2025 edition was in Riyadh, and the WTA says the 2026 Finals are at Indian Wells.
 
 ## What time do WTA Finals matches start?
 
