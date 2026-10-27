@@ -39,7 +39,7 @@ internalLinks:
 related: [wordle-hint-answer-today-november-14-2026-1974, nyt-strands-hints-answers-november-14-2026-986, nyt-pips-hints-answers-november-14-2026]
 draft: false
 ---
-**Today's Connections from The New York Times (NYT) is puzzle #1252, for Saturday, Nov. 14, 2026, edited by Wyna Liu.** One group is words for cutting-edge, one is words for the buildings of an institution, one is strategy board games, and one is baby gear with its first letter changed. Battle sounds like it belongs with the strategy games, and Complex sounds like a word for advanced. Below are two levels of hints for each color, then the full solution and an explanation of the tricky words in a marked spoiler section.
+**Today's Connections from The New York Times (NYT) is puzzle #1252, for Saturday, Nov. 14, 2026, edited by Wyna Liu.** One group is words for being ahead of the times, one is words for the buildings of an institution, one is strategy board games, and one is baby gear with its first letter changed. Battle sounds like it belongs with the strategy games, and Complex sounds like a word for advanced. Below are two levels of hints for each color, then the full solution and an explanation of the tricky words in a marked spoiler section.
 
 ## Today's 16 words
 
@@ -73,7 +73,7 @@ Sort the 16 entries into four groups of four. You can make four mistakes. The gr
 
 ## Solving tips
 
-Start with the board games: Chess, Go, Othello and Stratego. Battle sounds like it belongs there, but it is not a game title. Next, find the places: Campus, Center, Complex and Facility. Complex could also describe something advanced, so watch it. Advanced, Foremost, Modern and Progressive form the cutting-edge group. The four left over are baby gear in disguise: change one letter at the start of each.
+Start with the board games: Chess, Go, Othello and Stratego. Battle sounds like it belongs there, but it is not a game title. Next, find the places: Campus, Center, Complex and Facility. Complex could also describe something advanced, so watch it. Advanced, Foremost, Modern and Progressive form the group for being ahead of the times. The four left over are baby gear in disguise: change one letter at the start of each.
 
 Keep a streak log on our [printable weekly calendar](/printable-weekly-calendar.html) or the [November 2026 printable calendar](/november-calendars.html).
 

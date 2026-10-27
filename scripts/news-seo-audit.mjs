@@ -392,6 +392,8 @@ check("08-ABBREV", "Abbreviations defined on first use in article prose (§08 l.
       const a = m[1]; if (seen.has(a) || COMMON.has(a)) continue; seen.add(a);
       // Date-format patterns such as YYDDD or YYYY-DDD are not abbreviations.
       if (/^[YMD-]+$/.test(a)) continue;
+      // A word spelled out letter by letter ("C-H-E-E-S-E", as quoted from a crossword clue) is not an abbreviation.
+      if (/^(?:[A-Z]-){2,}[A-Z]$/.test(a)) continue;
       const at = m.index; const around = text.slice(Math.max(0, at - 120), at + a.length + 2);
       if (!around.includes(`(${a})`) && !new RegExp(`\\(${a}\\)`).test(text.slice(0, at + a.length + 2))) undefined_.push(a);
     }
