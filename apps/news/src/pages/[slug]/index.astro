@@ -503,6 +503,9 @@ const keyDates = upcomingFor(new Set([article.id]));
   .prose-news :global(h3){font-family:Sora,"Sora Fallback",sans-serif;font-size:1.1rem;line-height:1.3;margin:1.5rem 0 .5rem;color:var(--ink-strong)}
   .prose-news :global(ul){padding-left:1.25rem;margin:0 0 1.1rem}
   .prose-news :global(li){margin:.35rem 0}
+  /* Markdown task lists render disabled checkboxes at the browser's 13px; size them to read as a checklist. */
+  .prose-news :global(li.task-list-item){list-style:none}
+  .prose-news :global(li.task-list-item input){width:20px;height:20px;margin:0 .5rem 0 0;vertical-align:-.3em;accent-color:var(--focus)}
   .prose-news :global(p){margin:0 0 1.1rem}
   .prose-news :global(a){color:var(--focus)}
   /* Wide tables scroll inside their own box instead of being clipped on phones. */
