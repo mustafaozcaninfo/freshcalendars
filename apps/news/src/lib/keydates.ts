@@ -151,6 +151,10 @@ export const KEY_DATES: KeyDate[] = [
   { date: "2026-11-21", label: "Start thawing a 16-20 lb turkey in the fridge (Nov. 21-22)", slug: "when-to-thaw-thanksgiving-turkey-2026" },
   { date: "2026-12-09", label: "USPS: send-by date for international gifts (Priority Mail International)", slug: "usps-holiday-shipping-deadlines-2026" },
   { date: "2027-01-15", label: "ACA open enrollment for 2027 ends", slug: "aca-open-enrollment-2027-dates-november-1-january-15" },
+  { date: "2026-11-24", label: "California king tides (Nov. 24-26)", slug: "king-tides-2026-dates-this-week-high-tide-times" },
+  { date: "2026-12-23", label: "California king tides (Dec. 23-25)", slug: "king-tides-2026-dates-this-week-high-tide-times" },
+  { date: "2026-11-21", label: "Las Vegas Grand Prix: race 11 p.m. ET", slug: "las-vegas-grand-prix-2026-schedule-race-time-by-time-zone" },
+  { date: "2027-05-15", label: "Eurovision 2027 grand final, Burgas", slug: "eurovision-2027-dates-burgas-semi-finals-grand-final-may-15" },
 ];
 
 /** Today's date in Eastern Time as YYYY-MM-DD. */
