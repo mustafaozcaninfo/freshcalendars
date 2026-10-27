@@ -4,7 +4,7 @@ seoTitle: "Toothpaste Recall 2026: Brush Buddies, evo, Aru"
 description: "The Food and Drug Administration (FDA) classified a toothpaste recall as Class II on Oct. 19, 2026. Brush Buddies, evo and Aru: what outlets report, what to do."
 type: news
 publishedAt: "2026-10-25T13:10:00-04:00"
-updatedAt: "2026-10-26T06:02:00-04:00"
+updatedAt: "2026-10-27T10:05:00-04:00"
 authors: [alex-morgan]
 category: planning
 keywords: ["toothpaste recall 2026", "Brush Buddies toothpaste recall", "evo toothpaste recall", "FDA toothpaste recall"]
@@ -112,7 +112,7 @@ downloads:
 draft: false
 ---
 
-<p class="callout"><b>Updated Oct. 26, 2026.</b> We added the full brand list, sizes, expiration range and manufacturer details from NBC News (Oct. 23), FOX 4 (Oct. 21) and Deseret News (Oct. 22). The FDA record is still not in the openFDA data feed, which was last updated Oct. 14, 2026, and the FDA Enforcement Report page loads only in a web browser. Lot numbers and Universal Product Code (UPC) numbers remain not yet available from the FDA record.</p>
+<p class="callout"><b>Updated Oct. 27, 2026.</b> We checked the openFDA drug enforcement feed again. It was updated Oct. 21, 2026, and that week's five new recall entries do not include this toothpaste recall. The brand list, sizes, expiration range and manufacturer details come from NBC News (Oct. 23), FOX 4 (Oct. 21) and Deseret News (Oct. 22). The FDA Enforcement Report page loads only in a web browser. and the FDA Enforcement Report page loads only in a web browser. Lot numbers and Universal Product Code (UPC) numbers remain not yet available from the FDA record.</p>
 
 **The Food and Drug Administration (FDA) classified a recall of toothpaste sold under the Brush Buddies, Crayola, Hot Wheels and My Little Pony brands as Class II on Oct. 19, 2026, according to NBC News.** NBC News and FOX 4 both reported more than 4.3 million tubes, and FOX 4 added evo, Aru and BB to the brand list. Every detail below comes from those outlets and Deseret News, since the FDA record itself is not yet in the openFDA feed. Lot numbers and UPC numbers are not yet available from the FDA record.
 
@@ -143,13 +143,13 @@ draft: false
 
 ## What is not confirmed yet?
 
-The FDA record is not in the openFDA data feed, which was last updated Oct. 14, 2026, and the FDA Enforcement Report page loads only in a web browser. These points stay open until the FDA record can be checked.
+The FDA record is not in the openFDA data feed, which was last updated Oct. 21, 2026, and the FDA Enforcement Report page loads only in a web browser. These points stay open until the FDA record can be checked.
 
 | Open question | Status |
 |---|---|
 | Lot numbers and UPCs | Not yet available from the FDA record. Deseret News said not all lots are recalled |
 | Refunds and returns | NBC News reported that neither the manufacturer nor the distributor has issued public guidance |
-| FDA public data feed | The openFDA feed was last updated Oct. 14, 2026, before the Oct. 19 classification |
+| FDA public data feed | The openFDA feed was last updated Oct. 21, 2026; its Oct. 21 entries do not include this recall |
 
 ## What does Class II mean?
 
@@ -160,9 +160,9 @@ The FDA's recall definitions describe Class II as a situation where use of the p
 | Date | Event | Source |
 |---|---|---|
 | Sept. 10, 2026 | Pritam International Private Limited starts the recall voluntarily | NBC News; Deseret News |
-| Oct. 14, 2026 | openFDA feed last updated | openFDA |
 | Oct. 19, 2026 | FDA classifies the recall as Class II | NBC News |
 | Oct. 21-23, 2026 | FOX 4 (Oct. 21), Deseret News (Oct. 22) and NBC News (Oct. 23) publish reports | FOX 4; Deseret News; NBC News |
+| Oct. 21, 2026 | openFDA feed last updated, recall not listed | openFDA |
 
 ## What should you do with the toothpaste?
 
