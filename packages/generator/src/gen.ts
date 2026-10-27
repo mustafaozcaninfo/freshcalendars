@@ -41,10 +41,12 @@ import {
   resolveEntryYear,
   htaccessContent,
   renderNotFoundHtml,
+  renderConceptHubs,
   splitVolatile,
   writeSitePage,
   writeSitemap,
 } from "./sitePages.js";
+import { ensureStudioAssets, ensureOtherPaperAssets, ensureYearlyStudio } from "./studio.js";
 
 export type GenOptions = {
   years: number[];
@@ -230,6 +232,10 @@ export async function generateAll(opts: GenOptions): Promise<{ metas: SeoMeta[] 
   }
 
   const entries = collectEntries(years);
+  const studioYears = Array.from({ length: 5 }, (_, i) => planningYear + i);
+  await ensureStudioAssets(studioYears);
+  await ensureYearlyStudio(studioYears);
+  await ensureOtherPaperAssets();
   const metas: SeoMeta[] = [];
   const lastmodState = await readLastmodState();
   const nextLastmod: LastmodState = {};
@@ -250,6 +256,11 @@ export async function generateAll(opts: GenOptions): Promise<{ metas: SeoMeta[] 
     if (!opts.skipOg) await writeOgForMeta(meta);
     await writeSitePage(entryToRelPath(entry), html);
     metas.push(meta);
+  }
+  const home = metas.find(m => m.pageId === "home")!;
+  for (const page of renderConceptHubs(home, today)) {
+    if (!opts.skipOg || !await fs.stat(path.join(DIST, page.meta.ogImagePath)).then(() => true).catch(() => false)) await writeOgForMeta(page.meta);
+    await writeSitePage(page.file, page.html); await writeJson(path.join(DIST_META, `${page.meta.pageId}.json`), page.meta); metas.push(page.meta);
   }
   await writeJson(LASTMOD_STATE, nextLastmod);
 
@@ -322,6 +333,7 @@ export async function generateAll(opts: GenOptions): Promise<{ metas: SeoMeta[] 
   await fs.access(logoSrc);
   await fs.mkdir(path.join(DIST_SITE, "img"), { recursive: true });
   await fs.copyFile(logoSrc, path.join(DIST_SITE, "img", "fresh-logo.png"));
+  await fs.cp(path.join(ROOT, "brand/design"), path.join(DIST_SITE, "img/design"), { recursive: true });
   const lockup = path.join(ROOT, "brand/logo.png");
   try {
     await fs.copyFile(lockup, path.join(DIST_SITE, "logo.png"));

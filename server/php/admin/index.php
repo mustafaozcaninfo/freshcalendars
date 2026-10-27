@@ -27,7 +27,7 @@ $rows = $pdo->query(
     'SELECT id, name, email, subject, message, ip, created_at, is_read FROM contact_messages ORDER BY id DESC LIMIT 100',
 )->fetchAll();
 ?><!doctype html>
-<html lang="en">
+<html lang="en" data-design-version="concept-v3" data-design-layout="admin">
 <head>
 <meta charset="utf-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1" />

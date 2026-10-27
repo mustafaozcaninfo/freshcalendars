@@ -18,6 +18,7 @@ import ArticleAside from "../../components/ArticleAside.astro";
 import ShareBar from "../../components/ShareBar.astro";
 import PreferredSource from "../../components/PreferredSource.astro";
 import ShareIcons from "../../components/ShareIcons.astro";
+import NewsBar from "../../components/NewsBar.astro";
 import StoryNav from "../../components/StoryNav.astro";
 import { authorHref, getPublishedArticles, lastModified, type Article } from "../../lib/articles";
 import { authorImage, heroImages } from "../../lib/images";
@@ -131,6 +132,7 @@ const keyDates = upcomingFor(new Set([article.id]));
   section={category.id}
 >
   <div class="progress" aria-hidden="true"><span></span></div>
+  <NewsBar section={category.id} />
   <div class="article-layout">
   <article class="news-wrap article">
     <Breadcrumb items={[
@@ -142,12 +144,14 @@ const keyDates = upcomingFor(new Set([article.id]));
     <p class="kicker" data-cat={category.id}><a href={categoryPath(category.id)}>{category.data.name}</a></p>
     <h1 class={d.title.length > 80 ? "long" : undefined}>{d.title}</h1>
     <p class="news-lede">{d.description}</p>
-    <ArticleMeta
-      authors={authors.map((a) => ({ name: a.data.name, href: authorPath(a.id) }))}
+    <div class="article-byline-row"><ArticleMeta
+      authors={authors.map((a) => ({ name: a.data.name, href: authorPath(a.id), photo: a.data.photo }))}
       publishedAt={d.publishedAt}
       modifiedAt={modifiedAt}
       readingMinutes={minutes}
     />
+    <ShareBar url={absNewsUrl(articlePath(article.id))} title={d.title} image={shareImage} compact />
+    </div>
     <Hero src={d.hero.src} alt={d.hero.alt} title={d.hero.title ?? d.title} caption={d.hero.caption} credit={d.hero.credit} license={d.hero.license} />
     <AdSlot unit={6} variant="top" />
     <KeyPoints points={d.summary} />
@@ -182,7 +186,7 @@ const keyDates = upcomingFor(new Set([article.id]));
     <StoryNav section={{ name: category.data.name, href: categoryPath(category.id) }} more={more} newer={newer} older={older} />
     {endAd && <AdSlot unit={5} />}
   </article>
-  <ArticleAside headings={headings} downloads={d.downloads.length} url={absNewsUrl(articlePath(article.id))} title={d.title} image={shareImage} />
+  <ArticleAside headings={headings} downloads={d.downloads.length} url={absNewsUrl(articlePath(article.id))} title={d.title} image={shareImage} related={related.slice(0,4)} />
   <ShareIcons />
   </div>
   <script is:inline>
@@ -487,14 +491,14 @@ const keyDates = upcomingFor(new Set([article.id]));
 
 <style>
   .article .kicker{margin:0 0 .6rem}
-  .article .kicker a{display:inline-block;padding:.18rem .65rem;border-radius:999px;background:color-mix(in srgb,var(--cat) 10%,#fff);color:var(--cat)!important;font-size:.75rem;font-weight:800;text-transform:uppercase;letter-spacing:.07em;text-decoration:none}
+  .article .kicker a{display:inline-block;padding:.18rem .65rem;border-radius:999px;background:color-mix(in srgb,var(--cat) 10%,var(--paper));color:var(--cat)!important;font-size:.75rem;font-weight:800;text-transform:uppercase;letter-spacing:.07em;text-decoration:none}
   .article .news-lede{margin-bottom:1rem}
-  .topic-links{display:flex;flex-wrap:wrap;align-items:center;gap:.25rem 1rem;margin:2rem 0 0;padding:.85rem 1rem;border-left:4px solid var(--gold);background:#fffdf3;border-radius:0 8px 8px 0}
+  .topic-links{display:flex;flex-wrap:wrap;align-items:center;gap:.25rem 1rem;margin:2rem 0 0;padding:.85rem 1rem;border-left:4px solid var(--gold);background:var(--surface-warm);border-radius:0 8px 8px 0}
   .topic-links span{flex-basis:100%;font-size:.75rem;font-weight:700;text-transform:uppercase;letter-spacing:.08em;color:var(--ink)}
   .topic-links a{display:inline-flex;align-items:center;min-height:44px;font-weight:700}
   .jump{margin:-.5rem 0 1.25rem;font-weight:700}
   .jump a{display:inline-flex;align-items:center;min-height:44px}
-  .prose-news{font-family:"Source Sans 3","Source Sans 3 Fallback",ui-sans-serif,system-ui,sans-serif;font-size:1.125rem;line-height:1.7;color:var(--ink-strong)}
+  .prose-news{font-family:"Source Sans 3","Source Sans 3 Fallback",ui-sans-serif,system-ui,sans-serif;font-size:1.0625rem;line-height:1.7;color:var(--ink-strong)}
   .prose-news :global(h2){font-family:Sora,"Sora Fallback",sans-serif;font-size:1.35rem;line-height:1.3;margin:2rem 0 .75rem;color:var(--ink-strong);scroll-margin-top:5rem}
   .prose-news :global(h3){font-family:Sora,"Sora Fallback",sans-serif;font-size:1.1rem;line-height:1.3;margin:1.5rem 0 .5rem;color:var(--ink-strong)}
   .prose-news :global(ul){padding-left:1.25rem;margin:0 0 1.1rem}
@@ -506,38 +510,39 @@ const keyDates = upcomingFor(new Set([article.id]));
   .prose-news :global(th),.prose-news :global(td){border-bottom:1px solid var(--n-border);padding:.6rem .7rem;text-align:left;vertical-align:top}
   .prose-news :global(th){background:var(--n-brand-soft);color:var(--ink-strong);font-weight:800;font-size:.9rem;white-space:nowrap}
   .prose-news :global(tbody tr:nth-child(even) td){background:#fafbfd}
-  .prose-news :global(tbody tr:hover td){background:#fff8e1}
+  .prose-news :global(tbody tr:hover td){background:var(--surface-warm)}
   .prose-news :global(tbody tr:last-child td){border-bottom:0}
   /* Phones: wide tables scroll inside their own box instead of being clipped. */
   /* Phones: tables scroll in their own box; headers may wrap so one long header cannot squeeze the first column to a word per line. */
-  @media (max-width:640px){ .prose-news :global(table){display:block;overflow-x:auto} .prose-news :global(th){white-space:normal} .prose-news :global(th),.prose-news :global(td){padding:.5rem .55rem} }
+  @media (max-width:1023px){ .prose-news :global(table){display:block;overflow-x:auto} }
+  @media (max-width:640px){ .prose-news :global(th){white-space:normal} .prose-news :global(th),.prose-news :global(td){padding:.5rem .55rem} }
   .prose-news :global(blockquote){margin:1.25rem 0;padding:.75rem 1.1rem;border-left:4px solid var(--n-brand);background:var(--n-soft);border-radius:0 var(--n-radius) var(--n-radius) 0}
   /* Freshness note at the top of a running list (raw HTML in the story). */
-  .prose-news :global(.callout){margin:0 0 1.25rem;padding:.85rem 1rem;border:2px solid var(--gold);border-left-width:6px;border-radius:10px;background:#fffbea;font-size:1rem;line-height:1.5}
+  .prose-news :global(.callout){margin:0 0 1.25rem;padding:.85rem 1rem;border:2px solid var(--gold);border-left-width:6px;border-radius:10px;background:var(--surface-warm);font-size:1rem;line-height:1.5}
   /* ZIP finder (raw HTML inside the sample ballot story). */
   /* Reader tools: the ZIP finder and the story tools (data-ssa-payday, data-state-finder, data-tz-gap,
      data-days-until). Story tools stay hidden until the article script fills them. */
-  .prose-news :global(.zip-finder),.prose-news :global(.tool-box){margin:0 0 1.25rem;padding:1rem 1.1rem;border:1px solid #c7dbf0;border-left:4px solid var(--focus);border-radius:var(--n-radius);background:var(--n-brand-soft)}
+  .prose-news :global(.zip-finder),.prose-news :global(.tool-box){margin:0 0 1.25rem;padding:1rem 1.1rem;border:1px solid var(--line);border-left:4px solid var(--focus);border-radius:var(--n-radius);background:var(--n-brand-soft)}
   .prose-news :global(.zip-finder){display:flex;flex-wrap:wrap;align-items:flex-end;gap:.6rem}
   .prose-news :global(.zip-finder label){flex:1 0 100%;font-weight:700;font-size:1rem}
-  .prose-news :global(.zip-finder input){flex:1 1 9rem;min-height:48px;font:inherit;font-size:1.15rem;padding:.4rem .75rem;border:1px solid #9fb3c8;border-radius:8px;background:#fff;color:var(--ink-strong);letter-spacing:.08em}
+  .prose-news :global(.zip-finder input){flex:1 1 9rem;min-height:48px;font:inherit;font-size:1.15rem;padding:.4rem .75rem;border:1px solid #a6b6aa;border-radius:8px;background:#fff;color:var(--ink-strong);letter-spacing:.08em}
   .prose-news :global(.zip-finder button){min-height:48px;padding:0 1.1rem;font:700 1rem/1 "Source Sans 3","Source Sans 3 Fallback",sans-serif;color:#fff;background:var(--focus);border:0;border-radius:8px;cursor:pointer}
-  .prose-news :global(.zip-finder button:hover){background:#00365d}
+  .prose-news :global(.zip-finder button:hover){background:var(--focus)}
   .prose-news :global(.zip-out){flex:1 0 100%;margin:0;font-size:1rem;min-height:1.5em}
-  .prose-news :global(tbody tr.zip-hit td){background:#fff7d6}
+  .prose-news :global(tbody tr.zip-hit td){background:var(--surface-warm)}
   .prose-news :global(.tool-box){margin-inline:0}
   .prose-news :global(.tool-box label){display:block;font-weight:700;font-size:1rem;margin:0 0 .35rem;color:var(--ink-strong)}
   /* Native arrows sit flush against the edge and differ per browser, so draw one chevron everywhere. */
-  .prose-news :global(.tool-box select){display:block;width:100%;max-width:26rem;min-height:48px;margin:0 0 .85rem;padding:.5rem 2.75rem .5rem .8rem;font:inherit;font-size:1.05rem;line-height:1.3;color:var(--ink-strong);background:#fff url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 16'%3E%3Cpath d='M3.5 6l4.5 4.5L12.5 6' fill='none' stroke='%23004a7f' stroke-width='2' stroke-linecap='round' stroke-linejoin='round'/%3E%3C/svg%3E") no-repeat right .85rem center/16px 16px;border:1px solid #9fb3c8;border-radius:8px;-webkit-appearance:none;appearance:none;cursor:pointer;text-overflow:ellipsis}
+  .prose-news :global(.tool-box select){display:block;width:100%;max-width:26rem;min-height:48px;margin:0 0 .85rem;padding:.5rem 2.75rem .5rem .8rem;font:inherit;font-size:1.05rem;line-height:1.3;color:var(--ink-strong);background:#fff url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 16'%3E%3Cpath d='M3.5 6l4.5 4.5L12.5 6' fill='none' stroke='%231e493e' stroke-width='2' stroke-linecap='round' stroke-linejoin='round'/%3E%3C/svg%3E") no-repeat right .85rem center/16px 16px;border:1px solid #a6b6aa;border-radius:8px;-webkit-appearance:none;appearance:none;cursor:pointer;text-overflow:ellipsis}
   .prose-news :global(.tool-box select::-ms-expand){display:none}
   .prose-news :global(.tool-box select:hover),.prose-news :global(.zip-finder input:hover){border-color:var(--focus)}
-  .prose-news :global(.tool-box select:focus-visible),.prose-news :global(.zip-finder input:focus-visible),.prose-news :global(.zip-finder button:focus-visible){outline:3px solid #f5cc3e;outline-offset:2px;border-color:var(--focus)}
+  .prose-news :global(.tool-box select:focus-visible),.prose-news :global(.zip-finder input:focus-visible),.prose-news :global(.zip-finder button:focus-visible){outline:3px solid var(--focus);outline-offset:2px;border-color:var(--focus)}
   .prose-news :global(.tool-box [hidden]){display:none}
   .prose-news :global(.tool-title){font-weight:700;margin:0 0 .6rem;color:var(--ink-strong)}
   .prose-news :global(.tool-out){display:block}
-  .prose-news :global(.tool-out p){margin:.45rem 0 0;padding:.6rem .8rem;font-size:1.02rem;line-height:1.5;background:#fff;border:1px solid var(--n-border);border-radius:8px}
+  .prose-news :global(.tool-out p){margin:.45rem 0 0;padding:.6rem .8rem;font-size:1.02rem;line-height:1.5;background:var(--paper);border:1px solid var(--n-border);border-radius:8px}
   .prose-news :global(.tool-out p:first-child){margin-top:0}
-  .prose-news :global(.tool-out table){width:100%;margin:.6rem 0 0;background:#fff}
+  .prose-news :global(.tool-out table){width:100%;margin:.6rem 0 0;background:var(--paper)}
   .prose-news :global(.tool-out td:first-child){white-space:nowrap}
   .prose-news :global(.days-live){font-size:1rem;font-weight:700;margin:0 0 .6rem;padding:.55rem .8rem;border-left:4px solid var(--focus);background:var(--n-brand-soft);border-radius:0 8px 8px 0}
   /* Launch clock digits: fixed-width figures so the numbers do not shift as they tick. */
@@ -551,27 +556,27 @@ const keyDates = upcomingFor(new Set([article.id]));
   .prose-news :global(.tool-btns a.tb-main){background:var(--focus);color:#fff}
   .prose-news :global(.tool-btns a:hover){box-shadow:0 4px 10px rgba(0,74,127,.2)}
   .prose-news :global(.tool-out .tool-note){font-size:.92rem;color:var(--ink)}
-  .prose-news :global(tbody tr.is-bye td){background:#eef2f7;font-weight:700}
+  .prose-news :global(tbody tr.is-bye td){background:var(--surface-soft);font-weight:700}
   .prose-news :global(.pick-row){display:grid;grid-template-columns:repeat(auto-fit,minmax(10rem,1fr));gap:0 .75rem}
   .prose-news :global(.pick-row > div:first-child){grid-column:1/-1}
   .prose-news :global(.pick-row > div:first-child select){max-width:none}
   .prose-news :global([data-nfl-team] .tool-out td:nth-child(2)){white-space:nowrap}
   .prose-news :global(.tool-box select:disabled){opacity:.75;cursor:default}
   /* tbody in the selector so highlights beat the zebra stripe on even rows. */
-  .prose-news :global(tbody tr.is-next td){background:#fff7d6;font-weight:700}
+  .prose-news :global(tbody tr.is-next td){background:var(--surface-warm);font-weight:700}
   .prose-news :global(tbody tr.is-past td){color:#6b7280}
   /* Daily puzzle pages (src/lib/puzzle-boards.mjs): shortcut bar, tap-to-reveal hints, solved boards. */
   .prose-news :global(.pz-nav ul){display:flex;flex-wrap:wrap;gap:.5rem;margin:0 0 1.25rem;padding:0;list-style:none}
   .prose-news :global(.pz-nav li){margin:0}
-  .prose-news :global(.pz-nav a){display:inline-flex;align-items:center;min-height:44px;padding:0 1rem;border:1px solid var(--n-border);border-radius:999px;background:#fff;color:var(--focus);font-weight:700;font-size:.95rem;text-decoration:none;box-shadow:var(--n-shadow)}
-  .prose-news :global(.pz-nav a.pz-go){background:var(--focus);border-color:var(--focus);color:#fff}
+  .prose-news :global(.pz-nav a){display:inline-flex;align-items:center;min-height:44px;padding:0 1rem;border:1px solid var(--n-border);border-radius:999px;background:var(--paper);color:var(--focus);font-weight:700;font-size:.95rem;text-decoration:none;box-shadow:var(--n-shadow)}
+  .prose-news :global(.pz-nav a.pz-go){background:var(--focus);border-color:var(--focus);color:var(--paper)}
   .prose-news :global(.pz-nav a:hover){box-shadow:var(--n-shadow-h)}
   .prose-news :global(details.pz-hint summary){display:flex;flex-wrap:wrap;align-items:center;gap:.25rem .6rem;min-height:44px;cursor:pointer;font-weight:700;color:var(--ink-strong);list-style:none}
   .prose-news :global(details.pz-hint summary::-webkit-details-marker){display:none}
-  .prose-news :global(details.pz-hint summary::after){content:"Show hint";padding:.1rem .6rem;border:1px solid var(--focus);border-radius:999px;font-size:.8rem;font-weight:700;color:var(--focus);background:#fff}
+  .prose-news :global(details.pz-hint summary::after){content:"Show hint";padding:.1rem .6rem;border:1px solid var(--focus);border-radius:999px;font-size:.8rem;font-weight:700;color:var(--focus);background:var(--paper)}
   .prose-news :global(details.pz-hint[open] summary::after){content:"Hide";color:var(--ink);border-color:var(--n-border)}
-  .prose-news :global(details.pz-hint > span){display:block;margin:.1rem 0 .4rem;padding:.5rem .8rem;border-left:4px solid var(--gold);background:#fffdf3;border-radius:0 8px 8px 0}
-  .prose-news :global(.pz-board){margin:0 0 1.5rem;padding:1rem;border:1px solid var(--n-border);border-radius:var(--n-radius);background:#fff;box-shadow:var(--n-shadow)}
+  .prose-news :global(details.pz-hint > span){display:block;margin:.1rem 0 .4rem;padding:.5rem .8rem;border-left:4px solid var(--gold);background:var(--surface-warm);border-radius:0 8px 8px 0}
+  .prose-news :global(.pz-board){margin:0 0 1.5rem;padding:1rem;border:1px solid var(--n-border);border-radius:var(--n-radius);background:var(--paper);box-shadow:var(--n-shadow)}
   .prose-news :global(.pz-board figcaption){margin:.75rem 0 0;font-size:.9rem;line-height:1.45;color:var(--ink)}
   .prose-news :global(.pz-tiles){display:flex;justify-content:center;gap:.4rem;margin:0;padding:0;list-style:none}
   .prose-news :global(.pz-tiles li){display:grid;place-items:center;width:clamp(2.6rem,14vw,3.6rem);aspect-ratio:1;margin:0;border-radius:4px;background:#3f7a3a;color:#fff;font:800 clamp(1.5rem,7vw,2rem)/1 Sora,"Sora Fallback",sans-serif}
@@ -594,7 +599,7 @@ const keyDates = upcomingFor(new Set([article.id]));
   .after{display:flex;flex-wrap:wrap;justify-content:space-between;align-items:flex-end;gap:1rem;margin:2rem 0 0;padding-top:1.25rem;border-top:1px solid var(--line-soft)}
   .top-link{display:inline-flex;align-items:center;min-height:44px;font-weight:700;margin-bottom:1.25rem}
   @media (min-width:1100px){
-    .article-layout{display:grid;grid-template-columns:minmax(0,720px) 300px;gap:3rem;justify-content:center;width:min(1120px,calc(100% - 2rem));margin:0 auto}
+    .article-layout{display:grid;grid-template-columns:minmax(0,1fr) 300px;gap:40px;justify-content:center;width:min(1320px,calc(100% - 80px));margin:0 auto}
     .article-layout > .article{width:auto;margin:0}
     .article-layout :global(.aside){padding-top:clamp(1.75rem,4vw,2.75rem)}
   }
@@ -602,4 +607,22 @@ const keyDates = upcomingFor(new Set([article.id]));
     .progress,.after,:global(.aside),:global(.site-header),:global(.site-footer),:global(.ad-slot){display:none!important}
     .prose-news{font-size:11pt}
   }
+</style>
+<style>
+.article-byline-row{display:flex;align-items:center;justify-content:space-between;gap:20px;margin:22px 0 24px}
+.article-byline-row :global(.share){margin:0;flex-shrink:0}
+.article-byline-row :global(.share .tool-label){display:none}
+.article-byline-row :global(.share ul){display:flex;gap:5px;flex-wrap:wrap}
+.article-byline-row :global(.share a),.article-byline-row :global(.share button){width:25px;min-height:25px;padding:0;border:0;border-radius:4px;background:none;box-shadow:none}
+.article-byline-row :global(.share .ico){width:19px;height:19px}
+.article{padding-top:28px}
+.article h1,.article h1.long{font-size:32px;line-height:1.23;letter-spacing:-.04em;max-width:31ch}
+.article .news-lede{font-size:14px;line-height:1.65;max-width:85ch}
+.article .kicker{font-size:11px;margin-bottom:10px}
+.article :global(figure.hero){padding:0!important;background:transparent!important;border:0;margin-bottom:24px}
+.article :global(figure.hero img){border-radius:10px;width:100%;height:auto}
+.prose-news{font-size:16px;line-height:1.75}
+@media(min-width:1100px){.article-layout{width:min(1320px,calc(100% - 80px));grid-template-columns:minmax(0,1fr) 300px;gap:40px}.article-layout>.article{width:100%;max-width:none}.article-layout :global(.aside){padding-top:28px}.article :global(.hero picture){display:block}.article :global(.hero img){width:100%}}
+@media(max-width:1099px){.article{width:min(850px,calc(100% - 40px))}}
+@media(max-width:640px){.article{width:calc(100% - 32px);padding-top:22px}.article h1,.article h1.long{font-size:25px}.article .news-lede{font-size:13px}.article-byline-row{flex-wrap:wrap;gap:14px;margin:18px 0}.article-byline-row :global(.share a),.article-byline-row :global(.share button){min-width:32px;min-height:32px}.prose-news{font-size:16px}}
 </style>

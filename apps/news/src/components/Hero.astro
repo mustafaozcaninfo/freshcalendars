@@ -11,9 +11,9 @@ const { src, alt, title, caption, credit = "Illustration: Fresh Calendars", lice
     alt={alt}
     title={title}
     formats={["avif", "webp"]}
-    quality={62}
+    quality={76}
     widths={[400, 640, 828, 1080, 1344, 1600]}
-    sizes="(max-width: 752px) calc(100vw - 2rem), 720px"
+    sizes="(min-width: 1400px) 980px, (min-width: 1100px) calc(100vw - 410px), (min-width: 900px) calc(100vw - 350px), calc(100vw - 2rem)"
     loading="eager"
     fetchpriority="high"
     decoding="async"
@@ -35,6 +35,6 @@ const { src, alt, title, caption, credit = "Illustration: Fresh Calendars", lice
   .hero{margin:0 0 1.5rem}
   .hero :global(img){display:block;width:100%;height:auto;aspect-ratio:16/9;object-fit:cover;border-radius:14px;background:var(--wash);box-shadow:var(--n-shadow)}
   figcaption{font-size:.85rem;color:var(--ink);margin-top:.6rem;line-height:1.45}
-  .credit{color:#64748b}
+  .credit{color:var(--muted)}
   .credit a{color:inherit}
 </style>

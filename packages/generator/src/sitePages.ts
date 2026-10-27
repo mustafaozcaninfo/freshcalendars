@@ -53,11 +53,15 @@ import {
   esc,
   siteFooterHtml,
   siteHeaderHtml,
+  pageWorkspaceHtml,
+  iconHtml,
+  THEME_BOOT_HTML,
 } from "@freshcalendars/site-chrome";
 import { brandHeadLinks, writeBrandIcons } from "./brandIcons.js";
 import { latestNewsHtml, newsStripHtml } from "./newsLinks.js";
 import { DIST_SITE, ROOT } from "./paths.js";
 import { displayPreview2xUrl, displayPreviewUrl } from "./previews.js";
+import { homeConceptHero, homeCalendarShelf, calendarStudio, calendarLibrary, calendarTools } from "./conceptPages.js";
 
 function imgTag(opts: {
   src: string;
@@ -271,14 +275,21 @@ const LIGHTBOX_JS = `
   if(!box) return;
   var img=box.querySelector('img');
   var closeBtn=box.querySelector('.lightbox-close');
+  var previousFocus=null, previousOverflow='';
   function open(src,alt){
+    previousFocus=document.activeElement; previousOverflow=document.documentElement.style.overflow;
     img.src=src; img.alt=alt||''; img.title=alt||'';
     box.classList.add('is-open'); box.setAttribute('aria-hidden','false');
     document.documentElement.style.overflow='hidden';
+    if(!box.open) box.showModal();
+    if(closeBtn) closeBtn.focus();
   }
   function close(){
+    if(!box.open) return;
+    box.close();
     box.classList.remove('is-open'); box.setAttribute('aria-hidden','true');
-    img.removeAttribute('src'); document.documentElement.style.overflow='';
+    img.removeAttribute('src'); document.documentElement.style.overflow=previousOverflow;
+    if(previousFocus&&previousFocus.isConnected) previousFocus.focus({preventScroll:true});
   }
   function lbSrc(z){
     if(z.getAttribute('data-lightbox-src')) return z.getAttribute('data-lightbox-src');
@@ -307,6 +318,8 @@ const LIGHTBOX_JS = `
       open(lbSrc(z), lbAlt(z));
     }
   });
+  box.addEventListener('keydown',function(e){if(e.key==='Tab'&&closeBtn){e.preventDefault();closeBtn.focus();}});
+  box.addEventListener('cancel',function(e){ e.preventDefault(); close(); });
   box.addEventListener('click',function(e){ if(e.target===box) close(); });
   if(closeBtn) closeBtn.addEventListener('click',function(e){ e.stopPropagation(); close(); });
 })();
@@ -317,8 +330,13 @@ const CONTACT_JS = `
   var form=document.getElementById('contact-form');
   if(!form) return;
   var msg=document.getElementById('contact-msg');
+  var sending=false, submit=form.querySelector('button[type="submit"]');
   form.addEventListener('submit',async function(e){
     e.preventDefault();
+    if(sending) return;
+    sending=true;
+    form.setAttribute('aria-busy','true');
+    if(submit) submit.disabled=true;
     if(msg){ msg.textContent='Sending…'; msg.className='form-msg'; }
     try{
       var res=await fetch('/api/contact.php',{method:'POST',body:new FormData(form),headers:{'Accept':'application/json'}});
@@ -328,6 +346,10 @@ const CONTACT_JS = `
       if(msg){ msg.textContent='Thanks — your message was sent.'; msg.className='form-msg ok'; }
     }catch(err){
       if(msg){ msg.textContent=err&&err.message?err.message:'Could not send message.'; msg.className='form-msg err'; }
+    }finally{
+      sending=false;
+      form.removeAttribute('aria-busy');
+      if(submit) submit.disabled=false;
     }
   });
 })();
@@ -340,16 +362,19 @@ function layout(
 ): string {
   const adsEnabled = opts.ads !== false;
   const today = opts.today ?? new Date();
+  const designFamily = body.includes("data-studio>") ? "calendar-detail" : body.includes("data-library ") ? "calendar-library" : meta.pageId === "calendar-tools" ? "tools" : meta.calendar.family === "home" ? "home" : meta.pageId === "legal-contact" ? "contact" : ["legal-school-holidays", "legal-daylight-savings"].includes(meta.pageId) ? "guide" : meta.calendar.family === "legal" ? "policy" : meta.calendar.family === "holidays" ? "holiday-list" : ["holiday", "easter"].includes(meta.calendar.family) ? "holiday-date" : "guide";
+  const pageBody = pageWorkspaceHtml(body, meta.title, new URL(meta.canonical).pathname, today, designFamily);
   // Match <img srcset/sizes> so the browser preloads only the chosen density (not both 1x+2x).
   // Preload LCP preview on small screens only; desktop keeps the image below the fold (text LCP).
   const preloadImg = opts.preloadImage
     ? `<link rel="preload" as="image" media="(max-width:960px)" imagesrcset="${esc(opts.preloadImage)} 540w, ${esc(opts.preloadImage.replace(/calendar-preview\.webp/, "calendar-preview-2x.webp"))} 1080w" imagesizes="92vw" fetchpriority="high" />`
     : "";
   return `<!doctype html>
-<html lang="en" class="${familyClass(meta.calendar.family)}">
+<html lang="en" class="${familyClass(meta.calendar.family)}" data-design-version="concept-v3" data-design-layout="${designFamily}">
 <head>
 <meta charset="utf-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+${THEME_BOOT_HTML}
 <title>${esc(meta.title)}</title>
 ${brandHeadLinks()}
 <meta name="google-adsense-account" content="${ADSENSE_CLIENT}" />
@@ -361,16 +386,17 @@ ${metaTags(meta, { howTo: opts.howTo })}
 <style>${FONTS_CSS}${CSS}</style>
 </head>
 <body>
+<a class="skip-link" href="#main">Skip to content</a>
 ${siteHeaderHtml(today, { news: NEWS_LAUNCHED })}
 <main id="main">
-${body}
+${pageBody}
 ${volatile(newsStripHtml(new URL(meta.canonical).pathname))}
 </main>
 ${siteFooterHtml(today, { news: NEWS_LAUNCHED })}
-<div id="lightbox" class="lightbox" aria-hidden="true" role="dialog" aria-label="Enlarged calendar preview">
+<dialog id="lightbox" class="lightbox" aria-hidden="true" aria-label="Enlarged calendar preview">
   <button type="button" class="lightbox-close" aria-label="Close preview">Close</button>
   <img alt="" title="" />
-</div>
+</dialog>
 <script>${NAV_JS}</script>
 <script>${TODAY_JS}</script>
 <script>${LIGHTBOX_JS}</script>
@@ -506,34 +532,8 @@ function withSidebar(mainHtml: string, sideHtml: string): string {
 </div>`;
 }
 
-function downloadHero(meta: SeoMeta, visualSrc: string, eyebrow: string, lead: string): string {
-  const alt = meta.imageAlts[visualSrc] ?? meta.imageAlts[meta.download.png] ?? meta.title;
-  return `
-<section class="hero">
-  <div class="hero-inner">
-    <div class="eyebrow">${esc(eyebrow)}</div>
-    <h1>${esc(meta.title.split("|")[0]!.trim())}</h1>
-    <p class="lead">${esc(lead)}</p>
-    <div class="cta">
-      ${downloadBtn(meta.download.pdf, "Download PDF", meta.downloadTitles.pdf)}
-      ${downloadBtn(meta.download.png, "Download PNG", meta.downloadTitles.png, "ghost")}
-    </div>
-  </div>
-</section>
-<section class="wrap hero-visual-section" aria-label="Calendar preview">
-  <div class="hero-visual">
-    ${imgTag({
-      src: visualSrc,
-      alt,
-      title: alt,
-      width: 1100,
-      height: 1420,
-      loading: "eager",
-      fetchpriority: "high",
-      lightbox: true,
-    })}
-  </div>
-</section>`;
+function downloadHero(meta: SeoMeta, _visualSrc: string, _eyebrow: string, lead: string): string {
+  return calendarStudio(meta, lead);
 }
 
 function variantGallery(
@@ -639,19 +639,7 @@ function renderHome(meta: SeoMeta, today: Date): string {
   const nextYearlyPng = cdnUrl(nextYearlyPaths.png);
   const nextYearlyPdf = cdnUrl(nextYearlyPaths.pdf);
 
-  const hero = `
-<section class="hero">
-  <div class="hero-inner">
-    <div class="eyebrow">Fresh Calendars</div>
-    <h1>Printable calendars, ready for the fridge</h1>
-    <p class="lead">Fresh monthly and yearly PDFs with accurate weekdays and US holidays — made for home printers, classrooms, planners, and quiet desk walls.</p>
-    <div class="cta">
-      <a class="btn btn-primary" href="/${curSlug}-calendars.html">${curName} ${curY} calendar</a>
-      <a class="btn btn-ghost" href="/printable-calendars.html">${planningYear} yearly</a>
-      <a class="btn btn-ghost" href="/printable-yearly-calendar.html">${nextPlanning} yearly</a>
-    </div>
-  </div>
-</section>`;
+  const hero = homeConceptHero(today) + homeCalendarShelf(today);
 
   // Legacy index.php included rightmenu.php (sidebar slot 6770670949) alongside home units.
   const main = `
@@ -770,8 +758,8 @@ ${faqSection(meta)}`;
 
   return layout(
     meta,
-    `${hero}${withSidebar(main, sidebar({ title: "Browse months", today, currentSlug: curSlug }))}`,
-    { preloadImage: displayPreviewUrl(curPng) },
+    `${hero}<div class="home-more">${withSidebar(main, sidebar({ title: "Browse months", today, currentSlug: curSlug }))}</div>`,
+    {},
   );
 }
 
@@ -813,17 +801,7 @@ function schoolYearMonths(today: Date): { label: string; href: string; year: num
 function renderGuidePage(entry: UrlEntry, meta: SeoMeta, today: Date): string {
   const g = entry.guide ?? "print";
   if (g === "weekly") {
-    const hero = `
-<section class="hero"><div class="hero-inner">
-  <div class="eyebrow">Fresh Calendars · Weekly</div>
-  <h1>This week’s printable planner</h1>
-  <p class="lead">Print the current week from your browser — or grab undated weekly packs and dated monthly sheets when you need more runway.</p>
-  <div class="cta">
-    <a class="btn btn-primary" href="#week-grid" title="Jump to this week’s printable grid">Print this week</a>
-    <a class="btn btn-ghost" href="/blank-calendars.html">Blank monthly</a>
-  </div>
-</div></section>
-${adBand(ADS.inArticle, "FreshCalendars_Weekly_Top")}`;
+    const hero = calendarStudio(meta, "Free undated weekly planners for your schedule, priorities and habits. Choose a design and paper size, then download a reusable PDF or PNG.");
     const main = `
 ${variantGallery(meta, {
   heading: "Five weekly templates",
@@ -937,11 +915,9 @@ ${faqSection(meta)}`;
     const nextAssets = monthlyVariantAssetPaths(nextY, nextSlug, "monday-start");
     const curPng = cdnUrl(curAssets.png);
     const nextPng = cdnUrl(nextAssets.png);
-    const hero = `${downloadHero(
-      meta,
-      curPng,
-      "Fresh Calendars · Monday start",
+    const hero = `${calendarStudio(meta,
       "Mon–Sun monthly calendars for workweeks and classrooms — current and next month previews, then every month.",
+      {year: curY, month: curM, start: "monday"},
     )}
 ${adBand(ADS.inArticle, "FreshCalendars_Monday_Top")}`;
     const main = `
@@ -1078,7 +1054,7 @@ ${adBand(ADS.inArticle, "FreshCalendars_PrintGuide_Top")}`;
     <li>For planning drafts, start with the <strong>classic black &amp; white</strong> monthly template.</li>
   </ul>
   <h2>2. Paper &amp; orientation</h2>
-  <p>Downloads target <strong>US Letter (8.5×11&nbsp;in)</strong>. A4 works if you enable “fit to printable area.” Portrait is default for monthly sheets; landscape templates are labeled in the monthly gallery.</p>
+  <p>Choose <strong>US Letter (8.5×11&nbsp;in)</strong> or <strong>A4 (210×297&nbsp;mm)</strong> in the download panel. Each option has its own correctly sized PDF and PNG. Portrait is default for monthly sheets; landscape templates are labeled in the monthly gallery.</p>
   <h2>3. Margins that don’t clip</h2>
   <ul>
     <li>Prefer “Actual size” only when your printer’s non-printable margin is small.</li>
@@ -1238,7 +1214,7 @@ ${adUnit(ADS.blankMid, "FreshCalendars_Blank_InContent", "banner")}
 <section class="section prose">
   <h2>When blank beats dated</h2>
   <p>Blank templates shine for classrooms, bullet journals, and reusable office clipboards. Fill the month name yourself; skip holiday math until you need it.</p>
-  <p>Need a year poster without dates? Try the <a href="/printable-blank-yearly-calendar.html">blank yearly calendar</a>. For accurate weekdays, open a dated monthly page (six designs including Monday-start).</p>
+  <p>Need a year poster without dates? Try the <a href="/printable-blank-yearly-calendar.html">blank yearly calendar</a>. For accurate weekdays, open a dated monthly page (seven designs, each with a Monday-start option).</p>
   <h2>Dated months</h2>
   <div class="month-chips">${monthChips()}</div>
 </section>
@@ -1314,8 +1290,10 @@ ${faqSection(meta)}`;
         : locale === "uk"
           ? `<p>Also: <a href="/holidays/">US holidays</a> · <a href="/canada-holidays/">Canada holidays</a>.</p>`
           : `<p>Also: <a href="/holidays/">US holidays</a> · <a href="/uk-holidays/">UK holidays</a>.</p>`;
+    const countries = `<nav class="holiday-country-tabs" aria-label="Holiday country">${[["us", "/holidays/", "United States"], ["uk", "/uk-holidays/", "United Kingdom"], ["ca", "/canada-holidays/", "Canada"]].map(([id, href, name]) => `<a href="${href}"${id === locale ? ' aria-current="page"' : ""}>${name}</a>`).join("")}</nav>`;
     const hero = `
 <section class="hero"><div class="hero-inner">
+  ${countries}
   <div class="eyebrow">Fresh Calendars · ${localeLabel} Holidays</div>
   <h1>${y} ${localeLabel} holiday dates</h1>
   <p class="lead">${esc(meta.description)}</p>
@@ -1327,17 +1305,17 @@ ${faqSection(meta)}`;
 ${adBand(ADS.inArticle, "FreshCalendars_Holidays_Top")}`;
     const main = `
 <section class="section prose">
-  <h2>All ${y} ${localeLabel} dates (engine-calculated)</h2>
-  <p>Every row is computed from rules — fixed dates, nth weekdays, Easter computus, and relative offsets. Click a holiday for its own date page.</p>
+  <h2>All ${y} ${localeLabel} holidays and observances</h2>
+  <p>Browse the dates below, filter by holiday name or type, and open a holiday for future dates and planning details.</p>
   ${alsoLinks}
   <p>Print the year: <a href="/printable-calendars.html">${y} yearly</a> · <a href="/printable-yearly-calendar.html">${y + 1} yearly</a> · <a href="/printable-school-calendar.html">school year hub</a>.</p>
-  <div class="table-scroll" role="region" aria-label="${y} holidays table" tabindex="0">
-  <table class="hol-table">
+  <div data-holiday-filter><div class="holiday-toolbar"><label>${iconHtml("search")}<input type="search" data-holiday-query placeholder="Find a holiday…" aria-label="Find a holiday"></label><label>Type<select data-holiday-kind><option value="">All types</option>${[...new Set(list.map(h => h.kind))].map(kind => `<option value="${esc(kind)}">${esc(kind)}</option>`).join("")}</select></label><button type="button" data-holiday-reset>Reset filters</button></div><p class="holiday-result" data-holiday-count aria-live="polite">${list.length} dates</p><div class="table-scroll" role="region" aria-label="${y} holidays table" tabindex="0">
+  <table class="hol-table" data-holiday-table>
     <thead><tr><th>Holiday</th><th>Type</th><th>Date</th></tr></thead>
     <tbody>
       ${list
         .map(
-          (h) => `<tr>
+          (h) => `<tr data-holiday-row data-name="${esc(h.name.toLowerCase())}" data-kind="${esc(h.kind)}">
         <td><a href="${holidayWhenIsPath(h.slug)}" title="When is ${esc(h.name)} ${y}?">${esc(h.name)}</a></td>
         <td><span class="kind-pill">${esc(h.kind)}</span></td>
         <td>${esc(h.formatted)}</td>
@@ -1346,7 +1324,7 @@ ${adBand(ADS.inArticle, "FreshCalendars_Holidays_Top")}`;
         .join("")}
     </tbody>
   </table>
-  </div>
+  </div><p data-holiday-empty hidden>No holidays match. Try another name or type.</p></div>
 </section>
 ${adUnit(ADS.holiday, "FreshCalendars_New_Holidays", "banner")}
 ${faqSection(meta)}`;
@@ -1371,6 +1349,9 @@ ${faqSection(meta)}`;
     const def = holidayDefBySlug(slug);
     if (!def) throw new Error(`Unknown holiday ${slug}`);
     const h = resolveHoliday(def, y);
+    const dayKey = h.iso.replaceAll("-", "");
+    const endDate = new Date(Date.UTC(h.year, h.month - 1, h.day + 1)).toISOString().slice(0, 10).replaceAll("-", "");
+    const calendarEvent = ["BEGIN:VCALENDAR", "VERSION:2.0", "PRODID:-//Fresh Calendars//Holiday dates//EN", "BEGIN:VEVENT", `UID:${slug}-${y}@freshcalendars.com`, `DTSTAMP:${today.toISOString().slice(0, 10).replaceAll("-", "")}T000000Z`, `DTSTART;VALUE=DATE:${dayKey}`, `DTEND;VALUE=DATE:${endDate}`, `SUMMARY:${h.name.replaceAll("\\", "\\\\").replaceAll(",", "\\,").replaceAll(";", "\\;")}`, `URL:https://freshcalendars.com${holidayWhenIsPath(slug)}`, "END:VEVENT", "END:VCALENDAR", ""].join("\r\n");
     const mSlug = monthNumberToSlug(h.month);
     const mName = monthNumberToName(h.month);
     const locale = holidayLocaleForSlug(slug);
@@ -1446,7 +1427,8 @@ ${faqSection(meta)}`;
 <section class="hero"><div class="hero-inner">
   <div class="eyebrow">Fresh Calendars · When is…</div>
   <h1>When is ${esc(h.name)} ${y}${locale === "uk" && !/\bUK\b/.test(h.name) ? " in the UK" : locale === "ca" && !/Canad/.test(h.name) ? " in Canada" : ""}?</h1>
-  <p class="lead"><strong>${esc(h.formatted)}</strong>: ${esc(lead)}</p>
+  <p class="lead">${esc(lead)}</p>
+  <div class="date-answer"><span>Next date</span><strong>${esc(h.formatted)}</strong><a href="data:text/calendar;charset=utf-8,${encodeURIComponent(calendarEvent)}" download="${slug}-${y}.ics">${iconHtml("calendar")}Add to calendar</a></div>
   <div class="cta">
     <a class="btn btn-primary" href="/${mSlug}-calendars.html" title="Printable ${mName} ${y} calendar">${mName} calendar</a>
     ${downloadBtn(meta.download.pdf, "Download PDF", meta.downloadTitles.pdf, "ghost")}
@@ -1506,7 +1488,7 @@ ${adBand(ADS.inArticle, "FreshCalendars_About_Top")}`;
 <section class="section prose">
   <h2>What we make</h2>
   <p>Fresh Calendars publishes evergreen printable pages so bookmarks stay useful: month URLs roll to the next occurrence, and yearly hubs track the current planning year (${py}) plus a dedicated next-year page (${py + 1}).</p>
-  <p>Each monthly page ships five independent template designs. Yearly posters now ship five formats too. Weekly planners include classic, Monday-start, hourly, priorities, and habit-tracker packs — all free to download.</p>
+  <p>Monthly pages offer scenic, modern, minimal, floral, landscape, holiday and planner designs, with Sunday or Monday starts. Yearly pages include minimal and floral posters alongside the original formats. Weekly planners include classic, Monday-start, hourly, priorities, and habit-tracker packs — all free to download.</p>
   <h2>How downloads work</h2>
   <p>PNG and PDF files are generated as print-ready sheets and delivered at full quality. Please link to our calendar pages (not the raw file URLs) when you share Fresh Calendars with others.</p>
   <h2>Get in touch</h2>
@@ -1856,6 +1838,20 @@ function termsOfUseBody(): string {
 `;
 }
 
+export function renderConceptHubs(home: SeoMeta, today: Date): { meta: SeoMeta; html: string; file: string }[] {
+  return [
+    { id: "calendar-library", path: "/calendars/", title: "Free Printable Calendars | Fresh Calendars", description: "Browse free printable monthly, yearly, blank and weekly calendars. Choose a design and download PDF or PNG files for home, school and work.", body: calendarLibrary(today, false) },
+    { id: "monthly-library", path: "/monthly-calendars/", title: "Monthly Calendars | Free PDF & PNG Templates", description: "Find your monthly calendar. Filter by month, year and design, then choose A4 or Letter paper and a Sunday or Monday start. Free PDF and PNG downloads.", body: calendarLibrary(today, true) },
+    { id: "calendar-tools", path: "/calendar-tools/", title: "Calendar Tools | Date Calculators & Planning", description: "Calculate days between two dates or add and subtract days from a date. Simple calendar tools to help you plan school, work and everyday life.", body: calendarTools(today) },
+  ].map(p => {
+    const canonical = `https://freshcalendars.com${p.path}`;
+    const ogImagePath = `/og/${p.id}.png`, ogUrl = `https://cdn.freshcalendars.com${ogImagePath}`;
+    const meta: SeoMeta = { ...home, pageId: p.id, url: canonical, canonical, title: p.title, description: p.description, faq: [], variants: undefined, calendar: { family: "guide", year: null, month: null, weekStartsOn: 0 }, hreflang: [{ lang: "en", href: canonical }, { lang: "x-default", href: canonical }], openGraph: { ...home.openGraph, title: p.title, description: p.description, url: canonical }, twitter: { ...home.twitter, title: p.title, description: p.description }, breadcrumbs: [{ name: "Home", url: "https://freshcalendars.com/" }, { name: p.title.split("|")[0]!.trim(), url: canonical }], jsonLd: [JSON.stringify({ "@context": "https://schema.org", "@type": "CollectionPage", name: p.title, description: p.description, url: canonical, inLanguage: "en-US" })] };
+    meta.ogImagePath = ogImagePath; meta.openGraph.images = [{ url: ogUrl, width: 1200, height: 630, alt: p.title }]; meta.twitter.image = ogUrl;
+    return { meta, html: layout(meta, p.body, { today }), file: p.path.slice(1) + "index.html" };
+  });
+}
+
 export async function writeSitemap(metas: SeoMeta[]): Promise<void> {
   const indexable = metas.filter((m) => m.robots.includes("index"));
   const urls = indexable
@@ -2130,14 +2126,15 @@ RewriteRule ^printable/monthly/[0-9]{4}/(january|february|march|april|may|june|j
 export function renderNotFoundHtml(): string {
   const today = new Date();
   return `<!doctype html>
-<html lang="en" class="family-default">
+<html lang="en" class="family-default" data-design-version="concept-v3" data-design-layout="error">
 <head>
 <meta charset="utf-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+${THEME_BOOT_HTML}
 <title>Page not found | Fresh Calendars</title>
 <meta name="robots" content="noindex,follow" />
 ${brandHeadLinks()}
-<meta name="theme-color" content="#0062cc" />
+<meta name="theme-color" content="#007b48" />
 <link rel="canonical" href="${absUrl("/404.html")}" />
 ${FONT_PRELOAD}
 <style>${FONTS_CSS}${CSS}</style>
@@ -2145,15 +2142,7 @@ ${FONT_PRELOAD}
 <body>
 ${siteHeaderHtml(today, { news: NEWS_LAUNCHED })}
 <main id="main">
-  <section class="hero"><div class="hero-inner">
-    <div class="eyebrow">404</div>
-    <h1>That page isn’t here</h1>
-    <p class="lead">Try the homepage, this month’s evergreen calendar, or the yearly poster.</p>
-    <div class="cta">
-      <a class="btn btn-primary" href="/">Home</a>
-      <a class="btn btn-ghost" href="/printable-calendars.html">Yearly calendar</a>
-    </div>
-  </div></section>
+  <section class="concept-wrap error-page"><div class="error-visual" aria-hidden="true"><strong>404</strong></div><div class="error-content"><p class="overline">A fresh start</p><h1>That page isn’t here</h1><p>The address may have changed. Find a calendar in the library, try the search above, or start again from the homepage.</p><div class="error-links"><a href="/calendars/">${iconHtml("calendar")}Browse calendars</a><a href="/">Home</a><a href="/page/contact/">Report a broken link</a></div></div></section>
 </main>
 ${siteFooterHtml(today, { news: NEWS_LAUNCHED })}
 <script>${NAV_JS}</script>

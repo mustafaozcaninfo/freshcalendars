@@ -1,6 +1,6 @@
 export const SITE_ORIGIN = "https://freshcalendars.com";
 export const SITE_NAME = "Fresh Calendars";
-export const THEME_COLOR = "#0062cc";
+export const THEME_COLOR = "#007b48";
 
 /** Public CDN for assets/og (DigitalOcean Spaces + CF). Override with CDN_ORIGIN. */
 export function cdnOrigin(): string {

@@ -2,7 +2,6 @@
 import { getImage } from "astro:assets";
 import type { ImageMetadata } from "astro";
 import { SITE_ORIGIN } from "./site";
-
 export const HERO_MAIN = { width: 1344, height: 756 };
 export const HERO_CROPS = [
   { width: 1200, height: 675 },

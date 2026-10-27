@@ -2,6 +2,7 @@
 import { getEntry, render } from "astro:content";
 import NewsBase from "../layouts/NewsBase.astro";
 import Breadcrumb from "./Breadcrumb.astro";
+import NewsRail from "./NewsRail.astro";
 import { formatDateET, isoDateTime, policyGraph } from "../lib/seo";
 interface Props { id: "about" | "editorial-policy" | "corrections-policy" | "masthead" }
 const entry = (await getEntry("policies", Astro.props.id))!;
@@ -15,7 +16,7 @@ const path = `/news/${entry.id}/`;
   path={path}
   jsonLd={policyGraph({ path, name: d.title, description: d.description, schemaType: d.schemaType, modifiedAt: d.updatedAt })}
 >
-  <article class="news-wrap policy">
+  <div class="news-workspace"><NewsRail path={path}/><article class="news-wrap policy">
     <Breadcrumb items={[{ name: "Home", href: "/" }, { name: "News", href: "/news/" }, { name: d.title }]} />
     <h1>{d.title}</h1>
     <p class="updated">Last updated <time datetime={isoDateTime(d.updatedAt)}>{formatDateET(d.updatedAt)}</time></p>
@@ -27,12 +28,17 @@ const path = `/news/${entry.id}/`;
       <a href="/news/masthead/">Masthead</a>
     </nav>
   </article>
+  </div>
 </NewsBase>
 <style>
-  .updated{font-size:.9rem;margin:0 0 1.5rem}
-  .prose-policy{font-size:1.1rem;line-height:1.7;color:var(--ink-strong)}
-  .prose-policy :global(h2){font-family:Sora,"Sora Fallback",sans-serif;font-size:1.25rem;margin:2rem 0 .5rem;scroll-margin-top:5rem}
+  .updated{font-size:11px;margin:13px 0 25px;color:var(--muted)}
+  .prose-policy{font-size:13px;line-height:1.85;color:var(--ink);max-width:82ch;border:1px solid var(--line);border-radius:10px;padding:22px;background:var(--paper)}
+  .prose-policy :global(h2){font-family:Sora,"Sora Fallback",sans-serif;font-size:18px;margin:25px 0 10px;scroll-margin-top:90px;color:var(--ink-strong)}
+  .prose-policy :global(h2:first-child){margin-top:0}
+  .prose-policy :global(h3){font-size:14px;color:var(--ink-strong)}
+  .prose-policy :global(table){width:100%;font-size:11px;border-collapse:collapse}.prose-policy :global(th),.prose-policy :global(td){border:1px solid var(--line);padding:10px;text-align:left}
   .prose-policy :global(a){color:var(--focus)}
-  .policy-nav{display:flex;flex-wrap:wrap;gap:.5rem 1.25rem;margin-top:2.5rem;padding-top:1rem;border-top:4px solid var(--gold)}
-  .policy-nav a{min-height:44px;display:inline-flex;align-items:center;font-weight:700;color:var(--focus)}
+  .policy-nav{display:flex;flex-wrap:wrap;gap:8px;margin-top:20px;padding-top:15px;border-top:1px solid var(--line)}
+  .policy-nav a{min-height:32px;padding:6px 12px;display:inline-flex;align-items:center;font-weight:600;color:var(--focus);font-size:11px;border:1px solid var(--line);border-radius:18px;text-decoration:none}
+  @media(max-width:700px){.prose-policy{padding:15px;font-size:12px}.prose-policy :global(table){display:block;overflow:auto}}
 </style>

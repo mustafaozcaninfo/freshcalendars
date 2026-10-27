@@ -2,9 +2,16 @@
  * Shared Fresh Calendars chrome — tokens, fonts, header/footer, nav + AdSense loaders.
  * Single source for the calendar generator (`packages/generator`) and the news app (`apps/news`).
  */
-import { SITE_NAME, THEME_COLOR, resolvePlanningYear } from "@freshcalendars/engine";
+import { SITE_NAME, THEME_COLOR, resolvePlanningYear, resolveMonthYear, MONTH_SLUGS } from "@freshcalendars/engine";
+import { DESIGN_CSS } from "./design.js";
+import { SITE_SEARCH_JS } from "./search.js";
+import { iconHtml } from "./icons.js";
+import { STUDIO_JS } from "./studio-client.js";
+export { THEME_BOOT_HTML } from "./studio-client.js";
+export { iconHtml } from "./icons.js";
+export { pageWorkspaceHtml, sectionRailHtml } from "./page-shell.js";
 
-const BLUE = "#0062cc";
+const BLUE = "#007b48";
 
 export function esc(s: string): string {
   return s
@@ -197,7 +204,7 @@ export const CSS = minifyCss(`
   --home-muted:#e8eef3;
   --home-eyebrow:#fccc00;
   --focus:#004a7f;
-  --danger:#ec1d00;
+  --danger:#b52b1c;
   --btn-on-dark:#ffffff;
 }
 *{box-sizing:border-box}
@@ -595,11 +602,13 @@ a.img-link img{display:block; width:100%; height:auto}
 a.zoomable,img.zoomable{cursor:zoom-in}
 .lightbox{
   position:fixed; inset:0; z-index:80; display:none; align-items:center; justify-content:center;
+  width:100%;height:100%;max-width:none;max-height:none;border:0;margin:0;
   background:rgba(10,16,22,.9);
   padding:max(1rem, env(safe-area-inset-top)) max(1rem, env(safe-area-inset-right)) max(1rem, env(safe-area-inset-bottom)) max(1rem, env(safe-area-inset-left));
   cursor:zoom-out;
 }
 .lightbox.is-open{display:flex}
+.lightbox::backdrop{background:transparent}
 .lightbox img{
   max-width:min(1100px,100%); max-height:min(92vh,100%); width:auto; height:auto;
   box-shadow:0 24px 80px rgba(0,0,0,.45); background:#fff; cursor:default;
@@ -623,7 +632,7 @@ a.zoomable,img.zoomable{cursor:zoom-in}
   background:#fff url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 16'%3E%3Cpath d='M3.5 6l4.5 4.5L12.5 6' fill='none' stroke='%2337474f' stroke-width='2' stroke-linecap='round' stroke-linejoin='round'/%3E%3C/svg%3E") no-repeat right .85rem center/16px 16px}
 .contact-form .hp{position:absolute; left:-9999px; opacity:0; height:0; width:0; overflow:hidden}
 .contact-form .form-msg{margin:.25rem 0 0; font-weight:700}
-.contact-form .form-msg.ok{color:var(--blank-accent)}
+.contact-form .form-msg.ok{color:var(--focus)}
 .contact-form .form-msg.err{color:var(--danger)}
 .kind-pill{
   display:inline-block; font-size:.75rem; font-weight:700; letter-spacing:.08em;
@@ -793,6 +802,7 @@ ins.adsbygoogle[data-ad-status="filled"]{
   .btn,.nav-toggle,.month-chips a,.side-card{border-width:2px}
   .nav a:hover,.month-chips a:hover{outline:2px solid var(--ink); outline-offset:1px}
 }
+${DESIGN_CSS}
 `);
 
 
@@ -802,7 +812,7 @@ export const NAV_JS = `
   if(!drawer) return;
   var toggle=drawer.querySelector('.nav-toggle');
   function sync(){
-    var open=drawer.hasAttribute('open');
+    var open=drawer.hasAttribute('open')&&!window.matchMedia('(min-width:1024px)').matches;
     if(toggle){
       toggle.setAttribute('aria-expanded', open?'true':'false');
       toggle.setAttribute('aria-label', open?'Close menu':'Open menu');
@@ -816,11 +826,19 @@ export const NAV_JS = `
     if(e.target===drawer) close();
   });
   document.addEventListener('keydown', function(e){
-    if(e.key==='Escape') close();
+    if(e.key==='Escape'){
+      var focused=document.activeElement, inside=drawer.contains(focused);
+      var mobile=drawer.open&&!window.matchMedia('(min-width:1024px)').matches;
+      var group=focused&&focused.closest?focused.closest('.nav-group[open]'):null;
+      close(); drawer.querySelectorAll('.nav-group[open]').forEach(function(d){d.open=false;});
+      if(inside){var restore=mobile?toggle:group&&group.querySelector('summary');if(restore)restore.focus();}
+    }
   });
+  window.addEventListener('resize',sync);
+  document.addEventListener('click',function(e){drawer.querySelectorAll('.nav-group[open]').forEach(function(d){if(!d.contains(e.target))d.open=false;});});
   sync();
 })();
-`;
+` + SITE_SEARCH_JS + STUDIO_JS;
 
 /**
  * Flip to true when /news/ goes live (NEWS-ROADMAP N9). Turns on the News nav/footer
@@ -849,7 +867,7 @@ export function siteHeaderHtml(today: Date = new Date(), opts: ChromeOpts = {}):
   return `<div class="site-header-bar">
 <header class="wrap site-header">
   <a class="brand" href="/" title="Fresh Calendars home">
-    <img src="/img/fresh-logo.png" width="300" height="58" alt="Fresh Calendars"${opts.news ? ' title="Fresh Calendars: free printable calendars and holiday news"' : ""} />
+    <span class="brand-wordmark" aria-label="Fresh Calendars"><span>fresh</span>calendars</span>
   </a>
   <details class="nav-drawer">
     <summary class="nav-toggle" aria-label="Open menu" aria-expanded="false" aria-controls="site-nav">
@@ -857,45 +875,48 @@ export function siteHeaderHtml(today: Date = new Date(), opts: ChromeOpts = {}):
       <span class="nav-toggle-label">Menu</span>
     </summary>
     <nav id="site-nav" class="nav" aria-label="Primary">
-      <a href="/printable-calendars.html" title="${y} printable yearly calendar">Yearly</a>
-      <a href="/printable-yearly-calendar.html" title="${nextY} printable yearly calendar">Next year</a>
-      <a href="/printable-weekly-calendar.html" title="Printable weekly calendar">Weekly</a>
-      <a href="/printable-school-calendar.html" title="Printable school year calendar">School</a>
-      <a href="/blank-calendars.html" title="Printable blank calendar">Blank</a>
-      <a href="/printable-monday-start-calendar.html" title="Monday-start calendars">Mon-start</a>
-      <a href="/holidays/" title="${y} holidays">Holidays</a>${newsNavLink(opts)}
-      <a href="/print-guide.html" title="How to print a calendar">Print guide</a>
+      <details class="nav-group"><summary>Calendars</summary><div class="nav-panel">
+        <a href="/calendars/">All calendars</a><a href="/monthly-calendars/">Monthly calendars</a>
+        <a href="/printable-calendars.html">${y} yearly calendars</a>
+        <a href="/printable-yearly-calendar.html">${nextY} yearly calendars</a>
+        <a href="/printable-weekly-calendar.html">Weekly planners</a>
+        <a href="/printable-school-calendar.html">School calendars</a>
+        <a href="/blank-calendars.html">Blank calendars</a>
+        <a href="/printable-monday-start-calendar.html">Monday-start calendars</a>
+        <div class="nav-months">${MONTH_SLUGS.map((m, i) => `<a href="/${m}-calendars.html" title="${m[0]!.toUpperCase() + m.slice(1)} ${resolveMonthYear(i + 1, today)} calendar">${m[0]!.toUpperCase() + m.slice(1)}</a>`).join("")}</div>
+      </div></details>
+      <details class="nav-group"><summary>Holidays</summary><div class="nav-panel">
+        <a href="/holidays/">US holidays</a><a href="/uk-holidays/">UK holidays</a><a href="/canada-holidays/">Canada holidays</a>
+      </div></details>
+      <details class="nav-group"><summary>Tools</summary><div class="nav-panel">
+        <a href="/calendar-tools/">Calendar tools</a>
+        <a href="/print-guide.html">How to print</a><a href="/page/school-holidays/">School holidays</a><a href="/page/daylight-savings/">Daylight saving time</a><a href="/page/contact/">Contact us</a>
+      </div></details>${newsNavLink(opts)}
+      <a href="/news/printables/">Printables</a>
       <a href="/page/about/" title="About Fresh Calendars">About</a>
-      <a href="/page/contact/" title="Contact Fresh Calendars">Contact</a>
     </nav>
   </details>
+  ${siteSearchHtml(today)}
+  <div class="header-utilities"><span class="site-language" title="Site language: English">${iconHtml("globe")}<span>EN</span></span><button class="theme-toggle" type="button" data-theme-toggle aria-label="Switch to dark appearance" aria-pressed="false">${iconHtml("moon")}</button></div>
 </header>
 </div>`;
 }
 
+export function siteSearchHtml(today: Date, hero = false): string {
+  const id = hero ? "hero-q" : "site-q";
+  return `<form class="site-search${hero ? " hero-search" : ""}" role="search" action="/calendars/" data-site-search data-year="${resolvePlanningYear(today)}" data-month-years="${esc(JSON.stringify(MONTH_SLUGS.map((_, i) => resolveMonthYear(i + 1, today))))}">
+  <label class="sr-only" for="${id}">Search calendars, holidays and news</label><div class="site-search-box">${iconHtml("search")}<input id="${id}" type="search" name="q" placeholder="Search calendars, holidays, templates, news…" autocomplete="off" aria-expanded="false" aria-controls="${id}-results" />${hero ? `<button type="submit" aria-label="Search">${iconHtml("search")}</button>` : ""}</div><ul id="${id}-results" class="search-results" aria-label="Search results" hidden></ul><p class="sr-only" aria-live="polite"></p></form>`;
+}
+
 export function siteFooterHtml(today: Date = new Date(), opts: ChromeOpts = {}): string {
   const y = resolvePlanningYear(today);
-  const nextY = y + 1;
-  return `<footer class="site-footer-bar">
-  <div class="wrap site-footer">
-    <p class="footer-copy">© ${today.getFullYear()} Fresh Calendars · Free printable calendars for home, school, and work</p>
-    <nav class="footer-nav" aria-label="Footer">
-      <a href="/page/about/" title="About Fresh Calendars">About</a>
-      <a href="/page/privacy-policy/" title="Privacy Policy">Privacy</a>
-      <a href="/page/terms-of-use/" title="Terms of Use">Terms</a>
-      <a href="/page/advertising/" title="Advertising">Advertising</a>
-      <a href="/printable-calendars.html" title="${y} yearly calendar">${y} yearly</a>
-      <a href="/printable-yearly-calendar.html" title="${nextY} yearly calendar">${nextY} yearly</a>
-      <a href="/print-guide.html" title="Print guide">Print guide</a>
-      <a href="/holidays/" title="US holidays">US holidays</a>
-      <a href="/uk-holidays/" title="UK holidays">UK</a>
-      <a href="/canada-holidays/" title="Canada holidays">Canada</a>${opts.news ? `\n      <a href="/news/" title="Calendar and holiday news">News</a>\n      <a href="/news/editorial-policy/" title="Fresh Calendars News editorial policy">Editorial policy</a>` : ""}
-      <a href="/guides/classroom-printable-calendars.html" title="Classroom guides">Guides</a>
-      <a href="/sitemap.xml" title="Sitemap">Sitemap</a>
-      <a href="/feed.xml" title="RSS feed">RSS</a>
-    </nav>
-  </div>
-</footer>`;
+  const groups: [string, [string, string][]][] = [
+    ["Calendars", [["All calendars", "/calendars/"], ["Monthly calendars", "/monthly-calendars/"], [`${y} yearly calendar`, "/printable-calendars.html"], [`${y + 1} yearly calendar`, "/printable-yearly-calendar.html"], ["Weekly planners", "/printable-weekly-calendar.html"], ["Blank calendars", "/blank-calendars.html"]]],
+    ["Holidays & planning", [["US holidays", "/holidays/"], ["UK holidays", "/uk-holidays/"], ["Canada holidays", "/canada-holidays/"], ["School calendars", "/printable-school-calendar.html"], ["Calendar tools", "/calendar-tools/"], ["Printing guide", "/print-guide.html"]]],
+    ["Explore", [["Classroom guides", "/guides/classroom-printable-calendars.html"], ["Monday-start calendars", "/printable-monday-start-calendar.html"], ...(opts.news ? [["Calendar news", "/news/"], ["News printables", "/news/printables/"], ["Editorial policy", "/news/editorial-policy/"]] as [string,string][] : []), ["RSS feed", "/feed.xml"]]],
+    ["Fresh Calendars", [["About us", "/page/about/"], ["Contact", "/page/contact/"], ["Privacy", "/page/privacy-policy/"], ["Terms of use", "/page/terms-of-use/"], ["Advertising", "/page/advertising/"], ["Disclosure", "/page/disclosure/"]]],
+  ];
+  return `<footer class="site-footer-bar"><div class="concept-wrap"><div class="footer-grid"><div class="footer-brand"><a class="brand-wordmark" href="/"><span>fresh</span>calendars</a><p>Plan brighter days with free calendars, practical printables and useful dates for home, school and work.</p></div>${groups.map(([title, links]) => `<section><h2>${title}</h2><nav aria-label="Footer ${title}">${links.map(([label, href]) => `<a href="${href}">${label}</a>`).join("")}</nav></section>`).join("")}</div><div class="footer-bottom"><p>© ${today.getFullYear()} Fresh Calendars. Made for your next plan.</p><nav aria-label="Site information"><a href="/sitemap.xml">Sitemap</a><a href="/page/privacy-policy/">Privacy</a><a href="/page/terms-of-use/">Terms</a></nav></div></div></footer>`;
 }
 
 /** HTML head fragment: favicons + Apple + PWA (theme-color stays in SEO meta). */

@@ -4,6 +4,7 @@ import { Image } from "astro:assets";
 import NewsBase from "../../layouts/NewsBase.astro";
 import AdSlot from "../../components/AdSlot.astro";
 import Breadcrumb from "../../components/Breadcrumb.astro";
+import NewsRail from "../../components/NewsRail.astro";
 import { getActiveCategories, getCategoryNames, getPublishedArticles } from "../../lib/articles";
 import { allPrintables, PRINTABLES_PATH } from "../../lib/printables";
 import { listingGraph } from "../../lib/seo";
@@ -24,11 +25,10 @@ const jsonLd = listingGraph({
 });
 ---
 <NewsBase title={`${title} | Fresh Calendars`} description={description} path={PRINTABLES_PATH} jsonLd={jsonLd}>
-  <div class="hub">
+  <div class="news-workspace"><NewsRail path={PRINTABLES_PATH}/><div class="hub">
     <Breadcrumb items={[{ name: "Home", href: "/" }, { name: "News", href: "/news/" }, { name: "Free printables" }]} />
     <h1>{title}</h1>
     <p class="news-lede">Every template from our stories in one place: {items.length} free PDFs and PNGs, most on US Letter paper, made by Fresh Calendars. No account, no email.</p>
-    <AdSlot unit={6} variant="top" />
 
     <div class="tools">
       <label class="q" for="pr-q"><span>Find a printable</span><input id="pr-q" type="search" placeholder="Try “moon”, “tracker” or “2027”" autocomplete="off" /></label>
@@ -36,39 +36,32 @@ const jsonLd = listingGraph({
         <button type="button" data-topic="" aria-pressed="true">All<span>{items.length}</span></button>
         {topics.map((t) => <button type="button" data-topic={t.id} aria-pressed="false">{t.name}<span>{t.n}</span></button>)}
       </div>
+      <button type="button" class="reset-printables" data-printables-reset>Reset filters</button>
       <p class="count" id="pr-count" aria-live="polite">{items.length} printables</p>
     </div>
 
-    {articles.map((a, n) => (
+    <ul class="printables-grid">
+    {items.map((i, n) => (
       <>
-      {(n === 3 || n === 8) && <AdSlot unit={n === 3 ? 3 : 2} />}
-      <section class="story" data-topic={a.data.category.id} aria-labelledby={`h-${a.id}`}>
-        <div class="story-head">
-          <p class="cat">{names.get(a.data.category.id)}</p>
-          <h2 id={`h-${a.id}`}><a href={`/news/${a.id}/`}>{a.data.title}</a></h2>
-        </div>
-        <ul>
-          {items.filter((i) => i.article.id === a.id).map((i) => (
-            <li data-text={`${i.title} ${i.description} ${i.group} ${a.data.title}`.toLowerCase()}>
-              <a class="thumb" href={i.pdf} title={`Download ${i.title} (PDF)`}>
-                <Image src={i.preview} alt={i.alt} title={i.title} widths={[240, 360, 480]} sizes="(max-width: 700px) 44vw, 200px" format="webp" quality={62} loading="lazy" decoding="async" />
-              </a>
-              <h3>{i.title}</h3>
-              <p>{i.description}</p>
-              <p class="pmeta">{`PDF · ${i.pages} ${i.pages === 1 ? "page" : "pages"} · ${i.paper}`}</p>
-              <div class="btns">
-                <a class="btn pdf" href={i.pdf} download type="application/pdf">PDF</a>
-                <a class="btn png" href={i.png} download type="image/png">PNG</a>
-              </div>
-            </li>
-          ))}
-        </ul>
-      </section>
+      {(n===12 || n===42 || n===84) && <li class="printables-ad"><AdSlot unit={n===12?6:n===42?3:2} variant={n===12?"top":undefined}/></li>}
+      <li class="printable-card" data-printable data-topic={i.article.category} data-text={`${i.title} ${i.description} ${i.group} ${i.article.title}`.toLowerCase()}>
+        <a class="thumb" href={i.pdf} title={`Download ${i.title} (PDF)`}>
+          <Image src={i.preview} alt={i.alt} title={i.title} widths={[240, 360, 480]} sizes="(max-width: 700px) 44vw, 320px" format="webp" quality={62} loading="lazy" decoding="async" />
+        </a>
+        <p class="cat">{names.get(i.article.category)}</p>
+        <h2>{i.title}</h2>
+        <p class="description">{i.description}</p>
+        <p class="pmeta">{`PDF · ${i.pages} ${i.pages === 1 ? "page" : "pages"} · ${i.paper}`}</p>
+        <div class="btns"><a class="btn pdf" href={i.pdf} download type="application/pdf">PDF</a><a class="btn png" href={i.png} download type="image/png">PNG</a></div>
+        <a class="printable-source" href={`/news/${i.article.id}/`}>{i.article.title} →</a>
+      </li>
       </>
     ))}
+    </ul>
     <p class="none" id="pr-none" hidden>No printables match. Clear the search or pick another topic.</p>
     <AdSlot unit={5} />
     <p class="terms">Free for personal, classroom and office use. See our <a href="/page/terms-of-use/">terms of use</a> for sharing and reuse.</p>
+  </div>
   </div>
   <script is:inline>
     (() => {
@@ -78,52 +71,24 @@ const jsonLd = listingGraph({
       const run = () => {
         const terms = q.value.toLowerCase().split(/\s+/).filter(Boolean);
         let n = 0;
-        for (const s of document.querySelectorAll(".story")) {
-          const okTopic = !topic || s.dataset.topic === topic;
-          let shown = 0;
-          for (const li of s.querySelectorAll("li")) { const ok = okTopic && terms.every((t) => li.dataset.text.includes(t)); li.hidden = !ok; if (ok) shown++; }
-          s.hidden = shown === 0; n += shown;
+        for (const card of document.querySelectorAll("[data-printable]")) {
+          const ok = (!topic || card.dataset.topic === topic) && terms.every(t => card.dataset.text.includes(t));
+          card.hidden = !ok; if (ok) n++;
         }
+        document.querySelectorAll('.printables-ad').forEach(ad => ad.hidden = !!topic || terms.length > 0);
         count.textContent = n === 1 ? "1 printable" : n + " printables";
         none.hidden = n > 0;
       };
       q.addEventListener("input", run);
+      document.querySelector('[data-printables-reset]').addEventListener('click',()=>{q.value='';topic='';btns.forEach(b=>b.setAttribute('aria-pressed',String(!b.dataset.topic)));run();});
       for (const b of btns) b.addEventListener("click", () => { topic = b.dataset.topic; btns.forEach((x) => x.setAttribute("aria-pressed", String(x === b))); run(); });
     })();
   </script>
 </NewsBase>
 <style>
-  .hub{width:min(1120px,calc(100% - 2rem));margin:0 auto;padding:clamp(1.5rem,4vw,2.5rem) 0}
-  .hub .news-lede{max-width:46rem}
-  .tools{position:sticky;top:66px;z-index:10;background:var(--paper);padding:1rem 0 .6rem;margin:1rem 0 1.25rem;border-bottom:1px solid var(--line-soft);display:grid;gap:.75rem}
-  .q span{display:block;font-weight:700;color:var(--ink-strong);margin-bottom:.35rem}
-  .q input{width:100%;max-width:28rem;min-height:48px;padding:0 1rem;border:2px solid var(--line);border-radius:6px;font:inherit;font-size:1rem;color:var(--ink-strong);background:#fff}
-  .q input:focus{outline:3px solid var(--gold);outline-offset:1px;border-color:var(--focus)}
-  .topics{display:flex;flex-wrap:wrap;gap:.4rem}
-  .topics button{display:inline-flex;align-items:center;gap:.4rem;min-height:44px;padding:0 .85rem;border:1px solid var(--line);border-radius:999px;background:#fff;color:var(--ink-strong);font:inherit;font-weight:700;font-size:.88rem;cursor:pointer}
-  .topics button span{display:inline-grid;place-items:center;min-width:1.4rem;height:1.4rem;padding:0 .3rem;border-radius:999px;background:var(--wash);font-size:.72rem}
-  .topics button[aria-pressed="true"]{background:var(--focus);border-color:var(--focus);color:#fff}
-  .topics button[aria-pressed="true"] span{background:#fff;color:var(--focus)}
-  .count{margin:0;font-size:.85rem;color:var(--ink)}
-  .story{margin:0 0 2.25rem}
-  .story-head{border-bottom:3px solid var(--ink-strong);margin-bottom:1rem;padding-bottom:.4rem}
-  .cat{margin:0 0 .2rem;font-size:.72rem;font-weight:700;text-transform:uppercase;letter-spacing:.06em;color:var(--focus)}
-  .story h2{font-family:Sora,"Sora Fallback",sans-serif;font-size:1.1rem;line-height:1.3;margin:0}
-  .story h2 a{color:var(--ink-strong);text-decoration:none}
-  .story h2 a:hover,.story h2 a:focus-visible{text-decoration:underline}
-  .story ul{list-style:none;margin:0;padding:0;display:grid;grid-template-columns:repeat(2,1fr);gap:1.25rem 1rem}
-  .story li{display:flex;flex-direction:column}
-  .thumb :global(img){display:block;width:100%;height:auto;aspect-ratio:17/22;object-fit:cover;object-position:top;border:1px solid var(--line-soft);border-radius:6px;background:#fff;box-shadow:0 2px 8px rgba(0,0,0,.06)}
-  .story h3{font-family:Sora,"Sora Fallback",sans-serif;font-size:.95rem;line-height:1.3;margin:.6rem 0 .25rem;color:var(--ink-strong)}
-  .story li p{margin:0 0 .35rem;font-size:.86rem;line-height:1.4}
-  .pmeta{color:var(--ink);font-size:.78rem;padding:0}
-  .btns{display:flex;gap:.4rem;margin-top:auto;padding-top:.3rem}
-  .btn{display:inline-flex;align-items:center;justify-content:center;min-height:44px;min-width:60px;padding:0 .8rem;border-radius:4px;font-weight:700;font-size:.88rem;text-decoration:none}
-  .btn.pdf{background:var(--focus);color:#fff!important}
-  .btn.png{border:1px solid var(--focus);background:#fff}
-  .btn:focus-visible{outline:3px solid var(--gold);outline-offset:2px}
-  .none{padding:2rem 0;color:var(--ink)}
-  .terms{margin-top:2rem;font-size:.9rem;color:var(--ink)}
-  @media (min-width:700px){ .story ul{grid-template-columns:repeat(3,1fr)} }
-  @media (min-width:960px){ .story ul{grid-template-columns:repeat(4,1fr)} }
+.hub .news-lede{max-width:80ch;margin:12px 0 20px}.tools{border:1px solid var(--line);border-radius:10px;padding:14px;background:var(--surface-soft);display:grid;grid-template-columns:minmax(0,1fr) auto;gap:12px;margin:20px 0 24px}.q{grid-column:1/-1}.q span{display:block;font-size:11px;font-weight:700;margin-bottom:7px;color:var(--ink-strong)}.q input{width:100%;max-width:420px;min-height:36px;padding:7px 12px;border:1px solid var(--line);font:inherit;font-size:12px;border-radius:6px;background:var(--paper);color:var(--ink-strong)}.topics{display:flex;flex-wrap:wrap;grid-column:1/-1;gap:6px}.topics button{display:inline-flex;align-items:center;gap:5px;min-height:30px;padding:6px 10px;font:700 11px Manrope,sans-serif;border:1px solid var(--line);border-radius:6px;background:var(--paper);color:var(--ink-strong);cursor:pointer}.topics button span{display:grid;place-items:center;font-size:11px;min-width:17px;height:17px;border-radius:12px;background:var(--surface-soft)}.topics button[aria-pressed=true]{background:var(--focus);border-color:var(--focus);color:#fff}.topics button[aria-pressed=true] span{background:#fff;color:var(--focus)}.count{font-size:11px;grid-column:1;margin:0;color:var(--ink)}.reset-printables{grid-column:2;grid-row:3;border:0;background:none;color:var(--focus);font-size:11px;cursor:pointer;padding:0;text-align:right}
+.printables-grid{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:18px;list-style:none;padding:0;margin:0}.printable-card{display:flex;flex-direction:column;border:1px solid var(--line);border-radius:8px;padding:10px;background:var(--paper);min-width:0}.thumb{display:block;background:#f6f8fb;border:1px solid var(--line-soft);border-radius:5px}.thumb :global(img){display:block;height:245px;object-fit:contain;width:100%;background:#fff;border-radius:5px}.cat{font-size:11px;font-weight:700;color:var(--focus);text-transform:uppercase;letter-spacing:.04em;margin:12px 0 6px}.printable-card h2{font:700 12px/1.45 Sora,sans-serif;letter-spacing:-.02em;color:var(--ink-strong);margin:0 0 7px}.description{font-size:11px;line-height:1.65;margin:0 0 7px}.pmeta{font-size:11px;color:var(--muted);margin:0 0 10px}.btns{display:flex;gap:6px;margin-top:auto}.btn{font-size:11px;font-weight:700;border-radius:5px;min-height:32px;padding:7px 12px;text-decoration:none;display:inline-flex;align-items:center}.btn.pdf{background:var(--focus);color:#fff!important}.btn.png{border:1px solid var(--line);color:var(--ink-strong);background:var(--paper)}.printable-source{font-size:11px;line-height:1.5;margin-top:12px;padding-top:10px;border-top:1px solid var(--line-soft);text-decoration:none;color:var(--focus)}.printables-ad{grid-column:1/-1}.printables-ad :global(.ad-slot){margin:0}.terms{font-size:11px;color:var(--muted);margin-top:24px}.none{font-size:13px;padding:25px;border:1px solid var(--line);border-radius:8px}
+@media(max-width:1000px){.printables-grid{grid-template-columns:repeat(2,minmax(0,1fr))}.thumb :global(img){height:220px}}
+@media(max-width:700px){.printables-grid{gap:10px}.printable-card{padding:7px}.thumb :global(img){height:185px}.printable-card h2{font-size:11px}.description{font-size:11px}.tools{padding:12px}.topics button{min-height:32px}.printable-source{font-size:11px}}
+@media(max-width:360px){.printables-grid{grid-template-columns:1fr}.thumb :global(img){height:260px}}
 </style>

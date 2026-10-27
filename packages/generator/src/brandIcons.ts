@@ -1,6 +1,6 @@
 /**
  * Fresh Calendars brand icons — calendar page + binding rings.
- * Palette: blue #007bff, gold #fccc00, red #ec1d00, deep #004a7f.
+ * Palette: green #007b48, mint #a4cfba, navy #0e2135, white.
  */
 import fs from "node:fs/promises";
 import path from "node:path";
@@ -8,13 +8,13 @@ import sharp from "sharp";
 import { SITE_NAME, SITE_ORIGIN, THEME_COLOR } from "@freshcalendars/engine";
 import { DIST_SITE } from "./paths.js";
 
-const INK = "#004a7f";
+const INK = "#0e2135";
 const PAPER = "#ffffff";
-const RED = "#ec1d00";
-const BLUE = "#007bff";
-const GOLD = "#fccc00";
-const RING = "#fccc00";
-const MUTED_DOT = "#0092d1";
+const RED = "#007b48";
+const BLUE = "#007b48";
+const GOLD = "#a4cfba";
+const RING = "#dcebe4";
+const MUTED_DOT = "#527f99";
 
 /** Full-color master (512). Reads clearly from 180px down to ~32px. */
 export function brandIconSvg(size = 512): string {

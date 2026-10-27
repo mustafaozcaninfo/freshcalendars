@@ -56,7 +56,7 @@ const groupId = (g: string) => "dl-" + g.toLowerCase().replace(/[^a-z0-9]+/g, "-
   </section>
 )}
 <style>
-  .downloads{margin:0 0 2rem;padding:1.25rem;border:1px solid #f3dc8b;border-top:5px solid var(--gold);border-radius:16px;background:linear-gradient(180deg,#fffdf4,#fff);box-shadow:var(--n-shadow)}
+  .downloads{margin:0 0 2rem;padding:1.25rem;border:1px solid var(--warm-line);border-top:5px solid var(--gold);border-radius:16px;background:linear-gradient(180deg,var(--surface-warm),#fff);box-shadow:var(--n-shadow)}
   .downloads h2{font-family:Sora,"Sora Fallback",sans-serif;font-size:1.3rem;margin:0 0 .25rem;color:var(--ink-strong)}
   .intro{margin:0 0 1rem;font-size:.95rem}
   .downloads h3{font-family:Sora,"Sora Fallback",sans-serif;font-size:1.05rem;margin:1.25rem 0 .75rem;color:var(--ink-strong)}
@@ -70,14 +70,14 @@ const groupId = (g: string) => "dl-" + g.toLowerCase().replace(/[^a-z0-9]+/g, "-
   .btns{display:flex;gap:.5rem;flex-wrap:wrap}
   .btn{display:inline-flex;align-items:center;min-height:44px;padding:0 .95rem;border-radius:8px;transition:background .15s ease,box-shadow .15s ease;font-weight:700;font-size:.9rem;text-decoration:none}
   .btn.pdf{background:var(--focus);color:#fff}
-  .btn.pdf:hover{background:#003a64;box-shadow:0 4px 10px rgba(0,74,127,.25)}
+  .btn.pdf:hover{background:var(--focus);box-shadow:0 4px 10px rgba(0,74,127,.25)}
   .btn.png:hover{background:var(--n-brand-soft)}
   .btn.png{border:1px solid var(--focus);color:var(--focus);background:#fff}
   .btn.pin{gap:.35rem;border:1px solid #BD081C;color:#BD081C;background:#fff}
   .btn.pin svg{width:18px;height:18px;fill:#BD081C}
   .btn.pin:hover{background:#BD081C;color:#fff}
   .btn.pin:hover svg{fill:#fff}
-  .btn:focus-visible{outline:3px solid var(--gold);outline-offset:2px}
+  .btn:focus-visible{outline:3px solid var(--focus);outline-offset:2px}
   .downloads ul:empty{display:none}
   /* Compact sets: a dense two-column list of file links, no thumbnails. */
   .downloads ul.compact{grid-template-columns:repeat(auto-fill,minmax(270px,1fr));gap:.5rem;margin:1rem 0}

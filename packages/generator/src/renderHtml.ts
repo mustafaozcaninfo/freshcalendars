@@ -156,9 +156,10 @@ export function renderMonthlyPrintHtml(
   year: number,
   month: number,
   variantId: MonthlyVariantId = "classic-bw",
+  opts: { weekStartsOn?: 0 | 1 } = {},
 ): string {
   const variant = monthlyVariantById(variantId);
-  const weekStartsOn = variant.weekStartsOn;
+  const weekStartsOn = opts.weekStartsOn ?? variant.weekStartsOn;
   const grid = buildMonthGrid({ year, month, weekStartsOn });
   const holidays = holidaysForMonth(year, month);
   const holNames = holidayMap(holidays);

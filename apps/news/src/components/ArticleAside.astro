@@ -7,12 +7,14 @@
  * per page (short stories), two from five sections, three from LONG_STORY_H2 sections.
  */
 import type { MarkdownHeading } from "astro";
+import type { ImageMetadata } from "astro";
+import { Image } from "astro:assets";
 import ShareBar from "./ShareBar.astro";
 import AdSlot from "./AdSlot.astro";
 import { PRINTABLES_PATH } from "../lib/printables";
 import { LONG_STORY_H2 } from "../lib/ad-units.mjs";
-interface Props { headings: MarkdownHeading[]; downloads: number; url: string; title: string; image: string }
-const { headings, downloads, url, title, image } = Astro.props;
+interface Props { headings: MarkdownHeading[]; downloads: number; url: string; title: string; image: string; related?: {href:string;title:string;image:ImageMetadata;alt:string}[] }
+const { headings, downloads, url, title, image, related = [] } = Astro.props;
 const items = headings.filter((h) => h.depth === 2);
 const rails = items.length >= LONG_STORY_H2 ? 3 : items.length >= 5 ? 2 : 1;
 ---
@@ -20,10 +22,11 @@ const rails = items.length >= LONG_STORY_H2 ? 3 : items.length >= 5 ? 2 : 1;
   <div class="stick">
     {items.length >= 3 && (
       <nav class="toc-side" aria-labelledby="toc-side-title">
-        <p class="tool-label" id="toc-side-title">On this page</p>
+        <p class="tool-label" id="toc-side-title">In This Article</p>
         <ol>{items.map((h) => <li><a href={`#${h.slug}`} data-toc={h.slug}>{h.text}</a></li>)}</ol>
       </nav>
     )}
+    {related.length>0 && <section class="aside-related"><h2>Related Articles</h2><ul>{related.map(r=><li><a href={r.href}><Image src={r.image} alt={r.alt} title={r.title} widths={[90,140,180]} sizes="90px" format="webp" loading="lazy"/><span>{r.title}</span></a></li>)}</ul></section>}
     {downloads > 0 && (
       <a class="dl" href="#downloads"><b>{downloads} free printable{downloads === 1 ? "" : "s"}</b><span>PDF and PNG, no sign-up</span></a>
     )}
@@ -51,9 +54,19 @@ const rails = items.length >= LONG_STORY_H2 ? 3 : items.length >= 5 ? 2 : 1;
   .toc-side a{display:block;padding:.4rem 0 .4rem .85rem;margin-left:-2px;border-left:2px solid transparent;font-size:.9rem;line-height:1.35;color:var(--ink);text-decoration:none}
   .toc-side a:hover,.toc-side a:focus-visible{color:var(--focus)}
   .toc-side a.on{border-left-color:var(--focus);color:var(--focus);font-weight:700}
-  .dl{display:grid;gap:.15rem;margin:0 0 1.25rem;padding:.8rem 1rem;border:2px solid var(--gold);border-radius:8px;background:#fffdf3;text-decoration:none;color:var(--ink-strong)}
+  .dl{display:grid;gap:.15rem;margin:0 0 1.25rem;padding:.8rem 1rem;border:2px solid var(--gold);border-radius:8px;background:var(--surface-warm);text-decoration:none;color:var(--ink-strong)}
   .dl b{font-family:Sora,"Sora Fallback",sans-serif;font-size:.95rem}
   .dl span{font-size:.82rem;color:var(--ink)}
   .dl:hover,.dl:focus-visible{border-color:var(--focus)}
   .all-pr{font-weight:700;font-size:.9rem}
+  .toc-side{padding:16px;background:var(--surface-soft);border-radius:9px;margin-bottom:24px}
+  .toc-side .tool-label{font-size:12px;text-transform:none;letter-spacing:0;color:var(--ink-strong)}
+  .toc-side ol{counter-reset:section;border:0}
+  .toc-side li{counter-increment:section}
+  .toc-side a{display:flex;gap:9px;align-items:baseline;border:0;padding:8px 0;font-size:11px;line-height:1.5;margin:0}
+  .toc-side a:before{content:counter(section);display:inline-grid;place-items:center;flex-shrink:0;width:21px;height:21px;background:#e7edf3;border-radius:50%;color:#203b50;font-size:11px}
+  .aside-related h2{font-size:13px!important;margin:0 0 15px!important}
+  .aside-related ul{list-style:none;margin:0 0 24px;padding:0;display:grid;gap:13px}
+  .aside-related a{display:grid;grid-template-columns:80px 1fr;gap:11px;align-items:center;text-decoration:none;font-size:11px;line-height:1.4;color:var(--ink-strong)!important}
+  .aside-related :global(img){width:80px;height:57px;object-fit:cover;border-radius:5px}
 </style>

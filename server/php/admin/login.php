@@ -19,7 +19,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
     $error = 'Invalid credentials.';
 }
 ?><!doctype html>
-<html lang="en">
+<html lang="en" data-design-version="concept-v3" data-design-layout="admin">
 <head>
 <meta charset="utf-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1" />

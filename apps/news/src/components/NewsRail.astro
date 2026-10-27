@@ -1,0 +1,20 @@
+---
+import { getActiveCategories, getPublishedArticles, categoryHref } from "../lib/articles";
+interface Props { path: string }
+const { path } = Astro.props;
+const categories = await getActiveCategories(await getPublishedArticles());
+const selected = (href: string) => href === "/news/" ? path === href : path.startsWith(href);
+const basics = [["Latest stories", "/news/"], ["Free printables", "/news/printables/"], ["Calendar library", "/calendars/"]];
+const policies = [["About the newsroom", "/news/about/"], ["Our editors", "/news/masthead/"], ["Editorial policy", "/news/editorial-policy/"], ["Corrections", "/news/corrections-policy/"]];
+---
+<aside class="news-rail" aria-label="News directory">
+  <section><h2>Explore</h2><nav>{basics.map(([label, href]) => <a href={href} aria-current={selected(href!) ? "page" : undefined}>{label}</a>)}</nav></section>
+  <section><h2>Topics & sections</h2><nav>{categories.map(c => <a href={categoryHref(c.id)} aria-current={selected(categoryHref(c.id)) ? "page" : undefined}><span class="section-dot" data-cat={c.id}></span>{c.data.name}</a>)}</nav></section>
+  <section><h2>Our newsroom</h2><nav>{policies.map(([label, href]) => <a href={href} aria-current={selected(href!) ? "page" : undefined}>{label}</a>)}</nav></section>
+  <div class="news-rail-note"><b>Make room for your next plan.</b><p>Download a calendar, follow a date, or find a useful printable.</p><a href="/calendar-tools/">Try our calendar tools →</a></div>
+</aside>
+<style>
+.news-rail{border-right:1px solid var(--line-soft);padding:27px 18px 30px 0;min-height:calc(100vh - 66px)}.news-rail section{margin-bottom:25px}.news-rail h2{font-size:11px;font-weight:700;text-transform:uppercase;letter-spacing:.08em;color:var(--muted);margin:0 10px 9px}.news-rail nav{display:grid;gap:3px}.news-rail nav a{display:flex;align-items:center;gap:8px;font-size:11px;line-height:1.4;min-height:35px;padding:8px 10px;border-radius:6px;color:var(--ink-strong)!important;text-decoration:none}.news-rail nav a:hover{background:var(--surface-soft)}.news-rail nav a[aria-current=page]{color:var(--focus)!important;background:var(--surface-tint);font-weight:700}.section-dot{display:block;width:6px;height:6px;border-radius:2px;background:var(--cat);flex-shrink:0}.news-rail-note{font-size:11px;line-height:1.65;padding:13px 10px;border:1px solid var(--line);border-radius:8px;color:var(--muted)}.news-rail-note b{color:var(--ink-strong)}.news-rail-note p{margin:8px 0}.news-rail-note a{font-weight:700;font-size:11px;color:var(--focus);text-decoration:none}
+@media(max-width:700px){.news-rail{min-height:0;border-right:0;border-bottom:1px solid var(--line);padding:12px 0}.news-rail section:first-child{margin:0}.news-rail section:not(:first-child),.news-rail h2,.news-rail-note{display:none}.news-rail nav{display:flex;gap:6px;overflow-x:auto;white-space:nowrap}.news-rail nav a{font-size:11px;border:1px solid var(--line);padding:8px 11px;min-height:32px}}
+@media print{.news-rail{display:none}}
+</style>
