@@ -63,7 +63,7 @@ downloads:
 draft: false
 ---
 
-<p class="callout"><b>Last updated Oct. 27, 2026, 7:10 a.m. ET.</b> Moon figures now follow the American Meteor Society, and the Leonid rate follows NASA. For planets and Moon pairings this month, see our <a href="/news/november-2026-night-sky-calendar/">November 2026 night sky calendar</a>.</p>
+<p class="callout"><b>Last updated Oct. 27, 2026, 7:10 a.m. ET.</b> Moon figures now follow the American Meteor Society, and the Leonid rate follows NASA. For planets and Moon pairings this month, see our <a href="/news/planets-visible-november-2026-night-sky-calendar-moon-venus-uranus-opposition/">November 2026 night sky calendar</a>.</p>
 
 **November 2026 brings three meteor shower peaks**, and two of them land under nearly moonless skies. The Southern Taurids peak on the night of Nov. 4-5 and the Northern Taurids on Nov. 11-12, according to the American Meteor Society (AMS). The Leonids follow on the night of Nov. 16-17. None will produce a storm, but the Taurids are famous for slow, bright fireballs, and the dark Moon this year gives them a good chance.
 
