@@ -13,13 +13,13 @@ hero:
   alt: "Thanksgiving meal deals 2026: a home-cooked Thanksgiving dinner spread on a table"
   title: "Thanksgiving meal deals, 2026"
   caption: "File photo of a Thanksgiving dinner. Four retailers have announced 2026 meal prices, from $30 for six at Target to about $160 for up to 16 at Sam's Club."
-  credit: "Photo: Ms Jones from California, USA / Wikimedia Commons, cropped, edited"
+  credit: "Photo: Helena Jacoba / Wikimedia Commons, cropped, edited"
   license:
     name: "CC BY 2.0"
     url: "https://creativecommons.org/licenses/by/2.0"
-    source: "https://commons.wikimedia.org/wiki/File:Our_(Almost_Traditional)_Thanksgiving_Dinner.jpg"
-    author: "Ms Jones from California, USA"
-    authorUrl: "https://www.flickr.com/people/78695167@N00"
+    source: "https://commons.wikimedia.org/wiki/File:Thanksgiving_dinner_table_(49097636093).jpg"
+    author: "Helena Jacoba"
+    authorUrl: "https://www.flickr.com/people/69302634@N02"
 summary:
   - "Sam's Club's Member's Mark Thanksgiving meal goes on sale Wednesday, Oct. 28, 2026: 11 items for about $160, serving up to 16 people, for less than $10 per person."
   - "Aldi's meal for 10 is under $39 (prices run Oct. 14 through Nov. 25), Target's $30 meal for six runs Nov. 8 through Nov. 29, and Lidl's $35.86 basket for up to 10 runs Nov. 11 through Nov. 25."
