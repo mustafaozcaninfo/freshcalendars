@@ -59,7 +59,7 @@ button,input,select{font-size:inherit}
 .category-launchers a{flex:1;min-width:0;display:grid;justify-items:center;align-content:center;gap:9px;background:rgba(255,255,255,.96);border:1px solid #fff;border-radius:10px;min-height:90px;padding:12px 7px;text-decoration:none;color:#0e2135;font-size:11px;font-weight:700;text-align:center;line-height:1.4;box-shadow:0 2px 7px #0e213508}
 .category-launchers .ui-icon{width:23px;height:23px;color:var(--accent)}
 .category-launchers a:hover{border-color:#a4c9b7;transform:translateY(-2px)}
-.category-launchers .tone-blue .ui-icon{color:#397cf6}.category-launchers .tone-orange .ui-icon{color:#e6872b}.category-launchers .tone-purple .ui-icon{color:#9a55dc}.category-launchers .tone-pink .ui-icon{color:#d65f9b}
+.category-launchers .tone-blue .ui-icon{color:#397cf6}.category-launchers .tone-orange .ui-icon{color:#d9771f}.category-launchers .tone-purple .ui-icon{color:#9a55dc}.category-launchers .tone-pink .ui-icon{color:#d65f9b}
 .hero-handwriting{position:absolute;left:53%;top:29%;transform:rotate(-12deg);color:#fff;font:italic 24px/1.1 cursive;text-shadow:0 1px 3px #233b4c55}
 .hero-handwriting span{display:block;background:#75bb63;width:90px;height:4px;border-radius:50%;margin:8px 0 0;transform:rotate(-6deg)}
 .hero-paper{position:absolute;right:8.7%;top:44%;width:12.9%;height:38%;padding:7% 4px 5px;text-align:center;color:#0e2135;text-decoration:none;transform:rotate(2deg);background:transparent;overflow:hidden}
@@ -184,7 +184,7 @@ html[data-theme=dark] .news-main .prose-news tr.is-past td{color:var(--muted)!im
 html[data-theme=dark] :is(.holiday-country-tabs a[aria-current=page],.page-numbers .current,.nb-main a[aria-current=page],.topics button[aria-pressed=true],.tb-main,.zip-finder button,.error-links a:first-child){background:#007749!important;color:#fff!important;border-color:#007749!important}
 html[data-theme=dark] .topics button span{background:var(--surface-tint)!important;color:var(--ink-strong)!important}
 html[data-theme=dark] .facts strong{color:var(--focus)!important}
-html[data-theme=dark] .concept-news-hero .crumbs :is(a,span){color:#0e2135!important}
+
 html[data-theme=dark] .pref-link:hover,html[data-theme=dark] .pref-link:focus-visible{color:var(--focus)!important}
 html.news[data-theme=dark] [data-cat]{--cat:#a7d9c7}
 html.news[data-theme=dark] [data-cat=holidays],html.news[data-theme=dark] [data-cat=elections]{--cat:#e1b5a7}
@@ -197,5 +197,27 @@ html[data-theme=dark] .ad-unit{background:var(--surface-soft)}
 ${INNER_DESIGN_CSS}
 .page-workspace .prose a,.prose-news a{overflow-wrap:anywhere}
 @media(max-width:767px){:is(input:not([type=checkbox]):not([type=radio]):not([type=range]),select,textarea){font-size:16px!important}}
+/* Dark mode: the home hero follows the theme (dark wash over the photo, dark tiles and search); the right side stays clear so the notebook keeps its paper. */
+html[data-theme=dark] .home-hero:after{background:linear-gradient(90deg,rgba(16,32,49,.96),rgba(16,32,49,.86) 30%,rgba(16,32,49,.03) 67%)}
+@media(max-width:1023px){html[data-theme=dark] .home-hero:after{background:linear-gradient(90deg,#102031f2,#102031d9 55%,#10203133)}}
+@media(max-width:640px){html[data-theme=dark] .home-hero:after{background:rgba(16,32,49,.9)}}
+html[data-theme=dark] :is(.hero-copy h1,.hero-intro,.category-launchers a){color:var(--ink-strong)}
+html[data-theme=dark] .home-hero .overline{color:var(--accent)}
+html[data-theme=dark] .home-hero{background-color:var(--wash)}
+/* The mini calendar is printed on the photographed paper, not on the dark wash. Its background is that paper's color,
+   clipped to the glyphs so nothing is painted; it tells the contrast gate what the text really sits on. */
+html[data-theme=dark] .hero-paper{background-color:#efe8df;-webkit-background-clip:text;background-clip:text}
+html[data-theme=dark] .category-launchers a{background:rgba(27,48,66,.95);border-color:var(--line)}
+html[data-theme=dark] .category-launchers a:hover{border-color:var(--accent)}
+html[data-theme=dark] .category-launchers .tone-green .ui-icon{color:var(--accent)}
+html[data-theme=dark] .category-launchers .tone-blue .ui-icon{color:#6aa2ff}
+html[data-theme=dark] .category-launchers .tone-purple .ui-icon{color:#b98bf0}
+html[data-theme=dark] .hero-search .site-search-box{background:var(--surface-soft)!important;color:var(--ink)}
+html[data-theme=dark] .hero-search input{color:var(--ink-strong)}
+html[data-theme=dark] .hero-search input::placeholder{color:var(--muted)}
+html[data-theme=dark] .hero-search .site-search-box:focus-within{border-color:var(--focus)!important}
+html[data-theme=dark] :is(.hero-search input,.hero-search button,.category-launchers a,.preview-arrow):focus-visible{outline-color:var(--focus)}
+/* The search field is transparent inside its box (the dark input rule above would paint it a second shade). */
+html[data-theme=dark] body .site-search-box input[type=search]{background-color:transparent!important}
 @media(pointer:coarse){.footer-grid nav a,.footer-bottom a{display:inline-flex;align-items:center;min-height:32px}:is(.concept-breadcrumb,.crumbs) a,:is(.shelf-heading,.trending-heading,.date-answer)>a,h2.sec a,.shelf-card a,:is(.holiday-toolbar,.library-toolbar,.tools) button,details.toc a,.sources a{display:inline-flex;align-items:center;min-height:24px}}
 `;

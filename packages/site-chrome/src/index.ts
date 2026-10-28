@@ -9,7 +9,7 @@ import { iconHtml } from "./icons.js";
 import { STUDIO_JS } from "./studio-client.js";
 export { THEME_BOOT_HTML } from "./studio-client.js";
 export { iconHtml } from "./icons.js";
-export { pageWorkspaceHtml, sectionRailHtml } from "./page-shell.js";
+export { breadcrumbNavHtml, pageWorkspaceHtml, sectionRailHtml } from "./page-shell.js";
 
 const BLUE = "#007b48";
 
@@ -905,7 +905,7 @@ export function siteHeaderHtml(today: Date = new Date(), opts: ChromeOpts = {}):
 export function siteSearchHtml(today: Date, hero = false): string {
   const id = hero ? "hero-q" : "site-q";
   return `<form class="site-search${hero ? " hero-search" : ""}" role="search" action="/calendars/" data-site-search data-year="${resolvePlanningYear(today)}" data-month-years="${esc(JSON.stringify(MONTH_SLUGS.map((_, i) => resolveMonthYear(i + 1, today))))}">
-  <label class="sr-only" for="${id}">Search calendars, holidays and news</label><div class="site-search-box">${iconHtml("search")}<input id="${id}" type="search" name="q" placeholder="Search calendars, holidays, templates, news…" autocomplete="off" aria-expanded="false" aria-controls="${id}-results" />${hero ? `<button type="submit" aria-label="Search">${iconHtml("search")}</button>` : ""}</div><ul id="${id}-results" class="search-results" aria-label="Search results" hidden></ul><p class="sr-only" aria-live="polite"></p></form>`;
+  <label class="sr-only" for="${id}">Search calendars, holidays and news</label><div class="site-search-box">${iconHtml("search")}<input id="${id}" type="search" name="q" placeholder="Search calendars, holidays…" autocomplete="off" aria-expanded="false" aria-controls="${id}-results" />${hero ? `<button type="submit" aria-label="Search">${iconHtml("search")}</button>` : ""}</div><ul id="${id}-results" class="search-results" aria-label="Search results" hidden></ul><p class="sr-only" aria-live="polite"></p></form>`;
 }
 
 export function siteFooterHtml(today: Date = new Date(), opts: ChromeOpts = {}): string {
