@@ -12,7 +12,7 @@ Last checked: **2026-08-03** (clean go/no-go — **GO**)
 | Site | ✅ | home/hub/blank/month/holidays/when-is/legal/sitemap/ads **200** |
 | Origin Let’s Encrypt | ✅ | Hestia SSL + LE yes |
 | CF SSL | ✅ | **strict** · always HTTPS · Rocket Loader off |
-| Universal SSL wildcard | ⚠️ | still `pending_validation` (soft; apex/cdn already serving) |
+| Universal SSL wildcard | ✅ | active (Google CA, 2026-10-28) |
 | `cdn.freshcalendars.com` | ✅ | health **200** (proxied) |
 | DO CDN host / Spaces | ✅ | health 200 · LIST 200 · custom domain attached |
 | Spaces key | ✅ | `freshcalendars-factory` |
@@ -34,13 +34,15 @@ Last checked: **2026-08-03** (clean go/no-go — **GO**)
 
 ## Zone settings
 
-SSL **strict** · Always HTTPS · Min TLS 1.2 · TLS1.3/0-RTT · Brotli · HTTP/3 · Early Hints · Rocket Loader **off** · Security medium · cache level **aggressive** · browser TTL respect origin · Polish lossless
+Free plan, no paid add-ons (checked 2026-10-28). SSL **strict** · Always HTTPS · Min TLS 1.2 · TLS1.3/0-RTT · Brotli · HTTP/3 · Early Hints **off** (no Link headers; it only added edge subrequests) · Rocket Loader **off** · Polish **off** (paid) · Security medium · cache level **aggressive** · browser TTL respect origin · Smart Tiered Cache **on** (free) · Argo **off** (paid)
+
+Redirect Rule: `www.freshcalendars.com/*` → `https://freshcalendars.com/*` **301**, path and query kept (2026-10-28).
 
 ### Cache (2026-08-03)
 
 | Layer | Policy |
 |-------|--------|
-| CF Cache Rule | apex + www → `cache: true`, edge TTL **31d** (`override_origin`) |
+| CF Cache Rules | apex + www → edge TTL **31d** · `/news/` (not `_astro`, `downloads`) → **1d** · `cdn.` host → **31d** (all `override_origin`; 4xx 60s, 5xx not cached) |
 | Origin HTML | `Cache-Control: public, max-age=300, stale-while-revalidate=3600` (browsers, since 2026-10-27; was 7 days) + `CDN-Cache-Control: max-age=2678400` (Cloudflare) |
 | Origin static | CSS/img **30d** · fonts **365d immutable** |
 | Hestia nginx | `scripts/hestia-apply-nginx-cache.sh` (:80 + :443, user `yuzdehesaplama`) |
