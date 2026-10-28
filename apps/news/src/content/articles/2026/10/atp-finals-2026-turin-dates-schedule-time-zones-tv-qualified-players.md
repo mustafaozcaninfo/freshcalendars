@@ -137,7 +137,7 @@ The event's TV schedule page, checked Oct. 28, 2026 with the banner "15-22 Novem
 |---|---|
 | United States | Tennis Channel (includes Puerto Rico and the U.S. Virgin Islands) |
 | United Kingdom | Sky UK (includes Northern Ireland and Ireland) |
-| Canada | TSN |
+| Canada | The Sports Network (TSN) |
 | Italy | Sky Italia and Mediaset |
 
 The page also says Tennis TV (TennisTV.com) streams ATP Tour action. In Italy, a February 13, 2026 announcement from the event says Mediaset has free-to-air rights to "eight select matches".
