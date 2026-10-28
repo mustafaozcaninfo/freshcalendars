@@ -12,6 +12,13 @@ export interface KeyDate {
 }
 
 export const KEY_DATES: KeyDate[] = [
+  { date: "2026-10-29", label: "Sam Fender St. James' Park presale, 9:30 a.m. GMT", slug: "sam-fender-tickets-2027-stadium-tour-presale-general-sale-time" },
+  { date: "2026-10-30", label: "Sam Fender 2027 stadium tour general sale, 9:30 a.m. GMT (5:30 a.m. ET)", slug: "sam-fender-tickets-2027-stadium-tour-presale-general-sale-time" },
+  { date: "2026-11-15", label: "Nitto ATP Finals begin, Inalpi Arena, Turin", slug: "atp-finals-2026-turin-dates-schedule-time-zones-tv-qualified-players" },
+  { date: "2026-11-22", label: "Nitto ATP Finals final day, Turin", slug: "atp-finals-2026-turin-dates-schedule-time-zones-tv-qualified-players" },
+  { date: "2026-11-25", label: "Ofgem announces energy price cap for Jan. to Mar. 2027", slug: "energy-price-cap-january-2027-announcement-date-25-november-standing-charges" },
+  { date: "2027-01-01", label: "New Ofgem energy price cap period begins", slug: "energy-price-cap-january-2027-announcement-date-25-november-standing-charges" },
+  { date: "2026-11-27", label: "Black Friday in the UK", slug: "black-friday-2026-uk-date-27-november-amazon-uk-sale-dates" },
   { date: "2026-10-28", label: "Winnipeg and Manitoba municipal elections", slug: "winnipeg-election-2026-october-28-voting-hours-id-what-to-know" },
   { date: "2026-11-06", label: "Nations Championship November series begins", slug: "nations-championship-rugby-november-2026-fixtures-kick-off-times-uk-us" },
   { date: "2026-11-21", label: "England v New Zealand, 2:10 p.m. GMT", slug: "nations-championship-rugby-november-2026-fixtures-kick-off-times-uk-us" },
