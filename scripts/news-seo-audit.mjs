@@ -411,7 +411,9 @@ check("08-ABBREV", "Abbreviations defined on first use in article prose (§08 l.
       // IRS form suffixes (Form 1099-NEC, 1099-MISC).
       "NEC", "MISC",
       // Postal codes, as familiar as ID.
-      "ZIP"]);
+      "ZIP",
+      // Show titles styled in capitals (Hulu November 2026 list: "MAO", "LOL Live with Comedian CP").
+      "MAO", "LOL"]);
     const undefined_ = [];
     const seen = new Set();
     for (const m of text.matchAll(/\b([A-Z][A-Z-]{1,}[A-Z])\b/g)) {
