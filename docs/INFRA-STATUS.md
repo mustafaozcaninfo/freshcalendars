@@ -41,7 +41,7 @@ SSL **strict** · Always HTTPS · Min TLS 1.2 · TLS1.3/0-RTT · Brotli · HTTP/
 | Layer | Policy |
 |-------|--------|
 | CF Cache Rule | apex + www → `cache: true`, edge TTL **31d** (`override_origin`) |
-| Origin HTML | `Cache-Control: public, max-age=604800` + `CDN-Cache-Control: max-age=2678400` |
+| Origin HTML | `Cache-Control: public, max-age=300, stale-while-revalidate=3600` (browsers, since 2026-10-27; was 7 days) + `CDN-Cache-Control: max-age=2678400` (Cloudflare) |
 | Origin static | CSS/img **30d** · fonts **365d immutable** |
 | Hestia nginx | `scripts/hestia-apply-nginx-cache.sh` (:80 + :443, user `yuzdehesaplama`) |
 
