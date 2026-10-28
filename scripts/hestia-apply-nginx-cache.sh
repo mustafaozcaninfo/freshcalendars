@@ -2,6 +2,8 @@
 # Re-apply FreshCalendars nginx static TTL split on Hestia (survives domain rebuild only if re-run).
 # Writes both :80 and :443 server blocks — Cloudflare SSL Strict hits 443.
 # Run on VPS as root.
+# HTML: browsers keep a page 5 minutes (so a redesign or a fix reaches returning visitors fast);
+# Cloudflare keeps it 31 days via CDN-Cache-Control, and every deploy purges it.
 set -euo pipefail
 USER=yuzdehesaplama
 DOMAIN=freshcalendars.com
@@ -77,7 +79,7 @@ ${NEWS_LOCATION}
 		try_files /index.html @fallback;
 		root       ${ROOT};
 		expires    off;
-		add_header Cache-Control \"public, max-age=604800, stale-while-revalidate=2592000\" always;
+		add_header Cache-Control \"public, max-age=300, stale-while-revalidate=3600\" always;
 		add_header CDN-Cache-Control \"public, max-age=2678400\" always;
 	}
 
@@ -90,7 +92,7 @@ ${NEWS_LOCATION}
 			access_log /var/log/apache2/domains/${DOMAIN}.log combined;
 			access_log /var/log/apache2/domains/${DOMAIN}.bytes bytes;
 			expires    off;
-			add_header Cache-Control \"public, max-age=604800, stale-while-revalidate=2592000\" always;
+			add_header Cache-Control \"public, max-age=300, stale-while-revalidate=3600\" always;
 			add_header CDN-Cache-Control \"public, max-age=2678400\" always;
 		}
 
@@ -154,7 +156,7 @@ ${NEWS_LOCATION}
 		try_files /index.html @fallback;
 		root       ${ROOT};
 		expires    off;
-		add_header Cache-Control \"public, max-age=604800, stale-while-revalidate=2592000\" always;
+		add_header Cache-Control \"public, max-age=300, stale-while-revalidate=3600\" always;
 		add_header CDN-Cache-Control \"public, max-age=2678400\" always;
 	}
 
@@ -169,7 +171,7 @@ ${NEWS_LOCATION}
 			access_log /var/log/apache2/domains/${DOMAIN}.log combined;
 			access_log /var/log/apache2/domains/${DOMAIN}.bytes bytes;
 			expires    off;
-			add_header Cache-Control \"public, max-age=604800, stale-while-revalidate=2592000\" always;
+			add_header Cache-Control \"public, max-age=300, stale-while-revalidate=3600\" always;
 			add_header CDN-Cache-Control \"public, max-age=2678400\" always;
 		}
 

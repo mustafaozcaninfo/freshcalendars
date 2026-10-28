@@ -23,7 +23,7 @@ document.querySelectorAll('[data-studio]').forEach(function(el){
  function selectedFiles(style){if(model.month)return files(state.year,state.month,style,state.paper,state.start);var v=model.styles.find(function(s){return s.id===style;});var base=new URL(v.pdf,location.origin).pathname.replace(/\.pdf$/,'').replace('/'+model.year+'/','/'+state.year+'/')+'-'+state.paper;return {pdf:base+'.pdf',png:base+'.png',preview:base+'.webp'};}
  function update(push){
   var f=selectedFiles(state.style),label=model.month?model.monthName+' '+state.year:model.baseTitle.replace(String(model.year),String(state.year));
-  el.querySelector('[data-studio-crumb]').textContent=label;
+  el.querySelector('[data-studio-crumb]').textContent=model.crumb.replace(String(model.year),String(state.year));
   el.querySelector('.studio-secondary').dataset.downloadFormat=state.format==='pdf'?'png':'pdf';el.querySelector('[data-secondary-label]').textContent='Download '+(state.format==='pdf'?'PNG':'PDF');
   el.querySelector('[data-studio-description]').textContent=model.lead.replaceAll(String(model.year),String(state.year));
   main.src=f.png;main.alt=label+' calendar, '+state.paper.toUpperCase()+', '+state.start+' start';

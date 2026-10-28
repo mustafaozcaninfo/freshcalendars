@@ -28,6 +28,7 @@ function cacheControl(urlPath, ext) {
   if (urlPath.startsWith("/news/_astro/") || ext === ".woff2") return "public, max-age=31536000, immutable";
   if (urlPath.startsWith("/news/")) return "public, max-age=300, stale-while-revalidate=600";
   if ([".png", ".jpg", ".webp", ".avif", ".svg", ".ico", ".css", ".js"].includes(ext)) return "public, max-age=2592000";
+  if (ext === ".html" || ext === "") return "public, max-age=300, stale-while-revalidate=3600";
   return "public, max-age=604800";
 }
 
