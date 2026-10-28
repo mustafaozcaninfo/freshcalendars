@@ -1,7 +1,7 @@
 ---
 title: "UK Budget 2026 Date: Delivered Wednesday, Oct. 28, Cash ISA Limit Stays £20,000, Key Dates and US Times"
 seoTitle: "UK Budget 2026: Oct. 28 Date, Cash ISA and Key Dates"
-description: "The UK Budget 2026 was delivered Wednesday, Oct. 28. The cash Individual Savings Account (ISA) limit stays at £20,000, and the fuel duty cut runs to July 1, 2027."
+description: "The UK Budget 2026 was delivered on Wed., Oct. 28. The cash Individual Savings Account (ISA) limit stays at £20,000; the fuel duty cut runs to July 1, 2027."
 type: news
 publishedAt: "2026-10-26T08:45:00-04:00"
 updatedAt: "2026-10-28T11:50:00-04:00"
