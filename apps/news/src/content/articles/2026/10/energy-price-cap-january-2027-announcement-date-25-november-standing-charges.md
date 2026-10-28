@@ -4,6 +4,7 @@ seoTitle: "Energy Price Cap January 2027: Date and Standing Charges"
 description: "The Office of Gas and Electricity Markets (Ofgem) will announce the 1 January 2027 energy price cap by 25 November 2026. Standing charges: 54.83p, 29.68p a day."
 type: news
 publishedAt: "2026-10-28T03:42:00-04:00"
+updatedAt: "2026-10-28T08:38:00-04:00"
 authors: [alex-morgan]
 category: uk-canada
 keywords: ["energy price cap January 2027", "when is the next price cap announcement", "Ofgem price cap 25 November 2026", "gas standing charge", "energy price cap 2027 dates"]
@@ -20,7 +21,7 @@ hero:
   caption: "File photo of a gas burner. Ofgem says it will announce the cap for 1 January to 31 March 2027 by 25 November 2026."
 summary:
   - "Ofgem will announce the cap for 1 January to 31 March 2027 by Wednesday, 25 November 2026. The level has not been announced."
-  - "Ofgem lists the next three announcement dates: 25 November 2026, 23 February 2027 and 26 May 2027. It may publish earlier for external reasons."
+  - "HM Treasury said on 28 October 2026 that gas standing charges will be removed, asking Ofgem to do it in 2027 or as soon as possible after; no start date is set."
   - "From 1 October to 31 December 2026, the electricity standing charge is 54.83 pence a day and the gas standing charge is 29.68 pence a day (Direct Debit averages)."
   - "Our calculation: those two standing charges add up to £308.46 a year before any energy is used."
 faq:
@@ -35,6 +36,10 @@ faq:
   - q: "Is VAT charged on electricity in 2026 to 2027?"
     a: "No, not from 1 October 2026 to 31 March 2027. Ofgem says the government has removed VAT from electricity bills for that period. Gas still includes VAT at 5%."
 sources:
+  - title: "Chancellor abolishes standing charges on gas bills to make payments fairer"
+    url: "https://www.gov.uk/government/news/chancellor-abolishes-standing-charges-on-gas-bills-to-make-payments-fairer"
+    publisher: "HM Treasury, GOV.UK"
+    date: "2026-10-28"
   - title: "Changes to energy price cap between 1 October and 31 December 2026"
     url: "https://www.ofgem.gov.uk/news/changes-energy-price-cap-between-1-october-and-31-december-2026"
     publisher: "Ofgem"
@@ -100,6 +105,8 @@ downloads:
 draft: false
 ---
 
+<p class="callout"><b>Last updated 28 October 2026, 8:38 a.m. ET.</b> Ahead of today's Budget, HM Treasury said gas standing charges will be scrapped, with Ofgem asked to remove them "in 2027 or as soon as possible after". No start date is set. Details are in the new section below.</p>
+
 **Ofgem will announce the energy price cap for 1 January to 31 March 2027 by Wednesday, 25 November 2026**, according to the Office of Gas and Electricity Markets (Ofgem). The level is not yet announced, and this story does not forecast it. Ofgem also says it may publish before that date "if we need to because of external reasons". Below are all three upcoming announcement dates in one table, what the standing charge costs over a year (our calculation) and a one-page printable.
 
 ## When is the next energy price cap announcement?
@@ -142,6 +149,14 @@ A standing charge is a fixed daily amount you pay whether or not you use any ene
 | Both | 84.51p | £308.46 |
 
 Our calculation from Ofgem's Direct Debit averages; a real bill depends on your supplier, region and tariff, and rates change each period.
+
+## Are gas standing charges being scrapped?
+
+Yes, but not yet. On 28 October 2026, Budget day, HM Treasury announced that "Tens of millions of households will no longer pay standing charges on their gas bills." The Chancellor "will ask Ofgem to deliver removal of these charges – which are £108 a year for the typical household on average – in 2027 or as soon as possible after."
+
+That £108 matches our 365-day figure above (£108.33 at 29.68p a day). The Treasury says the fixed costs will move onto the unit rate instead, "which could save 60% of account-holding households around an average of £45 off their annual bill." Households that use more gas could pay more per unit, and the Treasury says it will set out "targeted mitigation for a small number of households" later.
+
+No date has been announced. Ofgem has not yet said whether the 1 January 2027 cap or a later one will be the first without a gas standing charge, so check the 25 November announcement. The electricity standing charge is not part of this change.
 
 ## Is there a lower standing charge tariff?
 
