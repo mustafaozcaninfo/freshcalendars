@@ -13,7 +13,6 @@ export interface KeyDate {
 
 export const KEY_DATES: KeyDate[] = [
   { date: "2026-10-29", label: "National Cat Day", slug: "national-cat-day-2026-thursday-october-29" },
-  { date: "2026-10-29", label: "Japan Series Game 5 (if needed), 5 a.m. ET", slug: "japan-series-2026-schedule-softbank-hawks-dena-baystars-us-time" },
   { date: "2026-11-05", label: "Birmingham Frankfurt Christmas Market opens", slug: "manchester-birmingham-christmas-markets-2026-dates-opening-times" },
   { date: "2026-11-06", label: "Manchester Christmas Markets open", slug: "manchester-birmingham-christmas-markets-2026-dates-opening-times" },
   { date: "2026-10-29", label: "Sam Fender St. James' Park presale, 9:30 a.m. GMT", slug: "sam-fender-tickets-2027-stadium-tour-presale-general-sale-time" },
