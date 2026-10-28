@@ -1,13 +1,13 @@
 ---
-title: "Sample Ballot 2026: How to View Your Sample Ballot With Official Lookup Links by State"
-seoTitle: "Sample Ballot 2026: Official Lookup Links by State"
-description: "View your sample ballot for Nov. 3, 2026: official lookup pages for 33 states and D.C., plus the National Association of Secretaries of State (NASS) tool."
+title: "Sample Ballot 2026: View Your Ballot and Find Your Polling Place With Official Links by State"
+seoTitle: "Sample Ballot 2026 and Polling Place: Official Links"
+description: "Sample ballot and polling place lookup for Nov. 3, 2026: official pages for 33 states and D.C. and the National Association of Secretaries of State (NASS) tool."
 type: explainer
 publishedAt: "2026-10-25T13:09:00-04:00"
-updatedAt: "2026-10-26T06:10:00-04:00"
+updatedAt: "2026-10-28T18:20:00-04:00"
 authors: [alex-morgan]
 category: elections
-keywords: ["sample ballot 2026", "view my sample ballot", "sample ballot by zip code", "printable sample ballot"]
+keywords: ["sample ballot 2026", "voting near me", "polling place lookup", "sample ballot by zip code", "printable sample ballot"]
 dateline: "New York"
 hero:
   src: ../../../../assets/news/sample-ballot-2026-by-state-official-lookup-links/sample-ballot-2026-by-state-official-lookup-links.webp
@@ -23,7 +23,7 @@ hero:
 summary:
   - "Election Day is Tuesday, Nov. 3, 2026; the National Association of Secretaries of State (NASS) Can I Vote tool links to each state's election website."
   - "We rechecked each state's lookup page on Oct. 26, 2026: 33 states and Washington, D.C. loaded, and 17 states blocked our automated check or moved their page."
-  - "Sample ballots are not a ZIP code lookup in most states, because the ballot depends on your exact address and precinct."
+  - "To find your polling place for Election Day, use your state's voter portal; California, Pennsylvania, North Carolina and Virginia each have an official polling-place page, listed in this story."
   - "A free one-page Election Day 2026 Ballot Prep Checklist covers finding your ballot, marking your choices and what to check before you go."
 faq:
   - q: "How do I view my sample ballot for 2026?"
@@ -51,6 +51,22 @@ sources:
     url: "https://www.ncsbe.gov/voting/sample-ballot"
     publisher: "North Carolina State Board of Elections"
     date: "2026-10-25"
+  - title: "My Voter Status"
+    url: "https://voterstatus.sos.ca.gov/"
+    publisher: "California Secretary of State"
+    date: "2026-10-28"
+  - title: "Polling Place Information"
+    url: "https://www.pavoterservices.pa.gov/pages/pollingplaceinfo.aspx"
+    publisher: "Pennsylvania Department of State"
+    date: "2026-10-28"
+  - title: "Election Day Polling Place Search"
+    url: "https://vt.ncsbe.gov/PPLkup/"
+    publisher: "North Carolina State Board of Elections"
+    date: "2026-10-28"
+  - title: "Virginia Voter Information - Citizen Portal"
+    url: "https://vote.elections.virginia.gov/"
+    publisher: "Virginia Department of Elections"
+    date: "2026-10-28"
 internalLinks:
   - href: "/november-calendars.html"
     label: "November 2026 printable calendar"
@@ -93,9 +109,22 @@ downloads:
 draft: false
 ---
 
-<p class="callout"><b>Updated Oct. 26, 2026.</b> We rechecked every state's lookup page and added the official sample ballot pages for Minnesota and South Carolina. Some state sites block automated checks, so for those we point to the official National Association of Secretaries of State (NASS) tool; we will update this page as states post November ballots.</p>
+<p class="callout"><b>Last updated Oct. 28, 2026, 6:20 p.m. ET.</b> We added a section on finding your polling place for Election Day, Tuesday, Nov. 3, with official lookup pages for California, Pennsylvania, North Carolina and Virginia. On Oct. 26 we rechecked every state's lookup page and added Minnesota and South Carolina. Some state sites block automated checks, so for those we point to the official National Association of Secretaries of State (NASS) tool.</p>
 
 **To view your sample ballot for Election Day, Tuesday, Nov. 3, 2026, start with your state's official voter lookup page or the National Association of Secretaries of State (NASS) "Can I Vote" tool.** NASS says the tool "links directly to state election websites and trusted resources" and "does not capture any information." Below: the lookup page for 33 states and Washington, D.C. that loaded when we checked, what to do in the 17 states that did not, and a free printable checklist.
+
+## Where do I vote on Nov. 3? Find your polling place
+
+Most of the state voter portals linked in the table below also show your polling place on the same page as your registration. If your state is not one of the four below, open its link in that table, or use the [NASS Can I Vote tool](https://www.nass.org/can-i-vote). These four states have an official polling-place page, confirmed Oct. 28, 2026:
+
+| State | Official polling-place lookup | What the page says |
+|---|---|---|
+| California | [My Voter Status](https://voterstatus.sos.ca.gov/), California Secretary of State | Lists "Find your polling place." |
+| Pennsylvania | [Polling Place Information](https://www.pavoterservices.pa.gov/pages/pollingplaceinfo.aspx), Pennsylvania Department of State | "The Polling Place Search tool will help you locate a polling place for Election day." |
+| North Carolina | [Election Day Polling Place Search](https://vt.ncsbe.gov/PPLkup/), North Carolina State Board of Elections | Search by address or precinct. |
+| Virginia | [Virginia Voter Information Citizen Portal](https://vote.elections.virginia.gov/), Virginia Department of Elections | Lets you view your polling place. |
+
+On Election Day you vote at the polling place assigned to your registered address. Early voting sites can differ from Election Day sites, so confirm which kind of site your lookup shows. If your name is not on the list when you arrive, ask for a provisional ballot. Check your state's election site for the details.
 
 ## Can I find a sample ballot by ZIP code?
 
