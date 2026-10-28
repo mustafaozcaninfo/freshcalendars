@@ -12,6 +12,11 @@ export interface KeyDate {
 }
 
 export const KEY_DATES: KeyDate[] = [
+  { date: "2026-10-28", label: "National First Responders Day", slug: "national-first-responders-day-2026-october-28" },
+  { date: "2026-11-01", label: "Clocks stay put in BC, Alberta, Saskatchewan, Manitoba, Yukon and NWT", slug: "canada-clocks-fall-back-november-1-2026-which-provinces-no-time-change" },
+  { date: "2026-11-07", label: "Crescent Moon about 1° from Venus before sunrise", slug: "planets-visible-november-2026-night-sky-calendar-moon-venus-uranus-opposition" },
+  { date: "2026-11-16", label: "Mars and Jupiter 1.2° apart before dawn", slug: "planets-visible-november-2026-night-sky-calendar-moon-venus-uranus-opposition" },
+  { date: "2026-11-25", label: "Uranus at opposition", slug: "planets-visible-november-2026-night-sky-calendar-moon-venus-uranus-opposition" },
   { date: "2026-10-29", label: "National Cat Day", slug: "national-cat-day-2026-thursday-october-29" },
   { date: "2026-10-29", label: "Japan Series Game 5 (if needed), 5 a.m. ET", slug: "japan-series-2026-schedule-softbank-hawks-dena-baystars-us-time" },
   { date: "2026-11-05", label: "Birmingham Frankfurt Christmas Market opens", slug: "manchester-birmingham-christmas-markets-2026-dates-opening-times" },
