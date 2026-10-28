@@ -239,6 +239,11 @@ export const KEY_DATES: KeyDate[] = [
   { date: "2026-11-22", label: "NFL in Mexico City: Vikings vs. 49ers, 8:20 p.m. ET", slug: "nfl-international-games-november-2026-madrid-munich-mexico-city-kickoff-times" },
   { date: "2026-11-08", label: "Target $30 Thanksgiving meal for six starts", slug: "thanksgiving-meal-deals-2026-aldi-lidl-target-sams-club-prices-dates" },
   { date: "2026-11-11", label: "Lidl $35.86 Thanksgiving basket starts", slug: "thanksgiving-meal-deals-2026-aldi-lidl-target-sams-club-prices-dates" },
+  { date: "2026-11-03", label: "Champions League matchday 4 begins: 12:45 p.m. and 3 p.m. ET", slug: "champions-league-november-2026-schedule-kickoff-times-et-matchday-4-5" },
+  { date: "2026-11-24", label: "Champions League matchday 5: Arsenal v Dortmund, 3 p.m. ET", slug: "champions-league-november-2026-schedule-kickoff-times-et-matchday-4-5" },
+  { date: "2026-11-27", label: "Day after Thanksgiving: state offices closed in 19 states", slug: "is-the-day-after-thanksgiving-a-state-holiday-2026-states-closed-november-27" },
+  { date: "2026-10-30", label: "Dexter: Resurrection Season 2 returns on Paramount+", slug: "new-on-paramount-plus-november-2026-yellowjackets-final-season" },
+  { date: "2026-11-20", label: "Yellowjackets final season premieres on Paramount+", slug: "new-on-paramount-plus-november-2026-yellowjackets-final-season" },
 ];
 
 /** Today's date in Eastern Time as YYYY-MM-DD. */
