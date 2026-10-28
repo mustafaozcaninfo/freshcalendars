@@ -189,6 +189,13 @@ export const KEY_DATES: KeyDate[] = [
   { date: "2026-11-04", label: "First announced NHL Hometown Remix game: Sabres vs. Senators, 7:30 p.m. ET", slug: "nhl-hometown-remix-jerseys-2026-27-unveil-date-game-schedule" },
   { date: "2026-11-13", label: "Friday the 13th, the last of 2026", slug: "friday-the-13th-november-13-2026-next-friday-13th-dates" },
   { date: "2026-11-29", label: "F1 Qatar Grand Prix, 11 a.m. ET", slug: "qatar-grand-prix-2026-schedule-race-time-by-time-zone" },
+  { date: "2026-10-29", label: "Thursday Night Football: Panthers at Packers, 8:15 p.m. ET, Prime Video", slug: "thursday-night-football-tonight-panthers-packers-tnf-schedule-2026" },
+  { date: "2026-11-05", label: "Thursday Night Football: Jaguars at Ravens, 8:15 p.m. ET", slug: "thursday-night-football-tonight-panthers-packers-tnf-schedule-2026" },
+  { date: "2026-11-01", label: "Movember starts: begin clean shaven", slug: "movember-2026-dates-shave-day-60-km-move-challenge-tracker" },
+  { date: "2026-11-19", label: "Hyde Park Winter Wonderland opens, 12 p.m. GMT", slug: "hyde-park-winter-wonderland-2026-dates-opening-times-tickets" },
+  { date: "2027-01-03", label: "Hyde Park Winter Wonderland final day", slug: "hyde-park-winter-wonderland-2026-dates-opening-times-tickets" },
+  { date: "2026-11-04", label: "Hulu: All's Fair season 2 and The Remarried Empress", slug: "new-on-hulu-november-2026-release-dates" },
+  { date: "2026-11-20", label: "Percy Jackson and the Olympians season 3 on Disney+ and Hulu", slug: "new-on-hulu-november-2026-release-dates" },
 ];
 
 /** Today's date in Eastern Time as YYYY-MM-DD. */
