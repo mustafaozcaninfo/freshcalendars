@@ -64,7 +64,7 @@ summary:
   - "The Nations Championship November series runs from Fri., Nov. 6 to Sat., Nov. 21, 2026 (Rounds 4 to 6), with Finals Weekend at Allianz Stadium, Twickenham, on Nov. 27 to 29, per Rugby Australia and Scottish Rugby."
   - "England v New Zealand is Sat., Nov. 21 at 2:10pm Greenwich Mean Time (GMT), which is 9:10 a.m. Eastern Time (ET) and 6:10 a.m. Pacific Time (PT)."
   - "The final, first-placed North team v first-placed South team, is Sun., Nov. 29 at 4:40pm GMT, 11:40 a.m. ET and 8:40 a.m. PT."
-  - "A U.S. broadcaster was not yet announced in the sources we checked; ITV and STV were reported to hold UK free-to-air rights."
+  - "A U.S. broadcaster was not yet announced in the sources we checked; Independent Television (ITV) and Scottish Television (STV) were reported to hold UK free-to-air rights."
 faq:
   - q: "What time is England v New Zealand in the Nations Championship?"
     a: "Saturday 21 November 2026 at 2:10pm GMT at Allianz Stadium, Twickenham. That is 9:10 a.m. ET and 6:10 a.m. PT. The time comes from Rugby Australia's list, converted by Fresh Calendars from Australian Eastern Daylight Time."
@@ -191,7 +191,7 @@ Rugby Australia's page lists the results of Rounds 1 and 2. It does not list Rou
 
 ## Where can I watch the Nations Championship?
 
-Rugby Australia says Stan Sport shows every game in Australia. In the UK, BroadcastNow reported that ITV and STV hold free-to-air rights; that is a trade report, not a broadcaster listing. A U.S. broadcaster was not yet announced in the sources we checked, so check your local listings.
+Rugby Australia says Stan Sport shows every game in Australia. In the UK, BroadcastNow reported that Independent Television (ITV) and Scottish Television (STV) hold free-to-air rights; that is a trade report, not a broadcaster listing. A U.S. broadcaster was not yet announced in the sources we checked, so check your local listings.
 
 For other UK sport on U.S. clocks, see the [FA Cup first round kick-off times](/news/fa-cup-first-round-2026-27-fixtures-tv-picks-kickoff-times/) and the [Carabao Cup fourth round schedule](/news/carabao-cup-fourth-round-2026-schedule-kickoff-times-tv-us-uk/). The 5-hour gap to Eastern Time is explained in our [guide to the UK and Europe clock change](/news/uk-europe-clocks-go-back-october-25-2026-time-difference/).
 
