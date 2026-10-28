@@ -250,6 +250,8 @@ export const PUZZLE_HEROES: [string, string, string, string, string, string, str
   ["nyt-pips-hints-answers-november-11-2026", "pips", "#1e293b", "#fdba74", "Pips · Wed., Nov. 11, 2026", "Pips hints today", "Hints for Easy, Medium and Hard, placements at the end."],
   ["nyt-mini-crossword-answers-october-27-2026", "mini", "#0f1d2e", "#86efac", "NYT Mini · Tue., Oct. 27, 2026", "NYT Mini answers", "A hint for every clue first, the full grid at the end."],
   ["quordle-hints-answers-october-27-2026-1737", "quordle", "#172033", "#38bdf8", "Quordle #1737 · Tue., Oct. 27, 2026", "Quordle hints today", "A clue for each of the four words, answers at the end."],
+  ["quordle-hints-answers-october-28-2026-1738", "quordle", "#1b2a41", "#f472b6", "Quordle #1738 · Wed., Oct. 28, 2026", "Quordle hints today", "A clue for each of the four words, answers at the end."],
+  ["waffle-answer-hints-today-october-28-2026-1741", "waffle", "#22303c", "#a78bfa", "Waffle #1741 · Wed., Oct. 28, 2026", "Waffle hints today", "A clue for each of the six words, the solved grid at the end."],
   ["blossom-word-game-answers-october-27-2026", "blossom", "#2e1065", "#fde68a", "Blossom · Tue., Oct. 27, 2026", "Blossom answers", "Letters and hints first, the pangrams only at the end."],
   ["wordle-hint-answer-today-november-12-2026-1972", "wordle", "#121213", "#c9b458", "Wordle #1972 · Thu., Nov. 12, 2026", "Wordle hints today", "Six clues from gentle to strong, the answer only at the end."],
   ["nyt-connections-hints-answers-november-12-2026-1250", "connections", "#1e1a3a", "#f9df6d", "Connections #1250 · Thu., Nov. 12, 2026", "Connections hints", "Gentle hints for every group first, answers only at the end."],
