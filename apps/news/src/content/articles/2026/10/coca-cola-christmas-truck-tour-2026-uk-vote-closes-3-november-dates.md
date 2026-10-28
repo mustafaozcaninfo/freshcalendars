@@ -105,7 +105,7 @@ assets:
 
 **The Coca-Cola Christmas Truck Tour 2026 vote in Great Britain closes at 16:00 on Tuesday 3 November 2026**, according to the Coca-Cola Great Britain terms and conditions (T&Cs). The UK is on Greenwich Mean Time (GMT) since 25 October, so the deadline is 11 a.m. Eastern Time (ET) on Nov. 3 (US clocks fall back on Nov. 1, so ET is then standard time, by our calculation).
 
-The company's vote page says that "for the first time EVER" people across Great Britain can help shape where the truck goes next. No 2026 stop, stop count or start date has been announced. A one-page checklist is in the downloads.
+The company's vote page says this is the first year people across Great Britain can help shape where the truck goes next. No 2026 stop, stop count or start date has been announced. A one-page checklist is in the downloads.
 
 ## When does the Coca-Cola truck vote open and close?
 

@@ -1,7 +1,7 @@
 ---
-title: "PlayStation Plus November 2026 Games: Dead Island 2, Tomb Raider IV-VI Remastered, Monster Train 2"
+title: "PlayStation Plus November 2026 Games: Dead Island 2, Tomb Raider IV–VI Remastered, Monster Train 2"
 seoTitle: "PlayStation Plus November 2026 Games and Dates"
-description: "Sony named the PlayStation Plus (PS Plus) November 2026 games Oct. 28: Dead Island 2, Tomb Raider IV-VI Remastered and Monster Train 2, playable Nov. 3 to 30."
+description: "Sony named the PlayStation Plus (PS Plus) November 2026 games Oct. 28: Dead Island 2, Tomb Raider IV–VI Remastered and Monster Train 2, playable Nov. 3 to 30."
 type: news
 publishedAt: "2026-10-28T13:48:00-04:00"
 authors: [jordan-bennett]
@@ -21,7 +21,7 @@ assets:
     layout: auto
     rows:
       - ["Mon., Nov. 2", "Last day to add the October games: F1 25, Hunt: Showdown 1896, Earth Defense Force: World Brothers 2"]
-      - ["Tue., Nov. 3", "Dead Island 2, Tomb Raider IV-VI Remastered and Monster Train 2 playable"]
+      - ["Tue., Nov. 3", "Dead Island 2, Tomb Raider IV–VI Remastered and Monster Train 2 playable"]
       - ["Fri., Nov. 6", "Modern Warfare 4 Season 1 launch (PlayStation Blog headline)"]
       - ["Thu., Nov. 19", "Grand Theft Auto VI launch (promoted on the PlayStation Blog)"]
       - ["Mon., Nov. 30", "Last day to play the November Monthly Games"]
@@ -40,7 +40,7 @@ hero:
     source: "https://commons.wikimedia.org/wiki/File:PlayStation_5_and_DualSense_(2).jpg"
     author: "Osh33m"
 summary:
-  - "The PlayStation Blog said on Oct. 28, 2026 that Dead Island 2, Tomb Raider IV-VI Remastered and Monster Train 2 are the PS Plus Monthly Games for November."
+  - "The PlayStation Blog said on Oct. 28, 2026 that Dead Island 2, Tomb Raider IV–VI Remastered and Monster Train 2 are the PS Plus Monthly Games for November."
   - "All three are playable from Tuesday, Nov. 3 to Monday, Nov. 30, 2026."
   - "The October games (F1 25, Hunt: Showdown 1896, Earth Defense Force: World Brothers 2) can be added until Monday, Nov. 2."
   - "Sony has not given a time of day for any of these dates, and the November Game Catalog is not yet announced."
@@ -48,7 +48,7 @@ faq:
   - q: "When do the PS Plus November 2026 games come out?"
     a: "The PlayStation Blog says all three are available to play from Tuesday, Nov. 3 to Monday, Nov. 30, 2026. Sony has not given a time of day."
   - q: "Which PS Plus November 2026 games are on PS4?"
-    a: "Dead Island 2 and Tomb Raider IV-VI Remastered are listed for PS5 and PS4. Monster Train 2 is listed for PS5 only."
+    a: "Dead Island 2 and Tomb Raider IV–VI Remastered are listed for PS5 and PS4. Monster Train 2 is listed for PS5 only."
   - q: "Do I need PS Plus Essential for the November games?"
     a: "The Monthly Games need an active PS Plus membership. Essential is the lowest tier, listed on playstation.com on Oct. 28, 2026 at $10.99 per month."
   - q: "When do the October PS Plus games leave?"
@@ -92,18 +92,18 @@ related: [gta-6-countdown-release-time-by-time-zone, peak-ps5-price-crossplay-gu
 draft: false
 ---
 
-**Sony announced on the PlayStation Blog today, Wednesday, Oct. 28, 2026, that Dead Island 2, Tomb Raider IV-VI Remastered and Monster Train 2 are the PlayStation Plus (PS Plus) Monthly Games for November, playable from Tuesday, Nov. 3 to Monday, Nov. 30.** The blog post says all three are available to play across that window. The tables below add the dates around it, and a free printable calendar follows.
+**Sony announced on the PlayStation Blog today, Wednesday, Oct. 28, 2026, that Dead Island 2, Tomb Raider IV–VI Remastered and Monster Train 2 are the PlayStation Plus (PS Plus) Monthly Games for November, playable from Tuesday, Nov. 3 to Monday, Nov. 30.** The blog post says all three are available to play across that window. The tables below add the dates around it, and a free printable calendar follows.
 
 <p class="callout"><b>Checked Oct. 28, 2026.</b> Sony has not given a time of day for the Nov. 3 start, the Nov. 30 end or the Nov. 2 cutoff for the October games. This story does not state one.</p>
 
 ## Which games are the PS Plus November 2026 Monthly Games?
 
-The PlayStation Blog lists three games. Tomb Raider IV-VI Remastered is the remastered collection of the "Darkness Trilogy." Dead Island 2 is a role-playing game (RPG) set in a zombie-overrun Los Angeles the post calls "HELL-A," with online three-player co-op. Monster Train 2 is a single-player deckbuilding roguelite.
+The PlayStation Blog lists three games. Tomb Raider IV–VI Remastered is the remastered collection of the "Darkness Trilogy." Dead Island 2 is a role-playing game (RPG) set in a zombie-overrun Los Angeles the post calls "Hell-A," with online three-player co-op. Monster Train 2 is a single-player deckbuilding roguelite.
 
 | Game | Platforms | Playable from | Add by |
 |---|---|---|---|
 | Dead Island 2 | PS5, PS4 | Tue., Nov. 3 | Mon., Nov. 30 |
-| Tomb Raider IV-VI Remastered | PS5, PS4 | Tue., Nov. 3 | Mon., Nov. 30 |
+| Tomb Raider IV–VI Remastered | PS5, PS4 | Tue., Nov. 3 | Mon., Nov. 30 |
 | Monster Train 2 | PS5 only | Tue., Nov. 3 | Mon., Nov. 30 |
 
 The "Add by" column follows the blog's window, which runs to Monday, Nov. 30.
@@ -124,7 +124,7 @@ Weekdays below are computed from the dates. The first two rows and the last row 
 | Thu., Nov. 19 | Grand Theft Auto VI launch | PlayStation Blog |
 | Mon., Nov. 30 | Last day for the November Monthly Games | PlayStation Blog, Oct. 28, 2026 |
 
-For the Grand Theft Auto VI launch time in each U.S. time zone, see our [GTA 6 countdown](/news/gta-6-countdown-release-time-by-time-zone/).
+For the Grand Theft Auto (GTA) VI launch time in each U.S. time zone, see our [GTA 6 countdown](/news/gta-6-countdown-release-time-by-time-zone/).
 
 ## What happens to the October PS Plus games?
 
