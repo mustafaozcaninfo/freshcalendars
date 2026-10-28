@@ -1,7 +1,7 @@
 ---
 title: "King Tides 2026: Coastal Flood Warnings This Week, California Dates Nov. 24-26, Dec. 23-25 and Jan. 21-22"
 seoTitle: "King Tides 2026: California Dates and High Tide Times"
-description: "National Weather Service (NWS) coastal flood warnings cover South Florida to Georgia on Oct. 28, 2026. California king tides: Nov. 24-26, Dec. 23-25, Jan. 21-22."
+description: "National Weather Service (NWS) coastal flood warnings cover South Florida to Georgia Oct. 28, 2026. California king tides: Nov. 24-26, Dec. 23-25, Jan. 21-22."
 type: news
 publishedAt: "2026-10-27T07:45:00-04:00"
 updatedAt: "2026-10-28T03:45:00-04:00"
