@@ -183,6 +183,12 @@ export const KEY_DATES: KeyDate[] = [
   { date: "2026-11-10", label: "Champions Classic at the United Center, Chicago", slug: "college-basketball-2026-27-key-dates-season-start-march-madness-printable" },
   { date: "2027-03-14", label: "Selection Sunday for the 2027 NCAA tournaments", slug: "college-basketball-2026-27-key-dates-season-start-march-madness-printable" },
   { date: "2027-04-05", label: "NCAA men's championship game, Ford Field, Detroit", slug: "college-basketball-2026-27-key-dates-season-start-march-madness-printable" },
+  { date: "2026-10-28", label: "Apple pre-orders open: MacBook Pro M6, iMac, iPad mini, 10:10 a.m. PT", slug: "macbook-pro-m6-imac-ipad-mini-pre-order-release-date-november-6" },
+  { date: "2026-10-30", label: "HomePod mini 2 in stores", slug: "macbook-pro-m6-imac-ipad-mini-pre-order-release-date-november-6" },
+  { date: "2026-11-06", label: "MacBook Pro M6, iMac M6 and iPad mini in stores", slug: "macbook-pro-m6-imac-ipad-mini-pre-order-release-date-november-6" },
+  { date: "2026-11-04", label: "First announced NHL Hometown Remix game: Sabres vs. Senators, 7:30 p.m. ET", slug: "nhl-hometown-remix-jerseys-2026-27-unveil-date-game-schedule" },
+  { date: "2026-11-13", label: "Friday the 13th, the last of 2026", slug: "friday-the-13th-november-13-2026-next-friday-13th-dates" },
+  { date: "2026-11-29", label: "F1 Qatar Grand Prix, 11 a.m. ET", slug: "qatar-grand-prix-2026-schedule-race-time-by-time-zone" },
 ];
 
 /** Today's date in Eastern Time as YYYY-MM-DD. */
