@@ -12,6 +12,7 @@ export interface KeyDate {
 }
 
 export const KEY_DATES: KeyDate[] = [
+  { date: "2026-11-01", label: "US clocks fall back; Mexico City moves to Chicago's time", slug: "mexico-time-difference-after-november-1-2026-us-clocks-fall-back" },
   { date: "2026-10-28", label: "National First Responders Day", slug: "national-first-responders-day-2026-october-28" },
   { date: "2026-11-01", label: "Clocks stay put in BC, Alberta, Saskatchewan, Manitoba, Yukon and NWT", slug: "canada-clocks-fall-back-november-1-2026-which-provinces-no-time-change" },
   { date: "2026-11-07", label: "Crescent Moon about 1° from Venus before sunrise", slug: "planets-visible-november-2026-night-sky-calendar-moon-venus-uranus-opposition" },
