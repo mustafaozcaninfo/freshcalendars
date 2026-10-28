@@ -34,7 +34,11 @@ const nets = [
   .share ul{list-style:none;margin:0;padding:0;display:flex;flex-wrap:wrap;gap:.45rem}
   .share a,.share button{--c:var(--ink-strong);display:inline-flex;align-items:center;gap:.45rem;min-height:44px;padding:0 .9rem 0 .7rem;border:1px solid var(--line);border-radius:999px;background:#fff;color:var(--ink-strong);font:inherit;font-size:.88rem;font-weight:700;text-decoration:none;cursor:pointer;transition:border-color .15s ease,box-shadow .15s ease,transform .15s ease}
   .ico{width:20px;height:20px;flex:none;fill:var(--c);color:var(--c)}
-  .share .facebook{--c:#0866FF}.share .x{--c:#000}.share .pinterest{--c:#BD081C}.share .whatsapp{--c:#25D366}.share .reddit{--c:#FF4500}.share .bluesky{--c:#1185FE}
+  /* Brand colors, adjusted where the official one falls under 3:1 against the button (WCAG 1.4.11). */
+  .share .facebook{--c:#0866FF}.share .x{--c:#000}.share .pinterest{--c:#BD081C}.share .whatsapp{--c:#169B47}.share .reddit{--c:#FF4500}.share .bluesky{--c:#1185FE}
+  :global(html[data-theme=dark]) .share .facebook{--c:#3D8BFF}
+  :global(html[data-theme=dark]) .share .x{--c:#fff}
+  :global(html[data-theme=dark]) .share .pinterest{--c:#FF4D5E}
   .share a:hover,.share button:hover,.share a:focus-visible,.share button:focus-visible{border-color:var(--c);box-shadow:0 3px 10px rgba(16,24,40,.12);transform:translateY(-1px)}
   .share :focus-visible{outline:3px solid var(--gold);outline-offset:2px}
   .share [hidden],.share li:has(> [hidden]){display:none}

@@ -239,11 +239,14 @@ const keyDates = upcomingFor(new Set([article.id]));
       const apDate = (iso, wd = true) => { const d = new Date(iso + "T12:00:00Z"); return (wd ? WD[d.getUTCDay()] + ", " : "") + MON[d.getUTCMonth()] + " " + d.getUTCDate(); };
       const inDays = (n) => (n === 0 ? "today" : n === 1 ? "tomorrow" : "in " + n + " days");
       const show = (el) => { el.hidden = false; return el; };
+      // Markdown tables sit in a .table-scroll box (src/lib/table-scroll.mjs); sibling walks step into it.
+      const unwrap = (el) => (el?.matches(".table-scroll") ? el.querySelector("table") : el);
 
       // Days-until column: the table after [data-days-until] gets a live "Days from today" column.
       for (const el of document.querySelectorAll("[data-days-until]")) {
         let t = el.nextElementSibling;
-        while (t && !t.matches("table")) t = t.nextElementSibling;
+        while (t && !t.matches("table, .table-scroll")) t = t.nextElementSibling;
+        t = unwrap(t);
         if (!t || !t.tHead || !t.tBodies[0]) continue;
         const year = +el.dataset.daysUntil, last = t.tHead.rows[0].cells.length - 1;
         t.tHead.rows[0].cells[last].textContent = "Days from today";
@@ -296,7 +299,7 @@ const keyDates = upcomingFor(new Set([article.id]));
           const t = st === "Virginia" ? text.replace(/West Virginia/g, "") : text;
           return new RegExp("(^|[^A-Za-z])" + st + "(?![A-Za-z])").test(t);
         };
-        const section = (el) => { let h = el.closest("table, ul, ol"); while (h && !/^H[23]$/.test(h.tagName)) h = h.previousElementSibling; return h ? h.textContent.trim() : ""; };
+        const section = (el) => { let h = el.closest(".table-scroll") ?? el.closest("table, ul, ol"); while (h && !/^H[23]$/.test(h.tagName)) h = h.previousElementSibling; return h ? h.textContent.trim() : ""; };
         sel.addEventListener("change", () => {
           body.querySelectorAll(".zip-hit").forEach((r) => r.classList.remove("zip-hit"));
           const st = sel.value; if (!st) { out.replaceChildren(); return; }
@@ -336,7 +339,7 @@ const keyDates = upcomingFor(new Set([article.id]));
           const d0 = new Date(iso + "T12:00:00Z");
           rows.push("<tr" + (iso === todayET ? ' class="is-next"' : "") + "><td>" + WD_AP[d0.getUTCDay()] + ", " + apDate(iso, false) + "</td><td>" + g + " hours</td><td>" + hm(9 + g) + "</td></tr>");
         }
-        tg.querySelector(".tool-out").innerHTML = "<p>Right now London is <b>" + gap(new Date()) + " hours</b> ahead of New York.</p><table><thead><tr><th>Date</th><th>London ahead</th><th>9 a.m. New York</th></tr></thead><tbody>" + rows.join("") + "</tbody></table>";
+        tg.querySelector(".tool-out").innerHTML = "<p>Right now London is <b>" + gap(new Date()) + " hours</b> ahead of New York.</p><div class='table-scroll'><table><thead><tr><th>Date</th><th>London ahead</th><th>9 a.m. New York</th></tr></thead><tbody>" + rows.join("") + "</tbody></table></div>";
         show(tg);
       }
 
@@ -388,7 +391,8 @@ const keyDates = upcomingFor(new Set([article.id]));
         for (const h of body.querySelectorAll("h3")) {
           const wm = /^Week (\d+)/.exec(h.textContent.trim());
           let t = h.nextElementSibling;
-          while (t && !t.matches("table, h2, h3")) t = t.nextElementSibling;
+          while (t && !t.matches("table, .table-scroll, h2, h3")) t = t.nextElementSibling;
+          t = unwrap(t);
           if (!wm || !t || !t.matches("table")) continue;
           const games = [...t.tBodies[0].rows].map((r) => ({ week: +wm[1], day: r.cells[0].textContent.trim(), time: r.cells[1].textContent.trim(), game: r.cells[2].textContent.trim(), tv: r.cells[3].textContent.trim(), row: r }));
           games.forEach((g) => (g.at = at(g.day, g.time)));
@@ -503,19 +507,22 @@ const keyDates = upcomingFor(new Set([article.id]));
   .prose-news :global(h3){font-family:Sora,"Sora Fallback",sans-serif;font-size:1.1rem;line-height:1.3;margin:1.5rem 0 .5rem;color:var(--ink-strong)}
   .prose-news :global(ul){padding-left:1.25rem;margin:0 0 1.1rem}
   .prose-news :global(li){margin:.35rem 0}
+  /* Markdown task lists render disabled checkboxes at the browser's 13px; size them to read as a checklist. */
+  .prose-news :global(li.task-list-item){list-style:none}
+  .prose-news :global(li.task-list-item input){width:20px;height:20px;margin:0 .5rem 0 0;vertical-align:-.3em;accent-color:var(--focus)}
   .prose-news :global(p){margin:0 0 1.1rem}
   .prose-news :global(a){color:var(--focus)}
-  /* Wide tables scroll inside their own box instead of being clipped on phones. */
-  .prose-news :global(table){width:100%;border-collapse:separate;border-spacing:0;margin:0 0 1.4rem;font-size:.98rem;border:1px solid var(--n-border);border-radius:var(--n-radius);box-shadow:var(--n-shadow)}
+  /* Tables sit in a scroll box (src/lib/table-scroll.mjs): wider than the column, they scroll inside it at any width. */
+  .prose-news :global(.table-scroll){overflow-x:auto;margin:0 0 1.4rem;border:1px solid var(--n-border);border-radius:var(--n-radius);box-shadow:var(--n-shadow)}
+  .prose-news :global(.table-scroll:focus-visible){outline:3px solid var(--focus);outline-offset:2px}
+  .prose-news :global(table){width:100%;border-collapse:separate;border-spacing:0;font-size:.98rem}
   .prose-news :global(th),.prose-news :global(td){border-bottom:1px solid var(--n-border);padding:.6rem .7rem;text-align:left;vertical-align:top}
   .prose-news :global(th){background:var(--n-brand-soft);color:var(--ink-strong);font-weight:800;font-size:.9rem;white-space:nowrap}
   .prose-news :global(tbody tr:nth-child(even) td){background:#fafbfd}
   .prose-news :global(tbody tr:hover td){background:var(--surface-warm)}
   .prose-news :global(tbody tr:last-child td){border-bottom:0}
-  /* Phones: wide tables scroll inside their own box instead of being clipped. */
-  /* Phones: tables scroll in their own box; headers may wrap so one long header cannot squeeze the first column to a word per line. */
-  @media (max-width:1023px){ .prose-news :global(table){display:block;overflow-x:auto} }
-  @media (max-width:640px){ .prose-news :global(th){white-space:normal} .prose-news :global(th),.prose-news :global(td){padding:.5rem .55rem} }
+  /* Phones: headers may wrap, and each column keeps a readable width (the box scrolls) instead of a word per line. */
+  @media (max-width:640px){ .prose-news :global(th){white-space:normal} .prose-news :global(th),.prose-news :global(td){padding:.5rem .55rem;min-width:6.5rem} }
   .prose-news :global(blockquote){margin:1.25rem 0;padding:.75rem 1.1rem;border-left:4px solid var(--n-brand);background:var(--n-soft);border-radius:0 var(--n-radius) var(--n-radius) 0}
   /* Freshness note at the top of a running list (raw HTML in the story). */
   .prose-news :global(.callout){margin:0 0 1.25rem;padding:.85rem 1rem;border:2px solid var(--gold);border-left-width:6px;border-radius:10px;background:var(--surface-warm);font-size:1rem;line-height:1.5}

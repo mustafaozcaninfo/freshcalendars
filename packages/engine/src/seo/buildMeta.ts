@@ -381,7 +381,7 @@ export function buildMetaForEntry(
       ],
       breadcrumbs: [
         home,
-        { name: `${year} Calendar`, url: absUrl("/printable-calendar.html") },
+        { name: `${year} Calendar`, url: absUrl("/printable-calendars.html") },
         { name: `${name} ${year}`, url: absUrl(entry.path) },
       ],
       faq: buildMonthlyFaq(year, month, hols),
@@ -828,7 +828,7 @@ export function buildMetaForEntry(
       month: null,
       priority: 0.85,
       keywords: gm.keywords,
-      breadcrumbs: [home, { name: gm.title.split("|")[0]!.trim(), url: absUrl(entry.path) }],
+      breadcrumbs: [home, { name: gm.title.split("|")[0]!.split(" · ")[0]!.trim(), url: absUrl(entry.path) }],
       faq: gm.faq,
       download,
       downloadTitles:

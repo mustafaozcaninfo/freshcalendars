@@ -4,6 +4,7 @@ seoTitle: "GTA 6 Countdown: Release Time by Time Zone"
 description: "Live Grand Theft Auto (GTA) VI countdown to Nov. 19, 2026, with the PlayStation Store release time in Eastern Time (ET), Pacific Time (PT), the UK and India."
 type: explainer
 publishedAt: "2026-10-23T03:05:00-04:00"
+updatedAt: "2026-10-27T17:55:00-04:00"
 authors: [jordan-bennett]
 category: retail-dates
 keywords: ["GTA 6 countdown", "GTA 6 release time", "GTA 6 release date and time EST", "GTA 6 countdown days", "GTA 6 countdown printable"]
@@ -63,9 +64,15 @@ faq:
     a: "No. The PlayStation Store listings differ by country: US and Canada 05:00 UTC, UK 00:00 UTC, Germany 23:00 UTC on Nov. 18 and India 18:30 UTC on Nov. 18. Each is midnight local time in that country."
   - q: "Is GTA 6 coming to PC?"
     a: "Rockstar Games has not announced a PC version or date. The announced platforms are PlayStation 5 and Xbox Series X|S."
+  - q: "How big is the GTA 6 download?"
+    a: "Rockstar Games has not announced the file size. Its official store page says only \"Pre-load begins November 12, 2026.\" Sizes quoted online are estimates until Rockstar, Sony or Microsoft lists one."
   - q: "How much does GTA 6 cost?"
     a: "On the PlayStation Store, the Standard Edition is $79.99 in the US, £69.99 in the UK, €79.99 in Germany and Rs 5,999 in India. The Ultimate Edition is $99.99, £89.99, €99.99 and Rs 7,499."
 sources:
+  - title: "Grand Theft Auto VI | Rockstar Store"
+    url: "https://store.rockstargames.com/game/buy-gta-vi"
+    publisher: "Rockstar Games"
+    date: "2026-10-27"
   - title: "Grand Theft Auto VI (US PlayStation Store listing)"
     url: "https://store.playstation.com/en-us/product/EP1004-PPSA01547_00-GTAVISTANDARD001"
     publisher: "PlayStation Store"
@@ -126,7 +133,7 @@ downloads:
 draft: false
 ---
 
-<p class="callout"><b>Last checked Oct. 23, 2026, 3:05 a.m. ET.</b> The PlayStation Store listings and the Xbox store page still show Nov. 19, 2026. We recheck them before each update.</p>
+<p class="callout"><b>Last checked Oct. 27, 2026, 5:55 p.m. ET.</b> The Rockstar Store still shows Nov. 19, 2026, and says "Pre-load begins November 12, 2026." Rockstar has not announced the download size or a release hour. We recheck the stores before each update.</p>
 
 **Grand Theft Auto (GTA) VI launches Thursday, Nov. 19, 2026, and from Friday, Oct. 23 that is 27 days away.** The exact moment depends on your store: the US PlayStation Store lists 12:00 a.m. Eastern Time (ET), which is 9 p.m. Pacific Time (PT) on Wednesday, Nov. 18. The clock below counts down to the store you pick.
 

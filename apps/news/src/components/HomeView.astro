@@ -240,6 +240,10 @@ import NewsBar from "./NewsBar.astro";
 .concept-news-hero{position:relative;isolation:isolate;min-height:180px;display:flex;align-items:center;overflow:hidden;background:#f3f7f8}
 .concept-news-hero>img{position:absolute;inset:0;width:100%;height:100%;object-fit:cover;object-position:right center;z-index:-2}
 .concept-news-hero:after{content:"";position:absolute;inset:0;background:linear-gradient(90deg,#f4f8fcee,#f4f8fcfa 42%,#f4f8fc00 80%);z-index:-1}
+/* Dark mode: a dark wash over the desk photo, so the page header follows the theme like the rest of the page. */
+:global(html[data-theme=dark]) .concept-news-hero{background:#102031}
+:global(html[data-theme=dark]) .concept-news-hero:after{background:linear-gradient(90deg,#102031f5,#102031eb 42%,#10203140 80%)}
+:global(html[data-theme=dark]) .concept-news-hero :is(h1,p){color:var(--ink-strong)}
 .concept-news-hero .news-concept-wrap{padding:23px 0}
 .concept-news-hero h1{font:700 44px/1.1 Sora,sans-serif;letter-spacing:-.04em;color:#0e2135;margin:10px 0 10px}
 .concept-news-hero p{font-size:13px;color:#0e2135;margin:0;max-width:65ch}
@@ -248,7 +252,8 @@ import NewsBar from "./NewsBar.astro";
 .concept-feature>a{display:block;height:100%;text-decoration:none!important;color:#fff!important}
 .concept-feature :global(img){position:absolute;inset:0;width:100%;height:100%;object-fit:cover}
 .concept-feature>a:after{content:"";position:absolute;inset:0;background:linear-gradient(180deg,transparent 25%,#071a25ef 100%)}
-.feature-badge{position:absolute;top:15px;left:15px;z-index:1;padding:6px 10px;border-radius:6px;background:#fff;color:#10283b;font-size:11px;font-weight:700;text-transform:uppercase}
+/* Top right: story heroes carry their own kicker in the top-left corner. */
+.feature-badge{position:absolute;top:15px;right:15px;z-index:1;padding:6px 10px;border-radius:6px;background:#fff;color:#10283b;font-size:11px;font-weight:700;text-transform:uppercase}
 .feature-copy{position:absolute;bottom:0;left:0;right:0;z-index:1;padding:22px;background:linear-gradient(180deg,#071a25c4,#071a25f5)}
 .feature-copy:before{content:"";position:absolute;bottom:100%;left:0;right:0;height:36px;background:linear-gradient(180deg,transparent,#071a25c4);pointer-events:none}
 .feature-copy h2{font:700 25px/1.2 Sora,sans-serif;letter-spacing:-.04em;margin:8px 0;color:#fff}

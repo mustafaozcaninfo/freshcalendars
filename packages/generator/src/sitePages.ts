@@ -363,7 +363,7 @@ function layout(
   const adsEnabled = opts.ads !== false;
   const today = opts.today ?? new Date();
   const designFamily = body.includes("data-studio>") ? "calendar-detail" : body.includes("data-library ") ? "calendar-library" : meta.pageId === "calendar-tools" ? "tools" : meta.calendar.family === "home" ? "home" : meta.pageId === "legal-contact" ? "contact" : ["legal-school-holidays", "legal-daylight-savings"].includes(meta.pageId) ? "guide" : meta.calendar.family === "legal" ? "policy" : meta.calendar.family === "holidays" ? "holiday-list" : ["holiday", "easter"].includes(meta.calendar.family) ? "holiday-date" : "guide";
-  const pageBody = pageWorkspaceHtml(body, meta.title, new URL(meta.canonical).pathname, today, designFamily);
+  const pageBody = pageWorkspaceHtml(body, meta.breadcrumbs, new URL(meta.canonical).pathname, today, designFamily);
   // Match <img srcset/sizes> so the browser preloads only the chosen density (not both 1x+2x).
   // Preload LCP preview on small screens only; desktop keeps the image below the fold (text LCP).
   const preloadImg = opts.preloadImage
@@ -1846,7 +1846,7 @@ export function renderConceptHubs(home: SeoMeta, today: Date): { meta: SeoMeta; 
   ].map(p => {
     const canonical = `https://freshcalendars.com${p.path}`;
     const ogImagePath = `/og/${p.id}.png`, ogUrl = `https://cdn.freshcalendars.com${ogImagePath}`;
-    const meta: SeoMeta = { ...home, pageId: p.id, url: canonical, canonical, title: p.title, description: p.description, faq: [], variants: undefined, calendar: { family: "guide", year: null, month: null, weekStartsOn: 0 }, hreflang: [{ lang: "en", href: canonical }, { lang: "x-default", href: canonical }], openGraph: { ...home.openGraph, title: p.title, description: p.description, url: canonical }, twitter: { ...home.twitter, title: p.title, description: p.description }, breadcrumbs: [{ name: "Home", url: "https://freshcalendars.com/" }, { name: p.title.split("|")[0]!.trim(), url: canonical }], jsonLd: [JSON.stringify({ "@context": "https://schema.org", "@type": "CollectionPage", name: p.title, description: p.description, url: canonical, inLanguage: "en-US" })] };
+    const meta: SeoMeta = { ...home, pageId: p.id, url: canonical, canonical, title: p.title, description: p.description, faq: [], variants: undefined, calendar: { family: "guide", year: null, month: null, weekStartsOn: 0 }, hreflang: [{ lang: "en", href: canonical }, { lang: "x-default", href: canonical }], openGraph: { ...home.openGraph, title: p.title, description: p.description, url: canonical }, twitter: { ...home.twitter, title: p.title, description: p.description }, breadcrumbs: [{ name: "Home", url: "https://freshcalendars.com/" }, ...(p.id === "monthly-library" ? [{ name: "Calendars", url: "https://freshcalendars.com/calendars/" }] : []), { name: p.id === "calendar-library" ? "Calendars" : p.title.split("|")[0]!.split(" · ")[0]!.trim(), url: canonical }], jsonLd: [JSON.stringify({ "@context": "https://schema.org", "@type": "CollectionPage", name: p.title, description: p.description, url: canonical, inLanguage: "en-US" })] };
     meta.ogImagePath = ogImagePath; meta.openGraph.images = [{ url: ogUrl, width: 1200, height: 630, alt: p.title }]; meta.twitter.image = ogUrl;
     return { meta, html: layout(meta, p.body, { today }), file: p.path.slice(1) + "index.html" };
   });
@@ -2105,8 +2105,9 @@ RewriteRule ^printable/monthly/[0-9]{4}/(january|february|march|april|may|june|j
   <FilesMatch "\\.(pdf)$">
     Header set Cache-Control "public, max-age=2592000, stale-while-revalidate=604800"
   </FilesMatch>
+  # HTML: short in browsers so a deploy reaches returning visitors; long at Cloudflare (purged on deploy).
   <FilesMatch "\\.(html)$">
-    Header set Cache-Control "public, max-age=604800, stale-while-revalidate=2592000"
+    Header set Cache-Control "public, max-age=300, stale-while-revalidate=3600"
     Header set CDN-Cache-Control "public, max-age=2678400"
   </FilesMatch>
   # /news/ (apps/news, published every 15 min): short TTLs; hashed /news/_astro/ files are immutable.
