@@ -1,7 +1,7 @@
 ---
 title: "Japan Series 2026 Schedule: SoftBank Leads DeNA 3-0, Game Times in U.S. Time Zones"
 seoTitle: "Japan Series 2026 Schedule and Game Times in U.S. Time"
-description: "Game 4 of the Japan Series is Oct. 28, 2026, at 6 p.m. Japan Standard Time (JST), 5 a.m. Eastern Time (ET). SoftBank leads DeNA 3-0, NPB says."
+description: "Game 4 of the Japan Series is Oct. 28, 2026, at 6 p.m. Japan Standard Time (JST), 5 a.m. Eastern Time (ET). SoftBank leads DeNA 3-0 in the best-of-seven series."
 type: news
 publishedAt: "2026-10-28T05:41:00-04:00"
 authors: [jordan-bennett]
@@ -90,7 +90,7 @@ draft: false
 
 ## What is the Japan Series 2026 schedule?
 
-NPB lists the games below on its SMBC Japan Series 2026 page. Games 5 to 7 are played only if needed, and the series ends when a team wins four. There are no games on Oct. 26 or Oct. 30. NPB does not list start times for Games 1 to 3 on the page we used.
+NPB lists the games below on its page for the series, which Sumitomo Mitsui Banking Corporation (SMBC) sponsors. Games 5 to 7 are played only if needed, and the series ends when a team wins four. There are no games on Oct. 26 or Oct. 30. NPB does not list start times for Games 1 to 3 on the page we used.
 
 | Game | Date | Place | Start (JST) | Status |
 |---|---|---|---|---|
@@ -140,11 +140,11 @@ NPB's page lists these Japan broadcasts, and says all games stream free live on 
 | Game | Japan television | Streaming (Japan) |
 |---|---|---|
 | 4 | Nippon TV | Hulu Japan, TVer |
-| 5 | TV Asahi | ABEMA, TVer |
-| 6 and 7 | TBS | U-NEXT, TVer |
+| 5 | TV Asahi | Abema, TVer |
+| 6 and 7 | Tokyo Broadcasting System (TBS) | U-Next, TVer |
 
 NPB has not listed a broadcast for viewers outside Japan on the page we used, so we do not name a channel in the United States. NPB's English page, [npb.jp/eng](https://npb.jp/eng/), is where to look for any update.
 
 ## Free Japan Series 2026 tracker
 
-Our printable lists Games 4 to 7 with Japan, Eastern and Pacific times and a blank space to write each result. Mark the dates on your [October 2026 printable calendar](/october-calendars.html) and your [November 2026 printable calendar](/november-calendars.html). The other baseball schedule we cover is the [World Series 2026 schedule](/news/world-series-2026-schedule-game-times-tv-channel/), and the [MLB offseason 2026 key dates](/news/mlb-offseason-2026-key-dates-free-agency-awards-cba/) story follows what comes next in the United States.
+Our printable lists Games 4 to 7 with Japan, Eastern and Pacific times and a blank space to write each result. Mark the dates on your [October 2026 printable calendar](/october-calendars.html) and your [November 2026 printable calendar](/november-calendars.html). The other baseball schedule we cover is the [World Series 2026 schedule](/news/world-series-2026-schedule-game-times-tv-channel/), and the [Major League Baseball (MLB) offseason 2026 key dates](/news/mlb-offseason-2026-key-dates-free-agency-awards-cba/) story follows what comes next in the United States.
