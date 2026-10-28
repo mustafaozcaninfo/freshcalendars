@@ -1,7 +1,7 @@
 ---
 title: "GDP Report Oct. 29, 2026: 8:30 a.m. ET Release Time and the BEA Release Calendar Through Dec. 23"
 seoTitle: "GDP Report Oct. 29, 2026: Release Time and BEA Calendar"
-description: "The Bureau of Economic Analysis (BEA) releases third-quarter 2026 gross domestic product (GDP) on Oct. 29 at 8:30 a.m. Eastern Time (ET), plus all BEA dates to Dec. 23."
+description: "The Bureau of Economic Analysis (BEA) releases third-quarter 2026 gross domestic product (GDP) Oct. 29 at 8:30 a.m. Eastern Time (ET). All BEA dates to Dec. 23."
 type: news
 publishedAt: "2026-10-28T17:46:00-04:00"
 authors: [alex-morgan]

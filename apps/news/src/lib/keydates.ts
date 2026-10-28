@@ -12,6 +12,10 @@ export interface KeyDate {
 }
 
 export const KEY_DATES: KeyDate[] = [
+  { date: "2026-10-29", label: "GDP advance estimate, 3rd quarter 2026, 8:30 a.m. ET (BEA)", slug: "gdp-report-october-29-2026-time-bea-release-calendar" },
+  { date: "2026-11-25", label: "GDP second estimate, 3rd quarter 2026, 8:30 a.m. ET (BEA)", slug: "gdp-report-october-29-2026-time-bea-release-calendar" },
+  { date: "2026-10-29", label: "NFL Week 8 opens: Panthers at Packers, 8:15 p.m. ET", slug: "nfl-week-8-schedule-2026-game-times-tv-clock-change" },
+  { date: "2026-11-02", label: "NFL Week 8 ends: Bears at Seahawks, 8:15 p.m. ET", slug: "nfl-week-8-schedule-2026-game-times-tv-clock-change" },
   { date: "2026-12-09", label: "Bank of Canada rate announcement, 9:45 a.m. ET", slug: "bank-of-canada-rate-hike-october-28-2026-next-dates-2027" },
   { date: "2026-11-01", label: "US clocks fall back; Mexico City moves to Chicago's time", slug: "mexico-time-difference-after-november-1-2026-us-clocks-fall-back" },
   { date: "2026-10-28", label: "National First Responders Day", slug: "national-first-responders-day-2026-october-28" },
