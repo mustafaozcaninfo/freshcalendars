@@ -5,7 +5,8 @@
  * Placement rules (SEO-HARITASI-TAM.md §01 l.214, l.314, enforced by 01-ADS-CENTER in
  * scripts/news-seo-audit.mjs): one labeled top unit under the breadcrumb on every page, nothing else
  * inside the centerpiece (H1, lede, hero, key points and the first two prose sections), every
- * unit labeled and its height reserved, at most six per page, none on policy pages.
+ * unit labeled and its height reserved, at most six per page, none on policy pages. Stories also
+ * carry one fixed-size banner above the headline (owner's decision, 2026-10-28; docs/NEWS-ADS.md).
  *
  * Ads are on by default so the VPS cron build matches local builds; NEWS_ADS=0 turns them off.
  * Unit IDs live in ./ad-units.mjs (shared with the in-article rehype plugin).
@@ -14,7 +15,7 @@ import { ADS_ENABLED, NEWS_AD_CLIENT, NEWS_AD_RULES, NEWS_AD_UNITS } from "./ad-
 
 export { ADS_ENABLED, NEWS_AD_RULES, NEWS_AD_UNITS };
 export const ADSENSE_CLIENT = NEWS_AD_CLIENT;
-export type NewsAdUnit = 1 | 2 | 3 | 4 | 5 | 6;
+export type NewsAdUnit = 1 | 2 | 3 | 4 | 5 | 6 | 7;
 
 /** Hosts AdSense contacts first; preconnected in <head> so the late load costs no handshakes. */
 export const AD_ORIGINS = {
@@ -62,12 +63,12 @@ export const ADS_LOADER_JS = `
     var ro=new ResizeObserver(function(es){ es.forEach(function(e){ var s=e.target, h=s.offsetHeight; if(h>(+s.dataset.maxh||0)){ s.dataset.maxh=h; s.style.minHeight=h+'px'; } }); });
     [].forEach.call(document.querySelectorAll('.ad-slot'),function(s){ if(s.offsetWidth) ro.observe(s); });
   }
-  // An unfilled unit (not the top one) collapses only while it is off screen, so the story the
+  // An unfilled unit (not the top unit or the banner) collapses only while it is off screen, so the story the
   // reader is looking at never moves (scroll anchoring absorbs shifts above the viewport).
   if(!('IntersectionObserver' in window)||!('MutationObserver' in window)) return;
   var off=new IntersectionObserver(function(es){ es.forEach(function(e){ if(!e.isIntersecting){ e.target.classList.add('ad-off'); off.unobserve(e.target); } }); });
   var mo=new MutationObserver(function(ms){ ms.forEach(function(m){ var ins=m.target, slot=ins.closest('.ad-slot');
-    if(slot&&!slot.classList.contains('ad-slot--top')&&ins.getAttribute('data-ad-status')==='unfilled') off.observe(slot); }); });
+    if(slot&&!/ad-slot--(top|banner)/.test(slot.className)&&ins.getAttribute('data-ad-status')==='unfilled') off.observe(slot); }); });
   slots.forEach(function(ins){ mo.observe(ins,{attributes:true,attributeFilter:['data-ad-status']}); });
 })();
 `;

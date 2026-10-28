@@ -12,8 +12,8 @@ is rendered and every check still passes.
 ## Rules every slot follows
 
 - Labeled "Advertisement" (CSS text, so it never enters the page text or the word count).
-- Nothing above the H1. On stories nothing between the headline and the hero, so the hero (the
-  LCP image) is never pushed down by an ad.
+- Nothing above the H1, with one exception: stories open with a fixed-size banner (below). On
+  stories nothing between the headline and the hero.
 - Height reserved before fill (`min-height`, a full square on phones for the top unit), never
   shrinks after AdSense resizes it, and an unfilled unit collapses only while off screen: CLS ≈ 0.
 - Not beside printables, download links or story tools (in-article plugin skips those H2
@@ -32,6 +32,7 @@ is rendered and every check still passes.
 
 | # | Where | Unit | Why it earns clicks |
 |---|---|---|---|
+| 0 | Under the menu bar, above the breadcrumb and headline: 320×100 on phones, 728×90 from 768 px, in a box of fixed height that never collapses | Fresh_News_Banner (7; shares the Top unit's ID until it has its own) | Seen on the first screen of every story, as on news sites. Owner's decision (2026-10-28) for revenue, against the earlier "nothing above the H1" rule: it pushes the headline and hero down by about 130 px, so watch Discover traffic and LCP in Search Console. |
 | 1 | Under the hero, above Key points | Fresh_News_Top (6) | Seen by every reader; the hero and headline stay unbroken above it. |
 | 2 | Before the 3rd H2 | Fresh_News_1 | First natural pause after the reader has committed to the story; in-content units have the best CTR. |
 | 3 | First later H2 with ≥250 story words above and ≥100 below (about one phone screen later) | Fresh_News_5 | Mid-to-late read, where long-form readers slow down. Before, only stories with 7+ sections got it. |
@@ -61,5 +62,7 @@ under 20%.
    in AdSense > Reports > Ad units).
 2. Consent: an AdSense "Privacy & messaging" GDPR message (and US state message) must be on in the
    AdSense account for EEA, UK and Swiss visitors; nothing on the page changes.
-3. Auto ads: keep only the bottom anchor (and optionally vignettes off) so Google cannot add
+3. Create a "Fresh_News_Banner" display unit in AdSense and put its ID in `NEWS_AD_UNITS[7]`
+   (`apps/news/src/lib/ad-units.mjs`), so the banner reports apart from the Top unit.
+4. Auto ads: keep only the bottom anchor (and optionally vignettes off) so Google cannot add
    unplanned in-page units.
