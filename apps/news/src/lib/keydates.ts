@@ -12,6 +12,7 @@ export interface KeyDate {
 }
 
 export const KEY_DATES: KeyDate[] = [
+  { date: "2026-12-09", label: "Bank of Canada rate announcement, 9:45 a.m. ET", slug: "bank-of-canada-rate-hike-october-28-2026-next-dates-2027" },
   { date: "2026-11-01", label: "US clocks fall back; Mexico City moves to Chicago's time", slug: "mexico-time-difference-after-november-1-2026-us-clocks-fall-back" },
   { date: "2026-10-28", label: "National First Responders Day", slug: "national-first-responders-day-2026-october-28" },
   { date: "2026-11-01", label: "Clocks stay put in BC, Alberta, Saskatchewan, Manitoba, Yukon and NWT", slug: "canada-clocks-fall-back-november-1-2026-which-provinces-no-time-change" },
