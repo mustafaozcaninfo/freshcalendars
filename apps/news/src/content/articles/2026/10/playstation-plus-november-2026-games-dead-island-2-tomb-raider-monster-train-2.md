@@ -1,7 +1,7 @@
 ---
 title: "PlayStation Plus November 2026 Games: Dead Island 2, Tomb Raider IV-VI Remastered, Monster Train 2"
 seoTitle: "PlayStation Plus November 2026 Games and Dates"
-description: "Sony named the PlayStation Plus (PS Plus) November 2026 games on Oct. 28: Dead Island 2, Tomb Raider IV-VI Remastered and Monster Train 2, playable Nov. 3 to 30."
+description: "Sony named the PlayStation Plus (PS Plus) November 2026 games Oct. 28: Dead Island 2, Tomb Raider IV-VI Remastered and Monster Train 2, playable Nov. 3 to 30."
 type: news
 publishedAt: "2026-10-28T13:48:00-04:00"
 authors: [jordan-bennett]
