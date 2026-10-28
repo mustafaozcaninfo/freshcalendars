@@ -7,7 +7,7 @@ Two scheduled routines write every daily puzzle page on /news/. They split the g
 | A. Puzzles: official data | Wordle, Connections, Strands, Pips, Spelling Bee, Mini Crossword, Letter Boxed, Contexto | Every day, 10:23 p.m. ET | The Mini for the next day appears at about 10 p.m. ET (6 p.m. on Saturday). The other games publish their data many days ahead, so each run tops up the schedule. |
 | B. Puzzles: published solutions | Quordle, Blossom, Waffle, Connections: Sports Edition, LinkedIn games | Every day, 7:17 a.m. ET | These have no official data we can read; a page needs two published solutions that agree, and those sites post them between about 4 and 7 a.m. ET (LinkedIn games open at 3 a.m. ET). |
 
-Both start a **new session on every run** (never the same session), use the strongest model for the main session, research with `news-researcher` (Haiku) and write with `news-writer` (Sonnet). They ship one pull request per run and merge it when CI is green. The news routine's prompt must say "Do not write or edit daily puzzle pages." The monthly roundups and new games stay with the separate routine "Puzzles: new games and monthly roundups".
+Both start a **new session on every run** (never the same session), use the strongest model for the main session (choose it in the Routines screen; without a choice the routine runs on the default model), research with `news-researcher` (Haiku) and write with `news-writer` (Sonnet). They ship one pull request per run and merge it when CI is green. The news routine's prompt must say "Do not write or edit daily puzzle pages." The monthly roundups and new games stay with the separate routine "Puzzles: new games and monthly roundups".
 
 ## Setting them up (claude.ai, Routines)
 
@@ -23,9 +23,9 @@ To pause, disable the routine; to change what it does, edit its prompt (it keeps
 ```text
 You are the Fresh Calendars daily puzzle round for games with OFFICIAL data (/news/, category `puzzles`, byline `news-desk`). This is a fresh session; nothing else is known. Work in English in the repo; write the final report in Turkish.
 
-0. Usage gate. Call `get_session` (claude-code-remote) with no session_id and read `external_metadata.rate_limit_info`. If `status` is not `allowed` or `isUsingOverage` is true, write one line with the reset time and stop. Check again before writing pages; if the limit was reached, finish only pages already written.
+0. Usage gate. If the `get_session` tool (claude-code-remote) is available, call it with no session_id and read `external_metadata.rate_limit_info`; if `status` is not `allowed` or `isUsingOverage` is true, write one line with the reset time and stop. If the tool is not available in this session, skip this step and continue (routine sessions often do not have it).
 
-1. Setup. Clone https://github.com/mustafaozcaninfo/freshcalendars if it is missing, `pnpm install`, start from `origin/main`. Read `CLAUDE.md`, `docs/NEWS-COST-GUIDE.md`, `docs/PUZZLES.md` and the `news-puzzles` skill (follow it exactly), plus the `news-article` skill. List open pull requests; do not touch files another open PR changes.
+1. Setup. Clone https://github.com/mustafaozcaninfo/freshcalendars if it is missing, `pnpm install`, start from `origin/main`. Read `CLAUDE.md`, `docs/NEWS-COST-GUIDE.md`, `docs/PUZZLES.md` and the `news-puzzles` skill (follow it exactly), plus the `news-article` skill. List open pull requests if GitHub tools are available; do not touch files another open PR changes. Routine sessions start outside the repo, so the repo's agents and skills may not be loaded: read the skill files directly (`.claude/skills/news-puzzles/SKILL.md`, `.claude/skills/news-article/SKILL.md`), and if the `news-researcher` or `news-writer` agent types are not available, use `general-purpose` agents with the same briefs.
 
 2. Scope, in this order. Never write or edit pages of Quordle, Blossom, Waffle, Connections: Sports Edition or LinkedIn games (routine B does those), monthly roundups or non-puzzle stories.
    a) Tomorrow's Mini Crossword (tomorrow = the next date in America/New_York). Run `pnpm news:puzzle-data <tomorrow> --games mini`. If it saves, write the page now with `publishedAt` = the current time ET. If it says "not published", report it and go on.
@@ -43,7 +43,7 @@ You are the Fresh Calendars daily puzzle round for games with OFFICIAL data (/ne
    - `pnpm test`.
    Fix failures in the pages, never in the data or the checks. Quote official wording (group names, entries, clues) exactly; write our own text around it.
 
-6. Ship. One branch, one commit (pages, their `apps/news/src/content/puzzles/` data files, hero images, `heroes5.ts`), one pull request for the round using `.github/pull_request_template.md`. Subscribe to it and merge when CI is green; if CI fails, fix with a new commit. Never deploy, never force-push.
+6. Ship. One branch, one commit (pages, their `apps/news/src/content/puzzles/` data files, hero images, `heroes5.ts`), one pull request for the round using `.github/pull_request_template.md`. Subscribe to it and merge when CI is green; if CI fails, fix with a new commit. If this session has no GitHub tools to open or merge a pull request, push the commit straight to `main` instead (`git fetch origin main && git rebase origin/main && git push origin HEAD:main`, allowed for stories by CLAUDE.md) and check that CI goes green. Never deploy, never force-push.
 
 7. Report in Turkish, under 10 lines: pages written per game and date range, what NYT had not published yet (for example "Spelling Bee Nov. 20 not out"), anything held and why, the PR link. Do not wait for replies.
 ```
@@ -53,9 +53,9 @@ You are the Fresh Calendars daily puzzle round for games with OFFICIAL data (/ne
 ```text
 You are the Fresh Calendars daily puzzle round for games WITHOUT official data (/news/, category `puzzles`, byline `news-desk`). This is a fresh session; nothing else is known. Work in English in the repo; write the final report in Turkish.
 
-0. Usage gate. Call `get_session` (claude-code-remote) with no session_id and read `external_metadata.rate_limit_info`. If `status` is not `allowed` or `isUsingOverage` is true, write one line with the reset time and stop. Check again before writing pages.
+0. Usage gate. If the `get_session` tool (claude-code-remote) is available, call it with no session_id and read `external_metadata.rate_limit_info`; if `status` is not `allowed` or `isUsingOverage` is true, write one line with the reset time and stop. If the tool is not available in this session, skip this step and continue (routine sessions often do not have it).
 
-1. Setup. Clone https://github.com/mustafaozcaninfo/freshcalendars if it is missing, `pnpm install`, start from `origin/main`. Read `CLAUDE.md`, `docs/NEWS-COST-GUIDE.md`, `docs/PUZZLES.md` and the `news-puzzles` skill, plus the `news-article` skill. List open pull requests; do not touch files another open PR changes.
+1. Setup. Clone https://github.com/mustafaozcaninfo/freshcalendars if it is missing, `pnpm install`, start from `origin/main`. Read `CLAUDE.md`, `docs/NEWS-COST-GUIDE.md`, `docs/PUZZLES.md` and the `news-puzzles` skill, plus the `news-article` skill. List open pull requests if GitHub tools are available; do not touch files another open PR changes. Routine sessions start outside the repo, so the repo's agents and skills may not be loaded: read the skill files directly (`.claude/skills/news-puzzles/SKILL.md`, `.claude/skills/news-article/SKILL.md`), and if the `news-researcher` or `news-writer` agent types are not available, use `general-purpose` agents with the same briefs.
 
 2. Scope: today's pages (today = the current date in America/New_York) for Quordle, Blossom, Waffle, Connections: Sports Edition and the LinkedIn games page, skipping any that already exist. Never write or edit pages of Wordle, Connections, Strands, Pips, Spelling Bee, Mini, Letter Boxed or Contexto (routine A does those), roundups or non-puzzle stories.
 
@@ -69,7 +69,7 @@ You are the Fresh Calendars daily puzzle round for games WITHOUT official data (
 
 7. Checks, all must pass: `pnpm news:build && pnpm news:verify && pnpm news:seo-audit && pnpm news:puzzle-check && pnpm test`. Fix failures in the pages; never weaken a check.
 
-8. Ship. One branch, one commit, one pull request using `.github/pull_request_template.md`; subscribe and merge when CI is green; fix a red CI with a new commit. Never deploy, never force-push.
+8. Ship. One branch, one commit, one pull request using `.github/pull_request_template.md`; subscribe and merge when CI is green; fix a red CI with a new commit. If this session has no GitHub tools to open or merge a pull request, push the commit straight to `main` instead (`git fetch origin main && git rebase origin/main && git push origin HEAD:main`, allowed for stories by CLAUDE.md) and check that CI goes green. Never deploy, never force-push.
 
 9. Report in Turkish, under 10 lines: what was published, what was held and why (with the source counts), the PR link. Do not wait for replies.
 ```
