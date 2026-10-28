@@ -1,7 +1,7 @@
 ---
 title: "ATP Finals 2026 in Turin: Dates, TV Channels, Qualified Players and Match Times by Time Zone"
 seoTitle: "ATP Finals 2026 Turin: Dates, TV and Time Zones"
-description: "The Nitto ATP Finals run Nov. 15-22, 2026 in Turin; the Association of Tennis Professionals (ATP) lists Tennis Channel in the U.S. Times are not yet announced."
+description: "The Association of Tennis Professionals (ATP) Finals run Nov. 15-22, 2026 in Turin, Italy, on Tennis Channel in the U.S. Match times are not yet announced."
 type: news
 publishedAt: "2026-10-28T03:42:00-04:00"
 authors: [jordan-bennett]
@@ -20,7 +20,7 @@ hero:
     author: "SetteTreSette"
 summary:
   - "The Nitto ATP Finals will take place from Nov. 15 to 22, 2026 at the Inalpi Arena in Turin, Italy, a Sunday to a Sunday, according to the event's official site."
-  - "The event's TV page, checked Oct. 28, 2026, lists Tennis Channel in the United States, Sky UK in the United Kingdom, TSN in Canada, and Sky Italia and Mediaset in Italy."
+  - "The event's TV page, checked Oct. 28, 2026, lists Tennis Channel in the United States, Sky UK in the United Kingdom, The Sports Network (TSN) in Canada, and Sky Italia and Mediaset in Italy."
   - "As of Oct. 18, the Association of Tennis Professionals (ATP) marked Alexander Zverev, Carlos Alcaraz and Ben Shelton as qualified; Jannik Sinner has said he is ending his 2026 season."
   - "The 2026 order of play, session times and draw date are not yet announced. The time table here converts the 2025 session pattern and is labeled that way."
 faq:
@@ -171,4 +171,4 @@ The event's points and prize money page, under "Singles Prize Money (2026)", lis
 
 ## Free ATP Finals 2026 viewing planner
 
-The printable lists the eight dates from Sun., Nov. 15 to Sun., Nov. 22 with a blank line for each match time, plus the TV channel for the United States, United Kingdom, Canada and Italy. It carries the same source note as this story: Nitto ATP Finals, checked Oct. 28, 2026, and the ATP Tour. Recheck the event's site for the order of play before you plan a viewing day. For another season-ending tennis event, see the [WTA Finals 2026 dates and time zones](/news/wta-finals-2026-indian-wells-dates-qualified-players-time-zones/).
+The printable lists the eight dates from Sun., Nov. 15 to Sun., Nov. 22 with a blank line for each match time, plus the TV channel for the United States, United Kingdom, Canada and Italy. It carries the same source note as this story: Nitto ATP Finals, checked Oct. 28, 2026, and the ATP Tour. Recheck the event's site for the order of play before you plan a viewing day. For another season-ending tennis event, see the [Women's Tennis Association (WTA) Finals 2026 dates and time zones](/news/wta-finals-2026-indian-wells-dates-qualified-players-time-zones/).
