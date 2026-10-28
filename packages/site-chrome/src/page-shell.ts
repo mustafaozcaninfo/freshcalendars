@@ -15,7 +15,13 @@ export function sectionRailHtml(current: string, today: Date, section = "plannin
   return `<aside class="section-rail" aria-label="${section === "company" ? "About and policies" : "Planning navigation"}">${groups.map(([label, links]) => `<section><h2>${label}</h2><nav>${(links as string[][]).map(([icon, title, href]) => `<a href="${href}"${href === current ? ' aria-current="page"' : ""}>${iconHtml(icon!)}<span>${title}</span></a>`).join("")}</nav></section>`).join("")}<div class="rail-help"><strong>Plan brighter days</strong><p>Find a printable for ${year}, or start with a blank page.</p><a href="/news/printables/">Explore free printables →</a></div></aside>`;
 }
 
-export function pageWorkspaceHtml(body: string, title: string, path: string, today: Date, family: string): string {
+/** Visible breadcrumb drawn from the page's BreadcrumbList items, so the two never disagree. */
+export function breadcrumbNavHtml(crumbs: { name: string; url: string }[], lastAttrs = ""): string {
+  const last = crumbs.length - 1;
+  return `<nav class="concept-breadcrumb" aria-label="Breadcrumb">${crumbs.map((c, i) => i < last ? `<a href="${escape(new URL(c.url, "https://freshcalendars.com").pathname)}">${escape(c.name)}</a><span>›</span>` : `<span${lastAttrs} aria-current="page">${escape(c.name)}</span>`).join("")}</nav>`;
+}
+
+export function pageWorkspaceHtml(body: string, crumbs: { name: string; url: string }[], path: string, today: Date, family: string): string {
   const hero = /^\s*<section class="hero">([\s\S]*?)<\/section>/.exec(body);
   if (!hero) return body;
   let remaining = body.slice(hero[0].length);
@@ -33,7 +39,7 @@ export function pageWorkspaceHtml(body: string, title: string, path: string, tod
     return existing ? match : `<h2${attrs} id="${id}">${label}</h2>`;
   });
   const section = family === "policy" || family === "contact" ? "company" : "planning";
-  const crumb = `<nav class="concept-breadcrumb" aria-label="Breadcrumb"><a href="/">Home</a><span>›</span><a href="${section === "company" ? "/page/about/" : "/calendars/"}">${section === "company" ? "About" : "Planning"}</a><span>›</span><span>${escape(title.split("|")[0]!.trim())}</span></nav>`;
+  const crumb = breadcrumbNavHtml(crumbs);
   const heading = hero[1]!.replace('<div class="hero-inner">', `<div class="workspace-heading-inner">${crumb}`);
   return `<div class="concept-wrap page-workspace" data-workspace="${family}">${sectionRailHtml(path, today, section)}<div class="workspace-main"><header class="workspace-heading">${heading}</header>${items.length > 1 ? `<nav class="section-jumps" aria-label="On this page">${items.map(x => `<a href="#${x.id}">${x.label}</a>`).join("")}</nav>` : ""}${remaining}</div></div>`;
 }
