@@ -1,10 +1,10 @@
 ---
 title: "National Parks Free Days 2026: Tuesday, Oct. 27 and Veterans Day, Nov. 11"
 seoTitle: "National Parks Free Days 2026: Oct. 27 and Nov. 11"
-description: "Tuesday, Oct. 27, 2026 is a National Park Service (NPS) fee-free day, then Veterans Day, Wednesday, Nov. 11, the last free entrance day of 2026."
+description: "Veterans Day, Wednesday, Nov. 11, 2026, is the last National Park Service (NPS) fee-free day of the year; Tuesday, Oct. 27 has passed."
 type: news
 publishedAt: "2026-10-24T13:10:00-04:00"
-updatedAt: "2026-10-27T02:54:00-04:00"
+updatedAt: "2026-10-28T16:12:00-04:00"
 authors: [alex-morgan]
 category: holidays
 keywords: ["national parks free days 2026", "national parks free Veterans Day 2026", "free national park day October 27 2026", "fee-free days 2026 public lands", "national parks free for nonresidents"]
@@ -13,8 +13,8 @@ assets:
   scene: autumn
   overlay: true
   kicker: "Fee-free days · Oct. 27 and Nov. 11"
-  date: "2026-10-27"
-  card: { top: "Next free entrance day", big: "Tue., Oct. 27", bottom: "Then Veterans Day, Wed., Nov. 11" }
+  date: "2026-11-11"
+  card: { top: "Last free entrance day of 2026", big: "Wed., Nov. 11", bottom: "Veterans Day; Oct. 27 has passed" }
   printable:
     slug: national-parks-free-days-checklist-2026
     group: national-parks-free-days-2026
@@ -22,8 +22,8 @@ assets:
     subtitle: "The last two fee-free days of 2026 and what to check before you go"
     inkSaver: true
     rows:
-      - { when: "Tue., Oct. 27", what: "Theodore Roosevelt's birthday, free entrance at NPS and BLM sites", section: "Dates" }
       - { when: "Wed., Nov. 11", what: "Veterans Day, the last fee-free day of 2026", section: "Dates" }
+      - { when: "Tue., Oct. 27", what: "Theodore Roosevelt's birthday, free entrance at NPS and BLM sites (passed)", section: "Dates" }
       - { when: "Before you go", what: "Confirm your U.S. citizen or resident ID; free entry is for residents only", section: "Before you go" }
       - { when: "Before you go", what: "Check the park's fees and reservations page", section: "Before you go" }
       - { when: "Before you go", what: "Timed-entry or reservation fees may still apply", section: "Before you go" }
@@ -103,9 +103,9 @@ downloads:
 draft: false
 ---
 
-<p class="callout"><b>Last updated Tue. Oct. 27, 2026, 2:54 a.m. ET.</b> Today, Tuesday, Oct. 27, is a fee-free day at National Park Service parks for Theodore Roosevelt's birthday. The next and last fee-free day of 2026 is Veterans Day, Wednesday, Nov. 11. The National Park Service has not published 2027 fee-free days.</p>
+<p class="callout"><b>Last updated Wed. Oct. 28, 2026, 4:12 p.m. ET.</b> Tuesday, Oct. 27 has passed. The next and last fee-free day of 2026 is Veterans Day, Wednesday, Nov. 11, at National Park Service parks. The National Park Service has not published 2027 fee-free days.</p>
 
-**Tuesday, Oct. 27, 2026, Theodore Roosevelt's birthday, is a free entrance day at National Park Service (NPS) parks.** The next and last entrance-fee-free day of 2026 is Veterans Day, Wednesday, Nov. 11, according to the National Park Service.
+**Veterans Day, Wednesday, Nov. 11, 2026, is the last entrance-fee-free day of the year at National Park Service (NPS) parks**, according to the National Park Service. The year's other free day, Tuesday, Oct. 27 (Theodore Roosevelt's birthday), has passed.
 
 On both days, parks that normally charge an entrance fee waive it. The NPS says the free entrance "will be for US citizens and residents only." Nonresidents "will pay the regular entrance fee and any applicable nonresident fees."
 
@@ -115,8 +115,8 @@ The National Park Service lists eight fee-free days in 2026. The last two are Oc
 
 | Date | Day | Occasion | Agencies with free entry |
 |---|---|---|---|
-| Oct. 27, 2026 | Tuesday | Theodore Roosevelt's birthday | National Park Service, Bureau of Land Management |
 | Nov. 11, 2026 | Wednesday | Veterans Day | National Park Service, Bureau of Land Management, U.S. Fish and Wildlife Service |
+| Oct. 27, 2026 (passed) | Tuesday | Theodore Roosevelt's birthday | National Park Service, Bureau of Land Management |
 
 Recreation.gov also lists Nov. 11, 2026, as fee-free at the U.S. Forest Service and the U.S. Army Corps of Engineers. For Oct. 27, only the National Park Service and the Bureau of Land Management are confirmed.
 

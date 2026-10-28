@@ -154,5 +154,10 @@ const fontPreload = [
   @media (max-width:767px){ .ad-slot--top{min-height:calc(100vw + 36px)} }
   .ad-slot--side{min-height:280px;margin:1.25rem 0 0;border-bottom:0}
   @media (min-width:768px){ .ad-slot--wide{min-height:280px} .ad-slot--top{min-height:316px} }
+  /* Banner above the story headline: a fixed-size unit in a box of fixed height (label + ad), so it
+     cannot shift the headline whether it fills or not. */
+  .ad-slot--banner{height:136px;min-height:136px;margin:0 auto;padding:.5rem 0;border-top:0;overflow:hidden}
+  .ad-slot--banner ins.ad-banner{width:320px;height:100px}
+  @media (min-width:768px){ .ad-slot--banner{height:126px;min-height:126px} .ad-slot--banner ins.ad-banner{width:728px;height:90px} }
   @media print{ .ad-slot{display:none!important} }
 </style>

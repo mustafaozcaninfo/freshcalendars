@@ -4,6 +4,7 @@ seoTitle: "Florida Amendments 2026 and the Senate Special"
 description: "Florida's Nov. 3, 2026 ballot has three amendments that each need 60%, a U.S. Senate special election and an open race for governor. Dates and rules."
 type: explainer
 publishedAt: "2026-10-20T11:10:00-04:00"
+updatedAt: "2026-10-28T16:12:00-04:00"
 authors: [alex-morgan]
 category: elections
 keywords: ["Florida amendments 2026", "Florida ballot November 2026", "Amendment 3 Florida 2026 homestead", "Florida early voting 2026", "Florida Senate special election 2026"]
@@ -17,7 +18,7 @@ summary:
   - "Florida voters decide three constitutional amendments on Tuesday, Nov. 3, 2026, all placed by the Legislature; each needs 60% of the vote to pass."
   - "The amendments deal with the state's rainy-day fund, a tax exemption for farm equipment and a larger homestead exemption with a lower cap on assessment increases."
   - "Florida also holds a U.S. Senate special election for the seat Marco Rubio left in January 2025, plus an open race for governor."
-  - "Early voting runs Oct. 24-31 in every county, and mail ballots must arrive by 7 p.m. on Election Day; requests close at 5 p.m. Oct. 22."
+  - "Early voting runs Oct. 24-31 in every county, and mail ballots must arrive by 7 p.m. on Election Day; vote-by-mail requests closed at 5 p.m. Oct. 22."
 faq:
   - q: "What amendments are on the Florida ballot in 2026?"
     a: "Three: Amendment 1, raising the cap on the Budget Stabilization Fund; Amendment 2, a property tax exemption for tangible personal property on agricultural land; and Amendment 3, a larger homestead exemption and a lower cap on assessment increases for non-homestead property."
@@ -28,7 +29,7 @@ faq:
   - q: "When is early voting in Florida for November 2026?"
     a: "Every county offers early voting from Saturday, Oct. 24 through Saturday, Oct. 31. Counties may add days as early as Oct. 19 and on Sunday, Nov. 1, so check with your supervisor of elections."
   - q: "When is my Florida mail ballot due?"
-    a: "Your supervisor of elections must receive it by 7 p.m. on Nov. 3. A postmark does not count. The last day to request a mail ballot is 5 p.m. on Thursday, Oct. 22."
+    a: "Your supervisor of elections must receive it by 7 p.m. on Nov. 3. A postmark does not count. The deadline to request a mail ballot, 5 p.m. on Thursday, Oct. 22, has passed."
   - q: "What ID do I need to vote in Florida?"
     a: "A current photo ID with your signature, such as a Florida driver license or ID card, U.S. passport, debit or credit card, military ID or student ID. If your photo ID has no signature, bring a second ID that does. Without ID you can vote a provisional ballot."
 sources:
@@ -67,6 +68,8 @@ downloads:
 draft: false
 ---
 
+<p class="callout"><b>Last updated Wed. Oct. 28, 2026, 4:12 p.m. ET.</b> Early voting is open now through Saturday, Oct. 31 in every county. The deadline to request a vote-by-mail ballot (5 p.m. Thursday, Oct. 22) has passed; if you have a mail ballot, your supervisor of elections must receive it by 7 p.m. Tuesday, Nov. 3, so drop it off rather than mail it this late. A postmark does not count.</p>
+
 **Florida voters will decide three constitutional amendments on Tuesday, Nov. 3, 2026, and each one needs at least 60% of the vote to pass.** All three were placed on the ballot by the Legislature, and all deal with money: the state's reserve fund, a farm tax exemption and property tax breaks for homeowners. The same ballot carries a U.S. Senate special election and an open race for governor, since Ron DeSantis is term-limited.
 
 ## The three amendments
@@ -94,12 +97,12 @@ Florida's other Senate seat is not on the ballot. Your county's sample ballot li
 | Date | What |
 |---|---|
 | Oct. 5 | Registration deadline (passed); Florida has no same-day registration |
-| Thu., Oct. 22, 5 p.m. | Last day to request a vote-by-mail ballot |
+| Thu., Oct. 22, 5 p.m. | Last day to request a vote-by-mail ballot (passed) |
 | Sat., Oct. 24-Sat., Oct. 31 | Early voting in every county, 8 to 12 hours a day |
 | Oct. 19-23 and Nov. 1 | Optional extra early voting days in some counties |
 | Tue., Nov. 3, 7 a.m.-7 p.m. | Election Day; mail ballots must be received by 7 p.m. |
 
-Vote-by-mail requests now expire after each general election cycle, so even voters who used mail ballots in 2024 had to request one again for 2026. Your mail ballot must reach the supervisor of elections by 7 p.m. on Nov. 3; a postmark does not count. Mail it at least a week ahead or drop it off at an early voting site or your supervisor's office. See [mail ballot deadlines in every state](/news/mail-ballot-deadlines-2026-by-state/).
+Vote-by-mail requests now expire after each general election cycle, so even voters who used mail ballots in 2024 had to request one again for 2026. Your mail ballot must reach the supervisor of elections by 7 p.m. on Nov. 3; a postmark does not count. With less than a week to go, do not rely on the mail: drop it off at an early voting site or your supervisor's office. See [mail ballot deadlines in every state](/news/mail-ballot-deadlines-2026-by-state/).
 
 ## ID at the polls
 

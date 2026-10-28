@@ -128,6 +128,12 @@ export const KEY_DATES: KeyDate[] = [
   { date: "2026-11-27", label: "Native American Heritage Day", slug: "native-american-heritage-day-2026-friday-november-27-heritage-month" },
   { date: "2026-12-26", label: "Boxing Day in Canada (Saturday)", slug: "boxing-day-2026-canada-saturday-december-26-day-off-monday-december-28" },
   { date: "2026-12-28", label: "Canada Post closed for Boxing Day", slug: "boxing-day-2026-canada-saturday-december-26-day-off-monday-december-28" },
+  { date: "2026-11-02", label: "Last day to add October PS Plus Monthly Games", slug: "playstation-plus-november-2026-games-dead-island-2-tomb-raider-monster-train-2" },
+  { date: "2026-11-03", label: "November PS Plus Monthly Games playable", slug: "playstation-plus-november-2026-games-dead-island-2-tomb-raider-monster-train-2" },
+  { date: "2026-11-30", label: "Last day for November PS Plus Monthly Games", slug: "playstation-plus-november-2026-games-dead-island-2-tomb-raider-monster-train-2" },
+  { date: "2026-11-03", label: "Coca-Cola Christmas Truck vote closes, 16:00 GMT", slug: "coca-cola-christmas-truck-tour-2026-uk-vote-closes-3-november-dates" },
+  { date: "2026-11-21", label: "Ottawa Help Santa Toy Parade, 11 a.m. ET", slug: "toronto-santa-claus-parade-2026-sunday-november-22-route-citytv" },
+  { date: "2026-11-22", label: "Toronto Santa Claus Parade (122nd)", slug: "toronto-santa-claus-parade-2026-sunday-november-22-route-citytv" },
   { date: "2027-04-01", label: "UK National Living Wage rises to £13.21", slug: "uk-budget-2026-date-wednesday-28-october-what-time" },
   { date: "2027-07-01", label: "UK fuel duty cut ends (Budget 2026)", slug: "uk-budget-2026-date-wednesday-28-october-what-time" },
   { date: "2026-11-29", label: "First Sunday of Advent", slug: "advent-calendar-2026-dates-free-printable" },
@@ -233,6 +239,11 @@ export const KEY_DATES: KeyDate[] = [
   { date: "2026-11-22", label: "NFL in Mexico City: Vikings vs. 49ers, 8:20 p.m. ET", slug: "nfl-international-games-november-2026-madrid-munich-mexico-city-kickoff-times" },
   { date: "2026-11-08", label: "Target $30 Thanksgiving meal for six starts", slug: "thanksgiving-meal-deals-2026-aldi-lidl-target-sams-club-prices-dates" },
   { date: "2026-11-11", label: "Lidl $35.86 Thanksgiving basket starts", slug: "thanksgiving-meal-deals-2026-aldi-lidl-target-sams-club-prices-dates" },
+  { date: "2026-11-03", label: "Champions League matchday 4 begins: 12:45 p.m. and 3 p.m. ET", slug: "champions-league-november-2026-schedule-kickoff-times-et-matchday-4-5" },
+  { date: "2026-11-24", label: "Champions League matchday 5: Arsenal v Dortmund, 3 p.m. ET", slug: "champions-league-november-2026-schedule-kickoff-times-et-matchday-4-5" },
+  { date: "2026-11-27", label: "Day after Thanksgiving: state offices closed in 19 states", slug: "is-the-day-after-thanksgiving-a-state-holiday-2026-states-closed-november-27" },
+  { date: "2026-10-30", label: "Dexter: Resurrection Season 2 returns on Paramount+", slug: "new-on-paramount-plus-november-2026-yellowjackets-final-season" },
+  { date: "2026-11-20", label: "Yellowjackets final season premieres on Paramount+", slug: "new-on-paramount-plus-november-2026-yellowjackets-final-season" },
 ];
 
 /** Today's date in Eastern Time as YYYY-MM-DD. */

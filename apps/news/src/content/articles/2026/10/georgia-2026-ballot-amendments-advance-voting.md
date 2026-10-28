@@ -4,6 +4,7 @@ seoTitle: "Georgia 2026 Ballot: Amendments and Early Voting"
 description: "Georgia's Nov. 3, 2026 ballot: a U.S. Senate seat, governor, six more statewide offices and three amendments. Advance voting is Oct. 13-30; runoffs Dec. 1."
 type: explainer
 publishedAt: "2026-10-20T11:25:00-04:00"
+updatedAt: "2026-10-28T16:12:00-04:00"
 authors: [alex-morgan]
 category: elections
 keywords: ["Georgia ballot 2026", "Georgia constitutional amendments 2026", "Georgia early voting 2026", "Georgia sample ballot 2026", "Georgia runoff December 2026"]
@@ -16,7 +17,7 @@ hero:
 summary:
   - "Georgia's Nov. 3, 2026 ballot includes a U.S. Senate seat, governor, lieutenant governor and five other statewide offices, according to the Secretary of State."
   - "Voters also decide three constitutional amendments: farmland tax relief, nonpartisan elections for probate judges and a dedicated 9-1-1 fund. Each needs a simple majority."
-  - "Advance in-person voting runs Tuesday, Oct. 13 through Friday, Oct. 30, including two Saturdays; the last day to request an absentee ballot is Oct. 23."
+  - "Advance in-person voting runs Tuesday, Oct. 13 through Friday, Oct. 30, including two Saturdays; the last day to request an absentee ballot was Oct. 23 (passed)."
   - "Georgia requires a majority to win, so any race where no candidate tops 50% goes to a runoff on Tuesday, Dec. 1."
 faq:
   - q: "What offices are on the Georgia ballot in 2026?"
@@ -26,7 +27,7 @@ faq:
   - q: "When is early voting in Georgia for November 2026?"
     a: "Advance voting runs from Tuesday, Oct. 13 through Friday, Oct. 30, with two Saturdays. Counties may also offer Sunday voting. You can vote at any advance voting site in your county."
   - q: "When is Georgia's absentee ballot deadline?"
-    a: "Applications must be received by Friday, Oct. 23. Completed ballots must be received by your county registrar by 7 p.m. on Election Day."
+    a: "Applications had to be received by Friday, Oct. 23, which has passed. Completed ballots must be received by your county registrar by 7 p.m. on Election Day, Tuesday, Nov. 3."
   - q: "When is the Georgia runoff in 2026?"
     a: "Tuesday, Dec. 1, 2026, for any race in which no candidate wins more than half of the vote. Early voting for the runoff is scheduled for Nov. 23-25."
   - q: "What ID do I need to vote in Georgia?"
@@ -38,6 +39,10 @@ sources:
   - title: "Georgia General Election 2026"
     url: "https://georgia.gov/georgia-general-election-2026"
     publisher: "Georgia.gov"
+  - title: "Vote in advance through October 30"
+    url: "https://www.gwinnettcounty.com/-/news-events/stories/story-details/vote-in-advance-through-october-30"
+    publisher: "Gwinnett County, Georgia"
+    date: "2026-10-28"
   - title: "General Election Runoff Early Voting"
     url: "https://georgia.gov/events/2026-11-23/general-election-runoff-early-voting"
     publisher: "Georgia.gov"
@@ -67,7 +72,9 @@ downloads:
 draft: false
 ---
 
-**Georgia voters elect a U.S. senator, a governor and six other statewide officials on Tuesday, Nov. 3, 2026, and decide three constitutional amendments.** Advance in-person voting is already underway and runs through Friday, Oct. 30. Because Georgia requires candidates to win a majority, some races could continue to a runoff on Tuesday, Dec. 1.
+<p class="callout"><b>Last updated Wed. Oct. 28, 2026, 4:12 p.m. ET.</b> Advance in-person voting continues through Friday, Oct. 30; you can vote at any advance site in your county. The absentee ballot application deadline (Friday, Oct. 23) has passed; if you have an absentee ballot, your county must receive the completed ballot by 7 p.m. Tuesday, Nov. 3. Any runoff is Tuesday, Dec. 1.</p>
+
+**Georgia voters elect a U.S. senator, a governor and six other statewide officials on Tuesday, Nov. 3, 2026, and decide three constitutional amendments.** Advance in-person voting is underway and runs through Friday, Oct. 30. Because Georgia requires candidates to win a majority, some races could continue to a runoff on Tuesday, Dec. 1.
 
 ## Offices on the ballot
 
@@ -104,7 +111,7 @@ All three were placed on the ballot by the General Assembly with a two-thirds vo
 |---|---|
 | Oct. 5 | Registration deadline (passed) |
 | Tue., Oct. 13-Fri., Oct. 30 | Advance in-person voting, including two Saturdays; some counties add a Sunday |
-| Fri., Oct. 23 | Last day to request an absentee ballot |
+| Fri., Oct. 23 | Last day to request an absentee ballot (passed) |
 | Tue., Nov. 3, 7 a.m.-7 p.m. | Election Day; absentee ballots must be received by 7 p.m. |
 | Nov. 23-25 | Early voting for any runoff, shortened for Thanksgiving |
 | Tue., Dec. 1 | General election runoff, if needed |

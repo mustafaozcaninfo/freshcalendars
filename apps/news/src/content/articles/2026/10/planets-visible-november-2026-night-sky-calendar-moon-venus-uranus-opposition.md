@@ -4,6 +4,7 @@ seoTitle: "Planets Visible in November 2026: Night Sky Calendar"
 description: "The crescent Moon is about 1° from Venus before sunrise on Nov. 7, and Uranus reaches opposition on Nov. 25. A table from NASA Jet Propulsion Laboratory data."
 type: explainer
 publishedAt: "2026-10-28T07:45:00-04:00"
+updatedAt: "2026-10-28T14:25:00-04:00"
 authors: [jordan-bennett]
 category: sky-events
 keywords: ["planets visible November 2026", "night sky November 2026", "Uranus opposition 2026", "Moon and Venus November 2026", "November 2026 sky calendar"]
@@ -63,6 +64,12 @@ faq:
   - q: "Why do the times differ from other sources?"
     a: "Our separations are measured from Earth's center. From a given city the Moon's apparent position differs by up to about 1°, so treat each separation as approximate."
 sources:
+  - title: "Meteor Shower Calendar"
+    url: "https://www.amsmeteors.org/calendar/"
+    publisher: "American Meteor Society"
+  - title: "Astronomy Engine"
+    url: "https://github.com/cosinekitty/astronomy"
+    publisher: "Don Cross (open source)"
   - title: "JPL Horizons On-Line Ephemeris System"
     url: "https://ssd.jpl.nasa.gov/horizons/"
     publisher: "NASA Jet Propulsion Laboratory"
@@ -155,7 +162,9 @@ That brightness is at the limit of naked-eye visibility from very dark sites; bi
 
 ## What else is in the sky this month?
 
-The Leonid meteor shower peaks on the night of Nov. 16-17; the details are in our [November 2026 meteor shower guide](/news/november-2026-meteor-showers-taurids-leonids/). Looking ahead, the [December 2026 printable calendar](/december-calendars.html) has room to add next month's sky events.
+The Southern Taurids peak on the night of Nov. 4-5, the Northern Taurids on Nov. 11-12 and the Leonids on Nov. 16-17, according to the American Meteor Society; the details are in our [November 2026 meteor shower guide](/news/november-2026-meteor-showers-taurids-leonids/).
+
+Before dawn on Tue., Nov. 24, the nearly full Moon passes in front of stars of the Pleiades as seen from the western United States, by our calculation with the open-source [Astronomy Engine](https://github.com/cosinekitty/astronomy). In Denver, Maia is hidden from about 5:22 to 6:04 a.m. Mountain Standard Time (MST); in Salt Lake City from 5:21 to 6:01 a.m. MST; in Seattle from 4:05 to 4:55 a.m. Pacific Standard Time (PST). Los Angeles sees only the fainter Taygeta, from 4:14 to 4:52 a.m. PST. From the East the Moon has set or the sky is light. Binoculars help next to such a bright Moon. Looking ahead, the [December 2026 printable calendar](/december-calendars.html) has room to add next month's sky events.
 
 ## Where do these times come from?
 
