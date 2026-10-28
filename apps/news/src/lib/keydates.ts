@@ -200,6 +200,17 @@ export const KEY_DATES: KeyDate[] = [
   { date: "2027-01-03", label: "Hyde Park Winter Wonderland final day", slug: "hyde-park-winter-wonderland-2026-dates-opening-times-tickets" },
   { date: "2026-11-04", label: "Hulu: All's Fair season 2 and The Remarried Empress", slug: "new-on-hulu-november-2026-release-dates" },
   { date: "2026-11-20", label: "Percy Jackson and the Olympians season 3 on Disney+ and Hulu", slug: "new-on-hulu-november-2026-release-dates" },
+  { date: "2026-11-04", label: "Stick season 2 premieres on Apple TV", slug: "new-on-apple-tv-november-2026-release-dates" },
+  { date: "2026-11-13", label: "12 12 12 premieres on Apple TV", slug: "new-on-apple-tv-november-2026-release-dates" },
+  { date: "2026-11-25", label: "Way of the Warrior Kid on Apple TV", slug: "new-on-apple-tv-november-2026-release-dates" },
+  { date: "2026-11-07", label: "Minnesota firearms deer season opens", slug: "deer-season-2026-opening-day-gun-season-dates-by-state" },
+  { date: "2026-11-21", label: "Wisconsin gun deer season opens", slug: "deer-season-2026-opening-day-gun-season-dates-by-state" },
+  { date: "2026-11-28", label: "Pennsylvania regular firearms deer season opens", slug: "deer-season-2026-opening-day-gun-season-dates-by-state" },
+  { date: "2026-11-08", label: "NFL in Madrid: Bengals vs. Falcons, 9:30 a.m. ET", slug: "nfl-international-games-november-2026-madrid-munich-mexico-city-kickoff-times" },
+  { date: "2026-11-15", label: "NFL in Munich: Patriots vs. Lions, 9:30 a.m. ET", slug: "nfl-international-games-november-2026-madrid-munich-mexico-city-kickoff-times" },
+  { date: "2026-11-22", label: "NFL in Mexico City: Vikings vs. 49ers, 8:20 p.m. ET", slug: "nfl-international-games-november-2026-madrid-munich-mexico-city-kickoff-times" },
+  { date: "2026-11-08", label: "Target $30 Thanksgiving meal for six starts", slug: "thanksgiving-meal-deals-2026-aldi-lidl-target-sams-club-prices-dates" },
+  { date: "2026-11-11", label: "Lidl $35.86 Thanksgiving basket starts", slug: "thanksgiving-meal-deals-2026-aldi-lidl-target-sams-club-prices-dates" },
 ];
 
 /** Today's date in Eastern Time as YYYY-MM-DD. */
