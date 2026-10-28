@@ -1,10 +1,10 @@
 ---
 title: "National Christmas Tree Lighting 2026: Free Ticket Lottery Opens Oct. 28, Ceremony Dec. 3"
 seoTitle: "National Christmas Tree Lighting 2026: Ticket Lottery Dates"
-description: "The National Park Service (NPS) opens the free National Christmas Tree lottery at 10 a.m. Eastern Time (ET) Oct. 28; the Dec. 3 ceremony is on the Ellipse."
+description: "The National Park Service (NPS) free National Christmas Tree ticket lottery is open now through 3 p.m. Eastern Time (ET) Nov. 4; the ceremony is Dec. 3."
 type: news
 publishedAt: "2026-10-25T15:19:00-04:00"
-updatedAt: "2026-10-27T02:54:00-04:00"
+updatedAt: "2026-10-28T16:12:00-04:00"
 authors: [alex-morgan]
 category: holidays
 keywords: ["National Christmas Tree lighting 2026", "National Christmas Tree tickets lottery", "National Christmas Tree lighting date", "Capitol Christmas Tree 2026"]
@@ -22,7 +22,7 @@ hero:
     authorUrl: "https://www.flickr.com/people/usforestservice/"
 summary:
   - "The National Park Service (NPS) says the 2026 National Christmas Tree lighting ceremony is Dec. 3 on the Ellipse in Washington, D.C., which is a Thursday."
-  - "The free ticket lottery opens at 10 a.m. Eastern Time (ET) on Wed., Oct. 28, and closes at 3 p.m. ET on Wed., Nov. 4; winners are notified on Thu., Nov. 12."
+  - "The free ticket lottery opened at 10 a.m. Eastern Time (ET) on Wed., Oct. 28, and closes at 3 p.m. ET on Wed., Nov. 4; winners are notified on Thu., Nov. 12."
   - "Each winner may receive up to five tickets, and the NPS says there is no charge to enter the lottery or receive tickets."
   - "The U.S. Capitol Christmas Tree is a separate event: the 2026 tree comes from the Nez Perce-Clearwater National Forests in Idaho, and its lighting date is not yet announced."
 faq:
@@ -80,7 +80,7 @@ assets:
   overlay: true
   kicker: "National Christmas Tree · Thu., Dec. 3, 2026"
   date: "2026-12-03"
-  card: { top: "National Christmas Tree lighting", big: "Free ticket lottery opens Oct. 28", bottom: "Ceremony Thu., Dec. 3 on the Ellipse" }
+  card: { top: "National Christmas Tree lighting", big: "Lottery open now, closes Nov. 4", bottom: "Ceremony Thu., Dec. 3 on the Ellipse" }
   printable:
     slug: national-christmas-tree-2026-timeline
     group: national-christmas-tree-2026
@@ -99,9 +99,9 @@ assets:
     alt: "Printable National Christmas Tree lighting 2026 timeline with lottery dates and the Dec. 3 ceremony"
 ---
 
-<p class="callout"><b>Last updated Tue. Oct. 27, 2026, 2:54 a.m. ET.</b> Rechecked Oct. 27: the lottery dates, the Thursday, Dec. 3 ceremony and the ticket rules are unchanged. The ceremony start time, host and television broadcaster are still not announced.</p>
+<p class="callout"><b>Last updated Wed. Oct. 28, 2026, 4:12 p.m. ET.</b> The free ticket lottery is open now and closes at 3 p.m. ET Wed., Nov. 4; winners are notified Thu., Nov. 12. The ceremony start time, host and television broadcaster are still not announced.</p>
 
-The National Park Service (NPS) says the 2026 National Christmas Tree lighting takes place **Thursday, Dec. 3** on the Ellipse in Washington, D.C., and its free ticket lottery opens at 10 a.m. Eastern Time (ET) on Wednesday, Oct. 28. Below is the lottery timeline with weekdays and times, the separate U.S. Capitol Christmas Tree, and a one-page printable.
+The National Park Service (NPS) says the 2026 National Christmas Tree lighting takes place **Thursday, Dec. 3** on the Ellipse in Washington, D.C., and its free ticket lottery is open now and closes at 3 p.m. Eastern Time (ET) on Wednesday, Nov. 4. Below is the lottery timeline with weekdays and times, the separate U.S. Capitol Christmas Tree, and a one-page printable.
 
 ## When does the National Christmas Tree ticket lottery run?
 

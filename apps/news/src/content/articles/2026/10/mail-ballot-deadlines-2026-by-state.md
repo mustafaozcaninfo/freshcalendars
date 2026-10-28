@@ -4,6 +4,7 @@ seoTitle: "Mail Ballot Deadlines 2026 by State: Postmark Rules"
 description: "Most states need mail ballots to arrive by Nov. 3, 2026; about 15 count ones postmarked by then. Every state's deadline and the Supreme Court ruling."
 type: explainer
 publishedAt: "2026-10-20T10:40:00-04:00"
+updatedAt: "2026-10-28T16:12:00-04:00"
 authors: [alex-morgan]
 category: elections
 keywords: ["mail ballot deadline 2026", "absentee ballot deadline by state", "postmark deadline ballot", "when is my mail ballot due", "mail in ballot deadline November 2026"]
@@ -17,7 +18,7 @@ summary:
   - "In most states, a mailed ballot must be received by Election Day, Tuesday, Nov. 3, 2026, usually by the time polls close; a postmark is not enough."
   - "About 15 states and the District of Columbia count ballots postmarked by Election Day that arrive later, from one day in Texas to 14 days in Illinois."
   - "In June 2026 the U.S. Supreme Court ruled in Watson v. Republican National Committee that federal law does not stop states from counting those late-arriving ballots."
-  - "The U.S. Postal Service recommends mailing a ballot at least one week before it is due, which means by about Oct. 27 in states with an Election Day deadline."
+  - "The U.S. Postal Service recommends mailing a ballot at least one week before it is due; with less than a week left before Nov. 3, return it in person or at a drop box instead."
 faq:
   - q: "When is my mail ballot due in 2026?"
     a: "In most states it must arrive at your election office by the close of polls on Tuesday, Nov. 3, 2026. In about 15 states and Washington, D.C., a ballot postmarked by Nov. 3 still counts if it arrives within a set number of days. Check the table in this story."
@@ -42,6 +43,18 @@ sources:
   - title: "Election Mail"
     url: "https://about.usps.com/what/government-services/election-mail/"
     publisher: "U.S. Postal Service"
+  - title: "Apply for a Mail-in or Absentee Ballot"
+    url: "https://www.pa.gov/en/services/vote/apply-for-a-mail-in-or-absentee-ballot"
+    publisher: "Commonwealth of Pennsylvania"
+    date: "2026-10-28"
+  - title: "2026 General Election"
+    url: "https://www.flaglerelections.gov/Elections/2026-General-Election"
+    publisher: "Flagler County Supervisor of Elections"
+    date: "2026-10-28"
+  - title: "Vote in advance through October 30"
+    url: "https://www.gwinnettcounty.com/-/news-events/stories/story-details/vote-in-advance-through-october-30"
+    publisher: "Gwinnett County, Georgia"
+    date: "2026-10-28"
 internalLinks:
   - href: "/november-calendars.html"
     label: "November 2026 printable calendar"
@@ -60,7 +73,9 @@ downloads:
 draft: false
 ---
 
-**In most states, a mailed ballot has to arrive by Election Day, Tuesday, Nov. 3, 2026, to count.** A postmark is not enough there: the ballot must be in the election office's hands, usually by the time polls close. About 15 states and the District of Columbia are more forgiving and count ballots postmarked by Nov. 3 that arrive within a set window afterward. If you have not mailed your ballot yet, the safest move is to do it now or drop it off in person.
+<p class="callout"><b>Last updated Wed. Oct. 28, 2026, 4:12 p.m. ET.</b> Mail-ballot application windows have closed in many states, including Pennsylvania (5 p.m. Oct. 27), Florida's vote-by-mail request (5 p.m. Oct. 22) and Georgia's absentee application (Oct. 23). Return deadlines are unchanged: in states that require arrival by Nov. 3, mailing now may not get there in time, so return your ballot in person or at an official drop box. Pennsylvania, Florida and Georgia must receive the completed ballot by Nov. 3, not just see a postmark.</p>
+
+**In most states, a mailed ballot has to arrive by Election Day, Tuesday, Nov. 3, 2026, to count.** A postmark is not enough there: the ballot must be in the election office's hands, usually by the time polls close. About 15 states and the District of Columbia are more forgiving and count ballots postmarked by Nov. 3 that arrive within a set window afterward. If you have not returned your ballot yet, the safest move now is to drop it off in person or at an official drop box rather than mail it.
 
 ## States that count a Nov. 3 postmark
 
@@ -118,7 +133,7 @@ A 2025 Kansas law, Senate Bill 4, ended the state's three-day grace period. On J
 
 ## When to mail it
 
-The U.S. Postal Service (USPS) recommends mailing a completed ballot at least one week before the state's deadline. In states that require arrival by Election Day, that means by about **Tuesday, Oct. 27**. After that, use a drop box or return it in person where your state allows, by the close of polls. Many states let you track your ballot online; your county or state election office has a link.
+The U.S. Postal Service (USPS) recommends mailing a completed ballot at least one week before the state's deadline. In states that require arrival by Election Day, that was about **Tuesday, Oct. 27**, which has passed. With less than a week to go, do not rely on the mail: use a drop box or return your ballot in person where your state allows, by the close of polls. Many states let you track your ballot online; your county or state election office has a link.
 
 Do not wait on a postmark in a grace-period state either. Postal facilities do not always postmark the day a ballot is dropped in a mailbox, so mailing early protects you.
 

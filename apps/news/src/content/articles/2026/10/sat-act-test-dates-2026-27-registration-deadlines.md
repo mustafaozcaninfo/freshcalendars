@@ -4,6 +4,7 @@ seoTitle: "SAT and ACT Test Dates 2026-27 and Deadlines"
 description: "SAT dates left in 2026-27: Nov. 7, Dec. 5, March 6, May 1 and June 5. ACT dates: Dec. 12, Feb. 27, April 10, June 12 and July 10, with every deadline."
 type: explainer
 publishedAt: "2026-10-19T11:28:00-04:00"
+updatedAt: "2026-10-28T16:12:00-04:00"
 authors: [emily-carter]
 category: planning
 keywords: ["SAT test dates 2026-27", "ACT test dates 2026-27", "SAT registration deadline November 2026", "ACT test dates 2027", "SAT dates 2027"]
@@ -12,15 +13,15 @@ hero:
   src: ../../../../assets/news/sat-act-test-dates-2026-27-registration-deadlines/sat-act-test-dates-2026-27-registration-deadlines.jpg
   alt: "SAT and ACT test dates 2026-27: pencils, a bubble answer sheet and calendar cards for Nov. 7 and Dec. 12"
   title: "SAT and ACT dates for the 2026-27 school year"
-  caption: "Five SAT dates and five ACT dates remain in the 2026-27 testing year; the next registration deadline is Oct. 23 for the Nov. 7 SAT."
+  caption: "Five SAT dates and five ACT dates remain in the 2026-27 testing year; the next registration deadline is Friday, Nov. 6 for the Dec. 12 ACT, then Friday, Nov. 20 for the Dec. 5 SAT."
 summary:
-  - "The next SAT is Saturday, Nov. 7, 2026; register by Friday, Oct. 23, or by Tuesday, Oct. 27 with a late fee."
-  - "Four more SAT dates follow: Dec. 5, March 6, May 1 and June 5, 2027."
+  - "Registration for the Nov. 7, 2026 SAT has closed; the next SAT you can register for is Dec. 5, by Friday, Nov. 20 (late by Tuesday, Nov. 24)."
+  - "Three more SAT dates follow in 2027: March 6, May 1 and June 5."
   - "The next ACT is Saturday, Dec. 12, 2026, with a regular deadline of Nov. 6 and a late deadline of Nov. 29."
   - "ACT dates continue Feb. 27, April 10, June 12 and July 10, 2027; the base ACT costs $70."
 faq:
   - q: "When is the next SAT test date?"
-    a: "Saturday, Nov. 7, 2026. The registration deadline is Oct. 23, and the late registration deadline is Oct. 27, both at 11:59 p.m. Eastern Time."
+    a: "Saturday, Nov. 7, 2026, but its registration and late-registration deadlines (Oct. 23 and Oct. 27) have passed. The next SAT you can still register for is Saturday, Dec. 5, 2026, by Friday, Nov. 20 (late by Tuesday, Nov. 24), at 11:59 p.m. Eastern Time."
   - q: "What are the SAT test dates in 2027?"
     a: "March 6, May 1 and June 5, 2027, for weekend testing in the U.S. College Board also lists Nov. 7 and Dec. 5, 2026 in the 2026-27 testing year."
   - q: "When is the next ACT test date?"
@@ -58,13 +59,15 @@ downloads:
 draft: false
 ---
 
-**The next SAT is Saturday, Nov. 7, 2026, and the registration deadline is this Friday, Oct. 23**, according to College Board. Students who miss it can still register until Tuesday, Oct. 27 with a late fee. The next ACT is Saturday, Dec. 12, with a regular deadline of Nov. 6. Between them, the two tests offer 10 more Saturdays this school year.
+<p class="callout"><b>Last updated Wed. Oct. 28, 2026, 4:12 p.m. ET.</b> The Nov. 7, 2026 SAT registration and late-registration deadlines (Oct. 23 and Oct. 27) have passed. The next open deadlines are Friday, Nov. 6 to register for the Dec. 12 ACT and Friday, Nov. 20 to register for the Dec. 5 SAT (late by Tuesday, Nov. 24).</p>
+
+**The next registration deadlines are Friday, Nov. 6 for the Dec. 12, 2026 ACT and Friday, Nov. 20 for the Dec. 5, 2026 SAT**, according to College Board and ACT. Registration for the Saturday, Nov. 7 SAT has closed, though the test still takes place. Between the two exams, SAT and ACT offer several more Saturdays this school year.
 
 ## SAT test dates 2026-27
 
 | Test date | Registration deadline | Late registration |
 |---|---|---|
-| Saturday, Nov. 7, 2026 | Oct. 23 | Oct. 27 |
+| Saturday, Nov. 7, 2026 | Oct. 23 (passed) | Oct. 27 (passed) |
 | Saturday, Dec. 5, 2026 | Nov. 20 | Nov. 24 |
 | Saturday, March 6, 2027 | Feb. 19 | Feb. 23 |
 | Saturday, May 1, 2027 | April 16 | April 20 |
@@ -84,7 +87,7 @@ There is no SAT in January or February 2027, so the gap between the Dec. 5 and M
 | Saturday, June 12, 2027 | May 7 | May 25 | June 7 | June 23 |
 | Saturday, July 10, 2027 | June 4 | June 22 | July 5 | July 20 |
 
-ACT deadlines are 11:59 p.m. Central Time. Students who sat the Oct. 17 ACT have a target score release of Oct. 27. Standby testing means showing up without a confirmed seat; it costs extra and is not guaranteed.
+ACT deadlines are 11:59 p.m. Central Time. Students who sat the Oct. 17 ACT had a target score release of Oct. 27. Standby testing means showing up without a confirmed seat; it costs extra and is not guaranteed.
 
 ## What the ACT costs
 

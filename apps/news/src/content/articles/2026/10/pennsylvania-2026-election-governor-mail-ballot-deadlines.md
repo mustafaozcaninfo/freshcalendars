@@ -1,10 +1,10 @@
 ---
 title: "When Is Election Day 2026 in Pennsylvania? Tuesday, Nov. 3, and the Oct. 27 Mail Ballot Deadline"
 seoTitle: "Election Day 2026 in Pennsylvania: Tuesday, Nov. 3"
-description: "Election Day 2026 in Pennsylvania is Tuesday, Nov. 3. Polls open 7 a.m. to 8 p.m. Apply for a mail ballot by 5 p.m. Oct. 27; it must arrive by 8 p.m."
+description: "Election Day 2026 in Pennsylvania is Tuesday, Nov. 3; polls open 7 a.m. to 8 p.m. The mail ballot application deadline has passed; ballots must arrive by 8 p.m."
 type: explainer
 publishedAt: "2026-10-20T11:20:00-04:00"
-updatedAt: "2026-10-24T00:50:00-04:00"
+updatedAt: "2026-10-28T16:12:00-04:00"
 authors: [alex-morgan]
 category: elections
 keywords: ["when is election day 2026 in pennsylvania", "Pennsylvania election 2026", "Pennsylvania mail ballot deadline 2026", "PA governor race 2026", "Pennsylvania early voting 2026"]
@@ -13,11 +13,11 @@ hero:
   src: ../../../../assets/news/pennsylvania-2026-election-governor-mail-ballot-deadlines/pennsylvania-2026-election-governor-mail-ballot-deadlines.jpg
   alt: "Pennsylvania 2026 election: an official ballot listing governor and U.S. House, beside a card reading apply for a mail ballot by Oct. 27 at 5 p.m."
   title: "Pennsylvania's 2026 ballot and mail deadlines"
-  caption: "Pennsylvania voters elect a governor on Nov. 3, 2026; mail ballot applications are due at 5 p.m. Oct. 27, and ballots must arrive by 8 p.m. on Election Day."
+  caption: "Pennsylvania voters elect a governor on Nov. 3, 2026; the mail ballot application deadline (5 p.m. Oct. 27) has passed, and completed ballots must be received by 8 p.m. on Election Day."
 summary:
   - "Pennsylvania's Nov. 3, 2026 ballot is led by the race for governor and lieutenant governor, elected as a ticket; there is no U.S. Senate race and no statewide judicial election this year."
-  - "The deadline to apply for a mail ballot is 5 p.m. on Tuesday, Oct. 27, and completed ballots must be received by 8 p.m. on Election Day; a postmark does not count."
-  - "Pennsylvania has no traditional early voting, but you can apply for, fill out and return a mail ballot in a single visit to your county election office."
+  - "The deadline to apply for a mail ballot was 5 p.m. on Tuesday, Oct. 27 (passed); completed ballots must be received by 8 p.m. on Election Day, and a postmark does not count."
+  - "Pennsylvania has no traditional early voting; the window to apply for, fill out and return a mail ballot in a single visit to a county election office closed on Oct. 27."
   - "The registration deadline was Oct. 19, and polls are open 7 a.m. to 8 p.m. on Nov. 3."
 faq:
   - q: "When is Election Day 2026 in Pennsylvania?"
@@ -25,11 +25,11 @@ faq:
   - q: "Is there a U.S. Senate race in Pennsylvania in 2026?"
     a: "No. Pennsylvania's Senate seats are next on the ballot in 2028 and 2030. The top race in 2026 is governor and lieutenant governor."
   - q: "When is the deadline to apply for a mail ballot in Pennsylvania?"
-    a: "Your application must be received by your county election office by 5 p.m. on Tuesday, Oct. 27, 2026."
+    a: "It was 5 p.m. on Tuesday, Oct. 27, 2026, and has passed. If you already have a mail ballot, your county must receive the completed ballot by 8 p.m. on Nov. 3; otherwise vote in person."
   - q: "When is my Pennsylvania mail ballot due?"
     a: "Your county must receive it by 8 p.m. on Tuesday, Nov. 3. Ballots that arrive later are not counted, even if they were postmarked earlier."
   - q: "Does Pennsylvania have early voting?"
-    a: "Not in the traditional sense. Instead, you can go to your county election office before the Oct. 27 deadline, apply for a mail ballot, receive it, fill it out and turn it in during the same visit."
+    a: "Not in the traditional sense. Through the Oct. 27 deadline, which has now passed, you could go to your county election office, apply for a mail ballot, receive it, fill it out and turn it in during the same visit. For Nov. 3, vote in person or return a mail ballot you already have."
   - q: "Do I need ID to vote in Pennsylvania?"
     a: "Only if you are voting at a polling place for the first time, including after a move. You can show a photo ID such as a driver's license or passport, or a non-photo ID with your name and address, such as a utility bill or bank statement."
   - q: "Are there statewide ballot questions in Pennsylvania in 2026?"
@@ -70,7 +70,9 @@ downloads:
 draft: false
 ---
 
-**Election Day 2026 in Pennsylvania is Tuesday, Nov. 3, with polls open from 7 a.m. to 8 p.m.** Voters elect a governor and lieutenant governor, and the most important date before then is Tuesday, Oct. 27, the last day, by 5 p.m., to apply for a mail ballot, according to the Pennsylvania Department of State. Completed mail ballots must reach your county election office by 8 p.m. on Election Day; one that arrives later is not counted, whatever its postmark.
+<p class="callout"><b>Last updated Wed. Oct. 28, 2026, 4:12 p.m. ET.</b> The deadline to apply for a mail ballot (5 p.m. Tuesday, Oct. 27) has passed. If you already have a mail ballot, your county must receive the completed ballot by 8 p.m. Tuesday, Nov. 3; a postmark is not enough. Otherwise, vote in person on Nov. 3, when polls are open 7 a.m. to 8 p.m., according to the Pennsylvania Department of State.</p>
+
+**Election Day 2026 in Pennsylvania is Tuesday, Nov. 3, with polls open from 7 a.m. to 8 p.m.** Voters elect a governor and lieutenant governor. The deadline to apply for a mail ballot, 5 p.m. Tuesday, Oct. 27, has passed, according to the Pennsylvania Department of State. If you already have a mail ballot, completed mail ballots must reach your county election office by 8 p.m. on Election Day; one that arrives later is not counted, whatever its postmark.
 
 ## How many days until Election Day in Pennsylvania
 
@@ -78,7 +80,7 @@ draft: false
 
 | Date | What happens | Days from today |
 |---|---|---|
-| Oct. 27 | Last day to apply for a mail ballot (by 5 p.m.) | - |
+| Oct. 27 | Last day to apply for a mail ballot (by 5 p.m.) (passed) | - |
 | Nov. 3 | Election Day; polls open 7 a.m. to 8 p.m. | - |
 
 ## What's on the ballot
@@ -99,12 +101,12 @@ The Department of State lists no statewide ballot question for Nov. 3. Many coun
 | Date | What |
 |---|---|
 | Mon., Oct. 19 | Registration deadline (passed); Pennsylvania has no same-day registration |
-| Tue., Oct. 27, 5 p.m. | Last day for your county to receive a mail ballot application |
+| Tue., Oct. 27, 5 p.m. | Last day for your county to receive a mail ballot application (passed) |
 | Tue., Nov. 3, 7 a.m.-8 p.m. | Election Day; mail ballots must be received by 8 p.m. |
 
 ## Vote early in one visit
 
-Pennsylvania does not have early voting at polling places. What it does have is on-demand mail voting: until the Oct. 27 deadline, you can go to your county election office, apply for a mail ballot, receive it, fill it out and hand it back in the same visit. Hours vary by county, so check before you go.
+Pennsylvania does not have early voting at polling places. What it does have is on-demand mail voting: through the Oct. 27 deadline, which has now passed, you could go to your county election office, apply for a mail ballot, receive it, fill it out and hand it back in the same visit. For Nov. 3, vote in person or return a mail ballot you already have.
 
 If you already have a mail ballot:
 
