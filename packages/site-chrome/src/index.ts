@@ -852,7 +852,7 @@ export type ChromeOpts = {
   /** Show the News nav/footer links. Off for the calendar site until /news/ launches. */
   news?: boolean;
   /** Marks the matching nav link with aria-current="page". */
-  current?: "news";
+  current?: "news" | "printables";
 };
 
 function newsNavLink(opts: ChromeOpts): string {
@@ -883,21 +883,20 @@ export function siteHeaderHtml(today: Date = new Date(), opts: ChromeOpts = {}):
         <a href="/printable-school-calendar.html">School calendars</a>
         <a href="/blank-calendars.html">Blank calendars</a>
         <a href="/printable-monday-start-calendar.html">Monday-start calendars</a>
+        <a href="/print-guide.html">How to print</a>
         <div class="nav-months">${MONTH_SLUGS.map((m, i) => `<a href="/${m}-calendars.html" title="${m[0]!.toUpperCase() + m.slice(1)} ${resolveMonthYear(i + 1, today)} calendar">${m[0]!.toUpperCase() + m.slice(1)}</a>`).join("")}</div>
       </div></details>
       <details class="nav-group"><summary>Holidays</summary><div class="nav-panel">
         <a href="/holidays/">US holidays</a><a href="/uk-holidays/">UK holidays</a><a href="/canada-holidays/">Canada holidays</a>
+        <a href="/page/school-holidays/">School holidays</a><a href="/page/daylight-savings/">Daylight saving time</a>
       </div></details>
-      <details class="nav-group"><summary>Tools</summary><div class="nav-panel">
-        <a href="/calendar-tools/">Calendar tools</a>
-        <a href="/print-guide.html">How to print</a><a href="/page/school-holidays/">School holidays</a><a href="/page/daylight-savings/">Daylight saving time</a><a href="/page/contact/">Contact us</a>
-      </div></details>${newsNavLink(opts)}
-      <a href="/news/printables/">Printables</a>
+      <a href="/calendar-tools/" title="Date calculators and calendar tools">Tools</a>${newsNavLink(opts)}
+      <a href="/news/printables/" title="Free printable templates"${opts.current === "printables" ? ' aria-current="page"' : ""}>Printables</a>
       <a href="/page/about/" title="About Fresh Calendars">About</a>
     </nav>
   </details>
   ${siteSearchHtml(today)}
-  <div class="header-utilities"><span class="site-language" title="Site language: English">${iconHtml("globe")}<span>EN</span></span><button class="theme-toggle" type="button" data-theme-toggle aria-label="Switch to dark appearance" aria-pressed="false">${iconHtml("moon")}</button></div>
+  <div class="header-utilities"><button class="theme-toggle" type="button" data-theme-toggle aria-label="Switch to dark appearance" aria-pressed="false">${iconHtml("moon")}</button></div>
 </header>
 </div>`;
 }

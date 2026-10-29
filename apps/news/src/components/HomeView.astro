@@ -11,7 +11,9 @@ import ArticleCard from "./ArticleCard.astro";
 import AdSlot from "./AdSlot.astro";
 import Breadcrumb from "./Breadcrumb.astro";
 import Pagination from "./Pagination.astro";
+import type { ImageMetadata } from "astro";
 import type { Article, Category } from "../lib/articles";
+import { authorImageAlt } from "../lib/images";
 import { authorHref, categoryHref } from "../lib/articles";
 import { pagedTitle, type Page } from "../lib/listing";
 import { upcoming } from "../lib/keydates";
@@ -28,15 +30,22 @@ interface Props {
   description: string;
   categories: Category[];
   categoryNames: Map<string, string>;
-  authors: { id: string; name: string }[];
+  authors: { id: string; name: string; role: string; photo?: ImageMetadata; person: boolean }[];
 }
 const { page, all, heading, intro, description, categories, categoryNames, authors } = Astro.props;
-const [lead, ...others] = page.items;
+// Daily puzzle pages are the newest stories most days; keep them in their own block so the
+// lead and the latest column carry the reported stories.
+const editorial = page.items.filter((a) => a.data.category.id !== "puzzles");
+const [lead, ...others] = editorial;
 const latest = others.slice(0, 4);
-const trending = others.slice(4, 9);
-const dates = upcoming(new Set(all.map((a) => a.id)), 6);
+const more = others.slice(4, 9);
+const dates = upcoming(new Set(all.map((a) => a.id)), 6, new Date(), 2);
 const topics = liveTopics(all).map(({ topic, items }) => ({ ...topic, count: items.length }));
+// The busiest topics stay visible; the rest open in place, so every hub link stays on the page.
+const TOPICS_SHOWN = 8;
 const printables = allPrintables(all);
+// Named editors first, the desk last: the hub reads like a masthead.
+const masthead = [...authors].sort((a, b) => Number(b.person) - Number(a.person));
 const strip = printables.slice(0, 6);
 const sections = categories
   .map((c) => ({ c, items: all.filter((a) => a.data.category.id === c.id).slice(0, 3), total: all.filter((a) => a.data.category.id === c.id).length }))
@@ -83,8 +92,26 @@ import NewsBar from "./NewsBar.astro";
         </div>
       </section>
     )}
-    <section class="concept-trending" aria-labelledby="trending-heading"><div class="trending-heading"><h2 id="trending-heading">Trending Now</h2><a href="/news/page/2/">View all news →</a></div><ol>{trending.map((a,i) => <li><a href={articlePath(a.id)}><Image src={a.data.hero.src} alt={a.data.hero.alt} title={a.data.hero.title ?? a.data.title} widths={[240,360]} sizes="240px" format="webp" loading="lazy"/><span class="trend-rank">{i+1}</span><h3>{a.data.title}</h3><time datetime={isoDateTime(a.data.publishedAt)}>◷ {formatDateET(a.data.publishedAt)}</time></a></li>)}</ol></section>
-    <p class="desk">Reported by {authors.map((a,i)=><>{i>0&&", "}<a href={authorHref(a.id)}>{a.name}</a></>)} · <a href={PRINTABLES_PATH}>{printables.length} free printables</a></p>
+    <section class="concept-trending" aria-labelledby="more-heading"><div class="trending-heading"><h2 id="more-heading">More stories</h2><a href="/news/page/2/">View all news →</a></div><ol>{more.map((a) => <li data-cat={a.data.category.id}><a href={articlePath(a.id)}><Image src={a.data.hero.src} alt={a.data.hero.alt} title={a.data.hero.title ?? a.data.title} widths={[240,360]} sizes="240px" format="webp" loading="lazy"/><span class="story-category">{categoryNames.get(a.data.category.id)}</span><h3>{a.data.title}</h3><time datetime={isoDateTime(a.data.publishedAt)}>◷ {formatDateET(a.data.publishedAt)}</time></a></li>)}</ol></section>
+    <section class="desk" aria-labelledby="desk-title">
+      <div class="desk-head">
+        <h2 id="desk-title">Our editors</h2>
+        <p>Every story is checked against official sources by the editor who owns its beat.</p>
+      </div>
+      <ul class="desk-list">
+        {masthead.map((a) => (
+          <li>
+            <a href={authorHref(a.id)} rel="author">
+              {a.photo
+                ? <Image src={a.photo} alt={authorImageAlt(a.name, a.role)} title={a.name} width={48} height={48} densities={[1, 2]} format="webp" class="desk-avatar" loading="lazy" />
+                : <span class="desk-avatar desk-mono" aria-hidden="true">FC</span>}
+              <span class="desk-who"><b>{a.name.replace(/^Fresh Calendars /, "")}</b><span>{a.role.split(",")[0]}</span></span>
+            </a>
+          </li>
+        ))}
+      </ul>
+      <a class="desk-cta" href={PRINTABLES_PATH}>{printables.length} free printables →</a>
+    </section>
     <PreferredSource compact />
     <AdSlot unit={6} variant="top" />
 
@@ -108,7 +135,13 @@ import NewsBar from "./NewsBar.astro";
     {topics.length > 0 && (
       <nav class="topic-nav" aria-labelledby="tp-title">
         <h2 class="sec" id="tp-title">Follow a topic</h2>
-        <ul>{topics.map((t) => <li><a href={topicPath(t.slug)}><b>{t.name}</b><span>{t.count} stories</span></a></li>)}</ul>
+        <ul>{topics.slice(0, TOPICS_SHOWN).map((t) => <li><a href={topicPath(t.slug)}><b>{t.name}</b><span>{t.count} stories</span></a></li>)}</ul>
+        {topics.length > TOPICS_SHOWN && (
+          <details class="topic-more">
+            <summary>All {topics.length} topics</summary>
+            <ul>{topics.slice(TOPICS_SHOWN).map((t) => <li><a href={topicPath(t.slug)}><b>{t.name}</b><span>{t.count} stories</span></a></li>)}</ul>
+          </details>
+        )}
       </nav>
     )}
 
@@ -165,7 +198,21 @@ import NewsBar from "./NewsBar.astro";
   .top .news-lede{color:#fff;font-size:.9375rem;max-width:52ch}
   .top .desk,.top .desk a{color:#fff;font-size:.8125rem}
   @media(max-width:640px){.top{padding:1.5rem;min-height:240px}.top h1{font-size:1.8rem}.top:after{background:rgba(10,32,21,.9)}}
-  .desk{margin:.6rem 0 0;font-size:.95rem;color:var(--ink)}
+  .desk{display:grid;gap:.9rem 1.5rem;align-items:center;margin:0 0 1rem;padding:1rem 1.25rem;border:1px solid var(--line);border-top:3px solid var(--ink-strong);border-radius:8px;background:var(--surface-soft)}
+  .desk-head h2{font-family:Sora,"Sora Fallback",sans-serif;font-size:.78rem;font-weight:700;text-transform:uppercase;letter-spacing:.08em;color:var(--ink-strong);margin:0 0 .25rem}
+  .desk-head p{margin:0;font-size:.85rem;line-height:1.4;color:var(--ink)}
+  .desk-list{list-style:none;margin:0;padding:0;display:grid;gap:.5rem;grid-template-columns:repeat(auto-fill,minmax(150px,1fr))}
+  .desk-list a{display:flex;align-items:center;gap:.65rem;min-height:56px;padding:.4rem .6rem;border:1px solid transparent;border-radius:8px;text-decoration:none;color:var(--ink-strong)}
+  .desk-list a:hover,.desk-list a:focus-visible{border-color:var(--line);background:var(--paper)}
+  .desk-list a:hover b{text-decoration:underline}
+  .desk :global(.desk-avatar){width:48px;height:48px;border-radius:50%;flex:0 0 auto;object-fit:cover;border:2px solid var(--paper);box-shadow:0 0 0 1px var(--line)}
+  .desk-mono{display:grid;place-items:center;background:var(--ink-strong);color:var(--paper);font:700 .8rem Sora,"Sora Fallback",sans-serif;letter-spacing:.04em}
+  .desk-who{display:grid;min-width:0;line-height:1.25}
+  .desk-who b{font-size:.92rem}
+  .desk-who span{font-size:.78rem;color:var(--ink)}
+  .desk-cta{justify-self:start;display:inline-flex;align-items:center;min-height:44px;padding:0 1rem;border-radius:999px;background:var(--ink-strong);color:var(--paper)!important;font-weight:700;font-size:.88rem;text-decoration:none;white-space:nowrap}
+  .desk-cta:hover,.desk-cta:focus-visible{background:var(--focus)}
+  @media (min-width:1100px){.desk{grid-template-columns:200px minmax(0,1fr) auto}.desk-list{grid-template-columns:repeat(4,minmax(0,1fr));gap:.25rem}.desk-list a{padding:.4rem}.desk-who b{white-space:nowrap}}
   .sec{font-family:Sora,"Sora Fallback",sans-serif;font-size:1.15rem;color:var(--ink-strong);margin:0 0 .75rem}
   .sec a{color:var(--ink-strong);text-decoration:none}
   .sec-head{display:flex;justify-content:space-between;align-items:baseline;gap:1rem;border-bottom:3px solid var(--ink-strong);margin-bottom:1rem}
@@ -196,6 +243,13 @@ import NewsBar from "./NewsBar.astro";
   .topic-nav a:hover,.topic-nav a:focus-visible{border-color:var(--focus)}
   .topic-nav b{font-family:Sora,"Sora Fallback",sans-serif;font-size:.95rem;line-height:1.25}
   .topic-nav span{font-size:.82rem;color:var(--ink)}
+  .topic-more{margin-top:.6rem}
+  .topic-more summary{display:inline-flex;align-items:center;gap:.4rem;min-height:44px;padding:0 1rem;border:1px solid var(--line);border-radius:999px;font-weight:700;font-size:.88rem;color:var(--ink-strong);cursor:pointer;list-style:none}
+  .topic-more summary::-webkit-details-marker{display:none}
+  .topic-more summary::after{content:"▾";transition:transform .15s ease}
+  .topic-more[open] summary::after{transform:rotate(180deg)}
+  .topic-more summary:hover,.topic-more summary:focus-visible{border-color:var(--focus)}
+  .topic-more ul{margin-top:.6rem}
   .upcoming{margin:0 0 2.25rem;padding:1.1rem 1.1rem .4rem;background:var(--surface-soft);border:1px solid var(--line);border-radius:8px}
   .upcoming ol{list-style:none;margin:0;padding:0;display:grid;gap:.6rem}
   .upcoming a{display:grid;grid-template-columns:4.2rem 1fr auto;gap:.85rem;align-items:center;padding:.6rem .7rem;background:#fff;border:1px solid var(--line);border-radius:6px;text-decoration:none;color:var(--ink-strong);min-height:56px}
@@ -248,18 +302,18 @@ import NewsBar from "./NewsBar.astro";
 .concept-news-hero h1{font:700 44px/1.1 Sora,sans-serif;letter-spacing:-.04em;color:#0e2135;margin:10px 0 10px}
 .concept-news-hero p{font-size:13px;color:#0e2135;margin:0;max-width:65ch}
 .concept-news-lead{display:grid;grid-template-columns:1.06fr .94fr;gap:24px;margin:20px 0 24px;align-items:stretch}
-.concept-feature{position:relative;min-width:0;border-radius:8px;overflow:hidden;min-height:425px;background:#152e3c}
-.concept-feature>a{display:block;height:100%;text-decoration:none!important;color:#fff!important}
-.concept-feature :global(img){position:absolute;inset:0;width:100%;height:100%;object-fit:cover}
-.concept-feature>a:after{content:"";position:absolute;inset:0;background:linear-gradient(180deg,transparent 25%,#071a25ef 100%)}
+.concept-feature{position:relative;min-width:0;border-radius:8px;overflow:hidden;background:#071a25}
+.concept-feature>a{display:flex;flex-direction:column;height:100%;text-decoration:none!important;color:#fff!important}
+/* Shown whole at 16:9: heroes carry their own lettering, which a cover crop cut off. */
+.concept-feature :global(img){display:block;width:100%;height:auto;aspect-ratio:16/9;object-fit:cover}
 /* Top right: story heroes carry their own kicker in the top-left corner. */
 .feature-badge{position:absolute;top:15px;right:15px;z-index:1;padding:6px 10px;border-radius:6px;background:#fff;color:#10283b;font-size:11px;font-weight:700;text-transform:uppercase}
-.feature-copy{position:absolute;bottom:0;left:0;right:0;z-index:1;padding:22px;background:linear-gradient(180deg,#071a25c4,#071a25f5)}
-.feature-copy:before{content:"";position:absolute;bottom:100%;left:0;right:0;height:36px;background:linear-gradient(180deg,transparent,#071a25c4);pointer-events:none}
+.feature-copy{flex:1;display:flex;flex-direction:column;justify-content:center;padding:20px 22px 22px;background:#071a25}
 .feature-copy h2{font:700 25px/1.2 Sora,sans-serif;letter-spacing:-.04em;margin:8px 0;color:#fff}
-.feature-copy p{font-size:11px;margin:0;color:#fff}
-.feature-copy .feature-desc{font-size:12px;line-height:1.5;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden}
-.feature-read{display:block;font-size:11px;margin-top:12px;color:#fff}
+.feature-copy p{font-size:12px;margin:0;color:#fff}
+.feature-copy .feature-desc{font-size:14px;line-height:1.5;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden}
+.feature-read{display:block;font-size:13px;font-weight:700;margin-top:12px;color:#fff}
+.concept-feature>a:hover h2,.concept-feature>a:focus-visible h2{text-decoration:underline}
 .concept-latest{display:grid;grid-template-rows:repeat(4,1fr);gap:10px;min-width:0}
 .concept-latest article{border:1px solid var(--line-soft);border-radius:8px;overflow:hidden;min-width:0;background:var(--paper)}
 .concept-latest a{height:100%;display:grid;grid-template-columns:40% 1fr;gap:14px;text-decoration:none!important;color:var(--ink-strong)!important}
@@ -275,10 +329,10 @@ import NewsBar from "./NewsBar.astro";
 .concept-trending li{position:relative;border:1px solid var(--line-soft);border-radius:9px;overflow:hidden;background:var(--paper)}
 .concept-trending li>a{position:relative;isolation:isolate;display:flex;flex-direction:column;min-height:139px;padding:12px;text-decoration:none!important;color:var(--ink-strong)!important}
 .concept-trending :global(img){position:absolute;inset:0;width:100%;height:100%;object-fit:cover;opacity:.1;z-index:-1}
-.trend-rank{display:grid;place-items:center;width:26px;height:26px;border-radius:50%;background:#e8eef4;font-size:11px;color:#0e2135;font-weight:700;margin-bottom:10px}
+.concept-trending .story-category{align-self:flex-start;margin-bottom:10px}
 .concept-trending h3{font-size:11px;line-height:1.4;margin:0 0 12px;display:-webkit-box;-webkit-line-clamp:3;-webkit-box-orient:vertical;overflow:hidden}
 .concept-trending time{font-size:11px;color:var(--muted);margin-top:auto}
-@media(max-width:1023px){.news-concept-wrap{width:calc(100% - 40px)}.concept-news-lead{gap:16px}.feature-copy h2{font-size:21px}.concept-feature{min-height:390px}.concept-latest a{gap:10px}.concept-latest h2{font-size:12px}.concept-trending ol{gap:10px}}
-@media(max-width:640px){.news-concept-wrap{width:calc(100% - 32px)}.concept-news-hero{min-height:155px}.concept-news-hero h1{font-size:34px}.concept-news-hero p{font-size:11px;max-width:36ch}.concept-news-lead{grid-template-columns:1fr;gap:14px}.concept-feature{min-height:340px}.concept-latest{grid-template-rows:none;grid-template-columns:1fr 1fr;gap:10px}.concept-latest a{display:flex;flex-direction:column;gap:0}.concept-latest :global(img){height:100px;min-height:100px}.concept-latest a>div{padding:10px;width:100%}.concept-latest h2{font-size:11px}.concept-trending ol{display:flex;overflow-x:auto;scrollbar-width:thin}.concept-trending li{flex:0 0 160px}.feature-copy{padding:18px}.feature-copy h2{font-size:22px}}
+@media(max-width:1023px){.news-concept-wrap{width:calc(100% - 40px)}.concept-news-lead{gap:16px}.feature-copy h2{font-size:21px}.concept-latest a{gap:10px}.concept-latest h2{font-size:12px}.concept-trending ol{gap:10px}}
+@media(max-width:640px){.news-concept-wrap{width:calc(100% - 32px)}.concept-news-hero{min-height:155px}.concept-news-hero h1{font-size:34px}.concept-news-hero p{font-size:11px;max-width:36ch}.concept-news-lead{grid-template-columns:1fr;gap:14px}.concept-latest{grid-template-rows:none;grid-template-columns:1fr 1fr;gap:10px}.concept-latest a{display:flex;flex-direction:column;gap:0}.concept-latest :global(img){height:100px;min-height:100px}.concept-latest a>div{padding:10px;width:100%}.concept-latest h2{font-size:11px}.concept-trending ol{display:flex;overflow-x:auto;scrollbar-width:thin}.concept-trending li{flex:0 0 160px}.feature-copy{padding:18px}.feature-copy h2{font-size:22px}}
   @media(max-width:480px){.upcoming a{grid-template-columns:48px minmax(0,1fr);gap:7px 10px}.upcoming .what{min-width:0;overflow-wrap:anywhere}.upcoming .date{grid-row:span 2}.upcoming .in{grid-column:2;justify-self:start;white-space:normal}.upcoming li{min-width:0}}
 </style>
