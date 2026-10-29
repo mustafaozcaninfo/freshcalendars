@@ -33,7 +33,7 @@ assets:
     rows:
       - { when: "Mon., Nov. 2 to Fri., Nov. 6", what: "Finish exam setup in Bluebook (1 to 5 days before)", section: "Before test week" }
       - { when: "Mon., Nov. 2", what: "Admission ticket available in Bluebook (5 days before)", section: "Before test week" }
-      - { when: "Mon., Nov. 2 to Fri., Nov. 6", what: "Print the ticket (email is allowed) and check its arrival time", section: "Before test week" }
+      - { when: "Mon., Nov. 2 to Fri., Nov. 6", what: "Print the ticket (preferred; email is allowed) and check its arrival time", section: "Before test week" }
       - { when: "Fri., Nov. 6", what: "Charge the testing device; Bluebook installed", section: "Night before" }
       - { when: "Fri., Nov. 6", what: "Find your College Board username and password", section: "Night before" }
       - { when: "Fri., Nov. 6", what: "Check the ticket for the test center address", section: "Night before" }
@@ -124,7 +124,7 @@ draft: false
 
 ## What is the countdown from today to SAT scores?
 
-Today is Thursday, Oct. 29. The table runs from the first step still open to the backup test.
+This table was built on Thursday, Oct. 29, 2026. It runs from the first step still open to the backup test.
 
 | Date | What happens | Source |
 |---|---|---|
@@ -170,7 +170,7 @@ Up to four score sends are free with each weekend registration. If you want to c
 
 ## What if I cannot test on Nov. 7?
 
-You cannot add yourself to this date now, because both deadlines passed in October. The next SAT is Saturday, Dec. 5, 2026: register by Friday, Nov. 20, or by Tuesday, Nov. 24 with additional late fees. If you need a school-lent device, College Board asks for requests at least 30 days before test day, and a request does not guarantee a device. For Dec. 5 that mark is Thursday, Nov. 5 (our calculation). The full 2026-27 list is in our [SAT and ACT test dates story](/news/sat-act-test-dates-2026-27-registration-deadlines/).
+You cannot add yourself to this date now, because both deadlines passed in October. The next SAT is Saturday, Dec. 5, 2026: register by Friday, Nov. 20, or by Tuesday, Nov. 24 with additional late fees. If you need to borrow a testing device from College Board, it asks for requests at least 30 days before test day, and a request does not guarantee a device. For Dec. 5 that mark is Thursday, Nov. 5 (our calculation). The full 2026-27 list is in our [SAT and ACT test dates story](/news/sat-act-test-dates-2026-27-registration-deadlines/).
 
 ## Printable checklist
 
