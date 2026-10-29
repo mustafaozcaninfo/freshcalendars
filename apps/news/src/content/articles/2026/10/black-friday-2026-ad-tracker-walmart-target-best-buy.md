@@ -4,7 +4,7 @@ seoTitle: "Black Friday 2026 Deals: Nov. 27 Date and Countdown"
 description: "Black Friday 2026 is Friday, Nov. 27. Walmart's Black Friday Deals run Nov. 23 to 29 and Target's early deals Nov. 5 to 7. Live countdown and ad tracker."
 type: news
 publishedAt: "2026-10-23T15:05:00-04:00"
-updatedAt: "2026-10-28T21:45:00-04:00"
+updatedAt: "2026-10-29T05:43:00-04:00"
 authors: [jordan-bennett]
 category: retail-dates
 keywords: ["black friday 2026 deals", "how many days until black friday 2026", "what date is black friday 2026", "Walmart Black Friday ad 2026", "Target Black Friday 2026"]
@@ -61,6 +61,10 @@ sources:
     url: "https://ir.homedepot.com/news-releases/2026/09-29-2026-130046472"
     publisher: "The Home Depot"
     date: "2026-09-29"
+  - title: "Lowe's Unveils Holiday 2026 Lineup with New Gifts and Decor, MyLowe's Rewards Perks and Weeks of Black Friday Savings"
+    url: "https://corporate.lowes.com/newsroom/press-releases/lowes-unveils-holiday-2026-lineup-new-gifts-and-decor-mylowes-rewards-perks-and-weeks-of-black-friday-savings"
+    publisher: "Lowe's Companies, Inc."
+    date: "2026-10-08"
   - title: "Target Makes it Easier for Guests to Discover Stylish Holiday Gifts They Can't Wait to Give"
     url: "https://corporate.target.com/press/release/2026/10/target-makes-it-easier-for-guests-to-discover-stylish-holiday-gifts-they-can-t-wait-to-give"
     publisher: "Target"
@@ -120,7 +124,7 @@ downloads:
 draft: false
 ---
 
-<p class="callout"><b>Last updated Wed., Oct. 28, 2026, 9:45 p.m. ET.</b> Best Buy published its holiday calendar on Oct. 27: DoorBOOsters start Friday, Oct. 30, Early Black Friday Deals Nov. 6, 10 days of Black Friday deals from Nov. 19, and Cyber Week Dec. 1 to 6. Walmart set its events on Oct. 26. Amazon and most other chains have not set dates. We update this tracker as official ads land.</p>
+<p class="callout"><b>Last updated Thu., Oct. 29, 2026, 5:43 a.m. ET.</b> Lowe's Black Friday deals start today, Oct. 29, with 12 Days of Deals from Nov. 16 (see our <a href="/news/lowes-black-friday-2026-deals-start-october-29-12-days-of-deals-november-16/">Lowe's Black Friday 2026 guide</a>). Best Buy published its holiday calendar on Oct. 27: DoorBOOsters start Friday, Oct. 30, Early Black Friday Deals Nov. 6, 10 days of Black Friday deals from Nov. 19, and Cyber Week Dec. 1 to 6. Walmart set its events on Oct. 26. Amazon and most other chains have not set dates. We update this tracker as official ads land.</p>
 
 **Black Friday 2026 is Friday, Nov. 27, and Walmart has now set its deal dates: Black Friday Deals run Monday, Nov. 23, to Sunday, Nov. 29, after an Early Black Friday event Nov. 12 to 15, the company said on Oct. 26.** Target will run a Deal of the Day every day from Nov. 1 to Dec. 24 and Early Black Friday deals from Nov. 5 to 7, according to its Oct. 21 press release. Best Buy has described its holiday plans but has not set Black Friday event dates, and no chain has released official Black Friday 2026 television or electronics prices. Below is a live countdown, a deals calendar, a status table for each retailer, what Walmart has and has not said, how to judge a deal, and a shopping-safety checklist from the Federal Trade Commission (FTC).
 
@@ -168,7 +172,7 @@ Amazon held its Prime Big Deal Days on Oct. 6 and 7, 2026, and Target ran its Ci
 | Amazon | Prime Big Deal Days held Oct. 6 to 7, 2026; Black Friday week not announced | Not confirmed here |
 | Costco | Not yet announced | Not confirmed here |
 | Home Depot | Holiday savings start Oct. 29; no Black Friday event dates yet | Not confirmed here |
-| Lowe's | Not yet announced | Not confirmed here |
+| Lowe's | Announced Oct. 8: Black Friday deals from Oct. 29; 12 Days of Deals from Nov. 16; stores closed Thanksgiving Day; Doorbusters Nov. 27 ([our Lowe's guide](/news/lowes-black-friday-2026-deals-start-october-29-12-days-of-deals-november-16/)) | Not confirmed here |
 | Kohl's | Not yet announced | Not confirmed here |
 | Macy's | Not yet announced | Not confirmed here |
 | Dick's Sporting Goods | Not yet announced | Not confirmed here |

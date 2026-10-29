@@ -12,6 +12,15 @@ export interface KeyDate {
 }
 
 export const KEY_DATES: KeyDate[] = [
+  { date: "2026-10-30", label: "Nocturne premieres on Apple TV, episodes 1 and 2", slug: "nocturne-apple-tv-release-date-episode-schedule-october-30" },
+  { date: "2026-12-25", label: "Nocturne finale (episode 10) on Apple TV, by our count", slug: "nocturne-apple-tv-release-date-episode-schedule-october-30" },
+  { date: "2026-10-29", label: "Lowe's Black Friday deals begin", slug: "lowes-black-friday-2026-deals-start-october-29-12-days-of-deals-november-16" },
+  { date: "2026-11-16", label: "Lowe's 12 Days of Deals begin", slug: "lowes-black-friday-2026-deals-start-october-29-12-days-of-deals-november-16" },
+  { date: "2026-11-03", label: "JOLTS job openings, September data, 10 a.m. ET (BLS)", slug: "jobs-report-november-6-2026-time-bls-release-schedule-2027" },
+  { date: "2026-11-06", label: "October jobs report, 8:30 a.m. ET (BLS)", slug: "jobs-report-november-6-2026-time-bls-release-schedule-2027" },
+  { date: "2026-11-10", label: "Consumer Price Index for October, 8:30 a.m. ET (BLS)", slug: "jobs-report-november-6-2026-time-bls-release-schedule-2027" },
+  { date: "2026-12-04", label: "November jobs report, 8:30 a.m. ET (BLS)", slug: "jobs-report-november-6-2026-time-bls-release-schedule-2027" },
+  { date: "2026-11-11", label: "107th NYC Veterans Day Parade, Fifth Avenue, 12:30 p.m. ET step-off (reported)", slug: "nyc-veterans-day-parade-2026-time-route-grand-marshal-suni-williams" },
   { date: "2026-10-30", label: "Lakers at Warriors, NBA Cup opener, 10 p.m. ET (7 p.m. PT), Prime Video", slug: "lakers-schedule-november-2026-game-times-tv-nba-cup-printable" },
   { date: "2026-10-30", label: "Brewers Parade of Champions, 10 a.m. CT (11 a.m. ET), Milwaukee", slug: "brewers-world-series-parade-2026-friday-october-30-time-route-rally" },
   { date: "2027-01-31", label: "Retail fiscal 2027 begins (NRF 4-5-4 calendar)", slug: "nrf-4-5-4-calendar-2027-fiscal-year-dates-53-week-year-2028-printable" },
