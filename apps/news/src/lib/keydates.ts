@@ -12,6 +12,9 @@ export interface KeyDate {
 }
 
 export const KEY_DATES: KeyDate[] = [
+  { date: "2026-10-30", label: "Lakers at Warriors, NBA Cup opener, 10 p.m. ET (7 p.m. PT), Prime Video", slug: "lakers-schedule-november-2026-game-times-tv-nba-cup-printable" },
+  { date: "2026-10-30", label: "Brewers Parade of Champions, 10 a.m. CT (11 a.m. ET), Milwaukee", slug: "brewers-world-series-parade-2026-friday-october-30-time-route-rally" },
+  { date: "2027-01-31", label: "Retail fiscal 2027 begins (NRF 4-5-4 calendar)", slug: "nrf-4-5-4-calendar-2027-fiscal-year-dates-53-week-year-2028-printable" },
   { date: "2026-10-31", label: "Mexico City Day of the Dead parade, 2 p.m. local (4 p.m. ET)", slug: "mexico-city-day-of-the-dead-parade-2026-october-31-time-route-zocalo-ofrenda" },
   { date: "2026-11-24", label: "Guru Nanak Jayanti (Gurpurab), India central government holiday", slug: "guru-nanak-jayanti-2026-date-november-24-gurpurab-purnima-time-us" },
   { date: "2026-11-04", label: "Carnaby Street Christmas lights switch-on, London", slug: "london-christmas-lights-switch-on-2026-dates-regent-street-carnaby-covent-garden" },
