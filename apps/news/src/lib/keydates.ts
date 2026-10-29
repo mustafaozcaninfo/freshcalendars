@@ -270,6 +270,14 @@ export const KEY_DATES: KeyDate[] = [
   { date: "2026-12-01", label: "Best Buy Cyber Week Deals (Dec. 1-6)", slug: "best-buy-black-friday-2026-doorbusters-october-30-holiday-calendar" },
   { date: "2026-11-01", label: "London to Brighton Veteran Car Run leaves Hyde Park, 6.53am GMT", slug: "london-to-brighton-veteran-car-run-2026-sunday-1-november-start-time-route" },
   { date: "2026-10-31", label: "St James's Motoring Spectacle, Pall Mall, 10am-3pm GMT", slug: "london-to-brighton-veteran-car-run-2026-sunday-1-november-start-time-route" },
+  { date: "2026-10-30", label: "Toray Pan Pacific Open quarterfinals, Tokyo (from 9:30 p.m. ET Oct. 29)", slug: "toray-pan-pacific-open-2026-tokyo-schedule-osaka-final-time-us" },
+  { date: "2026-11-01", label: "Toray Pan Pacific Open final, Tokyo (time not yet announced)", slug: "toray-pan-pacific-open-2026-tokyo-schedule-osaka-final-time-us" },
+  { date: "2026-11-05", label: "NFL Week 9 opens: Jaguars at Ravens, 8:15 p.m. ET", slug: "nfl-week-9-schedule-2026-printable-pick-em-sheet-game-times" },
+  { date: "2026-11-08", label: "NFL Week 9: Bengals vs. Falcons in Madrid, 9:30 a.m. ET", slug: "nfl-week-9-schedule-2026-printable-pick-em-sheet-game-times" },
+  { date: "2026-11-08", label: "Leicester Diwali Day, Cossington Recreation Ground (no public fireworks)", slug: "diwali-2026-uk-leicester-diwali-day-8-november-trafalgar-square-cancelled" },
+  { date: "2026-11-13", label: "Chhath Puja begins (Nahay Khay), Nov. 13-16", slug: "chhath-puja-2026-dates-november-13-16-sunset-sunrise-arghya-times-us" },
+  { date: "2026-11-15", label: "Chhath Puja Sandhya Arghya at sunset", slug: "chhath-puja-2026-dates-november-13-16-sunset-sunrise-arghya-times-us" },
+  { date: "2026-11-16", label: "Chhath Puja Usha Arghya at sunrise", slug: "chhath-puja-2026-dates-november-13-16-sunset-sunrise-arghya-times-us" },
 ];
 
 /** Today's date in Eastern Time as YYYY-MM-DD. */
