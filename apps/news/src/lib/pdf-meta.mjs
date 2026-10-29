@@ -65,12 +65,14 @@ export async function stampPdf(file, m) {
   const meta = doc.context.stream(new TextEncoder().encode(xmp(m)), { Type: "Metadata", Subtype: "XML" });
   doc.catalog.set(PDFName.of("Metadata"), doc.context.register(meta));
 
-  // Top-right link to the story, inside the page margin (every template keeps at least 18 pt clear).
+  // Top-right link to the story, in the 0.25 in (18 pt) band the templates keep clear of text
+  // (printCheck.ts). Its glyphs run from 13 to 18 pt below the edge: low enough that home printers,
+  // which lose up to 1/6 in (12 pt) at the top, still print it.
   const font = await doc.embedFont(StandardFonts.HelveticaBold);
   const size = 7, w = font.widthOfTextAtSize(LINK_TEXT, size);
   for (const page of doc.getPages()) {
     const { width, height } = page.getSize();
-    const x = width - w - 16, y = height - 11;
+    const x = width - w - 18, y = height - 18;
     page.drawText(LINK_TEXT, { x, y, size, font, color: rgb(0.35, 0.42, 0.46) });
     const annot = doc.context.register(doc.context.obj({
       Type: "Annot", Subtype: "Link", Rect: [x - 2, y - 3, x + w + 2, y + size + 2], Border: [0, 0, 0],

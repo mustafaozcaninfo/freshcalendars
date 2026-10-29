@@ -6,6 +6,7 @@ import fs from "node:fs/promises";
 import path from "node:path";
 import { chromium } from "playwright";
 import { ROOT } from "./paths.js";
+import { assertPrintable, dryRun, pdfOptions, warnRaster } from "./printCheck.js";
 
 export type Size = { width: number; height: number };
 export type Printable = { slug: string; size: Size; html: string };
@@ -24,7 +25,10 @@ export function samePdf(a: Uint8Array, b: Uint8Array): boolean {
   return norm(a) === norm(b);
 }
 
-/** Renders every template to <public>/<slug>.pdf|png and copies the PNG to <assets>/<slug>.png. */
+/**
+ * Renders every template to <public>/<slug>.pdf|png and copies the PNG to <assets>/<slug>.png.
+ * Each sheet passes the print checks (printCheck.ts) first; FC_PRINT_DRY=1 checks without writing.
+ */
 export async function renderPrintables(dir: string, list: Printable[]): Promise<void> {
   const outPublic = path.join(ROOT, "apps/news/public/downloads", dir);
   const outAssets = path.join(ROOT, "apps/news/src/assets/news", dir);
@@ -40,8 +44,11 @@ export async function renderPrintables(dir: string, list: Printable[]): Promise<
       const fit = await page.evaluate(() => (window as unknown as { __fit?: () => number }).__fit?.() ?? null);
       if (await page.evaluate(() => document.body.dataset.overflow === "1")) throw new Error(`${t.slug}: content does not fit on the page even at 80%; cut or split the rows`);
       if (fit !== null && fit !== 1) console.log(`${t.slug}: scaled to ${Math.round(fit * 100)}% to fit`);
+      await assertPrintable(page, t.slug);
+      if (dryRun()) { warnRaster(t.slug, await page.pdf(pdfOptions(t.size))); await page.close(); continue; }
       const pdf = path.join(outPublic, `${t.slug}.pdf`), png = path.join(outPublic, `${t.slug}.png`);
-      const bytes = await page.pdf({ width: `${t.size.width}px`, height: `${t.size.height}px`, printBackground: true, margin: { top: "0", right: "0", bottom: "0", left: "0" } });
+      const bytes = await page.pdf(pdfOptions(t.size));
+      warnRaster(t.slug, bytes);
       // Chromium stamps a fresh creation date into every PDF. Keep the old file when nothing else
       // changed, so a re-run does not show up as an edit, a re-upload and a Cloudflare purge.
       const old = await fs.readFile(pdf).catch(() => null);

@@ -41,7 +41,6 @@ const TX: StateSheet = {
     ["15th Court of Appeals, Place 2", ["Scott K. Field (Rep.)", "Tom Baker (Dem.)"]],
     ["15th Court of Appeals, Place 3", ["April Farris (Rep.)", "Marc M. Meyer (Dem.)"]],
   ],
-  localLines: 6,
   measures: [["Local", "City, county or school district proposition"], ["Local", "City, county or school district proposition"]],
 };
 

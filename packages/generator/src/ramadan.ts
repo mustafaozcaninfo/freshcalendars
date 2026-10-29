@@ -13,6 +13,7 @@
 import fs from "node:fs/promises";
 import path from "node:path";
 import { chromium } from "playwright";
+import { assertPrintable, dryRun, pdfOptions, warnRaster } from "./printCheck.js";
 import { LETTER, doc, fontFaces } from "./julian.js";
 import { ROOT } from "./paths.js";
 
@@ -217,8 +218,10 @@ export async function buildRamadanDownloads(): Promise<void> {
       const page = await browser.newPage({ viewport: LETTER, deviceScaleFactor: 2 });
       await page.setContent(html, { waitUntil: "load" });
       await page.evaluate(() => document.fonts.ready);
+      await assertPrintable(page, slug);
+      if (dryRun()) { await page.close(); continue; }
       const pdf = path.join(OUT_PUBLIC, `${slug}.pdf`), png = path.join(OUT_PUBLIC, `${slug}.png`);
-      await page.pdf({ path: pdf, width: `${LETTER.width}px`, height: `${LETTER.height}px`, printBackground: true, margin: { top: "0", right: "0", bottom: "0", left: "0" } });
+      warnRaster(slug, await page.pdf({ path: pdf, ...pdfOptions(LETTER) }));
       await page.screenshot({ path: png, type: "png", clip: { x: 0, y: 0, ...LETTER } });
       await fs.copyFile(png, path.join(OUT_ASSETS, `${slug}.png`));
       await page.close();

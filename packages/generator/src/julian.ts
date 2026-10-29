@@ -15,6 +15,7 @@ import path from "node:path";
 import { chromium } from "playwright";
 import { holidaysForYear } from "@freshcalendars/engine";
 import { ROOT } from "./paths.js";
+import { assertPrintable, dryRun, pdfOptions, warnRaster } from "./printCheck.js";
 
 const OUT_PUBLIC = path.join(ROOT, "apps/news/public/downloads/julian-date-calendar");
 const OUT_ASSETS = path.join(ROOT, "apps/news/src/assets/news/julian-date-calendar");
@@ -62,7 +63,7 @@ export async function fontFaces(): Promise<string> {
 }
 
 export function doc(fonts: string, size: { width: number; height: number }, css: string, pages: string[]): string {
-  return `<!doctype html><html><head><meta charset="utf-8"><style>
+  return `<!doctype html><html lang="en"><head><meta charset="utf-8"><style>
   ${fonts}
   @page{size:${size.width}px ${size.height}px;margin:0}
   *{box-sizing:border-box}html,body{margin:0;padding:0}
@@ -102,7 +103,7 @@ function dayOfYearChart(y: number, fonts: string): string {
   .p1 tbody th{background:#eef4fb;color:#0b3d66;font-weight:700;width:34px}
   .p1 td.we{background:#e8f1ff}
   .p1 td.hol{background:#fff1b8;font-weight:700}
-  .p1 td.na{background:repeating-linear-gradient(45deg,#f2f4f7 0 4px,#fff 4px 8px)}
+  .p1 td.na{background:#eceff3}
   .p1 .legend{display:flex;gap:18px;font-size:11px;margin-top:10px;color:#37474f}
   .p1 .legend i{display:inline-block;width:14px;height:12px;border:1px solid #c9d6e8;vertical-align:-2px;margin-right:5px}`;
   const page = `<section class="page p1">
@@ -110,7 +111,7 @@ function dayOfYearChart(y: number, fonts: string): string {
     <p class="sub">Day of the year, 001 to ${daysInYear(y)} · ${isLeap(y) ? "leap year (Feb. 29 = 060)" : "not a leap year"} · Find the month, then the date</p>
     <div class="bar"></div>
     <table><thead><tr><th></th>${MON3.map((m) => `<th>${m}</th>`).join("")}</tr></thead><tbody>${rows}</tbody></table>
-    <div class="legend"><span><i style="background:#e8f1ff"></i>Weekend</span><span><i style="background:#fff1b8"></i>U.S. federal holiday (actual date)</span><span><i style="background:repeating-linear-gradient(45deg,#f2f4f7 0 4px,#fff 4px 8px)"></i>No such date</span></div>
+    <div class="legend"><span><i style="background:#e8f1ff"></i>Weekend</span><span><i style="background:#fff1b8"></i>U.S. federal holiday (actual date)</span><span><i style="background:#eceff3"></i>No such date</span></div>
     <div class="foot">Free printable from Fresh Calendars · ${SITE}</div>
   </section>`;
   return doc(fonts, LETTER, css, [page]);
@@ -227,8 +228,8 @@ function astronomicalJd(y: number, fonts: string): string {
   .p4 tbody th{background:#eef2f8;color:#0b1f3a;width:28px;font-weight:700}
   .p4 td{color:#0b1f3a;font-weight:700}
   .p4 tbody tr:nth-child(even) td{background:#f7f9fc}
-  .p4 td .pre{color:#8a9bb3;font-weight:500}
-  .p4 td.na{background:repeating-linear-gradient(45deg,#eef2f8 0 4px,#fff 4px 8px)!important}
+  .p4 td .pre{color:#6f7f96;font-weight:500}
+  .p4 td.na{background:#eceff3!important}
   .p4 .box{display:grid;grid-template-columns:repeat(3,1fr);gap:12px;margin-top:10px;font-size:10px;color:#37474f}
   .p4 .box div{border:1px solid #c9d3e3;border-radius:8px;padding:7px 10px;border-left:4px solid #fccc00}
   .p4 .box b{color:#0b1f3a}
@@ -267,9 +268,12 @@ export async function buildJulianDownloads(years: number[]): Promise<void> {
         const page = await browser.newPage({ viewport: t.size, deviceScaleFactor: 2 });
         await page.setContent(html, { waitUntil: "load" });
         await page.evaluate(() => document.fonts.ready);
+        await assertPrintable(page, `${y} ${t.slug}`);
+        if (dryRun()) { await page.close(); continue; }
         const pdf = path.join(dir, `${t.slug}-${y}.pdf`);
         const png = path.join(dir, `${t.slug}-${y}.png`);
-        await page.pdf({ path: pdf, width: `${t.size.width}px`, height: `${t.size.height}px`, printBackground: true, margin: { top: "0", right: "0", bottom: "0", left: "0" } });
+        const bytes = await page.pdf({ path: pdf, ...pdfOptions(t.size) });
+        warnRaster(`${y} ${t.slug}`, bytes);
         await page.screenshot({ path: png, type: "png", clip: { x: 0, y: 0, ...t.size } });
         await fs.copyFile(png, path.join(OUT_ASSETS, `${t.slug}-${y}.png`));
         await page.close();

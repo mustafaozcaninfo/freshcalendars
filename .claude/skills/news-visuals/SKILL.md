@@ -71,10 +71,12 @@ Readers keep the printable, and AI Overviews cannot replace it, so it gets the s
 - One printable per story whose content can be acted on, built from that story's own facts: its dates, times, steps or checklist. A generic month grid is not a product.
 - Pick the layout by the content (month, timeline, checklist, list) and add the notes label that fits the reader ("My runner, my cheer spot").
 - The `Source:` note names the same sources as the story.
+- Print quality is tested, not eyeballed: the generator refuses a sheet with text outside the 0.25 in safe area, text on the footer or cut off by its box, a glyph from a system font, type under 8 px or contrast under 3:1, and warns about raster images, contrast under 4.5:1, a near-collision with the footer and an empty bottom quarter. The full checklist is "Printable PDF rules" in the `news-article` skill; `FC_PRINT_DRY=1 pnpm fc <command>` runs it without writing files.
+- For a custom generator, start from `doc()` and `fontFaces()` in `julian.ts` and render through `renderPrintables()`, so it gets the checks, the tagged PDF and the stable file bytes. Draw ruled lines and hatching with borders, symbols as inline SVG.
 
 ## 6. Check before you commit
 
 - `pnpm fc news-assets <slug>` finished without "hero is not unique".
-- Read the hero and the printable PNG once: subject visible, card readable, nothing covered, no stray text.
-- `pnpm news:build && pnpm news:seo-audit`: `12-HERO-UNIQUE` passes. `12-HERO-REPEATS` lists older stories that share a picture; when you update one of them, give it its own hero.
+- Read the hero and the printable PNG once: subject visible, card readable, nothing covered, no stray text. The printable command printed "print checks pass" with no warnings you have not looked at.
+- `pnpm news:build && pnpm news:seo-audit`: `12-HERO-UNIQUE` and every `10-PDF-*` check pass. `12-HERO-REPEATS` lists older stories that share a picture; when you update one of them, give it its own hero.
 - Commit `<slug>.webp` (or `.jpg`), `<slug>.hero.json`, and for photos `<slug>.photo.json` and `<slug>.source.webp`.

@@ -59,7 +59,7 @@ function cheatSheet(fonts: string): string {
   const row = ([b, o, t]: Deal, ok: boolean) => `<tr><td class="cb"><i class="${ok ? "ok" : ""}"></i></td><td class="b">${b}</td><td>${o}</td><td class="tg">${t.map((x) => `<span class="t-${x}">${TAG[x]}</span>`).join("")}</td></tr>`;
   const tbl = (head: string, list: Deal[], ok: boolean) => `<h2>${head}</h2><table><tbody>${list.map((d) => row(d, ok)).join("")}</tbody></table>`;
   const css = `
-  .vd{padding:22px 28px 0}
+  .vd{padding:28px 28px 0}
   .vd header{display:flex;justify-content:space-between;align-items:flex-end;border-bottom:4px solid #b91c1c;padding-bottom:7px;margin-bottom:8px}
   .vd h1{font-family:Sora;font-weight:800;font-size:26px;margin:0;color:#0b2a5b;line-height:1.05}
   .vd .sub{margin:4px 0 0;font-size:11px;color:#37474f}
@@ -88,7 +88,7 @@ function cheatSheet(fonts: string): string {
       <div>${WATCH_2025.map(([h, l]) => tbl(`Offered in 2025: ${h}`, l, false)).join("")}
       <div class="side"><b>Also on Nov. 11, 2026</b><ul><li>National parks: free entrance for U.S. citizens and residents</li><li>Free Military Lifetime Pass for veterans, year-round</li><li>Closed: federal offices, banks, post offices · Open: stock markets</li></ul></div>
       <div class="side"><b>Year-round store discounts</b><ul><li>Home Depot: 10% off, up to $400 a year (register in the app)</li><li>Lowe's: 10% off most full-price items (verify with ID.me)</li></ul></div></div></div>
-    <div class="cut"><div><b>✂ Wallet card: bring one of these</b><ol><li>Veteran ID Card (VA) or Veteran Health Identification Card</li><li>Military ID: Common Access Card or Uniformed Services ID</li><li>Driver's license or state ID with a veteran designation</li><li>DD-214 (a copy or a photo on your phone)</li></ol></div><div><b>Before you go</b>Most offers are for the veteran only, not guests; drinks, tax and tip are usually extra; many are dine-in only and limited to Nov. 11. Wear the uniform only where the offer says it counts.</div></div>
+    <div class="cut"><div><b><svg width="13" height="11" viewBox="0 0 13 11" fill="none" stroke="#b91c1c" stroke-width="1.5" style="vertical-align:-1px;margin-right:4px"><circle cx="2.6" cy="2.6" r="1.9"/><circle cx="2.6" cy="8.4" r="1.9"/><path d="M4.2 3.6 12.4 9.4M4.2 7.4 12.4 1.6"/></svg>Wallet card: bring one of these</b><ol><li>Veteran ID Card (VA) or Veteran Health Identification Card</li><li>Military ID: Common Access Card or Uniformed Services ID</li><li>Driver's license or state ID with a veteran designation</li><li>DD-214 (a copy or a photo on your phone)</li></ol></div><div><b>Before you go</b>Most offers are for the veteran only, not guests; drinks, tax and tip are usually extra; many are dine-in only and limited to Nov. 11. Wear the uniform only where the offer says it counts.</div></div>
     <p class="note">Green boxes: offers announced for 2026 (Military.com list updated Oct. 28, 2026, and announcements by Red Robin, Pilot, Freddy's and Bob Evans through Oct. 27). Gray boxes: offered in 2025; watch for each chain's 2026 announcement. National Park Service, Department of Veterans Affairs, Home Depot and Lowe's terms as published. Updates: freshcalendars.com/news/veterans-day-free-meals-discounts/</p>
     <div class="foot">Free printable from Fresh Calendars · freshcalendars.com/news/veterans-day-free-meals-discounts/</div></section>`;
   return doc(fonts, LETTER, css, [page]);

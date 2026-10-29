@@ -529,7 +529,7 @@ check("01-THIN", "No thin stories: at least 300 words of body text (§02 l.548, 
 
 // ── 10 Printable PDFs (Google, Search Off the Record "PDF files"; apps/news/src/lib/pdf-meta.mjs) ──
 // Byte-level reads are enough: pdf-meta saves without object streams, so dictionaries stay plain.
-const PDF_MAX = 5 * 1024 * 1024;
+const PDF_MAX = 2 * 1024 * 1024;
 const pdfLinks = (h) => [...new Set([...h.matchAll(/href="(\/news\/downloads\/[^"]+\.pdf)"/g)].map((m) => m[1]))];
 const pngLinks = (h) => [...new Set([...h.matchAll(/href="(\/news\/downloads\/[^"]+\.png)"/g)].map((m) => m[1]))];
 const fileOf = (u) => path.join(dist, u.replace(/^\/news\//, ""));
@@ -538,12 +538,12 @@ const pdfMap = existsSync(pdfMapFile)
   ? new Map([...readFileSync(pdfMapFile, "utf8").matchAll(/^"~\^(\S+?)\$" "<([^>]+)>/gm)].map((m) => [m[1].replace(/\\(.)/g, "$1"), m[2]]))
   : new Map();
 const pdfBytes = (u) => readFileSync(fileOf(u)).toString("latin1");
-check("10-PDF-FILES", "Every printable a story offers exists as PDF and PNG, the PDF under 5 MB and text-based (fonts, not page images)", () =>
+check("10-PDF-FILES", "Every printable a story offers exists as PDF and PNG, the PDF under 2 MB and text-based (fonts, not page images)", () =>
   each(articleUrls, (u, h) => {
     const bad = [];
     for (const f of [...pdfLinks(h), ...pngLinks(h)]) if (!existsSync(fileOf(f))) bad.push(`missing ${f}`);
     for (const f of pdfLinks(h).filter((x) => existsSync(fileOf(x)))) {
-      if (statSync(fileOf(f)).size > PDF_MAX) bad.push(`${f} over 5 MB`);
+      if (statSync(fileOf(f)).size > PDF_MAX) bad.push(`${f} over 2 MB`);
       if (!/\/Font\b/.test(pdfBytes(f))) bad.push(`${f} has no text layer`);
     }
     return bad.length ? bad.join("; ") : null;
@@ -569,6 +569,25 @@ check("10-PDF-LINK-CANONICAL", "Each printable PDF links to its story from the t
     }
     return bad.length ? bad.join("; ") : null;
   }));
+// Print quality of the PDFs as shipped (scripts/lib/pdf-print.mjs). The generators run the same rules on
+// the HTML before printing (packages/generator/src/printCheck.ts); this holds every file to them.
+const { checkPrintPdf, PDF_LEGACY } = await import("./lib/pdf-print.mjs");
+const pdfPrint = new Map();
+for (const f of new Set(articleUrls.flatMap((u) => pdfLinks(html[u])))) if (existsSync(fileOf(f))) pdfPrint.set(f, await checkPrintPdf(fileOf(f)));
+const legacyOf = (f) => Object.keys(PDF_LEGACY).find((k) => f.startsWith(`/news/downloads/${k}`));
+const printFails = (key, skip = () => false) => [...pdfPrint].filter(([f, r]) => r[key].length && !skip(f)).map(([f, r]) => `${f}: ${r[key].join("; ")}`);
+check("10-PDF-PAGE", "Printable PDFs are US Letter (612 x 792 pt, either way up); A4 or tabloid only when the file name ends in -a4 or -tabloid", () => printFails("page"));
+check("10-PDF-FONTS", "Every font in a printable PDF is embedded, so it prints the same on every machine", () => printFails("fonts", legacyOf));
+check("10-PDF-SAFE-AREA", "No text within 12 pt (1/6 in) of a page edge, where home printers cut it off", () => printFails("safe"));
+check("10-PDF-OVERLAP", "No two lines of text printed on top of each other (a note under the footer, a label on a badge)", () => printFails("overlap"));
+check("10-PDF-TEXT", "Page 1 of every printable PDF has extractable text, including the top link to its story", () => printFails("text"));
+warn("10-PDF-RASTER", "Printable PDFs with raster images (Chromium rasterizes box-shadow, filters, SVG patterns, some gradients); redraw them as vector when you regenerate — informational", () => {
+  const r = printFails("vector");
+  return r.length ? [`${r.length} PDFs`, ...r.slice(0, 7)] : [];
+});
+warn("10-PDF-TITLE", "Sheet heading does not use the words of its download title (title and h1 should match) — review", () => printFails("title"));
+warn("10-PDF-LEGACY", "Printable PDFs exempt from the font rule until regenerated (PDF_LEGACY in scripts/lib/pdf-print.mjs) — informational", () =>
+  Object.entries(PDF_LEGACY).map(([k, why]) => `${k} (${[...pdfPrint.keys()].filter((f) => legacyOf(f) === k).length} files): ${why}`));
 /** Google Discover: headlines that hide or hype the content (clickbait, outrage) are demoted since the Feb. 2026 core update. */
 const CLICKBAIT = ["you won't believe", "won't believe", "shocking", "shocked", "jaw-dropping", "mind-blowing", "what happens next", "this one trick",
   "you need to know", "everyone is talking", "goes viral", "gone wrong", "must see", "must-see", "the truth about", "will shock", "insane", "unbelievable"];
