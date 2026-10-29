@@ -12,6 +12,12 @@ export interface KeyDate {
 }
 
 export const KEY_DATES: KeyDate[] = [
+  { date: "2026-10-31", label: "Mexico City Day of the Dead parade, 2 p.m. local (4 p.m. ET)", slug: "mexico-city-day-of-the-dead-parade-2026-october-31-time-route-zocalo-ofrenda" },
+  { date: "2026-11-24", label: "Guru Nanak Jayanti (Gurpurab), India central government holiday", slug: "guru-nanak-jayanti-2026-date-november-24-gurpurab-purnima-time-us" },
+  { date: "2026-11-04", label: "Carnaby Street Christmas lights switch-on, London", slug: "london-christmas-lights-switch-on-2026-dates-regent-street-carnaby-covent-garden" },
+  { date: "2026-11-05", label: "Regent Street Christmas lights return, London", slug: "london-christmas-lights-switch-on-2026-dates-regent-street-carnaby-covent-garden" },
+  { date: "2026-11-12", label: "Covent Garden Christmas lights switch-on", slug: "london-christmas-lights-switch-on-2026-dates-regent-street-carnaby-covent-garden" },
+  { date: "2026-11-14", label: "Belfast City Hall Christmas lights switch-on, 6:30 p.m. GMT", slug: "london-christmas-lights-switch-on-2026-dates-regent-street-carnaby-covent-garden" },
   { date: "2026-10-29", label: "GDP advance estimate, 3rd quarter 2026, 8:30 a.m. ET (BEA)", slug: "gdp-report-october-29-2026-time-bea-release-calendar" },
   { date: "2026-11-25", label: "GDP second estimate, 3rd quarter 2026, 8:30 a.m. ET (BEA)", slug: "gdp-report-october-29-2026-time-bea-release-calendar" },
   { date: "2026-10-29", label: "NFL Week 8 opens: Panthers at Packers, 8:15 p.m. ET", slug: "nfl-week-8-schedule-2026-game-times-tv-clock-change" },
