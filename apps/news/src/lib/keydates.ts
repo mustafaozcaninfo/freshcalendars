@@ -255,6 +255,12 @@ export const KEY_DATES: KeyDate[] = [
   { date: "2026-11-21", label: "Pokémon GO Community Day: Pawniard (2-5 p.m. local)", slug: "pokemon-go-november-2026-events-calendar-community-day-pawniard" },
   { date: "2026-11-16", label: "Steam Auto-Battler RPG Fest begins", slug: "steam-winter-sale-2026-dates-december-17-steam-sale-calendar-2027" },
   { date: "2026-12-17", label: "Steam Winter Sale 2026 begins (to Jan. 4)", slug: "steam-winter-sale-2026-dates-december-17-steam-sale-calendar-2027" },
+  { date: "2026-12-03", label: "Pride and Prejudice series premieres on Netflix", slug: "pride-and-prejudice-netflix-release-date-december-3-reading-plan" },
+  { date: "2026-10-30", label: "Best Buy DoorBOOsters start its holiday deals", slug: "best-buy-black-friday-2026-doorbusters-october-30-holiday-calendar" },
+  { date: "2026-11-19", label: "Best Buy Black Friday deals begin (10 days)", slug: "best-buy-black-friday-2026-doorbusters-october-30-holiday-calendar" },
+  { date: "2026-12-01", label: "Best Buy Cyber Week Deals (Dec. 1-6)", slug: "best-buy-black-friday-2026-doorbusters-october-30-holiday-calendar" },
+  { date: "2026-11-01", label: "London to Brighton Veteran Car Run leaves Hyde Park, 6.53am GMT", slug: "london-to-brighton-veteran-car-run-2026-sunday-1-november-start-time-route" },
+  { date: "2026-10-31", label: "St James's Motoring Spectacle, Pall Mall, 10am-3pm GMT", slug: "london-to-brighton-veteran-car-run-2026-sunday-1-november-start-time-route" },
 ];
 
 /** Today's date in Eastern Time as YYYY-MM-DD. */
