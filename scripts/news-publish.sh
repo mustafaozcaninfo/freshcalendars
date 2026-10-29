@@ -81,6 +81,9 @@ fi
 for ((i = 0; i < ${#CHANGES[@]} && i < 50; i++)); do echo "[news] ${CHANGES[i]}"; done
 (( ${#CHANGES[@]} > 50 )) && echo "[news] … and $(( ${#CHANGES[@]} - 50 )) more"
 
+# The page's article:modified_time (from updatedAt), empty when the file or tag is missing.
+modified_time() { sed -n 's/.*article:modified_time" content="\([^"]*\)".*/\1/p' "$1" 2>/dev/null | head -1; }
+
 # Public URLs to purge: pages (dir/index.html → dir/), xml/xsl; hashed _astro files never need it.
 URLS=()
 ARTICLE_URLS=()
@@ -92,10 +95,15 @@ for p in "${CHANGES[@]}"; do
     */index.html)
       u="$ORIGIN/news/${p%index.html}"
       URLS+=("$u")
-      # Stories and topic hubs go to IndexNow; category, author and paged lists wait for the crawl.
+      # New stories and topic hubs go to IndexNow, and a story again only when its updatedAt moved.
+      # A new story reshuffles "More in" and related lists on older pages (and a code change
+      # rewrites them all); those get purged but not announced. Lists wait for the crawl.
       if [[ ( "$p" =~ ^[^/]+/index\.html$ && ! "$p" =~ ^(category|author|page)/ ) || "$p" =~ ^topic/[^/]+/index\.html$ ]]; then
-        ARTICLE_URLS+=("$u")
-        if [[ "$NEW_FILES" == *$'\n'"$p"$'\n'* ]]; then NEW_URLS+=("$u"); fi
+        if [[ "$NEW_FILES" == *$'\n'"$p"$'\n'* ]]; then
+          ARTICLE_URLS+=("$u"); NEW_URLS+=("$u")
+        elif [[ "$p" != topic/* && "$(modified_time "$DIST/$p")" != "$(modified_time "$TARGET$p")" ]]; then
+          ARTICLE_URLS+=("$u")
+        fi
       fi
       ;;
     *) URLS+=("$ORIGIN/news/$p") ;;
