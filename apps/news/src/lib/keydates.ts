@@ -254,6 +254,8 @@ export const KEY_DATES: KeyDate[] = [
   { date: "2026-11-13", label: "Friday the 13th, the last of 2026", slug: "friday-the-13th-november-13-2026-next-friday-13th-dates" },
   { date: "2026-11-29", label: "F1 Qatar Grand Prix, 11 a.m. ET", slug: "qatar-grand-prix-2026-schedule-race-time-by-time-zone" },
   { date: "2026-10-29", label: "Thursday Night Football: Panthers at Packers, 8:15 p.m. ET, Prime Video", slug: "thursday-night-football-tonight-panthers-packers-tnf-schedule-2026" },
+  { date: "2026-10-29", label: "NBA: three games, Cavaliers at Hawks 8:00 p.m. ET on NBA TV", slug: "nba-games-today-october-29-2026" },
+  { date: "2026-10-29", label: "NHL: 11 games, first puck drops 7:00 p.m. ET", slug: "nhl-games-today-october-29-2026" },
   { date: "2026-11-05", label: "Thursday Night Football: Jaguars at Ravens, 8:15 p.m. ET", slug: "thursday-night-football-tonight-panthers-packers-tnf-schedule-2026" },
   { date: "2026-11-01", label: "Movember starts: begin clean shaven", slug: "movember-2026-dates-shave-day-60-km-move-challenge-tracker" },
   { date: "2026-11-19", label: "Hyde Park Winter Wonderland opens, 12 p.m. GMT", slug: "hyde-park-winter-wonderland-2026-dates-opening-times-tickets" },

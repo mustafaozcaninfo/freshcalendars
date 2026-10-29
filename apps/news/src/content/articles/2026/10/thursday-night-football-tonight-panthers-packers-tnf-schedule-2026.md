@@ -4,9 +4,10 @@ seoTitle: "Thursday Night Football: Panthers at Packers Oct. 29"
 description: "Thursday Night Football (TNF): Panthers at Packers on Oct. 29, 2026, 8:15 p.m. Eastern Time (ET) on Prime Video, with every U.S. zone and the full TNF schedule."
 type: news
 publishedAt: "2026-10-27T21:40:00-04:00"
+updatedAt: "2026-10-29T16:10:00-04:00"
 authors: [jordan-bennett]
-category: planning
-keywords: ["Thursday Night Football tonight", "Panthers vs Packers time channel", "TNF schedule 2026", "what channel is Thursday Night Football"]
+category: sports
+keywords: ["Thursday Night Football tonight", "Panthers vs Packers live stream", "Panthers vs Packers time channel", "TNF schedule 2026", "what channel is Thursday Night Football"]
 dateline: "Green Bay"
 assets:
   overlay: true
@@ -52,6 +53,10 @@ faq:
     a: "The next game is Panthers at Packers on Thu., Oct. 29, 2026, at 8:15 p.m. Eastern Time (ET), per NFL.com and Amazon. Amazon says its pregame show, TNF Tonight, starts at 7 p.m. ET each Thursday."
   - q: "What channel is Thursday Night Football?"
     a: "Prime Video. Amazon says games also air on over-the-air TV in the two teams' home markets, stream on Twitch, and have a Spanish-language broadcast on Prime Video."
+  - q: "Can I watch Panthers vs Packers on local TV?"
+    a: "Yes, in the two home markets. The Panthers list WSOC-TV in Charlotte; the Packers list NBC26 (WGBA) in Green Bay and FOX6 (WITI) in Milwaukee. Everywhere else, the game is on Prime Video."
+  - q: "What radio station has Panthers vs Packers?"
+    a: "The Packers list 95.7 Big FM (WRIT) and SiriusXM NFL Radio on channels 81 or 192. The Panthers list 99.7 FM The Fox in Charlotte, 97.3 FM (WXNC) in Spanish and Westwood One nationally."
   - q: "Who is on the Thursday Night Football broadcast?"
     a: "Amazon lists Al Michaels (play-by-play), Kirk Herbstreit (analyst) and Kaylee Hartung (sideline) as the season crew. Amazon's page does not name the crew for this single game."
   - q: "Is there a Thursday Night Football game on Thanksgiving week?"
@@ -65,6 +70,14 @@ sources:
   - title: "'Thursday Night Football' 2026 schedule: How to watch live on Prime Video"
     url: "https://www.aboutamazon.com/md/news/entertainment/thursday-night-football-schedule-prime-video"
     publisher: "Amazon"
+  - title: "How to watch, listen and follow: Panthers at Packers in Week 8"
+    url: "https://www.panthers.com/news/how-to-watch-listen-and-follow-panthers-at-packers-in-week-8"
+    publisher: "Carolina Panthers"
+    date: "2026-10-27"
+  - title: "Packers vs. Panthers | How to watch, stream & listen | Week 8"
+    url: "https://www.packers.com/news/packers-vs-panthers-how-to-watch-stream-listen-week-8-2026"
+    publisher: "Green Bay Packers"
+    date: "2026-10-29"
   - title: "NFL standings"
     url: "https://www.nfl.com/standings/"
     publisher: "NFL"
@@ -74,7 +87,7 @@ internalLinks:
     label: "November 2026 printable calendar"
   - href: "/december-calendars.html"
     label: "December 2026 printable calendar"
-related: [monday-night-football-tonight-cowboys-eagles-mnf-schedule-2026, printable-nfl-schedule-2026-2027-pdf, thanksgiving-football-schedule-2026-nfl-college-games]
+related: [nfl-week-8-schedule-2026-game-times-tv-clock-change, nba-games-today-october-29-2026, nhl-games-today-october-29-2026]
 downloads:
   - group: "Thursday Night Football Schedule 2026 (Weeks 8 to 17) printables"
     title: "Thursday Night Football Schedule 2026 (Weeks 8 to 17)"
@@ -94,6 +107,8 @@ downloads:
     pages: 1
 draft: false
 ---
+
+<p class="callout"><b>Last updated Oct. 29, 2026, 4:10 p.m. ET.</b> Added the local TV and radio stations the Panthers and Packers list for tonight's game.</p>
 
 **The Carolina Panthers play at the Green Bay Packers on Thursday Night Football (TNF) on Thursday, Oct. 29, 2026, at 8:15 p.m. Eastern Time (ET) on Prime Video, per the National Football League (NFL) and Amazon.** The game is Week 8 of the NFL season and is played at Lambeau Field in Green Bay.
 
@@ -120,7 +135,25 @@ From Thu., Nov. 5 on, every game falls after the change, so 8:15 p.m. is Eastern
 
 ## What channel is Thursday Night Football on?
 
-Prime Video. Amazon's schedule page says every game kicks off at 8:15 p.m. ET and that its pregame show, TNF Tonight, starts at 7 p.m. ET each Thursday. Amazon also says the games air on over-the-air TV in the two teams' home markets, stream on Twitch, and have a Spanish-language broadcast on Prime Video. Which local stations carry this game is not confirmed here, so check your local listings for Green Bay and Charlotte.
+Prime Video. Amazon's schedule page says every game kicks off at 8:15 p.m. ET and that its pregame show, TNF Tonight, starts at 7 p.m. ET each Thursday. Amazon also says the games air on over-the-air TV in the two teams' home markets, stream on Twitch, and have a Spanish-language broadcast on Prime Video. The two teams name the local stations for this game in their own viewing guides.
+
+## How to watch the Panthers vs Packers live stream, TV and radio
+
+| Option | Where | Listed by |
+|---|---|---|
+| Prime Video (national stream) | Everywhere in the U.S. | NFL, Amazon, both teams |
+| Twitch | Everywhere in the U.S. | Amazon |
+| Channel 9 in Charlotte (WSOC-TV) | Charlotte market | Carolina Panthers |
+| NBC26 (WGBA) | Green Bay market | Green Bay Packers |
+| FOX6 (WITI) | Milwaukee market | Green Bay Packers |
+| NFL+ (phones and tablets) | Live out-of-market games on mobile | Carolina Panthers |
+| 99.7 FM The Fox | Charlotte radio | Carolina Panthers |
+| 97.3 FM (WXNC), in Spanish | Charlotte radio | Carolina Panthers |
+| 95.7 Big FM (WRIT) | Packers flagship radio | Green Bay Packers |
+| SiriusXM NFL Radio, channels 81 or 192 | Satellite radio | Green Bay Packers |
+| Westwood One | National radio | Carolina Panthers |
+
+Outside Charlotte, Green Bay and Milwaukee, the free over-the-air option does not apply and the live stream is on Prime Video, which needs an Amazon account with Prime Video access. Sites that promise a free Panthers vs Packers stream are not licensed to show it.
 
 Amazon lists the season crew as Al Michaels (play-by-play), Kirk Herbstreit (analyst) and Kaylee Hartung (sideline). Its studio team is host Charissa Thompson with Tony Gonzalez, Ryan Fitzpatrick, Andrew Whitworth and Richard Sherman, and it features Taylor Rooks. Amazon's page lists the season crew, not the crew for this single game.
 

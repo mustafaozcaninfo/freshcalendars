@@ -421,7 +421,9 @@ check("08-ABBREV", "Abbreviations defined on first use in article prose (§08 l.
       // Postal codes, as familiar as ID.
       "ZIP",
       // Show titles styled in capitals (Hulu November 2026 list: "MAO", "LOL Live with Comedian CP").
-      "MAO", "LOL"]);
+      "MAO", "LOL",
+      // Arena names built on company names written in capitals (PPG Paints Arena, SAP Center).
+      "PPG", "SAP"]);
     const undefined_ = [];
     const seen = new Set();
     for (const m of text.matchAll(/\b([A-Z][A-Z-]{1,}[A-Z])\b/g)) {
