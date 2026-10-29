@@ -248,6 +248,13 @@ export const KEY_DATES: KeyDate[] = [
   { date: "2026-11-27", label: "Day after Thanksgiving: state offices closed in 19 states", slug: "is-the-day-after-thanksgiving-a-state-holiday-2026-states-closed-november-27" },
   { date: "2026-10-30", label: "Dexter: Resurrection Season 2 returns on Paramount+", slug: "new-on-paramount-plus-november-2026-yellowjackets-final-season" },
   { date: "2026-11-20", label: "Yellowjackets final season premieres on Paramount+", slug: "new-on-paramount-plus-november-2026-yellowjackets-final-season" },
+  { date: "2026-10-29", label: "The Game Awards 2026 public tickets on sale (10 a.m. PT)", slug: "the-game-awards-2026-tickets-october-29-date-december-10-nominations" },
+  { date: "2026-12-10", label: "The Game Awards 2026, Peacock Theater, Los Angeles", slug: "the-game-awards-2026-tickets-october-29-date-december-10-nominations" },
+  { date: "2026-11-01", label: "Pokémon GO Halloween 2026 Part II begins", slug: "pokemon-go-november-2026-events-calendar-community-day-pawniard" },
+  { date: "2026-11-14", label: "Pokémon GO Wild Area: Global (Nov. 14-15)", slug: "pokemon-go-november-2026-events-calendar-community-day-pawniard" },
+  { date: "2026-11-21", label: "Pokémon GO Community Day: Pawniard (2-5 p.m. local)", slug: "pokemon-go-november-2026-events-calendar-community-day-pawniard" },
+  { date: "2026-11-16", label: "Steam Auto-Battler RPG Fest begins", slug: "steam-winter-sale-2026-dates-december-17-steam-sale-calendar-2027" },
+  { date: "2026-12-17", label: "Steam Winter Sale 2026 begins (to Jan. 4)", slug: "steam-winter-sale-2026-dates-december-17-steam-sale-calendar-2027" },
 ];
 
 /** Today's date in Eastern Time as YYYY-MM-DD. */
