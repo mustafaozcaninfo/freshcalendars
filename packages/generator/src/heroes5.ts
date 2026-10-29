@@ -251,6 +251,7 @@ export const PUZZLE_HEROES: [string, string, string, string, string, string, str
   ["nyt-mini-crossword-answers-october-27-2026", "mini", "#0f1d2e", "#86efac", "NYT Mini · Tue., Oct. 27, 2026", "NYT Mini answers", "A hint for every clue first, the full grid at the end."],
   ["nyt-mini-crossword-answers-october-29-2026", "mini", "#1c2433", "#f9a8d4", "NYT Mini · Thu., Oct. 29, 2026", "NYT Mini answers", "A hint for every clue first, the full grid at the end."],
   ["nyt-spelling-bee-hints-answers-november-9-2026", "bee", "#1c1917", "#fde68a", "Spelling Bee · Mon., Nov. 9, 2026", "Spelling Bee hints", "Hint grid and two-letter list first, the word list at the end."],
+  ["nyt-spelling-bee-hints-answers-november-10-2026", "bee", "#1c1917", "#fbbf24", "Spelling Bee · Tue., Nov. 10, 2026", "Spelling Bee hints", "Hint grid and two-letter list first, the word list at the end."],
   ["quordle-hints-answers-october-27-2026-1737", "quordle", "#172033", "#38bdf8", "Quordle #1737 · Tue., Oct. 27, 2026", "Quordle hints today", "A clue for each of the four words, answers at the end."],
   ["quordle-hints-answers-october-28-2026-1738", "quordle", "#1b2a41", "#f472b6", "Quordle #1738 · Wed., Oct. 28, 2026", "Quordle hints today", "A clue for each of the four words, answers at the end."],
   ["waffle-answer-hints-today-october-28-2026-1741", "waffle", "#22303c", "#a78bfa", "Waffle #1741 · Wed., Oct. 28, 2026", "Waffle hints today", "A clue for each of the six words, the solved grid at the end."],
