@@ -4,6 +4,7 @@ seoTitle: "Paris Masters 2026 Schedule and Final Time by Zone"
 description: "The Rolex Paris Masters runs Oct. 31 to Nov. 8, 2026; the singles final starts at 3 p.m. Central European Time (CET), 9 a.m. Eastern Time (ET)."
 type: news
 publishedAt: "2026-10-27T11:55:00-04:00"
+updatedAt: "2026-10-29T15:50:00-04:00"
 authors: [jordan-bennett]
 category: planning
 keywords: ["paris masters 2026 schedule", "rolex paris masters 2026 final time", "paris masters 2026 dates", "paris masters order of play times"]
@@ -22,7 +23,7 @@ summary:
   - "The Rolex Paris Masters runs Saturday, Oct. 31 to Sunday, Nov. 8, 2026, its 40th anniversary edition, at the Plenitude Arena in Nanterre, the tournament says."
   - "The provisional programme has the singles final starting at 3 p.m. Paris time on Sunday, Nov. 8, which is 9 a.m. EST by our conversion."
   - "U.S. clocks fall back at 2 a.m. on Sunday, Nov. 1, so Paris is 5 hours ahead of Eastern Time on Oct. 31 and 6 hours ahead from Nov. 1."
-  - "The tournament has not published a broadcaster list, a draw time or 2026 prize money on the pages we read."
+  - "The singles draw ceremony is on Friday, Oct. 30 from 6:30 p.m. Paris time (1:30 p.m. EDT), the tournament's Oct. 29 schedule says; no broadcaster list or 2026 prize money is published yet."
 faq:
   - q: "What are the Paris Masters 2026 dates?"
     a: "Saturday, Oct. 31 to Sunday, Nov. 8, 2026, at the Plenitude Arena in Nanterre, according to the Rolex Paris Masters."
@@ -39,6 +40,10 @@ sources:
     url: "https://www.rolexparismasters.com/en/news/article/2026-rolex-paris-masters-ticketing-tickets-40th-anniversary"
     publisher: "Rolex Paris Masters"
     date: "2026-06-24"
+  - title: "Rolex Paris Masters 2026: the complete tournament schedule"
+    url: "https://www.rolexparismasters.com/en/news/article/2026-edition-complete-schedule-qualifying-main-draw-singles-doubles-wheelchair-tennis"
+    publisher: "Rolex Paris Masters"
+    date: "2026-10-29"
   - title: "Programme prévisionnel | Rolex Paris Masters"
     url: "https://tickets.rolexparismasters.com/en/programme-previsionnel"
     publisher: "Rolex Paris Masters official ticketing"
@@ -102,6 +107,8 @@ assets:
 draft: false
 ---
 
+<p class="callout"><b>Last updated Oct. 29, 2026, 3:50 p.m. ET.</b> The tournament published its full schedule on Oct. 29. The singles draw ceremony is on Friday, Oct. 30 from 6:30 p.m. Paris time, which is 5:30 p.m. Greenwich Mean Time (GMT), 1:30 p.m. Eastern Daylight Time (EDT) and 10:30 a.m. Pacific Daylight Time (PDT). The singles final stays at 3 p.m. Paris time on Sunday, Nov. 8, after the doubles final at 12:30 p.m. We will add the draw once the tournament publishes it.</p>
+
 **The Rolex Paris Masters runs Saturday, Oct. 31 to Sunday, Nov. 8, 2026, and its provisional programme puts the singles final at 3 p.m. Paris time on Sunday, which is 9 a.m. Eastern Standard Time (EST), the tournament says.** Paris time here is Central European Time (CET), Coordinated Universal Time (UTC) plus 1 hour. This is the 40th anniversary edition, held at the Plenitude Arena in Nanterre. The U.S. columns below are our conversion, and the programme is labeled provisional ("programme prévisionnel").
 
 ## What is the Paris Masters 2026 schedule?
@@ -146,7 +153,7 @@ As of the Oct. 13 entry list, the field includes Alexander Zverev, Carlos Alcara
 
 The 2026 prize money is not yet published on the official pages we could read. In 2025, the Association of Tennis Professionals (ATP) listed total prize money of €6,128,940, a singles champion's prize of €946,610 and 1,000 ranking points for the winner.
 
-The tournament has not published a broadcaster list for the United States or United Kingdom, and the draw date and time are not confirmed. Check your local listings.
+The tournament has not published a broadcaster list for the United States or United Kingdom, Check your local listings. The singles draw ceremony is on Friday, Oct. 30 from 6:30 p.m. Paris time (1:30 p.m. EDT), according to the schedule the tournament published on Oct. 29.
 
 ## Free Paris Masters 2026 daily schedule
 

@@ -12,6 +12,15 @@ export interface KeyDate {
 }
 
 export const KEY_DATES: KeyDate[] = [
+  { date: "2026-11-04", label: "Dunkin' holiday cups and Avengers: Doomsday menu arrive", slug: "dunkin-holiday-menu-2026-november-4-avengers-doomsday-menu" },
+  { date: "2026-11-07", label: "SAT test day; doors open 7:45 a.m., close 8 a.m.", slug: "sat-november-7-2026-test-day-checklist-what-to-bring-score-release-date" },
+  { date: "2026-11-20", label: "Nov. 7 SAT scores released to students", slug: "sat-november-7-2026-test-day-checklist-what-to-bring-score-release-date" },
+  { date: "2026-10-30", label: "Paris Masters singles draw ceremony, 6:30 p.m. CET (1:30 p.m. ET)", slug: "paris-masters-2026-schedule-final-time-by-time-zone" },
+  { date: "2026-10-31", label: "Chelsea v Manchester United, 12:30 p.m. GMT (8:30 a.m. ET)", slug: "premier-league-fixtures-this-weekend-october-31-november-2-2026-kickoff-times-tv" },
+  { date: "2026-11-01", label: "Liverpool v Arsenal, 4:30 p.m. GMT (11:30 a.m. ET)", slug: "premier-league-fixtures-this-weekend-october-31-november-2-2026-kickoff-times-tv" },
+  { date: "2026-11-02", label: "Newcastle United v Everton, 8 p.m. GMT (3 p.m. ET)", slug: "premier-league-fixtures-this-weekend-october-31-november-2-2026-kickoff-times-tv" },
+  { date: "2026-11-05", label: "Wimbledon Park fireworks, first show 6:45 p.m.", slug: "london-fireworks-2026-battersea-alexandra-palace-blackheath-wimbledon-times-tickets" },
+  { date: "2026-11-07", label: "Battersea Park, Blackheath and Alexandra Palace fireworks, London", slug: "london-fireworks-2026-battersea-alexandra-palace-blackheath-wimbledon-times-tickets" },
   { date: "2026-11-11", label: "National Poppy Campaign ends on Remembrance Day (runs from Oct. 24)", slug: "poppy-campaign-2026-canada-dates-october-24-november-11" },
   { date: "2026-11-12", label: "NFL Week 10 opens: Commanders at Giants, 8:15 p.m. ET, Prime Video", slug: "nfl-week-10-schedule-2026-printable-pick-em-sheet-game-times" },
   { date: "2026-11-15", label: "Patriots at Lions in Munich, 9:30 a.m. ET, FOX", slug: "nfl-week-10-schedule-2026-printable-pick-em-sheet-game-times" },
