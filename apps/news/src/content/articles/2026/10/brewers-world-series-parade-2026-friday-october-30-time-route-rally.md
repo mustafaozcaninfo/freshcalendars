@@ -4,6 +4,7 @@ seoTitle: "Brewers Parade 2026: Time, Route, Rally, Shuttles"
 description: "The Brewers' Parade of Champions is Friday, Oct. 30, 2026, at 10 a.m. Central Time (CT), 11 a.m. Eastern Time (ET). Start point, rally, shuttles and bags."
 type: news
 publishedAt: "2026-10-29T01:50:00-04:00"
+updatedAt: "2026-10-29T14:05:00-04:00"
 authors: [jordan-bennett]
 category: planning
 keywords: ["brewers parade", "brewers world series parade time", "brewers parade route", "brewers rally tickets", "brewers parade of champions"]
@@ -22,12 +23,12 @@ assets:
     layout: timeline
     rows:
       - ["Thu., 2:00 p.m.", "Amphitheater seats go on sale, limit 2 purchases per email address"]
-      - ["Fri., 7:00 a.m.", "Shuttles from American Family Field begin, $5 per passenger"]
-      - ["8:00 a.m.", "Gates open at Henry Maier Festival Park, free admission"]
-      - ["10:00 a.m.", "Parade starts at N. 4th St. and W. Wisconsin Ave. (11 a.m. ET)"]
+      - ["Fri., 7:00 a.m.", "Shuttles from American Family Field begin, $5 per passenger; parking there is free. Downtown road closures begin (reported)"]
+      - ["8:00 a.m.", "Gates open at Henry Maier Festival Park, free until capacity; first 50,000 fans get a rally towel"]
+      - ["10:00 a.m.", "Parade starts at N. 4th St. and W. Wisconsin Ave. (11 a.m. ET); east on Wisconsin, south on Jackson St. through the Third Ward (reported)"]
       - ["11:30 a.m.", "Last shuttle from American Family Field"]
       - ["3:00 p.m.", "Rally festivities end"]
-    note: "Source: Milwaukee Brewers, Parade of Champions and Championship Rally page. Road closures and the full route were not yet announced."
+    note: "Source: Milwaukee Brewers, Parade of Champions and Championship Rally page; route and 7 a.m. closures as reported by Milwaukee Magazine, Oct. 29, 2026. Forecast high 54°F (National Weather Service)."
     inkSaver: true
     description: "One-page plan for the Brewers' Oct. 30, 2026 Parade of Champions: seat sale, shuttle times, gate opening, parade start and the end of the rally. Free printable."
     alt: "Brewers Parade of Champions day plan printable with seat sale, shuttle, gate, parade start and rally end times in Central Time"
@@ -46,7 +47,7 @@ summary:
   - "The Milwaukee Brewers' Parade of Champions is Friday, Oct. 30, 2026, starting at 10 a.m. Central Time (CT), which is 11 a.m. Eastern Time (ET), at N. 4th St. and W. Wisconsin Ave."
   - "The parade ends at Henry Maier Festival Park, where the Championship Rally has free admission, gates at 8 a.m. and festivities until 3 p.m. CT."
   - "Amphitheater seats are ticketed and go on sale Thursday, Oct. 29, at 2:00 p.m. CT; shuttles from American Family Field cost $5 per passenger."
-  - "Street closures, detours and the full street-by-street route are not yet announced."
+  - "Milwaukee Magazine reports road closures begin at 7 a.m. and the route runs east on Wisconsin Avenue, then south on Jackson Street through the Third Ward to the Summerfest grounds; Milwaukee Public Schools are closed Friday, it reports."
 faq:
   - q: "What time is the Brewers parade on Friday, Oct. 30, 2026?"
     a: "The Brewers say the parade starts at 10 a.m. Central Time, which is 11 a.m. Eastern Time, at N. 4th St. and W. Wisconsin Ave. in downtown Milwaukee."
@@ -57,7 +58,13 @@ faq:
   - q: "What can you bring into Henry Maier Festival Park?"
     a: "All guests pass metal detection. Clear bags up to 12 by 12 by 6 inches are allowed, as are small non-clear clutches, wallets or fanny packs up to 6 by 9 inches. All bags are subject to search."
   - q: "How can you watch the Brewers parade online?"
-    a: "The Brewers say you can stream it all for free on brewers.com. Screens in the park show live coverage."
+    a: "The Brewers say you can stream it all for free on brewers.com. MLB.com says the parade also airs on MLB Network, MLB+, MLB.TV and Brewers.TV. Screens in the park show live coverage."
+  - q: "What is the Brewers parade route?"
+    a: "The Brewers' page gives only the start, N. 4th St. and W. Wisconsin Ave. at 10 a.m. Milwaukee Magazine reports the parade goes east on Wisconsin Avenue, north one block, south on Jackson Street through the Third Ward, then to the Summerfest grounds."
+  - q: "Is Milwaukee Public Schools closed for the Brewers parade?"
+    a: "Yes, as reported by Milwaukee Magazine and Heartland Post, which quote the district: all Milwaukee Public Schools (MPS) schools and district offices are closed Friday, Oct. 30, with no before- or after-school activities."
+  - q: "What is the weather for the Brewers parade?"
+    a: "The National Weather Service forecast for Milwaukee, updated 12:36 p.m. CDT on Oct. 29, calls for a Friday high near 54°F with a light north wind turning east in the afternoon."
   - q: "When do the Brewers play next?"
     a: "The Brewers' 2027 regular season begins Thursday, March 25, against the Los Angeles Angels at American Family Field, per the team's schedule release of July 16, 2026."
 sources:
@@ -76,6 +83,22 @@ sources:
   - title: "MLB schedule, World Series 2026 (Stats API)"
     url: "https://statsapi.mlb.com/api/v1/schedule?sportId=1&gameType=W&startDate=2026-10-23&endDate=2026-11-01"
     publisher: "Major League Baseball"
+    date: "2026-10-29"
+  - title: "Brewers World Series parade: route, road closures and what to know"
+    url: "https://www.milwaukeemag.com/brewers-world-series-parade/"
+    publisher: "Milwaukee Magazine"
+    date: "2026-10-29"
+  - title: "MPS cancels classes Friday for Brewers celebrations"
+    url: "https://heartlandpost.com/mps-cancels-classes-friday-for-brewers-celebrations/"
+    publisher: "Heartland Post"
+    date: "2026-10-29"
+  - title: "Brewers 2026 World Series championship parade"
+    url: "https://www.mlb.com/news/brewers-2026-world-series-championship-parade"
+    publisher: "MLB.com"
+    date: "2026-10-29"
+  - title: "Point forecast, Milwaukee WI"
+    url: "https://forecast.weather.gov/MapClick.php?lat=43.0389&lon=-87.9065&FcstType=text"
+    publisher: "National Weather Service Milwaukee/Sullivan"
     date: "2026-10-29"
   - title: "Brewers World Series parade date, time announced"
     url: "https://www.wbay.com/2026/10/29/brewers-world-series-parade-date-time-announced/"
@@ -109,6 +132,8 @@ downloads:
 draft: false
 ---
 
+<p class="callout"><b>Last updated Thu., Oct. 29, 2026, 2:05 p.m. ET.</b> Added the reported route and 7 a.m. road closures, the Milwaukee Public Schools closure, the rally towel giveaway, TV and stream options and Friday's forecast.</p>
+
 The Milwaukee Brewers' Parade of Champions is tomorrow, Friday, Oct. 30, 2026, starting at 10 a.m. Central Time (CT), which is 11 a.m. Eastern Time (ET), at N. 4th St. and W. Wisconsin Ave., according to the Brewers. The parade runs through downtown and ends at Henry Maier Festival Park, the Summerfest grounds, where a Championship Rally follows.
 
 The website wbay.com reported on Oct. 28 that owner Mark Attanasio announced the Friday, Oct. 30 date and 10 a.m. start. The team's own parade page, checked Oct. 29, is the source for every time below. Our one-page [Brewers Parade Day Plan](#printable) puts them in order, and the [October 2026 printable calendar](/october-calendars.html) has room to mark the day.
@@ -128,17 +153,32 @@ Times on the Brewers' page are in Central Time. Here is the full timeline with E
 
 ## What is the Brewers parade route?
 
-The Brewers say the parade starts at N. 4th St. and W. Wisconsin Ave. at 10 a.m., runs through downtown Milwaukee and ends at Henry Maier Festival Park. The full street-by-street route between the start and the park is not yet announced. Check the Brewers' parade page on the morning of the event for updates.
+The Brewers say the parade starts at N. 4th St. and W. Wisconsin Ave. at 10 a.m., runs through downtown Milwaukee and ends at Henry Maier Festival Park. The team's page promises a full route but did not list the streets when we checked Thursday afternoon.
+
+Milwaukee Magazine reported the route on Oct. 29. It names the start as Vel R. Phillips Avenue (Fourth Street) and Wisconsin Avenue, the same corner.
+
+| Leg | Reported route |
+|---|---|
+| 1 | East on Wisconsin Avenue from N. 4th St. |
+| 2 | North one block |
+| 3 | South on Jackson Street through the Third Ward |
+| 4 | On to the Summerfest grounds, Henry Maier Festival Park |
+
+The magazine also reports that road closures for the parade begin at 7 a.m. The City of Milwaukee had not posted a closure list or end times on a page we could read, so treat the 7 a.m. start as reported and check the Brewers' page Friday morning.
 
 ## Do you need tickets for the Brewers rally?
 
 Not to get in. The Brewers say admission to Henry Maier Festival Park is free and open to the public, with gates opening at 8 a.m. and festivities running until 3 p.m. CT.
+
+Entry is first come, first served until the park reaches capacity, and the first 50,000 fans get a rally towel from Associated Bank, per the Brewers. The program lists Brewers alumni, live DJs, merchandise stands and a showing of "Ueck"; the team has not named the speakers.
 
 Amphitheater seats are the ticketed part. They go on sale Thursday, Oct. 29, at 2:00 p.m. CT, with a limit of 2 purchases per email address.
 
 ## How do you get downtown on parade day?
 
 The Brewers say road closures and traffic restrictions are expected downtown and along the route, with specifics to be shared once confirmed. The exact closure list and times, and any Milwaukee County Transit System (MCTS) detours, are not yet announced.
+
+Parking at American Family Field is free for shuttle riders, the Brewers say, and downtown parking is expected to be extremely limited. The Milwaukee County Transit System alerts page listed no parade detours when we checked on Oct. 29.
 
 The team strongly encourages fans to use public transit, ride-share, carpooling, biking or walking, and expects downtown parking to fill early. Shuttles run from American Family Field for $5 per passenger. Buses start at 7 a.m., and the last one leaves at 11:30 a.m.
 
@@ -155,7 +195,13 @@ All bags are subject to search.
 
 ## How can you watch the parade if you are not there?
 
-The Brewers say you can stream it all for free on brewers.com, and screens in the park show live coverage. FOX6 Milwaukee says on its own site that it is the official broadcast partner of the parade; that is the station's claim, and the Brewers' page lists brewers.com for the stream.
+The Brewers say you can stream it all for free on brewers.com, and screens in the park show live coverage. The website of Major League Baseball (MLB) adds that the parade airs on MLB Network, MLB+, MLB.TV and Brewers.TV. FOX6 Milwaukee says on its own site that it is the official broadcast partner of the parade; that is the station's claim, and the Brewers' page lists brewers.com for the stream.
+
+## Are schools closed, and what is the weather?
+
+Milwaukee Public Schools (MPS) are closed Friday. Milwaukee Magazine quotes the district: "all MPS schools and district offices will be closed Oct. 30, due to the parade and celebration taking over the city." Heartland Post, quoting the district's email, reports no before- or after-school activities either. We could not reach the MPS website to read the notice directly.
+
+The National Weather Service forecast for Milwaukee, updated at 12:36 p.m. CDT Thursday, calls for a Friday high near 54°F, with a north wind around 5 mph turning east in the afternoon. That is jacket weather for a morning parade along the lake.
 
 ## How did the Brewers win the 2026 World Series?
 
