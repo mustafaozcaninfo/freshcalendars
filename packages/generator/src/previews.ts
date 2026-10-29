@@ -9,6 +9,13 @@ const PREVIEW_SIZES = [
   { suffix: "preview-2x", width: 1080, quality: 68 },
 ] as const;
 
+/** Studio main preview: the PNG stays for downloads, the page shows these (srcset 640w/1100w). */
+export const STUDIO_DISPLAY_SIZES = [
+  { width: 640, quality: 78 },
+  { width: 1100, quality: 78 },
+] as const;
+const STUDIO_PNG = /^(letter|a4)-(sunday|monday)\.png$/;
+
 async function writePreview(
   full: string,
   out: string,
@@ -47,6 +54,13 @@ export async function generateAssetPreviews(): Promise<number> {
         await walk(full);
         continue;
       }
+      if (STUDIO_PNG.test(ent.name)) {
+        for (const size of STUDIO_DISPLAY_SIZES) {
+          const out = full.replace(/\.png$/, `-${size.width}.webp`);
+          if (await writePreview(full, out, size.width, size.quality)) count++;
+        }
+        continue;
+      }
       if (ent.name !== "calendar.png") continue;
       for (const size of PREVIEW_SIZES) {
         const out = path.join(dir, `calendar-${size.suffix}.webp`);
@@ -70,4 +84,13 @@ export function displayPreviewUrl(pngUrl: string): string {
 
 export function displayPreview2xUrl(pngUrl: string): string {
   return toCdnPreview(pngUrl.replace(/\/calendar\.png(\?.*)?$/, "/calendar-preview-2x.webp$1"));
+}
+
+/** srcset for a studio PNG's display WebPs (same host as the PNG, which stays the download). */
+export function studioDisplaySrcset(pngUrl: string): { src: string; srcset: string } {
+  const base = pngUrl.replace(/\.png$/, "");
+  return {
+    src: `${base}-1100.webp`,
+    srcset: STUDIO_DISPLAY_SIZES.map(s => `${base}-${s.width}.webp ${s.width}w`).join(", "),
+  };
 }
