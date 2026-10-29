@@ -24,7 +24,8 @@ export function list(fonts: string, s: Spec): string {
   const two = s.cols === 2;
   // Short lists get taller rows and larger type so the sheet fills the page.
   const roomy = !two && s.rows.length <= 16;
-  const pad = two ? 5 : roomy ? Math.min(16, Math.floor(560 / s.rows.length / 2)) : 6.5;
+  // Long lists tighten their rows (about 800 px of table fits above the note) instead of running into the footer.
+  const pad = two ? 5 : roomy ? Math.min(16, Math.floor(500 / s.rows.length / 2)) : Math.max(3, Math.min(6.5, Math.floor((800 / s.rows.length - 16) * 5) / 10));
   const fs = two ? 10.4 : roomy ? 13 : 11.6;
   const half = Math.ceil(s.rows.length / 2);
   const css = `

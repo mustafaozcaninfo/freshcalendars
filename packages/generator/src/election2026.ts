@@ -41,7 +41,7 @@ function pollSheet(fonts: string): string {
   .pc{padding:30px 34px 0}
   .pc h1{font-family:Sora;font-weight:800;font-size:30px;margin:0;color:#1e3a8a;line-height:1.05}
   .pc .sub{margin:5px 0 14px;font-size:11.4px;color:#37474f}
-  .pc .g{display:grid;grid-template-columns:128px 1fr;border-top:1px solid #dbe3ee;padding:14px 0}
+  .pc .g{display:grid;grid-template-columns:128px 1fr;border-top:1px solid #dbe3ee;padding:9px 0}
   .pc .t{font-family:Sora;font-weight:800;font-size:24px;color:#b91c1c;line-height:1}
   .pc .t small{font-size:10px;color:#64748b;margin-left:4px}
   .pc .s{display:flex;flex-wrap:wrap;gap:6px}
@@ -82,12 +82,12 @@ function mailSheet(fonts: string): string {
   const half = Math.ceil(MAIL.length / 2);
   const tbl = (x: typeof MAIL) => `<table><thead><tr><th>State</th><th>Mailed ballot must be</th><th>Late arrival accepted until</th></tr></thead><tbody>${x.map(row).join("")}</tbody></table>`;
   const css = `
-  .mb{padding:26px 28px 0}
+  .mb{padding:30px 28px 0}
   .mb h1{font-family:Sora;font-weight:800;font-size:27px;margin:0;color:#0f766e;line-height:1.05}
   .mb .sub{margin:4px 0 10px;font-size:10.6px;color:#37474f}
   .mb .cols{display:grid;grid-template-columns:1fr 1fr;gap:10px}
   .mb table{width:100%;border-collapse:collapse;font-size:8.9px}
-  .mb th{background:#115e59;color:#fff;font-family:Sora;font-size:7.6px;padding:4px;text-align:left}
+  .mb th{background:#115e59;color:#fff;font-family:Sora;font-size:8px;padding:4px;text-align:left}
   .mb td{padding:4.3px 4px;border-bottom:1px solid #e3e8ee;line-height:1.2}
   .mb td.c{font-weight:700}
   .mb tr.pm td{background:#f0fdfa}
@@ -117,17 +117,17 @@ function trackerSheets(fonts: string): string {
   const sen = SENATE_2026.map(([s, t]) => row(s, t));
   const gov = GOVERNORS_2026.map((s) => row(s));
   const css = `
-  .tr{padding:24px 28px 0}
+  .tr{padding:30px 28px 0}
   .tr h1{font-family:Sora;font-weight:800;font-size:25px;margin:0;color:#1e3a8a;line-height:1.05}
   .tr .sub{margin:4px 0 10px;font-size:10.4px;color:#37474f}
   .tr .cols{display:grid;grid-template-columns:1fr 1fr;gap:12px}
   .tr table{width:100%;border-collapse:collapse;font-size:9.6px}
-  .tr th{background:#1e3a8a;color:#fff;font-family:Sora;font-size:7.8px;padding:4px;text-align:left}
+  .tr th{background:#1e3a8a;color:#fff;font-family:Sora;font-size:8px;padding:4px;text-align:left}
   .tr td{padding:0 4px;height:37px;border-bottom:1px solid #d6dde8}
   .tr td.c{font-weight:700;width:38%}
   .tr td.w{border-left:1px dashed #cbd5e1;width:34%}
   .tr td.b{border-left:1px dashed #cbd5e1}
-  .tr em{font-style:normal;font-size:7.6px;font-weight:800;color:#b91c1c;text-transform:uppercase}
+  .tr em{font-style:normal;font-size:8px;font-weight:800;color:#b91c1c;text-transform:uppercase}
   .tr .tot{display:flex;gap:10px;margin:10px 0 0}
   .tr .tot div{flex:1;border:1.5px solid #1e3a8a;border-radius:8px;padding:7px 10px;font-size:9.5px;color:#334155;height:62px}
   .tr .tot b{display:block;font-family:Sora;font-size:10px;color:#1e3a8a}`;
@@ -153,8 +153,6 @@ export type StateSheet = {
   candidates?: [string, string[]][];
   /** Heading over the candidate list when ballot order is not the order given. */
   candidatesLabel?: string;
-  /** Blank lines under "Local races and notes" (default 14 with candidates, 12 without). */
-  localLines?: number;
 };
 export function stateSheet(fonts: string, s: StateSheet): string {
   const dates = s.dates.map(([d, w]) => `<li><b>${d}</b><span>${w}</span></li>`).join("");
@@ -163,7 +161,7 @@ export function stateSheet(fonts: string, s: StateSheet): string {
     : s.offices.map((o) => `<div class="off"><h3>${o}</h3><p class="line"></p></div>`).join("");
   const measures = s.measures.map(([n, t]) => `<div class="m"><div class="mt"><b>${n}</b> ${t}</div><div class="yn"><span><i></i>Yes</span><span><i></i>No</span></div></div>`).join("");
   const css = `
-  .st{padding:24px 28px 0}
+  .st{display:flex;flex-direction:column;padding:30px 28px 42px}
   .st header{display:flex;justify-content:space-between;align-items:flex-end;border-bottom:4px solid ${s.accent};padding-bottom:7px;margin-bottom:10px}
   .st h1{font-family:Sora;font-weight:800;font-size:25px;margin:0;color:${s.accent};line-height:1.05}
   .st .sub{margin:3px 0 0;font-size:10px;color:#37474f}
@@ -184,13 +182,16 @@ export function stateSheet(fonts: string, s: StateSheet): string {
   .st .yn{display:flex;gap:9px;font-size:9.2px;font-weight:700}
   .st .yn i{width:10px;height:10px;border:1.4px solid #334155;display:inline-block;margin-right:3px;vertical-align:-1px}
   .st h2.loc{margin-top:14px}
+  /* Ruled lines fill whatever the races leave, so the sources note always sits above the footer;
+     real borders, because a repeating-gradient background prints as a 72 dpi bitmap. */
+  .st .lines{flex:1;min-height:44px;overflow:hidden}
   .st .lines p{border-bottom:1px solid #cbd5e1;height:22px;margin:0}
   .st .note{margin-top:8px;font-size:8.4px;color:#5a6b75;line-height:1.4}`;
   const page = `<section class="page st"><header><div><h1>${s.state} Ballot Checklist, Nov. 3, 2026</h1><p class="sub">Copy your choices from your official sample ballot, then take this sheet with you · nonpartisan</p></div><div class="badge">Election Day · Tue., Nov. 3</div></header>
     <div class="grid"><div><h2>Key dates</h2><ul>${dates}</ul><h2>My voting plan</h2><div class="plan"><p>How I'll vote: in person early · by mail · on Election Day</p><p>Where:</p><p>When:</p><p>ID I'll bring:</p><p>Ride / childcare:</p></div></div>
     <div><h2>${s.candidatesLabel ?? (s.candidates ? "Statewide races (candidates in ballot order)" : "Statewide races")}</h2><div class="offs">${offices}</div>
     ${s.measures.length ? `<h2>${s.measureLabel}</h2>${measures}` : ""}</div></div>
-    <h2 class="loc">Local races and notes</h2><div class="lines">${Array.from({ length: s.localLines ?? (s.candidates ? 14 : 12) }, () => "<p></p>").join("")}</div>
+    <h2 class="loc">Local races and notes</h2><div class="lines">${"<p></p>".repeat(40)}</div>
     <p class="note">${s.note}</p>
     <div class="foot">Free printable from Fresh Calendars · ${s.site}</div></section>`;
   return doc(fonts, LETTER, css, [page]);
@@ -254,7 +255,6 @@ export const STATES: StateSheet[] = [
     candidatesLabel: "Statewide and federal races",
     candidates: [["U.S. Senate", ["Jamie Davis (Dem.)", "Julia Letlow (Rep.)"]], ["U.S. House (open primary)", ["District: ____", "My choice: ______________"]]],
     measures: [["No. 1", "Disabled veteran's surviving spouse may transfer property tax exemption once"], ["No. 2", "Taxing authorities may keep a lower millage rate without losing the maximum"], ["No. 3", "No post-conviction bail for aggravated offenses against a minor"], ["No. 4", "No new term for a governor who served more than 1 1/2 terms"], ["No. 5", "Retirement systems may apply one-time money to any unfunded liability"], ["No. 6", "Local option: extra homestead exemption for owners 65 and older"], ["No. 7", "Public funds to replace lead drinking water service lines"], ["No. 8", "Bars expropriation of property by a foreign adversary"], ["No. 9", "Raises income limit for the senior special assessment level"], ["No. 10", "Tax exemptions for rehabilitated blighted property"]],
-    localLines: 22,
   },
   {
     slug: "ohio-ballot-checklist-2026", state: "Ohio", accent: "#b91c1c", site: "freshcalendars.com/news/ohio-sample-ballot-2026-governor-senate-issue-3/",
@@ -273,7 +273,6 @@ export const STATES: StateSheet[] = [
     ],
     candidatesLabel: "Statewide races (order on your ballot may differ)",
     measures: [["Issue 3", "Proposed constitutional amendment: require voters to present photo identification in order to vote"]],
-    localLines: 21,
   },
   {
     slug: "north-carolina-ballot-checklist-2026", state: "North Carolina", accent: "#0369a1", site: "freshcalendars.com/news/north-carolina-sample-ballot-2026-senate-amendments/",
@@ -290,7 +289,6 @@ export const STATES: StateSheet[] = [
     ],
     candidatesLabel: "Statewide races (order on your ballot may differ)",
     measures: [["Photo ID", "Require all voters, not just those voting in person, to present photo ID"], ["Income tax", "Keep the state income tax rate from being raised higher than 3.5%"], ["Property tax", "Require limits on property tax increases by local governments"]],
-    localLines: 14,
   },
   {
     slug: "new-jersey-ballot-checklist-2026", state: "New Jersey", accent: "#0f766e", site: "freshcalendars.com/news/new-jersey-sample-ballot-2026-senate-early-voting/",
@@ -368,7 +366,7 @@ function lookupSheet(fonts: string): string {
   const half = Math.ceil(BALLOT_LOOKUPS.length / 2);
   const tbl = (x: typeof BALLOT_LOOKUPS) => `<table><thead><tr><th>State</th><th>Official lookup</th><th>Ballot</th></tr></thead><tbody>${x.map(row).join("")}</tbody></table>`;
   const css = `
-  .lk{padding:24px 26px 0}
+  .lk{padding:28px 26px 0}
   .lk h1{font-family:Sora;font-weight:800;font-size:25px;margin:0;color:#1f3a5f;line-height:1.05}
   .lk .sub{margin:4px 0 9px;font-size:10px;color:#37474f}
   .lk .cols{display:grid;grid-template-columns:1fr 1fr;gap:10px}
@@ -377,7 +375,7 @@ function lookupSheet(fonts: string): string {
   .lk td{padding:3.4px 5px;border-bottom:1px solid #e3e8ee;line-height:1.22;vertical-align:top}
   .lk td.c{font-weight:700;width:23%}
   .lk td b{display:block;font-size:9.2px}
-  .lk td span{display:block;color:#475569;font-size:7.9px;word-break:break-all}
+  .lk td span{display:block;color:#475569;font-size:8px;word-break:break-all}
   .lk td.t{width:12%;font-weight:700;font-size:8.4px}
   .lk td.state{color:#15803d} .lk td.both{color:#1d4ed8} .lk td.county{color:#9a3412}
   .lk .note{margin-top:9px;font-size:9.4px;color:#5a6b75;line-height:1.4}`;
