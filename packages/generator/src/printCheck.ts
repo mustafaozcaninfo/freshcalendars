@@ -88,11 +88,13 @@ const MEASURE = String.raw`({ SAFE, EDGE, MIN_PX, MIN_C, GOOD_C, fontsRe }) => {
         }
         const px = parseFloat(cs.fontSize);
         if (px < MIN_PX && !small.has(px)) small.set(px, say(text));
-        const bg = backdrop(el), fg = rgba(cs.color);
+        // Outlined letters (coloring sheets) print their stroke, not their fill.
+        const stroked = parseFloat(cs.webkitTextStrokeWidth) >= 1;
+        const bg = backdrop(el), fg = rgba(stroked ? cs.webkitTextStrokeColor : cs.color);
         if (bg && (fg.length < 4 || fg[3] >= 1)) {
           const [hi, lo] = [lum(fg), lum(bg)].sort((x, y) => y - x);
           const ratio = (hi + 0.05) / (lo + 0.05), large = px >= 24 || (px >= 18.66 && Number(cs.fontWeight) >= 700);
-          const key = cs.color + " on rgb(" + bg.map(Math.round).join(", ") + ")";
+          const key = (stroked ? cs.webkitTextStrokeColor : cs.color) + " on rgb(" + bg.map(Math.round).join(", ") + ")";
           if (ratio < (large ? MIN_C : GOOD_C) - 0.005 && !pale.has(key)) pale.set(key, { ratio, text: say(text), large });
         }
         // Glyphs outside the embedded fonts fall back to a system font that differs per machine.

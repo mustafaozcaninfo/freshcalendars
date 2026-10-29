@@ -11,7 +11,7 @@ import { renderPrintables, type Printable } from "./printables.js";
 
 type Theme = { id: string; ink: string; accent: string; soft: string; line: string };
 const BF_THEMES: Theme[] = [
-  { id: "bold", ink: "#111827", accent: "#ca8a04", soft: "#fef9c3", line: "#e5e7eb" },
+  { id: "bold", ink: "#111827", accent: "#a16207", soft: "#fef9c3", line: "#e5e7eb" },
   { id: "autumn", ink: "#431407", accent: "#c2410c", soft: "#ffedd5", line: "#fed7aa" },
   { id: "ink", ink: "#111111", accent: "#444444", soft: "#f3f3f3", line: "#d4d4d4" },
 ];
@@ -32,6 +32,9 @@ export const XMAS_EVE: [string, string, "2026" | "2025"][] = [
   ["Home Depot", "5 p.m.", "2026"], ["Walmart", "6 p.m.", "2025"], ["Sam's Club", "6 p.m.", "2025"], ["Costco", "5 p.m.", "2025"],
   ["H-E-B", "8 p.m.", "2025"], ["Trader Joe's", "5 p.m.", "2025"], ["Target", "Varies by store", "2025"], ["Whole Foods", "Varies by store", "2025"],
 ];
+
+/** Check mark drawn as SVG in the text color: ✓ is not in Sora or Manrope and printed in a system font. */
+const CHECK = `<svg width="0.95em" height="0.8em" viewBox="0 0 12 10" aria-hidden="true" style="vertical-align:-0.05em"><path d="M1 5.2 4.3 8.5 11 1.5" fill="none" stroke="currentColor" stroke-width="1.8"/></svg>`;
 
 function css(t: Theme, cls: string): string {
   return `
@@ -62,7 +65,7 @@ function css(t: Theme, cls: string): string {
 
 function blackFriday(fonts: string, t: Theme): string {
   const c = `bf-${t.id}`;
-  const hours = BF_HOURS.map(([s, h, y]) => `<tr><td class="s">${s}</td><td>${h}</td><td class="y">${y === "2026" ? "2026 ✓" : "2025"}</td></tr>`).join("");
+  const hours = BF_HOURS.map(([s, h, y]) => `<tr><td class="s">${s}</td><td>${h}</td><td class="y">${y === "2026" ? `2026 ${CHECK}` : "2025"}</td></tr>`).join("");
   const list = Array.from({ length: 15 }, () => `<tr><td></td><td></td><td></td><td></td></tr>`).join("");
   const page = `<section class="page ${c}"><header><div><h1>Black Friday 2026 Shopping Planner</h1><p class="sub">Friday, Nov. 27, 2026 · store opening times, your list, your budget · most big chains close on Thanksgiving</p></div><div class="badge">Black Friday<br>Nov. 27</div></header>
     <div class="strip"><div><b>Thu., Nov. 26</b><span>Thanksgiving: most big stores closed</span></div><div><b>Fri., Nov. 27</b><span>Black Friday; stock market closes 1 p.m. ET</span></div><div><b>Sat., Nov. 28</b><span>Small Business Saturday</span></div><div><b>Mon., Nov. 30</b><span>Cyber Monday</span></div><div><b>Tue., Dec. 1</b><span>Giving Tuesday</span></div></div>
@@ -78,7 +81,7 @@ function blackFriday(fonts: string, t: Theme): string {
 
 function christmasEve(fonts: string, t: Theme): string {
   const c = `xm-${t.id}`;
-  const rows = XMAS_EVE.map(([s, h, y]) => `<tr><td class="s">${s}</td><td>${h}</td><td class="y">${y === "2026" ? "2026 ✓" : "2025"}</td></tr>`).join("");
+  const rows = XMAS_EVE.map(([s, h, y]) => `<tr><td class="s">${s}</td><td>${h}</td><td class="y">${y === "2026" ? `2026 ${CHECK}` : "2025"}</td></tr>`).join("");
   const page = `<section class="page ${c}"><header><div><h1>Christmas Eve 2026 Last-Minute Checklist</h1><p class="sub">Thursday, Dec. 24 and Friday, Dec. 25, 2026 · closing times, what's open on Christmas Day, and your errands</p></div><div class="badge">Christmas Eve<br>Thu., Dec. 24</div></header>
     <div class="strip"><div><b>Thu., Dec. 17</b><span>USPS Ground Advantage and First-Class deadline</span></div><div><b>Sat., Dec. 19</b><span>USPS Priority Mail Express deadline</span></div><div><b>Thu., Dec. 24</b><span>Stores close early; stocks close 1 p.m. ET</span></div><div><b>Fri., Dec. 25</b><span>Christmas Day: most stores, banks and mail closed</span></div><div><b>Sat., Dec. 26</b><span>Stores reopen; returns start</span></div></div>
     <div class="cols"><div><h2>Christmas Eve closing times</h2><table><thead><tr><th>Store</th><th>Closes Dec. 24</th><th>Hours from</th></tr></thead><tbody>${rows}</tbody></table>

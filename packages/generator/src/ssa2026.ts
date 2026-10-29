@@ -51,7 +51,7 @@ function sheet(fonts: string): string {
   .ss .c.e{border:0;background:none}
   .ss .c b{font-family:Sora;font-size:10.5px;color:#0f172a}
   .ss .c.pay{border-color:var(--k);background:#f8fafc}
-  .ss .c i{font-style:normal;font-size:7.2px;font-weight:800;color:#fff;border-radius:3px;padding:1px 3px;line-height:1.25}
+  .ss .c i{font-style:normal;font-size:8px;font-weight:800;color:#fff;border-radius:3px;padding:1px 3px;line-height:1.25}
   .ss .note{margin-top:6px;font-size:8.8px;color:#5a6b75;line-height:1.45}`;
   const key = (["W1", "W2", "W3", "E", "S"] as Kind[]).map((k) => `<span style="--k:${COLOR[k]}">${k === "S" ? "Supplemental Security Income (SSI)" : k === "E" ? "Benefits before May 1997, or Social Security plus SSI" : `Birthday ${LABEL[k].replace("Born ", "")}`}</span>`).join("");
   const page = `<section class="page ss"><h1>Social Security Payment Calendar, Oct.-Dec. 2026</h1>

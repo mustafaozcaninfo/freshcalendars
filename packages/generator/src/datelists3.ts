@@ -121,7 +121,7 @@ function moonSheet(fonts: string): string {
   const half = Math.ceil(rise.length / 2);
   const tbl = (x: string[]) => `<table><thead><tr><th>City</th><th>Moonrise Sun. 10/25</th><th>Moonrise Mon. 10/26</th><th>Sunset 10/25</th></tr></thead><tbody>${x.join("")}</tbody></table>`;
   const css = `
-  .mn{padding:26px 32px 0;background:linear-gradient(#0b1530,#13234a 64.5%,#fff 64.5%)}
+  .mn{padding:28px 32px 0;background:linear-gradient(#0b1530,#13234a 64.5%,#fff 64.5%)}
   .mn h1{font-family:Sora;font-weight:800;font-size:30px;margin:0;color:#fde68a;line-height:1.05}
   .mn .sub{margin:5px 0 12px;font-size:11px;color:#cbd5e1}
   .mn .times{display:grid;grid-template-columns:repeat(5,1fr);gap:6px;margin:0 0 12px}
@@ -138,7 +138,7 @@ function moonSheet(fonts: string): string {
   .mn h2{font-family:Sora;font-size:13px;margin:18px 0 4px;color:#0f2a4a}
   .mn .cols{display:grid;grid-template-columns:1fr 1fr;gap:10px}
   .mn table{width:100%;border-collapse:collapse;font-size:9.4px;font-variant-numeric:tabular-nums}
-  .mn th{background:#13234a;color:#fff;font-family:Sora;font-size:7.8px;padding:4px;text-align:left}
+  .mn th{background:#13234a;color:#fff;font-family:Sora;font-size:8px;padding:4px;text-align:left}
   .mn td{padding:3.1px 4px;border-bottom:1px solid #e3e8ee}
   .mn td.c{font-weight:700}
   .mn .note{margin-top:6px;font-size:8.6px;color:#5a6b75;line-height:1.4}`;
@@ -217,11 +217,11 @@ export const winterRange = (a: string, b: string) => `${ap(a)}-${ap(b)}`;
 function winterSheet(fonts: string): string {
   const rows = WINTER_2026.map(([d, st, a, b, x, ret, tg]) => `<tr><td class="c">${d}<small>${st}</small></td><td class="hi">${winterRange(a, b)}</td><td>${x || "-"}</td><td>${ret ? `${dow(ret)}, ${ap(ret)}` : "See district"}</td><td>${rng2(tg)}</td></tr>`).join("");
   const css = `
-  .wb{padding:26px 32px 0}
+  .wb{padding:28px 32px 0}
   .wb header{display:flex;justify-content:space-between;align-items:flex-end;border-bottom:4px solid #1d4ed8;padding-bottom:8px;margin-bottom:10px}
   .wb h1{font-family:Sora;font-weight:800;font-size:30px;margin:0;color:#1d4ed8;line-height:1.05}
   .wb .sub{margin:4px 0 0;font-size:11px;color:#37474f}
-  .wb .flake{font-family:Sora;font-size:44px;color:#93c5fd;line-height:1}
+  .wb .flake svg{display:block}
   .wb table{width:100%;border-collapse:collapse;font-size:11px;font-variant-numeric:tabular-nums}
   .wb th{background:#1e3a8a;color:#fff;font-family:Sora;font-size:8.6px;padding:6px 5px;text-align:left}
   .wb td{padding:10.4px 5px;border-bottom:1px solid #e3e8ee}
@@ -231,7 +231,7 @@ function winterSheet(fonts: string): string {
   .wb td.hi{font-weight:800;color:#1e3a8a}
   .wb .note{margin-top:9px;font-size:8.8px;color:#5a6b75;line-height:1.45}`;
   const page = `<section class="page wb"><header><div><h1>Winter Break 2026 by School District</h1>
-    <p class="sub">First and last weekday off for students, extra no-school days next to the break, the day students return, and Thanksgiving break</p></div><div class="flake">❄</div></header>
+    <p class="sub">First and last weekday off for students, extra no-school days next to the break, the day students return, and Thanksgiving break</p></div><div class="flake"><svg width="44" height="44" viewBox="0 0 44 44" aria-hidden="true" fill="none" stroke="#93c5fd" stroke-width="3" stroke-linecap="round"><g transform="rotate(0 22 22)"><path d="M22 22V3M22 9l-5-4M22 9l5-4"/></g><g transform="rotate(60 22 22)"><path d="M22 22V3M22 9l-5-4M22 9l5-4"/></g><g transform="rotate(120 22 22)"><path d="M22 22V3M22 9l-5-4M22 9l5-4"/></g><g transform="rotate(180 22 22)"><path d="M22 22V3M22 9l-5-4M22 9l5-4"/></g><g transform="rotate(240 22 22)"><path d="M22 22V3M22 9l-5-4M22 9l5-4"/></g><g transform="rotate(300 22 22)"><path d="M22 22V3M22 9l-5-4M22 9l5-4"/></g></svg></div></header>
     <table><thead><tr><th>District</th><th>Winter break (students)</th><th>Extra no-school day</th><th>Students return</th><th>Thanksgiving break</th></tr></thead><tbody>${rows}</tbody></table>
     <p class="note">Dates are weekdays off for students and come from each district's official 2026-27 calendar, read Oct. 19-20, 2026. Wake County is the traditional calendar; year-round and modified tracks differ. Gwinnett's student calendar includes Jan. 4 in winter break. Broward's announcement does not list a return date. Calendars can change after weather closures; check your school's site.</p>
     <div class="foot">Free printable from Fresh Calendars · freshcalendars.com/news/winter-break-2026-school-districts-dates/</div></section>`;
