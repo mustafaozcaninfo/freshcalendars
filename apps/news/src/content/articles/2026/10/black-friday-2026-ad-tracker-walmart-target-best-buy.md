@@ -4,7 +4,7 @@ seoTitle: "Black Friday 2026 Deals: Nov. 27 Date and Countdown"
 description: "Black Friday 2026 is Friday, Nov. 27. Walmart's Black Friday Deals run Nov. 23 to 29 and Target's early deals Nov. 5 to 7. Live countdown and ad tracker."
 type: news
 publishedAt: "2026-10-23T15:05:00-04:00"
-updatedAt: "2026-10-28T21:45:00-04:00"
+updatedAt: "2026-10-29T10:15:00-04:00"
 authors: [jordan-bennett]
 category: retail-dates
 keywords: ["black friday 2026 deals", "how many days until black friday 2026", "what date is black friday 2026", "Walmart Black Friday ad 2026", "Target Black Friday 2026"]
@@ -22,13 +22,15 @@ assets:
     rows:
       - ["Sun., Nov. 1", "Target Deal of the Day begins (daily through Dec. 24)"]
       - ["Thu., Nov. 5 to Sat., Nov. 7", "Target Early Black Friday deals"]
+      - ["Fri., Nov. 6", "Best Buy Early Black Friday Deals; new deals every Friday"]
       - ["Thu., Nov. 12 to Sun., Nov. 15", "Walmart Early Black Friday Deals"]
+      - ["Thu., Nov. 19", "Best Buy starts 10 days of Black Friday deals"]
       - ["Mon., Nov. 23 to Sun., Nov. 29", "Walmart Black Friday Deals"]
       - ["Thu., Nov. 26", "Thanksgiving; Walmart stores closed"]
       - ["Fri., Nov. 27", "Black Friday"]
       - ["Sat., Nov. 28", "Small Business Saturday"]
       - ["Mon., Nov. 30", "Cyber Monday; Walmart Cyber Monday deals through Dec. 2"]
-    note: "Source: Target and Walmart newsrooms, October 2026. Black Friday weekend dates computed from Thanksgiving, Thu., Nov. 26, 2026. Unannounced events not shown."
+    note: "Source: Target, Walmart and Best Buy newsrooms, October 2026. Black Friday weekend dates computed from Thanksgiving, Thu., Nov. 26, 2026. Unannounced events not shown."
     inkSaver: true
     description: "One-page Black Friday 2026 deals calendar: Target early deals Nov. 5-7, Walmart events Nov. 12-15 and Nov. 23-29, Black Friday Nov. 27 and Cyber Monday Nov. 30."
     alt: "Printable November 2026 calendar marking Target and Walmart Black Friday deal dates, Black Friday and Cyber Monday"
@@ -120,9 +122,9 @@ downloads:
 draft: false
 ---
 
-<p class="callout"><b>Last updated Wed., Oct. 28, 2026, 9:45 p.m. ET.</b> Best Buy published its holiday calendar on Oct. 27: DoorBOOsters start Friday, Oct. 30, Early Black Friday Deals Nov. 6, 10 days of Black Friday deals from Nov. 19, and Cyber Week Dec. 1 to 6. Walmart set its events on Oct. 26. Amazon and most other chains have not set dates. We update this tracker as official ads land.</p>
+<p class="callout"><b>Last updated Thu., Oct. 29, 2026, 10:15 a.m. ET.</b> Best Buy dates added to the printable deals calendar. Best Buy published its holiday calendar on Oct. 27: DoorBOOsters start Friday, Oct. 30, Early Black Friday Deals Nov. 6, 10 days of Black Friday deals from Nov. 19, and Cyber Week Dec. 1 to 6. Walmart set its events on Oct. 26. Amazon and most other chains have not set dates. We update this tracker as official ads land.</p>
 
-**Black Friday 2026 is Friday, Nov. 27, and Walmart has now set its deal dates: Black Friday Deals run Monday, Nov. 23, to Sunday, Nov. 29, after an Early Black Friday event Nov. 12 to 15, the company said on Oct. 26.** Target will run a Deal of the Day every day from Nov. 1 to Dec. 24 and Early Black Friday deals from Nov. 5 to 7, according to its Oct. 21 press release. Best Buy has described its holiday plans but has not set Black Friday event dates, and no chain has released official Black Friday 2026 television or electronics prices. Below is a live countdown, a deals calendar, a status table for each retailer, what Walmart has and has not said, how to judge a deal, and a shopping-safety checklist from the Federal Trade Commission (FTC).
+**Black Friday 2026 is Friday, Nov. 27, and Walmart has now set its deal dates: Black Friday Deals run Monday, Nov. 23, to Sunday, Nov. 29, after an Early Black Friday event Nov. 12 to 15, the company said on Oct. 26.** Target will run a Deal of the Day every day from Nov. 1 to Dec. 24 and Early Black Friday deals from Nov. 5 to 7, according to its Oct. 21 press release. Best Buy set its calendar on Oct. 27: DoorBOOsters from Friday, Oct. 30, Early Black Friday Deals from Nov. 6 and 10 days of Black Friday deals from Nov. 19. Amazon has not announced Black Friday week dates, and no chain has released official Black Friday 2026 television or electronics prices. Below is a live countdown, a deals calendar, a status table for each retailer, what Walmart has and has not said, how to judge a deal, and a shopping-safety checklist from the Federal Trade Commission (FTC).
 
 ## Countdown to Black Friday 2026
 
