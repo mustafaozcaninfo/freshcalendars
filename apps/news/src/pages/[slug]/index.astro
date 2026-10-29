@@ -14,6 +14,7 @@ import KeyPoints from "../../components/KeyPoints.astro";
 import RelatedGrid from "../../components/RelatedGrid.astro";
 import Sources from "../../components/Sources.astro";
 import Toc from "../../components/Toc.astro";
+import SectionBar from "../../components/SectionBar.astro";
 import ArticleAside from "../../components/ArticleAside.astro";
 import ShareBar from "../../components/ShareBar.astro";
 import PreferredSource from "../../components/PreferredSource.astro";
@@ -132,6 +133,7 @@ const keyDates = upcomingFor(new Set([article.id]));
   section={category.id}
 >
   <div class="progress" aria-hidden="true"><span></span></div>
+  <SectionBar headings={headings} />
   <NewsBar section={category.id} />
   <AdSlot unit={7} variant="banner" />
   <div class="article-layout">
@@ -192,14 +194,43 @@ const keyDates = upcomingFor(new Set([article.id]));
   </div>
   <script is:inline>
     (() => {
-      // Reading progress (transform only, no layout work) and the current section in the sidebar.
+      // Reading progress (transform only, no layout work), the current section in the sidebar and
+      // the section bar. The bar shows once the first section heading passes under the header and
+      // hides after the story body; the current section is the last heading above 30% of the screen.
       const bar = document.querySelector(".progress span"), body = document.querySelector(".prose-news");
-      const tick = () => { const r = body.getBoundingClientRect(), h = r.height - innerHeight; bar.style.transform = "scaleX(" + Math.min(1, Math.max(0, h > 0 ? -r.top / h : 1)) + ")"; };
-      addEventListener("scroll", () => requestAnimationFrame(tick), { passive: true }); tick();
-      const links = new Map([...document.querySelectorAll("[data-toc]")].map((a) => [a.dataset.toc, a]));
-      if (links.size && "IntersectionObserver" in window) {
-        const io = new IntersectionObserver((es) => { for (const e of es) if (e.isIntersecting) { links.forEach((a) => a.classList.remove("on")); links.get(e.target.id)?.classList.add("on"); } }, { rootMargin: "0px 0px -70% 0px" });
-        links.forEach((_, id) => { const h = document.getElementById(id); if (h) io.observe(h); });
+      const sb = document.querySelector("[data-secbar]"), head = document.querySelector(".site-header-bar");
+      const heads = [...document.querySelectorAll("[data-toc]")].map((a) => document.getElementById(a.dataset.toc)).filter(Boolean);
+      const marks = (sel, key) => new Map([...document.querySelectorAll(sel)].map((a) => [a.dataset[key], a]));
+      const side = marks("[data-toc]", "toc"), list = marks("[data-sec]", "sec");
+      const sbBtn = sb?.querySelector(".secbar-btn"), sbList = sb?.querySelector(".secbar-list");
+      let cur = -1;
+      const close = () => { if (sbList && !sbList.hidden) { sbList.hidden = true; sbBtn.setAttribute("aria-expanded", "false"); } };
+      const tick = () => {
+        const r = body.getBoundingClientRect(), h = r.height - innerHeight;
+        bar.style.transform = "scaleX(" + Math.min(1, Math.max(0, h > 0 ? -r.top / h : 1)) + ")";
+        if (!heads.length) return;
+        const top = head ? head.getBoundingClientRect().bottom : 0;
+        let i = -1;
+        for (let k = 0; k < heads.length && heads[k].getBoundingClientRect().top < innerHeight * 0.3; k++) i = k;
+        if (i !== cur) {
+          cur = i;
+          for (const m of [side, list]) m.forEach((a) => a.classList.remove("on"));
+          const id = heads[Math.max(i, 0)].id;
+          side.get(id)?.classList.add("on"); list.get(id)?.classList.add("on");
+          if (sb) { sb.querySelector("[data-secbar-n]").textContent = Math.max(i, 0) + 1 + "/" + heads.length; sb.querySelector("[data-secbar-t]").textContent = side.get(id)?.textContent ?? ""; }
+        }
+        if (sb) {
+          sb.style.setProperty("--secbar-top", Math.max(0, top) + "px");
+          const show = heads[0].getBoundingClientRect().top < top + 8 && r.bottom > top + 120;
+          if (show !== sb.classList.contains("show")) { sb.classList.toggle("show", show); if (!show) close(); }
+        }
+      };
+      addEventListener("scroll", () => requestAnimationFrame(tick), { passive: true }); addEventListener("resize", tick); tick();
+      if (sb) {
+        sbBtn.addEventListener("click", () => { const open = sbList.hidden; sbList.hidden = !open; sbBtn.setAttribute("aria-expanded", String(open)); });
+        sbList.addEventListener("click", (e) => { if (e.target.closest("a")) close(); });
+        document.addEventListener("click", (e) => { if (!sb.contains(e.target)) close(); });
+        document.addEventListener("keydown", (e) => { if (e.key === "Escape" && !sbList.hidden) { close(); sbBtn.focus(); } });
       }
       for (const b of document.querySelectorAll(".share .copy")) b.addEventListener("click", async () => {
         const lbl = b.querySelector(".lbl"), use = b.querySelector("use");
@@ -504,7 +535,7 @@ const keyDates = upcomingFor(new Set([article.id]));
   .jump{margin:-.5rem 0 1.25rem;font-weight:700}
   .jump a{display:inline-flex;align-items:center;min-height:44px}
   .prose-news{font-family:"Source Sans 3","Source Sans 3 Fallback",ui-sans-serif,system-ui,sans-serif;font-size:1.0625rem;line-height:1.7;color:var(--ink-strong)}
-  .prose-news :global(h2){font-family:Sora,"Sora Fallback",sans-serif;font-size:1.35rem;line-height:1.3;margin:2rem 0 .75rem;color:var(--ink-strong);scroll-margin-top:5rem}
+  .prose-news :global(h2){font-family:Sora,"Sora Fallback",sans-serif;font-size:1.35rem;line-height:1.3;margin:2rem 0 .75rem;color:var(--ink-strong);scroll-margin-top:10rem}
   .prose-news :global(h3){font-family:Sora,"Sora Fallback",sans-serif;font-size:1.1rem;line-height:1.3;margin:1.5rem 0 .5rem;color:var(--ink-strong)}
   .prose-news :global(ul){padding-left:1.25rem;margin:0 0 1.1rem}
   .prose-news :global(li){margin:.35rem 0}

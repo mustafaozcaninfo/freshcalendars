@@ -4,7 +4,7 @@ seoTitle: "MLB Offseason 2026 Key Dates: Free Agency, Awards, CBA"
 description: "Major League Baseball (MLB) free agency opens Thursday, Oct. 29, 2026, the day after the Brewers won the World Series; awards run Nov. 1 to 17, per MLB.com."
 type: explainer
 publishedAt: "2026-10-27T10:08:00-04:00"
-updatedAt: "2026-10-28T23:12:00-04:00"
+updatedAt: "2026-10-29T03:55:00-04:00"
 authors: [jordan-bennett]
 category: planning
 keywords: ["MLB offseason key dates 2026", "when does MLB free agency start 2026", "MLB awards 2026 dates", "MLB CBA expiration December 1 2026"]
@@ -87,7 +87,7 @@ assets:
   overlay: true
   kicker: "MLB offseason · Key dates 2026-27"
   date: "2026-11-12"
-  card: { top: "Free agency opens", big: "Oct. 28 to Nov. 1", bottom: "The day after the World Series ends" }
+  card: { top: "Free agency opens", big: "Thu., Oct. 29", bottom: "The day after the World Series ended" }
   printable:
     slug: mlb-offseason-key-dates-2026-27
     group: mlb-offseason-2026
@@ -96,9 +96,9 @@ assets:
     columns: ["Date", "Event and details"]
     layout: list
     rows:
-      - ["Wed., Oct. 28 to Sun., Nov. 1, 2026", "Free agency opens the day after the final World Series game"]
+      - ["Thu., Oct. 29, 2026", "Free agency opens, the day after the Brewers won the World Series on Oct. 28"]
       - ["Sun., Nov. 1, 2026", "Gold Glove Awards, 8:30 p.m. ET on ESPN"]
-      - ["Sun., Nov. 1 to Thu., Nov. 5, 2026", "Free agents can sign at 5 p.m. ET on the fifth day after the Series ends"]
+      - ["Mon., Nov. 2, 2026", "Free agents can sign with new clubs from 5 p.m. ET (fifth day after the Series, our count)"]
       - ["Fri., Nov. 6, 2026", "Platinum Glove Awards and Heart & Hustle Awards"]
       - ["Mon., Nov. 9, 2026", "BBWAA Rookie of the Year; GM Meetings Nov. 9-12 in Las Vegas (reported)"]
       - ["Tue., Nov. 10, 2026", "BBWAA Manager of the Year"]
@@ -117,7 +117,7 @@ assets:
 draft: false
 ---
 
-<p class="callout"><b>Last updated Oct. 28, 2026, 11:12 p.m. ET.</b> The Brewers won the World Series in Game 5 tonight, so the Game 5 row of the free agency table now applies: free agents from Thursday, Oct. 29, signings with new clubs from Monday, Nov. 2, 5 p.m. ET by our count. MLB has not yet announced the 2026 qualifying offer.</p>
+<p class="callout"><b>Last updated Oct. 29, 2026, 3:55 a.m. ET.</b> The Brewers won the World Series in Game 5 on Wednesday night, so the dates below now use that finish, and the printable lists them: free agents from Thursday, Oct. 29, signings with new clubs from Monday, Nov. 2, 5 p.m. ET by our count. MLB has not yet announced the 2026 qualifying offer.</p>
 
 **Major League Baseball (MLB) free agency opens Thursday, Oct. 29, 2026, the day after the World Series ended, according to MLB.com's offseason rules guide.** MLB.com's awards guide (Oct. 26, 2026) then lists the Gold Glove Awards on Sunday, Nov. 1 through the Silver Slugger Awards on Tuesday, Nov. 17. The World Series ended on Wednesday, Oct. 28, when Milwaukee beat Tampa Bay 4-1 in Game 5, so free agency opens Thursday, Oct. 29, with signings with new clubs allowed from 5 p.m. Eastern Time (ET) on Monday, Nov. 2 by our count. The details are in our [2026 World Series schedule](/news/world-series-2026-schedule-game-times-tv-channel/).
 
@@ -161,8 +161,8 @@ Each row is labeled official (MLB or MLB.com), reported (a news outlet, not MLB)
 | Date | Event | Label |
 |---|---|---|
 | Tue., Oct. 27, 2026 | World Series Game 4, 8 p.m. ET | Official (MLB schedule) |
-| Wed., Oct. 28 to Sat., Oct. 31 | Games 5, 6 and 7 if needed (Oct. 28, 30 and 31) | Official (MLB schedule) |
-| Day after the final game | Players become free agents (Oct. 28 to Nov. 1) | Official rule |
+| Wed., Oct. 28 | Game 5: Brewers win the World Series 4-1; Games 6 and 7 not needed | Official (MLB game data) |
+| Thu., Oct. 29 | Players become free agents, the day after the final game | Official rule |
 | Five days after the final game | Qualifying offer deadline and first day to sign, 5 p.m. ET (Nov. 1 to Nov. 5) | Official rule; 2026 dates not yet announced |
 | Sun., Nov. 1 | Gold Glove Awards, 8:30 p.m. ET, ESPN | Official |
 | Fri., Nov. 6 | Platinum Glove and Heart & Hustle Awards | Official |

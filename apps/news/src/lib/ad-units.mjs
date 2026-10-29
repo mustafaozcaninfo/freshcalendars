@@ -10,9 +10,7 @@ export const NEWS_AD_UNITS = {
   4: "1404177977", // Fresh_News_4: after FAQ and sources
   5: "7542210911", // Fresh_News_5: end of page, above the footer
   6: "8981385284", // Fresh_News_Top: top of every page, under the breadcrumb
-  // Fresh_News_Banner: fixed 320x100 / 728x90 banner above the story headline. Shares the Top
-  // unit's ID until a unit of its own is created in AdSense (then only this line changes).
-  7: "8981385284",
+  7: "2999236762", // Fresh_News_Banner: fixed 320x100 / 728x90 banner above the story headline
 };
 export const ADS_ENABLED = process.env.NEWS_ADS !== "0";
 
