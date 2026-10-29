@@ -122,9 +122,9 @@ assets:
 |---|---|
 | Real GDP, third quarter 2026, annual rate | +3.4% (second quarter: +2.2%) |
 | Current-dollar GDP, third quarter, annual rate | +5.6% |
-| PCE price index, third quarter, annual rate | +2.1% (excluding food and energy: +2.5%) |
+| Personal consumption expenditures (PCE) price index, third quarter, annual rate | +2.1% (excluding food and energy: +2.5%) |
 | Personal income, September | +$54.5 billion (+0.2%) |
-| Personal consumption expenditures (PCE), September | +$113.1 billion (+0.5%) |
+| Consumer spending (PCE), September | +$113.1 billion (+0.5%) |
 | PCE price index, September, from August | +0.5% (excluding food and energy: +0.3%) |
 | PCE price index, September, from a year earlier | +3.6% (excluding food and energy: +3.1%) |
 
