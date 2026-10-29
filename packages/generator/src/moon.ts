@@ -211,7 +211,7 @@ function phaseTable(phases: Phase[], fonts: string): string {
   .m4 td{padding:9.5px 6px;border-bottom:1px solid #e1e5ef}
   .m4 td small{display:inline-block;margin-left:8px;color:#5a6b75}
   .m4 td:nth-child(3){background:#fff7e0;font-weight:700}
-  .m4 td.x{color:#c3cad8}
+  .m4 td.x{color:#7d8dab}
   .m4 h2{font-family:Sora;font-weight:700;font-size:14px;color:#1b2547;margin:16px 0 6px}
   .m4 .two{display:grid;grid-template-columns:1fr 1fr;gap:18px}
   .m4 .two li{font-size:11.5px;margin:0 0 6px}.m4 .two ul{padding-left:16px;margin:0}

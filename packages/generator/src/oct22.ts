@@ -82,7 +82,7 @@ function timelineSheet(fonts: string): string {
 }
 
 function moleSheet(fonts: string): string {
-  const probs = ["How many water molecules (H₂O) are in 18.015 grams of water?", "How many moles are in 44.009 grams of carbon dioxide (CO₂)?", "How many atoms are in 2 moles of helium?", "What is the mass of 0.5 mole of sodium chloride (NaCl)?"];
+  const probs = ["How many water molecules (H<sub>2</sub>O) are in 18.015 grams of water?", "How many moles are in 44.009 grams of carbon dioxide (CO<sub>2</sub>)?", "How many atoms are in 2 moles of helium?", "What is the mass of 0.5 mole of sodium chloride (NaCl)?"];
   const css = `
   .md{padding:30px 40px 0}
   .md h1{font-family:Sora;font-weight:800;font-size:28px;margin:0;color:#14532d;line-height:1.05}
@@ -98,10 +98,10 @@ function moleSheet(fonts: string): string {
   .md .note{margin-top:8px;font-size:8.8px;color:#5a6b75;line-height:1.45}`;
   const page = `<section class="page md"><h1>Mole Day 2026 Practice Sheet</h1>
     <p class="sub">Friday, Oct. 23, 2026 · celebrate from 6:02 a.m. to 6:02 p.m.</p>
-    <div class="box"><div><b>N<sub>A</sub> = 6.022 140 76 × 10²³ mol⁻¹</b>The Avogadro constant, exact since the 2019 revision of the International System of Units (SI).</div><div><b>1 mole</b>contains exactly 6.022 140 76 × 10²³ entities: atoms, molecules, ions or electrons.</div></div>
+    <div class="box"><div><b>N<sub>A</sub> = 6.022 140 76 × 10<sup>23</sup> mol<sup>−1</sup></b>The Avogadro constant, exact since the 2019 revision of the International System of Units (SI).</div><div><b>1 mole</b>contains exactly 6.022 140 76 × 10<sup>23</sup> entities: atoms, molecules, ions or electrons.</div></div>
     <p class="aw"><b>Atomic weights (IUPAC):</b> H 1.008 · He 4.0026 · C 12.011 · O 15.999 · Na 22.990 · Cl 35.45</p>
     ${probs.map((q, i) => `<div class="p"><h3>${i + 1}. ${q}</h3></div>`).join("")}
-    <div class="key"><b>Answer key (fold under):</b> 1. 1 mole = 6.022 × 10²³ molecules (molar mass of water 2 × 1.008 + 15.999 = 18.015 g/mol). 2. 1.000 mole (12.011 + 2 × 15.999 = 44.009 g/mol). 3. 2 × 6.022 × 10²³ = 1.204 × 10²⁴ atoms. 4. 0.5 × (22.990 + 35.45) = 0.5 × 58.44 = 29.22 g.</div>
+    <div class="key"><b>Answer key (fold under):</b> 1. 1 mole = 6.022 × 10<sup>23</sup> molecules (molar mass of water 2 × 1.008 + 15.999 = 18.015 g/mol). 2. 1.000 mole (12.011 + 2 × 15.999 = 44.009 g/mol). 3. 2 × 6.022 × 10<sup>23</sup> = 1.204 × 10<sup>24</sup> atoms. 4. 0.5 × (22.990 + 35.45) = 0.5 × 58.44 = 29.22 g.</div>
     <p class="note">Sources: International Bureau of Weights and Measures (BIPM), SI base unit mole; NIST CODATA; IUPAC Commission on Isotopic Abundances and Atomic Weights; National Mole Day Foundation.</p>
     <div class="foot">Free printable from Fresh Calendars · freshcalendars.com/news/mole-day-2026-october-23-6-02/</div></section>`;
   return doc(fonts, LETTER, css, [page]);

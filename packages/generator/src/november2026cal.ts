@@ -109,7 +109,7 @@ function withHolidays(f: string): string {
   .t1 .c:nth-child(7n){border-right:0}
   .t1 .n{font-size:22px;color:#431407}
   .t1 .we .n{color:#9a3412}
-  .t1 .out .n{color:#d6c1b3;font-size:15px}
+  .t1 .out .n{color:#ae8468;font-size:15px}
   .t1 .hol{background:#fff1f1}
   .t1 .hol .n,.t1 .h{color:#b91c1c}
   .t1 .h{font-size:11px;margin-top:6px}
@@ -134,7 +134,7 @@ function landscape(f: string): string {
   .t2 .c{border:1.5px solid #e7c3a5;border-radius:8px;padding:7px 9px}
   .t2 .n{font-size:24px;color:#292524}
   .t2 .out{border-style:dashed;border-color:#eee2d8}
-  .t2 .out .n{color:#d6c1b3;font-size:15px}
+  .t2 .out .n{color:#ae8468;font-size:15px}
   .t2 .hol{border-color:#b91c1c;background:#fff6f6}
   .t2 .hol .n,.t2 .h{color:#b91c1c}
   .t2 .h{font-size:11px;margin-top:6px}
@@ -159,7 +159,7 @@ function mondayWeeks(f: string): string {
   .t3 .c{border-left:1px solid #e2ddd8;border-bottom:1px solid #e2ddd8;padding:8px}
   .t3 .n{font-size:23px;color:#1c1917}
   .t3 .we{background:#fafaf9}
-  .t3 .out .n{color:#cfc6be;font-size:15px}
+  .t3 .out .n{color:#9b8878;font-size:15px}
   .t3 .hol .n,.t3 .h{color:#b91c1c}
   .t3 .h{font-size:10.5px;margin-top:5px}
   .t3 .h.o{color:#9a3412}
@@ -181,7 +181,7 @@ function blank(f: string): string {
   .t4 .c{border-right:1px solid #d6d3d1;border-bottom:1px solid #d6d3d1;padding:6px 8px;text-align:right}
   .t4 .c:nth-child(7n){border-right:0}
   .t4 .n{font-family:Manrope;font-weight:700;font-size:17px;color:#44403c}
-  .t4 .out .n{color:#d6d3d1}`;
+  .t4 .out .n{color:#948c87}`;
   return doc(f, LETTER, css, [`<section class="page t4"><h1>November 2026<span>Blank Calendar</span></h1>${grid({ start: 0, names: DOW3, cell: (c) => `<span class="n">${c.d}</span>` })}<div class="foot">${FOOT}</div></section>`]);
 }
 
@@ -198,7 +198,7 @@ function planner(f: string): string {
   .t5 .c{border-right:1px solid #eadfcf;border-top:1px solid #eadfcf;padding:6px 7px}
   .t5 .c:nth-child(7n){border-right:0}
   .t5 .n{font-size:18px;color:#3f2a14}
-  .t5 .out .n{color:#d8cbb8;font-size:13px}
+  .t5 .out .n{color:#a6895d;font-size:13px}
   .t5 .hol{background:#fff7ed}
   .t5 .hol .n,.t5 .h{color:#b91c1c}
   .t5 .h{font-size:10px;margin-top:4px}
@@ -265,7 +265,7 @@ function thanksgiving(f: string): string {
   .t7 .c{border-right:1px solid #f0d5c2;border-top:1px solid #f0d5c2;padding:5px 7px}
   .t7 .c:nth-child(7n){border-right:0}
   .t7 .n{font-size:16px;color:#431407}
-  .t7 .out .n{color:#d6c1b3;font-size:12px}
+  .t7 .out .n{color:#ae8468;font-size:12px}
   .t7 .hol{background:#fff1f1}
   .t7 .hol .n,.t7 .h{color:#b91c1c}
   .t7 .h{font-size:9.5px;margin-top:3px}
@@ -298,7 +298,7 @@ function moonPhases(f: string): string {
   .t8 .c{border-right:1px solid #dcdcf0;border-top:1px solid #dcdcf0;padding:7px 8px}
   .t8 .c:nth-child(7n){border-right:0}
   .t8 .n{font-size:21px;color:#1e1b4b}
-  .t8 .out .n{color:#c9c9e6;font-size:14px}
+  .t8 .out .n{color:#8787c7;font-size:14px}
   .t8 .mp{position:absolute;right:7px;bottom:7px;text-align:right;font-size:9.5px;font-weight:700;color:#3730a3;line-height:1.2}
   .t8 .mp svg{display:block;margin:0 0 3px auto}
   .t8 .hol .n,.t8 .h{color:#b91c1c}
@@ -330,7 +330,7 @@ function coloring(f: string): string {
   .t9 .c{border:2.5px solid ${s};border-radius:14px;display:flex;align-items:center;justify-content:center;flex-direction:column}
   .t9 .n{font-family:Sora;font-weight:800;font-size:46px;color:#fff;-webkit-text-stroke:2px ${s}}
   .t9 .out{border:2px dashed #a8a29e}
-  .t9 .out .n{font-size:22px;-webkit-text-stroke:1.2px #a8a29e}
+  .t9 .out .n{font-size:22px;-webkit-text-stroke:1.2px #948c87}
   .t9 .h{font-family:Manrope;font-size:9.5px;color:${s};text-align:center;margin-top:4px;padding:0 3px}
   .t9 .legend{margin-top:10px;font-size:11px;color:#44403c;text-align:center}`;
   const g = grid({ start: 0, names: DOW3, cell: (c) => `<span class="n">${c.d}</span>${c.inMonth && HOL[c.key] ? `<span class="h">${HOL[c.key]}</span>` : ""}` });
@@ -402,7 +402,7 @@ function keyDates(f: string): string {
   .t12 .c{border-right:1px solid #e2ddd8;border-top:1px solid #e2ddd8;padding:6px 7px}
   .t12 .c:nth-child(7n){border-right:0}
   .t12 .n{font-size:18px;color:#1c1917}
-  .t12 .out .n{color:#cfc6be;font-size:13px}
+  .t12 .out .n{color:#9b8878;font-size:13px}
   .t12 .k{display:flex;align-items:center;gap:4px;margin-top:6px;font-size:9.5px;font-weight:700;line-height:1.15}
   .t12 .k i,.t12 li i{flex:none;display:inline-flex;align-items:center;justify-content:center;width:17px;height:17px;border-radius:50%;color:#fff;font-style:normal;font-size:9.5px;font-family:Sora}
   .t12 ol{list-style:none;margin:14px 0 0;padding:0}
@@ -430,7 +430,7 @@ function threeMonth(f: string): string {
   .t13 .c{border-right:1px solid #f0d5c2;border-top:1px solid #f0d5c2;padding:6px 8px}
   .t13 .c:nth-child(7n){border-right:0}
   .t13 .n{font-size:20px;color:#431407}
-  .t13 .out .n{color:#d6c1b3;font-size:13px}
+  .t13 .out .n{color:#ae8468;font-size:13px}
   .t13 .hol .n,.t13 .h{color:#b91c1c}
   .t13 .h{font-size:10px;margin-top:5px}
   .t13 .h.o{color:#9a3412}

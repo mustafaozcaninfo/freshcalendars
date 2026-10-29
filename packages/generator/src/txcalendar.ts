@@ -28,7 +28,7 @@ const MARKS: [number, number, Kind, string][] = [
   [10, 3, "eday", "Election Day, 7 a.m.-7 p.m."], [10, 4, "after", "Postmarked mail ballots due 5 p.m."],
   [10, 9, "after", "Overseas and military ballots due"],
 ];
-const COLOR: Record<Kind, string> = { reg: "#64748b", ev: "#0f766e", mail: "#7c3aed", eday: ACCENT, after: "#1d4ed8", none: "#94a3b8" };
+const COLOR: Record<Kind, string> = { reg: "#64748b", ev: "#0f766e", mail: "#7c3aed", eday: ACCENT, after: "#1d4ed8", none: "#78716c" };
 
 /** The year at a glance: [date, what happens]. */
 const YEAR: [string, [string, string][]][] = [
@@ -51,7 +51,7 @@ function month(m: number): string {
 
 function sheet(fonts: string): string {
   const css = `
-  .tx{padding:26px 36px 0}
+  .tx{padding:28px 36px 0}
   .tx h1{font-family:Sora;font-weight:800;font-size:23px;margin:0;color:${ACCENT};line-height:1.05}
   .tx .sub{margin:4px 0 8px;font-size:11px;color:#37474f}
   .tx .key{display:flex;flex-wrap:wrap;gap:4px 14px;margin:0 0 8px;font-size:9.5px;color:#1f2937}
@@ -64,7 +64,7 @@ function sheet(fonts: string): string {
   .tx .c.e{border:0;background:none}
   .tx .c b{font-family:Sora;font-size:10.5px;color:#0f172a}
   .tx .c.on{border-color:var(--k);background:#f8fafc}
-  .tx .c.on i{font-style:normal;font-size:7.4px;font-weight:800;color:var(--k);line-height:1.2}
+  .tx .c.on i{font-style:normal;font-size:8px;font-weight:800;color:var(--k);line-height:1.2}
   .tx .c.eday{background:${ACCENT}}.tx .c.eday b,.tx .c.eday i{color:#fff}
   .tx .yr{display:grid;grid-template-columns:repeat(3,1fr);gap:10px;margin-top:2px}
   .tx .yr h3{font-family:Sora;font-size:11px;margin:0 0 3px;color:${ACCENT}}

@@ -19,6 +19,8 @@ export const COLA = 0.036;
 
 /** SSA applies the COLA to the benefit and rounds the payment down to the whole dollar. */
 export const after = (m: number) => Math.floor(m * (1 + COLA));
+/** Right arrow drawn as SVG in the text color: → is not in Sora or Manrope and printed in a system font. */
+const ARROW = `<svg width="0.9em" height="0.6em" viewBox="0 0 15 10" aria-hidden="true" style="vertical-align:0.05em"><path d="M0 5h12.5M9 1l4.5 4L9 9" fill="none" stroke="currentColor" stroke-width="1.6"/></svg>`;
 const usd = (n: number) => `$${n.toLocaleString("en-US")}`;
 
 // ── 1. Increase chart ───────────────────────────────────────────────────────
@@ -51,7 +53,7 @@ function increaseChart(fonts: string): string {
   const page = `<section class="page s1">
     <header><div><h1>Social Security Increase 2027 Chart</h1><p class="sub">Your monthly benefit before and after the 3.6% cost-of-living adjustment, paid from January 2027 (SSI from Dec. 31, 2026)</p></div><div class="badge">+3.6%</div></header>
     <div class="cols">${table(rows.slice(0, half))}${table(rows.slice(half))}</div>
-    <div class="keys"><div><b>Average retired worker</b><span>$2,095 → $2,170</span></div><div><b>Maximum at full retirement age</b><span>$4,152 → $4,188</span></div><div><b>SSI, individual</b><span>$994 → $1,029</span></div></div>
+    <div class="keys"><div><b>Average retired worker</b><span>$2,095 ${ARROW} $2,170</span></div><div><b>Maximum at full retirement age</b><span>$4,152 ${ARROW} $4,188</span></div><div><b>SSI, individual</b><span>$994 ${ARROW} $1,029</span></div></div>
     <p class="note">Estimates: the 2026 amount times 1.036, rounded down to the dollar, before Medicare or tax deductions. SSA applies the COLA to your primary insurance amount, so your notice can differ by a dollar or two. The highlighted row is closest to the average retired worker. Averages and maximums: SSA 2027 COLA fact sheet. The COLA is automatic; you never pay or sign up for it.</p>
     <div class="foot">Free printable from Fresh Calendars · ${SITE}</div>
   </section>`;

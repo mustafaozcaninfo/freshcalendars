@@ -32,6 +32,11 @@ const to12 = (t: string) => { const [h, m] = t.split(":").map(Number); return `$
 
 const crescent = (size: number, color: string) =>
   `<svg width="${size}" height="${size}" viewBox="0 0 100 100" aria-hidden="true"><path d="M62 8a42 42 0 1 0 30 70A34 34 0 1 1 62 8z" fill="${color}"/><circle cx="78" cy="30" r="6" fill="${color}"/></svg>`;
+/** Right arrow drawn as SVG in the text color: → is not in Sora or Manrope and printed in a system font. */
+const ARROW = `<svg width="0.9em" height="0.6em" viewBox="0 0 15 10" aria-hidden="true" style="vertical-align:0.05em"><path d="M0 5h12.5M9 1l4.5 4L9 9" fill="none" stroke="currentColor" stroke-width="1.6"/></svg>`;
+/** Five-point star drawn as SVG: the ★ character is not in Sora or Manrope and printed in a system font. */
+const star = (color: string) =>
+  `<svg width="9" height="9" viewBox="0 0 10 10" aria-hidden="true" style="vertical-align:-0.5px;margin-right:3px"><path d="M5 .4l1.35 3.1 3.35.3-2.55 2.2.77 3.3L5 7.55 2.08 9.3l.77-3.3L.3 3.8l3.35-.3z" fill="${color}"/></svg>`;
 
 // ── 1. Ramadan calendar grid ───────────────────────────────────────────────
 function calendarGrid(fonts: string): string {
@@ -43,7 +48,7 @@ function calendarGrid(fonts: string): string {
     const d = dayDate(n);
     // Islamic nights begin at sunset: odd night N starts on the evening of Ramadan day N−1.
     const last10 = n >= 20, oddEve = n >= 20 && n <= 28 && n % 2 === 0;
-    const eve = oddEve ? `<em class="odd">★ Tonight: ${n + 1}${n + 1 === 21 ? "st" : n + 1 === 23 ? "rd" : "th"} night${n + 1 === 27 ? " (Laylat al-Qadr)" : ""}</em>` : "";
+    const eve = oddEve ? `<em class="odd">${star("#8a6b00")}Tonight: ${n + 1}${n + 1 === 21 ? "st" : n + 1 === 23 ? "rd" : "th"} night${n + 1 === 27 ? " (Laylat al-Qadr)" : ""}</em>` : "";
     cells.push(`<div class="c${last10 ? " ten" : ""}"><span class="r">${n}</span><b>${fmt(d)}</b><span>${DOW[d.getUTCDay()]}</span>${eve}</div>`);
   }
   cells.push(`<div class="c eid"><span class="r">Eid</span><b>Mar 9</b><span>Tuesday</span><em>Eid al-Fitr · 1 Shawwal</em></div>`);
@@ -74,7 +79,7 @@ function calendarGrid(fonts: string): string {
     <header>${crescent(64, "#c9a227")}<div><h1>Ramadan 2027 Calendar</h1><p class="sub">Ramadan 1448 AH · Monday, Feb. 8 to Monday, Mar. 8, 2027 · Eid al-Fitr Tuesday, Mar. 9</p></div></header>
     <div class="dow">${DOW.map((d) => `<span>${d}</span>`).join("")}</div>
     <div class="grid">${cells.join("")}</div>
-    <div class="legend"><span><i style="background:#fffaf0;border:1.5px solid #c9a227"></i>Last ten nights (from sunset Feb. 27)</span><span>★ An odd night of the last ten begins that evening at sunset</span><span><i style="background:#0b4f3c"></i>Eid al-Fitr</span></div>
+    <div class="legend"><span><i style="background:#fffaf0;border:1.5px solid #c9a227"></i>Last ten nights (from sunset Feb. 27)</span><span>${star("#8a6b00")}An odd night of the last ten begins that evening at sunset</span><span><i style="background:#0b4f3c"></i>Eid al-Fitr</span></div>
     <p class="note">Dates follow the Fiqh Council of North America calculated calendar. Communities that wait for a local moon sighting may start or end a day later. Islamic days begin at sunset the evening before.</p>
     <div class="foot">Free printable from Fresh Calendars · ${SITE}</div>
   </section>`;
@@ -193,7 +198,7 @@ function islamicCalendar(fonts: string): string {
   .r4 .note{margin-top:10px;font-size:10px;color:#5a6b75;line-height:1.45}`;
   const page = `<section class="page r4">
     <header>${crescent(52, "#007bff")}<div><h1>Islamic Calendar 2027</h1><p class="sub">Hijri months beginning in 2027 · Rajab 1448 to Sha'ban 1449 · first day of each month (Gregorian)</p></div></header>
-    <div class="keys">${key.map(([a, b]) => `<div><b>${a}</b><span>${b}</span></div>`).join("")}<div><b>Hijri year</b><span>1448 AH → 1449 AH</span></div></div>
+    <div class="keys">${key.map(([a, b]) => `<div><b>${a}</b><span>${b}</span></div>`).join("")}<div><b>Hijri year</b><span>1448 AH ${ARROW} 1449 AH</span></div></div>
     <table><thead><tr><th>Hijri month</th><th>Begins</th><th>Key dates</th></tr></thead><tbody>${rows}</tbody></table>
     <p class="note">Month starts follow the Fiqh Council of North America calculated calendar, which matches the Umm al-Qura calendar for these months. Each Hijri day begins at sunset the evening before the Gregorian date shown. Communities that rely on local moon sighting may differ by a day.</p>
     <div class="foot">Fresh Calendars · Islamic calendar 2027 · ${SITE}</div>
