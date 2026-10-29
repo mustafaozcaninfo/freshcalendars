@@ -132,7 +132,7 @@ Two SSI payments are dated in December. SSI is normally paid on the 1st, and Jan
 
 ## When does the 3.6% COLA start?
 
-ABC News, in a report carried by WDBO on Oct. 14, 2026, said Social Security benefits will increase 3.6% beginning in January, the cost-of-living adjustment (COLA) for 2027. SSI recipients get the higher amount in the Dec. 31 payment. The December Social Security payments in the table above are November benefits, so they use 2026 amounts.
+American Broadcasting Company (ABC) News reported on Oct. 14, 2026 that Social Security benefits will increase 3.6% beginning in January, the cost-of-living adjustment (COLA) for 2027. SSI recipients get the higher amount in the Dec. 31 payment. The December Social Security payments in the table above are November benefits, so they use 2026 amounts.
 
 The January 2027 dates are Wednesdays, Jan. 13, 20 and 27. For the 3rd-of-the-month group, Jan. 3, 2027 is a Sunday, and the payment has been reported as moving to Thursday, Dec. 31, 2026; check SSA's schedule for that date. Amounts and the full January table are in [Social Security COLA 2027 is 3.6%](/news/social-security-cola-2027-3-6-percent-payment-dates/).
 

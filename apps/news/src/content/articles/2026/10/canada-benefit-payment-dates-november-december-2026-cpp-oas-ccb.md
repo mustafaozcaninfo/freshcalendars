@@ -51,7 +51,7 @@ summary:
   - "Canada Pension Plan (CPP) and Old Age Security (OAS) payments, including the Guaranteed Income Supplement (GIS), arrive on Thursday, Nov. 26 and Tuesday, Dec. 22, 2026, according to Service Canada."
   - "The Canada Child Benefit (CCB) is paid on Friday, Nov. 20 and Friday, Dec. 11; the Canada Disability Benefit (CDB) on Thursday, Nov. 19 and Thursday, Dec. 17."
   - "For October to December 2026, OAS pays up to $762.50 a month at ages 65 to 74 and up to $838.75 at 75 and older, after a 1.4% increase."
-  - "The Goods and Services Tax/Harmonized Sales Tax (GST/HST) credit and the advance Canada Workers Benefit (CWB) have no November or December 2026 payment, and the Canada Carbon Rebate has ended."
+  - "The Goods and Services Tax (GST) and Harmonized Sales Tax (HST) credit and the advance Canada Workers Benefit (CWB) have no November or December 2026 payment, and the Canada Carbon Rebate has ended."
 faq:
   - q: "When is the CPP payment in November 2026?"
     a: "Service Canada lists Thursday, Nov. 26, 2026 for Canada Pension Plan payments. The December payment is Tuesday, Dec. 22."
@@ -150,7 +150,7 @@ Three federal payments have nothing scheduled in either month.
 
 | Benefit | What the official page says |
 |---|---|
-| Goods and Services Tax/Harmonized Sales Tax (GST/HST) credit | CRA lists 2026 payments on Jan. 5 (Monday), Apr. 2 (Thursday), Jul. 3 (Friday) and Oct. 5 (Monday). None falls in November or December. CRA had not listed a January 2027 date when this story was published. |
+| Goods and Services Tax (GST) and Harmonized Sales Tax (HST) credit | CRA lists 2026 payments on Jan. 5 (Monday), Apr. 2 (Thursday), Jul. 3 (Friday) and Oct. 5 (Monday). None falls in November or December. CRA had not listed a January 2027 date when this story was published. |
 | Advance Canada Workers Benefit (CWB) | CRA lists 2026 advance payments on Jan. 12 (Monday), Jul. 10 (Friday) and Oct. 9 (Friday). None falls in November or December. |
 | Canada Carbon Rebate | CRA says the fuel charge and the rebate stopped on March 15, 2025, and that no payments were made after April 2025. |
 

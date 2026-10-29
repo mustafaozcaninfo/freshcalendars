@@ -132,7 +132,7 @@ The balloting page says the 2026 finalists are announced in the evening of Monda
 
 Not yet announced. The Heisman Trophy Trust has confirmed the date, and an October 20, 2026, release about hospitality packages refers to "the televised Heisman Trophy Ceremony presented by Nissan." The start time, the network and the venue are not in the sources we read.
 
-The ESPN release of Dec. 19, 2025, says ESPN remains the ceremony's home. Whether the show airs on ABC (American Broadcasting Company) or ESPN this year is not stated.
+The ESPN release of Dec. 19, 2025, says ESPN remains the ceremony's home. Whether the show airs on the American Broadcasting Company (ABC) or ESPN this year is not stated.
 
 ## How did the 2025 ceremony compare?
 

@@ -118,7 +118,7 @@ The site does not say which final is on which day, so this story does not either
 
 ## What time do Australian Open matches start in the U.S. and UK?
 
-The 2027 order of play is not yet published. For 2026, Ticketmaster's session listings showed night sessions at 7 p.m. local time on Rod Laver Arena. The Associated Press (AP), through the Lawrence Journal-World, reported that the first Rod Laver match on opening day started at 11:30 a.m. Day sessions on Rod Laver were usually 11:30 a.m. that year, and outside courts started at 11 a.m. local time. The ATP Tour reported in January 2026 that extreme heat can move start times.
+The 2027 order of play is not yet published. For 2026, Ticketmaster's session listings showed night sessions at 7 p.m. local time on Rod Laver Arena. The Associated Press (AP), through the Lawrence Journal-World, reported that the first Rod Laver match on opening day started at 11:30 a.m. Day sessions on Rod Laver were usually 11:30 a.m. that year, and outside courts started at 11 a.m. local time. The Association of Tennis Professionals (ATP) Tour reported in January 2026 that extreme heat can move start times.
 
 In January, Melbourne uses Australian Eastern Daylight Time (AEDT), which is UTC+11. The UK is on Greenwich Mean Time (UTC+0), Eastern Time (ET) is UTC-5 and Pacific Time (PT) is UTC-8. The table applies 2026 start times to a sample 2027 day, Monday, Jan. 18, in Melbourne.
 
@@ -132,7 +132,7 @@ A morning start in Melbourne falls on the previous evening in the United States,
 
 ## Where can you watch the Australian Open 2027 in the U.S. and UK?
 
-For the UK, the LTA says: "Watch and stream all of the 2027 Australian Open live on TNT Sports and discovery+."
+For the UK, the LTA says the whole tournament streams live on Turner Network Television (TNT) Sports and discovery+: "Watch and stream all of the 2027 Australian Open live on TNT Sports and discovery+."
 
 For the United States, ESPN holds Australian Open rights for the U.S. and Canada through 2031, according to a May 19, 2022 Ministry of Sport report that cited Tennis Australia. The 2027 U.S. channel list is not yet published.
 

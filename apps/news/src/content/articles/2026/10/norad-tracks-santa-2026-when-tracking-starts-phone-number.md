@@ -1,7 +1,7 @@
 ---
 title: "NORAD Santa Tracker 2026: Last Year's Hours by Time Zone, the Phone Number and When the Website Starts"
 seoTitle: "NORAD Santa Tracker 2026: Hours by Time Zone, Phone"
-description: "NORAD has not announced 2026 Santa tracking hours. In 2025 its phone line ran 4 a.m. to midnight Mountain Standard Time (MST) on Dec. 24; zones converted."
+description: "North American Aerospace Defense Command (NORAD) has not set 2026 Santa hours. In 2025 calls ran 4 a.m. to midnight Mountain Standard Time (MST) Dec. 24."
 type: explainer
 publishedAt: "2026-10-28T18:00:00-04:00"
 authors: [alex-morgan]
@@ -35,7 +35,7 @@ faq:
   - q: "How did NORAD start tracking Santa?"
     a: "A phone call on Nov. 30, 1955, tied to a Sears department store ad, reached Air Force Col. Harry Shoup, according to Military Times. It is unclear whether the number was misdialed or misprinted."
   - q: "How many people answer the Santa tracker phones?"
-    a: "PBS NewsHour reported on Dec. 24, 2025 that more than 1,000 volunteers take part. It also reported about 380,000 calls the year before, in 2024."
+    a: "The Public Broadcasting Service (PBS) program NewsHour reported on Dec. 24, 2025 that more than 1,000 volunteers take part. It also reported about 380,000 calls the year before, in 2024."
 sources:
   - title: "NORAD Ready to Track Santa's Flight for the 70th Anniversary Year"
     url: "https://www.dvidshub.net/news/552652/norad-ready-track-santas-flight-70th-anniversary-year"
@@ -141,7 +141,7 @@ NORAD's 2025 release gave these ways to follow Santa:
 - App: the official NORAD Tracks Santa app, in the Apple App Store and Google Play.
 - Social media: Facebook, Instagram, YouTube and X.
 
-The release named Amazon Alexa, SiriusXM and OnStar among the contributors. PBS NewsHour reported on Dec. 24, 2025 that more than 1,000 volunteers take part, and about 380,000 calls came in the year before, in 2024. Military Times, in its Dec. 24, 2025 story, put the website's Christmas Eve traffic at about 2.3 million hits.
+The release named Amazon Alexa, SiriusXM and OnStar among the contributors. The Public Broadcasting Service (PBS) program NewsHour reported on Dec. 24, 2025 that more than 1,000 volunteers take part, and about 380,000 calls came in the year before, in 2024. Military Times, in its Dec. 24, 2025 story, put the website's Christmas Eve traffic at about 2.3 million hits.
 
 ## How did NORAD start tracking Santa?
 

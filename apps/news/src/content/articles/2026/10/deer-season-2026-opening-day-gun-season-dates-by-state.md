@@ -187,7 +187,7 @@ The Iowa DNR lists Shotgun 1 for Dec. 5-9 and Shotgun 2 for Dec. 12-20, 2026-27.
 
 ## Michigan and New York deer season 2026
 
-These two states sit outside the six-state table because some of their dates come from news or guide reports rather than the agency itself. Each row names its source. Counts run from Thursday, Oct. 29.
+These two states sit outside the six-state table because some of their dates come from news or guide reports rather than the agency itself: the Michigan DNR or New York's Department of Environmental Conservation (DEC). Each row names its source. Counts run from Thursday, Oct. 29.
 
 | State | Season | Dates | Source |
 |---|---|---|---|

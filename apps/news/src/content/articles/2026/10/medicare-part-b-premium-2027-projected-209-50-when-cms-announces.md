@@ -130,7 +130,7 @@ People with higher incomes pay an income-related monthly adjustment amount (IRMA
 
 ## Where does the Social Security increase fit?
 
-The 2027 Social Security cost-of-living adjustment (COLA) of 3.6% starts in January, as ABC News reported on Oct. 14, 2026. Our [Social Security COLA story](/news/social-security-cola-2027-3-6-percent-payment-dates/) has the payment dates, and the [COLA scams story](/news/social-security-cola-2027-scams-increase-chart/) covers what to watch for in the coming weeks.
+The 2027 Social Security cost-of-living adjustment (COLA) of 3.6% starts in January, as American Broadcasting Company (ABC) News reported on Oct. 14, 2026. Our [Social Security COLA story](/news/social-security-cola-2027-3-6-percent-payment-dates/) has the payment dates, and the [COLA scams story](/news/social-security-cola-2027-scams-increase-chart/) covers what to watch for in the coming weeks.
 
 ## What to do until CMS announces it
 

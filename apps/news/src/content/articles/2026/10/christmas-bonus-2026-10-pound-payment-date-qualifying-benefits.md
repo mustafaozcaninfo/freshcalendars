@@ -67,7 +67,7 @@ related:
 assets:
   overlay: true
   kicker: "Christmas Bonus 2026"
-  date: "2026-12-07"
+  date: "2026-12-25"
   card: { top: "One-off tax-free payment", big: "£10", bottom: "Paid before Christmas, no claim needed" }
   printable:
     slug: christmas-bonus-qualifying-benefits-checklist-2026

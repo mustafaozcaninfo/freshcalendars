@@ -124,7 +124,7 @@ Last year's schedule shows how far apart the steps fell. This is 2025 only, not 
 | Ceremony taped | Sunday, Dec. 7, 2025, Kennedy Center Opera House | Paramount Press Express |
 | Broadcast | Tuesday, Dec. 23, 2025, 8 to 10:30 p.m. ET/PT on CBS, streaming on Paramount+ | Paramount Press Express |
 
-In 2025 the honorees were named 116 days before the ceremony, and the broadcast followed the taping by 16 days. The honorees were George Strait, KISS, Gloria Gaynor, Michael Crawford and Sylvester Stallone, according to the AP. The Paramount Press Express page lists President Donald J. Trump as the 2025 host.
+In 2025 the honorees were named 116 days before the ceremony, and the broadcast followed the taping by 16 days. The honorees were George Strait, the rock band Kiss, Gloria Gaynor, Michael Crawford and Sylvester Stallone, according to the AP. The Paramount Press Express page lists President Donald J. Trump as the 2025 host.
 
 A [weekly calendar](/printable-weekly-calendar.html) is handy for noting the air week once a network and date are named.
 

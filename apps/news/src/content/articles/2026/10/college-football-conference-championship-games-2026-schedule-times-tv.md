@@ -133,9 +133,9 @@ downloads:
     pages: 1
 ---
 
-**The 2026 college football conference championship games are played Friday, Dec. 4 and Saturday, Dec. 5, with kickoffs from noon to 9 p.m. Eastern Time (ET)**, according to conference announcements dated May 27, 2026 and to NCAA.com and FBSchedules for the conferences whose own pages could not be read. Five Football Bowl Subdivision (FBS) title games are on Friday and five on Saturday. The College Football Playoff (CFP) Selection Day follows on Sunday, Dec. 6.
+**The 2026 college football conference championship games are played Friday, Dec. 4 and Saturday, Dec. 5, with kickoffs from noon to 9 p.m. Eastern Time (ET)**, according to conference announcements dated May 27, 2026 and to the National Collegiate Athletic Association (NCAA) site NCAA.com and FBSchedules for the conferences whose own pages could not be read. Five Football Bowl Subdivision (FBS) title games are on Friday and five on Saturday. The College Football Playoff (CFP) Selection Day follows on Sunday, Dec. 6.
 
-The table below puts all ten in one place with ET times, TV and sites. Our free one-page printable adds the CFP dates that come after.
+The table below puts all ten in one place with ET times, TV and sites. The networks are ESPN, the American Broadcasting Company (ABC), FOX, CBS and CBS Sports Network, and the playoff adds Turner Network Television (TNT). Our free one-page printable adds the CFP dates that come after.
 
 ## What is the schedule for all 10 title games?
 

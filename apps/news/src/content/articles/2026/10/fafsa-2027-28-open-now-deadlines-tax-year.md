@@ -98,7 +98,7 @@ A free printable family checklist for this story puts the steps and the reported
 
 ## Who is the 2027-28 FAFSA for?
 
-The form is for students starting classes on or after July 1, 2027, The National News Desk reported through WJLA on Sept. 24, 2026. It said the U.S. Department of Education announced the launch, with Under Secretary Nicholas Kent and Secretary Linda McMahon named in the report. The same report said the FAFSA Simplification Act requires the form to be available by Oct. 1, so the Sept. 23 opening came ahead of that date.
+The form is for students starting classes on or after July 1, 2027, The National News Desk reported on Sept. 24, 2026. It said the U.S. Department of Education announced the launch, with Under Secretary Nicholas Kent and Secretary Linda McMahon named in the report. The same report said the FAFSA Simplification Act requires the form to be available by Oct. 1, so the Sept. 23 opening came ahead of that date.
 
 For comparison, secondary reports put the 2026-27 opening at Sept. 24, 2025.
 
@@ -135,4 +135,4 @@ Mark the state date on the [March 2027 printable calendar](/march-calendars.html
 
 ## Where do tests and scores fit?
 
-Test dates run on a separate track. Our [SAT and ACT test dates for 2026-27](/news/sat-act-test-dates-2026-27-registration-deadlines/) list registration deadlines, and the [PSAT scores release dates](/news/psat-scores-2026-release-date-november-5-november-12/) show when students see results.
+Test dates run on a separate track. Our [SAT and ACT test dates for 2026-27](/news/sat-act-test-dates-2026-27-registration-deadlines/) list registration deadlines, and the [Preliminary SAT (PSAT) score release dates](/news/psat-scores-2026-release-date-november-5-november-12/) show when students see results.

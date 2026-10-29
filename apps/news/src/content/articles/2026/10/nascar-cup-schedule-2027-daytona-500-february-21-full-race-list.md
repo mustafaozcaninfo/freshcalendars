@@ -102,7 +102,7 @@ downloads:
 
 **The 2027 NASCAR Cup Series runs from Saturday, Feb. 13, to Sunday, Nov. 14, with the 69th Daytona 500 on Sunday, Feb. 21 on FOX, according to FOX Sports' 2027 schedule tracker.** The full schedule came out Wednesday, Aug. 26, 2026, and holds 36 points races plus three non-points events, as reported by Racing News and Yahoo Sports. NASCAR is the National Association for Stock Car Auto Racing. Its own site blocked automated access when this story was checked, so every 2027 detail here comes from those three outlets. Race start times have not been announced.
 
-The table below puts each date with its weekday (computed from the calendar), the event, the track and the TV window. A one-page copy for the fridge is available as a printable list in the downloads box with this story. To plan around other dates, use the [printable yearly calendar](/printable-yearly-calendar.html).
+The table below puts each date with its weekday (computed from the calendar), the event, the track and the TV window: FOX, Prime Video, Turner Network Television (TNT) Sports, then USA Network and NBC. A one-page copy for the fridge is available as a printable list in the downloads box with this story. To plan around other dates, use the [printable yearly calendar](/printable-yearly-calendar.html).
 
 ## What is the full 2027 NASCAR Cup schedule?
 
