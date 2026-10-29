@@ -196,8 +196,9 @@ for (const file of walk(ART).filter((f) => /\.mdx?$/.test(f)).sort()) {
       if (td.date !== p.date) err(`title date ${td.date}, slug date ${p.date}`);
       if (td.wd && td.wd !== weekday(p.date)) err(`title says ${td.wd}, ${p.date} is a ${weekday(p.date)}`);
     }
-    // Live before the puzzle day is over in New York (pages for a day go up the day before).
-    if (Date.parse(page.publishedAt) >= Date.parse(`${addDays(p.date, 1)}T00:00:00-05:00`)) err(`publishedAt ${page.publishedAt} is after the puzzle day`);
+    // Pages go up the day before; a missed day may be filled in later, but a date far off means a slip.
+    const pub = Date.parse(page.publishedAt), day = Date.parse(`${p.date}T12:00:00-05:00`);
+    if (pub < day - 14 * 86_400_000 || pub > day + 7 * 86_400_000) err(`publishedAt ${page.publishedAt} is more than two weeks before or a week after the puzzle day`);
     CHECK[p.game](page, d, p, err);
   }
   if (errs.length) {

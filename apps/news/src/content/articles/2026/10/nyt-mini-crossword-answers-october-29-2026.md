@@ -63,7 +63,7 @@ Start with the three rhyming Across clues, 1-Across, 5-Across and 7-Across: "Gum
 
 Keep a streak log on our [printable weekly calendar](/printable-weekly-calendar.html) or the [October 2026 printable calendar](/october-calendars.html).
 
-More of today's puzzles: [Wordle hints](/news/wordle-hint-answer-today-october-29-2026-1958/), [Connections hints](/news/nyt-connections-hints-answers-october-29-2026-1236/), [Strands hints](/news/nyt-strands-hints-answers-october-29-2026-970/), [Spelling Bee hints](/news/nyt-spelling-bee-hints-answers-october-29-2026/) and [Pips hints](/news/nyt-pips-hints-answers-october-29-2026/). Tuesday's grid is in our [Mini answers for Oct. 27](/news/nyt-mini-crossword-answers-october-27-2026/).
+More of today's puzzles: [Wordle hints](/news/wordle-hint-answer-today-october-29-2026-1958/), [Connections hints](/news/nyt-connections-hints-answers-october-29-2026-1236/), [Strands hints](/news/nyt-strands-hints-answers-october-29-2026-970/), [Spelling Bee hints](/news/nyt-spelling-bee-hints-answers-october-29-2026/) and [Pips hints](/news/nyt-pips-hints-answers-october-29-2026/). Wednesday's grid is in our [Mini answers for Oct. 28](/news/nyt-mini-crossword-answers-october-28-2026/).
 
 ## Today's NYT Mini answers (spoilers)
 

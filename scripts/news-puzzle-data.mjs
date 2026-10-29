@@ -5,7 +5,7 @@
  * drawings (src/lib/puzzle-boards.mjs) read only these files, so CI never needs the network.
  *
  * Usage: node scripts/news-puzzle-data.mjs <from> [to] [--games wordle,connections,strands,pips,bee,mini] [--force]
- *        (the Mini is saved only for the date NYT is currently serving: after about 10 p.m. ET, the next day's)
+ *        (the Mini is served for past days and today, and for tomorrow from about 10 p.m. ET; never further ahead)
  *        node scripts/news-puzzle-data.mjs --pages     (every puzzle page in the repo that has no data yet)
  *
  * Requests go through curl, which honors HTTPS_PROXY. A date NYT has not published returns a
@@ -22,7 +22,7 @@ const URL = {
   strands: (d) => `https://www.nytimes.com/svc/strands/v2/${d}.json`,
   pips: (d) => `https://www.nytimes.com/svc/pips/v1/${d}.json`,
   bee: (d) => `https://www.nytimes.com/svc/spelling-bee/v1/${d}.json`,
-  mini: () => "https://www.nytimes.com/svc/crosswords/v6/puzzle/mini.json", // the current puzzle only
+  mini: (d) => `https://www.nytimes.com/svc/crosswords/v6/puzzle/mini/${d}.json`, // past days and today; not ahead
 };
 
 /** Only the fields the pages and checks use (Strands' full dictionary list is dropped). */

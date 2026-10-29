@@ -43,7 +43,7 @@ All of these return JSON or HTML to a plain request (no login, no bot challenge)
 - Connections: `https://www.nytimes.com/svc/connections/v2/YYYY-MM-DD.json` (`categories[].title`, `cards[].content`, in yellow, green, blue, purple order; `id` is internal, not the public number).
 - Strands: `https://www.nytimes.com/svc/strands/v2/YYYY-MM-DD.json` (`clue`, `spangram`, `themeWords`, `editor`, `constructors`).
 - Pips: `https://www.nytimes.com/svc/pips/v1/YYYY-MM-DD.json` (`easy`/`medium`/`hard` with `dominoes`, `regions`, `solution`, `constructors`). The `solution` pairs follow the order of `dominoes`; still solve and check every region before printing.
-- The Mini: `https://www.nytimes.com/svc/crosswords/v6/puzzle/mini.json` (current puzzle only; clues and `answer` per cell).
+- The Mini: `https://www.nytimes.com/svc/crosswords/v6/puzzle/mini/YYYY-MM-DD.json` (any past day and today, and tomorrow from about 10 p.m. ET; not further ahead; clues and `answer` per cell). `mini.json` without a date is the current puzzle.
 - Spelling Bee, also by date: `https://www.nytimes.com/svc/spelling-bee/v1/YYYY-MM-DD.json` (`center_letter`, `outer_letters`, `pangrams`, `answers`; `answers` can leave the pangrams out, so use the union), available about 10 days ahead.
 - Letter Boxed: `https://www.nytimes.com/svc/letter-boxed/v1/YYYY-MM-DD.json` (`sides`, `par`, `ourSolution`, `dictionary`). Write sides as "C/D/I" and words in Title case: runs of capitals fail 08-ABBREV.
 - Spelling Bee: `https://www.nytimes.com/puzzles/spelling-bee` has `window.gameData` with `today` and `yesterday` (`centerLetter`, `outerLetters`, `pangrams`, `answers`, `editor`). Total points: 4-letter words 1 point, longer words 1 per letter, pangrams +7; Genius is 70% of the total (matches NYTBee).
