@@ -10,16 +10,16 @@ keywords: ["christmas bonus 2026", "christmas bonus 2026 payment date", "christm
 dateline: "London"
 hero:
   src: ../../../../assets/news/christmas-bonus-2026-10-pound-payment-date-qualifying-benefits/christmas-bonus-2026-10-pound-payment-date-qualifying-benefits.webp
-  alt: "Christmas lights over Regent Street in London, file photo for the Christmas Bonus 2026"
+  alt: "British coins on a wooden table, for the Christmas Bonus 2026 £10 payment"
   title: "Christmas Bonus 2026"
-  caption: "Regent Street Christmas lights in London, 2016. The £10 Christmas Bonus is paid automatically before Christmas, GOV.UK says."
-  credit: "Photo: Oast House Archive / Wikimedia Commons, cropped, edited"
+  caption: "British coins on a table, file photo. The £10 Christmas Bonus is paid automatically before Christmas, GOV.UK says."
+  credit: "Photo: Olgierd / Wikimedia Commons, cropped, edited"
   license:
-    name: "CC BY-SA 2.0"
-    url: "https://creativecommons.org/licenses/by-sa/2.0"
-    source: "https://commons.wikimedia.org/wiki/File:Regent_Street_Christmas_Lights_2016_-_geograph.org.uk_-_5233956.jpg"
-    author: "Oast House Archive"
-    authorUrl: "https://www.geograph.org.uk/profile/10354"
+    name: "CC BY 2.0"
+    url: "https://creativecommons.org/licenses/by/2.0"
+    source: "https://commons.wikimedia.org/wiki/File:Pound_sterling_%26_Queen_Elisabeth_II_(52387995684).jpg"
+    author: "Olgierd"
+    authorUrl: "https://www.flickr.com/people/183683740@N04"
 summary:
   - "The Christmas Bonus is a one-off tax-free £10 payment made before Christmas, and GOV.UK says you do not need to claim it."
   - "The Department for Work and Pensions (DWP) has not published the 2026 qualifying week or payment date. Read as a Monday-to-Sunday week, the first full week of December is 7 to 13 December 2026."
