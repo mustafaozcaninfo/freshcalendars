@@ -1,12 +1,13 @@
 ---
-title: "When Is Hanukkah 2026? Dates, Eight Nights and Printable Calendar"
-seoTitle: "When Is Hanukkah 2026? Dates and Printable Calendar"
-description: "Hanukkah 2026 begins at sundown on Friday, Dec. 4 and ends at nightfall on Saturday, Dec. 12. See all eight nights, Shabbat timing and free printables."
+title: "When Is Hanukkah 2026? First Night Is Friday, Dec. 4: Candle Times by City and Printable Calendar"
+seoTitle: "Hanukkah 2026: First Night Fri., Dec. 4, Candle Times"
+description: "The first night of Hanukkah 2026 is Friday, Dec. 4, and the holiday ends at nightfall Dec. 12. See lighting times for 20 U.S. cities and free printables."
 type: explainer
 publishedAt: "2026-10-22T11:45:00-04:00"
+updatedAt: "2026-10-29T07:57:00-04:00"
 authors: [alex-morgan]
 category: holidays
-keywords: ["when is Hanukkah 2026", "Hanukkah 2026 dates", "Hanukkah calendar 2026 printable", "8 nights of Hanukkah 2026", "Hanukkah candle lighting 2026"]
+keywords: ["when is Hanukkah 2026", "Hanukkah 2026 dates", "Hanukkah calendar 2026 printable", "first night of Hanukkah 2026", "Hanukkah candle lighting 2026"]
 dateline: "New York"
 hero:
   src: ../../../../assets/news/hanukkah-2026-dates-calendar/hanukkah-2026-dates-calendar.jpg
@@ -27,6 +28,8 @@ faq:
     a: "No. The eighth and last candle-lighting night begins on Friday evening, Dec. 11. The holiday then ends at nightfall the next day, Saturday, Dec. 12, and no candles are lit that night."
   - q: "How many candles do I need for Hanukkah?"
     a: "Forty-four for a standard menorah. The nights use 1 through 8 candles, which adds up to 36, and each night also needs one shamash, the helper candle, for 8 more."
+  - q: "What time do you light the first Hanukkah candle in 2026?"
+    a: "Before Shabbat begins on Friday, Dec. 4. Hebcal lists Shabbat candles at 4:10 p.m. in New York, 4:01 p.m. in Chicago and 4:25 p.m. in Los Angeles, so the menorah is lit before those times, with candles big enough to burn until half an hour after nightfall."
   - q: "Are Hanukkah candle-lighting times the same everywhere?"
     a: "No. They follow local sunset and community custom. On the two Fridays, Hebcal lists Shabbat candles at 4:10 p.m. in New York, 4:01 p.m. in Chicago, 5:11 p.m. in Miami and 4:25 p.m. in Los Angeles on Dec. 4; the menorah is lit before those times."
   - q: "Is Hanukkah a federal holiday?"
@@ -49,10 +52,10 @@ sources:
   - title: "What Is Hanukkah?"
     url: "https://www.chabad.org/holidays/chanukah/article_cdo/aid/102911/jewish/What-Is-Hanukkah.htm"
     publisher: "Chabad.org"
-  - title: "Shabbat Times API, December 2026 (New York, Chicago, Miami, Los Angeles)"
-    url: "https://www.hebcal.com/shabbat?cfg=json&geonameid=5128581&gy=2026&gm=12&gd=4&M=on"
+  - title: "Jewish Calendar API, Dec. 4-12, 2026: Chanukah and Shabbat Times for 20 U.S. Cities"
+    url: "https://www.hebcal.com/hebcal?v=1&cfg=json&c=on&M=on&maj=on&geonameid=5128581&start=2026-12-04&end=2026-12-12"
     publisher: "Hebcal"
-    date: "2026-10-22"
+    date: "2026-10-29"
   - title: "National Menorah"
     url: "https://www.nationalmenorah.org/"
     publisher: "American Friends of Lubavitch"
@@ -105,7 +108,9 @@ downloads:
 draft: false
 ---
 
-**Hanukkah 2026 begins at sundown on Friday, Dec. 4, and ends at nightfall on Saturday, Dec. 12.** The first candle is lit on Friday evening, and the last of the eight candle-lighting nights starts on Friday, Dec. 11. Both Chabad.org and Hebcal, the online Jewish calendar, list the same dates.
+<p class="callout"><b>Last updated Oct. 29, 2026, 7:57 a.m. ET.</b> Added first-night lighting times for 20 U.S. cities from Hebcal, up from four.</p>
+
+**The first night of Hanukkah 2026 is Friday, Dec. 4, and the holiday ends at nightfall on Saturday, Dec. 12.** Because that Friday is also the start of Shabbat, the first candle is lit in the late afternoon, before the Shabbat candles: by 4:10 p.m. in New York and 4:25 p.m. in Los Angeles, according to Hebcal. The first candle is lit on Friday evening, and the last of the eight candle-lighting nights starts on Friday, Dec. 11. Both Chabad.org and Hebcal, the online Jewish calendar, list the same dates.
 
 Jewish holidays start at sundown, so the first night of Hanukkah comes before its first day. The first full day is Saturday, Dec. 5, which is 25 Kislev 5787 on the Hebrew calendar. The holiday runs through 2 Tevet.
 
@@ -152,18 +157,34 @@ Hanukkah 2026 overlaps two Shabbats. That changes the lighting order on three of
 
 *Three nights with a different order. Times are for New York from Hebcal; check your own city.*
 
-### Shabbat times in four U.S. cities
+### First-night lighting times in 20 U.S. cities
 
-Hebcal publishes Shabbat candle-lighting times at 18 minutes before sunset and the end of Shabbat (Havdalah) at nightfall. These are its figures for both Hanukkah weekends, in local standard time:
+Hebcal publishes Shabbat candle-lighting times at 18 minutes before sunset and the end of Shabbat (Havdalah) at nightfall. On the two Fridays the menorah is lit before the Shabbat time below; on Saturday, Dec. 5 it is lit after Shabbat ends. All times are local standard time, grouped by time zone from east to west.
 
-| City | Fri., Dec. 4 candles | Sat., Dec. 5 Shabbat ends | Fri., Dec. 11 candles | Sat., Dec. 12 Shabbat ends |
+| City | Time zone | Night 1, Fri., Dec. 4: light before | Night 2, Sat., Dec. 5: light after | Night 8, Fri., Dec. 11: light before |
 |---|---|---|---|---|
-| New York | 4:10 p.m. | 5:14 p.m. | 4:10 p.m. | 5:14 p.m. |
-| Chicago | 4:01 p.m. | 5:06 p.m. | 4:01 p.m. | 5:06 p.m. |
-| Miami | 5:11 p.m. | 6:07 p.m. | 5:12 p.m. | 6:08 p.m. |
-| Los Angeles | 4:25 p.m. | 5:24 p.m. | 4:26 p.m. | 5:25 p.m. |
+| Boston | Eastern | 3:53 p.m. | 4:58 p.m. | 3:53 p.m. |
+| New York | Eastern | 4:10 p.m. | 5:14 p.m. | 4:10 p.m. |
+| Philadelphia | Eastern | 4:17 p.m. | 5:20 p.m. | 4:17 p.m. |
+| Baltimore | Eastern | 4:25 p.m. | 5:27 p.m. | 4:25 p.m. |
+| Washington, D.C. | Eastern | 4:28 p.m. | 5:30 p.m. | 4:28 p.m. |
+| Pittsburgh | Eastern | 4:35 p.m. | 5:38 p.m. | 4:35 p.m. |
+| Cleveland | Eastern | 4:39 p.m. | 5:43 p.m. | 4:38 p.m. |
+| Detroit | Eastern | 4:41 p.m. | 5:46 p.m. | 4:41 p.m. |
+| Atlanta | Eastern | 5:10 p.m. | 6:09 p.m. | 5:11 p.m. |
+| Miami | Eastern | 5:11 p.m. | 6:07 p.m. | 5:12 p.m. |
+| Chicago | Central | 4:01 p.m. | 5:06 p.m. | 4:01 p.m. |
+| Minneapolis | Central | 4:14 p.m. | 5:21 p.m. | 4:13 p.m. |
+| Dallas | Central | 5:02 p.m. | 6:01 p.m. | 5:03 p.m. |
+| Houston | Central | 5:03 p.m. | 6:00 p.m. | 5:04 p.m. |
+| Denver | Mountain | 4:17 p.m. | 5:20 p.m. | 4:17 p.m. |
+| Phoenix | Mountain | 5:02 p.m. | 6:00 p.m. | 5:02 p.m. |
+| Seattle | Pacific | 4:00 p.m. | 5:10 p.m. | 3:59 p.m. |
+| Las Vegas | Pacific | 4:07 p.m. | 5:07 p.m. | 4:08 p.m. |
+| San Francisco | Pacific | 4:32 p.m. | 5:33 p.m. | 4:32 p.m. |
+| Los Angeles | Pacific | 4:25 p.m. | 5:24 p.m. | 4:26 p.m. |
 
-On the Fridays, the menorah should be lit before the time in the candles column. Your synagogue may use a different custom, such as lighting Shabbat candles earlier, so its local calendar comes first.
+Boston has the earliest first-night deadline on the list, 3:53 p.m., and Atlanta and Miami the latest in the Eastern zone, past 5:10 p.m., because they sit at the western edge of the zone or farther south. Your synagogue may use a different custom, such as lighting Shabbat candles earlier, so its local calendar comes first.
 
 Early December has some of the earliest sunsets of the year, which is why New York's time barely moves between the two Fridays. Our story on [sunset times after daylight saving time ends](/news/sunset-times-after-daylight-saving-time-ends-2026/) explains the pattern.
 

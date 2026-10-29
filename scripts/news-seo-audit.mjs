@@ -406,6 +406,8 @@ check("08-ABBREV", "Abbreviations defined on first use in article prose (§08 l.
       "DINASTIA", "LUX", "MAG",
       // Traffic-analytics company name and the REAL ID program name, proper nouns in capitals.
       "INRIX", "REAL",
+      // Restaurant chain name with a capitalized word (Mission BBQ, Veterans Day deals).
+      "BBQ",
       // Country name and brand names written in capitals (USA Network, IMAX theaters).
       "USA", "IMAX",
       // Words quoted as printed in capitals ("10-22-38 ASTORIA", the first xerographic copy).
