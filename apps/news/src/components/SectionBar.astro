@@ -1,0 +1,51 @@
+---
+/**
+ * Slim bar under the sticky site header that follows the reader through a story: the current
+ * section ("3/6 · Title") and, on tap, the full section list. The contents boxes (inline at the
+ * top, sidebar on wide screens) scroll away with the page; the sidebar box cannot stick because
+ * the sticky side ads already hold that space. On wide screens the bar spans the story column
+ * only, so it never covers the ads. The story page script shows it and keeps it current.
+ */
+import type { MarkdownHeading } from "astro";
+interface Props { headings: MarkdownHeading[] }
+const items = Astro.props.headings.filter((h) => h.depth === 2);
+---
+{items.length >= 3 && (
+  <nav class="secbar" aria-label="Article sections" data-secbar>
+    <div class="secbar-in">
+      <div class="secbar-box">
+        <button type="button" class="secbar-btn" aria-expanded="false" aria-controls="secbar-list">
+          <span class="secbar-n" data-secbar-n>1/{items.length}</span>
+          <span class="secbar-t" data-secbar-t>{items[0].text}</span>
+        </button>
+        <ol id="secbar-list" class="secbar-list" hidden>
+          {items.map((h, i) => <li><a href={`#${h.slug}`} data-sec={h.slug}><span>{i + 1}</span>{h.text}</a></li>)}
+        </ol>
+      </div>
+    </div>
+  </nav>
+)}
+<style>
+  .secbar{position:fixed;left:0;right:0;top:var(--secbar-top,70px);z-index:59;pointer-events:none;visibility:hidden;opacity:0;transform:translateY(-8px);transition:opacity .18s ease,transform .18s ease,visibility 0s linear .18s}
+  .secbar.show{visibility:visible;opacity:1;transform:none;transition:opacity .18s ease,transform .18s ease}
+  .secbar-in{width:100%}
+  .secbar-box{pointer-events:auto;position:relative;background:var(--paper,#fff);border-bottom:1px solid var(--line);box-shadow:0 4px 12px rgba(16,42,67,.08)}
+  .secbar-btn{display:flex;align-items:center;gap:.6rem;width:100%;min-height:44px;padding:.5rem 2.6rem .5rem 1rem;border:0;background:none;font:inherit;font-size:.88rem;color:var(--ink-strong);text-align:left;cursor:pointer;position:relative}
+  .secbar-btn::after{content:"";position:absolute;right:1.1rem;top:50%;width:.5rem;height:.5rem;border-right:2px solid currentColor;border-bottom:2px solid currentColor;transform:translateY(-70%) rotate(45deg);transition:transform .2s ease}
+  .secbar-btn[aria-expanded="true"]::after{transform:translateY(-30%) rotate(-135deg)}
+  .secbar-btn:focus-visible{outline:2px solid var(--focus);outline-offset:-2px}
+  .secbar-n{flex-shrink:0;font-size:.75rem;font-weight:700;color:var(--focus);font-variant-numeric:tabular-nums}
+  .secbar-t{font-weight:700;white-space:nowrap;overflow:hidden;text-overflow:ellipsis;min-width:0}
+  .secbar-list{list-style:none;margin:0;padding:.25rem 0 .5rem;max-height:min(60vh,420px);overflow-y:auto;border-top:1px solid var(--line-soft)}
+  .secbar-list a{display:flex;gap:.6rem;align-items:baseline;padding:.6rem 1rem;font-size:.88rem;line-height:1.4;color:var(--ink);text-decoration:none}
+  .secbar-list a span{flex-shrink:0;min-width:1.2rem;font-size:.75rem;font-weight:700;color:var(--muted)}
+  .secbar-list a:hover,.secbar-list a:focus-visible{background:var(--surface-soft);color:var(--focus)}
+  .secbar-list a.on{color:var(--focus);font-weight:700}
+  /* Wide screens: the same grid as .article-layout, bar in the story column, the ad column free. */
+  @media (min-width:1100px){
+    .secbar-in{width:min(1320px,calc(100% - 80px));margin:0 auto;display:grid;grid-template-columns:minmax(0,1fr) 300px;gap:40px}
+    .secbar-box{border:1px solid var(--line);border-top:0;border-radius:0 0 9px 9px}
+  }
+  @media (prefers-reduced-motion:reduce){.secbar,.secbar.show,.secbar-btn::after{transition:none}}
+  @media print{.secbar{display:none}}
+</style>
