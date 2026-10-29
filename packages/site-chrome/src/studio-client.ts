@@ -13,7 +13,7 @@ function applyTheme(dark){root.dataset.theme=dark?'dark':'light';document.queryS
 applyTheme(root.dataset.theme==='dark'); // set in <head> by THEME_BOOT_HTML; this syncs the toggle
 document.querySelectorAll('[data-theme-toggle]').forEach(function(b){b.addEventListener('click',function(){var dark=root.dataset.theme!=='dark';applyTheme(dark);try{localStorage.setItem('fc-theme',dark?'dark':'light');}catch(e){}});});
 document.querySelectorAll('[data-shelf]').forEach(function(shelf){shelf.querySelectorAll('[data-shelf-filter]').forEach(function(b){b.addEventListener('click',function(){var f=b.dataset.shelfFilter;shelf.querySelectorAll('[data-shelf-filter]').forEach(function(x){x.setAttribute('aria-pressed',String(x===b));});shelf.querySelectorAll('[data-shelf-card]').forEach(function(c){c.hidden=f!=='all'&&!c.dataset.tags.split(' ').includes(f);});});});var next=shelf.querySelector('[data-shelf-next]');if(next)next.addEventListener('click',function(){shelf.querySelector('.calendar-shelf').scrollBy({left:340,behavior:'smooth'});});});
-function files(y,m,s,p,d){var months=['january','february','march','april','may','june','july','august','september','october','november','december'];var base='/assets/studio/'+y+'/'+months[m-1]+'/'+s+'/'+p+'-'+d;return {pdf:base+'.pdf',png:base+'.png',preview:base+'.webp'};}
+function files(y,m,s,p,d){var months=['january','february','march','april','may','june','july','august','september','october','november','december'];var base='/assets/studio/'+y+'/'+months[m-1]+'/'+s+'/'+p+'-'+d;return {pdf:base+'.pdf',png:base+'.png',preview:base+'.webp',display:base+'-1100.webp',srcset:base+'-640.webp 640w, '+base+'-1100.webp 1100w'};}
 document.querySelectorAll('[data-studio]').forEach(function(el){
  var model=JSON.parse(el.querySelector('[data-studio-model]').textContent),params=new URLSearchParams(location.search);
  var state={year:model.years.includes(Number(params.get('year')))?Number(params.get('year')):model.year,month:model.month,style:model.styles.some(function(s){return s.id===params.get('style');})?params.get('style'):model.styles[0].id,paper:params.get('paper')==='a4'?'a4':'letter',start:params.get('start')==='monday'?'monday':params.get('start')==='sunday'?'sunday':model.defaultStart||'sunday',format:'pdf'};
@@ -26,7 +26,7 @@ document.querySelectorAll('[data-studio]').forEach(function(el){
   el.querySelector('[data-studio-crumb]').textContent=model.crumb.replace(String(model.year),String(state.year));
   el.querySelector('.studio-secondary').dataset.downloadFormat=state.format==='pdf'?'png':'pdf';el.querySelector('[data-secondary-label]').textContent='Download '+(state.format==='pdf'?'PNG':'PDF');
   el.querySelector('[data-studio-description]').textContent=model.lead.replaceAll(String(model.year),String(state.year));
-  main.src=f.png;main.alt=label+' calendar, '+state.paper.toUpperCase()+', '+state.start+' start';
+  if(f.display){main.srcset=f.srcset;main.src=f.display;}else{main.removeAttribute('srcset');main.src=f.png;}main.alt=label+' calendar, '+state.paper.toUpperCase()+', '+state.start+' start';
   el.querySelector('[data-studio-title]').textContent=model.month?label+' Calendar (Free Printable)':label;
   el.querySelectorAll('[data-choice]').forEach(function(b){b.setAttribute('aria-pressed',String(state[b.dataset.choice]===b.dataset.value));});
   el.querySelectorAll('[data-style-thumb]').forEach(function(img){img.src=selectedFiles(img.dataset.styleThumb).preview;});
