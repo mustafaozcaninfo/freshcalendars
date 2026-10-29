@@ -7,7 +7,7 @@ import { HOME, homePages } from "../lib/pages";
 const [page] = await homePages();
 const all = await getPublishedArticles();
 // Bylines on the hub keep every author page linked, even before a first story.
-const authors = (await getCollection("authors")).map((a) => ({ id: a.id, name: a.data.name }));
+const authors = (await getCollection("authors")).map((a) => ({ id: a.id, name: a.data.name, role: a.data.role, photo: a.data.photo, person: a.data.kind === "Person" }));
 ---
 <HomeView
   page={page!}

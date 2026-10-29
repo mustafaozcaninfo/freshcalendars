@@ -67,7 +67,8 @@ function pagesIn(dir, prefix) {
         if (!["assets", "og", "meta", "_astro", "downloads", "admin", "api", "news", "fonts", "img", "icons"].includes(e.name)) {
           walk(path.join(d, e.name), `${pre}${e.name}/`);
         }
-      } else if (e.name.endsWith(".html") && !e.name.startsWith("google") && e.name !== "404.html") {
+      // 404 pages are checked too: readers land on them, and a button there once had text in its own color.
+      } else if (e.name.endsWith(".html") && !e.name.startsWith("google")) {
         out.push(pre + (e.name === "index.html" ? "" : e.name));
       }
     }

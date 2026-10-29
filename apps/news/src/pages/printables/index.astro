@@ -1,5 +1,9 @@
 ---
-/** Free printables hub: every PDF/PNG template from News stories, filterable by topic and text. */
+/**
+ * Free printables hub: every PDF/PNG template from News stories, filterable by topic and text.
+ * All cards are in the HTML (crawlable, works without JavaScript); the script shows them a page
+ * at a time, sorts, and keeps the filter in the URL so a filtered view can be shared.
+ */
 import { Image } from "astro:assets";
 import NewsBase from "../../layouts/NewsBase.astro";
 import AdSlot from "../../components/AdSlot.astro";
@@ -7,14 +11,17 @@ import Breadcrumb from "../../components/Breadcrumb.astro";
 import NewsRail from "../../components/NewsRail.astro";
 import { getActiveCategories, getCategoryNames, getPublishedArticles } from "../../lib/articles";
 import { allPrintables, PRINTABLES_PATH } from "../../lib/printables";
-import { listingGraph } from "../../lib/seo";
+import { formatDateET, listingGraph } from "../../lib/seo";
 
 const articles = (await getPublishedArticles()).filter((a) => a.data.downloads.length > 0);
 const items = allPrintables(articles);
+const inkCount = items.filter((i) => i.inkSaver).length;
 const names = await getCategoryNames();
 const topics = (await getActiveCategories(articles)).map((c) => ({ id: c.id, name: c.data.name, n: items.filter((i) => i.article.category === c.id).length }));
+const PAGE = 24;
+const AD_AT: Record<number, number> = { 12: 6, 42: 3, 84: 2 };
 const title = "Free Printable Calendars, Charts and Trackers";
-const description = `${items.length} free printable PDF and PNG templates from Fresh Calendars News: Ramadan, moon phases, week numbers, Social Security and more. No sign-up.`;
+const description = `${items.length} free printable PDF and PNG templates from Fresh Calendars News: holiday calendars, election guides, trackers and more. No sign-up.`;
 const jsonLd = listingGraph({
   path: PRINTABLES_PATH,
   name: title,
@@ -28,67 +35,181 @@ const jsonLd = listingGraph({
   <div class="news-workspace"><NewsRail path={PRINTABLES_PATH}/><div class="hub">
     <Breadcrumb items={[{ name: "Home", href: "/" }, { name: "News", href: "/news/" }, { name: "Free printables" }]} />
     <h1>{title}</h1>
-    <p class="news-lede">Every template from our stories in one place: {items.length} free PDFs and PNGs, most on US Letter paper, made by Fresh Calendars. No account, no email.</p>
+    <p class="news-lede">Every template from our stories in one place: {items.length} free designs as PDF and PNG, most on US Letter paper, made by Fresh Calendars. No account, no email.</p>
 
-    <div class="tools">
-      <label class="q" for="pr-q"><span>Find a printable</span><input id="pr-q" type="search" placeholder="Try “moon”, “tracker” or “2027”" autocomplete="off" /></label>
+    <ol class="steps" aria-label="How to print">
+      <li><b>Find it</b><span>Search, or pick a topic below.</span></li>
+      <li><b>Open or download</b><span>Tap the picture to open the PDF, or save it with Download.</span></li>
+      <li><b>Print at 100%</b><span>Choose "Actual size" in the print dialog.{inkCount > 0 && ` ${inkCount} designs also come in a low-ink version.`}</span></li>
+    </ol>
+
+    <div class="tools" id="pr-tools">
+      <div class="tools-row">
+        <label class="q" for="pr-q"><span class="sr-only">Find a printable</span>
+          <svg aria-hidden="true" viewBox="0 0 24 24" width="18" height="18"><path fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" d="M11 4a7 7 0 1 0 0 14 7 7 0 0 0 0-14Zm5 12 4 4"/></svg>
+          <input id="pr-q" type="search" placeholder="Search printables: “thanksgiving”, “tracker”, “2027”" autocomplete="off" />
+        </label>
+        <label class="sort" for="pr-sort"><span>Sort</span>
+          <select id="pr-sort"><option value="new">Newest first</option><option value="az">A to Z</option></select>
+        </label>
+      </div>
       <div class="topics" role="group" aria-label="Filter by topic">
         <button type="button" data-topic="" aria-pressed="true">All<span>{items.length}</span></button>
         {topics.map((t) => <button type="button" data-topic={t.id} aria-pressed="false">{t.name}<span>{t.n}</span></button>)}
       </div>
-      <button type="button" class="reset-printables" data-printables-reset>Reset filters</button>
-      <p class="count" id="pr-count" aria-live="polite">{items.length} printables</p>
+      <div class="tools-foot">
+        <p class="count" id="pr-count" aria-live="polite">{items.length} printables</p>
+        <button type="button" class="reset" data-printables-reset hidden>Clear filters</button>
+      </div>
     </div>
 
-    <ul class="printables-grid">
+    <ul class="printables-grid" id="pr-grid">
     {items.map((i, n) => (
       <>
-      {(n===12 || n===42 || n===84) && <li class="printables-ad"><AdSlot unit={n===12?6:n===42?3:2} variant={n===12?"top":undefined}/></li>}
-      <li class="printable-card" data-printable data-topic={i.article.category} data-text={`${i.title} ${i.description} ${i.group} ${i.article.title}`.toLowerCase()}>
-        <a class="thumb" href={i.pdf} title={`Download ${i.title} (PDF)`}>
-          <Image src={i.preview} alt={i.alt} title={i.title} widths={[240, 360, 480]} sizes="(max-width: 700px) 44vw, 320px" format="webp" quality={62} loading="lazy" decoding="async" />
+      {AD_AT[n] && <li class="printables-ad" data-at={n}><AdSlot unit={AD_AT[n]!} variant={n === 12 ? "top" : undefined}/></li>}
+      <li class="printable-card" data-printable data-n={n} data-title={i.title.toLowerCase()} data-topic={i.article.category} data-text={`${i.title} ${i.description} ${i.group} ${i.article.title}`.toLowerCase()}>
+        <a class="thumb" href={i.pdf} target="_blank" rel="noopener" aria-label={`Open ${i.title} (PDF, new tab)`}>
+          <Image src={i.preview} alt={i.alt} title={i.title} widths={[240, 360, 480]} sizes="(max-width: 700px) 92vw, (max-width: 1000px) 44vw, 300px" format="webp" quality={62} loading="lazy" decoding="async" />
+          <span class="open" aria-hidden="true">Open PDF ↗</span>
         </a>
-        <p class="cat">{names.get(i.article.category)}</p>
-        <h2>{i.title}</h2>
-        <p class="description">{i.description}</p>
-        <p class="pmeta">{`PDF · ${i.pages} ${i.pages === 1 ? "page" : "pages"} · ${i.paper}`}</p>
-        <div class="btns"><a class="btn pdf" href={i.pdf} download type="application/pdf">PDF</a><a class="btn png" href={i.png} download type="image/png">PNG</a></div>
-        <a class="printable-source" href={`/news/${i.article.id}/`}>{i.article.title} →</a>
+        <div class="body">
+          <p class="cat" data-cat={i.article.category}>{names.get(i.article.category)}</p>
+          <h2>{i.title}</h2>
+          <p class="description">{i.description}</p>
+          <ul class="pmeta" aria-label="File details">
+            <li>{i.pages} {i.pages === 1 ? "page" : "pages"}</li><li>{i.paper}</li>{i.inkSaver && <li class="ink">Low-ink version</li>}
+          </ul>
+          <div class="btns">
+            <a class="btn pdf" href={i.pdf} download type="application/pdf">Download PDF</a>
+            <a class="btn png" href={i.png} download type="image/png" aria-label={`Download ${i.title} as PNG image`}>PNG</a>
+          </div>
+          {i.inkSaver && <a class="inklink" href={i.inkSaver.pdf} download type="application/pdf">Low-ink PDF (uses less toner)</a>}
+          <a class="printable-source" href={i.article.href}><span>From the story · {formatDateET(i.article.publishedAt)}</span>{i.article.title}</a>
+        </div>
       </li>
       </>
     ))}
     </ul>
-    <p class="none" id="pr-none" hidden>No printables match. Clear the search or pick another topic.</p>
+    <div class="none" id="pr-none" hidden><p><b>No printables match.</b> Try a shorter word, or look in all topics.</p><button type="button" class="btn png" data-printables-reset>Clear filters</button></div>
+    <div class="more-wrap"><button type="button" class="more" id="pr-more" hidden>Show more printables</button></div>
     <AdSlot unit={5} />
     <p class="terms">Free for personal, classroom and office use. See our <a href="/page/terms-of-use/">terms of use</a> for sharing and reuse.</p>
   </div>
   </div>
-  <script is:inline>
+  <script is:inline define:vars={{ PAGE }}>
     (() => {
-      const q = document.getElementById("pr-q"), count = document.getElementById("pr-count"), none = document.getElementById("pr-none");
-      const btns = [...document.querySelectorAll(".topics button")];
-      let topic = "";
-      const run = () => {
-        const terms = q.value.toLowerCase().split(/\s+/).filter(Boolean);
-        let n = 0;
-        for (const card of document.querySelectorAll("[data-printable]")) {
-          const ok = (!topic || card.dataset.topic === topic) && terms.every(t => card.dataset.text.includes(t));
-          card.hidden = !ok; if (ok) n++;
-        }
-        document.querySelectorAll('.printables-ad').forEach(ad => ad.hidden = !!topic || terms.length > 0);
-        count.textContent = n === 1 ? "1 printable" : n + " printables";
-        none.hidden = n > 0;
+      const q = document.getElementById("pr-q"), sort = document.getElementById("pr-sort"), grid = document.getElementById("pr-grid");
+      const count = document.getElementById("pr-count"), none = document.getElementById("pr-none"), more = document.getElementById("pr-more");
+      const btns = [...document.querySelectorAll(".topics button")], resets = document.querySelectorAll("[data-printables-reset]");
+      const cards = [...grid.querySelectorAll("[data-printable]")], ads = [...grid.querySelectorAll(".printables-ad")];
+      let topic = "", limit = PAGE;
+      const params = new URLSearchParams(location.search);
+      if (params.get("q")) q.value = params.get("q");
+      if (btns.some((b) => b.dataset.topic === params.get("topic"))) topic = params.get("topic");
+      if (params.get("sort") === "az") sort.value = "az";
+      const order = () => {
+        const az = sort.value === "az";
+        const sorted = [...cards].sort((a, b) => az ? a.dataset.title.localeCompare(b.dataset.title) : a.dataset.n - b.dataset.n);
+        // Ads keep their slot only in the default order; sorted or filtered views are just cards.
+        for (const c of sorted) { const ad = !az && ads.find((x) => x.dataset.at === c.dataset.n); if (ad) grid.append(ad); grid.append(c); }
       };
-      q.addEventListener("input", run);
-      document.querySelector('[data-printables-reset]').addEventListener('click',()=>{q.value='';topic='';btns.forEach(b=>b.setAttribute('aria-pressed',String(!b.dataset.topic)));run();});
-      for (const b of btns) b.addEventListener("click", () => { topic = b.dataset.topic; btns.forEach((x) => x.setAttribute("aria-pressed", String(x === b))); run(); });
+      const run = (keepLimit) => {
+        if (!keepLimit) limit = PAGE;
+        const terms = q.value.toLowerCase().split(/\s+/).filter(Boolean);
+        const filtered = !!topic || terms.length > 0;
+        let n = 0, shown = 0;
+        for (const card of grid.querySelectorAll("[data-printable]")) {
+          const ok = (!topic || card.dataset.topic === topic) && terms.every((t) => card.dataset.text.includes(t));
+          if (ok) n++;
+          card.hidden = !ok || n > limit;
+          if (!card.hidden) shown++;
+        }
+        ads.forEach((ad) => (ad.hidden = filtered || sort.value === "az" || Number(ad.dataset.at) >= limit));
+        btns.forEach((b) => b.setAttribute("aria-pressed", String(b.dataset.topic === topic)));
+        count.textContent = (n === 1 ? "1 printable" : n + " printables") + (n > shown ? ` · showing ${shown}` : "");
+        none.hidden = n > 0;
+        more.hidden = n <= limit;
+        more.textContent = `Show ${Math.min(PAGE, n - limit)} more (${n - limit} left)`;
+        resets[0].hidden = !filtered;
+        const p = new URLSearchParams();
+        if (topic) p.set("topic", topic);
+        if (terms.length) p.set("q", q.value.trim());
+        if (sort.value === "az") p.set("sort", "az");
+        history.replaceState(null, "", location.pathname + (p.size ? "?" + p : "") + location.hash);
+      };
+      q.addEventListener("input", () => run());
+      sort.addEventListener("change", () => { order(); run(); });
+      more.addEventListener("click", () => {
+        const first = grid.querySelectorAll("[data-printable]:not([hidden])").length;
+        limit += PAGE; run(true);
+        grid.querySelectorAll("[data-printable]:not([hidden]) .btn.pdf")[first]?.focus({ preventScroll: true });
+      });
+      resets.forEach((r) => r.addEventListener("click", () => { q.value = ""; topic = ""; run(); q.focus(); }));
+      for (const b of btns) b.addEventListener("click", () => { topic = b.dataset.topic; run(); });
+      if (sort.value === "az") order();
+      run();
     })();
   </script>
 </NewsBase>
 <style>
-.hub .news-lede{max-width:80ch;margin:12px 0 20px}.tools{border:1px solid var(--line);border-radius:10px;padding:14px;background:var(--surface-soft);display:grid;grid-template-columns:minmax(0,1fr) auto;gap:12px;margin:20px 0 24px}.q{grid-column:1/-1}.q span{display:block;font-size:11px;font-weight:700;margin-bottom:7px;color:var(--ink-strong)}.q input{width:100%;max-width:420px;min-height:36px;padding:7px 12px;border:1px solid var(--line);font:inherit;font-size:12px;border-radius:6px;background:var(--paper);color:var(--ink-strong)}.topics{display:flex;flex-wrap:wrap;grid-column:1/-1;gap:6px}.topics button{display:inline-flex;align-items:center;gap:5px;min-height:30px;padding:6px 10px;font:700 11px Manrope,sans-serif;border:1px solid var(--line);border-radius:6px;background:var(--paper);color:var(--ink-strong);cursor:pointer}.topics button span{display:grid;place-items:center;font-size:11px;min-width:17px;height:17px;border-radius:12px;background:var(--surface-soft)}.topics button[aria-pressed=true]{background:var(--focus);border-color:var(--focus);color:#fff}.topics button[aria-pressed=true] span{background:#fff;color:var(--focus)}.count{font-size:11px;grid-column:1;margin:0;color:var(--ink)}.reset-printables{grid-column:2;grid-row:3;border:0;background:none;color:var(--focus);font-size:11px;cursor:pointer;padding:0;text-align:right}
-.printables-grid{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:18px;list-style:none;padding:0;margin:0}.printable-card{display:flex;flex-direction:column;border:1px solid var(--line);border-radius:8px;padding:10px;background:var(--paper);min-width:0}.thumb{display:block;background:#f6f8fb;border:1px solid var(--line-soft);border-radius:5px}.thumb :global(img){display:block;height:245px;object-fit:contain;width:100%;background:#fff;border-radius:5px}.cat{font-size:11px;font-weight:700;color:var(--focus);text-transform:uppercase;letter-spacing:.04em;margin:12px 0 6px}.printable-card h2{font:700 12px/1.45 Sora,sans-serif;letter-spacing:-.02em;color:var(--ink-strong);margin:0 0 7px}.description{font-size:11px;line-height:1.65;margin:0 0 7px}.pmeta{font-size:11px;color:var(--muted);margin:0 0 10px}.btns{display:flex;gap:6px;margin-top:auto}.btn{font-size:11px;font-weight:700;border-radius:5px;min-height:32px;padding:7px 12px;text-decoration:none;display:inline-flex;align-items:center}.btn.pdf{background:var(--focus);color:#fff!important}.btn.png{border:1px solid var(--line);color:var(--ink-strong);background:var(--paper)}.printable-source{font-size:11px;line-height:1.5;margin-top:12px;padding-top:10px;border-top:1px solid var(--line-soft);text-decoration:none;color:var(--focus)}.printables-ad{grid-column:1/-1}.printables-ad :global(.ad-slot){margin:0}.terms{font-size:11px;color:var(--muted);margin-top:24px}.none{font-size:13px;padding:25px;border:1px solid var(--line);border-radius:8px}
-@media(max-width:1000px){.printables-grid{grid-template-columns:repeat(2,minmax(0,1fr))}.thumb :global(img){height:220px}}
-@media(max-width:700px){.printables-grid{gap:10px}.printable-card{padding:7px}.thumb :global(img){height:185px}.printable-card h2{font-size:11px}.description{font-size:11px}.tools{padding:12px}.topics button{min-height:32px}.printable-source{font-size:11px}}
-@media(max-width:360px){.printables-grid{grid-template-columns:1fr}.thumb :global(img){height:260px}}
+.hub .news-lede{max-width:80ch;margin:12px 0 20px}
+.steps{list-style:none;counter-reset:s;display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:12px;margin:0 0 20px;padding:0}
+.steps li{counter-increment:s;display:grid;grid-template-columns:auto 1fr;gap:2px 12px;align-items:start;padding:14px;border:1px solid var(--line);border-radius:10px;background:var(--paper)}
+.steps li::before{content:counter(s);grid-row:span 2;display:grid;place-items:center;width:32px;height:32px;border-radius:50%;background:var(--surface-tint);color:var(--focus);font:700 15px Sora,sans-serif}
+.steps b{font:700 14px/1.3 Sora,sans-serif;color:var(--ink-strong)}
+.steps span{font-size:13px;line-height:1.5;color:var(--ink)}
+.tools{border:1px solid var(--line);border-radius:12px;padding:16px;background:var(--surface-soft);display:grid;gap:14px;margin:0 0 24px}
+.tools-row{display:flex;flex-wrap:wrap;gap:10px;align-items:center}
+.q{flex:1 1 320px;position:relative;display:block}
+.q svg{position:absolute;left:14px;top:50%;transform:translateY(-50%);z-index:1;pointer-events:none;color:var(--muted)}
+.q input{width:100%;min-height:48px;padding:10px 14px 10px 42px;border:1px solid var(--line);font:inherit;font-size:15px;border-radius:10px;background:var(--paper);color:var(--ink-strong)}
+.q input:focus{outline:3px solid var(--focus);outline-offset:1px;border-color:var(--focus)}
+.sort{display:flex;align-items:center;gap:8px;font-size:13px;font-weight:700;color:var(--ink-strong)}
+.sort select{min-height:48px;padding:0 12px;border:1px solid var(--line);border-radius:10px;background:var(--paper);color:var(--ink-strong);font:inherit;font-size:14px}
+.topics{display:flex;flex-wrap:wrap;gap:8px}
+.topics button{display:inline-flex;align-items:center;gap:7px;min-height:40px;padding:0 14px;font:700 13px Manrope,sans-serif;border:1px solid var(--line);border-radius:999px;background:var(--paper);color:var(--ink-strong);cursor:pointer}
+.topics button:hover{border-color:var(--focus)}
+.topics button span{display:grid;place-items:center;font-size:12px;min-width:22px;height:20px;padding:0 6px;border-radius:12px;background:var(--surface-soft);color:var(--ink)}
+.topics button[aria-pressed=true]{background:var(--focus);border-color:var(--focus);color:#fff}
+.topics button[aria-pressed=true] span{background:#fff;color:var(--focus)}
+.tools-foot{display:flex;justify-content:space-between;align-items:center;gap:10px;min-height:28px}
+.count{font-size:14px;font-weight:700;margin:0;color:var(--ink-strong)}
+.reset{border:0;background:none;color:var(--focus);font-size:14px;font-weight:700;cursor:pointer;padding:8px 0;text-decoration:underline}
+.printables-grid{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:20px;list-style:none;padding:0;margin:0}
+.printable-card{display:flex;flex-direction:column;border:1px solid var(--line);border-radius:12px;background:var(--paper);min-width:0;overflow:hidden;transition:box-shadow .2s ease,border-color .2s ease}
+.printable-card:hover{border-color:var(--focus);box-shadow:var(--n-shadow-h)}
+.printable-card[hidden],.printables-ad[hidden]{display:none}
+.thumb{position:relative;display:block;padding:16px 16px 0;background:var(--surface-soft);border-bottom:1px solid var(--line-soft)}
+.thumb :global(img){display:block;width:100%;height:auto;aspect-ratio:17/22;object-fit:cover;object-position:top;background:#fff;border-radius:4px 4px 0 0;box-shadow:0 2px 10px rgba(16,24,40,.12)}
+.open{position:absolute;right:12px;top:12px;padding:6px 10px;border-radius:999px;background:var(--ink-strong);color:var(--paper);font-size:12px;font-weight:700;opacity:0;transition:opacity .15s ease}
+.thumb:hover .open,.thumb:focus-visible .open{opacity:1}
+.body{display:flex;flex-direction:column;flex:1;padding:14px 16px 16px}
+.cat{font-size:12px;font-weight:700;color:var(--focus);text-transform:uppercase;letter-spacing:.05em;margin:0 0 6px}
+.printable-card h2{font:700 16px/1.35 Sora,sans-serif;letter-spacing:-.02em;color:var(--ink-strong);margin:0 0 8px}
+.description{font-size:14px;line-height:1.55;margin:0 0 10px;color:var(--ink);display:-webkit-box;-webkit-line-clamp:3;-webkit-box-orient:vertical;overflow:hidden}
+.pmeta{list-style:none;display:flex;flex-wrap:wrap;gap:6px;margin:0 0 14px;padding:0}
+.pmeta li{font-size:12px;font-weight:700;padding:3px 9px;border-radius:999px;background:var(--surface-soft);color:var(--ink)}
+.pmeta .ink{background:var(--surface-tint);color:var(--focus)}
+.btns{display:flex;gap:8px;margin-top:auto}
+.btn{font-size:14px;font-weight:700;border-radius:8px;min-height:44px;padding:0 16px;text-decoration:none!important;display:inline-flex;align-items:center;justify-content:center;cursor:pointer}
+.btn.pdf{flex:1;background:var(--focus);color:#fff!important;border:1px solid var(--focus)}
+.btn.pdf:hover,.btn.pdf:focus-visible{background:var(--ink-strong);border-color:var(--ink-strong)}
+.btn.png{border:1px solid var(--line);color:var(--ink-strong)!important;background:var(--paper)}
+.btn.png:hover,.btn.png:focus-visible{border-color:var(--focus);color:var(--focus)!important}
+.inklink{display:inline-flex;align-items:center;min-height:40px;font-size:13px;font-weight:700;color:var(--focus)}
+.printable-source{display:grid;gap:2px;font-size:13px;line-height:1.45;margin-top:12px;padding-top:12px;border-top:1px solid var(--line-soft);text-decoration:none;color:var(--ink-strong)!important;font-weight:700}
+.printable-source span{font-size:12px;font-weight:400;color:var(--muted)}
+.printable-source:hover{text-decoration:underline}
+.printables-ad{grid-column:1/-1}.printables-ad :global(.ad-slot){margin:0}
+.more-wrap{display:flex;justify-content:center;margin:28px 0}
+.more{min-height:48px;padding:0 28px;border-radius:999px;border:1px solid var(--focus);background:var(--paper);color:var(--focus);font:700 15px Manrope,sans-serif;cursor:pointer}
+.more:hover,.more:focus-visible{background:var(--focus);color:#fff}
+.more[hidden]{display:none}
+.terms{font-size:13px;color:var(--muted);margin-top:24px}
+.none{display:flex;flex-wrap:wrap;align-items:center;justify-content:space-between;gap:12px;font-size:15px;padding:20px;border:1px dashed var(--line);border-radius:12px;color:var(--ink)}
+.none p{margin:0}.none b{color:var(--ink-strong)}
+.none[hidden]{display:none}
+@media(max-width:1000px){.printables-grid{grid-template-columns:repeat(2,minmax(0,1fr))}.steps{grid-template-columns:1fr}}
+@media(max-width:700px){.printables-grid{grid-template-columns:1fr;gap:14px}.tools{padding:12px}.sort{flex:1 1 100%}.sort select{flex:1}.topics{flex-wrap:nowrap;overflow-x:auto;margin:0 -12px;padding:0 12px 4px;scrollbar-width:thin}.topics button{flex:0 0 auto}.printable-card{display:grid;grid-template-columns:120px minmax(0,1fr)}.thumb{padding:10px;border-bottom:0;border-right:1px solid var(--line-soft)}.open{display:none}.body{padding:12px}.printable-card h2{font-size:15px}.description{-webkit-line-clamp:2;font-size:13px}.btns{flex-wrap:wrap}.btn{padding:0 12px}}
+@media print{.tools,.steps,.more-wrap{display:none}}
 </style>
