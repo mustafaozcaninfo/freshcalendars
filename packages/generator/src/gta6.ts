@@ -14,7 +14,7 @@ const MARKS: [number, number, string][] = [
   [10, 1, "Clocks fall back 1 hour"],
   [10, 9, "Take-Two results, 4:30 p.m. ET"],
   [10, 12, "Pre-load opens; boxed copy on sale"],
-  [10, 19, "LAUNCH: PS5 and Xbox Series X<span class=\"pipe\">|</span>S"],
+  [10, 19, "LAUNCH: PS5 and Xbox Series X|S"],
   [10, 20, "Pre-order bonus window closes"],
 ];
 
@@ -50,14 +50,13 @@ function countdown(fonts: string): string {
   .gc .plan{display:grid;grid-template-columns:1fr 1fr 1fr;gap:10px;margin-top:12px}
   .gc .plan div{border:1.4px solid #e9d5ff;border-radius:8px;padding:8px 10px;height:66px;font-size:10px;color:#334155}
   .gc .plan b{display:block;font-family:Sora;font-size:10.5px;color:#3b0764;margin-bottom:3px}
-  .gc .pipe{font-family:Arial,sans-serif;font-weight:700}
   .gc .note{margin-top:10px;font-size:8.8px;color:#5a6b75;line-height:1.45}`;
   const page = `<section class="page gc"><h1>GTA 6 Countdown Calendar, Oct. 18-Nov. 21, 2026</h1>
     <p class="sub">Grand Theft Auto VI launches Thursday, Nov. 19, 2026 · every box shows the days left · marked dates are confirmed by Rockstar Games, Take-Two or PlayStation</p>
     <div class="dow"><div>Sun</div><div>Mon</div><div>Tue</div><div>Wed</div><div>Thu</div><div>Fri</div><div>Sat</div></div>
     <div class="grid">${cells.join("")}</div>
     <div class="key"><span class="k1">Thursday (Rockstar's usual news day, not a promise)</span><span class="k2">Confirmed date</span><span class="k3">Launch day</span></div>
-    <div class="plan"><div><b>My platform</b>PlayStation 5 · Xbox Series X<span class="pipe">|</span>S</div><div><b>Free storage needed</b>Check the store listing before Nov. 12</div><div><b>Day off / plans</b></div></div>
+    <div class="plan"><div><b>My platform</b>PlayStation 5 · Xbox Series X|S</div><div><b>Free storage needed</b>Check the store listing before Nov. 12</div><div><b>Day off / plans</b></div></div>
     <p class="note">Sources: Take-Two Interactive press releases of June 24 and Oct. 13, 2026; Rockstar Games Newswire; PlayStation Blog. Pre-loading for digital pre-orders and the boxed edition (a download code, no disc) start Nov. 12; pre-orders and purchases before Nov. 20 include the Vintage Vice City Pack. Standard Edition $79.99, Ultimate Edition $99.99. Rated M for Mature 17+ by the ESRB. Not affiliated with Rockstar Games.</p>
     <div class="foot">Free printable from Fresh Calendars · freshcalendars.com/news/gta-6-october-22-2026-what-is-confirmed-release-countdown/</div></section>`;
   return doc(fonts, LETTER, css, [page]);

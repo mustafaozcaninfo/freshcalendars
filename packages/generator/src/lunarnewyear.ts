@@ -163,7 +163,7 @@ function lunarYear(days: LunarDay[], fonts: string): string {
   .l3 th{font-family:Sora;font-weight:700;font-size:8.4px;color:#7a5a4a;padding:2px 0}
   .l3 td{text-align:center;padding:1.5px 0;height:30px;vertical-align:top}
   .l3 td b{display:block;font-size:11px;color:${INK}}
-  .l3 td span{display:block;font-size:7.8px;color:#9a6a20}
+  .l3 td span{display:block;font-size:8px;color:#9a6a20}
   .l3 td.m1 span{color:#fff;background:${RED};border-radius:3px;margin:0 2px;font-weight:700}
   .l3 td.f{background:#ffe2a8;border-radius:4px}
   .l3 td.t b{text-decoration:underline;text-decoration-color:${RED};text-underline-offset:2px}

@@ -172,7 +172,7 @@ function withHolidays(f: string): string {
   .t1 .c:nth-child(7n){border-right:0}
   .t1 .n{font-size:21px;color:#0b1f3a}
   .t1 .we .n{color:#14548a}
-  .t1 .out .n{color:#b5c2d1;font-size:15px}
+  .t1 .out .n{color:#788fab;font-size:15px}
   .t1 .hol{background:#fff3f3}
   .t1 .hol .n{color:#c62828}
   .t1 .h{color:#c62828;font-size:11px;margin-top:6px}
@@ -197,7 +197,7 @@ function landscape(f: string): string {
   .t2 .c{border:1.5px solid #9fb6d3;border-radius:8px;padding:7px 9px}
   .t2 .n{font-size:22px;color:#0b1f3a}
   .t2 .out{border-style:dashed;border-color:#d3dce8}
-  .t2 .out .n{color:#b5c2d1;font-size:15px}
+  .t2 .out .n{color:#788fab;font-size:15px}
   .t2 .hol{border-color:#c62828;background:#fff6f6}
   .t2 .hol .n,.t2 .h{color:#c62828}
   .t2 .h{font-size:11px;margin-top:6px}
@@ -222,7 +222,7 @@ function mondayWeeks(f: string): string {
   .t3 .c{border-left:1px solid #d5dde6;border-bottom:1px solid #d5dde6;padding:8px}
   .t3 .n{font-size:24px;color:#0b1f3a}
   .t3 .we{background:#fafbfc}
-  .t3 .out .n{color:#b5c2d1;font-size:15px}
+  .t3 .out .n{color:#788fab;font-size:15px}
   .t3 .hol .n,.t3 .h{color:#c62828}
   .t3 .h{font-size:11px;margin-top:6px}
   .t3 .legend{margin-top:10px;font-size:10.5px;color:#37474f}`;
@@ -244,7 +244,7 @@ function blank(f: string): string {
   .t4 .c{border-right:1px solid #cfd8dc;border-bottom:1px solid #cfd8dc;padding:6px 8px;text-align:right}
   .t4 .c:nth-child(7n){border-right:0}
   .t4 .n{font-family:Manrope;font-weight:700;font-size:17px;color:#37474f}
-  .t4 .out .n{color:#cfd8dc}`;
+  .t4 .out .n{color:#78919d}`;
   const g = grid({ start: 0, names: DOW3, cell: (c) => `<span class="n">${c.d}</span>` });
   return doc(f, LETTER, css, [`<section class="page t4"><h1>January 2027<span>Blank Calendar</span></h1>${g}<div class="foot">${FOOT}</div></section>`]);
 }
@@ -262,7 +262,7 @@ function planner(f: string): string {
   .t5 .c{border-right:1px solid #e1d3ee;border-top:1px solid #e1d3ee;padding:6px 7px}
   .t5 .c:nth-child(7n){border-right:0}
   .t5 .n{font-size:17px;color:#311b92}
-  .t5 .out .n{color:#c9bfd8;font-size:13px}
+  .t5 .out .n{color:#9884b4;font-size:13px}
   .t5 .hol{background:#fbf3ff}
   .t5 .hol .n,.t5 .h{color:#c62828}
   .t5 .h{font-size:10px;margin-top:4px}
@@ -325,7 +325,7 @@ function moonPhases(f: string): string {
   .t7 .c{border-right:1px solid #d6d9ee;border-top:1px solid #d6d9ee;padding:7px 8px}
   .t7 .c:nth-child(7n){border-right:0}
   .t7 .n{font-size:20px;color:#1a237e}
-  .t7 .out .n{color:#c3c8e4;font-size:14px}
+  .t7 .out .n{color:#7e89c5;font-size:14px}
   .t7 .mp{position:absolute;right:7px;bottom:7px;text-align:right;font-size:9.5px;font-weight:700;color:#283593;line-height:1.2}
   .t7 .mp svg{display:block;margin:0 0 3px auto}
   .t7 .hol .n,.t7 .h{color:#c62828}
@@ -354,7 +354,7 @@ function coloring(f: string): string {
   .t8 .c{border:2.5px solid #1d2a3a;border-radius:14px;display:flex;align-items:center;justify-content:center;flex-direction:column}
   .t8 .n{font-family:Sora;font-weight:800;font-size:44px;color:#fff;-webkit-text-stroke:2px #1d2a3a}
   .t8 .out{border:2px dashed #b0bec5}
-  .t8 .out .n{font-size:22px;-webkit-text-stroke:1.2px #b0bec5}
+  .t8 .out .n{font-size:22px;-webkit-text-stroke:1.2px #78919d}
   .t8 .h{font-family:Manrope;font-size:9.5px;color:#1d2a3a;text-align:center;margin-top:4px;padding:0 3px}
   .t8 .legend{margin-top:10px;font-size:11px;color:#37474f;text-align:center}`;
   const g = grid({ start: 0, names: DOW3, cell: (c) => `<span class="n">${c.d}</span>${c.inMonth && HOL[c.key] ? `<span class="h">${HOL[c.key]}</span>` : ""}` });
@@ -401,7 +401,7 @@ function habits(f: string): string {
   .t10 .goals b{font-family:Sora;font-size:11px;color:#bf360c;letter-spacing:.08em;text-transform:uppercase}
   .t10 table{width:100%;border-collapse:collapse;table-layout:fixed}
   .t10 th{font-family:Sora;font-size:9px;color:#bf360c;font-weight:700;padding:3px 0;line-height:1.1}
-  .t10 th small{display:block;font-family:Manrope;font-size:7.5px;color:#8d6e63}
+  .t10 th small{display:block;font-family:Manrope;font-size:8px;color:#8d6e63}
   .t10 th.hbh{width:150px;text-align:left;font-size:11px;letter-spacing:.06em;text-transform:uppercase}
   .t10 th.toth{width:34px}
   .t10 td{border:1px solid #f0c8b8;height:49px}
@@ -429,7 +429,7 @@ function keyDates(f: string): string {
   .t11 .c{border-right:1px solid #d5dde6;border-top:1px solid #d5dde6;padding:6px 7px}
   .t11 .c:nth-child(7n){border-right:0}
   .t11 .n{font-size:18px;color:#0b1f3a}
-  .t11 .out .n{color:#b5c2d1;font-size:13px}
+  .t11 .out .n{color:#788fab;font-size:13px}
   .t11 .k{display:flex;align-items:center;gap:4px;margin-top:6px;font-size:9.5px;font-weight:700;line-height:1.15}
   .t11 .k i,.t11 li i{flex:none;display:inline-flex;align-items:center;justify-content:center;width:17px;height:17px;border-radius:50%;color:#fff;font-style:normal;font-size:9.5px;font-family:Sora}
   .t11 ol{list-style:none;margin:16px 0 0;padding:0;columns:1}
@@ -460,7 +460,7 @@ function threeMonth(f: string): string {
   .t12 .c{border-right:1px solid #c9d6e8;border-top:1px solid #c9d6e8;padding:6px 8px}
   .t12 .c:nth-child(7n){border-right:0}
   .t12 .n{font-size:19px;color:#0b1f3a}
-  .t12 .out .n{color:#b5c2d1;font-size:13px}
+  .t12 .out .n{color:#788fab;font-size:13px}
   .t12 .hol .n,.t12 .h{color:#c62828}
   .t12 .h{font-size:10px;margin-top:5px}
   .t12 .side{display:grid;grid-template-columns:1fr 1fr;gap:26px;margin-top:22px}

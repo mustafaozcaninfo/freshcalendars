@@ -39,7 +39,7 @@ function sheet(fonts: string, t: Theme): string {
   while (cells.length % 7) cells.push(`<div class="d empty"></div>`);
   const list = NOV_2026.map(([d, l, k]) => `<li class="${k}"><b>Nov. ${d}</b> ${DOW[new Date(Date.UTC(2026, 10, d)).getUTCDay()].slice(0, 3)}. · ${l}${k === "fed" ? " <em>federal holiday</em>" : ""}</li>`).join("");
   const css = `
-  .${c}{padding:26px 30px 0;color:#1f2937}
+  .${c}{padding:28px 30px 0;color:#1f2937}
   .${c} header{display:flex;justify-content:space-between;align-items:flex-end;border-bottom:4px solid ${t.accent};padding-bottom:7px;margin-bottom:10px}
   .${c} h1{font-family:Sora;font-weight:800;font-size:30px;margin:0;color:${t.ink};line-height:1.05}
   .${c} .sub{margin:4px 0 0;font-size:11px;color:#374151}
