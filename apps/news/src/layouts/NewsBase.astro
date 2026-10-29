@@ -99,7 +99,7 @@ const fontPreload = [
 </head>
 <body>
 <a class="skip-link" href="#main">Skip to content</a>
-<Fragment set:html={siteHeaderHtml(today, { news: true, current: "news" })} />
+<Fragment set:html={siteHeaderHtml(today, { news: true, current: path.startsWith("/news/printables/") ? "printables" : "news" })} />
 <main id="main" class="news-main">
 <slot />
 </main>
@@ -141,7 +141,8 @@ const fontPreload = [
   .news-main :focus-visible{outline:3px solid var(--focus);outline-offset:2px}
   /* Below-the-fold chrome renders only when scrolled near (faster first paint on long stories). */
   html.news .site-footer{content-visibility:auto;contain-intrinsic-size:auto 640px}
-  .news-main a:not(.btn){color:var(--focus)}
+  /* :where keeps this default at class weight, so a component that colors its own links or buttons wins. */
+  .news-main :where(a:not(.btn)){color:var(--focus)}
   /* Ad units: labeled, height reserved before fill (no CLS), collapsed (by the loader, off screen only) if AdSense returns nothing.
      The top unit never collapses: it sits right under the headline, so collapsing it would shift the story. */
   .ad-slot{display:flex;flex-direction:column;align-items:center;justify-content:flex-start;width:100%;min-height:300px;margin:2rem auto;padding:.4rem 0 .6rem;border-top:1px solid var(--line-soft);border-bottom:1px solid var(--line-soft);contain:layout;clear:both}

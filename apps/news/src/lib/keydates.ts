@@ -320,11 +320,14 @@ export function daysUntil(date: string, today: string): number {
 }
 
 /** Upcoming dates (today included) whose story is published, soonest first. */
-export function upcoming(published: Set<string>, limit = 6, now: Date = new Date()): (KeyDate & { days: number })[] {
+export function upcoming(published: Set<string>, limit = 6, now: Date = new Date(), perDay = Infinity): (KeyDate & { days: number })[] {
   for (const k of KEY_DATES) if (!/^\d{4}-\d{2}-\d{2}$/.test(k.date)) throw new Error(`key date "${k.label}": bad date ${k.date}`);
   const today = todayET(now);
+  // perDay caps rows per date, so one busy day does not fill the whole list.
+  const seen = new Map<string, number>();
   return KEY_DATES.filter((k) => k.date >= today && published.has(k.slug))
     .sort((a, b) => a.date.localeCompare(b.date))
+    .filter((k) => { const n = (seen.get(k.date) ?? 0) + 1; seen.set(k.date, n); return n <= perDay; })
     .slice(0, limit)
     .map((k) => ({ ...k, days: daysUntil(k.date, today) }));
 }
