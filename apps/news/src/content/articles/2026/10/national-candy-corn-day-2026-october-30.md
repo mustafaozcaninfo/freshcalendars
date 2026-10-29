@@ -10,7 +10,7 @@ keywords: ["National Candy Corn Day 2026", "candy corn day October 30", "candy c
 hero:
   src: ../../../../assets/news/national-candy-corn-day-2026-october-30/national-candy-corn-day-2026-october-30.webp
   alt: "Close-up of orange, yellow and white candy corn kernels on a reflective surface for National Candy Corn Day 2026"
-  caption: "Candy corn's three colors were layered by hand when the candy was new, HISTORY says. National Candy Corn Day is Oct. 30. File photo, 2006."
+  caption: "Candy corn's three colors were layered by hand when the candy was new, History.com says. National Candy Corn Day is Oct. 30. File photo, 2006."
   credit: "Photo: liz west / Wikimedia Commons, cropped, edited"
   license:
     name: "CC BY 2.0"
@@ -20,7 +20,7 @@ hero:
     authorUrl: "https://flickr.com/people/53133240@N00"
 summary:
   - "National Candy Corn Day is Friday, Oct. 30, 2026, one day before Halloween on Saturday, Oct. 31. It is an informal observance, not a government holiday."
-  - "Oral histories credit George Renninger of the Wunderle Candy Company in Philadelphia with inventing candy corn around the 1880s, HISTORY reports."
+  - "Oral histories credit George Renninger of the Wunderle Candy Company in Philadelphia with inventing candy corn around the 1880s, History.com reports."
   - "Goelitz, now the Jelly Belly Candy Company, sold it as \"Chicken Feed\" from 1898, and October advertising for it rose sharply in the 1950s."
   - "Brach's Classic Candy Corn lists gelatin, honey and sesame oil among its ingredients, which matters for vegetarian, vegan and allergic guests."
 faq:
@@ -29,9 +29,9 @@ faq:
   - q: "Who created National Candy Corn Day?"
     a: "We could not find a documented founder. We found no federal or state proclamation for it either; it is an informal observance listed by museums, calendars and candy fans."
   - q: "Who invented candy corn?"
-    a: "Oral histories name George Renninger, an employee of the Wunderle Candy Company in Philadelphia, around the 1880s, according to HISTORY. Goelitz, now Jelly Belly, popularized it."
+    a: "Oral histories name George Renninger, an employee of the Wunderle Candy Company in Philadelphia, around the 1880s, according to History.com. Goelitz, now Jelly Belly, popularized it."
   - q: "Was candy corn made for Halloween?"
-    a: "No source we checked says so. HISTORY says children likely saw it as a year-round candy, and that October advertising for candy corn spiked starting in the 1950s."
+    a: "No source we checked says so. History.com says children likely saw it as a year-round candy, and that October advertising for candy corn spiked starting in the 1950s."
   - q: "Is candy corn vegetarian?"
     a: "Brach's Classic Candy Corn lists gelatin, an animal product, so it is not vegetarian. It also lists honey and confectioner's glaze (shellac). Check the label of the brand you buy."
 sources:
@@ -41,7 +41,7 @@ sources:
     date: "2023-10-27"
   - title: "Who Invented Candy Corn?"
     url: "https://www.history.com/articles/candy-corn-invented"
-    publisher: "HISTORY"
+    publisher: "History.com"
     date: "2025-10-16"
   - title: "Classic Candy Corn"
     url: "https://www.brachs.com/products/candy-corn"
@@ -85,7 +85,7 @@ assets:
       - { when: "Fri., Oct. 30", what: "Candy Corn Day: set the treat table", section: "Timeline" }
       - { when: "Sat., Oct. 31", what: "Halloween: refill bowls and treat bags", section: "Timeline" }
       - { when: "After", what: "Sort leftovers; keep labels with any you give away", section: "Timeline" }
-    note: "Source: Brach's Classic Candy Corn ingredient list (gelatin, honey, sesame oil, shellac glaze; 15 pieces, 110 calories per serving); U.S. Food and Drug Administration, nine major food allergens; HISTORY; Museum of the Grand Prairie."
+    note: "Source: Brach's Classic Candy Corn ingredient list (gelatin, honey, sesame oil, shellac glaze; 15 pieces, 110 calories per serving); U.S. Food and Drug Administration, nine major food allergens; History.com; Museum of the Grand Prairie."
     description: "A one-page Candy Corn Day and Halloween party checklist for Oct. 30-31, 2026: treats, allergen labels, supplies, a three-day timeline and a notes area."
     alt: "Printable Candy Corn Day party checklist for Oct. 30, 2026 with treats, allergen labels, supplies and a timeline"
 downloads:
@@ -126,13 +126,13 @@ For the full Halloween date answer, see [when is Halloween](/when-is/halloween/)
 
 ## Who invented candy corn?
 
-The short answer rests on oral history. HISTORY's article on the candy says "oral histories identify the inventor of candy corn as George Renninger, an employee at Wunderle Candy Company in Philadelphia," and that the candy "seems to have come out around the 1880s." Wunderle was the first company to sell the multicolored treats, made of sugar and corn syrup, HISTORY says. What set them apart was "three hand-layered colors."
+The short answer rests on oral history. History.com's article on the candy says "oral histories identify the inventor of candy corn as George Renninger, an employee at Wunderle Candy Company in Philadelphia," and that the candy "seems to have come out around the 1880s." Wunderle was the first company to sell the multicolored treats, made of sugar and corn syrup, History.com says. What set them apart was "three hand-layered colors."
 
-The Goelitz company, now the Jelly Belly Candy Company, made candy corn famous. HISTORY says Goelitz picked up the recipe in 1898 and sold the kernels as "Chicken Feed." The Museum of the Grand Prairie adds that Goelitz bought the recipe from Wunderle and that the company had been founded in 1869 by Gustav Goelitz.
+The Goelitz company, now the Jelly Belly Candy Company, made candy corn famous. History.com says Goelitz picked up the recipe in 1898 and sold the kernels as "Chicken Feed." The Museum of the Grand Prairie adds that Goelitz bought the recipe from Wunderle and that the company had been founded in 1869 by Gustav Goelitz.
 
 ## How did candy corn become a Halloween candy?
 
-Slowly. HISTORY says children of the late 1800s "most likely thought of them as candies to eat year-round," and that "there was a dramatic spike in October advertising of candy corn beginning in the 1950s." You can still buy it year-round. The October 30 date fits that later Halloween link, but no record we found shows who picked it.
+Slowly. History.com says children of the late 1800s "most likely thought of them as candies to eat year-round," and that "there was a dramatic spike in October advertising of candy corn beginning in the 1950s." You can still buy it year-round. The October 30 date fits that later Halloween link, but no record we found shows who picked it.
 
 ## What is in candy corn?
 
