@@ -11,7 +11,7 @@ hero:
   src: ../../../../assets/news/heisman-trophy-2026-ceremony-date-finalists-voting-deadline/heisman-trophy-2026-ceremony-date-finalists-voting-deadline.webp
   alt: "A Heisman Trophy statue on a stand, shown for the Heisman Trophy 2026 date and voting timeline"
   caption: "File photo of a Heisman Memorial Trophy on display. The 2026 winner is announced Saturday, Dec. 12."
-  credit: "Photo: Wisconsin Athletics / Wikimedia Commons, cropped"
+  credit: "Photo: Wisconsin Athletics / Wikimedia Commons, cropped, edited"
   license:
     name: "CC0"
     url: "http://creativecommons.org/publicdomain/zero/1.0/deed.en"
@@ -75,6 +75,23 @@ assets:
     description: "One-page printable timeline of the 2026 Heisman Trophy dates: ballots out Dec. 3, voting deadline and finalists Dec. 7, ceremony Dec. 12."
     alt: "Printable Heisman Trophy 2026 timeline listing ballots, voting deadline, finalists and ceremony dates"
 draft: false
+downloads:
+  - group: "Heisman Trophy 2026 Timeline printables"
+    title: "Heisman Trophy 2026 Timeline, Dec. 3 to Dec. 12"
+    description: "One-page printable timeline of the 2026 Heisman Trophy dates: ballots out Dec. 3, voting deadline and finalists Dec. 7, ceremony Dec. 12."
+    preview: ../../../../assets/news/heisman-2026/heisman-trophy-2026-timeline-printable.png
+    alt: "Printable Heisman Trophy 2026 timeline listing ballots, voting deadline, finalists and ceremony dates"
+    pdf: "/news/downloads/heisman-2026/heisman-trophy-2026-timeline-printable.pdf"
+    png: "/news/downloads/heisman-2026/heisman-trophy-2026-timeline-printable.png"
+    pages: 1
+  - group: "Heisman Trophy 2026 Timeline printables"
+    title: "Heisman Trophy 2026 Timeline, Dec. 3 to Dec. 12 (ink saver)"
+    description: "One-page printable timeline of the 2026 Heisman Trophy dates: ballots out Dec. 3, voting deadline and finalists Dec. 7, ceremony Dec. 12. Ink-saver version."
+    preview: ../../../../assets/news/heisman-2026/heisman-trophy-2026-timeline-printable-ink.png
+    alt: "Printable Heisman Trophy 2026 timeline listing ballots, voting deadline, finalists and ceremony dates, ink-saver version"
+    pdf: "/news/downloads/heisman-2026/heisman-trophy-2026-timeline-printable-ink.pdf"
+    png: "/news/downloads/heisman-2026/heisman-trophy-2026-timeline-printable-ink.png"
+    pages: 1
 ---
 
 The 2026 Heisman Trophy winner is announced at the Heisman ceremony on Saturday, Dec. 12, 2026, according to the key dates on heisman.com, the website of the Heisman Trophy Trust. Ballots are due Monday, Dec. 7, by 5 p.m. Eastern Time (ET), and the finalists are announced that evening. A free printable timeline with all four dates is below.

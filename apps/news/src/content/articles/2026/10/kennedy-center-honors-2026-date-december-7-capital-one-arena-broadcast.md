@@ -9,10 +9,17 @@ category: planning
 keywords: ["Kennedy Center Honors 2026", "Kennedy Center Honors date", "Kennedy Center Honors Capital One Arena", "Kennedy Center Honors TV broadcast"]
 dateline: "Washington"
 hero:
-  src: ../../../../assets/news/kennedy-center-honors-2026-date-december-7-capital-one-arena-broadcast/kennedy-center-honors-2026-date-december-7-capital-one-arena-broadcast.jpg
+  src: ../../../../assets/news/kennedy-center-honors-2026-date-december-7-capital-one-arena-broadcast/kennedy-center-honors-2026-date-december-7-capital-one-arena-broadcast.webp
+  alt: "Capital One Arena in downtown Washington, D.C., site of the Kennedy Center Honors 2026"
   title: "Kennedy Center Honors: Dec. 7"
-  alt: "Exterior of Capital One Arena in downtown Washington, D.C., the venue for the Kennedy Center Honors 2026"
-  caption: "Capital One Arena in downtown Washington, D.C., where the 49th Kennedy Center Honors are set for Dec. 7, 2026. File photo, not from the event."
+  caption: "Capital One Arena in Washington, file photo. The 49th Kennedy Center Honors take place there Monday, Dec. 7, 2026, AP reported."
+  credit: "Photo: ajay_suresh / Wikimedia Commons, edited"
+  license:
+    name: "CC BY 2.0"
+    url: "https://creativecommons.org/licenses/by/2.0"
+    source: "https://commons.wikimedia.org/wiki/File:Capital_One_Arena_(53840298323).jpg"
+    author: "ajay_suresh"
+    authorUrl: "https://www.flickr.com/people/83136374@N05"
 summary:
   - "The 49th annual Kennedy Center Honors are set for Monday, Dec. 7, 2026, at Capital One Arena in downtown Washington, D.C., a Kennedy Center spokesperson told the Associated Press (AP) on Oct. 2."
   - "Not yet announced: the honorees, the host, the broadcast network and the air date."
@@ -66,6 +73,23 @@ assets:
     inkSaver: true
     description: "One-page checklist of the confirmed 2026 Kennedy Center Honors date and venue and the details not yet announced."
     alt: "Printable watch list for the 2026 Kennedy Center Honors showing the Dec. 7 date and items not yet announced"
+downloads:
+  - group: "Kennedy Center Honors 2026 Watch List printables"
+    title: "Kennedy Center Honors 2026 Watch List"
+    description: "One-page checklist of the confirmed 2026 Kennedy Center Honors date and venue and the details not yet announced."
+    preview: ../../../../assets/news/kennedy-center-honors-2026/kennedy-center-honors-2026-watch-list.png
+    alt: "Printable watch list for the 2026 Kennedy Center Honors showing the Dec. 7 date and items not yet announced"
+    pdf: "/news/downloads/kennedy-center-honors-2026/kennedy-center-honors-2026-watch-list.pdf"
+    png: "/news/downloads/kennedy-center-honors-2026/kennedy-center-honors-2026-watch-list.png"
+    pages: 1
+  - group: "Kennedy Center Honors 2026 Watch List printables"
+    title: "Kennedy Center Honors 2026 Watch List (ink saver)"
+    description: "One-page checklist of the confirmed 2026 Kennedy Center Honors date and venue and the details not yet announced. Ink-saver version."
+    preview: ../../../../assets/news/kennedy-center-honors-2026/kennedy-center-honors-2026-watch-list-ink.png
+    alt: "Printable watch list for the 2026 Kennedy Center Honors showing the Dec. 7 date and items not yet announced, ink-saver version"
+    pdf: "/news/downloads/kennedy-center-honors-2026/kennedy-center-honors-2026-watch-list-ink.pdf"
+    png: "/news/downloads/kennedy-center-honors-2026/kennedy-center-honors-2026-watch-list-ink.png"
+    pages: 1
 ---
 
 The 49th annual Kennedy Center Honors are set for Monday, Dec. 7, 2026, at Capital One Arena in downtown Washington, D.C., according to a Kennedy Center spokesperson quoted by the Associated Press (AP) and CBS News on Oct. 2, 2026. The honorees, the host, the broadcast network and the air date have not been announced.
@@ -78,9 +102,9 @@ The 49th annual Kennedy Center Honors are set for Monday, Dec. 7, 2026, at Capit
 | Date | Monday, Dec. 7, 2026 | AP, Oct. 2, 2026 |
 | Venue | Capital One Arena, downtown Washington, D.C. | AP and CBS News, Oct. 2, 2026 |
 | Honorees | Not yet announced; to be named "at a later day," per the center's spokesperson | AP, Oct. 2, 2026 |
-| Host | Not yet announced | No report found |
+| Host | Not yet announced | Not reported yet |
 | Broadcast network | Not yet announced; expected "later this fall" | CBS News, Oct. 2, 2026 |
-| TV air date | Not yet announced | No report found |
+| TV air date | Not yet announced | Not reported yet |
 
 The date comes from the AP report, which said "the event will take place on Dec. 7." Dec. 7, 2026 is a Monday. Mark it on a [December 2026 printable calendar](/december-calendars.html) and treat the other lines as open until the center says more.
 

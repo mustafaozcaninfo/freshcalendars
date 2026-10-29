@@ -9,12 +9,18 @@ category: planning
 keywords: ["Medicare Part B premium 2027", "Part B premium 2027 projected", "Medicare Part B deductible 2027", "IRMAA 2026 brackets"]
 dateline: "New York"
 hero:
-  src: ../../../../assets/news/medicare-part-b-premium-2027-projected-209-50-when-cms-announces/medicare-part-b-premium-2027-projected-209-50-when-cms-announces.jpg
-  alt: "Medicare Part B premium 2027: the projected $209.50 monthly premium beside the 2026 amount of $202.90"
+  src: ../../../../assets/news/medicare-part-b-premium-2027-projected-209-50-when-cms-announces/medicare-part-b-premium-2027-projected-209-50-when-cms-announces.webp
+  alt: "President Lyndon Johnson signs the Medicare bill in 1965 beside Harry Truman, for the Medicare Part B premium 2027 story"
   title: "Medicare Part B 2027: $209.50 projected"
-  caption: "The Medicare Trustees Report projects a $209.50 Part B premium for 2027; the official amount from CMS had not been announced as of Oct. 28, 2026."
+  caption: "President Lyndon B. Johnson signs the Medicare bill on July 30, 1965, with former President Harry Truman seated beside him."
+  credit: "Photo: White House Press Office / Wikimedia Commons, cropped, edited"
+  license:
+    name: "Public domain"
+    url: "https://creativecommons.org/publicdomain/mark/1.0/"
+    source: "https://commons.wikimedia.org/wiki/File:Lyndon_Johnson_signing_Medicare_bill,_with_Harry_Truman,_July_30,_1965.jpg"
+    author: "White House Press Office"
 summary:
-  - "The Medicare Trustees Report projects a $209.50 standard Part B premium for 2027, up $6.60 from $202.90 in 2026, as reported by AARP and MOAA."
+  - "The Medicare Trustees Report projects a $209.50 standard Part B premium for 2027, up $6.60 from $202.90 in 2026, as reported by AARP and the Military Officers Association of America (MOAA)."
   - "The Centers for Medicare & Medicaid Services (CMS) had not announced the official 2027 amounts as of Oct. 28, 2026."
   - "CMS released the 2025 figures on Nov. 8, 2024 and the 2026 figures on Nov. 14, 2025."
   - "Medicare open enrollment runs from Oct. 15 to Dec. 7, 2026, so the official number may arrive before the window closes."
@@ -42,7 +48,7 @@ sources:
     date: "2026-10-05"
   - title: "Medicare report estimates future Part B premiums. What will you pay in 2027 and beyond?"
     url: "https://www.moaa.org/content/publications-and-media/news-articles/2026-news-articles/finance/medicare-report-estimates-future-part-b-premiums.-what-will-you-pay-in-2027-and-beyond/"
-    publisher: "MOAA"
+    publisher: "Military Officers Association of America"
     date: "2026-06-17"
 internalLinks:
   - href: "/november-calendars.html"
@@ -58,6 +64,7 @@ assets:
   card: { top: "Projected 2027 Part B premium", big: "$209.50", bottom: "2026 premium: $202.90" }
   printable:
     slug: medicare-part-b-2027-announcement-watch-2026
+    year: 2026
     group: medicare-2026
     title: "Medicare Part B 2027 Announcement Watch, 2026"
     subtitle: "Open enrollment dates and the premium figures to compare"
@@ -72,9 +79,26 @@ assets:
     inkSaver: true
     description: "One-page Medicare open enrollment dates with the 2026 Part B premium, the 2027 projection and a line to note the official CMS figure."
     alt: "Printable timeline of Medicare open enrollment dates and Part B premium figures for 2026 and 2027"
+downloads:
+  - group: "Medicare Part B 2027 Announcement Watch printables"
+    title: "Medicare Part B 2027 Announcement Watch, 2026"
+    description: "One-page Medicare open enrollment dates with the 2026 Part B premium, the 2027 projection and a line to note the official CMS figure."
+    preview: ../../../../assets/news/medicare-2026/medicare-part-b-2027-announcement-watch-2026.png
+    alt: "Printable timeline of Medicare open enrollment dates and Part B premium figures for 2026 and 2027"
+    pdf: "/news/downloads/medicare-2026/medicare-part-b-2027-announcement-watch-2026.pdf"
+    png: "/news/downloads/medicare-2026/medicare-part-b-2027-announcement-watch-2026.png"
+    pages: 1
+  - group: "Medicare Part B 2027 Announcement Watch printables"
+    title: "Medicare Part B 2027 Announcement Watch, 2026 (ink saver)"
+    description: "One-page Medicare open enrollment dates with the 2026 Part B premium, the 2027 projection and a line to note the official CMS figure. Ink-saver version."
+    preview: ../../../../assets/news/medicare-2026/medicare-part-b-2027-announcement-watch-2026-ink.png
+    alt: "Printable timeline of Medicare open enrollment dates and Part B premium figures for 2026 and 2027, ink-saver version"
+    pdf: "/news/downloads/medicare-2026/medicare-part-b-2027-announcement-watch-2026-ink.pdf"
+    png: "/news/downloads/medicare-2026/medicare-part-b-2027-announcement-watch-2026-ink.png"
+    pages: 1
 ---
 
-**The Medicare Trustees Report projects a standard Part B premium of $209.50 a month for 2027, up from $202.90 in 2026, but the Centers for Medicare & Medicaid Services (CMS) had not announced the official amount as of Oct. 28, 2026.** AARP reported the projection on Oct. 5, 2026, and MOAA wrote in June that "the annual trustee report projects a $209.50 monthly Part B premium for 2027, up from $202.90 this year." Treat $209.50 as a projection until CMS publishes its fact sheet.
+**The Medicare Trustees Report projects a standard Part B premium of $209.50 a month for 2027, up from $202.90 in 2026, but the Centers for Medicare & Medicaid Services (CMS) had not announced the official amount as of Oct. 28, 2026.** AARP reported the projection on Oct. 5, 2026, and the Military Officers Association of America (MOAA) wrote in June that "the annual trustee report projects a $209.50 monthly Part B premium for 2027, up from $202.90 this year." Treat $209.50 as a projection until CMS publishes its fact sheet.
 
 ## What is the 2027 Part B premium?
 
@@ -95,7 +119,7 @@ CMS has not given a date. It released the 2025 figures on Nov. 8, 2024 and the 2
 
 People with higher incomes pay an income-related monthly adjustment amount (IRMAA) on top of the standard premium. These are the 2026 amounts from the CMS fact sheet released Nov. 14, 2025. The 2027 brackets had not been published when this story was written.
 
-| 2026 income, individual | 2026 income, joint | IRMAA surcharge | Total monthly Part B premium |
+| Income bracket, individual | Income bracket, joint | IRMAA surcharge | Total monthly Part B premium |
 |---|---|---|---|
 | $109,000 or less | $218,000 or less | $0 | $202.90 |
 | $109,001 to $137,000 | $218,001 to $274,000 | $81.20 | $284.10 |

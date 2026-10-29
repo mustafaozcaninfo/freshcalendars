@@ -8,10 +8,17 @@ authors: [alex-morgan]
 category: uk-canada
 keywords: ["canada budget 2026 date", "federal budget 2026 canada", "when is the federal budget", "budget 2026 november 5"]
 hero:
-  src: ../../../../assets/news/canada-budget-2026-date-november-5-what-to-know/canada-budget-2026-date-november-5-what-to-know.jpg
-  alt: "Centre Block on Parliament Hill in Ottawa, where the Canada Budget 2026 will be tabled on Thursday, Nov. 5"
+  src: ../../../../assets/news/canada-budget-2026-date-november-5-what-to-know/canada-budget-2026-date-november-5-what-to-know.webp
+  alt: "Centre Block and the Peace Tower on Parliament Hill in Ottawa, file photo for the Canada budget 2026 date"
   title: "Canada Budget 2026"
-  caption: "Centre Block on Parliament Hill, Ottawa (file photo). Finance Minister François-Philippe Champagne will table Budget 2026 on Thursday, Nov. 5, 2026."
+  caption: "Centre Block on Parliament Hill, Ottawa, file photo. Budget 2026 is set for Thursday, Nov. 5, 2026, The Canadian Press reported."
+  credit: "Photo: Ken Lund from Reno, Nevada, USA / Wikimedia Commons, cropped, edited"
+  license:
+    name: "CC BY-SA 2.0"
+    url: "https://creativecommons.org/licenses/by-sa/2.0"
+    source: "https://commons.wikimedia.org/wiki/File:Centre_Block,_Parliament_Hill,_Ottawa,_Ontario_(30069037625).jpg"
+    author: "Ken Lund from Reno, Nevada, USA"
+    authorUrl: "https://www.flickr.com/people/75683070@N00"
 summary:
   - "The federal Liberal government will table its 2026 federal budget on Thursday, Nov. 5, 2026, The Canadian Press reported on Oct. 20, 2026."
   - "Finance Minister François-Philippe Champagne gave the date in question period on Tuesday, Oct. 20, according to The Canadian Press."
@@ -74,6 +81,23 @@ assets:
     inkSaver: true
     description: "One-page timeline from Budget 2025 on Nov. 4, 2025 to the Canada Budget 2026 on Thu., Nov. 5, 2026, with the consultation dates."
     alt: "Printable timeline of Canada federal budget dates from Budget 2025 to Budget 2026"
+downloads:
+  - group: "Canada Federal Budget Timeline printables"
+    title: "Canada Federal Budget Timeline, Nov. 5, 2026"
+    description: "One-page timeline from Budget 2025 on Nov. 4, 2025 to the Canada Budget 2026 on Thu., Nov. 5, 2026, with the consultation dates."
+    preview: ../../../../assets/news/canada-budget-2026/canada-budget-2026-timeline.png
+    alt: "Printable timeline of Canada federal budget dates from Budget 2025 to Budget 2026"
+    pdf: "/news/downloads/canada-budget-2026/canada-budget-2026-timeline.pdf"
+    png: "/news/downloads/canada-budget-2026/canada-budget-2026-timeline.png"
+    pages: 1
+  - group: "Canada Federal Budget Timeline printables"
+    title: "Canada Federal Budget Timeline, Nov. 5, 2026 (ink saver)"
+    description: "One-page timeline from Budget 2025 on Nov. 4, 2025 to the Canada Budget 2026 on Thu., Nov. 5, 2026, with the consultation dates. Ink-saver version."
+    preview: ../../../../assets/news/canada-budget-2026/canada-budget-2026-timeline-ink.png
+    alt: "Printable timeline of Canada federal budget dates from Budget 2025 to Budget 2026, ink-saver version"
+    pdf: "/news/downloads/canada-budget-2026/canada-budget-2026-timeline-ink.pdf"
+    png: "/news/downloads/canada-budget-2026/canada-budget-2026-timeline-ink.png"
+    pages: 1
 ---
 
 The federal Liberal government will table its 2026 federal budget on Thursday, Nov. 5, 2026, according to The Canadian Press, which reported the date on Oct. 20, 2026. Finance Minister François-Philippe Champagne announced it in question period that Tuesday. Counted from Wednesday, Oct. 28, the budget is eight days away. A one-page timeline is in the downloads for printing.

@@ -244,6 +244,21 @@ export const KEY_DATES: KeyDate[] = [
   { date: "2026-11-27", label: "Day after Thanksgiving: state offices closed in 19 states", slug: "is-the-day-after-thanksgiving-a-state-holiday-2026-states-closed-november-27" },
   { date: "2026-10-30", label: "Dexter: Resurrection Season 2 returns on Paramount+", slug: "new-on-paramount-plus-november-2026-yellowjackets-final-season" },
   { date: "2026-11-20", label: "Yellowjackets final season premieres on Paramount+", slug: "new-on-paramount-plus-november-2026-yellowjackets-final-season" },
+  { date: "2026-11-05", label: "Canada federal Budget 2026 tabled", slug: "canada-budget-2026-date-november-5-what-to-know" },
+  { date: "2026-12-07", label: "Heisman Trophy voting deadline (5 p.m. ET) and finalists", slug: "heisman-trophy-2026-ceremony-date-finalists-voting-deadline" },
+  { date: "2026-12-12", label: "Heisman Trophy ceremony", slug: "heisman-trophy-2026-ceremony-date-finalists-voting-deadline" },
+  { date: "2027-01-17", label: "Australian Open 2027 main draw begins", slug: "australian-open-2027-dates-schedule-us-uk-time-zones-tv" },
+  { date: "2027-02-21", label: "Daytona 500", slug: "nascar-cup-schedule-2027-daytona-500-february-21-full-race-list" },
+  { date: "2026-12-04", label: "Conference title games: Big 12, Pac-12, Sun Belt, Mountain West, CUSA", slug: "college-football-conference-championship-games-2026-schedule-times-tv" },
+  { date: "2026-12-05", label: "Conference title games: SEC, Big Ten, ACC, MAC, American", slug: "college-football-conference-championship-games-2026-schedule-times-tv" },
+  { date: "2026-12-06", label: "College Football Playoff Selection Day", slug: "college-football-conference-championship-games-2026-schedule-times-tv" },
+  { date: "2026-12-07", label: "49th Kennedy Center Honors, Capital One Arena", slug: "kennedy-center-honors-2026-date-december-7-capital-one-arena-broadcast" },
+  { date: "2026-12-22", label: "FedEx 2Day last ship date for Christmas Eve delivery (reported)", slug: "fedex-ups-holiday-shipping-deadlines-2026-christmas" },
+  { date: "2026-11-26", label: "CPP and OAS payments", slug: "canada-benefit-payment-dates-november-december-2026-cpp-oas-ccb" },
+  { date: "2026-11-20", label: "Canada Child Benefit payment", slug: "canada-benefit-payment-dates-november-december-2026-cpp-oas-ccb" },
+  { date: "2026-12-22", label: "CPP and OAS payments", slug: "canada-benefit-payment-dates-november-december-2026-cpp-oas-ccb" },
+  { date: "2026-11-10", label: "Social Security payday: birthdays 1st-10th (Veterans Day shift)", slug: "social-security-payment-schedule-november-2026-veterans-day-shift" },
+  { date: "2026-12-21", label: "Cobb County holiday break begins", slug: "cobb-county-school-calendar-2026-27-breaks-holidays" },
 ];
 
 /** Today's date in Eastern Time as YYYY-MM-DD. */

@@ -33,10 +33,16 @@ assets:
     description: "One-page December 2026 calendar of FedEx recommended last ship dates for Christmas Eve delivery, with USPS send-by dates and the UPS Dec. 24 pickup rule."
     alt: "Printable December 2026 calendar marking FedEx last ship dates from Dec. 15 to Dec. 24, USPS send-by dates and the UPS Christmas schedule"
 hero:
-  src: ../../../../assets/news/fedex-ups-holiday-shipping-deadlines-2026-christmas/fedex-ups-holiday-shipping-deadlines-2026-christmas.jpg
-  alt: "Stacked cardboard shipping boxes for FedEx holiday shipping deadlines 2026"
+  src: ../../../../assets/news/fedex-ups-holiday-shipping-deadlines-2026-christmas/fedex-ups-holiday-shipping-deadlines-2026-christmas.webp
+  alt: "Hands taping a cardboard box shut for shipping, for FedEx holiday shipping deadlines 2026"
   title: "FedEx holiday shipping deadlines 2026"
-  caption: "FedEx's 2026 Peak Last Day to Ship table runs from Tuesday, Dec. 15 for Ground Economy to Wednesday, Dec. 23 for overnight services."
+  caption: "Taping a parcel for shipping. FedEx's reported last day for 2Day service and Christmas Eve delivery is Tuesday, Dec. 22, 2026."
+  credit: "Photo: Meanwell Packaging / Wikimedia Commons, cropped, edited"
+  license:
+    name: "CC BY 2.0"
+    url: "https://creativecommons.org/licenses/by/2.0"
+    source: "https://commons.wikimedia.org/wiki/File:Sticking_a_label_onto_a_parcel_for_shipping.jpg"
+    author: "Meanwell Packaging"
 summary:
   - "FedEx's recommended last ship dates for delivery by Thursday, Dec. 24, 2026 run from Dec. 15 (Ground Economy) to Dec. 23 (overnight services), with FedEx SameDay on Dec. 24."
   - "FedEx Ground and Home Delivery depends on transit time: Dec. 17 for 5-day, Dec. 18 for 4-day, Dec. 21 for 3-day, Dec. 22 for 2-day and Dec. 23 for 1-day."
@@ -76,6 +82,23 @@ internalLinks:
     label: "When is Christmas Day"
 related: [usps-holiday-shipping-deadlines-2026, canada-post-holiday-shipping-deadlines-2026-christmas]
 draft: false
+downloads:
+  - group: "FedEx printables"
+    title: "FedEx, UPS and USPS Christmas Ship Dates, December 2026"
+    description: "One-page December 2026 calendar of FedEx recommended last ship dates for Christmas Eve delivery, with USPS send-by dates and the UPS Dec. 24 pickup rule."
+    preview: ../../../../assets/news/christmas-shipping-2026/fedex-ups-usps-christmas-ship-dates-2026.png
+    alt: "Printable December 2026 calendar marking FedEx last ship dates from Dec. 15 to Dec. 24, USPS send-by dates and the UPS Christmas schedule"
+    pdf: "/news/downloads/christmas-shipping-2026/fedex-ups-usps-christmas-ship-dates-2026.pdf"
+    png: "/news/downloads/christmas-shipping-2026/fedex-ups-usps-christmas-ship-dates-2026.png"
+    pages: 1
+  - group: "FedEx printables"
+    title: "FedEx, UPS and USPS Christmas Ship Dates, December 2026 (ink saver)"
+    description: "One-page December 2026 calendar of FedEx recommended last ship dates for Christmas Eve delivery, with USPS send-by dates and the UPS Dec. 24 pickup rule. Ink-saver version."
+    preview: ../../../../assets/news/christmas-shipping-2026/fedex-ups-usps-christmas-ship-dates-2026-ink.png
+    alt: "Printable December 2026 calendar marking FedEx last ship dates from Dec. 15 to Dec. 24, USPS send-by dates and the UPS Christmas schedule, ink-saver version"
+    pdf: "/news/downloads/christmas-shipping-2026/fedex-ups-usps-christmas-ship-dates-2026-ink.pdf"
+    png: "/news/downloads/christmas-shipping-2026/fedex-ups-usps-christmas-ship-dates-2026-ink.png"
+    pages: 1
 ---
 
 **FedEx's 2026 last recommended ship dates for delivery by Thursday, Dec. 24 run from Tuesday, Dec. 15 for FedEx Ground Economy to Wednesday, Dec. 23 for its overnight services**, according to the FedEx 2026 Peak Last Day to Ship table as reported by Value Added Resource on Sept. 24, 2026. United Parcel Service (UPS) had not published its own last days to ship as of that report.

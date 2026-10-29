@@ -45,9 +45,9 @@ assets:
     alt: "Printable list of the 10 conference championship games on Dec. 4 and 5, 2026 and the College Football Playoff dates, with Eastern Time kickoffs and TV networks"
 hero:
   src: ../../../../assets/news/college-football-conference-championship-games-2026-schedule-times-tv/college-football-conference-championship-games-2026-schedule-times-tv.webp
-  alt: "AT&T Stadium in Arlington, Texas, the site of the Big 12 title game in the 2026 conference championship games schedule"
-  caption: "AT&T Stadium in Arlington, Texas, hosts the Big 12 title game on Fri., Dec. 4, 2026. File photo by Carol M. Highsmith, public domain."
-  credit: "Photo: Carol M. Highsmith / Wikimedia Commons, cropped"
+  alt: "AT&T Stadium in Arlington, Texas, host of the Big 12 title game, for conference championship games 2026"
+  caption: "AT&T Stadium in Arlington, Texas, file photo. The Big 12 championship game is played there Friday, Dec. 4, 2026."
+  credit: "Photo: Carol M. Highsmith / Wikimedia Commons, cropped, edited"
   license:
     name: "Public domain"
     url: "https://creativecommons.org/publicdomain/mark/1.0/"
@@ -114,6 +114,23 @@ internalLinks:
     label: "January 2027 printable calendar"
 related: [college-football-playoff-rankings-2026-schedule-dates-times, thanksgiving-football-schedule-2026-nfl-college-games, college-basketball-2026-27-key-dates-season-start-march-madness-printable]
 draft: false
+downloads:
+  - group: "Conference Championship Games 2026 and CFP Dates printables"
+    title: "Conference Championship Games 2026 and CFP Dates"
+    description: "One-page list of all 10 college football conference championship games on Dec. 4-5, 2026 plus College Football Playoff dates, with Eastern Time kickoffs and TV. Free."
+    preview: ../../../../assets/news/conference-championships-2026/conference-championship-games-2026-schedule.png
+    alt: "Printable list of the 10 conference championship games on Dec. 4 and 5, 2026 and the College Football Playoff dates, with Eastern Time kickoffs and TV networks"
+    pdf: "/news/downloads/conference-championships-2026/conference-championship-games-2026-schedule.pdf"
+    png: "/news/downloads/conference-championships-2026/conference-championship-games-2026-schedule.png"
+    pages: 1
+  - group: "Conference Championship Games 2026 and CFP Dates printables"
+    title: "Conference Championship Games 2026 and CFP Dates (ink saver)"
+    description: "One-page list of all 10 college football conference championship games on Dec. 4-5, 2026 plus College Football Playoff dates, with Eastern Time kickoffs and TV. Free. Ink-saver version."
+    preview: ../../../../assets/news/conference-championships-2026/conference-championship-games-2026-schedule-ink.png
+    alt: "Printable list of the 10 conference championship games on Dec. 4 and 5, 2026 and the College Football Playoff dates, with Eastern Time kicko, ink-saver version"
+    pdf: "/news/downloads/conference-championships-2026/conference-championship-games-2026-schedule-ink.pdf"
+    png: "/news/downloads/conference-championships-2026/conference-championship-games-2026-schedule-ink.png"
+    pages: 1
 ---
 
 **The 2026 college football conference championship games are played Friday, Dec. 4 and Saturday, Dec. 5, with kickoffs from noon to 9 p.m. Eastern Time (ET)**, according to conference announcements dated May 27, 2026 and to NCAA.com and FBSchedules for the conferences whose own pages could not be read. Five Football Bowl Subdivision (FBS) title games are on Friday and five on Saturday. The College Football Playoff (CFP) Selection Day follows on Sunday, Dec. 6.

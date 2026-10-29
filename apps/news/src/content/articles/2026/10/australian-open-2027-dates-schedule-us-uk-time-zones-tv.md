@@ -9,10 +9,17 @@ category: planning
 keywords: ["australian open 2027 dates", "australian open 2027 schedule", "australian open time zones us uk", "australian open 2027 tv"]
 dateline: "New York"
 hero:
-  src: ../../../../assets/news/australian-open-2027-dates-schedule-us-uk-time-zones-tv/australian-open-2027-dates-schedule-us-uk-time-zones-tv.jpg
-  alt: "Melbourne Park in Melbourne, Australia, the venue for the Australian Open 2027 dates of Jan. 11-31"
+  src: ../../../../assets/news/australian-open-2027-dates-schedule-us-uk-time-zones-tv/australian-open-2027-dates-schedule-us-uk-time-zones-tv.webp
+  alt: "An arena at Melbourne Park under a blue sky, venue of the Australian Open 2027"
   title: "Melbourne Park"
-  caption: "File photo of Melbourne Park in Melbourne, Australia, where the Australian Open is played."
+  caption: "Melbourne Park in Melbourne, file photo. The Australian Open 2027 runs Jan. 11-31, with main-draw play from Sunday, Jan. 17."
+  credit: "Photo: -wuppertaler / Wikimedia Commons, cropped, edited"
+  license:
+    name: "CC BY 4.0"
+    url: "https://creativecommons.org/licenses/by/4.0"
+    source: "https://commons.wikimedia.org/wiki/File:AUS_Melbourne,_Central_Business_District,_Melbourne_Park_124.jpg"
+    author: "-wuppertaler"
+    authorUrl: "https://commons.wikimedia.org/wiki/User:-wuppertaler"
 summary:
   - "The Australian Open 2027 runs Jan. 11-31 at Melbourne Park, with Opening Week from Jan. 11-16 and main-draw action beginning Jan. 17, according to ausopen.com (announced Mar. 23, 2026)."
   - "The finals are on Jan. 30 and Jan. 31, 2027; ausopen.com does not say which final is on which day."
@@ -75,6 +82,23 @@ assets:
     description: "A one-page January 2027 calendar marking Australian Open qualifying, the main-draw start on Jan. 17 and the finals on Jan. 30-31."
     alt: "January 2027 calendar with Australian Open qualifying, main-draw start and finals marked"
 draft: false
+downloads:
+  - group: "Australian Open 2027 Planner printables"
+    title: "Australian Open 2027 Planner, Jan. 11-31"
+    description: "A one-page January 2027 calendar marking Australian Open qualifying, the main-draw start on Jan. 17 and the finals on Jan. 30-31."
+    preview: ../../../../assets/news/australian-open-2027/australian-open-2027-planner.png
+    alt: "January 2027 calendar with Australian Open qualifying, main-draw start and finals marked"
+    pdf: "/news/downloads/australian-open-2027/australian-open-2027-planner.pdf"
+    png: "/news/downloads/australian-open-2027/australian-open-2027-planner.png"
+    pages: 1
+  - group: "Australian Open 2027 Planner printables"
+    title: "Australian Open 2027 Planner, Jan. 11-31 (ink saver)"
+    description: "A one-page January 2027 calendar marking Australian Open qualifying, the main-draw start on Jan. 17 and the finals on Jan. 30-31. Ink-saver version."
+    preview: ../../../../assets/news/australian-open-2027/australian-open-2027-planner-ink.png
+    alt: "January 2027 calendar with Australian Open qualifying, main-draw start and finals marked, ink-saver version"
+    pdf: "/news/downloads/australian-open-2027/australian-open-2027-planner-ink.pdf"
+    png: "/news/downloads/australian-open-2027/australian-open-2027-planner-ink.png"
+    pages: 1
 ---
 
 **The Australian Open 2027 will be played Jan. 11-31, 2027 at Melbourne Park, according to ausopen.com, the tournament's official site, in its Mar. 23, 2026 announcement.** The site lists "Opening Week from 11-16 January" and says "Main-draw action at AO 2027 begins 17 January." The finals "will be held on 30 and 31 January." Melbourne is far ahead of the United States and the United Kingdom (UK), so much of the play lands overnight or on the previous evening for viewers there. The time table below shows the shift.

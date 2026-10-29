@@ -9,10 +9,17 @@ category: school-calendars
 keywords: ["FAFSA 2027-28", "FAFSA deadline 2027-28", "FAFSA opens 2026", "FAFSA tax year 2027-28", "FAFSA checklist"]
 dateline: "New York"
 hero:
-  src: ../../../../assets/news/fafsa-2027-28-open-now-deadlines-tax-year/fafsa-2027-28-open-now-deadlines-tax-year.jpg
-  alt: "College students walking on a campus path, illustrating the FAFSA 2027-28 form that opened Sept. 23, 2026"
+  src: ../../../../assets/news/fafsa-2027-28-open-now-deadlines-tax-year/fafsa-2027-28-open-now-deadlines-tax-year.webp
+  alt: "Northwestern University's student union and library across a lagoon, for the FAFSA 2027-28 opening"
   title: "FAFSA 2027-28 is open"
-  caption: "The 2027-28 FAFSA opened to all students on Wednesday, Sept. 23, 2026, according to Fox 5 New York and The National News Desk."
+  caption: "Northwestern University's library and student union, file photo. The 2027-28 FAFSA opened Sept. 23, 2026, news reports said."
+  credit: "Photo: Amerique / Wikimedia Commons, cropped, edited"
+  license:
+    name: "CC BY 3.0"
+    url: "https://creativecommons.org/licenses/by/3.0"
+    source: "https://commons.wikimedia.org/wiki/File:Student_Union_%26_University_Library,_Northwestern.JPG"
+    author: "Amerique"
+    authorUrl: "https://commons.wikimedia.org/wiki/User:Amerique"
 summary:
   - "The 2027-28 FAFSA opened to all students on Wednesday, Sept. 23, 2026, the earliest release in the program's history, according to Fox 5 New York."
   - "It covers students starting classes on or after July 1, 2027; the FAFSA Simplification Act requires the form to be available by Oct. 1."
@@ -36,7 +43,7 @@ assets:
       - { when: "Before filing", what: "Ask each college for its own aid deadline", section: "Gather" }
       - { when: "Tue., Mar. 2, 2027", what: "California Cal Grant deadline (reported by secondary sources)", section: "Deadlines" }
       - { when: "Texas", what: "Priority date varies by source; check with the college", section: "Deadlines" }
-      - { when: "Fri., June 30, 2028", what: "Federal deadline (reported by guides; confirm on StudentAid.gov)", section: "Deadlines" }
+      - { when: "June 30, 2028", what: "Federal deadline (reported by guides; confirm on StudentAid.gov)", section: "Deadlines" }
     note: "Source: Fox 5 New York and The National News Desk (WJLA), Sept. 24, 2026; deadlines reported by secondary sources, confirm on StudentAid.gov."
     inkSaver: true
     description: "A one-page family checklist for the 2027-28 Free Application for Federal Student Aid, with account steps and the reported state and federal deadlines."
@@ -66,6 +73,23 @@ faq:
     a: "Student-aid guides report June 30, 2028 at 11:59 p.m. Central Time. We could not confirm this on an official page, so check StudentAid.gov."
   - q: "What is the Texas priority date?"
     a: "Sources conflict, so we give no date. Ask the college you are applying to."
+downloads:
+  - group: "FAFSA 2027-28 Family Checklist printables"
+    title: "FAFSA 2027-28 Family Checklist, Opened Sept. 23, 2026"
+    description: "A one-page family checklist for the 2027-28 Free Application for Federal Student Aid, with account steps and the reported state and federal deadlines."
+    preview: ../../../../assets/news/fafsa-2027-28/fafsa-2027-28-family-checklist.png
+    alt: "Printable FAFSA 2027-28 family checklist with tick boxes for account, contributors, colleges and deadlines"
+    pdf: "/news/downloads/fafsa-2027-28/fafsa-2027-28-family-checklist.pdf"
+    png: "/news/downloads/fafsa-2027-28/fafsa-2027-28-family-checklist.png"
+    pages: 1
+  - group: "FAFSA 2027-28 Family Checklist printables"
+    title: "FAFSA 2027-28 Family Checklist, Opened Sept. 23, 2026 (ink saver)"
+    description: "A one-page family checklist for the 2027-28 Free Application for Federal Student Aid, with account steps and the reported state and federal deadlines. Ink-saver version."
+    preview: ../../../../assets/news/fafsa-2027-28/fafsa-2027-28-family-checklist-ink.png
+    alt: "Printable FAFSA 2027-28 family checklist with tick boxes for account, contributors, colleges and deadlines, ink-saver version"
+    pdf: "/news/downloads/fafsa-2027-28/fafsa-2027-28-family-checklist-ink.pdf"
+    png: "/news/downloads/fafsa-2027-28/fafsa-2027-28-family-checklist-ink.png"
+    pages: 1
 ---
 
 The Free Application for Federal Student Aid (FAFSA) for 2027-28 opened to all students on Wednesday, Sept. 23, 2026, the earliest release in the program's history, according to [Fox 5 New York](https://www.fox5ny.com/news/2027-28-fafsa-opens-record-time-heres-what-you-need-know.amp) on Sept. 24, 2026. The official pages on StudentAid.gov and ed.gov were blocked to our automated checks, so every figure below is attributed to news reports. Confirm dates with the Department of Education and each college.

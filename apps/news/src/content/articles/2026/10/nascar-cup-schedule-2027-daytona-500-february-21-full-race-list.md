@@ -17,56 +17,33 @@ assets:
     group: nascar-2027
     title: "NASCAR Cup Series Schedule 2027, Feb. 13 to Nov. 14"
     subtitle: "36 points races and 3 non-points events, in date order"
-    layout: list
     rows:
-      - ["Sat., Feb. 13", "Clash (non-points), Daytona"]
-      - ["Thu., Feb. 18", "Duel at Daytona (non-points qualifying races)"]
-      - ["Sun., Feb. 21", "Daytona 500 (69th)"]
-      - ["Sun., Feb. 28", "Atlanta, EchoPark Speedway"]
-      - ["Sun., Mar. 7", "Circuit of the Americas, Austin"]
-      - ["Sun., Mar. 14", "Phoenix"]
-      - ["Sun., Mar. 21", "Las Vegas"]
-      - ["Sun., Apr. 4", "Darlington"]
-      - ["Sun., Apr. 11", "Bristol"]
-      - ["Sun., Apr. 18", "Martinsville"]
-      - ["Sun., Apr. 25", "Talladega"]
-      - ["Sun., May 2", "Texas"]
-      - ["Sun., May 9", "Kansas"]
-      - ["Sun., May 16", "Dover"]
-      - ["Sun., May 23", "All-Star Race (non-points), North Wilkesboro"]
-      - ["Sun., May 30", "Charlotte (Coca-Cola 600)"]
-      - ["Sun., Jun. 6", "Nashville"]
-      - ["Sun., Jun. 13", "Pocono"]
-      - ["Sun., Jun. 20", "Michigan"]
-      - ["Sun., Jun. 27", "Chicagoland"]
-      - ["Sun., Jul. 4", "Iowa"]
-      - ["Sun., Jul. 11", "Sonoma"]
-      - ["Sun., Jul. 18", "Atlanta"]
-      - ["Sun., Jul. 25", "Indianapolis"]
-      - ["Sun., Aug. 1", "Naval Base Coronado, San Diego street course"]
-      - ["Sat., Aug. 14", "Bristol (night race)"]
-      - ["Sun., Aug. 22", "World Wide Technology Raceway, St. Louis area"]
-      - ["Sat., Aug. 28", "Daytona"]
-      - ["Sun., Sep. 5", "Darlington"]
-      - ["Sat., Sep. 11", "Richmond"]
-      - ["Sun., Sep. 19", "Watkins Glen"]
-      - ["Sun., Sep. 26", "New Hampshire"]
-      - ["Sun., Oct. 3", "Kansas"]
-      - ["Sun., Oct. 10", "Las Vegas"]
-      - ["Sun., Oct. 17", "Charlotte"]
-      - ["Sun., Oct. 24", "Phoenix"]
-      - ["Sun., Oct. 31", "Talladega"]
-      - ["Sun., Nov. 7", "Martinsville"]
-      - ["Sun., Nov. 14", "Homestead-Miami (season finale)"]
+      - ["February 2027", "13: Clash (non-points), Daytona; 18: Duel at Daytona (non-points qualifying races); 21: Daytona 500 (69th); 28: Atlanta, EchoPark Speedway"]
+      - ["March 2027", "7: Circuit of the Americas, Austin; 14: Phoenix; 21: Las Vegas"]
+      - ["April 2027", "4: Darlington; 11: Bristol; 18: Martinsville; 25: Talladega"]
+      - ["May 2027", "2: Texas; 9: Kansas; 16: Dover; 23: All-Star Race (non-points), North Wilkesboro; 30: Charlotte (Coca-Cola 600)"]
+      - ["June 2027", "6: Nashville; 13: Pocono; 20: Michigan; 27: Chicagoland"]
+      - ["July 2027", "4: Iowa; 11: Sonoma; 18: Atlanta; 25: Indianapolis"]
+      - ["August 2027", "1: Naval Base Coronado, San Diego street course; 14: Bristol (night race); 22: World Wide Technology Raceway, St. Louis area; 28: Daytona"]
+      - ["September 2027", "5: Darlington; 11: Richmond; 19: Watkins Glen; 26: New Hampshire"]
+      - ["October 2027", "3: Kansas; 10: Las Vegas; 17: Charlotte; 24: Phoenix; 31: Talladega"]
+      - ["November 2027", "7: Martinsville; 14: Homestead-Miami (season finale)"]
     note: "Source: FOX Sports 2027 NASCAR Schedule Tracker (Bob Pockrass, Aug. 26, 2026); Racing News; Yahoo Sports. Start times not yet announced."
     inkSaver: true
     description: "One-page printable 2027 NASCAR Cup Series schedule with all 39 dates from the Clash on Feb. 13 to the Homestead-Miami finale on Nov. 14."
     alt: "Printable 2027 NASCAR Cup Series schedule listing every race date, event and track"
 hero:
-  src: ../../../../assets/news/nascar-cup-schedule-2027-daytona-500-february-21-full-race-list/nascar-cup-schedule-2027-daytona-500-february-21-full-race-list.jpg
-  alt: "Grandstands and the front straight at Daytona International Speedway, home of the Daytona 500 in the 2027 NASCAR schedule"
+  src: ../../../../assets/news/nascar-cup-schedule-2027-daytona-500-february-21-full-race-list/nascar-cup-schedule-2027-daytona-500-february-21-full-race-list.webp
+  alt: "Grandstands and the front stretch of Daytona International Speedway, for the NASCAR schedule 2027"
   title: "NASCAR Cup schedule 2027"
-  caption: "Daytona International Speedway, where the 2027 Cup season opens with the Clash on Feb. 13 and the Daytona 500 on Feb. 21. File photo."
+  caption: "Daytona International Speedway, file photo. The 2027 Daytona 500 is Sunday, Feb. 21, 2027, on FOX."
+  credit: "Photo: David Jones from Isle of Wight, United Kingdom / Wikimedia Commons, cropped, edited"
+  license:
+    name: "CC BY 2.0"
+    url: "https://creativecommons.org/licenses/by/2.0"
+    source: "https://commons.wikimedia.org/wiki/File:Daytona_International_Speedway_(48530104007).jpg"
+    author: "David Jones from Isle of Wight, United Kingdom"
+    authorUrl: "https://www.flickr.com/people/45457437@N00"
 summary:
   - "The 69th Daytona 500 is Sunday, Feb. 21, 2027, on FOX, according to FOX Sports' schedule tracker."
   - "The 2027 Cup Series has 36 points races and three non-points events, released Aug. 26, 2026."
@@ -104,6 +81,23 @@ internalLinks:
     label: "February 2027 printable calendar"
 related: [super-bowl-lxi-2027-date-sofi-stadium-channel-halftime, nba-all-star-2027-date-phoenix-rising-stars-schedule]
 draft: false
+downloads:
+  - group: "NASCAR Cup Series Schedule 2027 printables"
+    title: "NASCAR Cup Series Schedule 2027, Feb. 13 to Nov. 14"
+    description: "One-page printable 2027 NASCAR Cup Series schedule with all 39 dates from the Clash on Feb. 13 to the Homestead-Miami finale on Nov. 14."
+    preview: ../../../../assets/news/nascar-2027/nascar-cup-schedule-2027-printable.png
+    alt: "Printable 2027 NASCAR Cup Series schedule listing every race date, event and track"
+    pdf: "/news/downloads/nascar-2027/nascar-cup-schedule-2027-printable.pdf"
+    png: "/news/downloads/nascar-2027/nascar-cup-schedule-2027-printable.png"
+    pages: 1
+  - group: "NASCAR Cup Series Schedule 2027 printables"
+    title: "NASCAR Cup Series Schedule 2027, Feb. 13 to Nov. 14 (ink saver)"
+    description: "One-page printable 2027 NASCAR Cup Series schedule with all 39 dates from the Clash on Feb. 13 to the Homestead-Miami finale on Nov. 14. Ink-saver version."
+    preview: ../../../../assets/news/nascar-2027/nascar-cup-schedule-2027-printable-ink.png
+    alt: "Printable 2027 NASCAR Cup Series schedule listing every race date, event and track, ink-saver version"
+    pdf: "/news/downloads/nascar-2027/nascar-cup-schedule-2027-printable-ink.pdf"
+    png: "/news/downloads/nascar-2027/nascar-cup-schedule-2027-printable-ink.png"
+    pages: 1
 ---
 
 **The 2027 NASCAR Cup Series runs from Saturday, Feb. 13, to Sunday, Nov. 14, with the 69th Daytona 500 on Sunday, Feb. 21 on FOX, according to FOX Sports' 2027 schedule tracker.** The full schedule came out Wednesday, Aug. 26, 2026, and holds 36 points races plus three non-points events, as reported by Racing News and Yahoo Sports. NASCAR is the National Association for Stock Car Auto Racing. Its own site blocked automated access when this story was checked, so every 2027 detail here comes from those three outlets. Race start times have not been announced.
