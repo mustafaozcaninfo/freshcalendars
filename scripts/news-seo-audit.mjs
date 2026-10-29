@@ -278,7 +278,7 @@ check("04-NO-ORPHANS", "Zero orphan pages; every page reachable from /news/ (§0
 check("04-TOPIC-FOCUS", "Articles stay inside the declared source context (calendar/holiday/date categories) (§04 l.1010-1015)", () =>
   each(articleUrls, (u, h) => {
     const sec = nodes(h).find((n) => /NewsArticle$/.test(n["@type"]))?.articleSection;
-    return ["Holidays", "Time Change", "School Calendars", "Retail Dates", "Sky Events", "UK & Canada", "Planning", /* owner decision 2026-10-20 */ "Puzzles", /* split out of Planning 2026-10-23 */ "Elections", "Calendar Guides"].includes(sec) ? null : `section=${sec}`;
+    return ["Holidays", "Time Change", "School Calendars", "Retail Dates", "Sky Events", "UK & Canada", "Planning", /* owner decision 2026-10-20 */ "Puzzles", /* split out of Planning 2026-10-23 */ "Elections", "Calendar Guides", /* owner decision 2026-10-29 */ "Sports"].includes(sec) ? null : `section=${sec}`;
   }));
 
 // ── 05/08 Schema rules ─────────────────────────────────────────────────────
