@@ -1,24 +1,36 @@
 ---
-title: "Printable Sample Ballot by ZIP Code 2026: Find the Ballot for My ZIP Code in Every State"
+title: "Printable Sample Ballot by ZIP Code 2026: Find Your Ballot in Every State, With Texas County Links"
 seoTitle: "Printable Sample Ballot by ZIP Code 2026"
-description: "Enter your ZIP code to find the official sample ballot for your ZIP code in any state, see all 50 states and D.C., and print a free ballot worksheet."
+description: "Enter your ZIP code to find your official sample ballot in any state before Election Day, Tuesday, Nov. 3; Texas early voting ends Friday, Oct. 30."
 type: news
 publishedAt: "2026-10-19T07:50:00-04:00"
-updatedAt: "2026-10-24T00:50:00-04:00"
+updatedAt: "2026-10-29T03:50:00-04:00"
 authors: [alex-morgan]
 category: elections
 keywords: ["printable sample ballot by zip code 2026", "sample ballot by zip code", "sample ballot for my zip code", "printable sample ballot 2026", "Texas sample ballot 2026"]
 dateline: "New York"
+assets:
+  overlay: true
+  kicker: "Election Day · Tue., Nov. 3, 2026"
+  date: "2026-11-03"
+  card: { top: "Find your sample ballot", big: "Tue., Nov. 3", bottom: "Polls open 7 a.m. to 7 p.m. in Texas" }
 hero:
-  src: ../../../../assets/news/sample-ballot-by-zip-code-2026-texas-ballot/sample-ballot-by-zip-code-2026-texas-ballot.jpg
-  alt: "Sample ballot by ZIP code: a sample ballot with checked boxes next to a card reading Enter your ZIP code, Election Day Nov. 3"
-  title: "How to find your sample ballot for Nov. 3, 2026"
-  caption: "Your sample ballot shows the exact races and measures for your address. Election Day is Tuesday, Nov. 3, 2026."
+  src: ../../../../assets/news/sample-ballot-by-zip-code-2026-texas-ballot/sample-ballot-by-zip-code-2026-texas-ballot.webp
+  alt: "Sample ballot by ZIP code 2026: a bilingual Vote Here, Vote Aqui sign with an American flag outside a polling place in Taft, Texas"
+  title: "Find your sample ballot for Nov. 3, 2026"
+  caption: "A bilingual Vote Here sign outside a polling place in Taft, Texas (file photo). Election Day is Tuesday, Nov. 3, 2026."
+  credit: "Photo: Jay Phagan from Taft, Texas / Wikimedia Commons, cropped, edited"
+  license:
+    name: "CC BY 2.0"
+    url: "https://creativecommons.org/licenses/by/2.0"
+    source: "https://commons.wikimedia.org/wiki/File:Vote_Here_sign_in_Taft,_Texas.jpg"
+    author: "Jay Phagan from Taft, Texas"
+    authorUrl: "https://www.flickr.com/people/70671301@N03"
 summary:
   - "Type your ZIP code in the finder below to get your state's official sample ballot lookup; a table lists the portal for all 50 states and Washington, D.C."
-  - "Search by full street address or by name and date of birth: one ZIP code can span several congressional, legislative and school districts."
+  - "Election Day is Tuesday, Nov. 3, with Texas polls open 7 a.m. to 7 p.m.; Texas early voting ends Friday, Oct. 30, according to the Texas Secretary of State."
   - "In 18 states and Washington, D.C., the state portal shows your sample ballot; in most others your county, city or town elections office posts it."
-  - "Texas early voting runs through Friday, Oct. 30, and phones cannot be used in the voting room, so print your choices on our free worksheet."
+  - "In 103 Texas counties, including Harris, Dallas, Tarrant, Bexar and Travis, you can vote at any vote center on Nov. 3; phones cannot be used in the voting room."
 faq:
   - q: "How do I find my sample ballot by ZIP code?"
     a: "Enter your ZIP code in the finder at the top of this story to get your state's official lookup, then search there by full street address or by name and date of birth. A ZIP code tells you the state, but only your address tells the county which precinct ballot you get."
@@ -37,9 +49,11 @@ faq:
   - q: "Where is my Texas sample ballot?"
     a: "On your county elections office website. Harris County lists it at HarrisVotes.com, and Dallas, Tarrant, Bexar, Travis and other large counties have their own lookups; the table in this story links 12 of them. The Texas Secretary of State's My Voter Portal shows your registration and polling places."
   - q: "When is early voting in Texas for November 2026?"
-    a: "Monday, Oct. 19 through Friday, Oct. 30, 2026. You can vote at any early voting location in your county of registration. Election Day polls are open 7 a.m. to 7 p.m. on Nov. 3."
+    a: "Monday, Oct. 19 through Friday, Oct. 30, 2026. You can vote at any early voting location in your county of registration. Election Day polls are open 7 a.m. to 7 p.m. on Tuesday, Nov. 3."
   - q: "Can I bring my sample ballot into the voting booth in Texas?"
-    a: "You can bring written notes, but you cannot use a phone, tablet or other wireless device in the room where voting takes place, according to the Texas Secretary of State. A printed list is the easiest option."
+    a: "Yes. The Texas Secretary of State says voters may bring printed notes or a paper sample ballot to help them make their selections. You cannot use a phone, tablet or other wireless device in the room where voting takes place, so print or write your choices first."
+  - q: "Do I have to vote at my precinct on Election Day in Texas?"
+    a: "It depends on your county. For the Nov. 3 election, 103 counties are approved for the Countywide Polling Place Program, including Harris, Dallas, Tarrant, Bexar and Travis, so you can vote at any vote center in the county. In other counties you may have to vote at your assigned polling place. The Secretary of State's My Voter Portal lists it."
   - q: "What ID do I need to vote in Texas?"
     a: "One of seven photo IDs, including a Texas driver license, Texas Election Identification Certificate, Texas ID card, handgun license, U.S. military ID, U.S. citizenship certificate or U.S. passport. Voters who cannot reasonably obtain one may sign a Reasonable Impediment Declaration and show a supporting document such as a utility bill."
 sources:
@@ -67,9 +81,21 @@ sources:
   - title: "Register to vote and check your registration, by state"
     url: "https://vote.gov/"
     publisher: "U.S. General Services Administration (Vote.gov)"
-  - title: "Countywide Polling Place Program"
+  - title: "Counties Approved to Use the Countywide Polling Place Program (CWPP) for the November 3, 2026 General Election"
     url: "https://www.sos.state.tx.us/elections/laws/countywide-polling-place-program.shtml"
     publisher: "Texas Secretary of State"
+  - title: "Secretary Howden Announces Texas Has a Record 19 million Registered Voters"
+    url: "https://www.sos.state.tx.us/about/newsreleases/2026/101626.shtml"
+    publisher: "Texas Secretary of State"
+    date: "2026-10-16"
+  - title: "More Than 4.2 Million Texans Cast Ballots in First Half of Early Voting"
+    url: "https://www.sos.texas.gov/about/newsreleases/2026/102626.shtml"
+    publisher: "Texas Secretary of State"
+    date: "2026-10-26"
+  - title: "Election Day Is Nov. 3 and Secretary Howden Encourages Texans to Vote with Confidence"
+    url: "https://www.sos.texas.gov/about/newsreleases/2026/102726.shtml"
+    publisher: "Texas Secretary of State"
+    date: "2026-10-27"
   - title: "VOTE411 Voter Guide"
     url: "https://www.vote411.org/"
     publisher: "League of Women Voters Education Fund"
@@ -115,7 +141,9 @@ downloads:
 draft: false
 ---
 
-**To find the sample ballot for your ZIP code, enter your ZIP code below to get your state's official lookup for Nov. 3, 2026, then search there by street address and print your choices on our free worksheet.** Your sample ballot shows exactly what you will vote on, and in most of the country you can see it online today. In Texas, early voting is underway through Friday, Oct. 30, according to the Texas Secretary of State, and sample ballots come from each county elections office rather than the state. Below: why a ZIP code alone can show the wrong races, the official lookup for every state, links for 12 large Texas counties, and free printables to take your choices with you.
+<p class="callout"><b>Last updated Oct. 29, 2026, 3:50 a.m. ET.</b> Added which large Texas counties use vote centers on Election Day, the state's early voting turnout and registration figures, and a state-by-state map of where sample ballots are posted.</p>
+
+**To find the sample ballot for your ZIP code, enter your ZIP code below to get your state's official lookup for Nov. 3, 2026, then search there by street address and print your choices on our free worksheet.** Your sample ballot shows exactly what you will vote on, and in most of the country you can see it online today. In Texas, early voting runs through Friday, Oct. 30, according to the Texas Secretary of State, and sample ballots come from each county elections office rather than the state. On Election Day, Tuesday, Nov. 3, polls are open 7 a.m. to 7 p.m. statewide. Below: why a ZIP code alone can show the wrong races, the official lookup for every state, links for 12 large Texas counties, and free printables to take your choices with you.
 
 ## Find your sample ballot by ZIP code
 
@@ -138,6 +166,10 @@ That is why official lookups ask for your street address, or for your name and d
 
 A sample ballot shows the same contests, in the same order, as the ballot you will vote on. Each race tells you how many choices you can make, such as one candidate for governor or more than one for a school board. Ballot measures, called propositions, amendments or questions depending on the state, are a yes-or-no choice, so read the measure's own wording, not just its number.
 
+![A touch-screen ballot-marking device with numbered steps to insert an activation card, touch selections, verify them and print a vote record](../../../../assets/news/sample-ballot-by-zip-code-2026-texas-ballot/ballot-marking-device.webp "A touch-screen ballot-marking device")
+
+*A touch-screen ballot-marking device of the kind many counties use; voters touch their choices, review them and print the record. Your sample ballot lists the same races in the same order. Photo: Douglas W. Jones, [CC0](https://creativecommons.org/publicdomain/zero/1.0/), via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:ES%26S_Express_Vote.jpg).*
+
 In Texas there is no straight-ticket option. The Legislature ended straight-party voting starting Sept. 1, 2020, so the Secretary of State tells voters who want to back one party's candidates to select each one at a time. Plan every race on your sample ballot, from the top of the ticket to the local offices at the end.
 
 ## Research the candidates
@@ -147,6 +179,10 @@ Start with the candidate list on your official sample ballot, then read what the
 ## Official sample ballot lookup in every state
 
 Each state's election office runs a voter lookup. In 18 states and Washington, D.C., that portal shows a personalized sample ballot; elsewhere it shows your registration and polling place, and your county, city or town elections office posts the ballot. Nevada does both. Links were checked on Oct. 20, 2026, against each state election office and Vote.gov; some portals block automated checks but open normally in a browser.
+
+![Map of where to find your sample ballot by state in 2026: in 18 states and Washington, D.C., the state portal shows it, Nevada uses the state portal and counties, and elsewhere including Texas the county, city or town elections office posts it](../../../../assets/news/sample-ballot-by-zip-code-2026-texas-ballot/sample-ballot-source-by-state-2026.png "Where to find your sample ballot, by state")
+
+*Teal states show a personalized sample ballot on the state portal; in the rest, search your county, city or town elections office. Chart: Fresh Calendars, from the table below.*
 
 <div id="state-lookups"></div>
 
@@ -210,30 +246,36 @@ If your state portal shows only your registration, search for your county name p
 
 Texas sample ballots are posted by counties. The state's My Voter Portal shows your registration and early voting locations once you enter your name, county, date of birth and ZIP code. For the 12 most populous counties, the official elections offices are:
 
-| County | Elections office |
-|---|---|
-| Harris | [HarrisVotes.com](https://www.harrisvotes.com/) |
-| Dallas | [Dallas County Elections](https://www.dallascountyvotes.org/) |
-| Tarrant | [Tarrant County Elections](https://www.tarrantcountytx.gov/en/elections.html) |
-| Bexar | [Bexar County Elections Department](https://www.bexar.org/1568/Elections-Department) |
-| Travis | [VoteTravis.gov](https://votetravis.gov/) |
-| Collin | [Collin County Elections](https://www.collincountytx.gov/elections) |
-| Denton | [Denton County Elections](https://www.dentoncounty.gov/1021/Elections) |
-| Fort Bend | [Fort Bend County Elections and Voter Registration](https://www.fortbendcountytx.gov/government/departments/elections-and-voter-registration) |
-| El Paso | [El Paso County Elections](https://epcountyvotestx.gov/) |
-| Hidalgo | [Hidalgo County Elections Department](https://www.hidalgocounty.us/Elections) |
-| Williamson | [Williamson County Elections](https://www.wilcotx.gov/elections) |
-| Montgomery | [Montgomery County Elections](https://www.mctx.org/departments/departments_q_-_z/voter_registration_elections/index.php) |
+Texas heads into Nov. 3 with a record 19,041,684 registered voters, the Secretary of State said on Oct. 16, 2026. More than 4.2 million Texans voted in the first six days of early voting, through Saturday, Oct. 24, about 22 percent of registered voters, according to an Oct. 26 release. For the Nov. 3 election, 103 counties are approved to run the Countywide Polling Place Program, which lets you vote at any vote center in the county. In counties that are not in the program, you may have to vote at your assigned polling place on Election Day. Polls are open 7 a.m. to 7 p.m. statewide, the Secretary of State confirmed on Oct. 27. The table below lists each county's year in the program (the first year it was approved) from the state's list.
+
+| County | Elections office | Vote at any vote center on Nov. 3? |
+|---|---|---|
+| Harris | [HarrisVotes.com sample ballots](https://www.harrisvotes.com/SampleBallots) | Yes (since 2019) |
+| Dallas | [Dallas County Elections](https://www.dallascountyvotes.org/) | Yes (2019) |
+| Tarrant | [Tarrant County Elections](https://www.tarrantcountytx.gov/en/elections.html) | Yes (2019) |
+| Bexar | [Bexar County Elections Department](https://www.bexar.org/1568/Elections-Department) | Yes (2019) |
+| Travis | [VoteTravis.gov](https://votetravis.gov/) | Yes (2012) |
+| Collin | [Collin County Elections](https://www.collincountytx.gov/elections) | Yes (2013) |
+| Denton | [Denton County Elections](https://www.dentoncounty.gov/1021/Elections) | Not on the state's Nov. 3 list; check the county |
+| Fort Bend | [Fort Bend County Elections and Voter Registration](https://www.fortbendcountytx.gov/government/departments/elections-and-voter-registration) | Yes (2016) |
+| El Paso | [El Paso County Elections](https://epcountyvotestx.gov/) | Yes (2021) |
+| Hidalgo | [Hidalgo County Elections Department](https://www.hidalgocounty.us/Elections) | Yes (2018) |
+| Williamson | [Williamson County Elections](https://www.wilcotx.gov/elections) | Yes (2014) |
+| Montgomery | [Montgomery County Elections](https://www.mctx.org/departments/departments_q_-_z/voter_registration_elections/index.php) | Not on the state's Nov. 3 list; check your assigned polling place |
 
 **Your precinct.** Your precinct number is printed next to your year of birth on your voter registration certificate, according to VoteTexas.gov, and My Voter Portal lists your early voting and Election Day polling places. Your county's sample ballot is matched to that precinct.
 
-**Dates.** Early voting runs through Friday, Oct. 30, and you can use any early voting location in your county of registration. An application for a ballot by mail must be received by Friday, Oct. 23. A mailed ballot counts if it arrives by 7 p.m. on Nov. 3, or if it is postmarked by 7 p.m. that day and arrives by 5 p.m. on Wednesday, Nov. 4. On Election Day, polls are open 7 a.m. to 7 p.m. Counties in the state's Countywide Polling Place Program let you vote at any vote center in the county; in other counties you must go to your assigned precinct.
+**Dates.** Early voting runs through Friday, Oct. 30, and you can use any early voting location in your county of registration. The deadline for an application for a ballot by mail to arrive, Friday, Oct. 23, has passed. A mailed ballot counts if it arrives by 7 p.m. on Nov. 3, or if it is postmarked by 7 p.m. that day and arrives by 5 p.m. on Wednesday, Nov. 4. On Election Day, polls are open 7 a.m. to 7 p.m. Counties in the state's Countywide Polling Place Program let you vote at any vote center in the county; in other counties you must go to your assigned precinct.
+
+![An I Voted sticker from Harris County with U.S. and Texas flags and the HarrisVotes.com address, held after early voting](../../../../assets/news/sample-ballot-by-zip-code-2026-texas-ballot/harris-county-i-voted-sticker.webp "Harris County I Voted sticker")
+
+*A Harris County "I Voted" sticker after early voting in July 2020 (file photo). Harris County posts its sample ballots at HarrisVotes.com. Photo: Patrick Feller, [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/), via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Voted_early,_July_8,_2020.jpg).*
 
 **What is on the ballot.** Texas votes this year for governor and other statewide executive offices, a U.S. Senate seat, all 38 U.S. House seats, the Texas Legislature, judges and local offices. Every certified statewide candidate is in our [Texas ballot 2026 guide](/news/texas-ballot-2026-candidates-senate-governor-statewide-races/). Your county sample ballot adds any city, county or school district measures for your address.
 
 **ID.** You need one of seven photo IDs: a Texas driver license, Texas Election Identification Certificate, Texas personal ID card or Texas handgun license (all from the Department of Public Safety), a U.S. military ID with a photo, a U.S. citizenship certificate with a photo, or a U.S. passport. For voters 18 to 69, the ID may be expired by up to four years; for voters 70 and older, any expired but otherwise valid ID is accepted. If you do not have one and cannot reasonably get one, you can sign a Reasonable Impediment Declaration and show a supporting document such as a utility bill or bank statement.
 
-**Phones.** Texas law does not allow wireless devices such as phones, tablets or laptops to be used in the room where voting takes place, the Secretary of State says. Phones can be used outside that room as long as they are not recording. So if you plan your choices on a sample ballot app, write or print them first.
+**Your notes and phone.** "Voters may bring printed notes or a paper sample ballot to help them make their selections," the Secretary of State said in an Oct. 16 release. Texas law does not allow wireless devices such as phones, tablets or laptops to be used in the room where voting takes place, the Secretary of State says. Phones can be used outside that room as long as they are not recording. So if you plan your choices on a sample ballot app, write or print them first.
 
 ## Early voting uses the same ballot
 
@@ -253,8 +295,8 @@ For Texas candidates, see our [Texas ballot guide](/news/texas-ballot-2026-candi
 
 | Date | What happens |
 |---|---|
-| Friday, Oct. 23 | Texas: last day for a mail ballot application to arrive |
-| Saturday, Oct. 24 | Early voting opens statewide in Michigan |
+| Friday, Oct. 23 | Texas: last day for a mail ballot application to arrive (passed) |
+| Saturday, Oct. 24 | Early voting opens statewide in Michigan (passed) |
 | Friday, Oct. 30 | Last day of early voting in Texas |
 | Sunday, Nov. 1 | Clocks fall back one hour at 2 a.m. |
 | Tuesday, Nov. 3 | Election Day; Texas polls open 7 a.m. to 7 p.m. |

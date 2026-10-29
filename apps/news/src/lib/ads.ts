@@ -25,8 +25,10 @@ export const AD_ORIGINS = {
 
 /**
  * Loader, appended to the existing nav inline script at the end of <body> (the page keeps ≤2
- * inline scripts and no external <script src>). It injects adsbygoogle.js right away, while the
- * page is still loading, and requests each visible unit as it nears the screen
+ * inline scripts and no external <script src>). It injects adsbygoogle.js once the page has
+ * painted: at the load event or 2.5 s after parsing, whichever comes first, then when the main
+ * thread is idle (at most 1 s later), so the script never competes with the hero image, fonts or
+ * first input; units pushed earlier wait in the adsbygoogle queue. It requests each visible unit as it nears the screen
  * (NEWS_AD_RULES.lazyMargin). Unfilled units collapse only while off screen (no layout shift in
  * view). Units hidden by CSS (the sidebar on phones) are never requested. No ?client= on the script, so account-level Auto ads cannot
  * inject unplanned units. data-overlays="bottom" keeps anchor ads at the bottom of the screen:
@@ -40,7 +42,11 @@ export const ADS_LOADER_JS = `
   s.async=true; s.crossOrigin='anonymous';
   s.src='https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js';
   s.setAttribute('data-overlays','bottom');
-  document.head.appendChild(s);
+  var injected=false;
+  function inject(){ if(injected) return; injected=true; document.head.appendChild(s); }
+  function soon(){ if('requestIdleCallback' in window) requestIdleCallback(inject,{timeout:1000}); else setTimeout(inject,300); }
+  if(document.readyState==='complete') soon();
+  else { addEventListener('load',soon); setTimeout(soon,2500); }
   window.adsbygoogle=window.adsbygoogle||[];
   // Sidebar rail units: a 300×600 half page when the window can show it whole under the header.
   var tall=innerHeight>=760;

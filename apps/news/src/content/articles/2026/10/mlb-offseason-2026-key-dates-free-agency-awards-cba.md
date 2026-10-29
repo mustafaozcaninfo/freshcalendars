@@ -1,9 +1,10 @@
 ---
 title: "MLB Offseason 2026 Key Dates: Free Agency Start, Awards Schedule, Winter Meetings and CBA Expiration"
 seoTitle: "MLB Offseason 2026 Key Dates: Free Agency, Awards, CBA"
-description: "Major League Baseball (MLB) free agency opens the day after the World Series ends, Oct. 28 to Nov. 1, 2026; awards run Nov. 1 to 17, per MLB.com."
+description: "Major League Baseball (MLB) free agency opens Thursday, Oct. 29, 2026, the day after the Brewers won the World Series; awards run Nov. 1 to 17, per MLB.com."
 type: explainer
 publishedAt: "2026-10-27T10:08:00-04:00"
+updatedAt: "2026-10-29T03:55:00-04:00"
 authors: [jordan-bennett]
 category: planning
 keywords: ["MLB offseason key dates 2026", "when does MLB free agency start 2026", "MLB awards 2026 dates", "MLB CBA expiration December 1 2026"]
@@ -19,15 +20,15 @@ hero:
     author: "daveynin from United States"
     authorUrl: "https://www.flickr.com/people/44124370018@N01"
 summary:
-  - "Per MLB.com's offseason rules guide, players become free agents the day after the World Series ends, which is Wednesday, Oct. 28 at the earliest and Sunday, Nov. 1 at the latest in 2026."
+  - "The World Series ended Wednesday, Oct. 28, when Milwaukee won Game 5. Per MLB.com's offseason rules guide, players become free agents the next day, Thursday, Oct. 29, and can sign with new clubs from 5 p.m. ET on Monday, Nov. 2 by our count."
   - "MLB.com's awards guide (Oct. 26, 2026) starts with the Gold Glove Awards on Sunday, Nov. 1 and ends with the Silver Slugger Awards on Tuesday, Nov. 17; the M.V.P. award is Thursday, Nov. 12."
   - "Just Baseball reports the Collective Bargaining Agreement (CBA) expires Dec. 1, 2026 at 11:59 p.m. Eastern Time (ET); MLB and the MLB Players Association have not published a 2026 calendar of other dates."
   - "Spring Training games begin Friday, Feb. 19, 2027, and Opening Day is Thursday, Mar. 25, 2027, according to MLB."
 faq:
   - q: "When does MLB free agency start in 2026?"
-    a: "The day after the World Series ends, per MLB.com's offseason guide. If Milwaukee-Tampa Bay ends in Game 4, that is Wednesday, Oct. 28. If it goes to Game 7 on Saturday, Oct. 31, it is Sunday, Nov. 1."
+    a: "Thursday, Oct. 29, 2026. MLB.com's offseason guide says players become free agents the day after the World Series ends, and the Brewers won the Series in Game 5 on Wednesday, Oct. 28."
   - q: "When can free agents sign with new teams?"
-    a: "MLB.com's guide says players cannot sign with a new team until 5 p.m. ET on the fifth day after the World Series ends. By our count that is Sunday, Nov. 1 to Thursday, Nov. 5, 2026."
+    a: "MLB.com's guide says players cannot sign with a new team until 5 p.m. ET on the fifth day after the World Series ends. With the Series over on Oct. 28, our count puts that at 5 p.m. ET on Monday, Nov. 2, 2026."
   - q: "What is the 2026 qualifying offer?"
     a: "Not yet announced. MLB.com says the offer is set at the average salary of the top 125 highest-paid players, which was $22.025 million last offseason."
   - q: "When do the 2026 MLB awards come out?"
@@ -86,7 +87,7 @@ assets:
   overlay: true
   kicker: "MLB offseason · Key dates 2026-27"
   date: "2026-11-12"
-  card: { top: "Free agency opens", big: "Oct. 28 to Nov. 1", bottom: "The day after the World Series ends" }
+  card: { top: "Free agency opens", big: "Thu., Oct. 29", bottom: "The day after the World Series ended" }
   printable:
     slug: mlb-offseason-key-dates-2026-27
     group: mlb-offseason-2026
@@ -95,9 +96,9 @@ assets:
     columns: ["Date", "Event and details"]
     layout: list
     rows:
-      - ["Wed., Oct. 28 to Sun., Nov. 1, 2026", "Free agency opens the day after the final World Series game"]
+      - ["Thu., Oct. 29, 2026", "Free agency opens, the day after the Brewers won the World Series on Oct. 28"]
       - ["Sun., Nov. 1, 2026", "Gold Glove Awards, 8:30 p.m. ET on ESPN"]
-      - ["Sun., Nov. 1 to Thu., Nov. 5, 2026", "Free agents can sign at 5 p.m. ET on the fifth day after the Series ends"]
+      - ["Mon., Nov. 2, 2026", "Free agents can sign with new clubs from 5 p.m. ET (fifth day after the Series, our count)"]
       - ["Fri., Nov. 6, 2026", "Platinum Glove Awards and Heart & Hustle Awards"]
       - ["Mon., Nov. 9, 2026", "BBWAA Rookie of the Year; GM Meetings Nov. 9-12 in Las Vegas (reported)"]
       - ["Tue., Nov. 10, 2026", "BBWAA Manager of the Year"]
@@ -116,7 +117,9 @@ assets:
 draft: false
 ---
 
-**Major League Baseball (MLB) free agency opens the day after the World Series ends, which is Wednesday, Oct. 28 to Sunday, Nov. 1, 2026 depending on the final game, according to MLB.com's offseason rules guide.** MLB.com's awards guide (Oct. 26, 2026) then lists the Gold Glove Awards on Sunday, Nov. 1 through the Silver Slugger Awards on Tuesday, Nov. 17. Milwaukee leads Tampa Bay 3-0 in the World Series, and Game 4 is Tuesday, Oct. 27 at 8 p.m. Eastern Time (ET). We do not predict how it ends, so the table below covers every possible final game. The details are in our [2026 World Series schedule](/news/world-series-2026-schedule-game-times-tv-channel/).
+<p class="callout"><b>Last updated Oct. 29, 2026, 3:55 a.m. ET.</b> The Brewers won the World Series in Game 5 on Wednesday night, so the dates below now use that finish, and the printable lists them: free agents from Thursday, Oct. 29, signings with new clubs from Monday, Nov. 2, 5 p.m. ET by our count. MLB has not yet announced the 2026 qualifying offer.</p>
+
+**Major League Baseball (MLB) free agency opens Thursday, Oct. 29, 2026, the day after the World Series ended, according to MLB.com's offseason rules guide.** MLB.com's awards guide (Oct. 26, 2026) then lists the Gold Glove Awards on Sunday, Nov. 1 through the Silver Slugger Awards on Tuesday, Nov. 17. The World Series ended on Wednesday, Oct. 28, when Milwaukee beat Tampa Bay 4-1 in Game 5, so free agency opens Thursday, Oct. 29, with signings with new clubs allowed from 5 p.m. Eastern Time (ET) on Monday, Nov. 2 by our count. The details are in our [2026 World Series schedule](/news/world-series-2026-schedule-game-times-tv-channel/).
 
 ## When does free agency start, by the day the World Series ends?
 
@@ -125,11 +128,11 @@ MLB.com's guide says: "Officially, players become free agents the day after the 
 | If the Series ends in | Final game | Players become free agents | Qualifying offer deadline (five days after) | Free agents can sign with new clubs |
 |---|---|---|---|---|
 | Game 4 | Tue., Oct. 27 | Wed., Oct. 28 | Sun., Nov. 1 | Sun., Nov. 1, 5 p.m. ET |
-| Game 5 | Wed., Oct. 28 | Thu., Oct. 29 | Mon., Nov. 2 | Mon., Nov. 2, 5 p.m. ET |
+| **Game 5 (actual)** | **Wed., Oct. 28** | **Thu., Oct. 29** | **Mon., Nov. 2** | **Mon., Nov. 2, 5 p.m. ET** |
 | Game 6 | Fri., Oct. 30 | Sat., Oct. 31 | Wed., Nov. 4 | Wed., Nov. 4, 5 p.m. ET |
 | Game 7 | Sat., Oct. 31 | Sun., Nov. 1 | Thu., Nov. 5 | Thu., Nov. 5, 5 p.m. ET |
 
-The game dates come from the MLB Stats application programming interface (API) schedule. Games 5 to 7 are played only if needed. The qualifying offer column is our count of the five-day window; MLB has not yet announced the 2026 deadline.
+The game dates come from the MLB Stats application programming interface (API) schedule. The Series ended in Game 5, so that row is the one that applies. The qualifying offer column is our count of the five-day window; MLB has not yet announced the 2026 deadline.
 
 ## What is the 2026 qualifying offer?
 
@@ -158,8 +161,8 @@ Each row is labeled official (MLB or MLB.com), reported (a news outlet, not MLB)
 | Date | Event | Label |
 |---|---|---|
 | Tue., Oct. 27, 2026 | World Series Game 4, 8 p.m. ET | Official (MLB schedule) |
-| Wed., Oct. 28 to Sat., Oct. 31 | Games 5, 6 and 7 if needed (Oct. 28, 30 and 31) | Official (MLB schedule) |
-| Day after the final game | Players become free agents (Oct. 28 to Nov. 1) | Official rule |
+| Wed., Oct. 28 | Game 5: Brewers win the World Series 4-1; Games 6 and 7 not needed | Official (MLB game data) |
+| Thu., Oct. 29 | Players become free agents, the day after the final game | Official rule |
 | Five days after the final game | Qualifying offer deadline and first day to sign, 5 p.m. ET (Nov. 1 to Nov. 5) | Official rule; 2026 dates not yet announced |
 | Sun., Nov. 1 | Gold Glove Awards, 8:30 p.m. ET, ESPN | Official |
 | Fri., Nov. 6 | Platinum Glove and Heart & Hustle Awards | Official |
