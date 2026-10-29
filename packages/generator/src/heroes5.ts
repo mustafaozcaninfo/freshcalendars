@@ -256,6 +256,7 @@ export const PUZZLE_HEROES: [string, string, string, string, string, string, str
   ["quordle-hints-answers-october-28-2026-1738", "quordle", "#1b2a41", "#f472b6", "Quordle #1738 · Wed., Oct. 28, 2026", "Quordle hints today", "A clue for each of the four words, answers at the end."],
   ["waffle-answer-hints-today-october-28-2026-1741", "waffle", "#22303c", "#a78bfa", "Waffle #1741 · Wed., Oct. 28, 2026", "Waffle hints today", "A clue for each of the six words, the solved grid at the end."],
   ["blossom-word-game-answers-october-27-2026", "blossom", "#2e1065", "#fde68a", "Blossom · Tue., Oct. 27, 2026", "Blossom answers", "Letters and hints first, the pangrams only at the end."],
+  ["blossom-word-game-answers-october-29-2026", "blossom", "#3b0764", "#f9a8d4", "Blossom · Thu., Oct. 29, 2026", "Blossom answers", "Letters and hints first, the pangrams only at the end."],
   ["wordle-hint-answer-today-november-12-2026-1972", "wordle", "#121213", "#c9b458", "Wordle #1972 · Thu., Nov. 12, 2026", "Wordle hints today", "Six clues from gentle to strong, the answer only at the end."],
   ["nyt-connections-hints-answers-november-12-2026-1250", "connections", "#1e1a3a", "#f9df6d", "Connections #1250 · Thu., Nov. 12, 2026", "Connections hints", "Gentle hints for every group first, answers only at the end."],
   ["nyt-strands-hints-answers-november-12-2026-984", "strands", "#0f2f3a", "#aedfee", "Strands #984 · Thu., Nov. 12, 2026", "Strands hints today", "Spangram and theme-word hints first, answers at the end."],
