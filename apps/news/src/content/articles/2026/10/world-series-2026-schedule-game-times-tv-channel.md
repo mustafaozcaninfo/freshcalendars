@@ -1,10 +1,10 @@
 ---
-title: "World Series 2026 Schedule: Brewers Lead Rays 3-1, Game 5 Wednesday, Oct. 28, Game Times and TV Channel"
-seoTitle: "World Series 2026: Brewers Lead 3-1, Game 5 Time, TV"
-description: "The Rays beat the Brewers 4-3 in 12 innings in Game 4; Milwaukee leads the World Series 3-1. Game 5 is Wednesday, Oct. 28, at 8 p.m. Eastern Time (ET) on FOX."
+title: "World Series 2026: Brewers Beat Rays 4-1 in Game 5 to Win First Title, Every Score, Date and TV Channel"
+seoTitle: "World Series 2026: Brewers Win First Title in Game 5"
+description: "The Milwaukee Brewers won the 2026 World Series on Wednesday, Oct. 28, beating the Tampa Bay Rays 4-1 in Game 5 for the franchise's first championship."
 type: news
 publishedAt: "2026-10-21T05:45:00-04:00"
-updatedAt: "2026-10-28T01:40:00-04:00"
+updatedAt: "2026-10-28T23:20:00-04:00"
 authors: [jordan-bennett]
 category: planning
 keywords: ["World Series 2026 schedule", "World Series game times", "what channel is the World Series on", "Brewers vs Rays World Series", "World Series Game 1 time"]
@@ -15,10 +15,10 @@ hero:
   title: "World Series 2026 schedule, game times and TV channel"
   caption: "Game 1 of the 2026 World Series is Friday, Oct. 23, at 8 p.m. ET in Milwaukee. Every game airs on FOX."
 summary:
-  - "The Milwaukee Brewers lead the series 3-1. They won Game 1, 3-2, Game 2, 5-4, and Game 3, 10-1; the Tampa Bay Rays won Game 4, 4-3 in 12 innings, on Tuesday, Oct. 27. Game 5 is Wednesday, Oct. 28, in Tampa Bay. Every game starts at 8 p.m. ET."
+  - "The Milwaukee Brewers won the World Series 4-1, beating the Tampa Bay Rays 4-1 in Game 5 on Wednesday, Oct. 28, at Tropicana Field. It is the first title in franchise history. Milwaukee won Games 1, 2, 3 and 5; Tampa Bay won Game 4, 4-3 in 12 innings."
   - "FOX televises all seven games, which stream on FOX One. FOX Deportes carries every game in Spanish, Univision airs Game 1, and ESPN Radio has the national radio call."
   - "Milwaukee holds home-field advantage with the better record, 103-59 to 98-64, so it hosts Games 1, 2, 6 and 7. Games 5, 6 and 7 are played only if needed."
-  - "A Game 7 would fall on Saturday, Oct. 31, Halloween night, hours before clocks fall back on Sunday, Nov. 1."
+  - "Games 6 and 7, set for Friday, Oct. 30, and Saturday, Oct. 31, in Milwaukee, will not be played."
 faq:
   - q: "What time does the World Series start?"
     a: "Game 1 starts at 8 p.m. ET on Friday, Oct. 23, 2026, which is 7 p.m. in Milwaukee. Major League Baseball lists every game of the series at 8 p.m. ET."
@@ -26,8 +26,8 @@ faq:
     a: "FOX, in English, for every game. FOX Deportes carries all games in Spanish, and Univision also airs Game 1 in Spanish."
   - q: "Can I stream the World Series on MLB.TV?"
     a: "Not as a regular MLB.TV game. Major League Baseball says FOX games are available on MLB.TV only to authenticated subscribers of the network through a participating pay-TV provider. The games stream on FOX One and, with a pay-TV login, on the FOX Sports app."
-  - q: "When is Game 7 of the World Series?"
-    a: "If the series goes the distance, Game 7 is Saturday, Oct. 31, at 8 p.m. ET in Milwaukee."
+  - q: "Who won the 2026 World Series?"
+    a: "The Milwaukee Brewers, 4 games to 1. They beat the Tampa Bay Rays 4-1 in Game 5 on Wednesday, Oct. 28, 2026, at Tropicana Field for their first title. Games 6 and 7 will not be played."
   - q: "Where is Game 1 of the World Series?"
     a: "At American Family Field in Milwaukee, home of the Brewers, who have home-field advantage."
 sources:
@@ -63,6 +63,10 @@ sources:
     url: "https://statsapi.mlb.com/api/v1/game/849803/linescore"
     publisher: "Major League Baseball"
     date: "2026-10-27"
+  - title: "World Series Game 5 linescore, Brewers at Rays (MLB Stats API)"
+    url: "https://statsapi.mlb.com/api/v1/game/849799/linescore"
+    publisher: "Major League Baseball"
+    date: "2026-10-28"
 internalLinks:
   - href: "/october-calendars.html"
     label: "October 2026 printable calendar"
@@ -91,9 +95,9 @@ downloads:
 draft: false
 ---
 
-<p class="callout"><b>Last updated Oct. 28, 2026, 1:40 a.m. ET.</b> Tampa Bay won Game 4, 4-3 in 12 innings, on Tuesday at Tropicana Field, so Milwaukee leads the series 3-1. Game 5 is Wednesday, Oct. 28, at 8 p.m. ET on FOX, in Tampa Bay; a Brewers win would end the series, and a Rays win sends it back to Milwaukee for Game 6 on Friday. Source: Major League Baseball (MLB) official game data.</p>
+<p class="callout"><b>Last updated Oct. 28, 2026, 11:20 p.m. ET.</b> The Brewers won Game 5, 4-1, at Tropicana Field and took the series 4 games to 1, the first World Series title for Milwaukee. Games 6 and 7 will not be played. Jacob Misiorowski was the winning pitcher and Drew Rasmussen took the loss. Source: Major League Baseball (MLB) official game data.</p>
 
-**The Milwaukee Brewers lead the 2026 World Series 3-1 after the Tampa Bay Rays won Game 4, 4-3 in 12 innings, on Tuesday, Oct. 27. Game 5 is tonight, Wednesday, Oct. 28, at 8 p.m. Eastern Time (ET) on FOX in Tampa Bay.** Milwaukee won Game 1, 3-2, Game 2, 5-4, and Game 3, 10-1. Major League Baseball (MLB) has set every game of the best-of-seven series for 8 p.m. ET, and FOX televises all of them. Game 5 is the last scheduled game in Tampa Bay, and a fourth win for either team ends the series. Below: the full schedule, every way to watch or listen, how both teams got here, and a free printable score tracker.
+**The Milwaukee Brewers won the 2026 World Series on Wednesday, Oct. 28, beating the Tampa Bay Rays 4-1 in Game 5 at Tropicana Field for the first championship in franchise history.** Milwaukee scored single runs in the second and fifth innings and two in the sixth; Tampa Bay's only run came in the ninth, according to Major League Baseball (MLB) game data. The Brewers won Game 1, 3-2, Game 2, 5-4, and Game 3, 10-1, and the Rays won Game 4, 4-3 in 12 innings. MLB scheduled every game of the best-of-seven series for 8 p.m. ET, and FOX televised all of them. Below: the full schedule with every result, every way to watch or listen, how both teams got here, and a free printable score tracker.
 
 ## World Series 2026 schedule
 
@@ -103,11 +107,11 @@ draft: false
 | 2 | Saturday, Oct. 24 | Brewers | 8 p.m. | FOX | Brewers 5, Rays 4 |
 | 3 | Monday, Oct. 26 | Rays | 8 p.m. | FOX | Brewers 10, Rays 1 |
 | 4 | Tuesday, Oct. 27 | Rays | 8 p.m. | FOX | Rays 4, Brewers 3 (12 innings) |
-| 5* | Wednesday, Oct. 28 | Rays | 8 p.m. | FOX | - |
-| 6* | Friday, Oct. 30 | Brewers | 8 p.m. | FOX | - |
-| 7* | Saturday, Oct. 31 | Brewers | 8 p.m. | FOX | - |
+| 5 | Wednesday, Oct. 28 | Rays | 8 p.m. | FOX | Brewers 4, Rays 1 (Brewers win series 4-1) |
+| 6* | Friday, Oct. 30 | Brewers | 8 p.m. | FOX | Not needed |
+| 7* | Saturday, Oct. 31 | Brewers | 8 p.m. | FOX | Not needed |
 
-*If necessary. There are no games on Sunday, Oct. 25, or Thursday, Oct. 29. The first team to win four games takes the title, so the series ends as early as Wednesday, Oct. 28. Milwaukee's home games are at American Family Field; 8 p.m. ET is 7 p.m. Central Time there. MLB notes the schedule can change, so check its postseason page on game day.
+*If necessary. There are no games on Sunday, Oct. 25, or Thursday, Oct. 29. The first team to win four games takes the title, and Milwaukee reached four with Game 5 on Wednesday, Oct. 28. Milwaukee's home games are at American Family Field; 8 p.m. ET is 7 p.m. Central Time there. MLB notes the schedule can change, so check its postseason page on game day.
 
 ## How to watch: TV, streaming and radio
 
@@ -120,16 +124,16 @@ draft: false
 
 Milwaukee finished the regular season 103-59, the best record of the two pennant winners, and swept the Los Angeles Dodgers 4-0 in the National League Championship Series. Tampa Bay went 98-64 and beat the Cleveland Guardians 4-2 in the American League Championship Series, winning the last three games after trailing two games to one. The Rays clinched the pennant on Monday, Oct. 19, with a 7-3 win.
 
-This is the Brewers' second World Series and their first since 1982, when they lost to the St. Louis Cardinals in seven games as an American League team. The Rays are back for the first time since 2020 and the third time overall, after 2008 and 2020. Both franchises are among the five that have never won a World Series, according to MLB, so one of them will win its first.
+This is the Brewers' second World Series and their first since 1982, when they lost to the St. Louis Cardinals in seven games as an American League team. The Rays are back for the first time since 2020 and the third time overall, after 2008 and 2020. Both franchises are among the five that have never won a World Series, according to MLB, and Milwaukee has now won its first.
 
 ## Home-field advantage and the 2-3-2 format
 
 The team with the better regular-season record hosts Games 1, 2, 6 and 7. That is Milwaukee this year, by five wins. Tampa Bay hosts Games 3, 4 and 5. Because Games 6 and 7 return to Milwaukee, a long series ends where it began.
 
-## Game 7 on Halloween, then the clocks change
+## No Game 7 on Halloween, and the clocks still change
 
-A Game 7 would start at 8 p.m. ET on Saturday, Oct. 31, Halloween night; for local sunset and trick-or-treat hours, see [Halloween 2026 sunset and trick-or-treat times](/news/halloween-2026-saturday-sunset-trick-or-treat-times/). That night, daylight saving time ends at 2 a.m. on Sunday, Nov. 1, so clocks fall back an hour after the final out. The details are in [daylight saving time ends Nov. 1](/news/daylight-saving-time-ends-november-1-2026/).
+A Game 7 would have started at 8 p.m. ET on Saturday, Oct. 31, Halloween night, but the series ended in five games; for local sunset and trick-or-treat hours, see [Halloween 2026 sunset and trick-or-treat times](/news/halloween-2026-saturday-sunset-trick-or-treat-times/). Daylight saving time still ends at 2 a.m. on Sunday, Nov. 1, when clocks fall back an hour. The details are in [daylight saving time ends Nov. 1](/news/daylight-saving-time-ends-november-1-2026/).
 
-## Plan the week
+## Free World Series 2026 score tracker
 
 Our free schedule and score tracker lists all seven games with the date, home team, start time and channel, plus boxes for each final score and a running series tally, in color or an ink-saver version. Put the games on our [October 2026 printable calendar](/october-calendars.html), and see everything else on the calendar this month in [October 20, 2026: what day it is and what's coming up](/news/october-20-2026-what-day-holidays-observances/). The series runs into the weekend of [Halloween](/when-is/halloween/) and the start of our [November 2026 calendar](/november-calendars.html).
