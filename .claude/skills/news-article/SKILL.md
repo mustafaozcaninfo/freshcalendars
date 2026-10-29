@@ -184,23 +184,36 @@ The layout is chosen from the rows (`layout: auto`); set `layout:` only to overr
 Rules the generator enforces:
 - **Weekdays are checked.** "Fri., Nov. 21" in a 2026 sheet fails, because Nov. 21, 2026 is a Saturday. The year comes from the printable title (put it there), `year:`, or `assets.date`.
 - **One page, always full.** The sheet is measured in the browser: long content scales down to 80%, short content scales up to 130%, and a lined notes area takes the rest. If it still does not fit, the build fails: cut rows or split into two printables (max 40 rows).
+- **Print checks.** Every sheet then passes the "Printable PDF rules" below (safe area, no overlap, fonts, type size, contrast) before it is written.
 - **The note starts with "Source:"** and names the same sources as the story. A header icon matching the scene and the footer link are added for you.
 
 Then paste the `downloads:` entry the command prints (two entries with `inkSaver`).
 
 - **Custom visuals only when needed:** a story-specific generator in `packages/generator/src/<topic>.ts` with a `news-<topic>` command in `cli.ts` (patterns: `oct24.ts`, `november2026.ts`, `renderPrintables()` in `printables.ts`). No answers in puzzle heroes.
 
-### Printable PDF rules (Google's guidance on PDFs; checked by `10-PDF-*` in the audit)
+### Printable PDF rules (checked when the sheet is drawn and again by `10-PDF-*` in the audit)
 
-Write the template so the PDF is good on its own, because Google indexes PDFs like pages:
+Every printable goes through two gates. `renderPrintables()` (and the Julian and Ramadan renderers) measures the laid-out sheet in Chromium before printing (`packages/generator/src/printCheck.ts`) and refuses to write a sheet that breaks a rule; the audit reads the PDF that ships (`scripts/lib/pdf-print.mjs`). `FC_PRINT_DRY=1 pnpm fc <command>` runs the first gate without writing any file. When a gate fails, fix the template; never loosen a threshold.
 
-- **Real text, never page images.** Build the sheet in HTML/SVG and let `renderPrintables()` print it with Chromium; do not screenshot a page into the PDF or embed the whole sheet as one image. Test: select all text in the PDF and paste it; it must come out readable.
-- **US Letter, usually one page** (`LETTER` from `julian.ts`; two pages only when the content needs it), under 5 MB, fonts from `fontFaces()`. Keep at least 18 pt clear at the top right: the build puts a small "freshcalendars.com" link there.
-- **A clear `<h1>` title on the sheet** that matches the `downloads[].title` in frontmatter, and a footer with `Free printable from Fresh Calendars · freshcalendars.com/news/<slug>/` (the `.foot` class).
-- **Sources and dates on the sheet** in a short note line, the same facts as the story. Nothing on a printable that the story does not support.
-- **No third-party art, logos or brand marks.** Draw everything; name brands in text only.
-- **File names:** lowercase kebab-case with the year (`black-friday-planner-2026-bold.pdf`). If the content changes in a big way after publishing, give the file a new name so search engines refetch it, and update the frontmatter.
-- **`downloads[].title` (5-80 characters) and `description` (20-200)** become the PDF's title and subject, so write them as you would a page title and meta description.
+| # | Rule | Why | Checked by |
+|---|---|---|---|
+| 1 | **Real text, all vector.** Build the sheet in HTML/SVG with `doc()` from `julian.ts` and print it with `renderPrintables()`. No screenshots, no page images, no `box-shadow`, CSS `filter`, SVG `<pattern>` or repeating-gradient backgrounds: Chromium turns those into 72 dpi bitmaps that print soft. Draw ruled lines, hatching and dividers with borders or plain SVG shapes. | Copy-paste and search need text; bitmaps blur on paper | `10-PDF-FILES` (text layer), raster warning in the generator, `10-PDF-RASTER` |
+| 2 | **US Letter**, 816 x 1056 px (`LETTER`) or landscape (`LETTER_LANDSCAPE`). A4 or tabloid only as an extra file whose name ends in `-a4` or `-tabloid`. One page unless the content needs more. | Our readers print on Letter | `10-PDF-PAGE` |
+| 3 | **Safe area: text at least 24 px (0.25 in) from every edge.** The footer (`.foot`) and anything marked `data-print-edge` may come to 16 px (1/6 in). The top-right 0.25 in band is where the build stamps the "freshcalendars.com" link, so keep it free of text. | Home printers lose 0.12 to 0.25 in at the edges | generator (24 px), `10-PDF-SAFE-AREA` (12 pt on the PDF) |
+| 4 | **Nothing overflows, clips or collides.** No text past its box or the page, nothing on top of the footer. The generator prints the space left above the footer; under 6 px is a warning that one more row will collide. | Overflow used to be caught only by looking at the PNG | generator, `10-PDF-OVERLAP` |
+| 5 | **Fill the page.** A sheet whose bottom quarter is empty gets a warning: add a notes area or a second table, or let the type grow (`newsPrintable.ts` does this for you). | A half-empty page looks unfinished | generator warning |
+| 6 | **Only Sora and Manrope glyphs** (`fontFaces()`), embedded. Characters outside their Latin set (★ ✂ ✓ → ⁻ ²) fall back to a system font that differs between a Mac and CI; draw symbols as inline SVG and write "to" or "-" instead of arrows. | The PDF must look the same everywhere | generator (font actually used per text run), `10-PDF-FONTS` |
+| 7 | **Type at least 8 px (6 pt)**; body text 10 px or more, cells 9 px or more. | Smaller does not survive a home printer | generator |
+| 8 | **Contrast at least 3:1 against the background** (error); aim for 4.5:1 for anything a reader must read (warning). Muted text such as dates outside the month still needs 3:1. Never carry meaning by color alone: tags and keys also say it in words. | Pale gray and gold fade out, and many people print in black and white | generator |
+| 9 | **Ink saver**: for color-heavy sheets add a `-ink` version (`inkSaver: true` in `assets.printable`): black on white, outlines instead of fills. | Saves a cartridge, prints well in gray | review |
+| 10 | **A clear `<h1>`** that uses the words of `downloads[].title`, and the footer `Free printable from Fresh Calendars · freshcalendars.com/news/<slug>/` (`.foot`). | The title becomes the PDF title in search results | `10-PDF-TITLE` (warning), `10-PDF-TEXT` |
+| 11 | **Sources and dates on the sheet** in a note that starts with "Source:", the same facts as the story. Nothing on a printable that the story does not support. | Same rule as the story | review |
+| 12 | **No third-party art, logos or brand marks.** Draw everything; name brands in text only. | Licensing | review |
+| 13 | **Under 2 MB** (most sheets are under 300 KB). | Fast download on a phone | `10-PDF-FILES` |
+| 14 | **File names** lowercase kebab-case with the year (`black-friday-planner-2026-bold.pdf`). If the content changes a lot after publishing, use a new name so search engines refetch it, and update the frontmatter. `downloads[].title` (5-80 characters) and `description` (20-200) become the PDF's title and subject. | | schema, `10-PDF-PROPERTIES` |
+| 15 | **Look at it once.** Read the PNG (or open the PDF) before you commit: nothing cut off, nothing covered, the eye lands on the title first. Select all and paste: the text comes out in reading order. | No check sees everything | you |
+
+Accessibility comes with the pipeline: `doc()` sets `<html lang="en">`, `pdfOptions()` prints a tagged PDF (structure tree, reading order) and the build stamps the language and title. Keep the HTML semantic (`h1`, `h2`, `table`, `ul`) so the tags mean something.
 
 You do not add metadata by hand. On every build `apps/news/src/lib/pdf-meta.mjs` stamps each PDF that a story lists: title, author (Fresh Calendars), subject, keywords (the story's keywords plus "free printable"), language en-US, the story's dates, copyright and the terms-of-use license, "show title" for viewers, the top link to the story, and an entry in the nginx map that sends `Link: <story>; rel="canonical"` with the file. A PDF that no story lists gets none of this, so always list it under `downloads:`.
 
@@ -210,7 +223,7 @@ You do not add metadata by hand. On every build `apps/news/src/lib/pdf-meta.mjs`
 pnpm news:build && pnpm news:verify && pnpm news:seo-audit && pnpm test
 ```
 
-All must pass, including `10-PDF-FILES`, `10-PDF-PROPERTIES` and `10-PDF-LINK-CANONICAL` for any printable. Open one PDF from `dist/news/downloads/<group>/` and check the title in the viewer's title bar, the top-right link and that the text can be selected. Then read the page: `pnpm news:serve` and open `http://localhost:4324/news/<slug>/`. Check the hero, tables on a narrow window, and that every link opens.
+All must pass, including every `10-PDF-*` check for any printable. Open one PDF from `dist/news/downloads/<group>/` and check the title in the viewer's title bar, the top-right link and that the text can be selected. Then read the page: `pnpm news:serve` and open `http://localhost:4324/news/<slug>/`. Check the hero, tables on a narrow window, and that every link opens.
 
 Fix failures at the source (shorten the title, expand the abbreviation, correct the link); never weaken a check to make it pass.
 
