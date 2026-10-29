@@ -29,6 +29,7 @@ import { buildSkyDownloads } from "./sky2026.js";
 import { buildHeroes5 } from "./heroes5.js";
 import { buildNovemberHolidayDownloads } from "./november2026.js";
 import { buildOct24 } from "./oct24.js";
+import { buildPumpkinStencils } from "./pumpkins.js";
 import { buildNyBallot } from "./nyballot.js";
 import { buildSsaOct } from "./ssa2026.js";
 import { buildTxBallot } from "./txballot.js";
@@ -165,6 +166,8 @@ async function main(): Promise<void> {
       await buildHeroes5(argValue("--only"));
     } else if (cmd === "news-november-holidays") {
       await buildNovemberHolidayDownloads();
+    } else if (cmd === "news-pumpkins") {
+      await buildPumpkinStencils();
     } else if (cmd === "news-oct24") {
       await buildOct24();
     } else if (cmd === "news-nyballot") {
@@ -252,6 +255,7 @@ async function main(): Promise<void> {
   pnpm fc news-sky                         # /news/ Orionid viewing times + checklist (night, ink)
   pnpm fc news-heroes5                     # /news/ spoiler-free heroes for daily puzzle stories
   pnpm fc news-november-holidays           # /news/ November 2026 calendar with holidays (Sun, Mon, ink)
+  pnpm fc news-pumpkins                    # /news/ pumpkin carving stencils: 18 designs checked for loose pieces, one PDF each + pack
   pnpm fc news-heroes3                     # /news/ hero illustrations for the Oct. 20, 2026 batch
   pnpm fc news-datelists3                  # /news/ sunset times, Hunter's Moon, 2027 tax calendar, late October, winter break
   pnpm fc refresh-evergreen
