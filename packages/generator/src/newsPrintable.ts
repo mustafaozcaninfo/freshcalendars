@@ -16,6 +16,7 @@
  *   - the page is filled: short content is scaled up (to 130%) and a notes area takes the rest
  *   - at most 40 rows, a sources note, a year in the title, cells under 140 characters (warnings/errors)
  *   - `inkSaver: true` also writes <slug>-ink: black on white, outlines only, for home printers
+ *   - then the print checks in printCheck.ts (safe area, footer, fonts, type size, contrast) (error)
  */
 import { LETTER, doc } from "./julian.js";
 import { DOW3, MONTHS, daysIn } from "./printables.js";
@@ -155,6 +156,12 @@ const over=()=>col.scrollHeight>col.clientHeight+1;while(over()&&s>0.8){s=Math.r
 if(over())document.body.dataset.overflow='1';const n=document.querySelector('.notes');
 if(s===1&&n){while(n.clientHeight>col.clientHeight*0.4&&s<1.3){s=Math.round((s+0.02)*100)/100;document.documentElement.style.setProperty('--s',s);if(over()){s=Math.round((s-0.02)*100)/100;document.documentElement.style.setProperty('--s',s);break}}}if(n&&n.clientHeight<70)n.style.display='none';return s};</script>`;
 
+/**
+ * Ruled lines as real borders: Chromium turns a repeating-gradient background into a 72 dpi bitmap
+ * in the PDF, which prints soft. The box clips the lines it has no room for.
+ */
+const NOTE_LINES = "<i></i>".repeat(36);
+
 export function printableHtml(fonts: string, storySlug: string, color: string, p: Printable, fallbackYear: number, iconName: string, ink = false): { html: string; layout: string; warnings: string[] } {
   const { list, warnings } = items(p, fallbackYear);
   const layout = !p.layout || p.layout === "auto" ? chooseLayout(list) : p.layout;
@@ -198,13 +205,13 @@ export function printableHtml(fonts: string, storySlug: string, color: string, p
   .ck h2{font-family:Sora;font-size:calc(12.5px*var(--s));text-transform:uppercase;letter-spacing:.06em;color:${c};margin:0 0 4px;border-bottom:1.5px solid ${c}55;padding-bottom:3px}
   .ck ul{list-style:none;margin:0;padding:0}.ck li{display:flex;gap:9px;align-items:flex-start;padding:calc(5px*var(--s)) 0;line-height:1.35}
   .ck li .bx{margin-top:1px}.ck li span:not(.bx){flex:1}.ck li em{font-style:normal;color:#64748b;font-size:.9em}
-  .notes{flex:1;min-height:0;margin-top:calc(14px*var(--s));border:1.6px solid #e2e8f0;border-radius:10px;padding:10px 14px;
-    background-image:repeating-linear-gradient(#fff 0 27px,#e2e8f0 27px 28px);background-origin:content-box;background-clip:content-box;overflow:hidden}
-  .notes b{display:block;font-family:Sora;font-size:12.5px;color:${c};background:#fff;margin-bottom:2px}
+  .notes{flex:1;min-height:0;margin-top:calc(14px*var(--s));border:1.6px solid #e2e8f0;border-radius:10px;padding:10px 14px;overflow:hidden}
+  .notes b{display:block;font-family:Sora;font-size:12.5px;color:${c};margin-bottom:2px}
+  .notes i{display:block;height:28px;border-bottom:1px solid #e2e8f0}
   .src{margin:10px 0 0;font-size:8.8px;color:#5a6b75;line-height:1.45}`;
   const head = `<div class="hd">${icon(iconName, c)}<div><h1>${esc(p.title)}</h1>${p.subtitle ? `<p class="sub">${esc(p.subtitle)}</p>` : ""}</div></div>`;
   const page = `<section class="page"><div class="col">${head}${body(layout, list, p)}
-    <div class="notes"><b>${esc(p.notesLabel ?? "My notes")}</b></div><p class="src">${esc(p.note)}</p></div>
+    <div class="notes"><b>${esc(p.notesLabel ?? "My notes")}</b>${NOTE_LINES}</div><p class="src">${esc(p.note)}</p></div>
     <div class="foot">Free printable from Fresh Calendars · freshcalendars.com/news/${storySlug}/</div></section>`;
   return { html: doc(fonts, LETTER, css, [page]).replace("</body>", `${FIT}</body>`), layout, warnings };
 }
