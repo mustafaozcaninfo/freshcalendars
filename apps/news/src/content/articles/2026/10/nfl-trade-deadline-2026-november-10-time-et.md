@@ -4,6 +4,7 @@ seoTitle: "NFL Trade Deadline 2026: Nov. 10, 4 p.m. ET"
 description: "The National Football League (NFL) trade deadline is Tue., Nov. 10, 2026, at 1 p.m. Pacific Time, or 4 p.m. Eastern Time (ET). See every time zone."
 type: explainer
 publishedAt: "2026-10-25T23:40:00-04:00"
+updatedAt: "2026-10-29T11:50:00-04:00"
 authors: [jordan-bennett]
 category: planning
 keywords: ["NFL trade deadline 2026", "when is the NFL trade deadline", "NFL trade deadline time"]
@@ -42,13 +43,13 @@ hero:
     author: "Mike Kaplan"
 summary:
   - "The 2026 NFL trade deadline is Tue., Nov. 10, after Week 9, at 1 p.m. Pacific Time (PT), according to Seahawks.com and Chargers.com."
-  - "By our calculation that is 4 p.m. Eastern Time (ET), 3 p.m. Central Time (CT) and 2 p.m. Mountain Time (MT), because daylight saving time ends Nov. 1."
+  - "That is 4 p.m. Eastern Time (ET), the time the league calendar quoted on Seahawks.com gives (\"All trading ends for 2026 at 4:00 p.m., New York time\"), and 3 p.m. Central Time (CT) and 2 p.m. Mountain Time (MT)."
   - "In 2025 the cutoff was Tue., Nov. 4 at 4 p.m. ET, according to NFL.com, so the 2026 deadline falls six days later on the calendar."
 faq:
   - q: "When is the NFL trade deadline in 2026?"
     a: "Tuesday, Nov. 10, 2026, after Week 9, according to Seahawks.com's July 7, 2026 post of the league's important dates."
   - q: "What time is the NFL trade deadline in Eastern Time?"
-    a: "The deadline is 1 p.m. PT, which is 4 p.m. ET by our calculation. The league's memo was not published on NFL.com, so confirm the time with your team's own site."
+    a: "The deadline is 4 p.m. ET, or 1 p.m. PT. The league calendar quoted on Seahawks.com says all trading ends at 4:00 p.m. New York time; the memo itself was not published on NFL.com."
   - q: "Was the 2025 NFL trade deadline earlier?"
     a: "Yes. NFL.com's tracker gives the 2025 cutoff as Nov. 4 at 4 p.m. ET, a Tuesday."
 sources:
@@ -76,7 +77,7 @@ internalLinks:
     label: "When is Thanksgiving?"
   - href: "/november-calendars.html"
     label: "November 2026 printable calendar"
-related: [super-bowl-lxi-2027-date-sofi-stadium-channel-halftime, thanksgiving-football-schedule-2026-nfl-college-games, printable-nfl-schedule-2026-2027-pdf]
+related: [nfl-week-10-schedule-2026-printable-pick-em-sheet-game-times, super-bowl-lxi-2027-date-sofi-stadium-channel-halftime, printable-nfl-schedule-2026-2027-pdf]
 downloads:
   - group: "NFL Trade Deadline Countdown 2026 printables"
     title: "NFL Trade Deadline Countdown 2026"
@@ -99,7 +100,7 @@ draft: false
 
 **The 2026 National Football League (NFL) trade deadline is Tuesday, Nov. 10, at 1 p.m. Pacific Time (PT), which is 4 p.m. Eastern Time (ET), according to the league's important dates as posted by Seahawks.com.** The post, "NFL Announces Important Dates For 2026-2027" (July 7, 2026), says "The trade deadline for the 2026 season is November 10 at 1 p.m."
 
-<p class="callout"><b>Checked Oct. 25, 2026.</b> The date and the 1 p.m. PT time come from two team sites. The league's own memo was not published on NFL.com, and the Eastern Time figure is our calculation.</p>
+<p class="callout"><b>Last updated Oct. 29, 2026, 11:50 a.m. ET.</b> The 4 p.m. ET time now comes straight from the league calendar quoted on Seahawks.com, which says "All trading ends for 2026 at 4:00 p.m., New York time." Week 10 starts two days after the deadline, on Thu., Nov. 12.</p>
 
 This page adds a time-zone table and a one-page countdown printable that runs from the deadline to the Super Bowl. Both are below.
 
@@ -126,7 +127,7 @@ NFL.com's trade tracker gives the 2025 cutoff as "Nov. 4's 4 p.m. ET," a Tuesday
 | Season | Deadline | Source |
 |---|---|---|
 | 2025 | Tue., Nov. 4, 4 p.m. ET | NFL.com tracker |
-| 2026 | Tue., Nov. 10, 1 p.m. PT (4 p.m. ET, our calculation) | Seahawks.com and Chargers.com |
+| 2026 | Tue., Nov. 10, 4 p.m. ET (1 p.m. PT) | Seahawks.com and Chargers.com |
 
 ## What comes after the deadline?
 
