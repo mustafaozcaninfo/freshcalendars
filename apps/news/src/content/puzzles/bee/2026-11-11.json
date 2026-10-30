@@ -1,0 +1,29 @@
+{
+ "center_letter": "v",
+ "outer_letters": "cdeitu",
+ "pangrams": [
+  "deductive"
+ ],
+ "answers": [
+  "civet",
+  "civic",
+  "deceive",
+  "deceived",
+  "detective",
+  "device",
+  "dive",
+  "dived",
+  "divide",
+  "divided",
+  "divvied",
+  "duvet",
+  "evict",
+  "evicted",
+  "evictee",
+  "ivied",
+  "vetted",
+  "vice",
+  "vied",
+  "vivid"
+ ]
+}
