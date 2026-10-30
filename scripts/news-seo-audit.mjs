@@ -598,6 +598,16 @@ const oldRepeats = (await duplicateHeroes(heroStories)).filter((p) => p.a.publis
 warn("12-HERO-REPEATS", "Older stories that share a hero picture (redraw with a photo or another scene when you update them) — informational", () =>
   oldRepeats.length ? [`${oldRepeats.length} pairs`, ...oldRepeats.slice(0, 7).map((p) => `${p.a.slug} = ${p.b.slug} (${p.d} bits)`)] : []);
 
+// ── 13 Repeated patterns and inbound links (story source) ──────────────────
+// A heading or hook copied across stories reads as a template; a story nothing links to depends on
+// automatic picks alone. Owner decision 2026-10-30; stories published before PATTERNS_SINCE are exempt.
+const { PATTERNS_SINCE, H2_REUSE_MAX, TITLE_MAX, patternProblems } = await import("./lib/story-patterns.mjs");
+const patterns = patternProblems();
+check("13-H2-REUSE", `Stories since ${PATTERNS_SINCE}: no H2 that ${H2_REUSE_MAX}+ other stories already use word for word (dated series excepted); headings name the subject`, () => patterns.h2);
+check("13-CLOCK-HOOK", `Stories since ${PATTERNS_SINCE}: the clock-change line stays out of the description and summary unless the story is about it (Time Change category or headline)`, () => patterns.hook);
+check("13-TITLE-LENGTH", `Stories since ${PATTERNS_SINCE}: headline at most ${TITLE_MAX} characters`, () => patterns.title);
+check("13-INBOUND", `Stories since ${PATTERNS_SINCE}: at least one other story links to it (related list or body), not only the automatic picks`, () => patterns.inbound);
+
 warn("10-PDF-ORPHANS", "Printable PDFs that no story links to (not stamped, no canonical) — informational", () => {
   const linked = new Set(articleUrls.flatMap((u) => pdfLinks(html[u])));
   const all = [];

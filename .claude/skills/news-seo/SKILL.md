@@ -32,7 +32,7 @@ A page that only restates one official page has no information gain and is the f
 ## 2. Timing
 
 - **Publish before the searches peak**, not on the day: a race, holiday or deadline story 5 to 10 days ahead, a sky event a week ahead. Our Google News sitemap lists a story only for 48 hours after `publishedAt` (`09-NEWS-SITEMAP`), so that window should fall while people are searching.
-- **Update rather than duplicate (§03 l.880).** Same intent next week or next year: edit the existing story, set `updatedAt` to now (ET), add a dated "Last updated" callout when the change matters, and a `corrections` entry when a fact was wrong. A page with click history ranks better than a new copy of it.
+- **Update rather than duplicate (§03 l.880).** Same intent next week or next year: edit the existing story and set `updatedAt` to now (ET). Updates are silent: no "Last updated" callout and no `corrections` entry for new information; the page's Updated time is the signal. A page with click history ranks better than a new copy of it.
 - **Plan the update when you publish.** If an official figure is still pending (AAA forecast, closure times), say so in the story and list the recheck date in the commit message.
 - **Velocity (§03 l.758, l.834).** No fixed weekly cap since 2026-10-25 (owner's decision); `03-VELOCITY` only warns above 150 stories in 7 days. Publish only as many as the editors can check. **Stop rule:** if the indexed share or new queries fall two weeks in a row, publish fewer new stories and update existing ones until they recover.
 
@@ -40,11 +40,11 @@ A page that only restates one official page has no information gain and is the f
 
 - **First sentence answers the query (§08 l.2329)** with the date, time, number or rule, the entity and the official source by name. The next sentences give the main condition or exception (which states, which offices, which time zone) and what the rest of the story covers. Context comes after.
 - **Centerpiece unbroken (§01 l.202-206, l.314):** H1, lede, byline, hero and key points sit together; nothing splits them.
-- **Headline:** the main query first, then the specific fact ("NYC Marathon 2026: Start Times, TV Schedule, Road Closures and Where to Watch on Nov. 1"). It states what the story says; Discover demotes hype and withheld answers.
+- **Headline:** the main query first, then the specific fact ("NYC Marathon 2026: Start Times, TV Schedule, Road Closures and Where to Watch on Nov. 1"), at most 90 characters (`13-TITLE-LENGTH`). It states what the story says; Discover demotes hype and withheld answers.
 - **`description` is the lede:** the answer plus the next most useful fact, abbreviations expanded.
-- **H2s are the questions readers type (§04 l.1100, §08 l.2336):** "Where to watch in person", "What the waiver does and does not cover". Short, with the entity or attribute in them.
+- **H2s are the questions readers type (§04 l.1100, §08 l.2336):** "Where to watch in person", "What the waiver does and does not cover". Short, with the entity or attribute in them. A heading that three other stories already use word for word ("How we keep this accurate", "Key dates", "Print your checklist", "Plan the week") fails `13-H2-REUSE`; write "Christmas market dates to mark in Toronto" instead. Dated series (NBA games today) may share their headings.
 - **Match the form to the content (§08 l.2494-2522):** dates, times and prices go in tables, steps in a numbered list, items without order in a bulleted list; what and why go in prose. If the search results show tables, give a better table.
-- **Every number has a source, a year and a scope.** Write the fact with what it applies to: "USPS post offices close on Nov. 11, per the USPS holiday schedule" rather than "mail is closed". Last year's figure is labeled as last year's, never presented as this year's.
+- **Every number has a source, a year and a scope.** Official source first; when none is reachable, the fact goes in only if a search finds it in two or more independent reputable sources that agree (both listed in `sources:` with their dates and named in the text). Write the fact with what it applies to: "USPS post offices close on Nov. 11, per the USPS holiday schedule" rather than "mail is closed". Last year's figure is labeled as last year's, never presented as this year's.
 - **The verb carries the source's certainty (§08 l.2329).** "Closes", "is", "requires" only when the official source states it; "is scheduled to", "plans to", "has not announced" when that is what it says. Do not hedge a confirmed fact, and do not firm up a plan into a fact. Pick the exact relation: "observes" a holiday is not "closes for" it, "is eligible" is not "will receive".
 - **Bridges, not link dumps (§04 l.959):** link a calendar page or related story in the sentence where the reader needs it.
 - **Word economy (§08 l.2320):** every paragraph adds a fact. Long but useful is fine; padding to look complete is not. Floor: 300 words (`01-THIN`).
@@ -53,6 +53,8 @@ A page that only restates one official page has no information gain and is the f
 
 The audit catches the banned list, em dashes, "not X but Y", wrap-up endings and low burstiness. Also avoid (§02 l.605-612):
 - every section ending in a three-item list, or every paragraph of the same length,
+- the same hook in unrelated stories: the clock change ("U.S. clocks fall back Nov. 1") goes in the description or summary only when the story is about it (Time Change category or the headline says so); elsewhere it is one body sentence where it changes a time (`13-CLOCK-HOOK`),
+- a description or first summary bullet that copies another story's opening; start from this story's own fact,
 - a closing summary of what was just said,
 - opinion in factual prose (`08-NO-OPINION`); opinions only as attributed quotes, and election stories stay nonpartisan,
 - unsourced superlatives, invented people, quotes, counts or reviewers (§02 l.469, §07 l.2148).
@@ -68,6 +70,7 @@ Vary sentence length on purpose; the audit only enforces a floor.
 ## 6. Links and entity
 
 - At least two calendar pages (`internalLinks`) and up to three related stories (`related`); every story reachable from /news/ (`04-OUTER-CORE`, `04-NO-ORPHANS`).
+- **Link back from existing stories.** A new story is added to the `related` list or the body of 1-2 existing stories on the same topic (replace the weakest pick if a list already has three). Only when the topics really match: a Black Friday story links from the Cyber Monday story, not from a meteor shower. `13-INBOUND` fails a new story no other story links to; the automatic similarity picks do not count.
 - Anchor text says what the target is ("November 2026 printable calendar"), never a bare keyword string (§06 l.1622, l.1719).
 - Outbound links go to the official source. Commercial links carry `rel="sponsored"` and a disclosure (`06-SPONSORED`).
 - One organization entity, byline `news-desk` unless a real named editor signs; no `sameAs` we do not own (§07 l.2159).
@@ -85,5 +88,6 @@ No deceptive pages or redirects, no fake accounts or networks, no unprovable sup
 - [ ] Every figure has its source, year and scope; verbs match what the source confirms; pending figures say "not yet announced" with last year's value labeled.
 - [ ] H2s are reader questions; structured facts are in tables.
 - [ ] Hero is unique and printable is built from the story's facts (`news-visuals`).
-- [ ] Two calendar links, up to three related stories, linked in context.
+- [ ] Two calendar links, up to three related stories, linked in context; 1-2 existing stories on the same topic now link to this one.
+- [ ] Headline at most 90 characters; no H2 or opening copied from other stories; no clock-change hook outside a time-change story.
 - [ ] `pnpm news:build && pnpm news:verify && pnpm news:seo-audit && pnpm test` pass.

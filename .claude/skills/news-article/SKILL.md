@@ -29,13 +29,13 @@ Run the page / section / link decision tree in `news-seo` (section 1), then sear
 grep -ril "<main keyword>" apps/news/src/content/articles | head
 ```
 
-- Same search intent already covered → update that file: edit the facts, set `updatedAt` to now (ET), add a `<p class="callout"><b>Last updated Mon. D, YYYY, H:MM a.m. ET.</b> …</p>` line at the top of the body if the change matters to readers, and add a `corrections` entry if a fact was wrong.
+- Same search intent already covered → update that file silently: edit the facts and set `updatedAt` to now (ET). No "Last updated" callout and no `corrections` entry for new information; the Updated time on the page is enough.
 - A question that `/when-is/<holiday>/` already answers ("when is X") → write a different angle (what is open, why this date, deals) and link to the when-is page instead of competing with it.
 - Otherwise → new story. Write down the one thing it adds that the top results lack (a computed table, a printable, a fact others missed); if there is nothing, do not write it.
 
 ## 2. Research
 
-- Collect facts only from primary or authoritative sources: agencies (.gov), the company's newsroom or press release, official game or puzzle publisher, NASA/USNO, state election offices. Good secondary sources (AP, Reuters, major local news) only when the primary is unavailable, and attribute them in the text.
+- Collect facts only from primary or authoritative sources: agencies (.gov), the company's newsroom or press release, official game or puzzle publisher, NASA/USNO, state election offices. When no official source is reachable (blocked, not published), a fact goes in only if a search finds it in at least two independent reputable sources that agree: separate newsrooms (AP, Reuters, major national or local news), not two copies of one wire story, and never Wikipedia, aggregators or fan sites as one of the two. List both in `sources:` with their dates and name them in the text ("AP and the Detroit Free Press reported"). If the sources disagree or only one has it, it stays out or is labeled unconfirmed.
 - Write down every number, date and time with its URL. Anything you cannot confirm stays out or is labeled ("2025 hours; 2026 not announced").
 - Respect bot protection: if a site answers with a challenge or 403, use another source and tell the user.
 - Dates and weekdays: compute them, don't recall them (`node -e 'console.log(new Date("2026-11-26T12:00:00").toDateString())'`).
@@ -107,7 +107,7 @@ Discover picks stories for people's feeds without a search. The technical part i
 - **US readers first.** The update favors sites from the reader's country; use US dates, times (ET with other zones) and sources.
 - **Hero image: a picture, not a poster.** Google advises against text-heavy images, and Discover shows the real headline beside the image. With `news-assets`, leave `assets.title` out (or keep it under 40 characters) and let the kicker, calendar card and one short white card carry the image.
 
-Writing rules the audit enforces: no banned words (list in `scripts/news-seo-audit.mjs`), at most two em dashes, no "not X but Y", no closing summaries ("in conclusion", "overall,"), mixed sentence lengths, abbreviations expanded on first use (`pnpm news:abbrev` checks this in a second without a build; the pre-push hook runs it on every push). Link related /news/ stories and calendar pages inside the body text where they help the reader, not in a link dump.
+Writing rules the audit enforces: no banned words (list in `scripts/news-seo-audit.mjs`), at most two em dashes, no "not X but Y", no closing summaries ("in conclusion", "overall,"), mixed sentence lengths, abbreviations expanded on first use (`pnpm news:abbrev` checks this in a second without a build; the pre-push hook runs it on every push). Link related /news/ stories and calendar pages inside the body text where they help the reader, not in a link dump. Then link back: add the new slug to the `related` list or body of 1-2 existing stories on the same topic (`13-INBOUND`). New stories also keep headlines to 90 characters, write H2s that name the subject instead of reusing another story's heading, and keep the clock-change line out of the description and summary unless the story is about it (`13-*` checks, `news-seo` sections 3 and 4).
 
 Valid calendar-site links: check that the page answers on freshcalendars.com before using it. The ones stories use most: `/<month>-calendars.html`, `/printable-weekly-calendar.html`, `/printable-yearly-calendar.html`, `/printable-school-calendar.html`, `/when-is/<holiday>/`. To see what others link: `grep -rhoE 'href: "/[^"]+"' apps/news/src/content/articles | sort | uniq -c | sort -rn | head -20`.
 
