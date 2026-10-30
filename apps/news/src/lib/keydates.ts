@@ -338,6 +338,7 @@ export const KEY_DATES: KeyDate[] = [
   { date: "2026-11-13", label: "Chhath Puja begins (Nahay Khay), Nov. 13-16", slug: "chhath-puja-2026-dates-november-13-16-sunset-sunrise-arghya-times-us" },
   { date: "2026-11-15", label: "Chhath Puja Sandhya Arghya at sunset", slug: "chhath-puja-2026-dates-november-13-16-sunset-sunrise-arghya-times-us" },
   { date: "2026-11-16", label: "Chhath Puja Usha Arghya at sunrise", slug: "chhath-puja-2026-dates-november-13-16-sunset-sunrise-arghya-times-us" },
+  { date: "2026-12-21", label: "Winter solstice, 3:50 p.m. ET (20:50 UTC)", slug: "winter-solstice-2026-december-21-shortest-day-sunset-times" },
   { date: "2026-11-13", label: "Mercury retrograde ends, about 11 a.m. ET (NASA JPL Horizons)", slug: "mercury-retrograde-2026-ends-november-13-dates-times-2027" },
   { date: "2026-11-20", label: "Mercury at greatest western elongation, best pre-dawn view", slug: "mercury-retrograde-2026-ends-november-13-dates-times-2027" },
   { date: "2026-11-01", label: "SNAP November benefits begin in states that issue on the 1st", slug: "snap-payment-schedule-november-2026-deposit-dates-by-state" },
