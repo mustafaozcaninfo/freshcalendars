@@ -77,7 +77,7 @@ internalLinks:
     label: "November 2026 printable calendar"
   - href: "/printable-weekly-calendar.html"
     label: "printable weekly calendar"
-related: [thursday-night-football-tonight-panthers-packers-tnf-schedule-2026, printable-nfl-schedule-2026-2027-pdf, daylight-saving-time-ends-november-1-2026]
+related: [printable-nfl-pickem-sheets-2026, printable-nfl-schedule-2026-2027-pdf, daylight-saving-time-ends-november-1-2026]
 downloads:
   - group: "NFL Week 8 Schedule 2026 printables"
     title: "NFL Week 8 Schedule 2026"
@@ -148,4 +148,4 @@ Yes. NFL.com lists Panthers at Packers on Thu., Oct. 29 at 8:15 p.m. ET on Prime
 
 ## Is there a printable NFL Week 8 schedule?
 
-Yes. The one-page printable lists all 14 games with date, Eastern kickoff and network, so you can pin it beside the [November 2026 printable calendar](/november-calendars.html) or a [printable weekly calendar](/printable-weekly-calendar.html). For every week of the season, see our [printable NFL schedule for 2026-2027](/news/printable-nfl-schedule-2026-2027-pdf/). Times can change, so check NFL.com on game day.
+Yes. The one-page printable lists all 14 games with date, Eastern kickoff and network, so you can pin it beside the [November 2026 printable calendar](/november-calendars.html) or a [printable weekly calendar](/printable-weekly-calendar.html). For every week of the season, see our [printable NFL schedule for 2026-2027](/news/printable-nfl-schedule-2026-2027-pdf/). For a Week 8 pool, our [printable NFL pick'em sheets](/news/printable-nfl-pickem-sheets-2026/) have classic, confidence and office pool versions. Times can change, so check NFL.com on game day.

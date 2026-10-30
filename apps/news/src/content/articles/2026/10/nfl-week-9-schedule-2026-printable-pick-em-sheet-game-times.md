@@ -80,7 +80,7 @@ internalLinks:
     label: "November 2026 printable calendar"
   - href: "/printable-weekly-calendar.html"
     label: "printable weekly calendar"
-related: [nfl-week-8-schedule-2026-game-times-tv-clock-change, printable-nfl-schedule-2026-2027-pdf, nfl-international-games-november-2026-madrid-munich-mexico-city-kickoff-times]
+related: [printable-nfl-pickem-sheets-2026, nfl-week-10-schedule-2026-printable-pick-em-sheet-game-times, nfl-international-games-november-2026-madrid-munich-mexico-city-kickoff-times]
 downloads:
   - group: "NFL Week 9 Pick'em Sheet 2026 printables"
     title: "NFL Week 9 Pick'em Sheet 2026"
@@ -145,7 +145,7 @@ NFL.com lists Bengals vs. Falcons on Sunday, Nov. 8 at 9:30 a.m. ET on NFL Netwo
 
 ## Is there a printable NFL Week 9 pick'em sheet?
 
-Yes. The one-page sheet lists all 15 games in kickoff order with the network, a blank for your pick and a blank for the final score, plus a tiebreaker line for the total points in Monday's Bills at Vikings game. It also has a tick box per row to mark each game as you score it. Pin it beside the [November 2026 printable calendar](/november-calendars.html) or a [printable weekly calendar](/printable-weekly-calendar.html), and fill in your picks before the Thursday kickoff.
+Yes. The one-page sheet lists all 15 games in kickoff order with the network, a blank for your pick and a blank for the final score, plus a tiebreaker line for the total points in Monday's Bills at Vikings game. It also has a tick box per row to mark each game as you score it. Pin it beside the [November 2026 printable calendar](/november-calendars.html) or a [printable weekly calendar](/printable-weekly-calendar.html), and fill in your picks before the Thursday kickoff. For a confidence pool or one shared office pool grid, our [printable NFL pick'em sheets](/news/printable-nfl-pickem-sheets-2026/) have both formats for Week 9.
 
 ## Which games are on Sunday, Nov. 8?
 

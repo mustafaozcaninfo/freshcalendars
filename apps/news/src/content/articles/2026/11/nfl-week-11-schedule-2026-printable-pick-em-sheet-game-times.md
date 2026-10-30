@@ -162,7 +162,7 @@ Yes, for Sunday. The NFL's flexible scheduling procedures say that for Sunday Ni
 
 ## Is there a printable NFL Week 11 pick'em sheet?
 
-Yes. The one-page sheet lists all 13 games in kickoff order with the network, a blank for your pick and a blank for the final score, plus a tiebreaker line for the total points in Monday's Bengals at Commanders game. Pin it beside the [November 2026 printable calendar](/november-calendars.html) or a [printable weekly calendar](/printable-weekly-calendar.html), and fill in your picks before the Thursday kickoff. Week 12 falls in Thanksgiving week; see [when is Thanksgiving](/when-is/thanksgiving/) and our [Thanksgiving football schedule](/news/thanksgiving-football-schedule-2026-nfl-college-games/).
+Yes. The one-page sheet lists all 13 games in kickoff order with the network, a blank for your pick and a blank for the final score, plus a tiebreaker line for the total points in Monday's Bengals at Commanders game. Pin it beside the [November 2026 printable calendar](/november-calendars.html) or a [printable weekly calendar](/printable-weekly-calendar.html), and fill in your picks before the Thursday kickoff. Our [printable NFL pick'em sheets](/news/printable-nfl-pickem-sheets-2026/) list the sheets for every week so far. Week 12 falls in Thanksgiving week; see [when is Thanksgiving](/when-is/thanksgiving/) and our [Thanksgiving football schedule](/news/thanksgiving-football-schedule-2026-nfl-college-games/).
 
 ## Which games are on Sunday, Nov. 22?
 

@@ -144,7 +144,7 @@ NFL.com lists Patriots at Lions in Munich, Germany on Sunday, Nov. 15 at 9:30 a.
 
 ## Is there a printable NFL Week 10 pick'em sheet?
 
-Yes. The one-page sheet lists all 14 games in kickoff order with the network, a blank for your pick and a blank for the final score, plus a tiebreaker line for the total points in Monday's Chargers at Ravens game. It also has a tick box per row to mark each game as you score it. Pin it beside the [November 2026 printable calendar](/november-calendars.html) or a [printable weekly calendar](/printable-weekly-calendar.html), and fill in your picks before the Thursday kickoff.
+Yes. The one-page sheet lists all 14 games in kickoff order with the network, a blank for your pick and a blank for the final score, plus a tiebreaker line for the total points in Monday's Chargers at Ravens game. It also has a tick box per row to mark each game as you score it. Pin it beside the [November 2026 printable calendar](/november-calendars.html) or a [printable weekly calendar](/printable-weekly-calendar.html), and fill in your picks before the Thursday kickoff. Sheets for the other weeks are listed in our [printable NFL pick'em sheets](/news/printable-nfl-pickem-sheets-2026/) story.
 
 ## Which games are on Sunday, Nov. 15?
 

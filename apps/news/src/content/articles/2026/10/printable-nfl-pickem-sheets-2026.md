@@ -1,22 +1,22 @@
 ---
-title: "Printable NFL Pick'em Sheets 2026: Free Week 8 and Week 9 PDFs, Classic, Confidence and Office Pool"
-seoTitle: "Printable NFL Pick'em Sheets 2026: Weeks 8 and 9"
-description: "Free printable National Football League (NFL) pick'em sheets for Week 8 and Week 9, 2026: classic, confidence and office pool PDFs, Eastern Time (ET) kickoffs."
+title: "Printable NFL Pick'em Sheets 2026: Free Weekly PDFs, Confidence and Office Pool Sheets"
+seoTitle: "Printable NFL Pick'em Sheets 2026: Free Weekly PDFs"
+description: "Free printable National Football League (NFL) pick'em sheets for 2026: classic, confidence and office pool PDFs for Weeks 8 and 9, plus Weeks 10 and 11."
 type: explainer
 publishedAt: "2026-10-29T08:00:00-04:00"
-updatedAt: "2026-10-30T01:05:00-04:00"
+updatedAt: "2026-10-30T14:30:00-04:00"
 authors: [jordan-bennett]
 category: sports
-keywords: ["printable NFL pick'em sheets", "NFL Week 8 pick'em sheet", "NFL confidence pool sheet", "office football pool sheet", "NFL Week 9 pick'em sheet"]
+keywords: ["printable NFL pick'em sheets", "NFL pick'em sheet 2026", "NFL confidence pool sheet", "office football pool sheet", "printable football pool sheet"]
 assets:
   overlay: true
-  kicker: "NFL Pick'em Sheets · Weeks 8 and 9, 2026"
+  kicker: "NFL Pick'em Sheets · 2026 Season"
   date: "2026-10-29"
-  card: { top: "Week 8 kicks off Thu., Oct. 29", big: "8:15 p.m. ET", bottom: "Free sheets for Week 8 and Week 9" }
+  card: { top: "Free printable pick'em sheets", big: "Weeks 8-11", bottom: "Classic, confidence and office pool" }
 hero:
   src: ../../../../assets/news/printable-nfl-pickem-sheets-2026/printable-nfl-pickem-sheets-2026.webp
   alt: "An 1878 Harper's Weekly engraving of a football scrimmage, for printable NFL pick'em sheets 2026"
-  caption: "A game of foot-ball, drawn by J. O. Davidson for Harper's Weekly, Dec. 7, 1878. Week 8 of the 2026 NFL season began Thursday, Oct. 29."
+  caption: "A game of foot-ball, drawn by J. O. Davidson for Harper's Weekly, Dec. 7, 1878, for our weekly 2026 NFL pick'em sheets."
   credit: "Illustration: Julian Oliver Davidson, Harper's Weekly (1878) / Wikimedia Commons, cropped, edited"
   license:
     name: "Public domain"
@@ -26,7 +26,7 @@ hero:
 summary:
   - "Fresh Calendars offers free one-page NFL pick'em sheets for Week 8 (14 games, Oct. 29 to Nov. 2, 2026) and Week 9 (15 games, Nov. 5 to 9)."
   - "Each week has three formats: a classic pick'em sheet, a confidence pool sheet (points 1 to 14 in Week 8, 1 to 15 in Week 9) and an office pool grid."
-  - "Week 8 began Thursday, Oct. 29, 2026 (Packers 27, Panthers 19, per ESPN); the Sunday and Monday games remain, so sheets still work for those."
+  - "Weeks 10 and 11 each have a one-page pick'em sheet in their schedule stories, linked in the week-by-week table below."
   - "Every sheet comes in US Letter and A4, prints in black ink on white with thin rules, and names teams in plain text with no logos."
 faq:
   - q: "Are the NFL pick'em sheets free?"
@@ -53,7 +53,7 @@ internalLinks:
     label: "November 2026 printable calendar"
   - href: "/printable-weekly-calendar.html"
     label: "printable weekly calendar"
-related: [nfl-week-9-schedule-2026-printable-pick-em-sheet-game-times, nfl-week-11-schedule-2026-printable-pick-em-sheet-game-times, printable-nfl-schedule-2026-2027-pdf]
+related: [nfl-week-10-schedule-2026-printable-pick-em-sheet-game-times, nfl-week-11-schedule-2026-printable-pick-em-sheet-game-times, printable-nfl-schedule-2026-2027-pdf]
 draft: false
 downloads:
   - group: "NFL Week 8 Pick'em Sheets 2026"
@@ -154,9 +154,18 @@ downloads:
     pages: 1
 ---
 
-<p class="callout"><b>Updated Oct. 30, 2026, 1:05 a.m. ET.</b> Week 8 began Thursday, Oct. 29, 2026, when the Packers beat the Panthers 27-19, per ESPN. The Sunday, Nov. 1 and Monday, Nov. 2 games remain, so the sheets still work for the rest of the week.</p>
+**Fresh Calendars has free one-page printable pick'em sheets for the 2026 National Football League (NFL) season, built from the schedule on NFL.com with kickoffs in Eastern Time (ET).** Weeks 8 and 9 come in three formats: a classic pick'em sheet, a confidence pool sheet and an office pool grid, in US Letter and A4. Weeks 10 and 11 each have a one-page sheet in their schedule stories. Week 8 began Thursday, Oct. 29, when the Packers beat the Panthers 27-19, per ESPN; the Sunday and Monday games remain.
 
-**Fresh Calendars has free one-page printable pick'em sheets for National Football League (NFL) Week 8, which began Thursday, Oct. 29, 2026, at 8:15 p.m. Eastern Time (ET), and for Week 9, using the schedule on NFL.com.** Each week comes in three formats: a classic pick'em sheet, a confidence pool sheet and an office pool grid. The download box below has every PDF, in US Letter and A4, all designed to print in black ink on white.
+## NFL pick'em sheets by week
+
+| Week | Games | Dates | Tiebreaker game (Mon.) | Sheets |
+|---|---|---|---|---|
+| Week 8 | 14 | Oct. 29 to Nov. 2 | Bears at Seahawks | Classic, confidence, office pool (downloads below) |
+| Week 9 | 15 | Nov. 5 to 9 | Bills at Vikings | Classic, confidence, office pool (downloads below), and the [Week 9 schedule sheet](/news/nfl-week-9-schedule-2026-printable-pick-em-sheet-game-times/) |
+| Week 10 | 14 | Nov. 12 to 16 | Chargers at Ravens | [Week 10 pick'em sheet](/news/nfl-week-10-schedule-2026-printable-pick-em-sheet-game-times/) |
+| Week 11 | 13 | Nov. 19 to 23 | Bengals at Commanders | [Week 11 pick'em sheet](/news/nfl-week-11-schedule-2026-printable-pick-em-sheet-game-times/) |
+
+Game counts, dates and tiebreaker games come from NFL.com. Week 12 is Thanksgiving week and starts a day early, on Wednesday, Nov. 25; our [Thanksgiving football schedule](/news/thanksgiving-football-schedule-2026-nfl-college-games/) has those games.
 
 ## Which pick'em sheet should you print?
 
