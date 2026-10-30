@@ -24,6 +24,8 @@ export const KEY_DATES: KeyDate[] = [
   { date: "2026-12-21", label: "Royal Mail last recommended posting date for 1st Class and Tracked 24", slug: "royal-mail-last-posting-dates-christmas-2026-second-class-18-december" },
   { date: "2026-12-23", label: "Royal Mail last recommended posting date for Special Delivery Guaranteed", slug: "royal-mail-last-posting-dates-christmas-2026-second-class-18-december" },
   { date: "2026-11-01", label: "Early Decision and Early Action deadline at Harvard, Yale, MIT, Penn, Brown and others", slug: "early-decision-deadlines-2026-november-1-sunday-college-list-uc-november-30" },
+  { date: "2026-10-30", label: "Massachusetts in-person early voting ends", slug: "massachusetts-ballot-questions-2026-what-yes-no-votes-do-early-voting-ends-october-30" },
+  { date: "2026-11-03", label: "Massachusetts votes on nine ballot questions, polls 7 a.m. to 8 p.m.", slug: "massachusetts-ballot-questions-2026-what-yes-no-votes-do-early-voting-ends-october-30" },
   { date: "2026-11-02", label: "Duke Early Decision deadline", slug: "early-decision-deadlines-2026-november-1-sunday-college-list-uc-november-30" },
   { date: "2026-11-30", label: "University of California fall 2027 application filing period ends", slug: "early-decision-deadlines-2026-november-1-sunday-college-list-uc-november-30" },
   { date: "2026-10-31", label: "College football Week 10: first kickoffs at noon ET, Florida vs. Georgia 3:30 p.m. ET", slug: "college-football-week-10-schedule-2026-halloween-top-25-game-times-tv" },

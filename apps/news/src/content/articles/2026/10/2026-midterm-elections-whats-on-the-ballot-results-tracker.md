@@ -54,7 +54,7 @@ internalLinks:
     label: "December 2026 printable calendar"
   - href: "/printable-yearly-calendar.html"
     label: "2027 printable yearly calendar"
-related: [what-time-do-polls-close-election-day-2026, mail-ballot-deadlines-2026-by-state, sample-ballot-by-zip-code-2026-texas-ballot]
+related: [what-time-do-polls-close-election-day-2026, mail-ballot-deadlines-2026-by-state, massachusetts-ballot-questions-2026-what-yes-no-votes-do-early-voting-ends-october-30]
 downloads:
   - group: "Election 2026 printables"
     title: "Election Night Tracker 2026"

@@ -1,7 +1,7 @@
 ---
 title: "NFL Week 11 Schedule 2026: Game Times, TV Channels, Vikings-49ers in Mexico City, Pick'em Sheet"
 seoTitle: "NFL Week 11 Schedule 2026: Times and Pick'em Sheet"
-description: "National Football League (NFL) Week 11 has 13 games, Nov. 19 to 23, 2026: Eastern Time (ET) and Pacific Time (PT) kickoffs, TV channels and a printable pick'em sheet."
+description: "National Football League (NFL) Week 11 runs Nov. 19 to 23, 2026: 13 games, Eastern Time (ET) and Pacific Time (PT) kickoffs, TV channels and a pick'em sheet."
 type: news
 publishedAt: "2026-10-30T13:43:00-04:00"
 authors: [jordan-bennett]
