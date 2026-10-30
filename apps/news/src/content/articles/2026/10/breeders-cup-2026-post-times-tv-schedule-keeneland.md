@@ -50,7 +50,7 @@ internalLinks:
     label: "October 2026 printable calendar"
   - href: "/printable-weekly-calendar.html"
     label: "Printable weekly calendar"
-related: [ufc-fight-night-moicano-vs-nolan-halloween-start-time-how-to-watch, mexico-city-grand-prix-2026-schedule-race-time-by-time-zone]
+related: [ufc-fight-night-moicano-vs-nolan-halloween-start-time-how-to-watch, mexico-city-grand-prix-2026-schedule-race-time-by-time-zone, melbourne-cup-2026-time-us-uk-derby-day-oaks-carnival-schedule]
 corrections:
   - date: "2026-10-29T15:20:00-04:00"
     text: "An earlier version listed only seven post times and said FanDuel TV shows the Championship races except the Classic. The Breeders' Cup's Oct. 21 release says FanDuel TV's Players' Show carries every Championship and undercard race; the full card is now listed."

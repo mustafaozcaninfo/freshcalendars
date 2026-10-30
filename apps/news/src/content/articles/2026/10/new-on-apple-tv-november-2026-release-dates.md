@@ -101,7 +101,7 @@ internalLinks:
     label: "November 2026 printable calendar"
   - href: "/december-calendars.html"
     label: "December 2026 printable calendar"
-related: [new-on-hulu-november-2026-release-dates, netflix-new-movies-november-2026-release-dates, new-on-prime-video-november-2026-rings-of-power-season-3]
+related: [the-gilded-age-season-4-premiere-time-november-1-hbo-max, netflix-new-movies-november-2026-release-dates, new-on-prime-video-november-2026-rings-of-power-season-3]
 downloads:
   - group: "Apple TV November 2026 Premiere and Episode Calendar printables"
     title: "Apple TV November 2026 Premiere and Episode Calendar"

@@ -4,9 +4,10 @@ seoTitle: "El Niño Update Nov. 12, NOAA Winter Outlook Nov. 19"
 description: "The National Oceanic and Atmospheric Administration (NOAA) Climate Prediction Center (CPC) issues its next El Niño update Nov. 12 and winter outlook Nov. 19."
 type: news
 publishedAt: "2026-10-30T10:30:00-04:00"
+updatedAt: "2026-10-30T13:05:00-04:00"
 authors: [jordan-bennett]
 category: planning
-keywords: ["super el niño winter forecast", "noaa winter outlook update november 19", "el niño update november 2026", "cpc outlook release schedule"]
+keywords: ["super el niño winter forecast", "noaa winter outlook update november 19", "el niño update november 2026", "cpc outlook release schedule", "winter forecast canada el niño"]
 hero:
   src: ../../../../assets/news/el-nino-update-november-12-noaa-winter-outlook-november-19-2026/el-nino-update-november-12-noaa-winter-outlook-november-19-2026.webp
   alt: "El Niño winter outlook: NASA satellite photo of severe storms approaching the U.S. West Coast from the Pacific"
@@ -34,6 +35,18 @@ faq:
   - q: "What was the El Niño status a year ago?"
     a: "In 2025, the CPC's Oct. 9 discussion had a La Niña Advisory, and its next discussion was set for Nov. 13, 2025."
 sources:
+  - title: "Weather: El Niño"
+    url: "https://www.canada.ca/en/environment-climate-change/services/weather-general-tools-resources/el-nino.html"
+    publisher: "Environment and Climate Change Canada"
+    date: "2026-08-21"
+  - title: "Global Seasonal Forecast Products for WMO"
+    url: "https://weather.gc.ca/saisons/GPC_Montreal_e.html"
+    publisher: "Environment and Climate Change Canada"
+    date: "2026-10-30"
+  - title: "Environment and Climate Change Canada presents winter seasonal outlook and expansion of the rapid extreme weather event attribution system"
+    url: "https://www.canada.ca/en/environment-climate-change/news/2025/12/environment-and-climate-change-canada-presents-winter-seasonal-outlook-and-expansion-of-the-rapid-extreme-weather-event-attribution-system.html"
+    publisher: "Environment and Climate Change Canada"
+    date: "2025-12-11"
   - title: "CPC - ENSO Diagnostic Discussion"
     url: "https://www.cpc.ncep.noaa.gov/products/analysis_monitoring/enso_advisory/ensodisc.shtml"
     publisher: "NOAA Climate Prediction Center"
@@ -162,6 +175,12 @@ NOAA's Oct. 15, 2026 release covers December 2026 to February 2027. The headline
 | Drier than average odds | Hawaii, much of Alaska, the northern Mountain West, parts of the Great Lakes and the Pacific Islands |
 
 Wetter than average conditions are most likely across the southern tier from the Southwest to the Southeast and along the East Coast, NOAA says. These are outlooks of odds across large regions, not local forecasts, and the Nov. 19 update may change them. Our table does not include a local snowfall forecast because the sources we used do not give one.
+
+## What does El Niño mean for winter in Canada and Ontario?
+
+Environment and Climate Change Canada (ECCC) says on its El Niño page that "Canada is mostly affected by El Niño during winter and spring" and that El Niño "often brings milder weather to western, northwestern and central Canada, while eastern Canada usually experiences lesser effects." That is a general pattern, not a forecast for this winter.
+
+ECCC's global seasonal forecast page says new seasonal maps are "made available" on the first day of every month, so the next set is due Tuesday, Dec. 1, 2026. ECCC has not announced a date for a 2026-27 winter outlook briefing. Last year it presented its winter seasonal outlook on Dec. 11, 2025, in Ottawa. Ontario readers who want the probabilities for their area can open the maps on the ECCC seasonal forecasts page at weather.gc.ca.
 
 ## How does this compare with last year?
 
