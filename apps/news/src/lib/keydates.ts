@@ -152,6 +152,9 @@ export const KEY_DATES: KeyDate[] = [
   { date: "2026-12-09", label: "Canada Post deadline for letters to Santa", slug: "canada-post-holiday-shipping-deadlines-2026-christmas" },
   { date: "2026-12-12", label: "127th Army-Navy Game, 3 p.m. ET on CBS", slug: "army-navy-game-2026-date-kickoff-time-metlife-stadium-tv" },
   { date: "2026-11-08", label: "São Paulo Grand Prix, 12 p.m. ET", slug: "sao-paulo-grand-prix-2026-schedule-race-time-by-time-zone" },
+  { date: "2026-11-06", label: "NASCAR Truck Series championship race, 7:30 p.m. ET on FS1, Homestead", slug: "nascar-championship-2026-homestead-start-time-tv-schedule" },
+  { date: "2026-11-07", label: "NASCAR O'Reilly Series championship race, 5 p.m. ET on The CW, Homestead", slug: "nascar-championship-2026-homestead-start-time-tv-schedule" },
+  { date: "2026-11-08", label: "NASCAR Cup Series championship race, 3 p.m. ET on NBC, Homestead", slug: "nascar-championship-2026-homestead-start-time-tv-schedule" },
   { date: "2026-11-11", label: "Rings of Power Season 3 premieres on Prime Video", slug: "new-on-prime-video-november-2026-rings-of-power-season-3" },
   { date: "2026-11-15", label: "113th Grey Cup in Calgary, 6 p.m. ET", slug: "grey-cup-2026-date-kickoff-time-calgary-cfl-playoffs" },
   { date: "2026-11-12", label: "27th Latin Grammy Awards", slug: "latin-grammys-2026-date-las-vegas-how-to-watch" },
@@ -345,6 +348,7 @@ export const KEY_DATES: KeyDate[] = [
   { date: "2026-10-31", label: "SNL: Inde Navarrette hosts, Gracie Abrams, 11:30 p.m. ET on NBC", slug: "snl-hosts-november-2026-halloween-episode-inde-navarrette-schedule" },
   { date: "2026-11-07", label: "SNL: Druski hosts with The Strokes, 11:30 p.m. ET on NBC", slug: "snl-hosts-november-2026-halloween-episode-inde-navarrette-schedule" },
   { date: "2026-10-30", label: "NHL: 3 games, first puck drop 6:00 p.m. ET", slug: "nhl-games-today-october-30-2026" },
+  { date: "2026-10-30", label: "College football: 4 Friday games, Baylor at UCF 7:30 p.m. ET on ESPN", slug: "college-football-games-today-october-30-2026" },
   { date: "2026-10-31", label: "NHL: 10 Halloween games, first puck drops 1:00 p.m. ET", slug: "nhl-games-today-october-31-2026-halloween" },
   { date: "2026-11-19", label: "Great American Smokeout (American Cancer Society)", slug: "great-american-smokeout-2026-november-19-quit-day-planner" },
   { date: "2026-11-19", label: "Beaujolais Nouveau 2026 release day", slug: "beaujolais-nouveau-day-2026-november-19-release-dates" },
@@ -379,6 +383,17 @@ export function upcomingFor(slugs: Set<string>, now: Date = new Date()): (KeyDat
   return KEY_DATES.filter((k) => k.date >= today && slugs.has(k.slug))
     .sort((a, b) => a.date.localeCompare(b.date) || a.label.localeCompare(b.label))
     .map((k) => ({ ...k, days: daysUntil(k.date, today) }));
+}
+
+/**
+ * Dates for a story's or topic's .ics file: the upcoming ones, or once they have all passed, every
+ * date it reported. The file then keeps its URL after the event, so links Google and readers saved
+ * still open a calendar instead of a 404.
+ */
+export function calendarDatesFor(slugs: Set<string>, now: Date = new Date()): KeyDate[] {
+  const next = upcomingFor(slugs, now);
+  if (next.length) return next;
+  return KEY_DATES.filter((k) => slugs.has(k.slug)).sort((a, b) => a.date.localeCompare(b.date) || a.label.localeCompare(b.label));
 }
 
 /** Stable event id for calendar files: the date plus a slug of the label. */

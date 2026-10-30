@@ -6,7 +6,7 @@ type: explainer
 publishedAt: "2026-10-25T13:16:00-04:00"
 updatedAt: "2026-10-26T06:02:00-04:00"
 authors: [jordan-bennett]
-category: planning
+category: entertainment
 keywords: ["From season 5 release date", "From season 5", "From final season", "From MGM+ season 5"]
 dateline: "New York"
 assets:

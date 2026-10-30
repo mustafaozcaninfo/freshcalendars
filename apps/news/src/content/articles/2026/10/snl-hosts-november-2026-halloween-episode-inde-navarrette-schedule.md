@@ -5,7 +5,7 @@ description: "Inde Navarrette hosts Saturday Night Live (SNL) on Oct. 31, 2026 w
 type: news
 publishedAt: "2026-10-29T10:08:00-04:00"
 authors: [jordan-bennett]
-category: planning
+category: entertainment
 keywords: ["who is hosting snl this week", "snl host october 31 2026", "snl hosts november 2026", "snl season 52 hosts"]
 assets:
   overlay: true

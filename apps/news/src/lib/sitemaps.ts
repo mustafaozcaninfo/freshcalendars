@@ -26,9 +26,11 @@ const head = `<?xml version="1.0" encoding="UTF-8"?>\n`;
 export interface UrlEntry {
   path: string;
   lastmod?: Date;
-  priority?: string;
-  /** Up to 1,000 per URL: the hero first, then any printables on the page. */
-  images?: { url: string; title: string }[];
+  /**
+   * Up to 1,000 per URL: the hero first, then any printables on the page. Only image:loc is
+   * written; Google dropped image:title/caption in 2022, and priority/changefreq are ignored.
+   */
+  images?: { url: string }[];
 }
 
 export function urlset(entries: UrlEntry[]): string {
@@ -38,11 +40,8 @@ export function urlset(entries: UrlEntry[]): string {
     .map((e) => {
       const lines = [`    <loc>${xmlEscape(absNewsUrl(e.path))}</loc>`];
       if (e.lastmod) lines.push(`    <lastmod>${isoDateTime(e.lastmod)}</lastmod>`);
-      if (e.priority) lines.push(`    <priority>${e.priority}</priority>`);
       for (const img of e.images ?? []) {
-        lines.push(
-          `    <image:image>\n      <image:loc>${xmlEscape(img.url)}</image:loc>\n      <image:title>${xmlEscape(img.title)}</image:title>\n    </image:image>`,
-        );
+        lines.push(`    <image:image>\n      <image:loc>${xmlEscape(img.url)}</image:loc>\n    </image:image>`);
       }
       return `  <url>\n${lines.join("\n")}\n  </url>`;
     })

@@ -107,7 +107,7 @@ Discover picks stories for people's feeds without a search. The technical part i
 - **US readers first.** The update favors sites from the reader's country; use US dates, times (ET with other zones) and sources.
 - **Hero image: a picture, not a poster.** Google advises against text-heavy images, and Discover shows the real headline beside the image. With `news-assets`, leave `assets.title` out (or keep it under 40 characters) and let the kicker, calendar card and one short white card carry the image.
 
-Writing rules the audit enforces: no banned words (list in `scripts/news-seo-audit.mjs`), at most two em dashes, no "not X but Y", no closing summaries ("in conclusion", "overall,"), mixed sentence lengths, abbreviations expanded on first use. Link related /news/ stories and calendar pages inside the body text where they help the reader, not in a link dump.
+Writing rules the audit enforces: no banned words (list in `scripts/news-seo-audit.mjs`), at most two em dashes, no "not X but Y", no closing summaries ("in conclusion", "overall,"), mixed sentence lengths, abbreviations expanded on first use (`pnpm news:abbrev` checks this in a second without a build; the pre-push hook runs it on every push). Link related /news/ stories and calendar pages inside the body text where they help the reader, not in a link dump.
 
 Valid calendar-site links: check that the page answers on freshcalendars.com before using it. The ones stories use most: `/<month>-calendars.html`, `/printable-weekly-calendar.html`, `/printable-yearly-calendar.html`, `/printable-school-calendar.html`, `/when-is/<holiday>/`. To see what others link: `grep -rhoE 'href: "/[^"]+"' apps/news/src/content/articles | sort | uniq -c | sort -rn | head -20`.
 

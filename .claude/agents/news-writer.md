@@ -16,6 +16,7 @@ You write Fresh Calendars /news/ stories. Read `CLAUDE.md`, `.claude/skills/news
 - `publishedAt` must not be in the future: use the current America/New_York time minus a few minutes.
 - Structure from `news-seo`: the first sentence carries the date or number, the entity and the official source; H2s are reader questions; structured facts go in tables; every figure has its source and year.
 - Daily puzzle pages: follow `.claude/skills/news-puzzles/SKILL.md`. The official data must be saved (`pnpm news:puzzle-data <date>`) before writing, and `pnpm news:puzzle-check` must pass after every page; fix the page, never the data.
+- Run `pnpm news:abbrev` (about a second, no build) after writing and after every later edit; it is the 08-ABBREV rule that fails CI most often, and the pre-push hook runs it too.
 - Run `pnpm news:build && pnpm news:verify && pnpm news:seo-audit && pnpm test` once the story is complete (about 20 seconds), not after every edit. Fix failures in the story (shorten a title, expand an abbreviation, reword vague quantifiers) until everything passes. Never weaken a check or add words to the audit's allowlists; report it if a check looks wrong.
 - Before you report, go through the story (body, summary, FAQ, captions, printable rows) and match every date, time, number, name and rule to its line in the fact sheet. Delete or fix anything without one. The main session spot-checks this, and a miss costs a review round.
 - Do not take screenshots or open images to review them; the main session does the final visual check.

@@ -4,6 +4,7 @@ seoTitle: "Week Numbers 2027: Calendar With Week Numbers"
 description: "Week 1 of 2027 starts Monday, Jan. 4 under the international standard, and the year has 52 weeks. Full week list, the U.S. system and four printables."
 type: explainer
 publishedAt: "2026-10-18T11:40:00-04:00"
+updatedAt: "2026-10-30T01:05:00-04:00"
 authors: [jordan-bennett]
 category: calendar-guides
 keywords: ["week numbers 2027", "2027 calendar with week numbers", "what week is it", "ISO week number 2027", "how many weeks in 2027"]
@@ -17,10 +18,10 @@ summary:
   - "Under the international ISO 8601 standard, week 1 of 2027 runs from Monday, Jan. 4 to Sunday, Jan. 10, and 2027 has 52 weeks."
   - "Jan. 1 to 3, 2027 still belong to week 53 of 2026, because 2026 is a 53-week year."
   - "The U.S. system used by Excel's default WEEKNUM starts weeks on Sunday and counts the week of Jan. 1 as week 1, so it numbers 2027 up to week 53."
-  - "Today, Sunday, Oct. 18, 2026, is the last day of ISO week 42."
+  - "Friday, Oct. 30, 2026, is in ISO week 44 (Monday, Oct. 26 to Sunday, Nov. 1)."
 faq:
   - q: "What week number is it today?"
-    a: "Sunday, Oct. 18, 2026, is the last day of ISO week 42, which runs Monday, Oct. 12 to Sunday, Oct. 18. Under the U.S. Sunday-start system it is the first day of week 43."
+    a: "Friday, Oct. 30, 2026, is in ISO week 44, which runs Monday, Oct. 26 to Sunday, Nov. 1. Under the U.S. Sunday-start system it also falls in week 44."
   - q: "When does week 1 of 2027 start?"
     a: "Monday, Jan. 4, 2027, under ISO 8601. Week 1 is the week that contains the year's first Thursday, and in 2027 that Thursday is Jan. 7."
   - q: "How many weeks are in 2027?"
@@ -94,7 +95,7 @@ draft: false
 
 ## What week is it today?
 
-Sunday, Oct. 18, 2026, is the last day of **ISO week 42** (Oct. 12 to 18). Tomorrow starts week 43. If your office counts weeks from Sunday, the U.S. way, today is already the first day of week 43.
+Friday, Oct. 30, 2026, is in **ISO week 44** (Monday, Oct. 26 to Sunday, Nov. 1). Monday, Nov. 2 starts week 45. If your office counts weeks from Sunday, the U.S. way, Oct. 30 also falls in week 44.
 
 ## How ISO week numbers work
 

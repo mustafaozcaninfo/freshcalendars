@@ -4,6 +4,7 @@ seoTitle: "Lakers Schedule November 2026: Times, TV, Cup Games"
 description: "The Lakers play at the Warriors on Fri., Oct. 30, 2026, at 7 p.m. Pacific Time (PT), 10 p.m. Eastern Time (ET), on Prime Video, with all 15 November games."
 type: news
 publishedAt: "2026-10-29T01:45:00-04:00"
+updatedAt: "2026-10-30T01:05:00-04:00"
 authors: [jordan-bennett]
 category: sports
 keywords: ["Lakers schedule", "Lakers schedule November 2026", "next Lakers game", "Lakers game tonight", "Lakers NBA Cup 2026"]
@@ -57,9 +58,9 @@ summary:
   - "80 of 82 games are dated in the NBA's August schedule; the NBA adds the rest after Cup group play."
 faq:
   - q: "When is the next Lakers game?"
-    a: "Fri., Oct. 30, 2026, at the Golden State Warriors, 7 p.m. PT (10 p.m. ET), on Prime Video, according to the NBA's 2026-27 schedule. There is no Lakers game on Thu., Oct. 29."
+    a: "Fri., Oct. 30, 2026, at the Golden State Warriors, 7 p.m. PT (10 p.m. ET), on Prime Video, according to the NBA's 2026-27 schedule."
   - q: "Do the Lakers play tonight?"
-    a: "Not on Thu., Oct. 29. The NBA schedule shows the Lakers at the Clippers on Wed., Oct. 28 and at the Warriors on Fri., Oct. 30."
+    a: "Yes, on Fri., Oct. 30, 2026, at the Golden State Warriors, 7 p.m. PT (10 p.m. ET), on Prime Video, according to the NBA's schedule. It is an Emirates NBA Cup group game."
   - q: "How many Lakers games are in November 2026?"
     a: "15, according to the NBA's schedule dated Aug. 13, 2026. It is subject to change."
   - q: "Which Lakers games are NBA Cup games?"
@@ -99,7 +100,7 @@ downloads:
 draft: false
 ---
 
-**The Los Angeles Lakers' next game is tomorrow, Friday, Oct. 30, 2026, at the Golden State Warriors at 7 p.m. Pacific Time (PT), which is 10 p.m. Eastern Time (ET), on Prime Video, according to the National Basketball Association (NBA) schedule. It is an Emirates NBA Cup group game.** There is no Lakers game today, Thursday, Oct. 29.
+**The Los Angeles Lakers play tonight, Friday, Oct. 30, 2026, at the Golden State Warriors at 7 p.m. Pacific Time (PT), which is 10 p.m. Eastern Time (ET), on Prime Video, according to the National Basketball Association (NBA) schedule. It is an Emirates NBA Cup group game.**
 
 The NBA's 2026-27 regular season schedule PDF, dated Aug. 13, 2026 and marked "subject to change," gives times in ET and lists each game's local time for the home team. The table below adds a Pacific column (ET minus 3 hours) for every Lakers game from Oct. 30 to Nov. 30, and a printable of the same rows is further down.
 

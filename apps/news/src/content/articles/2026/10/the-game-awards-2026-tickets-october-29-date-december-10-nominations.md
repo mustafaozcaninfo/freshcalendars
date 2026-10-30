@@ -1,11 +1,12 @@
 ---
 title: "The Game Awards 2026: Tickets On Sale Oct. 29 at 10 a.m. PT, Show Dec. 10, Nominations Mid-November"
 seoTitle: "The Game Awards 2026: Tickets, Date, Nominations"
-description: "The Game Awards 2026 tickets go on sale Thursday, Oct. 29 at 10 a.m. Pacific Time (PT), 1 p.m. Eastern Time (ET), through AXS. The show is Thursday, Dec. 10."
+description: "The Game Awards 2026 tickets went on sale Thursday, Oct. 29 at 10 a.m. Pacific Time (PT), 1 p.m. Eastern Time (ET), through AXS. The show is Thursday, Dec. 10."
 type: news
 publishedAt: "2026-10-28T19:45:00-04:00"
+updatedAt: "2026-10-30T01:05:00-04:00"
 authors: [jordan-bennett]
-category: planning
+category: entertainment
 keywords: ["the game awards 2026", "the game awards 2026 tickets", "the game awards 2026 date", "game awards nominations 2026 date", "when is the game awards 2026"]
 dateline: "Los Angeles"
 hero:
@@ -20,13 +21,13 @@ hero:
     author: "Mfield - Matthew Field"
     authorUrl: "https://commons.wikimedia.org/wiki/User:Mfield"
 summary:
-  - "Public tickets for The Game Awards 2026 go on sale Thursday, Oct. 29, 2026 at 10 a.m. Pacific Time (PT), which is 1 p.m. Eastern Time (ET), through AXS, while available."
+  - "Public tickets for The Game Awards 2026 went on sale Thursday, Oct. 29, 2026 at 10 a.m. Pacific Time (PT), which is 1 p.m. Eastern Time (ET), through AXS."
   - "The show is Thursday, Dec. 10, 2026, streaming live from the Peacock Theater in Los Angeles, 42 days after the ticket sale."
   - "The Game Awards lists the 2026 nominees as coming mid-November and has not named an exact day."
   - "Start time, ticket prices, fan voting dates and the streaming platforms are not yet announced."
 faq:
   - q: "When do The Game Awards 2026 tickets go on sale?"
-    a: "A limited number of public tickets go on sale at 10 a.m. PT / 1 p.m. ET on Thursday, Oct. 29, 2026, through AXS, while available, according to The Game Awards."
+    a: "A limited number of public tickets went on sale at 10 a.m. PT / 1 p.m. ET on Thursday, Oct. 29, 2026, through AXS, according to The Game Awards."
   - q: "How much are The Game Awards 2026 tickets?"
     a: "Prices are not listed on The Game Awards announcement. The AXS event page shows what is on offer."
   - q: "What is the date of The Game Awards 2026?"
@@ -90,11 +91,11 @@ downloads:
 draft: false
 ---
 
-**Public tickets for The Game Awards 2026 go on sale Thursday, Oct. 29, 2026, at 10 a.m. Pacific Time (PT), which is 1 p.m. Eastern Time (ET), through AXS, and the show is Thursday, Dec. 10, 2026 at the Peacock Theater in Los Angeles, according to The Game Awards.** Its announcement says "a limited number of public tickets" will be available, so buy "while available." Below: the sale time in each time zone, what is still not announced, and a dated countdown.
+**Public tickets for The Game Awards 2026 went on sale Thursday, Oct. 29, 2026, at 10 a.m. Pacific Time (PT), which is 1 p.m. Eastern Time (ET), through AXS, and the show is Thursday, Dec. 10, 2026 at the Peacock Theater in Los Angeles, according to The Game Awards.** Its announcement says "a limited number of public tickets" will be available, so buy "while available." Below: the sale time in each time zone, what is still not announced, and a dated countdown.
 
 ## What time do The Game Awards 2026 tickets go on sale?
 
-The Game Awards gives the time as 10 a.m. PT / 1 p.m. ET on Thursday, Oct. 29, and points buyers to AXS. The other columns are our conversion. U.S. and Canadian clocks are still on daylight time on Oct. 29, because U.S. daylight time ends Sunday, Nov. 1. The United Kingdom already moved to Greenwich Mean Time (GMT) on Oct. 25.
+The Game Awards gave the time as 10 a.m. PT / 1 p.m. ET on Thursday, Oct. 29, and pointed buyers to AXS. The other columns are our conversion. U.S. and Canadian clocks are still on daylight time on Oct. 29, because U.S. daylight time ends Sunday, Nov. 1. The United Kingdom already moved to Greenwich Mean Time (GMT) on Oct. 25.
 
 | Where | Time zone | Sale opens on Thu., Oct. 29 |
 |---|---|---|

@@ -5,7 +5,7 @@ description: "The Country Music Association (CMA) lists its awards for Nov. 18, 
 type: news
 publishedAt: "2026-10-25T17:04:00-04:00"
 authors: [jordan-bennett]
-category: planning
+category: entertainment
 keywords: ["CMA Awards 2026", "CMA Awards 2026 date and time", "what channel are the CMA Awards on", "CMA Awards 2026 host"]
 dateline: "Nashville"
 assets:

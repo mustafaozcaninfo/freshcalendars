@@ -1,12 +1,13 @@
 ---
-title: "Carabao Cup Schedule: Fleetwood vs Arsenal Tonight at 8pm GMT, Round Four Times and TV in the US and UK"
-seoTitle: "Carabao Cup Schedule: Round Four Times, TV in US and UK"
-description: "Carabao Cup Round Four starts Oct. 27, 2026: Fleetwood vs Arsenal at 8pm Greenwich Mean Time (GMT), 4 p.m. Eastern Time (ET), English Football League (EFL)."
+title: "Carabao Cup Fourth Round 2026 Results: Fleetwood Knock Out Arsenal, Quarter-Final Draw"
+seoTitle: "Carabao Cup Fourth Round 2026 Results and Draw"
+description: "Carabao Cup fourth round results, Oct. 27 to 29, 2026: Fleetwood Town knocked out Arsenal on penalties and the quarter-final draw set the last eight."
 type: news
 publishedAt: "2026-10-27T11:58:00-04:00"
+updatedAt: "2026-10-30T01:05:00-04:00"
 authors: [jordan-bennett]
 category: sports
-keywords: ["carabao cup schedule", "carabao cup on tv tonight", "fleetwood vs arsenal time", "liverpool vs chelsea carabao cup time", "how to watch carabao cup in the us"]
+keywords: ["carabao cup fourth round results", "fleetwood vs arsenal result", "liverpool vs chelsea carabao cup result", "carabao cup quarter final draw", "carabao cup fourth round 2026"]
 dateline: "London"
 assets:
   overlay: true
@@ -33,8 +34,8 @@ assets:
     alt: "Printable Carabao Cup Round Four TV schedule 2026 listing eight ties with UK and Eastern times and a score column"
 hero:
   src: ../../../../assets/news/carabao-cup-fourth-round-2026-schedule-kickoff-times-tv-us-uk/carabao-cup-fourth-round-2026-schedule-kickoff-times-tv-us-uk.webp
-  alt: "Carabao Cup schedule: Wembley Stadium during a League Cup final, file photo, with Round Four of the 2026 Carabao Cup under way this week"
-  caption: "File photo: Wembley Stadium at a League Cup final (then called the Capital One Cup). Carabao Cup Round Four is played Oct. 27 to 29, 2026."
+  alt: "Carabao Cup schedule: Wembley Stadium during a League Cup final, file photo, with Round Four of the 2026 Carabao Cup played this week"
+  caption: "File photo: Wembley Stadium at a League Cup final (then called the Capital One Cup). Carabao Cup Round Four was played Oct. 27 to 29, 2026."
   credit: "Photo: Pioeb / Wikimedia Commons, cropped, edited"
   license:
     name: "CC BY-SA 4.0"
@@ -42,20 +43,28 @@ hero:
     source: "https://commons.wikimedia.org/wiki/File:Stadion_Wembley._Capital_One_Cup_final.jpg"
     author: "Pioeb"
 summary:
-  - "Carabao Cup Round Four starts tonight, Tue., Oct. 27, 2026: Fleetwood Town vs Arsenal at 8pm Greenwich Mean Time (GMT), 4 p.m. Eastern Time (ET), on Sky Sports Football, per the English Football League (EFL)."
-  - "Eight ties are played from Oct. 27 to Oct. 29; the EFL lists all of them for U.S. viewers on Paramount+ and all on Sky Sports in the UK."
-  - "Liverpool vs Chelsea is Wed., Oct. 28, at 8pm GMT (4 p.m. ET), on Sky Sports Football and free-to-air on the streaming service of Independent Television (ITV); the quarter-final draw follows on Sky Sports."
-  - "The UK is 4 hours ahead of Eastern Time this week, not 5, because UK clocks changed on Oct. 25 and U.S. clocks change on Nov. 1."
+  - "Carabao Cup fourth round results, Oct. 27 to 29, 2026: Fleetwood Town drew 1-1 with Arsenal and won 5-3 on penalties, per BBC Sport."
+  - "Liverpool drew 1-1 with Chelsea and won 6-5 on penalties; Manchester City drew 2-2 with Brighton & Hove Albion and won 4-3 on penalties."
+  - "Bradford City beat Peterborough United 2-0, Bournemouth beat Aston Villa 3-0, Crystal Palace won 1-0 at Fulham, Sunderland beat Brentford 3-2, and Everton beat Newcastle United 3-1."
+  - "The quarter-final draw gave Crystal Palace v Sunderland, Fleetwood Town v Everton, Liverpool v Bournemouth and Manchester City v Bradford City, played in the week of Monday, Dec. 14, per the English Football League (EFL)."
 faq:
-  - q: "What time is Fleetwood vs Arsenal?"
-    a: "Fleetwood Town entertain Arsenal on Tue., Oct. 27, 2026, at 8pm in the UK on Sky Sports Football, the EFL says. In the US the kick-off is 4 p.m. ET, 3 p.m. Central, 2 p.m. Mountain and 1 p.m. Pacific, on Paramount+."
-  - q: "What time is Liverpool vs Chelsea in the Carabao Cup?"
-    a: "Wed., Oct. 28, 2026, at 8pm GMT at Anfield, which is 4 p.m. ET. Liverpool FC and the EFL both give 8pm. It is on Sky Sports Football and free-to-air on ITV's streaming service in the UK, and on Paramount+ in the US."
-  - q: "How do I watch the Carabao Cup in the US?"
-    a: "The EFL says CBS Sports holds the US rights, with games across the CBS Sports family of platforms and channels, including Paramount+ and the Golazo Network. Its US table lists all eight Round Four ties on Paramount+; check local listings."
-  - q: "When is the Carabao Cup quarter-final draw?"
-    a: "Live on Sky Sports after Liverpool vs Chelsea finishes on Wed., Oct. 28, 2026, according to the EFL. The quarter-finals are all played in the week commencing 14 December."
+  - q: "What was the Fleetwood vs Arsenal result?"
+    a: "Fleetwood Town drew 1-1 with Arsenal on Tue., Oct. 27, 2026, and won 5-3 on penalties to reach the quarter-finals, according to BBC Sport."
+  - q: "What was the Liverpool vs Chelsea Carabao Cup result?"
+    a: "Liverpool drew 1-1 with Chelsea at Anfield on Wed., Oct. 28, 2026, and won 6-5 on penalties, according to BBC Sport."
+  - q: "Who is in the Carabao Cup quarter-finals?"
+    a: "The last eight are Crystal Palace v Sunderland, Fleetwood Town v Everton, Liverpool v Bournemouth and Manchester City v Bradford City, per BBC Sport."
+  - q: "When are the Carabao Cup quarter-finals?"
+    a: "They are played in the week of Monday, Dec. 14, 2026. BBC Sport lists the four ties with exact dates and kick-off times still to be confirmed."
 sources:
+  - title: "League Cup - Scores & Fixtures (October 2026)"
+    url: "https://www.bbc.com/sport/football/league-cup/scores-fixtures/2026-10"
+    publisher: "BBC Sport"
+    date: "2026-10-29"
+  - title: "League Cup - Scores & Fixtures (December 2026)"
+    url: "https://www.bbc.com/sport/football/league-cup/scores-fixtures/2026-12"
+    publisher: "BBC Sport"
+    date: "2026-10-30"
   - title: "How to Watch every Carabao Cup game on Sky Sports this week"
     url: "https://www.efl.com/news/2026/october/27/how-to-watch-every-carabao-cup-game-on-sky-sports-this-week/"
     publisher: "English Football League (EFL)"
@@ -64,9 +73,6 @@ sources:
     url: "https://www.efl.com/news/2026/october/26/carabao-cup-quarter-final-draw-details-confirmed/"
     publisher: "English Football League (EFL)"
     date: "2026-10-26"
-  - title: "Liverpool v Chelsea: Carabao Cup fixture details confirmed"
-    url: "https://www.liverpoolfc.com/news/liverpool-v-chelsea-carabao-cup-fixture-details-confirmed"
-    publisher: "Liverpool FC"
 internalLinks:
   - href: "/october-calendars.html"
     label: "October 2026 printable calendar"
@@ -93,49 +99,51 @@ downloads:
 draft: false
 ---
 
-**Carabao Cup Round Four begins tonight, Tuesday, Oct. 27, 2026, with Fleetwood Town against Arsenal at 8pm Greenwich Mean Time (GMT), which is 4 p.m. Eastern Time (ET), according to the English Football League (EFL).** The EFL says the tie is live on Sky Sports Football in the UK. The U.S. listing is Paramount+.
+<p class="callout"><b>Updated Oct. 30, 2026, 1:45 a.m. Eastern Time (ET).</b> Round Four is finished. Fleetwood Town knocked out Arsenal on penalties, Liverpool and Manchester City also went through from shootouts, and the quarter-final draw set the last eight. Results and the draw are below.</p>
 
-The first tie tonight is Bradford City against Peterborough United, at 7:45pm GMT (3:45 p.m. ET). Round Four then continues on Wednesday and finishes on Thursday. The table below puts all eight ties, both time zones, UK channel and U.S. platform in one place, and a printable version is further down.
+**Carabao Cup Round Four was played Oct. 27 to 29, 2026, and Fleetwood Town knocked out Arsenal, winning 5-3 on penalties after a 1-1 draw, according to British Broadcasting Corporation (BBC) Sport.** Liverpool and Manchester City also advanced from penalty shootouts. The quarter-final draw gave Crystal Palace v Sunderland, Fleetwood Town v Everton, Liverpool v Bournemouth and Manchester City v Bradford City.
 
-## What is the Carabao Cup schedule for Round Four?
+The table below has every Round Four result, both time zones for the kick-off, the UK channel and the U.S. platform in one place, and a printable version is further down.
 
-Eight ties are played over three days, per the EFL's Oct. 27, 2026, viewing guide. The U.S. kick-off times are the EFL's own; we worked out the UK and other U.S. zone times from them.
+## What were the Carabao Cup Round Four results?
 
-| Date | Tie | UK (GMT) | ET | CT | MT | PT | UK channel | US |
-|---|---|---|---|---|---|---|---|---|
-| Tue., Oct. 27 | Bradford City v Peterborough United | 7:45pm | 3:45 p.m. | 2:45 p.m. | 1:45 p.m. | 12:45 p.m. | Sky Sports+ | Paramount+ |
-| Tue., Oct. 27 | Fleetwood Town v Arsenal | 8pm | 4 p.m. | 3 p.m. | 2 p.m. | 1 p.m. | Sky Sports Football | Paramount+ |
-| Wed., Oct. 28 | Manchester City v Brighton & Hove Albion | 7:30pm | 3:30 p.m. | 2:30 p.m. | 1:30 p.m. | 12:30 p.m. | Sky Sports (channel per Sky listings) | Paramount+ |
-| Wed., Oct. 28 | Sunderland v Brentford | 7:45pm | 3:45 p.m. | 2:45 p.m. | 1:45 p.m. | 12:45 p.m. | Sky Sports (channel per Sky listings) | Paramount+ |
-| Wed., Oct. 28 | Fulham v Crystal Palace | 7:45pm | 3:45 p.m. | 2:45 p.m. | 1:45 p.m. | 12:45 p.m. | Sky Sports (channel per Sky listings) | Paramount+ |
-| Wed., Oct. 28 | Bournemouth v Aston Villa | 7:45pm | 3:45 p.m. | 2:45 p.m. | 1:45 p.m. | 12:45 p.m. | Sky Sports (channel per Sky listings) | Paramount+ |
-| Wed., Oct. 28 | Liverpool v Chelsea (Anfield) | 8pm | 4 p.m. | 3 p.m. | 2 p.m. | 1 p.m. | Sky Sports Football; free-to-air on Independent Television (ITV) streaming | Paramount+ |
-| Thu., Oct. 29 | Everton v Newcastle United | 7:45pm | 3:45 p.m. | 2:45 p.m. | 1:45 p.m. | 12:45 p.m. | Sky Sports+ | Paramount+ |
+Eight ties were played over three days. BBC Sport's League Cup scores and fixtures pages carry the results; the UK and other U.S. zone kick-off times are worked out from the English Football League (EFL) viewing guide.
 
-The home club is named first. Only Anfield is named as a venue in the EFL material we used. No results are in yet, because the first tie is tonight. Central Time (CT), Mountain Time (MT) and Pacific Time (PT) are one, two and three hours behind Eastern.
+| Date | Tie | Result | UK (GMT) | ET | UK channel | US |
+|---|---|---|---|---|---|---|
+| Tue., Oct. 27 | Bradford City v Peterborough United | Bradford City 2-0 | 7:45pm | 3:45 p.m. | Sky Sports+ | Paramount+ |
+| Tue., Oct. 27 | Fleetwood Town v Arsenal | 1-1, Fleetwood win 5-3 on penalties | 8pm | 4 p.m. | Sky Sports Football | Paramount+ |
+| Wed., Oct. 28 | Manchester City v Brighton & Hove Albion | 2-2, Man City win 4-3 on penalties | 7:30pm | 3:30 p.m. | Sky Sports (channel per Sky listings) | Paramount+ |
+| Wed., Oct. 28 | Sunderland v Brentford | Sunderland 3-2 | 7:45pm | 3:45 p.m. | Sky Sports (channel per Sky listings) | Paramount+ |
+| Wed., Oct. 28 | Fulham v Crystal Palace | Crystal Palace 1-0 | 7:45pm | 3:45 p.m. | Sky Sports (channel per Sky listings) | Paramount+ |
+| Wed., Oct. 28 | Bournemouth v Aston Villa | Bournemouth 3-0 | 7:45pm | 3:45 p.m. | Sky Sports (channel per Sky listings) | Paramount+ |
+| Wed., Oct. 28 | Liverpool v Chelsea (Anfield) | 1-1, Liverpool win 6-5 on penalties | 8pm | 4 p.m. | Sky Sports Football; free-to-air on Independent Television (ITV) streaming | Paramount+ |
+| Thu., Oct. 29 | Everton v Newcastle United | Everton 3-1 | 7:45pm | 3:45 p.m. | Sky Sports+ | Paramount+ |
 
-## What time is Fleetwood vs Arsenal?
+The home club is named first. Only Anfield is named as a venue in the EFL material we used. Greenwich Mean Time (GMT) applies in the UK; 4 p.m. ET is 3 p.m. Central, 2 p.m. Mountain and 1 p.m. Pacific.
 
-Fleetwood Town entertain Arsenal tonight, Oct. 27, at 8pm in the UK on Sky Sports Football, the EFL says. The EFL's U.S. table lists the kick-off as 16:00 ET, so 4 p.m. in New York, 3 p.m. in Chicago, 2 p.m. in Denver and 1 p.m. in Los Angeles.
+## What was the Fleetwood vs Arsenal result?
 
-## What time is Liverpool vs Chelsea in the Carabao Cup?
+Fleetwood Town drew 1-1 with Arsenal on Tue., Oct. 27, and won 5-3 on penalties, BBC Sport says. The tie kicked off at 8pm in the UK, 4 p.m. ET, on Sky Sports Football, and on Paramount+ in the US.
 
-Liverpool welcome Chelsea to Anfield on Wednesday, Oct. 28, at 8pm GMT, 4 p.m. ET. Liverpool FC says "kick off at 8pm GMT" on its fixture details page, and the EFL gives the same time. The EFL says the tie is on Sky Sports Football and free-to-air on ITV's streaming service in the UK; the EFL's draw announcement adds that it is live free-to-air on ITV1 too. Wednesday has five ties in all.
+## What was the Liverpool vs Chelsea result?
 
-## How do I watch the Carabao Cup in the US?
+Liverpool drew 1-1 with Chelsea at Anfield on Wednesday, Oct. 28, and won 6-5 on penalties, per BBC Sport. The tie kicked off at 8pm GMT, 4 p.m. ET, on Sky Sports Football and free-to-air on ITV's streaming service in the UK, and on Paramount+ in the US.
 
-The EFL says 2024/25 began a new broadcast partnership with CBS Sports. Games are shown "across the CBS Sports family of platforms and channels, including on Paramount+ and the Golazo Network - check local listings." The EFL's U.S. table puts every Round Four tie on Paramount+.
+## How could you watch the Carabao Cup in the US?
 
-In the UK, the EFL says "every Round Four tie" is available live on Sky Sports. Bradford City against Peterborough United and Everton against Newcastle United are on Sky Sports+. For the other four Wednesday ties the EFL does not name a channel, so check Sky's listings.
+The EFL says 2024/25 began a new broadcast partnership with CBS Sports. Games were shown "across the CBS Sports family of platforms and channels, including on Paramount+ and the Golazo Network - check local listings." The EFL's U.S. table put every Round Four tie on Paramount+.
 
-## Why is the UK four hours ahead of the US this week?
+In the UK, the EFL says "every Round Four tie" was available live on Sky Sports. Bradford City against Peterborough United and Everton against Newcastle United were on Sky Sports+. For the other four Wednesday ties the EFL did not name a channel.
 
-The UK went back to GMT on Oct. 25, while the U.S. stays on daylight time until Nov. 1. For this week the gap is 4 hours, so 4 p.m. ET is 8pm in the UK. After the U.S. clocks go back on Nov. 1 the gap returns to 5 hours; our [guide to the UK and Europe clock change](/news/uk-europe-clocks-go-back-october-25-2026-time-difference/) explains the week in between. The same gap affects other UK events, such as the [Ballon d'Or 2026 ceremony in London](/news/ballon-dor-2026-date-time-by-time-zone-nominees-london/).
+## Why was the UK four hours ahead of the US this week?
 
-## When is the Carabao Cup quarter-final draw?
+The UK went back to GMT on Oct. 25, while the U.S. stays on daylight time until Nov. 1. For this week the gap is 4 hours, so 4 p.m. ET was 8pm in the UK. After the U.S. clocks go back on Nov. 1 the gap returns to 5 hours; our [guide to the UK and Europe clock change](/news/uk-europe-clocks-go-back-october-25-2026-time-difference/) explains the week in between. The same gap affects other UK events, such as the [Ballon d'Or 2026 ceremony in London](/news/ballon-dor-2026-date-time-by-time-zone-nominees-london/).
 
-The EFL says the draw is live on Sky Sports after Liverpool against Chelsea ends on Wednesday, Oct. 28. Dave Jones hosts with Conor Coady and Graham Le Saux, as the EFL spelled it. The EFL says ball numbers will be published on its channels on Wednesday, and that all quarter-finals are played in the week commencing 14 December. Dates for later rounds are not covered in these announcements.
+## Who is in the Carabao Cup quarter-finals?
+
+The draw gave four ties, per BBC Sport: Crystal Palace v Sunderland, Fleetwood Town v Everton, Liverpool v Bournemouth and Manchester City v Bradford City. BBC Sport lists them in the week of Monday, Dec. 14, with exact dates and kick-off times still to be confirmed. The EFL had said all quarter-finals are played in the week commencing 14 December. Dates for later rounds are not covered in these announcements.
 
 ## Is there a printable Carabao Cup schedule?
 
-Yes. The one-page printable lists all eight ties with UK and Eastern times and a blank score column, so it fits beside the [October 2026 printable calendar](/october-calendars.html) or a [printable weekly calendar](/printable-weekly-calendar.html). For another tonight-style schedule with time zones, see our [Monday Night Football guide](/news/monday-night-football-tonight-cowboys-eagles-mnf-schedule-2026/).
+Yes. The one-page printable lists all eight ties with UK and Eastern times and a score column you can fill in, so it fits beside the [October 2026 printable calendar](/october-calendars.html) or a [printable weekly calendar](/printable-weekly-calendar.html). For a schedule with time zones, see our [Monday Night Football guide](/news/monday-night-football-tonight-cowboys-eagles-mnf-schedule-2026/).

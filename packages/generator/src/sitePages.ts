@@ -1852,6 +1852,7 @@ export function renderConceptHubs(home: SeoMeta, today: Date): { meta: SeoMeta; 
   });
 }
 
+/** Only loc and lastmod: Google ignores changefreq/priority and dropped image:title in 2022. */
 export async function writeSitemap(metas: SeoMeta[]): Promise<void> {
   const indexable = metas.filter((m) => m.robots.includes("index"));
   const urls = indexable
@@ -1859,8 +1860,6 @@ export async function writeSitemap(metas: SeoMeta[]): Promise<void> {
       (m) => `  <url>
     <loc>${esc(m.url)}</loc>
     <lastmod>${m.sitemap.lastmod}</lastmod>
-    <changefreq>${m.sitemap.changefreq}</changefreq>
-    <priority>${m.sitemap.priority.toFixed(1)}</priority>
   </url>`,
     )
     .join("\n");
@@ -1875,13 +1874,12 @@ ${urls}
     .filter((m) => m.download?.png || (m.variants && m.variants.length))
     .map((m) => {
       const imgs = m.variants?.length
-        ? m.variants.map((v) => ({ loc: v.png, title: v.pngTitle || v.label }))
-        : [{ loc: m.download.png, title: m.downloadTitles.png || m.title }];
+        ? m.variants.map((v) => ({ loc: v.png }))
+        : [{ loc: m.download.png }];
       const imageXml = imgs
         .map(
           (img) => `    <image:image>
       <image:loc>${esc(img.loc)}</image:loc>
-      <image:title>${esc(img.title)}</image:title>
     </image:image>`,
         )
         .join("\n");

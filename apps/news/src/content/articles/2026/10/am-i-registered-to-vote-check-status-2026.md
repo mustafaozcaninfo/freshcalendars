@@ -4,6 +4,7 @@ seoTitle: "Am I Registered to Vote? Check Status by Nov. 3"
 description: "Election Day is Tue., Nov. 3, 2026. USAGov says to check your voter registration status on Can I Vote, then confirm your address and polling place."
 type: explainer
 publishedAt: "2026-10-29T08:00:00-04:00"
+updatedAt: "2026-10-30T01:05:00-04:00"
 authors: [alex-morgan]
 category: elections
 keywords: ["am I registered to vote", "check voter registration status", "find my polling place", "Election Day November 3 2026"]
@@ -18,7 +19,7 @@ hero:
     source: "https://commons.wikimedia.org/wiki/File:A_closeup_of_an_%22I_Voted%22_sticker_on_a_shirt_worn_during_the_Special_Election_on_April_14,_2026.jpg"
     author: "Lorie Shaull"
 summary:
-  - "Election Day is Tuesday, Nov. 3, 2026, five days after Thursday, Oct. 29, according to the Federal Election Commission (FEC)."
+  - "Election Day is Tuesday, Nov. 3, 2026, four days after Friday, Oct. 30, according to the Federal Election Commission (FEC)."
   - "USAGov's steps: visit Can I Vote, select voter registration status, choose your state, then check whether you are registered on your state's election website."
   - "Each state makes its own voting rules, the U.S. Election Assistance Commission (EAC) says, so registration rules after today differ by state."
   - "Can I Vote also offers a Find Your Polling Place tool, and a countdown table below lists what to check each day through Nov. 3."
@@ -104,7 +105,7 @@ downloads:
     pages: 1
 ---
 
-**Election Day is Tuesday, Nov. 3, 2026, according to the Federal Election Commission (FEC), and USAGov says you can confirm your voter registration status in a few steps through Can I Vote.** The FEC lists "General Election Date 11/03/2026" in its 2026 dates document (data as of May 18, 2026). Today is Thursday, Oct. 29, so five days remain to check.
+**Election Day is Tuesday, Nov. 3, 2026, according to the Federal Election Commission (FEC), and USAGov says you can confirm your voter registration status in a few steps through Can I Vote.** The FEC lists "General Election Date 11/03/2026" in its 2026 dates document (data as of May 18, 2026). Today is Friday, Oct. 30, so four days remain to check.
 
 ## How do I check if I am registered to vote?
 

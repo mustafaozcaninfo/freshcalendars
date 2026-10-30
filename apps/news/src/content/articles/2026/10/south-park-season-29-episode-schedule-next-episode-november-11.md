@@ -5,7 +5,7 @@ description: "South Park episode 4 aired Wed., Oct. 28, 2026 at 10 p.m. Eastern 
 type: news
 publishedAt: "2026-10-29T17:44:00-04:00"
 authors: [jordan-bennett]
-category: planning
+category: entertainment
 keywords: ["South Park new episode", "South Park season 29 episode 4", "when is the next South Park episode", "South Park schedule 2026"]
 dateline: "New York"
 assets:

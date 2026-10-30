@@ -5,7 +5,7 @@ description: "Ultra Music Festival 2027 is March 26-28 at Bayfront Park in Miami
 type: news
 publishedAt: "2026-10-19T11:36:00-04:00"
 authors: [jordan-bennett]
-category: planning
+category: entertainment
 keywords: ["Ultra Miami 2027", "Ultra Music Festival 2027 dates", "Ultra 2027 lineup", "Ultra Music Festival 2027 tickets", "Miami March 2027 events"]
 dateline: "Miami"
 hero:

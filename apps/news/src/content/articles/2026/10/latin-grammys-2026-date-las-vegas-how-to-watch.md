@@ -6,7 +6,7 @@ type: news
 publishedAt: "2026-10-25T17:06:00-04:00"
 updatedAt: "2026-10-27T03:30:00-04:00"
 authors: [jordan-bennett]
-category: planning
+category: entertainment
 keywords: ["Latin Grammys 2026", "Latin Grammy 2026 fecha", "Latin Grammys 2026 date and time", "how to watch Latin Grammys"]
 dateline: "Las Vegas"
 assets:

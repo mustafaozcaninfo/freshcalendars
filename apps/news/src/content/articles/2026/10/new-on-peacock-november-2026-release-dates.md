@@ -5,7 +5,7 @@ description: "Peacock lists The Good Daughter for Nov. 12, Nelly & Ashanti seaso
 type: news
 publishedAt: "2026-10-29T21:39:00-04:00"
 authors: [jordan-bennett]
-category: planning
+category: entertainment
 keywords: ["new on Peacock November 2026", "Peacock November 2026", "what's coming to Peacock November 2026", "Dig Peacock release date", "The Good Daughter Peacock release date"]
 assets:
   overlay: true
