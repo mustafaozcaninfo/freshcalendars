@@ -89,4 +89,4 @@ The 16 tiles, spelled out: Louisiana State University (LSU), Oklahoma (OU), Geor
 
 C and G read as center and guard in basketball, which is why they tempt a player toward the blue group, but here they are hockey positions with LW and RW. TD fits football clearly. It belongs with the quarterback stats, not on its own.
 
-Beebom and Mashable, whose solution a local news site republished, list the same four groups. Puzzle #767 arrives at midnight.
+Beebom and Mashable, whose solution a local news site republished, list the same four groups. [Puzzle #767](/news/nyt-connections-sports-edition-hints-answers-october-30-2026-767/) arrives at midnight.
