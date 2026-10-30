@@ -345,7 +345,13 @@ function yesterday(p) {
     const ans = (cl) => {
       const w = cl.cells.map((i) => d.cells[i]).join("");
       const row = page.match(new RegExp(`^\\| ${cl.label}-${cl.direction} \\| (.+?) \\|$`, "m"))?.[1];
-      return row && row.toUpperCase().replace(/[^A-Z]/g, "") === w ? row : title(w);
+      if (!row || row.toUpperCase().replace(/[^A-Z]/g, "") !== w) return title(w);
+      if (row !== row.toUpperCase()) return row;
+      // An abbreviation answer: reuse the expansion yesterday's page gives it ("Full Name (DSA)"),
+      // since every abbreviation is spelled out on first use (audit 08-ABBREV).
+      const m = page.match(new RegExp(`((?:(?:[A-Z][\\w'-]*|of|the|and|for|in|on|to|a) )+)\\(${row}\\)`));
+      const full = m?.[1].trim().replace(/^(?:(?:of|the|and|for|in|on|to|a) )+/, "");
+      return full ? `${full} (${row})` : title(w);
     };
     const dir = (k) => d.clues.filter((c) => c.direction === k).map((c) => `${c.label} ${esc(ans(c))}`).join(", ");
     body = `<p>The Mini on ${apDate(date)}: Across ${dir("Across")}; Down ${dir("Down")}.${more}</p>`;
