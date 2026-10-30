@@ -371,6 +371,14 @@ export const KEY_DATES: KeyDate[] = [
   { date: "2026-11-24", label: "Davis Cup Final 8 opens in Bologna: Czechia v Canada, 10 a.m. ET", slug: "davis-cup-final-8-2026-bologna-schedule-time-zones-teams" },
   { date: "2026-11-29", label: "Davis Cup final in Bologna, 9 a.m. ET", slug: "davis-cup-final-8-2026-bologna-schedule-time-zones-teams" },
   { date: "2026-10-30", label: "Dexter: Resurrection Season 2 premieres on Paramount+ Premium", slug: "dexter-resurrection-season-2-release-schedule-episode-time-paramount-plus" },
+  { date: "2026-12-13", label: "Wreaths Across America Family Pass Holder Day at Arlington", slug: "wreaths-across-america-2026-december-19-arlington-schedule-sponsor" },
+  { date: "2026-12-19", label: "National Wreaths Across America Day; Arlington placement from 8 a.m. ET", slug: "wreaths-across-america-2026-december-19-arlington-schedule-sponsor" },
+  { date: "2026-12-21", label: "Winter break begins in 13 of 15 large school districts", slug: "winter-break-2026-27-school-districts-dates" },
+  { date: "2026-12-07", label: "Alaska and Hawaii governors' terms begin at noon", slug: "when-do-2026-election-winners-take-office-congress-governors" },
+  { date: "2027-01-03", label: "120th Congress terms begin at noon ET", slug: "when-do-2026-election-winners-take-office-congress-governors" },
+  { date: "2026-12-31", label: "Best Buy holiday return window: last purchase day", slug: "holiday-return-policies-2026-return-deadlines-by-store" },
+  { date: "2027-01-15", label: "Best Buy holiday return deadline (Jan. 31 for Plus and Total)", slug: "holiday-return-policies-2026-return-deadlines-by-store" },
+  { date: "2027-01-04", label: "First working day of 2027 for federal offices and the NYSE", slug: "working-days-2027-business-days-by-month-federal-nyse" },
 ];
 
 /** Today's date in Eastern Time as YYYY-MM-DD. */
