@@ -1,14 +1,17 @@
 # Daily puzzle routines
 
-Three scheduled routines cover the puzzles on /news/ so no day and no game is missed. A and B write every daily page and split the games by where the answers come from, so each runs when its answers exist and they never write the same files; each runs more than once a day, and every run fills whatever an earlier run missed. C finds new games and writes the monthly roundups. Method: `.claude/skills/news-puzzles/SKILL.md`; games and sources: `docs/PUZZLES.md`; cost rules: `docs/NEWS-COST-GUIDE.md` section 6.
+Three scheduled routines cover the puzzles on /news/ so no day and no game is missed, and a fourth (D) works through the /news/ work queue in the hours between them. A and B write every daily page and split the games by where the answers come from, so each runs when its answers exist and they never write the same files; each runs more than once a day, and every run fills whatever an earlier run missed. C finds new games and writes the monthly roundups. Method: `.claude/skills/news-puzzles/SKILL.md`; games and sources: `docs/PUZZLES.md`; cost rules: `docs/NEWS-COST-GUIDE.md` section 6.
 
 | Routine | Games | Runs | Why then |
 |---|---|---|---|
 | A. Puzzles: official data | Wordle, Connections, Strands, Pips, Spelling Bee, Mini Crossword, Letter Boxed, Contexto | Every day, 10:23 p.m. and 5:23 a.m. ET | The Mini for the next day appears at about 10 p.m. ET (6 p.m. on Saturday). Wordle, Connections, Strands, Pips and Spelling Bee publish their data many days ahead and Letter Boxed about two days ahead, so each run tops up the schedule; the morning run catches anything the evening run missed. |
 | B. Puzzles: published solutions | Quordle, Blossom, Waffle, Connections: Sports Edition, LinkedIn games | Every day, 7:17 a.m., 10:17 a.m. and 2:17 p.m. ET | These have no official data we can read; a page needs two published solutions that agree, and those sites post them between about 4 and 7 a.m. ET (LinkedIn games open at 3 a.m. ET), some later. Each run writes only what is still missing for today. |
 | C. Puzzles: new games and monthly roundups | New games with official answer data; one roundup per game at the end of each month | Every day, 12:47 p.m. ET | Away from A and B, so their pull requests never overlap. |
+| D. Work queue (hourly) | One item from `docs/NEWS-BACKLOG.md` per run (tools, checks, evergreen stories) | Every hour at :41 ET, except the hours A, B and C run (5, 7, 10, 12, 14 and 22) | Uses the rest of each five-hour usage window. Its usage gate stops it whenever the window is spent or extra usage would start, so A, B and C always have room. |
 
 Both start a **new session on every run** (never the same session), use the strongest model for the main session (choose it in the Routines screen; without a choice the routine runs on the default model), research with `news-researcher` (Haiku) and write with `news-writer` (Sonnet). They ship one pull request per run and merge it when CI is green. The news routine's prompt must say "Do not write or edit daily puzzle pages." The monthly roundups and new games stay with the separate routine "Puzzles: new games and monthly roundups".
+
+D never writes daily puzzle pages or roundups. It claims an item by pushing a `claude/backlog-<id>` branch before any other work, so two runs never take the same item (method: `docs/NEWS-BACKLOG.md`).
 
 ## Setting them up (claude.ai, Routines)
 
@@ -19,6 +22,7 @@ For each routine: New routine, paste the name and prompt below, repository `must
 - A: name `Puzzles: official data (daily)`, cron `CRON_TZ=America/New_York 23 5,22 * * *`
 - B: name `Puzzles: published solutions (daily)`, cron `CRON_TZ=America/New_York 17 7,10,14 * * *`
 - C: name `Puzzles: new games and monthly roundups`, cron `CRON_TZ=America/New_York 47 12 * * *`
+- D: name `News: work queue (hourly)`, cron `CRON_TZ=America/New_York 41 0-4,6,8,9,11,13,15-21,23 * * *`
 
 To pause, disable the routine; to change what it does, edit its prompt (it keeps its history).
 
@@ -100,4 +104,26 @@ You are the Fresh Calendars puzzles round for NEW GAMES and MONTHLY ROUNDUPS on 
 5. Ship. One branch, one commit, one pull request using `.github/pull_request_template.md`; merge when CI is green; fix a red CI with a new commit. If this session has no GitHub tools to open or merge a pull request, push the commit straight to `main` (`git fetch origin main && git rebase origin/main && git push origin HEAD:main`) and check that CI goes green. If the rebase conflicts in `packages/generator/src/heroes5.ts` (another routine added hero rows), keep both sides' rows. Never deploy, never force-push. If there is nothing to write today, say so in one line and stop.
 
 6. Report in Turkish, under 10 lines: what was published or scheduled, any new game found or ruled out and why, the PR link. Do not wait for replies.
+```
+
+## Prompt D: work queue (hourly at :41 ET, except 5, 7, 10, 12, 14 and 22)
+
+```text
+You are the Fresh Calendars work-queue round (/news/). This is a fresh session; nothing else is known. Work in English in the repo; write the final report in Turkish. Do ONE item from the queue, finish it properly, and stop.
+
+0. Usage gate. If the `get_session` tool (claude-code-remote) is available, call it with no session_id and read `external_metadata.rate_limit_info`. Stop with one line (the reset time) if `status` is not `allowed`, if `isUsingOverage` is true, or if `rateLimitType` is anything other than `five_hour` (a weekly limit is close: leave the room to the puzzle routines). If the tool is not available, continue. Also stop with one line if the current time in America/New_York is within 15 minutes before a puzzle routine (5:23, 7:17, 10:17, 12:47, 14:17, 22:23).
+
+1. Setup. The routine must have the repository `mustafaozcaninfo/freshcalendars` selected (Routines screen); without it every push is refused (403). If pushes are refused and the `add_repo` tool (claude-code-remote) is available, call it with owner `mustafaozcaninfo`, repo `freshcalendars`, access `push` and follow what it returns; otherwise report that the repository must be added to the routine and stop. Clone https://github.com/mustafaozcaninfo/freshcalendars if it is missing, `pnpm install`, start from `origin/main`. Read `CLAUDE.md`, `docs/NEWS-COST-GUIDE.md` and `docs/NEWS-BACKLOG.md` (its rules are part of this prompt). Read the skill files the item needs directly (`.claude/skills/news-article/SKILL.md`, `news-seo`, `news-visuals`, `news-puzzles`); if the `news-researcher` or `news-writer` agent types are not available, use `general-purpose` agents with the same briefs. List open pull requests if GitHub tools are available; never touch a file an open pull request changes.
+
+2. Pick. `git fetch origin '+refs/heads/claude/backlog-*:refs/remotes/origin/claude/backlog-*'`. Walk the queue top to bottom and take the first item that is unticked and either has no `claude/backlog-<id>` branch on origin, or has one with no open pull request and no commit in the last 3 hours (stalled: continue from that branch). If every item is ticked, taken or blocked, say "kuyruk boş" in one line and stop. Never invent an item.
+
+3. Claim. For a new item: `git checkout -b claude/backlog-<id> origin/main`, an empty commit "backlog: claim <id>", `git push -u origin claude/backlog-<id>`. If the push is refused because the branch exists, another run took it: go back to step 2 for the next item.
+
+4. Work. Do exactly what the item says, nothing more. Research with `news-researcher` (Haiku), write stories with `news-writer` (Sonnet), both with full briefs. Facts only from official data or authoritative sources; if the item depends on a fact you cannot confirm, mark the item blocked in the queue file (`- [ ] **id** [kind] (blocked: reason, date) ...`), ship that one-line change and stop. Commit and push to the branch after each meaningful step, so a run cut off by the usage limit can be continued.
+
+5. Checks, all must pass: `pnpm news:puzzle-check`, `pnpm news:build && pnpm news:verify && pnpm news:seo-audit`, `pnpm test`. For a story with a future `publishedAt`, preview it as routine A does and never commit preview times. Fix failures at the source; never weaken a check.
+
+6. Ship. In the same branch, tick the item in `docs/NEWS-BACKLOG.md` (`- [x]`, with the date). Open one pull request using `.github/pull_request_template.md`. `content` items: subscribe and merge when CI is green; fix a red CI with a new commit. `code` items: leave the pull request open for the owner and say so. If this session has no GitHub tools to open a pull request, push the branch and report its name; never push to `main` from this routine. Never deploy, never force-push.
+
+7. Report in Turkish, under 8 lines: the item, what changed, the checks, the pull request link and whether it was merged or waits for review.
 ```
