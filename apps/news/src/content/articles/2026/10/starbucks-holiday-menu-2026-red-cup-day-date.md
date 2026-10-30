@@ -1,10 +1,10 @@
 ---
 title: "Starbucks Holiday Menu 2026 Starts Nov. 5: Full Drink List and Red Cup Day Status"
 seoTitle: "Starbucks Holiday Menu 2026: Nov. 5 Date, Red Cup Day"
-description: "Starbucks' 2026 holiday menu returns Thursday, Nov. 5, with Peppermint Mocha and a new Tiramisu Velvet Latte. Red Cup Day's date is not yet announced."
+description: "Starbucks' 2026 holiday menu returns Thursday, Nov. 5, with Peppermint Mocha and a new Tiramisu Velvet Latte. Red Cup Day is Tuesday, Nov. 17."
 type: news
 publishedAt: "2026-10-24T00:50:00-04:00"
-updatedAt: "2026-10-26T13:00:00-04:00"
+updatedAt: "2026-10-30T01:05:00-04:00"
 authors: [jordan-bennett]
 category: retail-dates
 keywords: ["Starbucks holiday menu 2026", "Starbucks red cup day 2026", "when does Starbucks holiday menu come out 2026", "Starbucks holiday cups 2026"]
@@ -14,7 +14,7 @@ assets:
   overlay: true
   kicker: "Starbucks holiday menu · Thu., Nov. 5"
   date: "2026-11-05"
-  card: { top: "Starbucks holiday menu returns", big: "Thu., Nov. 5", bottom: "Red Cup Day date not yet announced" }
+  card: { top: "Starbucks holiday menu returns", big: "Thu., Nov. 5", bottom: "Red Cup Day: Tue., Nov. 17" }
   printable:
     slug: starbucks-holiday-menu-2026-checklist
     group: starbucks-holiday-2026
@@ -42,7 +42,7 @@ assets:
       - { when: "Nov. 10", what: "Bearista Glass Cold Cup, Surprise Box Edition", section: "Merchandise" }
       - { when: "Nov. 17", what: "Winter Wonderland collection", section: "Merchandise" }
       - { when: "Dec. 1", what: "Original Bearista Glass Cold Cup returns", section: "Merchandise" }
-    note: "Source: Starbucks, Starbucks holiday menu is coming to town Nov. 5, about.starbucks.com, Oct. 5, 2026, and Bearista cold cup dates, Oct. 26, 2026. Red Cup Day date not yet announced."
+    note: "Source: Starbucks, Starbucks holiday menu is coming to town Nov. 5, about.starbucks.com, Oct. 5, 2026, and Bearista cold cup dates, Oct. 26, 2026. Red Cup Day is Tuesday, Nov. 17, 2026, per Scripps News."
     inkSaver: true
     description: "One-page checklist of the Starbucks 2026 holiday menu: returning and new drinks, food and merchandise to try from Nov. 5. Free."
     alt: "Printable Starbucks holiday menu 2026 checklist with drinks, food and merchandise grouped into sections and a tick box for each"
@@ -62,12 +62,12 @@ summary:
   - "Starbucks' 2026 holiday menu returns Thursday, Nov. 5, the company announced on Oct. 5, 2026."
   - "Returning drinks include the Peppermint Mocha, Caramel Brulee Latte, Sugar Cookie Latte and Gingerbread Chai; new this year is a Tiramisu Velvet Latte and Cold Brew."
   - "Holiday merchandise arrives Nov. 5, and the Winter Wonderland collection follows Tuesday, Nov. 17."
-  - "Red Cup Day, when Starbucks gives a reusable cup with a holiday drink, will return later in the season; the 2026 date is not yet announced. In 2025 it was Thursday, Nov. 13."
+  - "Red Cup Day, when Starbucks gives a free reusable red cup with a holiday drink purchase, is Tuesday, Nov. 17, 2026, according to Scripps News. In 2025 it was Thursday, Nov. 13."
 faq:
   - q: "When does the Starbucks holiday menu come out in 2026?"
     a: "Thursday, Nov. 5, 2026, Starbucks announced on Oct. 5. Returning and new drinks, holiday food and the first merchandise collections all arrive that day."
   - q: "When is Starbucks Red Cup Day 2026?"
-    a: "Not yet announced. Starbucks says Red Cup Day 'will return later this season,' when customers get a collectible reusable holiday cup with any handcrafted holiday beverage, at participating stores while supplies last. In 2025, Red Cup Day was Thursday, Nov. 13. We will add the 2026 date here when Starbucks confirms it."
+    a: "Tuesday, Nov. 17, 2026, according to Scripps News, citing Starbucks. On that day, customers who buy a holiday drink get a free reusable red cup, at participating stores while supplies last. In 2025, Red Cup Day was Thursday, Nov. 13."
   - q: "What new drinks are on the Starbucks 2026 holiday menu?"
     a: "A Tiramisu Velvet Latte (hot or iced) and a Tiramisu Velvet Cold Brew, both topped with velvet mascarpone cold foam and a cocoa and coffee dusting, plus a new Apple Pomegranate Refresher with pomegranate-flavored pearls and a Snowy Apple version made with coconut milk."
   - q: "What holiday drinks are returning to Starbucks in 2026?"
@@ -75,6 +75,10 @@ faq:
   - q: "When does Starbucks holiday merchandise come out in 2026?"
     a: "The Holiday Bearista, Holiday Village and Peppermint Mocha collections arrive Nov. 5. The Winter Wonderland collection launches Tuesday, Nov. 17. A Bearista Glass Cold Cup Surprise Box Edition arrives Tuesday, Nov. 10, and the original Bearista Glass Cold Cup returns Tuesday, Dec. 1, in select stores, Starbucks said on Oct. 26."
 sources:
+  - title: "Starbucks announces 2026 Red Cup Day: Here's when to get a free cup"
+    url: "https://www.wtkr.com/life/food-and-drink/starbucks-announces-2026-red-cup-day-heres-when-to-get-a-free-cup"
+    publisher: "WTKR (Scripps News)"
+    date: "2026-10-29"
   - title: "Mark your calendars: Starbucks Bearista Glass Cold Cups are returning with a twist"
     url: "https://about.starbucks.com/press/2026/mark-your-calendars-starbucks-bearista-glass-cold-cups-are-returning-with-a-twist/"
     publisher: "Starbucks"
@@ -117,9 +121,9 @@ downloads:
 draft: false
 ---
 
-<p class="callout"><b>Last updated Mon., Oct. 26, 2026, 1 p.m. ET.</b> Starbucks set the Bearista Glass Cold Cup dates: a Surprise Box Edition on Nov. 10 and the original cup on Dec. 1. It says Red Cup Day "will return later this season" but has not announced the 2026 date. We will add it here as soon as the company confirms it.</p>
+<p class="callout"><b>Updated Oct. 30, 2026, 1:05 a.m. ET.</b> Starbucks has set Red Cup Day for Tuesday, Nov. 17, 2026, a free reusable red cup with a holiday drink purchase, according to Scripps News. The Starbucks newsroom blocked our automated check.</p>
 
-**The Starbucks holiday menu returns Thursday, Nov. 5, 2026, the company announced on Oct. 5.** Returning favorites and a new Tiramisu Velvet line go on sale that day, along with holiday food and the first merchandise collections. Red Cup Day, the giveaway of a reusable holiday cup, will come later in the season on a date Starbucks has not yet set.
+**The Starbucks holiday menu returns Thursday, Nov. 5, 2026, the company announced on Oct. 5.** Returning favorites and a new Tiramisu Velvet line go on sale that day, along with holiday food and the first merchandise collections. Red Cup Day, the giveaway of a reusable holiday cup, is Tuesday, Nov. 17, according to Scripps News.
 
 ## When does the Starbucks holiday menu come out in 2026?
 
@@ -172,7 +176,7 @@ Three collections arrive Nov. 5: the Holiday Bearista collection, a Holiday Vill
 
 ## When is Starbucks Red Cup Day 2026?
 
-Not yet announced. Starbucks says Red Cup Day "will return later this season." On that day, customers who buy any handcrafted holiday beverage get a collectible reusable holiday cup, at participating stores while supplies last. In 2025, Red Cup Day was Thursday, Nov. 13, according to Starbucks. We are not predicting the 2026 date and will add it here once the company confirms it.
+Tuesday, Nov. 17, 2026, according to Scripps News, which cited Starbucks. On that day, customers who buy a holiday drink get a free reusable red cup, at participating stores while supplies last. In 2025, Red Cup Day was Thursday, Nov. 13, according to Starbucks. The Starbucks newsroom blocked our automated check, so we rely on Scripps News for the 2026 date.
 
 ## Print the 2026 holiday checklist
 

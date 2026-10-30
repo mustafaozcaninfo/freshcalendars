@@ -4,6 +4,7 @@ seoTitle: "Printable NFL Pick'em Sheets 2026: Weeks 8 and 9"
 description: "Free printable National Football League (NFL) pick'em sheets for Week 8 and Week 9, 2026: classic, confidence and office pool PDFs, Eastern Time (ET) kickoffs."
 type: explainer
 publishedAt: "2026-10-29T08:00:00-04:00"
+updatedAt: "2026-10-30T01:05:00-04:00"
 authors: [jordan-bennett]
 category: sports
 keywords: ["printable NFL pick'em sheets", "NFL Week 8 pick'em sheet", "NFL confidence pool sheet", "office football pool sheet", "NFL Week 9 pick'em sheet"]
@@ -15,7 +16,7 @@ assets:
 hero:
   src: ../../../../assets/news/printable-nfl-pickem-sheets-2026/printable-nfl-pickem-sheets-2026.webp
   alt: "An 1878 Harper's Weekly engraving of a football scrimmage, for printable NFL pick'em sheets 2026"
-  caption: "A game of foot-ball, drawn by J. O. Davidson for Harper's Weekly, Dec. 7, 1878. Week 8 of the 2026 NFL season kicks off Thursday, Oct. 29."
+  caption: "A game of foot-ball, drawn by J. O. Davidson for Harper's Weekly, Dec. 7, 1878. Week 8 of the 2026 NFL season began Thursday, Oct. 29."
   credit: "Illustration: Julian Oliver Davidson, Harper's Weekly (1878) / Wikimedia Commons, cropped, edited"
   license:
     name: "Public domain"
@@ -25,7 +26,7 @@ hero:
 summary:
   - "Fresh Calendars offers free one-page NFL pick'em sheets for Week 8 (14 games, Oct. 29 to Nov. 2, 2026) and Week 9 (15 games, Nov. 5 to 9)."
   - "Each week has three formats: a classic pick'em sheet, a confidence pool sheet (points 1 to 14 in Week 8, 1 to 15 in Week 9) and an office pool grid."
-  - "Week 8 kicks off tonight, Thu., Oct. 29, at 8:15 p.m. Eastern Time (ET) with Panthers at Packers on Prime Video, per NFL.com; sheets are due before that."
+  - "Week 8 began Thursday, Oct. 29, 2026 (Packers 27, Panthers 19, per ESPN); the Sunday and Monday games remain, so sheets still work for those."
   - "Every sheet comes in US Letter and A4, prints in black ink on white with thin rules, and names teams in plain text with no logos."
 faq:
   - q: "Are the NFL pick'em sheets free?"
@@ -43,6 +44,10 @@ sources:
     url: "https://www.nfl.com/schedules/"
     publisher: "National Football League"
     date: "2026-10-28"
+  - title: "NFL Scoreboard, Week 8, 2026"
+    url: "https://www.espn.com/nfl/scoreboard/_/week/8/year/2026/seasontype/2"
+    publisher: "ESPN"
+    date: "2026-10-29"
 internalLinks:
   - href: "/november-calendars.html"
     label: "November 2026 printable calendar"
@@ -149,7 +154,9 @@ downloads:
     pages: 1
 ---
 
-**Fresh Calendars has free one-page printable pick'em sheets for National Football League (NFL) Week 8, which kicks off tonight, Thursday, Oct. 29, 2026, at 8:15 p.m. Eastern Time (ET), and for Week 9, using the schedule on NFL.com.** Each week comes in three formats: a classic pick'em sheet, a confidence pool sheet and an office pool grid. The download box below has every PDF, in US Letter and A4, all designed to print in black ink on white.
+<p class="callout"><b>Updated Oct. 30, 2026, 1:05 a.m. ET.</b> Week 8 began Thursday, Oct. 29, 2026, when the Packers beat the Panthers 27-19, per ESPN. The Sunday, Nov. 1 and Monday, Nov. 2 games remain, so the sheets still work for the rest of the week.</p>
+
+**Fresh Calendars has free one-page printable pick'em sheets for National Football League (NFL) Week 8, which began Thursday, Oct. 29, 2026, at 8:15 p.m. Eastern Time (ET), and for Week 9, using the schedule on NFL.com.** Each week comes in three formats: a classic pick'em sheet, a confidence pool sheet and an office pool grid. The download box below has every PDF, in US Letter and A4, all designed to print in black ink on white.
 
 ## Which pick'em sheet should you print?
 
@@ -163,7 +170,7 @@ All six sheets are original designs with team names in plain text and no logos. 
 
 ## Week 8 pick'em: deadline and tiebreaker
 
-Week 8 has 14 games from Thursday, Oct. 29 to Monday, Nov. 2, 2026, per the NFL.com schedule checked on Oct. 28, 2026. The first kickoff is Panthers at Packers tonight at 8:15 p.m. ET on Prime Video, so collect Week 8 sheets before then, or agree that Thursday's game is skipped. The Texans, Saints, Giants and 49ers are on bye. The tiebreaker game on the sheets is Bears at Seahawks on Monday, Nov. 2 at 8:15 p.m. ET on ESPN. Our [NFL Week 8 schedule story](/news/nfl-week-8-schedule-2026-game-times-tv-clock-change/) adds the local time in seven time zones.
+Week 8 has 14 games from Thursday, Oct. 29 to Monday, Nov. 2, 2026, per the NFL.com schedule checked on Oct. 28, 2026. The first game, Panthers at Packers on Thursday, Oct. 29 at 8:15 p.m. ET on Prime Video, is over (Packers 27, Panthers 19, per ESPN), so mark that result on your sheets and collect picks for the Sunday and Monday games before they start. The Texans, Saints, Giants and 49ers are on bye. The tiebreaker game on the sheets is Bears at Seahawks on Monday, Nov. 2 at 8:15 p.m. ET on ESPN. Our [NFL Week 8 schedule story](/news/nfl-week-8-schedule-2026-game-times-tv-clock-change/) adds the local time in seven time zones.
 
 | Day | Time (ET) | Game | TV |
 |---|---|---|---|

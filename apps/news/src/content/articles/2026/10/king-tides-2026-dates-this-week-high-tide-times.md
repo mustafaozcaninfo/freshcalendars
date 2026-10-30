@@ -4,7 +4,7 @@ seoTitle: "King Tides 2026: California Dates and High Tide Times"
 description: "National Weather Service (NWS) coastal flood warnings cover South Florida to Georgia Oct. 28, 2026. California king tides: Nov. 24-26, Dec. 23-25, Jan. 21-22."
 type: news
 publishedAt: "2026-10-27T07:45:00-04:00"
-updatedAt: "2026-10-28T03:45:00-04:00"
+updatedAt: "2026-10-30T01:05:00-04:00"
 authors: [jordan-bennett]
 category: sky-events
 keywords: ["king tides 2026", "king tide dates 2026", "king tides this week", "California king tides November 2026", "when are king tides"]
@@ -139,7 +139,7 @@ The National Weather Service (NWS) has these coastal flood alerts in effect as o
 | San Francisco Bay shoreline and North Bay, California | San Francisco | Coastal Flood Advisory | 5 to 6 p.m. Fri., Oct. 30 (Sat., Oct. 31 for some zones) |
 | Aransas, Nueces, Kleberg and Calhoun islands, Texas | Corpus Christi | Coastal Flood Advisory | 5 a.m. Thu., Oct. 29 |
 
-In Miami, NOAA predicts high tides at Virginia Key of 2.94 feet at 11:20 a.m. and 2.77 feet at 11:23 p.m. EDT on Wednesday, then 2.87 feet at 12:11 p.m. on Thursday, Oct. 29. The NWS Miami office says moderate to major coastal flooding will peak tonight and Wednesday during times of high tide. Flooding tends to be worst for an hour or two either side of each high tide.
+In Miami, NOAA predicted high tides at Virginia Key of 2.94 feet at 11:20 a.m. and 2.77 feet at 11:23 p.m. EDT on Wednesday, Oct. 28, then 2.87 feet at 12:11 p.m. on Thursday, Oct. 29. The NWS Miami office had said moderate to major coastal flooding would peak around the Oct. 27-28 high tides; its coastal flood warnings for those days have since expired. Flooding tends to be worst for an hour or two either side of each high tide.
 
 ## When are the official California king tides?
 

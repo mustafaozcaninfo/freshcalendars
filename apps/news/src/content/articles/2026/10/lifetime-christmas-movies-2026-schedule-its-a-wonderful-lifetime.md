@@ -5,7 +5,7 @@ description: "Lifetime's It's a Wonderful Lifetime 2026 event starts Saturday, N
 type: news
 publishedAt: "2026-10-25T17:20:00-04:00"
 authors: [jordan-bennett]
-category: planning
+category: entertainment
 keywords: ["Lifetime Christmas movies 2026", "It's a Wonderful Lifetime 2026 schedule", "Lifetime holiday movies 2026", "new Lifetime Christmas movies"]
 dateline: "New York"
 assets:

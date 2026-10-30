@@ -4,7 +4,7 @@ seoTitle: "Statue of Liberty 140th Anniversary: Oct. 28, 2026"
 description: "Oct. 28, 2026 is 140 years since the Statue of Liberty was dedicated, per the National Park Service (NPS). See the timeline, 2026 ticket prices and ferry facts."
 type: explainer
 publishedAt: "2026-10-27T17:40:00-04:00"
-updatedAt: "2026-10-28T16:12:00-04:00"
+updatedAt: "2026-10-30T01:05:00-04:00"
 authors: [alex-morgan]
 category: holidays
 keywords: ["statue of liberty 140th anniversary", "statue of liberty anniversary october 28", "when was the statue of liberty dedicated", "statue of liberty ticket prices 2026"]
@@ -99,7 +99,7 @@ downloads:
 draft: false
 ---
 
-<p class="callout"><b>Last updated Wed. Oct. 28, 2026, 4:12 p.m. ET.</b> Today is the 140th anniversary. A recheck of the National Park Service pages and the Statue City Cruises tickets page found no 140th-anniversary event, special hours or closures.</p>
+<p class="callout"><b>Updated Oct. 30, 2026, 1:05 a.m. ET.</b> The 140th anniversary was Wednesday, Oct. 28, 2026. A recheck of the National Park Service pages and the Statue City Cruises tickets page found no 140th-anniversary event, special hours or closures.</p>
 
 **The Statue of Liberty turned 140 on Wednesday, Oct. 28, 2026, marking 140 years since it was dedicated on Oct. 28, 1886, per the National Park Service (NPS).** The ceremony took place on Bedloe's Island, now Liberty Island. Below: the timeline with weekdays, 2026 ticket prices, and how to reach the island.
 

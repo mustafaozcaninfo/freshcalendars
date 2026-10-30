@@ -5,7 +5,7 @@ description: "Netflix's fall movie guide lists 10 movies for November 2026, star
 type: news
 publishedAt: "2026-10-25T20:19:00-04:00"
 authors: [jordan-bennett]
-category: planning
+category: entertainment
 keywords: ["new on Netflix November 2026", "Netflix movies November 2026", "Netflix November 2026 release dates", "A Dog's Perfect Christmas Netflix"]
 dateline: "Los Angeles"
 assets:

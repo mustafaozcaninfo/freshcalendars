@@ -5,7 +5,7 @@ description: "Netflix says Greta Gerwig's Narnia: The Magician's Nephew opens in
 type: news
 publishedAt: "2026-10-29T23:45:00-04:00"
 authors: [jordan-bennett]
-category: planning
+category: entertainment
 keywords: ["narnia release date", "narnia the magician's nephew release date", "greta gerwig narnia netflix date", "narnia imax tickets"]
 assets:
   overlay: true

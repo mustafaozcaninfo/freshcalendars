@@ -5,7 +5,7 @@ description: "Hulu Press lists 109 dated additions for November 2026, and Disney
 type: news
 publishedAt: "2026-10-27T21:42:00-04:00"
 authors: [jordan-bennett]
-category: planning
+category: entertainment
 keywords: ["new on Hulu November 2026", "Hulu November 2026 schedule", "what's coming to Hulu in November", "Percy Jackson season 3 release date Hulu"]
 assets:
   overlay: true

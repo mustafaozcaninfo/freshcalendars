@@ -5,7 +5,7 @@ description: "Sunrise on the Reaping opens in U.S. theaters Fri., Nov. 20, 2026 
 type: news
 publishedAt: "2026-10-29T11:52:00-04:00"
 authors: [jordan-bennett]
-category: calendar-guides
+category: entertainment
 keywords: ["sunrise on the reaping release date", "hunger games sunrise on the reaping runtime", "when does sunrise on the reaping come out", "hunger games movies in order"]
 assets:
   overlay: true

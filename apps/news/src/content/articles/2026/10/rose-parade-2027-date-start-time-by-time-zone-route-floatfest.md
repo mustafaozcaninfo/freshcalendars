@@ -4,6 +4,7 @@ seoTitle: "Rose Parade 2027: Start Time, Route, Floatfest"
 description: "The 138th Rose Parade starts at 8 a.m. Pacific Time (PT) on Fri., Jan. 1, 2027, or 11 a.m. Eastern Time (ET), the Tournament of Roses says."
 type: news
 publishedAt: "2026-10-26T08:50:00-04:00"
+updatedAt: "2026-10-30T01:05:00-04:00"
 authors: [jordan-bennett]
 category: holidays
 keywords: ["rose parade 2027", "what time is the rose parade 2027", "rose parade route", "rose parade float viewing 2027", "bandfest 2027"]
@@ -22,7 +23,7 @@ summary:
   - "The 138th Rose Parade presented by Honda begins at 8 a.m. on Friday, Jan. 1, 2027 in Pasadena, California, the Tournament of Roses says. That is 11 a.m. Eastern Time (ET), by our conversion."
   - "The Tournament of Roses lists the parade as 8:00 a.m. to 10:00 a.m., and the route as 5 1/2 miles from Green Street and Orange Grove Boulevard to Villa Street."
   - "Bandfest runs Dec. 29-30, 2026 and Floatfest runs Jan. 1-3, 2027. Both are ticketed."
-  - "The 2027 theme, the Grand Marshal and the television and streaming broadcasters are not yet announced on the pages we used."
+  - "The 2027 theme is \"Welcome,\" announced by Tournament of Roses President Terry Madigan in January 2026, per NBC Los Angeles. The Grand Marshal and the broadcasters are not yet announced."
 faq:
   - q: "What time is the Rose Parade in 2027?"
     a: "The Tournament of Roses lists the 138th Rose Parade presented by Honda at 8:00 a.m. to 10:00 a.m. Pacific Time (PT) on Friday, Jan. 1, 2027. That is 11 a.m. to 1 p.m. Eastern Time (ET), by our conversion."
@@ -50,6 +51,10 @@ sources:
     url: "https://rosebowlgame.com/news/2026/2/3/general-cfp-announces-2026-and-2027-playoff-sites-rose-bowl-game-to-be-quarterfinal.aspx"
     publisher: "Rose Bowl Game"
     date: "2026-02-03"
+  - title: "Theme for the 2027 Rose Parade is announced"
+    url: "https://www.nbclosangeles.com/news/local/theme-for-the-2027-rose-parade-is-announced/3832567/"
+    publisher: "NBC Los Angeles"
+    date: "2026-01-16"
 internalLinks:
   - href: "/when-is/new-years-day/"
     label: "When is New Year's Day?"
@@ -93,6 +98,8 @@ downloads:
     pages: 1
 draft: false
 ---
+
+<p class="callout"><b>Updated Oct. 30, 2026, 1:05 a.m. ET.</b> The 2027 Rose Parade theme is "Welcome," announced by Tournament of Roses President Terry Madigan in January 2026, per NBC Los Angeles. The Grand Marshal and the broadcasters are still not yet announced.</p>
 
 **The 138th Rose Parade presented by Honda begins at 8 a.m. Pacific Time (PT) on Friday, Jan. 1, 2027, which is 11 a.m. Eastern Time (ET), according to the Tournament of Roses.** The organization lists the parade from 8:00 a.m. to 10:00 a.m. in Pasadena, California. Below: the start time in each U.S. time zone, the route, and one week of dates from four separate official pages.
 
@@ -146,7 +153,7 @@ The Rose Bowl Game presented by Prudential is a College Football Playoff (CFP) q
 
 ## Is the 2027 theme or TV channel announced?
 
-Not on the pages we used. The 2027 theme, the Grand Marshal and the television and streaming broadcasters are not yet announced there, and we do not name a channel. Check the Tournament of Roses site for updates. For other holiday parades, see our [Macy's Thanksgiving Day Parade TV schedule](/news/thanksgiving-2026-tv-schedule-macys-parade-nfl-games/) and [NYC holiday calendar](/news/nyc-holiday-calendar-2026-rockefeller-tree-macys-parade/).
+The theme is "Welcome," announced by Tournament of Roses President and Chairman Terry Madigan in January 2026, as reported by NBC Los Angeles on Jan. 16, 2026. The official tournamentofroses.com pages did not expose the theme text to our automated check. The Grand Marshal and the television and streaming broadcasters are not yet announced, and we do not name a channel. Check the Tournament of Roses site for updates. For other holiday parades, see our [Macy's Thanksgiving Day Parade TV schedule](/news/thanksgiving-2026-tv-schedule-macys-parade-nfl-games/) and [NYC holiday calendar](/news/nyc-holiday-calendar-2026-rockefeller-tree-macys-parade/).
 
 ## Free Rose Parade week 2027 printable
 

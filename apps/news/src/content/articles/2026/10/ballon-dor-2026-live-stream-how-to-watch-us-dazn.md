@@ -4,6 +4,7 @@ seoTitle: "Ballon d'Or 2026 Live Stream: How to Watch in the US"
 description: "Stream the 2026 Ballon d'Or in the US on Dazn from 4 p.m. Eastern Time (ET) on Monday, Oct. 26, and find the official TV partner in each listed country."
 type: news
 publishedAt: "2026-10-26T13:20:00-04:00"
+updatedAt: "2026-10-30T01:05:00-04:00"
 authors: [jordan-bennett]
 category: sports
 keywords: ["Ballon d'Or 2026 live stream", "how to watch Ballon d'Or 2026", "Ballon d'Or 2026 channel", "Ballon d'Or 2026 Dazn", "Ballon d'Or 2026 start time US"]
@@ -34,7 +35,7 @@ faq:
   - q: "Who hosts the 2026 Ballon d'Or?"
     a: "Thierry Henry and Kate Scott host the ceremony at the London Palladium, according to UEFA."
   - q: "Who won the Ballon d'Or 2026?"
-    a: "The winners are announced during the ceremony on Monday, Oct. 26. This story will be updated after the ceremony."
+    a: "Harry Kane won the 2026 Men's Ballon d'Or and Alexia Putellas won the 2026 Women's Ballon d'Or at the London Palladium on Monday, Oct. 26, 2026, per the Union of European Football Associations (UEFA)."
 sources:
   - title: "Where to watch the 2026 Ballon d'Or ceremony: TV broadcast partners, live streams"
     url: "https://www.uefa.com/ballondor/news/02aa-21e300b43166-1cde2af6c1f4-1000--where-to-watch-the-2026-ballon-d-or-ceremony-tv-broadcast-p/"
@@ -51,6 +52,10 @@ sources:
   - title: "Ballon d'Or to air worldwide live and free on DAZN"
     url: "https://news-frontend.news.indazn.com/en-US/news/soccer/ballon-dor-dazn-broadcast-live-worldwide-global-free/puz047gzvrfh1xslr50qk6m8k"
     publisher: "DAZN"
+  - title: "As it happened: Kane and Alexia win Ballon d'Or awards"
+    url: "https://www.uefa.com/ballondor/"
+    publisher: "UEFA"
+    date: "2026-10-26"
 internalLinks:
   - href: "/october-calendars.html"
     label: "October 2026 printable calendar"
@@ -98,7 +103,9 @@ downloads:
 draft: false
 ---
 
-**U.S. viewers can stream the 2026 Ballon d'Or on Dazn, which the Union of European Football Associations (UEFA) names as the ceremony's global broadcaster, starting at 4 p.m. Eastern Time (ET) on Monday, Oct. 26.** The ceremony begins at 20:00 Greenwich Mean Time (GMT) at the London Palladium. Thierry Henry and Kate Scott host it, UEFA says.
+<p class="callout"><b>Updated Oct. 30, 2026, 1:05 a.m. ET.</b> The ceremony has taken place. Harry Kane won the 2026 Men's Ballon d'Or and Alexia Putellas won the 2026 Women's Ballon d'Or at the London Palladium on Monday, Oct. 26, 2026, per the Union of European Football Associations (UEFA). Our <a href="/news/ballon-dor-2026-date-time-by-time-zone-nominees-london/">Ballon d'Or 2026 nominees story</a> has the full results.</p>
+
+**U.S. viewers streamed the 2026 Ballon d'Or on Dazn, which the Union of European Football Associations (UEFA) named as the ceremony's global broadcaster, from 4 p.m. Eastern Time (ET) on Monday, Oct. 26.** The ceremony began at 20:00 Greenwich Mean Time (GMT) at the London Palladium. Thierry Henry and Kate Scott hosted it, UEFA says.
 
 Some guides online list 3 p.m. ET. That is one hour early for this year: Europe changed its clocks on Sunday, Oct. 25, and the United States keeps daylight saving time until Nov. 1, so New York sits 4 hours behind London this week.
 
@@ -160,7 +167,7 @@ UEFA lists a local partner for each country below. Everywhere else, the official
 
 ## Which awards are handed out?
 
-UEFA lists 13 prizes: the men's and women's Ballon d'Or, plus men's and women's awards for young talent, goalkeeper, coach, club and striker of the year, and the Sócrates Award. UEFA revealed the nominees on Sept. 8, with 30 men and 30 women up for the main trophy. This story does not predict winners.
+UEFA lists 13 prizes: the men's and women's Ballon d'Or, plus men's and women's awards for young talent, goalkeeper, coach, club and striker of the year, and the Sócrates Award. UEFA revealed the nominees on Sept. 8, with 30 men and 30 women up for the main trophy. Harry Kane won the 2026 Men's Ballon d'Or and Alexia Putellas won the 2026 Women's Ballon d'Or, UEFA says.
 
 ## Free printable: start times and broadcasters
 

@@ -5,7 +5,7 @@ description: "The Recording Academy lists Grammy nominations 2027 for Monday, No
 type: news
 publishedAt: "2026-10-25T17:05:00-04:00"
 authors: [jordan-bennett]
-category: planning
+category: entertainment
 keywords: ["Grammy nominations 2027", "when are Grammy nominations announced", "Grammys 2027 date", "69th Grammy Awards"]
 dateline: "Los Angeles"
 assets:

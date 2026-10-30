@@ -5,7 +5,7 @@ description: "The Hallmark Channel Countdown to Christmas 2026 runs Friday, Oct.
 type: news
 publishedAt: "2026-10-24T00:45:00-04:00"
 authors: [alex-morgan]
-category: holidays
+category: entertainment
 keywords: ["Hallmark Christmas movies 2026 schedule", "Countdown to Christmas 2026 schedule", "printable Hallmark Christmas movie checklist 2026", "new Hallmark movie tonight"]
 dateline: "New York"
 assets:

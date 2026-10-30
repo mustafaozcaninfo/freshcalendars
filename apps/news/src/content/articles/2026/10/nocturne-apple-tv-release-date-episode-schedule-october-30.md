@@ -5,7 +5,7 @@ description: "Nocturne premieres Friday, Oct. 30, 2026 on Apple TV with two epis
 type: news
 publishedAt: "2026-10-29T05:50:00-04:00"
 authors: [jordan-bennett]
-category: planning
+category: entertainment
 keywords: ["Nocturne release date", "Nocturne episode schedule", "Nocturne Apple TV", "Nocturne Stephen Graham", "when does Nocturne come out"]
 dateline: "New York"
 assets:

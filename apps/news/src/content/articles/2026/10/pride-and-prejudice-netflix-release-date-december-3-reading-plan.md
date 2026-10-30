@@ -5,7 +5,7 @@ description: "Netflix's six-part Pride and Prejudice, starring Emma Corrin and J
 type: news
 publishedAt: "2026-10-28T21:46:00-04:00"
 authors: [jordan-bennett]
-category: planning
+category: entertainment
 keywords: ["pride and prejudice netflix release date", "pride and prejudice 2026 series", "pride and prejudice netflix cast", "pride and prejudice trailer netflix", "read pride and prejudice before netflix"]
 assets:
   scene: spring

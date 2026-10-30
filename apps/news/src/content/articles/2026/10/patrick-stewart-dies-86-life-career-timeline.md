@@ -5,7 +5,7 @@ description: "Sir Patrick Stewart died Oct. 28 at home in Los Angeles, aged 86. 
 type: news
 publishedAt: "2026-10-29T16:15:00-04:00"
 authors: [jordan-bennett]
-category: calendar-guides
+category: entertainment
 keywords: ["Patrick Stewart dies at 86", "Patrick Stewart career timeline", "Patrick Stewart key dates", "Patrick Stewart Star Trek", "Patrick Stewart X-Men"]
 dateline: "Los Angeles"
 hero:

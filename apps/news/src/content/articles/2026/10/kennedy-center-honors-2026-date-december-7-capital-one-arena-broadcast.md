@@ -5,7 +5,7 @@ description: "The 49th Kennedy Center Honors are set for Monday, Dec. 7, 2026, a
 type: news
 publishedAt: "2026-10-28T18:00:00-04:00"
 authors: [jordan-bennett]
-category: planning
+category: entertainment
 keywords: ["Kennedy Center Honors 2026", "Kennedy Center Honors date", "Kennedy Center Honors Capital One Arena", "Kennedy Center Honors TV broadcast"]
 dateline: "Washington"
 hero:

@@ -4,7 +4,7 @@ seoTitle: "Orionids 2026 Active Through Nov. 7 After Oct. 22 Peak"
 description: "The Orionid meteor shower peaked Oct. 21-22 but stays active through Nov. 7, 2026. Watch after moonset before dawn; the Taurids and Leonids follow in November."
 type: news
 publishedAt: "2026-10-18T04:10:00-04:00"
-updatedAt: "2026-10-24T01:40:00-04:00"
+updatedAt: "2026-10-30T01:05:00-04:00"
 authors: [jordan-bennett]
 category: sky-events
 keywords: ["Orionid meteor shower 2026 viewing times", "Orionid meteor shower tonight", "how to watch the Orionids", "Orionids peak time 2026", "meteor shower October 2026"]
@@ -88,7 +88,7 @@ downloads:
 draft: false
 ---
 
-<p class="callout"><b>Updated Sat., Oct. 24, 2026.</b> The Oct. 21-22 peak has passed, but NASA lists the Orionids as active through Nov. 7, with fewer meteors each night; watch after moonset before dawn. Next come the <a href="/news/november-2026-meteor-showers-taurids-leonids/">Southern Taurids on Nov. 4-5 and the Leonids on Nov. 16-17</a>, then the <a href="/news/supermoon-2026-beaver-moon-cold-moon-geminids-solstice/">Geminids on Dec. 13-14</a>.</p>
+<p class="callout"><b>Updated Oct. 30, 2026, 1:05 a.m. ET.</b> The Oct. 21-22 peak has passed, but NASA lists the Orionids as active through Nov. 7, with fewer meteors each night; watch after moonset before dawn. Next come the <a href="/news/november-2026-meteor-showers-taurids-leonids/">Southern Taurids on Nov. 4-5 and the Leonids on Nov. 16-17</a>, then the <a href="/news/supermoon-2026-beaver-moon-cold-moon-geminids-solstice/">Geminids on Dec. 13-14</a>.</p>
 
 <p class="callout"><b>The best window was moonset to dawn.</b> On the Oct. 21-22 peak the moon, about 86% lit, stayed up until around 3 to 4 a.m. local time in most U.S. cities. From moonset until dawn twilight began, about 5:15 to 6:30 a.m., the sky was dark and the Orionids were at their best. The shower stays active through Nov. 7, with the darkest hours still before dawn.</p>
 

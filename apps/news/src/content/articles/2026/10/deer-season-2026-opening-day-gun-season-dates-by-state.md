@@ -4,7 +4,7 @@ seoTitle: "Deer Season 2026: Gun Season Dates by State"
 description: "Gun deer season 2026 opens Sat., Nov. 7 in Minnesota, per its Department of Natural Resources (DNR), then Wisconsin Nov. 21 and Pennsylvania Nov. 28."
 type: explainer
 publishedAt: "2026-10-28T01:41:00-04:00"
-updatedAt: "2026-10-29T05:10:00-04:00"
+updatedAt: "2026-10-30T01:05:00-04:00"
 authors: [jordan-bennett]
 category: calendar-guides
 keywords: ["deer season 2026", "gun deer season opening day 2026", "Pennsylvania deer season 2026", "Wisconsin gun deer season 2026", "Ohio deer gun season 2026"]
@@ -53,7 +53,7 @@ hero:
     author: "ShenandoahNPS"
     authorUrl: "https://www.flickr.com/people/snpphotos/"
 summary:
-  - "Minnesota's firearms deer season opens Saturday, Nov. 7, 2026, 10 days from Wednesday, Oct. 28, according to the Minnesota Department of Natural Resources (DNR)."
+  - "Minnesota's firearms deer season opens Saturday, Nov. 7, 2026, 8 days from Friday, Oct. 30, according to the Minnesota Department of Natural Resources (DNR)."
   - "Wisconsin's gun season runs Nov. 21-29 and Pennsylvania's regular firearms season runs Nov. 28 to Dec. 13, with Sundays included."
   - "Indiana opens Nov. 14, Ohio on Nov. 30 and Iowa's first shotgun season on Dec. 5."
   - "Michigan's regular firearm season runs Nov. 15-30, 9&10 News reported, and New York's Northern Zone regular season opened Oct. 24, per the state Department of Environmental Conservation (DEC)."
@@ -133,27 +133,27 @@ draft: false
 
 **Minnesota's firearms deer season opens Saturday, Nov. 7, 2026, according to the Minnesota Department of Natural Resources (DNR), the earliest start among the six states below.** Two later openers follow: Wisconsin's gun opener on Saturday, Nov. 21 (Wisconsin DNR) and Pennsylvania's regular firearms opener on Saturday, Nov. 28 (Pennsylvania Game Commission).
 
-Today is Wednesday, Oct. 28, so Minnesota is 10 days out, Wisconsin 24 and Pennsylvania 31. Every date below comes from the state agency's own 2026 listing, linked in the sources. The printable at the end puts them on one page in date order.
+Today is Friday, Oct. 30, so Minnesota is 8 days out, Wisconsin 22 and Pennsylvania 29. Every date below comes from the state agency's own 2026 listing, linked in the sources. The printable at the end puts them on one page in date order.
 
 ## Gun deer season 2026 dates by state
 
 | State | Season | Dates | Opens in |
 |---|---|---|---|
-| Minnesota | Firearms, 100 series zones and 604, 679, 684 | Sat., Nov. 7 to Sun., Nov. 22 | 10 days |
-| Minnesota | Firearms, 200 series zones and 338, 341, 605, 642-649, 655, 661, 666, 671, 685 | Sat., Nov. 7 to Sun., Nov. 15 | 10 days |
-| Minnesota | Firearms, metro zone 601 | Sat., Nov. 7 to Sun., Nov. 29 | 10 days |
-| Indiana | Firearms | Sat., Nov. 14 to Sun., Nov. 29 | 17 days |
-| Ohio | Youth deer gun | Sat., Nov. 21 to Sun., Nov. 22 | 24 days |
-| Minnesota | Late southeast firearms, zones 338, 341, 605, 642-649 | Sat., Nov. 21 to Sun., Nov. 29 | 24 days |
-| Wisconsin | Gun | Sat., Nov. 21 to Sun., Nov. 29 | 24 days |
-| Wisconsin | Gun, Metro Subunits only | Sat., Nov. 21 to Wed., Dec. 9 | 24 days |
-| Pennsylvania | Regular firearms, antlered and antlerless, statewide | Sat., Nov. 28 to Sun., Dec. 13 | 31 days |
-| Ohio | Deer gun | Mon., Nov. 30 to Sun., Dec. 6 | 33 days |
-| Iowa | Shotgun season 1 | Sat., Dec. 5 to Wed., Dec. 9 | 38 days |
-| Iowa | Shotgun season 2 | Sat., Dec. 12 to Sun., Dec. 20 | 45 days |
-| Ohio | Deer gun, second part | Sat., Dec. 19 to Sun., Dec. 20 | 52 days |
+| Minnesota | Firearms, 100 series zones and 604, 679, 684 | Sat., Nov. 7 to Sun., Nov. 22 | 8 days |
+| Minnesota | Firearms, 200 series zones and 338, 341, 605, 642-649, 655, 661, 666, 671, 685 | Sat., Nov. 7 to Sun., Nov. 15 | 8 days |
+| Minnesota | Firearms, metro zone 601 | Sat., Nov. 7 to Sun., Nov. 29 | 8 days |
+| Indiana | Firearms | Sat., Nov. 14 to Sun., Nov. 29 | 15 days |
+| Ohio | Youth deer gun | Sat., Nov. 21 to Sun., Nov. 22 | 22 days |
+| Minnesota | Late southeast firearms, zones 338, 341, 605, 642-649 | Sat., Nov. 21 to Sun., Nov. 29 | 22 days |
+| Wisconsin | Gun | Sat., Nov. 21 to Sun., Nov. 29 | 22 days |
+| Wisconsin | Gun, Metro Subunits only | Sat., Nov. 21 to Wed., Dec. 9 | 22 days |
+| Pennsylvania | Regular firearms, antlered and antlerless, statewide | Sat., Nov. 28 to Sun., Dec. 13 | 29 days |
+| Ohio | Deer gun | Mon., Nov. 30 to Sun., Dec. 6 | 31 days |
+| Iowa | Shotgun season 1 | Sat., Dec. 5 to Wed., Dec. 9 | 36 days |
+| Iowa | Shotgun season 2 | Sat., Dec. 12 to Sun., Dec. 20 | 43 days |
+| Ohio | Deer gun, second part | Sat., Dec. 19 to Sun., Dec. 20 | 50 days |
 
-"Opens in" counts the days from Wednesday, Oct. 28, 2026 to the first day of each season. Sources: Minnesota DNR, Indiana DNR, Wisconsin DNR, Pennsylvania Game Commission, Iowa DNR, and the Ohio Department of Natural Resources (ODNR) 2026-27 season dates PDF.
+"Opens in" counts the days from Friday, Oct. 30, 2026 to the first day of each season. Sources: Minnesota DNR, Indiana DNR, Wisconsin DNR, Pennsylvania Game Commission, Iowa DNR, and the Ohio Department of Natural Resources (ODNR) 2026-27 season dates PDF.
 
 ## When does Pennsylvania deer season start in 2026?
 
@@ -187,16 +187,16 @@ The Iowa DNR lists Shotgun 1 for Dec. 5-9 and Shotgun 2 for Dec. 12-20, 2026-27.
 
 ## Michigan and New York deer season 2026
 
-These two states sit outside the six-state table because some of their dates come from news or guide reports rather than the agency itself: the Michigan DNR or New York's Department of Environmental Conservation (DEC). Each row names its source. Counts run from Thursday, Oct. 29.
+These two states sit outside the six-state table because some of their dates come from news or guide reports rather than the agency itself: the Michigan DNR or New York's Department of Environmental Conservation (DEC). Each row names its source. Counts run from Friday, Oct. 30.
 
 | State | Season | Dates | Source |
 |---|---|---|---|
-| Michigan | Regular firearm | Sun., Nov. 15 to Mon., Nov. 30 (opens in 17 days) | 9&10 News, Aug. 27, 2026 |
+| Michigan | Regular firearm | Sun., Nov. 15 to Mon., Nov. 30 (opens in 16 days) | 9&10 News, Aug. 27, 2026 |
 | Michigan | Upper Peninsula muzzleloader and Lower Peninsula December firearm | Fri., Dec. 4 to Sun., Dec. 6 | Michigan DNR |
 | Michigan | Late antlerless, eligible Lower Peninsula units | Mon., Dec. 7 to Fri., Jan. 1, 2027 | Michigan DNR |
 | New York | Northern Zone regular firearms | Sat., Oct. 24 to Sun., Dec. 6 (open now) | DEC |
 | New York | Southern Zone early bowhunting, most of the zone | Oct. 1 to Fri., Nov. 20 | DEC |
-| New York | Southern Zone regular firearms | Sat., Nov. 21 to Sun., Dec. 13 (opens in 23 days) | Huntinglocator guide |
+| New York | Southern Zone regular firearms | Sat., Nov. 21 to Sun., Dec. 13 (opens in 22 days) | Huntinglocator guide |
 
 The Michigan DNR's Aug. 19 bulletin on 2026 rule changes confirms the December dates and says the late antlerless season "begins Monday, Dec. 7" and "continues through Jan. 1" in eligible Lower Peninsula units. It also says all legal firearms may be used across the Lower Peninsula starting Sept. 12. The bulletin points to the 2026 Deer Hunting Regulations Summary for the November dates, and the DNR's deer pages were blocked to our automated check. The Nov. 15-30 regular season comes from 9&10 News, which reported that "the regular firearm season still runs from Nov. 15 through Nov. 30."
 
