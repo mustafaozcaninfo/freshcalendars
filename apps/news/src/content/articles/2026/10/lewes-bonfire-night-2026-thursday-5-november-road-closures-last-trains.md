@@ -119,8 +119,6 @@ The release was issued on behalf of the council, East Sussex Fire & Rescue Servi
 | About 1 a.m., Friday 6 November | Processions finish | Lewes Bonfire Celebrations |
 | Start of service, Friday 6 November | Trains stop at these stations again | Joint release |
 
-Thursday 5 November and Friday 6 November are both confirmed by our weekday check for 2026.
-
 ## Which roads close from 4.45 p.m.?
 
 The joint release lists five closures from 4.45 p.m. on Thursday 5 November 2026:
