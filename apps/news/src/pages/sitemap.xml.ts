@@ -1,6 +1,7 @@
 import type { APIRoute } from "astro";
 import { getCollection } from "astro:content";
 import { getActiveCategories, getIndexableArticles, getPublishedArticles, lastModified, newest } from "../lib/articles";
+import { postSitemapChunks, postSitemapPath } from "../lib/postSitemap";
 import { newsWindow, sitemapIndex } from "../lib/sitemaps";
 import { liveTopics } from "../lib/storygraph";
 
@@ -11,7 +12,7 @@ export const GET: APIRoute = async () => {
   const latest = newest(articles.map(lastModified));
   const recent = newsWindow(articles.map((a) => ({ path: a.id, title: a.data.title, publishedAt: a.data.publishedAt })), now);
   const children = [
-    { path: "/news/post-sitemap.xml", lastmod: latest },
+    ...(await postSitemapChunks()).map((chunk, i) => ({ path: postSitemapPath(i + 1), lastmod: newest(chunk.flatMap((e) => (e.lastmod ? [e.lastmod] : []))) ?? latest })),
     ...((await getActiveCategories(articles)).length ? [{ path: "/news/category-sitemap.xml", lastmod: latest }] : []),
     ...(liveTopics(await getPublishedArticles(now)).length ? [{ path: "/news/topic-sitemap.xml", lastmod: latest }] : []),
     ...((await getCollection("authors")).length ? [{ path: "/news/author-sitemap.xml", lastmod: latest }] : []),
