@@ -86,7 +86,7 @@ internalLinks:
     label: "January 2027 printable calendar"
   - href: "/april-calendars.html"
     label: "April 2027 printable calendar"
-related: [tax-calendar-2027-irs-deadlines, social-security-cola-2027-3-6-percent-payment-dates, medicare-open-enrollment-2026-december-7-90-dollar-rebate]
+related: [tax-calendar-2027-irs-deadlines, social-security-cola-2027-3-6-percent-payment-dates, 2026-hsa-contribution-deadline-april-2027]
 downloads:
   - group: "2027 Tax and Benefit Limits printables"
     title: "2027 Tax and Benefit Limits, What Is Official"

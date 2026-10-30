@@ -52,7 +52,7 @@ internalLinks:
     label: "November 2026 printable calendar"
   - href: "/december-calendars.html"
     label: "December 2026 printable calendar"
-related: [medicare-open-enrollment-2026-december-7-90-dollar-rebate, aca-open-enrollment-2027-dates-november-1-january-15]
+related: [medicare-open-enrollment-2026-december-7-90-dollar-rebate, aca-open-enrollment-2027-dates-november-1-january-15, fsa-2026-year-end-deadline-use-it-or-lose-it]
 downloads:
   - group: "Federal Benefits Open Season 2026 Checklist printables"
     title: "Federal Benefits Open Season 2026 Checklist"

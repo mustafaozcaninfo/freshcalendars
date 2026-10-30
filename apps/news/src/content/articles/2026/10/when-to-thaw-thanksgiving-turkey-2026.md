@@ -71,7 +71,7 @@ internalLinks:
     label: "When is Thanksgiving?"
   - href: "/printable-weekly-calendar.html"
     label: "Printable weekly calendar"
-related: [why-thanksgiving-2026-is-november-26, black-friday-2026-store-hours-walmart-target-best-buy, november-2026-important-dates-days-until]
+related: [why-thanksgiving-2026-is-november-26, thanksgiving-leftovers-how-long-turkey-and-sides-last-2026, november-2026-important-dates-days-until]
 draft: false
 ---
 
