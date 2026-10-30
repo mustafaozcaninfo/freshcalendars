@@ -16,6 +16,8 @@ Run every candidate query through this tree (§04 l.1056-1084):
 3. **A sub-question with its own facts?** A section (H2) in the story that owns the topic.
 4. **One sentence answers it?** One sentence plus an internal link to the page that owns it.
 
+**Modifier variants are not new pages.** "Is the post office open on Veterans Day in Texas" and the same query for Ohio share one intent; a copy per state, city or store where only the name changes is a doorway page. Put the variants in a table in one story. A variant earns its own story only when it has different official facts (its own closures, rules or schedule from its own source).
+
 **Cannibalization (§04 l.1195, l.1212).** The date answer ("when is Thanksgiving 2026") belongs to `/when-is/`. A story takes another intent (what is open, why this date, travel days, deals, hours, how to watch) and links to the when-is page.
 
 **Stay in our source context (§04 l.947, l.1010-1015).** Calendars and dates, holidays, school calendars, election dates and deadlines, sky events, time changes, retail dates, daily puzzles. Since the February 2026 Discover core update, Google judges expertise topic by topic; a story far from these does not show (audit `04-TOPIC-FOCUS`).
@@ -36,13 +38,14 @@ A page that only restates one official page has no information gain and is the f
 
 ## 3. Page anatomy
 
-- **First sentence answers the query (§08 l.2329)** with the date, time, number or rule, the entity and the official source by name. Context comes after.
+- **First sentence answers the query (§08 l.2329)** with the date, time, number or rule, the entity and the official source by name. The next sentences give the main condition or exception (which states, which offices, which time zone) and what the rest of the story covers. Context comes after.
 - **Centerpiece unbroken (§01 l.202-206, l.314):** H1, lede, byline, hero and key points sit together; nothing splits them.
 - **Headline:** the main query first, then the specific fact ("NYC Marathon 2026: Start Times, TV Schedule, Road Closures and Where to Watch on Nov. 1"). It states what the story says; Discover demotes hype and withheld answers.
 - **`description` is the lede:** the answer plus the next most useful fact, abbreviations expanded.
 - **H2s are the questions readers type (§04 l.1100, §08 l.2336):** "Where to watch in person", "What the waiver does and does not cover". Short, with the entity or attribute in them.
-- **Match the form to the content (§08 l.2494-2522):** dates, times, prices and steps go in tables or lists; what and why go in prose. If the search results show tables, give a better table.
-- **Every number has a source and a year.** Last year's figure is labeled as last year's, never presented as this year's.
+- **Match the form to the content (§08 l.2494-2522):** dates, times and prices go in tables, steps in a numbered list, items without order in a bulleted list; what and why go in prose. If the search results show tables, give a better table.
+- **Every number has a source, a year and a scope.** Write the fact with what it applies to: "USPS post offices close on Nov. 11, per the USPS holiday schedule" rather than "mail is closed". Last year's figure is labeled as last year's, never presented as this year's.
+- **The verb carries the source's certainty (§08 l.2329).** "Closes", "is", "requires" only when the official source states it; "is scheduled to", "plans to", "has not announced" when that is what it says. Do not hedge a confirmed fact, and do not firm up a plan into a fact. Pick the exact relation: "observes" a holiday is not "closes for" it, "is eligible" is not "will receive".
 - **Bridges, not link dumps (§04 l.959):** link a calendar page or related story in the sentence where the reader needs it.
 - **Word economy (§08 l.2320):** every paragraph adds a fact. Long but useful is fine; padding to look complete is not. Floor: 300 words (`01-THIN`).
 
@@ -79,7 +82,7 @@ No deceptive pages or redirects, no fake accounts or networks, no unprovable sup
 - [ ] The query is not already owned by another story or a `/when-is/` page.
 - [ ] The story adds at least one thing the top results lack (and it is in the first screen).
 - [ ] First sentence: date or number, entity, official source.
-- [ ] Every figure has its source and year; pending figures say "not yet announced" with last year's value labeled.
+- [ ] Every figure has its source, year and scope; verbs match what the source confirms; pending figures say "not yet announced" with last year's value labeled.
 - [ ] H2s are reader questions; structured facts are in tables.
 - [ ] Hero is unique and printable is built from the story's facts (`news-visuals`).
 - [ ] Two calendar links, up to three related stories, linked in context.
