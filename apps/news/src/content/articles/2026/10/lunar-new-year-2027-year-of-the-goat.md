@@ -52,7 +52,7 @@ internalLinks:
     label: "2027 printable yearly calendar"
   - href: "/january-calendars.html"
     label: "January 2027 printable calendar"
-related: [ramadan-2027-calendar-dates-timetable, moon-phases-2027-full-moon-calendar]
+related: [ramadan-2027-calendar-dates-timetable, moon-phases-2027-full-moon-calendar, orthodox-christmas-2027-january-7-three-kings-day-january-6]
 downloads:
   - group: "Lunar New Year printables"
     title: "Lunar New Year 2027 Calendar"

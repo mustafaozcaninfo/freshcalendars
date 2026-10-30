@@ -50,7 +50,7 @@ internalLinks:
     label: "When is Christmas Day?"
   - href: "/when-is/new-years-eve/"
     label: "When is New Year's Eve?"
-related: [uk-bank-holidays-2027-dates-england-scotland-northern-ireland, st-andrews-day-2026-scotland-bank-holiday-monday-november-30, christmas-2026-calendar-printable-countdown]
+related: [uk-bank-holidays-2027-dates-england-scotland-northern-ireland, st-andrews-day-2026-scotland-bank-holiday-monday-november-30, kings-christmas-message-2026-time-uk-us-canada-australia]
 downloads:
   - group: "UK Christmas and New Year Leave Planner printables"
     title: "UK Christmas and New Year Leave Planner, 2026 to 2027"

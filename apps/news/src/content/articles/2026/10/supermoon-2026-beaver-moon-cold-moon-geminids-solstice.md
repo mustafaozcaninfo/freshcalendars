@@ -83,7 +83,7 @@ internalLinks:
     label: "December 2026 printable calendar"
   - href: "/printable-yearly-calendar.html"
     label: "2027 printable yearly calendar"
-related: [november-2026-meteor-showers-taurids-leonids, moon-phases-2027-full-moon-calendar, hunters-moon-october-2026-full-moon-time]
+related: [november-2026-meteor-showers-taurids-leonids, moon-phases-2027-full-moon-calendar, quadrantid-meteor-shower-2027-peak-wolf-moon]
 downloads:
   - group: "Night Sky Calendar printables"
     title: "Night Sky Calendar, Nov.-Dec. 2026"

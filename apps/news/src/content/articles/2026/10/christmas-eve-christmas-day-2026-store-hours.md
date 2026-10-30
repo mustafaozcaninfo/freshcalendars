@@ -69,7 +69,7 @@ internalLinks:
     label: "When is Christmas Day?"
   - href: "/printable-weekly-calendar.html"
     label: "Printable weekly planner"
-related: [usps-holiday-shipping-deadlines-2026, black-friday-2026-store-hours-walmart-target-best-buy]
+related: [usps-holiday-shipping-deadlines-2026, black-friday-2026-store-hours-walmart-target-best-buy, whats-open-new-years-eve-new-years-day-2027]
 downloads:
   - group: "Christmas printables"
     title: "Christmas Eve 2026 Last-Minute Checklist (Classic)"
