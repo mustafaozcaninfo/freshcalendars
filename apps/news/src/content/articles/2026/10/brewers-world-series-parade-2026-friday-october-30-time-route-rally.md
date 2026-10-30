@@ -128,7 +128,7 @@ sources:
     date: "2026-10-29"
   - title: "Every street closure planned for Brewers World Series victory parade"
     url: "https://www.aol.com/articles/every-street-closure-planned-brewers-183632000.html"
-    publisher: "Milwaukee Journal Sentinel (via AOL)"
+    publisher: "Milwaukee Journal Sentinel"
     date: "2026-10-29"
   - title: "What to know about Milwaukee Brewers victory parade Friday"
     url: "https://www.wuwm.com/what-to-know-about-milwaukee-brewers-victory-parade-friday"
@@ -190,7 +190,7 @@ Times for the parade, rally and shuttles are on the Brewers' page in Central Tim
 
 ## What is the Brewers parade route?
 
-The parade starts at 10 a.m. at W. Wisconsin Ave. and N. Vel R. Phillips Ave., the corner the Brewers' news release and Milwaukee Magazine also give as N. 4th St. Visit Milwaukee, the city's tourism bureau, lists the turns.
+The parade starts at 10 a.m. at W. Wisconsin Ave. and N. Vel R. Phillips Ave., the corner that Milwaukee Magazine and the Brewers' news release on the website of Major League Baseball (MLB) also give as N. 4th St. Visit Milwaukee, the city's tourism bureau, lists the turns.
 
 | Leg | Route (Visit Milwaukee) |
 |---|---|
@@ -204,7 +204,7 @@ Visit Milwaukee says a special telecast spot will be set up in front of the Bob 
 
 ## Which roads are closed for the parade?
 
-Road closures along the route start at 7 a.m., FOX6 Milwaukee and the Milwaukee Journal Sentinel reported on Oct. 29. WISN 12 News, citing city Public Works officials, said cars left in the way will be towed. The Journal Sentinel's list, republished by AOL, includes:
+Road closures along the route start at 7 a.m., FOX6 Milwaukee and the Milwaukee Journal Sentinel reported on Oct. 29. WISN 12 News, citing city Public Works officials, said cars left in the way will be towed. The Journal Sentinel's list includes:
 
 | Closure | Detail (reported) |
 |---|---|
