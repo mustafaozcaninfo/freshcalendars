@@ -68,7 +68,7 @@ export function rehypePuzzleBoards() {
       const after = (pred) => spoiler.range.find((i) => pred(kids[i]));
       if (p.game === "wordle") {
         const i = after((n) => n.tagName === "p" && /The answer to Wordle/.test(text(n)));
-        if (i !== undefined) inserts.push([i + 1, wordleBoard(data)]);
+        if (i !== undefined) inserts.push([i + 1, wordleBoard(data) + wordleRepeat(data, p.date)]);
       } else if (p.game === "connections") {
         const i = after((n) => n.tagName === "ul");
         if (i !== undefined) inserts.push([i + 1, connectionsBoard(kids[i])]);
@@ -446,6 +446,16 @@ function wordleHistory() {
   }
   while (answers.length && addDays(h.first, answers.length - 1) >= today) answers.pop();
   return (wordleHist = { first: h.first, answers });
+}
+
+/** In the spoiler: earlier days with the same answer (Wordle has reused past answers since 2026). */
+function wordleRepeat(d, date) {
+  const h = wordleHistory();
+  if (!h) return "";
+  const w = d.solution.toUpperCase();
+  const before = h.answers.flatMap((a, i) => (a === w && addDays(h.first, i) < date ? [i] : []));
+  if (!before.length) return "";
+  return `<p>${title(w)} has been the answer before: ${before.map((i) => `Wordle #${i} on ${apDate(addDays(h.first, i))}`).join(", ")}.</p>`;
 }
 
 /** "Has this word been the Wordle answer before?" Placed above the spoiler, so it can never show today's answer. */
