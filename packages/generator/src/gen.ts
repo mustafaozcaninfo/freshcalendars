@@ -56,6 +56,11 @@ export type GenOptions = {
   skipAssets?: boolean;
   /** Skip OG PNG re-render (reuse existing dist/og). */
   skipOg?: boolean;
+  /**
+   * Pages, sitemaps and CSS only: no printables, studio sheets, OG images or WebP previews.
+   * CI's contrast gate needs nothing else, and those renders were 8 of its 9.5 minutes.
+   */
+  htmlOnly?: boolean;
 };
 
 async function writeJson(file: string, data: unknown): Promise<void> {
@@ -210,7 +215,7 @@ export async function generateAll(opts: GenOptions): Promise<{ metas: SeoMeta[] 
   // Fresh HTML/meta/og each build so legacy year-qualified twins are not redeployed.
   await fs.rm(DIST_SITE, { recursive: true, force: true });
   await fs.rm(DIST_META, { recursive: true, force: true });
-  if (!opts.skipOg) {
+  if (!opts.skipOg && !opts.htmlOnly) {
     await fs.rm(DIST_OG, { recursive: true, force: true });
   }
   await fs.mkdir(DIST_SITE, { recursive: true });
@@ -233,9 +238,11 @@ export async function generateAll(opts: GenOptions): Promise<{ metas: SeoMeta[] 
 
   const entries = collectEntries(years);
   const studioYears = Array.from({ length: 5 }, (_, i) => planningYear + i);
-  await ensureStudioAssets(studioYears);
-  await ensureYearlyStudio(studioYears);
-  await ensureOtherPaperAssets();
+  if (!opts.htmlOnly) {
+    await ensureStudioAssets(studioYears);
+    await ensureYearlyStudio(studioYears);
+    await ensureOtherPaperAssets();
+  }
   const metas: SeoMeta[] = [];
   const lastmodState = await readLastmodState();
   const nextLastmod: LastmodState = {};
@@ -253,25 +260,27 @@ export async function generateAll(opts: GenOptions): Promise<{ metas: SeoMeta[] 
     nextLastmod[meta.url] = { hash: contentHash, lastmod: meta.sitemap.lastmod };
 
     await writeJson(path.join(DIST_META, `${meta.pageId}.json`), meta);
-    if (!opts.skipOg) await writeOgForMeta(meta);
+    if (!opts.skipOg && !opts.htmlOnly) await writeOgForMeta(meta);
     await writeSitePage(entryToRelPath(entry), html);
     metas.push(meta);
   }
   const home = metas.find(m => m.pageId === "home")!;
   for (const page of renderConceptHubs(home, today)) {
-    if (!opts.skipOg || !await fs.stat(path.join(DIST, page.meta.ogImagePath)).then(() => true).catch(() => false)) await writeOgForMeta(page.meta);
+    if (!opts.htmlOnly && (!opts.skipOg || !await fs.stat(path.join(DIST, page.meta.ogImagePath)).then(() => true).catch(() => false))) await writeOgForMeta(page.meta);
     await writeSitePage(page.file, page.html); await writeJson(path.join(DIST_META, `${page.meta.pageId}.json`), page.meta); metas.push(page.meta);
   }
   await writeJson(LASTMOD_STATE, nextLastmod);
 
   await writeSitemap(metas);
 
-  const previewCount = await generateAssetPreviews();
-  console.log(`asset previews: ${previewCount} webp generated/updated`);
+  if (!opts.htmlOnly) {
+    const previewCount = await generateAssetPreviews();
+    console.log(`asset previews: ${previewCount} webp generated/updated`);
+  }
 
   // copy assets + og into site tree for deploy
   await fs.mkdir(DIST_ASSETS, { recursive: true });
-  await fs.cp(DIST_ASSETS, path.join(DIST_SITE, "assets"), { recursive: true });
+  if (!opts.htmlOnly) await fs.cp(DIST_ASSETS, path.join(DIST_SITE, "assets"), { recursive: true });
   await fs.cp(DIST_OG, path.join(DIST_SITE, "og"), { recursive: true });
   await fs.cp(DIST_META, path.join(DIST_SITE, "meta"), { recursive: true });
 

@@ -236,4 +236,4 @@ git commit -m "feat(news): <what the story covers>"
 git push origin main
 ```
 
-Writers push stories straight to `main` once every check passes. In the commit message list the main sources and anything not yet confirmed that should be rechecked (with the date). When CI passes on that commit, the server publishes it within about two minutes; watch the CI run (`gh run list --branch main --limit 1`) and fix a red one with a new commit right away, because nothing after it publishes until main is green. Never deploy, never force-push.
+Writers push stories straight to `main` once every check passes. In the commit message list the main sources and anything not yet confirmed that should be rechecked (with the date). When CI passes on that commit, the server publishes it about a minute later (it builds story-only pushes while CI runs); watch the CI run (`gh run list --branch main --limit 1`) and fix a red one with a new commit right away, because no commit pushed after it publishes until main is green again. Never deploy, never force-push.
