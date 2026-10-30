@@ -4,6 +4,7 @@ seoTitle: "College Football Week 10 Schedule 2026: Times and TV"
 description: "College football Saturday, Oct. 31, 2026: 18 games with a ranked team, first kickoffs at noon Eastern Time (ET), TV channels and a printable pick'em sheet."
 type: news
 publishedAt: "2026-10-29T23:45:00-04:00"
+updatedAt: "2026-10-30T04:45:00-04:00"
 authors: [jordan-bennett]
 category: sports
 keywords: ["college football schedule week 10 2026", "college football games today", "top 25 college football games Saturday Oct 31", "college football TV schedule Halloween"]
@@ -78,6 +79,10 @@ sources:
     url: "https://fbschedules.com/college-football-schedule-tv-selections-for-october-31-2026/"
     publisher: "FBSchedules"
     date: "2026-10-19"
+  - title: "College football TV schedule and times"
+    url: "https://www.ncaa.com/news/football/article/college-football-tv-schedule-game-times-preview"
+    publisher: "NCAA.com"
+    date: "2026-10-29"
   - title: "Miami Hurricanes 2026 football schedule"
     url: "https://www.miamihurricanes.com/sports/football/schedule/"
     publisher: "University of Miami Athletics"
@@ -115,7 +120,7 @@ draft: false
 
 ## What is the college football schedule for Saturday, Oct. 31, 2026?
 
-ESPN and FBSchedules list the same games and times, all ET. Rankings are the Associated Press (AP) Top 25 of Oct. 25, 2026, as shown on ESPN. Neutral-site games are marked "vs."; the others are "at" the second team. The American Broadcasting Company (ABC), CBS, FOX, NBC, ESPN, ESPN2, Southeastern Conference (SEC) Network, Big Ten Network (BTN), Peacock and The CW carry them. SEC is the Southeastern Conference.
+ESPN and FBSchedules list the same games and times, all ET. Rankings are the Associated Press (AP) Top 25 of Oct. 25, 2026, as shown on ESPN. Northwestern and Boise State are tied at No. 20, so no team is No. 21; the National Collegiate Athletic Association (NCAA) TV schedule of Oct. 29 shows both as No. 20. Neutral-site games are marked "vs."; the others are "at" the second team. The American Broadcasting Company (ABC), CBS, FOX, NBC, ESPN, ESPN2, Southeastern Conference (SEC) Network, Big Ten Network (BTN), Peacock and The CW carry them. SEC is the Southeastern Conference.
 
 | Kickoff (ET) | TV | Game |
 |---|---|---|
