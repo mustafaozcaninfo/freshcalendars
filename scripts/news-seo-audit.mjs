@@ -440,7 +440,7 @@ check("06-SPONSORED", "Outbound commercial links carry rel=sponsored/nofollow + 
     return bad.length ? bad.map((m) => m[1]).join(" ") : null;
   }));
 check("03-LASTMOD", "Sitemap lastmod reflects real edits (updatedAt/publishedAt), not build time (§03 l.838)", () => {
-  const xml = readFileSync(path.join(dist, "post-sitemap.xml"), "utf8");
+  const xml = readdirSync(dist).filter((f) => /^post-sitemap\d*\.xml$/.test(f)).map((f) => readFileSync(path.join(dist, f), "utf8")).join("");
   const today = new Date().toISOString().slice(0, 13);
   const stamps = [...xml.matchAll(/<lastmod>([^<]+)</g)].map((m) => m[1]);
   return stamps.filter((t) => t.startsWith(today) && !articleUrls.some((u) => { const a = nodes(html[u]).find((n) => /NewsArticle$/.test(n["@type"])); return a.dateModified === t; })).map((t) => `lastmod ${t} not tied to an article edit`);

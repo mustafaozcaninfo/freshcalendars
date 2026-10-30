@@ -15,6 +15,27 @@ const RESERVED = new Set<string>(["page", "category", "author", "topic", "printa
  * Dev server shows drafts so they can be reviewed.
  */
 export async function getPublishedArticles(now: Date = new Date()): Promise<Article[]> {
+  const all = await checkedArticles();
+  const showDrafts = import.meta.env.DEV || process.env.NEWS_INCLUDE_DRAFTS === "1";
+  return all
+    .filter((a) => (showDrafts || !a.data.draft) && a.data.publishedAt <= now)
+    .sort((a, b) => b.data.publishedAt.getTime() - a.data.publishedAt.getTime());
+}
+
+let checkedOnce: Promise<Article[]> | undefined;
+
+/**
+ * Every article, validated. A build reads and checks them once: each page calls
+ * getPublishedArticles several times (bar, rail, page), and resolving every reference of every
+ * story on each call made the build grow with the square of the story count (about 40% of its
+ * CPU at 525 stories). The dev server reads them fresh so edits show up.
+ */
+function checkedArticles(): Promise<Article[]> {
+  if (import.meta.env.DEV) return readCheckedArticles();
+  return (checkedOnce ??= readCheckedArticles());
+}
+
+async function readCheckedArticles(): Promise<Article[]> {
   const all = await getCollection("articles");
   for (const a of all) {
     if (!SLUG.test(a.id)) throw new Error(`article slug "${a.id}" must be lowercase kebab-case`);
@@ -29,10 +50,7 @@ export async function getPublishedArticles(now: Date = new Date()): Promise<Arti
       }
     }
   }
-  const showDrafts = import.meta.env.DEV || process.env.NEWS_INCLUDE_DRAFTS === "1";
-  return all
-    .filter((a) => (showDrafts || !a.data.draft) && a.data.publishedAt <= now)
-    .sort((a, b) => b.data.publishedAt.getTime() - a.data.publishedAt.getTime());
+  return all;
 }
 
 /** Last meaningful change — drives dateModified, og:updated_time and sitemap lastmod. */

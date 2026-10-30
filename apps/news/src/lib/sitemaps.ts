@@ -8,8 +8,11 @@ import { isoDateTime } from "./seo.ts";
 /** Google News: only articles published in the last two days, at most 1,000 URLs. */
 export const NEWS_WINDOW_MS = 48 * 60 * 60 * 1000;
 export const NEWS_MAX = 1000;
-/** Split a urlset well before the 50,000 limit so files stay small and fast to fetch. */
-export const URLSET_MAX = 5000;
+/**
+ * Split a urlset well before the 50,000 limit so files stay small and fast to fetch.
+ * NEWS_URLSET_MAX lowers it for a test build that exercises the split.
+ */
+export const URLSET_MAX = Number(process.env.NEWS_URLSET_MAX) || 5000;
 
 export function xmlEscape(s: string): string {
   return s
