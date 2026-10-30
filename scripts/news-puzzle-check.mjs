@@ -7,7 +7,8 @@
  * Checks per page: data file exists; weekday, date and puzzle number in title and slug; answers in
  * the spoiler section and spoiler FAQ (Wordle answer, Connections groups, Strands spangram and
  * theme words, every Pips placement, Spelling Bee letters, counts, points and word lists, today's
- * and yesterday's); named editors and constructors; published before the puzzle day ends.
+ * and yesterday's; Letter Boxed sides, par, the Times' solution and its route, warm-up words in the
+ * puzzle's dictionary); named editors and constructors; published before the puzzle day ends.
  * Usage: node scripts/news-puzzle-check.mjs [slug-substring]
  */
 import { readdirSync, readFileSync } from "node:fs";
@@ -42,7 +43,7 @@ function parse(file) {
     if (line.startsWith("## ")) { sections.push(cur); cur = { h: line.slice(3), lines: [] }; } else cur.lines.push(line);
   }
   sections.push(cur);
-  return { title: field("title"), publishedAt: field("publishedAt"), faq, body, sections };
+  return { title: field("title"), publishedAt: field("publishedAt"), fm, faq, body, sections };
 }
 
 const CHECK = {
@@ -136,6 +137,57 @@ const CHECK = {
     }
     const by = page.body.match(/clues? by ([A-Z][A-Za-z'-]+(?: [A-Z][A-Za-z'-]+)+)/)?.[1];
     if (by && !d.constructors.includes(by)) err(`constructor ${by}, data ${d.constructors.join(", ")}`);
+  },
+
+  letterboxed(page, d, p, err) {
+    const sideOf = new Map(d.sides.flatMap((s, i) => [...s].map((c) => [c, i + 1])));
+    const sides = d.sides.map((s) => [...s].join("/")).join(", ");
+    // Sides as the table ("| 1 | L, R, V |"), the lede and summary ("L/R/V, I/F/S, ...") and the FAQ ("L, R, V; I, F, S; ...") print them.
+    d.sides.forEach((s, i) => {
+      const row = page.body.match(new RegExp(`^\\| ${i + 1} \\| ([A-Z, ]+) \\|$`, "m"))?.[1];
+      if (!row) err(`no row for side ${i + 1} in the sides table`);
+      else if (letters(row) !== s) err(`side ${i + 1} is ${row}, data ${[...s].join(", ")}`);
+    });
+    const all = `${page.fm}\n${page.body}`;
+    for (const m of all.matchAll(/sides ((?:[A-Z]\/[A-Z]\/[A-Z](?:,? (?:and )?)?){4})/g)) {
+      if (m[1].replace(/,? (?:and )?/g, ", ").replace(/, $/, "") !== sides) err(`sides "${m[1].replace(/[, ]+$/, "")}", data ${sides}`);
+    }
+    const fq = page.faq.find((x) => /four sides are/.test(x.a))?.a.match(/sides are (.+)\.$/)?.[1];
+    if (fq && fq.split(/;\s*(?:and\s+)?/).map(letters).join("|") !== d.sides.join("|")) err(`FAQ sides "${fq}", data ${sides}`);
+    for (const m of all.matchAll(/\b[Pp]ar (?:of|is) (\d+)/g)) if (Number(m[1]) !== d.par) err(`par ${m[1]}, data ${d.par}`);
+    const dict = all.match(/lists ([\d,]+) dictionary words/)?.[1];
+    if (dict && Number(dict.replace(/,/g, "")) !== d.dictionary.length) err(`dictionary size ${dict}, data ${d.dictionary.length}`);
+    // The Times' solution, in order: "is Flamingos, then Striving." and "Spoiler: Flamingos, then Striving."
+    const words = (s) => s.split(/,? then |, /).map(letters);
+    const want = d.ourSolution.join(" then ");
+    const ans = page.body.match(/own solution for [^*]*? is ([A-Za-z, ]+?)\.\*\*/)?.[1];
+    if (!ans) err("no '**The Times' own solution for … is …**' line");
+    else if (words(ans).join(" then ") !== want) err(`solution ${ans}, data ${want}`);
+    const f = page.faq.find((x) => /^Spoiler: /.test(x.a));
+    if (f && words(f.a.replace(/^Spoiler: |\.$/g, "")).join(" then ") !== want) err(`FAQ answer "${f.a}", data ${want}`);
+    const NUM = { one: 1, two: 2, three: 3, four: 4, five: 5, six: 6 };
+    for (const m of all.matchAll(/own solution (?:uses|needs only) (\w+) words|^ {4}a: "(\w+) words?, /gim)) {
+      const n = NUM[(m[1] ?? m[2]).toLowerCase()] ?? Number(m[1] ?? m[2]);
+      if (n !== d.ourSolution.length) err(`says the Times' solution has ${m[1] ?? m[2]} words, data ${d.ourSolution.length}`);
+    }
+    const len = all.match(/first word has (\d+) letters and the second has (\d+)/);
+    if (len && (Number(len[1]) !== d.ourSolution[0].length || Number(len[2]) !== d.ourSolution[1]?.length)) err(`hint lengths ${len[1]} and ${len[2]}, data ${d.ourSolution.map((w) => w.length).join(" and ")}`);
+    // Route table "| Flamingos | F2, L1, A4, ... |": the word's own letters, each with its side.
+    for (const m of page.body.matchAll(/^\| ([A-Z][a-z]+) \| ((?:[A-Z]\d, )*[A-Z]\d) \|$/gm)) {
+      const w = m[1].toUpperCase();
+      if (!d.ourSolution.includes(w)) err(`route table word ${m[1]} is not in the Times' solution`);
+      const got = m[2].split(", ");
+      const exp = [...w].map((c) => `${c}${sideOf.get(c)}`);
+      if (got.join() !== exp.join()) err(`route for ${m[1]} is ${m[2]}, data gives ${exp.join(", ")}`);
+    }
+    // Warm-up words "| Farm | 4 |": accepted by the puzzle's dictionary, not part of the solution, length right.
+    for (const m of page.body.matchAll(/^\| ([A-Z][a-z]+) \| (\d+) \|$/gm)) {
+      const w = m[1].toUpperCase();
+      if (!d.dictionary.includes(w)) err(`warm-up word ${m[1]} is not in the puzzle's dictionary`);
+      if (d.ourSolution.includes(w)) err(`warm-up word ${m[1]} is part of the Times' solution`);
+      if (w.length !== Number(m[2])) err(`warm-up word ${m[1]} listed as ${m[2]} letters`);
+    }
+    for (const m of all.matchAll(/edited by ([A-Z][a-z]+ [A-Z][a-z]+)|([A-Z][a-z]+ [A-Z][a-z]+) edits it/g)) if ((m[1] ?? m[2]) !== d.editor) err(`editor ${m[1] ?? m[2]}, data ${d.editor}`);
   },
 
   bee(page, d, p, err) {

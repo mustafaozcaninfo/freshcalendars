@@ -7,13 +7,18 @@
  * - A shortcut bar under the first paragraph: skip to the answer, yesterday's page, the game's hub.
  * - Hints in "hints"/"clues" sections become tap-to-reveal <details>, so a glance does not spoil.
  * - The solved board inside the spoiler section: Wordle tiles, Connections groups, the Strands
- *   board with its word paths, each Pips board with dominoes, and the Spelling Bee honeycomb in
- *   the hint grid section (letters only, no answers).
+ *   board with its word paths, each Pips board with dominoes, the Letter Boxed square with the
+ *   Times' route (plus the other two-word solutions in its word list), and the Spelling Bee
+ *   honeycomb in the hint grid section (letters only, no answers).
+ * - Reader tools that start hidden and are switched on by the story page's script, so the page
+ *   reads the same without JavaScript: a found-words tracker under the Spelling Bee honeycomb and
+ *   a "has this word been the answer before?" checker above the Wordle spoiler.
+ * - Yesterday's answer at the end, for readers who missed it (Spelling Bee pages already have it).
  * No <div> inside the story body: the audit reads prose up to the first </div>.
  */
-import { readdirSync, readFileSync } from "node:fs";
+import { existsSync, readdirSync, readFileSync } from "node:fs";
 import path from "node:path";
-import { GAMES, addDays, loadPuzzle, pipsValues, puzzleOf, slugDate } from "./puzzles.mjs";
+import { GAMES, PUZZLE_DIR, addDays, beeScore, loadPuzzle, pipsValues, puzzleOf, slugDate, weekday } from "./puzzles.mjs";
 
 const ARTICLES = path.resolve(import.meta.dirname, "../content/articles");
 const SPOILER = /\bspoilers?\b/i;
@@ -22,6 +27,7 @@ const NOT_HINTS = /\b(how|works|read|tips|grid)\b/i;
 const ANSWER_ID = "pz-answer";
 
 let stories;
+const files = new Map(); // slug -> markdown path
 /**
  * Every story's slug and publishedAt, read once per build: yesterday's page is linked only when
  * it exists, and a game's hub only once it has MIN_TOPIC_STORIES (4) live pages (topics.ts).
@@ -30,7 +36,7 @@ const allStories = () => {
   if (!stories) {
     const walk = (d) => readdirSync(d, { withFileTypes: true }).flatMap((e) => (e.isDirectory() ? walk(path.join(d, e.name)) : [path.join(d, e.name)]));
     stories = new Map(walk(ARTICLES).filter((f) => /\.mdx?$/.test(f)).map((f) => [
-      path.basename(f).replace(/\.mdx?$/, ""),
+      (files.set(path.basename(f).replace(/\.mdx?$/, ""), f), path.basename(f).replace(/\.mdx?$/, "")),
       Date.parse(readFileSync(f, "utf8").match(/^publishedAt: "([^"]+)"/m)?.[1] ?? "") || Infinity,
     ]));
   }
@@ -62,7 +68,7 @@ export function rehypePuzzleBoards() {
       const after = (pred) => spoiler.range.find((i) => pred(kids[i]));
       if (p.game === "wordle") {
         const i = after((n) => n.tagName === "p" && /The answer to Wordle/.test(text(n)));
-        if (i !== undefined) inserts.push([i + 1, wordleBoard(data)]);
+        if (i !== undefined) inserts.push([i + 1, wordleBoard(data) + wordleRepeat(data, p.date)]);
       } else if (p.game === "connections") {
         const i = after((n) => n.tagName === "ul");
         if (i !== undefined) inserts.push([i + 1, connectionsBoard(kids[i])]);
@@ -72,6 +78,9 @@ export function rehypePuzzleBoards() {
       } else if (p.game === "mini") {
         const i = after((n) => n.tagName === "table");
         if (i !== undefined) inserts.push([i + 1, miniBoard(data)]);
+      } else if (p.game === "letterboxed") {
+        const i = after((n) => n.tagName === "table" || (n.tagName === "div" && /table-scroll/.test(String(n.properties?.className))));
+        if (i !== undefined) inserts.push([i + 1, letterBoxedBoard(data) + letterBoxedOthers(data)]);
       } else if (p.game === "pips") {
         for (const lvl of ["easy", "medium", "hard"]) {
           const name = lvl[0].toUpperCase() + lvl.slice(1);
@@ -84,7 +93,12 @@ export function rehypePuzzleBoards() {
     if (p.game === "bee") {
       const grid = sections.find((s) => s.h2 && /hint grid/i.test(text(s.h2)));
       const i = grid?.range.find((j) => kids[j].tagName === "p");
-      if (i !== undefined) inserts.push([i + 1, beeBoard(data)]);
+      if (i !== undefined) inserts.push([i + 1, beeBoard(data) + beeTracker(data, p.date)]);
+    }
+    if (p.game === "wordle" && spoiler) {
+      const h = kids.indexOf(spoiler.h2);
+      const tool = wordleChecker();
+      if (tool) inserts.push([h, tool]);
     }
 
     // Shortcut bar under the opening paragraph.
@@ -92,6 +106,8 @@ export function rehypePuzzleBoards() {
     if (first >= 0) inserts.push([first + 1, shortcuts(p, spoiler ? `#${spoiler.h2.properties.id}` : null)]);
 
     inserts.sort((a, b) => b[0] - a[0]).forEach(([i, html]) => kids.splice(i, 0, { type: "raw", value: html }));
+    const y = yesterday(p);
+    if (y) kids.push({ type: "raw", value: y });
   };
 }
 
@@ -288,4 +304,175 @@ function beeBoard(d) {
   const label = `Spelling Bee letters: center ${d.center_letter.toUpperCase()}, outer ${outer.join(", ")}`;
   const svg = `<svg class="pz-svg pz-hive" viewBox="0 0 300 300" role="img" aria-label="${esc(label)}"><g font-family="Sora,sans-serif" font-weight="800" font-size="30" fill="#1a1a1a">${body}</g></svg>`;
   return figure("pz-bee", svg, "Today's seven letters, from the official puzzle data published by The New York Times; every word must use the yellow center letter.");
+}
+
+const MON_AP = ["Jan.", "Feb.", "March", "April", "May", "June", "July", "Aug.", "Sept.", "Oct.", "Nov.", "Dec."];
+/** "Thursday, Oct. 29, 2026" for a YYYY-MM-DD date. */
+const apDate = (date) => {
+  const [y, m, d] = date.split("-").map(Number);
+  return `${weekday(date)}, ${MON_AP[m - 1]} ${d}, ${y}`;
+};
+const SMALL = new Set(["a", "an", "and", "as", "at", "by", "for", "from", "in", "of", "on", "or", "the", "to", "with"]);
+/** NYT data spells answers in capitals; pages print them in title case (runs of capitals fail the audit). */
+const title = (s) => s.toLowerCase().replace(/[a-z][a-z']*/g, (w, i) => (i > 0 && SMALL.has(w) ? w : w[0].toUpperCase() + w.slice(1)));
+const todayET = () => new Intl.DateTimeFormat("en-CA", { timeZone: "America/New_York" }).format(new Date());
+
+/**
+ * Yesterday's answer from its saved data, with a link to yesterday's page when that page is live.
+ * Comes after today's spoiler section, so it never sits above today's hints.
+ */
+function yesterday(p) {
+  const date = addDays(p.date, -1);
+  const d = loadPuzzle(p.game, date);
+  if (!d || p.game === "bee" || p.game === "pips") return "";
+  const g = GAMES[p.game];
+  const prefix = `${g.prefix}-${slugDate(date)}`;
+  const now = Date.now();
+  const ySlug = [...allStories()].find(([s, at]) => (s === prefix || s.startsWith(`${prefix}-`)) && at <= now)?.[0];
+  const more = ySlug ? ` <a href="/news/${ySlug}/">Yesterday's hints and full solution</a>.` : "";
+  let body = "";
+  if (p.game === "wordle") body = `<p>Wordle #${d.days_since_launch} on ${apDate(date)} was <strong>${title(d.solution)}</strong>.${more}</p>`;
+  else if (p.game === "connections") {
+    const COLORS = ["Yellow", "Green", "Blue", "Purple"];
+    body = `<p>The four groups in Connections on ${apDate(date)}, easiest to hardest:</p><ul>${d.categories.map((c, i) => `<li><strong>${COLORS[i]}, ${esc(title(c.title))}:</strong> ${c.cards.map((x) => esc(title(x.content))).join(", ")}</li>`).join("")}</ul>${more ? `<p>${more.trim()}</p>` : ""}`;
+  } else if (p.game === "strands") {
+    body = `<p>Strands on ${apDate(date)} had the theme clue "${esc(d.clue)}". The spangram was <strong>${esc(title(d.spangram))}</strong>, and the theme words were ${d.themeWords.map(title).join(", ")}.${more}</p>`;
+  } else if (p.game === "letterboxed") {
+    body = `<p>The Times' own solution to Letter Boxed on ${apDate(date)} was <strong>${d.ourSolution.map(title).join(", then ")}</strong>, with sides ${d.sides.map((x) => [...x].join("/")).join(", ")}.${more}</p>`;
+  } else if (p.game === "mini") {
+    // Spelled as yesterday's checked answer table prints them ("DSA" stays in capitals), else title case.
+    const page = ySlug ? readFileSync(files.get(ySlug), "utf8") : "";
+    const ans = (cl) => {
+      const w = cl.cells.map((i) => d.cells[i]).join("");
+      const row = page.match(new RegExp(`^\\| ${cl.label}-${cl.direction} \\| (.+?) \\|$`, "m"))?.[1];
+      if (!row || row.toUpperCase().replace(/[^A-Z]/g, "") !== w) return title(w);
+      if (row !== row.toUpperCase()) return row;
+      // An abbreviation answer: reuse the expansion yesterday's page gives it ("Full Name (DSA)"),
+      // since every abbreviation is spelled out on first use (audit 08-ABBREV).
+      const m = page.match(new RegExp(`((?:(?:[A-Z][\\w'-]*|of|the|and|for|in|on|to|a) )+)\\(${row}\\)`));
+      const full = m?.[1].trim().replace(/^(?:(?:of|the|and|for|in|on|to|a) )+/, "");
+      return full ? `${full} (${row})` : title(w);
+    };
+    const dir = (k) => d.clues.filter((c) => c.direction === k).map((c) => `${c.label} ${esc(ans(c))}`).join(", ");
+    body = `<p>The Mini on ${apDate(date)}: Across ${dir("Across")}; Down ${dir("Down")}.${more}</p>`;
+  }
+  if (!body) return "";
+  return `<h2 id="pz-yesterday">Yesterday's ${esc(g.name)} answer</h2>${body}`;
+}
+
+/** Each word's letters must be in the box, and no two letters in a row may share a side. */
+function letterBoxedOk(word, sideOf) {
+  for (let i = 0; i < word.length; i++) {
+    const s = sideOf.get(word[i]);
+    if (s === undefined || (i > 0 && s === sideOf.get(word[i - 1]))) return false;
+  }
+  return true;
+}
+
+/** The box with its twelve letters and the Times' solution drawn as a path, one color per word. */
+function letterBoxedBoard(d) {
+  const W = 320, O = 50, E = O + W; // square from (O, O) to (E, E)
+  const pos = new Map();
+  d.sides.forEach((side, k) => [...side].forEach((ch, j) => {
+    const t = O + (W * (j + 1)) / 4;
+    pos.set(ch, [[t, O], [E, t], [E - (t - O), E], [O, E - (t - O)]][k]);
+  }));
+  const OUT = 28; // letters sit outside the square, dots on its edge
+  const label = (ch) => {
+    const [x, y] = pos.get(ch);
+    const dx = x === O ? -OUT : x === E ? OUT : 0, dy = y === O ? -OUT : y === E ? OUT : 0;
+    return `<circle cx="${x}" cy="${y}" r="9" fill="#fff" stroke="#1a1a1a" stroke-width="3"/><text x="${x + dx}" y="${y + dy + 9}" text-anchor="middle">${ch}</text>`;
+  };
+  const COLORS = ["#d9534f", "#2f6db5", "#3f7a3a", "#8a4fb0", "#b8860b"];
+  const paths = d.ourSolution.map((w, i) => `<polyline points="${[...w].map((c) => pos.get(c).join(",")).join(" ")}" fill="none" stroke="${COLORS[i % COLORS.length]}" stroke-width="5" stroke-linejoin="round" stroke-linecap="round" opacity=".85"/>`).join("");
+  const sol = d.ourSolution.map(title).join(", then ");
+  const svg = `<svg class="pz-svg pz-lbox" viewBox="0 0 ${E + O} ${E + O}" role="img" aria-label="${esc(`Letter Boxed square with the Times' solution traced: ${sol}`)}"><rect x="${O}" y="${O}" width="${W}" height="${W}" fill="#fbe9e4" stroke="#1a1a1a" stroke-width="3"/>${paths}<g font-family="Sora,sans-serif" font-weight="800" font-size="26" fill="#1a1a1a">${[...pos.keys()].map(label).join("")}</g></svg>`;
+  const key = d.ourSolution.map((w, i) => `${["red", "blue", "green", "purple", "gold"][i % 5]} for ${title(w)}`).join(", ");
+  return figure("pz-letterboxed", svg, `The Times' solution traced through the box: ${key}. ${FROM_DATA}`);
+}
+
+/**
+ * Every other pair of words from the puzzle's own word list that solves the box in two: the second
+ * starts with the last letter of the first, both keep the side rule, and together they use all
+ * twelve letters. Shortest pairs first.
+ */
+function letterBoxedOthers(d) {
+  const sideOf = new Map(d.sides.flatMap((s, i) => [...s].map((c) => [c, i])));
+  const letters = [...sideOf.keys()];
+  const words = d.dictionary.filter((w) => letterBoxedOk(w, sideOf));
+  const byFirst = new Map();
+  for (const w of words) byFirst.set(w[0], [...(byFirst.get(w[0]) ?? []), w]);
+  const ours = d.ourSolution.join(" ");
+  const pairs = [];
+  for (const a of words) for (const b of byFirst.get(a.at(-1)) ?? []) {
+    const used = new Set(a + b);
+    if (letters.every((c) => used.has(c)) && `${a} ${b}` !== ours) pairs.push([a, b]);
+  }
+  if (!pairs.length) return `<p>No other pair of words in the puzzle's own word list solves this box in two.</p>`;
+  pairs.sort((x, y) => x[0].length + x[1].length - (y[0].length + y[1].length) || (x[0] + x[1]).localeCompare(y[0] + y[1]));
+  const shown = pairs.slice(0, 10);
+  const n = pairs.length;
+  const intro = n === 1 ? "One other pair of words from the puzzle's own word list also solves the box in two:" : `${n.toLocaleString("en-US")} other pairs of words from the puzzle's own word list also solve the box in two.${n > shown.length ? ` The ${shown.length} shortest:` : ""}`;
+  return `<p>${intro}</p><ul class="pz-lbox-others">${shown.map(([a, b]) => `<li>${title(a)}, then ${title(b)}</li>`).join("")}</ul>`;
+}
+
+/**
+ * Found-words tracker for the Spelling Bee. The word list rides in a data attribute (the same words
+ * are printed in the spoiler section further down); the story page's script checks each word the
+ * reader types, keeps the score and saves progress on the reader's device for this date only.
+ */
+function beeTracker(d, date) {
+  const words = [...new Set([...d.answers, ...d.pangrams])].map((w) => w.toUpperCase()).sort();
+  const sc = beeScore(d);
+  return `<form class="tool-box pz-track" data-bee-tracker data-date="${date}" data-words="${words.join(" ")}" data-pangrams="${d.pangrams.map((w) => w.toUpperCase()).join(" ")}" data-genius="${sc.genius}" data-total="${sc.total}" hidden novalidate>`
+    + `<p class="tool-title">Track the words you have found</p>`
+    + `<label for="pz-bee-in">Type a word you found in today's puzzle</label>`
+    + `<span class="pz-track-row"><input id="pz-bee-in" autocomplete="off" autocapitalize="characters" spellcheck="false" maxlength="20"><button type="submit">Add</button></span>`
+    + `<span class="tool-out" aria-live="polite"></span>`
+    + `<span class="pz-track-tools"><button type="button" data-bee-reset>Clear my list</button></span>`
+    + `</form>`;
+}
+
+let wordleHist;
+/**
+ * Every Wordle answer before today (America/New_York), from the saved history plus the daily data
+ * files, so the checker never shows an answer whose day has not come.
+ */
+function wordleHistory() {
+  if (wordleHist !== undefined) return wordleHist;
+  const f = `${PUZZLE_DIR}/wordle-history.json`;
+  if (!existsSync(f)) return (wordleHist = null);
+  const h = JSON.parse(readFileSync(f, "utf8"));
+  const answers = [...h.answers];
+  const today = todayET();
+  for (let d = addDays(h.first, answers.length); d < today; d = addDays(d, 1)) {
+    const w = loadPuzzle("wordle", d);
+    if (!w) break;
+    answers.push(w.solution.toUpperCase());
+  }
+  while (answers.length && addDays(h.first, answers.length - 1) >= today) answers.pop();
+  return (wordleHist = { first: h.first, answers });
+}
+
+/** In the spoiler: earlier days with the same answer (Wordle has reused past answers since 2026). */
+function wordleRepeat(d, date) {
+  const h = wordleHistory();
+  if (!h) return "";
+  const w = d.solution.toUpperCase();
+  const before = h.answers.flatMap((a, i) => (a === w && addDays(h.first, i) < date ? [i] : []));
+  if (!before.length) return "";
+  return `<p>${title(w)} has been the answer before: ${before.map((i) => `Wordle #${i} on ${apDate(addDays(h.first, i))}`).join(", ")}.</p>`;
+}
+
+/** "Has this word been the Wordle answer before?" Placed above the spoiler, so it can never show today's answer. */
+function wordleChecker() {
+  const h = wordleHistory();
+  if (!h?.answers.length) return "";
+  const last = addDays(h.first, h.answers.length - 1);
+  return `<form class="tool-box pz-track" data-wordle-check data-first="${h.first}" data-answers="${h.answers.join(" ")}" hidden novalidate>`
+    + `<p class="tool-title">Has a word been the Wordle answer before?</p>`
+    + `<label for="pz-wc-in">Type a five-letter word to check it against ${h.answers.length.toLocaleString("en-US")} past answers, #0 to #${h.answers.length - 1} (${MON_AP[Number(last.slice(5, 7)) - 1]} ${Number(last.slice(8))}, ${last.slice(0, 4)})</label>`
+    + `<span class="pz-track-row"><input id="pz-wc-in" autocomplete="off" autocapitalize="characters" spellcheck="false" maxlength="5"><button type="submit">Check</button></span>`
+    + `<span class="tool-out" aria-live="polite"></span>`
+    + `</form>`;
 }

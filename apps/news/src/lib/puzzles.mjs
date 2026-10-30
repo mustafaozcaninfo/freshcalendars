@@ -26,6 +26,8 @@ export const GAMES = {
   // Mini data is saved when its page is written (NYT serves past days and today, not days ahead);
   // pages dated before `since` were written before saving started and have no data to check against.
   mini: { prefix: "nyt-mini-crossword-answers", name: "Mini Crossword", hub: "nyt-mini-crossword", since: "2026-10-27" },
+  // NYT publishes Letter Boxed data only about two days ahead, so its schedule cannot run further out.
+  letterboxed: { prefix: "nyt-letter-boxed-answer-hints", name: "Letter Boxed", hub: "nyt-letter-boxed" },
 };
 
 /** { game, date: "YYYY-MM-DD", number } for a daily puzzle slug, or null for any other story. */

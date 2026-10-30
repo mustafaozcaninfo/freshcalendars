@@ -27,8 +27,17 @@ The build adds the shortcut bar, the tap-to-reveal hints and the boards (`apps/n
 | Pips | each board (Easy, Medium, Hard) with colored regions, condition badges and every domino with its pips | under each level's placements |
 | Spelling Bee | the honeycomb of the day's letters (no answers) | in the hint grid section |
 | Mini Crossword | the filled grid with clue numbers | under the answer table |
+| Letter Boxed | the box with the Times' solution traced, then every other two-word solution in the puzzle's word list (count and the 10 shortest) | under the route table |
 
-What we add that most results lack: the drawn solved boards, Pips placements checked cell by cell, trap explanations for Connections, the Spelling Bee hint grid with points and Genius, and yesterday's solution on the same page. Keep adding: a fact others missed (a repeated Wordle answer, a double letter, a rare pangram) belongs in the summary.
+The build also adds, from the saved data:
+
+- **Yesterday's answer** as the last section (`Yesterday's <Game> answer`) for Wordle, Connections, Strands, Letter Boxed and the Mini, with a link to yesterday's page once it is live. Do not write that section by hand. Spelling Bee pages keep their own yesterday section; Pips links yesterday's page in the shortcut bar.
+- **Spelling Bee found-words tracker** under the honeycomb: the reader types the words they found, sees words, points, the Genius gap and what is left by first two letters; saved on their device for that date.
+- **Wordle used-word checker** above the spoiler: every past answer from `apps/news/src/content/puzzles/wordle-history.json` plus the daily data files, never the day of the build or later. `node scripts/news-puzzle-data.mjs --wordle-history` tops the history up (optional; the daily files fill the gap).
+
+Both tools start hidden and are switched on by the story page's script (`apps/news/src/pages/[slug]/index.astro`), so the page reads the same without JavaScript.
+
+What we add that most results lack: the drawn solved boards, Pips placements checked cell by cell, trap explanations for Connections, the Spelling Bee hint grid with points and Genius and its found-words tracker, the Wordle used-word checker, every two-word Letter Boxed solution, and yesterday's solution on the same page. Connections: Sports Edition readers often do not know the names: after its answers, add one line per group saying who or what each entry is ("quarterbacks who won a Super Bowl with the Rams"), using only facts confirmed on a league, team or other authoritative page. No competitor does this. Keep adding: a fact others missed (a repeated Wordle answer, a double letter, a rare pangram) belongs in the summary.
 
 Two scheduled routines run this workflow every day (`docs/PUZZLE-ROUTINES.md`): official-data games at 10:23 p.m. ET, published-solution games at 7:17 a.m. ET. A hand-run session should check open pull requests first so it does not write the same dates.
 
@@ -49,6 +58,7 @@ Two scheduled routines run this workflow every day (`docs/PUZZLE-ROUTINES.md`): 
    - Every hint must be true for the data: count letters, check which word repeats a letter, check traps against the actual groups. Read each hint against the answer before moving on.
    - Answers only in the spoiler section and the spoiler FAQ, never in the title, description, summary or hero.
    - The Mini: NYT serves the Mini for any past day and today (the next day's from about 10 p.m. ET), never days ahead, so save it with `pnpm news:puzzle-data <date> --games mini` once it is out; a missed day can be filled in later. Hint lines keep the shape `- **1-Across** (5 letters), *clue as printed*: hint.`; the check compares the quoted clue and the letter count with the data.
+   - Letter Boxed: NYT publishes its data about two days ahead (`--games letterboxed`). The check compares the sides table, par, the dictionary size, the Times' solution, its route table (`| Word | F2, L1, … |`) and the warm-up words (each must be in the saved `dictionary` and not in the solution) with the data.
    - Quote official wording exactly (group names, entries, clues). The writing audit skips that quoted text when it is capitalized as printed, but checks every word we write around it.
 
 4. **Hero**: add one row per page to `PUZZLE_HEROES` in `packages/generator/src/heroes5.ts` (vary the accent so no two match) and run `pnpm fc news-heroes5 --only <date-part>`. Look at one or two.
@@ -66,7 +76,7 @@ Two scheduled routines run this workflow every day (`docs/PUZZLE-ROUTINES.md`): 
 
 ## Checking existing dates ("are the Oct. 28 pages ready?")
 
-Run `pnpm news:puzzle-check <date-part>` (for example `october-28`). It lists any page that disagrees with the saved data. A page without saved data fails with the exact `news:puzzle-data` command to run. Games with no official data we can save (Quordle, Blossom, Contexto, LinkedIn games, Connections: Sports Edition) are not in the check; follow `docs/PUZZLES.md` for their sources (two published solutions that agree, or today's data for the Mini).
+Run `pnpm news:puzzle-check <date-part>` (for example `october-28`). It lists any page that disagrees with the saved data. A page without saved data fails with the exact `news:puzzle-data` command to run. Games with no official data we can save (Quordle, Blossom, LinkedIn games, Connections: Sports Edition) are not in the check, nor yet Contexto and Waffle; follow `docs/PUZZLES.md` for their sources (two published solutions that agree, or today's data for the Mini).
 
 ## Adding a game to the check and the boards
 
