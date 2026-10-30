@@ -4,7 +4,7 @@ seoTitle: "Early Voting 2026: Which States Are Voting Now?"
 description: "Early in-person voting is open now in most states ahead of Election Day, Tuesday, Nov. 3; dates and hours by state. Louisiana and Pennsylvania have ended."
 type: news
 publishedAt: "2026-10-22T01:36:00-04:00"
-updatedAt: "2026-10-28T16:12:00-04:00"
+updatedAt: "2026-10-30T02:10:00-04:00"
 authors: [alex-morgan]
 category: elections
 keywords: ["early voting 2026", "which states have early voting", "early voting dates by state", "early voting now"]
@@ -117,7 +117,7 @@ downloads:
 draft: false
 ---
 
-<p class="callout"><b>Last updated Wed. Oct. 28, 2026, 4:12 p.m. ET.</b> Early in-person voting is open now in most states. Louisiana and Pennsylvania ended Tuesday, Oct. 27, according to the Center for Election Innovation & Research (CEIR). Among the states covered here, Maryland and Tennessee end Thursday, Oct. 29; Texas, Georgia and Massachusetts end Friday, Oct. 30; North Carolina ends 3 p.m. Saturday, Oct. 31; and Connecticut, Michigan, New York and Delaware run through Sunday, Nov. 1. Election Day is Tuesday, Nov. 3.</p>
+<p class="callout"><b>Last updated Fri. Oct. 30, 2026, 2:10 a.m. ET.</b> Today, Friday, Oct. 30, is the last day of early in-person voting in Texas, Georgia and Massachusetts. North Carolina ends at 3 p.m. Saturday, Oct. 31; Connecticut, Michigan, New York and Delaware run through Sunday, Nov. 1. Maryland and Tennessee ended Thursday, Oct. 29, and Louisiana and Pennsylvania ended Tuesday, Oct. 27, according to the Center for Election Innovation & Research (CEIR). Election Day is Tuesday, Nov. 3.</p>
 
 **Early in-person voting is open now in most states ahead of Election Day on Tuesday, Nov. 3, 2026.** Connecticut, Texas, Georgia, North Carolina, Massachusetts, Tennessee, New Mexico, Maryland, Delaware, Michigan and New York are all voting now. This is a guide to selected states with confirmed dates, not a complete list. The Center for Election Innovation & Research (CEIR) says 47 states plus the District of Columbia offer early in-person voting in 2026, with end dates ranging from Oct. 27 in Louisiana and Pennsylvania to the day before Election Day in 14 states.
 
