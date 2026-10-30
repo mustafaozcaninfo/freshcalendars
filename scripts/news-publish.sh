@@ -53,7 +53,8 @@ install_nginx_map "$ROOT/apps/news/redirects.map" /etc/nginx/freshcalendars/news
 
 mkdir -p "$TARGET" "$TARGET/_astro"
 # Itemized dry run → list of changed/deleted paths (files only). Astro names every _astro file
-# by a hash of its content, so those are compared by name (new or gone), never checksummed:
+# by a hash of its content, so those are compared by name (new only; old ones are pruned after
+# 90 days below), never checksummed:
 # _astro holds about 80% of the bytes and checksumming it on each pass was the slow part.
 # Each line is "N<TAB>path" for a file the target did not have yet, "-<TAB>path" otherwise.
 CHANGES=()
@@ -63,7 +64,7 @@ while IFS= read -r line; do
   if [[ "${line%%$'\t'*}" == N ]]; then NEW_FILES+="${line#*$'\t'}"$'\n'; fi
 done < <({
   rsync -rcn --delete --exclude '/_astro/' --itemize-changes --out-format='%i %n' "$DIST/" "$TARGET"
-  rsync -rn --delete --ignore-existing --itemize-changes --out-format='%i %n' "$DIST/_astro/" "$TARGET/_astro/" | sed -E 's#^([^ ]+ +)#\1_astro/#'
+  rsync -rn --ignore-existing --itemize-changes --out-format='%i %n' "$DIST/_astro/" "$TARGET/_astro/" | sed -E 's#^([^ ]+ +)#\1_astro/#'
 } | awk '$1 ~ /^[<>ch*]f|^\*deleting/ { n = ($1 ~ /^[<>c]f\+\+\+/) ? "N" : "-"; sub(/^[^ ]+ +/, ""); print n "\t" $0 }' | grep -v '/$' || true)
 
 submit_for_index() {
@@ -121,7 +122,12 @@ fi
 # Assets first so new HTML never points at a file that is not there yet; delete last.
 rsync -r --ignore-existing "$DIST/_astro/" "$TARGET/_astro/"
 rsync -rc --delete --exclude '/_astro/' "$DIST/" "$TARGET"
-rsync -r --delete --ignore-existing "$DIST/_astro/" "$TARGET/_astro/"
+# Hashed files that left the build (a redrawn hero, a renamed image) stay 90 days, so Google
+# Images and pages cached elsewhere keep resolving until the new URLs are crawled instead of
+# piling up 404s. Files still in the build are touched on every publish, so mtime means "last
+# seen in a build" and only files gone for 90 days are pruned.
+(cd "$DIST/_astro" && find . -type f -print0) | (cd "$TARGET/_astro" && xargs -0 -r touch -c)
+find "$TARGET/_astro" -type f -mtime +90 -delete
 find "$TARGET" -type d -exec chmod 755 {} + && find "$TARGET" -type f -exec chmod 644 {} +
 if [[ "$(id -u)" == "0" ]]; then chown -R "$OWNER" "$TARGET"; fi
 [[ "${NEWS_PURGE:-1}" == "1" ]] && refresh_origin_cache

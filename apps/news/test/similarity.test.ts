@@ -3,7 +3,7 @@ import { it } from "node:test";
 import { buildIndex, centralId, related, similarity, tokens } from "../src/lib/similarity.ts";
 import { MIN_TOPIC_STORIES, TOPICS, inTopic, matchTier, startId, topicMembers } from "../src/lib/topics.ts";
 import { googleCalendarUrl, icsCalendar } from "../src/lib/ics.ts";
-import { upcomingFor } from "../src/lib/keydates.ts";
+import { calendarDatesFor, upcomingFor } from "../src/lib/keydates.ts";
 
 const doc = (id: string, title: string, keywords: string[], category = "planning", links: string[] = [], day = 1) => ({
   id, title, description: title, keywords, category, links, publishedAt: new Date(Date.UTC(2026, 9, day)),
@@ -107,4 +107,12 @@ it("upcomingFor keeps a story's own future dates, soonest first", () => {
   const got = upcomingFor(new Set(["usps-holiday-shipping-deadlines-2026"]), new Date("2026-12-10T12:00:00Z"));
   assert.deepEqual(got.map((k) => k.date), ["2026-12-17"]);
   assert.equal(got[0]!.days, 7);
+});
+
+it("calendarDatesFor falls back to every past date once none is upcoming", () => {
+  const slug = "usps-holiday-shipping-deadlines-2026";
+  const later = calendarDatesFor(new Set([slug]), new Date("2027-06-01T12:00:00Z"));
+  assert.ok(later.length > 0);
+  assert.deepEqual(later.map((k) => k.date), [...later.map((k) => k.date)].sort());
+  assert.equal(calendarDatesFor(new Set(["no-such-story"]), new Date("2027-06-01T12:00:00Z")).length, 0);
 });
