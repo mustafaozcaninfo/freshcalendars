@@ -846,7 +846,11 @@ export const NAV_JS = `
  */
 export const NEWS_LAUNCHED = true;
 
-export const NEWS_SITEMAPS = ["/news/sitemap.xml", "/news/news-sitemap.xml"] as const;
+/**
+ * Listed in robots.txt. post-sitemap.xml is also named on its own: Bing re-reads the index often
+ * but rarely fetches its children, so stories that left the 48-hour news sitemap looked missing.
+ */
+export const NEWS_SITEMAPS = ["/news/sitemap.xml", "/news/post-sitemap.xml", "/news/news-sitemap.xml"] as const;
 
 export type ChromeOpts = {
   /** Show the News nav/footer links. Off for the calendar site until /news/ launches. */
