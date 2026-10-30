@@ -32,6 +32,8 @@ pnpm news:puzzle-check       # daily puzzle pages vs the saved official NYT data
 pnpm news:puzzle-data <date> # save official puzzle data before writing a puzzle page
 pnpm news:serve              # preview on http://localhost:4324/news/ (pass a port to change it)
 pnpm smoke:contrast          # WCAG AA text contrast on every built page (after fc gen-meta + news:build; CI runs it)
+pnpm news:dashboard          # local read-only editorial report in dist/editorial/ (freshness, duplicates, sources, SEO, CI); never publish it
+pnpm news:verify-live [slug] # after auto-publish: the story is live with the right canonical, H1, dates and sitemap row (--wait 600 polls)
 ```
 
 Do not run Lighthouse (`news:lighthouse`, `smoke:lighthouse`). The goal is fast, correct publishing.

@@ -30,14 +30,17 @@
     "news:abbrev": "node scripts/news-abbrev-check.mjs",
     "news:puzzle-check": "node scripts/news-puzzle-check.mjs",
     "news:puzzle-data": "node scripts/news-puzzle-data.mjs",
-    "news:index": "node scripts/index-submit.mjs"
+    "news:index": "node scripts/index-submit.mjs",
+    "news:dashboard": "tsx scripts/news-dashboard.mjs",
+    "news:verify-live": "node scripts/news-verify-live.mjs"
   },
   "devDependencies": {
     "@types/node": "^22.13.10",
     "pdf-lib": "1.17.1",
     "pdfjs-dist": "4.10.38",
     "tsx": "^4.19.3",
-    "typescript": "^5.8.2"
+    "typescript": "^5.8.2",
+    "yaml": "2.8.1"
   },
   "pnpm": {
     "onlyBuiltDependencies": [

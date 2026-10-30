@@ -1,0 +1,264 @@
+<!doctype html>
+<!-- Template for scripts/news-dashboard.mjs: the script swaps the DATA placeholder for the report. Local only, never deployed. -->
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="robots" content="noindex, nofollow">
+<title>Editorial Dashboard</title>
+<style>
+  :root { --bg:#f7f7f5; --card:#fff; --ink:#1d1d1f; --muted:#5f6368; --line:#e3e3e0; --accent:#1a6dd6;
+    --ok:#1e7d3a; --warn:#9a5b00; --bad:#b3261e; --chip:#eef1f5; color-scheme: light; }
+  @media (prefers-color-scheme: dark) { :root { --bg:#141517; --card:#1d1f22; --ink:#ececec; --muted:#a2a6ab; --line:#2f3236;
+    --accent:#6aa8ff; --ok:#5fc27a; --warn:#e2a53b; --bad:#ff8a80; --chip:#2a2d31; color-scheme: dark; } }
+  * { box-sizing: border-box; }
+  body { margin:0; background:var(--bg); color:var(--ink); font:14px/1.45 system-ui, -apple-system, "Segoe UI", sans-serif; }
+  header { padding:20px 16px 0; max-width:1400px; margin:auto; }
+  h1 { font-size:22px; margin:0 0 4px; } .sub { color:var(--muted); font-size:13px; }
+  nav { display:flex; gap:4px; flex-wrap:wrap; margin:16px 0 0; border-bottom:1px solid var(--line); }
+  nav button { border:0; background:none; color:var(--muted); padding:8px 12px; font:inherit; cursor:pointer; border-bottom:2px solid transparent; }
+  nav button[aria-selected=true] { color:var(--ink); border-color:var(--accent); font-weight:600; }
+  main { max-width:1400px; margin:auto; padding:16px; } section[hidden] { display:none; }
+  .grid { display:grid; grid-template-columns:repeat(auto-fill, minmax(150px, 1fr)); gap:10px; }
+  .card { background:var(--card); border:1px solid var(--line); border-radius:8px; padding:12px; }
+  .stat b { display:block; font-size:24px; } .stat span { color:var(--muted); font-size:12px; }
+  .stat.bad b { color:var(--bad); } .stat.warn b { color:var(--warn); }
+  h2 { font-size:16px; margin:20px 0 8px; }
+  table { width:100%; border-collapse:collapse; background:var(--card); border:1px solid var(--line); border-radius:8px; overflow:hidden; }
+  th, td { text-align:left; padding:6px 8px; border-bottom:1px solid var(--line); vertical-align:top; }
+  th { font-size:12px; color:var(--muted); font-weight:600; cursor:pointer; user-select:none; white-space:nowrap; position:sticky; top:0; background:var(--card); }
+  tr:last-child td { border-bottom:0; }
+  .wrap { overflow-x:auto; max-height:75vh; overflow-y:auto; border-radius:8px; }
+  a { color:var(--accent); text-decoration:none; } a:hover { text-decoration:underline; }
+  .chip { display:inline-block; padding:1px 7px; border-radius:10px; background:var(--chip); font-size:11px; margin:1px 2px 1px 0; white-space:nowrap; }
+  .s-LIVE, .s-CURRENT, .s-success { color:var(--ok); } .s-SCHEDULED, .s-REVIEW_RECOMMENDED, .s-in_progress, .s-queued { color:var(--warn); }
+  .s-DRAFT, .s-LIVE_NOINDEX { color:var(--muted); } .s-URGENT_UPDATE, .s-OUTDATED, .s-failure, .s-FAIL { color:var(--bad); font-weight:600; }
+  .filters { display:flex; gap:8px; flex-wrap:wrap; margin-bottom:10px; }
+  input, select { font:inherit; padding:6px 8px; border:1px solid var(--line); border-radius:6px; background:var(--card); color:var(--ink); }
+  input[type=search] { min-width:260px; flex:1; }
+  .muted { color:var(--muted); } .small { font-size:12px; } ul.plain { margin:0; padding-left:18px; }
+  #tbl td:first-child { min-width:280px; }
+  .cal { display:grid; grid-template-columns:repeat(7, minmax(0, 1fr)); gap:4px; }
+  .cal .d { background:var(--card); border:1px solid var(--line); border-radius:6px; min-height:96px; padding:4px; font-size:11px; }
+  .cal .d.today { outline:2px solid var(--accent); } .cal .d.out { opacity:.45; }
+  .cal .h { font-size:11px; color:var(--muted); text-align:center; }
+  .cal .e { display:block; margin:2px 0; padding:1px 4px; border-radius:4px; background:var(--chip); overflow:hidden; text-overflow:ellipsis; white-space:nowrap; }
+  .cal .e.pub { border-left:3px solid var(--ok); } .cal .e.sch { border-left:3px solid var(--warn); } .cal .e.key { border-left:3px solid var(--accent); }
+  .row { display:flex; gap:10px; align-items:center; flex-wrap:wrap; }
+  details summary { cursor:pointer; }
+  @media (max-width:640px) { input[type=search] { min-width:0; width:100%; } .cal .d { min-height:60px; } }
+</style>
+</head>
+<body>
+<header>
+  <h1>Fresh Calendars /news/ · Editorial Dashboard</h1>
+  <div class="sub" id="sub"></div>
+  <nav role="tablist" id="tabs"></nav>
+</header>
+<main id="main"></main>
+<script>
+const D = /*__DATA__*/null;
+const $ = (s, el = document) => el.querySelector(s);
+const esc = (s) => String(s ?? "").replace(/[&<>"']/g, (c) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" })[c]);
+const et = (d) => d ? new Date(d).toLocaleString("en-US", { timeZone: "America/New_York", month: "short", day: "numeric", year: "numeric", hour: "numeric", minute: "2-digit" }) : "";
+const etDate = (d) => d ? new Intl.DateTimeFormat("en-CA", { timeZone: "America/New_York" }).format(new Date(d)) : "";
+const live = (slug) => `${D.origin}/news/${slug}/`;
+const story = (slug) => D.stories.find((s) => s.slug === slug);
+const link = (slug) => { const s = story(slug); if (!s) return esc(slug);
+  const t = `<a href="../../${esc(s.file)}" title="Open the Markdown file">${esc(s.title)}</a>`;
+  return s.status === "LIVE" || s.status === "LIVE_NOINDEX" ? `${t} <a class="small" href="${live(slug)}" target="_blank" rel="noopener">live ↗</a>` : t; };
+const chip = (t, cls = "") => `<span class="chip ${cls}">${esc(t)}</span>`;
+const C = D.counts;
+
+$("#sub").innerHTML = `Generated ${esc(et(D.generatedAt))} ET from the repository · read-only · <span class="muted">drafts and scheduled stories are listed, so keep this page local</span>`;
+
+const sections = {
+  overview() {
+    const stat = (n, label, cls = "") => `<div class="card stat ${n && cls}"><b>${n}</b><span>${label}</span></div>`;
+    const upcoming = D.stories.filter((s) => s.status === "SCHEDULED").sort((a, b) => a.publishedAt.localeCompare(b.publishedAt));
+    const attention = D.stories.filter((s) => s.fresh && ["URGENT_UPDATE", "OUTDATED"].includes(s.fresh.state)).sort((a, b) => a.fresh.state.localeCompare(b.fresh.state) * -1);
+    const activity = D.stories.filter((s) => s.lastCommit).sort((a, b) => b.lastCommit.date.localeCompare(a.lastCommit.date)).slice(0, 15);
+    return `<div class="grid">
+      ${stat(C.total, "stories in the repository")}${stat(C.live, `live (${C.noindex} noindex)`)}
+      ${stat(C.scheduled, "scheduled (future publishedAt)", "warn")}${stat(C.drafts, "drafts")}
+      ${stat(C.local, "uncommitted or not pushed", "warn")}
+      ${stat(C.pub7, "published, last 7 days")}${stat(C.pub30, "published, last 30 days")}
+      ${stat(C.upd7, "updated, last 7 days")}${stat(C.upd30, "updated, last 30 days")}
+      ${stat(C.urgent, "urgent updates", "bad")}${stat(C.outdated, "outdated titles", "bad")}${stat(C.review, "review recommended", "warn")}
+      ${stat(C.seoIssues, D.seo ? "stories with SEO findings" : "SEO audit not run", "bad")}
+      ${stat(C.duplicates, "possible duplicate pairs", "warn")}${stat(C.sourceIssues, "source issues", "warn")}
+      ${stat(D.integrity.length, "broken references", "bad")}
+    </div>
+    <h2>Publishing pipeline</h2>${pipelineSummary()}
+    <h2>Needs attention</h2>${attention.length ? table(["Story", "State", "Reason"], attention.map((s) => [link(s.slug), `<span class="s-${s.fresh.state}">${s.fresh.state}</span>`, esc(s.fresh.reason)])) : `<p class="muted">Nothing urgent or outdated.</p>`}
+    ${D.integrity.length ? `<h2>Broken references</h2>${table(["Story", "Problem"], D.integrity.map((i) => [link(i.slug), esc(i.text)]))}` : ""}
+    ${D.parseErrors.length ? `<h2>Unreadable files</h2><ul class="plain">${D.parseErrors.map((e) => `<li>${esc(e)}</li>`).join("")}</ul>` : ""}
+    <h2>Upcoming publications</h2>${upcoming.length ? table(["Goes live (ET)", "Story", "Category", "Author"], upcoming.map((s) => [esc(et(s.publishedAt)), link(s.slug), esc(s.category), esc(s.authors.join(", "))])) : `<p class="muted">No scheduled stories.</p>`}
+    <h2>Recent editorial activity</h2>${table(["When (ET)", "Story", "Commit", "By"], activity.map((s) => [esc(et(s.lastCommit.date)), link(s.slug), `<code>${esc(s.lastCommit.sha)}</code> ${esc(s.lastCommit.subject)}`, esc(s.lastCommit.author)]))}`;
+  },
+  stories() {
+    const opts = (vals) => [...new Set(vals)].filter(Boolean).sort().map((v) => `<option>${esc(v)}</option>`).join("");
+    return `<div class="filters">
+      <input type="search" id="q" placeholder="Search title, slug, keyword…">
+      <select id="fStatus"><option value="">All statuses</option>${opts(D.stories.map((s) => s.status))}</select>
+      <select id="fCat"><option value="">All categories</option>${opts(D.stories.map((s) => s.category))}</select>
+      <select id="fTopic"><option value="">All topics</option>${opts(D.stories.flatMap((s) => s.topics ?? []))}</select>
+      <select id="fFresh"><option value="">Any freshness</option>${opts(D.stories.map((s) => s.fresh?.state))}</select>
+      <select id="fFlag"><option value="">No flag filter</option><option value="seo">SEO findings</option><option value="local">Local changes</option><option value="dup">In a duplicate pair</option><option value="src">Source issues</option></select>
+      <span class="muted small" id="nShown"></span>
+    </div><div class="wrap"><table id="tbl"><thead><tr>
+      <th data-k="title">Headline</th><th data-k="status">Status</th><th data-k="category">Category / topic</th><th data-k="type">Type</th>
+      <th data-k="authors">Byline</th><th data-k="publishedAt">Published (ET)</th><th data-k="updatedAt">Updated (ET)</th>
+      <th data-k="fresh">Freshness</th><th data-k="seo">SEO</th><th data-k="sources">Sources</th><th data-k="lastCommit">Last commit</th>
+    </tr></thead><tbody></tbody></table></div>`;
+  },
+  duplicates() {
+    const pairs = (list) => table(["Newer story", "Older story", "Score", "Shared keywords / topics", "Published", "Recommendation"], list.map((d) => [
+      link(d.a) + `<div class="small muted">${esc(d.a)}</div>`, link(d.b) + `<div class="small muted">${esc(d.b)}</div>`,
+      `${d.score}<div class="small muted">headline ${d.headline}</div>`,
+      [...d.sharedKw.map((k) => chip(k)), ...d.sharedTopics.map((t) => chip("topic: " + t))].join("") || '<span class="muted">none</span>',
+      `${esc(etDate(story(d.a)?.publishedAt))}<br>${esc(etDate(story(d.b)?.publishedAt))}<div class="small muted">${d.gapDays} days apart</div>`,
+      (d.series ? chip(d.series) + "<br>" : "") + esc(d.recommendation)]));
+    const real = D.duplicates.filter((d) => !d.series), series = D.duplicates.filter((d) => d.series);
+    return `<p class="muted">Advisory only. Pairs whose similarity (lib/similarity.ts, the score that picks related stories) reaches the near-copy line 0.55, or whose headlines share most words. Daily puzzle pages are left out. Nothing is merged or deleted from here.</p>
+    <h2>Possible duplicates · ${real.length}</h2>${real.length ? pairs(real) : "<p>No pairs above the line.</p>"}
+    <details style="margin-top:16px"><summary><b>Series pages · ${series.length}</b> <span class="muted">numbered, daily or same-template pages about different subjects (usually fine)</span></summary>${pairs(series)}</details>`;
+  },
+  freshness() {
+    const order = { URGENT_UPDATE: 0, OUTDATED: 1, REVIEW_RECOMMENDED: 2, CURRENT: 3 };
+    const rows = D.stories.filter((s) => s.fresh).sort((a, b) => order[a.fresh.state] - order[b.fresh.state] || a.fresh.review.localeCompare(b.fresh.review));
+    return `<p class="muted">Rules, in order: a KEY_DATES event within 3 days on a story unchanged for 7+ days is urgent; within 14 days and unchanged for 30+ days, review; a title naming only past years is outdated; news and update stories are reviewed after 180 days, others after 365. Puzzle pages are dated by design and left out. Running this never touches updatedAt.</p>
+    <div class="filters"><select id="fState"><option value="">All states</option>${Object.keys(order).map((k) => `<option>${k}</option>`).join("")}</select></div>
+    <div class="wrap"><table id="freshTbl"><thead><tr><th>Story</th><th>State</th><th>Last changed</th><th>Age</th><th>Last source date</th><th>Review by</th><th>Reason</th></tr></thead><tbody>
+    ${rows.map((s) => `<tr data-state="${s.fresh.state}"><td>${link(s.slug)}</td><td class="s-${s.fresh.state}">${s.fresh.state}</td><td>${esc(s.fresh.touched)}</td><td>${s.fresh.age} d</td><td>${esc(s.fresh.lastSourceDate ?? "—")}</td><td>${esc(s.fresh.review)}</td><td>${esc(s.fresh.reason)}</td></tr>`).join("")}
+    </tbody></table></div>`;
+  },
+  sources() {
+    const kinds = {};
+    for (const i of D.sourceIssues) kinds[i.kind] = (kinds[i.kind] ?? 0) + 1;
+    return `<p class="muted">Sources come from each story's <code>sources:</code> frontmatter. Nothing is marked verified here: a source is only as good as the editor's check. Run <code>pnpm news:dashboard --check-links</code> to request every source URL of live stories; a 403 often means the site blocks automated requests, not that the page is gone.</p>
+    <div class="row">${Object.entries(kinds).map(([k, n]) => chip(`${k}: ${n}`)).join("") || '<span class="muted">No source issues found.</span>'}</div>
+    ${D.sourceIssues.length ? `<h2>Issues</h2>${table(["Story", "Kind", "Detail"], D.sourceIssues.map((i) => [link(i.slug), esc(i.kind), esc(i.text)]))}` : ""}
+    <h2>Sources by story</h2><input type="search" id="srcQ" placeholder="Filter by story or publisher…" style="margin-bottom:8px">
+    <div id="srcList">${D.stories.filter((s) => s.sourceList.length).sort((a, b) => b.publishedAt.localeCompare(a.publishedAt)).map((s) => `<details class="card" style="margin-bottom:6px" data-q="${esc((s.title + " " + s.slug + " " + s.sourceList.map((x) => x.publisher).join(" ")).toLowerCase())}">
+      <summary>${esc(s.title)} <span class="muted small">· ${s.sourceList.length} source(s)</span></summary>
+      <ul class="plain">${s.sourceList.map((x) => `<li><a href="${esc(x.url)}" target="_blank" rel="noopener noreferrer">${esc(x.title)}</a> · ${esc(x.publisher)}${x.date ? " · " + esc(x.date) : ""}</li>`).join("")}</ul></details>`).join("")}</div>`;
+  },
+  seo() {
+    if (!D.seo) return `<p>The SEO audit reads the last local build. Run <code>pnpm news:build</code>, then <code>pnpm news:dashboard</code> again.</p>`;
+    const bad = D.seo.checks.filter((c) => c.result !== "PASS");
+    return `<p class="muted">Output of <code>pnpm news:seo-audit</code> on the build from ${esc(et(D.seo.builtAt))} ET (an older build can miss recent stories). ${esc(D.seo.summary)}</p>
+    ${bad.length ? bad.map((c) => `<div class="card" style="margin-bottom:8px"><b class="s-${c.result === "FAIL" ? "FAIL" : "REVIEW_RECOMMENDED"}">${c.result} ${esc(c.id)}</b> ${esc(c.label)}
+      <ul class="plain small">${c.details.map((d) => { const slug = d.match(/^\/news\/([^/]+)\//)?.[1]; return `<li>${slug && story(slug) ? link(slug) + " · " : ""}${esc(d)}</li>`; }).join("")}</ul></div>`).join("") : "<p>Every check passed.</p>"}
+    <details><summary>All ${D.seo.checks.length} checks</summary>${table(["Result", "Check", "Rule"], D.seo.checks.map((c) => [`<span class="s-${c.result === "PASS" ? "success" : c.result === "FAIL" ? "FAIL" : "queued"}">${c.result}</span>`, esc(c.id), esc(c.label)]))}</details>`;
+  },
+  calendar() {
+    return `<div class="row" style="margin-bottom:10px"><button id="prev">←</button><b id="calTitle"></b><button id="next">→</button>
+      <span class="small">${chip("published", "pub")}${chip("scheduled", "sch")}${chip("key date", "key")}</span>
+      <span class="muted small">Dates in Eastern Time. The schedule is each story's publishedAt; key dates come from lib/keydates.ts.</span></div>
+      <div class="cal" id="cal"></div>`;
+  },
+  pipeline() {
+    const runs = D.ci.runs;
+    return pipelineSummary() + (D.ci.error ? `<p class="s-failure">GitHub Actions unavailable: ${esc(D.ci.error)}</p>` :
+      `<h2>Last CI runs on main</h2>${table(["Started (ET)", "Commit", "Result", "Duration"], runs.map((r) => [esc(et(r.createdAt)),
+        `<a href="${esc(r.url)}" target="_blank" rel="noopener">${esc(r.headSha.slice(0, 7))}</a> ${esc(r.displayTitle)}`,
+        `<span class="s-${esc(r.conclusion || r.status)}">${esc(r.conclusion || r.status)}</span>`, r.seconds == null ? "running" : `${Math.floor(r.seconds / 60)} min ${r.seconds % 60} s`]))}`)
+      + `<h2>Topic hubs</h2><div class="row">${D.hubs.map((h) => `<a class="chip" href="${D.origin}/news/topic/${esc(h.slug)}/" target="_blank" rel="noopener">${esc(h.name)} · ${h.n}</a>`).join("")}</div>`;
+  },
+};
+
+function pipelineSummary() {
+  if (D.ci.error) return `<p class="muted">CI data unavailable (${esc(D.ci.error)}).</p>`;
+  const failed = D.ci.runs.filter((r) => r.conclusion === "failure");
+  const newestFail = failed[0] && (!D.ci.lastGreen || failed[0].createdAt > D.ci.runs.find((r) => r.conclusion === "success").createdAt);
+  const done = D.ci.runs.filter((r) => r.seconds != null && r.conclusion === "success").map((r) => r.seconds).sort((a, b) => a - b);
+  const med = done.length ? done[Math.floor(done.length / 2)] : null;
+  return `<div class="card"><div class="row">
+    <span>origin/main <code>${esc(D.ci.head)}</code></span>
+    <span>last green CI <code>${esc(D.ci.lastGreen?.sha ?? "none")}</code> ${D.ci.lastGreen ? esc(et(D.ci.lastGreen.at)) + " ET" : ""}</span>
+    <span>${D.ci.pending.length ? `<span class="s-SCHEDULED">${D.ci.pending.length} commit(s) on main waiting for green CI</span>` : `<span class="s-success">main is green</span>`}</span>
+    ${newestFail ? `<span class="s-failure">newest run failed: ${esc(failed[0].displayTitle)}</span>` : ""}
+    ${med ? `<span class="muted">median green run ${Math.round(med / 60)} min</span>` : ""}
+  </div>${D.ci.pending.length ? `<ul class="plain small">${D.ci.pending.slice(0, 10).map((p) => `<li><code>${esc(p)}</code></li>`).join("")}</ul>` : ""}
+  <p class="small muted" style="margin:6px 0 0">The server publishes the newest green commit (scripts/server-autopublish.sh). Check a story on the live site with <code>pnpm news:verify-live &lt;slug&gt;</code>.</p></div>`;
+}
+
+function table(head, rows) {
+  return `<div class="wrap"><table><thead><tr>${head.map((h) => `<th>${h}</th>`).join("")}</tr></thead><tbody>${rows.map((r) => `<tr>${r.map((c) => `<td>${c}</td>`).join("")}</tr>`).join("")}</tbody></table></div>`;
+}
+
+// Stories table: search, filters, sort.
+function initStories() {
+  const dupSlugs = new Set(D.duplicates.flatMap((d) => [d.a, d.b]));
+  const srcSlugs = new Set(D.sourceIssues.map((i) => i.slug));
+  let sortKey = "publishedAt", dir = -1;
+  const val = (s, k) => k === "fresh" ? s.fresh?.state ?? "" : k === "seo" ? (s.seo?.length ?? 0) : k === "lastCommit" ? s.lastCommit?.date ?? "" : k === "authors" ? s.authors.join() : s[k] ?? "";
+  const render = () => {
+    const q = $("#q").value.toLowerCase().trim(), st = $("#fStatus").value, cat = $("#fCat").value, top = $("#fTopic").value, fr = $("#fFresh").value, fl = $("#fFlag").value;
+    const rows = D.stories.filter((s) => (!q || (s.title + " " + s.slug + " " + s.keywords.join(" ")).toLowerCase().includes(q))
+      && (!st || s.status === st) && (!cat || s.category === cat) && (!top || (s.topics ?? []).includes(top)) && (!fr || s.fresh?.state === fr)
+      && (!fl || (fl === "seo" ? s.seo?.length : fl === "local" ? s.local : fl === "dup" ? dupSlugs.has(s.slug) : srcSlugs.has(s.slug))))
+      .sort((a, b) => { const x = val(a, sortKey), y = val(b, sortKey); return (x > y ? 1 : x < y ? -1 : 0) * dir; });
+    $("#nShown").textContent = `${rows.length} of ${D.stories.length}`;
+    $("#tbl tbody").innerHTML = rows.map((s) => `<tr>
+      <td>${link(s.slug)}<div class="small muted">${esc(s.slug)} · ${s.words} words${s.downloads ? ` · ${s.downloads} printable(s)` : ""}${s.corrections ? ` · ${s.corrections} correction(s)` : ""}</div></td>
+      <td class="s-${s.status}">${s.status}${s.local ? `<div class="small s-SCHEDULED">${esc(s.local)}</div>` : ""}</td>
+      <td>${esc(s.category)}${(s.topics ?? []).map((t) => "<br>" + chip(t)).join("")}</td>
+      <td>${esc(s.type)}</td><td>${esc(s.authors.join(", "))}</td>
+      <td>${esc(et(s.publishedAt))}</td><td>${esc(et(s.updatedAt))}</td>
+      <td class="s-${s.fresh?.state ?? ""}" title="${esc(s.fresh?.reason)}">${esc(s.fresh?.state ?? "—")}</td>
+      <td>${s.seo?.length ? `<details><summary class="s-FAIL">${s.seo.length}</summary><ul class="plain small">${s.seo.map((x) => `<li>${esc(x)}</li>`).join("")}</ul></details>` : D.seo && (s.status === "LIVE" || s.status === "LIVE_NOINDEX") ? '<span class="s-success">ok</span>' : '<span class="muted">—</span>'}</td>
+      <td>${s.sources}${srcSlugs.has(s.slug) ? ' <span class="s-SCHEDULED">!</span>' : ""}</td>
+      <td class="small">${s.lastCommit ? `<code>${esc(s.lastCommit.sha)}</code> ${esc(etDate(s.lastCommit.date))}<div class="muted">${esc(s.lastCommit.author)} · ${s.commits} commit(s)</div>` : '<span class="muted">not committed</span>'}</td></tr>`).join("");
+  };
+  for (const el of ["#q", "#fStatus", "#fCat", "#fTopic", "#fFresh", "#fFlag"]) $(el).addEventListener("input", render);
+  for (const th of document.querySelectorAll("#tbl th")) th.addEventListener("click", () => { const k = th.dataset.k; dir = sortKey === k ? -dir : -1; sortKey = k; render(); });
+  render();
+}
+
+function initCalendar() {
+  let [y, m] = D.today.split("-").map(Number);
+  const events = new Map();
+  const add = (date, html) => (events.get(date) ?? events.set(date, []).get(date)).push(html);
+  // Daily puzzle pages would fill every cell; each day shows them as one line.
+  const puzzles = new Map();
+  for (const s of D.stories) {
+    if (s.status === "DRAFT") continue;
+    const day = etDate(s.publishedAt), cls = s.status === "SCHEDULED" ? "sch" : "pub";
+    if (s.category === "puzzles") { const p = puzzles.get(day) ?? puzzles.set(day, { n: 0, cls }).get(day); p.n++; if (cls === "sch") p.cls = cls; continue; }
+    add(day, `<a class="e ${cls}" href="../../${esc(s.file)}" title="${esc(et(s.publishedAt) + " · " + s.title)}">${esc(s.title)}</a>`);
+  }
+  for (const k of D.keyDates) add(k.date, `<span class="e key" title="${esc(k.label)}">${esc(k.label)}</span>`);
+  for (const [day, p] of puzzles) add(day, `<span class="e ${p.cls} muted">${p.n} puzzle page(s)</span>`);
+  const MAX = 6;
+  const cell = (list) => list.length <= MAX ? list.join("") : list.slice(0, MAX - 1).join("") + `<details><summary class="small muted">+${list.length - MAX + 1} more</summary>${list.slice(MAX - 1).join("")}</details>`;
+  const draw = () => {
+    $("#calTitle").textContent = new Date(Date.UTC(y, m - 1, 1)).toLocaleString("en-US", { month: "long", year: "numeric", timeZone: "UTC" });
+    const first = new Date(Date.UTC(y, m - 1, 1)), start = new Date(first - first.getUTCDay() * 864e5);
+    let html = ["Sun", "Mon", "Tue", "Wed", "Thu", "Fri", "Sat"].map((d) => `<div class="h">${d}</div>`).join("");
+    for (let i = 0; i < 42; i++) {
+      const d = new Date(+start + i * 864e5), key = d.toISOString().slice(0, 10);
+      html += `<div class="d ${d.getUTCMonth() !== m - 1 ? "out" : ""} ${key === D.today ? "today" : ""}"><b>${d.getUTCDate()}</b>${cell(events.get(key) ?? [])}</div>`;
+    }
+    $("#cal").innerHTML = html;
+  };
+  $("#prev").onclick = () => { if (--m < 1) { m = 12; y--; } draw(); };
+  $("#next").onclick = () => { if (++m > 12) { m = 1; y++; } draw(); };
+  draw();
+}
+
+const labels = { overview: "Overview", stories: "Stories", calendar: "Calendar", freshness: "Freshness", duplicates: "Duplicates", sources: "Sources", seo: "SEO", pipeline: "Pipeline" };
+$("#tabs").innerHTML = Object.entries(labels).map(([k, l]) => `<button role="tab" data-t="${k}">${l}</button>`).join("");
+$("#main").innerHTML = Object.keys(labels).map((k) => `<section id="t-${k}" hidden>${sections[k]()}</section>`).join("");
+initStories(); initCalendar();
+$("#fState").addEventListener("input", (e) => { for (const tr of document.querySelectorAll("#freshTbl tbody tr")) tr.hidden = !!e.target.value && tr.dataset.state !== e.target.value; });
+$("#srcQ").addEventListener("input", (e) => { const q = e.target.value.toLowerCase(); for (const d of document.querySelectorAll("#srcList details")) d.hidden = !!q && !d.dataset.q.includes(q); });
+const show = (t) => { for (const b of document.querySelectorAll("#tabs button")) b.setAttribute("aria-selected", b.dataset.t === t);
+  for (const s of document.querySelectorAll("main section")) s.hidden = s.id !== "t-" + t; try { localStorage.setItem("ed-tab", t); } catch {} };
+$("#tabs").addEventListener("click", (e) => e.target.dataset.t && show(e.target.dataset.t));
+let saved = "overview"; try { saved = localStorage.getItem("ed-tab") || saved; } catch {}
+show(labels[saved] ? saved : "overview");
+</script>
+</body>
+</html>
