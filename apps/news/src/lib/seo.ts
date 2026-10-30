@@ -141,6 +141,8 @@ function organizationNode(): Record<string, unknown> {
       caption: NEWS_NAME,
       inLanguage: "en-US",
     },
+    // Where readers and Google reach the newsroom; the contact page is the one the footer links.
+    contactPoint: { "@type": "ContactPoint", contactType: "editorial", email: PUBLISHER.email, url: `${SITE_ORIGIN}/page/contact/`, availableLanguage: "en" },
   };
   // Trust pages are referenced only once they are published (N8) — no links to 404s.
   for (const [prop, path] of Object.entries(TRUST_PAGES)) {

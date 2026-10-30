@@ -35,6 +35,8 @@ export const TRUST_PAGES: {
   correctionsPolicy: string | null;
   masthead: string | null;
   actionableFeedbackPolicy: string | null;
+  ownershipFundingInfo: string | null;
+  verificationFactCheckingPolicy: string | null;
   license: string | null;
 } = {
   publishingPrinciples: "/news/editorial-policy/",
@@ -42,6 +44,8 @@ export const TRUST_PAGES: {
   correctionsPolicy: "/news/corrections-policy/",
   masthead: "/news/masthead/",
   actionableFeedbackPolicy: "/news/corrections-policy/#feedback",
+  ownershipFundingInfo: "/news/about/#who-publishes-fresh-calendars-news",
+  verificationFactCheckingPolicy: "/news/editorial-policy/#accuracy",
   license: "/page/terms-of-use/",
 };
 

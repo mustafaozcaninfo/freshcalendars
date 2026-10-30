@@ -71,6 +71,9 @@ describe("articleGraph", () => {
   it("links the Organization to the published trust pages", () => {
     const org = byType("Organization")[0]!;
     assert.equal(org.publishingPrinciples, "https://freshcalendars.com/news/editorial-policy/");
+    assert.equal(org.ownershipFundingInfo, "https://freshcalendars.com/news/about/#who-publishes-fresh-calendars-news");
+    assert.equal(org.verificationFactCheckingPolicy, "https://freshcalendars.com/news/editorial-policy/#accuracy");
+    assert.equal((org.contactPoint as { email: string }).email, "info@freshcalendars.com");
     assert.equal(org.correctionsPolicy, "https://freshcalendars.com/news/corrections-policy/");
     assert.equal(org.masthead, "https://freshcalendars.com/news/masthead/");
     assert.equal(org.logo.width, 512);
