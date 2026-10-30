@@ -4,9 +4,13 @@ seoTitle: "NHL Games Today, Oct. 31, 2026: 10 Games and TV"
 description: "National Hockey League (NHL) games today, Sat., Oct. 31, 2026 (Halloween): 10 games from 1:00 to 10:00 p.m. Eastern Time (ET), with arenas, time zones and TV."
 type: news
 publishedAt: "2026-10-29T19:53:00-04:00"
+updatedAt: "2026-10-29T21:06:00-04:00"
 authors: [jordan-bennett]
 category: sports
 keywords: ["NHL games today", "NHL games Halloween 2026", "NHL schedule October 31 2026", "NHL TV schedule today", "printable NHL schedule"]
+corrections:
+  - date: "2026-10-29T21:06:00-04:00"
+    text: "An earlier version said Canada has national Sportsnet coverage of seven Saturday games. The NHL schedule data lists national Sportsnet channels for six of the ten games."
 assets:
   overlay: true
   kicker: "NHL · Sat., Oct. 31, 2026"
@@ -47,7 +51,7 @@ hero:
 summary:
   - "The National Hockey League (NHL) lists 10 games for Saturday, Oct. 31, 2026 (Halloween), from 1:00 p.m. to 10:00 p.m. Eastern Time (ET)."
   - "Two games start at 1:00 p.m. ET, two at 2:00, two at 4:00, two at 7:00, one at 8:00 and the last at 10:00 p.m. ET, which is 7:00 p.m. Pacific Time (PT)."
-  - "The NHL lists no national U.S. TV channel for any Saturday game, so check local listings; Canada has national Sportsnet coverage of seven games."
+  - "The NHL lists no national U.S. TV channel for any Saturday game, so check local listings; Canada has national Sportsnet coverage of six games."
   - "Calgary plays Friday at home against Seattle and Saturday at Colorado, the only back-to-back of the day."
 faq:
   - q: "How many NHL games are on Halloween, Saturday, Oct. 31, 2026?"
@@ -132,7 +136,7 @@ The clocks fall back one hour at 2 a.m. local time on Sunday, Nov. 1, after ever
 
 ## How to watch NHL games today on Halloween
 
-The NHL lists no national U.S. TV channel for any Saturday game. What you can see depends on where you live, so check local listings and your provider's guide. In Canada, the league lists national Sportsnet channels for seven of the ten games.
+The NHL lists no national U.S. TV channel for any Saturday game. What you can see depends on where you live, so check local listings and your provider's guide. In Canada, the league lists national Sportsnet channels for six of the ten games.
 
 | Game | U.S. TV listed by the NHL | Canada TV listed by the NHL |
 |---|---|---|
