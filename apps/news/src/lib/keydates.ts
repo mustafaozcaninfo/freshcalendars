@@ -348,6 +348,7 @@ export const KEY_DATES: KeyDate[] = [
   { date: "2026-10-31", label: "SNL: Inde Navarrette hosts, Gracie Abrams, 11:30 p.m. ET on NBC", slug: "snl-hosts-november-2026-halloween-episode-inde-navarrette-schedule" },
   { date: "2026-11-07", label: "SNL: Druski hosts with The Strokes, 11:30 p.m. ET on NBC", slug: "snl-hosts-november-2026-halloween-episode-inde-navarrette-schedule" },
   { date: "2026-10-30", label: "NHL: 3 games, first puck drop 6:00 p.m. ET", slug: "nhl-games-today-october-30-2026" },
+  { date: "2026-10-30", label: "College football: 4 Friday games, Baylor at UCF 7:30 p.m. ET on ESPN", slug: "college-football-games-today-october-30-2026" },
   { date: "2026-10-31", label: "NHL: 10 Halloween games, first puck drops 1:00 p.m. ET", slug: "nhl-games-today-october-31-2026-halloween" },
   { date: "2026-11-19", label: "Great American Smokeout (American Cancer Society)", slug: "great-american-smokeout-2026-november-19-quit-day-planner" },
   { date: "2026-11-19", label: "Beaujolais Nouveau 2026 release day", slug: "beaujolais-nouveau-day-2026-november-19-release-dates" },
