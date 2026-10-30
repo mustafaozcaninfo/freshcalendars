@@ -12,6 +12,9 @@ export interface KeyDate {
 }
 
 export const KEY_DATES: KeyDate[] = [
+  { date: "2026-10-30", label: "Melbourne Cup Carnival: Derby Day first race 9:20 p.m. ET (Oct. 31 in Melbourne)", slug: "melbourne-cup-2026-time-us-uk-derby-day-oaks-carnival-schedule" },
+  { date: "2026-11-02", label: "Melbourne Cup Day first race 6:45 p.m. ET (Tue., Nov. 3 in Melbourne)", slug: "melbourne-cup-2026-time-us-uk-derby-day-oaks-carnival-schedule" },
+  { date: "2026-12-01", label: "Environment Canada posts new seasonal forecast maps", slug: "el-nino-update-november-12-noaa-winter-outlook-november-19-2026" },
   { date: "2026-10-30", label: "Lifelong Learning Entitlement applications open (courses from 1 Jan. 2027)", slug: "lifelong-learning-entitlement-applications-open-january-2027-courses" },
   { date: "2026-11-12", label: "NOAA El Niño (ENSO) update from the Climate Prediction Center", slug: "el-nino-update-november-12-noaa-winter-outlook-november-19-2026" },
   { date: "2026-11-19", label: "NOAA winter outlook update, about 8:30 a.m. ET", slug: "el-nino-update-november-12-noaa-winter-outlook-november-19-2026" },
