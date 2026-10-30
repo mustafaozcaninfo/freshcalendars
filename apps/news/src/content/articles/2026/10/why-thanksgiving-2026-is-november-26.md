@@ -4,7 +4,7 @@ seoTitle: "Thanksgiving 2026: Thursday, Nov. 26 (Dates to 2035)"
 description: "Thanksgiving 2026 is Thursday, Nov. 26, the fourth Thursday of November under a 1941 law. See Thanksgiving dates through 2035 and who gets Friday off."
 type: explainer
 publishedAt: "2026-10-17T16:30:00-04:00"
-updatedAt: "2026-10-28T01:20:00-04:00"
+updatedAt: "2026-10-30T13:15:00-04:00"
 authors: [alex-morgan]
 category: holidays
 keywords: ["thanksgiving 2026", "what day is thanksgiving 2026", "thanksgiving dates 2026 to 2035", "why is thanksgiving on the 26th this year", "is the day after thanksgiving a holiday"]
@@ -65,6 +65,10 @@ faq:
     a: "Thanksgiving 2025 was Thursday, Nov. 27. In 2024 it was Thursday, Nov. 28."
   - q: "Is Black Friday a federal holiday?"
     a: "No. Friday, Nov. 27, 2026, is not a federal holiday, although many employers and some state governments give the day off. The New York Stock Exchange closes early at 1:00 p.m. Eastern Time."
+  - q: "Was the first Thanksgiving in 1621 or 1789?"
+    a: "The Plymouth harvest feast of the Pilgrims and the Wampanoag was in 1621. The first national day of thanksgiving under the Constitution was Thursday, Nov. 26, 1789, proclaimed by George Washington."
+  - q: "Do private employers have to pay for Thanksgiving?"
+    a: "No federal law requires it. The U.S. Department of Labor says the Fair Labor Standards Act does not require pay for time not worked, such as holidays; holiday pay is up to the employer's policy or a contract."
   - q: "When is Canadian Thanksgiving 2026?"
     a: "Monday, Oct. 12, 2026. Canada marks Thanksgiving on the second Monday of October, so 2027 falls on Oct. 11."
 sources:
@@ -86,6 +90,15 @@ sources:
   - title: "Lincoln's Thanksgiving Proclamation"
     url: "https://www.docsteach.org/documents/document/lincoln-thanksgiving-proclamation"
     publisher: "National Archives (DocsTeach)"
+  - title: "The First Thanksgiving"
+    url: "https://www.nps.gov/casa/learn/historyculture/the-first-thanksgiving.htm"
+    publisher: "National Park Service, Castillo de San Marcos National Monument"
+  - title: "Holiday Pay"
+    url: "https://www.dol.gov/general/topic/workhours/holidays"
+    publisher: "U.S. Department of Labor"
+  - title: "Holidays and Events"
+    url: "https://about.usps.com/newsroom/events/"
+    publisher: "U.S. Postal Service"
   - title: "Public holidays"
     url: "https://www.canada.ca/en/revenue-agency/services/tax/public-holidays.html"
     publisher: "Canada Revenue Agency"
@@ -150,8 +163,6 @@ draft: false
 related: [thanksgiving-2026-planner-countdown-checklist, whats-open-thanksgiving-2026-grocery-stores-walmart-costco, thanksgiving-travel-2026-best-days-to-fly-and-drive]
 ---
 
-<p class="callout"><b>Last updated Oct. 28, 2026, 1:20 a.m. ET.</b> Added Thanksgiving dates through 2035, the 1789 and 1942 Nov. 26 Thanksgivings, and who gets Friday, Nov. 27 off.</p>
-
 **Thanksgiving 2026 is Thursday, Nov. 26, the fourth Thursday of November.** Federal law, 5 U.S. Code Section 6103, sets the holiday on that weekday, and the U.S. Office of Personnel Management (OPM) lists "Thursday, November 26" as a 2026 federal holiday. The date is not chosen each year; because the law ties Thanksgiving to a weekday, it slides around the calendar while Christmas and other fixed-number holidays stay put. Black Friday follows on Nov. 27. Below is the reason for the date, a table of Thanksgiving dates through 2035, and a printable you can keep.
 
 ## What day is Thanksgiving 2026?
@@ -207,6 +218,20 @@ Because the rule counts Thursdays, Thanksgiving can only land between Nov. 22 an
 
 **Is Thanksgiving always on the 26th?** No. Nov. 26 is just where the fourth Thursday lands this year. In the years since the law took effect, Thanksgiving fell on Nov. 26 in 1942, 1953, 1959, 1964, 1970, 1981, 1987, 1992, 1998, 2009, 2015, 2020 and 2026. The next Nov. 26 Thanksgivings are 2037, 2043 and 2048.
 
+## Was the first Thanksgiving in 1621 or 1789?
+
+Both years matter, for different reasons. In 1621 the Pilgrims and the Wampanoag held a harvest feast at Plymouth Colony in Massachusetts, according to the National Park Service (NPS). It was a harvest celebration with no fixed date, and the Park Service says it was the later yearly reenactment of that festival that spread into a national custom. The first national day of thanksgiving under the Constitution came in 1789, and Washington picked Nov. 26, the same date as this year.
+
+The Park Service also records an older meal. On Sept. 8, 1565, Spanish settlers who had just founded St. Augustine, Florida, held a Mass of Thanksgiving and shared a meal with the Seloy people, 56 years before Plymouth. It never became an annual tradition.
+
+| Year | What happened | Source |
+|---|---|---|
+| 1565 | Mass of Thanksgiving and a meal with the Seloy at St. Augustine, Florida | National Park Service |
+| 1621 | Pilgrims and Wampanoag harvest feast at Plymouth | National Park Service |
+| 1789 | Washington proclaims Thursday, Nov. 26 a day of thanksgiving | National Archives |
+| 1863 | Lincoln sets the last Thursday of November | National Archives |
+| 1941 | Congress fixes the fourth Thursday, first used in 1942 | National Archives |
+
 ## Nov. 26 was also Washington's date in 1789
 
 The first national Thanksgiving under the Constitution fell on the same date as 2026. On Oct. 3, 1789, in New York, President George Washington issued a proclamation setting aside "Thursday the 26th day of November" as a day of public thanksgiving, according to the National Archives.
@@ -231,7 +256,9 @@ Congress settled the question in 1941 with House Joint Resolution 41. The Nation
 
 For federal employees, no. The Office of Personnel Management lists Thursday, Nov. 26 as the federal holiday, and Friday, Nov. 27 is not one. As of Oct. 28, 2026, no executive order giving federal workers that Friday off had been announced.
 
-Many employers and some state governments do close on the Friday. North Carolina, for example, lists Thanksgiving as Thursday and Friday, Nov. 26 and 27, 2026, for state employees, according to the state's Office of State Human Resources. Check your own employer or your state's human resources page for the day after.
+Many employers and some state governments do close on the Friday. North Carolina, for example, lists Thanksgiving as Thursday and Friday, Nov. 26 and 27, 2026, for state employees, according to the state's Office of State Human Resources. Check your own employer or your state's human resources page for the day after; our list of [states closed on Friday, Nov. 27](/news/is-the-day-after-thanksgiving-a-state-holiday-2026-states-closed-november-27/) covers state offices.
+
+Paid time off on Thanksgiving itself is also up to the employer in the private sector. The U.S. Department of Labor says the Fair Labor Standards Act (FLSA) "does not require payment for time not worked, such as vacations or holidays," and treats holiday pay as a matter of agreement between employer and employee. Your company's 2026 holiday calendar, an employment contract or a union agreement decides whether Thursday and Friday are paid.
 
 For those who get both days, the long weekend runs Thursday, Nov. 26 through Sunday, Nov. 29, four days. The [New York Stock Exchange (NYSE)](https://www.nyse.com/trade/hours-calendars) closes early at 1:00 p.m. Eastern Time on the Friday. Many school districts close the whole week; our [Thanksgiving break 2026 school district dates](/news/thanksgiving-break-2026-school-districts-dates/) lists them. The weekend's shopping days continue with [Small Business Saturday and Cyber Monday](/news/small-business-saturday-2026-november-28-cyber-monday-november-30/).
 
@@ -243,8 +270,9 @@ For those who get both days, the long weekend runs Thursday, Nov. 26 through Sun
 | Federal Reserve | Closed | Open |
 | Most banks | Closed | Most open |
 | New York Stock Exchange and Nasdaq | Closed | Early close at 1:00 p.m. ET |
+| U.S. Postal Service (USPS) | Postal holiday | Not on the USPS holiday list |
 
-The federal schedule comes from the Office of Personnel Management and the Federal Reserve's 2026 holiday list, and the NYSE publishes the early close on its holidays and trading hours page. For stores and restaurants, see [what is open on Thanksgiving 2026](/news/whats-open-thanksgiving-2026-grocery-stores-walmart-costco/), which covers grocery chains, Walmart and Costco.
+The federal schedule comes from the Office of Personnel Management and the Federal Reserve's 2026 holiday list, USPS lists Thanksgiving Day among its 2026 holidays, and the NYSE publishes the early close on its holidays and trading hours page. For stores and restaurants, see [what is open on Thanksgiving 2026](/news/whats-open-thanksgiving-2026-grocery-stores-walmart-costco/), which covers grocery chains, Walmart and Costco.
 
 ## When is Canadian Thanksgiving?
 
