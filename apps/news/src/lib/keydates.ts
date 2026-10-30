@@ -12,6 +12,9 @@ export interface KeyDate {
 }
 
 export const KEY_DATES: KeyDate[] = [
+  { date: "2026-10-31", label: "Oíche Shamhna (Samhain eve); Dublin sunset 4:55 p.m.", slug: "samhain-2026-october-31-november-1-oiche-shamhna-sunset-times-puca-festival" },
+  { date: "2026-11-06", label: "Grand Slam of Darts Tour Card Holder Qualifier", slug: "grand-slam-of-darts-2026-dates-november-14-22-format-prize-money-how-to-watch" },
+  { date: "2026-11-14", label: "Grand Slam of Darts 2026 begins in Wolverhampton (through Nov. 22)", slug: "grand-slam-of-darts-2026-dates-november-14-22-format-prize-money-how-to-watch" },
   { date: "2026-11-01", label: "The Gilded Age Season 4 premieres, 9 p.m. ET/PT on HBO", slug: "the-gilded-age-season-4-premiere-time-november-1-hbo-max" },
   { date: "2026-11-17", label: "HBO documentary When a Witness Recants, 9 p.m. ET/PT", slug: "the-gilded-age-season-4-premiere-time-november-1-hbo-max" },
   { date: "2026-10-30", label: "Melbourne Cup Carnival: Derby Day first race 9:20 p.m. ET (Oct. 31 in Melbourne)", slug: "melbourne-cup-2026-time-us-uk-derby-day-oaks-carnival-schedule" },
