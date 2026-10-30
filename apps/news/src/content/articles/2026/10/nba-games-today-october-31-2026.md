@@ -9,7 +9,7 @@ category: sports
 keywords: ["NBA games today", "NBA games tonight October 31", "NBA schedule October 31 2026", "NBA Halloween games 2026", "printable NBA schedule"]
 dateline: "New York"
 assets:
-  scene: none
+  overlay: true
   kicker: "NBA · Sat., Oct. 31, 2026"
   date: "2026-10-31"
   card: { top: "7 NBA games Saturday", big: "3:00 p.m. ET", bottom: "First tip-off on Halloween" }
@@ -34,14 +34,14 @@ assets:
     alt: "Printable NBA games today sheet for Oct. 31, 2026, listing seven games with tip-off times, arenas, TV and score lines"
 hero:
   src: ../../../../assets/news/nba-games-today-october-31-2026/nba-games-today-october-31-2026.webp
-  alt: "Basketball scene for the NBA games today on Saturday, Oct. 31, 2026"
-  caption: "File photo of an NBA game from 2008. Seven NBA games are scheduled for Saturday, Oct. 31, 2026, from 3:00 p.m. ET to 8:30 p.m. ET."
-  credit: "Photo: keithjj] on Pixabay / Wikimedia Commons, cropped"
+  alt: "Houston Rockets player shooting a free throw at a home game, for the NBA games today on Oct. 31, 2026"
+  caption: "File photo of a free throw at a Houston Rockets home game. The Rockets host the Thunder at 8:30 p.m. ET on Saturday, Oct. 31, 2026."
+  credit: "Photo: Gary Denham / Wikimedia Commons, cropped, edited"
   license:
-    name: "CC0 1.0"
-    url: "http://creativecommons.org/publicdomain/zero/1.0/deed.en"
-    source: "https://commons.wikimedia.org/wiki/File:Yao_Ming_shooting_vs_Sacramento_Kings_2008-02-13.jpg"
-    author: "keithjj] on Pixabay"
+    name: "CC BY-SA 2.0"
+    url: "https://creativecommons.org/licenses/by-sa/2.0"
+    source: "https://commons.wikimedia.org/wiki/File:Chandler_Parsons_free_throw.jpg"
+    author: "Gary Denham"
 summary:
   - "Seven National Basketball Association (NBA) games are on the schedule for Saturday, Oct. 31, 2026 (Halloween), per NBA.com, from 3:00 p.m. to 8:30 p.m. Eastern Time (ET)."
   - "NBA TV carries two games: 76ers at Hornets (6:00 p.m. ET) and Thunder at Rockets (8:30 p.m. ET)."
@@ -109,7 +109,7 @@ The game list and TV details come from NBA.com, fetched Oct. 29, 2026. We cross-
 | 8:00 p.m. | Sacramento Kings at Memphis Grizzlies | FedExForum, Memphis | NBA League Pass |
 | 8:30 p.m. | Oklahoma City Thunder at Houston Rockets | Toyota Center, Houston | NBA TV (national) |
 
-NBA.com shows no national TV for the 3:00 p.m. game between the Trail Blazers and the Jazz. It lists radio for that game: KSL 97.5 FM for Utah and Rip City Radio 620 for Portland. NBA.com does not list local TV for any of the seven games, so check your team's regional network.
+NBA.com shows no national TV for the 3:00 p.m. game between the Trail Blazers and the Jazz. It lists radio for that game: 97.5 FM for Utah and Rip City Radio 620 for Portland. NBA.com does not list local TV for any of the seven games, so check your team's regional network.
 
 ## What time are the NBA games tonight in my time zone?
 
@@ -128,7 +128,7 @@ Clocks fall back at 2 a.m. on Sunday, Nov. 1, 2026, so times for Sunday's games 
 
 ## Do the games overlap with trick-or-treating?
 
-The 6:00 p.m. ET game and every later tip-off fall in the 6:00 to 8:30 p.m. ET window, which overlaps trick-or-treat hours. Local hours differ by town; our [Halloween 2026 trick-or-treat times](/news/halloween-2026-saturday-sunset-trick-or-treat-times/) story has the sunset times.
+The 6:00 p.m. ET game and every later tip-off fall between 6:00 and 8:30 p.m. ET, the early evening when trick-or-treating usually happens. Each town sets its own hours; our [Halloween 2026 trick-or-treat times](/news/halloween-2026-saturday-sunset-trick-or-treat-times/) story has the sunset times.
 
 ## Where to watch the NBA games today
 
@@ -141,4 +141,4 @@ Free streams found on social media are not licensed. Stick to the league, the te
 
 The one-page sheet lists all seven games with tip-off times in ET, arenas, TV and a line to write in each final score. Print it with the [printable weekly calendar](/printable-weekly-calendar.html) if you track a team through the week, or the [October 2026 printable calendar](/october-calendars.html) and [November 2026 printable calendar](/november-calendars.html) as the month turns. The sheet is a snapshot and does not update. If a time changes, the change will show on the NBA.com games page first.
 
-Friday's slate is in [NBA games today, Oct. 30](/news/nba-games-today-october-30-2026/). The full NBA Cup path is in our [NBA Cup 2026 schedule](/news/nba-cup-2026-schedule-dates-group-play-knockouts-final-indianapolis/), and the NHL slate is in [NHL games today, Oct. 31](/news/nhl-games-today-october-31-2026-halloween/).
+Friday's slate is in [NBA games today, Oct. 30](/news/nba-games-today-october-30-2026/). The full NBA Cup path is in our [NBA Cup 2026 schedule](/news/nba-cup-2026-schedule-dates-group-play-knockouts-final-indianapolis/), and the National Hockey League (NHL) slate is in [NHL games today, Oct. 31](/news/nhl-games-today-october-31-2026-halloween/).

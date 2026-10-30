@@ -54,6 +54,23 @@ internalLinks:
   - href: "/printable-weekly-calendar.html"
     label: "Printable weekly calendar"
 related: [bonfire-night-2026-thursday-november-5-fireworks-rules, london-fireworks-2026-battersea-alexandra-palace-blackheath-wimbledon-times-tickets, uk-bank-holidays-2027-dates-england-scotland-northern-ireland]
+downloads:
+  - group: "Lewes Bonfire Night Travel Timeline printables"
+    title: "Lewes Bonfire Night Travel Timeline, 5 November 2026"
+    description: "A one-page timeline of Lewes Bonfire Night on Thursday 5 November 2026: last trains, road closures, procession times and the first trains on Friday."
+    preview: ../../../../assets/news/lewes-bonfire-2026/lewes-bonfire-night-travel-timeline-2026.png
+    alt: "Printable Lewes Bonfire Night 2026 timeline with last trains, road closure and procession times."
+    pdf: "/news/downloads/lewes-bonfire-2026/lewes-bonfire-night-travel-timeline-2026.pdf"
+    png: "/news/downloads/lewes-bonfire-2026/lewes-bonfire-night-travel-timeline-2026.png"
+    pages: 1
+  - group: "Lewes Bonfire Night Travel Timeline printables"
+    title: "Lewes Bonfire Night Travel Timeline, 5 November 2026 (ink saver)"
+    description: "A one-page timeline of Lewes Bonfire Night on Thursday 5 November 2026: last trains, road closures, procession times and the first trains on Friday. Ink-saver version."
+    preview: ../../../../assets/news/lewes-bonfire-2026/lewes-bonfire-night-travel-timeline-2026-ink.png
+    alt: "Printable Lewes Bonfire Night 2026 timeline with last trains, road closure and procession times, ink-saver version"
+    pdf: "/news/downloads/lewes-bonfire-2026/lewes-bonfire-night-travel-timeline-2026-ink.pdf"
+    png: "/news/downloads/lewes-bonfire-2026/lewes-bonfire-night-travel-timeline-2026-ink.png"
+    pages: 1
 draft: false
 assets:
   overlay: true
