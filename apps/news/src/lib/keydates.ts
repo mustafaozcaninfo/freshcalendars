@@ -384,6 +384,17 @@ export function upcomingFor(slugs: Set<string>, now: Date = new Date()): (KeyDat
     .map((k) => ({ ...k, days: daysUntil(k.date, today) }));
 }
 
+/**
+ * Dates for a story's or topic's .ics file: the upcoming ones, or once they have all passed, every
+ * date it reported. The file then keeps its URL after the event, so links Google and readers saved
+ * still open a calendar instead of a 404.
+ */
+export function calendarDatesFor(slugs: Set<string>, now: Date = new Date()): KeyDate[] {
+  const next = upcomingFor(slugs, now);
+  if (next.length) return next;
+  return KEY_DATES.filter((k) => slugs.has(k.slug)).sort((a, b) => a.date.localeCompare(b.date) || a.label.localeCompare(b.label));
+}
+
 /** Stable event id for calendar files: the date plus a slug of the label. */
 export const keyDateUid = (k: KeyDate) => `${k.date}-${k.label.toLowerCase().replace(/[^a-z0-9]+/g, "-").replace(/^-|-$/g, "")}`;
 
