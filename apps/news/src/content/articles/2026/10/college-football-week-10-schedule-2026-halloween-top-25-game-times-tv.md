@@ -115,30 +115,30 @@ draft: false
 
 ## What is the college football schedule for Saturday, Oct. 31, 2026?
 
-ESPN and FBSchedules list the same games and times, all ET. Rankings are the Associated Press (AP) Top 25 of Oct. 25, 2026, as shown on ESPN. Neutral-site games are marked "vs."; the others are "at" the second team. The American Broadcasting Company (ABC), CBS, FOX, NBC, ESPN, ESPN2, SEC Network, Big Ten Network (BTN), Peacock and The CW carry them. SEC is the Southeastern Conference.
+ESPN and FBSchedules list the same games and times, all ET. Rankings are the Associated Press (AP) Top 25 of Oct. 25, 2026, as shown on ESPN. Neutral-site games are marked "vs."; the others are "at" the second team. The American Broadcasting Company (ABC), CBS, FOX, NBC, ESPN, ESPN2, Southeastern Conference (SEC) Network, Big Ten Network (BTN), Peacock and The CW carry them. SEC is the Southeastern Conference.
 
 | Kickoff (ET) | TV | Game |
 |---|---|---|
 | 12:00 p.m. | ABC | (5) Notre Dame vs. Navy, Foxborough, Mass. |
 | 12:00 p.m. | ESPN | (22) Arizona at (13) Texas Tech |
-| 12:00 p.m. | ESPN2 | (19) SMU at Syracuse |
+| 12:00 p.m. | ESPN2 | (19) Southern Methodist University (SMU) at Syracuse |
 | 12:00 p.m. | FOX | (25) Wisconsin at Iowa |
 | 12:45 p.m. | SEC Network | Auburn at (12) Ole Miss |
 | 3:30 p.m. | ABC | (17) Florida vs. (3) Georgia, Atlanta |
 | 3:30 p.m. | CBS | Minnesota at (4) Indiana |
-| 3:30 p.m. | FOX | Arizona State at (8) BYU |
+| 3:30 p.m. | FOX | Arizona State at (8) Brigham Young University (BYU) |
 | 3:30 p.m. | Peacock | (20) Northwestern at Oregon |
 | 3:45 p.m. | ESPN | (6) Utah at Cincinnati |
 | 3:45 p.m. | ESPN2 | Virginia at (14) Wake Forest |
-| 4:15 p.m. | BTN | Nevada at (7) UCLA, Rose Bowl, Pasadena |
+| 4:15 p.m. | BTN | Nevada at (7) University of California, Los Angeles (UCLA), Rose Bowl, Pasadena |
 | 7:00 p.m. | FOX | (24) Oklahoma State at Iowa State |
 | 7:30 p.m. | ABC | (1) Miami at North Carolina |
-| 7:30 p.m. | NBC | (2) Ohio State at USC |
+| 7:30 p.m. | NBC | (2) Ohio State at University of Southern California (USC) |
 | 7:30 p.m. | ESPN | Mississippi State at (11) Texas |
 | 7:45 p.m. | SEC Network | (23) Missouri at Arkansas |
 | 10:00 p.m. | The CW | Texas State at (20) Boise State |
 
-Miami's own schedule confirms Miami at North Carolina at 7:30 p.m. ET in Chapel Hill. Alabama, Kentucky, LSU, Tennessee and Houston do not play on Oct. 31, according to ESPN's schedule. No ranked team plays Thursday, Oct. 29 or Friday, Oct. 30.
+Miami's own schedule confirms Miami at North Carolina at 7:30 p.m. ET in Chapel Hill. Alabama, Kentucky, Louisiana State University (LSU), Tennessee and Houston do not play on Oct. 31, according to ESPN's schedule. No ranked team plays Thursday, Oct. 29 or Friday, Oct. 30.
 
 ## What time is each window in my time zone?
 
@@ -161,7 +161,7 @@ Texas State at Boise State kicks off at 10 p.m. ET on The CW, so it ends after m
 
 ## Is there a printable pick'em sheet for Week 10?
 
-Yes. The one-page sheet lists all 18 games in kickoff order with the network, a blank for your pick and one for the score, plus a tiebreaker line for total points in Ohio State at USC. Keep it beside the [November 2026 printable calendar](/november-calendars.html) or a [printable weekly calendar](/printable-weekly-calendar.html).
+Yes. The one-page sheet lists all 18 games in kickoff order with the network, a blank for your pick and one for the score, plus a tiebreaker line for total points in Ohio State at University of Southern California (USC). Keep it beside the [November 2026 printable calendar](/november-calendars.html) or a [printable weekly calendar](/printable-weekly-calendar.html).
 
 ## What comes after Week 10?
 

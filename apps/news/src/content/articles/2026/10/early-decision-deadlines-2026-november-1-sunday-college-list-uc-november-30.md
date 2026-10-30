@@ -163,7 +163,7 @@ All dates come from each college's own admissions page, checked Oct. 30, 2026.
 | Duke | Early Decision | Mon., Nov. 2 | Mid-December | Mon., Jan. 4, 2027 |
 | UC | Single application | Nov. 1 to 30 (filing period) | March | Not applicable |
 
-Regular Decision (RD) is MIT's "Regular Action" and Harvard's regular round. Weekdays are computed from the calendar. Where the table gives no time, the page we checked did not state one.
+Regular Decision (RD) is Massachusetts Institute of Technology (MIT)'s "Regular Action" and Harvard's regular round. Weekdays are computed from the calendar. Where the table gives no time, the page we checked did not state one.
 
 ## Why is Duke's deadline Nov. 2?
 
@@ -191,8 +191,8 @@ Yes. Daylight Saving Time (DST) ends at 2 a.m. on Sunday, Nov. 1, 2026, and cloc
 
 ## What could not be confirmed?
 
-We could not check the admissions sites of Princeton, Columbia, Northwestern, Michigan, NYU, UVA, Dartmouth, UChicago and Stanford, or the California State University dates, so no dates for them appear here. Confirm those on each college's site.
+We could not check the admissions sites of Princeton, Columbia, Northwestern, Michigan, New York University (NYU), University of Virginia (UVA), Dartmouth, UChicago and Stanford, or the California State University dates, so no dates for them appear here. Confirm those on each college's site.
 
 ## Plan the week
 
-Test dates and aid forms sit alongside these deadlines. See the [SAT and ACT test dates for 2026-27](/news/sat-act-test-dates-2026-27-registration-deadlines/) and the [FAFSA 2027-28 deadlines](/news/fafsa-2027-28-open-now-deadlines-tax-year/). Mark the days on our [November 2026 printable calendar](/november-calendars.html) or the [printable school calendar](/printable-school-calendar.html), and print the one-page tracker below.
+Test dates and aid forms sit alongside these deadlines. See the [SAT and ACT test dates for 2026-27](/news/sat-act-test-dates-2026-27-registration-deadlines/) and the [Free Application for Federal Student Aid (FAFSA) 2027-28 deadlines](/news/fafsa-2027-28-open-now-deadlines-tax-year/). Mark the days on our [November 2026 printable calendar](/november-calendars.html) or the [printable school calendar](/printable-school-calendar.html), and print the one-page tracker below.
