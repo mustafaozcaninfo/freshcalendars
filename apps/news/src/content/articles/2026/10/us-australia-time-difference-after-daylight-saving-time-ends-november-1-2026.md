@@ -81,7 +81,7 @@ internalLinks:
     label: "November 2026 printable calendar"
   - href: "/printable-weekly-calendar.html"
     label: "Printable weekly calendar"
-related: [mexico-time-difference-after-november-1-2026-us-clocks-fall-back, daylight-saving-time-ends-november-1-2026, uk-europe-clocks-go-back-october-25-2026-time-difference]
+related: [mexico-time-difference-after-november-1-2026-us-clocks-fall-back, daylight-saving-time-ends-november-1-2026, us-india-time-difference-after-november-1-2026-ist-10-5-hours]
 downloads:
   - group: "US-Australia Time Difference printables"
     title: "US-Australia Time Difference, Oct. 2026 to April 2027"

@@ -72,7 +72,7 @@ internalLinks:
     label: "When does daylight saving time end?"
   - href: "/november-calendars.html"
     label: "November 2026 printable calendar"
-related: [daylight-saving-time-ends-november-1-2026, canada-clocks-fall-back-november-1-2026-which-provinces-no-time-change, mexico-city-grand-prix-2026-schedule-race-time-by-time-zone]
+related: [daylight-saving-time-ends-november-1-2026, canada-clocks-fall-back-november-1-2026-which-provinces-no-time-change, us-india-time-difference-after-november-1-2026-ist-10-5-hours]
 downloads:
   - group: "US-Mexico Time Difference printables"
     title: "US-Mexico Time Difference, Before and After Nov. 1, 2026"
