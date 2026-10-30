@@ -1,0 +1,8 @@
+#!/usr/bin/env bash
+# Runs before every push (core.hooksPath=.githooks, set by `pnpm install`). Checks only the
+# stories this push changes, in about a second, so an unexpanded abbreviation (08-ABBREV) fails
+# here instead of turning CI red and holding back every later publish. Skip once: git push --no-verify
+set -euo pipefail
+cd "$(git rev-parse --show-toplevel)"
+command -v node >/dev/null || exit 0
+node scripts/news-abbrev-check.mjs

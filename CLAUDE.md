@@ -27,6 +27,7 @@ pnpm test                    # unit tests
 pnpm news:build              # builds dist/news; schema errors in frontmatter fail here
 pnpm news:verify             # links, H1, orphans, build leftovers
 pnpm news:seo-audit          # SEO and writing rules (all checks must PASS)
+pnpm news:abbrev             # 1-second abbreviation check on changed stories, no build (also runs as the pre-push hook)
 pnpm news:puzzle-check       # daily puzzle pages vs the saved official NYT data (CI runs it)
 pnpm news:puzzle-data <date> # save official puzzle data before writing a puzzle page
 pnpm news:serve              # preview on http://localhost:4324/news/ (pass a port to change it)

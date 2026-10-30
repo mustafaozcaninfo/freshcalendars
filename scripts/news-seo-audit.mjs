@@ -8,6 +8,7 @@ import { existsSync, readFileSync, readdirSync, statSync } from "node:fs";
 import path from "node:path";
 import { fileURLToPath } from "node:url";
 import { loadPuzzle, puzzleOf } from "../apps/news/src/lib/puzzles.mjs";
+import { unexpandedAbbrevs } from "./lib/abbrev.mjs";
 
 const ROOT = path.resolve(path.dirname(fileURLToPath(import.meta.url)), "..");
 const dist = path.resolve(process.argv[2] ?? path.join(ROOT, "dist/news"));
@@ -378,7 +379,18 @@ warn("03-VELOCITY", "Busy publishing week: more than 150 stories in a 7-day wind
   for (let i = 0, j = 0; i < days.length; i++) { while (days[i] - days[j] > 7 * 864e5) j++; worst = Math.max(worst, i - j + 1); }
   return worst <= 150 ? [] : [`${worst} stories in the busiest 7 days`];
 });
-const proseOf = (h) => (h.match(/<div class="prose-news[^>]*>([\s\S]*?)<\/div>/)?.[1] ?? "");
+/** The story body up to its own closing </div>; a lazy match stopped at the first nested div and skipped most of some stories. */
+const proseOf = (h) => {
+  const start = h.search(/<div class="prose-news[^>]*>/);
+  if (start < 0) return "";
+  const open = h.indexOf(">", start) + 1;
+  let depth = 1;
+  for (const m of h.slice(open).matchAll(/<\/?div\b/g)) {
+    depth += m[0] === "<div" ? 1 : -1;
+    if (depth === 0) return h.slice(open, open + m.index);
+  }
+  return h.slice(open);
+};
 const plain = (s) => s.replace(/<[^>]+>/g, " ").replace(/&#39;|&apos;/g, "'").replace(/&amp;/g, "&").replace(/&[a-z#0-9]+;/g, " ").replace(/\s+/g, " ").trim();
 
 check("01-HEADING-ORDER", "Logical heading hierarchy, no skipped levels inside <main> (§01 l.315, §08 l.2601)", () =>
@@ -397,51 +409,8 @@ check("02-NOT-ONLY", "No 'not only … but also' chains (§02 B l.607)", () =>
   each(articleUrls, (u, h) => (/\bnot only\b[^.]{0,80}\bbut also\b/i.test(plain(proseOf(h))) ? "not only … but also" : null)));
 check("08-ABBREV", "Abbreviations defined on first use in article prose (§08 l.2331, l.2609)", () =>
   each(articleUrls, (u, h) => {
-    const text = plain((h.match(/<p class="news-lede[^>]*>([\s\S]*?)<\/p>/)?.[1] ?? "") + " " + proseOf(h));
-    // Abbreviations every US reader knows are exempt.
-    const COMMON = new Set(["US", "AXS", "U.S.", "UK", "EU", "ET", "AM", "PM", "TV", "NBC", "ID", "UTC", "NYSE", "SAT", "ACT", "EDM", "AARP", "AAA", "DST", "EST", "EDT", "CST", "CDT", "MST", "MDT", "PST", "PDT", "AKST", "AKDT", "GMT", "BST", "CET", "CEST", "COLA", "SSI", "II", "DC", "NASA", "IRS", "PDF", "PNG",
-      // Proper names written in capitals, not abbreviations.
-      "TIME", "GOV", "NORC", "LEGO", "PEAK", "IKEA", "H-E-B", "CVS", "UPS", "FOX", "ESPN", "ESPNU", "CBS",
-      // Album titles and an artist name styled in capitals (Premios Billboard winners).
-      "DINASTIA", "LUX", "MAG",
-      // Traffic-analytics company name and the REAL ID program name, proper nouns in capitals.
-      "INRIX", "REAL",
-      // Restaurant chain name with a capitalized word (Mission BBQ, Veterans Day deals).
-      "BBQ",
-      // Country name and brand names written in capitals (USA Network, IMAX theaters).
-      "USA", "IMAX",
-      // Words quoted as printed in capitals ("10-22-38 ASTORIA", the first xerographic copy).
-      "ASTORIA",
-      // Phone mnemonics (1-800-MEDICARE, 1-800-QUIT-NOW).
-      "MEDICARE", "QUIT-NOW",
-      // Text-message keywords as the agencies print them (SmokefreeTXT: QUIT, HELP; CDC: QUITNOW).
-      "QUIT", "QUITNOW", "HELP",
-      // Spreadsheet function names.
-      "WEEKNUM", "ISOWEEKNUM", "NYC", "USPS",
-      // IRS form suffixes (Form 1099-NEC, 1099-MISC).
-      "NEC", "MISC",
-      // Postal codes, as familiar as ID.
-      "ZIP",
-      // Show titles styled in capitals (Hulu November 2026 list: "MAO", "LOL Live with Comedian CP").
-      "MAO", "LOL",
-      // Arena names built on company names written in capitals (PPG Paints Arena, SAP Center).
-      "PPG", "SAP", "UBS",
-      // Broadcast call letters and a transit route name styled in capitals (WISN 12 News, WUWM, MCTS CONNECT 1).
-      "WISN", "WUWM", "CONNECT",
-      // More call letters (KWQC, WDIV, KTTC) and a promo code as the company prints it (Lime HEADCOUNT).
-      "KWQC", "WDIV", "KTTC", "HEADCOUNT"]);
-    const undefined_ = [];
-    const seen = new Set();
-    for (const m of text.matchAll(/\b([A-Z][A-Z-]{1,}[A-Z])\b/g)) {
-      const a = m[1]; if (seen.has(a) || COMMON.has(a)) continue; seen.add(a);
-      // Date-format patterns such as YYDDD or YYYY-DDD are not abbreviations.
-      if (/^[YMD-]+$/.test(a)) continue;
-      // A word spelled out letter by letter ("C-H-E-E-S-E", as quoted from a crossword clue) is not an abbreviation.
-      if (/^(?:[A-Z]-){2,}[A-Z]$/.test(a)) continue;
-      const at = m.index; const around = text.slice(Math.max(0, at - 120), at + a.length + 2);
-      if (!around.includes(`(${a})`) && !new RegExp(`\\(${a}\\)`).test(text.slice(0, at + a.length + 2))) undefined_.push(a);
-    }
-    return undefined_.length ? `not expanded on first use: ${undefined_.join(", ")}` : null;
+    const missing = unexpandedAbbrevs(plain((h.match(/<p class="news-lede[^>]*>([\s\S]*?)<\/p>/)?.[1] ?? "") + " " + proseOf(h)));
+    return missing.length ? `not expanded on first use: ${missing.join(", ")}` : null;
   }));
 check("02-BURSTINESS", "Sentence length varies (coefficient of variation ≥ 0.35) — no uniform rhythm (§02 B l.611, R043)", () =>
   each(articleUrls, (u, h) => {

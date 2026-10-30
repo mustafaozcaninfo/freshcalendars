@@ -4,6 +4,7 @@
   "type": "module",
   "packageManager": "pnpm@10.33.2",
   "scripts": {
+    "prepare": "git config core.hooksPath .githooks || true",
     "fc": "tsx packages/generator/src/cli.ts",
     "build": "tsx packages/generator/src/cli.ts build",
     "test": "tsx --test packages/generator/src/newsRules.test.ts packages/engine/src/resolve.test.ts packages/engine/src/content/editorial.test.ts packages/engine/src/content/holidayEditorial.test.ts packages/engine/src/holidays/holidays.test.ts apps/news/test/*.test.ts",
@@ -26,6 +27,7 @@
     "news:verify": "node scripts/news-verify.mjs",
     "news:deploy": "bash scripts/news-deploy.sh",
     "news:seo-audit": "node scripts/news-seo-audit.mjs",
+    "news:abbrev": "node scripts/news-abbrev-check.mjs",
     "news:puzzle-check": "node scripts/news-puzzle-check.mjs",
     "news:puzzle-data": "node scripts/news-puzzle-data.mjs",
     "news:index": "node scripts/index-submit.mjs"
