@@ -33,4 +33,4 @@ git -C "$SRC" checkout -q --force --detach origin/main
 chmod +x "$SRC/scripts/"*.sh
 
 { crontab -l 2>/dev/null | strip; echo "$MARKER"; echo "$LINE"; } | crontab -
-echo "server auto-publish installed: every 2 min, log /var/log/freshcalendars-autopublish.log"
+echo "server auto-publish installed: every minute (4 checks), log /var/log/freshcalendars-autopublish.log"
