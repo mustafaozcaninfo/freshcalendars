@@ -54,7 +54,7 @@ internalLinks:
     label: "January 2027 printable calendar"
   - href: "/printable-yearly-calendar.html"
     label: "Printable yearly calendar"
-related: [uk-budget-2026-date-wednesday-28-october-what-time, winter-fuel-payment-2026-dates-amounts-35000-threshold, cold-weather-payment-2026-27-dates-25-pounds-who-gets-it]
+related: [uk-budget-2026-date-wednesday-28-october-what-time, winter-fuel-payment-2026-dates-amounts-35000-threshold, lifelong-learning-entitlement-applications-open-january-2027-courses]
 assets:
   scene: time-change
   kicker: "Self Assessment 2025-26"

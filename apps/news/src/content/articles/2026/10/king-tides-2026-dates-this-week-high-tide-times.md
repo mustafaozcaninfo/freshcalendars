@@ -63,7 +63,7 @@ internalLinks:
     label: "November 2026 printable calendar"
   - href: "/december-calendars.html"
     label: "December 2026 printable calendar"
-related: [supermoon-2026-beaver-moon-cold-moon-geminids-solstice, hunters-moon-october-2026-full-moon-time, november-2026-meteor-showers-taurids-leonids]
+related: [supermoon-2026-beaver-moon-cold-moon-geminids-solstice, november-2026-meteor-showers-taurids-leonids, el-nino-update-november-12-noaa-winter-outlook-november-19-2026]
 assets:
   overlay: true
   kicker: "King Tides 2026 · Nov. 24-26"
