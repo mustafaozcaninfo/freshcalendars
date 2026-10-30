@@ -26,8 +26,12 @@ POLL_GAP="${FC_AUTOPUBLISH_POLL_GAP:-15}" # seconds between them
 # A prebuilt dist/news is used only this long; after that a publish builds again, so the 48-hour
 # news sitemap window and other time-based output never go stale.
 PREBUILD_MAX_AGE=900
-# Paths that only change content; anything else needs the full sync (and the full CI gate).
+# Paths that only change content; a commit of only these syncs three folders and rebuilds.
 CONTENT_RE='^apps/news/(src/content/|src/assets/|public/|src/lib/keydates\.ts$)'
+# Paths the published site never reads: docs, agent skills, CI and the local checks and audits.
+# A commit of only these (and content-free) syncs the app directory and publishes nothing, instead
+# of a three-minute rebuild that changes no file. Anything not listed counts as code.
+NEUTRAL_RE='^(docs/|\.claude/|\.github/|\.githooks/|apps/news/test/|[^/]+\.md$|scripts/lib/(abbrev|pdf-print|story-patterns)\.mjs$|scripts/(news-seo-audit|news-abbrev-check|ci-scope|news-puzzle-check|news-puzzle-data|news-lighthouse|news-serve|news-parity-verify|smoke[^/]*|check-css-minify|concept-qa|design-[^/]*|diagnose-cls|download-smoke|feature-[^/]*|inner-pages-qa|measure-cls|qa-images|scan-layout|studio-lcp|surface-[^/]*|install-[^/]*|news-autopublish|news-deploy|sync-news-baseline|upsert-cron-notify)\.(mjs|sh|py)$)'
 mkdir -p "$STATE"
 
 log() { echo "$(date "+%Y-%m-%dT%H:%M:%S%z") $*"; }
@@ -45,13 +49,17 @@ load_runs() {
 # "completed success", "completed failure", "in_progress ", ... or "none" when CI never ran on it.
 ci_of() { jq -r --arg s "$1" '([.[] | select(.sha == $s)][0].s) // "none"' <<<"$RUNS"; }
 
-# content when every file that differs between two commits is content, full otherwise.
+# What the files that differ between two commits need: full (any code), content (stories and
+# their assets), or none (only neutral files: nothing published changes).
 sync_mode() { # <from> <to>
-  local files
+  local files rest
   [[ -n "$1" ]] && git -C "$SRC" cat-file -e "$1" 2>/dev/null || { echo full; return; }
-  # Read the list first: `grep -q` exits early and pipefail would turn that into "no match".
+  # Read the lists first: `grep -q` exits early and pipefail would turn that into "no match".
   files="$(git -C "$SRC" diff --name-only "$1" "$2")"
-  if grep -vE "$CONTENT_RE" <<<"$files" | grep -q .; then echo full; else echo content; fi
+  rest="$(grep -vE "$NEUTRAL_RE" <<<"$files" || true)"
+  if grep -vE "$CONTENT_RE" <<<"$rest" | grep -q .; then echo full
+  elif grep -q . <<<"$rest"; then echo content
+  else echo none; fi
 }
 
 # Copy commit $1 into the app directory unless it is there already.
@@ -62,7 +70,11 @@ sync_app() {
   git -C "$SRC" checkout -q --force --detach "$sha"
   git -C "$SRC" clean -fdq
   local R=(rsync -a --delete --exclude '.DS_Store')
-  if [[ "$mode" == "content" ]]; then
+  if [[ "$mode" == "none" ]]; then
+    # Neutral files only: nothing the build or the publish reads. Code folders are copied on the
+    # next full sync, which always copies them whole.
+    :
+  elif [[ "$mode" == "content" ]]; then
     # Same three folders as NEWS_CONTENT_ONLY=1 pnpm news:deploy.
     for d in src/content src/assets public; do "${R[@]}" "$SRC/apps/news/$d/" "$APP_DIR/apps/news/$d/"; done
     cp "$SRC/apps/news/src/lib/keydates.ts" "$APP_DIR/apps/news/src/lib/keydates.ts"  # stories add their dates here
@@ -84,8 +96,8 @@ sync_app() {
     chmod +x "$APP_DIR/scripts/"*.sh 2>/dev/null || true
   fi
   put app-sha "$sha"
-  # The app directory no longer matches what was built.
-  rm -f "$STATE/built-sha"
+  # The app directory no longer matches what was built (a neutral change leaves the build valid).
+  [[ "$mode" == "none" ]] && [[ "$(get built-sha)" == "$(get last-sha)" ]] && put built-sha "$sha" || rm -f "$STATE/built-sha"
 }
 
 # The publish job builds (unless told not to), verifies, syncs public_html, purges Cloudflare,
@@ -95,6 +107,13 @@ run_job() { FC_JOB=news-publish "$APP_DIR/scripts/server-cron.sh" 2>&1; }
 publish() { # <sha> <reason> [force-build]
   local sha="$1" reason="$2" start out skip=0 clock built
   start=$(date +%s)
+  # Only neutral files since the last publish: record it as published without building.
+  if [[ -z "${3:-}" && -n "$(get last-sha)" && "$(sync_mode "$(get last-sha)" "$sha")" == "none" ]]; then
+    sync_app "$sha"
+    put last-sha "$sha"; rm -f "$STATE/failed-sha"
+    log "main ${sha:0:7}: docs, skills or checks only; nothing to publish"
+    return 0
+  fi
   sync_app "$sha"
   clock="$start"
   built="$(get built-time)"
