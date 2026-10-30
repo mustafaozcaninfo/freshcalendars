@@ -102,6 +102,7 @@ export const KEY_DATES: KeyDate[] = [
   { date: "2026-10-31", label: "Halloween falls on a Saturday", slug: "halloween-2026-saturday-sunset-trick-or-treat-times" },
   { date: "2026-11-01", label: "Daylight saving time ends in the U.S.", slug: "daylight-saving-time-ends-november-1-2026" },
   { date: "2026-11-01", label: "ACA open enrollment for 2027 begins", slug: "aca-open-enrollment-2027-dates-november-1-january-15" },
+  { date: "2026-11-01", label: "Día de los Muertos begins: Día de los Angelitos", slug: "day-of-the-dead-2026-dia-de-los-muertos-dates" },
   { date: "2026-11-02", label: "Día de los Muertos", slug: "day-of-the-dead-2026-dia-de-los-muertos-dates" },
   { date: "2026-10-23", label: "Texas mail ballot applications due", slug: "texas-election-calendar-2026-early-voting-dates-deadlines" },
   { date: "2026-10-30", label: "Last day of early voting in Texas", slug: "texas-election-calendar-2026-early-voting-dates-deadlines" },
