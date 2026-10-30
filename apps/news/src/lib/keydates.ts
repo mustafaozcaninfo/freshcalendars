@@ -366,6 +366,11 @@ export const KEY_DATES: KeyDate[] = [
   { date: "2026-10-31", label: "NHL: 10 Halloween games, first puck drops 1:00 p.m. ET", slug: "nhl-games-today-october-31-2026-halloween" },
   { date: "2026-11-19", label: "Great American Smokeout (American Cancer Society)", slug: "great-american-smokeout-2026-november-19-quit-day-planner" },
   { date: "2026-11-19", label: "Beaujolais Nouveau 2026 release day", slug: "beaujolais-nouveau-day-2026-november-19-release-dates" },
+  { date: "2026-11-18", label: "Utqiagvik, Alaska: last sunset of 2026 at 1:42 p.m. AKST", slug: "utqiagvik-polar-night-2026-last-sunset-november-18-sun-returns-january-23" },
+  { date: "2027-01-23", label: "Utqiagvik, Alaska: sun returns at 1:03 p.m. AKST", slug: "utqiagvik-polar-night-2026-last-sunset-november-18-sun-returns-january-23" },
+  { date: "2026-11-24", label: "Davis Cup Final 8 opens in Bologna: Czechia v Canada, 10 a.m. ET", slug: "davis-cup-final-8-2026-bologna-schedule-time-zones-teams" },
+  { date: "2026-11-29", label: "Davis Cup final in Bologna, 9 a.m. ET", slug: "davis-cup-final-8-2026-bologna-schedule-time-zones-teams" },
+  { date: "2026-10-30", label: "Dexter: Resurrection Season 2 premieres on Paramount+ Premium", slug: "dexter-resurrection-season-2-release-schedule-episode-time-paramount-plus" },
 ];
 
 /** Today's date in Eastern Time as YYYY-MM-DD. */
