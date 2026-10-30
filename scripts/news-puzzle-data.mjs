@@ -8,14 +8,15 @@
  *        (the Mini is served for past days and today, and for tomorrow from about 10 p.m. ET; never further ahead;
  *        Letter Boxed about two days ahead)
  *        node scripts/news-puzzle-data.mjs --pages     (every puzzle page in the repo that has no data yet)
+ *        node scripts/news-puzzle-data.mjs --wordle-history   (every past Wordle answer, for the used-word checker)
  *
  * Requests go through curl, which honors HTTPS_PROXY. A date NYT has not published returns a
  * "not found" body; it is reported and skipped, never saved.
  */
 import { execFileSync } from "node:child_process";
-import { existsSync, mkdirSync, readdirSync, writeFileSync } from "node:fs";
+import { existsSync, mkdirSync, readFileSync, readdirSync, writeFileSync } from "node:fs";
 import path from "node:path";
-import { GAMES, addDays, dataPath, puzzleOf } from "../apps/news/src/lib/puzzles.mjs";
+import { GAMES, PUZZLE_DIR, addDays, dataPath, puzzleOf } from "../apps/news/src/lib/puzzles.mjs";
 
 const URL = {
   wordle: (d) => `https://www.nytimes.com/svc/wordle/v2/${d}.json`,
@@ -73,6 +74,28 @@ const force = args.includes("--force");
 const gi = args.indexOf("--games");
 const games = gi >= 0 ? args[gi + 1].split(",") : Object.keys(GAMES);
 for (const g of games) if (!URL[g]) { console.error(`unknown game "${g}"; one of ${Object.keys(URL).join(", ")}`); process.exit(2); }
+
+/**
+ * Every Wordle answer from #0 (June 19, 2021) through yesterday in America/New_York, in puzzle order,
+ * so the index is the puzzle number. Only missing days are fetched; each must answer with its own
+ * date and number. The build shows a day only once it has passed (puzzle-boards.mjs).
+ */
+if (args.includes("--wordle-history")) {
+  const out = path.join(PUZZLE_DIR, "wordle-history.json");
+  const h = existsSync(out) ? JSON.parse(readFileSync(out, "utf8")) : { first: "2021-06-19", answers: [] };
+  const today = new Intl.DateTimeFormat("en-CA", { timeZone: "America/New_York" }).format(new Date());
+  let added = 0;
+  for (let d = addDays(h.first, h.answers.length); d < today; d = addDays(d, 1)) {
+    const j = get(URL.wordle(d));
+    if (!j || j.print_date !== d || j.days_since_launch !== h.answers.length) { console.error(`${d}: unexpected answer, stopping (${JSON.stringify(j)?.slice(0, 120)})`); break; }
+    h.answers.push(j.solution.toUpperCase());
+    added++;
+    if (added % 100 === 0) console.log(`${d} #${j.days_since_launch}`);
+  }
+  writeFileSync(out, `{\n "first": "${h.first}",\n "answers": ${JSON.stringify(h.answers)}\n}\n`);
+  console.log(`${added} added, ${h.answers.length} answers through ${addDays(h.first, h.answers.length - 1)}`);
+  process.exit(0);
+}
 
 const jobs = [];
 if (args.includes("--pages")) {

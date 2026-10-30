@@ -27,9 +27,17 @@ The build adds the shortcut bar, the tap-to-reveal hints and the boards (`apps/n
 | Pips | each board (Easy, Medium, Hard) with colored regions, condition badges and every domino with its pips | under each level's placements |
 | Spelling Bee | the honeycomb of the day's letters (no answers) | in the hint grid section |
 | Mini Crossword | the filled grid with clue numbers | under the answer table |
-| Letter Boxed | no board yet; shortcut bar and tap-to-reveal hints only | |
+| Letter Boxed | the box with the Times' solution traced, then every other two-word solution in the puzzle's word list (count and the 10 shortest) | under the route table |
 
-What we add that most results lack: the drawn solved boards, Pips placements checked cell by cell, trap explanations for Connections, the Spelling Bee hint grid with points and Genius, and yesterday's solution on the same page. Keep adding: a fact others missed (a repeated Wordle answer, a double letter, a rare pangram) belongs in the summary.
+The build also adds, from the saved data:
+
+- **Yesterday's answer** as the last section (`Yesterday's <Game> answer`) for Wordle, Connections, Strands, Letter Boxed and the Mini, with a link to yesterday's page once it is live. Do not write that section by hand. Spelling Bee pages keep their own yesterday section; Pips links yesterday's page in the shortcut bar.
+- **Spelling Bee found-words tracker** under the honeycomb: the reader types the words they found, sees words, points, the Genius gap and what is left by first two letters; saved on their device for that date.
+- **Wordle used-word checker** above the spoiler: every past answer from `apps/news/src/content/puzzles/wordle-history.json` plus the daily data files, never the day of the build or later. `node scripts/news-puzzle-data.mjs --wordle-history` tops the history up (optional; the daily files fill the gap).
+
+Both tools start hidden and are switched on by the story page's script (`apps/news/src/pages/[slug]/index.astro`), so the page reads the same without JavaScript.
+
+What we add that most results lack: the drawn solved boards, Pips placements checked cell by cell, trap explanations for Connections, the Spelling Bee hint grid with points and Genius and its found-words tracker, the Wordle used-word checker, every two-word Letter Boxed solution, and yesterday's solution on the same page. Connections: Sports Edition readers often do not know the names: after its answers, add one line per group saying who or what each entry is ("quarterbacks who won a Super Bowl with the Rams"), using only facts confirmed on a league, team or other authoritative page. No competitor does this. Keep adding: a fact others missed (a repeated Wordle answer, a double letter, a rare pangram) belongs in the summary.
 
 Two scheduled routines run this workflow every day (`docs/PUZZLE-ROUTINES.md`): official-data games at 10:23 p.m. ET, published-solution games at 7:17 a.m. ET. A hand-run session should check open pull requests first so it does not write the same dates.
 

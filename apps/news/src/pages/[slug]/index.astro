@@ -521,6 +521,65 @@ const keyDates = upcomingFor(new Set([article.id]));
         for (const s of [what, paper, ink]) s.addEventListener("change", run);
         run(); show(pp);
       }
+
+      // Spelling Bee tracker (src/lib/puzzle-boards.mjs): checks each typed word against the day's
+      // list, keeps the score and saves the found words on this device for this puzzle date only.
+      const bt = document.querySelector("[data-bee-tracker]");
+      if (bt) {
+        const words = bt.dataset.words.split(" "), pang = new Set(bt.dataset.pangrams.split(" "));
+        const genius = +bt.dataset.genius, total = +bt.dataset.total, key = "fc-bee-" + bt.dataset.date;
+        const pts = (w) => (w.length === 4 ? 1 : w.length) + (pang.has(w) ? 7 : 0);
+        let found = [];
+        try { found = JSON.parse(localStorage.getItem(key) || "[]").filter((w) => words.includes(w)); } catch {}
+        const input = bt.querySelector("input"), out = bt.querySelector(".tool-out");
+        const save = () => { try { localStorage.setItem(key, JSON.stringify(found)); } catch {} };
+        const render = (msg) => {
+          const score = found.reduce((s, w) => s + pts(w), 0);
+          const left = words.filter((w) => !found.includes(w));
+          const status = left.length === 0 ? "You found every word." : score >= genius ? "You reached Genius (" + genius + " points)." : "Genius needs " + genius + " points: " + (genius - score) + " to go.";
+          const by = {};
+          for (const w of left) by[w.slice(0, 2)] = (by[w.slice(0, 2)] || 0) + 1;
+          const p = (t, cls) => Object.assign(document.createElement("p"), { textContent: t, className: cls || "" });
+          out.replaceChildren(...[
+            msg && p(msg),
+            p(found.length + " of " + words.length + " words, " + score + " of " + total + " points. " + status),
+            found.length ? p("Your words: " + [...found].sort().map((w) => w[0] + w.slice(1).toLowerCase()).join(", ")) : null,
+            left.length ? p("Still to find, by first two letters: " + Object.keys(by).sort().map((k) => k[0] + k[1].toLowerCase() + " " + by[k]).join(" · "), "tool-note") : null,
+          ].filter(Boolean));
+        };
+        bt.addEventListener("submit", (e) => {
+          e.preventDefault();
+          const w = input.value.toUpperCase().replace(/[^A-Z]/g, "");
+          input.value = "";
+          if (!w) return render();
+          const nice = w[0] + w.slice(1).toLowerCase();
+          if (found.includes(w)) return render(nice + " is already on your list.");
+          if (!words.includes(w)) return render(nice + " is not in today's word list.");
+          found.push(w); save();
+          render(nice + " added, " + pts(w) + (pts(w) === 1 ? " point" : " points") + (pang.has(w) ? ". That is a pangram!" : "."));
+        });
+        bt.querySelector("[data-bee-reset]").addEventListener("click", () => { found = []; save(); render("Your list is cleared."); });
+        render(); show(bt);
+      }
+
+      // Wordle used-word checker: every past answer in puzzle order, so a word's index is its number.
+      const wc = document.querySelector("[data-wordle-check]");
+      if (wc) {
+        const answers = wc.dataset.answers.split(" "), first = wc.dataset.first;
+        const input = wc.querySelector("input"), out = wc.querySelector(".tool-out");
+        const dateOf = (n) => new Date(Date.parse(first + "T12:00:00Z") + n * 864e5).toISOString().slice(0, 10);
+        wc.addEventListener("submit", (e) => {
+          e.preventDefault();
+          const w = input.value.toUpperCase().replace(/[^A-Z]/g, ""), nice = w && w[0] + w.slice(1).toLowerCase();
+          if (w.length !== 5) { out.replaceChildren(Object.assign(document.createElement("p"), { textContent: "Enter a five-letter word." })); return; }
+          const hits = answers.flatMap((a, i) => (a === w ? [i] : []));
+          const t = hits.length
+            ? nice + " was the answer " + (hits.length === 1 ? "once" : hits.length + " times") + ": " + hits.map((i) => "#" + i + " on " + apDate(dateOf(i)) + ", " + dateOf(i).slice(0, 4)).join("; ") + "."
+            : nice + " has not been the answer in Wordle #0 to #" + (answers.length - 1) + ".";
+          out.replaceChildren(Object.assign(document.createElement("p"), { textContent: t }));
+        });
+        show(wc);
+      }
     })();
   </script>
 </NewsBase>
@@ -631,6 +690,14 @@ const keyDates = upcomingFor(new Set([article.id]));
   .prose-news :global(.pz-strands .pz-svg){max-width:340px}
   .prose-news :global(.pz-svg.pz-hive){max-width:220px}
   .prose-news :global(.pz-svg.pz-mini){max-width:320px}
+  .prose-news :global(.pz-svg.pz-lbox){max-width:340px}
+  .prose-news :global(.pz-track label){font-weight:400}
+  .prose-news :global(.pz-track-row){display:flex;flex-wrap:wrap;gap:.5rem;margin:0 0 .6rem}
+  .prose-news :global(.pz-track input){flex:1 1 10rem;min-height:48px;font:inherit;font-size:1.1rem;padding:.4rem .75rem;border:1px solid #a6b6aa;border-radius:8px;background:#fff;color:var(--ink-strong);text-transform:uppercase;letter-spacing:.06em}
+  .prose-news :global(.pz-track button){min-height:48px;padding:0 1.1rem;font:700 1rem/1 "Source Sans 3","Source Sans 3 Fallback",sans-serif;color:#fff;background:var(--focus);border:0;border-radius:8px;cursor:pointer}
+  .prose-news :global(.pz-track-tools button){min-height:44px;margin-top:.6rem;color:var(--focus);background:var(--paper);border:1px solid var(--focus)}
+  .prose-news :global(.pz-track input:focus-visible),.prose-news :global(.pz-track button:focus-visible){outline:3px solid var(--focus);outline-offset:2px}
+  .prose-news :global(.pz-track[hidden]){display:none}
   .article :global(section h2),.article :global(aside h2){font-family:Sora,"Sora Fallback",sans-serif;color:var(--ink-strong)}
   .article :global(section){margin:2rem 0}
   .progress{position:fixed;left:0;right:0;top:0;height:4px;z-index:70;pointer-events:none}

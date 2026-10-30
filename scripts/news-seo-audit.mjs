@@ -7,7 +7,7 @@
 import { existsSync, readFileSync, readdirSync, statSync } from "node:fs";
 import path from "node:path";
 import { fileURLToPath } from "node:url";
-import { loadPuzzle, puzzleOf } from "../apps/news/src/lib/puzzles.mjs";
+import { addDays, loadPuzzle, puzzleOf } from "../apps/news/src/lib/puzzles.mjs";
 
 const ROOT = path.resolve(path.dirname(fileURLToPath(import.meta.url)), "..");
 const dist = path.resolve(process.argv[2] ?? path.join(ROOT, "dist/news"));
@@ -201,12 +201,18 @@ const words = (u) => mainText(html[u]).toLowerCase();
  */
 const officialText = (u) => {
   const p = puzzleOf(u.split("/").filter(Boolean).at(-1) ?? "");
-  const d = p && loadPuzzle(p.game, p.date);
-  if (!d) return [];
-  if (p.game === "connections") return d.categories.flatMap((c) => [c.title, ...c.cards.map((x) => x.content)]).map((s) => s.toLowerCase());
-  if (p.game === "mini") return d.clues.map((c) => c.text.toLowerCase());
-  if (p.game === "strands") return [d.clue.toLowerCase()];
-  return [];
+  if (!p) return [];
+  // The build prints yesterday's answers too (puzzle-boards.mjs), so its words count as quoted.
+  return [p.date, addDays(p.date, -1)].flatMap((date) => {
+    const d = loadPuzzle(p.game, date);
+    if (!d) return [];
+    if (p.game === "connections") return d.categories.flatMap((c) => [c.title, ...c.cards.map((x) => x.content)]);
+    if (p.game === "mini") return [...d.clues.map((c) => c.text), ...d.clues.map((c) => c.cells.map((i) => d.cells[i]).join(""))];
+    if (p.game === "strands") return [d.clue, d.spangram, ...d.themeWords];
+    if (p.game === "wordle") return [d.solution];
+    if (p.game === "letterboxed") return d.ourSolution;
+    return [];
+  }).map((s) => s.toLowerCase());
 };
 // Only the quoted form is skipped: capitalized as the puzzle prints it ("Cutting-Edge"), never the
 // same words in lowercase running text, which is ours.
