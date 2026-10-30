@@ -574,7 +574,7 @@ const keyDates = upcomingFor(new Set([article.id]));
           if (w.length !== 5) { out.replaceChildren(Object.assign(document.createElement("p"), { textContent: "Enter a five-letter word." })); return; }
           const hits = answers.flatMap((a, i) => (a === w ? [i] : []));
           const t = hits.length
-            ? nice + " was the answer " + (hits.length === 1 ? "once" : hits.length + " times") + ": " + hits.map((i) => "#" + i + " on " + apDate(dateOf(i)) + ", " + dateOf(i).slice(0, 4)).join("; ") + "."
+            ? nice + " was the answer " + (hits.length === 1 ? "once" : hits.length === 2 ? "twice" : hits.length + " times") + ": " + hits.map((i) => "#" + i + " on " + apDate(dateOf(i)) + ", " + dateOf(i).slice(0, 4)).join("; ") + "."
             : nice + " has not been the answer in Wordle #0 to #" + (answers.length - 1) + ".";
           out.replaceChildren(Object.assign(document.createElement("p"), { textContent: t }));
         });
