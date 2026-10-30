@@ -12,6 +12,14 @@ export interface KeyDate {
 }
 
 export const KEY_DATES: KeyDate[] = [
+  { date: "2026-11-06", label: "Royal Agricultural Winter Fair opens at Exhibition Place, Toronto (to Nov. 15)", slug: "royal-agricultural-winter-fair-2026-dates-hours-horse-show-toronto" },
+  { date: "2026-11-12", label: "Distillery Winter Village opens in Toronto, tree lighting 6 p.m.", slug: "canada-christmas-markets-2026-dates-toronto-montreal-vancouver-quebec-ottawa" },
+  { date: "2026-11-16", label: "Vancouver Christmas Market opens at Jack Poole Plaza", slug: "canada-christmas-markets-2026-dates-toronto-montreal-vancouver-quebec-ottawa" },
+  { date: "2026-11-14", label: "Edinburgh's Christmas opens (to Jan. 3, 2027)", slug: "edinburghs-christmas-2026-dates-big-wheel-hogmanay-torchlight" },
+  { date: "2026-12-29", label: "Edinburgh's Hogmanay Torchlight Procession, 6:30 p.m. GMT", slug: "edinburghs-christmas-2026-dates-big-wheel-hogmanay-torchlight" },
+  { date: "2026-12-18", label: "Royal Mail last recommended posting date for 2nd Class", slug: "royal-mail-last-posting-dates-christmas-2026-second-class-18-december" },
+  { date: "2026-12-21", label: "Royal Mail last recommended posting date for 1st Class and Tracked 24", slug: "royal-mail-last-posting-dates-christmas-2026-second-class-18-december" },
+  { date: "2026-12-23", label: "Royal Mail last recommended posting date for Special Delivery Guaranteed", slug: "royal-mail-last-posting-dates-christmas-2026-second-class-18-december" },
   { date: "2026-11-01", label: "Early Decision and Early Action deadline at Harvard, Yale, MIT, Penn, Brown and others", slug: "early-decision-deadlines-2026-november-1-sunday-college-list-uc-november-30" },
   { date: "2026-11-02", label: "Duke Early Decision deadline", slug: "early-decision-deadlines-2026-november-1-sunday-college-list-uc-november-30" },
   { date: "2026-11-30", label: "University of California fall 2027 application filing period ends", slug: "early-decision-deadlines-2026-november-1-sunday-college-list-uc-november-30" },
