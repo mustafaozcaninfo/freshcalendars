@@ -4,6 +4,7 @@ seoTitle: "Narnia Release Date: Feb. 12, 2027 in Theaters"
 description: "Netflix says Greta Gerwig's Narnia: The Magician's Nephew opens in theaters Feb. 12, 2027, with IMAX previews Feb. 10, then streams April 2. Free planner."
 type: news
 publishedAt: "2026-10-29T23:45:00-04:00"
+updatedAt: "2026-10-30T15:27:00-04:00"
 authors: [jordan-bennett]
 category: entertainment
 keywords: ["narnia release date", "narnia the magician's nephew release date", "greta gerwig narnia netflix date", "narnia imax tickets"]
@@ -19,7 +20,7 @@ assets:
     subtitle: "Key dates for The Magician's Nephew, from IMAX previews to Netflix"
     layout: list
     rows:
-      - ["Oct. 13, 2026", "First trailer released (reported by NarniaWeb)"]
+      - ["Oct. 13, 2026", "First trailer released (reported by AP and ABC News)"]
       - ["Wed., Feb. 10, 2027", "IMAX-only sneak previews begin"]
       - ["Fri., Feb. 12, 2027", "In theaters, including IMAX"]
       - ["Sun., Feb. 14, 2027", "Valentine's Day"]
@@ -28,7 +29,7 @@ assets:
       - ["Tickets bought", "Date: ________  Theater: ________________"]
       - ["Showtime", "Time: ________  Who is coming: ________________"]
       - ["Read the book by", "Date: ________  The Magician's Nephew, C.S. Lewis"]
-    note: "Source: Netflix Tudum, Oct. 15, 2026; trailer date reported by NarniaWeb, Oct. 2026."
+    note: "Source: Netflix Tudum, Oct. 15, 2026; trailer date reported by The Associated Press and ABC News, Oct. 13, 2026."
     inkSaver: true
     description: "One-page countdown for Narnia: The Magician's Nephew with the Feb. 10 IMAX previews, Feb. 12, 2027 theatrical release, Netflix on April 2 and blanks for tickets and showtime."
     alt: "Printable Narnia countdown and family movie planner with the Feb. 10, Feb. 12 and April 2, 2027 dates and blanks for tickets, showtime and reading the book"
@@ -64,17 +65,21 @@ sources:
     url: "https://www.netflix.com/tudum/articles/narnia-release-date"
     publisher: "Netflix Tudum"
     date: "2026-10-15"
-  - title: "Greta Gerwig's Narnia moved to 2027 for full theatrical release"
-    url: "https://www.narniaweb.com/2026/05/greta-gerwigs-narnia-moved-to-2027-for-full-theatrical-release/"
-    publisher: "NarniaWeb"
-    date: "2026-05-01"
-  - title: "Watch first trailer for Narnia: The Magician's Nephew"
-    url: "https://www.narniaweb.com/2026/10/watch-first-trailer-for-narnia-the-magicians-nephew/"
-    publisher: "NarniaWeb"
+  - title: "Greta Gerwig debuts first look at an epic, full-hearted 'Narnia' for Netflix, and the big screen"
+    url: "https://ny1.com/nyc/all-boroughs/ap-top-news/2026/10/13/greta-gerwig-debuts-first-look-at-an-epic-full-hearted-narnia-for-netflix----and-the-big-screen"
+    publisher: "The Associated Press (via Spectrum News NY1)"
     date: "2026-10-13"
-  - title: "The Magician's Nephew"
-    url: "https://en.wikipedia.org/wiki/The_Magician%27s_Nephew"
-    publisher: "Wikipedia"
+  - title: "Greta Gerwig's Narnia: The Magician's Nephew film adaptation gets trailer"
+    url: "https://www.goodmorningamerica.com/culture/story/greta-gerwigs-narnia-magicians-nephew-film-adaptation-gets-137238460"
+    publisher: "ABC News (Good Morning America)"
+    date: "2026-10-13"
+  - title: "Greta Gerwig's 'Narnia' Delayed to 2027"
+    url: "https://www.thewrap.com/creative-content/movies/narnia-greta-gerwig-netflix-delayed-2027/"
+    publisher: "TheWrap"
+    date: "2026-05-01"
+  - title: "Netflix Moves NARNIA to February 2027, Committing to Wide Release and Full Theatrical Window"
+    url: "https://www.boxofficepro.com/netflix-moves-narnia-to-february-2027-committing-to-wide-release-and-full-theatrical-window/"
+    publisher: "Boxoffice Pro"
 internalLinks:
   - href: "/february-calendars.html"
     label: "February 2027 printable calendar"
@@ -111,7 +116,7 @@ Tudum's article says: "Narnia: The Magician's Nephew will be released in theater
 
 | Milestone | Date | Source |
 |---|---|---|
-| First trailer | Tue., Oct. 13, 2026 | Reported by NarniaWeb and TV Insider |
+| First trailer | Tue., Oct. 13, 2026 | Reported by The Associated Press (AP) and ABC News |
 | IMAX-only sneak previews | Wed., Feb. 10, 2027 | Netflix Tudum |
 | In theaters | Fri., Feb. 12, 2027 | Netflix Tudum |
 | Netflix | Fri., April 2, 2027 | Netflix Tudum |
@@ -137,11 +142,11 @@ Sunday, Feb. 14, 2027 is Valentine's Day, and Monday, Feb. 15, 2027 is Washingto
 
 Netflix Tudum lists these cast members, without naming roles in the article: David McKenna, Beatrice Campbell, Emma Mackey, Carey Mulligan, Ciarán Hinds, Daniel Craig, Meryl Streep, Kobna Holdbrook-Smith, Denise Gough and Susan Wokoma. Tudum says Gerwig unveiled the first trailer at a sneak peek event in New York City.
 
-The film is based on The Magician's Nephew by C.S. Lewis, first published in 1955, according to Wikipedia. It was the sixth Narnia book published and is the first in story order.
+The film adapts C.S. Lewis's Narnia novel The Magician's Nephew, as TheWrap and Boxoffice Pro describe it.
 
 ## Did the Narnia release plan change?
 
-NarniaWeb reported in May 2026 that the film had earlier been planned for a two-week IMAX run at Thanksgiving 2026 before moving to a full theatrical release in 2027. That is NarniaWeb's report; the Tudum article gives only the current dates.
+Yes. TheWrap and Boxoffice Pro reported on May 1, 2026 that the film was first planned as an IMAX-only release over Thanksgiving weekend 2026, with Netflix to follow at Christmas. Netflix then moved it to a wide theatrical release on Feb. 12, 2027 with a full theatrical window before streaming.
 
 ## Print the Narnia countdown planner
 
@@ -151,4 +156,4 @@ For other Netflix titles, see the [Netflix movies for November 2026](/news/netfl
 
 ## How we keep this accurate
 
-The release dates come from Netflix Tudum, Oct. 15, 2026. The trailer date and earlier plan are reported by NarniaWeb and labeled that way. Dates can change, so check Netflix before you buy tickets.
+The release dates come from Netflix Tudum, Oct. 15, 2026. The trailer date comes from The Associated Press and ABC News, and the earlier Thanksgiving plan from TheWrap and Boxoffice Pro. Dates can change, so check Netflix before you buy tickets.

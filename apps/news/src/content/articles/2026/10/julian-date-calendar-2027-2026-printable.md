@@ -4,6 +4,7 @@ seoTitle: "Julian Date Calendar 2027: Free Printable PDF Charts"
 description: "Free printable Julian date calendars for 2027 and 2026: day-of-year charts, monthly pages, YYDDD code tables and astronomical Julian Day charts in PDF."
 type: explainer
 publishedAt: "2026-10-18T09:20:00-04:00"
+updatedAt: "2026-10-30T15:27:00-04:00"
 authors: [jordan-bennett]
 category: calendar-guides
 keywords: ["Julian date calendar 2027", "Julian date calendar 2026", "day of year calendar printable", "YYDDD date code", "Julian Day Number 2027"]
@@ -32,9 +33,9 @@ faq:
   - q: "Can I use these templates for free?"
     a: "Yes. All eight files are free to download and print, with no account or email required. See our terms of use for sharing and reuse."
 sources:
-  - title: "Julian day"
-    url: "https://en.wikipedia.org/wiki/Julian_day"
-    publisher: "Wikipedia"
+  - title: "Converting Between Julian Dates and Gregorian Calendar Dates"
+    url: "https://aa.usno.navy.mil/faq/JD_formula"
+    publisher: "U.S. Naval Observatory, Astronomical Applications Department"
   - title: "Julian Date Converter"
     url: "https://aa.usno.navy.mil/data/JulianDate"
     publisher: "U.S. Naval Observatory, Astronomical Applications Department"
@@ -47,9 +48,15 @@ sources:
   - title: "Defense Logistics Manual 4000.25, Volume 4"
     url: "https://www.dla.mil/Portals/104/Documents/DLMS/Manuals/DLM/V4/Volume4.pdf"
     publisher: "Defense Logistics Agency"
-  - title: "Ordinal date"
-    url: "https://en.wikipedia.org/wiki/Ordinal_date"
-    publisher: "Wikipedia"
+  - title: "A summary of the international standard date and time notation (ISO 8601)"
+    url: "https://fits.gsfc.nasa.gov/iso-time.html"
+    publisher: "NASA Goddard Space Flight Center, FITS Support Office"
+  - title: "xTime: A Date/Time Conversion Utility"
+    url: "https://heasarc.gsfc.nasa.gov/cgi-bin/Tools/xTime/xTime.pl"
+    publisher: "NASA Goddard Space Flight Center, HEASARC"
+  - title: "période julienne"
+    url: "https://vitrinelinguistique.oqlf.gouv.qc.ca/fiche-gdt/fiche/8874790/periode-julienne"
+    publisher: "Office québécois de la langue française, Government of Québec"
 internalLinks:
   - href: "/printable-yearly-calendar.html"
     label: "2027 printable yearly calendar"
@@ -189,7 +196,7 @@ Example: Oct. 18 is 273 + 18 = 291. Running the other way, 185 falls in July, be
 
 ## The astronomical Julian Day
 
-In 1583 the scholar Joseph Scaliger proposed the Julian Period, a 7,980-year cycle that combines three older calendar cycles of 28, 19 and 15 years. Day 0 of the count starts at noon Universal Time on Jan. 1, 4713 BC in the proleptic Julian calendar. Astronomers adopted it because a single running number makes it easy to measure the time between observations, no matter which calendar or month length applies.
+In 1583 the scholar Joseph Scaliger proposed the Julian Period, a 7,980-year cycle that combines three older calendar cycles of 28, 19 and 15 years (28 × 19 × 15 = 7,980). Day 0 of the count starts at noon Universal Time on Jan. 1, 4713 BC in the proleptic Julian calendar. Astronomers adopted it because a single running number makes it easy to measure the time between observations, no matter which calendar or month length applies.
 
 Each Julian Day begins at noon UT, not midnight. The U.S. Naval Observatory notes that 00:00 UT corresponds to a fraction of .5, so the night of Jan. 1, 2027 starts at JD 2461406.5 and noon that day is JD 2461407.0. Scientists often use the Modified Julian Date (MJD) instead, defined as MJD = JD − 2400000.5, which starts at midnight. Jan. 1, 2027 is MJD 61406.
 

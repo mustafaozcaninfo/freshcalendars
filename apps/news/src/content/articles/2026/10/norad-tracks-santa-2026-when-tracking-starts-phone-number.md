@@ -4,6 +4,7 @@ seoTitle: "NORAD Santa Tracker 2026: Hours by Time Zone, Phone"
 description: "North American Aerospace Defense Command (NORAD) has not set 2026 Santa hours. In 2025 calls ran 4 a.m. to midnight Mountain Standard Time (MST) Dec. 24."
 type: explainer
 publishedAt: "2026-10-28T18:00:00-04:00"
+updatedAt: "2026-10-30T15:27:00-04:00"
 authors: [alex-morgan]
 category: holidays
 keywords: ["NORAD Santa tracker 2026", "NORAD tracks Santa", "NORAD Santa phone number", "when does NORAD start tracking Santa", "NORAD tracks Santa hours"]
@@ -50,8 +51,8 @@ sources:
     publisher: "PBS NewsHour"
     date: "2025-12-24"
   - title: "NORAD Tracks Santa"
-    url: "https://en.wikipedia.org/wiki/NORAD_Tracks_Santa"
-    publisher: "Wikipedia"
+    url: "https://www.dvidshub.net/feature/noradtrackssanta"
+    publisher: "Defense Visual Information Distribution Service (DVIDS), NORAD"
 internalLinks:
   - href: "/december-calendars.html"
     label: "December 2026 printable calendar"
@@ -145,7 +146,7 @@ The release named Amazon Alexa, SiriusXM and OnStar among the contributors. The 
 
 ## How did NORAD start tracking Santa?
 
-It began with a phone call. Military Times reported that on Nov. 30, 1955, a call tied to a local Sears department store ad reached Air Force Col. Harry Shoup. It is unclear whether the number was misdialed or misprinted in the ad. Shoup answered the call, and Military Times names the Continental Air Defense Command as NORAD's predecessor. Wikipedia's article on the tradition says NORAD took it over in 1958.
+It began with a phone call. Military Times reported that on Nov. 30, 1955, a call tied to a local Sears department store ad reached Air Force Col. Harry Shoup. It is unclear whether the number was misdialed or misprinted in the ad. NORAD's own history page on DVIDS says the call reached the hotline of the Continental Air Defense Command (CONAD), where Shoup, the director of operations, had his staff check the radar for Santa. In 1958 the governments of Canada and the United States created NORAD, which carried the tradition on.
 
 NORAD's 2025 release called that year the 70th anniversary year of the tradition, and it named 2024 as the 69th year.
 

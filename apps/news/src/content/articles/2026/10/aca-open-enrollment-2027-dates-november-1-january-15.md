@@ -4,6 +4,7 @@ seoTitle: "ACA Open Enrollment 2027: Nov. 1 to Jan. 15 Dates"
 description: "HealthCare.gov open enrollment for 2027 plans runs Nov. 1, 2026 to Jan. 15, 2027. Enroll by Dec. 15 for Jan. 1 coverage. Why the window was not shortened."
 type: news
 publishedAt: "2026-10-19T10:20:00-04:00"
+updatedAt: "2026-10-30T15:25:00-04:00"
 authors: [alex-morgan]
 category: planning
 keywords: ["ACA open enrollment 2027", "Obamacare open enrollment 2026", "HealthCare.gov open enrollment dates", "open enrollment deadline December 15", "marketplace open enrollment January 15"]
@@ -84,7 +85,7 @@ After Jan. 15 you can enroll only with a Special Enrollment Period, which requir
 
 In June 2025 the Centers for Medicare & Medicaid Services (CMS) finalized the Marketplace Integrity and Affordability rule. Among other changes, it required every marketplace to end open enrollment by Dec. 31 and cap it at nine weeks starting with 2027 plans, which would have meant a Dec. 15 close on HealthCare.gov.
 
-Cities and advocacy groups sued. In June 2026 the U.S. District Court for the District of Maryland vacated that open-enrollment provision, along with several others, in City of Columbus v. Kennedy, according to the Georgetown Law Health Care Litigation Tracker. HealthCare.gov now lists the familiar Nov. 1 to Jan. 15 window. The administration has appealed to the Fourth Circuit, but the federal dates for this season are already published.
+Cities and advocacy groups sued. In June 2026 the U.S. District Court for the District of Maryland vacated that open-enrollment provision, along with several others, in City of Columbus v. Kennedy, according to the Georgetown Law Health Care Litigation Tracker. HealthCare.gov now lists the familiar Nov. 1 to Jan. 15 window. The administration has appealed to the Fourth Circuit (No. 26-1938), which set oral argument for Oct. 30, 2026, according to the tracker. No stay of the lower court's order had been issued as of Oct. 26, and HealthCare.gov still lists Jan. 15 as the last day.
 
 ## States with their own marketplaces
 

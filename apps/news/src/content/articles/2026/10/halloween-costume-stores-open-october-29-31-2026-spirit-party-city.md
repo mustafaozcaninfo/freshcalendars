@@ -67,7 +67,7 @@ faq:
     a: "We could not confirm a closing date. Hours and seasonal closing dates vary by store, so check the store's locator page or call."
 sources:
   - title: "Decorative Contact Lenses for Halloween and More"
-    url: "http://www.fda.gov/medical-devices/contact-lenses/decorative-contact-lenses-halloween-and-more"
+    url: "https://www.fda.gov/medical-devices/contact-lenses/decorative-contact-lenses-halloween-and-more"
     publisher: "U.S. Food and Drug Administration"
     date: "2024-10-22"
   - title: "Target's Halloween Assortment Brings Together Style, Fandom and Family Fun at Incredible Value"

@@ -4,6 +4,7 @@ seoTitle: "NASCAR Schedule 2027: Daytona 500 Feb. 21, All Dates"
 description: "The 2027 National Association for Stock Car Auto Racing (NASCAR) Cup schedule opens with the Daytona 500 on Feb. 21 and ends Nov. 14, FOX Sports reports."
 type: news
 publishedAt: "2026-10-28T18:00:00-04:00"
+updatedAt: "2026-10-30T15:27:00-04:00"
 authors: [jordan-bennett]
 category: sports
 keywords: ["NASCAR schedule 2027", "Daytona 500 2027 date", "NASCAR Cup Series 2027 schedule", "2027 NASCAR TV schedule"]
@@ -71,9 +72,12 @@ sources:
     url: "https://sports.yahoo.com/articles/nascar-releases-full-2027-schedule-215334273.html"
     publisher: "Yahoo Sports (WBTW)"
     date: "2026-08-26"
-  - title: "2026 NASCAR Cup Series"
-    url: "https://en.wikipedia.org/wiki/2026_NASCAR_Cup_Series"
-    publisher: "Wikipedia"
+  - title: "2027 NASCAR Cup Series Schedule"
+    url: "https://www.nascar.com/nascar-cup-series/2027/schedule/"
+    publisher: "NASCAR"
+  - title: "2026 NASCAR Cup Series Schedule, Race Results"
+    url: "https://www.nascar.com/nascar-cup-series/2026/schedule/"
+    publisher: "NASCAR"
 internalLinks:
   - href: "/printable-yearly-calendar.html"
     label: "Printable yearly calendar"
@@ -152,11 +156,11 @@ TV windows follow FOX Sports and Yahoo Sports: FOX has the first 14 events throu
 
 ## When does the 2027 NASCAR season start?
 
-The season opens with the Clash on Saturday, Feb. 13, a non-points event at Daytona. The Duel at Daytona, non-points qualifying races, follows on Thursday, Feb. 18. The Daytona 500 is Sunday, Feb. 21, six days later than the 2026 race, which was Sunday, Feb. 15, 2026, also on FOX, according to Wikipedia's 2026 season page. Atlanta and Circuit of the Americas in Austin follow on Feb. 28 and Mar. 7. For the month view of that stretch, see the [February 2027 printable calendar](/february-calendars.html).
+The season opens with the Clash on Saturday, Feb. 13, a non-points event at Daytona. The Duel at Daytona, non-points qualifying races, follows on Thursday, Feb. 18. The Daytona 500 is Sunday, Feb. 21, six days later than the 2026 race, which was Sunday, Feb. 15, 2026, according to NASCAR's 2026 schedule. Atlanta and Circuit of the Americas in Austin follow on Feb. 28 and Mar. 7. For the month view of that stretch, see the [February 2027 printable calendar](/february-calendars.html).
 
 ## What changed from the 2026 schedule?
 
-FOX Sports' tracker flags the moves, and Wikipedia's 2026 season page gives last year's dates.
+The 2026 dates come from NASCAR's official 2026 schedule and the 2027 dates from its 2027 schedule, which match FOX Sports' tracker.
 
 | Track or event | 2026 | 2027 |
 |---|---|---|
