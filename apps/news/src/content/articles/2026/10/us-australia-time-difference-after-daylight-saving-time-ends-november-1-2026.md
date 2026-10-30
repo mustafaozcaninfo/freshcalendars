@@ -102,7 +102,7 @@ downloads:
 draft: false
 ---
 
-Sydney is 16 hours ahead of New York from **Sunday, Nov. 1, 2026**, when US clocks go back at 2 a.m. local time, according to the National Institute of Standards and Technology (NIST). The gap was 15 hours from Oct. 4, when New South Wales started daylight saving, and it moves again on March 14 and April 4, 2027. The hour differences in this story are our calculation from the Internet Assigned Numbers Authority (IANA) Time Zone Database, the data that browsers and phones use.
+Sydney is 16 hours ahead of New York from **Sunday, Nov. 1, 2026**, when US clocks go back at 2 a.m. local time, according to the National Institute of Standards and Technology (NIST). The gap was 15 hours from Oct. 4, when New South Wales (NSW) started daylight saving, and it moves again on March 14 and April 4, 2027. The hour differences in this story are our calculation from the Internet Assigned Numbers Authority (IANA) Time Zone Database, the data that browsers and phones use.
 
 Because the two hemispheres change clocks on different dates, the gap shifts three times between Nov. 1, 2026 and April 2027. A one-page [printable of the change dates](/news/downloads/time-change-2026/us-australia-time-difference-2026-2027.pdf) is on this page.
 
