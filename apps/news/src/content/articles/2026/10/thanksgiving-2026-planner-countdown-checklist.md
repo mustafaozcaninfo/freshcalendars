@@ -94,7 +94,7 @@ internalLinks:
     label: "When is Thanksgiving?"
   - href: "/printable-weekly-calendar.html"
     label: "Printable weekly calendar"
-related: [when-to-thaw-thanksgiving-turkey-2026, thanksgiving-2026-tv-schedule-macys-parade-nfl-games, thanksgiving-break-2026-school-districts-dates]
+related: [when-to-thaw-thanksgiving-turkey-2026, thanksgiving-2026-tv-schedule-macys-parade-nfl-games, thanksgiving-parades-2026-detroit-houston-philadelphia-chicago-start-times-tv]
 draft: false
 ---
 
