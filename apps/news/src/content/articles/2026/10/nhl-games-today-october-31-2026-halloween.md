@@ -128,7 +128,7 @@ Oct. 31 is before the U.S. clock change on Sunday, Nov. 1, 2026, so daylight tim
 | 8:00 p.m. | 7:00 p.m. | 6:00 p.m. | 5:00 p.m. | Blue Jackets at Stars |
 | 10:00 p.m. | 9:00 p.m. | 8:00 p.m. | 7:00 p.m. | Flames at Avalanche |
 
-The clocks fall back one hour at 2 a.m. local time on Sunday, Nov. 1, after every Saturday game has started. Our story on [daylight saving time ending Nov. 1](/news/daylight-saving-time-ends-november-1-2026/) has the details.
+The clocks fall back one hour at 2 a.m. local time on Sunday, Nov. 1, after every Saturday game has started. Saturday's times do not change. Our story on [daylight saving time ending Nov. 1](/news/daylight-saving-time-ends-november-1-2026/) has the details.
 
 ## How to watch NHL games today on Halloween
 
@@ -136,22 +136,22 @@ The NHL lists no national U.S. TV channel for any Saturday game. What you can se
 
 | Game | U.S. TV listed by the NHL | Canada TV listed by the NHL |
 |---|---|---|
-| Blackhawks at Bruins | Regional: NESN (Bruins), CHSN (Blackhawks) | Sportsnet One (SN1), national |
-| Blues at Red Wings | Regional: DSN (Red Wings), STLNHL and BN+ (Blues) | None national |
+| Blackhawks at Bruins | Bruins and Blackhawks regional networks | Sportsnet One (SN1), national |
+| Blues at Red Wings | Red Wings and Blues regional networks | None national |
 | Lightning at Predators | Regional: The Spot (Lightning), Scripps (Predators) | Not listed |
-| Oilers at Islanders | Regional: MSG Sportsnet (MSGSN, Islanders) | Sportsnet (SN), national |
-| Sabres at Kings | Regional: ABTV (Kings), MSG-B (Sabres) | SN1, national |
-| Senators at Sharks | Regional: NBC Sports California (NBCSCA, Sharks) | TSN5 and RDS Info (Senators), regional |
-| Penguins at Canadiens | Regional: SN-PIT (Penguins) | Sportsnet East (SNE), SN1 and TVA Sports (French), national |
+| Oilers at Islanders | Islanders regional network | Sportsnet (SN), national |
+| Sabres at Kings | Kings and Sabres regional networks | SN1, national |
+| Senators at Sharks | NBC Sports California (Sharks) | TSN5 (Senators), regional |
+| Penguins at Canadiens | Penguins regional network | Sportsnet East (SNE) and SN1, national, plus a French-language national broadcast |
 | Maple Leafs at Canucks | None listed | SN, national |
-| Blue Jackets at Stars | Prime Video (Stars, U.S.); CBJNHL and CBJHN (Blue Jackets) | Not listed |
-| Flames at Avalanche | Altitude (ALT, Avalanche) | SN, national |
+| Blue Jackets at Stars | Prime Video (Stars, U.S.); Blue Jackets regional networks | Not listed |
+| Flames at Avalanche | Altitude (Avalanche) | SN, national |
 
-Channel names are the short codes the NHL feed uses. Where the feed gives only a code, the table repeats it rather than guessing.
+Some regional channels appear in the league's feed only as short codes, so the table names them by team instead of guessing at the full name or channel number that your cable, satellite or streaming provider uses in your area. Check the guide.
 
 ## Which team plays two nights in a row?
 
-Calgary is the only team that plays on both Friday and Saturday. The Flames host the Seattle Kraken on Friday, Oct. 30, at 8:00 p.m. ET, then play at the Colorado Avalanche on Saturday at 10:00 p.m. ET, the last game of the day. Friday's full slate is in our story on [NHL games today for Oct. 30](/news/nhl-games-today-october-30-2026/).
+Calgary is the only team that plays on both Friday and Saturday. That is a back-to-back. The Flames host the Seattle Kraken on Friday, Oct. 30, at 8:00 p.m. ET, then play at the Colorado Avalanche on Saturday at 10:00 p.m. ET, the last game of the day. Friday's full slate is in our story on [NHL games today for Oct. 30](/news/nhl-games-today-october-30-2026/).
 
 ## Printable NHL schedule and score sheet
 

@@ -106,9 +106,9 @@ We took the games, times, arenas and TV listings from the league's schedule feed
 
 | Start (ET) | Game | Arena | TV listed by the NHL |
 |---|---|---|---|
-| 6:00 p.m. | New Jersey Devils at Vegas Golden Knights | T-Mobile Arena, Las Vegas | U.S.: NHL Network (national), MSG Sportsnet (MSGSN, Devils), Scripps (Vegas). Canada: Sportsnet+ (SN+) |
-| 7:00 p.m. | Winnipeg Jets at Florida Panthers | Amerant Bank Arena, Sunrise | U.S.: Scripps (Panthers). Canada: TVA Sports (French), TSN3 (Jets) |
-| 8:00 p.m. | Seattle Kraken at Calgary Flames | Scotiabank Saddledome, Calgary | U.S.: Prime Video and KONG (Kraken). Canada: Sportsnet (SN) and Sportsnet 360 |
+| 6:00 p.m. | New Jersey Devils at Vegas Golden Knights | T-Mobile Arena, Las Vegas | U.S.: NHL Network (national), Devils regional network, Scripps (Vegas). Canada: Sportsnet+ (SN+) |
+| 7:00 p.m. | Winnipeg Jets at Florida Panthers | Amerant Bank Arena, Sunrise | U.S.: Scripps (Panthers). Canada: TSN3 (Jets), plus a French-language national broadcast |
+| 8:00 p.m. | Seattle Kraken at Calgary Flames | Scotiabank Saddledome, Calgary | U.S.: Prime Video and a second Kraken regional channel. Canada: Sportsnet (SN) and Sportsnet 360 |
 
 Oct. 30 is also Nevada Day, a Nevada state holiday; our [Nevada Day story](/news/nevada-day-2026-friday-october-30-whats-closed-early-voting/) covers what is closed.
 
@@ -141,9 +141,9 @@ These are not Friday's records: Thursday's games are still to be played.
 
 ## Where to watch NHL games tonight
 
-In the U.S., the NHL lists one national channel for Friday: NHL Network for Devils at Golden Knights. The other two games are on regional channels, Scripps for the Panthers and Prime Video and KONG for the Kraken, so what you can see depends on where you live. Check your provider's guide.
+In the U.S., the NHL lists one national channel for Friday: NHL Network for Devils at Golden Knights. The other two games are on regional channels, Scripps for the Panthers and Prime Video for the Kraken, so what you can see depends on where you live. Check your provider's guide.
 
-In Canada, the league lists Sportsnet+ for the first game, TVA Sports in French for Jets at Panthers, and Sportsnet and Sportsnet 360 for Kraken at Flames.
+In Canada, the league lists Sportsnet+ for the first game, a French-language broadcast for Jets at Panthers, and Sportsnet and Sportsnet 360 for Kraken at Flames.
 
 ## What is on Halloween Saturday, Oct. 31: 10 games
 
@@ -157,7 +157,7 @@ The NHL lists 10 games for Saturday, Oct. 31, 2026, from 1:00 p.m. to 10:00 p.m.
 | 2:00 p.m. | Edmonton Oilers at New York Islanders | SN |
 | 4:00 p.m. | Buffalo Sabres at Los Angeles Kings | SN1 |
 | 4:00 p.m. | Ottawa Senators at San Jose Sharks | None listed |
-| 7:00 p.m. | Pittsburgh Penguins at Montréal Canadiens | Sportsnet East (SNE), SN1, TVA Sports |
+| 7:00 p.m. | Pittsburgh Penguins at Montréal Canadiens | Sportsnet East (SNE), SN1, plus French-language TV |
 | 7:00 p.m. | Toronto Maple Leafs at Vancouver Canucks | SN |
 | 8:00 p.m. | Columbus Blue Jackets at Dallas Stars | None listed |
 | 10:00 p.m. | Calgary Flames at Colorado Avalanche | SN |

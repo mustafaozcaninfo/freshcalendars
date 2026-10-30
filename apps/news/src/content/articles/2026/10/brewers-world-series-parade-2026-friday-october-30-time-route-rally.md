@@ -174,7 +174,7 @@ Times for the parade, rally and shuttles are on the Brewers' page in Central Tim
 
 The Brewers say the parade starts at N. 4th St. and W. Wisconsin Ave. at 10 a.m., runs through downtown Milwaukee and ends at Henry Maier Festival Park. The team's page promises a full route but did not list the streets when we checked Thursday afternoon.
 
-Milwaukee Magazine reported the route on Oct. 29. It names the start as Vel R. Phillips Avenue (Fourth Street) and Wisconsin Avenue, the same corner. The Brewers' news release on MLB.com names the corner as N. 4th Street and W. Wisconsin Avenue.
+Milwaukee Magazine reported the route on Oct. 29. It names the start as Vel R. Phillips Avenue (Fourth Street) and Wisconsin Avenue, the same corner. The Brewers' news release on the website of Major League Baseball (MLB), MLB.com, names the corner as N. 4th Street and W. Wisconsin Avenue.
 
 | Leg | Reported route |
 |---|---|
@@ -221,7 +221,7 @@ All bags are subject to search.
 
 ## How can you watch the parade if you are not there?
 
-The Brewers say you can stream it all for free on brewers.com, and screens in the park show live coverage. The website of Major League Baseball (MLB) adds that the parade airs on MLB Network, MLB+, MLB.TV and Brewers.TV. FOX6 Milwaukee says on its own site that it is the official broadcast partner of the parade; that is the station's claim, and the Brewers' page lists brewers.com for the stream.
+The Brewers say you can stream it all for free on brewers.com, and screens in the park show live coverage. MLB.com adds that the parade airs on MLB Network, MLB+, MLB.TV and Brewers.TV. FOX6 Milwaukee says on its own site that it is the official broadcast partner of the parade; that is the station's claim, and the Brewers' page lists brewers.com for the stream.
 
 ## Are schools closed, and what is the weather?
 
