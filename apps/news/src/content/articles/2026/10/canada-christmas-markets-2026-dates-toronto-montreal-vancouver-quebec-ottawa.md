@@ -28,7 +28,7 @@ faq:
   - q: "When does the Toronto Christmas market open in 2026?"
     a: "The Distillery Winter Village, formerly called the Toronto Christmas Market, opens Thursday, Nov. 12, 2026 and runs to Sunday, Jan. 3, 2027, according to its site. The tree lighting ceremony is at 6 p.m. on opening night."
   - q: "Is the Distillery Winter Village free?"
-    a: "Sometimes. Admission is free before 4 p.m. daily and all day Monday to Wednesday through Dec. 13, 2026. Thursdays in November are free except Opening Night, and kids 9 and under are always free, according to the market's FAQ."
+    a: "Sometimes. Admission is free before 4 p.m. daily and all day Monday to Wednesday through Dec. 13, 2026. Thursdays in November are free except Opening Night, and kids 9 and under are always free, according to the market's frequently asked questions page."
   - q: "When does the Vancouver Christmas Market open in 2026?"
     a: "Monday, Nov. 16, 2026, at Jack Poole Plaza. It runs to Thursday, Dec. 24, when it closes at 6 p.m., according to the Vancouver Christmas Market."
   - q: "Is the Quebec City German Christmas Market free?"
@@ -124,7 +124,7 @@ assets:
 
 | City | Market | Opens | Closes | Days from opening to closing | Admission |
 |---|---|---|---|---|---|
-| Toronto | The Distillery Winter Village | Thu., Nov. 12, 2026 | Sun., Jan. 3, 2027 | 53 | Free at set times; tickets from $16 plus HST and service charge |
+| Toronto | The Distillery Winter Village | Thu., Nov. 12, 2026 | Sun., Jan. 3, 2027 | 53 | Free at set times; tickets from $16 plus Harmonized Sales Tax (HST) and service charge |
 | Montreal | Le Grand Marché de Noël de Montréal, Place des Festivals | Fri., Nov. 13, 2026 | Sun., Jan. 3, 2027 | 52 | Free |
 | Vancouver | Vancouver Christmas Market, Jack Poole Plaza | Mon., Nov. 16, 2026 | Thu., Dec. 24, 2026 | 39 | Ticketed; Single Entry from $7.99 pre-sale |
 | Quebec City | German Christmas Market | Thu., Nov. 19, 2026 | Wed., Dec. 23, 2026 | 35 | Free |
@@ -134,7 +134,7 @@ The day counts are our calculation and include both the first and last date. Tou
 
 ## When is the Toronto Christmas market free at the Distillery?
 
-The Distillery Winter Village is the market formerly called the Toronto Christmas Market. Its FAQ says admission is free before 4 p.m. daily and all day Monday to Wednesday through Dec. 13, 2026. Thursdays in November are free except Opening Night, and kids 9 and under are always free.
+The Distillery Winter Village is the market formerly called the Toronto Christmas Market. Its frequently asked questions page says admission is free before 4 p.m. daily and all day Monday to Wednesday through Dec. 13, 2026. Thursdays in November are free except Opening Night, and kids 9 and under are always free.
 
 | When | Free or ticketed |
 |---|---|
@@ -146,7 +146,7 @@ The Distillery Winter Village is the market formerly called the Toronto Christma
 | From 4 p.m. every Thursday in December | Ticket required |
 | From 4 p.m. daily, Dec. 14 to 31 | Ticket required |
 
-Tickets start at $16 plus Harmonized Sales Tax (HST) and a service charge, and come as General Admission, Flex or Express. They are bought online in advance, and the market has no on-site box office.
+Tickets start at $16 plus HST and a service charge, and come as General Admission, Flex or Express. They are bought online in advance, and the market has no on-site box office.
 
 The tree lighting ceremony is at 6 p.m. on Thursday, Nov. 12. On opening day the retail shops are open from 10 a.m. to 9 p.m. and the cabins from 11 a.m. to 9 p.m. Hours for other days are not listed on the pages we read.
 
