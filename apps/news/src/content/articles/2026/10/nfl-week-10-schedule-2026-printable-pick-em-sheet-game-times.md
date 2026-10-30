@@ -97,7 +97,7 @@ internalLinks:
     label: "November 2026 printable calendar"
   - href: "/printable-weekly-calendar.html"
     label: "Printable weekly calendar"
-related: [nfl-week-9-schedule-2026-printable-pick-em-sheet-game-times, nfl-trade-deadline-2026-november-10-time-et, nfl-international-games-november-2026-madrid-munich-mexico-city-kickoff-times]
+related: [nfl-week-11-schedule-2026-printable-pick-em-sheet-game-times, nfl-trade-deadline-2026-november-10-time-et, nfl-international-games-november-2026-madrid-munich-mexico-city-kickoff-times]
 draft: false
 ---
 

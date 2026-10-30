@@ -72,7 +72,7 @@ internalLinks:
     label: "November 2026 printable calendar"
   - href: "/printable-weekly-calendar.html"
     label: "Printable weekly planner"
-related: [sample-ballot-by-zip-code-2026-texas-ballot, what-time-do-polls-close-election-day-2026, mail-ballot-deadlines-2026-by-state]
+related: [massachusetts-ballot-questions-2026-what-yes-no-votes-do-early-voting-ends-october-30, what-time-do-polls-close-election-day-2026, mail-ballot-deadlines-2026-by-state]
 assets:
   overlay: true
   kicker: "Sample ballot · Election Day Tue., Nov. 3"

@@ -88,7 +88,7 @@ internalLinks:
     label: "When is Thanksgiving?"
   - href: "/when-is/black-friday/"
     label: "When is Black Friday?"
-related: [why-thanksgiving-2026-is-november-26, when-to-thaw-thanksgiving-turkey-2026, black-friday-2026-store-hours-walmart-target-best-buy]
+related: [why-thanksgiving-2026-is-november-26, when-to-thaw-thanksgiving-turkey-2026, thanksgiving-parades-2026-detroit-houston-philadelphia-chicago-start-times-tv]
 downloads:
   - group: "Thanksgiving 2026 TV Schedule printables"
     title: "Thanksgiving 2026 TV Schedule, Nov. 25-27"
