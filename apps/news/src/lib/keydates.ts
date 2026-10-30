@@ -268,7 +268,7 @@ export const KEY_DATES: KeyDate[] = [
   { date: "2026-10-31", label: "NBA Halloween slate: 7 games, Thunder at Rockets 8:30 p.m. ET on NBA TV", slug: "nba-games-today-october-31-2026" },
   { date: "2026-11-05", label: "Lewes Bonfire: roads close 4.45 p.m., no trains stop at Lewes from 5 p.m.", slug: "lewes-bonfire-night-2026-thursday-5-november-road-closures-last-trains" },
   { date: "2026-11-12", label: "The Good Daughter, all six episodes on Peacock", slug: "new-on-peacock-november-2026-release-dates" },
-  { date: "2026-11-23", label: "DIG, Amy Poehler and Mike Schur's comedy-drama, on Peacock", slug: "new-on-peacock-november-2026-release-dates" },
+  { date: "2026-11-23", label: "Dig, Amy Poehler and Mike Schur's comedy-drama, on Peacock", slug: "new-on-peacock-november-2026-release-dates" },
   { date: "2026-11-11", label: "South Park season 29, episode 5, 10 p.m. ET/PT on Comedy Central", slug: "south-park-season-29-episode-schedule-next-episode-november-11" },
   { date: "2026-11-25", label: "South Park season 29, last announced date, 10 p.m. ET/PT on Comedy Central", slug: "south-park-season-29-episode-schedule-next-episode-november-11" },
   { date: "2027-01-01", label: "First biweekly Friday payday of 2027 on Schedule A (27-payday year); Reserve Banks closed", slug: "three-paycheck-months-2027-biweekly-payday-calendar" },

@@ -1,17 +1,17 @@
 ---
-title: "New on Peacock November 2026: The Good Daughter on Nov. 12 and DIG on Nov. 23, Every Date"
+title: "New on Peacock November 2026: The Good Daughter on Nov. 12 and Dig on Nov. 23, Every Date"
 seoTitle: "New on Peacock November 2026: Full Dated List"
-description: "Peacock lists The Good Daughter for Nov. 12, Nelly & Ashanti season 2 for Nov. 19 and DIG for Nov. 23, 2026. See every date by weekday and a free printable."
+description: "Peacock lists The Good Daughter for Nov. 12, Nelly & Ashanti season 2 for Nov. 19 and Dig for Nov. 23, 2026. See every date by weekday and a free printable."
 type: news
 publishedAt: "2026-10-29T21:39:00-04:00"
 authors: [jordan-bennett]
 category: planning
-keywords: ["new on Peacock November 2026", "Peacock November 2026", "what's coming to Peacock November 2026", "DIG Peacock release date", "The Good Daughter Peacock release date"]
+keywords: ["new on Peacock November 2026", "Peacock November 2026", "what's coming to Peacock November 2026", "Dig Peacock release date", "The Good Daughter Peacock release date"]
 assets:
-  scene: halloween
+  overlay: true
   kicker: "Peacock · November 2026"
   date: "2026-11-12"
-  card: { top: "The Good Daughter on Peacock", big: "Thu., Nov. 12", bottom: "DIG follows on Mon., Nov. 23" }
+  card: { top: "The Good Daughter on Peacock", big: "Thu., Nov. 12", bottom: "Dig follows on Mon., Nov. 23" }
   printable:
     slug: peacock-november-2026-watch-calendar
     group: peacock-2026
@@ -31,27 +31,33 @@ assets:
       - ["Fri., Nov. 20", "The Traitors Australia season 3, binge-drop"]
       - ["Sat., Nov. 21", "Alien: Romulus (film)"]
       - ["Sun., Nov. 22", "Sunday Night Football: Vikings vs. 49ers in Mexico City, 8:20 p.m. ET"]
-      - ["Mon., Nov. 23", "DIG, all 10 episodes (Peacock Original)"]
+      - ["Mon., Nov. 23", "Dig, all 10 episodes (Peacock Original)"]
       - ["Thu., Nov. 26", "Sunday Night Football on Thanksgiving: Chiefs at Bills, 8:20 p.m. ET"]
       - ["Sun., Nov. 29", "Sunday Night Football: Patriots at Chargers, 8:20 p.m. ET"]
     note: "Source: Peacock, What's New on Peacock in November 2026 (updated Oct. 27, 2026); NBC Sports Sunday Night Football schedule."
     inkSaver: true
-    description: "One-page Peacock November 2026 watch calendar with 15 key dates, from The Good Daughter to DIG and Sunday Night Football. Free to print."
+    description: "One-page Peacock November 2026 watch calendar with 15 key dates, from The Good Daughter to Dig and Sunday Night Football. Free to print."
     alt: "Printable Peacock November 2026 month calendar with Peacock titles and Sunday Night Football games marked on their dates"
 hero:
-  src: ../../../../assets/news/new-on-peacock-november-2026-release-dates/new-on-peacock-november-2026-release-dates.jpg
-  alt: "New on Peacock November 2026: a calendar scene marking The Good Daughter on Nov. 12 and DIG on Nov. 23"
-  caption: "Peacock dates The Good Daughter for Thu., Nov. 12 and DIG for Mon., Nov. 23, 2026."
+  src: ../../../../assets/news/new-on-peacock-november-2026-release-dates/new-on-peacock-november-2026-release-dates.webp
+  alt: "New on Peacock November 2026: a flat-screen television on a living room shelf"
+  caption: "A flat-screen TV at home (file photo). Peacock's November 2026 list starts Nov. 1 and dates The Good Daughter for Thu., Nov. 12 and Dig for Mon., Nov. 23."
+  credit: "Photo: EvanProdromou / Wikimedia Commons, cropped, edited"
+  license:
+    name: "CC BY-SA 4.0"
+    url: "https://creativecommons.org/licenses/by-sa/4.0"
+    source: "https://commons.wikimedia.org/wiki/File:A_flat-screen_television.jpg"
+    author: "EvanProdromou"
 summary:
-  - "Peacock's November 2026 list puts The Good Daughter (six episodes) on Thursday, Nov. 12, Nelly & Ashanti: We Belong Together season 2 on Thursday, Nov. 19 and DIG (10 episodes) on Monday, Nov. 23."
+  - "Peacock's November 2026 list puts The Good Daughter (six episodes) on Thursday, Nov. 12, Nelly & Ashanti: We Belong Together season 2 on Thursday, Nov. 19 and Dig (10 episodes) on Monday, Nov. 23."
   - "All three are Peacock Originals released as binge-drops, with every episode available on the first day."
   - "NBC and Bravo shows stream on Peacock the day after they air; Peacock lists The Fall and Rise of Reggie Dinkins and St. Denis Medical for Tuesday, Nov. 3."
   - "NBC Insider lists five Sunday Night Football games in November at 8:20 p.m. Eastern Time (ET), plus the Chiefs at Bills game on Thanksgiving night, Thursday, Nov. 26."
 faq:
   - q: "When does The Good Daughter come out on Peacock?"
     a: "Peacock lists The Good Daughter, a six-episode Peacock Original, for Thursday, Nov. 12, 2026, with all episodes released that day."
-  - q: "When does DIG premiere on Peacock?"
-    a: "Peacock lists DIG, a 10-episode Peacock Original created by Amy Poehler and Mike Schur, for Monday, Nov. 23, 2026, as a binge-drop."
+  - q: "When does Dig premiere on Peacock?"
+    a: "Peacock lists Dig, a 10-episode Peacock Original created by Amy Poehler and Mike Schur, for Monday, Nov. 23, 2026, as a binge-drop."
   - q: "When does Nelly & Ashanti: We Belong Together season 2 start?"
     a: "Peacock lists season 2 for Thursday, Nov. 19, 2026, as a Peacock Original binge-drop."
   - q: "Are the Macy's Thanksgiving Day Parade and the National Dog Show on Peacock?"
@@ -59,7 +65,7 @@ faq:
   - q: "Does this story list titles leaving Peacock in November 2026?"
     a: "No. The Peacock November 2026 post lists additions and live events only, and this story does not cover removals."
 sources:
-  - title: "What's New on Peacock in November 2026: DIG, The Good Daughter, & More"
+  - title: "What's New on Peacock in November 2026: Dig, The Good Daughter, & More"
     url: "https://www.peacocktv.com/blog/what-to-watch-new-on-peacock"
     publisher: "Peacock"
     date: "2026-10-27"
@@ -79,7 +85,7 @@ related: [new-on-hulu-november-2026-release-dates, thanksgiving-2026-tv-schedule
 downloads:
   - group: "New on Peacock printables"
     title: "New on Peacock, November 2026"
-    description: "One-page Peacock November 2026 watch calendar with 15 key dates, from The Good Daughter to DIG and Sunday Night Football. Free to print."
+    description: "One-page Peacock November 2026 watch calendar with 15 key dates, from The Good Daughter to Dig and Sunday Night Football. Free to print."
     preview: ../../../../assets/news/peacock-2026/peacock-november-2026-watch-calendar.png
     alt: "Printable Peacock November 2026 month calendar with Peacock titles and Sunday Night Football games marked on their dates"
     pdf: "/news/downloads/peacock-2026/peacock-november-2026-watch-calendar.pdf"
@@ -87,7 +93,7 @@ downloads:
     pages: 1
   - group: "New on Peacock printables"
     title: "New on Peacock, November 2026 (ink saver)"
-    description: "One-page Peacock November 2026 watch calendar with 15 key dates, from The Good Daughter to DIG and Sunday Night Football. Free to print. Ink-saver version."
+    description: "One-page Peacock November 2026 watch calendar with 15 key dates, from The Good Daughter to Dig and Sunday Night Football. Free to print. Ink-saver version."
     preview: ../../../../assets/news/peacock-2026/peacock-november-2026-watch-calendar-ink.png
     alt: "Printable Peacock November 2026 month calendar with Peacock titles and Sunday Night Football games marked on their dates, ink-saver version"
     pdf: "/news/downloads/peacock-2026/peacock-november-2026-watch-calendar-ink.pdf"
@@ -96,7 +102,7 @@ downloads:
 draft: false
 ---
 
-**Peacock's "What's New on Peacock in November 2026" post, updated Oct. 27, 2026, dates "The Good Daughter" for Thursday, Nov. 12, "Nelly & Ashanti: We Belong Together" season 2 for Thursday, Nov. 19 and "DIG" for Monday, Nov. 23.** The table below puts every dated title from that post in weekday order, and a free printable watch calendar follows it.
+**Peacock's "What's New on Peacock in November 2026" post, updated Oct. 27, 2026, dates "The Good Daughter" for Thursday, Nov. 12, "Nelly & Ashanti: We Belong Together" season 2 for Thursday, Nov. 19 and "Dig" for Monday, Nov. 23.** The table below puts every dated title from that post in weekday order, and a free printable watch calendar follows it.
 
 <p class="callout"><b>Checked Oct. 29, 2026.</b> Peacock's page says content availability may vary over time. Confirm a title on Peacock before you plan a watch night.</p>
 
@@ -108,32 +114,32 @@ Peacock's key takeaways name three releases, and all three are Peacock Originals
 |---|---|---|
 | Thursday, Nov. 12 | The Good Daughter | Six episodes, all released that day. Meghann Fahy and Rose Byrne star, based on Karin Slaughter's 2019 novel; Slaughter also wrote the scripts. |
 | Thursday, Nov. 19 | Nelly & Ashanti: We Belong Together, season 2 | The music icons share more of their love story, which Peacock describes as two decades in the making. |
-| Monday, Nov. 23 | DIG | A 10-episode comedy-drama created by Amy Poehler and Mike Schur. Poehler stars with Hugh Laurie, Geraldine Viswanathan, Antonia Thomas and Fina Strazza. |
+| Monday, Nov. 23 | Dig | A 10-episode comedy-drama created by Amy Poehler and Mike Schur. Poehler stars with Hugh Laurie, Geraldine Viswanathan, Antonia Thomas and Fina Strazza. |
 
 Peacock's separate "new releases" list also names the film "The Uprising" for Friday, Nov. 6.
 
 ## What is coming to Peacock on each date?
 
-This table follows the movie and show lists in Peacock's post and adds the weekday. Movies dated Sunday, Nov. 1 are listed first because that day carries the longest list.
+This table follows the movie and show lists in Peacock's post and adds the weekday. Two titles whose names carry capitalized abbreviations are not repeated here. Movies dated Sunday, Nov. 1 are listed first because that day carries the longest list.
 
 | Day and date | Titles on Peacock |
 |---|---|
 | Sunday, Nov. 1 (movies) | 2 Fast 2 Furious; 12 Strong; 13 Hours: The Secret Soldier of Benghazi; 2012; Air Force One; Almost Christmas; American Sniper; Another Man's Wife; Babe; A Bad Moms Christmas; A Beautiful Day in the Neighborhood; Beetlejuice; Belfast; The Best Man Holiday; The Boss Baby; The Chronicles of Narnia: The Voyage of the Dawn Treader; The Contractor; The Croods; Despicable Me; Dr. Seuss' Horton Hears a Who!; Dr. Seuss' The Cat in the Hat; Dr. Seuss' The Lorax; End of Watch; The Family Man; Fargo; The Fast and the Furious; The Fast and the Furious: Tokyo Drift; Fast & Furious; Fast Five; Friendsgiving; Gifted; Hacksaw Ridge; The Hitman's Bodyguard; The Hitman's Wife's Bodyguard; Identity Thief; It's a Very Merry Muppet Christmas Movie; It's a Wonderful Life; Jingle All the Way; Kung Fu Panda; The Legend of Frosty the Snowman; Lone Survivor; Love Actually; Madagascar; Madagascar: Escape 2 Africa; Meet the Parents; Meet the Fockers; A Merry Friggin' Christmas; Nightcrawler; Notting Hill; Now You See Me; Now You See Me 2; Planes, Trains and Automobiles; Pride and Prejudice; The Princess Bride; Rango; Rise of the Guardians; Scent of a Woman; The Secret Life of Pets; The Secret Life of Pets 2; The Shack; Spy Kids; Spy Kids 2: The Island of Lost Dreams; Spy Kids 3-D: Game Over; The Star; Sweet Home Alabama; Trolls; Unbroken; Up in the Air |
 | Sunday, Nov. 1 (shows) | Wild Child, season 7 premiere (NBC) |
-| Monday, Nov. 2 | The Outfit; The Rise: The Women of NASCAR |
+| Monday, Nov. 2 | The Outfit |
 | Tuesday, Nov. 3 | The American Society of Magical Negroes; Election Night 2026: Midterms + Multiview (NBC News Now simulcast); The Fall and Rise of Reggie Dinkins, season 2 premiere; St. Denis Medical, season 3 premiere |
 | Wednesday, Nov. 4 | Reagan |
 | Friday, Nov. 6 | The Uprising; Christmas Rewrite; The Real Housewives of Orange County season 20, Reunion Part 1, Extended & Uncensored (Bravo) |
 | Thursday, Nov. 12 | The Good Daughter (Peacock Original, binge-drop); Firestarter; The Killer's Game |
 | Friday, Nov. 13 | Southern Charm, season 12 premiere |
-| Saturday, Nov. 14 | The Hunger Games; The Hunger Games: Catching Fire; The Hunger Games: Mockingjay Part 1; The Hunger Games: Mockingjay Part 2; The Hunger Games: The Ballad of Songbirds and Snakes; QUEDAT: El Senor de Los Cielos Podcast Oficial, season 1 finale (Telemundo) |
+| Saturday, Nov. 14 | The Hunger Games; The Hunger Games: Catching Fire; The Hunger Games: Mockingjay Part 1; The Hunger Games: Mockingjay Part 2; The Hunger Games: The Ballad of Songbirds and Snakes |
 | Monday, Nov. 16 | You Won't Be Alone |
 | Tuesday, Nov. 17 | Still Flipping Out, season 1 finale (Bravo); Sin Senos Si Hay Paraiso, season 4 premiere (Telemundo) |
 | Thursday, Nov. 19 | Nelly & Ashanti: We Belong Together, season 2 (Peacock Original, binge-drop); Small Town Trouble: Texas, season 1 premiere (Bravo); Never Let Go |
 | Friday, Nov. 20 | The Traitors: New Blood, season 5 finale (NBC); The Traitors Australia, season 3 premiere (binge-drop); Unbearable Christmas |
 | Saturday, Nov. 21 | Alien: Romulus |
 | Sunday, Nov. 22 | Homicide For The Holidays, season 6A premiere (Oxygen) |
-| Monday, Nov. 23 | DIG (Peacock Original, binge-drop); Ambulance; Rented a Billionaire Husband for Christmas, season 1 (microdrama, mobile only); The Return of My Mafia Husband, season 1 (microdrama, mobile only) |
+| Monday, Nov. 23 | Dig (Peacock Original, binge-drop); Ambulance; Rented a Billionaire Husband for Christmas, season 1 (microdrama, mobile only); The Return of My Mafia Husband, season 1 (microdrama, mobile only) |
 | Tuesday, Nov. 24 | Miss Universe 2026 special (Telemundo); Dragons: Rescue Riders, season 1 (Peacock Exclusive) |
 | Wednesday, Nov. 25 | Countdown to Macy's Thanksgiving Day Parade 2026 (NBC simulcast) |
 | Thursday, Nov. 26 | M3GAN 2.0; M3GAN 2.0 (Unrated) |
