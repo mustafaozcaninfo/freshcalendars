@@ -12,15 +12,18 @@ concurrency:
   group: ci-${{ github.event_name == 'pull_request' && github.ref || github.sha }}
   cancel-in-progress: ${{ github.event_name == 'pull_request' }}
 
+# Pinned, not ubuntu-latest: that label moves to Ubuntu 26 from 2026-10-19, and the contrast
+# gate's `playwright install --with-deps` can break when the system packages change. Move on
+# purpose, after a test run.
 jobs:
   verify:
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-24.04
     timeout-minutes: 20
     steps:
-      - uses: actions/checkout@v4
-      - uses: pnpm/action-setup@v4
+      - uses: actions/checkout@v7
+      - uses: pnpm/action-setup@v6
         # version comes from package.json packageManager field
-      - uses: actions/setup-node@v4
+      - uses: actions/setup-node@v7
         with:
           node-version: 22
           cache: pnpm
@@ -42,16 +45,16 @@ jobs:
   # The same gates `pnpm news:deploy` runs before publishing, so a story pull request
   # that is green here can be merged and published without a local rebuild.
   news:
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-24.04
     # A cold image cache re-encodes every hero variant (about 5,000, AVIF the slow part): ~30 min.
     # With the cache below a run only encodes new images and takes a few minutes.
     timeout-minutes: 45
     env:
       TZ: America/New_York
     steps:
-      - uses: actions/checkout@v4
-      - uses: pnpm/action-setup@v4
-      - uses: actions/setup-node@v4
+      - uses: actions/checkout@v7
+      - uses: pnpm/action-setup@v6
+      - uses: actions/setup-node@v7
         with:
           node-version: 22
           cache: pnpm
@@ -69,7 +72,7 @@ jobs:
       # Astro's optimized-image cache. Entries are named by a hash of the source and the options,
       # so a stale entry is never used for a changed image; restore-keys picks up the latest cache.
       - name: Restore image cache
-        uses: actions/cache/restore@v4
+        uses: actions/cache/restore@v6
         with:
           path: apps/news/node_modules/.astro/assets
           key: news-images-${{ hashFiles('apps/news/src/assets/**', 'apps/news/src/components/Hero.astro') }}-${{ github.run_id }}
@@ -92,7 +95,7 @@ jobs:
       # the next run starts from it); otherwise the restored cache is already current.
       - name: Save image cache
         if: always() && steps.cache_after.outputs.new == '1'
-        uses: actions/cache/save@v4
+        uses: actions/cache/save@v6
         with:
           path: apps/news/node_modules/.astro/assets
           key: news-images-${{ hashFiles('apps/news/src/assets/**', 'apps/news/src/components/Hero.astro') }}-${{ github.run_id }}
