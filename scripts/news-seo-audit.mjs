@@ -211,7 +211,9 @@ const officialText = (u) => {
     if (p.game === "mini") return [...d.clues.map((c) => c.text), ...d.clues.map((c) => c.cells.map((i) => d.cells[i]).join(""))];
     if (p.game === "strands") return [d.clue, d.spangram, ...d.themeWords];
     if (p.game === "wordle") return [d.solution];
-    if (p.game === "letterboxed") return d.ourSolution;
+    // The build lists other two-word solutions from the puzzle's word list, which can hold a
+    // banned word ("Align"); those are the puzzle's words, not ours.
+    if (p.game === "letterboxed") return [...d.ourSolution, ...d.dictionary.filter((w) => BANNED_EN.includes(w.toLowerCase()))];
     return [];
   }).map((s) => s.toLowerCase());
 };
