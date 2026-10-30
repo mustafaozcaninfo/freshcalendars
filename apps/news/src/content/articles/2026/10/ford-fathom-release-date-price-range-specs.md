@@ -4,6 +4,7 @@ seoTitle: "Ford Fathom: Release Date, Price, Range and Specs"
 description: "Ford Fathom starts at a $28,350 manufacturer's suggested retail price (MSRP), preorders open in early 2027, and Ford has not yet published its driving range."
 type: explainer
 publishedAt: "2026-10-29T14:30:00-04:00"
+updatedAt: "2026-10-30T01:20:00-04:00"
 authors: [jordan-bennett]
 category: retail-dates
 keywords: ["Ford Fathom", "Ford Fathom release date", "Ford Fathom price", "Ford Fathom range", "Ford Fathom preorder"]
@@ -21,7 +22,7 @@ summary:
   - "Ford lists a starting MSRP of $28,350 for the Fathom with its standard-range battery, plus a $1,595 destination and delivery charge: $29,945 before taxes and fees."
   - "Ford says preorders begin in early 2027, prototype builds with production-qualified parts start in the first quarter of 2027, and customer vehicles follow later that year."
   - "Ford's page says the projected Environmental Protection Agency (EPA) range estimate is not yet available; battery size, charging time, towing and payload are also unpublished."
-  - "On Oct. 28, 2026, Ford said it has cast more than 5,000 unicastings for the truck and still points to a 2027 launch."
+  - "On Oct. 27, 2026, Ford said the Fathom's available bidirectional power can supply over a projected 10 kilowatts (kW) to a home without a wall-mounted inverter; on Oct. 28 it said more than 5,000 unicastings are cast."
 faq:
   - q: "When is the Ford Fathom release date?"
     a: "Ford says preorders begin in early 2027 and that customer vehicles follow later in 2027, after prototype builds with production-qualified parts in the first quarter. Ford has not given a delivery month."
@@ -35,9 +36,19 @@ faq:
     a: "Ford has not announced a delay. Its Oct. 28, 2026 update still refers to a 2027 launch. Ford chief executive Jim Farley said in early October that launching at this scale, at cost and on time will be 'a heck of an effort,' without confirming a delay."
   - q: "Where will the Ford Fathom be built?"
     a: "At Louisville Assembly Plant in Kentucky, according to Ford. Its aluminum unicastings are cast at Ford's Shelbyville Technical Center, and Ford said in 2025 that BlueOval Battery Park Michigan would build the truck's batteries."
+  - q: "Can the Ford Fathom power a house?"
+    a: "Ford says the Fathom offers available bidirectional AC power that can supply over a projected 10 kW to a home without a separate wall-mounted inverter. Home Power Management needs Ford's Home Power Station plus utility approval and an active Ford plan or trial; Home Backup Power also needs Ford's Home Backup Power Panel. Ford has not published prices for either."
   - q: "Does the Ford Fathom have a frunk?"
     a: "Yes. Ford's name-reveal article says the truck has a frunk and a bed for added cargo flexibility. Ford has not published their sizes."
 sources:
+  - title: "Your Electric Truck Can Power Your Home. Ford Fathom Makes It More Affordable."
+    url: "https://www.fromtheroad.ford.com/us/en/articles/2026/fathom-ev-bidirectional-home-power"
+    publisher: "Ford From the Road"
+    date: "2026-10-27"
+  - title: "Bidirectional EVs at a New Scale: Working With Utilities to Get Interconnection Ready"
+    url: "https://www.fromtheroad.ford.com/us/en/articles/2026/bidirectional-evs-scale-utility-interconnection"
+    publisher: "Ford From the Road"
+    date: "2026-10-27"
   - title: "Introducing Fathom | Pre-Orders Begin Early 2027"
     url: "https://www.ford.com/electric/fathom/"
     publisher: "Ford Motor Company"
@@ -105,17 +116,18 @@ assets:
       - { when: "Q1 2027", what: "Prototype builds with production-qualified parts at Louisville", section: "Confirmed by Ford" }
       - { when: "Later 2027", what: "Customer vehicles follow, month not announced", section: "Confirmed by Ford" }
       - { when: "Standard", what: "Apple CarPlay, Android Auto, Digital Key, Ford app remote control", section: "Confirmed by Ford" }
-      - { when: "Every truck", what: "BlueCruise capable hardware, bidirectional power, frunk and bed", section: "Confirmed by Ford" }
+      - { when: "Every truck", what: "BlueCruise capable hardware, frunk and bed", section: "Confirmed by Ford" }
+      - { when: "Available", what: "Bidirectional AC power, over a projected 10 kW to a home, no wall inverter", section: "Confirmed by Ford" }
       - { when: "Range", what: "EPA-estimated range for the trim you want", section: "Check before you preorder" }
       - { when: "Battery", what: "Usable battery size in kWh and battery warranty", section: "Check before you preorder" }
       - { when: "Charging", what: "Fast-charge time and home charging rate", section: "Check before you preorder" }
       - { when: "Work", what: "Towing and payload ratings", section: "Check before you preorder" }
       - { when: "Cargo", what: "Bed length and frunk size", section: "Check before you preorder" }
       - { when: "BlueCruise", what: "Plan price after any trial", section: "Check before you preorder" }
-      - { when: "Home power", what: "Equipment needed to power your home, and its cost", section: "Check before you preorder" }
+      - { when: "Home power", what: "Home Power Station and Backup Panel prices, utility approval", section: "Check before you preorder" }
       - { when: "Order", what: "Deposit amount, refund terms and delivery estimate", section: "Check before you preorder" }
       - { when: "Dealer", what: "Dealer fees, taxes, title and registration in your state", section: "Check before you preorder" }
-    note: "Source: Ford.com Fathom page; Ford From the Road, Aug. 6, Aug. 13 and Oct. 28, 2026. Checked Oct. 29, 2026. Taxes and dealer fees extra."
+    note: "Source: Ford.com Fathom page; Ford From the Road, Aug. 6, Aug. 13, Oct. 27 and Oct. 28, 2026. Checked Oct. 30, 2026. Taxes and dealer fees extra."
     inkSaver: true
     description: "One-page Ford Fathom preorder checklist with Ford's confirmed price, 2027 dates and features, and the specs to check before ordering."
     alt: "Printable Ford Fathom preorder checklist 2027 with confirmed price, dates and features and the specs still to check"
@@ -138,6 +150,7 @@ Ford has given seasons and quarters, not days. The table lists each step with th
 | Mon., Aug. 11, 2025 | Ford announces the Universal EV platform and a midsize electric truck at "a targeted starting price of about $30,000," launching in 2027 | Ford From the Road |
 | Thu., Aug. 6, 2026 | Ford names the truck Fathom and gives the $28,350 starting MSRP | Ford From the Road |
 | Thu., Aug. 13, 2026 | Ford says the Louisville Assembly Plant line is on track and Fathom will be delivered "at scale next year" | Ford From the Road |
+| Tue., Oct. 27, 2026 | Ford details home power: over a projected 10 kW of AC power to a home without a wall-mounted inverter, and a utility working group | Ford From the Road |
 | Wed., Oct. 28, 2026 | More than 5,000 unicastings produced for process testing and prototype assembly | Ford From the Road |
 | Early 2027 | Preorders begin | Ford.com |
 | First quarter of 2027 | Prototype builds with production-qualified parts begin | Ford From the Road |
@@ -180,14 +193,25 @@ Any range number you see before Ford publishes one is a guess. Weight, speed, co
 | Screen and navigation | Confirmed | "Large center display," navigation powered by Apple Maps |
 | Phone features | Confirmed, standard | Apple CarPlay, Android Auto, Digital Key, Ford app remote control |
 | Driver assistance | Confirmed | "Every Ford Fathom will be BlueCruise capable" |
-| Home backup power | Confirmed | Bidirectional power that can "send that power back to your home" |
+| Home power | Confirmed, available | Bidirectional AC power, "over a projected 10 kW" to a home without a wall-mounted inverter |
 | EPA range | Not published | "Not yet available" |
 | Battery size, charging time | Not published | |
 | Towing and payload | Not published | |
 | Dimensions, bed length, frunk size | Not published | |
 | Trims and option prices | Not published | |
 
-Two of the confirmed lines need a footnote. BlueCruise "capable" means the truck has the hardware; Ford's own article describes it as working "once activated," and Ford has not said on the Fathom page what a plan will cost. Bidirectional power is confirmed, but Ford has not said how many kilowatts the truck can send or what home equipment you would need.
+Two of the confirmed lines need a footnote. BlueCruise "capable" means the truck has the hardware; Ford's own article describes it as working "once activated," and Ford has not said on the Fathom page what a plan will cost. Ford calls bidirectional power "available," which usually means it is not on every truck; Ford has not said which trims include it or what it costs as an option.
+
+## Can the Ford Fathom power your home?
+
+Yes, with Ford's equipment. In two articles on Oct. 27, 2026, Ford said the Fathom will supply [over a projected 10 kW of AC power](https://www.fromtheroad.ford.com/us/en/articles/2026/fathom-ev-bidirectional-home-power) to a home without a separate wall-mounted inverter, because the inverter is built into one of the truck's five main modules. Ford says it is the first EV from a U.S. automaker with an MSRP below $30,000 that can do that.
+
+| Use | What it does | Hardware Ford lists | Cost Ford gives |
+|---|---|---|---|
+| Home Power Management | Charge when power is cheaper, run the house from the truck when it costs more | Ford Home Power Station, utility approval, active Ford plan or trial | About half the price of Ford's first-generation bidirectional charger |
+| Home Backup Power | Run the house from the truck during an outage | Home Power Station plus Ford Home Backup Power Panel; utility notice or approval may apply | At least 60% less than Ford's first-generation backup hardware |
+
+Ford has not published a dollar price for either kit. It also said it formed a working group in July 2026 with American Electric Power, BC Hydro, Consumers Energy, Exelon and Pacific Gas and Electric Co. to simplify how utilities connect bidirectional EVs before the truck arrives.
 
 ## How Ford is building it: 146 parts become two
 
