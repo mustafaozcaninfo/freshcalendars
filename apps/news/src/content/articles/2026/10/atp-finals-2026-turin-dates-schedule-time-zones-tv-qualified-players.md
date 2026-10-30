@@ -77,7 +77,7 @@ internalLinks:
     label: "November 2026 printable calendar"
   - href: "/printable-weekly-calendar.html"
     label: "printable weekly calendar"
-related: [wta-finals-2026-indian-wells-dates-qualified-players-time-zones, paris-masters-2026-schedule-final-time-by-time-zone]
+related: [wta-finals-2026-indian-wells-dates-qualified-players-time-zones, paris-masters-2026-schedule-final-time-by-time-zone, grand-slam-of-darts-2026-dates-november-14-22-format-prize-money-how-to-watch]
 assets:
   overlay: true
   kicker: "ATP Finals · Nov. 15-22, 2026"

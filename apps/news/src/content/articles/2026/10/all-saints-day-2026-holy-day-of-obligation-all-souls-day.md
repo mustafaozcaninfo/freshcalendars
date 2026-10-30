@@ -52,7 +52,7 @@ internalLinks:
     label: "November 2026 printable calendar"
   - href: "/printable-yearly-calendar.html"
     label: "Printable yearly calendar"
-related: [day-of-the-dead-2026-dia-de-los-muertos-dates, when-does-advent-start-2026-november-29-advent-wreath-candles]
+related: [day-of-the-dead-2026-dia-de-los-muertos-dates, samhain-2026-october-31-november-1-oiche-shamhna-sunset-times-puca-festival, when-does-advent-start-2026-november-29-advent-wreath-candles]
 downloads:
   - group: "U.S. Catholic Holy Days of Obligation printables"
     title: "U.S. Catholic Holy Days of Obligation, Nov. 2026 to Dec. 2027"
