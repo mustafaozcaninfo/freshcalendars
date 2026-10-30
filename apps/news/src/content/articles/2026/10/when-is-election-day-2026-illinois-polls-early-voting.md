@@ -86,7 +86,7 @@ internalLinks:
     label: "November 2026 printable calendar"
   - href: "/october-calendars.html"
     label: "October 2026 printable calendar"
-related: [sample-ballot-by-zip-code-2026-texas-ballot, what-time-do-polls-close-election-day-2026, chicago-public-schools-calendar-2026-27-breaks]
+related: [sample-ballot-by-zip-code-2026-texas-ballot, what-time-do-polls-close-election-day-2026, pennsylvania-2026-election-governor-mail-ballot-deadlines]
 downloads:
   - group: "Illinois Voter Calendar printables"
     title: "Illinois Voter Calendar, Nov. 3, 2026 Election"

@@ -53,7 +53,7 @@ internalLinks:
     label: "November 2026 printable calendar"
   - href: "/december-calendars.html"
     label: "December 2026 printable calendar"
-related: [social-security-payment-schedule-october-2026-who-gets-paid-today, social-security-cola-2027-3-6-percent-payment-dates]
+related: [social-security-payment-schedule-october-2026-who-gets-paid-today, social-security-cola-2027-3-6-percent-payment-dates, snap-payment-schedule-november-2026-deposit-dates-by-state]
 assets:
   kicker: "Social Security · Tue., Nov. 10, 2026"
   date: "2026-11-10"

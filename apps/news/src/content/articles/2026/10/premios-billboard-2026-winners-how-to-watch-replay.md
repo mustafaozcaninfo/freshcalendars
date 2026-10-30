@@ -109,7 +109,7 @@ internalLinks:
     label: "October 2026 printable calendar"
   - href: "/printable-weekly-calendar.html"
     label: "Printable weekly calendar"
-related: [world-series-2026-schedule-game-times-tv-channel, lol-worlds-2026-schedule-tickets, ballon-dor-2026-date-time-by-time-zone-nominees-london]
+related: [ballon-dor-2026-date-time-by-time-zone-nominees-london, cma-awards-2026-date-time-channel-host-nominees]
 downloads:
   - group: "Premios Billboard 2026 Winners printables"
     title: "Premios Billboard 2026 Winners, Full List"

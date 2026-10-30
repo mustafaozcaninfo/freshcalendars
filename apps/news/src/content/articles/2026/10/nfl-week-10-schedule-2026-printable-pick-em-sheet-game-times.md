@@ -5,7 +5,7 @@ description: "National Football League (NFL) Week 10 has 14 games, Nov. 12 to 16
 type: news
 publishedAt: "2026-10-29T11:46:00-04:00"
 authors: [jordan-bennett]
-category: planning
+category: sports
 keywords: ["NFL Week 10 schedule 2026", "NFL Week 10 2026 game times", "NFL Week 10 pick em sheet printable", "Patriots Lions Munich time"]
 assets:
   overlay: true

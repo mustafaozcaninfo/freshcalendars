@@ -108,7 +108,7 @@ internalLinks:
     label: "November 2026 printable calendar"
   - href: "/december-calendars.html"
     label: "December 2026 printable calendar"
-related: [sunset-times-after-daylight-saving-time-ends-2026, november-2026-calendar-printable, thanksgiving-2026-planner-countdown-checklist]
+related: [november-2026-calendar-printable]
 downloads:
   - group: "2026 Gun Deer Season Dates by State printables"
     title: "2026 Gun Deer Season Dates by State"

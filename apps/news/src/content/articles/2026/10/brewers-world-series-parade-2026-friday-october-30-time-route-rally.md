@@ -6,7 +6,7 @@ type: news
 publishedAt: "2026-10-29T01:50:00-04:00"
 updatedAt: "2026-10-30T00:30:00-04:00"
 authors: [jordan-bennett]
-category: planning
+category: sports
 keywords: ["brewers parade", "brewers world series parade time", "brewers parade route", "brewers rally tickets", "brewers parade of champions"]
 dateline: "Milwaukee"
 assets:

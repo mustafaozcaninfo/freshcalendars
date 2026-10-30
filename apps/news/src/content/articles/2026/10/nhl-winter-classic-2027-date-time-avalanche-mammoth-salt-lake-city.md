@@ -5,7 +5,7 @@ description: "The 2027 Winter Classic is Thursday, Dec. 31, 2026, at 4 p.m. Moun
 type: news
 publishedAt: "2026-10-26T14:40:00-04:00"
 authors: [jordan-bennett]
-category: planning
+category: sports
 keywords: ["NHL Winter Classic 2027", "Winter Classic 2027 time", "Winter Classic 2026 date", "Avalanche Mammoth Winter Classic", "NHL Stadium Series 2027"]
 dateline: "Salt Lake City"
 hero:

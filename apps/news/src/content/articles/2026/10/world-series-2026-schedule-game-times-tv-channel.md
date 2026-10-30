@@ -6,7 +6,7 @@ type: news
 publishedAt: "2026-10-21T05:45:00-04:00"
 updatedAt: "2026-10-28T23:12:00-04:00"
 authors: [jordan-bennett]
-category: planning
+category: sports
 keywords: ["World Series 2026 schedule", "World Series game times", "what channel is the World Series on", "Brewers vs Rays World Series", "World Series Game 1 time"]
 dateline: "New York"
 hero:
@@ -74,7 +74,7 @@ internalLinks:
     label: "November 2026 printable calendar"
   - href: "/when-is/halloween/"
     label: "When is Halloween?"
-related: [october-20-2026-what-day-holidays-observances, halloween-2026-saturday-sunset-trick-or-treat-times, daylight-saving-time-ends-november-1-2026]
+related: [october-20-2026-what-day-holidays-observances, japan-series-2026-schedule-softbank-hawks-dena-baystars-us-time, brewers-world-series-parade-2026-friday-october-30-time-route-rally]
 downloads:
   - group: "World Series printables"
     title: "World Series 2026 Schedule and Score Tracker (Color)"

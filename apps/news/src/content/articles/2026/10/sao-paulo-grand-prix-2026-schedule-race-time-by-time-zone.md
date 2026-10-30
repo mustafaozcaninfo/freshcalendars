@@ -5,7 +5,7 @@ description: "The São Paulo Grand Prix race is Sunday, Nov. 8, 2026, at 2 p.m. 
 type: explainer
 publishedAt: "2026-10-26T01:12:00-04:00"
 authors: [jordan-bennett]
-category: planning
+category: sports
 keywords: ["Brazil Grand Prix 2026 time", "São Paulo Grand Prix 2026 schedule", "F1 Brazil race time", "Brazilian Grand Prix 2026"]
 dateline: "São Paulo"
 hero:
@@ -53,7 +53,7 @@ internalLinks:
     label: "November 2026 printable calendar"
   - href: "/when-is/daylight-savings/"
     label: "When is daylight saving time?"
-related: [mexico-city-grand-prix-2026-schedule-race-time-by-time-zone, daylight-saving-time-ends-november-1-2026, november-2026-important-dates-days-until]
+related: [mexico-city-grand-prix-2026-schedule-race-time-by-time-zone]
 assets:
   overlay: true
   kicker: "São Paulo GP · Nov. 8, 2026"

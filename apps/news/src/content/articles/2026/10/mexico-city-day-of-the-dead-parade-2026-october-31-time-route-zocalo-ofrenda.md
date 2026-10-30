@@ -5,7 +5,7 @@ description: "The Mexico City Day of the Dead parade is Sat., Oct. 31, 2026, at 
 type: news
 publishedAt: "2026-10-28T23:44:00-04:00"
 authors: [jordan-bennett]
-category: planning
+category: holidays
 keywords: ["Mexico City Day of the Dead parade 2026", "Día de Muertos parade CDMX 2026 time", "desfile de Día de Muertos 2026", "Day of the Dead parade route Mexico City"]
 dateline: "Mexico City"
 hero:

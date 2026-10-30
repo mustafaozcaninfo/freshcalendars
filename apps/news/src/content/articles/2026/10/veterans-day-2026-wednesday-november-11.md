@@ -58,7 +58,7 @@ internalLinks:
   - href: "/when-is/memorial-day/"
     label: "When is Memorial Day?"
 draft: false
-related: [chicago-public-schools-calendar-2026-27-breaks, nyc-public-schools-calendar-2026-27-breaks-holidays, costco-holiday-hours-closures-2026-2027]
+related: [costco-holiday-hours-closures-2026-2027]
 ---
 
 Veterans Day 2026 falls on **Wednesday, Nov. 11**. It is a federal holiday, so federal offices, the Federal Reserve, most banks and the U.S. Postal Service close for the day, while the stock market stays open. Unlike most federal holidays, Veterans Day is tied to its date rather than a weekday, which is why it lands midweek this year instead of creating a long weekend.

@@ -63,7 +63,7 @@ internalLinks:
     label: "October 2026 printable calendar"
   - href: "/when-is/daylight-savings/"
     label: "When does daylight saving time end"
-related: [halloween-2026-saturday-sunset-trick-or-treat-times, daylight-saving-time-ends-november-1-2026, day-of-the-dead-2026-dia-de-los-muertos-dates]
+related: [halloween-2026-saturday-sunset-trick-or-treat-times, day-of-the-dead-2026-dia-de-los-muertos-dates]
 draft: false
 ---
 

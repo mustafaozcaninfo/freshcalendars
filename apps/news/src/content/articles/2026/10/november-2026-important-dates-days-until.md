@@ -6,7 +6,7 @@ type: explainer
 publishedAt: "2026-10-19T08:00:00-04:00"
 updatedAt: "2026-10-26T05:23:00-04:00"
 authors: [jordan-bennett]
-category: planning
+category: calendar-guides
 keywords: ["November 2026 holidays", "November 2026 important dates", "holidays in November 2026", "Thanksgiving 2026 calendar", "days until Thanksgiving 2026"]
 dateline: "New York"
 hero:
@@ -56,7 +56,7 @@ internalLinks:
     label: "When is Black Friday"
   - href: "/when-is/veterans-day/"
     label: "When is Veterans Day"
-related: [diwali-2026-date-lakshmi-puja-time-usa, sample-ballot-by-zip-code-2026-texas-ballot, why-thanksgiving-2026-is-november-26]
+related: [why-thanksgiving-2026-is-november-26]
 downloads:
   - group: "November 2026 printables"
     title: "November 2026 Calendar With Holidays (Sunday Start)"

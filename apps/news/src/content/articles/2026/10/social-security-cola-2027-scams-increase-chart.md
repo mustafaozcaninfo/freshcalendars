@@ -68,7 +68,7 @@ internalLinks:
     label: "January 2027 printable calendar"
   - href: "/december-calendars.html"
     label: "December 2026 printable calendar"
-related: [social-security-cola-2027-3-6-percent-payment-dates, medicare-open-enrollment-2026-december-7-90-dollar-rebate]
+related: [social-security-cola-2027-3-6-percent-payment-dates, medicare-open-enrollment-2026-december-7-90-dollar-rebate, social-security-payment-schedule-october-2026-who-gets-paid-today]
 downloads:
   - group: "Social Security 2027 printables"
     title: "Social Security Increase 2027 Chart"

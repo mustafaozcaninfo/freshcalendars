@@ -6,7 +6,7 @@ type: news
 publishedAt: "2026-10-25T02:50:00-04:00"
 updatedAt: "2026-10-25T17:35:00-04:00"
 authors: [jordan-bennett]
-category: planning
+category: sports
 keywords: ["Marine Corps Marathon 2026", "Marine Corps Marathon road closures", "Marine Corps Marathon start time", "beat the bridge time"]
 dateline: "Arlington, Va."
 assets:
@@ -91,7 +91,7 @@ internalLinks:
     label: "October 2026 printable calendar"
   - href: "/november-calendars.html"
     label: "November 2026 printable calendar"
-related: [nyc-marathon-2026-start-times-road-closures-where-to-watch, uk-europe-clocks-go-back-october-25-2026-time-difference, daylight-saving-time-ends-november-1-2026]
+related: [nyc-marathon-2026-start-times-road-closures-where-to-watch]
 downloads:
   - group: "Marine Corps Marathon 2026 Race-Day Timeline printables"
     title: "Marine Corps Marathon 2026 Race-Day Timeline"

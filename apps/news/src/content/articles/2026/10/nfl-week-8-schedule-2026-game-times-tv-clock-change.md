@@ -5,7 +5,7 @@ description: "National Football League (NFL) Week 8: 14 games from Thu., Oct. 29
 type: news
 publishedAt: "2026-10-28T17:45:00-04:00"
 authors: [jordan-bennett]
-category: planning
+category: sports
 keywords: ["NFL Week 8 schedule 2026", "NFL games this week", "NFL schedule today Nov 1 2026", "what time do NFL games start after time change"]
 assets:
   scene: sports

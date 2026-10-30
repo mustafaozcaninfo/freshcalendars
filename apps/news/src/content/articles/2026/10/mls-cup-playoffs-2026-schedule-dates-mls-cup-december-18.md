@@ -5,7 +5,7 @@ description: "Major League Soccer (MLS) says MLS Cup 2026 is Fri., Dec. 18 and D
 type: explainer
 publishedAt: "2026-10-25T20:18:00-04:00"
 authors: [jordan-bennett]
-category: planning
+category: sports
 keywords: ["MLS Cup playoffs 2026 schedule", "MLS Cup 2026 date", "MLS playoffs 2026 format", "MLS Decision Day 2026"]
 dateline: "New York"
 assets:

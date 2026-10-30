@@ -6,7 +6,7 @@ type: explainer
 publishedAt: "2026-10-19T11:28:00-04:00"
 updatedAt: "2026-10-28T16:12:00-04:00"
 authors: [emily-carter]
-category: planning
+category: school-calendars
 keywords: ["SAT test dates 2026-27", "ACT test dates 2026-27", "SAT registration deadline November 2026", "ACT test dates 2027", "SAT dates 2027"]
 dateline: "New York"
 hero:

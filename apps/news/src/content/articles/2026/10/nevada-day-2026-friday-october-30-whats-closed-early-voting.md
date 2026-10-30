@@ -62,7 +62,7 @@ internalLinks:
     label: "November 2026 printable calendar"
   - href: "/when-is/halloween/"
     label: "When is Halloween?"
-related: [early-voting-2026-which-states-are-voting-now, mail-ballot-deadlines-2026-by-state, halloween-2026-saturday-sunset-trick-or-treat-times]
+related: [early-voting-2026-which-states-are-voting-now, halloween-2026-saturday-sunset-trick-or-treat-times]
 draft: false
 assets:
   overlay: true

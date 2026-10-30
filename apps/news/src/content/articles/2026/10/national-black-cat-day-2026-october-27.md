@@ -58,7 +58,7 @@ internalLinks:
     label: "October 2026 printable calendar"
   - href: "/august-calendars.html"
     label: "August 2027 printable calendar"
-related: [halloween-2026-what-day-trick-or-treating-start, intersex-awareness-day-2026-october-26, november-2026-important-dates-days-until]
+related: [halloween-2026-what-day-trick-or-treating-start, intersex-awareness-day-2026-october-26, national-cat-day-2026-thursday-october-29]
 downloads:
   - group: "Black Cat Day 2026 Checklist printables"
     title: "Black Cat Day 2026 Checklist"

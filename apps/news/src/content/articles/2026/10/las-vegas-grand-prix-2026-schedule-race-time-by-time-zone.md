@@ -5,7 +5,7 @@ description: "The Las Vegas Grand Prix is Saturday, Nov. 21, 2026, at 8 p.m. loc
 type: news
 publishedAt: "2026-10-27T07:48:00-04:00"
 authors: [jordan-bennett]
-category: planning
+category: sports
 keywords: ["Las Vegas Grand Prix 2026", "Las Vegas Grand Prix 2026 time", "F1 Las Vegas 2026 schedule", "what time is the Las Vegas Grand Prix"]
 dateline: "Las Vegas"
 hero:
@@ -53,7 +53,7 @@ internalLinks:
     label: "November 2026 printable calendar"
   - href: "/printable-weekly-calendar.html"
     label: "printable weekly calendar"
-related: [sao-paulo-grand-prix-2026-schedule-race-time-by-time-zone, mexico-city-grand-prix-2026-schedule-race-time-by-time-zone, daylight-saving-time-ends-november-1-2026]
+related: [sao-paulo-grand-prix-2026-schedule-race-time-by-time-zone, mexico-city-grand-prix-2026-schedule-race-time-by-time-zone]
 assets:
   overlay: true
   kicker: "Las Vegas GP · Nov. 21, 2026"

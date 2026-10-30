@@ -47,7 +47,7 @@ internalLinks:
     label: "November 2026 printable calendar"
   - href: "/march-calendars.html"
     label: "March 2027 printable calendar"
-related: [nyc-public-schools-calendar-2026-27-breaks-holidays, veterans-day-2026-wednesday-november-11]
+related: [nyc-public-schools-calendar-2026-27-breaks-holidays, clark-county-school-district-calendar-2026-27-breaks, charlotte-mecklenburg-schools-calendar-2026-27-breaks]
 downloads:
   - group: "Chicago schools printable"
     title: "Chicago Public Schools Calendar 2026-27"

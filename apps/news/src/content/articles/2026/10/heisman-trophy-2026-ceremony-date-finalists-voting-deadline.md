@@ -5,7 +5,7 @@ description: "The 2026 Heisman Trophy winner is announced Saturday, Dec. 12, hei
 type: news
 publishedAt: "2026-10-28T18:00:00-04:00"
 authors: [jordan-bennett]
-category: planning
+category: sports
 keywords: ["Heisman Trophy 2026 date", "Heisman ceremony 2026", "Heisman finalists 2026", "Heisman voting deadline"]
 hero:
   src: ../../../../assets/news/heisman-trophy-2026-ceremony-date-finalists-voting-deadline/heisman-trophy-2026-ceremony-date-finalists-voting-deadline.webp
@@ -54,7 +54,7 @@ internalLinks:
     label: "December 2026 printable calendar"
   - href: "/printable-weekly-calendar.html"
     label: "printable weekly calendar"
-related: [army-navy-game-2026-date-kickoff-time-metlife-stadium-tv, college-football-playoff-rankings-2026-schedule-dates-times, thanksgiving-football-schedule-2026-nfl-college-games]
+related: [army-navy-game-2026-date-kickoff-time-metlife-stadium-tv, college-football-playoff-rankings-2026-schedule-dates-times]
 assets:
   overlay: true
   kicker: "Heisman Trophy 2026 · Sat., Dec. 12"

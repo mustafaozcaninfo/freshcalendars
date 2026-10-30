@@ -86,7 +86,7 @@ internalLinks:
     label: "When is Thanksgiving?"
   - href: "/when-is/black-friday/"
     label: "When is Black Friday?"
-related: [new-on-disney-plus-november-2026-release-dates, netflix-new-movies-november-2026-release-dates, thanksgiving-2026-tv-schedule-macys-parade-nfl-games]
+related: [new-on-disney-plus-november-2026-release-dates, netflix-new-movies-november-2026-release-dates, new-on-paramount-plus-november-2026-yellowjackets-final-season]
 downloads:
   - group: "Prime Video November 2026 Release Calendar printables"
     title: "Prime Video November 2026 Release Calendar"

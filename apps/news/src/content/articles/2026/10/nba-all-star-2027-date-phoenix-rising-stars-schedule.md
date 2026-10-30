@@ -5,7 +5,7 @@ description: "The 76th National Basketball Association (NBA) All-Star Game is Su
 type: news
 publishedAt: "2026-10-26T16:38:00-04:00"
 authors: [jordan-bennett]
-category: planning
+category: sports
 keywords: ["NBA All-Star 2027", "NBA All Star Game 2027 date", "2027 All-Star Weekend Phoenix", "NBA All Star 2027 time channel", "Rising Stars 2027"]
 dateline: "Phoenix"
 hero:

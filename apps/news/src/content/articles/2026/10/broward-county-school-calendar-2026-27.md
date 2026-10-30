@@ -41,7 +41,7 @@ internalLinks:
     label: "November 2026 printable calendar"
   - href: "/may-calendars.html"
     label: "May 2027 printable calendar"
-related: [palm-beach-county-school-calendar-2026-27, miami-dade-school-calendar-2026-27-breaks, ultra-music-festival-2027-miami-dates-march-26-28]
+related: [palm-beach-county-school-calendar-2026-27, miami-dade-school-calendar-2026-27-breaks, nyc-public-schools-calendar-2026-27-breaks-holidays]
 draft: false
 ---
 

@@ -6,7 +6,7 @@ type: explainer
 publishedAt: "2026-10-23T02:50:00-04:00"
 updatedAt: "2026-10-23T09:55:00-04:00"
 authors: [jordan-bennett]
-category: planning
+category: sports
 keywords: ["printable NFL schedule 2026-2027 PDF", "NFL schedule 2026", "NFL 2026 week by week schedule", "NFL bye weeks 2026", "NFL team schedules 2026 printable"]
 dateline: "New York"
 assets:
@@ -81,7 +81,7 @@ internalLinks:
     label: "December 2026 printable calendar"
   - href: "/printable-weekly-calendar.html"
     label: "Printable weekly calendar"
-related: [thanksgiving-2026-tv-schedule-macys-parade-nfl-games, november-2026-important-dates-days-until, world-series-2026-schedule-game-times-tv-channel]
+related: [thanksgiving-2026-tv-schedule-macys-parade-nfl-games, world-series-2026-schedule-game-times-tv-channel, nfl-week-8-schedule-2026-game-times-tv-clock-change]
 corrections:
   - date: "2026-10-23T09:55:00-04:00"
     text: "An earlier version said Week 18 matchups are set after Week 17. The matchups are fixed; only their days and kickoff times are set after Week 17. The one-page planner that carried the error has been replaced."

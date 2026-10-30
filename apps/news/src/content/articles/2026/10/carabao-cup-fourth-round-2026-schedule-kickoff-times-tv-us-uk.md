@@ -5,7 +5,7 @@ description: "Carabao Cup Round Four starts Oct. 27, 2026: Fleetwood vs Arsenal 
 type: news
 publishedAt: "2026-10-27T11:58:00-04:00"
 authors: [jordan-bennett]
-category: planning
+category: sports
 keywords: ["carabao cup schedule", "carabao cup on tv tonight", "fleetwood vs arsenal time", "liverpool vs chelsea carabao cup time", "how to watch carabao cup in the us"]
 dateline: "London"
 assets:
@@ -72,7 +72,7 @@ internalLinks:
     label: "October 2026 printable calendar"
   - href: "/printable-weekly-calendar.html"
     label: "printable weekly calendar"
-related: [monday-night-football-tonight-cowboys-eagles-mnf-schedule-2026, uk-europe-clocks-go-back-october-25-2026-time-difference, ballon-dor-2026-date-time-by-time-zone-nominees-london]
+related: [monday-night-football-tonight-cowboys-eagles-mnf-schedule-2026, ballon-dor-2026-date-time-by-time-zone-nominees-london]
 downloads:
   - group: "Carabao Cup Round Four TV Schedule 2026 printables"
     title: "Carabao Cup Round Four TV Schedule 2026"

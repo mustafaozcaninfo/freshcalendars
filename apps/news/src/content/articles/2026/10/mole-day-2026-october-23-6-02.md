@@ -48,7 +48,7 @@ internalLinks:
     label: "October 2026 printable calendar"
   - href: "/printable-school-calendar.html"
     label: "Printable school calendar"
-related: [october-22-2026-this-day-in-history-observances, october-20-2026-what-day-holidays-observances, sat-act-test-dates-2026-27-registration-deadlines]
+related: [october-22-2026-this-day-in-history-observances, october-20-2026-what-day-holidays-observances, national-candy-corn-day-2026-october-30]
 downloads:
   - group: "Mole Day printables"
     title: "Mole Day 2026 Practice Sheet"

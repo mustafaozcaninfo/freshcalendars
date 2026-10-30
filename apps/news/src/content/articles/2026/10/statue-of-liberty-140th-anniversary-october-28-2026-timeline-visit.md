@@ -65,7 +65,7 @@ internalLinks:
     label: "November 2026 printable calendar"
   - href: "/printable-yearly-calendar.html"
     label: "2026 printable yearly calendar"
-related: [october-22-2026-this-day-in-history-observances, nyc-holiday-calendar-2026-rockefeller-tree-macys-parade, nyc-marathon-2026-start-times-road-closures-where-to-watch]
+related: [october-22-2026-this-day-in-history-observances, nyc-holiday-calendar-2026-rockefeller-tree-macys-parade]
 assets:
   scene: none
   overlay: true

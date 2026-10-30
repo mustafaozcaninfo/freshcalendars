@@ -5,7 +5,7 @@ description: "Super Bowl 61 (LXI) is at SoFi Stadium in February 2027, the Natio
 type: explainer
 publishedAt: "2026-10-25T17:02:00-04:00"
 authors: [jordan-bennett]
-category: planning
+category: sports
 keywords: ["Super Bowl 2027", "Super Bowl LXI date", "where is the Super Bowl 2027", "Super Bowl 2027 channel", "Super Bowl 2027 halftime show"]
 dateline: "Inglewood, Calif."
 assets:
@@ -78,7 +78,7 @@ internalLinks:
     label: "February 2027 printable calendar"
   - href: "/printable-yearly-calendar.html"
     label: "printable yearly calendar"
-related: [monday-night-football-tonight-cowboys-eagles-mnf-schedule-2026, printable-nfl-schedule-2026-2027-pdf, federal-holidays-2027-observed-dates-list]
+related: [monday-night-football-tonight-cowboys-eagles-mnf-schedule-2026, printable-nfl-schedule-2026-2027-pdf]
 downloads:
   - group: "Super Bowl LXI Planner (February 2027) printables"
     title: "Super Bowl LXI Planner (February 2027)"

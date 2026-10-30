@@ -5,7 +5,7 @@ description: "Champions League matchday 4 is Nov. 3-4 and matchday 5 is Nov. 24-
 type: news
 publishedAt: "2026-10-28T15:50:00-04:00"
 authors: [jordan-bennett]
-category: planning
+category: sports
 keywords: ["champions league schedule november 2026", "champions league matchday 4 2026 kickoff times et", "champions league today time et", "man utd vs roma champions league time"]
 dateline: "London"
 assets:

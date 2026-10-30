@@ -6,7 +6,7 @@ type: explainer
 publishedAt: "2026-10-27T10:08:00-04:00"
 updatedAt: "2026-10-29T03:55:00-04:00"
 authors: [jordan-bennett]
-category: planning
+category: sports
 keywords: ["MLB offseason key dates 2026", "when does MLB free agency start 2026", "MLB awards 2026 dates", "MLB CBA expiration December 1 2026"]
 hero:
   src: ../../../../assets/news/mlb-offseason-2026-key-dates-free-agency-awards-cba/mlb-offseason-2026-key-dates-free-agency-awards-cba.webp

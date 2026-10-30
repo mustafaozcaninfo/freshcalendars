@@ -5,7 +5,7 @@ description: "All 10 college football conference championship games are set for 
 type: news
 publishedAt: "2026-10-28T18:00:00-04:00"
 authors: [jordan-bennett]
-category: planning
+category: sports
 keywords: ["conference championship games 2026", "conference championship weekend 2026 schedule", "college football championship games TV 2026", "SEC championship game 2026 time"]
 assets:
   overlay: true

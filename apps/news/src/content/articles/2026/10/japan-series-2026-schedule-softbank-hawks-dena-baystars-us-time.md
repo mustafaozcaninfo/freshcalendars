@@ -6,7 +6,7 @@ type: news
 publishedAt: "2026-10-28T05:41:00-04:00"
 updatedAt: "2026-10-28T07:45:00-04:00"
 authors: [jordan-bennett]
-category: planning
+category: sports
 keywords: ["Japan Series 2026 schedule", "SoftBank vs DeNA", "Japan Series game times US", "Nippon Series 2026"]
 dateline: "Fukuoka"
 hero:
@@ -50,7 +50,7 @@ internalLinks:
     label: "October 2026 printable calendar"
   - href: "/november-calendars.html"
     label: "November 2026 printable calendar"
-related: [world-series-2026-schedule-game-times-tv-channel, mlb-offseason-2026-key-dates-free-agency-awards-cba, daylight-saving-time-ends-november-1-2026]
+related: [world-series-2026-schedule-game-times-tv-channel, mlb-offseason-2026-key-dates-free-agency-awards-cba]
 assets:
   overlay: true
   scene: sports

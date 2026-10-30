@@ -71,7 +71,7 @@ internalLinks:
     label: "2026 holidays list"
   - href: "/printable-weekly-calendar.html"
     label: "Printable weekly calendar"
-related: [advent-calendar-2026-dates-free-printable, usps-holiday-shipping-deadlines-2026, winter-break-2026-school-districts-dates]
+related: [advent-calendar-2026-dates-free-printable, usps-holiday-shipping-deadlines-2026]
 downloads:
   - group: "Hanukkah 2026 printables"
     title: "Hanukkah 2026 Calendar"

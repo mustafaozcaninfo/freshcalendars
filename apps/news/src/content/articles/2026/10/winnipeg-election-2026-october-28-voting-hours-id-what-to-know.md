@@ -4,6 +4,7 @@ seoTitle: "Winnipeg Election 2026: Voting Hours and ID, Oct. 28"
 description: "Winnipeg votes Wednesday, Oct. 28, 2026, 8 a.m. to 8 p.m. Central Time (CT), says the City. What identification (ID) to bring and the hours in other time zones."
 type: news
 publishedAt: "2026-10-28T00:02:00-04:00"
+updatedAt: "2026-10-30T00:45:00-04:00"
 authors: [alex-morgan]
 category: elections
 keywords: ["Winnipeg election 2026", "Winnipeg election day October 28", "Winnipeg voting hours", "what ID do I need to vote in Winnipeg"]
@@ -43,10 +44,10 @@ assets:
     description: "One-page Winnipeg Election Day checklist for Oct. 28, 2026: ID to bring, how to find your voting place and the 8 a.m. to 8 p.m. hours."
     alt: "Winnipeg Election Day checklist printable for Oct. 28, 2026 with ID, voting place and poll hours sections"
 summary:
+  - "Scott Gillingham was re-elected mayor with 39.8% (80,206 votes) on unofficial results from all 245 tabulators, ahead of Kevin Klein at 20.7%, Global News and the Canadian Broadcasting Corporation (CBC) reported."
   - "Winnipeg voting places are open 8 a.m. to 8 p.m. Central Time on Wednesday, Oct. 28, 2026, which is 9 a.m. to 9 p.m. Eastern Time."
   - "The City of Winnipeg requires every voter to show proof of name and current address; one option is two original pieces of authorized ID."
   - "Winnipeg ballots carry mayor, councillor and school trustee races."
-  - "In 2022, turnout was 37.5%, with 195,530 voters casting ballots, the City says."
 faq:
   - q: "What time do polls open and close in Winnipeg on Oct. 28, 2026?"
     a: "Voting places are open 8 a.m. to 8 p.m. Central Time, the Province of Manitoba says. That is 9 a.m. to 9 p.m. Eastern Time."
@@ -59,6 +60,10 @@ faq:
   - q: "Can I still vote in advance?"
     a: "No. Advance voting at City Hall ended Oct. 23, and the community sites ended Oct. 22, according to the City."
 sources:
+  - title: "Winnipeg election results: Scott Gillingham re-elected mayor, 9 new councillors"
+    url: "https://globalnews.ca/news/12122725/election-day-winnipeg-2026/"
+    publisher: "Global News"
+    date: "2026-10-29"
   - title: "Wards & elections | City of Winnipeg"
     url: "https://www.winnipeg.ca/elections"
     publisher: "City of Winnipeg"
@@ -80,7 +85,7 @@ internalLinks:
     label: "October 2026 printable calendar"
   - href: "/november-calendars.html"
     label: "November 2026 printable calendar"
-related: [canada-statutory-holidays-2027-federal-general-holidays, remembrance-day-2026-canada-statutory-holiday-remembrance-sunday-uk, what-time-do-polls-close-election-day-2026]
+related: [what-time-do-polls-close-election-day-2026, early-voting-starts-october-24-michigan-new-york-2026, when-is-election-day-2026-illinois-polls-early-voting]
 downloads:
   - group: "Winnipeg Election Day Checklist printables"
     title: "Winnipeg Election Day Checklist, Oct. 28, 2026"
@@ -100,6 +105,8 @@ downloads:
     pages: 1
 draft: false
 ---
+
+<p class="callout"><b>Updated Oct. 30, 2026, 12:45 a.m. ET.</b> Results: Mayor Scott Gillingham was re-elected with 39.8% of the vote (80,206) on unofficial results from all 245 tabulators, ahead of Kevin Klein (20.7%), Noah Redden (19.8%) and Mike Vogiatzakis (9.7%), Global News and the Canadian Broadcasting Corporation (CBC) reported. The City of Winnipeg results page blocked our automated check, so turnout and the date results become official are not yet confirmed here.</p>
 
 **Winnipeg votes today, Wednesday, Oct. 28, 2026, with voting places open 8 a.m. to 8 p.m. local time (Central Time, CT), according to the City of Winnipeg and the Province of Manitoba.** Voters need to show identification (ID) with their name and current address. Ballots carry the offices of mayor, councillor and school trustee.
 

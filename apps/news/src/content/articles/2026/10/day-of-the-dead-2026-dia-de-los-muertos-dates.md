@@ -46,7 +46,7 @@ internalLinks:
     label: "November 2026 printable calendar"
   - href: "/when-is/daylight-savings/"
     label: "When does daylight saving time end"
-related: [halloween-2026-saturday-sunset-trick-or-treat-times, diwali-2026-date-lakshmi-puja-time-usa]
+related: [halloween-2026-saturday-sunset-trick-or-treat-times, diwali-2026-date-lakshmi-puja-time-usa, mexico-city-day-of-the-dead-parade-2026-october-31-time-route-zocalo-ofrenda]
 draft: false
 ---
 

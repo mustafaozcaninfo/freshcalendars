@@ -77,7 +77,7 @@ internalLinks:
     label: "printable yearly calendar"
   - href: "/october-calendars.html"
     label: "October 2026 printable calendar"
-related: [avatar-seven-havens-release-schedule-episodes, gta-6-countdown-release-time-by-time-zone, hallmark-countdown-to-christmas-2026-schedule-printable]
+related: [avatar-seven-havens-release-schedule-episodes, new-on-paramount-plus-november-2026-yellowjackets-final-season]
 downloads:
   - group: "From Season 5 Watch Tracker (2026-27) printables"
     title: "From Season 5 Watch Tracker (2026-27)"

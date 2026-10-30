@@ -5,7 +5,7 @@ description: "The 2027 National Association for Stock Car Auto Racing (NASCAR) C
 type: news
 publishedAt: "2026-10-28T18:00:00-04:00"
 authors: [jordan-bennett]
-category: planning
+category: sports
 keywords: ["NASCAR schedule 2027", "Daytona 500 2027 date", "NASCAR Cup Series 2027 schedule", "2027 NASCAR TV schedule"]
 assets:
   overlay: true

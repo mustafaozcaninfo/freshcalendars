@@ -5,7 +5,7 @@ description: "The Mexico City Grand Prix race is Sunday, Nov. 1, 2026, at 2 p.m.
 type: news
 publishedAt: "2026-10-25T14:19:00-04:00"
 authors: [jordan-bennett]
-category: planning
+category: sports
 keywords: ["Mexico City Grand Prix 2026", "Mexican Grand Prix 2026 time", "F1 Mexico 2026 schedule", "what time is the F1 race Sunday"]
 dateline: "Mexico City"
 hero:
@@ -44,7 +44,7 @@ internalLinks:
     label: "November 2026 printable calendar"
   - href: "/october-calendars.html"
     label: "October 2026 printable calendar"
-related: [daylight-saving-time-ends-november-1-2026, ballon-dor-2026-date-time-by-time-zone-nominees-london, world-series-2026-schedule-game-times-tv-channel]
+related: [ballon-dor-2026-date-time-by-time-zone-nominees-london, world-series-2026-schedule-game-times-tv-channel, sao-paulo-grand-prix-2026-schedule-race-time-by-time-zone]
 assets:
   overlay: true
   kicker: "Mexico City GP · Nov. 1, 2026"

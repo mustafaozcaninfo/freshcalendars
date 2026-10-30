@@ -82,7 +82,7 @@ internalLinks:
     label: "When is Thanksgiving?"
   - href: "/when-is/christmas-day/"
     label: "When is Christmas Day?"
-related: [netflix-new-movies-november-2026-release-dates, cma-awards-2026-date-time-channel-host-nominees, thanksgiving-2026-tv-schedule-macys-parade-nfl-games]
+related: [netflix-new-movies-november-2026-release-dates, cma-awards-2026-date-time-channel-host-nominees, new-on-hulu-november-2026-release-dates]
 downloads:
   - group: "Disney+ November 2026 Release Calendar printables"
     title: "Disney+ November 2026 Release Calendar"

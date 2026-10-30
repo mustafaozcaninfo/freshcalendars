@@ -5,7 +5,7 @@ description: "The National Football League (NFL) plays Bengals vs. Falcons in Ma
 type: news
 publishedAt: "2026-10-28T02:40:00-04:00"
 authors: [jordan-bennett]
-category: planning
+category: sports
 keywords: ["NFL Madrid game 2026 kickoff time", "NFL Munich game 2026 time", "NFL Mexico City game 2026", "NFL international games 2026 schedule"]
 hero:
   src: ../../../../assets/news/nfl-international-games-november-2026-madrid-munich-mexico-city-kickoff-times/nfl-international-games-november-2026-madrid-munich-mexico-city-kickoff-times.webp
@@ -47,7 +47,7 @@ internalLinks:
     label: "November 2026 printable calendar"
   - href: "/printable-weekly-calendar.html"
     label: "Printable weekly calendar"
-related: [printable-nfl-schedule-2026-2027-pdf, uk-europe-clocks-go-back-october-25-2026-time-difference, thanksgiving-football-schedule-2026-nfl-college-games]
+related: [printable-nfl-schedule-2026-2027-pdf, thanksgiving-football-schedule-2026-nfl-college-games, college-football-conference-championship-games-2026-schedule-times-tv]
 assets:
   overlay: true
   kicker: "NFL abroad · Nov. 8, 15 and 22, 2026"

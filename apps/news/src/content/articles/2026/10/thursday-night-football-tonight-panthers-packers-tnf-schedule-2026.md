@@ -4,7 +4,7 @@ seoTitle: "Thursday Night Football: Panthers at Packers Oct. 29"
 description: "Thursday Night Football (TNF): Panthers at Packers on Oct. 29, 2026, 8:15 p.m. Eastern Time (ET) on Prime Video, with every U.S. zone and the full TNF schedule."
 type: news
 publishedAt: "2026-10-27T21:40:00-04:00"
-updatedAt: "2026-10-29T16:10:00-04:00"
+updatedAt: "2026-10-30T00:45:00-04:00"
 authors: [jordan-bennett]
 category: sports
 keywords: ["Thursday Night Football tonight", "Panthers vs Packers live stream", "Panthers vs Packers time channel", "TNF schedule 2026", "what channel is Thursday Night Football"]
@@ -45,6 +45,7 @@ hero:
     source: "https://commons.wikimedia.org/wiki/File:Lambeau_Field.jpg"
     author: "JL1Row"
 summary:
+  - "Final score: Green Bay Packers 27, Carolina Panthers 19, on Thursday, Oct. 29, at Lambeau Field, per the ESPN Week 8 scoreboard. Next up: the Week 9 Thursday game on Nov. 5."
   - "The Carolina Panthers play at the Green Bay Packers on Thu., Oct. 29, 2026, at 8:15 p.m. Eastern Time (ET) on Prime Video, per NFL.com and Amazon."
   - "Oct. 29 is before the Nov. 1 clock change, so kickoff is 7:15 p.m. Central, 6:15 p.m. Mountain and 5:15 p.m. Pacific; the table has every U.S. zone."
   - "Nine more dated Thursday games follow, from Nov. 5 to Dec. 31, all at 8:15 p.m. ET on Prime Video; Week 12 is on Friday, Nov. 27."
@@ -64,6 +65,10 @@ faq:
   - q: "Does the time change after Nov. 1?"
     a: "No. Games stay at 8:15 p.m. ET. Clocks fall back on Sun., Nov. 1, 2026, so the local time in Arizona, Hawaii and the United Kingdom shifts by an hour compared with Oct. 29."
 sources:
+  - title: "NFL Scoreboard, Week 8, 2026"
+    url: "https://www.espn.com/nfl/scoreboard/_/week/8/year/2026/seasontype/2"
+    publisher: "ESPN"
+    date: "2026-10-29"
   - title: "NFL Schedules: Games, Times, Matchups & Tickets, Week 8"
     url: "https://www.nfl.com/schedules/2026/REG8/"
     publisher: "NFL"
@@ -108,7 +113,7 @@ downloads:
 draft: false
 ---
 
-<p class="callout"><b>Last updated Oct. 29, 2026, 4:10 p.m. ET.</b> Added the local TV and radio stations the Panthers and Packers list for tonight's game.</p>
+<p class="callout"><b>Updated Oct. 30, 2026, 12:45 a.m. ET.</b> Final: the Green Bay Packers beat the Carolina Panthers 27-19 at Lambeau Field, per the ESPN Week 8 scoreboard. The next Thursday game is Thu., Nov. 5, at 8:15 p.m. Eastern Standard Time (EST) on Prime Video; the schedule below has it.</p>
 
 **The Carolina Panthers play at the Green Bay Packers on Thursday Night Football (TNF) on Thursday, Oct. 29, 2026, at 8:15 p.m. Eastern Time (ET) on Prime Video, per the National Football League (NFL) and Amazon.** The game is Week 8 of the NFL season and is played at Lambeau Field in Green Bay.
 

@@ -56,7 +56,7 @@ internalLinks:
     label: "When is Juneteenth"
   - href: "/when-is/thanksgiving/"
     label: "When is Thanksgiving"
-related: [stock-market-holidays-2027-nyse-closed-dates, canada-statutory-holidays-2027-federal-general-holidays, uk-bank-holidays-2027-dates-england-scotland-northern-ireland, week-numbers-2027-calendar-printable]
+related: [stock-market-holidays-2027-nyse-closed-dates, canada-statutory-holidays-2027-federal-general-holidays, uk-bank-holidays-2027-dates-england-scotland-northern-ireland]
 downloads:
   - group: "2027 holidays printable"
     title: "Federal Holidays 2027"

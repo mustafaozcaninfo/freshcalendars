@@ -74,7 +74,7 @@ internalLinks:
     label: "October 2026 printable calendar"
   - href: "/november-calendars.html"
     label: "November 2026 printable calendar"
-related: [remembrance-day-2026-canada-statutory-holiday-remembrance-sunday-uk, veterans-day-2026-wednesday-november-11, canada-benefit-payment-dates-november-december-2026-cpp-oas-ccb]
+related: [remembrance-day-2026-canada-statutory-holiday-remembrance-sunday-uk, canada-benefit-payment-dates-november-december-2026-cpp-oas-ccb]
 draft: false
 assets:
   overlay: true

@@ -43,7 +43,7 @@ internalLinks:
     label: "November 2026 printable calendar"
   - href: "/december-calendars.html"
     label: "December 2026 printable calendar"
-related: [chicago-public-schools-calendar-2026-27-breaks, sample-ballot-by-zip-code-2026-texas-ballot, ramadan-2027-calendar-dates-timetable]
+related: [chicago-public-schools-calendar-2026-27-breaks, ramadan-2027-calendar-dates-timetable, miami-dade-school-calendar-2026-27-breaks]
 downloads:
   - group: "NYC schools printable"
     title: "NYC Public Schools Calendar 2026-27"

@@ -65,7 +65,7 @@ internalLinks:
     label: "November 2026 printable calendar"
   - href: "/when-is/halloween/"
     label: "When is Halloween?"
-related: [october-20-2026-what-day-holidays-observances, mole-day-2026-october-23-6-02, world-series-2026-schedule-game-times-tv-channel]
+related: [october-20-2026-what-day-holidays-observances, mole-day-2026-october-23-6-02]
 downloads:
   - group: "This day in history printables"
     title: "On This Day: October 22 History Timeline"

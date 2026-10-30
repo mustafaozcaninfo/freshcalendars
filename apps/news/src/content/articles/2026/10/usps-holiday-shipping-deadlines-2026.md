@@ -75,7 +75,7 @@ internalLinks:
     label: "When is Black Friday"
   - href: "/printable-weekly-calendar.html"
     label: "Printable weekly calendar"
-related: [costco-holiday-hours-closures-2026-2027, advent-calendar-2026-dates-free-printable]
+related: [costco-holiday-hours-closures-2026-2027, fedex-ups-holiday-shipping-deadlines-2026-christmas]
 downloads:
   - group: "USPS Christmas Send-By Dates 2026 printables"
     title: "USPS Christmas Send-By Dates 2026"

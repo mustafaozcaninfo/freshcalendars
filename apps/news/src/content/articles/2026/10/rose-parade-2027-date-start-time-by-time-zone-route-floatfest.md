@@ -57,7 +57,7 @@ internalLinks:
     label: "January 2027 printable calendar"
   - href: "/december-calendars.html"
     label: "December 2026 printable calendar"
-related: [college-football-playoff-rankings-2026-schedule-dates-times, nyc-holiday-calendar-2026-rockefeller-tree-macys-parade, thanksgiving-2026-tv-schedule-macys-parade-nfl-games]
+related: [nyc-holiday-calendar-2026-rockefeller-tree-macys-parade, thanksgiving-2026-tv-schedule-macys-parade-nfl-games]
 assets:
   overlay: true
   kicker: "Rose Parade · Fri., Jan. 1, 2027"

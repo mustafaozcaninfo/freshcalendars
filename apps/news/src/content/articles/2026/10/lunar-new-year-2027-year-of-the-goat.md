@@ -5,7 +5,7 @@ description: "Chinese New Year 2027 falls on Saturday, Feb. 6, starting the Year
 type: explainer
 publishedAt: "2026-10-18T12:00:00-04:00"
 authors: [jordan-bennett]
-category: planning
+category: holidays
 keywords: ["Lunar New Year 2027", "Chinese New Year 2027", "Year of the Goat 2027", "Chinese zodiac chart", "Chinese calendar 2027"]
 dateline: "New York"
 hero:

@@ -69,7 +69,7 @@ internalLinks:
   - href: "/march-calendars.html"
     label: "March 2027 printable calendar"
 draft: false
-related: [halloween-2026-saturday-sunset-trick-or-treat-times, november-2026-meteor-showers-taurids-leonids]
+related: [halloween-2026-saturday-sunset-trick-or-treat-times, daylight-saving-time-halloween-2026-clocks-fall-back-night-after-every-year, clock-changes-2027-when-does-daylight-saving-time-start-again-march-14]
 ---
 
 <p class="callout"><b>Last updated Oct. 29, 2026, 7:50 p.m. ET.</b> Searches for the Sunshine Protection Act jumped this week, so we checked again: the House Clerk's record still shows the July 14 House vote, and we found no Senate vote, so the bill is not law. Clocks still go back one hour at 2 a.m. local time this Sunday, Nov. 1; set them back before bed on Saturday, Oct. 31.</p>

@@ -6,7 +6,7 @@ type: news
 publishedAt: "2026-10-25T13:05:00-04:00"
 updatedAt: "2026-10-27T03:05:00-04:00"
 authors: [jordan-bennett]
-category: planning
+category: sports
 keywords: ["Ballon d'Or 2026 winners", "Ballon d'Or 2026 winner", "who won the Ballon d'Or 2026", "Ballon d'Or 2026 nominees"]
 dateline: "London"
 hero:

@@ -5,7 +5,7 @@ description: "Stream the 2026 Ballon d'Or in the US on Dazn from 4 p.m. Eastern 
 type: news
 publishedAt: "2026-10-26T13:20:00-04:00"
 authors: [jordan-bennett]
-category: planning
+category: sports
 keywords: ["Ballon d'Or 2026 live stream", "how to watch Ballon d'Or 2026", "Ballon d'Or 2026 channel", "Ballon d'Or 2026 Dazn", "Ballon d'Or 2026 start time US"]
 dateline: "London"
 hero:
@@ -56,7 +56,7 @@ internalLinks:
     label: "October 2026 printable calendar"
   - href: "/printable-weekly-calendar.html"
     label: "Printable weekly calendar"
-related: [ballon-dor-2026-date-time-by-time-zone-nominees-london, uk-europe-clocks-go-back-october-25-2026-time-difference, world-series-2026-schedule-game-times-tv-channel]
+related: [ballon-dor-2026-date-time-by-time-zone-nominees-london, world-series-2026-schedule-game-times-tv-channel, fiorentina-vs-atalanta-live-stream-october-29-2026]
 assets:
   overlay: true
   kicker: "Ballon d'Or · Mon., Oct. 26, 2026"

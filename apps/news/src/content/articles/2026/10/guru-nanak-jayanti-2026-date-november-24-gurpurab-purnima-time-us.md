@@ -54,7 +54,7 @@ internalLinks:
     label: "When is Thanksgiving?"
   - href: "/printable-yearly-calendar.html"
     label: "2026 printable yearly calendar"
-related: [diwali-2026-date-lakshmi-puja-time-usa, november-2026-important-dates-days-until, moon-phase-tonight-october-27-november-2026-moon-calendar]
+related: [diwali-2026-date-lakshmi-puja-time-usa, november-2026-important-dates-days-until]
 assets:
   overlay: true
   kicker: "Guru Nanak Jayanti 2026 · Tue., Nov. 24"

@@ -51,7 +51,7 @@ internalLinks:
     label: "January 2027 printable calendar"
   - href: "/september-calendars.html"
     label: "September printable calendar"
-related: [ramadan-2027-calendar-dates-timetable, orionid-meteor-shower-2026-peak-october-21-22]
+related: [ramadan-2027-calendar-dates-timetable, orionid-meteor-shower-2026-peak-october-21-22, moon-phase-tonight-october-27-november-2026-moon-calendar]
 downloads:
   - group: "Moon phase printables"
     title: "Moon Phase Calendar 2027"

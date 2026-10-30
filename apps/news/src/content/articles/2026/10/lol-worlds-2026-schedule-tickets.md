@@ -5,7 +5,7 @@ description: "The League of Legends (LoL) Worlds 2026 Swiss Stage starts Friday,
 type: news
 publishedAt: "2026-10-23T14:10:00-04:00"
 authors: [jordan-bennett]
-category: planning
+category: sports
 keywords: ["lol worlds 2026 schedule", "Worlds 2026 schedule", "LoL Worlds 2026 tickets", "Worlds 2026 bracket", "Worlds 2026 final date"]
 dateline: "New York"
 assets:
@@ -89,7 +89,7 @@ internalLinks:
     label: "November 2026 printable calendar"
   - href: "/printable-weekly-calendar.html"
     label: "Printable weekly calendar"
-related: [world-series-2026-schedule-game-times-tv-channel, gta-6-countdown-release-time-by-time-zone, peak-ps5-price-crossplay-guide-2026]
+related: [world-series-2026-schedule-game-times-tv-channel]
 downloads:
   - group: "LoL Worlds 2026 Schedule and Knockout Bracket Tracker printables"
     title: "LoL Worlds 2026 Schedule and Knockout Bracket Tracker"

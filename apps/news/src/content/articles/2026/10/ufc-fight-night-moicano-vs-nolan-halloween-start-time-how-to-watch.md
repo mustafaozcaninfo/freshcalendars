@@ -6,7 +6,7 @@ type: news
 publishedAt: "2026-10-25T14:15:00-04:00"
 updatedAt: "2026-10-26T13:00:00-04:00"
 authors: [jordan-bennett]
-category: planning
+category: sports
 keywords: ["UFC this weekend", "Moicano vs Nolan", "UFC Halloween 2026 start time", "UFC Fight Night October 31 2026"]
 dateline: "Las Vegas"
 hero:
@@ -55,7 +55,7 @@ internalLinks:
     label: "October 2026 printable calendar"
   - href: "/november-calendars.html"
     label: "November 2026 printable calendar"
-related: [halloween-2026-saturday-sunset-trick-or-treat-times, daylight-saving-time-ends-november-1-2026, mexico-city-grand-prix-2026-schedule-race-time-by-time-zone]
+related: [halloween-2026-saturday-sunset-trick-or-treat-times, mexico-city-grand-prix-2026-schedule-race-time-by-time-zone]
 assets:
   overlay: true
   kicker: "UFC Fight Night · Sat., Oct. 31, 2026"

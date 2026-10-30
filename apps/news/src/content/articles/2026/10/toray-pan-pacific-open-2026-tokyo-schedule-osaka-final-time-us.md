@@ -5,7 +5,7 @@ description: "Toray Pan Pacific Open quarterfinals start 9:30 p.m. Eastern Time 
 type: news
 publishedAt: "2026-10-29T04:02:00-04:00"
 authors: [jordan-bennett]
-category: planning
+category: sports
 keywords: ["toray pan pacific open 2026 schedule", "tokyo wta 2026 final time", "naomi osaka tokyo next match time", "pan pacific open order of play"]
 dateline: "Tokyo"
 hero:
@@ -71,7 +71,7 @@ internalLinks:
     label: "November 2026 printable calendar"
   - href: "/october-calendars.html"
     label: "October 2026 calendar"
-related: [paris-masters-2026-schedule-final-time-by-time-zone, wta-finals-2026-indian-wells-dates-qualified-players-time-zones, daylight-saving-time-ends-november-1-2026]
+related: [paris-masters-2026-schedule-final-time-by-time-zone, wta-finals-2026-indian-wells-dates-qualified-players-time-zones]
 assets:
   overlay: true
   kicker: "Tokyo WTA 500 · Oct. 26 to Nov. 1, 2026"

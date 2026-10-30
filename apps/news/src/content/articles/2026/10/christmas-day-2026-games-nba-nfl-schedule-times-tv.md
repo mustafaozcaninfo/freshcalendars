@@ -5,7 +5,7 @@ description: "Eight games on Fri., Dec. 25, 2026: five National Basketball Assoc
 type: explainer
 publishedAt: "2026-10-26T05:20:00-04:00"
 authors: [jordan-bennett]
-category: planning
+category: sports
 keywords: ["NBA Christmas Day 2026 games", "Christmas Day games 2026 schedule", "NFL Christmas Day 2026 Netflix", "what games are on Christmas 2026"]
 dateline: "New York"
 assets:

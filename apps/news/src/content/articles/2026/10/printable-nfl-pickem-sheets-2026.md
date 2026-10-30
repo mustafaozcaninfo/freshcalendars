@@ -5,7 +5,7 @@ description: "Free printable National Football League (NFL) pick'em sheets for W
 type: explainer
 publishedAt: "2026-10-29T08:00:00-04:00"
 authors: [jordan-bennett]
-category: planning
+category: sports
 keywords: ["printable NFL pick'em sheets", "NFL Week 8 pick'em sheet", "NFL confidence pool sheet", "office football pool sheet", "NFL Week 9 pick'em sheet"]
 assets:
   overlay: true

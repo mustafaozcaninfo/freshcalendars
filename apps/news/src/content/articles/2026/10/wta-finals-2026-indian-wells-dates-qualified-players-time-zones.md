@@ -5,7 +5,7 @@ description: "The Women's Tennis Association (WTA) Finals run Nov. 8-15, 2026 at
 type: news
 publishedAt: "2026-10-27T15:43:00-04:00"
 authors: [jordan-bennett]
-category: planning
+category: sports
 keywords: ["wta finals 2026", "wta finals 2026 indian wells", "wta finals 2026 dates", "wta finals 2026 qualified players", "wta finals time"]
 dateline: "Indian Wells"
 hero:
@@ -67,7 +67,7 @@ internalLinks:
     label: "printable weekly calendar"
   - href: "/when-is/daylight-savings/"
     label: "When does daylight saving time change?"
-related: [paris-masters-2026-schedule-final-time-by-time-zone, daylight-saving-time-ends-november-1-2026, las-vegas-grand-prix-2026-schedule-race-time-by-time-zone]
+related: [paris-masters-2026-schedule-final-time-by-time-zone, las-vegas-grand-prix-2026-schedule-race-time-by-time-zone, atp-finals-2026-turin-dates-schedule-time-zones-tv-qualified-players]
 assets:
   overlay: true
   kicker: "WTA Finals · Nov. 8-15, 2026"

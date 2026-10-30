@@ -5,7 +5,7 @@ description: "Major League Baseball (MLB) Opening Day 2027 is Thursday, Mar. 25,
 type: news
 publishedAt: "2026-10-26T16:40:00-04:00"
 authors: [jordan-bennett]
-category: planning
+category: sports
 keywords: ["MLB Opening Day 2027", "when is Opening Day 2027", "2027 MLB schedule", "Spring Training 2027 start date", "2027 All-Star Game date"]
 hero:
   src: ../../../../assets/news/mlb-opening-day-2027-date-march-25-spring-training-all-star/mlb-opening-day-2027-date-march-25-spring-training-all-star.webp

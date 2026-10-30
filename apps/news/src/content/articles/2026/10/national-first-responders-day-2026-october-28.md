@@ -80,7 +80,7 @@ internalLinks:
     label: "U.S. holidays calendar"
   - href: "/november-calendars.html"
     label: "November 2026 printable calendar"
-related: [make-a-difference-day-2026-october-24, veterans-day-2026-wednesday-november-11, daylight-saving-time-ends-november-1-2026]
+related: [make-a-difference-day-2026-october-24, veterans-day-2026-wednesday-november-11]
 downloads:
   - group: "First Responders Day 2026 printables"
     title: "First Responders Day 2026: Thank-You Checklist and Key Dates"

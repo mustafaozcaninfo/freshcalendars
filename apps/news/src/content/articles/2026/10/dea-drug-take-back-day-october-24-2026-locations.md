@@ -50,7 +50,7 @@ internalLinks:
     label: "October 2026 printable calendar"
   - href: "/printable-weekly-calendar.html"
     label: "Printable weekly planner"
-related: [october-20-2026-what-day-holidays-observances, medicare-open-enrollment-2026-december-7-90-dollar-rebate, november-2026-important-dates-days-until]
+related: [october-20-2026-what-day-holidays-observances, medicare-open-enrollment-2026-december-7-90-dollar-rebate]
 downloads:
   - group: "Take Back Day printables"
     title: "Medicine Cabinet Cleanout Checklist for Take Back Day 2026"

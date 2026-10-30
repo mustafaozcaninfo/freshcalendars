@@ -91,7 +91,7 @@ internalLinks:
     label: "May 2027 printable calendar"
   - href: "/printable-yearly-calendar.html"
     label: "2027 printable yearly calendar"
-related: [uk-bank-holidays-2027-dates-england-scotland-northern-ireland, grammy-nominations-2027-date-69th-grammys-february-7, lord-mayors-show-2026-date-time-route-november-14]
+related: [uk-bank-holidays-2027-dates-england-scotland-northern-ireland, lord-mayors-show-2026-date-time-route-november-14, canadas-choice-eurovision-2027-vote-finalists-deadline-november-5]
 draft: false
 ---
 

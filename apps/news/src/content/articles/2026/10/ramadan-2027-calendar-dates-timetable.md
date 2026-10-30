@@ -5,7 +5,7 @@ description: "When is Ramadan 2027? It is expected to start Monday, Feb. 8 and e
 type: explainer
 publishedAt: "2026-10-18T11:30:00-04:00"
 authors: [jordan-bennett]
-category: planning
+category: holidays
 keywords: ["Ramadan 2027", "Ramadan calendar 2027", "when is Ramadan 2027", "Eid al-Fitr 2027", "Ramadan timetable 2027"]
 dateline: "New York"
 hero:

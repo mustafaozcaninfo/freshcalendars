@@ -58,7 +58,7 @@ internalLinks:
     label: "December 2026 printable calendar"
   - href: "/november-calendars.html"
     label: "November 2026 printable calendar"
-related: [gta-6-countdown-release-time-by-time-zone, grammy-nominations-2027-date-69th-grammys-february-7, playstation-plus-november-2026-games-dead-island-2-tomb-raider-monster-train-2]
+related: [grammy-nominations-2027-date-69th-grammys-february-7, playstation-plus-november-2026-games-dead-island-2-tomb-raider-monster-train-2, cma-awards-2026-date-time-channel-host-nominees]
 assets:
   scene: gaming
   overlay: true

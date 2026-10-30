@@ -44,7 +44,7 @@ internalLinks:
     label: "When is Good Friday"
   - href: "/march-calendars.html"
     label: "March 2027 printable calendar"
-related: [federal-holidays-2027-observed-dates-list, week-numbers-2027-calendar-printable]
+related: [federal-holidays-2027-observed-dates-list]
 downloads:
   - group: "2027 markets printable"
     title: "Stock Market Holidays 2027"

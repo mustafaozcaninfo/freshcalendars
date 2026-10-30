@@ -5,7 +5,7 @@ description: "The 2026-27 college basketball season opens Sun., Nov. 1, 2026 in 
 type: explainer
 publishedAt: "2026-10-27T17:45:00-04:00"
 authors: [jordan-bennett]
-category: planning
+category: sports
 keywords: ["when does college basketball start 2026", "college basketball season start date", "march madness 2027 dates", "2027 final four dates", "selection sunday 2027"]
 dateline: "New York"
 assets:

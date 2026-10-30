@@ -106,7 +106,7 @@ downloads:
     pdf: "/news/downloads/early-decision-2026/early-application-deadline-tracker-2026-ink.pdf"
     png: "/news/downloads/early-decision-2026/early-application-deadline-tracker-2026-ink.png"
     pages: 1
-related: [sat-act-test-dates-2026-27-registration-deadlines, fafsa-2027-28-open-now-deadlines-tax-year, daylight-saving-time-ends-november-1-2026]
+related: [sat-act-test-dates-2026-27-registration-deadlines, fafsa-2027-28-open-now-deadlines-tax-year]
 assets:
   overlay: true
   kicker: "Early application deadlines · Nov. 1, 2026"

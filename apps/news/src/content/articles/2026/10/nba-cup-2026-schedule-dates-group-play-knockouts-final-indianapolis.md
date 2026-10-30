@@ -6,7 +6,7 @@ type: explainer
 publishedAt: "2026-10-25T20:18:00-04:00"
 updatedAt: "2026-10-26T14:00:00-04:00"
 authors: [jordan-bennett]
-category: planning
+category: sports
 keywords: ["NBA Cup 2026 schedule", "Emirates NBA Cup 2026", "NBA Cup final 2026 date", "NBA Cup Nights"]
 dateline: "New York"
 assets:

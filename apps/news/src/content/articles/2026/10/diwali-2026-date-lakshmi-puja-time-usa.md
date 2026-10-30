@@ -75,7 +75,7 @@ internalLinks:
     label: "2027 printable yearly calendar"
   - href: "/when-is/thanksgiving/"
     label: "When is Thanksgiving"
-related: [ramadan-2027-calendar-dates-timetable, lunar-new-year-2027-year-of-the-goat]
+related: [ramadan-2027-calendar-dates-timetable, lunar-new-year-2027-year-of-the-goat, chhath-puja-2026-dates-november-13-16-sunset-sunrise-arghya-times-us]
 downloads:
   - group: "Diwali 2026 printables"
     title: "Diwali 2026 Calendar"

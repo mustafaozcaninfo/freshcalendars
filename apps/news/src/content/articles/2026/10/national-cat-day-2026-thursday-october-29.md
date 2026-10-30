@@ -77,7 +77,7 @@ internalLinks:
     label: "October 2026 printable calendar"
   - href: "/november-calendars.html"
     label: "November 2026 printable calendar"
-related: [national-black-cat-day-2026-october-27, halloween-2026-saturday-sunset-trick-or-treat-times, november-2026-important-dates-days-until]
+related: [national-black-cat-day-2026-october-27, halloween-2026-saturday-sunset-trick-or-treat-times]
 draft: false
 ---
 

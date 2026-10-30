@@ -5,7 +5,7 @@ description: "First announced Hometown Remix games: Nov. 4 and 5. The National H
 type: news
 publishedAt: "2026-10-27T19:42:00-04:00"
 authors: [jordan-bennett]
-category: planning
+category: sports
 keywords: ["NHL Hometown Remix jerseys", "Hometown Remix jersey release date", "Hometown Remix jersey schedule", "when do NHL teams wear Hometown Remix"]
 dateline: "New York"
 assets:

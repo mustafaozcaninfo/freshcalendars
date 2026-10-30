@@ -5,7 +5,7 @@ description: "The Lakers play at the Warriors on Fri., Oct. 30, 2026, at 7 p.m. 
 type: news
 publishedAt: "2026-10-29T01:45:00-04:00"
 authors: [jordan-bennett]
-category: planning
+category: sports
 keywords: ["Lakers schedule", "Lakers schedule November 2026", "next Lakers game", "Lakers game tonight", "Lakers NBA Cup 2026"]
 dateline: "New York"
 assets:

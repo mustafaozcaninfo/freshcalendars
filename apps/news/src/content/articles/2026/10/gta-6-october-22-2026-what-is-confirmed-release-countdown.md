@@ -86,7 +86,7 @@ internalLinks:
     label: "October 2026 printable calendar"
   - href: "/printable-weekly-calendar.html"
     label: "Printable weekly planner"
-related: [gta-6-countdown-release-time-by-time-zone, usps-holiday-shipping-deadlines-2026, why-thanksgiving-2026-is-november-26]
+related: [gta-6-countdown-release-time-by-time-zone, usps-holiday-shipping-deadlines-2026]
 downloads:
   - group: "GTA 6 printables"
     title: "GTA 6 Countdown Calendar, Oct. 18-Nov. 21, 2026"

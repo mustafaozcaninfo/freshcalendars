@@ -5,7 +5,7 @@ description: "Preliminary SAT (PSAT) and National Merit Scholarship Qualifying T
 type: explainer
 publishedAt: "2026-10-26T02:21:00-04:00"
 authors: [emily-carter]
-category: planning
+category: school-calendars
 keywords: ["PSAT scores release date 2026", "when do PSAT scores come out 2026", "PSAT/NMSQT score release", "PSAT Selection Index calculator"]
 dateline: "New York"
 hero:

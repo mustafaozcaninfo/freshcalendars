@@ -81,7 +81,7 @@ internalLinks:
     label: "November 2026 printable calendar"
   - href: "/printable-weekly-calendar.html"
     label: "Printable weekly calendar"
-related: [new-on-hulu-november-2026-release-dates, thanksgiving-2026-tv-schedule-macys-parade-nfl-games, netflix-new-movies-november-2026-release-dates]
+related: [new-on-hulu-november-2026-release-dates, netflix-new-movies-november-2026-release-dates]
 downloads:
   - group: "New on Peacock printables"
     title: "New on Peacock, November 2026"

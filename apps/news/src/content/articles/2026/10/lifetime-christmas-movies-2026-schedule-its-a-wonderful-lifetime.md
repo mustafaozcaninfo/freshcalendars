@@ -70,7 +70,7 @@ internalLinks:
     label: "November 2026 printable calendar"
   - href: "/december-calendars.html"
     label: "December 2026 printable calendar"
-related: [hallmark-countdown-to-christmas-2026-schedule-printable, christmas-2026-calendar-printable-countdown, thanksgiving-2026-tv-schedule-macys-parade-nfl-games]
+related: [hallmark-countdown-to-christmas-2026-schedule-printable, christmas-2026-calendar-printable-countdown]
 downloads:
   - group: "Lifetime Christmas Movies 2026 Watch List printables"
     title: "Lifetime Christmas Movies 2026 Watch List"

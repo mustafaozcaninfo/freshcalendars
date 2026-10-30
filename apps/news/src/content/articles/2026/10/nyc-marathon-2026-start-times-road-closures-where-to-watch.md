@@ -5,7 +5,7 @@ description: "The 2026 New York City Marathon runs Sunday, Nov. 1. Wave 1 starts
 type: news
 publishedAt: "2026-10-24T13:05:00-04:00"
 authors: [jordan-bennett]
-category: planning
+category: sports
 keywords: ["NYC Marathon 2026 start times", "where to watch NYC Marathon 2026", "NYC Marathon road closures 2026", "NYC Marathon TV channel 2026", "NYC Marathon course change Bronx"]
 dateline: "New York"
 assets:
@@ -89,7 +89,7 @@ internalLinks:
     label: "November 2026 printable calendar"
   - href: "/when-is/daylight-savings/"
     label: "When does daylight saving time end?"
-related: [daylight-saving-time-ends-november-1-2026, nyc-holiday-calendar-2026-rockefeller-tree-macys-parade, november-2026-important-dates-days-until]
+related: [nyc-holiday-calendar-2026-rockefeller-tree-macys-parade, marine-corps-marathon-2026-start-times-road-closures-cutoffs]
 downloads:
   - group: "NYC Marathon Race-Day Timeline printables"
     title: "NYC Marathon Race-Day Timeline, Nov. 1, 2026"

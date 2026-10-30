@@ -67,7 +67,7 @@ internalLinks:
     label: "November 2026 printable calendar"
   - href: "/when-is/halloween/"
     label: "When is Halloween?"
-related: [gta-6-countdown-release-time-by-time-zone, halloween-2026-what-day-trick-or-treating-start, november-2026-important-dates-days-until]
+related: [gta-6-countdown-release-time-by-time-zone, halloween-2026-what-day-trick-or-treating-start]
 downloads:
   - group: "Avatar printables"
     title: "Avatar: Seven Havens Episode Schedule, Book One 2026"

@@ -6,7 +6,7 @@ type: explainer
 publishedAt: "2026-10-25T23:40:00-04:00"
 updatedAt: "2026-10-29T11:50:00-04:00"
 authors: [jordan-bennett]
-category: planning
+category: sports
 keywords: ["NFL trade deadline 2026", "when is the NFL trade deadline", "NFL trade deadline time"]
 dateline: "New York"
 assets:

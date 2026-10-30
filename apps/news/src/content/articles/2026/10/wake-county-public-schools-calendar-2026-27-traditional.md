@@ -54,7 +54,7 @@ internalLinks:
     label: "December 2026 printable calendar"
   - href: "/april-calendars.html"
     label: "April 2027 printable calendar"
-related: [spring-break-2027-dates-school-districts, winter-break-2026-school-districts-dates, fairfax-county-public-schools-calendar-2026-27-breaks, charlotte-mecklenburg-schools-calendar-2026-27-breaks]
+related: [spring-break-2027-dates-school-districts, winter-break-2026-school-districts-dates, fairfax-county-public-schools-calendar-2026-27-breaks]
 assets:
   overlay: true
   kicker: "WCPSS 2026-27 traditional"

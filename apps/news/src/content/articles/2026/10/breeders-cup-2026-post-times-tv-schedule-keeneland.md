@@ -6,7 +6,7 @@ type: news
 publishedAt: "2026-10-25T20:19:00-04:00"
 updatedAt: "2026-10-29T15:20:00-04:00"
 authors: [jordan-bennett]
-category: planning
+category: sports
 keywords: ["Breeders' Cup 2026 schedule", "Breeders' Cup Classic 2026 post time", "Breeders' Cup 2026 TV schedule", "Breeders' Cup race times", "Breeders' Cup Keeneland"]
 dateline: "Lexington, Ky."
 hero:
@@ -50,7 +50,7 @@ internalLinks:
     label: "October 2026 printable calendar"
   - href: "/printable-weekly-calendar.html"
     label: "Printable weekly calendar"
-related: [ufc-fight-night-moicano-vs-nolan-halloween-start-time-how-to-watch, mexico-city-grand-prix-2026-schedule-race-time-by-time-zone, halloween-2026-saturday-sunset-trick-or-treat-times]
+related: [ufc-fight-night-moicano-vs-nolan-halloween-start-time-how-to-watch, mexico-city-grand-prix-2026-schedule-race-time-by-time-zone]
 corrections:
   - date: "2026-10-29T15:20:00-04:00"
     text: "An earlier version listed only seven post times and said FanDuel TV shows the Championship races except the Classic. The Breeders' Cup's Oct. 21 release says FanDuel TV's Players' Show carries every Championship and undercard race; the full card is now listed."

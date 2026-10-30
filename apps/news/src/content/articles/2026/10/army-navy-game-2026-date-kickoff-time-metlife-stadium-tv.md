@@ -5,7 +5,7 @@ description: "The 127th Army-Navy Game is Saturday, Dec. 12, 2026, at 3 p.m. Eas
 type: explainer
 publishedAt: "2026-10-26T02:22:00-04:00"
 authors: [jordan-bennett]
-category: planning
+category: sports
 keywords: ["Army-Navy game 2026", "Army Navy game 2026 date", "what time is the Army Navy game", "Army Navy game channel"]
 dateline: "East Rutherford, N.J."
 hero:
@@ -56,7 +56,7 @@ internalLinks:
     label: "When is Christmas Day?"
   - href: "/december-calendars.html"
     label: "December 2026 printable calendar"
-related: [college-football-playoff-rankings-2026-schedule-dates-times, thanksgiving-football-schedule-2026-nfl-college-games, veterans-day-2026-wednesday-november-11]
+related: [college-football-playoff-rankings-2026-schedule-dates-times, thanksgiving-football-schedule-2026-nfl-college-games]
 assets:
   overlay: true
   kicker: "Army-Navy Game 2026 · Sat., Dec. 12"
