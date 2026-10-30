@@ -54,7 +54,7 @@ internalLinks:
     label: "Printable weekly planner"
   - href: "/guides/fiscal-year-calendar.html"
     label: "Fiscal year calendar guide"
-related: [julian-date-calendar-2027-2026-printable, january-2027-calendar-printable]
+related: [iso-week-numbers-explained, julian-date-calendar-2027-2026-printable, how-many-weeks-in-a-year]
 downloads:
   - group: "Week number printables"
     title: "2027 Calendar With Week Numbers"

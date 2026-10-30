@@ -87,7 +87,7 @@ internalLinks:
     label: "Printable weekly calendar"
   - href: "/january-calendars.html"
     label: "January printable calendars"
-related: [week-numbers-2027-calendar-printable, black-friday-2026-ad-tracker-walmart-target-best-buy]
+related: [what-is-a-fiscal-year, why-some-years-have-53-weeks, week-numbers-2027-calendar-printable]
 downloads:
   - group: "NRF 4-5-4 Retail Calendar printables"
     title: "NRF 4-5-4 Retail Calendar, Fiscal 2027"

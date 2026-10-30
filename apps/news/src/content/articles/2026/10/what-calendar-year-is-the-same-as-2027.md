@@ -79,7 +79,7 @@ internalLinks:
     label: "US holiday list"
   - href: "/when-is/easter/"
     label: "When is Easter?"
-related: [federal-holidays-2027-observed-dates-list, week-numbers-2027-calendar-printable, julian-date-calendar-2027-2026-printable]
+related: [how-often-does-the-calendar-repeat, federal-holidays-2027-observed-dates-list, week-numbers-2027-calendar-printable]
 downloads:
   - group: "Same calendar as 2027 printables"
     title: "Years With the Same Calendar as 2027"
