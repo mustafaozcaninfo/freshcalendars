@@ -1,7 +1,7 @@
 ---
 title: "Editorial Policy"
 description: "How Fresh Calendars News chooses stories, checks dates against primary sources, uses tools, keeps ads separate and handles updates to published stories."
-updatedAt: "2026-10-25T05:20:00-04:00"
+updatedAt: "2026-10-30T07:05:00-04:00"
 ---
 
 This policy explains how Fresh Calendars News reports. It applies to every story under [/news/](/news/).
@@ -32,7 +32,7 @@ We do not accept payment for coverage. Advertising and affiliate links are kept 
 
 ## Updates
 
-When a story changes after publication, the update time is shown next to the publication time. Corrections of errors follow our [corrections policy](/news/corrections-policy/).
+When a story changes after publication, whether with new information or to correct an error, the update time is shown next to the publication time. How we handle errors is described in our [corrections policy](/news/corrections-policy/).
 
 ## Feedback
 

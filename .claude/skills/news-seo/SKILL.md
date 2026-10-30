@@ -32,7 +32,7 @@ A page that only restates one official page has no information gain and is the f
 ## 2. Timing
 
 - **Publish before the searches peak**, not on the day: a race, holiday or deadline story 5 to 10 days ahead, a sky event a week ahead. Our Google News sitemap lists a story only for 48 hours after `publishedAt` (`09-NEWS-SITEMAP`), so that window should fall while people are searching.
-- **Update rather than duplicate (§03 l.880).** Same intent next week or next year: edit the existing story and set `updatedAt` to now (ET). Updates are silent: no "Last updated" callout and no `corrections` entry for new information; the page's Updated time is the signal. A page with click history ranks better than a new copy of it.
+- **Update rather than duplicate (§03 l.880).** Same intent next week or next year: edit the existing story and set `updatedAt` to now (ET). Updates and error fixes are silent: no "Last updated" callout and no new `corrections` entry; the page's Updated time is the signal (corrections policy, revised 2026-10-30). Correction notes already published stay. A page with click history ranks better than a new copy of it.
 - **Plan the update when you publish.** If an official figure is still pending (AAA forecast, closure times), say so in the story and list the recheck date in the commit message.
 - **Velocity (§03 l.758, l.834).** No fixed weekly cap since 2026-10-25 (owner's decision); `03-VELOCITY` only warns above 150 stories in 7 days. Publish only as many as the editors can check. **Stop rule:** if the indexed share or new queries fall two weeks in a row, publish fewer new stories and update existing ones until they recover.
 

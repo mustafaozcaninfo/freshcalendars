@@ -1,16 +1,14 @@
 ---
 title: "Corrections Policy"
-description: "How Fresh Calendars News fixes errors: corrections are made openly, dated and noted at the end of the story. How to report a mistake to the news desk."
-updatedAt: "2026-10-25T05:20:00-04:00"
+description: "How Fresh Calendars News fixes errors: the story is corrected in place and its Updated time changes. How to report a mistake to the news desk."
+updatedAt: "2026-10-30T07:05:00-04:00"
 ---
 
-We want every date we publish to be right. When we get something wrong, we fix it openly.
+We want every date we publish to be right. When we get something wrong, we fix it as soon as the correct fact is confirmed.
 
 ## How corrections appear
 
-When a factual error is corrected, the story is updated and a dated note is added in a **Corrections** section at the end of the article explaining what was wrong. The story's "Updated" time changes at the same time. We do not remove a correction note once it is published.
-
-Small changes that do not affect meaning, such as spelling or formatting, are made without a note.
+When a factual error is found, we correct the story in place, checking the new fact against an official source, and the story's "Updated" time next to its publication time changes. We do not add a separate note to the story; the Updated time shows that it changed. Correction notes published before Oct. 30, 2026 stay on their stories.
 
 ## Feedback
 

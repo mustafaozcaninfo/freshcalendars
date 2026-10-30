@@ -29,7 +29,7 @@ Run the page / section / link decision tree in `news-seo` (section 1), then sear
 grep -ril "<main keyword>" apps/news/src/content/articles | head
 ```
 
-- Same search intent already covered → update that file silently: edit the facts and set `updatedAt` to now (ET). No "Last updated" callout and no `corrections` entry for new information; the Updated time on the page is enough.
+- Same search intent already covered → update that file silently: edit the facts and set `updatedAt` to now (ET). No "Last updated" callout and no new `corrections` entry, also when a fact was wrong; the Updated time on the page is enough (corrections policy, revised 2026-10-30). Do not remove correction notes already published.
 - A question that `/when-is/<holiday>/` already answers ("when is X") → write a different angle (what is open, why this date, deals) and link to the when-is page instead of competing with it.
 - Otherwise → new story. Write down the one thing it adds that the top results lack (a computed table, a printable, a fact others missed); if there is nothing, do not write it.
 
