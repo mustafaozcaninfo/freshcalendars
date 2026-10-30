@@ -412,8 +412,10 @@ check("08-ABBREV", "Abbreviations defined on first use in article prose (§08 l.
       "USA", "IMAX",
       // Words quoted as printed in capitals ("10-22-38 ASTORIA", the first xerographic copy).
       "ASTORIA",
-      // Phone mnemonics (1-800-MEDICARE).
-      "MEDICARE",
+      // Phone mnemonics (1-800-MEDICARE, 1-800-QUIT-NOW).
+      "MEDICARE", "QUIT-NOW",
+      // Text-message keywords as the agencies print them (SmokefreeTXT: QUIT, HELP; CDC: QUITNOW).
+      "QUIT", "QUITNOW", "HELP",
       // Spreadsheet function names.
       "WEEKNUM", "ISOWEEKNUM", "NYC", "USPS",
       // IRS form suffixes (Form 1099-NEC, 1099-MISC).
@@ -423,7 +425,9 @@ check("08-ABBREV", "Abbreviations defined on first use in article prose (§08 l.
       // Show titles styled in capitals (Hulu November 2026 list: "MAO", "LOL Live with Comedian CP").
       "MAO", "LOL",
       // Arena names built on company names written in capitals (PPG Paints Arena, SAP Center).
-      "PPG", "SAP"]);
+      "PPG", "SAP", "UBS",
+      // Broadcast call letters and a transit route name styled in capitals (WISN 12 News, WUWM, MCTS CONNECT 1).
+      "WISN", "WUWM", "CONNECT"]);
     const undefined_ = [];
     const seen = new Set();
     for (const m of text.matchAll(/\b([A-Z][A-Z-]{1,}[A-Z])\b/g)) {
