@@ -55,7 +55,7 @@ internalLinks:
     label: "When does daylight saving time end"
   - href: "/october-calendars.html"
     label: "October 2026 printable calendar"
-related: [halloween-2026-what-day-trick-or-treating-start, daylight-saving-time-ends-november-1-2026, day-of-the-dead-2026-dia-de-los-muertos-dates]
+related: [halloween-2026-what-day-trick-or-treating-start, village-halloween-parade-2026-nyc-start-time-route-ny1-subway, daylight-saving-time-ends-november-1-2026]
 downloads:
   - group: "Halloween 2026 printable"
     title: "Halloween 2026 Sunset and Dark by City"
