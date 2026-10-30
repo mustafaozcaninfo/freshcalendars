@@ -274,6 +274,7 @@ export const PUZZLE_HEROES: [string, string, string, string, string, string, str
   ["nyt-strands-hints-answers-november-14-2026-986", "strands", "#0f2f3a", "#aedfee", "Strands #986 · Sat., Nov. 14, 2026", "Strands hints today", "Spangram and theme-word hints first, answers at the end."],
   ["nyt-pips-hints-answers-november-14-2026", "pips", "#1e293b", "#93c5fd", "Pips · Sat., Nov. 14, 2026", "Pips hints today", "Hints for Easy, Medium and Hard, placements at the end."],
   ["nyt-mini-crossword-answers-october-28-2026", "mini", "#0f1d2e", "#f9a8d4", "NYT Mini · Wed., Oct. 28, 2026", "NYT Mini answers", "A hint for every clue first, the full grid at the end."],
+  ["nyt-mini-crossword-answers-october-30-2026", "mini", "#0f1d2e", "#fdba74", "NYT Mini · Fri., Oct. 30, 2026", "NYT Mini answers", "A hint for every clue first, the full grid at the end."],
   ["wordle-answers-2026-full-list-repeat-answers", "wordle", "#1a1a2e", "#6aaa64", "Wordle · 2026 so far", "Old answers are back", "Every 2026 answer, #1657 to #1955, and the 28 past words that returned."],
 ];
 
