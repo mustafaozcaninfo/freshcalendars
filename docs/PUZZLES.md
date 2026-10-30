@@ -16,7 +16,7 @@ Reference for writing the daily puzzle hint pages on /news/ (category `puzzles`)
 | Quordle | Merriam-Webster (bought it in Jan. 2023) | Daily (time unconfirmed) | Two published solutions | No | Yes |
 | Blossom | Merriam-Webster | Daily (time unconfirmed) | Two solver sites for letters and pangrams (Connections Solver, Word.Tips, Beebom) | No | Yes |
 | Contexto | contexto.me (creator unconfirmed) | Daily, 11 p.m. ET the evening before (as our pages say) | The game's own API (official): `api.contexto.me/machado/en/giveup/<n>` (answer) and `/top/<n>` (its closest-words ranking) | **Yes, days ahead** | Yes |
-| Letter Boxed | NYT (editor Sam Ezersky) | Daily | NYT puzzle data (official), including the Times' own solution (`ourSolution`) | **Yes, about a week ahead** | Yes (data says `is_free`) |
+| Letter Boxed | NYT (editor Sam Ezersky) | Daily | NYT puzzle data (official), including the Times' own solution (`ourSolution`) | **Yes, about 2 days ahead** (checked Oct. 30, 2026: Nov. 1 out, Nov. 2 not yet) | Yes (data says `is_free`) |
 | Waffle | wafflegame.net (Waffle Studio Ltd) | Daily, midnight GMT by default | The game's daily file (official): `wafflegame.net/daily1.txt` (base64 of UTF-16 JSON: `puzzle`, `solution`, `words`, `number`) | No (today only) | Yes |
 | LinkedIn games (Queens, Tango, Zip, Mini Sudoku, Pinpoint, Crossclimb, Patches, Wend) | LinkedIn | Daily at midnight Pacific Time, 3 a.m. ET (LinkedIn Help) | Two published solutions; grid games often appear only as images, so only text answers agreed by two sources are printed | No | Yes, no account needed (LinkedIn Help) |
 
@@ -45,7 +45,7 @@ All of these return JSON or HTML to a plain request (no login, no bot challenge)
 - Pips: `https://www.nytimes.com/svc/pips/v1/YYYY-MM-DD.json` (`easy`/`medium`/`hard` with `dominoes`, `regions`, `solution`, `constructors`). The `solution` pairs follow the order of `dominoes`; still solve and check every region before printing.
 - The Mini: `https://www.nytimes.com/svc/crosswords/v6/puzzle/mini/YYYY-MM-DD.json` (any past day and today, and tomorrow from about 10 p.m. ET; not further ahead; clues and `answer` per cell). `mini.json` without a date is the current puzzle.
 - Spelling Bee, also by date: `https://www.nytimes.com/svc/spelling-bee/v1/YYYY-MM-DD.json` (`center_letter`, `outer_letters`, `pangrams`, `answers`; `answers` can leave the pangrams out, so use the union), available about 10 days ahead.
-- Letter Boxed: `https://www.nytimes.com/svc/letter-boxed/v1/YYYY-MM-DD.json` (`sides`, `par`, `ourSolution`, `dictionary`). Write sides as "C/D/I" and words in Title case: runs of capitals fail 08-ABBREV.
+- Letter Boxed: `https://www.nytimes.com/svc/letter-boxed/v1/YYYY-MM-DD.json` (`sides`, `par`, `ourSolution`, `dictionary`), about two days ahead; saved with `pnpm news:puzzle-data <date> --games letterboxed`. Write sides as "C/D/I" and words in Title case: runs of capitals fail 08-ABBREV.
 - Spelling Bee: `https://www.nytimes.com/puzzles/spelling-bee` has `window.gameData` with `today` and `yesterday` (`centerLetter`, `outerLetters`, `pangrams`, `answers`, `editor`). Total points: 4-letter words 1 point, longer words 1 per letter, pangrams +7; Genius is 70% of the total (matches NYTBee).
 
 A date returns a "404 page not found" body (with HTTP 200) until NYT publishes it, so check the body, not the status code.
@@ -56,7 +56,7 @@ Two scheduled routines write the daily pages: official-data games every evening,
 
 ## Saved data and the answer check
 
-Every page for Wordle, Connections, Strands, Pips and Spelling Bee has its official data saved in `apps/news/src/content/puzzles/<game>/<date>.json` (`pnpm news:puzzle-data <from> [to]`). `pnpm news:puzzle-check` compares each page with it and CI runs it on every push, so a wrong answer or placement cannot publish. The build draws the solved boards from the same files. Method: `.claude/skills/news-puzzles/SKILL.md`.
+Every page for Wordle, Connections, Strands, Pips, Spelling Bee, the Mini and Letter Boxed has its official data saved in `apps/news/src/content/puzzles/<game>/<date>.json` (`pnpm news:puzzle-data <from> [to]`). `pnpm news:puzzle-check` compares each page with it and CI runs it on every push, so a wrong answer or placement cannot publish. For Letter Boxed it checks the sides, par, the Times' solution and its route table, the dictionary size, and that every warm-up word is in the puzzle's dictionary and not part of the solution. Contexto and Waffle are not in the check yet. The build draws the solved boards from the same files. Method: `.claude/skills/news-puzzles/SKILL.md`.
 
 ## Workflow that keeps traffic steady
 

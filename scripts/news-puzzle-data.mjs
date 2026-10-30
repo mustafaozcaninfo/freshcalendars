@@ -4,8 +4,9 @@
  * trimmed to the fields our pages use. The page checker (news-puzzle-check.mjs) and the solved-board
  * drawings (src/lib/puzzle-boards.mjs) read only these files, so CI never needs the network.
  *
- * Usage: node scripts/news-puzzle-data.mjs <from> [to] [--games wordle,connections,strands,pips,bee,mini] [--force]
- *        (the Mini is served for past days and today, and for tomorrow from about 10 p.m. ET; never further ahead)
+ * Usage: node scripts/news-puzzle-data.mjs <from> [to] [--games wordle,connections,strands,pips,bee,mini,letterboxed] [--force]
+ *        (the Mini is served for past days and today, and for tomorrow from about 10 p.m. ET; never further ahead;
+ *        Letter Boxed about two days ahead)
  *        node scripts/news-puzzle-data.mjs --pages     (every puzzle page in the repo that has no data yet)
  *
  * Requests go through curl, which honors HTTPS_PROXY. A date NYT has not published returns a
@@ -23,6 +24,7 @@ const URL = {
   pips: (d) => `https://www.nytimes.com/svc/pips/v1/${d}.json`,
   bee: (d) => `https://www.nytimes.com/svc/spelling-bee/v1/${d}.json`,
   mini: (d) => `https://www.nytimes.com/svc/crosswords/v6/puzzle/mini/${d}.json`, // past days and today; not ahead
+  letterboxed: (d) => `https://www.nytimes.com/svc/letter-boxed/v1/${d}.json`, // about two days ahead
 };
 
 /** Only the fields the pages and checks use (Strands' full dictionary list is dropped). */
@@ -40,10 +42,12 @@ const TRIM = {
       clues: b.clues.map((c) => ({ direction: c.direction, label: c.label, text: c.text[0].plain, cells: c.cells })),
     };
   },
+  // The dictionary stays: pages print its size and suggest warm-up words that must be in it.
+  letterboxed: (j) => ({ printDate: j.printDate, editor: j.editor, sides: j.sides, par: j.par, ourSolution: j.ourSolution, dictionary: j.dictionary }),
 };
 
 /** The data's own date, to make sure NYT answered for the day we asked about. */
-const DATE_OF = { wordle: (j) => j.print_date, connections: (j) => j.print_date, strands: (j) => j.printDate, pips: (j) => j.printDate, bee: () => null, mini: (j) => j.publicationDate };
+const DATE_OF = { wordle: (j) => j.print_date, connections: (j) => j.print_date, strands: (j) => j.printDate, pips: (j) => j.printDate, bee: () => null, mini: (j) => j.publicationDate, letterboxed: (j) => j.printDate };
 
 function get(url) {
   // No --fail: an unpublished date answers 404 (Spelling Bee) or a 200 "404 page not found" body.
@@ -58,7 +62,9 @@ function save(game, date, force) {
   try { j = get(URL[game](date)); } catch (e) { return `failed (${String(e.message).split("\n")[0]})`; }
   if (!j || j.status === "ERROR" || (game === "bee" ? !j.center_letter : !TRIM[game] || DATE_OF[game](j) !== date)) return "not published";
   mkdirSync(path.dirname(out), { recursive: true });
-  writeFileSync(out, `${JSON.stringify(TRIM[game](j), null, 1)}\n`);
+  // Long word lists go on one line so a day's file stays readable and small.
+  const json = JSON.stringify(TRIM[game](j), (k, v) => (k === "dictionary" ? `@@${JSON.stringify(v)}@@` : v), 1).replace(/"@@(.*)@@"/, (_, a) => JSON.parse(`"${a}"`));
+  writeFileSync(out, `${json}\n`);
   return "saved";
 }
 
