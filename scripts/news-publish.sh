@@ -8,7 +8,9 @@
 # Env: NEWS_TARGET (default $DEPLOY_PATH/news/), NEWS_OWNER (default yuzdehesaplama:www-data),
 #      NEWS_DRY_RUN=1 (diff only), NEWS_PURGE=0 (skip Cloudflare), NEWS_INDEXNOW=0 (skip ping),
 #      NEWS_INDEX_SUBMIT=0 (skip AnindaIndex; it also needs ANINDA_INDEX_KEY in .env),
-#      NEWS_BUILD_ENV="NEWS_INCLUDE_DRAFTS=1" (test builds only), SITE_ORIGIN.
+#      NEWS_BUILD_ENV="NEWS_INCLUDE_DRAFTS=1" (test builds only), SITE_ORIGIN,
+#      NEWS_BUILD_ONLY=1 (build and verify, publish nothing: server-autopublish.sh prebuilds a
+#      commit while its CI still runs), NEWS_SKIP_BUILD=1 (publish the dist/news that prebuild made).
 set -euo pipefail
 
 ROOT="$(cd "$(dirname "$0")/.." && pwd)"
@@ -34,8 +36,25 @@ refresh_origin_cache() {
 
 cd "$ROOT"
 unset NEWS_INCLUDE_DRAFTS NEWS_SITE_ORIGIN NEWS_PER_PAGE
-env ${NEWS_BUILD_ENV:-} pnpm --silent news:build >/dev/null
+# dist/news-data (latest.json for the calendar pages' news boxes, the PDF canonical map) is read
+# by the daily calendar bake and installed below, so a prebuild of a commit CI has not passed yet
+# parks its copy in news-data.next and leaves the published one in place until the publish.
+DATA="$ROOT/dist/news-data"
+if [[ "${NEWS_SKIP_BUILD:-0}" == "1" ]]; then
+  [[ -f "$DIST/index.html" ]] || { echo "[news] NEWS_SKIP_BUILD=1 but dist/news is empty" >&2; exit 1; }
+  if [[ -d "$DATA.next" ]]; then rm -rf "$DATA"; mv "$DATA.next" "$DATA"; fi
+else
+  rm -rf "$DATA.next" "$DATA.prev"
+  [[ "${NEWS_BUILD_ONLY:-0}" == "1" && -d "$DATA" ]] && cp -a "$DATA" "$DATA.prev"
+  env ${NEWS_BUILD_ENV:-} pnpm --silent news:build >/dev/null
+fi
 node scripts/news-verify.mjs "$DIST"
+if [[ "${NEWS_BUILD_ONLY:-0}" == "1" ]]; then
+  if [[ -d "$DATA.prev" ]]; then mv "$DATA" "$DATA.next"; mv "$DATA.prev" "$DATA"; fi
+  echo "[news] built and verified; not published"
+  echo "changed=0"
+  exit 0
+fi
 
 # nginx maps (scripts/hestia-apply-nginx-cache.sh includes them): printable PDF -> story canonical,
 # and the /news/ 301s in apps/news/redirects.map. Each is installed and reloaded only when it

@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 # Run on the VPS as root. Sets up scripts/server-autopublish.sh: a clone of the repository
 # (read with the token in TOKEN_FILE; the token is never written into git config) and a cron line
-# every 2 minutes in its own block. --remove deletes the cron block and keeps the clone.
+# every minute in its own block (each run checks four times, 15 seconds apart). --remove deletes the cron block and keeps the clone.
 #
 # The token: a GitHub fine-grained token for this one repository with read-only "Contents" and
 # "Actions" permissions, saved by the owner to TOKEN_FILE with mode 600.
@@ -10,7 +10,7 @@ SRC="${FC_SRC:-/home/yuzdehesaplama/private/freshcalendars-src}"
 TOKEN_FILE="${FC_GITHUB_TOKEN_FILE:-/root/.config/freshcalendars/github-token}"
 GH_REPO="${FC_GH_REPO:-mustafaozcaninfo/freshcalendars}"
 MARKER="# freshcalendars-autopublish-factory"
-LINE="*/2 * * * * $SRC/scripts/server-autopublish.sh >> /var/log/freshcalendars-autopublish.log 2>&1"
+LINE="* * * * * $SRC/scripts/server-autopublish.sh >> /var/log/freshcalendars-autopublish.log 2>&1"
 
 # Drop only our marker and our line, keep every other line in the crontab.
 strip() { grep -vF -e "$MARKER" -e "server-autopublish.sh" || true; }

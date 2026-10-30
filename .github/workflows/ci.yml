@@ -57,18 +57,15 @@ jobs:
           cache: pnpm
       - name: Install
         run: pnpm install --frozen-lockfile
-      # Story-only changes (the same paths auto-publish treats as content) cannot change colours,
-      # so they skip the calendar build and contrast gate: about three of the run's five minutes.
-      - name: Story-only change?
+      # Only a change that can alter how a page looks (scripts/ci-scope.mjs: the calendar build's
+      # import graph, /news/ code, brand, dependencies) runs the calendar build and contrast gate.
+      # Stories, printable generators, audits and docs skip them: about two minutes per push.
+      - name: What changed?
         id: scope
         run: |
           base="${{ github.event_name == 'pull_request' && github.event.pull_request.base.sha || github.event.before }}"
-          only=false
-          if git fetch -q --depth=1 origin "$base" 2>/dev/null && files="$(git diff --name-only "$base" HEAD)"; then
-            grep -vE '^apps/news/(src/content/|src/assets/|public/|src/lib/keydates\.ts$)' <<<"$files" | grep -q . || only=true
-          fi
-          echo "story_only=$only" >>"$GITHUB_OUTPUT"
-          echo "story-only change: $only"
+          git fetch -q --depth=1 origin "$base" 2>/dev/null || base=""
+          node scripts/ci-scope.mjs "$base" | tee -a "$GITHUB_OUTPUT"
       # Astro's optimized-image cache. Entries are named by a hash of the source and the options,
       # so a stale entry is never used for a changed image; restore-keys picks up the latest cache.
       - name: Restore image cache
@@ -79,12 +76,22 @@ jobs:
           restore-keys: |
             news-images-${{ hashFiles('apps/news/src/assets/**', 'apps/news/src/components/Hero.astro') }}-
             news-images-
+      - name: Count cached images
+        id: cache_before
+        run: echo "n=$(find apps/news/node_modules/.astro/assets -type f 2>/dev/null | wc -l)" >>"$GITHUB_OUTPUT"
       - name: Build /news/ (frontmatter schema, hero size, references)
         run: pnpm news:build
         timeout-minutes: 40
-      # Saved even when the build fails or times out, so the next run starts from what was encoded.
-      - name: Save image cache
+      - name: New images encoded?
+        id: cache_after
         if: always()
+        run: |
+          n="$(find apps/news/node_modules/.astro/assets -type f 2>/dev/null | wc -l)"
+          echo "new=$(( n > ${{ steps.cache_before.outputs.n }} ))" >>"$GITHUB_OUTPUT"
+      # Saved only when the build encoded something new (even if it then failed or timed out, so
+      # the next run starts from it); otherwise the restored cache is already current.
+      - name: Save image cache
+        if: always() && steps.cache_after.outputs.new == '1'
         uses: actions/cache/save@v4
         with:
           path: apps/news/node_modules/.astro/assets
@@ -94,15 +101,17 @@ jobs:
       - name: SEO and writing audit
         run: pnpm news:seo-audit
       # Text contrast gate (WCAG AA 4.5:1, 3:1 for large text) over every calendar and /news/ page,
-      # desktop and phone, plus hover and focus on representative pages. Needs the built site too.
+      # desktop and phone, plus hover and focus on representative pages. Needs the calendar pages
+      # too, but only their HTML and CSS (--html-only: seconds instead of 9.5 minutes of studio
+      # sheets, OG images and previews; the server's daily bake still renders those).
       - name: Install Chromium
-        if: steps.scope.outputs.story_only != 'true'
+        if: steps.scope.outputs.visual == 'true'
         run: pnpm --filter @freshcalendars/generator exec playwright install --with-deps chromium
       - name: Build calendar site HTML
-        if: steps.scope.outputs.story_only != 'true'
-        run: pnpm fc gen-meta
+        if: steps.scope.outputs.visual == 'true'
+        run: pnpm fc gen-meta --html-only
       - name: Text contrast (WCAG AA)
-        if: steps.scope.outputs.story_only != 'true'
+        if: steps.scope.outputs.visual == 'true'
         run: pnpm smoke:contrast
       - name: Changed stories
         if: github.event_name == 'pull_request'
