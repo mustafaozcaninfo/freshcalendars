@@ -2664,3 +2664,17 @@ ayrı iç QA kaydına gider. Public sayfaya inceleme/yayın tarihi ekleme.
 - Google — Discussions and forums SERP özelliği (Eylül 2022)
 
 > Uyarı: Web kaynaklarından 15 kelimeyi aşan alıntı kullanılmamıştır; tüm özetler parafrazdır.
+
+---
+
+## Ek — "Algorithmic Authorship" rehberiyle karşılaştırma (30 Ekim 2026)
+
+> Bölüm 08'e ektir; yukarıdaki satır numaraları denetimde atıf olarak kullanıldığı için not dosyanın sonuna eklendi.
+
+Aynı röportajın temize çekilmiş bir özeti (`algorithmic_authorship_advanced_guide.md`) okundu. Bu bölümün çerçevesini doğruluyor; yeni olarak dört düzeltme getiriyor ve bunlar `news-seo` becerisine işlendi:
+- **Yüklem kesinliği:** "Modal fiilden kaçın" kuralı tek başına eksik. Fiil, kaynağın kesinliğini taşır: resmi kaynak onayladıysa "kapanır/gerekir", yalnız plan veya beklenti varsa "planlanıyor/açıklanmadı". Onaylı bilgiyi yumuşatmak da, planı kesinleştirmek de hatadır. "Neden olur / gerektirir / ile ilişkilidir" birbirinin yerine kullanılmaz.
+- **Varlık–nitelik–değer–bağlam:** Her olgu kapsamıyla yazılır (hangi eyalet, hangi kurum, hangi saat dilimi). Kaynak ve yıl kuralının üçüncü ayağı.
+- **Değiştirici varyant sayfaları:** Yalnız yer/mağaza adı değişen kopya sayfa doorway sayfadır; varyantlar tek hikâyede tabloya girer. Ayrı sayfa yalnız varyantın kendi resmi olguları varsa açılır.
+- **Abartılmaması gerekenler:** Hibrit şablondaki arka plan rengi kullanıcı için ayrımdır, sıralama sinyali değildir; anlamı semantik HTML ve etiketli başlıklar taşır. "İlk 6–7 cümle" de sabit bir eşik değildir; açılış konuyu adlandırır, cevabı verir, ana koşulu söyler.
+
+/news/ için yorum/UGC kısmı değişmez: olgusal hikâyelerde görüş yok (`08-NO-OPINION`), yalnız atıflı alıntı; uydurma uzman, okur veya deneyim bloğu yok; FAQ yalnız görünür `<details>` olarak kalır.
