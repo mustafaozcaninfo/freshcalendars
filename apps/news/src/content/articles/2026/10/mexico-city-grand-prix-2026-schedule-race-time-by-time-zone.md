@@ -4,6 +4,7 @@ seoTitle: "Mexico City Grand Prix 2026: Schedule and Race Time"
 description: "The Mexico City Grand Prix race is Sunday, Nov. 1, 2026, at 2 p.m. local time, 3 p.m. Eastern Standard Time (EST), Formula 1 (F1) says."
 type: news
 publishedAt: "2026-10-25T14:19:00-04:00"
+updatedAt: "2026-10-30T04:30:00-04:00"
 authors: [jordan-bennett]
 category: sports
 keywords: ["Mexico City Grand Prix 2026", "Mexican Grand Prix 2026 time", "F1 Mexico 2026 schedule", "what time is the F1 race Sunday"]
@@ -23,7 +24,7 @@ summary:
   - "The Mexico City Grand Prix race is Sunday, Nov. 1, 2026, from 14:00 to 16:00 local time (UTC-6), Formula 1 (F1) says. That is 3 p.m. Eastern Standard Time (EST), by our conversion."
   - "U.S. clocks fall back at 2 a.m. on Nov. 1, so Friday and Saturday sessions fall on daylight time and Sunday's race falls on standard time."
   - "F1 lists three practice sessions and qualifying on Friday, Oct. 30 and Saturday, Oct. 31. Its timetable is subject to change."
-  - "The F1 page does not name a U.S. broadcaster, so check your F1 broadcaster or F1 TV."
+  - "Apple TV carries F1 in the United States. Apple says every practice is free to watch; qualifying and the race need a subscription."
 faq:
   - q: "What time is the Mexico City Grand Prix race in 2026?"
     a: "F1 lists the race at 14:00 Mexico City local time on Sunday, Nov. 1, 2026. That is 3 p.m. EST, 2 p.m. Central Standard Time (CST), 1 p.m. Mountain Standard Time (MST) and 12 p.m. Pacific Standard Time (PST), by our conversion."
@@ -34,11 +35,14 @@ faq:
   - q: "Do U.S. clocks change that weekend?"
     a: "Yes. U.S. clocks fall back at 2 a.m. on Sunday, Nov. 1, so the race is on standard time while Friday and Saturday sessions are on daylight time."
   - q: "What channel is the F1 race on in the U.S.?"
-    a: "The F1 page we used does not name a U.S. broadcaster. Check your F1 broadcaster or F1 TV."
+    a: "Apple TV, the U.S. home of Formula 1, according to Apple. The race and qualifying need an Apple TV subscription; Apple says every practice is free to watch."
 sources:
   - title: "Formula 1 Gran Premio de la Ciudad de México 2026"
     url: "https://www.formula1.com/en/latest/article/formula-1-gran-premio-de-la-ciudad-de-mexico-2026.14b3wTWzNNLJ5Wd8cG7HCQ"
     publisher: "Formula 1"
+  - title: "Watch F1 on Apple TV"
+    url: "https://tv.apple.com/us/info/watch-f1"
+    publisher: "Apple"
 internalLinks:
   - href: "/november-calendars.html"
     label: "November 2026 printable calendar"
@@ -78,6 +82,8 @@ downloads:
 draft: false
 ---
 
+<p class="callout"><b>Last updated Oct. 30, 2026, 4:30 a.m. ET.</b> Added how to watch in the U.S.: Apple TV, with practice sessions free.</p>
+
 **The Mexico City Grand Prix race is Sunday, Nov. 1, 2026, at 14:00 local time, which is 3 p.m. Eastern Standard Time (EST), according to Formula 1 (F1).** F1 lists the race as 71 laps or 120 minutes, and says its timetable is subject to change. Below: every session in U.S. time zones, and the clock change that moves Sunday's start.
 
 ## What is the Mexico City Grand Prix 2026 schedule?
@@ -108,7 +114,7 @@ Our [daylight saving time ends Nov. 1, 2026](/news/daylight-saving-time-ends-nov
 
 ## Where can you watch the Mexico City Grand Prix in the U.S.?
 
-The F1 page we used does not name a U.S. broadcaster. Check your F1 broadcaster or F1 TV for the channel and start of coverage.
+On Apple TV. Apple calls Apple TV "the U.S. home of Formula 1" and says "every practice is available without a subscription," so Friday's two sessions and Saturday's third practice are free to watch. Qualifying and the race need an Apple TV subscription, which, Apple says, covers every practice, qualifying session, Sprint and Grand Prix. Saturday's other events on TV are in our [sports on TV today, Oct. 31](/news/sports-on-tv-today-october-31-2026/) story.
 
 ## Free Mexico City Grand Prix 2026 weekend schedule
 

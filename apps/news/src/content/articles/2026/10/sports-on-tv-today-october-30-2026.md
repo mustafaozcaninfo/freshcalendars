@@ -4,6 +4,7 @@ seoTitle: "Sports on TV Today, Oct. 30, 2026: 20 Events"
 description: "Sports on TV today, Friday, Oct. 30, 2026: 20 events from 1 p.m. Eastern Time (ET), with channels for basketball, hockey, college football and racing."
 type: news
 publishedAt: "2026-10-30T01:55:00-04:00"
+updatedAt: "2026-10-30T04:30:00-04:00"
 authors: [jordan-bennett]
 category: sports
 keywords: ["sports on TV today", "sports schedule today October 30 2026", "what games are on tonight", "sports on TV tonight Friday", "printable sports TV schedule"]
@@ -21,8 +22,8 @@ assets:
     layout: list
     rows:
       - ["1:00 to 6:00 p.m.", "Breeders' Cup, 5 races from 2:55 p.m. (USA Network, Peacock)"]
-      - ["2:30 p.m.", "F1 Mexico City first practice (no U.S. channel named)"]
-      - ["6:00 p.m.", "F1 Mexico City second practice (no U.S. channel named)"]
+      - ["2:30 p.m.", "F1 Mexico City first practice (Apple TV, free)"]
+      - ["6:00 p.m.", "F1 Mexico City second practice (Apple TV, free)"]
       - ["6:00 p.m.", "NHL: Devils at Golden Knights (NHL Network)"]
       - ["7:00 p.m.", "NBA: Hornets at Wizards (local TV, League Pass)"]
       - ["7:00 p.m.", "NHL: Jets at Panthers (Scripps)"]
@@ -58,7 +59,7 @@ hero:
 summary:
   - "Twenty sports events are listed for Friday, Oct. 30, 2026: 10 National Basketball Association (NBA) games, 3 National Hockey League (NHL) games, 4 college football games, 2 Formula 1 (F1) practice sessions and the Breeders' Cup."
   - "The first is Breeders' Cup coverage on USA Network and Peacock at 1 p.m. Eastern Time (ET); the last are Lakers at Warriors and Nuggets at Suns at 10 p.m. ET and Kent State at Sacramento State at 10:30 p.m. ET."
-  - "National channels: Prime Video (Knicks at 76ers, Lakers at Warriors), NHL Network, ESPN, ESPN2, ESPNU, USA Network and Peacock."
+  - "National channels: Prime Video (Knicks at 76ers, Lakers at Warriors), NHL Network, ESPN, ESPN2, ESPNU, USA Network, Peacock and Apple TV (F1 practice, free)."
   - "There is no Major League Baseball (MLB) game: the Brewers won the World Series 4-1 on Oct. 28."
 downloads:
   - group: "Sports on TV Friday printables"
@@ -114,6 +115,9 @@ sources:
   - title: "Formula 1 Gran Premio de la Ciudad de México 2026"
     url: "https://www.formula1.com/en/latest/article/formula-1-gran-premio-de-la-ciudad-de-mexico-2026.14b3wTWzNNLJ5Wd8cG7HCQ"
     publisher: "Formula 1"
+  - title: "Watch F1 on Apple TV"
+    url: "https://tv.apple.com/us/info/watch-f1"
+    publisher: "Apple"
   - title: "2026 postseason schedule, results and how to watch"
     url: "https://www.mlb.com/news/2026-mlb-playoff-and-world-series-schedule"
     publisher: "MLB.com"
@@ -127,6 +131,9 @@ related: [nba-games-today-october-30-2026, nhl-games-today-october-30-2026, bree
 draft: false
 ---
 
+<p class="callout"><b>Last updated Oct. 30, 2026, 4:30 a.m. ET.</b> Added Apple TV as the U.S. channel for both F1 practice sessions; Saturday's schedule is in <a href="/news/sports-on-tv-today-october-31-2026/">sports on TV today, Oct. 31</a>.</p>
+
+
 **There are 20 sports events on the schedule for Friday, Oct. 30, 2026, starting at 1 p.m. Eastern Time (ET), according to the National Basketball Association (NBA), National Hockey League (NHL), National Collegiate Athletic Association (NCAA), Breeders' Cup and Formula 1 (F1) listings.** That is 10 NBA games, 3 NHL games, 4 college football games, 2 F1 practice sessions and the Breeders' Cup card at Keeneland. The table below puts all of them in one time-ordered list with the channel.
 
 This page carries no live scores. Each linked story has the details and its own sources.
@@ -138,8 +145,8 @@ Oct. 30 is before the U.S. clock change on Sunday, Nov. 1, so daylight time appl
 | ET | CT | PT | Event | TV |
 |---|---|---|---|---|
 | 1:00 to 6:00 p.m. | 12:00 to 5:00 p.m. | 10:00 a.m. to 3:00 p.m. | Breeders' Cup at Keeneland, 5 races from 2:55 p.m. ET | USA Network, Peacock |
-| 2:30 p.m. | 1:30 p.m. | 11:30 a.m. | F1 Mexico City, first practice | No U.S. channel named by F1 |
-| 6:00 p.m. | 5:00 p.m. | 3:00 p.m. | F1 Mexico City, second practice | No U.S. channel named by F1 |
+| 2:30 p.m. | 1:30 p.m. | 11:30 a.m. | F1 Mexico City, first practice | Apple TV (free) |
+| 6:00 p.m. | 5:00 p.m. | 3:00 p.m. | F1 Mexico City, second practice | Apple TV (free) |
 | 6:00 p.m. | 5:00 p.m. | 3:00 p.m. | NHL: Devils at Golden Knights | NHL Network (national) |
 | 7:00 p.m. | 6:00 p.m. | 4:00 p.m. | NBA: Hornets at Wizards | Local TV, NBA League Pass |
 | 7:00 p.m. | 6:00 p.m. | 4:00 p.m. | NHL: Jets at Panthers | Scripps (Panthers) |
@@ -166,6 +173,7 @@ Start times can change, so check your provider's guide before each start. The Br
 - **NHL Network:** Devils at Golden Knights (6 p.m. ET).
 - **ESPN, ESPN2 and ESPNU:** four college football games, per NCAA.com.
 - **USA Network and Peacock:** Breeders' Cup, 1 to 6 p.m. ET.
+- **Apple TV:** both F1 practice sessions, free without a subscription.
 
 The other eight NBA games are on local TV and NBA League Pass.
 
@@ -187,7 +195,7 @@ USA Network and Peacock show the Breeders' Cup from 1 to 6 p.m. ET, per the Bree
 
 ## Formula 1 practice from Mexico City
 
-F1 lists first practice at 12:30 p.m. Mexico City time, which is 2:30 p.m. ET, and second practice at 4 p.m. local, which is 6 p.m. ET. The F1 page names no U.S. broadcaster, so check your F1 broadcaster or F1 TV. The weekend's other sessions and the race are in our [Mexico City Grand Prix 2026 schedule](/news/mexico-city-grand-prix-2026-schedule-race-time-by-time-zone/).
+F1 lists first practice at 12:30 p.m. Mexico City time, which is 2:30 p.m. ET, and second practice at 4 p.m. local, which is 6 p.m. ET. Apple TV is "the U.S. home of Formula 1," according to Apple, and its F1 page says "every practice is available without a subscription." The weekend's other sessions and the race are in our [Mexico City Grand Prix 2026 schedule](/news/mexico-city-grand-prix-2026-schedule-race-time-by-time-zone/).
 
 ## Is there baseball on tonight?
 
