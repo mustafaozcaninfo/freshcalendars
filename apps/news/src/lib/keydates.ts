@@ -12,6 +12,13 @@ export interface KeyDate {
 }
 
 export const KEY_DATES: KeyDate[] = [
+  { date: "2026-11-01", label: "Early Decision and Early Action deadline at Harvard, Yale, MIT, Penn, Brown and others", slug: "early-decision-deadlines-2026-november-1-sunday-college-list-uc-november-30" },
+  { date: "2026-11-02", label: "Duke Early Decision deadline", slug: "early-decision-deadlines-2026-november-1-sunday-college-list-uc-november-30" },
+  { date: "2026-11-30", label: "University of California fall 2027 application filing period ends", slug: "early-decision-deadlines-2026-november-1-sunday-college-list-uc-november-30" },
+  { date: "2026-10-31", label: "College football Week 10: first kickoffs at noon ET, Florida vs. Georgia 3:30 p.m. ET", slug: "college-football-week-10-schedule-2026-halloween-top-25-game-times-tv" },
+  { date: "2027-02-10", label: "Narnia: The Magician's Nephew IMAX-only sneak previews begin", slug: "narnia-the-magicians-nephew-release-date-imax-february-12-2027-netflix-april-2" },
+  { date: "2027-02-12", label: "Narnia: The Magician's Nephew opens in theaters", slug: "narnia-the-magicians-nephew-release-date-imax-february-12-2027-netflix-april-2" },
+  { date: "2027-04-02", label: "Narnia: The Magician's Nephew streams on Netflix", slug: "narnia-the-magicians-nephew-release-date-imax-february-12-2027-netflix-april-2" },
   { date: "2026-11-04", label: "Dunkin' holiday cups and Avengers: Doomsday menu arrive", slug: "dunkin-holiday-menu-2026-november-4-avengers-doomsday-menu" },
   { date: "2026-11-07", label: "SAT test day; doors open 7:45 a.m., close 8 a.m.", slug: "sat-november-7-2026-test-day-checklist-what-to-bring-score-release-date" },
   { date: "2026-11-20", label: "Nov. 7 SAT scores released to students", slug: "sat-november-7-2026-test-day-checklist-what-to-bring-score-release-date" },
