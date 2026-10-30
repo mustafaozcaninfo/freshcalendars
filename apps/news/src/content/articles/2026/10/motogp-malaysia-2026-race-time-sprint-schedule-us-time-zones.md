@@ -58,7 +58,7 @@ internalLinks:
     label: "When does daylight saving time end?"
   - href: "/november-calendars.html"
     label: "November 2026 printable calendar"
-related: [mexico-city-grand-prix-2026-schedule-race-time-by-time-zone, daylight-saving-time-ends-november-1-2026, sao-paulo-grand-prix-2026-schedule-race-time-by-time-zone]
+related: [motogp-2026-final-races-qatar-portugal-valencia-race-times-us-uk, mexico-city-grand-prix-2026-schedule-race-time-by-time-zone, daylight-saving-time-ends-november-1-2026]
 assets:
   overlay: true
   kicker: "MotoGP Malaysia · Nov. 1, 2026"
