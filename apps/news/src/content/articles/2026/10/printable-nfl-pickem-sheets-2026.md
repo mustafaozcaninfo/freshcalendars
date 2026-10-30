@@ -53,7 +53,7 @@ internalLinks:
     label: "November 2026 printable calendar"
   - href: "/printable-weekly-calendar.html"
     label: "printable weekly calendar"
-related: [nfl-week-9-schedule-2026-printable-pick-em-sheet-game-times, nfl-week-8-schedule-2026-game-times-tv-clock-change, printable-nfl-schedule-2026-2027-pdf]
+related: [nfl-week-9-schedule-2026-printable-pick-em-sheet-game-times, nfl-week-11-schedule-2026-printable-pick-em-sheet-game-times, printable-nfl-schedule-2026-2027-pdf]
 draft: false
 downloads:
   - group: "NFL Week 8 Pick'em Sheets 2026"

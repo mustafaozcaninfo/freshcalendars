@@ -42,6 +42,8 @@ export const KEY_DATES: KeyDate[] = [
   { date: "2026-11-11", label: "National Poppy Campaign ends on Remembrance Day (runs from Oct. 24)", slug: "poppy-campaign-2026-canada-dates-october-24-november-11" },
   { date: "2026-11-12", label: "NFL Week 10 opens: Commanders at Giants, 8:15 p.m. ET, Prime Video", slug: "nfl-week-10-schedule-2026-printable-pick-em-sheet-game-times" },
   { date: "2026-11-15", label: "Patriots at Lions in Munich, 9:30 a.m. ET, FOX", slug: "nfl-week-10-schedule-2026-printable-pick-em-sheet-game-times" },
+  { date: "2026-11-19", label: "NFL Week 11 opens: Colts at Texans, 8:15 p.m. ET, Prime Video", slug: "nfl-week-11-schedule-2026-printable-pick-em-sheet-game-times" },
+  { date: "2026-11-22", label: "Vikings at 49ers in Mexico City, 8:20 p.m. ET, NBC", slug: "nfl-week-11-schedule-2026-printable-pick-em-sheet-game-times" },
   { date: "2026-11-20", label: "The Hunger Games: Sunrise on the Reaping opens in theaters", slug: "hunger-games-sunrise-on-the-reaping-release-date-november-20-rewatch-countdown" },
   { date: "2026-11-05", label: "Canadian Tire Black Friday deals begin", slug: "black-friday-canada-2026-november-27-sale-dates-canadian-tire-november-5" },
   { date: "2026-11-27", label: "Black Friday in Canada", slug: "black-friday-canada-2026-november-27-sale-dates-canadian-tire-november-5" },
