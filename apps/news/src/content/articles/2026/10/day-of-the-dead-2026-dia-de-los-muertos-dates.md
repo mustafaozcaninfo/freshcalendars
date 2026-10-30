@@ -150,14 +150,14 @@ downloads:
 draft: false
 ---
 
-**Día de los Muertos 2026 takes place on Sunday, Nov. 1 and Monday, Nov. 2.** The Mexican tradition remembers family members and friends who have died with ofrendas (home altars), marigolds, candles, food and cemetery visits. Both days fall right after Halloween on Saturday, Oct. 31, and many families start earlier: popular calendars reported by Mexican newsrooms set aside Tuesday, Oct. 27 for pets.
+**Día de los Muertos 2026 takes place on Sunday, Nov. 1 and Monday, Nov. 2.** The Mexican tradition remembers family members and friends who have died with ofrendas (home altars), marigolds, candles, food and cemetery visits. Both days fall right after Halloween on Saturday, Oct. 31, and the season starts earlier: popular calendars reported by Mexican newsrooms set aside Tuesday, Oct. 27 for pets.
 
 ## Day of the Dead 2026 dates at a glance
 
 | Date | Day | Observance |
 |---|---|---|
 | Oct. 27 | Tuesday | Pets that have died (a recent popular custom) |
-| Oct. 31 | Saturday | Halloween; many families finish their ofrendas; Mexico City parade |
+| Oct. 31 | Saturday | Halloween; ofrendas finished; Mexico City parade |
 | Nov. 1 | Sunday | Día de los Angelitos (children); All Saints' Day |
 | Nov. 2 | Monday | Día de los Muertos (adults); All Souls' Day |
 
@@ -165,7 +165,7 @@ The main dates are fixed every year. Only the weekday moves: in 2026 the two cen
 
 ## The week before: Oct. 27 to Nov. 2, day by day
 
-Mexico's Ministry of Culture lists the festivity from Oct. 28 to Nov. 3, with the faithful departed remembered on Nov. 1 and 2. Many families follow a longer popular calendar that gives each day to a different group of the dead. Two Mexican newsrooms, La Crónica de Hoy and Récord, published the same sequence for 2026, and Récord notes that it comes from popular calendars that vary by region and family.
+Mexico's Ministry of Culture lists the festivity from Oct. 28 to Nov. 3, with the faithful departed remembered on Nov. 1 and 2. Households often follow a longer popular calendar that gives each day to a different group of the dead. Two Mexican newsrooms, La Crónica de Hoy and Récord, published the same sequence for 2026, and Récord notes that it comes from popular calendars that vary by region and family.
 
 | Date | Day | Who is remembered, by popular calendar |
 |---|---|---|
@@ -183,7 +183,7 @@ Treat the table as one common pattern. A family in Oaxaca, a town in Michoacán 
 
 Día de los Muertos is a Mexican tradition, rooted in Indigenous practice and blended with the Catholic feasts of All Saints and All Souls. Families welcome back the spirits of relatives who have died. The United Nations Educational, Scientific and Cultural Organization (UNESCO) first proclaimed the Indigenous festivity dedicated to the dead a masterpiece of intangible heritage in 2003 and inscribed it on its Representative List of the Intangible Cultural Heritage of Humanity in 2008. UNESCO describes families laying flower petals, candles and offerings along the path from the cemetery to the home to guide the souls back.
 
-In many places families spend the night of Nov. 1 or Nov. 2 at the cemetery, cleaning and decorating graves, sharing food and telling stories about the people they remember. UNESCO's own short film shows these customs in Indigenous communities:
+In towns across Mexico, families spend the night of Nov. 1 or Nov. 2 at the cemetery, cleaning and decorating graves, sharing food and telling stories about the people they remember. UNESCO's own short film shows these customs in Indigenous communities:
 
 <figure class="video-embed">
 <iframe src="https://www.youtube-nocookie.com/embed/GwXMaxfI4As" title="The Indigenous Festivity dedicated to the Dead, a UNESCO video" loading="lazy" allow="encrypted-media; picture-in-picture; fullscreen" allowfullscreen referrerpolicy="strict-origin-when-cross-origin" style="display:block;width:100%;aspect-ratio:16/9;height:auto;border:0;border-radius:12px;background:#111"></iframe>
@@ -227,7 +227,7 @@ A small pet ofrenda might hold:
 - Water and a small portion of a favorite treat, placed where living pets cannot reach it.
 - Marigolds or another flower, and a candle you can watch.
 
-In 2026 Oct. 27 fell on a Tuesday, so many families set up their pet altar on Monday evening. Our printable below marks the date for next year's planning too.
+In 2026 Oct. 27 fell on a Tuesday; by Expansión's timing, a pet altar was ready by that night. Our printable below marks the date for next year's planning too.
 
 ## Day of the Dead in Mexico City in 2026
 
@@ -292,7 +292,7 @@ At the Disneyland Resort, Plaza de la Familia at Disney California Adventure use
 
 ## Is Day of the Dead the same as Halloween?
 
-No. Halloween on Oct. 31 has Celtic and Christian roots and centers on costumes and trick-or-treating; our [Halloween 2026 guide](/news/halloween-2026-saturday-sunset-trick-or-treat-times/) has sunset times by city. Día de los Muertos is about memory and family: welcoming back relatives who have died. The two sit side by side on the calendar, and some public events mix them, but their meanings differ.
+No. Halloween on Oct. 31 has Celtic and Christian roots and centers on costumes and trick-or-treating; our [Halloween 2026 guide](/news/halloween-2026-saturday-sunset-trick-or-treat-times/) has sunset times by city. Día de los Muertos is about memory and family: welcoming back relatives who have died. The two sit side by side on the calendar, and public events sometimes mix them, but their meanings differ.
 
 ## Printable Day of the Dead 2026 calendar
 
