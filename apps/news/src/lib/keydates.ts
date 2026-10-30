@@ -12,6 +12,9 @@ export interface KeyDate {
 }
 
 export const KEY_DATES: KeyDate[] = [
+  { date: "2026-10-30", label: "Lifelong Learning Entitlement applications open (courses from 1 Jan. 2027)", slug: "lifelong-learning-entitlement-applications-open-january-2027-courses" },
+  { date: "2026-11-12", label: "NOAA El Niño (ENSO) update from the Climate Prediction Center", slug: "el-nino-update-november-12-noaa-winter-outlook-november-19-2026" },
+  { date: "2026-11-19", label: "NOAA winter outlook update, about 8:30 a.m. ET", slug: "el-nino-update-november-12-noaa-winter-outlook-november-19-2026" },
   { date: "2026-11-06", label: "Royal Agricultural Winter Fair opens at Exhibition Place, Toronto (to Nov. 15)", slug: "royal-agricultural-winter-fair-2026-dates-hours-horse-show-toronto" },
   { date: "2026-11-12", label: "Distillery Winter Village opens in Toronto, tree lighting 6 p.m.", slug: "canada-christmas-markets-2026-dates-toronto-montreal-vancouver-quebec-ottawa" },
   { date: "2026-11-16", label: "Vancouver Christmas Market opens at Jack Poole Plaza", slug: "canada-christmas-markets-2026-dates-toronto-montreal-vancouver-quebec-ottawa" },
