@@ -12,6 +12,8 @@ export interface KeyDate {
 }
 
 export const KEY_DATES: KeyDate[] = [
+  { date: "2026-11-01", label: "The Gilded Age Season 4 premieres, 9 p.m. ET/PT on HBO", slug: "the-gilded-age-season-4-premiere-time-november-1-hbo-max" },
+  { date: "2026-11-17", label: "HBO documentary When a Witness Recants, 9 p.m. ET/PT", slug: "the-gilded-age-season-4-premiere-time-november-1-hbo-max" },
   { date: "2026-10-30", label: "Melbourne Cup Carnival: Derby Day first race 9:20 p.m. ET (Oct. 31 in Melbourne)", slug: "melbourne-cup-2026-time-us-uk-derby-day-oaks-carnival-schedule" },
   { date: "2026-11-02", label: "Melbourne Cup Day first race 6:45 p.m. ET (Tue., Nov. 3 in Melbourne)", slug: "melbourne-cup-2026-time-us-uk-derby-day-oaks-carnival-schedule" },
   { date: "2026-12-01", label: "Environment Canada posts new seasonal forecast maps", slug: "el-nino-update-november-12-noaa-winter-outlook-november-19-2026" },
