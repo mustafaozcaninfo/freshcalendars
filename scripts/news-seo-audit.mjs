@@ -427,7 +427,9 @@ check("08-ABBREV", "Abbreviations defined on first use in article prose (§08 l.
       // Arena names built on company names written in capitals (PPG Paints Arena, SAP Center).
       "PPG", "SAP", "UBS",
       // Broadcast call letters and a transit route name styled in capitals (WISN 12 News, WUWM, MCTS CONNECT 1).
-      "WISN", "WUWM", "CONNECT"]);
+      "WISN", "WUWM", "CONNECT",
+      // More call letters (KWQC, WDIV, KTTC) and a promo code as the company prints it (Lime HEADCOUNT).
+      "KWQC", "WDIV", "KTTC", "HEADCOUNT"]);
     const undefined_ = [];
     const seen = new Set();
     for (const m of text.matchAll(/\b([A-Z][A-Z-]{1,}[A-Z])\b/g)) {
