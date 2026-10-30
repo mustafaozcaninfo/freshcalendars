@@ -1,0 +1,22 @@
+{
+  "ref": "commons:File:WallCalendar.jpg",
+  "source": "Wikimedia Commons",
+  "title": "WallCalendar",
+  "page": "https://commons.wikimedia.org/wiki/File:WallCalendar.jpg",
+  "file": "https://upload.wikimedia.org/wikipedia/commons/b/bb/WallCalendar.jpg",
+  "width": 2816,
+  "height": 2112,
+  "thumb": "https://commons.wikimedia.org/wiki/Special:FilePath/WallCalendar.jpg?width=640",
+  "license": "Public domain",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "author": "Claudio Elias",
+  "authorUrl": "https://commons.wikimedia.org/wiki/User:Claudio_Elias",
+  "ok": true,
+  "slug": "how-many-weeks-in-a-year",
+  "fetchedAt": "2026-10-30T12:32:08.835Z",
+  "original": "2816×2112",
+  "output": "2400×1350",
+  "cropped": true,
+  "credit": "Photo: Claudio Elias / Wikimedia Commons, cropped, edited",
+  "overlay": true
+}
