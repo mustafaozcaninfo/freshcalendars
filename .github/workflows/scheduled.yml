@@ -1,12 +1,13 @@
 name: Scheduled stories
 
-# A story with a future publishedAt is left out of the build until that time. Every 10 minutes
+# A story with a future publishedAt is left out of the build until that time. Every 5 minutes (the
+# shortest GitHub schedule)
 # this checks the deployed commit for stories that came due since its build, and if there are
 # any, rebuilds that same commit and publishes it (newer commits publish through CI as usual).
-# GitHub may start a scheduled run a few minutes late, so a story goes live 10-20 min after its time.
+# GitHub may start a scheduled run a few minutes late, so a story goes live about 5-15 min after its time.
 on:
   schedule:
-    - cron: "*/10 * * * *"
+    - cron: "*/5 * * * *"
   workflow_dispatch:
 
 concurrency:
