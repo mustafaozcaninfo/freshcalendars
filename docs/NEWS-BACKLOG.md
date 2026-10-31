@@ -16,7 +16,7 @@ Routine D (`docs/PUZZLE-ROUTINES.md`) takes one item from this list per run, hig
 - [x] **past-wordle-answers** [content] (done 2026-10-31) Evergreen story: every past Wordle answer since 2021, by date and A to Z.
   Target query "past Wordle answers" / "Wordle answers list". Built from `apps/news/src/content/puzzles/wordle-history.json` (official NYT data, #0 to yesterday) by script: a table per year, the repeated answers, letter stats computed from the data, and the used-word checker (the build already draws it on Wordle pages; reuse `wordleChecker` in `apps/news/src/lib/puzzle-boards.mjs` if the slug is not a daily page, or link to a daily page). Must not cannibalize `wordle-answers-2026-full-list-repeat-answers`: that one is 2026 only, this one is all years; link both ways. Follow `news-seo` and `news-article`; byline `news-desk`, category `puzzles`.
 
-- [ ] **connections-reveal** [code] Connections spoiler: one group at a time.
+- [x] **connections-reveal** [code] (done 2026-10-31) Connections spoiler: one group at a time.
   In the answers (spoilers) section, each `- **Color, Group:** words` line becomes a tap-to-reveal: the color and group name show, the four words open on tap (reuse `revealHints` style in `puzzle-boards.mjs`). The solved board under it stays. Words remain in the HTML (crawlable). Beebom does this; most sites do not.
 
 - [ ] **waffle-check** [code] Waffle joins the official answer check.
