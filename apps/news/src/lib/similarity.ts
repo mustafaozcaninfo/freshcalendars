@@ -128,6 +128,9 @@ export function related(ix: SimIndex, id: string, pinned: string[] = [], limit =
   while (picked.length < limit && pool.length) {
     let best = 0, bestScore = -Infinity;
     for (const [i, x] of pool.entries()) {
+      // The pool is sorted by s and the penalty only lowers a score, so nothing further down can
+      // win: stop here instead of comparing every story of the site with the picks.
+      if (x.s <= bestScore + 1e-9) break;
       const copy = Math.max(0, ...picked.map((p) => similarity(ix, x.c, p)));
       const score = x.s - (copy >= NEAR_COPY ? copy : 0);
       if (score > bestScore + 1e-9) { best = i; bestScore = score; }

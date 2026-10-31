@@ -53,7 +53,7 @@ internalLinks:
     label: "November 2026 printable calendar"
   - href: "/when-is/daylight-savings/"
     label: "When is daylight saving time?"
-related: [mexico-city-grand-prix-2026-schedule-race-time-by-time-zone]
+related: [mexico-city-grand-prix-2026-schedule-race-time-by-time-zone, us-brazil-time-difference-after-november-1-2026-sao-paulo-2-hours]
 assets:
   overlay: true
   kicker: "São Paulo GP · Nov. 8, 2026"

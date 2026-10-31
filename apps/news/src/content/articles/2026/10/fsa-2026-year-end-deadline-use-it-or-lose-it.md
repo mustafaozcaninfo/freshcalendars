@@ -21,7 +21,7 @@ hero:
 summary:
   - "The 2026 health flexible spending arrangement (FSA) limit is $3,400, up $100 from $3,300 in 2025, per the IRS."
   - "If your plan allows a carryover, the most that can move into the next plan year is $680."
-  - "A plan may offer a grace period of up to 2½ months instead, which for a plan year ending Dec. 31, 2026 runs at most to Mar. 15, 2027."
+  - "A plan may offer a grace period of up to 2½ months instead, which for a plan year ending Dec. 31, 2026 runs at most to March 15, 2027."
   - "A plan with a carryover cannot also have a grace period for health FSAs. The IRS has not yet announced the 2027 limit."
 faq:
   - q: "Does my health FSA money roll over in 2026?"
@@ -87,7 +87,7 @@ assets:
     rows:
       - { when: "Now", what: "Find your plan year end date (Dec. 31, 2026 for a calendar-year plan)", section: "Find out" }
       - { when: "Now", what: "Check whether the plan has a carryover (up to $680), a grace period or neither", section: "Find out" }
-      - { when: "Mar. 15, 2027", what: "Latest grace period end for a Dec. 31 plan year, only if the plan has one", section: "Find out" }
+      - { when: "March 15, 2027", what: "Latest grace period end for a Dec. 31 plan year, only if the plan has one", section: "Find out" }
       - { when: "Now", what: "Check your balance in the benefits portal", section: "Do" }
       - { when: "Now", what: "Ask the administrator for the claims deadline", section: "Do" }
       - { when: "Now", what: "Keep receipts for every eligible expense", section: "Do" }
@@ -123,7 +123,7 @@ A plan can have one of the two features, or neither. The plan year is not always
 | If your plan has | What it allows | Example for a plan year ending Thu., Dec. 31, 2026 |
 |---|---|---|
 | Carryover | Up to $680 moves into the 2027 plan year; the employer may set a lower amount | Spend the rest by Dec. 31, 2026 |
-| Grace period | Up to 2½ months after the plan year ends to use the money | Mon., Mar. 15, 2027 at the latest |
+| Grace period | Up to 2½ months after the plan year ends to use the money | Mon., March 15, 2027 at the latest |
 | Neither | Nothing carries over | Spend it all by Dec. 31, 2026 |
 
 The March 15 date is the longest a 2½-month grace period can run from December 31. A plan may set a shorter one. Mark the dates on a [December 2026 printable calendar](/december-calendars.html) and a [March 2027 printable calendar](/march-calendars.html), or use the [printable yearly calendar](/printable-yearly-calendar.html).

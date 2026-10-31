@@ -2,30 +2,32 @@
 /**
  * Topic hub: every story on one running subject across categories, newest first, with the
  * topic's upcoming key dates (add to calendar) and its pillar story as "Start here".
- * CollectionPage + ItemList JSON-LD via ListingView.
+ * CollectionPage + ItemList JSON-LD via ListingView. Older stories continue on /page/N/ (page/[page].astro).
  */
 import ListingView from "../../../components/ListingView.astro";
 import KeyDates from "../../../components/KeyDates.astro";
-import { getCategoryNames, getPublishedArticles, type Article } from "../../../lib/articles";
+import { getCategoryNames, type Article } from "../../../lib/articles";
 import { upcomingFor } from "../../../lib/keydates";
 import { articlePath } from "../../../lib/seo";
 import { centralId } from "../../../lib/similarity";
+import { topicPages } from "../../../lib/pages";
+import type { Page } from "../../../lib/listing";
 import { liveTopics, storyIndex } from "../../../lib/storygraph";
 import { startId, topicPath, type Topic } from "../../../lib/topics";
 
 export async function getStaticPaths() {
-  const all = await getPublishedArticles();
-  return liveTopics(all).map(({ topic, items }) => ({ params: { topic: topic.slug }, props: { topic, items, all } }));
+  return (await topicPages())
+    .filter(({ page }) => page.page === 1)
+    .map(({ topic, items, page, all }) => ({ params: { topic: topic.slug }, props: { topic, items, page, all } }));
 }
-interface Props { topic: Topic; items: Article[]; all: Article[] }
-const { topic, items, all } = Astro.props;
+interface Props { topic: Topic; items: Article[]; page: Page<Article>; all: Article[] }
+const { topic, items, page, all } = Astro.props;
 const path = topicPath(topic.slug);
 const ix = storyIndex(all);
 const startSlug = startId(topic, items.map((a) => ({ id: a.id, title: a.data.title, keywords: a.data.keywords })), (ids) => centralId(ix, ids));
 const start = items.find((a) => a.id === startSlug);
 const dates = upcomingFor(new Set(items.map((a) => a.id)));
 const others = liveTopics(all).map((t) => t.topic).filter((t) => t.slug !== topic.slug);
-const page = { items, page: 1, totalPages: 1, path };
 ---
 <ListingView
   page={page}

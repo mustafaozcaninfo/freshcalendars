@@ -1,0 +1,49 @@
+---
+/** One archive month: every story published that month (ET), newest first, as a light text list (a puzzle month runs to hundreds). */
+import NewsBase from "../../../../layouts/NewsBase.astro";
+import Breadcrumb from "../../../../components/Breadcrumb.astro";
+import NewsRail from "../../../../components/NewsRail.astro";
+import { getCategoryNames, getPublishedArticles, type Article } from "../../../../lib/articles";
+import { ARCHIVE_PATH, archiveMonths, type ArchiveMonth } from "../../../../lib/archive";
+import { articlePath, formatDateET, isoDateTime, listingGraph } from "../../../../lib/seo";
+
+export async function getStaticPaths() {
+  const months = archiveMonths(await getPublishedArticles(), (a) => a.data.publishedAt);
+  return months.map((m, i) => ({
+    params: { year: String(m.year), month: String(m.month).padStart(2, "0") },
+    props: { m, newer: months[i - 1], older: months[i + 1] },
+  }));
+}
+interface Props { m: ArchiveMonth<Article>; newer?: ArchiveMonth<Article>; older?: ArchiveMonth<Article> }
+const { m, newer, older } = Astro.props;
+const cats = await getCategoryNames();
+const title = `${m.name} News Archive: All ${m.items.length} Stories`;
+const description = `Every Fresh Calendars News story published in ${m.name}, newest first, with its date and section: ${m.items.length} stories in all, each linked.`;
+const trail = [{ name: "News", path: "/news/" }, { name: "Archive", path: ARCHIVE_PATH }, { name: m.name, path: m.path }];
+const jsonLd = listingGraph({ path: m.path, name: title, description, trail, items: m.items.map((a) => ({ path: articlePath(a.id), name: a.data.title })), kind: "CollectionPage" });
+---
+<NewsBase title={`${title} | Fresh Calendars`} description={description} path={m.path} jsonLd={jsonLd} ads={false}>
+  <div class="news-workspace"><NewsRail path={m.path} /><div class="hub archive">
+    <Breadcrumb items={[{ name: "Home", href: "/" }, { name: "News", href: "/news/" }, { name: "Archive", href: ARCHIVE_PATH }, { name: m.name }]} />
+    <h1>{title}</h1>
+    <p class="news-lede">Stories are listed by publication date in Eastern Time (ET), newest first. The <a href={ARCHIVE_PATH}>archive</a> has every other month.</p>
+    <ol class="stories">
+      {m.items.map((a) => (
+        <li><a href={articlePath(a.id)}>{a.data.title}</a><span><time datetime={isoDateTime(a.data.publishedAt)}>{formatDateET(a.data.publishedAt)}</time> · {cats.get(a.data.category.id)}</span></li>
+      ))}
+    </ol>
+    <nav class="pager" aria-label="Other months">
+      {newer ? <a href={newer.path} rel="prev">← {newer.name}</a> : <span />}
+      {older ? <a href={older.path} rel="next">{older.name} →</a> : <span />}
+    </nav>
+  </div></div>
+</NewsBase>
+<style>
+  .stories{list-style:none;margin:1rem 0 0;padding:0;display:grid;gap:0}
+  .stories li{display:grid;gap:2px;padding:10px 0;border-bottom:1px solid var(--line-soft)}
+  .stories a{font-weight:700;color:var(--ink-strong);text-decoration:none;line-height:1.35}
+  .stories a:hover,.stories a:focus-visible{text-decoration:underline}
+  .stories span{font-size:.85rem;color:var(--muted)}
+  .pager{display:flex;justify-content:space-between;gap:12px;margin:25px 0 0;padding-top:18px;border-top:1px solid var(--line-soft)}
+  .pager a{min-height:44px;display:inline-flex;align-items:center;font-weight:700;color:var(--focus);text-decoration:none}
+</style>

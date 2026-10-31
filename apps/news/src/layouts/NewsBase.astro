@@ -50,7 +50,7 @@ const withAds = ADS_ENABLED && ads;
 // analytics never run for pages the reader does not open).
 const SPECULATION = JSON.stringify({ prefetch: [{ where: { and: [{ href_matches: "/news/*" }, { not: { href_matches: "/news/downloads/*" } }] }, eagerness: "moderate" }] });
 const canonical = absNewsUrl(path);
-const designLayout = Astro.props.design ?? (path === "/news/" ? "news-home" : path.startsWith("/news/author/") ? "news-author" : path.startsWith("/news/category/") ? "news-category" : path.startsWith("/news/topic/") ? "news-topic" : path.startsWith("/news/page/") ? "news-pagination" : path.startsWith("/news/printables/") ? "news-printables" : ["/news/about/", "/news/editorial-policy/", "/news/corrections-policy/", "/news/masthead/"].includes(path) ? "news-policy" : "news-article");
+const designLayout = Astro.props.design ?? (path === "/news/" ? "news-home" : path.startsWith("/news/author/") ? "news-author" : path.startsWith("/news/category/") ? "news-category" : path.startsWith("/news/topic/") ? "news-topic" : path.startsWith("/news/page/") ? "news-pagination" : path.startsWith("/news/printables/") ? "news-printables" : path.startsWith("/news/archive/") ? "news-archive" : ["/news/about/", "/news/editorial-policy/", "/news/corrections-policy/", "/news/masthead/"].includes(path) ? "news-policy" : "news-article");
 const today = new Date();
 // News pages use two families only: Sora (headings) + Source Sans 3 (everything else,
 // DESIGN.md article type). font-display:optional means unpreloaded faces fall back on first view.
