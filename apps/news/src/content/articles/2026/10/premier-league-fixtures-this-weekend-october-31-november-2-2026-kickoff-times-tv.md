@@ -81,7 +81,7 @@ internalLinks:
     label: "October 2026 printable calendar"
   - href: "/printable-weekly-calendar.html"
     label: "printable weekly calendar"
-related: [carabao-cup-fourth-round-2026-schedule-kickoff-times-tv-us-uk, uk-europe-clocks-go-back-october-25-2026-time-difference, champions-league-november-2026-schedule-kickoff-times-et-matchday-4-5]
+related: [carabao-cup-fourth-round-2026-schedule-kickoff-times-tv-us-uk, fpl-deadlines-2026-27-every-gameweek-deadline-time-uk-us-chip-dates, champions-league-november-2026-schedule-kickoff-times-et-matchday-4-5]
 downloads:
   - group: "Premier League TV Guide printables"
     title: "Premier League TV Guide, Oct. 31-Nov. 2, 2026"
