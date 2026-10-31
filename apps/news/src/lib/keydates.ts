@@ -12,6 +12,12 @@ export interface KeyDate {
 }
 
 export const KEY_DATES: KeyDate[] = [
+  { date: "2026-11-02", label: "Nets at Knicks, 7:30 p.m. ET, Madison Square Garden", slug: "knicks-schedule-november-2026-game-times-tv-nba-cup-printable" },
+  { date: "2026-11-13", label: "Knicks at Pacers, NBA Cup, 7 p.m. ET, Prime Video", slug: "knicks-schedule-november-2026-game-times-tv-nba-cup-printable" },
+  { date: "2026-11-27", label: "Heat at Knicks, NBA Cup, 7 p.m. ET, Prime Video", slug: "knicks-schedule-november-2026-game-times-tv-nba-cup-printable" },
+  { date: "2026-10-31", label: "Nine games leave Xbox Game Pass", slug: "xbox-game-pass-leaving-october-31-2026-new-games-november-2-6" },
+  { date: "2026-11-03", label: "Pit of Goblin and Football Manager 27 early access on Game Pass", slug: "xbox-game-pass-leaving-october-31-2026-new-games-november-2-6" },
+  { date: "2026-11-10", label: "Football Manager 26 leaves Game Pass", slug: "xbox-game-pass-leaving-october-31-2026-new-games-november-2-6" },
   { date: "2027-03-26", label: "Good Friday: NYSE closed, federal offices open", slug: "easter-2027-march-28-good-friday-easter-monday-whats-open" },
   { date: "2027-03-28", label: "Easter Sunday", slug: "easter-2027-march-28-good-friday-easter-monday-whats-open" },
   { date: "2027-03-17", label: "St. Patrick's Day; New York parade, 11 a.m., Fifth Avenue", slug: "st-patricks-day-2027-wednesday-march-17-parades-by-city" },

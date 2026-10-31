@@ -41,13 +41,13 @@ assets:
     alt: "Printable Knicks schedule for November 2026 listing 14 games with Eastern Time start times"
 hero:
   src: ../../../../assets/news/knicks-schedule-november-2026-game-times-tv-nba-cup-printable/knicks-schedule-november-2026-game-times-tv-nba-cup-printable.webp
-  alt: "Knicks schedule November 2026: the New York Knicks playing at Madison knicks-schedule-november-2026-game-times-tv-nba-cup-printablequare Garden, seen from the upper seats"
-  caption: "File photo of a Knicks home game at Madison knicks-schedule-november-2026-game-times-tv-nba-cup-printablequare Garden, where the team plays nine of its 14 November 2026 games."
+  alt: "Knicks schedule November 2026: a Knicks home game at Madison Square Garden seen from the upper seats"
+  caption: "File photo of a Knicks home game at Madison Square Garden, where the team plays nine of its 14 November 2026 games."
   credit: "Photo: Jean-Baptiste Bellet from Toulouse, France / Wikimedia Commons, cropped, edited"
   license:
     name: "CC BY 2.0"
     url: "https://creativecommons.org/licenses/by/2.0"
-    source: "https://commons.wikimedia.org/wiki/File:New-York_Knicks_in_the_Madison_knicks-schedule-november-2026-game-times-tv-nba-cup-printablequare_Garden_(6054203290).jpg"
+    source: "https://commons.wikimedia.org/wiki/File:New-York_Knicks_in_the_Madison_Square_Garden_(6054203290).jpg"
     author: "Jean-Baptiste Bellet from Toulouse, France"
     authorUrl: "https://www.flickr.com/people/8767215@N04"
 summary:
