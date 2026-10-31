@@ -63,7 +63,7 @@ Start with the three Halloween clues, 1-Across, 4-Across and 7-Across, since eac
 
 Keep a streak log on our [printable weekly calendar](/printable-weekly-calendar.html) or the [October 2026 printable calendar](/october-calendars.html).
 
-More of Friday's puzzles: [Wordle hints](/news/wordle-hint-answer-today-october-30-2026-1959/), [Connections hints](/news/nyt-connections-hints-answers-october-30-2026-1237/), [Strands hints](/news/nyt-strands-hints-answers-october-30-2026-971/), [Spelling Bee hints](/news/nyt-spelling-bee-hints-answers-october-30-2026/) and [Pips hints](/news/nyt-pips-hints-answers-october-30-2026/). Thursday's grid is in our [Mini answers for Oct. 29](/news/nyt-mini-crossword-answers-october-29-2026/).
+More of Friday's puzzles: [Wordle hints](/news/wordle-hint-answer-today-october-30-2026-1959/), [Connections hints](/news/nyt-connections-hints-answers-october-30-2026-1237/), [Strands hints](/news/nyt-strands-hints-answers-october-30-2026-971/), [Spelling Bee hints](/news/nyt-spelling-bee-hints-answers-october-30-2026/) and [Pips hints](/news/nyt-pips-hints-answers-october-30-2026/). Thursday's grid is in our [Mini answers for Oct. 29](/news/nyt-mini-crossword-answers-october-29-2026/), and Saturday's in our [Mini answers for Oct. 31](/news/nyt-mini-crossword-answers-october-31-2026/).
 
 ## Today's NYT Mini answers (spoilers)
 
