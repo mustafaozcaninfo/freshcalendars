@@ -94,7 +94,7 @@ internalLinks:
     label: "Printable weekly calendar"
   - href: "/november-calendars.html"
     label: "November 2026 printable calendar"
-related: [daylight-saving-time-ends-november-1-2026, us-philippines-time-difference-after-november-1-2026-manila-13-hours, us-brazil-time-difference-after-november-1-2026-sao-paulo-2-hours]
+related: [daylight-saving-time-ends-november-1-2026, us-philippines-time-difference-after-november-1-2026-manila-13-hours, us-dubai-saudi-israel-time-difference-after-november-1-2026]
 draft: false
 ---
 
