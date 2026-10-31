@@ -3,7 +3,7 @@ title: "NYT Letter Boxed Hints and Answer for Wednesday, Nov. 4, 2026: Sides, Pa
 seoTitle: "NYT Letter Boxed Hints and Answer, Nov. 4, 2026"
 description: "Letter Boxed for Wednesday, Nov. 4, 2026 from The New York Times (NYT): sides R/M/L, B/G/A, U/D/P, Y/N/O, par 5, seven hints, then a marked spoiler."
 type: explainer
-publishedAt: "2026-10-31T05:27:00-04:00"
+publishedAt: "2026-11-03T00:05:00-05:00"
 authors: [news-desk]
 category: puzzles
 keywords: ["Letter Boxed answer today", "Letter Boxed hints", "NYT Letter Boxed November 4 2026", "Letter Boxed solution", "Letter Boxed par"]
