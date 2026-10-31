@@ -101,7 +101,7 @@ downloads:
 draft: false
 ---
 
-**Premier League Gameweek 10 opens Friday, Nov. 6, 2026 with Everton v Coventry City at 8pm UK time, which is 3 p.m. Eastern Time (ET), on Sky Sports, according to the Premier League.** Ten matches follow across Saturday, Nov. 7 and Sunday, Nov. 8, and the league says all fixtures are Greenwich Mean Time (GMT) and 15:00 kick-offs unless otherwise stated.
+**Premier League Gameweek 10 opens Friday, Nov. 6, 2026 with Everton v Coventry City at 8pm UK time, which is 3 p.m. Eastern Time (ET), on Sky Sports, according to the Premier League.** Nine more matches follow on Saturday, Nov. 7 and Sunday, Nov. 8, and the league says all fixtures are Greenwich Mean Time (GMT) and 15:00 kick-offs unless otherwise stated.
 
 The table below gives every match in UK time (GMT), ET and Pacific Time (PT), with the UK channel. The Premier League published the November broadcast selections on Sept. 21, 2026, and a printable version is further down.
 
