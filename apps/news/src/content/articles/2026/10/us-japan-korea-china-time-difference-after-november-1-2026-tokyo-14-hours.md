@@ -8,11 +8,18 @@ authors: [jordan-bennett]
 category: time-change
 keywords: ["time difference between us and japan", "new york to tokyo time difference after daylight saving", "us korea time difference", "us china time difference november 2026"]
 hero:
-  src: ../../../../assets/news/us-japan-korea-china-time-difference-after-november-1-2026-tokyo-14-hours/us-japan-korea-china-time-difference-after-november-1-2026-tokyo-14-hours.jpg
-  alt: "Illustrated clock face for the U.S.-Japan, South Korea and China time difference after daylight saving time ends on Nov. 1, 2026"
-  caption: "From Nov. 1, 2026, New York is 14 hours behind Tokyo and Seoul and 13 hours behind Beijing, our calculation from the UTC offsets."
+  src: ../../../../assets/news/us-japan-korea-china-time-difference-after-november-1-2026-tokyo-14-hours/us-japan-korea-china-time-difference-after-november-1-2026-tokyo-14-hours.webp
+  alt: "Time difference between the US and Japan: Tokyo Tower among Minato City skyscrapers at night"
+  caption: "File photo of Tokyo Tower in Minato City. From Nov. 1, 2026, New York is 14 hours behind Tokyo and Seoul and 13 hours behind Beijing."
+  credit: "Photo: David Kernan / Wikimedia Commons, edited"
+  license:
+    name: "CC BY 4.0"
+    url: "https://creativecommons.org/licenses/by/4.0"
+    source: "https://commons.wikimedia.org/wiki/File:Tokyo_Tower,_Minato_City.jpg"
+    author: "David Kernan"
+    authorUrl: "https://commons.wikimedia.org/wiki/User:Davekern"
 assets:
-  scene: none
+  overlay: true
   kicker: "U.S.-Asia time · From Nov. 1"
   date: "2026-11-01"
   printable:

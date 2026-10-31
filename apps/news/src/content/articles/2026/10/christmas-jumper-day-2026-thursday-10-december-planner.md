@@ -9,7 +9,7 @@ category: uk-canada
 keywords: ["christmas jumper day 2026", "when is christmas jumper day 2026", "christmas jumper day 2026 date", "christmas jumper day ideas school"]
 dateline: "London"
 assets:
-  scene: none
+  overlay: true
   kicker: "Christmas Jumper Day · Thu., Dec. 10, 2026"
   date: "2026-12-10"
   card: { top: "Christmas Jumper Day is on", big: "Thu., Dec. 10", bottom: "40 days from Oct. 31" }
@@ -34,9 +34,16 @@ assets:
     description: "One-page Christmas Jumper Day 2026 planner: suggested dates from Nov. 2 to Dec. 11 for a school, workplace or group, with the official date Dec. 10."
     alt: "Printable Christmas Jumper Day 2026 planner: checklist of suggested dates, Nov. 2 to Dec. 11, and the official date, Dec. 10"
 hero:
-  src: ../../../../assets/news/christmas-jumper-day-2026-thursday-10-december-planner/christmas-jumper-day-2026-thursday-10-december-planner.jpg
-  alt: "Christmas Jumper Day 2026 on Thursday 10 December, placeholder hero card"
-  caption: "Save the Children UK's page gives Thursday 10 December 2026 as the official Christmas Jumper Day."
+  src: ../../../../assets/news/christmas-jumper-day-2026-thursday-10-december-planner/christmas-jumper-day-2026-thursday-10-december-planner.webp
+  alt: "Christmas Jumper Day 2026: racks of children's Christmas jumpers on display in a shop"
+  caption: "File photo of a children's Christmas jumper display in Cornwall, 2022. Save the Children's Christmas Jumper Day 2026 is Thursday 10 December."
+  credit: "Photo: Mutney / Wikimedia Commons, cropped, edited"
+  license:
+    name: "CC BY-SA 4.0"
+    url: "https://creativecommons.org/licenses/by-sa/4.0"
+    source: "https://commons.wikimedia.org/wiki/File:Children%27s_christmas_jumper_display,_Tesco_Extra,_Pool,_Cornwall_-_October_2022.jpg"
+    author: "Mutney"
+    authorUrl: "https://commons.wikimedia.org/wiki/User:Mutney"
 summary:
   - "Save the Children UK's page gives Thursday 10 December 2026 as the official date of Christmas Jumper Day, which is 40 days after Oct. 31."
   - "The charity says another day is fine: \"if another day works better for your school, workplace or group, go for it.\""

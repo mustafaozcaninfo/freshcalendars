@@ -9,9 +9,16 @@ category: sports
 keywords: ["Abu Dhabi Grand Prix 2026 time", "F1 Abu Dhabi 2026 schedule", "F1 season finale 2026 start time", "Abu Dhabi GP race time ET"]
 dateline: "Abu Dhabi"
 hero:
-  src: ../../../../assets/news/abu-dhabi-grand-prix-2026-schedule-race-time-by-time-zone/abu-dhabi-grand-prix-2026-schedule-race-time-by-time-zone.jpg
-  alt: "Calendar card for the Abu Dhabi Grand Prix 2026 at Yas Marina Circuit, race start 8 a.m. ET on Sunday, Dec. 6"
-  caption: "The 2026 Abu Dhabi Grand Prix at Yas Marina Circuit is on Sunday, Dec. 6, with the race at 8 a.m. Eastern Time (ET), 5 p.m. Gulf Standard Time (GST)."
+  src: ../../../../assets/news/abu-dhabi-grand-prix-2026-schedule-race-time-by-time-zone/abu-dhabi-grand-prix-2026-schedule-race-time-by-time-zone.webp
+  alt: "Abu Dhabi Grand Prix 2026 time: the main straight and grandstands at Yas Marina Circuit"
+  caption: "File photo of the Yas Marina Circuit straight. The 2026 race starts at 5 p.m. local time on Sunday, Dec. 6, which is 8 a.m. Eastern Time."
+  credit: "Photo: Pi3.124 / Wikimedia Commons, edited"
+  license:
+    name: "CC BY-SA 3.0"
+    url: "https://creativecommons.org/licenses/by-sa/3.0"
+    source: "https://commons.wikimedia.org/wiki/File:YasMarina1.jpeg"
+    author: "Pi3.124"
+    authorUrl: "https://commons.wikimedia.org/wiki/User:Pi3.124"
 summary:
   - "The Formula 1 (F1) Abu Dhabi Grand Prix race starts Sunday, Dec. 6, 2026, at 5 p.m. Gulf Standard Time (GST), which is 8 a.m. Eastern Time (ET), 5 a.m. Pacific Time (PT) and 1 p.m. in the UK, by our conversion of formula1.com times."
   - "Qualifying is Saturday, Dec. 5, at 6 p.m. GST, 9 a.m. ET. Practice 1 is Friday, Dec. 4, at 1:30 a.m. PT, 4:30 a.m. ET."
@@ -50,7 +57,7 @@ internalLinks:
     label: "printable weekly calendar"
 related: [qatar-grand-prix-2026-schedule-race-time-by-time-zone, las-vegas-grand-prix-2026-schedule-race-time-by-time-zone, sao-paulo-grand-prix-2026-schedule-race-time-by-time-zone]
 assets:
-  scene: spring
+  overlay: true
   kicker: "F1 Abu Dhabi Grand Prix · Dec. 6"
   date: "2026-12-06"
   card: { top: "Race start at Yas Marina", big: "8 a.m. ET", bottom: "Sun., Dec. 6 · 5 p.m. GST" }
