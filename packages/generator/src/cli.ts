@@ -40,7 +40,7 @@ import { buildPickem } from "./pickem.js";
 import { buildConnectionsMeanings } from "./connmeanings.js";
 import { buildTxCalendar } from "./txcalendar.js";
 import { buildNewsAssets, buildSceneGallery } from "./newsAssets.js";
-import { photoPress, photoSearch, photoUse } from "./newsPhoto.js";
+import { photoOfficial, photoPress, photoSearch, photoUse } from "./newsPhoto.js";
 import { buildHeroes4 } from "./heroes4.js";
 import { ROOT } from "./paths.js";
 import { listHeroes } from "./newsHeroes.js";
@@ -187,7 +187,8 @@ async function main(): Promise<void> {
       if (sub === "search") await photoSearch(process.argv[4] ?? "", argValue("--source") ?? "all", !process.argv.includes("--no-sheet"));
       else if (sub === "use") await photoUse(process.argv[4] ?? "", process.argv[5] ?? "", focus, process.argv.includes("--allow-flickr"));
       else if (sub === "press") await photoPress(process.argv[4] ?? "", argValue("--url") ?? "", argValue("--terms") ?? "", argValue("--author") ?? "", focus);
-      else throw new Error("usage: pnpm fc news-photo search|use|press …");
+      else if (sub === "official") await photoOfficial(process.argv[4] ?? "", argValue("--url") ?? "", argValue("--page") ?? "", argValue("--owner") ?? "");
+      else throw new Error("usage: pnpm fc news-photo search|use|press|official …");
     } else if (cmd === "rollover") {
       const to = Number(argValue("--to"));
       if (!to) throw new Error("--to YYYY required");

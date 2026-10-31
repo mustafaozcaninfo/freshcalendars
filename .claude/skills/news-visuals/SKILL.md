@@ -9,6 +9,7 @@ Read `CLAUDE.md` first. The hero is the first thing Google Discover, image searc
 
 ## 1. Choose the hero (in this order)
 
+0. **A recall or safety notice with a product photo? Use that photo.** When the FDA, USDA FSIS, CPSC, NHTSA or CDC shows the product in its notice, `pnpm fc news-photo official <slug> --url <image> --page <notice page> --owner "<company>"` frames it whole as the hero, credited "Photo: <company> via <agency>", with `assets.overlay: false` (no layer on these). A stand-in photo of something else is a last resort for these stories.
 1. **A real subject? Use a licensed photo with our overlay.** A place, event, building, landscape, vehicle, food or object that a photo can show (a marathon bridge, a national park, an airport, a ballot drop box, a store front without logos as the subject). This is the default, and it gives the strongest result.
 2. **An abstract date topic with no honest photo? Use a free illustrated scene.** Run `pnpm fc news-heroes`: it lists the scenes already taken and the ones still free. A taken scene is the same picture to a reader whatever the seed does, so it is refused.
 3. **Neither? Add a scene** (section 4). Do this when a topic will recur (a new holiday family, a sport, travel); a one-off story uses a photo.

@@ -147,6 +147,7 @@ Photo rules (the schema and the tool enforce most of them):
 - **Never** take an image from a search engine, a news site, a stock agency (Getty, AP, Reuters, Shutterstock) or social media. Being a news site does not license a photo, and a credit line is attribution, not permission.
 - Look at the Commons page before using a candidate: no recognizable private people as the subject, no logos as the subject, nothing misleading for the story (a 2019 crowd is not "this year's" crowd; say "file photo" in the caption when it is not from this event).
 - Press-kit images: `pnpm fc news-photo press <slug> --url <image> --terms <terms page> --author "<company>"`, only when the company's terms page allows editorial use by the press. The main session reads that page before committing.
+- Recall and safety notices: when the FDA, USDA FSIS, CPSC, NHTSA or CDC publishes a product photo with its notice, that photo is the hero (readers need to recognize the product): `pnpm fc news-photo official <slug> --url <image on the agency site> --page <notice page> --owner "<company>"`. The tool checks the image is on that notice page, frames the whole photo on a 2400×1350 canvas (never cropped, enlarged at most 2x) and writes the credit "Photo: <company> via <agency>". Set `assets.overlay: false`; `news-assets` refuses our layer on these. Never take the photo from a wire service or news site (Business Wire, AP) instead, and say in the caption that it is the photo from the agency's notice.
 
 ### Printables (`assets.printable`, drawn by `news-assets`)
 

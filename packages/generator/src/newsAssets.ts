@@ -30,7 +30,8 @@
  *   overlay: true                           # licensed-photo stories: kicker, date tile and card over the photo
  * A story with a licensed photo (news-photo, <slug>.photo.json) keeps it; with `overlay: true` the
  * hero is redrawn from the untouched <slug>.source.webp with our scrim, text and finish, and the
- * credit gains ", edited" (CC BY asks us to say the image was changed).
+ * credit gains ", edited" (CC BY asks us to say the image was changed). Official notice photos
+ * (news-photo official) never take the overlay.
  * Original art only: shapes, a calendar card and a little text, no logos. Keep the main shapes inside the
  * middle 900 px so 4:3 and 1:1 crops (Discover, schema images) still read.
  */
@@ -188,6 +189,7 @@ export async function buildNewsAssets(slug: string): Promise<void> {
   const recordFile = path.join(dir, `${slug}.photo.json`);
   const photo = await fs.access(recordFile).then(() => true, () => false);
   if (photo && a.overlay) {
+    if (JSON.parse(await fs.readFile(recordFile, "utf8")).official) throw new Error("an official notice photo is shown as published; set assets.overlay: false");
     const src = path.join(dir, `${slug}.source.webp`);
     if (!(await fs.access(src).then(() => true, () => false))) throw new Error(`${slug}.source.webp is missing; run pnpm fc news-photo use again so the untouched crop is kept`);
     const rec = JSON.parse(await fs.readFile(recordFile, "utf8"));

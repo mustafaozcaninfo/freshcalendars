@@ -4,21 +4,21 @@ seoTitle: "Once Upon a Farm Recall: Tractor Wheels FDA Warning"
 description: "The Food and Drug Administration (FDA) says do not buy or serve Once Upon a Farm Tractor Wheels toddler bars, all flavors and lots. The company offers a refund."
 type: news
 publishedAt: "2026-10-31T16:45:00-04:00"
+updatedAt: "2026-10-31T17:16:00-04:00"
 authors: [alex-morgan]
 category: planning
 keywords: ["Once Upon a Farm recall", "Tractor Wheels recall", "Once Upon a Farm FDA warning", "Tractor Wheels toddler bars choking", "Once Upon a Farm refund"]
 dateline: "New York"
 hero:
   src: ../../../../assets/news/once-upon-a-farm-tractor-wheels-recall-fda-warning-2026/once-upon-a-farm-tractor-wheels-recall-fda-warning-2026.webp
-  alt: "Once Upon a Farm recall: sliced red apple on a white background, a generic USDA photo of toddler food"
-  caption: "Sliced apple in a USDA Team Nutrition photo, a generic image and not the recalled product. Apple is one of three Tractor Wheels flavor names."
-  credit: "Photo: USDAgov / Wikimedia Commons, cropped, edited"
+  alt: "Once Upon a Farm recall: red, yellow and green Tractor Wheels toddler bar packages in the three recalled flavors"
+  caption: "The three Tractor Wheels flavors named in the recall, in the product photo the FDA published with its Oct. 30, 2026 advisory."
+  credit: "Photo: Once Upon a Farm via U.S. Food and Drug Administration (FDA)"
   license:
-    name: "Public domain"
-    url: "https://creativecommons.org/publicdomain/mark/1.0/"
-    source: "https://commons.wikimedia.org/wiki/File:Food_Portions_(Team_Nutrition)_(20210902-FNS-UNC-0047).jpg"
-    author: "USDAgov"
-    authorUrl: "https://www.flickr.com/people/usdagov/"
+    name: "Official notice image"
+    url: "https://www.fda.gov/food/alerts-advisories-safety-information/fda-advises-consumers-not-buy-or-serve-once-upon-farm-tractor-wheels-organic-toddler-soft-baked-bars"
+    source: "https://www.fda.gov/food/alerts-advisories-safety-information/fda-advises-consumers-not-buy-or-serve-once-upon-farm-tractor-wheels-organic-toddler-soft-baked-bars"
+    author: "Once Upon a Farm"
 summary:
   - "On Oct. 30, 2026, the FDA advised consumers not to buy or serve Once Upon a Farm Tractor Wheels Organic Toddler Soft-Baked Bars, in all flavors, quantities and varieties, including all lot codes and expiration dates, and to throw them away."
   - "The FDA said it has received several reports of toddlers ages 1.5 to 2.5 years suffering complete airway obstruction; the company said its voluntary recall followed three consumer complaints."
@@ -58,7 +58,7 @@ internalLinks:
     label: "printable weekly calendar"
 related: [toothpaste-recall-2026-brush-buddies-evo-aru-fda-class-ii, thanksgiving-leftovers-how-long-turkey-and-sides-last-2026]
 assets:
-  overlay: true
+  overlay: false
   kicker: "FDA advisory · Oct. 30, 2026"
   date: "2026-10-30"
   card: { top: "Do not buy or serve", big: "Tractor Wheels bars", bottom: "All flavors, all lots, per the FDA" }
