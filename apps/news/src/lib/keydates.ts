@@ -12,6 +12,15 @@ export interface KeyDate {
 }
 
 export const KEY_DATES: KeyDate[] = [
+  { date: "2026-11-23", label: "Georgia runoff early voting begins (through Nov. 25), if a runoff is required", slug: "runoff-elections-2026-dates-georgia-december-1-louisiana-december-12" },
+  { date: "2026-12-01", label: "Georgia and Mississippi runoff day, if required", slug: "runoff-elections-2026-dates-georgia-december-1-louisiana-december-12" },
+  { date: "2026-12-12", label: "Louisiana open general and special primary election", slug: "runoff-elections-2026-dates-georgia-december-1-louisiana-december-12" },
+  { date: "2026-11-06", label: "IHSAA football sectional championships, 7 p.m. local", slug: "ihsaa-football-tournament-2026-schedule-sectionals-regionals-state-finals" },
+  { date: "2026-11-13", label: "IHSAA football regionals", slug: "ihsaa-football-tournament-2026-schedule-sectionals-regionals-state-finals" },
+  { date: "2026-11-20", label: "IHSAA football semi-states", slug: "ihsaa-football-tournament-2026-schedule-sectionals-regionals-state-finals" },
+  { date: "2026-11-27", label: "IHSAA football state finals day 1: 2A, 4A, 6A at Lucas Oil Stadium", slug: "ihsaa-football-tournament-2026-schedule-sectionals-regionals-state-finals" },
+  { date: "2026-11-28", label: "IHSAA football state finals day 2: 1A, 3A, 5A", slug: "ihsaa-football-tournament-2026-schedule-sectionals-regionals-state-finals" },
+  { date: "2026-11-13", label: "World Kindness Day", slug: "world-kindness-day-2026-friday-november-13-kindness-dates-printable" },
   { date: "2026-11-01", label: "U.S. clocks fall back: New York is 13 hours behind Manila", slug: "us-philippines-time-difference-after-november-1-2026-manila-13-hours" },
   { date: "2026-11-08", label: "MotoGP Qatar Grand Prix, 11 a.m. ET", slug: "motogp-2026-final-races-qatar-portugal-valencia-race-times-us-uk" },
   { date: "2026-11-22", label: "MotoGP Portugal Grand Prix, 8 a.m. ET", slug: "motogp-2026-final-races-qatar-portugal-valencia-race-times-us-uk" },

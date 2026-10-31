@@ -56,7 +56,7 @@ internalLinks:
     label: "When is Black Friday"
   - href: "/when-is/veterans-day/"
     label: "When is Veterans Day"
-related: [why-thanksgiving-2026-is-november-26]
+related: [why-thanksgiving-2026-is-november-26, world-kindness-day-2026-friday-november-13-kindness-dates-printable]
 downloads:
   - group: "November 2026 printables"
     title: "November 2026 Calendar With Holidays (Sunday Start)"

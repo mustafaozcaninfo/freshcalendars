@@ -91,7 +91,7 @@ internalLinks:
     label: "October 2026 printable calendar"
   - href: "/printable-weekly-calendar.html"
     label: "Printable weekly calendar"
-related: [college-football-week-10-schedule-2026-halloween-top-25-game-times-tv, nba-games-today-october-30-2026, nhl-games-today-october-30-2026]
+related: [college-football-week-10-schedule-2026-halloween-top-25-game-times-tv, ihsaa-football-tournament-2026-schedule-sectionals-regionals-state-finals, nba-games-today-october-30-2026]
 draft: false
 ---
 

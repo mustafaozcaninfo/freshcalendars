@@ -79,7 +79,7 @@ internalLinks:
     label: "October 2026 printable calendar"
   - href: "/printable-weekly-calendar.html"
     label: "Printable weekly planner"
-related: [october-20-2026-what-day-holidays-observances, dea-drug-take-back-day-october-24-2026-locations]
+related: [october-20-2026-what-day-holidays-observances, dea-drug-take-back-day-october-24-2026-locations, world-kindness-day-2026-friday-november-13-kindness-dates-printable]
 downloads:
   - group: "Volunteer Day Plan printables"
     title: "Volunteer Day Plan, Make A Difference Day Oct. 24, 2026"
