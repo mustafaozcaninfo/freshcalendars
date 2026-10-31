@@ -4,9 +4,10 @@ seoTitle: "Wordle Answers 2026: Full List and Repeat Answers"
 description: "The New York Times (NYT) Wordle list for 2026, #1657 to #1955: all 299 answers by month and the 28 past answers that came back, starting with Cigar."
 type: analysis
 publishedAt: "2026-10-26T03:29:00-04:00"
+updatedAt: "2026-10-31T04:46:00-04:00"
 authors: [news-desk]
 category: puzzles
-keywords: ["Wordle answers 2026", "past Wordle answers", "Wordle repeat answers", "Wordle answer list", "has Wordle repeated words"]
+keywords: ["Wordle answers 2026", "Wordle 2026 answer list", "Wordle repeat answers", "Wordle answer list", "has Wordle repeated words"]
 hero:
   src: ../../../../assets/news/wordle-answers-2026-full-list-repeat-answers/wordle-answers-2026-full-list-repeat-answers.jpg
   alt: "Wordle answers 2026: a five-by-six word grid with green and yellow tiles and no letters shown"
@@ -38,7 +39,7 @@ internalLinks:
     label: "2026 printable yearly calendar"
   - href: "/october-calendars.html"
     label: "October 2026 printable calendar"
-related: [wordle-hint-answer-today-october-26-2026-1955, wordle-hint-answer-today-october-25-2026-1954, wordle-hint-answer-today-october-21-2026-1950]
+related: [wordle-hint-answer-today-october-26-2026-1955, wordle-hint-answer-today-october-25-2026-1954, past-wordle-answers-every-word-since-2021]
 draft: false
 downloads:
   - group: "Wordle Repeat Answers printables"
@@ -172,7 +173,7 @@ These are counts from past puzzles, not a forecast of any answer. Three points f
 - **A list of old answers is a partial filter.** About one in ten 2026 answers was a repeat, and about nine in ten were new to the puzzle.
 - **Most repeats come from the early years.** 24 of the 28 first appeared in 2021, and 25 of the 28 came back after more than four years.
 
-For the single puzzle in front of you, the [Wordle hint page for Oct. 26, 2026](/news/wordle-hint-answer-today-october-26-2026-1955/) covers that day's puzzle. Every Wordle story is on the [Wordle hub](/news/topic/wordle/). To keep your own streak, use the [2026 printable yearly calendar](/printable-yearly-calendar.html).
+For the single puzzle in front of you, the [Wordle hint page for Oct. 26, 2026](/news/wordle-hint-answer-today-october-26-2026-1955/) covers that day's puzzle. Every Wordle story is on the [Wordle hub](/news/topic/wordle/). Every answer since 2021 is in our [past Wordle answers list](/news/past-wordle-answers-every-word-since-2021/). To keep your own streak, use the [2026 printable yearly calendar](/printable-yearly-calendar.html).
 
 ## What was every Wordle answer in 2026?
 
