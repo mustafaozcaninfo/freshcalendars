@@ -12,6 +12,11 @@ export interface KeyDate {
 }
 
 export const KEY_DATES: KeyDate[] = [
+  { date: "2026-11-04", label: "WoW Forever launches, 3 p.m. PST / 6 p.m. EST", slug: "wow-forever-launch-time-by-time-zone-november-4" },
+  { date: "2026-12-09", label: "WoW Forever level 60 raids open", slug: "wow-forever-launch-time-by-time-zone-november-4" },
+  { date: "2026-11-03", label: "Mammoth at Maple Leafs, 7 p.m. ET, TSN4", slug: "maple-leafs-schedule-november-2026-game-times-tv-printable" },
+  { date: "2026-11-08", label: "Hockey Hall of Fame Game: Devils at Maple Leafs, 7 p.m. ET", slug: "maple-leafs-schedule-november-2026-game-times-tv-printable" },
+  { date: "2026-11-01", label: "US clocks fall back: New York 2 hours behind São Paulo", slug: "us-brazil-time-difference-after-november-1-2026-sao-paulo-2-hours" },
   { date: "2026-11-02", label: "Nets at Knicks, 7:30 p.m. ET, Madison Square Garden", slug: "knicks-schedule-november-2026-game-times-tv-nba-cup-printable" },
   { date: "2026-11-13", label: "Knicks at Pacers, NBA Cup, 7 p.m. ET, Prime Video", slug: "knicks-schedule-november-2026-game-times-tv-nba-cup-printable" },
   { date: "2026-11-27", label: "Heat at Knicks, NBA Cup, 7 p.m. ET, Prime Video", slug: "knicks-schedule-november-2026-game-times-tv-nba-cup-printable" },
