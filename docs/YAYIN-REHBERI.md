@@ -10,7 +10,7 @@ yapar; senin Mac'inin ya da bir sunucunun açık olması gerekmez. Teknik ayrın
 2. GitHub CI (`ci.yml`) testleri, /news/ build'ini, `news:verify` ve `news:seo-audit`'i çalıştırır.
 3. Hepsi yeşilse aynı çalışma yeni görselleri R2'ye yükler ve siteyi yayınlar (`deploy.yml`, sırayla, birer birer).
    Push'tan canlıya genelde 5-6 dakika sürer. Kırmızı CI asla yayınlanmaz; düzelten yeni commit gelince o yayınlanır.
-4. Gelecek tarihli `publishedAt` taşıyan yazı, saati geldikten sonra 5-15 dakika içinde çıkar (`scheduled.yml`).
+4. Gelecek tarihli `publishedAt` taşıyan yazı, saati geldikten yaklaşık 5 dakika sonra çıkar (`scheduled.yml` saati bekler, çünkü GitHub zamanlanmış çalışmaları geç başlatıp atlayabiliyor).
 5. Yeni yazılar IndexNow'a ve bir kez AnindaIndex'e bildirilir; güncellenen yazılar IndexNow'a.
 
 Takip: GitHub → Actions. `gh run list --branch main --limit 5` son çalışmaları gösterir. Başarısız

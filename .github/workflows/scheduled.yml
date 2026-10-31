@@ -1,10 +1,12 @@
 name: Scheduled stories
 
-# A story with a future publishedAt is left out of the build until that time. Every 5 minutes (the
-# shortest GitHub schedule)
-# this checks the deployed commit for stories that came due since its build, and if there are
-# any, rebuilds that same commit and publishes it (newer commits publish through CI as usual).
-# GitHub may start a scheduled run a few minutes late, so a story goes live about 5-15 min after its time.
+# A story with a future publishedAt is left out of the build until that time. A run checks the
+# deployed commit for stories that came due since its build, and if there are any, rebuilds that
+# same commit and publishes it (newer commits publish through CI as usual).
+# GitHub starts scheduled runs late and skips many (2 of about 36 in the first hours), so a run
+# that finds nothing due but a story due within MAX_WAIT waits for it on the runner, then checks
+# again. Any one run in the hours before a story is enough, and the story goes live about 5 min
+# after its time. The repository is public, so the waiting minutes cost nothing.
 on:
   schedule:
     - cron: "*/5 * * * *"
@@ -17,7 +19,7 @@ concurrency:
 jobs:
   due:
     runs-on: ubuntu-24.04
-    timeout-minutes: 5
+    timeout-minutes: 340  # MAX_WAIT plus the checks; GitHub's limit is 360
     outputs:
       sha: ${{ steps.due.outputs.sha }}
       stories: ${{ steps.due.outputs.stories }}
@@ -36,13 +38,27 @@ jobs:
           sudo dpkg -i /tmp/rclone.deb >/dev/null && rclone version | sed -n 1p  # sed reads to the end; head -1 exits early and rclone dies of SIGPIPE (141) under pipefail
       - name: Stories due since the last build
         id: due
+        env:
+          MAX_WAIT: 19800  # 5.5 h in seconds
         run: |
-          sha="$(cloudflare/deploy.sh state-get news/sha)"
-          since="$(cloudflare/deploy.sh state-get news/built-at)"
-          [[ -n "$sha" && -n "$since" ]] || { echo "nothing deployed yet"; exit 0; }
-          git checkout -q "$sha"
-          stories="$(node cloudflare/due-stories.mjs "$since")"
-          echo "deployed ${sha:0:7}, built $(date -d "@$since" -Is); due: ${stories:-none}"
+          check() {
+            sha="$(cloudflare/deploy.sh state-get news/sha)"
+            since="$(cloudflare/deploy.sh state-get news/built-at)"
+            [[ -n "$sha" && -n "$since" ]] || { echo "nothing deployed yet"; exit 0; }
+            git checkout -q "$sha"
+            stories="$(node cloudflare/due-stories.mjs "$since")"
+            echo "deployed ${sha:0:7}, built $(date -d "@$since" -Is); due: ${stories:-none}"
+          }
+          check
+          if [[ -z "$stories" ]]; then
+            next="$(node cloudflare/due-stories.mjs --next)"
+            if [[ -n "$next" ]] && (( next - $(date +%s) <= MAX_WAIT )); then
+              echo "next story due $(date -d "@$next" -Is); waiting for it"
+              sleep $(( next - $(date +%s) + 20 ))
+              # A push may have published a newer commit meanwhile; check what is deployed now.
+              check
+            fi
+          fi
           echo "sha=$sha" >>"$GITHUB_OUTPUT"
           echo "stories=$stories" >>"$GITHUB_OUTPUT"
 
