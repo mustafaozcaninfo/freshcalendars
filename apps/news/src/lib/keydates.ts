@@ -12,6 +12,13 @@ export interface KeyDate {
 }
 
 export const KEY_DATES: KeyDate[] = [
+  { date: "2026-11-01", label: "Clocks fall back: test smoke alarms and check their dates", slug: "smoke-alarm-check-daylight-saving-time-ends-november-1-2026-checklist" },
+  { date: "2027-03-14", label: "Clocks spring forward: next smoke alarm check", slug: "smoke-alarm-check-daylight-saving-time-ends-november-1-2026-checklist" },
+  { date: "2026-11-01", label: "New I bond rate of 5.51% starts for new bonds", slug: "i-bond-rate-november-2026-5-51-percent-fixed-rate-1-40" },
+  { date: "2027-04-30", label: "Last issue day for I bonds with the 1.40% fixed rate", slug: "i-bond-rate-november-2026-5-51-percent-fixed-rate-1-40" },
+  { date: "2027-05-01", label: "TreasuryDirect announces the next I bond rate", slug: "i-bond-rate-november-2026-5-51-percent-fixed-rate-1-40" },
+  { date: "2026-11-01", label: "Hello Kitty's birthday", slug: "hello-kitty-birthday-2026-sunday-november-1-sanrio-facts" },
+  { date: "2026-12-19", label: "Last Saturday before Christmas", slug: "weekends-until-christmas-2026-saturday-planner-shipping-deadlines" },
   { date: "2026-11-01", label: "Capitol Christmas Tree stops in Orofino and Kamiah, Idaho", slug: "us-capitol-christmas-tree-2026-tour-schedule-stops-dates" },
   { date: "2026-11-13", label: "Capitol Christmas Tree tour stops in Peoria, Illinois", slug: "us-capitol-christmas-tree-2026-tour-schedule-stops-dates" },
   { date: "2026-11-19", label: "Capitol Christmas Tree tour ends at Joint Base Andrews", slug: "us-capitol-christmas-tree-2026-tour-schedule-stops-dates" },

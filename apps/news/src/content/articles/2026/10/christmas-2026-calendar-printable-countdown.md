@@ -100,7 +100,7 @@ internalLinks:
     label: "When is Christmas Day"
   - href: "/printable-yearly-calendar.html"
     label: "Printable yearly calendar"
-related: [christmas-eve-christmas-day-2026-store-hours, christmas-jumper-day-2026-thursday-10-december-planner, advent-calendar-2026-dates-free-printable]
+related: [christmas-eve-christmas-day-2026-store-hours, weekends-until-christmas-2026-saturday-planner-shipping-deadlines, advent-calendar-2026-dates-free-printable]
 downloads:
   - group: "December 2026 Calendar With Holidays and Christmas Countdown Key Dates printables"
     title: "December 2026 Calendar With Holidays and Christmas Countdown Key Dates"
