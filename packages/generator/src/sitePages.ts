@@ -58,7 +58,7 @@ import {
   THEME_BOOT_HTML,
 } from "@freshcalendars/site-chrome";
 import { brandHeadLinks, writeBrandIcons } from "./brandIcons.js";
-import { latestNewsHtml, newsStripHtml } from "./newsLinks.js";
+import { homeNewsHtml, latestNewsHtml, newsStripHtml } from "./newsLinks.js";
 import { DIST_SITE, ROOT } from "./paths.js";
 import { displayPreview2xUrl, displayPreviewUrl } from "./previews.js";
 import { homeConceptHero, homeCalendarShelf, calendarStudio, calendarLibrary, calendarTools } from "./conceptPages.js";
@@ -639,7 +639,7 @@ function renderHome(meta: SeoMeta, today: Date): string {
   const nextYearlyPng = cdnUrl(nextYearlyPaths.png);
   const nextYearlyPdf = cdnUrl(nextYearlyPaths.pdf);
 
-  const hero = homeConceptHero(today) + homeCalendarShelf(today);
+  const hero = homeConceptHero(today) + homeCalendarShelf(today) + volatile(homeNewsHtml(today));
 
   // Legacy index.php included rightmenu.php (sidebar slot 6770670949) alongside home units.
   const main = `
