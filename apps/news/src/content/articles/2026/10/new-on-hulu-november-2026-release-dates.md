@@ -79,7 +79,7 @@ internalLinks:
     label: "November 2026 printable calendar"
   - href: "/printable-weekly-calendar.html"
     label: "Printable weekly calendar"
-related: [new-on-disney-plus-november-2026-release-dates, netflix-new-movies-november-2026-release-dates, new-on-prime-video-november-2026-rings-of-power-season-3]
+related: [dancing-with-the-stars-2026-schedule-disney-night-monday-november-2-finale-november-24, new-on-disney-plus-november-2026-release-dates, netflix-new-movies-november-2026-release-dates]
 downloads:
   - group: "New on Hulu printables"
     title: "New on Hulu, November 2026: Watch Calendar"

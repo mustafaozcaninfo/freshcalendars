@@ -438,6 +438,14 @@ export const KEY_DATES: KeyDate[] = [
   { date: "2026-12-31", label: "Best Buy holiday return window: last purchase day", slug: "holiday-return-policies-2026-return-deadlines-by-store" },
   { date: "2027-01-15", label: "Best Buy holiday return deadline (Jan. 31 for Plus and Total)", slug: "holiday-return-policies-2026-return-deadlines-by-store" },
   { date: "2027-01-04", label: "First working day of 2027 for federal offices and the NYSE", slug: "working-days-2027-business-days-by-month-federal-nyse" },
+  { date: "2026-10-31", label: "Canelo Alvarez vs. Christian M'Billi, ring walk 4 p.m. ET (Dazn PPV)", slug: "canelo-vs-mbilli-fight-time-ring-walk-by-time-zone-dazn-ppv" },
+  { date: "2026-10-31", label: "Skate Canada International: women's short and men's free, Kelowna", slug: "skate-canada-international-2026-schedule-kelowna-times-tv" },
+  { date: "2026-11-01", label: "Skate Canada International final day: women's free and free dance", slug: "skate-canada-international-2026-schedule-kelowna-times-tv" },
+  { date: "2026-11-01", label: "NWSL Decision Day: all eight matches at 5 p.m. ET", slug: "nwsl-playoffs-2026-schedule-decision-day-quarterfinals-championship-november-21" },
+  { date: "2026-11-06", label: "NWSL quarterfinals begin: San Diego Wave FC at 10 p.m. ET on Prime Video", slug: "nwsl-playoffs-2026-schedule-decision-day-quarterfinals-championship-november-21" },
+  { date: "2026-11-21", label: "NWSL Championship at Audi Field", slug: "nwsl-playoffs-2026-schedule-decision-day-quarterfinals-championship-november-21" },
+  { date: "2026-11-02", label: "Dancing with the Stars Disney Night, Monday 8 p.m. ET on ABC", slug: "dancing-with-the-stars-2026-schedule-disney-night-monday-november-2-finale-november-24" },
+  { date: "2026-11-24", label: "Dancing with the Stars Season 35 finale (reported)", slug: "dancing-with-the-stars-2026-schedule-disney-night-monday-november-2-finale-november-24" },
 ];
 
 /** Today's date in Eastern Time as YYYY-MM-DD. */

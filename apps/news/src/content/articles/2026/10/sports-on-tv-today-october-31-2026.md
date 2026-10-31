@@ -135,7 +135,7 @@ internalLinks:
     label: "Printable weekly calendar"
   - href: "/when-is/daylight-savings/"
     label: "When does daylight saving time end?"
-related: [college-football-week-10-schedule-2026-halloween-top-25-game-times-tv, breeders-cup-2026-post-times-tv-schedule-keeneland, sports-on-tv-today-october-30-2026]
+related: [college-football-week-10-schedule-2026-halloween-top-25-game-times-tv, breeders-cup-2026-post-times-tv-schedule-keeneland, canelo-vs-mbilli-fight-time-ring-walk-by-time-zone-dazn-ppv]
 draft: false
 ---
 
