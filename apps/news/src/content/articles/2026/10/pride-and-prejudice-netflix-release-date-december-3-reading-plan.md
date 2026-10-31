@@ -82,7 +82,7 @@ internalLinks:
     label: "December 2026 printable calendar"
   - href: "/printable-weekly-calendar.html"
     label: "printable weekly calendar"
-related: [netflix-new-movies-november-2026-release-dates]
+related: [netflix-new-movies-november-2026-release-dates, national-authors-day-2026-november-1-history-reading-log, national-family-literacy-day-2026-november-1-family-reading-plan]
 downloads:
   - group: "Pride and Prejudice Reading Plan Before Dec. 3 printables"
     title: "Pride and Prejudice Reading Plan Before Dec. 3, 2026"
