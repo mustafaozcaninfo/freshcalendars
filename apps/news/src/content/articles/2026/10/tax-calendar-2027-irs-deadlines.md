@@ -56,7 +56,7 @@ internalLinks:
     label: "April 2027 printable calendar"
   - href: "/january-calendars.html"
     label: "January 2027 printable calendar"
-related: [federal-holidays-2027-observed-dates-list, social-security-cola-2027-3-6-percent-payment-dates, 2026-required-minimum-distribution-deadline-ira-401k]
+related: [when-does-tax-season-start-2027-irs-filing-opening-date, social-security-cola-2027-3-6-percent-payment-dates, 2026-required-minimum-distribution-deadline-ira-401k]
 downloads:
   - group: "Tax calendar printable"
     title: "2027 Federal Tax Calendar"

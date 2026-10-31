@@ -46,7 +46,7 @@ internalLinks:
     label: "When is Boxing Day in the UK"
   - href: "/printable-yearly-calendar.html"
     label: "2027 printable yearly calendar"
-related: [uk-europe-clocks-go-back-october-25-2026-time-difference, week-numbers-2027-calendar-printable, st-andrews-day-2026-scotland-bank-holiday-monday-november-30]
+related: [uk-annual-leave-2027-bank-holidays-double-your-days-off, week-numbers-2027-calendar-printable, st-andrews-day-2026-scotland-bank-holiday-monday-november-30]
 downloads:
   - group: "UK bank holidays printable"
     title: "UK Bank Holidays 2027"

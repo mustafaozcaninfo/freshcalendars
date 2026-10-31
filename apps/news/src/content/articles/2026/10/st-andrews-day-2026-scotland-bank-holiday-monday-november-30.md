@@ -51,7 +51,7 @@ internalLinks:
     label: "November 2026 printable calendar"
   - href: "/printable-yearly-calendar.html"
     label: "printable yearly calendar"
-related: [uk-bank-holidays-2027-dates-england-scotland-northern-ireland, remembrance-day-2026-canada-statutory-holiday-remembrance-sunday-uk, bonfire-night-2026-thursday-november-5-fireworks-rules]
+related: [uk-bank-holidays-2027-dates-england-scotland-northern-ireland, burns-night-2027-january-25-burns-supper-order-of-events, bonfire-night-2026-thursday-november-5-fireworks-rules]
 downloads:
   - group: "St Andrew's Day Bank Holiday Dates printables"
     title: "St Andrew's Day Bank Holiday Dates, 2023 to 2028"

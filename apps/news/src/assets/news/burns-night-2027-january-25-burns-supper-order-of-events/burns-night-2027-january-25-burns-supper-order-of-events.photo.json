@@ -1,0 +1,22 @@
+{
+  "ref": "commons:File:Burns supper.jpg",
+  "source": "Wikimedia Commons",
+  "title": "Burns supper",
+  "page": "https://commons.wikimedia.org/wiki/File:Burns_supper.jpg",
+  "file": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Burns_supper.jpg",
+  "width": 6000,
+  "height": 4000,
+  "thumb": "https://commons.wikimedia.org/wiki/Special:FilePath/Burns%20supper.jpg?width=640",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "author": "Connor Beaton",
+  "authorUrl": "https://commons.wikimedia.org/w/index.php?title=User:Zcbeaton&amp;action=edit&amp;redlink=1",
+  "ok": true,
+  "slug": "burns-night-2027-january-25-burns-supper-order-of-events",
+  "fetchedAt": "2026-10-31T04:59:23.276Z",
+  "original": "6000×4000",
+  "output": "2400×1350",
+  "cropped": true,
+  "credit": "Photo: Connor Beaton / Wikimedia Commons, cropped, edited",
+  "overlay": true
+}

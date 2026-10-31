@@ -63,7 +63,7 @@ internalLinks:
     label: "January 2027 printable calendar"
   - href: "/printable-yearly-calendar.html"
     label: "Printable yearly calendar"
-related: [federal-holidays-2027-observed-dates-list, stock-market-holidays-2027-nyse-closed-dates, national-parks-free-days-october-27-veterans-day-2026]
+related: [federal-holidays-2027-observed-dates-list, stock-market-holidays-2027-nyse-closed-dates, presidents-day-2027-february-15-whats-open-closed]
 downloads:
   - group: "Martin Luther King Jr. Day 2027 Planner printables"
     title: "Martin Luther King Jr. Day 2027 Planner"

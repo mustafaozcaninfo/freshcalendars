@@ -101,7 +101,7 @@ internalLinks:
     label: "Printable yearly calendar"
   - href: "/guides/fiscal-year-calendar.html"
     label: "Fiscal year calendar guide"
-related: [2027-tax-brackets-401k-hsa-limits-irs, fsa-2026-year-end-deadline-use-it-or-lose-it, 2026-required-minimum-distribution-deadline-ira-401k]
+related: [2027-tax-brackets-401k-hsa-limits-irs, fsa-2026-year-end-deadline-use-it-or-lose-it, tax-refund-schedule-2027-when-to-expect-your-refund]
 draft: false
 ---
 

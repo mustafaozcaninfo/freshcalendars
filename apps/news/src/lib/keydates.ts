@@ -12,6 +12,23 @@ export interface KeyDate {
 }
 
 export const KEY_DATES: KeyDate[] = [
+  { date: "2027-04-15", label: "Tax Day 2027: 2026 returns due (IRS)", slug: "when-does-tax-season-start-2027-irs-filing-opening-date" },
+  { date: "2027-02-15", label: "Presidents' Day (Washington's Birthday): federal offices, USPS and NYSE closed", slug: "presidents-day-2027-february-15-whats-open-closed" },
+  { date: "2027-02-15", label: "Family Day (Ontario, Alberta) and Heritage Day (Nova Scotia)", slug: "family-day-2027-canada-february-15-provinces-whats-closed" },
+  { date: "2027-02-14", label: "Valentine's Day (Sunday)", slug: "valentines-day-2027-sunday-february-14-dates-printables" },
+  { date: "2027-02-02", label: "Groundhog Day, Punxsutawney Phil forecast", slug: "groundhog-day-2027-tuesday-february-2-time-where-to-watch" },
+  { date: "2027-02-09", label: "Mardi Gras (Fat Tuesday), Pancake Day in the UK", slug: "mardi-gras-2027-february-9-ash-wednesday-february-10-lent-calendar" },
+  { date: "2027-02-10", label: "Ash Wednesday, Lent begins", slug: "mardi-gras-2027-february-9-ash-wednesday-february-10-lent-calendar" },
+  { date: "2027-01-16", label: "NFL Wild Card Weekend begins (to Jan. 18)", slug: "nfl-playoff-schedule-2027-wild-card-divisional-championship-super-bowl-lxi" },
+  { date: "2027-01-31", label: "AFC and NFC Championship Games", slug: "nfl-playoff-schedule-2027-wild-card-divisional-championship-super-bowl-lxi" },
+  { date: "2026-12-07", label: "Golden Globe nominations announced", slug: "golden-globes-oscars-2027-dates-nominations-how-to-watch-awards-calendar" },
+  { date: "2027-01-10", label: "84th Golden Globes on CBS and Paramount+", slug: "golden-globes-oscars-2027-dates-nominations-how-to-watch-awards-calendar" },
+  { date: "2027-01-21", label: "Oscar nominations announced", slug: "golden-globes-oscars-2027-dates-nominations-how-to-watch-awards-calendar" },
+  { date: "2027-03-14", label: "99th Oscars, 7 p.m. ET on ABC", slug: "golden-globes-oscars-2027-dates-nominations-how-to-watch-awards-calendar" },
+  { date: "2027-01-25", label: "Burns Night", slug: "burns-night-2027-january-25-burns-supper-order-of-events" },
+  { date: "2027-03-26", label: "Good Friday: 4 days' leave gives 10 days off (England, Wales, NI)", slug: "uk-annual-leave-2027-bank-holidays-double-your-days-off" },
+  { date: "2027-11-12", label: "PTO bridge day after Veterans Day", slug: "long-weekends-2027-pto-planner-bridge-days" },
+  { date: "2027-11-26", label: "PTO bridge day after Thanksgiving", slug: "long-weekends-2027-pto-planner-bridge-days" },
   { date: "2026-11-23", label: "Georgia runoff early voting begins (through Nov. 25), if a runoff is required", slug: "runoff-elections-2026-dates-georgia-december-1-louisiana-december-12" },
   { date: "2026-12-01", label: "Georgia and Mississippi runoff day, if required", slug: "runoff-elections-2026-dates-georgia-december-1-louisiana-december-12" },
   { date: "2026-12-12", label: "Louisiana open general and special primary election", slug: "runoff-elections-2026-dates-georgia-december-1-louisiana-december-12" },

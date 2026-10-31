@@ -64,7 +64,7 @@ internalLinks:
     label: "November 2026 printable calendar"
   - href: "/february-calendars.html"
     label: "February 2027 printable calendar"
-related: [cma-awards-2026-date-time-channel-host-nominees, premios-billboard-2026-winners-how-to-watch-replay, super-bowl-lxi-2027-date-sofi-stadium-channel-halftime]
+related: [golden-globes-oscars-2027-dates-nominations-how-to-watch-awards-calendar, cma-awards-2026-date-time-channel-host-nominees, super-bowl-lxi-2027-date-sofi-stadium-channel-halftime]
 downloads:
   - group: "Grammys 2027 Timeline printables"
     title: "Grammys 2027 Timeline"

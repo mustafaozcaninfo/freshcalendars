@@ -78,7 +78,7 @@ internalLinks:
     label: "February 2027 printable calendar"
   - href: "/printable-yearly-calendar.html"
     label: "printable yearly calendar"
-related: [monday-night-football-tonight-cowboys-eagles-mnf-schedule-2026, printable-nfl-schedule-2026-2027-pdf]
+related: [monday-night-football-tonight-cowboys-eagles-mnf-schedule-2026, printable-nfl-schedule-2026-2027-pdf, nfl-playoff-schedule-2027-wild-card-divisional-championship-super-bowl-lxi]
 downloads:
   - group: "Super Bowl LXI Planner (February 2027) printables"
     title: "Super Bowl LXI Planner (February 2027)"
