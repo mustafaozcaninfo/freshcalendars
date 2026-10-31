@@ -54,7 +54,7 @@ internalLinks:
     label: "May 2027 printable calendar"
   - href: "/june-calendars.html"
     label: "June 2027 printable calendar"
-related: [mothers-day-2027-may-9-memorial-day-2027-may-31-long-weekend, super-bowl-lxi-2027-date-sofi-stadium-channel-halftime, melbourne-cup-2026-time-us-uk-derby-day-oaks-carnival-schedule]
+related: [mothers-day-2027-may-9-memorial-day-2027-may-31-long-weekend, super-bowl-lxi-2027-date-sofi-stadium-channel-halftime, womens-world-cup-2027-schedule-brazil-us-uk-canada-times]
 downloads:
   - group: "Triple Crown 2027 Calendar printables"
     title: "Triple Crown 2027 Calendar: Derby, Preakness, Belmont"

@@ -12,6 +12,12 @@ export interface KeyDate {
 }
 
 export const KEY_DATES: KeyDate[] = [
+  { date: "2027-08-02", label: "Total solar eclipse: Spain about 4:45 a.m. ET, Luxor 6:02 a.m. ET", slug: "total-solar-eclipse-august-2-2027-path-times-by-city-travel" },
+  { date: "2026-12-11", label: "Women's World Cup 2027 final draw, Rio de Janeiro", slug: "womens-world-cup-2027-schedule-brazil-us-uk-canada-times" },
+  { date: "2027-06-24", label: "Women's World Cup 2027 opener at the Maracanã", slug: "womens-world-cup-2027-schedule-brazil-us-uk-canada-times" },
+  { date: "2027-07-25", label: "Women's World Cup 2027 final at the Maracanã", slug: "womens-world-cup-2027-schedule-brazil-us-uk-canada-times" },
+  { date: "2027-01-15", label: "Stranger Than Heaven release (Sega)", slug: "video-game-release-dates-2027-calendar" },
+  { date: "2027-02-23", label: "Fable release", slug: "video-game-release-dates-2027-calendar" },
   { date: "2026-11-02", label: "Nets at Knicks, 7:30 p.m. ET, Madison Square Garden", slug: "knicks-schedule-november-2026-game-times-tv-nba-cup-printable" },
   { date: "2026-11-13", label: "Knicks at Pacers, NBA Cup, 7 p.m. ET, Prime Video", slug: "knicks-schedule-november-2026-game-times-tv-nba-cup-printable" },
   { date: "2026-11-27", label: "Heat at Knicks, NBA Cup, 7 p.m. ET, Prime Video", slug: "knicks-schedule-november-2026-game-times-tv-nba-cup-printable" },

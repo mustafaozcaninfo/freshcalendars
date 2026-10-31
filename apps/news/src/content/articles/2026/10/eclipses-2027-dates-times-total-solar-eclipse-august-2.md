@@ -60,7 +60,7 @@ internalLinks:
     label: "February 2027 printable calendar"
   - href: "/august-calendars.html"
     label: "August 2027 printable calendar"
-related: [moon-phases-2027-full-moon-calendar, supermoon-2026-beaver-moon-cold-moon-geminids-solstice, november-2026-meteor-showers-taurids-leonids]
+related: [moon-phases-2027-full-moon-calendar, total-solar-eclipse-august-2-2027-path-times-by-city-travel, november-2026-meteor-showers-taurids-leonids]
 assets:
   overlay: true
   kicker: "Eclipses 2027 · Five dates"
