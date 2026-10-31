@@ -110,7 +110,7 @@ internalLinks:
     label: "Printable yearly calendar"
   - href: "/november-calendars.html"
     label: "November 2026 printable calendar"
-related: [nhl-winter-classic-2027-date-time-avalanche-mammoth-salt-lake-city, nba-cup-2026-schedule-dates-group-play-knockouts-final-indianapolis, printable-nfl-schedule-2026-2027-pdf]
+related: [nhl-winter-classic-2027-date-time-avalanche-mammoth-salt-lake-city, nba-cup-2026-schedule-dates-group-play-knockouts-final-indianapolis, toronto-maple-leafs-schedule-november-2026-game-times-tv-printable]
 downloads:
   - group: "NHL Hometown Remix Game Tracker 2026-27 printables"
     title: "NHL Hometown Remix Game Tracker 2026-27"
