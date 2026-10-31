@@ -4,7 +4,7 @@ seoTitle: "November 2026 Meteor Showers: Taurids and Leonids"
 description: "The Southern Taurids peak Nov. 4-5 and the Northern Taurids Nov. 11-12 under a thin moon; the Leonids peak Nov. 16-17. Best times to watch in the U.S."
 type: news
 publishedAt: "2026-10-19T10:30:00-04:00"
-updatedAt: "2026-10-27T07:10:00-04:00"
+updatedAt: "2026-10-31T03:55:00-04:00"
 authors: [jordan-bennett]
 category: sky-events
 keywords: ["November 2026 meteor shower", "Taurid meteor shower 2026", "Leonid meteor shower 2026", "Leonids 2026 peak", "Taurid fireballs 2026"]
@@ -63,7 +63,7 @@ downloads:
 draft: false
 ---
 
-<p class="callout"><b>Last updated Oct. 27, 2026, 7:10 a.m. ET.</b> Moon figures now follow the American Meteor Society, and the Leonid rate follows NASA. For planets and Moon pairings this month, see our <a href="/news/planets-visible-november-2026-night-sky-calendar-moon-venus-uranus-opposition/">November 2026 night sky calendar</a>.</p>
+<p class="callout"><b>Halloween night, Sat., Oct. 31: Taurids already active.</b> Both Taurid streams run from late September into early December, according to the American Meteor Society, so a bright Taurid fireball is possible tonight. In New York the waning gibbous Moon (63% lit) rises at 10:59 p.m. Eastern Daylight Time (EDT), per the U.S. Naval Observatory, which leaves the evening hours before moonrise as the darkest window. For planets and Moon pairings this month, see our <a href="/news/planets-visible-november-2026-night-sky-calendar-moon-venus-uranus-opposition/">November 2026 night sky calendar</a>.</p>
 
 **November 2026 brings three meteor shower peaks**, and two of them land under nearly moonless skies. The Southern Taurids peak on the night of Nov. 4-5 and the Northern Taurids on Nov. 11-12, according to the American Meteor Society (AMS). The Leonids follow on the night of Nov. 16-17. None will produce a storm, but the Taurids are famous for slow, bright fireballs, and the dark Moon this year gives them a good chance.
 

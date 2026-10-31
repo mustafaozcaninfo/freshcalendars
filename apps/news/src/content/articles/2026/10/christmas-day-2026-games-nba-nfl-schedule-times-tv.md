@@ -87,7 +87,7 @@ internalLinks:
     label: "When is Christmas Eve?"
   - href: "/december-calendars.html"
     label: "December 2026 printable calendar"
-related: [thanksgiving-football-schedule-2026-nfl-college-games, nba-cup-2026-schedule-dates-group-play-knockouts-final-indianapolis, christmas-2026-calendar-printable-countdown]
+related: [thanksgiving-football-schedule-2026-nfl-college-games, nba-cup-2026-schedule-dates-group-play-knockouts-final-indianapolis, knicks-schedule-november-2026-game-times-tv-nba-cup-printable]
 downloads:
   - group: "Christmas Day 2026 Games printables"
     title: "Christmas Day 2026 Games, Fri., Dec. 25"
