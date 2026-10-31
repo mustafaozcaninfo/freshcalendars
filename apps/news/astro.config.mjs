@@ -39,13 +39,16 @@ const cleanBuildLeftovers = {
 async function pruneUnusedImages(out) {
   const assets = path.join(out, "_astro");
   const images = (await readdir(assets)).filter((f) => /\.(avif|webp|png|jpe?g|gif)$/i.test(f));
-  let text = "";
+  // One pass collects every image file name the text mentions. Searching the whole text once per
+  // image (20,000 x 150 MB) took four minutes of every build.
+  const named = new Set();
   for (const f of await readdir(out, { recursive: true })) {
-    if (/\.(html|xml|xsl|json|css|js|txt|webmanifest)$/i.test(f)) text += await readFile(path.join(out, f), "utf8");
+    if (!/\.(html|xml|xsl|json|css|js|txt|webmanifest)$/i.test(f)) continue;
+    for (const m of (await readFile(path.join(out, f), "utf8")).matchAll(/[\w.-]+\.(?:avif|webp|png|jpe?g|gif)/gi)) named.add(m[0]);
   }
   let removed = 0;
   for (const f of images) {
-    if (!text.includes(f)) { await rm(path.join(assets, f)); removed++; }
+    if (!named.has(f)) { await rm(path.join(assets, f)); removed++; }
   }
   if (removed) console.log(`[news] removed ${removed} unused image file(s) from _astro`);
 }

@@ -55,6 +55,7 @@ jobs:
       # Astro's optimized-image cache. Entries are named by a hash of the source and the options,
       # so a stale entry is never used for a changed image; restore-keys picks up the latest cache.
       - name: Restore image cache
+        id: image_cache
         uses: actions/cache/restore@v6
         with:
           path: apps/news/node_modules/.astro/assets
@@ -63,15 +64,18 @@ jobs:
             news-images-${{ hashFiles('apps/news/src/assets/**', 'apps/news/src/components/Hero.astro') }}-
             news-images-
       # A second copy in R2 survives GitHub's cache eviction (10 GB per repository).
+      # Only when GitHub has no cache at all: filling from R2 lists 42,000 objects (about a minute).
       - name: Fill the image cache from R2
-        if: env.PUBLISH == 'true'
+        if: env.PUBLISH == 'true' && steps.image_cache.outputs.cache-matched-key == ''
         run: cloudflare/deploy.sh pull-image-cache
       - name: Count cached images
         id: cache_before
         run: echo "n=$(find apps/news/node_modules/.astro/assets -type f 2>/dev/null | wc -l)" >>"$GITHUB_OUTPUT"
       - name: Build start
         id: build_start
-        run: echo "t=$(date +%s)" >>"$GITHUB_OUTPUT"
+        run: |
+          echo "t=$(date +%s)" >>"$GITHUB_OUTPUT"
+          touch "$RUNNER_TEMP/build-start"
       - name: Build /news/ (frontmatter schema, hero size, references)
         run: pnpm news:build
         timeout-minutes: 40
@@ -104,7 +108,7 @@ jobs:
         if: env.PUBLISH == 'true'
         run: |
           cloudflare/deploy.sh images
-          [[ "${{ steps.cache_after.outputs.new }}" == "1" ]] && cloudflare/deploy.sh push-image-cache || true
+          [[ "${{ steps.cache_after.outputs.new }}" == "1" ]] && IMAGE_CACHE_SINCE="$RUNNER_TEMP/build-start" cloudflare/deploy.sh push-image-cache || true
       - name: Pack the build for the deploy
         if: env.PUBLISH == 'true'
         run: tar -czf news-build.tar.gz --exclude 'news/_astro' -C dist news news-data

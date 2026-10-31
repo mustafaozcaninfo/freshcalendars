@@ -66,6 +66,7 @@ jobs:
         with:
           rclone: "true"
       - name: Restore image cache
+        id: image_cache
         uses: actions/cache/restore@v6
         with:
           path: apps/news/node_modules/.astro/assets
@@ -73,7 +74,8 @@ jobs:
           restore-keys: |
             news-images-${{ hashFiles('apps/news/src/assets/**', 'apps/news/src/components/Hero.astro') }}-
             news-images-
-      - run: cloudflare/deploy.sh pull-image-cache
+      - if: steps.image_cache.outputs.cache-matched-key == ''
+        run: cloudflare/deploy.sh pull-image-cache
       - name: Build start
         id: build_start
         run: echo "t=$(date +%s)" >>"$GITHUB_OUTPUT"
