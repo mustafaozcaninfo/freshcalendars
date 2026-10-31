@@ -1,0 +1,24 @@
+---
+/** Older stories of a topic hub, /news/topic/<slug>/page/N/. Start here and key dates stay on page 1. */
+import ListingView from "../../../../components/ListingView.astro";
+import { getCategoryNames } from "../../../../lib/articles";
+import { topicPages } from "../../../../lib/pages";
+import { topicPath } from "../../../../lib/topics";
+
+export async function getStaticPaths() {
+  return (await topicPages())
+    .filter(({ page }) => page.page > 1)
+    .map(({ topic, items, page }) => ({ params: { topic: topic.slug, page: String(page.page) }, props: { topic, count: items.length, page } }));
+}
+const { topic, count, page } = Astro.props;
+---
+<ListingView
+  page={page}
+  heading={`${topic.name}: All Stories and Key Dates`}
+  intro={topic.description}
+  description={topic.description}
+  trail={[{ name: "News", path: "/news/" }, { name: topic.name, path: topicPath(topic.slug) }]}
+  kind="CollectionPage"
+  categoryNames={await getCategoryNames()}
+  about={`${count} stories. A story joins this page when it covers ${topic.name}; the newest is first.`}
+/>

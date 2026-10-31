@@ -1,6 +1,6 @@
 import assert from "node:assert/strict";
 import { it } from "node:test";
-import { buildIndex, centralId, related, similarity, tokens } from "../src/lib/similarity.ts";
+import { buildIndex, CATEGORY_BONUS, centralId, NEAR_COPY, related, similarity, tokens } from "../src/lib/similarity.ts";
 import { MIN_TOPIC_STORIES, TOPICS, inTopic, matchTier, startId, topicMembers } from "../src/lib/topics.ts";
 import { googleCalendarUrl, icsCalendar } from "../src/lib/ics.ts";
 import { calendarDatesFor, upcomingFor } from "../src/lib/keydates.ts";
@@ -39,6 +39,27 @@ it("related keeps pins first and skips near-copies", () => {
   assert.equal(two[1], "polls-close");
   // Outside evidence (a shared topic) can lift a candidate.
   assert.equal(related(ix, "ohio-ballot", [], 1, (c) => (c === "polls-close" ? 1 : 0))[0], "polls-close");
+});
+
+it("related matches a full scan when a month of near-copy puzzle pages sits on top", () => {
+  // Thirty days of one game outrank everything; the stop-early scan must still reach the other game.
+  const days = Array.from({ length: 30 }, (_, i) => doc(`strands-${i}`, `NYT Strands hints and answers October ${i + 1} 2026`, ["NYT Strands hints", "Strands answer today"], "puzzles", [], i + 1));
+  const set = [...days, doc("spelling-bee", "NYT Spelling Bee hints and answers today", ["NYT Spelling Bee hints"], "puzzles", [], 2), ...pool];
+  const ix2 = buildIndex(set);
+  const full = (id: string, limit: number) => {
+    const picked: string[] = [];
+    const cat = set.find((d) => d.id === id)!.category;
+    const cands = set.filter((d) => d.id !== id).map((d) => ({ c: d.id, s: similarity(ix2, id, d.id) + (similarity(ix2, id, d.id) > 0 && d.category === cat ? CATEGORY_BONUS : 0), t: d.publishedAt.getTime() }))
+      .filter((x) => x.s > 0).sort((a, b) => b.s - a.s || b.t - a.t);
+    while (picked.length < limit && cands.length) {
+      let best = 0, bestScore = -Infinity;
+      cands.forEach((x, i) => { const copy = Math.max(0, ...picked.map((p) => similarity(ix2, x.c, p))); const sc = x.s - (copy >= NEAR_COPY ? copy : 0); if (sc > bestScore + 1e-9) { best = i; bestScore = sc; } });
+      picked.push(cands.splice(best, 1)[0]!.c);
+    }
+    return picked;
+  };
+  for (const d of set) assert.deepEqual(related(ix2, d.id, [], 3), full(d.id, 3), d.id);
+  assert.ok(related(ix2, "strands-29", [], 3).includes("spelling-bee"));
 });
 
 it("related falls back to the newest stories", () => {

@@ -1,0 +1,39 @@
+---
+/** Story archive: every month with stories, newest first. Keeps old stories in reach of crawlers (lib/archive.ts). */
+import NewsBase from "../../layouts/NewsBase.astro";
+import Breadcrumb from "../../components/Breadcrumb.astro";
+import NewsRail from "../../components/NewsRail.astro";
+import { getPublishedArticles } from "../../lib/articles";
+import { ARCHIVE_PATH, archiveMonths } from "../../lib/archive";
+import { listingGraph } from "../../lib/seo";
+
+const months = archiveMonths(await getPublishedArticles(), (a) => a.data.publishedAt);
+const total = months.reduce((n, m) => n + m.items.length, 0);
+const years = [...new Set(months.map((m) => m.year))];
+const title = "News Archive: Every Story by Month";
+const description = `All ${total} Fresh Calendars News stories by the month they were published, newest first: holiday dates, schedules, deadlines and daily puzzle pages.`;
+const trail = [{ name: "News", path: "/news/" }, { name: "Archive", path: ARCHIVE_PATH }];
+const jsonLd = listingGraph({ path: ARCHIVE_PATH, name: title, description, trail, items: months.map((m) => ({ path: m.path, name: `${m.name} stories` })), kind: "CollectionPage" });
+---
+<NewsBase title={`${title} | Fresh Calendars`} description={description} path={ARCHIVE_PATH} jsonLd={jsonLd} ads={false}>
+  <div class="news-workspace"><NewsRail path={ARCHIVE_PATH} /><div class="news-wrap archive">
+    <Breadcrumb items={[{ name: "Home", href: "/" }, { name: "News", href: "/news/" }, { name: "Archive" }]} />
+    <h1>{title}</h1>
+    <p class="news-lede">Every story we have published, {total} in all, grouped by month in Eastern Time (ET). Pick a month to see its stories by date.</p>
+    {years.map((y) => (
+      <section aria-labelledby={`y${y}`}>
+        <h2 id={`y${y}`}>{y}</h2>
+        <ul class="months">
+          {months.filter((m) => m.year === y).map((m) => <li><a href={m.path}>{m.name.replace(` ${y}`, "")}<span>{m.items.length} stories</span></a></li>)}
+        </ul>
+      </section>
+    ))}
+  </div></div>
+</NewsBase>
+<style>
+  .archive h2{font-size:1.2rem;margin:1.5rem 0 .6rem}
+  .months{list-style:none;margin:0;padding:0;display:grid;grid-template-columns:repeat(auto-fill,minmax(150px,1fr));gap:10px}
+  .months a{display:grid;gap:2px;min-height:44px;padding:12px 14px;border:1px solid var(--line);border-radius:8px;font-weight:700;color:var(--ink-strong);text-decoration:none}
+  .months a:hover,.months a:focus-visible{border-color:var(--focus);color:var(--focus)}
+  .months span{font-weight:400;font-size:.85rem;color:var(--muted)}
+</style>

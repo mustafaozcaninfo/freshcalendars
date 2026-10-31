@@ -4,7 +4,7 @@ interface Props { path: string }
 const { path } = Astro.props;
 const categories = await getActiveCategories(await getPublishedArticles());
 const selected = (href: string) => href === "/news/" ? path === href : path.startsWith(href);
-const basics = [["Latest stories", "/news/"], ["Free printables", "/news/printables/"], ["Calendar library", "/calendars/"]];
+const basics = [["Latest stories", "/news/"], ["Free printables", "/news/printables/"], ["Story archive", "/news/archive/"], ["Calendar library", "/calendars/"]];
 const policies = [["About the newsroom", "/news/about/"], ["Our editors", "/news/masthead/"], ["Editorial policy", "/news/editorial-policy/"], ["Corrections", "/news/corrections-policy/"]];
 ---
 <aside class="news-rail" aria-label="News directory">
