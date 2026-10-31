@@ -225,7 +225,7 @@ async function main(): Promise<void> {
   pnpm fc gen --year 2026 [--family monthly|yearly|blank|weekly|school]
   pnpm fc build [--skip-assets]
   pnpm fc gen-meta          # meta + HTML only (skips PNG/PDF render)
-  pnpm fc gen-meta --html-only  # pages, sitemaps, CSS only, no studio/OG/previews (CI contrast gate)
+  pnpm fc gen-meta --html-only  # pages, sitemaps, CSS only, no studio/OG/previews (local contrast check)
   pnpm fc refresh-meta      # daily: Eastern bake date, HTML only, no PNG/OG
   pnpm fc news-pickem                      # NFL pick'em sheets (classic, confidence, office pool; Letter and A4)
   pnpm fc news-assets <slug>               # /news/ story hero (illustrated scene) and printable from frontmatter assets:
