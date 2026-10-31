@@ -177,7 +177,7 @@ export function printableHtml(fonts: string, storySlug: string, color: string, p
   .hd .sub{margin:4px 0 0;font-size:calc(11.5px*var(--s));color:#37474f}
   .bx{display:inline-block;flex:none;width:14px;height:14px;border:1.6px solid ${c};border-radius:3px;vertical-align:middle}
   table.ls{width:100%;border-collapse:collapse;font-size:calc(12px*var(--s))}
-  .ls th{font-family:Sora;font-size:calc(9.5px*var(--s));text-transform:uppercase;letter-spacing:.08em;color:${c};text-align:left;padding:5px 8px;border-bottom:2px solid ${c}}
+  .ls th{font-family:Sora;font-size:max(8px,calc(9.5px*var(--s)));text-transform:uppercase;letter-spacing:.08em;color:${c};text-align:left;padding:5px 8px;border-bottom:2px solid ${c}}
   .ls td{padding:calc(8px*var(--s)) 8px;border-bottom:1px solid #e2e8f0;vertical-align:top;line-height:1.35;color:#1f2937}
   .ls td.d{font-family:Sora;font-weight:800;color:#0f172a;width:34%}.ls td.c,.ls th:last-child{width:46px;text-align:center}
   .cals{display:grid;gap:16px}.cals.n2{grid-template-columns:1fr 1fr}
