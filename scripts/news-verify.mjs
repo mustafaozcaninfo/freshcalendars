@@ -27,7 +27,8 @@ const html = [];
     const p = path.join(dir, f);
     if (statSync(p).isDirectory()) { if (f !== "_astro") walk(p); }
     else if (f === "index.html") html.push(p);
-    else if (dir === dist && /\.(mjs|js|json)$/.test(f)) bad(`build leftover in output: ${f}`);
+    // home.json is public on purpose: the calendar home page refreshes its news blocks from it.
+    else if (dir === dist && /\.(mjs|js|json)$/.test(f) && f !== "home.json") bad(`build leftover in output: ${f}`);
   }
 })(dist);
 for (const f of html) {
