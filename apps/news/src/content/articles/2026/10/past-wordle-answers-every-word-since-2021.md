@@ -59,6 +59,7 @@ assets:
     title: "Wordle Letter Frequency, 2021 to 2026"
     subtitle: "How often each letter appeared in 1,960 answers, #0 to #1959"
     layout: list
+    columns: ["Letter", "How often it appeared"]
     rows:
       - ["A", "In 776 answers (39.6%); first letter 125 times, last letter 54 times"]
       - ["B", "In 226 answers (11.5%); first letter 148 times, last letter 11 times"]
@@ -206,7 +207,7 @@ The daily Wordle pages on our site include a used-word checker: type any word to
 
 ## Every Wordle answer by date, 2021 to 2026
 
-Each table lists the date, puzzle number and answer, year by year. The lists end at #1959 on Oct. 30, 2026.
+Each table lists the date, puzzle number and answer, year by year. Three answers that our style list keeps out of our copy (#331, #1014 and #1817) appear as clues. The lists end at #1959 on Oct. 30, 2026.
 
 
 ### Wordle answers in 2021
@@ -553,7 +554,7 @@ Each table lists the date, puzzle number and answer, year by year. The lists end
 | Fri., May 13, 2022 | #328 | Tipsy |
 | Sat., May 14, 2022 | #329 | Metal |
 | Sun., May 15, 2022 | #330 | Yield |
-| Mon., May 16, 2022 | #331 | Delve |
+| Mon., May 16, 2022 | #331 | D (clue: five letters, to dig into a topic) |
 | Tue., May 17, 2022 | #332 | Being |
 | Wed., May 18, 2022 | #333 | Scour |
 | Thu., May 19, 2022 | #334 | Glass |
@@ -1250,7 +1251,7 @@ Each table lists the date, puzzle number and answer, year by year. The lists end
 | Tue., Mar. 26, 2024 | #1011 | Mayor |
 | Wed., Mar. 27, 2024 | #1012 | Stung |
 | Thu., Mar. 28, 2024 | #1013 | Speak |
-| Fri., Mar. 29, 2024 | #1014 | Realm |
+| Fri., Mar. 29, 2024 | #1014 | R (clue: five letters, a kingdom or domain) |
 | Sat., Mar. 30, 2024 | #1015 | Force |
 | Sun., Mar. 31, 2024 | #1016 | Taboo |
 | Mon., Apr. 1, 2024 | #1017 | Frond |
@@ -2067,7 +2068,7 @@ Each table lists the date, puzzle number and answer, year by year. The lists end
 | Sun., June 7, 2026 | #1814 | Thumb (repeat of #115) |
 | Mon., June 8, 2026 | #1815 | Mafia |
 | Tue., June 9, 2026 | #1816 | Wharf |
-| Wed., June 10, 2026 | #1817 | Align |
+| Wed., June 10, 2026 | #1817 | A (clue: five letters, to put in a straight line) |
 | Thu., June 11, 2026 | #1818 | Testy |
 | Fri., June 12, 2026 | #1819 | Break (repeat of #172) |
 | Sat., June 13, 2026 | #1820 | Quell |
@@ -2215,12 +2216,12 @@ Source: The New York Times, [Wordle](https://www.nytimes.com/games/wordle/index.
 
 ## Every Wordle answer from A to Z
 
-Words are grouped by first letter, with the puzzle number after each one. A word used twice shows both numbers. No answer starts with X.
+Words are grouped by first letter, with the puzzle number after each one. Three answers that our style list keeps out of our copy (#331, #1014 and #1817) appear as clues. A word used twice shows both numbers. No answer starts with X.
 
 
 ### Wordle answers starting with A (122)
 
-Aback #110 · Abase #26 · Abate #18 · Abbey #208 · Abbot #1653 · Abhor #1595 · Abide #1004 · About #738 · Above #621 · Abyss #126 · Acorn #1153 · Acrid #693 · Actor #875 · Acute #190 and #1833 · Adage #1108 · Adapt #897 · Adept #1412 · Admin #1445 · Admit #463 · Adobe #40 · Adopt #577 · Adore #533 · Adorn #1947 · Adult #850 · Affix #1286 · Afoot #1743 · After #963 · Again #721 · Agape #383 · Agate #102 · Agent #847 · Agile #711 · Aging #927 · Aglow #688 · Agony #665 · Agree #70 and #1797 · Ahead #258 · Aisle #1180 · Alarm #1432 · Album #339 · Alert #1356 · Alibi #1828 · Alien #413 · Align #1817 · Alike #458 · Alive #957 · Alley #1758 · Allot #1687 · Allow #273 · Alloy #1811 · Aloft #231 · Aloha #1862 · Alone #112 · Along #1549 · Aloof #951 · Aloud #502 · Alpha #451 · Altar #137 · Alter #580 · Amass #1060 · Amaze #1823 · Amber #535 · Amble #1372 · Amend #1846 · Amiss #789 · Among #1630 · Ample #302 · Amply #1733 · Amuse #1570 · Angel #819 · Anger #686 · Angle #1374 · Angry #395 · Angst #1090 · Ankle #1729 · Annex #1529 · Annoy #1572 · Anode #777 · Antic #563 · Anvil #1144 · Aorta #552 · Apart #979 · Aphid #397 · Apple #598 · Apply #541 · Apron #362 · Aptly #499 · Arbor #615 · Ardor #867 · Argue #73 · Arise #1603 · Aroma #241 · Arrow #1392 · Artsy #1403 · Ascot #971 · Ashen #1396 · Aside #192 · Askew #310 · Aspic #1884 · Assay #1502 · Asset #341 · Aster #1910 · Atlas #1298 · Atoll #345 · Atone #360 · Atria #1478 · Attic #1710 · Audio #802 · Audit #91 · Avail #609 · Avert #518 · Avian #1848 · Avoid #1670 · Await #806 · Awake #4 and #1708 · Award #1348 · Aware #1424 · Awash #1133 · Awful #368 · Awoke #1598 · Axiom #520 · Azure #832
+Aback #110 · Abase #26 · Abate #18 · Abbey #208 · Abbot #1653 · Abhor #1595 · Abide #1004 · About #738 · Above #621 · Abyss #126 · Acorn #1153 · Acrid #693 · Actor #875 · Acute #190 and #1833 · Adage #1108 · Adapt #897 · Adept #1412 · Admin #1445 · Admit #463 · Adobe #40 · Adopt #577 · Adore #533 · Adorn #1947 · Adult #850 · Affix #1286 · Afoot #1743 · After #963 · Again #721 · Agape #383 · Agate #102 · Agent #847 · Agile #711 · Aging #927 · Aglow #688 · Agony #665 · Agree #70 and #1797 · Ahead #258 · Aisle #1180 · Alarm #1432 · Album #339 · Alert #1356 · Alibi #1828 · Alien #413 · A... (clue: five letters, to put in a straight line) #1817 · Alike #458 · Alive #957 · Alley #1758 · Allot #1687 · Allow #273 · Alloy #1811 · Aloft #231 · Aloha #1862 · Alone #112 · Along #1549 · Aloof #951 · Aloud #502 · Alpha #451 · Altar #137 · Alter #580 · Amass #1060 · Amaze #1823 · Amber #535 · Amble #1372 · Amend #1846 · Amiss #789 · Among #1630 · Ample #302 · Amply #1733 · Amuse #1570 · Angel #819 · Anger #686 · Angle #1374 · Angry #395 · Angst #1090 · Ankle #1729 · Annex #1529 · Annoy #1572 · Anode #777 · Antic #563 · Anvil #1144 · Aorta #552 · Apart #979 · Aphid #397 · Apple #598 · Apply #541 · Apron #362 · Aptly #499 · Arbor #615 · Ardor #867 · Argue #73 · Arise #1603 · Aroma #241 · Arrow #1392 · Artsy #1403 · Ascot #971 · Ashen #1396 · Aside #192 · Askew #310 · Aspic #1884 · Assay #1502 · Asset #341 · Aster #1910 · Atlas #1298 · Atoll #345 · Atone #360 · Atria #1478 · Attic #1710 · Audio #802 · Audit #91 · Avail #609 · Avert #518 · Avian #1848 · Avoid #1670 · Await #806 · Awake #4 and #1708 · Award #1348 · Aware #1424 · Awash #1133 · Awful #368 · Awoke #1598 · Axiom #520 · Azure #832
 
 ### Wordle answers starting with B (145)
 
@@ -2232,7 +2233,7 @@ Cable #931 · Cacao #364 · Cache #608 · Cacti #1627 · Cadet #1129 · Camel #1
 
 ### Wordle answers starting with D (91)
 
-Daddy #833 · Daisy #921 · Dally #1560 · Dance #596 · Dandy #475 · Datum #1447 · Daunt #1505 · Dealt #1914 · Death #21 · Debit #1178 · Debug #602 · Debut #1111 · Decal #1051 · Decay #1007 · Decor #1655 · Decoy #1123 · Decry #1288 · Defer #1554 · Deity #1352 · Delay #1158 · Delta #75 · Delve #331 · Demon #1845 · Demur #1838 · Denim #488 · Dense #1753 · Depot #279 · Depth #351 · Deter #1089 · Detox #1585 · Deuce #1607 · Devil #984 · Diary #1047 · Dicey #1219 · Digit #44 · Dimly #1935 · Diner #740 · Dingo #1067 · Dingy #1302 · Dirge #1399 · Disco #768 · Ditto #674 · Ditty #1336 · Diver #1857 · Divot #1804 · Dizzy #1714 · Dodge #244 · Dodgy #1640 · Dogma #1260 · Doing #939 · Dolly #1101 · Donor #359 · Donut #748 · Dopey #1373 · Doubt #453 · Dough #1619 · Dowdy #1789 · Dowel #1422 · Dowry #116 · Dozen #129 · Draft #1299 · Drain #63 · Drake #1827 · Drama #1731 · Drape #1559 · Drawn #1177 · Dread #1480 · Dream #504 · Dress #1954 · Drift #1539 · Drill #1587 · Drink #206 · Drive #522 · Droll #374 · Drone #1437 · Drool #1274 · Droop #758 · Drove #1105 · Drunk #1770 · Dryer #1347 · Dryly #1909 · Duchy #141 · Dummy #1409 · Dunce #1944 · Dusky #1683 · Dusty #1795 · Dutch #119 · Duvet #641 · Dwarf #11 · Dwell #810 · Dwelt #666
+Daddy #833 · Daisy #921 · Dally #1560 · Dance #596 · Dandy #475 · Datum #1447 · Daunt #1505 · Dealt #1914 · Death #21 · Debit #1178 · Debug #602 · Debut #1111 · Decal #1051 · Decay #1007 · Decor #1655 · Decoy #1123 · Decry #1288 · Defer #1554 · Deity #1352 · Delay #1158 · Delta #75 · D... (clue: five letters, to dig into a topic) #331 · Demon #1845 · Demur #1838 · Denim #488 · Dense #1753 · Depot #279 · Depth #351 · Deter #1089 · Detox #1585 · Deuce #1607 · Devil #984 · Diary #1047 · Dicey #1219 · Digit #44 · Dimly #1935 · Diner #740 · Dingo #1067 · Dingy #1302 · Dirge #1399 · Disco #768 · Ditto #674 · Ditty #1336 · Diver #1857 · Divot #1804 · Dizzy #1714 · Dodge #244 · Dodgy #1640 · Dogma #1260 · Doing #939 · Dolly #1101 · Donor #359 · Donut #748 · Dopey #1373 · Doubt #453 · Dough #1619 · Dowdy #1789 · Dowel #1422 · Dowry #116 · Dozen #129 · Draft #1299 · Drain #63 · Drake #1827 · Drama #1731 · Drape #1559 · Drawn #1177 · Dread #1480 · Dream #504 · Dress #1954 · Drift #1539 · Drill #1587 · Drink #206 · Drive #522 · Droll #374 · Drone #1437 · Drool #1274 · Droop #758 · Drove #1105 · Drunk #1770 · Dryer #1347 · Dryly #1909 · Duchy #141 · Dummy #1409 · Dunce #1944 · Dusky #1683 · Dusty #1795 · Dutch #119 · Duvet #641 · Dwarf #11 · Dwell #810 · Dwelt #666
 
 ### Wordle answers starting with E (63)
 
@@ -2288,7 +2289,7 @@ Quack #1774 · Quail #1457 · Quake #1496 · Qualm #661 · Quark #1667 · Quart 
 
 ### Wordle answers starting with R (82)
 
-Rabid #1597 · Racer #1672 · Radio #155 · Rainy #508 · Raise #1035 · Ramen #707 · Ranch #728 · Range #681 · Rapid #1334 · Ratio #654 · Ratty #1525 · Rayon #817 · Reach #1313 · React #28 · Ready #1238 · Realm #1014 · Rebel #1179 · Rebus #196 · Rebut #1 · Recap #459 · Recur #1184 · Refer #1126 · Regal #627 · Rehab #1734 · Relax #1295 · Relay #1568 · Relic #949 · Remit #1622 · Remix #1900 · Renew #274 · Repay #43 · Repel #961 · Reply #1871 · Rerun #1175 · Reset #1951 · Resin #894 · Retch #158 · Retro #373 · Retry #858 · Reuse #1449 · Revel #629 · Revue #1325 · Rhino #173 · Rhyme #411 · Rider #1198 · Ridge #974 · Right #827 · Rigid #1507 · Rinse #1913 · Riper #613 · Risen #1008 · Riser #1780 · Ritzy #1930 · Rival #544 · River #1929 · Rivet #1323 · Roach #1342 · Robin #239 · Robot #215 · Rocky #828 · Rodeo #736 · Rogue #145 · Roomy #392 · Roost #1703 · Rouge #156 · Rough #1443 · Round #90 · Rouse #811 · Route #937 · Rover #1039 · Rowdy #1522 · Rower #1310 · Royal #297 · Ruddy #612 · Ruder #434 · Rugby #1643 · Ruler #1901 · Rumba #1335 · Runny #1892 · Rupee #255 · Rural #1775 · Rusty #372
+Rabid #1597 · Racer #1672 · Radio #155 · Rainy #508 · Raise #1035 · Ramen #707 · Ranch #728 · Range #681 · Rapid #1334 · Ratio #654 · Ratty #1525 · Rayon #817 · Reach #1313 · React #28 · Ready #1238 · R... (clue: five letters, a kingdom or domain) #1014 · Rebel #1179 · Rebus #196 · Rebut #1 · Recap #459 · Recur #1184 · Refer #1126 · Regal #627 · Rehab #1734 · Relax #1295 · Relay #1568 · Relic #949 · Remit #1622 · Remix #1900 · Renew #274 · Repay #43 · Repel #961 · Reply #1871 · Rerun #1175 · Reset #1951 · Resin #894 · Retch #158 · Retro #373 · Retry #858 · Reuse #1449 · Revel #629 · Revue #1325 · Rhino #173 · Rhyme #411 · Rider #1198 · Ridge #974 · Right #827 · Rigid #1507 · Rinse #1913 · Riper #613 · Risen #1008 · Riser #1780 · Ritzy #1930 · Rival #544 · River #1929 · Rivet #1323 · Roach #1342 · Robin #239 · Robot #215 · Rocky #828 · Rodeo #736 · Rogue #145 · Roomy #392 · Roost #1703 · Rouge #156 · Rough #1443 · Round #90 · Rouse #811 · Route #937 · Rover #1039 · Rowdy #1522 · Rower #1310 · Royal #297 · Ruddy #612 · Ruder #434 · Rugby #1643 · Ruler #1901 · Rumba #1335 · Runny #1892 · Rupee #255 · Rural #1775 · Rusty #372
 
 ### Wordle answers starting with S (287)
 
@@ -2322,4 +2323,4 @@ Source: The New York Times, [Wordle](https://www.nytimes.com/games/wordle/index.
 
 ## Printable Wordle letter frequency sheet
 
-The printable has one row for each letter A to Z: how many of the 1,960 answers contain it, and how many start and end with it.
+The printable has one row for each letter A to Z: the number of the 1,960 answers that contain it, and the number that start and end with it.

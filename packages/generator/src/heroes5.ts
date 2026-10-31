@@ -285,7 +285,7 @@ export const PUZZLE_HEROES: [string, string, string, string, string, string, str
   ["nyt-letter-boxed-answer-hints-november-2-2026", "letterboxed", "#3d1f1a", "#fdba74", "Letter Boxed · Mon., Nov. 2, 2026", "Letter Boxed hints", "Starting letters and word lengths first, the answer at the end."],
   ["nyt-letter-boxed-answer-hints-november-3-2026", "letterboxed", "#3d1f1a", "#fa8072", "Letter Boxed · Tue., Nov. 3, 2026", "Letter Boxed hints", "Starting letters and word lengths first, the answer at the end."],
   ["wordle-answers-2026-full-list-repeat-answers", "wordle", "#1a1a2e", "#6aaa64", "Wordle · 2026 so far", "Old answers are back", "Every 2026 answer, #1657 to #1955, and the 28 past words that returned."],
-  ["past-wordle-answers-every-word-since-2021", "wordle", "#13261b", "#c9b458", "Wordle · 2021 to 2026", "Every past answer", "1,960 puzzles, #0 to #1959, by date and from A to Z."],
+  ["past-wordle-answers-every-word-since-2021", "wordle", "#13261b", "#c9b458", "Wordle · 2021 to 2026", "Every past answer", "1,960 puzzles, #0 to #1959, by date and A to Z."],
 ];
 
 export async function buildHeroes5(only?: string): Promise<void> {
