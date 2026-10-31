@@ -4,6 +4,7 @@ seoTitle: "MLS Cup Playoffs 2026 Schedule and Dates"
 description: "Major League Soccer (MLS) says MLS Cup 2026 is Fri., Dec. 18 and Decision Day is Sat., Nov. 7. See every playoff round by date, the format and where to watch."
 type: explainer
 publishedAt: "2026-10-25T20:18:00-04:00"
+updatedAt: "2026-10-31T11:43:00-04:00"
 authors: [jordan-bennett]
 category: sports
 keywords: ["MLS Cup playoffs 2026 schedule", "MLS Cup 2026 date", "MLS playoffs 2026 format", "MLS Decision Day 2026"]
@@ -55,7 +56,7 @@ faq:
   - q: "How many teams make the MLS playoffs in 2026?"
     a: "MLS says 18 teams qualify: the top nine in the East and the top nine in the West."
   - q: "Where can I watch the MLS playoffs in 2026?"
-    a: "MLS says every playoff match is broadcast live on Apple TV. Select games, including MLS Cup, also air on FOX Sports in the U.S. and on TSN and RDS in Canada."
+    a: "MLS says every playoff match is broadcast live on Apple TV with English and Spanish commentary. Select games, including MLS Cup, also air on FOX Sports in the U.S. and on TSN and RDS in Canada."
   - q: "Can the playoff dates change?"
     a: "Yes. MLS states that the dates are subject to change, so check mlssoccer.com before you plan around one."
 sources:
@@ -68,6 +69,9 @@ sources:
     date: "2026-03-16"
   - title: "Audi 2026 MLS Cup Playoffs format: How it works"
     url: "https://www.mlssoccer.com/news/audi-2026-mls-cup-playoffs-format-how-it-works"
+    publisher: "Major League Soccer"
+  - title: "Inter Miami CF win 2025 MLS Cup presented by Audi"
+    url: "https://www.mlssoccer.com/news/inter-miami-cf-win-2025-mls-cup-presented-by-audi"
     publisher: "Major League Soccer"
 internalLinks:
   - href: "/november-calendars.html"
@@ -95,7 +99,7 @@ downloads:
 draft: false
 ---
 
-**Major League Soccer (MLS) lists MLS Cup presented by Audi for Friday, Dec. 18, 2026, with Decision Day on Saturday, Nov. 7, according to the league's official playoff key dates.** MLS announced the schedule on Mar. 16, 2026, and says the dates are subject to change.
+**Major League Soccer's (MLS) regular season ends on Decision Day, Saturday, Nov. 7, 2026 (Eastern Conference at 4 p.m. Eastern Time (ET), Western Conference at 7 p.m. ET), the playoffs start with Wild Card matches on Wednesday, Nov. 18, and MLS Cup presented by Audi is on Friday, Dec. 18, according to the league's official playoff key dates.** MLS announced the schedule on Mar. 16, 2026, and says the dates are subject to change.
 
 This page lays out each round by date with its weekday, explains how the field is set, and says where the games air. A one-page printable of the timeline is below.
 
@@ -114,11 +118,11 @@ MLS publishes one date or range for each stage. Round One is a best-of-3 series 
 | Conference Finals | Fri., Dec. 11 to Sat., Dec. 12 |
 | MLS Cup presented by Audi | Fri., Dec. 18 |
 
-Source: Major League Soccer, 2026. MLS lists dates, not kickoff times, in these pages, so this story does not give times. Mark them on the [November 2026 printable calendar](/november-calendars.html) and the [December 2026 printable calendar](/december-calendars.html).
+Source: Major League Soccer, 2026. MLS has not yet announced playoff kickoff times in these pages, so this story gives none. Mark them on the [November 2026 printable calendar](/november-calendars.html) and the [December 2026 printable calendar](/december-calendars.html).
 
 ## When is MLS Decision Day 2026?
 
-Decision Day is Sat., Nov. 7, 2026, per MLS. After it, MLS says it will observe the November Fédération Internationale de Football Association (FIFA) international window, and the Wild Card does not start until Wed., Nov. 18.
+Decision Day is Sat., Nov. 7, 2026, per MLS, and all 30 clubs play: the East at 4 p.m. ET and the West at 7 p.m. ET. After it, MLS says it will observe the November Fédération Internationale de Football Association (FIFA) international window, and the Wild Card does not start until Wed., Nov. 18.
 
 ## How does the MLS playoffs 2026 format work?
 
@@ -126,9 +130,29 @@ MLS says 18 teams qualify, the top nine in the East and the top nine in the West
 
 Round One is a best-of-3 series. Game Three is played only if it is needed, which is why MLS gives it a separate date range of Tue., Dec. 1 to Wed., Dec. 2. The conference semifinals and conference finals follow, and MLS Cup closes the season.
 
+## Who hosts each MLS playoff round?
+
+MLS names the host rule for every round. The Wild Card and Round One dates are the league's; MLS says the Round One dates were added on Oct. 7 and are subject to change.
+
+| Round | Dates | Who hosts |
+|---|---|---|
+| Wild Card (No. 8 vs. No. 9 seed, single game) | Wed., Nov. 18 | The higher seed; winners face their conference's No. 1 seed |
+| Round One, Game One (best-of-3) | Fri., Nov. 20 to Tue., Nov. 24 | The higher seed |
+| Round One, Game Two | Fri., Nov. 27 to Sat., Nov. 28 | The lower seed |
+| Round One, Game Three (if necessary) | Tue., Dec. 1 to Wed., Dec. 2 | The higher seed |
+| Conference Semifinals (single game) | Sat., Dec. 5 to Sun., Dec. 6 | The highest remaining seeds |
+| Conference Finals | Fri., Dec. 11 to Sat., Dec. 12 | The team with the better regular-season record |
+| MLS Cup presented by Audi (primetime) | Fri., Dec. 18 | The finalist with the better regular-season record |
+
+Source: Major League Soccer, 2026. MLS says all 16 Round One teams play at least one home game. Seeds, matchups and the exact date of each Round One game are not yet announced, because the regular season is not finished.
+
 ## Where can I watch the MLS playoffs?
 
 MLS says every playoff match is broadcast live on Apple TV. Select games, including MLS Cup, also air on FOX Sports in the U.S. and on The Sports Network (TSN) and Réseau des sports (RDS) in Canada. MLS does not list in the pages used here which games besides MLS Cup are on those networks.
+
+## Who won MLS Cup last year?
+
+In 2025, Inter Miami CF beat Vancouver Whitecaps FC 3-1 in MLS Cup on Saturday, Dec. 6, 2025, at Chase Stadium in Fort Lauderdale, Fla., per MLS. MLS says the 2026 final is the last MLS Cup in December before the league's shift to a summer-spring calendar.
 
 ## Is there a printable MLS playoffs schedule?
 

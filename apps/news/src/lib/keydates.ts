@@ -12,6 +12,11 @@ export interface KeyDate {
 }
 
 export const KEY_DATES: KeyDate[] = [
+  { date: "2026-11-03", label: "Sephora Savings Event opens to VIB and Insider members", slug: "sephora-savings-event-november-2026-dates-ulta-black-friday-beauty-sales" },
+  { date: "2026-11-21", label: "Ulta Black Friday sale starts online, 9 p.m. ET", slug: "sephora-savings-event-november-2026-dates-ulta-black-friday-beauty-sales" },
+  { date: "2026-11-06", label: "Godzilla Minus Zero opens in North American theaters", slug: "new-movies-in-theaters-november-2026-release-dates-hunger-games-hexed" },
+  { date: "2026-11-25", label: "Disney's Hexed opens in theaters", slug: "new-movies-in-theaters-november-2026-release-dates-hunger-games-hexed" },
+  { date: "2026-11-07", label: "MLS Decision Day: East 4 p.m. ET, West 7 p.m. ET", slug: "mls-cup-playoffs-2026-schedule-dates-mls-cup-december-18" },
   { date: "2026-12-09", label: "Social Security pays birthdays 1st-10th", slug: "social-security-payment-schedule-december-2026-ssi-december-31" },
   { date: "2026-12-31", label: "January SSI payment arrives early, with the 3.6% COLA", slug: "social-security-payment-schedule-december-2026-ssi-december-31" },
   { date: "2026-12-01", label: "SNAP December deposits begin in states that issue on the 1st", slug: "snap-payment-schedule-december-2026-deposit-dates-by-state" },
