@@ -10,7 +10,7 @@ Routine D (`docs/PUZZLE-ROUTINES.md`) takes one item from this list per run, hig
 
 ## Queue
 
-- [ ] **contexto-check** [code] Contexto joins the official answer check.
+- [x] **contexto-check** [code] (done 2026-10-31) Contexto joins the official answer check.
   Save Contexto's own data (`api.contexto.me/machado/en/giveup/<n>` for the answer, as `docs/PUZZLES.md` says) with `news-puzzle-data.mjs` (`--games contexto`, number from the date as on the existing pages), add a `GAMES` entry and a `CHECK.contexto` in `scripts/news-puzzle-check.mjs` (answer, number, date), save data for every existing Contexto page, and test by breaking a page on purpose. Update `docs/PUZZLES.md` and the skill. Done when `news:puzzle-check` covers every Contexto page and all match.
 
 - [ ] **past-wordle-answers** [content] Evergreen story: every past Wordle answer since 2021, by date and A to Z.

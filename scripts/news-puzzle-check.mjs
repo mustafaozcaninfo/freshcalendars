@@ -8,7 +8,8 @@
  * the spoiler section and spoiler FAQ (Wordle answer, Connections groups, Strands spangram and
  * theme words, every Pips placement, Spelling Bee letters, counts, points and word lists, today's
  * and yesterday's; Letter Boxed sides, par, the Times' solution and its route, warm-up words in the
- * puzzle's dictionary); named editors and constructors; published before the puzzle day ends.
+ * puzzle's dictionary; Contexto's secret word, game numbers, letter count and yesterday's word); named
+ * editors and constructors; published before the puzzle day ends.
  * Usage: node scripts/news-puzzle-check.mjs [slug-substring]
  */
 import { readdirSync, readFileSync } from "node:fs";
@@ -188,6 +189,36 @@ const CHECK = {
       if (w.length !== Number(m[2])) err(`warm-up word ${m[1]} listed as ${m[2]} letters`);
     }
     for (const m of all.matchAll(/edited by ([A-Z][a-z]+ [A-Z][a-z]+)|([A-Z][a-z]+ [A-Z][a-z]+) edits it/g)) if ((m[1] ?? m[2]) !== d.editor) err(`editor ${m[1] ?? m[2]}, data ${d.editor}`);
+  },
+
+  contexto(page, d, p, err) {
+    // The API serves the word for a game number; the saved file keeps the number and date we asked for.
+    if (d.date !== p.date || d.number !== puzzleNumber("contexto", p.date)) err(`saved data is for #${d.number} on ${d.date}; resave with --force`);
+    const word = letters(d.word);
+    const ans = page.body.match(/secret word for Contexto #(\d+) is ([A-Za-z' -]+?)\.\*\*/);
+    if (!ans) err("no '**The secret word for Contexto #N is X.**' line");
+    else {
+      if (Number(ans[1]) !== d.number) err(`answer line says #${ans[1]}, the date gives #${d.number}`);
+      if (letters(ans[2]) !== word) err(`answer ${ans[2]}, data ${d.word}`);
+    }
+    const all = `${page.fm}\n${page.body}`;
+    for (const m of all.matchAll(/Today's Contexto is game #(\d+)|^ {4}a: "Game #(\d+), for /gm)) if (Number(m[1] ?? m[2]) !== d.number) err(`says today is game #${m[1] ?? m[2]}, the date gives #${d.number}`);
+    const f = page.faq.find((x) => /^Spoiler: /.test(x.a) && /Contexto answer for/.test(x.q));
+    if (f && letters(f.a.replace(/^Spoiler: |\.$/g, "")) !== word) err(`FAQ answer "${f.a}", data ${d.word}`);
+    // Letter counts in the lede, summary and hints ("a short noun, 4 letters", "a noun with 4 letters").
+    for (const m of all.matchAll(/\bnoun(?: with|[^.,]*,) (\d+) letters/g)) if (Number(m[1]) !== word.length) err(`says ${m[1]} letters, ${d.word} has ${word.length}`);
+    // Yesterday's word, in the FAQ ("Spoiler: Barn, for game #1502 on ...") and the answer section
+    // ("Yesterday's word, for game #1502, was Barn."), against the day before's saved data.
+    const y = loadPuzzle("contexto", addDays(p.date, -1));
+    const said = [...all.matchAll(/Spoiler: ([A-Za-z' -]+), for game #(\d+) on|Yesterday's word, for game #(\d+), was ([A-Za-z' -]+)\./g)]
+      .map((m) => ({ w: m[1] ?? m[4], n: Number(m[2] ?? m[3]) }));
+    if (said.length && !y) err(`no saved data for yesterday's word; run: node scripts/news-puzzle-data.mjs ${addDays(p.date, -1)} --games contexto`);
+    if (y) for (const s of said) {
+      if (s.n !== y.number) err(`yesterday's game is #${s.n}, data #${y.number}`);
+      if (letters(s.w) !== letters(y.word)) err(`yesterday's word ${s.w}, data ${y.word}`);
+    }
+    const next = all.match(/Game #(\d+) starts at/)?.[1];
+    if (next && Number(next) !== d.number + 1) err(`next game #${next}, should be #${d.number + 1}`);
   },
 
   bee(page, d, p, err) {
