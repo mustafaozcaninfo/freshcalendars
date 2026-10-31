@@ -96,7 +96,7 @@ internalLinks:
     label: "Printable weekly calendar"
   - href: "/november-calendars.html"
     label: "November 2026 printable calendar"
-related: [daylight-saving-time-ends-november-1-2026, us-india-time-difference-after-november-1-2026-ist-10-5-hours, us-australia-time-difference-after-daylight-saving-time-ends-november-1-2026]
+related: [daylight-saving-time-ends-november-1-2026, us-india-time-difference-after-november-1-2026-ist-10-5-hours, us-japan-korea-china-time-difference-after-november-1-2026-tokyo-14-hours]
 draft: false
 ---
 

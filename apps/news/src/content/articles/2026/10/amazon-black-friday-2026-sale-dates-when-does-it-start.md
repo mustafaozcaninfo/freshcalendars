@@ -1,9 +1,10 @@
 ---
 title: "Amazon Black Friday 2026: Sale Dates Not Announced Yet, Past Start Dates and Holiday Return Policy"
 seoTitle: "Amazon Black Friday 2026: Dates Not Announced Yet"
-description: "Amazon has not announced its 2026 Black Friday sale dates as of Oct. 26, 2026. Black Friday is Nov. 27; in 2023 to 2025 the sale began 7 to 8 days earlier."
+description: "Amazon says Black Friday 2026 is Nov. 27 and early deals are live, but it has not announced the sale window. In 2023 to 2025 it began 7 to 8 days earlier."
 type: explainer
 publishedAt: "2026-10-26T02:21:00-04:00"
+updatedAt: "2026-10-30T23:45:00-04:00"
 authors: [jordan-bennett]
 category: retail-dates
 keywords: ["Amazon Black Friday 2026", "when does Amazon Black Friday start 2026", "Amazon Black Friday 2026 dates", "Amazon holiday return policy 2026"]
@@ -19,7 +20,7 @@ hero:
     author: "Mliu92"
     authorUrl: "https://commons.wikimedia.org/wiki/User:Mliu92"
 summary:
-  - "Amazon has not announced its 2026 Black Friday or Cyber Monday sale window on aboutamazon.com as of Oct. 26, 2026. Black Friday is Fri., Nov. 27, 2026 and Cyber Monday is Mon., Nov. 30, 2026."
+  - "Amazon's Oct. 29, 2026 guide confirms Black Friday is Fri., Nov. 27, 2026 and Cyber Monday is Mon., Nov. 30, 2026, and says early deals are in its Holiday Shop now. It does not give the 2026 sale window."
   - "Amazon's own pages show the Black Friday sale starting Fri., Nov. 17, 2023, Thu., Nov. 21, 2024 and Thu., Nov. 20, 2025, which is 7, 8 and 8 days before Black Friday."
   - "Applying the same gap to 2026 points to Thu., Nov. 19 (8 days) or Fri., Nov. 20 (7 days). That is our estimate from past years and not an Amazon date."
   - "ppc.land reported an Amazon Seller News post dated Oct. 16, 2026 that sets the holiday return deadline at Jan. 31, 2027. A free one-page Amazon holiday timeline is below."
@@ -37,6 +38,10 @@ faq:
   - q: "What was Amazon's holiday return policy in 2025?"
     a: "Amazon's 2025 policy said most items purchased between November 1 and December 31 could be returned until January 31, 2026, and Apple-branded products through January 15, 2026."
 sources:
+  - title: "When is Black Friday 2026? Here's everything you need to know"
+    url: "https://www.aboutamazon.com/news/retail/when-is-amazon-black-friday-faq"
+    publisher: "Amazon"
+    date: "2026-10-29"
   - title: "Amazon Prime Big Deal Days FAQ"
     url: "https://www.aboutamazon.com/md/news/retail/amazon-prime-big-deal-days-faq"
     publisher: "Amazon"
@@ -116,9 +121,9 @@ assets:
     alt: "Printable Amazon holiday dates 2026 timeline with Black Friday, Cyber Monday and holiday return deadlines"
 ---
 
-<p class="callout"><b>Checked Oct. 26, 2026.</b> We will update this page when Amazon announces its dates.</p>
+<p class="callout"><b>Checked Oct. 30, 2026.</b> Amazon's new Black Friday 2026 guide gives the holiday dates and points to early deals, but not the sale window. We will update this page when Amazon announces it.</p>
 
-**Amazon has not announced its 2026 Black Friday or Cyber Monday sale window on aboutamazon.com as of Oct. 26, 2026.** Black Friday is Friday, Nov. 27, 2026 and Cyber Monday is Monday, Nov. 30, 2026 (see [when Black Friday falls](/when-is/black-friday/) and [when Cyber Monday falls](/when-is/cyber-monday/)).
+**Amazon has not announced its 2026 Black Friday or Cyber Monday sale window as of Oct. 30, 2026.** Its guide "When is Black Friday 2026?", posted Oct. 29, says "Black Friday 2026 falls on November 27" and that customers "can start browsing early deals in the Holiday Shop now." Black Friday is Friday, Nov. 27, 2026 and Cyber Monday is Monday, Nov. 30, 2026 (see [when Black Friday falls](/when-is/black-friday/) and [when Cyber Monday falls](/when-is/cyber-monday/)).
 
 Amazon's own pages do show how early the sale began in the last three years. This story lists those windows, counts the days, gives a pattern-based estimate for 2026, and covers the holiday return deadline. A [printable Amazon holiday timeline](#downloads) is below.
 
