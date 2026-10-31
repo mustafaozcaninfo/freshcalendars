@@ -11,6 +11,7 @@ import ArticleCard from "./ArticleCard.astro";
 import AdSlot from "./AdSlot.astro";
 import Breadcrumb from "./Breadcrumb.astro";
 import Pagination from "./Pagination.astro";
+import { ARCHIVE_PATH } from "../lib/archive";
 import type { ImageMetadata } from "astro";
 import type { Article, Category } from "../lib/articles";
 import { authorImageAlt } from "../lib/images";
@@ -178,7 +179,7 @@ import NewsBar from "./NewsBar.astro";
     </div>
 
     <section class="all" aria-labelledby="all-title">
-      <h2 class="sec" id="all-title">All stories</h2>
+      <div class="sec-head"><h2 class="sec" id="all-title">All stories</h2><a href={ARCHIVE_PATH}>Archive by month →</a></div>
       <ol>
         {page.items.map((a) => (
           <li><a href={articlePath(a.id)}>{a.data.title}</a> <time datetime={isoDateTime(a.data.publishedAt)}>{formatDateET(a.data.publishedAt)}</time></li>

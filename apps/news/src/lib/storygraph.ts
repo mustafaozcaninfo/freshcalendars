@@ -38,8 +38,17 @@ export function liveTopics(all: Article[]): { topic: Topic; items: Article[] }[]
   return t;
 }
 
+const hubsById = new WeakMap<Article[], Map<string, Topic[]>>();
+
+/** Topics a story belongs to. One lookup table per list: relatedFor asks for every candidate of every story. */
 export function topicsOf(all: Article[], id: string): Topic[] {
-  return liveTopics(all).filter((t) => t.items.some((a) => a.id === id)).map((t) => t.topic);
+  let m = hubsById.get(all);
+  if (!m) {
+    m = new Map();
+    for (const { topic, items } of liveTopics(all)) for (const a of items) m.set(a.id, [...(m.get(a.id) ?? []), topic]);
+    hubsById.set(all, m);
+  }
+  return m.get(id) ?? [];
 }
 
 /** Added to a related candidate that shares a topic hub with the story. */
