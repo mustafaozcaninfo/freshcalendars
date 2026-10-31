@@ -97,7 +97,11 @@ pull_half() { # <news|calendar> <tar target dir>
 push_half() { # <news|calendar> <tar args...>
   local name="$1"; shift
   [[ "${DRY_RUN:-0}" == "1" ]] && return 0
-  tar -czf - "$@" | rclone rcat "$STATE/$name/build.tar.gz"
+  # R2 refuses rclone's streamed multipart upload: write the file, then copy it.
+  local tmp; tmp="$(mktemp)"
+  tar -czf "$tmp" "$@"
+  rclone copyto "$tmp" "$STATE/$name/build.tar.gz"
+  rm -f "$tmp"
 }
 
 deploy() {
