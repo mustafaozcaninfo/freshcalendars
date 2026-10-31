@@ -8,7 +8,8 @@
  * the spoiler section and spoiler FAQ (Wordle answer, Connections groups, Strands spangram and
  * theme words, every Pips placement, Spelling Bee letters, counts, points and word lists, today's
  * and yesterday's; Letter Boxed sides, par, the Times' solution and its route, warm-up words in the
- * puzzle's dictionary); named editors and constructors; published before the puzzle day ends.
+ * puzzle's dictionary; Waffle answers, hint letters, solved and starting grids, and the swap route
+ * replayed on the starting grid); named editors and constructors; published before the puzzle day ends.
  * Usage: node scripts/news-puzzle-check.mjs [slug-substring]
  */
 import { readdirSync, readFileSync } from "node:fs";
@@ -188,6 +189,55 @@ const CHECK = {
       if (w.length !== Number(m[2])) err(`warm-up word ${m[1]} listed as ${m[2]} letters`);
     }
     for (const m of all.matchAll(/edited by ([A-Z][a-z]+ [A-Z][a-z]+)|([A-Z][a-z]+ [A-Z][a-z]+) edits it/g)) if ((m[1] ?? m[2]) !== d.editor) err(`editor ${m[1] ?? m[2]}, data ${d.editor}`);
+  },
+
+  waffle(page, d, p, err) {
+    // 21 letters row by row; rows 2 and 4 hold only columns 1, 3 and 5 (the rest are holes).
+    const grid = (s) => {
+      const g = [], it = [...s];
+      for (let r = 0; r < 5; r++) g.push([0, 1, 2, 3, 4].map((c) => (r % 2 && c % 2 ? "." : it.shift())));
+      return g;
+    };
+    const show = (g) => g.map((r) => r.join(" ")).join("\n");
+    const sol = grid(d.solution), start = grid(d.puzzle);
+    const word = { Row: (n) => sol[n - 1].join(""), Column: (n) => sol.map((r) => r[n - 1]).join("") };
+    const lines = [["Across", "Row", 1], ["Across", "Row", 3], ["Across", "Row", 5], ["Down", "Column", 1], ["Down", "Column", 3], ["Down", "Column", 5]];
+    if (!sameSet(lines.map(([, k, n]) => word[k](n)), d.words)) err(`the data's solution grid and word list disagree; recheck the data`);
+    // Answer table "| Across | Row 1 | Tuber |" and hint lines "- **Row 1:** starts with T and ends with R".
+    for (const [dir, k, n] of lines) {
+      const w = word[k](n);
+      const row = page.body.match(new RegExp(`^\\| ${dir} \\| ${k} ${n} \\| ([A-Za-z]+) \\|$`, "m"))?.[1];
+      if (!row) err(`no answer row for ${dir} ${k} ${n}`);
+      else if (letters(row) !== w) err(`${k} ${n} answer ${row}, data ${w}`);
+      const h = page.body.match(new RegExp(`^- \\*\\*${k} ${n}:\\*\\* starts with ([A-Z]) and ends with ([A-Z])`, "m"));
+      if (h && (h[1] !== w[0] || h[2] !== w[4])) err(`${k} ${n} hint says ${h[1]}…${h[2]}, data ${w}`);
+    }
+    // FAQ "Spoilers. Across: Tuber, Nerdy, Title. Down: Tenet, Burst, Rhyme."
+    const f = page.faq.find((x) => /Across: .+ Down: /.test(x.a))?.a.match(/Across: (.+?)\. Down: (.+?)\.?$/);
+    if (f) {
+      if (f[1].split(/,\s*/).map(letters).join() !== [1, 3, 5].map(word.Row).join()) err(`FAQ across "${f[1]}", data ${[1, 3, 5].map(word.Row).join(", ")}`);
+      if (f[2].split(/,\s*/).map(letters).join() !== [1, 3, 5].map(word.Column).join()) err(`FAQ down "${f[2]}", data ${[1, 3, 5].map(word.Column).join(", ")}`);
+    }
+    // Grids in code blocks: the one introduced as the starting grid must be the puzzle, any other the solution.
+    const blocks = [...page.body.matchAll(/([^\n]*)\n\n```\n((?:[A-Z.](?: [A-Z.]){4}\n){5})```/g)];
+    if (!blocks.length) err("no solved grid code block");
+    for (const [, intro, b] of blocks) {
+      const want = /starting grid/i.test(intro) ? start : sol;
+      if (b.trim() !== show(want)) err(`${want === start ? "starting" : "solved"} grid differs from the data:\n${b.trimEnd()}`);
+    }
+    // Swap route "| 3 | Row 2, column 1 and row 4, column 5 | L and E |": replay it on the starting grid.
+    const swaps = [...page.body.matchAll(/^\| (\d+) \| Row (\d), column (\d) and row (\d), column (\d) \| ([A-Z]) and ([A-Z]) \|$/gm)];
+    if (swaps.length) {
+      const g = start.map((r) => [...r]);
+      for (const m of swaps) {
+        const [a, b] = [[m[2] - 1, m[3] - 1], [m[4] - 1, m[5] - 1]];
+        if (g[a[0]]?.[a[1]] === "." || g[b[0]]?.[b[1]] === ".") { err(`swap ${m[1]} names a hole`); continue; }
+        if (g[a[0]][a[1]] !== m[6] || g[b[0]][b[1]] !== m[7]) err(`swap ${m[1]} says ${m[6]} and ${m[7]}, the squares hold ${g[a[0]][a[1]]} and ${g[b[0]][b[1]]} by then`);
+        [g[a[0]][a[1]], g[b[0]][b[1]]] = [g[b[0]][b[1]], g[a[0]][a[1]]];
+      }
+      if (show(g) !== show(sol)) err(`the ${swaps.length}-swap route does not end at the solution`);
+      for (const m of `${page.fm}\n${page.body}`.matchAll(/\b(\d+)-swap route/g)) if (Number(m[1]) !== swaps.length) err(`says a ${m[1]}-swap route, the table has ${swaps.length} swaps`);
+    }
   },
 
   bee(page, d, p, err) {

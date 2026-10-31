@@ -4,9 +4,10 @@
  * trimmed to the fields our pages use. The page checker (news-puzzle-check.mjs) and the solved-board
  * drawings (src/lib/puzzle-boards.mjs) read only these files, so CI never needs the network.
  *
- * Usage: node scripts/news-puzzle-data.mjs <from> [to] [--games wordle,connections,strands,pips,bee,mini,letterboxed] [--force]
+ * Usage: node scripts/news-puzzle-data.mjs <from> [to] [--games wordle,connections,strands,pips,bee,mini,letterboxed,waffle] [--force]
  *        (the Mini is served for past days and today, and for tomorrow from about 10 p.m. ET; never further ahead;
- *        Letter Boxed about two days ahead)
+ *        Letter Boxed about two days ahead; Waffle today only, as the game's own date says (it turns over
+ *        at midnight GMT, 7 or 8 p.m. ET), so save it the day the page is written)
  *        node scripts/news-puzzle-data.mjs --pages     (every puzzle page in the repo that has no data yet)
  *        node scripts/news-puzzle-data.mjs --wordle-history   (every past Wordle answer, for the used-word checker)
  *
@@ -26,6 +27,12 @@ const URL = {
   bee: (d) => `https://www.nytimes.com/svc/spelling-bee/v1/${d}.json`,
   mini: (d) => `https://www.nytimes.com/svc/crosswords/v6/puzzle/mini/${d}.json`, // past days and today; not ahead
   letterboxed: (d) => `https://www.nytimes.com/svc/letter-boxed/v1/${d}.json`, // about two days ahead
+  waffle: () => "https://wafflegame.net/daily1.txt", // today's puzzle only, whatever date is asked
+};
+
+/** Waffle's daily file is base64 of UTF-16 (little-endian) JSON (docs/PUZZLES.md). */
+const DECODE = {
+  waffle: (body) => JSON.parse(Buffer.from(body.trim(), "base64").toString("utf16le").replace(/^\uFEFF/, "")),
 };
 
 /** Only the fields the pages and checks use (Strands' full dictionary list is dropped). */
@@ -45,22 +52,24 @@ const TRIM = {
   },
   // The dictionary stays: pages print its size and suggest warm-up words that must be in it.
   letterboxed: (j) => ({ printDate: j.printDate, editor: j.editor, sides: j.sides, par: j.par, ourSolution: j.ourSolution, dictionary: j.dictionary }),
+  // Grids are 21 letters row by row (rows 1, 3, 5 have five letters, rows 2 and 4 three: the holes are left out).
+  waffle: (j) => ({ date: j.date.slice(0, 10), number: j.number, puzzle: j.puzzle, solution: j.solution, words: j.words }),
 };
 
 /** The data's own date, to make sure NYT answered for the day we asked about. */
-const DATE_OF = { wordle: (j) => j.print_date, connections: (j) => j.print_date, strands: (j) => j.printDate, pips: (j) => j.printDate, bee: () => null, mini: (j) => j.publicationDate, letterboxed: (j) => j.printDate };
+const DATE_OF = { wordle: (j) => j.print_date, connections: (j) => j.print_date, strands: (j) => j.printDate, pips: (j) => j.printDate, bee: () => null, mini: (j) => j.publicationDate, letterboxed: (j) => j.printDate, waffle: (j) => j.date?.slice(0, 10) };
 
-function get(url) {
+function get(url, decode = JSON.parse) {
   // No --fail: an unpublished date answers 404 (Spelling Bee) or a 200 "404 page not found" body.
   const body = execFileSync("curl", ["-sS", "--max-time", "30", "-A", "Mozilla/5.0 (FreshCalendars puzzle data)", url], { encoding: "utf8" });
-  try { return JSON.parse(body); } catch { return null; }
+  try { return decode(body); } catch { return null; }
 }
 
 function save(game, date, force) {
   const out = dataPath(game, date);
   if (existsSync(out) && !force) return "kept";
   let j;
-  try { j = get(URL[game](date)); } catch (e) { return `failed (${String(e.message).split("\n")[0]})`; }
+  try { j = get(URL[game](date), DECODE[game]); } catch (e) { return `failed (${String(e.message).split("\n")[0]})`; }
   if (!j || j.status === "ERROR" || (game === "bee" ? !j.center_letter : !TRIM[game] || DATE_OF[game](j) !== date)) return "not published";
   mkdirSync(path.dirname(out), { recursive: true });
   // Long word lists go on one line so a day's file stays readable and small.
