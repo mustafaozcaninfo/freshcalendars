@@ -9,7 +9,6 @@ category: calendar-guides
 keywords: ["how many weekends until christmas 2026", "saturdays until christmas 2026", "weekends left before christmas", "christmas shopping weekends 2026"]
 dateline: "New York"
 assets:
-  scene: winter-holidays
   overlay: true
   kicker: "Christmas 2026 · Fri., Dec. 25"
   date: "2026-12-25"
@@ -104,9 +103,16 @@ downloads:
     png: "/news/downloads/weekends-until-christmas-2026/weekends-until-christmas-2026-planner-ink.png"
     pages: 1
 hero:
-  src: ../../../../assets/news/weekends-until-christmas-2026-saturday-planner-shipping-deadlines/weekends-until-christmas-2026-saturday-planner-shipping-deadlines.jpg
-  alt: "A Christmas scene with gifts and lights for the 7 weekends until Christmas 2026"
-  caption: "Seven full weekends fall between Nov. 7 and Dec. 20, 2026, before Christmas Day on Friday, Dec. 25."
+  src: ../../../../assets/news/weekends-until-christmas-2026-saturday-planner-shipping-deadlines/weekends-until-christmas-2026-saturday-planner-shipping-deadlines.webp
+  alt: "Wrapped gifts under a Christmas tree, for the 7 weekends until Christmas 2026"
+  caption: "File photo of gifts under a Christmas tree. Seven full weekends fall between Nov. 7 and Dec. 20, 2026, before Christmas Day on Friday, Dec. 25."
+  credit: "Photo: Chris Olszewski / Wikimedia Commons, cropped, edited"
+  license:
+    name: "CC BY-SA 4.0"
+    url: "https://creativecommons.org/licenses/by-sa/4.0"
+    source: "https://commons.wikimedia.org/wiki/File:Christmas_presents_under_Christmas_tree_in_a_private_house_in_Brisbane,_2019.jpg"
+    author: "Chris Olszewski"
+    authorUrl: "https://commons.wikimedia.org/wiki/User:Kgbo"
 draft: false
 ---
 
