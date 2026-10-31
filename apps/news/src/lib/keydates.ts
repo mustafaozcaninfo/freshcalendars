@@ -12,6 +12,18 @@ export interface KeyDate {
 }
 
 export const KEY_DATES: KeyDate[] = [
+  { date: "2026-12-09", label: "Social Security pays birthdays 1st-10th", slug: "social-security-payment-schedule-december-2026-ssi-december-31" },
+  { date: "2026-12-31", label: "January SSI payment arrives early, with the 3.6% COLA", slug: "social-security-payment-schedule-december-2026-ssi-december-31" },
+  { date: "2026-12-01", label: "SNAP December deposits begin in states that issue on the 1st", slug: "snap-payment-schedule-december-2026-deposit-dates-by-state" },
+  { date: "2026-11-25", label: "NFL Week 12 opens: Packers at Rams, 8 p.m. ET, Netflix", slug: "nfl-week-12-schedule-2026-printable-pick-em-sheet-game-times" },
+  { date: "2026-11-26", label: "NFL Thanksgiving games: 1, 4:30 and 8:20 p.m. ET", slug: "nfl-week-12-schedule-2026-printable-pick-em-sheet-game-times" },
+  { date: "2026-12-13", label: "Geminid meteor shower peak night (Dec. 13-14)", slug: "planets-visible-december-2026-night-sky-calendar-geminids-solstice" },
+  { date: "2026-12-27", label: "Moon about 1.4 degrees from Jupiter", slug: "planets-visible-december-2026-night-sky-calendar-geminids-solstice" },
+  { date: "2027-01-01", label: "New Year's Day, federal holiday", slug: "january-2027-important-dates-holidays-days-until" },
+  { date: "2027-01-18", label: "Martin Luther King Jr. Day, federal holiday", slug: "january-2027-important-dates-holidays-days-until" },
+  { date: "2027-02-01", label: "W-2 forms due to employees and the SSA", slug: "february-2027-important-dates-holidays-days-until" },
+  { date: "2027-02-14", label: "Super Bowl LXI and Valentine's Day", slug: "february-2027-important-dates-holidays-days-until" },
+  { date: "2027-02-20", label: "Full moon, 6:23 p.m. EST", slug: "february-2027-calendar-printable" },
   { date: "2026-11-05", label: "Black Doves Season 2 on Netflix", slug: "new-netflix-shows-november-2026-black-doves-empress-hunting-wives" },
   { date: "2026-11-12", label: "The Empress final season on Netflix", slug: "new-netflix-shows-november-2026-black-doves-empress-hunting-wives" },
   { date: "2026-11-26", label: "The Hunting Wives Season 2 on Netflix", slug: "new-netflix-shows-november-2026-black-doves-empress-hunting-wives" },

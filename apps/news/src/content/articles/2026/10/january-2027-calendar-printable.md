@@ -56,7 +56,7 @@ internalLinks:
     label: "2027 printable yearly calendar"
   - href: "/when-is/new-years-eve/"
     label: "When is New Year's Eve"
-related: [federal-holidays-2027-observed-dates-list, new-years-countdown-2027-midnight-every-time-zone, groundhog-day-2027-tuesday-february-2-time-where-to-watch]
+related: [february-2027-calendar-printable, new-years-countdown-2027-midnight-every-time-zone, groundhog-day-2027-tuesday-february-2-time-where-to-watch]
 downloads:
   - group: "January 2027 calendar templates"
     title: "January 2027 Calendar With Holidays"

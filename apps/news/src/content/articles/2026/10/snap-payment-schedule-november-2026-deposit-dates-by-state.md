@@ -54,7 +54,7 @@ internalLinks:
     label: "December 2026 printable calendar"
   - href: "/when-is/veterans-day/"
     label: "When is Veterans Day?"
-related: [social-security-payment-schedule-november-2026-veterans-day-shift, canada-benefit-payment-dates-november-december-2026-cpp-oas-ccb, government-funding-deadline-december-11-2026-shutdown]
+related: [social-security-payment-schedule-november-2026-veterans-day-shift, snap-payment-schedule-december-2026-deposit-dates-by-state, government-funding-deadline-december-11-2026-shutdown]
 assets:
   overlay: true
   kicker: "SNAP · Sun., Nov. 1, 2026"
