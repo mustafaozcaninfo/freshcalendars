@@ -23,7 +23,7 @@ const trail = [{ name: "News", path: "/news/" }, { name: "Archive", path: ARCHIV
 const jsonLd = listingGraph({ path: m.path, name: title, description, trail, items: m.items.map((a) => ({ path: articlePath(a.id), name: a.data.title })), kind: "CollectionPage" });
 ---
 <NewsBase title={`${title} | Fresh Calendars`} description={description} path={m.path} jsonLd={jsonLd} ads={false}>
-  <div class="news-workspace"><NewsRail path={m.path} /><div class="news-wrap archive">
+  <div class="news-workspace"><NewsRail path={m.path} /><div class="hub archive">
     <Breadcrumb items={[{ name: "Home", href: "/" }, { name: "News", href: "/news/" }, { name: "Archive", href: ARCHIVE_PATH }, { name: m.name }]} />
     <h1>{title}</h1>
     <p class="news-lede">Stories are listed by publication date in Eastern Time (ET), newest first. The <a href={ARCHIVE_PATH}>archive</a> has every other month.</p>
