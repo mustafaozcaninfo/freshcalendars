@@ -78,7 +78,7 @@ internalLinks:
     label: "October 2026 printable calendar"
   - href: "/printable-weekly-calendar.html"
     label: "printable weekly calendar"
-related: [monday-night-football-tonight-cowboys-eagles-mnf-schedule-2026, ballon-dor-2026-date-time-by-time-zone-nominees-london]
+related: [monday-night-football-tonight-cowboys-eagles-mnf-schedule-2026, ballon-dor-2026-date-time-by-time-zone-nominees-london, fpl-deadlines-2026-27-every-gameweek-deadline-time-uk-us-chip-dates]
 downloads:
   - group: "Carabao Cup Round Four TV Schedule 2026 printables"
     title: "Carabao Cup Round Four TV Schedule 2026"
