@@ -4,6 +4,7 @@
  *   pnpm fc news-photo search "<query>" [--source commons|nasa|openverse|pexels|all]
  *   pnpm fc news-photo use <slug> <n | commons:File:Name.jpg | nasa:<id> | openverse:<id> | pexels:<id>> [--focus …] [--allow-flickr]
  *   pnpm fc news-photo press <slug> --url <image> --terms <terms page> --author "<owner>"
+ *   pnpm fc news-photo official <slug> --url <image> --page <notice page> --owner "<company>"
  *
  * `search` lists candidates and marks the ones we may use. `use` re-reads the license from the source
  * (never from the cache), crops to 16:9 without upscaling, writes <slug>.webp with the credit embedded,
@@ -19,6 +20,11 @@
  * branded overlay (assets.overlay), so the overlay is never applied twice.
  * `press` is for a company's own press-kit image; the terms page must be on the same site as the image
  * and must allow editorial use. The main session checks the terms before committing.
+ * `official` is for the product photo a government recall or safety notice publishes (FDA, USDA FSIS,
+ * CPSC, NHTSA, CDC): the image must be on the agency's site and appear on the notice page itself. These
+ * photos are usually small, so the whole image is placed, never cropped and enlarged at most 2x, on a
+ * 2400×1350 canvas filled with its own background colour. It is shown as published: no overlay, and the
+ * credit names the owner and the agency ("Photo: <company> via U.S. Food and Drug Administration (FDA)").
  */
 import fs from "node:fs/promises";
 import path from "node:path";
@@ -296,4 +302,67 @@ export async function photoPress(slug: string, url: string, terms: string, autho
   if (site(url) !== site(terms)) throw new Error(`image (${site(url)}) and terms page (${site(terms)}) must be on the same site; CDN hosts need a manual check`);
   console.warn("press: read the terms page yourself and confirm it allows editorial use by news sites before committing");
   await write(slug, { ref: `press:${url}`, source: "press", title: author, page: terms, file: url, license: "Press image, editorial use", licenseUrl: terms, author, ok: true }, focus);
+}
+
+/** Agencies whose recall and safety notices publish product photos. */
+const OFFICIAL_HOSTS: Record<string, string> = {
+  "fda.gov": "U.S. Food and Drug Administration (FDA)",
+  "fsis.usda.gov": "U.S. Department of Agriculture Food Safety and Inspection Service (FSIS)",
+  "cpsc.gov": "U.S. Consumer Product Safety Commission (CPSC)",
+  "nhtsa.gov": "National Highway Traffic Safety Administration (NHTSA)",
+  "cdc.gov": "Centers for Disease Control and Prevention (CDC)",
+};
+const officialAgency = (u: string) => {
+  const h = new URL(u).hostname.replace(/^www\./, "");
+  return Object.entries(OFFICIAL_HOSTS).find(([d]) => h === d || h.endsWith(`.${d}`))?.[1];
+};
+
+/** The product photo from an official recall or safety notice, framed whole on a hero-size canvas. */
+export async function photoOfficial(slug: string, url: string, page: string, owner: string): Promise<void> {
+  if (!/^[a-z0-9-]+$/.test(slug ?? "") || !url || !page || !owner) throw new Error('usage: pnpm fc news-photo official <slug> --url <image> --page <notice page> --owner "<company>"');
+  const agency = officialAgency(page);
+  if (!agency) throw new Error(`notice page must be on ${Object.keys(OFFICIAL_HOSTS).join(", ")}`);
+  if (officialAgency(url) !== agency) throw new Error("the image must be on the same agency site as the notice page");
+  // The photo has to be part of the notice, not any file that happens to sit on the agency's server.
+  const html = await (await fetch(page, { headers: { "User-Agent": UA } })).text();
+  const { pathname } = new URL(url);
+  const srcs = [...html.matchAll(/<img[^>]+src="([^"]+)"/g)].map((m) => new URL(m[1]!.replace(/&amp;/g, "&"), page).pathname);
+  if (!srcs.includes(pathname)) throw new Error(`the image is not on the notice page ${page}`);
+  const r = await fetch(url, { headers: { "User-Agent": UA } });
+  if (!r.ok || !/^image\//.test(r.headers.get("content-type") ?? "")) throw new Error(`${r.status} downloading ${url}`);
+  const buf = Buffer.from(await r.arrayBuffer());
+  const { width: w = 0, height: h = 0 } = await sharp(buf).metadata();
+  if (w < 400) throw new Error(`image is ${w}px wide; below 400px it is too small to read even framed`);
+  // Fill with the photo's own corner colour so the frame reads as the photo's backdrop, not ours.
+  const { data } = await sharp(buf).flatten({ background: "#ffffff" }).extract({ left: 0, top: 0, width: 4, height: 4 }).raw().toBuffer({ resolveWithObject: true });
+  const background = { r: data[0]!, g: data[1]!, b: data[2]! };
+  const scale = Math.min(2, (OUT_W * 0.86) / w, (1350 * 0.86) / h);
+  const pw = Math.round(w * scale), ph = Math.round(h * scale);
+  const placed = await sharp(buf).flatten({ background }).resize(pw, ph, { kernel: "lanczos3" }).toBuffer();
+  const credit = `Photo: ${owner} via ${agency}`;
+  const title = `${owner} product photo from the ${agency} notice`;
+  const rights = `${owner}; published in an official notice by the ${agency} (${page})`;
+  const dir = path.join(ROOT, "apps/news/src/assets/news", slug);
+  await fs.mkdir(dir, { recursive: true });
+  const out = path.join(dir, `${slug}.webp`);
+  await sharp({ create: { width: OUT_W, height: 1350, channels: 3, background } })
+    .composite([{ input: placed, left: Math.round((OUT_W - pw) / 2), top: Math.round((1350 - ph) / 2) }])
+    .withExif({ IFD0: { Artist: owner, Copyright: rights, ImageDescription: title } })
+    .webp({ quality: 86, effort: 6 }).toFile(out);
+  // No <slug>.source.webp: official photos never get our overlay.
+  await fs.rm(path.join(dir, `${slug}.source.webp`), { force: true });
+  const record = { ref: `official:${url}`, source: agency, title, page, file: url, license: "Official notice image", licenseUrl: page, author: owner, ok: true, official: true, slug, fetchedAt: new Date().toISOString(), original: `${w}×${h}`, output: `${OUT_W}×1350`, framed: `${pw}×${ph}`, cropped: false, credit };
+  await fs.writeFile(path.join(dir, `${slug}.photo.json`), `${JSON.stringify(record, null, 2)}\n`);
+  const q = JSON.stringify;
+  console.log(`photo: ${path.relative(ROOT, out)} (${w}×${h} framed at ${pw}×${ph}${scale > 1 ? `, enlarged ${scale.toFixed(2)}x` : ""})\n\nset assets.overlay: false (or remove it), then the hero: block (write alt and caption yourself):
+hero:
+  src: ../../../../assets/news/${slug}/${slug}.webp
+  alt: "<what the photo shows, with the main keyword>"
+  caption: "<20-220 chars; say it is the product photo from the ${agency} notice>"
+  credit: ${q(credit)}
+  license:
+    name: "Official notice image"
+    url: ${q(page)}
+    source: ${q(page)}
+    author: ${q(owner)}`);
 }

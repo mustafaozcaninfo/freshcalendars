@@ -67,7 +67,7 @@ internalLinks:
     label: "October 2026 printable calendar"
   - href: "/november-calendars.html"
     label: "November 2026 printable calendar"
-related: [dea-drug-take-back-day-october-24-2026-locations, medicare-open-enrollment-2026-december-7-90-dollar-rebate, national-brush-day-2026-november-1-two-minute-brushing-chart]
+related: [once-upon-a-farm-tractor-wheels-recall-fda-warning-2026, dea-drug-take-back-day-october-24-2026-locations, national-brush-day-2026-november-1-two-minute-brushing-chart]
 assets:
   overlay: true
   kicker: "Toothpaste recall · FDA Class II"
