@@ -39,7 +39,6 @@ import {
   entryToRelPath,
   renderPageHtml,
   resolveEntryYear,
-  htaccessContent,
   renderNotFoundHtml,
   renderConceptHubs,
   splitVolatile,
@@ -300,13 +299,8 @@ export async function generateAll(opts: GenOptions): Promise<{ metas: SeoMeta[] 
   await writeJson(path.join(DIST, "manifest.json"), manifest);
   await writeJson(path.join(DIST_SITE, "manifest.json"), manifest);
 
-  await writeSitePage(".htaccess", htaccessContent());
+  // Old-URL 301s and the contact form are in the Cloudflare Worker (cloudflare/).
   await writeSitePage("404.html", renderNotFoundHtml());
-
-  // PHP contact API + admin (config/lib live outside web root on the server)
-  const phpRoot = path.join(ROOT, "server/php");
-  await fs.cp(path.join(phpRoot, "api"), path.join(DIST_SITE, "api"), { recursive: true });
-  await fs.cp(path.join(phpRoot, "admin"), path.join(DIST_SITE, "admin"), { recursive: true });
 
   // Self-hosted latin fonts (no render-blocking Google CSS)
   const fontOut = path.join(DIST_SITE, "fonts");

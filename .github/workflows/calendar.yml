@@ -1,0 +1,130 @@
+name: Calendar site
+
+# The calendar pages (packages/generator, dist/site) on the schedule the VPS crontab had, in UTC:
+#   05:25 daily          refresh-meta   pages only: Today card, when-is dates, this week (01:25 ET)
+#   06:30 on the 1st     refresh        PNG/PDF printables for the new month (not in January)
+#   08:45 on Sep 1       generate-next  next year's printables
+#   06:30 on Jan 1       rollover       lock last, this and next year
+#   07:15 on Mondays     health         live smoke test and job freshness
+# Printables go to R2 (cdn.freshcalendars.com); pages are published by deploy.yml with the
+# deployed /news/. A failed run emails the owner through GitHub's workflow notifications.
+on:
+  schedule:
+    - cron: "25 5 * * *"
+    - cron: "30 6 1 2-12 *"
+    - cron: "45 8 1 9 *"
+    - cron: "30 6 1 1 *"
+    - cron: "15 7 * * 1"
+  workflow_dispatch:
+    inputs:
+      job:
+        description: Which job
+        type: choice
+        options: [refresh-meta, refresh, generate-next, rollover, health]
+        default: refresh-meta
+
+concurrency:
+  group: calendar
+  cancel-in-progress: false
+
+env:
+  JOB: >-
+    ${{ inputs.job || (github.event.schedule == '30 6 1 2-12 *' && 'refresh')
+      || (github.event.schedule == '45 8 1 9 *' && 'generate-next')
+      || (github.event.schedule == '30 6 1 1 *' && 'rollover')
+      || (github.event.schedule == '15 7 * * 1' && 'health') || 'refresh-meta' }}
+  SITE_BASE: ${{ vars.SITE_BASE || 'https://freshcalendars.com' }}
+
+jobs:
+  build:
+    if: inputs.job != 'health' && github.event.schedule != '15 7 * * 1'
+    runs-on: ubuntu-24.04
+    timeout-minutes: 90
+    env:
+      TZ: America/New_York
+      CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+      CLOUDFLARE_ACCOUNT_ID: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
+      R2_ACCESS_KEY_ID: ${{ secrets.R2_ACCESS_KEY_ID }}
+      R2_SECRET_ACCESS_KEY: ${{ secrets.R2_SECRET_ACCESS_KEY }}
+      CF_ZONE_ID: ${{ secrets.CF_ZONE_ID }}
+    steps:
+      - uses: actions/checkout@v7
+      - uses: ./.github/actions/setup
+        with:
+          rclone: "true"
+      - name: Chromium for the printables
+        run: pnpm --filter @freshcalendars/generator exec playwright install --with-deps chromium
+      # The generator re-renders only missing or outdated files, so it needs the current set.
+      - name: Current printables and build state from R2
+        run: |
+          cloudflare/deploy.sh pull-calendar-assets
+          cloudflare/deploy.sh pull-calendar-state
+      - name: Build (${{ env.JOB }})
+        run: |
+          year="$(date +%Y)"
+          case "$JOB" in
+            refresh-meta) pnpm fc refresh-meta ;;
+            refresh) pnpm fc refresh-evergreen ;;
+            generate-next) pnpm fc gen --year "$((year + 1))" ;;
+            rollover) pnpm fc rollover --to "$year" --confirm ;;
+          esac
+          pnpm fc verify
+      - name: Upload changed printables to R2
+        run: |
+          cloudflare/deploy.sh sync-calendar-assets
+          cloudflare/deploy.sh push-calendar-state
+      - name: Pack the pages
+        run: tar -czf calendar-build.tar.gz --exclude 'site/assets' -C dist site
+      - uses: actions/upload-artifact@v6
+        with:
+          name: calendar-build
+          path: calendar-build.tar.gz
+          retention-days: 3
+          compression-level: 0
+
+  deploy:
+    needs: build
+    uses: ./.github/workflows/deploy.yml
+    with:
+      calendar-artifact: calendar-build
+      calendar-sha: ${{ github.sha }}
+    secrets: inherit
+
+  # The checks the VPS ran after each bake.
+  smoke:
+    needs: deploy
+    runs-on: ubuntu-24.04
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v7
+      - uses: ./.github/actions/setup
+      - name: Today card and this week
+        run: |
+          curl -fsS --max-time 30 "$SITE_BASE/" | grep -q data-today-date || { echo "homepage missing today card"; exit 1; }
+          SMOKE_ONLY=week SMOKE_BASE="$SITE_BASE" pnpm exec tsx scripts/smoke-automation.mjs
+      - name: Full smoke after a printable job
+        if: env.JOB != 'refresh-meta'
+        run: SMOKE_BASE="$SITE_BASE" pnpm exec tsx scripts/smoke-automation.mjs
+
+  health:
+    if: github.event.schedule == '15 7 * * 1' || inputs.job == 'health'
+    runs-on: ubuntu-24.04
+    timeout-minutes: 15
+    env:
+      GH_TOKEN: ${{ github.token }}
+    steps:
+      - uses: actions/checkout@v7
+      - uses: ./.github/actions/setup
+      - name: Live smoke test
+        run: SMOKE_BASE="$SITE_BASE" pnpm exec tsx scripts/smoke-automation.mjs
+      - name: /news/ and its sitemaps
+        run: |
+          curl -fsS --max-time 20 -o /dev/null "$SITE_BASE/news/"
+          curl -fsS --max-time 20 "$SITE_BASE/news/news-sitemap.xml" | grep -q "<urlset"
+      # The daily bake ran in the last 36 hours.
+      - name: Daily job ran on time
+        run: |
+          last="$(gh run list --workflow calendar.yml --status success --limit 50 --json createdAt -q '.[0].createdAt')"
+          [[ -n "$last" ]] || { echo "no successful calendar run"; exit 1; }
+          (( $(date +%s) - $(date -d "$last" +%s) < 36 * 3600 )) || { echo "daily calendar job stale (last ok $last)"; exit 1; }
+          echo "last calendar run ok: $last"

@@ -1,16 +1,21 @@
 name: CI
 
+# Checks every push and pull request; a green push to main is published to freshcalendars.com
+# (Cloudflare Workers + R2, cloudflare/deploy.sh). A red run never publishes.
 on:
   push:
     branches: [main, master]
   pull_request:
+  workflow_dispatch:
 
 # A newer push to the same pull request cancels the older run. Pushes to main each get their own
-# group: cancelling there held every story back until pushes stopped, and auto-publish only
-# waits for the run of the newest commit anyway.
+# group, so every story's checks run; the deploy job has its own queue below.
 concurrency:
   group: ci-${{ github.event_name == 'pull_request' && github.ref || github.sha }}
   cancel-in-progress: ${{ github.event_name == 'pull_request' }}
+
+env:
+  PUBLISH: ${{ github.event_name == 'push' && github.ref == 'refs/heads/main' || github.event_name == 'workflow_dispatch' }}
 
 # Pinned, not ubuntu-latest: that label moves to Ubuntu 26 from 2026-10-19. Move on purpose,
 # after a test run.
@@ -20,38 +25,33 @@ jobs:
     timeout-minutes: 20
     steps:
       - uses: actions/checkout@v7
-      - uses: pnpm/action-setup@v6
-        # version comes from package.json packageManager field
-      - uses: actions/setup-node@v7
-        with:
-          node-version: 22
-          cache: pnpm
-      - name: Install
-        run: pnpm install --frozen-lockfile
+      - uses: ./.github/actions/setup
       - name: Test
         run: pnpm test
       # Daily puzzle pages vs the official data saved with them (offline): a wrong answer never publishes.
       - name: Puzzle answers vs official data
         run: pnpm news:puzzle-check
 
-  # The same gates `pnpm news:deploy` runs before publishing, so a story pull request
-  # that is green here can be merged and published without a local rebuild.
+  # The checks a story must pass before it is published.
   news:
     runs-on: ubuntu-24.04
-    # A cold image cache re-encodes every hero variant (about 5,000, AVIF the slow part): ~30 min.
+    # A cold image cache re-encodes every hero variant (about 18,000, AVIF the slow part): ~30 min.
     # With the cache below a run only encodes new images and takes a few minutes.
     timeout-minutes: 45
+    outputs:
+      built-at: ${{ steps.build_start.outputs.t }}
     env:
       TZ: America/New_York
+      # Pages load /news/ images from R2 on the CDN (apps/news/astro.config.mjs).
+      NEWS_ASSETS_PREFIX: https://cdn.freshcalendars.com/news
+      CLOUDFLARE_ACCOUNT_ID: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
+      R2_ACCESS_KEY_ID: ${{ secrets.R2_ACCESS_KEY_ID }}
+      R2_SECRET_ACCESS_KEY: ${{ secrets.R2_SECRET_ACCESS_KEY }}
     steps:
       - uses: actions/checkout@v7
-      - uses: pnpm/action-setup@v6
-      - uses: actions/setup-node@v7
+      - uses: ./.github/actions/setup
         with:
-          node-version: 22
-          cache: pnpm
-      - name: Install
-        run: pnpm install --frozen-lockfile
+          rclone: ${{ env.PUBLISH }}
       # Astro's optimized-image cache. Entries are named by a hash of the source and the options,
       # so a stale entry is never used for a changed image; restore-keys picks up the latest cache.
       - name: Restore image cache
@@ -62,9 +62,16 @@ jobs:
           restore-keys: |
             news-images-${{ hashFiles('apps/news/src/assets/**', 'apps/news/src/components/Hero.astro') }}-
             news-images-
+      # A second copy in R2 survives GitHub's cache eviction (10 GB per repository).
+      - name: Fill the image cache from R2
+        if: env.PUBLISH == 'true'
+        run: cloudflare/deploy.sh pull-image-cache
       - name: Count cached images
         id: cache_before
         run: echo "n=$(find apps/news/node_modules/.astro/assets -type f 2>/dev/null | wc -l)" >>"$GITHUB_OUTPUT"
+      - name: Build start
+        id: build_start
+        run: echo "t=$(date +%s)" >>"$GITHUB_OUTPUT"
       - name: Build /news/ (frontmatter schema, hero size, references)
         run: pnpm news:build
         timeout-minutes: 40
@@ -92,3 +99,29 @@ jobs:
         run: |
           git fetch --depth=1 origin "${{ github.base_ref }}"
           git diff --name-status FETCH_HEAD -- apps/news/src/content apps/news/public/downloads >> "$GITHUB_STEP_SUMMARY" || true
+      # Images are named by their content, so uploading them before the deploy is always safe.
+      - name: Upload new images to R2
+        if: env.PUBLISH == 'true'
+        run: |
+          cloudflare/deploy.sh images
+          [[ "${{ steps.cache_after.outputs.new }}" == "1" ]] && cloudflare/deploy.sh push-image-cache || true
+      - name: Pack the build for the deploy
+        if: env.PUBLISH == 'true'
+        run: tar -czf news-build.tar.gz --exclude 'news/_astro' -C dist news news-data
+      - uses: actions/upload-artifact@v6
+        if: env.PUBLISH == 'true'
+        with:
+          name: news-build
+          path: news-build.tar.gz
+          retention-days: 3
+          compression-level: 0
+
+  deploy:
+    needs: [verify, news]
+    if: github.event_name == 'push' && github.ref == 'refs/heads/main' || github.event_name == 'workflow_dispatch'
+    uses: ./.github/workflows/deploy.yml
+    with:
+      artifact: news-build
+      news-sha: ${{ github.sha }}
+      news-built-at: ${{ needs.news.outputs.built-at }}
+    secrets: inherit

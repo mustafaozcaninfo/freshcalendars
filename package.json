@@ -11,7 +11,6 @@
     "verify": "tsx packages/generator/src/cli.ts verify",
     "gen": "tsx packages/generator/src/cli.ts gen",
     "refresh-evergreen": "tsx packages/generator/src/cli.ts refresh-evergreen",
-    "deploy": "tsx packages/generator/src/cli.ts deploy",
     "smoke": "bash scripts/smoke.sh",
     "smoke:auto": "tsx scripts/smoke-automation.mjs",
     "smoke:mobile": "node scripts/smoke-mobile.mjs",
@@ -25,14 +24,14 @@
     "news:lighthouse": "node scripts/news-lighthouse.mjs",
     "news:serve": "node scripts/news-serve.mjs",
     "news:verify": "node scripts/news-verify.mjs",
-    "news:deploy": "bash scripts/news-deploy.sh",
     "news:seo-audit": "node scripts/news-seo-audit.mjs",
     "news:abbrev": "node scripts/news-abbrev-check.mjs",
     "news:puzzle-check": "node scripts/news-puzzle-check.mjs",
     "news:puzzle-data": "node scripts/news-puzzle-data.mjs",
     "news:index": "node scripts/index-submit.mjs",
     "news:dashboard": "tsx scripts/news-dashboard.mjs",
-    "news:verify-live": "node scripts/news-verify-live.mjs"
+    "news:verify-live": "node scripts/news-verify-live.mjs",
+    "cf:assemble": "node cloudflare/assemble.mjs"
   },
   "devDependencies": {
     "@types/node": "^22.13.10",
@@ -40,6 +39,7 @@
     "pdfjs-dist": "4.10.38",
     "tsx": "^4.19.3",
     "typescript": "^5.8.2",
+    "wrangler": "4.156.0",
     "yaml": "2.8.1"
   },
   "pnpm": {

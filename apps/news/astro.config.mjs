@@ -91,6 +91,10 @@ export default defineConfig({
   compressHTML: true,
   build: {
     format: "directory",
+    // Everything in _astro is an image. CI builds with NEWS_ASSETS_PREFIX=https://cdn.freshcalendars.com/news
+    // so pages load them from R2 (scripts/cf/) and the Workers deploy carries only pages; local
+    // builds leave it unset so news:serve shows images a new story has not uploaded yet.
+    ...(process.env.NEWS_ASSETS_PREFIX ? { assetsPrefix: process.env.NEWS_ASSETS_PREFIX } : {}),
     inlineStylesheets: "always",
     assets: "_astro",
   },

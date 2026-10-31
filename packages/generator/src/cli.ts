@@ -1,5 +1,4 @@
 #!/usr/bin/env node
-import { spawn } from "node:child_process";
 import fs from "node:fs";
 import path from "node:path";
 import { generateAll, refreshEvergreen, refreshMeta, rollover, shutdown, verifyDist } from "./gen.js";
@@ -43,7 +42,6 @@ import { photoPress, photoSearch, photoUse } from "./newsPhoto.js";
 import { buildHeroes4 } from "./heroes4.js";
 import { ROOT } from "./paths.js";
 import { listHeroes } from "./newsHeroes.js";
-import { purgeDoCdn, syncCdnAssets } from "./spaces.js";
 
 function loadRootEnv(): void {
   const envPath = path.join(ROOT, ".env");
@@ -70,18 +68,6 @@ function argValue(name: string): string | undefined {
   const i = process.argv.indexOf(name);
   if (i >= 0) return process.argv[i + 1];
   return undefined;
-}
-
-async function deploy(opts: { confirm: boolean; changed: boolean }): Promise<void> {
-  if (!opts.confirm) throw new Error("Pass --confirm to deploy");
-  const script = path.join(ROOT, "scripts/deploy.sh");
-  await new Promise<void>((resolve, reject) => {
-    const child = spawn("bash", [script, opts.changed ? "--changed" : "--all"], {
-      cwd: ROOT,
-      stdio: "inherit",
-    });
-    child.on("exit", (code) => (code === 0 ? resolve() : reject(new Error(`deploy exit ${code}`))));
-  });
 }
 
 async function main(): Promise<void> {
@@ -206,20 +192,6 @@ async function main(): Promise<void> {
       await rollover(to, argFlag("--confirm"));
     } else if (cmd === "verify") {
       await verifyDist();
-    } else if (cmd === "sync-cdn") {
-      await syncCdnAssets();
-    } else if (cmd === "purge-cdn") {
-      await purgeDoCdn();
-    } else if (cmd === "deploy") {
-      if (argFlag("--with-cdn")) {
-        await syncCdnAssets();
-        try {
-          await purgeDoCdn();
-        } catch (e) {
-          console.warn("CDN purge warning:", e);
-        }
-      }
-      await deploy({ confirm: argFlag("--confirm"), changed: argFlag("--changed") });
     } else {
       console.log(`Usage:
   pnpm fc gen --year 2026 [--family monthly|yearly|blank|weekly|school]
@@ -263,9 +235,7 @@ async function main(): Promise<void> {
   pnpm fc refresh-evergreen
   pnpm fc rollover --to 2027 --confirm
   pnpm fc verify
-  pnpm fc sync-cdn          # upload assets/ + og/ (hash-deduped)
-  pnpm fc purge-cdn
-  pnpm fc deploy --confirm [--changed] [--with-cdn]`);
+Publishing (pages to Workers, printables to R2) runs in GitHub Actions: docs/DEPLOY.md.`);
     }
   } finally {
     await shutdown();

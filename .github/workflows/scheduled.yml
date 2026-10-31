@@ -1,0 +1,98 @@
+name: Scheduled stories
+
+# A story with a future publishedAt is left out of the build until that time. Every 10 minutes
+# this checks the deployed commit for stories that came due since its build, and if there are
+# any, rebuilds that same commit and publishes it (newer commits publish through CI as usual).
+# GitHub may start a scheduled run a few minutes late, so a story goes live 10-20 min after its time.
+on:
+  schedule:
+    - cron: "*/10 * * * *"
+  workflow_dispatch:
+
+concurrency:
+  group: scheduled-stories
+  cancel-in-progress: false
+
+jobs:
+  due:
+    runs-on: ubuntu-24.04
+    timeout-minutes: 5
+    outputs:
+      sha: ${{ steps.due.outputs.sha }}
+      stories: ${{ steps.due.outputs.stories }}
+    env:
+      CLOUDFLARE_ACCOUNT_ID: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
+      R2_ACCESS_KEY_ID: ${{ secrets.R2_ACCESS_KEY_ID }}
+      R2_SECRET_ACCESS_KEY: ${{ secrets.R2_SECRET_ACCESS_KEY }}
+    steps:
+      - uses: actions/checkout@v7
+        with:
+          fetch-depth: 0
+      - name: Install rclone
+        run: sudo apt-get install -y -qq rclone >/dev/null
+      - name: Stories due since the last build
+        id: due
+        run: |
+          sha="$(cloudflare/deploy.sh state-get news/sha)"
+          since="$(cloudflare/deploy.sh state-get news/built-at)"
+          [[ -n "$sha" && -n "$since" ]] || { echo "nothing deployed yet"; exit 0; }
+          git checkout -q "$sha"
+          stories="$(node cloudflare/due-stories.mjs "$since")"
+          echo "deployed ${sha:0:7}, built $(date -d "@$since" -Is); due: ${stories:-none}"
+          echo "sha=$sha" >>"$GITHUB_OUTPUT"
+          echo "stories=$stories" >>"$GITHUB_OUTPUT"
+
+  build:
+    needs: due
+    if: needs.due.outputs.stories != ''
+    runs-on: ubuntu-24.04
+    timeout-minutes: 45
+    outputs:
+      built-at: ${{ steps.build_start.outputs.t }}
+    env:
+      TZ: America/New_York
+      NEWS_ASSETS_PREFIX: https://cdn.freshcalendars.com/news
+      CLOUDFLARE_ACCOUNT_ID: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
+      R2_ACCESS_KEY_ID: ${{ secrets.R2_ACCESS_KEY_ID }}
+      R2_SECRET_ACCESS_KEY: ${{ secrets.R2_SECRET_ACCESS_KEY }}
+    steps:
+      - uses: actions/checkout@v7
+        with:
+          ref: ${{ needs.due.outputs.sha }}
+      - uses: ./.github/actions/setup
+        with:
+          rclone: "true"
+      - name: Restore image cache
+        uses: actions/cache/restore@v6
+        with:
+          path: apps/news/node_modules/.astro/assets
+          key: news-images-${{ hashFiles('apps/news/src/assets/**', 'apps/news/src/components/Hero.astro') }}-${{ github.run_id }}
+          restore-keys: |
+            news-images-${{ hashFiles('apps/news/src/assets/**', 'apps/news/src/components/Hero.astro') }}-
+            news-images-
+      - run: cloudflare/deploy.sh pull-image-cache
+      - name: Build start
+        id: build_start
+        run: echo "t=$(date +%s)" >>"$GITHUB_OUTPUT"
+      - run: pnpm news:build
+      - run: pnpm news:verify
+      - run: pnpm news:seo-audit
+      - name: Upload new images and pack the build
+        run: |
+          cloudflare/deploy.sh images
+          tar -czf news-build.tar.gz --exclude 'news/_astro' -C dist news news-data
+      - uses: actions/upload-artifact@v6
+        with:
+          name: news-build
+          path: news-build.tar.gz
+          retention-days: 3
+          compression-level: 0
+
+  deploy:
+    needs: [due, build]
+    uses: ./.github/workflows/deploy.yml
+    with:
+      artifact: news-build
+      news-sha: ${{ needs.due.outputs.sha }}
+      news-built-at: ${{ needs.build.outputs.built-at }}
+    secrets: inherit

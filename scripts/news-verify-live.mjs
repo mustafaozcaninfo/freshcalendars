@@ -40,7 +40,10 @@ const files = new Map();
 
 const decode = (s) => s.replace(/<[^>]+>/g, "").replace(/&amp;/g, "&").replace(/&#39;|&#x27;|&rsquo;/g, "'").replace(/&quot;/g, '"').replace(/&lt;/g, "<").replace(/&gt;/g, ">").replace(/\s+/g, " ").trim();
 const sameInstant = (a, b) => a && b && new Date(a).getTime() === new Date(b).getTime();
-const get = async (url) => { const r = await fetch(url, { redirect: "manual", signal: AbortSignal.timeout(20_000) }); return { status: r.status, cache: r.headers.get("cf-cache-status"), text: await r.text() }; };
+// NEWS_LIVE_BASE checks another host serving the same build (the workers.dev preview); URLs and
+// canonicals stay on freshcalendars.com.
+const BASE = (process.env.NEWS_LIVE_BASE || ORIGIN).replace(/\/$/, "");
+const get = async (url) => { const r = await fetch(url.replace(ORIGIN, BASE), { redirect: "manual", signal: AbortSignal.timeout(20_000) }); return { status: r.status, cache: r.headers.get("cf-cache-status"), text: await r.text() }; };
 
 let sitemap = null;
 async function sitemapUrls() {
