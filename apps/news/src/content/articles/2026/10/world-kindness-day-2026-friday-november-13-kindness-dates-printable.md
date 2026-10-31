@@ -86,7 +86,7 @@ internalLinks:
     label: "November 2026 printable calendar"
   - href: "/february-calendars.html"
     label: "February 2027 printable calendar"
-related: [friday-the-13th-november-13-2026-next-friday-13th-dates, november-2026-important-dates-days-until, make-a-difference-day-2026-october-24]
+related: [friday-the-13th-november-13-2026-next-friday-13th-dates, november-2026-important-dates-days-until, world-vegan-day-2026-sunday-november-1-world-vegan-month-planner]
 downloads:
   - group: "World Kindness Day 2026 Week Planner printables"
     title: "World Kindness Day 2026 Week Planner, Nov. 9-13"
