@@ -81,7 +81,7 @@ internalLinks:
     label: "November 2026 printable calendar"
   - href: "/printable-weekly-calendar.html"
     label: "Printable weekly calendar"
-related: [new-on-hulu-november-2026-release-dates, netflix-new-movies-november-2026-release-dates, the-gilded-age-season-4-premiere-time-november-1-hbo-max]
+related: [new-on-hulu-november-2026-release-dates, jalen-brunson-law-and-order-svu-episode-air-date-november-5-time-peacock, the-gilded-age-season-4-premiere-time-november-1-hbo-max]
 downloads:
   - group: "New on Peacock printables"
     title: "New on Peacock, November 2026"

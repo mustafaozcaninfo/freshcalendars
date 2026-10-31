@@ -4,7 +4,7 @@ seoTitle: "Connections Sports Edition Hints Today, Oct. 30 (#767)"
 description: "Connections: Sports Edition #767 for Friday, Oct. 30, 2026, from The Athletic and New York Times (NYT) Games: a hint per group, then all answers and the traps."
 type: explainer
 publishedAt: "2026-10-30T14:55:00-04:00"
-updatedAt: "2026-10-30T14:55:00-04:00"
+updatedAt: "2026-10-31T06:48:00-04:00"
 authors: [news-desk]
 category: puzzles
 keywords: ["Connections Sports Edition hints today", "Connections Sports Edition answers", "Sports Connections October 30 2026", "Connections Sports Edition 767", "NYT sports connections"]
@@ -44,6 +44,60 @@ sources:
     url: "https://tech.yahoo.com/puzzles/connections/articles/today-nyt-connections-sports-edition-234704726.html"
     publisher: "CNET via Yahoo Tech"
     date: "2026-10-30"
+  - title: "Kurt Warner"
+    url: "https://www.profootballhof.com/players/kurt-warner/"
+    publisher: "Pro Football Hall of Fame"
+  - title: "Kurt Warner career stats"
+    url: "https://www.nfl.com/players/kurt-warner/stats/career"
+    publisher: "NFL.com"
+  - title: "Marc Bulger career stats"
+    url: "https://www.nfl.com/players/marc-bulger/stats/career"
+    publisher: "NFL.com"
+  - title: "Jared Goff career stats"
+    url: "https://www.nfl.com/players/jared-goff/stats/career"
+    publisher: "NFL.com"
+  - title: "Matthew Stafford career stats"
+    url: "https://www.nfl.com/players/matthew-stafford/stats/career"
+    publisher: "NFL.com"
+  - title: "Joe Montana"
+    url: "https://www.profootballhof.com/players/joe-montana/"
+    publisher: "Pro Football Hall of Fame"
+  - title: "5 Things to Know: Joe Montana"
+    url: "https://www.49ers.com/news/5-things-to-know-joe-montana-fun-facts-nickname-super-bowls-street-catch-wife"
+    publisher: "San Francisco 49ers"
+  - title: "Joe Montana Turns 58, but He'll Always Be 16"
+    url: "https://www.49ers.com/news/joe-montana-turns-58-but-he-ll-always-be-16-13131067"
+    publisher: "San Francisco 49ers"
+  - title: "Retired numbers"
+    url: "https://www.49ers.com/history/retired-numbers"
+    publisher: "San Francisco 49ers"
+  - title: "Bo Ryan selected for Naismith Memorial Basketball Hall of Fame"
+    url: "https://uwbadgers.com/news/2024/4/6/mens-basketball-bo-ryan-selected-for-naismith-memorial-basketball-hall-of-fame"
+    publisher: "Wisconsin Badgers"
+  - title: "Former Cardinals Coach Buddy Ryan Dies At 85"
+    url: "https://www.azcardinals.com/news/former-cardinals-coach-buddy-ryan-dies-at-85-17295861"
+    publisher: "Arizona Cardinals"
+  - title: "Matt Ryan career stats"
+    url: "https://www.nfl.com/players/matt-ryan/stats/career"
+    publisher: "NFL.com"
+  - title: "Matt Ryan Wins 2016 MVP Award"
+    url: "https://www.atlantafalcons.com/news/matt-ryan-wins-2016-mvp-award-18536573"
+    publisher: "Atlanta Falcons"
+  - title: "Nolan Ryan"
+    url: "https://baseballhall.org/hall-of-famers/ryan-nolan"
+    publisher: "National Baseball Hall of Fame"
+  - title: "Official Milwaukee Brewers Website"
+    url: "https://www.mlb.com/brewers"
+    publisher: "MLB.com"
+  - title: "The Official Site of the Milwaukee Bucks"
+    url: "https://www.nba.com/bucks/"
+    publisher: "Milwaukee Bucks"
+  - title: "Green Bay Packers Home"
+    url: "https://www.packers.com/"
+    publisher: "Green Bay Packers"
+  - title: "Wisconsin Badgers Official Athletics Website"
+    url: "https://uwbadgers.com/"
+    publisher: "Wisconsin Badgers"
 internalLinks:
   - href: "/october-calendars.html"
     label: "October 2026 printable calendar"
@@ -84,6 +138,13 @@ The 16 tiles, spelled out: Marc Bulger, Jared Goff, Matthew Stafford and Kurt Wa
 - **Green, Rams QBs, Past and Present:** Bulger, Goff, Stafford, Warner
 - **Blue, Associated With Joe Montana:** 16, 49ers, Joe Cool, Notre Dame
 - **Purple, ___ Ryan:** Bo, Buddy, Matt, Nolan
+
+Who they are, group by group:
+
+- **Yellow:** The Milwaukee Brewers play baseball, the Milwaukee Bucks basketball and the Green Bay Packers football, and Wisconsin stands for the Wisconsin Badgers, the state university's teams.
+- **Green:** Kurt Warner (1998 to 2003), Marc Bulger (2002 to 2009) and Jared Goff (2016 to 2020) played quarterback for the Rams, and Matthew Stafford has since 2021. Warner led the Rams to their first Super Bowl title, a 23-16 Super Bowl win over the Tennessee Titans that capped the 1999 season.
+- **Blue:** Joe Montana played quarterback for the 49ers from 1979 to 1992 in No. 16, came to them from Notre Dame, was called "Joe Cool" for staying calm late in games, and won four Super Bowls with them.
+- **Purple:** Bo Ryan coached Wisconsin's men's basketball team and entered the Naismith Basketball Hall of Fame in 2024. Buddy Ryan ran the defense of the 1985 Super Bowl champion Chicago Bears, then coached the Philadelphia Eagles (1986 to 1990) and Arizona Cardinals (1994 to 1995). Matt Ryan was the Atlanta Falcons' quarterback from 2008 to 2021 and was voted the league's best player for 2016. Nolan Ryan is a Hall of Fame pitcher whose 5,714 strikeouts are the all-time record.
 
 Also in the news Friday: [Brewers World Series parade: Friday, Oct. 30, time, route and rally](/news/brewers-world-series-parade-2026-friday-october-30-time-route-rally/).
 

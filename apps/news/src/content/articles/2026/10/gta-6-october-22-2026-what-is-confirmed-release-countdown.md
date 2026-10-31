@@ -1,10 +1,10 @@
 ---
 title: "GTA 6 Release Date Is Still Nov. 19: What Rockstar Has Confirmed and Every Date Until Launch"
 seoTitle: "GTA 6 Release Still Nov. 19: What's Confirmed"
-description: "Rockstar's Grand Theft Auto VI page still lists Nov. 19, 2026, as of Oct. 26. What is official: the $79.99 price, Nov. 12 pre-load and every date until launch."
+description: "Rockstar's Grand Theft Auto VI page still lists Nov. 19, 2026, as of Oct. 31. What is official: $79.99, Nov. 12 pre-load, a Dec. 11 score album and every date."
 type: news
 publishedAt: "2026-10-20T15:00:00-04:00"
-updatedAt: "2026-10-26T13:00:00-04:00"
+updatedAt: "2026-10-31T11:25:00-04:00"
 authors: [jordan-bennett]
 category: retail-dates
 keywords: ["GTA 6 October 22", "GTA 6 release date", "GTA 6 preload date", "GTA 6 news this week", "GTA 6 countdown"]
@@ -15,13 +15,13 @@ hero:
   title: "GTA 6: what is confirmed before the Nov. 19 launch"
   caption: "Grand Theft Auto VI launches Nov. 19, 2026, on PlayStation 5 and Xbox Series X|S. Pre-loading opens Nov. 12."
 summary:
-  - "Rockstar's Grand Theft Auto VI page still lists the Thursday, Nov. 19, 2026 launch as of Oct. 26. Rockstar posts most GTA VI news on Thursdays, most recently the Launch Trailer on Oct. 15."
+  - "Rockstar's Grand Theft Auto VI page still lists the Thursday, Nov. 19, 2026 launch as of Oct. 31. Its latest GTA VI news, on Thursday, Oct. 29, was a 30-track score album by Justice, out Dec. 11."
   - "Confirmed by Take-Two Interactive: launch on Thursday, Nov. 19, 2026, on PlayStation 5 and Xbox Series X|S for $79.99, or $99.99 for the Ultimate Edition."
   - "Digital pre-orders can pre-load from Nov. 12, the same day the boxed edition, which holds a download code and no disc, goes on sale."
   - "Take-Two reports quarterly results on Nov. 9, its last report before launch. Rockstar has not announced a PC version."
 faq:
   - q: "Did GTA 6 change its release date?"
-    a: "No. Rockstar's official Grand Theft Auto VI page still lists the Thursday, Nov. 19, 2026 launch and the $79.99 price as of Oct. 26. Rockstar posts most GTA VI news on Thursdays, so watch the Rockstar Newswire for any further reveals before launch."
+    a: "No. Rockstar's official Grand Theft Auto VI page still lists the Thursday, Nov. 19, 2026 launch as of Oct. 31, and Take-Two's $79.99 price is unchanged. Rockstar's last GTA VI post, on Oct. 29, announced the score album and did not touch the date."
   - q: "When does GTA 6 come out?"
     a: "Thursday, Nov. 19, 2026, on PlayStation 5 and Xbox Series X|S, according to Rockstar Games and Take-Two Interactive."
   - q: "When can I pre-load GTA 6?"
@@ -30,11 +30,21 @@ faq:
     a: "$79.99 for the standard edition and $99.99 for the Ultimate Edition in the U.S. Pre-orders and purchases made before Nov. 20 include the Vintage Vice City Pack, and digital pre-orders add a free month of GTA+, Rockstar's subscription."
   - q: "Does the GTA 6 physical edition come with a disc?"
     a: "No. The physical version contains a download code inside the box, and it goes on sale Nov. 12 so buyers can pre-load, Take-Two said."
+  - q: "When does the GTA 6 soundtrack come out?"
+    a: "There are two albums. Grand Theft Auto VI: The Album, 34 original songs made with Atlantic Records, arrives Nov. 19 with the game. Grand Theft Auto VI: Original Score, 30 tracks by the French duo Justice, follows on Friday, Dec. 11, on streaming services, CD and vinyl."
   - q: "Is GTA 6 coming to PC?"
     a: "Rockstar has not announced a PC version or date. The confirmed platforms are PlayStation 5 and Xbox Series X|S."
   - q: "What is GTA 6 rated?"
     a: "M for Mature 17+ by the Entertainment Software Rating Board, for blood and gore, intense violence, mature humor, nudity, strong language, strong sexual content and use of drugs and alcohol, with in-game purchases."
 sources:
+  - title: "Grand Theft Auto VI: Original Score by Justice"
+    url: "https://www.rockstargames.com/newswire/article/39ak8a12395591/grand-theft-auto-vi-original-score-by-justice"
+    publisher: "Rockstar Games Newswire"
+    date: "2026-10-29"
+  - title: "Announcing Grand Theft Auto VI: The Album, Coming November 19"
+    url: "https://www.rockstargames.com/newswire/article/7599a881942544/announcing-grand-theft-auto-vi-the-album-coming-november-19"
+    publisher: "Rockstar Games Newswire"
+    date: "2026-09-17"
   - title: "Take-Two Interactive Software, Inc. to Report Second Quarter Fiscal Year 2027 Results on Monday, November 9, 2026"
     url: "https://www.businesswire.com/news/home/20261013510921/en/"
     publisher: "Take-Two Interactive Software"
@@ -99,13 +109,11 @@ downloads:
 draft: false
 ---
 
-<p class="callout"><b>Updated Mon., Oct. 26, 2026.</b> Rockstar's Grand Theft Auto VI page still lists Nov. 19, 2026, for PlayStation 5 and Xbox Series X|S as of Oct. 26. For the launch time where you live, see our <a href="/news/gta-6-countdown-release-time-by-time-zone/">Grand Theft Auto VI countdown and release time by time zone</a>.</p>
-
-**Grand Theft Auto (GTA) VI is still set to launch Thursday, Nov. 19, 2026, on PlayStation 5 and Xbox Series X|S.** Rockstar's official game page still lists that date as of Oct. 26, and pre-loading opens a week earlier, on Nov. 12. The game has drawn attention on recent Thursdays, when Rockstar posted GTA VI news, most recently the Launch Trailer on Oct. 15. Rockstar has not said it follows a weekly schedule. Below is everything official, with every date until launch.
+**Grand Theft Auto (GTA) VI is still set to launch Thursday, Nov. 19, 2026, on PlayStation 5 and Xbox Series X|S.** Rockstar's official game page still lists that date as of Oct. 31, and pre-loading opens a week earlier, on Nov. 12. The newest official news came on Thursday, Oct. 29: a second soundtrack album, the game's original score by Justice, due Dec. 11. The Thursday before, Oct. 22, brought nothing. Rockstar has not said it follows a weekly schedule. Below is everything official, with every date until launch. For the hour the game unlocks where you live, see our [GTA 6 countdown and release time by time zone](/news/gta-6-countdown-release-time-by-time-zone/).
 
 ## What Rockstar and Take-Two have confirmed
 
-These come from Take-Two Interactive's pre-order announcement of June 24, 2026, and from Rockstar's official game page as of Oct. 26.
+These come from Take-Two Interactive's pre-order announcement of June 24, 2026, and from Rockstar's official game page as of Oct. 31.
 
 | Item | Confirmed detail |
 |---|---|
@@ -122,17 +130,31 @@ The Ultimate Edition adds premium vehicles, weapons, apparel and other items, Ta
 
 ## The Thursday pattern so far
 
-Rockstar's late-summer and fall announcements have mostly landed on Thursdays. The dated ones we could confirm on Rockstar's Newswire and the PlayStation Blog:
+Rockstar's late-summer and fall announcements have mostly landed on Thursdays, though not every Thursday. The dated ones we could confirm on Rockstar's Newswire and the PlayStation Blog:
 
 | Date | What came out |
 |---|---|
 | Thu., Aug. 27 | "An Extended Look" premiered on Netflix at 3 p.m. Eastern Time (ET), then on YouTube and the game's site at 9 p.m. ET |
 | Thu., Sept. 3 | Two Limited Edition DualSense controllers for PlayStation 5, $84.99 each, on sale Nov. 19 |
 | Thu., Sept. 10 | Controller pre-orders opened at 10 a.m. local time |
+| Thu., Sept. 17 | "Grand Theft Auto VI: The Album," 34 original tracks with Atlantic Records, out Nov. 19 |
 | Thu., Oct. 8 | The in-game radio stations, and a GTA 6 apparel collection at the Rockstar Store |
 | Thu., Oct. 15 | The Launch Trailer |
+| Thu., Oct. 22 | No GTA VI post on the Rockstar Newswire |
+| Thu., Oct. 29 | "Grand Theft Auto VI: Original Score" by Justice, out Dec. 11, and its single "Pusher" featuring Gesaffelstein |
 
-Rockstar also announced "Grand Theft Auto VI: The Album," made with Atlantic Records and released Nov. 19 alongside the game, and a collector's box called The Goodtime State, Vice City Collection. The Thursdays left before launch are Oct. 29, Nov. 5 and Nov. 12; the last is also pre-load day.
+Rockstar also sells a collector's box called The Goodtime State, Vice City Collection. The Thursdays left before launch are Nov. 5 and Nov. 12; the second is also pre-load day.
+
+## The GTA 6 score album by Justice
+
+Rockstar's Oct. 29 post names Justice, the Grammy-winning French duo of Gaspard Augé and Xavier de Rosnay, as composers of the game's adaptive score, which shifts with how players move through Vice City and Leonida. The 30-track album comes out Friday, Dec. 11, three weeks after the game, on streaming services, CD and vinyl. It includes "Flower in a Hurricane," the song from the Launch Trailer, with guest artists including Tame Impala and King Gizzard & The Lizard Wizard.
+
+| Album | Tracks | Release | Made with |
+|---|---|---|---|
+| Grand Theft Auto VI: The Album | 34 original songs | Thu., Nov. 19, with the game | Atlantic Records |
+| Grand Theft Auto VI: Original Score | 30 tracks plus digital bonus tracks | Fri., Dec. 11 | Justice |
+
+The September album announcement opened with six singles, from artists including Travis Scott, Morgan Wallen and Rauw Alejandro.
 
 ## What a Thursday reveal could and could not mean
 
@@ -144,13 +166,13 @@ If something does arrive, it will be on the Rockstar Newswire and the game's off
 
 | Date | What happens |
 |---|---|
-| Thu., Oct. 29 | Rockstar's usual news day; no reveal confirmed |
 | Sun., Nov. 1 | Clocks fall back one hour in the U.S. |
 | Thu., Nov. 5 | Thursday before results week |
 | Mon., Nov. 9 | Take-Two reports quarterly results after the market close; call at 4:30 p.m. ET |
 | Thu., Nov. 12 | Pre-loading opens for digital pre-orders; boxed edition on sale |
 | Thu., Nov. 19 | Launch on PlayStation 5 and Xbox Series X\|S; the album and the DualSense controllers also arrive |
 | Fri., Nov. 20 | Purchases from this day on no longer include the Vintage Vice City Pack |
+| Fri., Dec. 11 | "Grand Theft Auto VI: Original Score" by Justice on streaming, CD and vinyl |
 
 The Nov. 9 report covers the quarter that ended Sept. 30 and is Take-Two's last before launch. Thanksgiving falls a week after release, on Nov. 26; our [Thanksgiving 2026 guide](/news/why-thanksgiving-2026-is-november-26/) has what is closed that day.
 
@@ -158,7 +180,7 @@ The Nov. 9 report covers the quarter that ended Sept. 30 and is Take-Two's last 
 
 - **A PC version.** Rockstar has not announced one, and Take-Two's August lineup lists only PlayStation 5 and Xbox Series X|S. Some outlets have reported a later PC release based on unnamed sources; Rockstar has not commented on them.
 - **A start time for pre-loading or launch.** The official announcement gives dates only.
-- **Download size.** Check the PlayStation Store or Microsoft Store listing before Nov. 12, since the boxed edition also downloads the game.
+- **Download size.** Rockstar has not published one. Figures shared online in late October come from unofficial data-mining accounts, not from Rockstar or a console store. Check the PlayStation Store or Microsoft Store listing before Nov. 12, since the boxed edition also downloads the game.
 
 ## Plan the countdown
 

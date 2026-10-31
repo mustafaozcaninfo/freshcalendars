@@ -82,7 +82,7 @@ internalLinks:
     label: "printable weekly calendar"
   - href: "/when-is/thanksgiving/"
     label: "When is Thanksgiving?"
-related: [nba-cup-2026-schedule-dates-group-play-knockouts-final-indianapolis, lakers-schedule-november-2026-game-times-tv-nba-cup-printable, christmas-day-2026-games-nba-nfl-schedule-times-tv]
+related: [nba-cup-2026-schedule-dates-group-play-knockouts-final-indianapolis, lakers-schedule-november-2026-game-times-tv-nba-cup-printable, jalen-brunson-law-and-order-svu-episode-air-date-november-5-time-peacock]
 downloads:
   - group: "Knicks Schedule printables"
     title: "Knicks Schedule, November 2026"

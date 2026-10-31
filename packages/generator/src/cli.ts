@@ -1,4 +1,6 @@
 #!/usr/bin/env node
+// First: lets every command fall back to an installed Chromium when Playwright's own build is missing.
+import "./browser.js";
 import fs from "node:fs";
 import path from "node:path";
 import { generateAll, refreshEvergreen, refreshMeta, rollover, shutdown, verifyDist } from "./gen.js";

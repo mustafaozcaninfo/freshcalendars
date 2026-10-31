@@ -105,7 +105,7 @@ internalLinks:
     label: "February printable calendars"
   - href: "/holidays/"
     label: "Holiday dates by year"
-related: [what-calendar-year-is-the-same-as-2027, what-is-a-leap-year, find-day-of-week-for-any-date]
+related: [what-calendar-year-is-the-same-as-2027, what-is-a-leap-year, next-saturday-halloween-2037-halloween-day-of-week-every-year]
 draft: false
 ---
 

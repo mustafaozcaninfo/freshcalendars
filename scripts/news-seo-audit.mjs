@@ -106,7 +106,7 @@ check("01-ADS-LOAD", "Ads load at page load without blocking: no <script src> fo
     if (/<script[^>]+adsbygoogle\.js/.test(h)) return "render-path <script src> for adsbygoogle.js";
     if (!/<link rel="preconnect" href="https:\/\/pagead2\.googlesyndication\.com"/.test(h)) return "missing preconnect to pagead2.googlesyndication.com";
     if (!/\.ad-slot\{[^}]*min-height:\d/.test(h)) return "ad slots without a reserved min-height";
-    if (/ad-slot--top/.test(h) && /\.ad-slot:has\(ins\[data-ad-status="?unfilled"?\]\)\{display:none/.test(h)) return "top ad collapses when unfilled (shifts the H1: CLS)";
+    if (/ad-slot--top/.test(h) && /\.ad-slot:has\(ins\[data-ad-status="?unfilled"?\]\)\{[^}]*display:none/.test(h)) return "top ad collapses when unfilled (shifts the H1: CLS)";
     return null;
   }));
 check("01-GA-LOAD", "Google Analytics on every page, loaded after window load: no gtag <script src> in the HTML (CWV)", () =>
@@ -129,7 +129,8 @@ check("01-NEWSBAR", "Every page has the news bar: story search and crawlable lin
   }));
 check("01-H1-FIT", "Headlines use the full column: the calendar site's 14-16ch h1 cap is lifted on news pages; the breadcrumb shows the current page", () =>
   each(urls, (u, h) => {
-    if (!/\.news-main h1,\.news-main h2,\.news-main h3\{max-width:none/.test(h)) return "h1 max-width cap not lifted";
+    // Any declaration order: Astro 7's CSS minifier reorders properties inside a rule.
+    if (!/\.news-main h1,\.news-main h2,\.news-main h3\{[^}]*max-width:none/.test(h)) return "h1 max-width cap not lifted";
     if (/\.crumbs li:last-child\{display:none\}/.test(h)) return "breadcrumb hides the current page";
     return null;
   }));
@@ -558,7 +559,16 @@ check("10-PDF-LINK-CANONICAL", "Each printable PDF links to its story from the t
 // the HTML before printing (packages/generator/src/printCheck.ts); this holds every file to them.
 const { checkPrintPdf, PDF_LEGACY } = await import("./lib/pdf-print.mjs");
 const pdfPrint = new Map();
-for (const f of new Set(articleUrls.flatMap((u) => pdfLinks(html[u])))) if (existsSync(fileOf(f))) pdfPrint.set(f, await checkPrintPdf(fileOf(f)));
+{
+  // Eight at a time: one by one, the audit spent half its run waiting on the PDF parser.
+  const queue = [...new Set(articleUrls.flatMap((u) => pdfLinks(html[u])))].filter((f) => existsSync(fileOf(f)));
+  const results = new Map();
+  let next = 0;
+  await Promise.all(Array.from({ length: 8 }, async () => {
+    while (next < queue.length) { const f = queue[next++]; results.set(f, await checkPrintPdf(fileOf(f))); }
+  }));
+  for (const f of queue) pdfPrint.set(f, results.get(f)); // keep link order for the report
+}
 const legacyOf = (f) => Object.keys(PDF_LEGACY).find((k) => f.startsWith(`/news/downloads/${k}`));
 const printFails = (key, skip = () => false) => [...pdfPrint].filter(([f, r]) => r[key].length && !skip(f)).map(([f, r]) => `${f}: ${r[key].join("; ")}`);
 check("10-PDF-PAGE", "Printable PDFs are US Letter (612 x 792 pt, either way up); A4 or tabloid only when the file name ends in -a4 or -tabloid", () => printFails("page"));
@@ -591,8 +601,10 @@ check("11-DISCOVER-IMAGE", "og:image is at least 1200 px wide, over 300,000 pixe
   }));
 // ── 12 Unique heroes ───────────────────────────────────────────────────────
 // Discover and image search treat a repeated picture as a repeated page; every story gets its own.
-const { UNIQUE_SINCE, storyHeroes, heroProblems, duplicateHeroes } = await import("./lib/hero-hash.mjs");
+const { UNIQUE_SINCE, storyHeroes, heroProblems, duplicateHeroes, heroHash } = await import("./lib/hero-hash.mjs");
 const heroStories = storyHeroes(ARTICLES_SRC);
+// Fingerprint every hero at once (sharp decodes on its thread pool); the checks below reuse them.
+await Promise.all(heroStories.map((s) => heroHash(s.file)));
 const heroFails = [];
 for (const s of heroStories.filter((s) => s.published >= UNIQUE_SINCE)) for (const p of await heroProblems(s.slug, heroStories)) heroFails.push(`${s.slug}: ${p}`);
 check("12-HERO-UNIQUE", `Every story published since ${UNIQUE_SINCE} has its own hero: no illustrated scene or picture shared with another story`, () => heroFails);
