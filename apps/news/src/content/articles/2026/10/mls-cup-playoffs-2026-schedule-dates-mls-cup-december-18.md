@@ -74,7 +74,7 @@ internalLinks:
     label: "November 2026 printable calendar"
   - href: "/december-calendars.html"
     label: "December 2026 printable calendar"
-related: [nba-cup-2026-schedule-dates-group-play-knockouts-final-indianapolis, world-series-2026-schedule-game-times-tv-channel, ballon-dor-2026-date-time-by-time-zone-nominees-london]
+related: [nwsl-playoffs-2026-schedule-decision-day-quarterfinals-championship-november-21, nba-cup-2026-schedule-dates-group-play-knockouts-final-indianapolis, world-series-2026-schedule-game-times-tv-channel]
 downloads:
   - group: "MLS Cup Playoffs 2026 Schedule printables"
     title: "MLS Cup Playoffs 2026 Schedule"
