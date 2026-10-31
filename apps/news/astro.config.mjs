@@ -26,9 +26,29 @@ const cleanBuildLeftovers = {
           await rm(path.join(out, f), { recursive: true, force: true });
         }
       }
+      await pruneUnusedImages(out);
     },
   },
 };
+
+/**
+ * Astro copies every hero's original file into _astro and keeps a few variants no page links
+ * (about 1 MB a story). An image in _astro that no page, feed, sitemap, JSON or stylesheet names
+ * is never requested, so it is removed here instead of being synced to the server on every publish.
+ */
+async function pruneUnusedImages(out) {
+  const assets = path.join(out, "_astro");
+  const images = (await readdir(assets)).filter((f) => /\.(avif|webp|png|jpe?g|gif)$/i.test(f));
+  let text = "";
+  for (const f of await readdir(out, { recursive: true })) {
+    if (/\.(html|xml|xsl|json|css|js|txt|webmanifest)$/i.test(f)) text += await readFile(path.join(out, f), "utf8");
+  }
+  let removed = 0;
+  for (const f of images) {
+    if (!text.includes(f)) { await rm(path.join(assets, f)); removed++; }
+  }
+  if (removed) console.log(`[news] removed ${removed} unused image file(s) from _astro`);
+}
 
 /**
  * Fresh Calendars News — static Google News section served at /news/.
