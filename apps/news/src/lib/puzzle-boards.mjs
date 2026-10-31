@@ -6,6 +6,8 @@
  *
  * - A shortcut bar under the first paragraph: skip to the answer, yesterday's page, the game's hub.
  * - Hints in "hints"/"clues" sections become tap-to-reveal <details>, so a glance does not spoil.
+ *   Pips pages also get region-by-region hints at the end of that section: every region's rule,
+ *   and one value per region behind a tap.
  * - The solved board inside the spoiler section: Wordle tiles, Connections groups, the Strands
  *   board with its word paths, each Pips board with dominoes, the Letter Boxed square with the
  *   Times' route (plus the other two-word solutions in its word list), and the Spelling Bee
@@ -56,12 +58,12 @@ export function rehypePuzzleBoards() {
     const sections = sectionsOf(kids);
 
     // Hints first (indexes of later nodes do not change: <li> contents are rewritten in place).
-    for (const s of sections) if (s.h2 && HINTS.test(text(s.h2)) && !SPOILER.test(text(s.h2)) && !NOT_HINTS.test(text(s.h2))) {
-      for (const i of s.range) revealHints(kids[i]);
-    }
+    const hintSections = sections.filter((s) => s.h2 && HINTS.test(text(s.h2)) && !SPOILER.test(text(s.h2)) && !NOT_HINTS.test(text(s.h2)));
+    for (const s of hintSections) for (const i of s.range) revealHints(kids[i]);
 
     // Boards, inserted from the bottom up so earlier indexes stay valid.
     const inserts = [];
+    if (p.game === "pips" && hintSections[0]?.range.length) inserts.push([hintSections[0].range.at(-1) + 1, pipsRegionHints(data)]);
     const spoiler = sections.find((s) => s.h2 && SPOILER.test(text(s.h2)));
     if (spoiler) {
       spoiler.h2.properties = { ...spoiler.h2.properties, id: spoiler.h2.properties?.id ?? ANSWER_ID };
@@ -266,6 +268,60 @@ function pipsBoard(L, name) {
   const label = `Solved Pips ${name} board by ${L.constructors}: ${L.dominoes.length} dominoes on ${values.size} cells`;
   const svg = `<svg class="pz-svg" viewBox="-2 -2 ${cols * S + 4} ${rows * S + 4}" role="img" aria-label="${esc(label)}" font-family="Sora,sans-serif">${out.join("")}</svg>`;
   return figure("pz-pips", svg, `${name} board, solved: each colored region with its condition, and every domino in place. ${FROM_DATA}`);
+}
+
+const cellName = ([r, c]) => `R${r + 1}C${c + 1}`;
+const byPosition = (p, q) => p[0] - q[0] || p[1] - q[1];
+const NUMBER_WORDS = ["zero", "one", "two", "three", "four", "five", "six", "seven", "eight", "nine", "ten", "eleven", "twelve", "thirteen", "fourteen", "fifteen", "sixteen", "seventeen", "eighteen", "nineteen", "twenty"];
+
+/** A region's rule in words, as the answers section words it ("R2C3 and R3C3 add up to 9"). */
+function pipsRule(rg) {
+  const one = rg.indices.length === 1;
+  switch (rg.type) {
+    case "sum": return one ? `adds up to ${rg.target}` : `add up to ${rg.target}`;
+    case "less": return one ? `is less than ${rg.target}` : `total less than ${rg.target}`;
+    case "greater": return one ? `is more than ${rg.target}` : `total more than ${rg.target}`;
+    case "equals": return "are equal";
+    case "unequal": return "are all different";
+    default: return one ? "takes any value" : "take any value";
+  }
+}
+
+/**
+ * Region-by-region hints for every Pips level, from the saved data: each region's cells and rule
+ * stay visible, and a tap shows one value in it with its domino, or for a one-cell sum where its
+ * domino goes (a stronger nudge than the written hints, still short of the full solution). Regions are listed top to bottom, left to
+ * right by their first cell, so the list reads like the board.
+ */
+function pipsRegionHints(data) {
+  const out = [];
+  for (const lvl of ["easy", "medium", "hard"]) {
+    const L = data[lvl];
+    if (!L?.regions?.length) continue;
+    const name = lvl[0].toUpperCase() + lvl.slice(1);
+    const values = pipsValues(L);
+    const dominoAt = new Map(); // cell -> [domino, the other half's cell]
+    L.solution.forEach(([a, b], i) => { dominoAt.set(a.join(","), [L.dominoes[i], b]); dominoAt.set(b.join(","), [L.dominoes[i], a]); });
+    const regions = L.regions
+      .map((rg) => ({ ...rg, cells: [...rg.indices].sort(byPosition) }))
+      .sort((p, q) => byPosition(p.cells[0], q.cells[0]));
+    const items = regions.map((rg) => {
+      const names = rg.cells.map(cellName);
+      const list = names.length === 1 ? names[0] : names.length === 2 ? names.join(" and ") : `${names.slice(0, -1).join(", ")} and ${names.at(-1)}`;
+      const n = names.length;
+      const size = `${NUMBER_WORDS[n] ?? n} ${n === 1 ? "cell" : "cells"}`;
+      const cell = rg.cells[0];
+      const v = values.get(cell.join(","));
+      const [d, other] = dominoAt.get(cell.join(","));
+      // A one-cell sum already gives its value away, so its hint says where the domino goes.
+      const hint = n === 1 && rg.type === "sum"
+        ? `The ${v} comes from the ${d.join("-")} domino; its other half sits at ${cellName(other)}.`
+        : `${cellName(cell)} holds a ${v}, on the ${d.join("-")} domino.`;
+      return `<li><details class="pz-hint"><summary>${esc(`${list} ${pipsRule(rg)} (${size})`)}</summary><span>${esc(hint)}</span></details></li>`;
+    });
+    out.push(`<p><strong>${name}, region by region.</strong> Each rule is listed; tap a region to see one value in it.</p><ul class="pz-regions">${items.join("")}</ul>`);
+  }
+  return out.join("");
 }
 
 /** Domino pips for a value 0-6, drawn in a square half centered on (cx, cy). */

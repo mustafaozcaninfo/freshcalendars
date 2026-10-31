@@ -22,7 +22,7 @@ Routine D (`docs/PUZZLE-ROUTINES.md`) takes one item from this list per run, hig
 - [ ] **waffle-check** [code] Waffle joins the official answer check.
   Waffle's daily file (`wafflegame.net/daily1.txt`, `docs/PUZZLES.md`) serves today only, so the data must be saved the day it is out: add `--games waffle` to `news-puzzle-data.mjs` (decode as the doc says), a `CHECK.waffle`, save today's file, and add "save Waffle data first" to routine B's Waffle step in `docs/PUZZLE-ROUTINES.md` (the doc only; tell the owner the live routine prompt needs the same line). Pages before the first saved day are skipped with a `since` date, like the Mini.
 
-- [ ] **pips-region-hints** [code] Pips: tap-to-reveal hints per region, from the data.
+- [x] **pips-region-hints** [code] (done 2026-10-31) Pips: tap-to-reveal hints per region, from the data.
   Before the spoiler, for each level, a list of the regions with their rule ("Sum 8, 2 cells", "All equal, 3 cells") as hints, and a stronger hint per region giving one domino value, all generated from `pips` data at build time in `puzzle-boards.mjs`. No competitor gives region-by-region hints (competitor review, Oct. 30).
 
 - [ ] **strands-reveal** [code] Strands: the spangram one letter at a time.
