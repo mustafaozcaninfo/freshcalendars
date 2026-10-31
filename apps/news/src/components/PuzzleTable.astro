@@ -1,0 +1,48 @@
+---
+/**
+ * Date, number and link table of every daily page on a puzzle hub, above the story cards.
+ * Server-rendered, no answers in it (lib/puzzle-hub.ts), so the hub never spoils a puzzle.
+ */
+import { articlePath } from "../lib/seo";
+import { puzzleRows, shortDate, type HubStory } from "../lib/puzzle-hub";
+
+interface Props { stories: HubStory[]; name: string }
+const { stories, name } = Astro.props;
+const rows = puzzleRows(stories);
+const numbered = rows.some((r) => r.number !== null);
+const games = new Set(rows.map((r) => r.game)).size;
+---
+{rows.length > 0 && (
+  <section class="ptable" aria-labelledby="ptable-title">
+    <h2 id="ptable-title">Every {name} page by date</h2>
+    <p class="ptable-note">{rows.length} daily pages, newest first. Each link opens the hints; the answers stay in that page's spoiler section.</p>
+    <div class="ptable-wrap">
+      <table>
+        <thead>
+          <tr><th scope="col">Date</th>{numbered && <th scope="col">Puzzle number</th>}<th scope="col">Page</th></tr>
+        </thead>
+        <tbody>
+          {rows.map((r) => (
+            <tr>
+              <td><time datetime={r.date}>{shortDate(r.date)}</time></td>
+              {numbered && <td>{r.number !== null ? `#${r.number}` : ""}</td>}
+              <td><a href={articlePath(r.id)}>{games > 1 ? `${r.game} hints` : "Hints"}</a></td>
+            </tr>
+          ))}
+        </tbody>
+      </table>
+    </div>
+  </section>
+)}
+<style>
+  .ptable{margin:0 0 1.5rem}
+  .ptable h2{font-size:1.15rem;margin:0 0 .35rem}
+  .ptable-note{margin:0 0 .6rem;font-size:.92rem;color:var(--ink)}
+  .ptable-wrap{overflow-x:auto}
+  .ptable table{width:100%;border-collapse:collapse;font-size:.95rem}
+  .ptable th,.ptable td{text-align:left;padding:.45rem .6rem;border-bottom:1px solid var(--line)}
+  .ptable th{font-size:.78rem;text-transform:uppercase;letter-spacing:.06em;color:var(--ink)}
+  .ptable td:nth-child(2){font-variant-numeric:tabular-nums}
+  .ptable a{display:inline-block;padding:.35rem 0;font-weight:700;color:var(--ink-strong)}
+  .ptable a:hover,.ptable a:focus-visible{color:var(--focus)}
+</style>
