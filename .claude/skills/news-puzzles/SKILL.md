@@ -59,6 +59,7 @@ Two scheduled routines run this workflow every day (`docs/PUZZLE-ROUTINES.md`): 
    - Answers only in the spoiler section and the spoiler FAQ, never in the title, description, summary or hero.
    - The Mini: NYT serves the Mini for any past day and today (the next day's from about 10 p.m. ET), never days ahead, so save it with `pnpm news:puzzle-data <date> --games mini` once it is out; a missed day can be filled in later. Hint lines keep the shape `- **1-Across** (5 letters), *clue as printed*: hint.`; the check compares the quoted clue and the letter count with the data.
    - Letter Boxed: NYT publishes its data about two days ahead (`--games letterboxed`). The check compares the sides table, par, the dictionary size, the Times' solution, its route table (`| Word | F2, L1, … |`) and the warm-up words (each must be in the saved `dictionary` and not in the solution) with the data.
+   - Waffle (routine B): the game's daily file serves today only, so save it before writing the page (`pnpm news:puzzle-data <today> --games waffle`). The check compares the answer table (`| Across | Row 1 | Tuber |`), the hint lines' first and last letters, the FAQ answers, the solved and starting grids and the swap route (replayed on the starting grid) with the data. Pages before Oct. 31, 2026 have no data and are skipped.
    - Quote official wording exactly (group names, entries, clues). The writing audit skips that quoted text when it is capitalized as printed, but checks every word we write around it.
 
 4. **Hero**: add one row per page to `PUZZLE_HEROES` in `packages/generator/src/heroes5.ts` (vary the accent so no two match) and run `pnpm fc news-heroes5 --only <date-part>`. Look at one or two.
@@ -76,7 +77,7 @@ Two scheduled routines run this workflow every day (`docs/PUZZLE-ROUTINES.md`): 
 
 ## Checking existing dates ("are the Oct. 28 pages ready?")
 
-Run `pnpm news:puzzle-check <date-part>` (for example `october-28`). It lists any page that disagrees with the saved data. A page without saved data fails with the exact `news:puzzle-data` command to run. Games with no official data we can save (Quordle, Blossom, LinkedIn games, Connections: Sports Edition) are not in the check, nor yet Contexto and Waffle; follow `docs/PUZZLES.md` for their sources (two published solutions that agree, or today's data for the Mini).
+Run `pnpm news:puzzle-check <date-part>` (for example `october-28`). It lists any page that disagrees with the saved data. A page without saved data fails with the exact `news:puzzle-data` command to run. Games with no official data we can save (Quordle, Blossom, LinkedIn games, Connections: Sports Edition) are not in the check, nor yet Contexto; follow `docs/PUZZLES.md` for their sources (two published solutions that agree, or today's data for the Mini).
 
 ## Adding a game to the check and the boards
 
