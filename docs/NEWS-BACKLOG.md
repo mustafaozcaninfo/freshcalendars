@@ -28,7 +28,7 @@ Routine D (`docs/PUZZLE-ROUTINES.md`) takes one item from this list per run, hig
 - [ ] **strands-reveal** [code] Strands: the spangram one letter at a time.
   In the spangram hints, a nested tap-to-reveal that opens one more letter per tap (no JavaScript: nested `<details>`), generated from the data. Beebom has a letter-by-letter reveal; we have only first letter and length.
 
-- [ ] **sports-who-is-who** [content] Connections: Sports Edition: one line per group on who the names are, for the last 3 published days.
+- [x] **sports-who-is-who** [content] (done 2026-10-31) Connections: Sports Edition: one line per group on who the names are, for the last 3 published days.
   Add a short "Who they are" line per group to the 3 newest Sports Edition pages, each fact confirmed on a league, team or other authoritative page (cite it under `sources:`). Set `updatedAt`. Routine B writes new pages with this line from now on (skill rule added Oct. 30).
 
 - [ ] **bee-ranks** [content] Evergreen explainer: how Spelling Bee points, ranks and Genius work.

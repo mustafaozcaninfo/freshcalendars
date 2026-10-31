@@ -4,7 +4,7 @@ seoTitle: "Connections Sports Edition Hints Today, Oct. 29 (#766)"
 description: "Connections: Sports Edition #766 for Thursday, Oct. 29, 2026: a hint for each group, from college football to hockey, then all four answers and the traps."
 type: explainer
 publishedAt: "2026-10-29T14:30:00-04:00"
-updatedAt: "2026-10-29T14:30:00-04:00"
+updatedAt: "2026-10-31T06:48:00-04:00"
 authors: [news-desk]
 category: puzzles
 keywords: ["Connections Sports Edition hints today", "Connections Sports Edition answers", "Sports Connections October 29 2026", "Connections Sports Edition 766", "NYT sports connections"]
@@ -44,6 +44,39 @@ sources:
     url: "https://wdcnews6.com/nyt-connections-sports-edition-hints-and-answers-for-october-29-tips-to-solve-connections-766/"
     publisher: "WDC News 6"
     date: "2026-10-29"
+  - title: "LSU Tigers"
+    url: "https://www.secsports.com/school/louisiana-state-university"
+    publisher: "Southeastern Conference"
+  - title: "Georgia Bulldogs"
+    url: "https://www.secsports.com/school/university-of-georgia"
+    publisher: "Southeastern Conference"
+  - title: "Kentucky Wildcats"
+    url: "https://www.secsports.com/school/university-of-kentucky"
+    publisher: "Southeastern Conference"
+  - title: "Oklahoma Sooners"
+    url: "https://www.secsports.com/school/university-of-oklahoma"
+    publisher: "Southeastern Conference"
+  - title: "SEC grants membership to Oklahoma, Texas"
+    url: "https://www.secsports.com/article/31921323/sec-grants-membership-oklahoma-texas-starting-2025"
+    publisher: "Southeastern Conference"
+  - title: "Total QBR: An explainer"
+    url: "https://www.espn.com/blog/statsinfo/post/_/id/123701/how-is-total-qbr-calculated-we-explain-our-quarterback-rating"
+    publisher: "ESPN"
+  - title: "Anthony Davis"
+    url: "https://www.basketball-reference.com/players/d/davisan02.html"
+    publisher: "Basketball Reference"
+  - title: "Kevin Durant"
+    url: "https://www.basketball-reference.com/players/d/duranke01.html"
+    publisher: "Basketball Reference"
+  - title: "Paul George"
+    url: "https://www.basketball-reference.com/players/g/georgpa01.html"
+    publisher: "Basketball Reference"
+  - title: "Shai Gilgeous-Alexander"
+    url: "https://www.basketball-reference.com/players/g/gilgesh01.html"
+    publisher: "Basketball Reference"
+  - title: "Hockey's Positions"
+    url: "https://www.nhl.com/kraken/news/hockey-positions-explained-323011708"
+    publisher: "Seattle Kraken / NHL.com"
 internalLinks:
   - href: "/october-calendars.html"
     label: "October 2026 printable calendar"
@@ -84,6 +117,13 @@ The 16 tiles, spelled out: Louisiana State University (LSU), Oklahoma (OU), Geor
 - **Green, QB Stats, Abbreviated:** INT, QBR, TD, YDS
 - **Blue, Nicknames of NBA Stars:** AD, KD, PG-13, SGA
 - **Purple, Hockey Positions, Abbreviated:** C, G, LW, RW
+
+Who they are, group by group:
+
+- **Yellow:** Louisiana State (LSU), Oklahoma, Georgia and Kentucky each have a school page on the conference's own site. Oklahoma is the newest of the four, admitted together with Texas.
+- **Green:** QBR is ESPN's Total Quarterback Rating, a 0-to-100 measure of a quarterback's efficiency on every play he is part of, where about 50 is average. INT, TD and YDS are the box score's interceptions, touchdowns and yards.
+- **Blue:** AD is Anthony Davis, KD is Kevin Durant, PG-13 is Paul George and SGA is Shai Gilgeous-Alexander. Basketball Reference lists each nickname on the player's own page.
+- **Purple:** The center takes the faceoffs and sets up plays in the middle of the ice, the left and right wings usually work their own side, and the goaltender stays in the crease to stop shots.
 
 ## Why Thursday's traps worked
 
