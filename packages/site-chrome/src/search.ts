@@ -8,17 +8,20 @@ var calendars=months.map(function(m,i){return {t:m+' '+years[i]+' printable cale
 var aliases={gta:'grand theft auto',dst:'daylight saving',cps:'chicago public schools',nyc:'new york city',ssa:'social security',cola:'cost of living',nyse:'stock market',usps:'postal'};
 var index=calendars,loaded=false,loading=null,dismissed=false;
 function norm(s){return String(s||'').toLowerCase().normalize('NFD').replace(/[\\u0300-\\u036f]/g,'').replace(/[^a-z0-9]+/g,' ').trim();}
+/* Normalized once per entry, not on every keystroke: with thousands of stories that was the slow part. */
+function prep(x){x._t=norm(x.t);x._a=x._t+' '+norm(x.k)+' '+norm(x.c)+' '+norm(x.d);return x;}
+calendars.forEach(prep);
 function close(){dismissed=true;list.hidden=true;input.setAttribute('aria-expanded','false');}
 function render(){
  dismissed=false;
  var raw=norm(input.value),words=raw.split(' ').filter(Boolean).flatMap(function(w){return aliases[w]?aliases[w].split(' '):[w];});list.replaceChildren();
  if(!words.length){close();status.textContent='';return;}
- var matches=index.map(function(x,i){var title=norm(x.t),all=title+' '+norm(x.k)+' '+norm(x.c)+' '+norm(x.d);return words.every(function(w){return all.indexOf(w)>=0;})?{x:x,s:(title.indexOf(raw)===0?100:0)+words.filter(function(w){return title.indexOf(w)>=0;}).length*10-i/10000}:null;}).filter(Boolean).sort(function(a,b){return b.s-a.s;}).slice(0,8);
+ var matches=index.map(function(x,i){var title=x._t,all=x._a;return words.every(function(w){return all.indexOf(w)>=0;})?{x:x,s:(title.indexOf(raw)===0?100:0)+words.filter(function(w){return title.indexOf(w)>=0;}).length*10-i/10000}:null;}).filter(Boolean).sort(function(a,b){return b.s-a.s;}).slice(0,8);
  matches.forEach(function(m){var li=document.createElement('li'),a=document.createElement('a'),b=document.createElement('b'),small=document.createElement('small');a.href=m.x.u;b.textContent=m.x.t;small.textContent=m.x.c;a.append(b,small);li.append(a);list.append(li);});
  if(!matches.length){var li=document.createElement('li');li.className='search-empty';li.textContent='No matches. Try a month, holiday or topic.';list.append(li);}
  list.hidden=false;input.setAttribute('aria-expanded','true');status.textContent=matches.length+' results. Tab or arrow down to explore.';
 }
-function load(){if(loaded||loading)return;loading=fetch('/news/search/index.json').then(function(r){if(!r.ok)throw Error();return r.json();}).then(function(data){index=calendars.concat(data.filter(function(x){return typeof x.u==='string'&&x.u.startsWith('/news/');}));loaded=true;if(document.activeElement===input&&!dismissed)render();}).catch(function(){status.textContent='News search is unavailable. Calendar results are still available.';}).finally(function(){loading=null;});}
+function load(){if(loaded||loading)return;loading=fetch('/news/search/index.json').then(function(r){if(!r.ok)throw Error();return r.json();}).then(function(data){index=calendars.concat(data.filter(function(x){return typeof x.u==='string'&&x.u.startsWith('/news/');}).map(prep));loaded=true;if(document.activeElement===input&&!dismissed)render();}).catch(function(){status.textContent='News search is unavailable. Calendar results are still available.';}).finally(function(){loading=null;});}
 input.addEventListener('focus',function(){load();render();});input.addEventListener('input',render);
 input.addEventListener('keydown',function(e){if(e.key==='ArrowDown'){var a=list.querySelector('a');if(a){e.preventDefault();a.focus();}}if(e.key==='Escape')close();});
 list.addEventListener('keydown',function(e){var a=Array.from(list.querySelectorAll('a')),i=a.indexOf(document.activeElement);if(e.key==='ArrowDown'||e.key==='ArrowUp'){e.preventDefault();var n=i+(e.key==='ArrowDown'?1:-1);if(n<0)input.focus();else (a[n]||a[0]).focus();}if(e.key==='Escape'){close();input.focus();close();}});
