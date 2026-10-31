@@ -31,7 +31,7 @@ Routine D (`docs/PUZZLE-ROUTINES.md`) takes one item from this list per run, hig
 - [x] **sports-who-is-who** [content] (done 2026-10-31) Connections: Sports Edition: one line per group on who the names are, for the last 3 published days.
   Add a short "Who they are" line per group to the 3 newest Sports Edition pages, each fact confirmed on a league, team or other authoritative page (cite it under `sources:`). Set `updatedAt`. Routine B writes new pages with this line from now on (skill rule added Oct. 30).
 
-- [ ] **bee-ranks** [content] Evergreen explainer: how Spelling Bee points, ranks and Genius work.
+- [ ] **bee-ranks** [content] (blocked: no NYT page with the rank names and percentages could be read; help.nytimes.com and the game page refuse automated requests, and no two newsrooms print the ladder (only fan and gaming sites, which disagree on Genius), 2026-10-31) Evergreen explainer: how Spelling Bee points, ranks and Genius work.
   Only if NYT publishes the rank names and percentages on a page we can read (Help Center or the game's rules); otherwise hold the item and note why. Points rules (1 point for a four-letter word, one per letter above that, +7 per pangram) and Genius at 70% are already in `docs/PUZZLES.md`. A worked example table from one saved day (`apps/news/src/content/puzzles/bee/`). Link the daily Spelling Bee pages and the tracker.
 
 - [ ] **letterboxed-roundup-link** [code] Letter Boxed hub and daily pages link the month's roundup once it is live.
