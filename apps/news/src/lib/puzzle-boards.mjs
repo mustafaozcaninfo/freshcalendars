@@ -289,8 +289,8 @@ function pipsRule(rg) {
 
 /**
  * Region-by-region hints for every Pips level, from the saved data: each region's cells and rule
- * stay visible, and a tap shows one value in it with its domino (a stronger nudge than the
- * written hints, still short of the full solution). Regions are listed top to bottom, left to
+ * stay visible, and a tap shows one value in it with its domino, or for a one-cell sum where its
+ * domino goes (a stronger nudge than the written hints, still short of the full solution). Regions are listed top to bottom, left to
  * right by their first cell, so the list reads like the board.
  */
 function pipsRegionHints(data) {
@@ -300,8 +300,8 @@ function pipsRegionHints(data) {
     if (!L?.regions?.length) continue;
     const name = lvl[0].toUpperCase() + lvl.slice(1);
     const values = pipsValues(L);
-    const dominoAt = new Map();
-    L.solution.forEach(([a, b], i) => { dominoAt.set(a.join(","), L.dominoes[i]); dominoAt.set(b.join(","), L.dominoes[i]); });
+    const dominoAt = new Map(); // cell -> [domino, the other half's cell]
+    L.solution.forEach(([a, b], i) => { dominoAt.set(a.join(","), [L.dominoes[i], b]); dominoAt.set(b.join(","), [L.dominoes[i], a]); });
     const regions = L.regions
       .map((rg) => ({ ...rg, cells: [...rg.indices].sort(byPosition) }))
       .sort((p, q) => byPosition(p.cells[0], q.cells[0]));
@@ -312,8 +312,11 @@ function pipsRegionHints(data) {
       const size = `${NUMBER_WORDS[n] ?? n} ${n === 1 ? "cell" : "cells"}`;
       const cell = rg.cells[0];
       const v = values.get(cell.join(","));
-      const d = dominoAt.get(cell.join(","));
-      const hint = `${cellName(cell)} holds a ${v}, on the ${d.join("-")} domino.`;
+      const [d, other] = dominoAt.get(cell.join(","));
+      // A one-cell sum already gives its value away, so its hint says where the domino goes.
+      const hint = n === 1 && rg.type === "sum"
+        ? `The ${v} comes from the ${d.join("-")} domino; its other half sits at ${cellName(other)}.`
+        : `${cellName(cell)} holds a ${v}, on the ${d.join("-")} domino.`;
       return `<li><details class="pz-hint"><summary>${esc(`${list} ${pipsRule(rg)} (${size})`)}</summary><span>${esc(hint)}</span></details></li>`;
     });
     out.push(`<p><strong>${name}, region by region.</strong> Each rule is listed; tap a region to see one value in it.</p><ul class="pz-regions">${items.join("")}</ul>`);
