@@ -33,9 +33,16 @@ assets:
       - { when: "Sun., Nov. 1", what: "Do one kind thing for someone else", section: "Kindness" }
     note: "Source: Sanrio Company, Ltd., HELLO KITTY brand page and 2026 character ranking results (June 28, 2026); Sanrio.com, Nov. 1, 2021."
 hero:
-  src: ../../../../assets/news/hello-kitty-birthday-2026-sunday-november-1-sanrio-facts/hello-kitty-birthday-2026-sunday-november-1-sanrio-facts.jpg
-  alt: "Calendar page with Sunday, Nov. 1, 2026 circled for Hello Kitty's birthday 2026"
-  caption: "Hello Kitty's birthday falls on Sunday, Nov. 1, 2026; Sanrio says she was designed in 1974."
+  src: ../../../../assets/news/hello-kitty-birthday-2026-sunday-november-1-sanrio-facts/hello-kitty-birthday-2026-sunday-november-1-sanrio-facts.webp
+  alt: "Red apples carved into a cat face on a plate, for Hello Kitty's birthday 2026 on Nov. 1"
+  caption: "File photo of apples carved into a cat face. Sanrio says Hello Kitty stands five apples high; her birthday is Sunday, Nov. 1, 2026."
+  credit: "Photo: Микола Василечко / Wikimedia Commons, cropped, edited"
+  license:
+    name: "CC BY-SA 4.0"
+    url: "https://creativecommons.org/licenses/by-sa/4.0"
+    source: "https://commons.wikimedia.org/wiki/File:%D0%AF%D0%B1%D0%BB%D1%83%D0%BA%D0%B0_-_20251109_172927.jpg"
+    author: "Микола Василечко"
+    authorUrl: "https://commons.wikimedia.org/wiki/User:%D0%9C%D0%B8%D0%BA%D0%BE%D0%BB%D0%B0_%D0%92%D0%B0%D1%81%D0%B8%D0%BB%D0%B5%D1%87%D0%BA%D0%BE"
 downloads:
   - group: "Hello Kitty Birthday Party Checklist printables"
     title: "Hello Kitty Birthday Party Checklist, Nov. 1, 2026"
@@ -68,7 +75,7 @@ sources:
     publisher: "Sanrio Company, Ltd."
     date: "2026-06-28"
   - title: "Sanrio Celebrates Hello Kitty's Birthday with Kindness"
-    url: "https://www.sanrio.com/"
+    url: "https://www.sanrio.com/pages/sanrio-celebrates-hello-kittys-birthday-with-kindness"
     publisher: "Sanrio.com"
     date: "2021-11-01"
   - title: "Sanrio's Hello Kitty from New Line Cinema and Warner Bros. Pictures Animation will be distributed globally by Warner Bros. Pictures on July 21, 2028"
