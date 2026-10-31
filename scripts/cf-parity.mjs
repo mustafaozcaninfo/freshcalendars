@@ -47,7 +47,7 @@ const isText = (ct) => /text\/|xml|json|javascript|webmanifest|calendar/.test(ct
 
 /** Same page, either host: B's own origin and the moved files' URLs written as A writes them. */
 function normalize(text, origin) {
-  let t = text.split(origin).join(A);
+  let t = text.split(origin).join(A).split(CDN_B).join(CDN);
   t = t.split(`${CDN}/news/_astro/`).join("/news/_astro/").split(`${A}/news/_astro/`).join("/news/_astro/");
   t = t.split(`${CDN}/assets/`).join("/assets/").split(`${A}/assets/`).join("/assets/");
   // Astro names image variants by a hash that includes the URL prefix: compare the source image only.
@@ -61,7 +61,7 @@ function summarize(res, origin) {
   const redirect = res.status >= 300 && res.status < 400;
   const out = {
     status: res.status,
-    location: loc ? new URL(loc, origin + "/").href.split(origin).join(A) : "",
+    location: loc ? new URL(loc, origin + "/").href.split(origin).join(A).split(CDN_B).join(CDN) : "",
     // A redirect's own body type and cache header are not something a client uses.
     contentType: redirect ? "" : ct.replace(/\s/g, ""),
     cacheControl: redirect ? "" : res.headers.get("cache-control") ?? "",
@@ -152,6 +152,7 @@ const EXPLAINED = [
   { id: "dir-no-slash", why: "Directory URL without its slash: Workers redirects with 307 (nginx/Apache: 301 or 200)", test: (p, a, b) => b.status === 307 && b.location === A + p.replace(/\?.*$/, "") + "/" + (p.includes("?") ? p.slice(p.indexOf("?")) : "") },
   { id: "index-html", why: "/dir/index.html redirects (307) to /dir/ instead of serving a duplicate", test: (p, a, b) => /\/index\.html$/.test(p) && b.status === 307 },
   { id: "assets-cdn", why: "/assets/* moved to cdn.freshcalendars.com (R2) with a 301; the file is byte-identical there", test: (p, a, b) => p.startsWith("/assets/") && b.status === 301 && b.cdnBody && b.cdnBody === a.body },
+  { id: "assets-fixed", why: "/assets/ files the pages link (srcset sizes) that were missing on the old server: now 301 to the CDN copy (200)", test: (p, a, b) => p.startsWith("/assets/") && a.status === 404 && b.status === 301 && b.cdnStatus === 200 },
   { id: "php-gone", why: "PHP removed: /admin/ and the PHP contact endpoint are gone (404 / the Worker endpoint)", test: (p) => /^\/(admin\/|api\/contact\.php)/.test(p) },
   { id: "ics-type", why: "Calendar files (.ics) sent as text/calendar instead of application/octet-stream, so phones offer to add the events", fields: ["contentType"], test: (p, a, b) => p.endsWith(".ics") && b.contentType === "text/calendar" },
   { id: "html-suffix-of-dir", why: "/x.html where /x/ is a page: the asset router answers 307 to /x/ (nginx: 404)", test: (p, a, b) => /\.html$/.test(p) && a.status === 404 && b.status === 307 && b.location === A + p.replace(/\.html$/, "/") },

@@ -146,9 +146,9 @@ async function verifyCacheHeaders() {
   } else {
     const m = cc.match(/max-age=(\d+)/i);
     const age = m ? Number(m[1]) : 0;
-    // Monthly SSG: browser ≥7d, edge via CDN-Cache-Control ≥31d
-    if (age < 604800) fail(`HTML browser max-age too low (${age}s); want ≥604800 (7d)`);
-    else ok(`HTML browser max-age ${age}s (≥7d)`);
+    // Browsers keep a page 5 minutes so a fix reaches returning visitors fast (cloudflare/assemble.mjs).
+    if (age < 300) fail(`HTML browser max-age too low (${age}s); want ≥300`);
+    else ok(`HTML browser max-age ${age}s (≥300)`);
   }
   if (cdnCc) {
     const m = cdnCc.match(/max-age=(\d+)/i);
