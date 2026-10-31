@@ -55,7 +55,7 @@ faq:
   - q: "What time is Man Utd vs Aston Villa?"
     a: "Sunday, Nov. 8, 2026 at 4:30pm UK time at Old Trafford, on Sky Sports, per the Premier League. That is 11:30 a.m. ET or 8:30 a.m. PT, as listed by NBC Sports for ET."
   - q: "Which Premier League games are on TV in the UK this weekend?"
-    a: "The Premier League lists Sky Sports for seven of the ten matches and Turner Network Television (TNT) Sports for Leeds United v Tottenham Hotspur. Arsenal v Hull City and Fulham v Newcastle United have no UK TV broadcaster listed by the Premier League."
+    a: "The Premier League lists Sky Sports for seven of the ten matches and TNT Sports for Leeds United v Tottenham Hotspur. Arsenal v Hull City and Fulham v Newcastle United have no UK TV broadcaster listed by the Premier League."
   - q: "Are all Premier League games on US TV?"
     a: "NBC Sports says that in the USA you can watch all 380 Premier League games in 2026-27 across NBC, USA and Peacock. It has not yet listed a network for each match."
 sources:
@@ -112,7 +112,7 @@ From this weekend the UK is 5 hours ahead of ET, because the Premier League list
 | Day | Match | Ground | UK (GMT) | ET | PT | UK channel |
 |---|---|---|---|---|---|---|
 | Fri., Nov. 6 | Everton v Coventry City | Hill Dickinson Stadium | 8pm | 3 p.m. | 12 p.m. | Sky Sports |
-| Sat., Nov. 7 | Leeds United v Tottenham Hotspur | Elland Road | 12:30pm | 7:30 a.m. | 4:30 a.m. | TNT Sports |
+| Sat., Nov. 7 | Leeds United v Tottenham Hotspur | Elland Road | 12:30pm | 7:30 a.m. | 4:30 a.m. | Turner Network Television (TNT) Sports |
 | Sat., Nov. 7 | Arsenal v Hull City | Emirates Stadium | 3pm | 10 a.m. | 7 a.m. | None listed |
 | Sat., Nov. 7 | Fulham v Newcastle United | Craven Cottage | 3pm | 10 a.m. | 7 a.m. | None listed |
 | Sat., Nov. 7 | Nottingham Forest v Manchester City | The City Ground | 5:30pm | 12:30 p.m. | 9:30 a.m. | Sky Sports |
