@@ -88,7 +88,7 @@ internalLinks:
     label: "December 2026 printable calendar"
   - href: "/when-is/daylight-savings/"
     label: "When does daylight saving time end"
-related: [november-2026-meteor-showers-taurids-leonids, supermoon-2026-beaver-moon-cold-moon-geminids-solstice, moon-phase-tonight-october-27-november-2026-moon-calendar]
+related: [november-2026-meteor-showers-taurids-leonids, northern-lights-forecast-tonight-halloween-2026-noaa-g1-storm-watch-november-dates, moon-phase-tonight-october-27-november-2026-moon-calendar]
 downloads:
   - group: "November 2026 Night Sky Calendar printables"
     title: "November 2026 Night Sky Calendar"

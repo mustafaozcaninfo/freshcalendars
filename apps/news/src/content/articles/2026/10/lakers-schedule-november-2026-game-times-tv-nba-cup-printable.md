@@ -79,7 +79,7 @@ internalLinks:
     label: "October 2026 printable calendar"
   - href: "/printable-weekly-calendar.html"
     label: "printable weekly calendar"
-related: [nba-cup-2026-schedule-dates-group-play-knockouts-final-indianapolis, denver-nuggets-schedule-november-2026-game-times-tv-mexico-city-printable, christmas-day-2026-games-nba-nfl-schedule-times-tv]
+related: [nba-cup-2026-schedule-dates-group-play-knockouts-final-indianapolis, golden-state-warriors-schedule-november-2026-game-times-tv-nba-cup-printable, christmas-day-2026-games-nba-nfl-schedule-times-tv]
 downloads:
   - group: "Lakers Schedule printables"
     title: "Lakers Schedule, November 2026"

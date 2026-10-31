@@ -4,7 +4,7 @@ seoTitle: "Daylight Saving Time Ends Nov. 1, 2026: Fall Back Guide"
 description: "Clocks fall back one hour at 2 a.m. on Sunday, Nov. 1, 2026. The House voted for permanent DST in July, but the Senate has not acted. What changes and when."
 type: news
 publishedAt: "2026-10-17T16:00:00-04:00"
-updatedAt: "2026-10-29T19:50:00-04:00"
+updatedAt: "2026-10-31T01:45:00-04:00"
 authors: [jordan-bennett]
 category: time-change
 keywords: ["daylight saving time ends 2026", "fall back November 1 2026", "Sunshine Protection Act 2026", "permanent daylight saving time", "clocks change 2026"]
@@ -72,7 +72,7 @@ draft: false
 related: [halloween-2026-saturday-sunset-trick-or-treat-times, daylight-saving-time-halloween-2026-clocks-fall-back-night-after-every-year, clock-changes-2027-when-does-daylight-saving-time-start-again-march-14]
 ---
 
-<p class="callout"><b>Last updated Oct. 29, 2026, 7:50 p.m. ET.</b> Searches for the Sunshine Protection Act jumped this week, so we checked again: the House Clerk's record still shows the July 14 House vote, and we found no Senate vote, so the bill is not law. Clocks still go back one hour at 2 a.m. local time this Sunday, Nov. 1; set them back before bed on Saturday, Oct. 31.</p>
+<p class="callout"><b>Tonight: clocks fall back.</b> At 2 a.m. local time on Sunday, Nov. 1, 2026, clocks go back one hour to 1 a.m., so set them back before bed on Saturday, Oct. 31. Phones and other connected devices change on their own. Our last check of the House Clerk record (Oct. 29) found the July 14 House vote on the Sunshine Protection Act and no Senate vote, so the bill is not law and the change goes ahead.</p>
 
 Daylight saving time ends at **2:00 a.m. local time on Sunday, Nov. 1, 2026**, when clocks in most of the United States move back one hour to 1:00 a.m. The change goes ahead even though the House of Representatives voted in July to make daylight saving time permanent: that bill, the Sunshine Protection Act, is still waiting for the Senate, and no Senate vote can happen before Nov. 1.
 
