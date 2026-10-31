@@ -4,6 +4,7 @@ seoTitle: "New Year's Day 2027: What's Closed and Open"
 description: "New Year's Day, Friday, Jan. 1, 2027, is a federal holiday, per the Office of Personnel Management (OPM). See which offices, banks, markets and stores close."
 type: news
 publishedAt: "2026-10-30T15:49:00-04:00"
+updatedAt: "2026-10-31T00:25:00-04:00"
 authors: [alex-morgan]
 category: holidays
 keywords: ["what's closed on new year's day 2027", "is mail delivered on new year's day", "stock market new year's eve 2026", "new year's eve 2026 closures"]
@@ -43,6 +44,10 @@ faq:
   - q: "Is Dec. 31 a federal holiday?"
     a: "No. The Office of Personnel Management (OPM) lists only Friday, Jan. 1, 2027, as New Year's Day."
 sources:
+  - title: "Store Holiday Hours"
+    url: "https://corporate.homedepot.com/news/company/store-holiday-hours-home-depot"
+    publisher: "The Home Depot"
+    date: "2026-03-30"
   - title: "Federal Holidays"
     url: "https://www.opm.gov/policy-data-oversight/pay-leave/federal-holidays/"
     publisher: "U.S. Office of Personnel Management"
@@ -88,11 +93,29 @@ assets:
       - ["Whole Foods Market", "Many stores open modified hours both days; check your store."]
       - ["Walgreens (2025-26 hours)", "Stores open; pharmacy hours may vary. 2026-27 not confirmed here."]
       - ["Walmart, Target, Kroger, CVS, Trader Joe's, Aldi", "Not yet announced; check the store locator."]
-      - ["Home Depot, Lowe's, Starbucks, UPS, FedEx", "Not yet announced; check the store locator."]
-    note: "Source: Office of Personnel Management, U.S. Postal Service, Federal Reserve Board, NYSE, Securities Industry and Financial Markets Association, Costco, Whole Foods Market."
+      - ["Home Depot", "Dec. 31: closes 6 p.m. Jan. 1: 9 a.m. to 8 p.m."]
+      - ["Lowe's, Starbucks, UPS, FedEx", "Not yet announced; check the store locator."]
+    note: "Source: Office of Personnel Management, U.S. Postal Service, Federal Reserve Board, NYSE, Securities Industry and Financial Markets Association, Costco, Whole Foods Market, The Home Depot."
     inkSaver: true
     description: "One-page checklist of what is open and closed on New Year's Eve, Dec. 31, 2026, and New Year's Day, Jan. 1, 2027."
     alt: "Printable checklist of New Year's Eve and New Year's Day 2027 closures"
+downloads:
+  - group: "New Year's Eve and Day 2027 Closures printables"
+    title: "New Year's Eve and Day 2027 Closures"
+    description: "One-page checklist of what is open and closed on New Year's Eve, Dec. 31, 2026, and New Year's Day, Jan. 1, 2027."
+    preview: ../../../../assets/news/new-years-2027/new-years-eve-day-2027-closures.png
+    alt: "Printable checklist of New Year's Eve and New Year's Day 2027 closures"
+    pdf: "/news/downloads/new-years-2027/new-years-eve-day-2027-closures.pdf"
+    png: "/news/downloads/new-years-2027/new-years-eve-day-2027-closures.png"
+    pages: 1
+  - group: "New Year's Eve and Day 2027 Closures printables"
+    title: "New Year's Eve and Day 2027 Closures (ink saver)"
+    description: "One-page checklist of what is open and closed on New Year's Eve, Dec. 31, 2026, and New Year's Day, Jan. 1, 2027. Ink-saver version."
+    preview: ../../../../assets/news/new-years-2027/new-years-eve-day-2027-closures-ink.png
+    alt: "Printable checklist of New Year's Eve and New Year's Day 2027 closures, ink-saver version"
+    pdf: "/news/downloads/new-years-2027/new-years-eve-day-2027-closures-ink.pdf"
+    png: "/news/downloads/new-years-2027/new-years-eve-day-2027-closures-ink.png"
+    pages: 1
 ---
 
 **New Year's Day falls on Friday, Jan. 1, 2027, and the Office of Personnel Management (OPM) lists it as a federal holiday, so federal offices are closed.** New Year's Eve, Thursday, Dec. 31, 2026, is not a federal holiday. For many people the holiday makes a three-day weekend, Friday, Jan. 1, through Sunday, Jan. 3. The table below puts mail, banks, markets and stores side by side for both days; the date itself is covered on our [New Year's Day](/when-is/new-years-day/) and [New Year's Eve](/when-is/new-years-eve/) pages.
@@ -111,7 +134,8 @@ assets:
 | Whole Foods Market | Many stores open modified hours | Many stores open modified hours |
 | Walgreens (2025-26 hours, last year) | Stores open; pharmacy hours may vary | Stores open; pharmacy hours may vary |
 | Walmart, Target, Kroger, CVS, Trader Joe's, Aldi | Not yet announced; check the store locator | Not yet announced; check the store locator |
-| Home Depot, Lowe's, Starbucks, UPS, FedEx | Not yet announced; check the store locator | Not yet announced; check the store locator |
+| Home Depot | Closes 6 p.m. | Open 9 a.m. to 8 p.m. |
+| Lowe's, Starbucks, UPS, FedEx | Not yet announced; check the store locator | Not yet announced; check the store locator |
 
 A printable version of these rows, "New Year's Eve and Day 2027 closures," is in the downloads for this story.
 
@@ -133,6 +157,6 @@ The Federal Reserve Board's holiday list for 2027 includes "New Year's Day, Janu
 
 Costco's customer service page lists New Year's Day among the days its U.S. warehouses are closed; our [Costco holiday hours and closures](/news/costco-holiday-hours-closures-2026-2027/) story has the full list. Whole Foods Market says "many of our stores are open for modified hours on Thanksgiving, Christmas Eve, New Year's Eve and New Year's Day," so its hours depend on the store.
 
-Walgreens is last year's data only. Its 2025-26 holiday hours page said stores were open on New Year's Eve and New Year's Day, with pharmacy hours that may vary. Walmart, Target, Kroger, CVS, Trader Joe's, Aldi, Home Depot, Lowe's, Starbucks, UPS and FedEx have not announced 2026-27 hours, so use each store locator closer to the date. The same question for the previous holiday is answered in our [Christmas Eve and Christmas Day 2026 store hours](/news/christmas-eve-christmas-day-2026-store-hours/) story, and the federal calendar for the year is in [federal holidays 2027 and observed dates](/news/federal-holidays-2027-observed-dates-list/).
+Walgreens is last year's data only. Its 2025-26 holiday hours page said stores were open on New Year's Eve and New Year's Day, with pharmacy hours that may vary. Home Depot's 2026 holiday hours page lists New Year's Eve, Thursday, Dec. 31, with a 6 p.m. close and New Year's Day, Friday, Jan. 1, 2027, from 9 a.m. to 8 p.m.; it notes that times can vary by location. Walmart, Target, Kroger, CVS, Trader Joe's, Aldi, Lowe's, Starbucks, UPS and FedEx have not announced 2026-27 hours, so use each store locator closer to the date. The same question for the previous holiday is answered in our [Christmas Eve and Christmas Day 2026 store hours](/news/christmas-eve-christmas-day-2026-store-hours/) story, and the federal calendar for the year is in [federal holidays 2027 and observed dates](/news/federal-holidays-2027-observed-dates-list/).
 
 Plan the first week of the year on our [January printable calendars](/january-calendars.html).

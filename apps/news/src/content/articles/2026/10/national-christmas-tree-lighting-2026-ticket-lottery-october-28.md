@@ -4,7 +4,7 @@ seoTitle: "National Christmas Tree Lighting 2026: Ticket Lottery Dates"
 description: "The National Park Service (NPS) free National Christmas Tree ticket lottery is open now through 3 p.m. Eastern Time (ET) Nov. 4; the ceremony is Dec. 3."
 type: news
 publishedAt: "2026-10-25T15:19:00-04:00"
-updatedAt: "2026-10-28T16:12:00-04:00"
+updatedAt: "2026-10-31T00:25:00-04:00"
 authors: [alex-morgan]
 category: holidays
 keywords: ["National Christmas Tree lighting 2026", "National Christmas Tree tickets lottery", "National Christmas Tree lighting date", "Capitol Christmas Tree 2026"]
@@ -39,7 +39,7 @@ faq:
   - q: "When will winners be told?"
     a: "The NPS says lottery winners will be notified on Thursday, Nov. 12."
   - q: "Where can I watch if I do not win tickets?"
-    a: "The National Park Foundation says the ceremony will premiere on its YouTube channel and that more media partners will be announced soon. A 2026 television broadcaster is not yet announced."
+    a: "The National Park Foundation says the ceremony will premiere nationwide on Saturday, Dec. 5 on its YouTube channel and on other national and local media channels. A 2026 television broadcaster is not yet named."
   - q: "Is the U.S. Capitol Christmas Tree the same event?"
     a: "No. The Capitol tree is a separate event. Its 2026 lighting date is not yet announced; in 2025 the Architect of the Capitol listed the ceremony for Tuesday, Dec. 2 at 5 p.m. on the West Front Lawn."
 sources:
@@ -118,7 +118,7 @@ The NPS says each winner may receive up to five tickets. It also says there is n
 
 ## What time is the ceremony and how can I watch?
 
-The ceremony start time is not yet announced. The National Park Foundation says the ceremony will premiere on the National Park Foundation YouTube channel and that it will announce more media partners soon. A 2026 television broadcaster is not yet announced. Check [thenationaltree.org](https://www.thenationaltree.org/) for updates.
+The ceremony start time is not yet announced. The National Park Foundation says the Dec. 3 ceremony "will premiere nationwide on December 5," a Saturday, on the National Park Foundation's YouTube channel and on other national and local media channels, and it tells viewers to check local listings. A 2026 television broadcaster is not yet named. Check [thenationaltree.org](https://www.thenationaltree.org/) for updates.
 
 ## Is the U.S. Capitol Christmas Tree the same event?
 

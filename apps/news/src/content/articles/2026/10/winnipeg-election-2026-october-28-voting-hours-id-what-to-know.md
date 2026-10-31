@@ -4,7 +4,7 @@ seoTitle: "Winnipeg Election 2026: Voting Hours and ID, Oct. 28"
 description: "Winnipeg votes Wednesday, Oct. 28, 2026, 8 a.m. to 8 p.m. Central Time (CT), says the City. What identification (ID) to bring and the hours in other time zones."
 type: news
 publishedAt: "2026-10-28T00:02:00-04:00"
-updatedAt: "2026-10-30T00:45:00-04:00"
+updatedAt: "2026-10-31T00:25:00-04:00"
 authors: [alex-morgan]
 category: elections
 keywords: ["Winnipeg election 2026", "Winnipeg election day October 28", "Winnipeg voting hours", "what ID do I need to vote in Winnipeg"]
@@ -44,7 +44,7 @@ assets:
     description: "One-page Winnipeg Election Day checklist for Oct. 28, 2026: ID to bring, how to find your voting place and the 8 a.m. to 8 p.m. hours."
     alt: "Winnipeg Election Day checklist printable for Oct. 28, 2026 with ID, voting place and poll hours sections"
 summary:
-  - "Scott Gillingham was re-elected mayor with 39.8% (80,206 votes) on unofficial results from all 245 tabulators, ahead of Kevin Klein at 20.7%, Global News and the Canadian Broadcasting Corporation (CBC) reported."
+  - "Scott Gillingham was re-elected mayor with 80,206 votes, ahead of Kevin Klein with 41,703, on the City of Winnipeg's official results page; Global News and the Canadian Broadcasting Corporation (CBC) reported 39.8% and 20.7% on unofficial results."
   - "Winnipeg voting places are open 8 a.m. to 8 p.m. Central Time on Wednesday, Oct. 28, 2026, which is 9 a.m. to 9 p.m. Eastern Time."
   - "The City of Winnipeg requires every voter to show proof of name and current address; one option is two original pieces of authorized ID."
   - "Winnipeg ballots carry mayor, councillor and school trustee races."
@@ -64,6 +64,9 @@ sources:
     url: "https://globalnews.ca/news/12122725/election-day-winnipeg-2026/"
     publisher: "Global News"
     date: "2026-10-29"
+  - title: "2026 Election Official Results"
+    url: "https://www.winnipeg.ca/city-governance/wards-elections/2026-election/official-results"
+    publisher: "City of Winnipeg"
   - title: "Wards & elections | City of Winnipeg"
     url: "https://www.winnipeg.ca/elections"
     publisher: "City of Winnipeg"
@@ -149,8 +152,8 @@ Yes. The Province of Manitoba says the next general municipal election is Wednes
 
 The City says overall voter turnout for the 2022 Municipal and School Boards Election was 37.5%, with 195,530 voters casting ballots. The 2022 Election Day was Oct. 26, 2022. That figure is last election's baseline, not a 2026 number.
 
-## When will results be posted?
+## What are the official Winnipeg mayor results?
 
-The City has not published an election-night results time on the election pages we checked. Check [winnipeg.ca/elections](https://www.winnipeg.ca/elections) after voting places close.
+The City's [2026 Election Official Results](https://www.winnipeg.ca/city-governance/wards-elections/2026-election/official-results) page lists Scott Gillingham as elected with 80,206 votes. The next three are Kevin Klein (41,703), Noah Redden (39,962) and Mike Vogiatzakis (19,463). The page gives no turnout figure or posting date, and council and school trustee results are on the same page.
 
 Print the one-page checklist below and tick off your ID, your voting place and the hours. Mark the week on our [October 2026 printable calendar](/october-calendars.html) and look ahead on the [November 2026 printable calendar](/november-calendars.html). For other Canadian dates, see [Remembrance Day 2026](/news/remembrance-day-2026-canada-statutory-holiday-remembrance-sunday-uk/) and [Canada's 2027 statutory holidays](/news/canada-statutory-holidays-2027-federal-general-holidays/). For U.S. poll hours, see [what time polls close on Election Day 2026](/news/what-time-do-polls-close-election-day-2026/).
