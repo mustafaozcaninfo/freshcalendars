@@ -61,7 +61,7 @@ internalLinks:
     label: "November 2026 printable calendar"
   - href: "/printable-weekly-calendar.html"
     label: "printable weekly calendar"
-related: [lord-mayors-show-2026-date-time-route-november-14, bonfire-night-2026-thursday-november-5-fireworks-rules, remembrance-day-2026-canada-statutory-holiday-remembrance-sunday-uk]
+related: [lord-mayors-show-2026-date-time-route-november-14, christmas-jumper-day-2026-thursday-10-december-planner, remembrance-day-2026-canada-statutory-holiday-remembrance-sunday-uk]
 downloads:
   - group: "Children in Need 2026 Fundraising Planner printables"
     title: "Children in Need 2026 Fundraising Planner"

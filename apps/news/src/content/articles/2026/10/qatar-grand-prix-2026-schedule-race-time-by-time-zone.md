@@ -62,7 +62,7 @@ internalLinks:
     label: "November 2026 printable calendar"
   - href: "/december-calendars.html"
     label: "December 2026 printable calendar"
-related: [las-vegas-grand-prix-2026-schedule-race-time-by-time-zone, sao-paulo-grand-prix-2026-schedule-race-time-by-time-zone, mexico-city-grand-prix-2026-schedule-race-time-by-time-zone]
+related: [las-vegas-grand-prix-2026-schedule-race-time-by-time-zone, sao-paulo-grand-prix-2026-schedule-race-time-by-time-zone, abu-dhabi-grand-prix-2026-schedule-race-time-by-time-zone]
 assets:
   overlay: true
   kicker: "F1 Qatar Grand Prix · Nov. 29"
