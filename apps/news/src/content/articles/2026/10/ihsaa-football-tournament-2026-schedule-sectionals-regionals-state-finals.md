@@ -51,7 +51,7 @@ internalLinks:
     label: "October 2026 printable calendar"
   - href: "/when-is/thanksgiving/"
     label: "When is Thanksgiving?"
-related: [college-football-games-today-october-30-2026, thanksgiving-football-schedule-2026-nfl-college-games, college-football-week-10-schedule-2026-halloween-top-25-game-times-tv]
+related: [ohsaa-football-playoffs-2026-schedule-regional-dates-state-finals-canton, thanksgiving-football-schedule-2026-nfl-college-games, college-football-week-10-schedule-2026-halloween-top-25-game-times-tv]
 assets:
   overlay: true
   kicker: "IHSAA football · Nov. 27-28"
