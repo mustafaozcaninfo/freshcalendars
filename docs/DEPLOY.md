@@ -49,11 +49,26 @@ Worker secrets (`wrangler secret put`): `TURNSTILE_SECRET` (widget `freshcalenda
 and SPF records of the apex are untouched). Every message is also stored in
 `freshcalendars-state/contact/YYYY-MM/`.
 
+## Cloudflare settings (Free plan, zone freshcalendars.com)
+
+Checked and set on 2026-10-31. Change them in the dashboard only on purpose, and update this table.
+
+| Area | Setting |
+|---|---|
+| SSL/TLS | Full (strict), Always Use HTTPS, HSTS 6 months with subdomains (no preload), TLS 1.2 minimum, TLS 1.3 with 0-RTT, HTTP/3, ECH |
+| DNS | DNSSEC on (DS record at Cloudflare Registrar); apex and `www` A records still point at the VPS for the rollback window, but the Worker route serves the apex and `www` 301s in a zone rule first |
+| Mail | apex MX, SPF and DKIM are Zoho's, never edit them; Email Routing records only on `notify` (the zone-level Email Routing page says "misconfigured" because the apex MX is Zoho's, which is expected) |
+| Security | Cloudflare Free Managed Ruleset deployed, security level medium, browser integrity check on, Bot Fight Mode off and AI crawlers allowed (both on purpose: they would challenge feed readers and AI search), one rate limit rule: 3 contact-form posts per 10 s per IP |
+| Cache | tiered cache (smart topology) on; cache rule: `cdn.freshcalendars.com` 31 days at the edge. The two apex cache rules only matter if the route is removed (rollback); Worker static assets have their own cache and every deploy replaces them |
+| Speed | Brotli on; Rocket Loader, minify, email obfuscation, Speed Brain, Polish off (Workers assets are already minified, and Polish is a paid feature) |
+| Workers | route `freshcalendars.com/*`, no `workers.dev` or preview URLs, logs on at 10% sampling; Turnstile widget `freshcalendars-contact` allows `freshcalendars.com` and `localhost` |
+| R2 | `freshcalendars` public only through `cdn.freshcalendars.com` (TLS 1.2+), `r2.dev` off on both buckets, no CORS needed (pages load no fonts or data from the CDN) |
+
 ## Local checks
 
 ```bash
 pnpm news:build && pnpm news:verify && pnpm news:seo-audit   # what CI runs
-node scripts/cf-parity.mjs --b https://freshcalendars.info7691.workers.dev   # parity of two hosts
+node scripts/cf-parity.mjs --b <other host>   # parity of two hosts (workers.dev is off since 2026-10-31)
 ```
 
 `pnpm cf:assemble` builds `dist/cf/public` from a local `dist/site` and `dist/news` (useful to count

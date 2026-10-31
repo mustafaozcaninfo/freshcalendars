@@ -7,7 +7,8 @@
   "name": "freshcalendars",
   "main": "cloudflare/worker.js",
   "compatibility_date": "2026-10-01",
-  "workers_dev": true,
+  // No *.workers.dev copy: it would be a second, indexable host of the whole site.
+  "workers_dev": false,
   "preview_urls": false,
   // www redirects to the apex in a zone rule before it reaches the Worker. Removing this route
   // (dashboard or API) sends traffic back to the DNS origin: the rollback in docs/DEPLOY.md.
