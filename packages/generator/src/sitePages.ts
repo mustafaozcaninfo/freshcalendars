@@ -325,6 +325,9 @@ const LIGHTBOX_JS = `
 })();
 `;
 
+/** Public Turnstile site key for the contact form (widget freshcalendars-contact; the Worker holds the secret). */
+const TURNSTILE_SITEKEY = "0x4AAAAAAFtx6GTYQys8c2g_";
+
 const CONTACT_JS = `
 (function(){
   var form=document.getElementById('contact-form');
@@ -339,7 +342,7 @@ const CONTACT_JS = `
     if(submit) submit.disabled=true;
     if(msg){ msg.textContent='Sending…'; msg.className='form-msg'; }
     try{
-      var res=await fetch('/api/contact.php',{method:'POST',body:new FormData(form),headers:{'Accept':'application/json'}});
+      var res=await fetch('/api/contact',{method:'POST',body:new FormData(form),headers:{'Accept':'application/json'}});
       var data=await res.json().catch(function(){return {};});
       if(!res.ok||!data.ok){ throw new Error(data.error||'Could not send message.'); }
       form.reset();
@@ -348,6 +351,7 @@ const CONTACT_JS = `
       if(msg){ msg.textContent=err&&err.message?err.message:'Could not send message.'; msg.className='form-msg err'; }
     }finally{
       sending=false;
+      if(window.turnstile) window.turnstile.reset();
       form.removeAttribute('aria-busy');
       if(submit) submit.disabled=false;
     }
@@ -1559,7 +1563,7 @@ ${adBand(ADS.inArticle, "FreshCalendars_Contact_Top")}`;
     const main = `
 <section class="section prose">
   <h2>Send a message</h2>
-  <form id="contact-form" class="contact-form" action="/api/contact.php" method="post" novalidate>
+  <form id="contact-form" class="contact-form" action="/api/contact" method="post" novalidate>
     <label>Name
       <input type="text" name="name" required maxlength="120" autocomplete="name" placeholder="Your name" title="Your name" />
     </label>
@@ -1580,6 +1584,8 @@ ${adBand(ADS.inArticle, "FreshCalendars_Contact_Top")}`;
     <div class="hp" aria-hidden="true">
       <label>Website <input type="text" name="website" tabindex="-1" autocomplete="off" /></label>
     </div>
+    <div class="cf-turnstile" data-sitekey="${TURNSTILE_SITEKEY}" data-size="flexible"></div>
+    <script src="https://challenges.cloudflare.com/turnstile/v0/api.js" async defer></script>
     <div class="cta" style="margin:0">
       <button class="btn btn-primary" type="submit" title="Send contact message">Send message</button>
     </div>
@@ -2000,126 +2006,6 @@ ${allHolidayRules().map((h) => `- ${absUrl(holidayWhenIsPath(h.slug))} — ${h.n
 
   await writeBrandIcons();
   await writeSitePage("fonts.css", FONTS_CSS);
-}
-
-export function htaccessContent(): string {
-  /** Real /page/* legal/guide hubs — never rewrite these to when-is. */
-  const pageHubs = new Set([
-    "about",
-    "contact",
-    "privacy",
-    "privacy-policy",
-    "terms",
-    "terms-of-use",
-    "advertising",
-    "disclosure",
-    "school-holidays",
-    "daylight-savings",
-  ]);
-  const whenIsSlugs = allHolidayRules()
-    .map((h) => h.slug)
-    .filter((slug) => !slug.startsWith("uk-") && !slug.startsWith("ca-") && !pageHubs.has(slug));
-  // Alternation for /page/{holiday} → /when-is/{holiday}/
-  const pageToWhenIs = whenIsSlugs.sort().join("|");
-  /** Legacy holiday templates without a live when-is page → US holidays hub. */
-  const legacyOrphanPages = [
-    "armed-forces-day",
-    "constitution-day",
-    "day-of-the-dead",
-    "dia-de-los-muertos",
-    "indigenous-peoples-day",
-    "international-womens-day",
-    "native-americans-day",
-    "samhain",
-    "star-wars-day",
-    "world-environment-day",
-    "world-teachers-day",
-  ].join("|");
-
-  return `Options -Indexes
-DirectoryIndex index.html
-ErrorDocument 404 /404.html
-
-<IfModule mod_rewrite.c>
-RewriteEngine On
-RewriteBase /
-
-# Legacy year-qualified twins → evergreen (HTTPS absolute; no duplicate indexable URLs)
-RewriteCond %{HTTP_HOST} ^www\\.(.+)$ [NC]
-RewriteRule ^(.*)$ https://%1/$1 [R=301,L]
-
-RewriteRule ^printable-calendar\\.html$ https://freshcalendars.com/printable-calendars.html [R=301,L]
-RewriteRule ^([a-z]+)-calendar\\.html$ https://freshcalendars.com/$1-calendars.html [R=301,L]
-RewriteRule ^blank-calendar\\.html$ https://freshcalendars.com/blank-calendars.html [R=301,L]
-RewriteRule ^([0-9]{4})-calendar\\.html$ https://freshcalendars.com/printable-calendars.html [R=301,L]
-RewriteRule ^year/([0-9]{4})/?$ https://freshcalendars.com/printable-calendars.html [R=301,L]
-
-RewriteRule ^printable-calendars-([0-9]{4})\\.html$ https://freshcalendars.com/printable-calendars.html [R=301,L]
-RewriteRule ^printable-calendar-([0-9]{4})\\.html$ https://freshcalendars.com/printable-calendars.html [R=301,L]
-RewriteRule ^([a-z]+)-calendars-([0-9]{4})\\.html$ https://freshcalendars.com/$1-calendars.html [R=301,L]
-RewriteRule ^printable-([a-z]+)-([0-9]{4})-calendar\\.html$ https://freshcalendars.com/$1-calendars.html [R=301,L]
-RewriteRule ^([0-9]{4})-holidays\\.html$ https://freshcalendars.com/holidays/ [R=301,L]
-RewriteRule ^when-is/easter-([0-9]{4})\\.html$ https://freshcalendars.com/when-is/easter/ [R=301,L]
-RewriteRule ^when-is/([a-z0-9-]+)-([0-9]{4})\\.html$ https://freshcalendars.com/when-is/$1/ [R=301,L]
-
-# Legacy month printable-* twins only — never rewrite Fresh hubs (yearly/weekly/school/monday-start)
-RewriteCond %{REQUEST_FILENAME} !-f
-RewriteRule ^printable-(january|february|march|april|may|june|july|august|september|october|november|december)-calendar\\.html$ https://freshcalendars.com/$1-calendars.html [R=301,L]
-RewriteRule ^printable-blank-calendar\\.html$ https://freshcalendars.com/blank-calendars.html [R=301,L]
-RewriteRule ^weekly-calendars\\.html$ https://freshcalendars.com/printable-weekly-calendar.html [R=301,L]
-RewriteRule ^school-calendars\\.html$ https://freshcalendars.com/printable-school-calendar.html [R=301,L]
-RewriteRule ^monday-start-calendars\\.html$ https://freshcalendars.com/printable-monday-start-calendar.html [R=301,L]
-RewriteRule ^yearly-calendars\\.html$ https://freshcalendars.com/printable-yearly-calendar.html [R=301,L]
-RewriteRule ^calendar\\.html$ https://freshcalendars.com/printable-calendars.html [R=301,L]
-RewriteRule ^holidays\\.html$ https://freshcalendars.com/holidays/ [R=301,L]
-RewriteRule ^australia-holidays/?$ https://freshcalendars.com/holidays/ [R=301,L]
-RewriteRule ^india-holidays/?$ https://freshcalendars.com/holidays/ [R=301,L]
-RewriteRule ^when-is/([a-z0-9-]+)\\.html$ https://freshcalendars.com/when-is/$1/ [R=301,L]
-RewriteRule ^about/?$ https://freshcalendars.com/page/about/ [R=301,L]
-RewriteRule ^contact/?$ https://freshcalendars.com/page/contact/ [R=301,L]
-RewriteRule ^page/privacy/?$ https://freshcalendars.com/page/privacy-policy/ [R=301,L]
-RewriteRule ^page/terms/?$ https://freshcalendars.com/page/terms-of-use/ [R=301,L]
-RewriteRule ^page/contact\\.html$ https://freshcalendars.com/page/contact/ [R=301,L]
-RewriteRule ^page/privacy-policy\\.html$ https://freshcalendars.com/page/privacy-policy/ [R=301,L]
-RewriteRule ^page/terms-of-use\\.html$ https://freshcalendars.com/page/terms-of-use/ [R=301,L]
-# Legacy /page/{holiday} soft pages → evergreen when-is (legal hubs excluded above / by slug list)
-RewriteRule ^page/(${pageToWhenIs})/?$ https://freshcalendars.com/when-is/$1/ [R=301,L]
-# Legacy observances without a when-is page → US holidays hub
-RewriteRule ^page/(${legacyOrphanPages})/?$ https://freshcalendars.com/holidays/ [R=301,L]
-RewriteRule ^editor(/.*)?$ https://freshcalendars.com/blank-calendars.html [R=301,L]
-
-# Legacy JPG asset paths → evergreen month pages
-RewriteRule ^printable/monthly/[0-9]{4}/(january|february|march|april|may|june|july|august|september|october|november|december)/ https://freshcalendars.com/$1-calendars.html [R=301,L]
-</IfModule>
-
-<IfModule mod_headers.c>
-  # Monthly factory + CF purge on deploy → long TTLs are safe and keep TTFB tiny.
-  <FilesMatch "\\.(woff2)$">
-    Header set Cache-Control "public, max-age=31536000, immutable"
-  </FilesMatch>
-  <FilesMatch "\\.(svg|png|ico|webmanifest|webp|jpg|jpeg|css|js)$">
-    Header set Cache-Control "public, max-age=2592000, stale-while-revalidate=604800"
-  </FilesMatch>
-  <FilesMatch "\\.(pdf)$">
-    Header set Cache-Control "public, max-age=2592000, stale-while-revalidate=604800"
-  </FilesMatch>
-  # HTML: short in browsers so a deploy reaches returning visitors; long at Cloudflare (purged on deploy).
-  <FilesMatch "\\.(html)$">
-    Header set Cache-Control "public, max-age=300, stale-while-revalidate=3600"
-    Header set CDN-Cache-Control "public, max-age=2678400"
-  </FilesMatch>
-  # /news/ (apps/news, published every 15 min): short TTLs; hashed /news/_astro/ files are immutable.
-  # nginx serves /news/ itself (hestia-apply-nginx-cache.sh); this is the Apache fallback.
-  <If "%{REQUEST_URI} =~ m#^/news/_astro/#">
-    Header set Cache-Control "public, max-age=31536000, immutable"
-    Header unset CDN-Cache-Control
-  </If>
-  <ElseIf "%{REQUEST_URI} =~ m#^/news/#">
-    Header set Cache-Control "public, max-age=300, stale-while-revalidate=600"
-    Header set CDN-Cache-Control "public, max-age=600"
-  </ElseIf>
-</IfModule>
-`;
 }
 
 export function renderNotFoundHtml(): string {

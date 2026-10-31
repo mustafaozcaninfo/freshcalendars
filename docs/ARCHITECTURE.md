@@ -8,7 +8,7 @@ Fresh Calendars is a **generate-time calendar factory**. Almost nothing is compu
 |---------|------|
 | `@freshcalendars/engine` | Grid math, US holidays + when-is slugs, rolling year resolve, Fresh URL registry, SEO meta |
 | `@freshcalendars/templates` | Unique HTML/CSS roots: `yearly/`, `monthly/`, `weekly/`, `blank/`, `school/` — Fresh tokens |
-| `@freshcalendars/generator` | CLI `fc`: `gen`, `gen-meta`, `refresh-evergreen`, `verify`, `rollover`, `build`, `deploy` |
+| `@freshcalendars/generator` | CLI `fc`: `gen`, `gen-meta`, `refresh-evergreen`, `verify`, `rollover`, `build` |
 | `apps/web` | **Design preview only** — Astro sandbox |
 
 ## Data flow
@@ -17,9 +17,9 @@ Fresh Calendars is a **generate-time calendar factory**. Almost nothing is compu
 2. Generator renders printable HTML → Playwright → PNG/PDF + `og:image`.
 3. Generator writes `dist/meta/{pageId}.json`.
 4. `sitePages.ts` emits `dist/site/*` using **legacy Fresh URL spellings**.
-5. `pnpm fc sync-cdn` → DigitalOcean Spaces (`cdn.freshcalendars.com`).
-6. `scripts/deploy.sh` rsyncs HTML to Hestia (`yuzdehesaplama`), purges Cloudflare, `sync-app.sh` updates VPS factory.
-7. VPS cron: monthly refresh (Y+Y1), Sep generate-next, Jan rollover, weekly smoke.
+5. `cloudflare/deploy.sh sync-calendar-assets` → R2 bucket `freshcalendars` (`cdn.freshcalendars.com`), changed URLs purged.
+6. `cloudflare/assemble.mjs` merges `dist/site` and `dist/news` into `dist/cf/public`; `wrangler deploy` publishes the Worker `freshcalendars` (`docs/DEPLOY.md`).
+7. GitHub Actions `calendar.yml`: daily refresh-meta, monthly refresh, Sep generate-next, Jan rollover, weekly health.
 
 ## Legacy
 

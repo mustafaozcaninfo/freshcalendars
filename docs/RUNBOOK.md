@@ -1,23 +1,21 @@
 # Runbook — Fresh Calendars
 
+Hosting: Cloudflare Worker `freshcalendars` + R2 (`docs/DEPLOY.md`). Jobs: GitHub Actions.
+
 ## Common ops
 
 | Situation | Action |
 |-----------|--------|
-| Wrong holiday date | Fix `holidays/rules.ts` + test → `FC_JOB=refresh` or local refresh → deploy |
-| Empty PDF / bad OG | `pnpm fc gen --year Y --family …` → verify → sync-cdn → deploy |
-| Cron silent | Admin automation page + `/var/log/freshcalendars-cron.log` + manual `FC_JOB=health` |
-| CF purge fails | Confirm zone in API account (`CF_ZONE_ID`) — currently a known gap |
-| Hestia domain rebuild | Re-run `hestia-apply-nginx-cache.sh` for `freshcalendars.com` |
-| Cache suspicion | Deploy (purges) + `smoke:auto` cache assertions |
-| Rollback | Restore VPS tar `/root/freshcalendars-public_html-*.tgz` + CF purge |
+| Wrong holiday date | Fix `holidays/rules.ts` + test, push; then `gh workflow run calendar.yml -f job=refresh` (printables) or `-f job=refresh-meta` (pages only) |
+| Empty PDF / bad OG | Fix, push, `gh workflow run calendar.yml -f job=refresh` |
+| A scheduled job failed | GitHub emails the failure; Actions → Calendar site → the run's log; re-run it |
+| Story not live | `gh run list --branch main --limit 5` (CI red?); `pnpm news:verify-live <slug> --wait 600` |
+| Bad deploy | Re-run the last good Deploy run, or `git revert` and push; `wrangler rollback` restores the previous Worker version |
+| Cache suspicion on the CDN | Calendar jobs purge changed `cdn.freshcalendars.com` URLs; purge more in the Cloudflare dashboard (zone freshcalendars.com) |
+| Contact messages | Email to the owner; copies in R2 `freshcalendars-state/contact/YYYY-MM/` |
 
-## Logs / paths
+## Where things are
 
-- Web root: `/home/yuzdehesaplama/web/freshcalendars.com/public_html/`
-- App factory: `/home/yuzdehesaplama/private/freshcalendars-app`
-- Nginx/Apache conf: `/home/yuzdehesaplama/conf/web/freshcalendars.com/`
-
-## Contacts
-
-`CRON_NOTIFY_TO` in `.env` / VPS app env.
+- Worker logs: Cloudflare dashboard → Workers & Pages → freshcalendars → Logs
+- Build state: R2 `freshcalendars-state` (last deployed builds, lastmod dates, image cache, AnindaIndex record)
+- Health: `calendar.yml` health job, Mondays 07:15 UTC

@@ -1,0 +1,32 @@
+// freshcalendars.com on Cloudflare: one Worker with static assets (the calendar site and /news/
+// pages, assembled into dist/cf/public by cloudflare/assemble.mjs) and one R2 bucket for every
+// image, PDF and printable, served on cdn.freshcalendars.com. Deployed by .github/workflows/deploy.yml;
+// see docs/DEPLOY.md. Never deploy from a laptop: CI holds the token.
+{
+  "$schema": "node_modules/wrangler/config-schema.json",
+  "name": "freshcalendars",
+  "main": "cloudflare/worker.js",
+  "compatibility_date": "2026-10-01",
+  "workers_dev": true,
+  "preview_urls": false,
+  // www redirects to the apex in a zone rule before it reaches the Worker. Removing this route
+  // (dashboard or API) sends traffic back to the DNS origin: the rollback in docs/DEPLOY.md.
+  "routes": [{ "pattern": "freshcalendars.com/*", "zone_name": "freshcalendars.com" }],
+  "assets": {
+    "directory": "dist/cf/public",
+    "binding": "ASSETS",
+    // Files are served at their exact path; the page files are named so /x.html and /dir/ both
+    // resolve without redirects (assemble.mjs). Unmatched paths go to the Worker.
+    "html_handling": "auto-trailing-slash",
+    "not_found_handling": "none",
+    "run_worker_first": ["/news/downloads/*", "/api/*"]
+  },
+  "r2_buckets": [
+    { "binding": "CDN", "bucket_name": "freshcalendars" },
+    { "binding": "STATE", "bucket_name": "freshcalendars-state" }
+  ],
+  "send_email": [{ "name": "CONTACT_MAIL" }],
+  "vars": { "CONTACT_FROM": "contact@notify.freshcalendars.com" },
+  // Secrets (wrangler secret put): TURNSTILE_SECRET, CONTACT_TO.
+  "observability": { "enabled": true, "head_sampling_rate": 0.1 }
+}

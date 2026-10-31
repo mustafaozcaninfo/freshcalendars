@@ -1,96 +1,53 @@
-# /news/ yayın rehberi (site sahibi için)
+# Yayın rehberi (site sahibi için)
 
-## Otomatik yayın (sunucuda, 2026-10-25'ten beri)
+freshcalendars.com Cloudflare'de çalışır: sayfalar bir Worker'da (`freshcalendars`), tüm görseller,
+takvim PNG/PDF'leri ve printable'lar R2'de (`cdn.freshcalendars.com`). Yayını tamamen GitHub Actions
+yapar; senin Mac'inin ya da bir sunucunun açık olması gerekmez. Teknik ayrıntı: `docs/DEPLOY.md`.
 
-VPS'te her dakika bir cron çalışır (`scripts/server-autopublish.sh`) ve dakika içinde 15 saniyede bir, dört kez bakar. Son yayından bu yana `main`'e gelen commit'lerden GitHub CI'ı yeşil biten en yenisini seçer; daha yeni bir commit'in CI'ı sürüyor ya da kırmızıysa, ondan önceki yeşil commit'ler beklemez. Seçtiği commit'i sunucudaki ayrı clone'dan (`/home/yuzdehesaplama/private/freshcalendars-src`) uygulama dizinine kopyalar ve yayın işini (`news-publish`, kilitli) çalıştırır. Yeşil commit yoksa ve en yeni commit yalnızca yazı/görsel/PDF değiştiriyorsa, CI sürerken onu önceden build eder (`NEWS_BUILD_ONLY=1`); CI yeşil dönünce yayın yalnızca dosyaları senkronlar (`NEWS_SKIP_BUILD=1`, 15 dakikadan eski build kullanılmaz). Sadece yazı, görsel veya PDF değiştiyse hızlı modu, kod da değiştiyse tam senkronu kullanır; `pnpm-lock.yaml` değiştiyse paketleri kurar. Gelecek tarihli `publishedAt` taşıyan yazılar saati geldikten sonraki ilk çalışmada çıkar. Kırmızı CI asla yayınlanmaz. Yayın hatasında `CRON_NOTIFY_TO` adresine e-posta gider. Mac'in açık olması gerekmez.
+## Yazılar nasıl yayına çıkar
 
-- GitHub erişimi: `/root/.config/freshcalendars/github-token` (yalnızca bu depo için, Contents ve Actions salt okunur fine-grained token, izin 600). Süresi dolunca yenisini aynı dosyaya koy: `ssh root@2.25.147.42 'umask 077 && cat > /root/.config/freshcalendars/github-token'`
-- Kayıt: `/var/log/freshcalendars-autopublish.log`; durum: `/var/lib/freshcalendars-autopublish/` (`last-sha`: son yayınlanan commit, `app-sha`: uygulama dizinindeki commit, `built-sha`/`built-time`: `dist/news`'in build edildiği commit ve saat)
-- Kapatmak: sunucuda `bash /home/yuzdehesaplama/private/freshcalendars-app/scripts/install-server-autopublish.sh --remove`; tekrar açmak: aynı komut `--remove` olmadan.
-- Mac'teki eski görev (`scripts/install-autopublish.sh`) 2026-10-25'te kaldırıldı; sunucu kapalıyken yedek olarak tekrar kurulabilir.
+1. Editör yazıyı `main`'e push eder.
+2. GitHub CI (`ci.yml`) testleri, /news/ build'ini, `news:verify` ve `news:seo-audit`'i çalıştırır.
+3. Hepsi yeşilse aynı çalışma yeni görselleri R2'ye yükler ve siteyi yayınlar (`deploy.yml`, sırayla, birer birer).
+   Push'tan canlıya genelde 6-10 dakika sürer. Kırmızı CI asla yayınlanmaz; düzelten yeni commit gelince o yayınlanır.
+4. Gelecek tarihli `publishedAt` taşıyan yazı, saati geldikten sonra 10-20 dakika içinde çıkar (`scheduled.yml`).
+5. Yeni yazılar IndexNow'a ve bir kez AnindaIndex'e bildirilir; güncellenen yazılar IndexNow'a.
 
-Elle yayın (aşağıdaki adımlar) hâlâ çalışır; sunucudaki yayın kilidi (`flock`) iki yayını aynı anda çalıştırmaz.
+Takip: GitHub → Actions. `gh run list --branch main --limit 5` son çalışmaları gösterir. Başarısız
+zamanlanmış işler GitHub bildirim e-postasıyla gelir.
 
-## Her yeni yazıda (3 adım)
+## Takvim sitesi
 
-```bash
-cd ~/Documents/Workspace/FreshCalendars
-git pull origin main
-pnpm news:deploy
-```
+`calendar.yml` VPS'teki cron'un yerini aldı (saatler UTC):
 
-`pnpm news:deploy` sırasıyla şunları yapar:
+| Saat | İş |
+|---|---|
+| Her gün 05:25 | `refresh-meta`: bugün kartı, when-is tarihleri, bu hafta |
+| Ayın 1'i 06:30 (Şubat-Aralık) | `refresh`: yeni ayın PNG/PDF'leri, R2'ye yükleme |
+| 1 Eylül 08:45 | `generate-next`: gelecek yılın takvimleri |
+| 1 Ocak 06:30 | `rollover` |
+| Pazartesi 07:15 | sağlık kontrolü |
 
-1. Testler, build ve link/SEO doğrulaması (biri hata verirse durur, hiçbir şey yayınlanmaz).
-2. Kodu ve içeriği VPS'e gönderir, VPS'te aynı build'i yapar. `pnpm-lock.yaml` değişmediyse VPS'te `pnpm install` ve Chromium kurulumu atlanır (`.deps-stamp`); zorlamak için `FORCE_INSTALL=1 pnpm news:deploy`.
-3. Değişen dosyaları `public_html/news/` altına kopyalar.
-4. Değişen adresleri Cloudflare önbelleğinden temizler, Google ve Bing için IndexNow'a bildirir.
-5. Canlı siteyi kısa bir sağlık kontrolünden geçirir.
-
-Başarılı bittiğinde son satırlar şöyledir:
-
-```
-[news] IndexNow 3 url(s) → HTTP 200
-changed=12
-✔ /news/ live: cf-cache-status: MISS
-```
-
-Sonra yazının adresini tarayıcıda aç ve bir göz at.
-
-## Daha hızlı yol: sadece yazı ve görsel değiştiyse
-
-```bash
-NEWS_CONTENT_ONLY=1 pnpm news:deploy
-```
-
-Sadece `apps/news/src/content`, `apps/news/src/assets` ve `apps/news/public` (printable PDF'ler) gönderilir, paket kurulumu atlanır. Editör kod, generator, `package.json` veya bileşen değiştirdiyse normal `pnpm news:deploy` kullan.
+Elle çalıştırmak: Actions → Calendar site → Run workflow, ya da `gh workflow run calendar.yml -f job=refresh-meta`.
+Takvim kodu değişince sayfalar bir sonraki günlük işte yenilenir; beklemek istemezsen bu komutu çalıştır.
 
 ## Sorun çıkarsa
 
 | Ne görüyorsun | Ne yapmalı |
 |---|---|
-| Build hatası, "does not match collection schema" | Yazının üst bilgisi (başlık en fazla 110 karakter, açıklama 120-160) hatalı. Editöre geri gönder; hiçbir şey yayınlanmadı. |
-| `news:seo-audit` FAIL | Kural ihlali (kısaltma açılmamış, yasaklı kelime, PDF metadatası). Editöre geri gönder. |
-| En sonda `curl` hatası (ör. exit code 35) ama öncesinde `changed=` ve `purge ok` var | Yayın tamamlandı; sadece son kontrol bir anlık bağlantı hatası verdi. Sayfayı tarayıcıda aç, açılıyorsa sorun yok. |
-| Yazı sitede görünmüyor | `publishedAt` gelecekte olabilir: otomatik yayın saat geldikten sonraki ilk kontrolde (5 dakika içinde) çıkarır. CI kırmızıysa hiçbir yeni commit yayınlanmaz; `gh run list --branch main --limit 1` ile bak. |
-| Uyarı e-postasında `stampPdf` ve `ENOENT` / `open` hatası | Yazının listelediği bir PDF sunucuda yok (eskiden hızlı mod PDF göndermiyordu). Normal `pnpm news:deploy` çalıştır. |
-| `git pull` çakışma verdi | Kendi Mac'inde commit etmediğin değişiklik vardır. `git status` ile bak; emin değilsen bana sor. |
-| Yanlış bir şey yayınlandı | `git revert <commit>` ile geri al, sonra `pnpm news:deploy`. Gerekirse `git push origin main`. |
+| CI kırmızı, "does not match collection schema" | Yazının üst bilgisi hatalı. Editör yeni commit ile düzeltir; hiçbir şey yayınlanmadı. |
+| `news:seo-audit` FAIL | Kural ihlali. Editöre geri gönder. |
+| Yazı sitede görünmüyor | `publishedAt` gelecekte olabilir; ya da CI hâlâ çalışıyor. `pnpm news:verify-live <slug> --wait 600` canlıya çıktığı anı doğrular. |
+| Yanlış bir şey yayınlandı | `git revert <commit>` ve push; CI geri alınmış hâli yayınlar. Acil durumda Actions'ta son iyi `Deploy` çalışmasını "Re-run" et. |
+| İletişim formu | Mesajlar e-postayla gelir (gönderen `contact@notify.freshcalendars.com`) ve R2'de `freshcalendars-state/contact/` altında saklanır. |
 
-## Sunucudaki eski cron (kapalı)
+## Sırlar
 
-VPS'teki 15 dakikalık `news-publish` cron'u 2026-10-23'te kapatıldı; zamanlanmış yazıları artık Mac'teki otomatik yayın çıkarıyor (yukarıda). Kapatmak (veya kapalı tutmak) için VPS'te:
+GitHub'daki `CLOUDFLARE_API_TOKEN` yalnızca bu siteye yetkili, kısıtlı bir token'dır (`freshcalendars-ci`).
+Cloudflare Global API Key'e yayın için gerek yoktur; `.env`'de tutma, Cloudflare panelinden yenile.
+Editörlerin hiçbir sırra ihtiyacı yok: `main`'e push etmeleri yeter.
 
-```bash
-bash /home/yuzdehesaplama/private/freshcalendars-app/scripts/install-crontab.sh
-```
+## Geri dönüş
 
-`NEWS_CRON=1` olmadan çalışınca crontab'daki news satırını kaldırır, takvim işleri aynen kalır. Geri açmak için başına `NEWS_CRON=1` ekle.
-
-## Hızlı kontroller
-
-```bash
-curl -s -o /dev/null -w '%{http_code}\n' https://freshcalendars.com/news/<slug>/
-curl -sI https://freshcalendars.com/news/downloads/<grup>/<dosya>.pdf | grep -i '^link'
-```
-
-İlki 200 dönmeli; ikincisi PDF'in yazıyı canonical olarak gösterdiğini doğrular.
-
-## Ana takvim sitesi ayrı
-
-Takvim sayfaları (aylık takvimler, `/when-is/`) farklı bir sistemle yayınlanır:
-
-```bash
-pnpm fc gen-meta          # sayfaları yeniden üretir (yaklaşık 1 dakika)
-pnpm fc deploy --confirm  # sunucuya gönderir ve Cloudflare önbelleğinin tamamını temizler
-```
-
-Bunu sadece takvim sitesinde değişiklik olduğunda kullan; /news/ yazıları için gerekmez.
-
-## Gerekenler (sadece senin Mac'inde)
-
-- Proje kökünde `.env`: `CF_EMAIL`, `CF_API_KEY`, `CF_ZONE_ID`, `DEPLOY_HOST` ve diğerleri.
-- VPS'e (`root@2.25.147.42`) şifresiz SSH anahtarı.
-- `node` ve `pnpm` (`pnpm install` bir kez).
-
-Bunları kimseyle paylaşma; editörlerin yayın için bunlara ihtiyacı yok.
+`docs/DEPLOY.md` → Rollback. Kısaca: Worker route'unu silmek trafiği VPS'teki son kopyaya döndürür;
+`cdn` kaydını DigitalOcean'a geri çevirmek görselleri de döndürür.

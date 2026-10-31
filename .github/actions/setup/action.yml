@@ -1,0 +1,26 @@
+name: Set up the repository
+description: pnpm, Node 22, dependencies and (optionally) rclone for R2.
+inputs:
+  rclone:
+    description: Install rclone (R2 uploads and the deploy state)
+    default: "false"
+runs:
+  using: composite
+  steps:
+    - uses: pnpm/action-setup@v6
+      # version comes from package.json packageManager field
+    - uses: actions/setup-node@v7
+      with:
+        node-version: 22
+        cache: pnpm
+    - name: Install
+      shell: bash
+      run: pnpm install --frozen-lockfile
+    - name: Install rclone
+      if: inputs.rclone == 'true'
+      shell: bash
+      # Pinned: Ubuntu's rclone 1.60 gets 501 from R2 on small uploads.
+      run: |
+        curl -fsSLo /tmp/rclone.deb https://downloads.rclone.org/v1.75.2/rclone-v1.75.2-linux-amd64.deb
+        echo "efbfe852181f7191eb3c9043ed1ab49c9b2d0ba045c61c926a5da111c939ec5c  /tmp/rclone.deb" | sha256sum -c -
+        sudo dpkg -i /tmp/rclone.deb >/dev/null && rclone version | head -1

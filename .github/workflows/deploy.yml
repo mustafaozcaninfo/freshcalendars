@@ -1,0 +1,77 @@
+name: Deploy
+
+# The one way freshcalendars.com is published, called by CI (green push to main), the scheduled
+# story job and the calendar jobs. Runs queue one at a time; a queued run is replaced by a newer
+# one, and cloudflare/deploy.sh never lets an older /news/ build replace a newer one.
+on:
+  workflow_call:
+    inputs:
+      artifact:
+        description: Artifact with news-build.tar.gz (dist/news, dist/news-data) built by the caller
+        type: string
+        default: ""
+      news-sha:
+        description: Commit the news build came from
+        type: string
+        default: ""
+      news-built-at:
+        description: Unix time the news build started (scheduled stories due before it are in it)
+        type: string
+        default: ""
+      calendar-artifact:
+        description: Artifact with calendar-build.tar.gz (dist/site) built by the caller
+        type: string
+        default: ""
+      calendar-sha:
+        type: string
+        default: ""
+
+concurrency:
+  group: production
+  cancel-in-progress: false
+
+jobs:
+  deploy:
+    runs-on: ubuntu-24.04
+    timeout-minutes: 20
+    environment:
+      name: production
+      url: https://freshcalendars.com
+    env:
+      CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+      CLOUDFLARE_ACCOUNT_ID: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
+      R2_ACCESS_KEY_ID: ${{ secrets.R2_ACCESS_KEY_ID }}
+      R2_SECRET_ACCESS_KEY: ${{ secrets.R2_SECRET_ACCESS_KEY }}
+      CF_ZONE_ID: ${{ secrets.CF_ZONE_ID }}
+      ANINDA_INDEX_KEY: ${{ secrets.ANINDA_INDEX_KEY }}
+      # Search engines are told about new stories only once freshcalendars.com is served from here
+      # (repository variable CF_LIVE=1, set at the cutover).
+      NEWS_INDEXNOW: ${{ vars.CF_LIVE == '1' && '1' || '0' }}
+      NEWS_INDEX_SUBMIT: ${{ vars.CF_LIVE == '1' && '1' || '0' }}
+    steps:
+      - uses: actions/checkout@v7
+        with:
+          fetch-depth: 0 # deploy.sh compares the build's commit with the deployed one
+      - uses: ./.github/actions/setup
+        with:
+          rclone: "true"
+      - uses: actions/download-artifact@v8
+        if: inputs.artifact != ''
+        with:
+          name: ${{ inputs.artifact }}
+      - uses: actions/download-artifact@v8
+        if: inputs.calendar-artifact != ''
+        with:
+          name: ${{ inputs.calendar-artifact }}
+      - name: Unpack
+        run: |
+          mkdir -p dist
+          if [[ -f news-build.tar.gz ]]; then tar -xzf news-build.tar.gz -C dist; fi
+          if [[ -f calendar-build.tar.gz ]]; then tar -xzf calendar-build.tar.gz -C dist; fi
+      - name: Deploy
+        env:
+          NEWS_SHA: ${{ inputs.artifact != '' && inputs.news-sha || '' }}
+          NEWS_BUILT_AT: ${{ inputs.news-built-at }}
+          CALENDAR_FRESH: ${{ inputs.calendar-artifact != '' && '1' || '0' }}
+          CALENDAR_SHA: ${{ inputs.calendar-sha }}
+        run: cloudflare/deploy.sh deploy
