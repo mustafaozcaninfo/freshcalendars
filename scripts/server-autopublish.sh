@@ -31,7 +31,7 @@ CONTENT_RE='^apps/news/(src/content/|src/assets/|public/|src/lib/keydates\.ts$)'
 # Paths the published site never reads: docs, agent skills, CI and the local checks and audits.
 # A commit of only these (and content-free) syncs the app directory and publishes nothing, instead
 # of a three-minute rebuild that changes no file. Anything not listed counts as code.
-NEUTRAL_RE='^(docs/|\.claude/|\.github/|\.githooks/|apps/news/test/|[^/]+\.md$|scripts/lib/(abbrev|pdf-print|story-patterns)\.mjs$|scripts/(news-seo-audit|news-abbrev-check|ci-scope|news-puzzle-check|news-puzzle-data|news-lighthouse|news-serve|news-parity-verify|smoke[^/]*|check-css-minify|concept-qa|design-[^/]*|diagnose-cls|download-smoke|feature-[^/]*|inner-pages-qa|measure-cls|qa-images|scan-layout|studio-lcp|surface-[^/]*|install-[^/]*|news-autopublish|news-deploy|sync-news-baseline|upsert-cron-notify)\.(mjs|sh|py)$)'
+NEUTRAL_RE='^(docs/|\.claude/|\.github/|\.githooks/|apps/news/test/|[^/]+\.md$|scripts/lib/(abbrev|pdf-print|story-patterns)\.mjs$|scripts/(news-seo-audit|news-abbrev-check|news-puzzle-check|news-puzzle-data|news-lighthouse|news-serve|news-parity-verify|smoke[^/]*|check-css-minify|concept-qa|design-[^/]*|diagnose-cls|download-smoke|feature-[^/]*|inner-pages-qa|measure-cls|qa-images|scan-layout|studio-lcp|surface-[^/]*|install-[^/]*|news-autopublish|news-deploy|sync-news-baseline|upsert-cron-notify)\.(mjs|sh|py)$)'
 mkdir -p "$STATE"
 
 log() { echo "$(date "+%Y-%m-%dT%H:%M:%S%z") $*"; }

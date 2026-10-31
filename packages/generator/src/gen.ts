@@ -58,7 +58,7 @@ export type GenOptions = {
   skipOg?: boolean;
   /**
    * Pages, sitemaps and CSS only: no printables, studio sheets, OG images or WebP previews.
-   * CI's contrast gate needs nothing else, and those renders were 8 of its 9.5 minutes.
+   * The local contrast check (`pnpm smoke:contrast`) needs nothing else, and those renders take minutes.
    */
   htmlOnly?: boolean;
 };

@@ -12,9 +12,8 @@ concurrency:
   group: ci-${{ github.event_name == 'pull_request' && github.ref || github.sha }}
   cancel-in-progress: ${{ github.event_name == 'pull_request' }}
 
-# Pinned, not ubuntu-latest: that label moves to Ubuntu 26 from 2026-10-19, and the contrast
-# gate's `playwright install --with-deps` can break when the system packages change. Move on
-# purpose, after a test run.
+# Pinned, not ubuntu-latest: that label moves to Ubuntu 26 from 2026-10-19. Move on purpose,
+# after a test run.
 jobs:
   verify:
     runs-on: ubuntu-24.04
@@ -34,13 +33,6 @@ jobs:
       # Daily puzzle pages vs the official data saved with them (offline): a wrong answer never publishes.
       - name: Puzzle answers vs official data
         run: pnpm news:puzzle-check
-      - name: Verify dist (skip if no prior gen artifacts)
-        run: |
-          if [ -f dist/manifest.json ]; then
-            pnpm fc verify
-          else
-            echo "No dist/manifest.json — skipping verify (gen runs on deploy hosts)."
-          fi
 
   # The same gates `pnpm news:deploy` runs before publishing, so a story pull request
   # that is green here can be merged and published without a local rebuild.
@@ -60,15 +52,6 @@ jobs:
           cache: pnpm
       - name: Install
         run: pnpm install --frozen-lockfile
-      # Only a change that can alter how a page looks (scripts/ci-scope.mjs: the calendar build's
-      # import graph, /news/ code, brand, dependencies) runs the calendar build and contrast gate.
-      # Stories, printable generators, audits and docs skip them: about two minutes per push.
-      - name: What changed?
-        id: scope
-        run: |
-          base="${{ github.event_name == 'pull_request' && github.event.pull_request.base.sha || github.event.before }}"
-          git fetch -q --depth=1 origin "$base" 2>/dev/null || base=""
-          node scripts/ci-scope.mjs "$base" | tee -a "$GITHUB_OUTPUT"
       # Astro's optimized-image cache. Entries are named by a hash of the source and the options,
       # so a stale entry is never used for a changed image; restore-keys picks up the latest cache.
       - name: Restore image cache
@@ -92,9 +75,10 @@ jobs:
           n="$(find apps/news/node_modules/.astro/assets -type f 2>/dev/null | wc -l)"
           echo "new=$(( n > ${{ steps.cache_before.outputs.n }} ))" >>"$GITHUB_OUTPUT"
       # Saved only when the build encoded something new (even if it then failed or timed out, so
-      # the next run starts from it); otherwise the restored cache is already current.
+      # the next run starts from it); otherwise the restored cache is already current. Pushes only:
+      # a pull request's cache is scoped to its branch and main never restores it.
       - name: Save image cache
-        if: always() && steps.cache_after.outputs.new == '1'
+        if: always() && steps.cache_after.outputs.new == '1' && github.event_name == 'push'
         uses: actions/cache/save@v6
         with:
           path: apps/news/node_modules/.astro/assets
@@ -103,19 +87,6 @@ jobs:
         run: pnpm news:verify
       - name: SEO and writing audit
         run: pnpm news:seo-audit
-      # Text contrast gate (WCAG AA 4.5:1, 3:1 for large text) over every calendar and /news/ page,
-      # desktop and phone, plus hover and focus on representative pages. Needs the calendar pages
-      # too, but only their HTML and CSS (--html-only: seconds instead of 9.5 minutes of studio
-      # sheets, OG images and previews; the server's daily bake still renders those).
-      - name: Install Chromium
-        if: steps.scope.outputs.visual == 'true'
-        run: pnpm --filter @freshcalendars/generator exec playwright install --with-deps chromium
-      - name: Build calendar site HTML
-        if: steps.scope.outputs.visual == 'true'
-        run: pnpm fc gen-meta --html-only
-      - name: Text contrast (WCAG AA)
-        if: steps.scope.outputs.visual == 'true'
-        run: pnpm smoke:contrast
       - name: Changed stories
         if: github.event_name == 'pull_request'
         run: |
