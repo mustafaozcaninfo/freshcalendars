@@ -4,7 +4,7 @@ seoTitle: "National Christmas Tree Lighting 2026: Ticket Lottery Dates"
 description: "The National Park Service (NPS) free National Christmas Tree ticket lottery is open now through 3 p.m. Eastern Time (ET) Nov. 4; the ceremony is Dec. 3."
 type: news
 publishedAt: "2026-10-25T15:19:00-04:00"
-updatedAt: "2026-10-31T00:25:00-04:00"
+updatedAt: "2026-10-31T15:50:00-04:00"
 authors: [alex-morgan]
 category: holidays
 keywords: ["National Christmas Tree lighting 2026", "National Christmas Tree tickets lottery", "National Christmas Tree lighting date", "Capitol Christmas Tree 2026"]
@@ -65,7 +65,7 @@ internalLinks:
     label: "December 2026 printable calendar"
   - href: "/november-calendars.html"
     label: "November 2026 printable calendar"
-related: [nyc-holiday-calendar-2026-rockefeller-tree-macys-parade, christmas-2026-calendar-printable-countdown, december-2026-important-dates-holidays-days-until]
+related: [us-capitol-christmas-tree-2026-tour-schedule-stops-dates, nyc-holiday-calendar-2026-rockefeller-tree-macys-parade, christmas-2026-calendar-printable-countdown]
 downloads:
   - group: "National Christmas Tree Lighting 2026 Timeline printables"
     title: "National Christmas Tree Lighting 2026 Timeline"
@@ -122,7 +122,7 @@ The ceremony start time is not yet announced. The National Park Foundation says 
 
 ## Is the U.S. Capitol Christmas Tree the same event?
 
-No. The U.S. Capitol Christmas Tree is a separate event with its own website. In a release dated Mar. 17, 2026, it said the Nez Perce-Clearwater National Forests will provide the 2026 tree. The site says the U.S. Department of Agriculture (USDA) Forest Service provides a tree each year from one of 154 national forests. The 2026 tree is an Engelmann spruce from the Nez Perce-Clearwater National Forests in Idaho.
+No. The U.S. Capitol Christmas Tree is a separate event with its own website; see our [Capitol Christmas Tree 2026 tour schedule and stops](/news/us-capitol-christmas-tree-2026-tour-schedule-stops-dates/). In a release dated Mar. 17, 2026, it said the Nez Perce-Clearwater National Forests will provide the 2026 tree. The site says the U.S. Department of Agriculture (USDA) Forest Service provides a tree each year from one of 154 national forests. The 2026 tree is an Engelmann spruce from the Nez Perce-Clearwater National Forests in Idaho.
 
 | Capitol tree item | 2026 | Source |
 |---|---|---|

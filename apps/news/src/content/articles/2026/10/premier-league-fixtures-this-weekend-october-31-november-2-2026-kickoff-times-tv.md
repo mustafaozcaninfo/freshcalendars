@@ -4,6 +4,7 @@ seoTitle: "Premier League Fixtures This Weekend: Times and TV"
 description: "Chelsea v Manchester United opens the weekend Sat., Oct. 31, 2026 at 12:30pm Greenwich Mean Time (GMT), 8:30 a.m. Eastern Time (ET), per the Premier League."
 type: news
 publishedAt: "2026-10-29T15:50:00-04:00"
+updatedAt: "2026-10-31T15:50:00-04:00"
 authors: [alex-morgan]
 category: uk-canada
 keywords: ["premier league fixtures this weekend", "liverpool vs arsenal kick off time", "newcastle vs everton time tv", "premier league on tv this weekend", "chelsea vs man united time"]
@@ -81,7 +82,7 @@ internalLinks:
     label: "October 2026 printable calendar"
   - href: "/printable-weekly-calendar.html"
     label: "printable weekly calendar"
-related: [carabao-cup-fourth-round-2026-schedule-kickoff-times-tv-us-uk, fpl-deadlines-2026-27-every-gameweek-deadline-time-uk-us-chip-dates, champions-league-november-2026-schedule-kickoff-times-et-matchday-4-5]
+related: [premier-league-fixtures-november-6-8-2026-gameweek-10-kickoff-times-tv, fpl-deadlines-2026-27-every-gameweek-deadline-time-uk-us-chip-dates, champions-league-november-2026-schedule-kickoff-times-et-matchday-4-5]
 downloads:
   - group: "Premier League TV Guide printables"
     title: "Premier League TV Guide, Oct. 31-Nov. 2, 2026"
