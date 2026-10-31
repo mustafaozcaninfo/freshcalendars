@@ -88,7 +88,7 @@ internalLinks:
     label: "Printable weekly calendar"
   - href: "/when-is/black-friday/"
     label: "When is Black Friday?"
-related: [gta-6-countdown-release-time-by-time-zone, peak-ps5-price-crossplay-guide-2026, black-friday-2026-ad-tracker-walmart-target-best-buy]
+related: [gta-6-countdown-release-time-by-time-zone, peak-ps5-price-crossplay-guide-2026, xbox-game-pass-leaving-october-31-2026-new-games-november-2-6]
 draft: false
 ---
 

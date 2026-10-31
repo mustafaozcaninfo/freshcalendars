@@ -82,7 +82,7 @@ internalLinks:
     label: "December 2026 printable calendar"
   - href: "/when-is/thanksgiving/"
     label: "When is Thanksgiving?"
-related: [golden-state-warriors-schedule-november-2026-game-times-tv-nba-cup-printable, denver-nuggets-schedule-november-2026-game-times-tv-mexico-city-printable, college-football-playoff-rankings-2026-schedule-dates-times]
+related: [golden-state-warriors-schedule-november-2026-game-times-tv-nba-cup-printable, denver-nuggets-schedule-november-2026-game-times-tv-mexico-city-printable, knicks-schedule-november-2026-game-times-tv-nba-cup-printable]
 downloads:
   - group: "NBA Cup 2026 Schedule printables"
     title: "NBA Cup 2026 Schedule"
