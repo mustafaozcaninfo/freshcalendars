@@ -44,8 +44,9 @@ const topics = liveTopics(all).map(({ topic, items }) => ({ ...topic, count: ite
 // The busiest topics stay visible; the rest open in place, so every hub link stays on the page.
 const TOPICS_SHOWN = 8;
 const printables = allPrintables(all);
-// Named editors first, the desk last: the hub reads like a masthead.
-const masthead = [...authors].sort((a, b) => Number(b.person) - Number(a.person));
+// Named editors first, the desk last: the hub reads like a masthead. Names break ties, because
+// collection order is not guaranteed and changed between Astro versions.
+const masthead = [...authors].sort((a, b) => Number(b.person) - Number(a.person) || a.name.localeCompare(b.name));
 const strip = printables.slice(0, 6);
 const sections = categories
   .map((c) => ({ c, items: all.filter((a) => a.data.category.id === c.id).slice(0, 3), total: all.filter((a) => a.data.category.id === c.id).length }))
