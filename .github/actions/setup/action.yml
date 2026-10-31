@@ -19,4 +19,8 @@ runs:
     - name: Install rclone
       if: inputs.rclone == 'true'
       shell: bash
-      run: sudo apt-get install -y -qq rclone >/dev/null && rclone version | head -1
+      # Pinned: Ubuntu's rclone 1.60 gets 501 from R2 on small uploads.
+      run: |
+        curl -fsSLo /tmp/rclone.deb https://downloads.rclone.org/v1.75.2/rclone-v1.75.2-linux-amd64.deb
+        echo "efbfe852181f7191eb3c9043ed1ab49c9b2d0ba045c61c926a5da111c939ec5c  /tmp/rclone.deb" | sha256sum -c -
+        sudo dpkg -i /tmp/rclone.deb >/dev/null && rclone version | head -1

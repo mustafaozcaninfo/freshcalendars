@@ -29,7 +29,10 @@ jobs:
         with:
           fetch-depth: 0
       - name: Install rclone
-        run: sudo apt-get install -y -qq rclone >/dev/null
+        run: |
+          curl -fsSLo /tmp/rclone.deb https://downloads.rclone.org/v1.75.2/rclone-v1.75.2-linux-amd64.deb
+          echo "efbfe852181f7191eb3c9043ed1ab49c9b2d0ba045c61c926a5da111c939ec5c  /tmp/rclone.deb" | sha256sum -c -
+          sudo dpkg -i /tmp/rclone.deb >/dev/null && rclone version | head -1
       - name: Stories due since the last build
         id: due
         run: |
