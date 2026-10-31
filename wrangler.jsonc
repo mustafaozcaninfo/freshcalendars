@@ -9,8 +9,9 @@
   "compatibility_date": "2026-10-01",
   "workers_dev": true,
   "preview_urls": false,
-  // The freshcalendars.com/* route is added at the cutover (docs/DEPLOY.md); until then the
-  // Worker only answers on freshcalendars.info7691.workers.dev.
+  // www redirects to the apex in a zone rule before it reaches the Worker. Removing this route
+  // (dashboard or API) sends traffic back to the DNS origin: the rollback in docs/DEPLOY.md.
+  "routes": [{ "pattern": "freshcalendars.com/*", "zone_name": "freshcalendars.com" }],
   "assets": {
     "directory": "dist/cf/public",
     "binding": "ASSETS",
