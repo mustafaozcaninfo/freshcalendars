@@ -54,7 +54,7 @@ internalLinks:
     label: "October 2026 printable calendar"
   - href: "/printable-weekly-calendar.html"
     label: "Printable weekly planner"
-related: [california-propositions-2026-november-ballot-explained, mail-ballot-deadlines-2026-by-state, sample-ballot-by-zip-code-2026-texas-ballot]
+related: [california-propositions-2026-november-ballot-explained, mail-ballot-deadlines-2026-by-state, nevada-ballot-questions-2026-question-6-question-7-explained]
 downloads:
   - group: "Election 2026 printables"
     title: "Arizona Ballot Checklist, Nov. 3, 2026"

@@ -56,7 +56,7 @@ internalLinks:
     label: "November 2026 printable calendar"
   - href: "/october-calendars.html"
     label: "October 2026 printable calendar"
-related: [voter-registration-deadline-october-19-2026-early-voting, early-voting-2026-which-states-are-voting-now, is-election-day-a-holiday-2026-whats-open]
+related: [voter-registration-deadline-october-19-2026-early-voting, early-voting-2026-which-states-are-voting-now, voter-id-on-the-ballot-2026-north-carolina-ohio-arizona-nevada]
 draft: false
 assets:
   overlay: true

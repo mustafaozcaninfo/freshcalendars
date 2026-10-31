@@ -66,7 +66,7 @@ internalLinks:
     label: "October 2026 printable calendar"
   - href: "/printable-weekly-calendar.html"
     label: "Printable weekly planner"
-related: [sample-ballot-by-zip-code-2026-texas-ballot, what-time-do-polls-close-election-day-2026, early-voting-2026-which-states-are-voting-now]
+related: [sample-ballot-by-zip-code-2026-texas-ballot, what-time-do-polls-close-election-day-2026, virginia-constitutional-amendments-2026-ballot-questions-explained]
 downloads:
   - group: "Election 2026 printables"
     title: "North Carolina Ballot Checklist, Nov. 3, 2026"

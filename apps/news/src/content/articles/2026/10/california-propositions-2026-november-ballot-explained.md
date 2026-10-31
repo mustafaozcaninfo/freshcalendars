@@ -54,7 +54,7 @@ internalLinks:
     label: "October 2026 printable calendar"
   - href: "/printable-weekly-calendar.html"
     label: "Printable weekly planner"
-related: [sample-ballot-by-zip-code-2026-texas-ballot, mail-ballot-deadlines-2026-by-state, 2026-midterm-elections-whats-on-the-ballot-results-tracker]
+related: [sample-ballot-by-zip-code-2026-texas-ballot, mail-ballot-deadlines-2026-by-state, nevada-ballot-questions-2026-question-6-question-7-explained]
 downloads:
   - group: "Election 2026 printables"
     title: "California Ballot Checklist, Nov. 3, 2026"

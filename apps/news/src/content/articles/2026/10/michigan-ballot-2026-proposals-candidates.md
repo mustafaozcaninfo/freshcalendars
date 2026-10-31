@@ -57,7 +57,7 @@ internalLinks:
     label: "October 2026 printable calendar"
   - href: "/printable-weekly-calendar.html"
     label: "Printable weekly planner"
-related: [sample-ballot-by-zip-code-2026-texas-ballot, pennsylvania-2026-election-governor-mail-ballot-deadlines, 2026-midterm-elections-whats-on-the-ballot-results-tracker]
+related: [sample-ballot-by-zip-code-2026-texas-ballot, pennsylvania-2026-election-governor-mail-ballot-deadlines, colorado-ballot-measures-2026-amendments-propositions-explained]
 downloads:
   - group: "Election 2026 printables"
     title: "Michigan Ballot Checklist, Nov. 3, 2026"

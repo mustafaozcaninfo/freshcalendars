@@ -1,0 +1,22 @@
+{
+  "ref": "commons:File:Denver capitol.jpg",
+  "source": "Wikimedia Commons",
+  "title": "Denver capitol",
+  "page": "https://commons.wikimedia.org/wiki/File:Denver_capitol.jpg",
+  "file": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Denver_capitol.jpg",
+  "width": 3000,
+  "height": 2088,
+  "thumb": "https://commons.wikimedia.org/wiki/Special:FilePath/Denver%20capitol.jpg?width=640",
+  "license": "CC BY-SA 3.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+  "author": "Hustvedt",
+  "authorUrl": "https://commons.wikimedia.org/wiki/User:Hustvedt",
+  "ok": true,
+  "slug": "colorado-ballot-measures-2026-amendments-propositions-explained",
+  "fetchedAt": "2026-10-31T21:50:46.300Z",
+  "original": "3000×2088",
+  "output": "2400×1350",
+  "cropped": true,
+  "credit": "Photo: Hustvedt / Wikimedia Commons, cropped, edited",
+  "overlay": true
+}
