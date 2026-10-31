@@ -1,6 +1,7 @@
 import { copyFile, mkdir, readFile, readdir, rename, rm } from "node:fs/promises";
 import path from "node:path";
 import { fileURLToPath } from "node:url";
+import { unified } from "@astrojs/markdown-remark";
 import { defineConfig } from "astro/config";
 import { rehypeMidArticleAd } from "./src/lib/ad-units.mjs";
 import { rehypePuzzleBoards } from "./src/lib/puzzle-boards.mjs";
@@ -99,7 +100,9 @@ export default defineConfig({
     assets: "_astro",
   },
   integrations: [cleanBuildLeftovers, stampPrintables, minifyHtml],
-  markdown: { rehypePlugins: [rehypePuzzleBoards, rehypeTableScroll, rehypeMidArticleAd] },
+  // Our rehype plugins (puzzle boards, table scroll, mid-article ad) need the unified pipeline;
+  // Astro 7's default Markdown processor (Sätteri) does not run rehype plugins.
+  markdown: { processor: unified({ rehypePlugins: [rehypePuzzleBoards, rehypeTableScroll, rehypeMidArticleAd] }) },
   devToolbar: { enabled: false },
   vite: {
     server: { port: 4322 },

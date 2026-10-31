@@ -106,7 +106,7 @@ check("01-ADS-LOAD", "Ads load at page load without blocking: no <script src> fo
     if (/<script[^>]+adsbygoogle\.js/.test(h)) return "render-path <script src> for adsbygoogle.js";
     if (!/<link rel="preconnect" href="https:\/\/pagead2\.googlesyndication\.com"/.test(h)) return "missing preconnect to pagead2.googlesyndication.com";
     if (!/\.ad-slot\{[^}]*min-height:\d/.test(h)) return "ad slots without a reserved min-height";
-    if (/ad-slot--top/.test(h) && /\.ad-slot:has\(ins\[data-ad-status="?unfilled"?\]\)\{display:none/.test(h)) return "top ad collapses when unfilled (shifts the H1: CLS)";
+    if (/ad-slot--top/.test(h) && /\.ad-slot:has\(ins\[data-ad-status="?unfilled"?\]\)\{[^}]*display:none/.test(h)) return "top ad collapses when unfilled (shifts the H1: CLS)";
     return null;
   }));
 check("01-GA-LOAD", "Google Analytics on every page, loaded after window load: no gtag <script src> in the HTML (CWV)", () =>
@@ -129,7 +129,8 @@ check("01-NEWSBAR", "Every page has the news bar: story search and crawlable lin
   }));
 check("01-H1-FIT", "Headlines use the full column: the calendar site's 14-16ch h1 cap is lifted on news pages; the breadcrumb shows the current page", () =>
   each(urls, (u, h) => {
-    if (!/\.news-main h1,\.news-main h2,\.news-main h3\{max-width:none/.test(h)) return "h1 max-width cap not lifted";
+    // Any declaration order: Astro 7's CSS minifier reorders properties inside a rule.
+    if (!/\.news-main h1,\.news-main h2,\.news-main h3\{[^}]*max-width:none/.test(h)) return "h1 max-width cap not lifted";
     if (/\.crumbs li:last-child\{display:none\}/.test(h)) return "breadcrumb hides the current page";
     return null;
   }));
