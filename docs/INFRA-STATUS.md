@@ -1,89 +1,28 @@
-# Infra status checklist — Fresh Calendars
+# Infra status — Fresh Calendars
 
-Last checked: **2026-08-03** (clean go/no-go — **GO**)
+Cut over from the VPS to Cloudflare on **2026-10-31** (PR #151). Setup and workflows: `docs/DEPLOY.md`.
 
-## Summary
+| Piece | Status | Detail |
+|---|---|---|
+| `freshcalendars.com/*` | Cloudflare Worker `freshcalendars` | static assets (~1,300 files, limit 20,000), Workers Free |
+| `www` | zone dynamic redirect → apex (301) | unchanged |
+| `cdn.freshcalendars.com` | R2 bucket `freshcalendars` (custom domain) | edge cache 31 days (zone cache rule) |
+| Build state | R2 bucket `freshcalendars-state` | private |
+| Publishing | GitHub Actions `ci.yml` → `deploy.yml` | green pushes to `main` |
+| Scheduled jobs | `calendar.yml`, `scheduled.yml` | replaced the VPS crontab |
+| Contact form | Worker `/api/contact` + Turnstile `freshcalendars-contact` | mail from `contact@notify.freshcalendars.com` (Email Routing on the `notify` subdomain only) |
+| Mail for the domain | Zoho (MX, SPF, DKIM unchanged) | |
+| CI token | `freshcalendars-ci` (scoped) | in GitHub secrets |
 
-| Area | Status | Notes |
-|------|--------|-------|
-| Cloudflare zone | ✅ | `1e7d8a7f6839cf53df0ac94e2c264ebd` · active |
-| Registrar NS | ✅ | 1.1.1.1 / 8.8.8.8 → `alexis` / `nelly` |
-| Apex/www A → VPS | ✅ | `2.25.147.42` proxied |
-| Site | ✅ | home/hub/blank/month/holidays/when-is/legal/sitemap/ads **200** |
-| Origin Let’s Encrypt | ✅ | Hestia SSL + LE yes |
-| CF SSL | ✅ | **strict** · always HTTPS · Rocket Loader off |
-| Universal SSL wildcard | ✅ | active (Google CA, 2026-10-28) |
-| `cdn.freshcalendars.com` | ✅ | health **200** (proxied) |
-| DO CDN host / Spaces | ✅ | health 200 · LIST 200 · custom domain attached |
-| Spaces key | ✅ | `freshcalendars-factory` |
-| Docs + `.env` | ✅ | Fresh bindings |
-| Factory code | ✅ | deployed `dist/site` + app sync + CF purge |
-| Live SSG | ✅ | hubs/when-is/legal 200 · brand Fresh Calendars |
+Apex and www DNS records still point at the VPS (`2.25.147.42`, proxied); the Worker route answers
+before the origin. Removing the route is the rollback.
 
----
+## Left in place for the rollback window (until 2026-11-28)
 
-## Cloudflare DNS
+- VPS: `public_html`, the app directory, the src clone, MySQL tables `cron_runs`, `cron_schedule`,
+  `contact_messages`; crontab lines commented with `#CF-CUTOVER-2026-10-31`
+  (backup `/root/crontab.before-cloudflare-2026-10-31.bak`).
+- DigitalOcean Spaces bucket `freshcalendars` and its CDN endpoint (no longer in DNS).
 
-| Type | Name | Content | Proxied |
-|------|------|---------|---------|
-| A | `freshcalendars.com` | `2.25.147.42` | yes |
-| A | `www.freshcalendars.com` | `2.25.147.42` | yes |
-| CNAME | `cdn.freshcalendars.com` | `freshcalendars.nyc3.cdn.digitaloceanspaces.com` | yes |
-| TXT | `_acme-challenge` | Universal SSL DCV values | no |
-| MX / TXT | apex + DKIM | Zoho / Google verify / SPF | no |
-
-## Zone settings
-
-Free plan, no paid add-ons (checked 2026-10-28). SSL **strict** · Always HTTPS · Min TLS 1.2 · TLS1.3/0-RTT · Brotli · HTTP/3 · Early Hints **off** (no Link headers; it only added edge subrequests) · Rocket Loader **off** · Polish **off** (paid) · Security medium · cache level **aggressive** · browser TTL respect origin · Smart Tiered Cache **on** (free) · Argo **off** (paid)
-
-Redirect Rule: `www.freshcalendars.com/*` → `https://freshcalendars.com/*` **301**, path and query kept (2026-10-28).
-
-### Cache (2026-08-03)
-
-| Layer | Policy |
-|-------|--------|
-| CF Cache Rules | apex + www → edge TTL **31d** · `/news/` (not `_astro`, `downloads`) → **1d** · `cdn.` host → **31d** (all `override_origin`; 4xx 60s, 5xx not cached) |
-| Origin HTML | `Cache-Control: public, max-age=300, stale-while-revalidate=3600` (browsers, since 2026-10-27; was 7 days) + `CDN-Cache-Control: max-age=2678400` (Cloudflare) |
-| Origin static | CSS/img **30d** · fonts **365d immutable** |
-| Hestia nginx | `scripts/hestia-apply-nginx-cache.sh` (:80 + :443, user `yuzdehesaplama`) |
-
-Warm edge proof (DOH PoP): `cf-cache-status: HIT`, homepage median TTFB **~37ms**.
-
-### Lighthouse mobile (warm, 2026-08-03)
-
-| URL | Perf | LCP | CLS |
-|-----|------|-----|-----|
-| `/` | 98 | 2.1s | 0.019 |
-| `/printable-calendars.html` | 99 | 2.0s | 0 |
-| `/august-calendars.html` | 99 | 2.1s | 0 |
-| `/blank-calendars.html` | 100 | 1.7s | 0 |
-
-BP ~75 expected (AdSense 3P cookies). `pnpm smoke:lighthouse` OK.
-
-## DigitalOcean
-
-| Field | Value |
-|-------|--------|
-| Bucket | `freshcalendars` nyc3 |
-| CDN endpoint | `fb3b07cf-83cb-4b09-aca0-b681c6b050d9` |
-| Custom domain | `cdn.freshcalendars.com` (`needs-cloudflare-cert`) |
-| Spaces key | `freshcalendars-factory` |
-| Interim asset URL | `https://freshcalendars.nyc3.cdn.digitaloceanspaces.com` until custom domain SSL active |
-
-## VPS
-
-| Field | Value |
-|-------|--------|
-| `DEPLOY_PATH` | `/home/yuzdehesaplama/web/freshcalendars.com/public_html/` |
-| LE | yes (2026-08-03 → 2026-11-01) |
-
-## Smoke
-
-```
-https://freshcalendars.com/printable-calendars.html → 200
-https://freshcalendars.com/january-calendars.html   → 200
-https://freshcalendars.com/when-is/easter           → 200
-https://freshcalendars.nyc3.cdn.digitaloceanspaces.com/.factory-health.txt → 200
-```
-
-After Universal SSL → `active`, re-check `https://cdn.freshcalendars.com/.factory-health.txt` (expect 200; was intermittently 1014 while pending).
+After 2026-11-28, if nothing needed the VPS: delete those, the nginx maps in
+`/etc/nginx/freshcalendars/` and `conf.d/freshcalendars-*.conf`, and the Spaces bucket.
