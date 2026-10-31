@@ -97,7 +97,7 @@ internalLinks:
     label: "November 2026 printable calendar"
   - href: "/printable-weekly-calendar.html"
     label: "Printable weekly calendar"
-related: [netflix-new-movies-november-2026-release-dates, pride-and-prejudice-netflix-release-date-december-3-reading-plan]
+related: [netflix-new-movies-november-2026-release-dates, new-movies-in-theaters-november-2026-release-dates-hunger-games-hexed, pride-and-prejudice-netflix-release-date-december-3-reading-plan]
 draft: false
 ---
 

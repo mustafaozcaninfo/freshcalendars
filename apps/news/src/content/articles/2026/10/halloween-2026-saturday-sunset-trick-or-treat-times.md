@@ -55,7 +55,7 @@ internalLinks:
     label: "When does daylight saving time end"
   - href: "/october-calendars.html"
     label: "October 2026 printable calendar"
-related: [halloween-2026-what-day-trick-or-treating-start, samhain-2026-october-31-november-1-oiche-shamhna-sunset-times-puca-festival, daylight-saving-time-ends-november-1-2026]
+related: [halloween-2026-what-day-trick-or-treating-start, next-saturday-halloween-2037-halloween-day-of-week-every-year, daylight-saving-time-ends-november-1-2026]
 downloads:
   - group: "Halloween 2026 printable"
     title: "Halloween 2026 Sunset and Dark by City"

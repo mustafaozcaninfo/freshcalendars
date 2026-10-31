@@ -9,7 +9,9 @@ import {
   type Author,
   type Category,
 } from "./articles";
-import { paginate, type Page } from "./listing";
+import { paginate, PER_PAGE, type Page } from "./listing";
+import { liveTopics } from "./storygraph";
+import { topicPath, type Topic } from "./topics";
 
 export const HOME = {
   heading: "Calendar & Holiday News",
@@ -29,6 +31,19 @@ export async function categoryPages(): Promise<{ category: Category; page: Page<
     for (const page of paginate(items, categoryHref(category.id))) out.push({ category, page });
   }
   return out;
+}
+
+/**
+ * Topic hub pages. A daily-puzzle hub gains a story a day, so hubs page like categories, with
+ * larger pages: most hubs stay one page and a year of Wordle is about seven.
+ */
+export const HUB_PER_PAGE = PER_PAGE * 3;
+
+export async function topicPages(): Promise<{ topic: Topic; items: Article[]; page: Page<Article>; all: Article[] }[]> {
+  const all = await getPublishedArticles();
+  return liveTopics(all).flatMap(({ topic, items }) =>
+    paginate(items, topicPath(topic.slug), HUB_PER_PAGE).map((page) => ({ topic, items, page, all })),
+  );
 }
 
 /** Every author gets a profile page, even before their first story (byline links must resolve). */

@@ -63,7 +63,7 @@ internalLinks:
     label: "November 2026 printable calendar"
   - href: "/when-is/veterans-day/"
     label: "When is Veterans Day?"
-related: [veterans-day-2026-wednesday-november-11, canada-statutory-holidays-2027-federal-general-holidays, november-2026-important-dates-days-until]
+related: [veterans-day-2026-wednesday-november-11, remembrance-sunday-2026-cenotaph-timings-8-november-festival-of-remembrance, november-2026-important-dates-days-until]
 downloads:
   - group: "Remembrance Day 2026 by Province and Territory printables"
     title: "Remembrance Day 2026 by Province and Territory"
@@ -129,7 +129,7 @@ Veterans Affairs Canada says the nation pauses at 11:00 a.m. for two solemn minu
 
 GOV.UK's guidance for the National Service of Remembrance sets it for Sunday, Nov. 8, 2026. The service is held at the Cenotaph on Whitehall in London and starts at 11 a.m., which is Greenwich Mean Time (GMT) after UK clocks go back on Oct. 25. At 11 a.m. the national two-minute silence is marked by the firing of guns from King's Troop on Horse Guards Parade.
 
-GOV.UK says no tickets or passes are needed for the event, and that space is limited.
+GOV.UK says no tickets or passes are needed for the event, and that space is limited. Our [Remembrance Sunday 2026 timetable](/news/remembrance-sunday-2026-cenotaph-timings-8-november-festival-of-remembrance/) lists the Cenotaph timings, the Festival of Remembrance on 7 November and where to stand.
 
 | Event | Date | Time |
 |---|---|---|

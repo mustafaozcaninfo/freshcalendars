@@ -92,7 +92,7 @@ internalLinks:
     label: "December 2026 printable calendar"
   - href: "/when-is/christmas-day/"
     label: "When is Christmas Day?"
-related: [usps-holiday-shipping-deadlines-2026]
+related: [usps-holiday-shipping-deadlines-2026, giving-tuesday-2026-december-1-tax-deduction-charity-check, fedex-ups-holiday-shipping-deadlines-2026-christmas]
 draft: false
 ---
 

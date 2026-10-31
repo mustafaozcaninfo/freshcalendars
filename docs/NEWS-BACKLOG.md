@@ -31,7 +31,7 @@ Routine D (`docs/PUZZLE-ROUTINES.md`) takes one item from this list per run, hig
 - [x] **sports-who-is-who** [content] (done 2026-10-31) Connections: Sports Edition: one line per group on who the names are, for the last 3 published days.
   Add a short "Who they are" line per group to the 3 newest Sports Edition pages, each fact confirmed on a league, team or other authoritative page (cite it under `sources:`). Set `updatedAt`. Routine B writes new pages with this line from now on (skill rule added Oct. 30).
 
-- [ ] **bee-ranks** [content] Evergreen explainer: how Spelling Bee points, ranks and Genius work.
+- [ ] **bee-ranks** [content] (blocked: no NYT page with the rank names and percentages could be read; help.nytimes.com and the game page refuse automated requests, and no two newsrooms print the ladder (only fan and gaming sites, which disagree on Genius), 2026-10-31) Evergreen explainer: how Spelling Bee points, ranks and Genius work.
   Only if NYT publishes the rank names and percentages on a page we can read (Help Center or the game's rules); otherwise hold the item and note why. Points rules (1 point for a four-letter word, one per letter above that, +7 per pangram) and Genius at 70% are already in `docs/PUZZLES.md`. A worked example table from one saved day (`apps/news/src/content/puzzles/bee/`). Link the daily Spelling Bee pages and the tracker.
 
 - [ ] **letterboxed-roundup-link** [code] Letter Boxed hub and daily pages link the month's roundup once it is live.
@@ -40,5 +40,6 @@ Routine D (`docs/PUZZLE-ROUTINES.md`) takes one item from this list per run, hig
 - [ ] **puzzle-hub-table** [code] Game hubs show a date, number and link table of every page.
   `/news/topic/<game>/` lists stories as cards; add a compact table above them for puzzle hubs (date, puzzle number, link to hints page; no answers, so the hub never spoils). Built from the stories, server-rendered.
 
-- [ ] **missing-days-audit** [content] Find and report puzzle days with no page since Oct. 21, 2026.
+- [x] **missing-days-audit** [content] (done 2026-10-31) Find and report puzzle days with no page since Oct. 21, 2026.
+  Result (Oct. 21-31): no NYT-data game misses a page in the last 3 days (Oct. 28-30), so no page was written. Older gaps, report only, and NYT still serves the data for each: Wordle, Connections, Strands and the Mini Oct. 22-24; Pips and Spelling Bee Oct. 21-24; Letter Boxed Oct. 21-26. Routine B's games (not touched): Sports Edition Oct. 21-24, 27, 28, 31; Waffle Oct. 21-25, 27; Blossom Oct. 22-24, 28; LinkedIn Oct. 21-24, 27, 28; Quordle and Contexto Oct. 22-24.
   List every game and date with no page (scripted from the slugs), note which still have official data that NYT serves (past days: Wordle, Connections, Strands, Pips, Mini, Spelling Bee, Letter Boxed), and write pages only for dates in the last 3 days whose data is served (routine A writes today and later, so past days are this item's). Older days: report only. Do not touch routine B's games.

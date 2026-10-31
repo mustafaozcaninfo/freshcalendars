@@ -74,7 +74,7 @@ internalLinks:
     label: "November 2026 printable calendar"
   - href: "/printable-weekly-calendar.html"
     label: "Printable weekly calendar"
-related: [lifetime-christmas-movies-2026-schedule-its-a-wonderful-lifetime, hallmark-countdown-to-christmas-2026-schedule-printable, new-on-peacock-november-2026-release-dates]
+related: [new-movies-in-theaters-november-2026-release-dates-hunger-games-hexed, lifetime-christmas-movies-2026-schedule-its-a-wonderful-lifetime, hallmark-countdown-to-christmas-2026-schedule-printable]
 downloads:
   - group: "Netflix Movies November 2026 Watch List printables"
     title: "Netflix Movies November 2026 Watch List"

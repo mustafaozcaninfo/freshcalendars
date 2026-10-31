@@ -149,7 +149,7 @@ The La Liga figures come from LaLiga, the Bundesliga deal from the Bundesliga's 
 
 ## The five biggest games this weekend
 
-1. **Bayern Munich vs. Borussia Dortmund**, Saturday, 1:30 p.m. ET (10:30 a.m. PT). Der Klassiker kicks off at 6:30 p.m. in Munich. We could not confirm whether USA Network or Fandango carries it; check USA Network's guide first.
+1. **Bayern Munich vs. Borussia Dortmund**, Saturday, 1:30 p.m. ET (10:30 a.m. PT). Der Klassiker kicks off at 6:30 p.m. in Munich. We could not confirm whether USA Network or Fandango carries it; check USA Network's guide first. Opta's prediction and the last five meetings are in our [Bayern vs. Dortmund match guide](/news/bayern-vs-dortmund-prediction-last-5-matches-where-to-watch-2026/).
 2. **AC Milan vs. Inter**, Saturday, 3:45 p.m. ET (12:45 p.m. PT), on CBS Sports Golazo Network. The Milan derby is at San Siro.
 3. **Liverpool v Arsenal**, Sunday, 11:30 a.m. ET (8:30 a.m. PT), on Peacock, per NBC Sports. Every Premier League match this weekend is in our [Premier League fixtures](/news/premier-league-fixtures-this-weekend-october-31-november-2-2026-kickoff-times-tv/) story.
 4. **Juventus vs. Napoli**, Sunday, 2:45 p.m. ET (11:45 a.m. PT), on Paramount+.

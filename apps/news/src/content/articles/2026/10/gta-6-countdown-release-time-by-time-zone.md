@@ -112,7 +112,7 @@ internalLinks:
     label: "November 2026 printable calendar"
   - href: "/printable-weekly-calendar.html"
     label: "Printable weekly planner"
-related: [gta-6-october-22-2026-what-is-confirmed-release-countdown, video-game-release-dates-2027-calendar]
+related: [gta-6-october-22-2026-what-is-confirmed-release-countdown, video-game-release-dates-november-2026-gta-6-ocarina-of-time, wow-forever-launch-time-by-time-zone-november-4]
 downloads:
   - group: "GTA 6 Launch Checklist and Release Times printables"
     title: "GTA 6 Launch Checklist and Release Times, Nov. 19, 2026"

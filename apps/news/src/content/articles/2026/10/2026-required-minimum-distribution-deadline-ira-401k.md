@@ -142,7 +142,7 @@ An RMD is the account balance as of Dec. 31 of the preceding year divided by a f
 | 79 | 21.1 |
 | 80 | 20.2 |
 
-A hypothetical example, not advice for any account: a $500,000 balance on Dec. 31, 2025, and an owner who is 75 in 2026 gives $500,000 divided by 24.6, or $20,325.20 for 2026. Your own figure depends on your balances and your custodian's statement.
+A hypothetical example, not advice for any account: a $500,000 balance on Dec. 31, 2025, and an owner who is 75 in 2026 gives $500,000 divided by 24.6, or $20,325.20 for 2026. Your own figure depends on your balances and your custodian's statement. Publication 590-B says to use the Uniform Lifetime Table "if your spouse isn't the sole designated beneficiary," or if a spouse who is the sole designated beneficiary is not more than 10 years younger. An owner whose spouse is the sole designated beneficiary and more than 10 years younger uses the Joint Life and Last Survivor table instead.
 
 ## Do Roth accounts have RMDs?
 

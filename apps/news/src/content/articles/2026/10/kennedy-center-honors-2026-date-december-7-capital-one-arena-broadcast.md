@@ -90,6 +90,7 @@ downloads:
     pdf: "/news/downloads/kennedy-center-honors-2026/kennedy-center-honors-2026-watch-list-ink.pdf"
     png: "/news/downloads/kennedy-center-honors-2026/kennedy-center-honors-2026-watch-list-ink.png"
     pages: 1
+related: [golden-globes-oscars-2027-dates-nominations-how-to-watch-awards-calendar, grammy-nominations-2027-date-69th-grammys-february-7, cma-awards-2026-date-time-channel-host-nominees]
 ---
 
 The 49th annual Kennedy Center Honors are set for Monday, Dec. 7, 2026, at Capital One Arena in downtown Washington, D.C., according to a Kennedy Center spokesperson quoted by the Associated Press (AP) and CBS News on Oct. 2, 2026. The honorees, the host, the broadcast network and the air date have not been announced.

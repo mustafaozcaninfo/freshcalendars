@@ -94,6 +94,7 @@ assets:
     inkSaver: true
     description: "One-page timeline of Sir Patrick Stewart's life and career from 1940 to 2026, with his age at each milestone."
     alt: "Printable timeline of Patrick Stewart's life and career, 1940 to 2026, with his age at each milestone"
+related: [golden-globes-oscars-2027-dates-nominations-how-to-watch-awards-calendar, kennedy-center-honors-2026-date-december-7-capital-one-arena-broadcast, new-on-paramount-plus-november-2026-yellowjackets-final-season]
 ---
 
 **Sir Patrick Stewart died on Wednesday, Oct. 28, 2026, at his home in Los Angeles, his representatives said in a statement posted Thursday. He was 86.**

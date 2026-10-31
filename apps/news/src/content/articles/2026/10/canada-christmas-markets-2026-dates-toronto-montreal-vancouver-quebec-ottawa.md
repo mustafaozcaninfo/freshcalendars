@@ -69,7 +69,7 @@ internalLinks:
     label: "November 2026 printable calendar"
   - href: "/december-calendars.html"
     label: "December 2026 printable calendar"
-related: [manchester-birmingham-christmas-markets-2026-dates-opening-times, toronto-santa-claus-parade-2026-sunday-november-22-route-citytv, canada-post-holiday-shipping-deadlines-2026-christmas]
+related: [manchester-birmingham-christmas-markets-2026-dates-opening-times, toronto-santa-claus-parade-2026-sunday-november-22-route-citytv, us-christmas-markets-2026-opening-dates-philadelphia-dc-detroit-nyc]
 downloads:
   - group: "Canada Christmas Markets 2026 printables"
     title: "Canada Christmas Markets 2026: Opening and Closing Dates"
