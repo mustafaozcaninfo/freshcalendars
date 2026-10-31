@@ -491,6 +491,16 @@ export const KEY_DATES: KeyDate[] = [
   { date: "2026-11-21", label: "NWSL Championship at Audi Field", slug: "nwsl-playoffs-2026-schedule-decision-day-quarterfinals-championship-november-21" },
   { date: "2026-11-02", label: "Dancing with the Stars Disney Night, Monday 8 p.m. ET on ABC", slug: "dancing-with-the-stars-2026-schedule-disney-night-monday-november-2-finale-november-24" },
   { date: "2026-11-24", label: "Dancing with the Stars Season 35 finale (reported)", slug: "dancing-with-the-stars-2026-schedule-disney-night-monday-november-2-finale-november-24" },
+  { date: "2026-11-06", label: "OHSAA football regional quarterfinals, 7 p.m. ET", slug: "ohsaa-football-playoffs-2026-schedule-regional-dates-state-finals-canton" },
+  { date: "2026-11-13", label: "OHSAA football regional semifinals", slug: "ohsaa-football-playoffs-2026-schedule-regional-dates-state-finals-canton" },
+  { date: "2026-11-20", label: "OHSAA football regional finals at neutral sites", slug: "ohsaa-football-playoffs-2026-schedule-regional-dates-state-finals-canton" },
+  { date: "2026-11-27", label: "OHSAA football state semifinals", slug: "ohsaa-football-playoffs-2026-schedule-regional-dates-state-finals-canton" },
+  { date: "2026-12-03", label: "OHSAA football state finals begin in Canton, Division II 7 p.m. ET", slug: "ohsaa-football-playoffs-2026-schedule-regional-dates-state-finals-canton" },
+  { date: "2026-11-05", label: "Jalen Brunson on Law & Order: SVU, 9 p.m. ET on NBC", slug: "jalen-brunson-law-and-order-svu-episode-air-date-november-5-time-peacock" },
+  { date: "2026-11-01", label: "World Vegan Day; World Vegan Month begins", slug: "world-vegan-day-2026-sunday-november-1-world-vegan-month-planner" },
+  { date: "2026-11-06", label: "FPL Gameweek 10 deadline, 6:30 p.m. GMT (1:30 p.m. ET)", slug: "fpl-deadlines-2026-27-every-gameweek-deadline-time-uk-us-chip-dates" },
+  { date: "2026-11-21", label: "FPL Gameweek 11 deadline, 11 a.m. GMT (6 a.m. ET)", slug: "fpl-deadlines-2026-27-every-gameweek-deadline-time-uk-us-chip-dates" },
+  { date: "2027-01-01", label: "FPL Gameweek 19 deadline: first chip set expires", slug: "fpl-deadlines-2026-27-every-gameweek-deadline-time-uk-us-chip-dates" },
 ];
 
 /** Today's date in Eastern Time as YYYY-MM-DD. */
