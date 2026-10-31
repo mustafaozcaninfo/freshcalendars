@@ -31,10 +31,30 @@ log() { echo "[deploy] $*"; }
 summary() { [[ -n "${GITHUB_STEP_SUMMARY:-}" ]] && echo "$*" >>"$GITHUB_STEP_SUMMARY"; log "$*"; }
 
 # News images are named by a hash of their content: upload only names R2 does not have yet.
+# The names already uploaded are kept in the state bucket (news/astro-files.txt), so a story push
+# uploads its few new files without listing the 80,000 objects in the bucket (that took 2 minutes).
 upload_images() {
   [[ -d dist/news/_astro ]] || return 0
-  "${RCLONE[@]}" copy dist/news/_astro "$CDN_BUCKET/news/_astro" --ignore-existing \
-    --header-upload "Cache-Control: public, max-age=31536000, immutable"
+  local list known new
+  list="$(mktemp)"; known="$(mktemp)"; new="$(mktemp)"
+  (cd dist/news/_astro && find . -type f | sed 's#^\./##' | LC_ALL=C sort) >"$list"
+  rclone cat "$STATE/news/astro-files.txt" 2>/dev/null | LC_ALL=C sort -u >"$known" || true
+  if [[ -s "$known" ]]; then
+    LC_ALL=C comm -23 "$list" "$known" >"$new"
+    log "news images: $(wc -l <"$new" | tr -d ' ') new of $(wc -l <"$list" | tr -d ' ')"
+    [[ -s "$new" ]] && "${RCLONE[@]}" copy dist/news/_astro "$CDN_BUCKET/news/_astro" --files-from-raw "$new" --no-traverse \
+      --header-upload "Cache-Control: public, max-age=31536000, immutable"
+  else
+    log "news images: no record of uploaded names, comparing with the bucket"
+    "${RCLONE[@]}" copy dist/news/_astro "$CDN_BUCKET/news/_astro" --ignore-existing \
+      --header-upload "Cache-Control: public, max-age=31536000, immutable"
+  fi
+  # Recorded only after the upload succeeded (errexit), so a listed name is always in R2.
+  if [[ "${DRY_RUN:-0}" != "1" ]]; then
+    LC_ALL=C sort -u "$known" "$list" >"$new"
+    rclone copyto "$new" "$STATE/news/astro-files.txt"
+  fi
+  rm -f "$list" "$known" "$new"
 }
 
 # Changed objects on cdn.freshcalendars.com, purged 30 URLs per call (calendar files keep their URL).
@@ -166,7 +186,19 @@ deploy() {
 # GitHub cache: a cold cache re-encodes every hero variant (~30 min).
 IMAGE_CACHE=apps/news/node_modules/.astro/assets
 pull_image_cache() { mkdir -p "$IMAGE_CACHE"; "${RCLONE[@]}" copy "$STATE/astro-cache" "$IMAGE_CACHE" --ignore-existing || true; }
-push_image_cache() { "${RCLONE[@]}" copy "$IMAGE_CACHE" "$STATE/astro-cache" --ignore-existing || true; }
+# IMAGE_CACHE_SINCE=<file>: only cache entries newer than it (written by this build), without
+# listing the remote copy.
+push_image_cache() {
+  if [[ -n "${IMAGE_CACHE_SINCE:-}" && -f "$IMAGE_CACHE_SINCE" ]]; then
+    local new; new="$(mktemp)"
+    (cd "$IMAGE_CACHE" && find . -type f -newer "$IMAGE_CACHE_SINCE" | sed 's#^\./##') >"$new"
+    log "image cache: $(wc -l <"$new" | tr -d ' ') new entries"
+    [[ -s "$new" ]] && "${RCLONE[@]}" copy "$IMAGE_CACHE" "$STATE/astro-cache" --files-from-raw "$new" --no-traverse || true
+    rm -f "$new"
+  else
+    "${RCLONE[@]}" copy "$IMAGE_CACHE" "$STATE/astro-cache" --ignore-existing || true
+  fi
+}
 
 case "${1:-}" in
   images) upload_images ;;
