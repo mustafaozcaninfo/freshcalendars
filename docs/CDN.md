@@ -1,48 +1,32 @@
 # CDN — Fresh Calendars
 
-## Target topology
-
-| Piece | Value | Status (2026-08-03) |
-|-------|--------|---------------------|
-| Provider | DigitalOcean Spaces (nyc3) | ✅ |
-| Bucket | `freshcalendars` | ✅ |
-| Origin endpoint | `https://freshcalendars.nyc3.digitaloceanspaces.com` | ✅ |
-| DO CDN | `https://freshcalendars.nyc3.cdn.digitaloceanspaces.com` | ✅ endpoint `fb3b07cf-83cb-4b09-aca0-b681c6b050d9` |
-| Public host | `https://cdn.freshcalendars.com` | ✅ DO custom domain + CF CNAME (proxied) |
-| Spaces key R/W | `freshcalendars-factory` in `.env` | ✅ LIST/PUT/public GET verified |
-
-Live checklist: [`INFRA-STATUS.md`](INFRA-STATUS.md).
+`cdn.freshcalendars.com` is the R2 bucket `freshcalendars` (custom domain on the freshcalendars.com
+zone, cached at the edge for 31 days by the zone's cache rule). It replaced DigitalOcean Spaces on
+the Cloudflare cutover; object paths did not change.
 
 ## Object layout
 
 ```
-assets/{year}/yearly/.../calendar.{png,pdf}
+assets/{year}/yearly/.../calendar.{png,pdf}, calendar-preview*.webp
 assets/{year}/monthly/{month}/.../calendar.{png,pdf}
-assets/blank/...
-assets/school/{span}/overview/...
-og/{pageId}.png
+assets/blank/..., assets/weekly/..., assets/school/{span}/overview/...
+assets/studio/...                 studio printables (pages linked these as /assets/..., which now 301s here)
+og/{pageId}.png                   Open Graph images of the calendar pages
+news/_astro/*.{avif,webp}         /news/ hero variants (Astro build.assetsPrefix); never overwritten
+news/downloads/<group>/*          /news/ printables; also served at freshcalendars.com/news/downloads/
+                                  by the Worker with the story canonical as a Link header
+robots.txt
 ```
 
-Legacy on-origin printables live under `printable/yearly|monthly|blank/` — after cutover, HTML download buttons point at `CDN_ORIGIN`, not `/printable/…`.
+## Who writes it
 
-## Commands
+- `cloudflare/deploy.sh images` (CI, after the checks): new `news/_astro` files, `--ignore-existing`.
+- `cloudflare/deploy.sh deploy`: `news/downloads` synced with the build (removed printables are deleted).
+- `cloudflare/deploy.sh sync-calendar-assets` (`calendar.yml`): changed `assets/` and `og/` files,
+  then those URLs are purged from the edge cache. Nothing under `assets/` is ever deleted.
 
-```bash
-pnpm fc sync-cdn    # public-read + sha256 dedupe
-pnpm fc purge-cdn   # DO CDN endpoint purge via API
-```
+Cache-Control on objects: `public, max-age=31536000, immutable` for `news/_astro`,
+`public, max-age=604800, immutable` for `assets/` and `og/` (as on Spaces).
 
-Env: `DO_SPACES_*`, `DIGITALOCEAN_ACCESS_TOKEN`, `DO_CDN_ENDPOINT_ID=fb3b07cf-83cb-4b09-aca0-b681c6b050d9`, `CDN_ORIGIN=https://cdn.freshcalendars.com`.
-
-## DNS / custom domain
-
-1. ~~Create Spaces CDN endpoint~~ ✅  
-2. ~~Custom domain `cdn.freshcalendars.com` + `needs-cloudflare-cert`~~ ✅  
-3. ~~CF `cdn` CNAME → DO CDN host~~ ✅ (DNS-only until Universal SSL for `*.freshcalendars.com` is Active; then can orange-cloud)  
-4. ~~Bucket-scoped Spaces key `freshcalendars-factory`~~ ✅  
-5. Optional: Cache Rule for `cdn.freshcalendars.com/*` long TTL  
-6. **Depends on:** registrar NS → alexis/nelly so CF (and thus `cdn.`) is authoritative
-
-## Cutover note
-
-Keep origin `/printable/` readable for 30 days (or 301 to CDN) so old external hotlinks don’t 404.
+Before the cutover the bucket was readable on `pub-15d7255f26e84763a4df070b63ac9d6a.r2.dev` for the
+parity test; that dev URL is turned off afterwards.

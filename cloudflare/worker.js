@@ -34,7 +34,9 @@ export default {
 async function notFound(request, env, path) {
   const news = path === "/news" || path.startsWith("/news/");
   const page = await env.ASSETS.fetch(new URL(news ? "/news/404.html" : "/404.html", request.url));
-  const headers = new Headers({ "Content-Type": "text/html; charset=utf-8", "Cache-Control": news ? NEWS_CACHE : HTML_CACHE });
+  const headers = new Headers({ "Content-Type": "text/html; charset=utf-8" });
+  // nginx refused dotfiles (/.env, /.git/) before its cache headers applied.
+  if (!/\/\./.test(path)) headers.set("Cache-Control", news ? NEWS_CACHE : HTML_CACHE);
   return new Response(request.method === "HEAD" ? null : page.body, { status: 404, headers });
 }
 

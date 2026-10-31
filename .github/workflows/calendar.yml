@@ -75,7 +75,7 @@ jobs:
           cloudflare/deploy.sh push-calendar-state
       - name: Pack the pages
         run: tar -czf calendar-build.tar.gz --exclude 'site/assets' -C dist site
-      - uses: actions/upload-artifact@v6
+      - uses: actions/upload-artifact@v7
         with:
           name: calendar-build
           path: calendar-build.tar.gz

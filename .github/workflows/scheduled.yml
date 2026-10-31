@@ -81,7 +81,7 @@ jobs:
         run: |
           cloudflare/deploy.sh images
           tar -czf news-build.tar.gz --exclude 'news/_astro' -C dist news news-data
-      - uses: actions/upload-artifact@v6
+      - uses: actions/upload-artifact@v7
         with:
           name: news-build
           path: news-build.tar.gz

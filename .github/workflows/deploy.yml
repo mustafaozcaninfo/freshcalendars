@@ -44,6 +44,10 @@ jobs:
       R2_SECRET_ACCESS_KEY: ${{ secrets.R2_SECRET_ACCESS_KEY }}
       CF_ZONE_ID: ${{ secrets.CF_ZONE_ID }}
       ANINDA_INDEX_KEY: ${{ secrets.ANINDA_INDEX_KEY }}
+      # Search engines are told about new stories only once freshcalendars.com is served from here
+      # (repository variable CF_LIVE=1, set at the cutover).
+      NEWS_INDEXNOW: ${{ vars.CF_LIVE == '1' && '1' || '0' }}
+      NEWS_INDEX_SUBMIT: ${{ vars.CF_LIVE == '1' && '1' || '0' }}
     steps:
       - uses: actions/checkout@v7
         with:
@@ -51,11 +55,11 @@ jobs:
       - uses: ./.github/actions/setup
         with:
           rclone: "true"
-      - uses: actions/download-artifact@v7
+      - uses: actions/download-artifact@v8
         if: inputs.artifact != ''
         with:
           name: ${{ inputs.artifact }}
-      - uses: actions/download-artifact@v7
+      - uses: actions/download-artifact@v8
         if: inputs.calendar-artifact != ''
         with:
           name: ${{ inputs.calendar-artifact }}

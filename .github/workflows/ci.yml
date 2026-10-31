@@ -108,7 +108,7 @@ jobs:
       - name: Pack the build for the deploy
         if: env.PUBLISH == 'true'
         run: tar -czf news-build.tar.gz --exclude 'news/_astro' -C dist news news-data
-      - uses: actions/upload-artifact@v6
+      - uses: actions/upload-artifact@v7
         if: env.PUBLISH == 'true'
         with:
           name: news-build

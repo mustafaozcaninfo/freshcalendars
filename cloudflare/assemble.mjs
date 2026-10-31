@@ -12,7 +12,7 @@
 import { cp, mkdir, readFile, readdir, rename, rm, stat, writeFile } from "node:fs/promises";
 import path from "node:path";
 import { fileURLToPath } from "node:url";
-import { LEGACY_RULES } from "./legacy-redirects.js";
+import { LEGACY_RULES, legacyRedirect } from "./legacy-redirects.js";
 
 const ROOT = path.resolve(path.dirname(fileURLToPath(import.meta.url)), "..");
 const SITE = path.join(ROOT, "dist/site");
@@ -98,6 +98,13 @@ for (const line of mapText.split("\n")) {
   if (from.startsWith("/news/downloads/")) downloadRedirects[from] = m[2];
   else redirectLines.push(`${from} ${m[2]} 301`);
 }
+// /x.html where x/index.html is a page: the asset router would answer 307 to /x/ before the Worker
+// sees it; Apache sent 301 (old-URL rules), so those go here as static 301s.
+for (const rel of files.filter((f) => f.endsWith("/index.html"))) {
+  const page = "/" + rel.replace(/\/index\.html$/, ".html");
+  const target = legacyRedirect(page);
+  if (target) redirectLines.push(`${page} ${target} 301`);
+}
 redirectLines.push(
   `/news/_astro/* ${CDN}/news/_astro/:splat 301`,
   `/assets/* ${CDN}/assets/:splat 301`,
@@ -111,11 +118,17 @@ const headers = [
   `/*\n  Cache-Control: ${HTML}\n  CDN-Cache-Control: public, max-age=2678400\n`,
   ...["/*.png", "/*.svg", "/*.ico", "/*.webmanifest", "/*.webp", "/*.jpg", "/*.css", "/*.js", "/*.txt"].map((p) => rule(p, STATIC)),
   // Apache sent no cache header for these (nginx passed them through).
-  ...["/*.xml", "/*.json"].map((p) => `${p}\n  ! Cache-Control\n  ! CDN-Cache-Control\n`),
+  ...["/*.xml", "/*.json", "/*.md"].map((p) => `${p}\n  ! Cache-Control\n  ! CDN-Cache-Control\n`),
+  "/favicon.ico\n  Content-Type: image/x-icon\n",
+  // Pages: nginx and Apache named the charset; the asset router sends bare text/html.
+  "/\n  Content-Type: text/html; charset=utf-8\n",
+  "/*/\n  Content-Type: text/html; charset=utf-8\n",
+  "/*.html\n  Content-Type: text/html; charset=utf-8\n",
+  "/*.txt\n  Content-Type: text/plain; charset=utf-8\n",
   rule("/*.woff2", IMMUTABLE),
   rule("/news/*", NEWS_HTML, "public, max-age=600"),
   rule("/news/*.xsl", "public, max-age=86400"),
-  rule("/news/design/*", STATIC),
+  "/news/*.xml\n  Content-Type: text/xml; charset=utf-8\n",
 ];
 await writeFile(path.join(PUBLIC, "_headers"), headers.join(""));
 
