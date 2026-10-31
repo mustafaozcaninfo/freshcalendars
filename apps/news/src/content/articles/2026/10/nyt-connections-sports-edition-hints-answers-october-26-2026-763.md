@@ -4,7 +4,7 @@ seoTitle: "Connections Sports Edition Hints Today, Oct. 26 (#763)"
 description: "Connections: Sports Edition #763 for Monday, Oct. 26, 2026: a hint for each group from football to golf, then all four answers, plus Sunday's #762 solution."
 type: explainer
 publishedAt: "2026-10-25T05:25:00-04:00"
-updatedAt: "2026-10-26T04:10:00-04:00"
+updatedAt: "2026-10-31T06:48:00-04:00"
 authors: [news-desk]
 category: puzzles
 keywords: ["Connections Sports Edition hints today", "Connections Sports Edition answers", "Sports Connections October 26 2026", "Connections Sports Edition 763", "NYT sports connections"]
@@ -50,6 +50,15 @@ sources:
     url: "https://www.technobezz.com/news/nyt-connections-sports-edition-763-hints-and-answers"
     publisher: "Technobezz"
     date: "2026-10-26"
+  - title: "Youth and High School Tackle Football Glossary"
+    url: "https://playfootball.nfl.com/tackle/youth-and-high-school-tackle-football-glossary/"
+    publisher: "NFL Play Football"
+  - title: "2026 NBA Draft Results: Picks 1-60"
+    url: "https://www.nba.com/news/2026-nba-draft-order"
+    publisher: "NBA.com"
+  - title: "5 takeaways: College players rule 1st round of 2026 NBA Draft"
+    url: "https://www.nba.com/news/five-takeaways-2026-draft-1st-round"
+    publisher: "NBA.com"
 internalLinks:
   - href: "/october-calendars.html"
     label: "October 2026 printable calendar"
@@ -92,6 +101,11 @@ More of Monday's puzzles: [Connections hints](/news/nyt-connections-hints-answer
 - **Purple, ___ Tackle:** Defensive, Horse-Collar, Right, Slide
 
 A defensive tackle and a right tackle play on the line in football, a horse-collar tackle is a penalty, and a slide tackle is a soccer challenge.
+
+Who they are:
+
+- **Yellow:** The long snapper sends the ball back to the holder or the punter, the kicker takes field goals, extra points and kickoffs, the punter kicks the ball away on fourth down, and the returner catches punts and kickoffs and runs them back.
+- **Blue:** Cameron Boozer (Duke, No. 3 to the Memphis Grizzlies), Keaton Wagler (Illinois, No. 5 to the LA Clippers), Darius Acuff Jr. (Arkansas, No. 7 to the Sacramento Kings) and Koa Peat (Arizona, No. 30) were all first-round picks in the June 2026 NBA Draft.
 
 ## Sunday's answers, #762, Oct. 25, 2026 (spoilers)
 
