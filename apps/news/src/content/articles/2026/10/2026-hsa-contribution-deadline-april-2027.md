@@ -1,7 +1,7 @@
 ---
-title: "2026 HSA Contribution Deadline Is Apr. 15, 2027: Limits, Catch-Up and Who Qualifies"
-seoTitle: "2026 HSA Contribution Deadline: Apr. 15, 2027"
-description: "The 2026 Health Savings Account (HSA) contribution deadline is Thu., Apr. 15, 2027. IRS limits are $4,400 self-only and $8,750 family; 2027 limits shown too."
+title: "2026 HSA Contribution Deadline Is April 15, 2027: Limits, Catch-Up and Who Qualifies"
+seoTitle: "2026 HSA Contribution Deadline: April 15, 2027"
+description: "The 2026 Health Savings Account (HSA) contribution deadline is Thu., April 15, 2027. IRS limits are $4,400 self-only and $8,750 family; 2027 limits shown too."
 type: explainer
 publishedAt: "2026-10-30T15:30:00-04:00"
 authors: [alex-morgan]
@@ -10,9 +10,9 @@ keywords: ["2026 HSA contribution deadline", "HSA contribution limit 2026", "HSA
 dateline: "New York"
 assets:
   overlay: true
-  kicker: "2026 HSA deadline · Thu., Apr. 15, 2027"
+  kicker: "2026 HSA deadline · Thu., April 15, 2027"
   date: "2027-04-15"
-  card: { top: "Last day to fund a 2026 HSA", big: "Thu., Apr. 15, 2027", bottom: "2026 limits: $4,400 self, $8,750 family" }
+  card: { top: "Last day to fund a 2026 HSA", big: "April 15, 2027", bottom: "2026 limits: $4,400 self, $8,750 family" }
   printable:
     slug: hsa-contribution-timeline-2026-tax-year
     group: hsa-2026
@@ -23,7 +23,7 @@ assets:
     rows:
       - ["Dec. 31, 2026", "Thursday. Last day of the 2026 coverage year. Eligible on Dec. 1? The last-month rule can apply."]
       - ["Jan. 1, 2027", "Friday. 2027 limits begin: $4,500 self-only, $9,000 family"]
-      - ["Apr. 15, 2027", "Thursday. Last day to contribute for 2026; file Form 8889 with your return"]
+      - ["April 15, 2027", "Thursday. Last day to contribute for 2026; file Form 8889 with your return"]
       - ["Check", "Covered by a qualifying high-deductible plan (2026 deductible at least $1,700 self, $3,400 family)"]
       - ["Check", "Not enrolled in Medicare (limit is zero from the first month of enrollment)"]
       - ["Check", "No general-purpose health FSA coverage (limited-purpose exception)"]
@@ -31,7 +31,7 @@ assets:
       - ["Check", "Age 55 or older at year end? Add the $1,000 catch-up"]
       - ["Check", "Tell the custodian a late deposit is for tax year 2026"]
     note: "Source: IRS Rev. Proc. 2025-19; IRS Publication 969; IRS Pay taxes on time page; IRS Rev. Proc. 2026-24."
-    description: "One-page printable timeline for 2026 Health Savings Account contributions: Dec. 31, 2026, Jan. 1, 2027 and the Apr. 15, 2027 deadline, plus an eligibility checklist."
+    description: "One-page printable timeline for 2026 Health Savings Account contributions: Dec. 31, 2026, Jan. 1, 2027 and the April 15, 2027 deadline, plus an eligibility checklist."
     alt: "Printable timeline of 2026 Health Savings Account contribution dates with an eligibility checklist"
 hero:
   src: ../../../../assets/news/2026-hsa-contribution-deadline-april-2027/2026-hsa-contribution-deadline-april-2027.webp
@@ -47,7 +47,7 @@ hero:
 downloads:
   - group: "HSA Contribution Timeline printables"
     title: "HSA Contribution Timeline, 2026 Tax Year"
-    description: "One-page printable timeline for 2026 Health Savings Account contributions: Dec. 31, 2026, Jan. 1, 2027 and the Apr. 15, 2027 deadline, plus an eligibility checklist."
+    description: "One-page printable timeline for 2026 Health Savings Account contributions: Dec. 31, 2026, Jan. 1, 2027 and the April 15, 2027 deadline, plus an eligibility checklist."
     preview: ../../../../assets/news/hsa-2026/hsa-contribution-timeline-2026-tax-year.png
     alt: "Printable timeline of 2026 Health Savings Account contribution dates with an eligibility checklist"
     pdf: "/news/downloads/hsa-2026/hsa-contribution-timeline-2026-tax-year.pdf"
@@ -55,7 +55,7 @@ downloads:
     pages: 1
   - group: "HSA Contribution Timeline printables"
     title: "HSA Contribution Timeline, 2026 Tax Year (ink saver)"
-    description: "One-page printable timeline for 2026 Health Savings Account contributions: Dec. 31, 2026, Jan. 1, 2027 and the Apr. 15, 2027 deadline, plus an eligibility checklist. Ink-saver version."
+    description: "One-page printable timeline for 2026 Health Savings Account contributions: Dec. 31, 2026, Jan. 1, 2027 and the April 15, 2027 deadline, plus an eligibility checklist. Ink-saver version."
     preview: ../../../../assets/news/hsa-2026/hsa-contribution-timeline-2026-tax-year-ink.png
     alt: "Printable timeline of 2026 Health Savings Account contribution dates with an eligibility checklist, ink-saver version"
     pdf: "/news/downloads/hsa-2026/hsa-contribution-timeline-2026-tax-year-ink.pdf"
@@ -150,6 +150,6 @@ Tell your HSA custodian that a deposit made in 2027 is for tax year 2026, so it 
 
 ## HSA or health FSA: how do the deadlines differ?
 
-They are separate accounts with separate rules. An HSA contribution deadline follows the tax return due date; the rules for a health FSA differ, and our story on the [FSA use-it-or-lose-it deadline](/news/fsa-2026-year-end-deadline-use-it-or-lose-it/) covers them. Because health FSA coverage generally blocks HSA contributions, check which you have first.
+They are separate accounts with separate rules. An HSA contribution deadline follows the tax return due date, and unused HSA money does not expire at year end: Publication 969 says "the contributions remain in your account until you use them" and that "amounts that remain at the end of the year are generally carried over to the next year." The rules for a health FSA differ, and our story on the [FSA use-it-or-lose-it deadline](/news/fsa-2026-year-end-deadline-use-it-or-lose-it/) covers them. Because health FSA coverage generally blocks HSA contributions, check which you have first.
 
 Mark the dates on an [April 2027 printable calendar](/april-calendars.html), a [printable yearly calendar](/printable-yearly-calendar.html) or the [fiscal year calendar guide](/guides/fiscal-year-calendar.html). The timeline printable below lists the dates and an eligibility check.
