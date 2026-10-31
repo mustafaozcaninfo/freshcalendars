@@ -4,7 +4,7 @@ Generate-time (SSG) calendar factory for [freshcalendars.com](https://freshcalen
 
 ## Status
 
-**v1.0.0 — production release (2026-08-03).** Live on [freshcalendars.com](https://freshcalendars.com) · Hestia `yuzdehesaplama` · CDN `cdn.freshcalendars.com` · CF cache HIT.
+**v1.0.0 — production release (2026-08-03).** Live on [freshcalendars.com](https://freshcalendars.com) · Cloudflare Workers (static assets) · R2 on `cdn.freshcalendars.com` · published by GitHub Actions ([`docs/DEPLOY.md`](docs/DEPLOY.md)).
 
 | Artifact | Location |
 |----------|----------|
@@ -20,8 +20,7 @@ pnpm test
 pnpm fc gen-meta --year 2026    # HTML/meta only
 pnpm fc gen --year 2026         # + PNG/PDF via Playwright
 pnpm fc verify
-pnpm fc sync-cdn
-pnpm fc deploy --confirm
+pnpm cf:assemble                # dist/cf/public: what the Worker serves (CI deploys it)
 ```
 
 ## Product decisions

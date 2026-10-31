@@ -28,5 +28,5 @@ robots.txt
 Cache-Control on objects: `public, max-age=31536000, immutable` for `news/_astro`,
 `public, max-age=604800, immutable` for `assets/` and `og/` (as on Spaces).
 
-Before the cutover the bucket was readable on `pub-15d7255f26e84763a4df070b63ac9d6a.r2.dev` for the
-parity test; that dev URL is turned off afterwards.
+Before the cutover the bucket was also attached as `cdn-next.freshcalendars.com` for the parity test;
+that domain is removed after the cutover.
