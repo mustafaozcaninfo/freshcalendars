@@ -374,6 +374,7 @@ export const KEY_DATES: KeyDate[] = [
   { date: "2026-11-11", label: "Veterans Day: free meals and discounts list", slug: "veterans-day-free-meals-discounts" },
   { date: "2026-11-12", label: "GTA 6 pre-load opens; boxed edition on sale", slug: "gta-6-october-22-2026-what-is-confirmed-release-countdown" },
   { date: "2026-11-19", label: "GTA 6 launches on PS5 and Xbox Series X|S", slug: "gta-6-october-22-2026-what-is-confirmed-release-countdown" },
+  { date: "2026-12-11", label: "GTA 6 Original Score album by Justice released", slug: "gta-6-october-22-2026-what-is-confirmed-release-countdown" },
   { date: "2026-12-01", label: "Georgia runoff, if needed", slug: "georgia-2026-ballot-amendments-advance-voting" },
   { date: "2026-11-03", label: "Lyft VOTE26: 50% off one ride to the polls, up to $10", slug: "free-rides-to-the-polls-2026-lyft-uber-transit" },
   { date: "2026-11-12", label: "Northern Taurid meteor shower peaks (Nov. 11-12)", slug: "november-2026-meteor-showers-taurids-leonids" },
