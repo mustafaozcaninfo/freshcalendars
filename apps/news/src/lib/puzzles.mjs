@@ -28,6 +28,9 @@ export const GAMES = {
   mini: { prefix: "nyt-mini-crossword-answers", name: "Mini Crossword", hub: "nyt-mini-crossword", since: "2026-10-27" },
   // NYT publishes Letter Boxed data only about two days ahead, so its schedule cannot run further out.
   letterboxed: { prefix: "nyt-letter-boxed-answer-hints", name: "Letter Boxed", hub: "nyt-letter-boxed" },
+  // Contexto's own API serves the answer for a game number, days ahead. #1 was Sept. 19, 2022, one
+  // per day (#1503 is Oct. 30, 2026). Checked only: the build adds no board or shortcut bar (`boards`).
+  contexto: { prefix: "contexto-answer-hints", name: "Contexto", hub: "contexto", first: "2022-09-19", boards: false },
 };
 
 /** { game, date: "YYYY-MM-DD", number } for a daily puzzle slug, or null for any other story. */
@@ -52,7 +55,7 @@ export const addDays = (date, n) => new Date(Date.parse(`${date}T12:00:00Z`) + n
 /** Weekday name of a YYYY-MM-DD date. */
 export const weekday = (date) => new Date(`${date}T12:00:00Z`).toLocaleDateString("en-US", { weekday: "long", timeZone: "UTC" });
 
-/** The public puzzle number for a date, from the data (Wordle) or by counting days (Connections, Strands). */
+/** The public puzzle number for a date, from the data (Wordle) or by counting days (Connections, Strands, Contexto). */
 export function puzzleNumber(game, date, data) {
   if (game === "wordle") return data?.days_since_launch ?? null;
   const first = GAMES[game].first;

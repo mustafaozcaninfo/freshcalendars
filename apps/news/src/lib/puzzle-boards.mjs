@@ -49,7 +49,7 @@ export function rehypePuzzleBoards() {
     const fp = file?.path ?? file?.history?.[0] ?? "";
     if (!/[\\/]content[\\/]articles[\\/]/.test(fp)) return;
     const p = puzzleOf(path.basename(fp).replace(/\.mdx?$/, ""));
-    if (!p) return;
+    if (!p || GAMES[p.game].boards === false) return;
     const data = loadPuzzle(p.game, p.date);
     if (!data) return; // news:puzzle-check fails the build's CI run for this page
     const kids = tree.children;

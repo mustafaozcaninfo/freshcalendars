@@ -4,9 +4,9 @@
  * trimmed to the fields our pages use. The page checker (news-puzzle-check.mjs) and the solved-board
  * drawings (src/lib/puzzle-boards.mjs) read only these files, so CI never needs the network.
  *
- * Usage: node scripts/news-puzzle-data.mjs <from> [to] [--games wordle,connections,strands,pips,bee,mini,letterboxed] [--force]
+ * Usage: node scripts/news-puzzle-data.mjs <from> [to] [--games wordle,connections,strands,pips,bee,mini,letterboxed,contexto] [--force]
  *        (the Mini is served for past days and today, and for tomorrow from about 10 p.m. ET; never further ahead;
- *        Letter Boxed about two days ahead)
+ *        Letter Boxed about two days ahead; Contexto days ahead, by the game number counted from the date)
  *        node scripts/news-puzzle-data.mjs --pages     (every puzzle page in the repo that has no data yet)
  *        node scripts/news-puzzle-data.mjs --wordle-history   (every past Wordle answer, for the used-word checker)
  *
@@ -16,7 +16,7 @@
 import { execFileSync } from "node:child_process";
 import { existsSync, mkdirSync, readFileSync, readdirSync, writeFileSync } from "node:fs";
 import path from "node:path";
-import { GAMES, PUZZLE_DIR, addDays, dataPath, puzzleOf } from "../apps/news/src/lib/puzzles.mjs";
+import { GAMES, PUZZLE_DIR, addDays, dataPath, puzzleNumber, puzzleOf } from "../apps/news/src/lib/puzzles.mjs";
 
 const URL = {
   wordle: (d) => `https://www.nytimes.com/svc/wordle/v2/${d}.json`,
@@ -26,6 +26,8 @@ const URL = {
   bee: (d) => `https://www.nytimes.com/svc/spelling-bee/v1/${d}.json`,
   mini: (d) => `https://www.nytimes.com/svc/crosswords/v6/puzzle/mini/${d}.json`, // past days and today; not ahead
   letterboxed: (d) => `https://www.nytimes.com/svc/letter-boxed/v1/${d}.json`, // about two days ahead
+  // Contexto's own API, by game number: "give up" answers with the secret word ({ word, lemma, distance: 0 }).
+  contexto: (d) => `https://api.contexto.me/machado/en/giveup/${puzzleNumber("contexto", d)}`,
 };
 
 /** Only the fields the pages and checks use (Strands' full dictionary list is dropped). */
@@ -45,10 +47,12 @@ const TRIM = {
   },
   // The dictionary stays: pages print its size and suggest warm-up words that must be in it.
   letterboxed: (j) => ({ printDate: j.printDate, editor: j.editor, sides: j.sides, par: j.par, ourSolution: j.ourSolution, dictionary: j.dictionary }),
+  // The API answers by number and carries no date, so the date and number we asked for are saved with it.
+  contexto: (j, d) => ({ date: d, number: puzzleNumber("contexto", d), word: j.word }),
 };
 
 /** The data's own date, to make sure NYT answered for the day we asked about. */
-const DATE_OF = { wordle: (j) => j.print_date, connections: (j) => j.print_date, strands: (j) => j.printDate, pips: (j) => j.printDate, bee: () => null, mini: (j) => j.publicationDate, letterboxed: (j) => j.printDate };
+const DATE_OF = { wordle: (j) => j.print_date, connections: (j) => j.print_date, strands: (j) => j.printDate, pips: (j) => j.printDate, bee: () => null, mini: (j) => j.publicationDate, letterboxed: (j) => j.printDate, contexto: (j, d) => (j.distance === 0 && typeof j.word === "string" && j.word ? d : null) };
 
 function get(url) {
   // No --fail: an unpublished date answers 404 (Spelling Bee) or a 200 "404 page not found" body.
@@ -61,10 +65,10 @@ function save(game, date, force) {
   if (existsSync(out) && !force) return "kept";
   let j;
   try { j = get(URL[game](date)); } catch (e) { return `failed (${String(e.message).split("\n")[0]})`; }
-  if (!j || j.status === "ERROR" || (game === "bee" ? !j.center_letter : !TRIM[game] || DATE_OF[game](j) !== date)) return "not published";
+  if (!j || j.status === "ERROR" || (game === "bee" ? !j.center_letter : !TRIM[game] || DATE_OF[game](j, date) !== date)) return "not published";
   mkdirSync(path.dirname(out), { recursive: true });
   // Long word lists go on one line so a day's file stays readable and small.
-  const json = JSON.stringify(TRIM[game](j), (k, v) => (k === "dictionary" ? `@@${JSON.stringify(v)}@@` : v), 1).replace(/"@@(.*)@@"/, (_, a) => JSON.parse(`"${a}"`));
+  const json = JSON.stringify(TRIM[game](j, date), (k, v) => (k === "dictionary" ? `@@${JSON.stringify(v)}@@` : v), 1).replace(/"@@(.*)@@"/, (_, a) => JSON.parse(`"${a}"`));
   writeFileSync(out, `${json}\n`);
   return "saved";
 }
