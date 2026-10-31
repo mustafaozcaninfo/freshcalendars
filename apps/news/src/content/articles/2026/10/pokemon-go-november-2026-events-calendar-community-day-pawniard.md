@@ -134,7 +134,7 @@ internalLinks:
     label: "November 2026 printable calendar"
   - href: "/december-calendars.html"
     label: "December 2026 printable calendar"
-related: [november-2026-meteor-showers-taurids-leonids, playstation-plus-november-2026-games-dead-island-2-tomb-raider-monster-train-2]
+related: [november-2026-meteor-showers-taurids-leonids, playstation-plus-november-2026-games-dead-island-2-tomb-raider-monster-train-2, mcdonalds-pokemon-happy-meal-2026-release-date-toys-cards]
 draft: false
 ---
 
