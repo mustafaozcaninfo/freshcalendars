@@ -103,7 +103,7 @@ internalLinks:
     label: "When is Black Friday?"
   - href: "/when-is/cyber-monday/"
     label: "When is Cyber Monday?"
-related: [best-buy-black-friday-2026-doorbusters-october-30-holiday-calendar, black-friday-2026-store-hours-walmart-target-best-buy, black-friday-2026-price-match-policy-stores]
+related: [best-buy-black-friday-2026-doorbusters-october-30-holiday-calendar, black-friday-2026-store-hours-walmart-target-best-buy, sephora-savings-event-november-2026-dates-ulta-black-friday-beauty-sales]
 downloads:
   - group: "Black Friday 2026 Deals Calendar printables"
     title: "Black Friday 2026 Deals Calendar, November 2026"

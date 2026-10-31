@@ -77,7 +77,7 @@ internalLinks:
     label: "When is Cyber Monday?"
   - href: "/when-is/thanksgiving/"
     label: "When is Thanksgiving?"
-related: [black-friday-2026-ad-tracker-walmart-target-best-buy, black-friday-2026-store-hours-walmart-target-best-buy, small-business-saturday-2026-november-28-cyber-monday-november-30]
+related: [black-friday-2026-ad-tracker-walmart-target-best-buy, black-friday-2026-store-hours-walmart-target-best-buy, sephora-savings-event-november-2026-dates-ulta-black-friday-beauty-sales]
 downloads:
   - group: "Amazon Holiday Dates 2026 printables"
     title: "Amazon Holiday Dates 2026"
