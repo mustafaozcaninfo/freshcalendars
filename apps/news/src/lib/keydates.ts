@@ -12,6 +12,19 @@ export interface KeyDate {
 }
 
 export const KEY_DATES: KeyDate[] = [
+  { date: "2027-03-26", label: "Good Friday: NYSE closed, federal offices open", slug: "easter-2027-march-28-good-friday-easter-monday-whats-open" },
+  { date: "2027-03-28", label: "Easter Sunday", slug: "easter-2027-march-28-good-friday-easter-monday-whats-open" },
+  { date: "2027-03-17", label: "St. Patrick's Day; New York parade, 11 a.m., Fifth Avenue", slug: "st-patricks-day-2027-wednesday-march-17-parades-by-city" },
+  { date: "2027-03-23", label: "Holi in India's central government holiday list", slug: "passover-2027-holi-2027-dates-sundown-times" },
+  { date: "2027-04-21", label: "Passover begins at sundown", slug: "passover-2027-holi-2027-dates-sundown-times" },
+  { date: "2027-05-01", label: "Kentucky Derby, about 6:57 p.m. ET", slug: "kentucky-derby-2027-may-1-post-time-triple-crown-dates" },
+  { date: "2027-05-23", label: "Preakness Stakes at Pimlico (Sunday)", slug: "kentucky-derby-2027-may-1-post-time-triple-crown-dates" },
+  { date: "2027-06-05", label: "Belmont Stakes at Belmont Park", slug: "kentucky-derby-2027-may-1-post-time-triple-crown-dates" },
+  { date: "2027-05-09", label: "Mother's Day", slug: "mothers-day-2027-may-9-memorial-day-2027-may-31-long-weekend" },
+  { date: "2027-05-31", label: "Memorial Day", slug: "mothers-day-2027-may-9-memorial-day-2027-may-31-long-weekend" },
+  { date: "2027-02-15", label: "February half term begins (Westminster and Leeds)", slug: "uk-school-term-dates-2026-27-2027-28-half-term-easter-holidays" },
+  { date: "2027-01-01", label: "Harvard regular decision deadline", slug: "regular-decision-deadlines-2027-january-1-january-5-colleges" },
+  { date: "2027-01-05", label: "Stanford, Penn and Brown regular decision deadlines", slug: "regular-decision-deadlines-2027-january-1-january-5-colleges" },
   { date: "2027-04-15", label: "Tax Day 2027: 2026 returns due (IRS)", slug: "when-does-tax-season-start-2027-irs-filing-opening-date" },
   { date: "2027-02-15", label: "Presidents' Day (Washington's Birthday): federal offices, USPS and NYSE closed", slug: "presidents-day-2027-february-15-whats-open-closed" },
   { date: "2027-02-15", label: "Family Day (Ontario, Alberta) and Heritage Day (Nova Scotia)", slug: "family-day-2027-canada-february-15-provinces-whats-closed" },

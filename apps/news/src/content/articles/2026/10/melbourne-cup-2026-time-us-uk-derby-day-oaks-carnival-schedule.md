@@ -65,7 +65,7 @@ internalLinks:
     label: "November 2026 printable calendar"
   - href: "/october-calendars.html"
     label: "October 2026 printable calendar"
-related: [breeders-cup-2026-post-times-tv-schedule-keeneland, mexico-city-grand-prix-2026-schedule-race-time-by-time-zone, us-australia-time-difference-after-daylight-saving-time-ends-november-1-2026]
+related: [breeders-cup-2026-post-times-tv-schedule-keeneland, kentucky-derby-2027-may-1-post-time-triple-crown-dates, us-australia-time-difference-after-daylight-saving-time-ends-november-1-2026]
 assets:
   overlay: true
   kicker: "Melbourne Cup 2026 · Tue., Nov. 3"

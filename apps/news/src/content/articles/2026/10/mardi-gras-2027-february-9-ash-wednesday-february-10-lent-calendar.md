@@ -54,7 +54,7 @@ internalLinks:
     label: "March 2027 printable calendars"
   - href: "/when-is/easter/"
     label: "When is Easter?"
-related: [valentines-day-2027-sunday-february-14-dates-printables, presidents-day-2027-february-15-whats-open-closed, ramadan-2027-calendar-dates-timetable]
+related: [valentines-day-2027-sunday-february-14-dates-printables, presidents-day-2027-february-15-whats-open-closed, easter-2027-march-28-good-friday-easter-monday-whats-open]
 downloads:
   - group: "Lent 2027 Calendar printables"
     title: "Lent 2027 Calendar: Mardi Gras to Easter"

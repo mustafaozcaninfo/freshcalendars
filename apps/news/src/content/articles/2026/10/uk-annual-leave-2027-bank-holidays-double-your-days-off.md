@@ -49,7 +49,7 @@ internalLinks:
     label: "When is Boxing Day in the UK?"
   - href: "/december-calendars.html"
     label: "December printable calendars"
-related: [uk-bank-holidays-2027-dates-england-scotland-northern-ireland, uk-christmas-bank-holidays-2026-boxing-day-substitute-december-28]
+related: [uk-bank-holidays-2027-dates-england-scotland-northern-ireland, uk-christmas-bank-holidays-2026-boxing-day-substitute-december-28, uk-school-term-dates-2026-27-2027-28-half-term-easter-holidays]
 assets:
   overlay: true
   kicker: "Annual leave 2027"
