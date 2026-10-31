@@ -80,7 +80,7 @@ internalLinks:
     label: "January 2027 printable calendar"
   - href: "/march-calendars.html"
     label: "March 2027 printable calendar"
-related: [iphone-duo-october-24-availability, black-friday-2026-ad-tracker-walmart-target-best-buy]
+related: [iphone-duo-october-24-availability, black-friday-2026-ad-tracker-walmart-target-best-buy, macbook-pro-m6-imac-ipad-mini-pre-order-release-date-november-6]
 downloads:
   - group: "Ford Fathom Preorder Checklist 2027 printables"
     title: "Ford Fathom Preorder Checklist 2027"
