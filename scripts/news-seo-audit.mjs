@@ -608,7 +608,28 @@ await Promise.all(heroStories.map((s) => heroHash(s.file)));
 const heroFails = [];
 for (const s of heroStories.filter((s) => s.published >= UNIQUE_SINCE)) for (const p of await heroProblems(s.slug, heroStories)) heroFails.push(`${s.slug}: ${p}`);
 check("12-HERO-UNIQUE", `Every story published since ${UNIQUE_SINCE} has its own hero: no illustrated scene or picture shared with another story`, () => heroFails);
-const oldRepeats = (await duplicateHeroes(heroStories)).filter((p) => p.a.published < UNIQUE_SINCE && p.b.published < UNIQUE_SINCE);
+// An in-body photo from news-photo --inline keeps its credit and license link right under it.
+check("12-INLINE-CREDIT", "In-body licensed photos (news-photo --inline) carry the author and a license or source link in the line under them", () => {
+  const fails = [];
+  (function walk(d) {
+    for (const f of readdirSync(d)) {
+      const p = path.join(d, f);
+      if (statSync(p).isDirectory()) { walk(p); continue; }
+      if (!f.endsWith(".md")) continue;
+      const md = readFileSync(p, "utf8");
+      for (const m of md.matchAll(/!\[[^\]]*\]\((\.\.\/[^)\s]*assets\/news\/[^)\s]+)(?:\s+"[^"]*")?\)/g)) {
+        const rec = path.resolve(path.dirname(p), m[1]).replace(/\.\w+$/, ".photo.json");
+        if (!existsSync(rec)) continue;
+        const r = JSON.parse(readFileSync(rec, "utf8"));
+        const after = md.slice(m.index + m[0].length, m.index + m[0].length + 900);
+        const author = String(r.author ?? "").split(/[/,]/)[0].trim();
+        if (!after.includes(author) || ![r.licenseUrl, r.page].some((u) => u && after.includes(u))) fails.push(`${f}: ${path.basename(m[1])} needs "${author}" and its license or source link under it`);
+      }
+    }
+  })(ARTICLES_SRC);
+  return fails;
+});
+const oldRepeats =(await duplicateHeroes(heroStories)).filter((p) => p.a.published < UNIQUE_SINCE && p.b.published < UNIQUE_SINCE);
 warn("12-HERO-REPEATS", "Older stories that share a hero picture (redraw with a photo or another scene when you update them) — informational", () =>
   oldRepeats.length ? [`${oldRepeats.length} pairs`, ...oldRepeats.slice(0, 7).map((p) => `${p.a.slug} = ${p.b.slug} (${p.d} bits)`)] : []);
 

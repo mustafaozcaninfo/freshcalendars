@@ -40,7 +40,8 @@ import { buildPickem } from "./pickem.js";
 import { buildConnectionsMeanings } from "./connmeanings.js";
 import { buildTxCalendar } from "./txcalendar.js";
 import { buildNewsAssets, buildSceneGallery } from "./newsAssets.js";
-import { photoOfficial, photoPress, photoSearch, photoUse } from "./newsPhoto.js";
+import { newsEmbed } from "./newsEmbed.js";
+import { photoGov, photoOfficial, photoPress, photoSearch, photoTrace, photoUse } from "./newsPhoto.js";
 import { buildHeroes4 } from "./heroes4.js";
 import { ROOT } from "./paths.js";
 import { listHeroes } from "./newsHeroes.js";
@@ -183,12 +184,16 @@ async function main(): Promise<void> {
     } else if (cmd === "news-heroes") {
       await listHeroes();
     } else if (cmd === "news-photo") {
-      const sub = process.argv[3], focus = argValue("--focus") ?? "attention";
+      const sub = process.argv[3], focus = argValue("--focus") ?? "attention", inline = argValue("--inline");
       if (sub === "search") await photoSearch(process.argv[4] ?? "", argValue("--source") ?? "all", !process.argv.includes("--no-sheet"));
-      else if (sub === "use") await photoUse(process.argv[4] ?? "", process.argv[5] ?? "", focus, process.argv.includes("--allow-flickr"));
-      else if (sub === "press") await photoPress(process.argv[4] ?? "", argValue("--url") ?? "", argValue("--terms") ?? "", argValue("--author") ?? "", focus);
+      else if (sub === "use") await photoUse(process.argv[4] ?? "", process.argv[5] ?? "", focus, process.argv.includes("--allow-flickr"), inline);
+      else if (sub === "press") await photoPress(process.argv[4] ?? "", argValue("--url") ?? "", argValue("--terms") ?? "", argValue("--author") ?? "", focus, argValue("--page"), inline);
+      else if (sub === "gov") await photoGov(process.argv[4] ?? "", argValue("--url") ?? "", argValue("--page") ?? "", argValue("--author"), focus, inline);
       else if (sub === "official") await photoOfficial(process.argv[4] ?? "", argValue("--url") ?? "", argValue("--page") ?? "", argValue("--owner") ?? "");
-      else throw new Error("usage: pnpm fc news-photo search|use|press|official …");
+      else if (sub === "trace") await photoTrace(process.argv.slice(4).filter((a) => /^https?:/.test(a)));
+      else throw new Error("usage: pnpm fc news-photo search|use|press|gov|official|trace …");
+    } else if (cmd === "news-embed") {
+      await newsEmbed(process.argv[3] ?? "", argValue("--caption"));
     } else if (cmd === "rollover") {
       const to = Number(argValue("--to"));
       if (!to) throw new Error("--to YYYY required");
