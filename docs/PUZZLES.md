@@ -31,7 +31,7 @@ Counted one per day; each matches several independent sources, but none is print
 - Strands #966.
 - Connections: Sports Edition #762 (launched Feb. 9, 2025).
 - Quordle #1735.
-- Contexto #1498 (not confirmed; sources conflict).
+- Contexto #1498 (counted one per day from #1 on Sept. 19, 2022; the game's own API serves the word for each number, and `news:puzzle-check` checks the pages against it).
 - LinkedIn: Queens and Crossclimb #908, Zip #587, Tango #748, Mini Sudoku #440 are expected for Oct. 25 by counting from Oct. 24; confirm each day.
 - Spelling Bee, Pips and the Mini have no public puzzle number. Do not invent one; the IDs in the data are internal.
 
@@ -56,7 +56,7 @@ Two scheduled routines write the daily pages: official-data games every evening,
 
 ## Saved data and the answer check
 
-Every page for Wordle, Connections, Strands, Pips, Spelling Bee, the Mini and Letter Boxed has its official data saved in `apps/news/src/content/puzzles/<game>/<date>.json` (`pnpm news:puzzle-data <from> [to]`). `pnpm news:puzzle-check` compares each page with it and CI runs it on every push, so a wrong answer or placement cannot publish. For Letter Boxed it checks the sides, par, the Times' solution and its route table, the dictionary size, and that every warm-up word is in the puzzle's dictionary and not part of the solution. Contexto and Waffle are not in the check yet. The build draws the solved boards from the same files. Method: `.claude/skills/news-puzzles/SKILL.md`.
+Every page for Wordle, Connections, Strands, Pips, Spelling Bee, the Mini, Letter Boxed and Contexto has its official data saved in `apps/news/src/content/puzzles/<game>/<date>.json` (`pnpm news:puzzle-data <from> [to]`). `pnpm news:puzzle-check` compares each page with it and CI runs it on every push, so a wrong answer or placement cannot publish. For Letter Boxed it checks the sides, par, the Times' solution and its route table, the dictionary size, and that every warm-up word is in the puzzle's dictionary and not part of the solution. For Contexto it checks the secret word (answer line and spoiler FAQ), today's game number, the letter count in the lede and hints, yesterday's word and number, and the next game's number; the saved file holds the date, the number counted from it (#1 was Sept. 19, 2022) and the word from `api.contexto.me/machado/en/giveup/<n>`, and a number the API has not published answers with an error and is not saved. Waffle is not in the check yet. The build draws the solved boards from the same files. Method: `.claude/skills/news-puzzles/SKILL.md`.
 
 ## Workflow that keeps traffic steady
 
