@@ -12,6 +12,12 @@ export interface KeyDate {
 }
 
 export const KEY_DATES: KeyDate[] = [
+  { date: "2026-11-05", label: "Black Doves Season 2 on Netflix", slug: "new-netflix-shows-november-2026-black-doves-empress-hunting-wives" },
+  { date: "2026-11-12", label: "The Empress final season on Netflix", slug: "new-netflix-shows-november-2026-black-doves-empress-hunting-wives" },
+  { date: "2026-11-26", label: "The Hunting Wives Season 2 on Netflix", slug: "new-netflix-shows-november-2026-black-doves-empress-hunting-wives" },
+  { date: "2026-11-03", label: "Utah Mammoth at Maple Leafs, 7 p.m. ET", slug: "toronto-maple-leafs-schedule-november-2026-game-times-tv-printable" },
+  { date: "2026-11-07", label: "Canadiens at Maple Leafs, 7 p.m. ET", slug: "toronto-maple-leafs-schedule-november-2026-game-times-tv-printable" },
+  { date: "2027-10-31", label: "Halloween falls on a Sunday", slug: "next-saturday-halloween-2037-halloween-day-of-week-every-year" },
   { date: "2027-08-02", label: "Total solar eclipse: Spain about 4:45 a.m. ET, Luxor 6:02 a.m. ET", slug: "total-solar-eclipse-august-2-2027-path-times-by-city-travel" },
   { date: "2026-12-11", label: "Women's World Cup 2027 final draw, Rio de Janeiro", slug: "womens-world-cup-2027-schedule-brazil-us-uk-canada-times" },
   { date: "2027-06-24", label: "Women's World Cup 2027 opener at the Maracanã", slug: "womens-world-cup-2027-schedule-brazil-us-uk-canada-times" },
