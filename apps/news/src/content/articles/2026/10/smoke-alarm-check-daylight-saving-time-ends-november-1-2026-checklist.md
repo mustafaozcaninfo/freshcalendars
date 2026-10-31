@@ -86,6 +86,9 @@ sources:
     url: "https://www.usfa.fema.gov/prevention/home-fires/prepare-for-fire/smoke-alarms/"
     publisher: "U.S. Fire Administration, Federal Emergency Management Agency"
     date: "2026-10-31"
+  - title: "Don't Wait, Check the Date! Replace smoke alarms every 10 years"
+    url: "https://www.usfa.fema.gov/downloads/pdf/publications/dont-wait-check-the-date-handout.pdf"
+    publisher: "U.S. Fire Administration, Federal Emergency Management Agency"
   - title: "Daylight Saving Time (DST)"
     url: "https://www.nist.gov/pml/time-and-frequency-division/popular-links/daylight-saving-time-dst"
     publisher: "National Institute of Standards and Technology"
@@ -128,7 +131,7 @@ The USFA text we used gives no replacement schedule for the 9-volt battery, so w
 
 ## How old is my smoke alarm? Replace-by years under the 10-year rule
 
-Check the date on the back of the alarm. Because USFA says to replace the entire alarm every 10 years, we computed the year each alarm turns 10 by adding 10 to its year made. This is our arithmetic from the USFA rule, not a USFA table.
+USFA's handout "Don't Wait, Check the Date!" says to look at the back of the alarm for the date of manufacture and to replace the alarm 10 years from that date. Because USFA says to replace the entire alarm every 10 years, we computed the year each alarm turns 10 by adding 10 to its year made. This is our arithmetic from the USFA rule, not a USFA table.
 
 | Year made | Turns 10 in | What to do |
 |---|---|---|
