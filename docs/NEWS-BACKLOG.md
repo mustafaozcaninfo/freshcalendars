@@ -40,5 +40,6 @@ Routine D (`docs/PUZZLE-ROUTINES.md`) takes one item from this list per run, hig
 - [ ] **puzzle-hub-table** [code] Game hubs show a date, number and link table of every page.
   `/news/topic/<game>/` lists stories as cards; add a compact table above them for puzzle hubs (date, puzzle number, link to hints page; no answers, so the hub never spoils). Built from the stories, server-rendered.
 
-- [ ] **missing-days-audit** [content] Find and report puzzle days with no page since Oct. 21, 2026.
+- [x] **missing-days-audit** [content] (done 2026-10-31) Find and report puzzle days with no page since Oct. 21, 2026.
+  Result (Oct. 21-31): no NYT-data game misses a page in the last 3 days (Oct. 28-30), so no page was written. Older gaps, report only, and NYT still serves the data for each: Wordle, Connections, Strands and the Mini Oct. 22-24; Pips and Spelling Bee Oct. 21-24; Letter Boxed Oct. 21-26. Routine B's games (not touched): Sports Edition Oct. 21-24, 27, 28, 31; Waffle Oct. 21-25, 27; Blossom Oct. 22-24, 28; LinkedIn Oct. 21-24, 27, 28; Quordle and Contexto Oct. 22-24.
   List every game and date with no page (scripted from the slugs), note which still have official data that NYT serves (past days: Wordle, Connections, Strands, Pips, Mini, Spelling Bee, Letter Boxed), and write pages only for dates in the last 3 days whose data is served (routine A writes today and later, so past days are this item's). Older days: report only. Do not touch routine B's games.
