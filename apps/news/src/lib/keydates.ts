@@ -12,6 +12,9 @@ export interface KeyDate {
 }
 
 export const KEY_DATES: KeyDate[] = [
+  { date: "2026-11-23", label: "Georgia runoff early voting begins (through Nov. 25), if a runoff is required", slug: "runoff-elections-2026-dates-georgia-december-1-louisiana-december-12" },
+  { date: "2026-12-01", label: "Georgia and Mississippi runoff day, if required", slug: "runoff-elections-2026-dates-georgia-december-1-louisiana-december-12" },
+  { date: "2026-12-12", label: "Louisiana open general and special primary election", slug: "runoff-elections-2026-dates-georgia-december-1-louisiana-december-12" },
   { date: "2026-11-06", label: "IHSAA football sectional championships, 7 p.m. local", slug: "ihsaa-football-tournament-2026-schedule-sectionals-regionals-state-finals" },
   { date: "2026-11-13", label: "IHSAA football regionals", slug: "ihsaa-football-tournament-2026-schedule-sectionals-regionals-state-finals" },
   { date: "2026-11-20", label: "IHSAA football semi-states", slug: "ihsaa-football-tournament-2026-schedule-sectionals-regionals-state-finals" },

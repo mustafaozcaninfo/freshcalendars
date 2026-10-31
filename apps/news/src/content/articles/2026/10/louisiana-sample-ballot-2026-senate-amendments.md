@@ -62,7 +62,7 @@ internalLinks:
     label: "December 2026 printable calendar"
   - href: "/october-calendars.html"
     label: "October 2026 printable calendar"
-related: [sample-ballot-by-zip-code-2026-texas-ballot, what-time-do-polls-close-election-day-2026, mail-ballot-deadlines-2026-by-state]
+related: [runoff-elections-2026-dates-georgia-december-1-louisiana-december-12, what-time-do-polls-close-election-day-2026, mail-ballot-deadlines-2026-by-state]
 downloads:
   - group: "Election 2026 printables"
     title: "Louisiana Ballot Checklist, Nov. 3, 2026"

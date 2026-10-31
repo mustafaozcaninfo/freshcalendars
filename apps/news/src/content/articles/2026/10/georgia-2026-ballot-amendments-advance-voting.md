@@ -59,7 +59,7 @@ internalLinks:
     label: "December 2026 printable calendar"
   - href: "/october-calendars.html"
     label: "October 2026 printable calendar"
-related: [florida-amendments-2026-ballot-senate-special-election, 2026-midterm-elections-whats-on-the-ballot-results-tracker, sample-ballot-by-zip-code-2026-texas-ballot]
+related: [florida-amendments-2026-ballot-senate-special-election, 2026-midterm-elections-whats-on-the-ballot-results-tracker, runoff-elections-2026-dates-georgia-december-1-louisiana-december-12]
 downloads:
   - group: "Election 2026 printables"
     title: "Georgia Ballot Checklist, Nov. 3, 2026"

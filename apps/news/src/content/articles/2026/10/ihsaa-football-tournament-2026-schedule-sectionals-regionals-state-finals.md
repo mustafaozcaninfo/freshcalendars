@@ -1,7 +1,7 @@
 ---
 title: "IHSAA Football Tournament 2026: Sectional Semifinals Tonight, State Finals Nov. 27-28"
 seoTitle: "IHSAA Football Tournament 2026: Dates and Tickets"
-description: "Tonight, Oct. 30, 2026, the Indiana High School Athletic Association (IHSAA) plays football sectional semifinals; state finals are Nov. 27-28 at Lucas Oil Stadium."
+description: "Tonight, Oct. 30, 2026, the Indiana High School Athletic Association (IHSAA) plays football sectional semifinals. State finals: Nov. 27-28, Lucas Oil Stadium."
 type: news
 publishedAt: "2026-10-30T19:42:00-04:00"
 authors: [jordan-bennett]
