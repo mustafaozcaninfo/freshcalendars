@@ -534,6 +534,16 @@ export const KEY_DATES: KeyDate[] = [
   { date: "2026-11-06", label: "FPL Gameweek 10 deadline, 6:30 p.m. GMT (1:30 p.m. ET)", slug: "fpl-deadlines-2026-27-every-gameweek-deadline-time-uk-us-chip-dates" },
   { date: "2026-11-21", label: "FPL Gameweek 11 deadline, 11 a.m. GMT (6 a.m. ET)", slug: "fpl-deadlines-2026-27-every-gameweek-deadline-time-uk-us-chip-dates" },
   { date: "2027-01-01", label: "FPL Gameweek 19 deadline: first chip set expires", slug: "fpl-deadlines-2026-27-every-gameweek-deadline-time-uk-us-chip-dates" },
+  { date: "2026-11-05", label: "Zelda: Ocarina of Time on Nintendo Switch 2", slug: "video-game-release-dates-november-2026-gta-6-ocarina-of-time" },
+  { date: "2026-11-10", label: "Football Manager 27 and Shrek 2 Remastered release", slug: "video-game-release-dates-november-2026-gta-6-ocarina-of-time" },
+  { date: "2026-11-12", label: "Metaphor: ReFantazio and Sonic Pico Park release", slug: "video-game-release-dates-november-2026-gta-6-ocarina-of-time" },
+  { date: "2026-11-11", label: "Downtown Detroit Winter Markets open (to Jan. 3)", slug: "us-christmas-markets-2026-opening-dates-philadelphia-dc-detroit-nyc" },
+  { date: "2026-11-12", label: "DC Holiday Market opens near Dupont Circle", slug: "us-christmas-markets-2026-opening-dates-philadelphia-dc-detroit-nyc" },
+  { date: "2026-11-21", label: "Christmas Village in Philadelphia opens (to Dec. 27)", slug: "us-christmas-markets-2026-opening-dates-philadelphia-dc-detroit-nyc" },
+  { date: "2026-11-27", label: "Leavenworth Christmastown festivities begin", slug: "us-christmas-markets-2026-opening-dates-philadelphia-dc-detroit-nyc" },
+  { date: "2026-11-07", label: "Festival of Remembrance on BBC One, 9pm GMT (4 p.m. ET)", slug: "remembrance-sunday-2026-cenotaph-timings-8-november-festival-of-remembrance" },
+  { date: "2026-11-08", label: "Remembrance Sunday at the Cenotaph, silence at 11am GMT", slug: "remembrance-sunday-2026-cenotaph-timings-8-november-festival-of-remembrance" },
+  { date: "2026-11-01", label: "US clocks fall back: New York is 9 hours behind Dubai", slug: "us-dubai-saudi-israel-time-difference-after-november-1-2026" },
 ];
 
 /** Today's date in Eastern Time as YYYY-MM-DD. */
