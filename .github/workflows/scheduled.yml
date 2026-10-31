@@ -7,9 +7,6 @@ name: Scheduled stories
 on:
   schedule:
     - cron: "*/10 * * * *"
-  push: # TEMP: one test run on the migration branch; removed before merge
-    branches: [claude/cloudflare-migration-d3fc1f]
-    paths: [.github/cf-test-trigger]
   workflow_dispatch:
 
 concurrency:

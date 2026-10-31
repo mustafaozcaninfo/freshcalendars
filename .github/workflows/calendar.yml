@@ -15,9 +15,6 @@ on:
     - cron: "45 8 1 9 *"
     - cron: "30 6 1 1 *"
     - cron: "15 7 * * 1"
-  push: # TEMP: one test run on the migration branch; removed before merge
-    branches: [claude/cloudflare-migration-d3fc1f]
-    paths: [.github/cf-test-trigger]
   workflow_dispatch:
     inputs:
       job:
