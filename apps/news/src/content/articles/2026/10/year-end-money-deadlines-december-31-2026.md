@@ -74,7 +74,7 @@ internalLinks:
     label: "January 2027 printable calendar"
   - href: "/printable-yearly-calendar.html"
     label: "Printable yearly calendar"
-related: [2027-tax-brackets-401k-hsa-limits-irs, aca-open-enrollment-2027-dates-november-1-january-15, giving-tuesday-2026-december-1-tax-deduction-charity-check]
+related: [2027-tax-brackets-401k-hsa-limits-irs, aca-open-enrollment-2027-dates-november-1-january-15, i-bond-rate-november-2026-5-51-percent-fixed-rate-1-40]
 assets:
   overlay: true
   kicker: "Year-end deadlines"

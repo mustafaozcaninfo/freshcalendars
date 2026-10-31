@@ -69,7 +69,7 @@ internalLinks:
   - href: "/march-calendars.html"
     label: "March 2027 printable calendar"
 draft: false
-related: [us-dubai-saudi-israel-time-difference-after-november-1-2026, daylight-saving-time-halloween-2026-clocks-fall-back-night-after-every-year, clock-changes-2027-when-does-daylight-saving-time-start-again-march-14]
+related: [smoke-alarm-check-daylight-saving-time-ends-november-1-2026-checklist, daylight-saving-time-halloween-2026-clocks-fall-back-night-after-every-year, clock-changes-2027-when-does-daylight-saving-time-start-again-march-14]
 ---
 
 <p class="callout"><b>Tonight: clocks fall back.</b> At 2 a.m. local time on Sunday, Nov. 1, 2026, clocks go back one hour to 1 a.m., so set them back before bed on Saturday, Oct. 31. Phones and other connected devices change on their own. Our last check of the House Clerk record (Oct. 29) found the July 14 House vote on the Sunshine Protection Act and no Senate vote, so the bill is not law and the change goes ahead.</p>
