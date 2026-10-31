@@ -4,6 +4,7 @@ seoTitle: "Wordle Answers October 2026: All 31 Words"
 description: "The New York Times (NYT) Wordle answers for October 2026: all 31 words, #1930 (Thu., Oct. 1) to #1960 (Sat., Oct. 31), with letter stats."
 type: explainer
 publishedAt: "2026-10-31T00:10:00-04:00"
+updatedAt: "2026-10-31T04:46:00-04:00"
 authors: [news-desk]
 category: puzzles
 keywords: ["Wordle answers October 2026", "past Wordle answers", "Wordle answer list"]
@@ -188,6 +189,8 @@ These are patterns in last month's words, not a forecast of any answer. They can
 - **Try Y at the end.** Eight of 31 answers ended in Y, more than any other final letter.
 - **Allow a repeated letter.** Ten of 31 answers repeated one, so ruling out doubles early would have been wrong about once in three days.
 - **Do not count on vowels.** Psych had none, and 12 more answers had only one, so a vowel-heavy opener can come back mostly gray.
+
+For every answer since 2021, see our [past Wordle answers list](/news/past-wordle-answers-every-word-since-2021/).
 
 Mark your own streak on the [November 2026 printable calendar](/november-calendars.html), and keep this month's record on the [October 2026 printable calendar](/october-calendars.html).
 
