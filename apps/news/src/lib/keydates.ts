@@ -12,6 +12,13 @@ export interface KeyDate {
 }
 
 export const KEY_DATES: KeyDate[] = [
+  { date: "2026-11-01", label: "Capitol Christmas Tree stops in Orofino and Kamiah, Idaho", slug: "us-capitol-christmas-tree-2026-tour-schedule-stops-dates" },
+  { date: "2026-11-13", label: "Capitol Christmas Tree tour stops in Peoria, Illinois", slug: "us-capitol-christmas-tree-2026-tour-schedule-stops-dates" },
+  { date: "2026-11-19", label: "Capitol Christmas Tree tour ends at Joint Base Andrews", slug: "us-capitol-christmas-tree-2026-tour-schedule-stops-dates" },
+  { date: "2026-11-01", label: "Oklahoma laws take effect, including the $3,000 crash-report threshold", slug: "new-laws-november-1-2026-oklahoma-virginia-federal" },
+  { date: "2026-11-01", label: "2026 federal sentencing guideline amendments take effect", slug: "new-laws-november-1-2026-oklahoma-virginia-federal" },
+  { date: "2026-11-06", label: "Everton v Coventry City opens Gameweek 10, 8 p.m. GMT (3 p.m. ET)", slug: "premier-league-fixtures-november-6-8-2026-gameweek-10-kickoff-times-tv" },
+  { date: "2026-11-08", label: "Crystal Palace v Liverpool, 2 p.m. GMT (9 a.m. ET)", slug: "premier-league-fixtures-november-6-8-2026-gameweek-10-kickoff-times-tv" },
   { date: "2026-11-03", label: "Sephora Savings Event opens to VIB and Insider members", slug: "sephora-savings-event-november-2026-dates-ulta-black-friday-beauty-sales" },
   { date: "2026-11-21", label: "Ulta Black Friday sale starts online, 9 p.m. ET", slug: "sephora-savings-event-november-2026-dates-ulta-black-friday-beauty-sales" },
   { date: "2026-11-06", label: "Godzilla Minus Zero opens in North American theaters", slug: "new-movies-in-theaters-november-2026-release-dates-hunger-games-hexed" },

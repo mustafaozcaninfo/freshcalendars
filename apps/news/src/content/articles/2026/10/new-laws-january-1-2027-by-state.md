@@ -4,6 +4,7 @@ seoTitle: "New Laws Taking Effect Jan. 1, 2027 by State"
 description: "Illinois, Florida, Washington, Colorado, New York and Louisiana have laws set to take effect Jan. 1, 2027, per state legislature pages. Bill list and printable."
 type: news
 publishedAt: "2026-10-30T15:50:00-04:00"
+updatedAt: "2026-10-31T15:50:00-04:00"
 authors: [alex-morgan]
 category: planning
 keywords: ["new laws 2027", "laws taking effect january 1 2027", "new illinois laws 2027", "new florida laws 2027", "new laws by state"]
@@ -100,7 +101,7 @@ internalLinks:
     label: "January printable calendars"
   - href: "/printable-yearly-calendar.html"
     label: "Printable yearly calendar"
-related: [minimum-wage-increases-january-1-2027-by-state, social-security-cola-2027-3-6-percent-payment-dates, federal-holidays-2027-observed-dates-list]
+related: [minimum-wage-increases-january-1-2027-by-state, social-security-cola-2027-3-6-percent-payment-dates, new-laws-november-1-2026-oklahoma-virginia-federal]
 downloads:
   - group: "New Laws January 1 printables"
     title: "New Laws January 1, 2027 by State"
