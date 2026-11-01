@@ -4,6 +4,7 @@ seoTitle: "Self Assessment Deadline 31 January 2027: Dates, Penalties"
 description: "HM Revenue and Customs (HMRC) must receive paper tax returns by 31 October 2026; online returns and payment are due 31 January 2027, GOV.UK says."
 type: news
 publishedAt: "2026-10-26T18:44:00-04:00"
+updatedAt: "2026-11-01T04:47:00-05:00"
 authors: [alex-morgan]
 category: uk-canada
 keywords: ["self assessment deadline 2027", "self assessment deadline 31 january 2027", "paper tax return deadline 31 october 2026", "self assessment late filing penalty", "hmrc tax return deadline"]
@@ -150,7 +151,7 @@ The daily charge is £900 divided by £10, which is 90 days, so the daily penalt
 
 ## What are payments on account and when are they due?
 
-GOV.UK says payments on account are due by midnight on 31 January and 31 July, and that each payment is half of the tax you owed last year. Applied to this cycle, that means 31 January 2027 and 31 July 2027, a Saturday. GOV.UK says you do not need to make them if the tax you owed last year was less than £1,000. Check the [GOV.UK payments on account page](https://www.gov.uk/understand-self-assessment-bill/payments-on-account) for the other conditions.
+GOV.UK says payments on account are due by midnight on 31 January and 31 July, and that each payment is half of the tax you owed last year. Applied to this cycle, that means 31 January 2027 and 31 July 2027, a Saturday. GOV.UK says you do not need to make them if the tax you owed last year was less than £1,000. Check the [GOV.UK payments on account page](https://www.gov.uk/understand-self-assessment-bill/payments-on-account) for the other conditions. Parents of young children also have a 31 December 2026 date: see our [30 hours free childcare deadline story](/news/free-childcare-january-2027-deadline-31-december-30-hours-england/).
 
 ## Printable
 

@@ -4,6 +4,7 @@ seoTitle: "Annual Leave 2027: Bank Holiday Bridges"
 description: "Using gov.uk's 2027 bank holiday dates, 4 days of leave around Easter give 10 days off in England, Wales and Northern Ireland. Tables for each nation."
 type: explainer
 publishedAt: "2026-10-31T00:59:00-04:00"
+updatedAt: "2026-11-01T04:47:00-05:00"
 authors: [alex-morgan]
 category: uk-canada
 keywords: ["annual leave 2027", "bank holidays 2027 annual leave", "double annual leave 2027", "annual leave hack 2027"]
@@ -157,7 +158,7 @@ In England and Wales, 15 leave days buy 37 days off, about two and a half days o
 
 ## Does the Christmas 2027 bridge carry into the new year?
 
-Christmas Day 2027 is a Saturday and Boxing Day a Sunday, so Monday 27 and Tuesday 28 December are the bank holidays. Leave on Wednesday 29, Thursday 30 and Friday 31 December gives 9 days off to Sunday 2 January 2028. New Year's Day 2028 is a Saturday; the 2028 bank holiday list is not part of this story's source, so check gov.uk before you plan anything for 3 January 2028. Our [Boxing Day page](/when-is/uk-boxing-day/) and [December calendars](/december-calendars.html) help you map the week, and our [2026 Christmas bank holidays story](/news/uk-christmas-bank-holidays-2026-boxing-day-substitute-december-28/) covers the 2026 substitute days.
+Christmas Day 2027 is a Saturday and Boxing Day a Sunday, so Monday 27 and Tuesday 28 December are the bank holidays. Leave on Wednesday 29, Thursday 30 and Friday 31 December gives 9 days off to Sunday 2 January 2028. New Year's Day 2028 is a Saturday; the 2028 bank holiday list is not part of this story's source, so check gov.uk before you plan anything for 3 January 2028. Our [Boxing Day page](/when-is/uk-boxing-day/) and [December calendars](/december-calendars.html) help you map the week, and our [2026 Christmas bank holidays story](/news/uk-christmas-bank-holidays-2026-boxing-day-substitute-december-28/) covers the 2026 substitute days. If you are planning leave around a baby's first year, the [30 hours free childcare deadline of 31 December 2026](/news/free-childcare-january-2027-deadline-31-december-30-hours-england/) is another date to put in the same diary.
 
 ## Print the 2027 annual leave planner
 

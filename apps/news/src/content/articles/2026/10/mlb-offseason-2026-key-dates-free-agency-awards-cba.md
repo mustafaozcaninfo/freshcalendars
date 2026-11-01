@@ -4,7 +4,7 @@ seoTitle: "MLB Offseason 2026 Key Dates: Free Agency, Awards, CBA"
 description: "Major League Baseball (MLB) free agency opens Thursday, Oct. 29, 2026, the day after the Brewers won the World Series; awards run Nov. 1 to 17, per MLB.com."
 type: explainer
 publishedAt: "2026-10-27T10:08:00-04:00"
-updatedAt: "2026-10-29T03:55:00-04:00"
+updatedAt: "2026-11-01T04:47:00-05:00"
 authors: [jordan-bennett]
 category: sports
 keywords: ["MLB offseason key dates 2026", "when does MLB free agency start 2026", "MLB awards 2026 dates", "MLB CBA expiration December 1 2026"]
@@ -144,7 +144,7 @@ Every date below is from MLB.com's awards guide of Oct. 26, 2026. The Baseball W
 
 | Date | Award |
 |---|---|
-| Sun., Nov. 1 | Rawlings Gold Glove Awards, 8:30 p.m. ET on ESPN |
+| Sun., Nov. 1 | Rawlings Gold Glove Awards, 8:30 p.m. ET on ESPN ([all 60 finalists](/news/gold-glove-awards-2026-tonight-time-espn-finalists-platinum-glove-vote/)) |
 | Fri., Nov. 6 | Platinum Glove Awards; Heart & Hustle Awards |
 | Mon., Nov. 9 | BBWAA Rookie of the Year |
 | Tue., Nov. 10 | BBWAA Manager of the Year |

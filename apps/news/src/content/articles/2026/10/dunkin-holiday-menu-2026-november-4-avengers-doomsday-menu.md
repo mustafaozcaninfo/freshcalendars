@@ -4,6 +4,7 @@ seoTitle: "Dunkin' Holiday Menu 2026: Nov. 4 Date and Full Menu"
 description: "Dunkin' starts its 2026 holiday season and Avengers: Doomsday menu Wed., Nov. 4, at participating U.S. restaurants. Caribou Coffee starts Mon., Nov. 2."
 type: news
 publishedAt: "2026-10-29T15:52:00-04:00"
+updatedAt: "2026-11-01T04:58:00-05:00"
 authors: [jordan-bennett]
 category: retail-dates
 keywords: ["Dunkin holiday menu 2026", "Dunkin Avengers Doomsday menu", "Dunkin November 4 2026", "when does Dunkin holiday menu come out"]
@@ -158,6 +159,8 @@ The limited-edition collection also includes Avengers: Doomsday-themed tumblers,
 ## What else has Dunkin' said is coming?
 
 Dunkin' says "more surprises" will be announced at the top of November. The film, directed by Anthony and Joe Russo, releases in theaters Friday, Dec. 18, 2026, per the same release.
+
+For the film's runtime, ticket details and a dated countdown, see our [Avengers: Doomsday release date story](/news/avengers-doomsday-release-date-december-18-countdown-tickets-runtime/).
 
 ## Print the Nov. 4 checklist
 

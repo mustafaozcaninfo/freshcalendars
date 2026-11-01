@@ -4,6 +4,7 @@ seoTitle: "Nations Championship Nov. 2026 Fixtures and Kick-Off Times"
 description: "The Nations Championship runs Nov. 6-29, 2026, with England v New Zealand on Nov. 21 at 2:10pm Greenwich Mean Time (GMT), 9:10 a.m. Eastern Time (ET)."
 type: news
 publishedAt: "2026-10-28T00:02:00-04:00"
+updatedAt: "2026-11-01T04:50:00-05:00"
 authors: [alex-morgan]
 category: uk-canada
 keywords: ["nations championship november 2026 fixtures", "autumn internationals 2026 kick-off times", "england v new zealand 2026 kick-off time", "nations championship finals twickenham"]
@@ -116,6 +117,8 @@ draft: false
 ---
 
 **The Nations Championship November series starts Friday, Nov. 6, 2026, with Ireland v Argentina at 8:10pm Greenwich Mean Time (GMT), 3:10 p.m. Eastern Time (ET), according to Rugby Australia's fixture list.** England v New Zealand is Saturday, Nov. 21, at 2:10pm GMT, 9:10 a.m. ET and 6:10 a.m. Pacific Time (PT). Finals Weekend follows on Nov. 27 to 29 at Allianz Stadium, Twickenham, which Scottish Rugby also lists.
+
+Rugby league fans have a world event on the same clocks: see the [Rugby League World Cup 2026 semi-final and final times](/news/rugby-league-world-cup-2026-semi-finals-final-schedule-kick-off-times-uk-us/).
 
 Rugby Australia prints its times in Australian Eastern Daylight Time (AEDT). We converted them to GMT, the UK time after clocks went back on Oct. 25, and to U.S. Eastern and Pacific time. The U.S. clocks go back on Sunday, Nov. 1, so for every match below Eastern Time is 5 hours behind GMT and Pacific Time is 8 hours behind.
 

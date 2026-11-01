@@ -599,6 +599,16 @@ export const KEY_DATES: KeyDate[] = [
   { date: "2026-11-07", label: "Festival of Remembrance on BBC One, 9pm GMT (4 p.m. ET)", slug: "remembrance-sunday-2026-cenotaph-timings-8-november-festival-of-remembrance" },
   { date: "2026-11-08", label: "Remembrance Sunday at the Cenotaph, silence at 11am GMT", slug: "remembrance-sunday-2026-cenotaph-timings-8-november-festival-of-remembrance" },
   { date: "2026-11-01", label: "US clocks fall back: New York is 9 hours behind Dubai", slug: "us-dubai-saudi-israel-time-difference-after-november-1-2026" },
+  { date: "2026-12-31", label: "England: last day to apply for 30 hours free childcare from Jan. 1 (child turns 9 months Sept. 1-Dec. 31)", slug: "free-childcare-january-2027-deadline-31-december-30-hours-england" },
+  { date: "2027-03-31", label: "England: free childcare apply-by date for hours from April 1", slug: "free-childcare-january-2027-deadline-31-december-30-hours-england" },
+  { date: "2026-11-07", label: "Rugby League World Cup semi-final 1, Newcastle, 9:05 a.m. GMT (4:05 a.m. ET)", slug: "rugby-league-world-cup-2026-semi-finals-final-schedule-kick-off-times-uk-us" },
+  { date: "2026-11-08", label: "Rugby League World Cup semi-final 2, Sydney, 9:05 a.m. GMT (4:05 a.m. ET)", slug: "rugby-league-world-cup-2026-semi-finals-final-schedule-kick-off-times-uk-us" },
+  { date: "2026-11-15", label: "Rugby League World Cup men's final, Suncorp Stadium, Brisbane, 8:35 a.m. GMT (3:35 a.m. ET)", slug: "rugby-league-world-cup-2026-semi-finals-final-schedule-kick-off-times-uk-us" },
+  { date: "2026-11-01", label: "Gold Glove Award winners revealed, 8:30 p.m. ET on ESPN", slug: "gold-glove-awards-2026-tonight-time-espn-finalists-platinum-glove-vote" },
+  { date: "2026-11-05", label: "Platinum Glove fan vote closes at 11:59 p.m. ET on Rawlings.com", slug: "gold-glove-awards-2026-tonight-time-espn-finalists-platinum-glove-vote" },
+  { date: "2026-11-06", label: "Platinum Glove winners named at the Gold Glove ceremony in New York City", slug: "gold-glove-awards-2026-tonight-time-espn-finalists-platinum-glove-vote" },
+  { date: "2026-11-09", label: "Fandango's Avengers: Doomsday premiere sweepstakes ends", slug: "avengers-doomsday-release-date-december-18-countdown-tickets-runtime" },
+  { date: "2026-12-18", label: "Avengers: Doomsday opens in theaters", slug: "avengers-doomsday-release-date-december-18-countdown-tickets-runtime" },
 ];
 
 /** Today's date in Eastern Time as YYYY-MM-DD. */
