@@ -601,6 +601,9 @@ export const KEY_DATES: KeyDate[] = [
   { date: "2026-11-01", label: "US clocks fall back: New York is 9 hours behind Dubai", slug: "us-dubai-saudi-israel-time-difference-after-november-1-2026" },
   { date: "2026-12-31", label: "England: last day to apply for 30 hours free childcare from Jan. 1 (child turns 9 months Sept. 1-Dec. 31)", slug: "free-childcare-january-2027-deadline-31-december-30-hours-england" },
   { date: "2027-03-31", label: "England: free childcare apply-by date for hours from April 1", slug: "free-childcare-january-2027-deadline-31-december-30-hours-england" },
+  { date: "2026-11-07", label: "Rugby League World Cup semi-final 1, Newcastle, 9:05 a.m. GMT (4:05 a.m. ET)", slug: "rugby-league-world-cup-2026-semi-finals-final-schedule-kick-off-times-uk-us" },
+  { date: "2026-11-08", label: "Rugby League World Cup semi-final 2, Sydney, 9:05 a.m. GMT (4:05 a.m. ET)", slug: "rugby-league-world-cup-2026-semi-finals-final-schedule-kick-off-times-uk-us" },
+  { date: "2026-11-15", label: "Rugby League World Cup men's final, Suncorp Stadium, Brisbane, 8:35 a.m. GMT (3:35 a.m. ET)", slug: "rugby-league-world-cup-2026-semi-finals-final-schedule-kick-off-times-uk-us" },
 ];
 
 /** Today's date in Eastern Time as YYYY-MM-DD. */
