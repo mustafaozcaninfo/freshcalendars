@@ -31,6 +31,7 @@ import { loadRanking, trendingFor } from "../../lib/trending";
 import { topicPath } from "../../lib/topics";
 import { upcomingFor } from "../../lib/keydates";
 import KeyDates from "../../components/KeyDates.astro";
+import { puzzleOf } from "../../lib/puzzles.mjs";
 import {
   articleGraph,
   articleHeadTags,
@@ -52,6 +53,13 @@ interface Props { article: Article; all: Article[] }
 const { article, all } = Astro.props;
 const d = article.data;
 const { Content, headings, remarkPluginFrontmatter } = await render(article);
+// Daily puzzle pages: searchers come for a hint or the answer, so both are one tap from the top,
+// above the byline and hero (the same targets as the shortcut bar in the story body).
+const puzzleJump = puzzleOf(article.id) ? (() => {
+  const hints = headings.find((h) => h.depth === 2 && /\b(hints?|clues?)\b/i.test(h.text) && !/spoiler|\b(how|works)\b/i.test(h.text));
+  const answer = headings.find((h) => h.depth === 2 && /\bspoilers?\b/i.test(h.text));
+  return [hints && { href: `#${hints.slug}`, label: "Hints" }, answer && { href: `#${answer.slug}`, label: "Answer" }].filter(Boolean) as { href: string; label: string }[];
+})() : [];
 // Stories with room for two in-article units carry Fresh_News_5 in the body (rehypeMidArticleAd), not at the end.
 const endAd = (remarkPluginFrontmatter?.adsInBody ?? 0) < 2;
 
@@ -163,6 +171,11 @@ const keyDates = upcomingFor(new Set([article.id]));
     <p class="kicker" data-cat={category.id}><a href={categoryPath(category.id)}>{category.data.name}</a></p>
     <h1 class={d.title.length > 80 ? "long" : undefined}>{d.title}</h1>
     <p class="news-lede">{d.description}</p>
+    {puzzleJump.length > 0 && (
+      <nav class="pz-jump" aria-label="Jump to">
+        {puzzleJump.map((j) => <a href={j.href}>{j.label} ↓</a>)}
+      </nav>
+    )}
     <div class="article-byline-row"><ArticleMeta
       authors={authors.map((a) => ({ name: a.data.name, href: authorPath(a.id), photo: a.data.photo }))}
       publishedAt={d.publishedAt}
@@ -597,6 +610,131 @@ const keyDates = upcomingFor(new Set([article.id]));
         });
         show(wc);
       }
+
+      // "Try a guess" tools on puzzle pages (src/lib/puzzle-boards.mjs). The answer data is base64 of
+      // the reversed text, so it never reads as page text; nothing is sent anywhere.
+      const unhide = (k) => [...new TextDecoder().decode(Uint8Array.from(atob(k), (c) => c.charCodeAt(0)))].reverse().join("");
+      const para = (t, cls) => Object.assign(document.createElement("p"), { textContent: t, className: cls || "" });
+      const cap = (w) => w.split(/([ -])/).map((x) => x.charAt(0) + x.slice(1).toLowerCase()).join("");
+      const store = (key, v) => { try { v === undefined ? localStorage.removeItem(key) : localStorage.setItem(key, JSON.stringify(v)); } catch {} };
+      const load = (key) => { try { return JSON.parse(localStorage.getItem(key) || "null"); } catch { return null; } };
+
+      // Wordle: colors for a guess, scored the way the game does (greens first, then yellows by count).
+      const wt = document.querySelector("[data-wordle-try]");
+      if (wt) {
+        const ans = unhide(wt.dataset.k), input = wt.querySelector("input"), out = wt.querySelector(".tool-out");
+        const rows = [];
+        const score = (g) => {
+          const res = Array(5).fill("gray"), left = {};
+          for (let i = 0; i < 5; i++) if (g[i] === ans[i]) res[i] = "green"; else left[ans[i]] = (left[ans[i]] || 0) + 1;
+          for (let i = 0; i < 5; i++) if (res[i] !== "green" && left[g[i]]) { res[i] = "yellow"; left[g[i]]--; }
+          return res;
+        };
+        wt.addEventListener("submit", (e) => {
+          e.preventDefault();
+          const g = input.value.toUpperCase().replace(/[^A-Z]/g, "");
+          if (g.length !== 5) { out.replaceChildren(para("Enter a five-letter word."), ...rows); return; }
+          input.value = "";
+          const res = score(g);
+          const row = document.createElement("ol");
+          row.className = "pz-try-row";
+          row.setAttribute("aria-label", g + ": " + res.map((r, i) => g[i] + " " + r).join(", "));
+          res.forEach((r, i) => row.append(Object.assign(document.createElement("li"), { className: "pz-t-" + r, textContent: g[i] })));
+          rows.unshift(row);
+          const greens = res.filter((r) => r === "green").length, yellows = res.filter((r) => r === "yellow").length;
+          const msg = g === ans ? "That is today's answer." : greens + " green and " + yellows + " yellow. Gray letters are not in the word (or not again).";
+          out.replaceChildren(para(msg), ...rows);
+        });
+        show(wt);
+      }
+
+      // Connections: build the 16-tile board, check a pick of four, and lock solved groups in color.
+      const ct = document.querySelector("[data-conn-try]");
+      if (ct) {
+        const { groups, cards } = JSON.parse(unhide(ct.dataset.k));
+        const grid = ct.querySelector(".pz-conn-grid"), out = ct.querySelector(".tool-out");
+        const COLORS = ["yellow", "green", "blue", "purple"];
+        const solved = new Set();
+        const tiles = cards.map(([w, g]) => {
+          const b = Object.assign(document.createElement("button"), { type: "button", textContent: w, className: "pz-ct" });
+          b.dataset.g = g;
+          b.setAttribute("aria-pressed", "false");
+          b.addEventListener("click", () => {
+            const on = b.getAttribute("aria-pressed") === "true";
+            if (!on && tiles.filter((t) => t.getAttribute("aria-pressed") === "true").length >= 4) return;
+            b.setAttribute("aria-pressed", String(!on));
+          });
+          grid.append(b);
+          return b;
+        });
+        // Shrink a long single word ("Kaleidoscope") until it fits its tile instead of breaking mid-word.
+        const fit = () => tiles.forEach((t) => {
+          t.style.fontSize = "";
+          const span = document.createElement("span");
+          for (const word of t.textContent.split(" ")) {
+            span.textContent = word;
+            span.style.cssText = "position:absolute;visibility:hidden;white-space:nowrap;font:inherit;text-transform:uppercase";
+            t.append(span);
+            const cs = getComputedStyle(t), room = t.clientWidth - parseFloat(cs.paddingLeft) - parseFloat(cs.paddingRight) - 6;
+            if (span.getBoundingClientRect().width > room) t.style.fontSize = Math.max(8, Math.floor(parseFloat(cs.fontSize) * room / span.getBoundingClientRect().width * 10) / 10) + "px";
+            span.remove();
+          }
+        });
+        show(ct); fit();
+        // Again once the web font is in: it sets wider than the fallback the first pass measured.
+        document.fonts?.ready.then(fit);
+        addEventListener("resize", fit);
+        const picked = () => tiles.filter((t) => t.getAttribute("aria-pressed") === "true");
+        const clear = () => picked().forEach((t) => t.setAttribute("aria-pressed", "false"));
+        ct.addEventListener("submit", (e) => {
+          e.preventDefault();
+          const p = picked();
+          if (p.length !== 4) { out.replaceChildren(para("Pick exactly four entries (" + p.length + " picked).")); return; }
+          const count = {};
+          for (const t of p) count[t.dataset.g] = (count[t.dataset.g] || 0) + 1;
+          const best = Math.max(...Object.values(count));
+          if (best === 4) {
+            const g = +p[0].dataset.g;
+            solved.add(g);
+            for (const t of p) { t.disabled = true; t.setAttribute("aria-pressed", "false"); t.classList.add("pz-ct-" + COLORS[g]); }
+            // Solved groups move to the top, in the order they were found.
+            const order = [...solved].flatMap((s) => tiles.filter((t) => +t.dataset.g === s));
+            grid.prepend(...order);
+            out.replaceChildren(para("Correct: " + COLORS[g] + ", " + groups[g] + "." + (solved.size === 4 ? " Board solved." : "")));
+          } else out.replaceChildren(para(best === 3 ? "One away: three of these four belong together." : "Not a group. No mistake counted, try again."));
+        });
+        ct.querySelector("[data-conn-clear]").addEventListener("click", () => { clear(); out.replaceChildren(); });
+        show(ct);
+      }
+
+      // Strands: check a typed word against the theme words and the spangram; found words are kept
+      // on this device for this puzzle date.
+      const st = document.querySelector("[data-strands-try]");
+      if (st) {
+        const { s, t } = JSON.parse(unhide(st.dataset.k)), key = "fc-strands-" + st.dataset.date;
+        const input = st.querySelector("input"), out = st.querySelector(".tool-out");
+        let found = (load(key) || []).filter((w) => w === s || t.includes(w));
+        const render = (msg) => {
+          const themes = found.filter((w) => w !== s);
+          out.replaceChildren(...[
+            msg && para(msg),
+            para(themes.length + " of " + t.length + " theme words found" + (found.includes(s) ? ", plus the spangram." : ". Spangram not found yet.")),
+            found.length ? para("Your words: " + found.map(cap).join(", "), "tool-note") : null,
+          ].filter(Boolean));
+        };
+        st.addEventListener("submit", (e) => {
+          e.preventDefault();
+          const w = input.value.toUpperCase().replace(/[^A-Z]/g, "");
+          input.value = "";
+          if (!w) return render();
+          if (found.includes(w)) return render(cap(w) + " is already on your list.");
+          if (w !== s && !t.includes(w)) return render(cap(w) + " is not a theme word today.");
+          found.push(w); store(key, found);
+          render(w === s ? cap(w) + " is the spangram!" : cap(w) + " is a theme word.");
+        });
+        st.querySelector("[data-strands-reset]").addEventListener("click", () => { found = []; store(key); render("Your list is cleared."); });
+        render(); show(st);
+      }
     })();
   </script>
 </NewsBase>
@@ -630,6 +768,9 @@ const keyDates = upcomingFor(new Set([article.id]));
   .topic-links span{flex-basis:100%;font-size:.75rem;font-weight:700;text-transform:uppercase;letter-spacing:.08em;color:var(--ink)}
   .topic-links a{display:inline-flex;align-items:center;min-height:44px;font-weight:700}
   .jump{margin:-.5rem 0 1.25rem;font-weight:700}
+  .pz-jump{display:flex;flex-wrap:wrap;gap:.5rem;margin:0 0 .5rem}
+  .pz-jump a{display:inline-flex;align-items:center;min-height:44px;padding:0 1.1rem;border:1px solid var(--focus);border-radius:999px;font-weight:700;text-decoration:none;color:var(--focus);background:var(--paper)}
+  .pz-jump a:last-child{background:var(--focus);color:var(--paper)}
   .jump a{display:inline-flex;align-items:center;min-height:44px}
   .prose-news{font-family:"Source Sans 3","Source Sans 3 Fallback",ui-sans-serif,system-ui,sans-serif;font-size:1.0625rem;line-height:1.7;color:var(--ink-strong)}
   .prose-news :global(h2){font-family:Sora,"Sora Fallback",sans-serif;font-size:1.35rem;line-height:1.3;margin:2rem 0 .75rem;color:var(--ink-strong);scroll-margin-top:10rem}
@@ -662,7 +803,7 @@ const keyDates = upcomingFor(new Set([article.id]));
   .prose-news :global(.zip-finder){display:flex;flex-wrap:wrap;align-items:flex-end;gap:.6rem}
   .prose-news :global(.zip-finder label){flex:1 0 100%;font-weight:700;font-size:1rem}
   .prose-news :global(.zip-finder input){flex:1 1 9rem;min-height:48px;font:inherit;font-size:1.15rem;padding:.4rem .75rem;border:1px solid #a6b6aa;border-radius:8px;background:#fff;color:var(--ink-strong);letter-spacing:.08em}
-  .prose-news :global(.zip-finder button){min-height:48px;padding:0 1.1rem;font:700 1rem/1 "Source Sans 3","Source Sans 3 Fallback",sans-serif;color:#fff;background:var(--focus);border:0;border-radius:8px;cursor:pointer}
+  .prose-news :global(.zip-finder button){min-height:48px;padding:0 1.1rem;font:700 1rem/1 "Source Sans 3","Source Sans 3 Fallback",sans-serif;color:var(--paper);background:var(--focus);border:0;border-radius:8px;cursor:pointer}
   .prose-news :global(.zip-finder button:hover){background:var(--focus)}
   .prose-news :global(.zip-out){flex:1 0 100%;margin:0;font-size:1rem;min-height:1.5em}
   .prose-news :global(tbody tr.zip-hit td){background:var(--surface-warm)}
@@ -707,10 +848,10 @@ const keyDates = upcomingFor(new Set([article.id]));
   .prose-news :global(.pz-nav a){display:inline-flex;align-items:center;min-height:44px;padding:0 1rem;border:1px solid var(--n-border);border-radius:999px;background:var(--paper);color:var(--focus);font-weight:700;font-size:.95rem;text-decoration:none;box-shadow:var(--n-shadow)}
   .prose-news :global(.pz-nav a.pz-go){background:var(--focus);border-color:var(--focus);color:var(--paper)}
   .prose-news :global(.pz-nav a:hover){box-shadow:var(--n-shadow-h)}
-  .prose-news :global(details.pz-hint summary){display:flex;flex-wrap:wrap;align-items:center;gap:.25rem .6rem;min-height:44px;cursor:pointer;font-weight:700;color:var(--ink-strong);list-style:none}
-  .prose-news :global(details.pz-hint summary::-webkit-details-marker){display:none}
-  .prose-news :global(details.pz-hint summary::after){content:"Show hint";padding:.1rem .6rem;border:1px solid var(--focus);border-radius:999px;font-size:.8rem;font-weight:700;color:var(--focus);background:var(--paper)}
-  .prose-news :global(details.pz-hint[open] summary::after){content:"Hide";color:var(--ink);border-color:var(--n-border)}
+  .prose-news :global(details.pz-hint > summary){display:flex;flex-wrap:wrap;align-items:center;gap:.25rem .6rem;min-height:44px;cursor:pointer;font-weight:700;color:var(--ink-strong);list-style:none}
+  .prose-news :global(details.pz-hint > summary::-webkit-details-marker){display:none}
+  .prose-news :global(details.pz-hint > summary::after){content:"Show hint";padding:.1rem .6rem;border:1px solid var(--focus);border-radius:999px;font-size:.8rem;font-weight:700;color:var(--focus);background:var(--paper)}
+  .prose-news :global(details.pz-hint[open] > summary::after){content:"Hide";color:var(--ink);border-color:var(--n-border)}
   .prose-news :global(details.pz-hint > span){display:block;margin:.1rem 0 .4rem;padding:.5rem .8rem;border-left:4px solid var(--gold);background:var(--surface-warm);border-radius:0 8px 8px 0}
   .prose-news :global(.pz-board){margin:0 0 1.5rem;padding:1rem;border:1px solid var(--n-border);border-radius:var(--n-radius);background:var(--paper);box-shadow:var(--n-shadow)}
   .prose-news :global(.pz-board figcaption){margin:.75rem 0 0;font-size:.9rem;line-height:1.45;color:var(--ink)}
@@ -729,13 +870,49 @@ const keyDates = upcomingFor(new Set([article.id]));
   .prose-news :global(.pz-svg.pz-hive){max-width:220px}
   .prose-news :global(.pz-svg.pz-mini){max-width:320px}
   .prose-news :global(.pz-svg.pz-lbox){max-width:340px}
+  .prose-news :global(details.pz-tips){margin:0 0 1.1rem;border:1px solid var(--n-border);border-radius:var(--n-radius);padding:0 1rem;background:var(--paper)}
+  .prose-news :global(details.pz-tips > summary){display:flex;align-items:center;min-height:48px;cursor:pointer;font-weight:700;color:var(--focus);list-style:none}
+  .prose-news :global(details.pz-tips > summary::-webkit-details-marker){display:none}
+  .prose-news :global(details.pz-tips > summary::after){content:"+";margin-left:auto;font-size:1.2rem}
+  .prose-news :global(details.pz-tips[open] > summary::after){content:"\2212"}
   .prose-news :global(.pz-track label){font-weight:400}
   .prose-news :global(.pz-track-row){display:flex;flex-wrap:wrap;gap:.5rem;margin:0 0 .6rem}
   .prose-news :global(.pz-track input){flex:1 1 10rem;min-height:48px;font:inherit;font-size:1.1rem;padding:.4rem .75rem;border:1px solid #a6b6aa;border-radius:8px;background:#fff;color:var(--ink-strong);text-transform:uppercase;letter-spacing:.06em}
-  .prose-news :global(.pz-track button){min-height:48px;padding:0 1.1rem;font:700 1rem/1 "Source Sans 3","Source Sans 3 Fallback",sans-serif;color:#fff;background:var(--focus);border:0;border-radius:8px;cursor:pointer}
+  .prose-news :global(.pz-track button){min-height:48px;padding:0 1.1rem;font:700 1rem/1 "Source Sans 3","Source Sans 3 Fallback",sans-serif;color:var(--paper);background:var(--focus);border:0;border-radius:8px;cursor:pointer}
   .prose-news :global(.pz-track-tools button){min-height:44px;margin-top:.6rem;color:var(--focus);background:var(--paper);border:1px solid var(--focus)}
   .prose-news :global(.pz-track input:focus-visible),.prose-news :global(.pz-track button:focus-visible){outline:3px solid var(--focus);outline-offset:2px}
   .prose-news :global(.pz-track[hidden]){display:none}
+  /* One-answer reveals inside a hint, and Wordle's letter-by-letter reveal. */
+  .prose-news :global(details.pz-reveal){margin:.45rem 0 .1rem}
+  .prose-news :global(details.pz-reveal summary){display:inline-flex;align-items:center;min-height:44px;padding:0 .8rem;border:1px dashed var(--focus);border-radius:999px;cursor:pointer;font-weight:700;font-size:.9rem;color:var(--focus);list-style:none}
+  .prose-news :global(details.pz-reveal summary::-webkit-details-marker){display:none}
+  .prose-news :global(details.pz-reveal[open] summary){border-style:solid;color:var(--ink)}
+  .prose-news :global(details.pz-reveal > span){display:block;margin:.35rem 0 0;font-weight:700;color:var(--ink-strong)}
+  .prose-news :global(li.pz-reveal-item){list-style:none;margin-left:-1.25rem}
+  .prose-news :global(.pz-letters-intro){margin:.8rem 0 .4rem}
+  .prose-news :global(.pz-letters){display:flex;gap:.4rem;margin:0 0 1.25rem;padding:0;list-style:none}
+  .prose-news :global(.pz-letters li){margin:0}
+  .prose-news :global(details.pz-letter summary),.prose-news :global(details.pz-letter > span){display:grid;place-items:center;width:clamp(2.6rem,13vw,3.2rem);aspect-ratio:1;border-radius:4px;font:800 clamp(1.3rem,6vw,1.7rem)/1 Sora,"Sora Fallback",sans-serif;cursor:pointer;list-style:none}
+  .prose-news :global(details.pz-letter summary){border:2px dashed var(--n-border);color:var(--ink);font-size:1rem}
+  .prose-news :global(details.pz-letter summary::-webkit-details-marker){display:none}
+  .prose-news :global(details.pz-letter[open] summary){display:none}
+  .prose-news :global(details.pz-letter > span){background:#3f7a3a;color:#fff}
+  /* Guess testers: Wordle rows, the Connections board. */
+  .prose-news :global(.pz-try-row){display:flex;gap:.3rem;margin:.4rem 0;padding:0;list-style:none}
+  .prose-news :global(.pz-try-row li){display:grid;place-items:center;width:2.4rem;aspect-ratio:1;margin:0;border-radius:4px;font:800 1.2rem/1 Sora,"Sora Fallback",sans-serif;color:#fff}
+  .prose-news :global(.pz-t-green){background:#3f7a3a}
+  .prose-news :global(.pz-t-yellow){background:#f9df6d;color:#1a1a1a!important}
+  .prose-news :global(.pz-t-gray){background:#5f6b66}
+  .prose-news :global(.pz-conn-help){margin:0 0 .6rem}
+  .prose-news :global(.pz-conn-grid){display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:.35rem;margin:0 0 .7rem}
+  .prose-news :global(button.pz-ct){min-height:56px;padding:.3rem;border:0;border-radius:8px;background:#efefe6;color:#1a1a1a;font:700 clamp(.62rem,2.5vw,.9rem)/1.15 "Source Sans 3","Source Sans 3 Fallback",sans-serif;text-transform:uppercase;hyphens:auto;overflow-wrap:anywhere;cursor:pointer}
+  .prose-news :global(button.pz-ct[aria-pressed="true"]){background:#5a594e;color:#fff}
+  .prose-news :global(button.pz-ct:disabled){cursor:default;color:#111}
+  .prose-news :global(button.pz-ct.pz-ct-yellow){background:#f9df6d}
+  .prose-news :global(button.pz-ct.pz-ct-green){background:#a0c35a}
+  .prose-news :global(button.pz-ct.pz-ct-blue){background:#b0c4ef}
+  .prose-news :global(button.pz-ct.pz-ct-purple){background:#ba81c5}
+  .prose-news :global(.pz-conn .pz-track-row button[type="button"]){color:var(--focus);background:var(--paper);border:1px solid var(--focus)}
   .article :global(section h2),.article :global(aside h2){font-family:Sora,"Sora Fallback",sans-serif;color:var(--ink-strong)}
   .article :global(section){margin:2rem 0}
   .progress{position:fixed;left:0;right:0;top:0;height:4px;z-index:70;pointer-events:none}
