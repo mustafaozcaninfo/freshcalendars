@@ -4,6 +4,7 @@ seoTitle: "Remembrance Day 2026: Statutory Holiday by Province"
 description: "Remembrance Day is Wednesday, Nov. 11, 2026. British Columbia and New Brunswick list it as a holiday; Ontario does not. The UK marks Remembrance Sunday Nov. 8."
 type: explainer
 publishedAt: "2026-10-24T17:00:00-04:00"
+updatedAt: "2026-11-01T02:43:00-05:00"
 authors: [alex-morgan]
 category: uk-canada
 keywords: ["is Remembrance Day a statutory holiday 2026", "Remembrance Day 2026", "Remembrance Sunday 2026"]
@@ -31,9 +32,26 @@ faq:
     a: "No. Ontario's Employment Standards Act public holidays do not include Remembrance Day, so employers are not required to give the day off."
   - q: "When is Remembrance Sunday in 2026?"
     a: "Sunday, Nov. 8, 2026. GOV.UK says the national service at the Cenotaph on Whitehall starts at 11 a.m., with a two-minute silence."
+  - q: "Are banks, Canada Post and the stock exchange closed on Remembrance Day 2026?"
+    a: "Canada Post lists Remembrance Day on Nov. 11 as a national holiday and says it has no mail collection or delivery on such days. Payments Canada lists Nov. 11 as a system closure day. The Toronto Stock Exchange (TSX) calendar has no Nov. 11 entry. Branch hours vary by bank, so check your bank's branch locator."
   - q: "What about my province or territory?"
     a: "This story does not confirm the status in other provinces and territories. Check your province's employment standards office."
 sources:
+  - title: "Canada Post holiday schedule"
+    url: "https://www.canadapost-postescanada.ca/holidays"
+    publisher: "Canada Post"
+  - title: "System closure schedule"
+    url: "https://www.payments.ca/system-closure-schedule"
+    publisher: "Payments Canada"
+  - title: "Bank of Canada holiday schedule"
+    url: "https://www.bankofcanada.ca/press/upcoming-events/bank-of-canada-holiday-schedule/"
+    publisher: "Bank of Canada"
+  - title: "Holiday Calendar"
+    url: "https://www.nbc.ca/contact-us/bank-holiday-calendar.html"
+    publisher: "National Bank of Canada"
+  - title: "Calendar"
+    url: "https://www.tsx.com/en/trading/calendars-and-trading-hours/calendar"
+    publisher: "Toronto Stock Exchange"
   - title: "Public holidays"
     url: "https://www.canada.ca/en/revenue-agency/services/tax/public-holidays.html"
     publisher: "Canada Revenue Agency, Canada.ca"
@@ -135,6 +153,20 @@ GOV.UK says no tickets or passes are needed for the event, and that space is lim
 |---|---|---|
 | Remembrance Sunday service, London | Sun., Nov. 8, 2026 | Starts 11 a.m. GMT |
 | Remembrance Day, Canada | Wed., Nov. 11, 2026 | Silence at 11:00 a.m. |
+
+## What is closed in Canada on Remembrance Day, Wednesday, Nov. 11, 2026?
+
+Several national institutions list Nov. 11, 2026 as a holiday or closure day, and the stock exchange does not.
+
+| Service | What the official source says for Nov. 11, 2026 |
+|---|---|
+| Canada Post | Lists "Remembrance Day (National)" on Nov. 11. It is closed on national, provincial and territorial holidays, with no collection or delivery of mail. Post offices operated by the private sector are open according to the hours of the host business. |
+| Payments Canada | Lists Remembrance Day, Wednesday, November 11, as a system closure day, so payments sent through its systems that day are not processed that day. |
+| Bank of Canada | Lists Remembrance Day, Nov. 11, 2026, as a national holiday. |
+| National Bank | Lists Remembrance Day, Nov. 11, 2026, as a national holiday; its calendar does not state branch hours. |
+| Toronto Stock Exchange (TSX) | Its 2026 market holiday list has no Nov. 11 entry, so it is not listed as a trading closure. |
+
+Branch hours vary by bank. This story does not confirm whether the branches of other banks open, so check your bank's branch locator. Service Canada office closures are not confirmed here either.
 
 ## Where does this fit in November?
 
