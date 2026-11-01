@@ -794,6 +794,10 @@ const keyDates = upcomingFor(new Set([article.id]));
   /* Phones: headers may wrap, and each column keeps a readable width (the box scrolls) instead of a word per line. */
   @media (max-width:640px){ .prose-news :global(th){white-space:normal} .prose-news :global(th),.prose-news :global(td){padding:.5rem .55rem;min-width:6.5rem} }
   .prose-news :global(blockquote){margin:1.25rem 0;padding:.75rem 1.1rem;border-left:4px solid var(--n-brand);background:var(--n-soft);border-radius:0 var(--n-radius) var(--n-radius) 0}
+  /* Official embeds from pnpm fc news-embed (YouTube, X and other posts, Getty Images). */
+  .prose-news :global(:is(.video-embed,.social-embed,.photo-embed)){margin:1.5rem 0}
+  .prose-news :global(:is(.video-embed,.social-embed,.photo-embed) blockquote){margin:0}
+  .prose-news :global(:is(.video-embed,.social-embed,.photo-embed) figcaption){margin:.5rem 0 0;font-size:.9rem;line-height:1.45;color:var(--ink)}
   /* Freshness note at the top of a running list (raw HTML in the story). */
   .prose-news :global(.callout){margin:0 0 1.25rem;padding:.85rem 1rem;border:2px solid var(--gold);border-left-width:6px;border-radius:10px;background:var(--surface-warm);font-size:1rem;line-height:1.5}
   /* ZIP finder (raw HTML inside the sample ballot story). */

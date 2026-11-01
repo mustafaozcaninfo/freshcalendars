@@ -27,6 +27,18 @@ pnpm fc news-assets <slug>                                          # redraws th
 
 Then paste the `hero:` block `news-photo use` printed, and replace `credit` with the line `news-assets` prints (it ends in `, edited`, which CC BY requires).
 
+Finding the picture the top results use (do this first for news about a real product, place or event):
+- `pnpm fc news-photo trace <url> <url> …` with the top 3-5 results for the story's query. For each of their pictures it prints the owner and the legal route: an exact Commons copy (`use`), a federal photo (`gov`), the company's release (`press --page`), a post to embed (`pnpm fc news-embed <url>`), or "news agency" / "owner unknown", which we never copy. Those pages are only read; nothing is saved from them.
+- `gov`: the federal page the photo is on (agency newsroom, NASA, NPS, DVIDS, the White House). It fetches the original size and refuses a photo credited to AP, Getty, Reuters, ESA, Maxar and the like.
+- `press --page <release>`: an image in the company's own release, on its newsroom (CDN-hosted too) or on PR Newswire, GlobeNewswire, Business Wire or ACCESSWIRE.
+- Agency photos (AP, Getty, Reuters) only through a paid license or Getty's own embed (`news-embed` with the iframe link from Getty's Embed button). "Everyone uses it" is not a license.
+- More sources in `search`: Flickr (`FLICKR_API_KEY`; official government accounts pass without `--allow-flickr`, as does the U.S. Government Work license) and Unsplash (`UNSPLASH_ACCESS_KEY`; Unsplash+ and sponsored photos are refused).
+- Small photos (800-1600 px) are no longer refused: the hero is framed whole on a blurred copy, and the credit says "edited".
+
+In-body photos and embeds:
+- Any `news-photo` command except `official` and `trace` takes `--inline <name>`: it writes `<name>.webp` (whole, up to 1600 px) and prints the Markdown image plus the credit line to paste under it. The audit's `12-INLINE-CREDIT` fails a story that drops that line.
+- `pnpm fc news-embed <url>` prints the HTML for a YouTube video (privacy-enhanced), an X post (text only, no script), a TikTok, Instagram, Threads or Facebook post (quote card with link) or a Getty Images embed. Use it for the official's or company's own post instead of a screenshot.
+
 Searching well:
 - Search the subject and the place in plain words, three or four phrasings in one call separated by `|` ("runners Verrazzano Bridge|New York City Marathon|marathon First Avenue"). The first phrasing is rarely the best.
 - Prefer U.S. federal public-domain photos: the agency that runs the subject often posts on Commons (NPS park accounts such as GrandTetonNPS, NASA, NOAA, USDA, MTA under CC BY). They are accurate, free of licensing doubt and usually large.
@@ -34,7 +46,7 @@ Searching well:
 
 A photo passes when:
 - **License:** public domain, CC0, CC BY, CC BY-SA or the Pexels License (the tool refuses the rest). Flickr re-uploads need a manual check (`--allow-flickr`).
-- **Size:** at least 1600 px wide after the 16:9 crop; 2400 px is better.
+- **Size:** at least 1600 px wide after the 16:9 crop; 2400 px is better. From 800 px the photo is framed whole instead (less striking; use it when it is the real subject).
 - **Composition:** the subject sits in the right 60% or fills the frame. The left 40% gets the kicker, date tile and card, so a subject there is covered.
 - **People:** no recognizable private person as the subject. Crowds from behind or at a distance are fine.
 - **No logos or brand marks as the subject** (a sponsor banner wall is out). Brand names belong in the text.
