@@ -1,0 +1,34 @@
+---
+/**
+ * "Trending now": the stories read most in the last 24 hours (lib/trending.ts). It sits in the
+ * sidebar on wide screens and after the end-of-story links below that width, where the sidebar
+ * is hidden: the page renders both and CSS shows one, so each reader gets exactly one list.
+ */
+interface Props { items: { href: string; title: string }[]; place: "side" | "inline" }
+const { items, place } = Astro.props;
+const id = `trending-${place}`;
+---
+{items.length > 0 && (
+  <section class:list={["trending", place]} aria-labelledby={id}>
+    <h2 id={id}>Trending now</h2>
+    <ol>
+      {items.map((t) => <li><a href={t.href}>{t.title}</a></li>)}
+    </ol>
+  </section>
+)}
+<style>
+  .trending{counter-reset:trend}
+  .trending h2{font-family:Sora,"Sora Fallback",sans-serif;font-size:1.15rem;margin:0 0 .4rem;padding-bottom:.4rem;border-bottom:3px solid var(--ink-strong)}
+  .trending ol{list-style:none;margin:0;padding:0}
+  .trending li{counter-increment:trend;display:grid;grid-template-columns:1.6rem minmax(0,1fr);gap:.5rem;align-items:baseline;padding:.65rem 0;border-bottom:1px solid var(--line-soft)}
+  .trending li::before{content:counter(trend);font-family:Sora,"Sora Fallback",sans-serif;font-weight:800;font-size:1.15rem;line-height:1;color:var(--focus)}
+  .trending a{font-weight:700;line-height:1.35;color:var(--ink-strong);text-decoration:none}
+  .trending a:hover,.trending a:focus-visible{text-decoration:underline}
+  .inline{margin:2.25rem 0 0}
+  @media (min-width:1100px){ .inline{display:none} }
+  .side{margin:0 0 24px}
+  .side h2{font-size:13px;border-bottom-width:2px}
+  .side li{grid-template-columns:22px minmax(0,1fr);gap:9px;padding:9px 0}
+  .side li::before{font-size:14px}
+  .side a{font-size:12px;line-height:1.4}
+</style>

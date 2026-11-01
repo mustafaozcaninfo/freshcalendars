@@ -22,3 +22,7 @@ scripts/.mobile-*.png
 
 # AnindaIndex submission record (scripts/index-submit.mjs)
 .index-submit/
+
+# Trending ranking CI reads before the news build (scripts/news-trending.mjs)
+apps/news/.trending.json
+apps/news/.trending.json.tmp

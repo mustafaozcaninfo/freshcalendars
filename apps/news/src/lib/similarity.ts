@@ -108,16 +108,27 @@ export function similarity(ix: SimIndex, a: string, b: string): number {
  * sample ballots, two days of the same puzzle: similarity of NEAR_COPY or more) loses that
  * similarity from its score, so the slots show different angles; related-but-distinct stories score
  * well below NEAR_COPY and are never penalized. `bonus` adds outside evidence for a candidate
- * (a shared topic hub, lib/storygraph.ts). Ties go to the newer story.
+ * (a shared topic hub, lib/storygraph.ts). Ties go to the newer story. `allow` limits the automatic
+ * picks (pins are the writer's call), and `group` keeps one automatic pick per group, so a dated
+ * series (lib/series.ts) never fills the list.
  */
 export const CATEGORY_BONUS = 0.12;
 export const NEAR_COPY = 0.55;
 
-export function related(ix: SimIndex, id: string, pinned: string[] = [], limit = 3, bonus: (c: string) => number = () => 0): string[] {
+export interface RelatedOptions {
+  allow?: (c: string) => boolean;
+  group?: (c: string) => string;
+}
+
+export function related(ix: SimIndex, id: string, pinned: string[] = [], limit = 3, bonus: (c: string) => number = () => 0, opts: RelatedOptions = {}): string[] {
+  const { allow = () => true, group } = opts;
   const picked = [...new Set(pinned)].filter((p) => p !== id && ix.vec.has(p)).slice(0, limit);
+  const groups = new Set(group ? picked.map(group) : []);
+  const fresh = (c: string) => !group || !groups.has(group(c));
+  const take = (c: string) => { picked.push(c); if (group) groups.add(group(c)); };
   const cat = ix.docs.get(id)?.category;
   const pool = ix.ids
-    .filter((c) => c !== id && !picked.includes(c))
+    .filter((c) => c !== id && !picked.includes(c) && allow(c))
     .map((c) => {
       const sim = similarity(ix, id, c);
       const extra = sim > 0 ? (ix.docs.get(c)!.category === cat ? CATEGORY_BONUS : 0) + bonus(c) : 0;
@@ -131,16 +142,18 @@ export function related(ix: SimIndex, id: string, pinned: string[] = [], limit =
       // The pool is sorted by s and the penalty only lowers a score, so nothing further down can
       // win: stop here instead of comparing every story of the site with the picks.
       if (x.s <= bestScore + 1e-9) break;
+      if (!fresh(x.c)) continue;
       const copy = Math.max(0, ...picked.map((p) => similarity(ix, x.c, p)));
       const score = x.s - (copy >= NEAR_COPY ? copy : 0);
       if (score > bestScore + 1e-9) { best = i; bestScore = score; }
     }
-    picked.push(pool.splice(best, 1)[0]!.c);
+    if (bestScore === -Infinity) break;
+    take(pool.splice(best, 1)[0]!.c);
   }
   // A brand-new story with no shared features still gets the newest stories, never an empty block.
   if (picked.length < limit) {
-    const newest = ix.ids.filter((c) => c !== id && !picked.includes(c)).sort((a, b) => ix.docs.get(b)!.publishedAt.getTime() - ix.docs.get(a)!.publishedAt.getTime());
-    picked.push(...newest.slice(0, limit - picked.length));
+    const newest = ix.ids.filter((c) => c !== id && !picked.includes(c) && allow(c)).sort((a, b) => ix.docs.get(b)!.publishedAt.getTime() - ix.docs.get(a)!.publishedAt.getTime());
+    for (const c of newest) { if (picked.length >= limit) break; if (fresh(c)) take(c); }
   }
   return picked;
 }

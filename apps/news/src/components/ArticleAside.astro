@@ -1,20 +1,20 @@
 ---
 /**
- * Wide-screen sidebar: contents list with the current section highlighted, printables and share,
+ * Wide-screen sidebar: contents list with the current section highlighted, Trending now (the
+ * related stories are under the story, so the sidebar does not repeat them), printables and share,
  * then a rail of sticky ad segments. The segments split the rest of the sidebar's height equally;
  * each ad sticks under the header through its share of the story, then slides away as the next
  * one arrives, so a long read sees a fresh unit instead of one ad for the whole page. One rail
  * per page (short stories), two from five sections, three from LONG_STORY_H2 sections.
  */
 import type { MarkdownHeading } from "astro";
-import type { ImageMetadata } from "astro";
-import { Image } from "astro:assets";
 import ShareBar from "./ShareBar.astro";
 import AdSlot from "./AdSlot.astro";
+import Trending from "./Trending.astro";
 import { PRINTABLES_PATH } from "../lib/printables";
 import { LONG_STORY_H2 } from "../lib/ad-units.mjs";
-interface Props { headings: MarkdownHeading[]; downloads: number; url: string; title: string; image: string; related?: {href:string;title:string;image:ImageMetadata;alt:string}[] }
-const { headings, downloads, url, title, image, related = [] } = Astro.props;
+interface Props { headings: MarkdownHeading[]; downloads: number; url: string; title: string; image: string; trending: { href: string; title: string }[] }
+const { headings, downloads, url, title, image, trending } = Astro.props;
 const items = headings.filter((h) => h.depth === 2);
 const rails = items.length >= LONG_STORY_H2 ? 3 : items.length >= 5 ? 2 : 1;
 ---
@@ -26,7 +26,7 @@ const rails = items.length >= LONG_STORY_H2 ? 3 : items.length >= 5 ? 2 : 1;
         <ol>{items.map((h) => <li><a href={`#${h.slug}`} data-toc={h.slug}>{h.text}</a></li>)}</ol>
       </nav>
     )}
-    {related.length>0 && <section class="aside-related"><h2>Related Articles</h2><ul>{related.map(r=><li><a href={r.href}><Image src={r.image} alt={r.alt} title={r.title} widths={[90,140,180]} sizes="90px" format="webp" loading="lazy"/><span>{r.title}</span></a></li>)}</ul></section>}
+    <Trending items={trending} place="side" />
     {downloads > 0 && (
       <a class="dl" href="#downloads"><b>{downloads} free printable{downloads === 1 ? "" : "s"}</b><span>PDF and PNG, no sign-up</span></a>
     )}
@@ -65,8 +65,4 @@ const rails = items.length >= LONG_STORY_H2 ? 3 : items.length >= 5 ? 2 : 1;
   .toc-side li{counter-increment:section}
   .toc-side a{display:flex;gap:9px;align-items:baseline;border:0;padding:8px 0;font-size:11px;line-height:1.5;margin:0}
   .toc-side a:before{content:counter(section);display:inline-grid;place-items:center;flex-shrink:0;width:21px;height:21px;background:#e7edf3;border-radius:50%;color:#203b50;font-size:11px}
-  .aside-related h2{font-size:13px!important;margin:0 0 15px!important}
-  .aside-related ul{list-style:none;margin:0 0 24px;padding:0;display:grid;gap:13px}
-  .aside-related a{display:grid;grid-template-columns:80px 1fr;gap:11px;align-items:center;text-decoration:none;font-size:11px;line-height:1.4;color:var(--ink-strong)!important}
-  .aside-related :global(img){width:80px;height:57px;object-fit:cover;border-radius:5px}
 </style>

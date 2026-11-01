@@ -95,6 +95,14 @@ jobs:
             news-images-
       - if: steps.image_cache.outputs.cache-matched-key == ''
         run: cloudflare/deploy.sh pull-image-cache
+      - name: Trending stories (Cloudflare analytics, optional)
+        # Ranks the last 24 hours of story views for the "Trending now" box; without the token or
+        # when Cloudflare fails it warns and the build leaves the box out (scripts/news-trending.mjs).
+        continue-on-error: true
+        env:
+          CF_ANALYTICS_TOKEN: ${{ secrets.CF_ANALYTICS_TOKEN }}
+          CF_ZONE_ID: ${{ secrets.CF_ZONE_ID }}
+        run: pnpm news:trending
       - name: Build start
         id: build_start
         run: echo "t=$(date +%s)" >>"$GITHUB_OUTPUT"

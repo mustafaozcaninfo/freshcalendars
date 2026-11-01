@@ -1,4 +1,10 @@
 ---
+/**
+ * Related news under a story: four cards (RELATED_COUNT, lib/storygraph.ts). The layout follows
+ * the width the block gets, not the window: one row of four in the wide article column, two rows
+ * of two on tablets, and a compact list (thumbnail beside the headline) on phones, where four
+ * full-width cards would be four screens of scrolling.
+ */
 import { Image } from "astro:assets";
 import type { ImageMetadata } from "astro";
 import { formatDateET, isoDateTime } from "../lib/seo";
@@ -12,20 +18,31 @@ const { items } = Astro.props;
       {items.map((r) => (
         <li>
           <a href={r.href}>
-            <Image src={r.image} alt={r.alt} title={r.title} widths={[320, 480, 640]} sizes="(max-width: 600px) 100vw, 230px" format="webp" loading="lazy" decoding="async" />
+            <Image src={r.image} alt={r.alt} title={r.title} widths={[240, 320, 480, 640]} sizes="(min-width: 1100px) 230px, (min-width: 600px) 45vw, 120px" format="webp" loading="lazy" decoding="async" />
             <span class="t">{r.title}</span>
+            <time datetime={isoDateTime(r.publishedAt)}>{formatDateET(r.publishedAt)}</time>
           </a>
-          <time datetime={isoDateTime(r.publishedAt)}>{formatDateET(r.publishedAt)}</time>
         </li>
       ))}
     </ul>
   </section>
 )}
 <style>
-  .related ul{list-style:none;margin:0;padding:0;display:grid;gap:1.25rem;grid-template-columns:repeat(auto-fill,minmax(200px,1fr))}
-  .related a{display:block;color:var(--ink-strong);text-decoration:none}
+  .related{container-type:inline-size}
+  .related ul{list-style:none;margin:0;padding:0;display:grid;gap:1rem}
+  .related a{display:grid;grid-template-columns:120px minmax(0,1fr);grid-template-rows:auto 1fr;column-gap:.85rem;color:var(--ink-strong);text-decoration:none}
   .related a:hover .t,.related a:focus-visible .t{text-decoration:underline}
-  .related :global(img){display:block;width:100%;height:auto;aspect-ratio:16/9;object-fit:cover;border-radius:4px;background:var(--wash)}
-  .t{display:block;font-weight:700;margin:.5rem 0 .25rem;line-height:1.3}
-  .related time{font-size:.85rem;color:var(--ink)}
+  .related :global(img){grid-row:1 / 3;display:block;width:100%;height:auto;aspect-ratio:16/9;object-fit:cover;border-radius:4px;background:var(--wash)}
+  .t{display:block;font-weight:700;line-height:1.3;font-size:.95rem}
+  .related time{display:block;font-size:.8rem;color:var(--ink);margin-top:.2rem}
+  @container (min-width:480px){
+    .related ul{grid-template-columns:repeat(2,minmax(0,1fr));gap:1.25rem}
+    .related a{display:block}
+    .t{margin:.5rem 0 .25rem;font-size:1rem}
+    .related time{font-size:.85rem;margin:0}
+  }
+  @container (min-width:860px){
+    .related ul{grid-template-columns:repeat(4,minmax(0,1fr))}
+    .t{font-size:.95rem}
+  }
 </style>
