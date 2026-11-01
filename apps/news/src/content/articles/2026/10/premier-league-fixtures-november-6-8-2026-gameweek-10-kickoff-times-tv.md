@@ -80,7 +80,7 @@ internalLinks:
     label: "November 2026 printable calendar"
   - href: "/printable-weekly-calendar.html"
     label: "printable weekly calendar"
-related: [premier-league-fixtures-this-weekend-october-31-november-2-2026-kickoff-times-tv, soccer-on-tv-this-weekend-october-30-november-2-2026-us-channels, europa-league-conference-league-november-2026-schedule-kickoff-times-et]
+related: [premier-league-fixtures-this-weekend-october-31-november-2-2026-kickoff-times-tv, nations-league-november-2026-fixtures-kick-off-times-england-scotland-wales-ireland, europa-league-conference-league-november-2026-schedule-kickoff-times-et]
 downloads:
   - group: "Premier League Gameweek 10 Fixtures printables"
     title: "Premier League Gameweek 10 Fixtures, Nov. 6-8, 2026"
@@ -146,7 +146,7 @@ NBC Sports says that in the USA you can watch all 380 Premier League games durin
 
 ## When is the Fantasy Premier League deadline for Gameweek 10?
 
-The Fantasy Premier League (FPL) Gameweek 10 deadline is Friday, Nov. 6, 2026 at 6:30 p.m. GMT, which is 1:30 p.m. ET, according to the game's official data. Every deadline is in our [FPL deadlines guide](/news/fpl-deadlines-2026-27-every-gameweek-deadline-time-uk-us-chip-dates/). For this weekend's round, see the [Premier League fixtures for Oct. 31 to Nov. 2](/news/premier-league-fixtures-this-weekend-october-31-november-2-2026-kickoff-times-tv/), and for other leagues the [soccer on TV guide](/news/soccer-on-tv-this-weekend-october-30-november-2-2026-us-channels/).
+The Fantasy Premier League (FPL) Gameweek 10 deadline is Friday, Nov. 6, 2026 at 6:30 p.m. GMT, which is 1:30 p.m. ET, according to the game's official data. Every deadline is in our [FPL deadlines guide](/news/fpl-deadlines-2026-27-every-gameweek-deadline-time-uk-us-chip-dates/). For this weekend's round, see the [Premier League fixtures for Oct. 31 to Nov. 2](/news/premier-league-fixtures-this-weekend-october-31-november-2-2026-kickoff-times-tv/), and for other leagues the [soccer on TV guide](/news/nations-league-november-2026-fixtures-kick-off-times-england-scotland-wales-ireland/).
 
 ## Is there a printable Gameweek 10 fixtures sheet?
 
