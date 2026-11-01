@@ -10,7 +10,7 @@ import { fileURLToPath } from "node:url";
 
 export const PUZZLE_DIR = path.resolve(path.dirname(fileURLToPath(import.meta.url)), "../content/puzzles");
 
-const MONTHS = ["january", "february", "march", "april", "may", "june", "july", "august", "september", "october", "november", "december"];
+export const MONTHS = ["january", "february", "march", "april", "may", "june", "july", "august", "september", "october", "november", "december"];
 const DAY = 86_400_000;
 
 /**
