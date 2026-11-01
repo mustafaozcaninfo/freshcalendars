@@ -293,6 +293,8 @@ export const PUZZLE_HEROES: [string, string, string, string, string, string, str
   ["nyt-letter-boxed-answer-hints-november-4-2026", "letterboxed", "#3d1f1a", "#fcd34d", "Letter Boxed · Wed., Nov. 4, 2026", "Letter Boxed hints", "Starting letters and word lengths first, the answer at the end."],
   ["contexto-answer-hints-november-5-2026-1509", "contexto", "#0f172a", "#34d399", "Contexto #1509 · Thu., Nov. 5, 2026", "Contexto hints", "Close words and hints first, the secret word only at the end."],
   ["nyt-spelling-bee-hints-answers-november-12-2026", "bee", "#1c1917", "#fef08a", "Spelling Bee · Thu., Nov. 12, 2026", "Spelling Bee hints", "Hint grid and two-letter list first, the word list at the end."],
+  ["contexto-answer-hints-november-6-2026-1510", "contexto", "#0f172a", "#fbbf24", "Contexto #1510 · Fri., Nov. 6, 2026", "Contexto hints", "Close words and hints first, the secret word only at the end."],
+  ["nyt-spelling-bee-hints-answers-november-13-2026", "bee", "#1c1917", "#fde047", "Spelling Bee · Fri., Nov. 13, 2026", "Spelling Bee hints", "Hint grid and two-letter list first, the word list at the end."],
   ["wordle-answers-2026-full-list-repeat-answers", "wordle", "#1a1a2e", "#6aaa64", "Wordle · 2026 so far", "Old answers are back", "Every 2026 answer, #1657 to #1955, and the 28 past words that returned."],
   ["past-wordle-answers-every-word-since-2021", "wordle", "#13261b", "#c9b458", "Wordle · 2021 to 2026", "Every past answer", "1,960 puzzles, #0 to #1959, by date and A to Z."],
 ];
