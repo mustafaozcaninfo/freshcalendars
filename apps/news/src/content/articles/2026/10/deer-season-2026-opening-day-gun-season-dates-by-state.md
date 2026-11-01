@@ -6,7 +6,7 @@ type: explainer
 publishedAt: "2026-10-28T01:41:00-04:00"
 updatedAt: "2026-10-30T01:05:00-04:00"
 authors: [jordan-bennett]
-category: calendar-guides
+category: planning
 keywords: ["deer season 2026", "gun deer season opening day 2026", "Pennsylvania deer season 2026", "Wisconsin gun deer season 2026", "Ohio deer gun season 2026"]
 dateline: "New York"
 assets:

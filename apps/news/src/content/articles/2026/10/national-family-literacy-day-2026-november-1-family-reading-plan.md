@@ -5,7 +5,7 @@ description: "National Family Literacy Day is Sunday, Nov. 1, 2026, set by the N
 type: explainer
 publishedAt: "2026-10-31T16:46:00-04:00"
 authors: [emily-carter]
-category: planning
+category: holidays
 keywords: ["national family literacy day 2026", "national family literacy month", "family reading plan", "ncfl families learning conference 2026"]
 dateline: "New York"
 assets:

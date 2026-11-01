@@ -11,7 +11,7 @@ corrections:
     text: "An earlier version said no Thanksgiving week halftime performers had been announced. The NFL had announced U2 for the Thanksgiving Eve game."
   - date: "2026-10-27T03:30:00-04:00"
     text: "An earlier version said the Nebraska at Iowa kickoff time and television network were not yet announced. Iowa Athletics had already set an 11 a.m. Central Time (noon Eastern) kickoff on CBS on May 27, 2026."
-category: holidays
+category: sports
 keywords: ["Thanksgiving football schedule 2026", "college football Thanksgiving weekend 2026", "Black Friday football games 2026", "rivalry week 2026 schedule"]
 dateline: "New York"
 assets:

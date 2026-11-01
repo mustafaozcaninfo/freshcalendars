@@ -5,7 +5,7 @@ description: "Advent 2026 begins Sunday, Nov. 29; advent calendars run Dec. 1 to
 type: explainer
 publishedAt: "2026-10-19T08:05:00-04:00"
 authors: [emily-carter]
-category: planning
+category: holidays
 keywords: ["advent calendar 2026", "2026 advent calendar", "when does Advent start 2026", "printable advent calendar 2026", "advent calendar countdown"]
 dateline: "New York"
 hero:

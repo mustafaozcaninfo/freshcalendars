@@ -5,7 +5,7 @@ description: "Law School Admission Test (LSAT) dates for 2026-27: Nov. 11-14, Ja
 type: explainer
 publishedAt: "2026-10-19T11:32:00-04:00"
 authors: [emily-carter]
-category: planning
+category: school-calendars
 keywords: ["LSAT test dates 2026-27", "LSAT dates 2027", "LSAT registration deadline", "January 2027 LSAT", "LSAT score release dates"]
 dateline: "Newtown, Pa."
 hero:

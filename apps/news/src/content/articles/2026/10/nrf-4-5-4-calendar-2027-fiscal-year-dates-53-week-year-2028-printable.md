@@ -5,7 +5,7 @@ description: "The National Retail Federation (NRF) 4-5-4 calendar sets fiscal 20
 type: explainer
 publishedAt: "2026-10-29T01:44:00-04:00"
 authors: [jordan-bennett]
-category: retail-dates
+category: calendar-guides
 keywords: ["4-5-4 calendar 2027", "nrf 4-5-4 calendar 2026", "retail fiscal calendar 2027", "53 week year 2028 retail"]
 hero:
   src: ../../../../assets/news/nrf-4-5-4-calendar-2027-fiscal-year-dates-53-week-year-2028-printable/nrf-4-5-4-calendar-2027-fiscal-year-dates-53-week-year-2028-printable.webp

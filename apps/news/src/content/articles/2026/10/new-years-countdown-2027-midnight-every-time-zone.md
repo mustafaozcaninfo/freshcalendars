@@ -5,7 +5,7 @@ description: "Kiritimati reaches 2027 at 5:00 a.m. Eastern Time (ET) on Dec. 31,
 type: explainer
 publishedAt: "2026-10-30T15:48:00-04:00"
 authors: [jordan-bennett]
-category: calendar-guides
+category: holidays
 keywords: ["new year time zones", "first country to celebrate new year 2027", "when is new year in each country", "new year 2027 countdown"]
 hero:
   src: ../../../../assets/news/new-years-countdown-2027-midnight-every-time-zone/new-years-countdown-2027-midnight-every-time-zone.webp

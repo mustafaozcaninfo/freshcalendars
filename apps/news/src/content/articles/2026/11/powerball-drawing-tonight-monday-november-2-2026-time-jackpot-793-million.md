@@ -6,7 +6,7 @@ type: news
 publishedAt: "2026-11-01T01:46:00-04:00"
 updatedAt: "2026-11-01T02:45:00-05:00"
 authors: [jordan-bennett]
-category: calendar-guides
+category: planning
 keywords: ["powerball drawing tonight", "powerball drawing time", "powerball jackpot", "when is the next powerball drawing", "mega millions drawing days"]
 assets:
   overlay: true

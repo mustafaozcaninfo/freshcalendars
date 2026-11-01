@@ -6,7 +6,7 @@ type: news
 publishedAt: "2026-10-31T21:50:00-04:00"
 authors: [jordan-bennett]
 dateline: "Orlando"
-category: holidays
+category: entertainment
 keywords: ["Mickey's Very Merry Christmas Party 2026 dates", "Mickey's Very Merry Christmas Party 2026 tickets price", "Very Merry Christmas Party first night November 8", "Magic Kingdom Christmas party 2026 calendar"]
 hero:
   src: ../../../../assets/news/mickeys-very-merry-christmas-party-2026-dates-calendar-tickets/mickeys-very-merry-christmas-party-2026-dates-calendar-tickets.webp

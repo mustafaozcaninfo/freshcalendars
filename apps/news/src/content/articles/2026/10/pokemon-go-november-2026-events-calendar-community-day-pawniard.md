@@ -5,7 +5,7 @@ description: "Pokémon GO's November 2026 Community Day features Pawniard on Sat
 type: explainer
 publishedAt: "2026-10-28T19:43:00-04:00"
 authors: [jordan-bennett]
-category: calendar-guides
+category: entertainment
 keywords: ["pokemon go events november 2026", "pokemon go community day november 2026", "pawniard community day", "pokemon go halloween 2026 part 2", "pokemon go wild area global 2026"]
 assets:
   scene: halloween

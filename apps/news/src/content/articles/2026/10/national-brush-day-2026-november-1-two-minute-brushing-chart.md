@@ -5,7 +5,7 @@ description: "National Brush Day is Sunday, Nov. 1, 2026, the day after Hallowee
 type: explainer
 publishedAt: "2026-10-31T16:45:00-04:00"
 authors: [emily-carter]
-category: planning
+category: holidays
 keywords: ["national brush day 2026", "national brush day november 1", "how much toothpaste for kids", "how often to replace toothbrush"]
 dateline: "New York"
 assets:
