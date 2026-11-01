@@ -74,7 +74,7 @@ internalLinks:
     label: "November 2026 printable calendar"
   - href: "/printable-weekly-calendar.html"
     label: "Printable weekly calendar"
-related: [nba-games-today-october-31-2026, nhl-games-today-november-1-2026, daylight-saving-time-ends-november-1-2026]
+related: [nba-games-today-october-31-2026, nba-games-today-november-2-2026, daylight-saving-time-ends-november-1-2026]
 downloads:
   - group: "NBA Games Today printables"
     title: "NBA Games Today, Sun., Nov. 1, 2026"

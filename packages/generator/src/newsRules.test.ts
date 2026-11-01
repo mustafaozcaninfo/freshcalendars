@@ -17,6 +17,12 @@ test("parseWhen reads single days, ranges and day-only ends", () => {
   assert.deepEqual(parseWhen("Tue., Nov. 3, 7 a.m.-7 p.m.", 2026).map((x) => iso(x.date)), ["2026-11-03"]);
 });
 
+test("parseWhen honors an explicit year so a sheet can cross New Year", () => {
+  const [d] = parseWhen("Sat., Jan. 2, 2027", 2026);
+  assert.equal(iso(d!.date), "2027-01-02");
+  assert.equal(d!.date.getUTCDay(), d!.claimed);
+});
+
 test("a wrong weekday stops the printable", () => {
   assert.throws(() => items({ ...base, rows: [["Fri., Nov. 21", "x"]] }, 2026), /is a Sat, not a Fri/);
   assert.doesNotThrow(() => items({ ...base, rows: [["Sat., Nov. 21", "x"]] }, 2026));
