@@ -37,7 +37,7 @@ Routine D (`docs/PUZZLE-ROUTINES.md`) takes one item from this list per run, hig
 - [ ] **letterboxed-roundup-link** [code] Letter Boxed hub and daily pages link the month's roundup once it is live.
   The shortcut bar (`shortcuts` in `puzzle-boards.mjs`) gets "This month's answers" when a live `<game>-answers-<month>-<year>` story exists for that game and month, for every game that has roundups. Check by building and following the link.
 
-- [ ] **puzzle-hub-table** [code] Game hubs show a date, number and link table of every page.
+- [x] **puzzle-hub-table** [code] (done 2026-10-31) Game hubs show a date, number and link table of every page.
   `/news/topic/<game>/` lists stories as cards; add a compact table above them for puzzle hubs (date, puzzle number, link to hints page; no answers, so the hub never spoils). Built from the stories, server-rendered.
 
 - [x] **missing-days-audit** [content] (done 2026-10-31) Find and report puzzle days with no page since Oct. 21, 2026.
