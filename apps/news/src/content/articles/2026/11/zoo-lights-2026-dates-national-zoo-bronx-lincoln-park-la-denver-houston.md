@@ -113,7 +113,7 @@ internalLinks:
     label: "November 2026 printable calendar"
   - href: "/december-calendars.html"
     label: "December 2026 printable calendar"
-related: [us-christmas-markets-2026-opening-dates-philadelphia-dc-detroit-nyc, nyc-holiday-calendar-2026-rockefeller-tree-macys-parade, weekends-until-christmas-2026-saturday-planner-shipping-deadlines]
+related: [us-christmas-markets-2026-opening-dates-philadelphia-dc-detroit-nyc, nyc-holiday-calendar-2026-rockefeller-tree-macys-parade, mickeys-very-merry-christmas-party-2026-dates-calendar-tickets]
 draft: false
 assets:
   overlay: true
