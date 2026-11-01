@@ -75,7 +75,7 @@ internalLinks:
     label: "November 2026 printable calendar"
   - href: "/when-is/black-friday/"
     label: "When is Black Friday?"
-related: [black-friday-2026-ad-tracker-walmart-target-best-buy, black-friday-2026-store-hours-walmart-target-best-buy, best-buy-black-friday-2026-doorbusters-october-30-holiday-calendar]
+related: [black-friday-2026-ad-tracker-walmart-target-best-buy, black-friday-2026-store-hours-walmart-target-best-buy, home-depot-black-friday-2026-sale-dates-november-5-25-store-hours]
 downloads:
   - group: "Lowe's Black Friday 2026 Deal Calendar printables"
     title: "Lowe's Black Friday 2026 Deal Calendar"
