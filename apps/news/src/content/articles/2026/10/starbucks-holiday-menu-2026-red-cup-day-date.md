@@ -100,7 +100,7 @@ internalLinks:
     label: "November 2026 printable calendar"
   - href: "/december-calendars.html"
     label: "December 2026 printable calendar"
-related: [black-friday-2026-ad-tracker-walmart-target-best-buy, advent-calendar-2026-dates-free-printable, november-2026-important-dates-days-until]
+related: [black-friday-2026-ad-tracker-walmart-target-best-buy, holiday-deals-this-week-november-2-8-2026-target-best-buy-starbucks, november-2026-important-dates-days-until]
 downloads:
   - group: "Starbucks Holiday Menu 2026 Checklist printables"
     title: "Starbucks Holiday Menu 2026 Checklist"
