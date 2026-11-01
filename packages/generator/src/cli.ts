@@ -37,6 +37,7 @@ import { buildTxBallot } from "./txballot.js";
 import { buildOct22 } from "./oct22.js";
 import { buildRides } from "./rides2026.js";
 import { buildPickem } from "./pickem.js";
+import { nflSync } from "./nflSync.js";
 import { buildConnectionsMeanings } from "./connmeanings.js";
 import { buildTxCalendar } from "./txcalendar.js";
 import { buildNewsAssets, buildSceneGallery } from "./newsAssets.js";
@@ -170,7 +171,9 @@ async function main(): Promise<void> {
     } else if (cmd === "news-rides") {
       await buildRides();
     } else if (cmd === "news-pickem") {
-      await buildPickem();
+      await buildPickem(argValue("--weeks"));
+    } else if (cmd === "nfl-sync") {
+      await nflSync(argFlag("--write"));
     } else if (cmd === "news-connections-meanings") {
       await buildConnectionsMeanings();
     } else if (cmd === "news-txcalendar") {
@@ -202,7 +205,8 @@ async function main(): Promise<void> {
   pnpm fc gen-meta          # meta + HTML only (skips PNG/PDF render)
   pnpm fc gen-meta --html-only  # pages, sitemaps, CSS only, no studio/OG/previews (local contrast check)
   pnpm fc refresh-meta      # daily: Eastern bake date, HTML only, no PNG/OG
-  pnpm fc news-pickem                      # NFL pick'em sheets (classic, confidence, office pool; Letter and A4)
+  pnpm fc nfl-sync [--write]               # NFL 2026 schedule CSV vs ESPN and the 32 club sites (flexed times, scores)
+  pnpm fc news-pickem [--weeks 9-12]       # NFL pick'em hub: weekly sheets, season sheets, story tables and downloads
   pnpm fc news-assets <slug>               # /news/ story hero (illustrated scene) and printable from frontmatter assets:
   pnpm fc news-scenes [out.png] [--only a,b] # contact sheet of hero scenes (3D where available)
   pnpm fc news-heroes                      # which scenes are taken and which heroes repeat (news-visuals skill)

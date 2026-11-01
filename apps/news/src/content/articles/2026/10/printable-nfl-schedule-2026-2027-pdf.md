@@ -4,7 +4,7 @@ seoTitle: "Printable NFL Schedule 2026-2027: All 272 Games, PDFs"
 description: "Full National Football League (NFL) 2026-2027 schedule: all 272 games by week with Eastern Time (ET) kickoffs, TV, byes, a team finder and free printable PDFs."
 type: explainer
 publishedAt: "2026-10-23T02:50:00-04:00"
-updatedAt: "2026-10-23T09:55:00-04:00"
+updatedAt: "2026-11-01T02:50:00-05:00"
 authors: [jordan-bennett]
 category: sports
 keywords: ["printable NFL schedule 2026-2027 PDF", "NFL schedule 2026", "NFL 2026 week by week schedule", "NFL bye weeks 2026", "NFL team schedules 2026 printable"]
@@ -81,7 +81,7 @@ internalLinks:
     label: "December 2026 printable calendar"
   - href: "/printable-weekly-calendar.html"
     label: "Printable weekly calendar"
-related: [thanksgiving-2026-tv-schedule-macys-parade-nfl-games, world-series-2026-schedule-game-times-tv-channel, nfl-week-8-schedule-2026-game-times-tv-clock-change]
+related: [thanksgiving-2026-tv-schedule-macys-parade-nfl-games, printable-nfl-pickem-sheets-2026, nfl-week-8-schedule-2026-game-times-tv-clock-change]
 corrections:
   - date: "2026-10-23T09:55:00-04:00"
     text: "An earlier version said Week 18 matchups are set after Week 17. The matchups are fixed; only their days and kickoff times are set after Week 17. The one-page planner that carried the error has been replaced."
@@ -809,9 +809,9 @@ Times are Eastern Time. Games after Sunday, Nov. 1, are in Eastern Standard Time
 | Sun., Nov. 8 | 1 p.m. | Giants at Eagles | FOX |
 | Sun., Nov. 8 | 1 p.m. | Jets at Chiefs | CBS |
 | Sun., Nov. 8 | 4:05 p.m. | Texans at Chargers | CBS |
-| Sun., Nov. 8 | 4:05 p.m. | Raiders at 49ers | CBS |
 | Sun., Nov. 8 | 4:25 p.m. | Cardinals at Seahawks | FOX |
 | Sun., Nov. 8 | 4:25 p.m. | Packers at Patriots | FOX |
+| Sun., Nov. 8 | 4:25 p.m. | Raiders at 49ers | FOX |
 | Sun., Nov. 8 | 8:20 p.m. | Buccaneers at Bears | NBC |
 | Mon., Nov. 9 | 8:15 p.m. | Bills at Vikings | ESPN, ABC, ESPN2, NFL Network |
 
