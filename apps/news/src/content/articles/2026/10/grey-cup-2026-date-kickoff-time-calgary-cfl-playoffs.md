@@ -112,7 +112,7 @@ draft: false
 
 ## What is the Grey Cup 2026 date and time?
 
-The CFL's Oct. 24 release gives every playoff game before the Grey Cup. Times are in ET. Canadian coverage is on TSN, Bell Media's broadcast network (CTV) and the French-language Réseau des sports (RDS).
+The CFL's Oct. 24 release gives every playoff game before the Grey Cup. Times are in ET. Canadian coverage is on The Sports Network (TSN), Bell Media's broadcast network (CTV) and the French-language Réseau des sports (RDS).
 
 | Date | Game | Time (CFL) | Canadian TV |
 |---|---|---|---|
