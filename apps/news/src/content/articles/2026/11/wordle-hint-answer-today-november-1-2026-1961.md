@@ -36,7 +36,7 @@ internalLinks:
     label: "November 2026 printable calendar"
   - href: "/printable-weekly-calendar.html"
     label: "Printable weekly calendar"
-related: [nyt-connections-hints-answers-november-1-2026-1239, nyt-strands-hints-answers-november-1-2026-973, nyt-pips-hints-answers-november-1-2026]
+related: [nyt-connections-hints-answers-november-1-2026-1239, nyt-strands-hints-answers-november-1-2026-973, waffle-answer-hints-today-november-1-2026-1745]
 draft: false
 ---
 **Today's Wordle from The New York Times (NYT) is puzzle #1961, for Sunday, Nov. 1, 2026, edited by Tracy Bennett.** The answer uses five different letters, two of them vowels, which makes a vowel-rich first guess a good start. Work down the clues one at a time, and only scroll to the last section if you want the answer itself.
