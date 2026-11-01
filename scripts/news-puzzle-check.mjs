@@ -16,7 +16,7 @@
  */
 import { readdirSync, readFileSync } from "node:fs";
 import path from "node:path";
-import { GAMES, addDays, beeScore, loadPuzzle, pipsRegionOk, pipsValues, puzzleNumber, puzzleOf, weekday } from "../apps/news/src/lib/puzzles.mjs";
+import { GAMES, addDays, isCrossword, beeScore, loadPuzzle, pipsRegionOk, pipsValues, puzzleNumber, puzzleOf, weekday } from "../apps/news/src/lib/puzzles.mjs";
 
 const ROOT = path.resolve(import.meta.dirname, "..");
 const ART = path.join(ROOT, "apps/news/src/content/articles");
@@ -139,7 +139,8 @@ const CHECK = {
       }
     }
     const by = page.body.match(/clues? by ([A-Z][A-Za-z'-]+(?: [A-Z][A-Za-z'-]+)+)/)?.[1];
-    if (by && !d.constructors.includes(by)) err(`constructor ${by}, data ${d.constructors.join(", ")}`);
+    // The data can name two constructors in one string ("Ann Lee and Bo Kim").
+    if (by && !d.constructors.some((c) => c.includes(by))) err(`constructor ${by}, data ${d.constructors.join(", ")}`);
   },
 
   letterboxed(page, d, p, err) {
@@ -318,7 +319,7 @@ const answerWords = (game, d) => {
   if (game === "bee") return d.pangrams;
   if (game === "letterboxed") return d.ourSolution;
   // Short Mini answers ("SPY") and one-word group names ("ANGER") read as ordinary prose; longer ones do not.
-  if (game === "mini") return d.clues.map((c) => c.cells.map((i) => d.cells[i]).join("")).filter((w) => w.length >= 5);
+  if (isCrossword(game)) return d.clues.map((c) => c.cells.map((i) => d.cells[i]).join("")).filter((w) => w.length >= 5);
   if (game === "connections") return d.categories.map((c) => c.title);
   return [];
 };
@@ -402,7 +403,7 @@ for (const file of walk(ART).filter((f) => /\.mdx?$/.test(f)).sort()) {
     // Pages go up the day before; a missed day may be filled in later, but a date far off means a slip.
     const pub = Date.parse(page.publishedAt), day = Date.parse(`${p.date}T12:00:00-05:00`);
     if (pub < day - 14 * 86_400_000 || pub > day + 7 * 86_400_000) err(`publishedAt ${page.publishedAt} is more than two weeks before or a week after the puzzle day`);
-    CHECK[p.game](page, d, p, err);
+    (CHECK[p.game] ?? (isCrossword(p.game) ? CHECK.mini : null))(page, d, p, err);
     leaks(page, d, p, err);
   }
   if (errs.length) {

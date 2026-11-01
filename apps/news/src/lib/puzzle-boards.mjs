@@ -22,7 +22,7 @@
  */
 import { existsSync, readdirSync, readFileSync } from "node:fs";
 import path from "node:path";
-import { GAMES, PUZZLE_DIR, addDays, beeScore, loadPuzzle, pipsValues, puzzleOf, slugDate, weekday } from "./puzzles.mjs";
+import { GAMES, PUZZLE_DIR, addDays, beeScore, isCrossword, loadPuzzle, pipsValues, puzzleOf, slugDate, weekday } from "./puzzles.mjs";
 
 const ARTICLES = path.resolve(import.meta.dirname, "../content/articles");
 const SPOILER = /\bspoilers?\b/i;
@@ -95,9 +95,9 @@ export function rehypePuzzleBoards() {
       } else if (p.game === "strands") {
         const i = after((n) => n.tagName === "ul");
         if (i !== undefined) inserts.push([i + 1, strandsBoard(data)]);
-      } else if (p.game === "mini") {
+      } else if (isCrossword(p.game)) {
         const i = after((n) => n.tagName === "table");
-        if (i !== undefined) inserts.push([i + 1, miniBoard(data)]);
+        if (i !== undefined) inserts.push([i + 1, miniBoard(data, GAMES[p.game].name)]);
       } else if (p.game === "letterboxed") {
         const i = after((n) => n.tagName === "table" || (n.tagName === "div" && /table-scroll/.test(String(n.properties?.className))));
         if (i !== undefined) inserts.push([i + 1, letterBoxedBoard(data) + letterBoxedOthers(data)]);
@@ -265,7 +265,7 @@ function addReveals(p, d, kids, sections) {
       // The spangram list is the one whose hints carry no "N letters, starts with" labels.
       if (!themed && items(ul).some((x) => /hint/i.test(text(x)))) ul.children.push(li(reveal("Reveal the spangram", esc(title(d.spangram)))));
     }
-  } else if (p.game === "mini") {
+  } else if (isCrossword(p.game)) {
     // Spelled as the checked answer table prints it ("Abcs", or an abbreviation the page expands).
     const rows = new Map();
     const walk = (n) => {
@@ -503,8 +503,8 @@ function pips(cx, cy, v) {
   return (SPOTS[v] ?? []).map(([dx, dy]) => `<circle cx="${cx + dx * o}" cy="${cy + dy * o}" r="5.5" fill="#1f2937"/>`).join("");
 }
 
-/** The solved Mini grid: black squares, clue numbers and every answer letter. */
-function miniBoard(d) {
+/** The solved Mini or Midi grid: black squares, clue numbers and every answer letter. */
+function miniBoard(d, name = "Mini Crossword") {
   const S = 64;
   const num = new Map(d.clues.map((c) => [c.cells[0], c.label]));
   const cells = d.cells.map((ch, i) => {
@@ -513,7 +513,7 @@ function miniBoard(d) {
     const n = num.has(i) ? `<text x="${x + 5}" y="${y + 16}" font-size="13" font-weight="600">${num.get(i)}</text>` : "";
     return `<rect x="${x}" y="${y}" width="${S}" height="${S}" fill="#fff" stroke="#1a1a1a" stroke-width="2"/>${n}<text x="${x + S / 2}" y="${y + S / 2 + 12}" text-anchor="middle" font-size="32" font-weight="700">${esc(ch)}</text>`;
   }).join("");
-  const label = `Solved Mini Crossword grid, ${d.width} by ${d.height}`;
+  const label = `Solved ${name} grid, ${d.width} by ${d.height}`;
   const svg = `<svg class="pz-svg pz-mini" viewBox="-2 -2 ${d.width * S + 4} ${d.height * S + 4}" role="img" aria-label="${esc(label)}"><g font-family="Sora,sans-serif" fill="#1a1a1a">${cells}</g></svg>`;
   return figure("pz-minigrid", svg, `The filled grid, with each clue number in its first square. ${FROM_DATA}`);
 }
@@ -567,7 +567,7 @@ function yesterday(p) {
     body = `<p>Strands on ${apDate(date)} had the theme clue "${esc(d.clue)}". The spangram was <strong>${esc(title(d.spangram))}</strong>, and the theme words were ${d.themeWords.map(title).join(", ")}.${more}</p>`;
   } else if (p.game === "letterboxed") {
     body = `<p>The Times' own solution to Letter Boxed on ${apDate(date)} was <strong>${d.ourSolution.map(title).join(", then ")}</strong>, with sides ${d.sides.map((x) => [...x].join("/")).join(", ")}.${more}</p>`;
-  } else if (p.game === "mini") {
+  } else if (isCrossword(p.game)) {
     // Spelled as yesterday's checked answer table prints them ("DSA" stays in capitals), else title case.
     const page = ySlug ? readFileSync(files.get(ySlug), "utf8") : "";
     const ans = (cl) => {
@@ -582,7 +582,7 @@ function yesterday(p) {
       return full ? `${full} (${row})` : title(w);
     };
     const dir = (k) => d.clues.filter((c) => c.direction === k).map((c) => `${c.label} ${esc(ans(c))}`).join(", ");
-    body = `<p>The Mini on ${apDate(date)}: Across ${dir("Across")}; Down ${dir("Down")}.${more}</p>`;
+    body = `<p>The ${p.game === "midi" ? "Midi" : "Mini"} on ${apDate(date)}: Across ${dir("Across")}; Down ${dir("Down")}.${more}</p>`;
   }
   if (!body) return "";
   return `<h2 id="pz-yesterday">Yesterday's ${esc(g.name)} answer</h2>${body}`;

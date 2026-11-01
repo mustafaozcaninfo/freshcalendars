@@ -68,6 +68,13 @@ const ART: Record<string, (r: Rng) => string> = {
     const black = new Set(Array.from({ length: 2 + Math.floor(r() * 3) }, () => Math.floor(r() * 25))), across = Math.floor(r() * 5), down = Math.floor(r() * 5);
     return grid(720, 110, 5, 5, 86, 4, (row, c) => (black.has(row * 5 + c) ? "#111827" : row === across ? "#a7d8ff" : c === down ? "#ffda00" : E), 2);
   },
+  midi: (r) => {
+    // A 10×10 grid with mirrored black squares (crossword symmetry) and one highlighted entry each way.
+    const black = new Set<number>();
+    for (let k = 0; k < 7 + Math.floor(r() * 5); k++) { const i = Math.floor(r() * 100); black.add(i); black.add(99 - i); }
+    const across = 1 + Math.floor(r() * 8), down = 1 + Math.floor(r() * 8);
+    return grid(735, 110, 10, 10, 40, 3, (row, c) => (black.has(row * 10 + c) ? "#111827" : row === across ? "#a7d8ff" : c === down ? "#ffda00" : E), 2);
+  },
   quordle: (r) => [0, 1, 2, 3].map((q) => {
     const solvedAt = 2 + Math.floor(r() * 3), rows = Array.from({ length: 5 }, () => Array.from({ length: 5 }, () => pick(r, [N, N, Y, G])));
     return grid(690 + (q % 2) * 230, 90 + Math.floor(q / 2) * 260, 5, 5, 38, 5, (row, c) => (row < solvedAt ? rows[row]![c]! : row === solvedAt ? G : E), 4);
@@ -292,6 +299,7 @@ export const PUZZLE_HEROES: [string, string, string, string, string, string, str
   ["nyt-mini-crossword-answers-october-30-2026", "mini", "#0f1d2e", "#fdba74", "NYT Mini · Fri., Oct. 30, 2026", "NYT Mini answers", "A hint for every clue first, the full grid at the end."],
   ["nyt-mini-crossword-answers-october-31-2026", "mini", "#1c2433", "#a78bfa", "NYT Mini · Sat., Oct. 31, 2026", "NYT Mini answers", "A hint for every clue first, the full grid at the end."],
   ["nyt-mini-crossword-answers-november-1-2026", "mini", "#0f1d2e", "#5eead4", "NYT Mini · Sun., Nov. 1, 2026", "NYT Mini answers", "A hint for every clue first, the full grid at the end."],
+  ["nyt-midi-crossword-answers-november-1-2026", "midi", "#13213a", "#86efac", "NYT Midi · Sun., Nov. 1, 2026", "NYT Midi answers", "A hint for every clue and the theme first, the full grid at the end."],
   ["nyt-letter-boxed-answer-hints-november-2-2026", "letterboxed", "#3d1f1a", "#fdba74", "Letter Boxed · Mon., Nov. 2, 2026", "Letter Boxed hints", "Starting letters and word lengths first, the answer at the end."],
   ["nyt-letter-boxed-answer-hints-november-3-2026", "letterboxed", "#3d1f1a", "#fa8072", "Letter Boxed · Tue., Nov. 3, 2026", "Letter Boxed hints", "Starting letters and word lengths first, the answer at the end."],
   ["nyt-letter-boxed-answer-hints-november-4-2026", "letterboxed", "#3d1f1a", "#fcd34d", "Letter Boxed · Wed., Nov. 4, 2026", "Letter Boxed hints", "Starting letters and word lengths first, the answer at the end."],
