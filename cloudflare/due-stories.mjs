@@ -4,7 +4,7 @@
 // Prints their slugs, space separated; nothing when none are due.
 // With --next instead of a build time, prints the Unix time of the earliest story still in the future
 // (nothing when there is none), so a scheduled run can wait for it instead of hoping GitHub starts
-// a run right after it.
+// a run right after it. ARTICLES_DIR reads another copy of the articles (deploy.sh: the deployed commit).
 import { readFileSync, readdirSync, statSync } from "node:fs";
 import path from "node:path";
 
@@ -24,5 +24,5 @@ let soonest = Infinity;
       if (t > now && t < soonest) soonest = t;
     }
   }
-})(path.join(import.meta.dirname, "../apps/news/src/content/articles"));
+})(process.env.ARTICLES_DIR || path.join(import.meta.dirname, "../apps/news/src/content/articles"));
 console.log(next ? (soonest < Infinity ? String(Math.ceil(soonest / 1000)) : "") : due.join(" "));

@@ -3,8 +3,10 @@
 //   - /news/downloads/*  printables, read from R2 with the story canonical as a Link header;
 //   - /api/contact       the contact form (Turnstile, then email to the owner and a copy in R2);
 //   - anything no file answers: old calendar URLs (301) or the site's 404 page.
+// Its cron trigger starts the timed GitHub Actions jobs (cron.js).
 // Everything else that used to need PHP or nginx (/news/ 301s, image moves) is in _redirects.
 import { legacyRedirect } from "./legacy-redirects.js";
+import { scheduled } from "./cron.js";
 import PDF_CANONICAL from "../dist/cf/pdf-canonical.json";
 import NEWS_REDIRECTS from "../dist/cf/news-redirects.json";
 
@@ -14,6 +16,7 @@ const DOWNLOAD_CACHE = "public, max-age=86400, stale-while-revalidate=604800";
 const SUBJECTS = ["general", "download", "licensing", "other"];
 
 export default {
+  scheduled,
   async fetch(request, env, ctx) {
     const url = new URL(request.url);
     const path = url.pathname;

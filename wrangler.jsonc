@@ -12,6 +12,8 @@
   "preview_urls": false,
   // www redirects to the apex in a zone rule before it reaches the Worker. Removing this route
   // (dashboard or API) sends traffic back to the DNS origin: the rollback in docs/DEPLOY.md.
+  // One trigger (the Free plan allows five per account); cloudflare/cron.js picks the job.
+  "triggers": { "crons": ["*/5 * * * *"] },
   "routes": [{ "pattern": "freshcalendars.com/*", "zone_name": "freshcalendars.com" }],
   "assets": {
     "directory": "dist/cf/public",
@@ -28,6 +30,6 @@
   ],
   "send_email": [{ "name": "CONTACT_MAIL" }],
   "vars": { "CONTACT_FROM": "contact@notify.freshcalendars.com" },
-  // Secrets (wrangler secret put): TURNSTILE_SECRET, CONTACT_TO.
+  // Secrets (wrangler secret put): TURNSTILE_SECRET, CONTACT_TO, GH_DISPATCH_TOKEN.
   "observability": { "enabled": true, "head_sampling_rate": 0.1 }
 }

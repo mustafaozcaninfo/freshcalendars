@@ -166,6 +166,11 @@ deploy() {
     push_half news --exclude 'news/_astro' --exclude 'news/downloads' -C dist news news-data
     state_put news/sha "$NEWS_SHA"
     state_put news/built-at "${NEWS_BUILT_AT:-$start}"
+    # The next future story of the deployed commit; the Worker's cron starts scheduled.yml at that time.
+    local arts; arts="$(mktemp -d)"
+    git archive "$NEWS_SHA" apps/news/src/content/articles | tar -x -C "$arts"
+    state_put news/next-due "$(ARTICLES_DIR="$arts/apps/news/src/content/articles" node cloudflare/due-stories.mjs --next)"
+    rm -rf "$arts"
     rclone copy dist/news-data "$STATE/news/news-data" 2>/dev/null || true
     if [[ "${DRY_RUN:-0}" != "1" ]]; then
       ANINDA_INDEX_STATE="$PWD/dist/index-submit/state.json" ; export ANINDA_INDEX_STATE
