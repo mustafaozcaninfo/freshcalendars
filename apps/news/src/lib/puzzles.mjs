@@ -31,6 +31,10 @@ export const GAMES = {
   // Contexto's own API serves the answer for a game number, days ahead. #1 was Sept. 19, 2022, one
   // per day (#1503 is Oct. 30, 2026). Checked only: the build adds no board or shortcut bar (`boards`).
   contexto: { prefix: "contexto-answer-hints", name: "Contexto", hub: "contexto", first: "2022-09-19", boards: false },
+  // Waffle's daily file serves today only, so its data is saved the day the page is written (from
+  // `since`). The number comes from the data. `boards: false`: the build draws nothing on Waffle
+  // pages; the data is only for news:puzzle-check.
+  waffle: { prefix: "waffle-answer-hints-today", name: "Waffle", hub: "waffle", since: "2026-10-31", boards: false },
 };
 
 /** { game, date: "YYYY-MM-DD", number } for a daily puzzle slug, or null for any other story. */
@@ -55,9 +59,10 @@ export const addDays = (date, n) => new Date(Date.parse(`${date}T12:00:00Z`) + n
 /** Weekday name of a YYYY-MM-DD date. */
 export const weekday = (date) => new Date(`${date}T12:00:00Z`).toLocaleDateString("en-US", { weekday: "long", timeZone: "UTC" });
 
-/** The public puzzle number for a date, from the data (Wordle) or by counting days (Connections, Strands, Contexto). */
+/** The public puzzle number for a date, from the data (Wordle, Waffle) or by counting days (Connections, Strands, Contexto). */
 export function puzzleNumber(game, date, data) {
   if (game === "wordle") return data?.days_since_launch ?? null;
+  if (game === "waffle") return data?.number ?? null;
   const first = GAMES[game].first;
   return first ? Math.round((Date.parse(date) - Date.parse(first)) / DAY) + 1 : null;
 }

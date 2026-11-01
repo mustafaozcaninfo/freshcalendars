@@ -70,6 +70,8 @@ You are the Fresh Calendars daily puzzle round for games WITHOUT official data (
 
 3. Research. One message, one `news-researcher` agent (Haiku) per game, in the background. Each brief asks for the day's answers on at least TWO independent published solution pages that print today's date (and the puzzle number when given), with URL, page title, publisher and printed date, and AGREE / CONFLICT / ONLY ONE SOURCE / NOT YET. Give the source lists from docs/PUZZLES.md and the newest page of the game. Tell it: ignore pages that say TBA, check the date on every page (sites recycle old posts), never get around a 403 or bot challenge.
 
+3a. Waffle: save the official data first, `pnpm news:puzzle-data <today> --games waffle` (the game's own daily file; it serves today only and turns over at midnight GMT, 7 or 8 p.m. ET), and write the page from that file; `news:puzzle-check` compares the page with it.
+
 4. Decide. Write a game only when two independent sources agree on every answer you print. Print only what they agree on: if they do not give board positions (Quordle) or clue words (Pinpoint), do not invent them. Hold a game with a conflict or a single source and say so in the report. The LinkedIn page needs at least Pinpoint and Crossclimb confirmed; otherwise hold it.
 
 5. Writing. Give the confirmed games to `news-writer` agents (Sonnet) in one message, each with the fact sheet, the slug and the newest page of that game as the model. `publishedAt` is the current time ET. List the agreeing sources under `sources:` with "(answer cross-check)" in the title, as the existing pages do. Read every hint against the confirmed answers yourself.

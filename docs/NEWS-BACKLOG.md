@@ -19,7 +19,7 @@ Routine D (`docs/PUZZLE-ROUTINES.md`) takes one item from this list per run, hig
 - [ ] **connections-reveal** [code] Connections spoiler: one group at a time.
   In the answers (spoilers) section, each `- **Color, Group:** words` line becomes a tap-to-reveal: the color and group name show, the four words open on tap (reuse `revealHints` style in `puzzle-boards.mjs`). The solved board under it stays. Words remain in the HTML (crawlable). Beebom does this; most sites do not.
 
-- [ ] **waffle-check** [code] Waffle joins the official answer check.
+- [x] **waffle-check** [code] (done 2026-10-31) Waffle joins the official answer check.
   Waffle's daily file (`wafflegame.net/daily1.txt`, `docs/PUZZLES.md`) serves today only, so the data must be saved the day it is out: add `--games waffle` to `news-puzzle-data.mjs` (decode as the doc says), a `CHECK.waffle`, save today's file, and add "save Waffle data first" to routine B's Waffle step in `docs/PUZZLE-ROUTINES.md` (the doc only; tell the owner the live routine prompt needs the same line). Pages before the first saved day are skipped with a `since` date, like the Mini.
 
 - [ ] **pips-region-hints** [code] Pips: tap-to-reveal hints per region, from the data.
