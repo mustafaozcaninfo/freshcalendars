@@ -15,7 +15,7 @@ hero:
   caption: "Wordle #1962 for Monday, Nov. 2, 2026; graded clues come first and the answer only in the final section."
 summary:
   - "Today's Wordle is puzzle #1962, for Monday, Nov. 2, 2026, from The New York Times."
-  - "The answer repeats one letter, and its only vowel, O, appears twice in a row."
+  - "The answer has one vowel letter and one letter used twice, so only four different letters need finding."
   - "Six clues below go from gentle to strong; stop when it clicks."
   - "The answer is in the last section, marked as a spoiler."
 faq:
@@ -56,7 +56,7 @@ You get six tries to find a five-letter word. After each guess, a green tile mea
 
 ## Guessing tips for today
 
-The word starts with S and ends with T, so a guess with S first and T last can turn two tiles green right away. Because the O repeats, you can spend one guess on a word with a double O in the middle to test it. Two of the five letters are the same, so only four different letters need finding. That helps.
+With a single vowel, an opener that tests three or four vowels at once shows which one it is in a single row, and the rest of the hunt is consonants. Because one letter repeats, a row that turns three or four tiles green with nothing left to try usually means one of those letters belongs twice. Every gray tile rules a letter out for the rest of the game.
 
 Keep your streak on our [printable weekly calendar](/printable-weekly-calendar.html) or the [November 2026 printable calendar](/november-calendars.html).
 

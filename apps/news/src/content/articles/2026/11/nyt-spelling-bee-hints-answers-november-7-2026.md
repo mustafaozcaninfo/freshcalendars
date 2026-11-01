@@ -1,6 +1,6 @@
 ---
 title: "NYT Spelling Bee Hints and Answers for Saturday, Nov. 7, 2026: Hint Grid, One Pangram and Friday's Solution"
-seoTitle: "Spelling Bee Hints Today, Nov. 7, 2026"
+seoTitle: "Spelling Bee Hints & Answers Today, Nov. 7, 2026"
 description: "Spelling Bee for Saturday, Nov. 7, 2026: center letter I with A, D, E, L, M and V, the hint grid, two-letter list and pangram hint, then all 77 words."
 type: explainer
 publishedAt: "2026-11-06T00:05:00-05:00"

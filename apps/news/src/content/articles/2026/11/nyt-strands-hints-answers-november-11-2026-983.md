@@ -1,6 +1,6 @@
 ---
 title: "NYT Strands Hints and Answers for Wednesday, Nov. 11, 2026 (#983): Hints for the Spangram and Six Theme Words"
-seoTitle: "Strands Hints Today, Nov. 11, 2026 (#983): Spangram"
+seoTitle: "Strands Hints, Spangram & Answers, Nov. 11, 2026 (#983)"
 description: "Strands #983 for Wednesday, Nov. 11, 2026: hints for the spangram and each of the six theme words, then all the answers in a spoiler section at the end."
 type: explainer
 publishedAt: "2026-11-10T00:05:00-05:00"

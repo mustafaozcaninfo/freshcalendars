@@ -1,6 +1,6 @@
 ---
-title: "NYT Connections Hints and Answers for Wednesday, Nov. 4, 2026 (#1242): Wedges, Care Labels and Fire Words"
-seoTitle: "Connections Hints Today, Nov. 4, 2026 (#1242)"
+title: "NYT Connections Hints and Answers for Wednesday, Nov. 4, 2026 (#1242): Two Hints per Group, Then the Answers"
+seoTitle: "Connections Hints & Answers Today, Nov. 4, 2026 (#1242)"
 description: "Connections #1242 for Wednesday, Nov. 4, 2026: two levels of hints for every group, the decoy words to avoid, then the full answers at the very end."
 type: explainer
 publishedAt: "2026-11-03T00:05:00-05:00"
@@ -39,7 +39,7 @@ internalLinks:
 related: [wordle-hint-answer-today-november-4-2026-1964, nyt-strands-hints-answers-november-4-2026-976, nyt-pips-hints-answers-november-4-2026]
 draft: false
 ---
-**Today's Connections from The New York Times (NYT) is puzzle #1242, for Wednesday, Nov. 4, 2026, edited by Wyna Liu.** One group is triangular shapes with a sharp edge, one is words that follow "do not" on a care label, one is ways to move idly with "around," and one is words that follow "fire." Iron and Flatiron Building share a word, which makes the board harder than it looks. Below are two levels of hints for each color, then the full solution and an explanation of the overlaps in a marked spoiler section.
+**Today's Connections from The New York Times (NYT) is puzzle #1242, for Wednesday, Nov. 4, 2026, edited by Wyna Liu.** The board mixes thirteen single words with three longer entries, and the groups run from yellow, the easiest, to purple, the trickiest. Iron and Flatiron Building share a word, which makes the board harder than it looks. Below are two levels of hints for each color, then the full solution and an explanation of the overlaps in a marked spoiler section.
 
 ## Today's 16 words
 

@@ -1,6 +1,6 @@
 ---
 title: "NYT Spelling Bee Hints and Answers for Tuesday, Nov. 3, 2026: Hint Grid, Three Pangrams and Monday's Solution"
-seoTitle: "Spelling Bee Hints Today, Nov. 3, 2026"
+seoTitle: "Spelling Bee Hints & Answers Today, Nov. 3, 2026"
 description: "Spelling Bee for Tuesday, Nov. 3, 2026: center letter C with A, B, I, K, L and T, the hint grid, two-letter list and pangram hints, then all 49 words."
 type: explainer
 publishedAt: "2026-11-02T00:05:00-05:00"

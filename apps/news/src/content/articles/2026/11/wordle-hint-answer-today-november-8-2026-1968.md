@@ -12,10 +12,10 @@ hero:
   src: ../../../../assets/news/wordle-hint-answer-today-november-8-2026-1968/wordle-hint-answer-today-november-8-2026-1968.jpg
   alt: "Wordle hints for Nov. 8, 2026, puzzle #1968: a five-by-six word grid with green and yellow tiles and no letters shown"
   title: "Wordle #1968 hints, Nov. 8, 2026"
-  caption: "Wordle #1968 for Sunday, Nov. 8, 2026; graded clues come first and the answer only in the final section."
+  caption: "Wordle #1968 for Sunday, Nov. 8, 2026; graded clues open the page and the answer waits in the final section."
 summary:
   - "Today's Wordle is puzzle #1968, for Sunday, Nov. 8, 2026, from The New York Times."
-  - "The answer has no repeated letter, and its only vowel, I, sits in the second spot."
+  - "The answer has one vowel letter and no repeated letter, so every tile is a different letter."
   - "Six clues below go from gentle to strong; stop when it clicks."
   - "The answer is in the last section, marked as a spoiler."
 faq:
@@ -39,7 +39,7 @@ internalLinks:
 related: [nyt-connections-hints-answers-november-8-2026-1246, nyt-strands-hints-answers-november-8-2026-980, nyt-pips-hints-answers-november-8-2026]
 draft: false
 ---
-**Today's Wordle from The New York Times (NYT) is puzzle #1968, for Sunday, Nov. 8, 2026, edited by Tracy Bennett.** The answer has no repeated letter, and it has just one vowel, which changes how you plan your first guesses. Take the clues one at a time, and only scroll to the last section if you want the answer itself.
+**Today's Wordle from The New York Times (NYT) is puzzle #1968, for Sunday, Nov. 8, 2026, edited by Tracy Bennett.** The answer has no repeated letter, and it has just one vowel, which changes how you plan your opening guesses. Take the clues one at a time, and only scroll to the last section if you want the answer itself.
 
 ## How Wordle works
 
@@ -56,7 +56,7 @@ You get six tries to find a five-letter word. After each guess, a green tile mea
 
 ## Guessing tips for today
 
-The word starts with F and ends with T, so a guess with F first and T last can turn two tiles green right away. The second letter is I. Try it. Apart from that I, there are no other vowels to hunt for, so the other four tiles are all consonants.
+With a single vowel, an opener that tests three or four vowels at once shows which one it is in a single row, and the rest of the hunt is consonants. Because no letter repeats, each new guess should use five letters you have not tried yet, so no tile is wasted. Every gray tile rules a letter out for the rest of the game.
 
 Keep your streak on our [printable weekly calendar](/printable-weekly-calendar.html) or the [November 2026 printable calendar](/november-calendars.html).
 

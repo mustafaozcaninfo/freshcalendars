@@ -15,7 +15,7 @@ hero:
   caption: "Wordle #1966 for Friday, Nov. 6, 2026; graded clues come first and the answer only in the final section."
 summary:
   - "Today's Wordle is puzzle #1966, for Friday, Nov. 6, 2026, from The New York Times."
-  - "The answer has no repeated letter, and its only vowel, E, sits in the third spot."
+  - "The answer has one vowel letter and no repeated letter, so every tile is a different letter."
   - "Six clues below go from gentle to strong; stop when it clicks."
   - "The answer is in the last section, marked as a spoiler."
 faq:
@@ -56,7 +56,7 @@ You get six tries to find a five-letter word. After each guess, a green tile mea
 
 ## Guessing tips for today
 
-The word starts with D and ends with K, so a guess with D first and K last can turn two tiles green right away. The last two spots are a pair, C then K. Try it. Apart from the E in the third spot, there are no other vowels to hunt for.
+With a single vowel, an opener that tests three or four vowels at once shows which one it is in a single row, and the rest of the hunt is consonants. Because no letter repeats, each new guess should use five letters you have not tried yet, so no tile is wasted. Gray tiles count too: drop those letters for good.
 
 Keep your streak on our [printable weekly calendar](/printable-weekly-calendar.html) or the [November 2026 printable calendar](/november-calendars.html).
 

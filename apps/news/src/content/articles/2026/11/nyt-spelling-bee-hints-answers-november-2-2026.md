@@ -1,6 +1,6 @@
 ---
 title: "NYT Spelling Bee Hints and Answers for Monday, Nov. 2, 2026: Hint Grid, Pangram and Sunday's Solution"
-seoTitle: "Spelling Bee Hints Today, Nov. 2, 2026"
+seoTitle: "Spelling Bee Hints & Answers Today, Nov. 2, 2026"
 description: "Spelling Bee for Monday, Nov. 2, 2026: center letter D with A, C, E, T, V and X, the hint grid, two-letter list and pangram hint, then all 35 words."
 type: explainer
 publishedAt: "2026-11-01T00:05:00-05:00"

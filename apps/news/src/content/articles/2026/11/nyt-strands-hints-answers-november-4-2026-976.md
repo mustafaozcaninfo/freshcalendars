@@ -1,6 +1,6 @@
 ---
 title: "NYT Strands Hints and Answers for Wednesday, Nov. 4, 2026 (#976): Hints for the Spangram and Five Theme Words"
-seoTitle: "Strands Hints Today, Nov. 4, 2026 (#976): Spangram"
+seoTitle: "Strands Hints, Spangram & Answers, Nov. 4, 2026 (#976)"
 description: "Strands #976 for Wednesday, Nov. 4, 2026: hints for the spangram and each of the five theme words, then all the answers in a spoiler section at the end."
 type: explainer
 publishedAt: "2026-11-03T00:05:00-05:00"
@@ -39,7 +39,7 @@ internalLinks:
 related: [wordle-hint-answer-today-november-4-2026-1964, nyt-connections-hints-answers-november-4-2026-1242, nyt-pips-hints-answers-november-4-2026]
 draft: false
 ---
-**Today's Strands from The New York Times (NYT) is puzzle #976, for Wednesday, Nov. 4, 2026, and its theme clue is "Getting the job done."** Think of the people who do the work, and of the names for them. The puzzle was constructed and edited by Tracy Bennett. Below are hints for the spangram and each theme word; the answers wait in a marked spoiler section at the end.
+**Today's Strands from The New York Times (NYT) is puzzle #976, for Wednesday, Nov. 4, 2026, and its theme clue is "Getting the job done."** Think of everyone who does the work, and of the names for them. The puzzle was constructed and edited by Tracy Bennett. Below are hints for the spangram and each theme word; the answers wait in a marked spoiler section at the end.
 
 ## How Strands works
 
@@ -48,7 +48,7 @@ The board is six letters wide and eight tall. Theme words are made by linking le
 ## Spangram hints
 
 - Hint 1: It is the part of a company that hires and supports its workers.
-- Hint 2: It is a phrase of two words: one means "of people," and the other means supplies or assets.
+- Hint 2: It is a phrase of two words: one means "relating to humankind," and the other means supplies or assets.
 - Hint 3: Fourteen letters, and the first letter is H.
 
 ## Theme word hints
@@ -63,7 +63,7 @@ There are five theme words, all names for workers or for the work they do:
 
 ## Solving tips
 
-Start with the spangram. On today's board it begins in the top-left corner and ends in the bottom-right corner. It is fourteen letters long, five more than the two longest theme words. The five theme words use 34 letters, so the spangram and the theme words together fill all 48 tiles. Labor and Staff are the shortest theme words, at five letters each. Personnel holds a double N, Staff a double F, and People two P letters and two E letters. If you get stuck, spell any ordinary words you can see to earn a hint.
+Start with the spangram. On today's board it begins in the top-left corner and ends in the bottom-right corner. It is fourteen letters long, five more than the two longest theme words. The five theme words use 34 letters, so the spangram and the theme words together fill all 48 tiles. The two shortest theme words have five letters each. Two theme words hold a doubled consonant, and a third repeats two of its letters. If you get stuck, spell any ordinary words you can see to earn a hint.
 
 Keep a streak log on our [printable weekly calendar](/printable-weekly-calendar.html) or the [November 2026 printable calendar](/november-calendars.html).
 

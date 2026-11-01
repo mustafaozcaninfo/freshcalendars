@@ -1,6 +1,6 @@
 ---
 title: "NYT Strands Hints and Answers for Friday, Nov. 13, 2026 (#985): Hints for the Spangram and Six Theme Words"
-seoTitle: "Strands Hints Today, Nov. 13, 2026 (#985): Spangram"
+seoTitle: "Strands Hints, Spangram & Answers, Nov. 13, 2026 (#985)"
 description: "Strands #985 for Friday, Nov. 13, 2026: hints for the spangram and each of the six theme words, then all the answers in a spoiler section at the end."
 type: explainer
 publishedAt: "2026-11-12T00:05:00-05:00"
@@ -64,7 +64,7 @@ There are six theme words, and they pair up into three signs of bad luck:
 
 ## Solving tips
 
-Start with the spangram. On today's board it starts at the left edge in the fourth row, drops one row, runs straight across the fifth row to the right edge and finishes down the last column in the bottom-right corner. The theme words pair up: Broken with Mirror, Spilled with Salt and Thirteenth with Floor. Thirteenth is as long as the spangram. The six theme words use 38 letters, so the spangram and the theme words together fill all 48 tiles. If you get stuck, spell any ordinary words you can see to earn a hint.
+Start with the spangram. On today's board it starts at the left edge in the fourth row, drops one row, runs straight across the fifth row to the right edge and finishes down the last column in the bottom-right corner. The six theme words pair up into three phrases of two words, and one theme word is as long as the spangram. The six theme words use 38 letters, so the spangram and the theme words together fill all 48 tiles. If you get stuck, spell any ordinary words you can see to earn a hint.
 
 Keep a streak log on our [printable weekly calendar](/printable-weekly-calendar.html) or the [November 2026 printable calendar](/november-calendars.html).
 

@@ -1,6 +1,6 @@
 ---
-title: "NYT Connections Hints and Answers for Sunday, Nov. 8, 2026 (#1246): Muscles, Salon Work, Sense and Veggies"
-seoTitle: "Connections Hints Today, Nov. 8, 2026 (#1246)"
+title: "NYT Connections Hints and Answers for Sunday, Nov. 8, 2026 (#1246): Two Hints per Group, Then the Answers"
+seoTitle: "Connections Hints & Answers Today, Nov. 8, 2026 (#1246)"
 description: "Connections #1246 for Sunday, Nov. 8, 2026: two levels of hints for every group, the decoy words to avoid, then the full answers at the very end."
 type: explainer
 publishedAt: "2026-11-07T00:05:00-05:00"
@@ -39,7 +39,7 @@ internalLinks:
 related: [wordle-hint-answer-today-november-8-2026-1968, nyt-strands-hints-answers-november-8-2026-980, nyt-pips-hints-answers-november-8-2026]
 draft: false
 ---
-**Today's Connections from The New York Times (NYT) is puzzle #1246, for Sunday, Nov. 8, 2026, edited by Wyna Liu.** One group is a muscular build, one is hair salon services, one is things that help make sense of a situation, and one is vegetable homophones. Cut and Trim each fit more than one group, and four words only click when you say them out loud. Below are two levels of hints for each color, then the full solution and an explanation of the tricky words in a marked spoiler section.
+**Today's Connections from The New York Times (NYT) is puzzle #1246, for Sunday, Nov. 8, 2026, edited by Wyna Liu.** All 16 entries are single words, and the groups run from yellow, the easiest, to purple, the trickiest. Cut and Trim each fit more than one group, and four words only click when you say them out loud. Below are two levels of hints for each color, then the full solution and an explanation of the tricky words in a marked spoiler section.
 
 ## Today's 16 words
 
@@ -73,7 +73,7 @@ Sort the 16 entries into four groups of four. You can make four mistakes. The gr
 
 ## Solving tips
 
-Start with the salon services. Blowout, Color and Extensions are safe, and Cut and Trim both compete for the last spot. Watch Cut and Trim: each can describe a haircut or a fit body, but only one belongs with the salon words. Take the muscular words next, then the sense-makers. Leave purple for last. Four entries will be left, and each needs only to be read aloud.
+Start with the salon services. Three are safe, and Cut and Trim both compete for the last spot. Watch Cut and Trim: each can describe a haircut or a fit body, but only one belongs with the salon words. Take the muscular words next, then the sense-makers. Leave purple for last. Four entries will be left, and each needs only to be read aloud.
 
 Keep a streak log on our [printable weekly calendar](/printable-weekly-calendar.html) or the [November 2026 printable calendar](/november-calendars.html).
 

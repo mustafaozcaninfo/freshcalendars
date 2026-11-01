@@ -1,6 +1,6 @@
 ---
-title: "NYT Connections Hints and Answers for Friday, Nov. 13, 2026 (#1251): Surf, Waves and Water Skier Split Up"
-seoTitle: "Connections Hints Today, Nov. 13, 2026 (#1251)"
+title: "NYT Connections Hints and Answers for Friday, Nov. 13, 2026 (#1251): Two Hints per Group, Then the Answers"
+seoTitle: "Connections Hints & Answers Today, Nov. 13, 2026 (#1251)"
 description: "Connections #1251 for Friday, Nov. 13, 2026: two levels of hints for every group, the decoy words to avoid, then the full answers at the very end."
 type: explainer
 publishedAt: "2026-11-12T00:05:00-05:00"
@@ -39,7 +39,7 @@ internalLinks:
 related: [wordle-hint-answer-today-november-13-2026-1973, nyt-strands-hints-answers-november-13-2026-985, nyt-pips-hints-answers-november-13-2026]
 draft: false
 ---
-**Today's Connections from The New York Times (NYT) is puzzle #1251, for Friday, Nov. 13, 2026, edited by Wyna Liu.** One group is ways to use the internet, one is words for media attention, one is things that are towed, and one is words that follow Brain. Surf, Waves and Water Skier look like a beach group that does not exist. Below are two levels of hints for each color, then the full solution and an explanation of the tricky words in a marked spoiler section.
+**Today's Connections from The New York Times (NYT) is puzzle #1251, for Friday, Nov. 13, 2026, edited by Wyna Liu.** The board mixes fifteen single words with one longer entries, and the groups run from yellow, the easiest, to purple, the trickiest. Surf, Waves and Water Skier look like a beach group that does not exist. Below are two levels of hints for each color, then the full solution and an explanation of the tricky words in a marked spoiler section.
 
 ## Today's 16 words
 
@@ -73,7 +73,7 @@ Sort the 16 entries into four groups of four. You can make four mistakes. The gr
 
 ## Solving tips
 
-Start with the towed things: Barge, Glider, Trailer and Water Skier. Then look for words that can follow Brain, because Waves and Freeze both fit there. Surf belongs with Browse, Scroll and Search, since you surf the web. Press can mean to push a button, but here it means reporters, alongside Coverage, Exposure and Publicity.
+Start with the things pulled behind something else; one of them is a person. Then look for words that can follow Brain, because Waves and Freeze both fit there. Surf belongs with the web words, since you surf the internet. Press can mean to push a button, but here it means reporters, so it joins the words for being in the news.
 
 Keep a streak log on our [printable weekly calendar](/printable-weekly-calendar.html) or the [November 2026 printable calendar](/november-calendars.html).
 

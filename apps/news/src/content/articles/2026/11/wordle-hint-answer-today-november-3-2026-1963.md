@@ -15,7 +15,7 @@ hero:
   caption: "Wordle #1963 for Tuesday, Nov. 3, 2026; graded clues come first and the answer only in the final section."
 summary:
   - "Today's Wordle is puzzle #1963, for Tuesday, Nov. 3, 2026, from The New York Times."
-  - "The answer has no repeated letter, and its two vowels, O and U, sit side by side."
+  - "The answer has two vowel letters and no repeated letter, so every tile is a different letter."
   - "Six clues below go from gentle to strong; stop when it clicks."
   - "The answer is in the last section, marked as a spoiler."
 faq:
@@ -56,7 +56,7 @@ You get six tries to find a five-letter word. After each guess, a green tile mea
 
 ## Guessing tips for today
 
-The word starts with P and ends with H, so a guess with P first and H last can turn two tiles green right away. The C and H sit side by side in the last two spots. Because no letter repeats, a guess made of five different letters has no wasted tile. Try it. Two of the five letters are vowels, and they touch.
+Once both vowels show up yellow or green, stop spending tiles on vowels and switch to common consonants. Because no letter repeats, each new guess should use five letters you have not tried yet, so no tile is wasted. Gray tiles count too: drop those letters for good.
 
 Keep your streak on our [printable weekly calendar](/printable-weekly-calendar.html) or the [November 2026 printable calendar](/november-calendars.html).
 

@@ -15,7 +15,7 @@ hero:
   caption: "Wordle #1973 for Friday, Nov. 13, 2026; graded clues come first and the answer only in the final section."
 summary:
   - "Today's Wordle is puzzle #1973, for Friday, Nov. 13, 2026, from The New York Times."
-  - "The answer has no repeated letter, three vowels, O, I and E, and one of the least common letters in English."
+  - "The answer has three vowel letters and no repeated letter, so every tile is a different letter."
   - "Six clues below go from gentle to strong, each one hidden until you open it."
   - "The answer is in the last section, marked as a spoiler."
 faq:
@@ -56,7 +56,7 @@ You get six tries to find a five-letter word. After each guess, a green tile mea
 
 ## Guessing tips for today
 
-The word starts with M and ends with E, so a guess with M first and E last can turn two tiles green right away. The vowels sit in the second, fourth and fifth spots, which leaves one consonant in the middle. It is an X, so a guess with X in the third spot finishes the job.
+Because no letter repeats, each new guess should use five letters you have not tried yet, so no tile is wasted. With this many vowels, a vowel-heavy opener pays off fast; once the vowels are placed, only the consonants are left. Use gray tiles as much as green ones.
 
 Keep your streak on our [printable weekly calendar](/printable-weekly-calendar.html) or the [November 2026 printable calendar](/november-calendars.html).
 

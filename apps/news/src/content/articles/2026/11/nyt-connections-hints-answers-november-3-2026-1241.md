@@ -1,6 +1,6 @@
 ---
-title: "NYT Connections Hints and Answers for Tuesday, Nov. 3, 2026 (#1241): Keep Going, Wheels and Menu Bars"
-seoTitle: "Connections Hints Today, Nov. 3, 2026 (#1241)"
+title: "NYT Connections Hints and Answers for Tuesday, Nov. 3, 2026 (#1241): Two Hints per Group, Then the Answers"
+seoTitle: "Connections Hints & Answers Today, Nov. 3, 2026 (#1241)"
 description: "Connections #1241 for Tuesday, Nov. 3, 2026: two levels of hints for every group, the decoy words to avoid, then the full answers at the very end."
 type: explainer
 publishedAt: "2026-11-02T00:05:00-05:00"
@@ -39,7 +39,7 @@ internalLinks:
 related: [wordle-hint-answer-today-november-3-2026-1963, nyt-strands-hints-answers-november-3-2026-975, nyt-pips-hints-answers-november-3-2026]
 draft: false
 ---
-**Today's Connections from The New York Times (NYT) is puzzle #1241, for Tuesday, Nov. 3, 2026, edited by Wyna Liu.** One group is ways to say keep going, one is things with wheels, one is things a server brings to your table, and one is words that end in a heading from a computer's menu bar. Resume, Profile and Interview all look like job-search words, which makes the board harder than it looks. Below are two levels of hints for each color, then the full solution and an explanation of the overlaps in a marked spoiler section.
+**Today's Connections from The New York Times (NYT) is puzzle #1241, for Tuesday, Nov. 3, 2026, edited by Wyna Liu.** The board mixes eleven single words with five longer entries, and the groups run from yellow, the easiest, to purple, the trickiest. Resume, Profile and Interview all look like job-search words, which makes the board harder than it looks. Below are two levels of hints for each color, then the full solution and an explanation of the overlaps in a marked spoiler section.
 
 ## Today's 16 words
 

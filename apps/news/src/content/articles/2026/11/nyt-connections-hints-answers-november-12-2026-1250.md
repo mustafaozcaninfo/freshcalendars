@@ -1,6 +1,6 @@
 ---
-title: "NYT Connections Hints and Answers for Thursday, Nov. 12, 2026 (#1250): Back to the Future Names, Four Groups"
-seoTitle: "Connections Hints Today, Nov. 12, 2026 (#1250)"
+title: "NYT Connections Hints and Answers for Thursday, Nov. 12, 2026 (#1250): Two Hints per Group, Then the Answers"
+seoTitle: "Connections Hints & Answers Today, Nov. 12, 2026 (#1250)"
 description: "Connections #1250 for Thursday, Nov. 12, 2026: two levels of hints for every group, the decoy words to avoid, then the full answers at the very end."
 type: explainer
 publishedAt: "2026-11-11T00:05:00-05:00"
@@ -39,7 +39,7 @@ internalLinks:
 related: [wordle-hint-answer-today-november-12-2026-1972, nyt-strands-hints-answers-november-12-2026-984, nyt-pips-hints-answers-november-12-2026]
 draft: false
 ---
-**Today's Connections from The New York Times (NYT) is puzzle #1250, for Thursday, Nov. 12, 2026, edited by Wyna Liu.** One group is exclamations of surprise, one is entries that start with a word for change, one is entries that end in a way to cook food, and one is entries that start with the title of a Best Picture winner. Four entries come straight from Back to the Future, and that is the trap: no group is about the film. Below are two levels of hints for each color, then the full solution and an explanation of the tricky words in a marked spoiler section.
+**Today's Connections from The New York Times (NYT) is puzzle #1250, for Thursday, Nov. 12, 2026, edited by Wyna Liu.** All 16 entries are phrases of two or more words, and the groups run from yellow, the easiest, to purple, the trickiest. Four entries come straight from Back to the Future, and that is the trap: no group is about the film. Below are two levels of hints for each color, then the full solution and an explanation of the tricky words in a marked spoiler section.
 
 ## Today's 16 words
 
@@ -73,7 +73,7 @@ Sort the 16 entries into four groups of four. You can make four mistakes. The gr
 
 ## Solving tips
 
-Ignore the movie for a moment. Great Scott, Flux Capacitor, Doc Brown and Marty McFly look like a group, but there are only those four film names on the board, and that is exactly why they are spread out. Start with the exclamations: Good Heavens, Holy Smokes and Jiminy Cricket pair with Great Scott. Then read first words. Change, Flux, Shift and Swing all mean a change. The cooking group hides in the last words, so purple is whatever is left, each starting with a film title.
+Ignore the movie for a moment. Great Scott, Flux Capacitor, Doc Brown and Marty McFly look like a group, but there are only those four film names on the board, and that is exactly why they are spread out. Start with the exclamations: three more old-fashioned cries of surprise pair with Great Scott. Then read first words: four entries open with a word that means a change. The cooking group hides in the last words, so purple is whatever is left, each starting with a film title.
 
 Keep a streak log on our [printable weekly calendar](/printable-weekly-calendar.html) or the [November 2026 printable calendar](/november-calendars.html).
 

@@ -15,7 +15,7 @@ hero:
   caption: "Wordle #1972 for Thursday, Nov. 12, 2026; graded clues come first and the answer only in the final section."
 summary:
   - "Today's Wordle is puzzle #1972, for Thursday, Nov. 12, 2026, from The New York Times."
-  - "The answer repeats one letter: its only vowel, A, appears twice, in the second and fourth spots."
+  - "The answer has one vowel letter and one letter used twice, so only four different letters need finding."
   - "Six clues below go from gentle to strong, each one hidden until you open it."
   - "The answer is in the last section, marked as a spoiler."
 faq:
@@ -56,7 +56,7 @@ You get six tries to find a five-letter word. After each guess, a green tile mea
 
 ## Guessing tips for today
 
-The word starts with K and ends with T, so a guess with K first and T last can turn two tiles green right away. The third letter is R. Because the A repeats, a guess with A in both the second and fourth spots tests the pattern at once. That leaves only four different letters to find.
+With a single vowel, an opener that tests three or four vowels at once shows which one it is in a single row, and the rest of the hunt is consonants. Because one letter repeats, a row that turns three or four tiles green with nothing left to try usually means one of those letters belongs twice. Gray tiles count too: drop those letters for good.
 
 Keep your streak on our [printable weekly calendar](/printable-weekly-calendar.html) or the [November 2026 printable calendar](/november-calendars.html).
 

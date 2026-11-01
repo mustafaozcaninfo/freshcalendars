@@ -1,6 +1,6 @@
 ---
 title: "NYT Strands Hints and Answers for Saturday, Nov. 7, 2026 (#979): Hints for the Spangram and Seven Theme Words"
-seoTitle: "Strands Hints Today, Nov. 7, 2026 (#979): Spangram"
+seoTitle: "Strands Hints, Spangram & Answers, Nov. 7, 2026 (#979)"
 description: "Strands #979 for Saturday, Nov. 7, 2026: hints for the spangram and each of the seven theme words, then all the answers in a spoiler section at the end."
 type: explainer
 publishedAt: "2026-11-06T00:05:00-05:00"
@@ -65,9 +65,9 @@ There are seven theme words, and each one describes moving or happening very fas
 
 ## Solving tips
 
-Start with the spangram. On today's board it starts on the left edge in the fourth row, first column, goes down to the fifth row, steps down and across to the sixth row, second column, and runs right along the sixth row to the right edge. Then it climbs the last column to the top edge and ends in the first row, fifth column. It is thirteen letters long, seven more than the longest theme word. The seven theme words use 35 letters, so the spangram and the theme words together fill all 48 tiles. Rush, Whiz and Zoom are the shortest theme words, at four letters each. Whoosh repeats H and O, and the spangram uses H three times. If you get stuck, spell any ordinary words you can see to earn a hint.
+Start with the spangram. On today's board it starts on the left edge in the fourth row, first column, goes down to the fifth row, steps down and across to the sixth row, second column, and runs right along the sixth row to the right edge. Then it climbs the last column to the top edge and ends in the first row, fifth column. It is thirteen letters long, seven more than the longest theme word. The seven theme words use 35 letters, so the spangram and the theme words together fill all 48 tiles. Three theme words have only four letters each, and two of those three share a rare letter. The spangram uses one consonant three times. If you get stuck, spell any ordinary words you can see to earn a hint.
 
-Keep a streak log on our [printable weekly calendar](/printable-weekly-calendar.html) or the [November 2026 printable calendar](/november-calendars.html).
+Keep a daily solving log on our [printable weekly calendar](/printable-weekly-calendar.html) or the [November 2026 printable calendar](/november-calendars.html).
 
 More of today's puzzles: [Wordle hints](/news/wordle-hint-answer-today-november-7-2026-1967/), [Connections hints](/news/nyt-connections-hints-answers-november-7-2026-1245/) and [Pips hints](/news/nyt-pips-hints-answers-november-7-2026/).
 

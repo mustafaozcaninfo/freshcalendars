@@ -1,6 +1,6 @@
 ---
-title: "NYT Connections Hints and Answers for Monday, Nov. 2, 2026 (#1240): Trek Gear, Anger, Mist and Mirrors"
-seoTitle: "Connections Hints Today, Nov. 2, 2026 (#1240)"
+title: "NYT Connections Hints and Answers for Monday, Nov. 2, 2026 (#1240): Two Hints per Group, Then the Answers"
+seoTitle: "Connections Hints & Answers Today, Nov. 2, 2026 (#1240)"
 description: "Connections #1240 for Monday, Nov. 2, 2026: two levels of hints for every group, the decoy words to avoid, then the full answers at the very end."
 type: explainer
 publishedAt: "2026-11-01T00:05:00-05:00"
@@ -39,7 +39,7 @@ internalLinks:
 related: [wordle-hint-answer-today-november-2-2026-1962, nyt-strands-hints-answers-november-2-2026-974, nyt-pips-hints-answers-november-2-2026]
 draft: false
 ---
-**Today's Connections from The New York Times (NYT) is puzzle #1240, for Monday, Nov. 2, 2026, edited by Wyna Liu.** One group is gear for a hike, one is words that mean to make someone angry, one is things that make mist, and one is things that have mirrors. Two of the entries share the word Water, which makes the board harder than it looks. Below are two levels of hints for each color, then the full solution and an explanation of the overlaps in a marked spoiler section.
+**Today's Connections from The New York Times (NYT) is puzzle #1240, for Monday, Nov. 2, 2026, edited by Wyna Liu.** The board mixes eight single words with eight longer entries, and the groups run from yellow, the easiest, to purple, the trickiest. Two of the entries share the word Water, which makes the board harder than it looks. Below are two levels of hints for each color, then the full solution and an explanation of the overlaps in a marked spoiler section.
 
 ## Today's 16 words
 
