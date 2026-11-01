@@ -4,6 +4,7 @@ seoTitle: "Arizona Time After Nov. 1, 2026 vs California"
 description: "Arizona stays on Mountain Standard Time (MST) when U.S. clocks fall back Nov. 1, 2026, so Phoenix is 1 hour ahead of California and matches Denver."
 type: explainer
 publishedAt: "2026-10-31T13:00:00-04:00"
+updatedAt: "2026-11-01T05:45:00-05:00"
 authors: [jordan-bennett]
 category: time-change
 keywords: ["what time is it in Arizona", "Arizona time zone daylight saving time November 2026", "Phoenix time vs California", "does Arizona change clocks", "Hawaii time difference after daylight saving time"]
@@ -44,13 +45,13 @@ assets:
     description: "One-page list of how Phoenix and Honolulu compare with U.S. cities before and after clocks fall back on Nov. 1, 2026."
     alt: "Printable list of the time difference between Phoenix and U.S. cities before and after Nov. 1, 2026"
 summary:
-  - "Arizona keeps Mountain Standard Time (MST) all year under Arizona Revised Statutes §1-242, so its clocks do not move when U.S. clocks fall back at 2 a.m. on Sunday, Nov. 1, 2026."
-  - "Phoenix goes from the same time as Los Angeles to 1 hour ahead of it, and from 1 hour behind Denver to the same time as Denver, our calculation."
+  - "Arizona keeps Mountain Standard Time (MST) all year under Arizona Revised Statutes §1-242, so its clocks did not move when U.S. clocks fell back at 2 a.m. on Sunday, Nov. 1, 2026."
+  - "Phoenix went from the same time as Los Angeles to 1 hour ahead of it, and from 1 hour behind Denver to the same time as Denver, our calculation."
   - "A show that airs at 8 p.m. Eastern Time (ET) is on at 6 p.m. in Phoenix from Nov. 1; until Oct. 31 it was 5 p.m."
   - "The next change is Sunday, March 14, 2027, when Phoenix matches Los Angeles again."
 faq:
   - q: "Does Arizona change its clocks in November 2026?"
-    a: "No. Arizona law keeps the state on standard mountain time all year. U.S. clocks fall back at 2 a.m. on Sunday, Nov. 1, 2026, and Arizona's clocks stay where they are."
+    a: "No. Arizona law keeps the state on standard mountain time all year. U.S. clocks fell back at 2 a.m. on Sunday, Nov. 1, 2026, and Arizona's clocks stayed where they were."
   - q: "What time is it in Phoenix if it is noon in Los Angeles?"
     a: "From Nov. 1, 2026, it is 1 p.m. in Phoenix. Until Oct. 31 both cities showed the same time. This is our calculation from UTC-7 for Phoenix and UTC-8 for Los Angeles on Pacific Standard Time."
   - q: "Is Arizona on Pacific or Mountain time?"
@@ -103,7 +104,7 @@ downloads:
     pages: 1
 ---
 
-Arizona does not move its clocks when U.S. clocks fall back at 2 a.m. on Sunday, Nov. 1, 2026, so Phoenix goes from the same time as California to 1 hour ahead of it. Arizona Revised Statutes (A.R.S.) §1-242, published by the Arizona State Legislature, keeps the state on standard mountain time. Below is a table of Phoenix and Honolulu against five U.S. cities, before and after Nov. 1, plus what the change does to TV and game start times.
+Arizona did not move its clocks when U.S. clocks fell back at 2 a.m. on Sunday, Nov. 1, 2026, so Phoenix went from the same time as California to 1 hour ahead of it. Arizona Revised Statutes (A.R.S.) §1-242, published by the Arizona State Legislature, keeps the state on standard mountain time. Below is a table of Phoenix and Honolulu against five U.S. cities, before and after Nov. 1, plus what the change does to TV and game start times.
 
 ## What time is it in Arizona from Nov. 1, 2026?
 

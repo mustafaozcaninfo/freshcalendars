@@ -4,6 +4,7 @@ seoTitle: "US-Dubai Time Difference After Nov. 1, 2026"
 description: "New York, on Eastern Time (ET), is 9 hours behind Dubai from Nov. 1, 2026 as US clocks fall back. Tables for every US zone, Saudi Arabia, Israel and Egypt."
 type: explainer
 publishedAt: "2026-10-31T14:23:00-04:00"
+updatedAt: "2026-11-01T05:45:00-05:00"
 authors: [jordan-bennett]
 category: time-change
 keywords: ["us dubai time difference", "new york dubai time difference after daylight saving", "us saudi arabia time difference", "us israel time difference november 2026"]
@@ -101,7 +102,7 @@ related: [daylight-saving-time-ends-november-1-2026, us-india-time-difference-af
 draft: false
 ---
 
-US clocks fall back at 2 a.m. local time on **Sunday, Nov. 1, 2026**, according to the National Institute of Standards and Technology (NIST), and from then New York is 9 hours behind Dubai; it was 8. The United Arab Emirates (UAE) keeps the same time all year, so the whole change lands on the US side. A one-page [printable US to Middle East time converter](/news/downloads/time-change-2026/us-middle-east-time-converter-2026.pdf) is on this page.
+US clocks fell back at 2 a.m. local time on **Sunday, Nov. 1, 2026**, according to the National Institute of Standards and Technology (NIST), and from then New York is 9 hours behind Dubai; it was 8. The United Arab Emirates (UAE) keeps the same time all year, so the whole change lands on the US side. A one-page [printable US to Middle East time converter](/news/downloads/time-change-2026/us-middle-east-time-converter-2026.pdf) is on this page.
 
 The figures below are our calculation from the Coordinated Universal Time (UTC) offsets in the time zone database kept by the Internet Assigned Numbers Authority (IANA), release 2026f.
 
@@ -118,7 +119,7 @@ Most do not. The IANA database lists these places on a fixed offset all year:
 
 Two places do change, and both already did. Israel (Jerusalem, Tel Aviv) follows the rule "Zion 2013 max Oct lastSun 2:00" in the IANA database, so winter time (UTC+2) began on Sunday, Oct. 25, 2026. Egypt (Cairo) follows "Egypt 2023 max Oct lastThu 24:00", so winter time (UTC+2) began at the midnight that ends Thursday, Oct. 29, 2026.
 
-The US side moves on Nov. 1. NIST says daylight saving time (DST) runs until 2 a.m. local time on that date, and the rule is set in 15 U.S.C. 260a. Eastern Time (ET) goes from UTC-4 to UTC-5. Arizona (apart from the Navajo Nation) and Hawaii do not change. Our [report on the US change](/news/daylight-saving-time-ends-november-1-2026/) has the full rule.
+The US side moved on Nov. 1. NIST says daylight saving time (DST) ran until 2 a.m. local time on that date, and the rule is set in 15 U.S.C. 260a. Eastern Time (ET) goes from UTC-4 to UTC-5. Arizona (apart from the Navajo Nation) and Hawaii do not change. Our [report on the US change](/news/daylight-saving-time-ends-november-1-2026/) has the full rule.
 
 ## How far ahead is Dubai, Riyadh or Tel Aviv of each US zone?
 
@@ -152,7 +153,7 @@ A standing call fixed in Dubai time moves on US clocks. A 6 p.m. Dubai call was 
 
 ## Why were the Israel and Egypt gaps only 6 hours for a few days?
 
-Because Israel and Egypt went back to winter time before the US did. The gap with New York was 7 hours in summer, dropped to 6 hours when the Middle East changed, and returns to 7 hours when the US changes.
+Because Israel and Egypt went back to winter time before the US did. The gap with New York was 7 hours in summer, dropped to 6 hours when the Middle East changed, and returned to 7 hours when the US changed at 2 a.m. on Nov. 1.
 
 | City | Summer gap with New York | 6-hour window | Gap from Nov. 1 |
 |---|---|---|---|

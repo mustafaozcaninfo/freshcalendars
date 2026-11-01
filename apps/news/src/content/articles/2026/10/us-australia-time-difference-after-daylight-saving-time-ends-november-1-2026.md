@@ -4,6 +4,7 @@ seoTitle: "US-Australia Time Difference After Nov. 1, 2026"
 description: "Sydney is 16 hours ahead of New York from Sunday, Nov. 1, 2026, when US clocks fall back. Tables for Australia, New Zealand and every US zone to April 2027."
 type: explainer
 publishedAt: "2026-10-30T01:58:00-04:00"
+updatedAt: "2026-11-01T05:45:00-05:00"
 authors: [jordan-bennett]
 category: time-change
 keywords: ["time difference US Australia after daylight saving time ends", "Sydney time difference New York November 2026", "New Zealand time difference US", "Australia daylight saving 2026"]
@@ -102,7 +103,7 @@ downloads:
 draft: false
 ---
 
-Sydney is 16 hours ahead of New York from **Sunday, Nov. 1, 2026**, when US clocks go back at 2 a.m. local time, according to the National Institute of Standards and Technology (NIST). The gap was 15 hours from Oct. 4, when New South Wales (NSW) started daylight saving, and it moves again on March 14 and April 4, 2027. The hour differences in this story are our calculation from the Internet Assigned Numbers Authority (IANA) Time Zone Database, the data that browsers and phones use.
+Sydney is 16 hours ahead of New York from **Sunday, Nov. 1, 2026**, when US clocks went back at 2 a.m. local time, according to the National Institute of Standards and Technology (NIST). The gap was 15 hours from Oct. 4, when New South Wales (NSW) started daylight saving, and it moves again on March 14 and April 4, 2027. The hour differences in this story are our calculation from the Internet Assigned Numbers Authority (IANA) Time Zone Database, the data that browsers and phones use.
 
 Because the two hemispheres change clocks on different dates, the gap shifts three times between Nov. 1, 2026 and April 2027. A one-page [printable of the change dates](/news/downloads/time-change-2026/us-australia-time-difference-2026-2027.pdf) is on this page.
 
@@ -173,6 +174,6 @@ The same Nov. 1 change shifts the gap with Mexico, whose time zones mostly stay 
 ## Quick checklist for Nov. 1
 
 - Find your US city in the main table and read the hours ahead for the Australian or New Zealand city.
-- Recheck any recurring call with Sydney: the gap grows by one hour on Nov. 1.
+- Recheck any recurring call with Sydney: the gap grew by one hour on Nov. 1.
 - Note March 14, 2027 and April 4, 2027, the next two dates when the gap changes.
 - Mark Nov. 1 on a [November 2026 printable calendar](/november-calendars.html) or a [printable weekly calendar](/printable-weekly-calendar.html).

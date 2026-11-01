@@ -1,9 +1,10 @@
 ---
 title: "US-Philippines Time Difference After Nov. 1, 2026: New York Is 13 Hours Behind Manila"
 seoTitle: "US-Philippines Time Difference After Nov. 1, 2026"
-description: "US clocks fall back at 2 a.m. on Nov. 1, 2026, so New York is 13 hours behind Philippine Standard Time (PHT), which does not change. Tables for every US zone."
+description: "US clocks fell back at 2 a.m. on Nov. 1, 2026, so New York is 13 hours behind Philippine Standard Time (PHT), which does not change. Tables for every US zone."
 type: explainer
 publishedAt: "2026-10-30T17:44:00-04:00"
+updatedAt: "2026-11-01T05:45:00-05:00"
 authors: [jordan-bennett]
 category: time-change
 keywords: ["Philippines time difference after daylight saving time ends", "Philippines time vs New York November 2026", "PHT to EST", "what time is it in the Philippines when it is 9 am in California"]
@@ -64,7 +65,7 @@ downloads:
     png: "/news/downloads/time-change-2026/us-philippines-time-converter-november-2026-ink.png"
     pages: 1
 summary:
-  - "US clocks go back at 2 a.m. local time on Sunday, Nov. 1, 2026, according to the National Institute of Standards and Technology (NIST); the Philippines does not change."
+  - "US clocks went back at 2 a.m. local time on Sunday, Nov. 1, 2026, according to the National Institute of Standards and Technology (NIST); the Philippines did not change."
   - "From Nov. 1, New York is 13 hours behind Philippine Standard Time (PHT). Until Oct. 31 it was 12 hours behind."
   - "The Philippines keeps UTC+8 all year, so every US zone that changes its clocks gains one hour on Manila."
   - "The time-difference figures and conversions are our calculation from the UTC offsets."
@@ -100,7 +101,7 @@ related: [daylight-saving-time-ends-november-1-2026, us-india-time-difference-af
 draft: false
 ---
 
-US clocks fall back one hour at 2 a.m. local time on **Sunday, Nov. 1, 2026**, and from then New York is 13 hours behind Philippine Standard Time (PHT); until Oct. 31 it was 12 hours behind. The rule comes from the National Institute of Standards and Technology (NIST), and the Philippines does not move its clocks, so the whole change lands on the US side. A one-page [printable US-Philippines time converter](/news/downloads/time-change-2026/us-philippines-time-converter-november-2026.pdf) is on this page for your desk.
+US clocks fell back one hour at 2 a.m. local time on **Sunday, Nov. 1, 2026**, and from then New York is 13 hours behind Philippine Standard Time (PHT); until Oct. 31 it was 12 hours behind. The rule comes from the National Institute of Standards and Technology (NIST), and the Philippines does not move its clocks, so the whole change lands on the US side. A one-page [printable US-Philippines time converter](/news/downloads/time-change-2026/us-philippines-time-converter-november-2026.pdf) is on this page for your desk.
 
 The Philippines' own abbreviation for its standard time is PhST, also written PST. We use PHT here to avoid confusion with Pacific Standard Time. The figures below are our calculation from the Coordinated Universal Time (UTC) offsets.
 
