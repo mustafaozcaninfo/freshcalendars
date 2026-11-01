@@ -4,7 +4,7 @@ seoTitle: "Halloween 2026 Was Saturday: Sunset and Dark by City"
 description: "Halloween 2026 was Saturday, Oct. 31, the first Saturday Halloween since 2020, and clocks fell back hours later. Sunset and dark times for 16 U.S. cities."
 type: news
 publishedAt: "2026-10-19T10:25:00-04:00"
-updatedAt: "2026-11-01T15:25:00-05:00"
+updatedAt: "2026-11-01T15:21:00-05:00"
 authors: [alex-morgan]
 category: holidays
 keywords: ["Halloween 2026", "Halloween 2026 Saturday", "trick or treat times 2026", "sunset on Halloween 2026", "Halloween daylight saving time 2026"]

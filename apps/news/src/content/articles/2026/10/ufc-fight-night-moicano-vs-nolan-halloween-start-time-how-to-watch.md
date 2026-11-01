@@ -1,18 +1,18 @@
 ---
-title: "UFC Fight Night Moicano vs. Nolan on Halloween: Start Time in Every U.S. Zone and How to Watch"
-seoTitle: "UFC Halloween 2026: Moicano vs. Nolan Start Time"
-description: "The Ultimate Fighting Championship (UFC) lists Moicano vs. Nolan on Sat., Oct. 31, 2026, in Las Vegas: prelims 5 p.m., main card 8 p.m. Eastern Time (ET)."
+title: "UFC Fight Night Moicano vs. Nolan Results: Nolan Stops Moicano in Round 3 on Halloween"
+seoTitle: "Moicano vs. Nolan Results: Nolan Wins by TKO"
+description: "Tom Nolan beat Renato Moicano by technical knockout (TKO) in round 3 on Oct. 31, 2026, in Las Vegas, the Ultimate Fighting Championship (UFC) says. Results."
 type: news
 publishedAt: "2026-10-25T14:15:00-04:00"
-updatedAt: "2026-10-26T13:00:00-04:00"
+updatedAt: "2026-11-01T15:21:00-05:00"
 authors: [jordan-bennett]
 category: sports
-keywords: ["UFC this weekend", "Moicano vs Nolan", "UFC Halloween 2026 start time", "UFC Fight Night October 31 2026"]
+keywords: ["Moicano vs Nolan results", "Moicano vs Nolan", "UFC Halloween 2026", "UFC Fight Night October 31 2026"]
 dateline: "Las Vegas"
 hero:
   src: ../../../../assets/news/ufc-fight-night-moicano-vs-nolan-halloween-start-time-how-to-watch/ufc-fight-night-moicano-vs-nolan-halloween-start-time-how-to-watch.webp
-  alt: "UFC this weekend: a packed arena around a lit octagon during a past UFC event"
-  caption: "A packed arena at a past Ultimate Fighting Championship (UFC) event. UFC Fight Night: Moicano vs. Nolan is Saturday, Oct. 31, 2026, at the Meta Apex in Las Vegas, with the main card at 8 p.m. Eastern Time."
+  alt: "Moicano vs Nolan: a packed arena around a lit octagon during a past UFC event"
+  caption: "A packed arena at a past Ultimate Fighting Championship (UFC) event. UFC Fight Night: Moicano vs. Nolan was held Saturday, Oct. 31, 2026, at the Meta Apex in Las Vegas."
   credit: "Photo: Ron Hall / Wikimedia Commons, cropped, edited"
   license:
     name: "CC BY 2.0"
@@ -20,22 +20,28 @@ hero:
     source: "https://commons.wikimedia.org/wiki/File:The_Former_HP_Pavillion_In_San_Jose_During_a_UFC_event.jpg"
     author: "Ron Hall"
 summary:
-  - "UFC lists UFC Fight Night: Moicano vs. Nolan for Saturday, Oct. 31, 2026, at Meta Apex in Las Vegas, Nevada."
-  - "Prelims start at 5 p.m. Eastern Daylight Time (EDT) and the main card at 8 p.m. EDT, which is 5 p.m. Pacific Daylight Time (PDT) in Las Vegas."
-  - "ESPN's fight listing shows Paramount+; Paramount+ has been UFC's U.S. streaming home since 2026, CBS Sports reported."
-  - "UFC now lists a 12-bout card: six on the main card, led by Moicano vs. Nolan at lightweight, and six on the prelims. Cards can change in fight week."
+  - "Tom Nolan beat Renato Moicano by technical knockout (TKO), punches and elbows, at 1:28 of round 3 in the lightweight main event on Saturday, Oct. 31, 2026, at Meta Apex in Las Vegas, UFC's results page says."
+  - "On the main card Jacobe Smith, Cody Durden and Luana Santos won unanimous decisions, and Jean-Paul Lebosnoyani stopped Farman Hasanov in round 3."
+  - "The prelims had started at 5 p.m. Eastern Daylight Time (EDT) and the main card at 8 p.m. EDT, 5 p.m. Pacific Daylight Time (PDT) in Las Vegas."
+  - "ESPN's fight listing showed Paramount+, UFC's U.S. streaming home since 2026, CBS Sports reported."
 faq:
-  - q: "What time is UFC on Halloween 2026?"
-    a: "UFC lists prelims at 5 p.m. EDT and the main card at 8 p.m. EDT on Saturday, Oct. 31, 2026. That is 4 and 7 p.m. Central Daylight Time (CDT), 3 and 6 p.m. Mountain Daylight Time (MDT), and 2 and 5 p.m. PDT, by our conversion."
-  - q: "Where is UFC Fight Night Moicano vs. Nolan?"
+  - q: "Who won Moicano vs. Nolan?"
+    a: "Tom Nolan, by TKO (punches and elbows) at 1:28 of round 3, according to UFC's official results. Some live reports gave a later stoppage time; we use UFC's."
+  - q: "What time was UFC on Halloween 2026?"
+    a: "UFC listed prelims at 5 p.m. EDT and the main card at 8 p.m. EDT on Saturday, Oct. 31, 2026. That is 4 and 7 p.m. Central Daylight Time (CDT), 3 and 6 p.m. Mountain Daylight Time (MDT), and 2 and 5 p.m. PDT, by our conversion."
+  - q: "Where was UFC Fight Night Moicano vs. Nolan?"
     a: "At Meta Apex in Las Vegas, Nevada, according to UFC's events page."
-  - q: "How can you watch Moicano vs. Nolan?"
-    a: "ESPN's fight listing shows Paramount+. Paramount+ has been UFC's U.S. streaming home since 2026, CBS Sports reported in August 2025."
-  - q: "What time is the UFC main card in the UK?"
+  - q: "Where could you watch Moicano vs. Nolan?"
+    a: "ESPN's fight listing showed Paramount+. Paramount+ has been UFC's U.S. streaming home since 2026, CBS Sports reported in August 2025."
+  - q: "What time was the UFC main card in the UK?"
     a: "00:00 Greenwich Mean Time (GMT) on Sunday, Nov. 1, by our conversion. The UK moved to GMT on Oct. 25."
-  - q: "Do the clocks change before the fights?"
-    a: "No. U.S. clocks fall back at 2 a.m. on Sunday, Nov. 1, after the event, so all U.S. times for Oct. 31 are daylight time."
+  - q: "Did the clocks change before the fights?"
+    a: "No. U.S. clocks fell back at 2 a.m. on Sunday, Nov. 1, after the event, so all U.S. times for Oct. 31 are daylight time."
 sources:
+  - title: "UFC Fight Night: Moicano vs Nolan Results"
+    url: "https://www.ufc.com/news/ufc-fight-night-moicano-vs-nolan-results"
+    publisher: "Ultimate Fighting Championship"
+    date: "2026-11-01"
   - title: "UFC Fight Night: Moicano vs Nolan"
     url: "https://www.ufc.com/event/ufc-fight-night-october-31-2026"
     publisher: "Ultimate Fighting Championship"
@@ -98,13 +104,25 @@ downloads:
 draft: false
 ---
 
-<p class="callout"><b>Last updated Mon., Oct. 26, 2026, 1 p.m. ET.</b> UFC has posted the full 12-bout card. Two bouts changed from the earlier ESPN listing: Randy Brown now faces Jacobe Smith, and Francis Marshall faces Dakota Hope.</p>
+**Tom Nolan beat Renato Moicano by technical knockout (TKO) at 1:28 of round 3 in the lightweight main event of UFC Fight Night: Moicano vs. Nolan on Saturday, Oct. 31, 2026, at Meta Apex in Las Vegas, according to the Ultimate Fighting Championship (UFC).** UFC's results page lists the stoppage as punches and elbows. Below: the main-card results, the start times the night ran to and the full card.
 
-**UFC Fight Night: Moicano vs. Nolan is Saturday, Oct. 31, 2026, at Meta Apex in Las Vegas, with prelims at 5 p.m. and the main card at 8 p.m. Eastern Daylight Time (EDT), according to the Ultimate Fighting Championship (UFC).** In Las Vegas that is 2 p.m. and 5 p.m. Pacific Daylight Time (PDT). Below: the start time in each U.S. zone, how to watch, the other bouts listed so far and how the night overlaps with trick-or-treating.
+## Moicano vs. Nolan results: main card
 
-## What time is UFC on Halloween 2026?
+Results are from UFC's official results page, posted Nov. 1. Some live reports gave a later time for the main-event stoppage; we use UFC's.
 
-UFC's events page lists the prelims at 5 p.m. and the main card at 8 p.m. EDT. Its detail block labels the zone "EST," but Oct. 31 is still daylight time in the United States, so EDT is correct; that is our note, not UFC's. The other zones below are our conversion from UFC's times.
+| Bout | Result |
+|---|---|
+| Tom Nolan vs. Renato Moicano | Nolan wins by TKO (punches and elbows), round 3, 1:28 |
+| Jacobe Smith vs. Randy Brown | Smith wins by unanimous decision (30-26, 30-26, 30-26) |
+| Cody Durden vs. Ode' Osbourne | Durden wins by unanimous decision (29-28, 29-28, 29-28) |
+| Luana Santos vs. Yana Santos | Luana Santos wins by unanimous decision (29-28, 29-28, 29-28) |
+| Jean-Paul Lebosnoyani vs. Farman Hasanov | Lebosnoyani wins by TKO (doctor stoppage), round 3, 2:11 |
+
+UFC's main-card results do not include Zachary Reese vs. Mickey Gall, which was on the card when we checked on Oct. 26. Prelim results are on UFC's event page.
+
+## What time was UFC on Halloween 2026?
+
+UFC's events page listed the prelims at 5 p.m. and the main card at 8 p.m. EDT. Its detail block labels the zone "EST," but Oct. 31 is still daylight time in the United States, so EDT is correct; that is our note, not UFC's. The other zones below are our conversion from UFC's times.
 
 | Segment | Eastern (EDT) | Central (CDT) | Mountain (MDT) | Pacific (PDT) |
 |---|---|---|---|---|
@@ -113,17 +131,17 @@ UFC's events page lists the prelims at 5 p.m. and the main card at 8 p.m. EDT. I
 
 Las Vegas keeps Pacific time, so the Pacific column is the local time at the arena.
 
-## What time is the main card in the UK and Europe?
+## What time was the main card in the UK and Europe?
 
-The UK moved to Greenwich Mean Time (GMT) on Oct. 25, so the 8 p.m. EDT main card is 00:00 GMT on Sunday, Nov. 1. In Central Europe, already on Central European Time (CET), it is 1 a.m. on Sunday. Both are our conversions.
+The UK moved to Greenwich Mean Time (GMT) on Oct. 25, so the 8 p.m. EDT main card was 00:00 GMT on Sunday, Nov. 1. In Central Europe, already on Central European Time (CET), it was 1 a.m. on Sunday. Both are our conversions.
 
-## How can you watch Moicano vs. Nolan?
+## Where could you watch Moicano vs. Nolan?
 
-ESPN's fight listing shows Paramount+. Paramount+ has been UFC's U.S. streaming home since 2026, CBS Sports reported in August 2025, under a seven-year deal. UFC's events page, in the version we checked, does not name a broadcaster for this event, so confirm on the platform before the night.
+ESPN's fight listing showed Paramount+. Paramount+ has been UFC's U.S. streaming home since 2026, CBS Sports reported in August 2025, under a seven-year deal. UFC's events page, in the version we checked, did not name a broadcaster for this event.
 
-## Which fights are on the card?
+## Which fights were on the card?
 
-UFC's event page lists 12 bouts, checked Oct. 26. Moicano vs. Nolan, a lightweight bout, closes the main card. The card can change during fight week.
+UFC's event page listed 12 bouts when we checked on Oct. 26. Moicano vs. Nolan, a lightweight bout, closed the main card.
 
 | Segment | Bout | Division |
 |---|---|---|
@@ -142,9 +160,9 @@ UFC's event page lists 12 bouts, checked Oct. 26. Moicano vs. Nolan, a lightweig
 
 This story gives no odds or predictions.
 
-## Does UFC clash with Halloween night?
+## UFC on Halloween night
 
-Yes, in part. Oct. 31 is Halloween, so the prelims and the main card fall on trick-or-treat night. See our story on [Halloween 2026 sunset and trick-or-treat times](/news/halloween-2026-saturday-sunset-trick-or-treat-times/) for local hours. U.S. clocks fall back at 2 a.m. on Sunday, Nov. 1, after the event; our [daylight saving time story](/news/daylight-saving-time-ends-november-1-2026/) has the details.
+Oct. 31 was Halloween, so the prelims and the main card fell on trick-or-treat night. See our story on [Halloween 2026 sunset and trick-or-treat times](/news/halloween-2026-saturday-sunset-trick-or-treat-times/) for local hours. U.S. clocks fell back at 2 a.m. on Sunday, Nov. 1, after the event; our [daylight saving time story](/news/daylight-saving-time-ends-november-1-2026/) has the details.
 
 ## Free UFC Halloween 2026 start-time sheet
 

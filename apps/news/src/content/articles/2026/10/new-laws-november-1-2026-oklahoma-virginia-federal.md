@@ -4,7 +4,7 @@ seoTitle: "New Laws in Effect Nov. 1, 2026: Oklahoma and More"
 description: "Oklahoma has most of the laws that took effect Sunday, Nov. 1, 2026, per state agency pages. Table of 13 laws, the collision report change and a printable."
 type: news
 publishedAt: "2026-10-31T15:45:00-04:00"
-updatedAt: "2026-11-01T15:20:00-05:00"
+updatedAt: "2026-11-01T15:21:00-05:00"
 authors: [alex-morgan]
 category: planning
 keywords: ["new laws november 1 2026", "new oklahoma laws november 1 2026", "laws taking effect november 1", "oklahoma collision report 3000"]

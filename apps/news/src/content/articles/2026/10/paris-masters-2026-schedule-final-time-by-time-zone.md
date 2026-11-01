@@ -4,7 +4,7 @@ seoTitle: "Paris Masters 2026 Schedule and Final Time by Zone"
 description: "The Rolex Paris Masters runs Oct. 31 to Nov. 8, 2026; the singles final starts at 3 p.m. Central European Time (CET), 9 a.m. Eastern Time (ET)."
 type: news
 publishedAt: "2026-10-27T11:55:00-04:00"
-updatedAt: "2026-10-29T15:50:00-04:00"
+updatedAt: "2026-11-01T15:21:00-05:00"
 authors: [jordan-bennett]
 category: sports
 keywords: ["paris masters 2026 schedule", "rolex paris masters 2026 final time", "paris masters 2026 dates", "paris masters order of play times"]
@@ -22,8 +22,8 @@ hero:
 summary:
   - "The Rolex Paris Masters runs Saturday, Oct. 31 to Sunday, Nov. 8, 2026, its 40th anniversary edition, at the Plenitude Arena in Nanterre, the tournament says."
   - "The provisional programme has the singles final starting at 3 p.m. Paris time on Sunday, Nov. 8, which is 9 a.m. EST by our conversion."
-  - "U.S. clocks fall back at 2 a.m. on Sunday, Nov. 1, so Paris is 5 hours ahead of Eastern Time on Oct. 31 and 6 hours ahead from Nov. 1."
-  - "The singles draw ceremony is on Friday, Oct. 30 from 6:30 p.m. Paris time (1:30 p.m. EDT), the tournament's Oct. 29 schedule says; no broadcaster list or 2026 prize money is published yet."
+  - "Alexander Zverev is the top seed, ahead of Carlos Alcaraz, Ben Shelton and Daniil Medvedev, on the Association of Tennis Professionals (ATP) draw; main-draw play runs Nov. 2-8."
+  - "U.S. clocks fell back at 2 a.m. on Sunday, Nov. 1, so Paris is now 6 hours ahead of Eastern Time, after 5 hours on Oct. 31."
 faq:
   - q: "What are the Paris Masters 2026 dates?"
     a: "Saturday, Oct. 31 to Sunday, Nov. 8, 2026, at the Plenitude Arena in Nanterre, according to the Rolex Paris Masters."
@@ -36,6 +36,10 @@ faq:
   - q: "What channel shows the Paris Masters in the U.S. or U.K.?"
     a: "The tournament has not published a broadcaster list on the pages we read. Check your local listings."
 sources:
+  - title: "Paris Draws"
+    url: "https://www.atptour.com/en/scores/current/paris/352/draws"
+    publisher: "ATP Tour"
+    date: "2026-11-01"
   - title: "Rolex Paris Masters ticketing: celebrate the tournament's 40th anniversary!"
     url: "https://www.rolexparismasters.com/en/news/article/2026-rolex-paris-masters-ticketing-tickets-40th-anniversary"
     publisher: "Rolex Paris Masters"
@@ -107,8 +111,6 @@ assets:
 draft: false
 ---
 
-<p class="callout"><b>Last updated Oct. 29, 2026, 3:50 p.m. ET.</b> The tournament published its full schedule on Oct. 29. The singles draw ceremony is on Friday, Oct. 30 from 6:30 p.m. Paris time, which is 5:30 p.m. Greenwich Mean Time (GMT), 1:30 p.m. Eastern Daylight Time (EDT) and 10:30 a.m. Pacific Daylight Time (PDT). The singles final stays at 3 p.m. Paris time on Sunday, Nov. 8, after the doubles final at 12:30 p.m. We will add the draw once the tournament publishes it.</p>
-
 **The Rolex Paris Masters runs Saturday, Oct. 31 to Sunday, Nov. 8, 2026, and its provisional programme puts the singles final at 3 p.m. Paris time on Sunday, which is 9 a.m. Eastern Standard Time (EST), the tournament says.** Paris time here is Central European Time (CET), Coordinated Universal Time (UTC) plus 1 hour. This is the 40th anniversary edition, held at the Plenitude Arena in Nanterre. The U.S. columns below are our conversion, and the programme is labeled provisional ("programme prévisionnel").
 
 ## What is the Paris Masters 2026 schedule?
@@ -130,6 +132,23 @@ The tournament's ticketing site lists doors and start times for each session. Ea
 | Singles final, Sun., Nov. 8 | 3 p.m. | 2 p.m. | 9 a.m. | 8 a.m. | 6 a.m. |
 
 From Nov. 1 onward the U.S. zones are on standard time: EST, Central Standard Time (CST) and Pacific Standard Time (PST). The Oct. 31 row is on Eastern Daylight Time (EDT), Central Daylight Time (CDT) and Pacific Daylight Time (PDT). For Monday to Thursday, the programme gives doors at 10 a.m. and arena access for the night session not before 6:30 p.m. The main draw starts Monday, Nov. 2. Qualifying start times are not listed.
+
+## Who are the Paris Masters 2026 seeds?
+
+The main draw is out, and qualifying finished over the weekend. The Association of Tennis Professionals (ATP) draw page, checked Nov. 1, lists the singles seeds:
+
+| Seed | Player | Seed | Player |
+|---|---|---|---|
+| 1 | Alexander Zverev | 9 | Rafael Jodar |
+| 2 | Carlos Alcaraz | 10 | Novak Djokovic |
+| 3 | Ben Shelton | 11 | Taylor Fritz |
+| 4 | Daniil Medvedev | 12 | Tommy Paul |
+| 5 | Flavio Cobolli | 13 | Alejandro Davidovich Fokina |
+| 6 | Arthur Fils | 14 | Brandon Nakashima |
+| 7 | Frances Tiafoe | 15 | Learner Tien |
+| 8 | Alex de Minaur | 16 | Francisco Cerundolo |
+
+Main-draw matches start Monday, Nov. 2. The singles draw ceremony was held on Friday, Oct. 30 from 6:30 p.m. Paris time (1:30 p.m. EDT).
 
 ## What time is the Paris Masters 2026 final?
 
@@ -153,7 +172,7 @@ As of the Oct. 13 entry list, the field includes Alexander Zverev, Carlos Alcara
 
 The 2026 prize money is not yet published on the official pages we could read. In 2025, the Association of Tennis Professionals (ATP) listed total prize money of €6,128,940, a singles champion's prize of €946,610 and 1,000 ranking points for the winner.
 
-The tournament has not published a broadcaster list for the United States or United Kingdom, Check your local listings. The singles draw ceremony is on Friday, Oct. 30 from 6:30 p.m. Paris time (1:30 p.m. EDT), according to the schedule the tournament published on Oct. 29.
+The tournament has not published a broadcaster list for the United States or United Kingdom, Check your local listings.
 
 ## Free Paris Masters 2026 daily schedule
 

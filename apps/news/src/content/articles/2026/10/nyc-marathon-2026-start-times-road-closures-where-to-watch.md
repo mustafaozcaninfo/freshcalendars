@@ -1,12 +1,13 @@
 ---
-title: "NYC Marathon 2026: Start Times, TV Schedule, Road Closures and Where to Watch on Nov. 1"
-seoTitle: "NYC Marathon 2026: Start Times, TV, Road Closures"
-description: "The 2026 New York City Marathon runs Sunday, Nov. 1. Wave 1 starts at 9:10 a.m. Eastern Time (ET). Start times, TV, road closures and where to watch."
+title: "NYC Marathon 2026 Results: Almgren and Chepkirui Win, Plus Start Times, TV and Road Closures"
+seoTitle: "NYC Marathon 2026 Results: Winners and Times"
+description: "Andreas Almgren and Sheila Chepkirui won the New York City Marathon on Sunday, Nov. 1, 2026. Winners, times, start times, TV and road closures for race day."
 type: news
 publishedAt: "2026-10-24T13:05:00-04:00"
+updatedAt: "2026-11-01T15:21:00-05:00"
 authors: [jordan-bennett]
 category: sports
-keywords: ["NYC Marathon 2026 start times", "where to watch NYC Marathon 2026", "NYC Marathon road closures 2026", "NYC Marathon TV channel 2026", "NYC Marathon course change Bronx"]
+keywords: ["NYC Marathon 2026 results", "NYC Marathon 2026 start times", "where to watch NYC Marathon 2026", "NYC Marathon road closures 2026", "NYC Marathon TV channel 2026"]
 dateline: "New York"
 assets:
   scene: calendar
@@ -50,22 +51,32 @@ hero:
     author: "Metropolitan Transportation Authority of the State of New York"
     authorUrl: "https://www.flickr.com/people/61135621@N03"
 summary:
-  - "The 2026 TCS New York City Marathon is Sunday, Nov. 1, over 26.2 miles through the five boroughs."
-  - "Professional wheelchair racers start at 8:00 a.m. Eastern Time (ET); the professional runners follow at 8:35 and 9:05 a.m.; the five amateur waves start from 9:10 to 11:30 a.m."
-  - "WABC-TV Channel 7 and ESPN2 carry the race live from 8:00 to 11:30 a.m. ET, with an ABC Network finish-line show from 3:00 to 5:00 p.m."
-  - "Clocks fall back one hour the same morning, and the New York City Police Department (NYPD) closes streets along the course; 2026 street-by-street closure times are not yet published."
+  - "Andreas Almgren of Sweden won the men's race and Sheila Chepkirui of Kenya the women's race at the 2026 New York City Marathon on Sunday, Nov. 1, CBS New York and ABC7 New York reported."
+  - "ABC7 gave their times as 2:06:01 and 2:24:36; official results from New York Road Runners (NYRR) were not yet readable when we checked."
+  - "Marcel Hug and Catherine Debrunner, both of Switzerland, won the wheelchair races; ABC7 called it Hug's eighth New York title."
+  - "The professional wheelchair racers had started at 8:00 a.m. Eastern Time (ET), the professional runners at 8:35 and 9:05 a.m., and the five amateur waves from 9:10 to 11:30 a.m."
 faq:
-  - q: "What time does the NYC Marathon start in 2026?"
-    a: "The professional wheelchair divisions start at 8:00 and 8:02 a.m. Eastern Time on Sunday, Nov. 1, 2026. The professional women start at 8:35 a.m. and the professional men at 9:05 a.m. The five amateur waves start at 9:10, 9:45, 10:20, 10:55 and 11:30 a.m. New York Road Runners notes that start times are subject to change."
+  - q: "Who won the NYC Marathon 2026?"
+    a: "Andreas Almgren of Sweden won the men's race and Sheila Chepkirui of Kenya the women's race on Sunday, Nov. 1, 2026, CBS New York and ABC7 New York reported. Marcel Hug and Catherine Debrunner of Switzerland won the wheelchair races."
+  - q: "What time did the NYC Marathon start in 2026?"
+    a: "The professional wheelchair divisions started at 8:00 and 8:02 a.m. Eastern Time on Sunday, Nov. 1, 2026. The professional women started at 8:35 a.m. and the professional men at 9:05 a.m. The five amateur waves started at 9:10, 9:45, 10:20, 10:55 and 11:30 a.m., according to New York Road Runners."
   - q: "What channel is the NYC Marathon on in 2026?"
     a: "Locally, WABC-TV Channel 7 airs the race live from 8:00 to 11:30 a.m. ET, with pre-race coverage from 7:00 a.m. and continued coverage until 1:00 p.m. Nationally, ESPN2 carries it from 8:00 to 11:30 a.m. ET, and ABC Network airs a two-hour finish-line show from 3:00 to 5:00 p.m. A Spanish-language stream runs on ESPN3."
   - q: "Where can I watch the NYC Marathon in person?"
     a: "Most of the course is open to spectators from mile 3 to mile 26. There is no viewing at the start or on the Verrazzano-Narrows Bridge, and spectators are not allowed on any bridge on the course. New York Road Runners suggests Fourth Avenue in Brooklyn, First Avenue in Manhattan and Fifth Avenue near Central Park, and recommends the subway to get between spots."
-  - q: "What roads are closed for the NYC Marathon 2026?"
-    a: "The New York Police Department closes streets along the course on Sunday, Nov. 1, starting early in the morning for setup. The 2026 street-by-street closure times are not yet published. In 2025 the Metropolitan Transportation Authority closed the Verrazzano-Narrows Bridge to non-emergency traffic from 7:00 a.m. to 4:00 p.m. on race day."
+  - q: "What roads were closed for the NYC Marathon 2026?"
+    a: "The New York Police Department closed streets along the course on Sunday, Nov. 1, starting early in the morning for setup. NYRR did not publish 2026 street-by-street closure times on the pages we checked. In 2025 the Metropolitan Transportation Authority closed the Verrazzano-Narrows Bridge to non-emergency traffic from 7:00 a.m. to 4:00 p.m. on race day."
   - q: "Did the NYC Marathon course change for 2026?"
     a: "Yes. After the Willis Avenue Bridge, runners now turn onto East 141st Street and Third Avenue before reaching the Madison Avenue Bridge, rather than using East 138th Street directly. New York Road Runners calls it the first course change in 15 years, made to reduce the race's impact on the Bronx as the five-borough course marks its 50th anniversary."
 sources:
+  - title: "Kenya's Sheila Chepkirui, Sweden's Andreas Almgren win 2026 NYC Marathon"
+    url: "https://www.cbsnews.com/newyork/news/nyc-marathon-2026-runners-winners/"
+    publisher: "CBS New York"
+    date: "2026-11-01"
+  - title: "NYC Marathon 2026"
+    url: "https://abc7ny.com/post/nyc-marathon-record-field-expected-50th-anniversary-run/20004692/"
+    publisher: "ABC7 New York"
+    date: "2026-11-01"
   - title: "The Start"
     url: "https://www.nyrr.org/tcsnycmarathon/the-start"
     publisher: "New York Road Runners"
@@ -110,13 +121,26 @@ downloads:
 draft: false
 ---
 
-The 2026 New York City Marathon runs on Sunday, Nov. 1, over 26.2 miles through all five boroughs, and the professional wheelchair racers start first at 8:00 a.m. Eastern Time (ET). The first amateur wave starts at 9:10 a.m. These times come from New York Road Runners (NYRR), the organizer, which notes on its race pages that start times are subject to change.
+**Andreas Almgren of Sweden won the men's race and Sheila Chepkirui of Kenya won the women's race at the 2026 New York City Marathon on Sunday, Nov. 1, CBS New York and ABC7 New York reported.** ABC7 gave Almgren's time as 2 hours, 6 minutes and 1 second and Chepkirui's as 2:24:36. The 26.2-mile race through all five boroughs started with the professional wheelchair fields at 8:00 a.m. Eastern Time (ET), on the morning daylight saving time ended.
 
-One detail makes the morning easier to miss: daylight saving time ends at 2:00 a.m. the same day, so clocks fall back to 1:00 a.m. and runners gain an hour of sleep. Every time below is after that change.
+## NYC Marathon 2026 winners
+
+The organizer, New York Road Runners (NYRR), had not posted readable official results when we checked on Sunday afternoon; its results pages sent visitors to a waiting room. The winners below are as CBS New York and ABC7 New York reported them, with times from ABC7. Other outlets gave times one second apart, so treat the seconds as unofficial until NYRR publishes.
+
+| Race | Winner | Time reported |
+|---|---|---|
+| Men's open | Andreas Almgren, Sweden | 2:06:01 |
+| Women's open | Sheila Chepkirui, Kenya | 2:24:36 |
+| Men's wheelchair | Marcel Hug, Switzerland | Not yet official |
+| Women's wheelchair | Catherine Debrunner, Switzerland | Not yet official |
+
+ABC7 said the win was Hug's eighth in New York. The rest of this page lists the race-day schedule as NYRR published it, which also helps anyone planning for 2027.
+
+Daylight saving time ended at 2:00 a.m. that morning, so clocks fell back to 1:00 a.m. and runners gained an hour of sleep. Every time below is after that change.
 
 ## Start times, wave by wave
 
-Runners leave Staten Island in staggered groups. The professional and wheelchair fields go first, then five numbered amateur waves.
+Runners left Staten Island in staggered groups. The professional and wheelchair fields went first, then five numbered amateur waves.
 
 | Start | Time (ET) |
 |---|---|
@@ -169,9 +193,9 @@ To follow one person, friends and family can track runners in the New York Road 
 
 ## Road closures on Nov. 1
 
-The NYPD closes streets along the course on Sunday, Nov. 1, with closures starting early in the morning for setup. Unsanctioned bicycles and other unauthorized activity are barred from the course while it is closed. NYRR has not yet published the 2026 street-by-street closure times, so check back closer to race day.
+The NYPD closed streets along the course on Sunday, Nov. 1, starting early in the morning for setup, and barred unsanctioned bicycles and other unauthorized activity from the course while it was closed. NYRR did not publish 2026 street-by-street closure times on the pages we checked.
 
-For scale, the MTA said that in 2025 the Verrazzano-Narrows Bridge closed to non-emergency traffic from 7:00 a.m. to 4:00 p.m. on race day, with the upper level shut in both directions from 11:00 p.m. the night before. Those are 2025 figures; the 2026 details are not yet announced.
+For scale, the MTA said that in 2025 the Verrazzano-Narrows Bridge closed to non-emergency traffic from 7:00 a.m. to 4:00 p.m. on race day, with the upper level shut in both directions from 11:00 p.m. the night before. Those are 2025 figures.
 
 ## A new turn in the Bronx
 
@@ -183,4 +207,4 @@ NYRR calls it the first course change in 15 years, made to reduce the race's imp
 
 NYRR builds its pace schedule around 16-minute miles from the Wave 5 start, and sweep buses follow at roughly that pace. Runners who finish through 10:00 p.m. ET are official finishers: they receive a medal, an official result and credit toward a 2027 entry. Anyone finishing after 10:00 p.m. receives a medal only. Unclaimed bags left after 7:00 p.m. go to the NYRR RunCenter for pickup on Monday, Nov. 2, from 9:00 a.m. to 8:00 p.m.
 
-Because the time change lands on race morning, it is worth setting a backup alarm. The [daylight saving time change on Nov. 1](/news/daylight-saving-time-ends-november-1-2026/) runs on the same clocks the marathon does. For the rest of the month, see our [November 2026 printable calendar](/november-calendars.html) and the full list in [November 2026 important dates](/news/november-2026-important-dates-days-until/).
+The time change landed on race morning; our story on the [daylight saving time change on Nov. 1](/news/daylight-saving-time-ends-november-1-2026/) explains it. For the rest of the month, see our [November 2026 printable calendar](/november-calendars.html) and the full list in [November 2026 important dates](/news/november-2026-important-dates-days-until/).
