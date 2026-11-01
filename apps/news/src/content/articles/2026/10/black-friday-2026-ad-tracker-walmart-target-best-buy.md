@@ -4,7 +4,7 @@ seoTitle: "Black Friday 2026 Deals: Nov. 27 Date and Countdown"
 description: "Black Friday 2026 is Friday, Nov. 27. Walmart's Black Friday Deals run Nov. 23 to 29 and Target's early deals Nov. 5 to 7. Live countdown and ad tracker."
 type: news
 publishedAt: "2026-10-23T15:05:00-04:00"
-updatedAt: "2026-11-01T05:36:00-05:00"
+updatedAt: "2026-11-01T12:50:00-05:00"
 authors: [jordan-bennett]
 category: retail-dates
 keywords: ["black friday 2026 deals", "how many days until black friday 2026", "what date is black friday 2026", "Walmart Black Friday ad 2026", "Target Black Friday 2026"]
@@ -96,6 +96,10 @@ sources:
     url: "https://consumer.ftc.gov/consumer-alerts/2025/11/how-avoid-online-shopping-scam-holiday-season"
     publisher: "Federal Trade Commission"
     date: "2025-11-25"
+  - title: "Black Friday: Holiday Savings Valid Nov. 27 - Nov. 30"
+    url: "https://www.costco.com/o/-/black-friday"
+    publisher: "Costco Wholesale"
+    date: "2026-11-01"
 internalLinks:
   - href: "/november-calendars.html"
     label: "November 2026 printable calendar"
@@ -170,7 +174,7 @@ Amazon held its Prime Big Deal Days on Oct. 6 and 7, 2026, and Target ran its Ci
 | Walmart | Announced Oct. 26: Early Black Friday Deals Nov. 12 to 15; Black Friday Deals Nov. 23 to 29; Cyber Monday Nov. 30 to Dec. 2 | Announced Oct. 27, 2025: events Nov. 14 to 16 and Nov. 25 to 30, Cyber Monday Dec. 1 |
 | Best Buy | Announced Oct. 27: DoorBOOsters Oct. 30; Early Black Friday Deals from Nov. 6; Black Friday deals from Nov. 19 (10 days); Cyber Week Dec. 1 to 6; Last-Minute Savings Dec. 18 to 24 | Not confirmed here |
 | Amazon | Prime Big Deal Days held Oct. 6 to 7, 2026; Black Friday week not announced | Not confirmed here |
-| Costco | Not yet announced | Not confirmed here |
+| Costco | Holiday savings valid Nov. 27 to 30; pre-Thanksgiving savings Nov. 16 to 30; warehouses closed Nov. 26 ([our Costco guide](/news/costco-black-friday-2026-dates-november-27-30-pre-thanksgiving-savings-november-16/)) | Holiday savings Nov. 28 to Dec. 1, 2025 |
 | Home Depot | Holiday savings start Oct. 29; no Black Friday event dates yet | Not confirmed here |
 | Lowe's | Announced Oct. 8: Black Friday deals from Oct. 29; 12 Days of Deals from Nov. 16; stores closed Thanksgiving Day; Doorbusters Nov. 27 ([our Lowe's guide](/news/lowes-black-friday-2026-deals-start-october-29-12-days-of-deals-november-16/)) | Not confirmed here |
 | Kohl's | Not yet announced | Not confirmed here |

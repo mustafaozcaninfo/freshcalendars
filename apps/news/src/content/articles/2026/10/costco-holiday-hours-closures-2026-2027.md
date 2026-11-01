@@ -43,7 +43,7 @@ internalLinks:
     label: "When is Black Friday"
   - href: "/when-is/easter/"
     label: "When is Easter"
-related: [usps-holiday-shipping-deadlines-2026, why-thanksgiving-2026-is-november-26, lego-advent-calendars-2026-prices-whats-inside]
+related: [usps-holiday-shipping-deadlines-2026, why-thanksgiving-2026-is-november-26, costco-black-friday-2026-dates-november-27-30-pre-thanksgiving-savings-november-16]
 draft: false
 ---
 
