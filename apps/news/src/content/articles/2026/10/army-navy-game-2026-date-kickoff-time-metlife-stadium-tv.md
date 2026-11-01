@@ -56,7 +56,7 @@ internalLinks:
     label: "When is Christmas Day?"
   - href: "/december-calendars.html"
     label: "December 2026 printable calendar"
-related: [college-football-playoff-rankings-2026-schedule-dates-times, thanksgiving-football-schedule-2026-nfl-college-games]
+related: [college-football-playoff-rankings-2026-schedule-dates-times, college-football-rivalry-week-2026-iron-bowl-the-game-egg-bowl-times-tv, college-football-bowl-schedule-2026-27-dates-times-tv-cfp]
 assets:
   overlay: true
   kicker: "Army-Navy Game 2026 · Sat., Dec. 12"

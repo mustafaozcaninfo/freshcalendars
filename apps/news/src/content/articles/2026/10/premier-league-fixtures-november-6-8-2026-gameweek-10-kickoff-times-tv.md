@@ -80,7 +80,7 @@ internalLinks:
     label: "November 2026 printable calendar"
   - href: "/printable-weekly-calendar.html"
     label: "printable weekly calendar"
-related: [premier-league-fixtures-this-weekend-october-31-november-2-2026-kickoff-times-tv, fpl-deadlines-2026-27-every-gameweek-deadline-time-uk-us-chip-dates, soccer-on-tv-this-weekend-october-30-november-2-2026-us-channels]
+related: [premier-league-fixtures-this-weekend-october-31-november-2-2026-kickoff-times-tv, soccer-on-tv-this-weekend-october-30-november-2-2026-us-channels, europa-league-conference-league-november-2026-schedule-kickoff-times-et]
 downloads:
   - group: "Premier League Gameweek 10 Fixtures printables"
     title: "Premier League Gameweek 10 Fixtures, Nov. 6-8, 2026"

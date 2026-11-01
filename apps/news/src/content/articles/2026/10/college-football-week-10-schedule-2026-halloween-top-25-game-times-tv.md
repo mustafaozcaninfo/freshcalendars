@@ -112,7 +112,7 @@ downloads:
     pdf: "/news/downloads/college-football-week-10-2026/college-football-week-10-pick-em-sheet-2026-ink.pdf"
     png: "/news/downloads/college-football-week-10-2026/college-football-week-10-pick-em-sheet-2026-ink.png"
     pages: 1
-related: [college-football-playoff-rankings-2026-schedule-dates-times, college-football-conference-championship-games-2026-schedule-times-tv, daylight-saving-time-halloween-2026-clocks-fall-back-night-after-every-year]
+related: [college-football-playoff-rankings-2026-schedule-dates-times, college-football-conference-championship-games-2026-schedule-times-tv, college-football-week-11-schedule-2026-miami-notre-dame-game-times-tv]
 draft: false
 ---
 

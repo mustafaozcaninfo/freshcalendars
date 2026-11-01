@@ -97,7 +97,7 @@ internalLinks:
     label: "November 2026 printable calendar"
   - href: "/march-calendars.html"
     label: "March 2027 printable calendar"
-related: [nba-cup-2026-schedule-dates-group-play-knockouts-final-indianapolis, college-football-playoff-rankings-2026-schedule-dates-times, thanksgiving-football-schedule-2026-nfl-college-games]
+related: [college-basketball-opening-night-2026-top-25-games-times-tv-champions-classic, nba-cup-2026-schedule-dates-group-play-knockouts-final-indianapolis, college-football-playoff-rankings-2026-schedule-dates-times]
 downloads:
   - group: "College Basketball Key Dates 2026-27 printables"
     title: "College Basketball Key Dates 2026-27"

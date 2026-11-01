@@ -91,7 +91,7 @@ internalLinks:
     label: "November 2026 printable calendar"
   - href: "/printable-weekly-calendar.html"
     label: "Printable weekly calendar"
-related: [carabao-cup-fourth-round-2026-schedule-kickoff-times-tv-us-uk, fa-cup-first-round-2026-27-fixtures-tv-picks-kickoff-times, nfl-international-games-november-2026-madrid-munich-mexico-city-kickoff-times]
+related: [carabao-cup-fourth-round-2026-schedule-kickoff-times-tv-us-uk, fa-cup-first-round-2026-27-fixtures-tv-picks-kickoff-times, europa-league-conference-league-november-2026-schedule-kickoff-times-et]
 draft: false
 downloads:
   - group: "Champions League November 2026 Schedule in ET printables"

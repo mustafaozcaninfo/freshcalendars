@@ -112,7 +112,7 @@ internalLinks:
     label: "December 2026 printable calendar"
   - href: "/january-calendars.html"
     label: "January 2027 printable calendar"
-related: [college-football-playoff-rankings-2026-schedule-dates-times, thanksgiving-football-schedule-2026-nfl-college-games, college-basketball-2026-27-key-dates-season-start-march-madness-printable]
+related: [college-football-playoff-rankings-2026-schedule-dates-times, thanksgiving-football-schedule-2026-nfl-college-games, college-football-bowl-schedule-2026-27-dates-times-tv-cfp]
 draft: false
 downloads:
   - group: "Conference Championship Games 2026 and CFP Dates printables"

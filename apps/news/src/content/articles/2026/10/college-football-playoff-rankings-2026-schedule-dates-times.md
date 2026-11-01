@@ -85,7 +85,7 @@ internalLinks:
     label: "December 2026 printable calendar"
   - href: "/january-calendars.html"
     label: "January 2027 printable calendar"
-related: [thanksgiving-football-schedule-2026-nfl-college-games, printable-nfl-schedule-2026-2027-pdf, world-series-2026-schedule-game-times-tv-channel]
+related: [thanksgiving-football-schedule-2026-nfl-college-games, printable-nfl-schedule-2026-2027-pdf, college-football-week-11-schedule-2026-miami-notre-dame-game-times-tv]
 downloads:
   - group: "College Football Playoff 2026-27 Schedule printables"
     title: "College Football Playoff 2026-27 Schedule"
