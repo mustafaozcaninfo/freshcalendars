@@ -1,0 +1,117 @@
+NFL schedule sync, 2026-11-01T07:46:05.229Z (written)
+Sources: ESPN scoreboard feed (18 weeks, 272 games); club schedule pages (248 games confirmed by at least one club).
+
+Kickoff changes confirmed by a club site (1):
+  Week 9: Las Vegas Raiders at San Francisco 49ers: Sun., Nov. 8 4:05 p.m. ET (CBS) -> Sun., Nov. 8 4:25 p.m. ET (FOX) [raiders.com, ESPN]
+
+Final scores added (108):
+  Week 1: New England Patriots at Seattle Seahawks: 10-13
+  Week 1: San Francisco 49ers at Los Angeles Rams: 27-7
+  Week 1: Atlanta Falcons at Pittsburgh Steelers: 13-20
+  Week 1: Baltimore Ravens at Indianapolis Colts: 41-23
+  Week 1: Buffalo Bills at Houston Texans: 36-31
+  Week 1: Chicago Bears at Carolina Panthers: 59-37
+  Week 1: Cleveland Browns at Jacksonville Jaguars: 10-34
+  Week 1: New Orleans Saints at Detroit Lions: 30-31
+  Week 1: New York Jets at Tennessee Titans: 23-10
+  Week 1: Tampa Bay Buccaneers at Cincinnati Bengals: 27-33
+  Week 1: Arizona Cardinals at Los Angeles Chargers: 26-14
+  Week 1: Green Bay Packers at Minnesota Vikings: 22-39
+  Week 1: Miami Dolphins at Las Vegas Raiders: 13-27
+  Week 1: Washington Commanders at Philadelphia Eagles: 22-24
+  Week 1: Dallas Cowboys at New York Giants: 20-28
+  Week 1: Denver Broncos at Kansas City Chiefs: 10-31
+  Week 2: Detroit Lions at Buffalo Bills: 31-41
+  Week 2: Carolina Panthers at Atlanta Falcons: 34-3
+  Week 2: Cincinnati Bengals at Houston Texans: 20-6
+  Week 2: Cleveland Browns at Tampa Bay Buccaneers: 23-19
+  Week 2: Green Bay Packers at New York Jets: 20-17
+  Week 2: Minnesota Vikings at Chicago Bears: 9-3
+  Week 2: New Orleans Saints at Baltimore Ravens: 24-17
+  Week 2: Philadelphia Eagles at Tennessee Titans: 24-20
+  Week 2: Pittsburgh Steelers at New England Patriots: 3-20
+  Week 2: Jacksonville Jaguars at Denver Broncos: 13-20
+  Week 2: Las Vegas Raiders at Los Angeles Chargers: 26-14
+  Week 2: Miami Dolphins at San Francisco 49ers: 13-35
+  Week 2: Seattle Seahawks at Arizona Cardinals: 31-7
+  Week 2: Washington Commanders at Dallas Cowboys: 20-37
+  Week 2: Indianapolis Colts at Kansas City Chiefs: 30-33
+  Week 2: New York Giants at Los Angeles Rams: 6-28
+  Week 3: Atlanta Falcons at Green Bay Packers: 35-14
+  Week 3: Carolina Panthers at Cleveland Browns: 18-21
+  Week 3: Cincinnati Bengals at Pittsburgh Steelers: 27-30
+  Week 3: Houston Texans at Indianapolis Colts: 17-19
+  Week 3: Kansas City Chiefs at Miami Dolphins: 24-10
+  Week 3: Los Angeles Chargers at Buffalo Bills: 16-24
+  Week 3: New England Patriots at Jacksonville Jaguars: 6-35
+  Week 3: New York Jets at Detroit Lions: 24-31
+  Week 3: Seattle Seahawks at Washington Commanders: 31-33
+  Week 3: Tennessee Titans at New York Giants: 7-12
+  Week 3: Arizona Cardinals at San Francisco 49ers: 30-36
+  Week 3: Minnesota Vikings at Tampa Bay Buccaneers: 23-16
+  Week 3: Baltimore Ravens at Dallas Cowboys: 34-31
+  Week 3: Las Vegas Raiders at New Orleans Saints: 35-27
+  Week 3: Los Angeles Rams at Denver Broncos: 26-30
+  Week 3: Philadelphia Eagles at Chicago Bears: 7-27
+  Week 4: Pittsburgh Steelers at Cleveland Browns: 24-27
+  Week 4: Indianapolis Colts at Washington Commanders: 30-13
+  Week 4: Arizona Cardinals at New York Giants: 24-36
+  Week 4: Dallas Cowboys at Houston Texans: 34-30
+  Week 4: Green Bay Packers at Tampa Bay Buccaneers: 17-14
+  Week 4: Jacksonville Jaguars at Cincinnati Bengals: 22-17
+  Week 4: Los Angeles Rams at Philadelphia Eagles: 24-20
+  Week 4: New England Patriots at Buffalo Bills: 29-26
+  Week 4: New York Jets at Chicago Bears: 12-23
+  Week 4: Tennessee Titans at Baltimore Ravens: 18-24
+  Week 4: Miami Dolphins at Minnesota Vikings: 10-15
+  Week 4: Denver Broncos at San Francisco 49ers: 14-24
+  Week 4: Kansas City Chiefs at Las Vegas Raiders: 30-27
+  Week 4: Los Angeles Chargers at Seattle Seahawks: 23-30
+  Week 4: Detroit Lions at Carolina Panthers: 26-32
+  Week 4: Atlanta Falcons at New Orleans Saints: 45-24
+  Week 5: Tampa Bay Buccaneers at Dallas Cowboys: 24-16
+  Week 5: Philadelphia Eagles at Jacksonville Jaguars: 17-19
+  Week 5: Chicago Bears at Green Bay Packers: 7-31
+  Week 5: Cincinnati Bengals at Miami Dolphins: 31-24
+  Week 5: Cleveland Browns at New York Jets: 12-17
+  Week 5: Houston Texans at Tennessee Titans: 26-3
+  Week 5: Indianapolis Colts at Pittsburgh Steelers: 22-34
+  Week 5: Las Vegas Raiders at New England Patriots: 17-45
+  Week 5: Minnesota Vikings at New Orleans Saints: 23-13
+  Week 5: New York Giants at Washington Commanders: 27-27
+  Week 5: Denver Broncos at Los Angeles Chargers: 23-17
+  Week 5: Detroit Lions at Arizona Cardinals: 45-21
+  Week 5: San Francisco 49ers at Seattle Seahawks: 32-29
+  Week 5: Baltimore Ravens at Atlanta Falcons: 30-23
+  Week 5: Buffalo Bills at Los Angeles Rams: 37-34
+  Week 6: Seattle Seahawks at Denver Broncos: 14-17
+  Week 6: Houston Texans at Jacksonville Jaguars: 34-31
+  Week 6: Baltimore Ravens at Cleveland Browns: 10-13
+  Week 6: Carolina Panthers at Philadelphia Eagles: 25-14
+  Week 6: Chicago Bears at Atlanta Falcons: 31-23
+  Week 6: New Orleans Saints at New York Giants: 34-27
+  Week 6: New York Jets at New England Patriots: 19-26
+  Week 6: Pittsburgh Steelers at Tampa Bay Buccaneers: 26-19
+  Week 6: Tennessee Titans at Indianapolis Colts: 26-20
+  Week 6: Arizona Cardinals at Los Angeles Rams: 18-16
+  Week 6: Buffalo Bills at Las Vegas Raiders: 33-30
+  Week 6: Los Angeles Chargers at Kansas City Chiefs: 6-22
+  Week 6: Dallas Cowboys at Green Bay Packers: 13-23
+  Week 6: Washington Commanders at San Francisco 49ers: 17-23
+  Week 7: New England Patriots at Chicago Bears: 24-30
+  Week 7: Pittsburgh Steelers at New Orleans Saints: 16-10
+  Week 7: Cincinnati Bengals at Baltimore Ravens: 35-13
+  Week 7: Cleveland Browns at Tennessee Titans: 27-24
+  Week 7: Indianapolis Colts at Minnesota Vikings: 10-16
+  Week 7: Miami Dolphins at New York Jets: 28-25
+  Week 7: New York Giants at Houston Texans: 27-21
+  Week 7: San Francisco 49ers at Atlanta Falcons: 20-29
+  Week 7: Tampa Bay Buccaneers at Carolina Panthers: 43-13
+  Week 7: Denver Broncos at Arizona Cardinals: 30-16
+  Week 7: Green Bay Packers at Detroit Lions: 17-20
+  Week 7: Los Angeles Rams at Las Vegas Raiders: 35-21
+  Week 7: Kansas City Chiefs at Seattle Seahawks: 3-20
+  Week 7: Dallas Cowboys at Philadelphia Eagles: 38-21
+  Week 8: Carolina Panthers at Green Bay Packers: 19-27
+
+Differences not applied (0):

@@ -4,6 +4,7 @@ seoTitle: "NFL Week 9 Schedule 2026: Times and Pick'em Sheet"
 description: "National Football League (NFL) Week 9: 15 games, Thu., Nov. 5 to Mon., Nov. 9, 2026, with Eastern Time (ET) kickoffs, TV channels and a printable pick'em sheet."
 type: news
 publishedAt: "2026-10-29T03:43:00-04:00"
+updatedAt: "2026-11-01T02:50:00-05:00"
 authors: [jordan-bennett]
 category: sports
 keywords: ["NFL Week 9 schedule 2026", "NFL Week 9 pick em sheet printable", "NFL Week 9 game times TV", "Bengals Falcons Madrid time"]
@@ -30,8 +31,8 @@ assets:
       - ["Sun., Nov. 8 · 1:00 p.m.", "Giants at Eagles (FOX)  Pick: ______  Score: ______"]
       - ["Sun., Nov. 8 · 1:00 p.m.", "Jets at Chiefs (CBS)  Pick: ______  Score: ______"]
       - ["Sun., Nov. 8 · 4:05 p.m.", "Texans at Chargers (CBS)  Pick: ______  Score: ______"]
-      - ["Sun., Nov. 8 · 4:05 p.m.", "Raiders at 49ers (CBS)  Pick: ______  Score: ______"]
       - ["Sun., Nov. 8 · 4:25 p.m.", "Cardinals at Seahawks (FOX)  Pick: ______  Score: ______"]
+      - ["Sun., Nov. 8 · 4:25 p.m.", "Raiders at 49ers (FOX)  Pick: ______  Score: ______"]
       - ["Sun., Nov. 8 · 4:25 p.m.", "Packers at Patriots (FOX)  Pick: ______  Score: ______"]
       - ["Sun., Nov. 8 · 8:20 p.m.", "Buccaneers at Bears (NBC)  Pick: ______  Score: ______"]
       - ["Mon., Nov. 9 · 8:15 p.m.", "Bills at Vikings (ESPN, ABC, ESPN2, NFL Network)  Pick: ______  Score: ______"]
@@ -54,13 +55,13 @@ hero:
 summary:
   - "The National Football League (NFL) lists 15 Week 9 games from Thu., Nov. 5 to Mon., Nov. 9, 2026, per NFL.com; every kickoff is Eastern Time (ET)."
   - "Bengals vs. Falcons in Madrid kicks off Sun., Nov. 8 at 9:30 a.m. ET on NFL Network, which is 3:30 p.m. in Madrid and 2:30 p.m. in the United Kingdom."
-  - "Sunday has the Madrid game, seven games at 1 p.m. ET, two at 4:05 p.m., two at 4:25 p.m. and Buccaneers at Bears at 8:20 p.m. on NBC."
+  - "Sunday has the Madrid game, seven games at 1 p.m. ET, one at 4:05 p.m., three at 4:25 p.m. and Buccaneers at Bears at 8:20 p.m. on NBC."
   - "The Steelers and Titans are on bye. A free one-page pick'em sheet with a Monday total-points tiebreaker is below."
 faq:
   - q: "What time is the NFL game in Madrid on Nov. 8, 2026?"
     a: "Bengals vs. Falcons kicks off at 9:30 a.m. ET on Sunday, Nov. 8, per NFL.com, on NFL Network. That is 8:30 a.m. Central, 7:30 a.m. Mountain, 6:30 a.m. Pacific, 2:30 p.m. in the United Kingdom and 3:30 p.m. in Madrid, by our conversion."
   - q: "What time do NFL games start on Sunday, Nov. 8, 2026?"
-    a: "NFL.com lists 9:30 a.m. ET (Madrid), seven games at 1 p.m. ET, two at 4:05 p.m. ET, two at 4:25 p.m. ET and one at 8:20 p.m. ET."
+    a: "NFL.com lists 9:30 a.m. ET (Madrid), seven games at 1 p.m. ET, one at 4:05 p.m. ET, three at 4:25 p.m. ET and one at 8:20 p.m. ET."
   - q: "Which teams are on bye in NFL Week 9?"
     a: "The Pittsburgh Steelers and Tennessee Titans, per NFL.com."
   - q: "What channel is Monday Night Football in Week 9?"
@@ -68,6 +69,10 @@ faq:
   - q: "Are Week 9 times on Eastern Standard Time?"
     a: "Yes. Clocks fall back on Sun., Nov. 1, 2026, so every Week 9 kickoff is on Eastern Standard Time (EST)."
 sources:
+  - title: "Raiders 2026 Schedule"
+    url: "https://www.raiders.com/schedule/"
+    publisher: "Las Vegas Raiders"
+    date: "2026-11-01"
   - title: "NFL Schedule"
     url: "https://www.nfl.com/schedules/"
     publisher: "National Football League"
@@ -80,7 +85,7 @@ internalLinks:
     label: "November 2026 printable calendar"
   - href: "/printable-weekly-calendar.html"
     label: "printable weekly calendar"
-related: [nfl-week-8-schedule-2026-game-times-tv-clock-change, printable-nfl-schedule-2026-2027-pdf, nfl-international-games-november-2026-madrid-munich-mexico-city-kickoff-times]
+related: [nfl-week-8-schedule-2026-game-times-tv-clock-change, printable-nfl-schedule-2026-2027-pdf, printable-nfl-pickem-sheets-2026]
 downloads:
   - group: "NFL Week 9 Pick'em Sheet 2026 printables"
     title: "NFL Week 9 Pick'em Sheet 2026"
@@ -119,8 +124,8 @@ NFL.com lists these games, all times ET. Clocks fall back on Sunday, Nov. 1, so 
 | Sun., Nov. 8 | 1 p.m. | Giants at Eagles | FOX |
 | Sun., Nov. 8 | 1 p.m. | Jets at Chiefs | CBS |
 | Sun., Nov. 8 | 4:05 p.m. | Texans at Chargers | CBS |
-| Sun., Nov. 8 | 4:05 p.m. | Raiders at 49ers | CBS |
 | Sun., Nov. 8 | 4:25 p.m. | Cardinals at Seahawks | FOX |
+| Sun., Nov. 8 | 4:25 p.m. | Raiders at 49ers | FOX |
 | Sun., Nov. 8 | 4:25 p.m. | Packers at Patriots | FOX |
 | Sun., Nov. 8 | 8:20 p.m. | Buccaneers at Bears | NBC |
 | Mon., Nov. 9 | 8:15 p.m. | Bills at Vikings | ESPN, ABC, ESPN2, NFL Network |
@@ -134,8 +139,8 @@ The Central Time (CT), Mountain Time (MT), Pacific Time (PT) and United Kingdom 
 | Thu., Nov. 5 | Jaguars at Ravens | 8:15 p.m. | 7:15 p.m. | 6:15 p.m. | 5:15 p.m. | 1:15 a.m. Fri. |
 | Sun., Nov. 8 | Bengals vs. Falcons (Madrid) | 9:30 a.m. | 8:30 a.m. | 7:30 a.m. | 6:30 a.m. | 2:30 p.m. |
 | Sun., Nov. 8 | Seven games | 1:00 p.m. | 12:00 p.m. | 11:00 a.m. | 10:00 a.m. | 6:00 p.m. |
-| Sun., Nov. 8 | Two games | 4:05 p.m. | 3:05 p.m. | 2:05 p.m. | 1:05 p.m. | 9:05 p.m. |
-| Sun., Nov. 8 | Two games | 4:25 p.m. | 3:25 p.m. | 2:25 p.m. | 1:25 p.m. | 9:25 p.m. |
+| Sun., Nov. 8 | Texans at Chargers | 4:05 p.m. | 3:05 p.m. | 2:05 p.m. | 1:05 p.m. | 9:05 p.m. |
+| Sun., Nov. 8 | Three games | 4:25 p.m. | 3:25 p.m. | 2:25 p.m. | 1:25 p.m. | 9:25 p.m. |
 | Sun., Nov. 8 | Buccaneers at Bears | 8:20 p.m. | 7:20 p.m. | 6:20 p.m. | 5:20 p.m. | 1:20 a.m. Mon. |
 | Mon., Nov. 9 | Bills at Vikings | 8:15 p.m. | 7:15 p.m. | 6:15 p.m. | 5:15 p.m. | 1:15 a.m. Tue. |
 
@@ -153,8 +158,8 @@ NFL.com lists five Sunday start times, all ET.
 
 - 9:30 a.m.: Bengals vs. Falcons in Madrid on NFL Network.
 - 1 p.m.: seven games, three on CBS and four on FOX.
-- 4:05 p.m.: Texans at Chargers and Raiders at 49ers, both on CBS.
-- 4:25 p.m.: Cardinals at Seahawks and Packers at Patriots, both on FOX.
+- 4:05 p.m.: Texans at Chargers on CBS.
+- 4:25 p.m.: Cardinals at Seahawks, Packers at Patriots and Raiders at 49ers, all on FOX. Raiders at 49ers moved from 4:05 p.m. on CBS, per the Raiders and 49ers schedules.
 - 8:20 p.m.: Buccaneers at Bears on NBC.
 
 The week before, our [NFL Week 8 schedule](/news/nfl-week-8-schedule-2026-game-times-tv-clock-change/) covers the games on either side of the Nov. 1 clock change. NFL may change times; check NFL.com on game day.

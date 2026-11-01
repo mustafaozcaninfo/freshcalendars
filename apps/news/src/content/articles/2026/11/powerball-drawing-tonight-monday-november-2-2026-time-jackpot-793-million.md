@@ -4,6 +4,7 @@ seoTitle: "Powerball Drawing Nov. 2, 2026: Time and $793M Jackpot"
 description: "The next Powerball drawing is Mon., Nov. 2, 2026, at 10:59 p.m. Eastern Time (ET), estimated jackpot $793 million, per powerball.com. Draw dates inside."
 type: news
 publishedAt: "2026-11-01T01:46:00-04:00"
+updatedAt: "2026-11-01T02:45:00-05:00"
 authors: [jordan-bennett]
 category: calendar-guides
 keywords: ["powerball drawing tonight", "powerball drawing time", "powerball jackpot", "when is the next powerball drawing", "mega millions drawing days"]
@@ -46,7 +47,7 @@ hero:
     authorUrl: "https://commons.wikimedia.org/wiki/User:Zunter"
 summary:
   - "The next Powerball drawing is Monday, Nov. 2, 2026, at 10:59 p.m. Eastern Time (ET), which is 9:59 p.m. Central Time (CT) and 7:59 p.m. Pacific Time (PT), per powerball.com."
-  - "The estimated jackpot is $793 million, with a cash value of $339.9 million. The Saturday, Oct. 31 drawing had no jackpot winner."
+  - "The estimated jackpot is $793 million, with a cash value of $339.9 million. The Saturday, Oct. 31 drawing (2, 4, 18, 50, 56, Powerball 20) had no jackpot winner."
   - "Powerball draws Monday, Wednesday and Saturday. Mega Millions draws Tuesday and Friday at 11:00 p.m. ET."
   - "The table lists every drawing from Nov. 2 to Dec. 30, 2026 with ET, CT, Mountain Time (MT) and PT times."
 faq:
@@ -119,7 +120,7 @@ downloads:
 draft: false
 ---
 
-**The next Powerball drawing is Monday, Nov. 2, 2026, at 10:59 p.m. Eastern Time (ET), with an estimated jackpot of $793 million (cash value $339.9 million), according to powerball.com as of Nov. 1.** That is 9:59 p.m. Central Time (CT), 8:59 p.m. Mountain Time (MT) and 7:59 p.m. Pacific Time (PT). The Saturday, Oct. 31 drawing had no jackpot winner. Below are the drawing dates for both national games through December.
+**The next Powerball drawing is Monday, Nov. 2, 2026, at 10:59 p.m. Eastern Time (ET), with an estimated jackpot of $793 million (cash value $339.9 million), according to powerball.com as of Nov. 1.** That is 9:59 p.m. Central Time (CT), 8:59 p.m. Mountain Time (MT) and 7:59 p.m. Pacific Time (PT). The Saturday, Oct. 31 drawing had no jackpot winner; its winning numbers were 2, 4, 18, 50 and 56 with Powerball 20, and the Power Play was 3x, per powerball.com. Below are the drawing dates for both national games through December.
 
 ## What time is the Powerball drawing?
 

@@ -44,7 +44,7 @@ internalLinks:
     label: "November 2026 printable calendar"
   - href: "/december-calendars.html"
     label: "December 2026 printable calendar"
-related: [children-in-need-2026-date-friday-13-november-appeal-night, halloween-2026-saturday-sunset-trick-or-treat-times, uk-europe-clocks-go-back-october-25-2026-time-difference]
+related: [children-in-need-2026-date-friday-13-november-appeal-night, great-british-bake-off-2026-free-from-week-tuesday-3-november-episode-schedule, uk-europe-clocks-go-back-october-25-2026-time-difference]
 downloads:
   - group: "Strictly Come Dancing 2026 Key Dates printables"
     title: "Strictly Come Dancing 2026 Key Dates"
