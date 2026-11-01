@@ -1,5 +1,5 @@
 ---
-title: "Powerball Drawing Monday, Nov. 2, 2026: 10:59 p.m. ET, Est. $793 Million Jackpot, Draw Dates"
+title: "Powerball Drawing Monday, Nov. 2, 2026: 10:59 p.m. ET, Est. $793 Million Jackpot"
 seoTitle: "Powerball Drawing Nov. 2, 2026: Time and $793M Jackpot"
 description: "The next Powerball drawing is Mon., Nov. 2, 2026, at 10:59 p.m. Eastern Time (ET), estimated jackpot $793 million, per powerball.com. Draw dates inside."
 type: news

@@ -96,7 +96,7 @@ internalLinks:
     label: "November 2026 printable calendar"
   - href: "/when-is/thanksgiving/"
     label: "When is Thanksgiving?"
-related: [hunger-games-sunrise-on-the-reaping-release-date-november-20-rewatch-countdown, netflix-new-movies-november-2026-release-dates, new-on-disney-plus-november-2026-release-dates]
+related: [hunger-games-sunrise-on-the-reaping-release-date-november-20-rewatch-countdown, netflix-new-movies-november-2026-release-dates, godzilla-minus-zero-release-date-imax-november-3-nationwide-november-6]
 downloads:
   - group: "November 2026 Movie Release Calendar printables"
     title: "November 2026 Movie Release Calendar"
@@ -143,7 +143,7 @@ Lionsgate's official site, titled "The Hunger Games: Sunrise on the Reaping | Of
 
 The release type matters because a film that starts in select theaters may not play near you on day one.
 
-- **Wide:** Toho's announcement on godzilla.com says "Godzilla Minus Zero" opens in Japan on Nov. 3, "with a wide North American release following just days later on November 6."
+- **Wide:** (IMAX Early Access dates and UK details are in our [Godzilla Minus Zero release date story](/news/godzilla-minus-zero-release-date-imax-november-3-nationwide-november-6/).) Toho's announcement on godzilla.com says "Godzilla Minus Zero" opens in Japan on Nov. 3, "with a wide North American release following just days later on November 6."
 - **Select theaters:** Amazon MGM Studios says "I Play Rocky" opens in select theaters on Friday, Nov. 6 and in theaters everywhere later in November. It does not give a wide date.
 - **Limited:** Focus Features says "Elsinore" begins a limited run on Friday, Nov. 20, then expands wider over the Thanksgiving holiday and through December.
 - **Date from the distributor's site:** Neon's homepage reads "In Theaters Nov 13, 2026" for "Paper Tiger." Neon does not say on that page whether the opening is wide or limited.
