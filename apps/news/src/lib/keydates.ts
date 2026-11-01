@@ -604,6 +604,9 @@ export const KEY_DATES: KeyDate[] = [
   { date: "2026-11-07", label: "Rugby League World Cup semi-final 1, Newcastle, 9:05 a.m. GMT (4:05 a.m. ET)", slug: "rugby-league-world-cup-2026-semi-finals-final-schedule-kick-off-times-uk-us" },
   { date: "2026-11-08", label: "Rugby League World Cup semi-final 2, Sydney, 9:05 a.m. GMT (4:05 a.m. ET)", slug: "rugby-league-world-cup-2026-semi-finals-final-schedule-kick-off-times-uk-us" },
   { date: "2026-11-15", label: "Rugby League World Cup men's final, Suncorp Stadium, Brisbane, 8:35 a.m. GMT (3:35 a.m. ET)", slug: "rugby-league-world-cup-2026-semi-finals-final-schedule-kick-off-times-uk-us" },
+  { date: "2026-11-01", label: "Gold Glove Award winners revealed, 8:30 p.m. ET on ESPN", slug: "gold-glove-awards-2026-tonight-time-espn-finalists-platinum-glove-vote" },
+  { date: "2026-11-05", label: "Platinum Glove fan vote closes at 11:59 p.m. ET on Rawlings.com", slug: "gold-glove-awards-2026-tonight-time-espn-finalists-platinum-glove-vote" },
+  { date: "2026-11-06", label: "Platinum Glove winners named at the Gold Glove ceremony in New York City", slug: "gold-glove-awards-2026-tonight-time-espn-finalists-platinum-glove-vote" },
 ];
 
 /** Today's date in Eastern Time as YYYY-MM-DD. */
