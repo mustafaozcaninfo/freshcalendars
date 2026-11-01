@@ -607,6 +607,8 @@ export const KEY_DATES: KeyDate[] = [
   { date: "2026-11-01", label: "Gold Glove Award winners revealed, 8:30 p.m. ET on ESPN", slug: "gold-glove-awards-2026-tonight-time-espn-finalists-platinum-glove-vote" },
   { date: "2026-11-05", label: "Platinum Glove fan vote closes at 11:59 p.m. ET on Rawlings.com", slug: "gold-glove-awards-2026-tonight-time-espn-finalists-platinum-glove-vote" },
   { date: "2026-11-06", label: "Platinum Glove winners named at the Gold Glove ceremony in New York City", slug: "gold-glove-awards-2026-tonight-time-espn-finalists-platinum-glove-vote" },
+  { date: "2026-11-09", label: "Fandango's Avengers: Doomsday premiere sweepstakes ends", slug: "avengers-doomsday-release-date-december-18-countdown-tickets-runtime" },
+  { date: "2026-12-18", label: "Avengers: Doomsday opens in theaters", slug: "avengers-doomsday-release-date-december-18-countdown-tickets-runtime" },
 ];
 
 /** Today's date in Eastern Time as YYYY-MM-DD. */
