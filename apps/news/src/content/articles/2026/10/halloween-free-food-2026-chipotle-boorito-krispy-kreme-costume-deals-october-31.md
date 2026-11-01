@@ -78,7 +78,7 @@ internalLinks:
     label: "November 2026 printable calendar"
   - href: "/when-is/halloween/"
     label: "When is Halloween?"
-related: [halloween-2026-saturday-sunset-trick-or-treat-times, halloween-costume-stores-open-october-29-31-2026-spirit-party-city, veterans-day-free-meals-discounts]
+related: [halloween-2026-saturday-sunset-trick-or-treat-times, halloween-costume-stores-open-october-29-31-2026-spirit-party-city, national-sandwich-day-2026-deals-tuesday-november-3-subway-mcalisters-capriottis]
 draft: false
 downloads:
   - group: "Halloween Free Food Checklist printables"
