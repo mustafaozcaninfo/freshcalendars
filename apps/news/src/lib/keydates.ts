@@ -632,6 +632,13 @@ export const KEY_DATES: KeyDate[] = [
   { date: "2026-11-05", label: "PGA Tour World Wide Technology Championship and LPGA TOTO Japan Classic begin", slug: "golf-schedule-november-2026-pga-tour-lpga-rsm-classic-cme-hero-world-challenge" },
   { date: "2026-11-19", label: "RSM Classic and LPGA CME Group Tour Championship begin", slug: "golf-schedule-november-2026-pga-tour-lpga-rsm-classic-cme-hero-world-challenge" },
   { date: "2026-12-03", label: "Hero World Challenge begins in the Bahamas", slug: "golf-schedule-november-2026-pga-tour-lpga-rsm-classic-cme-hero-world-challenge" },
+  { date: "2026-12-01", label: "iHeartRadio Jingle Ball Tour opens in Dallas/Fort Worth (nine cities through Dec. 17)", slug: "iheartradio-jingle-ball-2026-dates-lineup-by-city-abc-special" },
+  { date: "2026-12-11", label: "iHeartRadio Jingle Ball at Madison Square Garden, New York", slug: "iheartradio-jingle-ball-2026-dates-lineup-by-city-abc-special" },
+  { date: "2026-12-19", label: "Christmas Wrapped in Love, last new Great American Christmas premiere", slug: "great-american-christmas-2026-movie-schedule-great-american-family" },
+  { date: "2027-02-28", label: "The Actor Awards, live on Netflix at 8 p.m. ET", slug: "golden-globes-oscars-2027-dates-nominations-how-to-watch-awards-calendar" },
+  { date: "2027-04-09", label: "Coachella weekend one begins in Indio (through April 11)", slug: "coachella-stagecoach-2027-dates-lineup-indio" },
+  { date: "2027-04-16", label: "Coachella weekend two begins (through April 18)", slug: "coachella-stagecoach-2027-dates-lineup-indio" },
+  { date: "2027-04-23", label: "Stagecoach begins in Indio (through April 25)", slug: "coachella-stagecoach-2027-dates-lineup-indio" },
 ];
 
 /** Today's date in Eastern Time as YYYY-MM-DD. */

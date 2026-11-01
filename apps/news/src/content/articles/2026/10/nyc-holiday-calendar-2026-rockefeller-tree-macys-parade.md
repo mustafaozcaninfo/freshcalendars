@@ -108,7 +108,7 @@ internalLinks:
     label: "When is Christmas Day 2026?"
   - href: "/when-is/new-years-eve/"
     label: "When is New Year's Eve?"
-related: [thanksgiving-2026-tv-schedule-macys-parade-nfl-games, times-square-ball-drop-2026-time-how-to-watch-time-zones, us-christmas-markets-2026-opening-dates-philadelphia-dc-detroit-nyc]
+related: [thanksgiving-2026-tv-schedule-macys-parade-nfl-games, times-square-ball-drop-2026-time-how-to-watch-time-zones, iheartradio-jingle-ball-2026-dates-lineup-by-city-abc-special]
 downloads:
   - group: "NYC Holiday Calendar 2026 printables"
     title: "NYC Holiday Calendar 2026"

@@ -44,7 +44,7 @@ internalLinks:
     label: "When is Easter"
   - href: "/when-is/good-friday/"
     label: "When is Good Friday"
-related: [miami-dade-school-calendar-2026-27-breaks, stock-market-holidays-2027-nyse-closed-dates]
+related: [miami-dade-school-calendar-2026-27-breaks, stock-market-holidays-2027-nyse-closed-dates, coachella-stagecoach-2027-dates-lineup-indio]
 draft: false
 ---
 

@@ -4,6 +4,7 @@ seoTitle: "Golden Globes and Oscars 2027 Dates and Calendar"
 description: "The 84th Golden Globes air Sunday, Jan. 10, 2027, on CBS; the 99th Oscars are Sunday, March 14 at 7 p.m. Eastern Time (ET) on ABC. Every nomination date."
 type: news
 publishedAt: "2026-10-31T01:00:00-04:00"
+updatedAt: "2026-11-01T11:45:00-05:00"
 authors: [jordan-bennett]
 category: entertainment
 keywords: ["golden globes 2027 date", "oscars 2027 date", "when are the oscars 2027", "awards season 2027 calendar", "oscar nominations 2027"]
@@ -23,7 +24,7 @@ summary:
   - "The 84th Golden Globes are on Sunday, Jan. 10, 2027, on CBS and Paramount+ in the U.S.; nominations come Monday, Dec. 7, 2026, the Golden Globes say."
   - "The 99th Oscars are on Sunday, March 14, 2027, live on ABC at 7 p.m. Eastern Time (ET) / 4 p.m. Pacific Time (PT), per the Academy."
   - "Oscar nominations are announced Thursday, Jan. 21, 2027, after nominations voting from Jan. 11 to Jan. 15."
-  - "The table lists seven awards-season events from Nov. 16, 2026, to March 14, 2027; British Academy of Film and Television Arts (BAFTA) and Actor Awards dates are not confirmed."
+  - "The table lists eight awards-season events from Nov. 16, 2026, to March 14, 2027, including the Actor Awards on Sunday, Feb. 28, live on Netflix; the British Academy of Film and Television Arts (BAFTA) date is not confirmed."
 faq:
   - q: "When are the Golden Globes 2027?"
     a: "Sunday, Jan. 10, 2027. The 84th Golden Globes air on CBS and stream on Paramount+ in the U.S., according to the Golden Globes."
@@ -33,8 +34,8 @@ faq:
     a: "Thursday, Jan. 21, 2027. Nominations voting runs Monday, Jan. 11, to Friday, Jan. 15, 2027, and the Academy says all dates are subject to change."
   - q: "When are the Golden Globe nominations announced?"
     a: "Monday, Dec. 7, 2026, according to the Golden Globes timetable published May 7, 2026."
-  - q: "Are the BAFTA and Actor Awards dates known?"
-    a: "Not confirmed on the organizers' sites when we checked, so they are not in the table."
+  - q: "When are the Actor Awards and the BAFTA Film Awards?"
+    a: "The Actor Awards are Sunday, Feb. 28, 2027, live on Netflix at 8 p.m. ET / 5 p.m. PT, according to the Actor Awards site. The BAFTA date was not confirmed on the organizer's site when we checked, so it is not in the table."
 sources:
   - title: "The 84th Annual Golden Globes: Timetable, Eligibility Rules and Campaign Guidelines Announced"
     url: "https://goldenglobes.com/articles/the-84th-annual-golden-globes-timetable-eligibility-rules-and-campaign-guidelines-announced/"
@@ -55,6 +56,9 @@ sources:
     url: "https://www.criticschoice.com/32nd-annual-critics-choice-awards-to-be-held-on-sunday-january-3-2027-at-the-barker-hangar/"
     publisher: "Critics Choice Association"
     date: "2026-04-20"
+  - title: "The Actor Awards"
+    url: "https://www.actorawards.org/"
+    publisher: "The Actor Awards"
 internalLinks:
   - href: "/january-calendars.html"
     label: "January 2027 printable calendar"
@@ -72,10 +76,10 @@ assets:
     slug: awards-season-2026-27-calendar
     group: awards-season-2027
     title: "Awards Season 2026-27 Calendar"
-    subtitle: "Golden Globes, Oscars, Grammys and Critics Choice dates"
+    subtitle: "Golden Globes, Oscars, Grammys, Critics Choice and Actor Awards dates"
     layout: list
     inkSaver: true
-    description: "Awards season dates from Nov. 16, 2026, to March 14, 2027: Grammy and Golden Globe nominations, Critics Choice, Golden Globes, Oscar nominations and the Oscars."
+    description: "Awards season dates from Nov. 16, 2026, to March 14, 2027: Grammy and Golden Globe nominations, Critics Choice, Golden Globes, Oscar nominations, the Actor Awards and the Oscars."
     alt: "Printable awards season calendar from Grammy nominations on Nov. 16, 2026, to the Oscars on March 14, 2027"
     rows:
       - ["Nov. 16, 2026 (Mon.)", "Grammy nominations announced"]
@@ -88,12 +92,13 @@ assets:
       - ["Feb. 7, 2027 (Sun.)", "69th Grammy Awards, ABC, Disney+ and Hulu"]
       - ["Feb. 16, 2027 (Tue.)", "Oscar nominees luncheon"]
       - ["Feb. 25 (Thu.) to March 4 (Thu.), 2027", "Oscars final voting"]
+      - ["Feb. 28, 2027 (Sun.)", "Actor Awards, Netflix, 8 p.m. ET / 5 p.m. PT"]
       - ["March 14, 2027 (Sun.)", "99th Oscars, ABC, 7 p.m. ET / 4 p.m. PT"]
-    note: "Source: Golden Globes (May 7, 2026), Academy of Motion Picture Arts and Sciences (April 7, 2026), Recording Academy (May 12, 2026), Critics Choice Association (April 20, 2026). Dates are subject to change."
+    note: "Source: Golden Globes (May 7, 2026), Academy of Motion Picture Arts and Sciences (April 7, 2026), Recording Academy (May 12, 2026), Critics Choice Association (April 20, 2026), The Actor Awards (checked Nov. 1, 2026). Dates are subject to change."
 downloads:
   - group: "Awards Season 2026-27 Calendar printables"
     title: "Awards Season 2026-27 Calendar"
-    description: "Awards season dates from Nov. 16, 2026, to March 14, 2027: Grammy and Golden Globe nominations, Critics Choice, Golden Globes, Oscar nominations and the Oscars."
+    description: "Awards season dates from Nov. 16, 2026, to March 14, 2027: Grammy and Golden Globe nominations, Critics Choice, Golden Globes, Oscar nominations, the Actor Awards and the Oscars."
     preview: ../../../../assets/news/awards-season-2027/awards-season-2026-27-calendar.png
     alt: "Printable awards season calendar from Grammy nominations on Nov. 16, 2026, to the Oscars on March 14, 2027"
     pdf: "/news/downloads/awards-season-2027/awards-season-2026-27-calendar.pdf"
@@ -101,7 +106,7 @@ downloads:
     pages: 1
   - group: "Awards Season 2026-27 Calendar printables"
     title: "Awards Season 2026-27 Calendar (ink saver)"
-    description: "Awards season dates from Nov. 16, 2026, to March 14, 2027: Grammy and Golden Globe nominations, Critics Choice, Golden Globes, Oscar nominations and the Oscars. Ink-saver version."
+    description: "Awards season dates from Nov. 16, 2026, to March 14, 2027: Grammy and Golden Globe nominations, Critics Choice, Golden Globes, Oscar nominations, the Actor Awards and the Oscars. Ink-saver version."
     preview: ../../../../assets/news/awards-season-2027/awards-season-2026-27-calendar-ink.png
     alt: "Printable awards season calendar from Grammy nominations on Nov. 16, 2026, to the Oscars on March 14, 2027, ink-saver version"
     pdf: "/news/downloads/awards-season-2027/awards-season-2026-27-calendar-ink.pdf"
@@ -124,9 +129,10 @@ Each row comes from the organizer's own announcement. "None listed" and "Not lis
 | Sun., Jan. 10, 2027 | 84th Golden Globes | CBS, Paramount+ | Not listed |
 | Thu., Jan. 21, 2027 | Oscar nominations announced | None listed | Not listed |
 | Sun., Feb. 7, 2027 | 69th Grammy Awards, Crypto.com Arena, Los Angeles | ABC, Disney+, Hulu | Not listed |
+| Sun., Feb. 28, 2027 | Actor Awards | Netflix | 8 p.m. ET / 5 p.m. PT |
 | Sun., March 14, 2027 | 99th Oscars, Dolby Theatre at Ovation Hollywood | ABC | 7 p.m. ET / 4 p.m. PT |
 
-The date and weekday for each row come from the organizers' pages cited under Sources. We have no confirmed dates for the British Academy of Film and Television Arts (BAFTA) Film Awards or the Actor Awards, so they are left out until the organizers post them.
+The date and weekday for each row come from the organizers' pages cited under Sources. The [Actor Awards site](https://www.actorawards.org/) lists its ceremony for Sunday, Feb. 28, 2027, live on Netflix at 8 p.m. ET / 5 p.m. PT. We have no confirmed date for the British Academy of Film and Television Arts (BAFTA) Film Awards, so it is left out until the organizer posts it.
 
 ## Golden Globes 2027: ceremony, nominations and ballot deadline
 
