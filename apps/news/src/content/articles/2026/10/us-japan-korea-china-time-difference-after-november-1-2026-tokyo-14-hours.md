@@ -1,9 +1,10 @@
 ---
 title: "U.S.-Japan, Korea and China Time Difference After Nov. 1, 2026: Tokyo Is 14 Hours Ahead"
 seoTitle: "U.S.-Japan, Korea, China Time Difference Nov. 1, 2026"
-description: "U.S. clocks fall back at 2 a.m. on Nov. 1, 2026, so New York is 14 hours behind Japan Standard Time (JST) and Korea Standard Time (KST), 13 behind Beijing."
+description: "U.S. clocks fell back at 2 a.m. on Nov. 1, 2026, so New York is 14 hours behind Japan Standard Time (JST) and Korea Standard Time (KST), 13 behind Beijing."
 type: explainer
 publishedAt: "2026-10-30T23:50:00-04:00"
+updatedAt: "2026-11-01T05:45:00-05:00"
 authors: [jordan-bennett]
 category: time-change
 keywords: ["time difference between us and japan", "new york to tokyo time difference after daylight saving", "us korea time difference", "us china time difference november 2026"]
@@ -63,7 +64,7 @@ downloads:
     png: "/news/downloads/time-change-2026/us-japan-korea-china-time-chart-november-2026-ink.png"
     pages: 1
 summary:
-  - "U.S. clocks go back at 2 a.m. local time on Sunday, Nov. 1, 2026, according to the National Institute of Standards and Technology (NIST); Japan, South Korea and China do not change."
+  - "U.S. clocks went back at 2 a.m. local time on Sunday, Nov. 1, 2026, according to the National Institute of Standards and Technology (NIST); Japan, South Korea and China do not change."
   - "From Nov. 1, New York is 14 hours behind Tokyo and Seoul and 13 hours behind Beijing. Until Oct. 31 the gaps were 13 and 12 hours."
   - "Los Angeles is 17 hours behind Tokyo and Seoul from Nov. 1; Arizona and Hawaii keep their old gaps."
   - "The time-difference figures and conversions are our calculation from the UTC offsets."
@@ -95,7 +96,7 @@ related: [daylight-saving-time-ends-november-1-2026, us-philippines-time-differe
 draft: false
 ---
 
-U.S. clocks fall back one hour at 2 a.m. local time on **Sunday, Nov. 1, 2026**, and from then New York is 14 hours behind Tokyo and Seoul and 13 hours behind Beijing, up from 13 and 12 hours. The rule comes from the National Institute of Standards and Technology (NIST), and none of the three countries moves its clocks, so the whole change lands on the U.S. side. A one-page [printable U.S. to Japan, Korea and China time chart](/news/downloads/time-change-2026/us-japan-korea-china-time-chart-november-2026.pdf) is on this page for your desk.
+U.S. clocks fell back one hour at 2 a.m. local time on **Sunday, Nov. 1, 2026**, and from then New York is 14 hours behind Tokyo and Seoul and 13 hours behind Beijing, up from 13 and 12 hours. The rule comes from the National Institute of Standards and Technology (NIST), and none of the three countries moves its clocks, so the whole change lands on the U.S. side. A one-page [printable U.S. to Japan, Korea and China time chart](/news/downloads/time-change-2026/us-japan-korea-china-time-chart-november-2026.pdf) is on this page for your desk.
 
 The figures below are our calculation from the Coordinated Universal Time (UTC) offsets in the time zone database and NIST's dates. Japan Standard Time (JST) and Korea Standard Time (KST) are both UTC+9. Beijing Time, the China standard time, is UTC+8.
 

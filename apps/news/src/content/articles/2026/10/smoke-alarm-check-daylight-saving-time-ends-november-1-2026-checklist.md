@@ -1,9 +1,10 @@
 ---
-title: "Smoke Alarm Check Before Clocks Fall Back Nov. 1, 2026: Test Now, Replace by Age"
+title: "Smoke Alarm Check After Clocks Fell Back Nov. 1, 2026: Test Now, Replace by Age"
 seoTitle: "Smoke Alarm Check When Clocks Fall Back Nov. 1, 2026"
-description: "Clocks fall back at 2 a.m. Sunday, Nov. 1, 2026. The U.S. Fire Administration (USFA) says test smoke alarms monthly and replace each alarm every 10 years."
+description: "Clocks fell back at 2 a.m. Sunday, Nov. 1, 2026. The U.S. Fire Administration (USFA) says test smoke alarms monthly and replace each alarm every 10 years."
 type: explainer
 publishedAt: "2026-10-31T18:05:00-04:00"
+updatedAt: "2026-11-01T05:45:00-05:00"
 authors: [jordan-bennett]
 category: time-change
 keywords: ["change smoke alarm batteries daylight saving time 2026", "test smoke alarm when clocks change", "fall back smoke detector checklist", "when to replace smoke alarm 10 years"]
@@ -40,7 +41,7 @@ assets:
 hero:
   src: ../../../../assets/news/smoke-alarm-check-daylight-saving-time-ends-november-1-2026-checklist/smoke-alarm-check-daylight-saving-time-ends-november-1-2026-checklist.webp
   alt: "A ceiling smoke detector, a file photo for the smoke alarm check when clocks fall back on Nov. 1, 2026"
-  caption: "File photo of a smoke detector. U.S. clocks fall back at 2 a.m. local time on Sunday, Nov. 1, 2026."
+  caption: "File photo of a smoke detector. U.S. clocks fell back at 2 a.m. local time on Sunday, Nov. 1, 2026."
   credit: "Photo: Nikolai Twin / Wikimedia Commons, cropped, edited"
   license:
     name: "CC BY-SA 4.0"
@@ -66,7 +67,7 @@ downloads:
     png: "/news/downloads/smoke-alarm-check-2026/smoke-alarm-check-nov-1-2026-ink.png"
     pages: 1
 summary:
-  - "U.S. clocks fall back at 2 a.m. local time on Sunday, Nov. 1, 2026; Hawaii and most of Arizona do not change."
+  - "U.S. clocks fell back at 2 a.m. local time on Sunday, Nov. 1, 2026; Hawaii and most of Arizona did not change."
   - "The U.S. Fire Administration (USFA) says to test smoke alarms monthly and replace the entire alarm every 10 years."
   - "Sealed 10-year lithium-ion alarms take no new battery; USFA says a hardwired alarm's backup battery is replaced once a year."
   - "Our table maps the year an alarm was made to the year it turns 10, and the next two clock changes are Sunday, March 14 and Sunday, Nov. 7, 2027."
@@ -104,7 +105,7 @@ draft: false
 related: [daylight-saving-time-ends-november-1-2026, sunset-times-after-daylight-saving-time-ends-2026, canada-clocks-fall-back-november-1-2026-which-provinces-no-time-change]
 ---
 
-U.S. clocks fall back at 2 a.m. local time on Sunday, Nov. 1, 2026 (daylight saving time ends; Hawaii and most of Arizona do not change), and the U.S. Fire Administration (USFA), part of the Federal Emergency Management Agency (FEMA), says to test smoke alarms monthly. The clock change works as a twice-a-year reminder to do the full check: test every alarm, look at its age and decide what needs replacing. Our one-page printable below turns that into ticks.
+U.S. clocks fell back at 2 a.m. local time on Sunday, Nov. 1, 2026 (daylight saving time ended; Hawaii and most of Arizona did not change), and the U.S. Fire Administration (USFA), part of the Federal Emergency Management Agency (FEMA), says to test smoke alarms monthly. The clock change works as a twice-a-year reminder to do the full check, and today is a good day for it: test every alarm, look at its age and decide what needs replacing. Our one-page printable below turns that into ticks.
 
 ## What does the U.S. Fire Administration say to check on a smoke alarm?
 

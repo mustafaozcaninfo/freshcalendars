@@ -4,6 +4,7 @@ seoTitle: "US-Brazil Time Difference After Nov. 1, 2026"
 description: "New York is 2 hours behind Brasília Time (BRT) from Nov. 1, 2026, when US clocks fall back and Brazil stays put. Tables for every US and Brazilian zone."
 type: explainer
 publishedAt: "2026-10-31T07:45:00-04:00"
+updatedAt: "2026-11-01T05:45:00-05:00"
 authors: [jordan-bennett]
 category: time-change
 keywords: ["time difference between US and Brazil", "New York to São Paulo time difference", "Brazil time vs EST", "Brasília time zone"]
@@ -65,7 +66,7 @@ downloads:
     png: "/news/downloads/time-change-2026/us-brazil-time-difference-november-2026-ink.png"
     pages: 1
 summary:
-  - "US clocks go back at 2 a.m. local time on Sunday, Nov. 1, 2026, according to the National Institute of Standards and Technology (NIST); Brazil does not change."
+  - "US clocks went back at 2 a.m. local time on Sunday, Nov. 1, 2026, according to the National Institute of Standards and Technology (NIST); Brazil did not change."
   - "From Nov. 1, New York is 2 hours behind São Paulo and Brasília. Until Oct. 31 it was 1 hour behind."
   - "Brazil has had no daylight saving time (DST) changes since a decree of April 25, 2019, so São Paulo stays on UTC-3 all year, according to the Internet Assigned Numbers Authority (IANA) database."
   - "The time-difference figures and conversions are our calculation from the Coordinated Universal Time (UTC) offsets."
@@ -102,7 +103,7 @@ related: [daylight-saving-time-ends-november-1-2026, mexico-time-difference-afte
 draft: false
 ---
 
-When U.S. clocks fall back at 2 a.m. local time on **Sunday, Nov. 1, 2026**, New York goes from 1 hour to 2 hours behind São Paulo and Brasília, according to the National Institute of Standards and Technology (NIST) rule for the U.S. side. Brazil does not move its clocks, so the whole one-hour change lands in the United States. A one-page [printable US-Brazil time converter](/news/downloads/time-change-2026/us-brazil-time-difference-november-2026.pdf) is on this page for your desk.
+When U.S. clocks fell back at 2 a.m. local time on **Sunday, Nov. 1, 2026**, New York went from 1 hour to 2 hours behind São Paulo and Brasília, according to the National Institute of Standards and Technology (NIST) rule for the U.S. side. Brazil did not move its clocks, so the whole one-hour change landed in the United States. A one-page [printable US-Brazil time converter](/news/downloads/time-change-2026/us-brazil-time-difference-november-2026.pdf) is on this page for your desk.
 
 The figures below are our calculation from the Coordinated Universal Time (UTC) offsets.
 

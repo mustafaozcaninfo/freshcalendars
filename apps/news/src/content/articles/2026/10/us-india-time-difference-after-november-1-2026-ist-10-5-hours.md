@@ -4,6 +4,7 @@ seoTitle: "US-India Time Difference After Nov. 1, 2026"
 description: "New York is 10 hours 30 minutes behind Indian Standard Time (IST) from Nov. 1, 2026, when US clocks go back and India stays put. Tables for every US zone."
 type: explainer
 publishedAt: "2026-10-30T07:50:00-04:00"
+updatedAt: "2026-11-01T05:45:00-05:00"
 authors: [jordan-bennett]
 category: time-change
 keywords: ["time difference between India and USA after daylight saving", "India time vs New York November 2026", "IST to EST", "what time is it in India when it is 9 am in New York"]
@@ -65,7 +66,7 @@ downloads:
     png: "/news/downloads/time-change-2026/us-india-time-difference-november-2026-ink.png"
     pages: 1
 summary:
-  - "US clocks go back at 2 a.m. local time on Sunday, Nov. 1, 2026, according to the National Institute of Standards and Technology (NIST); India does not change."
+  - "US clocks went back at 2 a.m. local time on Sunday, Nov. 1, 2026, according to the National Institute of Standards and Technology (NIST); India did not change."
   - "From Nov. 1, New York is 10 hours 30 minutes behind India. Until Oct. 31 it was 9 hours 30 minutes behind."
   - "India keeps Indian Standard Time (IST), UTC+5:30, all year, so every U.S. zone that changes its clocks gains one hour on India."
   - "The time-difference figures and conversions are our calculation from the UTC offsets."
@@ -98,7 +99,7 @@ related: [daylight-saving-time-ends-november-1-2026, india-vs-new-zealand-2026-s
 draft: false
 ---
 
-From 2 a.m. local time on **Sunday, Nov. 1, 2026**, U.S. clocks fall back one hour and New York becomes 10 hours 30 minutes behind India; it was 9 hours 30 minutes behind. The rule comes from the National Institute of Standards and Technology (NIST), and India's offset does not move, so the whole one-hour change lands on the U.S. side. A one-page [printable US-India time converter](/news/downloads/time-change-2026/us-india-time-difference-november-2026.pdf) is on this page for your desk.
+At 2 a.m. local time on **Sunday, Nov. 1, 2026**, U.S. clocks fell back one hour and New York became 10 hours 30 minutes behind India; it was 9 hours 30 minutes behind. The rule comes from the National Institute of Standards and Technology (NIST), and India's offset does not move, so the whole one-hour change lands on the U.S. side. A one-page [printable US-India time converter](/news/downloads/time-change-2026/us-india-time-difference-november-2026.pdf) is on this page for your desk.
 
 The figures below are our calculation from the Coordinated Universal Time (UTC) offsets.
 
@@ -106,7 +107,7 @@ The figures below are our calculation from the Coordinated Universal Time (UTC) 
 
 No. India keeps Indian Standard Time (IST), UTC+5:30, all year. The time zone database that phones and computers use, kept by the Internet Assigned Numbers Authority (IANA), lists no clock change for India since 1945.
 
-The U.S. side does change. NIST says that "during 2026, daylight saving time is in effect from March 8 at 2 a.m. (local time) to November 1 at 2 a.m. (local time)." Eastern Time (ET) goes from Eastern Daylight Time (EDT, UTC-4) to Eastern Standard Time (EST, UTC-5), and the other zones move the same way. Calls during the short week of Oct. 25 to 31 see no effect from India's side; only the U.K. and Europe changed on Oct. 25, as our [U.K. and Europe time-difference story](/news/uk-europe-clocks-go-back-october-25-2026-time-difference/) explains.
+The U.S. side does change. NIST says that "during 2026, daylight saving time is in effect from March 8 at 2 a.m. (local time) to November 1 at 2 a.m. (local time)." Eastern Time (ET) goes from Eastern Daylight Time (EDT, UTC-4) to Eastern Standard Time (EST, UTC-5), and the other zones move the same way. Calls during the short week of Oct. 25 to 31 saw no effect from India's side; only the U.K. and Europe changed on Oct. 25, as our [U.K. and Europe time-difference story](/news/uk-europe-clocks-go-back-october-25-2026-time-difference/) explains.
 
 ## How far is India ahead of each U.S. zone?
 

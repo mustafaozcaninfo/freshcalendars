@@ -4,6 +4,7 @@ seoTitle: "Clock Changes 2027: U.S., UK, EU and Australia Dates"
 description: "Daylight saving time (DST) starts again in the U.S. on Sunday, March 14, 2027. Every 2027 clock change in the U.S., UK, EU and Sydney, plus gap shifts."
 type: explainer
 publishedAt: "2026-10-27T15:55:00-04:00"
+updatedAt: "2026-11-01T05:45:00-05:00"
 authors: [jordan-bennett]
 category: time-change
 keywords: ["when does daylight saving time start again", "daylight saving time 2027", "clocks change 2027", "clocks go forward 2027 uk", "spring forward 2027"]
@@ -94,7 +95,7 @@ assets:
     alt: "Printable list of 2027 clock changes in the U.S., UK, Europe and New South Wales"
 ---
 
-Daylight saving time (DST) starts again in the U.S. on Sunday, March 14, 2027, at 2 a.m. local time, under federal law, after clocks fall back this Sunday, Nov. 1, 2026. [Title 15, section 260a of the U.S. Code](https://www.law.cornell.edu/uscode/text/15/260a) runs DST from "2 o'clock antemeridian on the second Sunday of March of each year" to "2 o'clock antemeridian on the first Sunday of November". That puts the 2027 end on Sunday, Nov. 7. The fall-back day itself has its own page: see our [Nov. 1, 2026 story](/news/daylight-saving-time-ends-november-1-2026/), which also covers where the Sunshine Protection Act stands. For the standing rule, see [when daylight saving time starts and ends each year](/when-is/daylight-savings/).
+Daylight saving time (DST) starts again in the U.S. on Sunday, March 14, 2027, at 2 a.m. local time, under federal law. Clocks fell back at 2 a.m. on Sunday, Nov. 1, 2026, so most of the country is now on standard time for 133 days, until that March morning. [Title 15, section 260a of the U.S. Code](https://www.law.cornell.edu/uscode/text/15/260a) runs DST from "2 o'clock antemeridian on the second Sunday of March of each year" to "2 o'clock antemeridian on the first Sunday of November". That puts the 2027 end on Sunday, Nov. 7. The fall-back day itself has its own page: see our [Nov. 1, 2026 story](/news/daylight-saving-time-ends-november-1-2026/), which also covers where the Sunshine Protection Act stands. For the standing rule, see [when daylight saving time starts and ends each year](/when-is/daylight-savings/).
 
 ## What are all the clock changes in 2027?
 

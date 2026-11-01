@@ -1,9 +1,10 @@
 ---
 title: "Sunset Times After Daylight Saving Time Ends: When It Gets Dark in 20 U.S. Cities, and the Earliest Sunset"
 seoTitle: "Sunset Times After the Clock Change 2026 by City"
-description: "Sunset jumps an hour earlier on Nov. 1, 2026: 4:52 p.m. in New York, 4:45 in Chicago. Naval Observatory data, 20 cities, plus each city's earliest sunset date."
+description: "Sunset jumped an hour earlier on Nov. 1, 2026: 4:52 p.m. in New York, 4:45 in Chicago. Naval Observatory data, 20 cities, plus each city's earliest sunset date."
 type: explainer
 publishedAt: "2026-10-20T01:20:00-04:00"
+updatedAt: "2026-11-01T05:45:00-05:00"
 authors: [jordan-bennett]
 category: time-change
 keywords: ["sunset time after daylight saving time ends", "what time does it get dark November 2026", "earliest sunset 2026", "sunset times by city", "sunset November 1 2026"]
@@ -12,10 +13,10 @@ hero:
   src: ../../../../assets/news/sunset-times-after-daylight-saving-time-ends-2026/sunset-times-after-daylight-saving-time-ends-2026.jpg
   alt: "Sunset times after daylight saving time ends: a city skyline at dusk and a clock turning back one hour, with New York sunset moving from 5:53 to 4:52 p.m."
   title: "Sunset comes an hour earlier on Nov. 1, 2026"
-  caption: "New York's sunset moves from 5:53 p.m. on Oct. 31 to 4:52 p.m. on Nov. 1, 2026, when clocks fall back; the earliest sunset of the year follows in early December."
+  caption: "New York's sunset moved from 5:53 p.m. on Oct. 31 to 4:52 p.m. on Nov. 1, 2026, when clocks fell back; the earliest sunset of the year follows in early December."
 summary:
-  - "When U.S. clocks fall back at 2 a.m. on Sunday, Nov. 1, 2026, sunset moves about an hour earlier overnight in every city that observes daylight saving time."
-  - "New York's sunset goes from 5:53 p.m. on Oct. 31 to 4:52 p.m. on Nov. 1; Chicago's from 5:46 to 4:45 p.m., according to U.S. Naval Observatory data."
+  - "U.S. clocks fell back at 2 a.m. on Sunday, Nov. 1, 2026, so sunset moved about an hour earlier overnight in every city that observes daylight saving time."
+  - "New York's sunset went from 5:53 p.m. on Oct. 31 to 4:52 p.m. on Nov. 1; Chicago's from 5:46 to 4:45 p.m., according to U.S. Naval Observatory data."
   - "The earliest sunset of the year comes in early December, not on the Dec. 21 solstice: 4:28 p.m. in New York on Dec. 6-9."
   - "Phoenix and Honolulu do not change clocks, so their sunsets move by only a minute."
 faq:
@@ -56,7 +57,7 @@ downloads:
 draft: false
 ---
 
-**When clocks fall back at 2 a.m. on Sunday, Nov. 1, 2026, sunset moves about an hour earlier overnight.** In New York, the sun sets at 5:53 p.m. on Saturday, Oct. 31 and at 4:52 p.m. on Sunday, according to U.S. Naval Observatory (USNO) data. The evenings keep shrinking after that, and the earliest sunset of the year arrives in early December, about two weeks before the shortest day.
+**Clocks fell back at 2 a.m. on Sunday, Nov. 1, 2026, so sunset comes about an hour earlier from today.** In New York, the sun set at 5:53 p.m. on Saturday, Oct. 31 and sets at 4:52 p.m. on Sunday, according to U.S. Naval Observatory (USNO) data. The evenings keep shrinking after that, and the earliest sunset of the year arrives in early December, about two weeks before the shortest day.
 
 ## Sunset before and after the clock change
 
@@ -113,8 +114,8 @@ The free printable below has all 20 cities.
 
 ## What it means for your evenings
 
-The first week of November brings the sharpest change in daily routines: school pickup, a dog walk or an evening run that happened in daylight on Saturday can be in twilight by Monday. Civil twilight, when there is still enough light for most outdoor activity, lasts about 25 to 30 minutes after sunset in most of the continental U.S. in November.
+The first week of November brings the sharpest change in daily routines: school pickup, a dog walk or an evening run that happened in daylight on Saturday can be in twilight by Monday, Nov. 2. Civil twilight, when there is still enough light for most outdoor activity, lasts about 25 to 30 minutes after sunset in most of the continental U.S. in November.
 
-Halloween night, Saturday, Oct. 31, is the last evening on daylight time; see our [Halloween sunset and trick-or-treat times](/news/halloween-2026-saturday-sunset-trick-or-treat-times/). For the clock change itself, including the Senate bill that would make daylight time permanent, read our story on [daylight saving time ending Nov. 1](/news/daylight-saving-time-ends-november-1-2026/) and the guide to [when daylight saving time ends](/when-is/daylight-savings/). The full moon of Oct. 26 rises right around sunset; see the [Hunter's Moon times](/news/hunters-moon-october-2026-full-moon-time/).
+Halloween night, Saturday, Oct. 31, was the last evening on daylight time; see our [Halloween sunset and trick-or-treat times](/news/halloween-2026-saturday-sunset-trick-or-treat-times/). For the clock change itself, including the Senate bill that would make daylight time permanent, read our story on [daylight saving time ending Nov. 1](/news/daylight-saving-time-ends-november-1-2026/) and the guide to [when daylight saving time ends](/when-is/daylight-savings/). The full moon of Oct. 26 rose right around sunset; see the [Hunter's Moon times](/news/hunters-moon-october-2026-full-moon-time/).
 
 Plan the shorter days on our [November](/november-calendars.html) and [December](/december-calendars.html) printable calendars, and print the sunset chart below for the fridge.
