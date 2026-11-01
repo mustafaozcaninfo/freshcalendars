@@ -12,6 +12,8 @@
  *   board with its word paths, each Pips board with dominoes, the Letter Boxed square with the
  *   Times' route (plus the other two-word solutions in its word list), and the Spelling Bee
  *   honeycomb in the hint grid section (letters only, no answers).
+ * - Under the Strands spangram hints, a letter-by-letter reveal: nested <details>, one more
+ *   letter of the spangram per tap.
  * - Reader tools that start hidden and are switched on by the story page's script, so the page
  *   reads the same without JavaScript: a found-words tracker under the Spelling Bee honeycomb and
  *   a "has this word been the answer before?" checker above the Wordle spoiler.
@@ -64,6 +66,13 @@ export function rehypePuzzleBoards() {
     // One-answer reveals inside the hints (no JS): a reader stuck on one group, word or clue opens
     // just that one instead of jumping to the full solution.
     addReveals(p, data, kids, sections);
+
+    // Strands: the spangram one letter at a time, as the last item of the spangram hints list.
+    if (p.game === "strands" && data.spangram) {
+      const s = sections.find((x) => x.h2 && /spangram/i.test(text(x.h2)) && HINTS.test(text(x.h2)) && !SPOILER.test(text(x.h2)));
+      const ul = s?.range.map((i) => kids[i]).find((n) => n.tagName === "ul");
+      if (ul) ul.children.push({ type: "raw", value: `<li>${spangramLetters(data.spangram)}</li>` });
+    }
 
     // Boards, inserted from the bottom up so earlier indexes stay valid.
     const inserts = [];
@@ -328,6 +337,26 @@ function strandsTester(d, date) {
     + `<span class="tool-out" aria-live="polite"></span>`
     + `<span class="pz-track-tools"><button type="button" data-strands-reset>Clear my list</button></span>`
     + `</form>`;
+}
+
+/**
+ * The spangram revealed one letter per tap, without JavaScript: each <details> holds the word
+ * with one more letter shown and the next <details>. The page CSS hides the earlier steps once a
+ * deeper one is open, so the reader sees one line that grows. Exported for the unit test.
+ */
+export function spangramLetters(word) {
+  // Lowercase in the HTML (the page CSS shows capitals): a run of capitals reads as an
+  // unexpanded abbreviation to the audit's 08-ABBREV check.
+  const w = String(word).toLowerCase().replace(/[^a-z]/g, "");
+  const n = w.length;
+  if (!n) return "";
+  let html = "";
+  for (let k = n; k >= 1; k--) {
+    const shown = `<p class="pz-word"><span class="pz-word-l">${w.slice(0, k)}</span><span class="pz-word-b" aria-hidden="true">${"_".repeat(n - k)}</span> <small>(${k} of ${n} letters)</small></p>`;
+    const label = k === 1 ? "Show the first letter" : k === n ? "Show the last letter" : `Show letter ${k}`;
+    html = `<details class="pz-letters"><summary>${label}</summary>${shown}${html}</details>`;
+  }
+  return `<strong>Letter by letter:</strong> the spangram, one more letter per tap.${html}`;
 }
 
 const figure = (cls, body, caption) =>

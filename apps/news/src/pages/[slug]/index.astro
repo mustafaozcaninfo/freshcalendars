@@ -857,6 +857,14 @@ const keyDates = upcomingFor(new Set([article.id]));
   .prose-news :global(details.pz-hint > summary::after){content:"Show hint";padding:.1rem .6rem;border:1px solid var(--focus);border-radius:999px;font-size:.8rem;font-weight:700;color:var(--focus);background:var(--paper)}
   .prose-news :global(details.pz-hint[open] > summary::after){content:"Hide";color:var(--ink);border-color:var(--n-border)}
   .prose-news :global(details.pz-hint > span){display:block;margin:.1rem 0 .4rem;padding:.5rem .8rem;border-left:4px solid var(--gold);background:var(--surface-warm);border-radius:0 8px 8px 0}
+  .prose-news :global(details.pz-letters){margin:.35rem 0 0}
+  .prose-news :global(details.pz-letters summary){display:inline-flex;align-items:center;min-height:44px;padding:0 1rem;border:1px solid var(--focus);border-radius:999px;background:var(--paper);color:var(--focus);font-weight:700;font-size:.9rem;cursor:pointer;list-style:none}
+  .prose-news :global(details.pz-letters summary::-webkit-details-marker){display:none}
+  .prose-news :global(details.pz-letters details.pz-letters[open] > summary){display:none}
+  .prose-news :global(details.pz-letters[open] > p.pz-word:has(~ details[open])){display:none}
+  .prose-news :global(.pz-word){margin:.4rem 0 0;padding:.5rem .8rem;border-left:4px solid var(--gold);background:var(--surface-warm);border-radius:0 8px 8px 0}
+  .prose-news :global(.pz-word-l),.prose-news :global(.pz-word-b){font:800 1.25rem/1.3 Sora,"Sora Fallback",sans-serif;letter-spacing:.18em;text-transform:uppercase;word-break:break-all}
+  .prose-news :global(.pz-word-b){color:var(--ink)}
   .prose-news :global(.pz-board){margin:0 0 1.5rem;padding:1rem;border:1px solid var(--n-border);border-radius:var(--n-radius);background:var(--paper);box-shadow:var(--n-shadow)}
   .prose-news :global(.pz-board figcaption){margin:.75rem 0 0;font-size:.9rem;line-height:1.45;color:var(--ink)}
   .prose-news :global(.pz-tiles){display:flex;justify-content:center;gap:.4rem;margin:0;padding:0;list-style:none}
