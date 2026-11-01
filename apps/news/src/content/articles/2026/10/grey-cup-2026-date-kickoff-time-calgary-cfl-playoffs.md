@@ -106,7 +106,7 @@ downloads:
 draft: false
 ---
 
-<p class="callout">The Division Finals are set for Saturday, Nov. 7: Winnipeg at Montreal at 3 p.m. ET and BC at Edmonton at 6:30 p.m. ET, per the CFL's Oct. 31 release. Canadian coverage is on TSN, CTV, Crave and RDS, and CFL+ streams the games outside Canada.</p>
+<p class="callout">The Division Finals are set for Saturday, Nov. 7: Winnipeg at Montreal at 3 p.m. ET and BC at Edmonton at 6:30 p.m. ET, per the CFL's Oct. 31 release. Outside Canada, the league streams both games on CFL+.</p>
 
 **The 113th Grey Cup is scheduled for Sunday, Nov. 15, 2026, at McMahon Stadium in Calgary, with a 6 p.m. Eastern Time (ET) start, according to the Canadian Football League (CFL).** The league set the playoff matchups and start times in an Oct. 24, 2026 release. Below: the semi-finals, the time in every Canadian zone and where to watch.
 
