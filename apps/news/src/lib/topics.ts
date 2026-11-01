@@ -22,6 +22,8 @@ export interface Topic {
   year?: string;
   /** Pillar story shown as "Start here"; when missing or not a member, the most central core story. */
   start?: string;
+  /** A daily puzzle hub: the page shows a date, number and link table of its daily pages (lib/puzzle-hub.ts). */
+  puzzle?: boolean;
 }
 
 export const MIN_TOPIC_STORIES = 4;
@@ -88,66 +90,77 @@ export const TOPICS: Topic[] = [
   // depth) and readers find past answers in one list.
   {
     slug: "wordle",
+    puzzle: true,
     name: "Wordle Answers and Hints",
     description: "Every Wordle hints and answer page from Fresh Calendars, newest first: graded clues for each puzzle number and the answer checked against the puzzle data.",
     match: ["wordle"],
   },
   {
     slug: "nyt-connections",
+    puzzle: true,
     name: "NYT Connections Answers and Hints",
     description: "Every New York Times Connections page, Sports Edition too: hints for each color group first, then the four groups and what links the words, newest first.",
     match: ["connections"],
   },
   {
     slug: "nyt-strands",
+    puzzle: true,
     name: "NYT Strands Answers and Hints",
     description: "Every New York Times Strands page, newest first: the clue explained, spangram and theme-word hints, then all the answers from the official puzzle data.",
     match: ["strands"],
   },
   {
     slug: "nyt-spelling-bee",
+    puzzle: true,
     name: "NYT Spelling Bee Answers and Hints",
     description: "Every New York Times Spelling Bee page, newest first: letters, hint grid, two-letter list and Genius score, then the pangrams and full word list.",
     match: ["spelling bee"],
   },
   {
     slug: "nyt-pips",
+    puzzle: true,
     name: "NYT Pips Answers and Hints",
     description: "Every New York Times Pips page, newest first: hints for the Easy, Medium and Hard boards, then domino placements checked against every region rule.",
     match: ["pips"],
   },
   {
     slug: "nyt-letter-boxed",
+    puzzle: true,
     name: "NYT Letter Boxed Answers and Hints",
     description: "Every New York Times Letter Boxed page, newest first: the four sides and par, starting hints and warm-up words, then the Times' own solution.",
     match: ["letter boxed"],
   },
   {
     slug: "nyt-mini-crossword",
+    puzzle: true,
     name: "NYT Mini Crossword Answers",
     description: "Every New York Times Mini Crossword page, newest first: a hint for each across and down clue, then the full grid from the Mini's official puzzle data.",
     match: ["mini crossword"],
   },
   {
     slug: "contexto",
+    puzzle: true,
     name: "Contexto Answers and Hints",
     description: "Every Contexto page, newest first: the game number, close words ranked by the game itself and hints that narrow the meaning, then the secret word.",
     match: ["contexto"],
   },
   {
     slug: "quordle",
+    puzzle: true,
     name: "Quordle Answers and Hints",
     description: "Every Quordle page, newest first: a clue for each of the four five-letter words in the daily puzzle, then all four answers in a marked spoiler section.",
     match: ["quordle"],
   },
   {
     slug: "waffle",
+    puzzle: true,
     name: "Waffle Answers and Hints",
     description: "Every Waffle page, newest first: a clue for each of the six words in the daily grid, then the solved grid and a route that finishes in the minimum swaps.",
     match: ["waffle"],
   },
   {
     slug: "linkedin-games",
+    puzzle: true,
     name: "LinkedIn Games Answers",
     description: "Every LinkedIn games page, newest first: hints and answers for Queens, Tango, Zip, Pinpoint, Crossclimb and Mini Sudoku, checked before they are posted.",
     match: ["linkedin games", "linkedin"],

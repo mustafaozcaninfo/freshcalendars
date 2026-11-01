@@ -6,6 +6,7 @@
  */
 import ListingView from "../../../components/ListingView.astro";
 import KeyDates from "../../../components/KeyDates.astro";
+import PuzzleTable from "../../../components/PuzzleTable.astro";
 import { getCategoryNames, type Article } from "../../../lib/articles";
 import { upcomingFor } from "../../../lib/keydates";
 import { articlePath } from "../../../lib/seo";
@@ -43,6 +44,7 @@ const others = liveTopics(all).map((t) => t.topic).filter((t) => t.slug !== topi
     <p class="start"><span>Start here</span><a href={articlePath(start.id)}>{start.data.title}</a></p>
   )}
   <KeyDates dates={dates.slice(0, 8)} heading={`Coming up in ${topic.name}`} ics={`${path}dates.ics`} linkStories />
+  {topic.puzzle && <PuzzleTable stories={items.map((a) => ({ id: a.id, title: a.data.title }))} name={topic.name.replace(/ Answers.*$/, "")} />}
   {others.length > 0 && (
     <nav class="topics" aria-label="Other topics">
       {others.map((t) => <a href={topicPath(t.slug)}>{t.name}</a>)}
