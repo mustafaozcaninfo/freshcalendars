@@ -4,7 +4,7 @@ seoTitle: "Grey Cup 2026: Date, Time and CFL Playoff Schedule"
 description: "The 113th Grey Cup is Sunday, Nov. 15, 2026, at 6 p.m. Eastern Time (ET) in Calgary, the Canadian Football League (CFL) says. See the time in every zone."
 type: explainer
 publishedAt: "2026-10-26T01:09:00-04:00"
-updatedAt: "2026-10-26T13:45:00-04:00"
+updatedAt: "2026-11-01T12:38:00-05:00"
 authors: [alex-morgan]
 category: uk-canada
 keywords: ["Grey Cup 2026", "Grey Cup 2026 date", "when is the Grey Cup", "CFL playoffs 2026 schedule"]
@@ -23,22 +23,26 @@ hero:
 summary:
   - "The Canadian Football League (CFL) lists the 113th Grey Cup for Sunday, Nov. 15, 2026, at McMahon Stadium in Calgary, with a 6 p.m. Eastern Time (ET) start."
   - "By our conversion, 6 p.m. ET is 4 p.m. in Calgary, 3 p.m. Pacific, 7 p.m. Atlantic and 11 p.m. in the United Kingdom, because clocks fall back on Nov. 1."
-  - "The semi-finals are set for Saturday, Oct. 31: Winnipeg at Toronto at 1 p.m. ET and Saskatchewan at BC at 4:30 p.m. ET, the CFL said on Oct. 24. The division finals are Saturday, Nov. 7, in Montreal and Edmonton."
-  - "In Canada the season airs on TSN, Bell Media's broadcast network (CTV) and Réseau des sports (RDS), the CFL says. The CFL had not named a U.S. Grey Cup broadcaster in the sources we read."
+  - "Winnipeg and BC won the Oct. 31 semi-finals. On Saturday, Nov. 7, Winnipeg plays at Montreal in the Eastern Final at 3 p.m. ET and BC plays at Edmonton in the Western Final at 6:30 p.m. ET, the CFL said on Oct. 31."
+  - "In Canada the season airs on TSN, Bell Media's broadcast network (CTV) and Réseau des sports (RDS), the CFL says. Outside Canada the game streams on CFL+, the league said on Oct. 31."
 faq:
   - q: "When is the Grey Cup in 2026?"
     a: "The CFL lists the 113th Grey Cup for Sunday, Nov. 15, 2026, at McMahon Stadium in Calgary, with a 6 p.m. ET start."
   - q: "What time is the Grey Cup in Calgary?"
     a: "The CFL gives 6 p.m. ET. Because clocks fall back on Nov. 1, that is 4 p.m. Mountain Standard Time in Calgary, by our conversion."
   - q: "When are the CFL playoffs in 2026?"
-    a: "The Division Semi-Finals are Saturday, Oct. 31: Winnipeg Blue Bombers at Toronto Argonauts at 1 p.m. ET and Saskatchewan Roughriders at BC Lions at 4:30 p.m. ET. The Eastern Final in Montreal is Saturday, Nov. 7, at 3 p.m. ET and the Western Final in Edmonton follows at 6:30 p.m. ET, the CFL said on Oct. 24."
+    a: "The Division Finals are Saturday, Nov. 7: the Winnipeg Blue Bombers at the Montreal Alouettes in the Eastern Final at 3 p.m. ET, and the BC Lions at the Edmonton Elks in the Western Final at 6:30 p.m. ET (4:30 p.m. PT), the CFL said on Oct. 31. The winners meet in the 113th Grey Cup in Calgary on Nov. 15."
   - q: "Who is performing at the Grey Cup halftime show?"
     a: "TSN reported that country singer Riley Green will headline the Grey Cup halftime show in Calgary, citing a CFL announcement on Sept. 24, 2026."
   - q: "Who won the Grey Cup last year?"
     a: "As reported by The Canadian Press, the Saskatchewan Roughriders beat the Montreal Alouettes 25-17 in the 112th Grey Cup on Nov. 16, 2025, in Winnipeg."
   - q: "What channel is the Grey Cup on?"
-    a: "In Canada, The Sports Network (TSN) lists the Grey Cup on TSN1, TSN3, TSN4 and Bell Media's broadcast network (CTV). The CFL had not named a U.S. Grey Cup broadcaster in the sources we read."
+    a: "In Canada, The Sports Network (TSN) lists the Grey Cup on TSN1, TSN3, TSN4 and Bell Media's broadcast network (CTV). Outside Canada the game streams on CFL+, the league said on Oct. 31."
 sources:
+  - title: "FINAL FOUR MATCHUPS SET FOR MONTREAL AND EDMONTON"
+    url: "https://press.cfl.ca/final-four-matchups-set-for-montreal-and-edmonton"
+    publisher: "Canadian Football League"
+    date: "2026-10-31"
   - title: "SEMI-FINAL SATURDAY HEADS TO TORONTO AND BC"
     url: "https://press.cfl.ca/semi-final-saturday-heads-to-toronto-and-bc"
     publisher: "Canadian Football League"
@@ -83,11 +87,11 @@ assets:
       - ["Sat., Oct. 31", "East Semi-Final: Winnipeg at Toronto, BMO Field, 1 p.m. Eastern"]
       - ["Sat., Oct. 31", "West Semi-Final: Saskatchewan at BC, BC Place, 4:30 p.m. Eastern"]
       - ["Sun., Nov. 1", "Clocks fall back"]
-      - ["Sat., Nov. 7", "Eastern Final in Montreal, 3 p.m. Eastern"]
-      - ["Sat., Nov. 7", "Western Final in Edmonton, 6:30 p.m. Eastern"]
+      - ["Sat., Nov. 7", "Eastern Final: Winnipeg at Montreal, 3 p.m. Eastern"]
+      - ["Sat., Nov. 7", "Western Final: BC at Edmonton, 6:30 p.m. Eastern"]
       - ["Sun., Nov. 15", "113th Grey Cup, McMahon Stadium, Calgary: 6 p.m. Eastern"]
       - ["Sun., Nov. 15", "Same game, our conversion: 3 p.m. Pacific, 4 p.m. Calgary, 5 p.m. Central, 7 p.m. Atlantic, 7:30 p.m. Newfoundland"]
-    note: "Source: Canadian Football League press releases, Dec. 9, 2025 and Oct. 24, 2026. Schedule subject to change; time-zone conversions are ours."
+    note: "Source: Canadian Football League press releases, Dec. 9, 2025, Oct. 24 and Oct. 31, 2026. Schedule subject to change; time-zone conversions are ours."
     description: "A one-page CFL playoffs to Grey Cup 2026 timeline with the semi-final, division final and Grey Cup dates and times in Eastern time."
     alt: "CFL playoffs to Grey Cup 2026 timeline listing the Oct. 31, Nov. 7 and Nov. 15 games with times"
 downloads:
@@ -102,23 +106,23 @@ downloads:
 draft: false
 ---
 
-<p class="callout"><b>Last updated Mon., Oct. 26, 2026, 1:45 p.m. ET.</b> The CFL has set the semi-finals: Winnipeg at Toronto at 1 p.m. ET and Saskatchewan at BC at 4:30 p.m. ET on Saturday, Oct. 31. Its Oct. 24 release also confirms the start times of The Sports Network (TSN), which earlier differed from the league's December schedule.</p>
+<p class="callout">The Division Finals are set for Saturday, Nov. 7: Winnipeg at Montreal at 3 p.m. ET and BC at Edmonton at 6:30 p.m. ET, per the CFL's Oct. 31 release. Outside Canada, the league streams both games on CFL+.</p>
 
 **The 113th Grey Cup is scheduled for Sunday, Nov. 15, 2026, at McMahon Stadium in Calgary, with a 6 p.m. Eastern Time (ET) start, according to the Canadian Football League (CFL).** The league set the playoff matchups and start times in an Oct. 24, 2026 release. Below: the semi-finals, the time in every Canadian zone and where to watch.
 
 ## What is the Grey Cup 2026 date and time?
 
-The CFL's Oct. 24 release gives every playoff game before the Grey Cup. Times are in ET. Canadian coverage is on TSN, Bell Media's broadcast network (CTV) and the French-language Réseau des sports (RDS).
+The CFL's Oct. 24 release gives every playoff game before the Grey Cup. Times are in ET. Canadian coverage is on The Sports Network (TSN), Bell Media's broadcast network (CTV) and the French-language Réseau des sports (RDS).
 
 | Date | Game | Time (CFL) | Canadian TV |
 |---|---|---|---|
 | Saturday, Oct. 31 | Eastern Semi-Final: Winnipeg Blue Bombers at Toronto Argonauts, Toronto | 1 p.m. ET (noon CT) | TSN1, TSN4, CTV, RDS |
 | Saturday, Oct. 31 | Western Semi-Final: Saskatchewan Roughriders at BC Lions, BC Place | 4:30 p.m. ET (1:30 p.m. PT) | TSN1, TSN4, RDS |
-| Saturday, Nov. 7 | Eastern Final, Montreal | 3 p.m. ET | Not given in the release |
-| Saturday, Nov. 7 | Western Final, Edmonton | 6:30 p.m. ET | Not given in the release |
+| Saturday, Nov. 7 | Eastern Final: Winnipeg Blue Bombers at Montreal Alouettes, Percival Molson Stadium | 3 p.m. ET | TSN1, TSN3, CTV, Crave, RDS |
+| Saturday, Nov. 7 | Western Final: BC Lions at Edmonton Elks, Commonwealth Stadium | 6:30 p.m. ET (4:30 p.m. PT) | TSN1, TSN3, TSN4, RDS |
 | Sunday, Nov. 15 | 113th Grey Cup, McMahon Stadium, Calgary | 6 p.m. ET | TSN, CTV |
 
-Outside Canada, the league streams the semi-finals on CFL+. The semi-finals fall on Saturday daylight time; clocks fall back on Sunday, Nov. 1, so the Nov. 7 finals and the Grey Cup are on standard time.
+Winnipeg and BC advanced from the Oct. 31 semi-finals, the CFL's Oct. 31 release shows. Outside Canada, the league streams both division finals and the Grey Cup on CFL+. The semi-finals fall on Saturday daylight time; clocks fall back on Sunday, Nov. 1, so the Nov. 7 finals and the Grey Cup are on standard time.
 
 The Sports Network (TSN) lists the Grey Cup on Nov. 15 at 6 p.m. too. Its listing shows teams as to be determined and carries the note "Schedule subject to change."
 
@@ -151,7 +155,7 @@ TSN reported that country singer Riley Green will headline the halftime show in 
 
 In Canada, the CFL says Bell Media will broadcast the 2026 season across TSN, Réseau des sports (RDS) and its broadcast network (CTV). TSN lists the Grey Cup on TSN1, TSN3, TSN4 and CTV.
 
-In the United States, the CFL says select games air on CBS Sports Network and the rest stream on CFL+. The CFL had not named a U.S. Grey Cup broadcaster in the sources we read, so check the league's schedule for the Nov. 15 game.
+In the United States, the CFL says select games air on CBS Sports Network and the rest stream on CFL+. The CFL's Oct. 31 release lists CFL+ for the Grey Cup outside Canada and names no U.S. TV channel for it.
 
 ## Who won the Grey Cup last year?
 

@@ -75,7 +75,7 @@ internalLinks:
     label: "November 2026 printable calendar"
   - href: "/when-is/daylight-savings/"
     label: "When does daylight saving time end"
-related: [november-2026-meteor-showers-taurids-leonids, planets-visible-november-2026-night-sky-calendar-moon-venus-uranus-opposition, moon-phase-tonight-october-27-november-2026-moon-calendar]
+related: [november-2026-meteor-showers-taurids-leonids, planets-visible-november-2026-night-sky-calendar-moon-venus-uranus-opposition, northern-lights-uk-tonight-november-1-2026-met-office-aurora-scotland]
 assets:
   scene: night-sky
   overlay: true
