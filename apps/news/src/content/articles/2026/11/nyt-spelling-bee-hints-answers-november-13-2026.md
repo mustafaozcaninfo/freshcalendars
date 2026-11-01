@@ -3,7 +3,7 @@ title: "NYT Spelling Bee Hints and Answers for Friday, Nov. 13, 2026: Hint Grid,
 seoTitle: "Spelling Bee Hints Today, Nov. 13, 2026"
 description: "Spelling Bee for Friday, Nov. 13, 2026: center letter C with A, H, N, O, P and Y, the hint grid, two-letter list and pangram hint, then all 35 words."
 type: explainer
-publishedAt: "2026-11-01T05:27:00-05:00"
+publishedAt: "2026-11-12T00:05:00-05:00"
 authors: [news-desk]
 category: puzzles
 keywords: ["Spelling Bee hints today", "Spelling Bee answers today", "NYT Spelling Bee November 13 2026", "Spelling Bee pangram today", "Spelling Bee hint grid"]
