@@ -4,6 +4,7 @@ seoTitle: "New on Paramount+ November 2026: Dates and Plans"
 description: "Paramount Press Express dates Yellowjackets final season for Fri., Nov. 20, 2026, after Dexter: Resurrection season 2 on Oct. 30. Plans needed and a printable."
 type: news
 publishedAt: "2026-10-28T15:50:00-04:00"
+updatedAt: "2026-11-01T02:42:00-05:00"
 authors: [jordan-bennett]
 category: entertainment
 keywords: ["new on Paramount+ November 2026", "Paramount Plus November 2026", "Yellowjackets season 4 release date", "Dexter Resurrection season 2 release date"]
@@ -40,14 +41,14 @@ hero:
     authorUrl: "https://www.flickr.com/people/28478778@N05"
 summary:
   - "Paramount Press Express says Yellowjackets returns for its fourth and final season on Paramount+ with the Premium Plan on Friday, Nov. 20, 2026."
-  - "Dexter: Resurrection season 2 returns Friday, Oct. 30; It Gets Worse (six episodes) arrives Nov. 6; He Said, She Said: Till Death Do Us Part (three episodes) on Nov. 17."
+  - "Dexter: Resurrection season 2 returned Friday, Oct. 30; It Gets Worse (six episodes) arrives Nov. 6; He Said, She Said: Till Death Do Us Part (three episodes) on Nov. 17."
   - "The JLo Show airs on CBS on Thanksgiving, Thu., Nov. 26, from 8 to 10 p.m. Eastern Time (ET), and only Premium subscribers can stream it live."
   - "Paramount has not published a full November list, so other titles, episode counts for Yellowjackets and streaming start times are not yet announced."
 faq:
   - q: "When does Yellowjackets season 4 come out on Paramount+?"
     a: "Paramount Press Express says the series returns to Paramount+ with the Premium Plan on Friday, Nov. 20, 2026. It is the fourth and final season. The episode count and whether episodes arrive weekly or all at once are not yet announced."
   - q: "When is the Dexter: Resurrection season 2 release date?"
-    a: "Dexter: Resurrection season 2 returns on Paramount+ on Friday, Oct. 30, 2026, according to Paramount Press Express. The release does not state an episode count or release pattern."
+    a: "Dexter: Resurrection season 2 returned on Paramount+ on Friday, Oct. 30, 2026, according to Paramount Press Express. The release does not state an episode count or release pattern."
   - q: "What time do Paramount+ titles release?"
     a: "The Paramount Press Express releases used here give no start time for the streaming drops, so this story does not either. Only The JLo Show has a stated time: 8 to 10 p.m. ET/PT on Thanksgiving."
   - q: "How much is Paramount+?"
@@ -102,7 +103,7 @@ downloads:
 draft: false
 ---
 
-**Paramount Press Express, the official Paramount press site, says the fourth and final season of "Yellowjackets" returns to Paramount+ with the Premium Plan on Friday, Nov. 20, 2026, three weeks after "Dexter: Resurrection" season 2 returns on Friday, Oct. 30.** The table below lists each dated November title with the plan it needs, and a free printable calendar follows it.
+**Paramount Press Express, the official Paramount press site, says the fourth and final season of "Yellowjackets" returns to Paramount+ with the Premium Plan on Friday, Nov. 20, 2026, three weeks after "Dexter: Resurrection" season 2 returned on Friday, Oct. 30.** The table below lists each dated November title with the plan it needs, and a free printable calendar follows it.
 
 <p class="callout"><b>Checked Oct. 28, 2026.</b> Paramount has not published a full November 2026 list, so this covers only the titles with a date in its releases. Paramount's releases give no start time for any streaming drop, so none appear here.</p>
 

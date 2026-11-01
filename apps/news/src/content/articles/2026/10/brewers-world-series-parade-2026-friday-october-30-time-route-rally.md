@@ -1,10 +1,10 @@
 ---
 title: "Brewers World Series Parade 2026: Time, Start Point, Rally and Shuttles on Friday, Oct. 30"
 seoTitle: "Brewers Parade 2026: Time, Route, Rally, Shuttles"
-description: "The Brewers' Parade of Champions is Friday, Oct. 30, 2026, at 10 a.m. Central Time (CT), 11 a.m. Eastern Time (ET). Start point, rally, shuttles and bags."
+description: "The Brewers' Parade of Champions was Friday, Oct. 30, 2026, at 10 a.m. Central Time (CT), 11 a.m. Eastern Time (ET). Start point, rally, shuttles and bags."
 type: news
 publishedAt: "2026-10-29T01:50:00-04:00"
-updatedAt: "2026-10-30T00:30:00-04:00"
+updatedAt: "2026-11-01T10:27:00-05:00"
 authors: [jordan-bennett]
 category: sports
 keywords: ["brewers parade", "brewers world series parade time", "brewers parade route", "brewers rally tickets", "brewers parade of champions"]
@@ -46,7 +46,7 @@ hero:
     author: "DiscoA340"
     authorUrl: "https://commons.wikimedia.org/wiki/User:DiscoA340"
 summary:
-  - "The Milwaukee Brewers' Parade of Champions is Friday, Oct. 30, 2026, starting at 10 a.m. Central Time (CT), which is 11 a.m. Eastern Time (ET), at N. 4th St. and W. Wisconsin Ave."
+  - "The Milwaukee Brewers' Parade of Champions was Friday, Oct. 30, 2026, starting at 10 a.m. Central Time (CT), which is 11 a.m. Eastern Time (ET), at N. 4th St. and W. Wisconsin Ave."
   - "The parade ends at Henry Maier Festival Park, where the Championship Rally has free admission, gates at 8 a.m. and festivities until 3 p.m. CT."
   - "Amphitheater tickets are sold out, the Brewers say; park admission is free and shuttles cost $5 per passenger. Milwaukee County Transit System (MCTS) detours buses from 6 a.m. to 1 p.m. and from 9:30 to 11 a.m."
   - "Visit Milwaukee lists the route: east on Wisconsin Avenue, north on Jefferson, east on Mason, south on Jackson and east on Chicago Street to the Summerfest grounds. Road closures begin at 7 a.m., and the Wisconsin Avenue bridge is closed even to walkers, news outlets report."
@@ -168,7 +168,7 @@ draft: false
 
 <p class="callout"><b>Last updated Fri., Oct. 30, 2026, 12:30 a.m. ET.</b> Added the street-by-street route from Visit Milwaukee, the reported road and ramp closures, the Wisconsin Avenue bridge closure and the Milwaukee County Transit System's extra bus service and fare.</p>
 
-The Milwaukee Brewers' Parade of Champions is today, Friday, Oct. 30, 2026, starting at 10 a.m. Central Time (CT), which is 11 a.m. Eastern Time (ET), at N. 4th St. and W. Wisconsin Ave., according to the Brewers. The parade runs through downtown and ends at Henry Maier Festival Park, the Summerfest grounds, where a Championship Rally follows.
+The Milwaukee Brewers held their Parade of Champions on Friday, Oct. 30, 2026, starting at 10 a.m. Central Time (CT), which is 11 a.m. Eastern Time (ET), at N. 4th St. and W. Wisconsin Ave., according to the Brewers. The parade ran through downtown and ended at Henry Maier Festival Park, the Summerfest grounds, where a Championship Rally followed.
 
 The website wbay.com reported on Oct. 28 that owner Mark Attanasio announced the Friday, Oct. 30 date and 10 a.m. start. The team's own parade page, checked Oct. 29, is the source for every time below. Our one-page [Brewers Parade Day Plan](#printable) puts them in order, and the [October 2026 printable calendar](/october-calendars.html) has room to mark the day.
 

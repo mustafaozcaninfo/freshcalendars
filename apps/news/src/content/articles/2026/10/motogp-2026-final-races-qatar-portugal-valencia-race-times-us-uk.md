@@ -4,6 +4,7 @@ seoTitle: "MotoGP 2026 Remaining Races: Times in ET and UK"
 description: "Three MotoGP rounds are left in 2026: Qatar Nov. 6-8, Portugal Nov. 20-22 and Valencia Nov. 27-29. The finale is 8 a.m. Eastern Time (ET) on Nov. 29."
 type: explainer
 publishedAt: "2026-10-30T17:43:00-04:00"
+updatedAt: "2026-11-01T10:27:00-05:00"
 authors: [jordan-bennett]
 category: sports
 keywords: ["motogp 2026 remaining races schedule", "motogp valencia 2026 race time", "motogp qatar 2026 time et", "motogp portugal 2026 schedule", "last motogp race 2026"]
@@ -114,7 +115,7 @@ downloads:
 draft: false
 ---
 
-**This weekend's Malaysian Grand Prix (round 19) has the Tissot Sprint tomorrow, Saturday, Oct. 31, 2026, at 3 a.m. Eastern Daylight Time (EDT) and the race on Sunday, Nov. 1, at 2 a.m. Eastern Standard Time (EST), and then three rounds remain, according to MotoGP's official calendar: Qatar on Nov. 6-8, Portugal on Nov. 20-22 and the Valencia finale on Nov. 27-29.** The table below converts every remaining MotoGP session to Eastern Time (ET), Pacific Time (PT) and UK time. Our [MotoGP Malaysia 2026 race time story](/news/motogp-malaysia-2026-race-time-sprint-schedule-us-time-zones/) has the full Sepang schedule.
+**The Malaysian Grand Prix (round 19) at Sepang is over, and three rounds remain in the 2026 MotoGP season, according to MotoGP's official calendar: Qatar on Nov. 6-8, Portugal on Nov. 20-22 and the Valencia finale on Nov. 27-29.** The table below converts every remaining MotoGP session to Eastern Time (ET), Pacific Time (PT) and UK time. Our [MotoGP Malaysia 2026 race time story](/news/motogp-malaysia-2026-race-time-sprint-schedule-us-time-zones/) has the full Sepang schedule.
 
 ## Which MotoGP rounds are left in 2026?
 

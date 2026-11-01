@@ -4,6 +4,7 @@ seoTitle: "Lifelong Learning Entitlement Applications Open Now"
 description: "Applications for the Lifelong Learning Entitlement (LLE) opened on 30 October 2026 for courses starting 1 January to 31 August 2027, GOV.UK says."
 type: news
 publishedAt: "2026-10-30T10:22:00-04:00"
+updatedAt: "2026-11-01T10:30:00-05:00"
 authors: [alex-morgan]
 category: uk-canada
 keywords: ["lifelong learning entitlement applications open", "lifelong learning entitlement how to apply", "LLE student finance 2027", "LLE £39,160"]
@@ -112,7 +113,7 @@ downloads:
 draft: false
 ---
 
-**Applications for the Lifelong Learning Entitlement (LLE) opened today, Friday 30 October 2026, for courses starting from 1 January 2027 to 31 August 2027**, according to a GOV.UK announcement that points students to the Student Loans Company (SLC) application. GOV.UK says students who have not had student finance before can get a Tuition Fee Loan of up to £39,160. This story adds a table that matches your course start date to the right route, a table of the key numbers and a one-page checklist.
+**Applications for the Lifelong Learning Entitlement (LLE) opened on Friday 30 October 2026, for courses starting from 1 January 2027 to 31 August 2027**, according to a GOV.UK announcement that points students to the Student Loans Company (SLC) application. GOV.UK says students who have not had student finance before can get a Tuition Fee Loan of up to £39,160. This story adds a table that matches your course start date to the right route, a table of the key numbers and a one-page checklist.
 
 ## Which route applies to your course start date?
 

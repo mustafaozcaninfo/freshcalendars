@@ -4,6 +4,7 @@ seoTitle: "Capitol Christmas Tree 2026 Tour Schedule and Stops"
 description: "The 2026 U.S. Capitol Christmas Tree tour began Oct. 29 in Idaho and makes 21 stops in 10 states, ending at Joint Base Andrews, Maryland, on Nov. 19."
 type: news
 publishedAt: "2026-10-31T15:45:00-04:00"
+updatedAt: "2026-11-01T02:45:00-05:00"
 authors: [alex-morgan]
 category: holidays
 keywords: ["Capitol Christmas Tree 2026 tour schedule", "Capitol Christmas Tree 2026 stops", "Capitol Christmas Tree tour near me", "2026 Capitol Christmas Tree Idaho"]
@@ -21,12 +22,12 @@ hero:
     authorUrl: "https://commons.wikimedia.org/wiki/User:Sdkb"
 summary:
   - "The official U.S. Capitol Christmas Tree tour began Oct. 29, 2026, in Grangeville, Idaho, and the route announced Oct. 1 lists 21 stops in 10 states."
-  - "Today, Sat., Oct. 31, the tree is in Moscow, Idaho; Sun., Nov. 1 brings Orofino and Kamiah, Idaho."
+  - "Today, Sun., Nov. 1, the tree is in Orofino and Kamiah, Idaho; the next stop is Lolo, Montana, on Tue., Nov. 3."
   - "The last listed stop is Joint Base Andrews, Maryland, on Thu., Nov. 19, with military ID access only."
   - "The Capitol arrival date and the lighting date are not yet announced, and stop times and venues are still being finalized."
 faq:
-  - q: "Where is the Capitol Christmas Tree today, Oct. 31, 2026?"
-    a: "The route lists Moscow, Idaho, for Saturday, Oct. 31. The project's route page gives no times or venues."
+  - q: "Where is the Capitol Christmas Tree today, Nov. 1, 2026?"
+    a: "The route lists Orofino and Kamiah, Idaho, for Sunday, Nov. 1. The project's route page gives no times or venues."
   - q: "Where did the 2026 Capitol Christmas Tree come from?"
     a: "The Architect of the Capitol (AOC) lists the 2026 tree as a 76-foot Engelmann spruce from the Nez Perce-Clearwater National Forests in Idaho."
   - q: "Is the Capitol Christmas Tree tour free?"
@@ -121,37 +122,37 @@ assets:
     alt: "Printable Capitol Christmas Tree 2026 tour tracker listing 21 stops from Grangeville, Idaho, to Joint Base Andrews, Maryland"
 ---
 
-The U.S. Capitol Christmas Tree is on the road: the official tour began Oct. 29, 2026, in Grangeville, Idaho, stops in Moscow, Idaho, today (Saturday, Oct. 31) and in Orofino and Kamiah, Idaho, on Sunday, Nov. 1, and ends at Joint Base Andrews, Maryland, on Thursday, Nov. 19, according to the project's route announcement of Oct. 1, 2026. Below is the full stop list by date, with weekdays and a count of days from Oct. 31, plus a one-page printable tracker.
+The U.S. Capitol Christmas Tree is on the road: the official tour began Oct. 29, 2026, in Grangeville, Idaho, stopped in Moscow, Idaho, on Saturday, Oct. 31, reaches Orofino and Kamiah, Idaho, today (Sunday, Nov. 1), and ends at Joint Base Andrews, Maryland, on Thursday, Nov. 19, according to the project's route announcement of Oct. 1, 2026. Below is the full stop list by date, with weekdays and a count of days from Nov. 1, plus a one-page printable tracker.
 
 ## Capitol Christmas Tree 2026 tour stops by date
 
-The route announcement lists 21 stops in 10 states: Idaho (nine stops), Montana (two), South Dakota (two), Maryland (two), and Wyoming, Minnesota, Illinois, Indiana, West Virginia and Pennsylvania (one each). The page gives towns and dates only, with no times or venues. The weekdays and the "days from today" column are ours, counted from Saturday, Oct. 31, 2026.
+The route announcement lists 21 stops in 10 states: Idaho (nine stops), Montana (two), South Dakota (two), Maryland (two), and Wyoming, Minnesota, Illinois, Indiana, West Virginia and Pennsylvania (one each). The page gives towns and dates only, with no times or venues. The weekdays and the "days from today" column are ours, counted from Sunday, Nov. 1, 2026.
 
-| Date | Town and state | Days from Oct. 31 |
+| Date | Town and state | Days from Nov. 1 |
 |---|---|---|
-| Thu., Oct. 29 | Grangeville, Idaho | Past (2 days ago) |
-| Fri., Oct. 30 | Lewiston, Idaho | Past (yesterday) |
-| Sat., Oct. 31 | Moscow, Idaho | Today |
-| Sun., Nov. 1 | Orofino, Idaho | In 1 day |
-| Sun., Nov. 1 | Kamiah, Idaho | In 1 day |
-| Tue., Nov. 3 | Lolo, Montana | In 3 days |
-| Wed., Nov. 4 | Salmon, Idaho | In 4 days |
-| Thu., Nov. 5 | Craters of the Moon National Monument, Idaho | In 5 days |
-| Thu., Nov. 5 | Twin Falls, Idaho | In 5 days |
-| Fri., Nov. 6 | Idaho Falls, Idaho | In 6 days |
-| Sat., Nov. 7 | Gardiner, Montana | In 7 days |
-| Mon., Nov. 9 | Sheridan, Wyoming | In 9 days |
-| Tue., Nov. 10 | Custer, South Dakota | In 10 days |
-| Thu., Nov. 12 | Mitchell, South Dakota | In 12 days |
-| Thu., Nov. 12 | Albert Lea, Minnesota | In 12 days |
-| Fri., Nov. 13 | Peoria, Illinois | In 13 days |
-| Sat., Nov. 14 | Richmond, Indiana | In 14 days |
-| Mon., Nov. 16 | Morgantown, West Virginia | In 16 days |
-| Tue., Nov. 17 | Hagerstown, Maryland | In 17 days |
-| Tue., Nov. 17 | Littlestown, Pennsylvania | In 17 days |
-| Thu., Nov. 19 | Joint Base Andrews, Maryland (military ID access only) | In 19 days |
+| Thu., Oct. 29 | Grangeville, Idaho | Past (3 days ago) |
+| Fri., Oct. 30 | Lewiston, Idaho | Past (2 days ago) |
+| Sat., Oct. 31 | Moscow, Idaho | Past (yesterday) |
+| Sun., Nov. 1 | Orofino, Idaho | Today |
+| Sun., Nov. 1 | Kamiah, Idaho | Today |
+| Tue., Nov. 3 | Lolo, Montana | In 2 days |
+| Wed., Nov. 4 | Salmon, Idaho | In 3 days |
+| Thu., Nov. 5 | Craters of the Moon National Monument, Idaho | In 4 days |
+| Thu., Nov. 5 | Twin Falls, Idaho | In 4 days |
+| Fri., Nov. 6 | Idaho Falls, Idaho | In 5 days |
+| Sat., Nov. 7 | Gardiner, Montana | In 6 days |
+| Mon., Nov. 9 | Sheridan, Wyoming | In 8 days |
+| Tue., Nov. 10 | Custer, South Dakota | In 9 days |
+| Thu., Nov. 12 | Mitchell, South Dakota | In 11 days |
+| Thu., Nov. 12 | Albert Lea, Minnesota | In 11 days |
+| Fri., Nov. 13 | Peoria, Illinois | In 12 days |
+| Sat., Nov. 14 | Richmond, Indiana | In 13 days |
+| Mon., Nov. 16 | Morgantown, West Virginia | In 15 days |
+| Tue., Nov. 17 | Hagerstown, Maryland | In 16 days |
+| Tue., Nov. 17 | Littlestown, Pennsylvania | In 16 days |
+| Thu., Nov. 19 | Joint Base Andrews, Maryland (military ID access only) | In 18 days |
 
-Two stops are already behind the tree and 18 remain after today's. The route lists no stop on Mon., Nov. 2, Sun., Nov. 8, Wed., Nov. 11, Sun., Nov. 15 or Wed., Nov. 18. Put the dates you plan to attend on the [November 2026 printable calendar](/november-calendars.html).
+Three stops are already behind the tree and 16 remain after today's. The route lists no stop on Mon., Nov. 2, Sun., Nov. 8, Wed., Nov. 11, Sun., Nov. 15 or Wed., Nov. 18. Put the dates you plan to attend on the [November 2026 printable calendar](/november-calendars.html).
 
 ## What time does the tree reach my town?
 

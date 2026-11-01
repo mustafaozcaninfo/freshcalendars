@@ -1,9 +1,10 @@
 ---
 title: "Mexico City Day of the Dead Parade 2026: Saturday, Oct. 31 at 2 p.m., Reforma to the Zócalo, U.S. Times"
 seoTitle: "Mexico City Day of the Dead Parade 2026: Time and Route"
-description: "The Mexico City Day of the Dead parade is Sat., Oct. 31, 2026, at 2 p.m. (4 p.m. Eastern Time (ET)), from Reforma to the Zócalo, per the city's tourism site."
+description: "The Mexico City Day of the Dead parade was Sat., Oct. 31, 2026, at 2 p.m. (4 p.m. Eastern Time (ET)), from Reforma to the Zócalo, per the city's tourism site."
 type: news
 publishedAt: "2026-10-28T23:44:00-04:00"
+updatedAt: "2026-11-01T02:39:00-05:00"
 authors: [jordan-bennett]
 category: holidays
 keywords: ["Mexico City Day of the Dead parade 2026", "Día de Muertos parade CDMX 2026 time", "desfile de Día de Muertos 2026", "Day of the Dead parade route Mexico City"]
@@ -19,13 +20,13 @@ hero:
     source: "https://commons.wikimedia.org/wiki/File:Desfile_d%C3%ADa_de_muertos_2018_DSC_0146_(31766250088).jpg"
     author: "Gobierno CDMX"
 summary:
-  - "The Gran Desfile de Día de Muertos in Mexico City is Saturday, Oct. 31, 2026, at 14:00, and the official route runs along Paseo de la Reforma to the Zócalo, the city government's tourism site says."
+  - "The Gran Desfile de Día de Muertos in Mexico City was Saturday, Oct. 31, 2026, at 14:00, and the official route ran along Paseo de la Reforma to the Zócalo, the city government's tourism site says."
   - "At 2 p.m. in Mexico City, it is 4 p.m. Eastern Time (ET), 3 p.m. Central Time (CT), 1 p.m. Pacific Time (PT) and 8 p.m. in London, by our conversion."
   - "The Ofrenda Monumental in the Zócalo runs Oct. 29 to Nov. 2, and San Andrés Mixquic holds three nights of events from Oct. 31 to Nov. 2."
   - "The official page gives no end time, and we found no 2026 road-closure or Metro notice on the pages we could reach."
 faq:
-  - q: "What time is the Mexico City Day of the Dead parade in 2026?"
-    a: "The city government's tourism site lists Saturday, Oct. 31, 2026, at 14:00 Mexico City time. That is 4 p.m. Eastern Time (ET) and 1 p.m. Pacific Time (PT), by our conversion."
+  - q: "What time was the Mexico City Day of the Dead parade in 2026?"
+    a: "The city government's tourism site listed Saturday, Oct. 31, 2026, at 14:00 Mexico City time. That was 4 p.m. Eastern Time (ET) and 1 p.m. Pacific Time (PT), by our conversion."
   - q: "What is the 2026 parade route?"
     a: "The official page says Avenida Paseo de la Reforma to the Zócalo. Chilango reports a start at the Glorieta de la Diana, then Reforma, Avenida Juárez, Eje Central and 5 de Mayo."
   - q: "Is the Mega Procesión de Catrinas still to come?"
@@ -81,9 +82,9 @@ downloads:
 draft: false
 ---
 
-**The Mexico City Day of the Dead parade is Saturday, Oct. 31, 2026, at 2 p.m. Mexico City time (4 p.m. Eastern Time (ET)), and it runs along Avenida Paseo de la Reforma to the Zócalo, according to the Mexico City government's tourism site.** The page calls it the Gran Desfile de Día de Muertos. It gives no end time. Below: the time in U.S. and U.K. zones, the route, the other events through Nov. 2 and what is still not announced.
+**The Mexico City Day of the Dead parade was Saturday, Oct. 31, 2026, at 2 p.m. Mexico City time (4 p.m. Eastern Time (ET)), and it ran along Avenida Paseo de la Reforma to the Zócalo, according to the Mexico City government's tourism site.** The page calls it the Gran Desfile de Día de Muertos. It gave no end time. Below: the time in U.S. and U.K. zones, the route, the other events through Nov. 2 and what was not announced. The Zócalo ofrenda and the San Andrés Mixquic nights run through Monday, Nov. 2.
 
-## What time is the Mexico City Day of the Dead parade?
+## What time was the Mexico City Day of the Dead parade?
 
 The tourism portal lists "Sábado 31 de octubre a las 14:00 horas." Mexico City has used Coordinated Universal Time (UTC) minus 6 hours (UTC-6) all year since 2022. U.S. clocks are still on daylight time on Oct. 31 and fall back on Nov. 1, so the gap to Eastern is 2 hours on parade day. The conversions are ours, checked with the Mexico City time zone database.
 

@@ -4,7 +4,7 @@ seoTitle: "GTA 6 Countdown: Release Time by Time Zone"
 description: "Live Grand Theft Auto (GTA) VI countdown to Nov. 19, 2026, with the PlayStation Store release time in Eastern Time (ET), Pacific Time (PT), the UK and India."
 type: explainer
 publishedAt: "2026-10-23T03:05:00-04:00"
-updatedAt: "2026-10-27T17:55:00-04:00"
+updatedAt: "2026-11-01T05:39:00-05:00"
 authors: [jordan-bennett]
 category: retail-dates
 keywords: ["GTA 6 countdown", "GTA 6 release time", "GTA 6 release date and time EST", "GTA 6 countdown days", "GTA 6 countdown printable"]
@@ -45,13 +45,13 @@ hero:
   title: "GTA 6 countdown to Nov. 19"
   caption: "Grand Theft Auto VI launches Thursday, Nov. 19, 2026, on PlayStation 5 and Xbox Series X|S. PlayStation Store listings give the release time."
 summary:
-  - "Grand Theft Auto VI launches Thursday, Nov. 19, 2026, on PlayStation 5 and Xbox Series X|S. From Fri., Oct. 23 that is 27 days away."
+  - "Grand Theft Auto VI launches Thursday, Nov. 19, 2026, on PlayStation 5 and Xbox Series X|S. From Sun., Nov. 1 that is 18 days away."
   - "The US and Canada PlayStation Store listings show 05:00 Coordinated Universal Time (UTC), which is 12:00 a.m. Eastern Time (ET) on Nov. 19 and 9 p.m. Pacific Time (PT) on Nov. 18."
   - "Each country's store lists its own local midnight, so the UK store opens at 7 p.m. ET on Nov. 18, Germany at 6 p.m. ET and India at 1:30 p.m. ET."
   - "The Xbox store page gives the date but no time. Rockstar has not announced a PC version."
 faq:
   - q: "How many days until GTA 6?"
-    a: "From Fri., Oct. 23, 2026, it is 27 days to Thu., Nov. 19. The live clock above counts to the exact release moment of the store you pick."
+    a: "From Sun., Nov. 1, 2026, it is 18 days to Thu., Nov. 19. The live clock above counts to the exact release moment of the store you pick."
   - q: "What time does GTA 6 come out in the US?"
     a: "The US PlayStation Store listing shows 11/19/2026 05:00 AM UTC, which is 12:00 a.m. ET on Thursday, Nov. 19. In the Central, Mountain and Pacific time zones that is 11 p.m., 10 p.m. and 9 p.m. on Wednesday, Nov. 18. The Xbox store page lists the date only."
   - q: "What time does GTA 6 come out in the UK?"
@@ -133,9 +133,9 @@ downloads:
 draft: false
 ---
 
-<p class="callout"><b>Last checked Oct. 27, 2026, 5:55 p.m. ET.</b> The Rockstar Store still shows Nov. 19, 2026, and says "Pre-load begins November 12, 2026." Rockstar has not announced the download size or a release hour. We recheck the stores before each update.</p>
+<p class="callout"><b>Last checked Nov. 1, 2026.</b> Rockstar's official game page still shows Nov. 19, 2026, and the Rockstar Store says "Pre-load begins November 12, 2026." Rockstar has not announced the download size or a release hour. We recheck the stores before each update.</p>
 
-**Grand Theft Auto (GTA) VI launches Thursday, Nov. 19, 2026, and from Friday, Oct. 23 that is 27 days away.** The exact moment depends on your store: the US PlayStation Store lists 12:00 a.m. Eastern Time (ET), which is 9 p.m. Pacific Time (PT) on Wednesday, Nov. 18. The clock below counts down to the store you pick.
+**Grand Theft Auto (GTA) VI launches Thursday, Nov. 19, 2026, and from Sunday, Nov. 1 that is 18 days away.** The exact moment depends on your store: the US PlayStation Store lists 12:00 a.m. Eastern Time (ET), which is 9 p.m. Pacific Time (PT) on Wednesday, Nov. 18. The clock below counts down to the store you pick.
 
 ## GTA 6 countdown clock
 
@@ -200,7 +200,7 @@ For the full list of announcements, the pre-order bonus and Rockstar's Thursday 
 
 ## How many days until GTA 6?
 
-From Friday, Oct. 23, it is 27 days to Thursday, Nov. 19 by the calendar. The live clock above gives the exact figure. The day count shifts by one depending on which instant you count to: the UK store opens 5 hours before the US one, and India's opens 10 and a half hours before it.
+From Sunday, Nov. 1, it is 18 days to Thursday, Nov. 19 by the calendar. The live clock above gives the exact figure. The day count shifts by one depending on which instant you count to: the UK store opens 5 hours before the US one, and India's opens 10 and a half hours before it.
 
 | Date | Days to launch |
 |---|---|

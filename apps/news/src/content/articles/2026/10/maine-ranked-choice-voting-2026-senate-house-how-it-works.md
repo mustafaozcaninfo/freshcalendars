@@ -4,6 +4,7 @@ seoTitle: "Maine Ranked Choice Voting 2026: Senate and House"
 description: "Maine's Nov. 3, 2026 U.S. Senate and U.S. House races use ranked-choice voting (RCV) under state law. Absentee requests are due Oct. 29; ballots by 8 p.m."
 type: explainer
 publishedAt: "2026-10-24T17:00:00-04:00"
+updatedAt: "2026-11-01T02:41:00-05:00"
 authors: [alex-morgan]
 category: elections
 keywords: ["Maine ranked choice voting 2026", "Maine Senate race 2026 ranked choice", "Maine absentee ballot deadline 2026", "how ranked choice voting works Maine"]
@@ -48,7 +49,7 @@ summary:
   - "Under Public Law 2025, chapter 539, ranked-choice voting (RCV) applies to Maine's general elections for U.S. Senate and U.S. House when three or more candidates qualify, or two plus declared write-ins."
   - "Spectrum News reported on Aug. 26, 2026 that six write-in candidates filed in the U.S. Senate race, which triggers ranked-choice voting on Nov. 3."
   - "The governor's race in the general election is not ranked-choice; it is decided by plurality."
-  - "Requests for an absentee ballot are due Thursday, Oct. 29, 2026, and absentee ballots must be received by 8 p.m. on Tuesday, Nov. 3."
+  - "Requests for an absentee ballot were due Thursday, Oct. 29, 2026 (passed), and absentee ballots must be received by 8 p.m. on Tuesday, Nov. 3."
 faq:
   - q: "Is Maine using ranked-choice voting in November 2026?"
     a: "Yes, for U.S. Senate and U.S. House, where state law applies it when three or more candidates have qualified, or at least two candidates plus one or more declared write-ins. Spectrum News reported on Aug. 26, 2026 that six write-ins filed in the Senate race."
@@ -99,7 +100,7 @@ downloads:
 draft: false
 ---
 
-**Maine voters on Tuesday, Nov. 3, 2026 will rank candidates in the U.S. Senate race under Public Law 2025, chapter 539, and requests for an absentee ballot are due Thursday, Oct. 29.** The Maine Secretary of State's election pages could not be read for this story, so the facts below come from the law itself, Spectrum News, the Portland Press Herald and the U.S. Election Assistance Commission (EAC). Confirm anything personal with your town clerk.
+**Maine voters on Tuesday, Nov. 3, 2026 will rank candidates in the U.S. Senate race under Public Law 2025, chapter 539, and requests for an absentee ballot were due Thursday, Oct. 29 (now passed).** The Maine Secretary of State's election pages could not be read for this story, so the facts below come from the law itself, Spectrum News, the Portland Press Herald and the U.S. Election Assistance Commission (EAC). Confirm anything personal with your town clerk.
 
 Our free printable, the Maine Ranked-Choice Ballot Guide, puts the ranked races and the dates on one page. It is listed under the story's downloads.
 

@@ -187,5 +187,3 @@ Second, a U.S. Department of Transportation (DOT) rule announced April 24, 2024 
 ## What to watch for
 
 When AAA releases its 2026 Thanksgiving forecast, the specific drive-time windows and travel totals may shift. This page will be updated with the 2026 figures once they are published. For planning now, the dates are set, and last year's rhythm is a reasonable guide.
-</content>
-</invoke>

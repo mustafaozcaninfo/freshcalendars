@@ -283,5 +283,3 @@ Canadian Thanksgiving falls on the second Monday of October, about six weeks bef
 The 2026 Macy's Thanksgiving Day Parade is the 100th, according to Macy's, and starts at 8:30 a.m. in all time zones on NBC and Peacock. On the roads, AAA has not released its 2026 Thanksgiving forecast; its 2025 forecast projected a record 81.8 million people traveling at least 50 miles over the holiday period. The [Thanksgiving travel 2026 guide](/news/thanksgiving-travel-2026-best-days-to-fly-and-drive/) covers the best days to fly and drive.
 
 Work through the week with the [Thanksgiving 2026 planner, countdown and checklist](/news/thanksgiving-2026-planner-countdown-checklist/), track deals with the [Black Friday 2026 ad tracker](/news/black-friday-2026-ad-tracker-walmart-target-best-buy/), and mark the dates on a [November 2026 printable calendar](/november-calendars.html). To see which weekday Thanksgiving lands on in any other year, check [when Thanksgiving falls](/when-is/thanksgiving/).
-</content>
-</invoke>

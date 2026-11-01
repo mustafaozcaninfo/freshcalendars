@@ -4,6 +4,7 @@ seoTitle: "Canada Eurovision Vote: 5 Finalists, Closes Nov. 5"
 description: "Canada's Eurovision 2027 vote opened Oct. 27 and closes Nov. 5 at 11:59 p.m. Pacific Time (PT). See the five finalists and the deadline in each time zone."
 type: news
 publishedAt: "2026-10-27T15:46:00-04:00"
+updatedAt: "2026-11-01T10:27:00-05:00"
 authors: [alex-morgan]
 category: uk-canada
 keywords: ["canada eurovision vote", "canada's choice eurovision finalists", "how to vote canada eurovision", "eurovision canada 2027"]
@@ -111,7 +112,7 @@ related: [eurovision-2027-dates-burgas-semi-finals-grand-final-may-15, remembran
 draft: false
 ---
 
-**Voting for Canada's Eurovision 2027 act opened today, Tuesday, Oct. 27, 2026, and closes Thursday, Nov. 5, 2026, at 11:59 p.m. Pacific Time (PT), the Canadian Broadcasting Corporation (CBC)/Radio-Canada said.** Five finalists are on the ballot at CBC.ca/eurovision, and Canadians can vote for their preferred artist up to 10 times during the voting period. This story lists the finalists, converts the deadline to every Canadian time zone and sets out the road to Burgas.
+**Voting for Canada's Eurovision 2027 act opened on Tuesday, Oct. 27, 2026, and closes Thursday, Nov. 5, 2026, at 11:59 p.m. Pacific Time (PT), the Canadian Broadcasting Corporation (CBC)/Radio-Canada said.** Five finalists are on the ballot at CBC.ca/eurovision, and Canadians can vote for their preferred artist up to 10 times during the voting period. This story lists the finalists, converts the deadline to every Canadian time zone and sets out the road to Burgas.
 
 ## How do I vote for Canada at Eurovision 2027?
 
@@ -135,7 +136,7 @@ The song each finalist or the winner will sing is not yet announced.
 
 ## What time does voting close in my time zone?
 
-The deadline is 11:59 p.m. on Thursday, Nov. 5, in the Pacific zone. Clocks fall back on Sunday, Nov. 1, so Pacific Standard Time (PST) applies. For most of the country that moment falls in the early hours of Friday, Nov. 6, so vote by Thursday evening where you live. The conversions below are our own calculation from CBC's stated deadline.
+The deadline is 11:59 p.m. on Thursday, Nov. 5, in the Pacific zone. Clocks fell back on Sunday, Nov. 1, so Pacific Standard Time (PST) applies. For most of the country that moment falls in the early hours of Friday, Nov. 6, so vote by Thursday evening where you live. The conversions below are our own calculation from CBC's stated deadline.
 
 | Time zone | Deadline |
 |---|---|

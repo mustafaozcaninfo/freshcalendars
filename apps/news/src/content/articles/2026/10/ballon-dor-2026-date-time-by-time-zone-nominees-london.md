@@ -197,5 +197,3 @@ In 2025, the 69th Ballon d'Or ceremony took place at the Théâtre du Châtelet 
 ## Free Ballon d'Or 2026 winners list
 
 Our printable lists every confirmed award and its winner on one page. Mark the evening on your [October 2026 printable calendar](/october-calendars.html), or block the hours in a [printable weekly calendar](/printable-weekly-calendar.html). Other events on the same week are in our [World Series 2026 schedule](/news/world-series-2026-schedule-game-times-tv-channel/) and [college football playoff rankings dates](/news/college-football-playoff-rankings-2026-schedule-dates-times/) stories.
-</content>
-</invoke>

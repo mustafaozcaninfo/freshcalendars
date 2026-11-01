@@ -1,9 +1,10 @@
 ---
-title: "Northern Lights Tonight: NOAA Forecasts a G1 Storm on Halloween, Best Hours in ET"
-seoTitle: "Northern Lights Tonight: G1 Storm Forecast Oct. 31"
-description: "The National Oceanic and Atmospheric Administration (NOAA) forecasts a G1 (Minor) geomagnetic storm on Oct. 31, 2026. Best hours by time zone, November dates."
+title: "Northern Lights in November 2026: After the Halloween G1 Storm, the Kp 4 Dates to Watch"
+seoTitle: "Northern Lights November 2026: Next Kp 4 Dates"
+description: "The National Oceanic and Atmospheric Administration (NOAA) forecast a G1 (Minor) storm on Halloween; here are the next northern lights dates in November 2026."
 type: news
 publishedAt: "2026-10-31T01:42:00-04:00"
+updatedAt: "2026-11-01T10:27:00-05:00"
 authors: [jordan-bennett]
 category: sky-events
 keywords: ["northern lights tonight", "northern lights forecast halloween 2026", "aurora forecast november 2026", "geomagnetic storm october 31 2026"]
@@ -20,7 +21,7 @@ hero:
     author: "Forest Service, USDA"
     authorUrl: "https://www.flickr.com/people/140082569@N07"
 summary:
-  - "NOAA's Space Weather Prediction Center expects a G1 (Minor) geomagnetic storm on Halloween night, Saturday, Oct. 31, 2026, with the strongest period forecast from 11 p.m. EDT to 1 a.m. EST Sunday."
+  - "NOAA's Space Weather Prediction Center forecast a G1 (Minor) geomagnetic storm on Halloween night, Saturday, Oct. 31, 2026, with the strongest period from 11 p.m. EDT to 1 a.m. EST Sunday; that window has now passed."
   - "The forecast peak for tonight is a planetary K-index (Kp) of 4.67; the highest Kp in the 3-day forecast is 5.00 (G1), in the block that ended Friday night."
   - "The Moon is 63% lit and rises late in the evening, so moonlight can wash out faint aurora."
   - "The next dates with a Kp of 4 in the 27-day outlook are Nov. 9, Nov. 17 and Nov. 18."
@@ -99,7 +100,7 @@ assets:
 draft: false
 ---
 
-**The National Oceanic and Atmospheric Administration's (NOAA) Space Weather Prediction Center (SWPC) expects a G1 (Minor) geomagnetic storm on Halloween night, Saturday, Oct. 31, 2026, with the strongest period forecast from 11 p.m. Eastern Daylight Time (EDT) Saturday to 1 a.m. Eastern Standard Time (EST) Sunday, Nov. 1.** That is the 03:00 to 06:00 Coordinated Universal Time (UTC) block of SWPC's 3-day forecast, issued at 00:30 UTC on Oct. 31, which puts the planetary K-index (Kp) at 4.67. Below, the forecast is converted to Eastern Time (ET) and Pacific Time (PT) across the clock change, followed by the next dates to watch in November.
+**The National Oceanic and Atmospheric Administration's (NOAA) Space Weather Prediction Center (SWPC) forecast a G1 (Minor) geomagnetic storm on Halloween night, Saturday, Oct. 31, 2026, with the strongest period from 11 p.m. Eastern Daylight Time (EDT) Saturday to 1 a.m. Eastern Standard Time (EST) Sunday, Nov. 1.** That Halloween window has now passed. The strongest period was the 03:00 to 06:00 Coordinated Universal Time (UTC) block of SWPC's 3-day forecast, issued at 00:30 UTC on Oct. 31, which put the planetary K-index (Kp) at 4.67. Below is the forecast as it stood for Halloween night, converted to Eastern Time (ET) and Pacific Time (PT) across the clock change, followed by the next dates to watch in November.
 
 ## Northern lights forecast for Halloween night by time zone
 
@@ -117,9 +118,9 @@ Source: SWPC 3-Day Forecast issued Oct. 31, 2026, 00:30 UTC; time-zone conversio
 
 The highest Kp in the whole forecast, 5.00 (G1), sits in the 00:00 to 03:00 UTC block on Oct. 31, which was Friday, Oct. 30, 8 to 11 p.m. EDT. SWPC's 3-day forecast gives the Oct. 31-Nov. 2 maximum as 5.00 (NOAA Scale G1) and the greatest observed Kp over the previous 24 hours as 4, below NOAA scale levels.
 
-## Why SWPC expects a G1 storm tonight
+## Why SWPC expected a G1 storm on Halloween
 
-SWPC's rationale says the geomagnetic field is likely to reach G1 (Minor) storm levels on Oct. 31-Nov. 1 because of a positive-polarity coronal hole (CH) high speed stream (HSS), a fast flow of solar wind. Unsettled conditions are likely on Nov. 2 as the stream's influence wanes. SWPC's G1 watch lists G1 (Minor) as the highest level for both Oct. 31 and Nov. 1.
+SWPC's rationale said the geomagnetic field was likely to reach G1 (Minor) storm levels on Oct. 31-Nov. 1 because of a positive-polarity coronal hole (CH) high speed stream (HSS), a fast flow of solar wind. Unsettled conditions are likely on Nov. 2 as the stream's influence wanes. SWPC's G1 watch lists G1 (Minor) as the highest level for both Oct. 31 and Nov. 1.
 
 The alerts confirm the build-up. SWPC issued a G1 watch on Oct. 29 at 19:10 UTC, a warning for a K-index of 5 on Oct. 30 at 23:11 UTC (valid to 06:00 UTC on Oct. 31), and an alert that the K-index of 4 threshold had been reached at 22:35 UTC on Oct. 30.
 

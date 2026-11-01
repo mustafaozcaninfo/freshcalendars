@@ -1,9 +1,10 @@
 ---
 title: "Strictly Come Dancing Halloween Week 2026: Saturday 31 October, First Triple Dance-Off and Remaining Dates"
 seoTitle: "Strictly Halloween Week 2026: Sat 31 Oct, 6.30pm GMT"
-description: "Strictly's Halloween Week airs from 6.30pm Greenwich Mean Time (GMT), 2:30 p.m. Eastern Daylight Time (EDT), on Sat. 31 Oct 2026, with a first triple dance-off."
+description: "Strictly's Halloween Week aired at 6.30pm Greenwich Mean Time (GMT), 2:30 p.m. Eastern Daylight Time (EDT), on Sat. 31 Oct 2026, with a first triple dance-off."
 type: explainer
 publishedAt: "2026-10-30T01:45:00-04:00"
+updatedAt: "2026-11-01T02:42:00-05:00"
 authors: [alex-morgan]
 category: entertainment
 keywords: ["strictly come dancing halloween week 2026", "strictly time tonight", "strictly blackpool 2026 date", "strictly 2026 theme weeks dates", "strictly triple dance-off"]
@@ -19,13 +20,13 @@ hero:
     source: "https://commons.wikimedia.org/wiki/File:Blackpool_Tower_Ballroom_(48884614986).jpg"
     author: "Michael D Beckwith from England"
 summary:
-  - "The British Broadcasting Corporation (BBC) Media Centre says Strictly returns to BBC One and BBC iPlayer from 6.30pm on Saturday 31 October 2026, which is 2:30 p.m. EDT."
+  - "The British Broadcasting Corporation (BBC) Media Centre said Strictly returned to BBC One and BBC iPlayer from 6.30pm on Saturday 31 October 2026, which was 2:30 p.m. EDT."
   - "The Halloween Week results show will feature Strictly's first ever triple dance-off: three couples dance again and the judges vote to eliminate one."
   - "Dates still to come: Blackpool Tower Ballroom on 21 November and Musicals Week on 5 December. The Grand Final date and the results show time are not yet announced."
   - "Eleven couples are on the Halloween Week song and dance list, after four couples left in the first five results shows."
 faq:
-  - q: "What time is Strictly on tonight?"
-    a: "On Saturday 31 October 2026 the BBC says Strictly starts from 6.30pm GMT on BBC One and BBC iPlayer. That is 2:30 p.m. EDT. The Sunday results show time is not yet announced on the BBC page."
+  - q: "What time was Strictly Halloween Week on?"
+    a: "On Saturday 31 October 2026 the BBC said Strictly started from 6.30pm GMT on BBC One and BBC iPlayer. That was 2:30 p.m. EDT. The Sunday results show time was not announced on the BBC page."
   - q: "When is Strictly Blackpool 2026?"
     a: "The BBC Media Centre says the Blackpool Tower Ballroom visit is on 21 November 2026, a Saturday."
   - q: "What is a triple dance-off on Strictly?"
@@ -86,13 +87,13 @@ assets:
     alt: "Printable list of Strictly Come Dancing 2026 key dates from Movies Week on Oct. 3 to Musicals Week on Dec. 5."
 ---
 
-**Strictly Come Dancing's Halloween Week airs from 6.30pm Greenwich Mean Time (GMT) on Saturday 31 October 2026 on British Broadcasting Corporation (BBC) One and BBC iPlayer, per the BBC Media Centre, and the results show brings the series' first ever triple dance-off.** For readers in the United States, 6.30pm GMT is 2:30 p.m. Eastern Daylight Time (EDT) on that Saturday. The BBC page was published on 26 October 2026.
+**Strictly Come Dancing's Halloween Week aired from 6.30pm Greenwich Mean Time (GMT) on Saturday 31 October 2026 on British Broadcasting Corporation (BBC) One and BBC iPlayer, per the BBC Media Centre, and the results show brings the series' first ever triple dance-off.** For readers in the United States, 6.30pm GMT was 2:30 p.m. Eastern Daylight Time (EDT) on that Saturday. The BBC page was published on 26 October 2026.
 
 The BBC's page gives no start time for the Sunday results show, so we give none. It says only that Strictly lights up "Saturday and Sunday nights this autumn". The Halloween Week dates are in our one-page printable below.
 
-## What time is Strictly Halloween Week on Saturday 31 October?
+## What time was Strictly Halloween Week on Saturday 31 October?
 
-The BBC says Strictly "returns to iPlayer and BBC One from 6.30pm on Saturday 31 October". The UK went back to GMT on 25 October, as our [UK and Europe clocks story](/news/uk-europe-clocks-go-back-october-25-2026-time-difference/) explains. The United States stays on EDT until 1 November.
+The BBC said Strictly "returns to iPlayer and BBC One from 6.30pm on Saturday 31 October". The UK went back to GMT on 25 October, as our [UK and Europe clocks story](/news/uk-europe-clocks-go-back-october-25-2026-time-difference/) explains. The United States stayed on EDT until 1 November.
 
 | Where | Saturday 31 October 2026 |
 |---|---|
@@ -112,15 +113,15 @@ Earlier results shows in 2026 each ended with a dance-off between two couples, a
 
 ## Which Strictly 2026 dates are still to come?
 
-The BBC lists the theme weeks as "some dates for your diary", and gives Blackpool its own date. The weekdays are our calculation, and the day counts run from Friday 30 October 2026.
+The BBC lists the theme weeks as "some dates for your diary", and gives Blackpool its own date. The weekdays are our calculation, and the day counts run from Sunday 1 November 2026.
 
-| Date | Event | Days from 30 Oct |
+| Date | Event | Days from 1 Nov |
 |---|---|---|
 | Saturday 3 October | Movies Week (past) | n/a |
 | Saturday 17 October | Icons Week (past) | n/a |
-| Saturday 31 October | Halloween Week, from 6.30pm GMT | 1 |
-| Saturday 21 November | Blackpool Tower Ballroom | 22 |
-| Saturday 5 December | Musicals Week | 36 |
+| Saturday 31 October | Halloween Week (past) | n/a |
+| Saturday 21 November | Blackpool Tower Ballroom | 20 |
+| Saturday 5 December | Musicals Week | 34 |
 | Not yet announced | Grand Final | n/a |
 
 Of Blackpool, the BBC says it is "one of the most iconic milestones of the series" and that the date is 21 November. The Instant Dance challenge is also back after its debut in 2025.
@@ -129,7 +130,7 @@ Put the dates on a [November 2026 printable calendar](/november-calendars.html) 
 
 <p class="callout"><b>Free printable:</b> the <a href="/news/downloads/strictly-2026/strictly-come-dancing-2026-key-dates.pdf">Strictly Come Dancing 2026 key dates</a> list has the theme weeks, Blackpool and the Halloween Week start time on one page.</p>
 
-## Who is still in the Halloween Week line-up?
+## Who was on the Halloween Week line-up?
 
 The BBC lists 15 celebrities in the Class of 2026. Its Halloween Week song and dance list names 11 couples: Bethany and Nancy, Dani and Nikita, Delta and Kai, Jaime and Carlos, Lacey and Vito, Tabby and Mark, Cach and Maddie, Graeme and Lauren, John and Katya, Lawrence and Jowita, and Will and Dianne. The BBC says the list is confirmed across Strictly: It Takes Two, weeknights from 6.30pm on iPlayer and BBC Two.
 

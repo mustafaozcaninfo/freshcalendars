@@ -1,9 +1,10 @@
 ---
-title: "Canada Budget 2026 Date: Thursday, Nov. 5, Eight Days Away, and How the Fall Budget Cycle Works"
+title: "Canada Budget 2026 Date: Thursday, Nov. 5, and How the Fall Budget Cycle Works"
 seoTitle: "Canada Budget 2026 Date: Thursday, Nov. 5"
 description: "Canada's federal Budget 2026 will be tabled Thursday, Nov. 5, 2026, The Canadian Press reported. See the fall budget timeline and what is not yet announced."
 type: news
 publishedAt: "2026-10-28T18:00:00-04:00"
+updatedAt: "2026-11-01T10:31:00-05:00"
 authors: [alex-morgan]
 category: uk-canada
 keywords: ["canada budget 2026 date", "federal budget 2026 canada", "when is the federal budget", "budget 2026 november 5"]
@@ -100,7 +101,7 @@ downloads:
     pages: 1
 ---
 
-The federal Liberal government will table its 2026 federal budget on Thursday, Nov. 5, 2026, according to The Canadian Press, which reported the date on Oct. 20, 2026. Finance Minister François-Philippe Champagne announced it in question period that Tuesday. Counted from Wednesday, Oct. 28, the budget is eight days away. A one-page timeline is in the downloads for printing.
+The federal Liberal government will table its 2026 federal budget on Thursday, Nov. 5, 2026, according to The Canadian Press, which reported the date on Oct. 20, 2026. Finance Minister François-Philippe Champagne announced it in question period that Tuesday. A one-page timeline is in the downloads for printing.
 
 ## What is the date and time of Canada's Budget 2026?
 

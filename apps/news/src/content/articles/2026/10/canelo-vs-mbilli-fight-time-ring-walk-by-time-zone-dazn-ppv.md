@@ -1,12 +1,13 @@
 ---
-title: "Canelo vs. M'Billi Time: Ring Walk Is 4 p.m. ET Oct. 31, in Every Zone, on Dazn PPV"
-seoTitle: "Canelo vs. M'Billi Time: Ring Walk by Time Zone"
-description: "Dazn schedules Canelo vs. Christian M'Billi on Sat., Oct. 31, 2026: ring walk 4 p.m. Eastern Time (ET), 1 p.m. Pacific Time (PT), on pay-per-view (PPV)."
+title: "Canelo vs. M'Billi Result: Canelo Beats M'Billi to Reclaim WBC Title"
+seoTitle: "Canelo vs. M'Billi Result: Canelo Reclaims WBC Title"
+description: "Canelo Alvarez beat Christian M'Billi by unanimous decision in Riyadh on Oct. 31, 2026, reclaiming the World Boxing Council (WBC) super-middleweight title."
 type: news
 publishedAt: "2026-10-30T21:44:00-04:00"
+updatedAt: "2026-11-01T10:27:00-05:00"
 authors: [jordan-bennett]
 category: sports
-keywords: ["canelo vs mbilli time", "canelo fight time tonight", "canelo ring walk time uk", "how to watch canelo mbilli"]
+keywords: ["canelo vs mbilli result", "canelo vs mbilli time", "who won canelo mbilli", "canelo ring walk time uk", "how to watch canelo mbilli"]
 dateline: "Riyadh"
 hero:
   src: ../../../../assets/news/canelo-vs-mbilli-fight-time-ring-walk-by-time-zone-dazn-ppv/canelo-vs-mbilli-fight-time-ring-walk-by-time-zone-dazn-ppv.webp
@@ -20,22 +21,30 @@ hero:
     author: "sachab"
     authorUrl: "https://www.flickr.com/people/43574048@N00"
 summary:
-  - "Dazn schedules the Canelo vs. Christian M'Billi main-event ring walk for 1 p.m. Pacific Time (PT) and 4 p.m. Eastern Time (ET) on Saturday, Oct. 31, 2026."
-  - "The pay-per-view (PPV) broadcast starts at 9:30 a.m. PT, 12:30 p.m. ET, and the prelims at 6 a.m. PT, 9 a.m. ET."
-  - "In the United Kingdom the ring walk is 8 p.m. Greenwich Mean Time (GMT), by our conversion of Dazn's times."
-  - "Dazn lists the U.S. price at $79.99 and requires an active Dazn subscription or its 8-day free trial."
+  - "Canelo Alvarez beat Christian M'Billi by unanimous decision in Riyadh on Saturday, Oct. 31, 2026, to reclaim the World Boxing Council (WBC) super-middleweight title. The judges scored it 115-112, 116-111 and 117-110, Al Jazeera reported."
+  - "Dazn had scheduled the main-event ring walk for 1 p.m. Pacific Time (PT), 4 p.m. Eastern Time (ET), with the pay-per-view (PPV) broadcast at 9:30 a.m. PT, 12:30 p.m. ET, and the prelims at 6 a.m. PT, 9 a.m. ET."
+  - "In the United Kingdom the ring walk was 8 p.m. Greenwich Mean Time (GMT), by our conversion of Dazn's times."
+  - "Dazn had listed the U.S. price at $79.99, with an active Dazn subscription or its 8-day free trial needed to buy the event."
 faq:
-  - q: "What time is the Canelo fight tonight?"
-    a: "Dazn schedules the main-event ring walk for 4 p.m. ET, 1 p.m. PT, on Saturday, Oct. 31, 2026. The PPV broadcast starts at 12:30 p.m. ET and the prelims at 9 a.m. ET."
-  - q: "What time is the Canelo ring walk in the UK?"
-    a: "8 p.m. GMT on Saturday, Oct. 31, by our conversion of Dazn's 4 p.m. ET. The PPV broadcast starts at 4:30 p.m. GMT. The UK has been on GMT since Oct. 25."
-  - q: "How do you watch Canelo vs. M'Billi?"
-    a: "On Dazn pay-per-view. In the United States Dazn lists the price at $79.99 and requires an active Dazn subscription or its 8-day free trial to buy the event."
-  - q: "Where is Canelo vs. M'Billi?"
+  - q: "Who won Canelo vs. M'Billi?"
+    a: "Canelo Alvarez beat Christian M'Billi by unanimous decision in Riyadh on Saturday, Oct. 31, 2026, to reclaim the World Boxing Council (WBC) super-middleweight title. The judges scored it 115-112, 116-111 and 117-110, according to Al Jazeera."
+  - q: "What time was the Canelo fight?"
+    a: "Dazn had scheduled the main-event ring walk for 4 p.m. ET, 1 p.m. PT, on Saturday, Oct. 31, 2026. The PPV broadcast started at 12:30 p.m. ET and the prelims at 9 a.m. ET."
+  - q: "What time was the Canelo ring walk in the UK?"
+    a: "8 p.m. GMT on Saturday, Oct. 31, by our conversion of Dazn's 4 p.m. ET. The PPV broadcast started at 4:30 p.m. GMT. The UK has been on GMT since Oct. 25."
+  - q: "How did you watch Canelo vs. M'Billi?"
+    a: "On Dazn pay-per-view. In the United States Dazn listed the price at $79.99 and required an active Dazn subscription or its 8-day free trial to buy the event."
+  - q: "Where was Canelo vs. M'Billi?"
     a: "In Riyadh, Saudi Arabia, according to Dazn."
-  - q: "Can the ring walk time change?"
-    a: "Yes. Dazn's times are scheduled times, and the main event can start earlier or later if the earlier bouts run long or end early."
 sources:
+  - title: "Canelo Alvarez defeats Christian Mbilli to reclaim WBC title in Riyadh"
+    url: "https://www.aljazeera.com/sports/2026/11/1/canelo-alvarez-defeats-christian-mbilli-to-reclaim-wbc-title-in-riyadh"
+    publisher: "Al Jazeera"
+    date: "2026-11-01"
+  - title: "'Canelo' Alvarez wins back WBC title from Mbilli in Riyadh"
+    url: "https://www.philstar.com/sports/2026/11/01/2567122/canelo-alvarez-wins-back-wbc-title-mbilli-riyadh"
+    publisher: "Philippine Star"
+    date: "2026-11-01"
   - title: "Canelo Alvarez vs Christian M'Billi PPV FAQs"
     url: "https://www.dazn.com/en-US/help/articles/40096415192093-canelo-alvarez-vs-christian-mbilli-ppv-faqs"
     publisher: "Dazn"
@@ -103,11 +112,15 @@ downloads:
 draft: false
 ---
 
-**Canelo Alvarez vs. Christian M'Billi is Saturday, Oct. 31, 2026, in Riyadh, Saudi Arabia, with the main-event ring walk scheduled for 4 p.m. Eastern Time (ET), 1 p.m. Pacific Time (PT), on Dazn pay-per-view (PPV), according to Dazn.** The prelims start at 9 a.m. ET and the PPV broadcast at 12:30 p.m. ET. Below: every time in seven zones, the price, how to buy and the bouts Dazn lists.
+**Canelo Alvarez beat Christian M'Billi by unanimous decision in Riyadh, Saudi Arabia, on Saturday, Oct. 31, 2026, to reclaim the World Boxing Council (WBC) super-middleweight title, with all three judges scoring the 12-round fight for Canelo: 115-112, 116-111 and 117-110, according to Al Jazeera.** The main-event ring walk had been scheduled for 4 p.m. Eastern Time (ET), 1 p.m. Pacific Time (PT), on Dazn pay-per-view (PPV). Below: the result, every scheduled time in seven zones, the price and the bouts Dazn listed.
 
-## What time is Canelo vs. M'Billi in each time zone?
+## Who won Canelo vs. M'Billi?
 
-Dazn's help article lists three times in Pacific Time and Eastern Time: prelims at 6 a.m. PT, 9 a.m. ET; the PPV broadcast at 9:30 a.m. PT, 12:30 p.m. ET; and the main-event ring walk at 1 p.m. PT, 4 p.m. ET. The other columns are our conversion. The United States is still on daylight time on Oct. 31, the United Kingdom has been on Greenwich Mean Time (GMT) since Oct. 25, Saudi Arabia is three hours ahead of Coordinated Universal Time (UTC), and Mexico City is six hours behind UTC with no daylight time.
+Canelo Alvarez beat Christian M'Billi by unanimous decision over 12 rounds in Riyadh on Saturday, Oct. 31, 2026, to reclaim the World Boxing Council (WBC) super-middleweight title, Al Jazeera and the Philippine Star reported. The three judges scored the fight 115-112, 116-111 and 117-110 for Canelo. Al Jazeera said it was the first professional defeat for M'Billi, who had been elevated to the full WBC champion earlier in 2026. This story carries no odds or predictions.
+
+## What time was Canelo vs. M'Billi in each time zone?
+
+Dazn's help article listed three times in Pacific Time and Eastern Time: prelims at 6 a.m. PT, 9 a.m. ET; the PPV broadcast at 9:30 a.m. PT, 12:30 p.m. ET; and the main-event ring walk at 1 p.m. PT, 4 p.m. ET. The other columns are our conversion. The United States was still on daylight time on Oct. 31, the United Kingdom has been on Greenwich Mean Time (GMT) since Oct. 25, Saudi Arabia is three hours ahead of Coordinated Universal Time (UTC), and Mexico City is six hours behind UTC with no daylight time.
 
 | Segment | ET | Central | Mountain | PT | UK (GMT) | Mexico City | Riyadh |
 |---|---|---|---|---|---|---|---|
@@ -115,19 +128,19 @@ Dazn's help article lists three times in Pacific Time and Eastern Time: prelims 
 | PPV main card | 12:30 p.m. | 11:30 a.m. | 10:30 a.m. | 9:30 a.m. | 4:30 p.m. | 10:30 a.m. | 7:30 p.m. |
 | Main-event ring walk | 4:00 p.m. | 3:00 p.m. | 2:00 p.m. | 1:00 p.m. | 8:00 p.m. | 2:00 p.m. | 11:00 p.m. |
 
-U.S. clocks fall back at 2 a.m. on Sunday, Nov. 1, after the fight, so the Saturday times above are daylight time.
+U.S. clocks fell back at 2 a.m. on Sunday, Nov. 1, after the fight, so the Saturday times above were daylight time.
 
-## When will Canelo and M'Billi actually walk to the ring?
+## When did Canelo and M'Billi walk to the ring?
 
-Dazn's 4 p.m. ET is the scheduled time for the main-event ring walk. A ring walk can move earlier or later if the bouts before it run long or end early, so be on the stream before the listed time.
+Dazn's 4 p.m. ET was the scheduled time for the main-event ring walk, which followed the earlier bouts. A ring walk can move earlier or later if the bouts before it run long or end early, so scheduled times like this are a guide rather than an exact start.
 
-## How do you watch Canelo vs. M'Billi, and what does it cost?
+## How did you watch Canelo vs. M'Billi, and what did it cost?
 
-The fight is on Dazn pay-per-view. Arab News reported on Sept. 30, 2026, that "the fight will air on Dazn via pay-per-view." Dazn states the U.S. price at $79.99, and says the charge can be higher because sales tax varies by state. To buy the event you need an active Dazn subscription or Dazn's 8-day free trial; Dazn says the trial converts to a Monthly Flex plan unless you cancel. We have not confirmed a broadcaster or price in the United Kingdom, so check Dazn's UK site for that.
+The fight aired on Dazn pay-per-view. Arab News reported on Sept. 30, 2026, that "the fight will air on Dazn via pay-per-view." Dazn listed the U.S. price at $79.99, and said the charge could be higher because sales tax varies by state. To buy the event you needed an active Dazn subscription or Dazn's 8-day free trial; Dazn said the trial converts to a Monthly Flex plan unless you cancel.
 
-## Which fights are on the Canelo vs. M'Billi card?
+## Which fights were on the Canelo vs. M'Billi card?
 
-Dazn lists nine bouts, four on the main card and five on the prelims. Arab News calls the event "Mexico vs. The World" and describes a 10-bout card as part of Riyadh Season, so the card may differ from Dazn's list by one bout. This story gives no odds or predictions.
+Dazn listed nine bouts, four on the main card and five on the prelims. Arab News called the event "Mexico vs. The World" and described a 10-bout card as part of Riyadh Season, so the card may have differed from Dazn's list by one bout.
 
 | Segment | Bout |
 |---|---|

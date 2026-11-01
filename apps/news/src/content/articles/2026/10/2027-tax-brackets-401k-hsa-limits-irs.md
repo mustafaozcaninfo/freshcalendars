@@ -205,5 +205,3 @@ The IRS has not announced when it will begin accepting 2027 returns. Our [2027 t
 ## Print the confirmed 2027 limits
 
 Our free printable lists the confirmed 2027 Health Savings Account and Social Security figures and the key dates on one page, in a standard and an ink-saver version. Pair it with a [2027 yearly calendar](/printable-yearly-calendar.html), a [January 2027 calendar](/january-calendars.html) for the Jan. 15 estimated-tax date, or an [April 2027 calendar](/april-calendars.html) for the filing deadline. For retirees, the [Medicare open enrollment guide](/news/medicare-open-enrollment-2026-december-7-90-dollar-rebate/) covers the December deadline.
-</content>
-</invoke>

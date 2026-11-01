@@ -4,6 +4,7 @@ seoTitle: "Grammy Nominations 2027: Nov. 16 and Feb. 7 Dates"
 description: "The Recording Academy lists Grammy nominations 2027 for Monday, Nov. 16, 2026, and the 69th Annual Grammy Awards for Sunday, Feb. 7, 2027. See the timeline."
 type: news
 publishedAt: "2026-10-25T17:05:00-04:00"
+updatedAt: "2026-11-01T02:42:00-05:00"
 authors: [jordan-bennett]
 category: entertainment
 keywords: ["Grammy nominations 2027", "when are Grammy nominations announced", "Grammys 2027 date", "69th Grammy Awards"]
@@ -44,7 +45,7 @@ summary:
   - "The Recording Academy lists Monday, Nov. 16, 2026, as the day nominees for the 2027 Grammys are announced."
   - "The 69th Annual Grammy Awards are on Sunday, Feb. 7, 2027, according to the Recording Academy."
   - "The Academy's rulebook sets the eligibility window from Aug. 31, 2025, to Aug. 28, 2026."
-  - "The announcement time, broadcaster and host are not confirmed yet. Final voting dates and the venue come from news summaries of the Academy's key dates."
+  - "The 2027 Grammys move to the American Broadcasting Company (ABC), with streaming on Hulu, the first Grammy telecast on ABC since 1972; the host and the announcement time are not confirmed yet."
 faq:
   - q: "When are the Grammy nominations announced?"
     a: "Monday, Nov. 16, 2026, according to the Recording Academy's Grammy site. The time of the announcement is not yet confirmed."
@@ -53,12 +54,20 @@ faq:
   - q: "Which music counts for the 2027 Grammys?"
     a: "Only works released within the eligibility period. It ends Aug. 28, 2026, and starts Aug. 31, 2025, according to the Academy's rulebook."
   - q: "Who is hosting and what channel will air the show?"
-    a: "Neither is confirmed on the Recording Academy's site as of Oct. 25, 2026. We will add both when they are posted."
+    a: "The American Broadcasting Company (ABC) airs the 2027 Grammys, with streaming on Hulu, the first Grammy telecast on ABC since 1972, according to the Associated Press (AP) and Variety. The host is not announced yet."
 sources:
   - title: "Grammy.com: 69th Annual Grammy Awards dates and eligibility"
     url: "https://www.grammy.com/"
     publisher: "Recording Academy"
     date: "2026-10-25"
+  - title: "The 2027 Grammy Awards announce key dates: What to know"
+    url: "https://wtop.com/news/2026/05/the-2027-grammy-awards-announce-key-dates-what-to-know/"
+    publisher: "The Associated Press (AP)"
+    date: "2026-05-12"
+  - title: "Grammy Awards Set Nominations and Telecast Date for 2027"
+    url: "https://variety.com/2026/music/news/grammy-awards-calendar-ceremony-nominations-date-abc-hulu-36506/"
+    publisher: "Variety"
+    date: "2026-05-13"
 internalLinks:
   - href: "/november-calendars.html"
     label: "November 2026 printable calendar"
@@ -77,7 +86,7 @@ downloads:
 draft: false
 ---
 
-<p class="callout"><b>Checked Oct. 25, 2026.</b> The Recording Academy lists the dates below; the announcement time, venue and broadcaster will be added when it posts them.</p>
+<p class="callout"><b>Checked Oct. 25, 2026.</b> The Recording Academy lists the dates below; the announcement time and venue will be added when it posts them.</p>
 
 **The Recording Academy's Grammy site lists Monday, Nov. 16, 2026, as the day nominees for the 2027 Grammys are announced, and Sunday, Feb. 7, 2027, as Grammy night for the 69th Annual Grammy Awards.** The same site says only works released within the eligibility period qualify. This page puts the season in one timeline, from the release window to the ceremony, and separates what the Academy confirms from what news summaries report.
 
@@ -112,11 +121,11 @@ The weekdays above are computed from the calendar. Music released after Aug. 28,
 | Eligibility start of Aug. 31, 2025 | Confirmed | The Academy's rulebook for the 69th Grammys |
 | Final-round voting, Dec. 10, 2026 to Jan. 7, 2027 | Reported | News summaries of the Academy's key dates |
 | Venue: Crypto.com Arena, Los Angeles | Reported | News summaries of the Academy's key dates |
+| Broadcaster: American Broadcasting Company (ABC), streaming on Hulu | Confirmed | Associated Press and Variety, May 2026 |
 | Announcement time | Not confirmed | Not posted |
-| Broadcaster | Not confirmed | Not posted |
 | Host | Not confirmed | Not posted |
 
-We do not name a network or a host until the Recording Academy does.
+The 2027 Grammys move to ABC, with streaming on Hulu, the first Grammy telecast on ABC since 1972, according to the Associated Press and Variety; the ceremony had aired on the Columbia Broadcasting System (CBS) for more than 50 years. We do not name a host until the Recording Academy does.
 
 ## Keep the Grammys 2027 dates
 

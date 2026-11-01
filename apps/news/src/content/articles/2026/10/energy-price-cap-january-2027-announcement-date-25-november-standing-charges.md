@@ -4,7 +4,7 @@ seoTitle: "Energy Price Cap January 2027: Date and Standing Charges"
 description: "The Office of Gas and Electricity Markets (Ofgem) will announce the 1 January 2027 energy price cap by 25 November 2026. Standing charges: 54.83p, 29.68p a day."
 type: news
 publishedAt: "2026-10-28T03:42:00-04:00"
-updatedAt: "2026-10-28T08:38:00-04:00"
+updatedAt: "2026-11-01T10:27:00-05:00"
 authors: [alex-morgan]
 category: uk-canada
 keywords: ["energy price cap January 2027", "when is the next price cap announcement", "Ofgem price cap 25 November 2026", "gas standing charge", "energy price cap 2027 dates"]
@@ -105,8 +105,6 @@ downloads:
 draft: false
 ---
 
-<p class="callout"><b>Last updated 28 October 2026, 8:38 a.m. ET.</b> Ahead of today's Budget, HM Treasury said gas standing charges will be scrapped, with Ofgem asked to remove them "in 2027 or as soon as possible after". No start date is set. Details are in the new section below.</p>
-
 **Ofgem will announce the energy price cap for 1 January to 31 March 2027 by Wednesday, 25 November 2026**, according to the Office of Gas and Electricity Markets (Ofgem). The level is not yet announced, and this story does not forecast it. Ofgem also says it may publish before that date "if we need to because of external reasons". Below are all three upcoming announcement dates in one table, what the standing charge costs over a year (our calculation) and a one-page printable.
 
 ## When is the next energy price cap announcement?
@@ -121,7 +119,7 @@ Ofgem sets the cap every 3 months. On its page about the 1 October to 31 Decembe
 
 Source: Ofgem, "Changes to energy price cap between 1 October and 31 December 2026", published 26 August 2026. Weekdays are our calculation.
 
-The UK Budget is today, Wednesday, 28 October 2026. Any energy measures in it are not covered here; see our [UK Budget 2026 date and time story](/news/uk-budget-2026-date-wednesday-28-october-what-time/).
+The UK Budget was on Wednesday, 28 October 2026. The gas standing charge announcement it brought is covered below; for the Budget itself, see our [UK Budget 2026 date and time story](/news/uk-budget-2026-date-wednesday-28-october-what-time/).
 
 ## What is the cap now, from October to December 2026?
 

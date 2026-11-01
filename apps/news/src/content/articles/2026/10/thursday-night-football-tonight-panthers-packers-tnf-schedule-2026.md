@@ -4,7 +4,7 @@ seoTitle: "Thursday Night Football: Panthers at Packers Oct. 29"
 description: "Thursday Night Football (TNF): Panthers at Packers on Oct. 29, 2026, 8:15 p.m. Eastern Time (ET) on Prime Video, with every U.S. zone and the full TNF schedule."
 type: news
 publishedAt: "2026-10-27T21:40:00-04:00"
-updatedAt: "2026-10-30T00:45:00-04:00"
+updatedAt: "2026-11-01T10:27:00-05:00"
 authors: [jordan-bennett]
 category: sports
 keywords: ["Thursday Night Football tonight", "Panthers vs Packers live stream", "Panthers vs Packers time channel", "TNF schedule 2026", "what channel is Thursday Night Football"]
@@ -51,7 +51,7 @@ summary:
   - "Nine more dated Thursday games follow, from Nov. 5 to Dec. 31, all at 8:15 p.m. ET on Prime Video; Week 12 is on Friday, Nov. 27."
 faq:
   - q: "What time is Thursday Night Football tonight?"
-    a: "The next game is Panthers at Packers on Thu., Oct. 29, 2026, at 8:15 p.m. Eastern Time (ET), per NFL.com and Amazon. Amazon says its pregame show, TNF Tonight, starts at 7 p.m. ET each Thursday."
+    a: "The Panthers at Packers game on Thu., Oct. 29, 2026, is over (Green Bay won 27-19). The next game is Jaguars at Ravens on Thu., Nov. 5, 2026, at 8:15 p.m. Eastern Time (ET), per NFL.com and Amazon. Amazon says its pregame show, TNF Tonight, starts at 7 p.m. ET each Thursday."
   - q: "What channel is Thursday Night Football?"
     a: "Prime Video. Amazon says games also air on over-the-air TV in the two teams' home markets, stream on Twitch, and have a Spanish-language broadcast on Prime Video."
   - q: "Can I watch Panthers vs Packers on local TV?"

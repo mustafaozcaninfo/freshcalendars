@@ -4,7 +4,7 @@ seoTitle: "National First Responders Day 2026: Oct. 28 History"
 description: "National First Responders Day is Wednesday, Oct. 28, 2026. The Federal Register lists proclamations for 2022 to 2024 and none yet for 2025 or 2026."
 type: news
 publishedAt: "2026-10-28T07:43:00-04:00"
-updatedAt: "2026-10-30T01:05:00-04:00"
+updatedAt: "2026-11-01T05:33:00-05:00"
 authors: [alex-morgan]
 category: holidays
 keywords: ["national first responders day", "first responders day 2026", "is today national first responders day", "october 28 first responders day"]
@@ -45,7 +45,7 @@ hero:
 summary:
   - "National First Responders Day is Wednesday, Oct. 28, 2026; it is not a federal holiday."
   - "Senate Concurrent Resolution 15 backed the day in 2017 and again in 2019."
-  - "Presidential proclamations appear in the Federal Register for 2022, 2023 and 2024; none was listed for 2025 or 2026 as of Oct. 28, 2026."
+  - "Presidential proclamations appear in the Federal Register for 2022, 2023 and 2024; none was listed for 2025 or 2026 as of Nov. 1, 2026."
   - "Clocks go back on Sunday, Nov. 1, 2026, a prompt to check smoke alarms."
 sources:
   - title: "Congressional Record, Aug. 3, 2017, page S4892"
@@ -104,7 +104,7 @@ draft: false
 
 **National First Responders Day was Wednesday, Oct. 28, 2026, a date with its basis in U.S. Senate resolutions from 2017 and 2019 and in presidential proclamations published in the Federal Register for 2022, 2023 and 2024.** It is not a federal holiday, so offices, banks and mail run normally.
 
-As of Oct. 28, 2026, the Federal Register listed no 2025 or 2026 proclamation for the day. Proclamations in 2023 and 2024 were signed a few days before Oct. 28 and published on Nov. 1.
+As of Nov. 1, 2026, the Federal Register listed no 2025 or 2026 proclamation for the day. Proclamations in 2022, 2023 and 2024 were each published on Nov. 1, so the absence of a 2026 document on that date stands out.
 
 ## How did Oct. 28 become National First Responders Day?
 
@@ -117,8 +117,8 @@ The record starts in Congress. The two resolutions below are concurrent resoluti
 | 2022 | Presidential proclamation, "National First Responders Day, 2022" | Published in the Federal Register on Nov. 1, 2022. | [Federal Register](https://www.federalregister.gov/documents/2022/11/01/2022-23853/national-first-responders-day-2022) |
 | 2023 | Proclamation 10659, "National First Responders Day, 2023" | Signed Oct. 27, 2023; published Nov. 1, 2023. | [Federal Register](https://www.federalregister.gov/documents/2023/11/01/2023-24246/national-first-responders-day-2023) |
 | 2024 | Proclamation 10845, "National First Responders Day, 2024" | Signed Oct. 25, 2024; published Nov. 1, 2024. "Do hereby proclaim October 28, 2024, as National First Responders Day." | [Federal Register](https://www.federalregister.gov/documents/2024/11/01/2024-25590/national-first-responders-day-2024) |
-| 2025 | None found | A Federal Register search of presidential documents returns only 2022 to 2024 (checked Oct. 28, 2026). | [Federal Register](https://www.federalregister.gov) |
-| 2026 | None published as of Oct. 28, 2026 | See above. | [Federal Register](https://www.federalregister.gov) |
+| 2025 | None found | A Federal Register search of presidential documents returns only 2022 to 2024 (checked Nov. 1, 2026). | [Federal Register](https://www.federalregister.gov) |
+| 2026 | None published as of Nov. 1, 2026 | See above. | [Federal Register](https://www.federalregister.gov) |
 
 The 2024 proclamation states its purpose "to honor our brave first responders and to pay tribute to those who have lost their lives in the line of duty." The Congressional Record and bill pages are hosted by govinfo, the website of the U.S. Government Publishing Office (GPO).
 

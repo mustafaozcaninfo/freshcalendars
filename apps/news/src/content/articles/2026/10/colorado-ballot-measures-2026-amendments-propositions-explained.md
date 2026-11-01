@@ -4,6 +4,7 @@ seoTitle: "Colorado Ballot Measures 2026: All 14 Explained"
 description: "Colorado's Nov. 3, 2026 ballot has 14 statewide measures, per the Blue Book. Ballots must reach the county clerk by 7 p.m. Mountain Time (MT); mail is too late."
 type: explainer
 publishedAt: "2026-10-31T14:40:00-04:00"
+updatedAt: "2026-11-01T02:44:00-05:00"
 authors: [alex-morgan]
 category: elections
 keywords: ["Colorado ballot measures 2026", "Colorado amendments 2026", "Colorado Blue Book 2026", "Colorado propositions 2026", "Colorado ballot drop off deadline"]
@@ -122,7 +123,7 @@ draft: false
 
 ## Return your Colorado ballot by 7 p.m. Tuesday
 
-Today is Saturday, Oct. 31, and mailing a ballot is no longer a safe choice. The Colorado Secretary of State's mail ballot questions page says a ballot "must be received by the county clerk and recorder no later than 7:00 PM on Election Day," and that "Postmarks do not count." The state has not published a recommended last mail date, so this story does not give one.
+Today is Sunday, Nov. 1, and mailing a ballot is no longer a safe choice. The Colorado Secretary of State's mail ballot questions page says a ballot "must be received by the county clerk and recorder no later than 7:00 PM on Election Day," and that "Postmarks do not count." The state has not published a recommended last mail date, so this story does not give one.
 
 - **Drop it off.** Take the signed ballot to a drop box or a voter service and polling center in your county before 7 p.m. Mountain Time (MT) on Tue., Nov. 3. That is 9 p.m. Eastern Time (ET).
 - **Vote in person.** Voter service and polling centers are open 7 a.m. to 7 p.m. on Election Day, per the Blue Book cover.

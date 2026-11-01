@@ -1,10 +1,10 @@
 ---
-title: "Toray Pan Pacific Open 2026 Schedule: Tokyo Semifinal and Final Times in U.S. Time Zones"
-seoTitle: "Toray Pan Pacific Open 2026 Schedule and U.S. Times"
-description: "Toray Pan Pacific Open semifinals start 11 p.m. Eastern Time (ET) Friday, Oct. 30, per the Women's Tennis Association (WTA); top seed Rybakina is out."
+title: "Toray Pan Pacific Open 2026: Diana Shnaider Beats Fernandez for the Tokyo Title"
+seoTitle: "Toray Pan Pacific Open 2026: Shnaider Wins Tokyo"
+description: "Diana Shnaider beat Leylah Fernandez 6-4, 5-7, 6-2 to win the 2026 Toray Pan Pacific Open in Tokyo, the Women's Tennis Association (WTA) says. See results."
 type: news
 publishedAt: "2026-10-29T04:02:00-04:00"
-updatedAt: "2026-10-31T00:25:00-04:00"
+updatedAt: "2026-11-01T10:31:00-05:00"
 authors: [jordan-bennett]
 category: sports
 keywords: ["toray pan pacific open 2026 schedule", "tokyo wta 2026 final time", "naomi osaka tokyo next match time", "pan pacific open order of play"]
@@ -21,15 +21,15 @@ hero:
     author: "江戸村のとくぞう"
     authorUrl: "https://commons.wikimedia.org/wiki/User:%E6%B1%9F%E6%88%B8%E6%9D%91%E3%81%AE%E3%81%A8%E3%81%8F%E3%81%9E%E3%81%86"
 summary:
-  - "The Women's Tennis Association (WTA) order of play for Saturday, Oct. 31 starts the semifinals at 12 p.m. Japan Standard Time (JST), which is 11 p.m. Eastern Time (ET) on Friday, Oct. 30."
-  - "Leylah Fernandez plays lucky loser Kamilla Rakhimova first, followed by seed 3 Diana Shnaider against wild card Mia Pohankova, who beat Naomi Osaka 6-3, 7-5 in the round of 16."
-  - "Top seed Elena Rybakina withdrew from her quarterfinal with a neck injury, giving Fernandez a walkover, according to the WTA draw sheet."
-  - "The final is Sun., Nov. 1 in Tokyo; its start time is not yet announced. U.S. clocks fall back at 2 a.m. that Sunday, so Tokyo goes from 13 to 14 hours ahead of Eastern Time."
+  - "Diana Shnaider beat Leylah Fernandez 6-4, 5-7, 6-2 in the Toray Pan Pacific Open final in Tokyo on Sunday, Nov. 1, 2026, the Women's Tennis Association (WTA) says. It is her sixth career title and her first of the 2026 season."
+  - "In the semifinals on Saturday, Oct. 31, Fernandez beat lucky loser Kamilla Rakhimova 7-5, 6-3 and seed 3 Shnaider beat wild card Mia Pohankova 6-4, 7-6(9), per the WTA draw sheet."
+  - "Top seed Elena Rybakina had withdrawn from her quarterfinal with a neck injury, giving Fernandez a walkover; Pohankova had beaten Naomi Osaka 6-3, 7-5 in the round of 16."
+  - "U.S. clocks fell back at 2 a.m. on Nov. 1, so Tokyo is now 14 hours ahead of Eastern Time (ET)."
 faq:
-  - q: "What time are the Toray Pan Pacific Open semifinals?"
-    a: "Center Court starts at 12 p.m. JST on Saturday, Oct. 31, which is 11 p.m. ET on Friday, Oct. 30. Fernandez v Rakhimova is first, followed by Shnaider v Pohankova, with no set time for the second match. Matches may be moved at the Supervisor's discretion."
-  - q: "What time is the Toray Pan Pacific Open 2026 final?"
-    a: "Not yet announced. The final is on Sunday, Nov. 1 in Tokyo, which is Saturday night or early Sunday in the U.S. depending on the start time. The final table in this story uses example start times only."
+  - q: "Who won the Toray Pan Pacific Open 2026 final?"
+    a: "Diana Shnaider. The seed 3 beat Leylah Fernandez 6-4, 5-7, 6-2 in the final in Tokyo on Sunday, Nov. 1, 2026, for her sixth career title and her first of the season, according to the WTA."
+  - q: "What were the Toray Pan Pacific Open 2026 semifinal results?"
+    a: "On Saturday, Oct. 31, Fernandez beat lucky loser Kamilla Rakhimova 7-5, 6-3, and seed 3 Shnaider beat wild card Mia Pohankova 6-4, 7-6(9), according to the WTA draw sheet."
   - q: "What happened to Naomi Osaka in Tokyo?"
     a: "Osaka, seed 7, beat Jasmine Paolini 6-3, 7-6(4) in the first round, then lost 6-3, 7-5 to wild card Mia Pohankova in the round of 16, according to the WTA draw sheet."
   - q: "Why did Rybakina not play her quarterfinal?"
@@ -45,6 +45,10 @@ sources:
     url: "https://wtafiles.wtatennis.com/pdf/draws/2026/1056/MDS.pdf"
     publisher: "Women's Tennis Association (WTA)"
     date: "2026-10-30"
+  - title: "Toray Pan Pacific Open 2026 singles scores and results"
+    url: "https://www.wtatennis.com/tournaments/1056/toray-pan-pacific-open-tennis/2026/scores"
+    publisher: "Women's Tennis Association (WTA)"
+    date: "2026-11-01"
   - title: "Tokyo 2026 tournament page"
     url: "https://www.wtatennis.com/tournament/1056/tokyo/2026"
     publisher: "Women's Tennis Association (WTA)"
@@ -99,28 +103,28 @@ assets:
 draft: false
 ---
 
-**The Toray Pan Pacific Open semifinals in Tokyo start at 11 p.m. Eastern Time (ET) on Friday, Oct. 30, which is 12 p.m. Saturday, Oct. 31 in Tokyo, according to the Women's Tennis Association (WTA) order of play released Oct. 30.** Leylah Fernandez plays lucky loser Kamilla Rakhimova first on Center Court, followed by seed 3 Diana Shnaider against wild card Mia Pohankova. Times on the sheet are Japan Standard Time (JST), 13 hours ahead of ET until U.S. clocks fall back on Sunday, Nov. 1. The WTA adds that "matches may be moved at the Supervisor's discretion."
+**Diana Shnaider won the Toray Pan Pacific Open in Tokyo, beating Leylah Fernandez 6-4, 5-7, 6-2 in the final on Sunday, Nov. 1, 2026, according to the Women's Tennis Association (WTA).** It is the seed 3's sixth career title and her first of the 2026 season. Fernandez reached the final with a 7-5, 6-3 win over lucky loser Kamilla Rakhimova, and Shnaider beat wild card Mia Pohankova 6-4, 7-6(9) in the Saturday, Oct. 31 semifinals. The WTA 500 tournament ran Oct. 26 to Nov. 1 on outdoor hard courts at Ariake Coliseum. Times on the WTA order of play were Japan Standard Time (JST), which was 14 hours ahead of Eastern Time (ET) after U.S. clocks fell back on Nov. 1.
 
 ## What is the Toray Pan Pacific Open 2026 schedule?
 
 The WTA describes the Toray Pan Pacific Open as a WTA 500 tournament on outdoor hard courts in Tokyo, with a main draw of 28 singles and 16 doubles players, played Oct. 26 to Nov. 1, 2026. The tournament's own site lists Ariake Coliseum and Ariake Tennis Forest Park in Koto-ku, Tokyo, as the venue, with qualifying on Oct. 24 and 25. We computed the weekdays below from those dates, and they are Tokyo dates.
 
-| Round | Tokyo date | Start time |
+| Round | Tokyo date | Result |
 |---|---|---|
 | Quarterfinals | Fri., Oct. 30 | Played; results below |
-| Semifinals | Sat., Oct. 31 | 12 p.m. JST on Center Court (WTA order of play) |
-| Final | Sun., Nov. 1 | Not yet announced |
+| Semifinals | Sat., Oct. 31 | Fernandez and Shnaider advanced |
+| Final | Sun., Nov. 1 | Shnaider d. Fernandez 6-4, 5-7, 6-2 |
 
-## What time are the semifinals in U.S. and UK time?
+## What time were the semifinals, and who won?
 
-Saturday's Center Court order has two singles semifinals, then two doubles semifinals. Columns show Eastern Daylight Time (EDT), Central Daylight Time (CDT), Pacific Daylight Time (PDT) and Greenwich Mean Time (GMT) in the United Kingdom (UK). In brackets, [LL] is a lucky loser, [WC] a wild card and a number is the seed. "Followed by" means the match starts after the one before it ends, so it has no fixed time.
+Saturday's Center Court order had two singles semifinals, then two doubles semifinals. Fernandez beat Rakhimova 7-5, 6-3, and Shnaider beat Pohankova 6-4, 7-6(9), to set up the final, according to the WTA draw sheet. The start times below show when they played. Columns show Eastern Daylight Time (EDT), Central Daylight Time (CDT), Pacific Daylight Time (PDT) and Greenwich Mean Time (GMT) in the United Kingdom (UK). In brackets, [LL] is a lucky loser, [WC] a wild card and a number is the seed. "Followed by" means the match started after the one before it ended, so it had no fixed time.
 
 | Center Court, Sat., Oct. 31 | JST | Eastern (EDT) | Central (CDT) | Pacific (PDT) | UK (GMT) |
 |---|---|---|---|---|---|
 | Leylah Fernandez (Canada) v [LL] Kamilla Rakhimova (Uzbekistan) | 12 p.m. | 11 p.m. Fri., Oct. 30 | 10 p.m. Fri. | 8 p.m. Fri. | 3 a.m. Sat. |
 | [3] Diana Shnaider v [WC] Mia Pohankova (Slovakia) | Followed by | After the first semifinal | After the first semifinal | After the first semifinal | After the first semifinal |
 
-The doubles semifinals follow on Center Court: top seeds Gabriela Dabrowski and Luisa Stefani against Storm Hunter and Maya Joint, then Tereza Mihalikova and Olivia Nicholls against Sara Errani and Jasmine Paolini.
+The doubles semifinals followed on Center Court: top seeds Gabriela Dabrowski and Luisa Stefani against Storm Hunter and Maya Joint, then Tereza Mihalikova and Olivia Nicholls against Sara Errani and Jasmine Paolini.
 
 ## Who won the quarterfinals?
 
@@ -133,32 +137,21 @@ The WTA singles draw released at 8:13 p.m. JST on Oct. 30 gives these results fr
 | [1] Elena Rybakina (Kazakhstan) v Fernandez | Fernandez advanced by walkover; Rybakina withdrew with a neck injury |
 | [8] Alexandra Eala (Philippines) v [3] Shnaider | Shnaider won 2-6, 7-6(5), 6-4 |
 
-Rybakina, ranked No. 1 on the sheet, had beaten her compatriot Yulia Putintseva 6-2, 6-3 in the round of 16. Seed 2 Maja Chwalinska withdrew before the tournament with a left thigh injury, and seed 4 Belinda Bencic, the defending champion, with a right ankle injury. The WTA reported on Oct. 26, 2025 that Bencic beat Linda Noskova 6-2, 6-3 in the 2025 final, so Tokyo will have a new champion.
+Rybakina, ranked No. 1 on the sheet, had beaten her compatriot Yulia Putintseva 6-2, 6-3 in the round of 16. Seed 2 Maja Chwalinska withdrew before the tournament with a left thigh injury, and seed 4 Belinda Bencic, the defending champion, with a right ankle injury. The WTA reported on Oct. 26, 2025 that Bencic beat Linda Noskova 6-2, 6-3 in the 2025 final, so Tokyo crowned a new champion in Shnaider.
 
 ## What happened to Naomi Osaka in Tokyo?
 
-Osaka, seeded seventh, beat Jasmine Paolini 6-3, 7-6(4) in the first round. In the round of 16 she lost 6-3, 7-5 to Pohankova, according to the draw sheet. Pohankova, a wild card, had beaten Tereza Valentova 6-1, 6-4 in the first round and is now one win from the final.
+Osaka, seeded seventh, beat Jasmine Paolini 6-3, 7-6(4) in the first round. In the round of 16 she lost 6-3, 7-5 to Pohankova, according to the draw sheet. Pohankova, a wild card, had beaten Tereza Valentova 6-1, 6-4 in the first round and reached the semifinals, where she lost to Shnaider.
 
-## What time is the Toray Pan Pacific Open 2026 final in the U.S.?
+## Who won the Toray Pan Pacific Open 2026 final?
 
-The final is Sunday, Nov. 1 in Tokyo, and its start time is not yet announced; the WTA usually posts the next day's order of play the afternoon before. JST is Coordinated Universal Time (UTC) plus 9 hours all year. Eastern Time is UTC minus 4 hours (EDT) until 2 a.m. on Sunday, Nov. 1, then UTC minus 5 hours as Eastern Standard Time (EST), according to the National Institute of Standards and Technology (NIST), which says daylight saving time in 2026 ends Nov. 1 at 2 a.m. local time. The United Kingdom has been on GMT since Oct. 25, so it is 9 hours behind Tokyo.
+Diana Shnaider won the Tokyo title, beating Leylah Fernandez 6-4, 5-7, 6-2 in the final on Sunday, Nov. 1, according to the WTA. It is her sixth career title and her first of the 2026 season. Fernandez was the runner-up.
 
-The start times below are examples only, not scheduled times. Each is converted through UTC.
+The final was played after U.S. clocks fell back. JST is Coordinated Universal Time (UTC) plus 9 hours all year. Eastern Time changed from UTC minus 4 hours (Eastern Daylight Time, EDT) to UTC minus 5 hours (Eastern Standard Time, EST) at 2 a.m. on Sunday, Nov. 1, according to the National Institute of Standards and Technology (NIST), which says daylight saving time in 2026 ended Nov. 1 at 2 a.m. local time. That left Tokyo 14 hours ahead of Eastern Time. For the change itself, see our [daylight saving time ends Nov. 1, 2026](/news/daylight-saving-time-ends-november-1-2026/) story.
 
-| Example start (JST) | Eastern | Central | Pacific | UK (GMT) |
-|---|---|---|---|---|
-| Sun., Nov. 1, 11 a.m. | 10 p.m. EDT Sat., Oct. 31 | 9 p.m. CDT Sat. | 7 p.m. PDT Sat. | 2 a.m. Sun. |
-| Sun., Nov. 1, 12 p.m. | 11 p.m. EDT Sat., Oct. 31 | 10 p.m. CDT Sat. | 8 p.m. PDT Sat. | 3 a.m. Sun. |
-| Sun., Nov. 1, 1 p.m. | 12 a.m. EDT Sun., Nov. 1 | 11 p.m. CDT Sat. | 9 p.m. PDT Sat. | 4 a.m. Sun. |
-| Sun., Nov. 1, 3 p.m. | 1 a.m. EST Sun., Nov. 1 | 1 a.m. CDT Sun. | 11 p.m. PDT Sat. | 6 a.m. Sun. |
+## How much was the prize money, and where could you watch?
 
-## What happens at 3 p.m. JST on Nov. 1 in the U.S.?
-
-A 3 p.m. JST start on Nov. 1 is 6 a.m. UTC, the moment Eastern clocks go from 2 a.m. EDT back to 1 a.m. EST. We list it as 1 a.m. EST, the second 1 a.m. of the night. Central clocks change an hour later at 7 a.m. UTC, so the same instant is still 1 a.m. CDT, and Pacific clocks change at 8 a.m. UTC, so it is 11 p.m. PDT on Saturday. Any final that starts after 3 p.m. JST falls after the change in Eastern Time. For the change itself, see our [daylight saving time ends Nov. 1, 2026](/news/daylight-saving-time-ends-november-1-2026/) story.
-
-## How much is the prize money, and where can you watch?
-
-The draw sheet lists total prize money of $1,206,446. The winner receives $185,500 and 500 ranking points. The finalist gets $114,500 and 325 points, and each semifinalist $66,003 and 195 points.
+The draw sheet listed total prize money of $1,206,446. The winner, Shnaider, received $185,500 and 500 ranking points. Fernandez, the runner-up, got $114,500 and 325 points, and each semifinalist $66,003 and 195 points.
 
 The official WTA and tournament pages we read do not name a U.S. or U.K. broadcaster for 2026, so check the WTA's website and your local listings.
 

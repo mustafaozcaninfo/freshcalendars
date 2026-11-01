@@ -4,6 +4,7 @@ seoTitle: "Best Buy Black Friday 2026: Deals Start Oct. 30"
 description: "Best Buy's holiday deals start Friday, Oct. 30, 2026, with DoorBOOsters. Early Black Friday Deals begin Nov. 6 and Cyber Week Deals run Dec. 1-6."
 type: news
 publishedAt: "2026-10-28T21:50:00-04:00"
+updatedAt: "2026-11-01T05:36:00-05:00"
 authors: [jordan-bennett]
 category: retail-dates
 keywords: ["best buy black friday 2026", "best buy doorbusters october 30", "best buy holiday calendar 2026", "best buy return policy holiday 2026", "best buy cyber week 2026"]
@@ -51,7 +52,7 @@ hero:
     source: "https://commons.wikimedia.org/wiki/File:Best_buy_1.jpg"
     author: "Hastengeims"
 summary:
-  - "Best Buy's holiday deals start Friday, Oct. 30, 2026, with DoorBOOsters, and new Doorbusters drop every week, the company said on Oct. 27."
+  - "Best Buy's holiday deals began Friday, Oct. 30, 2026, with DoorBOOsters, and new Doorbusters drop every week, the company said on Oct. 27."
   - "Early Black Friday Deals and Doorbusters begin Nov. 6, 10 days of Black Friday deals start Nov. 19, Cyber Week Deals run Dec. 1-6 and the Last-Minute Savings Event runs Dec. 18-24."
   - "Most purchases made Oct. 30 through Dec. 31 can be returned through Jan. 15, 2027, or Jan. 31, 2027 for My Best Buy Plus and Total members."
   - "Best Buy has not published doorbuster products or prices, Black Friday opening hours, or exact Cyber Sunday and Monday dates."
@@ -111,7 +112,7 @@ downloads:
 draft: false
 ---
 
-**Best Buy's holiday deals start Friday, Oct. 30, 2026, with the return of DoorBOOsters, the retailer said in its holiday calendar announcement on Oct. 27.** Best Buy Corporate News says "Halloween marks the official start of holiday savings at Best Buy," that new Doorbusters will drop every week and that shoppers get major savings events through December. Early Black Friday Deals and Doorbusters begin Nov. 6, and Cyber Week Deals run Dec. 1-6. Best Buy has not published doorbuster products or prices, so this story lists dates and rules only. Every date from Oct. 30 to Jan. 31, 2027 is in the table below and on a one-page printable.
+**Best Buy's holiday deals began Friday, Oct. 30, 2026, with the return of DoorBOOsters, the retailer said in its holiday calendar announcement on Oct. 27.** Best Buy Corporate News says "Halloween marks the official start of holiday savings at Best Buy," that new Doorbusters will drop every week and that shoppers get major savings events through December. Extended store hours started Sunday, Nov. 1. Early Black Friday Deals and Doorbusters begin Nov. 6, and Cyber Week Deals run Dec. 1-6. Best Buy has not published doorbuster products or prices, so this story lists dates and rules only. Every date from Oct. 30 to Jan. 31, 2027 is in the table below and on a one-page printable.
 
 ## What are Best Buy's 2026 holiday dates?
 

@@ -4,6 +4,7 @@ seoTitle: "CMA Awards 2026 Date, Time, Channel and Host"
 description: "The Country Music Association (CMA) lists its awards for Nov. 18, 2026, 8 p.m. Eastern Time (ET), on American Broadcasting Company (ABC). Lainey Wilson hosts."
 type: news
 publishedAt: "2026-10-25T17:04:00-04:00"
+updatedAt: "2026-11-01T05:35:00-05:00"
 authors: [jordan-bennett]
 category: entertainment
 keywords: ["CMA Awards 2026", "CMA Awards 2026 date and time", "what channel are the CMA Awards on", "CMA Awards 2026 host"]
@@ -47,9 +48,9 @@ hero:
     author: "Michael Rivera"
     authorUrl: "https://commons.wikimedia.org/wiki/User:Mjrmtg"
 summary:
-  - "The 60th Annual CMA Awards air live Wednesday, Nov. 18, 2026, at 8/7c on ABC, according to the Country Music Association (CMA)."
-  - "The CMA lists the show on ABC and Disney+ on Nov. 18, with Hulu the next day."
-  - "Lainey Wilson returns as host for a third consecutive year, the CMA says."
+  - "The 60th Annual CMA Awards air live Wednesday, Nov. 18, 2026, at 8/7c on ABC and Disney+, with Hulu the next day, according to the Country Music Association (CMA)."
+  - "Lainey Wilson returns as host for a third consecutive year and second consecutive year as solo host, the CMA says."
+  - "Brooks & Dunn will receive the 2026 Willie Nelson Lifetime Achievement Award, the CMA says."
   - "Ella Langley leads the nominations with nine, Nashville TV station News4 reported on Sept. 10, 2026."
 faq:
   - q: "When are the CMA Awards 2026?"
@@ -57,7 +58,9 @@ faq:
   - q: "What channel are the CMA Awards on?"
     a: "American Broadcasting Company (ABC). The CMA also lists Disney+ for the live show on Nov. 18 and Hulu the next day."
   - q: "Who is hosting the CMA Awards 2026?"
-    a: "Lainey Wilson, who the CMA says returns for her third consecutive year in the role."
+    a: "Lainey Wilson, who the CMA says returns for her third consecutive year in the role and second consecutive year as solo host."
+  - q: "Who is getting the Willie Nelson Lifetime Achievement Award in 2026?"
+    a: "Brooks & Dunn will receive the 2026 Willie Nelson Lifetime Achievement Award at the show, according to the CMA."
   - q: "What does 8/7c mean?"
     a: "It is the listing the CMA uses for the start time. Read it as 8 p.m. Eastern Time (ET) and 7 p.m. Central Time (CT)."
   - q: "Where are the CMA Awards 2026 held?"
@@ -91,13 +94,13 @@ downloads:
 draft: false
 ---
 
-<p class="callout"><b>Checked Oct. 25, 2026.</b> Venue and nomination counts below come from news reports; we will confirm them against the Country Music Association when it posts them.</p>
+<p class="callout"><b>Checked Nov. 1, 2026.</b> Venue and nomination counts below come from news reports; we will confirm them against the Country Music Association when it posts them.</p>
 
-**The 60th Annual CMA Awards air live on Wednesday, Nov. 18, 2026, at 8/7c on American Broadcasting Company (ABC), according to the Country Music Association (CMA).** The CMA's official site says Lainey Wilson returns to host, marking her third consecutive year in the role. The show also streams on Disney+ and is on Hulu the next day. Below are the time in each U.S. time zone, what is confirmed and what is only reported, and a printable watch sheet.
+**The 60th Annual CMA Awards air live on Wednesday, Nov. 18, 2026, at 8/7c on American Broadcasting Company (ABC), according to the Country Music Association (CMA).** The CMA's official site says Lainey Wilson returns to host, marking her third consecutive year in the role and second consecutive year as solo host. The show also streams on Disney+ and is on Hulu the next day, and the CMA says Brooks & Dunn will receive the 2026 Willie Nelson Lifetime Achievement Award. Below are the time in each U.S. time zone, what is confirmed and what is only reported, and a printable watch sheet.
 
 ## What time are the CMA Awards 2026?
 
-The CMA lists the show at "8/7c." That is television shorthand for 8 p.m. Eastern Time (ET) and 7 p.m. Central Time (CT), where "c" stands for Central. The U.S. returns to standard time after Nov. 1, so the times below are standard time.
+The CMA lists the show at "8/7c." That is television shorthand for 8 p.m. Eastern Time (ET) and 7 p.m. Central Time (CT), where "c" stands for Central. The U.S. is back on standard time, which began Sunday, Nov. 1, so the times below are standard time.
 
 | Time zone | Time on Wed., Nov. 18, 2026 |
 |---|---|
@@ -114,7 +117,7 @@ The CMA's site says "Live November 18, 2026 at 8/7c on ABC" and "Watch CMA Award
 
 ## Who is hosting the CMA Awards 2026?
 
-Lainey Wilson. The CMA says she returns to host "The 60th Annual CMA Awards," her third consecutive year as host. For comparison, in 2025 the 59th CMA Awards aired Nov. 19 on ABC with Wilson as host.
+Lainey Wilson. The CMA says she returns to host "The 60th Annual CMA Awards," her third consecutive year in the role and second consecutive year as solo host. For comparison, in 2025 the 59th CMA Awards aired Nov. 19 on ABC with Wilson as host. The CMA also says Brooks & Dunn will receive the 2026 Willie Nelson Lifetime Achievement Award during the broadcast.
 
 ## Who leads the CMA Awards 2026 nominations?
 
@@ -129,6 +132,7 @@ Ella Langley leads with nine nominations, Nashville TV station News4 reported on
 | Channel: ABC | Confirmed | CMA, cmaawards.com |
 | Streaming: Disney+ live, Hulu next day | Confirmed | CMA, cmaawards.com |
 | Host: Lainey Wilson | Confirmed | CMA, cmaawards.com |
+| Willie Nelson Lifetime Achievement Award: Brooks & Dunn | Confirmed | CMA, cmaawards.com |
 | Venue: Bridgestone Arena, Nashville | Reported | Holler |
 | Most nominations: Ella Langley, nine | Reported | News4 Nashville, Sept. 10, 2026 |
 

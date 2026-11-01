@@ -1,9 +1,10 @@
 ---
 title: "Poppy Campaign 2026 in Canada Runs Oct. 24 to Nov. 11, a Fixed Period From This Year"
 seoTitle: "Poppy Campaign 2026 Canada: Dates Oct. 24 to Nov. 11"
-description: "The Royal Canadian Legion's National Poppy Campaign is under way today, Thursday, Oct. 29, 2026. It runs Oct. 24 to Nov. 11 and uses the same dates every year."
+description: "The Royal Canadian Legion's National Poppy Campaign runs Oct. 24 to Nov. 11, 2026, a fixed period from this year. It ends on Remembrance Day."
 type: news
 publishedAt: "2026-10-29T11:45:00-04:00"
+updatedAt: "2026-11-01T10:31:00-05:00"
 authors: [alex-morgan]
 category: uk-canada
 keywords: ["poppy campaign 2026", "when does the poppy campaign start 2026", "when to wear a poppy canada 2026", "poppy campaign dates canada"]
@@ -36,7 +37,7 @@ hero:
     source: "https://commons.wikimedia.org/wiki/File:Canadian_Tomb_of_the_Unknown_Soldier_with_poppies.jpg"
     author: "Mikkel Paulson"
 summary:
-  - "The Royal Canadian Legion's National Poppy Campaign is under way today, Thursday, Oct. 29, 2026, and runs from Saturday, Oct. 24, to Wednesday, Nov. 11."
+  - "The Royal Canadian Legion's National Poppy Campaign is under way and runs from Saturday, Oct. 24, to Wednesday, Nov. 11, 2026."
   - "The Legion's Dominion Executive Council approved a standard annual period: from 2026 the campaign runs each year from Oct. 24 through Nov. 11."
   - "Under the old last-Friday pattern, the 2026 campaign would have started on Friday, Oct. 30."
   - "The 2026 start time of the National Remembrance Day Ceremony in Ottawa is not yet announced; in 2025 it was 10:30 a.m."
@@ -97,7 +98,7 @@ assets:
     alt: "Printable timeline of the Poppy Campaign 2026 in Canada from Oct. 24 to Nov. 11."
 ---
 
-**The Royal Canadian Legion's National Poppy Campaign is under way today, Thursday, Oct. 29, 2026, and runs from Saturday, Oct. 24, to Wednesday, Nov. 11**, according to the Legion's National Poppy Campaign page, last updated Oct. 20, 2026. From today, 13 days remain until the campaign ends on Remembrance Day.
+**The Royal Canadian Legion's National Poppy Campaign is under way and runs from Saturday, Oct. 24, to Wednesday, Nov. 11, 2026**, according to the Legion's National Poppy Campaign page, last updated Oct. 20, 2026. The campaign ends on Remembrance Day, Nov. 11.
 
 This is the first year of a new rule. The Legion's page says: "Beginning in 2026, the National Poppy Campaign will run annually October 24–November 11." The printable timeline attached to this story keeps the key dates on one page.
 
@@ -115,7 +116,7 @@ Counting both end dates, the 2026 campaign spans 19 days. Veterans Affairs Canad
 
 ## Why do some guides say the last Friday of October?
 
-Many guides and older Legion pages still describe a start on the last Friday of October. That is out of date. Under the old last-Friday pattern, the 2026 campaign would have started on Friday, Oct. 30, which is tomorrow. The fixed period moved the start up to Saturday, Oct. 24.
+Many guides and older Legion pages still describe a start on the last Friday of October. That is out of date. Under the old last-Friday pattern, the 2026 campaign would have started on Friday, Oct. 30. The fixed period moved the start up to Saturday, Oct. 24.
 
 The fixed dates also mean the weekdays shift from year to year. We computed them for the next five years:
 

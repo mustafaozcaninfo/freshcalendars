@@ -4,6 +4,7 @@ seoTitle: "Charlotte-Mecklenburg Schools Calendar 2026-27"
 description: "Charlotte-Mecklenburg Schools (CMS) 2026-27: first day Aug. 25, winter break Dec. 21 to Jan. 1, spring break Mar. 29 to Apr. 2, last day June 9, make-up days."
 type: news
 publishedAt: "2026-10-26T22:38:00-04:00"
+updatedAt: "2026-11-01T05:38:00-05:00"
 authors: [emily-carter]
 category: school-calendars
 keywords: ["cms calendar 2026-27", "charlotte mecklenburg schools calendar 2026-2027", "cms winter break 2026", "cms spring break 2027", "cms teacher workdays 2026"]
@@ -114,7 +115,7 @@ downloads:
 draft: false
 ---
 
-**Charlotte-Mecklenburg Schools (CMS) has winter break from Monday, Dec. 21, 2026 to Friday, Jan. 1, 2027, and spring break from Monday, Mar. 29 to Friday, Apr. 2, 2027**, according to its "2026-2027 Calendar Key Dates" (Traditional Calendar, PDF). The first day of school is Tuesday, Aug. 25, 2026, and the last day is Wednesday, June 9, 2027. The calendar footnote says the Board of Education approved it on April 8, 2025. The next dates are Friday, Oct. 30, the end of quarter 1, and Monday and Tuesday, Nov. 2-3, which are teacher workdays with no school for students.
+**Charlotte-Mecklenburg Schools (CMS) has winter break from Monday, Dec. 21, 2026 to Friday, Jan. 1, 2027, and spring break from Monday, Mar. 29 to Friday, Apr. 2, 2027**, according to its "2026-2027 Calendar Key Dates" (Traditional Calendar, PDF). The first day of school is Tuesday, Aug. 25, 2026, and the last day is Wednesday, June 9, 2027. The calendar footnote says the Board of Education approved it on April 8, 2025. The next dates are Monday and Tuesday, Nov. 2-3, which are teacher workdays with no school for students.
 
 ## When are CMS schools closed in 2026-27?
 

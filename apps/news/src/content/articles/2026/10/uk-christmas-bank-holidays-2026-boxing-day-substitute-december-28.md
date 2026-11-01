@@ -4,6 +4,7 @@ seoTitle: "UK Christmas Bank Holidays 2026: Boxing Day Dec. 28"
 description: "Boxing Day 2026 is a bank holiday on Monday, Dec. 28, because Dec. 26 is a Saturday, GOV.UK says. See a leave planner, New Year dates and Royal Mail dates."
 type: explainer
 publishedAt: "2026-10-25T23:15:00-04:00"
+updatedAt: "2026-11-01T10:31:00-05:00"
 authors: [alex-morgan]
 category: uk-canada
 keywords: ["Christmas bank holidays 2026 UK", "Boxing Day 2026 bank holiday", "is December 28 2026 a bank holiday", "UK bank holidays December 2026"]
@@ -23,7 +24,7 @@ summary:
   - "GOV.UK lists Christmas Day on Friday, Dec. 25, 2026, and a Boxing Day substitute day on Monday, Dec. 28, 2026, in England and Wales, Scotland and Northern Ireland."
   - "New Year's Day is Friday, Jan. 1, 2027, in all three; Scotland also has a substitute day for Jan. 2 on Monday, Jan. 4, 2027."
   - "Our computation: three days of annual leave on Dec. 29, 30 and 31 give 10 days off in a row from Dec. 25 in England and Wales, and 11 days in Scotland."
-  - "Royal Mail lists last posting dates from Friday, Dec. 18; we saw them only in a search listing, so check the page before posting."
+  - "Royal Mail's last recommended posting dates for Christmas 2026 start with 2nd Class on Friday, Dec. 18, per its press release of 27 October 2026."
 faq:
   - q: "Is Dec. 28, 2026, a bank holiday?"
     a: "Yes. GOV.UK lists Monday, Dec. 28, 2026, as the Boxing Day substitute day in England and Wales, Scotland and Northern Ireland, because Dec. 26 is a Saturday."
@@ -40,6 +41,10 @@ sources:
   - title: "UK bank holidays data, JSON"
     url: "https://www.gov.uk/bank-holidays.json"
     publisher: "GOV.UK"
+  - title: "Royal Mail announces last recommended posting dates for Christmas"
+    url: "https://www.internationaldistributionservices.com/en/press-centre/press-releases/royal-mail/royal-mail-announces-last-recommended-posting-dates-for-christmas/"
+    publisher: "Royal Mail (International Distribution Services press centre)"
+    date: "2026-10-27"
   - title: "Get ready for Christmas 2026: last posting dates"
     url: "https://www.royalmail.com/christmas/last-posting-dates"
     publisher: "Royal Mail"
@@ -95,8 +100,6 @@ assets:
 
 The leave planner below shows each day from Dec. 24 to Jan. 4 and which days our computation says can be bridged with three days of annual leave. A one-page version is attached as a printable.
 
-<p class="callout"><b>Checked Oct. 25, 2026.</b> The bank holiday dates come from GOV.UK. The Royal Mail dates further down are pending confirmation, and we will update this story.</p>
-
 ## Is Dec. 28, 2026, a bank holiday?
 
 Yes. GOV.UK's bank holidays page and its data file list "Boxing Day (substitute day)" on Monday, Dec. 28, 2026, in England and Wales, Scotland and Northern Ireland. Dec. 26 falls on a Saturday this year, so the holiday moves to a weekday. For the date question on its own, see [when is Boxing Day in the UK](/when-is/uk-boxing-day/) and [when is Christmas Day](/when-is/christmas-day/).
@@ -141,17 +144,16 @@ Check your contract or ask your employer. This story lists the days GOV.UK names
 
 ## What do Royal Mail's Christmas posting dates look like?
 
-Royal Mail's "Get ready for Christmas 2026" page lists recommended last posting dates for delivery within the UK before Christmas. Our research saw them only in a search listing, because the page blocked automated access. Treat them as listed by Royal Mail, check the page before posting, and expect that they may change.
+Royal Mail confirmed its last recommended posting dates for Christmas 2026 in a press release on 27 October 2026. These cover the main domestic services and are recommendations on when to post, not guarantees of delivery before Christmas.
 
-| Service | Last posting date, as listed by Royal Mail |
+| Service | Last recommended posting date (Royal Mail) |
 |---|---|
 | 2nd Class and 2nd Class Signed For | Friday, Dec. 18 |
 | Royal Mail Tracked 48 | Saturday, Dec. 19 |
 | 1st Class, 1st Class Signed For and Tracked 24 | Monday, Dec. 21 |
 | Special Delivery Guaranteed | Wednesday, Dec. 23 |
-| Letters to Santa | Wednesday, Dec. 9, 2026 |
 
-We have not confirmed these dates on Royal Mail's own page and will update this story when we do. We also have no confirmed bank or Post Office opening hours for the holiday days, so check with your branch.
+The press release does not list international or British Forces Post Office (BFPO) dates, and it does not give a Letters to Santa date; Royal Mail's own website gives that as Wednesday, Dec. 9, 2026, so check royalmail.com/christmas for those. We also have no confirmed bank or Post Office opening hours for the holiday days, so check with your branch. Our [Royal Mail last posting dates story](/news/royal-mail-last-posting-dates-christmas-2026-second-class-18-december/) has the full breakdown.
 
 ## What happens in 2027?
 

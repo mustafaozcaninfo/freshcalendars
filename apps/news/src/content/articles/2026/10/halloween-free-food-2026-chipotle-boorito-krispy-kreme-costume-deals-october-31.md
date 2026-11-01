@@ -1,10 +1,11 @@
 ---
-title: "Halloween Free Food 2026: Krispy Kreme Doughnut Today and Saturday, Chipotle $6 Boorito After 3 p.m."
+title: "Halloween Free Food 2026: Krispy Kreme Doughnut Oct. 30-31, Chipotle $6 Boorito After 3 p.m."
 seoTitle: "Halloween Free Food 2026: Krispy Kreme and Chipotle"
-description: "Krispy Kreme's free costume doughnut runs Fri., Oct. 30 and Sat., Oct. 31, 2026; Chipotle's $6 Boorito entree is Oct. 31 from 3 p.m. local time to close."
+description: "Krispy Kreme's free costume doughnut ran Fri., Oct. 30 and Sat., Oct. 31, 2026; Chipotle's $6 Boorito entree was Oct. 31 from 3 p.m. local time to close."
 type: news
 dateline: "New York"
 publishedAt: "2026-10-30T05:43:00-04:00"
+updatedAt: "2026-11-01T05:33:00-05:00"
 authors: [jordan-bennett]
 category: holidays
 keywords: ["Halloween free food 2026", "Chipotle Boorito 2026", "Krispy Kreme free doughnut costume 2026", "Halloween deals October 31 2026"]
@@ -56,7 +57,7 @@ faq:
   - q: "Do I need the Chipotle Rewards app for the $6 entree?"
     a: "The release says Chipotle Rewards members can receive the $6 entree when appearing in costume, as determined by the restaurant, and scanning for Rewards at the point of sale."
   - q: "Are there Halloween clock changes this weekend?"
-    a: "Daylight Saving Time (DST) ends at 2 a.m. on Sunday, Nov. 1, so Halloween night has an extra hour."
+    a: "Daylight Saving Time (DST) ended at 2 a.m. on Sunday, Nov. 1, so Halloween night had an extra hour."
 sources:
   - title: "Boorito Returns: Chipotle to Offer $6 Entrees on Halloween 2026"
     url: "https://newsroom.chipotle.com/2026-10-20-BOORITO-RETURNS-CHIPOTLE-TO-OFFER-6-ENTREES-ON-HALLOWEEN-2026"
@@ -98,7 +99,7 @@ downloads:
     pages: 1
 ---
 
-Krispy Kreme's free costume doughnut runs today, Friday, Oct. 30, and Saturday, Oct. 31, 2026, and Chipotle's $6 Boorito entree is Saturday, Oct. 31, from 3 p.m. local time to close, according to each company's own pages. Krispy Kreme's home page, checked Oct. 30, and Chipotle's Oct. 20 newsroom release carry the rules; the table below puts day, time, requirement and limit side by side. Halloween falls on a Saturday this year; see [when is Halloween](/when-is/halloween/) and the [October 2026 printable calendar](/october-calendars.html).
+Krispy Kreme's free costume doughnut ran Friday, Oct. 30, and Saturday, Oct. 31, 2026, and Chipotle's $6 Boorito entree was Saturday, Oct. 31, from 3 p.m. local time to close, according to each company's own pages. Krispy Kreme's home page, checked Oct. 30, and Chipotle's Oct. 20 newsroom release carry the rules; the table below puts day, time, requirement and limit side by side. Halloween falls on a Saturday this year; see [when is Halloween](/when-is/halloween/) and the [October 2026 printable calendar](/october-calendars.html).
 
 ## When and how do the Halloween 2026 deals work?
 
@@ -135,6 +136,6 @@ We did not confirm 2026 Halloween offers from Burger King, Wendy's, Dunkin', Tac
 | From 3 p.m. local time to close | Chipotle $6 entree in costume, with a Rewards scan |
 | Any time, Oct. 31 and Nov. 1 | Chipotle delivery with $0 delivery fees on digital orders of $10 or more before tax and fees |
 
-Trick-or-treat hours vary by town; our [Saturday sunset and trick-or-treat times](/news/halloween-2026-saturday-sunset-trick-or-treat-times/) story covers the evening. Daylight Saving Time (DST) ends at 2 a.m. on Sunday, Nov. 1, so Halloween night has an extra hour; see [when DST ends on Nov. 1, 2026](/news/daylight-saving-time-ends-november-1-2026/) and the [November 2026 printable calendar](/november-calendars.html). Still need a costume? Read our list of [costume stores open Oct. 29-31](/news/halloween-costume-stores-open-october-29-31-2026-spirit-party-city/). For another deal roundup, see [Veterans Day free meals and discounts](/news/veterans-day-free-meals-discounts/).
+Trick-or-treat hours vary by town; our [Saturday sunset and trick-or-treat times](/news/halloween-2026-saturday-sunset-trick-or-treat-times/) story covers the evening. Daylight Saving Time (DST) ended at 2 a.m. on Sunday, Nov. 1, so Halloween night had an extra hour; see [when DST ends on Nov. 1, 2026](/news/daylight-saving-time-ends-november-1-2026/) and the [November 2026 printable calendar](/november-calendars.html). Still need a costume? Read our list of [costume stores open Oct. 29-31](/news/halloween-costume-stores-open-october-29-31-2026-spirit-party-city/). For another deal roundup, see [Veterans Day free meals and discounts](/news/veterans-day-free-meals-discounts/).
 
 The free printable "Halloween Free Food Checklist, Oct. 30-31, 2026" puts the days, requirements and limits on one page.

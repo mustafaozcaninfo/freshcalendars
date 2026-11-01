@@ -1,9 +1,10 @@
 ---
 title: "Massachusetts Ballot Questions 2026: What Yes and No Votes Do, Early Voting Ends Oct. 30"
 seoTitle: "Massachusetts Ballot Questions 2026: Yes and No"
-description: "In-person early voting in Massachusetts ends Oct. 30, 2026, and Election Day is Nov. 3. What a yes or no vote does on each of the nine statewide questions."
+description: "In-person early voting in Massachusetts ended Oct. 30, 2026, and Election Day is Nov. 3. What a yes or no vote does on each of the nine statewide questions."
 type: news
 publishedAt: "2026-10-30T13:48:00-04:00"
+updatedAt: "2026-11-01T02:41:00-05:00"
 authors: [alex-morgan]
 category: elections
 keywords: ["Massachusetts ballot questions 2026", "Massachusetts question 3 2026 primary", "Massachusetts early voting ends", "Massachusetts ballot question 8 marijuana 2026", "Massachusetts question 9 firearms"]
@@ -20,7 +21,7 @@ hero:
     author: "Marco Almbauer"
     authorUrl: "https://commons.wikimedia.org/wiki/User:A,Ocram"
 summary:
-  - "In-person early voting in Massachusetts ends today, Friday, Oct. 30, 2026; Election Day is Tuesday, Nov. 3, with polls open from 7 a.m. to 8 p.m."
+  - "In-person early voting in Massachusetts ended Friday, Oct. 30, 2026; Election Day is Tuesday, Nov. 3, with polls open from 7 a.m. to 8 p.m."
   - "Voters decide nine binding statewide ballot questions: Questions 1 to 8 are proposed laws and Question 9 is a referendum on a 2024 firearms law."
   - "On Question 9, a yes vote keeps the law in place and a no vote repeals it."
   - "The registration deadline (Oct. 24) and the vote-by-mail application deadline (Oct. 27) have passed."
@@ -95,7 +96,7 @@ downloads:
 draft: false
 ---
 
-**In-person early voting in Massachusetts ends today, Friday, Oct. 30, 2026, and Election Day is Tuesday, Nov. 3, with polls open from 7 a.m. to 8 p.m.**, according to Secretary of the Commonwealth William Francis Galvin's 2026 Information for Voters guide. The ballot carries nine binding statewide questions. Questions 1 through 8 are proposed laws put forward by initiative petition, and Question 9 is a referendum on an existing law.
+**In-person early voting in Massachusetts ended Friday, Oct. 30, 2026, and Election Day is Tuesday, Nov. 3, with polls open from 7 a.m. to 8 p.m.**, according to Secretary of the Commonwealth William Francis Galvin's 2026 Information for Voters guide. The ballot carries nine binding statewide questions. Questions 1 through 8 are proposed laws put forward by initiative petition, and Question 9 is a referendum on an existing law.
 
 This story lists what the guide says a yes or no vote does on each question, with no arguments for either side. For the other statewide races and dates, see the [midterm ballot overview](/news/2026-midterm-elections-whats-on-the-ballot-results-tracker/).
 
@@ -127,12 +128,12 @@ Question 8 concerns retail marijuana sales. A yes vote would prohibit the legali
 
 ## Massachusetts voting dates for the Nov. 3, 2026 election
 
-| Date | What happens | Status on Oct. 30 |
+| Date | What happens | Status |
 |---|---|---|
-| Sat., Oct. 17 | In-person early voting begins | Open |
+| Sat., Oct. 17 | In-person early voting begins | Passed |
 | Sat., Oct. 24 | Voter registration deadline | Passed |
 | Tue., Oct. 27 | Vote by Mail application must reach the local election office by 5 p.m. | Passed |
-| Fri., Oct. 30 | In-person early voting ends | Today |
+| Fri., Oct. 30 | In-person early voting ends | Passed |
 | Tue., Nov. 3 | Election Day, polls open 7 a.m. to 8 p.m. | Ahead |
 
 Every city and town sets its own early voting locations and schedules, which the guide says are posted at VoteInMA.com. The guide adds that many communities have limited or no voting hours on Fridays, so check your community's schedule before you go. On Election Day, anyone in line at the polling place by 8 p.m. can vote. Use the [November 2026 printable calendar](/november-calendars.html) to mark the date, and see [what time polls close on Election Day](/news/what-time-do-polls-close-election-day-2026/) for other states.

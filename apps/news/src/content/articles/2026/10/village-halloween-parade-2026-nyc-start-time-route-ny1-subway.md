@@ -1,9 +1,10 @@
 ---
 title: "Village Halloween Parade 2026: Oct. 31 Time, Sixth Avenue Route, NY1 and Subway Changes"
 seoTitle: "Village Halloween Parade 2026: Time, Route, NY1"
-description: "The 53rd Village Halloween Parade steps off at 7 p.m. Eastern Time (ET) Saturday, Oct. 31, 2026, on Sixth Avenue, per its organizers. NY1 airs it live at 8 p.m."
+description: "The 53rd Village Halloween Parade stepped off at 7 p.m. Eastern Time (ET) Saturday, Oct. 31, 2026, on Sixth Avenue in Manhattan. NY1 aired it live at 8 p.m."
 type: news
 publishedAt: "2026-10-30T07:40:54-04:00"
+updatedAt: "2026-11-01T05:38:00-05:00"
 authors: [jordan-bennett]
 category: holidays
 keywords: ["village halloween parade 2026", "nyc halloween parade time", "halloween parade nyc route", "village halloween parade tv ny1"]
@@ -12,7 +13,7 @@ hero:
   src: ../../../../assets/news/village-halloween-parade-2026-nyc-start-time-route-ny1-subway/village-halloween-parade-2026-nyc-start-time-route-ny1-subway.webp
   alt: "Village Halloween Parade 2026: a giant skeleton puppet carried up Sixth Avenue in Greenwich Village at night during the 2019 parade"
   title: "Giant skeleton puppet, Village Halloween Parade"
-  caption: "File photo from the 2019 Village Halloween Parade. Skeleton puppets lead the parade each year; the 2026 parade steps off at 7 p.m. on Saturday, Oct. 31."
+  caption: "File photo from the 2019 Village Halloween Parade. Skeleton puppets lead the parade each year; the 2026 parade stepped off at 7 p.m. on Saturday, Oct. 31."
   credit: "Photo: Steven Pisano / Wikimedia Commons, cropped, edited"
   license:
     name: "CC BY 2.0"
@@ -20,7 +21,7 @@ hero:
     source: "https://commons.wikimedia.org/wiki/File:2019_Village_Halloween_Parade_-_49375445948.jpg"
     author: "Steven Pisano"
 summary:
-  - "The 53rd Village Halloween Parade steps off at 7 p.m. ET on Saturday, Oct. 31, 2026, and ends around 11 p.m., according to the parade's official site."
+  - "The 53rd Village Halloween Parade stepped off at 7 p.m. ET on Saturday, Oct. 31, 2026, and ended around 11 p.m., according to the parade's official site."
   - "Spectrum News NY1 presents the parade live at 8 p.m.; spectators can watch from King Street to West 15th Street on Sixth Avenue, and watching is free."
   - "Only people in costume may march; the public line-up is at Canal Street and Sixth Avenue from 6:30 to 9 p.m."
   - "The parade site lists A and C train reroutes from Friday, Oct. 30 at 10 p.m. and a Spring Street bypass for downtown C trains on Saturday from 5 to 10 p.m."
@@ -105,9 +106,9 @@ assets:
     alt: "Printable Village Halloween Parade 2026 night plan with times for Oct. 31"
 ---
 
-**The 53rd Village Halloween Parade steps off at 7 p.m. Eastern Time (ET) tomorrow, Saturday, Oct. 31, 2026, on Sixth Avenue in Manhattan**, according to the parade's organizers, who say it ends around 11 p.m. The parade site says Spectrum News NY1 presents it live at 8 p.m. This page puts the line-up, step-off, television and subway times in one table and adds a one-page night plan you can print.
+**The 53rd Village Halloween Parade stepped off at 7 p.m. Eastern Time (ET) on Saturday, Oct. 31, 2026, on Sixth Avenue in Manhattan**, according to the parade's organizers, who said it would end around 11 p.m. The parade site said Spectrum News NY1 presented it live at 8 p.m. This page puts the line-up, step-off, television and subway times in one table and adds a one-page night plan you can print.
 
-The 2026 theme is "Body & Soul". The site says the parade "will be led by a spectacular new performance: Firehorse!", a puppet commissioned from puppeteer Basil Twist and choreographed by performance artist Julie Atlas Muz. The Grand Marshal is performance artist Joey Arias. For the date itself, see [When is Halloween?](/when-is/halloween/); for sunset and trick-or-treat hours, see our [Halloween 2026 story](/news/halloween-2026-saturday-sunset-trick-or-treat-times/).
+The 2026 theme was "Body & Soul". The site said the parade would be "led by a spectacular new performance: Firehorse!", a puppet commissioned from puppeteer Basil Twist and choreographed by performance artist Julie Atlas Muz. The Grand Marshal was performance artist Joey Arias. For the date itself, see [When is Halloween?](/when-is/halloween/); for sunset and trick-or-treat hours, see our [Halloween 2026 story](/news/halloween-2026-saturday-sunset-trick-or-treat-times/).
 
 ## Village Halloween Parade night plan, Oct. 31, 2026
 

@@ -4,7 +4,7 @@ seoTitle: "Super Bowl 2027: LXI Date, Stadium, Channel, Halftime"
 description: "Super Bowl 61 (LXI) is Feb. 14, 2027, at SoFi Stadium, the National Football League (NFL) says, on ESPN and the American Broadcasting Company (ABC)."
 type: explainer
 publishedAt: "2026-10-25T17:02:00-04:00"
-updatedAt: "2026-10-31T10:37:00-04:00"
+updatedAt: "2026-11-01T10:27:00-05:00"
 authors: [jordan-bennett]
 category: sports
 keywords: ["Super Bowl 2027", "Super Bowl LXI date", "where is the Super Bowl 2027", "Super Bowl 2027 channel", "Super Bowl 2027 halftime show"]
@@ -25,17 +25,17 @@ assets:
       - { when: "Confirmed", what: "Place: SoFi Stadium, Inglewood, California", section: "Confirmed by the NFL and ESPN" }
       - { when: "Confirmed", what: "English-language TV: ESPN and ABC", section: "Confirmed by the NFL and ESPN" }
       - { when: "Confirmed", what: "Spanish-language TV: ESPN Deportes and Univision", section: "Confirmed by the NFL and ESPN" }
+      - { when: "Confirmed", what: "Halftime show: Jay-Z (announced Oct. 26, 2026)", section: "Confirmed by the NFL and ESPN" }
       - { when: "Late December", what: "Pro Bowl roster reveal", section: "Dates to watch" }
       - { when: "Jan. 16-18", what: "Wild Card Weekend", section: "Dates to watch" }
       - { when: "Jan. 31", what: "Conference Championship Games", section: "Dates to watch" }
       - { when: "Feb. 14", what: "Super Bowl LXI at SoFi Stadium", section: "Dates to watch" }
       - { when: "Not announced", what: "Kickoff time", section: "Dates to watch" }
-      - { when: "Not announced", what: "Halftime show headliner", section: "Dates to watch" }
       - { when: "Plan", what: "Pick the room and the screen", section: "Party checklist" }
       - { when: "Plan", what: "Send invitations once the date is official", section: "Party checklist" }
       - { when: "Plan", what: "Make the food and drink list", section: "Party checklist" }
       - { when: "Plan", what: "Check the channel on your TV or app", section: "Party checklist" }
-    note: "Sources: NFL.com (2026-27 important dates); ESPN Press Room; Disney. Kickoff time not yet announced as of Oct. 31, 2026."
+    note: "Sources: NFL.com (2026-27 important dates); ESPN Press Room; Disney; NFL, Apple Music and Roc Nation (Oct. 26, 2026). Kickoff time not yet announced as of Nov. 1, 2026."
     inkSaver: true
     description: "One-page Super Bowl LXI planner for February 2027: what the NFL and ESPN have confirmed, dates to watch, and a party checklist."
     alt: "Printable Super Bowl LXI planner for February 2027 with confirmed facts, dates to watch and a party checklist"
@@ -53,7 +53,7 @@ hero:
 summary:
   - "Super Bowl LXI (61) will be played at SoFi Stadium in Inglewood, California, on Feb. 14, 2027, according to the National Football League (NFL). It will be the stadium's second Super Bowl."
   - "ESPN and American Broadcasting Company (ABC) will air the English-language telecast, and ESPN Deportes and Univision each produce a Spanish-language telecast, ESPN said on May 12, 2026."
-  - "The NFL lists Super Bowl LXI for Feb. 14, 2027, a Sunday, and the American Football Conference (AFC) and National Football Conference (NFC) Championship Games for Jan. 31. The league has not announced the kickoff time or the halftime headliner."
+  - "The NFL lists Super Bowl LXI for Feb. 14, 2027, a Sunday, and the American Football Conference (AFC) and National Football Conference (NFC) Championship Games for Jan. 31. Jay-Z will headline the halftime show, the league, Apple Music and Roc Nation announced on Oct. 26; the kickoff time is not yet announced."
 faq:
   - q: "When is Super Bowl 2027?"
     a: "The National Football League (NFL) lists Super Bowl LXI on Feb. 14, 2027, a Sunday, in its 2026-27 important dates. The kickoff time has not been announced."
@@ -62,7 +62,7 @@ faq:
   - q: "What channel is Super Bowl 2027 on?"
     a: "ESPN and American Broadcasting Company (ABC) will air the English-language telecast. ESPN Deportes and Univision each produce a Spanish-language telecast, per ESPN Press Room."
   - q: "Who is the Super Bowl 2027 halftime performer?"
-    a: "The NFL has not announced one. Puck and Deadline reported on Oct. 20, 2026, that Jay-Z is in line to headline; neither the NFL nor Roc Nation had confirmed it."
+    a: "Jay-Z. The National Football League (NFL), Apple Music and Roc Nation announced on Oct. 26, 2026, that he will headline the Apple Music Super Bowl LXI Halftime Show. It is his first time performing at a Super Bowl halftime show."
   - q: "Is there a Pro Bowl game in 2027?"
     a: "No. The NFL said in August 2026 that the American Football Conference (AFC) versus National Football Conference (NFC) Pro Bowl game will no longer be played. The 2027 Pro Bowl class will be recognized during Pro Bowl weekend in Los Angeles."
 sources:
@@ -83,6 +83,14 @@ sources:
   - title: "NFL elevates Pro Bowl selection; AFC-NFC Pro Bowl game will no longer be staged"
     url: "https://www.nfl.com/news/nfl-elevates-pro-bowl-selection-game-s-will-cease-being-contested"
     publisher: "NFL"
+  - title: "JAY-Z's Road to Halftime"
+    url: "https://music.apple.com/us/multi-room/6799221010"
+    publisher: "Apple Music"
+    date: "2026-10-26"
+  - title: "Jay-Z announced as Super Bowl LXI halftime show performer"
+    url: "https://goodmorningamerica.com/culture/story/jay-announced-super-bowl-lxi-halftime-show-performer-137415711"
+    publisher: "ABC News, Good Morning America"
+    date: "2026-10-27"
 internalLinks:
   - href: "/february-calendars.html"
     label: "February 2027 printable calendar"
@@ -109,9 +117,9 @@ downloads:
 draft: false
 ---
 
-<p class="callout"><b>Checked Oct. 31, 2026.</b> The NFL lists the game for Feb. 14, 2027, and has confirmed the stadium and the network; we will add the kickoff time and halftime headliner when the league announces them.</p>
+<p class="callout"><b>Checked Nov. 1, 2026.</b> The NFL, Apple Music and Roc Nation announced on Oct. 26 that Jay-Z will headline the halftime show. The NFL lists the game for Feb. 14, 2027, and has confirmed the stadium and the network; we will add the kickoff time when the league announces it.</p>
 
-**Super Bowl LXI (61) will be played at SoFi Stadium in Inglewood, California, on Sunday, Feb. 14, 2027, according to the National Football League (NFL) on NFL.com.** ESPN and the American Broadcasting Company (ABC) will air it. The league has not yet announced the kickoff time or the halftime headliner.
+**Super Bowl LXI (61) will be played at SoFi Stadium in Inglewood, California, on Sunday, Feb. 14, 2027, according to the National Football League (NFL) on NFL.com.** ESPN and the American Broadcasting Company (ABC) will air it. Jay-Z will headline the halftime show, the NFL, Apple Music and Roc Nation announced on Oct. 26, 2026. The league has not yet announced the kickoff time.
 
 This page sorts what is confirmed from what is still open, and a one-page planner at the end lets you keep both lists.
 
@@ -127,7 +135,7 @@ NFL.com says Super Bowl LXI "will be played at SoFi Stadium in Inglewood." It wi
 | Spanish-language TV | ESPN Deportes and Univision, each with its own telecast | ESPN Press Room, May 12, 2026 |
 | Exact date | Sunday, Feb. 14, 2027 | NFL, 2026-27 important dates |
 | Kickoff time | Not yet announced | NFL |
-| Halftime headliner | Not yet announced | NFL |
+| Halftime headliner | Jay-Z, Apple Music Super Bowl LXI Halftime Show | NFL, Apple Music and Roc Nation, Oct. 26, 2026 |
 | January 2027 playoff dates | Wild Card Weekend Jan. 16-18; Divisional Playoffs Jan. 23-24; American Football Conference (AFC) and National Football Conference (NFC) Championship Games Jan. 31 | NFL, 2026-27 important dates |
 
 ## When is the Super Bowl LXI date?
@@ -144,7 +152,7 @@ In a May 12, 2026, release, ESPN Press Room said: "ESPN and ABC will air the Eng
 
 ## Who is the Super Bowl 2027 halftime performer?
 
-The NFL has not announced a headliner. Puck and Deadline reported on Oct. 20, 2026, that Jay-Z is in line to headline. Neither the NFL nor Roc Nation had confirmed it when we checked on Oct. 25, 2026. Treat the report as unconfirmed until the league says otherwise.
+Jay-Z. The NFL, Apple Music and Roc Nation announced on Oct. 26, 2026, that he will headline the Apple Music Super Bowl LXI Halftime Show, his first time performing at a Super Bowl halftime show. Roc Nation, which has produced the halftime show since partnering with the NFL in 2019, will executive produce the telecast, and Hamish Hamilton is set to direct. No guest performers have been announced.
 
 ## What happened to the Pro Bowl game?
 
@@ -152,4 +160,4 @@ No. In August 2026 the NFL said the American Football Conference (AFC) versus Na
 
 ## Is there a printable Super Bowl LXI planner?
 
-Yes. The one-page planner lists the confirmed facts, the dates to watch (the late December Pro Bowl reveal, Wild Card Weekend, the Jan. 31 conference championship games, the Feb. 14 game, the kickoff and halftime announcements) and a party checklist. It leaves the kickoff time and halftime headliner open, because the NFL has not announced them.
+Yes. The one-page planner lists the confirmed facts, the dates to watch (the late December Pro Bowl reveal, Wild Card Weekend, the Jan. 31 conference championship games and the Feb. 14 game), the halftime headliner and a party checklist. It leaves the kickoff time open, because the NFL has not announced it.

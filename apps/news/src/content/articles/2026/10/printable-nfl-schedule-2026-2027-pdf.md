@@ -4,7 +4,7 @@ seoTitle: "Printable NFL Schedule 2026-2027: All 272 Games, PDFs"
 description: "Full National Football League (NFL) 2026-2027 schedule: all 272 games by week with Eastern Time (ET) kickoffs, TV, byes, a team finder and free printable PDFs."
 type: explainer
 publishedAt: "2026-10-23T02:50:00-04:00"
-updatedAt: "2026-11-01T02:50:00-05:00"
+updatedAt: "2026-11-01T10:27:00-05:00"
 authors: [jordan-bennett]
 category: sports
 keywords: ["printable NFL schedule 2026-2027 PDF", "NFL schedule 2026", "NFL 2026 week by week schedule", "NFL bye weeks 2026", "NFL team schedules 2026 printable"]
@@ -73,6 +73,9 @@ sources:
     publisher: "Pro Football Hall of Fame"
   - title: "SoFi Stadium approved to host Super Bowl LXI in 2027"
     url: "https://www.nfl.com/news/sofi-stadium-approved-to-host-super-bowl-lxi-in-2027"
+    publisher: "NFL"
+  - title: "2026-27 National Football League important dates"
+    url: "https://www.nfl.com/news/2026-27-national-football-league-important-dates"
     publisher: "NFL"
 internalLinks:
   - href: "/november-calendars.html"
@@ -568,9 +571,9 @@ Every file is text you can select, not a picture, and none uses NFL or team logo
 
 According to NFL Football Operations, the season has 18 weeks and 272 games. Each team plays 17 games and gets one bye week. The league released the schedule on Thursday, May 14, 2026, the Cleveland Browns' site reported.
 
-The opener was Patriots at Seahawks on Wednesday, Sept. 9, 2026, at 8:20 p.m. ET. Week 18 ends the regular season on the weekend of Jan. 9 and 10, 2027. Super Bowl 61 (LXI) is Sunday, Feb. 14, 2027, at SoFi Stadium in Inglewood, California, according to the NFL. Playoff dates for this season are not yet announced.
+The opener was Patriots at Seahawks on Wednesday, Sept. 9, 2026, at 8:20 p.m. ET. Week 18 ends the regular season on the weekend of Jan. 9 and 10, 2027. Super Bowl 61 (LXI) is Sunday, Feb. 14, 2027, at SoFi Stadium in Inglewood, California, according to the NFL. The NFL's 2026-27 important dates list Wild Card Weekend on Jan. 16-18, the Divisional round on Jan. 23-24 and the Conference Championship Games on Jan. 31, 2027.
 
-Today, Fri., Oct. 23, falls in Week 7. After Thursday's Patriots at Bears game, 13 more are left: the Paris game at 9:30 a.m. ET Sunday, 11 more on Sunday and Cowboys at Eagles on Monday night.
+Week 8 runs through Monday, Nov. 2, 2026, around the midpoint of the 18-week season. Times below are Eastern; games after Sunday, Nov. 1, are on Eastern Standard Time after the clocks fall back.
 
 ## Bye weeks by team
 

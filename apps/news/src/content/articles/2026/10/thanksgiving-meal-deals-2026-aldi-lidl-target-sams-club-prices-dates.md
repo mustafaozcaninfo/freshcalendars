@@ -4,6 +4,7 @@ seoTitle: "Thanksgiving Meal Deals 2026: Aldi, Lidl, Target, Sam's"
 description: "Sam's Club's Thanksgiving meal goes on sale Oct. 28, 2026. Compare Aldi, Lidl, Target and Sam's Club prices, servings and sale dates, with a printable."
 type: news
 publishedAt: "2026-10-28T01:47:00-04:00"
+updatedAt: "2026-11-01T05:38:00-05:00"
 authors: [jordan-bennett]
 category: retail-dates
 keywords: ["Thanksgiving meal deals 2026", "Aldi Thanksgiving meal 2026", "Target $30 Thanksgiving meal", "Lidl Thanksgiving basket 2026", "Sam's Club Thanksgiving meal 2026"]
@@ -112,7 +113,7 @@ downloads:
 draft: false
 ---
 
-**Sam's Club's 2026 Member's Mark Thanksgiving meal goes on sale today, Wednesday, Oct. 28, 2026: 11 items for about $160, serving up to 16 people, for less than $10 per person, in clubs and online, according to Sam's Club.** Three more deals are lined up. Aldi's meal for 10 at under $39 is already on, Target's $30 meal for six starts Sunday, Nov. 8, and Lidl's $35.86 basket starts Wednesday, Nov. 11. Below: all four side by side, the dates each deal is live, and a printable calendar. For the holiday date itself, see [when is Thanksgiving](/when-is/thanksgiving/); it falls on Thursday, Nov. 26, 2026.
+**Sam's Club's 2026 Member's Mark Thanksgiving meal went on sale Wednesday, Oct. 28, 2026: 11 items for about $160, serving up to 16 people, for less than $10 per person, in clubs and online, according to Sam's Club.** Three more deals are lined up. Aldi's meal for 10 at under $39 is already on, Target's $30 meal for six starts Sunday, Nov. 8, and Lidl's $35.86 basket starts Wednesday, Nov. 11. Below: all four side by side, the dates each deal is live, and a printable calendar. For the holiday date itself, see [when is Thanksgiving](/when-is/thanksgiving/); it falls on Thursday, Nov. 26, 2026.
 
 ## How do the four Thanksgiving meals compare?
 

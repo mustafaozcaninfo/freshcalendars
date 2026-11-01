@@ -4,6 +4,7 @@ seoTitle: "PlayStation Plus November 2026 Games and Dates"
 description: "Sony named the PlayStation Plus (PS Plus) November 2026 games Oct. 28: Dead Island 2, Tomb Raider IV–VI Remastered and Monster Train 2, playable Nov. 3 to 30."
 type: news
 publishedAt: "2026-10-28T13:48:00-04:00"
+updatedAt: "2026-11-01T10:27:00-05:00"
 authors: [jordan-bennett]
 category: retail-dates
 keywords: ["playstation plus november 2026 games", "ps plus november games list", "ps plus essential november 2026", "when do ps plus november games come out"]
@@ -92,7 +93,7 @@ related: [gta-6-countdown-release-time-by-time-zone, peak-ps5-price-crossplay-gu
 draft: false
 ---
 
-**Sony announced on the PlayStation Blog today, Wednesday, Oct. 28, 2026, that Dead Island 2, Tomb Raider IV–VI Remastered and Monster Train 2 are the PlayStation Plus (PS Plus) Monthly Games for November, playable from Tuesday, Nov. 3 to Monday, Nov. 30.** The blog post says all three are available to play across that window. The tables below add the dates around it, and a free printable calendar follows.
+**Sony announced on the PlayStation Blog on Wednesday, Oct. 28, 2026, that Dead Island 2, Tomb Raider IV–VI Remastered and Monster Train 2 are the PlayStation Plus (PS Plus) Monthly Games for November, playable from Tuesday, Nov. 3 to Monday, Nov. 30.** The blog post says all three are available to play across that window. The tables below add the dates around it, and a free printable calendar follows.
 
 <p class="callout"><b>Checked Oct. 28, 2026.</b> Sony has not given a time of day for the Nov. 3 start, the Nov. 30 end or the Nov. 2 cutoff for the October games. This story does not state one.</p>
 

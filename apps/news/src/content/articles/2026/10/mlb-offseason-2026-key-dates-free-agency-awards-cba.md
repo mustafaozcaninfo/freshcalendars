@@ -4,7 +4,7 @@ seoTitle: "MLB Offseason 2026 Key Dates: Free Agency, Awards, CBA"
 description: "Major League Baseball (MLB) free agency opens Thursday, Oct. 29, 2026, the day after the Brewers won the World Series; awards run Nov. 1 to 17, per MLB.com."
 type: explainer
 publishedAt: "2026-10-27T10:08:00-04:00"
-updatedAt: "2026-11-01T04:47:00-05:00"
+updatedAt: "2026-11-01T10:27:00-05:00"
 authors: [jordan-bennett]
 category: sports
 keywords: ["MLB offseason key dates 2026", "when does MLB free agency start 2026", "MLB awards 2026 dates", "MLB CBA expiration December 1 2026"]
@@ -30,7 +30,7 @@ faq:
   - q: "When can free agents sign with new teams?"
     a: "MLB.com's guide says players cannot sign with a new team until 5 p.m. ET on the fifth day after the World Series ends. With the Series over on Oct. 28, our count puts that at 5 p.m. ET on Monday, Nov. 2, 2026."
   - q: "What is the 2026 qualifying offer?"
-    a: "Not yet announced. MLB.com says the offer is set at the average salary of the top 125 highest-paid players, which was $22.025 million last offseason."
+    a: "The 2026-27 qualifying offer is $23.15 million, up 5.1% from $22.025 million last offseason, The Sports Network (TSN) reported on Oct. 19, 2026. The figure is the average of the game's top 125 salaries, per MLB.com."
   - q: "When do the 2026 MLB awards come out?"
     a: "From Sunday, Nov. 1 (Gold Glove Awards) to Tuesday, Nov. 17 (Silver Slugger Awards). The BBWAA M.V.P. award is Thursday, Nov. 12, per MLB.com."
   - q: "When does the MLB collective bargaining agreement expire?"
@@ -58,6 +58,14 @@ sources:
     url: "https://www.justbaseball.com/?p=245063"
     publisher: "Just Baseball"
     date: "2026-10-13"
+  - title: "MLB qualifying offer for free agents rises to $23.15M, up 5.1% from last year"
+    url: "https://www.tsn.ca/mlb/article/mlb-qualifying-offer-for-free-agents-rises-to-2315m-up-51-from-last-year-n1-50219765/"
+    publisher: "TSN"
+    date: "2026-10-19"
+  - title: "MLB's qualifying offer has been set for the 2026-27 offseason"
+    url: "https://frontofficesports.com/?p=253427"
+    publisher: "Front Office Sports"
+    date: "2026-10-21"
 internalLinks:
   - href: "/november-calendars.html"
     label: "November 2026 printable calendar"
@@ -117,7 +125,7 @@ assets:
 draft: false
 ---
 
-<p class="callout"><b>Last updated Oct. 29, 2026, 3:55 a.m. ET.</b> The Brewers won the World Series in Game 5 on Wednesday night, so the dates below now use that finish, and the printable lists them: free agents from Thursday, Oct. 29, signings with new clubs from Monday, Nov. 2, 5 p.m. ET by our count. MLB has not yet announced the 2026 qualifying offer.</p>
+<p class="callout"><b>Last updated Oct. 29, 2026, 3:55 a.m. ET.</b> The Brewers won the World Series in Game 5 on Wednesday night, so the dates below now use that finish, and the printable lists them: free agents from Thursday, Oct. 29, signings with new clubs from Monday, Nov. 2, 5 p.m. ET by our count.</p>
 
 **Major League Baseball (MLB) free agency opens Thursday, Oct. 29, 2026, the day after the World Series ended, according to MLB.com's offseason rules guide.** MLB.com's awards guide (Oct. 26, 2026) then lists the Gold Glove Awards on Sunday, Nov. 1 through the Silver Slugger Awards on Tuesday, Nov. 17. The World Series ended on Wednesday, Oct. 28, when Milwaukee beat Tampa Bay 4-1 in Game 5, so free agency opens Thursday, Oct. 29, with signings with new clubs allowed from 5 p.m. Eastern Time (ET) on Monday, Nov. 2 by our count. The details are in our [2026 World Series schedule](/news/world-series-2026-schedule-game-times-tv-channel/).
 
@@ -136,7 +144,7 @@ The game dates come from the MLB Stats application programming interface (API) s
 
 ## What is the 2026 qualifying offer?
 
-Not yet announced. MLB.com (Aug. 8, 2026) says the offer is "set at the average salary of MLB's top 125 highest-paid players (worth $22.025 million last offseason)." In 2025, players had until 4 p.m. ET on Nov. 18 to accept. The 2026 accept deadline is not yet announced either.
+The 2026-27 qualifying offer is $23.15 million, The Sports Network (TSN) reported on Oct. 19, 2026, up 5.1% from $22.025 million last offseason; Front Office Sports reported the same figure on Oct. 21. MLB.com (Aug. 8, 2026) describes the offer as "set at the average salary of MLB's top 125 highest-paid players." A player who receives the offer has a set window to accept the one-year deal; in 2025 that deadline was 4 p.m. ET on Nov. 18, and the 2026 accept date is not yet announced.
 
 ## When are the 2026 MLB awards announced?
 
@@ -183,7 +191,7 @@ Just Baseball (Oct. 13, 2026) reports the Collective Bargaining Agreement "will 
 
 ## What has MLB not announced yet?
 
-The 2026 qualifying offer amount and accept deadline, the Rule 5 Draft date, the date the BBWAA names its finalists, award show times beyond those above and the 2027 salary arbitration exchange date are all not yet announced in the sources we used. We will update this story when they appear.
+The 2026 qualifying offer accept deadline, the Rule 5 Draft date, the date the BBWAA names its finalists, award show times beyond those above and the 2027 salary arbitration exchange date are all not yet announced in the sources we used. We will update this story when they appear.
 
 ## Free MLB offseason dates printable
 

@@ -1,10 +1,10 @@
 ---
 title: "Lowe's Black Friday 2026: Deals Start Oct. 29, 12 Days of Deals Begin Nov. 16, Stores Closed on Thanksgiving"
 seoTitle: "Lowe's Black Friday 2026: Deals Start Oct. 29"
-description: "Lowe's Black Friday deals start today, Thursday, Oct. 29, 2026. 12 Days of Deals begin Nov. 16, Doorbusters hit Nov. 27 and stores close on Thanksgiving."
+description: "Lowe's Black Friday deals began Thursday, Oct. 29, 2026. 12 Days of Deals begin Nov. 16, Doorbusters hit Nov. 27 and stores close on Thanksgiving Day."
 type: news
 publishedAt: "2026-10-29T05:40:00-04:00"
-updatedAt: "2026-10-31T00:25:00-04:00"
+updatedAt: "2026-11-01T10:27:00-05:00"
 authors: [jordan-bennett]
 category: retail-dates
 keywords: ["lowe's black friday 2026", "lowe's 12 days of deals 2026", "lowe's black friday ad 2026", "is lowe's open on thanksgiving 2026", "home depot black friday 2026"]
@@ -96,7 +96,7 @@ downloads:
 draft: false
 ---
 
-**Lowe's Black Friday deals start today, Thursday, Oct. 29, 2026, four weeks before Black Friday (Friday, Nov. 27), according to Lowe's holiday announcement of Oct. 8.** The Lowe's Companies, Inc. release says the retailer "is kicking off Black Friday deals Oct. 29, four weeks before Black Friday." This year its annual 10 Days of Deals grows to 12 Days of Deals, starting Monday, Nov. 16. Every phase is in the table below and on a one-page printable.
+**Lowe's Black Friday deals began Thursday, Oct. 29, 2026, four weeks before Black Friday (Friday, Nov. 27), according to Lowe's holiday announcement of Oct. 8.** The Lowe's Companies, Inc. release says the retailer "is kicking off Black Friday deals Oct. 29, four weeks before Black Friday." This year its annual 10 Days of Deals grows to 12 Days of Deals, starting Monday, Nov. 16. Every phase is in the table below and on a one-page printable.
 
 ## What are Lowe's 2026 Black Friday dates?
 

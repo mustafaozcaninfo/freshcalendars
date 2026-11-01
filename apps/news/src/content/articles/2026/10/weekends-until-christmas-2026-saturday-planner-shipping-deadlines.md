@@ -4,6 +4,7 @@ seoTitle: "Weekends Until Christmas 2026: 7 Full Weekends"
 description: "Seven full weekends fall before Christmas Day, Fri., Dec. 25, 2026. See what is due and what falls on each, with U.S. Postal Service (USPS) send-by dates."
 type: explainer
 publishedAt: "2026-10-31T17:55:00-04:00"
+updatedAt: "2026-11-01T02:44:00-05:00"
 authors: [jordan-bennett]
 category: calendar-guides
 keywords: ["how many weekends until christmas 2026", "saturdays until christmas 2026", "weekends left before christmas", "christmas shopping weekends 2026"]
@@ -43,7 +44,7 @@ faq:
   - q: "How many weekends are left until Christmas 2026?"
     a: "Seven full weekends, counting Saturday, Nov. 7 and Sunday, Nov. 8 through Saturday, Dec. 19 and Sunday, Dec. 20. This weekend, Oct. 31 to Nov. 1, is not counted. Thursday, Dec. 24 to Sunday, Dec. 27 is a partial weekend around Christmas Day on Friday, Dec. 25."
   - q: "How many Saturdays are there until Christmas 2026?"
-    a: "Seven Saturdays fall from Nov. 7 through Dec. 19, and Dec. 19 is the last one before Christmas Day on Friday, Dec. 25. Counted from today, Saturday, Oct. 31, there is one more, which makes eight."
+    a: "Seven Saturdays fall from Nov. 7 through Dec. 19, and Dec. 19 is the last one before Christmas Day on Friday, Dec. 25."
   - q: "What is the last weekend to mail Christmas gifts by USPS?"
     a: "For the lower 48 states, the USPS recommends mailing Ground Advantage and First-Class Mail by Thursday, Dec. 17 and Priority Mail by Friday, Dec. 18, so Dec. 12-13 is the last full weekend before both. Priority Mail Express is recommended by Saturday, Dec. 19. These are recommendations, not guarantees."
   - q: "Is Black Friday on a weekend in 2026?"
@@ -120,7 +121,7 @@ draft: false
 
 ## How many weekends are left until Christmas 2026?
 
-Count the Saturday-and-Sunday pairs that start after today, Saturday, Oct. 31, and end before Christmas Day. That gives seven: Nov. 7-8, Nov. 14-15, Nov. 21-22, Nov. 28-29, Dec. 5-6, Dec. 12-13 and Dec. 19-20. Counted by Saturdays alone, the same seven dates apply, from Nov. 7 to Dec. 19. If you count today's Saturday, the total is eight Saturdays.
+Count the Saturday-and-Sunday pairs that start after today, Sunday, Nov. 1, and end before Christmas Day. That gives seven: Nov. 7-8, Nov. 14-15, Nov. 21-22, Nov. 28-29, Dec. 5-6, Dec. 12-13 and Dec. 19-20. Counted by Saturdays alone, the same seven dates apply, from Nov. 7 to Dec. 19.
 
 The weekend after Christmas is not in the count. Christmas Day is a Friday, so the Dec. 24-27 stretch is a four-day block with Christmas Eve on Thursday, Dec. 24 and Christmas Day on Friday, Dec. 25. Christmas Day is a federal holiday, according to the U.S. Office of Personnel Management. To check the date in other years, see [when is Christmas Day](/when-is/christmas-day/).
 

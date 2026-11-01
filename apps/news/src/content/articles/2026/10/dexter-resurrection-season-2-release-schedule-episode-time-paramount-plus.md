@@ -1,9 +1,10 @@
 ---
-title: "Dexter: Resurrection Season 2 Premieres Today on Paramount+: Release Schedule and Episode Times"
+title: "Dexter: Resurrection Season 2 Release Schedule and Episode Times on Paramount+"
 seoTitle: "Dexter Resurrection Season 2 Release Schedule"
-description: "Dexter: Resurrection Season 2 premieres today, Fri., Oct. 30, 2026 on Paramount+ Premium, then weekly. Reported time: 3:01 a.m. Eastern Time (ET)."
+description: "Dexter: Resurrection Season 2 premiered Oct. 30, 2026 on Paramount+ Premium and runs weekly. Episode 2 airs Fri., Nov. 6; reported 3:01 a.m. Eastern Time (ET)."
 type: news
 publishedAt: "2026-10-30T03:42:00-04:00"
+updatedAt: "2026-11-01T02:42:00-05:00"
 authors: [jordan-bennett]
 category: entertainment
 keywords: ["when does dexter resurrection 2 come out", "dexter resurrection season 2 release schedule", "dexter resurrection season 2 episode 2 release date", "dexter resurrection season 2 what time"]
@@ -46,13 +47,13 @@ hero:
     author: "Gage Skidmore from Peoria, AZ, United States of America"
     authorUrl: "https://www.flickr.com/people/22007612@N05"
 summary:
-  - "Dexter: Resurrection Season 2 premieres today, Friday, Oct. 30, 2026, on Paramount+ with the Premium plan, per Paramount."
+  - "Dexter: Resurrection Season 2 premiered Friday, Oct. 30, 2026, on Paramount+ with the Premium plan, per Paramount, and runs weekly on Fridays."
   - "Paramount+ says one new episode drops weekly through the season finale. TheWrap reports 10 episodes ending Jan. 1, 2027."
   - "HollywoodLife reports a 3:01 a.m. Eastern Time (ET) release; Paramount has not posted a time."
   - "Two reported drops fall on holidays: Christmas Day (Dec. 25) and New Year's Day (Jan. 1, 2027)."
 faq:
   - q: "When does Dexter: Resurrection Season 2 come out?"
-    a: "Season 2 premieres Friday, Oct. 30, 2026 on Paramount+ with the Premium plan, according to Paramount Press Express."
+    a: "Season 2 premiered Friday, Oct. 30, 2026 on Paramount+ with the Premium plan, according to Paramount Press Express, and continues weekly on Fridays."
   - q: "What time does Dexter: Resurrection Season 2 come out?"
     a: "HollywoodLife reports 3:01 a.m. ET (12:01 a.m. Pacific Time, PT). Paramount has not posted a release time."
   - q: "When is Dexter: Resurrection Season 2 episode 2?"
@@ -116,7 +117,7 @@ downloads:
 draft: false
 ---
 
-**Dexter: Resurrection Season 2 premieres today, Friday, Oct. 30, 2026, on Paramount+ with the Premium plan, according to Paramount Press Express.** Paramount+ says one new episode drops weekly through the season finale. TheWrap reports a 10-episode run with the finale on Jan. 1, 2027, and HollywoodLife reports a 3:01 a.m. Eastern Time (ET) release.
+**Dexter: Resurrection Season 2 premiered Friday, Oct. 30, 2026, on Paramount+ with the Premium plan, according to Paramount Press Express, and continues weekly on Fridays.** The next episode is reported for Friday, Nov. 6, 2026. Paramount+ says one new episode drops weekly through the season finale. TheWrap reports a 10-episode run with the finale on Jan. 1, 2027, and HollywoodLife reports a 3:01 a.m. Eastern Time (ET) release.
 
 Paramount confirms the premiere date and the weekly rhythm. The episode count, the finale date and the release hour are reported, not announced. The table below separates the two, and the same dates sit on a one-page printable Season 2 watch tracker.
 
@@ -154,7 +155,7 @@ Paramount has not posted a release time. HollywoodLife, on Oct. 17, 2026, report
 | United Kingdom (UK) clocks | 7:01 a.m. Greenwich Mean Time (GMT) | Oct. 30 |
 | United Kingdom (UK) clocks | 8:01 a.m. GMT | Nov. 6 onward |
 
-The U.S. clocks go back on Sunday, Nov. 1, so the UK gap changes after the premiere. The UK column is a time conversion only: Paramount has not announced UK availability.
+The U.S. clocks went back on Sunday, Nov. 1, so the UK gap changes after the premiere. The UK column is a time conversion only: Paramount has not announced UK availability.
 
 ## Do you need the Premium plan?
 

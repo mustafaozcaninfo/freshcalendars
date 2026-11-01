@@ -4,6 +4,7 @@ seoTitle: "WoW Forever Launch Time by Time Zone, Nov. 4"
 description: "World of Warcraft (WoW): Forever goes live Nov. 4, 2026 at 3 p.m. Pacific Standard Time (PST), 6 p.m. Eastern Standard Time (EST). Zone times and dates."
 type: news
 publishedAt: "2026-10-31T07:50:00-04:00"
+updatedAt: "2026-11-01T05:33:00-05:00"
 authors: [jordan-bennett]
 category: entertainment
 keywords: ["WoW Forever launch time", "World of Warcraft Forever release date", "WoW Forever release time UK", "WoW Forever name reservation"]
@@ -56,7 +57,7 @@ faq:
   - q: "What time does WoW Forever launch in the UK?"
     a: "11:00 p.m. GMT on Wednesday, Nov. 4, 2026, according to Blizzard's regional table. Central Europe gets it at 12:00 a.m. CET on Thursday, Nov. 5."
   - q: "When does WoW Forever name reservation end?"
-    a: "Blizzard says Early Name Reservation is available from Oct. 27 through Nov. 3, 2026. It is still open on Oct. 31. Names are first-come, first-served and are not guaranteed."
+    a: "Blizzard says Early Name Reservation is available from Oct. 27 through Nov. 3, 2026. It is still open and closes Nov. 3. Names are first-come, first-served and are not guaranteed."
   - q: "Who can reserve a name early?"
     a: "Players who pre-purchase the Skyborne Heroic Pack, the Skyborne Epic Pack or the limited-time Warcraft Forever Collection. The benefit applies only to the WoW account the purchase was made for."
   - q: "Do I need a subscription to play WoW Forever?"
@@ -135,7 +136,7 @@ Blizzard lists 11:00 p.m. GMT on Wednesday, Nov. 4 for the UK, which is the same
 
 ## Early name reservation dates for WoW Forever
 
-Blizzard says Early Name Reservations are available from Oct. 27 through Nov. 3, 2026. They opened Oct. 27 at 1:00 p.m. Pacific Daylight Time (PDT) in North America and 18:00 CET in Europe, and on Oct. 28 at 07:00 in Korea and Taiwan. The window is still open on Oct. 31.
+Blizzard says Early Name Reservations are available from Oct. 27 through Nov. 3, 2026. They opened Oct. 27 at 1:00 p.m. Pacific Daylight Time (PDT) in North America and 18:00 CET in Europe, and on Oct. 28 at 07:00 in Korea and Taiwan. The window is still open and closes Nov. 3.
 
 - **Who can reserve:** players who pre-purchase the Skyborne Heroic Pack, the Skyborne Epic Pack or the limited-time Warcraft Forever Collection. The benefit applies only to the WoW account the purchase was made for.
 - **How many names:** up to three characters in total across all rulesets. Blizzard says this limit applies only to Early Name Reservation.

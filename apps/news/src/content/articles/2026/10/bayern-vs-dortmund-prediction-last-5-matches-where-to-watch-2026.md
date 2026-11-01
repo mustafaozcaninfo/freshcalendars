@@ -1,9 +1,10 @@
 ---
-title: "Bayern vs. Dortmund: Prediction, Last 5 Matches and Where to Watch on Oct. 31, 2026"
-seoTitle: "Bayern vs. Dortmund: Prediction, H2H, Where to Watch"
-description: "Bayern vs. Dortmund kicks off at 1:30 p.m. Eastern Time (ET) on Oct. 31, 2026. Opta's prediction, the last five meetings, U.S. channels and world times."
+title: "Bayern vs. Dortmund: Der Klassiker Finished 2-2 at the Allianz Arena on Oct. 31"
+seoTitle: "Bayern vs. Dortmund: Der Klassiker Ends 2-2"
+description: "Bayern Munich and Borussia Dortmund drew 2-2 in Der Klassiker at the Allianz Arena on Saturday, Oct. 31, 2026. Goalscorers and the last five meetings."
 type: news
 publishedAt: "2026-10-31T11:15:00-04:00"
+updatedAt: "2026-11-01T10:27:00-05:00"
 authors: [jordan-bennett]
 category: sports
 keywords: ["bayern vs dortmund", "bayern vs dortmund prediction", "bayern vs dortmund last 5 matches", "bayern vs dortmund where to watch", "der klassiker 2026"]
@@ -40,7 +41,7 @@ assets:
 hero:
   src: ../../../../assets/news/bayern-vs-dortmund-prediction-last-5-matches-where-to-watch-2026/bayern-vs-dortmund-prediction-last-5-matches-where-to-watch-2026.webp
   alt: "The Allianz Arena in Munich, where Bayern vs. Dortmund is played on Oct. 31, 2026"
-  caption: "File photo: the Allianz Arena in Munich. Bayern Munich host Borussia Dortmund here at 6:30 p.m. local time, 1:30 p.m. ET, on Saturday, Oct. 31, 2026."
+  caption: "File photo: the Allianz Arena in Munich. Bayern Munich hosted Borussia Dortmund here at 6:30 p.m. local time, 1:30 p.m. ET, on Saturday, Oct. 31, 2026."
   credit: "Photo: Diego Delso / Wikimedia Commons, cropped, edited"
   license:
     name: "CC BY-SA 3.0"
@@ -49,9 +50,9 @@ hero:
     author: "Diego Delso"
     authorUrl: "https://www.wikidata.org/wiki/Q28147777"
 summary:
-  - "Bayern Munich host Borussia Dortmund at the Allianz Arena at 1:30 p.m. Eastern Time (ET) on Saturday, Oct. 31, 2026, which is 6:30 p.m. in Munich and 5:30 p.m. in London."
-  - "Both clubs have 17 points from seven games with five wins and two draws; Bayern lead the Bundesliga on goal difference, +19 to +8."
-  - "Opta's supercomputer gives Bayern a 67.2% chance to win, Dortmund 15.4% and a draw 17.4%."
+  - "Bayern Munich and Borussia Dortmund drew 2-2 in Der Klassiker at the Allianz Arena on Saturday, Oct. 31, 2026, with goals from Konrad Laimer, Serhou Guirassy, Dayot Upamecano and Fábio Silva."
+  - "The draw left both clubs level on 18 points, with Bayern ahead of Dortmund on goal difference."
+  - "Opta's supercomputer had given Bayern a 67.2% chance to win, Dortmund 15.4% and a draw 17.4%; the game ended level."
   - "In the U.S., the Bundesliga is on USA Network or streams free on Fandango in English, and Telemundo has the Spanish-language rights."
 downloads:
   - group: "Bayern vs. Dortmund Kickoff Times printables"
@@ -71,8 +72,8 @@ downloads:
     png: "/news/downloads/soccer-tv-2026/bayern-vs-dortmund-kickoff-times-october-31-2026-ink.png"
     pages: 1
 faq:
-  - q: "What time is Bayern vs. Dortmund today?"
-    a: "1:30 p.m. ET (10:30 a.m. Pacific Time) on Saturday, Oct. 31, 2026. That is 6:30 p.m. in Munich, 5:30 p.m. in London and 8:30 p.m. in Istanbul."
+  - q: "What was the Bayern vs. Dortmund score?"
+    a: "Bayern Munich 2, Borussia Dortmund 2, at the Allianz Arena on Saturday, Oct. 31, 2026. Konrad Laimer and Dayot Upamecano scored for Bayern, Serhou Guirassy and Fábio Silva for Dortmund."
   - q: "What channel is Bayern vs. Dortmund on in the U.S.?"
     a: "USA Sports holds the English-language Bundesliga rights: at least 30 games a season air on USA Network and the rest stream free on Fandango. Telemundo and Universo carry games in Spanish. Check USA Network's guide for this game's channel."
   - q: "What is the Bayern vs. Dortmund prediction?"
@@ -84,6 +85,10 @@ faq:
 sources:
   - title: "FC Bayern München vs. Borussia Dortmund, Matchday 8, 2026/27: table"
     url: "https://www.bundesliga.com/en/bundesliga/matchday/2026-2027/8/fc-bayern-muenchen-vs-borussia-dortmund/table"
+    publisher: "Bundesliga"
+    date: "2026-10-31"
+  - title: "FC Bayern München vs. Borussia Dortmund, Matchday 8, 2026/27: match"
+    url: "https://www.bundesliga.com/en/bundesliga/matchday/2026-2027/8/fc-bayern-muenchen-vs-borussia-dortmund"
     publisher: "Bundesliga"
     date: "2026-10-31"
   - title: "Countdown to Munich: Broadcast, Referee, Training"
@@ -117,15 +122,16 @@ related: [soccer-on-tv-this-weekend-october-30-november-2-2026-us-channels, cham
 draft: false
 ---
 
-**Bayern Munich host Borussia Dortmund at 1:30 p.m. Eastern Time (ET) on Saturday, Oct. 31, 2026, at the Allianz Arena, with both clubs level on 17 points at the top of the Bundesliga.** Kickoff is 6:30 p.m. in Munich, per Borussia Dortmund, and the league's match centre lists it at 17:30 Coordinated Universal Time (UTC). Opta's model makes Bayern clear favorites; the last five league meetings were much closer than that.
+**Bayern Munich and Borussia Dortmund drew 2-2 in Der Klassiker at the Allianz Arena on Saturday, Oct. 31, 2026, leaving the two clubs level on 18 points.** Konrad Laimer put Bayern ahead, Serhou Guirassy equalized, Dayot Upamecano restored Bayern's lead and Fábio Silva leveled it again late on, according to the Bundesliga match centre, which also recorded a missed Harry Kane penalty. Kickoff had been 6:30 p.m. in Munich, 1:30 p.m. Eastern Time (ET), 17:30 Coordinated Universal Time (UTC).
 
-If a listing shows 12:30 p.m. ET, it is one hour off: Germany left summer time on Oct. 25, while U.S. clocks stay on daylight time until Sunday, Nov. 1, so this week the gap between Munich and New York is five hours, not six.
+Opta's model had made Bayern clear favorites, but the Klassiker again proved close, as the last five league meetings had been.
 
 ## Bayern vs. Dortmund match details
 
 | Detail | Information |
 |---|---|
 | Match | Bayern Munich vs. Borussia Dortmund (Der Klassiker) |
+| Result | Bayern Munich 2-2 Borussia Dortmund (Laimer 38', Guirassy 60', Upamecano 66', Silva 89'; Kane missed a penalty) |
 | Competition | Bundesliga, Matchday 8 |
 | Date | Saturday, Oct. 31, 2026 |
 | Kickoff | 1:30 p.m. ET, 10:30 a.m. Pacific Time (PT), 6:30 p.m. in Munich |
@@ -135,18 +141,18 @@ If a listing shows 12:30 p.m. ET, it is one hour off: Germany left summer time o
 
 ## Bayern vs. Dortmund prediction from Opta
 
-Opta's supercomputer, in a preview published Oct. 29, gives Bayern a **67.2%** chance to win. A draw is at **17.4%** and a Dortmund win at **15.4%**. These are simulation results from Opta Analyst, not betting odds, and we do not add a score pick of our own.
+Opta's supercomputer, in a preview published Oct. 29, gave Bayern a **67.2%** chance to win. A draw was at **17.4%** and a Dortmund win at **15.4%**. These were simulation results from Opta Analyst, not betting odds. The match itself finished level at 2-2.
 
 The numbers lean on Bayern's attack. Bayern have scored 25 goals in seven league games and conceded six, per the Bundesliga table. Dortmund have scored 12 and conceded four, with five clean sheets, the best defensive record in the league. Borussia Dortmund note that Bayern scored 18 goals in their first three home games of the season.
 
-Bayern play without head coach Vincent Kompany on the touchline. He collapsed at the club's training ground on Oct. 23 and was discharged from hospital this week, Opta Analyst reported; assistant Aaron Danks leads the team, as he did in last weekend's 3-1 win over Freiburg. Niko Kovač coaches Dortmund.
+Bayern played without head coach Vincent Kompany on the touchline. He collapsed at the club's training ground on Oct. 23 and was discharged from hospital that week, Opta Analyst reported; assistant Aaron Danks led the team, as he had in the previous weekend's 3-1 win over Freiburg. Niko Kovač coaches Dortmund.
 
 Opta's predicted lineups, which are not official:
 
 - **Bayern Munich:** Urbig; Laimer, Upamecano, Tah, Davies; Kimmich, Bischof; Olise, Gnabry, Saibari; Kane.
 - **Borussia Dortmund:** Kobel; Gadou, Anton, Schlotterbeck; Ryerson, Svensson, Nmecha, Bellingham; Chukwuemeka, Fábio Silva, Guirassy.
 
-The clubs name their starting lineups about an hour before kickoff, around 12:30 p.m. ET.
+The clubs named their starting lineups about an hour before kickoff.
 
 ## Bayern vs. Dortmund last 5 matches
 
@@ -171,7 +177,7 @@ Two more numbers from Borussia Dortmund: no club has kept more Bundesliga clean 
 | 1 | Bayern Munich | 7 | 5-2-0 | 25-6 | 17 |
 | 2 | Borussia Dortmund | 7 | 5-2-0 | 12-4 | 17 |
 
-A Bayern win puts them three points clear. A Dortmund win sends Dortmund top.
+The 2-2 draw moved both clubs to 18 points, with Bayern still ahead of Dortmund on goal difference.
 
 ## Where to watch Bayern vs. Dortmund
 
