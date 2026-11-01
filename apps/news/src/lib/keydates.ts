@@ -188,6 +188,8 @@ export const KEY_DATES: KeyDate[] = [
   { date: "2026-11-08", label: "Mickey's Very Merry Christmas Party first night at Magic Kingdom", slug: "mickeys-very-merry-christmas-party-2026-dates-calendar-tickets" },
   { date: "2026-12-22", label: "Mickey's Very Merry Christmas Party last night", slug: "mickeys-very-merry-christmas-party-2026-dates-calendar-tickets" },
   { date: "2026-11-02", label: "NHL Monday: four games, first faceoff 7 p.m. ET", slug: "nhl-games-today-november-2-2026" },
+  { date: "2026-11-05", label: "Target Early Black Friday deals begin (through Nov. 7)", slug: "holiday-deals-this-week-november-2-8-2026-target-best-buy-starbucks" },
+  { date: "2026-11-14", label: "World Diabetes Day, theme Early action on diabetes", slug: "world-diabetes-day-2026-saturday-november-14-early-action-theme" },
   { date: "2026-11-02", label: "Sports on TV Monday: Bears at Seahawks 8:15 p.m. ET on ESPN", slug: "sports-on-tv-today-november-2-2026" },
   { date: "2026-11-12", label: "Walmart Early Black Friday Deals begin online, 12:01 a.m. ET", slug: "walmart-black-friday-2026-dates-november-12-23-walmart-plus-early-access" },
   { date: "2026-11-23", label: "Walmart Black Friday Deals begin online, 12:01 a.m. ET", slug: "walmart-black-friday-2026-dates-november-12-23-walmart-plus-early-access" },

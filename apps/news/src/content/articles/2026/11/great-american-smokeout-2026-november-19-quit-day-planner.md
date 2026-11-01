@@ -93,7 +93,7 @@ internalLinks:
     label: "November 2026 printable calendar"
   - href: "/when-is/thanksgiving/"
     label: "When is Thanksgiving?"
-related: [november-2026-important-dates-days-until, thanksgiving-2026-planner-countdown-checklist]
+related: [november-2026-important-dates-days-until, thanksgiving-2026-planner-countdown-checklist, world-diabetes-day-2026-saturday-november-14-early-action-theme]
 downloads:
   - group: "Great American Smokeout Quit-Day Planner printables"
     title: "Great American Smokeout Quit-Day Planner, Nov. 19, 2026"
