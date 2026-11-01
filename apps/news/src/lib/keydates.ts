@@ -12,6 +12,11 @@ export interface KeyDate {
 }
 
 export const KEY_DATES: KeyDate[] = [
+  { date: "2026-11-02", label: "15 NBA games; Thunder at Cavaliers tips at 7 p.m. ET on Peacock", slug: "nba-games-today-november-2-2026" },
+  { date: "2026-12-26", label: "World Juniors open; Canada vs. Switzerland, 7 p.m. ET in Edmonton", slug: "world-juniors-2027-schedule-canada-usa-game-times-printable" },
+  { date: "2027-01-05", label: "World Juniors gold medal game, 9:30 p.m. ET at Rogers Place", slug: "world-juniors-2027-schedule-canada-usa-game-times-printable" },
+  { date: "2026-11-14", label: "Atlanta Botanical Garden lights open, first of our 12 holiday light shows", slug: "zoo-lights-2026-dates-national-zoo-bronx-lincoln-park-la-denver-houston" },
+  { date: "2026-11-20", label: "ZooLights opens at the National Zoo and Lincoln Park Zoo", slug: "zoo-lights-2026-dates-national-zoo-bronx-lincoln-park-la-denver-houston" },
   { date: "2026-11-01", label: "Clocks fall back: test smoke alarms and check their dates", slug: "smoke-alarm-check-daylight-saving-time-ends-november-1-2026-checklist" },
   { date: "2027-03-14", label: "Clocks spring forward: next smoke alarm check", slug: "smoke-alarm-check-daylight-saving-time-ends-november-1-2026-checklist" },
   { date: "2026-11-01", label: "New I bond rate of 5.51% starts for new bonds", slug: "i-bond-rate-november-2026-5-51-percent-fixed-rate-1-40" },

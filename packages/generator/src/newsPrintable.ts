@@ -39,16 +39,18 @@ const DAY_MS = 86_400_000;
 /**
  * Every "Weekday, Mon. D" in a `when` text as dates in `year`, with the weekday each one claims.
  * "Oct. 22-24" adds Oct. 24; "Fri., Nov. 20 to Sat., Nov. 21" gives both ends.
+ * An explicit year after the day ("Sat., Jan. 2, 2027") wins, so a sheet can cross New Year.
  */
 export function parseWhen(when: string, year: number): { date: Date; claimed?: number }[] {
   const out: { date: Date; claimed?: number }[] = [];
-  const re = new RegExp(`(?:${DOW_RE},?\\s+)?${MON_RE}\\s+(\\d{1,2})\\b(?:\\s*[-\u2013]\\s*(\\d{1,2})\\b(?!\\s*[ap]\\.?m))?`, "g");
+  const re = new RegExp(`(?:${DOW_RE},?\\s+)?${MON_RE}\\s+(\\d{1,2})\\b(?:\\s*[-\u2013]\\s*(\\d{1,2})\\b(?!\\s*[ap]\\.?m))?(?:,\\s*(20\\d\\d)\\b)?`, "g");
   for (const m of when.matchAll(re)) {
     const mon = MON.indexOf(m[2]!.slice(0, 3).toLowerCase());
-    const date = new Date(Date.UTC(year, mon, Number(m[3])));
+    const y = m[5] ? Number(m[5]) : year;
+    const date = new Date(Date.UTC(y, mon, Number(m[3])));
     if (date.getUTCMonth() !== mon) continue;
     out.push({ date, claimed: m[1] ? ["sun", "mon", "tue", "wed", "thu", "fri", "sat"].indexOf(m[1].slice(0, 3).toLowerCase()) : undefined });
-    if (m[4]) out.push({ date: new Date(Date.UTC(year, mon, Number(m[4]))) });
+    if (m[4]) out.push({ date: new Date(Date.UTC(y, mon, Number(m[4]))) });
   }
   return out;
 }

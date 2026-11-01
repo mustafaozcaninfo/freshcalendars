@@ -80,7 +80,7 @@ internalLinks:
     label: "Canada holidays"
   - href: "/when-is/uk-boxing-day/"
     label: "When is Boxing Day?"
-related: [canada-statutory-holidays-2027-federal-general-holidays, canada-post-holiday-shipping-deadlines-2026-christmas, uk-christmas-bank-holidays-2026-boxing-day-substitute-december-28]
+related: [canada-statutory-holidays-2027-federal-general-holidays, canada-post-holiday-shipping-deadlines-2026-christmas, world-juniors-2027-schedule-canada-usa-game-times-printable]
 downloads:
   - group: "Canada Boxing Day 2026 Dates printables"
     title: "Canada Boxing Day 2026 Dates, December 2026"
