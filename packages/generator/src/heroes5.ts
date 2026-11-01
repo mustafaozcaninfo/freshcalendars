@@ -287,6 +287,7 @@ export const PUZZLE_HEROES: [string, string, string, string, string, string, str
   ["nyt-mini-crossword-answers-october-28-2026", "mini", "#0f1d2e", "#f9a8d4", "NYT Mini · Wed., Oct. 28, 2026", "NYT Mini answers", "A hint for every clue first, the full grid at the end."],
   ["nyt-mini-crossword-answers-october-30-2026", "mini", "#0f1d2e", "#fdba74", "NYT Mini · Fri., Oct. 30, 2026", "NYT Mini answers", "A hint for every clue first, the full grid at the end."],
   ["nyt-mini-crossword-answers-october-31-2026", "mini", "#1c2433", "#a78bfa", "NYT Mini · Sat., Oct. 31, 2026", "NYT Mini answers", "A hint for every clue first, the full grid at the end."],
+  ["nyt-mini-crossword-answers-november-1-2026", "mini", "#0f1d2e", "#5eead4", "NYT Mini · Sun., Nov. 1, 2026", "NYT Mini answers", "A hint for every clue first, the full grid at the end."],
   ["nyt-letter-boxed-answer-hints-november-2-2026", "letterboxed", "#3d1f1a", "#fdba74", "Letter Boxed · Mon., Nov. 2, 2026", "Letter Boxed hints", "Starting letters and word lengths first, the answer at the end."],
   ["nyt-letter-boxed-answer-hints-november-3-2026", "letterboxed", "#3d1f1a", "#fa8072", "Letter Boxed · Tue., Nov. 3, 2026", "Letter Boxed hints", "Starting letters and word lengths first, the answer at the end."],
   ["nyt-letter-boxed-answer-hints-november-4-2026", "letterboxed", "#3d1f1a", "#fcd34d", "Letter Boxed · Wed., Nov. 4, 2026", "Letter Boxed hints", "Starting letters and word lengths first, the answer at the end."],

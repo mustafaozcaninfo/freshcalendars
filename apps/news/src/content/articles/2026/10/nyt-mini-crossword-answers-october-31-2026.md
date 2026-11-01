@@ -69,7 +69,7 @@ Start with the short fill-ins: 1-Down, 8-Across, 9-Across and 13-Across have thr
 
 Keep a streak log on our [printable weekly calendar](/printable-weekly-calendar.html) or the [October 2026 printable calendar](/october-calendars.html).
 
-More of Saturday's puzzles: [Wordle hints](/news/wordle-hint-answer-today-october-31-2026-1960/), [Connections hints](/news/nyt-connections-hints-answers-october-31-2026-1238/), [Strands hints](/news/nyt-strands-hints-answers-october-31-2026-972/), [Spelling Bee hints](/news/nyt-spelling-bee-hints-answers-october-31-2026/) and [Pips hints](/news/nyt-pips-hints-answers-october-31-2026/). Friday's grid is in our [Mini answers for Oct. 30](/news/nyt-mini-crossword-answers-october-30-2026/).
+More of Saturday's puzzles: [Wordle hints](/news/wordle-hint-answer-today-october-31-2026-1960/), [Connections hints](/news/nyt-connections-hints-answers-october-31-2026-1238/), [Strands hints](/news/nyt-strands-hints-answers-october-31-2026-972/), [Spelling Bee hints](/news/nyt-spelling-bee-hints-answers-october-31-2026/) and [Pips hints](/news/nyt-pips-hints-answers-october-31-2026/). Friday's grid is in our [Mini answers for Oct. 30](/news/nyt-mini-crossword-answers-october-30-2026/), and Sunday's in our [Mini answers for Nov. 1](/news/nyt-mini-crossword-answers-november-1-2026/).
 
 ## Today's NYT Mini answers (spoilers)
 
