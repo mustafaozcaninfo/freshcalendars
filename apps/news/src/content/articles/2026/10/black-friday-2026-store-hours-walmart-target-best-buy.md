@@ -65,7 +65,7 @@ internalLinks:
     label: "When is Black Friday?"
   - href: "/printable-weekly-calendar.html"
     label: "Printable weekly planner"
-related: [costco-holiday-hours-closures-2026-2027, walmart-black-friday-2026-dates-november-12-23-walmart-plus-early-access, usps-holiday-shipping-deadlines-2026]
+related: [costco-holiday-hours-closures-2026-2027, walmart-black-friday-2026-dates-november-12-23-walmart-plus-early-access, kohls-black-friday-2026-dates-early-access-november-6-store-hours]
 downloads:
   - group: "Black Friday printables"
     title: "Black Friday 2026 Shopping Planner (Bold)"
