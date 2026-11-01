@@ -74,7 +74,7 @@ internalLinks:
     label: "When is Veterans Day"
   - href: "/printable-yearly-calendar.html"
     label: "Printable yearly calendar"
-related: [november-2026-important-dates-days-until, why-thanksgiving-2026-is-november-26, daylight-saving-time-ends-november-1-2026]
+related: [november-2026-important-dates-days-until, why-thanksgiving-2026-is-november-26, native-american-heritage-month-2026-theme-events-books-activities]
 downloads:
   - group: "November 2026 calendar templates"
     title: "November 2026 Calendar With Holidays"
