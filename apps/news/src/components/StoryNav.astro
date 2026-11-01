@@ -1,13 +1,21 @@
 ---
 /**
  * End-of-story navigation: more stories from the same section (hub → spoke links that keep a
- * category's pages connected) and the previous/next story by publication time.
+ * category's pages connected) and, for a story in a dated series (daily NBA games, a daily
+ * puzzle, NFL weeks), the series' previous and next story. Other stories get no previous/next:
+ * the story published just before them is usually about something else.
  */
 import { formatDateET, isoDateTime } from "../lib/seo";
 type Link = { href: string; title: string; publishedAt: Date };
-interface Props { section: { name: string; href: string }; more: Link[]; newer?: Link; older?: Link }
-const { section, more, newer, older } = Astro.props;
+interface Props { section: { name: string; href: string }; more: Link[]; prev?: Link; next?: Link }
+const { section, more, prev, next } = Astro.props;
 ---
+{(prev || next) && (
+  <nav class="pn" aria-label="Previous and next in this series">
+    {prev ? <a class="prev" href={prev.href} rel="prev"><span>← Previous in this series</span><b>{prev.title}</b></a> : <span class="ph"></span>}
+    {next ? <a class="next" href={next.href} rel="next"><span>Next in this series →</span><b>{next.title}</b></a> : <span class="ph"></span>}
+  </nav>
+)}
 {more.length > 0 && (
   <section class="more" aria-labelledby="more-title">
     <div class="more-head"><h2 id="more-title">More in {section.name}</h2><a href={section.href}>All {section.name} stories →</a></div>
@@ -15,12 +23,6 @@ const { section, more, newer, older } = Astro.props;
       {more.map((m) => <li><a href={m.href}>{m.title}</a><time datetime={isoDateTime(m.publishedAt)}>{formatDateET(m.publishedAt)}</time></li>)}
     </ol>
   </section>
-)}
-{(newer || older) && (
-  <nav class="pn" aria-label="Previous and next stories">
-    {older ? <a class="prev" href={older.href} rel="prev"><span>← Previous story</span><b>{older.title}</b></a> : <span></span>}
-    {newer ? <a class="next" href={newer.href} rel="next"><span>Next story →</span><b>{newer.title}</b></a> : <span></span>}
-  </nav>
 )}
 <style>
   .more{margin:2.25rem 0 0}
@@ -37,5 +39,6 @@ const { section, more, newer, older } = Astro.props;
   .pn a:hover,.pn a:focus-visible{border-color:var(--focus)}
   .pn span{font-size:.8rem;font-weight:700;letter-spacing:.04em;text-transform:uppercase;color:var(--focus)}
   .pn b{font-family:Sora,"Sora Fallback",sans-serif;font-size:.98rem;line-height:1.3}
-  @media (min-width:640px){ .pn{grid-template-columns:1fr 1fr} .pn .next{text-align:right} }
+  .ph{display:none}
+  @media (min-width:640px){ .pn{grid-template-columns:1fr 1fr} .pn .next{text-align:right} .ph{display:block} }
 </style>

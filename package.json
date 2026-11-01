@@ -19,6 +19,7 @@
     "smoke:lighthouse": "node scripts/smoke-lighthouse.mjs",
     "news:dev": "pnpm --filter @freshcalendars/news dev",
     "news:build": "pnpm --filter @freshcalendars/news build",
+    "news:trending": "node scripts/news-trending.mjs",
     "news:schema-test": "bash apps/news/test/schema-negative.sh",
     "news:links": "node apps/news/test/links.mjs",
     "news:lighthouse": "node scripts/news-lighthouse.mjs",

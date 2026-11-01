@@ -3,6 +3,8 @@
  * topic map per article list (every page of a build shares the list, so each is computed once).
  */
 import type { Article } from "./articles";
+import { KEY_DATES, todayET } from "./keydates";
+import { isPast, seriesKey, storySpan, type StorySpan } from "./series";
 import { buildIndex, related, similarity, type SimIndex } from "./similarity";
 import { topicMembers, type Topic } from "./topics";
 
@@ -54,9 +56,46 @@ export function topicsOf(all: Article[], id: string): Topic[] {
 /** Added to a related candidate that shares a topic hub with the story. */
 export const TOPIC_BONUS = 0.12;
 
-/** Related story ids: the writer's picks, then similar stories, favoring ones in the same topic hub. */
-export function relatedFor(all: Article[], id: string, pinned: string[], limit = 3): string[] {
+const keyDatesBySlug = new Map<string, string[]>();
+for (const k of KEY_DATES) keyDatesBySlug.set(k.slug, [...(keyDatesBySlug.get(k.slug) ?? []), k.date]);
+const spans = new Map<string, StorySpan | undefined>();
+const titles = new Map<string, string>();
+
+/** Story titles for spanOf; the article page registers the published list once per build. */
+export function registerTitles(all: Article[]): void {
+  if (titles.size) return;
+  for (const a of all) titles.set(a.id, a.data.title);
+  spans.clear();
+}
+
+/** The dates a story is about (slug, title and KEY_DATES, lib/series.ts); undefined for an evergreen story. */
+export function spanOf(id: string): StorySpan | undefined {
+  if (!spans.has(id)) spans.set(id, storySpan(id, keyDatesBySlug.get(id), titles.get(id)));
+  return spans.get(id);
+}
+
+/**
+ * A story worth sending a reader to from `id`: not in its dated series (the series nav links
+ * those) and not about dates that have all passed. `today` is the build's date in New York.
+ */
+export function linkable(id: string, today = todayET()): (c: string) => boolean {
+  const key = seriesKey(id);
+  return (c) => c !== id && seriesKey(c) !== key && !isPast(spanOf(c), today);
+}
+
+/** Related stories shown under a story: a row of four on wide screens, two by two on tablets, a list on phones (RelatedGrid). */
+export const RELATED_COUNT = 4;
+
+/**
+ * Related story ids: the writer's picks, then similar stories, favoring ones in the same topic hub.
+ * Picks from the story's own series are left to the series nav; automatic picks skip past events
+ * and take one story per series.
+ */
+export function relatedFor(all: Article[], id: string, pinned: string[], limit = RELATED_COUNT, today = todayET()): string[] {
+  registerTitles(all);
   const mine = new Set(topicsOf(all, id).map((t) => t.slug));
   const shares = (c: string) => topicsOf(all, c).some((t) => mine.has(t.slug));
-  return related(storyIndex(all), id, pinned, limit, (c) => (mine.size && shares(c) ? TOPIC_BONUS : 0));
+  const allow = linkable(id, today);
+  const key = seriesKey(id);
+  return related(storyIndex(all), id, pinned.filter((p) => seriesKey(p) !== key), limit, (c) => (mine.size && shares(c) ? TOPIC_BONUS : 0), { allow, group: seriesKey });
 }

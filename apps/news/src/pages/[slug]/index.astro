@@ -21,10 +21,13 @@ import PreferredSource from "../../components/PreferredSource.astro";
 import ShareIcons from "../../components/ShareIcons.astro";
 import NewsBar from "../../components/NewsBar.astro";
 import StoryNav from "../../components/StoryNav.astro";
+import Trending from "../../components/Trending.astro";
 import { authorHref, getPublishedArticles, lastModified, type Article } from "../../lib/articles";
 import { authorImage, heroImages } from "../../lib/images";
 import { SITE_ORIGIN, absNewsUrl } from "../../lib/site";
-import { relatedFor, topicsOf } from "../../lib/storygraph";
+import { linkable, relatedFor, spanOf, topicsOf } from "../../lib/storygraph";
+import { seriesKey, seriesNeighbors } from "../../lib/series";
+import { loadRanking, trendingFor } from "../../lib/trending";
 import { topicPath } from "../../lib/topics";
 import { upcomingFor } from "../../lib/keydates";
 import KeyDates from "../../components/KeyDates.astro";
@@ -102,7 +105,8 @@ const seo: ArticleSeo = {
 
 // Related: the writer's picks first, then the most similar stories (lib/similarity.ts, lib/storygraph.ts).
 const byId = new Map(all.map((a) => [a.id, a]));
-const related = relatedFor(all, article.id, d.related.map((r) => r.id)).map((id) => byId.get(id)!).map((a) => ({
+const relatedIds = relatedFor(all, article.id, d.related.map((r) => r.id));
+const related = relatedIds.map((id) => byId.get(id)!).map((a) => ({
   href: articlePath(a.id),
   title: a.data.title,
   image: a.data.hero.src,
@@ -110,14 +114,26 @@ const related = relatedFor(all, article.id, d.related.map((r) => r.id)).map((id)
   publishedAt: a.data.publishedAt,
 }));
 
-// End-of-story navigation: same-section stories not already in Related, and the stories
-// published just before and after this one.
+// End-of-story navigation (StoryNav): the series' previous and next story, and up to five newer
+// same-section stories not shown above, one per series (and none from a series Related already
+// shows), none about dates already past.
 const linkOf = (a: Article) => ({ href: articlePath(a.id), title: a.data.title, publishedAt: a.data.publishedAt });
-const relatedHrefs = new Set(related.map((r) => r.href));
-const more = all.filter((a) => a.id !== article.id && a.data.category.id === category.id && !relatedHrefs.has(articlePath(a.id))).slice(0, 5).map(linkOf);
-const pos = all.findIndex((a) => a.id === article.id);
-const newer = pos > 0 ? linkOf(all[pos - 1]!) : undefined;
-const older = pos >= 0 && pos < all.length - 1 ? linkOf(all[pos + 1]!) : undefined;
+const allow = linkable(article.id);
+const shown = new Set(relatedIds);
+const neighbors = seriesNeighbors(all.map((a) => ({ id: a.id, publishedAt: a.data.publishedAt, a })), article.id, spanOf);
+const prev = neighbors?.prev && linkOf(neighbors.prev.a);
+const next = neighbors?.next && linkOf(neighbors.next.a);
+const more: ReturnType<typeof linkOf>[] = [];
+const moreSeries = new Set(relatedIds.map(seriesKey));
+for (const a of all) {
+  if (more.length >= 5) break;
+  if (a.data.category.id !== category.id || !allow(a.id) || shown.has(a.id) || moreSeries.has(seriesKey(a.id))) continue;
+  more.push(linkOf(a));
+  moreSeries.add(seriesKey(a.id));
+  shown.add(a.id);
+}
+// Trending now: the most read stories of the last 24 hours not already linked above (lib/trending.ts).
+const trending = trendingFor(loadRanking(), (s) => byId.has(s), allow, shown).map((s) => linkOf(byId.get(s)!));
 // Running topics this story belongs to (hub links) and its own upcoming dates (add to calendar).
 const topics = d.noindex ? [] : topicsOf(all, article.id);
 const keyDates = upcomingFor(new Set([article.id]));
@@ -186,10 +202,11 @@ const keyDates = upcomingFor(new Set([article.id]));
       </nav>
     )}
     <RelatedGrid items={related} />
-    <StoryNav section={{ name: category.data.name, href: categoryPath(category.id) }} more={more} newer={newer} older={older} />
+    <StoryNav section={{ name: category.data.name, href: categoryPath(category.id) }} more={more} prev={prev} next={next} />
+    <Trending items={trending} place="inline" />
     {endAd && <AdSlot unit={5} />}
   </article>
-  <ArticleAside headings={headings} downloads={d.downloads.length} url={absNewsUrl(articlePath(article.id))} title={d.title} image={shareImage} related={related.slice(0,4)} />
+  <ArticleAside headings={headings} downloads={d.downloads.length} url={absNewsUrl(articlePath(article.id))} title={d.title} image={shareImage} trending={trending} />
   <ShareIcons />
   </div>
   <script is:inline>

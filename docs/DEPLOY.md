@@ -39,6 +39,7 @@ Run a job by hand: Actions → Calendar site → Run workflow (pick the job), or
 | `CLOUDFLARE_API_TOKEN` | scoped token `freshcalendars-ci`: Workers Scripts edit, Account Settings read, R2 metadata read, R2 object read/write on the two `freshcalendars` buckets only, and on the freshcalendars.com zone Workers Routes edit, Cache Purge, Zone read |
 | `R2_ACCESS_KEY_ID`, `R2_SECRET_ACCESS_KEY` | the same token as S3 credentials (token id; SHA-256 of the token) for rclone |
 | `CLOUDFLARE_ACCOUNT_ID`, `CF_ZONE_ID` | ids |
+| `CF_ANALYTICS_TOKEN` | scoped token `freshcalendars-analytics-read`: Analytics read on the freshcalendars.com zone only. CI ranks the last 24 hours of story views with it before each news build (`pnpm news:trending`, the "Trending now" box); without it the box is left out and nothing else changes |
 | `ANINDA_INDEX_KEY` | AnindaIndex API key |
 | variable `CF_LIVE` | `1` once freshcalendars.com is served by the Worker (turns on IndexNow and AnindaIndex) |
 | variable `SITE_BASE` | host the smoke tests check (`https://freshcalendars.com`) |
