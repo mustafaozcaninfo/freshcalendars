@@ -25,7 +25,7 @@ Routine D (`docs/PUZZLE-ROUTINES.md`) takes one item from this list per run, hig
 - [ ] **pips-region-hints** [code] Pips: tap-to-reveal hints per region, from the data.
   Before the spoiler, for each level, a list of the regions with their rule ("Sum 8, 2 cells", "All equal, 3 cells") as hints, and a stronger hint per region giving one domino value, all generated from `pips` data at build time in `puzzle-boards.mjs`. No competitor gives region-by-region hints (competitor review, Oct. 30).
 
-- [ ] **strands-reveal** [code] Strands: the spangram one letter at a time.
+- [x] **strands-reveal** [code] (done 2026-10-31) Strands: the spangram one letter at a time.
   In the spangram hints, a nested tap-to-reveal that opens one more letter per tap (no JavaScript: nested `<details>`), generated from the data. Beebom has a letter-by-letter reveal; we have only first letter and length.
 
 - [x] **sports-who-is-who** [content] (done 2026-10-31) Connections: Sports Edition: one line per group on who the names are, for the last 3 published days.

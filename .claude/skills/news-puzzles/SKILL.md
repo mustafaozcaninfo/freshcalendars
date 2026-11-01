@@ -24,6 +24,7 @@ The build adds the shortcut bar, the tap-to-reveal hints and the boards (`apps/n
 | Wordle | the five answer tiles in green | under "The answer to Wordle #N is X." |
 | Connections | the four solved groups in the game's colors | under the answer list |
 | Strands | the 6×8 board with the spangram (yellow) and theme words (blue) traced | under the answer list |
+| Strands | the spangram letter by letter, one more letter per tap (nested `<details>`); keep the `## Spangram hints` heading and its list so it has a place | last item of the spangram hints list |
 | Pips | each board (Easy, Medium, Hard) with colored regions, condition badges and every domino with its pips | under each level's placements |
 | Spelling Bee | the honeycomb of the day's letters (no answers) | in the hint grid section |
 | Mini Crossword | the filled grid with clue numbers | under the answer table |

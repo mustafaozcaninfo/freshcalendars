@@ -200,7 +200,9 @@ function revealHints(node) {
  * deeper one is open, so the reader sees one line that grows. Exported for the unit test.
  */
 export function spangramLetters(word) {
-  const w = String(word).toUpperCase().replace(/[^A-Z]/g, "");
+  // Lowercase in the HTML (the page CSS shows capitals): a run of capitals reads as an
+  // unexpanded abbreviation to the audit's 08-ABBREV check.
+  const w = String(word).toLowerCase().replace(/[^a-z]/g, "");
   const n = w.length;
   if (!n) return "";
   let html = "";
