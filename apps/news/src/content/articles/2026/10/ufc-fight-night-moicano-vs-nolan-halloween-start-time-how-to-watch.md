@@ -55,7 +55,7 @@ internalLinks:
     label: "October 2026 printable calendar"
   - href: "/november-calendars.html"
     label: "November 2026 printable calendar"
-related: [halloween-2026-saturday-sunset-trick-or-treat-times, mexico-city-grand-prix-2026-schedule-race-time-by-time-zone, survivor-series-wargames-2026-date-start-time-houston-espn]
+related: [halloween-2026-saturday-sunset-trick-or-treat-times, ufc-334-madison-square-garden-november-14-start-time-gane-hokit-ufc-schedule, survivor-series-wargames-2026-date-start-time-houston-espn]
 assets:
   overlay: true
   kicker: "UFC Fight Night · Sat., Oct. 31, 2026"
