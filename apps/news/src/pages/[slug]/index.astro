@@ -856,6 +856,8 @@ const keyDates = upcomingFor(new Set([article.id]));
   .prose-news :global(details.pz-hint > summary::-webkit-details-marker){display:none}
   .prose-news :global(details.pz-hint > summary::after){content:"Show hint";padding:.1rem .6rem;border:1px solid var(--focus);border-radius:999px;font-size:.8rem;font-weight:700;color:var(--focus);background:var(--paper)}
   .prose-news :global(details.pz-hint[open] > summary::after){content:"Hide";color:var(--ink);border-color:var(--n-border)}
+  .prose-news :global(details.pz-group > summary::after){content:"Show words"}
+  .prose-news :global(details.pz-group[open] > summary::after){content:"Hide"}
   .prose-news :global(details.pz-hint > span){display:block;margin:.1rem 0 .4rem;padding:.5rem .8rem;border-left:4px solid var(--gold);background:var(--surface-warm);border-radius:0 8px 8px 0}
   .prose-news :global(details.pz-letters){margin:.35rem 0 0}
   .prose-news :global(details.pz-letters summary){display:inline-flex;align-items:center;min-height:44px;padding:0 1rem;border:1px solid var(--focus);border-radius:999px;background:var(--paper);color:var(--focus);font-weight:700;font-size:.9rem;cursor:pointer;list-style:none}
