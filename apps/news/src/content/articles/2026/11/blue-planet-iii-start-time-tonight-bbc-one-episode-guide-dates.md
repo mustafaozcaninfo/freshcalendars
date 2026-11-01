@@ -142,6 +142,6 @@ The BBC says that in the tropical seas, "year-round sunshine has created the per
 
 The BBC series page describes the show as a documentary series narrated by David Attenborough, exploring the planet's oceans. It says Attenborough reveals ocean life "more surprising, more intelligent and more precious than we ever realised". The page also offers a song video, "Into the Deep" performed by Jade and Hans Zimmer, and a free poster from The Open University.
 
-## What is not yet announced?
+## Blue Planet III dates the BBC has not listed yet
 
 As of the BBC pages checked on 1 November 2026, not yet listed: the first BBC One date for episode 3, the titles and dates of episodes 4 to 6, and any United States, Canada or Australia date. The BBC schedule is the source for every time here.
