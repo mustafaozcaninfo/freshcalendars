@@ -112,7 +112,7 @@ internalLinks:
     label: "Canada holidays calendar"
   - href: "/november-calendars.html"
     label: "November 2026 printable calendar"
-related: [daylight-saving-time-ends-november-1-2026, uk-europe-clocks-go-back-october-25-2026-time-difference, skate-canada-international-2026-schedule-kelowna-times-tv]
+related: [daylight-saving-time-ends-november-1-2026, uk-europe-clocks-go-back-october-25-2026-time-difference, bc-sunrise-times-winter-2026-27-vancouver-no-fall-back-pacific-time]
 draft: false
 ---
 

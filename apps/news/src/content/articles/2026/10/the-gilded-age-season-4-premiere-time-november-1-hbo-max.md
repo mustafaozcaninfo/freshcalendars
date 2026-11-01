@@ -66,7 +66,7 @@ internalLinks:
     label: "November 2026 printable calendar"
   - href: "/printable-weekly-calendar.html"
     label: "Printable weekly calendar"
-related: [new-on-peacock-november-2026-release-dates, new-on-prime-video-november-2026-rings-of-power-season-3, netflix-new-movies-november-2026-release-dates]
+related: [new-on-hbo-max-november-2026-release-dates-city-of-god-tony, new-on-prime-video-november-2026-rings-of-power-season-3, netflix-new-movies-november-2026-release-dates]
 downloads:
   - group: "HBO November 2026 Premiere Calendar printables"
     title: "HBO November 2026 Premiere Calendar"

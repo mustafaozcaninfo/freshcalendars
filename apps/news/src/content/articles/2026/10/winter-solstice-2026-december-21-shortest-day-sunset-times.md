@@ -73,7 +73,7 @@ internalLinks:
     label: "December 2026 printable calendar"
   - href: "/january-calendars.html"
     label: "January 2027 printable calendar"
-related: [supermoon-2026-beaver-moon-cold-moon-geminids-solstice, sunset-times-after-daylight-saving-time-ends-2026, eclipses-2027-dates-times-total-solar-eclipse-august-2]
+related: [supermoon-2026-beaver-moon-cold-moon-geminids-solstice, sunset-times-after-daylight-saving-time-ends-2026, bc-sunrise-times-winter-2026-27-vancouver-no-fall-back-pacific-time]
 downloads:
   - group: "Winter Solstice 2026 printables"
     title: "Winter Solstice 2026: Key Dates and Dec. 21 Sunset Times"
