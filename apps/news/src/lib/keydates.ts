@@ -599,6 +599,8 @@ export const KEY_DATES: KeyDate[] = [
   { date: "2026-11-07", label: "Festival of Remembrance on BBC One, 9pm GMT (4 p.m. ET)", slug: "remembrance-sunday-2026-cenotaph-timings-8-november-festival-of-remembrance" },
   { date: "2026-11-08", label: "Remembrance Sunday at the Cenotaph, silence at 11am GMT", slug: "remembrance-sunday-2026-cenotaph-timings-8-november-festival-of-remembrance" },
   { date: "2026-11-01", label: "US clocks fall back: New York is 9 hours behind Dubai", slug: "us-dubai-saudi-israel-time-difference-after-november-1-2026" },
+  { date: "2026-12-31", label: "England: last day to apply for 30 hours free childcare from Jan. 1 (child turns 9 months Sept. 1-Dec. 31)", slug: "free-childcare-january-2027-deadline-31-december-30-hours-england" },
+  { date: "2027-03-31", label: "England: free childcare apply-by date for hours from April 1", slug: "free-childcare-january-2027-deadline-31-december-30-hours-england" },
 ];
 
 /** Today's date in Eastern Time as YYYY-MM-DD. */
