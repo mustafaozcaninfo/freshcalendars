@@ -60,7 +60,7 @@ internalLinks:
     label: "November 2026 printable calendar"
   - href: "/december-calendars.html"
     label: "December 2026 printable calendar"
-related: [manchester-birmingham-christmas-markets-2026-dates-opening-times, hyde-park-winter-wonderland-2026-dates-opening-times-tickets, london-new-years-eve-fireworks-2026-tickets-times-closures]
+related: [manchester-birmingham-christmas-markets-2026-dates-opening-times, hyde-park-winter-wonderland-2026-dates-opening-times-tickets, fenwick-christmas-window-2026-newcastle-public-viewing-monday-2-november]
 downloads:
   - group: "Edinburgh's Christmas and Hogmanay 2026 Dates printables"
     title: "Edinburgh's Christmas and Hogmanay 2026 Dates"

@@ -100,7 +100,7 @@ internalLinks:
     label: "November 2026 printable calendar"
   - href: "/printable-weekly-calendar.html"
     label: "Printable weekly calendar"
-related: [nfl-week-11-schedule-2026-printable-pick-em-sheet-game-times, printable-nfl-pickem-sheets-2026, thanksgiving-football-schedule-2026-nfl-college-games]
+related: [nfl-week-13-schedule-2026-printable-pick-em-sheet-game-times, printable-nfl-pickem-sheets-2026, thanksgiving-football-schedule-2026-nfl-college-games]
 draft: false
 ---
 
