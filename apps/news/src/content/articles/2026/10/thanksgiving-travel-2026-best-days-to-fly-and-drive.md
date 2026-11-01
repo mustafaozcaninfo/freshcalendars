@@ -97,7 +97,7 @@ internalLinks:
     label: "When is Thanksgiving?"
   - href: "/november-calendars.html"
     label: "November 2026 printable calendar"
-related: [why-thanksgiving-2026-is-november-26, thanksgiving-break-2026-school-districts-dates, when-to-thaw-thanksgiving-turkey-2026]
+related: [why-thanksgiving-2026-is-november-26, thanksgiving-break-2026-school-districts-dates, ski-resort-opening-dates-2026-27-vail-breckenridge-park-city-whistler-aspen]
 draft: false
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Costco Black Friday 2026: Holiday Savings Nov. 27-30, Pre-Thanksgiving Savings From Nov. 16"
+title: "Costco Black Friday 2026: Savings Nov. 27-30, Pre-Thanksgiving Deals From Nov. 16"
 seoTitle: "Costco Black Friday 2026: Nov. 27-30 Savings Dates"
 description: "Costco's Black Friday 2026 holiday savings are valid Nov. 27 to 30, with pre-Thanksgiving savings from Nov. 16. Warehouses are closed Thanksgiving, Nov. 26."
 type: news
@@ -19,11 +19,10 @@ assets:
     title: "Costco Black Friday 2026 Deal Calendar"
     subtitle: "Costco holiday savings windows, Oct. 30 to Nov. 30, 2026"
     rows:
-      - ["Fri., Oct. 30 to Mon., Nov. 30", "Holiday savings; valid dates vary by item"]
       - ["Mon., Nov. 16 to Mon., Nov. 30", "Pre-Thanksgiving savings, warehouses and Costco.com"]
       - ["Thu., Nov. 26", "Thanksgiving: warehouses closed, deals on Costco.com"]
       - ["Fri., Nov. 27 to Mon., Nov. 30", "Black Friday holiday savings"]
-    note: "Source: Costco Wholesale holiday savings pages (Black Friday, Pre-Thanksgiving, Thanksgiving Day), checked Nov. 1, 2026."
+    note: "Source: Costco Wholesale holiday savings pages (Black Friday, Pre-Thanksgiving, Thanksgiving Day), checked Nov. 1, 2026. Wider holiday savings run Oct. 30 to Nov. 30; dates vary by item."
     inkSaver: true
     description: "One-page Costco Black Friday 2026 deal calendar: holiday savings Oct. 30 to Nov. 30, pre-Thanksgiving Nov. 16 to 30, Thanksgiving closure and Black Friday savings Nov. 27 to 30."
     alt: "Printable November 2026 calendar marking Costco's holiday savings windows, the Thanksgiving closure and Black Friday savings"
