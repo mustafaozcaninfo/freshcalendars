@@ -48,7 +48,7 @@ internalLinks:
     label: "December 2026 printable calendar"
   - href: "/when-is/christmas-day/"
     label: "When is Christmas Day?"
-related: [uk-christmas-bank-holidays-2026-boxing-day-substitute-december-28, canada-post-holiday-shipping-deadlines-2026-christmas, fedex-ups-holiday-shipping-deadlines-2026-christmas]
+related: [uk-christmas-bank-holidays-2026-boxing-day-substitute-december-28, canada-post-holiday-shipping-deadlines-2026-christmas, tesco-christmas-delivery-slots-2026-booking-dates-uk-supermarkets]
 downloads:
   - group: "Royal Mail Christmas Posting Dates 2026 printables"
     title: "Royal Mail Christmas Posting Dates 2026"

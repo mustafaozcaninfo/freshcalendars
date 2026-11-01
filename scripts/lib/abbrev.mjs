@@ -13,6 +13,8 @@ export const COMMON = new Set(["US", "AXS", "U.S.", "UK", "EU", "ET", "AM", "PM"
   "INRIX", "REAL",
   // Restaurant chain name with a capitalized word (Mission BBQ, Veterans Day deals).
   "BBQ",
+  // Golf tournament sponsor names written in capitals (TOTO Japan Classic, The ANNIKA, The RSM Classic, CME Group Tour Championship).
+  "TOTO", "ANNIKA", "RSM", "CME",
   // Country name and brand names written in capitals (USA Network, IMAX theaters).
   "USA", "IMAX",
   // Words quoted as printed in capitals ("10-22-38 ASTORIA", the first xerographic copy).

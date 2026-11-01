@@ -615,6 +615,15 @@ export const KEY_DATES: KeyDate[] = [
   { date: "2026-11-06", label: "Platinum Glove winners named at the Gold Glove ceremony in New York City", slug: "gold-glove-awards-2026-tonight-time-espn-finalists-platinum-glove-vote" },
   { date: "2026-11-09", label: "Fandango's Avengers: Doomsday premiere sweepstakes ends", slug: "avengers-doomsday-release-date-december-18-countdown-tickets-runtime" },
   { date: "2026-12-18", label: "Avengers: Doomsday opens in theaters", slug: "avengers-doomsday-release-date-december-18-countdown-tickets-runtime" },
+  { date: "2026-11-02", label: "Last day to join a Tesco Delivery Saver plan for early Christmas slots (11:59pm UK)", slug: "tesco-christmas-delivery-slots-2026-booking-dates-uk-supermarkets" },
+  { date: "2026-11-03", label: "Tesco Christmas delivery slots open to Delivery Saver customers, 6am UK", slug: "tesco-christmas-delivery-slots-2026-booking-dates-uk-supermarkets" },
+  { date: "2026-11-05", label: "Tesco Christmas delivery slots open to all customers, 6am UK", slug: "tesco-christmas-delivery-slots-2026-booking-dates-uk-supermarkets" },
+  { date: "2026-11-14", label: "Nickelodeon Kids' Choice Awards on CBS, 8 p.m. ET", slug: "cbs-holiday-specials-2026-schedule-kids-choice-awards-soul-train-new-years-eve" },
+  { date: "2026-11-23", label: "Pillsbury Bake-Off Classic on CBS, 8 p.m. ET", slug: "cbs-holiday-specials-2026-schedule-kids-choice-awards-soul-train-new-years-eve" },
+  { date: "2026-12-31", label: "New Year's Eve Live: Nashville's Big Bash on CBS, 8 p.m. ET", slug: "cbs-holiday-specials-2026-schedule-kids-choice-awards-soul-train-new-years-eve" },
+  { date: "2026-11-05", label: "PGA Tour World Wide Technology Championship and LPGA TOTO Japan Classic begin", slug: "golf-schedule-november-2026-pga-tour-lpga-rsm-classic-cme-hero-world-challenge" },
+  { date: "2026-11-19", label: "RSM Classic and LPGA CME Group Tour Championship begin", slug: "golf-schedule-november-2026-pga-tour-lpga-rsm-classic-cme-hero-world-challenge" },
+  { date: "2026-12-03", label: "Hero World Challenge begins in the Bahamas", slug: "golf-schedule-november-2026-pga-tour-lpga-rsm-classic-cme-hero-world-challenge" },
 ];
 
 /** Today's date in Eastern Time as YYYY-MM-DD. */
