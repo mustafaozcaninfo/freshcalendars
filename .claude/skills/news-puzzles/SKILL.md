@@ -94,7 +94,7 @@ Two scheduled routines run this workflow every day (`docs/PUZZLE-ROUTINES.md`): 
 
 ## Checking existing dates ("are the Oct. 28 pages ready?")
 
-Run `pnpm news:puzzle-check <date-part>` (for example `october-28`). It lists any page that disagrees with the saved data. A page without saved data fails with the exact `news:puzzle-data` command to run. Games with no official data we can save (Quordle, Blossom, LinkedIn games, Connections: Sports Edition) are not in the check, nor yet Contexto and Waffle; follow `docs/PUZZLES.md` for their sources (two published solutions that agree, or today's data for the Mini).
+Run `pnpm news:puzzle-check <date-part>` (for example `october-28`). It lists any page that disagrees with the saved data. A page without saved data fails with the exact `news:puzzle-data` command to run. Games with no official data we can save (Quordle, Blossom, LinkedIn games, Connections: Sports Edition) are not in the check, nor yet Waffle; Contexto is (save its data with `pnpm news:puzzle-data <date> --games contexto` before writing a page, and the day before's too, since the page names yesterday's word); follow `docs/PUZZLES.md` for their sources (two published solutions that agree, or today's data for the Mini).
 
 ## Adding a game to the check and the boards
 
