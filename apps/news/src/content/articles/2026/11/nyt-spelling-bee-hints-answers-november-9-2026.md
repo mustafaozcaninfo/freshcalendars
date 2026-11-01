@@ -1,6 +1,6 @@
 ---
 title: "NYT Spelling Bee Hints and Answers for Monday, Nov. 9, 2026: Hint Grid, One Pangram and Sunday's Solution"
-seoTitle: "Spelling Bee Hints Today, Nov. 9, 2026"
+seoTitle: "Spelling Bee Hints & Answers Today, Nov. 9, 2026"
 description: "Spelling Bee for Monday, Nov. 9, 2026: center letter T with A, B, H, M, O and R, the hint grid, two-letter list and pangram hint, then all 62 words."
 type: explainer
 publishedAt: "2026-11-08T00:05:00-05:00"

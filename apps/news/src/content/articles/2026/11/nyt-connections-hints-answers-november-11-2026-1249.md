@@ -1,6 +1,6 @@
 ---
-title: "NYT Connections Hints and Answers for Wednesday, Nov. 11, 2026 (#1249): Remedies, Golf, Air and Mirror Endings"
-seoTitle: "Connections Hints Today, Nov. 11, 2026 (#1249)"
+title: "NYT Connections Hints and Answers for Wednesday, Nov. 11, 2026 (#1249): Two Hints per Group, Then the Answers"
+seoTitle: "Connections Hints & Answers Today, Nov. 11, 2026 (#1249)"
 description: "Connections #1249 for Wednesday, Nov. 11, 2026: two levels of hints for every group, the decoy words to avoid, then the full answers at the very end."
 type: explainer
 publishedAt: "2026-11-10T00:05:00-05:00"
@@ -39,7 +39,7 @@ internalLinks:
 related: [wordle-hint-answer-today-november-11-2026-1971, nyt-strands-hints-answers-november-11-2026-983, nyt-pips-hints-answers-november-11-2026]
 draft: false
 ---
-**Today's Connections from The New York Times (NYT) is puzzle #1249, for Wednesday, Nov. 11, 2026, edited by Wyna Liu.** One group is kinds of medicine, one is parts of a golf course, one is things filled with air, and one is entries whose last letters form a palindrome. Green is a color as well as a golf term, and a couple of the medicine words sound like music. Below are two levels of hints for each color, then the full solution and an explanation of the tricky words in a marked spoiler section.
+**Today's Connections from The New York Times (NYT) is puzzle #1249, for Wednesday, Nov. 11, 2026, edited by Wyna Liu.** The board mixes twelve single words with four longer entries, and the groups run from yellow, the easiest, to purple, the trickiest. Green is a color as well as a golf term, and a couple of the medicine words sound like music. Below are two levels of hints for each color, then the full solution and an explanation of the tricky words in a marked spoiler section.
 
 ## Today's 16 words
 
@@ -73,7 +73,7 @@ Sort the 16 entries into four groups of four. You can make four mistakes. The gr
 
 ## Solving tips
 
-The golf course is the easiest group, but Green can pull you toward the colors, and nothing else on the board is a color word. Take the four places on the course first. Herbal and Holistic are clearly medicine words, and Folk and Traditional join them, even though both also describe music. Watch Patoot and Shredder: one sounds like a joke and one like an office machine, yet both end in a palindrome. Leave purple for last and read the endings backward.
+The golf course is the easiest group, but Green can pull you toward the colors, and nothing else on the board is a color word. Take the four places on the course first. Two of the medicine words are obvious, and two more join them even though both also describe music. Watch Patoot and Shredder: one sounds like a joke and one like an office machine, yet both end in a palindrome. Leave purple for last and read the endings backward.
 
 Keep a streak log on our [printable weekly calendar](/printable-weekly-calendar.html) or the [November 2026 printable calendar](/november-calendars.html).
 

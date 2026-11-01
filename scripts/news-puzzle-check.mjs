@@ -8,7 +8,8 @@
  * the spoiler section and spoiler FAQ (Wordle answer, Connections groups, Strands spangram and
  * theme words, every Pips placement, Spelling Bee letters, counts, points and word lists, today's
  * and yesterday's; Letter Boxed sides, par, the Times' solution and its route, warm-up words in the
- * puzzle's dictionary); named editors and constructors; published before the puzzle day ends.
+ * puzzle's dictionary); named editors and constructors; published before the puzzle day ends;
+ * and no answer word in the headline, lede, key points, hero text or hints (spoiler guard).
  * Usage: node scripts/news-puzzle-check.mjs [slug-substring]
  */
 import { readdirSync, readFileSync } from "node:fs";
@@ -223,6 +224,75 @@ const CHECK = {
   },
 };
 
+/**
+ * Spoiler guard. A searcher who wants a nudge reads the headline, the lede, the key points and the
+ * hints; none of them may hand over the answer. Answer words may appear only in the spoiler
+ * section and the FAQ (rendered under the story). Checked for puzzle dates from LEAK_SINCE on,
+ * so older live pages are left as published.
+ */
+const LEAK_SINCE = "2026-11-02";
+const answerWords = (game, d) => {
+  if (game === "wordle") return [d.solution];
+  if (game === "strands") return [d.spangram, ...d.themeWords];
+  if (game === "bee") return d.pangrams;
+  if (game === "letterboxed") return d.ourSolution;
+  // Short Mini answers ("SPY") and one-word group names ("ANGER") read as ordinary prose; longer ones do not.
+  if (game === "mini") return d.clues.map((c) => c.cells.map((i) => d.cells[i]).join("")).filter((w) => w.length >= 5);
+  if (game === "connections") return d.categories.map((c) => c.title);
+  return [];
+};
+function leaks(page, d, p, err) {
+  if (p.date < LEAK_SINCE) return;
+  const words = answerWords(p.game, d);
+  if (!words.length) return;
+  const fmField = (k) => page.fm.match(new RegExp(`^ *${k}: "(.*)"$`, "m"))?.[1] ?? "";
+  const summary = [...(page.fm.match(/^summary:\n((?: {2}- .*\n?)+)/m)?.[1] ?? "").matchAll(/^ {2}- "(.*)"$/gm)].map((m) => m[1]).join(" ");
+  const spoilerAt = page.sections.findIndex((s) => /\bspoilers?\b/i.test(s.h));
+  const before = page.sections.slice(0, spoilerAt < 0 ? page.sections.length : spoilerAt);
+  const clean = (s) => s
+    .replace(/\]\([^)]*\)/g, "]") // link targets (slugs of other days)
+    .replace(/^\s*(?:[-*]|\d+\.) \*\*[^*]+?:\*\*/gm, "") // hint labels such as "**First letter:**"
+    .replace(/\*[^*\n]+\*/g, ""); // quoted official clues in italics
+  const places = {
+    title: fmField("title"), seoTitle: fmField("seoTitle"), description: fmField("description"),
+    summary, "hero alt/caption": `${fmField("alt")} ${fmField("caption")}`,
+    lede: clean(before[0]?.lines.join("\n") ?? ""),
+    ...Object.fromEntries(before.slice(1).map((s) => [`"${s.h}" section`, clean(s.lines.join("\n"))])),
+  };
+  for (const w of words) {
+    // Letters in order with optional spaces, hyphens or apostrophes between them ("Forest Floor").
+    const re = new RegExp(`(?<![A-Za-z])${[...letters(w)].join("[\\s'’-]?")}(?![A-Za-z])`, "i");
+    // A one-word Connections group name ("Anger") is only flagged in the headline fields and lede.
+    const oneWord = p.game === "connections" && w.trim().split(/[\s_]+/).filter(Boolean).length === 1;
+    for (const [where, txt] of Object.entries(places)) {
+      if (oneWord && /section$/.test(where)) continue;
+      if (re.test(txt)) err(`spoiler: "${title(w)}" appears in the ${where}, before the spoiler section`);
+    }
+  }
+  // Wordle: letters belong inside the tap-to-reveal clues. The headline fields, key points, lede and
+  // plain-text tips must not name one ("starts with S", "its only vowel, O", "the double T").
+  if (p.game === "wordle") {
+    const LETTER = /\b(?:starts|begins|ends) with [A-Z]\b|\b[A-Z] (?:first|last)\b|\b(?:vowels?|letters?|the|an|that|final|double),? [A-Z](?=[\s,.;:)]|$)/;
+    const open = Object.entries(places).filter(([where]) => !/section$/.test(where) || /tips/i.test(where));
+    for (const [where, txt] of open) {
+      const m = txt.match(LETTER);
+      if (m) err(`spoiler: the ${where} names a letter in plain text ("${m[0]}"); keep letters inside the hints`);
+    }
+  }
+  // Connections: a visible sentence that lists three or more entries of one group hands the group
+  // over. The board list ("Today's 16 words") and the tap-to-reveal hints are exempt.
+  if (p.game === "connections") {
+    const open = Object.entries(places).filter(([where]) => !/16 words|hints?\b/i.test(where));
+    for (const [where, txt] of open) for (const sentence of txt.split(/(?<=[.!?])\s+/)) {
+      for (const c of d.categories) {
+        const named = c.cards.filter((x) => new RegExp(`(?<![A-Za-z])${x.content.replace(/[.*+?^${}()|[\]\\]/g, "\\$&")}(?![A-Za-z])`, "i").test(sentence));
+        if (named.length >= 3) err(`spoiler: the ${where} names ${named.length} entries of the "${title(c.title)}" group in one sentence (${named.map((x) => title(x.content)).join(", ")})`);
+      }
+    }
+  }
+}
+const title = (s) => s.toLowerCase().replace(/\b[a-z]/g, (c) => c.toUpperCase());
+
 const walk = (dir) => readdirSync(dir, { withFileTypes: true }).flatMap((e) => (e.isDirectory() ? walk(path.join(dir, e.name)) : [path.join(dir, e.name)]));
 let pages = 0, errors = 0;
 for (const file of walk(ART).filter((f) => /\.mdx?$/.test(f)).sort()) {
@@ -252,6 +322,7 @@ for (const file of walk(ART).filter((f) => /\.mdx?$/.test(f)).sort()) {
     const pub = Date.parse(page.publishedAt), day = Date.parse(`${p.date}T12:00:00-05:00`);
     if (pub < day - 14 * 86_400_000 || pub > day + 7 * 86_400_000) err(`publishedAt ${page.publishedAt} is more than two weeks before or a week after the puzzle day`);
     CHECK[p.game](page, d, p, err);
+    leaks(page, d, p, err);
   }
   if (errs.length) {
     errors += errs.length;

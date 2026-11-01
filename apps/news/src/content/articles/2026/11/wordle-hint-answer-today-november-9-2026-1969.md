@@ -15,7 +15,7 @@ hero:
   caption: "Wordle #1969 for Monday, Nov. 9, 2026; graded clues come first and the answer only in the final section."
 summary:
   - "Today's Wordle is puzzle #1969, for Monday, Nov. 9, 2026, from The New York Times."
-  - "The answer has no repeated letter, and its two vowels, O and A, sit in the second and third spots."
+  - "The answer has two vowel letters and no repeated letter, so every tile is a different letter."
   - "Six clues below go from gentle to strong; stop when it clicks."
   - "The answer is in the last section, marked as a spoiler."
 faq:
@@ -56,7 +56,7 @@ You get six tries to find a five-letter word. After each guess, a green tile mea
 
 ## Guessing tips for today
 
-The word starts with L and ends with Y, so a guess with L first and Y last can turn two tiles green right away. The fourth letter is M. Try it. With O and A side by side in the middle, you can skip a hunt for other vowels.
+Once both vowels show up yellow or green, stop spending tiles on vowels and switch to common consonants. Because no letter repeats, each new guess should use five letters you have not tried yet, so no tile is wasted. Gray tiles count too: drop those letters for good.
 
 Keep your streak on our [printable weekly calendar](/printable-weekly-calendar.html) or the [November 2026 printable calendar](/november-calendars.html).
 

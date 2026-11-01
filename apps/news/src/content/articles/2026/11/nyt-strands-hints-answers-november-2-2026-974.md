@@ -1,6 +1,6 @@
 ---
 title: "NYT Strands Hints and Answers for Monday, Nov. 2, 2026 (#974): Hints for the Spangram and Seven Theme Words"
-seoTitle: "Strands Hints Today, Nov. 2, 2026 (#974): Spangram"
+seoTitle: "Strands Hints, Spangram & Answers, Nov. 2, 2026 (#974)"
 description: "Strands #974 for Monday, Nov. 2, 2026: hints for the spangram and each of the seven theme words, then all the answers in a spoiler section at the end."
 type: explainer
 publishedAt: "2026-11-01T00:05:00-05:00"
@@ -65,7 +65,7 @@ There are seven theme words, all about high places or what you find on them:
 
 ## Solving tips
 
-Start with the spangram. It is long. At eleven letters it is the longest answer, and on today's board it begins in the bottom-left corner and ends in the top-right corner. The seven theme words use 37 letters, so the spangram and the theme words together fill all 48 tiles. Glacier is the longest theme word. Peak and Snow are the only four-letter theme words, so look for them once the long words are out of the way. Cliff holds two F letters and Saddle holds two D letters. If you get stuck, spell any ordinary words you can see to earn a hint.
+Start with the spangram. It is long. At eleven letters it is the longest answer, and on today's board it begins in the bottom-left corner and ends in the top-right corner. The seven theme words use 37 letters, so the spangram and the theme words together fill all 48 tiles. The longest theme word has seven letters, and two theme words have only four, so look for the short ones once the long words are out of the way. Two theme words hold a doubled consonant. If you get stuck, spell any ordinary words you can see to earn a hint.
 
 Keep a streak log on our [printable weekly calendar](/printable-weekly-calendar.html) or the [November 2026 printable calendar](/november-calendars.html).
 

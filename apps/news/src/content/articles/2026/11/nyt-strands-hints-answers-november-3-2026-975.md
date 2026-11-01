@@ -1,6 +1,6 @@
 ---
 title: "NYT Strands Hints and Answers for Tuesday, Nov. 3, 2026 (#975): Hints for the Spangram and Five Theme Words"
-seoTitle: "Strands Hints Today, Nov. 3, 2026 (#975): Spangram"
+seoTitle: "Strands Hints, Spangram & Answers, Nov. 3, 2026 (#975)"
 description: "Strands #975 for Tuesday, Nov. 3, 2026: hints for the spangram and each of the five theme words, then all the answers in a spoiler section at the end."
 type: explainer
 publishedAt: "2026-11-02T00:05:00-05:00"
@@ -39,7 +39,7 @@ internalLinks:
 related: [wordle-hint-answer-today-november-3-2026-1963, nyt-connections-hints-answers-november-3-2026-1241, nyt-pips-hints-answers-november-3-2026]
 draft: false
 ---
-**Today's Strands from The New York Times (NYT) is puzzle #975, for Tuesday, Nov. 3, 2026, and its theme clue is "I've got a song in my heart."** Think of what a singer does, and of the names for people who do it. The puzzle was constructed and edited by Tracy Bennett. Below are hints for the spangram and each theme word; the answers wait in a marked spoiler section at the end.
+**Today's Strands from The New York Times (NYT) is puzzle #975, for Tuesday, Nov. 3, 2026, and its theme clue is "I've got a song in my heart."** Think of what a vocal performer does, and of the names for people who do it. The puzzle was constructed and edited by Tracy Bennett. Below are hints for the spangram and each theme word; the answers wait in a marked spoiler section at the end.
 
 ## How Strands works
 
@@ -55,15 +55,15 @@ The board is six letters wide and eight tall. Theme words are made by linking le
 
 There are five theme words, all names for people who sing:
 
-- **9 letters, starts with B:** a singer of ballads.
+- **9 letters, starts with B:** a performer of ballads.
 - **9 letters, starts with C:** a member of a choir.
-- **7 letters, starts with C:** a singer who uses a soft, smooth style.
+- **7 letters, starts with C:** a performer with a soft, smooth style.
 - **6 letters, starts with S:** anyone who sings.
-- **8 letters, starts with V:** a singer, named for the voice.
+- **8 letters, starts with V:** a performer named for the voice.
 
 ## Solving tips
 
-Start with the spangram. On today's board it begins on the left edge, in the third row from the top, and ends on the right edge, in the sixth row. It is nine letters long, the same length as the two longest theme words. The five theme words use 39 letters, so the spangram and the theme words together fill all 48 tiles. Singer is the shortest theme word, at six letters. Crooner holds two O letters side by side, and Balladeer holds a double L and a double E. If you get stuck, spell any ordinary words you can see to earn a hint.
+Start with the spangram. On today's board it begins on the left edge, in the third row from the top, and ends on the right edge, in the sixth row. It is nine letters long, the same length as the two longest theme words. The five theme words use 39 letters, so the spangram and the theme words together fill all 48 tiles. The shortest theme word has six letters. Two theme words hold doubled letters side by side, one of them two different pairs. If you get stuck, spell any ordinary words you can see to earn a hint.
 
 Keep a streak log on our [printable weekly calendar](/printable-weekly-calendar.html) or the [November 2026 printable calendar](/november-calendars.html).
 

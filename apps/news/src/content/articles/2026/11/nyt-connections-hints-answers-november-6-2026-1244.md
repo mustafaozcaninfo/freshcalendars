@@ -1,6 +1,6 @@
 ---
-title: "NYT Connections Hints and Answers for Friday, Nov. 6, 2026 (#1244): Trucks, Spares and Hidden Eye Parts"
-seoTitle: "Connections Hints Today, Nov. 6, 2026 (#1244)"
+title: "NYT Connections Hints and Answers for Friday, Nov. 6, 2026 (#1244): Two Hints per Group, Then the Answers"
+seoTitle: "Connections Hints & Answers Today, Nov. 6, 2026 (#1244)"
 description: "Connections #1244 for Friday, Nov. 6, 2026: two levels of hints for every group, the decoy words to avoid, then the full answers at the very end."
 type: explainer
 publishedAt: "2026-11-05T00:05:00-05:00"
@@ -15,7 +15,7 @@ hero:
   caption: "Connections puzzle #1244 for Friday, Nov. 6, 2026; graded hints for each group first, the full solution only at the end."
 summary:
   - "Today's Connections is puzzle #1244, for Friday, Nov. 6, 2026, from The New York Times."
-  - "Backup, Pickup and Makeup all end in \"up\", yet they sit in three different groups, and Hot Rod hides a part of the eye."
+  - "Backup, Pickup and Makeup all end in \"up\", yet they sit in three different groups."
   - "Each group gets two hints, a nudge and then a strong one."
   - "Full answers are in the last section, marked as spoilers."
 faq:
@@ -39,7 +39,7 @@ internalLinks:
 related: [wordle-hint-answer-today-november-6-2026-1966, nyt-strands-hints-answers-november-6-2026-978, nyt-pips-hints-answers-november-6-2026]
 draft: false
 ---
-**Today's Connections from The New York Times (NYT) is puzzle #1244, for Friday, Nov. 6, 2026, edited by Wyna Liu.** One group is words for composition, one is copies kept in reserve, one is kinds of trucks, and one is entries that end in a part of the eye. Backup, Pickup and Makeup share an ending, which makes the board harder than it looks. Below are two levels of hints for each color, then the full solution and an explanation of the tricky words in a marked spoiler section.
+**Today's Connections from The New York Times (NYT) is puzzle #1244, for Friday, Nov. 6, 2026, edited by Wyna Liu.** The board mixes fourteen single words with two longer entries, and the groups run from yellow, the easiest, to purple, the trickiest. Backup, Pickup and Makeup share an ending, which makes the board harder than it looks. Below are two levels of hints for each color, then the full solution and an explanation of the tricky words in a marked spoiler section.
 
 ## Today's 16 words
 

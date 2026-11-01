@@ -1,6 +1,6 @@
 ---
 title: "NYT Spelling Bee Hints and Answers for Tuesday, Nov. 10, 2026: Hint Grid, One Pangram and Monday's Solution"
-seoTitle: "Spelling Bee Hints Today, Nov. 10, 2026"
+seoTitle: "Spelling Bee Hints & Answers Today, Nov. 10, 2026"
 description: "Spelling Bee for Tuesday, Nov. 10, 2026: center letter I with D, E, F, L, O and P, the hint grid, two-letter list and pangram hint, then all 70 words."
 type: explainer
 publishedAt: "2026-11-09T00:05:00-05:00"

@@ -1,6 +1,6 @@
 ---
 title: "NYT Spelling Bee Hints and Answers for Wednesday, Nov. 4, 2026: Hint Grid, One Pangram and Tuesday's Solution"
-seoTitle: "Spelling Bee Hints Today, Nov. 4, 2026"
+seoTitle: "Spelling Bee Hints & Answers Today, Nov. 4, 2026"
 description: "Spelling Bee for Wednesday, Nov. 4, 2026: center letter O with A, H, P, R, T and Y, the hint grid, two-letter list and pangram hint, then all 68 words."
 type: explainer
 publishedAt: "2026-11-03T00:05:00-05:00"

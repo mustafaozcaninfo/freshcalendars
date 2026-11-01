@@ -1,6 +1,6 @@
 ---
 title: "NYT Strands Hints and Answers for Friday, Nov. 6, 2026 (#978): Hints for the Spangram and Seven Theme Words"
-seoTitle: "Strands Hints Today, Nov. 6, 2026 (#978): Spangram"
+seoTitle: "Strands Hints, Spangram & Answers, Nov. 6, 2026 (#978)"
 description: "Strands #978 for Friday, Nov. 6, 2026: hints for the spangram and each of the seven theme words, then all the answers in a spoiler section at the end."
 type: explainer
 publishedAt: "2026-11-05T00:05:00-05:00"
@@ -65,7 +65,7 @@ There are seven theme words, and each one is something you could spot on a woodl
 
 ## Solving tips
 
-Start with the spangram. On today's board it starts in the top-left corner, runs diagonally down and to the right until it reaches the right edge in the sixth row, then goes down the right edge to the bottom row and turns left to end in the third column. It is eleven letters long, three more than the longest theme word. The seven theme words use 37 letters, so the spangram and the theme words together fill all 48 tiles. Husk, Moss and Twig are the shortest theme words, at four letters each. Pinecone repeats N and E, and the spangram uses O three times. If you get stuck, spell any ordinary words you can see to earn a hint.
+Start with the spangram. On today's board it starts in the top-left corner, runs diagonally down and to the right until it reaches the right edge in the sixth row, then goes down the right edge to the bottom row and turns left to end in the third column. It is eleven letters long, three more than the longest theme word. The seven theme words use 37 letters, so the spangram and the theme words together fill all 48 tiles. Three theme words have only four letters each, and the spangram uses one vowel three times. If you get stuck, spell any ordinary words you can see to earn a hint.
 
 Keep a streak log on our [printable weekly calendar](/printable-weekly-calendar.html) or the [November 2026 printable calendar](/november-calendars.html).
 

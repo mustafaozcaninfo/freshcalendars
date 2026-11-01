@@ -1,6 +1,6 @@
 ---
-title: "NYT Connections Hints and Answers for Monday, Nov. 9, 2026 (#1247): Schemes, Jeans, Sharp Edges and Sea Life"
-seoTitle: "Connections Hints Today, Nov. 9, 2026 (#1247)"
+title: "NYT Connections Hints and Answers for Monday, Nov. 9, 2026 (#1247): Two Hints per Group, Then the Answers"
+seoTitle: "Connections Hints & Answers Today, Nov. 9, 2026 (#1247)"
 description: "Connections #1247 for Monday, Nov. 9, 2026: two levels of hints for every group, the decoy words to avoid, then the full answers at the very end."
 type: explainer
 publishedAt: "2026-11-08T00:05:00-05:00"
@@ -39,7 +39,7 @@ internalLinks:
 related: [wordle-hint-answer-today-november-9-2026-1969, nyt-strands-hints-answers-november-9-2026-981, nyt-pips-hints-answers-november-9-2026]
 draft: false
 ---
-**Today's Connections from The New York Times (NYT) is puzzle #1247, for Monday, Nov. 9, 2026, edited by Wyna Liu.** One group is deceitful schemes, one is jeans descriptors, one is things with serrated edges, and one is entries that end in sea creatures. Shell Game and Card Shark both sound like tricks, and four of the entries hide a sea animal in their last word. Below are two levels of hints for each color, then the full solution and an explanation of the tricky words in a marked spoiler section.
+**Today's Connections from The New York Times (NYT) is puzzle #1247, for Monday, Nov. 9, 2026, edited by Wyna Liu.** The board mixes six single words with ten longer entries, and the groups run from yellow, the easiest, to purple, the trickiest. Shell Game and Card Shark both sound like tricks, and four of the entries hide a sea animal in their last word. Below are two levels of hints for each color, then the full solution and an explanation of the tricky words in a marked spoiler section.
 
 ## Today's 16 words
 
@@ -73,7 +73,7 @@ Sort the 16 entries into four groups of four. You can make four mistakes. The gr
 
 ## Solving tips
 
-Start with the jeans. Boot-Cut, Distressed, Low-Rise and Skinny all describe a pair. Watch Shell Game and Card Shark: each has a sea word in it, but only one of them ends with a creature. Take the serrated items next, then the schemes. Leave purple for last. Four entries will be left, and each ends in an animal that lives in the sea.
+Start with the jeans: four entries describe a cut or a finish of a pair. Watch Shell Game and Card Shark: each has a sea word in it, but only one of them ends with a creature. Take the serrated items next, then the schemes. Leave purple for last. Four entries will be left, and each ends in an animal that lives in the sea.
 
 Keep a streak log on our [printable weekly calendar](/printable-weekly-calendar.html) or the [November 2026 printable calendar](/november-calendars.html).
 

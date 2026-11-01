@@ -1,6 +1,6 @@
 ---
 title: "NYT Strands Hints and Answers for Sunday, Nov. 8, 2026 (#980): Hints for the Spangram and Five Theme Words"
-seoTitle: "Strands Hints Today, Nov. 8, 2026 (#980): Spangram"
+seoTitle: "Strands Hints, Spangram & Answers, Nov. 8, 2026 (#980)"
 description: "Strands #980 for Sunday, Nov. 8, 2026: hints for the spangram and each of the five theme words, then all the answers in a spoiler section at the end."
 type: explainer
 publishedAt: "2026-11-07T00:05:00-05:00"
@@ -63,7 +63,7 @@ There are five theme words, and each one names a martial art or combat sport:
 
 ## Solving tips
 
-Start with the spangram. On today's board it starts on the left edge in the fifth row, first column, steps up to the fourth row, then climbs across to the third row, second column, and runs right along the third row to the fifth column. Then it drops to the fourth row at the right edge and follows the last column down to the bottom, ending in the eighth row, sixth column. It is eleven letters long, one more than the longest theme word. The five theme words use 37 letters, so the spangram and the theme words together fill all 48 tiles. Judo is the shortest theme word, at four letters. Karate and Kickboxing both start with K, and the spangram uses A three times. If you get stuck, spell any ordinary words you can see to earn a hint.
+Start with the spangram. On today's board it starts on the left edge in the fifth row, first column, steps up to the fourth row, then climbs across to the third row, second column, and runs right along the third row to the fifth column. Then it drops to the fourth row at the right edge and follows the last column down to the bottom, ending in the eighth row, sixth column. It is eleven letters long, one more than the longest theme word. The five theme words use 37 letters, so the spangram and the theme words together fill all 48 tiles. The shortest theme word has four letters, two theme words start with the same letter, and the spangram uses one vowel three times. If you get stuck, spell any ordinary words you can see to earn a hint.
 
 Keep a streak log on our [printable weekly calendar](/printable-weekly-calendar.html) or the [November 2026 printable calendar](/november-calendars.html).
 

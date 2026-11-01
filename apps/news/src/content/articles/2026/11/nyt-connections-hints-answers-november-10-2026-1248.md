@@ -1,6 +1,6 @@
 ---
-title: "NYT Connections Hints and Answers for Tuesday, Nov. 10, 2026 (#1248): Fuss, Old Jobs, Literary Terms, Vowels"
-seoTitle: "Connections Hints Today, Nov. 10, 2026 (#1248)"
+title: "NYT Connections Hints and Answers for Tuesday, Nov. 10, 2026 (#1248): Two Hints per Group, Then the Answers"
+seoTitle: "Connections Hints & Answers Today, Nov. 10, 2026 (#1248)"
 description: "Connections #1248 for Tuesday, Nov. 10, 2026: two levels of hints for every group, the decoy words to avoid, then the full answers at the very end."
 type: explainer
 publishedAt: "2026-11-09T00:05:00-05:00"
@@ -39,7 +39,7 @@ internalLinks:
 related: [wordle-hint-answer-today-november-10-2026-1970, nyt-strands-hints-answers-november-10-2026-982, nyt-pips-hints-answers-november-10-2026]
 draft: false
 ---
-**Today's Connections from The New York Times (NYT) is puzzle #1248, for Tuesday, Nov. 10, 2026, edited by Wyna Liu.** One group is words for a commotion, one is old-fashioned jobs, one is literary devices, and one is words that use a single vowel five times and no other. All 16 entries are long single words, so the length of a word tells you little. Below are two levels of hints for each color, then the full solution and an explanation of the tricky words in a marked spoiler section.
+**Today's Connections from The New York Times (NYT) is puzzle #1248, for Tuesday, Nov. 10, 2026, edited by Wyna Liu.** All 16 entries are single words, and the groups run from yellow, the easiest, to purple, the trickiest. All 16 entries are long single words, so the length of a word tells you little. Below are two levels of hints for each color, then the full solution and an explanation of the tricky words in a marked spoiler section.
 
 ## Today's 16 words
 
@@ -73,7 +73,7 @@ Sort the 16 entries into four groups of four. You can make four mistakes. The gr
 
 ## Solving tips
 
-Start with the old jobs. Apothecary, Haberdasher, Scrivener and Wainwright are the only trades on the board. Then count vowels. Four words use just one vowel letter, five times over, and that is purple. Onomatopoeia and Oxymoron look like they might qualify because of all their O's. Onomatopoeia mixes in other vowels, and Oxymoron has only three O's, so both stay with the literary devices. Hullabaloo fails the vowel test too, which leaves it with the other words for a fuss.
+Start with the old jobs. Four entries are trades you would find in a town two centuries ago, and no other entry is a job. Then count vowels. Four words use just one vowel letter, five times over, and that is purple. Onomatopoeia and Oxymoron look like they might qualify because of all their O's. Onomatopoeia mixes in other vowels, and Oxymoron has only three O's, so both stay with the figures of speech. Hullabaloo fails the vowel test too, which leaves it with the other words for a fuss.
 
 Keep a streak log on our [printable weekly calendar](/printable-weekly-calendar.html) or the [November 2026 printable calendar](/november-calendars.html).
 

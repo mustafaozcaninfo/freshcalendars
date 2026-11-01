@@ -15,7 +15,7 @@ hero:
   caption: "Wordle #1970 for Tuesday, Nov. 10, 2026; graded clues come first and the answer only in the final section."
 summary:
   - "Today's Wordle is puzzle #1970, for Tuesday, Nov. 10, 2026, from The New York Times."
-  - "The answer has no repeated letter, and its two vowels, U and E, sit in the third and fifth spots."
+  - "The answer has two vowel letters and no repeated letter, so every tile is a different letter."
   - "Six clues below go from gentle to strong; stop when it clicks."
   - "The answer is in the last section, marked as a spoiler."
 faq:
@@ -56,7 +56,7 @@ You get six tries to find a five-letter word. After each guess, a green tile mea
 
 ## Guessing tips for today
 
-The word starts with T and ends with E, so a guess with T first and E last can turn two tiles green right away. The second letter is R, which makes a common opening pair. With the U in the middle, only the fourth letter is left to find after that. Try a C.
+Because no letter repeats, each new guess should use five letters you have not tried yet, so no tile is wasted. Once both vowels show up yellow or green, stop spending tiles on vowels and switch to common consonants. Use gray tiles as much as green ones.
 
 Keep your streak on our [printable weekly calendar](/printable-weekly-calendar.html) or the [November 2026 printable calendar](/november-calendars.html).
 

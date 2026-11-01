@@ -60,9 +60,18 @@ export function rehypePuzzleBoards() {
       for (const i of s.range) revealHints(kids[i]);
     }
 
+    // One-answer reveals inside the hints (no JS): a reader stuck on one group, word or clue opens
+    // just that one instead of jumping to the full solution.
+    addReveals(p, data, kids, sections);
+
     // Boards, inserted from the bottom up so earlier indexes stay valid.
     const inserts = [];
     const spoiler = sections.find((s) => s.h2 && SPOILER.test(text(s.h2)));
+    // "Try a guess" tools above the spoiler heading: they answer only what the reader asks.
+    if (spoiler) {
+      const tool = p.game === "wordle" ? wordleTester(data) : p.game === "connections" ? connectionsTester(data) : p.game === "strands" ? strandsTester(data, p.date) : "";
+      if (tool) inserts.push([kids.indexOf(spoiler.h2), tool]);
+    }
     if (spoiler) {
       spoiler.h2.properties = { ...spoiler.h2.properties, id: spoiler.h2.properties?.id ?? ANSWER_ID };
       const after = (pred) => spoiler.range.find((i) => pred(kids[i]));
@@ -105,7 +114,21 @@ export function rehypePuzzleBoards() {
     const first = kids.findIndex((n) => n.type === "element" && n.tagName === "p");
     if (first >= 0) inserts.push([first + 1, shortcuts(p, spoiler ? `#${spoiler.h2.properties.id}` : null)]);
 
+    // Solving tips name themes, positions and lengths, so their prose sits behind a tap too; the
+    // paragraphs with links (calendars, the day's other puzzles) stay in view.
+    const tipParas = sections.filter((s) => s.h2 && /\btips\b/i.test(text(s.h2)) && !SPOILER.test(text(s.h2)))
+      .map((s) => s.range.map((i) => kids[i]).filter((n) => n.tagName === "p" && !hasLink(n)));
+
     inserts.sort((a, b) => b[0] - a[0]).forEach(([i, html]) => kids.splice(i, 0, { type: "raw", value: html }));
+    for (const ps of tipParas) {
+      if (!ps.length) continue;
+      const at = kids.indexOf(ps[0]);
+      for (const n of ps) kids.splice(kids.indexOf(n), 1);
+      kids.splice(at, 0, {
+        type: "element", tagName: "details", properties: { className: ["pz-tips"] },
+        children: [{ type: "element", tagName: "summary", properties: {}, children: [{ type: "text", value: "Show the solving tips" }] }, ...ps],
+      });
+    }
     const y = yesterday(p);
     if (y) kids.push({ type: "raw", value: y });
   };
@@ -127,6 +150,8 @@ function text(n) {
   if (n.type === "raw") return n.value.replace(/<[^>]*>/g, " ");
   return (n.children ?? []).map(text).join("");
 }
+
+const hasLink = (n) => n.tagName === "a" || (n.children ?? []).some(hasLink);
 
 const esc = (s) => String(s).replace(/&/g, "&amp;").replace(/</g, "&lt;").replace(/>/g, "&gt;").replace(/"/g, "&quot;");
 
@@ -183,6 +208,124 @@ function revealHints(node) {
       ],
     }];
   }
+}
+
+/** A nested tap-to-reveal for one answer, set apart from the hint it sits under. */
+const reveal = (label, html) => `<details class="pz-reveal"><summary>${esc(label)}</summary><span>${html}</span></details>`;
+const raw = (value) => ({ type: "raw", value });
+
+/**
+ * Per-answer reveals in the hints sections: each Connections group's name and words, each Strands
+ * word and the spangram, each Mini answer, and Wordle's letters one by one. They sit behind their own
+ * tap, labeled as answers, after the graded hints; the full solution stays in the spoiler section.
+ */
+function addReveals(p, d, kids, sections) {
+  const hintSections = sections.filter((s) => s.h2 && HINTS.test(text(s.h2)) && !SPOILER.test(text(s.h2)) && !NOT_HINTS.test(text(s.h2)));
+  const nodes = hintSections.flatMap((s) => s.range.map((i) => kids[i]));
+  const lists = nodes.filter((n) => n.tagName === "ul" || n.tagName === "ol");
+  const items = (ul) => ul.children.filter((li) => li.type === "element" && li.tagName === "li");
+  const hintSpan = (li) => li.children.find((c) => c.tagName === "details")?.children.find((c) => c.tagName === "span");
+  const li = (html) => ({ type: "element", tagName: "li", properties: { className: ["pz-reveal-item"] }, children: [raw(html)] });
+
+  if (p.game === "connections") {
+    const COLORS = ["Yellow", "Green", "Blue", "Purple"];
+    nodes.forEach((n, k) => {
+      const color = n.tagName === "p" && text(n).trim();
+      const i = COLORS.indexOf(color);
+      const ul = nodes.slice(k + 1).find((x) => x.tagName === "ul");
+      if (i < 0 || !ul || nodes.slice(k + 1, nodes.indexOf(ul)).some((x) => x.tagName === "p")) return;
+      const c = d.categories[i];
+      ul.children.push(li(reveal(`Reveal the ${color.toLowerCase()} group`, `<strong>${esc(title(c.title))}:</strong> ${c.cards.map((x) => esc(title(x.content))).join(", ")}`)));
+    });
+  } else if (p.game === "strands") {
+    const left = [...d.themeWords];
+    for (const ul of lists) {
+      let themed = false;
+      for (const item of items(ul)) {
+        const m = text(item).match(/(\d+) letters, starts with ([A-Z])/);
+        const span = hintSpan(item);
+        if (!m || !span) continue;
+        const k = left.findIndex((w) => w.length === Number(m[1]) && w[0] === m[2]);
+        if (k < 0) continue;
+        span.children.push(raw(reveal("Show the word", esc(title(left[k])))));
+        left.splice(k, 1);
+        themed = true;
+      }
+      // The spangram list is the one whose hints carry no "N letters, starts with" labels.
+      if (!themed && items(ul).some((x) => /hint/i.test(text(x)))) ul.children.push(li(reveal("Reveal the spangram", esc(title(d.spangram)))));
+    }
+  } else if (p.game === "mini") {
+    // Spelled as the checked answer table prints it ("Abcs", or an abbreviation the page expands).
+    const rows = new Map();
+    const walk = (n) => {
+      if (n.tagName === "tr") {
+        const cells = n.children.filter((c) => c.tagName === "td").map((c) => text(c).trim());
+        if (cells.length === 2) rows.set(cells[0], cells[1]);
+      }
+      (n.children ?? []).forEach(walk);
+    };
+    kids.forEach(walk);
+    for (const ul of lists) for (const item of items(ul)) {
+      const m = text(item).match(/^\s*(\d+)-(Across|Down)\b/);
+      const cl = m && d.clues.find((c) => String(c.label) === m[1] && c.direction === m[2]);
+      const span = hintSpan(item);
+      if (!cl || !span) continue;
+      const w = cl.cells.map((i) => d.cells[i]).join("");
+      const row = rows.get(`${m[1]}-${m[2]}`);
+      span.children.push(raw(reveal("Show the answer", esc(row && row !== row.toUpperCase() && row.toUpperCase().replace(/[^A-Z]/g, "") === w ? row : title(w)))));
+    }
+  } else if (p.game === "wordle") {
+    const ol = lists.at(-1);
+    if (!ol) return;
+    const w = d.solution.toUpperCase();
+    const tiles = [...w].map((c, i) => `<li><details class="pz-letter"><summary aria-label="Reveal letter ${i + 1}">${i + 1}</summary><span>${c}</span></details></li>`).join("");
+    // Appended to the clue list itself: splicing a new top-level node here would shift the section
+    // indexes the boards below are placed by.
+    ol.children.push(li(`<p class="pz-letters-intro">Still stuck? Reveal the answer one letter at a time:</p><ol class="pz-letters" aria-label="Today's answer, one letter per tap">${tiles}</ol>`));
+  }
+}
+
+const b64 = (s) => Buffer.from(s, "utf8").toString("base64");
+/**
+ * The answer rides in a data attribute, base64 of the reversed text, so it never reads as page
+ * text (search snippets, reader mode); the story page's script decodes it.
+ */
+const hide = (s) => b64([...s].reverse().join(""));
+
+/** Wordle: type a guess and see its colors against today's answer, without spending a row in the game. */
+function wordleTester(d) {
+  return `<form class="tool-box pz-track pz-guess" data-wordle-try data-k="${hide(d.solution.toUpperCase())}" data-n="${d.days_since_launch}" hidden novalidate>`
+    + `<p class="tool-title">Test a guess without using a try</p>`
+    + `<label for="pz-wt-in">Type a five-letter word to see its green, yellow and gray tiles for Wordle #${d.days_since_launch}. Nothing is sent anywhere, and the answer stays hidden unless your guess is right.</label>`
+    + `<span class="pz-track-row"><input id="pz-wt-in" autocomplete="off" autocapitalize="characters" spellcheck="false" maxlength="5"><button type="submit">Test</button></span>`
+    + `<span class="tool-out" aria-live="polite"></span>`
+    + `</form>`;
+}
+
+/** Connections: pick four tiles and check them, with "one away", and no mistakes counted. */
+function connectionsTester(d) {
+  const cards = d.categories.flatMap((c, g) => c.cards.map((x) => ({ w: title(x.content), g, pos: x.position ?? 0 }))).sort((a, b) => a.pos - b.pos);
+  const groups = d.categories.map((c) => title(c.title));
+  const key = hide(JSON.stringify({ groups, cards: cards.map((c) => [c.w, c.g]) }));
+  return `<form class="tool-box pz-track pz-conn" data-conn-try data-k="${key}" hidden novalidate>`
+    + `<p class="tool-title">Test a group without losing a mistake</p>`
+    + `<p class="pz-conn-help">Tap four entries, then Check. You will see whether they form a group or are one away. The board below follows today's layout.</p>`
+    + `<span class="pz-conn-grid" role="group" aria-label="Today's 16 entries"></span>`
+    + `<span class="pz-track-row"><button type="submit">Check these four</button><button type="button" data-conn-clear>Deselect</button></span>`
+    + `<span class="tool-out" aria-live="polite"></span>`
+    + `</form>`;
+}
+
+/** Strands: check a word you traced; theme words and the spangram are counted, saved on this device for the date. */
+function strandsTester(d, date) {
+  const key = hide(JSON.stringify({ s: d.spangram, t: d.themeWords }));
+  return `<form class="tool-box pz-track" data-strands-try data-k="${key}" data-date="${date}" hidden novalidate>`
+    + `<p class="tool-title">Check a word you found</p>`
+    + `<label for="pz-st-in">Type a word to find out if it is one of today's ${d.themeWords.length} theme words or the spangram. Only words you type are shown.</label>`
+    + `<span class="pz-track-row"><input id="pz-st-in" autocomplete="off" autocapitalize="characters" spellcheck="false" maxlength="20"><button type="submit">Check</button></span>`
+    + `<span class="tool-out" aria-live="polite"></span>`
+    + `<span class="pz-track-tools"><button type="button" data-strands-reset>Clear my list</button></span>`
+    + `</form>`;
 }
 
 const figure = (cls, body, caption) =>

@@ -1,6 +1,6 @@
 ---
-title: "NYT Connections Hints and Answers for Thursday, Nov. 5, 2026 (#1243): Heels, Flowers and Teardrops"
-seoTitle: "Connections Hints Today, Nov. 5, 2026 (#1243)"
+title: "NYT Connections Hints and Answers for Thursday, Nov. 5, 2026 (#1243): Two Hints per Group, Then the Answers"
+seoTitle: "Connections Hints & Answers Today, Nov. 5, 2026 (#1243)"
 description: "Connections #1243 for Thursday, Nov. 5, 2026: two levels of hints for every group, the decoy words to avoid, then the full answers at the very end."
 type: explainer
 publishedAt: "2026-11-04T00:05:00-05:00"
@@ -15,7 +15,7 @@ hero:
   caption: "Connections puzzle #1243 for Thursday, Nov. 5, 2026; graded hints for each group first, the full solution only at the end."
 summary:
   - "Today's Connections is puzzle #1243, for Thursday, Nov. 5, 2026, from The New York Times."
-  - "Pear is a fruit that belongs with the teardrop shapes, and Wedge can be a shape but here it is a kind of heel."
+  - "Pear and Wedge each have a second meaning that pulls them toward the wrong group."
   - "Each group gets two hints, a nudge and then a strong one."
   - "Full answers are in the last section, marked as spoilers."
 faq:
@@ -39,7 +39,7 @@ internalLinks:
 related: [wordle-hint-answer-today-november-5-2026-1965, nyt-strands-hints-answers-november-5-2026-977, nyt-pips-hints-answers-november-5-2026]
 draft: false
 ---
-**Today's Connections from The New York Times (NYT) is puzzle #1243, for Thursday, Nov. 5, 2026, edited by Wyna Liu.** One group is kinds of heels, one is flowers, one is teardrop-shaped things, and one is liquors with their last letters changed. Pear and Wedge each have another meaning, which makes the board harder than it looks. Below are two levels of hints for each color, then the full solution and an explanation of the tricky words in a marked spoiler section.
+**Today's Connections from The New York Times (NYT) is puzzle #1243, for Thursday, Nov. 5, 2026, edited by Wyna Liu.** All 16 entries are single words, and the groups run from yellow, the easiest, to purple, the trickiest. Pear and Wedge each have another meaning, which makes the board harder than it looks. Below are two levels of hints for each color, then the full solution and an explanation of the tricky words in a marked spoiler section.
 
 ## Today's 16 words
 

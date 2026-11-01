@@ -1,6 +1,6 @@
 ---
 title: "NYT Spelling Bee Hints and Answers for Thursday, Nov. 12, 2026: Hint Grid, Pangram and Wednesday's Solution"
-seoTitle: "Spelling Bee Hints Today, Nov. 12, 2026"
+seoTitle: "Spelling Bee Hints & Answers Today, Nov. 12, 2026"
 description: "Spelling Bee for Thursday, Nov. 12, 2026: center letter T with C, D, E, H, O and U, the hint grid, two-letter list and pangram hint, then all 54 words."
 type: explainer
 publishedAt: "2026-11-11T00:05:00-05:00"

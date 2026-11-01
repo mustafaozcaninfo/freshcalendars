@@ -1,6 +1,6 @@
 ---
 title: "NYT Spelling Bee Hints and Answers for Wednesday, Nov. 11, 2026: Hint Grid, One Pangram and Tuesday's Solution"
-seoTitle: "Spelling Bee Hints Today, Nov. 11, 2026"
+seoTitle: "Spelling Bee Hints & Answers Today, Nov. 11, 2026"
 description: "Spelling Bee for Wednesday, Nov. 11, 2026: center letter V with C, D, E, I, T and U, the hint grid, two-letter list and pangram hint, then all 21 words."
 type: explainer
 publishedAt: "2026-11-10T00:05:00-05:00"

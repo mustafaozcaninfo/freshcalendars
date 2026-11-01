@@ -35,9 +35,27 @@ The build also adds, from the saved data:
 - **Spelling Bee found-words tracker** under the honeycomb: the reader types the words they found, sees words, points, the Genius gap and what is left by first two letters; saved on their device for that date.
 - **Wordle used-word checker** above the spoiler: every past answer from `apps/news/src/content/puzzles/wordle-history.json` plus the daily data files, never the day of the build or later. `node scripts/news-puzzle-data.mjs --wordle-history` tops the history up (optional; the daily files fill the gap).
 
-Both tools start hidden and are switched on by the story page's script (`apps/news/src/pages/[slug]/index.astro`), so the page reads the same without JavaScript.
+- **Guess testers** above the spoiler, for the reader who wants to check one idea without spending a try in the real game: Wordle "test a guess" (green, yellow and gray tiles for any word), Connections "test a group" (tap four of today's 16 tiles; correct, one away, or not a group, no mistake counted), Strands "check a word" (theme word, spangram or neither, kept on the device for that date). The answer rides base64-encoded in a data attribute, never as page text.
+- **One-answer reveals** inside the hints (no JavaScript, `<details>`): each Connections group ("Reveal the yellow group"), each Strands theme word and the spangram, each Mini answer, and Wordle's letters one at a time. A reader stuck on one item opens only that one.
+- **Solving tips behind a tap**: the prose paragraphs of any "tips" section render inside "Show the solving tips"; paragraphs with links stay visible.
+- **Hints and Answer buttons under the lede** (above the byline and hero), so the two things searchers want are one tap from the top on a phone.
 
-What we add that most results lack: the drawn solved boards, Pips placements checked cell by cell, trap explanations for Connections, the Spelling Bee hint grid with points and Genius and its found-words tracker, the Wordle used-word checker, every two-word Letter Boxed solution, and yesterday's solution on the same page. Connections: Sports Edition readers often do not know the names: after its answers, add one line per group saying who or what each entry is ("quarterbacks who won a Super Bowl with the Rams"), using only facts confirmed on a league, team or other authoritative page. No competitor does this. Keep adding: a fact others missed (a repeated Wordle answer, a double letter, a rare pangram) belongs in the summary.
+These tools start hidden and are switched on by the story page's script (`apps/news/src/pages/[slug]/index.astro`), so the page reads the same without JavaScript.
+
+### Spoiler discipline (checked by `news:puzzle-check` from Nov. 2, 2026 on)
+
+The headline, `seoTitle`, description, key points, hero text, lede, and every section above the spoiler are what a searcher reads before deciding to look. None of them may give the answer away:
+
+- No answer word there: the Wordle answer, Strands spangram and theme words (also not used inside another word's hint: no "a singer of ballads" when Singer is an answer), Spelling Bee pangrams, Letter Boxed solution words, Mini answers of five letters or more, Connections group names.
+- Connections: no sentence that lists three or more entries of one group; the lede and title do not describe the four groups ("One group is …" gives every Hint 1 away). Title tail: `Two Hints per Group, Then the Answers`.
+- Wordle: no letter named outside the clues ("starts with S", "its only vowel, O", "the double T"). Key points and tips speak in counts: vowel letters, repeated letter or not.
+- Key points may name a trap (two entries that look alike sit in different groups) but never place an entry in its group.
+
+### Titles match the query
+
+`seoTitle` carries both words people type: `Connections Hints & Answers Today, Nov. 2, 2026 (#1240)`, `Strands Hints, Spangram & Answers, …`, `Pips Hints & Answers, …: Easy, Medium, Hard`, `Spelling Bee Hints & Answers Today, …`, `Wordle Hint Today, #N (…): Clues & Answer`. 60 characters at most.
+
+What we add that most results lack: the guess testers and one-answer reveals, the drawn solved boards, Pips placements checked cell by cell, trap explanations for Connections, the Spelling Bee hint grid with points and Genius and its found-words tracker, the Wordle used-word checker, every two-word Letter Boxed solution, and yesterday's solution on the same page. Connections: Sports Edition readers often do not know the names: after its answers, add one line per group saying who or what each entry is ("quarterbacks who won a Super Bowl with the Rams"), using only facts confirmed on a league, team or other authoritative page. No competitor does this. Keep adding: a fact others missed (a repeated Wordle answer, a double letter, a rare pangram) belongs in the summary.
 
 Two scheduled routines run this workflow every day (`docs/PUZZLE-ROUTINES.md`): official-data games at 10:23 p.m. ET, published-solution games at 7:17 a.m. ET. A hand-run session should check open pull requests first so it does not write the same dates.
 
@@ -56,7 +74,7 @@ Two scheduled routines run this workflow every day (`docs/PUZZLE-ROUTINES.md`): 
    - Compute, never recall: weekday (`node -e 'console.log(new Date("2026-11-10T12:00:00").toDateString())'`), puzzle numbers (Connections #1 was June 12, 2023; Strands #1 was March 4, 2024; Wordle's number is `days_since_launch` in its data), letter counts, Spelling Bee points (4-letter word 1 point, longer words 1 per letter, +7 per pangram, Genius = 70% rounded half up).
    - Pips: generate the placement lines and the region list from the data (the `pipsValues`/`pipsRegionOk` helpers in `apps/news/src/lib/puzzles.mjs`), never by hand. Each line is `- a-b: <cell of a> = a, <cell of b> = b`, in the data's order. If a domino can be flipped without breaking a rule, say so, and still print the data's placement.
    - Every hint must be true for the data: count letters, check which word repeats a letter, check traps against the actual groups. Read each hint against the answer before moving on.
-   - Answers only in the spoiler section and the spoiler FAQ, never in the title, description, summary or hero.
+   - Answers only in the spoiler section and the spoiler FAQ, never in the title, description, summary, hero, lede, tips or another item's hint (see "Spoiler discipline"; the check fails the page).
    - The Mini: NYT serves the Mini for any past day and today (the next day's from about 10 p.m. ET), never days ahead, so save it with `pnpm news:puzzle-data <date> --games mini` once it is out; a missed day can be filled in later. Hint lines keep the shape `- **1-Across** (5 letters), *clue as printed*: hint.`; the check compares the quoted clue and the letter count with the data.
    - Letter Boxed: NYT publishes its data about two days ahead (`--games letterboxed`). The check compares the sides table, par, the dictionary size, the Times' solution, its route table (`| Word | F2, L1, … |`) and the warm-up words (each must be in the saved `dictionary` and not in the solution) with the data.
    - Quote official wording exactly (group names, entries, clues). The writing audit skips that quoted text when it is capitalized as printed, but checks every word we write around it.

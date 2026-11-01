@@ -1,6 +1,6 @@
 ---
 title: "NYT Strands Hints and Answers for Monday, Nov. 9, 2026 (#981): Hints for the Spangram and Five Theme Words"
-seoTitle: "Strands Hints Today, Nov. 9, 2026 (#981): Spangram"
+seoTitle: "Strands Hints, Spangram & Answers, Nov. 9, 2026 (#981)"
 description: "Strands #981 for Monday, Nov. 9, 2026: hints for the spangram and each of the five theme words, then all the answers in a spoiler section at the end."
 type: explainer
 publishedAt: "2026-11-08T00:05:00-05:00"
@@ -63,7 +63,7 @@ There are five theme words, and each one is a kind of casual talk:
 
 ## Solving tips
 
-Start with the spangram. On today's board it starts on the left edge in the third row, first column, and runs diagonally down and to the right, one row at a time, to the bottom right corner in the eighth row. Then it climbs the last column to the top edge and ends in the first row, fifth column. It is fourteen letters long, six more than the longest theme word. The five theme words use 34 letters, so the spangram and the theme words together fill all 48 tiles. Banter and Gossip are the shortest theme words, at six letters each. Gossip repeats S, Schmooze repeats O, and the spangram uses E four times. If you get stuck, spell any ordinary words you can see to earn a hint.
+Start with the spangram. On today's board it starts on the left edge in the third row, first column, and runs diagonally down and to the right, one row at a time, to the bottom right corner in the eighth row. Then it climbs the last column to the top edge and ends in the first row, fifth column. It is fourteen letters long, six more than the longest theme word. The five theme words use 34 letters, so the spangram and the theme words together fill all 48 tiles. The two shortest theme words have six letters each, two theme words each repeat one letter, and the spangram uses one vowel four times. If you get stuck, spell any ordinary words you can see to earn a hint.
 
 Keep a streak log on our [printable weekly calendar](/printable-weekly-calendar.html) or the [November 2026 printable calendar](/november-calendars.html).
 

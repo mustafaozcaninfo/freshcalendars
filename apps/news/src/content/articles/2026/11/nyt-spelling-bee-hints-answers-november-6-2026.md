@@ -1,6 +1,6 @@
 ---
 title: "NYT Spelling Bee Hints and Answers for Friday, Nov. 6, 2026: Hint Grid, Two Pangrams and Thursday's Solution"
-seoTitle: "Spelling Bee Hints Today, Nov. 6, 2026"
+seoTitle: "Spelling Bee Hints & Answers Today, Nov. 6, 2026"
 description: "Spelling Bee for Friday, Nov. 6, 2026: center letter L with C, I, N, O, T and U, the hint grid, two-letter list and pangram clues, then all 47 words."
 type: explainer
 publishedAt: "2026-11-05T00:05:00-05:00"

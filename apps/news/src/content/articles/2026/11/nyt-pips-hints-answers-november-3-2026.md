@@ -1,6 +1,6 @@
 ---
 title: "NYT Pips Hints and Answers for Tuesday, Nov. 3, 2026: Easy, Medium and Hard Domino Placements"
-seoTitle: "Pips Hints Today, Nov. 3, 2026: Easy, Medium, Hard"
+seoTitle: "Pips Hints & Answers, Nov. 3, 2026: Easy, Medium, Hard"
 description: "Pips for Tuesday, Nov. 3, 2026: two hints for each board, then every domino placement for Easy, Medium and Hard from the official puzzle data."
 type: explainer
 publishedAt: "2026-11-02T00:05:00-05:00"

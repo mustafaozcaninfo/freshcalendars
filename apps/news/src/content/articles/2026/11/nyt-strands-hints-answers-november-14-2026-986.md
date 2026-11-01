@@ -1,6 +1,6 @@
 ---
 title: "NYT Strands Hints and Answers for Saturday, Nov. 14, 2026 (#986): Hints for the Spangram and Seven Theme Words"
-seoTitle: "Strands Hints Today, Nov. 14, 2026 (#986): Spangram"
+seoTitle: "Strands Hints, Spangram & Answers, Nov. 14, 2026 (#986)"
 description: "Strands #986 for Saturday, Nov. 14, 2026: hints for the spangram and each of the seven theme words, then all the answers in a spoiler section at the end."
 type: explainer
 publishedAt: "2026-11-13T00:05:00-05:00"
@@ -59,9 +59,9 @@ There are seven theme words, and each one is a way to move:
 - **4 letters, starts with S, a step:** to hop lightly from one foot to the other.
 - **4 letters, starts with S, a turn:** to go round and round on the spot.
 - **4 letters, starts with W:** to move on foot at an ordinary pace.
-- **5 letters, starts with M:** to walk in step, like a band on parade.
+- **5 letters, starts with M:** to step in time, like a band on parade.
 - **6 letters, starts with G:** to run like a horse.
-- **6 letters, starts with T:** to walk quietly on the balls of your feet.
+- **6 letters, starts with T:** to move quietly on the balls of your feet.
 
 ## Solving tips
 

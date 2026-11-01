@@ -1,6 +1,6 @@
 ---
 title: "NYT Strands Hints and Answers for Thursday, Nov. 5, 2026 (#977): Hints for the Spangram and Six Theme Words"
-seoTitle: "Strands Hints Today, Nov. 5, 2026 (#977): Spangram"
+seoTitle: "Strands Hints, Spangram & Answers, Nov. 5, 2026 (#977)"
 description: "Strands #977 for Thursday, Nov. 5, 2026: hints for the spangram and each of the six theme words, then all the answers in a spoiler section at the end."
 type: explainer
 publishedAt: "2026-11-04T00:05:00-05:00"
@@ -64,7 +64,7 @@ There are six theme words, and each one can follow the same verb, the one a pack
 
 ## Solving tips
 
-Start with the spangram. On today's board it starts in the third row, third column, climbs to the top edge, then runs down the fourth column to the bottom edge and ends in the bottom row, third column. It is twelve letters long, three more than the longest theme word. The six theme words use 36 letters, so the spangram and the theme words together fill all 48 tiles. Wind is the shortest theme word, at four letters. Character repeats C, A and R, and the spangram uses E three times. If you get stuck, spell any ordinary words you can see to earn a hint.
+Start with the spangram. On today's board it starts in the third row, third column, climbs to the top edge, then runs down the fourth column to the bottom edge and ends in the bottom row, third column. It is twelve letters long, three more than the longest theme word. The six theme words use 36 letters, so the spangram and the theme words together fill all 48 tiles. The shortest theme word has four letters, the longest has nine and repeats three of its letters, and the spangram uses one vowel three times. If you get stuck, spell any ordinary words you can see to earn a hint.
 
 Keep a streak log on our [printable weekly calendar](/printable-weekly-calendar.html) or the [November 2026 printable calendar](/november-calendars.html).
 

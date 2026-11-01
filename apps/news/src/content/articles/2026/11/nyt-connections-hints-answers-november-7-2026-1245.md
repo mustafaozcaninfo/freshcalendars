@@ -1,6 +1,6 @@
 ---
-title: "NYT Connections Hints and Answers for Saturday, Nov. 7, 2026 (#1245): Pirate Loot, Shirts, States and Storms"
-seoTitle: "Connections Hints Today, Nov. 7, 2026 (#1245)"
+title: "NYT Connections Hints and Answers for Saturday, Nov. 7, 2026 (#1245): Two Hints per Group, Then the Answers"
+seoTitle: "Connections Hints & Answers Today, Nov. 7, 2026 (#1245)"
 description: "Connections #1245 for Saturday, Nov. 7, 2026: two levels of hints for every group, the decoy words to avoid, then the full answers at the very end."
 type: explainer
 publishedAt: "2026-11-06T00:05:00-05:00"
@@ -15,7 +15,7 @@ hero:
   caption: "Connections puzzle #1245 for Saturday, Nov. 7, 2026; graded hints for each group first, the full solution only at the end."
 summary:
   - "Today's Connections is puzzle #1245, for Saturday, Nov. 7, 2026, from The New York Times."
-  - "Booty and Bounty look alike, and Easter, Soon, Cane and Clone are only the ends of storm names."
+  - "Booty and Bounty look alike, and four entries are only the ends of longer words."
   - "Each group gets two hints, a nudge and then a strong one."
   - "Full answers are in the last section, marked as spoilers."
 faq:
@@ -39,7 +39,7 @@ internalLinks:
 related: [wordle-hint-answer-today-november-7-2026-1967, nyt-strands-hints-answers-november-7-2026-979, nyt-pips-hints-answers-november-7-2026]
 draft: false
 ---
-**Today's Connections from The New York Times (NYT) is puzzle #1245, for Saturday, Nov. 7, 2026, edited by Wyna Liu.** One group is a pirate's plunder, one is kinds of shirts, one is first words of U.S. state names, and one is the ends of storm types. Booty and Bounty sound alike, and four of the words are only half of a longer storm name. Below are two levels of hints for each color, then the full solution and an explanation of the tricky words in a marked spoiler section.
+**Today's Connections from The New York Times (NYT) is puzzle #1245, for Saturday, Nov. 7, 2026, edited by Wyna Liu.** All 16 entries are single words, and the groups run from yellow, the easiest, to purple, the trickiest. Booty and Bounty sound alike, and four of the words are only half of a longer storm name. Below are two levels of hints for each color, then the full solution and an explanation of the tricky words in a marked spoiler section.
 
 ## Today's 16 words
 
@@ -73,7 +73,7 @@ Sort the 16 entries into four groups of four. You can make four mistakes. The gr
 
 ## Solving tips
 
-Start with the state names. New, North, South and Rhode all open one, and Rhode is followed only by Island. Watch North, South and Easter: each hides a compass point, but only two belong with the states. Take the pirate words next, then the shirts. Leave purple for last. Four entries will be left, and each needs a few letters in front to become a storm.
+Start with the state names: two of the entries are compass points, and one entry can be followed by only one word to make a state. Watch the three entries that hide a compass point, because only two belong with the states. Take the pirate words next, then the shirts. Leave purple for last. Four entries will be left, and each needs a few letters in front to become a storm.
 
 Keep a streak log on our [printable weekly calendar](/printable-weekly-calendar.html) or the [November 2026 printable calendar](/november-calendars.html).
 
