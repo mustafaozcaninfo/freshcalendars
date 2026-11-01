@@ -4,7 +4,8 @@
  * lines that scripts/news-puzzle-check.mjs has matched against it, so a page cannot show a board
  * that disagrees with its own answers. Nothing depends on client JS (audit 02-NO-JS-CONTENT).
  *
- * - A shortcut bar under the first paragraph: skip to the answer, yesterday's page, the game's hub.
+ * - A shortcut bar under the first paragraph: skip to the answer, yesterday's page, the month's
+ *   roundup once it is live, the game's hub.
  * - Hints in "hints"/"clues" sections become tap-to-reveal <details>, so a glance does not spoil.
  *   Pips pages also get region-by-region hints at the end of that section: every region's rule,
  *   and one value per region behind a tap.
@@ -22,7 +23,7 @@
  */
 import { existsSync, readdirSync, readFileSync } from "node:fs";
 import path from "node:path";
-import { GAMES, PUZZLE_DIR, addDays, beeScore, loadPuzzle, pipsValues, puzzleOf, slugDate, weekday } from "./puzzles.mjs";
+import { GAMES, MONTHS, PUZZLE_DIR, addDays, beeScore, loadPuzzle, pipsValues, puzzleOf, slugDate, weekday } from "./puzzles.mjs";
 
 const ARTICLES = path.resolve(import.meta.dirname, "../content/articles");
 const SPOILER = /\bspoilers?\b/i;
@@ -173,13 +174,28 @@ function shortcuts(p, answer) {
   const now = Date.now();
   const live = [...allStories()].filter(([s, at]) => s.startsWith(`${g.prefix}-`) && at <= now).map(([s]) => s);
   const ySlug = live.find((s) => s === prefix || s.startsWith(`${prefix}-`));
+  const month = monthRoundup(g, p.date, now);
   const links = [
     answer && `<a class="pz-go" href="${answer}">Skip to the answer ↓</a>`,
     ySlug && `<a href="/news/${ySlug}/">Yesterday's ${esc(g.name)}</a>`,
+    month && `<a href="/news/${month}/">This month's answers</a>`,
     live.length >= HUB_MIN && `<a href="/news/topic/${g.hub}/">All ${esc(g.name)} answers</a>`,
   ].filter(Boolean);
   // A list, so the links read as navigation and stay out of the prose checks.
   return `<nav class="pz-nav" aria-label="${esc(g.name)} shortcuts"><ul>${links.map((a) => `<li>${a}</li>`).join("")}</ul></nav>`;
+}
+
+/**
+ * The live monthly roundup for the page's game and month, if there is one. Routine C names them
+ * `<hub>-answers-<month>-<year>` plus an optional word suffix ("-all-words"), so the hub slug
+ * finds them for every game; a daily page always has a day number after the month, so it never
+ * matches. Roundups go live on the month's last day, so earlier pages pick the link up on the
+ * next build.
+ */
+function monthRoundup(g, date, now) {
+  const [y, m] = date.split("-").map(Number);
+  const re = new RegExp(`^${g.hub}-answers-${MONTHS[m - 1]}-${y}(?:-[a-z][a-z0-9-]*)?$`);
+  return [...allStories()].find(([s, at]) => re.test(s) && at <= now)?.[0] ?? null;
 }
 
 /**

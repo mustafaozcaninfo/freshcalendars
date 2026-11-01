@@ -15,7 +15,7 @@ People arrive from "wordle hint today", "connections answers today", "pips answe
 
 1. **A nudge.** Graded hints, each behind a tap (`<details>`), so a glance does not give the game away. The build turns every `Label: text` list item in a hints or clues section into a tap-to-reveal hint, so keep that shape: `- **First letter:** T.` or `- Hint 1: ...`.
 2. **The answer.** A "Skip to the answer" button at the top jumps to the spoiler section. The answers sit in text there (crawlable), with the solved board drawn under them.
-3. **Yesterday's answer or the archive.** The shortcut bar links yesterday's page (only when it exists) and the game's hub (`/news/topic/<game>/`).
+3. **Yesterday's answer or the archive.** The shortcut bar links yesterday's page (only when it exists), the month's roundup (`<hub>-answers-<month>-<year>`, once it is live) and the game's hub (`/news/topic/<game>/`).
 
 The build adds the shortcut bar, the tap-to-reveal hints and the boards (`apps/news/src/lib/puzzle-boards.mjs`), all server-rendered with no client JavaScript:
 
