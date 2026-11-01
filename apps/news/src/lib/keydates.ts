@@ -12,6 +12,8 @@ export interface KeyDate {
 }
 
 export const KEY_DATES: KeyDate[] = [
+  { date: "2026-11-12", label: "Nations League Matchday 5 opens: England v Croatia at Wembley, 7.45pm UK (2:45 p.m. ET)", slug: "nations-league-november-2026-fixtures-kick-off-times-england-scotland-wales-ireland" },
+  { date: "2026-11-15", label: "Spain v England, Nations League, 7.45pm UK (2:45 p.m. ET)", slug: "nations-league-november-2026-fixtures-kick-off-times-england-scotland-wales-ireland" },
   { date: "2026-11-03", label: "Great British Bake Off: Free-From Party Week on Channel 4", slug: "great-british-bake-off-2026-free-from-week-tuesday-3-november-episode-schedule" },
   { date: "2026-11-03", label: "Godzilla Minus Zero IMAX Early Access in North America (Godzilla Day)", slug: "godzilla-minus-zero-release-date-imax-november-3-nationwide-november-6" },
   { date: "2026-11-02", label: "Powerball drawing, 10:59 p.m. ET; estimated jackpot $793 million as of Nov. 1", slug: "powerball-drawing-tonight-monday-november-2-2026-time-jackpot-793-million" },
