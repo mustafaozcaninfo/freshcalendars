@@ -1,10 +1,10 @@
 ---
-title: "Halloween 2026 Falls on a Saturday, Then Clocks Fall Back: Sunset and Dark Times for Trick-or-Treating by City"
-seoTitle: "Halloween 2026 on Saturday: Sunset and Dark by City"
-description: "Halloween 2026 is Saturday, Oct. 31, the first Saturday Halloween since 2020, and clocks fall back hours later. Sunset and dark times for 16 U.S. cities."
+title: "Halloween 2026 Fell on a Saturday, Then Clocks Fell Back: Sunset and Dark Times for Trick-or-Treating by City"
+seoTitle: "Halloween 2026 Was Saturday: Sunset and Dark by City"
+description: "Halloween 2026 was Saturday, Oct. 31, the first Saturday Halloween since 2020, and clocks fell back hours later. Sunset and dark times for 16 U.S. cities."
 type: news
 publishedAt: "2026-10-19T10:25:00-04:00"
-updatedAt: "2026-10-21T13:01:00-04:00"
+updatedAt: "2026-11-01T15:25:00-05:00"
 authors: [alex-morgan]
 category: holidays
 keywords: ["Halloween 2026", "Halloween 2026 Saturday", "trick or treat times 2026", "sunset on Halloween 2026", "Halloween daylight saving time 2026"]
@@ -15,23 +15,23 @@ hero:
   title: "Halloween 2026 is Saturday, Oct. 31, and clocks fall back hours later"
   caption: "Halloween 2026 falls on Saturday, Oct. 31. Clocks go back one hour at 2 a.m. Sunday, Nov. 1, so the night after trick-or-treating is 25 hours long."
 summary:
-  - "Halloween 2026 is Saturday, Oct. 31, the first Saturday Halloween since 2020 and the last until 2037."
-  - "Sunset that evening is 5:53 p.m. in New York, 5:46 p.m. in Chicago and 6:01 p.m. in Los Angeles; it is fully dark about 30 minutes later."
-  - "The Moon does not rise until about 11 p.m. in most cities, so trick-or-treat hours will be moonless."
-  - "Daylight saving time ends at 2 a.m. Sunday, Nov. 1, a few hours after Halloween night, giving most Americans an extra hour."
+  - "Halloween 2026 was Saturday, Oct. 31, the first Saturday Halloween since 2020 and the last until 2037."
+  - "Sunset that evening was 5:53 p.m. in New York, 5:46 p.m. in Chicago and 6:01 p.m. in Los Angeles; it was fully dark about 30 minutes later."
+  - "The Moon did not rise until about 11 p.m. in most cities, so trick-or-treat hours were moonless."
+  - "Daylight saving time ended at 2 a.m. Sunday, Nov. 1, a few hours after Halloween night, giving most Americans an extra hour."
 faq:
-  - q: "What day is Halloween 2026?"
-    a: "Saturday, Oct. 31, 2026. It is the first Halloween on a Saturday since 2020; the next one is in 2037."
-  - q: "What time is sunset on Halloween 2026?"
+  - q: "What day was Halloween 2026?"
+    a: "Saturday, Oct. 31, 2026. It was the first Halloween on a Saturday since 2020; the next one is in 2037."
+  - q: "What time was sunset on Halloween 2026?"
     a: "5:53 p.m. EDT in New York, 5:39 p.m. in Boston, 6:09 p.m. in Washington, 5:46 p.m. CDT in Chicago, 6:35 p.m. in Houston, 5:59 p.m. MDT in Denver, 5:37 p.m. MST in Phoenix and 6:01 p.m. PDT in Los Angeles, according to the U.S. Naval Observatory."
-  - q: "Do the clocks change on Halloween night 2026?"
-    a: "Not during trick-or-treating. Clocks fall back at 2 a.m. on Sunday, Nov. 1, long after most Halloween events end. At that moment 2 a.m. becomes 1 a.m., so the 1 a.m. hour happens twice."
-  - q: "What are trick-or-treat hours in 2026?"
-    a: "Hours are set by each city or town, not nationally, and most fall in the early evening. Check your local government's announcement. Our table shows when it gets dark in 16 cities."
+  - q: "Did the clocks change on Halloween night 2026?"
+    a: "Not during trick-or-treating. Clocks fell back at 2 a.m. on Sunday, Nov. 1, long after most Halloween events ended. At that moment 2 a.m. became 1 a.m., so the 1 a.m. hour happened twice."
+  - q: "What were trick-or-treat hours in 2026?"
+    a: "Hours were set by each city or town, not nationally, and most fell in the early evening. Our table shows when it got dark in 16 cities."
   - q: "Is Halloween a federal holiday?"
-    a: "No. Halloween is not one of the 11 federal holidays, and the Federal Reserve's bank holiday calendar does not include it. On Saturday, Oct. 31, 2026, mail delivery and bank hours follow the usual Saturday schedule."
-  - q: "Is there a full moon on Halloween 2026?"
-    a: "No. The full moon is Oct. 26. On Halloween the Moon is a waning gibbous, about 63% lit, and it rises around 11 p.m. in most U.S. cities."
+    a: "No. Halloween is not one of the 11 federal holidays, and the Federal Reserve's bank holiday calendar does not include it. On Saturday, Oct. 31, 2026, mail delivery and bank hours followed the usual Saturday schedule."
+  - q: "Was there a full moon on Halloween 2026?"
+    a: "No. The full moon was Oct. 26. On Halloween the Moon was a waning gibbous, about 63% lit, and it rose around 11 p.m. in most U.S. cities."
 sources:
   - title: "Federal Holidays"
     url: "https://www.opm.gov/policy-data-oversight/pay-leave/federal-holidays/"
@@ -68,7 +68,7 @@ downloads:
 draft: false
 ---
 
-**Halloween 2026 falls on Saturday, Oct. 31**, the first Saturday Halloween since 2020, and the clocks fall back a few hours later. Trick-or-treaters will head out under a moonless sky: the Moon does not rise until about 11 p.m. in most U.S. cities. Then, at 2 a.m. on Sunday, Nov. 1, daylight saving time ends and the clocks go back to 1 a.m., handing most of the country an extra hour after the parties.
+**Halloween 2026 fell on Saturday, Oct. 31**, the first Saturday Halloween since 2020, and the clocks fell back a few hours later. Trick-or-treaters headed out under a moonless sky: the Moon did not rise until about 11 p.m. in most U.S. cities. Then, at 2 a.m. on Sunday, Nov. 1, daylight saving time ended and the clocks went back to 1 a.m., handing most of the country an extra hour after the parties.
 
 ## Sunset and dark on Halloween 2026
 
@@ -93,30 +93,30 @@ draft: false
 | San Francisco, CA | 6:12 p.m. | 6:39 p.m. | 11:31 p.m. |
 | Los Angeles, CA | 6:01 p.m. | 6:27 p.m. | 11:24 p.m. |
 
-In the East and Midwest it is fully dark by about 6:30 p.m., so younger children who trick-or-treat at dusk have barely half an hour of daylight left after sunset. In Atlanta, Miami and Texas it stays light until nearly 7 p.m.
+In the East and Midwest it was fully dark by about 6:30 p.m., so younger children who went out at dusk had barely half an hour of light left after sunset. In Atlanta, Miami and Texas it stayed light until nearly 7 p.m.
 
 ## A Saturday Halloween, and when the next one is
 
-Weekday Halloweens squeeze trick-or-treating between school, work and bedtime. A Saturday frees up the afternoon and the next morning. The last Saturday Halloween was in 2020; after this year the next is in 2037, because the calendar's weekday pattern skips Saturday for a decade.
+Weekday Halloweens squeeze trick-or-treating between school, work and bedtime. A Saturday frees up the afternoon and the next morning. Before 2026 the last Saturday Halloween was in 2020; the next is in 2037, because the calendar's weekday pattern skips Saturday for a decade.
 
-Trick-or-treat hours are set locally. Many cities and towns post official times on their websites or social media in the week before Halloween; check yours. Some communities hold trunk-or-treat events in parking lots, often in the afternoon or early evening.
+Trick-or-treat hours are set locally. Many cities and towns post official times on their websites or social media in the week before Halloween. Some communities hold trunk-or-treat events in parking lots, often in the afternoon or early evening.
 
 ## The extra hour comes after Halloween
 
-Nothing changes on the clock during trick-or-treating. The switch happens at 2 a.m. on Sunday, Nov. 1, when clocks go back to 1 a.m. and standard time returns, according to the National Institute of Standards and Technology. For anyone still up, the 1 a.m. hour happens twice, and Sunday is 25 hours long.
+Nothing changed on the clock during trick-or-treating. The switch came at 2 a.m. on Sunday, Nov. 1, when clocks went back to 1 a.m. and standard time returned, according to the National Institute of Standards and Technology. For anyone still up, the 1 a.m. hour happened twice, and Sunday was 25 hours long.
 
 Most phones change on their own; oven and car clocks may not. Hawaii and most of Arizona do not observe daylight saving time. Our [daylight saving time report](/news/daylight-saving-time-ends-november-1-2026/) covers the switch, and the [when does daylight saving time end](/when-is/daylight-savings/) page lists future dates.
 
 ## The Moon on Halloween
 
-The Hunter's Moon is full on Oct. 26, five days earlier, so on Halloween night the Moon is a waning gibbous, about 63% lit. It rises late, around 11 p.m. in most cities, which makes the trick-or-treat hours unusually dark. Reflective tape, glow sticks or a small flashlight help drivers see children.
+The Hunter's Moon was full on Oct. 26, five days earlier, so on Halloween night the Moon was a waning gibbous, about 63% lit. It rose late, around 11 p.m. in most cities, which made the trick-or-treat hours unusually dark. Reflective tape, glow sticks or a small flashlight help drivers see children.
 
 ## Is Halloween a holiday? What is open
 
-Halloween is not a federal holiday, so nothing closes for it. The 11 federal holidays are set by law and listed by the Office of Personnel Management; the Federal Reserve's holiday calendar, which banks follow, does not include Oct. 31 either. In 2026 Halloween is a Saturday, so the usual Saturday schedule applies: the Postal Service delivers mail and banks keep their Saturday hours. Stores set their own hours, so check your local store if you are shopping late. The stock market is closed, as on every Saturday. If you plan to stay up for World Series Game 7, it would start at 8 p.m. Eastern Time (ET) that night if the series goes the distance; see the [World Series 2026 schedule](/news/world-series-2026-schedule-game-times-tv-channel/).
+Halloween is not a federal holiday, so nothing closes for it. The 11 federal holidays are set by law and listed by the Office of Personnel Management; the Federal Reserve's holiday calendar, which banks follow, does not include Oct. 31 either. In 2026 Halloween was a Saturday, so the usual Saturday schedule applied: the Postal Service delivered mail and banks kept their Saturday hours. The stock market was closed, as on every Saturday. A possible World Series Game 7 had been set for that night, but the Milwaukee Brewers won the series in five games on Oct. 28; see the [World Series 2026 results](/news/world-series-2026-schedule-game-times-tv-channel/).
 
 ## What follows Halloween
 
-Halloween weekend runs straight into Día de los Muertos on Nov. 1 and 2; our [Day of the Dead 2026 guide](/news/day-of-the-dead-2026-dia-de-los-muertos-dates/) has the dates and traditions. Election Day follows on Tuesday, Nov. 3. For the date of Halloween in other years, see [when is Halloween](/when-is/halloween/), and plan the week on an [October 2026 calendar](/october-calendars.html). The free printable below lists sunset, dark and moonrise for all 16 cities with room to plan your route. Hosting at home instead? Our [witches' brew punch recipe](/news/halloween-party-ideas-2026-witches-brew-punch/) is nonalcoholic and keeps the dry ice out of the drink.
+Halloween weekend ran straight into Día de los Muertos on Nov. 1 and 2; our [Day of the Dead 2026 guide](/news/day-of-the-dead-2026-dia-de-los-muertos-dates/) has the dates and traditions. Election Day follows on Tuesday, Nov. 3. For the date of Halloween in other years, see [when is Halloween](/when-is/halloween/), and plan the coming weeks on a [November 2026 calendar](/november-calendars.html). The free printable below lists sunset, dark and moonrise for all 16 cities with room to plan your route. Hosting at home instead? Our [witches' brew punch recipe](/news/halloween-party-ideas-2026-witches-brew-punch/) is nonalcoholic and keeps the dry ice out of the drink.
 
-Trick-or-treat hours are set town by town; our story on [what time trick-or-treating starts](/news/halloween-2026-what-day-trick-or-treating-start/) lists published schedules. For everything else on the calendar this week, see [what day it is on Oct. 20](/news/october-20-2026-what-day-holidays-observances/).
+Trick-or-treat hours are set town by town; our story on [what time trick-or-treating starts](/news/halloween-2026-what-day-trick-or-treating-start/) lists published schedules. For other dates that week, see [what day it was on Oct. 20](/news/october-20-2026-what-day-holidays-observances/).
