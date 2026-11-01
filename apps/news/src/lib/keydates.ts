@@ -12,6 +12,7 @@ export interface KeyDate {
 }
 
 export const KEY_DATES: KeyDate[] = [
+  { date: "2026-11-02", label: "Powerball drawing, 10:59 p.m. ET; estimated jackpot $793 million as of Nov. 1", slug: "powerball-drawing-tonight-monday-november-2-2026-time-jackpot-793-million" },
   { date: "2026-11-14", label: "UFC 334 at Madison Square Garden, main card 9 p.m. ET on Paramount+", slug: "ufc-334-madison-square-garden-november-14-start-time-gane-hokit-ufc-schedule" },
   { date: "2026-12-12", label: "UFC 335: Oliveira vs. Lopes, main card 9 p.m. ET", slug: "ufc-334-madison-square-garden-november-14-start-time-gane-hokit-ufc-schedule" },
   { date: "2026-11-02", label: "15 NBA games; Thunder at Cavaliers tips at 7 p.m. ET on Peacock", slug: "nba-games-today-november-2-2026" },
