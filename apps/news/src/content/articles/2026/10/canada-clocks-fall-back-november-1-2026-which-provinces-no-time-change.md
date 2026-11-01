@@ -1,9 +1,10 @@
 ---
-title: "Canada Clocks Fall Back Nov. 1, 2026: Which Provinces Do Not Change Time"
+title: "Canada Clocks Fell Back Nov. 1, 2026: Which Provinces Did Not Change Time"
 seoTitle: "Canada Clock Change Nov. 1, 2026: Which Provinces Skip It"
-description: "Clocks go back at 2 a.m. Sunday, Nov. 1, 2026, in Ontario, Quebec and Atlantic Canada; British Columbia, Alberta, Saskatchewan and Manitoba stay put."
+description: "Clocks went back at 2 a.m. Sunday, Nov. 1, 2026, in Ontario, Quebec and Atlantic Canada; British Columbia, Alberta, Saskatchewan and Manitoba stayed put."
 type: news
 publishedAt: "2026-10-28T07:45:00-04:00"
+updatedAt: "2026-11-01T15:30:00-05:00"
 authors: [alex-morgan]
 category: uk-canada
 keywords: ["do clocks go back in Canada 2026", "changement d'heure 2026", "which provinces don't change clocks", "Manitoba Alberta BC time change 2026", "Canada time change November 1 2026"]
@@ -67,17 +68,17 @@ downloads:
     png: "/news/downloads/canada-time-2026/canada-clock-changes-nov-1-2026-ink.png"
     pages: 1
 summary:
-  - "Clocks go back one hour at 2 a.m. local time on Sunday, Nov. 1, 2026, in Ontario's Eastern Time zone, Quebec and the Atlantic provinces; no change has been announced there."
-  - "British Columbia, Alberta, Manitoba and the Northwest Territories skip the fall change, and Saskatchewan and Yukon already keep one time all year."
+  - "Clocks went back one hour at 2 a.m. local time on Sunday, Nov. 1, 2026, in Ontario's Eastern Time zone, Quebec and the Atlantic provinces, where no end to the clock change has been announced."
+  - "British Columbia, Alberta, Manitoba and the Northwest Territories skipped the fall change, and Saskatchewan and Yukon already keep one time all year."
   - "This winter Winnipeg is on the same time as Toronto, Calgary is on Chicago time and Vancouver is one hour ahead of Seattle."
   - "Regions that still change clocks go forward next on Sunday, March 14, 2027."
 faq:
-  - q: "Does Toronto change its clocks on Nov. 1, 2026?"
-    a: "Yes. Ontario has announced no change for the Eastern Time zone, so Toronto clocks go back one hour at 2 a.m. on Sunday, Nov. 1, 2026, to Eastern Standard Time (EST), which is UTC-5."
+  - q: "Did Toronto change its clocks on Nov. 1, 2026?"
+    a: "Yes. Ontario has announced no change for the Eastern Time zone, so Toronto clocks went back one hour at 2 a.m. on Sunday, Nov. 1, 2026, to Eastern Standard Time (EST), which is UTC-5."
   - q: "Is Winnipeg on the same time as Toronto this winter?"
-    a: "Yes, from Nov. 1. Manitoba stays on daylight time at UTC-5, and Toronto returns to Eastern Standard Time at UTC-5. Until Oct. 31, Winnipeg is one hour behind Toronto."
-  - q: "Will my phone update?"
-    a: "The Northwest Territories government says some older devices and computers running Windows will need a manual update for its new time. Check that your device shows the right time on Nov. 1."
+    a: "Yes, from Nov. 1. Manitoba stays on daylight time at UTC-5, and Toronto returns to Eastern Standard Time at UTC-5. Until Oct. 31, Winnipeg was one hour behind Toronto."
+  - q: "Why does my phone show the wrong time?"
+    a: "The Northwest Territories government says some older devices and computers running Windows need a manual update for its new time. Check that your device shows the right offset for your province."
   - q: "When do clocks go forward in 2027?"
     a: "In regions that still change clocks, on Sunday, March 14, 2027, the second Sunday in March."
   - q: "What about my community in eastern British Columbia or northwestern Ontario?"
@@ -116,11 +117,11 @@ related: [daylight-saving-time-ends-november-1-2026, uk-europe-clocks-go-back-oc
 draft: false
 ---
 
-Clocks go back one hour at 2 a.m. local time on **Sunday, Nov. 1, 2026**, in Ontario's Eastern Time zone, Quebec and Atlantic Canada, but British Columbia (BC), Alberta, Saskatchewan, Manitoba, Yukon and the Northwest Territories (NWT) will not change, according to their governments. For BC, Alberta, Manitoba and the NWT it is the first fall in which the change does not happen. Our table below lists every province and territory, and a second table shows what that does to the time differences across Canada this winter.
+Clocks went back one hour at 2 a.m. local time on **Sunday, Nov. 1, 2026**, in Ontario's Eastern Time zone, Quebec and Atlantic Canada, but British Columbia (BC), Alberta, Saskatchewan, Manitoba, Yukon and the Northwest Territories (NWT) did not change, according to their governments. For BC, Alberta, Manitoba and the NWT it was the first fall without the change. Our table below lists every province and territory, and a second table shows what that does to the time differences across Canada this winter.
 
 A one-page [printable list of the Nov. 1 changes](/news/downloads/canada-time-2026/canada-clock-changes-nov-1-2026.pdf) is on this page for the fridge or the office wall.
 
-## Which provinces change clocks on Nov. 1, 2026?
+## Which provinces changed clocks on Nov. 1, 2026?
 
 Times are given in Coordinated Universal Time (UTC) offsets, so a reader can compare any two places. "UTC-7" means seven hours behind UTC.
 
@@ -139,7 +140,7 @@ Times are given in Coordinated Universal Time (UTC) offsets, so a reader can com
 | Newfoundland and Labrador | Yes, 2 a.m. | Newfoundland Standard Time (Labrador mostly Atlantic Standard Time, UTC-4) | UTC-3:30 | No change announced |
 | Nunavut | Yes, in most of the territory | Three zones, including Eastern Standard Time and Central Standard Time | Varies | No change announced |
 
-Where the last column says "No change announced", the provincial governments have said nothing about ending the clock change, so clocks go back as usual.
+Where the last column says "No change announced", the provincial governments have said nothing about ending the clock change, so clocks went back as usual.
 
 ## What each government says
 
@@ -159,11 +160,11 @@ Where the last column says "No change announced", the provincial governments hav
 
 The BC release says mountain-time communities in eastern BC "will not be affected by these changes." Dawson Creek observes Mountain Standard Time (MST) year-round and will share the time of most of BC in winter and summer. Cranbrook, which switches between standard and daylight time, was described as aligned with the rest of the province in winter. Because Alberta itself is moving to UTC-6 all year, communities on mountain time in eastern BC should check with their municipality.
 
-In northwestern Ontario, the Canadian Press reported on Oct. 13, 2026, that the Ontario government said it intends to keep communities that follow Central Time, such as Kenora, on daylight time to stay aligned with Manitoba, with changes in place by Nov. 1. We could not find Ontario's own announcement, so treat this as reported and check with your municipality. Ontario has announced no change for the Eastern Time zone, so Toronto still goes back.
+In northwestern Ontario, the Canadian Press reported on Oct. 13, 2026, that the Ontario government said it intends to keep communities that follow Central Time, such as Kenora, on daylight time to stay aligned with Manitoba, with changes in place by Nov. 1. We could not find Ontario's own announcement, so treat this as reported and check with your municipality. Ontario has announced no change for the Eastern Time zone, so Toronto still went back.
 
 ## How big is the time difference across Canada this winter?
 
-The gaps change on Nov. 1 because some places move and others do not. This table compares each city with Toronto, which is on Eastern Daylight Time (UTC-4) until Oct. 31 and Eastern Standard Time (UTC-5) after. U.S. clocks also go back at 2 a.m. local time on Nov. 1, as our [report on the U.S. change](/news/daylight-saving-time-ends-november-1-2026/) explains.
+The gaps changed on Nov. 1 because some places moved and others did not. This table compares each city with Toronto, which was on Eastern Daylight Time (UTC-4) until Oct. 31 and is on Eastern Standard Time (UTC-5) now. U.S. clocks also went back at 2 a.m. local time on Nov. 1, as our [report on the U.S. change](/news/daylight-saving-time-ends-november-1-2026/) explains.
 
 | City | UTC offset from Nov. 1 | Behind or ahead of Toronto until Oct. 31 | Behind or ahead of Toronto from Nov. 1 | Same time as, this winter |
 |---|---|---|---|---|
@@ -181,9 +182,9 @@ Computed from the offsets above. Vancouver at UTC-7 is one hour ahead of Seattle
 
 For regions that still change clocks, the next change is on **Sunday, March 14, 2027**, the second Sunday in March. Our [daylight saving time guide](/when-is/daylight-savings/) has the U.S. dates, and the [2027 clock change story](/news/clock-changes-2027-when-does-daylight-saving-time-start-again-march-14/) covers the spring change. In Europe, clocks went back a week earlier; see [how the UK and Europe time difference shifts](/news/uk-europe-clocks-go-back-october-25-2026-time-difference/).
 
-## Quick checklist for Nov. 1
+## Checklist after the Nov. 1 change
 
 - Check the row for your province in the table, or print the [list of Canadian clock changes](/news/downloads/canada-time-2026/canada-clock-changes-nov-1-2026.pdf).
 - If you schedule calls with the East or the United States, recheck the gap in the second table.
-- On devices in the NWT, the territorial government says some older devices and computers running Windows will need a manual update.
+- On devices in the NWT, the territorial government says some older devices and computers running Windows need a manual update.
 - Mark Nov. 1 on a [November 2026 printable calendar](/november-calendars.html); Canadian statutory days are on our [Canada holidays calendar](/canada-holidays/).

@@ -1,9 +1,10 @@
 ---
-title: "New Laws Taking Effect November 1, 2026: Oklahoma Collision Reports, Taxes and More"
-seoTitle: "New Laws Taking Effect Nov. 1, 2026: Oklahoma and More"
-description: "Oklahoma has most of the laws that take effect Sunday, Nov. 1, 2026, per state agency pages. Table of 13 laws, the collision report change and a printable."
+title: "New Laws in Effect November 1, 2026: Oklahoma Collision Reports, Taxes and More"
+seoTitle: "New Laws in Effect Nov. 1, 2026: Oklahoma and More"
+description: "Oklahoma has most of the laws that took effect Sunday, Nov. 1, 2026, per state agency pages. Table of 13 laws, the collision report change and a printable."
 type: news
 publishedAt: "2026-10-31T15:45:00-04:00"
+updatedAt: "2026-11-01T15:20:00-05:00"
 authors: [alex-morgan]
 category: planning
 keywords: ["new laws november 1 2026", "new oklahoma laws november 1 2026", "laws taking effect november 1", "oklahoma collision report 3000"]
@@ -18,12 +19,12 @@ hero:
     source: "https://commons.wikimedia.org/wiki/File:Oklahoma_State_Capitol,_Lincoln_Boulevard,_Oklahoma_City,_OK_-_54011108113.jpg"
     author: "w_lemay"
 summary:
-  - "Laws take effect tomorrow, Sunday, Nov. 1, 2026, and Oklahoma has most of the ones confirmed on official pages: 11 of the 13 in the table below."
+  - "New laws took effect on Sunday, Nov. 1, 2026, and Oklahoma has most of the ones confirmed on official pages: 11 of the 13 in the table below."
   - "Oklahoma HB 4143 raises the property-damage threshold for a written collision report from $300 to $3,000 for collisions not settled within six months, per the Oklahoma Insurance Department."
   - "The list covers only laws confirmed on official pages, not every law taking effect; News 9 reported that Oklahoma alone has more than 230 laws taking effect on Nov. 1."
   - "Outside Oklahoma, the table has a Code of Virginia section on hemp sales and the U.S. Sentencing Commission's 2026 guideline amendments."
 faq:
-  - q: "Which laws take effect on Nov. 1, 2026?"
+  - q: "Which laws took effect on Nov. 1, 2026?"
     a: "This story lists 13 confirmed on official pages: 11 in Oklahoma, one in Virginia and the federal sentencing guideline amendments. Many other laws share the date and are not covered here."
   - q: "What day of the week is Nov. 1, 2026?"
     a: "Nov. 1, 2026 is a Sunday."
@@ -115,9 +116,9 @@ assets:
     alt: "Printable list of new laws taking effect November 1, 2026"
 ---
 
-**Laws take effect tomorrow, Sunday, Nov. 1, 2026, and Oklahoma has most of the ones confirmed on official pages, including HB 4143 on collision reports, according to the Oklahoma Insurance Department, the Oklahoma Tax Commission (OTC) and the Oklahoma Medical Marijuana Authority (OMMA).** This story lists 13 with that date: 11 in Oklahoma, one in Virginia and the federal sentencing guideline amendments. It covers only laws confirmed on official pages, so it is not every law taking effect. News 9 reported that Oklahoma alone has more than 230 laws taking effect on Nov. 1. Mark the day on a [November 2026 printable calendar](/november-calendars.html).
+**New laws took effect on Sunday, Nov. 1, 2026, and Oklahoma has most of the ones confirmed on official pages, including HB 4143 on collision reports, according to the Oklahoma Insurance Department, the Oklahoma Tax Commission (OTC) and the Oklahoma Medical Marijuana Authority (OMMA).** This story lists 13 with that date: 11 in Oklahoma, one in Virginia and the federal sentencing guideline amendments. It covers only laws confirmed on official pages, so it is not every law taking effect. News 9 reported that Oklahoma alone has more than 230 laws taking effect on Nov. 1. Mark the day on a [November 2026 printable calendar](/november-calendars.html).
 
-## Which laws take effect November 1, 2026?
+## Which laws took effect November 1, 2026?
 
 Each row gives the bill, what changes and the official page. Every row carries the Nov. 1, 2026 date on that page, except Virginia, where the Code lists a version of the section effective that day.
 
@@ -157,9 +158,9 @@ The OTC's "Summary of 2026 Tax Legislation" lists five bills as effective Nov. 1
 
 ## What are the new Oklahoma rules for marijuana edibles and drinks?
 
-OMMA's clarification on HB 4454, posted Oct. 12, 2026, says products must label THC servings and milligrams per serving. It adds that "Beginning on Nov. 1," transferring products to a dispensary that do not comply is not allowed, and that "OMMA will begin enforcing the new law on Nov. 1, 2026." Processors and dispensaries should read the full notice.
+OMMA's clarification on HB 4454, posted Oct. 12, 2026, says products must label THC servings and milligrams per serving. It adds that "Beginning on Nov. 1," transferring products to a dispensary that do not comply is not allowed, and that "OMMA will begin enforcing the new law on Nov. 1, 2026." Enforcement began that Sunday. Processors and dispensaries should read the full notice.
 
-## Which laws outside Oklahoma start November 1, 2026?
+## Which laws outside Oklahoma started November 1, 2026?
 
 The Code of Virginia lists a version of § 8.01-216.3, "False claims; civil penalty," effective Nov. 1, 2026. It adds a subdivision covering sales of intoxicating hemp products above 0.3% THC or more than 2 mg THC per package. At the federal level, the U.S. Sentencing Commission specified an effective date of Nov. 1, 2026 for the amendments it submitted to Congress on April 30, 2026. The Federal Register published them as "Sentencing Guidelines for United States Courts" on May 4, 2026.
 
