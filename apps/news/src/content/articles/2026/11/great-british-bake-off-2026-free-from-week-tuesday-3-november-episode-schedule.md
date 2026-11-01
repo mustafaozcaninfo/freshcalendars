@@ -63,7 +63,7 @@ internalLinks:
     label: "November 2026 printable calendar"
   - href: "/december-calendars.html"
     label: "December 2026 printable calendar"
-related: [strictly-come-dancing-2026-halloween-week-saturday-31-october-blackpool-21-november, new-netflix-shows-november-2026-black-doves-empress-hunting-wives, children-in-need-2026-date-friday-13-november-appeal-night]
+related: [strictly-come-dancing-2026-halloween-week-saturday-31-october-blackpool-21-november, blue-planet-iii-start-time-tonight-bbc-one-episode-guide-dates, children-in-need-2026-date-friday-13-november-appeal-night]
 downloads:
   - group: "Bake Off 2026 Viewing Tracker printables"
     title: "Bake Off 2026 Viewing Tracker"

@@ -12,6 +12,8 @@ export interface KeyDate {
 }
 
 export const KEY_DATES: KeyDate[] = [
+  { date: "2026-11-01", label: "Blue Planet III episode 1, Tropical Seas, BBC One 8pm GMT (3 p.m. ET)", slug: "blue-planet-iii-start-time-tonight-bbc-one-episode-guide-dates" },
+  { date: "2026-11-08", label: "Blue Planet III episode 2, Open Ocean, BBC One 8pm GMT (3 p.m. ET)", slug: "blue-planet-iii-start-time-tonight-bbc-one-episode-guide-dates" },
   { date: "2026-12-29", label: "Latest Vancouver sunrise of the winter, 9:08 a.m. Pacific time (through Jan. 3)", slug: "bc-sunrise-times-winter-2026-27-vancouver-no-fall-back-pacific-time" },
   { date: "2027-02-27", label: "Vancouver sunrise back before 8 a.m. (7:59 a.m.)", slug: "bc-sunrise-times-winter-2026-27-vancouver-no-fall-back-pacific-time" },
   { date: "2026-11-05", label: "Target Early Black Friday deals run Nov. 5-7", slug: "target-black-friday-2026-early-sale-november-5-7-price-match-dates" },
