@@ -66,7 +66,7 @@ internalLinks:
     label: "November 2026 printable calendar"
   - href: "/printable-weekly-calendar.html"
     label: "Printable weekly calendar"
-related: [nhl-games-today-november-1-2026, nba-games-today-november-2-2026, toronto-maple-leafs-schedule-november-2026-game-times-tv-printable]
+related: [nhl-games-today-november-1-2026, nba-games-today-november-2-2026, sports-on-tv-today-november-2-2026]
 downloads:
   - group: "NHL Monday Nov. 2 printables"
     title: "NHL Monday Nov. 2, 2026 Watch Sheet"
