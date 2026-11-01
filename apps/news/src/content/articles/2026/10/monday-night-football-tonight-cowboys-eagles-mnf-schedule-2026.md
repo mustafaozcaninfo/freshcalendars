@@ -1,10 +1,10 @@
 ---
-title: "Monday Night Football: Cowboys Beat Eagles 38-21; Bears at Seahawks Next on Nov. 2"
-seoTitle: "Monday Night Football: Cowboys Beat Eagles 38-21"
-description: "Monday Night Football: the Dallas Cowboys beat the Philadelphia Eagles 38-21 on Oct. 26, 2026. Bears at Seahawks is next on Mon., Nov. 2, at 8:15 p.m. Eastern."
+title: "Monday Night Football: Bears at Seahawks Nov. 2, 8:15 p.m. ET on ESPN, and MNF Schedule"
+seoTitle: "Monday Night Football: Bears at Seahawks, Nov. 2"
+description: "Monday Night Football is the Chicago Bears (5-2) at the Seattle Seahawks (4-3) on Mon., Nov. 2, 2026, at 8:15 p.m. Eastern Time (ET) on ESPN, per NFL.com."
 type: news
 publishedAt: "2026-10-25T14:15:00-04:00"
-updatedAt: "2026-10-27T03:05:00-04:00"
+updatedAt: "2026-11-01T17:05:00-05:00"
 authors: [jordan-bennett]
 category: sports
 keywords: ["Monday Night Football", "Cowboys vs Eagles score", "MNF schedule 2026", "what channel is Monday Night Football"]
@@ -63,6 +63,20 @@ faq:
   - q: "Is there a Monday Night Football game in Week 18?"
     a: "No. NFL.com lists Saturday and Sunday games for Week 18."
 sources:
+  - title: "2026 NFL Division Standings"
+    url: "https://www.nfl.com/standings/"
+    publisher: "NFL.com"
+    date: "2026-11-01"
+  - title: "NFL Schedules: Week 8, 2026"
+    url: "https://www.nfl.com/schedules/2026/REG8/"
+    publisher: "NFL.com"
+    date: "2026-11-01"
+  - title: "Chicago Bears Schedule"
+    url: "https://www.chicagobears.com/schedule"
+    publisher: "Chicago Bears"
+  - title: "Seahawks Schedule"
+    url: "https://www.seahawks.com/schedule"
+    publisher: "Seattle Seahawks"
   - title: "Week 7 Dallas Cowboys vs Philadelphia Eagles Oct 26 2026 game boxscore"
     url: "https://www.foxsports.com/nfl/week-7-dallas-cowboys-vs-philadelphia-eagles-oct-26-2026-game-boxscore-11249"
     publisher: "FOX Sports"
@@ -110,9 +124,11 @@ downloads:
 draft: false
 ---
 
-<p class="callout"><b>Last updated Tue. Oct. 27, 2026, 3:05 a.m. ET.</b> The Dallas Cowboys beat the Philadelphia Eagles 38-21 on Monday night. This story now carries the final score and turns to the next Monday night game, Bears at Seahawks on Nov. 2.</p>
+<p class="callout">Bears at Seahawks is the Monday night game on Nov. 2. The Bears enter at 5-2 and the Seahawks at 4-3, per NFL.com standings. The Cowboys, who won the last Monday game, lost 33-30 to the Arizona Cardinals on Sunday, Nov. 1, per NFL.com.</p>
 
-**The Dallas Cowboys beat the Philadelphia Eagles 38-21 on Monday Night Football (MNF) on Mon., Oct. 26, 2026, according to the FOX Sports box score.** The next Monday night game is the Chicago Bears at the Seattle Seahawks on Mon., Nov. 2, 2026, at 8:15 p.m. Eastern Time (ET) on ESPN, per the National Football League (NFL) schedule on NFL.com.
+**Monday Night Football (MNF) on Mon., Nov. 2, 2026, is the Chicago Bears (5-2) at the Seattle Seahawks (4-3) at Lumen Field in Seattle, at 8:15 p.m. Eastern Time (ET) on ESPN, per the National Football League (NFL) schedule and standings on NFL.com.** The Bears list it at 7:15 p.m. Central and the Seahawks at 5:15 p.m. Pacific on their team schedules.
+
+The previous Monday game ended with the Dallas Cowboys beating the Philadelphia Eagles 38-21 on Oct. 26, according to the FOX Sports box score. The Cowboys then lost 33-30 to the Arizona Cardinals at home on Sunday, Nov. 1, per NFL.com, and play next at the Indianapolis Colts on Sun., Nov. 8, at 1 p.m. ET on FOX.
 
 ESPN's game page headlined the result "Cowboys bounce back, take down Eagles on MNF." This page has the kickoff for the Nov. 2 game in every U.S. time zone, the channel, and the full list of the remaining dated Monday games. A one-page printable of that list is further down.
 
