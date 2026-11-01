@@ -34,7 +34,7 @@ Routine D (`docs/PUZZLE-ROUTINES.md`) takes one item from this list per run, hig
 - [ ] **bee-ranks** [content] (blocked: no NYT page with the rank names and percentages could be read; help.nytimes.com and the game page refuse automated requests, and no two newsrooms print the ladder (only fan and gaming sites, which disagree on Genius), 2026-10-31) Evergreen explainer: how Spelling Bee points, ranks and Genius work.
   Only if NYT publishes the rank names and percentages on a page we can read (Help Center or the game's rules); otherwise hold the item and note why. Points rules (1 point for a four-letter word, one per letter above that, +7 per pangram) and Genius at 70% are already in `docs/PUZZLES.md`. A worked example table from one saved day (`apps/news/src/content/puzzles/bee/`). Link the daily Spelling Bee pages and the tracker.
 
-- [ ] **letterboxed-roundup-link** [code] Letter Boxed hub and daily pages link the month's roundup once it is live.
+- [ ] **letterboxed-roundup-link** [code] (blocked: the shortcut bar lives in `apps/news/src/lib/puzzle-boards.mjs` and the hub in `apps/news/src/pages/topic/[topic]/index.astro`, which open pull requests #149, #159, #162, #165, #171 and #177 change; wait until they are merged or closed, 2026-11-01) Letter Boxed hub and daily pages link the month's roundup once it is live.
   The shortcut bar (`shortcuts` in `puzzle-boards.mjs`) gets "This month's answers" when a live `<game>-answers-<month>-<year>` story exists for that game and month, for every game that has roundups. Check by building and following the link.
 
 - [x] **puzzle-hub-table** [code] (done 2026-10-31) Game hubs show a date, number and link table of every page.
