@@ -1,6 +1,7 @@
 name: Calendar site
 
-# The calendar pages (packages/generator, dist/site) on the schedule the VPS crontab had, in UTC:
+# The calendar pages (packages/generator, dist/site). The Worker's cron trigger starts each job at
+# the time the VPS crontab used (cloudflare/cron.js; GitHub's own schedule skips too many runs), UTC:
 #   05:25 daily          refresh-meta   pages only: Today card, when-is dates, this week (01:25 ET)
 #   06:30 on the 1st     refresh        PNG/PDF printables for the new month (not in January)
 #   08:45 on Sep 1       generate-next  next year's printables
@@ -9,12 +10,6 @@ name: Calendar site
 # Printables go to R2 (cdn.freshcalendars.com); pages are published by deploy.yml with the
 # deployed /news/. A failed run emails the owner through GitHub's workflow notifications.
 on:
-  schedule:
-    - cron: "25 5 * * *"
-    - cron: "30 6 1 2-12 *"
-    - cron: "45 8 1 9 *"
-    - cron: "30 6 1 1 *"
-    - cron: "15 7 * * 1"
   workflow_dispatch:
     inputs:
       job:
@@ -28,16 +23,12 @@ concurrency:
   cancel-in-progress: false
 
 env:
-  JOB: >-
-    ${{ inputs.job || (github.event.schedule == '30 6 1 2-12 *' && 'refresh')
-      || (github.event.schedule == '45 8 1 9 *' && 'generate-next')
-      || (github.event.schedule == '30 6 1 1 *' && 'rollover')
-      || (github.event.schedule == '15 7 * * 1' && 'health') || 'refresh-meta' }}
+  JOB: ${{ inputs.job }}
   SITE_BASE: ${{ vars.SITE_BASE || 'https://freshcalendars.com' }}
 
 jobs:
   build:
-    if: inputs.job != 'health' && github.event.schedule != '15 7 * * 1'
+    if: inputs.job != 'health'
     runs-on: ubuntu-24.04
     timeout-minutes: 90
     env:
@@ -107,7 +98,7 @@ jobs:
         run: SMOKE_BASE="$SITE_BASE" pnpm exec tsx scripts/smoke-automation.mjs
 
   health:
-    if: github.event.schedule == '15 7 * * 1' || inputs.job == 'health'
+    if: inputs.job == 'health'
     runs-on: ubuntu-24.04
     timeout-minutes: 15
     env:

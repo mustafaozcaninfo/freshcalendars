@@ -21,14 +21,20 @@ The deploy holds about 1,400 files (limit 20,000) because images and printables 
 | Trigger | Workflow | What it does |
 |---|---|---|
 | Push to `main` | `ci.yml` | tests, puzzle check, `/news/` build with `NEWS_ASSETS_PREFIX=https://cdn.freshcalendars.com/news`, `news:verify`, `news:seo-audit`; when all are green: new images to R2, then `deploy.yml` |
-| Every 5 min (GitHub runs it late or skips it) | `scheduled.yml` | a story whose `publishedAt` passed since the last build: rebuild the deployed commit and deploy; when none is due but one is due within 5.5 h, the run waits for it on the runner, so it goes live about 5 min after its time |
-| 05:25 UTC daily, 06:30 UTC on the 1st (Feb–Dec), Sep 1 08:45, Jan 1 06:30 | `calendar.yml` | `refresh-meta`, `refresh-evergreen`, `gen --year next`, `rollover`; changed printables to R2 (and purged on the CDN), then `deploy.yml` and a smoke test |
-| Mondays 07:15 UTC | `calendar.yml` (health) | live smoke test, `/news/` sitemaps, daily job freshness |
+| When a story's `publishedAt` comes (Worker cron, every 5 min; GitHub hourly as a backup) | `scheduled.yml` | a story whose `publishedAt` passed since the last build: rebuild the deployed commit and deploy, so it goes live about 5-10 min after its time |
+| 05:25 UTC daily, 06:30 UTC on the 1st (Feb–Dec), Sep 1 08:45, Jan 1 06:30 (Worker cron) | `calendar.yml` | `refresh-meta`, `refresh-evergreen`, `gen --year next`, `rollover`; changed printables to R2 (and purged on the CDN), then `deploy.yml` and a smoke test |
+| Mondays 07:15 UTC (Worker cron) | `calendar.yml` (health) | live smoke test, `/news/` sitemaps, daily job freshness |
 | any of the above | `deploy.yml` | one at a time (`concurrency: production`): printables synced to R2, `assemble.mjs`, `wrangler deploy`, IndexNow and AnindaIndex for new or updated stories |
 
 A deploy ships both halves of the site; the half its caller did not build comes from the last deploy
 (`freshcalendars-state`). A `/news/` build of an older commit than the deployed one never replaces it.
 A red run never deploys. Failed scheduled runs email the owner (GitHub notifications).
+
+The times come from the Worker's cron trigger (`cloudflare/cron.js`, one `*/5 * * * *` trigger), not
+from GitHub's schedule, which starts runs late and skips most of them. It calls GitHub's
+workflow_dispatch API and marks a job done in `freshcalendars-state/cron/` only once GitHub accepts,
+so a failed call is retried on the next tick (calendar jobs for up to 3 hours, a due story every 30
+minutes). The next story time is written to `news/next-due` by every `/news/` deploy.
 
 Run a job by hand: Actions → Calendar site → Run workflow (pick the job), or `gh workflow run calendar.yml -f job=refresh-meta`.
 
@@ -44,8 +50,9 @@ Run a job by hand: Actions → Calendar site → Run workflow (pick the job), or
 | variable `CF_LIVE` | `1` once freshcalendars.com is served by the Worker (turns on IndexNow and AnindaIndex) |
 | variable `SITE_BASE` | host the smoke tests check (`https://freshcalendars.com`) |
 
-Worker secrets (`wrangler secret put`): `TURNSTILE_SECRET` (widget `freshcalendars-contact`) and
-`CONTACT_TO` (the owner address, verified in Email Routing). Contact mail is sent from
+Worker secrets (`wrangler secret put`): `TURNSTILE_SECRET` (widget `freshcalendars-contact`),
+`CONTACT_TO` (the owner address, verified in Email Routing) and `GH_DISPATCH_TOKEN` (fine-grained
+GitHub token `freshcalendars-cron`: Actions read and write on this repository only, for the cron). Contact mail is sent from
 `contact@notify.freshcalendars.com` (Email Routing on the `notify` subdomain only; the Zoho MX
 and SPF records of the apex are untouched). Every message is also stored in
 `freshcalendars-state/contact/YYYY-MM/`.
@@ -62,7 +69,7 @@ Checked and set on 2026-10-31. Change them in the dashboard only on purpose, and
 | Security | Cloudflare Free Managed Ruleset deployed, security level medium, browser integrity check on, Bot Fight Mode off and AI crawlers allowed (both on purpose: they would challenge feed readers and AI search), one rate limit rule: 3 contact-form posts per 10 s per IP |
 | Cache | tiered cache (smart topology) on; cache rule: `cdn.freshcalendars.com` 31 days at the edge. The two apex cache rules only matter if the route is removed (rollback); Worker static assets have their own cache and every deploy replaces them |
 | Speed | Brotli on; Rocket Loader, minify, email obfuscation, Speed Brain, Polish off (Workers assets are already minified, and Polish is a paid feature) |
-| Workers | route `freshcalendars.com/*`, no `workers.dev` or preview URLs, logs on at 10% sampling; Turnstile widget `freshcalendars-contact` allows `freshcalendars.com` and `localhost` |
+| Workers | one cron trigger `*/5 * * * *` (the account has 4 of the 5 the Free plan allows), route `freshcalendars.com/*`, no `workers.dev` or preview URLs, logs on at 10% sampling; Turnstile widget `freshcalendars-contact` allows `freshcalendars.com` and `localhost` |
 | R2 | `freshcalendars` public only through `cdn.freshcalendars.com` (TLS 1.2+), `r2.dev` off on both buckets, no CORS needed (pages load no fonts or data from the CDN) |
 
 ## Local checks

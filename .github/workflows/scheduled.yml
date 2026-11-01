@@ -3,13 +3,14 @@ name: Scheduled stories
 # A story with a future publishedAt is left out of the build until that time. A run checks the
 # deployed commit for stories that came due since its build, and if there are any, rebuilds that
 # same commit and publishes it (newer commits publish through CI as usual).
-# GitHub starts scheduled runs late and skips many (2 of about 36 in the first hours), so a run
-# that finds nothing due but a story due within MAX_WAIT waits for it on the runner, then checks
-# again. Any one run in the hours before a story is enough, and the story goes live about 5 min
-# after its time. The repository is public, so the waiting minutes cost nothing.
+# The Worker's cron trigger starts this run when the next story is due (cloudflare/cron.js reads
+# news/next-due, which deploy.sh writes), so the story goes live about 5 min after its time.
+# GitHub's own hourly schedule is only a backup: it starts runs late and skips many, so a run that
+# finds nothing due but a story due within MAX_WAIT waits for it on the runner, then checks again.
+# The repository is public, so the waiting minutes cost nothing.
 on:
   schedule:
-    - cron: "*/5 * * * *"
+    - cron: "17 * * * *"
   workflow_dispatch:
 
 concurrency:
