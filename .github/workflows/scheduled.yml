@@ -45,6 +45,8 @@ jobs:
             sha="$(cloudflare/deploy.sh state-get news/sha)"
             since="$(cloudflare/deploy.sh state-get news/built-at)"
             [[ -n "$sha" && -n "$since" ]] || { echo "nothing deployed yet"; exit 0; }
+            # After the wait the deployed commit can be newer than this clone; fetch it first.
+            git cat-file -e "$sha^{commit}" 2>/dev/null || git fetch -q origin "$sha" || git fetch -q origin main
             git checkout -q "$sha"
             stories="$(node cloudflare/due-stories.mjs "$since")"
             echo "deployed ${sha:0:7}, built $(date -d "@$since" -Is); due: ${stories:-none}"

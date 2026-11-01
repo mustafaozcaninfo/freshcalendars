@@ -84,7 +84,8 @@ jobs:
         if: always()
         run: |
           n="$(find apps/news/node_modules/.astro/assets -type f 2>/dev/null | wc -l)"
-          echo "new=$(( n > ${{ steps.cache_before.outputs.n }} ))" >>"$GITHUB_OUTPUT"
+          before="${{ steps.cache_before.outputs.n }}"  # empty when an earlier step failed
+          echo "new=$(( n > ${before:-n} ))" >>"$GITHUB_OUTPUT"
       # Saved only when the build encoded something new (even if it then failed or timed out, so
       # the next run starts from it); otherwise the restored cache is already current. Pushes only:
       # a pull request's cache is scoped to its branch and main never restores it.
