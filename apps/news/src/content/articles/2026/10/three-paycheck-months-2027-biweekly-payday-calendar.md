@@ -5,7 +5,7 @@ description: "A biweekly Friday payday on Jan. 1, 2027 gives 27 paydays and thre
 type: explainer
 publishedAt: "2026-10-29T17:45:00-04:00"
 authors: [jordan-bennett]
-category: calendar-guides
+category: money-benefits
 keywords: ["three paycheck months 2027", "3 paycheck months 2027", "biweekly pay calendar 2027", "27 pay periods 2027", "biweekly payday calendar 2027"]
 hero:
   src: ../../../../assets/news/three-paycheck-months-2027-biweekly-payday-calendar/three-paycheck-months-2027-biweekly-payday-calendar.webp

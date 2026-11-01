@@ -5,7 +5,7 @@ description: "Social Security Administration (SSA) pays Dec. 9, 16 and 23 by bir
 type: news
 publishedAt: "2026-10-31T10:29:00-04:00"
 authors: [alex-morgan]
-category: planning
+category: money-benefits
 keywords: ["Social Security payment schedule December 2026", "SSI payment December 31 2026", "Social Security payment dates by birthday December 2026", "Social Security COLA 2027 first payment"]
 dateline: "New York"
 hero:

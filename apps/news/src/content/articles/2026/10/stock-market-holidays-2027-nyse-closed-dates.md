@@ -5,7 +5,7 @@ description: "The NYSE is closed 10 days in 2027, including Good Friday, March 2
 type: explainer
 publishedAt: "2026-10-19T11:04:00-04:00"
 authors: [alex-morgan]
-category: planning
+category: money-benefits
 keywords: ["stock market holidays 2027", "NYSE holidays 2027", "is the stock market open Good Friday 2027", "stock market closed 2027", "market holidays 2027"]
 dateline: "New York"
 hero:

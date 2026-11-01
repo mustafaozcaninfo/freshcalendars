@@ -28,6 +28,7 @@ export const CATEGORY_SCENE: Record<string, SceneName> = {
   holidays: "calendar", planning: "calendar", "retail-dates": "shopping", "school-calendars": "school",
   "sky-events": "night-sky", "time-change": "time-change", "uk-canada": "calendar", puzzles: "puzzle",
   elections: "election", "calendar-guides": "calendar", sports: "calendar",
+  "money-benefits": "money", "gaming-tech": "gaming",
 };
 
 type Opts = { color: string; seed: string };

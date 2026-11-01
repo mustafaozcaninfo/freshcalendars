@@ -5,7 +5,7 @@ description: "The Department of Veterans Affairs (VA) disability payment due Nov
 type: explainer
 publishedAt: "2026-10-30T01:50:00-04:00"
 authors: [alex-morgan]
-category: planning
+category: money-benefits
 keywords: ["VA disability payment dates 2026", "VA payment schedule 2027", "when does VA disability pay in November 2026", "VA disability payment October 30"]
 dateline: "New York"
 hero:

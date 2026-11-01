@@ -5,7 +5,7 @@ description: "Thursday, Dec. 31, 2026 is the cutoff for Required Minimum Distrib
 type: explainer
 publishedAt: "2026-10-30T15:49:00-04:00"
 authors: [alex-morgan]
-category: planning
+category: money-benefits
 keywords: ["year end deadlines 2026", "rmd deadline 2026", "december 31 tax deadlines", "year end money checklist 2026"]
 hero:
   src: ../../../../assets/news/year-end-money-deadlines-december-31-2026/year-end-money-deadlines-december-31-2026.webp

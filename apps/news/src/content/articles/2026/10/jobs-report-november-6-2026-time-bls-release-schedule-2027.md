@@ -5,7 +5,7 @@ description: "The Bureau of Labor Statistics (BLS) releases the October 2026 job
 type: news
 publishedAt: "2026-10-29T05:44:00-04:00"
 authors: [alex-morgan]
-category: planning
+category: money-benefits
 keywords: ["jobs report november 2026", "when is the next jobs report", "october jobs report 2026 release date", "bls release schedule 2027", "cpi release date november 2026"]
 hero:
   src: ../../../../assets/news/jobs-report-november-6-2026-time-bls-release-schedule-2027/jobs-report-november-6-2026-time-bls-release-schedule-2027.webp

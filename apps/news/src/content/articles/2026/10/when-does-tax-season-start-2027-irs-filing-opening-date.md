@@ -5,7 +5,7 @@ description: "The Internal Revenue Service (IRS) has not announced the 2027 fili
 type: explainer
 publishedAt: "2026-10-31T00:58:00-04:00"
 authors: [alex-morgan]
-category: planning
+category: money-benefits
 keywords: ["when can i file taxes 2027", "tax season 2027 start date", "irs free file 2027", "when does tax season start 2027", "irs filing season 2027"]
 dateline: "Washington"
 hero:

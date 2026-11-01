@@ -5,7 +5,7 @@ description: "Series I savings bonds (I bonds) issued Nov. 1, 2026 to April 30, 
 type: news
 publishedAt: "2026-10-31T17:44:00-04:00"
 authors: [alex-morgan]
-category: planning
+category: money-benefits
 keywords: ["I bond rate November 2026", "new I bond rate 5.51%", "I bond fixed rate 1.40%", "when does my I bond rate change"]
 hero:
   src: ../../../../assets/news/i-bond-rate-november-2026-5-51-percent-fixed-rate-1-40/i-bond-rate-november-2026-5-51-percent-fixed-rate-1-40.webp

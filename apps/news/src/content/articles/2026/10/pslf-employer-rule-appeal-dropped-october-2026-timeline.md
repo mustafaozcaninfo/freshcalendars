@@ -5,7 +5,7 @@ description: "The government dropped its appeal of the ruling that vacated the P
 type: news
 publishedAt: "2026-10-25T13:02:00-04:00"
 authors: [alex-morgan]
-category: planning
+category: money-benefits
 keywords: ["PSLF update October 2026", "PSLF rule appeal dropped", "public service loan forgiveness employer rule", "PSLF news"]
 dateline: "Washington"
 hero:

@@ -5,7 +5,7 @@ description: "Trustees project a $209.50 Part B premium for 2027, up from $202.9
 type: explainer
 publishedAt: "2026-10-28T18:00:00-04:00"
 authors: [alex-morgan]
-category: planning
+category: money-benefits
 keywords: ["Medicare Part B premium 2027", "Part B premium 2027 projected", "Medicare Part B deductible 2027", "IRMAA 2026 brackets"]
 dateline: "New York"
 hero:

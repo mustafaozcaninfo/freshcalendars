@@ -5,7 +5,7 @@ description: "Michigan, Virginia, California, Washington and four more places ra
 type: news
 publishedAt: "2026-10-30T15:49:00-04:00"
 authors: [alex-morgan]
-category: planning
+category: money-benefits
 keywords: ["minimum wage 2027 by state", "minimum wage increase january 2027", "california minimum wage 2027", "michigan minimum wage 2027", "washington minimum wage 2027"]
 hero:
   src: ../../../../assets/news/minimum-wage-increases-january-1-2027-by-state/minimum-wage-increases-january-1-2027-by-state.webp

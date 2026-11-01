@@ -6,7 +6,7 @@ type: explainer
 publishedAt: "2026-10-29T14:30:00-04:00"
 updatedAt: "2026-10-30T01:20:00-04:00"
 authors: [jordan-bennett]
-category: retail-dates
+category: gaming-tech
 keywords: ["Ford Fathom", "Ford Fathom release date", "Ford Fathom price", "Ford Fathom range", "Ford Fathom preorder"]
 hero:
   src: ../../../../assets/news/ford-fathom-release-date-price-range-specs/ford-fathom-release-date-price-range-specs.webp

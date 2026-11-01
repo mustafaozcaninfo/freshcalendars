@@ -5,7 +5,7 @@ description: "The required minimum distribution (RMD) deadline for 2026 is Thu.,
 type: explainer
 publishedAt: "2026-10-30T15:30:00-04:00"
 authors: [alex-morgan]
-category: planning
+category: money-benefits
 keywords: ["2026 rmd deadline", "required minimum distribution deadline 2026", "rmd age 73", "first rmd april 1 2027", "ira 401k rmd"]
 hero:
   src: ../../../../assets/news/2026-required-minimum-distribution-deadline-ira-401k/2026-required-minimum-distribution-deadline-ira-401k.webp

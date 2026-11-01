@@ -6,7 +6,7 @@ type: news
 publishedAt: "2026-10-21T09:20:00-04:00"
 updatedAt: "2026-10-28T16:12:00-04:00"
 authors: [alex-morgan]
-category: planning
+category: money-benefits
 keywords: ["Social Security payment schedule October 2026", "Social Security payment today", "when is my Social Security check", "Social Security November 2026 payment dates", "SSI payment dates 2026"]
 dateline: "New York"
 hero:

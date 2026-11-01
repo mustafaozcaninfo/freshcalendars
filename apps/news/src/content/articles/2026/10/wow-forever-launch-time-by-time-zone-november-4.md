@@ -6,7 +6,7 @@ type: news
 publishedAt: "2026-10-31T07:50:00-04:00"
 updatedAt: "2026-11-01T05:33:00-05:00"
 authors: [jordan-bennett]
-category: entertainment
+category: gaming-tech
 keywords: ["WoW Forever launch time", "World of Warcraft Forever release date", "WoW Forever release time UK", "WoW Forever name reservation"]
 dateline: "Irvine, Calif."
 assets:

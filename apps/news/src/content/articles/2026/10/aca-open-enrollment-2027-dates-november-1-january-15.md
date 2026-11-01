@@ -6,7 +6,7 @@ type: news
 publishedAt: "2026-10-19T10:20:00-04:00"
 updatedAt: "2026-10-30T15:25:00-04:00"
 authors: [alex-morgan]
-category: planning
+category: money-benefits
 keywords: ["ACA open enrollment 2027", "Obamacare open enrollment 2026", "HealthCare.gov open enrollment dates", "open enrollment deadline December 15", "marketplace open enrollment January 15"]
 dateline: "New York"
 hero:

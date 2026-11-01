@@ -5,7 +5,7 @@ description: "Scammers are using the 3.6% COLA for 2027 to demand fees. The rais
 type: news
 publishedAt: "2026-10-18T14:30:00-04:00"
 authors: [alex-morgan]
-category: planning
+category: money-benefits
 keywords: ["Social Security COLA 2027 scams", "Social Security increase 2027 chart", "COLA 2027 increase chart", "Social Security payment schedule 2027", "2027 Social Security changes"]
 dateline: "New York"
 hero:
