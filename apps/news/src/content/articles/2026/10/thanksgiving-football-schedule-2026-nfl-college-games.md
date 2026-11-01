@@ -115,7 +115,7 @@ internalLinks:
     label: "When is Thanksgiving?"
   - href: "/when-is/black-friday/"
     label: "When is Black Friday?"
-related: [thanksgiving-2026-tv-schedule-macys-parade-nfl-games, college-football-rivalry-week-2026-iron-bowl-the-game-egg-bowl-times-tv, feast-week-2026-college-basketball-tournaments-dates-maui-battle-4-atlantis-players-era]
+related: [thanksgiving-2026-tv-schedule-macys-parade-nfl-games, college-football-rivalry-week-2026-iron-bowl-the-game-egg-bowl-times-tv, turkey-trot-2026-start-times-thanksgiving-races-by-city]
 downloads:
   - group: "Thanksgiving Football Schedule 2026 printables"
     title: "Thanksgiving Football Schedule 2026, Nov. 25-28"
