@@ -12,6 +12,12 @@ export interface KeyDate {
 }
 
 export const KEY_DATES: KeyDate[] = [
+  { date: "2026-12-29", label: "Latest Vancouver sunrise of the winter, 9:08 a.m. Pacific time (through Jan. 3)", slug: "bc-sunrise-times-winter-2026-27-vancouver-no-fall-back-pacific-time" },
+  { date: "2027-02-27", label: "Vancouver sunrise back before 8 a.m. (7:59 a.m.)", slug: "bc-sunrise-times-winter-2026-27-vancouver-no-fall-back-pacific-time" },
+  { date: "2026-11-05", label: "Target Early Black Friday deals run Nov. 5-7", slug: "target-black-friday-2026-early-sale-november-5-7-price-match-dates" },
+  { date: "2026-12-24", label: "Target Holiday Price Match window ends", slug: "target-black-friday-2026-early-sale-november-5-7-price-match-dates" },
+  { date: "2026-11-08", label: "City of God: The Fight Rages On season 2 on HBO Max", slug: "new-on-hbo-max-november-2026-release-dates-city-of-god-tony" },
+  { date: "2026-11-20", label: "Tony (A24) on HBO Max", slug: "new-on-hbo-max-november-2026-release-dates-city-of-god-tony" },
   { date: "2026-11-03", label: "India vs New Zealand first ODI, Auckland, 9 p.m. ET (3 p.m. Wed. in New Zealand)", slug: "india-vs-new-zealand-2026-schedule-odi-test-start-times-et-gmt-ist" },
   { date: "2026-11-18", label: "India vs New Zealand first Test, Wellington, 5 p.m. ET (11 a.m. Thu. in New Zealand)", slug: "india-vs-new-zealand-2026-schedule-odi-test-start-times-et-gmt-ist" },
   { date: "2026-11-12", label: "Nations League Matchday 5 opens: England v Croatia at Wembley, 7.45pm UK (2:45 p.m. ET)", slug: "nations-league-november-2026-fixtures-kick-off-times-england-scotland-wales-ireland" },
