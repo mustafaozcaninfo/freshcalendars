@@ -99,7 +99,7 @@ internalLinks:
     label: "December 2026 printable calendar"
   - href: "/printable-weekly-calendar.html"
     label: "Printable weekly planner"
-related: [thanksgiving-2026-tv-schedule-macys-parade-nfl-games, advent-calendar-2026-dates-free-printable, nyc-holiday-calendar-2026-rockefeller-tree-macys-parade]
+related: [netflix-christmas-movies-2026-release-dates-holiday-watch-list, advent-calendar-2026-dates-free-printable, nyc-holiday-calendar-2026-rockefeller-tree-macys-parade]
 downloads:
   - group: "Hallmark Countdown to Christmas 2026 Movie Checklist printables"
     title: "Hallmark Countdown to Christmas 2026 Movie Checklist"

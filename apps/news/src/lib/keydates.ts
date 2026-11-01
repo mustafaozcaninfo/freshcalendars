@@ -12,6 +12,9 @@ export interface KeyDate {
 }
 
 export const KEY_DATES: KeyDate[] = [
+  { date: "2026-11-11", label: "Tyler Perry's The Gospel of Christmas on Netflix", slug: "netflix-christmas-movies-2026-release-dates-holiday-watch-list" },
+  { date: "2026-11-18", label: "Guarding Stars on Netflix", slug: "netflix-christmas-movies-2026-release-dates-holiday-watch-list" },
+  { date: "2026-12-02", label: "In a Holidaze on Netflix", slug: "netflix-christmas-movies-2026-release-dates-holiday-watch-list" },
   { date: "2026-11-23", label: "Southwest Maui Invitational begins at Lahaina Civic Center (through Nov. 25)", slug: "feast-week-2026-college-basketball-tournaments-dates-maui-battle-4-atlantis-players-era" },
   { date: "2026-11-24", label: "Players Era 16 begins in Las Vegas (through Nov. 28)", slug: "feast-week-2026-college-basketball-tournaments-dates-maui-battle-4-atlantis-players-era" },
   { date: "2026-11-25", label: "Battle 4 Atlantis begins at Imperial Arena, Bahamas (through Nov. 27)", slug: "feast-week-2026-college-basketball-tournaments-dates-maui-battle-4-atlantis-players-era" },
