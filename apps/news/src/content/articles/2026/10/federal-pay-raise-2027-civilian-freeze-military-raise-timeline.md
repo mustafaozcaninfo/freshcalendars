@@ -5,7 +5,7 @@ description: "The President's alternative plan would freeze 2027 civilian federa
 type: news
 publishedAt: "2026-10-25T15:15:00-04:00"
 authors: [alex-morgan]
-category: planning
+category: money-benefits
 keywords: ["federal pay raise 2027", "2027 GS pay raise", "military pay raise 2027", "federal pay freeze 2027"]
 dateline: "Washington"
 hero:

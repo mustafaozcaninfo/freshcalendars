@@ -6,7 +6,7 @@ type: news
 publishedAt: "2026-10-20T15:00:00-04:00"
 updatedAt: "2026-10-31T11:25:00-04:00"
 authors: [jordan-bennett]
-category: retail-dates
+category: gaming-tech
 keywords: ["GTA 6 October 22", "GTA 6 release date", "GTA 6 preload date", "GTA 6 news this week", "GTA 6 countdown"]
 dateline: "New York"
 hero:

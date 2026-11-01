@@ -5,7 +5,7 @@ description: "The League of Legends (LoL) Worlds 2026 Swiss Stage starts Friday,
 type: news
 publishedAt: "2026-10-23T14:10:00-04:00"
 authors: [jordan-bennett]
-category: sports
+category: gaming-tech
 keywords: ["lol worlds 2026 schedule", "Worlds 2026 schedule", "LoL Worlds 2026 tickets", "Worlds 2026 bracket", "Worlds 2026 final date"]
 dateline: "New York"
 assets:

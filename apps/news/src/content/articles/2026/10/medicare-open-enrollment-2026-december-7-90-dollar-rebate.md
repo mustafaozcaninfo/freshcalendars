@@ -6,7 +6,7 @@ type: news
 publishedAt: "2026-10-18T08:40:00-04:00"
 updatedAt: "2026-10-24T00:50:00-04:00"
 authors: [alex-morgan]
-category: planning
+category: money-benefits
 keywords: ["medicare open enrollment 2026 deadline", "Medicare open enrollment 2026", "Medicare deadline December 7", "$90 Medicare rebate", "Part D out-of-pocket cap 2027"]
 dateline: "New York"
 hero:

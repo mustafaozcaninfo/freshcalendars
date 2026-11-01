@@ -5,7 +5,7 @@ description: "Supplemental Nutrition Assistance Program (SNAP) benefits load Sun
 type: explainer
 publishedAt: "2026-10-29T10:05:43-04:00"
 authors: [alex-morgan]
-category: planning
+category: money-benefits
 keywords: ["SNAP payment schedule November 2026", "when will SNAP be deposited November 2026", "food stamps November 2026 dates by state", "SNAP deposit dates by state"]
 dateline: "New York"
 hero:

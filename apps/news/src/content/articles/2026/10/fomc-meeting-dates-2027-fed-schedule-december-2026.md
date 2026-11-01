@@ -6,7 +6,7 @@ type: news
 publishedAt: "2026-10-26T20:37:00-04:00"
 updatedAt: "2026-10-28T14:03:00-04:00"
 authors: [alex-morgan]
-category: planning
+category: money-benefits
 keywords: ["fomc meeting dates 2027", "fed meeting schedule 2027", "next fed meeting", "fomc december 2026", "when is the next fomc meeting"]
 hero:
   src: ../../../../assets/news/fomc-meeting-dates-2027-fed-schedule-december-2026/fomc-meeting-dates-2027-fed-schedule-december-2026.webp

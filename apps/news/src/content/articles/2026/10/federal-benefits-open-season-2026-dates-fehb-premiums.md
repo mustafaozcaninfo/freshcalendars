@@ -5,7 +5,7 @@ description: "The Office of Personnel Management (OPM) set federal open season f
 type: news
 publishedAt: "2026-10-24T16:48:00-04:00"
 authors: [alex-morgan]
-category: planning
+category: money-benefits
 keywords: ["open season 2026 federal employees", "FEHB open season 2026 dates", "2027 FEHB premiums", "federal benefits open season 2026", "FSAFEDS 2027 reenroll"]
 dateline: "Washington"
 hero:

@@ -6,7 +6,7 @@ type: news
 publishedAt: "2026-10-23T10:50:00-04:00"
 updatedAt: "2026-10-25T17:35:00-04:00"
 authors: [jordan-bennett]
-category: retail-dates
+category: gaming-tech
 keywords: ["iPhone Duo October 24", "iPhone Duo availability", "iPhone Duo pickup", "iPhone Duo price", "iPhone Duo in stock"]
 dateline: "New York"
 assets:

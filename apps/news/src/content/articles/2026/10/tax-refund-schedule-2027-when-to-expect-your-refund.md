@@ -5,7 +5,7 @@ description: "The Internal Revenue Service (IRS) issues most refunds in fewer th
 type: explainer
 publishedAt: "2026-10-31T00:58:00-04:00"
 authors: [alex-morgan]
-category: planning
+category: money-benefits
 keywords: ["tax refund schedule 2027", "when will i get my tax refund 2027", "eitc refund date 2027", "irs refund timeline", "where's my refund"]
 hero:
   src: ../../../../assets/news/tax-refund-schedule-2027-when-to-expect-your-refund/tax-refund-schedule-2027-when-to-expect-your-refund.webp

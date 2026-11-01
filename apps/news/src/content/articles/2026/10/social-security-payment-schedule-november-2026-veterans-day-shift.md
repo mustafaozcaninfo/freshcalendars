@@ -5,7 +5,7 @@ description: "The Social Security Administration (SSA) pays the 1st-to-10th birt
 type: news
 publishedAt: "2026-10-28T18:00:00-04:00"
 authors: [alex-morgan]
-category: planning
+category: money-benefits
 keywords: ["Social Security payment schedule November 2026", "Social Security Veterans Day 2026", "SSI payment December 2026", "Social Security payment dates December 2026"]
 dateline: "New York"
 hero:

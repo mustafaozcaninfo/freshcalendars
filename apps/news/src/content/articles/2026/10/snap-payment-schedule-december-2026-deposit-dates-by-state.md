@@ -5,7 +5,7 @@ description: "Supplemental Nutrition Assistance Program (SNAP) deposit days for 
 type: news
 publishedAt: "2026-10-31T10:30:00-04:00"
 authors: [alex-morgan]
-category: planning
+category: money-benefits
 keywords: ["SNAP payment schedule December 2026", "when will SNAP be deposited December 2026", "food stamps December 2026 dates by state", "SNAP deposit dates by state"]
 dateline: "New York"
 hero:

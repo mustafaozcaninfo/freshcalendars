@@ -6,7 +6,7 @@ type: news
 publishedAt: "2026-10-31T03:45:00-04:00"
 updatedAt: "2026-11-01T02:42:00-05:00"
 authors: [jordan-bennett]
-category: entertainment
+category: gaming-tech
 keywords: ["games leaving xbox game pass october 31 2026", "xbox game pass november 2026", "leaving game pass", "new on game pass this week"]
 assets:
   scene: gaming

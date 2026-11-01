@@ -5,7 +5,7 @@ description: "The 2026 Health Savings Account (HSA) contribution deadline is Thu
 type: explainer
 publishedAt: "2026-10-30T15:30:00-04:00"
 authors: [alex-morgan]
-category: planning
+category: money-benefits
 keywords: ["2026 HSA contribution deadline", "HSA contribution limit 2026", "HSA limits 2027", "HSA catch-up contribution"]
 dateline: "New York"
 assets:

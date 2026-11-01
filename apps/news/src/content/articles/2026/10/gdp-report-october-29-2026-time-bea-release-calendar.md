@@ -6,7 +6,7 @@ type: news
 publishedAt: "2026-10-28T17:46:00-04:00"
 updatedAt: "2026-10-29T10:05:00-04:00"
 authors: [alex-morgan]
-category: planning
+category: money-benefits
 keywords: ["gdp report today", "gdp release october 29 2026", "q3 gdp release date 2026", "pce release date", "bea release schedule november 2026"]
 hero:
   src: ../../../../assets/news/gdp-report-october-29-2026-time-bea-release-calendar/gdp-report-october-29-2026-time-bea-release-calendar.webp

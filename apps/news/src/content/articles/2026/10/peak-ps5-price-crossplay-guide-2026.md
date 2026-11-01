@@ -5,7 +5,7 @@ description: "PEAK launched on PlayStation 5 (PS5) on Thursday, Oct. 22, 2026, f
 type: news
 publishedAt: "2026-10-23T03:00:00-04:00"
 authors: [jordan-bennett]
-category: retail-dates
+category: gaming-tech
 keywords: ["PEAK PS5", "PEAK PS5 price", "PEAK PS5 crossplay", "PEAK PS5 release date", "PEAK cross-save"]
 dateline: "New York"
 hero:

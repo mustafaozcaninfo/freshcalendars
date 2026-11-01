@@ -5,7 +5,7 @@ description: "Social Security benefits rise 3.6% in 2027, about $75 a month for 
 type: news
 publishedAt: "2026-10-18T04:00:00-04:00"
 authors: [alex-morgan]
-category: planning
+category: money-benefits
 keywords: ["Social Security COLA 2027", "2027 Social Security increase", "Social Security payment dates January 2027", "SSI payment December 31 2026", "taxable maximum 2027"]
 dateline: "New York"
 hero:

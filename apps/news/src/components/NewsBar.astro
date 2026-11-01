@@ -12,7 +12,7 @@ const cats = await getActiveCategories(await getPublishedArticles());
 // phones, every section) live in the More menu, so new categories never wrap or hide the bar.
 const PRIMARY = 6;
 // Short labels keep the bar on one line; the More menu and category pages use the full names.
-const SHORT: Record<string, string> = { "school-calendars": "Schools", "retail-dates": "Retail", "calendar-guides": "Calendars" };
+const SHORT: Record<string, string> = { "school-calendars": "Schools", "retail-dates": "Retail", "calendar-guides": "Calendars", "money-benefits": "Money", "gaming-tech": "Gaming" };
 const all = [
   ...cats.map((c) => ({ id: c.id, name: c.data.name, short: SHORT[c.id] ?? c.data.name, href: categoryHref(c.id) })),
   { id: "printables", name: "Printables", short: "Printables", href: PRINTABLES_PATH },

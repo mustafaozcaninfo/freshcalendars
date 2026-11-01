@@ -52,7 +52,7 @@ description: "<120-160 chars; renders as the lede; expand abbreviations: Eastern
 type: news            # news | explainer | analysis | update
 publishedAt: "2026-10-21T09:30:00-04:00"   # now or earlier, America/New_York
 authors: [alex-morgan]  # the beat editor who reviews the story (see "Bylines" below); puzzles: [news-desk]
-category: holidays    # holidays | elections | calendar-guides | planning | puzzles | retail-dates | school-calendars | sky-events | time-change | uk-canada
+category: holidays    # holidays | elections | planning | money-benefits | school-calendars | retail-dates | puzzles | time-change | sky-events | uk-canada | calendar-guides | sports | entertainment | gaming-tech
 keywords: ["<main query>", "<variant>", "<variant>"]   # 1-5
 hero:
   src: ../../../../assets/news/<slug>/<slug>.jpg

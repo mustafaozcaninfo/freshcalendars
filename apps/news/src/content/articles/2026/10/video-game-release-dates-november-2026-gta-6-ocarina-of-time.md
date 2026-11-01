@@ -5,7 +5,7 @@ description: "Grand Theft Auto (GTA) VI launches Thursday, Nov. 19, 2026, says R
 type: news
 publishedAt: "2026-10-31T14:23:00-04:00"
 authors: [jordan-bennett]
-category: entertainment
+category: gaming-tech
 keywords: ["video game release dates november 2026", "new games november 2026", "games coming out november 2026", "gta 6 release date november 19"]
 assets:
   scene: gaming

@@ -5,7 +5,7 @@ description: "The Internal Revenue Service (IRS) has not set 2027 tax brackets o
 type: news
 publishedAt: "2026-10-23T15:20:00-04:00"
 authors: [alex-morgan]
-category: planning
+category: money-benefits
 keywords: ["2027 tax brackets", "2027 401k limit", "2027 HSA limits", "2027 standard deduction"]
 dateline: "New York"
 assets:

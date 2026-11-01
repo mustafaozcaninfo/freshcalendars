@@ -5,7 +5,7 @@ description: "PlayStation 5 (PS5) Prism Collection pre-orders open Nov. 10, 2026
 type: news
 publishedAt: "2026-10-30T05:45:00-04:00"
 authors: [jordan-bennett]
-category: retail-dates
+category: gaming-tech
 keywords: ["PS5 Prism Collection pre order", "Prism Collection release date", "transparent DualSense price", "PS5 Prism Collection pre-order time"]
 dateline: "New York"
 assets:

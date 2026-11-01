@@ -6,7 +6,7 @@ type: explainer
 publishedAt: "2026-10-23T03:05:00-04:00"
 updatedAt: "2026-11-01T05:39:00-05:00"
 authors: [jordan-bennett]
-category: retail-dates
+category: gaming-tech
 keywords: ["GTA 6 countdown", "GTA 6 release time", "GTA 6 release date and time EST", "GTA 6 countdown days", "GTA 6 countdown printable"]
 dateline: "New York"
 assets:
