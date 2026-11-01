@@ -50,7 +50,7 @@ internalLinks:
 corrections:
   - date: "2026-10-27T07:10:00-04:00"
     text: "Moon illumination at the Taurid and Leonid peaks now follows the American Meteor Society (25%, 4% and 39%). The Leonid rate was given as up to about 15 an hour; NASA puts it at fewer than three an hour in a typical year. The Leonid Moon sets before midnight, not around midnight."
-related: [orionid-meteor-shower-2026-peak-october-21-22, moon-phases-2027-full-moon-calendar, northern-lights-forecast-tonight-halloween-2026-noaa-g1-storm-watch-november-dates]
+related: [orionid-meteor-shower-2026-peak-october-21-22, northern-lights-uk-tonight-november-1-2026-met-office-aurora-scotland, northern-lights-forecast-tonight-halloween-2026-noaa-g1-storm-watch-november-dates]
 downloads:
   - group: "November 2026 sky printable"
     title: "November 2026 Meteor Showers"
