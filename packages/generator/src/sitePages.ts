@@ -59,7 +59,7 @@ import {
 } from "@freshcalendars/site-chrome";
 import { brandHeadLinks, writeBrandIcons } from "./brandIcons.js";
 import { homeNewsHtml, latestNewsHtml, newsStripHtml } from "./newsLinks.js";
-import { DIST_SITE, ROOT } from "./paths.js";
+import { DIST_SITE, PHOTOSWIPE_PATH, ROOT } from "./paths.js";
 import { displayPreview2xUrl, displayPreviewUrl } from "./previews.js";
 import { homeConceptHero, homeCalendarShelf, calendarStudio, calendarLibrary, calendarTools } from "./conceptPages.js";
 
@@ -98,8 +98,11 @@ function imgTag(opts: {
   const linkHref =
     opts.href === false ? undefined : opts.href ?? (opts.lightbox ? fullSrc : undefined);
   if (!linkHref) return img;
+  // The zoom viewer (PhotoSwipe) needs the full PNG's pixel size before it loads; without it the
+  // page falls back to the plain dialog.
+  const lbSize = opts.width && opts.height ? ` data-lightbox-w="${opts.width}" data-lightbox-h="${opts.height}"` : "";
   const lbAttrs = opts.lightbox
-    ? ` class="zoomable img-link" data-lightbox-src="${esc(fullSrc)}" data-lightbox-alt="${esc(opts.alt)}"`
+    ? ` class="zoomable img-link" data-lightbox-src="${esc(fullSrc)}" data-lightbox-alt="${esc(opts.alt)}"${lbSize}`
     : ` class="img-link"`;
   return `<a href="${esc(linkHref)}" title="${esc(title)}"${lbAttrs}>${img}</a>`;
 }
@@ -304,18 +307,65 @@ const LIGHTBOX_JS = `
     var child=z.querySelector('img');
     return child?(child.getAttribute('alt')||''):'';
   }
+  /* Zoom viewer: PhotoSwipe (pinch and double-tap zoom, pan, swipe through every preview on the
+     page), loaded on the first open. The plain dialog above stays as the fallback when a preview
+     has no pixel size or the library cannot load. */
+  var PSWP='${PHOTOSWIPE_PATH}', viewer=null, styled=false;
+  function loadViewer(){
+    if(!viewer) viewer=Promise.all([import(PSWP+'photoswipe-lightbox.esm.min.js'),import(PSWP+'photoswipe.esm.min.js')]).then(function(m){
+      if(!styled){styled=true;var l=document.createElement('link');l.rel='stylesheet';l.href=PSWP+'photoswipe.css';document.head.append(l);}
+      return {Lightbox:m[0].default,Core:m[1].default};
+    }).catch(function(){viewer=null;return null;});
+    return viewer;
+  }
+  function slides(){
+    var seen={}, out=[];
+    document.querySelectorAll('.zoomable[data-lightbox-src]').forEach(function(z){
+      var src=z.getAttribute('data-lightbox-src'), w=+z.getAttribute('data-lightbox-w'), h=+z.getAttribute('data-lightbox-h');
+      if(seen[src]||!w||!h) return; seen[src]=1;
+      var thumb=z.querySelector('img');
+      out.push({src:src,w:w,h:h,alt:lbAlt(z),msrc:thumb?thumb.currentSrc||thumb.src:undefined,element:z});
+    });
+    return out;
+  }
+  function openViewer(z){
+    var list=slides(), src=z.getAttribute('data-lightbox-src'), index=-1;
+    list.forEach(function(s,i){if(s.src===src) index=i;});
+    if(index<0) return Promise.resolve(false);
+    return loadViewer().then(function(lib){
+      if(!lib) return false;
+      var reduce=window.matchMedia&&matchMedia('(prefers-reduced-motion: reduce)').matches;
+      var lb=new lib.Lightbox({dataSource:list,pswpModule:lib.Core,bgOpacity:.94,
+        showHideAnimationType:reduce?'none':'zoom',
+        /* 1 = the PNG's own pixels: on a phone that is about 3x the fitted size, enough to read every date. */
+        secondaryZoomLevel:1,maxZoomLevel:2,
+        paddingFn:function(v){return v.x<700?{top:52,bottom:56,left:0,right:0}:{top:56,bottom:64,left:56,right:56};},
+        closeTitle:'Close preview',zoomTitle:'Zoom',arrowPrevTitle:'Previous design',arrowNextTitle:'Next design'});
+      lb.on('uiRegister',function(){
+        lb.pswp.ui.registerElement({name:'fc-caption',order:9,isButton:false,appendTo:'root',onInit:function(el,pswp){
+          el.className='pswp-fc-caption';
+          function set(){var a=(pswp.currSlide&&pswp.currSlide.data.alt)||'';el.textContent=a.split(' — ').pop();el.hidden=!a;}
+          pswp.on('change',set);set();
+        }});
+      });
+      lb.init();lb.loadAndOpen(index);
+      return true;
+    });
+  }
+  function show(z){
+    openViewer(z).then(function(ok){if(!ok) open(lbSrc(z), lbAlt(z));});
+  }
   document.addEventListener('click',function(e){
     var t=e.target;
     if(!(t instanceof Element)) return;
     var z=t.closest('.zoomable');
-    if(z){ e.preventDefault(); open(lbSrc(z), lbAlt(z)); }
+    if(z){ e.preventDefault(); show(z); }
   });
   document.addEventListener('keydown',function(e){
     if(e.key==='Escape') close();
     if((e.key==='Enter'||e.key===' ') && document.activeElement && document.activeElement.classList.contains('zoomable')){
       e.preventDefault();
-      var z=document.activeElement;
-      open(lbSrc(z), lbAlt(z));
+      show(document.activeElement);
     }
   });
   box.addEventListener('keydown',function(e){if(e.key==='Tab'&&closeBtn){e.preventDefault();closeBtn.focus();}});
