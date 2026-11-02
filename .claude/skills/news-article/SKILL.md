@@ -153,6 +153,35 @@ Photo rules (the schema and the tool enforce most of them):
 
 A printable is the product readers keep, so plan it with the story, not after it. Every story whose content can be acted on gets one: dates to mark, steps to follow, things to bring or check. Pick the rows that someone would stick on a fridge; the story carries the explanation.
 
+**Use a topic kit when one fits** (`assets.printable.kit`, code in `packages/generator/src/kits/`, design in `docs/PRINTABLE-DESIGN-PLAN.md`). A kit is designed for its subject, themed by the story's category, and filled from structured `data:` instead of text rows: ISO dates and times, a `src` on every fact (the 1-based number of its entry in the story's `sources:`, or that entry's URL or publisher), and an `unconfirmed:` list for what the source does not say yet, which the sheet prints in words and never draws or counts. Weekdays, day counts and time-zone conversions are computed; never type them.
+
+| Kit | For | Page | `data:` |
+|---|---|---|---|
+| `school-year` | a district's school calendar | portrait, mini months, key, counts, chart | `start: "2026-08"`, `months: 10`, `events: [{ from, to?, kind: first\|last\|break\|holiday\|remote\|early, label, src }]`, `unconfirmed`, `family` (fill-in labels) |
+| `watch-guide` | games, shows, award nights | landscape (`landscape: false` for one event), ET/CT/MT/PT columns, pick column | `pick: "My pick"`, `events: [{ start: "2026-11-18T20:00-05:00", title, detail?, channel?, stream?, airing: live\|delayed\|eastern, src }]`, `fill: { title, labels }`, `unconfirmed` |
+| `deadline-matrix` | ship-by dates, voting and benefit deadlines, anything "date x program" | landscape, timeline strip, date-by-column grid, days before the target, Done boxes | `target: { date, label }`, `columns: [..]` (1 to 5), `rows: [{ date, cells: { Column: "text" or { text, src } }, src }]`, `unconfirmed` |
+
+```yaml
+  printable:
+    kit: deadline-matrix
+    slug: christmas-ship-by-dates-2026
+    group: christmas-shipping-2026
+    title: "Christmas 2026 Ship-By Dates: FedEx, UPS and USPS"
+    subtitle: "Last recommended days to ship for delivery by Christmas Eve"
+    note: "Sources: FedEx 2026 Peak Last Day to Ship table ...; U.S. Postal Service."
+    description: "..."
+    alt: "..."
+    data:
+      target: { date: "2026-12-25", label: "Christmas Day" }
+      columns: ["FedEx", "UPS", "USPS"]
+      rows:
+        - { date: "2026-12-18", cells: { FedEx: "Ground, 4-day transit", USPS: { text: "Priority Mail", src: 4 } }, src: 1 }
+      unconfirmed:
+        - { label: "UPS last days to ship", why: "UPS had not posted them as of Sept. 24, 2026" }
+```
+
+The kit refuses data that does not check out (a date that does not exist, a range that ends before it starts, two kinds on one day, a holiday on a Saturday, rows out of order, a `src` that is not one of the story's sources) and lists every problem at once. Fix the data; never the check. When no kit fits, use the rows and layouts below.
+
 ```yaml
 assets:
   scene: thanksgiving
@@ -168,7 +197,6 @@ assets:
       - ["Fri., Nov. 20 to Sat., Nov. 21", "20 to 24 lb turkey, refrigerator (5 to 6 days)"]
       - ["Thu., Nov. 26", "Cook to 165°F (74°C)"]
     note: "Source: USDA Food Safety and Inspection Service, Turkey Basics: Safe Thawing."
-    inkSaver: true            # also writes <slug>-ink for home printers
     description: "..."
     alt: "..."
 ```
@@ -188,7 +216,9 @@ Rules the generator enforces:
 - **Print checks.** Every sheet then passes the "Printable PDF rules" below (safe area, no overlap, fonts, type size, contrast) before it is written.
 - **The note starts with "Source:"** and names the same sources as the story. A header icon matching the scene and the footer link are added for you.
 
-Then paste the `downloads:` entry the command prints (two entries with `inkSaver`).
+Then paste the `downloads:` entry the command prints. The command also writes `apps/news/src/assets/news/<slug>/<slug>.print.json` (the kit, a hash of the printable data and the values the kit computed); commit it with the story. There is no ink-saver copy any more (retired 2026-11-03): one color sheet per story.
+
+Two audit checks hold the sheet to the story: `10-PDF-FACTS` fails when the PDF prints a date, clock time, dollar amount or percentage that the story's text does not contain (computed values in the record are allowed), and `10-PDF-FRESH` fails when `assets.printable` changed after the PDF was drawn (run `news-assets` again). Both apply to every story with a `.print.json` record and to every story published from 2026-11-14.
 
 - **Custom visuals only when needed:** a story-specific generator in `packages/generator/src/<topic>.ts` with a `news-<topic>` command in `cli.ts` (patterns: `oct24.ts`, `november2026.ts`, `renderPrintables()` in `printables.ts`). No answers in puzzle heroes.
 
@@ -206,9 +236,9 @@ Every printable goes through two gates. `renderPrintables()` (and the Julian and
 | 6 | **Only Sora and Manrope glyphs** (`fontFaces()`), embedded. Characters outside their Latin set (★ ✂ ✓ → ⁻ ²) fall back to a system font that differs between a Mac and CI; draw symbols as inline SVG and write "to" or "-" instead of arrows. | The PDF must look the same everywhere | generator (font actually used per text run), `10-PDF-FONTS` |
 | 7 | **Type at least 8 px (6 pt)**; body text 10 px or more, cells 9 px or more. | Smaller does not survive a home printer | generator |
 | 8 | **Contrast at least 3:1 against the background** (error); aim for 4.5:1 for anything a reader must read (warning). Muted text such as dates outside the month still needs 3:1. Never carry meaning by color alone: tags and keys also say it in words. | Pale gray and gold fade out, and many people print in black and white | generator |
-| 9 | **Ink saver**: for color-heavy sheets add a `-ink` version (`inkSaver: true` in `assets.printable`): black on white, outlines instead of fills. | Saves a cartridge, prints well in gray | review |
+| 9 | **No ink-saver copy** (retired 2026-11-03): one color sheet per story. Keep it printable in gray instead: marks differ by shape (fill, ring, dash, underline) and every key says it in words. Older `-ink` files stay as published. | One file per story; meaning never by color alone | `10-PDF-NO-INK` (stories from 2026-11-14) |
 | 10 | **A clear `<h1>`** that uses the words of `downloads[].title`, and the footer `Free printable from Fresh Calendars · freshcalendars.com/news/<slug>/` (`.foot`). | The title becomes the PDF title in search results | `10-PDF-TITLE` (warning), `10-PDF-TEXT` |
-| 11 | **Sources and dates on the sheet** in a note that starts with "Source:", the same facts as the story. Nothing on a printable that the story does not support. | Same rule as the story | review |
+| 11 | **Sources and dates on the sheet** in a note that starts with "Source:", the same facts as the story. Nothing on a printable that the story does not support. | Same rule as the story | `10-PDF-FACTS`, `10-PDF-FRESH`, review |
 | 12 | **No third-party art, logos or brand marks.** Draw everything; name brands in text only. | Licensing | review |
 | 13 | **Under 2 MB** (most sheets are under 300 KB). | Fast download on a phone | `10-PDF-FILES` |
 | 14 | **File names** lowercase kebab-case with the year (`black-friday-planner-2026-bold.pdf`). If the content changes a lot after publishing, use a new name so search engines refetch it, and update the frontmatter. `downloads[].title` (5-80 characters) and `description` (20-200) become the PDF's title and subject. | | schema, `10-PDF-PROPERTIES` |

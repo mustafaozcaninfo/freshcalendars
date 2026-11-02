@@ -82,7 +82,8 @@ A new scene is a reusable asset, so build it with care:
 Readers keep the printable, and AI Overviews cannot replace it, so it gets the same care as the hero (rules: "Printables" and "Printable PDF rules" in the `news-article` skill).
 
 - One printable per story whose content can be acted on, built from that story's own facts: its dates, times, steps or checklist. A generic month grid is not a product.
-- Pick the layout by the content (month, timeline, checklist, list) and add the notes label that fits the reader ("My runner, my cheer spot").
+- Start from a topic kit when one fits (`school-year`, `watch-guide`, `deadline-matrix`; table in the `news-article` skill): it brings the category's palette and motif, computed weekdays, counts and time zones, and fill-in fields. Otherwise pick the layout by the content (month, timeline, checklist, list) and add the notes label that fits the reader ("My runner, my cheer spot").
+- One color sheet per story; no ink-saver copy. Marks must differ by shape, not only by color, so the sheet still reads in gray.
 - The `Source:` note names the same sources as the story.
 - Print quality is tested, not eyeballed: the generator refuses a sheet with text outside the 0.25 in safe area, text on the footer or cut off by its box, a glyph from a system font, type under 8 px or contrast under 3:1, and warns about raster images, contrast under 4.5:1, a near-collision with the footer and an empty bottom quarter. The full checklist is "Printable PDF rules" in the `news-article` skill; `FC_PRINT_DRY=1 pnpm fc <command>` runs it without writing files.
 - For a custom generator, start from `doc()` and `fontFaces()` in `julian.ts` and render through `renderPrintables()`, so it gets the checks, the tagged PDF and the stable file bytes. Draw ruled lines and hatching with borders, symbols as inline SVG.

@@ -25,7 +25,8 @@
  *     description: "..."                    # 20-200 chars, for the downloads entry
  *     alt: "..."                            # 10-160 chars, for the downloads entry
  *     layout: auto                          # month | timeline | checklist | list (see newsPrintable.ts)
- *     inkSaver: true                        # also <slug>-ink, black on white
+ *     kit: school-year                      # or a topic kit instead of rows: school-year, watch-guide,
+ *     data: { ... }                         # deadline-matrix (packages/generator/src/kits/), filled from data:
  *   render: 2d                              # optional: SVG scene instead of the 3D one (render3d/)
  *   overlay: true                           # licensed-photo stories: kicker, date tile and card over the photo
  * A story with a licensed photo (news-photo, <slug>.photo.json) keeps it; with `overlay: true` the
@@ -42,11 +43,15 @@ import sharp from "sharp";
 import { parse } from "yaml";
 import { LETTER, fontFaces } from "./julian.js";
 import { MONTHS, renderPrintables } from "./printables.js";
+import { dryRun } from "./printCheck.js";
+import { kitFor, type KitContext, type KitPrintable, type Source } from "./kits/index.js";
+import { themeFor } from "./kits/themes.js";
 import { ROOT } from "./paths.js";
 import { type Printable, printableHtml } from "./newsPrintable.js";
 import { CATEGORY_SCENE, SCENE_ICON, SCENE_COLOR, SCENES, type SceneName, scene, tint } from "./art.js";
 import { SCENES_3D, backdrop3d, shootHero, type HeroDoc } from "./news3d.js";
 import { UNIQUE_SINCE, heroProblems, storyHeroes } from "../../../scripts/lib/hero-hash.mjs";
+import { printableHash, recordPath } from "../../../scripts/lib/print-record.mjs";
 
 const W = 1200, H = 675;
 const ARTICLES = path.join(ROOT, "apps/news/src/content/articles");
@@ -58,8 +63,8 @@ const CATEGORY_COLOR: Record<string, string> = {
 };
 const DOW = ["SUNDAY", "MONDAY", "TUESDAY", "WEDNESDAY", "THURSDAY", "FRIDAY", "SATURDAY"];
 
-type Assets = { scene?: SceneName | "none"; render?: "2d" | "3d"; overlay?: boolean; kicker?: string; title?: string; date?: string; color?: string; card?: { top?: string; big: string; bottom?: string }; printable?: Printable };
-type Front = { title: string; seoTitle?: string; category: string; publishedAt?: string; assets?: Assets };
+type Assets = { scene?: SceneName | "none"; render?: "2d" | "3d"; overlay?: boolean; kicker?: string; title?: string; date?: string; color?: string; card?: { top?: string; big: string; bottom?: string }; printable?: Printable & { kit?: string; data?: unknown } };
+type Front = { title: string; seoTitle?: string; category: string; publishedAt?: string; sources?: Source[]; assets?: Assets };
 
 const esc = (s: string) => s.replace(/&/g, "&amp;").replace(/</g, "&lt;").replace(/>/g, "&gt;").replace(/"/g, "&quot;");
 
@@ -241,27 +246,49 @@ export async function buildNewsAssets(slug: string): Promise<void> {
   const p = a.printable;
   if (!p) return;
   if (!/^[a-z0-9-]+$/.test(p.slug) || !/^[a-z0-9-]+$/.test(p.group)) throw new Error("printable slug and group must be lowercase kebab-case");
-  if (!p.rows?.length || !p.note) throw new Error("printable needs rows and a sources note");
-  const color = storyColor(f, a, name);
-  const year = Number((a.date ?? "").slice(0, 4)) || new Date().getFullYear();
-  const iconName = SCENE_ICON[name === "none" ? "calendar" : name];
-  const main = printableHtml(fonts, slug, color, p, year, iconName);
-  for (const w of main.warnings) console.warn(`printable: ${w}`);
-  console.log(`printable layout: ${main.layout}${p.layout && p.layout !== "auto" ? "" : " (auto)"}`);
-  const sheets = [{ slug: p.slug, size: LETTER, html: main.html }];
-  if (p.inkSaver) sheets.push({ slug: `${p.slug}-ink`, size: LETTER, html: printableHtml(fonts, slug, color, { ...p, layout: main.layout as Printable["layout"] }, year, iconName, true).html });
-  await renderPrintables(p.group, sheets);
+  if (!p.note) throw new Error("printable needs a sources note");
+  // The ink-saver copy was retired on 2026-11-03 (owner's call): one color sheet per story.
+  if (p.inkSaver) console.warn("printable: inkSaver is retired; no -ink sheet is drawn. Remove inkSaver from assets.printable (an -ink file already published stays as it is)");
+  let sheet: { slug: string; size: { width: number; height: number }; html: string };
+  let kitName: string, computed: string[] = [];
+  if (p.kit) {
+    const kit = kitFor(p.kit);
+    const ctx: KitContext = { storySlug: slug, category: f.category, sources: f.sources ?? [], theme: themeFor(f.category), fonts };
+    const out = kit.render(kit.validate(p.data, ctx), p as unknown as KitPrintable, ctx);
+    for (const w of out.warnings) console.warn(`printable: ${w}`);
+    if (!/\b20\d\d\b/.test(p.title)) console.warn("printable: put the year in the printable title");
+    if (!/^sources?:/i.test(p.note.trim())) throw new Error('printable note must start with "Source:" or "Sources:"');
+    sheet = { slug: p.slug, size: out.size, html: out.html };
+    kitName = p.kit, computed = out.computed;
+    console.log(`printable kit: ${p.kit}`);
+  } else {
+    if (!p.rows?.length) throw new Error("printable needs rows (or a kit and its data)");
+    const color = storyColor(f, a, name);
+    const year = Number((a.date ?? "").slice(0, 4)) || new Date().getFullYear();
+    const main = printableHtml(fonts, slug, color, p, year, SCENE_ICON[name === "none" ? "calendar" : name]);
+    for (const w of main.warnings) console.warn(`printable: ${w}`);
+    console.log(`printable layout: ${main.layout}${p.layout && p.layout !== "auto" ? "" : " (auto)"}`);
+    sheet = { slug: p.slug, size: LETTER, html: main.html };
+    kitName = `list:${main.layout}`;
+  }
+  await renderPrintables(p.group, [sheet]);
+  // What was printed from which data, so the audit can tell a stale PDF (10-PDF-FRESH) and accept
+  // the values the kit computed itself (10-PDF-FACTS).
+  if (!dryRun()) {
+    const record = { kit: kitName, hash: printableHash(p), files: [`/news/downloads/${p.group}/${p.slug}.pdf`], computed };
+    await fs.writeFile(recordPath(slug), `${JSON.stringify(record, null, 2)}\n`);
+  }
   const q = (s: string) => JSON.stringify(s);
-  const entry = (file: string, title: string, desc: string, alt: string) => `  - group: ${q(p.title.replace(/[,:].*$/, "") + " printables")}
-    title: ${q(title)}
-    description: ${q(desc)}
-    preview: ../../../../assets/news/${p.group}/${file}.png
-    alt: ${q(alt)}
-    pdf: "/news/downloads/${p.group}/${file}.pdf"
-    png: "/news/downloads/${p.group}/${file}.png"
-    pages: 1`;
-  const desc = p.description ?? p.subtitle ?? p.title, alt = p.alt ?? `${p.title} printable`;
-  console.log(`\nPaste under downloads: in the frontmatter:\n${entry(p.slug, p.title, desc, alt)}${p.inkSaver ? `\n${entry(`${p.slug}-ink`, `${p.title.slice(0, 68)} (ink saver)`, `${desc.slice(0, 170)} Ink-saver version.`, `${alt.slice(0, 140)}, ink-saver version`)}` : ""}`);
+  const pages = (sheet.html.match(/<section class="page/g) ?? []).length;
+  console.log(`\nPaste under downloads: in the frontmatter:
+  - group: ${q(p.title.replace(/[,:].*$/, "") + " printables")}
+    title: ${q(p.title)}
+    description: ${q(p.description ?? p.subtitle ?? p.title)}
+    preview: ../../../../assets/news/${p.group}/${p.slug}.png
+    alt: ${q(p.alt ?? `${p.title} printable`)}
+    pdf: "/news/downloads/${p.group}/${p.slug}.pdf"
+    png: "/news/downloads/${p.group}/${p.slug}.png"
+    pages: ${pages}`);
 }
 
 /**

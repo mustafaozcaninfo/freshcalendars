@@ -16,8 +16,9 @@ Rules:
 - Note what the official pages show that a reader would not expect (a change from last year, a nearby date, a rule that excludes some readers); stories win on these details.
 - If the main session asks for hero candidates, list public-domain or CC BY / CC BY-SA photos of the real subject from the agency's own Wikimedia Commons or NASA uploads, with the file page URL and license; do not download them.
 
-Return, in under 700 words:
+Return, in under 700 words (the PRINTABLE DATA block does not count):
 0. BLOCKED official pages first, each with the facts it should confirm (or "none").
 1. Each fact on its own line, with the source URL, page title, publisher and date, and the exact sentence or table cell from the page for numbers, dates, times and rules.
 2. A list of UNCONFIRMED items.
 3. Anything that contradicts what you were told to check.
+4. PRINTABLE DATA, only when the main session names a printable kit (school-year, watch-guide, deadline-matrix; formats in the `news-article` skill under "Printables"): the kit's `data:` block as YAML, filled only with facts from section 1. Dates as YYYY-MM-DD, times as ISO with the offset the source implies (2026-11-18T20:00-05:00), no weekdays and no counts (the kit computes them). Put on every item `src:` with the exact URL of its source from section 1, and list what is missing under `unconfirmed:` with `{ label, why }`. Never fill a cell you could not confirm.

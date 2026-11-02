@@ -603,6 +603,53 @@ warn("10-PDF-RASTER", "Printable PDFs with raster images (Chromium rasterizes bo
   return r.length ? [`${r.length} PDFs`, ...r.slice(0, 7)] : [];
 });
 warn("10-PDF-TITLE", "Sheet heading does not use the words of its download title (title and h1 should match) — review", () => printFails("title"));
+// Printable facts and freshness (docs/PRINTABLE-DESIGN-PLAN.md, scripts/lib/print-record.mjs). They apply to
+// stories whose printable carries a <slug>.print.json record (every `pnpm fc news-assets` run writes one)
+// and to every story published from PRINT_SINCE; older sheets are left as they shipped.
+const { PRINT_SINCE, factTokens, printableHash, readRecord, showToken } = await import("./lib/print-record.mjs");
+const { parse: parseYaml } = await import("yaml");
+const storySrc = new Map();
+(function walkMd(dir) {
+  for (const f of readdirSync(dir)) {
+    const p = path.join(dir, f);
+    if (statSync(p).isDirectory()) walkMd(p);
+    else if (f.endsWith(".md")) storySrc.set(f.slice(0, -3), p);
+  }
+})(ARTICLES_SRC);
+const storyOf = (u) => {
+  const slug = u.replace(/^\/news\//, "").replace(/\/$/, "");
+  const file = storySrc.get(slug);
+  if (!file) return null;
+  const raw = readFileSync(file, "utf8"), m = /^---\n([\s\S]*?)\n---\n?([\s\S]*)$/.exec(raw);
+  if (!m) return null;
+  const fm = parseYaml(m[1]) ?? {};
+  return { slug, fm, body: m[2], record: readRecord(slug), recent: String(fm.publishedAt ?? "").slice(0, 10) >= PRINT_SINCE };
+};
+const printStories = articleUrls.map((u) => [u, storyOf(u)]).filter(([, s]) => s);
+check("10-PDF-FACTS", "Every date, clock time, dollar amount and percentage on a printable also appears in its story (or was computed by the kit), so the sheet never says more than the story", () =>
+  printStories.flatMap(([u, s]) => {
+    if (!s.record && !s.recent) return [];
+    // The story's own words: body plus frontmatter, minus the printable's rows and download blurbs.
+    const { assets, downloads, ...rest } = s.fm;
+    const have = factTokens(`${s.body}\n${JSON.stringify(rest)}`, { iso: true, story: true });
+    for (const c of s.record?.computed ?? []) for (const k of factTokens(c)) have.add(k);
+    const files = s.record ? s.record.files : pdfLinks(html[u]).filter((f) => !/-ink\.pdf$/.test(f));
+    return files.flatMap((f) => {
+      const r = pdfPrint.get(f);
+      if (!r) return [];
+      const missing = [...factTokens(r.all)].filter((k) => !have.has(k));
+      return missing.length ? [`${u}: ${f} prints ${missing.slice(0, 8).map(showToken).join(", ")}${missing.length > 8 ? ` and ${missing.length - 8} more` : ""}, not in the story`] : [];
+    });
+  }));
+check("10-PDF-FRESH", "A story's printable PDF was drawn from its current assets.printable data (run pnpm fc news-assets <slug> after changing it)", () =>
+  printStories.flatMap(([u, s]) => {
+    const p = s.fm.assets?.printable;
+    if (!p) return [];
+    if (!s.record) return s.recent ? [`${u}: no ${s.slug}.print.json; run pnpm fc news-assets ${s.slug}`] : [];
+    return s.record.hash === printableHash(p) ? [] : [`${u}: assets.printable changed after the PDF was drawn; run pnpm fc news-assets ${s.slug}`];
+  }));
+check("10-PDF-NO-INK", `No ink-saver copies on stories published from ${PRINT_SINCE} (retired 2026-11-03: one color sheet per story)`, () =>
+  printStories.flatMap(([u, s]) => (s.recent && pdfLinks(html[u]).some((f) => /-ink\.pdf$/.test(f)) ? [`${u}: lists an -ink PDF`] : [])));
 warn("10-PDF-LEGACY", "Printable PDFs exempt from the font rule until regenerated (PDF_LEGACY in scripts/lib/pdf-print.mjs) — informational", () =>
   Object.entries(PDF_LEGACY).map(([k, why]) => `${k} (${[...pdfPrint.keys()].filter((f) => legacyOf(f) === k).length} files): ${why}`));
 /** Google Discover: headlines that hide or hype the content (clickbait, outrage) are demoted since the Feb. 2026 core update. */

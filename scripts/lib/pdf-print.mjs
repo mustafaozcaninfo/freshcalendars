@@ -82,7 +82,8 @@ function overlaps(rs) {
 
 /**
  * Checks one built (stamped) PDF against its download title, the stamped /Title.
- * Returns { page, fonts, vector, safe, overlap, text, title }: arrays of problems, empty when the rule holds.
+ * Returns { page, fonts, vector, safe, overlap, text, title }: arrays of problems, empty when the rule holds,
+ * and `all`, the text of every page (for the fact check, 10-PDF-FACTS).
  */
 export async function checkPrintPdf(file) {
   const bytes = await readFile(file);
@@ -96,13 +97,14 @@ export async function checkPrintPdf(file) {
   });
   const { loose, images } = objects(lib);
   const pdf = await getDocument({ data: new Uint8Array(bytes), verbosity: 0, isEvalSupported: false, disableFontFace: true, useSystemFonts: false }).promise;
-  let first = "";
+  let first = "", all = "";
   try {
     for (let n = 1; n <= pdf.numPages; n++) {
       const pg = await pdf.getPage(n);
       const [, , W, H] = pg.view;
       const rs = await runs(pg);
       if (n === 1) first = rs.map((r) => r.s).join(" ");
+      all += ` ${rs.map((r) => r.s).join(" ")}`;
       const at = pdf.numPages > 1 ? `page ${n}: ` : "";
       for (const r of rs) {
         const d = Math.min(r.x0, W - r.x1, r.y0, H - r.y1);
@@ -128,5 +130,6 @@ export async function checkPrintPdf(file) {
     overlap,
     text,
     title: named,
+    all,
   };
 }
