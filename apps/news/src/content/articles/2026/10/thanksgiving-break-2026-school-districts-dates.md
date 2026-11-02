@@ -1,8 +1,9 @@
 ---
-title: "Thanksgiving Break 2026: Dates for 21 Large School Districts, From Full-Week Breaks to Two Days Off"
+title: "Thanksgiving Break 2026: Dates for 24 Large School Districts, From Full-Week Breaks to Two Days Off"
 seoTitle: "Thanksgiving Break 2026 Dates by School District"
-description: "Thanksgiving break 2026: 14 of 21 big districts are off Nov. 23-27, four from Nov. 25, and New York City, Chicago and Montgomery County only Nov. 26-27."
+description: "Thanksgiving break 2026: 16 of 24 big districts are off Nov. 23-27, five from Nov. 25, and New York City, Chicago and Montgomery County only Nov. 26-27."
 type: news
+updatedAt: "2026-11-02T08:54:00-05:00"
 publishedAt: "2026-10-22T13:10:00-04:00"
 authors: [aaron-kessler]
 category: school-calendars
@@ -12,12 +13,12 @@ assets:
   scene: school
   kicker: "Thanksgiving break 2026"
   date: "2026-11-23"
-  card: { top: "14 of 21 big districts off", big: "Nov. 23-27", bottom: "Thanksgiving is Thu., Nov. 26" }
+  card: { top: "16 of 24 big districts off", big: "Nov. 23-27", bottom: "Thanksgiving is Thu., Nov. 26" }
   printable:
     slug: thanksgiving-break-2026-school-districts
     group: thanksgiving-2026
     title: "Thanksgiving Break 2026 by School District"
-    subtitle: "Student days off in Thanksgiving week for 21 large U.S. districts"
+    subtitle: "Student days off in Thanksgiving week for 24 large U.S. districts"
     layout: list
     columns: ["Students off", "District"]
     rows:
@@ -35,41 +36,44 @@ assets:
       - ["Mon., Nov. 23 to Fri., Nov. 27", "Cypress-Fairbanks ISD, Texas"]
       - ["Mon., Nov. 23 to Fri., Nov. 27", "Northside ISD, San Antonio, Texas"]
       - ["Mon., Nov. 23 to Fri., Nov. 27", "Denver Public Schools, Colo."]
+      - ["Mon., Nov. 23 to Fri., Nov. 27", "Cobb County, Ga."]
+      - ["Mon., Nov. 23 to Fri., Nov. 27", "Austin ISD, Texas"]
       - ["Wed., Nov. 25 to Fri., Nov. 27", "Clark County, Nev. (Nov. 25 is also a contingency day)"]
       - ["Wed., Nov. 25 to Fri., Nov. 27", "Fairfax County, Va."]
       - ["Wed., Nov. 25 to Fri., Nov. 27", "Wake County, N.C. (traditional calendar)"]
       - ["Wed., Nov. 25 to Fri., Nov. 27", "Charlotte-Mecklenburg, N.C."]
+      - ["Wed., Nov. 25 to Fri., Nov. 27", "Philadelphia, Pa. (Nov. 25 is a staff development day)"]
       - ["Thu., Nov. 26 to Fri., Nov. 27", "New York City Public Schools, N.Y."]
       - ["Thu., Nov. 26 to Fri., Nov. 27", "Chicago Public Schools, Ill."]
       - ["Thu., Nov. 26 to Fri., Nov. 27", "Montgomery County, Md. (early release Nov. 23-25)"]
     note: "Source: each district's official 2026-27 school calendar (see the story for links). ISD = Independent School District. Districts can change calendars; check yours before you book travel."
     notesLabel: "Our school, our plans"
     inkSaver: true
-    description: "Thanksgiving week 2026 days off for students in 21 large U.S. school districts on one page, grouped by when the break starts."
-    alt: "Thanksgiving break 2026 printable listing 21 large school districts and the days students are off from Nov. 23 to Nov. 27"
+    description: "Thanksgiving week 2026 days off for students in 24 large U.S. school districts on one page, grouped by when the break starts."
+    alt: "Thanksgiving break 2026 printable listing 24 large school districts and the days students are off from Nov. 23 to Nov. 27"
 hero:
   src: ../../../../assets/news/thanksgiving-break-2026-school-districts-dates/thanksgiving-break-2026-school-districts-dates.jpg
-  alt: "Thanksgiving break 2026 illustration: a schoolhouse scene with a Nov. 23 date tile and a card saying 14 of 21 big districts are off Nov. 23-27"
+  alt: "Thanksgiving break 2026 illustration: a schoolhouse scene with a Nov. 23 date tile and a card saying 16 of 24 big districts are off Nov. 23-27"
   title: "Thanksgiving break 2026 for large school districts"
-  caption: "Fourteen of the 21 large districts we checked give students the whole week of Nov. 23-27, 2026 off; New York City, Chicago and Montgomery County close only Nov. 26-27."
+  caption: "Sixteen of the 24 large districts we checked give students the whole week of Nov. 23-27, 2026 off; New York City, Chicago and Montgomery County close only Nov. 26-27."
 summary:
-  - "Thanksgiving is Thursday, Nov. 26, 2026. In 14 of 21 large U.S. districts we checked, students are off the whole week, Monday, Nov. 23 through Friday, Nov. 27."
-  - "Clark County, Fairfax County, Wake County and Charlotte-Mecklenburg start the break on Wednesday, Nov. 25."
+  - "Thanksgiving is Thursday, Nov. 26, 2026. In 16 of 24 large U.S. districts we checked, students are off the whole week, Monday, Nov. 23 through Friday, Nov. 27."
+  - "Clark County, Fairfax County, Wake County, Charlotte-Mecklenburg and Philadelphia start the break on Wednesday, Nov. 25."
   - "New York City, Chicago and Montgomery County, Md., hold classes Monday to Wednesday and close only Nov. 26-27; Montgomery County dismisses early Nov. 23-25."
-  - "Classes resume Monday, Nov. 30 in all 21 districts. A free printable lists every district."
+  - "Classes resume Monday, Nov. 30 in 21 of the 24 districts. A free printable lists every district."
 faq:
   - q: "When is Thanksgiving break 2026?"
     a: "For most large districts we checked, Monday, Nov. 23 through Friday, Nov. 27, 2026. Some districts start on Wednesday, Nov. 25, and a few close only on Thanksgiving Day, Nov. 26, and Friday, Nov. 27."
   - q: "Is there school the week of Thanksgiving 2026?"
-    a: "It depends on the district. Los Angeles, Miami-Dade, Houston, Dallas and most large Florida and Texas districts are closed all week. New York City, Chicago and Montgomery County, Md., have school Monday through Wednesday."
+    a: "It depends on the district. Los Angeles, Miami-Dade, Houston, Dallas, Cobb County, Austin and most large Florida and Texas districts are closed all week. New York City, Chicago and Montgomery County, Md., have school Monday through Wednesday."
   - q: "Do NYC public schools have Thanksgiving week off in 2026?"
     a: "No. NYC Public Schools close for Thanksgiving recess on Thursday, Nov. 26 and Friday, Nov. 27 only. Classes meet Monday through Wednesday, Nov. 23-25."
   - q: "Does Los Angeles Unified have the whole Thanksgiving week off?"
     a: "Yes. The 2026-27 calendar marks Nov. 23-25 as no-school days and Nov. 26-27 as the Thanksgiving holiday, so students are off all week."
   - q: "When do students go back after Thanksgiving break 2026?"
-    a: "Monday, Nov. 30, 2026, in all 21 districts listed here."
+    a: "Monday, Nov. 30, 2026, in 21 of the 24 districts listed here."
   - q: "Is the Friday after Thanksgiving a school holiday?"
-    a: "Yes, in every district on this list. Friday, Nov. 27 is Black Friday, and all 21 districts are closed that day."
+    a: "Yes, in every district on this list. Friday, Nov. 27 is Black Friday, and all 24 districts are closed that day."
 sources:
   - title: "School Year Calendar 2026-2027"
     url: "https://www.schools.nyc.gov/docs/default-source/sections/calendar/2026-27-school-year-calendar.pdf"
@@ -134,6 +138,15 @@ sources:
   - title: "School Year Calendar 2026-27"
     url: "https://www.dpsk12.org/documents/calendars-&-publications/2026-27-calendars/17704516"
     publisher: "Denver Public Schools"
+  - title: "2026-2027 School Year Calendar (revised 3/11/26)"
+    url: "https://media.cobbk12.org/media/WWWCobb/medialib/2026-27-year-at-a-glance.59da33112275.pdf"
+    publisher: "Cobb County School District"
+  - title: "Fall Break | Austin ISD"
+    url: "https://www.austinisd.org/calendar/events/2026/11/23/fall-break"
+    publisher: "Austin Independent School District"
+  - title: "Academic Calendar"
+    url: "https://www.philasd.org/calendar/"
+    publisher: "The School District of Philadelphia"
 internalLinks:
   - href: "/november-calendars.html"
     label: "November 2026 printable calendar"
@@ -145,24 +158,24 @@ related: [winter-break-2026-school-districts-dates, why-thanksgiving-2026-is-nov
 downloads:
   - group: "Thanksgiving Break 2026 by School District printables"
     title: "Thanksgiving Break 2026 by School District"
-    description: "Thanksgiving week 2026 days off for students in 21 large U.S. school districts on one page, grouped by when the break starts."
+    description: "Thanksgiving week 2026 days off for students in 24 large U.S. school districts on one page, grouped by when the break starts."
     preview: ../../../../assets/news/thanksgiving-2026/thanksgiving-break-2026-school-districts.png
-    alt: "Thanksgiving break 2026 printable listing 21 large school districts and the days students are off from Nov. 23 to Nov. 27"
+    alt: "Thanksgiving break 2026 printable listing 24 large school districts and the days students are off from Nov. 23 to Nov. 27"
     pdf: "/news/downloads/thanksgiving-2026/thanksgiving-break-2026-school-districts.pdf"
     png: "/news/downloads/thanksgiving-2026/thanksgiving-break-2026-school-districts.png"
     pages: 1
   - group: "Thanksgiving Break 2026 by School District printables"
     title: "Thanksgiving Break 2026 by School District (ink saver)"
-    description: "Thanksgiving week 2026 days off for students in 21 large U.S. school districts on one page, grouped by when the break starts. Ink-saver version."
+    description: "Thanksgiving week 2026 days off for students in 24 large U.S. school districts on one page, grouped by when the break starts. Ink-saver version."
     preview: ../../../../assets/news/thanksgiving-2026/thanksgiving-break-2026-school-districts-ink.png
-    alt: "Thanksgiving break 2026 printable listing 21 large school districts and the days students are off from Nov. 23 to Nov. 27, ink-saver version"
+    alt: "Thanksgiving break 2026 printable listing 24 large school districts and the days students are off from Nov. 23 to Nov. 27, ink-saver version"
     pdf: "/news/downloads/thanksgiving-2026/thanksgiving-break-2026-school-districts-ink.pdf"
     png: "/news/downloads/thanksgiving-2026/thanksgiving-break-2026-school-districts-ink.png"
     pages: 1
 draft: false
 ---
 
-**Thanksgiving break 2026 runs Monday, Nov. 23 through Friday, Nov. 27 in most large U.S. school districts.** Of the 21 big districts we checked, 14 give students the whole week off. Four start the break on Wednesday, Nov. 25, and three, including New York City and Chicago, close only on Thanksgiving Day and the Friday after.
+**Thanksgiving break 2026 runs Monday, Nov. 23 through Friday, Nov. 27 in most large U.S. school districts.** Of the 24 big districts we checked, 16 give students the whole week off. Five start the break on Wednesday, Nov. 25, and three, including New York City and Chicago, close only on Thanksgiving Day and the Friday after.
 
 Thanksgiving is Thursday, Nov. 26, 2026. Every date below comes from the district's own 2026-27 calendar, linked in the sources.
 
@@ -184,27 +197,30 @@ Thanksgiving is Thursday, Nov. 26, 2026. Every date below comes from the distric
 | Cypress-Fairbanks ISD, Texas | Mon., Nov. 23 to Fri., Nov. 27 | 5 |
 | Northside ISD, San Antonio | Mon., Nov. 23 to Fri., Nov. 27 | 5 |
 | Denver Public Schools, Colo. | Mon., Nov. 23 to Fri., Nov. 27 | 5 |
+| [Cobb County, Ga.](/news/cobb-county-school-calendar-2026-27-breaks-holidays/) | Mon., Nov. 23 to Fri., Nov. 27 | 5 |
+| [Austin ISD, Texas](/news/austin-isd-calendar-2026-27-holidays-breaks/) | Mon., Nov. 23 to Fri., Nov. 27 | 5 |
 | Clark County, Nev. | Wed., Nov. 25 to Fri., Nov. 27 | 3 |
 | Fairfax County, Va. | Wed., Nov. 25 to Fri., Nov. 27 | 3 |
 | Wake County, N.C. (traditional) | Wed., Nov. 25 to Fri., Nov. 27 | 3 |
 | Charlotte-Mecklenburg, N.C. | Wed., Nov. 25 to Fri., Nov. 27 | 3 |
+| [Philadelphia, Pa.](/news/philadelphia-school-district-calendar-2026-27-holidays/) | Wed., Nov. 25 to Fri., Nov. 27 | 3 (Nov. 25 is a staff professional development day) |
 | New York City Public Schools | Thu., Nov. 26 to Fri., Nov. 27 | 2 |
 | Chicago Public Schools | Thu., Nov. 26 to Fri., Nov. 27 | 2 |
 | Montgomery County, Md. | Thu., Nov. 26 to Fri., Nov. 27 | 2, plus early release Nov. 23-25 |
 
-![Thanksgiving break 2026 chart for 21 large school districts: 14 are off Monday to Friday, Nov. 23-27, four from Wednesday, Nov. 25, and New York City, Chicago and Montgomery County only Nov. 26-27](../../../../assets/news/thanksgiving-break-2026-school-districts-dates/thanksgiving-break-2026-chart.png "Thanksgiving break 2026 by school district")
+![Thanksgiving break 2026 chart for 24 large school districts: 16 are off Monday to Friday, Nov. 23-27, five from Wednesday, Nov. 25, and New York City, Chicago and Montgomery County only Nov. 26-27](../../../../assets/news/thanksgiving-break-2026-school-districts-dates/thanksgiving-break-2026-chart.png "Thanksgiving break 2026 by school district")
 
 *Florida, Texas and California districts lean toward the full week. The Northeast and Midwest keep students in class until Wednesday.*
 
 ## The full-week districts
 
-Every large Florida district on the list, from Miami-Dade to Duval, closes for the whole week. So do the four Texas districts, Los Angeles, San Diego, Gwinnett County in the Atlanta suburbs and Denver.
+Every large Florida district on the list, from Miami-Dade to Duval, closes for the whole week. So do the five Texas districts, including Austin, plus Los Angeles, San Diego, Denver, and Cobb and Gwinnett counties in Georgia.
 
 Los Angeles Unified's board-approved calendar names only Nov. 26-27 as the Thanksgiving holiday, but it also marks Nov. 23-25 as no-school days. The district's school sites list the whole week as "No School - Thanksgiving Break." Miami-Dade calls Nov. 23-25 recess days and Nov. 26-27 the Thanksgiving holiday and recess.
 
 ## Districts that start on Wednesday
 
-Clark County, which covers Las Vegas, has no school on Wednesday, Nov. 25. The district also lists that day as its first contingency day, so it could become a school day if the district needs to make up lost time. Fairfax County, Wake County and Charlotte-Mecklenburg also close Nov. 25-27, with classes on Monday and Tuesday.
+Clark County, which covers Las Vegas, has no school on Wednesday, Nov. 25. The district also lists that day as its first contingency day, so it could become a school day if the district needs to make up lost time. Fairfax County, Wake County and Charlotte-Mecklenburg also close Nov. 25-27, with classes on Monday and Tuesday. The School District of Philadelphia lists Wednesday, Nov. 25 as a staff professional development day with school closed for students, followed by Thanksgiving Recess on Nov. 26-27, so students are off three days. Its calendar does not list Nov. 23-24 as closed.
 
 ## Districts with school until Wednesday
 
@@ -214,7 +230,7 @@ Clark County, which covers Las Vegas, has no school on Wednesday, Nov. 25. The d
 
 ## Back to school on Nov. 30
 
-All 21 districts reopen on **Monday, Nov. 30**. Families in the full-week districts have nine days in a row, from Saturday, Nov. 21 through Sunday, Nov. 29. In New York City, Chicago and Montgomery County the break is a four-day weekend, Thursday to Sunday.
+21 of the 24 districts reopen on **Monday, Nov. 30**. Families in the full-week districts have nine days in a row, from Saturday, Nov. 21 through Sunday, Nov. 29. In New York City, Chicago and Montgomery County the break is a four-day weekend, Thursday to Sunday.
 
 ## Plan the week
 

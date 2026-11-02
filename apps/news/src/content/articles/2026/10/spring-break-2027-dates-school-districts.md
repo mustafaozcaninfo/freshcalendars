@@ -76,7 +76,7 @@ internalLinks:
     label: "April 2027 printable calendar"
   - href: "/when-is/easter/"
     label: "When is Easter?"
-related: [winter-break-2026-school-districts-dates, nyc-public-schools-calendar-2026-27-breaks-holidays, chicago-public-schools-calendar-2026-27-breaks]
+related: [winter-break-2026-school-districts-dates, nyc-public-schools-calendar-2026-27-breaks-holidays, lausd-calendar-2026-27-winter-break-spring-break]
 assets:
   overlay: true
   kicker: "Spring break 2027"

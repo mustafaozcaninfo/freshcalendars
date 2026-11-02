@@ -55,7 +55,7 @@ internalLinks:
     label: "December 2026 printable calendar"
   - href: "/january-calendars.html"
     label: "January 2027 printable calendar"
-related: [social-security-payment-schedule-november-2026-veterans-day-shift, social-security-cola-2027-3-6-percent-payment-dates, snap-payment-schedule-december-2026-deposit-dates-by-state]
+related: [social-security-payment-schedule-november-2026-veterans-day-shift, social-security-cola-2027-3-6-percent-payment-dates, social-security-payment-schedule-january-2027-first-cola-checks]
 assets:
   kicker: "Social Security December 2026"
   date: "2026-12-31"
