@@ -5,9 +5,9 @@ Five Claude accounts work on /news/. All of them are signed in to GitHub as the 
 | Account | Code | Beat | Byline | Runs |
 |---|---|---|---|---|
 | Manager | `M` | plans, queues, review, code changes | – | by hand (the owner's own sessions) |
-| Writer 1 | `w1` | holidays, elections, government deadlines, UK and Canada, UK/Canada sports | `alex-morgan` | writer routine, below |
-| Writer 2 | `w2` | school calendars, test dates, family planning, money and benefits (Social Security, SNAP, taxes, wages) | `emily-carter` for school and family, `alex-morgan` for money and government | writer routine, below |
-| Writer 3 | `w3` | time and clock changes, sky events, calendar guides, retail dates, US sports, entertainment and streaming | `jordan-bennett` | writer routine, below |
+| Writer 1 | `w1` | holidays, elections, government deadlines (categories `holidays`, `elections`, `planning`, `uk-canada`), UK and Canada sports | `alex-morgan` | writer routine, below |
+| Writer 2 | `w2` | school calendars, test dates, family planning, money and benefits: Social Security, SNAP, taxes, wages (categories `school-calendars`, `money-benefits`, money stories in `planning`) | `emily-carter` for school and family, `alex-morgan` for money and government | writer routine, below |
+| Writer 3 | `w3` | time and clock changes, sky events, calendar guides, retail dates, entertainment and streaming, gaming and tech, all sports except UK and Canada (categories `time-change`, `sky-events`, `calendar-guides`, `retail-dates`, `entertainment`, `gaming-tech`, `sports`) | `jordan-bennett` | writer routine, below |
 | Writer 4 | `w4` | the puzzle desk: daily puzzle pages and monthly roundups, nothing else | `news-desk` | routines A, B and C (`docs/PUZZLE-ROUTINES.md`) |
 
 The byline follows the beat of the story, not the account: a w2 money story is bylined `alex-morgan`. The queue item names the byline.
