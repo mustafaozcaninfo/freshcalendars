@@ -15,15 +15,15 @@ United States
 
 ## Editors
 
-- [Christina Gerland](/news/author/christina-gerland/), Senior Editor: public holidays, elections, government deadlines, UK and Canada
-- [Aaron Kessler](/news/author/aaron-kessler/), Managing Editor: education, school calendars, family planning, money and benefits
-- [Jessica Hartwell](/news/author/jessica-hartwell/), News Editor: time, seasonal events, retail dates, sports, entertainment and data
+- [Christina Gerland](/news/author/christina-gerland/), Senior Editor: public holidays, elections, government deadlines, UK and Canada ([christina@freshcalendars.com](mailto:christina@freshcalendars.com))
+- [Aaron Kessler](/news/author/aaron-kessler/), Managing Editor: education, school calendars, family planning, money and benefits ([aaron@freshcalendars.com](mailto:aaron@freshcalendars.com))
+- [Jessica Hartwell](/news/author/jessica-hartwell/), News Editor: time, seasonal events, retail dates, sports, entertainment and data ([jessica@freshcalendars.com](mailto:jessica@freshcalendars.com))
 
-Each story carries the name of the editor responsible for its beat, who reviews it.
+Each story carries the name of the editor who owns its category and reviews it.
 
 ## News desk
 
-Daily puzzle pages are published under the [Fresh Calendars News Desk](/news/author/news-desk/) byline, the editorial team of Fresh Calendars. The desk is responsible for choosing stories, checking dates against primary sources and publishing corrections.
+Daily puzzle pages are published under the [Fresh Calendars News Desk](/news/author/news-desk/) byline, the editorial team of Fresh Calendars. The desk is responsible for choosing stories, checking dates against primary sources and publishing corrections. Desk email: [news@freshcalendars.com](mailto:news@freshcalendars.com).
 
 ## Contact
 
