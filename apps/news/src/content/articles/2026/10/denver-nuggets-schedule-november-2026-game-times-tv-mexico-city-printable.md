@@ -88,7 +88,7 @@ internalLinks:
     label: "printable weekly calendar"
   - href: "/december-calendars.html"
     label: "December 2026 printable calendar"
-related: [lakers-schedule-november-2026-game-times-tv-nba-cup-printable, nba-cup-2026-schedule-dates-group-play-knockouts-final-indianapolis, nba-games-today-november-1-2026]
+related: [lakers-schedule-november-2026-game-times-tv-nba-cup-printable, nba-cup-2026-schedule-dates-group-play-knockouts-final-indianapolis, dallas-mavericks-schedule-november-2026-game-times-tv-nba-cup-printable]
 downloads:
   - group: "Denver Nuggets November 2026 Schedule printables"
     title: "Denver Nuggets November 2026 Schedule"
