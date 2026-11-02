@@ -3,7 +3,7 @@ title: "PDC World Darts Championship 2026-27: Dec. 11 to Jan. 3 Dates, Alexandra
 seoTitle: "PDC World Darts Championship 2026-27 Dates"
 description: "The Professional Darts Corporation (PDC) World Darts Championship runs Dec. 11, 2026 to Jan. 3, 2027 at Alexandra Palace, London. Times not yet announced."
 type: news
-publishedAt: "2026-11-02T12:00:00-05:00"
+publishedAt: "2026-11-02T11:55:00-05:00"
 authors: [jessica-hartwell]
 category: sports
 keywords: ["world darts championship 2026 schedule", "pdc world darts championship 2026-27 dates", "world darts championship 2027 final date", "world darts championship time in us"]
@@ -178,7 +178,7 @@ Luke Littler beat Gian van Veen 7-1 in the final on Saturday, Jan. 3, 2026, acco
 
 Alexandra Palace says that for the first time, tickets were allocated through a ballot, and "The Ballot has now closed." Ticket prices are not yet announced, nor are the field size, the qualifiers and the prize money.
 
-For comparison, the 2025-26 event had 128 players, according to Sky Sports' results page. It had a £5 million prize fund with £1 million for the winner. Round one ran Dec. 11-19, the semi-finals were on Friday, Jan. 2, and the final was on Saturday, Jan. 3, 2026. Those are last year's figures, not this year's.
+For comparison, the 2025-26 event had a £5 million prize fund with £1 million for the winner, according to Sky Sports' results page. Round one ran Dec. 11-19, the semi-finals were on Friday, Jan. 2, and the final was on Saturday, Jan. 3, 2026. Those are last year's figures, not this year's.
 
 ## Free World Darts Championship 2026-27 tracker
 
