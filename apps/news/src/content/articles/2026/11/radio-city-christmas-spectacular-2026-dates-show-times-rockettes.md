@@ -74,7 +74,7 @@ internalLinks:
     label: "December 2026 printable calendar"
   - href: "/when-is/christmas-day/"
     label: "When is Christmas Day?"
-related: [nyc-holiday-calendar-2026-rockefeller-tree-macys-parade, zoo-lights-2026-dates-national-zoo-bronx-lincoln-park-la-denver-houston, hallmark-countdown-to-christmas-2026-schedule-printable]
+related: [nyc-holiday-calendar-2026-rockefeller-tree-macys-parade, zoo-lights-2026-dates-national-zoo-bronx-lincoln-park-la-denver-houston, nutcracker-2026-dates-nyc-ballet-boston-ballet-san-francisco-pnb-atlanta-london]
 downloads:
   - group: "Radio City Christmas Spectacular 2026 Visit Day Planner printables"
     title: "Radio City Christmas Spectacular 2026 Visit Day Planner"

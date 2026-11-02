@@ -99,7 +99,7 @@ internalLinks:
     label: "November 2026 printable calendar"
   - href: "/december-calendars.html"
     label: "December 2026 printable calendar"
-related: [holiday-deals-this-week-november-2-8-2026-target-best-buy-starbucks, weekends-until-christmas-2026-saturday-planner-shipping-deadlines, year-end-money-deadlines-december-31-2026]
+related: [mega-millions-drawing-tuesday-november-3-2026-time-jackpot-482-million, weekends-until-christmas-2026-saturday-planner-shipping-deadlines, holiday-deals-this-week-november-2-8-2026-target-best-buy-starbucks]
 downloads:
   - group: "Powerball and Mega Millions Drawing Dates printables"
     title: "Powerball and Mega Millions Drawing Dates, Nov.-Dec. 2026"
@@ -220,7 +220,7 @@ We found no holiday statement on powerball.com or megamillions.com, so nothing h
 | Cost per play | $2 | $5, multiplier included |
 | Jackpot odds | 1 in 292,201,338 (Georgia Lottery) | 1 in 290,472,336 (megamillions.com) |
 
-We did not find a current Mega Millions jackpot on its official pages, so none is given here.
+For the Mega Millions jackpot, drawing time and ticket cutoffs, see our [Mega Millions drawing story for Nov. 3](/news/mega-millions-drawing-tuesday-november-3-2026-time-jackpot-482-million/).
 
 ## How long do you have to claim a lottery prize?
 
