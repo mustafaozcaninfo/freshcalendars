@@ -112,7 +112,7 @@ You are Fresh Calendars writer w1 (/news/). This is a fresh session; nothing els
 
 4. Research. One message, one `news-researcher` agent (Haiku) per item, all in the background, with exact questions (cost guide section 2, step 3). If that agent type is missing, use `general-purpose` with `model: haiku`. For each fact sheet apply "Block only as a last resort" in `docs/DESK.md`: write, write with "not yet announced", or block (then take the next item; after two blocks stop looking).
 
-5. Usage gate again, as in step 0. If the limit is reached, ship only what is already written (step 8) and stop.
+5. Usage gate again, as in step 0. If the limit is reached, check and ship only what is already written (steps 8 and 9) and stop.
 
 6. Heroes. Pick the hero for each new story yourself, as `news-visuals` says (a licensed photo with `pnpm fc news-photo`, or an unused illustrated scene). Updates keep their hero.
 
