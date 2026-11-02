@@ -107,7 +107,7 @@ internalLinks:
     label: "November 2026 printable calendar"
   - href: "/december-calendars.html"
     label: "December 2026 printable calendar"
-related: [georgia-2026-ballot-amendments-advance-voting, when-will-we-know-election-results-2026-midterms, louisiana-sample-ballot-2026-senate-amendments]
+related: [georgia-2026-ballot-amendments-advance-voting, when-will-we-know-election-results-2026-midterms, when-are-2026-election-results-certified-deadlines-by-state]
 downloads:
   - group: "2026 Runoff Election Dates printables"
     title: "2026 Runoff Election Dates: Georgia, Louisiana, Mississippi"

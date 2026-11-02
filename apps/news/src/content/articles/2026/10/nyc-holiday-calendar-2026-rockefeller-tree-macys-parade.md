@@ -108,7 +108,7 @@ internalLinks:
     label: "When is Christmas Day 2026?"
   - href: "/when-is/new-years-eve/"
     label: "When is New Year's Eve?"
-related: [ice-skating-rinks-2026-27-opening-dates-bryant-park-wollman-chicago-la-london, times-square-ball-drop-2026-time-how-to-watch-time-zones, radio-city-christmas-spectacular-2026-dates-show-times-rockettes]
+related: [ice-skating-rinks-2026-27-opening-dates-bryant-park-wollman-chicago-la-london, macys-thanksgiving-day-parade-2026-start-time-route-tv-balloons, radio-city-christmas-spectacular-2026-dates-show-times-rockettes]
 downloads:
   - group: "NYC Holiday Calendar 2026 printables"
     title: "NYC Holiday Calendar 2026"
