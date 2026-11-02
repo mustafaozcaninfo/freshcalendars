@@ -22,7 +22,7 @@ Each writer has one queue file: `docs/desk/w1.md`, `docs/desk/w2.md`, `docs/desk
 
 **Done.** The writer ticks the item in its pull request: `- [x] **<id>** (done 2026-11-03, <slug>) ...`.
 
-**Blocked.** When a fact cannot be confirmed yet or the story needs a code change: `- [ ] **<id>** (blocked: reason, date) ...`, shipped as a one-line change. The manager unblocks it by deleting the note.
+**Blocked.** When a fact cannot be confirmed yet or the story needs a code change: `- [ ] **<id>** (blocked: reason, date) ...`, shipped as a one-line change in its own pull request. The writer then takes the next item in the same run; after two blocked items in one run it stops. The manager unblocks an item by deleting the note.
 
 **Queue empty.** Then the writer takes the next due installment from the "Standing" section of its file. If none is due, it picks one story in its own beat with the `news-seo` skill, adds it to its file as a new item in the claim commit, and writes it. It never writes a topic that already has a story on `main`, an open pull request or a `claude/desk-*` branch. With nothing worth writing it reports "kuyruk boş" and stops.
 
@@ -34,7 +34,7 @@ Each writer has one queue file: `docs/desk/w1.md`, `docs/desk/w2.md`, `docs/desk
 
 Everything in `CLAUDE.md` applies. On top of it:
 
-- **One story per run.** Finish it properly or mark it blocked.
+- **One story per run.** Finish it properly, or mark it blocked and move to the next item (at most two blocked items per run).
 - **Stay in your beat.** A good topic in another beat goes in the report for the manager, not into your queue.
 - **Files you may change:** your story, its images and printables, your queue file, `KEY_DATES` lines for your story's dates, and the `related` or link lines in the 1-2 existing stories that link back to yours.
 - **Files you never change:** daily puzzle pages and roundups (W4), another writer's queue file, `docs/NEWS-BACKLOG.md` (the manager's), and shared code: `apps/news/src/components`, `apps/news/src/lib` (except `KEY_DATES` lines), `content.config.ts`, `packages/`, `scripts/`, `site-chrome`, `.github/`, `cloudflare/`. If a story needs a code change, mark the item blocked with "needs code: ..." and the manager makes it.
@@ -72,7 +72,7 @@ You are Fresh Calendars writer w1 (/news/). This is a fresh session; nothing els
 
 3. Claim. For a new item: `git checkout -b claude/desk-<id> origin/main`, a commit "desk: claim <id>" (empty, or the new queue line when you added the item yourself), `git push -u origin claude/desk-<id>`. If the push is refused because the branch exists, another run took it: go back to step 2.
 
-4. Write. Follow the `news-article` skill from its first step, with `news-seo` for the angle and `news-visuals` for the hero and printable. Research with `news-researcher` (Haiku), write with `news-writer` (Sonnet), both with full briefs. Facts only from official or authoritative sources; if the story depends on a fact nobody has confirmed, mark the item blocked in your queue file, ship that one line and stop. Commit and push to the branch after each meaningful step, so a run cut off by the usage limit can be continued.
+4. Write. Follow the `news-article` skill from its first step, with `news-seo` for the angle and `news-visuals` for the hero and printable. Research with `news-researcher` (Haiku), write with `news-writer` (Sonnet), both with full briefs. Facts only from official or authoritative sources; if the story depends on a fact nobody has confirmed, mark the item blocked in your queue file, ship that one line as its own pull request (step 6, without a tick), then go back to step 2 and take the next item. After two blocked items in one run, stop. Commit and push to the branch after each meaningful step, so a run cut off by the usage limit can be continued.
 
 5. Checks, all must pass: `pnpm news:build && pnpm news:verify && pnpm news:seo-audit`, `pnpm test`. For a story with a future `publishedAt`, preview it as the skill says and never commit preview times. Fix failures in your story; never weaken a check.
 
