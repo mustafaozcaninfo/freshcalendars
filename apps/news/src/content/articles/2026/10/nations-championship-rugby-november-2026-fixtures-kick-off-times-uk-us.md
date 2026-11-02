@@ -112,7 +112,7 @@ internalLinks:
     label: "November 2026 printable calendar"
   - href: "/printable-weekly-calendar.html"
     label: "Printable weekly calendar"
-related: [fa-cup-first-round-2026-27-fixtures-tv-picks-kickoff-times, carabao-cup-fourth-round-2026-schedule-kickoff-times-tv-us-uk, grand-slam-of-darts-2026-dates-november-14-22-format-prize-money-how-to-watch]
+related: [fa-cup-first-round-2026-27-fixtures-tv-picks-kickoff-times, carabao-cup-fourth-round-2026-schedule-kickoff-times-tv-us-uk, six-nations-2027-fixtures-kick-off-times-uk-us-canada]
 draft: false
 ---
 
