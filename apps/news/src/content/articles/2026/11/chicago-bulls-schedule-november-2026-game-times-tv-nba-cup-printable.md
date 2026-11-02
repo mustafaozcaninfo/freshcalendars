@@ -81,7 +81,7 @@ internalLinks:
     label: "printable weekly calendar"
   - href: "/when-is/thanksgiving/"
     label: "When is Thanksgiving?"
-related: [nba-cup-2026-schedule-dates-group-play-knockouts-final-indianapolis, knicks-schedule-november-2026-game-times-tv-nba-cup-printable, raptors-schedule-november-2026-game-times-tv-nba-cup-printable]
+related: [nba-cup-2026-schedule-dates-group-play-knockouts-final-indianapolis, milwaukee-bucks-schedule-november-2026-game-times-tv-nba-cup-printable, raptors-schedule-november-2026-game-times-tv-nba-cup-printable]
 downloads:
   - group: "Bulls Schedule printables"
     title: "Bulls Schedule, November 2026"
