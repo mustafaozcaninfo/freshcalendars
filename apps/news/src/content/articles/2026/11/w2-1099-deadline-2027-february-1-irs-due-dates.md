@@ -126,7 +126,7 @@ The table shows the statutory date, the weekday it lands on in 2027 and the date
 |---|---|---|---|
 | W-2 and W-3 | Mon., Feb. 1 (Jan. 31 is a Sunday) | Mon., Feb. 1 (to the SSA) | Mon., Feb. 1 (to the SSA) |
 | 1099-NEC | Mon., Feb. 1 (Jan. 31 is a Sunday) | Mon., Feb. 1 | Mon., Feb. 1 |
-| 1099-R, 1099-K, 1099-G, W-2G, and 1099-Interest (INT) and 1099-Dividends (DIV) | Mon., Feb. 1 (Jan. 31 is a Sunday) | Mon., March 1 (Feb. 28 is a Sunday) | Wed., March 31 |
+| 1099-R, 1099-K, 1099-G, W-2G, and the 1099 forms for interest and dividends | Mon., Feb. 1 (Jan. 31 is a Sunday) | Mon., March 1 (Feb. 28 is a Sunday) | Wed., March 31 |
 | 1099-MISC | Mon., Feb. 1; Tue., Feb. 16 if amounts are in box 8 or 10 (Feb. 15 is a holiday) | Mon., March 1 (Feb. 28 is a Sunday) | Wed., March 31 |
 | 1099-B and 1099-S | Tue., Feb. 16 (Feb. 15 is a holiday) | See Publication 1099 | See Publication 1099 |
 
@@ -138,7 +138,7 @@ Print the dates on the one-page checklist below, or mark them on the [January](/
 
 The IRS page on Filing Information Returns Electronically (FIRE), updated Oct. 30, 2026, says Nov. 19, 2026, at 3 p.m. Eastern Time (ET) is the last time to file information returns through FIRE. After Jan. 1, 2027, the Information Returns Intake System (IRIS) is the only electronic system. FIRE users "must transition to IRIS to file tax year 2026 information returns during the 2027 filing season," the IRS says.
 
-Publication 1099 repeats the change: beginning with tax year 2026 and the 2027 filing season, IRIS is the only intake system, and FIRE will not be available for submissions, whether current-year, prior-year or corrections. Some software vendors cite Dec. 31 for the switch; the IRS page gives the Nov. 19 filing cutoff.
+Publication 1099 repeats the change: beginning with tax year 2026 and the 2027 filing season, IRIS is the only intake system, and FIRE will not be available for submissions, whether current-year, prior-year or corrections.
 
 Publication 1099 also says a filer of 10 or more information returns during the year must e-file. The count adds up all information returns together, so an employer with a few W-2s and several 1099s can reach 10.
 
