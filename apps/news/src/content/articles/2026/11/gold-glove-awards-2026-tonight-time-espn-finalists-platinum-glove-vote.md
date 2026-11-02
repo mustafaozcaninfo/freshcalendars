@@ -58,11 +58,28 @@ internalLinks:
   - href: "/december-calendars.html"
     label: "December 2026 printable calendar"
 related: [mlb-offseason-2026-key-dates-free-agency-awards-cba, world-series-2026-schedule-game-times-tv-channel, mlb-opening-day-2027-date-march-25-spring-training-all-star]
+downloads:
+  - group: "Gold Glove 2026 Winners and MLB Awards Dates printables"
+    title: "Gold Glove 2026 Winners and MLB Awards Dates"
+    description: "A one-page 2026 Gold Glove winners sheet by league and position, with the Platinum Glove date and the remaining MLB awards dates in November."
+    preview: ../../../../assets/news/gold-glove-2026/gold-glove-2026-winners-and-mlb-awards-dates.png
+    alt: "Printable 2026 Gold Glove winners by league and position with the remaining MLB awards dates"
+    pdf: "/news/downloads/gold-glove-2026/gold-glove-2026-winners-and-mlb-awards-dates.pdf"
+    png: "/news/downloads/gold-glove-2026/gold-glove-2026-winners-and-mlb-awards-dates.png"
+    pages: 1
+  - group: "Gold Glove 2026 Winners and MLB Awards Dates printables"
+    title: "Gold Glove 2026 Winners and MLB Awards Dates (ink saver)"
+    description: "A one-page 2026 Gold Glove winners sheet by league and position, with the Platinum Glove date and the remaining MLB awards dates in November. Ink-saver version."
+    preview: ../../../../assets/news/gold-glove-2026/gold-glove-2026-winners-and-mlb-awards-dates-ink.png
+    alt: "Printable 2026 Gold Glove winners by league and position with the remaining MLB awards dates, ink-saver version"
+    pdf: "/news/downloads/gold-glove-2026/gold-glove-2026-winners-and-mlb-awards-dates-ink.pdf"
+    png: "/news/downloads/gold-glove-2026/gold-glove-2026-winners-and-mlb-awards-dates-ink.png"
+    pages: 1
 assets:
   overlay: true
   kicker: "Gold Glove Awards · Sun., Nov. 1, 2026"
   date: "2026-11-01"
-  card: { top: "Winners revealed on ESPN", big: "8:30 p.m. ET", bottom: "Platinum Glove vote opens at 9:30 p.m. ET" }
+  card: { top: "2026 Gold Glove winners", big: "20 winners", bottom: "Platinum Glove revealed Fri., Nov. 6" }
   printable:
     slug: gold-glove-2026-winners-and-mlb-awards-dates
     group: gold-glove-2026

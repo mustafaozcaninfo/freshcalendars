@@ -12,6 +12,16 @@ export interface KeyDate {
 }
 
 export const KEY_DATES: KeyDate[] = [
+  { date: "2026-11-03", label: "Mega Millions drawing, 11 p.m. ET; estimated jackpot $482 million as of Nov. 1", slug: "mega-millions-drawing-tuesday-november-3-2026-time-jackpot-482-million" },
+  { date: "2026-11-10", label: "Consumer Price Index (CPI) for October, 8:30 a.m. ET", slug: "cpi-report-november-10-2026-time-october-inflation-ppi-pce-dates" },
+  { date: "2026-11-13", label: "Producer Price Index (PPI) for October, 8:30 a.m. ET", slug: "cpi-report-november-10-2026-time-october-inflation-ppi-pce-dates" },
+  { date: "2026-11-25", label: "BEA Personal Income and Outlays for October, 8:30 a.m. ET", slug: "cpi-report-november-10-2026-time-october-inflation-ppi-pce-dates" },
+  { date: "2026-11-06", label: "Platinum Glove Awards revealed", slug: "gold-glove-awards-2026-tonight-time-espn-finalists-platinum-glove-vote" },
+  { date: "2026-11-27", label: "New York City Ballet, Boston Ballet and Pacific Northwest Ballet open The Nutcracker", slug: "nutcracker-2026-dates-nyc-ballet-boston-ballet-san-francisco-pnb-atlanta-london" },
+  { date: "2026-12-04", label: "San Francisco Ballet opens The Nutcracker (through Dec. 27)", slug: "nutcracker-2026-dates-nyc-ballet-boston-ballet-san-francisco-pnb-atlanta-london" },
+  { date: "2026-11-11", label: "Skate at Somerset House opens in London (through Jan. 10)", slug: "ice-skating-rinks-2026-27-opening-dates-bryant-park-wollman-chicago-la-london" },
+  { date: "2026-11-12", label: "Holiday Ice Rink Pershing Square opens in Los Angeles (through Jan. 3)", slug: "ice-skating-rinks-2026-27-opening-dates-bryant-park-wollman-chicago-la-london" },
+  { date: "2026-11-13", label: "Maggie Daley Ice Ribbon opens in Chicago", slug: "ice-skating-rinks-2026-27-opening-dates-bryant-park-wollman-chicago-la-london" },
   { date: "2026-11-11", label: "Tyler Perry's The Gospel of Christmas on Netflix", slug: "netflix-christmas-movies-2026-release-dates-holiday-watch-list" },
   { date: "2026-11-18", label: "Guarding Stars on Netflix", slug: "netflix-christmas-movies-2026-release-dates-holiday-watch-list" },
   { date: "2026-12-02", label: "In a Holidaze on Netflix", slug: "netflix-christmas-movies-2026-release-dates-holiday-watch-list" },

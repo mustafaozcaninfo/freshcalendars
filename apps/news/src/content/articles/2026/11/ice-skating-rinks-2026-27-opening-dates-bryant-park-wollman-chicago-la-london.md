@@ -1,5 +1,5 @@
 ---
-title: "Ice Skating Rinks 2026-27: Wollman, Bryant Park, Maggie Daley, Los Angeles and London Dates"
+title: "Ice Skating Rinks 2026-27: Wollman, Bryant Park, Maggie Daley, Los Angeles, London Dates"
 seoTitle: "Ice Skating Rinks 2026-27: Opening Dates and Prices"
 description: "Wollman Rink and the Bryant Park rink opened Wed., Oct. 28, 2026; Somerset House opens Nov. 11 and Maggie Daley Ice Ribbon Nov. 13, per each rink's site."
 type: news
@@ -9,13 +9,20 @@ category: holidays
 keywords: ["ice skating rinks open 2026", "bryant park ice skating 2026", "wollman rink 2026 dates", "maggie daley ice ribbon 2026 opening", "somerset house skate 2026"]
 hero:
   src: ../../../../assets/news/ice-skating-rinks-2026-27-opening-dates-bryant-park-wollman-chicago-la-london/ice-skating-rinks-2026-27-opening-dates-bryant-park-wollman-chicago-la-london.webp
-  alt: "Skaters on an outdoor rink, one of the ice skating rinks open in 2026"
-  caption: "Wollman Rink in Central Park and the Bryant Park rink opened Oct. 28, 2026."
+  alt: "Skaters on the Bryant Park ice skating rink in New York, one of the ice skating rinks open in 2026"
+  caption: "File photo of the Bryant Park rink in New York. This season's rink opened Oct. 28, 2026."
+  credit: "Photo: Rhododendrites / Wikimedia Commons, cropped, edited"
+  license:
+    name: "CC BY-SA 4.0"
+    url: "https://creativecommons.org/licenses/by-sa/4.0"
+    source: "https://commons.wikimedia.org/wiki/File:Bryant_Park_skating_rink_(61499).jpg"
+    author: "Rhododendrites"
+    authorUrl: "https://commons.wikimedia.org/wiki/User:Rhododendrites"
 summary:
   - "Wollman Rink in Central Park and the rink at Bryant Park opened Wednesday, Oct. 28, 2026, according to each rink's website."
   - "Somerset House in London opens Wednesday, Nov. 11, Pershing Square in Los Angeles Thursday, Nov. 12, and Chicago's Maggie Daley Ice Ribbon Friday, Nov. 13."
   - "Chicago Park District's other outdoor rinks open Friday, Nov. 27, 2026."
-  - "Bryant Park admission is free, Somerset House adults pay GBP 13 to GBP 28.50, and Wollman and Los Angeles list no prices."
+  - "Bryant Park admission is free, Somerset House adults pay £13 to £28.50, and Wollman and Los Angeles list no prices."
 faq:
   - q: "When does Wollman Rink open in 2026?"
     a: "Wollman Rink opened Wednesday, Oct. 28, 2026, and is open daily to Tuesday, March 16, 2027, according to wollmanrinknyc.com. It opens at 10 a.m.; closing time varies."
@@ -27,6 +34,23 @@ faq:
     a: "Wednesday, Nov. 11, 2026, and it runs to Sunday, Jan. 10, 2027, according to Somerset House."
   - q: "Is there an ice rink at the Natural History Museum in London this year?"
     a: "The museum's page says the Natural History Museum Ice Rink has now closed and lists no 2026-27 season."
+downloads:
+  - group: "Outdoor Ice Rinks 2026-27 Season Dates printables"
+    title: "Outdoor Ice Rinks 2026-27 Season Dates"
+    description: "A one-page list of the 2026-27 opening and closing dates for six outdoor ice rinks in New York, Chicago, Los Angeles and London, with a Done column."
+    preview: ../../../../assets/news/ice-rinks-2026-27/outdoor-ice-rinks-2026-27-season-dates.png
+    alt: "Printable list of 2026-27 opening and closing dates for outdoor ice skating rinks in New York, Chicago, Los Angeles and London."
+    pdf: "/news/downloads/ice-rinks-2026-27/outdoor-ice-rinks-2026-27-season-dates.pdf"
+    png: "/news/downloads/ice-rinks-2026-27/outdoor-ice-rinks-2026-27-season-dates.png"
+    pages: 1
+  - group: "Outdoor Ice Rinks 2026-27 Season Dates printables"
+    title: "Outdoor Ice Rinks 2026-27 Season Dates (ink saver)"
+    description: "A one-page list of the 2026-27 opening and closing dates for six outdoor ice rinks in New York, Chicago, Los Angeles and London, with a Done column. Ink-saver version."
+    preview: ../../../../assets/news/ice-rinks-2026-27/outdoor-ice-rinks-2026-27-season-dates-ink.png
+    alt: "Printable list of 2026-27 opening and closing dates for outdoor ice skating rinks in New York, Chicago, Los Angeles and London, ink-saver version"
+    pdf: "/news/downloads/ice-rinks-2026-27/outdoor-ice-rinks-2026-27-season-dates-ink.pdf"
+    png: "/news/downloads/ice-rinks-2026-27/outdoor-ice-rinks-2026-27-season-dates-ink.png"
+    pages: 1
 sources:
   - title: "Wollman Rink, Central Park"
     url: "https://wollmanrinknyc.com/"
@@ -97,7 +121,7 @@ Status is as of Monday, Nov. 2, 2026. "Not listed" means the page we read did no
 |---|---|---|---|---|---|
 | Wed., Oct. 28 | Wollman Rink, Central Park, New York | Tue., Mar. 16, 2027 | Open | Daily from 10 a.m.; closing time varies | Not listed |
 | Wed., Oct. 28 | The Rink at Bryant Park Winter Village, New York | Sun., Feb. 28, 2027 (Winter Village) | Open | 8 a.m. to 10 p.m. | Admission free; skate rental $18.72-$64.48 |
-| Wed., Nov. 11 | Skate at Somerset House, London | Sun., Jan. 10, 2027 | Opens in 9 days | Not listed | Adults GBP 13-28.50, children GBP 11-15, plus GBP 1.50 fee per ticket |
+| Wed., Nov. 11 | Skate at Somerset House, London | Sun., Jan. 10, 2027 | Opens in 9 days | Not listed | Adults £13-28.50, children £11-15, plus £1.50 fee per ticket |
 | Thu., Nov. 12 | Holiday Ice Rink, Pershing Square, Los Angeles | Sun., Jan. 3, 2027 | Opens in 10 days | Not listed yet | Not listed yet |
 | Fri., Nov. 13 | Maggie Daley Ice Ribbon, Chicago | Not listed | Opens in 11 days | To be posted | Rental $17 online, $19 walk-up Mon.-Thu.; $21 and $23 Fri.-Sun. and holidays; skate aids $11 |
 | Fri., Nov. 27 | Other Chicago Park District outdoor rinks | Not listed | Opens in 25 days | To be posted | Open skate free; rental $7 |

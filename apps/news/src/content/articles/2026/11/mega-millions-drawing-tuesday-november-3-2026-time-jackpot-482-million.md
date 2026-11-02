@@ -1,7 +1,7 @@
 ---
 title: "Mega Millions Drawing Tuesday, Nov. 3, 2026: 11 p.m. ET, Est. $482 Million Jackpot"
 seoTitle: "Mega Millions Drawing Nov. 3, 2026: Time and Jackpot"
-description: "The next Mega Millions drawing is Tue., Nov. 3, 2026, at 11 p.m. Eastern Time (ET), estimated jackpot $482 million, per the Texas Lottery. Ticket cutoffs inside."
+description: "The next Mega Millions drawing is Tue., Nov. 3, 2026, at 11 p.m. Eastern Time (ET), estimated jackpot $482 million, per the Texas Lottery. Cutoffs by state."
 type: news
 publishedAt: "2026-11-01T22:44:00-05:00"
 authors: [jordan-bennett]
@@ -41,6 +41,16 @@ assets:
     inkSaver: true
     description: "One-page Mega Millions drawing dates for Nov. and Dec. 2026, Tuesdays and Fridays at 11 p.m. Eastern Time, with a line to write your numbers."
     alt: "Printable list of Mega Millions drawing dates from Nov. 3 to Dec. 29, 2026 with a line for your numbers"
+hero:
+  src: ../../../../assets/news/mega-millions-drawing-tuesday-november-3-2026-time-jackpot-482-million/mega-millions-drawing-tuesday-november-3-2026-time-jackpot-482-million.webp
+  alt: "Mega Millions drawing tonight: Mega Millions lottery tickets ahead of the Nov. 3, 2026 draw"
+  caption: "File photo of Mega Millions tickets from 2012. Tickets now cost $5.00 per play, with a multiplier included, per megamillions.com."
+  credit: "Photo: Lieutenant Ramathorn / Wikimedia Commons, cropped, edited"
+  license:
+    name: "CC0"
+    url: "http://creativecommons.org/publicdomain/zero/1.0/deed.en"
+    source: "https://commons.wikimedia.org/wiki/File:Mega_Millions_lottery_tickets.JPG"
+    author: "Lieutenant Ramathorn"
 summary:
   - "The next Mega Millions drawing is Tuesday, Nov. 3, 2026, at 11 p.m. Eastern Time (ET), which is 10 p.m. Central Time (CT) and 8 p.m. Pacific Time (PT)."
   - "The estimated jackpot is $482 million with an estimated cash value of $203.6 million, per the Texas Lottery. The Friday, Oct. 30 drawing had no jackpot winner."
@@ -98,6 +108,23 @@ internalLinks:
   - href: "/december-calendars.html"
     label: "December 2026 printable calendar"
 related: [powerball-drawing-tonight-monday-november-2-2026-time-jackpot-793-million, weekends-until-christmas-2026-saturday-planner-shipping-deadlines, holiday-deals-this-week-november-2-8-2026-target-best-buy-starbucks]
+downloads:
+  - group: "Mega Millions Drawing Dates printables"
+    title: "Mega Millions Drawing Dates, Nov.-Dec. 2026"
+    description: "One-page Mega Millions drawing dates for Nov. and Dec. 2026, Tuesdays and Fridays at 11 p.m. Eastern Time, with a line to write your numbers."
+    preview: ../../../../assets/news/mega-millions-2026/mega-millions-drawing-dates-nov-dec-2026.png
+    alt: "Printable list of Mega Millions drawing dates from Nov. 3 to Dec. 29, 2026 with a line for your numbers"
+    pdf: "/news/downloads/mega-millions-2026/mega-millions-drawing-dates-nov-dec-2026.pdf"
+    png: "/news/downloads/mega-millions-2026/mega-millions-drawing-dates-nov-dec-2026.png"
+    pages: 1
+  - group: "Mega Millions Drawing Dates printables"
+    title: "Mega Millions Drawing Dates, Nov.-Dec. 2026 (ink saver)"
+    description: "One-page Mega Millions drawing dates for Nov. and Dec. 2026, Tuesdays and Fridays at 11 p.m. Eastern Time, with a line to write your numbers. Ink-saver version."
+    preview: ../../../../assets/news/mega-millions-2026/mega-millions-drawing-dates-nov-dec-2026-ink.png
+    alt: "Printable list of Mega Millions drawing dates from Nov. 3 to Dec. 29, 2026 with a line for your numbers, ink-saver version"
+    pdf: "/news/downloads/mega-millions-2026/mega-millions-drawing-dates-nov-dec-2026-ink.pdf"
+    png: "/news/downloads/mega-millions-2026/mega-millions-drawing-dates-nov-dec-2026-ink.png"
+    pages: 1
 draft: false
 ---
 

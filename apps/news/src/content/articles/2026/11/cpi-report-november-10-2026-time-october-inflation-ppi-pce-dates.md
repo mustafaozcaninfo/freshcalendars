@@ -1,16 +1,23 @@
 ---
-title: "CPI Report Nov. 10, 2026: 8:30 a.m. ET Release Time, Plus PPI and PCE Dates to March"
-seoTitle: "CPI Report Nov. 10, 2026: Time and PPI, PCE Dates"
-description: "The Bureau of Labor Statistics (BLS) releases October 2026 Consumer Price Index (CPI) data Nov. 10 at 8:30 a.m. Eastern Time (ET), with PPI and PCE dates."
+title: "CPI Report Nov. 10, 2026: 8:30 a.m. ET Release Time and Inflation Data Dates to March 2027"
+seoTitle: "CPI Report Nov. 10, 2026: Time and Inflation Dates"
+description: "The Bureau of Labor Statistics (BLS) releases October 2026 Consumer Price Index (CPI) data Nov. 10 at 8:30 a.m. Eastern Time (ET), with producer price dates."
 type: news
 publishedAt: "2026-11-01T22:44:00-05:00"
 authors: [alex-morgan]
 category: money-benefits
 keywords: ["cpi report november 2026", "when is the next cpi report", "cpi release date", "inflation report november 10 2026", "ppi release date november 2026"]
 hero:
-  src: ../../../../assets/news/cpi-report-november-10-2026-time-october-inflation-ppi-pce-dates/cpi-report-november-10-2026-time-october-inflation-ppi-pce-dates.jpg
-  alt: "Consumer Price Index report release date Nov. 10, 2026"
-  caption: "The Consumer Price Index for October 2026 is scheduled for Nov. 10, 2026, at 8:30 a.m. ET."
+  src: ../../../../assets/news/cpi-report-november-10-2026-time-october-inflation-ppi-pce-dates/cpi-report-november-10-2026-time-october-inflation-ppi-pce-dates.webp
+  alt: "CPI report Nov. 10, 2026: a supermarket center aisle in New Orleans, the kind of prices the Consumer Price Index tracks"
+  caption: "File photo of a New Orleans supermarket aisle (2021). Food prices are one part of the Consumer Price Index due Nov. 10, 2026."
+  credit: "Photo: Infrogmation of New Orleans / Wikimedia Commons, cropped, edited"
+  license:
+    name: "CC BY-SA 4.0"
+    url: "https://creativecommons.org/licenses/by-sa/4.0"
+    source: "https://commons.wikimedia.org/wiki/File:Langenstein%27s_Supermarket_Uptown_New_Orleans,_Center_aisle,_March_2021_01.jpg"
+    author: "Infrogmation of New Orleans"
+    authorUrl: "https://commons.wikimedia.org/wiki/User:Infrogmation"
 summary:
   - "The Bureau of Labor Statistics (BLS) is scheduled to publish the Consumer Price Index (CPI) for October 2026 on Tuesday, Nov. 10, 2026, at 8:30 a.m. Eastern Time (ET)."
   - "The Producer Price Index (PPI) for October follows on Friday, Nov. 13, and the Bureau of Economic Analysis (BEA) lists its October Personal Income and Outlays release for Wednesday, Nov. 25."
@@ -23,7 +30,7 @@ faq:
     a: "Thursday, Dec. 10, 2026, at 8:30 a.m. ET, covering November 2026."
   - q: "When is the PPI release in November 2026?"
     a: "Friday, Nov. 13, 2026, at 8:30 a.m. ET, for October 2026."
-  - q: "When is the release that includes the PCE price index?"
+  - q: "When is the release that includes the Personal Consumption Expenditures (PCE) price index?"
     a: "The BEA schedule lists Personal Income and Outlays for October 2026 on Wednesday, Nov. 25, 2026, at 8:30 a.m. ET, and for November 2026 on Wednesday, Dec. 23, 2026."
   - q: "Is the Nov. 10 CPI release delayed?"
     a: "The BLS pages we checked on Nov. 1, 2026 show no schedule change or delay note for 2026 releases."
@@ -139,10 +146,10 @@ The BLS released the September 2026 CPI at 8:30 a.m. ET on Wednesday, Oct. 14, 2
 
 The BLS lists the Producer Price Index for October 2026 on Friday, Nov. 13, 2026, at 8:30 a.m. ET, three days after the CPI. The November PPI is Tuesday, Dec. 15, 2026, five days after that month's CPI on Thursday, Dec. 10.
 
-## When is the release that includes the PCE price index?
+## When is the BEA Personal Income and Outlays release?
 
 The BEA release schedule, last modified Nov. 1, 2026, lists Personal Income and Outlays for October 2026 on Wednesday, Nov. 25, 2026, at 8:30 a.m. ET, and for November 2026 on Wednesday, Dec. 23, 2026, at 8:30 a.m. ET. That release contains the Personal Consumption Expenditures (PCE) price index. The BEA schedule does not name the PCE index itself.
 
 ## Related release calendars
 
-The BLS jobs report for October comes first, on Friday, Nov. 6; see the [jobs report release time and BLS 2027 dates](/news/jobs-report-november-6-2026-time-bls-release-schedule-2027/). For the Federal Reserve calendar, see the [Federal Reserve meeting dates](/news/fomc-meeting-dates-2027-fed-schedule-december-2026/), and for the BEA's GDP release, the [BEA release calendar](/news/gdp-report-october-29-2026-time-bea-release-calendar/) story.
+The BLS jobs report for October comes first, on Friday, Nov. 6; see the [jobs report release time and BLS 2027 dates](/news/jobs-report-november-6-2026-time-bls-release-schedule-2027/). For the Federal Reserve calendar, see the [Federal Reserve meeting dates](/news/fomc-meeting-dates-2027-fed-schedule-december-2026/), and for the BEA's Gross Domestic Product (GDP) release, the [BEA release calendar](/news/gdp-report-october-29-2026-time-bea-release-calendar/) story.
