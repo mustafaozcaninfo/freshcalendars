@@ -3,7 +3,7 @@ title: "Latest Sunrise 2027: It Comes in Early January, With Dates for 20 U.S. C
 seoTitle: "Latest Sunrise 2027 by City: Dates and Times"
 description: "The latest sunrise of winter comes after the Dec. 21 solstice: 7:20 a.m. in New York, Dec. 30-Jan. 10, per U.S. Naval Observatory (USNO) data for 20 cities."
 type: explainer
-publishedAt: "2026-11-02T16:40:00-05:00"
+publishedAt: "2026-11-02T17:13:00-05:00"
 authors: [jessica-hartwell]
 category: sky-events
 keywords: ["latest sunrise 2027", "when do mornings get lighter", "latest sunrise of the year", "when does sunrise start getting earlier"]
@@ -55,7 +55,7 @@ summary:
   - "The latest sunrise of winter 2026-27 comes after the Dec. 21 solstice in all 20 cities listed, between Dec. 26 (Anchorage) and Jan. 19 (Miami), according to the U.S. Naval Observatory."
   - "New York's latest sunrise is 7:20 a.m. from Dec. 30 to Jan. 10; Chicago's is 7:18 a.m. from Dec. 29 to Jan. 9; Seattle's is 7:58 a.m. from Dec. 31 to Jan. 2."
   - "By Feb. 1, 2027, sunrise is 14 minutes earlier than its latest in New York and 22 minutes earlier in Seattle."
-  - "Daylight saving time starts Sunday, March 14, 2027, which moves New York's sunrise from 6:11 a.m. to 7:10 a.m."
+  - "Further south the latest sunrise comes later and lasts longer: Miami holds 7:09 a.m. from Jan. 7 to Jan. 19, Houston 7:18 a.m. from Jan. 5 to Jan. 15."
 faq:
   - q: "When is the latest sunrise of the year?"
     a: "In early January in most of the 20 cities we checked. New York's is 7:20 a.m. from Dec. 30 to Jan. 10, Chicago's is 7:18 a.m. from Dec. 29 to Jan. 9 and Los Angeles's is 6:59 a.m. from Jan. 1 to Jan. 14, per the U.S. Naval Observatory."
