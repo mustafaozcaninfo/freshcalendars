@@ -57,7 +57,7 @@ internalLinks:
     label: "When is Veterans Day"
   - href: "/when-is/christmas-day/"
     label: "When is Christmas"
-related: [veterans-day-2026-wednesday-november-11, nyc-veterans-day-parade-2026-time-route-grand-marshal-suni-williams, national-christmas-tree-lighting-2026-ticket-lottery-october-28]
+related: [veterans-day-2026-wednesday-november-11, nyc-veterans-day-parade-2026-time-route-grand-marshal-suni-williams, national-pearl-harbor-remembrance-day-2026-december-7-flags-half-staff]
 downloads:
   - group: "Wreaths Across America 2026 printables"
     title: "Wreaths Across America 2026: Arlington Schedule, Sat., Dec. 19"

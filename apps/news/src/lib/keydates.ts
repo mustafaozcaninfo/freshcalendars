@@ -12,6 +12,7 @@ export interface KeyDate {
 }
 
 export const KEY_DATES: KeyDate[] = [
+  { date: "2026-12-07", label: "National Pearl Harbor Remembrance Day, 85th anniversary; law asks for flags at half-staff", slug: "national-pearl-harbor-remembrance-day-2026-december-7-flags-half-staff" },
   { date: "2026-11-03", label: "Mega Millions drawing, 11 p.m. ET; estimated jackpot $482 million as of Nov. 1", slug: "mega-millions-drawing-tuesday-november-3-2026-time-jackpot-482-million" },
   { date: "2026-11-10", label: "Consumer Price Index (CPI) for October, 8:30 a.m. ET", slug: "cpi-report-november-10-2026-time-october-inflation-ppi-pce-dates" },
   { date: "2026-11-13", label: "Producer Price Index (PPI) for October, 8:30 a.m. ET", slug: "cpi-report-november-10-2026-time-october-inflation-ppi-pce-dates" },
@@ -709,6 +710,7 @@ export const KEY_DATES: KeyDate[] = [
   { date: "2027-01-11", label: "Los Angeles Unified classes resume after winter recess", slug: "lausd-calendar-2026-27-winter-break-spring-break" },
   { date: "2027-03-22", label: "Los Angeles Unified spring recess begins (through March 26)", slug: "lausd-calendar-2026-27-winter-break-spring-break" },
   { date: "2027-06-04", label: "Los Angeles Unified last day of instruction", slug: "lausd-calendar-2026-27-winter-break-spring-break" },
+  { date: "2027-03-01", label: "RRSP contribution deadline for 2026 returns, by the 60-day count; CRA has not posted it", slug: "rrsp-deadline-2027-march-1-canada-tax-season-dates" },
 ];
 
 /** Today's date in Eastern Time as YYYY-MM-DD. */
