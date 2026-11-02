@@ -1,7 +1,7 @@
 ---
 title: "Can I Drop Off My Mail-In Ballot on Election Day 2026? Where and Until When, by State"
 seoTitle: "Drop Off a Mail-In Ballot on Election Day 2026, by State"
-description: "Most states take a hand-in mail ballot until polls close on Nov. 3, 2026 (7 or 8 p.m. in most); Alabama, Louisiana, Oklahoma, Tennessee and West Virginia do not."
+description: "Most states take a hand-in mail ballot until polls close on Nov. 3, 2026; Alabama, Louisiana, Oklahoma, Tennessee and West Virginia do not. Cutoffs by state."
 type: explainer
 publishedAt: "2026-11-02T14:05:00-05:00"
 authors: [christina-gerland]
@@ -41,9 +41,9 @@ assets:
     alt: "Mail ballot drop-off checklist for Nov. 3, 2026 printable with tick boxes in three groups"
 hero:
   src: ../../../../assets/news/can-i-drop-off-my-mail-in-ballot-on-election-day-2026/can-i-drop-off-my-mail-in-ballot-on-election-day-2026.webp
-  alt: "An official ballot drop box with an Official Mail-In Ballot Drop Box sign outside a District of Columbia library: can I drop off my mail-in ballot on Election Day"
+  alt: "Official ballot drop box with a mail-in ballot drop box sign outside a District of Columbia library: can I drop off my mail-in ballot on Election Day"
   caption: "File photo of an official D.C. ballot drop box. Most states close drop boxes when polls close on Nov. 3, 2026; hand-in rules differ by state."
-  credit: "Photo: Tony Webster / Wikimedia Commons, cropped"
+  credit: "Photo: Tony Webster / Wikimedia Commons, cropped, edited"
   license:
     name: "CC BY 2.0"
     url: "https://creativecommons.org/licenses/by/2.0"
@@ -309,6 +309,23 @@ internalLinks:
   - href: "/printable-weekly-calendar.html"
     label: "Printable weekly calendar"
 related: [mail-ballot-deadlines-2026-by-state, what-time-do-polls-close-election-day-2026, early-voting-2026-which-states-are-voting-now]
+downloads:
+  - group: "Mail Ballot Drop-Off Checklist printables"
+    title: "Mail Ballot Drop-Off Checklist, Nov. 3, 2026"
+    description: "A one-page checklist for handing in a mail ballot on Nov. 3, 2026: what to check before you go, rules at the drop box or office, and tracking afterward."
+    preview: ../../../../assets/news/mail-ballot-drop-off-2026/mail-ballot-drop-off-checklist-2026.png
+    alt: "Mail ballot drop-off checklist for Nov. 3, 2026 printable with tick boxes in three groups"
+    pdf: "/news/downloads/mail-ballot-drop-off-2026/mail-ballot-drop-off-checklist-2026.pdf"
+    png: "/news/downloads/mail-ballot-drop-off-2026/mail-ballot-drop-off-checklist-2026.png"
+    pages: 1
+  - group: "Mail Ballot Drop-Off Checklist printables"
+    title: "Mail Ballot Drop-Off Checklist, Nov. 3, 2026 (ink saver)"
+    description: "A one-page checklist for handing in a mail ballot on Nov. 3, 2026: what to check before you go, rules at the drop box or office, and tracking afterward. Ink-saver version."
+    preview: ../../../../assets/news/mail-ballot-drop-off-2026/mail-ballot-drop-off-checklist-2026-ink.png
+    alt: "Mail ballot drop-off checklist for Nov. 3, 2026 printable with tick boxes in three groups, ink-saver version"
+    pdf: "/news/downloads/mail-ballot-drop-off-2026/mail-ballot-drop-off-checklist-2026-ink.pdf"
+    png: "/news/downloads/mail-ballot-drop-off-2026/mail-ballot-drop-off-checklist-2026-ink.png"
+    pages: 1
 draft: false
 ---
 
