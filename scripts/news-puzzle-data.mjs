@@ -4,7 +4,7 @@
  * trimmed to the fields our pages use. The page checker (news-puzzle-check.mjs) and the solved-board
  * drawings (src/lib/puzzle-boards.mjs) read only these files, so CI never needs the network.
  *
- * Usage: node scripts/news-puzzle-data.mjs <from> [to] [--games wordle,connections,strands,pips,bee,mini,letterboxed,contexto,waffle] [--force]
+ * Usage: node scripts/news-puzzle-data.mjs <from> [to] [--games wordle,connections,strands,pips,bee,mini,midi,letterboxed,contexto,waffle] [--force]
  *        (the Mini is served for past days and today, and for tomorrow from about 10 p.m. ET; never further ahead;
  *        Letter Boxed about two days ahead; Contexto days ahead, by the game number counted from the date;
  *        Waffle today only, as the game's own date says (it turns over at midnight GMT, 7 or 8 p.m. ET), so
@@ -27,6 +27,7 @@ const URL = {
   pips: (d) => `https://www.nytimes.com/svc/pips/v1/${d}.json`,
   bee: (d) => `https://www.nytimes.com/svc/spelling-bee/v1/${d}.json`,
   mini: (d) => `https://www.nytimes.com/svc/crosswords/v6/puzzle/mini/${d}.json`, // past days and today; not ahead
+  midi: (d) => `https://www.nytimes.com/svc/crosswords/v6/puzzle/midi/${d}.json`, // same as the Mini
   letterboxed: (d) => `https://www.nytimes.com/svc/letter-boxed/v1/${d}.json`, // about two days ahead
   // Contexto's own API, by game number: "give up" answers with the secret word ({ word, lemma, distance: 0 }).
   contexto: (d) => `https://api.contexto.me/machado/en/giveup/${puzzleNumber("contexto", d)}`,
@@ -38,6 +39,16 @@ const DECODE = {
   waffle: (body) => JSON.parse(Buffer.from(body.trim(), "base64").toString("utf16le").replace(/^\uFEFF/, "")),
 };
 
+/** An NYT crossword (Mini or Midi): grid size, the answer letter per cell (null = black) and every clue. */
+function crossword(j) {
+  const b = j.body[0];
+  return {
+    publicationDate: j.publicationDate, constructors: j.constructors, width: b.dimensions.width, height: b.dimensions.height,
+    cells: b.cells.map((c) => c.answer ?? null),
+    clues: b.clues.map((c) => ({ direction: c.direction, label: c.label, text: c.text[0].plain, cells: c.cells })),
+  };
+}
+
 /** Only the fields the pages and checks use (Strands' full dictionary list is dropped). */
 const TRIM = {
   wordle: (j) => ({ print_date: j.print_date, solution: j.solution, days_since_launch: j.days_since_launch, editor: j.editor }),
@@ -45,14 +56,9 @@ const TRIM = {
   strands: (j) => ({ printDate: j.printDate, clue: j.clue, spangram: j.spangram, themeWords: j.themeWords, editor: j.editor, constructors: j.constructors, startingBoard: j.startingBoard, themeCoords: j.themeCoords, spangramCoords: j.spangramCoords }),
   pips: (j) => ({ printDate: j.printDate, editor: j.editor, ...Object.fromEntries(["easy", "medium", "hard"].map((k) => [k, { constructors: j[k].constructors, dominoes: j[k].dominoes, regions: j[k].regions, solution: j[k].solution }])) }),
   bee: (j) => ({ center_letter: j.center_letter, outer_letters: j.outer_letters, pangrams: j.pangrams, answers: j.answers }),
-  mini: (j) => {
-    const b = j.body[0];
-    return {
-      publicationDate: j.publicationDate, constructors: j.constructors, width: b.dimensions.width, height: b.dimensions.height,
-      cells: b.cells.map((c) => c.answer ?? null),
-      clues: b.clues.map((c) => ({ direction: c.direction, label: c.label, text: c.text[0].plain, cells: c.cells })),
-    };
-  },
+  mini: (j) => crossword(j),
+  // The Midi has a theme title ("Midi Golf"); the Mini has none, so its files keep their old shape.
+  midi: (j) => ({ title: j.title, editor: j.editor, ...crossword(j) }),
   // The dictionary stays: pages print its size and suggest warm-up words that must be in it.
   letterboxed: (j) => ({ printDate: j.printDate, editor: j.editor, sides: j.sides, par: j.par, ourSolution: j.ourSolution, dictionary: j.dictionary }),
   // The API answers by number and carries no date, so the date and number we asked for are saved with it.
@@ -62,7 +68,7 @@ const TRIM = {
 };
 
 /** The data's own date, to make sure NYT answered for the day we asked about. */
-const DATE_OF = { wordle: (j) => j.print_date, connections: (j) => j.print_date, strands: (j) => j.printDate, pips: (j) => j.printDate, bee: () => null, mini: (j) => j.publicationDate, letterboxed: (j) => j.printDate, contexto: (j, d) => (j.distance === 0 && typeof j.word === "string" && j.word ? d : null), waffle: (j) => j.date?.slice(0, 10) };
+const DATE_OF = { wordle: (j) => j.print_date, connections: (j) => j.print_date, strands: (j) => j.printDate, pips: (j) => j.printDate, bee: () => null, mini: (j) => j.publicationDate, midi: (j) => j.publicationDate, letterboxed: (j) => j.printDate, contexto: (j, d) => (j.distance === 0 && typeof j.word === "string" && j.word ? d : null), waffle: (j) => j.date?.slice(0, 10) };
 
 function get(url, decode = JSON.parse) {
   // No --fail: an unpublished date answers 404 (Spelling Bee) or a 200 "404 page not found" body.

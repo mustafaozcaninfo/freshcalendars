@@ -7,7 +7,7 @@
 import { existsSync, readFileSync, readdirSync, statSync } from "node:fs";
 import path from "node:path";
 import { fileURLToPath } from "node:url";
-import { addDays, loadPuzzle, puzzleOf } from "../apps/news/src/lib/puzzles.mjs";
+import { addDays, isCrossword, loadPuzzle, puzzleOf } from "../apps/news/src/lib/puzzles.mjs";
 import { unexpandedAbbrevs } from "./lib/abbrev.mjs";
 
 const ROOT = path.resolve(path.dirname(fileURLToPath(import.meta.url)), "..");
@@ -209,7 +209,7 @@ const officialText = (u) => {
     const d = loadPuzzle(p.game, date);
     if (!d) return [];
     if (p.game === "connections") return d.categories.flatMap((c) => [c.title, ...c.cards.map((x) => x.content)]);
-    if (p.game === "mini") return [...d.clues.map((c) => c.text), ...d.clues.map((c) => c.cells.map((i) => d.cells[i]).join(""))];
+    if (isCrossword(p.game)) return [...d.clues.map((c) => c.text), ...d.clues.map((c) => c.cells.map((i) => d.cells[i]).join(""))];
     if (p.game === "strands") return [d.clue, d.spangram, ...d.themeWords];
     if (p.game === "wordle") return [d.solution];
     // The build lists other two-word solutions from the puzzle's word list, which can hold a

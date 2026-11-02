@@ -1,0 +1,429 @@
+{
+ "title": "Jump Scare",
+ "editor": "Ian Livengood",
+ "publicationDate": "2026-10-31",
+ "constructors": [
+  "Alina Abidi"
+ ],
+ "width": 9,
+ "height": 9,
+ "cells": [
+  null,
+  null,
+  "L",
+  "E",
+  "A",
+  "P",
+  "S",
+  null,
+  null,
+  null,
+  "L",
+  "I",
+  "E",
+  "D",
+  "O",
+  "W",
+  "N",
+  null,
+  "H",
+  "A",
+  "L",
+  "L",
+  "O",
+  "W",
+  "E",
+  "E",
+  "N",
+  "O",
+  "V",
+  "A",
+  null,
+  null,
+  null,
+  "A",
+  "N",
+  "Y",
+  "C",
+  "A",
+  "C",
+  "A",
+  "O",
+  "T",
+  "R",
+  "E",
+  "E",
+  null,
+  null,
+  null,
+  "B",
+  "A",
+  "O",
+  null,
+  null,
+  null,
+  "E",
+  "N",
+  "D",
+  "U",
+  "R",
+  "A",
+  "N",
+  "C",
+  "E",
+  "B",
+  "O",
+  "U",
+  "T",
+  null,
+  "D",
+  "O",
+  "O",
+  "M",
+  "B",
+  "R",
+  "O",
+  null,
+  null,
+  null,
+  "B",
+  "I",
+  "O"
+ ],
+ "clues": [
+  {
+   "direction": "Across",
+   "label": "1",
+   "text": "By ___ and bounds",
+   "cells": [
+    2,
+    3,
+    4,
+    5,
+    6
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "6",
+   "text": "Prepare to nap",
+   "cells": [
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "8",
+   "text": "Time for spooky sights and sounds",
+   "cells": [
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "10",
+   "text": "Egg cells",
+   "cells": [
+    27,
+    28,
+    29
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "11",
+   "text": "This or that or whichever",
+   "cells": [
+    33,
+    34,
+    35
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "12",
+   "text": "Tropical evergreen that's the source of chocolate",
+   "cells": [
+    36,
+    37,
+    38,
+    39,
+    40,
+    41,
+    42,
+    43,
+    44
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "16",
+   "text": "Chinese steamed bun",
+   "cells": [
+    48,
+    49,
+    50
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "17",
+   "text": "Useful trait for climbing a mountain or wrangling an energetic toddler",
+   "cells": [
+    54,
+    55,
+    56,
+    57,
+    58,
+    59,
+    60,
+    61,
+    62
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "23",
+   "text": "Spell of activity",
+   "cells": [
+    63,
+    64,
+    65,
+    66
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "24",
+   "text": "Fitting rhyme for \"gloom\"",
+   "cells": [
+    68,
+    69,
+    70,
+    71
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "25",
+   "text": "Dude",
+   "cells": [
+    72,
+    73,
+    74
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "26",
+   "text": "Class that teaches about DNA, in brief",
+   "cells": [
+    78,
+    79,
+    80
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "1",
+   "text": "Pale purple",
+   "cells": [
+    2,
+    11,
+    20,
+    29,
+    38
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "2",
+   "text": "Sushi fish served with a sweet-salty sauce",
+   "cells": [
+    3,
+    12,
+    21
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "3",
+   "text": "Hubbub",
+   "cells": [
+    4,
+    13,
+    22
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "4",
+   "text": "Comic book onomatopoeia",
+   "cells": [
+    5,
+    14,
+    23
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "5",
+   "text": "Say with a hand on the Bible",
+   "cells": [
+    6,
+    15,
+    24,
+    33,
+    42
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "6",
+   "text": "What the blobs of some groovy lamps resemble",
+   "cells": [
+    10,
+    19,
+    28,
+    37
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "7",
+   "text": "State bird of Hawaii",
+   "cells": [
+    16,
+    25,
+    34,
+    43
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "8",
+   "text": "Ad ___ (formed for a particular purpose)",
+   "cells": [
+    18,
+    27,
+    36
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "9",
+   "text": "Holiday celebrated two months after 8-Across, for short",
+   "cells": [
+    26,
+    35,
+    44
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "13",
+   "text": "Be next to",
+   "cells": [
+    39,
+    48,
+    57,
+    66
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "14",
+   "text": "Rowboat tool",
+   "cells": [
+    40,
+    49,
+    58
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "15",
+   "text": "\"Frog and ___\" (children's book series)",
+   "cells": [
+    41,
+    50,
+    59,
+    68
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "17",
+   "text": "Flow back",
+   "cells": [
+    54,
+    63,
+    72
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "18",
+   "text": "\"Neither snow ___ rain ___ heat ___ gloom of night ...\" (motto associated with the U.S. Postal Service)",
+   "cells": [
+    55,
+    64,
+    73
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "19",
+   "text": "\"Dynamic\" grouping of people",
+   "cells": [
+    56,
+    65,
+    74
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "20",
+   "text": "Head, in slang",
+   "cells": [
+    60,
+    69,
+    78
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "21",
+   "text": "___ Leray, rapper with the 2023 hit \"Players\"",
+   "cells": [
+    61,
+    70,
+    79
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "22",
+   "text": "Rock genre with confessional lyrics",
+   "cells": [
+    62,
+    71,
+    80
+   ]
+  }
+ ]
+}

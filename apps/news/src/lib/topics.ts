@@ -138,6 +138,13 @@ export const TOPICS: Topic[] = [
     match: ["mini crossword"],
   },
   {
+    slug: "nyt-midi-crossword",
+    puzzle: true,
+    name: "NYT Midi Crossword Answers",
+    description: "Every New York Times Midi Crossword page, newest first: the day's theme, a hint for each across and down clue, then the full grid from official data.",
+    match: ["midi crossword"],
+  },
+  {
     slug: "contexto",
     puzzle: true,
     name: "Contexto Answers and Hints",
