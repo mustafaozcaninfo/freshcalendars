@@ -25,6 +25,12 @@
 "~^/news/downloads/sky-2026/pleiades-occultation-times-october-27-2026\.png$" /news/planets-visible-november-2026-night-sky-calendar-moon-venus-uranus-opposition/;
 "~^/news/downloads/sky-2026/pleiades-occultation-times-october-27-2026-ink\.pdf$" /news/planets-visible-november-2026-night-sky-calendar-moon-venus-uranus-opposition/;
 "~^/news/downloads/sky-2026/pleiades-occultation-times-october-27-2026-ink\.png$" /news/planets-visible-november-2026-night-sky-calendar-moon-venus-uranus-opposition/;
+# Winter break duplicate merged 2026-11-02: the 15-district 2026-27 story and its printables go to the 24-district story.
+"~^/news/winter-break-2026-27-school-districts-dates/$" /news/winter-break-2026-school-districts-dates/;
+"~^/news/downloads/winter-break-2026-27/winter-break-2026-27-school-districts\.pdf$" /news/downloads/winter-break-2026/winter-break-2026-school-districts.pdf;
+"~^/news/downloads/winter-break-2026-27/winter-break-2026-27-school-districts\.png$" /news/downloads/winter-break-2026/winter-break-2026-school-districts.png;
+"~^/news/downloads/winter-break-2026-27/winter-break-2026-27-school-districts-ink\.pdf$" /news/downloads/winter-break-2026/winter-break-2026-school-districts.pdf;
+"~^/news/downloads/winter-break-2026-27/winter-break-2026-27-school-districts-ink\.png$" /news/downloads/winter-break-2026/winter-break-2026-school-districts.png;
 # Editors renamed 2026-11-02: old author pages (and their pagination) go to the new editor's page.
 "~^/news/author/alex-morgan/$" /news/author/christina-gerland/;
 "~^/news/author/alex-morgan/page/2/$" /news/author/christina-gerland/;

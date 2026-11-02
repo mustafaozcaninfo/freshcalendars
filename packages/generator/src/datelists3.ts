@@ -211,11 +211,14 @@ export const WINTER_2026: [string, string, string, string, string, string, strin
   ["Cypress-Fairbanks ISD", "Texas", "2026-12-21", "2027-01-01", "Jan. 4 professional day", "2027-01-05", "2026-11-23..2026-11-27"],
   ["Northside ISD (San Antonio)", "Texas", "2026-12-21", "2027-01-01", "Jan. 4 teacher planning", "2027-01-05", "2026-11-23..2026-11-27"],
   ["Denver Public Schools", "Colo.", "2026-12-21", "2027-01-01", "Jan. 4 planning day", "2027-01-05", "2026-11-23..2026-11-27"],
+  ["Philadelphia", "Pa.", "2026-12-23", "2027-01-01", "", "", ""],
+  ["Cobb County", "Ga.", "2026-12-21", "2027-01-04", "", "", ""],
+  ["Austin ISD", "Texas", "2026-12-21", "2027-01-04", "", "", ""],
 ];
 const rng2 = (x: string) => { const [a, b] = x.split(".."); return a!.slice(5, 7) === b!.slice(5, 7) ? `${ap(a!)}-${Number(b!.slice(8))}` : `${ap(a!)}-${ap(b!)}`; };
 export const winterRange = (a: string, b: string) => `${ap(a)}-${ap(b)}`;
 function winterSheet(fonts: string): string {
-  const rows = WINTER_2026.map(([d, st, a, b, x, ret, tg]) => `<tr><td class="c">${d}<small>${st}</small></td><td class="hi">${winterRange(a, b)}</td><td>${x || "-"}</td><td>${ret ? `${dow(ret)}, ${ap(ret)}` : "See district"}</td><td>${rng2(tg)}</td></tr>`).join("");
+  const rows = WINTER_2026.map(([d, st, a, b, x, ret, tg]) => `<tr><td class="c">${d}<small>${st}</small></td><td class="hi">${winterRange(a, b)}</td><td>${x || "-"}</td><td>${ret ? `${dow(ret)}, ${ap(ret)}` : "See district"}</td><td>${tg ? rng2(tg) : "See district"}</td></tr>`).join("");
   const css = `
   .wb{padding:28px 32px 0}
   .wb header{display:flex;justify-content:space-between;align-items:flex-end;border-bottom:4px solid #1d4ed8;padding-bottom:8px;margin-bottom:10px}
@@ -224,7 +227,7 @@ function winterSheet(fonts: string): string {
   .wb .flake svg{display:block}
   .wb table{width:100%;border-collapse:collapse;font-size:11px;font-variant-numeric:tabular-nums}
   .wb th{background:#1e3a8a;color:#fff;font-family:Sora;font-size:8.6px;padding:6px 5px;text-align:left}
-  .wb td{padding:10.4px 5px;border-bottom:1px solid #e3e8ee}
+  .wb td{padding:8.4px 5px;border-bottom:1px solid #e3e8ee}
   .wb tr:nth-child(even) td{background:#f8fafc}
   .wb td.c{font-weight:700}
   .wb td.c small{font-weight:400;color:#64748b;margin-left:5px}
@@ -233,7 +236,7 @@ function winterSheet(fonts: string): string {
   const page = `<section class="page wb"><header><div><h1>Winter Break 2026 by School District</h1>
     <p class="sub">First and last weekday off for students, extra no-school days next to the break, the day students return, and Thanksgiving break</p></div><div class="flake"><svg width="44" height="44" viewBox="0 0 44 44" aria-hidden="true" fill="none" stroke="#93c5fd" stroke-width="3" stroke-linecap="round"><g transform="rotate(0 22 22)"><path d="M22 22V3M22 9l-5-4M22 9l5-4"/></g><g transform="rotate(60 22 22)"><path d="M22 22V3M22 9l-5-4M22 9l5-4"/></g><g transform="rotate(120 22 22)"><path d="M22 22V3M22 9l-5-4M22 9l5-4"/></g><g transform="rotate(180 22 22)"><path d="M22 22V3M22 9l-5-4M22 9l5-4"/></g><g transform="rotate(240 22 22)"><path d="M22 22V3M22 9l-5-4M22 9l5-4"/></g><g transform="rotate(300 22 22)"><path d="M22 22V3M22 9l-5-4M22 9l5-4"/></g></svg></div></header>
     <table><thead><tr><th>District</th><th>Winter break (students)</th><th>Extra no-school day</th><th>Students return</th><th>Thanksgiving break</th></tr></thead><tbody>${rows}</tbody></table>
-    <p class="note">Dates are weekdays off for students and come from each district's official 2026-27 calendar, read Oct. 19-20, 2026. Wake County is the traditional calendar; year-round and modified tracks differ. Gwinnett's student calendar includes Jan. 4 in winter break. Broward's announcement does not list a return date. Calendars can change after weather closures; check your school's site.</p>
+    <p class="note">Dates are weekdays off for students and come from each district's official 2026-27 calendar, read Oct. 19-20 and 30, 2026. Wake County is the traditional calendar; year-round and modified tracks differ. Gwinnett's student calendar includes Jan. 4 in winter break. Broward, Philadelphia, Cobb and Austin do not list a return date; Cobb and Austin count Jan. 4 in the break. Calendars can change after weather closures; check your school's site.</p>
     <div class="foot">Free printable from Fresh Calendars · freshcalendars.com/news/winter-break-2026-school-districts-dates/</div></section>`;
   return doc(fonts, LETTER, css, [page]);
 }
