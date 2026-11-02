@@ -1,9 +1,10 @@
 ---
 title: "Next Saturday Halloween: Oct. 31, 2037, 11 Years After 2026, With Dates to 2050"
 seoTitle: "Next Saturday Halloween: Oct. 31, 2037"
-description: "Oct. 31, 2026 is a Saturday Halloween. The next is Saturday, Oct. 31, 2037, 11 years away. Halloween's weekday for every year to 2050, plus a printable list."
+description: "Oct. 31, 2026 was a Saturday Halloween. The next is Saturday, Oct. 31, 2037, 11 years later. Halloween's weekday for every year to 2050, plus a printable list."
 type: explainer
 publishedAt: "2026-10-31T09:40:00-04:00"
+updatedAt: "2026-11-02T11:40:00-05:00"
 authors: [jessica-hartwell]
 category: calendar-guides
 keywords: ["next saturday halloween", "next halloween on a saturday", "what day is halloween 2027", "next friday halloween", "halloween on a weekend"]
@@ -19,8 +20,8 @@ hero:
     source: "https://commons.wikimedia.org/wiki/File:Another_Rock_Wall_Pumpkin_(0b314df3-95f1-49d4-8a2c-ff1008b5d3c1).jpg"
     author: "NPS photo"
 summary:
-  - "Today, Saturday, Oct. 31, 2026, is a Saturday Halloween. The next is Saturday, Oct. 31, 2037, 11 years away."
-  - "Halloween 2027 is a Sunday, and the next Friday Halloween is Oct. 31, 2031."
+  - "Saturday, Oct. 31, 2026, was a Saturday Halloween. The next is Saturday, Oct. 31, 2037, 11 years later."
+  - "Halloween 2027 falls on a Sunday, and the next Friday Halloween is Oct. 31, 2031."
   - "Saturday Halloweens came in 2009, 2015, 2020 and 2026, and come in 2037, 2043 and 2048, with gaps of 6, 5, 6, 11, 6 and 5 years."
   - "The 11-year wait happens because three leap days (2028, 2032 and 2036) push Oct. 31 forward an extra three weekdays."
 assets:
@@ -74,7 +75,7 @@ internalLinks:
 related: [halloween-2026-saturday-sunset-trick-or-treat-times, how-often-does-the-calendar-repeat, friday-the-13th-november-13-2026-next-friday-13th-dates]
 faq:
   - q: "When is the next Saturday Halloween?"
-    a: "Saturday, Oct. 31, 2037, 11 years after today's Saturday Halloween on Oct. 31, 2026."
+    a: "Saturday, Oct. 31, 2037, 11 years after the Saturday Halloween on Oct. 31, 2026."
   - q: "What day is Halloween 2027?"
     a: "Sunday, Oct. 31, 2027."
   - q: "When is the next Friday Halloween?"
@@ -101,9 +102,9 @@ downloads:
 draft: false
 ---
 
-**Today, Saturday, Oct. 31, 2026, is a Saturday Halloween, and the next Saturday Halloween is Saturday, Oct. 31, 2037, 11 years away.** We computed every weekday in this story from the Gregorian calendar, the civil calendar used in the United States, with the leap-year rule the U.S. Naval Observatory (USNO) publishes. Halloween is always Oct. 31, so only the weekday changes from year to year.
+**The next Saturday Halloween is Saturday, Oct. 31, 2037, 11 years after the Saturday Halloween of Oct. 31, 2026.** We computed every weekday in this story from the Gregorian calendar, the civil calendar used in the United States, with the leap-year rule the U.S. Naval Observatory (USNO) publishes. Halloween is always Oct. 31, so only the weekday changes from year to year.
 
-For how the day looks this year, see our story on [Halloween 2026 on a Saturday](/news/halloween-2026-saturday-sunset-trick-or-treat-times/). The [When is Halloween?](/when-is/halloween/) page has the date itself.
+For how the 2026 night looked, see our story on [Halloween 2026 on a Saturday](/news/halloween-2026-saturday-sunset-trick-or-treat-times/). The [When is Halloween?](/when-is/halloween/) page has the date itself.
 
 ## What day is Halloween each year from 2026 to 2050?
 
@@ -159,7 +160,7 @@ In a common year of 365 days, Oct. 31 moves one weekday later, because 365 is 52
 
 From 2026 to 2037 there are 11 years and three leap days (2028, 2032 and 2036). That is 11 plus 3, or 14 days, exactly two weeks, so Oct. 31 lands on a Saturday again. Gaps are usually 5 or 6 years because only one or two leap days fall in between; 2026 to 2037 is the stretch where three do.
 
-The Saturday Halloweens around today:
+The Saturday Halloweens around 2026:
 
 | Saturday Halloween | Years since the one before |
 |---|---|
@@ -189,7 +190,7 @@ Almost. The Gregorian calendar repeats exactly every 400 years, 146,097 days or 
 | Sunday | 56 |
 | Tuesday | 56 |
 
-Saturday ties for the most, with Monday and Wednesday. For how weekdays repeat across years, see [how often the calendar repeats](/news/how-often-does-the-calendar-repeat/). A similar date puzzle is the [next Friday the 13th](/news/friday-the-13th-november-13-2026-next-friday-13th-dates/). The [October 2026 printable calendar](/october-calendars.html) shows today's date in place, and the [printable yearly calendar](/printable-yearly-calendar.html) fits a whole year on one page.
+Saturday ties for the most, with Monday and Wednesday. For how weekdays repeat across years, see [how often the calendar repeats](/news/how-often-does-the-calendar-repeat/). A similar date puzzle is the [next Friday the 13th](/news/friday-the-13th-november-13-2026-next-friday-13th-dates/). The [October 2026 printable calendar](/october-calendars.html) shows Oct. 31, 2026 in place, and the [printable yearly calendar](/printable-yearly-calendar.html) fits a whole year on one page.
 
 ## Printable Halloween weekday list, 2027 to 2045
 
