@@ -3,7 +3,7 @@ title: "National Pearl Harbor Remembrance Day 2026: Monday, Dec. 7, and Flags at
 seoTitle: "Pearl Harbor Remembrance Day 2026: Dec. 7 Flags"
 description: "National Pearl Harbor Remembrance Day 2026 is Monday, Dec. 7, the 85th anniversary. Federal law asks for half-staff flags; it is not a federal holiday."
 type: explainer
-publishedAt: "2026-11-02T13:20:00-05:00"
+publishedAt: "2026-11-02T12:58:00-05:00"
 authors: [christina-gerland]
 category: holidays
 keywords: ["pearl harbor remembrance day 2026", "flags half staff december 7 2026", "pearl harbor day 2026", "is pearl harbor day a federal holiday", "85th anniversary pearl harbor"]

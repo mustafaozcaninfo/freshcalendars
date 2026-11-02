@@ -710,6 +710,7 @@ export const KEY_DATES: KeyDate[] = [
   { date: "2027-01-11", label: "Los Angeles Unified classes resume after winter recess", slug: "lausd-calendar-2026-27-winter-break-spring-break" },
   { date: "2027-03-22", label: "Los Angeles Unified spring recess begins (through March 26)", slug: "lausd-calendar-2026-27-winter-break-spring-break" },
   { date: "2027-06-04", label: "Los Angeles Unified last day of instruction", slug: "lausd-calendar-2026-27-winter-break-spring-break" },
+  { date: "2027-03-01", label: "RRSP contribution deadline for 2026 returns, by the 60-day count; CRA has not posted it", slug: "rrsp-deadline-2027-march-1-canada-tax-season-dates" },
 ];
 
 /** Today's date in Eastern Time as YYYY-MM-DD. */
