@@ -141,7 +141,7 @@ These are the advance prices shown on the guide, and the guide does not say whet
 
 ## Is Winter Wonderland free in 2026?
 
-Entry needs a booked ticket in every case. The guide's wording calls Off-Peak slots "always free to enter" while still requiring a ticket, yet both the guide and the homepage list them at £1.00, so check the price at checkout. The homepage also says that spending £25 online unlocks free event entry. It does not give the terms in the text we read.
+Entry needs a booked ticket in every case. The guide's wording calls Off-Peak slots "always free to enter" while still requiring a ticket, yet both the guide and the homepage list them at £1.00, so check the price at checkout. The homepage also says that spending £25 online unlocks free event entry. The homepage does not list the terms of that offer.
 
 ## Which November dates are Off-Peak?
 
