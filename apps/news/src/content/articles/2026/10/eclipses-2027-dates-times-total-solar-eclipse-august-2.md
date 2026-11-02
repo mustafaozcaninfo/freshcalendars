@@ -1,9 +1,10 @@
 ---
 title: "Eclipses 2027: Five Dates and Times, Led by the Total Solar Eclipse on Aug. 2"
 seoTitle: "Eclipses 2027: Dates, Times and Total Eclipse Aug. 2"
-description: "The National Aeronautics and Space Administration (NASA) lists five eclipses in 2027, led by the Aug. 2 total solar eclipse. Neither solar one reaches the U.S."
+description: "The National Aeronautics and Space Administration (NASA) lists five eclipses in 2027, led by the Aug. 2 total solar eclipse. Neither solar path reaches the U.S."
 type: explainer
 publishedAt: "2026-10-25T12:40:00-04:00"
+updatedAt: "2026-11-02T14:48:00-05:00"
 authors: [jessica-hartwell]
 category: sky-events
 keywords: ["eclipses 2027", "solar eclipse 2027", "August 2 2027 eclipse", "lunar eclipse 2027", "next total solar eclipse in the US"]
@@ -21,7 +22,7 @@ hero:
 summary:
   - "NASA lists five eclipses in 2027: two solar (Feb. 6 annular, Aug. 2 total) and three penumbral lunar (Feb. 20, July 18, Aug. 17)."
   - "The Aug. 2 total solar eclipse reaches greatest eclipse at 10:07 Universal Time (UT), with 6 minutes 23 seconds of totality, in southern Egypt."
-  - "Neither solar eclipse is visible from the United States; the Feb. 20 and Aug. 17 lunar eclipses are listed for the Americas."
+  - "Neither solar eclipse path crosses the United States, though NASA lists a partial Aug. 2 eclipse for northern Maine; the Feb. 20 and Aug. 17 lunar eclipses are listed for the Americas."
   - "The next total solar eclipse that crosses the contiguous U.S. is NASA's Aug. 23, 2044 event, which is the evening of Aug. 22 on U.S. clocks."
 faq:
   - q: "When is the total solar eclipse in 2027?"
@@ -60,7 +61,7 @@ internalLinks:
     label: "February 2027 printable calendar"
   - href: "/august-calendars.html"
     label: "August 2027 printable calendar"
-related: [moon-phases-2027-full-moon-calendar, total-solar-eclipse-august-2-2027-path-times-by-city-travel, november-2026-meteor-showers-taurids-leonids]
+related: [moon-phases-2027-full-moon-calendar, total-solar-eclipse-august-2-2027-path-times-by-city-travel, next-blood-moon-total-lunar-eclipse-after-2026-dates-us-times-2028-2029]
 assets:
   overlay: true
   kicker: "Eclipses 2027 · Five dates"
@@ -113,7 +114,7 @@ For the solar eclipses the magnitude is NASA's catalog value for the central ecl
 
 NASA's catalog lists totality across Morocco, Spain, Algeria, Libya, Egypt, Saudi Arabia, Yemen and Somalia. The path is 258 kilometers wide, and greatest eclipse is at 25.5 degrees north, 33.2 degrees east, in southern Egypt. A partial eclipse is visible across Africa, Europe, the Middle East and west and south Asia.
 
-North America is outside that region, so U.S. readers will not see even a partial eclipse.
+NASA's Future Eclipses page adds that a partial eclipse is visible in eastern Canada and northern Maine in the U.S., so the eclipse is a partial one at most for U.S. readers, and only in that corner of the country.
 
 ## What about the Feb. 6 annular eclipse?
 
@@ -127,11 +128,11 @@ All three 2027 lunar eclipses are penumbral. The Moon passes through the faint o
 - **July 18:** the penumbral magnitude is only 0.001, and greatest eclipse at 12:03 p.m. EDT is in daytime in the U.S. It is not visible from there.
 - **Aug. 17:** greatest at 3:14 a.m. EDT, with the penumbral phase from 1:24 a.m. to 5:03 a.m. EDT (05:24 to 09:03 UT). NASA lists the Pacific and the Americas.
 
-NASA gives the region for each eclipse as whole continents and does not say which U.S. places can see the Feb. 20 and Aug. 17 events. NASA's Science page lists the dates as "Feb. 20-21" and "Aug. 16-17" because the local date depends on where you are, and that page's list leaves out the July 18 eclipse, which the Goddard list includes. For a full-moon schedule that fits around these dates, see our [moon phases 2027 calendar](/news/moon-phases-2027-full-moon-calendar/).
+NASA gives the region for each eclipse as whole continents and does not say which U.S. places can see the Feb. 20 and Aug. 17 events. NASA's Science page lists the dates as "Feb. 20-21" and "Aug. 16-17" because the local date depends on where you are, and that page's list leaves out the July 18 eclipse, which the Goddard list includes. For a full-moon schedule that fits around these dates, see our [moon phases 2027 calendar](/news/moon-phases-2027-full-moon-calendar/). The Feb. 20 eclipse falls the day after Mars's opposition; the [2027 planet dates](/news/planets-2027-calendar-jupiter-mars-opposition-saturn-venus-elongation-dates/) list both.
 
 ## When is the next total solar eclipse in the U.S.?
 
-Not in 2027. NASA's decade table for 2041 to 2050 has two entries for the contiguous U.S.
+Not in 2027. NASA's decade table for 2041 to 2050 has two entries for the contiguous U.S. Our guide to the [next solar eclipse in the US](/news/next-solar-eclipse-in-the-us-after-2024-alaska-2033-total-2044-2045-dates/) adds Alaska's Mar. 30, 2033 total eclipse and the annular eclipses.
 
 | Date in NASA's table | Totality path | Length at greatest eclipse |
 |---|---|---|

@@ -87,7 +87,7 @@ internalLinks:
     label: "December 2026 printable calendar"
   - href: "/printable-yearly-calendar.html"
     label: "2027 printable yearly calendar"
-related: [planets-visible-november-2026-night-sky-calendar-moon-venus-uranus-opposition, supermoon-2026-beaver-moon-cold-moon-geminids-solstice, winter-solstice-2026-december-21-shortest-day-sunset-times]
+related: [geminid-meteor-shower-2026-peak-december-13-14-moon-viewing-times, supermoon-2026-beaver-moon-cold-moon-geminids-solstice, planets-2027-calendar-jupiter-mars-opposition-saturn-venus-elongation-dates]
 downloads:
   - group: "December 2026 Night Sky Calendar printables"
     title: "December 2026 Night Sky Calendar"
