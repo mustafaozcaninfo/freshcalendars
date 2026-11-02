@@ -30,9 +30,15 @@ assets:
     description: "Dated Liga MX Apertura 2026 Liguilla calendar from Jornada 17 on Nov. 22 to the Final on Dec. 10-13, one page."
     alt: "Printable Liga MX Liguilla Apertura 2026 calendar from Jornada 17 to the Final in December"
 hero:
-  src: ../../../../assets/news/liga-mx-liguilla-apertura-2026-dates-quarterfinals-semifinals-final-schedule/liga-mx-liguilla-apertura-2026-dates-quarterfinals-semifinals-final-schedule.jpg
-  alt: "Liga MX Liguilla Apertura 2026 dates shown on a soccer match scene"
-  caption: "The Liga MX Apertura 2026 Liguilla starts Nov. 25 and the Final is set for Dec. 10-13."
+  src: ../../../../assets/news/liga-mx-liguilla-apertura-2026-dates-quarterfinals-semifinals-final-schedule/liga-mx-liguilla-apertura-2026-dates-quarterfinals-semifinals-final-schedule.webp
+  alt: "Liguilla Apertura 2026: the exterior of Estadio Azteca in Mexico City seen from the street"
+  caption: "File photo of the outside of Estadio Azteca (now Estadio Banorte) in Mexico City. The Apertura 2026 Liguilla starts Nov. 25, per TUDN and Claro Sports."
+  credit: "Photo: Aztec1989 / Wikimedia Commons, edited"
+  license:
+    name: "CC BY-SA 3.0"
+    url: "https://creativecommons.org/licenses/by-sa/3.0"
+    source: "https://commons.wikimedia.org/wiki/File:Estadio_Azteca_2.JPG"
+    author: "Aztec1989"
 summary:
   - "According to Televisa Univision Deportes Network (TUDN) and Claro Sports, the Liga MX Liguilla starts with quarterfinal first legs on Wed., Nov. 25 and Thu., Nov. 26, 2026."
   - "The regular season ends with Jornada 17 on Sun., Nov. 22, there is no Play-In, and the top eight in the general table qualify."
