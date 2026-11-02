@@ -5,7 +5,7 @@ description: "The Office of Gas and Electricity Markets (Ofgem) will announce th
 type: news
 publishedAt: "2026-10-28T03:42:00-04:00"
 updatedAt: "2026-11-01T10:27:00-05:00"
-authors: [alex-morgan]
+authors: [christina-gerland]
 category: uk-canada
 keywords: ["energy price cap January 2027", "when is the next price cap announcement", "Ofgem price cap 25 November 2026", "gas standing charge", "energy price cap 2027 dates"]
 dateline: "London"

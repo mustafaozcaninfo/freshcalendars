@@ -5,7 +5,7 @@ description: "The National Park Service (NPS) free National Christmas Tree ticke
 type: news
 publishedAt: "2026-10-25T15:19:00-04:00"
 updatedAt: "2026-10-31T15:50:00-04:00"
-authors: [alex-morgan]
+authors: [christina-gerland]
 category: holidays
 keywords: ["National Christmas Tree lighting 2026", "National Christmas Tree tickets lottery", "National Christmas Tree lighting date", "Capitol Christmas Tree 2026"]
 dateline: "Washington"

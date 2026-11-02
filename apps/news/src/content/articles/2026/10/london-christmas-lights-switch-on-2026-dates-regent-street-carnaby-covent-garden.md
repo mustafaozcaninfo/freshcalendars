@@ -4,7 +4,7 @@ seoTitle: "London Christmas Lights Switch-On 2026 Dates"
 description: "Carnaby Street switches on Wednesday 4 November 2026, Regent Street on 5 November and Covent Garden on 12 November; times in GMT and Eastern Time (ET)."
 type: news
 publishedAt: "2026-10-28T23:45:00-04:00"
-authors: [alex-morgan]
+authors: [christina-gerland]
 category: uk-canada
 keywords: ["London Christmas lights switch on 2026", "Regent Street Christmas lights 2026", "Carnaby Christmas lights 2026", "Covent Garden lights switch on 2026", "Christmas lights switch on dates 2026 UK"]
 dateline: "London"

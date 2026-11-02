@@ -4,7 +4,7 @@ seoTitle: "Movember 2026 Dates: Nov. 1 to 30 and the Move Tracker"
 description: "Movember 2026 runs Sunday, Nov. 1 to Monday, Nov. 30. Start clean shaven, see the 60 km vs 60 miles Move difference and get a free 30-day printable tracker."
 type: explainer
 publishedAt: "2026-10-27T21:45:00-04:00"
-authors: [alex-morgan]
+authors: [christina-gerland]
 category: holidays
 keywords: ["Movember 2026", "when does Movember start", "Movember 60 km challenge", "Movember vs No-Shave November"]
 dateline: "New York"

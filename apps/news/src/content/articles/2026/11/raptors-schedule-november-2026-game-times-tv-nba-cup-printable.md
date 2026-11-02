@@ -4,7 +4,7 @@ seoTitle: "Raptors Schedule November 2026: Times, TV, Cup Games"
 description: "The Raptors play at the LA Clippers on Mon., Nov. 2, 2026, at 7 p.m. Pacific Time (PT), 10 p.m. Eastern Time (ET), with all 14 November games listed."
 type: news
 publishedAt: "2026-11-01T20:45:00-05:00"
-authors: [jordan-bennett]
+authors: [jessica-hartwell]
 category: sports
 keywords: ["Raptors schedule", "Raptors schedule November 2026", "next Raptors game", "Raptors game tonight", "Raptors NBA Cup 2026"]
 dateline: "Toronto"

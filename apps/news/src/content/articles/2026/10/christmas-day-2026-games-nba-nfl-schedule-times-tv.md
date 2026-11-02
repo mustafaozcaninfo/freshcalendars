@@ -4,7 +4,7 @@ seoTitle: "Christmas Day 2026 Games: NBA and NFL Times and TV"
 description: "Eight games on Fri., Dec. 25, 2026: five National Basketball Association (NBA) and three National Football League (NFL), from noon Eastern Time (ET)."
 type: explainer
 publishedAt: "2026-10-26T05:20:00-04:00"
-authors: [jordan-bennett]
+authors: [jessica-hartwell]
 category: sports
 keywords: ["NBA Christmas Day 2026 games", "Christmas Day games 2026 schedule", "NFL Christmas Day 2026 Netflix", "what games are on Christmas 2026"]
 dateline: "New York"

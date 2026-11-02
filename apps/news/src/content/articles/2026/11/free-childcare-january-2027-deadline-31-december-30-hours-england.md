@@ -4,7 +4,7 @@ seoTitle: "30 Hours Free Childcare Deadline: 31 Dec 2026"
 description: "If your child turns 9 months between 1 September and 31 December 2026, apply for 30 hours free childcare in England by 31 December, GOV.UK says."
 type: explainer
 publishedAt: "2026-11-01T04:46:00-05:00"
-authors: [alex-morgan]
+authors: [christina-gerland]
 category: uk-canada
 keywords: ["30 hours free childcare deadline", "free childcare january 2027 apply by", "when to apply for 30 hours free childcare", "childcare code reconfirm 3 months"]
 dateline: "London"

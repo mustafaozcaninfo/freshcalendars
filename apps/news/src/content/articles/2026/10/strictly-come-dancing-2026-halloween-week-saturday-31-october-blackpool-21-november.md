@@ -5,7 +5,7 @@ description: "Strictly's Halloween Week aired at 6.30pm Greenwich Mean Time (GMT
 type: explainer
 publishedAt: "2026-10-30T01:45:00-04:00"
 updatedAt: "2026-11-01T02:42:00-05:00"
-authors: [alex-morgan]
+authors: [jessica-hartwell]
 category: entertainment
 keywords: ["strictly come dancing halloween week 2026", "strictly time tonight", "strictly blackpool 2026 date", "strictly 2026 theme weeks dates", "strictly triple dance-off"]
 dateline: "London"

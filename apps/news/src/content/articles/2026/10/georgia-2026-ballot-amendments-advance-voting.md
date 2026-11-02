@@ -5,7 +5,7 @@ description: "Georgia's Nov. 3, 2026 ballot: a U.S. Senate seat, governor, six m
 type: explainer
 publishedAt: "2026-10-20T11:25:00-04:00"
 updatedAt: "2026-11-01T02:41:00-05:00"
-authors: [alex-morgan]
+authors: [christina-gerland]
 category: elections
 keywords: ["Georgia ballot 2026", "Georgia constitutional amendments 2026", "Georgia early voting 2026", "Georgia sample ballot 2026", "Georgia runoff December 2026"]
 dateline: "Atlanta"

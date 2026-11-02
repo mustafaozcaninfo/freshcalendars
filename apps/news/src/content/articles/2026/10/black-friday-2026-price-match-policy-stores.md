@@ -4,7 +4,7 @@ seoTitle: "Black Friday 2026 Price Match: Best Buy, Walmart, Target"
 description: "Best Buy matches rival prices but excludes Black Friday pricing and Thanksgiving weekend; Walmart and Target match only their own prices, per their policies."
 type: explainer
 publishedAt: "2026-10-30T15:30:00-04:00"
-authors: [jordan-bennett]
+authors: [jessica-hartwell]
 category: retail-dates
 keywords: ["black friday price match 2026", "does best buy price match black friday", "does walmart price match", "target price match policy"]
 dateline: "New York"

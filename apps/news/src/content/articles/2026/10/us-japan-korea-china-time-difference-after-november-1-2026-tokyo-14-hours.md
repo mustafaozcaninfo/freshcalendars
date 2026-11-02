@@ -5,7 +5,7 @@ description: "U.S. clocks fell back at 2 a.m. on Nov. 1, 2026, so New York is 14
 type: explainer
 publishedAt: "2026-10-30T23:50:00-04:00"
 updatedAt: "2026-11-01T05:45:00-05:00"
-authors: [jordan-bennett]
+authors: [jessica-hartwell]
 category: time-change
 keywords: ["time difference between us and japan", "new york to tokyo time difference after daylight saving", "us korea time difference", "us china time difference november 2026"]
 hero:

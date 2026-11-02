@@ -1,0 +1,15 @@
+{
+  "kind": "Person",
+  "name": "Christina Gerland",
+  "role": "Senior Editor, Public Holidays, Policy & Civic Calendars",
+  "bio": "Christina Gerland is the Senior Editor for public holidays, policy and civic calendars at Fresh Calendars News. Christina leads coverage of federal, state, provincial and municipal holidays, elections and voting deadlines, government deadlines, and holiday rules in the United States, the United Kingdom and Canada. Christina's stories explain who sets each date, which rules apply when a holiday falls on a weekend, and what the day means for workers, schools, businesses and travel. Every legal or date claim is checked against the official calendar, law or agency notice it comes from.",
+  "photo": "../../assets/authors/christina-gerland.png",
+  "confirmedAt": "2026-11-02",
+  "email": "christina@freshcalendars.com",
+  "categories": [
+    "holidays",
+    "elections",
+    "planning",
+    "uk-canada"
+  ]
+}

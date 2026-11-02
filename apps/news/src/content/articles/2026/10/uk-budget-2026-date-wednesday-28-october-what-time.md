@@ -5,7 +5,7 @@ description: "The UK Budget 2026 was delivered on Wed., Oct. 28. The cash Indivi
 type: news
 publishedAt: "2026-10-26T08:45:00-04:00"
 updatedAt: "2026-10-28T11:50:00-04:00"
-authors: [alex-morgan]
+authors: [christina-gerland]
 category: uk-canada
 keywords: ["budget 2026 date uk", "when is the budget 2026", "autumn budget 2026", "budget 28 october 2026", "what time is the budget"]
 dateline: "London"

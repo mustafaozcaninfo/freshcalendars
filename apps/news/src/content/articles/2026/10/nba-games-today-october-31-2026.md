@@ -4,7 +4,7 @@ seoTitle: "NBA Games Today, Oct. 31, 2026: Times and TV"
 description: "National Basketball Association (NBA) games Saturday, Oct. 31, 2026 (Halloween): 7 games, first tip-off 3:00 p.m. Eastern Time (ET), last 8:30 p.m. ET."
 type: news
 publishedAt: "2026-10-29T21:39:00-04:00"
-authors: [jordan-bennett]
+authors: [jessica-hartwell]
 category: sports
 keywords: ["NBA games today", "NBA games tonight October 31", "NBA schedule October 31 2026", "NBA Halloween games 2026", "printable NBA schedule"]
 dateline: "New York"

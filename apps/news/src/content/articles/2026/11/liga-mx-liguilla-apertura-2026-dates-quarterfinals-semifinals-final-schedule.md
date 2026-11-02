@@ -4,7 +4,7 @@ seoTitle: "Liga MX Liguilla Apertura 2026 Dates"
 description: "The Liga MX Liguilla starts Nov. 25-26 with no Play-In. See every round by date, the Toluca exception for the Final, and the current top eight as of Nov. 1."
 type: news
 publishedAt: "2026-11-01T20:55:00-05:00"
-authors: [jordan-bennett]
+authors: [jessica-hartwell]
 category: sports
 keywords: ["Liguilla Apertura 2026 dates", "Liga MX playoffs 2026 schedule", "Liga MX Liguilla 2026 start", "Liga MX final 2026 date", "Cruz Azul Liguilla 2026"]
 dateline: "Mexico City"

@@ -4,7 +4,7 @@ seoTitle: "Family Day 2027: Monday, Feb. 15, Provinces"
 description: "Family Day 2027 falls on Monday, Feb. 15, the third Monday in February. Alberta and Ontario list it as a holiday; Nova Scotia calls it Heritage Day."
 type: explainer
 publishedAt: "2026-10-31T01:00:00-04:00"
-authors: [alex-morgan]
+authors: [christina-gerland]
 category: uk-canada
 keywords: ["family day 2027", "family day 2027 ontario", "louis riel day 2027", "heritage day 2027 nova scotia", "family day 2027 alberta"]
 dateline: "Ottawa"

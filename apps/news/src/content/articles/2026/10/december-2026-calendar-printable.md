@@ -4,7 +4,7 @@ seoTitle: "December 2026 Calendar: 16 Free Printables With Holidays"
 description: "December 2026 starts on Tuesday, Dec. 1 and has one federal holiday, Christmas Day on Friday, Dec. 25. Get 16 free printable December 2026 calendars as PDF."
 type: explainer
 publishedAt: "2026-10-27T03:00:00-04:00"
-authors: [jordan-bennett]
+authors: [jessica-hartwell]
 category: calendar-guides
 keywords: ["december 2026 calendar", "december 2026 calendar printable", "printable december 2026 calendar pdf", "december 2026 blank calendar", "christmas countdown calendar 2026 printable"]
 hero:

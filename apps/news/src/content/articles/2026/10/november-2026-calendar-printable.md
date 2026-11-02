@@ -8,7 +8,7 @@ updatedAt: "2026-10-27T03:00:00-04:00"
 corrections:
   - date: "2026-10-27T03:00:00-04:00"
     text: "An earlier version swapped two Moon phases. The Moon is at last quarter on Sun., Nov. 1 and new on Mon., Nov. 9, per the U.S. Naval Observatory; the moon phase sheet and daily list are corrected."
-authors: [jordan-bennett]
+authors: [jessica-hartwell]
 category: calendar-guides
 keywords: ["november 2026 calendar", "november 2026 calendar printable", "printable november 2026 calendar pdf", "november 2026 blank calendar", "november 2026 thanksgiving calendar"]
 hero:

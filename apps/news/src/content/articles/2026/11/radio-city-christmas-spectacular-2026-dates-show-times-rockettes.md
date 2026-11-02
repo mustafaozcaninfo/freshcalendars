@@ -4,7 +4,7 @@ seoTitle: "Radio City Christmas Spectacular 2026: Dates, Times"
 description: "The Radio City Christmas Spectacular opens Nov. 4, 2026 with 230 shows. Opening-week times in Eastern Time (ET), the 90-minute run time and arrival rules."
 type: news
 publishedAt: "2026-11-01T16:43:00-05:00"
-authors: [jordan-bennett]
+authors: [jessica-hartwell]
 category: entertainment
 keywords: ["Radio City Christmas Spectacular 2026", "Rockettes 2026 dates", "Christmas Spectacular show times", "how long is the Rockettes show"]
 dateline: "New York"

@@ -4,7 +4,7 @@ seoTitle: "Champions League November 2026 Schedule, Times in ET"
 description: "Champions League matchday 4 is Nov. 3-4 and matchday 5 is Nov. 24-25, 2026, at 12:45 and 3 p.m. Eastern Time (ET), or 9:45 a.m. and noon Pacific Time (PT)."
 type: news
 publishedAt: "2026-10-28T15:50:00-04:00"
-authors: [jordan-bennett]
+authors: [jessica-hartwell]
 category: sports
 keywords: ["champions league schedule november 2026", "champions league matchday 4 2026 kickoff times et", "champions league today time et", "man utd vs roma champions league time"]
 dateline: "London"

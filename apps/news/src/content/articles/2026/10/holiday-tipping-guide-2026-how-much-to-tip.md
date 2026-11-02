@@ -4,7 +4,7 @@ seoTitle: "Holiday Tipping Guide 2026: How Much to Tip"
 description: "Emily Post suggests $15 to $80 for a doorman and $20 to $80 for a superintendent; U.S. Postal Service (USPS) carriers may take noncash gifts up to $20."
 type: explainer
 publishedAt: "2026-10-30T15:30:00-04:00"
-authors: [alex-morgan]
+authors: [christina-gerland]
 category: holidays
 keywords: ["holiday tipping guide 2026", "how much to tip doorman for holidays", "holiday tips mail carrier", "how much to tip babysitter at Christmas"]
 assets:

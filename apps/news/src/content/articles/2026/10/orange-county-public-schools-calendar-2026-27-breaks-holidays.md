@@ -4,7 +4,7 @@ seoTitle: "OCPS Calendar 2026-27: Breaks and Holidays"
 description: "Orange County Public Schools (OCPS) students are off Nov. 23-27, 2026 for Thanksgiving, Dec. 21 to Jan. 1 for winter break; the last day is May 26, 2027."
 type: news
 publishedAt: "2026-10-31T13:20:00-04:00"
-authors: [emily-carter]
+authors: [aaron-kessler]
 category: school-calendars
 keywords: ["OCPS calendar 2026-27", "Orange County Public Schools calendar 2026-2027", "OCPS Thanksgiving break 2026", "OCPS winter break 2026", "OCPS spring break 2027"]
 dateline: "Orlando, Fla."

@@ -5,7 +5,7 @@ description: "Monday Night Football is the Chicago Bears (5-2) at the Seattle Se
 type: news
 publishedAt: "2026-10-25T14:15:00-04:00"
 updatedAt: "2026-11-01T17:05:00-05:00"
-authors: [jordan-bennett]
+authors: [jessica-hartwell]
 category: sports
 keywords: ["Monday Night Football", "Cowboys vs Eagles score", "MNF schedule 2026", "what channel is Monday Night Football"]
 dateline: "Philadelphia"

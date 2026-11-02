@@ -4,7 +4,7 @@ seoTitle: "Skate Canada 2026 Schedule: Kelowna Times and TV"
 description: "Skate Canada International runs Oct. 30-Nov. 1, 2026 in Kelowna; the women's short is Sat. at 3:30 p.m. Eastern Time (ET), 12:30 p.m. Pacific Time (PT)."
 type: news
 publishedAt: "2026-10-30T21:43:00-04:00"
-authors: [jordan-bennett]
+authors: [christina-gerland]
 category: uk-canada
 keywords: ["skate canada international 2026 schedule", "skate canada 2026 tv schedule", "skate canada kelowna times", "grand prix figure skating 2026 schedule"]
 dateline: "Kelowna"

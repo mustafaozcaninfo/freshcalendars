@@ -5,7 +5,7 @@ description: "World Vegan Day is today, Sunday, Nov. 1, 2026, and opens World Ve
 type: explainer
 publishedAt: "2026-10-31T05:41:00-04:00"
 updatedAt: "2026-11-01T02:42:00-05:00"
-authors: [alex-morgan]
+authors: [christina-gerland]
 category: holidays
 keywords: ["world vegan day 2026", "when is world vegan day", "world vegan month november 2026", "world vegan day november 1"]
 dateline: "New York"

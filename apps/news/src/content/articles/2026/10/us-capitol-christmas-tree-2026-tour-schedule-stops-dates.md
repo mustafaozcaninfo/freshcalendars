@@ -5,7 +5,7 @@ description: "The 2026 U.S. Capitol Christmas Tree tour began Oct. 29 in Idaho a
 type: news
 publishedAt: "2026-10-31T15:45:00-04:00"
 updatedAt: "2026-11-01T02:45:00-05:00"
-authors: [alex-morgan]
+authors: [christina-gerland]
 category: holidays
 keywords: ["Capitol Christmas Tree 2026 tour schedule", "Capitol Christmas Tree 2026 stops", "Capitol Christmas Tree tour near me", "2026 Capitol Christmas Tree Idaho"]
 dateline: "Kamiah, Idaho"

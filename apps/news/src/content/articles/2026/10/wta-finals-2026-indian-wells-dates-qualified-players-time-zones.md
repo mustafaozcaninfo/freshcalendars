@@ -4,7 +4,7 @@ seoTitle: "WTA Finals 2026 Dates, Qualified Players and Time Zones"
 description: "The Women's Tennis Association (WTA) Finals run Nov. 8-15, 2026 at Indian Wells, and eight singles players have qualified, led by Elena Rybakina."
 type: news
 publishedAt: "2026-10-27T15:43:00-04:00"
-authors: [jordan-bennett]
+authors: [jessica-hartwell]
 category: sports
 keywords: ["wta finals 2026", "wta finals 2026 indian wells", "wta finals 2026 dates", "wta finals 2026 qualified players", "wta finals time"]
 dateline: "Indian Wells"

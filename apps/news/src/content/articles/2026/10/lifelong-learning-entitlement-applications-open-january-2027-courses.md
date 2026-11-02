@@ -5,7 +5,7 @@ description: "Applications for the Lifelong Learning Entitlement (LLE) opened on
 type: news
 publishedAt: "2026-10-30T10:22:00-04:00"
 updatedAt: "2026-11-01T10:30:00-05:00"
-authors: [alex-morgan]
+authors: [christina-gerland]
 category: uk-canada
 keywords: ["lifelong learning entitlement applications open", "lifelong learning entitlement how to apply", "LLE student finance 2027", "LLE £39,160"]
 dateline: "London"

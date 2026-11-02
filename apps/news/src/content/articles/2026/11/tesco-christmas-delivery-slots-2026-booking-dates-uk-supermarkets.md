@@ -5,7 +5,7 @@ description: "Tesco shoppers must join a Delivery Saver plan by 11:59pm Greenwic
 type: news
 dateline: "London"
 publishedAt: "2026-11-01T08:50:00-05:00"
-authors: [alex-morgan]
+authors: [christina-gerland]
 category: uk-canada
 keywords: ["Tesco Christmas delivery slots 2026", "when do Tesco Christmas slots open", "Christmas delivery slots 2026 supermarkets", "Sainsbury's Asda Christmas delivery slots 2026"]
 hero:

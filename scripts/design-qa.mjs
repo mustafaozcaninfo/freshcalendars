@@ -30,7 +30,7 @@ const samples=new Map([
   ['/','home'], ['/october-calendars.html','monthly'], ['/printable-calendars.html','yearly'],
   ['/blank-calendars.html','blank'], ['/printable-weekly-calendar.html','weekly'],
   ['/holidays/','holidays'], ['/when-is/thanksgiving/','holiday'], ['/page/contact/','contact'],
-  ['/calendars/','library'], ['/calendar-tools/','tools'], ['/printable-school-calendar.html','school'], ['/print-guide.html','guide'], ['/page/privacy-policy/','policy'], ['/404.html','error'], ['/news/404.html','news-error'], ['/news/author/emily-carter/','author'], ['/news/author/news-desk/','desk'], ['/news/topic/thanksgiving-2026/','topic'], ['/news/page/2/','pagination'], ['/news/editorial-policy/','news-policy'], ['/news/','news'], ['/news/printables/','printables'], ['/news/category/holidays/','category'],
+  ['/calendars/','library'], ['/calendar-tools/','tools'], ['/printable-school-calendar.html','school'], ['/print-guide.html','guide'], ['/page/privacy-policy/','policy'], ['/404.html','error'], ['/news/404.html','news-error'], ['/news/author/aaron-kessler/','author'], ['/news/author/news-desk/','desk'], ['/news/topic/thanksgiving-2026/','topic'], ['/news/page/2/','pagination'], ['/news/editorial-policy/','news-policy'], ['/news/','news'], ['/news/printables/','printables'], ['/news/category/holidays/','category'],
 ]);
 const inventory=JSON.parse(await fs.readFile(path.join(out,'live-inventory.json'),'utf8'));
 const story=inventory.pages.find(p=>p.class==='news'&&p.downloads.length>10&&new URL(p.url).pathname.split('/').length===4);

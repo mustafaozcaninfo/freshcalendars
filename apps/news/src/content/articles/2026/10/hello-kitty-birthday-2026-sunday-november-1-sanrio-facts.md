@@ -4,7 +4,7 @@ seoTitle: "Hello Kitty Birthday 2026: Sunday, Nov. 1, Sanrio Facts"
 description: "Hello Kitty's birthday is Sunday, Nov. 1, 2026, per Sanrio. She was designed in 1974, 52 years ago, and placed fifth in Sanrio's 2026 character ranking."
 type: explainer
 publishedAt: "2026-10-31T17:45:00-04:00"
-authors: [alex-morgan]
+authors: [christina-gerland]
 category: holidays
 keywords: ["Hello Kitty birthday 2026", "Hello Kitty Day November 1", "how old is Hello Kitty", "when is Hello Kitty's birthday"]
 dateline: "New York"

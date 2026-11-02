@@ -4,7 +4,7 @@ seoTitle: "How Often Does the Calendar Repeat?"
 description: "The Gregorian calendar repeats exactly every 400 years (146,097 days, per NASA), while single years match 6, 11 or 28 years apart. Matches for 2024 to 2035."
 type: explainer
 publishedAt: "2026-10-30T08:21:00-04:00"
-authors: [jordan-bennett]
+authors: [jessica-hartwell]
 category: calendar-guides
 keywords: ["how often does the calendar repeat", "same calendar year as", "calendar cycle", "400 year calendar cycle", "repeating calendar"]
 dateline: "New York"

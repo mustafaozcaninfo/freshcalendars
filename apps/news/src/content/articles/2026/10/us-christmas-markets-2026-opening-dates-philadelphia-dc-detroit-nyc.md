@@ -4,7 +4,7 @@ seoTitle: "US Christmas Markets 2026: Opening Dates and Closed Days"
 description: "Detroit's winter markets open Nov. 11, 2026, the District of Columbia (DC) Holiday Market Nov. 12 and Philadelphia's Christmas Village Nov. 21, per each site."
 type: news
 publishedAt: "2026-10-31T14:23:00-04:00"
-authors: [alex-morgan]
+authors: [christina-gerland]
 category: holidays
 keywords: ["Christmas markets 2026 USA", "Christmas Village Philadelphia 2026 dates", "DC Holiday Market 2026", "Detroit winter markets 2026", "when do Christmas markets open 2026"]
 hero:

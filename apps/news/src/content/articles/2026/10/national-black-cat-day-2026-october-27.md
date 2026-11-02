@@ -5,7 +5,7 @@ description: "National Black Cat Day is Oct. 27, a Tuesday in 2026. Cats Protect
 type: explainer
 publishedAt: "2026-10-25T13:10:00-04:00"
 updatedAt: "2026-10-28T16:12:00-04:00"
-authors: [alex-morgan]
+authors: [christina-gerland]
 category: holidays
 keywords: ["National Black Cat Day 2026", "Black Cat Day October 27", "when is black cat day", "black cat appreciation day"]
 dateline: "New York"

@@ -5,7 +5,7 @@ description: "The Game Awards 2026 tickets went on sale Thursday, Oct. 29 at 10 
 type: news
 publishedAt: "2026-10-28T19:45:00-04:00"
 updatedAt: "2026-10-30T01:05:00-04:00"
-authors: [jordan-bennett]
+authors: [jessica-hartwell]
 category: gaming-tech
 keywords: ["the game awards 2026", "the game awards 2026 tickets", "the game awards 2026 date", "game awards nominations 2026 date", "when is the game awards 2026"]
 dateline: "Los Angeles"

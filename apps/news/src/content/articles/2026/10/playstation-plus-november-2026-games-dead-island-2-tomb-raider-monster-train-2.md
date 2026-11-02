@@ -5,7 +5,7 @@ description: "Sony named the PlayStation Plus (PS Plus) November 2026 games Oct.
 type: news
 publishedAt: "2026-10-28T13:48:00-04:00"
 updatedAt: "2026-11-01T10:27:00-05:00"
-authors: [jordan-bennett]
+authors: [jessica-hartwell]
 category: gaming-tech
 keywords: ["playstation plus november 2026 games", "ps plus november games list", "ps plus essential november 2026", "when do ps plus november games come out"]
 assets:

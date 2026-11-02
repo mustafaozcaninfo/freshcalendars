@@ -4,7 +4,7 @@ seoTitle: "NFL Week 8 Schedule 2026: Game Times and TV"
 description: "National Football League (NFL) Week 8: 14 games from Thu., Oct. 29 to Mon., Nov. 2, 2026, with Eastern Time (ET) kickoffs, TV channels and clock-change times."
 type: news
 publishedAt: "2026-10-28T17:45:00-04:00"
-authors: [jordan-bennett]
+authors: [jessica-hartwell]
 category: sports
 keywords: ["NFL Week 8 schedule 2026", "NFL games this week", "NFL schedule today Nov 1 2026", "what time do NFL games start after time change"]
 assets:

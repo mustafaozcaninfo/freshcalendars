@@ -4,7 +4,7 @@ seoTitle: "NFL Week 13 Schedule 2026: Times and Pick'em Sheet"
 description: "National Football League (NFL) Week 13 runs Dec. 3 to 7, 2026: 14 games, four byes, Eastern Time (ET) kickoffs, TV channels and a printable pick'em sheet."
 type: news
 publishedAt: "2026-11-01T14:44:00-05:00"
-authors: [jordan-bennett]
+authors: [jessica-hartwell]
 category: sports
 keywords: ["NFL Week 13 schedule 2026", "NFL Week 13 pick em sheet printable", "NFL Week 13 game times", "NFL Week 13 bye teams 2026"]
 assets:

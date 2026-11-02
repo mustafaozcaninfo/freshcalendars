@@ -5,7 +5,7 @@ description: "Daylight saving time (DST) starts again in the U.S. on Sunday, Mar
 type: explainer
 publishedAt: "2026-10-27T15:55:00-04:00"
 updatedAt: "2026-11-01T05:45:00-05:00"
-authors: [jordan-bennett]
+authors: [jessica-hartwell]
 category: time-change
 keywords: ["when does daylight saving time start again", "daylight saving time 2027", "clocks change 2027", "clocks go forward 2027 uk", "spring forward 2027"]
 dateline: "New York"

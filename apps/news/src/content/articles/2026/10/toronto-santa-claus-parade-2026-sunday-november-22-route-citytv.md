@@ -4,7 +4,7 @@ seoTitle: "Toronto Santa Claus Parade 2026: Nov. 22 and Ottawa"
 description: "The 122nd Santa Claus Parade in Toronto is Sunday, Nov. 22, 2026. Ottawa's Help Santa Toy Parade is Saturday, Nov. 21 at 11 a.m. Eastern Time (ET)."
 type: news
 publishedAt: "2026-10-28T13:50:00-04:00"
-authors: [alex-morgan]
+authors: [christina-gerland]
 category: uk-canada
 keywords: ["toronto santa claus parade 2026", "santa claus parade 2026 date", "when is the santa claus parade toronto", "ottawa santa parade 2026"]
 dateline: "Toronto"

@@ -5,7 +5,7 @@ description: "CNN starts election night coverage at 4 p.m. Eastern Time (ET) on 
 type: news
 publishedAt: "2026-10-24T16:00:00-04:00"
 updatedAt: "2026-10-31T00:25:00-04:00"
-authors: [alex-morgan]
+authors: [christina-gerland]
 category: elections
 keywords: ["election night 2026 TV schedule", "how to watch election results 2026", "election night coverage 2026", "where to stream election results", "midterm election coverage start time"]
 dateline: "New York"

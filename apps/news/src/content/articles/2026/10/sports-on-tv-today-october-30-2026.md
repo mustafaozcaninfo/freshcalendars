@@ -5,7 +5,7 @@ description: "Sports on TV today, Friday, Oct. 30, 2026: 20 events from 1 p.m. E
 type: news
 publishedAt: "2026-10-30T01:55:00-04:00"
 updatedAt: "2026-10-30T04:30:00-04:00"
-authors: [jordan-bennett]
+authors: [jessica-hartwell]
 category: sports
 keywords: ["sports on TV today", "sports schedule today October 30 2026", "what games are on tonight", "sports on TV tonight Friday", "printable sports TV schedule"]
 assets:

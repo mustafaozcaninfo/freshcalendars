@@ -4,7 +4,7 @@ seoTitle: "NHL Games Today, Oct. 29, 2026: All 11 Games and TV"
 description: "National Hockey League (NHL) games today, Oct. 29, 2026: 11 games from 7:00 to 10:00 p.m. Eastern Time (ET), with arenas and the TV the league lists."
 type: news
 publishedAt: "2026-10-29T16:10:00-04:00"
-authors: [jordan-bennett]
+authors: [jessica-hartwell]
 category: sports
 keywords: ["NHL games today", "NHL games tonight", "NHL schedule October 29 2026", "NHL TV schedule today", "printable NHL schedule"]
 dateline: "Raleigh"

@@ -4,7 +4,7 @@ seoTitle: "Ski Resort Opening Dates 2026-27 by Date"
 description: "Arapahoe Basin and Keystone have opened. Breckenridge and Copper Mountain are next on Nov. 6, Vail Mountain on Nov. 13. See the 2026-27 table and printable."
 type: news
 publishedAt: "2026-11-01T12:47:00-05:00"
-authors: [jordan-bennett]
+authors: [christina-gerland]
 category: planning
 keywords: ["ski resort opening dates 2026", "when do ski resorts open 2026", "vail opening day 2026", "breckenridge opening day 2026", "park city opening day 2026"]
 assets:

@@ -5,7 +5,7 @@ description: "The National Oceanic and Atmospheric Administration (NOAA) Climate
 type: news
 publishedAt: "2026-10-30T10:30:00-04:00"
 updatedAt: "2026-10-30T13:05:00-04:00"
-authors: [jordan-bennett]
+authors: [christina-gerland]
 category: planning
 keywords: ["super el niño winter forecast", "noaa winter outlook update november 19", "el niño update november 2026", "cpc outlook release schedule", "winter forecast canada el niño"]
 hero:

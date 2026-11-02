@@ -5,7 +5,7 @@ description: "Singles Day 2026 is Wednesday, Nov. 11. Alibaba's Alizila set the 
 type: explainer
 publishedAt: "2026-10-25T13:15:00-04:00"
 updatedAt: "2026-11-01T16:58:00-05:00"
-authors: [jordan-bennett]
+authors: [jessica-hartwell]
 category: retail-dates
 keywords: ["Singles Day 2026", "11.11 sale 2026", "Double 11 2026 date", "AliExpress 11.11 2026"]
 dateline: "New York"

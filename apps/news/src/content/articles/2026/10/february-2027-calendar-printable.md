@@ -4,7 +4,7 @@ seoTitle: "February 2027 Calendar: Free Printable (PDF)"
 description: "February 2027 starts on Monday, Feb. 1, has 28 days and one federal holiday, Washington's Birthday on Feb. 15. Free printable calendar with Moon phases."
 type: explainer
 publishedAt: "2026-10-31T10:40:00-04:00"
-authors: [jordan-bennett]
+authors: [jessica-hartwell]
 category: calendar-guides
 keywords: ["february 2027 calendar", "february 2027 calendar printable", "february 2027 calendar with holidays", "february 2027 moon phases"]
 hero:

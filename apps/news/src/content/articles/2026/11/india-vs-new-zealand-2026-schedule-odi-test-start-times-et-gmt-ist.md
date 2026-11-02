@@ -4,7 +4,7 @@ seoTitle: "India vs New Zealand 2026: Schedule and Times"
 description: "The fifth Twenty20 International (T20I) was Nov. 1 at 2 a.m. Eastern Time (ET); the first One Day International (ODI) starts Tue., Nov. 3 at 9 p.m. ET."
 type: news
 publishedAt: "2026-11-01T02:47:00-05:00"
-authors: [jordan-bennett]
+authors: [jessica-hartwell]
 category: sports
 keywords: ["india vs new zealand", "ind vs nz", "ind vs nz odi schedule", "india vs new zealand time", "ind vs nz test series 2026"]
 dateline: "New York"

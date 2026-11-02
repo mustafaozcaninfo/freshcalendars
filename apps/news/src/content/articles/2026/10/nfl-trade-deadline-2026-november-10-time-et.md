@@ -5,7 +5,7 @@ description: "The National Football League (NFL) trade deadline is Tue., Nov. 10
 type: explainer
 publishedAt: "2026-10-25T23:40:00-04:00"
 updatedAt: "2026-10-29T11:50:00-04:00"
-authors: [jordan-bennett]
+authors: [jessica-hartwell]
 category: sports
 keywords: ["NFL trade deadline 2026", "when is the NFL trade deadline", "NFL trade deadline time"]
 dateline: "New York"

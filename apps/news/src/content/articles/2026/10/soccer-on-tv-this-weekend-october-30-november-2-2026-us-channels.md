@@ -4,7 +4,7 @@ seoTitle: "Soccer on TV This Weekend: Oct. 30-Nov. 2, 2026"
 description: "European soccer on TV this weekend in Eastern Time (ET): Bayern vs. Dortmund, Milan vs. Inter and 46 more games from five leagues, with U.S. channels."
 type: news
 publishedAt: "2026-10-30T05:30:00-04:00"
-authors: [jordan-bennett]
+authors: [jessica-hartwell]
 category: sports
 keywords: ["soccer on TV this weekend", "european soccer schedule this weekend", "bayern vs dortmund time", "milan vs inter time", "how to watch la liga serie a bundesliga in the us"]
 assets:

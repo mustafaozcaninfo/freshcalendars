@@ -4,7 +4,7 @@ seoTitle: "Avengers: Doomsday Release Date: Dec. 18, 2026"
 description: "Avengers: Doomsday opens in theaters Fri., Dec. 18, 2026, says Disney. A Motion Picture Association (MPA) blog post reported a 2-hour-45-minute runtime."
 type: explainer
 publishedAt: "2026-11-01T04:55:00-05:00"
-authors: [jordan-bennett]
+authors: [jessica-hartwell]
 category: entertainment
 keywords: ["avengers doomsday release date", "avengers doomsday tickets", "avengers doomsday runtime", "how many days until avengers doomsday"]
 assets:

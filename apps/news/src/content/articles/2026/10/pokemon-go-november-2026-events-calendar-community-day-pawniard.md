@@ -4,7 +4,7 @@ seoTitle: "Pokémon GO Events November 2026: Dates and Times"
 description: "Pokémon GO's November 2026 Community Day features Pawniard on Sat., Nov. 21, 2 to 5 p.m. local time; Halloween Part II runs Nov. 1 to Nov. 5."
 type: explainer
 publishedAt: "2026-10-28T19:43:00-04:00"
-authors: [jordan-bennett]
+authors: [jessica-hartwell]
 category: gaming-tech
 keywords: ["pokemon go events november 2026", "pokemon go community day november 2026", "pawniard community day", "pokemon go halloween 2026 part 2", "pokemon go wild area global 2026"]
 assets:

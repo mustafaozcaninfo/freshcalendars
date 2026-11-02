@@ -4,7 +4,7 @@ seoTitle: "Native American Heritage Month 2026: Theme and Events"
 description: "Native American Heritage Month 2026 runs Nov. 1 to 30. The Bureau of Indian Affairs (BIA) has posted no 2026 theme; its latest is 2024. Events and books."
 type: explainer
 publishedAt: "2026-11-01T05:40:00-05:00"
-authors: [alex-morgan]
+authors: [christina-gerland]
 category: holidays
 keywords: ["native american heritage month 2026", "native american heritage month 2026 theme", "native american heritage month activities for students", "native american heritage month books for kids", "native american heritage month printable"]
 assets:

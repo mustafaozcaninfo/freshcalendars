@@ -4,7 +4,7 @@ seoTitle: "Next Friday the 13th: Nov. 13, 2026, Then Aug. 2027"
 description: "The next Friday the 13th is Nov. 13, 2026, the third of 2026. The one after is Aug. 13, 2027, 273 days later. Every date to 2035 and a printable list."
 type: explainer
 publishedAt: "2026-10-27T19:40:00-04:00"
-authors: [jordan-bennett]
+authors: [jessica-hartwell]
 category: calendar-guides
 keywords: ["next friday the 13th", "friday the 13th november 2026", "when is the next friday the 13th", "friday the 13th 2027"]
 dateline: "New York"

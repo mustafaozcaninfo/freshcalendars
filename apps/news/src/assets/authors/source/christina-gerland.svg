@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1024" height="1024" viewBox="0 0 1024 1024">
+<defs><filter id="g" x="0" y="0" width="100%" height="100%"><feTurbulence type="fractalNoise" baseFrequency="0.9" numOctaves="2" seed="7"/><feColorMatrix type="saturate" values="0"/><feComponentTransfer><feFuncA type="table" tableValues="0 0.10"/></feComponentTransfer><feComposite in2="SourceGraphic" operator="in"/></filter></defs>
+<rect width="1024" height="1024" fill="#f3ead8"/>
+<circle cx="512" cy="512" r="400" fill="none" stroke="#4f8a8b" stroke-width="10" opacity=".55"/>
+<circle cx="512" cy="512" r="330" fill="none" stroke="#4f8a8b" stroke-width="4" opacity=".4" stroke-dasharray="14 18"/>
+<circle cx="820" cy="230" r="44" fill="#e0a33a" opacity=".85"/>
+<text x="512" y="512" dy=".35em" text-anchor="middle" font-family="Sora, Manrope, Helvetica, Arial, sans-serif" font-weight="700" font-size="300" letter-spacing="8" fill="#1f3352">CG</text>
+<rect width="1024" height="1024" fill="#000" filter="url(#g)"/></svg>

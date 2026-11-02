@@ -4,7 +4,7 @@ seoTitle: "UK School Holidays 2027: Westminster and Leeds Dates"
 description: "Westminster and Leeds set February half term for 15-19 February 2027 but differ at Easter. Council dates for 2026-27 and 2027-28 in the United Kingdom (UK)."
 type: explainer
 publishedAt: "2026-10-31T03:00:00-04:00"
-authors: [emily-carter]
+authors: [aaron-kessler]
 category: school-calendars
 keywords: ["school holidays 2027 uk", "half term february 2027", "easter holidays 2027 school", "school term dates 2027-28", "leeds school holidays 2027"]
 hero:

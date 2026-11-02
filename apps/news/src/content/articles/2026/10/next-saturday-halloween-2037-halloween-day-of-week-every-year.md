@@ -4,7 +4,7 @@ seoTitle: "Next Saturday Halloween: Oct. 31, 2037"
 description: "Oct. 31, 2026 is a Saturday Halloween. The next is Saturday, Oct. 31, 2037, 11 years away. Halloween's weekday for every year to 2050, plus a printable list."
 type: explainer
 publishedAt: "2026-10-31T09:40:00-04:00"
-authors: [jordan-bennett]
+authors: [jessica-hartwell]
 category: calendar-guides
 keywords: ["next saturday halloween", "next halloween on a saturday", "what day is halloween 2027", "next friday halloween", "halloween on a weekend"]
 dateline: "New York"

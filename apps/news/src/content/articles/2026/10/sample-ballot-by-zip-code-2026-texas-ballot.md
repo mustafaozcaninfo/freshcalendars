@@ -5,7 +5,7 @@ description: "Enter your ZIP code to find your official sample ballot in any sta
 type: news
 publishedAt: "2026-10-19T07:50:00-04:00"
 updatedAt: "2026-10-29T03:50:00-04:00"
-authors: [alex-morgan]
+authors: [christina-gerland]
 category: elections
 keywords: ["printable sample ballot by zip code 2026", "sample ballot by zip code", "sample ballot for my zip code", "printable sample ballot 2026", "Texas sample ballot 2026"]
 dateline: "New York"

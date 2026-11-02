@@ -147,6 +147,8 @@ const authors = defineCollection({
       photo: image().optional(),
       sameAs: z.array(z.string().url()).default([]),
       email: z.string().email().optional(),
+      /** Categories this editor owns: every story in them carries this byline (docs/DESK.md). */
+      categories: z.array(reference("categories")).default([]),
       /**
        * Date the publisher confirmed a Person is a real editor who approved this profile. Required for
        * Person authors: the 07-NO-FAKE-EXPERTS audit check only accepts confirmed people.

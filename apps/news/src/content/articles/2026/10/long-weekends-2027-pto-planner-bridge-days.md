@@ -4,7 +4,7 @@ seoTitle: "Long Weekends 2027: 10 PTO Days Into 27 Days Off"
 description: "Using the 2027 federal holidays from the Office of Personnel Management (OPM), 10 paid time off (PTO) days make 27 days off in four blocks. Dates to request."
 type: explainer
 publishedAt: "2026-10-31T00:58:00-04:00"
-authors: [jordan-bennett]
+authors: [jessica-hartwell]
 category: calendar-guides
 keywords: ["long weekends 2027", "maximize pto 2027", "2027 holidays bridge days", "2027 pto planner", "2027 long weekends"]
 hero:

@@ -5,7 +5,7 @@ description: "Most states need mail ballots to arrive by Nov. 3, 2026; about 15 
 type: explainer
 publishedAt: "2026-10-20T10:40:00-04:00"
 updatedAt: "2026-10-28T16:12:00-04:00"
-authors: [alex-morgan]
+authors: [christina-gerland]
 category: elections
 keywords: ["mail ballot deadline 2026", "absentee ballot deadline by state", "postmark deadline ballot", "when is my mail ballot due", "mail in ballot deadline November 2026"]
 dateline: "Washington"

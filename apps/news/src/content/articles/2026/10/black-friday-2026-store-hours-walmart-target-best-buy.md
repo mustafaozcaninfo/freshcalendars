@@ -5,7 +5,7 @@ description: "Black Friday is Nov. 27, 2026. Opening times for Walmart, Target, 
 type: update
 publishedAt: "2026-10-20T17:30:00-04:00"
 updatedAt: "2026-10-26T13:00:00-04:00"
-authors: [jordan-bennett]
+authors: [jessica-hartwell]
 category: retail-dates
 keywords: ["Black Friday 2026 store hours", "what time does Walmart open on Black Friday", "Target Black Friday hours 2026", "Best Buy Black Friday 2026", "stores closed on Thanksgiving 2026"]
 dateline: "New York"

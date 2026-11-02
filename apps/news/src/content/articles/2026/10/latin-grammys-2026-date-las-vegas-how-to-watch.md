@@ -5,7 +5,7 @@ description: "The 27th Latin Grammy Awards air Thursday, Nov. 12, 2026 from Las 
 type: news
 publishedAt: "2026-10-25T17:06:00-04:00"
 updatedAt: "2026-11-01T05:35:00-05:00"
-authors: [jordan-bennett]
+authors: [jessica-hartwell]
 category: entertainment
 keywords: ["Latin Grammys 2026", "Latin Grammy 2026 fecha", "Latin Grammys 2026 date and time", "how to watch Latin Grammys"]
 dateline: "Las Vegas"

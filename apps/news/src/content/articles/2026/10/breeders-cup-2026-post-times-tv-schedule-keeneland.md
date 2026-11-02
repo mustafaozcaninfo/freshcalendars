@@ -5,7 +5,7 @@ description: "The Breeders' Cup Classic 2026 post time is 6:16 p.m. Eastern Time
 type: news
 publishedAt: "2026-10-25T20:19:00-04:00"
 updatedAt: "2026-10-29T15:20:00-04:00"
-authors: [jordan-bennett]
+authors: [jessica-hartwell]
 category: sports
 keywords: ["Breeders' Cup 2026 schedule", "Breeders' Cup Classic 2026 post time", "Breeders' Cup 2026 TV schedule", "Breeders' Cup race times", "Breeders' Cup Keeneland"]
 dateline: "Lexington, Ky."

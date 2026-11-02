@@ -4,7 +4,7 @@ seoTitle: "King's Christmas Message 2026 Time: UK, US, Canada"
 description: "The King's Christmas message has aired at 3 p.m. UK time by tradition, 10 a.m. Eastern Time (ET) on Fri., Dec. 25, 2026. Royal.uk has not yet announced 2026."
 type: explainer
 publishedAt: "2026-10-30T15:50:00-04:00"
-authors: [alex-morgan]
+authors: [christina-gerland]
 category: uk-canada
 keywords: ["king's speech christmas 2026 time", "what time is the king's speech", "king's christmas message time us", "king's christmas message 2026"]
 dateline: "London"

@@ -4,7 +4,7 @@ seoTitle: "College Football Games Today, Oct. 30, 2026: 4 Games"
 description: "College football games today, Fri., Oct. 30, 2026: 4 games from 7 p.m. Eastern Time (ET), with TV channels and times in Central, Mountain and Pacific Time."
 type: news
 publishedAt: "2026-10-30T01:47:00-04:00"
-authors: [jordan-bennett]
+authors: [jessica-hartwell]
 category: sports
 keywords: ["college football games today", "college football schedule Friday October 30 2026", "Baylor vs UCF time channel", "Kent State Sacramento State ESPN2", "Harvard Dartmouth ESPNU"]
 assets:

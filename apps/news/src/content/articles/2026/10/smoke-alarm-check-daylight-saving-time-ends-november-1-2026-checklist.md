@@ -5,7 +5,7 @@ description: "Clocks fell back at 2 a.m. Sunday, Nov. 1, 2026. The U.S. Fire Adm
 type: explainer
 publishedAt: "2026-10-31T18:05:00-04:00"
 updatedAt: "2026-11-01T05:45:00-05:00"
-authors: [jordan-bennett]
+authors: [jessica-hartwell]
 category: time-change
 keywords: ["change smoke alarm batteries daylight saving time 2026", "test smoke alarm when clocks change", "fall back smoke detector checklist", "when to replace smoke alarm 10 years"]
 dateline: "New York"

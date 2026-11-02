@@ -4,7 +4,7 @@ seoTitle: "PSAT Scores Release Date 2026: Nov. 5 and Nov. 12"
 description: "Preliminary SAT (PSAT) and National Merit Scholarship Qualifying Test (NMSQT) scores reach students Oct. 22, Nov. 5 or Nov. 12, 2026, by school submission date."
 type: explainer
 publishedAt: "2026-10-26T02:21:00-04:00"
-authors: [emily-carter]
+authors: [aaron-kessler]
 category: school-calendars
 keywords: ["PSAT scores release date 2026", "when do PSAT scores come out 2026", "PSAT/NMSQT score release", "PSAT Selection Index calculator"]
 dateline: "New York"

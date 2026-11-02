@@ -4,7 +4,7 @@ seoTitle: "Godzilla Minus Zero Release Date: IMAX Nov. 3"
 description: "Godzilla Minus Zero has IMAX Early Access on Tue., Nov. 3, 2026, then opens across North America on Fri., Nov. 6, says the distributor (GKIDS)."
 type: news
 publishedAt: "2026-11-01T01:47:00-04:00"
-authors: [jordan-bennett]
+authors: [jessica-hartwell]
 category: entertainment
 keywords: ["godzilla minus zero release date", "godzilla minus zero imax", "godzilla day november 3", "when does godzilla minus zero come out", "godzilla minus zero uk release"]
 assets:

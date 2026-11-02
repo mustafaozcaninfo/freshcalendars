@@ -5,7 +5,7 @@ description: "Daylight saving time (DST) ended 2 a.m. Sunday, Nov. 1, 2026, the 
 type: explainer
 publishedAt: "2026-10-29T10:08:00-04:00"
 updatedAt: "2026-11-01T05:45:00-05:00"
-authors: [jordan-bennett]
+authors: [jessica-hartwell]
 category: time-change
 keywords: ["daylight saving time halloween", "do clocks change on halloween 2026", "why does daylight saving time end after halloween", "daylight saving time ends november 1 2026 halloween"]
 hero:

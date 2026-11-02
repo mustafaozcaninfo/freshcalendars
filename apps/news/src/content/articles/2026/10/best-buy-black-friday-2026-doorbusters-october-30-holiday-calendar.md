@@ -5,7 +5,7 @@ description: "Best Buy's holiday deals start Friday, Oct. 30, 2026, with DoorBOO
 type: news
 publishedAt: "2026-10-28T21:50:00-04:00"
 updatedAt: "2026-11-01T05:36:00-05:00"
-authors: [jordan-bennett]
+authors: [jessica-hartwell]
 category: retail-dates
 keywords: ["best buy black friday 2026", "best buy doorbusters october 30", "best buy holiday calendar 2026", "best buy return policy holiday 2026", "best buy cyber week 2026"]
 dateline: "New York"

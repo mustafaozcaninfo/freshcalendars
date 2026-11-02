@@ -5,7 +5,7 @@ description: "Canada's Eurovision 2027 vote opened Oct. 27 and closes Nov. 5 at 
 type: news
 publishedAt: "2026-10-27T15:46:00-04:00"
 updatedAt: "2026-11-01T10:27:00-05:00"
-authors: [alex-morgan]
+authors: [christina-gerland]
 category: uk-canada
 keywords: ["canada eurovision vote", "canada's choice eurovision finalists", "how to vote canada eurovision", "eurovision canada 2027"]
 assets:

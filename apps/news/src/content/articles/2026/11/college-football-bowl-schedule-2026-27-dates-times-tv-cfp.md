@@ -4,7 +4,7 @@ seoTitle: "College Football Bowl Schedule 2026-27: Dates, Times, TV"
 description: "College football bowl season 2026-27 runs Dec. 12 to Jan. 25 with 37 bowls and 11 playoff games; every kickoff in Eastern Time (ET) and TV channel, per ESPN."
 type: news
 publishedAt: "2026-11-01T01:20:00-05:00"
-authors: [jordan-bennett]
+authors: [jessica-hartwell]
 category: sports
 keywords: ["bowl schedule 2026-27", "college football bowl games dates times TV", "CFP schedule 2026 first round quarterfinal dates", "college football playoff schedule 2026"]
 assets:

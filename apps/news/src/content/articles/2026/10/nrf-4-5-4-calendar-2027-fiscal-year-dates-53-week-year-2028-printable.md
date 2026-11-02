@@ -4,7 +4,7 @@ seoTitle: "NRF 4-5-4 Calendar 2027: Fiscal Dates and 2028"
 description: "The National Retail Federation (NRF) 4-5-4 calendar sets fiscal 2027 at 52 weeks, Jan. 31, 2027 to Jan. 29, 2028; fiscal 2028 has 53 weeks."
 type: explainer
 publishedAt: "2026-10-29T01:44:00-04:00"
-authors: [jordan-bennett]
+authors: [jessica-hartwell]
 category: calendar-guides
 keywords: ["4-5-4 calendar 2027", "nrf 4-5-4 calendar 2026", "retail fiscal calendar 2027", "53 week year 2028 retail"]
 hero:

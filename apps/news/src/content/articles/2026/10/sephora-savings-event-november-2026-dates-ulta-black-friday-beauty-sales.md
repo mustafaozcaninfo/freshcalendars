@@ -4,7 +4,7 @@ seoTitle: "Sephora Sale November 2026: Dates and Ulta Black Friday"
 description: "Sephora's fall Savings Event is open to Rouge and opens Nov. 3 to Very Important Beauty Insider (VIB) and Insider, through Nov. 9, NBC News Select says."
 type: news
 publishedAt: "2026-10-31T11:55:00-04:00"
-authors: [jordan-bennett]
+authors: [jessica-hartwell]
 category: retail-dates
 keywords: ["Sephora sale November 2026", "Sephora Savings Event 2026 dates", "when is the Sephora sale for VIB", "Ulta Black Friday 2026"]
 hero:

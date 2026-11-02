@@ -5,7 +5,7 @@ description: "The Royal Canadian Legion's National Poppy Campaign runs Oct. 24 t
 type: news
 publishedAt: "2026-10-29T11:45:00-04:00"
 updatedAt: "2026-11-01T10:31:00-05:00"
-authors: [alex-morgan]
+authors: [christina-gerland]
 category: uk-canada
 keywords: ["poppy campaign 2026", "when does the poppy campaign start 2026", "when to wear a poppy canada 2026", "poppy campaign dates canada"]
 dateline: "Ottawa"

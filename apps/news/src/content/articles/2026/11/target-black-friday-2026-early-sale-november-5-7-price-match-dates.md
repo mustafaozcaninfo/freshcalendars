@@ -4,7 +4,7 @@ seoTitle: "Target Black Friday 2026: Early Sale and Price Match"
 description: "Target's Early Black Friday deals run Thu., Nov. 5, to Sat., Nov. 7, 2026. Deal of the Day started Nov. 1, and the Holiday Price Match runs to Dec. 24."
 type: news
 publishedAt: "2026-11-01T06:46:00-05:00"
-authors: [jordan-bennett]
+authors: [jessica-hartwell]
 category: retail-dates
 keywords: ["target black friday 2026", "target early black friday sale 2026", "target price match holiday 2026", "target deal of the day 2026"]
 dateline: "Minneapolis"

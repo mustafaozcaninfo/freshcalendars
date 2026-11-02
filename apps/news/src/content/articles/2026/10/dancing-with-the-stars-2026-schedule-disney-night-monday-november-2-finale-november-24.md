@@ -4,7 +4,7 @@ seoTitle: "Dancing with the Stars Schedule: Disney Night Nov. 2"
 description: "Dancing with the Stars Disney Night airs Mon., Nov. 2, 2026, 8 to 10 p.m. Eastern Time (ET) on ABC. No Tuesday episode Nov. 3; finale reported for Nov. 24."
 type: news
 publishedAt: "2026-10-30T21:48:00-04:00"
-authors: [jordan-bennett]
+authors: [jessica-hartwell]
 category: entertainment
 keywords: ["dancing with the stars schedule", "is dancing with the stars on tonight", "dwts disney night 2026", "dwts finale 2026 date"]
 dateline: "New York"

@@ -5,7 +5,7 @@ description: "Starbucks' 2026 holiday menu returns Thursday, Nov. 5, with Pepper
 type: news
 publishedAt: "2026-10-24T00:50:00-04:00"
 updatedAt: "2026-10-30T01:05:00-04:00"
-authors: [jordan-bennett]
+authors: [jessica-hartwell]
 category: retail-dates
 keywords: ["Starbucks holiday menu 2026", "Starbucks red cup day 2026", "when does Starbucks holiday menu come out 2026", "Starbucks holiday cups 2026"]
 dateline: "New York"

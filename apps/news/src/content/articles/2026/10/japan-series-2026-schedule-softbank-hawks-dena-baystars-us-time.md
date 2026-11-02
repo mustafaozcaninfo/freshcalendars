@@ -5,7 +5,7 @@ description: "SoftBank beat DeNA 4-2 on Oct. 28, 2026, in a game that began 5 a.
 type: news
 publishedAt: "2026-10-28T05:41:00-04:00"
 updatedAt: "2026-10-28T07:45:00-04:00"
-authors: [jordan-bennett]
+authors: [jessica-hartwell]
 category: sports
 keywords: ["Japan Series 2026 schedule", "SoftBank vs DeNA", "Japan Series game times US", "Nippon Series 2026"]
 dateline: "Fukuoka"

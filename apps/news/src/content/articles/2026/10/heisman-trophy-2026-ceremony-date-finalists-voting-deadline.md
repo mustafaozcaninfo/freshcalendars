@@ -4,7 +4,7 @@ seoTitle: "Heisman Trophy 2026 Date: Ballots, Finalists, Ceremony"
 description: "The 2026 Heisman Trophy winner is announced Saturday, Dec. 12, heisman.com says. Ballots are due Monday, Dec. 7, 5 p.m. Eastern Time (ET); finalists follow."
 type: news
 publishedAt: "2026-10-28T18:00:00-04:00"
-authors: [jordan-bennett]
+authors: [jessica-hartwell]
 category: sports
 keywords: ["Heisman Trophy 2026 date", "Heisman ceremony 2026", "Heisman finalists 2026", "Heisman voting deadline"]
 hero:

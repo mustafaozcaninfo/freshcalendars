@@ -5,7 +5,7 @@ description: "Nevada Day was Friday, Oct. 30, 2026, a state holiday under Nevada
 type: explainer
 publishedAt: "2026-10-27T14:03:00-04:00"
 updatedAt: "2026-11-01T02:39:00-05:00"
-authors: [alex-morgan]
+authors: [christina-gerland]
 category: holidays
 keywords: ["Nevada Day 2026", "is Nevada Day a holiday", "Nevada Day what's closed", "Nevada Day early voting"]
 dateline: "Carson City"

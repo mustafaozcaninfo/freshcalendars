@@ -25,6 +25,9 @@ export interface AuthorSeo {
   role?: string;
   image?: ImageVariant;
   sameAs: string[];
+  email?: string;
+  /** Names of the categories a Person editor covers (schema.org knowsAbout). */
+  knowsAbout?: string[];
 }
 
 export interface ArticleSeo {
@@ -166,6 +169,8 @@ function authorNode(au: AuthorSeo): Record<string, unknown> {
     node.image = { "@type": "ImageObject", url: au.image.url, width: au.image.width, height: au.image.height };
   }
   if (au.sameAs.length) node.sameAs = au.sameAs;
+  if (au.email) node.email = au.email;
+  if (au.knowsAbout?.length) node.knowsAbout = au.knowsAbout;
   return node;
 }
 

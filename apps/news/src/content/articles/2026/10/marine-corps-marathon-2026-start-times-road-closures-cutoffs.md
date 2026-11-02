@@ -5,7 +5,7 @@ description: "The 51st Marine Corps Marathon is Sunday, Oct. 25, 2026. All runne
 type: news
 publishedAt: "2026-10-25T02:50:00-04:00"
 updatedAt: "2026-10-25T17:35:00-04:00"
-authors: [jordan-bennett]
+authors: [jessica-hartwell]
 category: sports
 keywords: ["Marine Corps Marathon 2026", "Marine Corps Marathon road closures", "Marine Corps Marathon start time", "beat the bridge time"]
 dateline: "Arlington, Va."
