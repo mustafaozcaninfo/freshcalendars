@@ -1,16 +1,17 @@
 ---
-title: "Northern Lights UK Tonight, Nov. 1, 2026: Met Office Aurora Chance in Scotland"
-seoTitle: "Northern Lights UK Tonight: Met Office Scotland Forecast"
-description: "Tonight, Sunday 1 November 2026, the Met Office gives a chance of aurora over northern Scotland; darkness falls about 18:35 to 18:50 Greenwich Mean Time (GMT)."
+title: "Northern Lights UK on Nov. 1, 2026: Met Office Aurora Chance in Scotland"
+seoTitle: "Northern Lights UK Nov. 1: Met Office Scotland Forecast"
+description: "On Sunday 1 November 2026 the Met Office gave a chance of aurora over northern Scotland; darkness fell about 18:32 to 18:50 Greenwich Mean Time (GMT)."
 type: news
 publishedAt: "2026-11-01T12:42:00-05:00"
+updatedAt: "2026-11-02T14:10:00-05:00"
 authors: [jessica-hartwell]
 category: sky-events
 keywords: ["northern lights uk tonight", "aurora borealis uk", "northern lights scotland tonight", "met office aurora forecast"]
 hero:
   src: ../../../../assets/news/northern-lights-uk-tonight-november-1-2026-met-office-aurora-scotland/northern-lights-uk-tonight-november-1-2026-met-office-aurora-scotland.webp
-  alt: "Northern lights UK tonight: green aurora over a dark northern horizon, the kind of sky the Met Office says is possible over Scotland on 1 November 2026"
-  caption: "The Met Office gives a chance of aurora sightings over northern Scotland tonight, Sunday 1 November 2026, where skies are clear. File photo of an aurora over Scotland by Ronnie Robertson."
+  alt: "Northern lights UK: green aurora over a dark northern horizon, the kind of sky the Met Office said was possible over Scotland on 1 November 2026"
+  caption: "The Met Office gave a chance of aurora sightings over northern Scotland on Sunday 1 November 2026, where skies were clear. File photo of an aurora over Scotland by Ronnie Robertson."
   credit: "Photo: Ronnie Robertson / Wikimedia Commons, cropped, edited"
   license:
     name: "CC BY-SA 2.0"
@@ -19,19 +20,19 @@ hero:
     author: "Ronnie Robertson"
     authorUrl: "https://www.flickr.com/people/16633132@N04"
 summary:
-  - "The Met Office space weather forecast, issued at 14:42 Greenwich Mean Time (GMT) on Sunday 1 November 2026, gives a chance of aurora sightings during the hours of darkness across northern Scotland, where skies are clear."
-  - "Astronomical darkness tonight begins at 18:32 GMT in Lerwick and 18:44 GMT in Inverness, our calculation from the NOAA solar position method."
-  - "NOAA's 3-day forecast puts the evening blocks of tonight at Kp 2.67, below the G1 (Minor) period that ended at 03:00 UTC on 1 November."
-  - "The Met Office expects auroral activity to fall toward background levels from Monday night onwards."
+  - "The Met Office space weather forecast, issued at 14:42 Greenwich Mean Time (GMT) on Sunday 1 November 2026, gave a chance of aurora sightings during the hours of darkness across northern Scotland, where skies were clear."
+  - "Astronomical darkness on 1 November began at 18:32 GMT in Lerwick and 18:44 GMT in Inverness, our calculation from the NOAA solar position method."
+  - "NOAA's 3-day forecast put the evening blocks of 1 November at Kp 2.67, below the G1 (Minor) period that ended at 03:00 UTC on 1 November."
+  - "The Met Office expected auroral activity to fall toward background levels from Monday night onwards."
 faq:
-  - q: "Can I see the northern lights in England or Wales tonight?"
-    a: "The Met Office forecast names northern Scotland only. It does not give a chance of sightings elsewhere in the UK for tonight."
-  - q: "What time should I look tonight?"
-    a: "The Met Office says during the hours of darkness on Sunday. Astronomical darkness starts between 18:32 and 18:50 GMT in the cities in our table. NOAA's evening numbers are lower than its overnight G1 period, so the window can be short."
-  - q: "Why is activity fading after tonight?"
-    a: "The Met Office and NOAA both tie the activity to a coronal hole high speed stream, a fast flow of solar wind. The Met Office expects solar wind to return to background levels by 3 to 4 November and reports no Earth-directed coronal mass ejections."
-  - q: "Does the Moon get in the way?"
-    a: "Tonight's Moon is at last quarter at 20:28 GMT, according to the U.S. Naval Observatory. A half-lit Moon rises late in the evening, so the early dark hours are moon-free."
+  - q: "Could you see the northern lights in England or Wales on 1 November?"
+    a: "The Met Office forecast named northern Scotland only. It did not give a chance of sightings elsewhere in the UK for 1 November."
+  - q: "What time was the best window on 1 November?"
+    a: "The Met Office said during the hours of darkness on Sunday. Astronomical darkness started between 18:32 and 18:50 GMT in the cities in our table. NOAA's evening numbers were lower than its overnight G1 period, so the window could be short."
+  - q: "Why was activity expected to fade after 1 November?"
+    a: "The Met Office and NOAA both tied the activity to a coronal hole high speed stream, a fast flow of solar wind. The Met Office expected solar wind to return to background levels by 3 to 4 November and reported no Earth-directed coronal mass ejections."
+  - q: "Did the Moon get in the way?"
+    a: "The Moon was at last quarter at 20:28 GMT on 1 November, according to the U.S. Naval Observatory. A half-lit Moon rises late in the evening, so the early dark hours were moon-free."
 downloads:
   - group: "UK Aurora Watch printables"
     title: "UK Aurora Watch, 1-3 November 2026"
@@ -72,7 +73,7 @@ assets:
   overlay: true
   kicker: "Northern lights UK · Sun., Nov. 1"
   date: "2026-11-01"
-  card: { top: "Met Office: aurora chance tonight", big: "Scotland", bottom: "Where skies are clear" }
+  card: { top: "Met Office: aurora chance, Nov. 1", big: "Scotland", bottom: "Where skies are clear" }
   printable:
     slug: uk-aurora-watch-1-3-november-2026
     group: uk-aurora-2026
@@ -98,15 +99,15 @@ assets:
 draft: false
 ---
 
-**Tonight, Sunday 1 November 2026, from full darkness around 6:30 to 6:50 p.m. Greenwich Mean Time (GMT) in Scotland, the Met Office gives a chance of aurora sightings across northern Scotland where skies are clear.** The forecast, issued at 14:42 GMT, says a solar wind enhancement arrived on Saturday 31 October and increased auroral activity. Below are darkness times for eight UK cities, the National Oceanic and Atmospheric Administration (NOAA) numbers for the evening, and when activity is expected to fade.
+**On Sunday 1 November 2026, from full darkness around 6:30 to 6:50 p.m. Greenwich Mean Time (GMT) in Scotland, the Met Office gave a chance of aurora sightings across northern Scotland where skies were clear.** The forecast, issued at 14:42 GMT, said a solar wind enhancement arrived on Saturday 31 October and increased auroral activity. Below are darkness times for eight UK cities, the National Oceanic and Atmospheric Administration (NOAA) numbers for the evening, and when activity was expected to fade.
 
-## What does the Met Office say about aurora tonight?
+## What did the Met Office say about aurora on 1 November?
 
-The Met Office Space Weather page, the UK's official forecast, reads: "A chance of Aurora sightings during the hours of darkness on Sunday across northern Scotland, where skies are clear. Monday night onwards auroral activity is expected to reduce towards background levels." It names northern Scotland and no other part of the UK.
+The Met Office Space Weather page, the UK's official forecast, read: "A chance of Aurora sightings during the hours of darkness on Sunday across northern Scotland, where skies are clear. Monday night onwards auroral activity is expected to reduce towards background levels." It named northern Scotland and no other part of the UK.
 
-Its overview, issued at 12:54 GMT, headlines a continued chance of G1/Minor geomagnetic storms on Day 1 (1 November) with elevated solar winds. In the past 24 hours it recorded a G2/Moderate storm (Kp6) interval between 18:00 and 21:00 UTC on 31 October and a G1/Minor storm (Kp5) from 00:00 to 03:00 on 1 November. Solar wind peaked briefly above 600 km/s and is now near 500 km/s. The source is a coronal hole high speed stream, and the Met Office lists no Earth-directed coronal mass ejections (CMEs).
+Its overview, issued at 12:54 GMT, headlined a continued chance of G1/Minor geomagnetic storms on Day 1 (1 November) with elevated solar winds. In the past 24 hours it recorded a G2/Moderate storm (Kp6) interval between 18:00 and 21:00 UTC on 31 October and a G1/Minor storm (Kp5) from 00:00 to 03:00 on 1 November. Solar wind peaked briefly above 600 km/s and was then near 500 km/s. The source was a coronal hole high speed stream, and the Met Office listed no Earth-directed coronal mass ejections (CMEs).
 
-## When does it get dark in Scotland and northern England tonight?
+## When did it get dark in Scotland and northern England on 1 November?
 
 Aurora needs a dark sky, so the start of astronomical darkness is the earliest useful time. Times are Greenwich Mean Time, which equals Coordinated Universal Time (UTC) in November, computed by Fresh Calendars from the NOAA solar calculation.
 
@@ -134,13 +135,13 @@ Monday night, 2 November, is a few minutes different:
 | Belfast | 16:46 | 18:49 | 05:27 |
 | Newcastle | 16:28 | 18:31 | 05:10 |
 
-Newcastle and Belfast are listed for planning only. The Met Office forecast for tonight names northern Scotland.
+Newcastle and Belfast are listed for planning only. The Met Office forecast for 1 November named northern Scotland.
 
-## What do NOAA's numbers show for tonight in the UK?
+## What did NOAA's numbers show for 1 November in the UK?
 
-NOAA's Space Weather Prediction Center (SWPC) issued its 3-day forecast at 12:30 UTC on 1 November. The greatest observed 3-hour planetary K-index (Kp) over the past 24 hours was 6, NOAA Scale G2. The greatest expected Kp for 1 to 3 November is 4.67 (G1), and SWPC says periods of G1 (Minor) storming are likely on 1 November because of positive polarity coronal hole high speed stream influences.
+NOAA's Space Weather Prediction Center (SWPC) issued its 3-day forecast at 12:30 UTC on 1 November. The greatest observed 3-hour planetary K-index (Kp) over the past 24 hours was 6, NOAA Scale G2. The greatest expected Kp for 1 to 3 November is 4.67 (G1), and SWPC said periods of G1 (Minor) storming were likely on 1 November because of positive polarity coronal hole high speed stream influences.
 
-That G1 period is the 00:00 to 03:00 UTC block on 1 November, which has already ended. The numbers for tonight are lower, so the window can be short and the best chance is the far north of Scotland. SWPC's blocks in GMT:
+That G1 period was the 00:00 to 03:00 UTC block on 1 November, which had ended before darkness fell. The evening numbers were lower, so the window could be short and the best chance was the far north of Scotland. SWPC's blocks in GMT:
 
 | Date | UTC block (same as GMT) | Forecast Kp |
 |---|---|---|
@@ -152,15 +153,15 @@ That G1 period is the 00:00 to 03:00 UTC block on 1 November, which has already 
 | Tue. 3 Nov | 18:00-21:00 | 1.67 |
 | Tue. 3 Nov | 21:00-00:00 | 1.33 |
 
-Source: SWPC 3-Day Forecast issued 1 November 2026, 12:30 UTC. Forecasts change, so check the Met Office page again before you go out. Neither agency promises a sighting.
+Source: SWPC 3-Day Forecast issued 1 November 2026, 12:30 UTC. Forecasts change, so check the Met Office page for the current outlook. Neither agency promised a sighting.
 
-## When does aurora activity fade after tonight?
+## When was aurora activity expected to fade after 1 November?
 
-The Met Office four-day outlook expects ongoing Unsettled to Active conditions (Kp3-4) at first, with a chance of occasional G1/Minor storms (Kp5) and a slight chance of an isolated G2/Moderate (Kp6) interval. By Day 2 (2 November) it expects activity to decline to Quiet to Unsettled (Kp2-3), then mostly Quiet (Kp1-2) by the end of the period. Solar wind returns to background by 3 to 4 November. The Met Office also says that, in the Southern Hemisphere, aurora sightings are likely across the far south of New Zealand on Sunday night UTC.
+The Met Office four-day outlook expected ongoing Unsettled to Active conditions (Kp3-4) at first, with a chance of occasional G1/Minor storms (Kp5) and a slight chance of an isolated G2/Moderate (Kp6) interval. By Day 2 (2 November) it expected activity to decline to Quiet to Unsettled (Kp2-3), then mostly Quiet (Kp1-2) by the end of the period. Solar wind was expected to return to background by 3 to 4 November. The Met Office also said that, in the Southern Hemisphere, aurora sightings were likely across the far south of New Zealand on Sunday night UTC.
 
 ## How will the Moon affect the view?
 
-The Moon reaches last quarter at 3:28 p.m. Eastern Standard Time (EST) on 1 November, which is 20:28 GMT, according to the U.S. Naval Observatory (USNO). A half-lit Moon rises late in the evening, so the early dark hours are moon-free. For the rest of the month, see our [night sky calendar for planets and the Moon](/news/planets-visible-november-2026-night-sky-calendar-moon-venus-uranus-opposition/).
+The Moon reached last quarter at 3:28 p.m. Eastern Standard Time (EST) on 1 November, which is 20:28 GMT, according to the U.S. Naval Observatory (USNO). A half-lit Moon rises late in the evening, so the early dark hours were moon-free. For the rest of the month, see our [night sky calendar for planets and the Moon](/news/planets-visible-november-2026-night-sky-calendar-moon-venus-uranus-opposition/).
 
 ## Where can you keep the aurora dates?
 

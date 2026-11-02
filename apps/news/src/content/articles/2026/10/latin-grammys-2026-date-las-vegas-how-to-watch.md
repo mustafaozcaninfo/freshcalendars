@@ -4,7 +4,7 @@ seoTitle: "Latin Grammys 2026 Date, Venue and How to Watch"
 description: "The 27th Latin Grammy Awards air Thursday, Nov. 12, 2026 from Las Vegas at 8 p.m. Eastern Standard Time (EST) on Univision, the Latin Recording Academy says."
 type: news
 publishedAt: "2026-10-25T17:06:00-04:00"
-updatedAt: "2026-11-01T05:35:00-05:00"
+updatedAt: "2026-11-02T14:10:00-05:00"
 authors: [jessica-hartwell]
 category: entertainment
 keywords: ["Latin Grammys 2026", "Latin Grammy 2026 fecha", "Latin Grammys 2026 date and time", "how to watch Latin Grammys"]
@@ -89,7 +89,7 @@ downloads:
 draft: false
 ---
 
-<p class="callout"><b>Last updated Tue. Oct. 27, 2026, 3:30 a.m. ET.</b> The Latin Recording Academy's Oct. 20 press release confirms the venue, the Univision broadcast and the start time: 8 p.m. Eastern Standard Time (EST) on Thursday, Nov. 12. The Latin Grammy Premiere time is still to be announced.</p>
+<p class="callout"><b>Last updated Mon. Nov. 2, 2026, 2:10 p.m. ET.</b> The Latin Recording Academy's Oct. 20 press release confirms the venue, the Univision broadcast and the start time: 8 p.m. Eastern Standard Time (EST) on Thursday, Nov. 12. The Latin Grammy Premiere time is still to be announced.</p>
 
 **The 27th Annual Latin Grammy Awards air live from the Metro-Goldwyn-Mayer (MGM) Grand Garden Arena in Las Vegas on Thursday, Nov. 12, 2026, beginning at 8 p.m. Eastern Standard Time (EST) on Univision, the Latin Recording Academy says.** The three-hour telecast follows a one-hour pre-show at 7 p.m. EST. Roselyn Sánchez returns as host for the tenth time.
 

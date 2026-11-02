@@ -4,7 +4,7 @@ seoTitle: "Weekends Until Christmas 2026: 7 Full Weekends"
 description: "Seven full weekends fall before Christmas Day, Fri., Dec. 25, 2026. See what is due and what falls on each, with U.S. Postal Service (USPS) send-by dates."
 type: explainer
 publishedAt: "2026-10-31T17:55:00-04:00"
-updatedAt: "2026-11-01T02:44:00-05:00"
+updatedAt: "2026-11-02T14:10:00-05:00"
 authors: [jessica-hartwell]
 category: calendar-guides
 keywords: ["how many weekends until christmas 2026", "saturdays until christmas 2026", "weekends left before christmas", "christmas shopping weekends 2026"]
@@ -37,12 +37,12 @@ assets:
     alt: "Weekends planner printable for Christmas 2026 listing seven weekends, USPS deadlines and Christmas Day on Dec. 25"
 summary:
   - "From Saturday, Nov. 7 to Sunday, Dec. 20, 2026, there are 7 full weekends before Christmas Day on Friday, Dec. 25."
-  - "This weekend, Oct. 31 to Nov. 1, is not counted; it is also the last weekend before the Wednesday, Nov. 4 military Ground Advantage send-by date from the U.S. Postal Service (USPS)."
+  - "The weekend of Oct. 31 to Nov. 1 has passed and is not counted; it was the last weekend before the Wednesday, Nov. 4 military Ground Advantage send-by date from the U.S. Postal Service (USPS)."
   - "The last full weekend before the USPS Ground Advantage and Priority Mail send-by dates (Thursday, Dec. 17 and Friday, Dec. 18) is Dec. 12-13."
   - "A free one-page planner lists each weekend with its dated events, plus Christmas Day, with an ink-saver version."
 faq:
   - q: "How many weekends are left until Christmas 2026?"
-    a: "Seven full weekends, counting Saturday, Nov. 7 and Sunday, Nov. 8 through Saturday, Dec. 19 and Sunday, Dec. 20. This weekend, Oct. 31 to Nov. 1, is not counted. Thursday, Dec. 24 to Sunday, Dec. 27 is a partial weekend around Christmas Day on Friday, Dec. 25."
+    a: "Seven full weekends, counting Saturday, Nov. 7 and Sunday, Nov. 8 through Saturday, Dec. 19 and Sunday, Dec. 20. The weekend of Oct. 31 to Nov. 1 has passed and is not counted. Thursday, Dec. 24 to Sunday, Dec. 27 is a partial weekend around Christmas Day on Friday, Dec. 25."
   - q: "How many Saturdays are there until Christmas 2026?"
     a: "Seven Saturdays fall from Nov. 7 through Dec. 19, and Dec. 19 is the last one before Christmas Day on Friday, Dec. 25."
   - q: "What is the last weekend to mail Christmas gifts by USPS?"

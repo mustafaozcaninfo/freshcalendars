@@ -1,9 +1,10 @@
 ---
-title: "Hello Kitty's Birthday 2026 Is Sunday, Nov. 1: Sanrio Facts, Ranking and Dates to 2030"
+title: "Hello Kitty's Birthday 2026 Was Sunday, Nov. 1: Sanrio Facts, Ranking and Dates to 2030"
 seoTitle: "Hello Kitty Birthday 2026: Sunday, Nov. 1, Sanrio Facts"
-description: "Hello Kitty's birthday is Sunday, Nov. 1, 2026, per Sanrio. She was designed in 1974, 52 years ago, and placed fifth in Sanrio's 2026 character ranking."
+description: "Hello Kitty's birthday was Sunday, Nov. 1, 2026, per Sanrio. She was designed in 1974, 52 years ago, and placed fifth in Sanrio's 2026 character ranking."
 type: explainer
 publishedAt: "2026-10-31T17:45:00-04:00"
+updatedAt: "2026-11-02T14:10:00-05:00"
 authors: [christina-gerland]
 category: holidays
 keywords: ["Hello Kitty birthday 2026", "Hello Kitty Day November 1", "how old is Hello Kitty", "when is Hello Kitty's birthday"]
@@ -35,7 +36,7 @@ assets:
 hero:
   src: ../../../../assets/news/hello-kitty-birthday-2026-sunday-november-1-sanrio-facts/hello-kitty-birthday-2026-sunday-november-1-sanrio-facts.webp
   alt: "Red apples carved into a cat face on a plate, for Hello Kitty's birthday 2026 on Nov. 1"
-  caption: "File photo of apples carved into a cat face. Sanrio says Hello Kitty stands five apples high; her birthday is Sunday, Nov. 1, 2026."
+  caption: "File photo of apples carved into a cat face. Sanrio says Hello Kitty stands five apples high; her birthday was Sunday, Nov. 1, 2026."
   credit: "Photo: Микола Василечко / Wikimedia Commons, cropped, edited"
   license:
     name: "CC BY-SA 4.0"
@@ -61,7 +62,7 @@ downloads:
     png: "/news/downloads/hello-kitty-birthday-2026/hello-kitty-birthday-2026-party-checklist-ink.png"
     pages: 1
 summary:
-  - "Hello Kitty's birthday is Sunday, Nov. 1, 2026, according to Sanrio Company, Ltd.'s corporate brand page."
+  - "Hello Kitty's birthday was Sunday, Nov. 1, 2026, according to Sanrio Company, Ltd.'s corporate brand page."
   - "Sanrio says she was designed in 1974, which is 52 years before 2026; it gives no birth year, so this is years since the design, not an age."
   - "In Sanrio's 2026 character ranking, announced June 28, 2026, Hello Kitty placed fifth, behind Pompompurin, Cinnamoroll, Pochacco and Kuromi."
   - "Sanrio had not posted 2026 birthday plans on its corporate news page as of Oct. 31, 2026 (not yet announced)."
@@ -91,7 +92,7 @@ related: [national-cat-day-2026-thursday-october-29, november-2026-important-dat
 draft: false
 ---
 
-**Hello Kitty's birthday is Sunday, Nov. 1, 2026, according to Sanrio's corporate brand page.** The page, checked on Oct. 31, 2026, lists the birthday as "November 1st" and says "She was designed in 1974."
+**Hello Kitty's birthday was Sunday, Nov. 1, 2026, according to Sanrio's corporate brand page.** The page, checked on Oct. 31, 2026, lists the birthday as "November 1st" and says "She was designed in 1974."
 
 ## How old is Hello Kitty in 2026?
 
@@ -136,4 +137,4 @@ Sanrio announced the final results of its 2026 character ranking on June 28, 202
 
 The free printable checklist groups plain party tasks under Decorate, Play, Treats and Kindness, using the brand-page facts above and the kindness theme from Sanrio's 2021 post. It names the brand in text only and uses no Sanrio art.
 
-Circle Nov. 1 on the [November 2026 printable calendar](/november-calendars.html) and add the party to a [printable weekly calendar](/printable-weekly-calendar.html). For more dates in the month, see [November 2026 important dates](/news/november-2026-important-dates-days-until/). Another animal-themed date from this week is covered in our [National Cat Day 2026 story](/news/national-cat-day-2026-thursday-october-29/), and the kindness theme returns on [World Kindness Day](/news/world-kindness-day-2026-friday-november-13-kindness-dates-printable/).
+Next year's date, Monday, Nov. 1, 2027, is in the weekday table above. Use the [November 2026 printable calendar](/november-calendars.html) for the rest of this month and a [printable weekly calendar](/printable-weekly-calendar.html) for plans. For more dates in the month, see [November 2026 important dates](/news/november-2026-important-dates-days-until/). Another animal-themed date from last week is covered in our [National Cat Day 2026 story](/news/national-cat-day-2026-thursday-october-29/), and the kindness theme returns on [World Kindness Day](/news/world-kindness-day-2026-friday-november-13-kindness-dates-printable/).

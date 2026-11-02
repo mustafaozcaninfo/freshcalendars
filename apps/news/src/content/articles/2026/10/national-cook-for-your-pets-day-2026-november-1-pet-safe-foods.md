@@ -1,9 +1,10 @@
 ---
-title: "National Cook for Your Pets Day 2026 Is Sunday, Nov. 1: Foods to Keep Away From Pets"
+title: "National Cook for Your Pets Day 2026 Was Sunday, Nov. 1: Foods to Keep Away From Pets"
 seoTitle: "Cook for Your Pets Day 2026: Foods to Avoid"
-description: "National Cook for Your Pets Day is Sunday, Nov. 1, 2026. Foods the American Society for the Prevention of Cruelty to Animals (ASPCA) says to avoid."
+description: "National Cook for Your Pets Day was Sunday, Nov. 1, 2026. Foods the American Society for the Prevention of Cruelty to Animals (ASPCA) says to avoid."
 type: explainer
 publishedAt: "2026-10-31T16:47:00-04:00"
+updatedAt: "2026-11-02T14:10:00-05:00"
 authors: [christina-gerland]
 category: holidays
 keywords: ["national cook for your pets day 2026", "foods dogs cannot eat", "foods toxic to pets", "aspca poison control number"]
@@ -40,7 +41,7 @@ assets:
 hero:
   src: ../../../../assets/news/national-cook-for-your-pets-day-2026-november-1-pet-safe-foods/national-cook-for-your-pets-day-2026-november-1-pet-safe-foods.webp
   alt: "A dog bowl, file photo for National Cook for Your Pets Day 2026 on Sunday, Nov. 1"
-  caption: "File photo of a dog bowl. National Cook for Your Pets Day is Sunday, Nov. 1, 2026; the ASPCA lists foods pets should not be fed."
+  caption: "File photo of a dog bowl. National Cook for Your Pets Day was Sunday, Nov. 1, 2026; the ASPCA lists foods pets should not be fed."
   credit: "Photo: cogdogblog / Wikimedia Commons, cropped, edited"
   license:
     name: "CC0"
@@ -66,13 +67,13 @@ downloads:
     png: "/news/downloads/national-cook-for-your-pets-day-2026/national-cook-for-your-pets-day-2026-kitchen-checklist-ink.png"
     pages: 1
 summary:
-  - "National Cook for Your Pets Day is Sunday, Nov. 1, 2026, an informal observance with no confirmed founder."
+  - "National Cook for Your Pets Day was Sunday, Nov. 1, 2026, an informal observance with no confirmed founder."
   - "The ASPCA lists foods to keep away from pets, including chocolate, grapes and raisins, onions, garlic, xylitol and raw dough."
   - "The CDC says to talk to a veterinarian or veterinary nutritionist if homemade pet food is the main diet, and does not recommend raw pet food for dogs and cats."
   - "The ASPCA Animal Poison Control Center is open 24 hours a day, 365 days a year, at (888) 426-4435; a consultation fee may apply."
 faq:
   - q: "When is National Cook for Your Pets Day in 2026?"
-    a: "Sunday, Nov. 1, 2026. We found no confirmed founder, so we do not name one."
+    a: "Sunday, Nov. 1, 2026, which has passed. We found no confirmed founder, so we do not name one."
   - q: "What is the ASPCA poison control number?"
     a: "(888) 426-4435. The ASPCA says the Animal Poison Control Center is available 24 hours a day, 365 days a year, and a consultation fee may apply."
   - q: "Is homemade pet food a complete diet?"
@@ -100,7 +101,7 @@ related: [national-cat-day-2026-thursday-october-29, national-black-cat-day-2026
 draft: false
 ---
 
-National Cook for Your Pets Day is Sunday, Nov. 1, 2026, an informal observance with no confirmed founder, and the safest way to mark it starts with what to leave out of the bowl. The American Society for the Prevention of Cruelty to Animals (ASPCA) lists the people foods it says to avoid feeding pets, and the Centers for Disease Control and Prevention (CDC) gives handling rules. This story puts the ASPCA list in one table and adds a free kitchen checklist with the ASPCA poison line.
+National Cook for Your Pets Day was Sunday, Nov. 1, 2026, an informal observance with no confirmed founder, and the safest way to mark it starts with what to leave out of the bowl. The American Society for the Prevention of Cruelty to Animals (ASPCA) lists the people foods it says to avoid feeding pets, and the Centers for Disease Control and Prevention (CDC) gives handling rules. This story puts the ASPCA list in one table and adds a free kitchen checklist with the ASPCA poison line.
 
 ## Where does National Cook for Your Pets Day come from?
 
@@ -139,6 +140,6 @@ The ASPCA Animal Poison Control Center takes calls at (888) 426-4435, 24 hours a
 
 The one-page checklist groups the foods above, the CDC hand-washing and veterinarian steps, and the poison line. Print the colour version or the ink saver copy and put it on the fridge, beside the [printable weekly calendar](/printable-weekly-calendar.html) with vet visits. The [November 2026 printable calendar](/november-calendars.html) is a place to mark them.
 
-For another pet date this season, see our [National Cat Day 2026 story](/news/national-cat-day-2026-thursday-october-29/), which uses ASPCA shelter and plant data.
+For another pet date from late October, see our [National Cat Day 2026 story](/news/national-cat-day-2026-thursday-october-29/), which uses ASPCA shelter and plant data.
 
 What we left out: an origin for the day, any recipe, and portion sizes, none of which our sources give.

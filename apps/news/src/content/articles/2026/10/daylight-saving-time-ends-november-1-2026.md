@@ -4,7 +4,7 @@ seoTitle: "Daylight Saving Time Ends Nov. 1, 2026: Fall Back Guide"
 description: "Clocks fell back one hour at 2 a.m. on Sunday, Nov. 1, 2026. The House voted for permanent DST in July; the Senate has not acted. What changed and what is next."
 type: news
 publishedAt: "2026-10-17T16:00:00-04:00"
-updatedAt: "2026-11-01T05:45:00-05:00"
+updatedAt: "2026-11-02T14:10:00-05:00"
 authors: [jessica-hartwell]
 category: time-change
 keywords: ["daylight saving time ends 2026", "fall back November 1 2026", "Sunshine Protection Act 2026", "permanent daylight saving time", "clocks change 2026"]
@@ -76,7 +76,7 @@ draft: false
 related: [smoke-alarm-check-daylight-saving-time-ends-november-1-2026-checklist, daylight-saving-time-halloween-2026-clocks-fall-back-night-after-every-year, clock-changes-2027-when-does-daylight-saving-time-start-again-march-14]
 ---
 
-<p class="callout"><b>Clocks fell back today.</b> At 2 a.m. local time on Sunday, Nov. 1, 2026, clocks went back one hour to 1 a.m. Phones and other connected devices changed on their own; set ovens, car clocks and wall clocks back by hand. The Sunshine Protection Act passed the House on July 14 and has had no Senate vote, so the change went ahead.</p>
+<p class="callout"><b>Clocks fell back on Sunday, Nov. 1.</b> At 2 a.m. local time that day, clocks went back one hour to 1 a.m. Phones and other connected devices changed on their own; set ovens, car clocks and wall clocks back by hand. The Sunshine Protection Act passed the House on July 14 and has had no Senate vote, so the change went ahead.</p>
 
 Daylight saving time ended at **2:00 a.m. local time on Sunday, Nov. 1, 2026**, when clocks in most of the United States moved back one hour to 1:00 a.m. The change went ahead even though the House of Representatives voted in July to make daylight saving time permanent: that bill, the Sunshine Protection Act, is still waiting for the Senate. Standard time now runs until Sunday, March 14, 2027.
 

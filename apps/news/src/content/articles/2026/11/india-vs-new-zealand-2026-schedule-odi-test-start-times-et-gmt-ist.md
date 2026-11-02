@@ -4,6 +4,7 @@ seoTitle: "India vs New Zealand 2026: Schedule and Times"
 description: "The fifth Twenty20 International (T20I) was Nov. 1 at 2 a.m. Eastern Time (ET); the first One Day International (ODI) starts Tue., Nov. 3 at 9 p.m. ET."
 type: news
 publishedAt: "2026-11-01T02:47:00-05:00"
+updatedAt: "2026-11-02T14:10:00-05:00"
 authors: [jessica-hartwell]
 category: sports
 keywords: ["india vs new zealand", "ind vs nz", "ind vs nz odi schedule", "india vs new zealand time", "ind vs nz test series 2026"]
@@ -120,11 +121,11 @@ The ICC lists the dates. NZC's schedule release, published by Sportnation NZ on 
 
 ## What time is India vs New Zealand in ET, PT, GMT and IST?
 
-The start times are New Zealand local time. New Zealand Daylight Time (NZDT) is Coordinated Universal Time (UTC) plus 13 hours from late September to early April, according to the New Zealand Government's daylight saving page. U.S. clocks fell back at 2 a.m. today, so ET is UTC minus 5 hours and Pacific Time (PT) is UTC minus 8 hours. The 5th T20I started at 7 a.m. UTC, an hour after the ET change and two hours before the PT one, so Pacific clocks still read 12 a.m. The United Kingdom has been on GMT since Oct. 25. India is on IST, UTC plus 5 hours 30 minutes.
+The start times are New Zealand local time. New Zealand Daylight Time (NZDT) is Coordinated Universal Time (UTC) plus 13 hours from late September to early April, according to the New Zealand Government's daylight saving page. U.S. clocks fell back at 2 a.m. on Nov. 1, so ET is UTC minus 5 hours and Pacific Time (PT) is UTC minus 8 hours. The 5th T20I was scheduled for 7 a.m. UTC, an hour after the ET change and two hours before the PT one, so Pacific clocks still read 12 a.m. The United Kingdom has been on GMT since Oct. 25. India is on IST, UTC plus 5 hours 30 minutes.
 
 Those offsets shift the calendar date for North American readers. An ODI starting at 3 p.m. on a New Zealand Wednesday is 9 p.m. ET on the Tuesday. A Test starting at 11 a.m. on a Thursday begins at 5 p.m. ET on the Wednesday.
 
-**Remaining matches from Nov. 1, converted from the New Zealand start times**
+**Matches from Nov. 1, converted from the New Zealand start times**
 
 | Match | NZ date | ET | PT | GMT | IST |
 |---|---|---|---|---|---|

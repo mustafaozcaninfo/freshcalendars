@@ -4,6 +4,7 @@ seoTitle: "New on HBO Max November 2026: Dated List"
 description: "Warner Bros. Discovery (WBD) dates two HBO documentaries for Nov. 17 and Nov. 25; City of God season 2 is Sun., Nov. 8 and Tony is Fri., Nov. 20. See each date."
 type: news
 publishedAt: "2026-11-01T06:41:00-05:00"
+updatedAt: "2026-11-02T14:10:00-05:00"
 authors: [jessica-hartwell]
 category: entertainment
 keywords: ["new on HBO Max November 2026", "HBO Max November 2026 schedule", "what's coming to HBO Max in November", "City of God season 2 release date HBO Max"]
@@ -47,7 +48,7 @@ hero:
     source: "https://commons.wikimedia.org/wiki/File:Vista_da_Cidade_de_Deus.jpg"
     author: "Junius"
 summary:
-  - "The Gilded Age season 4 premieres Sunday, Nov. 1 at 9 p.m. on HBO, according to the HBO home page."
+  - "The Gilded Age season 4 premiered Sunday, Nov. 1 at 9 p.m. on HBO, according to the HBO home page."
   - "Warner Bros. Discovery (WBD) dates the HBO documentary When a Witness Recants for Tuesday, Nov. 17 and The Slightest Touch for Wednesday, Nov. 25."
   - "ScreenCrush and Showbizjunkies both list City of God: The Fight Rages On season 2 for Sunday, Nov. 8 and the A24 film Tony for Friday, Nov. 20."
   - "No titles leaving HBO Max in November and no HBO Max prices are confirmed here."
@@ -56,8 +57,8 @@ faq:
     a: "ScreenCrush and Showbizjunkies both list City of God: The Fight Rages On season 2 as an HBO Original for Sunday, Nov. 8, 2026. Showbizjunkies describes it as a six-episode season."
   - q: "When does Tony come to HBO Max?"
     a: "ScreenCrush and Showbizjunkies both list the A24 film Tony for Friday, Nov. 20, 2026."
-  - q: "What time does The Gilded Age season 4 start?"
-    a: "The HBO home page says season 4 premieres Nov. 1 at 9 p.m. Our Gilded Age premiere story has the time zones."
+  - q: "What time did The Gilded Age season 4 start?"
+    a: "The HBO home page said season 4 would premiere Nov. 1 at 9 p.m. Our Gilded Age premiere story has the time zones."
   - q: "Which HBO documentaries have official November dates?"
     a: "The WBD Pressroom lists When a Witness Recants as debuting Nov. 17 and The Slightest Touch as debuting Nov. 25, 2026."
   - q: "What is leaving HBO Max in November 2026?"
@@ -144,9 +145,9 @@ ScreenCrush and Showbizjunkies both list "City of God: The Fight Rages On" seaso
 
 Both lists put the A24 film "Tony" on Friday, Nov. 20. Showbizjunkies describes it as the story of a 19-year-old Anthony Bourdain who travels to Provincetown and stumbles into the chaotic world of a restaurant kitchen. "Enemy," another A24 film, is dated Sunday, Nov. 1 on both lists.
 
-## When does The Gilded Age season 4 start?
+## When did The Gilded Age season 4 start?
 
-The HBO home page says season 4 premieres Nov. 1 at 9 p.m. That is the only time on this page for the month; the other titles are dated by day only. Our [Gilded Age season 4 premiere story](/news/the-gilded-age-season-4-premiere-time-november-1-hbo-max/) covers the premiere time by time zone. The episode schedule and the finale date are not covered here.
+The HBO home page said season 4 would premiere Nov. 1 at 9 p.m., and that date has passed. That is the only time on this page for the month; the other titles are dated by day only. Our [Gilded Age season 4 premiere story](/news/the-gilded-age-season-4-premiere-time-november-1-hbo-max/) covers the premiere time by time zone. The episode schedule and the finale date are not covered here.
 
 ## Which HBO documentaries have official November dates?
 

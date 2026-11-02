@@ -4,6 +4,7 @@ seoTitle: "Thanksgiving 2026 Planner: Countdown and Turkey Math"
 description: "Thanksgiving is Thursday, Nov. 26, 2026. A dated countdown, turkey to buy at one pound per guest and oven times from the U.S. Department of Agriculture (USDA)."
 type: explainer
 publishedAt: "2026-10-23T15:00:00-04:00"
+updatedAt: "2026-11-02T14:10:00-05:00"
 authors: [christina-gerland]
 category: holidays
 keywords: ["Thanksgiving planner 2026", "Thanksgiving countdown checklist", "Thanksgiving planning timeline", "how much turkey per person"]
@@ -45,7 +46,7 @@ hero:
   title: "Thanksgiving 2026 planner"
   caption: "Thanksgiving Day 2026 is Thursday, Nov. 26. The USDA rule of thumb is about one pound of turkey per guest."
 summary:
-  - "Thanksgiving Day 2026 is Thursday, Nov. 26. This planner lays out a dated countdown from this week through the last of the leftovers on Monday, Nov. 30."
+  - "Thanksgiving Day 2026 is Thursday, Nov. 26. This planner lays out a dated countdown from the week of Oct. 26 through the last of the leftovers on Monday, Nov. 30."
   - "The USDA says to allow about one pound of turkey per person, or one and a quarter pounds for a frozen pre-stuffed bird that cooks from frozen."
   - "A frozen turkey needs days of refrigerator thawing by weight, so a 20 to 24 lb bird should go into the fridge by Friday, Nov. 20."
   - "Cook turkey and any stuffing to 165°F, rest the turkey 20 minutes, refrigerate leftovers within 2 hours and use them within 3 to 4 days."
@@ -98,7 +99,7 @@ related: [turkey-trot-2026-start-times-thanksgiving-races-by-city, thanksgiving-
 draft: false
 ---
 
-**Thanksgiving Day in the United States is Thursday, Nov. 26, 2026, and the simplest rule for buying the bird is about one pound of turkey per guest.** That figure comes from the U.S. Department of Agriculture (USDA) Food Safety and Inspection Service (FSIS). The plan below counts backward from dinner so each step lands on a real date, from the guest list this week to the last of the leftovers on Monday, Nov. 30.
+**Thanksgiving Day in the United States is Thursday, Nov. 26, 2026, and the simplest rule for buying the bird is about one pound of turkey per guest.** That figure comes from the U.S. Department of Agriculture (USDA) Food Safety and Inspection Service (FSIS). The plan below counts backward from dinner so each step lands on a real date, from the guest list to the last of the leftovers on Monday, Nov. 30.
 
 The dates in the countdown are our suggestion for pacing the work. The food-safety facts, the turkey math and the cooking times are the USDA's. For the full thaw table by weight, see our guide on [when to thaw a Thanksgiving turkey](/news/when-to-thaw-thanksgiving-turkey-2026/). For parade and game times, see the [Thanksgiving 2026 television schedule](/news/thanksgiving-2026-tv-schedule-macys-parade-nfl-games/).
 
@@ -120,8 +121,8 @@ If you want generous leftovers, we suggest sizing up a little; that part is a co
 
 ### Weeks before
 
-- **Week of Oct. 26:** Settle the guest count and ask about allergies and diets. Everything else follows from the head count.
-- **Monday, Nov. 2:** Plan the menu and, if you want a fresh turkey, reserve one now. These dates are our suggestion.
+- **Week of Oct. 26 (passed):** Settle the guest count and ask about allergies and diets. Everything else follows from the head count, so do it first if you have not yet.
+- **Monday, Nov. 2:** Plan the menu and, if you want a fresh turkey, reserve one. These dates are our suggestion.
 - **Nov. 14 to 18:** Buy a frozen turkey, at about one pound per guest, so there is time to thaw it. Keep it frozen until you start thawing.
 
 ### Thanksgiving week

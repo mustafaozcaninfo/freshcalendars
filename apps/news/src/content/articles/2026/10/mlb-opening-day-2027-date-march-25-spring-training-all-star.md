@@ -4,6 +4,7 @@ seoTitle: "MLB Opening Day 2027: Date, Spring Training, All-Star"
 description: "Major League Baseball (MLB) Opening Day 2027 is Thursday, Mar. 25, with 14 games; Opening Night is Wednesday, Mar. 24 on Netflix, MLB.com says."
 type: news
 publishedAt: "2026-10-26T16:40:00-04:00"
+updatedAt: "2026-11-02T14:10:00-05:00"
 authors: [jessica-hartwell]
 category: sports
 keywords: ["MLB Opening Day 2027", "when is Opening Day 2027", "2027 MLB schedule", "Spring Training 2027 start date", "2027 All-Star Game date"]
@@ -109,15 +110,15 @@ All dates below come from MLB.com's July 16, 2026 schedule release and MLB's Sep
 
 ## How many days until Opening Day 2027?
 
-Counted from Monday, Oct. 26, 2026, the day we published this story, by our own calculation:
+Counted from Monday, Nov. 2, 2026, by our own calculation:
 
-| Event | Date | Days from Oct. 26, 2026 |
+| Event | Date | Days from Nov. 2, 2026 |
 |---|---|---|
-| Spring Training begins | Fri., Feb. 19, 2027 | 116 |
-| Opening Night | Wed., Mar. 24, 2027 | 149 |
-| Opening Day | Thu., Mar. 25, 2027 | 150 |
-| Home Run Derby | Mon., July 12, 2027 | 259 |
-| All-Star Game | Tue., July 13, 2027 | 260 |
+| Spring Training begins | Fri., Feb. 19, 2027 | 109 |
+| Opening Night | Wed., Mar. 24, 2027 | 142 |
+| Opening Day | Thu., Mar. 25, 2027 | 143 |
+| Home Run Derby | Mon., July 12, 2027 | 252 |
+| All-Star Game | Tue., July 13, 2027 | 253 |
 
 ## When does Spring Training 2027 start?
 

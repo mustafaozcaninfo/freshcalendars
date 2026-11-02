@@ -1,10 +1,10 @@
 ---
-title: "Mexico City Grand Prix 2026: Race Time by U.S. Time Zone on Sunday, Nov. 1, and Full Weekend Schedule"
-seoTitle: "Mexico City Grand Prix 2026: Race Time, Schedule and TV"
-description: "The Mexico City Grand Prix race is Sunday, Nov. 1, 2026, at 2 p.m. local time, 3 p.m. Eastern Standard Time (EST), on Apple TV, Formula 1 (F1) says."
+title: "Mexico City Grand Prix 2026: Verstappen Wins, Hamilton Second; Race Time and Schedule"
+seoTitle: "Mexico City Grand Prix 2026: Result and Schedule"
+description: "Max Verstappen won the Mexico City Grand Prix on Nov. 1, 2026, ahead of Lewis Hamilton, Formula 1 (F1) says. The start was 3 p.m. Eastern Standard Time (EST)."
 type: news
 publishedAt: "2026-10-25T14:19:00-04:00"
-updatedAt: "2026-11-01T01:45:00-04:00"
+updatedAt: "2026-11-02T14:10:00-05:00"
 authors: [jessica-hartwell]
 category: sports
 keywords: ["Mexico City Grand Prix 2026", "F1 Mexico GP time", "F1 Mexico 2026 schedule", "Mexico GP qualifying time", "Mexico City Grand Prix 2027 date"]
@@ -12,7 +12,7 @@ dateline: "Mexico City"
 hero:
   src: ../../../../assets/news/mexico-city-grand-prix-2026-schedule-race-time-by-time-zone/mexico-city-grand-prix-2026-schedule-race-time-by-time-zone.webp
   alt: "Mexico City Grand Prix 2026: aerial view of the Autódromo Hermanos Rodríguez stadium section with its curved roof beside the track"
-  caption: "The stadium section of the Autódromo Hermanos Rodríguez in Mexico City. The 2026 Grand Prix starts at 2 p.m. local time on Sunday, Nov. 1, which is 3 p.m. Eastern Standard Time (EST)."
+  caption: "The stadium section of the Autódromo Hermanos Rodríguez in Mexico City. The 2026 Grand Prix was set for 2 p.m. local time on Sunday, Nov. 1, which is 3 p.m. Eastern Standard Time (EST)."
   credit: "Photo: ProtoplasmaKid / Wikimedia Commons, edited"
   license:
     name: "CC BY-SA 4.0"
@@ -21,27 +21,27 @@ hero:
     author: "ProtoplasmaKid"
     authorUrl: "https://commons.wikimedia.org/wiki/User:ProtoplasmaKid"
 summary:
-  - "The Mexico City Grand Prix race is Sunday, Nov. 1, 2026, from 14:00 to 16:00 local time (UTC-6), Formula 1 (F1) says. That is 3 p.m. Eastern Standard Time (EST), by our conversion."
-  - "U.S. clocks fall back at 2 a.m. on Nov. 1, so Friday and Saturday sessions fall on daylight time and Sunday's race falls on standard time."
-  - "Lewis Hamilton (Ferrari) starts from pole after a 1:16.514 lap in qualifying on Saturday, Oct. 31, F1's results show. George Russell (Mercedes) was 0.009 seconds back, and Charles Leclerc (Ferrari) was third."
+  - "The Mexico City Grand Prix race was set for Sunday, Nov. 1, 2026, from 14:00 to 16:00 local time (UTC-6), Formula 1 (F1) says. That is 3 p.m. Eastern Standard Time (EST), by our conversion."
+  - "U.S. clocks fell back at 2 a.m. on Nov. 1, so Friday and Saturday sessions fell on daylight time and Sunday's race fell on standard time."
+  - "Max Verstappen won in 2:20:28.772, with Lewis Hamilton second (+0.799) and Kimi Antonelli third (+4.006), F1's results show. Hamilton had started from pole after a 1:16.514 lap in qualifying on Oct. 31."
   - "Apple TV carries F1 in the United States. Apple says every practice is free to watch; qualifying and the race need a subscription. F1 lists the 2027 race for Oct. 29-31."
 faq:
   - q: "What time is the Mexico City Grand Prix race in 2026?"
-    a: "F1 lists the race at 14:00 Mexico City local time on Sunday, Nov. 1, 2026. That is 3 p.m. EST, 2 p.m. Central Standard Time (CST), 1 p.m. Mountain Standard Time (MST) and 12 p.m. Pacific Standard Time (PST), by our conversion."
+    a: "F1 listed the race at 14:00 Mexico City local time on Sunday, Nov. 1, 2026. That was 3 p.m. EST, 2 p.m. Central Standard Time (CST), 1 p.m. Mountain Standard Time (MST) and 12 p.m. Pacific Standard Time (PST), by our conversion."
   - q: "What time is qualifying for the Mexican Grand Prix?"
-    a: "Qualifying is Saturday, Oct. 31 at 15:00 local time, which is 5 p.m. Eastern Daylight Time (EDT) and 2 p.m. Pacific Daylight Time (PDT), by our conversion."
+    a: "Qualifying was Saturday, Oct. 31 at 15:00 local time, which was 5 p.m. Eastern Daylight Time (EDT) and 2 p.m. Pacific Daylight Time (PDT), by our conversion."
   - q: "How long is the race?"
     a: "F1 lists the race as 71 laps or 120 minutes."
   - q: "Do U.S. clocks change that weekend?"
-    a: "Yes. U.S. clocks fall back at 2 a.m. on Sunday, Nov. 1, so the race is on standard time while Friday and Saturday sessions are on daylight time."
+    a: "Yes. U.S. clocks fell back at 2 a.m. on Sunday, Nov. 1, so the race was on standard time while Friday and Saturday sessions were on daylight time."
   - q: "What channel is the F1 race on in the U.S.?"
-    a: "Apple TV, the U.S. home of Formula 1, according to Apple. The race and qualifying need an Apple TV subscription; Apple says every practice is free to watch. Subscribers also get F1 TV Premium at no additional cost, Apple says."
-  - q: "When are the qualifying and race results posted?"
-    a: "F1 posts each classification on its 2026 results pages at formula1.com. Qualifying ends at 4 p.m. local (6 p.m. EDT) on Saturday; the race window ends at 4 p.m. local (5 p.m. EST) on Sunday."
+    a: "Apple TV, the U.S. home of Formula 1, according to Apple. The race and qualifying needed an Apple TV subscription; Apple says every practice is free to watch. Subscribers also get F1 TV Premium at no additional cost, Apple says."
+  - q: "What was the result of the Mexico City Grand Prix?"
+    a: "F1's results page shows Max Verstappen first in 2:20:28.772, Lewis Hamilton second (+0.799) and Kimi Antonelli third (+4.006) in the Nov. 1, 2026 race. F1 posts each classification on its 2026 results pages at formula1.com."
   - q: "When is the 2027 Mexico City Grand Prix?"
     a: "F1's 2027 calendar lists the Mexico City Grand Prix as Round 20, Oct. 29-31, 2027. F1 announced in April 2025 that the race stays on the calendar through 2028."
   - q: "Where can I buy Mexico City Grand Prix tickets?"
-    a: "From F1's official ticket site, tickets.formula1.com, or the promoter's site, mexicogp.mx. Neither page listed prices for this weekend when we checked on Oct. 30."
+    a: "From F1's official ticket site, tickets.formula1.com, or the promoter's site, mexicogp.mx. Neither page listed prices for the Oct. 30 to Nov. 1 weekend when we checked on Oct. 30."
 sources:
   - title: "Formula 1 Gran Premio de la Ciudad de México 2026 - Qualifying"
     url: "https://www.formula1.com/en/results/2026/races/1298/mexico/qualifying"
@@ -90,7 +90,7 @@ assets:
   overlay: true
   kicker: "Mexico City GP · Nov. 1, 2026"
   date: "2026-11-01"
-  card: { top: "Mexico City Grand Prix 2026", big: "Race 3 p.m. ET Sunday", bottom: "U.S. clocks fall back that morning" }
+  card: { top: "Mexico City Grand Prix 2026", big: "Verstappen wins", bottom: "Hamilton second, Antonelli third" }
   printable:
     slug: mexico-city-gp-2026-schedule
     group: mexico-city-gp-2026
@@ -120,7 +120,7 @@ downloads:
 draft: false
 ---
 
-**The Mexico City Grand Prix race is Sunday, Nov. 1, 2026, at 14:00 local time, which is 3 p.m. Eastern Standard Time (EST), according to Formula 1 (F1).** F1 lists the race as 71 laps or 120 minutes, and says its timetable is subject to change. Below: every session in U.S. time zones, the clock change that moves Sunday's start, how to watch on Apple TV and the 2027 date.
+**Max Verstappen won the Mexico City Grand Prix on Sunday, Nov. 1, 2026, ahead of Lewis Hamilton and Kimi Antonelli, according to Formula 1 (F1).** The race was set for 14:00 local time, which is 3 p.m. Eastern Standard Time (EST). F1 listed the race as 71 laps or 120 minutes. Below: the result, every session in U.S. time zones, the clock change that moved Sunday's start, how it was shown on Apple TV and the 2027 date.
 
 ## Mexico City Grand Prix 2026 at a glance
 
@@ -132,6 +132,7 @@ draft: false
 | Circuit | Autódromo Hermanos Rodríguez, 4.304 km (2.674 miles) |
 | Race distance | 71 laps, 305.354 km (189.7 miles) |
 | U.S. TV | Apple TV |
+| Top three | Max Verstappen, Lewis Hamilton, Kimi Antonelli |
 | 2025 winner | Lando Norris, McLaren |
 | 2027 race | Oct. 29-31, 2027 |
 
@@ -154,27 +155,27 @@ The abbreviations are Eastern Daylight Time (EDT), Central Daylight Time (CDT), 
 
 Each practice and qualifying runs one hour. F1's timetable also lists the national anthem at 1:44 p.m. local (2:44 p.m. EST) on Sunday, and support races from three other series on Saturday and Sunday.
 
-## What time is the F1 race on Sunday?
+## What time was the F1 race on Sunday, Nov. 1?
 
-The race starts at 2 p.m. in Mexico City on Sunday, Nov. 1. By our conversion that is 3 p.m. EST, 2 p.m. CST, 1 p.m. MST and 12 p.m. PST. F1 blocks out two hours, to 5 p.m. EST; the race can end earlier or later. Elsewhere, it is 20:00 Greenwich Mean Time (GMT) in the United Kingdom and 21:00 Central European Time (CET) in central Europe.
+The race was set to start at 2 p.m. in Mexico City on Sunday, Nov. 1. By our conversion that was 3 p.m. EST, 2 p.m. CST, 1 p.m. MST and 12 p.m. PST. F1 blocked out two hours, to 5 p.m. EST. Elsewhere, it was 20:00 Greenwich Mean Time (GMT) in the United Kingdom and 21:00 Central European Time (CET) in central Europe.
 
-Arizona is on MST, UTC-7, which our conversion puts one hour behind Mexico City all weekend: first practice at 11:30 a.m. MST on Friday, qualifying at 2 p.m. MST on Saturday and the race at 1 p.m. MST on Sunday.
+Arizona is on MST, UTC-7, which our conversion puts one hour behind Mexico City all weekend: first practice at 11:30 a.m. MST on Friday, qualifying at 2 p.m. MST on Saturday and the race at 1 p.m. MST on Sunday, as listed.
 
 ## Why does the clock change matter for race day?
 
-U.S. clocks fall back at 2 a.m. on Sunday, Nov. 1, the same morning as the race. Friday and Saturday sessions are still on U.S. daylight time, so Eastern viewers are 2 hours ahead of Mexico City for practice and qualifying. On Sunday the United States is on standard time, so the gap is 1 hour. That is why practice runs at 2:30 p.m. EDT on Friday for a 12:30 p.m. local start, while the race at 2 p.m. local is 3 p.m. EST, not 4 p.m.
+U.S. clocks fell back at 2 a.m. on Sunday, Nov. 1, the same morning as the race. Friday and Saturday sessions were still on U.S. daylight time, so Eastern viewers were 2 hours ahead of Mexico City for practice and qualifying. On Sunday the United States was on standard time, so the gap was 1 hour. That is why practice ran at 2:30 p.m. EDT on Friday for a 12:30 p.m. local start, while the race at 2 p.m. local was 3 p.m. EST, not 4 p.m.
 
-Mexico City itself stays on UTC-6 all weekend. Our [daylight saving time ends Nov. 1, 2026](/news/daylight-saving-time-ends-november-1-2026/) story covers the change, and our [Mexico time difference after Nov. 1](/news/mexico-time-difference-after-november-1-2026-us-clocks-fall-back/) story shows the new gap city by city.
+Mexico City itself stayed on UTC-6 all weekend. Our [daylight saving time ends Nov. 1, 2026](/news/daylight-saving-time-ends-november-1-2026/) story covers the change, and our [Mexico time difference after Nov. 1](/news/mexico-time-difference-after-november-1-2026-us-clocks-fall-back/) story shows the new gap city by city.
 
 ## Where can you watch the Mexico City Grand Prix in the U.S.?
 
-On Apple TV. Apple calls Apple TV "the U.S. home of Formula 1" and says "every practice is available without a subscription," so Friday's two sessions and Saturday's third practice are free to watch. Qualifying and the race need an Apple TV subscription, which, Apple says, covers every practice, qualifying session, Sprint and Grand Prix.
+On Apple TV. Apple calls Apple TV "the U.S. home of Formula 1" and says "every practice is available without a subscription," so Friday's two sessions and Saturday's third practice were free to watch. Qualifying and the race need an Apple TV subscription, which, Apple says, covers every practice, qualifying session, Sprint and Grand Prix.
 
 Apple also says U.S. subscribers "get full access to F1 TV Premium at no additional cost" by linking their Apple Account at f1.com/apple. Saturday's other events on TV are in our [sports on TV today, Oct. 31](/news/sports-on-tv-today-october-31-2026/) story, and Sunday's are in [sports on TV today, Nov. 1](/news/sports-on-tv-today-november-1-2026/).
 
 ## Mexico City Grand Prix qualifying and race results
 
-Qualifying ends at 4 p.m. local (6 p.m. EDT) on Saturday, and it sets Sunday's grid. F1 posts the qualifying and race classifications on its [2026 results pages](https://www.formula1.com/en/results/2026/races). F1's official qualifying classification puts Lewis Hamilton (Ferrari) on pole with 1:16.514 in the final session (Q3). George Russell (Mercedes) was second in 1:16.523 and Charles Leclerc (Ferrari) third in 1:16.633. Lando Norris (McLaren) qualified sixth in 1:16.824. Any grid penalty applied by the stewards can make Sunday's starting grid differ from this order. The race result follows on the same results pages after the checkered flag.
+Qualifying ended at 4 p.m. local (6 p.m. EDT) on Saturday and set Sunday's grid. F1 posts the qualifying and race classifications on its [2026 results pages](https://www.formula1.com/en/results/2026/races). F1's official qualifying classification puts Lewis Hamilton (Ferrari) on pole with 1:16.514 in the final session (Q3). George Russell (Mercedes) was second in 1:16.523 and Charles Leclerc (Ferrari) third in 1:16.633. Lando Norris (McLaren) qualified sixth in 1:16.824. Any grid penalty applied by the stewards could make Sunday's starting grid differ from this order. The race result is below.
 
 | Qualifying position | Driver | Team | Q3 time |
 |---|---|---|---|
@@ -183,7 +184,15 @@ Qualifying ends at 4 p.m. local (6 p.m. EDT) on Saturday, and it sets Sunday's g
 | 3 | Charles Leclerc | Ferrari | 1:16.633 |
 | 6 | Lando Norris | McLaren | 1:16.824 |
 
-Going into the weekend, F1's 2026 drivers' standings show Kimi Antonelli (Mercedes) first with 365 points, George Russell (Mercedes) second with 242 and Lewis Hamilton (Ferrari) third with 241. Antonelli won the previous round, the United States Grand Prix in Austin on Oct. 25. Lando Norris (McLaren) won the 2025 Mexico City Grand Prix on Oct. 26, 2025.
+Going into the weekend, F1's 2026 drivers' standings showed Kimi Antonelli (Mercedes) first with 365 points, George Russell (Mercedes) second with 242 and Lewis Hamilton (Ferrari) third with 241. Antonelli won the previous round, the United States Grand Prix in Austin on Oct. 25. Lando Norris (McLaren) won the 2025 Mexico City Grand Prix on Oct. 26, 2025.
+
+| Race position | Driver | Race time or gap |
+|---|---|---|
+| 1 | Max Verstappen | 2:20:28.772 |
+| 2 | Lewis Hamilton | +0.799 |
+| 3 | Kimi Antonelli | +4.006 |
+
+As of Nov. 2, the drivers' standings on F1's results page show Antonelli first with 380 points, Verstappen second with 261 and Hamilton third with 259. Four races remain: the São Paulo Grand Prix on Nov. 6-8, Las Vegas on Nov. 19-21, Qatar on Nov. 27-29 and Abu Dhabi on Dec. 4-6.
 
 ## Autódromo Hermanos Rodríguez: the Mexico City circuit
 

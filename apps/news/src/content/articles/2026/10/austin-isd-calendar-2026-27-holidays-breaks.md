@@ -4,6 +4,7 @@ seoTitle: "Austin ISD Calendar 2026-27: Breaks and Holidays"
 description: "Austin Independent School District (ISD) 2026-27: Fall Break Nov. 23-27, Winter Break Dec. 21 to Jan. 4, Spring Break March 15-19, last day for students May 27."
 type: news
 publishedAt: "2026-10-27T00:38:00-04:00"
+updatedAt: "2026-11-02T14:10:00-05:00"
 authors: [aaron-kessler]
 category: school-calendars
 keywords: ["Austin ISD calendar 2026-27", "AISD calendar 2026-2027", "Austin ISD winter break 2026", "Austin ISD spring break 2027", "Austin ISD fall break 2026"]
@@ -21,7 +22,7 @@ hero:
 summary:
   - "Austin Independent School District (ISD) lists Fall Break from Monday, Nov. 23 to Friday, Nov. 27, 2026, and Winter Break from Monday, Dec. 21, 2026 to Monday, Jan. 4, 2027."
   - "Spring Break is Monday, March 15 to Friday, March 19, 2027. The last day of classes for students is Thursday, May 27, 2027."
-  - "Friday, Oct. 9, 2026 and Friday, March 26, 2027 are marked Bad Weather Makeup Days, so they could become school days."
+  - "Friday, Oct. 9, 2026 (now past) and Friday, March 26, 2027 are marked Bad Weather Makeup Days, so they could become school days."
   - "In May 2026 the board changed the calendar and raised the number of instructional days from 169 to 171."
 faq:
   - q: "When is Austin ISD winter break 2026?"
@@ -31,7 +32,7 @@ faq:
   - q: "When is Austin ISD fall break 2026?"
     a: "Monday, Nov. 23 through Friday, Nov. 27, 2026, the week of Thanksgiving. Thanksgiving Day is Thursday, Nov. 26."
   - q: "What are the Bad Weather Makeup Days on the Austin ISD calendar?"
-    a: "Friday, Oct. 9, 2026 and Friday, March 26, 2027 are marked as student and staff holidays and also as Bad Weather Makeup Days. If the district needs makeup days, these could become school days."
+    a: "Friday, Oct. 9, 2026 and Friday, March 26, 2027 are marked as student and staff holidays and also as Bad Weather Makeup Days. Oct. 9 has passed; March 26 is the one still ahead. If the district needs makeup days, it could become a school day."
   - q: "When is the last day of school for Austin ISD in 2027?"
     a: "Thursday, May 27, 2027 for students. The teacher last day is Friday, May 28, and Memorial Day is Monday, May 31."
 sources:
@@ -102,7 +103,7 @@ downloads:
 draft: false
 ---
 
-**Austin Independent School District (ISD) lists Fall Break from Monday, Nov. 23 to Friday, Nov. 27, 2026, and Winter Break from Monday, Dec. 21, 2026 to Monday, Jan. 4, 2027**, on its 2026 - 2027 Calendar (Revised & Final) PDF. Spring Break is March 15-19, 2027, and the last day of classes for students is Thursday, May 27. The next day off is Monday, Nov. 2, a student and staff holiday.
+**Austin Independent School District (ISD) lists Fall Break from Monday, Nov. 23 to Friday, Nov. 27, 2026, and Winter Break from Monday, Dec. 21, 2026 to Monday, Jan. 4, 2027**, on its 2026 - 2027 Calendar (Revised & Final) PDF. Spring Break is March 15-19, 2027, and the last day of classes for students is Thursday, May 27. Monday, Nov. 2, today, is a student and staff holiday, and the next day off is tomorrow, Tuesday, Nov. 3, a student holiday with campus staff development.
 
 ## Austin ISD 2026-27 breaks
 
@@ -140,7 +141,7 @@ Outside the three breaks, we count 11 single days in the school year that the ca
 
 ## Which days are Bad Weather Makeup Days?
 
-Two Fridays carry the label: Oct. 9, 2026 and March 26, 2027. Both appear as student and staff holidays. The calendar marks them as Bad Weather Makeup Days, so they could become school days if the district needs makeup days. Before you book travel for either weekend, check with the district.
+Two Fridays carry the label: Oct. 9, 2026 and March 26, 2027. Both appear as student and staff holidays. The calendar marks them as Bad Weather Makeup Days, so they could become school days if the district needs makeup days. Oct. 9 has passed. Before you book travel for the March 26 weekend, check with the district.
 
 ## What did the board change in May 2026?
 

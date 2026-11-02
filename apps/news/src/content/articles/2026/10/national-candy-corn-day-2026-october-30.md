@@ -1,16 +1,17 @@
 ---
-title: "National Candy Corn Day 2026 Is Friday, Oct. 30: Candy Corn History, Ingredients and a Party Checklist"
+title: "National Candy Corn Day 2026 Was Friday, Oct. 30: Candy Corn History, Ingredients and a Party Checklist"
 seoTitle: "National Candy Corn Day 2026: Oct. 30 and a Printable"
-description: "National Candy Corn Day is Friday, Oct. 30, 2026, the day before Halloween. Where the candy came from, what the label lists, and a free party checklist."
+description: "National Candy Corn Day was Friday, Oct. 30, 2026, the day before Halloween. Where the candy came from, what the label lists, and a free party checklist."
 type: explainer
 publishedAt: "2026-10-29T15:20:00-04:00"
+updatedAt: "2026-11-02T14:10:00-05:00"
 authors: [christina-gerland]
 category: holidays
 keywords: ["National Candy Corn Day 2026", "candy corn day October 30", "candy corn history", "candy corn ingredients", "candy corn party ideas"]
 hero:
   src: ../../../../assets/news/national-candy-corn-day-2026-october-30/national-candy-corn-day-2026-october-30.webp
   alt: "Close-up of orange, yellow and white candy corn kernels on a reflective surface for National Candy Corn Day 2026"
-  caption: "Candy corn's three colors were layered by hand when the candy was new, History.com says. National Candy Corn Day is Oct. 30. File photo, 2006."
+  caption: "Candy corn's three colors were layered by hand when the candy was new, History.com says. National Candy Corn Day is Oct. 30; in 2026 it was a Friday. File photo, 2006."
   credit: "Photo: liz west / Wikimedia Commons, cropped, edited"
   license:
     name: "CC BY 2.0"
@@ -19,13 +20,13 @@ hero:
     author: "liz west"
     authorUrl: "https://flickr.com/people/53133240@N00"
 summary:
-  - "National Candy Corn Day is Friday, Oct. 30, 2026, one day before Halloween on Saturday, Oct. 31. It is an informal observance, not a government holiday."
+  - "National Candy Corn Day was Friday, Oct. 30, 2026, one day before Halloween on Saturday, Oct. 31. It is an informal observance, not a government holiday."
   - "Oral histories credit George Renninger of the Wunderle Candy Company in Philadelphia with inventing candy corn around the 1880s, History.com reports."
   - "Goelitz, now the Jelly Belly Candy Company, sold it as \"Chicken Feed\" from 1898, and October advertising for it rose sharply in the 1950s."
   - "Brach's Classic Candy Corn lists gelatin, honey and sesame oil among its ingredients, which matters for vegetarian, vegan and allergic guests."
 faq:
   - q: "When is National Candy Corn Day 2026?"
-    a: "Friday, Oct. 30, 2026. The observance is always Oct. 30, the day before Halloween, so its weekday changes each year."
+    a: "Friday, Oct. 30, 2026, which has passed. The observance is always Oct. 30, the day before Halloween, so its weekday changes each year."
   - q: "Who created National Candy Corn Day?"
     a: "We could not find a documented founder. We found no federal or state proclamation for it either; it is an informal observance listed by museums, calendars and candy fans."
   - q: "Who invented candy corn?"
@@ -108,11 +109,11 @@ downloads:
 draft: false
 ---
 
-**National Candy Corn Day falls on Friday, Oct. 30, 2026, the day before Halloween on Saturday, Oct. 31.** It is an informal observance: we found no documented founder and no government proclamation behind it. The Museum of the Grand Prairie in Champaign County, Ill., marks it on Oct. 30 in its history of the candy. Below: how candy corn started, what a standard bag lists on the label, and a printable checklist for a Friday or Halloween treat table.
+**National Candy Corn Day was Friday, Oct. 30, 2026, the day before Halloween on Saturday, Oct. 31.** It is an informal observance: we found no documented founder and no government proclamation behind it. The Museum of the Grand Prairie in Champaign County, Ill., marks it on Oct. 30 in its history of the candy. Below: how candy corn started, what a standard bag lists on the label, and a printable checklist for a Friday or Halloween treat table.
 
 ## When is National Candy Corn Day?
 
-The day is fixed to Oct. 30, so its weekday moves each year. In 2026 it lands on a Friday, which puts it at the start of Halloween weekend. Our weekday math for the next five years:
+The day is fixed to Oct. 30, so its weekday moves each year. In 2026 it landed on a Friday, which put it at the start of Halloween weekend. Our weekday math for the next five years:
 
 | Year | National Candy Corn Day | Halloween |
 |---|---|---|
@@ -122,7 +123,7 @@ The day is fixed to Oct. 30, so its weekday moves each year. In 2026 it lands on
 | 2029 | Tuesday, Oct. 30 | Wednesday, Oct. 31 |
 | 2030 | Wednesday, Oct. 30 | Thursday, Oct. 31 |
 
-For the full Halloween date answer, see [when is Halloween](/when-is/halloween/), and our story on [Halloween 2026 sunset and trick-or-treat times](/news/halloween-2026-saturday-sunset-trick-or-treat-times/) covers Saturday evening.
+For the full Halloween date answer, see [when is Halloween](/when-is/halloween/), and our story on [Halloween 2026 sunset and trick-or-treat times](/news/halloween-2026-saturday-sunset-trick-or-treat-times/) covers Halloween evening.
 
 ## Who invented candy corn?
 
@@ -148,8 +149,8 @@ Other brands use other recipes, so read the package you buy.
 
 ## How to celebrate National Candy Corn Day
 
-Keep it simple. Set out a bowl of candy corn with a spoon instead of open hands, or mix it with pretzels and popcorn for a sweet and salty snack. Put a card next to any homemade mix that lists every ingredient, and keep the original bags nearby. An orange, yellow and white table ties it together. If you are hosting Saturday too, our [witches' brew punch and party checklist](/news/halloween-party-ideas-2026-witches-brew-punch/) covers the drinks, and our [Frankenstein Friday 2026 story](/news/frankenstein-friday-2026-october-30-mary-shelley/) has a reading activity for the same Friday.
+Keep it simple. Set out a bowl of candy corn with a spoon instead of open hands, or mix it with pretzels and popcorn for a sweet and salty snack. Put a card next to any homemade mix that lists every ingredient, and keep the original bags nearby. An orange, yellow and white table ties it together. If you hosted Saturday too, our [witches' brew punch and party checklist](/news/halloween-party-ideas-2026-witches-brew-punch/) covers the drinks, and our [Frankenstein Friday 2026 story](/news/frankenstein-friday-2026-october-30-mary-shelley/) had a reading activity for the same Friday.
 
 ## Free Candy Corn Day party checklist
 
-The printable checklist fits on one US Letter page: treats, labels and allergies, table supplies, and a timeline from Thursday shopping to Halloween refills, with a notes area for guests and allergies. It carries the Brach's label facts and the FDA allergen note from this story. An ink-saver version prints in black and white. Write the party on your [October 2026 printable calendar](/october-calendars.html).
+The printable checklist fits on one US Letter page: treats, labels and allergies, table supplies, and a timeline from Thursday shopping to Halloween refills, with a notes area for guests and allergies. It carries the Brach's label facts and the FDA allergen note from this story. An ink-saver version prints in black and white. The [October 2026 printable calendar](/october-calendars.html) shows where the days fell.

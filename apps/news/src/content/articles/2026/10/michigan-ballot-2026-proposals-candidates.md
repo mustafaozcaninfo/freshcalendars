@@ -1,10 +1,10 @@
 ---
-title: "When Is Election Day 2026 in Michigan? Tuesday, Nov. 3: Ballot, Candidates and Early Voting"
+title: "When Is Election Day 2026 in Michigan? Tuesday, Nov. 3: Ballot, Candidates and Key Dates"
 seoTitle: "Election Day 2026 in Michigan: Tuesday, Nov. 3"
-description: "Election Day 2026 in Michigan is Tuesday, Nov. 3. See polling hours, early voting and absentee deadlines, the certified candidates and both ballot proposals."
+description: "Election Day 2026 in Michigan is Tuesday, Nov. 3. See polling hours, absentee deadlines, the certified candidates and both ballot proposals."
 type: explainer
 publishedAt: "2026-10-20T11:15:00-04:00"
-updatedAt: "2026-10-24T00:50:00-04:00"
+updatedAt: "2026-11-02T14:10:00-05:00"
 authors: [christina-gerland]
 category: elections
 keywords: ["when is election day 2026 in michigan", "Michigan election 2026", "Michigan ballot 2026", "Michigan early voting 2026", "Michigan governor candidates 2026"]
@@ -17,7 +17,7 @@ hero:
 summary:
   - "Michigan voters decide two statewide proposals on Nov. 3, 2026: whether to call a constitutional convention, and new limits on campaign contributions from certain utilities and contractors."
   - "The top of the ticket is wide open: governor, U.S. Senate, secretary of state and attorney general all have no incumbent running."
-  - "Early in-person voting runs at least Oct. 24 through Nov. 1 statewide, and you can register in person with proof of residency through 8 p.m. on Election Day."
+  - "Early in-person voting ran at least Oct. 24 through Nov. 1 statewide and has ended; you can still register in person with proof of residency through 8 p.m. on Election Day."
   - "Absentee ballots must be received by 8 p.m. on Nov. 3; a postmark does not count."
 faq:
   - q: "When is Election Day 2026 in Michigan?"
@@ -28,8 +28,8 @@ faq:
     a: "The Bureau of Elections' certified list shows Democrat Jocelyn Benson with Winnie Brinks, Republican John James with Jay DeBoyer, Libertarian Anthony Hudson with Beau Parmenter, U.S. Taxpayers Party nominee Donna Brandenburg with Robert Donald Cowper II and Green Party nominee Doug Campbell with Bobbie Clay."
   - q: "Who is running for U.S. Senate in Michigan?"
     a: "Democrat Abdul El-Sayed, Republican Mike Rogers, Libertarian Lydia Christensen, U.S. Taxpayers Party nominee Tim Long, Green Party nominee Douglas P. Marsh and Natural Law Party nominee Walter P. Kristy, for the seat Gary Peters is leaving."
-  - q: "When is early voting in Michigan for November 2026?"
-    a: "At least Saturday, Oct. 24 through Sunday, Nov. 1. The state constitution requires nine days of early voting; some cities and townships offer more."
+  - q: "When was early voting in Michigan for November 2026?"
+    a: "At least Saturday, Oct. 24 through Sunday, Nov. 1, and it has ended. The state constitution requires nine days of early voting; some cities and townships offered more."
   - q: "Can I register to vote on Election Day in Michigan?"
     a: "Yes. From Oct. 20 through 8 p.m. on Nov. 3, you can register in person at your city or township clerk's office with proof of residency, then vote."
   - q: "Do I need ID to vote in Michigan?"
@@ -78,10 +78,10 @@ draft: false
 
 | Date | What happens | Days from today |
 |---|---|---|
-| Oct. 24 | Early in-person voting begins (at least nine days) | - |
-| Oct. 30 | Recommended last day to request a mail absentee ballot | - |
-| Nov. 1 | Early in-person voting ends | - |
-| Nov. 2 | Last day to vote absentee in person at your clerk's office | - |
+| Oct. 24 | Early in-person voting began (at least nine days) | - |
+| Oct. 30 | Recommended last day to request a mail absentee ballot (passed) | - |
+| Nov. 1 | Early in-person voting ended | - |
+| Nov. 2 | Last day to vote absentee in person at your clerk's office (today, 4 p.m.) | - |
 | Nov. 3 | Election Day; polls open 7 a.m. to 8 p.m. | - |
 
 ## Proposal 1: a constitutional convention
@@ -118,13 +118,13 @@ Supreme Court candidates are nominated at party conventions but appear on the ba
 
 | Date | What |
 |---|---|
-| Sat., Oct. 24-Sun., Nov. 1 | Early in-person voting, at least nine days statewide |
+| Sat., Oct. 24-Sun., Nov. 1 | Early in-person voting, at least nine days statewide (ended) |
 | Oct. 20-Nov. 3 | Register in person at your clerk's office with proof of residency |
-| Fri., Oct. 30, 5 p.m. | Recommended last day to request an absentee ballot by mail or online |
-| Mon., Nov. 2, 4 p.m. | Last day to request and vote an absentee ballot in person at your clerk's office |
+| Fri., Oct. 30, 5 p.m. | Recommended last day to request an absentee ballot by mail or online (passed) |
+| Mon., Nov. 2, 4 p.m. | Last day to request and vote an absentee ballot in person at your clerk's office (today) |
 | Tue., Nov. 3, 7 a.m.-8 p.m. | Election Day; absentee ballots must be received by 8 p.m. |
 
-Michigan voters approved a nine-day minimum for early voting in 2022, and some communities start earlier. Absentee ballots come with prepaid return postage and can be returned to a drop box in every community. Ballots must be in the clerk's hands by 8 p.m. on Election Day; a postmark does not count. Check your registration, sample ballot and early voting sites at the Michigan Voter Information Center. Site hours and the rules for the nine days are in [early voting starts Oct. 24 in Michigan and New York](/news/early-voting-starts-october-24-michigan-new-york-2026/).
+Michigan voters approved a nine-day minimum for early voting in 2022, and some communities started earlier. Absentee ballots come with prepaid return postage and can be returned to a drop box in every community. Ballots must be in the clerk's hands by 8 p.m. on Election Day; a postmark does not count. Check your registration, sample ballot and early voting sites at the Michigan Voter Information Center. Site hours and the rules for the nine days are in our [Michigan and New York early voting guide](/news/early-voting-starts-october-24-michigan-new-york-2026/).
 
 ## ID at the polls
 
@@ -134,4 +134,4 @@ You will be asked to show photo ID, such as a Michigan driver's license or state
 
 Four counties in the Upper Peninsula are on Central Time and close an hour later in Eastern Time; see [poll closing times by state](/news/what-time-do-polls-close-election-day-2026/). The Senate race is one of 35 nationwide; follow them with the tracker in our [2026 midterm guide](/news/2026-midterm-elections-whats-on-the-ballot-results-tracker/). For another Great Lakes battleground, see the [Pennsylvania ballot guide](/news/pennsylvania-2026-election-governor-mail-ballot-deadlines/). To find the official sample ballot lookup in any state from a ZIP code, use our [sample ballot finder](/news/sample-ballot-by-zip-code-2026-texas-ballot/).
 
-Print the checklist below, and add early voting to our [October](/october-calendars.html) and [November](/november-calendars.html) printable calendars or a [weekly planner](/printable-weekly-calendar.html).
+Print the checklist below, and add Nov. 3 to our [November](/november-calendars.html) printable calendar or a [weekly planner](/printable-weekly-calendar.html); the [October calendar](/october-calendars.html) shows the early voting days that just ended.

@@ -4,6 +4,7 @@ seoTitle: "October 22: This Day in History and 2026 Calendar"
 description: "Oct. 22, 2026 is a Thursday, day 295 of the year. On this day: Sam Houston took office in 1836, Kennedy spoke on Cuba in 1962 and the first xerox copy was made."
 type: explainer
 publishedAt: "2026-10-21T13:05:00-04:00"
+updatedAt: "2026-11-02T14:10:00-05:00"
 authors: [christina-gerland]
 category: holidays
 keywords: ["this day in history October 22", "October 22 2026", "what happened on October 22", "October 22 holidays", "what day is October 22 2026"]
@@ -17,7 +18,7 @@ summary:
   - "Thursday, Oct. 22, 2026, is the 295th day of the year, with 70 days left, and falls in ISO week 43. It is not a federal holiday."
   - "On this day: the first recorded parachute jump (1797), Sam Houston's inauguration in Texas (1836), the Metropolitan Opera House's opening night (1883), the first xerographic copy (1938) and Kennedy's Cuban missile crisis address (1962)."
   - "In 1975 the Soviet lander Venera 9 sent back the first image taken on the surface of another planet."
-  - "It is International Stuttering Awareness Day. Florida's deadline to request a mail ballot is today, and the World Series and Mole Day follow on Friday."
+  - "It is International Stuttering Awareness Day. Florida's deadline to request a mail ballot was Oct. 22, and the World Series and Mole Day followed on Friday."
 faq:
   - q: "What happened on October 22 in history?"
     a: "Among other events: André-Jacques Garnerin made the first recorded parachute jump in 1797, Sam Houston was inaugurated as president of the Republic of Texas in 1836, Chester Carlson made the first xerographic copy in 1938, and President John F. Kennedy told the nation about Soviet missiles in Cuba in 1962."
@@ -78,7 +79,7 @@ downloads:
 draft: false
 ---
 
-**Thursday, Oct. 22, 2026, is the 295th day of the year, and the date has a long list of firsts: the first recorded parachute jump, the first xerographic copy and the first photograph from the surface of another planet.** It is also the day Sam Houston became president of the Republic of Texas and the day John F. Kennedy told Americans about Soviet missiles in Cuba. Below: what happened on Oct. 22 through the years, the day's observance, and what is on the calendar this week.
+**Thursday, Oct. 22, 2026, is the 295th day of the year, and the date has a long list of firsts: the first recorded parachute jump, the first xerographic copy and the first photograph from the surface of another planet.** It is also the day Sam Houston became president of the Republic of Texas and the day John F. Kennedy told Americans about Soviet missiles in Cuba. Below: what happened on Oct. 22 through the years, the day's observance, and what was on the calendar that week.
 
 ## This day in history: October 22
 
@@ -109,9 +110,9 @@ Oct. 22 is not a federal or state holiday, so banks, schools, post offices and f
 
 Born on this day: Doris Lessing, the British novelist and 2007 Nobel Prize in Literature winner, in 1919, according to the Nobel Prize's biography.
 
-## On the calendar this week
+## On the calendar the week of Oct. 22
 
-| Date | What is happening |
+| Date | What was on |
 |---|---|
 | Thu., Oct. 22 | The Orionid meteor shower peaks before dawn; Florida's deadline to request a mail ballot |
 | Fri., Oct. 23 | [Mole Day](/news/mole-day-2026-october-23-6-02/), 6:02 a.m. to 6:02 p.m.; [World Series Game 1](/news/world-series-2026-schedule-game-times-tv-channel/), 8 p.m. Eastern Time (ET) on FOX |

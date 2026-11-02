@@ -4,6 +4,7 @@ seoTitle: "Texas Ballot 2026: Candidates for Senate and Governor"
 description: "Who is on the Texas ballot on Nov. 3, 2026: U.S. Senate, governor, attorney general and every statewide race and court seat, as certified by the state."
 type: explainer
 publishedAt: "2026-10-21T11:58:00-04:00"
+updatedAt: "2026-11-02T14:10:00-05:00"
 authors: [christina-gerland]
 category: elections
 keywords: ["Texas ballot 2026", "Texas candidates 2026", "Texas governor race 2026 candidates", "Texas Senate race 2026 candidates", "Texas propositions 2026"]
@@ -17,7 +18,7 @@ summary:
   - "Texas voters choose a U.S. senator, a governor and seven other statewide executive offices on Tuesday, Nov. 3, 2026, along with 10 seats on the Supreme Court, the Court of Criminal Appeals and the 15th Court of Appeals."
   - "The U.S. Senate candidates are Ken Paxton (Republican), James Talarico (Democrat) and Ted Brown (Libertarian). For governor: Greg Abbott (Republican), Gina Hinojosa (Democrat) and Pat Dixon (Libertarian)."
   - "There are no statewide propositions this year. Texas last voted on constitutional amendments on Nov. 4, 2025; cities, counties and school districts may still put local measures on your ballot."
-  - "Early voting ends Friday, Oct. 30. Polls are open 7 a.m. to 7 p.m. on Election Day, and there is no straight-ticket option."
+  - "Early voting ended Friday, Oct. 30. Polls are open 7 a.m. to 7 p.m. on Election Day, Tuesday, Nov. 3, and there is no straight-ticket option."
 faq:
   - q: "Who is running for governor of Texas in 2026?"
     a: "Republican Greg Abbott, Democrat Gina Hinojosa and Libertarian Pat Dixon, according to the Secretary of State's ballot certification of Aug. 28, 2026."
@@ -126,8 +127,8 @@ Not statewide. Texas usually votes on constitutional amendments in November of o
 
 | Date | What happens |
 |---|---|
-| Through Fri., Oct. 30 | Early voting at any early voting site in your county |
-| Fri., Oct. 23 | Applications for a ballot by mail must be received |
+| Fri., Oct. 23 (passed) | Last day for the clerk to receive an application for a ballot by mail |
+| Through Fri., Oct. 30 (ended) | Early voting at any early voting site in your county |
 | Tue., Nov. 3, 7 a.m.-7 p.m. | Election Day; mailed ballots due by 7 p.m. |
 | Wed., Nov. 4, 5 p.m. | A mailed ballot postmarked by 7 p.m. Nov. 3 still counts if it arrives by now |
 

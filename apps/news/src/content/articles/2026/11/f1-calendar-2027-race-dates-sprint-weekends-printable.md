@@ -4,6 +4,7 @@ seoTitle: "F1 Calendar 2027: 24 Races, 10 Sprint Weekends"
 description: "The 2027 Formula 1 (F1) calendar has 24 Grands Prix and 10 Sprint weekends, from Bahrain on Mar. 14 to Abu Dhabi on Dec. 12, with every race date in one table."
 type: news
 publishedAt: "2026-11-01T19:20:00-05:00"
+updatedAt: "2026-11-02T14:10:00-05:00"
 authors: [jessica-hartwell]
 category: sports
 keywords: ["F1 calendar 2027", "Formula 1 2027 schedule", "F1 2027 sprint races", "F1 2027 calendar printable"]
@@ -181,7 +182,7 @@ The longest gap is 35 days, from Hungary on Aug. 1 to Italy on Sept. 5. The next
 
 ## Are the 2026 races still to come?
 
-Yes. The 2026 season still has Las Vegas, Qatar and Abu Dhabi left. For those weekends, see the [Las Vegas Grand Prix 2026 race time by U.S. time zone](/news/las-vegas-grand-prix-2026-schedule-race-time-by-time-zone/) and the [Abu Dhabi Grand Prix 2026 schedule](/news/abu-dhabi-grand-prix-2026-schedule-race-time-by-time-zone/). To see the Bahrain and Saudi Arabia weekends by day, use the [March printable calendar](/march-calendars.html). Another 2027 season list, for the National Association for Stock Car Auto Racing (NASCAR), is the [NASCAR Cup schedule for 2027](/news/nascar-cup-schedule-2027-daytona-500-february-21-full-race-list/).
+Yes. The 2026 season still has São Paulo (Nov. 6-8), Las Vegas (Nov. 19-21), Qatar (Nov. 27-29) and Abu Dhabi (Dec. 4-6) left, per formula1.com. For those weekends, see the [São Paulo Grand Prix 2026 schedule](/news/sao-paulo-grand-prix-2026-schedule-race-time-by-time-zone/), the [Las Vegas Grand Prix 2026 race time by U.S. time zone](/news/las-vegas-grand-prix-2026-schedule-race-time-by-time-zone/) and the [Abu Dhabi Grand Prix 2026 schedule](/news/abu-dhabi-grand-prix-2026-schedule-race-time-by-time-zone/). To see the Bahrain and Saudi Arabia weekends by day, use the [March printable calendar](/march-calendars.html). Another 2027 season list, for the National Association for Stock Car Auto Racing (NASCAR), is the [NASCAR Cup schedule for 2027](/news/nascar-cup-schedule-2027-daytona-500-february-21-full-race-list/).
 
 ## What is not yet announced for 2027?
 

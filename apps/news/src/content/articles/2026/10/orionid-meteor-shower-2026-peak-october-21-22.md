@@ -4,7 +4,7 @@ seoTitle: "Orionids 2026 Active Through Nov. 7 After Oct. 22 Peak"
 description: "The Orionid meteor shower peaked Oct. 21-22 but stays active through Nov. 7, 2026. Watch after moonset before dawn; the Taurids and Leonids follow in November."
 type: news
 publishedAt: "2026-10-18T04:10:00-04:00"
-updatedAt: "2026-10-30T01:05:00-04:00"
+updatedAt: "2026-11-02T14:10:00-05:00"
 authors: [jessica-hartwell]
 category: sky-events
 keywords: ["Orionid meteor shower 2026 viewing times", "Orionid meteor shower tonight", "how to watch the Orionids", "Orionids peak time 2026", "meteor shower October 2026"]
@@ -15,15 +15,15 @@ hero:
   title: "Orionid meteor shower 2026 peak, Oct. 21-22"
   caption: "The Orionids appear to come from near Orion's raised club; the darkest skies on the Oct. 21-22 peak come after moonset."
 summary:
-  - "The Orionid meteor shower peaks the night of Wednesday, Oct. 21 into Thursday, Oct. 22, 2026, with up to about 20 meteors an hour under a dark sky."
-  - "A bright moon, about 86% lit, washes out the evening. The best viewing is from moonset, about 3 to 4 a.m. local time in most U.S. cities, until dawn twilight begins about 5:15 to 6:30 a.m."
+  - "The Orionid meteor shower peaked the night of Wednesday, Oct. 21 into Thursday, Oct. 22, 2026, with up to about 20 meteors an hour under a dark sky."
+  - "A bright moon, about 86% lit, washed out the evening. The best viewing was from moonset, about 3 to 4 a.m. local time in most U.S. cities, until dawn twilight begins about 5:15 to 6:30 a.m."
   - "Face southeast to south and look about halfway up the sky, 30 to 40 degrees away from Orion. No telescope or binoculars needed."
-  - "The mornings of Oct. 21 and Oct. 23 are nearly as good; the full Hunter's Moon follows at 12:12 a.m. EDT on Oct. 26."
+  - "The mornings of Oct. 21 and Oct. 23 were nearly as good; the full Hunter's Moon came at 12:12 a.m. EDT on Oct. 26."
 faq:
-  - q: "What time is the Orionid meteor shower tonight?"
-    a: "The best time is after the moon sets and before dawn on Thursday, Oct. 22. In most U.S. cities the moon sets between about 3 and 4 a.m. local time, and the sky stays dark until about 5:15 to 6:30 a.m. In New York that window is 3:13 to 5:43 a.m. EDT; in Chicago 3:09 to 5:38 a.m. CDT; in Los Angeles 3:22 to 5:40 a.m. PDT."
+  - q: "What time was the Orionid meteor shower peak on Oct. 22?"
+    a: "The best time was after the moon set and before dawn on Thursday, Oct. 22. In most U.S. cities the moon set between about 3 and 4 a.m. local time, and the sky stayed dark until about 5:15 to 6:30 a.m. In New York that window was 3:13 to 5:43 a.m. EDT; in Chicago 3:09 to 5:38 a.m. CDT; in Los Angeles 3:22 to 5:40 a.m. PDT."
   - q: "What time is the meteor shower in EST or PST?"
-    a: "Go by local time, not one national time. Meteors appear across the whole sky wherever it is dark, so the window is about 3 to 6 a.m. local time on both coasts: in Eastern Time cities from roughly 3:15 to 6 a.m., and in Pacific Time cities from roughly 3:20 to 5:55 a.m."
+    a: "Go by local time, not one national time. Meteors appear across the whole sky wherever it is dark, so the window on Oct. 22 was about 3 to 6 a.m. local time on both coasts: in Eastern Time cities from roughly 3:15 to 6 a.m., and in Pacific Time cities from roughly 3:20 to 5:55 a.m."
   - q: "How many meteors per hour will I see?"
     a: "The American Meteor Society lists a zenithal hourly rate of 20, the most you could see under a perfectly dark sky with the radiant overhead. From a dark rural site after moonset, 10 to 20 an hour is realistic; NASA says suburban viewers may see only 3 to 6."
   - q: "Do I need a telescope to see the Orionids?"
@@ -139,7 +139,7 @@ Meteor showers are usually strongest before dawn, because that side of Earth fac
 | Parent body | Comet 1P/Halley |
 | Moon on the peak morning | Waxing gibbous, about 86% lit (U.S. Naval Observatory) |
 
-The Orionids have a broad maximum, so the mornings of Oct. 21, 22 and 23 can all produce similar rates. If clouds cover the peak, try the morning before or after; moonset comes about an hour earlier on Oct. 21 and about an hour later on Oct. 23.
+The Orionids have a broad maximum, so the mornings of Oct. 21, 22 and 23 can all produce similar rates. If clouds covered the peak, the morning before or after was the alternative; moonset came about an hour earlier on Oct. 21 and about an hour later on Oct. 23.
 
 ## Where to look
 
@@ -147,7 +147,7 @@ The meteors seem to come from a point near the raised club of the constellation 
 
 ## How to watch: a short checklist
 
-1. **Check the sky.** Clouds matter more than anything else. If your forecast is cloudy for the peak, try Oct. 21 or Oct. 23.
+1. **Check the sky.** Clouds matter more than anything else. The shower is active through Nov. 7, so pick a clear morning before dawn.
 2. **Get away from lights.** A park, a beach or the edge of town with a wide view of the southeastern to southern sky beats a backyard under a streetlight.
 3. **Set an alarm for moonset.** Use the table above.
 4. **Let your eyes adjust.** Give yourself 20 to 30 minutes in the dark without looking at a phone. If you need light, use a red flashlight or your phone's red-light or night mode with the brightness down.
@@ -159,9 +159,9 @@ The meteors seem to come from a point near the raised club of the constellation 
 
 Halley's Comet sheds ice and dust each time it passes the sun. Earth crosses that stream of debris twice a year: in October, producing the Orionids, and in early May, producing the Eta Aquariids. Halley itself was last near the sun in 1986 and is expected back in 2061, so these meteors are the easiest way to see a piece of it before then.
 
-## The Hunter's Moon follows on Oct. 26
+## The Hunter's Moon came on Oct. 26
 
-October's full moon, traditionally called the Hunter's Moon, is full at 04:12 UTC on Monday, Oct. 26, 2026. In U.S. time zones that is:
+October's full moon, traditionally called the Hunter's Moon, was full at 04:12 UTC on Monday, Oct. 26, 2026. In U.S. time zones that was:
 
 | Time zone | Moment of full moon |
 |---|---|
@@ -170,7 +170,7 @@ October's full moon, traditionally called the Hunter's Moon, is full at 04:12 UT
 | Mountain | 10:12 p.m. MDT, Sunday, Oct. 25 |
 | Pacific | 9:12 p.m. PDT, Sunday, Oct. 25 |
 
-The moon looks full on both the evening of Oct. 25 and Oct. 26, rising in the east around sunset; our [Hunter's Moon guide](/news/hunters-moon-october-2026-full-moon-time/) has moonrise times for 20 cities.
+The moon looked full on both the evening of Oct. 25 and Oct. 26, rising in the east around sunset; our [Hunter's Moon guide](/news/hunters-moon-october-2026-full-moon-time/) has moonrise times for 20 cities.
 
 ## Other sky dates this autumn
 

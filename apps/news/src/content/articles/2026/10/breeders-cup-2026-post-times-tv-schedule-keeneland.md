@@ -1,10 +1,10 @@
 ---
 title: "Breeders' Cup 2026 Schedule at Keeneland: All 14 Post Times, TV Channels and the Classic at 6:16 p.m. ET"
 seoTitle: "Breeders' Cup 2026 Schedule: All 14 Post Times and TV"
-description: "The Breeders' Cup Classic 2026 post time is 6:16 p.m. Eastern Time (ET) on Saturday, Oct. 31 at Keeneland. All 14 race times, TV channels and a race tracker."
+description: "The Breeders' Cup Classic 2026 post time was 6:16 p.m. Eastern Time (ET) on Saturday, Oct. 31 at Keeneland. All 14 race times, TV channels and a race tracker."
 type: news
 publishedAt: "2026-10-25T20:19:00-04:00"
-updatedAt: "2026-10-29T15:20:00-04:00"
+updatedAt: "2026-11-02T14:10:00-05:00"
 authors: [jessica-hartwell]
 category: sports
 keywords: ["Breeders' Cup 2026 schedule", "Breeders' Cup Classic 2026 post time", "Breeders' Cup 2026 TV schedule", "Breeders' Cup race times", "Breeders' Cup Keeneland"]
@@ -21,10 +21,10 @@ hero:
     author: "Kenneth Dale Silvestri"
     authorUrl: "https://commons.wikimedia.org/w/index.php?title=User:Kenneth_Dale_Silvestri&amp;action=edit&amp;redlink=1"
 summary:
-  - "The Breeders' Cup World Championships run Friday, Oct. 30 and Saturday, Oct. 31, 2026, at Keeneland Race Course in Lexington, Ky., with 14 Grade 1 races."
-  - "The $7 million Longines Breeders' Cup Classic is Race 12 on Saturday with a post time of 6:16 p.m. Eastern Time (ET), the Breeders' Cup's final race order of Oct. 21 says."
-  - "The first Championship race each day: the Juvenile Turf Sprint at 2:55 p.m. ET Friday and the Filly & Mare Sprint at 1:10 p.m. ET Saturday."
-  - "USA Network and Peacock air 1 to 6 p.m. ET Friday. Saturday moves from USA Network to NBC and Peacock at 3:30 p.m. ET, the time some headlines give for the Classic."
+  - "The Breeders' Cup World Championships ran Friday, Oct. 30 and Saturday, Oct. 31, 2026, at Keeneland Race Course in Lexington, Ky., with 14 Grade 1 races."
+  - "The $7 million Longines Breeders' Cup Classic was Race 12 on Saturday with a post time of 6:16 p.m. Eastern Time (ET), the Breeders' Cup's final race order of Oct. 21 says."
+  - "The first Championship race each day was the Juvenile Turf Sprint at 2:55 p.m. ET Friday and the Filly & Mare Sprint at 1:10 p.m. ET Saturday."
+  - "USA Network and Peacock aired 1 to 6 p.m. ET Friday. Saturday moved from USA Network to NBC and Peacock at 3:30 p.m. ET, the time some headlines gave for the Classic."
 sources:
   - title: "Final 2026 Breeders' Cup Race Order, Post Times, & Wagering Menu Announced"
     url: "https://www.breederscup.com/news/2026/final-2026-breeders-cup-race-order-post-times-wagering-menu-Announced"
@@ -109,13 +109,13 @@ draft: false
 
 <p class="callout"><b>Last updated Oct. 29, 2026, 3:20 p.m. ET.</b> Added all 14 Championship post times, race numbers and purses from the Breeders' Cup's final race order, a printable race tracker, and why some listings say the Classic is "at 3:30 p.m."</p>
 
-**The 2026 Breeders' Cup Classic goes off at 6:16 p.m. Eastern Time (ET) on Saturday, Oct. 31, at Keeneland Race Course in Lexington, Ky., as Race 12 on the card, according to the final race order the Breeders' Cup released on Oct. 21.** The 14 Championship races are split across Friday, Oct. 30, with five races for 2-year-olds, and Saturday, Oct. 31, with nine. Every post time is below, with the TV channel for each block and a race tracker you can print and tick off.
+**The 2026 Breeders' Cup Classic was set to go off at 6:16 p.m. Eastern Time (ET) on Saturday, Oct. 31, at Keeneland Race Course in Lexington, Ky., as Race 12 on the card, according to the final race order the Breeders' Cup released on Oct. 21.** The 14 Championship races are split across Friday, Oct. 30, with five races for 2-year-olds, and Saturday, Oct. 31, with nine. Every post time is below, with the TV channel for each block and a race tracker you can print and tick off. This story does not report results; the Breeders' Cup site has them.
 
-## When is the Breeders' Cup 2026?
+## When was the Breeders' Cup 2026 held?
 
-The 43rd Breeders' Cup World Championships are Friday, Oct. 30 and Saturday, Oct. 31, 2026, at Keeneland. The Breeders' Cup says the two days carry 14 Grade 1 races and more than $34 million in purses and awards. Keeneland hosts for the fourth time, after 2015, 2020 and 2022.
+The 43rd Breeders' Cup World Championships were Friday, Oct. 30 and Saturday, Oct. 31, 2026, at Keeneland. The Breeders' Cup said the two days carried 14 Grade 1 races and more than $34 million in purses and awards. Keeneland hosted for the fourth time, after 2015, 2020 and 2022.
 
-Friday's 10-race card starts at 11:55 a.m. ET, with five undercard races before the first Championship race. Saturday's 12-race card starts at 11:15 a.m. ET, with three undercard races first.
+Friday's 10-race card started at 11:55 a.m. ET, with five undercard races before the first Championship race. Saturday's 12-race card started at 11:15 a.m. ET, with three undercard races first.
 
 ## Friday, Oct. 30 post times: Future Stars Friday
 
@@ -143,17 +143,17 @@ All five Friday races are for 2-year-olds. Race numbers and post times are from 
 | 5:36 p.m. | Race 11 | Longines Breeders' Cup Turf (G1) | $5 million |
 | 6:16 p.m. | Race 12 | Longines Breeders' Cup Classic (G1) | $7 million |
 
-NBC Sports' viewing guide, published Oct. 29, lists the same 14 post times. The Breeders' Cup notes that race order and post times are subject to change, so check its site on race day.
+NBC Sports' viewing guide, published Oct. 29, listed the same 14 post times. The Breeders' Cup noted that race order and post times were subject to change.
 
-## Is the Breeders' Cup Classic at 3:30 or 6:16 p.m.?
+## Was the Breeders' Cup Classic at 3:30 or 6:16 p.m.?
 
-The race itself is at 6:16 p.m. ET. NBC Sports' Oct. 28 press release headline says the Classic is "this Saturday, Oct. 31, at 3:30 p.m. ET on NBC and Peacock," and that time is when NBC's broadcast window opens. The same release says Saturday's coverage "begins at 1 p.m. ET on USA Network and Peacock and continues on NBC and Peacock at 3:30 p.m. ET." The Breeders' Cup describes the Classic as anchoring "a three-hour NBC broadcast window on Saturday (3:30-6:30 p.m. ET) as Race 12 with a post time of 6:16 p.m. ET."
+The race itself was set for 6:16 p.m. ET. NBC Sports' Oct. 28 press release headline said the Classic was "this Saturday, Oct. 31, at 3:30 p.m. ET on NBC and Peacock," and that time was when NBC's broadcast window opened. The same release said Saturday's coverage "begins at 1 p.m. ET on USA Network and Peacock and continues on NBC and Peacock at 3:30 p.m. ET." The Breeders' Cup described the Classic as anchoring "a three-hour NBC broadcast window on Saturday (3:30-6:30 p.m. ET) as Race 12 with a post time of 6:16 p.m. ET."
 
-Some third-party guides list other times, such as 6:25 p.m. for the Classic. We use the Breeders' Cup's own race order.
+Some third-party guides listed other times, such as 6:25 p.m. for the Classic. We used the Breeders' Cup's own race order.
 
-## What time is the Breeders' Cup Classic in my time zone?
+## What was the Classic post time in other time zones?
 
-Saturday, Oct. 31 is still on U.S. daylight time, so the table uses Eastern Daylight Time (EDT), Central Daylight Time (CDT), Mountain Daylight Time (MDT) and Pacific Daylight Time (PDT). The United Kingdom has been on Greenwich Mean Time (GMT) since Oct. 25. The conversions are ours, not the Breeders' Cup's.
+Saturday, Oct. 31 was still on U.S. daylight time, so the table uses Eastern Daylight Time (EDT), Central Daylight Time (CDT), Mountain Daylight Time (MDT) and Pacific Daylight Time (PDT). The United Kingdom had been on Greenwich Mean Time (GMT) since Oct. 25. The conversions are ours, not the Breeders' Cup's.
 
 | Place | Classic post time, Sat., Oct. 31 |
 |---|---|
@@ -163,9 +163,9 @@ Saturday, Oct. 31 is still on U.S. daylight time, so the table uses Eastern Dayl
 | Pacific | 3:16 p.m. PDT |
 | United Kingdom | 10:16 p.m. GMT |
 
-## What TV channel is the Breeders' Cup on?
+## What TV channel carried the Breeders' Cup?
 
-NBC Sports and Peacock carry 10 1/2 hours of live coverage with all 14 Championship races, the Breeders' Cup says.
+NBC Sports and Peacock carried 10 1/2 hours of live coverage with all 14 Championship races, the Breeders' Cup said.
 
 | Day | Time (ET) | Channel | Championship races in the window |
 |---|---|---|---|
@@ -173,15 +173,15 @@ NBC Sports and Peacock carry 10 1/2 hours of live coverage with all 14 Champions
 | Sat., Oct. 31 | 1 to 3:30 p.m. | USA Network and Peacock | Filly & Mare Sprint, Turf Sprint, Dirt Mile, Filly & Mare Turf |
 | Sat., Oct. 31 | 3:30 to 6:30 p.m. | NBC and Peacock | Sprint, Mile, Distaff, Turf, Classic |
 
-The race-by-window column is our reading of the post times against the broadcast windows. For every race on both cards, undercard included, the Breeders' Cup says FanDuel TV's "Breeders' Cup Players' Show" carries live, continuous coverage, also streamed on BreedersCup.com, the Breeders' Cup app, its YouTube, Facebook and X channels, and, new this year, Peacock.
+The race-by-window column is our reading of the post times against the broadcast windows. For every race on both cards, undercard included, the Breeders' Cup said FanDuel TV's "Breeders' Cup Players' Show" carried live, continuous coverage, also streamed on BreedersCup.com, the Breeders' Cup app, its YouTube, Facebook and X channels, and, new this year, Peacock.
 
-## Who is running in the 2026 Classic?
+## Who were the headliners of the 2026 Classic?
 
-The Breeders' Cup's Oct. 21 release names three headliners: Forever Young of Japan, the defending Classic winner; Sovereignty, last year's Kentucky Derby and Belmont Stakes winner and Horse of the Year; and Golden Tempo, this year's Kentucky Derby and Belmont Stakes winner. NBC Sports adds that Golden Tempo is trained by Cherie DeVaux, "the first woman to train a Kentucky Derby winner," and that Forever Young "looks to join Tiznow (2000-01) as the only back-to-back winners of the Classic." The final field and post positions are on the Breeders' Cup's entries page.
+The Breeders' Cup's Oct. 21 release named three headliners: Forever Young of Japan, the defending Classic winner; Sovereignty, last year's Kentucky Derby and Belmont Stakes winner and Horse of the Year; and Golden Tempo, this year's Kentucky Derby and Belmont Stakes winner. NBC Sports added before the race that Golden Tempo is trained by Cherie DeVaux, "the first woman to train a Kentucky Derby winner," and that Forever Young "looks to join Tiznow (2000-01) as the only back-to-back winners of the Classic."
 
-## Does Halloween change the plan for Saturday?
+## Where did the Classic fall on Halloween weekend?
 
-The Classic runs on Halloween evening, when trick-or-treating is under way in many towns. Our [Halloween 2026 sunset and trick-or-treat times](/news/halloween-2026-saturday-sunset-trick-or-treat-times/) story covers that evening. U.S. clocks also fall back at 2 a.m. on Sunday, Nov. 1, after the race. Another Halloween-weekend event is in our [Ultimate Fighting Championship (UFC) Fight Night start time](/news/ufc-fight-night-moicano-vs-nolan-halloween-start-time-how-to-watch/) story, and our [Mexico City Grand Prix 2026 schedule](/news/mexico-city-grand-prix-2026-schedule-race-time-by-time-zone/) story lists that weekend's sessions by time zone.
+The Classic ran on Halloween evening, Saturday, Oct. 31. Our [Halloween 2026 sunset and trick-or-treat times](/news/halloween-2026-saturday-sunset-trick-or-treat-times/) story covers that evening. U.S. clocks fell back at 2 a.m. on Sunday, Nov. 1, after the race. Another Halloween-weekend event was in our [Ultimate Fighting Championship (UFC) Fight Night start time](/news/ufc-fight-night-moicano-vs-nolan-halloween-start-time-how-to-watch/) story, and our [Mexico City Grand Prix 2026 schedule](/news/mexico-city-grand-prix-2026-schedule-race-time-by-time-zone/) story listed that weekend's sessions by time zone.
 
 ## Free Breeders' Cup 2026 race tracker
 

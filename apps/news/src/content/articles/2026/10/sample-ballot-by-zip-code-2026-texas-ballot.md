@@ -1,10 +1,10 @@
 ---
 title: "Printable Sample Ballot by ZIP Code 2026: Find Your Ballot in Every State, With Texas County Links"
 seoTitle: "Printable Sample Ballot by ZIP Code 2026"
-description: "Enter your ZIP code to find your official sample ballot in any state before Election Day, Tuesday, Nov. 3; Texas early voting ends Friday, Oct. 30."
+description: "Enter your ZIP code to find your official sample ballot in any state before Election Day, Tuesday, Nov. 3; Texas early voting ended Friday, Oct. 30."
 type: news
 publishedAt: "2026-10-19T07:50:00-04:00"
-updatedAt: "2026-10-29T03:50:00-04:00"
+updatedAt: "2026-11-02T14:10:00-05:00"
 authors: [christina-gerland]
 category: elections
 keywords: ["printable sample ballot by zip code 2026", "sample ballot by zip code", "sample ballot for my zip code", "printable sample ballot 2026", "Texas sample ballot 2026"]
@@ -28,7 +28,7 @@ hero:
     authorUrl: "https://www.flickr.com/people/70671301@N03"
 summary:
   - "Type your ZIP code in the finder below to get your state's official sample ballot lookup; a table lists the portal for all 50 states and Washington, D.C."
-  - "Election Day is Tuesday, Nov. 3, with Texas polls open 7 a.m. to 7 p.m.; Texas early voting ends Friday, Oct. 30, according to the Texas Secretary of State."
+  - "Election Day is Tuesday, Nov. 3, with Texas polls open 7 a.m. to 7 p.m.; Texas early voting ended Friday, Oct. 30, according to the Texas Secretary of State."
   - "In 18 states and Washington, D.C., the state portal shows your sample ballot; in most others your county, city or town elections office posts it."
   - "In 103 Texas counties, including Harris, Dallas, Tarrant, Bexar and Travis, you can vote at any vote center on Nov. 3; phones cannot be used in the voting room."
 faq:
@@ -45,11 +45,11 @@ faq:
   - q: "Can I print my sample ballot?"
     a: "Yes. Most county sample ballots are PDFs you can print. You can also copy your choices onto our free My Ballot Worksheet, a one-page printable with lines for each office and ballot measure."
   - q: "Is the sample ballot the same for early voting and Election Day?"
-    a: "Yes. Early voting uses the same ballot style as Election Day for your precinct, so the sample ballot you see now matches what you will get at an early voting site or on Nov. 3."
+    a: "Yes. Early voting uses the same ballot style as Election Day for your precinct, so the sample ballot you see now matches what you get at your polling place on Nov. 3."
   - q: "Where is my Texas sample ballot?"
     a: "On your county elections office website. Harris County lists it at HarrisVotes.com, and Dallas, Tarrant, Bexar, Travis and other large counties have their own lookups; the table in this story links 12 of them. The Texas Secretary of State's My Voter Portal shows your registration and polling places."
-  - q: "When is early voting in Texas for November 2026?"
-    a: "Monday, Oct. 19 through Friday, Oct. 30, 2026. You can vote at any early voting location in your county of registration. Election Day polls are open 7 a.m. to 7 p.m. on Tuesday, Nov. 3."
+  - q: "When was early voting in Texas for November 2026?"
+    a: "Monday, Oct. 19 through Friday, Oct. 30, 2026, and it has ended. Early voters could use any early voting location in their county of registration. Election Day polls are open 7 a.m. to 7 p.m. on Tuesday, Nov. 3."
   - q: "Can I bring my sample ballot into the voting booth in Texas?"
     a: "Yes. The Texas Secretary of State says voters may bring printed notes or a paper sample ballot to help them make their selections. You cannot use a phone, tablet or other wireless device in the room where voting takes place, so print or write your choices first."
   - q: "Do I have to vote at my precinct on Election Day in Texas?"
@@ -141,9 +141,9 @@ downloads:
 draft: false
 ---
 
-<p class="callout"><b>Last updated Oct. 29, 2026, 3:50 a.m. ET.</b> Added which large Texas counties use vote centers on Election Day, the state's early voting turnout and registration figures, and a state-by-state map of where sample ballots are posted.</p>
+<p class="callout"><b>Election Day is tomorrow, Tuesday, Nov. 3, 2026.</b> Texas early voting ended Friday, Oct. 30. This guide covers which large Texas counties use vote centers on Election Day, the state's early voting turnout and registration figures, and where sample ballots are posted in each state.</p>
 
-**To find the sample ballot for your ZIP code, enter your ZIP code below to get your state's official lookup for Nov. 3, 2026, then search there by street address and print your choices on our free worksheet.** Your sample ballot shows exactly what you will vote on, and in most of the country you can see it online today. In Texas, early voting runs through Friday, Oct. 30, according to the Texas Secretary of State, and sample ballots come from each county elections office rather than the state. On Election Day, Tuesday, Nov. 3, polls are open 7 a.m. to 7 p.m. statewide. Below: why a ZIP code alone can show the wrong races, the official lookup for every state, links for 12 large Texas counties, and free printables to take your choices with you.
+**To find the sample ballot for your ZIP code, enter your ZIP code below to get your state's official lookup for Nov. 3, 2026, then search there by street address and print your choices on our free worksheet.** Your sample ballot shows exactly what you will vote on, and in most of the country you can see it online today. In Texas, early voting ended Friday, Oct. 30, according to the Texas Secretary of State, and sample ballots come from each county elections office rather than the state. On Election Day, Tuesday, Nov. 3, polls are open 7 a.m. to 7 p.m. statewide. Below: why a ZIP code alone can show the wrong races, the official lookup for every state, links for 12 large Texas counties, and free printables to take your choices with you.
 
 ## Find your sample ballot by ZIP code
 
@@ -265,7 +265,7 @@ Texas heads into Nov. 3 with a record 19,041,684 registered voters, the Secretar
 
 **Your precinct.** Your precinct number is printed next to your year of birth on your voter registration certificate, according to VoteTexas.gov, and My Voter Portal lists your early voting and Election Day polling places. Your county's sample ballot is matched to that precinct.
 
-**Dates.** Early voting runs through Friday, Oct. 30, and you can use any early voting location in your county of registration. The deadline for an application for a ballot by mail to arrive, Friday, Oct. 23, has passed. A mailed ballot counts if it arrives by 7 p.m. on Nov. 3, or if it is postmarked by 7 p.m. that day and arrives by 5 p.m. on Wednesday, Nov. 4. On Election Day, polls are open 7 a.m. to 7 p.m. Counties in the state's Countywide Polling Place Program let you vote at any vote center in the county; in other counties you must go to your assigned precinct.
+**Dates.** Early voting ended Friday, Oct. 30; during it, voters could use any early voting location in their county of registration. The deadline for an application for a ballot by mail to arrive, Friday, Oct. 23, has passed. A mailed ballot counts if it arrives by 7 p.m. on Nov. 3, or if it is postmarked by 7 p.m. that day and arrives by 5 p.m. on Wednesday, Nov. 4. On Election Day, polls are open 7 a.m. to 7 p.m. Counties in the state's Countywide Polling Place Program let you vote at any vote center in the county; in other counties you must go to your assigned precinct.
 
 ![An I Voted sticker from Harris County with U.S. and Texas flags and the HarrisVotes.com address, held after early voting](../../../../assets/news/sample-ballot-by-zip-code-2026-texas-ballot/harris-county-i-voted-sticker.webp "Harris County I Voted sticker")
 
@@ -277,15 +277,15 @@ Texas heads into Nov. 3 with a record 19,041,684 registered voters, the Secretar
 
 **Your notes and phone.** "Voters may bring printed notes or a paper sample ballot to help them make their selections," the Secretary of State said in an Oct. 16 release. Texas law does not allow wireless devices such as phones, tablets or laptops to be used in the room where voting takes place, the Secretary of State says. Phones can be used outside that room as long as they are not recording. So if you plan your choices on a sample ballot app, write or print them first.
 
-## Early voting uses the same ballot
+## Early voting used the same ballot
 
-The ballot at an early voting site is the same ballot style you would get at your precinct on Election Day, so the sample ballot you look up now is the one to study either way. Early voting dates differ by state: Texas runs through Oct. 30, while Michigan's statewide minimum period is Oct. 24 to Nov. 1. Our [mail ballot deadline list](/news/mail-ballot-deadlines-2026-by-state/) covers the states that vote mostly by mail.
+The ballot at an early voting site is the same ballot style you would get at your precinct on Election Day, so the sample ballot you look up now is the one to study for Nov. 3. Early voting dates differed by state: Texas ran through Oct. 30, while Michigan's statewide minimum period was Oct. 24 to Nov. 1. Our [mail ballot deadline list](/news/mail-ballot-deadlines-2026-by-state/) covers the states that vote mostly by mail.
 
 ## Bring your choices on paper
 
 Our free ballot worksheet has a line for each common office and five lines for ballot measures. Copy your picks from the official sample ballot and take the sheet with you; that works in Texas and in states that are just as strict about phones. The one-page state lookup sheet puts every official portal on paper, and the voting plan covers the rest: when and where you will vote, the ID you will bring and how you will get there.
 
-Our [voter registration deadline report](/news/voter-registration-deadline-october-19-2026-early-voting/) lists the deadlines that have passed and the states that still allow same-day registration. Clocks fall back on Sunday, Nov. 1, two days before the election; the [daylight saving time story](/news/daylight-saving-time-ends-november-1-2026/) has the details.
+Our [voter registration deadline report](/news/voter-registration-deadline-october-19-2026-early-voting/) lists the deadlines that have passed and the states that still allow same-day registration. Clocks fell back on Sunday, Nov. 1, two days before the election; the [daylight saving time story](/news/daylight-saving-time-ends-november-1-2026/) has the details.
 
 ## State ballot guides
 
@@ -297,9 +297,9 @@ For Texas candidates, see our [Texas ballot guide](/news/texas-ballot-2026-candi
 |---|---|
 | Friday, Oct. 23 | Texas: last day for a mail ballot application to arrive (passed) |
 | Saturday, Oct. 24 | Early voting opens statewide in Michigan (passed) |
-| Friday, Oct. 30 | Last day of early voting in Texas |
-| Sunday, Nov. 1 | Clocks fall back one hour at 2 a.m. |
+| Friday, Oct. 30 | Last day of early voting in Texas (passed) |
+| Sunday, Nov. 1 | Clocks fell back one hour at 2 a.m. (passed) |
 | Tuesday, Nov. 3 | Election Day; Texas polls open 7 a.m. to 7 p.m. |
 | Wednesday, Nov. 4, 5 p.m. | Texas: last arrival for a mailed ballot postmarked by Nov. 3 |
 
-Mark your early voting day on an [October 2026 calendar](/october-calendars.html) or a [weekly planner](/printable-weekly-calendar.html), and keep Nov. 3 circled on the [November 2026 calendar](/november-calendars.html). If you are in line when your polls close, stay in line: you can still vote.
+Plan your Nov. 3 trip on a [weekly planner](/printable-weekly-calendar.html), and keep the day circled on the [November 2026 calendar](/november-calendars.html); the [October 2026 calendar](/october-calendars.html) shows the early voting weeks that just ended. If you are in line when your polls close, stay in line: you can still vote.

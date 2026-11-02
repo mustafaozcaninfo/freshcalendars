@@ -4,6 +4,7 @@ seoTitle: "Printable Pumpkin Carving Templates: 18 Free PDFs"
 description: "Print 18 free pumpkin carving templates, from a classic jack-o'-lantern to a skull and a black cat, each a one-page PDF tested so no piece falls out."
 type: explainer
 publishedAt: "2026-10-29T08:15:00-04:00"
+updatedAt: "2026-11-02T14:10:00-05:00"
 authors: [christina-gerland]
 category: holidays
 keywords: ["printable pumpkin carving templates", "pumpkin carving stencils", "free printable pumpkin stencils", "easy pumpkin carving templates", "scary pumpkin stencils"]
@@ -15,7 +16,7 @@ assets:
 hero:
   src: ../../../../assets/news/printable-pumpkin-carving-templates/printable-pumpkin-carving-templates.webp
   alt: "Two carved jack-o'-lanterns glowing in the dark, the kind of faces our printable pumpkin carving templates help you trace"
-  caption: "Two lit jack-o'-lanterns at night (file photo). Halloween 2026 falls on Saturday, Oct. 31; all 18 stencils below print on US Letter paper."
+  caption: "Two lit jack-o'-lanterns at night (file photo). Halloween 2026 was Saturday, Oct. 31; all 18 stencils below print on US Letter paper."
   credit: "Photo: Beth Teutschmann teutschmann / Wikimedia Commons, edited"
   license:
     name: "CC0"
@@ -232,7 +233,7 @@ related: [halloween-2026-saturday-sunset-trick-or-treat-times, halloween-2026-wh
 draft: false
 ---
 
-**Fresh Calendars has 18 free printable pumpkin carving templates below, 8 Easy and 10 Medium, each a one-page US Letter PDF you can print today.** Halloween 2026 falls on Saturday, Oct. 31, so there are two evenings left to carve. Pick a design from the tables, or print the [complete 19-page pack](/news/downloads/pumpkin-carving-templates/pumpkin-carving-stencils-all-18-designs-2026.pdf) with a cover sheet that shows all 18 side by side.
+**Fresh Calendars has 18 free printable pumpkin carving templates below, 8 Easy and 10 Medium, each a one-page US Letter PDF you can print any time.** Halloween 2026 was Saturday, Oct. 31; Halloween 2027 is Sunday, Oct. 31. Pick a design from the tables, or print the [complete 19-page pack](/news/downloads/pumpkin-carving-templates/pumpkin-carving-stencils-all-18-designs-2026.pdf) with a cover sheet that shows all 18 side by side.
 
 We drew every design ourselves for this page. Before publishing, a script rendered each stencil and checked two things that ruin a carved pumpkin: a piece of pumpkin that would fall out because the cuts surround it, and a strip of pumpkin narrower than 1/4 inch holding a larger piece in place. That is why the letters in Boo have gaps and the cat's whiskers stop short of its mouth. All 18 designs passed at actual size.
 
@@ -320,4 +321,4 @@ The CPSC also recommends battery-operated lights or glow sticks instead of an op
 
 ## Plan the rest of Halloween night
 
-Halloween is on a Saturday this year. Check [what time trick-or-treating starts](/news/halloween-2026-what-day-trick-or-treating-start/) in major cities and the [sunset and trick-or-treat times](/news/halloween-2026-saturday-sunset-trick-or-treat-times/) for Oct. 31. Hosting? Our [witches' brew punch recipe](/news/halloween-party-ideas-2026-witches-brew-punch/) comes with a printable party checklist. For the date in future years, see [when is Halloween](/when-is/halloween/), and plan the week ahead with the [November 2026 printable calendar](/november-calendars.html).
+Halloween was on a Saturday in 2026. See [what time trick-or-treating started](/news/halloween-2026-what-day-trick-or-treating-start/) in five cities and the [sunset and trick-or-treat times](/news/halloween-2026-saturday-sunset-trick-or-treat-times/) for Oct. 31. For hosting, our [witches' brew punch recipe](/news/halloween-party-ideas-2026-witches-brew-punch/) comes with a printable party checklist. For the date in future years, see [when is Halloween](/when-is/halloween/), and see the [November 2026 printable calendar](/november-calendars.html) for the month ahead.

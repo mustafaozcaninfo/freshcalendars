@@ -1,9 +1,10 @@
 ---
-title: "The Gilded Age Season 4 Premiere Time: Sunday, Nov. 1 at 9 p.m. on HBO, Streams on HBO Max"
+title: "The Gilded Age Season 4 Premiered Nov. 1 at 9 p.m. on HBO: Next HBO Dates in November"
 seoTitle: "The Gilded Age Season 4 Premiere Time and Date"
-description: "The Gilded Age Season 4 premieres Sunday, Nov. 1, 2026 at 9 p.m. Eastern Time (ET) and Pacific Time (PT) on HBO, per HBO. See all four HBO dates in November."
+description: "The Gilded Age Season 4 premiered Sunday, Nov. 1, 2026 at 9 p.m. Eastern Time (ET) and Pacific Time (PT) on HBO, per HBO. See the next three HBO dates."
 type: news
 publishedAt: "2026-10-30T12:40:00-04:00"
+updatedAt: "2026-11-02T14:10:00-05:00"
 authors: [jessica-hartwell]
 category: entertainment
 keywords: ["The Gilded Age season 4 release date", "Gilded Age season 4 premiere time", "what time does The Gilded Age come out on HBO Max", "new on HBO November 2026"]
@@ -29,7 +30,7 @@ assets:
 hero:
   src: ../../../../assets/news/the-gilded-age-season-4-premiere-time-november-1-hbo-max/the-gilded-age-season-4-premiere-time-november-1-hbo-max.webp
   alt: "The Gilded Age Season 4 premiere: The Breakers mansion in Newport, Rhode Island, from the Gilded Age era"
-  caption: "File photo of The Breakers in Newport, Rhode Island, a mansion from the era the HBO drama is named for. Season 4 debuts Sunday, Nov. 1 at 9 p.m. ET/PT."
+  caption: "File photo of The Breakers in Newport, Rhode Island, a mansion from the era the HBO drama is named for. Season 4 debuted Sunday, Nov. 1 at 9 p.m. ET/PT."
   credit: "Photo: UpstateNYer / Wikimedia Commons, cropped, edited"
   license:
     name: "CC BY-SA 3.0"
@@ -38,9 +39,9 @@ hero:
     author: "UpstateNYer"
     authorUrl: "https://commons.wikimedia.org/wiki/User:UpstateNYer"
 summary:
-  - "The Gilded Age Season 4 debuts Sunday, Nov. 1, 2026 at 9 p.m. Eastern Time (ET) and Pacific Time (PT) on HBO, per HBO's Oct. 13 release."
-  - "The eight-episode season will be available to stream on HBO Max; the release gives no streaming time."
-  - "HBO lists three more November dates: City of God season 2 on Nov. 8, When a Witness Recants on Nov. 17 and The Slightest Touch on Nov. 25."
+  - "The Gilded Age Season 4 debuted Sunday, Nov. 1, 2026 at 9 p.m. Eastern Time (ET) and Pacific Time (PT) on HBO, per HBO's Oct. 13 release."
+  - "HBO's release says the eight-episode season will be available to stream on HBO Max; it gives no streaming time."
+  - "HBO lists three more November dates, all still ahead: City of God season 2 on Nov. 8, When a Witness Recants on Nov. 17 and The Slightest Touch on Nov. 25."
 sources:
   - title: "HBO Releases Official Trailer For Season Four Of The Original Drama Series THE GILDED AGE, Debuting November 1"
     url: "https://press.wbd.com/us/media-release/hbo-0/hbo-releases-official-trailer-season-four-original-drama-series-gilded-age-debuting"
@@ -87,13 +88,13 @@ downloads:
 draft: false
 ---
 
-The Gilded Age Season 4 premieres this Sunday, Nov. 1, 2026, at 9 p.m. Eastern Time (ET) and Pacific Time (PT) on HBO, per HBO's press release, and streams on HBO Max. HBO's Oct. 13, 2026 release calls it an eight-episode fourth season from creator Julian Fellowes and says it debuts Sunday, Nov. 1 at 9:00 p.m. ET/PT on HBO.
+The Gilded Age Season 4 premiered on Sunday, Nov. 1, 2026, at 9 p.m. Eastern Time (ET) and Pacific Time (PT) on HBO, per HBO's press release, which says it also streams on HBO Max. HBO's Oct. 13, 2026 release calls it an eight-episode fourth season from creator Julian Fellowes and says it debuted Sunday, Nov. 1 at 9:00 p.m. ET/PT on HBO.
 
-Below are the premiere time by U.S. time zone, the other three dates HBO has announced for November 2026, and what HBO Max costs. The dates are also on a one-page printable.
+Below are the premiere time by U.S. time zone, the other three dates HBO has announced for the rest of November 2026, and what HBO Max costs. The dates are also on a one-page printable.
 
-## What time does The Gilded Age Season 4 premiere on HBO?
+## What time did The Gilded Age Season 4 premiere on HBO?
 
-HBO lists one time for the premiere, 9:00 p.m. ET/PT. The table shows what HBO states and what it leaves out.
+HBO listed one time for the premiere, 9:00 p.m. ET/PT. The table shows what HBO states and what it leaves out.
 
 | Where | Premiere time on Sunday, Nov. 1, 2026 |
 |---|---|
@@ -102,19 +103,19 @@ HBO lists one time for the premiere, 9:00 p.m. ET/PT. The table shows what HBO s
 | HBO, Central and Mountain Time | Not listed in the release |
 | HBO Max | "Available to stream"; no streaming time listed |
 
-U.S. clocks also fall back at 2 a.m. that Sunday, hours before the premiere.
+U.S. clocks also fell back at 2 a.m. that Sunday, hours before the premiere.
 
-## When does The Gilded Age Season 4 come out on HBO Max?
+## When does The Gilded Age Season 4 stream on HBO Max?
 
-HBO says the season "will be available to stream on HBO Max." The release we could read gives no streaming time and does not say whether episodes reach HBO Max at the same minute as the HBO broadcast, so check the HBO Max app on Sunday evening.
+HBO says the season "will be available to stream on HBO Max." The release we could read gives no streaming time and does not say whether episodes reach HBO Max at the same minute as the HBO broadcast, so check the HBO Max app.
 
 ## How many episodes does The Gilded Age Season 4 have, and when are they?
 
-HBO's release says the fourth season has eight episodes and debuts Nov. 1. HBO has not posted the episode-by-episode dates in the release we could read, so this story lists the premiere only. It does not give a finale date or episode titles.
+HBO's release says the fourth season has eight episodes and debuted Nov. 1. HBO has not posted the episode-by-episode dates in the release we could read, so this story lists the premiere only. It does not give a finale date or episode titles.
 
 ## What else is new on HBO in November 2026?
 
-HBO's media releases list three more November dates. Weekdays below are checked against the 2026 calendar.
+HBO's media releases list three more November dates after the premiere. Weekdays below are checked against the 2026 calendar.
 
 | Date | Title | What HBO says |
 |---|---|---|

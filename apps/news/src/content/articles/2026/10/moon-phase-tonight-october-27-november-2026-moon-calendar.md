@@ -1,16 +1,17 @@
 ---
-title: "Moon Phase Tonight, Oct. 27, 2026: 97% Lit, Rising 6:39 p.m. EDT, Plus a Daily Moon Calendar to Nov. 30"
+title: "Moon Phase Nov. 2, 2026: Waning Crescent, 41% Lit, Plus a Daily Moon Calendar to Nov. 30"
 seoTitle: "Moon Phase Tonight and November 2026 Moon Calendar"
-description: "Tonight, Oct. 27, 2026, the Moon is a waning gibbous, 97% lit, rising 6:39 p.m. Eastern Daylight Time (EDT) in New York, says the U.S. Naval Observatory (USNO)."
+description: "On Nov. 2, 2026 the Moon is a waning crescent, 41% lit, with no moonrise that date in New York, says the U.S. Naval Observatory (USNO). Calendar to Nov. 30."
 type: explainer
 publishedAt: "2026-10-27T13:44:00-04:00"
+updatedAt: "2026-11-02T14:10:00-05:00"
 authors: [jessica-hartwell]
 category: sky-events
 keywords: ["moon phase tonight", "moon tonight", "moon phase October 27 2026", "moon phases November 2026", "moon calendar November 2026"]
 hero:
   src: ../../../../assets/news/moon-phase-tonight-october-27-november-2026-moon-calendar/moon-phase-tonight-october-27-november-2026-moon-calendar.webp
-  alt: "Moon phase tonight: a waning gibbous Moon with craters lit along its edge against a black sky, the phase of Oct. 27, 2026"
-  caption: "A waning gibbous Moon (file photo). Tonight's Moon is 97% lit and rises at 6:39 p.m. EDT in New York, according to the U.S. Naval Observatory."
+  alt: "A waning gibbous Moon with craters lit along its edge against a black sky"
+  caption: "A waning gibbous Moon (file photo). On Nov. 2 the Moon is a waning crescent, 41% lit, according to the U.S. Naval Observatory."
   credit: "Photo: Astroclubkosova / Wikimedia Commons, cropped, edited"
   license:
     name: "CC0"
@@ -18,19 +19,19 @@ hero:
     source: "https://commons.wikimedia.org/wiki/File:Waning_Gibbous_Moon_%E2%80%93_High-Resolution_Lunar_Imaging.jpg"
     author: "Astroclubkosova"
 summary:
-  - "Tonight, Tuesday, Oct. 27, 2026, the Moon is a waning gibbous, 97% lit, and rises at 6:39 p.m. Eastern Daylight Time (EDT) in New York, per the U.S. Naval Observatory (USNO)."
+  - "On Monday, Nov. 2, 2026, the Moon is a waning crescent, 41% lit, with no moonrise that date in New York; it sets at 1:37 p.m. and next rises at 12:26 a.m. on Nov. 3, per the U.S. Naval Observatory (USNO)."
   - "Last quarter is at 3:28 p.m. Eastern Standard Time (EST) on Sunday, Nov. 1, the new moon at 2:02 a.m. EST on Monday, Nov. 9, and first quarter at 6:48 a.m. EST on Tuesday, Nov. 17."
   - "November's full moon, the Beaver Moon, is at 9:53 a.m. EST on Tuesday, Nov. 24; that evening it rises at 4:16 p.m. in New York."
   - "The table below gives phase, percent lit, moonrise and moonset for New York every day from Oct. 27 to Nov. 30, with the Nov. 1 clock change handled."
 faq:
-  - q: "What is the moon phase tonight, Oct. 27, 2026?"
-    a: "A waning gibbous, 97% lit, according to the U.S. Naval Observatory. In New York it rises at 6:39 p.m. EDT."
+  - q: "What is the moon phase on Nov. 2, 2026?"
+    a: "A waning crescent, 41% lit, according to the U.S. Naval Observatory. In New York the Moon sets at 1:37 p.m. EST and does not rise again until 12:26 a.m. on Tuesday, Nov. 3."
   - q: "When is the next new moon?"
     a: "Monday, Nov. 9, 2026, at 2:02 a.m. EST, which is 07:02 Universal Time (UT), per the U.S. Naval Observatory."
   - q: "When is the full moon in November 2026?"
     a: "Tuesday, Nov. 24, 2026, at 9:53 a.m. EST (14:53 UT). The Moon rises that day at 4:16 p.m. in New York."
   - q: "How much of the Moon is lit on Halloween 2026?"
-    a: "On Saturday, Oct. 31, the Moon is a waning gibbous, 63% lit, and rises at 10:59 p.m. EDT in New York."
+    a: "On Saturday, Oct. 31, the Moon was a waning gibbous, 63% lit, and rose at 10:59 p.m. EDT in New York."
   - q: "Does the Nov. 1 clock change affect moonrise times?"
     a: "The USNO times in the table are local clock time: Eastern Daylight Time through Saturday, Oct. 31 and Eastern Standard Time from Sunday, Nov. 1. Moonrise on Nov. 1 is 11:14 p.m. EST, against 10:59 p.m. EDT on Oct. 31."
 sources:
@@ -52,9 +53,9 @@ internalLinks:
 related: [hunters-moon-october-2026-full-moon-time, supermoon-2026-beaver-moon-cold-moon-geminids-solstice, november-2026-meteor-showers-taurids-leonids]
 assets:
   overlay: true
-  kicker: "Moon tonight · Tue., Oct. 27, 2026"
+  kicker: "Moon phase · Mon., Nov. 2, 2026"
   date: "2026-10-27"
-  card: { top: "Moon phase tonight, 97% lit", big: "6:39 p.m. EDT", bottom: "Moonrise in New York, USNO" }
+  card: { top: "Moon phase Nov. 2, 41% lit", big: "12:26 a.m.", bottom: "Next moonrise in New York, USNO" }
   printable:
     slug: moon-calendar-oct-27-nov-30-2026
     group: moon-calendar-2026
@@ -116,15 +117,15 @@ downloads:
 draft: false
 ---
 
-**Tonight, Tuesday, Oct. 27, 2026, the Moon is a waning gibbous, 97% lit, and rises at 6:39 p.m. Eastern Daylight Time (EDT) in New York**, according to the U.S. Naval Observatory (USNO). It sets at 10:32 a.m. on Wednesday. The full moon was early Monday, Oct. 26, so tonight's Moon is one day past full; see our [Hunter's Moon story](/news/hunters-moon-october-2026-full-moon-time/) for that moment.
+**On Monday, Nov. 2, 2026, the Moon is a waning crescent, 41% lit, and has no moonrise that date in New York**, according to the U.S. Naval Observatory (USNO). It sets at 1:37 p.m. and next rises at 12:26 a.m. on Tuesday, Nov. 3, so it is not up this evening. Last quarter was at 3:28 p.m. Eastern Standard Time (EST) on Sunday, Nov. 1, and the full moon was early Monday, Oct. 26, at 12:12 a.m. Eastern Daylight Time (EDT); see our [Hunter's Moon story](/news/hunters-moon-october-2026-full-moon-time/) for that moment.
 
 The calendar below runs day by day from Oct. 27 to Nov. 30, 2026, using USNO data for New York City. It also handles the clock change: daylight saving time ends at 2 a.m. on Sunday, Nov. 1, so times through Oct. 31 are EDT and times from Nov. 1 are Eastern Standard Time (EST). The [daylight saving time page](/when-is/daylight-savings/) has the rule.
 
-## What is the Moon tonight in other cities?
+## Moonrise in other cities on Oct. 27
 
-USNO gives the same 97% for tonight in London. Moonrise is local time, and the UK clocks went back on Oct. 25.
+USNO gave the same 97% for Oct. 27 in London. Moonrise is local time, and the UK clocks went back on Oct. 25.
 
-| City | Moonrise tonight, Oct. 27 |
+| City | Moonrise on Oct. 27 |
 |---|---|
 | New York | 6:39 p.m. EDT |
 | Toronto | 6:50 p.m. EDT |
@@ -132,7 +133,7 @@ USNO gives the same 97% for tonight in London. Moonrise is local time, and the U
 | Los Angeles | 7:03 p.m. Pacific Daylight Time (PDT) |
 | London | 4:47 p.m. Greenwich Mean Time (GMT) |
 
-## When are the main moon phases from now to December?
+## Main moon phases from Oct. 26 to December 1
 
 | Phase | Eastern time | Universal Time (UT) |
 |---|---|---|
@@ -190,11 +191,11 @@ Times through Sat., Oct. 31 are EDT; from Sun., Nov. 1 they are EST. The printab
 
 ## What does the Moon look like on Halloween and Thanksgiving?
 
-On Saturday, Oct. 31, the Moon is a waning gibbous, 63% lit, and rises at 10:59 p.m. EDT in New York, so it is not up for early trick-or-treating. Our [Halloween sunset times](/news/halloween-2026-saturday-sunset-trick-or-treat-times/) story covers the evening light. On Thanksgiving, Thursday, Nov. 26, the Moon is 93% lit and rises at 6:26 p.m. EST.
+On Saturday, Oct. 31, the Moon was a waning gibbous, 63% lit, and rose at 10:59 p.m. EDT in New York, so it was not up for early trick-or-treating. Our [Halloween sunset times](/news/halloween-2026-saturday-sunset-trick-or-treat-times/) story covers the evening light. On Thanksgiving, Thursday, Nov. 26, the Moon is 93% lit and rises at 6:26 p.m. EST.
 
 ## How does the clock change shift moonrise?
 
-Moonrise on Saturday, Oct. 31 is 10:59 p.m. EDT, and on Sunday, Nov. 1 it is 11:14 p.m. EST, a gap of 15 minutes on the clock. Our [November sunset times story](/news/sunset-times-after-daylight-saving-time-ends-2026/) shows the same shift for the Sun. Plan around the local time on each row of the table, not the day before's.
+Moonrise on Saturday, Oct. 31 was 10:59 p.m. EDT, and on Sunday, Nov. 1 it was 11:14 p.m. EST, a gap of 15 minutes on the clock. Our [November sunset times story](/news/sunset-times-after-daylight-saving-time-ends-2026/) shows the same shift for the Sun. Plan around the local time on each row of the table, not the day before's.
 
 ## Other sky dates this month
 

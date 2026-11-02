@@ -4,7 +4,7 @@ seoTitle: "Hunter's Moon 2026: Full Moon Time and Moonrise"
 description: "The Hunter's Moon is full at 12:12 a.m. EDT Monday, Oct. 26, 2026, or 9:12 p.m. PDT Sunday. Moonrise times for 20 U.S. cities and the next full moons."
 type: explainer
 publishedAt: "2026-10-20T01:25:00-04:00"
-updatedAt: "2026-10-30T01:05:00-04:00"
+updatedAt: "2026-11-02T14:10:00-05:00"
 authors: [jessica-hartwell]
 category: sky-events
 keywords: ["Hunter's Moon 2026", "full moon October 2026", "October 2026 full moon time", "moonrise tonight", "Beaver Moon November 2026"]
@@ -13,21 +13,21 @@ hero:
   src: ../../../../assets/news/hunters-moon-october-2026-full-moon-time/hunters-moon-october-2026-full-moon-time.jpg
   alt: "Hunter's Moon 2026: a large orange full moon rising over a dark pine forest, with a card reading full at 12:12 a.m. EDT on Monday, Oct. 26"
   title: "Hunter's Moon, Oct. 26, 2026"
-  caption: "October's full moon, the Hunter's Moon, is full at 12:12 a.m. EDT on Monday, Oct. 26, 2026, so Sunday evening, Oct. 25, is the best night to watch it rise."
+  caption: "October's full moon, the Hunter's Moon, was full at 12:12 a.m. EDT on Monday, Oct. 26, 2026, so Sunday evening, Oct. 25, was the best night to watch it rise."
 summary:
-  - "The Hunter's Moon is full at 12:12 a.m. Eastern Daylight Time on Monday, Oct. 26, 2026, according to the U.S. Naval Observatory (USNO)."
-  - "That is 11:12 p.m. CDT, 10:12 p.m. MDT and 9:12 p.m. PDT on Sunday, Oct. 25, so Sunday night is the night to look up in every U.S. time zone."
-  - "On Sunday the moon rises at 5:26 p.m. in New York, 5:19 p.m. in Chicago and 5:39 p.m. in Los Angeles, close to sunset."
+  - "The Hunter's Moon was full at 12:12 a.m. Eastern Daylight Time on Monday, Oct. 26, 2026, according to the U.S. Naval Observatory (USNO)."
+  - "That was 11:12 p.m. CDT, 10:12 p.m. MDT and 9:12 p.m. PDT on Sunday, Oct. 25, so Sunday night was the night to look up in every U.S. time zone."
+  - "On Sunday the moon rose at 5:26 p.m. in New York, 5:19 p.m. in Chicago and 5:39 p.m. in Los Angeles, close to sunset."
   - "The next full moons are the Beaver Moon on Nov. 24 and the Cold Moon on the evening of Dec. 23."
 faq:
-  - q: "What time is the full moon on Oct. 26, 2026?"
-    a: "12:12 a.m. EDT on Monday, Oct. 26, which is 04:12 Coordinated Universal Time. In the Central, Mountain and Pacific time zones the moment falls on Sunday evening, Oct. 25."
-  - q: "Which night is best to see the Hunter's Moon?"
-    a: "Sunday, Oct. 25. The moon rises in the east around sunset and is full a few hours later. Monday evening, Oct. 26, is nearly as good, with the moon 99% lit and rising about half an hour later."
+  - q: "What time was the full moon on Oct. 26, 2026?"
+    a: "12:12 a.m. EDT on Monday, Oct. 26, which was 04:12 Coordinated Universal Time. In the Central, Mountain and Pacific time zones the moment fell on Sunday evening, Oct. 25."
+  - q: "Which night was best to see the Hunter's Moon?"
+    a: "Sunday, Oct. 25. The moon rose in the east around sunset and was full a few hours later. Monday evening, Oct. 26, was nearly as good, with the moon 99% lit and rising about half an hour later."
   - q: "Why is it called the Hunter's Moon?"
     a: "It is the full moon after the Harvest Moon. The Old Farmer's Almanac says the name reflects the seasonal shift from gathering crops to preparing meat for winter."
-  - q: "Will there be a full moon on Halloween 2026?"
-    a: "No. On Saturday, Oct. 31, the moon is a waning gibbous, about 63% lit, and it does not rise until about 11 p.m. in most U.S. cities."
+  - q: "Was there a full moon on Halloween 2026?"
+    a: "No. On Saturday, Oct. 31, the moon was a waning gibbous, about 63% lit, and it did not rise until about 11 p.m. in most U.S. cities."
   - q: "When is the next full moon after the Hunter's Moon?"
     a: "The Beaver Moon is full at 9:53 a.m. EST on Tuesday, Nov. 24, 2026. The Cold Moon follows at 8:28 p.m. EST on Wednesday, Dec. 23."
 sources:
@@ -37,6 +37,10 @@ sources:
   - title: "Sun and Moon Rise/Set/Transit Times for One Day"
     url: "https://aa.usno.navy.mil/data/RS_OneDay"
     publisher: "U.S. Naval Observatory, Astronomical Applications Department"
+  - title: "What's Up: November 2026 Skywatching Tips from NASA"
+    url: "https://science.nasa.gov/solar-system/skywatching/whats-up-november-2026-skywatching-tips-from-nasa/"
+    publisher: "NASA"
+    date: "2026-11-02"
   - title: "Full Hunter's Moon October 2026: Date, Meaning, and Folklore"
     url: "https://www.almanac.com/content/full-moon-october"
     publisher: "The Old Farmer's Almanac"
@@ -62,7 +66,7 @@ draft: false
 
 <p class="callout"><b>Updated Oct. 30, 2026, 1:05 a.m. ET.</b> The Hunter's Moon has passed; it was full at 12:12 a.m. Eastern Daylight Time on Monday, Oct. 26, 2026, per the U.S. Naval Observatory. The next full moon is the Beaver Moon at 9:53 a.m. EST on Tuesday, Nov. 24, 2026.</p>
 
-**October's full moon, the Hunter's Moon, is full at 12:12 a.m. Eastern Daylight Time on Monday, Oct. 26, 2026**, according to the U.S. Naval Observatory (USNO). Everywhere west of the Eastern time zone, that moment falls on Sunday evening, Oct. 25, which makes Sunday the night to watch the moon come up in the east around sunset.
+**October's full moon, the Hunter's Moon, was full at 12:12 a.m. Eastern Daylight Time on Monday, Oct. 26, 2026**, according to the U.S. Naval Observatory (USNO). Everywhere west of the Eastern time zone, that moment fell on Sunday evening, Oct. 25, which made Sunday the night to watch the moon come up in the east around sunset.
 
 ## When the moon is full, by time zone
 
@@ -76,7 +80,7 @@ draft: false
 | Alaska (AKDT) | 8:12 p.m. Sunday, Oct. 25 |
 | Hawaii (HST) | 6:12 p.m. Sunday, Oct. 25 |
 
-The full moon is a single instant, 04:12 Coordinated Universal Time. To the eye, the moon looks full for about a day on either side of it.
+The full moon is a single instant, which was 04:12 Coordinated Universal Time on Oct. 26. To the eye, the moon looks full for about a day on either side of it.
 
 ## Moonrise on Sunday and Monday
 
@@ -98,17 +102,17 @@ The full moon is a single instant, 04:12 Coordinated Universal Time. To the eye,
 
 Local times for each city center, from USNO rise and set data. The printable below covers 20 cities.
 
-On Sunday the moon clears the horizon before or right at sunset in most cities, so it appears low, large-looking and orange-tinted in twilight. That color comes from sunlight passing through more of Earth's atmosphere near the horizon; the size is an illusion, since the moon is no closer when it is low.
+On Sunday the moon cleared the horizon before or right at sunset in most cities, so it appeared low, large-looking and orange-tinted in twilight. That color comes from sunlight passing through more of Earth's atmosphere near the horizon; the size is an illusion, since the moon is no closer when it is low.
 
 ## Why it is called the Hunter's Moon
 
 The Hunter's Moon is the first full moon after the Harvest Moon, which was full on Sept. 26 this year. The Old Farmer's Almanac describes the name as marking the seasonal shift from gathering crops to preparing meat for winter. The almanac also lists Native American names for October's moon, including the Falling Leaves Moon (Anishinaabe), the Migrating Moon (Cree) and the Drying Rice Moon (Dakota).
 
-Like the Harvest Moon, it rises at a similar time on several evenings in a row at northern latitudes. In New York, moonrise is only 32 minutes later on Monday than on Sunday, compared with the average gap of about 50 minutes between moonrises.
+Like the Harvest Moon, it rises at a similar time on several evenings in a row at northern latitudes. In New York, moonrise was only 32 minutes later on Monday than on Sunday, compared with the average gap of about 50 minutes between moonrises.
 
 ## No full moon on Halloween
 
-By Halloween, Saturday, Oct. 31, the moon has waned to about 63% lit. It rises around 11 p.m. in most U.S. cities: 10:59 p.m. in New York, 10:52 p.m. in Chicago and 11:24 p.m. in Los Angeles. Trick-or-treating, on the last evening before clocks fall back on Nov. 1, will be dark; see our [Halloween sunset times](/news/halloween-2026-saturday-sunset-trick-or-treat-times/).
+By Halloween, Saturday, Oct. 31, the moon had waned to about 63% lit. It rose around 11 p.m. in most U.S. cities: 10:59 p.m. in New York, 10:52 p.m. in Chicago and 11:24 p.m. in Los Angeles. Trick-or-treating, on the last evening before clocks fell back on Nov. 1, was dark; see our [Halloween sunset times](/news/halloween-2026-saturday-sunset-trick-or-treat-times/).
 
 ## The next full moons
 
@@ -119,8 +123,8 @@ By Halloween, Saturday, Oct. 31, the moon has waned to about 63% lit. It rises a
 
 The Cold Moon rises in New York on Dec. 23 at 3:58 p.m. and is still 99% lit on Christmas Eve. For every full moon of next year, see our [2027 moon phases calendar](/news/moon-phases-2027-full-moon-calendar/).
 
-## Other sky events this week
+## Other sky events around the Hunter's Moon
 
-The Orionid meteor shower peaks the night of Oct. 21-22, while the moon is still waxing; our [Orionid guide](/news/orionid-meteor-shower-2026-peak-october-21-22/) explains how to watch after moonset. The Taurids and Leonids follow in November; see [November meteor showers](/news/november-2026-meteor-showers-taurids-leonids/).
+The Orionid meteor shower peaked the night of Oct. 21-22, while the moon was still waxing; our [Orionid guide](/news/orionid-meteor-shower-2026-peak-october-21-22/) explained how to watch after moonset. The Taurids and Leonids follow in November: NASA's November 2026 skywatching guide, published Nov. 2, puts the Southern Taurid peak around Nov. 5 and the Leonids in the early mornings of Nov. 17 and 18; see [November meteor showers](/news/november-2026-meteor-showers-taurids-leonids/).
 
 Mark the dates on our [October](/october-calendars.html), [November](/november-calendars.html) and [December](/december-calendars.html) printable calendars, and print the moon phase calendar below.

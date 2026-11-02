@@ -4,6 +4,7 @@ seoTitle: "LSAT Test Dates 2026-27 and Registration Deadlines"
 description: "Law School Admission Test (LSAT) dates for 2026-27: Nov. 11-14, Jan. 13-16, Feb. 12-13, April 8-10 and June 9-12, with every deadline and score day."
 type: explainer
 publishedAt: "2026-10-19T11:32:00-04:00"
+updatedAt: "2026-11-02T14:10:00-05:00"
 authors: [aaron-kessler]
 category: school-calendars
 keywords: ["LSAT test dates 2026-27", "LSAT dates 2027", "LSAT registration deadline", "January 2027 LSAT", "LSAT score release dates"]
@@ -16,7 +17,7 @@ hero:
 summary:
   - "The Law School Admission Council (LSAC) offers the Law School Admission Test (LSAT) on Nov. 11-14, 2026, and in January, February, April and June 2027."
   - "Registration for November closed Oct. 1; the next deadline is Dec. 1, 2026, for the Jan. 13-16 exam."
-  - "Scheduling for the November test opens Oct. 27, and November scores come out Dec. 2."
+  - "Scheduling for the November test opened Oct. 27, and November scores come out Dec. 2."
   - "A separate February administration in Puerto Rico runs Feb. 18-20, 2027."
 faq:
   - q: "When is the next LSAT?"
@@ -59,7 +60,7 @@ draft: false
 
 | Test dates | Register by | Scheduling opens | Writing opens | Scores released |
 |---|---|---|---|---|
-| Nov. 11-14, 2026 | Oct. 1 (closed) | Oct. 27 | Nov. 3 | Dec. 2 |
+| Nov. 11-14, 2026 | Oct. 1 (closed) | Oct. 27 (opened) | Nov. 3 | Dec. 2 |
 | Jan. 13-16, 2027 | Dec. 1, 2026 | Dec. 22, 2026 | Jan. 5 | Feb. 3 |
 | Feb. 12-13, 2027 | Dec. 29, 2026 | Jan. 26 | Feb. 4 | March 3 |
 | Feb. 18-20, 2027 (Puerto Rico) | Jan. 5 | Feb. 2 | Feb. 10 | March 10 |
@@ -82,4 +83,4 @@ Law schools that admit on a rolling basis review files from the fall, so many ap
 
 ## Other exams on the calendar
 
-Medical school applicants should note that [Medical College Admission Test (MCAT) registration for 2027 opens Oct. 20](/news/mcat-2027-test-dates-registration-opens-october-20/). For high school students, see the [SAT and ACT dates for 2026-27](/news/sat-act-test-dates-2026-27-registration-deadlines/). Count study weeks on our [2027 week numbers calendar](/news/week-numbers-2027-calendar-printable/), and plan the months on the [January](/january-calendars.html) and [April](/april-calendars.html) printable calendars or the [2027 printable yearly calendar](/printable-yearly-calendar.html). The free printable below lists every LSAT deadline.
+Medical school applicants should note that [Medical College Admission Test (MCAT) registration for 2027 opened Oct. 20](/news/mcat-2027-test-dates-registration-opens-october-20/). For high school students, see the [SAT and ACT dates for 2026-27](/news/sat-act-test-dates-2026-27-registration-deadlines/). Count study weeks on our [2027 week numbers calendar](/news/week-numbers-2027-calendar-printable/), and plan the months on the [January](/january-calendars.html) and [April](/april-calendars.html) printable calendars or the [2027 printable yearly calendar](/printable-yearly-calendar.html). The free printable below lists every LSAT deadline.

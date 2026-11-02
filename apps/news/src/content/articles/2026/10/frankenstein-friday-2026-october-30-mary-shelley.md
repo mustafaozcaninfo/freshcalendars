@@ -1,9 +1,10 @@
 ---
-title: "Frankenstein Friday 2026 Is Oct. 30: How Mary Shelley Began the Novel at 18, and a Free Reading Sheet"
+title: "Frankenstein Friday 2026 Was Oct. 30: How Mary Shelley Began the Novel at 18, and a Free Reading Sheet"
 seoTitle: "Frankenstein Friday 2026: Oct. 30 and a Reading Sheet"
-description: "Frankenstein Friday is Oct. 30, 2026, the last Friday of October. Where Mary Shelley began the novel, how the book differs from the films, and a reading sheet."
+description: "Frankenstein Friday was Oct. 30, 2026, the last Friday of October. Where Mary Shelley began the novel, how the book differs from the films, and a reading sheet."
 type: explainer
 publishedAt: "2026-10-29T15:20:00-04:00"
+updatedAt: "2026-11-02T14:10:00-05:00"
 authors: [christina-gerland]
 category: holidays
 keywords: ["Frankenstein Friday 2026", "Frankenstein Friday", "Mary Shelley Frankenstein", "Frankenstein book vs movie", "Frankenstein printable"]
@@ -20,13 +21,13 @@ hero:
     author: "Romano1246"
     authorUrl: "https://commons.wikimedia.org/wiki/User:Romano1246"
 summary:
-  - "Frankenstein Friday is the last Friday of October, which in 2026 is Oct. 30, the day before Halloween. It is an informal observance with no documented founder."
+  - "Frankenstein Friday is the last Friday of October, which in 2026 was Oct. 30, the day before Halloween. It is an informal observance with no documented founder."
   - "Mary Shelley was 18 when a \"waking dream\" during an 1816 ghost-story contest near Lake Geneva started the novel, the National Library of Medicine (NLM) says."
   - "Frankenstein; or, The Modern Prometheus appeared anonymously in 1818. Shelley never named the creature; Frankenstein is the scientist, Victor."
   - "Both the 1818 and the 1831 texts are free to read on Project Gutenberg, which lists the book as public domain in the United States."
 faq:
   - q: "When is Frankenstein Friday 2026?"
-    a: "Friday, Oct. 30, 2026. The observance falls on the last Friday of October, so it moves between Oct. 25 and Oct. 31."
+    a: "Friday, Oct. 30, 2026, which has passed. The observance falls on the last Friday of October, so it moves between Oct. 25 and Oct. 31."
   - q: "Who started Frankenstein Friday?"
     a: "We found no documented founder. Some calendar sites name a person and a year, but we could not confirm the claim with a primary source, so we leave it out."
   - q: "Is Frankenstein the monster's name?"
@@ -116,7 +117,7 @@ downloads:
 draft: false
 ---
 
-**Frankenstein Friday falls on Friday, Oct. 30, 2026, the last Friday of October and the day before Halloween.** Libraries and museums use the day for Mary Shelley's 1818 novel *Frankenstein; or, The Modern Prometheus*. The Moraine Valley Community College Library in Illinois describes it as "a day devoted to Mary Shelley's iconic novel." No founder is documented; some calendar sites name one, but we found no primary record, so we leave the name out. Below: how the book began, what it says that the films changed, where to read it free, and a printable reading sheet.
+**Frankenstein Friday was Friday, Oct. 30, 2026, the last Friday of October and the day before Halloween.** Libraries and museums use the day for Mary Shelley's 1818 novel *Frankenstein; or, The Modern Prometheus*. The Moraine Valley Community College Library in Illinois describes it as "a day devoted to Mary Shelley's iconic novel." No founder is documented; some calendar sites name one, but we found no primary record, so we leave the name out. Below: how the book began, what it says that the films changed, where to read it free, and a printable reading sheet.
 
 ## When is Frankenstein Friday?
 
@@ -130,7 +131,7 @@ The rule is the last Friday of October, so the date moves. Our count for the nex
 | 2029 | Friday, Oct. 26 | 5 |
 | 2030 | Friday, Oct. 25 | 6 |
 
-This year it shares the date with National Candy Corn Day, covered in our [Candy Corn Day 2026 story](/news/national-candy-corn-day-2026-october-30/). The full Halloween date answer is on [when is Halloween](/when-is/halloween/).
+In 2026 it shared the date with National Candy Corn Day, covered in our [Candy Corn Day 2026 story](/news/national-candy-corn-day-2026-october-30/). The full Halloween date answer is on [when is Halloween](/when-is/halloween/).
 
 ## How did Mary Shelley come to write Frankenstein?
 
@@ -165,8 +166,8 @@ Project Gutenberg lists the novel as public domain in the United States and offe
 
 ## Ways to mark Frankenstein Friday
 
-Read the first letters aloud, or the chapter where the creature first opens its eye. Compare a scene in the book with a film you know, using the table above. Draw your own creature rather than copying a film's makeup. Central Michigan University's Museum of Cultural and Natural History lists a free, family Frankenstein Friday program in Rowe Hall on its Oct. 30 events page, its sixth year; check that page for times. For the Halloween night itself, see our [Halloween 2026 sunset and trick-or-treat times](/news/halloween-2026-saturday-sunset-trick-or-treat-times/), and for a party, our [witches' brew punch checklist](/news/halloween-party-ideas-2026-witches-brew-punch/).
+Read the first letters aloud, or the chapter where the creature first opens its eye. Compare a scene in the book with a film you know, using the table above. Draw your own creature rather than copying a film's makeup. Central Michigan University's Museum of Cultural and Natural History listed a free, family Frankenstein Friday program in Rowe Hall on its Oct. 30 events page, its sixth year. For Halloween night itself, see our [Halloween 2026 sunset and trick-or-treat times](/news/halloween-2026-saturday-sunset-trick-or-treat-times/), and for a party, our [witches' brew punch checklist](/news/halloween-party-ideas-2026-witches-brew-punch/).
 
 ## Free Frankenstein Friday reading and activity sheet
 
-The printable puts the story on one US Letter page: a five-date timeline from 1816 to 1931, three reading stops, four discussion questions, a book-or-film comparison, and space to write or draw. Every fact on it comes from this story's sources. An ink-saver version prints in black and white. Plan the weekend on your [October 2026 printable calendar](/october-calendars.html).
+The printable puts the story on one US Letter page: a five-date timeline from 1816 to 1931, three reading stops, four discussion questions, a book-or-film comparison, and space to write or draw. Every fact on it comes from this story's sources. An ink-saver version prints in black and white. The [October 2026 printable calendar](/october-calendars.html) shows where the date fell.

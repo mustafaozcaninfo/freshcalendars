@@ -4,6 +4,7 @@ seoTitle: "Winter Wonderland 2026: Dates, Opening Times, Tickets"
 description: "Hyde Park Winter Wonderland 2026 opens Thursday, Nov. 19 and runs to Sunday, Jan. 3, 2027, closed Dec. 25. Opening times in Greenwich Mean Time (GMT) by date."
 type: news
 publishedAt: "2026-10-27T21:42:00-04:00"
+updatedAt: "2026-11-02T14:10:00-05:00"
 authors: [christina-gerland]
 category: uk-canada
 keywords: ["Winter Wonderland 2026 dates", "Hyde Park Winter Wonderland opening times", "when does Winter Wonderland open 2026", "Winter Wonderland tickets 2026"]
@@ -22,7 +23,7 @@ summary:
   - "Hyde Park Winter Wonderland 2026 is open every day from Thursday, Nov. 19, 2026 to Sunday, Jan. 3, 2027, apart from Christmas Day, according to its official website."
   - "It opens at 10 a.m. unless a date is listed with a later start; every evening it is open until 10 p.m. London time."
   - "Entry tickets are sold in one-hour slots, and Off-Peak slots are free to enter, but you must still book a ticket."
-  - "The 2026 run starts 5 days later than the 2025 run (Nov. 14) and ends 2 days later (Jan. 1, 2025 run), by our calculation from The Royal Parks."
+  - "The 2026 run starts 5 days later than the 2025 run (Nov. 14) and ends 2 days later (Jan. 1, 2026 close), by our calculation from The Royal Parks."
 faq:
   - q: "When does Winter Wonderland open in 2026?"
     a: "Thursday, Nov. 19, 2026, and it runs to Sunday, Jan. 3, 2027, according to Hyde Park Winter Wonderland and The Royal Parks. It opens at 12 p.m. on the first two days."

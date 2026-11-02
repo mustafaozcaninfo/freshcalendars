@@ -1,9 +1,10 @@
 ---
-title: "Soccer on TV This Weekend, Oct. 30-Nov. 2, 2026: Bayern vs. Dortmund, Milan Derby, U.S. Times and Channels"
-seoTitle: "Soccer on TV This Weekend: Oct. 30-Nov. 2, 2026"
-description: "European soccer on TV this weekend in Eastern Time (ET): Bayern vs. Dortmund, Milan vs. Inter and 46 more games from five leagues, with U.S. channels."
+title: "Soccer on TV, Oct. 30-Nov. 2, 2026: Bayern vs. Dortmund, Milan Derby, U.S. Channels"
+seoTitle: "Soccer on TV, Oct. 30-Nov. 2, 2026: U.S. Channels"
+description: "European soccer on U.S. TV, Oct. 30-Nov. 2, 2026, in Eastern Time (ET): Bayern vs. Dortmund, Milan vs. Inter and 46 more games from five leagues, with channels."
 type: news
 publishedAt: "2026-10-30T05:30:00-04:00"
+updatedAt: "2026-11-02T14:10:00-05:00"
 authors: [jessica-hartwell]
 category: sports
 keywords: ["soccer on TV this weekend", "european soccer schedule this weekend", "bayern vs dortmund time", "milan vs inter time", "how to watch la liga serie a bundesliga in the us"]
@@ -53,8 +54,8 @@ assets:
     alt: "Printable soccer on TV sheet for Oct. 30 to Nov. 2, 2026, listing European league matches with Eastern kickoff times and U.S. channels"
 hero:
   src: ../../../../assets/news/soccer-on-tv-this-weekend-october-30-november-2-2026-us-channels/soccer-on-tv-this-weekend-october-30-november-2-2026-us-channels.webp
-  alt: "Fans and banners at San Siro in Milan during a Milan derby, for soccer on TV this weekend"
-  caption: "File photo: a Milan derby at San Siro. AC Milan host Inter at 3:45 p.m. ET on Saturday, Oct. 31, 2026, on CBS Sports Golazo Network."
+  alt: "Fans and banners at San Siro in Milan during a Milan derby, for soccer on TV, Oct. 30-Nov. 2"
+  caption: "File photo: a Milan derby at San Siro. AC Milan hosted Inter at 3:45 p.m. ET on Saturday, Oct. 31, 2026, on CBS Sports Golazo Network."
   credit: "Photo: Milanellopv / Wikimedia Commons, cropped, edited"
   license:
     name: "CC BY-SA 4.0"
@@ -62,10 +63,10 @@ hero:
     source: "https://commons.wikimedia.org/wiki/File:San_Siro_MilanDerby7.jpg"
     author: "Milanellopv"
 summary:
-  - "Bayern Munich host Borussia Dortmund at 1:30 p.m. Eastern Time (ET) on Saturday, Oct. 31, 2026, and AC Milan host Inter at 3:45 p.m. ET on CBS Sports Golazo Network."
+  - "Bayern Munich hosted Borussia Dortmund at 1:30 p.m. Eastern Time (ET) on Saturday, Oct. 31, 2026, and AC Milan hosted Inter at 3:45 p.m. ET on CBS Sports Golazo Network."
   - "In the U.S., La Liga is on ESPN+, Serie A on Paramount+ and CBS channels, the Bundesliga on USA Network and free on Fandango, Ligue 1 on beIN Sports and the Premier League on NBC, USA Network and Peacock."
-  - "Liverpool v Arsenal is at 11:30 a.m. ET on Sunday on Peacock, and Juventus v Napoli at 2:45 p.m. ET on Paramount+."
-  - "U.S. clocks fall back on Sunday, Nov. 1, so European kickoffs move one hour earlier in ET from Sunday: a 3 p.m. game in Madrid is 9 a.m. ET on Saturday but 8 a.m. ET on Sunday."
+  - "Liverpool v Arsenal was at 11:30 a.m. ET on Sunday on Peacock, and Juventus v Napoli at 2:45 p.m. ET on Paramount+."
+  - "U.S. clocks fell back on Sunday, Nov. 1, so European kickoffs moved one hour earlier in ET from Sunday: a 3 p.m. game in Madrid was 9 a.m. ET on Saturday but 8 a.m. ET on Sunday."
 downloads:
   - group: "Soccer on TV printables"
     title: "Soccer on TV, Oct. 30-Nov. 2, 2026"
@@ -91,7 +92,7 @@ faq:
   - q: "Where can I watch La Liga in the U.S. this season?"
     a: "ESPN+ streams all 380 La Liga matches in 2026-27, and ESPN Deportes carries at least 200, according to LaLiga."
   - q: "Why are Sunday's kickoffs an hour earlier in Eastern Time?"
-    a: "Europe left summer time on Oct. 25 and the U.S. falls back on Nov. 1. From Sunday, Spain, Italy, Germany and France are six hours ahead of ET instead of five."
+    a: "Europe left summer time on Oct. 25 and the U.S. fell back on Nov. 1. From Sunday, Spain, Italy, Germany and France were six hours ahead of ET instead of five."
 sources:
   - title: "Resultados de la Jornada 11 de LALIGA EA SPORTS 2026/27"
     url: "https://www.laliga.com/laliga-easports/resultados/2026-27/jornada-11"
@@ -131,7 +132,7 @@ related: [nwsl-playoffs-2026-schedule-decision-day-quarterfinals-championship-no
 draft: false
 ---
 
-**Forty-eight games from Europe's top five leagues are on U.S. TV and streaming from Friday, Oct. 30 to Monday, Nov. 2, 2026, led by Bayern Munich vs. Borussia Dortmund at 1:30 p.m. Eastern Time (ET) and AC Milan vs. Inter at 3:45 p.m. ET on Saturday, according to the Bundesliga and CBS Sports.** Below: where each league streams in the U.S., the five biggest games, and every kickoff in ET and Pacific Time (PT).
+**Forty-eight games from Europe's top five leagues were on U.S. TV and streaming from Friday, Oct. 30 to Monday, Nov. 2, 2026, led by Bayern Munich vs. Borussia Dortmund at 1:30 p.m. Eastern Time (ET) and AC Milan vs. Inter at 3:45 p.m. ET on Saturday, according to the Bundesliga and CBS Sports.** Below: where each league streamed in the U.S., five featured games, and every kickoff in ET and Pacific Time (PT).
 
 We took kickoff times from each league's own match data, which gives them in Coordinated Universal Time (UTC), and converted them; for Serie A we used CBS Sports, the league's U.S. rights holder, which lists times in ET.
 
@@ -143,15 +144,15 @@ We took kickoff times from each league's own match data, which gives them in Coo
 | Serie A (Italy) | Matchday 10 | Paramount+, CBS Sports Network and CBS Sports Golazo Network, per CBS Sports' listings | Not listed |
 | Bundesliga (Germany) | Matchday 8 | USA Network, at least 30 matches a season; the rest free on Fandango | Telemundo and Universo; all matches on Peacock |
 | Ligue 1 (France) | Matchday 9 | beIN Sports, at least four live matches each round | Not listed |
-| Premier League (England) | This weekend's round | NBC, USA Network and Peacock, per NBC Sports | Not covered here |
+| Premier League (England) | Oct. 30-Nov. 2 round | NBC, USA Network and Peacock, per NBC Sports | Not covered here |
 
 The La Liga figures come from LaLiga, the Bundesliga deal from the Bundesliga's July 16 announcement, and the Ligue 1 deal, which runs through 2028-29, from a beIN Media Group renewal reported by the trade publication Produ.
 
-## The five biggest games this weekend
+## Five featured games, Oct. 30-Nov. 2
 
-1. **Bayern Munich vs. Borussia Dortmund**, Saturday, 1:30 p.m. ET (10:30 a.m. PT). Der Klassiker kicks off at 6:30 p.m. in Munich. We could not confirm whether USA Network or Fandango carries it; check USA Network's guide first. Opta's prediction and the last five meetings are in our [Bayern vs. Dortmund match guide](/news/bayern-vs-dortmund-prediction-last-5-matches-where-to-watch-2026/).
-2. **AC Milan vs. Inter**, Saturday, 3:45 p.m. ET (12:45 p.m. PT), on CBS Sports Golazo Network. The Milan derby is at San Siro.
-3. **Liverpool v Arsenal**, Sunday, 11:30 a.m. ET (8:30 a.m. PT), on Peacock, per NBC Sports. Every Premier League match this weekend is in our [Premier League fixtures](/news/premier-league-fixtures-this-weekend-october-31-november-2-2026-kickoff-times-tv/) story.
+1. **Bayern Munich vs. Borussia Dortmund**, Saturday, 1:30 p.m. ET (10:30 a.m. PT). Der Klassiker kicked off at 6:30 p.m. in Munich. We could not confirm whether USA Network or Fandango carried it. Opta's prediction and the last five meetings are in our [Bayern vs. Dortmund match guide](/news/bayern-vs-dortmund-prediction-last-5-matches-where-to-watch-2026/).
+2. **AC Milan vs. Inter**, Saturday, 3:45 p.m. ET (12:45 p.m. PT), on CBS Sports Golazo Network. The Milan derby was at San Siro.
+3. **Liverpool v Arsenal**, Sunday, 11:30 a.m. ET (8:30 a.m. PT), on Peacock, per NBC Sports. Every Premier League match of the weekend is in our [Premier League fixtures](/news/premier-league-fixtures-this-weekend-october-31-november-2-2026-kickoff-times-tv/) story.
 4. **Juventus vs. Napoli**, Sunday, 2:45 p.m. ET (11:45 a.m. PT), on Paramount+.
 5. **Racing Santander vs. Real Madrid**, Sunday, 10:15 a.m. ET (7:15 a.m. PT), on ESPN+. Barcelona host Alavés on Saturday at 4 p.m. ET.
 
@@ -186,7 +187,7 @@ The La Liga figures come from LaLiga, the Bundesliga deal from the Bundesliga's 
 
 ## Sunday, Nov. 1: soccer on TV
 
-U.S. clocks fall back at 2 a.m., so these are Eastern Standard Time (EST) and Pacific Standard Time (PST).
+U.S. clocks fell back at 2 a.m., so these are Eastern Standard Time (EST) and Pacific Standard Time (PST).
 
 | ET | PT | Match | League | U.S. TV |
 |---|---|---|---|---|
@@ -219,12 +220,12 @@ The "beIN Sports" rows mean the league's U.S. home; beIN shows at least four liv
 
 ## Why kickoffs move an hour earlier on Sunday
 
-Spain, Italy, Germany and France left summer time on Oct. 25 and are on Central European Time (CET), one hour ahead of UTC. On Friday and Saturday the U.S. East Coast is still on daylight time, so CET is five hours ahead of ET. U.S. clocks fall back at 2 a.m. on Sunday, Nov. 1, and from then on the gap is six hours. That is why La Liga's 2 p.m. Madrid slot is 9 a.m. ET on Saturday and 8 a.m. ET on Sunday. The [daylight saving time page](/when-is/daylight-savings/) has the U.S. date.
+Spain, Italy, Germany and France left summer time on Oct. 25 and are on Central European Time (CET), one hour ahead of UTC. On Friday and Saturday the U.S. East Coast was still on daylight time, so CET was five hours ahead of ET. U.S. clocks fell back at 2 a.m. on Sunday, Nov. 1, and from then on the gap is six hours. That is why La Liga's 2 p.m. Madrid slot was 9 a.m. ET on Saturday and 8 a.m. ET on Sunday. The [daylight saving time page](/when-is/daylight-savings/) has the U.S. date.
 
 ## What comes next: the Champions League
 
-Midweek brings Champions League matchday 4 on Tuesday, Nov. 3, and Wednesday, Nov. 4, at 12:45 and 3 p.m. ET; our [Champions League November schedule](/news/champions-league-november-2026-schedule-kickoff-times-et-matchday-4-5/) has the slots. Saturday's American sports are in [sports on TV today, Oct. 31](/news/sports-on-tv-today-october-31-2026/).
+Champions League matchday 4 is on Tuesday, Nov. 3, and Wednesday, Nov. 4, at 12:45 and 3 p.m. ET; our [Champions League November schedule](/news/champions-league-november-2026-schedule-kickoff-times-et-matchday-4-5/) has the slots. Saturday's American sports are in [sports on TV today, Oct. 31](/news/sports-on-tv-today-october-31-2026/).
 
 ## Printable soccer TV guide
 
-The one-page sheet lists every kickoff window from Friday to Monday in ET with the league and U.S. channel, and a tick box for each. Keep it beside the [October 2026 printable calendar](/october-calendars.html) and the [November 2026 printable calendar](/november-calendars.html). Kickoff times can move for TV, so check your app before the game.
+The one-page sheet lists every kickoff window from Friday to Monday in ET with the league and U.S. channel, and a tick box for each. Keep it beside the [October 2026 printable calendar](/october-calendars.html) and the [November 2026 printable calendar](/november-calendars.html). Kickoff times could move for TV.

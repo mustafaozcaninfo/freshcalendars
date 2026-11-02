@@ -1,10 +1,10 @@
 ---
-title: "Self Assessment Deadline 31 January 2027: Paper Return 31 October 2026, Penalties and Payment Dates"
+title: "Self Assessment Deadline 31 January 2027: Online Return, Payment Dates and Late Penalties"
 seoTitle: "Self Assessment Deadline 31 January 2027: Dates, Penalties"
-description: "HM Revenue and Customs (HMRC) must receive paper tax returns by 31 October 2026; online returns and payment are due 31 January 2027, GOV.UK says."
+description: "The paper return date of 31 October 2026 has passed; HM Revenue and Customs (HMRC) needs online returns and payment by 31 January 2027, GOV.UK says."
 type: news
 publishedAt: "2026-10-26T18:44:00-04:00"
-updatedAt: "2026-11-01T04:47:00-05:00"
+updatedAt: "2026-11-02T14:10:00-05:00"
 authors: [christina-gerland]
 category: uk-canada
 keywords: ["self assessment deadline 2027", "self assessment deadline 31 january 2027", "paper tax return deadline 31 october 2026", "self assessment late filing penalty", "hmrc tax return deadline"]
@@ -12,17 +12,17 @@ dateline: "London"
 hero:
   src: ../../../../assets/news/self-assessment-deadline-31-january-2027-tax-return-penalties/self-assessment-deadline-31-january-2027-tax-return-penalties.jpg
   alt: "Self Assessment deadline 2027 card showing the online tax return date of 31 January 2027 and the paper return date of 31 October 2026"
-  caption: "The online Self Assessment return for 2025 to 2026 is due by 11:59pm on 31 January 2027, per GOV.UK; paper returns are due 31 October 2026."
+  caption: "The online Self Assessment return for 2025 to 2026 is due by 11:59pm on 31 January 2027, per GOV.UK; the paper return deadline was 31 October 2026."
 summary:
-  - "GOV.UK says HM Revenue and Customs (HMRC) must receive a paper Self Assessment return by 11:59pm on 31 October 2026, a Saturday."
+  - "GOV.UK says HM Revenue and Customs (HMRC) had to receive a paper Self Assessment return by 11:59pm on 31 October 2026, a Saturday; that date has passed."
   - "The online return and the tax owed are both due by 11:59pm on 31 January 2027, a Sunday. To pay through your tax code, file online by 11:59pm on 30 December 2026."
   - "A return filed late draws a £100 penalty first, then £10 a day after 3 months up to £900, then further charges at 6 and 12 months."
   - "Our calculation from the GOV.UK rules puts the first £100 penalty on 1 February 2027 and the £900 daily maximum at about 29 July 2027."
 faq:
   - q: "What is the Self Assessment deadline in 2027?"
     a: "GOV.UK says you must submit your online tax return by 11:59pm on 31 January 2027 for the 2025 to 2026 tax year. You must also pay the tax you owe by 11:59pm that day."
-  - q: "What is the paper tax return deadline for 2026?"
-    a: "GOV.UK says HMRC must receive your paper tax return by 11:59pm on 31 October 2026."
+  - q: "What was the paper tax return deadline for 2026?"
+    a: "GOV.UK says HMRC had to receive your paper tax return by 11:59pm on 31 October 2026. That date has passed; the online deadline is 11:59pm on 31 January 2027."
   - q: "How much is the penalty for a late Self Assessment return?"
     a: "GOV.UK lists an initial £100 penalty if the return is up to 3 months late. After 3 months it adds £10 a day up to a maximum of £900."
   - q: "What if I missed the 5 October 2026 deadline to register?"
@@ -102,22 +102,22 @@ downloads:
 draft: false
 ---
 
-**HM Revenue and Customs (HMRC) must receive a paper Self Assessment tax return by 11:59pm on 31 October 2026, and the online return and the tax owed are both due by 11:59pm on 31 January 2027**, according to the GOV.UK deadlines page. These dates are for the 2025 to 2026 tax year, which ran from 6 April 2025 to 5 April 2026. This story adds a weekday table, a computed calendar of the late filing penalties, and a one-page printable timeline.
+**HM Revenue and Customs (HMRC) had to receive a paper Self Assessment tax return by 11:59pm on 31 October 2026, and the online return and the tax owed are both due by 11:59pm on 31 January 2027**, according to the GOV.UK deadlines page. These dates are for the 2025 to 2026 tax year, which ran from 6 April 2025 to 5 April 2026. This story adds a weekday table, a computed calendar of the late filing penalties, and a one-page printable timeline.
 
 ## What are the Self Assessment deadlines for 2025 to 2026?
 
-GOV.UK sets four dates for this return. Two of them fall on a weekend, so check the day before you plan around them.
+GOV.UK sets four dates for this return, and the first, 31 October 2026, has passed. Two of them fall on a weekend, so check the day before you plan around them.
 
 | Deadline | Date | Weekday (our calculation) | What GOV.UK says |
 |---|---|---|---|
-| Paper return | 31 October 2026 | Saturday | HMRC must receive it by 11:59pm |
+| Paper return | 31 October 2026 | Saturday | HMRC had to receive it by 11:59pm |
 | Online return to pay through your tax code | 30 December 2026 | Wednesday | Submit it by 11:59pm |
 | Online return | 31 January 2027 | Sunday | Submit it by 11:59pm |
 | Pay the tax you owe | 31 January 2027 | Sunday | You must still pay by 11:59pm |
 
 Source: GOV.UK, Self Assessment tax returns: Deadlines, fetched 26 October 2026.
 
-The paper deadline comes first, and GOV.UK says HMRC must receive the paper form by then. The [January 2027 printable calendar](/january-calendars.html) shows where 31 January falls in the week.
+The paper deadline came first, and GOV.UK says HMRC had to receive the paper form by then. The [January 2027 printable calendar](/january-calendars.html) shows where 31 January falls in the week.
 
 ## Can I still register if I missed 5 October 2026?
 

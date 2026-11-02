@@ -4,6 +4,7 @@ seoTitle: "NASCAR Championship 2026 Start Time and TV Schedule"
 description: "The National Association for Stock Car Auto Racing (NASCAR) Cup title race is Sunday, Nov. 8, 2026, 3 p.m. Eastern Time (ET) on NBC at Homestead-Miami Speedway."
 type: news
 publishedAt: "2026-10-30T00:36:00-04:00"
+updatedAt: "2026-11-02T14:10:00-05:00"
 authors: [jessica-hartwell]
 category: sports
 keywords: ["NASCAR championship 2026 start time", "NASCAR Homestead 2026 TV schedule", "NASCAR championship race time Nov. 8", "Homestead-Miami championship weekend 2026"]
@@ -22,7 +23,7 @@ hero:
 summary:
   - "The National Association for Stock Car Auto Racing (NASCAR) lists its Cup Series championship race for Sunday, Nov. 8, 2026, at 3 p.m. Eastern Time (ET) on NBC, at Homestead-Miami Speedway."
   - "The Truck Series finale is Friday, Nov. 6, at 7:30 p.m. ET on Fox Sports 1 (FS1), and the O'Reilly Auto Parts Series finale is Saturday, Nov. 7, at 5 p.m. ET on The CW."
-  - "U.S. Daylight Saving Time (DST) ends Sunday, Nov. 1, so the whole weekend is on standard time: the Cup race is 2 p.m. Central Time (CT), 1 p.m. Mountain Time (MT) and noon Pacific Time (PT), by our conversion."
+  - "U.S. Daylight Saving Time (DST) ended Sunday, Nov. 1, so the whole weekend is on standard time: the Cup race is 2 p.m. Central Time (CT), 1 p.m. Mountain Time (MT) and noon Pacific Time (PT), by our conversion."
   - "These are the start times NASCAR announced in November 2025. Practice and qualifying times are not on the schedule release we checked."
 faq:
   - q: "What time does the NASCAR championship race start in 2026?"
@@ -33,8 +34,8 @@ faq:
     a: "At Homestead-Miami Speedway in Homestead, Florida. FOX Sports reported that the track hosts the 2026 finales for all three national series from Nov. 6 to 8."
   - q: "Are practice and qualifying times announced?"
     a: "They are not on the schedule release we checked, so we do not list them. Check NASCAR and your broadcaster for those."
-  - q: "Do the clocks change before the race?"
-    a: "Yes. U.S. clocks fall back on Sunday, Nov. 1, a week before the Cup race, so every start is on standard time."
+  - q: "Did the clocks change before the race?"
+    a: "Yes. U.S. clocks fell back on Sunday, Nov. 1, a week before the Cup race, so every start is on standard time."
 sources:
   - title: "NASCAR announces start times, networks for 2026 national series races"
     url: "https://www.nascar.com/news-media/2025/11/12/nascar-announces-start-times-networks-for-2026-national-series-races/"
@@ -140,9 +141,9 @@ Practice and qualifying times are not on the schedule release we checked, so we 
 | Alaska | 11 a.m. |
 | Hawaii | 10 a.m. |
 
-## Do the clocks change before the race?
+## Did the clocks change before the race?
 
-Yes. U.S. clocks fall back on Sunday, Nov. 1, the Sunday before the Cup race, so the whole championship weekend is on standard time. If your TV guide, phone or recording schedule was set before the change, check that it shows the new offset. Mark Nov. 1 and Nov. 6-8 on a [November 2026 printable calendar](/november-calendars.html) or a [printable weekly calendar](/printable-weekly-calendar.html).
+Yes. U.S. clocks fell back on Sunday, Nov. 1, the Sunday before the Cup race, so the whole championship weekend is on standard time. If your TV guide, phone or recording schedule was set before the change, check that it shows the new offset. Mark Nov. 6-8 on a [November 2026 printable calendar](/november-calendars.html) or a [printable weekly calendar](/printable-weekly-calendar.html).
 
 ## What channel is the NASCAR championship on?
 

@@ -1,9 +1,10 @@
 ---
-title: "Sam Fender Tickets 2027: Presale Thursday, General Sale Friday at 9:30 a.m. UK Time"
+title: "Sam Fender Tickets 2027: Presale Was Thursday, General Sale Friday at 9:30 a.m. UK Time"
 seoTitle: "Sam Fender Tickets 2027: Presale and General Sale Time"
-description: "Sam Fender 2027 tickets: Newcastle presale Thu., Oct. 29, general sale Fri., Oct. 30 at 9:30 a.m. Greenwich Mean Time (GMT), 5:30 a.m. Eastern Time (ET)."
+description: "Sam Fender 2027 tickets: Newcastle presale was Thu., Oct. 29, general sale Fri., Oct. 30 at 9:30 a.m. Greenwich Mean Time (GMT), 5:30 a.m. Eastern Time (ET)."
 type: news
 publishedAt: "2026-10-28T03:46:00-04:00"
+updatedAt: "2026-11-02T14:10:00-05:00"
 authors: [christina-gerland]
 category: uk-canada
 keywords: ["Sam Fender tickets", "Sam Fender tour 2027", "Sam Fender general sale time", "Sam Fender presale", "Sam Fender St James' Park 2027"]
@@ -19,13 +20,13 @@ hero:
     source: "https://commons.wikimedia.org/wiki/File:Newcastle_st-james-park_stadium.jpg"
     author: "Arne Müseler"
 summary:
-  - "The Newcastle United presale for Sam Fender's St. James' Park shows starts Thursday, Oct. 29, 2026 at 9:30 a.m. UK time, according to Newcastle United."
-  - "General sale for the Proper Massive Stadium Tour 2027 is Friday, Oct. 30, 2026 at 9:30 a.m. Greenwich Mean Time (GMT), which is 5:30 a.m. Eastern Time (ET) and 2:30 a.m. Pacific Time (PT)."
+  - "The Newcastle United presale for Sam Fender's St. James' Park shows started Thursday, Oct. 29, 2026 at 9:30 a.m. UK time, according to Newcastle United."
+  - "General sale for the Proper Massive Stadium Tour 2027 was set for Friday, Oct. 30, 2026 at 9:30 a.m. Greenwich Mean Time (GMT), which is 5:30 a.m. Eastern Time (ET) and 2:30 a.m. Pacific Time (PT)."
   - "samfender.com lists nine shows from Thu., June 3 to Sat., July 17, 2027, with a limit of 6 tickets per person."
   - "Ticket prices and North American dates have not been announced."
 faq:
-  - q: "What time do Sam Fender tickets go on sale?"
-    a: "General sale is Friday, Oct. 30, 2026 at 9:30 a.m. UK time, according to samfender.com, Ticketmaster and Newcastle United. That is 5:30 a.m. Eastern Time (ET)."
+  - q: "What time did Sam Fender tickets go on sale?"
+    a: "General sale was set for Friday, Oct. 30, 2026 at 9:30 a.m. UK time, according to samfender.com, Ticketmaster and Newcastle United. That was 5:30 a.m. Eastern Time (ET)."
   - q: "How many Sam Fender tickets can you buy?"
     a: "samfender.com says the maximum is 6 tickets per person."
   - q: "Does the presale guarantee tickets?"
@@ -103,11 +104,11 @@ assets:
     alt: "Printable Sam Fender 2027 ticket day checklist with sale times and nine show dates."
 ---
 
-**Sam Fender's general sale for the Proper Massive Stadium Tour 2027 is Friday, Oct. 30, 2026 at 9:30 a.m. Greenwich Mean Time (GMT), 5:30 a.m. Eastern Time (ET)**, according to Ticketmaster UK and samfender.com. A day earlier, on Thursday, Oct. 29, the Newcastle United presale for the St. James' Park shows starts at 9:30 a.m. UK time, the club says.
+**Sam Fender's general sale for the Proper Massive Stadium Tour 2027 was set for Friday, Oct. 30, 2026 at 9:30 a.m. Greenwich Mean Time (GMT), 5:30 a.m. Eastern Time (ET)**, according to Ticketmaster UK and samfender.com. A day earlier, on Thursday, Oct. 29, the Newcastle United presale for the St. James' Park shows was set to start at 9:30 a.m. UK time, the club said. Both sale days have passed; this story keeps the sale times for the record.
 
-The United Kingdom (UK) went back to GMT on Oct. 25 and US clocks change on Nov. 1, so on both sale days GMT is 4 hours ahead of ET. Our table below converts the time for every US zone, and a one-page checklist is in the downloads.
+The United Kingdom (UK) went back to GMT on Oct. 25 and US clocks changed on Nov. 1, so on both sale days GMT was 4 hours ahead of ET. Our table below converts the time for every US zone, and a one-page checklist is in the downloads.
 
-## What time do Sam Fender tickets go on sale?
+## What time did Sam Fender tickets go on sale?
 
 | Sale | Date | UK and Ireland (GMT) | ET | Central Time (CT) | Mountain Time (MT) | PT |
 |---|---|---|---|---|---|---|
@@ -118,9 +119,9 @@ The time conversions are our calculation. Ireland uses the same clock as the UK.
 
 ## Who can use the Newcastle United presale?
 
-Newcastle United says eligible supporters can access the presale from 9:30 a.m. on Oct. 29, 2026. The club names Season Ticket Holders and Mags Members as eligible. New members had to sign up by 5 p.m. on Oct. 27. It covers the St. James' Park shows on Thursday, June 3 and Saturday, June 5, 2027, presented by Kilimanjaro Live. The club says all remaining tickets go on general sale at 9:30 a.m. on Oct. 30 via samfender.com.
+Newcastle United said eligible supporters could access the presale from 9:30 a.m. on Oct. 29, 2026. The club named Season Ticket Holders and Mags Members as eligible. New members had to sign up by 5 p.m. on Oct. 27. It covers the St. James' Park shows on Thursday, June 3 and Saturday, June 5, 2027, presented by Kilimanjaro Live. The club said all remaining tickets would go on general sale at 9:30 a.m. on Oct. 30 via samfender.com.
 
-samfender.com also described an album pre-order presale on Wednesday, Oct. 28 at 9:30 a.m., and its page now says access is closed. It adds that entry to the presale does not guarantee tickets.
+samfender.com also described an album pre-order presale on Wednesday, Oct. 28 at 9:30 a.m., and its page said access was closed when we checked on Oct. 28. It adds that entry to the presale does not guarantee tickets.
 
 ## What are the Sam Fender 2027 tour dates?
 
@@ -144,10 +145,10 @@ samfender.com says the maximum is 6 tickets per person. No official ticket price
 
 ## What else has been reported?
 
-The music magazine New Musical Express (NME) and the station Radio X report that general sale is at 9:30 a.m. GMT, matching the official pages. NME also reports Wunderhorse as support and a Rock Werchter festival headline slot in Belgium on July 3, 2027. That festival date is not on the tour list at samfender.com, so we have not added it to the table.
+The music magazine New Musical Express (NME) and the station Radio X reported that general sale was at 9:30 a.m. GMT, matching the official pages. NME also reports Wunderhorse as support and a Rock Werchter festival headline slot in Belgium on July 3, 2027. That festival date is not on the tour list at samfender.com, so we have not added it to the table.
 
 ## How do you avoid fake tickets?
 
-Newcastle United says general sale runs via samfender.com, and the tour page carries the sale links. Start from samfender.com rather than a link in a message or an unofficial listing, and use the checklist to keep the sale times and the 6-ticket limit in view.
+Newcastle United said general sale would run via samfender.com, and the tour page carried the sale links. Start from samfender.com rather than a link in a message or an unofficial listing, and use the checklist to keep the sale times and the 6-ticket limit in view.
 
-Sale times and dates can change, so check samfender.com before the sale. If you live in Britain, see the [UK bank holidays 2027 story](/news/uk-bank-holidays-2027-dates-england-scotland-northern-ireland/) for days off near the June dates. Another London event with a ticket guide is [Hyde Park Winter Wonderland 2026](/news/hyde-park-winter-wonderland-2026-dates-opening-times-tickets/).
+Dates can change, so check samfender.com for the current sale status. If you live in Britain, see the [UK bank holidays 2027 story](/news/uk-bank-holidays-2027-dates-england-scotland-northern-ireland/) for days off near the June dates. Another London event with a ticket guide is [Hyde Park Winter Wonderland 2026](/news/hyde-park-winter-wonderland-2026-dates-opening-times-tickets/).

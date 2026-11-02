@@ -4,6 +4,7 @@ seoTitle: "Gwinnett Schools Calendar 2026-27: Breaks and Days Off"
 description: "Gwinnett County Public Schools (GCPS) 2026-27: Thanksgiving break Nov. 23-27, winter break Dec. 21-Jan. 1, spring break Apr. 5-9, last day May 26."
 type: news
 publishedAt: "2026-10-26T14:40:00-04:00"
+updatedAt: "2026-11-02T14:10:00-05:00"
 authors: [aaron-kessler]
 category: school-calendars
 keywords: ["gwinnett county schools calendar 2026-27", "gcps calendar 2026-2027", "gwinnett winter break 2026", "gwinnett spring break 2027", "gwinnett thanksgiving break 2026"]
@@ -78,7 +79,7 @@ assets:
     title: "Gwinnett County Schools Calendar 2026-27: Days Off"
     subtitle: "No-school days and early releases, Gwinnett County Public Schools"
     rows:
-      - ["Wed., Oct. 28 to Thu., Oct. 29, 2026", "Early Release, elementary and middle school"]
+      - ["Wed., Oct. 28 to Thu., Oct. 29, 2026", "Early Release, elementary and middle school (past)"]
       - ["Tue., Nov. 3, 2026", "Digital Learning Day #2"]
       - ["Mon., Nov. 23 to Fri., Nov. 27, 2026", "Thanksgiving Break (School Holidays)"]
       - ["Wed., Dec. 16 to Fri., Dec. 18, 2026", "Early Release for high school exams; Dec. 18 ends 1st semester"]
@@ -136,9 +137,9 @@ These days are on the calendar but are not full days off.
 
 | Date | What the calendar lists |
 |---|---|
-| Fri., Sept. 18, 2026 | Digital Learning Day #1 |
+| Fri., Sept. 18, 2026 | Digital Learning Day #1 (past) |
 | Tue., Nov. 3, 2026 | Digital Learning Day #2 |
-| Wed.-Thu., Oct. 28-29, 2026 | Early release, elementary and middle school |
+| Wed.-Thu., Oct. 28-29, 2026 | Early release, elementary and middle school (past) |
 | Wed.-Fri., Dec. 16-18, 2026 | Early release for high school exams |
 | Wed.-Thu., Mar. 3-4, 2027 | Early release, elementary and middle school |
 | Fri., Mar. 19, 2027 | Digital Learning Day #3 |

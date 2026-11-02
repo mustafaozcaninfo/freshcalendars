@@ -1,9 +1,10 @@
 ---
-title: "CCSD Calendar 2026-27: Nevada Day Oct. 30, Winter Break Dec. 21 to Jan. 1 and Spring Break March 15-19"
+title: "CCSD Calendar 2026-27: No School Nov. 3, Winter Break Dec. 21 to Jan. 1, Spring Break Mar. 15-19"
 seoTitle: "CCSD Calendar 2026-27: Breaks and No-School Days"
-description: "Clark County School District (CCSD) 2026-27: no school Fri., Oct. 30 for Nevada Day, winter break Dec. 21 to Jan. 1, spring break March 15-19, last day May 20."
+description: "Clark County School District (CCSD) 2026-27: no school Tue., Nov. 3 for Election Day, winter break Dec. 21 to Jan. 1, spring break March 15-19, last day May 20."
 type: news
 publishedAt: "2026-10-26T16:40:00-04:00"
+updatedAt: "2026-11-02T14:10:00-05:00"
 authors: [aaron-kessler]
 category: school-calendars
 keywords: ["CCSD calendar 2026-27", "Clark County School District calendar 2026-2027", "CCSD winter break 2026", "CCSD spring break 2027", "Nevada Day 2026 no school"]
@@ -19,13 +20,13 @@ hero:
     source: "https://commons.wikimedia.org/wiki/File:Clark_County_School_District_(Nevada)_School_Bus.jpg"
     author: "Tomás Del Coro"
 summary:
-  - "Clark County School District (CCSD) students have no school on Friday, Oct. 30, 2026, listed on the district calendar as Nevada Day Observed."
+  - "Clark County School District (CCSD) students have no school on Tuesday, Nov. 3, 2026, listed as Election Day and a Staff Development Day; Friday, Oct. 30 was Nevada Day Observed."
   - "Winter break is Dec. 21, 2026 to Jan. 1, 2027, followed by a Staff Development Day on Monday, Jan. 4; classes resume Tuesday, Jan. 5."
   - "Spring break is Monday through Friday, March 15-19, 2027, with no school on Friday, March 26 and a Staff Development Day on Monday, March 29."
   - "The last day of the school year is Thursday, May 20, 2027, the 180th day, with Friday, May 21 held as a contingency day if needed."
 faq:
   - q: "Is there school on Nevada Day 2026 in Clark County?"
-    a: "No. The CCSD calendar lists Friday, Oct. 30, 2026 as Nevada Day Observed with no school."
+    a: "No. The CCSD calendar listed Friday, Oct. 30, 2026 as Nevada Day Observed with no school. That day has passed; the next day off is Tuesday, Nov. 3."
   - q: "When is CCSD winter break 2026?"
     a: "No school from Monday, Dec. 21, 2026 through Friday, Jan. 1, 2027. Monday, Jan. 4 is a Staff Development Day with no school for students, and classes resume Tuesday, Jan. 5."
   - q: "When is CCSD spring break 2027?"
@@ -103,7 +104,7 @@ downloads:
 draft: false
 ---
 
-**Clark County School District (CCSD) students have no school on Friday, Oct. 30, 2026**, listed as Nevada Day Observed on the "2026-2027 School Calendar for Students" (footer: "Subject to change"). It is the next day off on the calendar. **Winter break runs Dec. 21, 2026 to Jan. 1, 2027**, and spring break is Monday through Friday, March 15-19, 2027.
+**Clark County School District (CCSD) students have no school on Tuesday, Nov. 3, 2026**, tomorrow, listed as Election Day and a Staff Development Day on the "2026-2027 School Calendar for Students" (footer: "Subject to change"). Friday, Oct. 30 was Nevada Day Observed. **Winter break runs Dec. 21, 2026 to Jan. 1, 2027**, and spring break is Monday through Friday, March 15-19, 2027.
 
 ## CCSD 2026-27 breaks
 
@@ -139,9 +140,9 @@ Spring break begins at the end of the day on Friday, March 12, the end of the th
 
 The first day of classes is Monday, Aug. 10, 2026. The first grading period ends Friday, Oct. 9. On the three days marked "students only" or "elementary only", the calendar says school is out for students in that group; it does not say what other school staff do.
 
-## Is there school on Nevada Day?
+## Was there school on Nevada Day?
 
-No. Friday, Oct. 30, 2026 is Nevada Day Observed on the CCSD calendar, so students have a three-day weekend. The district uses the word "observed" and the calendar prints no other detail about the date. The same stretch of the fall has a second day off soon after: Tuesday, Nov. 3 is Election Day and a Staff Development Day with no school for students, and Wednesday, Nov. 11 is Veterans Day. Plan around both on the [November 2026 printable calendar](/november-calendars.html).
+No. Friday, Oct. 30, 2026 was Nevada Day Observed on the CCSD calendar, a no-school day that gave students a three-day weekend. The district uses the word "observed" and the calendar prints no other detail about the date. The next day off is tomorrow: Tuesday, Nov. 3 is Election Day and a Staff Development Day with no school for students, and Wednesday, Nov. 11 is Veterans Day. Plan around both on the [November 2026 printable calendar](/november-calendars.html).
 
 ## How long is Thanksgiving break?
 

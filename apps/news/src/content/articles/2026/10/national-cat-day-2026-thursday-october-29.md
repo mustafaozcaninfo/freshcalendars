@@ -1,9 +1,10 @@
 ---
-title: "National Cat Day 2026 Is Thursday, Oct. 29: Origin, Shelter Numbers and Dates Through 2030"
+title: "National Cat Day 2026 Was Thursday, Oct. 29: Origin, Shelter Numbers and Dates Through 2030"
 seoTitle: "National Cat Day 2026, Thursday Oct. 29: Origin, Facts"
-description: "National Cat Day is Thursday, Oct. 29, 2026, founded in 2005. American Society for the Prevention of Cruelty to Animals (ASPCA) shelter data and dates to 2030."
+description: "National Cat Day was Thursday, Oct. 29, 2026, founded in 2005. American Society for the Prevention of Cruelty to Animals (ASPCA) shelter data and dates to 2030."
 type: explainer
 publishedAt: "2026-10-28T05:42:00-04:00"
+updatedAt: "2026-11-02T14:10:00-05:00"
 authors: [christina-gerland]
 category: holidays
 keywords: ["National Cat Day 2026", "when is National Cat Day", "National Cat Day October 29", "cat day 2026"]
@@ -32,7 +33,7 @@ assets:
 hero:
   src: ../../../../assets/news/national-cat-day-2026-thursday-october-29/national-cat-day-2026-thursday-october-29.webp
   alt: "A tabby cat resting on a wooden deck, for National Cat Day 2026 on Thursday, Oct. 29"
-  caption: "A tabby cat in Porto Covo, Portugal, in July 2026. National Cat Day falls on Thursday, Oct. 29, 2026; founder Colleen Paige started it in 2005."
+  caption: "A tabby cat in Porto Covo, Portugal, in July 2026. National Cat Day fell on Thursday, Oct. 29, 2026; founder Colleen Paige started it in 2005."
   credit: "Photo: Alvesgaspar / Wikimedia Commons, cropped, edited"
   license:
     name: "CC BY-SA 4.0"
@@ -50,7 +51,7 @@ downloads:
     png: "/news/downloads/national-cat-day-2026/national-cat-day-2026-checklist.png"
     pages: 1
 summary:
-  - "National Cat Day is Thursday, Oct. 29, 2026, according to its official site, nationalcatday.com."
+  - "National Cat Day was Thursday, Oct. 29, 2026, according to its official site, nationalcatday.com."
   - "Pet and family lifestyle expert Colleen Paige founded the day in 2005 to draw attention to the number of cats that need rescue each year."
   - "The ASPCA estimates about 3 million cats entered U.S. shelters and rescues in 2025 and about 2.2 million were adopted, roughly 73% by our calculation."
   - "Oct. 29, 2027, is a Friday."
@@ -81,7 +82,7 @@ related: [national-black-cat-day-2026-october-27, halloween-2026-saturday-sunset
 draft: false
 ---
 
-**National Cat Day is tomorrow, Thursday, Oct. 29, 2026, according to the observance's official site, nationalcatday.com.** The site says Pet and Family Lifestyle Expert and Animal Welfare Advocate Colleen Paige founded it in 2005.
+**National Cat Day was Thursday, Oct. 29, 2026, according to the observance's official site, nationalcatday.com.** The site says Pet and Family Lifestyle Expert and Animal Welfare Advocate Colleen Paige founded it in 2005.
 
 ## Why was National Cat Day created?
 
@@ -119,7 +120,7 @@ Oct. 29 moves one weekday later each year, and two after a leap day. The weekday
 
 ## How is it different from other cat days?
 
-National Black Cat Day is a separate observance. Cats Protection, a charity in the United Kingdom (UK), launched it on Oct. 27, 2011, as its annual campaign for black and black-and-white cats; this year's date was Oct. 27. Our [National Black Cat Day 2026 story](/news/national-black-cat-day-2026-october-27/) has the details. International Cat Day is observed on Aug. 8.
+National Black Cat Day is a separate observance. Cats Protection, a charity in the United Kingdom (UK), launched it on Oct. 27, 2011, as its annual campaign for black and black-and-white cats; the 2026 date was Oct. 27. Our [National Black Cat Day 2026 story](/news/national-black-cat-day-2026-october-27/) has the details. International Cat Day is observed on Aug. 8.
 
 ## How can you mark the day?
 
@@ -127,4 +128,4 @@ National Black Cat Day is a separate observance. Cats Protection, a charity in t
 - Share an adoptable cat.
 - Check your home for lilies and other plants on the ASPCA list.
 
-Halloween follows on Saturday; see our [Halloween 2026 trick-or-treat times story](/news/halloween-2026-saturday-sunset-trick-or-treat-times/). Mark Oct. 29 on the [October 2026 printable calendar](/october-calendars.html), and see [November 2026 important dates](/news/november-2026-important-dates-days-until/) for what comes next, with the [November 2026 printable calendar](/november-calendars.html) alongside. The free printable checklist for the day lists the checks and dates above.
+Halloween followed on Saturday, Oct. 31; see our [Halloween 2026 trick-or-treat times story](/news/halloween-2026-saturday-sunset-trick-or-treat-times/). See the [October 2026 printable calendar](/october-calendars.html) for where the day fell, and see [November 2026 important dates](/news/november-2026-important-dates-days-until/) for what comes next, with the [November 2026 printable calendar](/november-calendars.html) alongside. The free printable checklist for the day lists the checks and dates above.

@@ -1,9 +1,10 @@
 ---
-title: "National Brush Day 2026 Is Sunday, Nov. 1: Two-Minute Brushing Chart and Toothbrush Dates"
+title: "National Brush Day 2026 Was Sunday, Nov. 1: Two-Minute Brushing Chart and Toothbrush Dates"
 seoTitle: "National Brush Day 2026: Sunday, Nov. 1"
-description: "National Brush Day is Sunday, Nov. 1, 2026, the day after Halloween, per the Academy of General Dentistry (AGD). Toothpaste amounts by age and a 14-day chart."
+description: "National Brush Day was Sunday, Nov. 1, 2026, the day after Halloween, per the Academy of General Dentistry (AGD). Toothpaste amounts by age and a 14-day chart."
 type: explainer
 publishedAt: "2026-10-31T16:45:00-04:00"
+updatedAt: "2026-11-02T14:10:00-05:00"
 authors: [christina-gerland]
 category: holidays
 keywords: ["national brush day 2026", "national brush day november 1", "how much toothpaste for kids", "how often to replace toothbrush"]
@@ -56,7 +57,7 @@ assets:
 hero:
   src: ../../../../assets/news/national-brush-day-2026-november-1-two-minute-brushing-chart/national-brush-day-2026-november-1-two-minute-brushing-chart.webp
   alt: "Children's toothbrushes in a row, file photo for National Brush Day 2026 on Sunday, Nov. 1"
-  caption: "File photo of children's toothbrushes. National Brush Day is Sunday, Nov. 1, 2026, the day after Halloween, per the Academy of General Dentistry."
+  caption: "File photo of children's toothbrushes. National Brush Day was Sunday, Nov. 1, 2026, the day after Halloween, per the Academy of General Dentistry."
   credit: "Photo: Poulpy / Wikimedia Commons, cropped, edited"
   license:
     name: "CC BY-SA 3.0"
@@ -82,13 +83,13 @@ downloads:
     png: "/news/downloads/national-brush-day-2026/national-brush-day-2026-brushing-tracker-ink.png"
     pages: 1
 summary:
-  - "National Brush Day is Sunday, Nov. 1, 2026, the day after Halloween, and the Academy of General Dentistry says it is meant to reinforce children's oral health."
+  - "National Brush Day was Sunday, Nov. 1, 2026, the day after Halloween, and the Academy of General Dentistry says it is meant to reinforce children's oral health."
   - "The Academy's message is 'Two minutes. Twice a day. No excuses.'"
   - "The American Dental Association says a smear of toothpaste for children younger than 3 and a pea-sized amount for ages 3 to 6."
   - "A toothbrush started on Nov. 1, 2026 is due for replacement between Monday, Feb. 1, 2027 and Monday, Mar. 1, 2027, or sooner if the bristles fray."
 faq:
   - q: "When is National Brush Day in 2026?"
-    a: "Sunday, Nov. 1, 2026. The Academy of General Dentistry says it is celebrated the day after Halloween."
+    a: "Sunday, Nov. 1, 2026, which has passed. The Academy of General Dentistry says it is celebrated the day after Halloween."
   - q: "How long should you brush?"
     a: "The American Dental Association says to brush twice a day with a fluoride toothpaste for two minutes."
   - q: "How often should you replace a toothbrush?"
@@ -124,7 +125,7 @@ related: [toothpaste-recall-2026-brush-buddies-evo-aru-fda-class-ii, halloween-2
 draft: false
 ---
 
-National Brush Day is Sunday, Nov. 1, 2026, the day after Halloween, according to the Academy of General Dentistry (AGD), which published its message on Oct. 30, 2026: "Two minutes. Twice a day. No excuses." The AGD says the day is celebrated after Halloween to reinforce the importance of children's oral health. This story adds a toothpaste table from the American Dental Association (ADA), a toothbrush replacement table we computed from Nov. 1, and a free 14-day brushing tracker.
+National Brush Day was Sunday, Nov. 1, 2026, the day after Halloween, according to the Academy of General Dentistry (AGD), which published its message on Oct. 30, 2026: "Two minutes. Twice a day. No excuses." The AGD says the day is celebrated after Halloween to reinforce the importance of children's oral health. This story adds a toothpaste table from the American Dental Association (ADA), a toothbrush replacement table we computed from Nov. 1, and a free 14-day brushing tracker.
 
 ## What does National Brush Day ask you to do?
 
@@ -132,7 +133,7 @@ The AGD's newsroom post is short and gives no founder or start year, so we do no
 
 The ADA's MouthHealthy page adds the technique. Use a soft-bristled brush and an ADA-accepted fluoride toothpaste, place the brush at a 45-degree angle to the gums, and clean between your teeth once a day.
 
-Halloween falls on Saturday, Oct. 31 in 2026, so Sunday is the first day of the brushing week. For Halloween night itself, see our [Halloween 2026 sunset and trick-or-treat times](/news/halloween-2026-saturday-sunset-trick-or-treat-times/).
+Halloween fell on Saturday, Oct. 31 in 2026, so Sunday was the first day of the brushing week. For Halloween night itself, see our [Halloween 2026 sunset and trick-or-treat times](/news/halloween-2026-saturday-sunset-trick-or-treat-times/).
 
 ## How much toothpaste for children by age?
 
@@ -159,7 +160,7 @@ Write the start date on the tracker's notes line, then mark the window on the [F
 
 ## A related note on toothpaste recalls
 
-If you are checking what is in your bathroom this week, our report on the [2026 toothpaste recall of Brush Buddies, evo and Aru tubes](/news/toothpaste-recall-2026-brush-buddies-evo-aru-fda-class-ii/) lists the product details outlets reported and the Food and Drug Administration (FDA) classification.
+If you are checking what is in your bathroom, our report on the [2026 toothpaste recall of Brush Buddies, evo and Aru tubes](/news/toothpaste-recall-2026-brush-buddies-evo-aru-fda-class-ii/) lists the product details outlets reported and the Food and Drug Administration (FDA) classification.
 
 ## Free 14-day brushing tracker, Nov. 1-14
 

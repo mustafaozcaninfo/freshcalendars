@@ -4,7 +4,7 @@ seoTitle: "Sunset Times After the Clock Change 2026 by City"
 description: "Sunset jumped an hour earlier on Nov. 1, 2026: 4:52 p.m. in New York, 4:45 in Chicago. Naval Observatory data, 20 cities, plus each city's earliest sunset date."
 type: explainer
 publishedAt: "2026-10-20T01:20:00-04:00"
-updatedAt: "2026-11-01T05:45:00-05:00"
+updatedAt: "2026-11-02T14:10:00-05:00"
 authors: [jessica-hartwell]
 category: time-change
 keywords: ["sunset time after daylight saving time ends", "what time does it get dark November 2026", "earliest sunset 2026", "sunset times by city", "sunset November 1 2026"]
@@ -57,7 +57,7 @@ downloads:
 draft: false
 ---
 
-**Clocks fell back at 2 a.m. on Sunday, Nov. 1, 2026, so sunset comes about an hour earlier from today.** In New York, the sun set at 5:53 p.m. on Saturday, Oct. 31 and sets at 4:52 p.m. on Sunday, according to U.S. Naval Observatory (USNO) data. The evenings keep shrinking after that, and the earliest sunset of the year arrives in early December, about two weeks before the shortest day.
+**Clocks fell back at 2 a.m. on Sunday, Nov. 1, 2026, so sunset comes about an hour earlier from that day.** In New York, the sun set at 5:53 p.m. on Saturday, Oct. 31 and at 4:52 p.m. on Sunday, Nov. 1, according to U.S. Naval Observatory (USNO) data. The evenings keep shrinking after that, and the earliest sunset of the year arrives in early December, about two weeks before the shortest day.
 
 ## Sunset before and after the clock change
 

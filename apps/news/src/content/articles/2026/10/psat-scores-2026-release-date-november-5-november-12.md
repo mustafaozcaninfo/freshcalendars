@@ -4,6 +4,7 @@ seoTitle: "PSAT Scores Release Date 2026: Nov. 5 and Nov. 12"
 description: "Preliminary SAT (PSAT) and National Merit Scholarship Qualifying Test (NMSQT) scores reach students Oct. 22, Nov. 5 or Nov. 12, 2026, by school submission date."
 type: explainer
 publishedAt: "2026-10-26T02:21:00-04:00"
+updatedAt: "2026-11-02T14:10:00-05:00"
 authors: [aaron-kessler]
 category: school-calendars
 keywords: ["PSAT scores release date 2026", "when do PSAT scores come out 2026", "PSAT/NMSQT score release", "PSAT Selection Index calculator"]
@@ -43,7 +44,7 @@ assets:
     alt: "PSAT/NMSQT score dates 2026 printable timeline from the Oct. 1-30 testing window to September 2027"
 summary:
   - "College Board releases Fall 2026 in-school PSAT/NMSQT scores to students on Oct. 22, Nov. 5 or Nov. 12, depending on when the school submits its tests."
-  - "Testing runs Oct. 1-30, 2026; schools choose their own test day."
+  - "Testing ran Oct. 1-30, 2026; schools chose their own test day."
   - "Scores range from 320 to 1520, and the National Merit Selection Index runs from 48 to 228."
   - "National Merit students are notified through their high schools in September 2027."
 faq:
@@ -102,7 +103,7 @@ draft: false
 
 ## Which PSAT score date is mine?
 
-Testing for the fall 2026 PSAT/NMSQT runs from Oct. 1 to Oct. 30, 2026, College Board says, and schools set their own test day within that window. The score date follows the day your school submitted its answer sheets. College Board publishes one table for SAT School Day, PSAT/NMSQT, PSAT 10 and PSAT 8/9 together.
+Testing for the fall 2026 PSAT/NMSQT ran from Oct. 1 to Oct. 30, 2026, College Board says, and schools set their own test day within that window. The score date follows the day your school submitted its answer sheets. College Board publishes one table for SAT School Day, PSAT/NMSQT, PSAT 10 and PSAT 8/9 together.
 
 | School submitted tests by | K-12 reporting portal (schools) | Scores to students | Electronic score reports for educators |
 |---|---|---|---|

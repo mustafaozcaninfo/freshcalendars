@@ -4,7 +4,7 @@ seoTitle: "Planets Visible in November 2026: Night Sky Calendar"
 description: "The crescent Moon is about 1° from Venus before sunrise on Nov. 7, and Uranus reaches opposition on Nov. 25. A table from NASA Jet Propulsion Laboratory data."
 type: explainer
 publishedAt: "2026-10-28T07:45:00-04:00"
-updatedAt: "2026-10-28T14:25:00-04:00"
+updatedAt: "2026-11-02T14:10:00-05:00"
 authors: [jessica-hartwell]
 category: sky-events
 keywords: ["planets visible November 2026", "night sky November 2026", "Uranus opposition 2026", "Moon and Venus November 2026", "November 2026 sky calendar"]
@@ -51,7 +51,7 @@ summary:
   - "The thin crescent Moon passes about 1° from Venus in the east-southeast before sunrise on Saturday, Nov. 7, 2026."
   - "Uranus reaches opposition at about 6 p.m. Eastern Standard Time on Wednesday, Nov. 25, at magnitude 5.6 in Taurus, with the Beaver Moon nearby."
   - "Jupiter, Mars and Venus fill the morning sky, Saturn and Neptune the evening sky, and Mercury is best before dawn around Nov. 20-22."
-  - "NASA has not yet published its November 2026 skywatching guide, so we computed these events from NASA Jet Propulsion Laboratory Horizons data."
+  - "NASA published its November 2026 skywatching guide on Nov. 2; the times below were computed from NASA Jet Propulsion Laboratory Horizons data, and NASA's guide also lists Mars and Jupiter close together on the mornings of Nov. 15 and 16."
 faq:
   - q: "Which planets can I see in November 2026?"
     a: "Venus, Mars and Jupiter in the morning sky, Saturn in the evening sky and Mercury before dawn in the second half of the month. Uranus and Neptune need binoculars or a telescope."
@@ -77,10 +77,10 @@ sources:
   - title: "Moon Phases by Year (Astronomical Applications data service)"
     url: "https://aa.usno.navy.mil/api/moon/phases/year?year=2026"
     publisher: "U.S. Naval Observatory, Astronomical Applications Department"
-  - title: "What's Up: skywatching tips from NASA"
-    url: "https://science.nasa.gov/skywatching/whats-up/"
+  - title: "What's Up: November 2026 Skywatching Tips from NASA"
+    url: "https://science.nasa.gov/solar-system/skywatching/whats-up-november-2026-skywatching-tips-from-nasa/"
     publisher: "NASA"
-    date: "2026-10-28"
+    date: "2026-11-02"
 internalLinks:
   - href: "/november-calendars.html"
     label: "November 2026 printable calendar"
@@ -109,9 +109,9 @@ downloads:
 draft: false
 ---
 
-**The best planet sight of November 2026 is a thin crescent Moon about 1° from Venus in the east-southeast before sunrise on Saturday, Nov. 7, and Uranus reaches opposition on Wednesday, Nov. 25**, according to our night sky calendar computed from NASA Jet Propulsion Laboratory (JPL) Horizons data. NASA's "What's Up" guide for November 2026 was not online as of Oct. 28 (its index ends at October), so we calculated the month's planet events ourselves and took the Moon phases from the U.S. Naval Observatory (USNO).
+**The best planet sight of November 2026 is a thin crescent Moon about 1° from Venus in the east-southeast before sunrise on Saturday, Nov. 7, and Uranus reaches opposition on Wednesday, Nov. 25**, according to our night sky calendar computed from NASA Jet Propulsion Laboratory (JPL) Horizons data. NASA published its "What's Up" guide for November 2026 on Nov. 2; we calculated the month's planet events ourselves and took the Moon phases from the U.S. Naval Observatory (USNO).
 
-Clocks fall back at 2 a.m. on Nov. 1, so every time below is Eastern Standard Time (EST) unless marked; see [when daylight saving time ends](/when-is/daylight-savings/).
+Clocks fell back at 2 a.m. on Nov. 1, so every time below is Eastern Standard Time (EST) unless marked; see [when daylight saving time ends](/when-is/daylight-savings/).
 
 ## What is happening in the night sky each day of November 2026?
 
@@ -146,7 +146,7 @@ Venus, Jupiter and Mars all rise before the Sun in November, according to JPL Ho
 
 Lower magnitudes are brighter. Venus is the brightest of the three and climbs higher before sunrise every day of the month, from only 13° from the Sun on Nov. 1 to 40° by Nov. 30. On Nov. 7 Venus is still fairly low, so find an open view to the east-southeast.
 
-Jupiter and Mars are the other pair to find. On the mornings of Nov. 2 and 3 the last-quarter Moon sits near both in the east-southeast before dawn. On Nov. 16 the planets themselves are about 1.2° apart, with Jupiter at magnitude -2.1 and Mars at +0.7. On Nov. 30 the waning gibbous Moon returns to the same part of the sky, about 1.1° from Jupiter and 3.0° from Mars.
+Jupiter and Mars are the other pair to find. The Moon, a day past last quarter, was near both in the east-southeast before dawn on Nov. 2 and is near them again before dawn on Nov. 3. On Nov. 16 the planets themselves are about 1.2° apart, with Jupiter at magnitude -2.1 and Mars at +0.7; NASA's guide lists the pair close together on the mornings of Nov. 15 and 16, in the southeast before sunrise. On Nov. 30 the waning gibbous Moon returns to the same part of the sky, about 1.1° from Jupiter and 3.0° from Mars.
 
 ## Can I see Mercury, Saturn and Neptune?
 
@@ -162,10 +162,10 @@ That brightness is at the limit of naked-eye visibility from very dark sites; bi
 
 ## What else is in the sky this month?
 
-The Southern Taurids peak on the night of Nov. 4-5, the Northern Taurids on Nov. 11-12 and the Leonids on Nov. 16-17, according to the American Meteor Society; the details are in our [November 2026 meteor shower guide](/news/november-2026-meteor-showers-taurids-leonids/).
+The Southern Taurids peak on the night of Nov. 4-5, the Northern Taurids on Nov. 11-12 and the Leonids on Nov. 16-17, according to the American Meteor Society; NASA's November guide says the Southern Taurids peak around Nov. 5 and the Northern Taurids around Nov. 12, with the Leonids in the early mornings of Nov. 17 and 18 after the Moon sets. The details are in our [November 2026 meteor shower guide](/news/november-2026-meteor-showers-taurids-leonids/).
 
 Before dawn on Tue., Nov. 24, the nearly full Moon passes in front of stars of the Pleiades as seen from the western United States, by our calculation with the open-source [Astronomy Engine](https://github.com/cosinekitty/astronomy). In Denver, Maia is hidden from about 5:22 to 6:04 a.m. Mountain Standard Time (MST); in Salt Lake City from 5:21 to 6:01 a.m. MST; in Seattle from 4:05 to 4:55 a.m. Pacific Standard Time (PST). Los Angeles sees only the fainter Taygeta, from 4:14 to 4:52 a.m. PST. From the East the Moon has set or the sky is light. Binoculars help next to such a bright Moon. Looking ahead, the [December 2026 printable calendar](/december-calendars.html) has room to add next month's sky events.
 
 ## Where do these times come from?
 
-NASA's skywatching series, "What's Up," had not posted a November 2026 edition as of Oct. 28, 2026; October is the newest entry on its index. We did not copy another site. We used the [NASA JPL Horizons](https://ssd.jpl.nasa.gov/horizons/) ephemeris, a geocentric calculation at hourly steps, and converted from UTC to Eastern time. Moon phases are from the [USNO Astronomical Applications moon phases data](https://aa.usno.navy.mil/api/moon/phases/year?year=2026). Times are rounded to the hour for planet events, so an event can fall within an hour of the time shown.
+NASA's skywatching series, "What's Up," posted its November 2026 edition on Nov. 2, 2026, after we had computed these events on Oct. 28; we did not copy it. Our times come from the [NASA JPL Horizons](https://ssd.jpl.nasa.gov/horizons/) ephemeris (a geocentric calculation at hourly steps), converted from UTC to Eastern time. Moon phases are from the [USNO Astronomical Applications moon phases data](https://aa.usno.navy.mil/api/moon/phases/year?year=2026). Times are rounded to the hour for planet events, so an event can fall within an hour of the time shown.

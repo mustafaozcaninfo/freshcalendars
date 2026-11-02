@@ -1,9 +1,10 @@
 ---
-title: "Mega Millions Drawing Tuesday, Nov. 3, 2026: 11 p.m. ET, Est. $482 Million Jackpot"
+title: "Mega Millions Drawing Tue., Nov. 3, 2026: 11 p.m. ET, $482 Million Jackpot as of Nov. 1"
 seoTitle: "Mega Millions Drawing Nov. 3, 2026: Time and Jackpot"
-description: "The next Mega Millions drawing is Tue., Nov. 3, 2026, at 11 p.m. Eastern Time (ET), estimated jackpot $482 million, per the Texas Lottery. Cutoffs by state."
+description: "The next Mega Millions drawing is Tue., Nov. 3, 2026, at 11 p.m. Eastern Time (ET), estimated jackpot $482 million as of Nov. 1, per the Texas Lottery."
 type: news
 publishedAt: "2026-11-01T22:44:00-05:00"
+updatedAt: "2026-11-02T14:10:00-05:00"
 authors: [christina-gerland]
 category: planning
 keywords: ["mega millions drawing tonight", "mega millions jackpot", "mega millions drawing time", "what time is the mega millions drawing", "mega millions november 3 2026"]
@@ -52,15 +53,15 @@ hero:
     source: "https://commons.wikimedia.org/wiki/File:Mega_Millions_lottery_tickets.JPG"
     author: "Lieutenant Ramathorn"
 summary:
-  - "The next Mega Millions drawing is Tuesday, Nov. 3, 2026, at 11 p.m. Eastern Time (ET), which is 10 p.m. Central Time (CT) and 8 p.m. Pacific Time (PT)."
-  - "The estimated jackpot is $482 million with an estimated cash value of $203.6 million, per the Texas Lottery. The Friday, Oct. 30 drawing had no jackpot winner."
+  - "The next Mega Millions drawing is tomorrow, Tuesday, Nov. 3, 2026, at 11 p.m. Eastern Time (ET), which is 10 p.m. Central Time (CT) and 8 p.m. Pacific Time (PT)."
+  - "The estimated jackpot was $482 million with an estimated cash value of $203.6 million as of Nov. 1, per the Texas Lottery. The Friday, Oct. 30 drawing had no jackpot winner."
   - "Ticket cutoffs differ by state: Pennsylvania stops at 9:59 p.m., Florida at 10:00 p.m. ET and California at 7:45 p.m. local time."
   - "The table lists every Tuesday and Friday drawing from Nov. 3 to Dec. 29, 2026."
 faq:
-  - q: "What time is the Mega Millions drawing tonight?"
-    a: "The Florida Lottery says drawings are every Tuesday and Friday night at 11 PM Eastern Time. The next one is Tuesday, Nov. 3, 2026, which is 10 p.m. CT and 8 p.m. PT."
+  - q: "What time is the next Mega Millions drawing?"
+    a: "The Florida Lottery says drawings are every Tuesday and Friday night at 11 PM Eastern Time. The next one is tomorrow, Tuesday, Nov. 3, 2026, which is 10 p.m. CT and 8 p.m. PT."
   - q: "What is the Mega Millions jackpot?"
-    a: "The Texas Lottery lists an estimated annuitized jackpot of $482 million for Nov. 3, 2026, with an estimated cash value of $203.6 million, as of Nov. 1."
+    a: "The Texas Lottery listed an estimated annuitized jackpot of $482 million for Nov. 3, 2026, with an estimated cash value of $203.6 million, as of Nov. 1. This story has no later figure."
   - q: "Did anyone win the Mega Millions jackpot on Friday, Oct. 30?"
     a: "No. The Texas Lottery lists the Oct. 30 jackpot as rolled, and the California Lottery says there was no jackpot winner in California. The numbers were 5, 10, 38, 49 and 68 with Mega Ball 17."
   - q: "How much does a Mega Millions ticket cost?"

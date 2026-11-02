@@ -4,7 +4,7 @@ seoTitle: "Printable NFL Schedule 2026-2027: All 272 Games, PDFs"
 description: "Full National Football League (NFL) 2026-2027 schedule: all 272 games by week with Eastern Time (ET) kickoffs, TV, byes, a team finder and free printable PDFs."
 type: explainer
 publishedAt: "2026-10-23T02:50:00-04:00"
-updatedAt: "2026-11-01T10:27:00-05:00"
+updatedAt: "2026-11-02T14:10:00-05:00"
 authors: [jessica-hartwell]
 category: sports
 keywords: ["printable NFL schedule 2026-2027 PDF", "NFL schedule 2026", "NFL 2026 week by week schedule", "NFL bye weeks 2026", "NFL team schedules 2026 printable"]
@@ -573,7 +573,7 @@ According to NFL Football Operations, the season has 18 weeks and 272 games. Eac
 
 The opener was Patriots at Seahawks on Wednesday, Sept. 9, 2026, at 8:20 p.m. ET. Week 18 ends the regular season on the weekend of Jan. 9 and 10, 2027. Super Bowl 61 (LXI) is Sunday, Feb. 14, 2027, at SoFi Stadium in Inglewood, California, according to the NFL. The NFL's 2026-27 important dates list Wild Card Weekend on Jan. 16-18, the Divisional round on Jan. 23-24 and the Conference Championship Games on Jan. 31, 2027.
 
-Week 8 runs through Monday, Nov. 2, 2026, around the midpoint of the 18-week season. Times below are Eastern; games after Sunday, Nov. 1, are on Eastern Standard Time after the clocks fall back.
+Week 8 runs through Monday, Nov. 2, 2026, around the midpoint of the 18-week season. Times below are Eastern; games after Sunday, Nov. 1, are on Eastern Standard Time after the clocks fell back.
 
 ## Bye weeks by team
 
@@ -613,11 +613,11 @@ Week 12 starts a day early. Packers at Rams is on Wednesday, Nov. 25, at 8 p.m. 
 
 Christmas falls on a Friday. Texans at Eagles opens Week 16 on Christmas Eve at 8:15 p.m. on Prime Video. On Christmas Day, Packers at Bears (1 p.m.) and Bills at Broncos (4:30 p.m.) are on Netflix, and Rams at Seahawks (8:15 p.m.) is on FOX. Week 15 has two Saturday games on Dec. 19: Seahawks at Eagles at 5 p.m. on FOX and Bears at Bills at 8:20 p.m. on CBS.
 
-Four games in Week 16 and four in Week 17 have no day or time yet, and neither does any of the 16 Week 18 games. NFL.com says Week 18 days and times are set after Week 17, with three games on Saturday, Jan. 9 (1 p.m. ET on Netflix; 4:30 and 8 p.m. ET on ESPN and the American Broadcasting Company (ABC)) and the rest on Sunday, Jan. 10. Those rows say Not set below and to be determined (TBD) on the printables. We will update both when the NFL announces them.
+Four games in Week 16 and four in Week 17 have no day or time yet, and neither does any of the 16 Week 18 games. NFL.com says Week 18 days and times are set after Week 17. Those rows say Not set below and to be determined (TBD) on the printables. We will update both when the NFL announces them.
 
 ## Full schedule week by week
 
-Times are Eastern Time. Games after Sunday, Nov. 1, are in Eastern Standard Time, after the clocks fall back; see [when daylight saving time ends](/news/daylight-saving-time-ends-november-1-2026/). TV lists the English-language national broadcast; ESPN games are often also on ABC and ESPN2, and Spanish-language channels are left out. "Vs." marks a neutral-site game.
+Times are Eastern Time. Games after Sunday, Nov. 1, are in Eastern Standard Time, after the clocks fell back; see [when daylight saving time ends](/news/daylight-saving-time-ends-november-1-2026/). TV lists the English-language national broadcast; ESPN games are often also on ABC and ESPN2, and Spanish-language channels are left out. "Vs." marks a neutral-site game.
 
 <!-- nfl-weeks:start -->
 

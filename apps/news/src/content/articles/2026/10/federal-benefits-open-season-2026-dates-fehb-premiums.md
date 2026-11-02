@@ -4,6 +4,7 @@ seoTitle: "Federal Open Season 2026: Nov. 9 to Dec. 14 Dates"
 description: "The Office of Personnel Management (OPM) set federal open season for Nov. 9 to Dec. 14, 2026. See 2027 health premium changes, deadlines and start dates."
 type: news
 publishedAt: "2026-10-24T16:48:00-04:00"
+updatedAt: "2026-11-02T14:10:00-05:00"
 authors: [aaron-kessler]
 category: money-benefits
 keywords: ["open season 2026 federal employees", "FEHB open season 2026 dates", "2027 FEHB premiums", "federal benefits open season 2026", "FSAFEDS 2027 reenroll"]
@@ -164,4 +165,4 @@ There is also a new documentation rule. OPM says "anyone that is adding a new fa
 
 ## Related enrollment deadlines
 
-Other enrollment windows are open at the same time. Medicare's [open enrollment](/news/medicare-open-enrollment-2026-december-7-90-dollar-rebate/) ends Dec. 7, and the Affordable Care Act marketplace [open enrollment](/news/aca-open-enrollment-2027-dates-november-1-january-15/) starts Nov. 1. The month's other deadlines are in our [December 2026 important dates](/news/december-2026-important-dates-holidays-days-until/) list.
+Other enrollment windows overlap this one. Medicare's [open enrollment](/news/medicare-open-enrollment-2026-december-7-90-dollar-rebate/) ends Dec. 7, and the Affordable Care Act marketplace [open enrollment](/news/aca-open-enrollment-2027-dates-november-1-january-15/) opened Nov. 1. The month's other deadlines are in our [December 2026 important dates](/news/december-2026-important-dates-holidays-days-until/) list.

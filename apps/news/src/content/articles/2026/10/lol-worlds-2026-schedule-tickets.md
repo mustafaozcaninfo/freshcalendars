@@ -1,9 +1,10 @@
 ---
 title: "LoL Worlds 2026 Schedule, Knockout Bracket Dates and Tickets"
 seoTitle: "LoL Worlds 2026 Schedule, Bracket and Tickets"
-description: "The League of Legends (LoL) Worlds 2026 Swiss Stage starts Friday, Oct. 23, and the final is Saturday, Nov. 14, 2 p.m. Eastern Standard Time (EST) in Brooklyn."
+description: "League of Legends (LoL) Worlds 2026 Knockout Stage starts Tuesday, Nov. 3, and the final is Saturday, Nov. 14, 2 p.m. Eastern Standard Time (EST) in Brooklyn."
 type: news
 publishedAt: "2026-10-23T14:10:00-04:00"
+updatedAt: "2026-11-02T14:10:00-05:00"
 authors: [jessica-hartwell]
 category: gaming-tech
 keywords: ["lol worlds 2026 schedule", "Worlds 2026 schedule", "LoL Worlds 2026 tickets", "Worlds 2026 bracket", "Worlds 2026 final date"]
@@ -48,13 +49,13 @@ hero:
   alt: "LoL Worlds 2026 schedule: a game controller with a calendar card for the Grand Final on Saturday, Nov. 14"
   caption: "The Worlds 2026 Grand Final is Saturday, Nov. 14, at 2 p.m. Eastern Standard Time at Barclays Center in Brooklyn."
 summary:
-  - "The League of Legends World Championship 2026 runs Thursday, Oct. 15, to Saturday, Nov. 14. The Swiss Stage starts Friday, Oct. 23, in Allen, Texas."
+  - "The League of Legends World Championship 2026 runs Thursday, Oct. 15, to Saturday, Nov. 14. The Swiss Stage ran from Friday, Oct. 23, to Saturday, Oct. 31, in Allen, Texas."
   - "The Knockout Stage puts eight teams in a single-elimination, best-of-five bracket: quarterfinals Nov. 3-6 and semifinals Nov. 7-8, both in Allen, Texas."
   - "The Grand Final is Saturday, Nov. 14, at 2 p.m. Eastern Standard Time (EST) at Barclays Center in Brooklyn, New York."
   - "Tickets are sold through Ticketmaster. Check the official event page for the dates still on sale; Riot has not announced prices."
 faq:
   - q: "When does Worlds 2026 start and end?"
-    a: "The League of Legends World Championship 2026 runs from Thursday, Oct. 15, to Saturday, Nov. 14, 2026. The Play-In finished in Los Angeles, and the Swiss Stage starts Friday, Oct. 23, in Allen, Texas."
+    a: "The League of Legends World Championship 2026 runs from Thursday, Oct. 15, to Saturday, Nov. 14, 2026. The Play-In finished in Los Angeles, and the Swiss Stage ran from Friday, Oct. 23, to Saturday, Oct. 31, in Allen, Texas."
   - q: "When is the Worlds 2026 final?"
     a: "The Grand Final is Saturday, Nov. 14, 2026, at 2 p.m. Eastern Standard Time (EST), which is 1 p.m. Central and 11 a.m. Pacific, at Barclays Center in Brooklyn, New York."
   - q: "How does the Worlds 2026 Swiss Stage work?"
@@ -110,7 +111,7 @@ downloads:
 draft: false
 ---
 
-**The League of Legends (LoL) World Championship 2026 reaches its Swiss Stage on Friday, Oct. 23, in Allen, Texas, and runs to the Grand Final on Saturday, Nov. 14, at 2 p.m. Eastern Standard Time (EST) at Barclays Center in Brooklyn, New York.** Riot Games, which makes League of Legends and runs the event known as Worlds, has set the full schedule from the opening Play-In to the trophy lift. Below is every stage with its dates and venues, how the Swiss and Knockout stages work, where to find tickets and how to watch, plus a free printable bracket tracker.
+**The League of Legends (LoL) World Championship 2026 moves from the Swiss Stage, played Oct. 23 to 31 in Allen, Texas, to the Knockout Stage on Tuesday, Nov. 3, and runs to the Grand Final on Saturday, Nov. 14, at 2 p.m. Eastern Standard Time (EST) at Barclays Center in Brooklyn, New York.** Riot Games, which makes League of Legends and runs the event known as Worlds, has set the full schedule from the opening Play-In to the trophy lift. Below is every stage with its dates and venues, how the Swiss and Knockout stages work, where to find tickets and how to watch, plus a free printable bracket tracker.
 
 ## Worlds 2026 schedule at a glance
 
@@ -132,7 +133,7 @@ draft: false
 | Nov. 8 | Sunday | Semifinal 2 | Allen, Texas | Check LoL Esports schedule |
 | Nov. 14 | Saturday | Grand Final | Barclays Center, Brooklyn | 2 p.m. EST / 1 p.m. CST |
 
-Start times before Nov. 1 are in Eastern Daylight Time (EDT) and Central Daylight Time (CDT). United States clocks fall back on Sunday, Nov. 1, 2026, so from then Texas is on Central Standard Time (CST). Riot's primer does not confirm start times for Oct. 26, Oct. 31 or the Knockout Stage, so check the LoL Esports schedule on each day. Swiss daily starts are listed in Central time: 12 p.m. CDT on Oct. 23, 24 and 25, and 3 p.m. CDT on Oct. 28, 29 and 30.
+Start times before Nov. 1 are in Eastern Daylight Time (EDT) and Central Daylight Time (CDT). United States clocks fall back on Sunday, Nov. 1, 2026, so from then Texas is on Central Standard Time (CST). Riot's primer does not confirm start times for Oct. 26, Oct. 31 or the Knockout Stage, so check the LoL Esports schedule for each Knockout Stage day. Swiss daily starts are listed in Central time: 12 p.m. CDT on Oct. 23, 24 and 25, and 3 p.m. CDT on Oct. 28, 29 and 30.
 
 ## The Play-In finished in Los Angeles
 
@@ -140,7 +141,7 @@ Worlds 2026 opened with the Play-In from Oct. 15 to 18 at Riot Games Arena in Lo
 
 ## How the Swiss Stage works
 
-Sixteen teams play the Swiss Stage at the Credit Union of Texas Event Center in Allen, Texas, over two blocks of dates: Friday, Oct. 23, to Monday, Oct. 26, and Wednesday, Oct. 28, to Saturday, Oct. 31. The format runs five rounds. In each round a team is paired with another team that holds the same win-loss record. A team that reaches three wins advances to the Knockout Stage, and a team that reaches three losses is eliminated. The rounds mix best-of-one and best-of-three matches. The Round 1 matchups were set by a random draw on Oct. 18.
+Sixteen teams played the Swiss Stage at the Credit Union of Texas Event Center in Allen, Texas, over two blocks of dates: Friday, Oct. 23, to Monday, Oct. 26, and Wednesday, Oct. 28, to Saturday, Oct. 31. The format runs five rounds. In each round a team is paired with another team that holds the same win-loss record. A team that reaches three wins advances to the Knockout Stage, and a team that reaches three losses is eliminated. The rounds mix best-of-one and best-of-three matches. The Round 1 matchups were set by a random draw on Oct. 18.
 
 ## Knockout Stage and bracket
 

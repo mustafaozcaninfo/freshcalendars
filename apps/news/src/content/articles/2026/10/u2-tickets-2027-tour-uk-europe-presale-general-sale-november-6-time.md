@@ -1,9 +1,10 @@
 ---
-title: "U2 Tickets 2027: General Sale Fri., Nov. 6 at 10 a.m. UK Time, Presale Starts Mon., Nov. 2"
+title: "U2 Tickets 2027: General Sale Fri., Nov. 6 at 10 a.m. UK Time, Presale Began Mon., Nov. 2"
 seoTitle: "U2 Tickets 2027: Presale and General Sale Times"
-description: "U2 2027 tickets: general sale Fri., Nov. 6 at 10 a.m. Greenwich Mean Time (GMT), 5 a.m. Eastern Time (ET). Subscriber presale starts Mon., Nov. 2."
+description: "U2 2027 tickets: general sale Fri., Nov. 6 at 10 a.m. Greenwich Mean Time (GMT), 5 a.m. Eastern Time (ET). Subscriber presale began Mon., Nov. 2."
 type: news
 publishedAt: "2026-10-30T05:40:00-04:00"
+updatedAt: "2026-11-02T14:10:00-05:00"
 authors: [christina-gerland]
 category: uk-canada
 keywords: ["U2 tickets 2027", "U2 presale", "U2 Tottenham Hotspur Stadium 2027", "U2 general sale time", "U2 tour 2027 dates"]
@@ -20,14 +21,14 @@ hero:
     author: "Heights"
 summary:
   - "U2.com says general sale for the UK and Europe 2027 dates of The Greatest Show On Earth World Tour is Friday, Nov. 6, 2026 at 10 a.m. Greenwich Mean Time (GMT), which is 5 a.m. Eastern Time (ET)."
-  - "The Artist Presale on Thursday, Nov. 5 needs a sign-up by Sunday, Nov. 1 at 10:59 p.m. GMT, before any sale starts, and the Lisbon date is not part of it."
+  - "The Artist Presale on Thursday, Nov. 5 needed a sign-up by Sunday, Nov. 1 at 10:59 p.m. GMT, which has passed; the Lisbon date is not part of it."
   - "U2.com lists 12 shows in seven cities from Mon., April 26 to Tue., July 6, 2027, including Tottenham Hotspur Stadium in London on June 18 and 19."
   - "Ticket prices, Spain dates, North America dates and Ireland dates have not been announced."
 faq:
   - q: "What time do U2 tickets go on sale?"
     a: "General sale is Friday, Nov. 6, 2026 at 10 a.m. GMT at U2.com, according to U2.com. That is 5 a.m. ET and 11 a.m. Central European Time (CET)."
-  - q: "How do you get U2 presale tickets?"
-    a: "U2.com lists a subscriber presale from Monday, Nov. 2, a Visa cardholder presale on Wednesday, Nov. 4 and an Artist Presale on Thursday, Nov. 5 that needs a sign-up by Sunday, Nov. 1."
+  - q: "How do U2 presale tickets work?"
+    a: "U2.com lists a subscriber presale from Monday, Nov. 2, a Visa cardholder presale on Wednesday, Nov. 4 and an Artist Presale on Thursday, Nov. 5 that needed a sign-up by Sunday, Nov. 1, which has passed."
   - q: "Is the Lisbon show in the Artist Presale?"
     a: "No. U2.com says the Lisbon date will not be accessible via the Artist Presale."
   - q: "How many U2 tickets can you buy?"
@@ -103,15 +104,15 @@ assets:
     alt: "Printable U2 2027 tour ticket sale timeline with five sale steps and seven show cities."
 ---
 
-**U2's general sale for the 2027 UK and Europe dates of The Greatest Show On Earth World Tour is Friday, Nov. 6, 2026 at 10 a.m. Greenwich Mean Time (GMT), 5 a.m. Eastern Time (ET)**, according to U2.com. The band announced the dates on Oct. 29, 2026 under the name "Carnaval De Luz presents: The Greatest Show On Earth World Tour." A subscriber presale starts four days earlier, on Monday, Nov. 2.
+**U2's general sale for the 2027 UK and Europe dates of The Greatest Show On Earth World Tour is Friday, Nov. 6, 2026 at 10 a.m. Greenwich Mean Time (GMT), 5 a.m. Eastern Time (ET)**, according to U2.com. The band announced the dates on Oct. 29, 2026 under the name "Carnaval De Luz presents: The Greatest Show On Earth World Tour." A subscriber presale began four days earlier, on Monday, Nov. 2.
 
-The catch is in the Artist Presale. U2.com says you must sign up by Sunday, Nov. 1 at 10:59 p.m. GMT, which is before any sale begins, and the Lisbon date is not part of that presale. US clocks go back on Nov. 1, so GMT is 5 hours ahead of ET for the whole sale week. A one-page timeline is in the downloads.
+The catch was in the Artist Presale. U2.com said you had to sign up by Sunday, Nov. 1 at 10:59 p.m. GMT, which was before any sale began, and the Lisbon date is not part of that presale. US clocks went back on Nov. 1, so GMT is 5 hours ahead of ET for the whole sale week. A one-page timeline is in the downloads.
 
 ## What time do U2 tickets go on sale?
 
 | Step | Date | Time (U2.com) | ET | Central European Time (CET) |
 |---|---|---|---|---|
-| Artist Presale sign-up closes | Sun., Nov. 1, 2026 | 10:59 p.m. GMT | 5:59 p.m. | 11:59 p.m. |
+| Artist Presale sign-up closed | Sun., Nov. 1, 2026 | 10:59 p.m. GMT | 5:59 p.m. | 11:59 p.m. |
 | Subscriber presale (Feedback Group) | Mon., Nov. 2, 2026 | 10 a.m. GMT | 5 a.m. | 11 a.m. |
 | Subscriber presale (Hype Group) | Tue., Nov. 3, 2026 | Day two of the presale | Not stated | Not stated |
 | Visa cardholder presale | Wed., Nov. 4, 2026 | 10 a.m. to 10 p.m. local time | 5 a.m. for the UK start (10 a.m. GMT) | 10 a.m. to 10 p.m. in CET countries |
@@ -122,9 +123,9 @@ The GMT, ET and CET conversions are our calculation. U2.com gives the Visa and A
 
 ## Who can use the U2 presales?
 
-- **Subscriber presale.** It starts Monday, Nov. 2 at 10 a.m. GMT for U2.com subscribers. The Feedback Group enters on the Monday and The Hype Group on Tuesday. Subscribers are emailed a unique presale code in advance, and new subscribers join The Hype Group with access on day two, U2.com says.
+- **Subscriber presale.** It began Monday, Nov. 2 at 10 a.m. GMT for U2.com subscribers. The Feedback Group enters on the Monday and The Hype Group on Tuesday. Subscribers are emailed a unique presale code in advance, and new subscribers join The Hype Group with access on day two, U2.com says.
 - **Visa cardholders.** They have presale access in the European Union (EU) and UK from Wednesday, Nov. 4 at 10 a.m. local time until 10 p.m. the same day, while supply lasts.
-- **Artist Presale.** It runs Thursday, Nov. 5 at 10 a.m. local time. Anyone who signs up by Sunday, Nov. 1 at 10:59 p.m. GMT (11:59 p.m. CET) can join. On Ticketmaster no code is needed because access is tied to your account; sales hosted on other sites may need a code. Some fans may be asked for a selfie check or, in rare cases, an ID via Persona.
+- **Artist Presale.** It runs Thursday, Nov. 5 at 10 a.m. local time. Anyone who signed up by Sunday, Nov. 1 at 10:59 p.m. GMT (11:59 p.m. CET) can join; the sign-up window has closed. On Ticketmaster no code is needed because access is tied to your account; sales hosted on other sites may need a code. Some fans may be asked for a selfie check or, in rare cases, an ID via Persona.
 
 ## What are the U2 2027 tour dates?
 
@@ -157,4 +158,4 @@ Ticketmaster's article of Oct. 29, 2026 says there is a limit of 4 tickets per s
 
 U2.com says 2027 dates for North America are set to be announced in the coming weeks, and Spain dates are coming soon. The Edge says the band will be "wrapping it up in Ireland," with plans for the tour already in the works for 2028; no Irish date is announced. A Latin America leg for 2027 with support from Beck also exists, and its Mexico City shows have sold out, according to U2.com.
 
-Sale times can change, so check U2.com before Nov. 1. Mark the sale week on the [November 2026 printable calendar](/november-calendars.html). Another UK stadium ticket guide is our [Sam Fender 2027 tickets story](/news/sam-fender-tickets-2027-stadium-tour-presale-general-sale-time/); for May dates in Europe see [Eurovision 2027 dates](/news/eurovision-2027-dates-burgas-semi-finals-grand-final-may-15/), and for days off in Britain see the [UK bank holidays 2027 story](/news/uk-bank-holidays-2027-dates-england-scotland-northern-ireland/).
+Sale times can change, so check U2.com before the sale. Mark the sale week on the [November 2026 printable calendar](/november-calendars.html). Another UK stadium ticket guide is our [Sam Fender 2027 tickets story](/news/sam-fender-tickets-2027-stadium-tour-presale-general-sale-time/); for May dates in Europe see [Eurovision 2027 dates](/news/eurovision-2027-dates-burgas-semi-finals-grand-final-may-15/), and for days off in Britain see the [UK bank holidays 2027 story](/news/uk-bank-holidays-2027-dates-england-scotland-northern-ireland/).

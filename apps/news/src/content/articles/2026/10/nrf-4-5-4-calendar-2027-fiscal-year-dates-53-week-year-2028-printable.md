@@ -4,6 +4,7 @@ seoTitle: "NRF 4-5-4 Calendar 2027: Fiscal Dates and 2028"
 description: "The National Retail Federation (NRF) 4-5-4 calendar sets fiscal 2027 at 52 weeks, Jan. 31, 2027 to Jan. 29, 2028; fiscal 2028 has 53 weeks."
 type: explainer
 publishedAt: "2026-10-29T01:44:00-04:00"
+updatedAt: "2026-11-02T14:10:00-05:00"
 authors: [jessica-hartwell]
 category: calendar-guides
 keywords: ["4-5-4 calendar 2027", "nrf 4-5-4 calendar 2026", "retail fiscal calendar 2027", "53 week year 2028 retail"]
@@ -114,7 +115,7 @@ draft: false
 
 NRF describes the 4-5-4 calendar as a retail sales reporting and merchandising calendar. Each quarter has three fiscal months of 4, 5 and 4 weeks, so a quarter is 13 weeks and a standard year is 52. On NRF's 2026-2028 grid the pattern repeats in every quarter: February 4 weeks, March 5, April 4; May 4, June 5, July 4; August 4, September 5, October 4; November 4, December 5, January 4.
 
-Today, Thursday, Oct. 29, 2026, falls in fiscal October of fiscal 2026 (Oct. 4 to Oct. 31), in its fourth week. Our [fiscal year calendar guide](/guides/fiscal-year-calendar.html) explains how a fiscal year differs from a calendar year.
+Monday, Nov. 2, 2026, falls in fiscal November of fiscal 2026 (Nov. 1 to Nov. 28), in its first week. Our [fiscal year calendar guide](/guides/fiscal-year-calendar.html) explains how a fiscal year differs from a calendar year.
 
 ## NRF 4-5-4 calendar fiscal 2026, 2027 and 2028 by month
 

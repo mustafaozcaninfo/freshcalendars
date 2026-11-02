@@ -4,7 +4,7 @@ seoTitle: "December 2026 Holidays: Calendar With Every Key Date"
 description: "Holidays in December 2026: Hanukkah from Dec. 4, the solstice Dec. 21, Christmas on Friday, Dec. 25, plus shipping and enrollment deadlines and days until each."
 type: explainer
 publishedAt: "2026-10-24T17:00:00-04:00"
-updatedAt: "2026-10-27T03:03:00-04:00"
+updatedAt: "2026-11-02T14:10:00-05:00"
 authors: [jessica-hartwell]
 category: calendar-guides
 keywords: ["December 2026 holidays", "December 2026 important dates", "holidays in December 2026", "days until Christmas 2026", "Christmas 2026 day of week"]
@@ -18,7 +18,7 @@ assets:
   scene: night-sky
   kicker: "December 2026 · Christmas is a Friday"
   date: "2026-12-25"
-  card: { top: "Days until Christmas, from Oct. 24", big: "62 days", bottom: "Hanukkah starts at sundown Dec. 4" }
+  card: { top: "Days until Christmas, from Nov. 2", big: "53 days", bottom: "Hanukkah starts at sundown Dec. 4" }
   printable:
     slug: december-2026-important-dates-calendar
     group: december-2026
@@ -46,12 +46,12 @@ summary:
   - "December 2026 starts on Tuesday, Dec. 1 and ends on Thursday, Dec. 31. Christmas Day, Friday, Dec. 25, is the month's only federal holiday."
   - "Hanukkah begins at sundown on Friday, Dec. 4; the winter solstice is Monday, Dec. 21, at 3:50 p.m. EST, and the Cold Moon supermoon is full on Dec. 23."
   - "Deadlines: Medicare open enrollment ends Dec. 7, federal funding runs through Dec. 11, and HealthCare.gov plans for Jan. 1 must be picked by Dec. 15."
-  - "From Saturday, Oct. 24, there are 62 days until Christmas. A free printable puts every date on one page."
+  - "From Monday, Nov. 2, there are 53 days until Christmas. A free printable puts every date on one page."
 faq:
   - q: "What day of the week is Christmas 2026?"
     a: "Friday, Dec. 25, 2026. Christmas Eve is Thursday, Dec. 24, and New Year's Eve is Thursday, Dec. 31."
   - q: "How many days until Christmas 2026?"
-    a: "62 days from Saturday, Oct. 24, 2026. There are 7 days left in October, 30 in November and 25 to Christmas in December."
+    a: "53 days from Monday, Nov. 2, 2026. There are 28 days left in November and 25 to Christmas in December."
   - q: "What federal holidays are in December 2026?"
     a: "One: Christmas Day on Friday, Dec. 25, according to the Office of Personnel Management. Christmas Eve is not a federal holiday unless a president closes offices by executive order, which had not happened for 2026 as of Oct. 23."
   - q: "When is Hanukkah 2026?"
@@ -95,7 +95,7 @@ downloads:
 draft: false
 ---
 
-**December 2026 begins on Tuesday, Dec. 1, and its one federal holiday, Christmas Day, falls on Friday, Dec. 25, according to the U.S. Office of Personnel Management (OPM).** Hanukkah starts at sundown on Friday, Dec. 4, the winter solstice arrives on Monday, Dec. 21, and the month closes with New Year's Eve on a Thursday. It is also a month of deadlines: Medicare open enrollment ends Dec. 7, federal funding runs out after Dec. 11, and the Postal Service's last recommended Christmas shipping dates fall between Dec. 9 and Dec. 19. The countdowns below are counted from Saturday, Oct. 24, 2026.
+**December 2026 begins on Tuesday, Dec. 1, and its one federal holiday, Christmas Day, falls on Friday, Dec. 25, according to the U.S. Office of Personnel Management (OPM).** Hanukkah starts at sundown on Friday, Dec. 4, the winter solstice arrives on Monday, Dec. 21, and the month closes with New Year's Eve on a Thursday. It is also a month of deadlines: Medicare open enrollment ends Dec. 7, federal funding runs out after Dec. 11, and the Postal Service's last recommended Christmas shipping dates fall between Dec. 9 and Dec. 19. The countdowns below are counted from Monday, Nov. 2, 2026.
 
 ## December 2026 calendar at a glance
 
@@ -115,24 +115,24 @@ For plain monthly layouts without these dates, the [December 2026 printable cale
 
 <p class="days-live" data-days-until="2026" hidden></p>
 
-| Date | Day | What happens | Days from Oct. 24 |
+| Date | Day | What happens | Days from Nov. 2 |
 |---|---|---|---|
-| Dec. 4 | Friday | Hanukkah begins at sundown | 41 |
-| Dec. 7 | Monday | Medicare open enrollment ends; National Pearl Harbor Remembrance Day | 44 |
-| Dec. 9 | Wednesday | USPS: send international First-Class Package and Priority Mail | 46 |
-| Dec. 11 | Friday | Last night of Hanukkah candles; federal funding expires at the end of the day | 48 |
-| Dec. 13 | Sunday | Geminid meteor shower peaks overnight into Dec. 14 | 50 |
-| Dec. 15 | Tuesday | HealthCare.gov deadline for coverage starting Jan. 1 | 52 |
-| Dec. 17 | Thursday | USPS: send Ground Advantage and First-Class Mail | 54 |
-| Dec. 18 | Friday | USPS: send Priority Mail | 55 |
-| Dec. 19 | Saturday | USPS: send Priority Mail Express | 56 |
-| Dec. 21 | Monday | Winter solstice, 3:50 p.m. EST | 58 |
-| Dec. 23 | Wednesday | Cold Moon, full at 8:28 p.m. EST | 60 |
-| Dec. 24 | Thursday | Christmas Eve; NYSE closes at 1 p.m. ET | 61 |
-| Dec. 25 | Friday | Christmas Day (federal holiday) | 62 |
-| Dec. 31 | Thursday | New Year's Eve | 68 |
+| Dec. 4 | Friday | Hanukkah begins at sundown | 32 |
+| Dec. 7 | Monday | Medicare open enrollment ends; National Pearl Harbor Remembrance Day | 35 |
+| Dec. 9 | Wednesday | USPS: send international First-Class Package and Priority Mail | 37 |
+| Dec. 11 | Friday | Last night of Hanukkah candles; federal funding expires at the end of the day | 39 |
+| Dec. 13 | Sunday | Geminid meteor shower peaks overnight into Dec. 14 | 41 |
+| Dec. 15 | Tuesday | HealthCare.gov deadline for coverage starting Jan. 1 | 43 |
+| Dec. 17 | Thursday | USPS: send Ground Advantage and First-Class Mail | 45 |
+| Dec. 18 | Friday | USPS: send Priority Mail | 46 |
+| Dec. 19 | Saturday | USPS: send Priority Mail Express | 47 |
+| Dec. 21 | Monday | Winter solstice, 3:50 p.m. EST | 49 |
+| Dec. 23 | Wednesday | Cold Moon, full at 8:28 p.m. EST | 51 |
+| Dec. 24 | Thursday | Christmas Eve; NYSE closes at 1 p.m. ET | 52 |
+| Dec. 25 | Friday | Christmas Day (federal holiday) | 53 |
+| Dec. 31 | Thursday | New Year's Eve | 59 |
 
-To count from another day, add the days left in the current month to the days in each month before your date. From Oct. 24 there are 7 days left in October and 30 in November, so Dec. 4 is 7 + 30 + 4 = 41 days away.
+To count from another day, add the days left in the current month to the days in each full month before your date. From Nov. 2 there are 28 days left in November, so Dec. 4 is 28 + 4 = 32 days away.
 
 ## Hanukkah, Dec. 4 to 12
 

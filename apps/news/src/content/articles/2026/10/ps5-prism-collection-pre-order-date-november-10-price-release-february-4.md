@@ -4,6 +4,7 @@ seoTitle: "PS5 Prism Collection Pre-Order: Nov. 10, Price"
 description: "PlayStation 5 (PS5) Prism Collection pre-orders open Nov. 10, 2026 at 10 a.m. Eastern Time (ET). See prices, time zones and the Feb. 4, 2027 launch."
 type: news
 publishedAt: "2026-10-30T05:45:00-04:00"
+updatedAt: "2026-11-02T14:10:00-05:00"
 authors: [jessica-hartwell]
 category: gaming-tech
 keywords: ["PS5 Prism Collection pre order", "Prism Collection release date", "transparent DualSense price", "PS5 Prism Collection pre-order time"]
@@ -99,7 +100,7 @@ The collection adds "three striking transparent designs for DualSense wireless c
 
 ## What time do Prism Collection pre-orders start?
 
-PlayStation says pre-orders start on Nov. 10, 2026 at 10 a.m. local time, directly from PlayStation where available and at participating retailers. For the U.S., it gives 7:00 a.m. PT and 10:00 a.m. ET. U.S. clocks move back on Sunday, Nov. 1, so Nov. 10 falls on standard time and the conversions below use it.
+PlayStation says pre-orders start on Nov. 10, 2026 at 10 a.m. local time, directly from PlayStation where available and at participating retailers. For the U.S., it gives 7:00 a.m. PT and 10:00 a.m. ET. U.S. clocks moved back on Sunday, Nov. 1, so Nov. 10 falls on standard time and the conversions below use it.
 
 | Where | Pre-orders open on Tue., Nov. 10 |
 |---|---|

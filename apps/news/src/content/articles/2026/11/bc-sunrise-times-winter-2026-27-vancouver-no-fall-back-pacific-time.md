@@ -1,9 +1,10 @@
 ---
-title: "B.C. Sunrise Times Winter 2026-27: Vancouver 8:01 a.m. Today, Latest 9:08 a.m."
+title: "B.C. Sunrise Times Winter 2026-27: Vancouver 8:01 a.m. on Nov. 1, Latest 9:08 a.m."
 seoTitle: "B.C. Sunrise Times Winter 2026-27 by City"
-description: "Sunrise in Vancouver is 8:01 a.m. Pacific time (PCT) today, Nov. 1, 2026, per the U.S. Naval Observatory (USNO). B.C. clocks did not fall back; see six cities."
+description: "Sunrise in Vancouver was 8:01 a.m. Pacific time (PCT) on Nov. 1, 2026, per the U.S. Naval Observatory (USNO). B.C. clocks did not fall back; see six cities."
 type: explainer
 publishedAt: "2026-11-01T06:47:00-05:00"
+updatedAt: "2026-11-02T14:10:00-05:00"
 authors: [jessica-hartwell]
 category: time-change
 keywords: ["Vancouver sunrise time", "B.C. sunrise times winter 2026", "what time is sunrise in Vancouver", "latest sunrise Vancouver", "B.C. no time change November 2026"]
@@ -11,7 +12,7 @@ dateline: "Vancouver"
 hero:
   src: ../../../../assets/news/bc-sunrise-times-winter-2026-27-vancouver-no-fall-back-pacific-time/bc-sunrise-times-winter-2026-27-vancouver-no-fall-back-pacific-time.webp
   alt: "Sunrise over the Burnaby and Vancouver skyline with red clouds above the North Shore mountains, for B.C. sunrise times in winter 2026-27"
-  caption: "File photo: sunrise over Burnaby and Vancouver. Vancouver sunrise is 8:01 a.m. on Nov. 1, 2026, and 9:08 a.m. at the latest, according to U.S. Naval Observatory data."
+  caption: "File photo: sunrise over Burnaby and Vancouver. Vancouver sunrise was 8:01 a.m. on Nov. 1, 2026, and is 9:08 a.m. at the latest, according to U.S. Naval Observatory data."
   credit: "Photo: David Zhang / Wikimedia Commons, cropped, edited"
   license:
     name: "CC BY-SA 2.0"
@@ -62,13 +63,13 @@ downloads:
     png: "/news/downloads/bc-sunrise-2026/bc-winter-sunrise-sunset-chart-2026-27-ink.png"
     pages: 1
 summary:
-  - "British Columbia (B.C.) did not turn clocks back on Sunday, Nov. 1, 2026, so Vancouver sunrise is 8:01 a.m. Pacific time (PCT) and sunset is 5:51 p.m., according to the U.S. Naval Observatory (USNO)."
+  - "British Columbia (B.C.) did not turn clocks back on Sunday, Nov. 1, 2026, so Vancouver sunrise was 8:01 a.m. Pacific time (PCT) and sunset was 5:51 p.m., according to the U.S. Naval Observatory (USNO)."
   - "Vancouver's latest sunrise is 9:08 a.m., from Dec. 29, 2026, through Jan. 3, 2027."
   - "Vancouver sunrise first returns to before 8 a.m. on Saturday, Feb. 27, 2027, at 7:59 a.m."
   - "By our calculation from USNO times, the old fall back would have put the Dec. 21 Vancouver sunrise at 8:05 a.m. and sunset at 4:16 p.m."
 faq:
-  - q: "What time is sunrise in Vancouver today?"
-    a: "On Sunday, Nov. 1, 2026, sunrise in Vancouver is 8:01 a.m. Pacific time (PCT) and sunset is 5:51 p.m., according to the U.S. Naval Observatory."
+  - q: "What time was sunrise in Vancouver on Nov. 1, 2026?"
+    a: "On Sunday, Nov. 1, 2026, sunrise in Vancouver was 8:01 a.m. Pacific time (PCT) and sunset was 5:51 p.m., according to the U.S. Naval Observatory."
   - q: "When is the latest sunrise in Vancouver this winter?"
     a: "9:08 a.m., from Dec. 29, 2026, through Jan. 3, 2027, according to U.S. Naval Observatory data."
   - q: "When does sunrise in Vancouver come before 8 a.m. again?"
@@ -105,7 +106,7 @@ related: [canada-clocks-fall-back-november-1-2026-which-provinces-no-time-change
 draft: false
 ---
 
-On **Sunday, Nov. 1, 2026**, British Columbia (B.C.) did not turn clocks back, so sunrise in Vancouver today is 8:01 a.m. Pacific time (PCT) and sunset is 5:51 p.m., according to the U.S. Naval Observatory (USNO). Most of the province is on PCT, which is seven hours behind Coordinated Universal Time (UTC-7); the exceptions are northeastern B.C. and southeastern B.C., covered below. The tables give sunrise and sunset for six cities through March 1, 2027.
+On **Sunday, Nov. 1, 2026**, British Columbia (B.C.) did not turn clocks back, so sunrise in Vancouver that day was 8:01 a.m. Pacific time (PCT) and sunset was 5:51 p.m., according to the U.S. Naval Observatory (USNO). Most of the province is on PCT, which is seven hours behind Coordinated Universal Time (UTC-7); the exceptions are northeastern B.C. and southeastern B.C., covered below. The tables give sunrise and sunset for six cities through March 1, 2027.
 
 A one-page [printable B.C. winter sunrise and sunset chart](/news/downloads/bc-sunrise-2026/bc-winter-sunrise-sunset-chart-2026-27.pdf) is on this page.
 
@@ -160,4 +161,4 @@ Alberta says its time is equivalent to UTC-6 and that it "officially moves to Al
 
 ## How do sunrise and sunset compare with U.S. cities?
 
-The U.S. fell back today, so Seattle sunset is 4:51 p.m. while Vancouver's is 5:51 p.m., according to USNO data in our [U.S. sunset table](/news/sunset-times-after-daylight-saving-time-ends-2026/). The shortest day is Monday, Dec. 21, 2026; our [winter solstice story](/news/winter-solstice-2026-december-21-shortest-day-sunset-times/) has the daylight totals. Mark the dates on our [November](/november-calendars.html) and [December](/december-calendars.html) 2026 printable calendars.
+The U.S. fell back on Nov. 1, so Seattle sunset was 4:51 p.m. that day while Vancouver's was 5:51 p.m., according to USNO data in our [U.S. sunset table](/news/sunset-times-after-daylight-saving-time-ends-2026/). The shortest day is Monday, Dec. 21, 2026; our [winter solstice story](/news/winter-solstice-2026-december-21-shortest-day-sunset-times/) has the daylight totals. Mark the dates on our [November](/november-calendars.html) and [December](/december-calendars.html) 2026 printable calendars.

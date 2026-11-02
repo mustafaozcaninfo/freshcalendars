@@ -1,9 +1,10 @@
 ---
-title: "Intersex Awareness Day 2026 Is Monday, Oct. 26: Origin and the Nov. 8 Day of Solidarity"
+title: "Intersex Awareness Day 2026 Was Monday, Oct. 26: Origin and the Nov. 8 Day of Solidarity"
 seoTitle: "Intersex Awareness Day 2026, Oct. 26: Origin and Dates"
-description: "Intersex Awareness Day is observed Oct. 26, a Monday in 2026. It marks a 1996 demonstration in Boston; Intersex Day of Solidarity follows on Sunday, Nov. 8."
+description: "Intersex Awareness Day was observed Oct. 26, a Monday in 2026. It marks a 1996 demonstration in Boston; Intersex Day of Solidarity follows on Sunday, Nov. 8."
 type: explainer
 publishedAt: "2026-10-23T02:50:00-04:00"
+updatedAt: "2026-11-02T14:10:00-05:00"
 authors: [christina-gerland]
 category: holidays
 keywords: ["Intersex Awareness Day 2026", "Intersex Awareness Day October 26", "Intersex Day of Solidarity"]
@@ -16,9 +17,9 @@ assets:
 hero:
   src: ../../../../assets/news/intersex-awareness-day-2026-october-26/intersex-awareness-day-2026-october-26.jpg
   alt: "Intersex Awareness Day 2026 illustration: a calendar card for Monday, Oct. 26"
-  caption: "Intersex Awareness Day is observed on Oct. 26, a Monday in 2026; Intersex Day of Solidarity is Sunday, Nov. 8."
+  caption: "Intersex Awareness Day is observed on Oct. 26, which was a Monday in 2026; Intersex Day of Solidarity is Sunday, Nov. 8."
 summary:
-  - "Intersex Awareness Day is observed on Oct. 26, which is a Monday in 2026."
+  - "Intersex Awareness Day is observed on Oct. 26, which was a Monday in 2026."
   - "It marks the first public intersex demonstration in North America, held Oct. 26, 1996, in Boston outside the annual meeting of the American Academy of Pediatrics (AAP)."
   - "The day was created in 2003 by Emi Koyama and Betsy Driver and was first observed in 2004."
   - "Nov. 8 is Intersex Day of Solidarity, also called Intersex Day of Remembrance, which marks the birthday of Herculine Barbin."
@@ -41,7 +42,7 @@ related: [october-20-2026-what-day-holidays-observances]
 draft: false
 ---
 
-**Intersex Awareness Day is observed on Oct. 26, which falls on a Monday in 2026.** According to the Intersex Day Project, the date marks the anniversary of the first public intersex demonstration in North America.
+**Intersex Awareness Day is observed on Oct. 26, which fell on a Monday in 2026.** According to the Intersex Day Project, the date marks the anniversary of the first public intersex demonstration in North America.
 
 ## Where the date comes from
 
@@ -55,15 +56,15 @@ interACT: Advocates for Intersex Youth describes the day as a time for awareness
 
 ## Oct. 26 to Nov. 8
 
-Nov. 8 is Intersex Day of Solidarity, which is a Sunday in 2026. The Intersex Day Project says the date, also called Intersex Day of Remembrance, marks the birthday of Herculine Barbin, a French intersex person.
+Nov. 8 is Intersex Day of Solidarity, which is a Sunday in 2026, six days after Nov. 2. The Intersex Day Project says the date, also called Intersex Day of Remembrance, marks the birthday of Herculine Barbin, a French intersex person.
 
 | Date | Observance |
 |---|---|
-| Mon., Oct. 26, 2026 | Intersex Awareness Day |
+| Mon., Oct. 26, 2026 (passed) | Intersex Awareness Day |
 | Sun., Nov. 8, 2026 | Intersex Day of Solidarity |
 
 ## How to read the dates
 
-Oct. 26 falls on a different weekday each year, so the date, not the weekday, defines the observance. In 2026 it lands on a Monday, which puts it at the start of a two-week stretch that closes on Sunday, Nov. 8. Counting both days, that is 14 days.
+Oct. 26 falls on a different weekday each year, so the date, not the weekday, defines the observance. In 2026 it landed on a Monday, which put it at the start of a two-week stretch that closes on Sunday, Nov. 8. Counting both days, that is 14 days.
 
 To see what else falls in the month, read our [October 2026 holidays and observances](/news/october-20-2026-what-day-holidays-observances/) story, and mark both dates on the [October](/october-calendars.html) and [November](/november-calendars.html) printable calendars.

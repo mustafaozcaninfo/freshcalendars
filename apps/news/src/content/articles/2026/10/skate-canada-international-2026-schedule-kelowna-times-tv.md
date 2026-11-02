@@ -1,9 +1,10 @@
 ---
 title: "Skate Canada International 2026 Schedule: Kelowna Start Times by Time Zone and TV"
 seoTitle: "Skate Canada 2026 Schedule: Kelowna Times and TV"
-description: "Skate Canada International runs Oct. 30-Nov. 1, 2026 in Kelowna; the women's short is Sat. at 3:30 p.m. Eastern Time (ET), 12:30 p.m. Pacific Time (PT)."
+description: "Skate Canada International ran Oct. 30-Nov. 1, 2026 in Kelowna; the women's short was Sat. at 3:30 p.m. Eastern Time (ET), 12:30 p.m. Pacific Time (PT)."
 type: news
 publishedAt: "2026-10-30T21:43:00-04:00"
+updatedAt: "2026-11-02T14:10:00-05:00"
 authors: [christina-gerland]
 category: uk-canada
 keywords: ["skate canada international 2026 schedule", "skate canada 2026 tv schedule", "skate canada kelowna times", "grand prix figure skating 2026 schedule"]
@@ -11,7 +12,7 @@ dateline: "Kelowna"
 hero:
   src: ../../../../assets/news/skate-canada-international-2026-schedule-kelowna-times-tv/skate-canada-international-2026-schedule-kelowna-times-tv.webp
   alt: "Ice dancers on the ice at Skate Canada in 2023, file photo for the Skate Canada International 2026 schedule in Kelowna"
-  caption: "File photo from Skate Canada 2023. Skate Canada International 2026 is held at Prospera Place in Kelowna from Oct. 30 to Nov. 1."
+  caption: "File photo from Skate Canada 2023. Skate Canada International 2026 was held at Prospera Place in Kelowna from Oct. 30 to Nov. 1."
   credit: "Photo: SpiritedMichelle / Wikimedia Commons, cropped, edited"
   license:
     name: "CC BY 4.0"
@@ -19,17 +20,17 @@ hero:
     source: "https://commons.wikimedia.org/wiki/File:Skate_Canada_2023_-_Fear_%26_Gibson-RD_01.jpg"
     author: "SpiritedMichelle"
 summary:
-  - "Skate Canada International 2026 is at Prospera Place in Kelowna, British Columbia, from Oct. 30 to Nov. 1, according to Skate Canada."
-  - "Saturday's women's short program starts at 12:30 p.m. Pacific Time (PT) in Kelowna, which is 3:30 p.m. Eastern Time (ET), and NBC Sports lists it on Peacock."
-  - "Skate Canada's event page says there will be no Exhibition Gala this year; the weekend ends with the free dance on Sunday."
-  - "The event is the second stop of the 2026-27 International Skating Union (ISU) Grand Prix series, which ends with the Grand Prix Final in Chongqing, China, on Dec. 10-13."
+  - "Skate Canada International 2026 was held at Prospera Place in Kelowna, British Columbia, from Oct. 30 to Nov. 1, according to Skate Canada."
+  - "Saturday's women's short program was scheduled for 12:30 p.m. Pacific Time (PT) in Kelowna, which was 3:30 p.m. Eastern Time (ET), and NBC Sports listed it on Peacock."
+  - "Skate Canada's event page said there would be no Exhibition Gala this year; the weekend ended with the free dance on Sunday."
+  - "The event was the second stop of the 2026-27 International Skating Union (ISU) Grand Prix series, which ends with the Grand Prix Final in Chongqing, China, on Dec. 10-13."
 faq:
-  - q: "What time is the women's short program at Skate Canada International 2026?"
-    a: "Saturday, Oct. 31 at 12:30 p.m. in Kelowna (PT), which is 3:30 p.m. ET, according to Skate Canada's schedule and NBC Sports."
-  - q: "Where can I watch Skate Canada International 2026 in the U.S.?"
-    a: "NBC Sports and U.S. Figure Skating said on Sept. 17, 2026 that Peacock streams every Grand Prix event live. NBC's schedule lists NBC Sports Network (NBCSN) for the men's free skate, pairs' free skate, women's free skate and free dance, and NBC for Sunday highlights at 12 p.m. ET."
-  - q: "Is there an exhibition gala at Skate Canada International 2026?"
-    a: "No. Skate Canada's event page says there will be no Exhibition Gala this year."
+  - q: "What time was the women's short program at Skate Canada International 2026?"
+    a: "Saturday, Oct. 31 at 12:30 p.m. in Kelowna (PT), which was 3:30 p.m. ET, according to Skate Canada's schedule and NBC Sports."
+  - q: "Where was Skate Canada International 2026 shown in the U.S.?"
+    a: "NBC Sports and U.S. Figure Skating said on Sept. 17, 2026 that Peacock streams every Grand Prix event live. NBC's schedule listed NBC Sports Network (NBCSN) for the men's free skate, pairs' free skate, women's free skate and free dance, and NBC for Sunday highlights at 12 p.m. ET."
+  - q: "Was there an exhibition gala at Skate Canada International 2026?"
+    a: "No. Skate Canada's event page said there would be no Exhibition Gala this year."
   - q: "How much are tickets to Skate Canada International 2026?"
     a: "Single-session tickets are $75, $65, $50 and $30 in Canadian dollars for price levels P1 to P4, plus taxes and fees, according to Skate Canada's event page."
 sources:
@@ -117,13 +118,13 @@ assets:
 draft: false
 ---
 
-**Skate Canada International 2026 is under way at Prospera Place in Kelowna, British Columbia, from Friday, Oct. 30 to Sunday, Nov. 1, and Saturday's women's short program starts at 12:30 p.m. Pacific Time (PT), which is 3:30 p.m. Eastern Time (ET), according to Skate Canada's event page.** NBC Sports lists the same 3:30 p.m. ET start on Peacock. The table below converts every session to Mountain, Central, Eastern and Atlantic time, and a second table lists the rest of the 2026-27 International Skating Union (ISU) Grand Prix season.
+**Skate Canada International 2026 was held at Prospera Place in Kelowna, British Columbia, from Friday, Oct. 30 to Sunday, Nov. 1, and Saturday's women's short program was scheduled for 12:30 p.m. Pacific Time (PT), which was 3:30 p.m. Eastern Time (ET), according to Skate Canada's event page.** NBC Sports listed the same 3:30 p.m. ET start on Peacock. The table below converts every session to Mountain, Central, Eastern and Atlantic time, and a second table lists the rest of the 2026-27 International Skating Union (ISU) Grand Prix season.
 
 ## Skate Canada International 2026 start times by time zone
 
-Skate Canada says that "all times are in Pacific Time (PT) and are subject to change." The Kelowna times below are Skate Canada's; the other columns are our conversion. Mountain and Central mean U.S. Mountain Time (MT) and U.S. Central Time (CT), such as Denver and Chicago.
+Skate Canada said that "all times are in Pacific Time (PT) and are subject to change." The Kelowna times below are Skate Canada's; the other columns are our conversion. Mountain and Central mean U.S. Mountain Time (MT) and U.S. Central Time (CT), such as Denver and Chicago.
 
-One detail changes the math on Sunday. The U.S. and Atlantic Canada set clocks back at 2 a.m. on Nov. 1, but British Columbia does not: its government said that on Nov. 1, 2026 "no change will be made" and that Pacific time is set at UTC-7 (see our [Canada clock change story](/news/canada-clocks-fall-back-november-1-2026-which-provinces-no-time-change/)). Kelowna therefore stays one hour ahead of Seattle on Sunday, and the gap to Eastern Time shrinks from three hours to two.
+One detail changed the math on Sunday. The U.S. and Atlantic Canada set clocks back at 2 a.m. on Nov. 1, but British Columbia did not: its government said that on Nov. 1, 2026 "no change will be made" and that Pacific time is set at UTC-7 (see our [Canada clock change story](/news/canada-clocks-fall-back-november-1-2026-which-provinces-no-time-change/)). Kelowna therefore stayed one hour ahead of Seattle on Sunday, and the gap to Eastern Time shrank from three hours to two.
 
 | Day | Session | Kelowna | Mountain | Central | Eastern | Atlantic |
 |---|---|---|---|---|---|---|
@@ -137,11 +138,11 @@ One detail changes the math on Sunday. The U.S. and Atlantic Canada set clocks b
 | Sun., Nov. 1 | Women free skate | 1:00 p.m. | 1:00 p.m. | 2:00 p.m. | 3:00 p.m. | 4:00 p.m. |
 | Sun., Nov. 1 | Free dance | 3:15 p.m. | 3:15 p.m. | 4:15 p.m. | 5:15 p.m. | 6:15 p.m. |
 
-The Eastern column matches NBC Sports' own listing for all eight sessions that NBC lists, including Sunday's 3 p.m. and 5:15 p.m. ET. The opening ceremony, from 7:35 to 8 p.m. Kelowna time, is on Skate Canada's schedule but not on NBC's.
+The Eastern column matches NBC Sports' own listing for all eight sessions that NBC lists, including Sunday's 3 p.m. and 5:15 p.m. ET. The opening ceremony, from 7:35 to 8 p.m. Kelowna time, was on Skate Canada's schedule but not on NBC's.
 
 ## What TV channel shows Skate Canada International 2026?
 
-An NBC Sports and U.S. Figure Skating release of Sept. 17, 2026 lists "Grand Prix Canada" on NBC, Peacock and NBC Sports Network (NBCSN), and says Peacock streams every event live. NBC Sports' figure skating schedule, checked Oct. 30, 2026, gives these times in ET:
+An NBC Sports and U.S. Figure Skating release of Sept. 17, 2026 listed "Grand Prix Canada" on NBC, Peacock and NBC Sports Network (NBCSN), and said Peacock streams every event live. NBC Sports' figure skating schedule, checked Oct. 30, 2026, gave these times in ET:
 
 | Day | Session | ET start | Where, per NBC Sports |
 |---|---|---|---|
@@ -155,7 +156,7 @@ An NBC Sports and U.S. Figure Skating release of Sept. 17, 2026 lists "Grand Pri
 | Sun., Nov. 1 | Women's free | 3 p.m. | Peacock, NBCSN |
 | Sun., Nov. 1 | Free dance | 5:15 p.m. | Peacock, NBCSN |
 
-Streaming for viewers in Canada is listed on Skate Canada's site at streaming.skatecanada.ca. Skate Canada's event page also says: "Please note that there will be no Exhibition Gala this year." Because times are subject to change, check Peacock's listing before each session.
+Streaming for viewers in Canada was listed on Skate Canada's site at streaming.skatecanada.ca. Skate Canada's event page also said: "Please note that there will be no Exhibition Gala this year." The next Grand Prix events are in the table below.
 
 ## Who is entered in Skate Canada International 2026?
 
@@ -165,7 +166,7 @@ In pairs, entries include Lia Pereira and Trennt Michaud of Canada and Alisa Efi
 
 ## How much are Skate Canada International 2026 tickets?
 
-Skate Canada's event page lists single-session tickets in Canadian dollars, plus taxes and fees.
+Skate Canada's event page listed single-session tickets in Canadian dollars, plus taxes and fees.
 
 | Price level | Single session |
 |---|---|
@@ -176,7 +177,7 @@ Skate Canada's event page lists single-session tickets in Canadian dollars, plus
 
 ## Grand Prix figure skating 2026-27 schedule to the Final
 
-Skate Canada International is the second event of the series, which Skate Canada's June 16, 2026 release lists as follows. Dates are as published; weekdays are computed.
+Skate Canada International was the second event of the series, which Skate Canada's June 16, 2026 release lists as follows. Dates are as published; weekdays are computed.
 
 | Event | Place | Dates | Days |
 |---|---|---|---|

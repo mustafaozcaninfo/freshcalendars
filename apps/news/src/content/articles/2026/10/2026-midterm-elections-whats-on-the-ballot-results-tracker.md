@@ -4,7 +4,7 @@ seoTitle: "2026 Midterm Elections: What's on the Ballot Nov. 3"
 description: "The Nov. 3, 2026 midterms decide 35 Senate seats, all 435 House seats and 36 governors. Every race by state, dates after Election Day and a printable tracker."
 type: explainer
 publishedAt: "2026-10-20T11:00:00-04:00"
-updatedAt: "2026-11-02T13:17:00-05:00"
+updatedAt: "2026-11-02T14:10:00-05:00"
 authors: [christina-gerland]
 category: elections
 keywords: ["2026 midterm elections", "senate seats up in 2026", "governor races 2026", "midterm election 2026 date", "election night tracker printable"]
@@ -21,7 +21,7 @@ summary:
   - "The new Congress convenes in January 2027; Georgia holds runoffs on Dec. 1 if no candidate wins a majority."
 faq:
   - q: "When is the 2026 midterm election?"
-    a: "Tuesday, Nov. 3, 2026. Many states have already opened early voting, and mail ballots are out in all-mail states."
+    a: "Tuesday, Nov. 3, 2026, which is tomorrow. Early in-person voting has ended in Texas, Connecticut and North Carolina."
   - q: "How many Senate seats are up in 2026?"
     a: "Thirty-five: the 33 regularly scheduled Class 2 seats plus special elections in Ohio and Florida. The Senate currently has 53 Republicans and 47 Democrats and independents who caucus with them."
   - q: "Which states have governor races in 2026?"
@@ -118,4 +118,4 @@ Polls close from 6 p.m. Eastern in parts of Indiana and Kentucky to 1 a.m. Easte
 
 The free two-page printable below lists every Senate and governor's race with the time the state's polls close in Eastern Time, plus blank columns to write in the winner and when the race was called. Keep it next to the TV or your phone on election night, and read [when results are expected in each state](/news/when-will-we-know-election-results-2026-midterms/) before you settle in; and use our [November](/november-calendars.html) and [December](/december-calendars.html) printable calendars for the dates that follow.
 
-Not registered yet? California and Michigan, among other states, still allow registration in person through Election Day; see the [voter registration deadline report](/news/voter-registration-deadline-october-19-2026-early-voting/). Early in-person voting is already open in Texas, Connecticut and North Carolina; see [which states are voting now](/news/early-voting-2026-which-states-are-voting-now/). If you need a way to get there, our list of [free and discounted rides to the polls](/news/free-rides-to-the-polls-2026-lyft-uber-transit/) covers Lyft, Uber and transit.
+Not registered yet? California and Michigan, among other states, still allow registration in person through Election Day; see the [voter registration deadline report](/news/voter-registration-deadline-october-19-2026-early-voting/). Early in-person voting has ended in Texas, Connecticut and North Carolina; see [the early voting windows by state](/news/early-voting-2026-which-states-are-voting-now/). If you need a way to get there, our list of [free and discounted rides to the polls](/news/free-rides-to-the-polls-2026-lyft-uber-transit/) covers Lyft, Uber and transit.

@@ -1,19 +1,19 @@
 ---
 title: "Lakers Schedule November 2026: Game Times in PT and ET, TV and NBA Cup Games"
 seoTitle: "Lakers Schedule November 2026: Times, TV, Cup Games"
-description: "The Lakers play at the Warriors on Fri., Oct. 30, 2026, at 7 p.m. Pacific Time (PT), 10 p.m. Eastern Time (ET), on Prime Video, with all 15 November games."
+description: "The Lakers host the Heat on Mon., Nov. 2, 2026, at 7 p.m. Pacific Time (PT), 10 p.m. Eastern Time (ET), with no national TV listed, and all 15 November games."
 type: news
 publishedAt: "2026-10-29T01:45:00-04:00"
-updatedAt: "2026-10-30T01:05:00-04:00"
+updatedAt: "2026-11-02T14:10:00-05:00"
 authors: [jessica-hartwell]
 category: sports
 keywords: ["Lakers schedule", "Lakers schedule November 2026", "next Lakers game", "Lakers game tonight", "Lakers NBA Cup 2026"]
 dateline: "New York"
 assets:
   overlay: true
-  kicker: "Lakers · Next game Fri., Oct. 30, 2026"
-  date: "2026-10-30"
-  card: { top: "Lakers at Warriors, Prime Video", big: "7 p.m. PT", bottom: "10 p.m. ET, NBA Cup group game" }
+  kicker: "Lakers · Next game Mon., Nov. 2, 2026"
+  date: "2026-11-02"
+  card: { top: "Lakers vs. Heat, no national TV listed", big: "7 p.m. PT", bottom: "10 p.m. ET, Mon., Nov. 2" }
   printable:
     slug: lakers-schedule-november-2026
     group: lakers-schedule-2026
@@ -44,7 +44,7 @@ assets:
 hero:
   src: ../../../../assets/news/lakers-schedule-november-2026-game-times-tv-nba-cup-printable/lakers-schedule-november-2026-game-times-tv-nba-cup-printable.webp
   alt: "Lakers schedule November 2026: the interior of Crypto.com Arena in Los Angeles seen from the stands"
-  caption: "File photo of the Crypto.com Arena interior (2024). The Lakers' next game is Fri., Oct. 30, 2026, at Golden State, 7 p.m. PT, per the NBA."
+  caption: "File photo of the Crypto.com Arena interior (2024). The Lakers' next game is Mon., Nov. 2, 2026, against Miami, 7 p.m. PT, per the NBA."
   credit: "Photo: Troutfarm27 / Wikimedia Commons, cropped, edited"
   license:
     name: "CC BY 4.0"
@@ -52,19 +52,19 @@ hero:
     source: "https://commons.wikimedia.org/wiki/File:Crypto.com_Arena_interior_2024.jpg"
     author: "Troutfarm27"
 summary:
-  - "The Lakers' next game is Fri., Oct. 30, 2026, at the Golden State Warriors at 7 p.m. PT (10 p.m. ET) on Prime Video, an Emirates NBA Cup group game, per the NBA."
-  - "The NBA's August schedule lists 15 Lakers games in November 2026, from Sun., Nov. 1 against Toronto to Mon., Nov. 30 at Houston."
+  - "The Lakers' next game is Mon., Nov. 2, 2026, at home against the Miami Heat at 7 p.m. PT (10 p.m. ET), with no national TV listed, per the NBA."
+  - "The NBA's August schedule lists 15 Lakers games in November 2026, from Sun., Nov. 1 against Toronto to Mon., Nov. 30 at Houston; Nov. 1 and the Oct. 30 game at Golden State have been played."
   - "Four Lakers games through Nov. 27 are Emirates NBA Cup group games: Oct. 30, Nov. 6, Nov. 20 and Nov. 27."
   - "80 of 82 games are dated in the NBA's August schedule; the NBA adds the rest after Cup group play."
 faq:
   - q: "When is the next Lakers game?"
-    a: "Fri., Oct. 30, 2026, at the Golden State Warriors, 7 p.m. PT (10 p.m. ET), on Prime Video, according to the NBA's 2026-27 schedule."
+    a: "Mon., Nov. 2, 2026, against the Miami Heat, 7 p.m. PT (10 p.m. ET), according to the NBA's 2026-27 schedule, which lists no national TV for it."
   - q: "Do the Lakers play tonight?"
-    a: "Yes, on Fri., Oct. 30, 2026, at the Golden State Warriors, 7 p.m. PT (10 p.m. ET), on Prime Video, according to the NBA's schedule. It is an Emirates NBA Cup group game."
+    a: "Yes, on Mon., Nov. 2, 2026, against the Miami Heat, 7 p.m. PT (10 p.m. ET), according to the NBA's schedule, which lists no national TV for it. It is not an Emirates NBA Cup game."
   - q: "How many Lakers games are in November 2026?"
     a: "15, according to the NBA's schedule dated Aug. 13, 2026. It is subject to change."
   - q: "Which Lakers games are NBA Cup games?"
-    a: "Four so far: at the Warriors on Fri., Oct. 30, against Portland on Fri., Nov. 6, against Sacramento on Fri., Nov. 20 and at San Antonio on Fri., Nov. 27."
+    a: "Four in the NBA's schedule: at the Warriors on Fri., Oct. 30 (played), against Portland on Fri., Nov. 6, against Sacramento on Fri., Nov. 20 and at San Antonio on Fri., Nov. 27."
   - q: "Where are local Lakers broadcasts listed?"
     a: "The NBA's schedule lists national TV only. The team lists local broadcasts at nba.com/lakers/schedule."
 sources:
@@ -100,13 +100,13 @@ downloads:
 draft: false
 ---
 
-**The Los Angeles Lakers play tonight, Friday, Oct. 30, 2026, at the Golden State Warriors at 7 p.m. Pacific Time (PT), which is 10 p.m. Eastern Time (ET), on Prime Video, according to the National Basketball Association (NBA) schedule. It is an Emirates NBA Cup group game.**
+**The Los Angeles Lakers play tonight, Monday, Nov. 2, 2026, against the Miami Heat at 7 p.m. Pacific Time (PT), which is 10 p.m. Eastern Time (ET), according to the National Basketball Association (NBA) schedule, which lists no national TV for the game. The Lakers' Oct. 30 game at the Golden State Warriors, an Emirates NBA Cup group game, has been played.**
 
 The NBA's 2026-27 regular season schedule PDF, dated Aug. 13, 2026 and marked "subject to change," gives times in ET and lists each game's local time for the home team. The table below adds a Pacific column (ET minus 3 hours) for every Lakers game from Oct. 30 to Nov. 30, and a printable of the same rows is further down.
 
 ## What is the Lakers schedule for November 2026?
 
-The NBA lists 15 Lakers games in November, plus the Oct. 30 game at Golden State. Weekdays are our own calculation. Clocks in the U.S. fall back on Sunday, Nov. 1, but ET and PT move together, so the three-hour gap holds all month.
+The NBA lists 15 Lakers games in November, plus the Oct. 30 game at Golden State. Weekdays are our own calculation. Clocks in the U.S. fell back on Sunday, Nov. 1, but ET and PT move together, so the three-hour gap holds all month.
 
 | Date | Game | PT | ET | National TV | NBA Cup |
 |---|---|---|---|---|---|

@@ -4,6 +4,7 @@ seoTitle: "Next Friday the 13th: Nov. 13, 2026, Then Aug. 2027"
 description: "The next Friday the 13th is Nov. 13, 2026, the third of 2026. The one after is Aug. 13, 2027, 273 days later. Every date to 2035 and a printable list."
 type: explainer
 publishedAt: "2026-10-27T19:40:00-04:00"
+updatedAt: "2026-11-02T14:10:00-05:00"
 authors: [jessica-hartwell]
 category: calendar-guides
 keywords: ["next friday the 13th", "friday the 13th november 2026", "when is the next friday the 13th", "friday the 13th 2027"]
@@ -20,7 +21,7 @@ hero:
     source: "https://commons.wikimedia.org/wiki/File:Double-Friday-The-13th.jpg"
     author: "I do care about"
 summary:
-  - "The next Friday the 13th is Nov. 13, 2026, 17 days after Oct. 27. It is the third and last of 2026, after Feb. 13 and March 13."
+  - "The next Friday the 13th is Nov. 13, 2026, 11 days after Nov. 2. It is the third and last of 2026, after Feb. 13 and March 13."
   - "The one after that is Friday, Aug. 13, 2027, 273 days later. 2027 and 2028 have only one each."
   - "Every year has at least one Friday the 13th and at most three. A month has one exactly when it starts on a Sunday."
   - "Over the 400-year Gregorian cycle the 13th falls on a Friday 688 times, more than on any other weekday."
@@ -95,7 +96,7 @@ downloads:
 draft: false
 ---
 
-**The next Friday the 13th is Nov. 13, 2026, the third and last of 2026, and after it the next one is not until Friday, Aug. 13, 2027, 273 days later.** From Oct. 27, 2026, that is 17 days away. We computed every date in this story from the Gregorian calendar, using the leap-year rule the U.S. Naval Observatory (USNO) publishes.
+**The next Friday the 13th is Nov. 13, 2026, the third and last of 2026, and after it the next one is not until Friday, Aug. 13, 2027, 273 days later.** From Nov. 2, 2026, that is 11 days away. We computed every date in this story from the Gregorian calendar, using the leap-year rule the U.S. Naval Observatory (USNO) publishes.
 
 November 2026 starts on a Sunday, Nov. 1, which is also the day [daylight saving time ends in the U.S.](/news/daylight-saving-time-ends-november-1-2026/) That Sunday start is what puts a Friday on the 13th. Many people consider the date unlucky; the calendar part is simple arithmetic.
 

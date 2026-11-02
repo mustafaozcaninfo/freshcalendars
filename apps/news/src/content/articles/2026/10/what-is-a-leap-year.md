@@ -4,6 +4,7 @@ seoTitle: "What Is a Leap Year? Rule, Examples and Next Dates"
 description: "A leap year has 366 days, with Feb. 29 added. The U.S. Naval Observatory (USNO) says years divisible by 4 qualify, except century years not divisible by 400."
 type: explainer
 publishedAt: "2026-10-30T08:20:00-04:00"
+updatedAt: "2026-11-02T14:10:00-05:00"
 authors: [jessica-hartwell]
 category: calendar-guides
 keywords: ["what is a leap year", "next leap year", "is 2028 a leap year", "leap year rules", "2100 leap year"]
@@ -190,7 +191,7 @@ In the 2028 to 2096 rows, each leap year's Feb. 29 falls two weekdays earlier in
 
 ## Is 2028 the next leap year?
 
-Yes. Today is Oct. 30, 2026, so the next Feb. 29 is in 2028, on a Tuesday. February has 28 days in 2026 and 2027, and 29 in 2028. The following leap years are 2032, 2036 and 2040. If you plan across a leap day, the [day-of-year calculation](/news/how-to-calculate-day-of-year/) shifts by one from March 1 onward. The [February printable calendars](/february-calendars.html) show the month's layout, and the [printable yearly calendar](/printable-yearly-calendar.html) has a year view.
+Yes. As of Nov. 2, 2026, the next Feb. 29 is in 2028, on a Tuesday. February has 28 days in 2026 and 2027, and 29 in 2028. The following leap years are 2032, 2036 and 2040. If you plan across a leap day, the [day-of-year calculation](/news/how-to-calculate-day-of-year/) shifts by one from March 1 onward. The [February printable calendars](/february-calendars.html) show the month's layout, and the [printable yearly calendar](/printable-yearly-calendar.html) has a year view.
 
 ## Why does February get the extra day?
 

@@ -1,10 +1,10 @@
 ---
 title: "MLB Offseason 2026 Key Dates: Free Agency Start, Awards Schedule, Winter Meetings and CBA Expiration"
 seoTitle: "MLB Offseason 2026 Key Dates: Free Agency, Awards, CBA"
-description: "Major League Baseball (MLB) free agency opens Thursday, Oct. 29, 2026, the day after the Brewers won the World Series; awards run Nov. 1 to 17, per MLB.com."
+description: "Major League Baseball (MLB) free agency opened Thursday, Oct. 29, 2026, the day after the Brewers won the World Series; awards run Nov. 1 to 17, per MLB.com."
 type: explainer
 publishedAt: "2026-10-27T10:08:00-04:00"
-updatedAt: "2026-11-01T10:27:00-05:00"
+updatedAt: "2026-11-02T14:10:00-05:00"
 authors: [jessica-hartwell]
 category: sports
 keywords: ["MLB offseason key dates 2026", "when does MLB free agency start 2026", "MLB awards 2026 dates", "MLB CBA expiration December 1 2026"]
@@ -21,7 +21,7 @@ hero:
     authorUrl: "https://www.flickr.com/people/44124370018@N01"
 summary:
   - "The World Series ended Wednesday, Oct. 28, when Milwaukee won Game 5. Per MLB.com's offseason rules guide, players become free agents the next day, Thursday, Oct. 29, and can sign with new clubs from 5 p.m. ET on Monday, Nov. 2 by our count."
-  - "MLB.com's awards guide (Oct. 26, 2026) starts with the Gold Glove Awards on Sunday, Nov. 1 and ends with the Silver Slugger Awards on Tuesday, Nov. 17; the M.V.P. award is Thursday, Nov. 12."
+  - "MLB.com's awards guide (Oct. 26, 2026) started with the Gold Glove Awards on Sunday, Nov. 1 and ends with the Silver Slugger Awards on Tuesday, Nov. 17; the M.V.P. award is Thursday, Nov. 12."
   - "Just Baseball reports the Collective Bargaining Agreement (CBA) expires Dec. 1, 2026 at 11:59 p.m. Eastern Time (ET); MLB and the MLB Players Association have not published a 2026 calendar of other dates."
   - "Spring Training games begin Friday, Feb. 19, 2027, and Opening Day is Thursday, Mar. 25, 2027, according to MLB."
 faq:
@@ -127,7 +127,7 @@ draft: false
 
 <p class="callout"><b>Last updated Oct. 29, 2026, 3:55 a.m. ET.</b> The Brewers won the World Series in Game 5 on Wednesday night, so the dates below now use that finish, and the printable lists them: free agents from Thursday, Oct. 29, signings with new clubs from Monday, Nov. 2, 5 p.m. ET by our count.</p>
 
-**Major League Baseball (MLB) free agency opens Thursday, Oct. 29, 2026, the day after the World Series ended, according to MLB.com's offseason rules guide.** MLB.com's awards guide (Oct. 26, 2026) then lists the Gold Glove Awards on Sunday, Nov. 1 through the Silver Slugger Awards on Tuesday, Nov. 17. The World Series ended on Wednesday, Oct. 28, when Milwaukee beat Tampa Bay 4-1 in Game 5, so free agency opens Thursday, Oct. 29, with signings with new clubs allowed from 5 p.m. Eastern Time (ET) on Monday, Nov. 2 by our count. The details are in our [2026 World Series schedule](/news/world-series-2026-schedule-game-times-tv-channel/).
+**Major League Baseball (MLB) free agency opened Thursday, Oct. 29, 2026, the day after the World Series ended, according to MLB.com's offseason rules guide.** MLB.com's awards guide (Oct. 26, 2026) then listed the Gold Glove Awards on Sunday, Nov. 1 through the Silver Slugger Awards on Tuesday, Nov. 17. The World Series ended on Wednesday, Oct. 28, when Milwaukee beat Tampa Bay 4-1 in Game 5, so free agency opened Thursday, Oct. 29, with signings with new clubs allowed from 5 p.m. Eastern Time (ET) on Monday, Nov. 2 by our count. The details are in our [2026 World Series schedule](/news/world-series-2026-schedule-game-times-tv-channel/).
 
 ## When does free agency start, by the day the World Series ends?
 
@@ -152,7 +152,7 @@ Every date below is from MLB.com's awards guide of Oct. 26, 2026. The Baseball W
 
 | Date | Award |
 |---|---|
-| Sun., Nov. 1 | Rawlings Gold Glove Awards, 8:30 p.m. ET on ESPN ([all 60 finalists](/news/gold-glove-awards-2026-tonight-time-espn-finalists-platinum-glove-vote/)) |
+| Sun., Nov. 1 | Rawlings Gold Glove Awards, held at 8:30 p.m. ET on ESPN ([all 60 finalists](/news/gold-glove-awards-2026-tonight-time-espn-finalists-platinum-glove-vote/)) |
 | Fri., Nov. 6 | Platinum Glove Awards; Heart & Hustle Awards |
 | Mon., Nov. 9 | BBWAA Rookie of the Year |
 | Tue., Nov. 10 | BBWAA Manager of the Year |
@@ -172,7 +172,7 @@ Each row is labeled official (MLB or MLB.com), reported (a news outlet, not MLB)
 | Wed., Oct. 28 | Game 5: Brewers win the World Series 4-1; Games 6 and 7 not needed | Official (MLB game data) |
 | Thu., Oct. 29 | Players become free agents, the day after the final game | Official rule |
 | Five days after the final game | Qualifying offer deadline and first day to sign, 5 p.m. ET (Nov. 1 to Nov. 5) | Official rule; 2026 dates not yet announced |
-| Sun., Nov. 1 | Gold Glove Awards, 8:30 p.m. ET, ESPN | Official |
+| Sun., Nov. 1 | Gold Glove Awards, held at 8:30 p.m. ET, ESPN | Official |
 | Fri., Nov. 6 | Platinum Glove and Heart & Hustle Awards | Official |
 | Mon., Nov. 9 to Thu., Nov. 12 | GM Meetings, Las Vegas | Reported (Just Baseball); MLB.com confirms Las Vegas only |
 | Mon., Nov. 9 to Thu., Nov. 12 | Rookie of the Year, Manager of the Year, Cy Young, M.V.P. | Official |
