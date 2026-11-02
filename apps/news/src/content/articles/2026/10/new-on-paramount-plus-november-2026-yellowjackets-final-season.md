@@ -5,7 +5,7 @@ description: "Paramount Press Express dates Yellowjackets final season for Fri.,
 type: news
 publishedAt: "2026-10-28T15:50:00-04:00"
 updatedAt: "2026-11-01T02:42:00-05:00"
-authors: [jordan-bennett]
+authors: [jessica-hartwell]
 category: entertainment
 keywords: ["new on Paramount+ November 2026", "Paramount Plus November 2026", "Yellowjackets season 4 release date", "Dexter Resurrection season 2 release date"]
 assets:

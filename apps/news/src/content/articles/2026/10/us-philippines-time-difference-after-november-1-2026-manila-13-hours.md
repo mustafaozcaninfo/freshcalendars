@@ -5,7 +5,7 @@ description: "US clocks fell back at 2 a.m. on Nov. 1, 2026, so New York is 13 h
 type: explainer
 publishedAt: "2026-10-30T17:44:00-04:00"
 updatedAt: "2026-11-01T05:45:00-05:00"
-authors: [jordan-bennett]
+authors: [jessica-hartwell]
 category: time-change
 keywords: ["Philippines time difference after daylight saving time ends", "Philippines time vs New York November 2026", "PHT to EST", "what time is it in the Philippines when it is 9 am in California"]
 hero:

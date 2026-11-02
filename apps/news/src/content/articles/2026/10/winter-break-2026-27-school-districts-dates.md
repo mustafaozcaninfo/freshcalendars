@@ -4,7 +4,7 @@ seoTitle: "Winter Break 2026-27 Dates by School District"
 description: "Winter break 2026-27 dates for 15 large U.S. school districts: most close from Monday, Dec. 21, 2026, New York City starts Dec. 24, and some return Jan. 5."
 type: explainer
 publishedAt: "2026-10-30T05:30:00-04:00"
-authors: [emily-carter]
+authors: [aaron-kessler]
 category: school-calendars
 keywords: ["winter break 2026", "winter break 2026-27 school districts", "when is winter break 2026", "christmas break 2026 schools", "school winter break dates 2026"]
 dateline: "New York"

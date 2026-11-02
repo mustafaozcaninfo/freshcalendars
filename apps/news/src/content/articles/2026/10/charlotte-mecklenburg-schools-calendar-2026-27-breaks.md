@@ -5,7 +5,7 @@ description: "Charlotte-Mecklenburg Schools (CMS) 2026-27: first day Aug. 25, wi
 type: news
 publishedAt: "2026-10-26T22:38:00-04:00"
 updatedAt: "2026-11-01T05:38:00-05:00"
-authors: [emily-carter]
+authors: [aaron-kessler]
 category: school-calendars
 keywords: ["cms calendar 2026-27", "charlotte mecklenburg schools calendar 2026-2027", "cms winter break 2026", "cms spring break 2027", "cms teacher workdays 2026"]
 dateline: "Charlotte, N.C."

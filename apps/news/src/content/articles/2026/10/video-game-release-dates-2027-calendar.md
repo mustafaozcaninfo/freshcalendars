@@ -4,7 +4,7 @@ seoTitle: "Video Game Release Dates 2027: Confirmed So Far"
 description: "Stranger Than Heaven opens the 2027 game calendar on Jan. 15. Every release date publishers have confirmed so far, with weekdays, platforms and sources."
 type: news
 publishedAt: "2026-10-31T07:47:00-04:00"
-authors: [jordan-bennett]
+authors: [jessica-hartwell]
 category: gaming-tech
 keywords: ["video game release dates 2027", "games coming out in 2027", "2027 game release calendar", "2027 video game releases"]
 hero:

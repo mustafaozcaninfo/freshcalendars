@@ -5,7 +5,7 @@ description: "Christmas Day 2026 is Friday, Dec. 25. Get a live countdown in you
 type: explainer
 publishedAt: "2026-10-24T00:50:00-04:00"
 updatedAt: "2026-10-27T03:03:00-04:00"
-authors: [alex-morgan]
+authors: [christina-gerland]
 category: holidays
 keywords: ["christmas 2026 calendar printable", "how many days until christmas 2026", "what day is christmas 2026", "christmas 2026 calendar"]
 dateline: "New York"

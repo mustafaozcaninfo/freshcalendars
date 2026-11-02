@@ -5,7 +5,7 @@ description: "Dexter: Resurrection Season 2 premiered Oct. 30, 2026 on Paramount
 type: news
 publishedAt: "2026-10-30T03:42:00-04:00"
 updatedAt: "2026-11-01T02:42:00-05:00"
-authors: [jordan-bennett]
+authors: [jessica-hartwell]
 category: entertainment
 keywords: ["when does dexter resurrection 2 come out", "dexter resurrection season 2 release schedule", "dexter resurrection season 2 episode 2 release date", "dexter resurrection season 2 what time"]
 dateline: "New York"

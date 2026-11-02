@@ -5,7 +5,7 @@ description: "National Sandwich Day is Tue., Nov. 3, 2026: Subway's Footlong dea
 type: news
 dateline: "New York"
 publishedAt: "2026-11-01T14:50:00-05:00"
-authors: [jordan-bennett]
+authors: [christina-gerland]
 category: holidays
 keywords: ["national sandwich day 2026 deals", "national sandwich day 2026", "sandwich day deals november 3", "subway national sandwich day 2026"]
 assets:

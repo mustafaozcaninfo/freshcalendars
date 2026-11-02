@@ -5,7 +5,7 @@ description: "The Nations Championship runs Nov. 6-29, 2026, with England v New 
 type: news
 publishedAt: "2026-10-28T00:02:00-04:00"
 updatedAt: "2026-11-01T04:50:00-05:00"
-authors: [alex-morgan]
+authors: [christina-gerland]
 category: uk-canada
 keywords: ["nations championship november 2026 fixtures", "autumn internationals 2026 kick-off times", "england v new zealand 2026 kick-off time", "nations championship finals twickenham"]
 dateline: "London"

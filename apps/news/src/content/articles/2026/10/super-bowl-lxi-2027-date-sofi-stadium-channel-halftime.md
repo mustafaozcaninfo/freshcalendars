@@ -5,7 +5,7 @@ description: "Super Bowl 61 (LXI) is Feb. 14, 2027, at SoFi Stadium, the Nationa
 type: explainer
 publishedAt: "2026-10-25T17:02:00-04:00"
 updatedAt: "2026-11-01T10:27:00-05:00"
-authors: [jordan-bennett]
+authors: [jessica-hartwell]
 category: sports
 keywords: ["Super Bowl 2027", "Super Bowl LXI date", "where is the Super Bowl 2027", "Super Bowl 2027 channel", "Super Bowl 2027 halftime show"]
 dateline: "Inglewood, Calif."

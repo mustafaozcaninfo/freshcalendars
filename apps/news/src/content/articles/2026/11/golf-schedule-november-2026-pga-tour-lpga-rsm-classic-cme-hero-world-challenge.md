@@ -4,7 +4,7 @@ seoTitle: "Golf Schedule November 2026: PGA Tour and LPGA Dates"
 description: "November 2026 golf: Professional Golfers' Association (PGA) Tour and Ladies Professional Golf Association (LPGA) dates from Nov. 5 to Dec. 6."
 type: news
 publishedAt: "2026-11-01T08:46:00-05:00"
-authors: [jordan-bennett]
+authors: [jessica-hartwell]
 category: sports
 keywords: ["golf schedule November 2026", "PGA Tour schedule this week", "LPGA CME Group Tour Championship 2026 dates", "RSM Classic 2026 dates", "Hero World Challenge 2026 dates"]
 dateline: "New York"

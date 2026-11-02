@@ -5,7 +5,7 @@ description: "World of Warcraft (WoW): Forever goes live Nov. 4, 2026 at 3 p.m. 
 type: news
 publishedAt: "2026-10-31T07:50:00-04:00"
 updatedAt: "2026-11-01T05:33:00-05:00"
-authors: [jordan-bennett]
+authors: [jessica-hartwell]
 category: gaming-tech
 keywords: ["WoW Forever launch time", "World of Warcraft Forever release date", "WoW Forever release time UK", "WoW Forever name reservation"]
 dateline: "Irvine, Calif."

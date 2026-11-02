@@ -4,7 +4,7 @@ seoTitle: "Boxing Day 2026 Canada: Saturday Dec. 26, Day Off Dec. 28"
 description: "Boxing Day 2026 is Saturday, Dec. 26. It is a federal general holiday and an Ontario public holiday, not in B.C., Alberta or Manitoba. See each province."
 type: explainer
 publishedAt: "2026-10-28T11:48:00-04:00"
-authors: [alex-morgan]
+authors: [christina-gerland]
 category: uk-canada
 keywords: ["boxing day 2026 canada", "is boxing day a stat holiday in canada 2026", "boxing day 2026 saturday day off", "december 28 2026 holiday canada"]
 dateline: "Ottawa"

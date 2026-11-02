@@ -5,7 +5,7 @@ description: "The Rolex Paris Masters runs Oct. 31 to Nov. 8, 2026; the singles 
 type: news
 publishedAt: "2026-10-27T11:55:00-04:00"
 updatedAt: "2026-10-29T15:50:00-04:00"
-authors: [jordan-bennett]
+authors: [jessica-hartwell]
 category: sports
 keywords: ["paris masters 2026 schedule", "rolex paris masters 2026 final time", "paris masters 2026 dates", "paris masters order of play times"]
 dateline: "Nanterre"

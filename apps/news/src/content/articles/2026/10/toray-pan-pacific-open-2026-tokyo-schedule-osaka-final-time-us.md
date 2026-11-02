@@ -5,7 +5,7 @@ description: "Diana Shnaider beat Leylah Fernandez 6-4, 5-7, 6-2 to win the 2026
 type: news
 publishedAt: "2026-10-29T04:02:00-04:00"
 updatedAt: "2026-11-01T10:31:00-05:00"
-authors: [jordan-bennett]
+authors: [jessica-hartwell]
 category: sports
 keywords: ["toray pan pacific open 2026 schedule", "tokyo wta 2026 final time", "naomi osaka tokyo next match time", "pan pacific open order of play"]
 dateline: "Tokyo"

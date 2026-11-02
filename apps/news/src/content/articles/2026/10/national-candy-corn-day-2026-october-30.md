@@ -4,7 +4,7 @@ seoTitle: "National Candy Corn Day 2026: Oct. 30 and a Printable"
 description: "National Candy Corn Day is Friday, Oct. 30, 2026, the day before Halloween. Where the candy came from, what the label lists, and a free party checklist."
 type: explainer
 publishedAt: "2026-10-29T15:20:00-04:00"
-authors: [alex-morgan]
+authors: [christina-gerland]
 category: holidays
 keywords: ["National Candy Corn Day 2026", "candy corn day October 30", "candy corn history", "candy corn ingredients", "candy corn party ideas"]
 hero:

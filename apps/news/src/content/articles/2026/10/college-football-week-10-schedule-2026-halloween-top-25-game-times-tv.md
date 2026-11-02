@@ -5,7 +5,7 @@ description: "College football Saturday, Oct. 31, 2026: 18 games with a ranked t
 type: news
 publishedAt: "2026-10-29T23:45:00-04:00"
 updatedAt: "2026-10-30T04:45:00-04:00"
-authors: [jordan-bennett]
+authors: [jessica-hartwell]
 category: sports
 keywords: ["college football schedule week 10 2026", "college football games today", "top 25 college football games Saturday Oct 31", "college football TV schedule Halloween"]
 assets:

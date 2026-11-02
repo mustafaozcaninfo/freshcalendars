@@ -4,7 +4,7 @@ seoTitle: "WCPSS Calendar 2026-27: Traditional Breaks"
 description: "Wake County Public School System (WCPSS) traditional calendar 2026-27: first day Aug. 24, winter break Dec. 21-Jan. 1, spring break Mar. 29-Apr. 2, ends June 8."
 type: news
 publishedAt: "2026-10-26T22:39:00-04:00"
-authors: [emily-carter]
+authors: [aaron-kessler]
 category: school-calendars
 keywords: ["wcpss calendar 2026-27", "wake county schools calendar 2026-2027", "wcpss traditional calendar 2026-27", "wake county spring break 2027", "wcpss winter break 2026"]
 dateline: "Wake County, N.C."

@@ -5,7 +5,7 @@ description: "Sydney is 16 hours ahead of New York from Sunday, Nov. 1, 2026, wh
 type: explainer
 publishedAt: "2026-10-30T01:58:00-04:00"
 updatedAt: "2026-11-01T05:45:00-05:00"
-authors: [jordan-bennett]
+authors: [jessica-hartwell]
 category: time-change
 keywords: ["time difference US Australia after daylight saving time ends", "Sydney time difference New York November 2026", "New Zealand time difference US", "Australia daylight saving 2026"]
 hero:

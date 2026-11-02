@@ -4,7 +4,7 @@ seoTitle: "Canada Clock Change Nov. 1, 2026: Which Provinces Skip It"
 description: "Clocks go back at 2 a.m. Sunday, Nov. 1, 2026, in Ontario, Quebec and Atlantic Canada; British Columbia, Alberta, Saskatchewan and Manitoba stay put."
 type: news
 publishedAt: "2026-10-28T07:45:00-04:00"
-authors: [alex-morgan]
+authors: [christina-gerland]
 category: uk-canada
 keywords: ["do clocks go back in Canada 2026", "changement d'heure 2026", "which provinces don't change clocks", "Manitoba Alberta BC time change 2026", "Canada time change November 1 2026"]
 dateline: "Toronto"

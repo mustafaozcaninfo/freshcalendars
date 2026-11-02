@@ -4,7 +4,7 @@ seoTitle: "Royal Mail Christmas 2026 Last Posting Dates by Service"
 description: "Royal Mail's last recommended posting date for 2nd Class at Christmas 2026 is Friday 18 December; 1st Class is Monday 21 December, Royal Mail says."
 type: news
 publishedAt: "2026-10-30T02:20:00-04:00"
-authors: [alex-morgan]
+authors: [christina-gerland]
 category: uk-canada
 keywords: ["Royal Mail last posting dates Christmas 2026", "last day to post Christmas cards 2026", "Royal Mail 2nd Class last posting date Christmas", "Special Delivery last posting date 2026"]
 dateline: "London"

@@ -4,7 +4,7 @@ seoTitle: "Mickey's Very Merry Christmas Party 2026 Dates"
 description: "Mickey's Very Merry Christmas Party runs 25 nights from Nov. 8 to Dec. 22, 2026, at Magic Kingdom, with tickets at $189 to $229 plus tax per Walt Disney World."
 type: news
 publishedAt: "2026-10-31T21:50:00-04:00"
-authors: [jordan-bennett]
+authors: [jessica-hartwell]
 dateline: "Orlando"
 category: entertainment
 keywords: ["Mickey's Very Merry Christmas Party 2026 dates", "Mickey's Very Merry Christmas Party 2026 tickets price", "Very Merry Christmas Party first night November 8", "Magic Kingdom Christmas party 2026 calendar"]

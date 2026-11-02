@@ -5,7 +5,7 @@ description: "Chelsea v Manchester United opens the weekend Sat., Oct. 31, 2026 
 type: news
 publishedAt: "2026-10-29T15:50:00-04:00"
 updatedAt: "2026-10-31T15:50:00-04:00"
-authors: [alex-morgan]
+authors: [christina-gerland]
 category: uk-canada
 keywords: ["premier league fixtures this weekend", "liverpool vs arsenal kick off time", "newcastle vs everton time tv", "premier league on tv this weekend", "chelsea vs man united time"]
 dateline: "London"

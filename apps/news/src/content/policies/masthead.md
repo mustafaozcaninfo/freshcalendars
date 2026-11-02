@@ -15,9 +15,9 @@ United States
 
 ## Editors
 
-- [Alex Morgan](/news/author/alex-morgan/), Senior Editor: public holidays, policy and civic calendars
-- [Emily Carter](/news/author/emily-carter/), Managing Editor: education, school calendars and family planning
-- [Jordan Bennett](/news/author/jordan-bennett/), News Editor: time, seasonal events and data
+- [Christina Gerland](/news/author/christina-gerland/), Senior Editor: public holidays, elections, government deadlines, UK and Canada
+- [Aaron Kessler](/news/author/aaron-kessler/), Managing Editor: education, school calendars, family planning, money and benefits
+- [Jessica Hartwell](/news/author/jessica-hartwell/), News Editor: time, seasonal events, retail dates, sports, entertainment and data
 
 Each story carries the name of the editor responsible for its beat, who reviews it.
 

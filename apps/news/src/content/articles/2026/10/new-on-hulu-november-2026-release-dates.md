@@ -4,7 +4,7 @@ seoTitle: "New on Hulu November 2026: Full Dated List"
 description: "Hulu Press lists 109 dated additions for November 2026, and Disney+ Press adds Percy Jackson season 3 on Fri., Nov. 20. See every date and a free printable."
 type: news
 publishedAt: "2026-10-27T21:42:00-04:00"
-authors: [jordan-bennett]
+authors: [jessica-hartwell]
 category: entertainment
 keywords: ["new on Hulu November 2026", "Hulu November 2026 schedule", "what's coming to Hulu in November", "Percy Jackson season 3 release date Hulu"]
 assets:

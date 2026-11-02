@@ -4,7 +4,7 @@ seoTitle: "Jalen Brunson SVU Episode Air Date and Time"
 description: "Jalen Brunson's Law & Order: Special Victims Unit (SVU) episode airs Thursday, Nov. 5, 2026, at 9 p.m. Eastern Time (ET) on NBC, then streams on Peacock."
 type: news
 publishedAt: "2026-10-31T05:50:00-04:00"
-authors: [jordan-bennett]
+authors: [jessica-hartwell]
 category: entertainment
 keywords: ["Jalen Brunson Law and Order SVU episode air date", "Brunson SVU episode time", "Law & Order SVU November 5 2026", "SVU season 28 episode 5"]
 assets:

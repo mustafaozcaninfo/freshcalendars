@@ -5,7 +5,7 @@ description: "Arizona stays on Mountain Standard Time (MST) when U.S. clocks fal
 type: explainer
 publishedAt: "2026-10-31T13:00:00-04:00"
 updatedAt: "2026-11-01T05:45:00-05:00"
-authors: [jordan-bennett]
+authors: [jessica-hartwell]
 category: time-change
 keywords: ["what time is it in Arizona", "Arizona time zone daylight saving time November 2026", "Phoenix time vs California", "does Arizona change clocks", "Hawaii time difference after daylight saving time"]
 hero:

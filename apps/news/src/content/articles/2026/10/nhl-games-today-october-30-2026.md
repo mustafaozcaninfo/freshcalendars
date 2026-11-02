@@ -4,7 +4,7 @@ seoTitle: "NHL Games Today, Oct. 30, 2026: 3 Games and TV"
 description: "National Hockey League (NHL) games today, Fri., Oct. 30, 2026: 3 games from 6:00 p.m. Eastern Time (ET), with arenas, time zones and TV the league lists."
 type: news
 publishedAt: "2026-10-29T19:40:00-04:00"
-authors: [jordan-bennett]
+authors: [jessica-hartwell]
 category: sports
 keywords: ["NHL games today", "NHL games tonight", "NHL schedule October 30 2026", "NHL Halloween games 2026", "printable NHL schedule"]
 assets:

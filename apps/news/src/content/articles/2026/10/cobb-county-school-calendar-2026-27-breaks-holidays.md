@@ -4,7 +4,7 @@ seoTitle: "Cobb County School Calendar 2026-27: Breaks and Days Off"
 description: "Cobb County School District 2026-27: school began Aug. 3, holiday break Dec. 21-Jan. 4, February break Feb. 15-19, spring break Apr. 5-9, 2027."
 type: news
 publishedAt: "2026-10-28T18:00:00-04:00"
-authors: [emily-carter]
+authors: [aaron-kessler]
 category: school-calendars
 keywords: ["cobb county school calendar 2026-27", "cobb county schools winter break 2026", "cobb county spring break 2027", "cobb county schools fall break 2026"]
 dateline: "Cobb County, Georgia"

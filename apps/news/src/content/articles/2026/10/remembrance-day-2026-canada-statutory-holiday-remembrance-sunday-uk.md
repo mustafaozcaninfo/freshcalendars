@@ -5,7 +5,7 @@ description: "Remembrance Day is Wednesday, Nov. 11, 2026. British Columbia and 
 type: explainer
 publishedAt: "2026-10-24T17:00:00-04:00"
 updatedAt: "2026-11-01T02:43:00-05:00"
-authors: [alex-morgan]
+authors: [christina-gerland]
 category: uk-canada
 keywords: ["is Remembrance Day a statutory holiday 2026", "Remembrance Day 2026", "Remembrance Sunday 2026"]
 dateline: "Ottawa"

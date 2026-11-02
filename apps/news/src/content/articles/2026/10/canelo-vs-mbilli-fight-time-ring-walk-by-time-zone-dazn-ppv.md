@@ -5,7 +5,7 @@ description: "Canelo Alvarez beat Christian M'Billi by unanimous decision in Riy
 type: news
 publishedAt: "2026-10-30T21:44:00-04:00"
 updatedAt: "2026-11-01T10:27:00-05:00"
-authors: [jordan-bennett]
+authors: [jessica-hartwell]
 category: sports
 keywords: ["canelo vs mbilli result", "canelo vs mbilli time", "who won canelo mbilli", "canelo ring walk time uk", "how to watch canelo mbilli"]
 dateline: "Riyadh"

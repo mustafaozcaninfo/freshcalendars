@@ -5,7 +5,7 @@ description: "Boxing Day 2026 is a bank holiday on Monday, Dec. 28, because Dec.
 type: explainer
 publishedAt: "2026-10-25T23:15:00-04:00"
 updatedAt: "2026-11-01T10:31:00-05:00"
-authors: [alex-morgan]
+authors: [christina-gerland]
 category: uk-canada
 keywords: ["Christmas bank holidays 2026 UK", "Boxing Day 2026 bank holiday", "is December 28 2026 a bank holiday", "UK bank holidays December 2026"]
 dateline: "London"

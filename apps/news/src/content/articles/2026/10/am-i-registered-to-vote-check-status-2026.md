@@ -5,7 +5,7 @@ description: "Election Day is Tue., Nov. 3, 2026. USAGov says to check your vote
 type: explainer
 publishedAt: "2026-10-29T08:00:00-04:00"
 updatedAt: "2026-10-30T01:05:00-04:00"
-authors: [alex-morgan]
+authors: [christina-gerland]
 category: elections
 keywords: ["am I registered to vote", "check voter registration status", "find my polling place", "Election Day November 3 2026"]
 hero:

@@ -4,7 +4,7 @@ seoTitle: "National Cat Day 2026, Thursday Oct. 29: Origin, Facts"
 description: "National Cat Day is Thursday, Oct. 29, 2026, founded in 2005. American Society for the Prevention of Cruelty to Animals (ASPCA) shelter data and dates to 2030."
 type: explainer
 publishedAt: "2026-10-28T05:42:00-04:00"
-authors: [alex-morgan]
+authors: [christina-gerland]
 category: holidays
 keywords: ["National Cat Day 2026", "when is National Cat Day", "National Cat Day October 29", "cat day 2026"]
 dateline: "New York"

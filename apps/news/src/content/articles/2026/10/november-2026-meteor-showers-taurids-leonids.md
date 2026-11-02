@@ -5,7 +5,7 @@ description: "The Southern Taurids peak Nov. 4-5 and the Northern Taurids Nov. 1
 type: news
 publishedAt: "2026-10-19T10:30:00-04:00"
 updatedAt: "2026-10-31T03:55:00-04:00"
-authors: [jordan-bennett]
+authors: [jessica-hartwell]
 category: sky-events
 keywords: ["November 2026 meteor shower", "Taurid meteor shower 2026", "Leonid meteor shower 2026", "Leonids 2026 peak", "Taurid fireballs 2026"]
 dateline: "New York"

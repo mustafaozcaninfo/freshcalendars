@@ -4,7 +4,7 @@ seoTitle: "Sunday Night Football Tonight: Eagles at Commanders"
 description: "Sunday Night Football: the Eagles play at the Commanders on Sunday, Nov. 1, 2026, at 8:20 p.m. Eastern Time (ET) on NBC and Peacock, the night clocks fall back."
 type: news
 publishedAt: "2026-10-30T05:20:00-04:00"
-authors: [jordan-bennett]
+authors: [jessica-hartwell]
 category: sports
 keywords: ["sunday night football tonight", "eagles vs commanders time", "what channel is sunday night football on", "eagles commanders live stream", "SNF week 8 2026"]
 assets:

@@ -21,7 +21,7 @@ Fresh Calendars News is published by Fresh Calendars, Inc., 295 NW Lost Springs 
 
 ## Who writes the news
 
-Each story carries the name of the editor responsible for its beat: [Alex Morgan](/news/author/alex-morgan/) for holidays, elections and government deadlines, [Emily Carter](/news/author/emily-carter/) for school calendars and education, and [Jordan Bennett](/news/author/jordan-bennett/) for time, seasonal events and schedules. Daily puzzle pages are published under the [Fresh Calendars News Desk](/news/author/news-desk/) byline. How we choose sources and check facts is described in our [editorial policy](/news/editorial-policy/); how we fix mistakes is in our [corrections policy](/news/corrections-policy/). The people responsible are listed on the [masthead](/news/masthead/).
+Each story carries the name of the editor responsible for its beat: [Christina Gerland](/news/author/christina-gerland/) for holidays, elections, government deadlines, the UK and Canada, [Aaron Kessler](/news/author/aaron-kessler/) for school calendars, education, money and benefits, and [Jessica Hartwell](/news/author/jessica-hartwell/) for time, seasonal events, retail dates, sports, entertainment and schedules. Daily puzzle pages are published under the [Fresh Calendars News Desk](/news/author/news-desk/) byline. How we choose sources and check facts is described in our [editorial policy](/news/editorial-policy/); how we fix mistakes is in our [corrections policy](/news/corrections-policy/). The people responsible are listed on the [masthead](/news/masthead/).
 
 ## Advertising
 

@@ -5,7 +5,7 @@ description: "HM Revenue and Customs (HMRC) must receive paper tax returns by 31
 type: news
 publishedAt: "2026-10-26T18:44:00-04:00"
 updatedAt: "2026-11-01T04:47:00-05:00"
-authors: [alex-morgan]
+authors: [christina-gerland]
 category: uk-canada
 keywords: ["self assessment deadline 2027", "self assessment deadline 31 january 2027", "paper tax return deadline 31 october 2026", "self assessment late filing penalty", "hmrc tax return deadline"]
 dateline: "London"

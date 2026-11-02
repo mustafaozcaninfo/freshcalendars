@@ -4,7 +4,7 @@ seoTitle: "Sports on TV Today, Oct. 31, 2026: 54 Events"
 description: "Sports on TV Saturday, Oct. 31, 2026: 54 events from 11:15 a.m. Eastern Time (ET), with channels for college football, the NBA, NHL and the Breeders' Cup."
 type: news
 publishedAt: "2026-10-30T04:25:00-04:00"
-authors: [jordan-bennett]
+authors: [jessica-hartwell]
 category: sports
 keywords: ["sports on TV today", "sports on TV tomorrow", "sports schedule Saturday October 31 2026", "what games are on Halloween", "printable sports TV schedule"]
 assets:

@@ -4,7 +4,7 @@ seoTitle: "Cook for Your Pets Day 2026: Foods to Avoid"
 description: "National Cook for Your Pets Day is Sunday, Nov. 1, 2026. Foods the American Society for the Prevention of Cruelty to Animals (ASPCA) says to avoid."
 type: explainer
 publishedAt: "2026-10-31T16:47:00-04:00"
-authors: [alex-morgan]
+authors: [christina-gerland]
 category: holidays
 keywords: ["national cook for your pets day 2026", "foods dogs cannot eat", "foods toxic to pets", "aspca poison control number"]
 dateline: "New York"

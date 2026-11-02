@@ -4,7 +4,7 @@ seoTitle: "MotoGP Malaysia 2026: Race Time in U.S. Time Zones"
 description: "The Tissot Sprint is 3 a.m. Eastern Daylight Time (EDT) Saturday and the Malaysian GP 2 a.m. Eastern Standard Time (EST) Sunday, Nov. 1, 2026, MotoGP says."
 type: explainer
 publishedAt: "2026-10-30T01:45:00-04:00"
-authors: [jordan-bennett]
+authors: [jessica-hartwell]
 category: sports
 keywords: ["motogp malaysia 2026 race time", "malaysian gp 2026 time et", "motogp sprint time sepang", "motogp schedule this weekend"]
 dateline: "Sepang, Malaysia"

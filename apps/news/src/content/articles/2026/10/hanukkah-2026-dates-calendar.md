@@ -5,7 +5,7 @@ description: "The first night of Hanukkah 2026 is Friday, Dec. 4, and the holida
 type: explainer
 publishedAt: "2026-10-22T11:45:00-04:00"
 updatedAt: "2026-10-29T07:57:00-04:00"
-authors: [alex-morgan]
+authors: [christina-gerland]
 category: holidays
 keywords: ["when is Hanukkah 2026", "Hanukkah 2026 dates", "Hanukkah calendar 2026 printable", "first night of Hanukkah 2026", "Hanukkah candle lighting 2026"]
 dateline: "New York"

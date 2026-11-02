@@ -4,7 +4,7 @@ seoTitle: "Eclipses 2027: Dates, Times and Total Eclipse Aug. 2"
 description: "The National Aeronautics and Space Administration (NASA) lists five eclipses in 2027, led by the Aug. 2 total solar eclipse. Neither solar one reaches the U.S."
 type: explainer
 publishedAt: "2026-10-25T12:40:00-04:00"
-authors: [jordan-bennett]
+authors: [jessica-hartwell]
 category: sky-events
 keywords: ["eclipses 2027", "solar eclipse 2027", "August 2 2027 eclipse", "lunar eclipse 2027", "next total solar eclipse in the US"]
 dateline: "Greenbelt, Md."

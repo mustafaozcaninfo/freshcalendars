@@ -4,7 +4,7 @@ seoTitle: "Netflix Movies November 2026: Release Dates"
 description: "Netflix's fall movie guide lists 10 movies for November 2026, starting with A Dog's Perfect Christmas on Wed., Nov. 4. See every date and a free printable."
 type: news
 publishedAt: "2026-10-25T20:19:00-04:00"
-authors: [jordan-bennett]
+authors: [jessica-hartwell]
 category: entertainment
 keywords: ["new on Netflix November 2026", "Netflix movies November 2026", "Netflix November 2026 release dates", "A Dog's Perfect Christmas Netflix"]
 dateline: "Los Angeles"

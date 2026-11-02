@@ -4,7 +4,7 @@ seoTitle: "NYC Veterans Day Parade 2026: Time and Grand Marshal"
 description: "The 107th NYC Veterans Day Parade is Wednesday, Nov. 11, 2026, per the United War Veterans Council (UWVC). Step-off 12:30 p.m. Eastern Time (ET), as reported."
 type: news
 publishedAt: "2026-10-29T05:45:00-04:00"
-authors: [alex-morgan]
+authors: [christina-gerland]
 category: holidays
 keywords: ["veterans day parade nyc 2026", "nyc veterans day parade time", "veterans day parade 2026 grand marshal", "birmingham veterans day parade 2026"]
 dateline: "New York"

@@ -4,7 +4,7 @@ seoTitle: "Sam Fender Tickets 2027: Presale and General Sale Time"
 description: "Sam Fender 2027 tickets: Newcastle presale Thu., Oct. 29, general sale Fri., Oct. 30 at 9:30 a.m. Greenwich Mean Time (GMT), 5:30 a.m. Eastern Time (ET)."
 type: news
 publishedAt: "2026-10-28T03:46:00-04:00"
-authors: [alex-morgan]
+authors: [christina-gerland]
 category: uk-canada
 keywords: ["Sam Fender tickets", "Sam Fender tour 2027", "Sam Fender general sale time", "Sam Fender presale", "Sam Fender St James' Park 2027"]
 dateline: "London"

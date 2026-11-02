@@ -5,7 +5,7 @@ description: "Seven full weekends fall before Christmas Day, Fri., Dec. 25, 2026
 type: explainer
 publishedAt: "2026-10-31T17:55:00-04:00"
 updatedAt: "2026-11-01T02:44:00-05:00"
-authors: [jordan-bennett]
+authors: [jessica-hartwell]
 category: calendar-guides
 keywords: ["how many weekends until christmas 2026", "saturdays until christmas 2026", "weekends left before christmas", "christmas shopping weekends 2026"]
 dateline: "New York"

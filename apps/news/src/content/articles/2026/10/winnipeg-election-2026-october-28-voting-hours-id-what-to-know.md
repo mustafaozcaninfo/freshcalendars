@@ -5,7 +5,7 @@ description: "Winnipeg votes Wednesday, Oct. 28, 2026, 8 a.m. to 8 p.m. Central 
 type: news
 publishedAt: "2026-10-28T00:02:00-04:00"
 updatedAt: "2026-11-01T02:41:00-05:00"
-authors: [alex-morgan]
+authors: [christina-gerland]
 category: elections
 keywords: ["Winnipeg election 2026", "Winnipeg election day October 28", "Winnipeg voting hours", "what ID do I need to vote in Winnipeg"]
 dateline: "Winnipeg"

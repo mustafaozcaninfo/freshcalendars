@@ -5,7 +5,7 @@ description: "iPhone Duo went on sale in the US on Oct. 23. Prices start at $1,9
 type: news
 publishedAt: "2026-10-23T10:50:00-04:00"
 updatedAt: "2026-10-25T17:35:00-04:00"
-authors: [jordan-bennett]
+authors: [jessica-hartwell]
 category: gaming-tech
 keywords: ["iPhone Duo October 24", "iPhone Duo availability", "iPhone Duo pickup", "iPhone Duo price", "iPhone Duo in stock"]
 dateline: "New York"

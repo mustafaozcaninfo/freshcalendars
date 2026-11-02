@@ -4,7 +4,7 @@ seoTitle: "AP Exam Schedule 2027: Dates and Deadlines"
 description: "Advanced Placement (AP) exams run May 3-7 and May 10-14, 2027, and orders are due Nov. 13, 2026, says College Board. Day-by-day schedule and fees inside."
 type: explainer
 publishedAt: "2026-10-25T12:30:00-04:00"
-authors: [emily-carter]
+authors: [aaron-kessler]
 category: school-calendars
 keywords: ["AP exam schedule 2027", "AP exam dates 2027", "AP exam registration deadline", "when are AP exams 2027"]
 dateline: "New York"

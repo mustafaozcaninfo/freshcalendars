@@ -5,7 +5,7 @@ description: "Fiorentina vs Atalanta kicks off at 3:45 p.m. Eastern Time (ET), 1
 type: news
 publishedAt: "2026-10-29T15:40:00-04:00"
 updatedAt: "2026-10-30T00:45:00-04:00"
-authors: [jordan-bennett]
+authors: [jessica-hartwell]
 category: sports
 keywords: ["fiorentina vs atalanta live stream", "fiorentina vs atalanta where to watch", "fiorentina atalanta kickoff time", "fiorentina vs atalanta tv channel usa"]
 dateline: "Florence"

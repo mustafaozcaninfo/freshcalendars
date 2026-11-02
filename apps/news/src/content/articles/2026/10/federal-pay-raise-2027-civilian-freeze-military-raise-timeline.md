@@ -4,7 +4,7 @@ seoTitle: "Federal Pay Raise 2027: Civilian Freeze, Military 5-7%"
 description: "The President's alternative plan would freeze 2027 civilian federal pay and raise military pay 5% to 7%. See who gets what and the dates still ahead."
 type: news
 publishedAt: "2026-10-25T15:15:00-04:00"
-authors: [alex-morgan]
+authors: [aaron-kessler]
 category: money-benefits
 keywords: ["federal pay raise 2027", "2027 GS pay raise", "military pay raise 2027", "federal pay freeze 2027"]
 dateline: "Washington"

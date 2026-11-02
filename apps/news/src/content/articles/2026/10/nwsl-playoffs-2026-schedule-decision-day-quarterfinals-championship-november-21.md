@@ -4,7 +4,7 @@ seoTitle: "NWSL Playoffs 2026 Schedule and Dates"
 description: "The National Women's Soccer League (NWSL) ends its season Nov. 1 at 5 p.m. Eastern Time (ET); the NWSL Championship is Sat., Nov. 21 at Audi Field."
 type: news
 publishedAt: "2026-10-30T21:44:00-04:00"
-authors: [jordan-bennett]
+authors: [jessica-hartwell]
 category: sports
 keywords: ["nwsl playoffs 2026 schedule", "nwsl championship 2026 date", "nwsl decision day 2026 time", "nwsl quarterfinals 2026"]
 dateline: "New York"

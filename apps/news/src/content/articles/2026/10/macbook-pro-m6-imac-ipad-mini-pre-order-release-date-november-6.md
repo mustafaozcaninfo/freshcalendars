@@ -5,7 +5,7 @@ description: "Apple's MacBook Pro with M6, iMac and iPad mini arrive Friday, Nov
 type: news
 publishedAt: "2026-10-27T19:42:00-04:00"
 updatedAt: "2026-10-28T16:12:00-04:00"
-authors: [jordan-bennett]
+authors: [jessica-hartwell]
 category: gaming-tech
 keywords: ["macbook pro m6 release date", "macbook pro m6 pre order", "imac m6 release date", "ipad mini 2026 release date", "homepod mini 2 release date"]
 dateline: "New York"

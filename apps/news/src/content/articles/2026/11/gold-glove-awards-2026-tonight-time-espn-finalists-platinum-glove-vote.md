@@ -5,7 +5,7 @@ description: "The 2026 Rawlings Gold Glove winners were announced Sunday, Nov. 1
 type: news
 publishedAt: "2026-11-01T04:45:00-05:00"
 updatedAt: "2026-11-01T22:42:29-05:00"
-authors: [jordan-bennett]
+authors: [jessica-hartwell]
 category: sports
 keywords: ["gold glove awards 2026 winners", "gold glove winners 2026 list", "platinum glove 2026", "mlb awards 2026 dates"]
 hero:

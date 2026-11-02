@@ -4,7 +4,7 @@ seoTitle: "I Bond Rate November 2026: 5.51%, Fixed Rate 1.40%"
 description: "Series I savings bonds (I bonds) issued Nov. 1, 2026 to April 30, 2027 earn 5.51%, with a 1.40% fixed rate, TreasuryDirect says. See the math and reset months."
 type: news
 publishedAt: "2026-10-31T17:44:00-04:00"
-authors: [alex-morgan]
+authors: [aaron-kessler]
 category: money-benefits
 keywords: ["I bond rate November 2026", "new I bond rate 5.51%", "I bond fixed rate 1.40%", "when does my I bond rate change"]
 hero:

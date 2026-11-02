@@ -5,7 +5,7 @@ description: "Avatar: Seven Havens released episodes 7-9 on Oct. 23, 2026, on Pa
 type: news
 publishedAt: "2026-10-23T15:02:00-04:00"
 updatedAt: "2026-11-01T02:41:00-05:00"
-authors: [jordan-bennett]
+authors: [jessica-hartwell]
 category: entertainment
 keywords: ["Avatar: Seven Havens release schedule", "Avatar Seven Havens episode 10 release date", "when does Avatar Seven Havens come out", "Seven Havens finale date"]
 dateline: "New York"

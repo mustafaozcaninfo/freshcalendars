@@ -4,7 +4,7 @@ seoTitle: "London Fireworks 2026: Times and Tickets by Venue"
 description: "London's Bonfire Night displays run Thursday 5 to Sunday 8 November 2026; Wimbledon Park opens gates at 5.15pm on 5 November, per Merton Council."
 type: news
 publishedAt: "2026-10-29T15:45:00-04:00"
-authors: [alex-morgan]
+authors: [christina-gerland]
 category: uk-canada
 keywords: ["London fireworks 2026", "Battersea Park fireworks 2026", "Alexandra Palace fireworks 2026", "Blackheath fireworks 2026 time", "Bonfire Night London 2026"]
 dateline: "London"

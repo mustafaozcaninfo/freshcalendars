@@ -4,7 +4,7 @@ seoTitle: "January 2027 Important Dates: Holidays and Events"
 description: "January 2027 has two federal holidays, Jan. 1 and Jan. 18, per the Office of Personnel Management (OPM). Each key date with weekday, days until and a printable."
 type: explainer
 publishedAt: "2026-10-31T10:30:00-04:00"
-authors: [jordan-bennett]
+authors: [jessica-hartwell]
 category: calendar-guides
 keywords: ["January 2027 important dates", "January 2027 holidays", "holidays in January 2027", "days until January 2027", "January 2027 events"]
 dateline: "New York"

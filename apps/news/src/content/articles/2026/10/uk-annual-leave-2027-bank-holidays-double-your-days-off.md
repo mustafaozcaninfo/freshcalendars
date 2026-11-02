@@ -5,7 +5,7 @@ description: "Using gov.uk's 2027 bank holiday dates, 4 days of leave around Eas
 type: explainer
 publishedAt: "2026-10-31T00:59:00-04:00"
 updatedAt: "2026-11-01T04:47:00-05:00"
-authors: [alex-morgan]
+authors: [christina-gerland]
 category: uk-canada
 keywords: ["annual leave 2027", "bank holidays 2027 annual leave", "double annual leave 2027", "annual leave hack 2027"]
 hero:

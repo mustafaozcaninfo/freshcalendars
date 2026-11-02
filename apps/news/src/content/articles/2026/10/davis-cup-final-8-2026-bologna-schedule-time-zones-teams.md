@@ -4,7 +4,7 @@ seoTitle: "Davis Cup Final 8 2026 Bologna: Schedule, Times"
 description: "The Davis Cup Final 8 runs Nov. 24-29, 2026 in Bologna, Italy. Central European Time (CET) sessions start at 16:00 on Nov. 24, or 10 a.m. Eastern Time (ET)."
 type: news
 publishedAt: "2026-10-30T03:42:00-04:00"
-authors: [jordan-bennett]
+authors: [jessica-hartwell]
 category: sports
 keywords: ["davis cup finals 2026 schedule", "davis cup final 8 2026 time", "davis cup 2026 bologna dates", "great britain vs germany davis cup 2026 time", "canada vs czechia davis cup time"]
 dateline: "Bologna, Italy"

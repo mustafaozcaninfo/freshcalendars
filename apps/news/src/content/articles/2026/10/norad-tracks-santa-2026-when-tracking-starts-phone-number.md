@@ -5,7 +5,7 @@ description: "North American Aerospace Defense Command (NORAD) has not set 2026 
 type: explainer
 publishedAt: "2026-10-28T18:00:00-04:00"
 updatedAt: "2026-10-30T15:27:00-04:00"
-authors: [alex-morgan]
+authors: [christina-gerland]
 category: holidays
 keywords: ["NORAD Santa tracker 2026", "NORAD tracks Santa", "NORAD Santa phone number", "when does NORAD start tracking Santa", "NORAD tracks Santa hours"]
 hero:

@@ -5,7 +5,7 @@ description: "Election Day, Nov. 3, 2026, is not a federal holiday; banks are op
 type: explainer
 publishedAt: "2026-10-20T10:50:00-04:00"
 updatedAt: "2026-11-01T20:43:00-05:00"
-authors: [alex-morgan]
+authors: [christina-gerland]
 category: holidays
 keywords: ["is election day a holiday", "is the DMV open on election day", "are banks open on election day", "is the post office open on election day", "election day 2026 school closed"]
 dateline: "Washington"

@@ -5,7 +5,7 @@ description: "The Milwaukee Brewers won the 2026 World Series, beating the Tampa
 type: news
 publishedAt: "2026-10-21T05:45:00-04:00"
 updatedAt: "2026-10-28T23:12:00-04:00"
-authors: [jordan-bennett]
+authors: [jessica-hartwell]
 category: sports
 keywords: ["World Series 2026 schedule", "World Series game times", "what channel is the World Series on", "Brewers vs Rays World Series", "World Series Game 1 time"]
 dateline: "New York"

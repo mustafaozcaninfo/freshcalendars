@@ -5,7 +5,7 @@ description: "The next Powerball drawing is Mon., Nov. 2, 2026, at 10:59 p.m. Ea
 type: news
 publishedAt: "2026-11-01T01:46:00-04:00"
 updatedAt: "2026-11-01T02:45:00-05:00"
-authors: [jordan-bennett]
+authors: [christina-gerland]
 category: planning
 keywords: ["powerball drawing tonight", "powerball drawing time", "powerball jackpot", "when is the next powerball drawing", "mega millions drawing days"]
 assets:

@@ -5,7 +5,7 @@ description: "Thursday Night Football (TNF): Panthers at Packers on Oct. 29, 202
 type: news
 publishedAt: "2026-10-27T21:40:00-04:00"
 updatedAt: "2026-11-01T10:27:00-05:00"
-authors: [jordan-bennett]
+authors: [jessica-hartwell]
 category: sports
 keywords: ["Thursday Night Football tonight", "Panthers vs Packers live stream", "Panthers vs Packers time channel", "TNF schedule 2026", "what channel is Thursday Night Football"]
 dateline: "Green Bay"

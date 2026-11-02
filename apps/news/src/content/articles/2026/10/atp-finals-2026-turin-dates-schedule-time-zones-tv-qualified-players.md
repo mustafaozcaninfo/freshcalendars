@@ -4,7 +4,7 @@ seoTitle: "ATP Finals 2026 Turin: Dates, TV and Time Zones"
 description: "The Association of Tennis Professionals (ATP) Finals run Nov. 15-22, 2026 in Turin, Italy, on Tennis Channel in the U.S. Match times are not yet announced."
 type: news
 publishedAt: "2026-10-28T03:42:00-04:00"
-authors: [jordan-bennett]
+authors: [jessica-hartwell]
 category: sports
 keywords: ["atp finals 2026", "atp finals 2026 schedule", "nitto atp finals turin dates", "atp finals 2026 tv channel us", "atp finals qualified players 2026"]
 dateline: "New York"

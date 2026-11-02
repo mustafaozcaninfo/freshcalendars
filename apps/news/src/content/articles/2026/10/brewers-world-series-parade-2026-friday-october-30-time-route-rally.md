@@ -5,7 +5,7 @@ description: "The Brewers' Parade of Champions was Friday, Oct. 30, 2026, at 10 
 type: news
 publishedAt: "2026-10-29T01:50:00-04:00"
 updatedAt: "2026-11-01T10:27:00-05:00"
-authors: [jordan-bennett]
+authors: [jessica-hartwell]
 category: sports
 keywords: ["brewers parade", "brewers world series parade time", "brewers parade route", "brewers rally tickets", "brewers parade of champions"]
 dateline: "Milwaukee"

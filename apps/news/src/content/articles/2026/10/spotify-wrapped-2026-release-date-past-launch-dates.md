@@ -4,7 +4,7 @@ seoTitle: "Spotify Wrapped 2026 Release Date: Not Announced Yet"
 description: "Spotify has not announced the 2026 Wrapped date. Wrapped went live on a Wednesday from 2021 to 2025, between Nov. 29 and Dec. 4; here are all six launch dates."
 type: explainer
 publishedAt: "2026-10-25T23:20:00-04:00"
-authors: [jordan-bennett]
+authors: [jessica-hartwell]
 category: entertainment
 keywords: ["when does Spotify Wrapped 2026 come out", "Spotify Wrapped 2026 release date", "Spotify Wrapped date", "Spotify Wrapped past launch dates"]
 hero:

@@ -5,7 +5,7 @@ description: "Bad Bunny won Artist of the Year and Fuerza Regida led with 8 awar
 type: news
 publishedAt: "2026-10-25T13:15:00-04:00"
 updatedAt: "2026-10-25T17:35:00-04:00"
-authors: [jordan-bennett]
+authors: [jessica-hartwell]
 category: entertainment
 keywords: ["Premios Billboard 2026", "Billboard Latin Music Awards 2026 winners", "Premios Billboard 2026 ganadores", "how to watch Premios Billboard"]
 dateline: "Miami"

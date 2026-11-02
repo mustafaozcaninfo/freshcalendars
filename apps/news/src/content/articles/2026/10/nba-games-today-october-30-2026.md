@@ -4,7 +4,7 @@ seoTitle: "NBA Games Today, Oct. 30, 2026: Times and TV"
 description: "National Basketball Association (NBA) games Friday, Oct. 30, 2026: 10 games, first tip-off 7:00 p.m. Eastern Time (ET), on NBA Cup group play opening night."
 type: news
 publishedAt: "2026-10-29T17:40:00-04:00"
-authors: [jordan-bennett]
+authors: [jessica-hartwell]
 category: sports
 keywords: ["NBA games today", "NBA games tonight October 30", "NBA Cup schedule tonight", "NBA schedule October 30 2026", "printable NBA schedule"]
 dateline: "New York"

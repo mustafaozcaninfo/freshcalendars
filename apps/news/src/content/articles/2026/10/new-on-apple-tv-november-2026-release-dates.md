@@ -4,7 +4,7 @@ seoTitle: "New on Apple TV November 2026: Episode Calendar"
 description: "Apple TV Press dates Stick season 2 for Wed., Nov. 4, 2026 and 12 12 12 for Fri., Nov. 13. See every weekly episode date to each finale and a free printable."
 type: news
 publishedAt: "2026-10-28T01:42:00-04:00"
-authors: [jordan-bennett]
+authors: [jessica-hartwell]
 category: entertainment
 keywords: ["new on Apple TV November 2026", "Apple TV November 2026 schedule", "Stick season 2 release date", "12 12 12 Apple TV release date"]
 assets:

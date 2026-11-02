@@ -5,7 +5,7 @@ description: "Maine's Nov. 3, 2026 U.S. Senate and U.S. House races use ranked-c
 type: explainer
 publishedAt: "2026-10-24T17:00:00-04:00"
 updatedAt: "2026-11-01T02:41:00-05:00"
-authors: [alex-morgan]
+authors: [christina-gerland]
 category: elections
 keywords: ["Maine ranked choice voting 2026", "Maine Senate race 2026 ranked choice", "Maine absentee ballot deadline 2026", "how ranked choice voting works Maine"]
 dateline: "Augusta, Maine"

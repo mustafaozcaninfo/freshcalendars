@@ -5,7 +5,7 @@ description: "Three MotoGP rounds are left in 2026: Qatar Nov. 6-8, Portugal Nov
 type: explainer
 publishedAt: "2026-10-30T17:43:00-04:00"
 updatedAt: "2026-11-01T10:27:00-05:00"
-authors: [jordan-bennett]
+authors: [jessica-hartwell]
 category: sports
 keywords: ["motogp 2026 remaining races schedule", "motogp valencia 2026 race time", "motogp qatar 2026 time et", "motogp portugal 2026 schedule", "last motogp race 2026"]
 hero:

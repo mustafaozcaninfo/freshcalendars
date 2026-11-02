@@ -4,7 +4,7 @@ seoTitle: "Winter Solstice 2026: Shortest Day and Sunset Times"
 description: "The winter solstice is Monday, Dec. 21, 2026 at 3:50 p.m. Eastern Time (ET), 20:50 Coordinated Universal Time (UTC), per the U.S. Naval Observatory (USNO)."
 type: explainer
 publishedAt: "2026-10-30T00:30:00-04:00"
-authors: [jordan-bennett]
+authors: [jessica-hartwell]
 category: sky-events
 keywords: ["winter solstice 2026", "shortest day of the year 2026", "first day of winter 2026", "earliest sunset 2026"]
 hero:

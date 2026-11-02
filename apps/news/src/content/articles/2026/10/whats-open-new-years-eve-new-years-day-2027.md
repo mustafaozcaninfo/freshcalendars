@@ -5,7 +5,7 @@ description: "New Year's Day, Friday, Jan. 1, 2027, is a federal holiday, per th
 type: news
 publishedAt: "2026-10-30T15:49:00-04:00"
 updatedAt: "2026-10-31T00:25:00-04:00"
-authors: [alex-morgan]
+authors: [christina-gerland]
 category: holidays
 keywords: ["what's closed on new year's day 2027", "is mail delivered on new year's day", "stock market new year's eve 2026", "new year's eve 2026 closures"]
 hero:

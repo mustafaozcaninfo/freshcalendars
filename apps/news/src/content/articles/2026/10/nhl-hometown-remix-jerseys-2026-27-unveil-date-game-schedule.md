@@ -4,7 +4,7 @@ seoTitle: "NHL Hometown Remix Jerseys: Game Dates by Team"
 description: "First announced Hometown Remix games: Nov. 4 and 5. The National Hockey League (NHL) says all 32 jerseys are unveiled in November; full dates by team."
 type: news
 publishedAt: "2026-10-27T19:42:00-04:00"
-authors: [jordan-bennett]
+authors: [jessica-hartwell]
 category: sports
 keywords: ["NHL Hometown Remix jerseys", "Hometown Remix jersey release date", "Hometown Remix jersey schedule", "when do NHL teams wear Hometown Remix"]
 dateline: "New York"

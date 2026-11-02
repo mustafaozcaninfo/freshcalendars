@@ -5,7 +5,7 @@ description: "Stream the 2026 Ballon d'Or in the US on Dazn from 4 p.m. Eastern 
 type: news
 publishedAt: "2026-10-26T13:20:00-04:00"
 updatedAt: "2026-10-30T01:05:00-04:00"
-authors: [jordan-bennett]
+authors: [jessica-hartwell]
 category: sports
 keywords: ["Ballon d'Or 2026 live stream", "how to watch Ballon d'Or 2026", "Ballon d'Or 2026 channel", "Ballon d'Or 2026 Dazn", "Ballon d'Or 2026 start time US"]
 dateline: "London"

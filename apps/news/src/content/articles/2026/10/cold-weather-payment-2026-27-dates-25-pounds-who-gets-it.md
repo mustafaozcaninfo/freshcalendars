@@ -4,7 +4,7 @@ seoTitle: "Cold Weather Payment 2026-27: £25, Dates, Who Gets It"
 description: "Cold Weather Payment pays £25 for each 7-day freeze between 1 November 2026 and 31 March 2027, GOV.UK says. It is automatic, paid within 14 working days."
 type: news
 publishedAt: "2026-10-26T12:40:00-04:00"
-authors: [alex-morgan]
+authors: [christina-gerland]
 category: uk-canada
 keywords: ["cold weather payment 2026", "cold weather payment 2026 to 2027", "when does cold weather payment start", "cold weather payment £25", "cold weather payment eligibility"]
 dateline: "London"

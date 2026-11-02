@@ -5,7 +5,7 @@ description: "Clocks fell back one hour at 2 a.m. on Sunday, Nov. 1, 2026. The H
 type: news
 publishedAt: "2026-10-17T16:00:00-04:00"
 updatedAt: "2026-11-01T05:45:00-05:00"
-authors: [jordan-bennett]
+authors: [jessica-hartwell]
 category: time-change
 keywords: ["daylight saving time ends 2026", "fall back November 1 2026", "Sunshine Protection Act 2026", "permanent daylight saving time", "clocks change 2026"]
 dateline: "New York"

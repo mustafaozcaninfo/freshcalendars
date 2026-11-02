@@ -4,7 +4,7 @@ seoTitle: "NHL Games Today, Nov. 2, 2026: 4 Games and TV"
 description: "National Hockey League (NHL) games today, Mon., Nov. 2, 2026: 4 games from 7:00 to 9:00 p.m. Eastern Time (ET), with arenas, time zones and TV."
 type: news
 publishedAt: "2026-10-31T21:44:00-04:00"
-authors: [jordan-bennett]
+authors: [jessica-hartwell]
 category: sports
 keywords: ["NHL games today November 2 2026", "NHL schedule Monday November 2", "NHL games tonight", "Flames vs Sharks time", "Avalanche vs Blackhawks time"]
 dateline: "New York"

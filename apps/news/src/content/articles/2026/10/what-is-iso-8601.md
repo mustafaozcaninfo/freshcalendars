@@ -4,7 +4,7 @@ seoTitle: "What Is ISO 8601? YYYY-MM-DD Date Format"
 description: "The International Organization for Standardization (ISO) writes Oct. 30, 2026 as 2026-10-30 in ISO 8601, its date and time standard. See every form."
 type: explainer
 publishedAt: "2026-10-30T08:21:00-04:00"
-authors: [jordan-bennett]
+authors: [jessica-hartwell]
 category: calendar-guides
 keywords: ["what is ISO 8601", "ISO 8601 date format", "YYYY-MM-DD", "ISO date and time", "UTC Z suffix"]
 hero:

@@ -5,7 +5,7 @@ description: "The 2026 Lexus Melbourne Cup is Tuesday, Nov. 3 in Melbourne, Mond
 type: news
 publishedAt: "2026-10-30T12:32:00-04:00"
 updatedAt: "2026-11-01T10:27:00-05:00"
-authors: [jordan-bennett]
+authors: [jessica-hartwell]
 category: sports
 keywords: ["Melbourne Cup 2026 time", "Melbourne Cup 2026 US time", "Melbourne Cup Carnival 2026 dates", "Victoria Derby Day 2026", "what time is the Melbourne Cup in the US"]
 dateline: "Melbourne"

@@ -5,7 +5,7 @@ description: "Early in-person voting is open now in most states ahead of Electio
 type: news
 publishedAt: "2026-10-22T01:36:00-04:00"
 updatedAt: "2026-10-30T02:10:00-04:00"
-authors: [alex-morgan]
+authors: [christina-gerland]
 category: elections
 keywords: ["early voting 2026", "which states have early voting", "early voting dates by state", "early voting now"]
 dateline: "New York"

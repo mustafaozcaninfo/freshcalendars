@@ -5,7 +5,7 @@ description: "New York, on Eastern Time (ET), is 9 hours behind Dubai from Nov. 
 type: explainer
 publishedAt: "2026-10-31T14:23:00-04:00"
 updatedAt: "2026-11-01T05:45:00-05:00"
-authors: [jordan-bennett]
+authors: [jessica-hartwell]
 category: time-change
 keywords: ["us dubai time difference", "new york dubai time difference after daylight saving", "us saudi arabia time difference", "us israel time difference november 2026"]
 hero:

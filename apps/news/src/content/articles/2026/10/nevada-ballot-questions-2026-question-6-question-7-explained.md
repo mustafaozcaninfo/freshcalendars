@@ -4,7 +4,7 @@ seoTitle: "Nevada Ballot Questions 2026: Questions 6 and 7"
 description: "Nevada voters decide two statewide questions on Nov. 3, 2026: Question 6 on abortion rights and Question 7 on voter ID. What yes and no do, and key deadlines."
 type: explainer
 publishedAt: "2026-10-31T14:00:00-04:00"
-authors: [alex-morgan]
+authors: [christina-gerland]
 category: elections
 keywords: ["Nevada ballot questions 2026", "Nevada Question 7 voter ID 2026", "Nevada Question 6 2026", "Nevada election deadlines 2026"]
 dateline: "Las Vegas"

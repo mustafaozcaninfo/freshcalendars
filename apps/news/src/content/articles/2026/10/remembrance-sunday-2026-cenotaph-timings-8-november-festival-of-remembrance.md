@@ -4,7 +4,7 @@ seoTitle: "Remembrance Sunday 2026: Cenotaph Times, Festival"
 description: "Cenotaph service: Sunday 8 November 2026, 11am Greenwich Mean Time (GMT), 6am Eastern Time (ET), says GOV.UK. Festival of Remembrance: Saturday 7 November."
 type: news
 publishedAt: "2026-10-31T14:23:00-04:00"
-authors: [alex-morgan]
+authors: [christina-gerland]
 category: uk-canada
 keywords: ["Remembrance Sunday 2026", "Cenotaph service 2026 times", "Festival of Remembrance 2026 BBC", "what time is the two minute silence Remembrance Sunday"]
 dateline: "London"

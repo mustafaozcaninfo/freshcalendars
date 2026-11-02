@@ -4,7 +4,7 @@ seoTitle: "Halloween Costume Stores Open Today: Last 48 Hours"
 description: "Halloween is Sat., Oct. 31, 2026: where to find a costume in two days, how to confirm store hours, and a Food and Drug Administration (FDA) lens warning."
 type: explainer
 publishedAt: "2026-10-29T08:00:00-04:00"
-authors: [jordan-bennett]
+authors: [jessica-hartwell]
 category: retail-dates
 keywords: ["Halloween stores open today", "where to buy Halloween costumes near me", "Spirit Halloween near me", "Party City Staples Halloween", "last-minute Halloween costume 2026"]
 assets:

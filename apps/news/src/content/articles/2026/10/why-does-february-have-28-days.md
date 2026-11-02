@@ -4,7 +4,7 @@ seoTitle: "Why Does February Have 28 Days? Roman Calendar History"
 description: "February has 28 days, or 29 in a leap year. Ancient writers trace the 28 to the Roman calendar of King Numa, and the leap day to Julius Caesar's reform."
 type: explainer
 publishedAt: "2026-10-30T08:21:00-04:00"
-authors: [jordan-bennett]
+authors: [jessica-hartwell]
 category: calendar-guides
 keywords: ["why does February have 28 days", "why is February the shortest month", "February 29 leap year", "Roman calendar February"]
 hero:

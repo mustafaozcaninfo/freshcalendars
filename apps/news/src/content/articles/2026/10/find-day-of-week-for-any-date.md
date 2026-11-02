@@ -4,7 +4,7 @@ seoTitle: "Find the Day of the Week for Any Date"
 description: "Zeller's congruence names the weekday of any Gregorian date. Two worked examples, doomsday anchors and spreadsheet weekday codes, plus the 1582 and 1752 limits."
 type: explainer
 publishedAt: "2026-10-30T08:21:00-04:00"
-authors: [jordan-bennett]
+authors: [jessica-hartwell]
 category: calendar-guides
 keywords: ["how to find the day of the week for any date", "what day of the week was", "Zeller's congruence", "day of week calculator"]
 hero:

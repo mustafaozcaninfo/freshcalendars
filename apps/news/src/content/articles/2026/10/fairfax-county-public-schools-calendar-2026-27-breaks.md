@@ -4,7 +4,7 @@ seoTitle: "Fairfax County Schools Calendar 2026-27: Breaks"
 description: "Fairfax County Public Schools (FCPS) 2026-27: first day Aug. 24, winter break Dec. 21 to Jan. 3, spring break Mar. 22-26, last day June 16, early-release days."
 type: news
 publishedAt: "2026-10-26T20:40:00-04:00"
-authors: [emily-carter]
+authors: [aaron-kessler]
 category: school-calendars
 keywords: ["fcps calendar 2026-27", "fairfax county public schools calendar 2026-2027", "fcps winter break 2026", "fcps spring break 2027", "fcps holidays 2026-27"]
 dateline: "Fairfax County, Va."

@@ -4,7 +4,7 @@ seoTitle: "NFL Week 14 Schedule 2026: Times and Pick'em Sheet"
 description: "National Football League (NFL) Week 14 runs Dec. 10 to 14, 2026: 15 games, two byes, Eastern Time (ET) kickoffs, TV channels and a printable pick'em sheet."
 type: news
 publishedAt: "2026-11-02T01:22:00-05:00"
-authors: [jordan-bennett]
+authors: [jessica-hartwell]
 category: sports
 keywords: ["NFL Week 14 schedule 2026", "NFL Week 14 pick em sheet printable", "NFL Week 14 game times", "NFL Week 14 bye teams 2026"]
 assets:

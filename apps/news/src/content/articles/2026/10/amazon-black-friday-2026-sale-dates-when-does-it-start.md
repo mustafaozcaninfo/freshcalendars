@@ -5,7 +5,7 @@ description: "Amazon says Black Friday 2026 is Nov. 27 and early deals are live,
 type: explainer
 publishedAt: "2026-10-26T02:21:00-04:00"
 updatedAt: "2026-10-30T23:45:00-04:00"
-authors: [jordan-bennett]
+authors: [jessica-hartwell]
 category: retail-dates
 keywords: ["Amazon Black Friday 2026", "when does Amazon Black Friday start 2026", "Amazon Black Friday 2026 dates", "Amazon holiday return policy 2026"]
 hero:

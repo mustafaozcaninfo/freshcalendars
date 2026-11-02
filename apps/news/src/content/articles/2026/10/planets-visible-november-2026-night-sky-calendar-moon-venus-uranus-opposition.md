@@ -5,7 +5,7 @@ description: "The crescent Moon is about 1° from Venus before sunrise on Nov. 7
 type: explainer
 publishedAt: "2026-10-28T07:45:00-04:00"
 updatedAt: "2026-10-28T14:25:00-04:00"
-authors: [jordan-bennett]
+authors: [jessica-hartwell]
 category: sky-events
 keywords: ["planets visible November 2026", "night sky November 2026", "Uranus opposition 2026", "Moon and Venus November 2026", "November 2026 sky calendar"]
 dateline: "New York"

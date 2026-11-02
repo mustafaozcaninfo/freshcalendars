@@ -4,7 +4,7 @@ seoTitle: "Coachella 2027 Dates and Stagecoach 2027 Lineup"
 description: "Coachella 2027 runs April 9-11 and 16-18 in Indio, California, per two newsrooms. Stagecoach follows April 23-25. The Coachella lineup is not yet announced."
 type: news
 publishedAt: "2026-11-01T11:30:00-05:00"
-authors: [jordan-bennett]
+authors: [jessica-hartwell]
 category: entertainment
 keywords: ["Coachella 2027 dates", "Stagecoach 2027 lineup", "Coachella 2027 lineup", "Stagecoach 2027 dates", "Indio April 2027"]
 dateline: "Indio"

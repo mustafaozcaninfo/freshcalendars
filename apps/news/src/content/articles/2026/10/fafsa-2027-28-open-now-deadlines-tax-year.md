@@ -4,7 +4,7 @@ seoTitle: "FAFSA 2027-28 Is Open: Dates and Deadlines"
 description: "The 2027-28 Free Application for Federal Student Aid (FAFSA) opened Sept. 23, 2026, its earliest launch, the U.S. Department of Education said, per Fox 5."
 type: news
 publishedAt: "2026-10-28T18:00:00-04:00"
-authors: [emily-carter]
+authors: [aaron-kessler]
 category: school-calendars
 keywords: ["FAFSA 2027-28", "FAFSA deadline 2027-28", "FAFSA opens 2026", "FAFSA tax year 2027-28", "FAFSA checklist"]
 dateline: "New York"

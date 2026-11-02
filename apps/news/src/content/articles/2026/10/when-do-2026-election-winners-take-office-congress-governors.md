@@ -4,7 +4,7 @@ seoTitle: "When Do 2026 Election Winners Take Office?"
 description: "The 120th Congress begins at noon Eastern Time (ET) on Sunday, Jan. 3, 2027. See when each of the 36 governors elected Nov. 3, 2026 takes office, by date."
 type: explainer
 publishedAt: "2026-10-30T05:30:00-04:00"
-authors: [alex-morgan]
+authors: [christina-gerland]
 category: elections
 keywords: ["when do 2026 election winners take office", "when do new members of congress take office 2027", "governor inauguration dates 2027", "when are governors sworn in 2027", "120th congress start date"]
 hero:

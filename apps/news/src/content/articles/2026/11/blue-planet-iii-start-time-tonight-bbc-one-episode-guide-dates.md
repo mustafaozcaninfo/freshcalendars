@@ -4,7 +4,7 @@ seoTitle: "Blue Planet III Tonight: 8pm GMT, 3 p.m. ET"
 description: "Blue Planet III starts tonight, 1 Nov 2026, at 8pm Greenwich Mean Time (GMT), 3 p.m. Eastern Standard Time (EST), on British Broadcasting Corporation (BBC) One."
 type: news
 publishedAt: "2026-11-01T10:43:00-05:00"
-authors: [alex-morgan]
+authors: [christina-gerland]
 category: uk-canada
 keywords: ["blue planet 3", "blue planet iii start time", "blue planet iii episode guide", "blue planet 3 bbc one tonight", "blue planet iii us release"]
 dateline: "London"

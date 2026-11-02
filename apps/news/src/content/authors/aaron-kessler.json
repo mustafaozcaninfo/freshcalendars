@@ -1,0 +1,13 @@
+{
+  "kind": "Person",
+  "name": "Aaron Kessler",
+  "role": "Managing Editor, Education, Family Planning, Money & Benefits",
+  "bio": "Aaron Kessler is the Managing Editor for education, family planning, money and benefits at Fresh Calendars News. Aaron leads coverage of school-year calendars, school breaks and test dates, and of the payment dates and deadlines families plan around: Social Security, Supplemental Security Income (SSI), the Supplemental Nutrition Assistance Program (SNAP), tax filing and refunds, and minimum wage changes. Aaron's stories name the district, agency and year they cover and are checked against the official district calendar, agency schedule or IRS notice they come from.",
+  "photo": "../../assets/authors/aaron-kessler.png",
+  "confirmedAt": "2026-11-02",
+  "email": "aaron@freshcalendars.com",
+  "categories": [
+    "school-calendars",
+    "money-benefits"
+  ]
+}

@@ -4,7 +4,7 @@ seoTitle: "National Author's Day 2026: Sunday, Nov. 1"
 description: "National Author's Day is Sunday, Nov. 1, 2026. Illinois Times and The Hans India trace it to 1928 in Bement, Illinois. Weekdays to 2030 and a reading log."
 type: explainer
 publishedAt: "2026-10-31T16:44:00-04:00"
-authors: [alex-morgan]
+authors: [christina-gerland]
 category: holidays
 keywords: ["national author's day 2026", "national authors day november 1", "when is national authors day", "nellie verne burt mcpherson"]
 dateline: "New York"

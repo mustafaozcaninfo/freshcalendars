@@ -4,7 +4,7 @@ seoTitle: "Year-End Money Deadlines 2026: Dec. 31 Checklist"
 description: "Thursday, Dec. 31, 2026 is the cutoff for Required Minimum Distributions (RMDs) and charity gifts, per the Internal Revenue Service (IRS), and what can wait."
 type: explainer
 publishedAt: "2026-10-30T15:49:00-04:00"
-authors: [alex-morgan]
+authors: [aaron-kessler]
 category: money-benefits
 keywords: ["year end deadlines 2026", "rmd deadline 2026", "december 31 tax deadlines", "year end money checklist 2026"]
 hero:

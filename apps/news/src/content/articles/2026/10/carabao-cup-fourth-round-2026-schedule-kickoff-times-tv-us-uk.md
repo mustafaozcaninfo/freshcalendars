@@ -5,7 +5,7 @@ description: "Carabao Cup fourth round results, Oct. 27 to 29, 2026: Fleetwood T
 type: news
 publishedAt: "2026-10-27T11:58:00-04:00"
 updatedAt: "2026-10-30T01:05:00-04:00"
-authors: [jordan-bennett]
+authors: [jessica-hartwell]
 category: sports
 keywords: ["carabao cup fourth round results", "fleetwood vs arsenal result", "liverpool vs chelsea carabao cup result", "carabao cup quarter final draw", "carabao cup fourth round 2026"]
 dateline: "London"

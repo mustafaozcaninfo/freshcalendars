@@ -5,7 +5,7 @@ description: "The next Fantasy Premier League (FPL) deadline is Gameweek 10, Fri
 type: news
 publishedAt: "2026-10-31T05:45:00-04:00"
 updatedAt: "2026-10-31T15:50:00-04:00"
-authors: [alex-morgan]
+authors: [christina-gerland]
 category: uk-canada
 keywords: ["fpl deadline", "fpl gameweek 10 deadline", "fantasy premier league deadlines 2026/27", "fpl deadline time", "fpl chip deadline gameweek 19"]
 dateline: "London"

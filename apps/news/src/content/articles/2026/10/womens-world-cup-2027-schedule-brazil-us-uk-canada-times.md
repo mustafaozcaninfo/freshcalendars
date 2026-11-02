@@ -4,7 +4,7 @@ seoTitle: "Women's World Cup 2027 Schedule and Dates"
 description: "The 2027 Women's World Cup runs June 24 to July 25 in Brazil, says the Fédération Internationale de Football Association (FIFA). Host cities and key dates."
 type: news
 publishedAt: "2026-10-31T07:47:00-04:00"
-authors: [jordan-bennett]
+authors: [jessica-hartwell]
 category: sports
 keywords: ["womens world cup 2027 schedule", "womens world cup 2027 dates", "when is the womens world cup 2027", "womens world cup 2027 host cities", "womens world cup 2027 final"]
 hero:

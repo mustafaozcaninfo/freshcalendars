@@ -4,7 +4,7 @@ seoTitle: "World Diabetes Day 2026, Nov. 14: Theme and Dates"
 description: "World Diabetes Day is Saturday, Nov. 14, 2026; the theme is Early action on diabetes, per the International Diabetes Federation (IDF). Dates, counts, checklist."
 type: explainer
 publishedAt: "2026-10-31T23:40:00-04:00"
-authors: [alex-morgan]
+authors: [christina-gerland]
 category: holidays
 keywords: ["world diabetes day 2026", "world diabetes day 2026 theme", "when is world diabetes day", "american diabetes month 2026"]
 dateline: "New York"

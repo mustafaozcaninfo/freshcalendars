@@ -4,7 +4,7 @@ seoTitle: "Ice Skating Rinks 2026-27: Opening Dates and Prices"
 description: "Wollman Rink and the Bryant Park rink opened Wed., Oct. 28, 2026; Somerset House opens Nov. 11 and Maggie Daley Ice Ribbon Nov. 13, per each rink's site."
 type: news
 publishedAt: "2026-11-01T22:43:00-05:00"
-authors: [jordan-bennett]
+authors: [christina-gerland]
 category: holidays
 keywords: ["ice skating rinks open 2026", "bryant park ice skating 2026", "wollman rink 2026 dates", "maggie daley ice ribbon 2026 opening", "somerset house skate 2026"]
 hero:

@@ -4,7 +4,7 @@ seoTitle: "Easter 2027: Good Friday, Easter Monday, What's Open"
 description: "Easter is Sunday, March 28, 2027. The New York Stock Exchange (NYSE) closes Good Friday, March 26, but it is not a federal holiday. UK dates, 2027-2035 table."
 type: news
 publishedAt: "2026-10-31T02:54:00-04:00"
-authors: [alex-morgan]
+authors: [christina-gerland]
 category: holidays
 keywords: ["easter 2027", "is good friday a holiday 2027", "is the stock market open on good friday 2027", "easter monday 2027", "good friday 2027"]
 hero:

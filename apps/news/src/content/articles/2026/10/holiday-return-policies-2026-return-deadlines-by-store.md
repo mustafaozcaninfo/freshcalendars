@@ -4,7 +4,7 @@ seoTitle: "Holiday Return Policy 2026: Deadlines by Store"
 description: "Best Buy says purchases from Oct. 30 through Dec. 31, 2026 can be returned by Jan. 15, 2027. See 2026 holiday return deadlines by store, with Target too."
 type: news
 publishedAt: "2026-10-30T05:30:00-04:00"
-authors: [jordan-bennett]
+authors: [jessica-hartwell]
 category: retail-dates
 keywords: ["holiday return policy 2026", "extended holiday return policy 2026", "best buy holiday return policy 2026", "target holiday return policy 2026", "amazon holiday return policy 2026"]
 assets:

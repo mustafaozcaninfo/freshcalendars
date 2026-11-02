@@ -5,7 +5,7 @@ description: "Full National Football League (NFL) 2026-2027 schedule: all 272 ga
 type: explainer
 publishedAt: "2026-10-23T02:50:00-04:00"
 updatedAt: "2026-11-01T10:27:00-05:00"
-authors: [jordan-bennett]
+authors: [jessica-hartwell]
 category: sports
 keywords: ["printable NFL schedule 2026-2027 PDF", "NFL schedule 2026", "NFL 2026 week by week schedule", "NFL bye weeks 2026", "NFL team schedules 2026 printable"]
 dateline: "New York"

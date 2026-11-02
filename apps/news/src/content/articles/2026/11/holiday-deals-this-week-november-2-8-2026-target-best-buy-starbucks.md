@@ -4,7 +4,7 @@ seoTitle: "Holiday Sales Starting This Week, Nov. 2-8, 2026"
 description: "Eight holiday sales and menus start Nov. 2-8, 2026, including Target's Early Black Friday deals Nov. 5-7 and Best Buy's Nov. 6, each per its own announcement."
 type: news
 publishedAt: "2026-10-31T23:44:00-04:00"
-authors: [jordan-bennett]
+authors: [jessica-hartwell]
 category: retail-dates
 keywords: ["early black friday deals this week", "holiday sales starting this week november 2026", "target early black friday 2026 nov 5", "what sales start this week"]
 dateline: "New York"

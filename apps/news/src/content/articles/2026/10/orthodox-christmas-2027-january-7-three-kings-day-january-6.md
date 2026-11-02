@@ -4,7 +4,7 @@ seoTitle: "Orthodox Christmas 2027: Thursday, January 7"
 description: "Orthodox Christmas 2027 falls on Thursday, Jan. 7, the Gregorian date of Julian Dec. 25, and Three Kings Day is Wednesday, Jan. 6. Weekdays through 2030."
 type: explainer
 publishedAt: "2026-10-30T15:50:00-04:00"
-authors: [alex-morgan]
+authors: [christina-gerland]
 category: holidays
 keywords: ["orthodox christmas 2027", "three kings day 2027", "why is orthodox christmas on january 7", "julian calendar christmas", "january 7 christmas"]
 hero:

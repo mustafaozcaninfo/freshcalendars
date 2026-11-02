@@ -4,7 +4,7 @@ seoTitle: "Nutcracker 2026 Dates: 7 Ballet Companies, Run Times"
 description: "New York City Ballet, Boston Ballet and Pacific Northwest Ballet (PNB) open The Nutcracker Fri., Nov. 27, 2026. San Francisco and Atlanta open Dec. 4-5."
 type: news
 publishedAt: "2026-11-01T22:40:00-05:00"
-authors: [jordan-bennett]
+authors: [jessica-hartwell]
 category: entertainment
 keywords: ["nutcracker 2026", "nutcracker 2026 dates", "nyc ballet nutcracker 2026", "boston ballet nutcracker 2026", "when does the nutcracker start"]
 hero:

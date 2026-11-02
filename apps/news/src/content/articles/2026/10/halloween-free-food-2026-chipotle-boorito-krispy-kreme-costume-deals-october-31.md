@@ -6,7 +6,7 @@ type: news
 dateline: "New York"
 publishedAt: "2026-10-30T05:43:00-04:00"
 updatedAt: "2026-11-01T05:33:00-05:00"
-authors: [jordan-bennett]
+authors: [christina-gerland]
 category: holidays
 keywords: ["Halloween free food 2026", "Chipotle Boorito 2026", "Krispy Kreme free doughnut costume 2026", "Halloween deals October 31 2026"]
 assets:

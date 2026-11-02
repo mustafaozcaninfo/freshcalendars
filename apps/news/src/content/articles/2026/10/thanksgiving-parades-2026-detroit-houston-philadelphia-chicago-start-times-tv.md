@@ -4,7 +4,7 @@ seoTitle: "Thanksgiving Parades 2026: City Start Times and TV"
 description: "Detroit's 100th Thanksgiving parade steps off 8:45 a.m. Eastern Time (ET) Nov. 26, 2026; Houston's is 9 a.m. Central Time (CT), Philadelphia's 8:30 a.m. ET."
 type: news
 publishedAt: "2026-10-30T13:50:00-04:00"
-authors: [alex-morgan]
+authors: [christina-gerland]
 category: holidays
 keywords: ["thanksgiving parades 2026", "detroit thanksgiving parade 2026 time", "houston thanksgiving parade 2026", "philadelphia thanksgiving parade 2026", "plymouth thanksgiving parade 2026"]
 dateline: "Detroit"
