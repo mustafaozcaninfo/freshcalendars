@@ -26,6 +26,10 @@ Each writer has one queue file: `docs/desk/w1.md`, `docs/desk/w2.md`, `docs/desk
 
 **Queue empty.** Then the writer takes the next due installment from the "Standing" section of its file. If none is due, it picks one story in its own beat with the `news-seo` skill, adds it to its file as a new item in the claim commit, and writes it. It never writes a topic that already has a story on `main`, an open pull request or a `claude/desk-*` branch. With nothing worth writing it reports "kuyruk boş" and stops.
 
+## Other routines
+
+- **NFL pick'em hub weekly update** (account w2, Tuesdays 1:23 p.m. ET, September to December): refreshes the hub `printable-nfl-pickem-sheets-2026` and the schedule tables from the generator (`docs/NFL-PICKEM.md`). Writers never edit the hub or `packages/generator/data/nfl-2026/`; w3 still writes the weekly "NFL Week N schedule" stories.
+
 ## Writer rules
 
 Everything in `CLAUDE.md` applies. On top of it:
