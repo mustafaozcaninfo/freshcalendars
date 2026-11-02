@@ -4,6 +4,7 @@ seoTitle: "What's Open on Thanksgiving 2026: Stores and Hours"
 description: "Thanksgiving is Thursday, Nov. 26, 2026. Walmart, Costco and Target are closed; Whole Foods and Dollar General open shorter hours. See the full list."
 type: news
 publishedAt: "2026-10-24T00:52:00-04:00"
+updatedAt: "2026-11-02T04:40:00-05:00"
 authors: [jessica-hartwell]
 category: retail-dates
 keywords: ["what's open on Thanksgiving 2026", "grocery stores open on Thanksgiving 2026", "is Walmart open on Thanksgiving 2026", "is Costco open on Thanksgiving 2026", "stores closed on Thanksgiving 2026"]
@@ -23,9 +24,9 @@ assets:
     columns: ["Store or service", "Thanksgiving Day 2026"]
     rows:
       - ["Walmart", "Closed (company statement, Oct. 2026)"]
-      - ["Costco", "Closed (holiday closures page)"]
+      - ["Costco", "Closed Thu., Nov. 26 (2026 notice)"]
       - ["Target", "Closed (2021 policy, stores shut moving forward)"]
-      - ["Best Buy", "Closed (announced 2020; not restated for 2026)"]
+      - ["Best Buy", "Closed (2026 holiday calendar)"]
       - ["Home Depot", "Closed (2026 holiday hours)"]
       - ["Lowe's", "Closed (2026 holiday release)"]
       - ["Aldi", "Closed (store information page)"]
@@ -61,7 +62,7 @@ faq:
   - q: "Is Walmart open on Thanksgiving 2026?"
     a: "No. Walmart said in October 2026 that its stores will be closed again on Thanksgiving and Christmas this year. Online shopping on Walmart.com still works."
   - q: "Is Costco open on Thanksgiving 2026?"
-    a: "No. Costco's holiday closures page lists Thanksgiving Day as a day its warehouses are closed. Costco.com stays open for orders."
+    a: "No. Costco's 2026 holiday notice says Costco will be closed Thursday, Nov. 26, 2026, and its holiday closures page lists Thanksgiving Day too. Costco.com stays open for orders."
   - q: "Are grocery stores open on Thanksgiving 2026?"
     a: "Some are. Whole Foods Market says many of its stores open with modified hours, and Dollar General says most of its stores are open. Several other chains have not posted 2026 hours, so check your store's locator or call ahead."
   - q: "Is Target open on Thanksgiving 2026?"
@@ -82,6 +83,13 @@ sources:
     url: "https://corporate.target.com/press/fact-sheet/2021/11/target-announces-it-will-close-stores-on-thanksgiving-day-moving-forward"
     publisher: "Target"
     date: "2021-11-22"
+  - title: "Holiday Savings Valid Nov. 26"
+    url: "https://www.costco.com/o/-/thanksgiving-day"
+    publisher: "Costco Wholesale"
+  - title: "Best Buy reveals holiday calendar with Doorbusters and deals throughout the season"
+    url: "https://corporate.bestbuy.com/2026/holiday-calendar/"
+    publisher: "Best Buy"
+    date: "2026-10-27"
   - title: "Best Buy to Close Stores on Thanksgiving Day"
     url: "https://corporate.bestbuy.com/2020/best-buy-to-close-stores-on-thanksgiving-day/"
     publisher: "Best Buy"
@@ -152,9 +160,9 @@ The table lists what each company has published for 2026 where available, with t
 | Store | Thanksgiving Day 2026 | Source year |
 |---|---|---|
 | Walmart | Closed | 2026 statement |
-| Costco | Closed | Holiday closures page |
+| Costco | Closed | 2026 holiday notice |
 | Target | Closed | 2021 policy |
-| Best Buy | Closed (not restated for 2026) | 2020 announcement |
+| Best Buy | Closed | 2026 holiday calendar |
 | Home Depot | Closed | 2026 holiday hours |
 | Lowe's | Closed | 2026 holiday release |
 | Aldi | Closed | Store information page |
@@ -164,11 +172,11 @@ The table lists what each company has published for 2026 where available, with t
 
 **Walmart.** In its Oct. 7, 2026 season announcement, Walmart said its "stores will be closed again on Thanksgiving and Christmas this year." Walmart.com stays open for online orders.
 
-**Costco.** The warehouse club's holiday closures help page lists Thanksgiving Day among the days its warehouses close. Costco.com continues to take orders.
+**Costco.** Costco's 2026 holiday notice says: "In observance of Thanksgiving, Costco will be closed Thursday, Nov. 26, 2026." Its holiday closures help page also lists Thanksgiving Day among the days its warehouses close. Costco.com continues to take orders.
 
 **Target.** Target said in a 2021 fact sheet that "Target stores will be closed on Thanksgiving Day moving forward." That policy still holds, and the company has not announced a change for 2026.
 
-**Best Buy.** Best Buy announced in 2020 that it would close stores on Thanksgiving Day. It has not restated the policy for 2026, so treat the closure as its last published position and confirm your store.
+**Best Buy.** Best Buy's 2026 holiday calendar, posted Oct. 27, 2026, says "Stores will be closed on Thanksgiving Day." The company first made the closure its policy in 2020. Its 10 days of Black Friday doorbusters start Nov. 19, and it tells shoppers to check their local store page for extended hours.
 
 **Home Depot and Lowe's.** Home Depot's 2026 holiday store hours list Thanksgiving, Thursday, Nov. 26, as closed. Lowe's said in its 2026 holiday release that its stores will be closed on Thanksgiving Day and Christmas Day.
 
