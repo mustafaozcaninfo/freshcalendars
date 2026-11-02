@@ -20,10 +20,11 @@ The deploy holds about 1,400 files (limit 20,000) because images and printables 
 
 | Trigger | Workflow | What it does |
 |---|---|---|
-| Push to `main` | `ci.yml` | tests, puzzle check, `/news/` build with `NEWS_ASSETS_PREFIX=https://cdn.freshcalendars.com/news`, `news:verify`, `news:seo-audit`; when all are green: new images to R2, then `deploy.yml` |
+| Push to `main` (or a run started by hand on `main`; a run started on another branch only checks) | `ci.yml` | tests, puzzle check, `/news/` build with `NEWS_ASSETS_PREFIX=https://cdn.freshcalendars.com/news`, `news:verify`, `news:seo-audit`; when all are green: new images to R2, then `deploy.yml` |
 | When a story's `publishedAt` comes (Worker cron, every 5 min; GitHub hourly as a backup) | `scheduled.yml` | a story whose `publishedAt` passed since the last build: rebuild the deployed commit and deploy, so it goes live about 5-10 min after its time |
 | 05:25 UTC daily, 06:30 UTC on the 1st (Feb–Dec), Sep 1 08:45, Jan 1 06:30 (Worker cron) | `calendar.yml` | `refresh-meta`, `refresh-evergreen`, `gen --year next`, `rollover`; changed printables to R2 (and purged on the CDN), then `deploy.yml` and a smoke test |
 | Mondays 07:15 UTC (Worker cron) | `calendar.yml` (health) | live smoke test, `/news/` sitemaps, daily job freshness |
+| After every CI run and every 30 min | `desk-watchdog.yml` | merges green desk pull requests a writer session left behind (then starts CI on `main`, which publishes), resolves queue-file conflicts, cleans claim branches, updates the "Desk watchdog" issue (`docs/DESK.md`) |
 | any of the above | `deploy.yml` | one at a time (`concurrency: production`): printables synced to R2, `assemble.mjs`, `wrangler deploy`, IndexNow and AnindaIndex for new or updated stories |
 
 A deploy ships both halves of the site; the half its caller did not build comes from the last deploy

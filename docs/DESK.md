@@ -72,6 +72,17 @@ Each writer has one queue file: `docs/desk/w1.md`, `docs/desk/w2.md`, `docs/desk
 
 - **NFL pick'em hub weekly update** (account w2, Tuesdays 1:23 p.m. ET, September to December): refreshes the hub `printable-nfl-pickem-sheets-2026` and the schedule tables from the generator (`docs/NFL-PICKEM.md`). Writers never edit the hub or `packages/generator/data/nfl-2026/`; w3 still writes the weekly "NFL Week N schedule" stories.
 
+## Watchdog
+
+`.github/workflows/desk-watchdog.yml` (`scripts/desk-watchdog.mjs`) runs after every CI run and every 30 minutes, so a run that ended early never leaves stories waiting:
+
+- A desk pull request (`[W1]`..., `Puzzles ...`) that conflicts with `main` only in queue files or `KEY_DATES` gets `main` merged in with both sides' lines kept; any other conflict is reported.
+- One with no CI run gets one started; one green for 20 minutes is merged, and CI on `main` is started so it publishes (merges by the Actions token start no workflow of their own).
+- Claim branches whose item is ticked, blocked or stalled (see "Claiming") are deleted, and so are branches already in `main`.
+- What needs a person goes to the open issue "Desk watchdog": red CI, other conflicts, a writer with no pull request or claim for 8 hours, and the blocked items.
+
+Writers still merge and clean up their own runs; the watchdog is the backstop. Dry run: `node scripts/desk-watchdog.mjs --dry-run`.
+
 ## Writer rules
 
 Everything in `CLAUDE.md` applies. On top of it:
@@ -129,7 +140,7 @@ You are Fresh Calendars writer w1 (/news/). This is a fresh session; nothing els
 
 The owner's own sessions. The writers find their own topics, so the manager steers instead of feeding every story:
 
-1. **Every day: check what went live.** List the day's writer pull requests (`gh pr list --state merged --search "[W in:title"`), read a sample of the stories, check one with `pnpm news:verify-live <slug>`. A problem goes back as a new item at the top of the same writer's queue ("fix: ...").
+1. **Every day: read the "Desk watchdog" issue** and act on "Needs a person". Then **check what went live.** List the day's writer pull requests (`gh pr list --state merged --search "[W in:title"`), read a sample of the stories, check one with `pnpm news:verify-live <slug>`. A problem goes back as a new item at the top of the same writer's queue ("fix: ...").
 2. **Every day: unblock.** Delete a blocked note when the fact can now be confirmed or a source is known, and delete the item's claim branch if one is left; items marked "needs code" are the manager's own work (branch and pull request).
 3. **Every week: steer the queues.** Put the topics that matter most in the coming weeks (seasonal peaks, announced dates) at the top of each queue, 5 to 10 per writer. Check first that no story on `main` covers them. Commit queue changes straight to `main`.
 4. **Every Monday: the phase decision.** With the owner's Search Console numbers, apply the gate in "Volume and growth policy" and change the CURRENT PHASE line if needed.
