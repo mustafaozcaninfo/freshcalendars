@@ -658,6 +658,16 @@ export const KEY_DATES: KeyDate[] = [
   { date: "2027-04-09", label: "Coachella weekend one begins in Indio (through April 11)", slug: "coachella-stagecoach-2027-dates-lineup-indio" },
   { date: "2027-04-16", label: "Coachella weekend two begins (through April 18)", slug: "coachella-stagecoach-2027-dates-lineup-indio" },
   { date: "2027-04-23", label: "Stagecoach begins in Indio (through April 25)", slug: "coachella-stagecoach-2027-dates-lineup-indio" },
+  { date: "2026-11-08", label: "Dolphins host the Lions, 1 p.m. ET on FOX", slug: "miami-dolphins-schedule-2026-remaining-games-times-tv-printable" },
+  { date: "2026-11-29", label: "Dolphins host the Jets, 1 p.m. ET on CBS", slug: "miami-dolphins-schedule-2026-remaining-games-times-tv-printable" },
+  { date: "2027-01-03", label: "Dolphins host the Bills in Week 17, 1 p.m. ET on CBS", slug: "miami-dolphins-schedule-2026-remaining-games-times-tv-printable" },
+  { date: "2027-03-14", label: "F1 2027 season opens with the Bahrain Grand Prix", slug: "f1-calendar-2027-race-dates-sprint-weekends-printable" },
+  { date: "2027-10-03", label: "F1 returns to Istanbul Park for the Turkish Grand Prix", slug: "f1-calendar-2027-race-dates-sprint-weekends-printable" },
+  { date: "2027-12-12", label: "F1 2027 finale, Abu Dhabi Grand Prix", slug: "f1-calendar-2027-race-dates-sprint-weekends-printable" },
+  { date: "2026-11-06", label: "Kohl's Black Friday Early Access starts (through Nov. 8)", slug: "kohls-black-friday-2026-dates-early-access-november-6-store-hours" },
+  { date: "2026-11-22", label: "Kohl's Black Friday Week starts (through Nov. 28)", slug: "kohls-black-friday-2026-dates-early-access-november-6-store-hours" },
+  { date: "2026-11-27", label: "Kohl's stores open at 5 a.m. local time on Black Friday", slug: "kohls-black-friday-2026-dates-early-access-november-6-store-hours" },
+  { date: "2026-11-29", label: "Kohl's Cyber Deals start (through Nov. 30)", slug: "kohls-black-friday-2026-dates-early-access-november-6-store-hours" },
 ];
 
 /** Today's date in Eastern Time as YYYY-MM-DD. */

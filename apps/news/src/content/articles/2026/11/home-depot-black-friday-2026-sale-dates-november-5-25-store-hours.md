@@ -76,7 +76,7 @@ internalLinks:
     label: "November 2026 printable calendar"
   - href: "/when-is/black-friday/"
     label: "When is Black Friday?"
-related: [lowes-black-friday-2026-deals-start-october-29-12-days-of-deals-november-16, black-friday-2026-store-hours-walmart-target-best-buy, black-friday-2026-ad-tracker-walmart-target-best-buy]
+related: [lowes-black-friday-2026-deals-start-october-29-12-days-of-deals-november-16, black-friday-2026-store-hours-walmart-target-best-buy, kohls-black-friday-2026-dates-early-access-november-6-store-hours]
 downloads:
   - group: "Home Depot Holiday 2026 Dates and Hours printables"
     title: "Home Depot Holiday 2026 Dates and Hours"

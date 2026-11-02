@@ -84,7 +84,7 @@ internalLinks:
     label: "December 2026 printable calendar"
   - href: "/printable-weekly-calendar.html"
     label: "Printable weekly calendar"
-related: [thanksgiving-2026-tv-schedule-macys-parade-nfl-games, printable-nfl-pickem-sheets-2026, nfl-week-8-schedule-2026-game-times-tv-clock-change]
+related: [thanksgiving-2026-tv-schedule-macys-parade-nfl-games, printable-nfl-pickem-sheets-2026, miami-dolphins-schedule-2026-remaining-games-times-tv-printable]
 corrections:
   - date: "2026-10-23T09:55:00-04:00"
     text: "An earlier version said Week 18 matchups are set after Week 17. The matchups are fixed; only their days and kickoff times are set after Week 17. The one-page planner that carried the error has been replaced."
