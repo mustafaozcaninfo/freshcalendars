@@ -92,7 +92,7 @@ internalLinks:
     label: "November 2026 printable calendar"
   - href: "/printable-weekly-calendar.html"
     label: "Printable weekly calendar"
-related: [nhl-games-today-november-1-2026, nhl-winter-classic-2027-date-time-avalanche-mammoth-salt-lake-city, nhl-hometown-remix-jerseys-2026-27-unveil-date-game-schedule]
+related: [nhl-games-today-november-1-2026, nhl-winter-classic-2027-date-time-avalanche-mammoth-salt-lake-city, raptors-schedule-november-2026-game-times-tv-nba-cup-printable]
 draft: false
 ---
 

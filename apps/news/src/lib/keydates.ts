@@ -668,6 +668,17 @@ export const KEY_DATES: KeyDate[] = [
   { date: "2026-11-22", label: "Kohl's Black Friday Week starts (through Nov. 28)", slug: "kohls-black-friday-2026-dates-early-access-november-6-store-hours" },
   { date: "2026-11-27", label: "Kohl's stores open at 5 a.m. local time on Black Friday", slug: "kohls-black-friday-2026-dates-early-access-november-6-store-hours" },
   { date: "2026-11-29", label: "Kohl's Cyber Deals start (through Nov. 30)", slug: "kohls-black-friday-2026-dates-early-access-november-6-store-hours" },
+  { date: "2026-11-02", label: "Raptors at Clippers, 10 p.m. ET (7 p.m. PT)", slug: "raptors-schedule-november-2026-game-times-tv-nba-cup-printable" },
+  { date: "2026-11-06", label: "Raptors at Bucks, NBA Cup group game, 8 p.m. ET", slug: "raptors-schedule-november-2026-game-times-tv-nba-cup-printable" },
+  { date: "2026-11-20", label: "Raptors at Pistons, NBA Cup group game, 7:30 p.m. ET, Prime Video", slug: "raptors-schedule-november-2026-game-times-tv-nba-cup-printable" },
+  { date: "2026-11-27", label: "Nets at Raptors, NBA Cup group game, 7:30 p.m. ET", slug: "raptors-schedule-november-2026-game-times-tv-nba-cup-printable" },
+  { date: "2026-11-22", label: "Liga MX Apertura 2026 regular season ends (Jornada 17)", slug: "liga-mx-liguilla-apertura-2026-dates-quarterfinals-semifinals-final-schedule" },
+  { date: "2026-11-25", label: "Liga MX Liguilla quarterfinal first legs (Nov. 25-26)", slug: "liga-mx-liguilla-apertura-2026-dates-quarterfinals-semifinals-final-schedule" },
+  { date: "2026-12-02", label: "Liga MX Liguilla semifinal first legs (Dec. 2-3)", slug: "liga-mx-liguilla-apertura-2026-dates-quarterfinals-semifinals-final-schedule" },
+  { date: "2026-12-10", label: "Liga MX Apertura 2026 Final (Dec. 10-13)", slug: "liga-mx-liguilla-apertura-2026-dates-quarterfinals-semifinals-final-schedule" },
+  { date: "2026-11-19", label: "Hyde Park Winter Wonderland opens (12pm)", slug: "hyde-park-winter-wonderland-2026-dates-opening-times-tickets" },
+  { date: "2026-12-25", label: "Hyde Park Winter Wonderland closed for Christmas Day", slug: "hyde-park-winter-wonderland-2026-dates-opening-times-tickets" },
+  { date: "2027-01-03", label: "Hyde Park Winter Wonderland last day", slug: "hyde-park-winter-wonderland-2026-dates-opening-times-tickets" },
 ];
 
 /** Today's date in Eastern Time as YYYY-MM-DD. */

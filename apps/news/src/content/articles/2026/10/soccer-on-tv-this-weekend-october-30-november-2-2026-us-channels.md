@@ -127,7 +127,7 @@ internalLinks:
     label: "November 2026 printable calendar"
   - href: "/when-is/daylight-savings/"
     label: "When does daylight saving time end?"
-related: [nwsl-playoffs-2026-schedule-decision-day-quarterfinals-championship-november-21, premier-league-fixtures-this-weekend-october-31-november-2-2026-kickoff-times-tv, champions-league-november-2026-schedule-kickoff-times-et-matchday-4-5]
+related: [nwsl-playoffs-2026-schedule-decision-day-quarterfinals-championship-november-21, premier-league-fixtures-this-weekend-october-31-november-2-2026-kickoff-times-tv, liga-mx-liguilla-apertura-2026-dates-quarterfinals-semifinals-final-schedule]
 draft: false
 ---
 
