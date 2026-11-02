@@ -4,6 +4,7 @@ seoTitle: "Qatar Grand Prix 2026: Schedule and Race Time"
 description: "The Formula 1 (F1) Qatar Grand Prix is Sunday, Nov. 29, 2026, at 11 a.m. Eastern Time (ET), 7 p.m. local time. Qualifying is Saturday at 1 p.m. ET."
 type: news
 publishedAt: "2026-10-27T19:44:00-04:00"
+updatedAt: "2026-11-02T14:10:00-05:00"
 authors: [jessica-hartwell]
 category: sports
 keywords: ["Qatar Grand Prix 2026 time", "Qatar GP 2026 schedule", "F1 Qatar race time ET", "Qatar Grand Prix 2026 how to watch"]
@@ -56,7 +57,7 @@ sources:
   - title: "2026 Drivers' Standings"
     url: "https://www.formula1.com/en/results/2026/drivers"
     publisher: "Formula 1"
-    date: "2026-10-27"
+    date: "2026-11-02"
 internalLinks:
   - href: "/november-calendars.html"
     label: "November 2026 printable calendar"
@@ -109,7 +110,7 @@ draft: false
 
 ## What is the Qatar Grand Prix 2026 schedule?
 
-F1's race page gives session starts in UTC and shows the circuit's offset as +03:00, Arabia Standard Time (AST). The other columns are our conversion, not an official schedule. U.S. clocks fall back on Nov. 1, so on race weekend ET is UTC-5, Central Time (CT) is UTC-6, Mountain Time (MT) is UTC-7 and Pacific Time (PT) is UTC-8. GMT equals UTC. Lusail International Circuit lists the event as Nov. 27 to 29, 2026.
+F1's race page gives session starts in UTC and shows the circuit's offset as +03:00, Arabia Standard Time (AST). The other columns are our conversion, not an official schedule. U.S. clocks fell back on Nov. 1, so on race weekend ET is UTC-5, Central Time (CT) is UTC-6, Mountain Time (MT) is UTC-7 and Pacific Time (PT) is UTC-8. GMT equals UTC. Lusail International Circuit lists the event as Nov. 27 to 29, 2026.
 
 | Session | Qatar (AST) | Eastern (ET) | Central (CT) | Mountain (MT) | Pacific (PT) | GMT |
 |---|---|---|---|---|---|---|
@@ -147,7 +148,7 @@ F1's 2026 calendar lists Qatar as Round 22 of 23, with Abu Dhabi as the season f
 | 22 | Qatar | Nov. 27 to 29 |
 | 23 | Abu Dhabi | Dec. 4 to 6 |
 
-Source: formula1.com, 2026 calendar. On formula1.com's 2026 Drivers' Standings as of Oct. 27, 2026, Kimi Antonelli (Mercedes) leads with 365 points, followed by George Russell (Mercedes) with 242 and Lewis Hamilton (Ferrari) with 241. The latest completed race listed on formula1.com is the United States Grand Prix on Oct. 25, won by Antonelli. For the previous round, see our [Las Vegas Grand Prix 2026 race time](/news/las-vegas-grand-prix-2026-schedule-race-time-by-time-zone/) story, and for earlier rounds the [São Paulo](/news/sao-paulo-grand-prix-2026-schedule-race-time-by-time-zone/) and [Mexico City](/news/mexico-city-grand-prix-2026-schedule-race-time-by-time-zone/) stories.
+Source: formula1.com, 2026 calendar. On formula1.com's 2026 Drivers' Standings as of Nov. 2, 2026, Kimi Antonelli (Mercedes) leads with 380 points, followed by Max Verstappen with 261 and Lewis Hamilton (Ferrari) with 259. The latest completed race listed on formula1.com is the Mexico City Grand Prix on Nov. 1, won by Verstappen in 2:20:28.772, with Hamilton second (+0.799) and Antonelli third (+4.006). Formula1.com lists the São Paulo Grand Prix on Nov. 6 to 8 as the next race. For the previous round, see our [Las Vegas Grand Prix 2026 race time](/news/las-vegas-grand-prix-2026-schedule-race-time-by-time-zone/) story, and for the rounds before Qatar the [São Paulo](/news/sao-paulo-grand-prix-2026-schedule-race-time-by-time-zone/) and [Mexico City](/news/mexico-city-grand-prix-2026-schedule-race-time-by-time-zone/) stories.
 
 ## Free Qatar Grand Prix 2026 weekend schedule
 

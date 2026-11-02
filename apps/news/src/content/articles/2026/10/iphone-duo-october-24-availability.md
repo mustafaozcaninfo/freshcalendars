@@ -1,10 +1,10 @@
 ---
-title: "iPhone Duo on October 24: US Availability, Price and Store Pickup"
-seoTitle: "iPhone Duo October 24: US Stock, Price and Pickup"
-description: "iPhone Duo went on sale in the US on Oct. 23. Prices start at $1,999. How to check Apple Store pickup on Saturday, Oct. 24, and what to confirm before you buy."
+title: "iPhone Duo US Availability: On Sale Since Oct. 23, Price From $1,999 and Store Pickup"
+seoTitle: "iPhone Duo Availability: US Price and Store Pickup"
+description: "iPhone Duo went on sale in the US on Oct. 23. Prices start at $1,999. How to check Apple Store pickup, and what to confirm before you buy."
 type: news
 publishedAt: "2026-10-23T10:50:00-04:00"
-updatedAt: "2026-10-25T17:35:00-04:00"
+updatedAt: "2026-11-02T14:10:00-05:00"
 authors: [jessica-hartwell]
 category: gaming-tech
 keywords: ["iPhone Duo October 24", "iPhone Duo availability", "iPhone Duo pickup", "iPhone Duo price", "iPhone Duo in stock"]
@@ -47,12 +47,12 @@ hero:
 summary:
   - "Apple's first foldable iPhone, iPhone Duo, went on sale in the United States on Friday, Oct. 23, 2026. Preorders opened Oct. 16."
   - "US prices are $1,999 (256GB), $2,199 (512GB), $2,599 (1TB) and $3,199 (2TB) before sales tax, in Star White or Night Sky."
-  - "MacRumors reported that Apple's US store told shoppers to check back Saturday, Oct. 24, for Apple Store pickup reservations. Apple told Reuters walk-in stock would be limited."
+  - "MacRumors reported that Apple's US store told shoppers to check back on Saturday, Oct. 24, for Apple Store pickup reservations. Apple told Reuters walk-in stock would be limited."
   - "It is eSIM only, uses Touch ID instead of Face ID and weighs 254 grams, according to Apple's specifications."
 faq:
   - q: "Did iPhone Duo come out on October 24?"
-    a: "No. Apple released it in the US on Friday, Oct. 23, 2026. Saturday, Oct. 24 is the first weekend day of sales, when MacRumors reported Apple's store would offer more pickup reservations."
-  - q: "Can I pick up iPhone Duo at an Apple Store on October 24?"
+    a: "No. Apple released it in the US on Friday, Oct. 23, 2026. Saturday, Oct. 24 was the first weekend day of sales, when MacRumors reported Apple's store would offer more pickup reservations."
+  - q: "Can I pick up iPhone Duo at an Apple Store?"
     a: "Possibly. Pickup depends on each store's stock for the exact color and storage you pick. Check Apple's buy page with your ZIP code before you travel."
   - q: "How much is iPhone Duo in the US?"
     a: "Apple lists $1,999 for 256GB, $2,199 for 512GB, $2,599 for 1TB and $3,199 for 2TB, before sales tax."
@@ -119,9 +119,9 @@ downloads:
 draft: false
 ---
 
-<p class="callout"><b>Updated Sun., Oct. 25, 2026.</b> The Oct. 24 pickup day has passed. Prices, colors and specifications below are from Apple's own pages. Pickup and walk-in stock still change by store and by the hour, so check your store on Apple's site before you go; we do not list stock for any single store.</p>
+<p class="callout"><b>Updated Mon., Nov. 2, 2026.</b> The Oct. 24 pickup day and the Oct. 30 date for 28 more countries and regions have passed. Prices, colors and specifications below are from Apple's own pages. Pickup and walk-in stock still change by store and by the hour, so check your store on Apple's site before you go; we do not list stock for any single store.</p>
 
-**Yes, you can buy an iPhone Duo in the US on Saturday, Oct. 24, 2026, but getting one that day depends on your local Apple Store.** Apple's first foldable iPhone went on sale on Friday, Oct. 23, starting at $1,999. MacRumors reported that Apple's US online store told shoppers to check back on Saturday for Apple Store pickup reservations, and Apple told Reuters that walk-in stock would be limited.
+**Apple's first foldable iPhone, iPhone Duo, went on sale in the US on Friday, Oct. 23, 2026, starting at $1,999, and getting one at a given store depends on that Apple Store.** MacRumors reported that Apple's US online store told shoppers to check back on Saturday, Oct. 24, for Apple Store pickup reservations, and Apple told Reuters that walk-in stock would be limited.
 
 Being listed for sale does not mean a store near you has one ready. Pickup, walk-in stock and delivery dates are three different things, and each can differ by color and storage size.
 
@@ -133,11 +133,11 @@ Being listed for sale does not mean a store near you has one ready. Pickup, walk
 | Fri., Oct. 16 | Preorders open at 5 a.m. Pacific Time (PT) | Apple Newsroom |
 | Fri., Oct. 23 | On sale in the US and in Apple Stores | Apple Newsroom |
 | Sat., Oct. 24 | Apple's store said to check back for pickup reservations | MacRumors |
-| Fri., Oct. 30 | On sale in 28 more countries and regions | Apple Newsroom |
+| Fri., Oct. 30 | Apple's date for sale in 28 more countries and regions | Apple Newsroom |
 
 Keep track of these and the holiday sales that follow on our [October 2026 printable calendar](/october-calendars.html) and [November 2026 calendar](/november-calendars.html).
 
-## How to check Apple Store pickup on October 24
+## How to check Apple Store pickup
 
 1. Open [Apple's US iPhone Duo buy page](https://www.apple.com/shop/buy-iphone/iphone-duo).
 2. Choose the color and storage size you want.
@@ -170,7 +170,7 @@ Maybe. In a statement reported by Reuters on Oct. 21, Apple said its stores "wil
 
 Reuters reported on Oct. 21 that new online orders showed Jan. 25 delivery for nearly every configuration. That is a dated snapshot, not a promise for every model. Look at the delivery date for your exact color and storage on the checkout page before you pay.
 
-If you need a phone this weekend, a pickup slot at a nearby store matters more than anything else. If you can wait until late January, ordering online saves the trips.
+If you need a phone soon, a pickup slot at a nearby store matters more than anything else. If you can wait until late January, ordering online saves the trips.
 
 ## Carrier options and the eSIM rule
 

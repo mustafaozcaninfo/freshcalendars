@@ -4,6 +4,7 @@ seoTitle: "Rugby League World Cup 2026 Semi-Final and Final Times"
 description: "Rugby League World Cup 2026 semi-finals are Nov. 7 and 8 at 9:05am Greenwich Mean Time (GMT), 4:05 a.m. Eastern Time (ET); the men's final is Nov. 15."
 type: news
 publishedAt: "2026-11-01T04:48:00-05:00"
+updatedAt: "2026-11-02T14:10:00-05:00"
 authors: [jessica-hartwell]
 category: sports
 keywords: ["rugby league world cup 2026 semi final", "rugby league world cup final 2026 kick off time uk", "tonga vs samoa", "rugby league world cup 2026 schedule"]
@@ -20,11 +21,11 @@ assets:
     subtitle: "Semi-finals and finals in Greenwich Mean Time (GMT), Eastern Time (ET) and Pacific Time (PT)"
     layout: list
     rows:
-      - ["Sun., Nov. 1", "Men's pool, Tonga v Samoa, Sydney: 9:05am GMT / 4:05 a.m. ET / 1:05 a.m. PT. Decides the semi-final line-ups."]
+      - ["Sun., Nov. 1", "Men's pool, Tonga v Samoa, Sydney: 9:05am GMT / 4:05 a.m. ET / 1:05 a.m. PT. Tonga won; set the semi-final line-ups."]
       - ["Sat., Nov. 7", "Women's semi-final 1, New Zealand v Samoa, Newcastle: 6:45am GMT / 1:45 a.m. ET / 10:45 p.m. PT (Fri.)"]
-      - ["Sat., Nov. 7", "Men's semi-final 1, New Zealand v to be decided, Newcastle: 9:05am GMT / 4:05 a.m. ET / 1:05 a.m. PT"]
+      - ["Sat., Nov. 7", "Men's semi-final 1, New Zealand v Tonga, Newcastle: 9:05am GMT / 4:05 a.m. ET / 1:05 a.m. PT"]
       - ["Sun., Nov. 8", "Women's semi-final 2, Australia v Fiji, Sydney: 6:45am GMT / 1:45 a.m. ET / 10:45 p.m. PT (Sat.)"]
-      - ["Sun., Nov. 8", "Men's semi-final 2, Australia v to be decided, Sydney: 9:05am GMT / 4:05 a.m. ET / 1:05 a.m. PT"]
+      - ["Sun., Nov. 8", "Men's semi-final 2, Australia v Samoa, Sydney: 9:05am GMT / 4:05 a.m. ET / 1:05 a.m. PT"]
       - ["Tue., Nov. 10", "Wheelchair semi-finals (kick-off times not in the sources we checked)"]
       - ["Fri., Nov. 13", "Wheelchair final, Wollongong entertainment centre (kick-off time not in the sources we checked)"]
       - ["Sun., Nov. 15", "Women's final, Suncorp Stadium, Brisbane: 5:10am GMT / 12:10 a.m. ET / 9:10 p.m. PT (Sat.)"]
@@ -45,17 +46,17 @@ hero:
     author: "Sampajanna"
     authorUrl: "https://commons.wikimedia.org/wiki/User:Sampajanna"
 summary:
-  - "The group stage ends on Sunday, Nov. 1, 2026 with Tonga v Samoa at CommBank Stadium, Sydney: 9:05am Greenwich Mean Time (GMT), 4:05 a.m. Eastern Time (ET), 1:05 a.m. Pacific Time (PT)."
-  - "Sky Sports lists the men's semi-finals for Sat., Nov. 7 in Newcastle and Sun., Nov. 8 in Sydney, both at 9:05am GMT (4:05 a.m. ET)."
+  - "The group stage ended on Sunday, Nov. 1, 2026 with Tonga v Samoa at CommBank Stadium, Sydney (9:05am Greenwich Mean Time, GMT; 4:05 a.m. Eastern Time, ET; 1:05 a.m. Pacific Time, PT). Tonga won; we have not confirmed the score."
+  - "The men's semi-finals are New Zealand v Tonga and Australia v Samoa; Sky Sports lists them for Sat., Nov. 7 in Newcastle and Sun., Nov. 8 in Sydney, both at 9:05am GMT (4:05 a.m. ET)."
   - "The men's and women's finals are Sun., Nov. 15 at Suncorp Stadium in Brisbane, per the International Rugby League (IRL); Sky Sports lists the men's final at 8:35am GMT (3:35 a.m. ET)."
   - "Premier Sports is the exclusive broadcaster in the UK and Ireland and streams every game on Premier Sports Player in the United States, the IRL said."
 faq:
   - q: "What time is the Rugby League World Cup 2026 final?"
     a: "Sky Sports lists the men's final on Sunday 15 November 2026 at 8:35am GMT at Suncorp Stadium, Brisbane. That is 3:35 a.m. ET, 12:35 a.m. PT and 6:35pm in Brisbane. The IRL confirms the finals date and venue."
   - q: "What time is Tonga vs Samoa?"
-    a: "Sunday 1 November 2026 at 9:05am GMT at CommBank Stadium, Sydney, per Sky Sports. That is 4:05 a.m. ET, 1:05 a.m. PT and 8:05pm Sydney time."
+    a: "It kicked off on Sunday 1 November 2026 at 9:05am GMT at CommBank Stadium, Sydney, per Sky Sports. That was 4:05 a.m. ET, 1:05 a.m. PT and 8:05pm Sydney time. Tonga won, according to rlwc2026.com; we have not confirmed the score."
   - q: "Who is in the Rugby League World Cup 2026 semi-finals?"
-    a: "Australia and New Zealand are in the semi-finals from Group A. The two other places go to the top two teams of the combined Group B and Group C table, which is settled by Tonga v Samoa."
+    a: "Australia and New Zealand are in the semi-finals from Group A. Tonga and Samoa took the two other places from the combined Group B and Group C table: New Zealand v Tonga and Australia v Samoa."
   - q: "Where can I watch the Rugby League World Cup in the US?"
     a: "The IRL says every game is streamed live on Premier Sports Player, including in the United States. A US television channel was not announced in the sources we checked."
 sources:
@@ -87,6 +88,10 @@ sources:
     url: "https://www.internationalrugbyleague.com/article/955/x"
     publisher: "International Rugby League"
     date: "2026-10-31"
+  - title: "Tonga sneak past Samoa in World Cup epic"
+    url: "https://www.rlwc2026.com/"
+    publisher: "Rugby League World Cup 2026"
+    date: "2026-11-01"
   - title: "Preview: Samoa and Tonga meet in the final group game"
     url: "https://www.internationalrugbyleague.com/article/939/x"
     publisher: "International Rugby League"
@@ -116,16 +121,16 @@ related: [nations-championship-rugby-november-2026-fixtures-kick-off-times-uk-us
 draft: false
 ---
 
-**The Rugby League World Cup 2026 group stage ends on Sunday, Nov. 1, with Tonga v Samoa at CommBank Stadium, Sydney, kicking off at 9:05am Greenwich Mean Time (GMT), according to Sky Sports.** That is 4:05 a.m. Eastern Time (ET), 1:05 a.m. Pacific Time (PT) and 8:05pm Australian Eastern Daylight Time (AEDT) in Sydney. The semi-finals follow on Nov. 7 and 8, and the men's and women's finals on Sunday, Nov. 15, at Suncorp Stadium in Brisbane, per the International Rugby League (IRL).
+**The Rugby League World Cup 2026 group stage ended on Sunday, Nov. 1, with Tonga v Samoa at CommBank Stadium, Sydney, which kicked off at 9:05am Greenwich Mean Time (GMT), according to Sky Sports.** That was 4:05 a.m. Eastern Time (ET), 1:05 a.m. Pacific Time (PT) and 8:05pm Australian Eastern Daylight Time (AEDT) in Sydney. The men's semi-finals are New Zealand v Tonga and Australia v Samoa on Nov. 7 and 8, and the men's and women's finals follow on Sunday, Nov. 15, at Suncorp Stadium in Brisbane, per the International Rugby League (IRL).
 
-The match was played today and no result was published on the IRL site or the Sky Sports page when we checked, so the semi-final line-ups are confirmed after it. Times below are converted from Sky Sports' GMT listings. The UK is on GMT and US clocks fell back on Nov. 1, so Eastern Time is 5 hours behind GMT and Pacific Time is 8 hours behind. Sydney is on AEDT, 11 hours ahead of GMT. Brisbane is on Australian Eastern Standard Time (AEST), 10 hours ahead, because Queensland has no daylight saving time.
+Tonga beat Samoa on Nov. 1, according to the tournament's website, rlwc2026.com, which ran the headline "Tonga sneak past Samoa in World Cup epic"; we have not confirmed the score. Times below are converted from Sky Sports' GMT listings. The UK is on GMT and US clocks fell back on Nov. 1, so Eastern Time is 5 hours behind GMT and Pacific Time is 8 hours behind. Sydney is on AEDT, 11 hours ahead of GMT. Brisbane is on Australian Eastern Standard Time (AEST), 10 hours ahead, because Queensland has no daylight saving time.
 
 ## What are the Rugby League World Cup 2026 semi-final and final kick-off times?
 
 | Date | Match | Venue | UK (GMT) | ET | PT | Australia |
 |---|---|---|---|---|---|---|
-| Sat., Nov. 7 | Men's semi-final 1: New Zealand v to be decided | McDonald Jones Stadium, Newcastle | 9:05am | 4:05 a.m. | 1:05 a.m. | 8:05pm AEDT |
-| Sun., Nov. 8 | Men's semi-final 2: Australia v to be decided | Allianz Stadium, Sydney | 9:05am | 4:05 a.m. | 1:05 a.m. | 8:05pm AEDT |
+| Sat., Nov. 7 | Men's semi-final 1: New Zealand v Tonga | McDonald Jones Stadium, Newcastle | 9:05am | 4:05 a.m. | 1:05 a.m. | 8:05pm AEDT |
+| Sun., Nov. 8 | Men's semi-final 2: Australia v Samoa | Allianz Stadium, Sydney | 9:05am | 4:05 a.m. | 1:05 a.m. | 8:05pm AEDT |
 | Sun., Nov. 15 | Men's final | Suncorp Stadium, Brisbane | 8:35am | 3:35 a.m. | 12:35 a.m. | 6:35pm AEST |
 
 The men's kick-off times come from Sky Sports' schedule page of Oct. 31, 2026. Newcastle Herald and the New South Wales state tourism site also list the first semi-final in Newcastle on Nov. 7. Pencil the dates onto the [November 2026 printable calendar](/november-calendars.html) or [print the December 2026 calendar](/december-calendars.html) for the weeks after.
@@ -146,13 +151,13 @@ The IRL puts the wheelchair final at Wollongong's entertainment centre on Friday
 
 The IRL draw has Australia, New Zealand, Fiji and Cook Islands in Group A. Group B is England, Samoa and Lebanon, and Group C is Tonga, Papua New Guinea and France. Group B and Group C teams do not play inside their own pool. The IRL says the top two from Group A go to the semi-finals, and so do the top two teams from a combined table of Groups B and C.
 
-Sky Sports adds that the top team of the combined table faces the Group A runner-up. Its listing puts New Zealand in semi-final 1, so the combined-table winner plays New Zealand in Newcastle and the second-placed team plays Australia in Sydney. That pairing is our reading of Sky Sports' schedule, not a separate IRL statement.
+Sky Sports adds that the top team of the combined table faces the Group A runner-up. Its listing puts New Zealand in semi-final 1, so the combined-table winner plays New Zealand in Newcastle and the second-placed team plays Australia in Sydney. That pairing is our reading of Sky Sports' schedule, not a separate IRL statement. After Tonga v Samoa, the pairings are New Zealand v Tonga and Australia v Samoa.
 
 Group A is settled. The IRL reported that Australia beat Cook Islands 66-6 in Townsville and finished top of Pool A, and that New Zealand beat Fiji 78-0 on the Gold Coast.
 
-## Who can still reach the semi-finals after Tonga v Samoa?
+## Who reached the semi-finals after Tonga v Samoa?
 
-The IRL's preview said Samoa had all but secured a place after two wins, and that even a defeat to Tonga could be enough because of their points difference over England and Papua New Guinea. It also said Tonga knew a win on Sunday was needed. England beat Papua New Guinea 34-12 in Wollongong and, in the IRL's words, must wait for the Samoa v Tonga game. Sky Sports wrote that England need Tonga to beat Samoa by more than 46 points to avoid an early exit.
+The IRL's preview said Samoa had all but secured a place after two wins, and that even a defeat to Tonga could be enough because of their points difference over England and Papua New Guinea. It also said Tonga knew a win on Sunday was needed. England beat Papua New Guinea 34-12 in Wollongong and, in the IRL's words, had to wait for the Samoa v Tonga game. Sky Sports wrote that England needed Tonga to beat Samoa by more than 46 points to avoid an early exit. Tonga and Samoa are both in the semi-final pairings.
 
 | Date | Combined Group B and C result | Score |
 |---|---|---|
@@ -164,9 +169,9 @@ The IRL's preview said Samoa had all but secured a place after two wins, and tha
 | Sat., Oct. 24 | England v France | 82-0 |
 | Fri., Oct. 30 | England v Papua New Guinea | 34-12 |
 | Sun., Nov. 1 | Lebanon v France | 24-20 (golden point, IRL) |
-| Sun., Nov. 1 | Tonga v Samoa | 9:05am GMT, result not yet published |
+| Sun., Nov. 1 | Tonga v Samoa | Tonga won; score not yet confirmed |
 
-Scores come from the Sky Sports schedule page, except Lebanon v France, which the IRL reported as a golden-point win for Lebanon. Dates are the GMT dates on the Sky Sports page. We do not state the final table until the Tonga v Samoa result is published.
+Scores come from the Sky Sports schedule page, except Lebanon v France, which the IRL reported as a golden-point win for Lebanon. Dates are the GMT dates on the Sky Sports page. We do not state the Tonga v Samoa score or the final table, because we have not confirmed the score.
 
 ## Where can I watch the Rugby League World Cup 2026 in the UK, US and Australia?
 

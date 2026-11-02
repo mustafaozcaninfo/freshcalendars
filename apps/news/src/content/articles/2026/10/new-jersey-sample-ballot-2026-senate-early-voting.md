@@ -1,9 +1,10 @@
 ---
-title: "New Jersey Sample Ballot 2026: How to Get Yours, the U.S. Senate Candidates and Early Voting Oct. 24-Nov. 1"
-seoTitle: "New Jersey Sample Ballot 2026: Senate and Early Voting"
-description: "New Jersey sample ballots for Nov. 3, 2026 come from your county clerk. The four U.S. Senate candidates, early voting Oct. 24-Nov. 1 and mail ballot rules."
+title: "New Jersey Sample Ballot 2026: How to Get Yours, the U.S. Senate Candidates and Mail Ballot Rules"
+seoTitle: "New Jersey Sample Ballot 2026: Senate and Mail Ballots"
+description: "New Jersey sample ballots for Nov. 3, 2026 come from your county clerk. The four U.S. Senate candidates, early voting that ended Nov. 1 and mail ballot rules."
 type: news
 publishedAt: "2026-10-22T14:13:00-04:00"
+updatedAt: "2026-11-02T14:10:00-05:00"
 authors: [christina-gerland]
 category: elections
 keywords: ["New Jersey sample ballot 2026", "NJ Senate race 2026", "New Jersey early voting 2026", "sample ballot by zip code NJ", "New Jersey vote by mail 2026"]
@@ -17,19 +18,19 @@ hero:
   src: ../../../../assets/news/new-jersey-sample-ballot-2026-senate-early-voting/new-jersey-sample-ballot-2026-senate-early-voting.jpg
   alt: "New Jersey sample ballot 2026 illustration: a ballot box scene with an Oct. 24 date tile and a card for early voting Oct. 24 to Nov. 1"
   title: "New Jersey's Nov. 3, 2026 ballot"
-  caption: "New Jersey voters choose a U.S. senator and all 12 members of the House on Nov. 3, 2026; early in-person voting runs Oct. 24 through Nov. 1."
+  caption: "New Jersey voters choose a U.S. senator and all 12 members of the House on Nov. 3, 2026; early in-person voting ran Oct. 24 through Nov. 1."
 summary:
   - "New Jersey county clerks mail a sample ballot to active voters before the Nov. 3, 2026 election; it also lists your polling place."
   - "The U.S. Senate candidates are Cory Booker (Democrat, incumbent), Justin Murphy (Republican), Veronica Fernandez (End the Corruption!) and Joanne Kuniansky (Socialist Workers Party)."
-  - "Early in-person voting runs Saturday, Oct. 24 through Sunday, Nov. 1 at any early voting site in your county."
+  - "Early in-person voting ran Saturday, Oct. 24 through Sunday, Nov. 1 at any early voting site in the voter's county and has ended."
   - "Mailed ballots must be postmarked by Election Day and arrive within six days; drop boxes close at 8 p.m. Nov. 3."
 faq:
   - q: "How do I get my New Jersey sample ballot?"
     a: "Your county clerk mails one to active registered voters before each election, and many county clerks post sample ballots on their websites. Inactive voters do not receive one; confirm your status at Vote.NJ.Gov."
   - q: "Who is running for U.S. Senate in New Jersey in 2026?"
     a: "Cory Booker (Democrat, incumbent), Justin Murphy (Republican), Veronica Fernandez (End the Corruption!) and Joanne Kuniansky (Socialist Workers Party), according to the Division of Elections' official candidate list."
-  - q: "When is early voting in New Jersey?"
-    a: "Saturday, Oct. 24 through Sunday, Nov. 1, 2026. Sites open at least 10 a.m. to 8 p.m. Monday through Saturday and 10 a.m. to 6 p.m. on Sunday. You can vote at any early voting site in your county."
+  - q: "When was early voting in New Jersey?"
+    a: "Saturday, Oct. 24 through Sunday, Nov. 1, 2026, and it has ended. Sites were open 10 a.m. to 8 p.m. Monday through Saturday and 10 a.m. to 6 p.m. on Sunday. Voters could use any early voting site in their county."
   - q: "Are there public questions on the New Jersey ballot in 2026?"
     a: "The Division of Elections lists no statewide public question for the 2026 general election. Your county or town may have local questions; they appear on your sample ballot."
   - q: "What is the deadline to return a New Jersey mail ballot?"
@@ -95,11 +96,11 @@ Confirm that your registration is active at Vote.NJ.Gov or by calling the state 
 | Date | What |
 |---|---|
 | Tue., Oct. 13 | Registration deadline (passed) |
-| Sat., Oct. 24 to Sun., Nov. 1 | Early in-person voting, Mon.-Sat. 10 a.m. to 8 p.m., Sun. 10 a.m. to 6 p.m. |
+| Sat., Oct. 24 to Sun., Nov. 1 | Early in-person voting, Mon.-Sat. 10 a.m. to 8 p.m., Sun. 10 a.m. to 6 p.m. (ended) |
 | Tue., Nov. 3 | Election Day, polls open 6 a.m. to 8 p.m.; drop boxes and county board offices take mail ballots until 8 p.m. |
 | Within six days after Nov. 3 | Last day for a mailed ballot postmarked by Election Day to arrive |
 
-During early voting you can use any early voting site in your county. Mail ballots cannot be dropped off at early voting sites or polling places.
+During early voting, voters could use any early voting site in their county. Mail ballots cannot be dropped off at early voting sites or polling places.
 
 ## What is on the ballot
 
@@ -126,4 +127,4 @@ Most New Jersey voters do not need ID. Some first-time voters who registered by 
 
 ## Print your checklist
 
-The free checklist below lists the Senate candidates, early voting hours and mail ballot rules, with room for your House, county and local races. New Jersey's polls close at 8 p.m.; see [poll closing times](/news/what-time-do-polls-close-election-day-2026/) for every state, and the [New York ballot guide](/news/new-york-ballot-2026-sample-ballot-governor-nyc-proposals/) if you vote across the river.
+The free checklist below lists the Senate candidates, the early voting hours and mail ballot rules, with room for your House, county and local races. New Jersey's polls close at 8 p.m.; see [poll closing times](/news/what-time-do-polls-close-election-day-2026/) for every state, and the [New York ballot guide](/news/new-york-ballot-2026-sample-ballot-governor-nyc-proposals/) if you vote across the river.

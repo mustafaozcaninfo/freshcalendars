@@ -4,6 +4,7 @@ seoTitle: "Black Friday 2026 Price Adjustment Policies"
 description: "Target adjusts a price drop for purchases from Nov. 1 through Dec. 24, 2026. Best Buy matches its own lower price, and Walmart.com does not refund later drops."
 type: explainer
 publishedAt: "2026-10-30T15:30:00-04:00"
+updatedAt: "2026-11-02T14:10:00-05:00"
 authors: [jessica-hartwell]
 category: retail-dates
 keywords: ["price adjustment policy black friday 2026", "does target refund price difference", "price drop after purchase", "best buy price adjustment 2026"]
@@ -12,7 +13,7 @@ assets:
   overlay: true
   kicker: "Price adjustments · Black Friday 2026"
   date: "2026-11-01"
-  card: { top: "Target window opens", big: "Sun., Nov. 1", bottom: "Price must drop by Thu., Dec. 24" }
+  card: { top: "Target window opened", big: "Sun., Nov. 1", bottom: "Price must drop by Thu., Dec. 24" }
   printable:
     slug: holiday-price-adjustment-dates-2026
     group: price-adjustment-2026
@@ -20,8 +21,8 @@ assets:
     subtitle: "Target, Best Buy and Walmart windows, Oct. 30, 2026 to Jan. 15, 2027"
     layout: list
     rows:
-      - ["Fri., Oct. 30", "Best Buy holiday window opens (purchases Oct. 30 to Dec. 31)"]
-      - ["Sun., Nov. 1", "Target holiday window opens for purchases"]
+      - ["Fri., Oct. 30", "Best Buy holiday window opened (purchases Oct. 30 to Dec. 31)"]
+      - ["Sun., Nov. 1", "Target holiday window opened for purchases"]
       - ["Thu., Nov. 26", "Thanksgiving"]
       - ["Fri., Nov. 27", "Black Friday"]
       - ["Mon., Nov. 30", "Cyber Monday"]

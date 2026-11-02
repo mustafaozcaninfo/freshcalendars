@@ -4,6 +4,7 @@ seoTitle: "Remembrance Sunday 2026: Cenotaph Times, Festival"
 description: "Cenotaph service: Sunday 8 November 2026, 11am Greenwich Mean Time (GMT), 6am Eastern Time (ET), says GOV.UK. Festival of Remembrance: Saturday 7 November."
 type: news
 publishedAt: "2026-10-31T14:23:00-04:00"
+updatedAt: "2026-11-02T14:10:00-05:00"
 authors: [christina-gerland]
 category: uk-canada
 keywords: ["Remembrance Sunday 2026", "Cenotaph service 2026 times", "Festival of Remembrance 2026 BBC", "what time is the two minute silence Remembrance Sunday"]
@@ -99,7 +100,7 @@ assets:
     alt: "Printable Remembrance weekend 2026 timetable with Festival of Remembrance and Cenotaph service times."
 ---
 
-**The National Service of Remembrance is on Sunday 8 November 2026 at the Cenotaph on Whitehall, London, starting at 11am with the national two-minute silence**, according to GOV.UK guidance from the Department for Culture, Media and Sport (DCMS), published 8 October 2026. Times here are UK time, Greenwich Mean Time (GMT), since UK clocks went back on 25 October. US clocks fall back on Sunday 1 November, so US Eastern Time (ET) is 5 hours behind: 11am GMT on Sunday 8 November is 6am ET.
+**The National Service of Remembrance is on Sunday 8 November 2026 at the Cenotaph on Whitehall, London, starting at 11am with the national two-minute silence**, according to GOV.UK guidance from the Department for Culture, Media and Sport (DCMS), published 8 October 2026. Times here are UK time, Greenwich Mean Time (GMT), since UK clocks went back on 25 October. US clocks fell back on Sunday 1 November, so US Eastern Time (ET) is now 5 hours behind: 11am GMT on Sunday 8 November is 6am ET.
 
 The Royal British Legion's Festival of Remembrance comes the evening before, on Saturday 7 November at the Royal Albert Hall. The table below puts both events, plus Armistice Day, on one timetable, and the download box has a one-page printable version.
 

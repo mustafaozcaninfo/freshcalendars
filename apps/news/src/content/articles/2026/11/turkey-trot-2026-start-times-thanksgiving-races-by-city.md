@@ -4,6 +4,7 @@ seoTitle: "Turkey Trot 2026: Start Times, Fees and Packet Pickup"
 description: "The Buffalo Turkey Trot starts at 9 a.m. Eastern Time (ET) on Thu., Nov. 26, 2026; start times, fees and packet pickup for 10 Thanksgiving races are below."
 type: explainer
 publishedAt: "2026-11-01T16:44:00-05:00"
+updatedAt: "2026-11-02T14:10:00-05:00"
 authors: [jessica-hartwell]
 category: sports
 keywords: ["turkey trot 2026", "turkey trot near me start time", "Thanksgiving 5K 2026", "Buffalo turkey trot 2026", "Dallas turkey trot 2026"]
@@ -187,10 +188,10 @@ Fees below are the ones shown on each race page on Nov. 1, 2026. Where a page sa
 | Dallas | $48 plus $4.52 tax and fees | The page shows a price-change countdown with no date |
 | Manchester | See race page | See race page |
 | San Diego-North County | 5K $59.30; 10K $69.90 | After Mon., Nov. 23 at 11:59 p.m. PST (2:59 a.m. ET on Tue., Nov. 24) |
-| Denver | $55.24 including $5.24 fees | Base price rises $5 on Nov. 1, Nov. 20 and Nov. 26 |
+| Denver | $55.24 including $5.24 fees | Base price rose $5 on Nov. 1 and rises $5 on Nov. 20 and Nov. 26 |
 | San Jose | $60.50 including a $5.50 fee | After Fri., Nov. 20 at 11:59 p.m. PST (2:59 a.m. ET on Sat., Nov. 21) |
 
-Six races list a dated price change before Thanksgiving: Atlanta, Buffalo, Denver, Houston, San Diego-North County and San Jose. Buffalo's fee rises $9 on Nov. 19, Atlanta's half marathon is $10 higher at pickup and its 5K $5 higher, and Denver's page lists three $5 steps. The Atlanta Track Club page lists those two Atlanta prices as the price "through" a date and the price "at pickup".
+Six races list a dated price change before Thanksgiving: Atlanta, Buffalo, Denver, Houston, San Diego-North County and San Jose. Buffalo's fee rises $9 on Nov. 19, Atlanta's half marathon is $10 higher at pickup and its 5K $5 higher, and Denver's page lists three $5 steps, the first of which took effect on Nov. 1. The Atlanta Track Club page lists those two Atlanta prices as the price "through" a date and the price "at pickup".
 
 ## Where is turkey trot packet pickup in 2026?
 

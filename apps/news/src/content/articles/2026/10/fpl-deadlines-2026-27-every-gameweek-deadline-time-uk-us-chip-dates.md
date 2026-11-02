@@ -4,7 +4,7 @@ seoTitle: "FPL Deadlines 2026/27: Every Gameweek Time"
 description: "The next Fantasy Premier League (FPL) deadline is Gameweek 10, Fri., Nov. 6, 2026, at 6:30 p.m. Greenwich Mean Time (GMT), 1:30 p.m. Eastern Time (ET)."
 type: news
 publishedAt: "2026-10-31T05:45:00-04:00"
-updatedAt: "2026-10-31T15:50:00-04:00"
+updatedAt: "2026-11-02T14:10:00-05:00"
 authors: [christina-gerland]
 category: uk-canada
 keywords: ["fpl deadline", "fpl gameweek 10 deadline", "fantasy premier league deadlines 2026/27", "fpl deadline time", "fpl chip deadline gameweek 19"]
@@ -148,7 +148,7 @@ Source: official FPL game data, read Oct. 31, 2026. ET times were worked out by 
 
 ## Every FPL gameweek deadline for 2026/27 in UK time and ET
 
-The table covers all 38 gameweeks, from the game's deadline data. UK times are Europe/London local time: British Summer Time (BST) until Oct. 25, 2026, then GMT until the UK clocks change again. ET times are Eastern Daylight Time until Nov. 1, then Eastern Standard Time until the U.S. clocks change again. "Passed" means the deadline came before Oct. 31, "Listed" means the game shows it now and "Provisional" is explained in the next section.
+The table covers all 38 gameweeks, from the game's deadline data. UK times are Europe/London local time: British Summer Time (BST) until Oct. 25, 2026, then GMT until the UK clocks change again. ET times are Eastern Daylight Time until Nov. 1, then Eastern Standard Time until the U.S. clocks change again. "Passed" means the deadline came before Nov. 2, "Listed" means the game shows it and "Provisional" is explained in the next section.
 
 | Gameweek | Deadline, UK time | Deadline, ET | Status |
 |---|---|---|---|
@@ -160,7 +160,7 @@ The table covers all 38 gameweeks, from the game's deadline data. UK times are E
 | 6 | Sat., Oct. 10, 11:00 a.m. | 6:00 a.m. | Passed |
 | 7 | Sat., Oct. 17, 11:00 a.m. | 6:00 a.m. | Passed |
 | 8 | Fri., Oct. 23, 6:30 p.m. | 1:30 p.m. | Passed |
-| 9 | Sat., Oct. 31, 11:00 a.m. | 7:00 a.m. | Listed |
+| 9 | Sat., Oct. 31, 11:00 a.m. | 7:00 a.m. | Passed |
 | 10 | Fri., Nov. 6, 6:30 p.m. | 1:30 p.m. | Listed |
 | 11 | Sat., Nov. 21, 11:00 a.m. | 6:00 a.m. | Listed |
 | 12 | Fri., Nov. 27, 6:30 p.m. | 1:30 p.m. | Listed |

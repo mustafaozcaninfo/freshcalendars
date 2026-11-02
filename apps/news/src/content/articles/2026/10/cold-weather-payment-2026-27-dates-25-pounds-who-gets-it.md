@@ -4,6 +4,7 @@ seoTitle: "Cold Weather Payment 2026-27: £25, Dates, Who Gets It"
 description: "Cold Weather Payment pays £25 for each 7-day freeze between 1 November 2026 and 31 March 2027, GOV.UK says. It is automatic, paid within 14 working days."
 type: news
 publishedAt: "2026-10-26T12:40:00-04:00"
+updatedAt: "2026-11-02T14:10:00-05:00"
 authors: [christina-gerland]
 category: uk-canada
 keywords: ["cold weather payment 2026", "cold weather payment 2026 to 2027", "when does cold weather payment start", "cold weather payment £25", "cold weather payment eligibility"]
@@ -26,7 +27,7 @@ summary:
   - "Scotland has no Cold Weather Payment. The Winter Heating Payment replaces it and does not depend on the weather."
 faq:
   - q: "When does the Cold Weather Payment start in 2026?"
-    a: "The 2026 to 2027 scheme starts on 1 November 2026 and runs to 31 March 2027, according to GOV.UK and nidirect."
+    a: "The 2026 to 2027 scheme started on 1 November 2026 and runs to 31 March 2027, according to GOV.UK and nidirect."
   - q: "How much is the Cold Weather Payment?"
     a: "£25 for each 7-day period of very cold weather in your area, per GOV.UK. nidirect gives the same £25.00 figure for Northern Ireland."
   - q: "Do I have to apply for the Cold Weather Payment?"
@@ -35,8 +36,8 @@ faq:
     a: "GOV.UK says you should get a payment within 14 working days of each period of very cold weather in your area. It goes into the same account as your benefits."
   - q: "Can I get the Cold Weather Payment in Scotland?"
     a: "No. GOV.UK says people in Scotland cannot get it and might get the annual Winter Heating Payment instead."
-  - q: "Can I check if my area is due a payment yet?"
-    a: "Not yet. GOV.UK says you will be able to check if your area is due a payment in November 2026. We could not confirm a date for the postcode checker opening."
+  - q: "Can I check if my area is due a payment?"
+    a: "GOV.UK says you will be able to check if your area is due a payment in November 2026. We could not confirm a date for the postcode checker opening, so use the link on the GOV.UK Cold Weather Payment page."
 sources:
   - title: "Cold Weather Payment"
     url: "https://www.gov.uk/cold-weather-payment"
@@ -118,9 +119,9 @@ draft: false
 
 ## When does the Cold Weather Payment start in 2026?
 
-GOV.UK says the 2026 to 2027 scheme starts on 1 November 2026. nidirect, the Northern Ireland government site, says the scheme "will reopen on 1 November 2026 and run to 31 March 2027."
+GOV.UK says the 2026 to 2027 scheme started on 1 November 2026. nidirect, the Northern Ireland government site, says the scheme "will reopen on 1 November 2026 and run to 31 March 2027."
 
-GOV.UK adds that you will be able to check if your area is due a payment in November 2026. We could not confirm the date the postcode checker opens, so none is given here. The official checker page blocked our automated access, so use the link from the [GOV.UK Cold Weather Payment page](https://www.gov.uk/cold-weather-payment) once November starts.
+GOV.UK adds that you will be able to check if your area is due a payment in November 2026. We could not confirm the date the postcode checker opens, so none is given here. The official checker page blocked our automated access, so use the link from the [GOV.UK Cold Weather Payment page](https://www.gov.uk/cold-weather-payment).
 
 ## How much is the Cold Weather Payment?
 
@@ -138,7 +139,7 @@ Here is the arithmetic of the window. From Sunday, 1 November 2026 to Wednesday,
 
 ## What triggers a payment?
 
-GOV.UK says a payment is triggered when the average temperature in your area is recorded as, or forecast to be, 0 degrees Celsius or below over 7 consecutive days. The page we used does not say how areas are drawn, so check your area from November.
+GOV.UK says a payment is triggered when the average temperature in your area is recorded as, or forecast to be, 0 degrees Celsius or below over 7 consecutive days. The page we used does not say how areas are drawn, so check your area through GOV.UK.
 
 ## Who is eligible for the Cold Weather Payment?
 

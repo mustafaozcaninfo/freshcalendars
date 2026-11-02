@@ -1,9 +1,10 @@
 ---
-title: "NWSL Playoffs 2026 Schedule: Decision Day Nov. 1, Quarterfinals Nov. 6-8, Final Nov. 21"
+title: "NWSL Playoffs 2026 Schedule: Quarterfinal Times and TV for Nov. 6-8, Final Nov. 21"
 seoTitle: "NWSL Playoffs 2026 Schedule and Dates"
-description: "The National Women's Soccer League (NWSL) ends its season Nov. 1 at 5 p.m. Eastern Time (ET); the NWSL Championship is Sat., Nov. 21 at Audi Field."
+description: "The National Women's Soccer League (NWSL) quarterfinals run Nov. 6-8, 2026, starting 10 p.m. Eastern Time (ET) Nov. 6; the NWSL Championship is Sat., Nov. 21."
 type: news
 publishedAt: "2026-10-30T21:44:00-04:00"
+updatedAt: "2026-11-02T14:10:00-05:00"
 authors: [jessica-hartwell]
 category: sports
 keywords: ["nwsl playoffs 2026 schedule", "nwsl championship 2026 date", "nwsl decision day 2026 time", "nwsl quarterfinals 2026"]
@@ -12,7 +13,7 @@ assets:
   overlay: true
   kicker: "NWSL Playoffs · 2026"
   date: "2026-11-21"
-  card: { top: "NWSL Championship", big: "Sat., Nov. 21", bottom: "Decision Day Sun., Nov. 1, 5 p.m. ET" }
+  card: { top: "NWSL Championship", big: "Sat., Nov. 21", bottom: "Quarterfinals Nov. 6-8" }
   printable:
     slug: nwsl-playoffs-2026-schedule
     group: nwsl-playoffs-2026
@@ -20,12 +21,13 @@ assets:
     subtitle: "Decision Day to the NWSL Championship, with room to fill in the bracket"
     rows:
       - ["Sun., Nov. 1", "Decision Day, all eight matches, 5 p.m. ET"]
-      - ["Fri., Nov. 6", "San Diego Wave FC quarterfinal, 10 p.m. ET, Prime Video"]
-      - ["Fri., Nov. 6 to Sun., Nov. 8", "Quarterfinal weekend"]
-      - ["Sun., Nov. 8", "Gotham FC quarterfinal, ABC, time to be announced"]
+      - ["Fri., Nov. 6", "San Diego Wave FC v Utah Royals FC, 10 p.m. ET, Prime Video"]
+      - ["Sat., Nov. 7", "Kansas City Current v Angel City FC, 12 p.m. ET, CBS"]
+      - ["Sun., Nov. 8", "Gotham FC v Seattle Reign, 12:30 p.m. ET, ABC"]
+      - ["Sun., Nov. 8", "Washington Spirit v Portland Thorns FC, 3 p.m. ET, ABC"]
       - ["Fri., Nov. 13 to Sun., Nov. 15", "Semifinal weekend"]
       - ["Sat., Nov. 21", "NWSL Championship, Audi Field, time to be announced"]
-    note: "Source: NWSL 2026 Playoffs page; ESPN Press Room, Oct. 26, 2026 (checked Oct. 30, 2026)."
+    note: "Source: NWSL 2026 Playoffs page (checked Nov. 2, 2026); ESPN Press Room, Oct. 26, 2026."
     inkSaver: true
     description: "Dated National Women's Soccer League 2026 playoff schedule from Decision Day on Nov. 1 to the NWSL Championship on Nov. 21, one page."
     alt: "Printable NWSL playoffs 2026 schedule from Decision Day on Nov. 1 to the NWSL Championship on Nov. 21"
@@ -40,14 +42,14 @@ hero:
     source: "https://commons.wikimedia.org/wiki/File:Audi_Field_2022-05-01_4.jpg"
     author: "Wendy Harman"
 summary:
-  - "The National Women's Soccer League (NWSL) regular season ends on Decision Day, Sun., Nov. 1, with all eight matches at 5 p.m. Eastern Time (ET), per ESPN."
-  - "The quarterfinals begin the weekend of Nov. 6: San Diego Wave FC opens on Fri., Nov. 6 at 10 p.m. ET on Prime Video, and Gotham FC hosts on Sun., Nov. 8 on ABC."
+  - "The National Women's Soccer League (NWSL) regular season ended on Decision Day, Sun., Nov. 1, with all eight matches at 5 p.m. Eastern Time (ET), per ESPN."
+  - "The quarterfinals begin Fri., Nov. 6 with San Diego Wave FC v Utah Royals FC at 10 p.m. ET on Prime Video, and end Sun., Nov. 8 with Gotham FC v Seattle Reign at 12:30 p.m. ET and Washington Spirit v Portland Thorns FC at 3 p.m. ET, both on ABC, per the NWSL."
   - "The semifinals begin the weekend of Nov. 13. The NWSL Championship is Sat., Nov. 21 at Audi Field; kickoff time and broadcaster are not yet announced."
 faq:
   - q: "When is the NWSL Championship 2026?"
     a: "The NWSL says the championship is on Nov. 21, 2026, a Saturday, at Audi Field. Kickoff time and broadcaster are not yet announced."
   - q: "What time is NWSL Decision Day 2026?"
-    a: "ESPN says all eight Decision Day matches kick off at 5 p.m. ET on Sun., Nov. 1, which is 4 p.m. Central, 3 p.m. Mountain and 2 p.m. Pacific."
+    a: "ESPN said all eight Decision Day matches kicked off at 5 p.m. ET on Sun., Nov. 1, which is 4 p.m. Central, 3 p.m. Mountain and 2 p.m. Pacific."
   - q: "How many teams make the NWSL playoffs?"
     a: "The NWSL says the top eight teams qualify, seeded 1 to 8 by regular-season standings."
   - q: "Who hosts the NWSL playoff games?"
@@ -58,7 +60,7 @@ sources:
   - title: "2026 NWSL Playoffs"
     url: "https://www.nwslsoccer.com/playoffs"
     publisher: "National Women's Soccer League"
-    date: "2026-10-30"
+    date: "2026-11-02"
   - title: "ESPN to Provide Exclusive Coverage of All Eight NWSL Decision Day Matches"
     url: "https://espnpressroom.com/press-release/espn-to-provide-exclusive-coverage-of-all-eight-nwsl-decision-day-matches/"
     publisher: "ESPN Press Room"
@@ -105,34 +107,35 @@ downloads:
 draft: false
 ---
 
-**The National Women's Soccer League (NWSL) regular season ends on Decision Day, Sunday, Nov. 1, 2026, with all eight matches at 5 p.m. Eastern Time (ET), and the NWSL Championship is Saturday, Nov. 21, at Audi Field in Washington, D.C.** The dates come from the league's 2026 playoffs page and an ESPN press release dated Oct. 26, 2026.
+**The National Women's Soccer League (NWSL) quarterfinals run Friday, Nov. 6, to Sunday, Nov. 8, 2026, starting with San Diego Wave FC v Utah Royals FC at 10 p.m. Eastern Time (ET) on Prime Video, and the NWSL Championship is Saturday, Nov. 21, at Audi Field in Washington, D.C.** The regular season ended on Decision Day, Sunday, Nov. 1, with all eight matches at 5 p.m. ET. The dates come from the league's 2026 playoffs page and an ESPN press release dated Oct. 26, 2026.
 
-The league has confirmed only part of the schedule. This page dates every round from Decision Day to the final, marks what is still open, and ends with a one-page tracker to fill in once the bracket is set.
+The league has confirmed the quarterfinal times and the broadcasters. This page dates every round from Decision Day to the final, marks what is still open, and ends with a one-page tracker to fill in as the bracket is set. It does not give Decision Day results.
 
 ## NWSL playoffs 2026 dates and times
 
-Times below are the ones the NWSL and ESPN have published, with Pacific Time (PT) added; the Nov. 1 PT time is our conversion.
+Times below are the ones the NWSL and ESPN have published, with Pacific Time (PT) added; the PT times are our conversion.
 
 | Round | Date | Time | Where to watch |
 |---|---|---|---|
-| Decision Day, all eight matches | Sun., Nov. 1 | 5 p.m. ET (2 p.m. PT) | ESPN, ESPN Deportes and ESPN+ |
-| Quarterfinal: San Diego Wave FC | Fri., Nov. 6 | 10 p.m. ET (7 p.m. PT) | Prime Video |
-| Quarterfinal: Gotham FC hosts | Sun., Nov. 8 | Not yet announced | ABC, ESPN Deportes, ESPN App |
-| Remaining quarterfinals | Weekend of Nov. 6 | Not yet announced | Not yet announced |
+| Decision Day, all eight matches (played) | Sun., Nov. 1 | 5 p.m. ET (2 p.m. PT) | ESPN, ESPN Deportes and ESPN+ |
+| Quarterfinal: San Diego Wave FC v Utah Royals FC | Fri., Nov. 6 | 10 p.m. ET (7 p.m. PT) | Prime Video |
+| Quarterfinal: Kansas City Current v Angel City FC | Sat., Nov. 7 | 12 p.m. ET (9 a.m. PT) | CBS, Paramount+ |
+| Quarterfinal: Gotham FC v Seattle Reign | Sun., Nov. 8 | 12:30 p.m. ET (9:30 a.m. PT) | ABC, ESPN Deportes |
+| Quarterfinal: Washington Spirit v Portland Thorns FC | Sun., Nov. 8 | 3 p.m. ET (noon PT) | ABC, ESPN Deportes |
 | Semifinals | Weekend of Nov. 13 | Not yet announced | Not yet announced |
 | NWSL Championship | Sat., Nov. 21 | Not yet announced | Not yet announced |
 
-Source: NWSL 2026 Playoffs page and ESPN Press Room, checked Oct. 30, 2026. The NWSL says further ticket and broadcast information for the semifinals will be announced. Mark the weekends on the [November 2026 printable calendar](/november-calendars.html) or the [printable weekly calendar](/printable-weekly-calendar.html).
+Source: NWSL 2026 Playoffs page, checked Nov. 2, 2026, and ESPN Press Room. The NWSL says further ticket and broadcast information for the semifinals will be announced. Mark the weekends on the [November 2026 printable calendar](/november-calendars.html) or the [printable weekly calendar](/printable-weekly-calendar.html).
 
 ## What time is NWSL Decision Day 2026?
 
-ESPN says the full slate of Decision Day matchups kicks off at 5 p.m. ET on Sunday, Nov. 1. U.S. clocks fall back at 2 a.m. that morning, so 5 p.m. ET is Eastern Standard Time. That is 4 p.m. Central, 3 p.m. Mountain and 2 p.m. Pacific.
+ESPN said the full slate of Decision Day matchups kicked off at 5 p.m. ET on Sunday, Nov. 1. U.S. clocks fell back at 2 a.m. that morning, so 5 p.m. ET was Eastern Standard Time. That is 4 p.m. Central, 3 p.m. Mountain and 2 p.m. Pacific.
 
-ESPN will show Gotham FC against Utah Royals FC on ESPN and ESPN Deportes. The other seven matches stream on ESPN+. If you are planning the rest of that Sunday, the [soccer on TV this weekend guide](/news/soccer-on-tv-this-weekend-october-30-november-2-2026-us-channels/) and [sports on TV on Nov. 1](/news/sports-on-tv-today-november-1-2026/) list the other games.
+ESPN showed Gotham FC against Utah Royals FC on ESPN and ESPN Deportes. The other seven matches streamed on ESPN+. The [soccer on TV this weekend guide](/news/soccer-on-tv-this-weekend-october-30-november-2-2026-us-channels/) and [sports on TV on Nov. 1](/news/sports-on-tv-today-november-1-2026/) listed the other games that Sunday.
 
-## What is still undecided on Decision Day?
+## Which teams are in the NWSL quarterfinals?
 
-With one matchday left, seven teams have clinched a playoff spot, U.S. Soccer said on Oct. 26. It also said Decision Day will determine whether Gotham FC or San Diego Wave FC secures the Supporters' Shield. The full seeding and the quarterfinal matchups are not official until the matches are played, so this page does not list them.
+The NWSL's playoffs page lists four quarterfinals: San Diego Wave FC v Utah Royals FC on Fri., Nov. 6, Kansas City Current v Angel City FC on Sat., Nov. 7, and Gotham FC v Seattle Reign and Washington Spirit v Portland Thorns FC on Sun., Nov. 8. The page we checked did not show Decision Day results, so this page does not give them or the seeds.
 
 ## How does the NWSL playoff format work?
 
@@ -148,4 +151,4 @@ For another league's postseason on the same calendar, see the [Major League Socc
 
 ## Is there a printable NWSL playoffs schedule?
 
-Yes. The one-page sheet dates Decision Day, both announced quarterfinals, the quarterfinal and semifinal weekends and the Nov. 21 final, with the note "time to be announced" where the league has not set one. Use the notes area to fill in matchups and kickoff times as the NWSL announces them.
+Yes. The one-page sheet dates Decision Day, the four quarterfinals, the semifinal weekend and the Nov. 21 final, with the note "time to be announced" where the league has not set one. Use the notes area to fill in matchups and kickoff times as the NWSL announces them.

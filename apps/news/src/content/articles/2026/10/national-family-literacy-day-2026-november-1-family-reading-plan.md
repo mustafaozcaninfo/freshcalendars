@@ -1,9 +1,10 @@
 ---
-title: "National Family Literacy Day 2026 Is Sunday, Nov. 1: Month Dates and a 7-Day Reading Plan"
+title: "National Family Literacy Day 2026 Was Sunday, Nov. 1: Month Dates and a 7-Day Reading Plan"
 seoTitle: "National Family Literacy Day 2026: Sunday, Nov. 1"
-description: "National Family Literacy Day is Sunday, Nov. 1, 2026, set by the National Center for Families Learning (NCFL). November dates and a free 7-day reading plan."
+description: "National Family Literacy Day was Sunday, Nov. 1, 2026, set by the National Center for Families Learning (NCFL). November dates and a free 7-day reading plan."
 type: explainer
 publishedAt: "2026-10-31T16:46:00-04:00"
+updatedAt: "2026-11-02T14:10:00-05:00"
 authors: [christina-gerland]
 category: holidays
 keywords: ["national family literacy day 2026", "national family literacy month", "family reading plan", "ncfl families learning conference 2026"]
@@ -35,7 +36,7 @@ assets:
 hero:
   src: ../../../../assets/news/national-family-literacy-day-2026-november-1-family-reading-plan/national-family-literacy-day-2026-november-1-family-reading-plan.webp
   alt: "A bookshelf of children's books, file photo for National Family Literacy Day 2026 on Sunday, Nov. 1"
-  caption: "File photo of a bookshelf. National Family Literacy Day is Sunday, Nov. 1, 2026, per the National Center for Families Learning."
+  caption: "File photo of a bookshelf. National Family Literacy Day was Sunday, Nov. 1, 2026, per the National Center for Families Learning."
   credit: "Photo: Blytonite at English Wikipedia / Wikimedia Commons, cropped, edited"
   license:
     name: "CC BY 3.0"
@@ -61,13 +62,13 @@ downloads:
     png: "/news/downloads/national-family-literacy-day-2026/national-family-literacy-day-2026-reading-plan-ink.png"
     pages: 1
 summary:
-  - "National Family Literacy Day is Sunday, Nov. 1, 2026, and the National Center for Families Learning (NCFL) recognizes November as National Family Literacy Month."
+  - "National Family Literacy Day was Sunday, Nov. 1, 2026, and the National Center for Families Learning (NCFL) recognizes November as National Family Literacy Month."
   - "NCFL says it established the day more than 30 years ago, in collaboration with Congress."
   - "The 2026 Families Learning Conference is Nov. 8-11 in San Antonio, Texas, at the Marriott Rivercenter on the River Walk."
   - "Our free plan gives one reading idea for each day from Sunday, Nov. 1 to Saturday, Nov. 7."
 faq:
   - q: "When is National Family Literacy Day in 2026?"
-    a: "Sunday, Nov. 1, 2026. NCFL set Nov. 1 as the day, and November is National Family Literacy Month."
+    a: "Sunday, Nov. 1, 2026, which has passed. NCFL set Nov. 1 as the day, and November is National Family Literacy Month."
   - q: "Who established National Family Literacy Day?"
     a: "The National Center for Families Learning says it established the day more than 30 years ago, in collaboration with Congress. We found no founding year to give."
   - q: "Is National Family Literacy Day a federal holiday?"
@@ -88,7 +89,7 @@ related: [national-authors-day-2026-november-1-history-reading-log, pride-and-pr
 draft: false
 ---
 
-National Family Literacy Day is Sunday, Nov. 1, 2026, a day the National Center for Families Learning (NCFL) says it established "more than 30 years ago, in collaboration with Congress." NCFL also recognizes all of November as National Family Literacy Month. This story lists the November dates, including the group's 2026 conference, and gives a free 7-day family reading plan for Nov. 1 to Nov. 7.
+National Family Literacy Day was Sunday, Nov. 1, 2026, a day the National Center for Families Learning (NCFL) says it established "more than 30 years ago, in collaboration with Congress." NCFL also recognizes all of November as National Family Literacy Month. This story lists the November dates, including the group's 2026 conference, and gives a free 7-day family reading plan for Nov. 1 to Nov. 7.
 
 ## What is National Family Literacy Day?
 
@@ -104,7 +105,7 @@ NCFL's blog post, "Celebrate National Family Literacy Month with NCFL this Novem
 
 Weekdays are our computation. NCFL says the 2026 Families Learning Conference "takes place November 8-11, 2026," at the Marriott Rivercenter on the River Walk in San Antonio. The conference overlaps Veterans Day on Wednesday, Nov. 11; our [Veterans Day 2026 story](/news/veterans-day-2026-wednesday-november-11/) has that date. We did not check registration or agenda details, so confirm them with NCFL.
 
-Because the month runs Nov. 1 to Nov. 30, you can start the plan below on the day or on any later week. The [November 2026 printable calendar](/november-calendars.html) shows all 30 days.
+Because the month runs Nov. 1 to Nov. 30, you can start the plan below on any day of the month. The [November 2026 printable calendar](/november-calendars.html) shows all 30 days.
 
 ## A 7-day family reading plan for Nov. 1-7
 
@@ -124,6 +125,6 @@ The printable version has tick boxes, two groups of days and a notes area labell
 
 ## More reading ideas from our November stories
 
-National Author's Day falls on the same Sunday; our [National Author's Day 2026 story](/news/national-authors-day-2026-november-1-history-reading-log/) covers where it began and has a reading log for adults. For a longer family project, the [Pride and Prejudice reading plan](/news/pride-and-prejudice-netflix-release-date-december-3-reading-plan/) schedules a book ahead of the Netflix release.
+National Author's Day fell on the same Sunday; our [National Author's Day 2026 story](/news/national-authors-day-2026-november-1-history-reading-log/) covers where it began and has a reading log for adults. For a longer family project, the [Pride and Prejudice reading plan](/news/pride-and-prejudice-netflix-release-date-december-3-reading-plan/) schedules a book ahead of the Netflix release.
 
 What we left out: any 2026 NCFL theme, a founding year for the day and details of local events, none of which the NCFL page states.

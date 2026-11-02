@@ -4,15 +4,15 @@ seoTitle: "UK Budget 2026: Oct. 28 Date, Cash ISA and Key Dates"
 description: "The UK Budget 2026 was delivered on Wed., Oct. 28. The cash Individual Savings Account (ISA) limit stays at £20,000; the fuel duty cut runs to July 1, 2027."
 type: news
 publishedAt: "2026-10-26T08:45:00-04:00"
-updatedAt: "2026-10-28T11:50:00-04:00"
+updatedAt: "2026-11-02T14:10:00-05:00"
 authors: [christina-gerland]
 category: uk-canada
 keywords: ["budget 2026 date uk", "when is the budget 2026", "autumn budget 2026", "budget 28 october 2026", "what time is the budget"]
 dateline: "London"
 hero:
   src: ../../../../assets/news/uk-budget-2026-date-wednesday-28-october-what-time/uk-budget-2026-date-wednesday-28-october-what-time.webp
-  alt: "HM Treasury building on Whitehall in London ahead of the UK Budget 2026 on Wednesday, Oct. 28"
-  caption: "HM Treasury's offices on Whitehall, London. The Chancellor presents the Budget 2026 to Parliament on Wednesday, Oct. 28, 2026 (file photo, June 2025)."
+  alt: "HM Treasury building on Whitehall in London before the UK Budget 2026 on Wednesday, Oct. 28"
+  caption: "HM Treasury's offices on Whitehall, London. The Chancellor presented the Budget 2026 to Parliament on Wednesday, Oct. 28, 2026 (file photo, June 2025)."
   credit: "Photo: Tilman2007 / Wikimedia Commons, cropped, edited"
   license:
     name: "CC BY-SA 4.0"
@@ -23,19 +23,19 @@ hero:
 summary:
   - "The Chancellor of the Exchequer presented the Budget 2026 to Parliament on Wednesday, Oct. 28, 2026, according to HM Treasury on GOV.UK."
   - "The Budget keeps the cash Individual Savings Account (ISA) limit at £20,000 from April 6, 2027, raises the National Living Wage to £13.21 an hour on April 1, 2027, and extends the 5p fuel duty cut to July 1, 2027."
-  - "The Office for Budget Responsibility (OBR) forecast is due the same day, per the Chancellor's July 31, 2026 letter to the Treasury Committee."
-  - "The Commons Order Paper lists the Budget Statement after Prime Minister's Questions, which start at 12 noon Greenwich Mean Time (GMT), or 8 a.m. Eastern Time (ET)."
+  - "The Office for Budget Responsibility (OBR) forecast was due the same day, per the Chancellor's July 31, 2026 letter to the Treasury Committee."
+  - "The Commons Order Paper listed the Budget Statement after Prime Minister's Questions, which started at 12 noon Greenwich Mean Time (GMT), or 8 a.m. Eastern Time (ET)."
 faq:
   - q: "Did the Budget 2026 cut the cash ISA limit?"
     a: "No. The Budget 2026 document says the government has decided not to reduce the cash ISA limit, so it remains at £20,000, including from April 6, 2027. A GOV.UK notice published Sept. 17, 2026 had set out a cut to £12,000 for savers under 65; the Budget reverses that plan."
-  - q: "When is the UK Budget 2026?"
-    a: "Wednesday, Oct. 28, 2026. HM Treasury's GOV.UK page says the Chancellor of the Exchequer will present the Budget 2026 to Parliament on that day."
-  - q: "What time is the UK Budget on Oct. 28, 2026?"
-    a: "The House of Commons Order Paper lists the Budget Statement after Prime Minister's Questions (PMQs), which start at 12 noon Greenwich Mean Time (GMT). No exact time for the statement itself is published; in past years it began around 12:30 p.m."
-  - q: "What time is 12 noon UK time in New York?"
-    a: "8 a.m. Eastern Daylight Time on Oct. 28, 2026. The UK is on Greenwich Mean Time after its clocks went back on Oct. 25, while the US stays on daylight time until Nov. 1."
-  - q: "Is the OBR forecast published on Budget day?"
-    a: "Yes. In a letter dated July 31, 2026, the Chancellor said he had asked the Office for Budget Responsibility to prepare a forecast for publication on Oct. 28, 2026, accompanied by the Budget."
+  - q: "When was the UK Budget 2026?"
+    a: "Wednesday, Oct. 28, 2026. HM Treasury's GOV.UK page said the Chancellor of the Exchequer would present the Budget 2026 to Parliament on that day."
+  - q: "What time was the UK Budget on Oct. 28, 2026?"
+    a: "The House of Commons Order Paper listed the Budget Statement after Prime Minister's Questions (PMQs), which started at 12 noon Greenwich Mean Time (GMT). No exact time for the statement itself was published; in past years it began around 12:30 p.m."
+  - q: "What time was 12 noon UK time in New York?"
+    a: "8 a.m. Eastern Daylight Time on Oct. 28, 2026. The UK was on Greenwich Mean Time after its clocks went back on Oct. 25, while the US stayed on daylight time until Nov. 1."
+  - q: "Was the OBR forecast due on Budget day?"
+    a: "Yes, per the letter. In a letter dated July 31, 2026, the Chancellor said he had asked the Office for Budget Responsibility to prepare a forecast for publication on Oct. 28, 2026, accompanied by the Budget."
   - q: "When was the UK Budget in 2025?"
     a: "Wednesday, Nov. 26, 2025, according to GOV.UK."
 sources:
@@ -113,9 +113,9 @@ downloads:
 draft: false
 ---
 
-<p class="callout"><b>Last updated Wed., Oct. 28, 2026, 11:50 a.m. Eastern Time (ET).</b> The Chancellor presented the Budget 2026 today. We added what it changes and when, from the Budget 2026 document on GOV.UK: the cash ISA limit stays at £20,000, the National Living Wage rises to £13.21 an hour on April 1, 2027, and the 5p fuel duty cut is extended to July 1, 2027.</p>
+<p class="callout"><b>Budget 2026 changes added.</b> The Chancellor presented the Budget 2026 on Wed., Oct. 28, 2026. This story lists what it changes and when, from the Budget 2026 document on GOV.UK: the cash ISA limit stays at £20,000, the National Living Wage rises to £13.21 an hour on April 1, 2027, and the 5p fuel duty cut is extended to July 1, 2027.</p>
 
-**The UK Budget 2026 was delivered on Wednesday, Oct. 28, 2026**, when the Chancellor of the Exchequer presented it to Parliament, according to HM Treasury's "Budget 2026" page on GOV.UK. The House of Commons Order Paper lists the Budget Statement after Prime Minister's Questions, which begin at 12 noon GMT; no exact clock time for the statement itself was published. This story lists the Budget's dated changes in one table, with a time-zone table for US readers and a one-page printable of the key dates.
+**The UK Budget 2026 was delivered on Wednesday, Oct. 28, 2026**, when the Chancellor of the Exchequer presented it to Parliament, according to HM Treasury's "Budget 2026" page on GOV.UK. The House of Commons Order Paper listed the Budget Statement after Prime Minister's Questions, which began at 12 noon GMT; no exact clock time for the statement itself was published. This story lists the Budget's dated changes in one table, with a time-zone table for US readers and a one-page printable of the key dates.
 
 ## What the Budget 2026 changes, and when
 
@@ -134,23 +134,23 @@ On savings, the document says "the government has decided not to reduce the cash
 
 The Office for Budget Responsibility (OBR) forecast was due the same day; its site did not load for us, so we do not quote its figures.
 
-## When is the UK Budget 2026?
+## When was the UK Budget 2026?
 
 Wednesday, Oct. 28, 2026. The date is also in a letter dated July 31, 2026 from John Healey, Chancellor of the Exchequer, to Dame Meg Hillier, Chair of the Treasury Committee. He wrote: "I am writing to inform you that today I have asked the Office for Budget Responsibility to prepare an economic and fiscal forecast for publication on 28 October 2026. This will be accompanied by the Budget."
 
-So the Office for Budget Responsibility (OBR) forecast and the Budget are due the same day, per HM Treasury, GOV.UK, July 31, 2026.
+So the Office for Budget Responsibility (OBR) forecast and the Budget were due the same day, per HM Treasury, GOV.UK, July 31, 2026.
 
-## What time is the Budget statement?
+## What time was the Budget statement?
 
-The House of Commons Order Paper for Tuesday, Oct. 27, 2026 sets out Wednesday's order of business: questions to the Secretary of State for Scotland at 11:30 a.m., Prime Minister's Questions (PMQs) at 12 noon, then the "Budget Statement — The Chancellor of the Exchequer." So the statement follows PMQs, which begin at 12 noon Greenwich Mean Time (GMT). The Order Paper does not give an exact clock time for the statement itself; in past years it began around 12:30 p.m., a pattern rather than a confirmed 2026 time.
+The House of Commons Order Paper for Tuesday, Oct. 27, 2026 set out Wednesday's order of business: questions to the Secretary of State for Scotland at 11:30 a.m., Prime Minister's Questions (PMQs) at 12 noon, then the "Budget Statement — The Chancellor of the Exchequer." So the statement followed PMQs, which began at 12 noon Greenwich Mean Time (GMT). The Order Paper did not give an exact clock time for the statement itself; in past years it began around 12:30 p.m., a pattern rather than a confirmed 2026 time.
 
-The Order Paper also notes that at the end of the statement the first Budget Resolution is moved and debate begins. That debate continues on Thursday, Oct. 29 and Monday, Nov. 2, and concludes on Tuesday, Nov. 3.
+The Order Paper also noted that at the end of the statement the first Budget Resolution was moved and debate began. It listed the debate as continuing on Thursday, Oct. 29 and Monday, Nov. 2, and concluding on Tuesday, Nov. 3.
 
-## What time is that in the US?
+## What time was that in the US?
 
-The table below uses 12 noon GMT, when PMQs start; the Chancellor's statement follows. Treat the statement's own time as not yet published.
+The table below uses 12 noon GMT, when PMQs start; the Chancellor's statement follows. The statement's own time was not published.
 
-On Oct. 28 the UK is on GMT, because its clocks went back on Oct. 25. The US is still on daylight time until Nov. 1, so the gap to Eastern Time (ET) is four hours, not the usual five. Our [UK and Europe clock-change story](/news/uk-europe-clocks-go-back-october-25-2026-time-difference/) explains why the two weeks differ.
+On Oct. 28 the UK was on GMT, because its clocks went back on Oct. 25. The US was still on daylight time until Nov. 1, so the gap to Eastern Time (ET) was four hours, not the usual five. Our [UK and Europe clock-change story](/news/uk-europe-clocks-go-back-october-25-2026-time-difference/) explains why the two weeks differ.
 
 | Place | Time zone on Oct. 28, 2026 | 12 noon GMT (PMQs start; statement follows) |
 |---|---|---|
@@ -181,4 +181,4 @@ The full Budget 2026 document and the policy costings are on HM Treasury's Budge
 
 ## Printable and calendars
 
-Mark the day on our [October 2026 printable calendar](/october-calendars.html), check the [2026 UK holiday list](/uk-holidays/) for bank holidays, or use the [2026 printable yearly calendar](/printable-yearly-calendar.html). The Budget key-dates timeline is in the downloads below. For next year's days off, see our [UK bank holidays 2027 list](/news/uk-bank-holidays-2027-dates-england-scotland-northern-ireland/) and the [Christmas bank holidays 2026 story](/news/uk-christmas-bank-holidays-2026-boxing-day-substitute-december-28/).
+Find the day on our [October 2026 printable calendar](/october-calendars.html), check the [2026 UK holiday list](/uk-holidays/) for bank holidays, or use the [2026 printable yearly calendar](/printable-yearly-calendar.html). The Budget key-dates timeline is in the downloads below. For next year's days off, see our [UK bank holidays 2027 list](/news/uk-bank-holidays-2027-dates-england-scotland-northern-ireland/) and the [Christmas bank holidays 2026 story](/news/uk-christmas-bank-holidays-2026-boxing-day-substitute-december-28/).

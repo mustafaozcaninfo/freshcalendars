@@ -4,7 +4,7 @@ seoTitle: "What Time Do Polls Close? Election Day 2026 by State"
 description: "Polls close between 6 p.m. and 1 a.m. Eastern on Tuesday, Nov. 3, 2026. Every state's closing time, the split time zones and the in-line rule."
 type: explainer
 publishedAt: "2026-10-20T10:30:00-04:00"
-updatedAt: "2026-11-02T13:17:00-05:00"
+updatedAt: "2026-11-02T14:10:00-05:00"
 authors: [christina-gerland]
 category: elections
 keywords: ["what time do polls close", "polls close time 2026", "election day 2026 poll hours", "what time do polls open", "poll closing times by state"]
@@ -16,7 +16,7 @@ hero:
   caption: "Polls close from 6 p.m. Eastern in parts of Indiana and Kentucky to 1 a.m. Eastern in Alaska's Aleutian Islands on Tuesday, Nov. 3, 2026."
 summary:
   - "The first polls close at 6 p.m. Eastern Time on Tuesday, Nov. 3, 2026, in most of Indiana and Kentucky; the last close at 1 a.m. Eastern in Alaska's Aleutian Islands."
-  - "Clocks fall back on Sunday, Nov. 1, so Election Day is on standard time everywhere in the U.S."
+  - "Clocks fell back on Sunday, Nov. 1, so Election Day is on standard time everywhere in the U.S."
   - "The biggest wave comes at 8 p.m. Eastern, when polls close in 18 states and the District of Columbia."
   - "In every state, anyone in line when polls close is still allowed to vote."
 faq:
@@ -29,7 +29,7 @@ faq:
   - q: "Which state closes its polls first?"
     a: "Indiana and Kentucky. Polls close at 6 p.m. local time, which is 6 p.m. Eastern in the parts of each state on Eastern Time and 7 p.m. Eastern in the parts on Central Time."
   - q: "Does the end of daylight saving time affect Election Day?"
-    a: "Only in how you convert times. Clocks fall back on Nov. 1, so on Nov. 3 the Eastern zone is five hours behind UTC, and Arizona, which never changes its clocks, is two hours behind the East Coast."
+    a: "Only in how you convert times. Clocks fell back on Nov. 1, so on Nov. 3 the Eastern zone is five hours behind UTC, and Arizona, which never changes its clocks, is two hours behind the East Coast."
 sources:
   - title: "Louisiana R.S. 18:541, Opening and closing of the polls"
     url: "https://legis.la.gov/Legis/ViewDocument.aspx?d=929323"
@@ -60,7 +60,7 @@ downloads:
 draft: false
 ---
 
-**Polls close on Tuesday, Nov. 3, 2026 between 6 p.m. and 1 a.m. Eastern Time, depending on the state.** Most of Indiana and Kentucky close first, at 6 p.m. Eastern, and the Aleutian Islands of Alaska close last. Because clocks fall back on Sunday, Nov. 1, the whole country is on standard time on Election Day.
+**Polls close on Tuesday, Nov. 3, 2026 between 6 p.m. and 1 a.m. Eastern Time, depending on the state.** Most of Indiana and Kentucky close first, at 6 p.m. Eastern, and the Aleutian Islands of Alaska close last. Because clocks fell back on Sunday, Nov. 1, the whole country is on standard time on Election Day.
 
 ## Poll closing times in Eastern Time
 

@@ -4,15 +4,15 @@ seoTitle: "Northern Lights November 2026: Next Kp 4 Dates"
 description: "The National Oceanic and Atmospheric Administration (NOAA) forecast a G1 (Minor) storm on Halloween; here are the next northern lights dates in November 2026."
 type: news
 publishedAt: "2026-10-31T01:42:00-04:00"
-updatedAt: "2026-11-01T10:27:00-05:00"
+updatedAt: "2026-11-02T14:10:00-05:00"
 authors: [jessica-hartwell]
 category: sky-events
 keywords: ["northern lights tonight", "northern lights forecast halloween 2026", "aurora forecast november 2026", "geomagnetic storm october 31 2026"]
 dateline: "Boulder"
 hero:
   src: ../../../../assets/news/northern-lights-forecast-tonight-halloween-2026-noaa-g1-storm-watch-november-dates/northern-lights-forecast-tonight-halloween-2026-noaa-g1-storm-watch-november-dates.webp
-  alt: "Northern lights tonight: green aurora over a dark horizon, the sky a G1 geomagnetic storm forecast is expected to light on Halloween 2026"
-  caption: "NOAA forecasts a G1 (Minor) geomagnetic storm for Oct. 31, 2026, the level at which aurora is commonly visible at high latitudes. File photo of an aurora from February 2023, U.S. Forest Service."
+  alt: "Northern lights: green aurora over a dark horizon, the kind of sky a G1 geomagnetic storm forecast was expected to light on Halloween 2026"
+  caption: "NOAA forecast a G1 (Minor) geomagnetic storm for Oct. 31, 2026, the level at which aurora is commonly visible at high latitudes. File photo of an aurora from February 2023, U.S. Forest Service."
   credit: "Photo: Forest Service, USDA / Wikimedia Commons, cropped, edited"
   license:
     name: "Public domain"
@@ -22,16 +22,16 @@ hero:
     authorUrl: "https://www.flickr.com/people/140082569@N07"
 summary:
   - "NOAA's Space Weather Prediction Center forecast a G1 (Minor) geomagnetic storm on Halloween night, Saturday, Oct. 31, 2026, with the strongest period from 11 p.m. EDT to 1 a.m. EST Sunday; that window has now passed."
-  - "The forecast peak for tonight is a planetary K-index (Kp) of 4.67; the highest Kp in the 3-day forecast is 5.00 (G1), in the block that ended Friday night."
-  - "The Moon is 63% lit and rises late in the evening, so moonlight can wash out faint aurora."
+  - "The forecast peak for Halloween night was a planetary K-index (Kp) of 4.67; the highest Kp in the 3-day forecast was 5.00 (G1), in the block that ended Friday night."
+  - "The Moon was 63% lit and rose late in the evening, so moonlight could wash out faint aurora."
   - "The next dates with a Kp of 4 in the 27-day outlook are Nov. 9, Nov. 17 and Nov. 18."
 faq:
-  - q: "Will I see the northern lights tonight?"
-    a: "NOAA does not promise a sighting anywhere. For a G1 storm its Space Weather Scales page says aurora is commonly visible at high latitudes, such as northern Michigan and Maine. Clouds, city lights and moonlight all matter."
+  - q: "Did NOAA promise northern lights on Halloween night?"
+    a: "NOAA did not promise a sighting anywhere. For a G1 storm its Space Weather Scales page says aurora is commonly visible at high latitudes, such as northern Michigan and Maine. Clouds, city lights and moonlight all matter."
   - q: "What time is the best window on Halloween night?"
-    a: "The 3-day forecast gives its highest Kp for tonight, 4.67 (G1), in the block from 03:00 to 06:00 Coordinated Universal Time. That is 11 p.m. Eastern Daylight Time Saturday to 1 a.m. Eastern Standard Time Sunday, or 8 to 11 p.m. Pacific Daylight Time."
+    a: "The 3-day forecast gave its highest Kp for Halloween night, 4.67 (G1), in the block from 03:00 to 06:00 Coordinated Universal Time. That is 11 p.m. Eastern Daylight Time Saturday to 1 a.m. Eastern Standard Time Sunday, or 8 to 11 p.m. Pacific Daylight Time."
   - q: "Does the clock change affect the forecast?"
-    a: "No, but it changes how you read it. U.S. clocks fall back at 2 a.m. EDT on Sunday, Nov. 1, which is 1 a.m. EST, so the 1 a.m. hour happens twice on the clock."
+    a: "No, but it changes how you read it. U.S. clocks fell back at 2 a.m. EDT on Sunday, Nov. 1, which was 1 a.m. EST, so the 1 a.m. hour happened twice on the clock."
   - q: "When is the next chance for northern lights after Halloween?"
     a: "In SWPC's 27-day outlook issued Oct. 26, the next largest forecast Kp of 4 falls on Nov. 9, Nov. 17 and Nov. 18. A long-range outlook changes, so check the 3-day forecast before you go out."
 downloads:
@@ -81,7 +81,7 @@ assets:
   overlay: true
   kicker: "Northern lights · Sat., Oct. 31"
   date: "2026-10-31"
-  card: { top: "Strongest G1 period starts", big: "11 p.m. ET", bottom: "Sat., Oct. 31 to 1 a.m. EST Sun." }
+  card: { top: "Strongest G1 period forecast", big: "11 p.m. ET", bottom: "Sat., Oct. 31 to 1 a.m. EST Sun." }
   printable:
     slug: northern-lights-watch-dates-november-2026
     group: northern-lights-2026
@@ -104,7 +104,7 @@ draft: false
 
 ## Northern lights forecast for Halloween night by time zone
 
-SWPC publishes its forecast in three-hour UTC blocks. U.S. clocks fall back at 2 a.m. EDT on Sunday, Nov. 1 (06:00 UTC, which is 1 a.m. EST), so the same forecast reads differently on either side of that moment. Our conversion of the evening and overnight blocks:
+SWPC publishes its forecast in three-hour UTC blocks. U.S. clocks fell back at 2 a.m. EDT on Sunday, Nov. 1 (06:00 UTC, which was 1 a.m. EST), so the same forecast read differently on either side of that moment. Our conversion of the evening and overnight blocks:
 
 | UTC block | Eastern Time | Pacific Time | Forecast Kp |
 |---|---|---|---|
@@ -114,25 +114,25 @@ SWPC publishes its forecast in three-hour UTC blocks. U.S. clocks fall back at 2
 | Nov. 1, 06:00-09:00 | Sun., 1-4 a.m. EST | Sat., 11 p.m. PDT to Sun., 2 a.m. PDT | 3.33 |
 | Nov. 1, 09:00-12:00 | Sun., 4-7 a.m. EST | Sun., 1-4 a.m. PST | 2.67 |
 
-Source: SWPC 3-Day Forecast issued Oct. 31, 2026, 00:30 UTC; time-zone conversion by Fresh Calendars. PDT is Pacific Daylight Time (UTC minus 7 hours) and PST is Pacific Standard Time (UTC minus 8 hours); Pacific clocks fall back at 2 a.m. PDT, 09:00 UTC.
+Source: SWPC 3-Day Forecast issued Oct. 31, 2026, 00:30 UTC; time-zone conversion by Fresh Calendars. PDT is Pacific Daylight Time (UTC minus 7 hours) and PST is Pacific Standard Time (UTC minus 8 hours); Pacific clocks fell back at 2 a.m. PDT, 09:00 UTC.
 
-The highest Kp in the whole forecast, 5.00 (G1), sits in the 00:00 to 03:00 UTC block on Oct. 31, which was Friday, Oct. 30, 8 to 11 p.m. EDT. SWPC's 3-day forecast gives the Oct. 31-Nov. 2 maximum as 5.00 (NOAA Scale G1) and the greatest observed Kp over the previous 24 hours as 4, below NOAA scale levels.
+The highest Kp in the whole forecast, 5.00 (G1), sat in the 00:00 to 03:00 UTC block on Oct. 31, which was Friday, Oct. 30, 8 to 11 p.m. EDT. SWPC's 3-day forecast gave the Oct. 31-Nov. 2 maximum as 5.00 (NOAA Scale G1) and the greatest observed Kp over the previous 24 hours as 4, below NOAA scale levels.
 
 ## Why SWPC expected a G1 storm on Halloween
 
-SWPC's rationale said the geomagnetic field was likely to reach G1 (Minor) storm levels on Oct. 31-Nov. 1 because of a positive-polarity coronal hole (CH) high speed stream (HSS), a fast flow of solar wind. Unsettled conditions are likely on Nov. 2 as the stream's influence wanes. SWPC's G1 watch lists G1 (Minor) as the highest level for both Oct. 31 and Nov. 1.
+SWPC's rationale said the geomagnetic field was likely to reach G1 (Minor) storm levels on Oct. 31-Nov. 1 because of a positive-polarity coronal hole (CH) high speed stream (HSS), a fast flow of solar wind. Unsettled conditions were likely on Nov. 2 as the stream's influence waned. SWPC's G1 watch listed G1 (Minor) as the highest level for both Oct. 31 and Nov. 1.
 
 The alerts confirm the build-up. SWPC issued a G1 watch on Oct. 29 at 19:10 UTC, a warning for a K-index of 5 on Oct. 30 at 23:11 UTC (valid to 06:00 UTC on Oct. 31), and an alert that the K-index of 4 threshold had been reached at 22:35 UTC on Oct. 30.
 
 ## Where can the aurora be seen at G1?
 
-NOAA's Space Weather Scales page says that at G1 (Kp 5) aurora is commonly visible at high latitudes, with northern Michigan and Maine given as examples. At G2, the next level up, it can reach as low as New York and Idaho. Tonight's forecast is G1, not G2, and SWPC does not name any city where the aurora will appear. For a live read, SWPC runs an [experimental aurora dashboard](https://www.swpc.noaa.gov/communities/aurora-dashboard-experimental).
+NOAA's Space Weather Scales page says that at G1 (Kp 5) aurora is commonly visible at high latitudes, with northern Michigan and Maine given as examples. At G2, the next level up, it can reach as low as New York and Idaho. The Halloween forecast was G1, not G2, and SWPC did not name any city where the aurora would appear. For a live read, SWPC runs an [experimental aurora dashboard](https://www.swpc.noaa.gov/communities/aurora-dashboard-experimental).
 
 Generic tips apply: get away from city lights, face north, and try a phone camera, which can pick up faint aurora the eye misses.
 
 ## How will the Moon affect the view on Oct. 31?
 
-The Moon is a waning gibbous on Halloween, 63% lit, according to the U.S. Naval Observatory (USNO). It rises late in the evening: 11:52 p.m. Central Daylight Time (CDT) in Chicago, by USNO's calculation for Chicago's coordinates. Moonlight arrives after that and can wash out faint aurora, so the hours before moonrise are the darker ones. The full Moon was Oct. 26; our [moon phase calendar](/news/moon-phase-tonight-october-27-november-2026-moon-calendar/) lists every night through November.
+The Moon was a waning gibbous on Halloween, 63% lit, according to the U.S. Naval Observatory (USNO). It rose late in the evening: 11:52 p.m. Central Daylight Time (CDT) in Chicago, by USNO's calculation for Chicago's coordinates. Moonlight arrived after that and could wash out faint aurora, so the hours before moonrise were the darker ones. The full Moon was Oct. 26; our [moon phase calendar](/news/moon-phase-tonight-october-27-november-2026-moon-calendar/) lists every night through November.
 
 ## Northern lights dates to mark in November 2026
 

@@ -1,9 +1,10 @@
 ---
-title: "Halloween 2026: What Day Is Halloween and What Time Does Trick-or-Treating Start?"
-seoTitle: "Halloween 2026 Date and Trick-or-Treat Start Times"
-description: "Halloween 2026 is Saturday, Oct. 31. Trick-or-treat hours are set town by town; four published schedules start between 5 p.m. and 6 p.m. and end by 8 p.m."
+title: "Halloween 2026 Was Saturday, Oct. 31: Trick-or-Treat Hours Set Town by Town, Five Examples"
+seoTitle: "Halloween 2026 Date and Trick-or-Treat Hours"
+description: "Halloween 2026 was Saturday, Oct. 31. Trick-or-treat hours were set town by town; four published schedules started between 5 p.m. and 6 p.m. and ended by 8 p.m."
 type: news
 publishedAt: "2026-10-22T01:31:00-04:00"
+updatedAt: "2026-11-02T14:10:00-05:00"
 authors: [christina-gerland]
 category: holidays
 keywords: ["what day is Halloween 2026", "what time does trick-or-treating start 2026", "trick-or-treat hours 2026", "Halloween 2026 Saturday"]
@@ -17,17 +18,17 @@ hero:
   src: ../../../../assets/news/halloween-2026-what-day-trick-or-treating-start/halloween-2026-what-day-trick-or-treating-start.jpg
   alt: "Halloween 2026 calendar card for Saturday, Oct. 31 showing a typical trick-or-treating start of 5 to 6 p.m., set by each town"
   title: "What time does trick-or-treating start?"
-  caption: "Halloween 2026 is Saturday, Oct. 31. In five city schedules checked on Oct. 22, trick-or-treating starts between 5 p.m. and 6 p.m."
+  caption: "Halloween 2026 was Saturday, Oct. 31. In five city schedules checked on Oct. 22, trick-or-treating started between 5 p.m. and 6 p.m."
 summary:
-  - "Halloween 2026 falls on Saturday, Oct. 31, 2026."
+  - "Halloween 2026 fell on Saturday, Oct. 31, 2026."
   - "There is no nationwide trick-or-treating start time; each city or town sets its own hours."
-  - "Four cities with published 2026 hours start between 5 p.m. and 6 p.m. and end between 7:30 p.m. and 8 p.m."
+  - "Four cities with published 2026 hours started between 5 p.m. and 6 p.m. and ended between 7:30 p.m. and 8 p.m."
   - "Arlington County, Virginia, sets no countywide hours and says trick-or-treating usually coincides with sunset, just after 6 p.m."
 faq:
   - q: "Is Halloween 2026 on a weekend?"
-    a: "Yes. Halloween is Saturday, Oct. 31, 2026."
+    a: "Yes. Halloween was Saturday, Oct. 31, 2026."
   - q: "Does trick-or-treating start at 5 or 6 p.m.?"
-    a: "It depends on the community. Among the 2026 schedules we checked, Marion, Indiana, starts at 5 p.m., Pittsburgh at 5:30 p.m., and Lakewood, Ohio, and Lancaster, Pennsylvania, at 6 p.m."
+    a: "It depends on the community. Among the 2026 schedules we checked, Marion, Indiana, started at 5 p.m., Pittsburgh at 5:30 p.m., and Lakewood, Ohio, and Lancaster, Pennsylvania, at 6 p.m."
   - q: "Is there one national trick-or-treating time?"
     a: "No. The five places in our table are selected examples, not a nationwide schedule, and each sets its own hours."
   - q: "Where can I find my local trick-or-treat time?"
@@ -67,15 +68,15 @@ related: [halloween-2026-saturday-sunset-trick-or-treat-times, day-of-the-dead-2
 draft: false
 ---
 
-**Halloween 2026 is Saturday, Oct. 31, and trick-or-treating usually starts between 5 p.m. and 6 p.m.** There is no single nationwide start time. Each city or town sets its own hours, and the schedules we checked on Oct. 22, 2026, run from about 5 p.m. to 8 p.m. Schedules can change, so confirm yours with your local government.
+**Halloween 2026 was Saturday, Oct. 31, and the four published schedules we checked started trick-or-treating between 5 p.m. and 6 p.m.** There is no single nationwide start time. Each city or town sets its own hours, and the schedules we checked on Oct. 22, 2026, ran from about 5 p.m. to 8 p.m. For next year, confirm hours with your local government.
 
 ## What day is Halloween 2026?
 
-Halloween falls on Saturday, Oct. 31, 2026, according to The Old Farmer's Almanac. The date is the same everywhere, and every schedule in the table below uses it. For the holiday's date in other years, see [when is Halloween](/when-is/halloween/), or plan the month with the [October 2026 printable calendar](/october-calendars.html).
+Halloween fell on Saturday, Oct. 31, 2026, according to The Old Farmer's Almanac. The date is the same everywhere, and every schedule in the table below uses it. For the holiday's date in other years, see [when is Halloween](/when-is/halloween/), or look back at the month with the [October 2026 printable calendar](/october-calendars.html).
 
 ## What time does trick-or-treating start in 2026?
 
-A common window is 5 p.m. to 8 p.m., but hours depend on the community. Among the examples below, the earliest start is 5 p.m. in Marion, Indiana, and the latest start is 6 p.m. Clocks fall back at 2 a.m. on Sunday, Nov. 1, hours after trick-or-treating ends; see [when daylight saving time ends](/news/daylight-saving-time-ends-november-1-2026/). For sunset and dark times by city, read our [Halloween sunset guide](/news/halloween-2026-saturday-sunset-trick-or-treat-times/).
+The published windows ran from 5 p.m. to 8 p.m., but hours depended on the community. Among the examples below, the earliest start was 5 p.m. in Marion, Indiana, and the latest start was 6 p.m. Clocks fell back at 2 a.m. on Sunday, Nov. 1, hours after trick-or-treating ended; see [when daylight saving time ends](/news/daylight-saving-time-ends-november-1-2026/). For sunset and dark times by city, read our [Halloween sunset guide](/news/halloween-2026-saturday-sunset-trick-or-treat-times/).
 
 ### Community schedules checked on Oct. 22, 2026
 
@@ -87,13 +88,13 @@ A common window is 5 p.m. to 8 p.m., but hours depend on the community. Among th
 | Lancaster, Pennsylvania | Sat., Oct. 31 | 6-8 p.m., rain or shine | [City of Lancaster](https://www.cityoflancasterpa.gov/trick-or-treat/) |
 | Arlington County, Virginia | Sat., Oct. 31 | No countywide hours; usually around sunset, just after 6 p.m. | [Arlington County](https://www.arlingtonva.us/Government/Topics/Halloween-in-Arlington) |
 
-These five places are selected examples, not a nationwide schedule or a directory. To find your own, search your city or county website for "Halloween 2026 trick-or-treat hours" and check that the announcement is for this year.
+These five places are selected examples, not a nationwide schedule or a directory. In another year, search your city or county website for "Halloween trick-or-treat hours" and check that the announcement is for that year.
 
 ## Why do trick-or-treating hours vary?
 
-Hours are set locally. Pittsburgh, Marion, Lakewood and Lancaster each publish their own window, while Arlington County sets none and points to sunset. A neighboring town can choose differently.
+Hours are set locally. Pittsburgh, Marion, Lakewood and Lancaster each published their own window, while Arlington County sets none and points to sunset. A neighboring town can choose differently.
 
-Before you head out, check:
+Before you head out in a future year, check:
 
 - The official start and end time for your town.
 - Whether the event covers the whole city or only one neighborhood.

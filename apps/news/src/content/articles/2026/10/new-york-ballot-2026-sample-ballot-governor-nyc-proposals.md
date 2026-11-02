@@ -4,6 +4,7 @@ seoTitle: "New York Ballot 2026: Sample Ballot and Races"
 description: "What's on New York's Nov. 3, 2026 ballot: governor, attorney general, comptroller, all 26 House seats, NYC's five charter questions and how to see your ballot."
 type: explainer
 publishedAt: "2026-10-21T06:33:00-04:00"
+updatedAt: "2026-11-02T14:10:00-05:00"
 authors: [christina-gerland]
 category: elections
 keywords: ["New York ballot 2026", "New York sample ballot 2026", "New York governor race 2026", "NYC ballot proposals 2026", "what's on my ballot New York"]
@@ -17,7 +18,7 @@ summary:
   - "New York elects a governor and lieutenant governor, attorney general and comptroller on Tuesday, Nov. 3, 2026, along with all 26 U.S. House seats, all 63 state Senate seats and all 150 Assembly seats. There is no U.S. Senate race this year."
   - "Gov. Kathy Hochul, Attorney General Letitia James and Comptroller Thomas DiNapoli are on the ballot again. Their certified opponents are Bruce Blakeman, Saritha Komatireddy and Joseph Hernandez."
   - "New York City voters also decide five city charter questions on public space, contracting, street safety projects, building permits and a rainy day fund target. No statewide proposals have been posted for 2026."
-  - "Saturday, Oct. 24, is the registration deadline and the first day of early voting, which runs through Nov. 1. Polls are open 6 a.m. to 9 p.m. on Election Day."
+  - "Saturday, Oct. 24, was the registration deadline and the first day of early voting, which ended Nov. 1. Polls are open 6 a.m. to 9 p.m. on Election Day, Tuesday, Nov. 3."
 faq:
   - q: "Who is running for governor of New York in 2026?"
     a: "The State Board of Elections certified two tickets: Democrat Kathy Hochul with Adrienne Adams for lieutenant governor, also on the Working Families line, and Republican Bruce Blakeman with Todd Hood, also on the Conservative and Vote Affordable lines."
@@ -108,7 +109,7 @@ The commission says the changes would, for example, cut the outdoor dining appli
 
 ## How to see your sample ballot
 
-- **New York City:** enter your address on the NYC Board of Elections' "Find Your Poll Site" page at vote.nyc. It shows your ballot, which is specific to your district, along with your poll site and early voting site.
+- **New York City:** enter your address on the NYC Board of Elections' "Find Your Poll Site" page at vote.nyc. It shows your ballot, which is specific to your district, along with your poll site.
 - **Elsewhere in the state:** your county board of elections posts sample ballots. The state's voter lookup at voterlookup.elections.ny.gov shows your registration, your poll site and the status of a mail ballot.
 - **Other states:** our [sample ballot by ZIP code guide](/news/sample-ballot-by-zip-code-2026-texas-ballot/) lists the official lookup for every state.
 
@@ -116,13 +117,13 @@ The commission says the changes would, for example, cut the outdoor dining appli
 
 | Date | What happens |
 |---|---|
-| Sat., Oct. 24 | Registration deadline (applications must be received); early voting opens; last day to apply for a mail ballot online or by mail |
-| Oct. 24-Nov. 1 | Early in-person voting; hours set by each county |
-| Mon., Nov. 2 | Last day to apply for a mail ballot in person at your county board |
+| Sat., Oct. 24 | Registration deadline (applications had to be received); early voting opened; last day to apply for a mail ballot online or by mail (passed) |
+| Oct. 24-Nov. 1 | Early in-person voting; hours were set by each county (ended) |
+| Mon., Nov. 2 (today) | Last day to apply for a mail ballot in person at your county board |
 | Tue., Nov. 3 | Election Day, polls open 6 a.m. to 9 p.m.; mail ballots must be postmarked by today |
 
-You do not need to show ID to vote unless you did not provide identification when you registered; first-time voters must give it on or with their registration form. Early voting sites and hours, including New York City's day-by-day schedule, are in [early voting starts Oct. 24 in Michigan and New York](/news/early-voting-starts-october-24-michigan-new-york-2026/). For how fast results come in, see [when we will know the 2026 election results](/news/when-will-we-know-election-results-2026-midterms/).
+You do not need to show ID to vote unless you did not provide identification when you registered; first-time voters must give it on or with their registration form. The early voting sites and hours, including New York City's day-by-day schedule, are in our [Michigan and New York early voting guide](/news/early-voting-starts-october-24-michigan-new-york-2026/). For how fast results come in, see [when we will know the 2026 election results](/news/when-will-we-know-election-results-2026-midterms/).
 
 ## Print your checklist
 
-Our free one-page checklist lists the certified candidates for governor, attorney general and comptroller with their party lines, the five city questions with yes and no boxes, and the key dates, with space for your local races. Copy your choices from your official sample ballot and take it with you. Plan the week on our [October](/october-calendars.html) and [November 2026 calendars](/november-calendars.html) or a [weekly planner](/printable-weekly-calendar.html), and follow races across the country in our [2026 midterm tracker](/news/2026-midterm-elections-whats-on-the-ballot-results-tracker/).
+Our free one-page checklist lists the certified candidates for governor, attorney general and comptroller with their party lines, the five city questions with yes and no boxes, and the key dates, with space for your local races. Copy your choices from your official sample ballot and take it with you. Plan Nov. 3 on our [November 2026 calendar](/november-calendars.html) or a [weekly planner](/printable-weekly-calendar.html), and follow races across the country in our [2026 midterm tracker](/news/2026-midterm-elections-whats-on-the-ballot-results-tracker/).

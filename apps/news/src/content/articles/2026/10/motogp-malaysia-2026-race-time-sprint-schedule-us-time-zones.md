@@ -1,18 +1,19 @@
 ---
-title: "MotoGP Malaysia 2026 Race Time: Sprint 3 a.m. ET Saturday, Malaysian GP 2 a.m. ET Sunday, Nov. 1"
+title: "MotoGP Malaysia 2026: Sprint Was 3 a.m. ET Saturday, Malaysian GP 2 a.m. ET Sunday, Nov. 1"
 seoTitle: "MotoGP Malaysia 2026: Race Time in U.S. Time Zones"
-description: "The Tissot Sprint is 3 a.m. Eastern Daylight Time (EDT) Saturday and the Malaysian GP 2 a.m. Eastern Standard Time (EST) Sunday, Nov. 1, 2026, MotoGP says."
+description: "The Tissot Sprint was 3 a.m. Eastern Daylight Time (EDT) Saturday and the Malaysian GP 2 a.m. Eastern Standard Time (EST) Sunday, Nov. 1, 2026, MotoGP says."
 type: explainer
 publishedAt: "2026-10-30T01:45:00-04:00"
+updatedAt: "2026-11-02T14:10:00-05:00"
 authors: [jessica-hartwell]
 category: sports
-keywords: ["motogp malaysia 2026 race time", "malaysian gp 2026 time et", "motogp sprint time sepang", "motogp schedule this weekend"]
+keywords: ["motogp malaysia 2026 race time", "malaysian gp 2026 time et", "motogp sprint time sepang", "motogp malaysia schedule"]
 dateline: "Sepang, Malaysia"
 hero:
   src: ../../../../assets/news/motogp-malaysia-2026-race-time-sprint-schedule-us-time-zones/motogp-malaysia-2026-race-time-sprint-schedule-us-time-zones.webp
   alt: "Main grandstand at Sepang International Circuit in Malaysia, host of the MotoGP Malaysia 2026 race"
   title: "MotoGP Malaysia 2026 race time"
-  caption: "The main grandstand at Sepang International Circuit (file photo). The Malaysian Grand Prix starts at 3 p.m. local time on Sunday, Nov. 1, 2026."
+  caption: "The main grandstand at Sepang International Circuit (file photo). The Malaysian Grand Prix was set for 3 p.m. local time on Sunday, Nov. 1, 2026."
   credit: "Photo: Postmortem at Russian Wikipedia / Wikimedia Commons, cropped, edited"
   license:
     name: "Public domain"
@@ -20,19 +21,19 @@ hero:
     source: "https://commons.wikimedia.org/wiki/File:Sepang_tribune.jpg"
     author: "Postmortem at Russian Wikipedia"
 summary:
-  - "MotoGP lists the Tissot Sprint at 15:00 on Saturday, Oct. 31 and the Malaysian GP at 15:00 on Sunday, Nov. 1, 2026, both in local time at Sepang (UTC+8)."
-  - "By our conversion the Sprint is 3 a.m. Eastern Daylight Time (EDT) Saturday and the Malaysian GP is 2 a.m. Eastern Standard Time (EST) Sunday."
-  - "U.S. clocks fall back at 2 a.m. local time on Sunday, Nov. 1, so Friday and Saturday sessions use daylight time and the race uses standard time in the East."
-  - "The Malaysian GP is 20 laps, 110.86 km (68.89 miles), per MotoGP."
+  - "MotoGP listed the Tissot Sprint at 15:00 on Saturday, Oct. 31 and the Malaysian GP at 15:00 on Sunday, Nov. 1, 2026, both in local time at Sepang (UTC+8)."
+  - "By our conversion the Sprint was 3 a.m. Eastern Daylight Time (EDT) Saturday and the Malaysian GP was 2 a.m. Eastern Standard Time (EST) Sunday."
+  - "U.S. clocks fell back at 2 a.m. local time on Sunday, Nov. 1, so Friday and Saturday sessions used daylight time and the race used standard time in the East."
+  - "The Malaysian GP was 20 laps, 110.86 km (68.89 miles), per MotoGP."
 faq:
-  - q: "What time is the MotoGP Malaysian GP race in 2026?"
-    a: "MotoGP lists the race at 15:00 local time at Sepang on Sunday, Nov. 1, 2026. By our conversion that is 2 a.m. EST, 1 a.m. Central Standard Time (CST), 12 a.m. (midnight) Pacific Daylight Time (PDT) and 7 a.m. Greenwich Mean Time (GMT) on Sunday."
-  - q: "What time is the MotoGP Sprint at Sepang?"
-    a: "The Tissot Sprint is at 15:00 local time on Saturday, Oct. 31, 2026, per MotoGP. That is 3 a.m. EDT and 12 a.m. (midnight) PDT on Saturday, by our conversion."
+  - q: "What time was the MotoGP Malaysian GP race in 2026?"
+    a: "MotoGP listed the race at 15:00 local time at Sepang on Sunday, Nov. 1, 2026. By our conversion that was 2 a.m. EST, 1 a.m. Central Standard Time (CST), 12 a.m. (midnight) Pacific Daylight Time (PDT) and 7 a.m. Greenwich Mean Time (GMT) on Sunday."
+  - q: "What time was the MotoGP Sprint at Sepang?"
+    a: "The Tissot Sprint was at 15:00 local time on Saturday, Oct. 31, 2026, per MotoGP. That was 3 a.m. EDT and 12 a.m. (midnight) PDT on Saturday, by our conversion."
   - q: "How many laps is the Malaysian GP?"
-    a: "MotoGP says the Malaysian GP is 20 laps, 110.86 km (68.89 miles). Moto2 is 17 laps and Moto3 is 15 laps."
-  - q: "Do U.S. clocks change during MotoGP Malaysia weekend?"
-    a: "Yes. U.S. clocks fall back at 2 a.m. local time on Sunday, Nov. 1, 2026. Saturday sessions are on daylight time and the Sunday race is on standard time in the East."
+    a: "MotoGP says the Malaysian GP was 20 laps, 110.86 km (68.89 miles). Moto2 was 17 laps and Moto3 was 15 laps."
+  - q: "Did U.S. clocks change during MotoGP Malaysia weekend?"
+    a: "Yes. U.S. clocks fell back at 2 a.m. local time on Sunday, Nov. 1, 2026. Saturday sessions were on daylight time and the Sunday race was on standard time in the East."
   - q: "Where can I watch MotoGP in the United States?"
     a: "MotoGP's official broadcaster list names FOX Sports for the United States. Check your local listings for the channel."
 sources:
@@ -108,11 +109,11 @@ downloads:
 draft: false
 ---
 
-**The Tissot Sprint at Sepang is at 3 a.m. Eastern Daylight Time (EDT) on Saturday, Oct. 31, and the Malaysian GP is at 2 a.m. Eastern Standard Time (EST) on Sunday, Nov. 1, 2026, according to MotoGP's official schedule.** Both start at 15:00 local time in Malaysia, Coordinated Universal Time (UTC) plus 8 hours (UTC+8). Below: every MotoGP session, plus the Moto2 and Moto3 races, in U.S. time zones, and how the clock change moves Sunday's start.
+**The Tissot Sprint at Sepang was set for 3 a.m. Eastern Daylight Time (EDT) on Saturday, Oct. 31, and the Malaysian GP for 2 a.m. Eastern Standard Time (EST) on Sunday, Nov. 1, 2026, according to MotoGP's official schedule.** Both started at 15:00 local time in Malaysia, Coordinated Universal Time (UTC) plus 8 hours (UTC+8). Below: every MotoGP session, plus the Moto2 and Moto3 races, in U.S. time zones, and how the clock change moved Sunday's start. This story does not give results.
 
 ## What is the MotoGP Malaysia 2026 schedule in U.S. time?
 
-MotoGP posted its time schedule for the Petronas Grand Prix of Malaysia on Oct. 28, 2026, at Petronas Sepang International Circuit. It is round 19 of 22, according to MotoGP's Malaysia event page. The Malaysia Time (MYT) column is MotoGP's; the U.S. and Greenwich Mean Time (GMT) columns are our conversion. The United Kingdom has been on GMT since Oct. 25.
+MotoGP posted its time schedule for the Petronas Grand Prix of Malaysia on Oct. 28, 2026, at Petronas Sepang International Circuit. It was round 19 of 22, according to MotoGP's Malaysia event page. The Malaysia Time (MYT) column is MotoGP's; the U.S. and Greenwich Mean Time (GMT) columns are our conversion. The United Kingdom has been on GMT since Oct. 25.
 
 | Session | Malaysia (MYT) | Eastern | Central | Mountain | Pacific | GMT |
 |---|---|---|---|---|---|---|
@@ -128,19 +129,19 @@ MotoGP posted its time schedule for the Petronas Grand Prix of Malaysia on Oct. 
 
 The abbreviations are Central Daylight Time (CDT), Mountain Daylight Time (MDT), Pacific Daylight Time (PDT) and Central Standard Time (CST). Friday's sessions that start at 09:00 and 10:45 in Malaysia are Thursday evening in the United States. The weekday in each row is the day where you live, not the day MotoGP lists.
 
-## What time is the Malaysian GP on Sunday?
+## What time was the Malaysian GP on Sunday?
 
-MotoGP says: "The Malaysian GP begins at 15:00, with 20 laps deciding our winner." That is 07:00 UTC. In the United States it is 2 a.m. EST, 1 a.m. CST, 1 a.m. MDT and 12 a.m. (midnight) PDT on Sunday, Nov. 1, by our conversion. The race distance is 110.86 km (68.89 miles), MotoGP's Malaysia event page says.
+MotoGP says: "The Malaysian GP begins at 15:00, with 20 laps deciding our winner." That is 07:00 UTC. In the United States it was 2 a.m. EST, 1 a.m. CST, 1 a.m. MDT and 12 a.m. (midnight) PDT on Sunday, Nov. 1, by our conversion. The race distance is 110.86 km (68.89 miles), MotoGP's Malaysia event page says.
 
 The Moto3 race is 15 laps and the Moto2 race is 17 laps, per the same page. MotoGP also lists a post-race press conference at 16:45 local time.
 
-## What time is the MotoGP Sprint at Sepang?
+## What time was the MotoGP Sprint at Sepang?
 
-MotoGP says "the Tissot Sprint starting at 15:00" on Saturday, Oct. 31. That is also 07:00 UTC, so it is 3 a.m. EDT, 2 a.m. CDT, 1 a.m. MDT and 12 a.m. (midnight) PDT on Saturday, by our conversion. MotoGP qualifying is at 10:50 local time the same day, which is Friday night, 10:50 p.m. EDT, in the East.
+MotoGP says "the Tissot Sprint starting at 15:00" on Saturday, Oct. 31. That is also 07:00 UTC, so it was 3 a.m. EDT, 2 a.m. CDT, 1 a.m. MDT and 12 a.m. (midnight) PDT on Saturday, by our conversion. MotoGP qualifying was at 10:50 local time the same day, which was Friday night, 10:50 p.m. EDT, in the East.
 
-## Why does the clock change matter for a 2 a.m. race?
+## Why did the clock change matter for a 2 a.m. race?
 
-U.S. clocks fall back at 2 a.m. local time on Sunday, Nov. 1, 2026, the same morning as the race. Saturday's Sprint at 07:00 UTC is still on daylight time, so Eastern viewers are 12 hours behind Sepang and the Sprint is 3 a.m. EDT. By race time on Sunday, which is also 07:00 UTC, the East is on standard time and 13 hours behind, so the same 15:00 start is 2 a.m. EST. Pacific time is still on daylight time at 07:00 UTC, so the race is 12 a.m. PDT. Central has already changed by then, so it is 1 a.m. CST, a time that occurs twice that night in the Central zone.
+U.S. clocks fell back at 2 a.m. local time on Sunday, Nov. 1, 2026, the same morning as the race. Saturday's Sprint at 07:00 UTC was still on daylight time, so Eastern viewers were 12 hours behind Sepang and the Sprint was 3 a.m. EDT. By race time on Sunday, which is also 07:00 UTC, the East was on standard time and 13 hours behind, so the same 15:00 start was 2 a.m. EST. Pacific time was still on daylight time at 07:00 UTC, so the race was 12 a.m. PDT. Central had already changed by then, so it was 1 a.m. CST, a time that occurred twice that night in the Central zone.
 
 Our [when does daylight saving time end](/when-is/daylight-savings/) page has the date, and our [daylight saving time ends Nov. 1, 2026](/news/daylight-saving-time-ends-november-1-2026/) story covers the change itself.
 
@@ -148,9 +149,9 @@ Our [when does daylight saving time end](/when-is/daylight-savings/) page has th
 
 MotoGP's official broadcaster list names FOX Sports for the United States. Check your local listings for the channel and start of coverage.
 
-## Could the MotoGP schedule change?
+## Did the MotoGP schedule change in 2026?
 
-MotoGP cancelled the Australian GP race at Phillip Island on Oct. 24, 2026. It gave the reason as "Due to limited visibility affecting the operation of the medical helicopter." Check motogp.com for updates before you set an alarm for a 2 a.m. start.
+MotoGP cancelled the Australian GP race at Phillip Island on Oct. 24, 2026. It gave the reason as "Due to limited visibility affecting the operation of the medical helicopter."
 
 ## What MotoGP rounds are left in 2026?
 

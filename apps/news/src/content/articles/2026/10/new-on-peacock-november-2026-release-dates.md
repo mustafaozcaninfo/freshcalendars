@@ -4,6 +4,7 @@ seoTitle: "New on Peacock November 2026: Full Dated List"
 description: "Peacock lists The Good Daughter for Nov. 12, Nelly & Ashanti season 2 for Nov. 19 and Dig for Nov. 23, 2026. See every date by weekday and a free printable."
 type: news
 publishedAt: "2026-10-29T21:39:00-04:00"
+updatedAt: "2026-11-02T14:10:00-05:00"
 authors: [jessica-hartwell]
 category: entertainment
 keywords: ["new on Peacock November 2026", "Peacock November 2026", "what's coming to Peacock November 2026", "Dig Peacock release date", "The Good Daughter Peacock release date"]
@@ -52,7 +53,7 @@ summary:
   - "Peacock's November 2026 list puts The Good Daughter (six episodes) on Thursday, Nov. 12, Nelly & Ashanti: We Belong Together season 2 on Thursday, Nov. 19 and Dig (10 episodes) on Monday, Nov. 23."
   - "All three are Peacock Originals released as binge-drops, with every episode available on the first day."
   - "NBC and Bravo shows stream on Peacock the day after they air; Peacock lists The Fall and Rise of Reggie Dinkins and St. Denis Medical for Tuesday, Nov. 3."
-  - "NBC Insider lists five Sunday Night Football games in November at 8:20 p.m. Eastern Time (ET), plus the Chiefs at Bills game on Thanksgiving night, Thursday, Nov. 26."
+  - "NBC Insider lists five Sunday Night Football games in November at 8:20 p.m. Eastern Time (ET), plus the Chiefs at Bills game on Thanksgiving night, Thursday, Nov. 26. The Nov. 1 game ended Commanders 27, Eagles 10, per NFL.com."
 faq:
   - q: "When does The Good Daughter come out on Peacock?"
     a: "Peacock lists The Good Daughter, a six-episode Peacock Original, for Thursday, Nov. 12, 2026, with all episodes released that day."
@@ -72,6 +73,10 @@ sources:
   - title: "How much does a Peacock subscription cost?"
     url: "https://www.peacocktv.com/help/article/how-much-does-a-peacock-subscription-cost"
     publisher: "Peacock Help"
+  - title: "NFL schedule, 2026 Week 8"
+    url: "https://www.nfl.com/schedules/2026/REG8"
+    publisher: "NFL.com"
+    date: "2026-11-01"
   - title: "Sunday Night Football Full 2026-2027 Schedule of Games"
     url: "https://www.nbc.com/nbc-insider/nfl-sunday-night-football-schedule-2026-2027"
     publisher: "NBC Insider"
@@ -164,7 +169,7 @@ NBC Insider's "Sunday Night Football Full 2026-2027 Schedule of Games," updated 
 
 | Date | Game | Kickoff |
 |---|---|---|
-| Sunday, Nov. 1 | Philadelphia Eagles at Washington Commanders | 8:20 p.m. ET |
+| Sunday, Nov. 1 | Philadelphia Eagles at Washington Commanders | 8:20 p.m. ET; played, Commanders 27, Eagles 10 |
 | Sunday, Nov. 8 | Tampa Bay Buccaneers at Chicago Bears | 8:20 p.m. ET |
 | Sunday, Nov. 15 | Pittsburgh Steelers at Cincinnati Bengals | 8:20 p.m. ET |
 | Sunday, Nov. 22 | Minnesota Vikings vs. San Francisco 49ers, NFL International Game in Mexico City | 8:20 p.m. ET |

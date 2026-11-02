@@ -1,9 +1,10 @@
 ---
-title: "VA Disability Payment Dates 2026 and 2027: November Payment Arrives Friday, Oct. 30"
+title: "VA Disability Payment Dates 2026 and 2027: November Payment Was Scheduled for Oct. 30"
 seoTitle: "VA Disability Payment Dates 2026-2027: Nov. Pay Oct. 30"
-description: "The Department of Veterans Affairs (VA) disability payment due Nov. 1, 2026 arrives Fri., Oct. 30 under 38 U.S.C. 5120(e). Dates through Dec. 2027."
+description: "The Department of Veterans Affairs (VA) disability payment due Nov. 1, 2026 was set for Fri., Oct. 30 under 38 U.S.C. 5120(e). Dates through Dec. 2027."
 type: explainer
 publishedAt: "2026-10-30T01:50:00-04:00"
+updatedAt: "2026-11-02T14:10:00-05:00"
 authors: [aaron-kessler]
 category: money-benefits
 keywords: ["VA disability payment dates 2026", "VA payment schedule 2027", "when does VA disability pay in November 2026", "VA disability payment October 30"]
@@ -12,7 +13,7 @@ hero:
   src: ../../../../assets/news/va-disability-payment-dates-2026-2027-november-payment-october-30/va-disability-payment-dates-2026-2027-november-payment-october-30.webp
   alt: "Entrance awning of the Department of Veterans Affairs headquarters in Washington, for a story on VA disability payment dates 2026"
   title: "VA disability payment dates"
-  caption: "The Department of Veterans Affairs headquarters in Washington. The VA payment normally due Sunday, Nov. 1, 2026 is scheduled to arrive Friday, Oct. 30."
+  caption: "The Department of Veterans Affairs headquarters in Washington. The VA payment normally due Sunday, Nov. 1, 2026 was scheduled to arrive Friday, Oct. 30."
   credit: "Photo: G. Edward Johnson / Wikimedia Commons, cropped, edited"
   license:
     name: "CC BY 4.0"
@@ -21,17 +22,17 @@ hero:
     author: "G. Edward Johnson"
     authorUrl: "https://commons.wikimedia.org/wiki/User:Lorax"
 summary:
-  - "The VA disability compensation payment normally due Sunday, Nov. 1, 2026 is scheduled to arrive Friday, Oct. 30, 2026, because 38 U.S.C. 5120(e) moves it to the Friday before a weekend first-of-month."
+  - "The VA disability compensation payment normally due Sunday, Nov. 1, 2026 was scheduled to arrive Friday, Oct. 30, 2026, because 38 U.S.C. 5120(e) moves it to the Friday before a weekend first-of-month."
   - "The next payment is Tuesday, Dec. 1, 2026, then Thursday, Dec. 31, 2026, which stands in for Jan. 1, 2027, New Year's Day."
   - "Two payments land in October 2026 and two in December 2026, and none in November 2026 or January 2027. That is a timing shift, not an extra payment."
   - "The Social Security Administration (SSA) announced a 3.6% cost-of-living adjustment (COLA) for 2027. VA has not posted its 2027 rates yet."
 faq:
   - q: "When does VA disability pay in November 2026?"
-    a: "Nov. 1, 2026 is a Sunday, so the payment is scheduled for Friday, Oct. 30, 2026. No VA disability payment is dated in November."
+    a: "Nov. 1, 2026 is a Sunday, so the payment was scheduled for Friday, Oct. 30, 2026. No VA disability payment is dated in November."
   - q: "Why did my VA payment come early?"
     a: "38 U.S.C. 5120(e) tells the Secretary of Veterans Affairs to pay on the preceding Friday when the 1st of a month is a Saturday or Sunday, and on the preceding weekday when it is a legal public holiday."
   - q: "Is the Oct. 30 payment an extra payment?"
-    a: "No. It is November's payment, delivered early. Your total for the year does not change; two payments are dated in October and none in November."
+    a: "No. It was November's payment, scheduled early. Your total for the year does not change; two payments are dated in October and none in November."
   - q: "When is the VA disability payment in January 2027?"
     a: "Jan. 1, 2027 is New Year's Day, a federal holiday, so the payment is scheduled for Thursday, Dec. 31, 2026."
   - q: "Does VA publish a payment calendar?"
@@ -115,7 +116,7 @@ downloads:
     pages: 1
 ---
 
-**The Department of Veterans Affairs (VA) disability compensation payment normally due Sunday, Nov. 1, 2026 is scheduled to arrive today, Friday, Oct. 30, 2026, because federal law moves it to the Friday before a weekend first-of-month.** The rule is 38 U.S.C. 5120(e), published by the Legal Information Institute at Cornell Law School. Banks post deposits at different times, so check your own account.
+**The Department of Veterans Affairs (VA) disability compensation payment normally due Sunday, Nov. 1, 2026 was scheduled to arrive on Friday, Oct. 30, 2026, because federal law moves it to the Friday before a weekend first-of-month.** The rule is 38 U.S.C. 5120(e), published by the Legal Information Institute at Cornell Law School. Banks post deposits at different times, so check your own account if you have not seen it.
 
 VA pays monthly compensation on the first of the month. Section 5120(e) says that when the first day of a month falls on a Saturday, Sunday or legal public holiday, the Secretary shall, "to the maximum extent practicable," arrange payment on "the Friday immediately preceding such Saturday or Sunday," or, for a holiday, the weekday before it. The law adds that this holds "notwithstanding that such delivery or transmission of such payments is made in the same calendar month for which such payments are issued."
 

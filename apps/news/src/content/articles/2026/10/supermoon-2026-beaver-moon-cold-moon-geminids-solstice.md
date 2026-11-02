@@ -4,6 +4,7 @@ seoTitle: "Supermoon 2026: Beaver Moon, Cold Moon, Geminids"
 description: "Two supermoons end 2026: the Beaver Moon Nov. 24 and Cold Moon Dec. 23, plus the Geminids on Dec. 13-14 and the winter solstice Dec. 21, in Eastern Time (ET)."
 type: explainer
 publishedAt: "2026-10-24T00:50:00-04:00"
+updatedAt: "2026-11-02T14:10:00-05:00"
 authors: [jessica-hartwell]
 category: sky-events
 keywords: ["supermoon november 2026", "beaver moon 2026", "cold moon december 2026", "geminid meteor shower 2026", "winter solstice 2026"]
@@ -144,13 +145,13 @@ The Beaver Moon on Nov. 24 lands two days before Thanksgiving on Thursday, Nov. 
 
 <p class="days-live" data-days-until="2026" hidden></p>
 
-| Date | Event | Days from today |
+| Date | Event | Days from Nov. 2 |
 |---|---|---|
-| Nov. 24 | Beaver Moon, full supermoon (9:53 a.m. EST) | 31 |
-| Dec. 13-14 | Geminid meteor shower peak night | 50 |
-| Dec. 21 | Winter solstice (3:50 p.m. EST) | 58 |
-| Dec. 21-22 | Ursid meteor shower peak night | 58 |
-| Dec. 23 | Cold Moon, full supermoon (8:28 p.m. EST) | 60 |
+| Nov. 24 | Beaver Moon, full supermoon (9:53 a.m. EST) | 22 |
+| Dec. 13-14 | Geminid meteor shower peak night | 41 |
+| Dec. 21 | Winter solstice (3:50 p.m. EST) | 49 |
+| Dec. 21-22 | Ursid meteor shower peak night | 49 |
+| Dec. 23 | Cold Moon, full supermoon (8:28 p.m. EST) | 51 |
 
 The day counts above update to the current date when the page loads.
 

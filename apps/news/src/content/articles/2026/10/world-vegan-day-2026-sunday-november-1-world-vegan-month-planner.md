@@ -1,10 +1,10 @@
 ---
-title: "World Vegan Day 2026 Is Sunday, Nov. 1: World Vegan Month Dates and a Free Planner"
+title: "World Vegan Day 2026 Was Sunday, Nov. 1: World Vegan Month Dates and a Free Planner"
 seoTitle: "World Vegan Day 2026: Sunday, Nov. 1"
-description: "World Vegan Day is today, Sunday, Nov. 1, 2026, and opens World Vegan Month, per The Vegan Society. Weekdays through 2030 and a free November planner."
+description: "World Vegan Day was Sunday, Nov. 1, 2026, and opened World Vegan Month, per The Vegan Society. Weekdays through 2030 and a free November planner."
 type: explainer
 publishedAt: "2026-10-31T05:41:00-04:00"
-updatedAt: "2026-11-01T02:42:00-05:00"
+updatedAt: "2026-11-02T14:10:00-05:00"
 authors: [christina-gerland]
 category: holidays
 keywords: ["world vegan day 2026", "when is world vegan day", "world vegan month november 2026", "world vegan day november 1"]
@@ -40,7 +40,7 @@ assets:
 hero:
   src: ../../../../assets/news/world-vegan-day-2026-sunday-november-1-world-vegan-month-planner/world-vegan-day-2026-sunday-november-1-world-vegan-month-planner.webp
   alt: "Fresh vegetables and fruit on a market stall, file photo for World Vegan Day 2026 on Sunday, Nov. 1"
-  caption: "File photo of a produce stall. World Vegan Day falls on Sunday, Nov. 1, 2026, and opens World Vegan Month, per The Vegan Society."
+  caption: "File photo of a produce stall. World Vegan Day was Sunday, Nov. 1, 2026, and opened World Vegan Month, per The Vegan Society."
   credit: "Photo: Acabashi / Wikimedia Commons, cropped, edited"
   license:
     name: "CC BY-SA 4.0"
@@ -48,13 +48,13 @@ hero:
     source: "https://commons.wikimedia.org/wiki/File:Outdoor_market_fruit_and_vegetable_stall_Market_Place_Romford_London_01.jpg"
     author: "Acabashi"
 summary:
-  - "World Vegan Day is Sunday, Nov. 1, 2026, and opens World Vegan Month, which The Vegan Society says is celebrated every November."
-  - "The first World Vegan Day was held on 1 November 1994 for the society's 50th anniversary, so 2026 is the 33rd."
+  - "World Vegan Day was Sunday, Nov. 1, 2026, and opened World Vegan Month, which The Vegan Society says is celebrated every November."
+  - "The first World Vegan Day was held on 1 November 1994 for the society's 50th anniversary, so 2026 was the 33rd."
   - "The society says its founders coined the word 'vegan' in November 1944; it turns 82 in November 2026."
   - "Our free printable lays out World Vegan Month, Nov. 1-30, in four weekly plans."
 faq:
   - q: "When is World Vegan Day in 2026?"
-    a: "Sunday, Nov. 1, 2026. The date is fixed at Nov. 1, so the weekday changes each year."
+    a: "Sunday, Nov. 1, 2026, which has passed. The date is fixed at Nov. 1, so the weekday changes each year."
   - q: "Is World Vegan Day a day off?"
     a: "It is an awareness day. We found no source that makes it a day off."
   - q: "How long is World Vegan Month?"
@@ -96,11 +96,11 @@ downloads:
 draft: false
 ---
 
-**World Vegan Day is today, Sunday, Nov. 1, 2026, and it opens World Vegan Month,** according to The Vegan Society, the UK charity whose founders coined the word "vegan." Below are the weekdays of World Vegan Day through 2030, a short timeline of how the day began, and a free one-page planner for the 30 days of November.
+**World Vegan Day was Sunday, Nov. 1, 2026, and it opened World Vegan Month,** according to The Vegan Society, the UK charity whose founders coined the word "vegan." Below are the weekdays of World Vegan Day through 2030, a short timeline of how the day began, and a free one-page planner for the 30 days of November.
 
 ## When is World Vegan Day in 2026?
 
-Sunday, Nov. 1, 2026. The Vegan Society says: "Every November, World Vegan Month is celebrated worldwide as a time to shine a light on the vegan movement." It is an awareness day, so schools and offices keep their own schedules. The month runs Nov. 1-30, which is 30 days with four full weekends (Nov. 7-8, 14-15, 21-22 and 28-29); Sunday, Nov. 1 and Monday, Nov. 30 sit on either side. Put it on the [November 2026 printable calendar](/november-calendars.html).
+Sunday, Nov. 1, 2026. The Vegan Society says: "Every November, World Vegan Month is celebrated worldwide as a time to shine a light on the vegan movement." It is an awareness day, so schools and offices keep their own schedules. The month runs Nov. 1-30, which is 30 days with four full weekends (Nov. 7-8, 14-15, 21-22 and 28-29); Sunday, Nov. 1 and Monday, Nov. 30 sit on either side. The [November 2026 printable calendar](/november-calendars.html) shows the whole month.
 
 ## How did World Vegan Day begin?
 

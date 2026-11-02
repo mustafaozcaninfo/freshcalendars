@@ -1,10 +1,10 @@
 ---
-title: "Early Voting 2026: Which States Are Voting Now?"
-seoTitle: "Early Voting 2026: Which States Are Voting Now?"
-description: "Early in-person voting is open now in most states ahead of Election Day, Tuesday, Nov. 3; dates and hours by state. Louisiana and Pennsylvania have ended."
+title: "Early Voting 2026: End Dates by State Before Election Day on Nov. 3"
+seoTitle: "Early Voting 2026: End Dates by State"
+description: "Early voting ended by Nov. 1 in the 11 states covered here, with dates and hours by state. Election Day is tomorrow, Tuesday, Nov. 3, 2026."
 type: news
 publishedAt: "2026-10-22T01:36:00-04:00"
-updatedAt: "2026-10-30T02:10:00-04:00"
+updatedAt: "2026-11-02T14:10:00-05:00"
 authors: [christina-gerland]
 category: elections
 keywords: ["early voting 2026", "which states have early voting", "early voting dates by state", "early voting now"]
@@ -12,24 +12,24 @@ dateline: "New York"
 hero:
   src: ../../../../assets/news/early-voting-2026-which-states-are-voting-now/early-voting-2026-which-states-are-voting-now.jpg
   alt: "Early voting 2026: which states are voting now, with a November 2026 calendar card marking Election Day on Nov. 3"
-  title: "Early voting 2026: which states are voting now"
-  caption: "Early in-person voting is open in many states ahead of Election Day on Tuesday, Nov. 3, 2026. Dates differ by state."
+  title: "Early voting 2026: end dates by state"
+  caption: "Early in-person voting ended in the states covered here by Sunday, Nov. 1, ahead of Election Day on Tuesday, Nov. 3, 2026. Dates differed by state."
 summary:
-  - "Early in-person voting is open now across the states in this guide, including Connecticut, Texas, Georgia, North Carolina, Michigan and New York; Michigan and New York run Oct. 24 to Sunday, Nov. 1."
-  - "End dates differ: Louisiana and Pennsylvania ended Tuesday, Oct. 27; Tennessee and Maryland end Thursday, Oct. 29; Texas, Georgia and Massachusetts end Friday, Oct. 30; North Carolina ends 3 p.m. Saturday, Oct. 31."
-  - "Hours and exact locations are set by counties or towns in most of these states, so check your local schedule before you go."
-  - "Election Day is Tuesday, Nov. 3, 2026. This guide covers selected states only and is not a complete list."
+  - "Early in-person voting has ended in the states in this guide: Connecticut, Texas, Georgia, North Carolina, Massachusetts, Tennessee, New Mexico, Maryland, Delaware, Michigan and New York. The last windows closed Sunday, Nov. 1."
+  - "End dates differed: Louisiana and Pennsylvania ended Tuesday, Oct. 27; Tennessee and Maryland Thursday, Oct. 29; Texas, Georgia and Massachusetts Friday, Oct. 30; North Carolina at 3 p.m. Saturday, Oct. 31."
+  - "The Center for Election Innovation & Research (CEIR) lists 14 states with early voting through the day before Election Day, Monday, Nov. 2; check your state election office for hours."
+  - "Election Day is tomorrow, Tuesday, Nov. 3, 2026. This guide covers selected states only and is not a complete list."
 faq:
-  - q: "Which states have early voting right now?"
-    a: "Among the states covered here, Connecticut, Texas, Georgia, North Carolina, Massachusetts, Tennessee, New Mexico, Maryland, Delaware, Michigan and New York are open. Many other states also offer it. This is not a full list."
+  - q: "Which states had early voting before Election Day 2026?"
+    a: "Among the states covered here, Connecticut, Texas, Georgia, North Carolina, Massachusetts, Tennessee, New Mexico, Maryland, Delaware, Michigan and New York, and all of those windows have ended. Many other states also offer it. This is not a full list."
   - q: "How many states offer early in-person voting?"
     a: "The Center for Election Innovation & Research (CEIR) says 47 states plus the District of Columbia offer early in-person voting in 2026. Most start in mid-October."
-  - q: "When does early voting end?"
-    a: "It depends on the state. CEIR lists end dates from Oct. 27 in Louisiana and Pennsylvania to the day before Election Day in 14 states."
+  - q: "When did early voting end?"
+    a: "It depends on the state. CEIR lists end dates from Oct. 27 in Louisiana and Pennsylvania to the day before Election Day, Monday, Nov. 2, in 14 states."
   - q: "Do I need an excuse to vote early?"
     a: "Not in Texas, where no excuse is needed. Rules differ elsewhere, so check your state election office."
   - q: "Can I vote early on Sunday?"
-    a: "In some places. Connecticut and Maryland are open every day of their periods. Delaware has no early voting on Sunday, Oct. 25, though it is open Sunday, Nov. 1."
+    a: "In some places. Connecticut and Maryland were open every day of their periods. Delaware had no early voting on Sunday, Oct. 25, though it was open Sunday, Nov. 1."
 sources:
   - title: "Governor Lamont and Secretary Thomas Remind Voters That a 14-Day Period of In-Person Early Voting"
     url: "https://portal.ct.gov/governor/news/press-releases/2026/10-2026/governor-lamont-and-secretary-thomas-remind-voters-that-a-14-day-period-of-in-person-early-voting"
@@ -117,9 +117,9 @@ downloads:
 draft: false
 ---
 
-<p class="callout"><b>Last updated Fri. Oct. 30, 2026, 2:10 a.m. ET.</b> Today, Friday, Oct. 30, is the last day of early in-person voting in Texas, Georgia and Massachusetts. North Carolina ends at 3 p.m. Saturday, Oct. 31; Connecticut, Michigan, New York and Delaware run through Sunday, Nov. 1. Maryland and Tennessee ended Thursday, Oct. 29, and Louisiana and Pennsylvania ended Tuesday, Oct. 27, according to the Center for Election Innovation & Research (CEIR). Election Day is Tuesday, Nov. 3.</p>
+<p class="callout"><b>Election Day is tomorrow, Tuesday, Nov. 3, 2026.</b> Texas, Georgia and Massachusetts ended early in-person voting on Friday, Oct. 30. North Carolina ended at 3 p.m. Saturday, Oct. 31; Connecticut, Michigan, New York and Delaware ended Sunday, Nov. 1. Maryland and Tennessee ended Thursday, Oct. 29, and Louisiana and Pennsylvania ended Tuesday, Oct. 27, according to the Center for Election Innovation & Research (CEIR).</p>
 
-**Early in-person voting is open now in most states ahead of Election Day on Tuesday, Nov. 3, 2026.** Connecticut, Texas, Georgia, North Carolina, Massachusetts, Tennessee, New Mexico, Maryland, Delaware, Michigan and New York are all voting now. This is a guide to selected states with confirmed dates, not a complete list. The Center for Election Innovation & Research (CEIR) says 47 states plus the District of Columbia offer early in-person voting in 2026, with end dates ranging from Oct. 27 in Louisiana and Pennsylvania to the day before Election Day in 14 states.
+**Early in-person voting has ended in the states covered in this guide, ahead of Election Day on Tuesday, Nov. 3, 2026.** Connecticut, Texas, Georgia, North Carolina, Massachusetts, Tennessee, New Mexico, Maryland, Delaware, Michigan and New York all closed their early voting windows by Sunday, Nov. 1. This is a guide to selected states with confirmed dates, not a complete list. The Center for Election Innovation & Research (CEIR) says 47 states plus the District of Columbia offer early in-person voting in 2026, with end dates ranging from Oct. 27 in Louisiana and Pennsylvania to the day before Election Day in 14 states.
 
 ## Early voting dates by state
 
@@ -145,11 +145,11 @@ draft: false
 
 Hours are local time. For Massachusetts and Tennessee, the official pages were not reachable by automated tools when we checked. The Massachusetts dates are from the Secretary of the Commonwealth as reported, so confirm with your town clerk. The Tennessee dates are from [a local news report from Oct. 14](https://www.wsmv.com/2026/10/14/election-2026-early-voting-tennessees-november-3-general-election-is-underway/); confirm your county schedule on the [Tennessee Secretary of State's elections page](https://sos.tn.gov/elections).
 
-## Ending this week
+## When early voting ended
 
-End dates are close together. CEIR lists Louisiana and Pennsylvania, which are not in the table above, as having ended early voting on Tuesday, Oct. 27. Among the states in this guide, the deadlines fall in this order:
+End dates were close together. CEIR lists Louisiana and Pennsylvania, which are not in the table above, as having ended early voting on Tuesday, Oct. 27. Among the states in this guide, the deadlines fall in this order:
 
-| Early voting ends | States in this guide |
+| Early voting ended | States in this guide |
 |---|---|
 | Thu., Oct. 29 | Tennessee, Maryland |
 | Fri., Oct. 30 | Texas, Georgia, Massachusetts |
@@ -162,12 +162,12 @@ Michigan and New York opened Saturday, Oct. 24, and have their own guide: [early
 
 ## When is Election Day 2026?
 
-Election Day is Tuesday, Nov. 3, 2026. Early voting is separate from voting by mail. If you plan to return a mail ballot, see the [mail ballot deadlines by state](/news/mail-ballot-deadlines-2026-by-state/). Wondering whether you get the day off? Read [is Election Day a holiday and what is open](/news/is-election-day-a-holiday-2026-whats-open/). Mark the dates on a [November 2026 printable calendar](/november-calendars.html), or use an [October 2026 calendar](/october-calendars.html) to plan the days left.
+Election Day is Tuesday, Nov. 3, 2026. Early voting is separate from voting by mail. If you plan to return a mail ballot, see the [mail ballot deadlines by state](/news/mail-ballot-deadlines-2026-by-state/). Wondering whether you get the day off? Read [is Election Day a holiday and what is open](/news/is-election-day-a-holiday-2026-whats-open/). Mark Nov. 3 on a [November 2026 printable calendar](/november-calendars.html), and see the [October 2026 calendar](/october-calendars.html) for the early voting weeks that just ended.
 
-## How to find your early-voting location
+## How to find your polling place
 
 1. **Start with your official state election website.** Use the voter lookup or polling place finder run by your state, such as Connecticut's Secretary of the State portal, VoteTexas.gov or the North Carolina State Board of Elections.
-2. **Confirm the county or municipality location and hours.** Many states let counties or towns set schedules, so the site near you may differ from one across the county line.
+2. **Confirm the county or municipality location and hours.** Your polling place can differ from one across the county line.
 3. **Check identification and eligibility rules.** Requirements differ by state. Look up what to bring and whether you are registered at your current address.
 4. **Recheck before you leave.** Hours can change, and some sites shorten days. Confirm the schedule the same day.
 

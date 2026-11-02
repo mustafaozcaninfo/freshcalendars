@@ -4,6 +4,7 @@ seoTitle: "FedEx Holiday Shipping Deadlines 2026 by Service"
 description: "FedEx's 2026 last ship dates for Christmas Eve delivery run from Dec. 15 (Ground Economy) to Dec. 23 (overnight); United Parcel Service (UPS) has none yet."
 type: news
 publishedAt: "2026-10-28T18:00:00-04:00"
+updatedAt: "2026-11-02T14:10:00-05:00"
 authors: [jessica-hartwell]
 category: retail-dates
 keywords: ["FedEx holiday shipping deadlines 2026", "UPS holiday shipping deadlines 2026", "last day to ship FedEx Christmas 2026", "UPS holiday surcharges 2026"]
@@ -47,7 +48,7 @@ summary:
   - "FedEx's recommended last ship dates for delivery by Thursday, Dec. 24, 2026 run from Dec. 15 (Ground Economy) to Dec. 23 (overnight services), with FedEx SameDay on Dec. 24."
   - "FedEx Ground and Home Delivery depends on transit time: Dec. 17 for 5-day, Dec. 18 for 4-day, Dec. 21 for 3-day, Dec. 22 for 2-day and Dec. 23 for 1-day."
   - "United Parcel Service (UPS) had not published its 2026 last days to ship as of Sept. 24, 2026; its schedule shows delivery on Dec. 24 and no regular pickup or delivery on Christmas Day."
-  - "UPS higher holiday surcharges start Sept. 27 and Oct. 25 and stay active through Jan. 16, 2027, according to Supply Chain Dive."
+  - "UPS higher holiday surcharges started Sept. 27 and Oct. 25 and stay active through Jan. 16, 2027, according to Supply Chain Dive."
 faq:
   - q: "What is the last day to ship with FedEx for Christmas 2026?"
     a: "For delivery by Thursday, Dec. 24, 2026, FedEx's table lists Wednesday, Dec. 23 for First Overnight, Priority Overnight, Standard Overnight and Extra Hours, and Thursday, Dec. 24 for FedEx SameDay, as reported by Value Added Resource."

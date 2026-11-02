@@ -4,6 +4,7 @@ seoTitle: "CFP Rankings 2026: Release Dates and Playoff Schedule"
 description: "The first College Football Playoff (CFP) rankings come out Tuesday, Nov. 3, 2026, at 7 p.m. Eastern Time (ET) on ESPN. Selection Day is Sunday, Dec. 6."
 type: news
 publishedAt: "2026-10-24T00:50:00-04:00"
+updatedAt: "2026-11-02T14:10:00-05:00"
 authors: [jessica-hartwell]
 category: sports
 keywords: ["CFP rankings 2026 schedule", "when do college football playoff rankings come out 2026", "first CFP rankings 2026", "CFP selection day 2026", "college football playoff schedule 2026"]
@@ -106,7 +107,7 @@ downloads:
 draft: false
 ---
 
-**The first College Football Playoff (CFP) rankings of 2026 come out Tuesday, Nov. 3, from 7 to 8 p.m. Eastern Time (ET) on ESPN**, according to the National Collegiate Athletic Association (NCAA) and its NCAA.com schedule. Five more rankings shows follow through December, ending with Selection Day on Sunday, Dec. 6, when the selection committee sets the 12-team bracket. Twelve teams make the field. The clock below counts down to the three dates most people are waiting for.
+**The first College Football Playoff (CFP) rankings of 2026 come out Tuesday, Nov. 3, from 7 to 8 p.m. Eastern Time (ET) on ESPN**, according to the National Collegiate Athletic Association (NCAA) and its NCAA.com schedule. Five more rankings shows follow through December, ending with Selection Day on Sunday, Dec. 6, when the selection committee sets the 12-team bracket. Twelve teams make the field. The clock below counts down to three key dates.
 
 ## Countdown to the CFP dates
 
@@ -125,16 +126,16 @@ The committee reveals its rankings six times. The first five land on Tuesday nig
 
 <p class="days-live" data-days-until="2026" hidden></p>
 
-| Date | Day | CFP rankings show | Time (Eastern) | Days from Oct. 24 |
+| Date | Day | CFP rankings show | Time (Eastern) | Days from Nov. 2 |
 |---|---|---|---|---|
-| Nov. 3 | Tuesday | First rankings | 7 to 8 p.m. | 10 |
-| Nov. 10 | Tuesday | Weekly rankings | 9 to 9:30 p.m. | 17 |
-| Nov. 17 | Tuesday | Weekly rankings | 9 to 9:30 p.m. | 24 |
-| Nov. 24 | Tuesday | Weekly rankings | 7:30 to 8 p.m. | 31 |
-| Dec. 1 | Tuesday | Weekly rankings | 7 to 7:30 p.m. | 38 |
-| Dec. 6 | Sunday | Selection Day: final rankings and bracket | Noon to 3 p.m. | 43 |
+| Nov. 3 | Tuesday | First rankings | 7 to 8 p.m. | 1 |
+| Nov. 10 | Tuesday | Weekly rankings | 9 to 9:30 p.m. | 8 |
+| Nov. 17 | Tuesday | Weekly rankings | 9 to 9:30 p.m. | 15 |
+| Nov. 24 | Tuesday | Weekly rankings | 7:30 to 8 p.m. | 22 |
+| Dec. 1 | Tuesday | Weekly rankings | 7 to 7:30 p.m. | 29 |
+| Dec. 6 | Sunday | Selection Day: final rankings and bracket | Noon to 3 p.m. | 34 |
 
-The first show carries the most suspense because it is the committee's opening look, which can differ from the polls. Last season the committee's first No. 1 was Ohio State, released Nov. 4, 2025, while Indiana ended up No. 1 on Selection Day, Dec. 7, 2025, according to NCAA.com.
+The first show is the committee's opening look, which can differ from the polls. Last season the committee's first No. 1 was Ohio State, released Nov. 4, 2025, while Indiana ended up No. 1 on Selection Day, Dec. 7, 2025, according to NCAA.com.
 
 ## How the 12-team field is chosen
 
@@ -150,22 +151,22 @@ Selection Day on Dec. 6 seeds the bracket. First-round games are played at the h
 
 <p class="days-live" data-days-until="2026" hidden></p>
 
-| Date | Day | Round | Site | Days from Oct. 24 |
+| Date | Day | Round | Site | Days from Nov. 2 |
 |---|---|---|---|---|
-| Dec. 18 | Friday | First round (8 p.m. ET, ESPN) | Campus sites | 55 |
-| Dec. 19 | Saturday | First round | Campus sites | 56 |
-| Dec. 30 | Wednesday | Fiesta Bowl quarterfinal | Glendale, Ariz. | 67 |
+| Dec. 18 | Friday | First round (8 p.m. ET, ESPN) | Campus sites | 46 |
+| Dec. 19 | Saturday | First round | Campus sites | 47 |
+| Dec. 30 | Wednesday | Fiesta Bowl quarterfinal | Glendale, Ariz. | 58 |
 
 ### January 2027 games
 
 <p class="days-live" data-days-until="2027" hidden></p>
 
-| Date | Day | Round | Site | Days from Oct. 24 |
+| Date | Day | Round | Site | Days from Nov. 2 |
 |---|---|---|---|---|
-| Jan. 1 | Friday | Peach, Cotton and Rose Bowl quarterfinals | Atlanta; Arlington, Texas; Pasadena | 69 |
-| Jan. 14 | Thursday | Orange Bowl semifinal | Miami Gardens, Fla. | 82 |
-| Jan. 15 | Friday | Sugar Bowl semifinal | New Orleans | 83 |
-| Jan. 25 | Monday | National championship (7:30 p.m. ET) | Las Vegas | 93 |
+| Jan. 1 | Friday | Peach, Cotton and Rose Bowl quarterfinals | Atlanta; Arlington, Texas; Pasadena | 60 |
+| Jan. 14 | Thursday | Orange Bowl semifinal | Miami Gardens, Fla. | 73 |
+| Jan. 15 | Friday | Sugar Bowl semifinal | New Orleans | 74 |
+| Jan. 25 | Monday | National championship (7:30 p.m. ET) | Las Vegas | 84 |
 
 The national championship is Monday, Jan. 25, 2027, at 7:30 p.m. Eastern Time at Allegiant Stadium in Las Vegas, on ABC and ESPN, according to ESPN and fbschedules.com. The quarterfinal and semifinal bowls listed here are the designated playoff sites; kickoff times for each game depend on the matchups set on Selection Day.
 

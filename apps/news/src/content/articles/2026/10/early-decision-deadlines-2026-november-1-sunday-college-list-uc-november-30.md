@@ -1,9 +1,10 @@
 ---
-title: "Early Decision Deadline 2026: Sunday, Nov. 1 at 10 Colleges, Monday, Nov. 2 at Duke"
-seoTitle: "Early Decision Deadline 2026: Nov. 1 and Nov. 2"
-description: "Early Decision (ED) and Early Action (EA) deadlines are Sunday, Nov. 1, 2026 at 10 colleges. Duke is Nov. 2; the University of California (UC) is Nov. 1-30."
+title: "Early Decision Deadline 2026: Nov. 1 at 10 Colleges Has Passed, Duke Is Monday, Nov. 2"
+seoTitle: "Early Decision Deadline 2026: Nov. 1, Nov. 2, UC"
+description: "Early Decision (ED) and Early Action (EA) deadlines were Sunday, Nov. 1, 2026 at 10 colleges. Duke's is Nov. 2; the University of California (UC) is Nov. 1-30."
 type: news
 publishedAt: "2026-10-29T23:50:00-04:00"
+updatedAt: "2026-11-02T14:10:00-05:00"
 authors: [aaron-kessler]
 category: school-calendars
 keywords: ["early decision deadline 2026", "early action deadline November 1 2026", "college application deadlines November 1", "UC application deadline 2026"]
@@ -20,13 +21,13 @@ hero:
     author: "Nina R from Africa"
     authorUrl: "https://www.flickr.com/people/150102727@N06"
 summary:
-  - "Sunday, Nov. 1, 2026 is the early deadline at Harvard, Yale, MIT, Penn, Brown, Cornell, Johns Hopkins, Rice, Vanderbilt and Georgetown."
-  - "Duke's Early Decision deadline is Monday, Nov. 2, not Nov. 1, on its 2026-2027 checklist."
+  - "Sunday, Nov. 1, 2026 was the early deadline at Harvard, Yale, MIT, Penn, Brown, Cornell, Johns Hopkins, Rice, Vanderbilt and Georgetown."
+  - "Duke's Early Decision deadline is Monday, Nov. 2 (today), not Nov. 1, on its 2026-2027 checklist."
   - "The University of California (UC) filing period for fall 2027 runs Nov. 1 to 30, with decisions in March."
-  - "U.S. clocks fall back at 2 a.m. on Nov. 1, so an 11:59 p.m. deadline that night is in standard time."
+  - "U.S. clocks fell back at 2 a.m. on Nov. 1, so an 11:59 p.m. deadline that night was in standard time."
 faq:
   - q: "What is the early decision deadline in 2026?"
-    a: "Sunday, Nov. 1, 2026 at Penn, Brown, Cornell, Johns Hopkins, Rice and Vanderbilt, according to each college. Duke's Early Decision deadline is Monday, Nov. 2. Harvard, Yale, MIT and Georgetown use Early Action plans with Nov. 1 deadlines."
+    a: "Sunday, Nov. 1, 2026 at Penn, Brown, Cornell, Johns Hopkins, Rice and Vanderbilt, according to each college, so that date has passed. Duke's Early Decision deadline is Monday, Nov. 2, today. Harvard, Yale, MIT and Georgetown use Early Action plans with Nov. 1 deadlines."
   - q: "Is the Nov. 1 deadline Eastern Time?"
     a: "Only some colleges say. Harvard and Brown state 11:59 p.m. in the applicant's local time. The other pages we checked do not state a time zone, so confirm the time on the college's own site."
   - q: "Does Georgetown have Early Decision?"
@@ -34,7 +35,7 @@ faq:
   - q: "When is the UC application deadline for fall 2027?"
     a: "The filing period is Nov. 1 to 30, 2026, according to UC Admissions. The application opened Aug. 1, and decisions come in March."
   - q: "Do the clocks change on the deadline night?"
-    a: "Yes. Daylight Saving Time (DST) ends at 2 a.m. Sunday, Nov. 1, 2026, and clocks fall back one hour. For a deadline in Eastern Time (ET) nothing changes, but check the clock on your device."
+    a: "Yes. Daylight Saving Time (DST) ended at 2 a.m. Sunday, Nov. 1, 2026, and clocks fell back one hour. For a deadline in Eastern Time (ET) nothing changed, but check the clock on your device."
 sources:
   - title: "First-Year Applicants - Harvard College"
     url: "https://college.harvard.edu/admissions/apply/first-year-applicants"
@@ -142,11 +143,11 @@ assets:
 draft: false
 ---
 
-**Sunday, Nov. 1, 2026, is the Early Decision (ED) and Early Action (EA) deadline at 10 of the 12 schools below, according to each admissions office.** Duke is the exception at Monday, Nov. 2, and the University of California (UC) takes applications for the whole month. The deadline night is also when U.S. clocks fall back one hour at 2 a.m.
+**Sunday, Nov. 1, 2026, was the Early Decision (ED) and Early Action (EA) deadline at 10 of the 12 schools below, according to each admissions office.** Duke is the exception at Monday, Nov. 2 (today), and the University of California (UC) takes applications for the whole month. U.S. clocks also fell back one hour at 2 a.m. on Nov. 1.
 
 All dates come from each college's own admissions page, checked Oct. 30, 2026.
 
-## Which colleges have a Nov. 1 early deadline?
+## Which colleges had a Nov. 1 early deadline?
 
 | College | Early plan | Early deadline | Early decision release | Regular deadline |
 |---|---|---|---|---|
@@ -167,7 +168,7 @@ Regular Decision (RD) is Massachusetts Institute of Technology (MIT)'s "Regular 
 
 ## Why is Duke's deadline Nov. 2?
 
-Duke's Early Decision deadline is Monday, Nov. 2, not Nov. 1, on its checklist page, which says the dates "represent the 2026-2027 admission cycle deadlines." Duke's Regular Decision deadline is Monday, Jan. 4, 2027. A student who plans around "Nov. 1 everywhere" gets one extra day at Duke, so check the date before relying on it.
+Duke's Early Decision deadline is Monday, Nov. 2, not Nov. 1, on its checklist page, which says the dates "represent the 2026-2027 admission cycle deadlines." Duke's Regular Decision deadline is Monday, Jan. 4, 2027. A student who planned around "Nov. 1 everywhere" has one extra day at Duke, which ends today, so check the time on its site.
 
 ## Which later rounds and release dates matter?
 
@@ -185,14 +186,14 @@ No. Georgetown offers Early Action only. Its site says, "Early Action applicants
 
 UC Admissions lists "November 1 - 30: Fall 2027 admission application filing period" on its 2026-27 dates page. The application opened Aug. 1, decisions come in March, and the Statement of Intent to Register (SIR) is due May 1. Nov. 30 is a Monday.
 
-## Do the clocks change on deadline night?
+## Did the clocks change on deadline night?
 
-Yes. Daylight Saving Time (DST) ends at 2 a.m. on Sunday, Nov. 1, 2026, and clocks fall back one hour, so an 11:59 p.m. deadline that night is in standard time. For a student whose deadline is in Eastern Time (ET), nothing changes. Check the clock on your device and the time the portal shows. See [when daylight saving time ends in 2026](/news/daylight-saving-time-ends-november-1-2026/).
+Yes. Daylight Saving Time (DST) ended at 2 a.m. on Sunday, Nov. 1, 2026, and clocks fell back one hour, so an 11:59 p.m. deadline that night was in standard time. For a student whose deadline is in Eastern Time (ET), nothing changed. Check the clock on your device and the time the portal shows. See [when daylight saving time ends in 2026](/news/daylight-saving-time-ends-november-1-2026/).
 
 ## What could not be confirmed?
 
 We could not check the admissions sites of Princeton, Columbia, Northwestern, Michigan, New York University (NYU), University of Virginia (UVA), Dartmouth, UChicago and Stanford, or the California State University dates, so no dates for them appear here. Confirm those on each college's site.
 
-## Plan the week
+## What comes after the early deadlines?
 
 Test dates and aid forms sit alongside these deadlines. See the [SAT and ACT test dates for 2026-27](/news/sat-act-test-dates-2026-27-registration-deadlines/) and the [Free Application for Federal Student Aid (FAFSA) 2027-28 deadlines](/news/fafsa-2027-28-open-now-deadlines-tax-year/). Mark the days on our [November 2026 printable calendar](/november-calendars.html) or the [printable school calendar](/printable-school-calendar.html), and print the one-page tracker below.

@@ -4,6 +4,7 @@ seoTitle: "Moon Phases 2027: Full Moon Calendar and Dates"
 description: "Every full moon of 2027 with dates, U.S. times and names, plus new moons, eclipses and the Harvest Moon on Sept. 15. Four free moon phase printables."
 type: explainer
 publishedAt: "2026-10-18T11:50:00-04:00"
+updatedAt: "2026-11-02T14:10:00-05:00"
 authors: [jessica-hartwell]
 category: sky-events
 keywords: ["moon phases 2027", "full moon calendar 2027", "full moon dates 2027", "moon calendar 2027", "Harvest Moon 2027"]
@@ -20,7 +21,7 @@ summary:
   - "Four free printables: a one-page moon phase calendar, a full moon list, 12 monthly moon calendars and a table of every phase."
 faq:
   - q: "When is the next full moon?"
-    a: "The next full moon is the Hunter's Moon at 12:12 a.m. EDT on Monday, Oct. 26, 2026, so it is full on the night of Oct. 25. Then come the Beaver Moon on Tuesday, Nov. 24 (9:53 a.m. EST) and the Cold Moon on Wednesday, Dec. 23 (8:28 p.m. EST). The first full moon of 2027 is the Wolf Moon on Friday, Jan. 22."
+    a: "The next full moon is the Beaver Moon at 9:53 a.m. EST on Tuesday, Nov. 24, 2026. The last one was the Hunter's Moon at 12:12 a.m. EDT on Monday, Oct. 26. After November comes the Cold Moon on Wednesday, Dec. 23 (8:28 p.m. EST). The first full moon of 2027 is the Wolf Moon on Friday, Jan. 22."
   - q: "How many full moons are there in 2027?"
     a: "Twelve, one in every month. Because no month has two full moons, there is no blue moon in 2027."
   - q: "When is the Harvest Moon in 2027?"

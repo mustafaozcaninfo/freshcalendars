@@ -4,6 +4,7 @@ seoTitle: "College Football Week 11 Schedule 2026: Times, TV"
 description: "College football Saturday, Nov. 7, 2026: Miami at Notre Dame is at 7:30 p.m. Eastern Time (ET) on NBC, per ESPN. Game times, TV and a pick'em sheet."
 type: news
 publishedAt: "2026-11-01T01:22:00-05:00"
+updatedAt: "2026-11-02T14:10:00-05:00"
 authors: [jessica-hartwell]
 category: sports
 keywords: ["college football week 11 schedule 2026", "college football games Nov 7 2026", "Miami Notre Dame time", "college football TV schedule Saturday"]
@@ -115,7 +116,7 @@ draft: false
 
 ## What is the college football schedule for Saturday, Nov. 7, 2026?
 
-Rankings are the Associated Press (AP) Top 25 of Oct. 25, 2026, as shown on ESPN; a new AP poll is due Sunday afternoon, Nov. 1, so ranks can change. Times are ET from ESPN's schedule, which was checked on Nov. 1. FBSchedules' TV selections for Nov. 7 agree where ESPN has a time, and add a likely time and channel for three games ESPN has not set. The American Broadcasting Company (ABC), CBS, NBC, FOX, ESPN, Turner Network Television (TNT), USA Network, Big Ten Network (BTN), Atlantic Coast Conference (ACC) Network and Southeastern Conference (SEC) Network carry them.
+Rankings are the Associated Press (AP) Top 25 of Oct. 25, 2026, as shown on ESPN; a newer AP poll was due Sunday, Nov. 1, so current ranks may differ from the ones here. Times are ET from ESPN's schedule, which was checked on Nov. 1. FBSchedules' TV selections for Nov. 7 agree where ESPN has a time, and add a likely time and channel for three games ESPN has not set. The American Broadcasting Company (ABC), CBS, NBC, FOX, ESPN, Turner Network Television (TNT), USA Network, Big Ten Network (BTN), Atlantic Coast Conference (ACC) Network and Southeastern Conference (SEC) Network carry them.
 
 | Kickoff (ET) | TV | Game (Oct. 25 rank) | Stadium |
 |---|---|---|---|

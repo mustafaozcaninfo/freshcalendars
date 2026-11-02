@@ -4,7 +4,7 @@ seoTitle: "Toray Pan Pacific Open 2026: Shnaider Wins Tokyo"
 description: "Diana Shnaider beat Leylah Fernandez 6-4, 5-7, 6-2 to win the 2026 Toray Pan Pacific Open in Tokyo, the Women's Tennis Association (WTA) says. See results."
 type: news
 publishedAt: "2026-10-29T04:02:00-04:00"
-updatedAt: "2026-11-01T10:31:00-05:00"
+updatedAt: "2026-11-02T14:10:00-05:00"
 authors: [jessica-hartwell]
 category: sports
 keywords: ["toray pan pacific open 2026 schedule", "tokyo wta 2026 final time", "naomi osaka tokyo next match time", "pan pacific open order of play"]
@@ -21,10 +21,10 @@ hero:
     author: "江戸村のとくぞう"
     authorUrl: "https://commons.wikimedia.org/wiki/User:%E6%B1%9F%E6%88%B8%E6%9D%91%E3%81%AE%E3%81%A8%E3%81%8F%E3%81%9E%E3%81%86"
 summary:
-  - "Diana Shnaider beat Leylah Fernandez 6-4, 5-7, 6-2 in the Toray Pan Pacific Open final in Tokyo on Sunday, Nov. 1, 2026, the Women's Tennis Association (WTA) says. It is her sixth career title and her first of the 2026 season."
+  - "Diana Shnaider beat Leylah Fernandez 6-4, 5-7, 6-2 in the Toray Pan Pacific Open final in Tokyo on Sunday, Nov. 1, 2026, the Women's Tennis Association (WTA) says. It was her sixth career title and her first of the 2026 season."
   - "In the semifinals on Saturday, Oct. 31, Fernandez beat lucky loser Kamilla Rakhimova 7-5, 6-3 and seed 3 Shnaider beat wild card Mia Pohankova 6-4, 7-6(9), per the WTA draw sheet."
   - "Top seed Elena Rybakina had withdrawn from her quarterfinal with a neck injury, giving Fernandez a walkover; Pohankova had beaten Naomi Osaka 6-3, 7-5 in the round of 16."
-  - "U.S. clocks fell back at 2 a.m. on Nov. 1, so Tokyo is now 14 hours ahead of Eastern Time (ET)."
+  - "U.S. clocks fell back at 2 a.m. on Nov. 1, so Tokyo is 14 hours ahead of Eastern Time (ET)."
 faq:
   - q: "Who won the Toray Pan Pacific Open 2026 final?"
     a: "Diana Shnaider. The seed 3 beat Leylah Fernandez 6-4, 5-7, 6-2 in the final in Tokyo on Sunday, Nov. 1, 2026, for her sixth career title and her first of the season, according to the WTA."
@@ -96,14 +96,14 @@ assets:
       - ["Fri., Oct. 30 · Quarterfinal", "Shnaider d. Eala 2-6, 7-6(5), 6-4"]
       - ["Sat., Oct. 31 · Semifinal", "Fernandez v Rakhimova, 12 p.m. JST (11 p.m. EDT Fri., Oct. 30). Winner: ________"]
       - ["Sat., Oct. 31 · Semifinal", "Shnaider v Pohankova, followed by (no set time). Winner: ________"]
-      - ["Sun., Nov. 1 · Final", "Start not announced. Champion: ________ Score: ________"]
+      - ["Sun., Nov. 1 · Final", "Shnaider d. Fernandez 6-4, 5-7, 6-2"]
     note: "Source: Women's Tennis Association (WTA) order of play and singles draw released Oct. 30, 2026. Eastern times are our conversion. Matches may be moved."
     description: "A one-page Tokyo 2026 Toray Pan Pacific Open tracker with each remaining day, Japan and U.S. Eastern times, and blank lines for the winners."
     alt: "Tokyo 2026 Toray Pan Pacific Open schedule and results tracker with blank winner lines"
 draft: false
 ---
 
-**Diana Shnaider won the Toray Pan Pacific Open in Tokyo, beating Leylah Fernandez 6-4, 5-7, 6-2 in the final on Sunday, Nov. 1, 2026, according to the Women's Tennis Association (WTA).** It is the seed 3's sixth career title and her first of the 2026 season. Fernandez reached the final with a 7-5, 6-3 win over lucky loser Kamilla Rakhimova, and Shnaider beat wild card Mia Pohankova 6-4, 7-6(9) in the Saturday, Oct. 31 semifinals. The WTA 500 tournament ran Oct. 26 to Nov. 1 on outdoor hard courts at Ariake Coliseum. Times on the WTA order of play were Japan Standard Time (JST), which was 14 hours ahead of Eastern Time (ET) after U.S. clocks fell back on Nov. 1.
+**Diana Shnaider won the Toray Pan Pacific Open in Tokyo, beating Leylah Fernandez 6-4, 5-7, 6-2 in the final on Sunday, Nov. 1, 2026, according to the Women's Tennis Association (WTA).** It was the seed 3's sixth career title and her first of the 2026 season. Fernandez reached the final with a 7-5, 6-3 win over lucky loser Kamilla Rakhimova, and Shnaider beat wild card Mia Pohankova 6-4, 7-6(9) in the Saturday, Oct. 31 semifinals. The WTA 500 tournament ran Oct. 26 to Nov. 1 on outdoor hard courts at Ariake Coliseum. Times on the WTA order of play were Japan Standard Time (JST), which was 14 hours ahead of Eastern Time (ET) after U.S. clocks fell back on Nov. 1.
 
 ## What is the Toray Pan Pacific Open 2026 schedule?
 
@@ -145,7 +145,7 @@ Osaka, seeded seventh, beat Jasmine Paolini 6-3, 7-6(4) in the first round. In t
 
 ## Who won the Toray Pan Pacific Open 2026 final?
 
-Diana Shnaider won the Tokyo title, beating Leylah Fernandez 6-4, 5-7, 6-2 in the final on Sunday, Nov. 1, according to the WTA. It is her sixth career title and her first of the 2026 season. Fernandez was the runner-up.
+Diana Shnaider won the Tokyo title, beating Leylah Fernandez 6-4, 5-7, 6-2 in the final on Sunday, Nov. 1, according to the WTA. It was her sixth career title and her first of the 2026 season. Fernandez was the runner-up.
 
 The final was played after U.S. clocks fell back. JST is Coordinated Universal Time (UTC) plus 9 hours all year. Eastern Time changed from UTC minus 4 hours (Eastern Daylight Time, EDT) to UTC minus 5 hours (Eastern Standard Time, EST) at 2 a.m. on Sunday, Nov. 1, according to the National Institute of Standards and Technology (NIST), which says daylight saving time in 2026 ended Nov. 1 at 2 a.m. local time. That left Tokyo 14 hours ahead of Eastern Time. For the change itself, see our [daylight saving time ends Nov. 1, 2026](/news/daylight-saving-time-ends-november-1-2026/) story.
 

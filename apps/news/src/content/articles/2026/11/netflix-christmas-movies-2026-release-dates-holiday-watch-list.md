@@ -4,6 +4,7 @@ seoTitle: "Netflix Christmas Movies 2026: Release Dates"
 description: "Netflix's Oct. 31 list dates 32 holiday titles from Nov. 1 to 28, 2026, and Tudum lists In a Holidaze for Dec. 2. See each date and print the watch list."
 type: news
 publishedAt: "2026-11-01T10:45:00-05:00"
+updatedAt: "2026-11-02T14:10:00-05:00"
 authors: [jessica-hartwell]
 category: entertainment
 keywords: ["netflix christmas movies 2026", "new netflix holiday movies 2026", "netflix christmas movies release dates", "in a holidaze netflix release date", "gospel of christmas netflix release date"]
@@ -125,7 +126,7 @@ draft: false
 
 **Netflix's "New on Netflix in November 2026" list, published Oct. 31, 2026 on Netflix Tudum, dates 32 holiday titles between Sunday, Nov. 1 and Saturday, Nov. 28, and Netflix's fall movie page lists "In a Holiday... In a Holidaze" for Wednesday, Dec. 2.** The table below groups every one by week, and a free printable watch list follows it.
 
-Seven titles were dated for today, Nov. 1, and three more for Tuesday, Nov. 3, so the list is front-loaded. Netflix's own pick for original holiday movies is short: Tudum says to add "A Dog's Perfect Christmas, The Gospel of Christmas, and Guarding Stars to your watchlist."
+Seven titles were dated Sunday, Nov. 1, and three more are dated Tuesday, Nov. 3, so the list is front-loaded. Netflix's own pick for original holiday movies is short: Tudum says to add "A Dog's Perfect Christmas, The Gospel of Christmas, and Guarding Stars to your watchlist."
 
 ## Netflix holiday titles by date, November and December 2026
 

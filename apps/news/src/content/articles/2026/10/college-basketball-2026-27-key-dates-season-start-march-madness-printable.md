@@ -1,9 +1,10 @@
 ---
 title: "College Basketball 2026-27 Key Dates: Season Start, Selection Sunday, March Madness and Both Final Fours"
 seoTitle: "College Basketball 2026-27 Key Dates and Printable"
-description: "The 2026-27 college basketball season opens Sun., Nov. 1, 2026 in Rome; the National Collegiate Athletic Association (NCAA) title games are Apr. 4 and 5, 2027."
+description: "The 2026-27 college basketball season opened Sun., Nov. 1, 2026 in Rome; the National Collegiate Athletic Association (NCAA) title games are Apr. 4 and 5, 2027."
 type: explainer
 publishedAt: "2026-10-27T17:45:00-04:00"
+updatedAt: "2026-11-02T14:10:00-05:00"
 authors: [jessica-hartwell]
 category: sports
 keywords: ["when does college basketball start 2026", "college basketball season start date", "march madness 2027 dates", "2027 final four dates", "selection sunday 2027"]
@@ -11,7 +12,7 @@ dateline: "New York"
 assets:
   scene: sports
   overlay: true
-  kicker: "College Basketball · Opens Sun., Nov. 1, 2026"
+  kicker: "College Basketball · Opened Sun., Nov. 1, 2026"
   date: "2026-11-01"
   card: { top: "Men's final at Ford Field", big: "Mon., Apr. 5, 2027", bottom: "Selection Sunday is Mar. 14" }
   printable:
@@ -47,7 +48,7 @@ assets:
 hero:
   src: ../../../../assets/news/college-basketball-2026-27-key-dates-season-start-march-madness-printable/college-basketball-2026-27-key-dates-season-start-march-madness-printable.webp
   alt: "A full arena watches a basketball game, illustrating college basketball 2026-27 key dates"
-  caption: "File photo: a basketball game at the former Continental Airlines Arena in East Rutherford, N.J. The 2026-27 college season opens Nov. 1."
+  caption: "File photo: a basketball game at the former Continental Airlines Arena in East Rutherford, N.J. The 2026-27 college season opened Nov. 1."
   credit: "Photo: Firmtread24 at English Wikipedia / Wikimedia Commons, cropped, edited"
   license:
     name: "Public domain"
@@ -55,12 +56,12 @@ hero:
     source: "https://commons.wikimedia.org/wiki/File:Continental_arena_006.jpg"
     author: "Firmtread24 at English Wikipedia"
 summary:
-  - "The 2026-27 college basketball season opens Sun., Nov. 1, 2026 with Notre Dame v Villanova in Rome at 9:30 a.m. Eastern Time (ET), according to NCAA.com."
+  - "The 2026-27 college basketball season opened Sun., Nov. 1, 2026 with Notre Dame v Villanova in Rome at 9:30 a.m. Eastern Time (ET), according to NCAA.com."
   - "Selection Sunday is Mar. 14, 2027 for both the men's and women's tournaments, the first with 76 teams."
   - "The women's Final Four is Fri., Apr. 2 and the title game Sun., Apr. 4 in Columbus; the men's Final Four is Sat., Apr. 3 and the title game Mon., Apr. 5 in Detroit."
 faq:
   - q: "When does college basketball start in 2026?"
-    a: "NCAA.com says the first game is Sun., Nov. 1, 2026, Notre Dame against Villanova in Rome. Monday, Nov. 2 is the first day the National Collegiate Athletic Association (NCAA) rule allows for other schools."
+    a: "NCAA.com says the first game was Sun., Nov. 1, 2026, Notre Dame against Villanova in Rome. Monday, Nov. 2 is the first day the National Collegiate Athletic Association (NCAA) rule allows for other schools."
   - q: "When is Selection Sunday 2027?"
     a: "Sun., Mar. 14, 2027, for both the men's and women's NCAA tournaments, according to NCAA.com."
   - q: "When is the 2027 men's Final Four?"
@@ -118,35 +119,35 @@ downloads:
 draft: false
 ---
 
-**The 2026-27 college basketball season opens on Sunday, Nov. 1, 2026, with Notre Dame against Villanova at 9:30 a.m. Eastern Time (ET) in Rome, and it ends with the men's championship game on Monday, Apr. 5, 2027, according to NCAA.com.** Selection Sunday for the National Collegiate Athletic Association (NCAA) tournaments is Mar. 14, 2027.
+**The 2026-27 college basketball season opened on Sunday, Nov. 1, 2026, with Notre Dame against Villanova at 9:30 a.m. Eastern Time (ET) in Rome, and it ends with the men's championship game on Monday, Apr. 5, 2027, according to NCAA.com.** Selection Sunday for the National Collegiate Athletic Association (NCAA) tournaments is Mar. 14, 2027.
 
-This page puts the season start and every March Madness round into one table, men's and women's side by side, with the days left from today, Oct. 27, 2026. A one-page printable of the same dates is below the table.
+This page puts the season start and every March Madness round into one table, men's and women's side by side, with the days left from today, Nov. 2, 2026. A one-page printable of the same dates is below the table.
 
 ## What are the college basketball 2026-27 key dates?
 
-The table uses the dates NCAA.com lists for the men's and women's 2027 tournaments. The weekdays and the day counts are our own calculation, counted from Tuesday, Oct. 27, 2026 to the first date in each cell.
+The table uses the dates NCAA.com lists for the men's and women's 2027 tournaments. The weekdays and the day counts are our own calculation, counted from Monday, Nov. 2, 2026 to the first date in each cell.
 
-| Stage | Men's | Women's | Days from Oct. 27 (men's / women's) |
+| Stage | Men's | Women's | Days from Nov. 2 (men's / women's) |
 |---|---|---|---|
-| Season opener | Sun., Nov. 1, 9:30 a.m. ET, Rome | Sun., Nov. 1, after the men's game, Rome | 5 / 5 |
-| Selection Sunday | Sun., Mar. 14 | Sun., Mar. 14 | 138 / 138 |
-| Opening Round (12 games) | Tue., Mar. 16 and Wed., Mar. 17 | Wed., Mar. 17 and Thu., Mar. 18 | 140 / 141 |
-| First Round (32 games) | Thu., Mar. 18 and Fri., Mar. 19 | Fri., Mar. 19 and Sat., Mar. 20 | 142 / 143 |
-| Second Round (16 games) | Sat., Mar. 20 and Sun., Mar. 21 | Sun., Mar. 21 and Mon., Mar. 22 | 144 / 145 |
-| Sweet 16 (eight games) | Thu., Mar. 25 and Fri., Mar. 26 | Fri., Mar. 26 and Sat., Mar. 27 | 149 / 150 |
-| Elite Eight (four games) | Sat., Mar. 27 and Sun., Mar. 28 | Sun., Mar. 28 and Mon., Mar. 29 | 151 / 152 |
-| Final Four | Sat., Apr. 3, Ford Field, Detroit | Fri., Apr. 2, Nationwide Arena, Columbus, Ohio | 158 / 157 |
-| Championship game | Mon., Apr. 5, Detroit | Sun., Apr. 4, Columbus | 160 / 159 |
+| Season opener | Sun., Nov. 1, 9:30 a.m. ET, Rome | Sun., Nov. 1, after the men's game, Rome | Played Nov. 1 / Played Nov. 1 |
+| Selection Sunday | Sun., Mar. 14 | Sun., Mar. 14 | 132 / 132 |
+| Opening Round (12 games) | Tue., Mar. 16 and Wed., Mar. 17 | Wed., Mar. 17 and Thu., Mar. 18 | 134 / 135 |
+| First Round (32 games) | Thu., Mar. 18 and Fri., Mar. 19 | Fri., Mar. 19 and Sat., Mar. 20 | 136 / 137 |
+| Second Round (16 games) | Sat., Mar. 20 and Sun., Mar. 21 | Sun., Mar. 21 and Mon., Mar. 22 | 138 / 139 |
+| Sweet 16 (eight games) | Thu., Mar. 25 and Fri., Mar. 26 | Fri., Mar. 26 and Sat., Mar. 27 | 143 / 144 |
+| Elite Eight (four games) | Sat., Mar. 27 and Sun., Mar. 28 | Sun., Mar. 28 and Mon., Mar. 29 | 145 / 146 |
+| Final Four | Sat., Apr. 3, Ford Field, Detroit | Fri., Apr. 2, Nationwide Arena, Columbus, Ohio | 152 / 151 |
+| Championship game | Mon., Apr. 5, Detroit | Sun., Apr. 4, Columbus | 154 / 153 |
 
 The 2027 tournaments are the first with 76 teams, up from 68, NCAA.com says. That adds a 12-game Opening Round before the 64-team First Round. Women's early rounds are at campus sites.
 
 ## When does college basketball start in 2026?
 
-NCAA.com says the first game is at 9:30 a.m. ET on Sunday, Nov. 1, when Notre Dame plays Villanova at the Palazzetto dello Sport in Rome, Italy. NCAA.com says the women's teams play after the men's game in a double-header. Games continue on Monday, Nov. 2.
+NCAA.com says the first game was at 9:30 a.m. ET on Sunday, Nov. 1, when Notre Dame played Villanova at the Palazzetto dello Sport in Rome, Italy. NCAA.com says the women's teams played after the men's game in a double-header. Games continue on Monday, Nov. 2.
 
 Monday is the usual first day under a rule the NCAA approved in 2024. The NCAA said then that "the new rules permit schools to begin playing their first regular-season contest on the Monday." The Rome doubleheader is the noted exception.
 
-On Nov. 2, NCAA.com lists the "Field of 68," a season tipoff event of eight games that starts at midnight ET Monday, with games streaming on the event's YouTube channel and on X. The first is High Point against Liberty in Rock Hill, S.C.
+On Nov. 2, NCAA.com lists the "Field of 68," a season tipoff event of eight games that started at midnight ET Monday, with games streaming on the event's YouTube channel and on X. The first was High Point against Liberty in Rock Hill, S.C.
 
 ## What early-season events are scheduled in November?
 

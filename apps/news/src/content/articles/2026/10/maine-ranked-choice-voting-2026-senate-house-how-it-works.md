@@ -1,7 +1,7 @@
 ---
 title: "Maine Ranked Choice Voting 2026: How the U.S. Senate Ballot Works and the Oct. 29 Absentee Deadline"
 seoTitle: "Maine Ranked Choice Voting 2026: Senate and House"
-description: "Maine's Nov. 3, 2026 U.S. Senate and U.S. House races use ranked-choice voting (RCV) under state law. Absentee requests are due Oct. 29; ballots by 8 p.m."
+description: "Maine's Nov. 3, 2026 U.S. Senate and U.S. House races use ranked-choice voting (RCV) under state law. Absentee requests were due Oct. 29; ballots by 8 p.m."
 type: explainer
 publishedAt: "2026-10-24T17:00:00-04:00"
 updatedAt: "2026-11-01T02:41:00-05:00"

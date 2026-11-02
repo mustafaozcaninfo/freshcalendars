@@ -1,9 +1,10 @@
 ---
 title: "North Carolina Sample Ballot 2026: How to See Yours, the Senate and Court Races and Three Amendments"
 seoTitle: "NC Sample Ballot 2026: Senate, Courts and 3 Amendments"
-description: "Find your North Carolina sample ballot for Nov. 3, 2026 with Voter Search, plus the U.S. Senate and court candidates, three amendments and early voting dates."
+description: "Find your North Carolina sample ballot for Nov. 3, 2026 with Voter Search, plus the U.S. Senate and court candidates, three amendments and key dates."
 type: news
 publishedAt: "2026-10-22T14:13:00-04:00"
+updatedAt: "2026-11-02T14:10:00-05:00"
 authors: [christina-gerland]
 category: elections
 keywords: ["North Carolina sample ballot 2026", "NC constitutional amendments 2026", "North Carolina Senate race 2026", "NC early voting 2026", "sample ballot by zip code North Carolina"]
@@ -21,7 +22,7 @@ hero:
 summary:
   - "North Carolina's statewide ballot on Nov. 3, 2026 has an open U.S. Senate seat, one Supreme Court seat, three Court of Appeals seats and three constitutional amendments."
   - "The Senate candidates are Michael Dublin (Green), Roy Cooper (Democrat), Shannon W. Bray (Libertarian) and Michael Whatley (Republican)."
-  - "See your ballot with the State Board of Elections Voter Search. Early voting with same-day registration runs through 3 p.m. Saturday, Oct. 31."
+  - "See your ballot with the State Board of Elections Voter Search. Early voting with same-day registration ended at 3 p.m. Saturday, Oct. 31."
   - "Polls are open 6:30 a.m. to 7:30 p.m., and voters may bring notes or a marked sample ballot into the booth."
 faq:
   - q: "How do I find my North Carolina sample ballot?"
@@ -31,7 +32,7 @@ faq:
   - q: "What amendments are on the North Carolina ballot in 2026?"
     a: "Three: requiring all voters, including mail voters, to present photo ID; keeping the state income tax rate from going above 3.5%; and requiring limits on property tax increases by local governments."
   - q: "Can I still register to vote in North Carolina?"
-    a: "Yes, during early voting. Same-day registration is available at one-stop early voting sites through Saturday, Oct. 31. It is not available on Election Day."
+    a: "No, not for this election. Same-day registration was available at one-stop early voting sites through Saturday, Oct. 31, and it is not available on Election Day, Tuesday, Nov. 3."
   - q: "Can I bring notes into the voting booth in North Carolina?"
     a: "Yes. The State Board of Elections says voters may bring voting guides, notes and other materials. You may not photograph your ballot."
   - q: "Do I need a photo ID to vote in North Carolina?"
@@ -94,7 +95,7 @@ The State Board of Elections says voters may bring voting guides, notes and othe
 | Date | What |
 |---|---|
 | Fri., Oct. 9 | Regular registration deadline (passed) |
-| Thu., Oct. 15 to Sat., Oct. 31 | One-stop early voting; same-day registration available; ends at 3 p.m. Oct. 31 |
+| Thu., Oct. 15 to Sat., Oct. 31 | One-stop early voting and same-day registration (ended at 3 p.m. Oct. 31) |
 | Tue., Oct. 20 | Absentee ballot request deadline (passed) |
 | Tue., Nov. 3 | Election Day, polls open 6:30 a.m. to 7:30 p.m.; absentee ballots due by 7:30 p.m. |
 
@@ -124,4 +125,4 @@ The wording below is how each appears on an official county sample ballot. Each 
 
 ## Print your checklist
 
-The free one-page checklist below lists the statewide candidates and all three amendments, with key dates and space for your House and local races. See which other states are [voting early right now](/news/early-voting-2026-which-states-are-voting-now/) and when [polls close](/news/what-time-do-polls-close-election-day-2026/) nationwide.
+The free one-page checklist below lists the statewide candidates and all three amendments, with key dates and space for your House and local races. See the [early voting end dates by state](/news/early-voting-2026-which-states-are-voting-now/) and when [polls close](/news/what-time-do-polls-close-election-day-2026/) nationwide.

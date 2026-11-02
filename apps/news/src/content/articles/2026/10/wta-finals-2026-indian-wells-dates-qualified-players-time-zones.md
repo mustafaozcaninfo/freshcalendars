@@ -4,6 +4,7 @@ seoTitle: "WTA Finals 2026 Dates, Qualified Players and Time Zones"
 description: "The Women's Tennis Association (WTA) Finals run Nov. 8-15, 2026 at Indian Wells, and eight singles players have qualified, led by Elena Rybakina."
 type: news
 publishedAt: "2026-10-27T15:43:00-04:00"
+updatedAt: "2026-11-02T14:10:00-05:00"
 authors: [jessica-hartwell]
 category: sports
 keywords: ["wta finals 2026", "wta finals 2026 indian wells", "wta finals 2026 dates", "wta finals 2026 qualified players", "wta finals time"]
@@ -141,7 +142,7 @@ The 2025 edition was in Riyadh, and the WTA says the 2026 Finals are at Indian W
 
 ## What time do WTA Finals matches start?
 
-Not yet announced. Session start times and the order of play are not posted, and neither are the group names or the draw date. The table below is a set of conversion examples, not the schedule. U.S. daylight saving time ends Nov. 1, 2026, so Indian Wells is on Pacific Standard Time (PST), Coordinated Universal Time (UTC) minus 8 hours, for the whole event. Eastern Standard Time (EST) is 3 hours ahead, Greenwich Mean Time (GMT) in the U.K. is 8 hours ahead, Central European Time (CET) is 9 hours ahead, and Australian Eastern Daylight Time (AEDT) is 19 hours ahead, at UTC plus 11 hours.
+Not yet announced. Session start times and the order of play are not posted, and neither are the group names or the draw date. The table below is a set of conversion examples, not the schedule. U.S. daylight saving time ended Nov. 1, 2026, so Indian Wells is on Pacific Standard Time (PST), Coordinated Universal Time (UTC) minus 8 hours, for the whole event. Eastern Standard Time (EST) is 3 hours ahead, Greenwich Mean Time (GMT) in the U.K. is 8 hours ahead, Central European Time (CET) is 9 hours ahead, and Australian Eastern Daylight Time (AEDT) is 19 hours ahead, at UTC plus 11 hours.
 
 | If a match starts at (Indian Wells, PST) | EST | GMT | CET | AEDT |
 |---|---|---|---|---|

@@ -1,9 +1,10 @@
 ---
 title: "Halloween Costume Stores Open Oct. 29-31, 2026: Spirit, Party City at Staples and Target"
-seoTitle: "Halloween Costume Stores Open Today: Last 48 Hours"
-description: "Halloween is Sat., Oct. 31, 2026: where to find a costume in two days, how to confirm store hours, and a Food and Drug Administration (FDA) lens warning."
+seoTitle: "Halloween Costume Stores, Oct. 29-31, 2026: What We Found"
+description: "Halloween was Sat., Oct. 31, 2026: where shoppers could look in the last two days, how to confirm hours and a Food and Drug Administration (FDA) warning."
 type: explainer
 publishedAt: "2026-10-29T08:00:00-04:00"
+updatedAt: "2026-11-02T14:10:00-05:00"
 authors: [jessica-hartwell]
 category: retail-dates
 keywords: ["Halloween stores open today", "where to buy Halloween costumes near me", "Spirit Halloween near me", "Party City Staples Halloween", "last-minute Halloween costume 2026"]
@@ -11,7 +12,7 @@ assets:
   overlay: true
   kicker: "Halloween 2026 · Sat., Oct. 31"
   date: "2026-10-31"
-  card: { top: "Halloween costume shopping", big: "2 days left", bottom: "Check each store's hours first" }
+  card: { top: "Halloween costume shopping", big: "Oct. 29-31", bottom: "Store hours varied" }
   printable:
     slug: last-minute-halloween-costume-checklist-2026
     group: halloween-2026
@@ -43,7 +44,7 @@ hero:
   src: ../../../../assets/news/halloween-costume-stores-open-october-29-31-2026-spirit-party-city/halloween-costume-stores-open-october-29-31-2026-spirit-party-city.webp
   alt: "A carved jack-o'-lantern glowing on a windowsill, for Halloween costume stores open Oct. 29-31, 2026"
   title: "Halloween costume stores"
-  caption: "A lit jack-o'-lantern. Halloween is Saturday, Oct. 31, 2026, so Thursday and Friday are the last two full shopping days."
+  caption: "A lit jack-o'-lantern. Halloween was Saturday, Oct. 31, 2026, so Thursday and Friday were the last two full shopping days."
   credit: "Photo: F0i / Wikimedia Commons, edited"
   license:
     name: "CC BY 4.0"
@@ -52,13 +53,13 @@ hero:
     author: "F0i"
     authorUrl: "https://commons.wikimedia.org/w/index.php?title=User:F0i&amp;action=edit&amp;redlink=1"
 summary:
-  - "Halloween is Saturday, Oct. 31, 2026, so Thursday, Oct. 29 to Saturday, Oct. 31 is the last shopping window."
+  - "Halloween was Saturday, Oct. 31, 2026, so Thursday, Oct. 29 to Saturday, Oct. 31 was the last shopping window."
   - "No nationwide Halloween store hours exist in the sources we checked; Spirit Halloween hours and seasonal closing dates vary by store."
   - "Party City closed its stores in early 2025, as widely reported, and in April 2026 Staples announced Party City shops inside more than 700 Staples locations."
   - "The U.S. Food and Drug Administration (FDA) says all contact lenses, including decorative ones, must be prescribed by a doctor."
 faq:
-  - q: "Are Halloween stores open today?"
-    a: "We found no nationwide Halloween hours for 2026. Check the store's own page or call it before you drive."
+  - q: "Were Halloween stores open on Oct. 29-31, 2026?"
+    a: "We found no nationwide Halloween hours for 2026. The store's own page or a call was the way to confirm before driving."
   - q: "Is there still a Party City near me?"
     a: "Party City closed its stores in early 2025, as widely reported, so old listings may point to closed stores. Staples announced Party City shops inside more than 700 Staples locations in April 2026; check the Staples store page."
   - q: "Can I buy decorative contact lenses for a costume?"
@@ -109,9 +110,9 @@ downloads:
     pages: 1
 ---
 
-Halloween is Saturday, Oct. 31, 2026, so shoppers who start on Thursday, Oct. 29 have two days left, and no official nationwide list of Halloween store hours exists in the sources we checked on Oct. 29. This page covers where to look for a costume, what changed at Party City, and a warning from the U.S. Food and Drug Administration (FDA) about decorative contact lenses. For the date itself, see [when is Halloween](/when-is/halloween/) and the [October 2026 printable calendar](/october-calendars.html).
+Halloween was Saturday, Oct. 31, 2026, so shoppers who started on Thursday, Oct. 29 had two days left, and no official nationwide list of Halloween store hours exists in the sources we checked on Oct. 29. This page covers where to look for a costume, what changed at Party City, and a warning from the U.S. Food and Drug Administration (FDA) about decorative contact lenses. For the date itself, see [when is Halloween](/when-is/halloween/) and the [October 2026 printable calendar](/october-calendars.html).
 
-## Where can I find a Halloween costume in the last two days?
+## Where could I find a Halloween costume in the last two days?
 
 The table shows what we could confirm for three retailers and where to check the rest.
 
@@ -141,7 +142,7 @@ Target's Aug. 12, 2026 newsroom story, "Target's Halloween Assortment Brings Tog
 
 The FDA's page "Decorative Contact Lenses for Halloween and More" (content current as of Oct. 22, 2024) says: "All contact lenses must be prescribed by a doctor, including decorative lenses." It also says you should never buy contact lenses from a street vendor, beauty supply store, flea market, novelty store or Halloween store.
 
-## What is a last-minute plan by day?
+## What was a last-minute plan by day?
 
 | Day | What to do |
 |---|---|

@@ -4,6 +4,7 @@ seoTitle: "Dolphins Schedule 2026: Remaining Games, Times, TV"
 description: "The Dolphins next play the Lions on Sun., Nov. 8, 2026, at 1 p.m. Eastern Time (ET) on FOX. All 10 remaining games with times, TV and a printable."
 type: news
 publishedAt: "2026-11-01T18:40:00-05:00"
+updatedAt: "2026-11-02T14:10:00-05:00"
 authors: [jessica-hartwell]
 category: sports
 keywords: ["Dolphins schedule", "Miami Dolphins schedule 2026", "Dolphins next game", "Dolphins schedule printable"]
@@ -88,6 +89,10 @@ sources:
   - title: "2026 NFL schedule, Week 9"
     url: "https://www.nfl.com/schedules/2026/by-week/reg-9"
     publisher: "NFL"
+  - title: "2026 NFL schedule, Week 8"
+    url: "https://www.nfl.com/schedules/2026/REG8"
+    publisher: "NFL"
+    date: "2026-11-02"
   - title: "Hard Rock Stadium"
     url: "https://hardrockstadium.com/"
     publisher: "Hard Rock Stadium"
@@ -104,7 +109,7 @@ draft: false
 
 **The Miami Dolphins next play the Detroit Lions on Sun., Nov. 8, 2026, at 1 p.m. Eastern Time (ET) on FOX at Hard Rock Stadium, according to the team's 2026 schedule release.** Ten games remain, and a one-page printable with a score box for each is further down.
 
-The Dolphins (1-5 entering the game) hosted the New England Patriots on Sun., Nov. 1, in Week 8. The Dolphins' bye week was Week 6, on Sun., Oct. 18. The table below is built from the Miami Dolphins' schedule release; times are in ET, with Central Time (CT) and Pacific Time (PT) added by us. Weekdays are our own calculation, and the National Football League (NFL) lists Week 9 on its own [schedule page](https://www.nfl.com/schedules/2026/by-week/reg-9).
+The Dolphins (1-5 entering the game) hosted the New England Patriots on Sun., Nov. 1, in Week 8, and lost 24-19, per NFL.com, which lists them at 1-6. The Dolphins' bye week was Week 6, on Sun., Oct. 18. The table below is built from the Miami Dolphins' schedule release; times are in ET, with Central Time (CT) and Pacific Time (PT) added by us. Weekdays are our own calculation, and the National Football League (NFL) lists Week 9 on its own [schedule page](https://www.nfl.com/schedules/2026/by-week/reg-9).
 
 ## Dolphins schedule for the rest of 2026
 
@@ -122,7 +127,7 @@ The Dolphins (1-5 entering the game) hosted the New England Patriots on Sun., No
 | 17 | Sun., Jan. 3, 2027 | Bills at Dolphins | 1 p.m. / noon / 10 a.m. | CBS | Hard Rock Stadium |
 | 18 | Jan. 9 or 10, 2027 | Dolphins at Patriots | To be determined | To be determined | Gillette Stadium |
 
-The Week 8 row is the Nov. 1 game against New England. Hard Rock Stadium is at 347 Don Shula Drive, Miami Gardens, Florida 33056, per the stadium's website.
+The Week 8 row is the Nov. 1 game against New England, which the Patriots won 24-19, per NFL.com. Hard Rock Stadium is at 347 Don Shula Drive, Miami Gardens, Florida 33056, per the stadium's website.
 
 ## How many Dolphins games are home, away and against division rivals?
 
@@ -159,4 +164,4 @@ Because the Week 9 deadline has passed, the Lions game stays as listed here. For
 
 Yes. The one-page sheet lists Weeks 9 to 18 with the date, ET start time, opponent, home or away, TV and a blank score field, and it has an ink-saver version. Tape it next to the [November 2026 printable calendar](/november-calendars.html) and the [December 2026 printable calendar](/december-calendars.html), and write the Week 18 date in once the NFL sets it. For every team and week, use our [printable NFL schedule for 2026-27](/news/printable-nfl-schedule-2026-2027-pdf/). The postseason dates are in the [NFL playoff schedule for 2027](/news/nfl-playoff-schedule-2027-wild-card-divisional-championship-super-bowl-lxi/).
 
-Because times can move under flexible scheduling, recheck them on the team's site or NFL.com before game day. Standings, injuries and playoff odds are not part of the schedule release and are not covered here.
+Because times can move under flexible scheduling, recheck them on the team's site or NFL.com before game day. Injuries and playoff odds are not part of the schedule release and are not covered here.

@@ -4,7 +4,7 @@ seoTitle: "Capitol Christmas Tree 2026 Tour Schedule and Stops"
 description: "The 2026 U.S. Capitol Christmas Tree tour began Oct. 29 in Idaho and makes 21 stops in 10 states, ending at Joint Base Andrews, Maryland, on Nov. 19."
 type: news
 publishedAt: "2026-10-31T15:45:00-04:00"
-updatedAt: "2026-11-01T02:45:00-05:00"
+updatedAt: "2026-11-02T14:10:00-05:00"
 authors: [christina-gerland]
 category: holidays
 keywords: ["Capitol Christmas Tree 2026 tour schedule", "Capitol Christmas Tree 2026 stops", "Capitol Christmas Tree tour near me", "2026 Capitol Christmas Tree Idaho"]
@@ -22,12 +22,12 @@ hero:
     authorUrl: "https://commons.wikimedia.org/wiki/User:Sdkb"
 summary:
   - "The official U.S. Capitol Christmas Tree tour began Oct. 29, 2026, in Grangeville, Idaho, and the route announced Oct. 1 lists 21 stops in 10 states."
-  - "Today, Sun., Nov. 1, the tree is in Orofino and Kamiah, Idaho; the next stop is Lolo, Montana, on Tue., Nov. 3."
+  - "The route lists no stop on Mon., Nov. 2. The tree was in Orofino and Kamiah, Idaho, on Sun., Nov. 1; the next stop is Lolo, Montana, on Tue., Nov. 3."
   - "The last listed stop is Joint Base Andrews, Maryland, on Thu., Nov. 19, with military ID access only."
-  - "The Capitol arrival date and the lighting date are not yet announced, and stop times and venues are still being finalized."
+  - "The Architect of the Capitol (AOC) lists the tree's arrival at the Capitol for Fri., Nov. 20 at 10 a.m. and the lighting date as to be announced; stop times and venues are not yet announced."
 faq:
-  - q: "Where is the Capitol Christmas Tree today, Nov. 1, 2026?"
-    a: "The route lists Orofino and Kamiah, Idaho, for Sunday, Nov. 1. The project's route page gives no times or venues."
+  - q: "Where is the Capitol Christmas Tree on Mon., Nov. 2, 2026?"
+    a: "The route lists no stop for Monday, Nov. 2. The tree was in Orofino and Kamiah, Idaho, on Sunday, Nov. 1, and the next stop is Lolo, Montana, on Tuesday, Nov. 3. The project's route page gives no times or venues."
   - q: "Where did the 2026 Capitol Christmas Tree come from?"
     a: "The Architect of the Capitol (AOC) lists the 2026 tree as a 76-foot Engelmann spruce from the Nez Perce-Clearwater National Forests in Idaho."
   - q: "Is the Capitol Christmas Tree tour free?"
@@ -35,7 +35,7 @@ faq:
   - q: "What time does the tree arrive at each stop?"
     a: "Not yet announced. The project says partners and communities will finalize event details over the next several weeks, so check the host town's page or the project's website."
   - q: "When is the 2026 Capitol Christmas Tree lighting?"
-    a: "Not yet announced. The AOC says specific 2026 ceremony dates will be announced in the fall. In 2025 the lighting began at 5 p.m. on Tuesday, Dec. 2."
+    a: "Not yet announced. The AOC page \"Coming Soon: the 2026 Capitol Christmas Tree\" says the tree arrives at the Capitol on Friday, Nov. 20, 2026 at 10 a.m. and lists the lighting date as to be announced. In 2025 the lighting began at 5 p.m. on Tuesday, Dec. 2."
   - q: "Is this the same as the National Christmas Tree?"
     a: "No. The National Christmas Tree is lit on the Ellipse near the White House; the Capitol tree goes to the West Lawn of the U.S. Capitol Building."
 sources:
@@ -122,37 +122,37 @@ assets:
     alt: "Printable Capitol Christmas Tree 2026 tour tracker listing 21 stops from Grangeville, Idaho, to Joint Base Andrews, Maryland"
 ---
 
-The U.S. Capitol Christmas Tree is on the road: the official tour began Oct. 29, 2026, in Grangeville, Idaho, stopped in Moscow, Idaho, on Saturday, Oct. 31, reaches Orofino and Kamiah, Idaho, today (Sunday, Nov. 1), and ends at Joint Base Andrews, Maryland, on Thursday, Nov. 19, according to the project's route announcement of Oct. 1, 2026. Below is the full stop list by date, with weekdays and a count of days from Nov. 1, plus a one-page printable tracker.
+The U.S. Capitol Christmas Tree is on the road: the official tour began Oct. 29, 2026, in Grangeville, Idaho, stopped in Moscow, Idaho, on Saturday, Oct. 31, visited Orofino and Kamiah, Idaho, on Sunday, Nov. 1, has no stop listed for Monday, Nov. 2, and ends at Joint Base Andrews, Maryland, on Thursday, Nov. 19, according to the project's route announcement of Oct. 1, 2026. Below is the full stop list by date, with weekdays and a count of days from Nov. 2, plus a one-page printable tracker.
 
 ## Capitol Christmas Tree 2026 tour stops by date
 
-The route announcement lists 21 stops in 10 states: Idaho (nine stops), Montana (two), South Dakota (two), Maryland (two), and Wyoming, Minnesota, Illinois, Indiana, West Virginia and Pennsylvania (one each). The page gives towns and dates only, with no times or venues. The weekdays and the "days from today" column are ours, counted from Sunday, Nov. 1, 2026.
+The route announcement lists 21 stops in 10 states: Idaho (nine stops), Montana (two), South Dakota (two), Maryland (two), and Wyoming, Minnesota, Illinois, Indiana, West Virginia and Pennsylvania (one each). The page gives towns and dates only, with no times or venues. The weekdays and the "days from Nov. 2" column are ours, counted from Monday, Nov. 2, 2026.
 
-| Date | Town and state | Days from Nov. 1 |
+| Date | Town and state | Days from Nov. 2 |
 |---|---|---|
-| Thu., Oct. 29 | Grangeville, Idaho | Past (3 days ago) |
-| Fri., Oct. 30 | Lewiston, Idaho | Past (2 days ago) |
-| Sat., Oct. 31 | Moscow, Idaho | Past (yesterday) |
-| Sun., Nov. 1 | Orofino, Idaho | Today |
-| Sun., Nov. 1 | Kamiah, Idaho | Today |
-| Tue., Nov. 3 | Lolo, Montana | In 2 days |
-| Wed., Nov. 4 | Salmon, Idaho | In 3 days |
-| Thu., Nov. 5 | Craters of the Moon National Monument, Idaho | In 4 days |
-| Thu., Nov. 5 | Twin Falls, Idaho | In 4 days |
-| Fri., Nov. 6 | Idaho Falls, Idaho | In 5 days |
-| Sat., Nov. 7 | Gardiner, Montana | In 6 days |
-| Mon., Nov. 9 | Sheridan, Wyoming | In 8 days |
-| Tue., Nov. 10 | Custer, South Dakota | In 9 days |
-| Thu., Nov. 12 | Mitchell, South Dakota | In 11 days |
-| Thu., Nov. 12 | Albert Lea, Minnesota | In 11 days |
-| Fri., Nov. 13 | Peoria, Illinois | In 12 days |
-| Sat., Nov. 14 | Richmond, Indiana | In 13 days |
-| Mon., Nov. 16 | Morgantown, West Virginia | In 15 days |
-| Tue., Nov. 17 | Hagerstown, Maryland | In 16 days |
-| Tue., Nov. 17 | Littlestown, Pennsylvania | In 16 days |
-| Thu., Nov. 19 | Joint Base Andrews, Maryland (military ID access only) | In 18 days |
+| Thu., Oct. 29 | Grangeville, Idaho | Past (4 days ago) |
+| Fri., Oct. 30 | Lewiston, Idaho | Past (3 days ago) |
+| Sat., Oct. 31 | Moscow, Idaho | Past (2 days ago) |
+| Sun., Nov. 1 | Orofino, Idaho | Past (yesterday) |
+| Sun., Nov. 1 | Kamiah, Idaho | Past (yesterday) |
+| Tue., Nov. 3 | Lolo, Montana | Tomorrow (in 1 day) |
+| Wed., Nov. 4 | Salmon, Idaho | In 2 days |
+| Thu., Nov. 5 | Craters of the Moon National Monument, Idaho | In 3 days |
+| Thu., Nov. 5 | Twin Falls, Idaho | In 3 days |
+| Fri., Nov. 6 | Idaho Falls, Idaho | In 4 days |
+| Sat., Nov. 7 | Gardiner, Montana | In 5 days |
+| Mon., Nov. 9 | Sheridan, Wyoming | In 7 days |
+| Tue., Nov. 10 | Custer, South Dakota | In 8 days |
+| Thu., Nov. 12 | Mitchell, South Dakota | In 10 days |
+| Thu., Nov. 12 | Albert Lea, Minnesota | In 10 days |
+| Fri., Nov. 13 | Peoria, Illinois | In 11 days |
+| Sat., Nov. 14 | Richmond, Indiana | In 12 days |
+| Mon., Nov. 16 | Morgantown, West Virginia | In 14 days |
+| Tue., Nov. 17 | Hagerstown, Maryland | In 15 days |
+| Tue., Nov. 17 | Littlestown, Pennsylvania | In 15 days |
+| Thu., Nov. 19 | Joint Base Andrews, Maryland (military ID access only) | In 17 days |
 
-Three stops are already behind the tree and 16 remain after today's. The route lists no stop on Mon., Nov. 2, Sun., Nov. 8, Wed., Nov. 11, Sun., Nov. 15 or Wed., Nov. 18. Put the dates you plan to attend on the [November 2026 printable calendar](/november-calendars.html).
+Five stops are behind the tree and 16 remain. The route lists no stop on Mon., Nov. 2, Sun., Nov. 8, Wed., Nov. 11, Sun., Nov. 15 or Wed., Nov. 18. Put the dates you plan to attend on the [November 2026 printable calendar](/november-calendars.html).
 
 ## What time does the tree reach my town?
 
@@ -164,7 +164,7 @@ The Architect of the Capitol (AOC) lists the 2026 tree as an Engelmann spruce, 7
 
 ## When will the Capitol tree arrive and be lit?
 
-The 2026 arrival date and the lighting date and time are not yet announced. The AOC says specific 2026 ceremony dates "will be announced in the fall." The route page says the tree is traveling to the West Lawn of the U.S. Capitol Building "this holiday season."
+The lighting date and time are not yet announced. The AOC page "Coming Soon: the 2026 Capitol Christmas Tree" says the tree arrives at the Capitol on Friday, Nov. 20, 2026, at 10 a.m., and lists the lighting date as "to be announced." The route page says the tree is traveling to the West Lawn of the U.S. Capitol Building "this holiday season."
 
 For comparison only, the 2025 tree arrived at the Capitol on Friday, Nov. 21, 2025, at 10 a.m., and the 2025 lighting began at 5 p.m. on Tuesday, Dec. 2, 2025, on the West Front Lawn, the AOC reported. Those are last year's details, not 2026 dates. When a date is set, mark it on the [December 2026 printable calendar](/december-calendars.html); the day it falls near is also on our [When is Christmas?](/when-is/christmas/) page.
 
@@ -176,4 +176,4 @@ They are two separate trees and two separate events. The Capitol tree travels fr
 
 The one-page tracker lists all 21 stops in date order, with the weekday, the town and state, and a Done box for each stop. It carries only what the route announcement states, so it has no times; write them in as towns announce them.
 
-Not confirmed in this story: stop times and venues, the 2026 Capitol arrival date, the 2026 lighting date and time, a livestream and the ornament count.
+Not confirmed in this story: stop times and venues, the 2026 lighting date and time, a livestream and the ornament count.

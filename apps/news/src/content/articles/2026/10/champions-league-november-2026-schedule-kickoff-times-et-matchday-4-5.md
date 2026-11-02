@@ -4,6 +4,7 @@ seoTitle: "Champions League November 2026 Schedule, Times in ET"
 description: "Champions League matchday 4 is Nov. 3-4 and matchday 5 is Nov. 24-25, 2026, at 12:45 and 3 p.m. Eastern Time (ET), or 9:45 a.m. and noon Pacific Time (PT)."
 type: news
 publishedAt: "2026-10-28T15:50:00-04:00"
+updatedAt: "2026-11-02T14:10:00-05:00"
 authors: [jessica-hartwell]
 category: sports
 keywords: ["champions league schedule november 2026", "champions league matchday 4 2026 kickoff times et", "champions league today time et", "man utd vs roma champions league time"]
@@ -59,7 +60,7 @@ faq:
   - q: "Is the Champions League on CBS?"
     a: "CBS and Paramount+ carry UEFA club competitions through 2029-30, per CBS Sports in 2022, and select matches are on CBS Sports Network and CBS. Which November games are on those channels was not announced in an official source we found, so check CBS listings."
   - q: "Why are the times 12:45 p.m. and 3 p.m. ET?"
-    a: "UEFA's kickoffs are 21:00 CET unless stated, with early games at 18:45 CET. U.S. clocks go back on Nov. 1, so Eastern Standard Time is 6 hours behind CET, which gives 3 p.m. and 12:45 p.m."
+    a: "UEFA's kickoffs are 21:00 CET unless stated, with early games at 18:45 CET. U.S. clocks went back on Nov. 1, so Eastern Standard Time is 6 hours behind CET, which gives 3 p.m. and 12:45 p.m."
 sources:
   - title: "2026/27 Champions League: All the league phase fixtures and results"
     url: "https://www.uefa.com/uefachampionsleague/news/02a8-2174c9e9019d-f909a77bd77a-1000--2026-27-champions-league-all-the-league-phase-fixtures/"
@@ -114,7 +115,7 @@ downloads:
 
 **Champions League matchday 4 is Tuesday, Nov. 3, and Wednesday, Nov. 4, 2026, with kickoffs at 12:45 p.m. and 3 p.m. Eastern Time (ET), according to the Union of European Football Associations (UEFA).** That is 9:45 a.m. and noon Pacific Time (PT), and 5:45pm and 8pm in the UK. Matchday 5 follows on Nov. 24 and 25 in the same two slots.
 
-UEFA's own fixture page gives Central European Time (CET) only, so the table below converts all 36 games to ET, PT and UK time. U.S. clocks go back on Nov. 1, so every November time here is Eastern Standard Time. UK clocks already went back to Greenwich Mean Time (GMT) on Oct. 25.
+UEFA's own fixture page gives Central European Time (CET) only, so the table below converts all 36 games to ET, PT and UK time. U.S. clocks went back on Nov. 1, so every November time here is Eastern Standard Time. UK clocks already went back to Greenwich Mean Time (GMT) on Oct. 25.
 
 <p class="callout"><b>Lunchtime in the U.S.</b> The early games kick off at 12:45 p.m. ET (9:45 a.m. PT) and the late games at 3 p.m. ET (noon PT). UEFA's page says kickoffs are 21:00 CET unless stated, with early games at 18:45 CET.</p>
 

@@ -1,10 +1,10 @@
 ---
 title: "College Football Week 10 Schedule 2026: Halloween Saturday Game Times, TV and a Printable Pick'em Sheet"
 seoTitle: "College Football Week 10 Schedule 2026: Times and TV"
-description: "College football Saturday, Oct. 31, 2026: 18 games with a ranked team, first kickoffs at noon Eastern Time (ET), TV channels and a printable pick'em sheet."
+description: "College football Saturday, Oct. 31, 2026: 18 games had a ranked team, with first kickoffs at noon Eastern Time (ET), TV channels and a printable pick'em sheet."
 type: news
 publishedAt: "2026-10-29T23:45:00-04:00"
-updatedAt: "2026-10-30T04:45:00-04:00"
+updatedAt: "2026-11-02T14:10:00-05:00"
 authors: [jessica-hartwell]
 category: sports
 keywords: ["college football schedule week 10 2026", "college football games today", "top 25 college football games Saturday Oct 31", "college football TV schedule Halloween"]
@@ -47,7 +47,7 @@ assets:
 hero:
   src: ../../../../assets/news/college-football-week-10-schedule-2026-halloween-top-25-game-times-tv/college-football-week-10-schedule-2026-halloween-top-25-game-times-tv.webp
   alt: "College football Week 10 schedule 2026: Navy and Notre Dame players pile up at the line in a 2008 game"
-  caption: "File photo: Navy and Notre Dame met on Nov. 15, 2008. The two teams play again on Saturday, Oct. 31, 2026, at noon ET in Foxborough, Mass."
+  caption: "File photo: Navy and Notre Dame met on Nov. 15, 2008. The two teams played again on Saturday, Oct. 31, 2026, at noon ET in Foxborough, Mass."
   credit: "Photo: U.S. Navy photo by Mass Communication Specialist 2nd Class Tommy Gilligan / Wikimedia Commons, cropped, edited"
   license:
     name: "Public domain"
@@ -55,21 +55,21 @@ hero:
     source: "https://commons.wikimedia.org/wiki/File:US_Navy_081115-N-4565G-559_Midshipman_Ricky_Dobbs_(%5E4)_dives_across_the_pile_for_a_4-yard_gain_during_the_fourth_quarter_of_the_Saturday,_Nov._15,_2008_college_football_game_between_the_U.S._Naval_Academy_and_the_University_of.jpg"
     author: "U.S. Navy photo by Mass Communication Specialist 2nd Class Tommy Gilligan"
 summary:
-  - "ESPN's schedule lists 18 college football games with a ranked team on Saturday, Oct. 31, 2026, with first kickoffs at noon Eastern Time (ET)."
-  - "Florida vs. Georgia in Atlanta is at 3:30 p.m. ET on the American Broadcasting Company (ABC); Miami at North Carolina is at 7:30 p.m. ET on ABC."
-  - "Ohio State at USC is at 7:30 p.m. ET on NBC, and Texas State at Boise State kicks off at 10 p.m. ET on The CW."
-  - "Clocks fall back at 2 a.m. Sunday, Nov. 1. The first College Football Playoff (CFP) rankings are due Tuesday, Nov. 3."
+  - "ESPN's schedule listed 18 college football games with a ranked team on Saturday, Oct. 31, 2026, with first kickoffs at noon Eastern Time (ET)."
+  - "Florida vs. Georgia in Atlanta was set for 3:30 p.m. ET on the American Broadcasting Company (ABC); Miami at North Carolina was set for 7:30 p.m. ET on ABC."
+  - "Ohio State at USC was set for 7:30 p.m. ET on NBC, and Texas State at Boise State for 10 p.m. ET on The CW."
+  - "Clocks fell back at 2 a.m. Sunday, Nov. 1. The first College Football Playoff (CFP) rankings are due Tuesday, Nov. 3."
 faq:
   - q: "What time do college football games start on Oct. 31, 2026?"
-    a: "ESPN lists the first games at noon ET (four games with a ranked team), then Auburn at Ole Miss at 12:45 p.m. ET. The last listed game, Texas State at Boise State, kicks off at 10 p.m. ET on The CW."
-  - q: "Where is Florida vs. Georgia played in 2026?"
+    a: "ESPN listed the first games at noon ET (four games with a ranked team), then Auburn at Ole Miss at 12:45 p.m. ET. The last listed game, Texas State at Boise State, was set for 10 p.m. ET on The CW."
+  - q: "Where was Florida vs. Georgia played in 2026?"
     a: "In Atlanta at Mercedes-Benz Stadium, per Georgia Athletics, on Oct. 31 at 3:30 p.m. ET on ABC per ESPN."
   - q: "What time is Miami at North Carolina?"
     a: "7:30 p.m. ET in Chapel Hill on ABC, which Northwestern and Boise State share No. 20 in the poll. Miami's own schedule confirms. That is 6:30 p.m. Central Time (CT), 5:30 p.m. Mountain Time (MT) and 4:30 p.m. Pacific Time (PT), by our conversion."
-  - q: "Which ranked teams do not play on Oct. 31?"
-    a: "Alabama, Kentucky, LSU, Tennessee and Houston do not play on Oct. 31, according to ESPN's schedule."
+  - q: "Which ranked teams did not play on Oct. 31?"
+    a: "Alabama, Kentucky, LSU, Tennessee and Houston did not play on Oct. 31, according to ESPN's schedule."
   - q: "Is Oct. 31 on Eastern Daylight Time?"
-    a: "Yes. Clocks fall back at 2 a.m. on Sunday, Nov. 1, so every Saturday kickoff is on Eastern Daylight Time."
+    a: "Yes. Clocks fell back at 2 a.m. on Sunday, Nov. 1, so every Saturday kickoff was on Eastern Daylight Time."
 sources:
   - title: "College football schedule, Oct. 31, 2026"
     url: "https://www.espn.com/college-football/schedule/_/week/10/year/2026/seasontype/2"
@@ -116,7 +116,7 @@ related: [college-football-playoff-rankings-2026-schedule-dates-times, college-f
 draft: false
 ---
 
-**College football plays on Saturday, Oct. 31, 2026 (Halloween), with the first kickoffs at noon Eastern Time (ET) and 18 games that include a ranked team, led by Florida vs. Georgia in Atlanta, according to ESPN's schedule.** Below: every game with its kickoff and channel, what each window is in Central, Mountain and Pacific time, and a one-page pick'em sheet.
+**College football played on Saturday, Oct. 31, 2026 (Halloween), with the first kickoffs at noon Eastern Time (ET) and 18 games that included a ranked team, led by Florida vs. Georgia in Atlanta, according to ESPN's schedule.** Below: every game with its kickoff and channel, what each window is in Central, Mountain and Pacific time, and a one-page pick'em sheet.
 
 ## What is the college football schedule for Saturday, Oct. 31, 2026?
 
@@ -143,7 +143,7 @@ ESPN and FBSchedules list the same games and times, all ET. Rankings are the Ass
 | 7:45 p.m. | SEC Network | (23) Missouri at Arkansas |
 | 10:00 p.m. | The CW | Texas State at (20) Boise State |
 
-Miami's own schedule confirms Miami at North Carolina at 7:30 p.m. ET in Chapel Hill. Alabama, Kentucky, Louisiana State University (LSU), Tennessee and Houston do not play on Oct. 31, according to ESPN's schedule. No ranked team plays Thursday, Oct. 29 or Friday, Oct. 30.
+Miami's own schedule confirms Miami at North Carolina at 7:30 p.m. ET in Chapel Hill. Alabama, Kentucky, Louisiana State University (LSU), Tennessee and Houston did not play on Oct. 31, according to ESPN's schedule. No ranked team played Thursday, Oct. 29 or Friday, Oct. 30.
 
 ## What time is each window in my time zone?
 
@@ -156,13 +156,13 @@ The Central Time (CT), Mountain Time (MT) and Pacific Time (PT) columns are our 
 | Evening games | 7:30 p.m. | 6:30 p.m. | 5:30 p.m. | 4:30 p.m. |
 | Late game | 10:00 p.m. | 9:00 p.m. | 8:00 p.m. | 7:00 p.m. |
 
-## Where is Florida vs. Georgia played in 2026?
+## Where was Florida vs. Georgia played in 2026?
 
-In Atlanta. Georgia Athletics lists the game at Mercedes-Benz Stadium this year, and ESPN has it at 3:30 p.m. ET on ABC. Florida is ranked 17th and Georgia third in the AP Top 25 of Oct. 25.
+In Atlanta. Georgia Athletics listed the game at Mercedes-Benz Stadium in 2026, and ESPN had it at 3:30 p.m. ET on ABC. Florida is ranked 17th and Georgia third in the AP Top 25 of Oct. 25.
 
 ## Which games run past midnight into the clock change?
 
-Texas State at Boise State kicks off at 10 p.m. ET on The CW, so it ends after midnight, when Sunday, Nov. 1 has begun. Clocks fall back at 2 a.m. that morning, which is why every Saturday kickoff is still on Eastern Daylight Time. Our [clocks fall back story](/news/daylight-saving-time-halloween-2026-clocks-fall-back-night-after-every-year/) explains the night, and the [daylight saving time page](/when-is/daylight-savings/) has the date.
+Texas State at Boise State was set for 10 p.m. ET on The CW, so it would end after midnight, when Sunday, Nov. 1 had begun. Clocks fell back at 2 a.m. that morning, which is why every Saturday kickoff was on Eastern Daylight Time. Our [clocks fall back story](/news/daylight-saving-time-halloween-2026-clocks-fall-back-night-after-every-year/) explains the night, and the [daylight saving time page](/when-is/daylight-savings/) has the date.
 
 ## Is there a printable pick'em sheet for Week 10?
 
@@ -170,4 +170,4 @@ Yes. The one-page sheet lists all 18 games in kickoff order with the network, a 
 
 ## What comes after Week 10?
 
-The next AP poll is due Sunday. The first College Football Playoff (CFP) rankings of 2026 come out Tuesday, Nov. 3 at 7 p.m. ET on ESPN; our [CFP rankings schedule](/news/college-football-playoff-rankings-2026-schedule-dates-times/) has the dates through Selection Day, and the [conference championship games story](/news/college-football-conference-championship-games-2026-schedule-times-tv/) covers the title games. Times can change; check ESPN on game day.
+The first College Football Playoff (CFP) rankings of 2026 come out Tuesday, Nov. 3 at 7 p.m. ET on ESPN; our [CFP rankings schedule](/news/college-football-playoff-rankings-2026-schedule-dates-times/) has the dates through Selection Day, and the [conference championship games story](/news/college-football-conference-championship-games-2026-schedule-times-tv/) covers the title games. Times can change; check ESPN on game day.

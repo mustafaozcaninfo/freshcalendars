@@ -4,7 +4,7 @@ seoTitle: "Day of the Dead 2026: Dates, Traditions & Events"
 description: "Day of the Dead 2026 is Sunday, Nov. 1 and Monday, Nov. 2. The dates, the Oct. 27 pet custom, ofrendas, Mexico City and U.S. events, and a printable."
 type: explainer
 publishedAt: "2026-10-19T10:35:00-04:00"
-updatedAt: "2026-10-30T08:40:00-04:00"
+updatedAt: "2026-11-02T14:10:00-05:00"
 authors: [christina-gerland]
 category: holidays
 keywords: ["Day of the Dead 2026", "Día de los Muertos 2026", "Day of the Dead pets October 27", "Day of the Dead San Antonio 2026", "Day of the Dead 2026 calendar"]
@@ -22,9 +22,9 @@ hero:
     author: "Luisroj96"
     authorUrl: "https://commons.wikimedia.org/wiki/User:Luisroj96"
 summary:
-  - "Día de los Muertos 2026 falls on Sunday, Nov. 1 (children who have died) and Monday, Nov. 2 (adults), the day after Halloween on Saturday, Oct. 31."
-  - "Popular calendars reported by Mexican newsrooms start earlier: pets on Tuesday, Oct. 27, people who died tragically on Oct. 28 and forgotten souls on Oct. 29 and 30. Customs vary by region and family."
-  - "Mexico City's Gran Desfile is Saturday, Oct. 31 at 2 p.m. local time; San Antonio's free Calaveras de Azúcar Festival runs Oct. 31 and Nov. 1 at Historic Market Square."
+  - "Día de los Muertos 2026 began on Sunday, Nov. 1 (children who have died) and continues on Monday, Nov. 2 (adults), right after Halloween on Saturday, Oct. 31."
+  - "Popular calendars reported by Mexican newsrooms started earlier: pets on Tuesday, Oct. 27, people who died tragically on Oct. 28 and forgotten souls on Oct. 29 and 30. Customs vary by region and family."
+  - "Mexico City's Gran Desfile was scheduled for Saturday, Oct. 31 at 2 p.m. local time; San Antonio's free Calaveras de Azúcar Festival was scheduled for Oct. 31 and Nov. 1, and its altar tour at Historic Market Square runs through Nov. 6."
   - "It is not a U.S. federal holiday: offices, banks and the mail keep normal hours on Monday, Nov. 2."
 faq:
   - q: "When is Day of the Dead 2026?"
@@ -40,7 +40,7 @@ faq:
   - q: "Is Day of the Dead a federal holiday in the United States?"
     a: "No. It is not on the Office of Personnel Management's list of federal holidays, so federal offices, banks and the Postal Service run normally on Monday, Nov. 2, 2026."
   - q: "Where can I celebrate Day of the Dead in San Antonio in 2026?"
-    a: "The City of San Antonio lists the free Calaveras de Azúcar Festival at Historic Market Square on Saturday, Oct. 31 (10 a.m. to 9:30 p.m.) and Sunday, Nov. 1 (10 a.m. to 8:30 p.m.), and a free self-guided altar tour there daily through Nov. 6."
+    a: "The City of San Antonio listed the free Calaveras de Azúcar Festival at Historic Market Square for Saturday, Oct. 31 (10 a.m. to 9:30 p.m.) and Sunday, Nov. 1 (10 a.m. to 8:30 p.m.); both days have passed. It also lists a free self-guided altar tour there daily through Nov. 6."
   - q: "Is there a Day of the Dead Barbie for 2026?"
     a: "Yes. Mattel Creations lists the Barbie Signature Día De Muertos 2026 Barbie Doll and a matching Ken doll, each at $80. On Oct. 30 the store showed pre-orders as sold out."
   - q: "What movie is about Day of the Dead?"
@@ -150,7 +150,7 @@ downloads:
 draft: false
 ---
 
-**Día de los Muertos 2026 takes place on Sunday, Nov. 1 and Monday, Nov. 2.** The Mexican tradition remembers family members and friends who have died with ofrendas (home altars), marigolds, candles, food and cemetery visits. Both days fall right after Halloween on Saturday, Oct. 31, and the season starts earlier: popular calendars reported by Mexican newsrooms set aside Tuesday, Oct. 27 for pets.
+**Día de los Muertos 2026 runs from Sunday, Nov. 1 to Monday, Nov. 2, so Nov. 2 is the second day.** The Mexican tradition remembers family members and friends who have died with ofrendas (home altars), marigolds, candles, food and cemetery visits. Both days fall right after Halloween on Saturday, Oct. 31, and the season started earlier: popular calendars reported by Mexican newsrooms set aside Tuesday, Oct. 27 for pets.
 
 ## Day of the Dead 2026 dates at a glance
 
@@ -161,7 +161,7 @@ draft: false
 | Nov. 1 | Sunday | Día de los Angelitos (children); All Saints' Day |
 | Nov. 2 | Monday | Día de los Muertos (adults); All Souls' Day |
 
-The main dates are fixed every year. Only the weekday moves: in 2026 the two central days land on a Sunday and a Monday, so the cemetery visits of Nov. 1 fall on a weekend and Nov. 2 is a regular workday in the United States.
+The main dates are fixed every year. Only the weekday moves: in 2026 the two central days land on a Sunday and a Monday, so the cemetery visits of Nov. 1 fell on a weekend and Nov. 2 is a regular workday in the United States.
 
 ## The week before: Oct. 27 to Nov. 2, day by day
 
@@ -244,7 +244,7 @@ Mexico City pairs neighborhood and family customs with a city program of public 
 | Gran Desfile de Día de Muertos | Sat., Oct. 31, 2 p.m. (4 p.m. Eastern Time (ET)) | Paseo de la Reforma to the Zócalo |
 | San Andrés Mixquic | Oct. 31 to Nov. 2 | Tláhuac; ends with La Alumbrada on Nov. 2 |
 
-Earlier events on the city's list have already taken place: the 18th Desfile de Alebrijes Monumentales on Oct. 17, a night bike ride on Oct. 24 and the Mega Procesión de las Catrinas on Oct. 25. The city's page notes that the Ofrenda Monumental in the Zócalo includes a 32-meter cartonería (papier-mâché) figure. Check the [official city guide](https://mexicocity.cdmx.gob.mx/e/dia-de-muertos-en-la-ciudad-de-mexico/) for closures and changes before you go.
+Several events on the city's list have already passed: the 18th Desfile de Alebrijes Monumentales on Oct. 17, a night bike ride on Oct. 24, the Mega Procesión de las Catrinas on Oct. 25, the Gran Desfile on Oct. 31 and the Festival Flores de Cempasúchil, which ended Nov. 1. The city's page notes that the Ofrenda Monumental in the Zócalo includes a 32-meter cartonería (papier-mâché) figure. Check the [official city guide](https://mexicocity.cdmx.gob.mx/e/dia-de-muertos-en-la-ciudad-de-mexico/) for closures and changes before you go.
 
 Outside the capital, customs change from state to state and town to town. When visiting a cemetery or a family altar anywhere in Mexico, ask before taking photos of people, graves or private ofrendas.
 
@@ -258,16 +258,16 @@ It is widely celebrated in U.S. cities, with public altars, parades, art shows a
 
 *A community ofrenda at Mission San José, San Antonio Missions National Historical Park, Oct. 29, 2021 (file photo). Photo: National Park Service, public domain, via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Ofrenda_or_Day_of_the_Dead_Altar_at_Mission_Marquee_Plaza._%28586908b4-40dd-4be5-bc53-ababb89291f1%29.JPG).*
 
-### San Antonio events still ahead
+### San Antonio events and hours
 
 | Event | 2026 dates and hours | Where | Cost |
 |---|---|---|---|
 | Calaveras de Azúcar Festival | Sat., Oct. 31, 10 a.m. to 9:30 p.m.; Sun., Nov. 1, 10 a.m. to 8:30 p.m. | Historic Market Square | Free |
 | Self-guided altar tour | Daily through Fri., Nov. 6, 10 a.m. to 6 p.m. | Historic Market Square | Free |
 
-Source: City of San Antonio release of Oct. 20, 2026. The River Parade on Oct. 23 and the La Villita festival of Oct. 23 to 25 have taken place.
+Source: City of San Antonio release of Oct. 20, 2026. The River Parade on Oct. 23 and the La Villita festival of Oct. 23 to 25 have taken place, and the festival days of Oct. 31 and Nov. 1 have passed. The altar tour continues through Fri., Nov. 6.
 
-### Los Angeles events still ahead
+### Los Angeles events through Nov. 2
 
 | Event | 2026 dates | Where |
 |---|---|---|
@@ -276,7 +276,7 @@ Source: City of San Antonio release of Oct. 20, 2026. The River Parade on Oct. 2
 | Día de los Muertos Festival | Through Mon., Nov. 2 | Olvera Street |
 | Plaza de la Familia (Coco theme) | Through Mon., Nov. 2 | Disney California Adventure Park |
 
-The Music Center, which runs Grand Park, says its schedule and artists may change; Discover Los Angeles lists the Olvera Street festival. Hours and tickets differ by venue, so check each organizer's page before you go.
+The Grand Park closing night on Sun., Nov. 1 has passed; the other three listings run through Mon., Nov. 2. The Music Center, which runs Grand Park, says its schedule and artists may change; Discover Los Angeles lists the Olvera Street festival. Hours and tickets differ by venue, so check each organizer's page before you go.
 
 ## The 2026 Día de Muertos Barbie
 
@@ -298,12 +298,12 @@ No. Halloween on Oct. 31 has Celtic and Christian roots and centers on costumes 
 
 The free one-page sheet below marks every date in this story on an October and November 2026 grid, with a lined area for the names you want on your ofrenda. It prints on US Letter, and an ink-saver version is included. For a plain month, use our [November 2026 printable calendar](/november-calendars.html) or [October 2026 printable calendar](/october-calendars.html).
 
-## The busy weekend ahead
+## From Halloween to Election Day
 
 | Date | What happens |
 |---|---|
 | Saturday, Oct. 31 | Halloween; Mexico City's Gran Desfile at 2 p.m. local time |
-| Sunday, Nov. 1 | Día de los Angelitos; All Saints' Day; U.S. clocks fall back one hour at 2 a.m. ([when daylight saving time ends](/when-is/daylight-savings/)) |
+| Sunday, Nov. 1 | Día de los Angelitos; All Saints' Day; U.S. clocks fell back one hour at 2 a.m. ([when daylight saving time ends](/when-is/daylight-savings/)) |
 | Monday, Nov. 2 | Día de los Muertos; All Souls' Day |
 | Tuesday, Nov. 3 | Election Day |
 

@@ -4,6 +4,7 @@ seoTitle: "Minnesota Ballot 2026: Senate, Governor, Amendment"
 description: "Minnesota votes Nov. 3, 2026 on U.S. Senate, governor and one constitutional amendment. Early voting ends Nov. 2, and polls open 7 a.m. to 8 p.m."
 type: explainer
 publishedAt: "2026-10-24T17:00:00-04:00"
+updatedAt: "2026-11-02T14:10:00-05:00"
 authors: [christina-gerland]
 category: elections
 keywords: ["Minnesota ballot 2026", "Minnesota Senate race 2026 candidates", "Minnesota governor race 2026", "Minnesota constitutional amendment 2026", "Minnesota early voting 2026"]
@@ -19,7 +20,7 @@ hero:
     source: "https://commons.wikimedia.org/wiki/File:Minnesota_State_Capitol_(2024).jpg"
     author: "xiquinhosilva"
 summary:
-  - "Minnesota's general election is Tuesday, Nov. 3, 2026. Polls are open from 7:00 a.m. to 8:00 p.m. under Minnesota Statutes 204C.05, and early absentee voting ends Monday, Nov. 2."
+  - "Minnesota's general election is Tuesday, Nov. 3, 2026. Polls are open from 7:00 a.m. to 8:00 p.m. under Minnesota Statutes 204C.05, and early absentee voting ends today, Monday, Nov. 2."
   - "The statewide constitutional amendment is titled \"Increasing funding to school districts\" and changes how much the permanent school fund gives to all school districts, effective July 1, 2027."
   - "Candidates for U.S. Senate and governor below come from news reports, because the Secretary of State's candidate pages could not be read. Confirm yours on the official \"What's on my ballot\" tool."
   - "The Secretary of State reported on Oct. 23, 2026 that 419,189 ballots were accepted in the first five weeks of voting."
@@ -27,7 +28,7 @@ faq:
   - q: "What is on the Minnesota ballot on Nov. 3, 2026?"
     a: "A U.S. Senate seat, governor, attorney general, secretary of state and state auditor, one statewide constitutional amendment and legislative races. Ballotpedia News reported on Oct. 20, 2026 that all 134 state House and all 67 state Senate seats are up."
   - q: "Can I still vote early in Minnesota?"
-    a: "Yes. Early absentee voting at your local elections office runs through Nov. 2, according to the Secretary of State's 2026 absentee factsheet."
+    a: "Only today, Monday, Nov. 2. Early absentee voting at your local elections office ends Nov. 2, according to the Secretary of State's 2026 absentee factsheet."
   - q: "Can I register to vote on Election Day in Minnesota?"
     a: "Yes. Minnesota Statutes 201.061 allows registration at the polls with proof of residence, such as a driver's license or state ID. The Secretary of State's 2025 new-voter guidance says registered voters do not need to show ID when they sign in."
   - q: "What time do Minnesota polls close?"
@@ -125,7 +126,7 @@ downloads:
 draft: false
 ---
 
-**Minnesota holds its general election on Tuesday, Nov. 3, 2026, with polls open from 7:00 a.m. to 8:00 p.m., and early absentee voting at local elections offices ends Monday, Nov. 2, according to the Minnesota Secretary of State (SOS) and state law.** The ballot has a U.S. Senate seat, the governor's race and one statewide constitutional amendment, "Increasing funding to school districts." The SOS candidate pages could not be read for this story, so the names below come from news reports and are credited to them. Check your own ballot with the SOS "What's on my ballot" tool.
+**Minnesota holds its general election on Tuesday, Nov. 3, 2026, with polls open from 7:00 a.m. to 8:00 p.m., and early absentee voting at local elections offices ends today, Monday, Nov. 2, according to the Minnesota Secretary of State (SOS) and state law.** The ballot has a U.S. Senate seat, the governor's race and one statewide constitutional amendment, "Increasing funding to school districts." The SOS candidate pages could not be read for this story, so the names below come from news reports and are credited to them. Check your own ballot with the SOS "What's on my ballot" tool.
 
 ## Who is running for U.S. Senate and governor in Minnesota?
 
@@ -159,7 +160,7 @@ The SOS 2026 absentee factsheet says you can vote early by absentee ballot at yo
 | Fri., Sept. 18 | Absentee ballots sent and early voting begins |
 | Fri., Oct. 2 | SOS recommends applying by this date (passed) |
 | Tue., Oct. 13 | Last day to register in advance (passed) |
-| Mon., Nov. 2 | Early voting ends; last day to apply for an absentee ballot |
+| Mon., Nov. 2 (today) | Early voting ends; last day to apply for an absentee ballot |
 | Tue., Nov. 3, 7:00 a.m. to 8:00 p.m. | Election Day voting hours |
 | Tue., Nov. 3 | Absentee ballots must be received |
 
@@ -171,4 +172,4 @@ The SOS factsheet lists Oct. 13 as the date to register in advance, and that dat
 
 ## Print your checklist
 
-The free one-page checklist holds the Senate and governor candidates as reported above, the amendment with Yes and No boxes, the key dates and lines for your local races. Fill in the rest from your sample ballot. Plan your trip on the [October](/october-calendars.html) and [November 2026 calendars](/november-calendars.html) or a [weekly planner](/printable-weekly-calendar.html). For results night, see [what time polls close](/news/what-time-do-polls-close-election-day-2026/). Voting in another state? Read our [Wisconsin ballot guide](/news/wisconsin-ballot-2026-governor-candidates-constitutional-amendments/) or the [Texas sample ballot guide](/news/sample-ballot-by-zip-code-2026-texas-ballot/).
+The free one-page checklist holds the Senate and governor candidates as reported above, the amendment with Yes and No boxes, the key dates and lines for your local races. Fill in the rest from your sample ballot. Plan your trip on the [November 2026 calendar](/november-calendars.html) or a [weekly planner](/printable-weekly-calendar.html); the [October calendar](/october-calendars.html) shows the weeks of early voting. For results night, see [what time polls close](/news/what-time-do-polls-close-election-day-2026/). Voting in another state? Read our [Wisconsin ballot guide](/news/wisconsin-ballot-2026-governor-candidates-constitutional-amendments/) or the [Texas sample ballot guide](/news/sample-ballot-by-zip-code-2026-texas-ballot/).

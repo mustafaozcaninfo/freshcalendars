@@ -4,7 +4,7 @@ seoTitle: "November 2026 Meteor Showers: Taurids and Leonids"
 description: "The Southern Taurids peak Nov. 4-5 and the Northern Taurids Nov. 11-12 under a thin moon; the Leonids peak Nov. 16-17. Best times to watch in the U.S."
 type: news
 publishedAt: "2026-10-19T10:30:00-04:00"
-updatedAt: "2026-10-31T03:55:00-04:00"
+updatedAt: "2026-11-02T14:10:00-05:00"
 authors: [jessica-hartwell]
 category: sky-events
 keywords: ["November 2026 meteor shower", "Taurid meteor shower 2026", "Leonid meteor shower 2026", "Leonids 2026 peak", "Taurid fireballs 2026"]
@@ -37,6 +37,10 @@ sources:
   - title: "Leonids"
     url: "https://science.nasa.gov/solar-system/meteors-meteorites/leonids/"
     publisher: "NASA"
+  - title: "What's Up: November 2026 Skywatching Tips from NASA"
+    url: "https://science.nasa.gov/solar-system/skywatching/whats-up-november-2026-skywatching-tips-from-nasa/"
+    publisher: "NASA"
+    date: "2026-11-02"
   - title: "Phases of the Moon"
     url: "https://aa.usno.navy.mil/data/MoonPhases"
     publisher: "U.S. Naval Observatory, Astronomical Applications Department"
@@ -63,7 +67,7 @@ downloads:
 draft: false
 ---
 
-<p class="callout"><b>Halloween night, Sat., Oct. 31: Taurids already active.</b> Both Taurid streams run from late September into early December, according to the American Meteor Society, so a bright Taurid fireball is possible tonight. In New York the waning gibbous Moon (63% lit) rises at 10:59 p.m. Eastern Daylight Time (EDT), per the U.S. Naval Observatory, which leaves the evening hours before moonrise as the darkest window. For planets and Moon pairings this month, see our <a href="/news/planets-visible-november-2026-night-sky-calendar-moon-venus-uranus-opposition/">November 2026 night sky calendar</a>.</p>
+<p class="callout"><b>Halloween night, Sat., Oct. 31: Taurids were already active.</b> Both Taurid streams run from late September into early December, according to the American Meteor Society, so a bright Taurid fireball was possible that night. In New York the waning gibbous Moon (63% lit) rose at 10:59 p.m. Eastern Daylight Time (EDT), per the U.S. Naval Observatory, which left the evening hours before moonrise as the darkest window. For planets and Moon pairings this month, see our <a href="/news/planets-visible-november-2026-night-sky-calendar-moon-venus-uranus-opposition/">November 2026 night sky calendar</a>.</p>
 
 **November 2026 brings three meteor shower peaks**, and two of them land under nearly moonless skies. The Southern Taurids peak on the night of Nov. 4-5 and the Northern Taurids on Nov. 11-12, according to the American Meteor Society (AMS). The Leonids follow on the night of Nov. 16-17. None will produce a storm, but the Taurids are famous for slow, bright fireballs, and the dark Moon this year gives them a good chance.
 
@@ -96,8 +100,8 @@ On the peak night the Moon is about 39% lit (first quarter comes at 6:48 a.m. ES
 3. **Look up, not at the radiant.** Meteors appear all over the sky; look about halfway up in the darkest direction.
 4. **Dress for November.** Clear nights are cold. A reclining chair and a blanket help you stay out longer.
 
-Clocks fall back on Nov. 1, so evening viewing starts an hour earlier on the clock than in October; see [when daylight saving time ends](/when-is/daylight-savings/).
+Clocks fell back on Nov. 1, so evening viewing starts an hour earlier on the clock than in October; see [when daylight saving time ends](/when-is/daylight-savings/).
 
 ## More sky events
 
-October's Orionids peak Oct. 21-22; our [Orionid guide](/news/orionid-meteor-shower-2026-peak-october-21-22/) has the details. The full Beaver Moon follows on Nov. 24 at 9:53 a.m. EST. For every full moon of next year, see our [moon phases 2027 calendar](/news/moon-phases-2027-full-moon-calendar/). Mark the peak nights on a [November 2026 printable calendar](/november-calendars.html), or plan next year's sky watching on a [2027 yearly calendar](/printable-yearly-calendar.html).
+October's Orionids peak Oct. 21-22; our [Orionid guide](/news/orionid-meteor-shower-2026-peak-october-21-22/) has the details. The full Beaver Moon follows on Nov. 24 at 9:53 a.m. EST. NASA's November 2026 skywatching guide, published Nov. 2, puts the Southern Taurid peak around Nov. 5, the Northern Taurids around Nov. 12 and the Leonids in the early mornings of Nov. 17 and 18, after the Moon sets. For every full moon of next year, see our [moon phases 2027 calendar](/news/moon-phases-2027-full-moon-calendar/). Mark the peak nights on a [November 2026 printable calendar](/november-calendars.html), or plan next year's sky watching on a [2027 yearly calendar](/printable-yearly-calendar.html).

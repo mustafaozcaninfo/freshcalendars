@@ -1,9 +1,10 @@
 ---
-title: "Sunday Night Football Tonight: Eagles at Commanders, Nov. 1, 2026, Time, Channel and How to Stream"
-seoTitle: "Sunday Night Football Tonight: Eagles at Commanders"
-description: "Sunday Night Football: the Eagles play at the Commanders on Sunday, Nov. 1, 2026, at 8:20 p.m. Eastern Time (ET) on NBC and Peacock, the night clocks fall back."
+title: "Sunday Night Football: Commanders 27, Eagles 10 on Nov. 1, 2026, Time, Channel and Stream"
+seoTitle: "Sunday Night Football: Commanders 27, Eagles 10"
+description: "Sunday Night Football: the Commanders beat the Eagles 27-10 on Sunday, Nov. 1, 2026. Kickoff was 8:20 p.m. Eastern Time (ET) on NBC and Peacock."
 type: news
 publishedAt: "2026-10-30T05:20:00-04:00"
+updatedAt: "2026-11-02T14:10:00-05:00"
 authors: [jessica-hartwell]
 category: sports
 keywords: ["sunday night football tonight", "eagles vs commanders time", "what channel is sunday night football on", "eagles commanders live stream", "SNF week 8 2026"]
@@ -32,8 +33,8 @@ assets:
     alt: "Printable NFL Sunday viewing timeline for Nov. 1, 2026, from the 2 a.m. clock change to Eagles at Commanders at 8:20 p.m. ET"
 hero:
   src: ../../../../assets/news/sunday-night-football-tonight-eagles-commanders-snf-november-1-2026/sunday-night-football-tonight-eagles-commanders-snf-november-1-2026.webp
-  alt: "Aerial view of the Commanders' stadium in Landover, Maryland, for Sunday Night Football tonight, Eagles at Commanders"
-  caption: "File photo from 2017: the stadium in Landover, Md., now named Northwest Stadium, where the Eagles play the Commanders at 8:20 p.m. ET on Nov. 1."
+  alt: "Aerial view of the Commanders' stadium in Landover, Maryland, for Sunday Night Football, Eagles at Commanders"
+  caption: "File photo from 2017: the stadium in Landover, Md., now named Northwest Stadium, where the Eagles played the Commanders at 8:20 p.m. ET on Nov. 1."
   credit: "Photo: Staff Sgt. Patrick Evenson / Wikimedia Commons, cropped, edited"
   license:
     name: "Public domain"
@@ -41,9 +42,9 @@ hero:
     source: "https://commons.wikimedia.org/wiki/File:Guardsmen_Support_the_58th_Presidential_Inauguration_170119-Z-YI114-090.jpg"
     author: "Staff Sgt. Patrick Evenson"
 summary:
-  - "The Philadelphia Eagles play at the Washington Commanders on Sunday Night Football (SNF) on Sunday, Nov. 1, 2026, at 8:20 p.m. Eastern Time (ET), per NFL.com."
-  - "NBC and Peacock carry the game, with the pregame from 7 p.m. ET; NBC.com also streams it, NBC Sports Philadelphia says."
-  - "The game is at Northwest Stadium in Landover, Md., on the first night of standard time: 8:20 p.m. EST is 7:20 p.m. CST and 5:20 p.m. PST."
+  - "The Washington Commanders beat the Philadelphia Eagles 27-10 on Sunday Night Football (SNF) on Sunday, Nov. 1, 2026, per NFL.com; kickoff was at 8:20 p.m. Eastern Time (ET)."
+  - "NBC and Peacock carried the game, with the pregame from 7 p.m. ET; NBC.com also streamed it, NBC Sports Philadelphia said."
+  - "The game was at Northwest Stadium in Landover, Md., on the first night of standard time: 8:20 p.m. EST is 7:20 p.m. CST and 5:20 p.m. PST."
   - "Next on Sunday nights: Buccaneers at Bears on Nov. 8 and Steelers at Bengals on Nov. 15, both at 8:20 p.m. ET on NBC."
 downloads:
   - group: "NFL Sunday printables"
@@ -63,14 +64,14 @@ downloads:
     png: "/news/downloads/nfl-2026/nfl-sunday-november-1-2026-viewing-timeline-ink.png"
     pages: 1
 faq:
-  - q: "Who plays on Sunday Night Football tonight, Nov. 1, 2026?"
-    a: "The Philadelphia Eagles at the Washington Commanders, at 8:20 p.m. ET on NBC and Peacock, in Week 8 of the National Football League (NFL) season."
+  - q: "Who played on Sunday Night Football on Nov. 1, 2026?"
+    a: "The Philadelphia Eagles at the Washington Commanders, at 8:20 p.m. ET on NBC and Peacock, in Week 8 of the National Football League (NFL) season. The Commanders won 27-10, per NFL.com."
   - q: "What channel is Sunday Night Football on?"
-    a: "NBC. The game also streams on Peacock and NBC.com. The pregame starts at 7 p.m. ET on NBC and Peacock."
+    a: "NBC. The game also streamed on Peacock and NBC.com. The pregame started at 7 p.m. ET on NBC and Peacock."
   - q: "Can I watch Sunday Night Football without cable?"
     a: "Yes. Peacock streams it; Peacock's NFL page lists Premium at $12.99 a month and Premium Plus at $19.99 a month. An antenna also picks up your local NBC station for free, and NFL+ streams local and primetime games on phones and tablets."
   - q: "Does the clock change affect the kickoff?"
-    a: "No. Kickoff stays 8:20 p.m. ET. Clocks fall back at 2 a.m. that morning, so it is 8:20 p.m. Eastern Standard Time (EST), 5:20 p.m. Pacific Standard Time (PST) and 6:20 p.m. in Arizona."
+    a: "No. Kickoff stayed 8:20 p.m. ET. Clocks fell back at 2 a.m. that morning, so it was 8:20 p.m. Eastern Standard Time (EST), 5:20 p.m. Pacific Standard Time (PST) and 6:20 p.m. in Arizona."
 sources:
   - title: "NFL Schedule, Week 8, 2026"
     url: "https://www.nfl.com/schedules/2026/by-week/week-8"
@@ -105,13 +106,13 @@ related: [nfl-week-8-schedule-2026-game-times-tv-clock-change, monday-night-foot
 draft: false
 ---
 
-**The Philadelphia Eagles play at the Washington Commanders on Sunday Night Football (SNF) on Sunday, Nov. 1, 2026, at 8:20 p.m. Eastern Time (ET) on NBC, according to the National Football League's (NFL) Week 8 schedule on NFL.com.** NBC Sports Philadelphia says the game also streams on Peacock and NBC.com, and the NBC and Peacock pregame starts at 7 p.m. ET. Kickoff is at Northwest Stadium in Landover, Md.
+**The Washington Commanders beat the Philadelphia Eagles 27-10 on Sunday Night Football (SNF) on Sunday, Nov. 1, 2026, in Week 8 of the National Football League (NFL) season, according to NFL.com.** Kickoff was at 8:20 p.m. Eastern Time (ET) on NBC, per the Week 8 schedule. NBC Sports Philadelphia said the game also streamed on Peacock and NBC.com, and the NBC and Peacock pregame started at 7 p.m. ET. The game was at Northwest Stadium in Landover, Md.
 
-It is the first Sunday night game on standard time. U.S. clocks fall back at 2 a.m. that morning, so 8:20 p.m. ET is Eastern Standard Time (EST).
+It was the first Sunday night game on standard time. U.S. clocks fell back at 2 a.m. that morning, so 8:20 p.m. ET was Eastern Standard Time (EST).
 
 ## What time is Eagles at Commanders in my time zone?
 
-The kickoff is 8:20 p.m. EST. The other columns are our conversion; Arizona does not change its clocks, so after Nov. 1 it matches Mountain time.
+Kickoff was at 8:20 p.m. EST. The other columns are our conversion; Arizona does not change its clocks, so after Nov. 1 it matches Mountain time.
 
 | Place | Pregame | Kickoff |
 |---|---|---|
@@ -125,7 +126,7 @@ The kickoff is 8:20 p.m. EST. The other columns are our conversion; Arizona does
 
 ## What channel is Sunday Night Football on?
 
-NBC. Every Sunday night game this season is on NBC, per NFL.com, and the Week 8 game is no different. With an antenna, your local NBC station is free.
+NBC. Every Sunday night game this season is on NBC, per NFL.com, and the Week 8 game was no different. With an antenna, your local NBC station is free.
 
 ## How to watch Eagles vs. Commanders: live stream and TV
 
@@ -136,11 +137,11 @@ NBC. Every Sunday night game this season is on NBC, per NFL.com, and the Week 8 
 | NBC.com | Live stream with a TV provider login | NBC Sports Philadelphia |
 | NFL+ | "Local and primetime games on mobile" during the regular season | NFL.com |
 
-Peacock says that "if you don't have access to NBC via your TV provider, you can stream Sunday Night Football on Peacock." Prices are as Peacock lists them on Oct. 30 and can change. Free streams on social media are not licensed; stay with NBC, Peacock or the NFL.
+Peacock says that "if you don't have access to NBC via your TV provider, you can stream Sunday Night Football on Peacock." Prices are as Peacock listed them on Oct. 30 and can change. Free streams on social media are not licensed; stay with NBC, Peacock or the NFL.
 
 ## What else is on NFL Sunday, Nov. 1?
 
-Thirteen games are on Sunday. NFL.com lists eight at 1 p.m. ET on CBS and FOX, Chargers at Rams at 4:05 p.m. ET on FOX, and Chiefs at Broncos and Patriots at Dolphins at 4:25 p.m. ET on CBS. The afternoon games are regional, so your market decides which ones you see. Every game in seven time zones is in our [NFL Week 8 schedule](/news/nfl-week-8-schedule-2026-game-times-tv-clock-change/).
+Thirteen games were on Sunday. NFL.com listed eight at 1 p.m. ET on CBS and FOX, Chargers at Rams at 4:05 p.m. ET on FOX, and Chiefs at Broncos and Patriots at Dolphins at 4:25 p.m. ET on CBS. The Patriots beat the Dolphins 24-19, per NFL.com. The afternoon games were regional, so your market decided which ones you saw. Every game in seven time zones is in our [NFL Week 8 schedule](/news/nfl-week-8-schedule-2026-game-times-tv-clock-change/).
 
 Week 8 ends on Monday, Nov. 2, with the Chicago Bears at the Seattle Seahawks at 8:15 p.m. ET on ESPN; see our [Monday Night Football](/news/monday-night-football-tonight-cowboys-eagles-mnf-schedule-2026/) page. The Thursday game was [Panthers at Packers](/news/thursday-night-football-tonight-panthers-packers-tnf-schedule-2026/).
 

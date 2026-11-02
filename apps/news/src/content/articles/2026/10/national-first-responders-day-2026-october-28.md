@@ -1,10 +1,10 @@
 ---
-title: "National First Responders Day 2026 Is Wednesday, Oct. 28: Proclamations and Resolutions by Year"
+title: "National First Responders Day 2026 Was Wednesday, Oct. 28: Proclamations and Resolutions by Year"
 seoTitle: "National First Responders Day 2026: Oct. 28 History"
-description: "National First Responders Day is Wednesday, Oct. 28, 2026. The Federal Register lists proclamations for 2022 to 2024 and none yet for 2025 or 2026."
+description: "National First Responders Day was Wednesday, Oct. 28, 2026. The Federal Register lists proclamations for 2022 to 2024 and none yet for 2025 or 2026."
 type: news
 publishedAt: "2026-10-28T07:43:00-04:00"
-updatedAt: "2026-11-01T05:33:00-05:00"
+updatedAt: "2026-11-02T14:10:00-05:00"
 authors: [christina-gerland]
 category: holidays
 keywords: ["national first responders day", "first responders day 2026", "is today national first responders day", "october 28 first responders day"]
@@ -35,7 +35,7 @@ assets:
 hero:
   src: ../../../../assets/news/national-first-responders-day-2026-october-28/national-first-responders-day-2026-october-28.webp
   alt: "Red fire engine of Atlanta Fire Rescue parked outside Fire Station No. 19, for National First Responders Day 2026"
-  caption: "A fire engine at Atlanta's Fire Station No. 19 (file photo). National First Responders Day is Wednesday, Oct. 28, 2026."
+  caption: "A fire engine at Atlanta's Fire Station No. 19 (file photo). National First Responders Day was Wednesday, Oct. 28, 2026."
   credit: "Photo: Marc Merlin / Wikimedia Commons, cropped, edited"
   license:
     name: "CC BY-SA 4.0"
@@ -43,10 +43,10 @@ hero:
     source: "https://commons.wikimedia.org/wiki/File:Gleaming_fire_engine_parked_in_front_of_Atlanta%27s_Fire_Station_No._19.jpg"
     author: "Marc Merlin"
 summary:
-  - "National First Responders Day is Wednesday, Oct. 28, 2026; it is not a federal holiday."
+  - "National First Responders Day was Wednesday, Oct. 28, 2026; it is not a federal holiday."
   - "Senate Concurrent Resolution 15 backed the day in 2017 and again in 2019."
   - "Presidential proclamations appear in the Federal Register for 2022, 2023 and 2024; none was listed for 2025 or 2026 as of Nov. 1, 2026."
-  - "Clocks go back on Sunday, Nov. 1, 2026, a prompt to check smoke alarms."
+  - "Clocks went back on Sunday, Nov. 1, 2026, a prompt to check smoke alarms."
 sources:
   - title: "Congressional Record, Aug. 3, 2017, page S4892"
     url: "https://www.govinfo.gov/content/pkg/CREC-2017-08-03/html/CREC-2017-08-03-pt1-PgS4892.htm"
@@ -122,7 +122,7 @@ The record starts in Congress. The two resolutions below are concurrent resoluti
 
 The 2024 proclamation states its purpose "to honor our brave first responders and to pay tribute to those who have lost their lives in the line of duty." The Congressional Record and bill pages are hosted by govinfo, the website of the U.S. Government Publishing Office (GPO).
 
-## Is today a federal holiday?
+## Is National First Responders Day a federal holiday?
 
 No. National First Responders Day is not a federal holiday. The 2017 and 2019 resolutions expressed support and the proclamations name a single year, so nothing in this record makes the date a permanent holiday. See the [U.S. holidays calendar](/holidays/) for the federal holidays; the next is [Veterans Day on Wednesday, Nov. 11](/news/veterans-day-2026-wednesday-november-11/).
 
@@ -137,7 +137,7 @@ Two other observances are on the record. A White House proclamation of Apr. 30, 
 ## How can you mark the day?
 
 - Write a thank-you note to a local fire station, police department or EMS service.
-- Check smoke alarms. Clocks go back on Sunday, Nov. 1, 2026; our [daylight saving time story](/news/daylight-saving-time-ends-november-1-2026/) has the details.
-- Look at the [October 2026](/october-calendars.html) and [November 2026](/november-calendars.html) printable calendars to plan a visit before the month turns.
+- Check smoke alarms. Clocks went back on Sunday, Nov. 1, 2026; our [daylight saving time story](/news/daylight-saving-time-ends-november-1-2026/) has the details.
+- Look at the [October 2026](/october-calendars.html) and [November 2026](/november-calendars.html) printable calendars to plan a visit.
 
 For a different October day of service, see [Make a Difference Day on Oct. 24](/news/make-a-difference-day-2026-october-24/). The free printable timeline on this page lists the history above and the two 2026 dates.

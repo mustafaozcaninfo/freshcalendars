@@ -1,10 +1,10 @@
 ---
-title: "SSI Oct. 30 Is November's Payment, Not Extra: November 2026 Social Security Dates"
+title: "SSI Oct. 30 Was November's Payment, Not Extra: November 2026 Social Security Dates"
 seoTitle: "SSI Oct. 30 and November 2026 Social Security Dates"
-description: "The Supplemental Security Income (SSI) payment on Friday, Oct. 30, 2026, is November's, not an extra check. Here are the Social Security dates for November."
+description: "The Supplemental Security Income (SSI) payment on Friday, Oct. 30, 2026, was November's, not an extra check. Here are the Social Security dates for November."
 type: news
 publishedAt: "2026-10-21T09:20:00-04:00"
-updatedAt: "2026-10-28T16:12:00-04:00"
+updatedAt: "2026-11-02T14:10:00-05:00"
 authors: [aaron-kessler]
 category: money-benefits
 keywords: ["Social Security payment schedule October 2026", "Social Security payment today", "when is my Social Security check", "Social Security November 2026 payment dates", "SSI payment dates 2026"]
@@ -13,9 +13,9 @@ hero:
   src: ../../../../assets/news/social-security-payment-schedule-october-2026-who-gets-paid-today/social-security-payment-schedule-october-2026-who-gets-paid-today.jpg
   alt: "Social Security payment schedule October 2026: calendar cards for Wednesdays Oct. 14, 21 and 28 with Oct. 28 highlighted"
   title: "Social Security October 2026 payment schedule"
-  caption: "The Oct. 28, 2026 payment, for beneficiaries born on the 21st to the 31st, has gone out. The next Social Security payday is Tuesday, Nov. 3; Supplemental Security Income (SSI) is paid Friday, Oct. 30."
+  caption: "The Oct. 28, 2026 payment, for beneficiaries born on the 21st to the 31st, has gone out. The next Social Security payday is Tuesday, Nov. 3; Supplemental Security Income (SSI) was paid Friday, Oct. 30."
 summary:
-  - "The Supplemental Security Income (SSI) payment dated Friday, Oct. 30, 2026, is November's payment moved early because Nov. 1 is a Sunday. It is not an extra check."
+  - "The Supplemental Security Income (SSI) payment dated Friday, Oct. 30, 2026, was November's payment moved early because Nov. 1 is a Sunday. It was not an extra check."
   - "No SSI payment is dated in November 2026; the next one after Oct. 30 is Tuesday, Dec. 1."
   - "November's Social Security dates are Nov. 3, Nov. 10 (moved up from Veterans Day on Nov. 11), Nov. 18 and Nov. 25."
   - "The 3.6% cost-of-living adjustment starts with payments made in January 2027; SSI recipients see it in the payment dated Thursday, Dec. 31, 2026."
@@ -23,15 +23,15 @@ faq:
   - q: "Will I get two SSI payments in October 2026?"
     a: "Yes, two SSI payments are dated in October: Thursday, Oct. 1 for October, and Friday, Oct. 30 for November. The Oct. 30 payment is November's benefit moved early because Nov. 1 is a Sunday. There is no SSI payment dated in November, so it balances out across the two months."
   - q: "Is the Oct. 30 SSI payment extra?"
-    a: "No. It is November's SSI payment, paid on Friday, Oct. 30 because the regular date, the 1st, falls on Sunday, Nov. 1. No SSI payment is dated in November 2026; the next one is Tuesday, Dec. 1."
+    a: "No. It was November's SSI payment, paid on Friday, Oct. 30 because the regular date, the 1st, falls on Sunday, Nov. 1. No SSI payment is dated in November 2026; the next one is Tuesday, Dec. 1."
   - q: "Who got a Social Security payment on Oct. 21, 2026?"
     a: "People whose birthday falls on the 11th through the 20th of any month and who started benefits after April 1997 and do not also get SSI. Their payment was dated the third Wednesday of the month, Oct. 21."
   - q: "When is the next Social Security payment in October 2026?"
-    a: "The Wednesday, Oct. 28 payment for people born on the 21st through the 31st has gone out. The last October-dated payment is the Supplemental Security Income (SSI) benefit on Friday, Oct. 30, which is November's. The next Social Security payday is Tuesday, Nov. 3."
+    a: "There are no more October payments: the Wednesday, Oct. 28 payment for people born on the 21st through the 31st and the Supplemental Security Income (SSI) benefit on Friday, Oct. 30, which was November's, have both gone out. The next Social Security payday is tomorrow, Tuesday, Nov. 3."
   - q: "Why is a November Social Security payment on Tuesday, Nov. 10?"
     a: "The second Wednesday of November is Nov. 11, Veterans Day, a federal holiday. When a payment date falls on a holiday, Social Security pays the business day before, so people born on the 1st through the 10th are paid Tuesday, Nov. 10."
   - q: "When is SSI paid in November 2026?"
-    a: "On Friday, Oct. 30. SSI is normally paid on the 1st, and Nov. 1, 2026, is a Sunday, so the payment moves to the last business day before it."
+    a: "On Friday, Oct. 30, which has passed. SSI is normally paid on the 1st, and Nov. 1, 2026, is a Sunday, so the payment moves to the last business day before it."
   - q: "Does the October payment include the 2027 COLA?"
     a: "No. The 3.6% increase applies to benefits for December 2026, which Social Security pays in January 2027. SSI recipients get it in the payment dated Dec. 31, 2026."
   - q: "What if my payment does not arrive?"
@@ -70,13 +70,13 @@ downloads:
 draft: false
 ---
 
-<p class="callout"><b>Last updated Wed. Oct. 28, 2026, 4:12 p.m. ET.</b> The Wednesday, Oct. 28 payment, for birthdays on the 21st to the 31st, has gone out. Next is the Supplemental Security Income (SSI) payment on Friday, Oct. 30 (November's benefit), then Tuesday, Nov. 3. The November and December dates below are unchanged.</p>
+<p class="callout"><b>Status as of Mon., Nov. 2, 2026.</b> The Wednesday, Oct. 28 payment, for birthdays on the 21st to the 31st, and the Supplemental Security Income (SSI) payment on Friday, Oct. 30 (November's benefit) have gone out. Next is Tuesday, Nov. 3, tomorrow. The November and December dates below are unchanged.</p>
 
-**The Supplemental Security Income (SSI) payment dated Friday, Oct. 30, 2026, is November's payment moved early because Nov. 1 is a Sunday. It is not an extra check.** No SSI payment is dated in November; the next one after Oct. 30 is Tuesday, Dec. 1. The month's Social Security dates are Nov. 3, Nov. 10 (moved up from Veterans Day on Nov. 11), Nov. 18 and Nov. 25. The Wednesday, Oct. 28 payment, for people born on the 21st through the 31st, has already gone out. Every date below is from the Social Security Administration (SSA) published 2026 schedule.
+**The Supplemental Security Income (SSI) payment dated Friday, Oct. 30, 2026, was November's payment moved early because Nov. 1 is a Sunday. It was not an extra check.** No SSI payment is dated in November; the next one after Oct. 30 is Tuesday, Dec. 1. The month's Social Security dates are Nov. 3, Nov. 10 (moved up from Veterans Day on Nov. 11), Nov. 18 and Nov. 25. The Wednesday, Oct. 28 payment, for people born on the 21st through the 31st, and the Oct. 30 SSI payment have already gone out. Every date below is from the Social Security Administration (SSA) published 2026 schedule.
 
 ## Who gets paid next
 
-If your birthday is on the 21st through the 31st, your October payment was dated Wednesday, Oct. 28, the fourth Wednesday of the month, and has gone out. That applies to retirement, survivor and disability benefits for people who started receiving Social Security after April 1997 and do not also get SSI. The next date on the calendar is the Oct. 30 SSI payment, then Tuesday, Nov. 3.
+If your birthday is on the 21st through the 31st, your October payment was dated Wednesday, Oct. 28, the fourth Wednesday of the month, and has gone out. That applies to retirement, survivor and disability benefits for people who started receiving Social Security after April 1997 and do not also get SSI. The Oct. 30 SSI payment has also gone out. The next date on the calendar is tomorrow, Tuesday, Nov. 3.
 
 The October payment is your benefit for September: Social Security pays each month's benefit in the following month.
 
@@ -97,7 +97,7 @@ The October payment is your benefit for September: Social Security pays each mon
 | Wednesday, Oct. 14 | Birthdays on the 1st to the 10th |
 | Wednesday, Oct. 21 | Birthdays on the 11th to the 20th |
 | Wednesday, Oct. 28 | Birthdays on the 21st to the 31st (paid) |
-| **Friday, Oct. 30** | **SSI for November (Nov. 1 is a Sunday)** |
+| **Friday, Oct. 30** | **SSI for November (Nov. 1 is a Sunday) (paid)** |
 
 ## November 2026 payment schedule
 
@@ -108,7 +108,7 @@ The October payment is your benefit for September: Social Security pays each mon
 | Wednesday, Nov. 18 | Birthdays on the 11th to the 20th |
 | Wednesday, Nov. 25 | Birthdays on the 21st to the 31st |
 
-There is no SSI payment dated in November: the November payment goes out Oct. 30, and December's comes on Tuesday, Dec. 1. Nov. 3 is also Election Day; it is not a federal holiday, so that payment keeps its date. See [whether Election Day is a holiday](/news/is-election-day-a-holiday-2026-whats-open/) for what else is open.
+There is no SSI payment dated in November: the November payment went out Oct. 30, and December's comes on Tuesday, Dec. 1. Nov. 3 is also Election Day; it is not a federal holiday, so that payment keeps its date. See [whether Election Day is a holiday](/news/is-election-day-a-holiday-2026-whats-open/) for what else is open.
 
 ## December and the 3.6% raise
 

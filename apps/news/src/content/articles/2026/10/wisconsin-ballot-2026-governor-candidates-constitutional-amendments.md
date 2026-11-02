@@ -1,9 +1,10 @@
 ---
 title: "Wisconsin Ballot 2026: Governor Candidates, Statewide Races and Three Constitutional Amendments on Nov. 3"
 seoTitle: "Wisconsin Ballot 2026: Governor Race and 3 Amendments"
-description: "Wisconsin votes Nov. 3, 2026 on governor, four other statewide offices and three constitutional amendments; absentee requests are due Oct. 29, per local news."
+description: "Wisconsin votes Nov. 3, 2026 on governor, four other statewide offices and three constitutional amendments; absentee requests were due Oct. 29, per local news."
 type: explainer
 publishedAt: "2026-10-24T17:00:00-04:00"
+updatedAt: "2026-11-02T14:10:00-05:00"
 authors: [christina-gerland]
 category: elections
 keywords: ["Wisconsin ballot 2026", "Wisconsin governor race 2026 candidates", "Wisconsin constitutional amendments 2026", "Wisconsin absentee ballot deadline 2026"]
@@ -23,18 +24,18 @@ summary:
   - "Wisconsin votes on Tuesday, Nov. 3, 2026. According to WMTV15, the governor race is Republican Tom Tiffany against Democrat David Crowley, and four other statewide offices are on the ballot."
   - "Three statewide constitutional amendment questions appear: the governor's partial veto, religious liberty and a ban on discrimination or preferential treatment by governmental entities."
   - "There is no U.S. Senate race in Wisconsin in 2026. All 8 U.S. House seats, all 99 Assembly seats and 17 of 33 state Senate seats are on the ballot."
-  - "Fox6 reported that absentee requests by mail are due to your municipal clerk by 5 p.m. on Thursday, Oct. 29. Polls are open 7 a.m. to 8 p.m. and photo ID is required."
+  - "Fox6 reported that absentee requests by mail were due to your municipal clerk by 5 p.m. on Thursday, Oct. 29, which has passed. Polls are open 7 a.m. to 8 p.m. and photo ID is required."
 faq:
   - q: "Who is running for governor of Wisconsin in 2026?"
     a: "Republican Tom Tiffany and Democrat David Crowley, according to WMTV15 on Oct. 23, 2026."
   - q: "What are the Wisconsin constitutional amendments on the 2026 ballot?"
     a: "Three questions: the governor's partial veto, religious liberty (places of worship during emergencies) and a new section on discrimination and preferential treatment. WMTV15 and Wisconsin Public Radio (WPR) list the same three."
   - q: "What is the Wisconsin absentee ballot deadline in 2026?"
-    a: "Requests by mail are due to your municipal clerk by 5 p.m. on Thursday, Oct. 29, 2026, Fox6 reported. Completed absentee ballots must arrive by 8 p.m. on Election Day, Nov. 3."
+    a: "Requests by mail were due to your municipal clerk by 5 p.m. on Thursday, Oct. 29, 2026, Fox6 reported, so that deadline has passed. Completed absentee ballots must arrive by 8 p.m. on Election Day, Tuesday, Nov. 3."
   - q: "Is there a U.S. Senate race in Wisconsin in 2026?"
     a: "No. Wisconsin's two U.S. Senate seats are next on the ballot in 2028 and 2030."
   - q: "Can I register to vote in Wisconsin on Election Day?"
-    a: "Yes. Fox6 reported that Election Day registration is available at the polls. Online and mail registration closed Oct. 14, and in-person registration at the clerk's office runs until 5 p.m. on Friday, Oct. 30."
+    a: "Yes. Fox6 reported that Election Day registration is available at the polls. Online and mail registration closed Oct. 14, and in-person registration at the clerk's office ended at 5 p.m. on Friday, Oct. 30; on Nov. 3 you register at the polls."
   - q: "Do I need photo ID to vote in Wisconsin?"
     a: "Yes, Fox6 reported that photo ID is required to vote and when you request an absentee ballot."
 sources:
@@ -150,9 +151,9 @@ Fox6 published these deadlines on Oct. 7, 2026.
 |---|---|
 | Wed., Oct. 14 | Online and mail registration closed |
 | Tue., Oct. 20 | In-person absentee voting started |
-| Thu., Oct. 29, 5 p.m. | Absentee requests by mail due to your municipal clerk |
-| Fri., Oct. 30, 5 p.m. | Absentee requests from indefinitely confined voters and military voters due; in-person registration at the clerk's office ends |
-| Fri., Oct. 30 | Many municipalities end in-person absentee voting; it ends no later than the Sunday before the election, so check your clerk |
+| Thu., Oct. 29, 5 p.m. | Absentee requests by mail were due to your municipal clerk |
+| Fri., Oct. 30, 5 p.m. | Absentee requests from indefinitely confined voters and military voters were due; in-person registration at the clerk's office ended |
+| Fri., Oct. 30 | Many municipalities ended in-person absentee voting; it ended no later than the Sunday before the election, Nov. 1 |
 | Tue., Nov. 3, 5 p.m. | Absentee requests from hospitalized voters due |
 | Tue., Nov. 3, 8 p.m. | Absentee ballots must arrive |
 | Tue., Nov. 3, 7 a.m. to 8 p.m. | Polls open; Election Day registration is available at the polls |
@@ -165,4 +166,4 @@ Your sample ballot at myvote.wi.gov shows the exact races and full amendment wor
 
 ## Print your Wisconsin ballot checklist
 
-Our free one-page checklist lists the statewide candidates reported by WMTV15, the three amendment questions with Yes and No boxes, the key dates from Fox6 and lines for your local races. Copy your choices from your sample ballot and take the sheet with you. Mark the dates on our [October](/october-calendars.html) and [November 2026 calendars](/november-calendars.html) or a [weekly planner](/printable-weekly-calendar.html).
+Our free one-page checklist lists the statewide candidates reported by WMTV15, the three amendment questions with Yes and No boxes, the key dates from Fox6 and lines for your local races. Copy your choices from your sample ballot and take the sheet with you. Mark Nov. 3 on our [November 2026 calendar](/november-calendars.html) or a [weekly planner](/printable-weekly-calendar.html); the [October 2026 calendar](/october-calendars.html) shows the deadlines that have passed.

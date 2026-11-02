@@ -4,7 +4,7 @@ seoTitle: "Lowe's Black Friday 2026: Deals Start Oct. 29"
 description: "Lowe's Black Friday deals began Thursday, Oct. 29, 2026. 12 Days of Deals begin Nov. 16, Doorbusters hit Nov. 27 and stores close on Thanksgiving Day."
 type: news
 publishedAt: "2026-10-29T05:40:00-04:00"
-updatedAt: "2026-11-01T10:27:00-05:00"
+updatedAt: "2026-11-02T14:10:00-05:00"
 authors: [jessica-hartwell]
 category: retail-dates
 keywords: ["lowe's black friday 2026", "lowe's 12 days of deals 2026", "lowe's black friday ad 2026", "is lowe's open on thanksgiving 2026", "home depot black friday 2026"]
@@ -34,7 +34,7 @@ assets:
 hero:
   src: ../../../../assets/news/lowes-black-friday-2026-deals-start-october-29-12-days-of-deals-november-16/lowes-black-friday-2026-deals-start-october-29-12-days-of-deals-november-16.webp
   alt: "Lowe's Black Friday 2026: a Lowe's garden center with a fresh Christmas trees banner, deals start Oct. 29"
-  caption: "A Lowe's garden center in Eugene, Oregon (file photo). Lowe's says its 2026 Black Friday deals start Oct. 29 and its stores close on Thanksgiving Day."
+  caption: "A Lowe's garden center in Eugene, Oregon (file photo). Lowe's says its 2026 Black Friday deals started Oct. 29 and its stores close on Thanksgiving Day."
   credit: "Photo: Rick Obst / Wikimedia Commons, cropped, edited"
   license:
     name: "CC BY 2.0"
@@ -42,10 +42,10 @@ hero:
     source: "https://commons.wikimedia.org/wiki/File:Lowe%27s_Garden_Center_in_Eugene,_Oregon.jpg"
     author: "Rick Obst"
 summary:
-  - "Lowe's Black Friday deals start Thursday, Oct. 29, 2026, four weeks before Black Friday on Nov. 27, according to Lowe's holiday announcement of Oct. 8."
+  - "Lowe's Black Friday deals started Thursday, Oct. 29, 2026, four weeks before Black Friday on Nov. 27, according to Lowe's holiday announcement of Oct. 8."
   - "Lowe's 10 Days of Deals grows to 12 Days of Deals this year, beginning Monday, Nov. 16, with new savings each day leading up to Black Friday."
   - "Lowe's stores stay closed on Thanksgiving Day, Nov. 26, and MyLowe's Rewards and MyLowe's Pro Rewards members get online Doorbuster access a day early."
-  - "Lowe's has not published Black Friday opening hours, Doorbuster prices or Cyber deal dates, and Home Depot, which closes on Thanksgiving and opens at 6 a.m. on Black Friday, has not announced its sale dates."
+  - "Lowe's has not published Black Friday opening hours, Doorbuster prices or Cyber deal dates, and Home Depot, which closes on Thanksgiving and opens at 6 a.m. on Black Friday, announced on Oct. 29 a Black Friday Savings Event from Nov. 5 to 25."
 faq:
   - q: "When do Lowe's Black Friday 2026 deals start?"
     a: "Thursday, Oct. 29, 2026, four weeks before Black Friday, according to Lowe's holiday announcement of Oct. 8."
@@ -56,7 +56,7 @@ faq:
   - q: "Do MyLowe's Rewards members get Black Friday early access?"
     a: "Yes. MyLowe's Rewards and MyLowe's Pro Rewards members get exclusive early online access to Black Friday Doorbusters one day before everyone else on Nov. 27, which is Thursday, Nov. 26."
   - q: "When does the Home Depot Black Friday 2026 sale start?"
-    a: "The Home Depot has not announced Black Friday event dates. Its Sept. 29 release says customers can get an early jump on holiday savings beginning Oct. 29, and its 2026 holiday hours list stores closed on Thanksgiving and opening at 6 a.m. on Black Friday, Nov. 27."
+    a: "The Home Depot's Oct. 29 announcement says its Black Friday Savings Event runs Nov. 5 to 25, 2026, in store and online. Its Sept. 29 release said customers could get an early jump on holiday savings beginning Oct. 29, and its 2026 holiday hours list stores closed on Thanksgiving and opening at 6 a.m. on Black Friday, Nov. 27."
 sources:
   - title: "Lowe's Unveils Holiday 2026 Lineup with New Gifts and Decor, MyLowe's Rewards Perks and Weeks of Black Friday Savings"
     url: "https://corporate.lowes.com/newsroom/press-releases/lowes-unveils-holiday-2026-lineup-new-gifts-and-decor-mylowes-rewards-perks-and-weeks-of-black-friday-savings"
@@ -66,6 +66,10 @@ sources:
     url: "https://ir.homedepot.com/news-releases/2026/09-29-2026-130046472"
     publisher: "The Home Depot"
     date: "2026-09-29"
+  - title: "The Home Depot Kicks Off Black Friday Season With Unbeatable Value Across Tools, Home Upgrades, and Holiday Decor"
+    url: "https://corporate.homedepot.com/news/products/home-depot-kicks-black-friday-season"
+    publisher: "The Home Depot"
+    date: "2026-10-29"
   - title: "Store Holiday Hours"
     url: "https://corporate.homedepot.com/news/company/store-holiday-hours-home-depot"
     publisher: "The Home Depot"
@@ -142,18 +146,17 @@ The four weeks of deals also include gifts through "Gifts Under" and free produc
 |---|---|---|
 | Release date | Oct. 8, 2026 | Sept. 29, 2026 |
 | Holiday savings start | Oct. 29 (Black Friday deals) | Oct. 29 ("an early jump on holiday savings") |
-| Black Friday event dates | Doorbusters Nov. 27; 12 Days of Deals from Nov. 16 | Not yet announced |
+| Black Friday event dates | Doorbusters Nov. 27; 12 Days of Deals from Nov. 16 | Black Friday Savings Event Nov. 5 to 25 (Oct. 29 announcement) |
 | Thanksgiving Day stores | Closed | Closed |
 | Black Friday store opening | Not published | 6 a.m. |
 
-Both retailers start on Oct. 29 and both close on Thanksgiving Day, but only Lowe's has published a Black Friday deal schedule. Home Depot's 2026 holiday hours page lists a 6 a.m. opening on Black Friday and notes that times can vary by location. Our [Black Friday 2026 ad tracker](/news/black-friday-2026-ad-tracker-walmart-target-best-buy/) follows Walmart, Target, Best Buy, Home Depot and Lowe's, and the [Best Buy holiday calendar](/news/best-buy-black-friday-2026-doorbusters-october-30-holiday-calendar/) lists its dates.
+Both retailers start on Oct. 29 and both close on Thanksgiving Day, and each has published Black Friday event dates, though the two schedules differ. Home Depot's 2026 holiday hours page lists a 6 a.m. opening on Black Friday and notes that times can vary by location. See our [Home Depot Black Friday 2026 story](/news/home-depot-black-friday-2026-sale-dates-november-5-25-store-hours/) for its Nov. 5 to 25 event. Our [Black Friday 2026 ad tracker](/news/black-friday-2026-ad-tracker-walmart-target-best-buy/) follows Walmart, Target, Best Buy, Home Depot and Lowe's, and the [Best Buy holiday calendar](/news/best-buy-black-friday-2026-doorbusters-october-30-holiday-calendar/) lists its dates.
 
 ## What has not been announced?
 
 - Black Friday store opening hours at Lowe's.
 - Doorbuster prices.
 - Dates for Cyber deals.
-- Home Depot Black Friday event dates.
 
 ## Print the Lowe's Black Friday deal calendar
 

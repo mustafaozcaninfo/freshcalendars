@@ -1,9 +1,10 @@
 ---
 title: "Golden State Warriors Schedule November 2026: Game Times in PT and ET, TV and NBA Cup"
 seoTitle: "Warriors Schedule November 2026: Times, TV, Cup"
-description: "The Warriors host the LA Clippers on Sun., Nov. 1, 2026, at 5:30 p.m. Pacific Time (PT), 8:30 p.m. Eastern Time (ET), with all 14 November games and times."
+description: "The Warriors host Phoenix on Mon., Nov. 2, 2026, at 7 p.m. Pacific Time (PT), 10 p.m. Eastern Time (ET), with all 14 November games and times."
 type: explainer
 publishedAt: "2026-10-31T01:40:00-04:00"
+updatedAt: "2026-11-02T14:10:00-05:00"
 authors: [jessica-hartwell]
 category: sports
 keywords: ["warriors schedule november 2026", "warriors game tonight", "warriors schedule printable", "warriors nba cup schedule 2026"]
@@ -11,9 +12,9 @@ dateline: "New York"
 assets:
   scene: sports
   overlay: true
-  kicker: "Warriors · Next game Sun., Nov. 1, 2026"
-  date: "2026-11-01"
-  card: { top: "Clippers at Warriors, Chase Center", big: "5:30 p.m. PT", bottom: "8:30 p.m. ET, no national TV listed" }
+  kicker: "Warriors · Next game Mon., Nov. 2, 2026"
+  date: "2026-11-02"
+  card: { top: "Suns at Warriors, Chase Center", big: "7 p.m. PT", bottom: "10 p.m. ET, no national TV listed" }
   printable:
     slug: golden-state-warriors-schedule-november-2026
     group: warriors-schedule-2026
@@ -42,7 +43,7 @@ assets:
 hero:
   src: ../../../../assets/news/golden-state-warriors-schedule-november-2026-game-times-tv-nba-cup-printable/golden-state-warriors-schedule-november-2026-game-times-tv-nba-cup-printable.webp
   alt: "Golden State Warriors game at Chase Center in San Francisco, seen from the upper deck, for the Warriors November 2026 schedule"
-  caption: "The Warriors host the LA Clippers at Chase Center in San Francisco on Sun., Nov. 1, 2026, at 5:30 p.m. PT, per the NBA. File photo of a Warriors home game at Chase Center."
+  caption: "The Warriors host Phoenix at Chase Center in San Francisco on Mon., Nov. 2, 2026, at 7 p.m. PT, per the NBA. File photo of a Warriors home game at Chase Center."
   credit: "Photo: Américo Toledano / Wikimedia Commons, cropped, edited"
   license:
     name: "CC BY-SA 4.0"
@@ -51,13 +52,13 @@ hero:
     author: "Américo Toledano"
     authorUrl: "https://commons.wikimedia.org/wiki/User:Hameryko"
 summary:
-  - "The Golden State Warriors host the LA Clippers on Sun., Nov. 1, 2026, at 5:30 p.m. PT (8:30 p.m. ET) at Chase Center, per the NBA's official schedule."
+  - "The Golden State Warriors host Phoenix on Mon., Nov. 2, 2026, at 7 p.m. PT (10 p.m. ET) at Chase Center, per the NBA's official schedule; the Nov. 1 game against the LA Clippers has been played."
   - "The NBA's August schedule lists 14 Warriors games in November 2026: 8 at home and 6 away, by our count."
   - "Three November games are Emirates NBA Cup games: Nov. 13 at San Antonio, Nov. 25 against Sacramento and Nov. 27 at Portland."
   - "The NBA lists national TV for three Warriors games: ESPN on Nov. 11 and Nov. 18, and Prime Video on Nov. 13."
 faq:
   - q: "When do the Warriors play next?"
-    a: "On Sun., Nov. 1, 2026, the Warriors host the LA Clippers at Chase Center at 5:30 p.m. PT (8:30 p.m. ET), according to the NBA's official schedule. No national TV is listed."
+    a: "On Mon., Nov. 2, 2026, the Warriors host Phoenix at Chase Center at 7 p.m. PT (10 p.m. ET), according to the NBA's official schedule. No national TV is listed."
   - q: "How many Warriors games are in November 2026?"
     a: "14, according to the NBA's schedule dated Aug. 13, 2026: 8 at home and 6 away, by our count. The schedule is subject to change."
   - q: "Which Warriors games are NBA Cup games?"
@@ -103,13 +104,13 @@ related: [golden-state-warriors-schedule-december-2026-game-times-tv-christmas-p
 draft: false
 ---
 
-**The Golden State Warriors host the LA Clippers on Sunday, Nov. 1, 2026, at 5:30 p.m. Pacific Time (PT), which is 8:30 p.m. Eastern Time (ET), at Chase Center in San Francisco, according to the National Basketball Association (NBA) official schedule.** The NBA lists no national TV for that game.
+**The Golden State Warriors host Phoenix on Monday, Nov. 2, 2026, at 7 p.m. Pacific Time (PT), which is 10 p.m. Eastern Time (ET), at Chase Center in San Francisco, according to the National Basketball Association (NBA) official schedule.** The NBA lists no national TV for that game. The Warriors' Nov. 1 game against the LA Clippers has been played.
 
 The NBA's 2026-27 regular season schedule PDF, dated Aug. 13, 2026 and marked "subject to change," gives each game's ET time and the local time at the home arena. It lists 14 Warriors games in November. The table below converts every tip-off to PT and ET, and to Central Time (CT) for road games in the Central zone, and a printable of the same rows is further down.
 
 ## What is the Warriors schedule for November 2026?
 
-Weekdays and the home and away counts are our own calculation from the NBA's PDF. Times are those listed after U.S. clocks fall back on Nov. 1, and ET and PT move together, so the three-hour gap holds all month.
+Weekdays and the home and away counts are our own calculation from the NBA's PDF. Times are those listed after U.S. clocks fell back on Nov. 1, and ET and PT move together, so the three-hour gap holds all month.
 
 | Date | Game | PT | CT | ET | National TV | NBA Cup |
 |---|---|---|---|---|---|---|

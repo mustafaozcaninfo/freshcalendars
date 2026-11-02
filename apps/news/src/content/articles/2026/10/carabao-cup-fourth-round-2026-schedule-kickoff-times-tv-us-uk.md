@@ -4,7 +4,7 @@ seoTitle: "Carabao Cup Fourth Round 2026 Results and Draw"
 description: "Carabao Cup fourth round results, Oct. 27 to 29, 2026: Fleetwood Town knocked out Arsenal on penalties and the quarter-final draw set the last eight."
 type: news
 publishedAt: "2026-10-27T11:58:00-04:00"
-updatedAt: "2026-10-30T01:05:00-04:00"
+updatedAt: "2026-11-02T14:10:00-05:00"
 authors: [jessica-hartwell]
 category: sports
 keywords: ["carabao cup fourth round results", "fleetwood vs arsenal result", "liverpool vs chelsea carabao cup result", "carabao cup quarter final draw", "carabao cup fourth round 2026"]
@@ -13,7 +13,7 @@ assets:
   overlay: true
   kicker: "Carabao Cup Round Four · Oct. 27-29, 2026"
   date: "2026-10-27"
-  card: { top: "Fleetwood vs Arsenal tonight", big: "4 p.m. ET", bottom: "8pm in the UK · Paramount+ in the US" }
+  card: { top: "Fleetwood 1-1 Arsenal, won 5-3 on penalties", big: "Round Four", bottom: "Quarter-finals: week of Dec. 14" }
   printable:
     slug: carabao-cup-round-four-tv-schedule-2026
     group: carabao-cup-2026
@@ -136,9 +136,9 @@ The EFL says 2024/25 began a new broadcast partnership with CBS Sports. Games we
 
 In the UK, the EFL says "every Round Four tie" was available live on Sky Sports. Bradford City against Peterborough United and Everton against Newcastle United were on Sky Sports+. For the other four Wednesday ties the EFL did not name a channel.
 
-## Why was the UK four hours ahead of the US this week?
+## Why was the UK four hours ahead of the US during Round Four?
 
-The UK went back to GMT on Oct. 25, while the U.S. stays on daylight time until Nov. 1. For this week the gap is 4 hours, so 4 p.m. ET was 8pm in the UK. After the U.S. clocks go back on Nov. 1 the gap returns to 5 hours; our [guide to the UK and Europe clock change](/news/uk-europe-clocks-go-back-october-25-2026-time-difference/) explains the week in between. The same gap affects other UK events, such as the [Ballon d'Or 2026 ceremony in London](/news/ballon-dor-2026-date-time-by-time-zone-nominees-london/).
+The UK went back to GMT on Oct. 25, while the U.S. stayed on daylight time until Nov. 1. For that week the gap was 4 hours, so 4 p.m. ET was 8pm in the UK. After the U.S. clocks went back on Nov. 1 the gap returned to 5 hours; our [guide to the UK and Europe clock change](/news/uk-europe-clocks-go-back-october-25-2026-time-difference/) explains the week in between. The same gap affects other UK events, such as the [Ballon d'Or 2026 ceremony in London](/news/ballon-dor-2026-date-time-by-time-zone-nominees-london/).
 
 ## Who is in the Carabao Cup quarter-finals?
 

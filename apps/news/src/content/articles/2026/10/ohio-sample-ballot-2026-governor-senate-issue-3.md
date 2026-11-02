@@ -4,6 +4,7 @@ seoTitle: "Ohio Sample Ballot 2026: Governor, Senate and Issue 3"
 description: "Find your Ohio sample ballot for Nov. 3, 2026 by county, with every statewide candidate, the U.S. Senate special election, Issue 3 on voter ID and key dates."
 type: news
 publishedAt: "2026-10-22T14:13:00-04:00"
+updatedAt: "2026-11-02T14:10:00-05:00"
 authors: [christina-gerland]
 category: elections
 keywords: ["Ohio sample ballot 2026", "Ohio Issue 3 2026", "Ohio governor candidates 2026", "Ohio Senate race 2026", "sample ballot by zip code Ohio"]
@@ -22,7 +23,7 @@ summary:
   - "Ohio's Nov. 3, 2026 ballot has the race for governor, four other statewide offices, two Ohio Supreme Court seats and a U.S. Senate special election."
   - "Issue 3, the only statewide issue, is a proposed constitutional amendment requiring voters to show photo identification."
   - "Each county board of elections posts sample ballots; the Secretary of State's Sample Ballot Directory links to every county."
-  - "Early in-person voting runs through Sunday, Nov. 1. Polls are open 6:30 a.m. to 7:30 p.m. on Election Day."
+  - "Early in-person voting ended Sunday, Nov. 1. Polls are open 6:30 a.m. to 7:30 p.m. on Election Day, Tuesday, Nov. 3."
 faq:
   - q: "How do I find my Ohio sample ballot?"
     a: "Start at the Ohio Secretary of State's Sample Ballot Directory, pick your county, and follow the link to your county board of elections, where you can look up the ballot for your precinct by name or address."
@@ -32,8 +33,8 @@ faq:
     a: "Republican Jon Husted, Democrat Sherrod Brown, Libertarian William B. Redpath and Greg Levy, listed as an other-party candidate, for the unexpired term ending Jan. 3, 2029."
   - q: "What is Ohio Issue 3 in 2026?"
     a: "A proposed amendment to the Ohio Constitution that would require voters to present photo identification in order to vote. It is the only statewide issue on the Nov. 3 ballot."
-  - q: "When does early voting end in Ohio?"
-    a: "Sunday, Nov. 1, 2026. Early in-person voting began Oct. 6 at each county board of elections or its designated early voting site; hours vary by day."
+  - q: "When did early voting end in Ohio?"
+    a: "Sunday, Nov. 1, 2026. Early in-person voting began Oct. 6 at each county board of elections or its designated early voting site; hours varied by day."
   - q: "Do I need ID to vote in Ohio?"
     a: "Yes. Ohio requires an unexpired photo ID to vote in person, such as an Ohio driver's license or state ID, a U.S. passport or a military ID."
 sources:
@@ -88,11 +89,11 @@ Our [sample ballot guide for all 50 states](/news/sample-ballot-by-zip-code-2026
 | Date | What |
 |---|---|
 | Mon., Oct. 5 | Registration deadline (passed) |
-| Tue., Oct. 6 to Sun., Nov. 1 | Early in-person voting at your county board of elections |
-| Tue., Oct. 27 | Absentee ballot applications must be received by your county board |
+| Tue., Oct. 6 to Sun., Nov. 1 | Early in-person voting at your county board of elections (ended) |
+| Tue., Oct. 27 | Absentee ballot applications had to be received by your county board (passed) |
 | Tue., Nov. 3 | Election Day, polls open 6:30 a.m. to 7:30 p.m. |
 
-Ohio requires an unexpired photo ID to vote in person. Early voting hours change by day, so check your county board's schedule before you go.
+Ohio requires an unexpired photo ID to vote in person. Early voting hours changed by day; on Nov. 3, check your county board's polling place list before you go.
 
 ## Statewide races
 

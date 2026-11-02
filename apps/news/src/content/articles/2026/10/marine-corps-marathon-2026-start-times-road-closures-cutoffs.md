@@ -1,10 +1,10 @@
 ---
 title: "Marine Corps Marathon 2026: Start Times, Road Closures and Cutoffs on Oct. 25"
 seoTitle: "Marine Corps Marathon 2026: Start Times, Road Closures"
-description: "The 51st Marine Corps Marathon is Sunday, Oct. 25, 2026. All runners start at 7:20 a.m. Eastern Daylight Time (EDT). Closures, cutoffs and Beat the Bridge."
+description: "The 51st Marine Corps Marathon was Sunday, Oct. 25, 2026; all runners started at 7:20 a.m. Eastern Daylight Time (EDT). Closures, cutoffs and Beat the Bridge."
 type: news
 publishedAt: "2026-10-25T02:50:00-04:00"
-updatedAt: "2026-10-25T17:35:00-04:00"
+updatedAt: "2026-11-02T14:10:00-05:00"
 authors: [jessica-hartwell]
 category: sports
 keywords: ["Marine Corps Marathon 2026", "Marine Corps Marathon road closures", "Marine Corps Marathon start time", "beat the bridge time"]
@@ -38,8 +38,8 @@ assets:
     alt: "Marine Corps Marathon 2026 race-day timeline printable with start times, the 1:15 p.m. Beat the Bridge cutoff, road closures and reopenings"
 hero:
   src: ../../../../assets/news/marine-corps-marathon-2026-start-times-road-closures-cutoffs/marine-corps-marathon-2026-start-times-road-closures-cutoffs.webp
-  alt: "Marine Corps Marathon 2026 starts 7:20 a.m. EDT: runners on a closed street with the U.S. Capitol dome behind them"
-  caption: "Runners pass the U.S. Capitol during a past Marine Corps Marathon. The 51st race starts at 7:20 a.m. EDT on Sunday, Oct. 25, 2026."
+  alt: "Marine Corps Marathon 2026 started 7:20 a.m. EDT: runners on a closed street with the U.S. Capitol dome behind them"
+  caption: "Runners pass the U.S. Capitol during a past Marine Corps Marathon. The 51st race started at 7:20 a.m. EDT on Sunday, Oct. 25, 2026."
   credit: "Photo: U.S. Marine Corps photo by Lance Cpl. Jeffery Stevens / Wikimedia Commons, cropped, edited"
   license:
     name: "Public domain"
@@ -48,23 +48,23 @@ hero:
     author: "U.S. Marine Corps photo by Lance Cpl. Jeffery Stevens"
     authorUrl: "https://www.dvidshub.net/portfolio/1766475"
 summary:
-  - "The 51st Marine Corps Marathon is Sunday, Oct. 25, 2026: Wheels start at 7:05 a.m., Duos at 7:07 a.m. and all runners at 7:20 a.m. Eastern Daylight Time (EDT)."
-  - "Every participant must reach 14th and D Streets, before the 14th Street Bridge at Mile 20, by 1:15 p.m. The DC Gauntlet cutoff is 12:33 p.m. and the Crystal City Gauntlet cutoff is 1:49 p.m."
-  - "Arlington County lists closures from about 3:00 a.m. to 6:00 p.m. on 26 road segments, and Washington Metropolitan Area Transit Authority (WMATA) buses detour from 2:30 a.m. to 7:00 p.m."
+  - "The 51st Marine Corps Marathon was Sunday, Oct. 25, 2026: Wheels started at 7:05 a.m., Duos at 7:07 a.m. and all runners at 7:20 a.m. Eastern Daylight Time (EDT)."
+  - "Every participant had to reach 14th and D Streets, before the 14th Street Bridge at Mile 20, by 1:15 p.m. The DC Gauntlet cutoff was 12:33 p.m. and the Crystal City Gauntlet cutoff was 1:49 p.m."
+  - "Arlington County listed closures from about 3:00 a.m. to 6:00 p.m. on 26 road segments, and Washington Metropolitan Area Transit Authority (WMATA) buses detoured from 2:30 a.m. to 7:00 p.m."
   - "The District of Columbia (D.C.) street closure list for 2026 was not found; check Metropolitan Police Department (MPD) notices before you go."
 faq:
-  - q: "What time does the Marine Corps Marathon start in 2026?"
-    a: "Wheels (wheelchair and handcycle) start at 7:05 a.m. Eastern Daylight Time on Sunday, Oct. 25, 2026. Duos start at 7:07 a.m. and the marathon's All Runners start is 7:20 a.m. The Marine Corps Marathon race-day page lists these times, and Arlington County repeats them."
-  - q: "What is the Beat the Bridge time at the Marine Corps Marathon?"
-    a: "1:15 p.m. The 2026 course map says all participants must reach the intersection of 14th and D Streets, before the 14th Street Bridge, by 1:15 p.m. at Mile 20."
-  - q: "What happens if I miss the DC Gauntlet cutoff?"
-    a: "The DC Gauntlet cutoff is 12:33 p.m. According to the course map, participants who do not make it are moved off the course at Independence Avenue and will not be recognized as official finishers."
-  - q: "Which roads in Arlington are closed for the Marine Corps Marathon?"
-    a: "Arlington County lists 26 segments closed from approximately 3:00 a.m. to 6:00 p.m., including Fort Myer Drive, Wilson Boulevard, Route 110 in both directions, Interstate 395 (I-395) ramps and high-occupancy toll (HOT) lanes, and Washington Boulevard (Route 27). Four segments close from approximately 6:00 a.m. to 11:00 a.m. and 23 from approximately 6:00 a.m. to 5:00 p.m."
-  - q: "Are the D.C. street closures for the 2026 race published?"
+  - q: "What time did the Marine Corps Marathon start in 2026?"
+    a: "Wheels (wheelchair and handcycle) started at 7:05 a.m. Eastern Daylight Time on Sunday, Oct. 25, 2026. Duos started at 7:07 a.m. and the marathon's All Runners start was 7:20 a.m. The Marine Corps Marathon race-day page listed these times, and Arlington County repeated them."
+  - q: "What was the Beat the Bridge time at the Marine Corps Marathon?"
+    a: "1:15 p.m. The 2026 course map says all participants had to reach the intersection of 14th and D Streets, before the 14th Street Bridge, by 1:15 p.m. at Mile 20."
+  - q: "What happened to runners who missed the DC Gauntlet cutoff?"
+    a: "The DC Gauntlet cutoff was 12:33 p.m. According to the course map, participants who did not make it were moved off the course at Independence Avenue and were not recognized as official finishers."
+  - q: "Which roads in Arlington were closed for the Marine Corps Marathon?"
+    a: "Arlington County listed 26 segments closed from approximately 3:00 a.m. to 6:00 p.m., including Fort Myer Drive, Wilson Boulevard, Route 110 in both directions, Interstate 395 (I-395) ramps and high-occupancy toll (HOT) lanes, and Washington Boulevard (Route 27). Four segments closed from approximately 6:00 a.m. to 11:00 a.m. and 23 from approximately 6:00 a.m. to 5:00 p.m."
+  - q: "Were the D.C. street closures for the 2026 race published?"
     a: "The District's 2026 closure list and hours were not found when this story was written. Check Metropolitan Police Department (MPD) notices before you travel. National Park Service closures on the George Washington Memorial Parkway were also not confirmed."
-  - q: "Will Metrobus run on its normal routes on race day?"
-    a: "No. WMATA says buses detour from 2:30 a.m. until 7:00 p.m. on Sunday, Oct. 25. The detour notice lists routes A11, A1X, A27, A40, A58, A66, A76, D10, D1X, D30, D32, D40, D4X, D44, D50, D60, D6X, D74, D80, F44 and F62."
+  - q: "Did Metrobus run on its normal routes on race day?"
+    a: "No. WMATA said buses detoured from 2:30 a.m. until 7:00 p.m. on Sunday, Oct. 25. The detour notice listed routes A11, A1X, A27, A40, A58, A66, A76, D10, D1X, D30, D32, D40, D4X, D44, D50, D60, D6X, D74, D80, F44 and F62."
 sources:
   - title: "51st Marine Corps Marathon"
     url: "https://www.stripes.com/theaters/us/2026-10-25/51st-marine-corps-marathon-23256730.html"
@@ -114,9 +114,9 @@ draft: false
 
 <p class="callout"><b>Updated Sun., Oct. 25, 2026, 5:35 p.m. ET.</b> The 51st Marine Corps Marathon was run on Sunday morning. Marine Corps Maj. Kyle King won the men's race in 2:17:31, his third straight win, and Kaylee Slade won the women's race in 2:44:34, Stars and Stripes reported. The official results page had not been updated for 2026 when we checked. The times and closures below are the plan as published before the race.</p>
 
-The 51st Marine Corps Marathon is on Sunday, Oct. 25, 2026, and all runners start at 7:20 a.m. Eastern Daylight Time (EDT), according to the Marine Corps Marathon race-day page. Wheels start at 7:05 a.m. and Duos at 7:07 a.m. Every participant must pass 14th and D Streets by 1:15 p.m., the "Beat the Bridge" time, and Arlington County lists road closures from about 3:00 a.m.
+The 51st Marine Corps Marathon was on Sunday, Oct. 25, 2026, and all runners started at 7:20 a.m. Eastern Daylight Time (EDT), according to the Marine Corps Marathon race-day page. Wheels started at 7:05 a.m. and Duos at 7:07 a.m. Every participant had to pass 14th and D Streets by 1:15 p.m., the "Beat the Bridge" time, and Arlington County listed road closures from about 3:00 a.m.
 
-The marathon calls itself "the third largest marathon in the United States." The U.S. stays on daylight time until Nov. 1, so every time below is EDT and no clock change affects race morning. The official site lists no 10K or 50K on race day.
+The marathon calls itself "the third largest marathon in the United States." The U.S. stayed on daylight time until Nov. 1, so every time below is EDT and no clock change affected race morning. The official site listed no 10K or 50K on race day.
 
 ## What is the full race-day clock?
 
@@ -139,13 +139,13 @@ The table puts the start times, the three course cutoffs and the main closure wi
 
 The printable below carries the same clock on one page.
 
-## When is the Beat the Bridge cutoff?
+## What was the Beat the Bridge cutoff?
 
-The 2026 course map says all participants must reach the intersection of 14th and D Streets, before the 14th Street Bridge, by 1:15 p.m. at Mile 20. Counting from the 7:20 a.m. All Runners start, that is 5 hours 55 minutes of race time, or an average of 17 minutes 45 seconds per mile over the first 20 miles. That is our arithmetic from the gun time, not an official pace; the course map does not state one.
+The 2026 course map says all participants had to reach the intersection of 14th and D Streets, before the 14th Street Bridge, by 1:15 p.m. at Mile 20. Counting from the 7:20 a.m. All Runners start, that is 5 hours 55 minutes of race time, or an average of 17 minutes 45 seconds per mile over the first 20 miles. That is our arithmetic from the gun time, not an official pace; the course map does not state one.
 
-The same math gives 5 hours 13 minutes after the 7:20 a.m. start for the DC Gauntlet cutoff at 12:33 p.m., and 6 hours 29 minutes for the Crystal City Gauntlet cutoff at 1:49 p.m. Participants who miss the DC Gauntlet cutoff are moved off the course at Independence Avenue and "won't be recognized as official finishers," the course map says.
+The same math gives 5 hours 13 minutes after the 7:20 a.m. start for the DC Gauntlet cutoff at 12:33 p.m., and 6 hours 29 minutes for the Crystal City Gauntlet cutoff at 1:49 p.m. Participants who missed the DC Gauntlet cutoff were moved off the course at Independence Avenue and "won't be recognized as official finishers," the course map says.
 
-## Which Arlington roads are closed?
+## Which Arlington roads were closed?
 
 Arlington County's traffic alert for the 51st Marine Corps Marathon groups the closures by window.
 
@@ -155,17 +155,17 @@ Arlington County's traffic alert for the 51st Marine Corps Marathon groups the c
 | 6:00 a.m. to 11:00 a.m. | 4 | Not listed here |
 | 6:00 a.m. to 5:00 p.m. | 23 | Long Bridge Drive, Crystal Drive |
 
-Southbound Route 110 closes earlier than the rest. At approximately 4:00 p.m. on Saturday, Oct. 24, 2026, it closes from Washington Boulevard to Route 1 and reopens at 5:00 p.m. on Sunday, Oct. 25.
+Southbound Route 110 closed earlier than the rest. At approximately 4:00 p.m. on Saturday, Oct. 24, 2026, it was to close from Washington Boulevard to Route 1 and reopen at 5:00 p.m. on Sunday, Oct. 25.
 
-Arlington County says the listed reopening times are approximate and depend on course cleanup. Watch for temporary "No Parking" signs: illegally parked vehicles will be ticketed or towed.
+Arlington County says the listed reopening times are approximate and depend on course cleanup. The county warned that illegally parked vehicles near temporary "No Parking" signs would be ticketed or towed.
 
 ## What about D.C. streets and the parkway?
 
 The District of Columbia (D.C.) closure list and hours for 2026 were not found when this story was written, so none are given here. Check Metropolitan Police Department (MPD) notices before you travel. Closures by the National Park Service and any early Metrorail opening for 2026 were not confirmed either.
 
-## How do I get around by bus?
+## How did buses run on race day?
 
-WMATA says that beginning Sunday, Oct. 25, from 2:30 a.m. until 7:00 p.m., buses detour because of the marathon. The routes named in the notice are:
+WMATA said that on Sunday, Oct. 25, from 2:30 a.m. until 7:00 p.m., buses detoured because of the marathon. The routes named in the notice were:
 
 - A11, A1X, A27, A40, A58, A66 and A76
 - D10, D1X, D30, D32, D40, D4X, D44, D50, D60, D6X, D74 and D80
@@ -173,6 +173,6 @@ WMATA says that beginning Sunday, Oct. 25, from 2:30 a.m. until 7:00 p.m., buses
 
 ## Where do runners and finishers gather?
 
-The Marine Corps Marathon race-day page says Runners Village is in the North Pentagon Parking Lot. The Finish Festival is at the corner of Wilson Boulevard and North Lynn Street in Rosslyn. The runner count and spectator spots for 2026 were not confirmed in the sources used.
+The Marine Corps Marathon race-day page said Runners Village was in the North Pentagon Parking Lot. The Finish Festival was at the corner of Wilson Boulevard and North Lynn Street in Rosslyn. The runner count and spectator spots for 2026 were not confirmed in the sources used.
 
-Mark the date on our [October 2026 printable calendar](/october-calendars.html), and see the [November 2026 printable calendar](/november-calendars.html) for the clock change on Nov. 1, covered in [when daylight saving time ends](/news/daylight-saving-time-ends-november-1-2026/). Another fall race weekend is covered in [NYC Marathon 2026 start times and road closures](/news/nyc-marathon-2026-start-times-road-closures-where-to-watch/).
+Mark the date on our [October 2026 printable calendar](/october-calendars.html), and see the [November 2026 printable calendar](/november-calendars.html) for the clock change on Nov. 1, covered in [when daylight saving time ends](/news/daylight-saving-time-ends-november-1-2026/). The New York City Marathon weekend is covered in [NYC Marathon 2026 start times and road closures](/news/nyc-marathon-2026-start-times-road-closures-where-to-watch/).

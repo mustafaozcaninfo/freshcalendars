@@ -4,6 +4,7 @@ seoTitle: "Louisiana Sample Ballot 2026: Senate and 10 Amendments"
 description: "Find your Louisiana sample ballot for Nov. 3, 2026 by name or address, with the U.S. Senate candidates, 10 constitutional amendments, House primaries and dates."
 type: news
 publishedAt: "2026-10-22T14:13:00-04:00"
+updatedAt: "2026-11-02T14:10:00-05:00"
 authors: [christina-gerland]
 category: elections
 keywords: ["Louisiana sample ballot 2026", "Louisiana constitutional amendments 2026", "Louisiana Senate race 2026", "Louisiana early voting 2026", "sample ballot by zip code Louisiana"]
@@ -21,7 +22,7 @@ hero:
 summary:
   - "Louisiana's Nov. 3, 2026 ballot has the U.S. Senate general election, open primaries for U.S. House and 10 proposed constitutional amendments."
   - "The Senate candidates listed by the Secretary of State are Democrat Jamie Davis and Republican Julia Letlow."
-  - "See your exact ballot by name or address in the Louisiana Voter Portal or the GeauxVote app. Early voting runs Oct. 20-27."
+  - "See your exact ballot by name or address in the Louisiana Voter Portal or the GeauxVote app. Early voting ran Oct. 20-27 and has ended."
   - "Polls are open 6 a.m. to 8 p.m. A U.S. House general election follows on Dec. 12 where no candidate wins outright."
 faq:
   - q: "How do I find my Louisiana sample ballot?"
@@ -30,8 +31,8 @@ faq:
     a: "The Secretary of State's candidate list for Nov. 3 shows Democrat Jamie Davis and Republican Julia Letlow. They won their parties' closed primaries earlier this year."
   - q: "How many amendments are on the Louisiana ballot?"
     a: "Ten proposed constitutional amendments, numbered 1 to 10. They cover property tax exemptions, bail, governor term limits, retirement funding, lead water lines and foreign land purchases."
-  - q: "When is early voting in Louisiana?"
-    a: "Tuesday, Oct. 20 through Tuesday, Oct. 27, 2026, from 8:30 a.m. to 6 p.m., at your parish registrar's office or another designated site. Early voting is closed on Sunday, Oct. 25."
+  - q: "When was early voting in Louisiana?"
+    a: "Tuesday, Oct. 20 through Tuesday, Oct. 27, 2026, from 8:30 a.m. to 6 p.m., at your parish registrar's office or another designated site, and it has ended. Early voting was closed on Sunday, Oct. 25."
   - q: "Why is there a Dec. 12 election?"
     a: "U.S. House races are open primaries on Nov. 3 this year. If no House candidate wins a majority, the top two meet in a general election on Saturday, Dec. 12."
   - q: "Do I need ID to vote in Louisiana?"
@@ -92,9 +93,9 @@ The portal can also search by candidate or amendment. Ballots appear about three
 |---|---|
 | Mon., Oct. 5 | Registration deadline in person or by mail (passed) |
 | Tue., Oct. 13 | Online registration deadline (passed) |
-| Tue., Oct. 20 to Tue., Oct. 27 | Early voting, 8:30 a.m. to 6 p.m., closed Sun., Oct. 25 |
-| Fri., Oct. 30, 4:30 p.m. | Last day to request a mail ballot (other than military and overseas) |
-| Mon., Nov. 2, 4:30 p.m. | Registrar must receive voted mail ballots |
+| Tue., Oct. 20 to Tue., Oct. 27 | Early voting, 8:30 a.m. to 6 p.m., closed Sun., Oct. 25 (ended) |
+| Fri., Oct. 30, 4:30 p.m. | Last day to request a mail ballot, other than military and overseas (passed) |
+| Mon., Nov. 2, 4:30 p.m. | Registrar must receive voted mail ballots (today) |
 | Tue., Nov. 3 | Election Day, polls open 6 a.m. to 8 p.m. |
 | Sat., Dec. 12 | U.S. House general election, where needed |
 

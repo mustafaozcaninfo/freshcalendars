@@ -4,6 +4,7 @@ seoTitle: "NYC Holiday Calendar 2026: Tree Lighting, Parade"
 description: "New York's 2026 holiday season: the Rockefeller tree arrives Nov. 7 and is lit Dec. 2, the 100th Macy's parade is Nov. 26. Every official date to Jan. 10."
 type: explainer
 publishedAt: "2026-10-22T13:09:00-04:00"
+updatedAt: "2026-11-02T14:10:00-05:00"
 authors: [christina-gerland]
 category: holidays
 keywords: ["NYC holiday calendar 2026", "Rockefeller Christmas tree lighting 2026", "when is the Rockefeller tree lighting", "Bryant Park Winter Village 2026", "NYC Christmas events 2026"]
@@ -48,7 +49,7 @@ hero:
 summary:
   - "The Rockefeller Center Christmas Tree arrives on Saturday, Nov. 7, 2026, and the Tree Lighting Ceremony is Wednesday, Dec. 2, broadcast on NBC."
   - "The 100th Macy's Thanksgiving Day Parade is Thursday, Nov. 26, at 8:30 a.m., and Macy's Herald Square windows open Nov. 19."
-  - "Bryant Park's Winter Village opens Oct. 28, the Radio City Christmas Spectacular starts Nov. 4 and the New York Botanical Garden (NYBG) Holiday Train Show runs Nov. 14 to Jan. 10."
+  - "Bryant Park's Winter Village opened Oct. 28, the Radio City Christmas Spectacular starts Nov. 4 and the New York Botanical Garden (NYBG) Holiday Train Show runs Nov. 14 to Jan. 10."
   - "A free printable lists 14 official dates from Oct. 28, 2026 to Jan. 10, 2027."
 faq:
   - q: "When is the Rockefeller Christmas tree lighting in 2026?"
@@ -129,7 +130,7 @@ downloads:
 draft: false
 ---
 
-**The Rockefeller Center Christmas Tree arrives on Saturday, Nov. 7, 2026, and will be lit on Wednesday, Dec. 2.** Those two dates anchor a New York holiday season that starts earlier than many visitors expect: Bryant Park's Winter Village opens on Oct. 28, and the 100th Macy's Thanksgiving Day Parade falls on Nov. 26.
+**The Rockefeller Center Christmas Tree arrives on Saturday, Nov. 7, 2026, and will be lit on Wednesday, Dec. 2.** Those two dates anchor a New York holiday season that starts earlier than many visitors expect: Bryant Park's Winter Village opened on Oct. 28, and the 100th Macy's Thanksgiving Day Parade falls on Nov. 26.
 
 Every date below comes from the organizer's own site or press release. Nothing is guessed. Where a time or detail has not been announced yet, as with the tree lighting's start time, the parade hosts and the Times Square performers, we say so and give last year's detail only when it helps you plan.
 
@@ -137,8 +138,8 @@ Every date below comes from the organizer's own site or press release. Nothing i
 
 | Date | Event |
 |---|---|
-| Wed., Oct. 28 | Bryant Park Winter Village opens at noon |
-| Sun., Nov. 1 | New York City Marathon, 8 a.m. |
+| Wed., Oct. 28 | Bryant Park Winter Village opened at noon |
+| Sun., Nov. 1 | New York City Marathon, 8 a.m. start |
 | Wed., Nov. 4 | Radio City Christmas Spectacular opens |
 | Sat., Nov. 7 | Rockefeller Center Christmas Tree arrives |
 | Sat., Nov. 14 | Holiday Train Show opens at the New York Botanical Garden |
@@ -174,14 +175,14 @@ Macy's flagship windows debut on **Thursday, Nov. 19** and stay up through **Mon
 
 ## Shows, markets and lights
 
-- **Bryant Park Winter Village** opens **Wednesday, Oct. 28, at noon**. The holiday shops run through Jan. 3, 2027, from 11 a.m. to 8 p.m. on weekdays and 10 a.m. to 8 p.m. on weekends. The free-admission rink stays open daily through Feb. 28.
+- **Bryant Park Winter Village** opened **Wednesday, Oct. 28, at noon**. The holiday shops run through Jan. 3, 2027, from 11 a.m. to 8 p.m. on weekdays and 10 a.m. to 8 p.m. on weekends. The free-admission rink stays open daily through Feb. 28.
 - **Radio City Christmas Spectacular** starts **Wednesday, Nov. 4**, with 230 performances this season, according to the Rockettes.
 - **Holiday Train Show** at the New York Botanical Garden in the Bronx runs **Nov. 14, 2026 to Jan. 10, 2027**. It is the show's 35th year; members get a preview on Nov. 13.
 - **Lightscape** at Brooklyn Botanic Garden runs on select nights from **Nov. 20, 2026 to Jan. 3, 2027**.
 
-## The first weekend: marathon and the time change
+## The marathon and the time change on Nov. 1
 
-The New York City Marathon starts at **8 a.m. on Sunday, Nov. 1**, on Staten Island and finishes in Central Park, according to New York Road Runners. Clocks fall back one hour at 2 a.m. that same morning, so the start is on Eastern Standard Time. Our story on [daylight saving time ending Nov. 1](/news/daylight-saving-time-ends-november-1-2026/) has the details.
+The New York City Marathon was scheduled to start at **8 a.m. on Sunday, Nov. 1**, on Staten Island and finish in Central Park, according to New York Road Runners. Clocks fell back one hour at 2 a.m. that same morning, so the start was on Eastern Standard Time. Our story on [daylight saving time ending Nov. 1](/news/daylight-saving-time-ends-november-1-2026/) has the details.
 
 ## Hanukkah, school recess and New Year's Eve
 

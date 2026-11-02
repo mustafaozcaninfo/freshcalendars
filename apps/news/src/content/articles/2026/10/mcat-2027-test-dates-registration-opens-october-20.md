@@ -4,7 +4,7 @@ seoTitle: "MCAT 2027 Test Dates and Open Registration"
 description: "Medical College Admission Test (MCAT) 2027 registration is now open for all groups. All 35 test dates, Jan. 15 to Sept. 11, 2027, plus fees and score releases."
 type: news
 publishedAt: "2026-10-19T11:24:00-04:00"
-updatedAt: "2026-10-24T01:40:00-04:00"
+updatedAt: "2026-11-02T14:10:00-05:00"
 authors: [aaron-kessler]
 category: school-calendars
 keywords: ["MCAT 2027 test dates", "mcat registration 2027", "MCAT registration opening 2027", "MCAT score release dates 2027", "MCAT 2027 fees"]
@@ -13,23 +13,23 @@ hero:
   src: ../../../../assets/news/mcat-2027-test-dates-registration-opens-october-20/mcat-2027-test-dates-registration-opens-october-20.jpg
   alt: "MCAT 2027 test dates: a stethoscope, test booklet and calendar card reading registration opens Oct. 20"
   title: "MCAT 2027 registration and test dates"
-  caption: "Registration for the 2027 MCAT exam opens in three waves on Oct. 20, 21 and 22, 2026; testing runs from Jan. 15 to Sept. 11, 2027."
+  caption: "Registration for the 2027 MCAT exam opened in three waves on Oct. 20, 21 and 22, 2026; testing runs from Jan. 15 to Sept. 11, 2027."
 summary:
-  - "Registration for 2027 Medical College Admission Test (MCAT) dates opens at noon Eastern on Oct. 20, 21 or 22, 2026, depending on where you live."
+  - "Registration for 2027 Medical College Admission Test (MCAT) dates opened at noon Eastern on Oct. 20, 21 or 22, 2026, depending on where you live, and is now open to all."
   - "The Association of American Medical Colleges (AAMC) lists 35 U.S. test dates, from Friday, Jan. 15 to Saturday, Sept. 11, 2027."
   - "Standard registration costs $360, or $145 with Fee Assistance; international testing adds $130."
   - "Rescheduling gets more expensive closer to the exam, and no changes are allowed less than 10 days before test day."
 faq:
   - q: "When does MCAT registration open for 2027?"
-    a: "At noon Eastern Time on Oct. 20, 2026 for Group A states, Oct. 21 for Group B states and Oct. 22 for Group C, which covers U.S. territories and international locations, including Canada."
+    a: "It opened at noon Eastern Time on Oct. 20, 2026 for Group A states, Oct. 21 for Group B states and Oct. 22 for Group C, which covers U.S. territories and international locations, including Canada. All three groups are now open."
   - q: "What are the MCAT 2027 test dates?"
     a: "The AAMC lists 35 U.S. dates from Jan. 15 to Sept. 11, 2027, with the most in May, June, July and August."
   - q: "How much does the MCAT cost in 2027?"
     a: "$360 for standard registration, $145 with the AAMC Fee Assistance Program, plus a $130 international fee for testing outside the U.S., its territories and Canada."
   - q: "When are MCAT 2027 scores released?"
     a: "About 30 to 35 days after each test date, by 5 p.m. Eastern Time. The first 2027 release is Feb. 16 and the last is Oct. 12."
-  - q: "Can I prepare my MCAT registration before it opens?"
-    a: "Yes. From Oct. 5 to Oct. 19, 2026, you can fill out the first five tabs of the registration form in the MCAT Registration System, so on opening day you only pick a date, a center and pay."
+  - q: "Could I prepare my MCAT registration before it opened?"
+    a: "Yes. From Oct. 5 to Oct. 19, 2026, the AAMC let applicants fill out the first five tabs of the registration form in the MCAT Registration System, so on opening day they only had to pick a date, a center and pay. That window has passed."
 sources:
   - title: "2027 MCAT Registration Opening"
     url: "https://students-residents.aamc.org/register-mcat-exam/2027-mcat-registration-opening"
@@ -62,19 +62,19 @@ draft: false
 
 <p class="callout"><b>Updated Sat., Oct. 24, 2026.</b> Registration is open for all groups: Group A opened Oct. 20, Group B on Oct. 21 and Group C, for U.S. territories and international test centers, on Oct. 22. For the first test date, Friday, Jan. 15, 2027, the next deadline is the 60-day deadline on Nov. 16, 2026.</p>
 
-**Registration for the 2027 Medical College Admission Test (MCAT) is open to every test taker, after opening in three state-group waves on Oct. 20, 21 and 22, 2026**, according to the Association of American Medical Colleges (AAMC). Seats for popular spring and summer dates can go quickly, so it helps to know your top three dates and your backup centers before you log in.
+**Registration for the 2027 Medical College Admission Test (MCAT) is open to every test taker, after opening in three state-group waves on Oct. 20, 21 and 22, 2026**, according to the Association of American Medical Colleges (AAMC). It helps to know your top three dates and your backup centers before you log in.
 
-## When registration opens for you
+## When registration opened for you
 
-| Opens (noon ET) | Group | Where |
+| Opened (noon ET) | Group | Where |
 |---|---|---|
 | Tuesday, Oct. 20, 2026 | Group A | Connecticut, Delaware, District of Columbia, Florida, Georgia, Kentucky, Maine, Maryland, Massachusetts, Michigan, New Hampshire, New Jersey, New York, North Carolina, Ohio, Pennsylvania, Rhode Island, South Carolina, Tennessee, Vermont, Virginia, West Virginia |
 | Wednesday, Oct. 21, 2026 | Group B | Alabama, Alaska, Arizona, Arkansas, California, Colorado, Hawaii, Idaho, Illinois, Indiana, Iowa, Kansas, Louisiana, Minnesota, Mississippi, Missouri, Montana, Nebraska, Nevada, New Mexico, North Dakota, Oklahoma, Oregon, South Dakota, Texas, Utah, Washington, Wisconsin, Wyoming |
 | Thursday, Oct. 22, 2026 | Group C | U.S. territories and international locations, including Canada, Puerto Rico, Guam and the U.S. Virgin Islands |
 
-Confirm your group on the AAMC's registration opening page before opening day. Have two or three backup dates and centers ready in case your first choice fills.
+The AAMC's registration opening page lists each group. Have two or three backup dates and centers ready in case your first choice is full.
 
-**Before opening day:** From Oct. 5 through Oct. 19, the AAMC lets you complete the first five tabs of the registration form in the MCAT Registration System. Doing that leaves only date, center and payment for registration day.
+**Before opening day:** From Oct. 5 through Oct. 19, the AAMC let applicants complete the first five tabs of the registration form in the MCAT Registration System. Doing that left only date, center and payment for registration day. That window has passed.
 
 ## All 35 U.S. MCAT test dates for 2027
 

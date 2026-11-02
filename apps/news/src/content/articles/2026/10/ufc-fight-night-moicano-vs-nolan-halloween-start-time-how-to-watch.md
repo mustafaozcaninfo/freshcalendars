@@ -1,10 +1,10 @@
 ---
 title: "UFC Fight Night Moicano vs. Nolan on Halloween: Start Time in Every U.S. Zone and How to Watch"
 seoTitle: "UFC Halloween 2026: Moicano vs. Nolan Start Time"
-description: "The Ultimate Fighting Championship (UFC) lists Moicano vs. Nolan on Sat., Oct. 31, 2026, in Las Vegas: prelims 5 p.m., main card 8 p.m. Eastern Time (ET)."
+description: "The Ultimate Fighting Championship (UFC) listed Moicano vs. Nolan on Sat., Oct. 31, 2026, in Las Vegas: prelims 5 p.m., main card 8 p.m. Eastern Time (ET)."
 type: news
 publishedAt: "2026-10-25T14:15:00-04:00"
-updatedAt: "2026-10-26T13:00:00-04:00"
+updatedAt: "2026-11-02T14:10:00-05:00"
 authors: [jessica-hartwell]
 category: sports
 keywords: ["UFC this weekend", "Moicano vs Nolan", "UFC Halloween 2026 start time", "UFC Fight Night October 31 2026"]
@@ -100,30 +100,30 @@ draft: false
 
 <p class="callout"><b>Last updated Mon., Oct. 26, 2026, 1 p.m. ET.</b> UFC has posted the full 12-bout card. Two bouts changed from the earlier ESPN listing: Randy Brown now faces Jacobe Smith, and Francis Marshall faces Dakota Hope.</p>
 
-**UFC Fight Night: Moicano vs. Nolan is Saturday, Oct. 31, 2026, at Meta Apex in Las Vegas, with prelims at 5 p.m. and the main card at 8 p.m. Eastern Daylight Time (EDT), according to the Ultimate Fighting Championship (UFC).** In Las Vegas that is 2 p.m. and 5 p.m. Pacific Daylight Time (PDT). Below: the start time in each U.S. zone, how to watch, the other bouts listed so far and how the night overlaps with trick-or-treating.
+**UFC Fight Night: Moicano vs. Nolan was held on Saturday, Oct. 31, 2026, at Meta Apex in Las Vegas, with prelims at 5 p.m. and the main card at 8 p.m. Eastern Daylight Time (EDT), according to the Ultimate Fighting Championship (UFC).** In Las Vegas that was 2 p.m. and 5 p.m. Pacific Daylight Time (PDT). Below: the start time in each U.S. zone, how it was shown, the bouts listed and how the night overlapped with trick-or-treating. We have no result to report, because the sources we checked list none.
 
 ## What time is UFC on Halloween 2026?
 
-UFC's events page lists the prelims at 5 p.m. and the main card at 8 p.m. EDT. Its detail block labels the zone "EST," but Oct. 31 is still daylight time in the United States, so EDT is correct; that is our note, not UFC's. The other zones below are our conversion from UFC's times.
+UFC's events page listed the prelims at 5 p.m. and the main card at 8 p.m. EDT. Its detail block labeled the zone "EST," but Oct. 31 was still daylight time in the United States, so EDT was correct; that was our note, not UFC's. The other zones below are our conversion from UFC's times.
 
 | Segment | Eastern (EDT) | Central (CDT) | Mountain (MDT) | Pacific (PDT) |
 |---|---|---|---|---|
 | Prelims | 5 p.m. | 4 p.m. | 3 p.m. | 2 p.m. |
 | Main card | 8 p.m. | 7 p.m. | 6 p.m. | 5 p.m. |
 
-Las Vegas keeps Pacific time, so the Pacific column is the local time at the arena.
+Las Vegas keeps Pacific time, so the Pacific column was the local time at the arena.
 
 ## What time is the main card in the UK and Europe?
 
-The UK moved to Greenwich Mean Time (GMT) on Oct. 25, so the 8 p.m. EDT main card is 00:00 GMT on Sunday, Nov. 1. In Central Europe, already on Central European Time (CET), it is 1 a.m. on Sunday. Both are our conversions.
+The UK moved to Greenwich Mean Time (GMT) on Oct. 25, so the 8 p.m. EDT main card was 00:00 GMT on Sunday, Nov. 1. In Central Europe, already on Central European Time (CET), it was 1 a.m. on Sunday. Both are our conversions.
 
-## How can you watch Moicano vs. Nolan?
+## How was Moicano vs. Nolan shown?
 
-ESPN's fight listing shows Paramount+. Paramount+ has been UFC's U.S. streaming home since 2026, CBS Sports reported in August 2025, under a seven-year deal. UFC's events page, in the version we checked, does not name a broadcaster for this event, so confirm on the platform before the night.
+ESPN's fight listing showed Paramount+. Paramount+ has been UFC's U.S. streaming home since 2026, CBS Sports reported in August 2025, under a seven-year deal. UFC's events page, in the version we checked, did not name a broadcaster for this event.
 
 ## Which fights are on the card?
 
-UFC's event page lists 12 bouts, checked Oct. 26. Moicano vs. Nolan, a lightweight bout, closes the main card. The card can change during fight week.
+UFC's event page listed 12 bouts, checked Oct. 26. Moicano vs. Nolan, a lightweight bout, closed the main card. The card was subject to change during fight week.
 
 | Segment | Bout | Division |
 |---|---|---|
@@ -142,10 +142,10 @@ UFC's event page lists 12 bouts, checked Oct. 26. Moicano vs. Nolan, a lightweig
 
 This story gives no odds or predictions.
 
-## Does UFC clash with Halloween night?
+## Did UFC clash with Halloween night?
 
-Yes, in part. Oct. 31 is Halloween, so the prelims and the main card fall on trick-or-treat night. See our story on [Halloween 2026 sunset and trick-or-treat times](/news/halloween-2026-saturday-sunset-trick-or-treat-times/) for local hours. U.S. clocks fall back at 2 a.m. on Sunday, Nov. 1, after the event; our [daylight saving time story](/news/daylight-saving-time-ends-november-1-2026/) has the details.
+Yes, in part. Oct. 31 was Halloween, so the prelims and the main card fell on trick-or-treat night. See our story on [Halloween 2026 sunset and trick-or-treat times](/news/halloween-2026-saturday-sunset-trick-or-treat-times/) for local hours. U.S. clocks fell back at 2 a.m. on Sunday, Nov. 1, after the event; our [daylight saving time story](/news/daylight-saving-time-ends-november-1-2026/) has the details.
 
 ## Free UFC Halloween 2026 start-time sheet
 
-Our one-page printable lists the prelims and main card in Eastern, Central, Mountain and Pacific time, plus all 12 bouts on the card. Mark the night on your [October 2026 printable calendar](/october-calendars.html) and look ahead on the [November 2026 printable calendar](/november-calendars.html). Another sports date on the calendar is the [Mexico City Grand Prix 2026 schedule](/news/mexico-city-grand-prix-2026-schedule-race-time-by-time-zone/).
+Our one-page printable lists the prelims and main card in Eastern, Central, Mountain and Pacific time, plus all 12 bouts on the card. Keep the night on your [October 2026 printable calendar](/october-calendars.html) and look ahead on the [November 2026 printable calendar](/november-calendars.html). Another sports date on the calendar is the [Mexico City Grand Prix 2026 schedule](/news/mexico-city-grand-prix-2026-schedule-race-time-by-time-zone/).

@@ -1,9 +1,10 @@
 ---
 title: "When Is Election Day 2026 in Illinois? Polling Hours, Early Voting and Mail Deadlines"
 seoTitle: "Illinois Election Day 2026: Hours and Deadlines"
-description: "Election Day in Illinois is Tuesday, Nov. 3, 2026. Polls are open 6 a.m. to 7 p.m. Apply for a mail ballot by Oct. 29 and vote early in person through Nov. 2."
+description: "Election Day in Illinois is Tuesday, Nov. 3, 2026, with polls open 6 a.m. to 7 p.m. The Oct. 29 mail application deadline passed; early voting ends Nov. 2."
 type: news
 publishedAt: "2026-10-24T00:54:00-04:00"
+updatedAt: "2026-11-02T14:10:00-05:00"
 authors: [christina-gerland]
 category: elections
 keywords: ["when is election day 2026 in illinois", "illinois early voting 2026", "illinois polling hours 2026", "illinois vote by mail deadline 2026", "illinois election 2026"]
@@ -46,18 +47,18 @@ hero:
     authorUrl: "https://commons.wikimedia.org/wiki/User:Dschwen"
 summary:
   - "Election Day in Illinois is Tuesday, Nov. 3, 2026. Polling places are open 6 a.m. to 7 p.m. local time."
-  - "Early voting began statewide on Sept. 24 at election authority offices and runs in person through Monday, Nov. 2."
-  - "Applications to vote by mail must reach your election authority by Thursday, Oct. 29. Illinois allows voter registration on Election Day."
+  - "Early voting began statewide on Sept. 24 at election authority offices and ends in person today, Monday, Nov. 2."
+  - "Applications to vote by mail had to reach your election authority by Thursday, Oct. 29. Illinois allows voter registration on Election Day."
   - "The 2026 ballot includes U.S. Senator, all 17 U.S. House seats, governor and lieutenant governor, attorney general and state legislative seats."
 faq:
   - q: "When is Election Day 2026 in Illinois?"
     a: "Tuesday, Nov. 3, 2026. Polling places across Illinois are open from 6 a.m. to 7 p.m. If you are in line when polls close at 7 p.m., you may still vote."
   - q: "What are the polling hours in Illinois in 2026?"
     a: "Polls open at 6 a.m. and close at 7 p.m. on Election Day, according to the Illinois State Board of Elections. Find your polling place with the board's lookup tool."
-  - q: "When does early voting start in Illinois in 2026?"
-    a: "Early voting began statewide on Sept. 24, 2026 at election authority offices. In Chicago, in-person early voting runs at all 50 wards from Oct. 19 to Nov. 2. Suburban Cook County opened six sites on Oct. 7 and 56 sites from Oct. 19, through Nov. 2."
+  - q: "When does early voting end in Illinois in 2026?"
+    a: "In-person early voting ends Monday, Nov. 2, 2026. It began statewide on Sept. 24 at election authority offices. In Chicago, in-person early voting ran at all 50 wards from Oct. 19 to Nov. 2. Suburban Cook County opened six sites on Oct. 7 and 56 sites from Oct. 19, through Nov. 2."
   - q: "What is the vote-by-mail deadline in Illinois for 2026?"
-    a: "Applications to vote by mail must be received by your election authority by Thursday, Oct. 29, 2026. The first day to file an application was Aug. 5."
+    a: "Applications to vote by mail had to be received by your election authority by Thursday, Oct. 29, 2026, so that deadline has passed. The first day to file an application was Aug. 5."
   - q: "When is my Illinois mail ballot due?"
     a: "A completed mail ballot must be postmarked by Election Day or returned in person by 7 p.m. on Nov. 3. Ask your election authority for its receipt deadline for mailed ballots."
   - q: "Can I register to vote on Election Day in Illinois?"
@@ -107,7 +108,7 @@ downloads:
 draft: false
 ---
 
-**Election Day in Illinois is Tuesday, Nov. 3, 2026, and polling places are open from 6 a.m. to 7 p.m.** Early voting began statewide on Sept. 24, applications to vote by mail are due by Thursday, Oct. 29, and in-person early voting runs through Monday, Nov. 2. The dates below come from the Illinois State Board of Elections and your county and city election authorities.
+**Election Day in Illinois is Tuesday, Nov. 3, 2026, and polling places are open from 6 a.m. to 7 p.m.** Early voting began statewide on Sept. 24, the Oct. 29 deadline for mail ballot applications has passed, and in-person early voting ends today, Monday, Nov. 2. The dates below come from the Illinois State Board of Elections and your county and city election authorities.
 
 ## Illinois polling hours on Nov. 3, 2026
 
@@ -131,14 +132,14 @@ The live count above updates from today's date in the Central Time zone. Without
 
 Early voting began across Illinois on Sept. 24, 2026 at election authority offices, according to the state board. Local authorities then opened more sites:
 
-- **Chicago.** In-person early voting is open at all 50 ward sites from Monday, Oct. 19 through Monday, Nov. 2, the Chicago Board of Election Commissioners says.
+- **Chicago.** In-person early voting is open at all 50 ward sites from Monday, Oct. 19 through today, Monday, Nov. 2, the Chicago Board of Election Commissioners says.
 - **Suburban Cook County.** Early voting began at six locations on Wednesday, Oct. 7 and expanded to 56 sites from Oct. 19, running through Nov. 2, the Cook County Clerk says.
 
-Outside Cook County, check your county clerk or election authority for site locations and hours, because start dates and the number of open sites are set locally and differ from place to place. The last day to vote early in person statewide is Monday, Nov. 2.
+Outside Cook County, check your county clerk or election authority for site locations and hours, because start dates and the number of open sites are set locally and differ from place to place. The last day to vote early in person statewide is today, Monday, Nov. 2.
 
-## Illinois vote by mail: the Oct. 29 deadline
+## Illinois vote by mail: the Oct. 29 deadline has passed
 
-The first day to file a vote-by-mail application for the Nov. 3, 2026 general election was Aug. 5. All requests sent by mail must be received by your election authority by Thursday, Oct. 29, the state board says.
+The first day to file a vote-by-mail application for the Nov. 3, 2026 general election was Aug. 5. All requests sent by mail had to be received by your election authority by Thursday, Oct. 29, the state board says.
 
 A completed mail ballot must be postmarked by Election Day or returned in person by 7 p.m. on Nov. 3. Ask your election authority for its own receipt deadline for mailed ballots, since the office counts eligible ballots that arrive after Election Day within the window state law allows. Illinois also offers accessible vote by mail for voters with print disabilities, using the OmniBallot system in Cook County, the City of Chicago, DuPage, Lake, Marshall and Sangamon counties.
 

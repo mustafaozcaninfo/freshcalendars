@@ -4,6 +4,7 @@ seoTitle: "Movember 2026 Dates: Nov. 1 to 30 and the Move Tracker"
 description: "Movember 2026 runs Sunday, Nov. 1 to Monday, Nov. 30. Start clean shaven, see the 60 km vs 60 miles Move difference and get a free 30-day printable tracker."
 type: explainer
 publishedAt: "2026-10-27T21:45:00-04:00"
+updatedAt: "2026-11-02T14:10:00-05:00"
 authors: [christina-gerland]
 category: holidays
 keywords: ["Movember 2026", "when does Movember start", "Movember 60 km challenge", "Movember vs No-Shave November"]
@@ -21,7 +22,7 @@ assets:
     layout: list
     inkSaver: true
     rows:
-      - ["Sat., Oct. 31", "Optional: shave tonight so Nov. 1 starts clean shaven"]
+      - ["Sat., Oct. 31", "Optional: shave the night before so Nov. 1 starts clean shaven"]
       - ["Sun., Nov. 1", "Start clean shaven; Move day 1: 2 km or 2 miles"]
       - ["Sat., Nov. 7", "Week 1 total, day 7: 14 km or 14 miles"]
       - ["Sat., Nov. 14", "Week 2 total, day 14: 28 km or 28 miles"]
@@ -35,7 +36,7 @@ assets:
 hero:
   src: ../../../../assets/news/movember-2026-dates-shave-day-60-km-move-challenge-tracker/movember-2026-dates-shave-day-60-km-move-challenge-tracker.webp
   alt: "A Movember fire truck in Tiny Township, Ontario, in 2024, for Movember 2026 dates"
-  caption: "File photo: a Movember fire truck in Tiny Township, Ontario, in 2024. Movember 2026 starts Nov. 1."
+  caption: "File photo: a Movember fire truck in Tiny Township, Ontario, in 2024. Movember 2026 started Nov. 1 and runs through Nov. 30."
   credit: "Photo: Chicken4War / Wikimedia Commons, cropped, edited"
   license:
     name: "CC BY-SA 4.0"
@@ -49,7 +50,7 @@ summary:
   - "A free 30-day tracker with weekly running totals is below."
 faq:
   - q: "When does Movember 2026 start?"
-    a: "Movember 2026 starts Sunday, Nov. 1. Movember's FAQ says participants should start completely clean shaven that day, and that Movember is for one month only."
+    a: "Movember 2026 started Sunday, Nov. 1 and runs through Monday, Nov. 30. Movember's FAQ says participants should start completely clean shaven that day, and that Movember is for one month only."
   - q: "Do I have to run 60 km?"
     a: "Movember's Move option asks you to run or walk 60 km in November on its international pages and 60 miles on its U.S. page. Movember says you can cover the distance in one go or across the month."
   - q: "Is Movember the same as No-Shave November?"
@@ -114,7 +115,7 @@ Movember takes place in November, so the 2026 run is 30 days. November 1 is a Su
 | Date, 2026 | What it is |
 |---|---|
 | Sat., Oct. 31 | Our practical note: a good night to shave before the start |
-| Sun., Nov. 1 | Movember starts; clean shaven per Movember's FAQ |
+| Sun., Nov. 1 | Movember started; clean shaven per Movember's FAQ |
 | Thu., Nov. 26 | Thanksgiving in the United States, day 26 of the month |
 | Mon., Nov. 30 | Last day of Movember |
 

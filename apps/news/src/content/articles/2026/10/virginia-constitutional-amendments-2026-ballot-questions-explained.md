@@ -4,6 +4,7 @@ seoTitle: "Virginia Constitutional Amendments 2026 Explained"
 description: "Virginia's Nov. 3, 2026 ballot has three proposed constitutional amendments, per the Department of Elections: exact wording, what each changes and deadlines."
 type: explainer
 publishedAt: "2026-10-31T13:40:00-04:00"
+updatedAt: "2026-11-02T14:10:00-05:00"
 authors: [christina-gerland]
 category: elections
 keywords: ["Virginia constitutional amendments 2026", "Virginia ballot questions November 2026", "Virginia Question 1 2026", "Virginia voting rights amendment 2026", "Virginia election day 2026"]
@@ -157,7 +158,7 @@ Virginia's U.S. Senate seat and its 11 U.S. House seats are also on the Nov. 3 b
 
 | Date | What | Source |
 |---|---|---|
-| Sat., Oct. 31 | Early in-person voting ends today at local registrar offices; check your registrar's hours | Local registrars |
+| Sat., Oct. 31 | Early in-person voting ended at local registrar offices (passed) | Local registrars |
 | Tue., Nov. 3, 6:00 a.m. to 7:00 p.m. | Polls are open; voters in line at 7:00 p.m. may vote | Code of Virginia § 24.2-603 |
 | Tue., Nov. 3 | Mail ballots must be postmarked on or before Election Day | Department of Elections |
 | Tue., Nov. 3 | Same-day registration is available on Election Day, with a provisional ballot | Department of Elections |

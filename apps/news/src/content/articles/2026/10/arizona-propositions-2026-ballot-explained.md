@@ -1,9 +1,10 @@
 ---
-title: "Arizona Propositions 2026: The 8 Measures on the Nov. 3 Ballot, What They Do, and Arizona's Early Voting Rules"
+title: "Arizona Propositions 2026: The 8 Measures on the Nov. 3 Ballot, What They Do, and Key Dates"
 seoTitle: "Arizona Propositions 2026: All 8 Explained"
 description: "Arizona's Nov. 3, 2026 ballot has eight propositions, all referred by the Legislature, plus governor and judicial retention. What each does, and key dates."
 type: explainer
 publishedAt: "2026-10-20T11:30:00-04:00"
+updatedAt: "2026-11-02T14:10:00-05:00"
 authors: [christina-gerland]
 category: elections
 keywords: ["Arizona propositions 2026", "Arizona ballot November 2026", "Prop 144 Arizona", "Arizona early voting 2026", "Arizona voter guide 2026"]
@@ -17,7 +18,7 @@ summary:
   - "Arizona voters decide eight statewide propositions on Nov. 3, 2026, all referred by the Legislature: three constitutional amendments and five statutes."
   - "They cover mileage-based taxes, race-based preferences, voter ID and citizenship, grocery taxes, drug cartels, school restrooms and sports, photo radar and school spending."
   - "No citizen initiative qualified, and courts removed two other legislative referrals before ballots were printed."
-  - "Early voting runs Oct. 7-30; early ballots must be received by 7 p.m. on Election Day, and postmarks do not count."
+  - "In-person early voting ran Oct. 7-30 and has ended; early ballots must be received by 7 p.m. on Election Day, and postmarks do not count."
 faq:
   - q: "How many propositions are on the Arizona ballot in 2026?"
     a: "Eight: Propositions 141, 142 and 144, which would amend the state constitution, and Propositions 316, 317, 318, 319 and 320, which would change state law. All were referred by the Legislature."
@@ -28,7 +29,7 @@ faq:
   - q: "Is there a U.S. Senate race in Arizona in 2026?"
     a: "No. Arizona's Senate seats are next on the ballot in 2028 and 2030. The top race is governor, which this year is elected on a joint ticket with the new office of lieutenant governor."
   - q: "When is my Arizona early ballot due?"
-    a: "It must be received by your county recorder or a drop-off location by 7 p.m. on Tuesday, Nov. 3. Mail it by about Oct. 27, or drop it off at a voting location or drop box on or before Election Day."
+    a: "It must be received by your county recorder or a drop-off location by 7 p.m. on Tuesday, Nov. 3. The suggested mailing date of about Oct. 27 has passed, so drop it off at a voting location or drop box on or before Election Day."
   - q: "What ID do I need to vote in person in Arizona?"
     a: "One valid photo ID with your name and address, such as an Arizona driver license or tribal ID; or two documents without a photo that show your name and address, such as a utility bill and a bank statement; or a mix of a photo ID and one such document."
 sources:
@@ -101,11 +102,11 @@ There is no U.S. Senate race in Arizona in 2026. All nine U.S. House seats and t
 |---|---|
 | Oct. 5 | Registration deadline (passed); Arizona has no same-day registration |
 | Wed., Oct. 7 | Early voting began and early ballots were mailed |
-| Fri., Oct. 23 | Last day to request an early ballot by mail |
-| Fri., Oct. 30, 7 p.m. | End of in-person early voting |
+| Fri., Oct. 23 | Last day to request an early ballot by mail (passed) |
+| Fri., Oct. 30, 7 p.m. | End of in-person early voting (passed) |
 | Tue., Nov. 3, 6 a.m.-7 p.m. | Election Day; early ballots must be received by 7 p.m. |
 
-Arizona counts an early ballot only if it arrives by 7 p.m. on Election Day; a postmark is not enough. Mail it by about Oct. 27, or drop it off at a voting location or drop box. Sign the affidavit on the envelope, since the county checks that signature against your voter record and will contact you if it is missing or does not match. Arizona stays on Mountain Standard Time all year, so its 7 p.m. closing is 9 p.m. Eastern.
+Arizona counts an early ballot only if it arrives by 7 p.m. on Election Day; a postmark is not enough. The suggested mailing date of about Oct. 27 has passed, so drop it off at a voting location or drop box. Sign the affidavit on the envelope, since the county checks that signature against your voter record and will contact you if it is missing or does not match. Arizona stays on Mountain Standard Time all year, so its 7 p.m. closing is 9 p.m. Eastern.
 
 ## ID at the polls
 
@@ -113,4 +114,4 @@ Arizona requires identification to vote in person, in one of three ways: one val
 
 ## More election guides
 
-California also has a long list of measures this year; see our guide to [California's 14 propositions](/news/california-propositions-2026-november-ballot-explained/). For every state's rules, see [mail ballot deadlines by state](/news/mail-ballot-deadlines-2026-by-state/), and to look up your exact ballot by address, use our [sample ballot guide](/news/sample-ballot-by-zip-code-2026-texas-ballot/). Print the Arizona checklist below and mark the dates on our [October](/october-calendars.html) and [November](/november-calendars.html) printable calendars or a [weekly planner](/printable-weekly-calendar.html).
+California also has a long list of measures this year; see our guide to [California's 14 propositions](/news/california-propositions-2026-november-ballot-explained/). For every state's rules, see [mail ballot deadlines by state](/news/mail-ballot-deadlines-2026-by-state/), and to look up your exact ballot by address, use our [sample ballot guide](/news/sample-ballot-by-zip-code-2026-texas-ballot/). Print the Arizona checklist below and mark Nov. 3 on our [November printable calendar](/november-calendars.html) or a [weekly planner](/printable-weekly-calendar.html); the [October calendar](/october-calendars.html) shows the early voting days that just ended.

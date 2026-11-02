@@ -1,17 +1,18 @@
 ---
-title: "Blue Planet III Start Time Tonight: 8pm on BBC One, 3 p.m. ET, Episode Guide and Dates"
-seoTitle: "Blue Planet III Tonight: 8pm GMT, 3 p.m. ET"
-description: "Blue Planet III starts tonight, 1 Nov 2026, at 8pm Greenwich Mean Time (GMT), 3 p.m. Eastern Standard Time (EST), on British Broadcasting Corporation (BBC) One."
+title: "Blue Planet III Episode Guide: Episode 2 on Sunday 8 November, 8pm on BBC One, 3 p.m. ET"
+seoTitle: "Blue Planet III Episode Guide: Next on 8 November"
+description: "Blue Planet III began on British Broadcasting Corporation (BBC) One on 1 Nov; episode 2 is 8 Nov at 8pm Greenwich Mean Time (GMT), 3 p.m. Eastern Time (ET)."
 type: news
 publishedAt: "2026-11-01T10:43:00-05:00"
+updatedAt: "2026-11-02T14:10:00-05:00"
 authors: [christina-gerland]
 category: uk-canada
-keywords: ["blue planet 3", "blue planet iii start time", "blue planet iii episode guide", "blue planet 3 bbc one tonight", "blue planet iii us release"]
+keywords: ["blue planet 3", "blue planet iii start time", "blue planet iii episode guide", "blue planet 3 bbc one episodes", "blue planet iii us release"]
 dateline: "London"
 hero:
   src: ../../../../assets/news/blue-planet-iii-start-time-tonight-bbc-one-episode-guide-dates/blue-planet-iii-start-time-tonight-bbc-one-episode-guide-dates.webp
   alt: "A tawny nurse shark resting on a coral reef, a file photo for the Blue Planet III start time and episode guide"
-  caption: "File photo of a tawny nurse shark on a reef. The first Blue Planet III episode, Tropical Seas, airs Sunday 1 November 2026 on BBC One."
+  caption: "File photo of a tawny nurse shark on a reef. The first Blue Planet III episode, Tropical Seas, aired Sunday 1 November 2026 on BBC One."
   credit: "Photo: David Burdick / Wikimedia Commons, cropped, edited"
   license:
     name: "Public domain"
@@ -19,13 +20,13 @@ hero:
     source: "https://commons.wikimedia.org/wiki/File:Nebrius_ferrugineus.jpg"
     author: "David Burdick"
 summary:
-  - "The British Broadcasting Corporation (BBC) schedule lists Blue Planet III, Episode 1 \"Tropical Seas\", on BBC One tonight, Sunday 1 November 2026, from 8pm to 9pm Greenwich Mean Time (GMT)."
-  - "That is 3 p.m. Eastern Standard Time (EST), 2 p.m. Central, 1 p.m. Mountain and noon Pacific on Sunday 1 November."
-  - "Episode 2, \"Open Ocean\", is listed for Sunday 8 November at 8pm GMT. The series has 6 episodes; the BBC has not yet listed titles for episodes 4 to 6."
+  - "The British Broadcasting Corporation (BBC) schedule listed Blue Planet III, Episode 1 \"Tropical Seas\", on BBC One on Sunday 1 November 2026, from 8pm to 9pm Greenwich Mean Time (GMT)."
+  - "That was 3 p.m. Eastern Standard Time (EST), 2 p.m. Central, 1 p.m. Mountain and noon Pacific on Sunday 1 November."
+  - "Episode 2, \"Open Ocean\", is listed for Sunday 8 November at 8pm GMT (3 p.m. EST). The series has 6 episodes; the BBC has not yet listed titles for episodes 4 to 6."
   - "The BBC pages do not announce a United States release date or network."
 faq:
-  - q: "What time is Blue Planet III on tonight?"
-    a: "The BBC One schedule lists Blue Planet III, Episode 1 \"Tropical Seas\", from 8pm to 9pm GMT on Sunday 1 November 2026. That is 3 p.m. EST."
+  - q: "What time is Blue Planet III episode 2 on?"
+    a: "The BBC One schedule lists Blue Planet III, Episode 2 \"Open Ocean\", from 8pm to 9pm GMT on Sunday 8 November 2026, which is 3 p.m. EST. Episode 1, \"Tropical Seas\", was listed for the same time on Sunday 1 November."
   - q: "How many episodes does Blue Planet III have?"
     a: "The BBC episode guide lists 6 episodes in Series 1. Dates are listed so far for episodes 1 and 2, with a BBC Two showing of episode 3."
   - q: "When is Blue Planet III on in the US?"
@@ -96,15 +97,15 @@ assets:
     alt: "Printable tracker of Blue Planet III showings from Nov. 1 to Nov. 16, 2026, with UK and US Eastern times."
 ---
 
-**Blue Planet III starts tonight, Sunday 1 November 2026, at 8pm Greenwich Mean Time (GMT) on British Broadcasting Corporation (BBC) One and BBC iPlayer, which is 3 p.m. Eastern Standard Time (EST), also called Eastern Time (ET), according to the BBC One schedule.** The first episode, "Tropical Seas", fills a 60-minute slot from 8pm to 9pm. The BBC series page says Blue Planet III "begins Sunday 1 November on BBC One and iPlayer".
+**Blue Planet III began on Sunday 1 November 2026 at 8pm Greenwich Mean Time (GMT) on British Broadcasting Corporation (BBC) One and BBC iPlayer, which was 3 p.m. Eastern Standard Time (EST), also called Eastern Time (ET), according to the BBC One schedule.** The first episode, "Tropical Seas", was listed in a 60-minute slot from 8pm to 9pm. Episode 2 is listed for Sunday 8 November at the same time. The BBC series page said Blue Planet III "begins Sunday 1 November on BBC One and iPlayer".
 
 The BBC has not announced a United States date or network on the pages we checked, so the US times below are the BBC One times converted. The episode dates are on our one-page printable further down.
 
 ## What time Blue Planet III starts in the United Kingdom and US
 
-The United Kingdom (UK) has been on GMT since 25 October, and the United States moved to standard time today, 1 November. The conversions are our calculation from the BBC One time.
+The United Kingdom (UK) has been on GMT since 25 October, and the United States moved to standard time on 1 November. The conversions are our calculation from the BBC One time.
 
-| Where | Sunday 1 November 2026 |
+| Where | Sunday 1 November 2026 (and Sunday 8 November) |
 |---|---|
 | United Kingdom | 8pm GMT |
 | US Eastern | 3 p.m. EST |
@@ -134,11 +135,11 @@ The BBC describes episode 2 as showing "how extraordinary animals thrive against
 
 ## Where to watch Blue Planet III outside the UK
 
-The BBC pages we checked do not announce a United States, Canada or Australia broadcast date or network. We do not give one. Until the BBC or a broadcaster confirms a date, the tonight time for readers abroad depends on whether you can use BBC iPlayer, which the BBC says carries the series alongside BBC One.
+The BBC pages we checked do not announce a United States, Canada or Australia broadcast date or network. We do not give one. Until the BBC or a broadcaster confirms a date, the viewing time for readers abroad depends on whether you can use BBC iPlayer, which the BBC says carries the series alongside BBC One.
 
 ## What the first episode, Tropical Seas, covers
 
-The BBC says that in the tropical seas, "year-round sunshine has created the perfect conditions for the ocean's richest habitats to flourish, but survival takes remarkable and surprising ingenuity". Its page mentions a tawny nurse shark at the northern tip of Australia hunting in the shallows. The BBC schedule describes the hour as "a look at how survival in the tropical seas takes surprising ingenuity".
+The BBC says that in the tropical seas, "year-round sunshine has created the perfect conditions for the ocean's richest habitats to flourish, but survival takes remarkable and surprising ingenuity". Its page mentions a tawny nurse shark at the northern tip of Australia hunting in the shallows. The BBC schedule described the hour as "a look at how survival in the tropical seas takes surprising ingenuity".
 
 The BBC series page describes the show as a documentary series narrated by David Attenborough, exploring the planet's oceans. It says Attenborough reveals ocean life "more surprising, more intelligent and more precious than we ever realised". The page also offers a song video, "Into the Deep" performed by Jade and Hans Zimmer, and a free poster from The Open University.
 

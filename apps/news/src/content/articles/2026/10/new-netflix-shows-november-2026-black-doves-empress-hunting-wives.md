@@ -4,6 +4,7 @@ seoTitle: "New Netflix Shows November 2026: Series Dates"
 description: "Netflix lists Black Doves Season 2 for Thu., Nov. 5, 2026 and The Hunting Wives Season 2 for Nov. 26. See each November series date in a table and print a list."
 type: news
 publishedAt: "2026-10-31T10:00:00-04:00"
+updatedAt: "2026-11-02T14:10:00-05:00"
 authors: [jessica-hartwell]
 category: entertainment
 keywords: ["new Netflix shows November 2026", "Black Doves season 2 release date", "The Hunting Wives season 2 release date", "The Diplomat season 4", "Netflix series November 2026"]
@@ -47,7 +48,7 @@ summary:
   - "Netflix Tudum's Oct. 30, 2026 What to Watch guide lists Black Doves Season 2 for Thursday, Nov. 5, 2026."
   - "Dated Netflix series after that: The Devil's Plan: Dead Again on Nov. 10, The Empress Season 3 on Nov. 12, The Altruists on Nov. 19 and The Hunting Wives Season 2 on Nov. 26, Thanksgiving."
   - "The Diplomat Season 4 is not a November title: all 8 episodes have streamed since Thursday, Oct. 15, 2026."
-  - "Netflix's pages checked on Oct. 31 give no release time for these series."
+  - "Netflix's pages checked give no release time for these series."
 faq:
   - q: "When does Black Doves Season 2 come out on Netflix?"
     a: "Netflix Tudum's What to Watch guide of Oct. 30, 2026 lists Black Doves Season 2 for Thursday, Nov. 5, 2026. Netflix does not give an episode count on that page."
@@ -56,8 +57,12 @@ faq:
   - q: "Is The Diplomat Season 4 on Netflix now?"
     a: "Yes. Netflix Tudum said on Oct. 20, 2026 that all 8 episodes of Season 4 can be watched now. They have been available since Thursday, Oct. 15."
   - q: "Is The Devil's Plan: Dead Again Season 3?"
-    a: "Netflix calls the show The Devil's Plan: Dead Again, and that is the name used here. Netflix lists the premiere for Tuesday, Nov. 10, 2026."
+    a: "Netflix's \"New on Netflix in November 2026\" page, published Oct. 31, lists The Devil's Plan as Season 3 for Nov. 10. The Oct. 27 Tudum trailer story calls it The Devil's Plan: Dead Again. Netflix lists the premiere for Tuesday, Nov. 10, 2026."
 sources:
+  - title: "New on Netflix in November 2026"
+    url: "https://www.netflix.com/tudum/articles/new-on-netflix"
+    publisher: "Netflix Tudum"
+    date: "2026-10-31"
   - title: "What to Watch on Netflix: October 30, 2026"
     url: "https://www.netflix.com/tudum/articles/what-to-watch-on-netflix-october-30-2026"
     publisher: "Netflix Tudum"
@@ -116,7 +121,7 @@ draft: false
 
 **Netflix Tudum's What to Watch guide of Oct. 30, 2026 lists Black Doves Season 2 for Thursday, Nov. 5, 2026, and Netflix pages date four more series later in the month, ending with The Hunting Wives Season 2 on Nov. 26.** The table below puts each date in order with its weekday, and a free printable watch list follows it.
 
-<p class="callout"><b>Checked Oct. 31, 2026.</b> Netflix has not yet posted a full November list. Netflix publishes a What to Watch guide each week, so this table will grow as those guides appear. Every date comes from a Netflix page.</p>
+<p class="callout"><b>Checked Nov. 2, 2026.</b> Netflix published its "New on Netflix in November 2026" list on Oct. 31, and it gives the same dates for Black Doves Season 2 (Nov. 5), The Devil's Plan (Nov. 10), The Empress Season 3 (Nov. 12) and The Hunting Wives Season 2 (Nov. 26). Netflix publishes a What to Watch guide each week. Every date comes from a Netflix page.</p>
 
 ## New Netflix series and seasons in November 2026
 
@@ -129,7 +134,7 @@ The table uses only Netflix's own pages: Netflix Tudum and the Netflix Newsroom.
 | Tuesday, Nov. 3 | Bass X Machina, St. Denis Medical Season 2, Will Trent Seasons 1-4, Mike Tyson: Return of the Mike (stand-up special) | Tudum guide, Oct. 30, 2026 |
 | Thursday, Nov. 5 | Black Doves Season 2 | Tudum guide, Oct. 30, 2026 |
 | Thursday, Nov. 5 | The Neighborhood Seasons 1-8, North of North Season 2 | Tudum guide, Oct. 30, 2026 |
-| Tuesday, Nov. 10 | The Devil's Plan: Dead Again | Tudum, Oct. 27, 2026 |
+| Tuesday, Nov. 10 | The Devil's Plan: Dead Again (Season 3 on Netflix's November list) | Tudum, Oct. 27 and Oct. 31, 2026 |
 | Thursday, Nov. 12 | The Empress Season 3 (final season) | Netflix Newsroom, Sept. 23, 2026 |
 | Thursday, Nov. 19 | The Altruists (limited series, all 8 episodes) | Tudum, Aug. 13, 2026 |
 | Thursday, Nov. 26 | The Hunting Wives Season 2 | Tudum, Aug. 20, 2026 |
@@ -148,11 +153,11 @@ Netflix Tudum says the season "debuts on Netflix this Nov. 26." That is Thanksgi
 
 ## What are the other Netflix series dates after Nov. 5?
 
-Netflix's Oct. 27 Tudum story on the main trailer gives Tuesday, Nov. 10 for the premiere of The Devil's Plan: Dead Again worldwide. Netflix's title is "Dead Again," so it is not called Season 3 here. The Netflix Newsroom announced on Sept. 23 that "The Empress Season 3, premiering November 12, exclusively on Netflix worldwide." It is the third and final season. For The Altruists, Tudum says: "All eight episodes of the series will stream on Netflix starting Nov. 19."
+Netflix's Oct. 27 Tudum story on the main trailer gives Tuesday, Nov. 10 for the premiere of The Devil's Plan: Dead Again worldwide. Netflix's November list, published Oct. 31, labels it Season 3 and gives the same date. The Netflix Newsroom announced on Sept. 23 that "The Empress Season 3, premiering November 12, exclusively on Netflix worldwide." It is the third and final season. For The Altruists, Tudum says: "All eight episodes of the series will stream on Netflix starting Nov. 19."
 
 ## What time do the new Netflix series start?
 
-The Netflix pages checked on Oct. 31 give no release time for any title in the table. Check the title's page on the day.
+The Netflix pages checked, including the November list, give no release time or time zone for any title in the table. Check the title's page on the day.
 
 ## Print the Netflix series watch list for November 2026
 

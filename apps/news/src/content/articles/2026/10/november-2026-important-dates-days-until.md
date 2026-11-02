@@ -4,7 +4,7 @@ seoTitle: "November 2026 Holidays: Calendar With Every Key Date"
 description: "Holidays in November 2026: Election Day Nov. 3, Veterans Day Nov. 11, Thanksgiving Nov. 26, Black Friday Nov. 27. Every date, days until each and a printable."
 type: explainer
 publishedAt: "2026-10-19T08:00:00-04:00"
-updatedAt: "2026-10-26T05:23:00-04:00"
+updatedAt: "2026-11-02T14:10:00-05:00"
 authors: [jessica-hartwell]
 category: calendar-guides
 keywords: ["November 2026 holidays", "November 2026 important dates", "holidays in November 2026", "Thanksgiving 2026 calendar", "days until Thanksgiving 2026"]
@@ -18,22 +18,22 @@ summary:
   - "November 2026 begins with clocks falling back at 2 a.m. on Sunday, Nov. 1. Election Day is Tuesday, Nov. 3."
   - "Diwali is Sunday, Nov. 8, Veterans Day is Wednesday, Nov. 11, and Grand Theft Auto VI launches Thursday, Nov. 19."
   - "Thanksgiving is Thursday, Nov. 26, followed by Black Friday on Nov. 27 and Cyber Monday on Nov. 30."
-  - "As of Wednesday, Oct. 21, there are 13 days until Election Day and 36 days until Thanksgiving. A free printable calendar with every holiday comes in Sunday- and Monday-start versions."
+  - "As of Monday, Nov. 2, there is 1 day until Election Day and 24 days until Thanksgiving. A free printable calendar with every holiday comes in Sunday- and Monday-start versions."
 faq:
   - q: "How many days until Nov. 5, 2026?"
-    a: "15 days from Wednesday, Oct. 21, 2026. Nov. 5 is a Thursday. It is Guy Fawkes Night in the U.K. and the release day for several video games."
+    a: "3 days from Monday, Nov. 2, 2026. Nov. 5 is a Thursday. It is Guy Fawkes Night in the U.K. and the release day for several video games."
   - q: "How many days until Nov. 8, 2026?"
-    a: "18 days from Wednesday, Oct. 21. Sunday, Nov. 8, 2026 is Diwali, the Hindu festival of lights."
+    a: "6 days from Monday, Nov. 2. Sunday, Nov. 8, 2026 is Diwali, the Hindu festival of lights."
   - q: "How many days until Nov. 25, 2026?"
-    a: "35 days from Wednesday, Oct. 21. Wednesday, Nov. 25 is the day before Thanksgiving, usually one of the busiest travel days of the year."
+    a: "23 days from Monday, Nov. 2. Wednesday, Nov. 25 is the day before Thanksgiving, usually one of the busiest travel days of the year."
   - q: "How many days until Thanksgiving 2026?"
-    a: "36 days from Wednesday, Oct. 21. Thanksgiving is Thursday, Nov. 26, 2026, the fourth Thursday of November."
+    a: "24 days from Monday, Nov. 2. Thanksgiving is Thursday, Nov. 26, 2026, the fourth Thursday of November."
   - q: "Does November 2026 start on a Sunday?"
     a: "Yes. Nov. 1, 2026 is a Sunday and Nov. 30 is a Monday, so a Sunday-start calendar has five full rows and a Monday-start calendar needs six."
   - q: "What federal holidays are in November 2026?"
     a: "Two: Veterans Day on Wednesday, Nov. 11 and Thanksgiving Day on Thursday, Nov. 26. Election Day is not a federal holiday, although some states give workers time off to vote."
   - q: "How do I count the days until a date myself?"
-    a: "Count the days left in the current month, then add the date in the target month. From Oct. 21, there are 10 days left in October (Oct. 22 to 31), so Nov. 3 is 10 + 3 = 13 days away."
+    a: "Count the days left in the current month, then add the date in the target month. From Nov. 2, there are 28 days left in the month (Nov. 3 to 30), so Nov. 26 is 26 - 2 = 24 days away."
 sources:
   - title: "Federal Holidays"
     url: "https://www.opm.gov/policy-data-oversight/pay-leave/federal-holidays/"
@@ -85,7 +85,7 @@ downloads:
 draft: false
 ---
 
-**November 2026 opens with the clock change on Sunday, Nov. 1 and closes with Cyber Monday on Nov. 30.** In between come Election Day on Nov. 3, Diwali on Nov. 8, Veterans Day on Nov. 11, the launch of Grand Theft Auto VI on Nov. 19 and Thanksgiving on Thursday, Nov. 26. The countdowns below are counted from Monday, Oct. 19, 2026, the day this story was published.
+**November 2026 opens with the clock change on Sunday, Nov. 1 and closes with Cyber Monday on Nov. 30.** In between come Election Day on Nov. 3, Diwali on Nov. 8, Veterans Day on Nov. 11, the launch of Grand Theft Auto VI on Nov. 19 and Thanksgiving on Thursday, Nov. 26. The countdowns below are counted from Monday, Nov. 2, 2026.
 
 ## November 2026 calendar at a glance
 
@@ -119,31 +119,31 @@ A federal holiday does not close every business or school. Banks, stores, transi
 
 <p class="days-live" data-days-until="2026" hidden></p>
 
-| Date | Day | What happens | Days from Oct. 21 |
+| Date | Day | What happens | Days from Nov. 2 |
 |---|---|---|---|
-| Nov. 1 | Sunday | Daylight saving time ends at 2 a.m.; All Saints' Day | 11 |
-| Nov. 2 | Monday | Day of the Dead (Día de los Muertos); All Souls' Day | 12 |
-| Nov. 3 | Tuesday | Election Day | 13 |
-| Nov. 5 | Thursday | Guy Fawkes Night in the U.K. | 15 |
-| Nov. 6 | Friday | Dhanteras, first day of Diwali | 16 |
-| Nov. 8 | Sunday | Diwali and Lakshmi Puja | 18 |
-| Nov. 10 | Tuesday | Bhai Dooj, last day of Diwali | 20 |
-| Nov. 11 | Wednesday | Veterans Day (federal holiday); Remembrance Day in Canada and the U.K. | 21 |
-| Nov. 19 | Thursday | Grand Theft Auto VI launches | 29 |
-| Nov. 24 | Tuesday | Beaver Moon, full at 9:53 a.m. EST | 34 |
-| Nov. 25 | Wednesday | Day before Thanksgiving, a peak travel day | 35 |
-| Nov. 26 | Thursday | Thanksgiving Day (federal holiday) | 36 |
-| Nov. 27 | Friday | Black Friday | 37 |
-| Nov. 29 | Sunday | First Sunday of Advent | 39 |
-| Nov. 30 | Monday | Cyber Monday | 40 |
+| Nov. 1 | Sunday | Daylight saving time ended at 2 a.m.; All Saints' Day | Passed |
+| Nov. 2 | Monday | Day of the Dead (Día de los Muertos); All Souls' Day | Today |
+| Nov. 3 | Tuesday | Election Day | 1 |
+| Nov. 5 | Thursday | Guy Fawkes Night in the U.K. | 3 |
+| Nov. 6 | Friday | Dhanteras, first day of Diwali | 4 |
+| Nov. 8 | Sunday | Diwali and Lakshmi Puja | 6 |
+| Nov. 10 | Tuesday | Bhai Dooj, last day of Diwali | 8 |
+| Nov. 11 | Wednesday | Veterans Day (federal holiday); Remembrance Day in Canada and the U.K. | 9 |
+| Nov. 19 | Thursday | Grand Theft Auto VI launches | 17 |
+| Nov. 24 | Tuesday | Beaver Moon, full at 9:53 a.m. EST | 22 |
+| Nov. 25 | Wednesday | Day before Thanksgiving, a peak travel day | 23 |
+| Nov. 26 | Thursday | Thanksgiving Day (federal holiday) | 24 |
+| Nov. 27 | Friday | Black Friday | 25 |
+| Nov. 29 | Sunday | First Sunday of Advent | 27 |
+| Nov. 30 | Monday | Cyber Monday | 28 |
 
-To count from a different day, take the days left in the current month and add the date you are counting to. From Oct. 21 there are 10 days left in October, so Nov. 8 is 10 + 8 = 18 days away.
+To count from a different day, take the days left in the current month and add the date you are counting to. From Nov. 2 there are 28 days left in the month, so Nov. 30 is 28 days away, and Nov. 8 is 8 - 2 = 6 days away.
 
 ## The first week: clocks, ballots and Diwali
 
-**Nov. 1, clocks fall back.** At 2 a.m. on Sunday, Nov. 1, most of the U.S. returns to standard time. Sunsets jump about an hour earlier, to 4:44 p.m. in New York by Nov. 8. Our [daylight saving time report](/news/daylight-saving-time-ends-november-1-2026/) covers the change and the stalled bill to make daylight time permanent.
+**Nov. 1, clocks fall back.** At 2 a.m. on Sunday, Nov. 1, most of the U.S. returned to standard time. Sunsets jump about an hour earlier, to 4:44 p.m. in New York by Nov. 8. Our [daylight saving time report](/news/daylight-saving-time-ends-november-1-2026/) covers the change and the stalled bill to make daylight time permanent.
 
-**Nov. 3, Election Day.** Polls open across the country for federal, state and local races. Texas early voting runs through Friday, Oct. 30. Our guide to finding your [sample ballot by address](/news/sample-ballot-by-zip-code-2026-texas-ballot/) explains why a ZIP code alone can show the wrong races.
+**Nov. 3, Election Day.** Polls open across the country for federal, state and local races. Texas early voting ran through Friday, Oct. 30. Our guide to finding your [sample ballot by address](/news/sample-ballot-by-zip-code-2026-texas-ballot/) explains why a ZIP code alone can show the wrong races.
 
 **Nov. 5.** Searches for this date are rising, but no single U.S. event explains them. It is Guy Fawkes Night in Britain, and several video games are scheduled for release that day.
 

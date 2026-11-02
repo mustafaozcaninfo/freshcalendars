@@ -4,6 +4,7 @@ seoTitle: "CPS Calendar 2026-27: Thanksgiving, Winter and Spring Break"
 description: "Chicago Public Schools 2026-27: no school Nov. 2-3, Thanksgiving Nov. 26-27, winter break Dec. 21-Jan. 1, spring break March 22-26, last day June 11."
 type: news
 publishedAt: "2026-10-19T10:45:00-04:00"
+updatedAt: "2026-11-02T14:10:00-05:00"
 authors: [aaron-kessler]
 category: school-calendars
 keywords: ["CPS calendar 2026-27", "Chicago Public Schools calendar", "CPS winter break 2026", "CPS spring break 2027", "CPS days off November 2026"]
@@ -14,7 +15,7 @@ hero:
   title: "Chicago Public Schools 2026-27 breaks"
   caption: "CPS winter vacation runs Dec. 21, 2026 to Jan. 1, 2027, and spring vacation March 22-26, 2027. The last day for K-12 is June 11."
 summary:
-  - "CPS students have no school on Monday, Nov. 2 (parent-teacher conferences) or Tuesday, Nov. 3 (General Election), a two-day break in two weeks."
+  - "CPS students have no school today, Monday, Nov. 2 (parent-teacher conferences), or tomorrow, Tuesday, Nov. 3 (General Election)."
   - "Thanksgiving holiday is Nov. 26-27; winter vacation runs Monday, Dec. 21 through Friday, Jan. 1."
   - "Spring vacation is March 22-26, 2027, and the last day for K-12 students is Friday, June 11."
   - "There is no student day off on Veterans Day, Nov. 11; it is a professional development day instead."
@@ -60,7 +61,7 @@ downloads:
 draft: false
 ---
 
-**Chicago Public Schools (CPS) students have no school on Monday, Nov. 2 or Tuesday, Nov. 3**, the next days off on the district's 2026-27 calendar: Monday is a parent-teacher conference day and Tuesday is the General Election holiday. After that come Thanksgiving on Nov. 26-27, **winter vacation from Monday, Dec. 21 through Friday, Jan. 1**, and spring vacation from March 22 to 26, 2027.
+**Chicago Public Schools (CPS) students have no school today, Monday, Nov. 2, or tomorrow, Tuesday, Nov. 3**, the next days off on the district's 2026-27 calendar: Monday is a parent-teacher conference day and Tuesday is the General Election holiday. After that come Thanksgiving on Nov. 26-27, **winter vacation from Monday, Dec. 21 through Friday, Jan. 1**, and spring vacation from March 22 to 26, 2027.
 
 ## CPS 2026-27 breaks
 

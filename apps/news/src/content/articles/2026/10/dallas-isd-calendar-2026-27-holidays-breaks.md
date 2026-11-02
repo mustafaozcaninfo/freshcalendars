@@ -4,6 +4,7 @@ seoTitle: "Dallas ISD Calendar 2026-27: Breaks and Days Off"
 description: "Dallas Independent School District (ISD) 2026-27: Thanksgiving Break Nov. 23-27, Winter Break Dec. 21 to Jan. 4, Spring Break March 15-19, last day May 26."
 type: news
 publishedAt: "2026-10-26T18:37:00-04:00"
+updatedAt: "2026-11-02T14:10:00-05:00"
 authors: [aaron-kessler]
 category: school-calendars
 keywords: ["Dallas ISD calendar 2026-27", "DISD calendar 2026-2027", "Dallas ISD winter break 2026", "Dallas ISD spring break 2027", "Dallas ISD Thanksgiving break 2026"]
@@ -104,7 +105,7 @@ downloads:
 draft: false
 ---
 
-**Dallas Independent School District (ISD) lists Thanksgiving Break from Monday, Nov. 23 to Friday, Nov. 27, 2026, and Winter Break from Monday, Dec. 21, 2026 to Monday, Jan. 4, 2027**, on its 2026-2027 Calendar/Calendario PDF. Spring Break is March 15-19, 2027, and the last day of class is Wednesday, May 26. The next day off is Tuesday, Nov. 3, a professional development (PD) day on the calendar.
+**Dallas Independent School District (ISD) lists Thanksgiving Break from Monday, Nov. 23 to Friday, Nov. 27, 2026, and Winter Break from Monday, Dec. 21, 2026 to Monday, Jan. 4, 2027**, on its 2026-2027 Calendar/Calendario PDF. Spring Break is March 15-19, 2027, and the last day of class is Wednesday, May 26. The next day off is tomorrow, Tuesday, Nov. 3, a professional development (PD) day on the calendar.
 
 ## Dallas ISD 2026-27 breaks
 
@@ -161,7 +162,7 @@ The calendar lists Monday, March 29 and Monday, April 19, 2027 as inclement weat
 
 ## Do some Dallas ISD campuses have extra days?
 
-Yes. Some campuses follow an Additional Days School Year (ADSY) schedule. The district's calendar page lists an "ADSY Campuses Instructional Day" on Saturday, Oct. 17, 2026. See the district's [ADSY page](https://www.dallasisd.org/parents-students/early-start-adsy-additional-days-school-year) for how it works.
+Yes. Some campuses follow an Additional Days School Year (ADSY) schedule. The district's calendar page lists an "ADSY Campuses Instructional Day" on Saturday, Oct. 17, 2026, which has passed. See the district's [ADSY page](https://www.dallasisd.org/parents-students/early-start-adsy-additional-days-school-year) for how it works.
 
 ## When does the school year end?
 

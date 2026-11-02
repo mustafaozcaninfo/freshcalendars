@@ -1,9 +1,10 @@
 ---
 title: "SNAP Payment Schedule November 2026: Deposit Dates for Every State, With Weekend Days Flagged"
 seoTitle: "SNAP Payment Schedule November 2026: Dates by State"
-description: "Supplemental Nutrition Assistance Program (SNAP) benefits load Sunday, Nov. 1, 2026 in some states. Deposit days by state, per Food and Nutrition Service (FNS)."
+description: "Supplemental Nutrition Assistance Program (SNAP) benefits loaded Sun., Nov. 1, 2026 in some states. Deposit days by state, per Food and Nutrition Service (FNS)."
 type: explainer
 publishedAt: "2026-10-29T10:05:43-04:00"
+updatedAt: "2026-11-02T14:10:00-05:00"
 authors: [aaron-kessler]
 category: money-benefits
 keywords: ["SNAP payment schedule November 2026", "when will SNAP be deposited November 2026", "food stamps November 2026 dates by state", "SNAP deposit dates by state"]
@@ -12,7 +13,7 @@ hero:
   src: ../../../../assets/news/snap-payment-schedule-november-2026-deposit-dates-by-state/snap-payment-schedule-november-2026-deposit-dates-by-state.webp
   alt: "A 2012 USDA event launching wireless Electronic Benefit Transfer (EBT) at a Baltimore farmers market, for the SNAP payment schedule November 2026"
   title: "SNAP November 2026 deposit dates"
-  caption: "File photo from 2012: a USDA event at a Baltimore farmers market launching wireless EBT. Alaska and four other places issue SNAP on Sunday, Nov. 1, 2026."
+  caption: "File photo from 2012: a USDA event at a Baltimore farmers market launching wireless EBT. Alaska and four other places issued SNAP on Sunday, Nov. 1, 2026."
   credit: "Photo: USDAgov / Wikimedia Commons, cropped, edited"
   license:
     name: "Public domain"
@@ -20,15 +21,15 @@ hero:
     source: "https://commons.wikimedia.org/wiki/File:Deputy_Secretary_Kathleen_Merrigan_helps_launch_Wireless_EBT_at_Baltimore_Farmers%27_Market_and_Bazaar_(20120708-OSEC-LSC-0447).jpg"
     author: "USDAgov"
 summary:
-  - "Alaska, North Dakota, Rhode Island, Vermont and the U.S. Virgin Islands make SNAP benefits available to every household on the 1st, which is Sunday, Nov. 1, 2026."
+  - "Alaska, North Dakota, Rhode Island, Vermont and the U.S. Virgin Islands make SNAP benefits available to every household on the 1st, which was Sunday, Nov. 1, 2026."
   - "Most other states, the District of Columbia, Guam and Puerto Rico spread deposits over a range of days, set by a case number, Social Security number (SSN), birth date or last name."
   - "Saturdays and Sundays in November 2026 are Nov. 1, 7, 8, 14, 15, 21, 22, 28 and 29; the Food and Nutrition Service (FNS) schedule gives no weekend rule."
   - "November benefits use the fiscal year (FY) 2027 maximums: $306 for one person and $1,023 for four in the 48 states and DC."
 faq:
   - q: "When will SNAP be deposited in November 2026?"
-    a: "It depends on the state. FNS lists days from the 1st to the 28th. Alaska, North Dakota, Rhode Island, Vermont and the U.S. Virgin Islands issue on the 1st, Sunday, Nov. 1, 2026. Find your state in the table above."
+    a: "It depends on the state. FNS lists days from the 1st to the 28th. Alaska, North Dakota, Rhode Island, Vermont and the U.S. Virgin Islands issued on the 1st, Sunday, Nov. 1, 2026, which has passed. Find your state in the table above."
   - q: "Does SNAP come on a weekend?"
-    a: "Several states have schedule days on Saturday or Sunday in November 2026, such as Nov. 1, 7 and 8. The FNS document gives no weekend shift rule for most states. Check your state agency's notice or EBT portal."
+    a: "Several states have schedule days on Saturday or Sunday in November 2026, such as Nov. 1 (past), 7 and 8. The FNS document gives no weekend shift rule for most states. Check your state agency's notice or EBT portal."
   - q: "Is there a Veterans Day change to SNAP deposits?"
     a: "Veterans Day is Wednesday, Nov. 11, 2026. The FNS document names no Veterans Day shift. It says Pennsylvania counts business days without weekends and holidays, and that New York City posts on days that are not Sundays or holidays."
   - q: "How do I find out my exact deposit day?"
@@ -133,7 +134,7 @@ downloads:
     pages: 1
 ---
 
-**Supplemental Nutrition Assistance Program (SNAP) benefits for November 2026 load on Sunday, Nov. 1, in the states that issue on the 1st, and every state sets its own days across the month, according to the schedule the U.S. Department of Agriculture's Food and Nutrition Service (FNS) publishes.** Alaska, North Dakota, Rhode Island, Vermont and the U.S. Virgin Islands make benefits available to every household on the 1st. Many more states issue part of their caseload that day, as the table below shows.
+**Supplemental Nutrition Assistance Program (SNAP) benefits for November 2026 loaded on Sunday, Nov. 1, in the states that issue on the 1st, and every state sets its own days across the month, according to the schedule the U.S. Department of Agriculture's Food and Nutrition Service (FNS) publishes.** Alaska, North Dakota, Rhode Island, Vermont and the U.S. Virgin Islands make benefits available to every household on the 1st. Many more states issue part of their caseload that day, as the table below shows.
 
 The FNS page that links the schedule, "Monthly Issuance Schedule," shows a last-updated date of July 26, 2024, and the PDF itself ends with "Updated: November 4, 2021." Each state sets its own schedule and can change it, so the notice from your state agency is final. Check your state's Electronic Benefit Transfer (EBT) portal for your exact day.
 
@@ -205,7 +206,7 @@ November 1, 2026 is a Sunday, so the weekends are Nov. 1, 7, 8, 14, 15, 21, 22, 
 
 | Weekend date | States and territories with a schedule day on it |
 |---|---|
-| Sunday, Nov. 1 | Alaska, Arizona, California, Colorado, Connecticut, District of Columbia, Florida, Guam, Idaho, Illinois, Iowa, Kansas, Kentucky, Louisiana, Massachusetts, Missouri, Nebraska, Nevada, New Jersey, New Mexico, New York, North Dakota, Oklahoma, Oregon, Rhode Island, South Carolina, Tennessee, Texas, Vermont, U.S. Virgin Islands, Virginia, Washington, West Virginia, Wyoming |
+| Sunday, Nov. 1 (past) | Alaska, Arizona, California, Colorado, Connecticut, District of Columbia, Florida, Guam, Idaho, Illinois, Iowa, Kansas, Kentucky, Louisiana, Massachusetts, Missouri, Nebraska, Nevada, New Jersey, New Mexico, New York, North Dakota, Oklahoma, Oregon, Rhode Island, South Carolina, Tennessee, Texas, Vermont, U.S. Virgin Islands, Virginia, Washington, West Virginia, Wyoming |
 | Saturday, Nov. 7 | Alabama, Arizona, California, Colorado, Delaware, District of Columbia, Florida, Georgia, Guam, Idaho, Illinois, Indiana, Iowa, Kansas, Kentucky, Louisiana, Maryland, Massachusetts, Michigan, Minnesota, Mississippi, Missouri, Nevada, New Mexico, New York, North Carolina, Oregon, South Carolina, Tennessee, Texas, Virginia, Washington, West Virginia |
 | Sunday, Nov. 8 | Alabama, Arizona, Arkansas, California, Colorado, Delaware, District of Columbia, Florida, Guam, Idaho, Illinois, Iowa, Kansas, Maryland, Massachusetts, Minnesota, Mississippi, Missouri, Nevada, New Mexico, New York, Ohio, Oregon, Puerto Rico, South Carolina, Tennessee, Washington, West Virginia, Wisconsin |
 | Saturday, Nov. 14 | Alabama, Delaware, Florida, Maine, Maryland, Massachusetts, Mississippi, Missouri, New Mexico, Ohio, Puerto Rico, Tennessee, Washington, Wisconsin |

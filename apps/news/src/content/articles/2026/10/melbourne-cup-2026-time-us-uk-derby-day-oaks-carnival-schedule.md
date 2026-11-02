@@ -4,7 +4,7 @@ seoTitle: "Melbourne Cup 2026 Time in the U.S. and UK"
 description: "The 2026 Lexus Melbourne Cup is Tuesday, Nov. 3 in Melbourne, Monday night, Nov. 2 in the U.S. Cup Day's first race is 6:45 p.m. Eastern Time (ET) in the U.S."
 type: news
 publishedAt: "2026-10-30T12:32:00-04:00"
-updatedAt: "2026-11-01T10:27:00-05:00"
+updatedAt: "2026-11-02T14:10:00-05:00"
 authors: [jessica-hartwell]
 category: sports
 keywords: ["Melbourne Cup 2026 time", "Melbourne Cup 2026 US time", "Melbourne Cup Carnival 2026 dates", "Victoria Derby Day 2026", "what time is the Melbourne Cup in the US"]
@@ -79,7 +79,7 @@ assets:
   overlay: true
   kicker: "Melbourne Cup 2026 · Tue., Nov. 3"
   date: "2026-11-03"
-  card: { top: "Derby Day first race", big: "9:20 p.m. ET tonight", bottom: "Melbourne Cup Day is Tue., Nov. 3" }
+  card: { top: "Cup Day first race", big: "6:45 p.m. ET Mon.", bottom: "Melbourne Cup Day is Tue., Nov. 3" }
   printable:
     slug: melbourne-cup-carnival-2026-race-day-planner
     group: melbourne-cup-2026
@@ -141,7 +141,7 @@ The VRC had not published a race-by-race timetable for Cup Day on its page, whic
 
 The VRC confirmed the final field of 24 runners and the barrier draw after Derby Day on Oct. 31, 2026, for what it called the 166th running of the Lexus Melbourne Cup. It listed Point of Law as the race favourite, drawn in barrier 9.
 
-The VRC says the Lexus Melbourne Cup Trophy Ceremony starts at 2:15 p.m. in the Mounting Yard, before the race. It opens with a Welcome to Country, followed by a performance by Robbie Williams, the arrival of the 2026 Lexus Melbourne Cup and the Australian National Anthem. That is 10:15 p.m. EST on Monday, Nov. 2. The Cup race follows the ceremony. Check the VRC site for the full race times once the final field is set. Robbie Williams also performs after the last race on The Elms Live Stage, the VRC says.
+The VRC says the Lexus Melbourne Cup Trophy Ceremony starts at 2:15 p.m. in the Mounting Yard, before the race. It opens with a Welcome to Country, followed by a performance by Robbie Williams, the arrival of the 2026 Lexus Melbourne Cup and the Australian National Anthem. That is 10:15 p.m. EST on Monday, Nov. 2. The Cup race follows the ceremony. See the VRC's race-day page for the Cup start time. Robbie Williams also performs after the last race on The Elms Live Stage, the VRC says.
 
 The VRC lists the Group 1 Lexus Melbourne Cup over 3200 metres as an Open Handicap, with prizemoney of A$8,660,000 (Australian dollars, A$).
 
@@ -151,7 +151,7 @@ Howden Victoria Derby Day was Saturday, Oct. 31. Gates opened at 10:00 a.m., the
 
 ## What time is the Melbourne Cup in the UK?
 
-In the United Kingdom, Cup Day starts at 11:45 p.m. GMT on Monday, Nov. 2, by our conversion, and the trophy ceremony is at 3:15 a.m. GMT on Tuesday, Nov. 3. Derby Day's first race is at 1:20 a.m. GMT on Saturday, Oct. 31.
+In the United Kingdom, Cup Day starts at 11:45 p.m. GMT on Monday, Nov. 2, by our conversion, and the trophy ceremony is at 3:15 a.m. GMT on Tuesday, Nov. 3. Derby Day's first race was at 1:20 a.m. GMT on Saturday, Oct. 31.
 
 ## When are Crown Oaks Day and Champions Stakes Day?
 

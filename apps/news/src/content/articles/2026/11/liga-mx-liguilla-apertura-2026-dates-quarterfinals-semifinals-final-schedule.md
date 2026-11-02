@@ -4,6 +4,7 @@ seoTitle: "Liga MX Liguilla Apertura 2026 Dates"
 description: "The Liga MX Liguilla starts Nov. 25-26 with no Play-In. See every round by date, the Toluca exception for the Final, and the current top eight as of Nov. 1."
 type: news
 publishedAt: "2026-11-01T20:55:00-05:00"
+updatedAt: "2026-11-02T14:10:00-05:00"
 authors: [jessica-hartwell]
 category: sports
 keywords: ["Liguilla Apertura 2026 dates", "Liga MX playoffs 2026 schedule", "Liga MX Liguilla 2026 start", "Liga MX final 2026 date", "Cruz Azul Liguilla 2026"]
@@ -126,7 +127,7 @@ The top eight teams in the general table qualify. Claro Sports lists the quarter
 - In the quarterfinals and semifinals, a tie on aggregate goes to the team that finished higher in the table, per Claro Sports.
 - The Final goes to extra time and penalties if it is tied, per Claro Sports.
 
-## Who would play whom if the season ended today?
+## Who would play whom on the Nov. 1 table?
 
 These standings come from the Liga MX general table on ligamx.net, read the night of Nov. 1, 2026, before every Jornada 15 game was final. Jornadas 16 and 17 can change them, so this is a snapshot, not a bracket.
 
@@ -157,4 +158,4 @@ Mexico City does not observe daylight saving time. Since U.S. clocks fell back o
 
 ## Where else can I follow the soccer calendar?
 
-The same weeks hold other schedules: see the [Major League Soccer (MLS) Cup playoffs 2026 schedule](/news/mls-cup-playoffs-2026-schedule-dates-mls-cup-december-18/), this weekend's [soccer on TV list with U.S. channels](/news/soccer-on-tv-this-weekend-october-30-november-2-2026-us-channels/) and the [Champions League November 2026 schedule](/news/champions-league-november-2026-schedule-kickoff-times-et-matchday-4-5/).
+The same weeks hold other schedules: see the [Major League Soccer (MLS) Cup playoffs 2026 schedule](/news/mls-cup-playoffs-2026-schedule-dates-mls-cup-december-18/), the Oct. 30-Nov. 2 [soccer on TV list with U.S. channels](/news/soccer-on-tv-this-weekend-october-30-november-2-2026-us-channels/) and the [Champions League November 2026 schedule](/news/champions-league-november-2026-schedule-kickoff-times-et-matchday-4-5/).

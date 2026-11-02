@@ -5,7 +5,7 @@ description: "Krispy Kreme's free costume doughnut ran Fri., Oct. 30 and Sat., O
 type: news
 dateline: "New York"
 publishedAt: "2026-10-30T05:43:00-04:00"
-updatedAt: "2026-11-01T05:33:00-05:00"
+updatedAt: "2026-11-02T14:10:00-05:00"
 authors: [christina-gerland]
 category: holidays
 keywords: ["Halloween free food 2026", "Chipotle Boorito 2026", "Krispy Kreme free doughnut costume 2026", "Halloween deals October 31 2026"]
@@ -43,20 +43,20 @@ hero:
     source: "https://commons.wikimedia.org/wiki/File:Chipotle_Mexican_Grill_(53451126636).jpg"
     author: "Todd Van Hoosear"
     authorUrl: "https://www.flickr.com/people/92787319@N00"
-  caption: "File photo of a Chipotle storefront. Chipotle's $6 Boorito runs from 3 p.m. local time on Sat., Oct. 31, 2026."
+  caption: "File photo of a Chipotle storefront. Chipotle's $6 Boorito ran from 3 p.m. local time on Sat., Oct. 31, 2026."
 summary:
-  - "Krispy Kreme gives a free Original Glazed or Classic Ring Doughnut to guests in costume at participating U.S. shops on Fri., Oct. 30 and Sat., Oct. 31, 2026, in shop and drive-thru only, one per guest."
-  - "Chipotle Rewards members in costume can get a $6 entree from 3 p.m. to close on Sat., Oct. 31, 2026, one discounted item per costumed guest."
-  - "Chipotle also lists $0 delivery fees on digital orders placed Oct. 31 and Nov. 1, with a $10 minimum before tax and fees."
+  - "Krispy Kreme gave a free Original Glazed or Classic Ring Doughnut to guests in costume at participating U.S. shops on Fri., Oct. 30 and Sat., Oct. 31, 2026, in shop and drive-thru only, one per guest."
+  - "Chipotle Rewards members in costume could get a $6 entree from 3 p.m. to close on Sat., Oct. 31, 2026, one discounted item per costumed guest."
+  - "Chipotle also listed $0 delivery fees on digital orders placed Oct. 31 and Nov. 1, with a $10 minimum before tax and fees."
   - "The 7-Eleven pizza and delivery deals below come from trade press, not 7-Eleven's own page, which we did not check."
 faq:
   - q: "Is Krispy Kreme giving away free doughnuts on Halloween 2026?"
-    a: "Yes. Its home page, checked Oct. 30, 2026, offers a free Original Glazed or Classic Ring Doughnut to guests in costume at a participating U.S. shop on Fri., Oct. 30 or Sat., Oct. 31. No purchase is necessary, it is in shop and drive-thru only, and the limit is one per guest."
+    a: "Yes. Its home page, checked Oct. 30, 2026, offered a free Original Glazed or Classic Ring Doughnut to guests in costume at a participating U.S. shop on Fri., Oct. 30 or Sat., Oct. 31. No purchase is necessary, it is in shop and drive-thru only, and the limit is one per guest."
   - q: "What time does Chipotle's Boorito start on Oct. 31, 2026?"
-    a: "At 3 p.m. local time and it runs to close, according to Chipotle's Oct. 20, 2026 newsroom release."
+    a: "At 3 p.m. local time, and it ran to close, according to Chipotle's Oct. 20, 2026 newsroom release."
   - q: "Do I need the Chipotle Rewards app for the $6 entree?"
-    a: "The release says Chipotle Rewards members can receive the $6 entree when appearing in costume, as determined by the restaurant, and scanning for Rewards at the point of sale."
-  - q: "Are there Halloween clock changes this weekend?"
+    a: "The release says Chipotle Rewards members could receive the $6 entree when appearing in costume, as determined by the restaurant, and scanning for Rewards at the point of sale."
+  - q: "Did the clocks change on Halloween weekend 2026?"
     a: "Daylight Saving Time (DST) ended at 2 a.m. on Sunday, Nov. 1, so Halloween night had an extra hour."
 sources:
   - title: "Boorito Returns: Chipotle to Offer $6 Entrees on Halloween 2026"
@@ -99,7 +99,7 @@ downloads:
     pages: 1
 ---
 
-Krispy Kreme's free costume doughnut ran Friday, Oct. 30, and Saturday, Oct. 31, 2026, and Chipotle's $6 Boorito entree was Saturday, Oct. 31, from 3 p.m. local time to close, according to each company's own pages. Krispy Kreme's home page, checked Oct. 30, and Chipotle's Oct. 20 newsroom release carry the rules; the table below puts day, time, requirement and limit side by side. Halloween falls on a Saturday this year; see [when is Halloween](/when-is/halloween/) and the [October 2026 printable calendar](/october-calendars.html).
+Krispy Kreme's free costume doughnut ran Friday, Oct. 30, and Saturday, Oct. 31, 2026, and Chipotle's $6 Boorito entree was Saturday, Oct. 31, from 3 p.m. local time to close, according to each company's own pages. Krispy Kreme's home page, checked Oct. 30, and Chipotle's Oct. 20 newsroom release carry the rules; the table below puts day, time, requirement and limit side by side. Halloween 2026 was a Saturday; see [when is Halloween](/when-is/halloween/) and the [October 2026 printable calendar](/october-calendars.html).
 
 ## When and how do the Halloween 2026 deals work?
 
@@ -115,20 +115,20 @@ Krispy Kreme's home page says to wear your spookiest (or silliest) costume into 
 
 ## How does Chipotle's $6 Boorito work?
 
-Chipotle's Oct. 20, 2026 newsroom release, "Boorito Returns: Chipotle to Offer $6 Entrees on Halloween 2026,", says Chipotle Rewards members who visit a restaurant in costume from 3 p.m. to close on Oct. 31 can get a $6 entree. The fine print says members receive one entree item for $6 when appearing in costume, as determined by the restaurant, and scanning for Rewards at the point of sale at participating U.S. restaurants. The limit is one discounted item per costumed guest.
+Chipotle's Oct. 20, 2026 newsroom release, "Boorito Returns: Chipotle to Offer $6 Entrees on Halloween 2026,", says Chipotle Rewards members who visited a restaurant in costume from 3 p.m. to close on Oct. 31 could get a $6 entree. The fine print says members receive one entree item for $6 when appearing in costume, as determined by the restaurant, and scanning for Rewards at the point of sale at participating U.S. restaurants. The limit is one discounted item per costumed guest.
 
-Chipotle also lists $0 delivery fees on digital orders placed on Oct. 31 and Nov. 1, available only on those dates, within Chipotle's delivery areas from participating U.S. restaurants. The minimum order is $10 before tax and fees, and maximum item numbers apply.
+Chipotle also listed $0 delivery fees on digital orders placed on Oct. 31 and Nov. 1, available only on those dates, within Chipotle's delivery areas from participating U.S. restaurants. The minimum order is $10 before tax and fees, and maximum item numbers apply.
 
 ## What else is reported for Halloween?
 
 These two items are trade-press reports, not offers we confirmed on the company's page.
 
-- **7-Eleven:** The National Association of Convenience Stores (NACS) Daily News reported on Oct. 16, 2026 that 7-Eleven is offering a large pizza for $7.11 on 7NOW delivery on Oct. 30 and 31, and $10 off a 7NOW order of $20 or more with a promo code on Halloween (the report names the code). We did not check 7-Eleven's own page.
-- **McDonald's Boo Buckets:** [Fox 19 reported](https://www.fox19.com/2026/10/17/mcdonalds-iconic-boo-buckets-are-back-with-villain-twist-heres-when-they-will-pop-up/) on Oct. 17, 2026 that they are available while supplies last at participating locations. McDonald's site blocked automated access, so we could not check it.
+- **7-Eleven:** The National Association of Convenience Stores (NACS) Daily News reported on Oct. 16, 2026 that 7-Eleven was offering a large pizza for $7.11 on 7NOW delivery on Oct. 30 and 31, and $10 off a 7NOW order of $20 or more with a promo code on Halloween (the report names the code). We did not check 7-Eleven's own page.
+- **McDonald's Boo Buckets:** [Fox 19 reported](https://www.fox19.com/2026/10/17/mcdonalds-iconic-boo-buckets-are-back-with-villain-twist-heres-when-they-will-pop-up/) on Oct. 17, 2026 that they were available while supplies lasted at participating locations. McDonald's site blocked automated access, so we could not check it.
 
 We did not confirm 2026 Halloween offers from Burger King, Wendy's, Dunkin', Taco Bell, Starbucks, Sonic or Papa John's, so none are listed.
 
-## What is a plan for Saturday, Oct. 31?
+## What did the plan for Saturday, Oct. 31 look like?
 
 | When on Sat., Oct. 31 | What to do |
 |---|---|
@@ -136,6 +136,6 @@ We did not confirm 2026 Halloween offers from Burger King, Wendy's, Dunkin', Tac
 | From 3 p.m. local time to close | Chipotle $6 entree in costume, with a Rewards scan |
 | Any time, Oct. 31 and Nov. 1 | Chipotle delivery with $0 delivery fees on digital orders of $10 or more before tax and fees |
 
-Trick-or-treat hours vary by town; our [Saturday sunset and trick-or-treat times](/news/halloween-2026-saturday-sunset-trick-or-treat-times/) story covers the evening. Daylight Saving Time (DST) ended at 2 a.m. on Sunday, Nov. 1, so Halloween night had an extra hour; see [when DST ends on Nov. 1, 2026](/news/daylight-saving-time-ends-november-1-2026/) and the [November 2026 printable calendar](/november-calendars.html). Still need a costume? Read our list of [costume stores open Oct. 29-31](/news/halloween-costume-stores-open-october-29-31-2026-spirit-party-city/). For another deal roundup, see [Veterans Day free meals and discounts](/news/veterans-day-free-meals-discounts/).
+Trick-or-treat hours vary by town; our [Saturday sunset and trick-or-treat times](/news/halloween-2026-saturday-sunset-trick-or-treat-times/) story covers the evening. Daylight Saving Time (DST) ended at 2 a.m. on Sunday, Nov. 1, so Halloween night had an extra hour; see [when DST ends on Nov. 1, 2026](/news/daylight-saving-time-ends-november-1-2026/) and the [November 2026 printable calendar](/november-calendars.html). Our list of [costume stores open Oct. 29-31](/news/halloween-costume-stores-open-october-29-31-2026-spirit-party-city/) covers the costume side. For another deal roundup, see [Veterans Day free meals and discounts](/news/veterans-day-free-meals-discounts/).
 
 The free printable "Halloween Free Food Checklist, Oct. 30-31, 2026" puts the days, requirements and limits on one page.

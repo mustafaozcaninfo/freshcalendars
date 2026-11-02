@@ -1,10 +1,10 @@
 ---
 title: "Premier League Fixtures This Weekend, Oct. 31-Nov. 2, 2026: Kick-Off Times and TV in the UK and US"
 seoTitle: "Premier League Fixtures This Weekend: Times and TV"
-description: "Chelsea v Manchester United opens the weekend Sat., Oct. 31, 2026 at 12:30pm Greenwich Mean Time (GMT), 8:30 a.m. Eastern Time (ET), per the Premier League."
+description: "Chelsea v Manchester United opened the weekend Sat., Oct. 31, 2026 at 12:30pm Greenwich Mean Time (GMT), 8:30 a.m. Eastern Time (ET), per the Premier League."
 type: news
 publishedAt: "2026-10-29T15:50:00-04:00"
-updatedAt: "2026-10-31T15:50:00-04:00"
+updatedAt: "2026-11-02T14:10:00-05:00"
 authors: [christina-gerland]
 category: uk-canada
 keywords: ["premier league fixtures this weekend", "liverpool vs arsenal kick off time", "newcastle vs everton time tv", "premier league on tv this weekend", "chelsea vs man united time"]
@@ -39,7 +39,7 @@ assets:
 hero:
   src: ../../../../assets/news/premier-league-fixtures-this-weekend-october-31-november-2-2026-kickoff-times-tv/premier-league-fixtures-this-weekend-october-31-november-2-2026-kickoff-times-tv.webp
   alt: "Premier League fixtures this weekend: Anfield, home of Liverpool, with its red stands and pitch"
-  caption: "Anfield, where Liverpool host Arsenal on Sunday, Nov. 1, 2026 at 4:30pm UK time. File photo from May 2024."
+  caption: "Anfield, where Liverpool were due to host Arsenal on Sunday, Nov. 1, 2026 at 4:30pm UK time. File photo from May 2024."
   credit: "Photo: FYI2023 / Wikimedia Commons, cropped, edited"
   license:
     name: "CC0"
@@ -48,16 +48,16 @@ hero:
     author: "FYI2023"
     authorUrl: "https://commons.wikimedia.org/w/index.php?title=User:FYI2023&action=edit&redlink=1"
 summary:
-  - "The Premier League weekend opens Saturday, Oct. 31, 2026 with Chelsea v Manchester United at 12:30pm Greenwich Mean Time (GMT), 8:30 a.m. Eastern Time (ET), on TNT Sports in the UK, per the Premier League."
-  - "Liverpool v Arsenal is Sunday, Nov. 1 at 4:30pm UK time (11:30 a.m. ET) and Newcastle United v Everton is Monday, Nov. 2 at 8pm UK time (3 p.m. ET), both on Sky Sports."
-  - "The UK is 4 hours ahead of Eastern Time on Saturday and 5 hours ahead on Sunday and Monday, because UK clocks went back on Oct. 25 and U.S. clocks go back on Nov. 1."
+  - "The Premier League weekend opened Saturday, Oct. 31, 2026 with Chelsea v Manchester United at 12:30pm Greenwich Mean Time (GMT), 8:30 a.m. Eastern Time (ET), on TNT Sports in the UK, per the Premier League."
+  - "Liverpool v Arsenal was listed for Sunday, Nov. 1 at 4:30pm UK time (11:30 a.m. ET) and Newcastle United v Everton is listed for Monday, Nov. 2 at 8pm UK time (3 p.m. ET), both on Sky Sports."
+  - "The UK is 4 hours ahead of Eastern Time on Saturday and 5 hours ahead on Sunday and Monday, because UK clocks went back on Oct. 25 and U.S. clocks went back on Nov. 1."
 faq:
   - q: "What time is Liverpool vs Arsenal?"
-    a: "Sunday, Nov. 1, 2026 at 4:30pm UK time on Sky Sports, per the Premier League. That is 11:30 a.m. ET or 8:30 a.m. Pacific Time (PT), after U.S. clocks go back at 2 a.m. that day. NBC Sports lists the match on Peacock."
+    a: "Sunday, Nov. 1, 2026 at 4:30pm UK time on Sky Sports, per the Premier League. That was 11:30 a.m. ET or 8:30 a.m. Pacific Time (PT), after U.S. clocks went back at 2 a.m. that day. NBC Sports lists the match on Peacock."
   - q: "What time is Newcastle vs Everton and what channel is it on?"
     a: "Monday, Nov. 2, 2026 at 8pm UK time at St James' Park, on Sky Sports in the UK, per the Premier League. That is 3 p.m. ET or 12 p.m. PT. NBC Sports lists it on USA Network."
   - q: "What time is Chelsea vs Man United?"
-    a: "Saturday, Oct. 31, 2026 at 12:30pm UK time on TNT Sports, the Premier League says. That is 8:30 a.m. ET or 5:30 a.m. PT. NBC Sports lists it on USA Network."
+    a: "Saturday, Oct. 31, 2026 at 12:30pm UK time on TNT Sports, the Premier League said. That was 8:30 a.m. ET or 5:30 a.m. PT. NBC Sports lists it on USA Network."
   - q: "Are all Premier League games on US TV?"
     a: "NBC Sports says that in the USA you can watch all 380 Premier League games in 2026-27 across NBC, USA and Peacock. For matches where it names no channel, check NBC Sports listings."
 sources:
@@ -103,7 +103,7 @@ downloads:
 draft: false
 ---
 
-**The Premier League weekend opens Saturday, Oct. 31, 2026 with Chelsea v Manchester United at 12:30pm UK time, which is 8:30 a.m. Eastern Time (ET), according to the Premier League.** The match is on Turner Network Television (TNT) Sports in the UK, and NBC Sports lists it on USA Network in the US. Ten matches fall between Saturday and Monday, Nov. 2.
+**The Premier League weekend opened Saturday, Oct. 31, 2026 with Chelsea v Manchester United at 12:30pm UK time, which was 8:30 a.m. Eastern Time (ET), according to the Premier League.** The match was on Turner Network Television (TNT) Sports in the UK, and NBC Sports listed it on USA Network in the US. Ten matches fall between Saturday and Monday, Nov. 2.
 
 The table below gives each match in UK time (Greenwich Mean Time, GMT), ET and Pacific Time (PT), with the UK and US channel where one is listed. Times are from the Premier League, and the league says all fixtures are subject to change. A printable version is further down.
 
@@ -128,25 +128,25 @@ The home club is named first. UK channels are from the Premier League; US channe
 
 ## Why is the time gap different on Saturday, Sunday and Monday?
 
-The UK went back to GMT on Oct. 25, 2026, according to GOV.UK. U.S. clocks go back on Sunday, Nov. 1 at 2 a.m., when daylight saving time ends (see [when daylight saving time ends on Nov. 1, 2026](/news/daylight-saving-time-ends-november-1-2026/)). So the UK is 4 hours ahead of ET on Saturday and 5 hours ahead on Sunday and Monday.
+The UK went back to GMT on Oct. 25, 2026, according to GOV.UK. U.S. clocks went back on Sunday, Nov. 1 at 2 a.m., when daylight saving time ended (see [when daylight saving time ends on Nov. 1, 2026](/news/daylight-saving-time-ends-november-1-2026/)). So the UK was 4 hours ahead of ET on Saturday and is 5 hours ahead on Sunday and Monday.
 
 That is why the same 8pm UK start is 4 p.m. ET on Saturday (Aston Villa v Fulham) and 3 p.m. ET on Monday (Newcastle United v Everton). Our [guide to the UK and Europe clock change](/news/uk-europe-clocks-go-back-october-25-2026-time-difference/) explains the week in between.
 
 ## What time is Chelsea vs Man United?
 
-Chelsea v Manchester United is the first match of the weekend, on Saturday, Oct. 31 at 12:30pm UK time, per the Premier League. That is 8:30 a.m. ET and 5:30 a.m. PT. The league lists TNT Sports in the UK; NBC Sports lists USA Network in the US.
+Chelsea v Manchester United was the first match of the weekend, on Saturday, Oct. 31 at 12:30pm UK time, per the Premier League. That was 8:30 a.m. ET and 5:30 a.m. PT. The league listed TNT Sports in the UK; NBC Sports listed USA Network in the US.
 
 ## What time is Liverpool vs Arsenal?
 
-Liverpool v Arsenal is on Sunday, Nov. 1 at 4:30pm UK time on Sky Sports, per the Premier League. U.S. clocks go back at 2 a.m. that day, so the kick-off is 11:30 a.m. ET and 8:30 a.m. PT. NBC Sports lists the match on Peacock.
+Liverpool v Arsenal was listed for Sunday, Nov. 1 at 4:30pm UK time on Sky Sports, per the Premier League. U.S. clocks went back at 2 a.m. that day, so the kick-off was 11:30 a.m. ET and 8:30 a.m. PT. NBC Sports listed the match on Peacock.
 
 ## What time is Newcastle vs Everton, and what channel?
 
 Newcastle United host Everton at St James' Park on Monday, Nov. 2 at 8pm UK time, on Sky Sports, per the Premier League. That is 3 p.m. ET and 12 p.m. PT, and NBC Sports lists USA Network. The sides last met on Saturday, Feb. 28, 2026 at St James' Park, where Everton won 3-2, according to Newcastle United's match report.
 
-## What is on TV in the UK this weekend?
+## What was on TV in the UK this weekend?
 
-The Premier League lists five matches with a UK broadcaster: Chelsea v Manchester United on TNT Sports, and Tottenham Hotspur v Crystal Palace, Liverpool v Arsenal, Aston Villa v Fulham and Newcastle United v Everton on Sky Sports. That is one TNT Sports match and four Sky Sports matches. The next round opens on Friday, Nov. 6 at 8pm UK time with Everton v Coventry City on Sky Sports, which is 3 p.m. ET.
+The Premier League listed five matches with a UK broadcaster: Chelsea v Manchester United on TNT Sports, and Tottenham Hotspur v Crystal Palace, Liverpool v Arsenal, Aston Villa v Fulham and Newcastle United v Everton on Sky Sports. That was one TNT Sports match and four Sky Sports matches. The next round opens on Friday, Nov. 6 at 8pm UK time with Everton v Coventry City on Sky Sports, which is 3 p.m. ET.
 
 ## Is there a printable Premier League TV guide?
 

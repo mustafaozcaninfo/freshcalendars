@@ -4,6 +4,7 @@ seoTitle: "Fairfax County Schools Calendar 2026-27: Breaks"
 description: "Fairfax County Public Schools (FCPS) 2026-27: first day Aug. 24, winter break Dec. 21 to Jan. 3, spring break Mar. 22-26, last day June 16, early-release days."
 type: news
 publishedAt: "2026-10-26T20:40:00-04:00"
+updatedAt: "2026-11-02T14:10:00-05:00"
 authors: [aaron-kessler]
 category: school-calendars
 keywords: ["fcps calendar 2026-27", "fairfax county public schools calendar 2026-2027", "fcps winter break 2026", "fcps spring break 2027", "fcps holidays 2026-27"]
@@ -23,7 +24,7 @@ summary:
   - "The Fairfax County Public Schools (FCPS) 2026-27 Standard School Year Calendar lists the first day of school as Monday, Aug. 24, 2026 and the last day for regular classes as Wednesday, June 16, 2027."
   - "Winter break runs Monday, Dec. 21, 2026 to Sunday, Jan. 3, 2027, which is 10 weekdays off; spring break is Monday to Friday, March 22-26, 2027."
   - "The calendar counts 27 no-school weekdays, including three student holidays that are teacher or planning days: Oct. 12, Nov. 3 and Jan. 29."
-  - "Quarter 1, 2 and 3 end with a two-hour early release for all schools on Oct. 30, Jan. 28 and April 16, and the last day of classes on June 16 is also an early release."
+  - "Quarter 1, 2 and 3 end with a two-hour early release for all schools on Oct. 30 (past), Jan. 28 and April 16, and the last day of classes on June 16 is also an early release."
 faq:
   - q: "When does FCPS start school in 2026?"
     a: "Monday, Aug. 24, 2026 is the first day of school on the FCPS 2026-27 Standard School Year Calendar."
@@ -101,7 +102,7 @@ downloads:
 draft: false
 ---
 
-**Fairfax County Public Schools (FCPS) has winter break from Monday, Dec. 21, 2026 to Sunday, Jan. 3, 2027, and spring break from Monday to Friday, March 22-26, 2027**, according to its "2026-2027 Standard School Year Calendar" (PDF). The first day of school is Monday, Aug. 24, 2026, and the last day for regular classes is Wednesday, June 16, 2027. The calendar does not print the date the board approved it. The next two dates are Friday, Oct. 30, a two-hour early release for the end of quarter 1, and Tuesday, Nov. 3, Election Day, a Teacher Workday (TW) that is a student holiday.
+**Fairfax County Public Schools (FCPS) has winter break from Monday, Dec. 21, 2026 to Sunday, Jan. 3, 2027, and spring break from Monday to Friday, March 22-26, 2027**, according to its "2026-2027 Standard School Year Calendar" (PDF). The first day of school is Monday, Aug. 24, 2026, and the last day for regular classes is Wednesday, June 16, 2027. The calendar does not print the date the board approved it. The next date is tomorrow, Tuesday, Nov. 3, Election Day, a Teacher Workday (TW) that is a student holiday, followed by Thanksgiving Break, Nov. 25-27. The two-hour early release for the end of quarter 1 was on Friday, Oct. 30.
 
 ## When are FCPS schools closed in 2026-27?
 
@@ -141,7 +142,7 @@ Quarter-end days are a two-hour early release for all schools. The footer also l
 
 | Date | Day | Early release |
 |---|---|---|
-| Oct. 30, 2026 | Friday | End of quarter 1, two hours early |
+| Oct. 30, 2026 (past) | Friday | End of quarter 1, two hours early |
 | Jan. 28, 2027 | Thursday | End of quarter 2, two hours early |
 | April 16, 2027 | Friday | End of quarter 3, two hours early |
 | June 16, 2027 | Wednesday | Last day for regular classes, early release |

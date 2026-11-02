@@ -1,10 +1,10 @@
 ---
-title: "Ballon d'Or 2026 Live Stream: How to Watch in the US on Dazn, Start Time and TV Channels Worldwide"
-seoTitle: "Ballon d'Or 2026 Live Stream: How to Watch in the US"
-description: "Stream the 2026 Ballon d'Or in the US on Dazn from 4 p.m. Eastern Time (ET) on Monday, Oct. 26, and find the official TV partner in each listed country."
+title: "Ballon d'Or 2026: Dazn Live Stream in the US, Start Time and TV Channels Worldwide"
+seoTitle: "Ballon d'Or 2026: US Live Stream on Dazn, Start Time"
+description: "The 2026 Ballon d'Or streamed in the US on Dazn from 4 p.m. Eastern Time (ET) on Monday, Oct. 26; see the official TV partner in each listed country."
 type: news
 publishedAt: "2026-10-26T13:20:00-04:00"
-updatedAt: "2026-10-30T01:05:00-04:00"
+updatedAt: "2026-11-02T14:10:00-05:00"
 authors: [jessica-hartwell]
 category: sports
 keywords: ["Ballon d'Or 2026 live stream", "how to watch Ballon d'Or 2026", "Ballon d'Or 2026 channel", "Ballon d'Or 2026 Dazn", "Ballon d'Or 2026 start time US"]
@@ -12,7 +12,7 @@ dateline: "London"
 hero:
   src: ../../../../assets/news/ballon-dor-2026-live-stream-how-to-watch-us-dazn/ballon-dor-2026-live-stream-how-to-watch-us-dazn.webp
   alt: "Ballon d'Or 2026 live stream: a golden Ballon d'Or trophy in a glass case at the FIFA Museum in Zurich, with past winners' photos behind it"
-  caption: "File photo of a Ballon d'Or trophy on display at the FIFA Museum in Zurich. The 2026 ceremony starts at 20:00 GMT, 4 p.m. ET, on Monday, Oct. 26."
+  caption: "File photo of a Ballon d'Or trophy on display at the FIFA Museum in Zurich. The 2026 ceremony started at 20:00 GMT, 4 p.m. ET, on Monday, Oct. 26."
   credit: "Photo: Ank kumar / Wikimedia Commons, cropped, edited"
   license:
     name: "CC BY-SA 4.0"
@@ -21,19 +21,19 @@ hero:
     author: "Ank kumar"
     authorUrl: "https://commons.wikimedia.org/wiki/User:Ank_gsx"
 summary:
-  - "The 2026 Ballon d'Or ceremony starts at 20:00 Greenwich Mean Time (GMT) on Monday, Oct. 26, at the London Palladium, which is 4 p.m. Eastern Time (ET) and 1 p.m. Pacific."
-  - "UEFA names Dazn as the global broadcaster in every territory it does not list separately. The United States is not on that list, so Dazn is the official option for U.S. viewers."
-  - "Dazn says the ceremony is live and free to fans in 200 markets. Its announcement does not name the U.S., so confirm the event in the Dazn app before the start."
-  - "France and Monaco watch on L'Équipe, Spain on Telefónica, Türkiye on Türk Telekom, and 16 other territories on the partners in the table below."
+  - "The 2026 Ballon d'Or ceremony started at 20:00 Greenwich Mean Time (GMT) on Monday, Oct. 26, at the London Palladium, which was 4 p.m. Eastern Time (ET) and 1 p.m. Pacific."
+  - "UEFA named Dazn as the global broadcaster in every territory it did not list separately. The United States was not on that list, so Dazn was the official option for U.S. viewers."
+  - "Dazn said the ceremony would be live and free to fans in 200 markets. Its announcement did not name the U.S."
+  - "France and Monaco watched on L'Équipe, Spain on Telefónica, Türkiye on Türk Telekom, and 16 other territories on the partners in the table below."
 faq:
-  - q: "What time does the Ballon d'Or 2026 start in the U.S.?"
-    a: "The ceremony starts at 20:00 GMT on Monday, Oct. 26, 2026. That is 4 p.m. ET, 3 p.m. Central, 2 p.m. Mountain and 1 p.m. Pacific, because Europe changed its clocks on Oct. 25 and the U.S. does not until Nov. 1."
-  - q: "What channel is the Ballon d'Or on in the U.S.?"
-    a: "UEFA's broadcaster list names Dazn as the global partner outside the territories it lists, and the U.S. is not listed. No U.S. cable or broadcast TV channel is named in the official sources we checked."
-  - q: "Is the Ballon d'Or live stream free?"
-    a: "Dazn says it will make the ceremony available free to fans in 200 markets. It does not say whether an account is needed, so open the Dazn app or website a few minutes early."
-  - q: "Who hosts the 2026 Ballon d'Or?"
-    a: "Thierry Henry and Kate Scott host the ceremony at the London Palladium, according to UEFA."
+  - q: "What time did the Ballon d'Or 2026 start in the U.S.?"
+    a: "The ceremony started at 20:00 GMT on Monday, Oct. 26, 2026. That was 4 p.m. ET, 3 p.m. Central, 2 p.m. Mountain and 1 p.m. Pacific, because Europe changed its clocks on Oct. 25 and the U.S. did not until Nov. 1."
+  - q: "What channel was the Ballon d'Or on in the U.S.?"
+    a: "UEFA's broadcaster list named Dazn as the global partner outside the territories it listed, and the U.S. was not listed. No U.S. cable or broadcast TV channel is named in the official sources we checked."
+  - q: "Was the Ballon d'Or live stream free?"
+    a: "Dazn said it would make the ceremony available free to fans in 200 markets. It did not say whether an account was needed."
+  - q: "Who hosted the 2026 Ballon d'Or?"
+    a: "Thierry Henry and Kate Scott hosted the ceremony at the London Palladium, according to UEFA."
   - q: "Who won the Ballon d'Or 2026?"
     a: "Harry Kane won the 2026 Men's Ballon d'Or and Alexia Putellas won the 2026 Women's Ballon d'Or at the London Palladium on Monday, Oct. 26, 2026, per the Union of European Football Associations (UEFA)."
 sources:
@@ -66,7 +66,7 @@ assets:
   overlay: true
   kicker: "Ballon d'Or · Mon., Oct. 26, 2026"
   date: "2026-10-26"
-  card: { top: "Watch in the U.S. on Dazn", big: "4 p.m. ET", bottom: "1 p.m. Pacific · London Palladium" }
+  card: { top: "Streamed in the U.S. on Dazn", big: "4 p.m. ET", bottom: "1 p.m. Pacific · London Palladium" }
   printable:
     slug: ballon-dor-2026-how-to-watch-start-times
     group: ballon-dor-2026
@@ -107,26 +107,26 @@ draft: false
 
 **U.S. viewers streamed the 2026 Ballon d'Or on Dazn, which the Union of European Football Associations (UEFA) named as the ceremony's global broadcaster, from 4 p.m. Eastern Time (ET) on Monday, Oct. 26.** The ceremony began at 20:00 Greenwich Mean Time (GMT) at the London Palladium. Thierry Henry and Kate Scott hosted it, UEFA says.
 
-Some guides online list 3 p.m. ET. That is one hour early for this year: Europe changed its clocks on Sunday, Oct. 25, and the United States keeps daylight saving time until Nov. 1, so New York sits 4 hours behind London this week.
+Some guides online list 3 p.m. ET. That is one hour early for this year: Europe changed its clocks on Sunday, Oct. 25, and the United States keeps daylight saving time until Nov. 1, so New York sat 4 hours behind London that week.
 
-## How to watch the Ballon d'Or 2026 in the U.S.
+## How U.S. viewers watched the Ballon d'Or 2026
 
-UEFA's broadcaster list gives Dazn the global rights, excluding the territories it lists by name. The 20 territories it lists are in Europe and Central Asia. The United States is not among them, so Dazn is the official U.S. option.
+UEFA's broadcaster list gave Dazn the global rights, excluding the territories it listed by name. The 20 territories it listed are in Europe and Central Asia. The United States was not among them, so Dazn was the official U.S. option. The route was:
 
 1. Open the Dazn app on a phone, smart TV or streaming device, or go to dazn.com.
 2. Sign in, or create an account if the app asks for one.
 3. Search for "Ballon d'Or" or open the live and upcoming events row.
 4. Start the stream a few minutes before 4 p.m. ET.
 
-Dazn says it will make the ceremony available free to fans in 200 markets. Its announcement does not name the United States or say whether you need an account, so check the event page in the app before the start.
+Dazn said it would make the ceremony available free to fans in 200 markets. Its announcement did not name the United States or say whether an account was needed.
 
-## Is the Ballon d'Or on U.S. TV?
+## Was the Ballon d'Or on U.S. TV?
 
-No U.S. cable or broadcast channel is named in UEFA's list or in Dazn's announcement. To watch on a television, open the Dazn app on the TV or on a streaming device plugged into it. We have not found an official full live stream on YouTube.
+No U.S. cable or broadcast channel was named in UEFA's list or in Dazn's announcement. On a television, viewers could open the Dazn app on the TV or on a streaming device plugged into it. We have not found an official full live stream on YouTube.
 
-## What time does the Ballon d'Or 2026 start in the U.S.?
+## What time did the Ballon d'Or 2026 start in the U.S.?
 
-UEFA says the ceremony will commence at 20:00 GMT, which is 21:00 Central European Time (CET). The U.S. times below are our conversion from that start.
+UEFA said the ceremony would commence at 20:00 GMT, which is 21:00 Central European Time (CET). The U.S. times below are our conversion from that start.
 
 | U.S. time zone | Start on Monday, Oct. 26 |
 |---|---|
@@ -142,7 +142,7 @@ Red carpet and press conference times are posted on the official Ballon d'Or sit
 
 ## Where to watch the Ballon d'Or 2026 around the world
 
-UEFA lists a local partner for each country below. Everywhere else, the official broadcaster is Dazn. In Hungary the partner is the Hungarian channel of the group founded as Radio Télévision Luxembourg (RTL). Local start times are our conversion from 20:00 GMT.
+UEFA listed a local partner for each country below. Everywhere else, the official broadcaster was Dazn. In Hungary the partner is the Hungarian channel of the group founded as Radio Télévision Luxembourg (RTL). Local start times are our conversion from 20:00 GMT.
 
 | Country | Official broadcaster | Local start |
 |---|---|---|
@@ -165,10 +165,10 @@ UEFA lists a local partner for each country below. Everywhere else, the official
 | Tajikistan, Turkmenistan, Uzbekistan | Quest Media | 1 a.m. Tuesday |
 | United States, United Kingdom and all other countries | Dazn | See the U.S. table; 8 p.m. in London |
 
-## Which awards are handed out?
+## Which awards were handed out?
 
-UEFA lists 13 prizes: the men's and women's Ballon d'Or, plus men's and women's awards for young talent, goalkeeper, coach, club and striker of the year, and the Sócrates Award. UEFA revealed the nominees on Sept. 8, with 30 men and 30 women up for the main trophy. Harry Kane won the 2026 Men's Ballon d'Or and Alexia Putellas won the 2026 Women's Ballon d'Or, UEFA says.
+UEFA listed 13 prizes: the men's and women's Ballon d'Or, plus men's and women's awards for young talent, goalkeeper, coach, club and striker of the year, and the Sócrates Award. UEFA revealed the nominees on Sept. 8, with 30 men and 30 women up for the main trophy. Harry Kane won the 2026 Men's Ballon d'Or and Alexia Putellas won the 2026 Women's Ballon d'Or, UEFA says.
 
 ## Free printable: start times and broadcasters
 
-Our one-page sheet lists the start in every U.S. time zone and the official partner for the main European countries, so the whole household knows when to tune in. Mark the evening on the [October 2026 printable calendar](/october-calendars.html) or a [printable weekly calendar](/printable-weekly-calendar.html). Why the gap with Europe is shorter this week is explained in our [UK and Europe clock change story](/news/uk-europe-clocks-go-back-october-25-2026-time-difference/), and World Series Game 3 follows at 8 p.m. ET the same night, per our [World Series 2026 schedule](/news/world-series-2026-schedule-game-times-tv-channel/).
+Our one-page sheet lists the start in every U.S. time zone and the official partner for the main European countries. Mark the evening on the [October 2026 printable calendar](/october-calendars.html) or a [printable weekly calendar](/printable-weekly-calendar.html). Why the gap with Europe was shorter that week is explained in our [UK and Europe clock change story](/news/uk-europe-clocks-go-back-october-25-2026-time-difference/), and World Series Game 3 was at 8 p.m. ET the same night, per our [World Series 2026 schedule](/news/world-series-2026-schedule-game-times-tv-channel/).

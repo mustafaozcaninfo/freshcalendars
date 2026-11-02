@@ -1,9 +1,10 @@
 ---
-title: "National Author's Day 2026 Is Sunday, Nov. 1: Where It Began and a Free Reading Log"
+title: "National Author's Day 2026 Was Sunday, Nov. 1: Where It Began and a Free Reading Log"
 seoTitle: "National Author's Day 2026: Sunday, Nov. 1"
-description: "National Author's Day is Sunday, Nov. 1, 2026. Illinois Times and The Hans India trace it to 1928 in Bement, Illinois. Weekdays to 2030 and a reading log."
+description: "National Author's Day was Sunday, Nov. 1, 2026. Illinois Times and The Hans India trace it to 1928 in Bement, Illinois. Weekdays to 2030 and a reading log."
 type: explainer
 publishedAt: "2026-10-31T16:44:00-04:00"
+updatedAt: "2026-11-02T14:10:00-05:00"
 authors: [christina-gerland]
 category: holidays
 keywords: ["national author's day 2026", "national authors day november 1", "when is national authors day", "nellie verne burt mcpherson"]
@@ -21,7 +22,7 @@ assets:
     layout: checklist
     notesLabel: "Books and authors to remember"
     rows:
-      - { when: "Sun., Nov. 1", what: "Pick one author to celebrate today", section: "Read" }
+      - { when: "Sun., Nov. 1", what: "Pick one author to celebrate", section: "Read" }
       - { when: "Sun., Nov. 1", what: "Read the first chapter of one of their books", section: "Read" }
       - { when: "Wed., Nov. 4", what: "Borrow a book from your local library", section: "Read" }
       - { when: "Sat., Nov. 7", what: "Finish a book and write down the title below", section: "Read" }
@@ -38,7 +39,7 @@ assets:
 hero:
   src: ../../../../assets/news/national-authors-day-2026-november-1-history-reading-log/national-authors-day-2026-november-1-history-reading-log.webp
   alt: "Library shelves full of books, file photo for National Author's Day 2026 on Sunday, Nov. 1"
-  caption: "File photo of library stacks. National Author's Day falls on Sunday, Nov. 1, 2026, and is a day to read and thank authors."
+  caption: "File photo of library stacks. National Author's Day fell on Sunday, Nov. 1, 2026, and is a day to read and thank authors."
   credit: "Photo: Shixart1985 / Wikimedia Commons, cropped, edited"
   license:
     name: "CC BY 2.0"
@@ -64,13 +65,13 @@ downloads:
     png: "/news/downloads/national-authors-day-2026/national-authors-day-2026-reading-log-ink.png"
     pages: 1
 summary:
-  - "National Author's Day is Sunday, Nov. 1, 2026; it is not a federal holiday, so there is no day off."
+  - "National Author's Day was Sunday, Nov. 1, 2026; it is not a federal holiday, so there was no day off."
   - "Illinois Times and The Hans India both credit Nellie Verne Burt McPherson, who led the women's club in Bement, Illinois, with proposing it in 1928."
   - "Illinois Times says the Department of Commerce made it a recognized national day in 1949."
   - "Nov. 1 falls on a Monday in 2027, a Wednesday in 2028, a Thursday in 2029 and a Friday in 2030."
 faq:
   - q: "When is National Author's Day in 2026?"
-    a: "Sunday, Nov. 1, 2026. The date is fixed at Nov. 1, so the weekday changes each year."
+    a: "Sunday, Nov. 1, 2026, which has passed. The date is fixed at Nov. 1, so the weekday changes each year."
   - q: "Is National Author's Day a federal holiday?"
     a: "No. It does not appear in the federal holiday list published by the U.S. Office of Personnel Management, so there is no day off."
   - q: "Who started National Author's Day?"
@@ -96,7 +97,7 @@ related: [pride-and-prejudice-netflix-release-date-december-3-reading-plan, nati
 draft: false
 ---
 
-National Author's Day falls on Sunday, Nov. 1, 2026, a day for reading authors and thanking them, and two newsrooms, Illinois Times and The Hans India, trace it to a 1928 proposal from a women's club in Bement, Illinois. No agency owns the day, and it is not a federal holiday, so nothing closes. The page below covers where it came from, which weekday Nov. 1 lands on through 2030 and a free reading log for the first week of November.
+National Author's Day was Sunday, Nov. 1, 2026, a day for reading authors and thanking them, and two newsrooms, Illinois Times and The Hans India, trace it to a 1928 proposal from a women's club in Bement, Illinois. No agency owns the day, and it is not a federal holiday, so nothing closes. The page below covers where it came from, which weekday Nov. 1 lands on through 2030 and a free reading log for the first week of November.
 
 ## Where did National Author's Day come from?
 
@@ -108,7 +109,7 @@ On recognition, both name the federal government. Illinois Times says the Depart
 
 ## Is National Author's Day a day off?
 
-No. Nov. 1 does not appear in the federal holiday list kept by the U.S. Office of Personnel Management (OPM), so we found no source that makes it a day off. In 2026 it lands on a Sunday. The next federal holiday this month is Veterans Day on Wednesday, Nov. 11. See [our Veterans Day 2026 story](/news/veterans-day-2026-wednesday-november-11/) for that date.
+No. Nov. 1 does not appear in the federal holiday list kept by the U.S. Office of Personnel Management (OPM), so we found no source that makes it a day off. In 2026 it landed on a Sunday. The next federal holiday is Veterans Day on Wednesday, Nov. 11. See [our Veterans Day 2026 story](/news/veterans-day-2026-wednesday-november-11/) for that date.
 
 ## National Author's Day dates, 2026 to 2030
 

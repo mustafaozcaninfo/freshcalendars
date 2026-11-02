@@ -4,6 +4,7 @@ seoTitle: "October 20, 2026: Day, Holidays and Observances"
 description: "Oct. 20, 2026 is a Tuesday, day 293 of the year. Today's observances and every key date through Nov. 1: the Hunter's Moon, World Series, Nevada Day, Halloween."
 type: explainer
 publishedAt: "2026-10-20T01:40:00-04:00"
+updatedAt: "2026-11-02T14:10:00-05:00"
 authors: [christina-gerland]
 category: holidays
 keywords: ["October 20 2026", "October 20 2026 holiday", "what day is October 20 2026", "October 21 2026", "holidays this week October 2026"]
@@ -76,7 +77,7 @@ draft: false
 
 **Tuesday, Oct. 20, 2026 is the 293rd day of the year, with 72 days left in 2026.** It falls in week 43 under the International Organization for Standardization (ISO) week system, which runs Monday to Sunday. It is not a federal or state holiday, so banks, post offices, schools and government offices keep normal hours. The next federal holiday is Veterans Day on Wednesday, Nov. 11.
 
-Several international observances fall today, and the next 12 days are busy: two Social Security payment dates, the Hunter's Moon, the World Series, Nevada Day, Halloween and the end of daylight saving time.
+Several international observances fall on Oct. 20, and the 12 days from Oct. 21 through Nov. 1 held two Social Security payment dates, the Hunter's Moon, the World Series, Nevada Day, Halloween and the end of daylight saving time.
 
 ## Today's observances
 

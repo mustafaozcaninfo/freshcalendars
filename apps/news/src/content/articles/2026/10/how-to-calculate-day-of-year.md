@@ -4,6 +4,7 @@ seoTitle: "How to Calculate the Day of the Year (001 to 366)"
 description: "Day of the year is the days in completed months plus the day of the month: Oct. 30, 2026 is day 303. Get the month table, formula and leap-year shift."
 type: explainer
 publishedAt: "2026-10-30T08:25:00-04:00"
+updatedAt: "2026-11-02T14:10:00-05:00"
 authors: [jessica-hartwell]
 category: calendar-guides
 keywords: ["how to calculate the day of the year", "day of year", "ordinal date", "what day of the year is it", "day of year calculator"]
@@ -133,7 +134,7 @@ Use one formula:
 2. Add the day of the month.
 3. In a leap year, February counts 29 days, so any date from March 1 on gains one.
 
-Worked example for today, Oct. 30, 2026. January to September have 31 + 28 + 31 + 30 + 31 + 30 + 31 + 31 + 30 = 273 days, and 2026 is a common year. Add 30 and the answer is day 303. We checked every month of the table below against JavaScript's `Date` object and against an independent Julian-day-number formula, and both agree.
+Worked example for Oct. 30, 2026, the day this story was published. January to September have 31 + 28 + 31 + 30 + 31 + 30 + 31 + 31 + 30 = 273 days, and 2026 is a common year. Add 30 and the answer is day 303. On Monday, Nov. 2, 2026, January to October hold 304 days, so the answer is 304 + 2 = day 306. We checked every month of the table below against JavaScript's `Date` object and against an independent Julian-day-number formula, and both agree.
 
 | Date | Common year (2026) | Leap year (2028) |
 |---|---|---|

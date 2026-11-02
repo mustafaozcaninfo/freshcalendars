@@ -4,7 +4,7 @@ seoTitle: "Thursday Night Football: Panthers at Packers Oct. 29"
 description: "Thursday Night Football (TNF): Panthers at Packers on Oct. 29, 2026, 8:15 p.m. Eastern Time (ET) on Prime Video, with every U.S. zone and the full TNF schedule."
 type: news
 publishedAt: "2026-10-27T21:40:00-04:00"
-updatedAt: "2026-11-01T10:27:00-05:00"
+updatedAt: "2026-11-02T14:10:00-05:00"
 authors: [jessica-hartwell]
 category: sports
 keywords: ["Thursday Night Football tonight", "Panthers vs Packers live stream", "Panthers vs Packers time channel", "TNF schedule 2026", "what channel is Thursday Night Football"]
@@ -36,8 +36,8 @@ assets:
     alt: "Printable Thursday Night Football schedule 2026 listing 10 Thursday and Friday games from Oct. 29 to Dec. 31"
 hero:
   src: ../../../../assets/news/thursday-night-football-tonight-panthers-packers-tnf-schedule-2026/thursday-night-football-tonight-panthers-packers-tnf-schedule-2026.webp
-  alt: "Thursday Night Football: Lambeau Field in Green Bay, where the Panthers play the Packers on Oct. 29, 2026"
-  caption: "Lambeau Field in Green Bay, Wisconsin, home of the Packers, who host the Carolina Panthers on Thursday Night Football on Oct. 29, 2026. File photo."
+  alt: "Thursday Night Football: Lambeau Field in Green Bay, where the Panthers played the Packers on Oct. 29, 2026"
+  caption: "Lambeau Field in Green Bay, Wisconsin, home of the Packers, who hosted the Carolina Panthers on Thursday Night Football on Oct. 29, 2026. File photo."
   credit: "Photo: JL1Row / Wikimedia Commons, edited"
   license:
     name: "CC BY-SA 3.0"
@@ -46,11 +46,11 @@ hero:
     author: "JL1Row"
 summary:
   - "Final score: Green Bay Packers 27, Carolina Panthers 19, on Thursday, Oct. 29, at Lambeau Field, per the ESPN Week 8 scoreboard. Next up: the Week 9 Thursday game on Nov. 5."
-  - "The Carolina Panthers play at the Green Bay Packers on Thu., Oct. 29, 2026, at 8:15 p.m. Eastern Time (ET) on Prime Video, per NFL.com and Amazon."
-  - "Oct. 29 is before the Nov. 1 clock change, so kickoff is 7:15 p.m. Central, 6:15 p.m. Mountain and 5:15 p.m. Pacific; the table has every U.S. zone."
+  - "The Carolina Panthers played at the Green Bay Packers on Thu., Oct. 29, 2026, at 8:15 p.m. Eastern Time (ET) on Prime Video, per NFL.com and Amazon."
+  - "Oct. 29 was before the Nov. 1 clock change, so kickoff was 7:15 p.m. Central, 6:15 p.m. Mountain and 5:15 p.m. Pacific; the table has every U.S. zone."
   - "Nine more dated Thursday games follow, from Nov. 5 to Dec. 31, all at 8:15 p.m. ET on Prime Video; Week 12 is on Friday, Nov. 27."
 faq:
-  - q: "What time is Thursday Night Football tonight?"
+  - q: "What time is the next Thursday Night Football game?"
     a: "The Panthers at Packers game on Thu., Oct. 29, 2026, is over (Green Bay won 27-19). The next game is Jaguars at Ravens on Thu., Nov. 5, 2026, at 8:15 p.m. Eastern Time (ET), per NFL.com and Amazon. Amazon says its pregame show, TNF Tonight, starts at 7 p.m. ET each Thursday."
   - q: "What channel is Thursday Night Football?"
     a: "Prime Video. Amazon says games also air on over-the-air TV in the two teams' home markets, stream on Twitch, and have a Spanish-language broadcast on Prime Video."
@@ -63,7 +63,7 @@ faq:
   - q: "Is there a Thursday Night Football game on Thanksgiving week?"
     a: "Yes, but it is on Friday. Week 12 is Broncos at Steelers on Fri., Nov. 27, 2026 (Black Friday), at 8:15 p.m. ET on Prime Video, per Amazon."
   - q: "Does the time change after Nov. 1?"
-    a: "No. Games stay at 8:15 p.m. ET. Clocks fall back on Sun., Nov. 1, 2026, so the local time in Arizona, Hawaii and the United Kingdom shifts by an hour compared with Oct. 29."
+    a: "No. Games stay at 8:15 p.m. ET. Clocks fell back on Sun., Nov. 1, 2026, so the local time in Arizona, Hawaii and the United Kingdom shifted by an hour compared with Oct. 29."
 sources:
   - title: "NFL Scoreboard, Week 8, 2026"
     url: "https://www.espn.com/nfl/scoreboard/_/week/8/year/2026/seasontype/2"
@@ -115,13 +115,13 @@ draft: false
 
 <p class="callout"><b>Updated Oct. 30, 2026, 12:45 a.m. ET.</b> Final: the Green Bay Packers beat the Carolina Panthers 27-19 at Lambeau Field, per the ESPN Week 8 scoreboard. The next Thursday game is Thu., Nov. 5, at 8:15 p.m. Eastern Standard Time (EST) on Prime Video; the schedule below has it.</p>
 
-**The Carolina Panthers play at the Green Bay Packers on Thursday Night Football (TNF) on Thursday, Oct. 29, 2026, at 8:15 p.m. Eastern Time (ET) on Prime Video, per the National Football League (NFL) and Amazon.** The game is Week 8 of the NFL season and is played at Lambeau Field in Green Bay.
+**The Carolina Panthers played at the Green Bay Packers on Thursday Night Football (TNF) on Thursday, Oct. 29, 2026, at 8:15 p.m. Eastern Time (ET) on Prime Video, per the National Football League (NFL) and Amazon.** The game was Week 8 of the NFL season and was played at Lambeau Field in Green Bay.
 
-By the NFL.com standings, checked Oct. 28, the Panthers are 3-3 in the National Football Conference (NFC) South and the Packers are 4-3 in the NFC North. This page has the kickoff in every U.S. time zone, how to watch, the full list of remaining Thursday games and a one-page printable of that list.
+By the NFL.com standings, checked Oct. 28, the Panthers were 3-3 in the National Football Conference (NFC) South and the Packers were 4-3 in the NFC North. This page has the kickoff in every U.S. time zone, how it was shown, the full list of remaining Thursday games and a one-page printable of that list.
 
 ## What time is Panthers at Packers in my time zone?
 
-Kickoff is 8:15 p.m. ET on Thu., Oct. 29. That date is before the U.S. clock change on Sunday, Nov. 1, 2026, when daylight saving time ends, so Eastern Daylight Time (EDT) applies. Our [guide to when daylight saving time ends](/news/daylight-saving-time-ends-november-1-2026/) covers the change itself.
+Kickoff was 8:15 p.m. ET on Thu., Oct. 29. That date was before the U.S. clock change on Sunday, Nov. 1, 2026, when daylight saving time ended, so Eastern Daylight Time (EDT) applied. Our [guide to when daylight saving time ends](/news/daylight-saving-time-ends-november-1-2026/) covers the change itself.
 
 | Time zone | Thu., Oct. 29 (Panthers at Packers) |
 |---|---|
@@ -181,7 +181,7 @@ Nine more dated games follow Oct. 29, all at 8:15 p.m. ET on Prime Video, per Am
 
 ## What else is on in Week 8?
 
-NFL.com lists these games after Thursday, all times ET. On Sun., Nov. 1: Ravens at Bills, Titans at Bengals, Colts at Jaguars and Browns at Steelers at 1:00 p.m. on CBS; Cardinals at Cowboys, Vikings at Lions, Raiders at Jets and Falcons at Buccaneers at 1:00 p.m. on FOX; Chargers at Rams at 4:05 p.m. on FOX; Chiefs at Broncos and Patriots at Dolphins at 4:25 p.m. on CBS; and Eagles at Commanders at 8:20 p.m. on NBC. On Mon., Nov. 2, Bears at Seahawks is at 8:15 p.m. on ESPN. Our [Monday Night Football story](/news/monday-night-football-tonight-cowboys-eagles-mnf-schedule-2026/) has the rest of the Monday schedule.
+NFL.com listed these games after Thursday, all times ET. On Sun., Nov. 1: Ravens at Bills, Titans at Bengals, Colts at Jaguars and Browns at Steelers at 1:00 p.m. on CBS; Cardinals at Cowboys, Vikings at Lions, Raiders at Jets and Falcons at Buccaneers at 1:00 p.m. on FOX; Chargers at Rams at 4:05 p.m. on FOX; Chiefs at Broncos and Patriots at Dolphins at 4:25 p.m. on CBS; and Eagles at Commanders at 8:20 p.m. on NBC. Per NFL.com, the Patriots beat the Dolphins 24-19 and the Commanders beat the Eagles 27-10 that day. On Mon., Nov. 2, Bears at Seahawks is at 8:15 p.m. on ESPN. Our [Monday Night Football story](/news/monday-night-football-tonight-cowboys-eagles-mnf-schedule-2026/) has the rest of the Monday schedule.
 
 ## Is there a printable TNF schedule?
 
