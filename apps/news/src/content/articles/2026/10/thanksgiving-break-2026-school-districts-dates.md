@@ -187,7 +187,7 @@ Thanksgiving is Thursday, Nov. 26, 2026. Every date below comes from the distric
 | Miami-Dade County, Fla. | Mon., Nov. 23 to Fri., Nov. 27 | 5 |
 | Broward County, Fla. | Mon., Nov. 23 to Fri., Nov. 27 | 5 |
 | Houston Independent School District (ISD), Texas | Mon., Nov. 23 to Fri., Nov. 27 | 5 |
-| Hillsborough County, Fla. | Mon., Nov. 23 to Fri., Nov. 27 | 5 |
+| [Hillsborough County, Fla.](/news/hillsborough-county-public-schools-calendar-2026-27-breaks/) | Mon., Nov. 23 to Fri., Nov. 27 | 5 |
 | Orange County, Fla. | Mon., Nov. 23 to Fri., Nov. 27 | 5 |
 | Palm Beach County, Fla. | Mon., Nov. 23 to Fri., Nov. 27 | 5 |
 | Gwinnett County, Ga. | Mon., Nov. 23 to Fri., Nov. 27 | 5 |
@@ -226,7 +226,7 @@ Clark County, which covers Las Vegas, has no school on Wednesday, Nov. 25. The d
 
 - **New York City Public Schools** close for Thanksgiving recess on Nov. 26 and 27 only. The [NYC public schools calendar](/news/nyc-public-schools-calendar-2026-27-breaks-holidays/) has every other day off this year.
 - **Chicago Public Schools** close Nov. 26 and 27. See the [Chicago Public Schools calendar](/news/chicago-public-schools-calendar-2026-27-breaks/) for the rest of the year.
-- **Montgomery County, Md.,** closes Nov. 26 and 27 and dismisses students early on Monday, Tuesday and Wednesday, Nov. 23, 24 and 25.
+- **Montgomery County, Md.,** closes Nov. 26 and 27 and dismisses students early on Monday, Tuesday and Wednesday, Nov. 23, 24 and 25. The [Montgomery County Public Schools calendar](/news/montgomery-county-public-schools-calendar-2026-27-breaks/) has the rest of the year.
 
 ## Back to school on Nov. 30
 

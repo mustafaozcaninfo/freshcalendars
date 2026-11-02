@@ -352,6 +352,8 @@ export const KEY_DATES: KeyDate[] = [
   { date: "2026-12-21", label: "Dallas ISD winter break begins (through Jan. 4)", slug: "dallas-isd-calendar-2026-27-holidays-breaks" },
   { date: "2026-12-23", label: "Philadelphia schools winter recess begins (through Dec. 31)", slug: "philadelphia-school-district-calendar-2026-27-holidays" },
   { date: "2026-10-30", label: "Nevada Day observed: no school in Clark County (CCSD)", slug: "clark-county-school-district-calendar-2026-27-breaks" },
+  { date: "2026-12-24", label: "Montgomery County Public Schools (MCPS) students off through Jan. 1; classes resume Jan. 4", slug: "montgomery-county-public-schools-calendar-2026-27-breaks" },
+  { date: "2027-06-11", label: "Last day of school for Montgomery County Public Schools (MCPS), early release", slug: "montgomery-county-public-schools-calendar-2026-27-breaks" },
   { date: "2027-02-19", label: "MLB Spring Training begins", slug: "mlb-opening-day-2027-date-march-25-spring-training-all-star" },
   { date: "2027-02-21", label: "NBA All-Star Game in Phoenix (NBC)", slug: "nba-all-star-2027-date-phoenix-rising-stars-schedule" },
   { date: "2027-03-25", label: "MLB Opening Day (Opening Night is Mar. 24)", slug: "mlb-opening-day-2027-date-march-25-spring-training-all-star" },
@@ -714,6 +716,8 @@ export const KEY_DATES: KeyDate[] = [
   { date: "2027-01-11", label: "Los Angeles Unified classes resume after winter recess", slug: "lausd-calendar-2026-27-winter-break-spring-break" },
   { date: "2027-03-22", label: "Los Angeles Unified spring recess begins (through March 26)", slug: "lausd-calendar-2026-27-winter-break-spring-break" },
   { date: "2027-06-04", label: "Los Angeles Unified last day of instruction", slug: "lausd-calendar-2026-27-winter-break-spring-break" },
+  { date: "2026-12-21", label: "Winter break begins for Hillsborough County Public Schools (HCPS); classes resume Jan. 5", slug: "hillsborough-county-public-schools-calendar-2026-27-breaks" },
+  { date: "2027-03-22", label: "Spring break for Hillsborough County Public Schools (HCPS), March 22-26", slug: "hillsborough-county-public-schools-calendar-2026-27-breaks" },
   { date: "2027-03-01", label: "RRSP contribution deadline for 2026 returns, by the 60-day count; CRA has not posted it", slug: "rrsp-deadline-2027-march-1-canada-tax-season-dates" },
 ];
 
