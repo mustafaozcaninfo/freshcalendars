@@ -55,7 +55,7 @@ internalLinks:
     label: "November 2026 printable calendar"
   - href: "/printable-yearly-calendar.html"
     label: "2027 printable yearly calendar"
-related: [gdp-report-october-29-2026-time-bea-release-calendar, fomc-meeting-dates-2027-fed-schedule-december-2026, stock-market-holidays-2027-nyse-closed-dates]
+related: [cpi-report-november-10-2026-time-october-inflation-ppi-pce-dates, gdp-report-october-29-2026-time-bea-release-calendar, fomc-meeting-dates-2027-fed-schedule-december-2026]
 downloads:
   - group: "BLS Jobs Report and CPI Release Dates 2027 printables"
     title: "BLS Jobs Report and CPI Release Dates 2027"

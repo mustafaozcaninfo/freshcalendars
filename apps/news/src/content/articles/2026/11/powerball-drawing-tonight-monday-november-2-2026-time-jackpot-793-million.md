@@ -99,7 +99,7 @@ internalLinks:
     label: "November 2026 printable calendar"
   - href: "/december-calendars.html"
     label: "December 2026 printable calendar"
-related: [holiday-deals-this-week-november-2-8-2026-target-best-buy-starbucks, weekends-until-christmas-2026-saturday-planner-shipping-deadlines, year-end-money-deadlines-december-31-2026]
+related: [mega-millions-drawing-tuesday-november-3-2026-time-jackpot-482-million, weekends-until-christmas-2026-saturday-planner-shipping-deadlines, holiday-deals-this-week-november-2-8-2026-target-best-buy-starbucks]
 downloads:
   - group: "Powerball and Mega Millions Drawing Dates printables"
     title: "Powerball and Mega Millions Drawing Dates, Nov.-Dec. 2026"
