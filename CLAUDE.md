@@ -11,7 +11,7 @@ Shared header, footer and site CSS live in `packages/site-chrome/src/index.ts`. 
 
 Writers (editors) produce /news/ stories from their own Claude sessions and have full write access to this repository. Publishing is separate: only the site owner deploys.
 
-**The desk.** One manager account and four writer accounts share the work, all signed in to GitHub as the same user: writers w1 to w3 each own a beat and a queue (`docs/desk/w1.md` to `w3.md`), w4 is the puzzle desk (routines A to D). Who does what, the claim rule and the writer routine prompt are in `docs/DESK.md`; a writer session reads it before anything else.
+**The desk.** One manager account and four writer accounts share the work, all signed in to GitHub as the same user: writers w1 to w3 each own a beat and a queue (`docs/desk/w1.md` to `w3.md`), w4 is the puzzle desk (routines A to C). Who does what, the claim rule and the writer routine prompt are in `docs/DESK.md`; a writer session reads it before anything else.
 
 1. Start from an up-to-date `main` (`git pull origin main`).
 2. Write the story with the `news-article` skill (`.claude/skills/news-article/SKILL.md`), in a fresh session per story. It has the full checklist, including the source and PDF rules, and hands research to the `news-researcher` agent (Haiku) and writing to the `news-writer` agent (Sonnet) to keep token use low; `docs/NEWS-COST-GUIDE.md` has the low-cost workflow (batching, briefs, what to avoid). Two companion skills decide what makes the story win: `news-seo` (the query, the angle, the page structure; the playbook `SEO-HARITASI-TAM.md` turned into decisions) and `news-visuals` (a hero no other story has, and the printable).
