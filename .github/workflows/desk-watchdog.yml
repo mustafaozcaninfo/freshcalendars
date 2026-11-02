@@ -1,0 +1,39 @@
+name: Desk watchdog
+
+# Keeps the writers' pipeline moving when a writer session has ended before its pull request
+# merged (docs/DESK.md "Watchdog"): merges main into a conflicting desk pull request, starts CI
+# where none ran, merges green ones and publishes main, deletes claim branches the rules free, and
+# keeps the "Desk watchdog" issue up to date with what needs a person.
+# Runs after every CI run and every 30 min (GitHub starts scheduled runs late; that is fine here).
+on:
+  schedule:
+    - cron: "*/30 * * * *"
+  workflow_run:
+    workflows: [CI]
+    types: [completed]
+  workflow_dispatch:
+
+concurrency:
+  group: desk-watchdog
+  cancel-in-progress: false
+
+# Pushes and merges made with this token start no workflows, so the script starts CI itself
+# (workflow_dispatch), which is why it needs actions: write.
+permissions:
+  contents: write
+  pull-requests: write
+  issues: write
+  actions: write
+  checks: read
+
+jobs:
+  watch:
+    runs-on: ubuntu-24.04
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v7
+        with:
+          fetch-depth: 0
+      - run: node scripts/desk-watchdog.mjs
+        env:
+          GH_TOKEN: ${{ github.token }}
