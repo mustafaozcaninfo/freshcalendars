@@ -47,6 +47,7 @@ export const KEY_DATES: KeyDate[] = [
   { date: "2026-11-19", label: "Newcastle Christmas Market opens (through Dec. 23)", slug: "fenwick-christmas-window-2026-newcastle-public-viewing-monday-2-november" },
   { date: "2026-11-03", label: "National Sandwich Day: Capriotti's buy one, get one 50% off for Rewards Members; McAlister's $5 sandwich ends", slug: "national-sandwich-day-2026-deals-tuesday-november-3-subway-mcalisters-capriottis" },
   { date: "2026-12-03", label: "NFL Week 13 opens: Chiefs at Rams, 8:15 p.m. ET on Prime Video", slug: "nfl-week-13-schedule-2026-printable-pick-em-sheet-game-times" },
+  { date: "2026-12-10", label: "NFL Week 14 opens: Vikings at Patriots, 8:15 p.m. ET on Prime Video", slug: "nfl-week-14-schedule-2026-printable-pick-em-sheet-game-times" },
   { date: "2026-11-02", label: "Powerball drawing, 10:59 p.m. ET; estimated jackpot $793 million as of Nov. 1", slug: "powerball-drawing-tonight-monday-november-2-2026-time-jackpot-793-million" },
   { date: "2026-11-14", label: "UFC 334 at Madison Square Garden, main card 9 p.m. ET on Paramount+", slug: "ufc-334-madison-square-garden-november-14-start-time-gane-hokit-ufc-schedule" },
   { date: "2026-12-12", label: "UFC 335: Oliveira vs. Lopes, main card 9 p.m. ET", slug: "ufc-334-madison-square-garden-november-14-start-time-gane-hokit-ufc-schedule" },
