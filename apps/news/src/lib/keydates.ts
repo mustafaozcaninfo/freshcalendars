@@ -91,6 +91,7 @@ export const KEY_DATES: KeyDate[] = [
   { date: "2026-12-09", label: "Social Security pays birthdays 1st-10th", slug: "social-security-payment-schedule-december-2026-ssi-december-31" },
   { date: "2026-12-31", label: "January SSI payment arrives early, with the 3.6% COLA", slug: "social-security-payment-schedule-december-2026-ssi-december-31" },
   { date: "2026-12-01", label: "SNAP December deposits begin in states that issue on the 1st", slug: "snap-payment-schedule-december-2026-deposit-dates-by-state" },
+  { date: "2027-01-01", label: "SNAP January deposits begin in states that issue on the 1st", slug: "snap-payment-schedule-january-2027-deposit-dates-by-state" },
   { date: "2026-11-25", label: "NFL Week 12 opens: Packers at Rams, 8 p.m. ET, Netflix", slug: "nfl-week-12-schedule-2026-printable-pick-em-sheet-game-times" },
   { date: "2026-11-26", label: "NFL Thanksgiving games: 1, 4:30 and 8:20 p.m. ET", slug: "nfl-week-12-schedule-2026-printable-pick-em-sheet-game-times" },
   { date: "2026-12-13", label: "Geminid meteor shower peak night (Dec. 13-14)", slug: "planets-visible-december-2026-night-sky-calendar-geminids-solstice" },
