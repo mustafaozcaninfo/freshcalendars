@@ -53,6 +53,7 @@ export const KEY_DATES: KeyDate[] = [
   { date: "2026-12-10", label: "NFL Week 14 opens: Vikings at Patriots, 8:15 p.m. ET on Prime Video", slug: "nfl-week-14-schedule-2026-printable-pick-em-sheet-game-times" },
   { date: "2026-12-17", label: "NFL Week 15 opens: 49ers at Chargers, 8:15 p.m. ET on Prime Video", slug: "nfl-week-15-schedule-2026-printable-pick-em-sheet-game-times" },
   { date: "2026-12-24", label: "NFL Week 16 opens on Christmas Eve: Texans at Eagles, 8:15 p.m. ET on Prime Video", slug: "nfl-week-16-schedule-2026-printable-pick-em-sheet-game-times" },
+  { date: "2026-12-31", label: "NFL Week 17 opens on New Year's Eve: Ravens at Bengals, 8:15 p.m. ET on Prime Video", slug: "nfl-week-17-schedule-2026-printable-pick-em-sheet-game-times" },
   { date: "2026-11-02", label: "Powerball drawing, 10:59 p.m. ET; estimated jackpot $793 million as of Nov. 1", slug: "powerball-drawing-tonight-monday-november-2-2026-time-jackpot-793-million" },
   { date: "2026-11-14", label: "UFC 334 at Madison Square Garden, main card 9 p.m. ET on Paramount+", slug: "ufc-334-madison-square-garden-november-14-start-time-gane-hokit-ufc-schedule" },
   { date: "2026-12-12", label: "UFC 335: Oliveira vs. Lopes, main card 9 p.m. ET", slug: "ufc-334-madison-square-garden-november-14-start-time-gane-hokit-ufc-schedule" },
