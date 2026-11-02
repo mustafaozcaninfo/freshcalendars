@@ -1,13 +1,13 @@
 ---
-title: "Skate Canada International 2026: Results So Far, Kelowna Start Times by Time Zone and TV"
-seoTitle: "Skate Canada 2026: Results, Kelowna Times and TV"
-description: "Kevin Aymoz won men's gold at Skate Canada International 2026 in Kelowna. Results so far, plus Sunday's free skate times in Eastern Time (ET)."
+title: "Skate Canada International 2026 Results: Shimada, Aymoz, Pereira and Michaud, Fear and Gibson Win"
+seoTitle: "Skate Canada 2026 Results: All Four Champions"
+description: "Mao Shimada, Kevin Aymoz, Pereira and Michaud, and Fear and Gibson won Skate Canada International 2026 in Kelowna. Full podiums, scores and start times."
 type: news
 publishedAt: "2026-10-30T21:43:00-04:00"
-updatedAt: "2026-11-01T15:21:00-05:00"
+updatedAt: "2026-11-01T23:48:00-05:00"
 authors: [jordan-bennett]
 category: uk-canada
-keywords: ["skate canada international 2026 schedule", "skate canada 2026 tv schedule", "skate canada kelowna times", "grand prix figure skating 2026 schedule"]
+keywords: ["skate canada international 2026 results", "skate canada international 2026 schedule", "skate canada 2026 tv schedule", "skate canada kelowna times", "grand prix figure skating 2026 schedule"]
 dateline: "Kelowna"
 hero:
   src: ../../../../assets/news/skate-canada-international-2026-schedule-kelowna-times-tv/skate-canada-international-2026-schedule-kelowna-times-tv.webp
@@ -21,8 +21,8 @@ hero:
     author: "SpiritedMichelle"
 summary:
   - "Skate Canada International 2026 is at Prospera Place in Kelowna, British Columbia, from Oct. 30 to Nov. 1, according to Skate Canada."
-  - "Kevin Aymoz of France won the men's event and Lia Pereira and Trennt Michaud of Canada won pairs, according to the International Skating Union (ISU) results."
-  - "Mao Shimada of Japan led the women after the short program and Lilah Fear and Lewis Gibson of Great Britain led the rhythm dance; the women's free skate starts at 3 p.m. Eastern Time (ET) and the free dance at 5:15 p.m. ET on Sunday, Nov. 1."
+  - "Mao Shimada of Japan won the women's event with 235.44 points and Lilah Fear and Lewis Gibson of Great Britain won ice dance with 201.17 on Sunday, Nov. 1, according to the International Skating Union (ISU) results."
+  - "Kevin Aymoz of France won the men's event and Lia Pereira and Trennt Michaud of Canada won pairs on Saturday, Oct. 31."
   - "The event is the second stop of the 2026-27 ISU Grand Prix series, which ends with the Grand Prix Final in Chongqing, China, on Dec. 10-13."
 faq:
   - q: "What time is the women's short program at Skate Canada International 2026?"
@@ -37,7 +37,7 @@ sources:
   - title: "ISU Grand Prix of Figure Skating, Skate Canada International 2026: results"
     url: "https://results.isu.org/results/season2627/gpcan2026/"
     publisher: "International Skating Union"
-    date: "2026-10-31"
+    date: "2026-11-01"
   - title: "2026 Skate Canada International"
     url: "https://skatecanada.ca/event/2026-skate-canada-international/"
     publisher: "Skate Canada"
@@ -122,18 +122,20 @@ assets:
 draft: false
 ---
 
-**Kevin Aymoz of France won the men's title and Lia Pereira and Trennt Michaud of Canada won pairs at Skate Canada International 2026 in Kelowna, British Columbia, according to the International Skating Union (ISU) results; the women's free skate and the free dance close the event on Sunday, Nov. 1, at 3 p.m. and 5:15 p.m. Eastern Time (ET).** In Kelowna those are 1 p.m. and 3:15 p.m. Pacific Time (PT), and Peacock streams both, NBC Sports says.
+**Mao Shimada of Japan won the women's title and Lilah Fear and Lewis Gibson of Great Britain won ice dance on Sunday, Nov. 1, closing Skate Canada International 2026 in Kelowna, British Columbia, according to the International Skating Union (ISU) results.** Kevin Aymoz of France won the men's event and Lia Pereira and Trennt Michaud of Canada won pairs on Saturday. The final session, the free dance, started at 3:15 p.m. Pacific Time (PT), 5:15 p.m. Eastern Time (ET).
 
-## Skate Canada International 2026 results so far
+## Skate Canada International 2026 results
 
-Scores are from the ISU results pages for the event, checked on Sunday afternoon.
+Total scores are from the ISU's final results pages for the event, last updated Nov. 1.
 
 | Event | Gold | Silver | Bronze |
 |---|---|---|---|
 | Men | Kevin Aymoz, France, 258.43 | Rio Nakata, Japan, 249.25 | Mihhail Selevko, Estonia, 248.66 |
+| Women | Mao Shimada, Japan, 235.44 | Niina Petrõkina, Estonia, 221.07 | Isabeau Levito, United States, 212.22 |
 | Pairs | Lia Pereira and Trennt Michaud, Canada, 202.17 | Alisa Efimova and Misha Mitrofanov, United States, 191.90 | Oxana Vouillamoz and Tom Bouvart, Switzerland, 183.12 |
+| Ice dance | Lilah Fear and Lewis Gibson, Great Britain, 201.17 | Evgeniia Lopareva and Geoffrey Brissaud, France, 192.95 | Caroline Green and Michael Parsons, United States, 186.02 |
 
-After Saturday's short program the women's leader is Mao Shimada of Japan with 82.11, ahead of Isabeau Levito of the United States (78.50) and Niina Petrõkina of Estonia (77.24). In ice dance, Lilah Fear and Lewis Gibson of Great Britain lead after the rhythm dance with 81.37, ahead of Evgeniia Lopareva and Geoffrey Brissaud of France (77.90) and Caroline Green and Michael Parsons of the United States (74.24). The table below converts every session to Mountain, Central, Eastern and Atlantic time, and a second table lists the rest of the 2026-27 International Skating Union (ISU) Grand Prix season.
+Shimada led after the short program and was also first in the free skate. Levito was second after the short program but sixth in the free skate, and Petrõkina moved up from third to second. In ice dance the top three kept their rhythm dance order. The table below converts every session to Mountain, Central, Eastern and Atlantic time, and a second table lists the rest of the 2026-27 International Skating Union (ISU) Grand Prix season.
 
 ## Skate Canada International 2026 start times by time zone
 

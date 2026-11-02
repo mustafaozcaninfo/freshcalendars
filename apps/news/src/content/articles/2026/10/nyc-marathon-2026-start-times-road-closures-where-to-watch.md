@@ -4,7 +4,7 @@ seoTitle: "NYC Marathon 2026 Results: Winners and Times"
 description: "Andreas Almgren and Sheila Chepkirui won the New York City Marathon on Sunday, Nov. 1, 2026. Winners, times, start times, TV and road closures for race day."
 type: news
 publishedAt: "2026-10-24T13:05:00-04:00"
-updatedAt: "2026-11-01T15:21:00-05:00"
+updatedAt: "2026-11-01T23:48:00-05:00"
 authors: [jordan-bennett]
 category: sports
 keywords: ["NYC Marathon 2026 results", "NYC Marathon 2026 start times", "where to watch NYC Marathon 2026", "NYC Marathon road closures 2026", "NYC Marathon TV channel 2026"]
@@ -52,8 +52,8 @@ hero:
     authorUrl: "https://www.flickr.com/people/61135621@N03"
 summary:
   - "Andreas Almgren of Sweden won the men's race and Sheila Chepkirui of Kenya the women's race at the 2026 New York City Marathon on Sunday, Nov. 1, CBS New York and ABC7 New York reported."
-  - "ABC7 gave their times as 2:06:01 and 2:24:36; official results from New York Road Runners (NYRR) were not yet readable when we checked."
-  - "Marcel Hug and Catherine Debrunner, both of Switzerland, won the wheelchair races; ABC7 called it Hug's eighth New York title."
+  - "ABC7, FloTrack and Bleacher Report gave their times as 2:06:01 and 2:24:36; Yemaneberhan Crippa and Jessica McClain finished second. Official results from New York Road Runners (NYRR) were not readable when we checked."
+  - "Marcel Hug and Catherine Debrunner, both of Switzerland, won the wheelchair races in 1:28:14 and 1:40:02, FloTrack reported; ABC7 called it Hug's eighth New York title."
   - "The professional wheelchair racers had started at 8:00 a.m. Eastern Time (ET), the professional runners at 8:35 and 9:05 a.m., and the five amateur waves from 9:10 to 11:30 a.m."
 faq:
   - q: "Who won the NYC Marathon 2026?"
@@ -69,6 +69,22 @@ faq:
   - q: "Did the NYC Marathon course change for 2026?"
     a: "Yes. After the Willis Avenue Bridge, runners now turn onto East 141st Street and Third Avenue before reaching the Madison Avenue Bridge, rather than using East 138th Street directly. New York Road Runners calls it the first course change in 15 years, made to reduce the race's impact on the Bronx as the five-borough course marks its 50th anniversary."
 sources:
+  - title: "2026 New York City Marathon Results: Andreas Almgren"
+    url: "https://www.flotrack.org/articles/16341630-2026-new-york-city-marathon-results-andreas-almgren-men"
+    publisher: "FloTrack"
+    date: "2026-11-01"
+  - title: "New York City Marathon Results 2026: Elite Race, Women"
+    url: "https://www.flotrack.org/articles/16341511-new-york-city-marathon-results-2026-elite-race-women"
+    publisher: "FloTrack"
+    date: "2026-11-01"
+  - title: "2026 NYC Marathon live updates, results, winners"
+    url: "https://www.flotrack.org/articles/16339972-2026-nyc-marathon-live-updates-results-winners"
+    publisher: "FloTrack"
+    date: "2026-11-01"
+  - title: "New York Marathon Results 2026: Men's, Women's Top Finishers and Notable Celebrities"
+    url: "https://bleacherreport.com/articles/25527998-new-york-marathon-results-2026-mens-womens-top-finishers-and-notable-celebrities"
+    publisher: "Bleacher Report"
+    date: "2026-11-01"
   - title: "Kenya's Sheila Chepkirui, Sweden's Andreas Almgren win 2026 NYC Marathon"
     url: "https://www.cbsnews.com/newyork/news/nyc-marathon-2026-runners-winners/"
     publisher: "CBS New York"
@@ -121,20 +137,20 @@ downloads:
 draft: false
 ---
 
-**Andreas Almgren of Sweden won the men's race and Sheila Chepkirui of Kenya won the women's race at the 2026 New York City Marathon on Sunday, Nov. 1, CBS New York and ABC7 New York reported.** ABC7 gave Almgren's time as 2 hours, 6 minutes and 1 second and Chepkirui's as 2:24:36. The 26.2-mile race through all five boroughs started with the professional wheelchair fields at 8:00 a.m. Eastern Time (ET), on the morning daylight saving time ended.
+**Andreas Almgren of Sweden won the men's race and Sheila Chepkirui of Kenya won the women's race at the 2026 New York City Marathon on Sunday, Nov. 1, CBS New York and ABC7 New York reported.** ABC7, FloTrack and Bleacher Report gave Almgren's time as 2 hours, 6 minutes and 1 second and Chepkirui's as 2:24:36. The 26.2-mile race through all five boroughs started with the professional wheelchair fields at 8:00 a.m. Eastern Time (ET), on the morning daylight saving time ended.
 
 ## NYC Marathon 2026 winners
 
-The organizer, New York Road Runners (NYRR), had not posted readable official results when we checked on Sunday afternoon; its results pages sent visitors to a waiting room. The winners below are as CBS New York and ABC7 New York reported them, with times from ABC7. Other outlets gave times one second apart, so treat the seconds as unofficial until NYRR publishes.
+The organizer, New York Road Runners (NYRR), had not posted readable official results when we checked on Sunday afternoon and again that night; its results pages sent visitors to a waiting room. The places and times below are as FloTrack and Bleacher Report reported them, and they agree with ABC7 New York on the winning times. Treat the seconds as unofficial until NYRR publishes: CBS New York gave Chepkirui's time as 2:24:35.
 
-| Race | Winner | Time reported |
-|---|---|---|
-| Men's open | Andreas Almgren, Sweden | 2:06:01 |
-| Women's open | Sheila Chepkirui, Kenya | 2:24:36 |
-| Men's wheelchair | Marcel Hug, Switzerland | Not yet official |
-| Women's wheelchair | Catherine Debrunner, Switzerland | Not yet official |
+| Race | First | Second | Third |
+|---|---|---|---|
+| Men's open | Andreas Almgren, Sweden, 2:06:01 | Yemaneberhan Crippa, Italy, 2:06:14 | Kamohelo Mofolo, Lesotho, 2:06:26 |
+| Women's open | Sheila Chepkirui, Kenya, 2:24:36 | Jessica McClain, United States, 2:24:42 | Hellen Obiri, Kenya, 2:24:43 |
+| Men's wheelchair | Marcel Hug, Switzerland, 1:28:14 | Daniel Romanchuk, United States | Not confirmed |
+| Women's wheelchair | Catherine Debrunner, Switzerland, 1:40:02 | Not confirmed | Not confirmed |
 
-ABC7 said the win was Hug's eighth in New York. The rest of this page lists the race-day schedule as NYRR published it, which also helps anyone planning for 2027.
+The wheelchair times are FloTrack's; ABC7 also gave Debrunner's as 1:40:02. FloTrack said Romanchuk finished 1.13 seconds behind Hug, and ABC7 said the win was Hug's eighth in New York. The women's top three finished within 7 seconds of each other. The rest of this page lists the race-day schedule as NYRR published it, which also helps anyone planning for 2027.
 
 Daylight saving time ended at 2:00 a.m. that morning, so clocks fell back to 1:00 a.m. and runners gained an hour of sleep. Every time below is after that change.
 
