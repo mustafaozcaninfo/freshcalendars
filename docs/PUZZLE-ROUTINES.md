@@ -1,5 +1,7 @@
 # Daily puzzle routines
 
+These routines run on the puzzle desk account (w4 in `docs/DESK.md`). If they were set up on another account, create them on w4 with the prompts below and disable the old ones the same day, so no game runs twice.
+
 Three scheduled routines cover the puzzles on /news/ so no day and no game is missed, and a fourth (D) works through the /news/ work queue in the hours between them. A and B write every daily page and split the games by where the answers come from, so each runs when its answers exist and they never write the same files; each runs more than once a day, and every run fills whatever an earlier run missed. C finds new games and writes the monthly roundups. Method: `.claude/skills/news-puzzles/SKILL.md`; games and sources: `docs/PUZZLES.md`; cost rules: `docs/NEWS-COST-GUIDE.md` section 6.
 
 | Routine | Games | Runs | Why then |
