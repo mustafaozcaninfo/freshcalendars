@@ -60,7 +60,7 @@ internalLinks:
     label: "October 2026 printable calendar"
   - href: "/printable-weekly-calendar.html"
     label: "Printable weekly calendar"
-related: [linkedin-games-answers-today-october-30-2026-queens-tango-zip, wordle-hint-answer-today-october-31-2026-1960, nyt-connections-hints-answers-october-31-2026-1238]
+related: [linkedin-games-answers-today-october-30-2026-queens-tango-zip, wordle-hint-answer-today-october-31-2026-1960, linkedin-games-answers-today-november-2-2026-queens-tango-zip]
 draft: false
 ---
 
