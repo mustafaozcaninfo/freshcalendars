@@ -1,0 +1,22 @@
+{
+  "ref": "commons:File:NY breakfast 02.jpg",
+  "source": "Wikimedia Commons",
+  "title": "NY breakfast 02",
+  "page": "https://commons.wikimedia.org/wiki/File:NY_breakfast_02.jpg",
+  "file": "https://upload.wikimedia.org/wikipedia/commons/4/43/NY_breakfast_02.jpg",
+  "width": 5472,
+  "height": 3648,
+  "thumb": "https://commons.wikimedia.org/wiki/Special:FilePath/NY%20breakfast%2002.jpg?width=640",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "author": "Kritzolina",
+  "authorUrl": "https://commons.wikimedia.org/wiki/User:Kritzolina",
+  "ok": true,
+  "slug": "veterans-day-free-meals-discounts",
+  "fetchedAt": "2026-11-02T18:45:11.079Z",
+  "original": "5472×3648",
+  "output": "2400×1350",
+  "cropped": true,
+  "credit": "Photo: Kritzolina / Wikimedia Commons, cropped, edited",
+  "overlay": true
+}

@@ -9,11 +9,23 @@ authors: [christina-gerland]
 category: holidays
 keywords: ["Veterans Day free meals 2026", "Veterans Day discounts 2026", "Veterans Day restaurant deals", "free meals for veterans November 11", "Veterans Day freebies"]
 dateline: "New York"
+assets:
+  overlay: true
+  kicker: "Veterans Day · Wed., Nov. 11, 2026"
+  date: "2026-11-11"
+  card: { top: "Free meals confirmed at", big: "44 chains", bottom: "Plus 13 discounts; bring proof of service" }
 hero:
-  src: ../../../../assets/news/veterans-day-free-meals-discounts/veterans-day-free-meals-discounts.jpg
-  alt: "Veterans Day free meals 2026: a plate and a coffee cup beside a calendar page for Wednesday, Nov. 11, with a card reading printable deal sheet"
+  src: ../../../../assets/news/veterans-day-free-meals-discounts/veterans-day-free-meals-discounts.webp
+  alt: "Veterans Day free meals 2026: a stack of pancakes with powdered sugar on a blue plate beside fruit and a red coffee mug"
   title: "Veterans Day free meals and discounts, Nov. 11, 2026"
-  caption: "Restaurants and stores honor veterans and service members on Wednesday, Nov. 11, 2026. Most offers require proof of service."
+  caption: "A pancake breakfast (file photo). Forty-four chains have confirmed free meals for veterans on Wednesday, Nov. 11, 2026; most ask for proof of service."
+  credit: "Photo: Kritzolina / Wikimedia Commons, cropped, edited"
+  license:
+    name: "CC BY-SA 4.0"
+    url: "https://creativecommons.org/licenses/by-sa/4.0"
+    source: "https://commons.wikimedia.org/wiki/File:NY_breakfast_02.jpg"
+    author: "Kritzolina"
+    authorUrl: "https://commons.wikimedia.org/wiki/User:Kritzolina"
 summary:
   - "Forty-four chains have confirmed free Veterans Day meals for Wednesday, Nov. 11, 2026, including Applebee's, Denny's, Red Lobster, Golden Corral, International House of Pancakes (IHOP), Olive Garden and Texas Roadhouse, and 13 more offer discounts."
   - "Offers reach past the day: Texas Roadhouse's voucher runs through May 31, 2027, Aspen Creek Grill's through Dec. 24, BJ's coupon through Dec. 31, Great Clips cards through Dec. 4, and Bar Louie and Outback also serve on Nov. 10."
