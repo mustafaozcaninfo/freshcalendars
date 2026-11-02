@@ -44,7 +44,7 @@ internalLinks:
     label: "November 2026 printable calendar"
   - href: "/december-calendars.html"
     label: "December 2026 printable calendar"
-related: [daylight-saving-time-ends-november-1-2026, halloween-2026-saturday-sunset-trick-or-treat-times, arizona-time-after-november-1-2026-one-hour-ahead-of-california]
+related: [daylight-saving-time-ends-november-1-2026, latest-sunrise-2027-dates-by-city-when-mornings-get-lighter, arizona-time-after-november-1-2026-one-hour-ahead-of-california]
 downloads:
   - group: "Sunset times printable"
     title: "Sunset Times After the Clock Change, 2026"

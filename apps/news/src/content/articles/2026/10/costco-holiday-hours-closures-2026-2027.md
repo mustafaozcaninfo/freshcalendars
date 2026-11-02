@@ -4,6 +4,7 @@ seoTitle: "Costco Holiday Hours 2026: Closed and Open Days"
 description: "Costco closes U.S. warehouses on seven holidays: Thanksgiving Nov. 26 and Christmas Dec. 25, 2026 are next, then New Year's Day. Days it stays open."
 type: news
 publishedAt: "2026-10-19T11:00:00-04:00"
+updatedAt: "2026-11-02T16:39:00-05:00"
 authors: [jessica-hartwell]
 category: retail-dates
 keywords: ["Costco holiday hours 2026", "is Costco open on Thanksgiving 2026", "Costco closed Christmas 2026", "Costco holiday closures", "is Costco open on Veterans Day"]
@@ -20,7 +21,7 @@ summary:
   - "Gas stations, pharmacies and other departments can keep different hours; check your warehouse page."
 faq:
   - q: "Is Costco open on Thanksgiving 2026?"
-    a: "No. Costco closes all U.S. warehouses on Thanksgiving Day, Thursday, Nov. 26, 2026."
+    a: "No. Costco closes all U.S. warehouses on Thanksgiving Day, Thursday, Nov. 26, 2026. Its 2026 Thanksgiving notice says: \"In observance of Thanksgiving, Costco will be closed Thursday, Nov. 26, 2026.\""
   - q: "Is Costco open on Black Friday 2026?"
     a: "Yes. Black Friday, Nov. 27, is not a Costco holiday closure. Hours are set by each warehouse."
   - q: "Is Costco open on Christmas Eve and Christmas Day 2026?"
@@ -30,6 +31,9 @@ faq:
   - q: "Is Costco open on New Year's Day 2027?"
     a: "No. Costco closes U.S. warehouses on New Year's Day, Friday, Jan. 1, 2027."
 sources:
+  - title: "Holiday Savings Valid Nov. 26"
+    url: "https://www.costco.com/o/-/thanksgiving-day"
+    publisher: "Costco Wholesale"
   - title: "What are Costco's holiday closures?"
     url: "https://customerservice.costco.com/app/answers/detail/a_id/701/~/what-are-costcos-holiday-closures"
     publisher: "Costco Wholesale Customer Service"
@@ -70,6 +74,8 @@ draft: false
 Costco's page lists the seven closures as New Year's Day, Easter Sunday, Memorial Day, Independence Day, Labor Day, Thanksgiving Day and Christmas Day. Any day not on that list is an open day, though hours can differ from the usual schedule.
 
 ## Thanksgiving and Black Friday week
+
+Costco has posted its 2026 Thanksgiving notice, which confirms the closure: "In observance of Thanksgiving, Costco will be closed Thursday, Nov. 26, 2026." Costco.com continues to take orders that day. For other chains, see our [what's open on Thanksgiving 2026](/news/whats-open-thanksgiving-2026-grocery-stores-walmart-costco/) list.
 
 With warehouses closed on Thursday, anything you need for the Thanksgiving meal has to be bought by Wednesday, Nov. 25, and stores are typically crowded that day. Costco reopens on Black Friday, Nov. 27. Our [Thanksgiving explainer](/news/why-thanksgiving-2026-is-november-26/) covers why the holiday falls on Nov. 26, and [when Black Friday falls](/when-is/black-friday/) lists future dates.
 
