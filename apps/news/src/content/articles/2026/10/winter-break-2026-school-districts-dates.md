@@ -92,7 +92,7 @@ internalLinks:
     label: "January 2027 printable calendar"
   - href: "/page/school-holidays/"
     label: "School holidays guide"
-related: [nyc-public-schools-calendar-2026-27-breaks-holidays, chicago-public-schools-calendar-2026-27-breaks, miami-dade-school-calendar-2026-27-breaks]
+related: [lausd-calendar-2026-27-winter-break-spring-break, nyc-public-schools-calendar-2026-27-breaks-holidays, chicago-public-schools-calendar-2026-27-breaks]
 downloads:
   - group: "Winter break printable"
     title: "Winter Break 2026 by School District"
@@ -117,7 +117,7 @@ We read each calendar on the district's own website or in its official PDF. Here
 | District | Winter break (students) | Students return |
 |---|---|---|
 | New York City Public Schools | Dec. 24-Jan. 1 | Mon., Jan. 4 |
-| Los Angeles Unified | Dec. 21-Jan. 8 | Mon., Jan. 11 |
+| [Los Angeles Unified](/news/lausd-calendar-2026-27-winter-break-spring-break/) | Dec. 21-Jan. 8 | Mon., Jan. 11 |
 | Miami-Dade County, Fla. | Dec. 21-Jan. 1 (plus Dec. 18) | Mon., Jan. 4 |
 | Chicago Public Schools | Dec. 21-Jan. 1 (plus Jan. 4) | Tue., Jan. 5 |
 | Clark County, Nev. | Dec. 21-Jan. 1 (plus Jan. 4) | Tue., Jan. 5 |

@@ -93,6 +93,10 @@ export const KEY_DATES: KeyDate[] = [
   { date: "2026-11-07", label: "MLS Decision Day: East 4 p.m. ET, West 7 p.m. ET", slug: "mls-cup-playoffs-2026-schedule-dates-mls-cup-december-18" },
   { date: "2026-12-09", label: "Social Security pays birthdays 1st-10th", slug: "social-security-payment-schedule-december-2026-ssi-december-31" },
   { date: "2026-12-31", label: "January SSI payment arrives early, with the 3.6% COLA", slug: "social-security-payment-schedule-december-2026-ssi-december-31" },
+  { date: "2027-01-13", label: "Social Security pays birthdays 1st-10th, first checks with the 3.6% COLA", slug: "social-security-payment-schedule-january-2027-first-cola-checks" },
+  { date: "2027-01-20", label: "Social Security pays birthdays 11th-20th", slug: "social-security-payment-schedule-january-2027-first-cola-checks" },
+  { date: "2027-01-27", label: "Social Security pays birthdays 21st-31st", slug: "social-security-payment-schedule-january-2027-first-cola-checks" },
+  { date: "2027-02-01", label: "SSI for February paid", slug: "social-security-payment-schedule-january-2027-first-cola-checks" },
   { date: "2026-12-01", label: "SNAP December deposits begin in states that issue on the 1st", slug: "snap-payment-schedule-december-2026-deposit-dates-by-state" },
   { date: "2027-01-01", label: "SNAP January deposits begin in states that issue on the 1st", slug: "snap-payment-schedule-january-2027-deposit-dates-by-state" },
   { date: "2026-11-25", label: "NFL Week 12 opens: Packers at Rams, 8 p.m. ET, Netflix", slug: "nfl-week-12-schedule-2026-printable-pick-em-sheet-game-times" },
@@ -695,6 +699,11 @@ export const KEY_DATES: KeyDate[] = [
   { date: "2026-11-23", label: "Michigan Board of State Canvassers and Arizona Secretary of State certification deadline for the Nov. 3 election", slug: "when-are-2026-election-results-certified-deadlines-by-state" },
   { date: "2026-12-03", label: "Washington Secretary of State's last day to certify the Nov. 3 election", slug: "when-are-2026-election-results-certified-deadlines-by-state" },
   { date: "2026-12-07", label: "Virginia State Board of Elections must meet to certify the Nov. 3 election", slug: "when-are-2026-election-results-certified-deadlines-by-state" },
+  { date: "2026-11-23", label: "Los Angeles Unified students off all week for Thanksgiving (through Nov. 27)", slug: "lausd-calendar-2026-27-winter-break-spring-break" },
+  { date: "2026-12-21", label: "Los Angeles Unified winter recess starts (through Jan. 8)", slug: "lausd-calendar-2026-27-winter-break-spring-break" },
+  { date: "2027-01-11", label: "Los Angeles Unified classes resume after winter recess", slug: "lausd-calendar-2026-27-winter-break-spring-break" },
+  { date: "2027-03-22", label: "Los Angeles Unified spring recess begins (through March 26)", slug: "lausd-calendar-2026-27-winter-break-spring-break" },
+  { date: "2027-06-04", label: "Los Angeles Unified last day of instruction", slug: "lausd-calendar-2026-27-winter-break-spring-break" },
 ];
 
 /** Today's date in Eastern Time as YYYY-MM-DD. */
