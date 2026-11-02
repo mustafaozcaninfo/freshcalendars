@@ -12,6 +12,7 @@ export interface KeyDate {
 }
 
 export const KEY_DATES: KeyDate[] = [
+  { date: "2026-12-07", label: "National Pearl Harbor Remembrance Day, 85th anniversary; law asks for flags at half-staff", slug: "national-pearl-harbor-remembrance-day-2026-december-7-flags-half-staff" },
   { date: "2026-11-03", label: "Mega Millions drawing, 11 p.m. ET; estimated jackpot $482 million as of Nov. 1", slug: "mega-millions-drawing-tuesday-november-3-2026-time-jackpot-482-million" },
   { date: "2026-11-10", label: "Consumer Price Index (CPI) for October, 8:30 a.m. ET", slug: "cpi-report-november-10-2026-time-october-inflation-ppi-pce-dates" },
   { date: "2026-11-13", label: "Producer Price Index (PPI) for October, 8:30 a.m. ET", slug: "cpi-report-november-10-2026-time-october-inflation-ppi-pce-dates" },
