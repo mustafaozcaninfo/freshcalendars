@@ -11,6 +11,7 @@
     "@freshcalendars/engine": "workspace:*",
     "@freshcalendars/site-chrome": "workspace:*",
     "@freshcalendars/templates": "workspace:*",
+    "photoswipe": "5.4.4",
     "playwright": "^1.51.0",
     "sharp": "^0.35.3",
     "three": "0.170.0",

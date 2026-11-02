@@ -9,6 +9,7 @@ import { rehypeConnectionsReveal } from "./src/lib/connections-reveal.mjs";
 import { rehypeTableScroll } from "./src/lib/table-scroll.mjs";
 import { minifyHtmlDir } from "./src/lib/minify-html.mjs";
 import { stampPdfs } from "./src/lib/pdf-meta.mjs";
+import { buildSearchIndex } from "./src/lib/search-index.mjs";
 
 /** Astro leaves content-layer/server chunks in an outDir outside the project; none of it is public.
  *  Also moves latest.json (calendar-site data) to dist/news-data/ and copies home.json there. */
@@ -86,6 +87,16 @@ const minifyHtml = {
   },
 };
 
+/** Full-text story search for the header search, written to /news/pagefind/ (src/lib/search-index.mjs). */
+const searchIndex = {
+  name: "search-index",
+  hooks: {
+    "astro:build:done": async ({ dir }) => {
+      await buildSearchIndex(fileURLToPath(dir));
+    },
+  },
+};
+
 export default defineConfig({
   site: process.env.NEWS_SITE_ORIGIN ?? "https://freshcalendars.com",
   base: "/news",
@@ -103,7 +114,7 @@ export default defineConfig({
     inlineStylesheets: "always",
     assets: "_astro",
   },
-  integrations: [cleanBuildLeftovers, stampPrintables, minifyHtml],
+  integrations: [cleanBuildLeftovers, stampPrintables, minifyHtml, searchIndex],
   // Our rehype plugins (puzzle boards, table scroll, mid-article ad) need the unified pipeline;
   // Astro 7's default Markdown processor (Sätteri) does not run rehype plugins.
   markdown: { processor: unified({ rehypePlugins: [rehypePuzzleBoards, rehypeConnectionsReveal, rehypeTableScroll, rehypeMidArticleAd] }) },

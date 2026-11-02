@@ -600,6 +600,11 @@ button.btn{font:inherit; font-weight:700}
 a.img-link{display:block; text-decoration:none; color:inherit; max-width:100%}
 a.img-link img{display:block; width:100%; height:auto}
 a.zoomable,img.zoomable{cursor:zoom-in}
+/* Zoom viewer (PhotoSwipe, packages/generator LIGHTBOX_JS): design name under the calendar, on a dark
+   pill so it stays readable over a white page when zoomed in. */
+.pswp{--pswp-bg:#0a1016}
+.pswp .pswp__counter{height:28px;line-height:28px;margin:16px 0 0 12px;padding:0 10px;border-radius:999px;background:rgba(10,16,22,.78);text-shadow:none;opacity:1;font:600 12px/28px Manrope,system-ui,sans-serif}
+.pswp-fc-caption{position:absolute;left:50%;bottom:max(12px,env(safe-area-inset-bottom));transform:translateX(-50%);max-width:calc(100% - 32px);padding:6px 12px;border-radius:999px;background:rgba(10,16,22,.78);color:#fff;font:600 12px/1.35 Manrope,system-ui,sans-serif;text-align:center;white-space:nowrap;overflow:hidden;text-overflow:ellipsis;pointer-events:none}
 .lightbox{
   position:fixed; inset:0; z-index:80; display:none; align-items:center; justify-content:center;
   width:100%;height:100%;max-width:none;max-height:none;border:0;margin:0;

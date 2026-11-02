@@ -1,4 +1,5 @@
 import fs from "node:fs/promises";
+import { createRequire } from "node:module";
 import path from "node:path";
 import {
   MONTH_SLUGS,
@@ -23,7 +24,7 @@ import {
   YEARLY_VARIANTS,
   schoolOverviewAssetPaths,
 } from "./catalog.js";
-import { DIST, DIST_ASSETS, DIST_META, DIST_OG, DIST_SITE, ROOT } from "./paths.js";
+import { DIST, DIST_ASSETS, DIST_META, DIST_OG, DIST_SITE, PHOTOSWIPE_PATH, PHOTOSWIPE_VERSION, ROOT } from "./paths.js";
 import { closeBrowser, renderOg, renderPrintable } from "./playwrightRender.js";
 import { generateAssetPreviews } from "./previews.js";
 import {
@@ -332,6 +333,8 @@ export async function generateAll(opts: GenOptions): Promise<{ metas: SeoMeta[] 
     await fs.copyFile(found, path.join(fontOut, file));
   }
 
+  await copyPhotoSwipe();
+
   const logoSrc = path.join(ROOT, "brand/fresh-logo.png");
   await fs.access(logoSrc);
   await fs.mkdir(path.join(DIST_SITE, "img"), { recursive: true });
@@ -345,6 +348,26 @@ export async function generateAll(opts: GenOptions): Promise<{ metas: SeoMeta[] 
   }
 
   return { metas };
+}
+
+/** The preview zoom viewer's three files (ES modules + CSS), self-hosted at PHOTOSWIPE_PATH. */
+async function copyPhotoSwipe(): Promise<void> {
+  // The package's exports map only exposes its entry (dist/photoswipe.esm.js); the other files sit beside it.
+  const pkg = path.dirname(createRequire(import.meta.url).resolve("photoswipe"));
+  const { version } = JSON.parse(await fs.readFile(path.join(pkg, "..", "package.json"), "utf8")) as { version: string };
+  if (version !== PHOTOSWIPE_VERSION) {
+    throw new Error(`photoswipe ${version} is installed but paths.ts PHOTOSWIPE_VERSION is ${PHOTOSWIPE_VERSION}; update one of them`);
+  }
+  const out = path.join(DIST_SITE, PHOTOSWIPE_PATH);
+  // Drop copies of an older version left in dist/site by an earlier local build.
+  const lib = path.join(DIST_SITE, "lib");
+  for (const d of await fs.readdir(lib).catch(() => [] as string[])) {
+    if (d.startsWith("photoswipe-")) await fs.rm(path.join(lib, d), { recursive: true, force: true });
+  }
+  await fs.mkdir(out, { recursive: true });
+  for (const f of ["photoswipe-lightbox.esm.min.js", "photoswipe.esm.min.js", "photoswipe.css"]) {
+    await fs.copyFile(path.join(pkg, f), path.join(out, f));
+  }
 }
 
 export async function refreshEvergreen(today = new Date()): Promise<void> {
