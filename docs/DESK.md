@@ -8,13 +8,13 @@ Five Claude accounts work on /news/. All of them are signed in to GitHub as the 
 | Writer 1 | `w1` | holidays, elections, government deadlines, UK and Canada, UK/Canada sports | `alex-morgan` | writer routine, below |
 | Writer 2 | `w2` | school calendars, test dates, family planning, money and benefits (Social Security, SNAP, taxes, wages) | `emily-carter` for school and family, `alex-morgan` for money and government | writer routine, below |
 | Writer 3 | `w3` | time and clock changes, sky events, calendar guides, retail dates, US sports, entertainment and streaming | `jordan-bennett` | writer routine, below |
-| Writer 4 | `w4` | the puzzle desk: daily puzzle pages, roundups, the work queue | `news-desk` | routines A, B, C and D (`docs/PUZZLE-ROUTINES.md`) |
+| Writer 4 | `w4` | the puzzle desk: daily puzzle pages and monthly roundups, nothing else | `news-desk` | routines A, B and C (`docs/PUZZLE-ROUTINES.md`) |
 
 The byline follows the beat of the story, not the account: a w2 money story is bylined `alex-morgan`. The queue item names the byline.
 
 ## Queues
 
-Each writer has one queue file: `docs/desk/w1.md`, `docs/desk/w2.md`, `docs/desk/w3.md`. W4 keeps `docs/NEWS-BACKLOG.md`. A writer reads and edits only its own file. The manager adds, reorders and removes items, committing straight to `main` (docs only).
+Each writer has one queue file: `docs/desk/w1.md`, `docs/desk/w2.md`, `docs/desk/w3.md`. The code and puzzle-feature items in `docs/NEWS-BACKLOG.md` belong to the manager (routine D is paused). A writer reads and edits only its own file. The manager adds, reorders and removes items, committing straight to `main` (docs only).
 
 **Item format.** `- [ ] **<id>** Working headline.` then indented lines: target query, category and byline, publish by, what we add. The id is short kebab-case and unique across all queue files (it becomes the branch name).
 
@@ -33,7 +33,7 @@ Everything in `CLAUDE.md` applies. On top of it:
 - **One story per run.** Finish it properly or mark it blocked.
 - **Stay in your beat.** A good topic in another beat goes in the report for the manager, not into your queue.
 - **Files you may change:** your story, its images and printables, your queue file, `KEY_DATES` lines for your story's dates, and the `related` or link lines in the 1-2 existing stories that link back to yours.
-- **Files you never change:** daily puzzle pages and roundups (W4), another writer's queue file, `docs/NEWS-BACKLOG.md`, and shared code: `apps/news/src/components`, `apps/news/src/lib` (except `KEY_DATES` lines), `content.config.ts`, `packages/`, `scripts/`, `site-chrome`, `.github/`, `cloudflare/`. If a story needs a code change, mark the item blocked with "needs code: ..." and the manager makes it.
+- **Files you never change:** daily puzzle pages and roundups (W4), another writer's queue file, `docs/NEWS-BACKLOG.md` (the manager's), and shared code: `apps/news/src/components`, `apps/news/src/lib` (except `KEY_DATES` lines), `content.config.ts`, `packages/`, `scripts/`, `site-chrome`, `.github/`, `cloudflare/`. If a story needs a code change, mark the item blocked with "needs code: ..." and the manager makes it.
 - **Never touch a file an open pull request changes**, except `apps/news/src/lib/keydates.ts`. On a rebase conflict there, keep both sides' lines.
 - **Ship through a pull request** titled `[W1] <headline>`, and merge it when CI is green. Push to `main` only when the session has no GitHub tools (rebase first). Never deploy, never force-push.
 
@@ -84,7 +84,8 @@ The owner's own sessions. Every day:
 1. **Fill the queues.** Keep 5 to 10 items in each writer's file, ordered by publish-by date. Sources: the content plan, the writers' reports, `pnpm news:dashboard`. Before adding an item, check that no story on `main` already covers it (`ls apps/news/src/content/articles/*/*/ | grep <word>`). Commit queue changes straight to `main`.
 2. **Read what went live.** List the day's writer pull requests (`gh pr list --state merged --search "[W in:title"`), read the stories, check one with `pnpm news:verify-live <slug>`. A problem goes back as a new item at the top of the same writer's queue ("fix: ...").
 3. **Unblock.** Items marked "needs code" are the manager's: make the change in its own branch and pull request, then delete the blocked note.
-4. **Watch the puzzle desk.** Routines A to D run on account W4; their reports and pull requests show whether a day was missed.
+4. **Watch the puzzle desk.** Routines A, B and C run on account W4; their reports and pull requests show whether a day was missed.
+5. **Work the backlog.** Routine D is paused, so `docs/NEWS-BACKLOG.md` items (code and puzzle features) are done by hand in manager sessions, and its open pull requests are reviewed here.
 
 ## Do not
 
