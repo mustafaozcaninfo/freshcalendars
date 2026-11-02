@@ -4,7 +4,7 @@ seoTitle: "Edinburgh's Christmas 2026 Dates: Big Wheel, Hogmanay"
 description: "Edinburgh's Christmas runs Saturday 14 November 2026 to Sunday 3 January 2027, per its official website. The Torchlight Procession is Tuesday 29 December."
 type: news
 publishedAt: "2026-10-30T02:25:00-04:00"
-authors: [alex-morgan]
+authors: [christina-gerland]
 category: uk-canada
 keywords: ["Edinburgh's Christmas 2026 dates", "Edinburgh Christmas market 2026", "Edinburgh Big Wheel 2026 opening times", "Edinburgh Hogmanay 2026 torchlight procession date"]
 dateline: "Edinburgh"
@@ -60,7 +60,7 @@ internalLinks:
     label: "November 2026 printable calendar"
   - href: "/december-calendars.html"
     label: "December 2026 printable calendar"
-related: [manchester-birmingham-christmas-markets-2026-dates-opening-times, hyde-park-winter-wonderland-2026-dates-opening-times-tickets, london-new-years-eve-fireworks-2026-tickets-times-closures]
+related: [manchester-birmingham-christmas-markets-2026-dates-opening-times, hyde-park-winter-wonderland-2026-dates-opening-times-tickets, fenwick-christmas-window-2026-newcastle-public-viewing-monday-2-november]
 downloads:
   - group: "Edinburgh's Christmas and Hogmanay 2026 Dates printables"
     title: "Edinburgh's Christmas and Hogmanay 2026 Dates"

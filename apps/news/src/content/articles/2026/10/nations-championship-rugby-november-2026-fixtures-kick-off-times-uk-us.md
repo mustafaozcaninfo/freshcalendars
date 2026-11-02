@@ -5,7 +5,7 @@ description: "The Nations Championship runs Nov. 6-29, 2026, with England v New 
 type: news
 publishedAt: "2026-10-28T00:02:00-04:00"
 updatedAt: "2026-11-01T04:50:00-05:00"
-authors: [alex-morgan]
+authors: [christina-gerland]
 category: uk-canada
 keywords: ["nations championship november 2026 fixtures", "autumn internationals 2026 kick-off times", "england v new zealand 2026 kick-off time", "nations championship finals twickenham"]
 dateline: "London"
@@ -112,7 +112,7 @@ internalLinks:
     label: "November 2026 printable calendar"
   - href: "/printable-weekly-calendar.html"
     label: "Printable weekly calendar"
-related: [fa-cup-first-round-2026-27-fixtures-tv-picks-kickoff-times, carabao-cup-fourth-round-2026-schedule-kickoff-times-tv-us-uk, grand-slam-of-darts-2026-dates-november-14-22-format-prize-money-how-to-watch]
+related: [fa-cup-first-round-2026-27-fixtures-tv-picks-kickoff-times, carabao-cup-fourth-round-2026-schedule-kickoff-times-tv-us-uk, six-nations-2027-fixtures-kick-off-times-uk-us-canada]
 draft: false
 ---
 

@@ -40,6 +40,11 @@ const inMore = all.slice(PRIMARY).some((l) => l.id === section);
 .nb-in{width:min(1320px,calc(100% - 80px));margin:0 auto;padding:12px 0}
 .nb-sections{display:flex;align-items:center;gap:10px;min-width:0}
 .nb-main{display:flex;gap:9px;align-items:center;overflow-x:auto;scrollbar-width:none;list-style:none;padding:0;margin:0;flex:1;min-width:0;white-space:nowrap}
+/* When the pills overflow (phones), fade the right edge so the clipped pill reads as "scroll for more"
+   instead of a hard cut against More. The fade stops at 20% so a thin sliver still shows; the end
+   padding lets the last pill scroll fully clear of the fade. */
+.nb-main{-webkit-mask-image:linear-gradient(to right,#000 calc(100% - 48px),#0003);mask-image:linear-gradient(to right,#000 calc(100% - 48px),#0003);padding-right:48px}
+.nb-main::-webkit-scrollbar{display:none}
 .nb-main a,.nb-more summary{display:inline-flex;align-items:center;gap:5px;min-height:30px;padding:6px 13px;border:1px solid var(--line);border-radius:20px;font-size:11px;line-height:1.2;color:var(--ink-strong)!important;text-decoration:none;font-weight:700}
 .newsbar .nb-main a[aria-current=page]{background:var(--accent);color:#fff!important;border-color:var(--accent)}
 .nb-more{position:relative;flex-shrink:0}.nb-more summary{cursor:pointer;list-style:none}.nb-more summary::-webkit-details-marker{display:none}.nb-more svg{width:11px;height:11px}

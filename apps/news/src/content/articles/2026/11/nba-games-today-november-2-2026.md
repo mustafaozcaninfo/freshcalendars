@@ -4,7 +4,7 @@ seoTitle: "NBA Games Today, Nov. 2, 2026: 15 Games and TV"
 description: "15 National Basketball Association (NBA) games on Monday, Nov. 2, 2026: first tip-off 7 p.m. Eastern Time (ET), with Thunder at Cavaliers on Peacock."
 type: news
 publishedAt: "2026-10-31T19:41:00-04:00"
-authors: [jordan-bennett]
+authors: [jessica-hartwell]
 category: sports
 keywords: ["NBA games today", "NBA games tonight November 2", "NBA schedule today", "NBA games Monday", "printable NBA schedule"]
 dateline: "New York"

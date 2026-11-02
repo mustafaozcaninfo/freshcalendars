@@ -4,7 +4,7 @@ seoTitle: "Who Won the 2020 Presidential Election: Results"
 description: "Joe Biden won the 2020 presidential election with 306 electoral votes to Donald Trump's 232, per the National Archives; 270 of 538 were needed."
 type: explainer
 publishedAt: "2026-10-29T08:00:00-04:00"
-authors: [alex-morgan]
+authors: [christina-gerland]
 category: elections
 keywords: ["who won the 2020 presidential election", "2020 election results", "2020 electoral votes", "when was the 2020 election certified"]
 hero:

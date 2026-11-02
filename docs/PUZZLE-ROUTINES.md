@@ -1,5 +1,7 @@
 # Daily puzzle routines
 
+Routines A, B and C run on the puzzle desk account (w4 in `docs/DESK.md`), which runs nothing else. Routine D is paused (2026-11-02, its queue was empty): the manager works `docs/NEWS-BACKLOG.md` by hand, and D is turned back on when several items are waiting. Its prompt stays below in case it is turned back on. If a routine has to move to another account, create it there with the prompt below and disable the old one the same day, so no game runs twice.
+
 Three scheduled routines cover the puzzles on /news/ so no day and no game is missed, and a fourth (D) works through the /news/ work queue in the hours between them. A and B write every daily page and split the games by where the answers come from, so each runs when its answers exist and they never write the same files; each runs more than once a day, and every run fills whatever an earlier run missed. C finds new games and writes the monthly roundups. Method: `.claude/skills/news-puzzles/SKILL.md`; games and sources: `docs/PUZZLES.md`; cost rules: `docs/NEWS-COST-GUIDE.md` section 6.
 
 | Routine | Games | Runs | Why then |

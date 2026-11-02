@@ -4,7 +4,7 @@ seoTitle: "Runoff Election 2026 Dates: Georgia and Louisiana"
 description: "Georgia's runoff, if needed, is Tuesday, Dec. 1, 2026; Louisiana's second round is Saturday, Dec. 12. Deadlines for each state, with a printable."
 type: news
 publishedAt: "2026-10-30T19:45:00-04:00"
-authors: [alex-morgan]
+authors: [christina-gerland]
 category: elections
 keywords: ["runoff election 2026 dates", "georgia runoff 2026 date", "when is the georgia runoff", "louisiana december 12 election"]
 hero:
@@ -107,7 +107,7 @@ internalLinks:
     label: "November 2026 printable calendar"
   - href: "/december-calendars.html"
     label: "December 2026 printable calendar"
-related: [georgia-2026-ballot-amendments-advance-voting, when-will-we-know-election-results-2026-midterms, louisiana-sample-ballot-2026-senate-amendments]
+related: [georgia-2026-ballot-amendments-advance-voting, when-will-we-know-election-results-2026-midterms, when-are-2026-election-results-certified-deadlines-by-state]
 downloads:
   - group: "2026 Runoff Election Dates printables"
     title: "2026 Runoff Election Dates: Georgia, Louisiana, Mississippi"

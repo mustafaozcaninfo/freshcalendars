@@ -5,7 +5,7 @@ description: "Free National Football League (NFL) pick'em sheets for 2026, updat
 type: explainer
 publishedAt: "2026-10-29T08:00:00-04:00"
 updatedAt: "2026-11-01T02:49:00-05:00"
-authors: [jordan-bennett]
+authors: [jessica-hartwell]
 category: sports
 keywords: ["printable NFL pick'em sheets", "NFL pick'em sheet this week", "NFL confidence pool sheet", "office football pool sheet", "NFL survivor pool sheet printable"]
 assets:

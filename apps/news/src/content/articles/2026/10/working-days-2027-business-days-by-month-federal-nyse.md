@@ -4,7 +4,7 @@ seoTitle: "Working Days in 2027: Business Days by Month"
 description: "2027 has 261 weekdays, 249 U.S. federal working days and 251 New York Stock Exchange (NYSE) trading days, with a month-by-month and quarter table."
 type: explainer
 publishedAt: "2026-10-30T05:30:00-04:00"
-authors: [jordan-bennett]
+authors: [jessica-hartwell]
 category: calendar-guides
 keywords: ["working days in 2027", "business days 2027", "how many working days in 2027", "2027 working days by month", "trading days 2027"]
 dateline: "New York"

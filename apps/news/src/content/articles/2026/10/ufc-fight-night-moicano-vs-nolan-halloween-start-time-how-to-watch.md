@@ -5,7 +5,7 @@ description: "The Ultimate Fighting Championship (UFC) lists Moicano vs. Nolan o
 type: news
 publishedAt: "2026-10-25T14:15:00-04:00"
 updatedAt: "2026-10-26T13:00:00-04:00"
-authors: [jordan-bennett]
+authors: [jessica-hartwell]
 category: sports
 keywords: ["UFC this weekend", "Moicano vs Nolan", "UFC Halloween 2026 start time", "UFC Fight Night October 31 2026"]
 dateline: "Las Vegas"

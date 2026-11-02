@@ -4,7 +4,7 @@ seoTitle: "Printable Pumpkin Carving Templates: 18 Free PDFs"
 description: "Print 18 free pumpkin carving templates, from a classic jack-o'-lantern to a skull and a black cat, each a one-page PDF tested so no piece falls out."
 type: explainer
 publishedAt: "2026-10-29T08:15:00-04:00"
-authors: [alex-morgan]
+authors: [christina-gerland]
 category: holidays
 keywords: ["printable pumpkin carving templates", "pumpkin carving stencils", "free printable pumpkin stencils", "easy pumpkin carving templates", "scary pumpkin stencils"]
 assets:

@@ -4,7 +4,7 @@ seoTitle: "Soccer on TV This Weekend: Oct. 30-Nov. 2, 2026"
 description: "European soccer on TV this weekend in Eastern Time (ET): Bayern vs. Dortmund, Milan vs. Inter and 46 more games from five leagues, with U.S. channels."
 type: news
 publishedAt: "2026-10-30T05:30:00-04:00"
-authors: [jordan-bennett]
+authors: [jessica-hartwell]
 category: sports
 keywords: ["soccer on TV this weekend", "european soccer schedule this weekend", "bayern vs dortmund time", "milan vs inter time", "how to watch la liga serie a bundesliga in the us"]
 assets:
@@ -127,7 +127,7 @@ internalLinks:
     label: "November 2026 printable calendar"
   - href: "/when-is/daylight-savings/"
     label: "When does daylight saving time end?"
-related: [nwsl-playoffs-2026-schedule-decision-day-quarterfinals-championship-november-21, premier-league-fixtures-this-weekend-october-31-november-2-2026-kickoff-times-tv, champions-league-november-2026-schedule-kickoff-times-et-matchday-4-5]
+related: [nwsl-playoffs-2026-schedule-decision-day-quarterfinals-championship-november-21, premier-league-fixtures-this-weekend-october-31-november-2-2026-kickoff-times-tv, liga-mx-liguilla-apertura-2026-dates-quarterfinals-semifinals-final-schedule]
 draft: false
 ---
 

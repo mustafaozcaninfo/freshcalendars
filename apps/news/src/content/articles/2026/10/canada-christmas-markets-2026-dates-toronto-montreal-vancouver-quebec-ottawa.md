@@ -4,7 +4,7 @@ seoTitle: "Canada Christmas Markets 2026: Opening and Closing Dates"
 description: "Toronto's Distillery Winter Village opens Thursday, Nov. 12, 2026, Montreal's market Nov. 13 and Vancouver's Nov. 16, according to each market's official site."
 type: news
 publishedAt: "2026-10-30T02:30:00-04:00"
-authors: [alex-morgan]
+authors: [christina-gerland]
 category: uk-canada
 keywords: ["Christmas markets Canada 2026 dates", "Distillery Winter Village 2026 dates", "Vancouver Christmas Market 2026", "Toronto Christmas market 2026 free days", "Quebec City German Christmas Market 2026"]
 dateline: "Toronto"

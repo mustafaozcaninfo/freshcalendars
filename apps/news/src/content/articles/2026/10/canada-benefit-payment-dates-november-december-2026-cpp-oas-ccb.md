@@ -4,7 +4,7 @@ seoTitle: "CPP Payment Dates November 2026 and December"
 description: "Canada Pension Plan (CPP) and Old Age Security (OAS) pay Thu., Nov. 26 and Tue., Dec. 22, 2026, says Service Canada. All federal benefit dates for both months."
 type: news
 publishedAt: "2026-10-28T18:00:00-04:00"
-authors: [alex-morgan]
+authors: [christina-gerland]
 category: uk-canada
 keywords: ["CPP payment dates November 2026", "OAS payment dates December 2026", "Canada Child Benefit payment dates November 2026", "Canada benefit payment dates December 2026"]
 dateline: "Ottawa"
@@ -90,7 +90,7 @@ internalLinks:
     label: "December 2026 printable calendar"
   - href: "/canada-holidays/"
     label: "Canada holidays calendar"
-related: [canada-post-holiday-shipping-deadlines-2026-christmas, canada-statutory-holidays-2027-federal-general-holidays, boxing-day-2026-canada-saturday-december-26-day-off-monday-december-28]
+related: [canada-post-holiday-shipping-deadlines-2026-christmas, canada-statutory-holidays-2027-federal-general-holidays, rrsp-deadline-2027-march-1-canada-tax-season-dates]
 draft: false
 downloads:
   - group: "Canada Benefit Payment Dates printables"

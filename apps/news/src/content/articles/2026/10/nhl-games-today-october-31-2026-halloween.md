@@ -5,7 +5,7 @@ description: "National Hockey League (NHL) games today, Sat., Oct. 31, 2026 (Hal
 type: news
 publishedAt: "2026-10-29T19:53:00-04:00"
 updatedAt: "2026-10-29T21:06:00-04:00"
-authors: [jordan-bennett]
+authors: [jessica-hartwell]
 category: sports
 keywords: ["NHL games today", "NHL games Halloween 2026", "NHL schedule October 31 2026", "NHL TV schedule today", "printable NHL schedule"]
 corrections:

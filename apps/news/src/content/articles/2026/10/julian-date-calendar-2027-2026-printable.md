@@ -5,7 +5,7 @@ description: "Free printable Julian date calendars for 2027 and 2026: day-of-yea
 type: explainer
 publishedAt: "2026-10-18T09:20:00-04:00"
 updatedAt: "2026-10-30T15:27:00-04:00"
-authors: [jordan-bennett]
+authors: [jessica-hartwell]
 category: calendar-guides
 keywords: ["Julian date calendar 2027", "Julian date calendar 2026", "day of year calendar printable", "YYDDD date code", "Julian Day Number 2027"]
 dateline: "New York"

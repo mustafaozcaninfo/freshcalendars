@@ -1,0 +1,149 @@
+{
+ "publicationDate": "2026-11-02",
+ "constructors": [
+  "Joel Fagliano"
+ ],
+ "width": 5,
+ "height": 5,
+ "cells": [
+  null,
+  "J",
+  "A",
+  "M",
+  null,
+  "T",
+  "O",
+  "U",
+  "C",
+  "H",
+  "I",
+  "N",
+  "D",
+  "I",
+  "A",
+  "S",
+  "A",
+  "I",
+  "N",
+  "T",
+  null,
+  "H",
+  "O",
+  "G",
+  null
+ ],
+ "clues": [
+  {
+   "direction": "Across",
+   "label": "1",
+   "text": "Awesome song, informally",
+   "cells": [
+    1,
+    2,
+    3
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "4",
+   "text": "Word after \"Midas\" or \"magic\"",
+   "cells": [
+    5,
+    6,
+    7,
+    8,
+    9
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "6",
+   "text": "World's most populous country",
+   "cells": [
+    10,
+    11,
+    12,
+    13,
+    14
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "7",
+   "text": "Holy person",
+   "cells": [
+    15,
+    16,
+    17,
+    18,
+    19
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "8",
+   "text": "Ticker symbol for Harley-Davidson on the N.Y.S.E., appropriately",
+   "cells": [
+    21,
+    22,
+    23
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "1",
+   "text": "Biblical whale bait",
+   "cells": [
+    1,
+    6,
+    11,
+    16,
+    21
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "2",
+   "text": "Sound",
+   "cells": [
+    2,
+    7,
+    12,
+    17,
+    22
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "3",
+   "text": "Hosting, informally",
+   "cells": [
+    3,
+    8,
+    13,
+    18,
+    23
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "4",
+   "text": "\"___ the season!\"",
+   "cells": [
+    5,
+    10,
+    15
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "5",
+   "text": "Pharrell's signature item of apparel",
+   "cells": [
+    9,
+    14,
+    19
+   ]
+  }
+ ]
+}

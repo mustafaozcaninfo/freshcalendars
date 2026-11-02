@@ -51,7 +51,7 @@ seoTitle: "<20-60 chars>"
 description: "<120-160 chars; renders as the lede; expand abbreviations: Eastern Time (ET)>"
 type: news            # news | explainer | analysis | update
 publishedAt: "2026-10-21T09:30:00-04:00"   # now or earlier, America/New_York
-authors: [alex-morgan]  # the beat editor who reviews the story (see "Bylines" below); puzzles: [news-desk]
+authors: [christina-gerland]  # the editor who owns the category and reviews the story (see "Bylines" below); puzzles: [news-desk]
 category: holidays    # holidays | elections | planning | money-benefits | school-calendars | retail-dates | puzzles | time-change | sky-events | uk-canada | calendar-guides | sports | entertainment | gaming-tech
 keywords: ["<main query>", "<variant>", "<variant>"]   # 1-5
 hero:
@@ -82,13 +82,13 @@ draft: false
 
 ## Bylines
 
-`authors` is the editor responsible for the story's beat; that editor reviews the story before it is published. Daily puzzle pages (Wordle, Connections, Strands and similar) use `[news-desk]`. When a story spans two beats, ask the person you are working with which editor reviews it.
+`authors` is the editor who owns the story's `category`; that editor reviews the story before it is published. One category, one editor: the `categories` list in each `apps/news/src/content/authors/<id>.json` is the source. Daily puzzle pages (Wordle, Connections, Strands and similar) use `[news-desk]`. A story that spans two beats takes the byline of the category it is filed under.
 
-| Author id | Editor | Beat |
+| Author id | Editor | Categories |
 |---|---|---|
-| `alex-morgan` | Alex Morgan, Senior Editor | holidays (`holidays`), elections (`elections`), UK and Canada (`uk-canada`), government and tax deadlines: Social Security, Medicare, IRS, open enrollment, market closures |
-| `emily-carter` | Emily Carter, Managing Editor | school calendars (`school-calendars`), school breaks, SAT, ACT, LSAT and MCAT dates, family printables |
-| `jordan-bennett` | Jordan Bennett, News Editor | clock changes (`time-change`), sky events (`sky-events`), calendar guides (`calendar-guides`), retail dates (`retail-dates`), sports, festival and event schedules, travel, movable dates such as Ramadan and Lunar New Year |
+| `christina-gerland` | Christina Gerland, Senior Editor | `holidays`, `elections`, `planning` (government and civic deadlines), `uk-canada` |
+| `aaron-kessler` | Aaron Kessler, Managing Editor | `school-calendars` (school breaks, SAT, ACT, LSAT and MCAT dates, family printables), `money-benefits` (Social Security, SNAP, taxes, wages, benefit payment dates) |
+| `jessica-hartwell` | Jessica Hartwell, News Editor | `time-change`, `sky-events`, `calendar-guides`, `retail-dates`, `entertainment`, `gaming-tech`, `sports` (all leagues and countries) |
 
 A new Person author needs a real, confirmed person and `confirmedAt` in `apps/news/src/content/authors/<id>.json`; `news:seo-audit` (07-NO-FAKE-EXPERTS) rejects any other Person.
 

@@ -5,7 +5,7 @@ description: "Illinois, Florida, Washington, Colorado, New York and Louisiana ha
 type: news
 publishedAt: "2026-10-30T15:50:00-04:00"
 updatedAt: "2026-10-31T15:50:00-04:00"
-authors: [alex-morgan]
+authors: [christina-gerland]
 category: planning
 keywords: ["new laws 2027", "laws taking effect january 1 2027", "new illinois laws 2027", "new florida laws 2027", "new laws by state"]
 hero:

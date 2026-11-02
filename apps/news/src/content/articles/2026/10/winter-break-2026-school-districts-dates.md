@@ -1,11 +1,11 @@
 ---
-title: "Winter Break 2026: Dates for 21 of the Largest U.S. School Districts, and Who Goes Back on Jan. 4, 5 or Later"
+title: "Winter Break 2026: Dates for 24 of the Largest U.S. School Districts, and Who Goes Back on Jan. 4, 5 or Later"
 seoTitle: "Winter Break 2026 Dates for Big School Districts"
-description: "Winter break 2026 in 21 big school districts: most are off Dec. 21-Jan. 1, NYC from Dec. 24, Los Angeles until Jan. 8. Return dates and Thanksgiving breaks."
+description: "Winter break 2026 in 24 big school districts: most are off Dec. 21-Jan. 1, NYC from Dec. 24, Los Angeles until Jan. 8. Return dates and Thanksgiving breaks."
 type: news
 publishedAt: "2026-10-20T01:35:00-04:00"
-updatedAt: "2026-10-22T13:03:00-04:00"
-authors: [emily-carter]
+updatedAt: "2026-11-02T05:15:00-05:00"
+authors: [aaron-kessler]
 category: school-calendars
 keywords: ["winter break 2026", "christmas break 2026 schools", "when is winter break 2026", "school winter break dates 2026-27", "when do schools go back after winter break 2027"]
 dateline: "New York"
@@ -15,8 +15,8 @@ hero:
   title: "Winter break 2026 for large school districts"
   caption: "Most of the largest U.S. school districts close for winter break from Monday, Dec. 21, 2026 through Friday, Jan. 1, 2027; many add a staff day on Jan. 4."
 summary:
-  - "In 19 of the 21 large districts we checked, students are off from Monday, Dec. 21, 2026 through at least Friday, Jan. 1, 2027."
-  - "New York City and Montgomery County, Md., start later, on Thursday, Dec. 24; Los Angeles Unified runs longest, through Jan. 8, with classes back Jan. 11."
+  - "In 21 of the 24 large districts we checked, students are off from Monday, Dec. 21, 2026 through at least Friday, Jan. 1, 2027."
+  - "New York City and Montgomery County, Md., start later, on Thursday, Dec. 24, and Philadelphia on Wednesday, Dec. 23; Los Angeles Unified runs longest, through Jan. 8, with classes back Jan. 11."
   - "Eleven districts keep students home on Monday, Jan. 4 for a staff or planning day, so classes resume Tuesday, Jan. 5; Dallas and Duval County return Wednesday, Jan. 6."
   - "Most of these districts also give students all or part of Thanksgiving week off."
 faq:
@@ -29,7 +29,7 @@ faq:
   - q: "Do schools go back on Jan. 4 or Jan. 5, 2027?"
     a: "It depends on the district. New York City, Miami-Dade, Fairfax County, Wake County, Charlotte-Mecklenburg and Montgomery County, Md., return Jan. 4. Chicago, Houston, Clark County, Denver, San Diego and several Florida and Texas districts return Jan. 5."
   - q: "Is Christmas Eve a school day in 2026?"
-    a: "Not in any of the 21 districts listed here. Dec. 24, 2026 is a Thursday, and every one of them is closed that day."
+    a: "Not in any of the 24 districts listed here. Dec. 24, 2026 is a Thursday, and every one of them is closed that day."
 sources:
   - title: "School Year Calendar 2026-2027"
     url: "https://www.schools.nyc.gov/docs/default-source/sections/calendar/2026-27-school-year-calendar.pdf"
@@ -73,6 +73,16 @@ sources:
   - title: "School Year Calendar 2026-27"
     url: "https://www.dpsk12.org/documents/calendars-&-publications/2026-27-calendars/17704516"
     publisher: "Denver Public Schools"
+  - title: "Academic Calendar (last modified Sept. 15, 2026; board approved 2/26/2026)"
+    url: "https://www.philasd.org/calendar/"
+    publisher: "The School District of Philadelphia"
+    date: "2026-09-15"
+  - title: "Important Dates"
+    url: "https://www.cobbk12.org/aspire/important-dates"
+    publisher: "Cobb County School District"
+  - title: "Austin Independent School District 2026 - 2027 Calendar - Revised & Final"
+    url: "https://www.austinisd.org/sites/default/files/dept/ctfc/docs/2026-2027_Calendar_Revised_0.pdf"
+    publisher: "Austin Independent School District"
 internalLinks:
   - href: "/printable-school-calendar.html"
     label: "Printable school-year calendar 2026-27"
@@ -82,13 +92,13 @@ internalLinks:
     label: "January 2027 printable calendar"
   - href: "/page/school-holidays/"
     label: "School holidays guide"
-related: [nyc-public-schools-calendar-2026-27-breaks-holidays, chicago-public-schools-calendar-2026-27-breaks, miami-dade-school-calendar-2026-27-breaks]
+related: [lausd-calendar-2026-27-winter-break-spring-break, nyc-public-schools-calendar-2026-27-breaks-holidays, chicago-public-schools-calendar-2026-27-breaks]
 downloads:
   - group: "Winter break printable"
     title: "Winter Break 2026 by School District"
-    description: "Winter break, extra no-school days, return dates and Thanksgiving breaks for 21 large U.S. school districts on one page."
+    description: "Winter break, extra no-school days, return dates and Thanksgiving breaks for 24 large U.S. school districts on one page."
     preview: ../../../../assets/news/winter-break-2026/winter-break-2026-school-districts.png
-    alt: "Winter break 2026 printable table for 21 large U.S. school districts with return dates and Thanksgiving breaks"
+    alt: "Winter break 2026 printable table for 24 large U.S. school districts with return dates and Thanksgiving breaks"
     pdf: "/news/downloads/winter-break-2026/winter-break-2026-school-districts.pdf"
     png: "/news/downloads/winter-break-2026/winter-break-2026-school-districts.png"
     pages: 1
@@ -100,14 +110,14 @@ draft: false
 
 **Most of the largest U.S. school districts close for winter break from Monday, Dec. 21, 2026 through Friday, Jan. 1, 2027**, according to the 2026-27 calendars the districts publish. The bigger difference is the return date: many districts add a staff day on Monday, Jan. 4, so students do not go back until Tuesday, Jan. 5, and Los Angeles Unified stays off another week.
 
-We read each calendar on the district's own website or in its official PDF. Here are 21 of the largest districts.
+We read each calendar on the district's own website or in its official PDF. Here are 24 of the largest districts.
 
 ## Winter break 2026, district by district
 
 | District | Winter break (students) | Students return |
 |---|---|---|
 | New York City Public Schools | Dec. 24-Jan. 1 | Mon., Jan. 4 |
-| Los Angeles Unified | Dec. 21-Jan. 8 | Mon., Jan. 11 |
+| [Los Angeles Unified](/news/lausd-calendar-2026-27-winter-break-spring-break/) | Dec. 21-Jan. 8 | Mon., Jan. 11 |
 | Miami-Dade County, Fla. | Dec. 21-Jan. 1 (plus Dec. 18) | Mon., Jan. 4 |
 | Chicago Public Schools | Dec. 21-Jan. 1 (plus Jan. 4) | Tue., Jan. 5 |
 | Clark County, Nev. | Dec. 21-Jan. 1 (plus Jan. 4) | Tue., Jan. 5 |
@@ -127,14 +137,17 @@ We read each calendar on the district's own website or in its official PDF. Here
 | Cypress-Fairbanks ISD, Texas | Dec. 21-Jan. 1 (plus Jan. 4) | Tue., Jan. 5 |
 | Northside ISD, San Antonio | Dec. 21-Jan. 1 (plus Jan. 4) | Tue., Jan. 5 |
 | Denver Public Schools | Dec. 21-Jan. 1 (plus Jan. 4) | Tue., Jan. 5 |
+| Philadelphia, Pa. | Dec. 23-Jan. 1 | Not listed |
+| Cobb County, Ga. | Dec. 21-Jan. 4 | Not listed |
+| Austin ISD, Texas | Dec. 21-Jan. 4 | Not listed |
 
 Independent school districts are the usual form of school district in Texas. "Plus" days are teacher planning, professional development or staff days with no students, listed separately on the district calendar.
 
 ## Three patterns
 
-**The two-week break.** Nineteen of the 21 districts give students at least the full two weeks of Dec. 21 to Jan. 1. Dec. 24 is a Thursday this year, so Christmas Eve and Christmas Day fall at the end of the first week.
+**The two-week break.** Twenty-one of the 24 districts give students at least the full two weeks of Dec. 21 to Jan. 1. Dec. 24 is a Thursday this year, so Christmas Eve and Christmas Day fall at the end of the first week.
 
-**The late start.** New York City and Montgomery County, Md., keep students in school until Wednesday, Dec. 23 and close from Thursday, Dec. 24. Montgomery County's Dec. 23 is an early-release day.
+**The late start.** New York City and Montgomery County, Md., keep students in school until Wednesday, Dec. 23 and close from Thursday, Dec. 24. Montgomery County's Dec. 23 is an early-release day. Philadelphia closes from Wednesday, Dec. 23; its calendar lists the recess through Dec. 31 and New Year's Day as a separate closure.
 
 **The long tail.** Los Angeles Unified's winter recess runs through Friday, Jan. 8, and the second semester starts Monday, Jan. 11. The district notes that a school choosing Jan. 11 as a pupil-free day would bring students back Jan. 12 instead. In Dallas, Jan. 4 is still part of winter break and Jan. 5 is a professional development day, so classes resume Wednesday, Jan. 6. Duval County also returns Jan. 6 after two staff days.
 
@@ -142,6 +155,7 @@ Independent school districts are the usual form of school district in Texas. "Pl
 
 - **Gwinnett County:** The student calendar lists winter break as Dec. 21 through Jan. 4. A separate staff calendar shows different dates for employees.
 - **Wake County:** The dates are for the traditional calendar. Year-round and modified-calendar schools have different breaks.
+- **Cobb County and Austin ISD:** Both list the break through Monday, Jan. 4, without a separate return day. Austin marks Jan. 4 as a staff development day and student holiday. Cobb's Important Dates page prints Jan. 4 as a "Friday," but Jan. 4, 2027 is a Monday.
 - **Broward County:** The district's calendar announcement gives the Dec. 21-Jan. 1 break but not the first day back; check the full calendar on the district site.
 - **South Florida:** Miami-Dade, Broward and Palm Beach also share spring break, March 22-26, 2027. See our [Miami-Dade](/news/miami-dade-school-calendar-2026-27-breaks/), [Broward](/news/broward-county-school-calendar-2026-27/) and [Palm Beach](/news/palm-beach-county-school-calendar-2026-27/) calendars.
 
@@ -149,7 +163,7 @@ For full-year calendars, see our stories on [NYC public schools](/news/nyc-publi
 
 ## Thanksgiving comes first
 
-Thanksgiving is Thursday, Nov. 26, 2026. Fourteen of these districts give students the whole week of Nov. 23-27 off, including Los Angeles, Miami-Dade, Houston, Gwinnett, Dallas, Denver and San Diego. Clark County, Fairfax County, Wake County and Charlotte-Mecklenburg close Nov. 25-27, and New York City, Chicago and Montgomery County close Nov. 26-27. Our [Thanksgiving break 2026](/news/thanksgiving-break-2026-school-districts-dates/) story has the full list. The printable below lists each one.
+Thanksgiving is Thursday, Nov. 26, 2026. Of the 21 districts with Thanksgiving dates in the printable, fourteen give students the whole week of Nov. 23-27 off, including Los Angeles, Miami-Dade, Houston, Gwinnett, Dallas, Denver and San Diego. Clark County, Fairfax County, Wake County and Charlotte-Mecklenburg close Nov. 25-27, and New York City, Chicago and Montgomery County close Nov. 26-27. Our [Thanksgiving break 2026](/news/thanksgiving-break-2026-school-districts-dates/) story has the full list. The printable below lists each one.
 
 ## Planning travel
 

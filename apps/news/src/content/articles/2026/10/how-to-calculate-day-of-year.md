@@ -4,7 +4,7 @@ seoTitle: "How to Calculate the Day of the Year (001 to 366)"
 description: "Day of the year is the days in completed months plus the day of the month: Oct. 30, 2026 is day 303. Get the month table, formula and leap-year shift."
 type: explainer
 publishedAt: "2026-10-30T08:25:00-04:00"
-authors: [jordan-bennett]
+authors: [jessica-hartwell]
 category: calendar-guides
 keywords: ["how to calculate the day of the year", "day of year", "ordinal date", "what day of the year is it", "day of year calculator"]
 hero:

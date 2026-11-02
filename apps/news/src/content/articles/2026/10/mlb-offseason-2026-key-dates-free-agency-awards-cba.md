@@ -5,7 +5,7 @@ description: "Major League Baseball (MLB) free agency opens Thursday, Oct. 29, 2
 type: explainer
 publishedAt: "2026-10-27T10:08:00-04:00"
 updatedAt: "2026-11-01T10:27:00-05:00"
-authors: [jordan-bennett]
+authors: [jessica-hartwell]
 category: sports
 keywords: ["MLB offseason key dates 2026", "when does MLB free agency start 2026", "MLB awards 2026 dates", "MLB CBA expiration December 1 2026"]
 hero:

@@ -5,7 +5,7 @@ description: "The Food and Drug Administration (FDA) classified a toothpaste rec
 type: news
 publishedAt: "2026-10-25T13:10:00-04:00"
 updatedAt: "2026-10-27T10:05:00-04:00"
-authors: [alex-morgan]
+authors: [christina-gerland]
 category: planning
 keywords: ["toothpaste recall 2026", "Brush Buddies toothpaste recall", "evo toothpaste recall", "FDA toothpaste recall"]
 dateline: "New York"

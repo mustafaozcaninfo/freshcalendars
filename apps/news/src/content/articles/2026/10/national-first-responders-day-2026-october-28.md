@@ -5,7 +5,7 @@ description: "National First Responders Day is Wednesday, Oct. 28, 2026. The Fed
 type: news
 publishedAt: "2026-10-28T07:43:00-04:00"
 updatedAt: "2026-11-01T05:33:00-05:00"
-authors: [alex-morgan]
+authors: [christina-gerland]
 category: holidays
 keywords: ["national first responders day", "first responders day 2026", "is today national first responders day", "october 28 first responders day"]
 dateline: "New York"

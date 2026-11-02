@@ -4,7 +4,7 @@ seoTitle: "CBS Holiday Specials 2026 Schedule: All 11 Dates"
 description: "CBS airs holiday specials from Sat., Nov. 14 to Dec. 31, 2026, starting with the Kids' Choice Awards (KCAs) at 8 p.m. Eastern Time (ET). See all 11 dates."
 type: news
 publishedAt: "2026-11-01T08:44:00-05:00"
-authors: [jordan-bennett]
+authors: [jessica-hartwell]
 category: entertainment
 keywords: ["CBS holiday specials 2026 schedule", "Kids' Choice Awards 2026 date time CBS", "Pillsbury Bake-Off 2026 CBS", "New Year's Eve Live Nashville's Big Bash 2026", "Soul Train Awards 2026 CBS"]
 dateline: "New York"

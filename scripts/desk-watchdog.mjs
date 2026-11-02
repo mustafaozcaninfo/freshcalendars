@@ -1,0 +1,179 @@
+#!/usr/bin/env node
+/**
+ * Desk watchdog (docs/DESK.md "Watchdog", .github/workflows/desk-watchdog.yml). A writer or puzzle
+ * session can end before its pull request merges; nothing else would notice. Each run:
+ *  1. desk pull requests ([W1]..., Puzzles ...): merge main into a conflicting one when only the
+ *     queue files or KEY_DATES conflict (both sides kept), start CI where none ran, merge one that
+ *     has been green for GRACE minutes, then start CI on main so it publishes;
+ *  2. delete claim branches the "Claiming" rules free (ticked, blocked, stalled) and branches
+ *     already in main;
+ *  3. write what needs a person (red CI, other conflicts, silent writers, blocked items) to the
+ *     "Desk watchdog" issue.
+ * Pushes and merges made with the Actions token start no workflows, so CI is started by hand.
+ * Usage: node scripts/desk-watchdog.mjs [--dry-run]
+ */
+import { execFileSync, spawnSync } from "node:child_process";
+import { appendFileSync, writeFileSync } from "node:fs";
+import { tmpdir } from "node:os";
+import path from "node:path";
+
+const DRY = process.argv.includes("--dry-run");
+const NOW = Date.now();
+const MIN = 60e3;
+const H = 60 * MIN;
+const GRACE = 20 * MIN;      // the session itself merges right after CI; give it the first chance
+const NO_CI = 20 * MIN;      // a head commit this old with no checks never got a CI run
+const STALL = 3 * H;         // docs/DESK.md "Claiming"
+const SILENT = 8 * H;        // writers run every 6 h; one missed run shows here
+const OLD_MERGED = 6 * H;    // a branch in main younger than this may be a run that has not committed yet
+const DESK_PR = /^(\[W\d\]|Puzzles\b)/;
+// Lines both sides add to these files belong together (docs/DESK.md "Writer rules").
+const UNION = ["docs/desk/*.md", "apps/news/src/lib/keydates.ts"];
+
+const run = (cmd, args) => execFileSync(cmd, args, { encoding: "utf8", stdio: ["ignore", "pipe", "pipe"] }).trim();
+const git = (...a) => run("git", a);
+const gh = (...a) => run("gh", a);
+const did = [];
+const attention = [];
+const act = (msg, fn) => {
+  console.log(`${DRY ? "[dry run] " : ""}${msg}`);
+  did.push(msg);
+  if (!DRY) fn();
+};
+const ago = (t) => `${Math.round((NOW - t) / H * 10) / 10} h ago`;
+
+git("fetch", "-q", "--prune", "origin", "+refs/heads/*:refs/remotes/origin/*");
+const commitTime = (ref) => Number(git("log", "-1", "--format=%ct", ref)) * 1000;
+const inMain = (ref) => spawnSync("git", ["merge-base", "--is-ancestor", ref, "origin/main"]).status === 0;
+
+// Queue items on main: id -> { writer, state: open | done | blocked, text }.
+const items = new Map();
+const writers = [];
+for (const f of git("ls-tree", "--name-only", "origin/main", "docs/desk/").split("\n")) {
+  const m = path.basename(f).match(/^(w\d)\.md$/);
+  if (!m) continue;
+  writers.push(m[1]);
+  for (const line of git("show", `origin/main:${f}`).split("\n")) {
+    const it = line.match(/^- \[( |x)\] \*\*([^*]+)\*\*\s*(.*)$/);
+    if (!it) continue;
+    const state = it[1] === "x" ? "done" : /^\(blocked/.test(it[3]) ? "blocked" : "open";
+    items.set(it[2], { writer: m[1], state, text: it[3] });
+  }
+}
+
+const prs = JSON.parse(gh("pr", "list", "--state", "open", "--limit", "100",
+  "--json", "number,title,headRefName,headRefOid,isDraft,mergeable,statusCheckRollup"));
+const openHeads = new Set(prs.map((p) => p.headRefName));
+
+// 1. Desk pull requests.
+let merged = 0;
+for (const pr of prs) {
+  if (pr.isDraft || !DESK_PR.test(pr.title)) continue;
+  const tag = `#${pr.number} ${pr.title.slice(0, 70)}`;
+  const ref = `origin/${pr.headRefName}`;
+  if (pr.mergeable === "CONFLICTING") { mergeMain(pr, tag); continue; }
+  if (pr.mergeable !== "MERGEABLE") continue; // GitHub is still working it out; next run
+  const checks = (pr.statusCheckRollup ?? []).map((c) => ({
+    name: c.name ?? c.context,
+    done: c.status ? c.status === "COMPLETED" : c.state !== "PENDING",
+    ok: ["SUCCESS", "SKIPPED", "NEUTRAL"].includes(c.conclusion ?? c.state),
+    at: Date.parse(c.completedAt ?? c.startedAt ?? 0) || 0,
+  }));
+  if (!checks.length) {
+    if (NOW - commitTime(ref) > NO_CI) act(`${tag}: no CI ran on ${pr.headRefOid.slice(0, 8)}; starting it`,
+      () => gh("workflow", "run", "ci.yml", "--ref", pr.headRefName));
+    continue;
+  }
+  if (checks.some((c) => !c.done)) continue;
+  const failed = checks.filter((c) => !c.ok).map((c) => c.name);
+  if (failed.length) { attention.push(`${tag}: CI failed (${failed.join(", ")}); needs a fix commit`); continue; }
+  const green = Math.max(...checks.map((c) => c.at));
+  if (NOW - green < GRACE) continue;
+  act(`${tag}: green since ${ago(green)}; merging`, () => {
+    gh("pr", "merge", String(pr.number), "--merge");
+    git("push", "-q", "origin", "--delete", pr.headRefName);
+    openHeads.delete(pr.headRefName);
+  });
+  merged++;
+}
+if (merged) act("starting CI on main so the merged stories publish", () => gh("workflow", "run", "ci.yml", "--ref", "main"));
+
+/** Merges main into a conflicting desk branch when only UNION files conflict, then starts its CI. */
+function mergeMain(pr, tag) {
+  const b = pr.headRefName;
+  const dir = path.join(tmpdir(), `desk-watchdog-${pr.number}`);
+  git("worktree", "add", "-q", "-f", "--detach", dir, `origin/${b}`);
+  try {
+    const attrs = path.join(tmpdir(), "desk-watchdog.attributes");
+    writeFileSync(attrs, UNION.map((p) => `${p} merge=union\n`).join(""));
+    const wt = (...a) => execFileSync("git", ["-C", dir, ...a], { encoding: "utf8", stdio: ["ignore", "pipe", "pipe"] }).trim();
+    wt("-c", `core.attributesFile=${attrs}`, "-c", "user.name=github-actions[bot]",
+      "-c", "user.email=41898282+github-actions[bot]@users.noreply.github.com", "merge", "--no-edit", "-m", "Merge main (desk watchdog: queue and KEY_DATES lines from both sides)", "origin/main");
+    act(`${tag}: conflicted with main in queue/KEY_DATES lines only; merged main, kept both sides, starting CI`, () => {
+      wt("push", "-q", "origin", `HEAD:refs/heads/${b}`);
+      gh("workflow", "run", "ci.yml", "--ref", b);
+    });
+  } catch {
+    const left = spawnSync("git", ["-C", dir, "diff", "--name-only", "--diff-filter=U"], { encoding: "utf8" }).stdout.trim();
+    attention.push(`${tag}: conflicts with main in ${left.split("\n").join(", ") || "files"}; needs a person`);
+  } finally {
+    git("worktree", "remove", "-f", dir);
+  }
+}
+
+// 2. Branches.
+const branches = git("for-each-ref", "--format=%(refname:short) %(committerdate:unix)", "refs/remotes/origin/claude/")
+  .split("\n").filter(Boolean).map((l) => {
+    const [ref, t] = l.split(" ");
+    return { ref, name: ref.replace(/^origin\//, ""), time: Number(t) * 1000 };
+  });
+const writerBusy = (w) => prs.some((p) => p.title.startsWith(`[${w.toUpperCase()}]`))
+  || branches.some((b) => b.name.startsWith(`claude/desk-run-${w}-`) && NOW - b.time < STALL);
+const cleaned = []; // branches already in main: nothing is lost, so they are only counted
+for (const b of branches) {
+  if (openHeads.has(b.name)) continue;
+  let why = null;
+  const claim = b.name.match(/^claude\/desk-(?!run-)(.+)$/);
+  if (claim) {
+    const item = items.get(claim[1]);
+    if (!item) { if (NOW - b.time > 24 * H) attention.push(`claim ${b.name} has no item in a queue file on main (${ago(b.time)})`); }
+    else if (item.state === "done") why = "item ticked";
+    else if (item.state === "blocked") why = "item blocked";
+    else if (NOW - b.time > STALL && !writerBusy(item.writer)) why = `stalled, newest commit ${ago(b.time)}`;
+  } else if (inMain(b.ref) && NOW - b.time > OLD_MERGED) why = "already in main";
+  else if (/^claude\/desk-run-/.test(b.name) && NOW - b.time > 24 * H) {
+    attention.push(`${b.name}: unmerged run with no pull request (${ago(b.time)})`);
+  }
+  if (why === "already in main") { if (!DRY) git("push", "-q", "origin", "--delete", b.name); cleaned.push(b.name); }
+  else if (why) act(`delete ${b.name}: ${why}`, () => git("push", "-q", "origin", "--delete", b.name));
+}
+
+// 3. Report.
+const recent = JSON.parse(gh("pr", "list", "--state", "all", "--limit", "150", "--json", "title,createdAt"));
+for (const w of writers) {
+  const times = recent.filter((p) => p.title.startsWith(`[${w.toUpperCase()}]`)).map((p) => Date.parse(p.createdAt))
+    .concat(branches.filter((b) => b.name.startsWith("claude/desk-") && items.get(b.name.slice(12))?.writer === w).map((b) => b.time));
+  const last = Math.max(0, ...times);
+  if (NOW - last > SILENT) attention.push(`${w.toUpperCase()}: no pull request or claim for ${last ? ago(last).replace(" ago", "") : "a long time"}; check its routine`);
+}
+const blocked = [...items].filter(([, it]) => it.state === "blocked")
+  .map(([id, it]) => `- ${it.writer.toUpperCase()} \`${id}\` ${it.text.match(/^\(([^)]*)\)/)?.[1] ?? ""}`);
+
+const stamp = new Date(NOW).toISOString().slice(0, 16).replace("T", " ") + " UTC";
+const body = [
+  `Updated by the desk watchdog (\`scripts/desk-watchdog.mjs\`), last check ${stamp}. See docs/DESK.md "Watchdog".`,
+  "", "## Needs a person", "", ...(attention.length ? attention.map((a) => `- ${a}`) : ["Nothing."]),
+  "", "## Done in the last check", "", ...(did.length ? did.map((d) => `- ${d}`) : ["Nothing to do."]),
+  ...(cleaned.length ? ["", `${DRY ? "Would delete" : "Deleted"} ${cleaned.length} branch(es) already in main.`] : []),
+  "", "## Blocked items (the manager unblocks them)", "", ...(blocked.length ? blocked : ["None."]), "",
+].join("\n");
+console.log(`\n${body}`);
+if (process.env.GITHUB_STEP_SUMMARY) appendFileSync(process.env.GITHUB_STEP_SUMMARY, body);
+if (!DRY) {
+  const file = path.join(tmpdir(), "desk-watchdog.md");
+  writeFileSync(file, body);
+  const issue = JSON.parse(gh("issue", "list", "--state", "open", "--search", "\"Desk watchdog\" in:title", "--json", "number,title"))
+    .find((i) => i.title === "Desk watchdog");
+  if (issue) gh("issue", "edit", String(issue.number), "--body-file", file);
+  else gh("issue", "create", "--title", "Desk watchdog", "--body-file", file);
+}

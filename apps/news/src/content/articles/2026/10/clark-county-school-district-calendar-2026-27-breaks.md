@@ -4,7 +4,7 @@ seoTitle: "CCSD Calendar 2026-27: Breaks and No-School Days"
 description: "Clark County School District (CCSD) 2026-27: no school Fri., Oct. 30 for Nevada Day, winter break Dec. 21 to Jan. 1, spring break March 15-19, last day May 20."
 type: news
 publishedAt: "2026-10-26T16:40:00-04:00"
-authors: [emily-carter]
+authors: [aaron-kessler]
 category: school-calendars
 keywords: ["CCSD calendar 2026-27", "Clark County School District calendar 2026-2027", "CCSD winter break 2026", "CCSD spring break 2027", "Nevada Day 2026 no school"]
 dateline: "Las Vegas"

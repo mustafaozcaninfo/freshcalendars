@@ -4,7 +4,7 @@ seoTitle: "College Basketball 2026-27 Key Dates and Printable"
 description: "The 2026-27 college basketball season opens Sun., Nov. 1, 2026 in Rome; the National Collegiate Athletic Association (NCAA) title games are Apr. 4 and 5, 2027."
 type: explainer
 publishedAt: "2026-10-27T17:45:00-04:00"
-authors: [jordan-bennett]
+authors: [jessica-hartwell]
 category: sports
 keywords: ["when does college basketball start 2026", "college basketball season start date", "march madness 2027 dates", "2027 final four dates", "selection sunday 2027"]
 dateline: "New York"

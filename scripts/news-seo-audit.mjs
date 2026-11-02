@@ -338,6 +338,28 @@ check("07-NO-FAKE-EXPERTS", "No invented people: every Person is a confirmed aut
     const bad = nodes(h).filter((n) => n["@type"] === "Person" && !confirmedPeople.has(n["@id"]));
     return bad.length ? `unconfirmed Person ${bad.map((n) => n.name ?? n["@id"]).join(", ")}` : null;
   }));
+// One category, one editor (docs/DESK.md): a story's byline is the author whose `categories` list
+// holds its category, so author pages stay on topic. Read from the sources, not the build.
+check("07-BYLINE-CATEGORY", "Each story is bylined by the editor who owns its category (authors/*.json categories)", () => {
+  const owner = new Map();
+  for (const f of readdirSync(authorsDir).filter((f) => f.endsWith(".json"))) {
+    for (const c of JSON.parse(readFileSync(path.join(authorsDir, f), "utf8")).categories ?? []) owner.set(c, f.replace(/\.json$/, ""));
+  }
+  owner.set("puzzles", "news-desk");
+  const bad = [];
+  (function walk(dir) {
+    for (const f of readdirSync(dir)) {
+      const p = path.join(dir, f);
+      if (statSync(p).isDirectory()) { walk(p); continue; }
+      if (!f.endsWith(".md")) continue;
+      const src = readFileSync(p, "utf8");
+      const cat = /^category:\s*"?([a-z-]+)/m.exec(src)?.[1];
+      const by = /^authors:\s*\[([a-z-]+)/m.exec(src)?.[1];
+      if (cat && owner.has(cat) && by !== owner.get(cat)) bad.push(`${f}: ${by} on ${cat} (owner ${owner.get(cat)})`);
+    }
+  })(ARTICLES_SRC);
+  return bad;
+});
 check("07-TRUST-PAGES", "About / editorial / corrections / masthead pages exist and are linked from the Organization (§07 entity checklist)", () => {
   const need = ["/news/about/", "/news/editorial-policy/", "/news/corrections-policy/", "/news/masthead/"];
   const miss = need.filter((u) => !html[u]);

@@ -5,7 +5,7 @@ description: "Make A Difference Day is Saturday, Oct. 24, 2026. Projects are org
 type: explainer
 publishedAt: "2026-10-23T02:41:00-04:00"
 updatedAt: "2026-10-25T17:35:00-04:00"
-authors: [alex-morgan]
+authors: [christina-gerland]
 category: holidays
 keywords: ["Make A Difference Day 2026", "Make A Difference Day October 24", "volunteer opportunities near me", "fourth Saturday of October"]
 dateline: "New York"

@@ -1,0 +1,18 @@
+{
+  "kind": "Person",
+  "name": "Jessica Hartwell",
+  "role": "News Editor, Time, Seasonal Events, Sports, Entertainment & Data",
+  "bio": "Jessica Hartwell is the News Editor for time, seasonal events, sports, entertainment and data at Fresh Calendars News. Jessica leads coverage of daylight saving time and time zones, solstices, eclipses and night-sky events, retail dates such as Black Friday, sports and event schedules, streaming and game release calendars, and movable dates such as Easter. Jessica's data-led explainers state the source, period and method behind each table, check times against official timekeeping, league and publisher sources, and separate what the data shows from what it cannot prove.",
+  "photo": "../../assets/authors/jessica-hartwell.png",
+  "confirmedAt": "2026-11-02",
+  "email": "jessica@freshcalendars.com",
+  "categories": [
+    "time-change",
+    "sky-events",
+    "calendar-guides",
+    "retail-dates",
+    "entertainment",
+    "gaming-tech",
+    "sports"
+  ]
+}

@@ -5,7 +5,7 @@ description: "The Food and Drug Administration (FDA) says do not buy or serve On
 type: news
 publishedAt: "2026-10-31T16:45:00-04:00"
 updatedAt: "2026-10-31T17:16:00-04:00"
-authors: [alex-morgan]
+authors: [christina-gerland]
 category: planning
 keywords: ["Once Upon a Farm recall", "Tractor Wheels recall", "Once Upon a Farm FDA warning", "Tractor Wheels toddler bars choking", "Once Upon a Farm refund"]
 dateline: "New York"

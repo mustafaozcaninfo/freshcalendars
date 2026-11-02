@@ -4,7 +4,7 @@ seoTitle: "McDonald's Pokémon Happy Meal 2026: Release, Toys, Cards"
 description: "The Pokémon Company says Pokémon Happy Meals return to McDonald's in November 2026 with 15 toys and 15 cards; reports put the U.S. start at Tue., Nov. 10."
 type: news
 publishedAt: "2026-10-31T17:20:00-04:00"
-authors: [jordan-bennett]
+authors: [jessica-hartwell]
 category: retail-dates
 keywords: ["mcdonald's pokémon happy meal 2026", "pokémon happy meal release date", "mcdonald's pokémon cards 2026", "pokémon happy meal toys"]
 assets:

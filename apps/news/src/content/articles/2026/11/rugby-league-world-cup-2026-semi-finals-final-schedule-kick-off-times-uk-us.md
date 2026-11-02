@@ -4,7 +4,7 @@ seoTitle: "Rugby League World Cup 2026 Semi-Final and Final Times"
 description: "Rugby League World Cup 2026 semi-finals are Nov. 7 and 8 at 9:05am Greenwich Mean Time (GMT), 4:05 a.m. Eastern Time (ET); the men's final is Nov. 15."
 type: news
 publishedAt: "2026-11-01T04:48:00-05:00"
-authors: [jordan-bennett]
+authors: [jessica-hartwell]
 category: sports
 keywords: ["rugby league world cup 2026 semi final", "rugby league world cup final 2026 kick off time uk", "tonga vs samoa", "rugby league world cup 2026 schedule"]
 dateline: "Sydney"

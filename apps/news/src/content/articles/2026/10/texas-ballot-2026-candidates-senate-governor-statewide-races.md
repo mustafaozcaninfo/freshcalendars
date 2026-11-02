@@ -4,7 +4,7 @@ seoTitle: "Texas Ballot 2026: Candidates for Senate and Governor"
 description: "Who is on the Texas ballot on Nov. 3, 2026: U.S. Senate, governor, attorney general and every statewide race and court seat, as certified by the state."
 type: explainer
 publishedAt: "2026-10-21T11:58:00-04:00"
-authors: [alex-morgan]
+authors: [christina-gerland]
 category: elections
 keywords: ["Texas ballot 2026", "Texas candidates 2026", "Texas governor race 2026 candidates", "Texas Senate race 2026 candidates", "Texas propositions 2026"]
 dateline: "Austin, Texas"
@@ -58,7 +58,7 @@ internalLinks:
     label: "October 2026 printable calendar"
   - href: "/printable-weekly-calendar.html"
     label: "Printable weekly planner"
-related: [sample-ballot-by-zip-code-2026-texas-ballot, what-time-do-polls-close-election-day-2026, 2026-midterm-elections-whats-on-the-ballot-results-tracker]
+related: [texas-election-results-2026-polls-close-where-to-follow-canvass-dates, sample-ballot-by-zip-code-2026-texas-ballot, 2026-midterm-elections-whats-on-the-ballot-results-tracker]
 downloads:
   - group: "Election 2026 printables"
     title: "Texas Ballot Checklist, Nov. 3, 2026"

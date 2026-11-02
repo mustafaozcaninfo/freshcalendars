@@ -4,7 +4,7 @@ seoTitle: "Spring Break 2027 Dates for Big School Districts"
 description: "Spring break 2027 in 10 big U.S. school districts: five are off Mar. 22-26, Houston Mar. 8-12, Gwinnett Apr. 5-9 and New York City Apr. 22-30."
 type: news
 publishedAt: "2026-10-26T08:45:00-04:00"
-authors: [emily-carter]
+authors: [aaron-kessler]
 category: school-calendars
 keywords: ["spring break 2027", "spring break 2027 dates", "when is spring break 2027", "spring break 2027 school districts"]
 dateline: "New York"
@@ -76,7 +76,7 @@ internalLinks:
     label: "April 2027 printable calendar"
   - href: "/when-is/easter/"
     label: "When is Easter?"
-related: [winter-break-2026-school-districts-dates, nyc-public-schools-calendar-2026-27-breaks-holidays, chicago-public-schools-calendar-2026-27-breaks]
+related: [winter-break-2026-school-districts-dates, nyc-public-schools-calendar-2026-27-breaks-holidays, lausd-calendar-2026-27-winter-break-spring-break]
 assets:
   overlay: true
   kicker: "Spring break 2027"

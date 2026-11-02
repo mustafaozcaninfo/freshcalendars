@@ -5,7 +5,7 @@ description: "In-person early voting in Massachusetts ended Oct. 30, 2026, and E
 type: news
 publishedAt: "2026-10-30T13:48:00-04:00"
 updatedAt: "2026-11-01T02:41:00-05:00"
-authors: [alex-morgan]
+authors: [christina-gerland]
 category: elections
 keywords: ["Massachusetts ballot questions 2026", "Massachusetts question 3 2026 primary", "Massachusetts early voting ends", "Massachusetts ballot question 8 marijuana 2026", "Massachusetts question 9 firearms"]
 dateline: "Boston, Mass."

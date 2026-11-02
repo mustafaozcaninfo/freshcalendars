@@ -5,7 +5,7 @@ description: "Holidays in December 2026: Hanukkah from Dec. 4, the solstice Dec.
 type: explainer
 publishedAt: "2026-10-24T17:00:00-04:00"
 updatedAt: "2026-10-27T03:03:00-04:00"
-authors: [jordan-bennett]
+authors: [jessica-hartwell]
 category: calendar-guides
 keywords: ["December 2026 holidays", "December 2026 important dates", "holidays in December 2026", "days until Christmas 2026", "Christmas 2026 day of week"]
 dateline: "New York"
@@ -144,7 +144,7 @@ The Geminid meteor shower peaks the night of Dec. 13-14 with the Moon only about
 
 ## Deadlines that land in December
 
-- **Dec. 7, Medicare:** open enrollment, which began Oct. 15, ends on Monday; changes take effect Jan. 1, 2027. Details are in our [Medicare open enrollment story](/news/medicare-open-enrollment-2026-december-7-90-dollar-rebate/).
+- **Dec. 7, Medicare:** open enrollment, which began Oct. 15, ends on Monday; changes take effect Jan. 1, 2027. Details are in our [Medicare open enrollment story](/news/medicare-open-enrollment-2026-december-7-90-dollar-rebate/). The same day is National Pearl Harbor Remembrance Day; see [flags at half-staff on Dec. 7](/news/national-pearl-harbor-remembrance-day-2026-december-7-flags-half-staff/).
 - **Dec. 11, federal funding:** agencies are funded through Friday, Dec. 11, under the stopgap law signed Sept. 2. Our report on the [December funding deadline](/news/government-funding-deadline-december-11-2026-shutdown/) explains what lapses if Congress does not act.
 - **Dec. 15, HealthCare.gov:** pick a Marketplace plan by Tuesday for coverage that starts Jan. 1. Open enrollment continues to Jan. 15, with coverage from Feb. 1; see our [Affordable Care Act (ACA) open enrollment guide](/news/aca-open-enrollment-2027-dates-november-1-january-15/).
 - **Dec. 9 to 19, holiday mail:** the Postal Service recommends Ground Advantage and First-Class Mail by Dec. 17, Priority Mail by Dec. 18 and Priority Mail Express by Dec. 19 for delivery by Christmas in the lower 48 states. Every date is in our [USPS holiday shipping deadlines](/news/usps-holiday-shipping-deadlines-2026/) story.

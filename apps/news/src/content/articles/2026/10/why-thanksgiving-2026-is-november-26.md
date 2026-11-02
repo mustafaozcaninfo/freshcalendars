@@ -5,7 +5,7 @@ description: "Thanksgiving 2026 is Thursday, Nov. 26, the fourth Thursday of Nov
 type: explainer
 publishedAt: "2026-10-17T16:30:00-04:00"
 updatedAt: "2026-10-30T13:15:00-04:00"
-authors: [alex-morgan]
+authors: [christina-gerland]
 category: holidays
 keywords: ["thanksgiving 2026", "what day is thanksgiving 2026", "thanksgiving dates 2026 to 2035", "why is thanksgiving on the 26th this year", "is the day after thanksgiving a holiday"]
 dateline: "New York"

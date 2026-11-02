@@ -5,7 +5,7 @@ description: "Day of the Dead 2026 is Sunday, Nov. 1 and Monday, Nov. 2. The dat
 type: explainer
 publishedAt: "2026-10-19T10:35:00-04:00"
 updatedAt: "2026-10-30T08:40:00-04:00"
-authors: [alex-morgan]
+authors: [christina-gerland]
 category: holidays
 keywords: ["Day of the Dead 2026", "Día de los Muertos 2026", "Day of the Dead pets October 27", "Day of the Dead San Antonio 2026", "Day of the Dead 2026 calendar"]
 dateline: "New York"

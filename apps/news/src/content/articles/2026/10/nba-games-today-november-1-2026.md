@@ -4,7 +4,7 @@ seoTitle: "NBA Games Today, Nov. 1, 2026: Times and TV"
 description: "National Basketball Association (NBA) games Sunday, Nov. 1, 2026: 4 games, first tip-off 3:30 p.m. Eastern Time (ET), last 9:00 p.m. ET, with time zones and TV."
 type: news
 publishedAt: "2026-10-30T01:58:00-04:00"
-authors: [jordan-bennett]
+authors: [jessica-hartwell]
 category: sports
 keywords: ["NBA games today November 1 2026", "NBA schedule November 1 2026", "NBA games Sunday", "NBA games after clocks fall back", "printable NBA schedule"]
 dateline: "New York"

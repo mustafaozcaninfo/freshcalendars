@@ -43,6 +43,13 @@ select:not([multiple]):not([size]){-webkit-appearance:none;appearance:none;backg
 .search-results a:hover,.search-results a:focus{background:var(--surface-tint)}
 .search-results small{color:var(--muted);font-size:11px}
 .search-empty{padding:10px;font-size:12px}
+.search-group{padding:12px 10px 4px;border-top:1px solid var(--line-soft);font-size:10px;font-weight:700;letter-spacing:.08em;text-transform:uppercase;color:var(--muted)}
+.search-group:first-child{border-top:0;padding-top:8px}
+.search-excerpt{margin:2px 0 0;color:var(--ink);font-size:12px;line-height:1.45;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden}
+.search-excerpt mark{background:#fde68a;color:#0e2135;border-radius:2px;padding:0 1px}
+html[data-theme=dark] .search-excerpt mark{background:#6b5200;color:#fff}
+/* Story-text results carry a two-line excerpt; the header box is too narrow for it on desktop. */
+@media(min-width:900px){.site-search .search-results.has-text{left:auto;width:min(520px,calc(100vw - 32px))}}
 .sr-only{position:absolute;width:1px;height:1px;overflow:hidden;clip-path:inset(50%);white-space:nowrap}
 .header-utilities{display:flex;align-items:center;gap:18px;flex-shrink:0;margin-left:5px}
 .theme-toggle{display:grid;place-items:center;min-width:32px;min-height:40px;border:0;background:none;color:var(--ink-strong);cursor:pointer}

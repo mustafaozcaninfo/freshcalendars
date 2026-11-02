@@ -4,7 +4,7 @@ seoTitle: "London Christmas Lights Switch-On 2026 Dates"
 description: "Carnaby Street switches on Wednesday 4 November 2026, Regent Street on 5 November and Covent Garden on 12 November; times in GMT and Eastern Time (ET)."
 type: news
 publishedAt: "2026-10-28T23:45:00-04:00"
-authors: [alex-morgan]
+authors: [christina-gerland]
 category: uk-canada
 keywords: ["London Christmas lights switch on 2026", "Regent Street Christmas lights 2026", "Carnaby Christmas lights 2026", "Covent Garden lights switch on 2026", "Christmas lights switch on dates 2026 UK"]
 dateline: "London"
@@ -60,7 +60,7 @@ faq:
     a: "Thursday 12 November 2026, according to Covent Garden. The page gives no time and says to stay tuned for more information."
   - q: "When is the Trafalgar Square Christmas tree lit in 2026?"
     a: "The 2026 date has not been announced. In 2025, the City of Oslo said the lighting ceremony would take place on Thursday 4 December at 18:00."
-related: [hyde-park-winter-wonderland-2026-dates-opening-times-tickets, manchester-birmingham-christmas-markets-2026-dates-opening-times, coca-cola-christmas-truck-tour-2026-uk-vote-closes-3-november-dates]
+related: [hyde-park-winter-wonderland-2026-dates-opening-times-tickets, manchester-birmingham-christmas-markets-2026-dates-opening-times, fenwick-christmas-window-2026-newcastle-public-viewing-monday-2-november]
 internalLinks:
   - href: "/december-calendars.html"
     label: "December 2026 printable calendar"

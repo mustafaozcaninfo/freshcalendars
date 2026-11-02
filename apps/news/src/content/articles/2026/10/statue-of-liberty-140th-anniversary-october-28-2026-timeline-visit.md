@@ -5,7 +5,7 @@ description: "Oct. 28, 2026 is 140 years since the Statue of Liberty was dedicat
 type: explainer
 publishedAt: "2026-10-27T17:40:00-04:00"
 updatedAt: "2026-10-30T01:05:00-04:00"
-authors: [alex-morgan]
+authors: [christina-gerland]
 category: holidays
 keywords: ["statue of liberty 140th anniversary", "statue of liberty anniversary october 28", "when was the statue of liberty dedicated", "statue of liberty ticket prices 2026"]
 dateline: "New York"

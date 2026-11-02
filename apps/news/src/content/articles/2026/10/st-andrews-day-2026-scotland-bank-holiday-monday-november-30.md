@@ -4,7 +4,7 @@ seoTitle: "St Andrew's Day 2026: Scotland Bank Holiday Nov. 30"
 description: "St Andrew's Day is a bank holiday in Scotland on Monday, Nov. 30, 2026, with no substitute day, GOV.UK says. See dates for 2023 to 2028 and the weekend rule."
 type: explainer
 publishedAt: "2026-10-25T17:20:00-04:00"
-authors: [alex-morgan]
+authors: [christina-gerland]
 category: uk-canada
 keywords: ["St Andrew's Day 2026", "St Andrew's Day bank holiday 2026", "is St Andrew's Day a bank holiday", "Scotland bank holidays November 2026"]
 dateline: "Edinburgh"

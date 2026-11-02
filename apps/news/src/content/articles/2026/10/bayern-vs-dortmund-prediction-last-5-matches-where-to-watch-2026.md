@@ -5,7 +5,7 @@ description: "Bayern Munich and Borussia Dortmund drew 2-2 in Der Klassiker at t
 type: news
 publishedAt: "2026-10-31T11:15:00-04:00"
 updatedAt: "2026-11-01T10:27:00-05:00"
-authors: [jordan-bennett]
+authors: [jessica-hartwell]
 category: sports
 keywords: ["bayern vs dortmund", "bayern vs dortmund prediction", "bayern vs dortmund last 5 matches", "bayern vs dortmund where to watch", "der klassiker 2026"]
 assets:

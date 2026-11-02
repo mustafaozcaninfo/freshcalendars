@@ -4,7 +4,7 @@ seoTitle: "Mercury Retrograde 2026 Ends Nov. 13: Dates and Times"
 description: "Mercury turns direct Nov. 13, 2026, about 11 a.m. Eastern Time (ET), per NASA Jet Propulsion Laboratory (JPL) data. Dates for 2026 and 2027 in ET and PT."
 type: explainer
 publishedAt: "2026-10-29T10:05:00-04:00"
-authors: [jordan-bennett]
+authors: [jessica-hartwell]
 category: sky-events
 keywords: ["mercury retrograde november 2026", "when does mercury retrograde end 2026", "mercury retrograde 2027 dates", "is mercury in retrograde right now"]
 dateline: "New York"

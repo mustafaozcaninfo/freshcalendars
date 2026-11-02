@@ -4,7 +4,7 @@ seoTitle: "NBA Games Today, Oct. 29, 2026: Times and TV"
 description: "National Basketball Association (NBA) games today, Oct. 29, 2026: three games, tip-offs at 8:00 and 10:00 p.m. Eastern Time (ET), with TV for each game."
 type: news
 publishedAt: "2026-10-29T16:10:00-04:00"
-authors: [jordan-bennett]
+authors: [jessica-hartwell]
 category: sports
 keywords: ["NBA games today", "NBA games tonight", "NBA schedule October 29 2026", "NBA TV schedule today", "printable NBA schedule"]
 dateline: "Atlanta"

@@ -5,7 +5,7 @@ description: "Election Day 2026 in Pennsylvania is Tuesday, Nov. 3; polls open 7
 type: explainer
 publishedAt: "2026-10-20T11:20:00-04:00"
 updatedAt: "2026-10-28T16:12:00-04:00"
-authors: [alex-morgan]
+authors: [christina-gerland]
 category: elections
 keywords: ["when is election day 2026 in pennsylvania", "Pennsylvania election 2026", "Pennsylvania mail ballot deadline 2026", "PA governor race 2026", "Pennsylvania early voting 2026"]
 dateline: "Harrisburg, Pa."

@@ -4,7 +4,7 @@ seoTitle: "Bank of England Interest Rate Dates 2027 and 5 Nov. 2026"
 description: "The Bank of England's Monetary Policy Committee (MPC) announces its next rate decision on Thursday 5 November 2026, then 17 December; 2027 has eight dates."
 type: news
 publishedAt: "2026-10-26T20:37:00-04:00"
-authors: [alex-morgan]
+authors: [christina-gerland]
 category: uk-canada
 dateline: "London"
 keywords: ["bank of england interest rate dates 2027", "next bank of england interest rate decision", "mpc dates 2027", "bank of england 5 november 2026", "boe rate decision dates"]

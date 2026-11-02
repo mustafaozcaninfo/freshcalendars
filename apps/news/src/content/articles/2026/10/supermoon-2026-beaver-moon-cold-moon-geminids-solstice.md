@@ -4,7 +4,7 @@ seoTitle: "Supermoon 2026: Beaver Moon, Cold Moon, Geminids"
 description: "Two supermoons end 2026: the Beaver Moon Nov. 24 and Cold Moon Dec. 23, plus the Geminids on Dec. 13-14 and the winter solstice Dec. 21, in Eastern Time (ET)."
 type: explainer
 publishedAt: "2026-10-24T00:50:00-04:00"
-authors: [jordan-bennett]
+authors: [jessica-hartwell]
 category: sky-events
 keywords: ["supermoon november 2026", "beaver moon 2026", "cold moon december 2026", "geminid meteor shower 2026", "winter solstice 2026"]
 dateline: "New York"
@@ -83,7 +83,7 @@ internalLinks:
     label: "December 2026 printable calendar"
   - href: "/printable-yearly-calendar.html"
     label: "2027 printable yearly calendar"
-related: [november-2026-meteor-showers-taurids-leonids, moon-phases-2027-full-moon-calendar, quadrantid-meteor-shower-2027-peak-wolf-moon]
+related: [november-2026-meteor-showers-taurids-leonids, geminid-meteor-shower-2026-peak-december-13-14-moon-viewing-times, quadrantid-meteor-shower-2027-peak-wolf-moon]
 downloads:
   - group: "Night Sky Calendar printables"
     title: "Night Sky Calendar, Nov.-Dec. 2026"

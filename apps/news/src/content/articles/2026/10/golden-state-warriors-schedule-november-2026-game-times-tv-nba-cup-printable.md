@@ -4,7 +4,7 @@ seoTitle: "Warriors Schedule November 2026: Times, TV, Cup"
 description: "The Warriors host the LA Clippers on Sun., Nov. 1, 2026, at 5:30 p.m. Pacific Time (PT), 8:30 p.m. Eastern Time (ET), with all 14 November games and times."
 type: explainer
 publishedAt: "2026-10-31T01:40:00-04:00"
-authors: [jordan-bennett]
+authors: [jessica-hartwell]
 category: sports
 keywords: ["warriors schedule november 2026", "warriors game tonight", "warriors schedule printable", "warriors nba cup schedule 2026"]
 dateline: "New York"
@@ -99,7 +99,7 @@ internalLinks:
     label: "November 2026 printable calendar"
   - href: "/printable-weekly-calendar.html"
     label: "Printable weekly calendar"
-related: [lakers-schedule-november-2026-game-times-tv-nba-cup-printable, nba-cup-2026-schedule-dates-group-play-knockouts-final-indianapolis, denver-nuggets-schedule-november-2026-game-times-tv-mexico-city-printable]
+related: [golden-state-warriors-schedule-december-2026-game-times-tv-christmas-printable, nba-cup-2026-schedule-dates-group-play-knockouts-final-indianapolis, denver-nuggets-schedule-november-2026-game-times-tv-mexico-city-printable]
 draft: false
 ---
 

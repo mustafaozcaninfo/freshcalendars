@@ -5,7 +5,7 @@ description: "Sam's Club's Thanksgiving meal goes on sale Oct. 28, 2026. Compare
 type: news
 publishedAt: "2026-10-28T01:47:00-04:00"
 updatedAt: "2026-11-01T05:38:00-05:00"
-authors: [jordan-bennett]
+authors: [jessica-hartwell]
 category: retail-dates
 keywords: ["Thanksgiving meal deals 2026", "Aldi Thanksgiving meal 2026", "Target $30 Thanksgiving meal", "Lidl Thanksgiving basket 2026", "Sam's Club Thanksgiving meal 2026"]
 dateline: "New York"

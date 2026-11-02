@@ -5,7 +5,7 @@ description: "National Weather Service (NWS) coastal flood warnings cover South 
 type: news
 publishedAt: "2026-10-27T07:45:00-04:00"
 updatedAt: "2026-10-30T01:05:00-04:00"
-authors: [jordan-bennett]
+authors: [jessica-hartwell]
 category: sky-events
 keywords: ["king tides 2026", "king tide dates 2026", "king tides this week", "California king tides November 2026", "when are king tides"]
 hero:

@@ -4,7 +4,7 @@ seoTitle: "Winter Fuel Payment 2026: Dates, Amounts, £35,000"
 description: "Winter Fuel Payment 2026 is £100 to £300 for people born on or before 27 June 1960, paid in Nov.-Dec. HM Revenue and Customs (HMRC) takes it back over £35,000."
 type: news
 publishedAt: "2026-10-26T12:25:00-04:00"
-authors: [alex-morgan]
+authors: [christina-gerland]
 category: uk-canada
 keywords: ["winter fuel payment 2026", "winter fuel payment 2026 dates", "when will winter fuel payment be paid 2026", "winter fuel payment £35,000", "winter fuel payment how much"]
 dateline: "London"

@@ -5,7 +5,7 @@ description: "Real gross domestic product (GDP) grew at a 3.4% annual rate in th
 type: news
 publishedAt: "2026-10-28T17:46:00-04:00"
 updatedAt: "2026-10-29T10:05:00-04:00"
-authors: [alex-morgan]
+authors: [aaron-kessler]
 category: money-benefits
 keywords: ["gdp report today", "gdp release october 29 2026", "q3 gdp release date 2026", "pce release date", "bea release schedule november 2026"]
 hero:

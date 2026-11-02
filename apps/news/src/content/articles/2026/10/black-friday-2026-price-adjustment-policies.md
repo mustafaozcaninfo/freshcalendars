@@ -4,7 +4,7 @@ seoTitle: "Black Friday 2026 Price Adjustment Policies"
 description: "Target adjusts a price drop for purchases from Nov. 1 through Dec. 24, 2026. Best Buy matches its own lower price, and Walmart.com does not refund later drops."
 type: explainer
 publishedAt: "2026-10-30T15:30:00-04:00"
-authors: [jordan-bennett]
+authors: [jessica-hartwell]
 category: retail-dates
 keywords: ["price adjustment policy black friday 2026", "does target refund price difference", "price drop after purchase", "best buy price adjustment 2026"]
 dateline: "New York"

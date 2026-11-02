@@ -4,7 +4,8 @@ seoTitle: "2026 Midterm Elections: What's on the Ballot Nov. 3"
 description: "The Nov. 3, 2026 midterms decide 35 Senate seats, all 435 House seats and 36 governors. Every race by state, dates after Election Day and a printable tracker."
 type: explainer
 publishedAt: "2026-10-20T11:00:00-04:00"
-authors: [alex-morgan]
+updatedAt: "2026-11-02T13:17:00-05:00"
+authors: [christina-gerland]
 category: elections
 keywords: ["2026 midterm elections", "senate seats up in 2026", "governor races 2026", "midterm election 2026 date", "election night tracker printable"]
 dateline: "Washington"
@@ -54,7 +55,7 @@ internalLinks:
     label: "December 2026 printable calendar"
   - href: "/printable-yearly-calendar.html"
     label: "2027 printable yearly calendar"
-related: [what-time-do-polls-close-election-day-2026, mail-ballot-deadlines-2026-by-state, massachusetts-ballot-questions-2026-what-yes-no-votes-do-early-voting-ends-october-30]
+related: [what-time-do-polls-close-election-day-2026, what-is-a-midterm-election-2026-what-the-nov-3-vote-decides, mail-ballot-deadlines-2026-by-state]
 downloads:
   - group: "Election 2026 printables"
     title: "Election Night Tracker 2026"
@@ -102,7 +103,7 @@ For what is on specific state ballots, see our guides to [California's 14 propos
 
 ## Election night and after
 
-Polls close from 6 p.m. Eastern in parts of Indiana and Kentucky to 1 a.m. Eastern in Alaska's Aleutian Islands; see [poll closing times by state](/news/what-time-do-polls-close-election-day-2026/). Some states count faster than others. Pennsylvania may not begin processing mail ballots until 7 a.m. on Election Day, and California counties have up to 30 days to complete their count, with the state certifying results after that.
+Polls close from 6 p.m. Eastern in parts of Indiana and Kentucky to 1 a.m. Eastern in Alaska's Aleutian Islands; see [poll closing times by state](/news/what-time-do-polls-close-election-day-2026/). Some states count faster than others. Pennsylvania may not begin processing mail ballots until 7 a.m. on Election Day, and California counties have up to 30 days to complete their count, with the state certifying results after that. For the two largest states, see our guides to [Texas election results](/news/texas-election-results-2026-polls-close-where-to-follow-canvass-dates/) and [California election results](/news/california-election-results-2026-polls-close-8-p-m-pt-when-the-count-ends/). New to this? Read [what a midterm election is and what it decides](/news/what-is-a-midterm-election-2026-what-the-nov-3-vote-decides/).
 
 | Date | What happens |
 |---|---|

@@ -5,7 +5,7 @@ description: "Major League Soccer (MLS) says MLS Cup 2026 is Fri., Dec. 18 and D
 type: explainer
 publishedAt: "2026-10-25T20:18:00-04:00"
 updatedAt: "2026-10-31T11:43:00-04:00"
-authors: [jordan-bennett]
+authors: [jessica-hartwell]
 category: sports
 keywords: ["MLS Cup playoffs 2026 schedule", "MLS Cup 2026 date", "MLS playoffs 2026 format", "MLS Decision Day 2026"]
 dateline: "New York"
@@ -78,7 +78,7 @@ internalLinks:
     label: "November 2026 printable calendar"
   - href: "/december-calendars.html"
     label: "December 2026 printable calendar"
-related: [nwsl-playoffs-2026-schedule-decision-day-quarterfinals-championship-november-21, nba-cup-2026-schedule-dates-group-play-knockouts-final-indianapolis, world-series-2026-schedule-game-times-tv-channel]
+related: [nwsl-playoffs-2026-schedule-decision-day-quarterfinals-championship-november-21, nba-cup-2026-schedule-dates-group-play-knockouts-final-indianapolis, liga-mx-liguilla-apertura-2026-dates-quarterfinals-semifinals-final-schedule]
 downloads:
   - group: "MLS Cup Playoffs 2026 Schedule printables"
     title: "MLS Cup Playoffs 2026 Schedule"

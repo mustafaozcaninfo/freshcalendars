@@ -4,7 +4,7 @@ seoTitle: "Social Security Schedule December 2026 by Birthday"
 description: "Social Security Administration (SSA) pays Dec. 9, 16 and 23 by birthday; Supplemental Security Income (SSI) for January 2027 comes Thursday, Dec. 31, 2026."
 type: news
 publishedAt: "2026-10-31T10:29:00-04:00"
-authors: [alex-morgan]
+authors: [aaron-kessler]
 category: money-benefits
 keywords: ["Social Security payment schedule December 2026", "SSI payment December 31 2026", "Social Security payment dates by birthday December 2026", "Social Security COLA 2027 first payment"]
 dateline: "New York"
@@ -55,7 +55,7 @@ internalLinks:
     label: "December 2026 printable calendar"
   - href: "/january-calendars.html"
     label: "January 2027 printable calendar"
-related: [social-security-payment-schedule-november-2026-veterans-day-shift, social-security-cola-2027-3-6-percent-payment-dates, snap-payment-schedule-december-2026-deposit-dates-by-state]
+related: [social-security-payment-schedule-november-2026-veterans-day-shift, social-security-cola-2027-3-6-percent-payment-dates, social-security-payment-schedule-january-2027-first-cola-checks]
 assets:
   kicker: "Social Security December 2026"
   date: "2026-12-31"

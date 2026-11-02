@@ -5,7 +5,7 @@ description: "Store hours for Christmas Eve, Thursday, Dec. 24, 2026, and what i
 type: update
 publishedAt: "2026-10-21T00:32:00-04:00"
 updatedAt: "2026-10-26T13:00:00-04:00"
-authors: [jordan-bennett]
+authors: [jessica-hartwell]
 category: retail-dates
 keywords: ["Christmas Eve store hours 2026", "what's open on Christmas Day 2026", "Walmart Christmas Eve hours", "stores open Christmas Day", "is the post office open Christmas Eve"]
 dateline: "New York"

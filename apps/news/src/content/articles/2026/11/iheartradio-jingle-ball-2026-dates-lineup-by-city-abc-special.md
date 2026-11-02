@@ -4,7 +4,7 @@ seoTitle: "Jingle Ball 2026 Dates and Lineup by City"
 description: "The 2026 iHeartRadio Jingle Ball Tour plays nine cities Dec. 1-17, Dallas/Fort Worth to Nashville. See each city's date, arena and lineup, plus the ABC special."
 type: news
 publishedAt: "2026-11-01T11:30:00-05:00"
-authors: [jordan-bennett]
+authors: [jessica-hartwell]
 category: entertainment
 keywords: ["jingle ball 2026 lineup", "jingle ball 2026 dates", "iHeartRadio Jingle Ball 2026", "jingle ball 2026 tv special"]
 dateline: "New York"

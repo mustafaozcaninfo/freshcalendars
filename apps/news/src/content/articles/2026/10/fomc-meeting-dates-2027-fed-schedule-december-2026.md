@@ -5,7 +5,7 @@ description: "The Federal Open Market Committee (FOMC) has 8 tentative 2027 meet
 type: news
 publishedAt: "2026-10-26T20:37:00-04:00"
 updatedAt: "2026-10-28T14:03:00-04:00"
-authors: [alex-morgan]
+authors: [aaron-kessler]
 category: money-benefits
 keywords: ["fomc meeting dates 2027", "fed meeting schedule 2027", "next fed meeting", "fomc december 2026", "when is the next fomc meeting"]
 hero:

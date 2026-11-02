@@ -4,7 +4,7 @@ seoTitle: "Beaujolais Nouveau 2026: Release Date Nov. 19"
 description: "Beaujolais Nouveau Day 2026 is Thursday, Nov. 19, the third Thursday of November, per Inter Beaujolais. Release dates through 2030 and festival dates."
 type: explainer
 publishedAt: "2026-10-29T19:45:00-04:00"
-authors: [jordan-bennett]
+authors: [jessica-hartwell]
 category: retail-dates
 keywords: ["Beaujolais Nouveau 2026", "Beaujolais Nouveau Day 2026", "when is Beaujolais Nouveau released", "Beaujolais Nouveau release date"]
 dateline: "New York"

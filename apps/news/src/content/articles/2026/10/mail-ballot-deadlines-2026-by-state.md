@@ -5,7 +5,7 @@ description: "Most states need mail ballots to arrive by Nov. 3, 2026; about 15 
 type: explainer
 publishedAt: "2026-10-20T10:40:00-04:00"
 updatedAt: "2026-10-28T16:12:00-04:00"
-authors: [alex-morgan]
+authors: [christina-gerland]
 category: elections
 keywords: ["mail ballot deadline 2026", "absentee ballot deadline by state", "postmark deadline ballot", "when is my mail ballot due", "mail in ballot deadline November 2026"]
 dateline: "Washington"
@@ -60,7 +60,7 @@ internalLinks:
     label: "November 2026 printable calendar"
   - href: "/october-calendars.html"
     label: "October 2026 printable calendar"
-related: [what-time-do-polls-close-election-day-2026, early-voting-2026-which-states-are-voting-now, colorado-ballot-measures-2026-amendments-propositions-explained]
+related: [what-time-do-polls-close-election-day-2026, early-voting-2026-which-states-are-voting-now, can-i-drop-off-my-mail-in-ballot-on-election-day-2026]
 downloads:
   - group: "Election 2026 printables"
     title: "Mail Ballot Deadlines, Nov. 3, 2026"
@@ -133,7 +133,7 @@ A 2025 Kansas law, Senate Bill 4, ended the state's three-day grace period. On J
 
 ## When to mail it
 
-The U.S. Postal Service (USPS) recommends mailing a completed ballot at least one week before the state's deadline. In states that require arrival by Election Day, that was about **Tuesday, Oct. 27**, which has passed. With less than a week to go, do not rely on the mail: use a drop box or return your ballot in person where your state allows, by the close of polls. Many states let you track your ballot online; your county or state election office has a link.
+The U.S. Postal Service (USPS) recommends mailing a completed ballot at least one week before the state's deadline. In states that require arrival by Election Day, that was about **Tuesday, Oct. 27**, which has passed. With less than a week to go, do not rely on the mail: use a drop box or return your ballot in person where your state allows, by the close of polls; our guide to [handing in a mail ballot on Election Day](/news/can-i-drop-off-my-mail-in-ballot-on-election-day-2026/) has each state's places and cutoffs. Many states let you track your ballot online; your county or state election office has a link.
 
 Do not wait on a postmark in a grace-period state either. Postal facilities do not always postmark the day a ballot is dropped in a mailbox, so mailing early protects you.
 

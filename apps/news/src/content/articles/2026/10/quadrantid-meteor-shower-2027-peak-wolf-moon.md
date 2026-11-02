@@ -4,7 +4,7 @@ seoTitle: "Quadrantid Meteor Shower 2027: Peak Time and Wolf Moon"
 description: "The American Meteor Society (AMS) predicts a Quadrantid peak near 3:30 Universal Time (UT) on Jan. 4, 2027: 10:30 p.m. Eastern Standard Time (EST) on Jan. 3."
 type: explainer
 publishedAt: "2026-10-30T15:50:00-04:00"
-authors: [jordan-bennett]
+authors: [jessica-hartwell]
 category: sky-events
 keywords: ["quadrantid meteor shower 2027", "quadrantids 2027 peak", "wolf moon 2027", "january 2027 sky calendar"]
 hero:
@@ -128,4 +128,4 @@ The January full moon, known as the Wolf Moon, is at 12:17 UT on Friday, Jan. 22
 
 ## What comes before the Quadrantids?
 
-For the December 2026 Cold Moon, the Geminids and the solstice, see our [supermoon, Beaver Moon and Cold Moon story](/news/supermoon-2026-beaver-moon-cold-moon-geminids-solstice/). For the autumn showers, see [November 2026 meteor showers](/news/november-2026-meteor-showers-taurids-leonids/).
+For the other 2027 showers, see our [meteor showers 2027 calendar](/news/meteor-showers-2027-calendar-peak-dates-moon-phase-best-nights/) with peak times and Moon phase for 12 of them. For the December 2026 Cold Moon, the Geminids and the solstice, see our [supermoon, Beaver Moon and Cold Moon story](/news/supermoon-2026-beaver-moon-cold-moon-geminids-solstice/). For the autumn showers, see [November 2026 meteor showers](/news/november-2026-meteor-showers-taurids-leonids/).

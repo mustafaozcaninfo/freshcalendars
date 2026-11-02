@@ -5,7 +5,7 @@ description: "Dunkin' starts its 2026 holiday season and Avengers: Doomsday menu
 type: news
 publishedAt: "2026-10-29T15:52:00-04:00"
 updatedAt: "2026-11-01T04:58:00-05:00"
-authors: [jordan-bennett]
+authors: [jessica-hartwell]
 category: retail-dates
 keywords: ["Dunkin holiday menu 2026", "Dunkin Avengers Doomsday menu", "Dunkin November 4 2026", "when does Dunkin holiday menu come out"]
 dateline: "Boston"

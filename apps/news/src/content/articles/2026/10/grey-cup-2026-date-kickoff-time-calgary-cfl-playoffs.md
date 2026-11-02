@@ -5,7 +5,7 @@ description: "The 113th Grey Cup is Sunday, Nov. 15, 2026, at 6 p.m. Eastern Tim
 type: explainer
 publishedAt: "2026-10-26T01:09:00-04:00"
 updatedAt: "2026-11-01T12:38:00-05:00"
-authors: [alex-morgan]
+authors: [christina-gerland]
 category: uk-canada
 keywords: ["Grey Cup 2026", "Grey Cup 2026 date", "when is the Grey Cup", "CFL playoffs 2026 schedule"]
 dateline: "Calgary"

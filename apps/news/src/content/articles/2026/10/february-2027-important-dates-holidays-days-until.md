@@ -4,7 +4,7 @@ seoTitle: "February 2027 Important Dates and Days Until Each"
 description: "February 2027 starts Mon., Feb. 1 with W-2s due to the Social Security Administration (SSA). Super Bowl 61 (LXI) and Valentine's Day share Sun., Feb. 14."
 type: explainer
 publishedAt: "2026-10-31T10:30:00-04:00"
-authors: [jordan-bennett]
+authors: [jessica-hartwell]
 category: calendar-guides
 keywords: ["February 2027 important dates", "February 2027 holidays", "holidays in February 2027", "February 2027 days until", "Super Bowl and Valentine's Day 2027"]
 hero:

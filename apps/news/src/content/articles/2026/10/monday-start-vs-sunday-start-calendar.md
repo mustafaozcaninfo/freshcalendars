@@ -4,7 +4,7 @@ seoTitle: "Monday Start vs Sunday Start Calendar Guide"
 description: "A Monday-start and a Sunday-start calendar show the same dates. International Organization for Standardization (ISO) weeks begin Monday; see November 2026."
 type: explainer
 publishedAt: "2026-10-30T08:22:00-04:00"
-authors: [jordan-bennett]
+authors: [jessica-hartwell]
 category: calendar-guides
 keywords: ["Monday start vs Sunday start calendar", "calendar starts Monday or Sunday", "Monday first calendar", "Sunday first calendar", "week starts Monday"]
 hero:

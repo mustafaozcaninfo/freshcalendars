@@ -4,7 +4,7 @@ seoTitle: "Voter ID Amendment 2026: 5 States Compared"
 description: "Voters in five states decide voter ID measures on Nov. 3, 2026: North Carolina, Ohio, Arizona, Nevada and Colorado. Compare each, plus the federal rule."
 type: explainer
 publishedAt: "2026-10-31T14:20:00-04:00"
-authors: [alex-morgan]
+authors: [christina-gerland]
 category: elections
 keywords: ["voter ID amendment 2026", "voter ID on the ballot 2026 states", "Ohio Issue 3 voter ID", "Nevada Question 7 voter ID", "Arizona Prop 144 voter ID"]
 assets:

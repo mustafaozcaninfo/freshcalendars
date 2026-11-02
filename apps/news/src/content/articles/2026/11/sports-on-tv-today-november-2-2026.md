@@ -4,7 +4,7 @@ seoTitle: "Sports on TV Today, Nov. 2, 2026: MNF, NBA, NHL"
 description: "Sports on TV Monday, Nov. 2, 2026, in Eastern Time (ET): Premier League 3 p.m., NBA and NHL from 7 p.m., Bears at Seahawks 8:15 p.m. on ESPN, with channels."
 type: news
 publishedAt: "2026-10-31T23:40:00-04:00"
-authors: [jordan-bennett]
+authors: [jessica-hartwell]
 category: sports
 keywords: ["sports on TV today", "sports on TV tonight", "what games are on tonight", "Monday Night Football tonight channel", "printable sports TV schedule"]
 dateline: "New York"

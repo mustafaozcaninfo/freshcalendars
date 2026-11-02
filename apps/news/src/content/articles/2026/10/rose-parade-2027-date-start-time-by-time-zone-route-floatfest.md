@@ -5,7 +5,7 @@ description: "The 138th Rose Parade starts at 8 a.m. Pacific Time (PT) on Fri., 
 type: news
 publishedAt: "2026-10-26T08:50:00-04:00"
 updatedAt: "2026-10-30T01:05:00-04:00"
-authors: [jordan-bennett]
+authors: [christina-gerland]
 category: holidays
 keywords: ["rose parade 2027", "what time is the rose parade 2027", "rose parade route", "rose parade float viewing 2027", "bandfest 2027"]
 dateline: "Pasadena, California"

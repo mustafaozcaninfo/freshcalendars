@@ -5,7 +5,7 @@ description: "Budget 2026 keeps the State Pension triple lock to April 2029 and 
 type: news
 publishedAt: "2026-10-27T09:59:00-04:00"
 updatedAt: "2026-10-30T02:05:00-04:00"
-authors: [alex-morgan]
+authors: [christina-gerland]
 category: uk-canada
 keywords: ["state pension increase april 2027", "triple lock 2027", "state pension budget 2026", "new state pension 2027/28 weekly amount"]
 dateline: "London"

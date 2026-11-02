@@ -5,7 +5,7 @@ description: "US clocks go back at 2 a.m. Sunday, Nov. 1, 2026, but most of Mexi
 type: explainer
 publishedAt: "2026-10-28T09:58:00-04:00"
 updatedAt: "2026-11-01T05:45:00-05:00"
-authors: [jordan-bennett]
+authors: [jessica-hartwell]
 category: time-change
 keywords: ["time difference Mexico and US after daylight saving time ends", "what time is it in Mexico City", "does Mexico change clocks November 2026", "Cancun time vs New York", "Tijuana time change November 1"]
 hero:

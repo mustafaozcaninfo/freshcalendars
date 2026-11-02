@@ -5,7 +5,7 @@ description: "Veterans Day, Wednesday, Nov. 11, 2026, is the last National Park 
 type: news
 publishedAt: "2026-10-24T13:10:00-04:00"
 updatedAt: "2026-10-28T16:12:00-04:00"
-authors: [alex-morgan]
+authors: [christina-gerland]
 category: holidays
 keywords: ["national parks free days 2026", "national parks free Veterans Day 2026", "free national park day October 27 2026", "fee-free days 2026 public lands", "national parks free for nonresidents"]
 dateline: "New York"

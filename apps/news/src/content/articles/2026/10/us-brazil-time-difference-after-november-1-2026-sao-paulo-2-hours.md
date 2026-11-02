@@ -5,7 +5,7 @@ description: "New York is 2 hours behind Brasília Time (BRT) from Nov. 1, 2026,
 type: explainer
 publishedAt: "2026-10-31T07:45:00-04:00"
 updatedAt: "2026-11-01T05:45:00-05:00"
-authors: [jordan-bennett]
+authors: [jessica-hartwell]
 category: time-change
 keywords: ["time difference between US and Brazil", "New York to São Paulo time difference", "Brazil time vs EST", "Brasília time zone"]
 hero:

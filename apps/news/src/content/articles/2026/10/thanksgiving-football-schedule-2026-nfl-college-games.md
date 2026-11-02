@@ -5,7 +5,7 @@ description: "Every Thanksgiving weekend 2026 football game, Wed., Nov. 25 to Sa
 type: news
 publishedAt: "2026-10-23T15:00:00-04:00"
 updatedAt: "2026-10-27T03:30:00-04:00"
-authors: [alex-morgan]
+authors: [jessica-hartwell]
 corrections:
   - date: "2026-10-24T01:40:00-04:00"
     text: "An earlier version said no Thanksgiving week halftime performers had been announced. The NFL had announced U2 for the Thanksgiving Eve game."
@@ -115,7 +115,7 @@ internalLinks:
     label: "When is Thanksgiving?"
   - href: "/when-is/black-friday/"
     label: "When is Black Friday?"
-related: [thanksgiving-2026-tv-schedule-macys-parade-nfl-games, college-football-rivalry-week-2026-iron-bowl-the-game-egg-bowl-times-tv, feast-week-2026-college-basketball-tournaments-dates-maui-battle-4-atlantis-players-era]
+related: [thanksgiving-2026-tv-schedule-macys-parade-nfl-games, college-football-rivalry-week-2026-iron-bowl-the-game-egg-bowl-times-tv, national-dog-show-2026-thanksgiving-time-tv-channel-peacock-oaks-tickets]
 downloads:
   - group: "Thanksgiving Football Schedule 2026 printables"
     title: "Thanksgiving Football Schedule 2026, Nov. 25-28"

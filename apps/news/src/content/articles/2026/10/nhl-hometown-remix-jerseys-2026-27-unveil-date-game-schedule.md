@@ -4,7 +4,7 @@ seoTitle: "NHL Hometown Remix Jerseys: Game Dates by Team"
 description: "First announced Hometown Remix games: Nov. 4 and 5. The National Hockey League (NHL) says all 32 jerseys are unveiled in November; full dates by team."
 type: news
 publishedAt: "2026-10-27T19:42:00-04:00"
-authors: [jordan-bennett]
+authors: [jessica-hartwell]
 category: sports
 keywords: ["NHL Hometown Remix jerseys", "Hometown Remix jersey release date", "Hometown Remix jersey schedule", "when do NHL teams wear Hometown Remix"]
 dateline: "New York"
@@ -110,7 +110,7 @@ internalLinks:
     label: "Printable yearly calendar"
   - href: "/november-calendars.html"
     label: "November 2026 printable calendar"
-related: [nhl-winter-classic-2027-date-time-avalanche-mammoth-salt-lake-city, nba-cup-2026-schedule-dates-group-play-knockouts-final-indianapolis, toronto-maple-leafs-schedule-november-2026-game-times-tv-printable]
+related: [nhl-winter-classic-2027-date-time-avalanche-mammoth-salt-lake-city, montreal-canadiens-schedule-november-2026-game-times-tv-printable, toronto-maple-leafs-schedule-november-2026-game-times-tv-printable]
 downloads:
   - group: "NHL Hometown Remix Game Tracker 2026-27 printables"
     title: "NHL Hometown Remix Game Tracker 2026-27"

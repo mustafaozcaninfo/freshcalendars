@@ -5,7 +5,7 @@ description: "Lowe's Black Friday deals began Thursday, Oct. 29, 2026. 12 Days o
 type: news
 publishedAt: "2026-10-29T05:40:00-04:00"
 updatedAt: "2026-11-01T10:27:00-05:00"
-authors: [jordan-bennett]
+authors: [jessica-hartwell]
 category: retail-dates
 keywords: ["lowe's black friday 2026", "lowe's 12 days of deals 2026", "lowe's black friday ad 2026", "is lowe's open on thanksgiving 2026", "home depot black friday 2026"]
 dateline: "New York"

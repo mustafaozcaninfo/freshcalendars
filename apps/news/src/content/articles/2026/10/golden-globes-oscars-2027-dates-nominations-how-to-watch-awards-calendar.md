@@ -5,7 +5,7 @@ description: "The 84th Golden Globes air Sunday, Jan. 10, 2027, on CBS; the 99th
 type: news
 publishedAt: "2026-10-31T01:00:00-04:00"
 updatedAt: "2026-11-01T11:45:00-05:00"
-authors: [jordan-bennett]
+authors: [jessica-hartwell]
 category: entertainment
 keywords: ["golden globes 2027 date", "oscars 2027 date", "when are the oscars 2027", "awards season 2027 calendar", "oscar nominations 2027"]
 dateline: "Los Angeles"

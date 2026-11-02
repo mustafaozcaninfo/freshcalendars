@@ -4,7 +4,7 @@ seoTitle: "Business Days in a Year: 260 to 262 Weekdays"
 description: "A year has 260 to 262 Monday-Friday days; subtract weekday holidays set by the Office of Personnel Management (OPM) and federal workdays run 249 to 251."
 type: explainer
 publishedAt: "2026-10-30T08:21:00-04:00"
-authors: [jordan-bennett]
+authors: [jessica-hartwell]
 category: calendar-guides
 keywords: ["how many business days are in a year", "working days in a year", "weekdays in a year", "business days per year", "calculate business days"]
 hero:

@@ -5,7 +5,7 @@ description: "National Football League (NFL) Week 9: 15 games, Thu., Nov. 5 to M
 type: news
 publishedAt: "2026-10-29T03:43:00-04:00"
 updatedAt: "2026-11-01T02:50:00-05:00"
-authors: [jordan-bennett]
+authors: [jessica-hartwell]
 category: sports
 keywords: ["NFL Week 9 schedule 2026", "NFL Week 9 pick em sheet printable", "NFL Week 9 game times TV", "Bengals Falcons Madrid time"]
 assets:
@@ -85,7 +85,7 @@ internalLinks:
     label: "November 2026 printable calendar"
   - href: "/printable-weekly-calendar.html"
     label: "printable weekly calendar"
-related: [nfl-week-8-schedule-2026-game-times-tv-clock-change, printable-nfl-schedule-2026-2027-pdf, printable-nfl-pickem-sheets-2026]
+related: [miami-dolphins-schedule-2026-remaining-games-times-tv-printable, printable-nfl-schedule-2026-2027-pdf, printable-nfl-pickem-sheets-2026]
 downloads:
   - group: "NFL Week 9 Pick'em Sheet 2026 printables"
     title: "NFL Week 9 Pick'em Sheet 2026"

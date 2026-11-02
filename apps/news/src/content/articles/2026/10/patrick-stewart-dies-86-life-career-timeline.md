@@ -4,7 +4,7 @@ seoTitle: "Patrick Stewart Dies at 86: Life and Career Timeline"
 description: "Sir Patrick Stewart died Oct. 28 at home in Los Angeles, aged 86. Key dates from Mirfield to Picard and Professor X, with his age at each milestone."
 type: news
 publishedAt: "2026-10-29T16:15:00-04:00"
-authors: [jordan-bennett]
+authors: [jessica-hartwell]
 category: entertainment
 keywords: ["Patrick Stewart dies at 86", "Patrick Stewart career timeline", "Patrick Stewart key dates", "Patrick Stewart Star Trek", "Patrick Stewart X-Men"]
 dateline: "Los Angeles"

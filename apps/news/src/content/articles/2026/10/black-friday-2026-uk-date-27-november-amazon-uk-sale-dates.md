@@ -5,7 +5,7 @@ description: "Black Friday 2026 is Friday, 27 November in the United Kingdom (UK
 type: news
 dateline: "London"
 publishedAt: "2026-10-28T03:43:00-04:00"
-authors: [jordan-bennett]
+authors: [jessica-hartwell]
 category: retail-dates
 keywords: ["when is Black Friday 2026 UK", "Black Friday 2026 UK date", "Amazon Black Friday 2026 UK", "Cyber Monday 2026 UK"]
 hero:

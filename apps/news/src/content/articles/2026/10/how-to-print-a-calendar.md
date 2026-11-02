@@ -4,7 +4,7 @@ seoTitle: "How to Print a Calendar PDF at Actual Size"
 description: "To print a calendar PDF on US Letter paper, pick Actual size or Fit, check margins and paper size. Option names from Microsoft and Apple, plus a fix table."
 type: explainer
 publishedAt: "2026-10-30T08:22:00-04:00"
-authors: [jordan-bennett]
+authors: [jessica-hartwell]
 category: calendar-guides
 keywords: ["how to print a calendar", "print calendar pdf actual size", "calendar printing settings", "print calendar on letter paper"]
 hero:

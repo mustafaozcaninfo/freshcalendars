@@ -4,7 +4,7 @@ seoTitle: "Sports on TV Today, Nov. 1, 2026: NFL, F1, Marathon"
 description: "Sports on TV Sunday, Nov. 1, 2026, in Eastern Time (ET): NYC Marathon, 13 NFL games, F1 Mexico City, NBA, NHL and Liverpool v Arsenal, with channels."
 type: news
 publishedAt: "2026-10-30T05:35:00-04:00"
-authors: [jordan-bennett]
+authors: [jessica-hartwell]
 category: sports
 keywords: ["sports on TV today", "sports on TV Sunday", "sports schedule November 1 2026", "what games are on today", "printable sports TV schedule"]
 assets:

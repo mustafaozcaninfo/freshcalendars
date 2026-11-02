@@ -4,13 +4,14 @@ seoTitle: "Total Solar Eclipse Aug. 2, 2027: Times by City"
 description: "NASA puts greatest eclipse at 10:06 Universal Time (UT) on Aug. 2, 2027. Cádiz sees totality near 4:45 a.m. Eastern Time (ET), Luxor from 6:02 a.m. ET."
 type: explainer
 publishedAt: "2026-10-31T07:50:00-04:00"
-authors: [jordan-bennett]
+updatedAt: "2026-11-02T14:48:00-05:00"
+authors: [jessica-hartwell]
 category: sky-events
 keywords: ["total solar eclipse 2027", "eclipse 2027 spain", "eclipse 2027 luxor", "august 2 2027 eclipse times"]
 hero:
   src: ../../../../assets/news/total-solar-eclipse-august-2-2027-path-times-by-city-travel/total-solar-eclipse-august-2-2027-path-times-by-city-travel.webp
   alt: "Total solar eclipse photographed in 2017, a file photo for the total solar eclipse of Aug. 2, 2027"
-  caption: "File photo of the total solar eclipse of 2017 by NASA. The Aug. 2, 2027 eclipse is a different event and is not visible from the U.S."
+  caption: "File photo of the total solar eclipse of 2017 by NASA. The Aug. 2, 2027 eclipse is a different event; NASA lists only a partial eclipse in northern Maine for the U.S."
   credit: "Photo: NASA/Carla Thomas, cropped, edited"
   license:
     name: "Public domain (NASA)"
@@ -21,7 +22,7 @@ summary:
   - "The Aug. 2, 2027 (Monday) total solar eclipse reaches greatest eclipse at 10:06:37.7 Universal Time (UT) over Egypt, with 6 min 22.6 s of central totality, per NASA."
   - "Spain's totality falls in the morning: Cádiz at 10:45 local time (4:45 a.m. Eastern Time, ET), for 2 min 54 s, per the Instituto Geográfico Nacional (IGN)."
   - "Luxor's totality starts at 1:02:14 p.m. local time (6:02:14 a.m. ET), per Egypt's National Research Institute of Astronomy and Geophysics (NRIAG)."
-  - "The eclipse is not visible from the U.S. Printable viewing card below."
+  - "Totality stays in Spain and North Africa; NASA lists only a partial eclipse for northern Maine in the U.S. Printable viewing card below."
 faq:
   - q: "What time is the total solar eclipse in Spain on Aug. 2, 2027?"
     a: "The IGN lists 10:45 a.m. Spanish peninsular time for Cádiz and 10:48 a.m. for Málaga. That is 4:45 a.m. and 4:48 a.m. ET."
@@ -30,7 +31,7 @@ faq:
   - q: "Is Madrid or Seville in the path of totality?"
     a: "No. The IGN lists both as partial. Totality covers Ceuta, Melilla, almost all of Cádiz province, part of Málaga and the southernmost parts of Granada and Almería."
   - q: "Can you see the Aug. 2, 2027 eclipse from the United States?"
-    a: "No. It is not visible from the U.S. Our overview of the 2027 eclipses explains where each one is seen."
+    a: "No. Totality is in Spain and North Africa, and NASA lists only a partial eclipse for northern Maine in the U.S. Our overview of the 2027 eclipses explains where each one is seen."
   - q: "Which eclipse glasses are safe?"
     a: "NASA says safe solar viewers ought to comply with the International Organization for Standardization (ISO) 12312-2 international standard. Eclipse glasses are not regular sunglasses."
 sources:
@@ -62,7 +63,7 @@ internalLinks:
     label: "August printable calendars"
   - href: "/printable-yearly-calendar.html"
     label: "Printable yearly calendar"
-related: [eclipses-2027-dates-times-total-solar-eclipse-august-2, quadrantid-meteor-shower-2027-peak-wolf-moon, moon-phases-2027-full-moon-calendar]
+related: [eclipses-2027-dates-times-total-solar-eclipse-august-2, next-solar-eclipse-in-the-us-after-2024-alaska-2033-total-2044-2045-dates, moon-phases-2027-full-moon-calendar]
 assets:
   overlay: true
   kicker: "Total eclipse 2027"
@@ -108,7 +109,7 @@ draft: false
 
 **The total solar eclipse of Monday, Aug. 2, 2027 reaches its greatest point at 10:06:37.7 Universal Time (UT) near 25°30.3'N, 33°11.0'E in Egypt, with 6 min 22.6 s of central totality, according to the National Aeronautics and Space Administration (NASA).** That is 6:06 a.m. Eastern Time (ET). The table below turns the official local times for Spain and Egypt into UT and ET. For the dates of all five 2027 eclipses, see our [overview of the 2027 eclipses](/news/eclipses-2027-dates-times-total-solar-eclipse-august-2/).
 
-The eclipse is not visible from the U.S. Spain sees totality in the morning and Egypt around midday, local time.
+Totality is not visible from the U.S.; NASA's Future Eclipses page lists a partial eclipse for northern Maine. Spain sees totality in the morning and Egypt around midday, local time.
 
 ## Totality times by city in Spain and Egypt
 

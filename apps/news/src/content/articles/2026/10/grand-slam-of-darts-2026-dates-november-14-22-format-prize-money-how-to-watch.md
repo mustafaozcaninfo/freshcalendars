@@ -4,7 +4,7 @@ seoTitle: "Grand Slam of Darts 2026: Dates, Prize Money, TV"
 description: "The Professional Darts Corporation (PDC) Grand Slam of Darts runs Nov. 14-22, 2026 in Wolverhampton, England, on Peacock in the U.S. Times not yet announced."
 type: news
 publishedAt: "2026-10-30T15:45:00-04:00"
-authors: [jordan-bennett]
+authors: [jessica-hartwell]
 category: sports
 keywords: ["grand slam of darts 2026", "grand slam of darts 2026 dates", "grand slam of darts 2026 how to watch us", "grand slam of darts prize money 2026"]
 dateline: "New York"
@@ -64,7 +64,7 @@ internalLinks:
     label: "November 2026 printable calendar"
   - href: "/printable-weekly-calendar.html"
     label: "printable weekly calendar"
-related: [atp-finals-2026-turin-dates-schedule-time-zones-tv-qualified-players, premier-league-fixtures-this-weekend-october-31-november-2-2026-kickoff-times-tv, nations-championship-rugby-november-2026-fixtures-kick-off-times-uk-us]
+related: [pdc-world-darts-championship-2026-27-schedule-dates-alexandra-palace, atp-finals-2026-turin-dates-schedule-time-zones-tv-qualified-players, premier-league-fixtures-this-weekend-october-31-november-2-2026-kickoff-times-tv]
 assets:
   overlay: true
   kicker: "Grand Slam of Darts · Nov. 14-22, 2026"
@@ -152,3 +152,5 @@ If a session starts at 7 p.m. GMT, that is 2 p.m. ET. Once the PDC publishes ses
 ## Free Grand Slam of Darts 2026 tracker
 
 The printable has one row for each day from Sat., Nov. 14 to Sun., Nov. 22, a row for the Nov. 6 qualifier and a blank line for each result. Its source note matches this story: Sky Sports, Dartsnews and NBC Sports. For other November sport on your calendar, see the [Association of Tennis Professionals (ATP) Finals 2026 dates and time zones](/news/atp-finals-2026-turin-dates-schedule-time-zones-tv-qualified-players/), the [Premier League fixtures for Oct. 31 to Nov. 2](/news/premier-league-fixtures-this-weekend-october-31-november-2-2026-kickoff-times-tv/) and the [Nations Championship rugby fixtures](/news/nations-championship-rugby-november-2026-fixtures-kick-off-times-uk-us/).
+
+The next big date in darts is the [PDC World Darts Championship](/news/pdc-world-darts-championship-2026-27-schedule-dates-alexandra-palace/), which Sky Sports says runs from Dec. 11, 2026 to Jan. 3, 2027 at Alexandra Palace.

@@ -3,7 +3,7 @@ import { Image } from "astro:assets";
 import ListingView from "./ListingView.astro";
 import { authorImage, authorImageAlt } from "../lib/images";
 import type { Article, Author } from "../lib/articles";
-import { authorHref, getCategoryNames } from "../lib/articles";
+import { authorHref, categoryHref, getCategoryNames } from "../lib/articles";
 import type { Page } from "../lib/listing";
 import { shortDescription } from "../lib/pages";
 interface Props { author: Author; page: Page<Article> }
@@ -11,6 +11,8 @@ const { author, page } = Astro.props;
 const d = author.data;
 const path = authorHref(author.id);
 const image = d.photo ? await authorImage(d.photo) : undefined;
+const categoryNames = await getCategoryNames();
+const beats = d.categories.map(({ id }) => ({ id, name: categoryNames.get(id) ?? id }));
 ---
 <ListingView
   page={page}
@@ -19,8 +21,8 @@ const image = d.photo ? await authorImage(d.photo) : undefined;
   description={shortDescription(d.bio)}
   trail={[{ name: "News", path: "/news/" }, { name: d.name, path }]}
   kind="ProfilePage"
-  author={{ kind: d.kind, name: d.name, path, role: d.role, sameAs: d.sameAs, description: d.bio, image }}
-  categoryNames={await getCategoryNames()}
+  author={{ kind: d.kind, name: d.name, path, role: d.role, sameAs: d.sameAs, email: d.email, knowsAbout: beats.map((b) => b.name), description: d.bio, image }}
+  categoryNames={categoryNames}
   emptyText={`${d.name} has not published a story yet.`}
 >
   {page.page === 1 && (
@@ -28,6 +30,10 @@ const image = d.photo ? await authorImage(d.photo) : undefined;
       <div class:list={["profile-card", { "without-avatar": !d.photo }]}>
       {d.photo && <Image src={d.photo} alt={authorImageAlt(d.name, d.role)} title={d.name} loading="eager" width={160} height={160} densities={[1, 2]} format="webp" class="avatar" />}
       <p>{d.bio}</p>
+      {beats.length > 0 && (
+        <p class="beats">Covers: {beats.map((b, i) => <>{i > 0 && " · "}<a href={categoryHref(b.id)}>{b.name}</a></>)}</p>
+      )}
+      {d.email && <p class="contact">Contact: <a href={`mailto:${d.email}`}>{d.email}</a></p>}
       {d.sameAs.length > 0 && (
         <ul class="same-as">{d.sameAs.map((u) => <li><a href={u} rel="me noopener">{new URL(u).hostname}</a></li>)}</ul>
       )}
@@ -40,9 +46,10 @@ const image = d.photo ? await authorImage(d.photo) : undefined;
   .profile{color:var(--ink-strong);margin:20px 0 1rem}
   .profile-card{display:grid;grid-template-columns:88px minmax(0,1fr);gap:18px;padding:20px;background:var(--surface-soft);border:1px solid var(--line);border-radius:10px;align-items:start}
   .profile-card p{font-size:12px;line-height:1.8;margin:0;color:var(--ink)}
+  .profile-card .beats,.profile-card .contact{grid-column:2;font-size:11px;color:var(--ink-strong)}
   .profile-card.without-avatar{grid-template-columns:minmax(0,1fr)}.profile-card.without-avatar .same-as{grid-column:1}
   .avatar{width:88px;height:88px;border-radius:12px;margin:0;object-fit:cover;grid-row:span 2}
   .same-as{display:flex;flex-wrap:wrap;gap:.75rem;list-style:none;padding:0;margin:0;grid-column:2;font-size:11px}
   .latest{font-family:Sora,"Sora Fallback",sans-serif;font-size:1.2rem;margin:1.5rem 0 0}
-  @media(max-width:700px){.profile-card{grid-template-columns:60px minmax(0,1fr);gap:12px;padding:14px}.avatar{width:60px;height:60px}.profile-card p{font-size:11px}.same-as{grid-column:1/-1}}
+  @media(max-width:700px){.profile-card{grid-template-columns:60px minmax(0,1fr);gap:12px;padding:14px}.avatar{width:60px;height:60px}.profile-card p{font-size:11px}.same-as,.profile-card .beats,.profile-card .contact{grid-column:1/-1}}
 </style>

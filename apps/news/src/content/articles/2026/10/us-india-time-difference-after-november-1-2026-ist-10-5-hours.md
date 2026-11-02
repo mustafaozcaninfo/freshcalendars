@@ -5,7 +5,7 @@ description: "New York is 10 hours 30 minutes behind Indian Standard Time (IST) 
 type: explainer
 publishedAt: "2026-10-30T07:50:00-04:00"
 updatedAt: "2026-11-01T05:45:00-05:00"
-authors: [jordan-bennett]
+authors: [jessica-hartwell]
 category: time-change
 keywords: ["time difference between India and USA after daylight saving", "India time vs New York November 2026", "IST to EST", "what time is it in India when it is 9 am in New York"]
 hero:

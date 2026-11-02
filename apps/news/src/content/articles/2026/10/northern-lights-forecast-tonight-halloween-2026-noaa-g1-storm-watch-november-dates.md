@@ -5,7 +5,7 @@ description: "The National Oceanic and Atmospheric Administration (NOAA) forecas
 type: news
 publishedAt: "2026-10-31T01:42:00-04:00"
 updatedAt: "2026-11-01T10:27:00-05:00"
-authors: [jordan-bennett]
+authors: [jessica-hartwell]
 category: sky-events
 keywords: ["northern lights tonight", "northern lights forecast halloween 2026", "aurora forecast november 2026", "geomagnetic storm october 31 2026"]
 dateline: "Boulder"

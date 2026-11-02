@@ -4,7 +4,7 @@ seoTitle: "Eurovision 2027 Dates: Burgas, May 11, 13 and 15"
 description: "The European Broadcasting Union (EBU) says Eurovision 2027 is in Burgas: semi-finals Tue., May 11 and Thu., May 13, grand final Sat., May 15, at Arena Burgas."
 type: news
 publishedAt: "2026-10-27T07:40:00-04:00"
-authors: [alex-morgan]
+authors: [christina-gerland]
 category: uk-canada
 keywords: ["Eurovision 2027", "Eurovision 2027 dates", "Eurovision 2027 Burgas", "when is Eurovision 2027", "Eurovision 2027 tickets"]
 dateline: "Burgas, Bulgaria"

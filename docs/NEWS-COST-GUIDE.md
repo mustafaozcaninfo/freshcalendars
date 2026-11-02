@@ -84,5 +84,6 @@ If you publish on a schedule (for example, a round every two hours overnight), t
   - Writing then never stops for long: the next scheduled round starts by itself once the limit resets, and a full limit costs nothing.
 - **Keep the strongest model as the round's main session.** Only the main session, the one that decides, uses it; research stays on Haiku and writing on Sonnet (section 1).
 - **One routine for news and a separate one for puzzles.** Two sessions writing the same day's puzzle pages caused duplicate work and a merge conflict. The news routine's prompt says: "Do not write or edit daily puzzle pages."
-- **One news routine for the whole team.** If two editors each run a routine, they pick the same topics. Agree on one routine, and run anything extra by hand in a fresh session.
+- **The writer accounts follow `docs/DESK.md`.** Its volume policy sets how many stories each run writes (a batch of new stories plus one update, one build, one pull request) and its schedule puts every run in a fresh five-hour usage window.
+- **One writer routine per beat.** If two routines cover the same beat, they pick the same topics. Each writer account runs one routine for its own beat and queue (`docs/DESK.md`); there is no all-beats news routine. Run anything extra by hand in a fresh session.
 - **Do not chat in the routine's sessions.** Read each round's report in its own session in the Claude app. Open a new session for questions instead of asking in an old one.

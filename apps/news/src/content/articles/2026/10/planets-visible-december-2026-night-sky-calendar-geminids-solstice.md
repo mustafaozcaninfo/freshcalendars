@@ -4,7 +4,7 @@ seoTitle: "Planets Visible in December 2026: Night Sky Calendar"
 description: "The Moon passes 1.4° from Jupiter on Dec. 27, the Geminids peak Dec. 13-14 and the solstice is Dec. 21 at 3:50 p.m. Eastern Standard Time (EST). Full table."
 type: explainer
 publishedAt: "2026-10-31T10:30:00-04:00"
-authors: [jordan-bennett]
+authors: [jessica-hartwell]
 category: sky-events
 keywords: ["planets visible December 2026", "night sky December 2026", "December 2026 sky calendar", "Geminids 2026", "Moon and Jupiter December 2026"]
 dateline: "New York"
@@ -87,7 +87,7 @@ internalLinks:
     label: "December 2026 printable calendar"
   - href: "/printable-yearly-calendar.html"
     label: "2027 printable yearly calendar"
-related: [planets-visible-november-2026-night-sky-calendar-moon-venus-uranus-opposition, supermoon-2026-beaver-moon-cold-moon-geminids-solstice, winter-solstice-2026-december-21-shortest-day-sunset-times]
+related: [geminid-meteor-shower-2026-peak-december-13-14-moon-viewing-times, supermoon-2026-beaver-moon-cold-moon-geminids-solstice, planets-2027-calendar-jupiter-mars-opposition-saturn-venus-elongation-dates]
 downloads:
   - group: "December 2026 Night Sky Calendar printables"
     title: "December 2026 Night Sky Calendar"

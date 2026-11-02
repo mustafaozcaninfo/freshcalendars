@@ -1,3 +1,5 @@
+# Drawn editor portraits (illustrations, not likenesses) and the News Desk emblem, 1024x1024 SVG.
+# Usage: python3 make-avatars.py <out-dir>; then node make-avatars-png.mjs renders the PNGs.
 import sys
 W=1024
 def grain(id):
@@ -46,67 +48,80 @@ def build(c):
            f'<rect width="{W}" height="{W}" fill="#000" filter="url(#g)"/></svg>']
     return '\n'.join(parts)
 
-alex=dict(skin="#c08a62",shade="#a36f4b",line="#3a261b",iris="#5b3a24",browc="#33231a",lip="#8a4f3b",blush="#c0604a",stubble="#3a2a20",brow=4,smile=4,jaw=6,
- bg="#f3ead8",
- bgart='''<g opacity=".9"><rect x="96" y="120" width="300" height="300" rx="18" fill="none" stroke="#4f8a8b" stroke-width="6" opacity=".35"/>
-<g stroke="#4f8a8b" stroke-width="4" opacity=".3"><line x1="96" y1="200" x2="396" y2="200"/><line x1="96" y1="275" x2="396" y2="275"/><line x1="96" y1="350" x2="396" y2="350"/><line x1="171" y1="200" x2="171" y2="420"/><line x1="246" y1="200" x2="246" y2="420"/><line x1="321" y1="200" x2="321" y2="420"/></g>
-<rect x="96" y="120" width="300" height="80" rx="18" fill="#4f8a8b" opacity=".22"/>
-<rect x="700" y="170" width="190" height="120" rx="14" fill="#4f8a8b" opacity=".18"/><rect x="760" y="250" width="170" height="100" rx="14" fill="#e0a33a" opacity=".55"/>
-<circle cx="830" cy="760" r="120" fill="#4f8a8b" opacity=".14"/></g>''',
- body='''<path d="M180 1024 Q190 800 330 742 Q420 706 470 690 L512 760 L554 690 Q604 706 694 742 Q834 800 844 1024 Z" fill="#1f3352"/>
-<path d="M452 676 L512 770 L572 676 L560 720 L512 800 L464 720 Z" fill="#efe4cf"/>
-<path d="M452 676 L420 700 L470 790 L512 770 Z" fill="#2a4166"/><path d="M572 676 L604 700 L554 790 L512 770 Z" fill="#2a4166"/>
-<path d="M512 800 L512 1024" stroke="#16263f" stroke-width="5"/><circle cx="512" cy="860" r="7" fill="#e0a33a"/><circle cx="512" cy="940" r="7" fill="#e0a33a"/>
-<path d="M300 900 L380 880" stroke="#2a4166" stroke-width="8" stroke-linecap="round"/>''',
- hair='''<path d="M366 410 Q350 300 410 252 Q480 200 580 218 Q660 236 668 330 Q672 380 656 420 Q648 352 610 318 Q560 300 470 316 Q420 330 392 360 Q378 384 366 410 Z" fill="#3b2a20"/>
-<path d="M420 300 Q520 236 640 286 Q560 262 470 290 Z" fill="#4e382a"/><path d="M450 318 Q540 280 620 300" stroke="#5c4433" stroke-width="6" fill="none" stroke-linecap="round" opacity=".7"/>''')
 
-emily=dict(skin="#e8bf9c",shade="#cf9f7d",line="#4a2e22",iris="#7a5a2c",browc="#5a3520",lip="#b05a52",blush="#d98c7a",brow=6,smile=6,bw=9,lash=True,
- bg="#f6f0e2",
- bgart='''<g><rect x="90" y="110" width="270" height="350" rx="16" fill="#fff" opacity=".7" transform="rotate(-6 225 285)"/>
-<g stroke="#d98c7a" stroke-width="3" opacity=".35" transform="rotate(-6 225 285)"><line x1="120" y1="170" x2="330" y2="170"/><line x1="120" y1="215" x2="330" y2="215"/><line x1="120" y1="260" x2="330" y2="260"/><line x1="120" y1="305" x2="330" y2="305"/><line x1="120" y1="350" x2="330" y2="350"/><line x1="120" y1="395" x2="330" y2="395"/></g>
-<rect x="690" y="140" width="230" height="170" rx="16" fill="#c99a3c" opacity=".35" transform="rotate(5 805 225)"/>
-<g fill="#2f5a46" opacity=".25"><circle cx="730" cy="380" r="6"/><circle cx="770" cy="380" r="6"/><circle cx="810" cy="380" r="6"/><circle cx="850" cy="380" r="6"/><circle cx="730" cy="420" r="6"/><circle cx="770" cy="420" r="6"/><circle cx="810" cy="420" r="6"/><circle cx="850" cy="420" r="6"/></g>
-<circle cx="160" cy="820" r="110" fill="#d98c7a" opacity=".2"/></g>''',
- hairback='''<path d="M330 420 Q320 250 440 214 Q520 192 600 214 Q712 250 698 430 Q706 560 692 640 Q704 700 656 734 L368 734 Q320 700 332 640 Q318 560 330 420 Z" fill="#6e3f22"/>''',
- body='''<path d="M180 1024 Q196 806 340 746 Q420 712 466 700 L512 790 L558 700 Q604 712 684 746 Q828 806 844 1024 Z" fill="#2f5a46"/>
-<path d="M466 700 Q512 760 558 700 L560 1024 L464 1024 Z" fill="#f6f0e2"/>
-<path d="M466 700 L430 716 L490 880 L512 800 Z" fill="#3c6c56"/><path d="M558 700 L594 716 L534 880 L512 800 Z" fill="#3c6c56"/>
-<path d="M500 760 Q512 772 524 760" stroke="#c99a3c" stroke-width="5" fill="none"/>''',
- hair='''<path d="M368 430 Q356 296 430 248 Q510 206 596 236 Q676 270 664 400 Q640 330 588 300 Q556 330 470 336 Q420 340 392 372 Q376 396 368 430 Z" fill="#7a4a2a"/>
-<path d="M470 336 Q540 310 588 300 Q560 270 520 262 Q470 270 440 300 Z" fill="#8a5632"/>
-<path d="M360 470 Q340 560 372 640 Q352 700 384 726" stroke="#6e3f22" stroke-width="26" fill="none" stroke-linecap="round"/>
-<path d="M664 470 Q684 560 652 640 Q672 700 640 726" stroke="#6e3f22" stroke-width="26" fill="none" stroke-linecap="round"/>
-<path d="M600 250 Q650 300 650 380" stroke="#9a6640" stroke-width="7" fill="none" stroke-linecap="round" opacity=".7"/><path d="M430 270 Q392 320 390 390" stroke="#9a6640" stroke-width="6" fill="none" stroke-linecap="round" opacity=".6"/>''')
+# Christina Gerland: holidays, elections and civic calendars. Wall calendar, ballot tick, ribbon.
+christina=dict(skin="#f0c8a8",shade="#d9a888",line="#4a3024",iris="#3f6a8a",browc="#8a5a34",lip="#b8565a",blush="#e08a80",brow=5,smile=5,bw=8,lash=True,
+ bg="#f4ede2",
+ bgart='''<g><rect x="96" y="130" width="290" height="300" rx="18" fill="#fff" opacity=".75"/>
+<rect x="96" y="130" width="290" height="70" rx="18" fill="#b8565a" opacity=".55"/>
+<g fill="#1f3352" opacity=".18"><rect x="120" y="220" width="44" height="40" rx="6"/><rect x="180" y="220" width="44" height="40" rx="6"/><rect x="240" y="220" width="44" height="40" rx="6"/><rect x="300" y="220" width="44" height="40" rx="6"/>
+<rect x="120" y="280" width="44" height="40" rx="6"/><rect x="180" y="280" width="44" height="40" rx="6"/><rect x="300" y="280" width="44" height="40" rx="6"/><rect x="120" y="340" width="44" height="40" rx="6"/><rect x="180" y="340" width="44" height="40" rx="6"/></g>
+<rect x="240" y="280" width="44" height="40" rx="6" fill="#b8565a" opacity=".8"/>
+<rect x="700" y="160" width="200" height="150" rx="14" fill="#1f3352" opacity=".14"/><path d="M745 235 l30 30 l60 -64" stroke="#3f8a5a" stroke-width="16" fill="none" stroke-linecap="round" stroke-linejoin="round" opacity=".7"/>
+<path d="M760 760 q60 -40 120 0 q-60 40 -120 0 Z" fill="#b8565a" opacity=".25"/><circle cx="170" cy="800" r="90" fill="#1f3352" opacity=".08"/></g>''',
+ hairback='''<path d="M326 430 Q314 250 446 208 Q520 188 594 208 Q718 250 700 440 Q712 600 700 700 Q690 740 650 744 L374 744 Q334 740 324 700 Q312 600 326 430 Z" fill="#a8743e"/>''',
+ body='''<path d="M180 1024 Q196 808 340 748 Q420 714 470 702 L512 760 L554 702 Q604 714 684 748 Q828 808 844 1024 Z" fill="#1f3352"/>
+<path d="M470 702 L512 760 L554 702 L548 740 L512 790 L476 740 Z" fill="#f4ede2"/>
+<path d="M470 702 L428 722 L486 900 L512 790 Z" fill="#2a4166"/><path d="M554 702 L596 722 L538 900 L512 790 Z" fill="#2a4166"/>
+<circle cx="404" cy="830" r="16" fill="#b8565a"/><path d="M396 846 l-8 30 M412 846 l8 30" stroke="#b8565a" stroke-width="7" stroke-linecap="round"/>''',
+ hair='''<path d="M366 440 Q352 290 440 240 Q520 200 604 236 Q678 276 662 420 Q640 340 592 300 Q540 296 500 290 Q430 300 400 350 Q378 390 366 440 Z" fill="#b8824a"/>
+<path d="M500 290 Q560 252 620 280 Q600 250 560 240 Q520 236 480 256 Z" fill="#c8945a"/>
+<path d="M600 258 Q660 320 662 420" stroke="#d6a66a" stroke-width="7" fill="none" stroke-linecap="round" opacity=".7"/><path d="M440 262 Q396 310 392 380" stroke="#d6a66a" stroke-width="6" fill="none" stroke-linecap="round" opacity=".6"/>''',
+ extra='''<circle cx="358" cy="500" r="9" fill="#e0a33a"/><circle cx="666" cy="500" r="9" fill="#e0a33a"/>''')
 
-import random
-random.seed(3)
-curls=[]
-for i in range(120):
-    import math
-    a=math.pi*(1.02+0.96*i/119)
-    r=150+random.uniform(-6,10)
-    x=512+math.cos(a)*r*1.02; y=372+math.sin(a)*r*0.86
-    curls.append(f'<circle cx="{x:.0f}" cy="{y:.0f}" r="{random.uniform(14,20):.0f}" fill="#1b1512"/>')
-tex=[]
-for i in range(70):
-    x=random.uniform(400,624); y=random.uniform(250,330)
-    tex.append(f'<path d="M{x:.0f} {y:.0f} q6 -7 12 0" stroke="#3a2c24" stroke-width="3" fill="none" opacity=".7"/>')
-jordan=dict(skin="#8a5636",shade="#6e4128",line="#1f140e",iris="#3a2416",browc="#1b1512",lip="#5a2f22",blush="#a0503a",brow=3,smile=5,bw=12,
- bg="#e9f2f8",
- bgart='''<g fill="none"><circle cx="512" cy="470" r="400" stroke="#a9cfe6" stroke-width="5" opacity=".7"/><circle cx="512" cy="470" r="330" stroke="#a9cfe6" stroke-width="3" opacity=".6" stroke-dasharray="14 18"/>
-<path d="M140 330 A400 400 0 0 1 330 120" stroke="#2f7d7a" stroke-width="8" stroke-linecap="round" opacity=".45"/></g>
-<circle cx="840" cy="210" r="58" fill="#e98a3b" opacity=".85"/><circle cx="252" cy="190" r="14" fill="#2f7d7a" opacity=".6"/>
-<g fill="#3a3f45" opacity=".35"><circle cx="760" cy="420" r="8"/><circle cx="820" cy="380" r="8"/><circle cx="880" cy="400" r="8"/><circle cx="930" cy="350" r="8"/></g>
-<polyline points="760,420 820,380 880,400 930,350" fill="none" stroke="#3a3f45" stroke-width="3" opacity=".3"/>''',
- body='''<path d="M180 1024 Q192 804 336 744 Q420 708 470 696 L512 720 L554 696 Q604 708 688 744 Q832 804 844 1024 Z" fill="#3a3f45"/>
-<path d="M440 690 Q512 740 584 690 L600 760 L560 1024 L464 1024 L424 760 Z" fill="#2f7d7a"/>
-<path d="M452 690 Q512 734 572 690" stroke="#256764" stroke-width="10" fill="none"/>
-<path d="M440 690 L400 714 L456 900 L470 760 Z" fill="#454b52"/><path d="M584 690 L624 714 L568 900 L554 760 Z" fill="#454b52"/>
-<rect x="640" y="860" width="60" height="10" rx="4" fill="#e98a3b" opacity=".9"/>''',
- hair='<path d="M372 400 Q366 290 430 250 Q512 212 594 250 Q658 290 652 400 Q636 336 600 312 Q512 290 424 312 Q388 336 372 400 Z" fill="#1b1512"/>'+''.join(curls)+''.join(tex),
- extra='''<g fill="none" stroke="#2b2b2b" stroke-width="7"><circle cx="448" cy="430" r="46"/><circle cx="576" cy="430" r="46"/><path d="M494 424 Q512 412 530 424"/><path d="M402 424 L372 414"/><path d="M622 424 L652 414"/></g>
-<g fill="#fff" opacity=".18"><ellipse cx="434" cy="414" rx="18" ry="10"/><ellipse cx="562" cy="414" rx="18" ry="10"/></g>''')
-import json
-for n,c in [('alex-morgan',alex),('emily-carter',emily),('jordan-bennett',jordan)]:
+# Aaron Kessler: school calendars, money and benefits. Stacked books, coins, a ruled planner.
+aaron=dict(skin="#d9a27a",shade="#bc855e",line="#3a2618",iris="#4a6a3a",browc="#2e2018",lip="#8e5444",blush="#c46e5a",stubble="#2e2018",brow=3,smile=3,jaw=10,bw=13,
+ bg="#eef1e6",
+ bgart='''<g><rect x="110" y="300" width="240" height="44" rx="8" fill="#4f8a8b" opacity=".45"/><rect x="126" y="256" width="210" height="44" rx="8" fill="#c99a3c" opacity=".5"/><rect x="100" y="212" width="230" height="44" rx="8" fill="#8e5444" opacity=".35"/>
+<g fill="#c99a3c" opacity=".6"><ellipse cx="800" cy="300" rx="70" ry="22"/><ellipse cx="800" cy="276" rx="70" ry="22"/><ellipse cx="800" cy="252" rx="70" ry="22"/></g>
+<text x="800" y="262" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-weight="700" font-size="30" fill="#fff" opacity=".8">$</text>
+<rect x="700" y="660" width="210" height="250" rx="14" fill="#fff" opacity=".6" transform="rotate(6 805 785)"/>
+<g stroke="#4f8a8b" stroke-width="3" opacity=".35" transform="rotate(6 805 785)"><line x1="720" y1="710" x2="890" y2="710"/><line x1="720" y1="750" x2="890" y2="750"/><line x1="720" y1="790" x2="890" y2="790"/><line x1="720" y1="830" x2="890" y2="830"/></g></g>''',
+ body='''<path d="M180 1024 Q190 802 330 744 Q420 708 470 694 L512 740 L554 694 Q604 708 694 744 Q834 802 844 1024 Z" fill="#8e5444"/>
+<path d="M452 690 L512 742 L572 690 L566 716 L512 770 L458 716 Z" fill="#eef1e6"/>
+<path d="M440 694 Q512 790 584 694" stroke="#7a463a" stroke-width="14" fill="none"/>
+<path d="M330 1024 L340 860 M694 1024 L684 860" stroke="#7a463a" stroke-width="8" stroke-linecap="round" opacity=".6"/>''',
+ hair='''<path d="M372 410 Q360 300 420 262 Q500 220 592 244 Q664 270 654 410 Q644 340 610 316 Q560 300 520 312 Q470 296 430 320 Q392 346 372 410 Z" fill="#2e2018"/>
+<path d="M430 292 Q500 262 590 280" stroke="#4a3426" stroke-width="7" fill="none" stroke-linecap="round" opacity=".7"/>''',
+ extra='''<path d="M408 520 Q426 616 512 634 Q598 616 616 520 Q604 590 512 606 Q420 590 408 520 Z" fill="#2e2018" opacity=".55"/>
+<path d="M466 548 Q512 530 558 548 Q540 562 512 558 Q484 562 466 548 Z" fill="#2e2018" opacity=".6"/>''')
+
+# Jessica Hartwell: time, sky, sports and entertainment. Clock face, stars, a scoreboard.
+jessica=dict(skin="#a86f4c",shade="#8c5838",line="#2a1810",iris="#3a2416",browc="#1e1410",lip="#8a3e3a",blush="#b8604a",brow=6,smile=7,bw=9,lash=True,
+ bg="#e8eef6",
+ bgart='''<g><circle cx="230" cy="260" r="130" fill="#fff" opacity=".7"/><circle cx="230" cy="260" r="130" fill="none" stroke="#2f7d7a" stroke-width="6" opacity=".5"/>
+<path d="M230 260 L230 180 M230 260 L290 290" stroke="#3a3f45" stroke-width="10" stroke-linecap="round" opacity=".6"/><circle cx="230" cy="260" r="10" fill="#e98a3b"/>
+<g fill="#e98a3b" opacity=".8"><path d="M800 150 l10 24 26 2 -20 16 7 25 -23 -14 -23 14 7 -25 -20 -16 26 -2 Z"/></g>
+<g fill="#2f7d7a" opacity=".45"><circle cx="880" cy="260" r="7"/><circle cx="740" cy="230" r="5"/><circle cx="860" cy="340" r="5"/></g>
+<rect x="700" y="660" width="220" height="120" rx="12" fill="#3a3f45" opacity=".75"/><text x="810" y="738" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-weight="700" font-size="54" fill="#e98a3b">21:14</text></g>''',
+ hairback='''<path d="M340 430 Q330 260 450 216 Q520 196 590 216 Q700 258 690 430 Q696 520 680 580 L352 580 Q334 520 340 430 Z" fill="#1e1410"/>''',
+ body='''<path d="M180 1024 Q194 806 338 746 Q420 712 470 700 L512 740 L554 700 Q604 712 686 746 Q830 806 844 1024 Z" fill="#2f7d7a"/>
+<path d="M470 700 Q512 750 554 700 L548 1024 L476 1024 Z" fill="#3a3f45"/>
+<path d="M470 700 L432 720 L470 1024 L476 1024 Z" fill="#256764"/><path d="M554 700 L592 720 L554 1024 L548 1024 Z" fill="#256764"/>
+<rect x="612" y="860" width="70" height="12" rx="5" fill="#e98a3b" opacity=".9"/>''',
+ hair='''<path d="M364 430 Q352 286 446 238 Q526 202 606 238 Q680 280 664 430 Q650 360 616 322 Q580 298 512 300 Q440 304 404 346 Q378 380 364 430 Z" fill="#1e1410"/>
+<path d="M352 470 Q340 540 356 590 Q346 620 372 640" stroke="#1e1410" stroke-width="30" fill="none" stroke-linecap="round"/>
+<path d="M672 470 Q684 540 668 590 Q678 620 652 640" stroke="#1e1410" stroke-width="30" fill="none" stroke-linecap="round"/>
+<path d="M606 248 Q656 300 660 380" stroke="#3a2a22" stroke-width="7" fill="none" stroke-linecap="round" opacity=".8"/>''',
+ extra='''<path d="M354 500 l0 34" stroke="#e98a3b" stroke-width="6" stroke-linecap="round"/><circle cx="354" cy="540" r="9" fill="#e98a3b"/>
+<path d="M670 500 l0 34" stroke="#e98a3b" stroke-width="6" stroke-linecap="round"/><circle cx="670" cy="540" r="9" fill="#e98a3b"/>''')
+
+def desk():
+    """The News Desk is a team, so it gets an emblem, not a face: a folded newspaper over a puzzle grid."""
+    g=grain('g'); cells=[]
+    for r in range(5):
+        for c in range(5):
+            fill="#2f5a46" if (r*5+c) in (0,6,12,18,24,4,20) else "#ffffff"
+            cells.append(f'<rect x="{332+c*72}" y="{300+r*72}" width="64" height="64" rx="10" fill="{fill}" opacity="{.85 if fill=="#2f5a46" else .9}"/>')
+    return '\n'.join([f'<svg xmlns="http://www.w3.org/2000/svg" width="{W}" height="{W}" viewBox="0 0 {W} {W}"><defs>{g}</defs>',
+        f'<rect width="{W}" height="{W}" fill="#eef4ee"/>',
+        '<circle cx="512" cy="512" r="420" fill="none" stroke="#2f5a46" stroke-width="10" opacity=".35"/>',
+        '<circle cx="512" cy="512" r="350" fill="none" stroke="#2f5a46" stroke-width="4" opacity=".3" stroke-dasharray="14 18"/>',
+        '<rect x="300" y="268" width="424" height="424" rx="28" fill="#dfe9df"/>', *cells,
+        '<path d="M250 720 L774 720 L742 820 L282 820 Z" fill="#1f3352"/><rect x="300" y="740" width="200" height="16" rx="6" fill="#eef4ee" opacity=".8"/><rect x="300" y="772" width="320" height="12" rx="6" fill="#eef4ee" opacity=".5"/>',
+        '<circle cx="790" cy="250" r="46" fill="#e0a33a" opacity=".9"/>',
+        f'<rect width="{W}" height="{W}" fill="#000" filter="url(#g)"/></svg>'])
+
+for n,c in [('christina-gerland',christina),('aaron-kessler',aaron),('jessica-hartwell',jessica)]:
     open(f'{sys.argv[1]}/{n}.svg','w').write(build(c))
+open(f'{sys.argv[1]}/news-desk.svg','w').write(desk())

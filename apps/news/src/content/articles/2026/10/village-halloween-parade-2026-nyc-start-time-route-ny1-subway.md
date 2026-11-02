@@ -5,7 +5,7 @@ description: "The 53rd Village Halloween Parade stepped off at 7 p.m. Eastern Ti
 type: news
 publishedAt: "2026-10-30T07:40:54-04:00"
 updatedAt: "2026-11-01T05:38:00-05:00"
-authors: [jordan-bennett]
+authors: [christina-gerland]
 category: holidays
 keywords: ["village halloween parade 2026", "nyc halloween parade time", "halloween parade nyc route", "village halloween parade tv ny1"]
 dateline: "New York"

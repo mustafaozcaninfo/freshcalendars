@@ -4,7 +4,7 @@ seoTitle: "Nuggets Schedule November 2026: Times, TV, Mexico City"
 description: "The Nuggets host Portland on Mon., Nov. 2, 2026, at 7 p.m. Mountain Time (MT), 9 p.m. Eastern Time (ET). Denver plays 14 games in November, one in Mexico City."
 type: news
 publishedAt: "2026-10-30T23:41:00-04:00"
-authors: [jordan-bennett]
+authors: [jessica-hartwell]
 category: sports
 keywords: ["denver nuggets schedule november 2026", "nuggets game tonight", "nuggets mexico city game 2026", "nuggets schedule printable"]
 dateline: "New York"
@@ -88,7 +88,7 @@ internalLinks:
     label: "printable weekly calendar"
   - href: "/december-calendars.html"
     label: "December 2026 printable calendar"
-related: [lakers-schedule-november-2026-game-times-tv-nba-cup-printable, nba-cup-2026-schedule-dates-group-play-knockouts-final-indianapolis, nba-games-today-november-1-2026]
+related: [lakers-schedule-november-2026-game-times-tv-nba-cup-printable, nba-cup-2026-schedule-dates-group-play-knockouts-final-indianapolis, dallas-mavericks-schedule-november-2026-game-times-tv-nba-cup-printable]
 downloads:
   - group: "Denver Nuggets November 2026 Schedule printables"
     title: "Denver Nuggets November 2026 Schedule"

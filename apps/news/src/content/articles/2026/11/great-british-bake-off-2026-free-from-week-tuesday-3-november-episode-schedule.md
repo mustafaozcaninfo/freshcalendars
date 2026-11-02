@@ -4,7 +4,7 @@ seoTitle: "Bake Off 2026: Free-From Week Tue 3 Nov, Episodes"
 description: "Bake Off Series 17 airs Free-From Party Week on Channel 4 on Tue. 3 Nov 2026, with three episodes left. Netflix has Collection 14 weekly on Fridays."
 type: news
 publishedAt: "2026-11-01T03:20:00-05:00"
-authors: [alex-morgan]
+authors: [jessica-hartwell]
 category: entertainment
 dateline: "London"
 keywords: ["bake off 2026", "great british bake off episode schedule", "when is the bake off final 2026", "great british baking show collection 14 netflix"]

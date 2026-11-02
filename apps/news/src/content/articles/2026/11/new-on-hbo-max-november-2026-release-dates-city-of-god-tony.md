@@ -4,7 +4,7 @@ seoTitle: "New on HBO Max November 2026: Dated List"
 description: "Warner Bros. Discovery (WBD) dates two HBO documentaries for Nov. 17 and Nov. 25; City of God season 2 is Sun., Nov. 8 and Tony is Fri., Nov. 20. See each date."
 type: news
 publishedAt: "2026-11-01T06:41:00-05:00"
-authors: [jordan-bennett]
+authors: [jessica-hartwell]
 category: entertainment
 keywords: ["new on HBO Max November 2026", "HBO Max November 2026 schedule", "what's coming to HBO Max in November", "City of God season 2 release date HBO Max"]
 assets:

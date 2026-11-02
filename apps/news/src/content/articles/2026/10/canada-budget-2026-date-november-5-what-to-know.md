@@ -5,7 +5,7 @@ description: "Canada's federal Budget 2026 will be tabled Thursday, Nov. 5, 2026
 type: news
 publishedAt: "2026-10-28T18:00:00-04:00"
 updatedAt: "2026-11-01T10:31:00-05:00"
-authors: [alex-morgan]
+authors: [christina-gerland]
 category: uk-canada
 keywords: ["canada budget 2026 date", "federal budget 2026 canada", "when is the federal budget", "budget 2026 november 5"]
 hero:
@@ -58,7 +58,7 @@ internalLinks:
     label: "November 2026 printable calendar"
   - href: "/printable-weekly-calendar.html"
     label: "printable weekly calendar"
-related: [uk-budget-2026-date-wednesday-28-october-what-time, canada-clocks-fall-back-november-1-2026-which-provinces-no-time-change, state-pension-increase-april-2027-triple-lock-budget]
+related: [uk-budget-2026-date-wednesday-28-october-what-time, canada-clocks-fall-back-november-1-2026-which-provinces-no-time-change, rrsp-deadline-2027-march-1-canada-tax-season-dates]
 draft: false
 assets:
   scene: calendar

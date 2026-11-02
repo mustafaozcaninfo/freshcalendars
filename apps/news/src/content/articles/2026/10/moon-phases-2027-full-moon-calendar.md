@@ -4,7 +4,7 @@ seoTitle: "Moon Phases 2027: Full Moon Calendar and Dates"
 description: "Every full moon of 2027 with dates, U.S. times and names, plus new moons, eclipses and the Harvest Moon on Sept. 15. Four free moon phase printables."
 type: explainer
 publishedAt: "2026-10-18T11:50:00-04:00"
-authors: [jordan-bennett]
+authors: [jessica-hartwell]
 category: sky-events
 keywords: ["moon phases 2027", "full moon calendar 2027", "full moon dates 2027", "moon calendar 2027", "Harvest Moon 2027"]
 dateline: "New York"
@@ -51,7 +51,7 @@ internalLinks:
     label: "January 2027 printable calendar"
   - href: "/september-calendars.html"
     label: "September printable calendar"
-related: [ramadan-2027-calendar-dates-timetable, orionid-meteor-shower-2026-peak-october-21-22, moon-phase-tonight-october-27-november-2026-moon-calendar]
+related: [meteor-showers-2027-calendar-peak-dates-moon-phase-best-nights, next-blood-moon-total-lunar-eclipse-after-2026-dates-us-times-2028-2029, moon-phase-tonight-october-27-november-2026-moon-calendar]
 downloads:
   - group: "Moon phase printables"
     title: "Moon Phase Calendar 2027"

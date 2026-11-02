@@ -4,7 +4,7 @@ seoTitle: "Philadelphia School Calendar 2026-27: Closures"
 description: "School District of Philadelphia (SDP) 2026-27: classes start Aug. 24, winter recess Dec. 23-31, spring recess Mar. 22-25 plus Good Friday, last day June 9."
 type: news
 publishedAt: "2026-10-26T18:37:00-04:00"
-authors: [emily-carter]
+authors: [aaron-kessler]
 category: school-calendars
 keywords: ["philadelphia school district calendar 2026-27", "sdp calendar 2026-2027", "philadelphia schools winter break 2026", "philadelphia schools spring break 2027", "philly schools closed eid"]
 dateline: "Philadelphia"

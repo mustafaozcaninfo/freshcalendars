@@ -5,7 +5,7 @@ description: "The tax deadline 2027 is Thursday, April 15, for 2026 federal retu
 type: explainer
 publishedAt: "2026-10-20T01:30:00-04:00"
 updatedAt: "2026-10-24T00:50:00-04:00"
-authors: [alex-morgan]
+authors: [aaron-kessler]
 category: money-benefits
 keywords: ["tax deadline 2027 date", "tax deadline 2027", "2027 tax calendar", "when are taxes due 2027", "tax day 2027"]
 dateline: "Washington"
@@ -56,7 +56,7 @@ internalLinks:
     label: "April 2027 printable calendar"
   - href: "/january-calendars.html"
     label: "January 2027 printable calendar"
-related: [when-does-tax-season-start-2027-irs-filing-opening-date, social-security-cola-2027-3-6-percent-payment-dates, 2026-required-minimum-distribution-deadline-ira-401k]
+related: [w2-1099-deadline-2027-february-1-irs-due-dates, when-does-tax-season-start-2027-irs-filing-opening-date, social-security-cola-2027-3-6-percent-payment-dates]
 downloads:
   - group: "Tax calendar printable"
     title: "2027 Federal Tax Calendar"

@@ -5,7 +5,7 @@ description: "Sample ballot and polling place lookup for Nov. 3, 2026: official 
 type: explainer
 publishedAt: "2026-10-25T13:09:00-04:00"
 updatedAt: "2026-10-28T18:20:00-04:00"
-authors: [alex-morgan]
+authors: [christina-gerland]
 category: elections
 keywords: ["sample ballot 2026", "voting near me", "polling place lookup", "sample ballot by zip code", "printable sample ballot"]
 dateline: "New York"

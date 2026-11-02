@@ -5,7 +5,7 @@ description: "Sunset jumped an hour earlier on Nov. 1, 2026: 4:52 p.m. in New Yo
 type: explainer
 publishedAt: "2026-10-20T01:20:00-04:00"
 updatedAt: "2026-11-01T05:45:00-05:00"
-authors: [jordan-bennett]
+authors: [jessica-hartwell]
 category: time-change
 keywords: ["sunset time after daylight saving time ends", "what time does it get dark November 2026", "earliest sunset 2026", "sunset times by city", "sunset November 1 2026"]
 dateline: "Washington"

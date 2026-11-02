@@ -4,7 +4,7 @@ seoTitle: "Northern Lights UK Tonight: Met Office Scotland Forecast"
 description: "Tonight, Sunday 1 November 2026, the Met Office gives a chance of aurora over northern Scotland; darkness falls about 18:35 to 18:50 Greenwich Mean Time (GMT)."
 type: news
 publishedAt: "2026-11-01T12:42:00-05:00"
-authors: [jordan-bennett]
+authors: [jessica-hartwell]
 category: sky-events
 keywords: ["northern lights uk tonight", "aurora borealis uk", "northern lights scotland tonight", "met office aurora forecast"]
 hero:

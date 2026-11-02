@@ -4,7 +4,8 @@ seoTitle: "SNAP Payment Schedule December 2026: Dates by State"
 description: "Supplemental Nutrition Assistance Program (SNAP) deposit days for December 2026 by state, with first and last weekdays and Christmas Day flagged."
 type: news
 publishedAt: "2026-10-31T10:30:00-04:00"
-authors: [alex-morgan]
+updatedAt: "2026-11-02T02:43:00-05:00"
+authors: [aaron-kessler]
 category: money-benefits
 keywords: ["SNAP payment schedule December 2026", "when will SNAP be deposited December 2026", "food stamps December 2026 dates by state", "SNAP deposit dates by state"]
 dateline: "New York"
@@ -51,12 +52,16 @@ sources:
     url: "https://www.news4jax.com/news/local/2026/10/02/snap-benefits-increase-for-millions-of-americans/"
     publisher: "News4Jax"
     date: "2026-10-02"
+  - title: "The dates when DSS issues SNAP and Cash benefits are changing"
+    url: "https://portal.ct.gov/dss/knowledge-base/articles/snap/the-dates-when-dss-issues-snap-and-cash-benefits-are-changing"
+    publisher: "Connecticut Department of Social Services"
+    date: "2026-01-16"
 internalLinks:
   - href: "/december-calendars.html"
     label: "December 2026 printable calendar"
   - href: "/printable-weekly-calendar.html"
     label: "printable weekly calendar"
-related: [snap-payment-schedule-november-2026-deposit-dates-by-state, social-security-payment-schedule-december-2026-ssi-december-31, christmas-eve-christmas-day-2026-store-hours]
+related: [snap-payment-schedule-november-2026-deposit-dates-by-state, social-security-payment-schedule-december-2026-ssi-december-31, snap-payment-schedule-january-2027-deposit-dates-by-state]
 assets:
   overlay: true
   kicker: "SNAP December 2026"
@@ -113,7 +118,7 @@ December 1, 2026 is a Tuesday. The table gives each place's days from the FNS sc
 | Arkansas | 4th to 13th | Fri., Dec. 4 | Sun., Dec. 13 | No |
 | California | 1st to 10th | Tue., Dec. 1 | Thu., Dec. 10 | No |
 | Colorado | 1st to 10th (cash benefits 1st to 3rd) | Tue., Dec. 1 | Thu., Dec. 10 | No |
-| Connecticut | 1st to 3rd | Tue., Dec. 1 | Thu., Dec. 3 | No |
+| Connecticut | 1st to 8th | Tue., Dec. 1 | Tue., Dec. 8 | No |
 | Delaware | 2nd to 23rd | Wed., Dec. 2 | Wed., Dec. 23 | No |
 | District of Columbia | 1st to 10th | Tue., Dec. 1 | Thu., Dec. 10 | No |
 | Florida | 1st to 28th | Tue., Dec. 1 | Mon., Dec. 28 | Falls on Christmas: check your state agency |
@@ -163,7 +168,7 @@ December 1, 2026 is a Tuesday. The table gives each place's days from the FNS sc
 | Wisconsin | 2nd to 15th | Wed., Dec. 2 | Tue., Dec. 15 | No |
 | Wyoming | 1st to 4th | Tue., Dec. 1 | Fri., Dec. 4 | No |
 
-Pennsylvania counts business days, so its first 10 business days run from Tuesday, Dec. 1 to Monday, Dec. 14 when weekends are skipped, as the PDF describes; its counties use one, two or ten pay-day cycles. New York City posts on 13 days in the first two weeks of the month, and the city publishes its own schedule. Texas lists one set of days for households certified after June 1, 2020 (16th to 28th) and another for earlier households (1st to 15th). For states with a digit or letter rule, such as Hawaii, Illinois and Utah, the first and last days are the ends of the listed days.
+Pennsylvania counts business days, so its first 10 business days run from Tuesday, Dec. 1 to Monday, Dec. 14 when weekends are skipped, as the PDF describes; its counties use one, two or ten pay-day cycles. New York City posts on 13 days in the first two weeks of the month, and the city publishes its own schedule. Connecticut moved to an eight-day schedule on March 1, 2026, according to the Connecticut Department of Social Services (DSS). Texas lists one set of days for households certified after June 1, 2020 (16th to 28th) and another for earlier households (1st to 15th). For states with a digit or letter rule, such as Hawaii, Illinois and Utah, the first and last days are the ends of the listed days.
 
 ## Does Christmas Day or New Year's Day change SNAP deposits?
 

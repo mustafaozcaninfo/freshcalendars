@@ -4,7 +4,7 @@ seoTitle: "NFL Week 12 Schedule 2026: Times and Pick'em Sheet"
 description: "National Football League (NFL) Week 12 runs Nov. 25 to 30, 2026: 16 games, no byes, Eastern Time (ET) kickoffs, TV channels and a printable pick'em sheet."
 type: news
 publishedAt: "2026-10-31T10:30:00-04:00"
-authors: [jordan-bennett]
+authors: [jessica-hartwell]
 category: sports
 keywords: ["NFL Week 12 schedule 2026", "NFL Week 12 pick em sheet printable", "NFL Thanksgiving 2026 game times", "NFL Thanksgiving Eve game time"]
 assets:
@@ -100,7 +100,7 @@ internalLinks:
     label: "November 2026 printable calendar"
   - href: "/printable-weekly-calendar.html"
     label: "Printable weekly calendar"
-related: [nfl-week-11-schedule-2026-printable-pick-em-sheet-game-times, printable-nfl-pickem-sheets-2026, thanksgiving-football-schedule-2026-nfl-college-games]
+related: [nfl-week-13-schedule-2026-printable-pick-em-sheet-game-times, printable-nfl-pickem-sheets-2026, thanksgiving-football-schedule-2026-nfl-college-games]
 draft: false
 ---
 

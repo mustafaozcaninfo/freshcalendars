@@ -4,7 +4,7 @@ seoTitle: "Christmas Markets 2026: Manchester and Birmingham Dates"
 description: "Birmingham's Frankfurt Christmas Market opens Thursday 5 November 2026 and Manchester's opens Friday 6 November, per Visit Birmingham and Visit Manchester."
 type: news
 publishedAt: "2026-10-28T05:42:00-04:00"
-authors: [alex-morgan]
+authors: [christina-gerland]
 category: uk-canada
 keywords: ["Manchester Christmas Markets 2026", "Birmingham Christmas market 2026 dates", "when do the Christmas markets open 2026", "Frankfurt Christmas Market Birmingham opening times"]
 dateline: "Manchester"

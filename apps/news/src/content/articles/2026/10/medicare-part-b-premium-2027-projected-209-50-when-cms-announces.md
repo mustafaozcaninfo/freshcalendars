@@ -4,7 +4,7 @@ seoTitle: "Medicare Part B Premium 2027: $209.50 Projected"
 description: "Trustees project a $209.50 Part B premium for 2027, up from $202.90 in 2026. The Centers for Medicare & Medicaid Services (CMS) has not yet announced it."
 type: explainer
 publishedAt: "2026-10-28T18:00:00-04:00"
-authors: [alex-morgan]
+authors: [aaron-kessler]
 category: money-benefits
 keywords: ["Medicare Part B premium 2027", "Part B premium 2027 projected", "Medicare Part B deductible 2027", "IRMAA 2026 brackets"]
 dateline: "New York"

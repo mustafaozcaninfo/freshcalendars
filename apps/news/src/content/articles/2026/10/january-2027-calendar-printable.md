@@ -4,7 +4,7 @@ seoTitle: "January 2027 Calendar: 12 Free Printables (PDF)"
 description: "January 2027 starts on Friday, Jan. 1 and has 31 days and two federal holidays. Get 12 free printable January 2027 calendar templates as PDF or image."
 type: explainer
 publishedAt: "2026-10-26T04:50:00-04:00"
-authors: [jordan-bennett]
+authors: [jessica-hartwell]
 category: calendar-guides
 keywords: ["january 2027 calendar", "january 2027 calendar printable", "january 2027 calendar with holidays", "printable january 2027 calendar pdf", "blank january 2027 calendar"]
 hero:

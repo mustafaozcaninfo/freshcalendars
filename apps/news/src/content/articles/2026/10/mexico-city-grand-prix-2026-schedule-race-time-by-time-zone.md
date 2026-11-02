@@ -5,7 +5,7 @@ description: "The Mexico City Grand Prix race is Sunday, Nov. 1, 2026, at 2 p.m.
 type: news
 publishedAt: "2026-10-25T14:19:00-04:00"
 updatedAt: "2026-11-01T01:45:00-04:00"
-authors: [jordan-bennett]
+authors: [jessica-hartwell]
 category: sports
 keywords: ["Mexico City Grand Prix 2026", "F1 Mexico GP time", "F1 Mexico 2026 schedule", "Mexico GP qualifying time", "Mexico City Grand Prix 2027 date"]
 dateline: "Mexico City"

@@ -4,7 +4,7 @@ seoTitle: "Netflix Christmas Movies 2026: Release Dates"
 description: "Netflix's Oct. 31 list dates 32 holiday titles from Nov. 1 to 28, 2026, and Tudum lists In a Holidaze for Dec. 2. See each date and print the watch list."
 type: news
 publishedAt: "2026-11-01T10:45:00-05:00"
-authors: [jordan-bennett]
+authors: [jessica-hartwell]
 category: entertainment
 keywords: ["netflix christmas movies 2026", "new netflix holiday movies 2026", "netflix christmas movies release dates", "in a holidaze netflix release date", "gospel of christmas netflix release date"]
 dateline: "Los Angeles"

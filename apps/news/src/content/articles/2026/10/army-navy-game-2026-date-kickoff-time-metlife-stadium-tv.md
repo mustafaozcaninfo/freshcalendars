@@ -4,7 +4,7 @@ seoTitle: "Army-Navy Game 2026: Date, Kickoff Time and Channel"
 description: "The 127th Army-Navy Game is Saturday, Dec. 12, 2026, at 3 p.m. Eastern Time (ET) on CBS at MetLife Stadium, Army's athletics department says. See every zone."
 type: explainer
 publishedAt: "2026-10-26T02:22:00-04:00"
-authors: [jordan-bennett]
+authors: [jessica-hartwell]
 category: sports
 keywords: ["Army-Navy game 2026", "Army Navy game 2026 date", "what time is the Army Navy game", "Army Navy game channel"]
 dateline: "East Rutherford, N.J."

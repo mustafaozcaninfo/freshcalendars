@@ -5,7 +5,7 @@ description: "The National Basketball Association (NBA) Emirates NBA Cup 2026 ru
 type: explainer
 publishedAt: "2026-10-25T20:18:00-04:00"
 updatedAt: "2026-10-26T14:00:00-04:00"
-authors: [jordan-bennett]
+authors: [jessica-hartwell]
 category: sports
 keywords: ["NBA Cup 2026 schedule", "Emirates NBA Cup 2026", "NBA Cup final 2026 date", "NBA Cup Nights"]
 dateline: "New York"
@@ -82,7 +82,7 @@ internalLinks:
     label: "December 2026 printable calendar"
   - href: "/when-is/thanksgiving/"
     label: "When is Thanksgiving?"
-related: [golden-state-warriors-schedule-november-2026-game-times-tv-nba-cup-printable, denver-nuggets-schedule-november-2026-game-times-tv-mexico-city-printable, knicks-schedule-november-2026-game-times-tv-nba-cup-printable]
+related: [golden-state-warriors-schedule-november-2026-game-times-tv-nba-cup-printable, 76ers-schedule-november-2026-game-times-tv-nba-cup-printable, knicks-schedule-november-2026-game-times-tv-nba-cup-printable]
 downloads:
   - group: "NBA Cup 2026 Schedule printables"
     title: "NBA Cup 2026 Schedule"

@@ -4,7 +4,7 @@ seoTitle: "Europa League November 2026 Schedule: Kickoff Times ET"
 description: "Europa and Conference League games on Nov. 5 and 26, 2026 start at 12:45 and 3 p.m. Eastern Time (ET), per the Union of European Football Associations (UEFA)."
 type: news
 publishedAt: "2026-11-01T01:15:00-05:00"
-authors: [jordan-bennett]
+authors: [jessica-hartwell]
 category: sports
 keywords: ["Europa League schedule November 2026", "Europa League kickoff time ET", "Conference League fixtures November 5", "Europa League Thanksgiving Day November 26"]
 assets:

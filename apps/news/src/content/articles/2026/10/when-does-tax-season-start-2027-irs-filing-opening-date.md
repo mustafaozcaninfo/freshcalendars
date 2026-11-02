@@ -4,7 +4,7 @@ seoTitle: "When Does Tax Season Start in 2027? IRS Update"
 description: "The Internal Revenue Service (IRS) has not announced the 2027 filing season start. The 2026 season opened Monday, Jan. 26, 2026. Tax Day 2027 is April 15."
 type: explainer
 publishedAt: "2026-10-31T00:58:00-04:00"
-authors: [alex-morgan]
+authors: [aaron-kessler]
 category: money-benefits
 keywords: ["when can i file taxes 2027", "tax season 2027 start date", "irs free file 2027", "when does tax season start 2027", "irs filing season 2027"]
 dateline: "Washington"

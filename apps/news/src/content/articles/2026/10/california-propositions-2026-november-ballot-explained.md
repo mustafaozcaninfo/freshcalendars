@@ -4,7 +4,7 @@ seoTitle: "California Propositions 2026: All 14 Explained"
 description: "California's Nov. 3, 2026 ballot has 14 propositions, from housing bonds to voter ID and a billionaire tax. What yes and no mean, plus mail ballot rules."
 type: explainer
 publishedAt: "2026-10-20T11:05:00-04:00"
-authors: [alex-morgan]
+authors: [christina-gerland]
 category: elections
 keywords: ["California propositions 2026", "California ballot November 2026", "Prop 1 2026 California", "California voter guide 2026", "California sample ballot 2026"]
 dateline: "Sacramento, Calif."
@@ -54,7 +54,7 @@ internalLinks:
     label: "October 2026 printable calendar"
   - href: "/printable-weekly-calendar.html"
     label: "Printable weekly planner"
-related: [sample-ballot-by-zip-code-2026-texas-ballot, mail-ballot-deadlines-2026-by-state, nevada-ballot-questions-2026-question-6-question-7-explained]
+related: [california-election-results-2026-polls-close-8-p-m-pt-when-the-count-ends, sample-ballot-by-zip-code-2026-texas-ballot, mail-ballot-deadlines-2026-by-state]
 downloads:
   - group: "Election 2026 printables"
     title: "California Ballot Checklist, Nov. 3, 2026"

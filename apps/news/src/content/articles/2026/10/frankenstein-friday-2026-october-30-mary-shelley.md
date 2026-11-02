@@ -4,7 +4,7 @@ seoTitle: "Frankenstein Friday 2026: Oct. 30 and a Reading Sheet"
 description: "Frankenstein Friday is Oct. 30, 2026, the last Friday of October. Where Mary Shelley began the novel, how the book differs from the films, and a reading sheet."
 type: explainer
 publishedAt: "2026-10-29T15:20:00-04:00"
-authors: [alex-morgan]
+authors: [christina-gerland]
 category: holidays
 keywords: ["Frankenstein Friday 2026", "Frankenstein Friday", "Mary Shelley Frankenstein", "Frankenstein book vs movie", "Frankenstein printable"]
 dateline: "New York"

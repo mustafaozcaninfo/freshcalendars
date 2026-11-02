@@ -4,7 +4,7 @@ seoTitle: "Moon Phase Tonight and November 2026 Moon Calendar"
 description: "Tonight, Oct. 27, 2026, the Moon is a waning gibbous, 97% lit, rising 6:39 p.m. Eastern Daylight Time (EDT) in New York, says the U.S. Naval Observatory (USNO)."
 type: explainer
 publishedAt: "2026-10-27T13:44:00-04:00"
-authors: [jordan-bennett]
+authors: [jessica-hartwell]
 category: sky-events
 keywords: ["moon phase tonight", "moon tonight", "moon phase October 27 2026", "moon phases November 2026", "moon calendar November 2026"]
 hero:

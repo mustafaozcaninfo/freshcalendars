@@ -5,7 +5,7 @@ description: "The 100th Macy's parade airs Thu., Nov. 26 at 8:30 a.m. on NBC. Fi
 type: news
 publishedAt: "2026-10-22T12:55:00-04:00"
 updatedAt: "2026-10-24T01:40:00-04:00"
-authors: [alex-morgan]
+authors: [christina-gerland]
 category: holidays
 keywords: ["Thanksgiving 2026 TV schedule", "Macy's Thanksgiving Day Parade 2026", "NFL Thanksgiving games 2026", "what channel is the Macy's parade on", "Thanksgiving Eve game 2026"]
 dateline: "New York"
@@ -88,7 +88,7 @@ internalLinks:
     label: "When is Thanksgiving?"
   - href: "/when-is/black-friday/"
     label: "When is Black Friday?"
-related: [why-thanksgiving-2026-is-november-26, cbs-holiday-specials-2026-schedule-kids-choice-awards-soul-train-new-years-eve, thanksgiving-parades-2026-detroit-houston-philadelphia-chicago-start-times-tv]
+related: [macys-thanksgiving-day-parade-2026-start-time-route-tv-balloons, cbs-holiday-specials-2026-schedule-kids-choice-awards-soul-train-new-years-eve, thanksgiving-parades-2026-detroit-houston-philadelphia-chicago-start-times-tv]
 downloads:
   - group: "Thanksgiving 2026 TV Schedule printables"
     title: "Thanksgiving 2026 TV Schedule, Nov. 25-27"

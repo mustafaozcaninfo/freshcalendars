@@ -4,7 +4,7 @@ seoTitle: "Australian Open 2027 Dates, Time Zones and TV"
 description: "The Australian Open 2027 runs Jan. 11-31 at Melbourne Park; finals are Jan. 30-31. See 2026 start times in Eastern Time (ET) and Pacific Time (PT)."
 type: news
 publishedAt: "2026-10-28T18:00:00-04:00"
-authors: [jordan-bennett]
+authors: [jessica-hartwell]
 category: sports
 keywords: ["australian open 2027 dates", "australian open 2027 schedule", "australian open time zones us uk", "australian open 2027 tv"]
 dateline: "New York"

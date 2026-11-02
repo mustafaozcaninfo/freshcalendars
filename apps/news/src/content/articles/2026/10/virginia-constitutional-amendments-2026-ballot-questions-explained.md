@@ -4,7 +4,7 @@ seoTitle: "Virginia Constitutional Amendments 2026 Explained"
 description: "Virginia's Nov. 3, 2026 ballot has three proposed constitutional amendments, per the Department of Elections: exact wording, what each changes and deadlines."
 type: explainer
 publishedAt: "2026-10-31T13:40:00-04:00"
-authors: [alex-morgan]
+authors: [christina-gerland]
 category: elections
 keywords: ["Virginia constitutional amendments 2026", "Virginia ballot questions November 2026", "Virginia Question 1 2026", "Virginia voting rights amendment 2026", "Virginia election day 2026"]
 dateline: "Richmond"

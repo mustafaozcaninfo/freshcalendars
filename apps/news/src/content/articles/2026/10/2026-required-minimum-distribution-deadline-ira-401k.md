@@ -4,7 +4,7 @@ seoTitle: "2026 RMD Deadline: Dec. 31 and April 1, 2027"
 description: "The required minimum distribution (RMD) deadline for 2026 is Thu., Dec. 31, per the IRS. A first RMD for age 73 in 2026 is due Thu., April 1, 2027."
 type: explainer
 publishedAt: "2026-10-30T15:30:00-04:00"
-authors: [alex-morgan]
+authors: [aaron-kessler]
 category: money-benefits
 keywords: ["2026 rmd deadline", "required minimum distribution deadline 2026", "rmd age 73", "first rmd april 1 2027", "ira 401k rmd"]
 hero:

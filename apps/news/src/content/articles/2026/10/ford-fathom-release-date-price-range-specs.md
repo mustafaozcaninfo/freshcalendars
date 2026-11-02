@@ -5,7 +5,7 @@ description: "Ford Fathom starts at a $28,350 manufacturer's suggested retail pr
 type: explainer
 publishedAt: "2026-10-29T14:30:00-04:00"
 updatedAt: "2026-10-30T01:20:00-04:00"
-authors: [jordan-bennett]
+authors: [jessica-hartwell]
 category: gaming-tech
 keywords: ["Ford Fathom", "Ford Fathom release date", "Ford Fathom price", "Ford Fathom range", "Ford Fathom preorder"]
 hero:

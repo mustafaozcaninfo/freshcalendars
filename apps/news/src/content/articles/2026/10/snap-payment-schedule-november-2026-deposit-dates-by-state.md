@@ -4,7 +4,7 @@ seoTitle: "SNAP Payment Schedule November 2026: Dates by State"
 description: "Supplemental Nutrition Assistance Program (SNAP) benefits load Sunday, Nov. 1, 2026 in some states. Deposit days by state, per Food and Nutrition Service (FNS)."
 type: explainer
 publishedAt: "2026-10-29T10:05:43-04:00"
-authors: [alex-morgan]
+authors: [aaron-kessler]
 category: money-benefits
 keywords: ["SNAP payment schedule November 2026", "when will SNAP be deposited November 2026", "food stamps November 2026 dates by state", "SNAP deposit dates by state"]
 dateline: "New York"
@@ -54,7 +54,7 @@ internalLinks:
     label: "December 2026 printable calendar"
   - href: "/when-is/veterans-day/"
     label: "When is Veterans Day?"
-related: [social-security-payment-schedule-november-2026-veterans-day-shift, snap-payment-schedule-december-2026-deposit-dates-by-state, government-funding-deadline-december-11-2026-shutdown]
+related: [social-security-payment-schedule-november-2026-veterans-day-shift, snap-payment-schedule-december-2026-deposit-dates-by-state, snap-payment-schedule-january-2027-deposit-dates-by-state]
 assets:
   overlay: true
   kicker: "SNAP · Sun., Nov. 1, 2026"

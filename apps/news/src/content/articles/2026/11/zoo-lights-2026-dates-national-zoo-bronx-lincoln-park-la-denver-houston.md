@@ -4,7 +4,7 @@ seoTitle: "Zoo Lights 2026 Dates: 12 Shows, Closed Nights, Prices"
 description: "Atlanta Botanical Garden's Garden Lights opens Sat., Nov. 14, 2026, and most zoo light shows start Nov. 19-21 and run to Jan. 3, 2027, per each site."
 type: news
 publishedAt: "2026-10-31T19:45:00-04:00"
-authors: [jordan-bennett]
+authors: [christina-gerland]
 category: holidays
 keywords: ["zoo lights 2026", "zoolights 2026 dates", "holiday lights at the zoo 2026", "when does zoo lights open", "zoo lights closed nights 2026"]
 hero:

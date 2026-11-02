@@ -5,7 +5,7 @@ description: "The Lakers play at the Warriors on Fri., Oct. 30, 2026, at 7 p.m. 
 type: news
 publishedAt: "2026-10-29T01:45:00-04:00"
 updatedAt: "2026-10-30T01:05:00-04:00"
-authors: [jordan-bennett]
+authors: [jessica-hartwell]
 category: sports
 keywords: ["Lakers schedule", "Lakers schedule November 2026", "next Lakers game", "Lakers game tonight", "Lakers NBA Cup 2026"]
 dateline: "New York"
@@ -79,7 +79,7 @@ internalLinks:
     label: "October 2026 printable calendar"
   - href: "/printable-weekly-calendar.html"
     label: "printable weekly calendar"
-related: [nba-cup-2026-schedule-dates-group-play-knockouts-final-indianapolis, golden-state-warriors-schedule-november-2026-game-times-tv-nba-cup-printable, christmas-day-2026-games-nba-nfl-schedule-times-tv]
+related: [nba-cup-2026-schedule-dates-group-play-knockouts-final-indianapolis, lakers-schedule-december-2026-game-times-tv-christmas-printable, miami-heat-schedule-november-2026-game-times-tv-nba-cup-printable]
 downloads:
   - group: "Lakers Schedule printables"
     title: "Lakers Schedule, November 2026"

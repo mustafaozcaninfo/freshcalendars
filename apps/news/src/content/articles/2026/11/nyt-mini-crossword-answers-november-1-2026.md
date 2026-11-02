@@ -63,7 +63,7 @@ Start with 4-Down and 6-Down, the only three-letter answers. 1-Across and 1-Down
 
 Keep a streak log on our [printable weekly calendar](/printable-weekly-calendar.html) or the [November 2026 printable calendar](/november-calendars.html).
 
-More of Sunday's puzzles: [Wordle hints](/news/wordle-hint-answer-today-november-1-2026-1961/), [Connections hints](/news/nyt-connections-hints-answers-november-1-2026-1239/), [Strands hints](/news/nyt-strands-hints-answers-november-1-2026-973/), [Spelling Bee hints](/news/nyt-spelling-bee-hints-answers-november-1-2026/) and [Pips hints](/news/nyt-pips-hints-answers-november-1-2026/). Saturday's grid is in our [Mini answers for Oct. 31](/news/nyt-mini-crossword-answers-october-31-2026/).
+More of Sunday's puzzles: [Wordle hints](/news/wordle-hint-answer-today-november-1-2026-1961/), [Connections hints](/news/nyt-connections-hints-answers-november-1-2026-1239/), [Strands hints](/news/nyt-strands-hints-answers-november-1-2026-973/), [Spelling Bee hints](/news/nyt-spelling-bee-hints-answers-november-1-2026/) and [Pips hints](/news/nyt-pips-hints-answers-november-1-2026/). Saturday's grid is in our [Mini answers for Oct. 31](/news/nyt-mini-crossword-answers-october-31-2026/), and Monday's in our [Mini answers for Nov. 2](/news/nyt-mini-crossword-answers-november-2-2026/).
 
 ## Today's NYT Mini answers (spoilers)
 

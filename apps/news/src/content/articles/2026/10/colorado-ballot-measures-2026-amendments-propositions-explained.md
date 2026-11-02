@@ -5,7 +5,7 @@ description: "Colorado's Nov. 3, 2026 ballot has 14 statewide measures, per the 
 type: explainer
 publishedAt: "2026-10-31T14:40:00-04:00"
 updatedAt: "2026-11-01T02:44:00-05:00"
-authors: [alex-morgan]
+authors: [christina-gerland]
 category: elections
 keywords: ["Colorado ballot measures 2026", "Colorado amendments 2026", "Colorado Blue Book 2026", "Colorado propositions 2026", "Colorado ballot drop off deadline"]
 dateline: "Denver"

@@ -4,7 +4,8 @@ seoTitle: "What Time Do Polls Close? Election Day 2026 by State"
 description: "Polls close between 6 p.m. and 1 a.m. Eastern on Tuesday, Nov. 3, 2026. Every state's closing time, the split time zones and the in-line rule."
 type: explainer
 publishedAt: "2026-10-20T10:30:00-04:00"
-authors: [alex-morgan]
+updatedAt: "2026-11-02T13:17:00-05:00"
+authors: [christina-gerland]
 category: elections
 keywords: ["what time do polls close", "polls close time 2026", "election day 2026 poll hours", "what time do polls open", "poll closing times by state"]
 dateline: "Washington"
@@ -46,7 +47,7 @@ internalLinks:
     label: "Printable weekly planner"
   - href: "/when-is/daylight-savings/"
     label: "When daylight saving time ends"
-related: [sample-ballot-by-zip-code-2026-texas-ballot, 2026-midterm-elections-whats-on-the-ballot-results-tracker, mail-ballot-deadlines-2026-by-state]
+related: [sample-ballot-by-zip-code-2026-texas-ballot, can-i-drop-off-my-mail-in-ballot-on-election-day-2026, mail-ballot-deadlines-2026-by-state]
 downloads:
   - group: "Election 2026 printables"
     title: "When Polls Close, Nov. 3, 2026"
@@ -92,7 +93,7 @@ Several states close at the same local time in two time zones, so their last pol
 - **Florida:** 7 p.m. local. The western Panhandle, on Central Time, closes at 8 p.m. Eastern.
 - **Indiana and Kentucky:** 6 p.m. local. Central Time counties close at 7 p.m. Eastern.
 - **Michigan:** 8 p.m. local. Four Upper Peninsula counties on Central Time close at 9 p.m. Eastern.
-- **Texas:** 7 p.m. local. El Paso and Hudspeth counties, on Mountain Time, close at 9 p.m. Eastern.
+- **Texas:** 7 p.m. local. El Paso and Hudspeth counties, on Mountain Time, close at 9 p.m. Eastern. Where Texas results appear and when counties canvass is in our [Texas election results guide](/news/texas-election-results-2026-polls-close-where-to-follow-canvass-dates/).
 - **Kansas, South Dakota and Nebraska:** western counties on Mountain Time close an hour later in Eastern Time. In Nebraska both halves close at 9 p.m. Eastern.
 - **Idaho:** 8 p.m. local. The northern counties on Pacific Time close at 11 p.m. Eastern.
 - **Alaska:** 8 p.m. local, midnight Eastern; the Aleutian Islands close at 1 a.m. Eastern.
@@ -109,7 +110,7 @@ In Washington, Oregon, Colorado, Utah, Nevada, Hawaii and California, every vote
 
 ## When results come in
 
-Closing times shape election night. The first results usually appear within an hour of a state's last polls closing. States that count mail ballots before Election Day, such as Florida, tend to report a large share quickly. Pennsylvania cannot begin processing mail ballots until 7 a.m. on Election Day, so its count takes longer, and California counties have up to 30 days to finish their canvass. Our [2026 midterm guide](/news/2026-midterm-elections-whats-on-the-ballot-results-tracker/) has a printable tracker with every Senate and governor's race next to its closing time.
+Closing times shape election night. The first results usually appear within an hour of a state's last polls closing. States that count mail ballots before Election Day, such as Florida, tend to report a large share quickly. Pennsylvania cannot begin processing mail ballots until 7 a.m. on Election Day, so its count takes longer, and California counties have up to 30 days to finish their canvass, as the [California election results timeline](/news/california-election-results-2026-polls-close-8-p-m-pt-when-the-count-ends/) shows. Our [2026 midterm guide](/news/2026-midterm-elections-whats-on-the-ballot-results-tracker/) has a printable tracker with every Senate and governor's race next to its closing time.
 
 ## Before you go
 

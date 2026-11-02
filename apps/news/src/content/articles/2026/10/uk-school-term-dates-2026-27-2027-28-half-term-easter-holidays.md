@@ -1,10 +1,11 @@
 ---
 title: "UK School Term Dates 2026-27 and 2027-28: Half Terms and Easter in Westminster and Leeds"
-seoTitle: "UK School Holidays 2027: Westminster and Leeds Dates"
-description: "Westminster and Leeds set February half term for 15-19 February 2027 but differ at Easter. Council dates for 2026-27 and 2027-28 in the United Kingdom (UK)."
+seoTitle: "February Half Term 2027 UK: Dates by Council"
+description: "Six councils (Westminster, Leeds, Surrey, Essex, Lancashire, Bristol) set February half term for 15-19 February 2027 in the United Kingdom (UK)."
 type: explainer
 publishedAt: "2026-10-31T03:00:00-04:00"
-authors: [emily-carter]
+updatedAt: "2026-11-02T14:36:54-05:00"
+authors: [aaron-kessler]
 category: school-calendars
 keywords: ["school holidays 2027 uk", "half term february 2027", "easter holidays 2027 school", "school term dates 2027-28", "leeds school holidays 2027"]
 hero:
@@ -19,11 +20,13 @@ hero:
     author: "Simon Burchell"
     authorUrl: "https://commons.wikimedia.org/wiki/User:Simon_Burchell"
 summary:
-  - "Westminster and Leeds both set February half term for Monday 15 to Friday 19 February 2027."
+  - "Six councils (Westminster, Leeds, Surrey, Essex, Lancashire and Bristol) set February half term for Monday 15 to Friday 19 February 2027."
   - "Easter 2027 differs: Westminster breaks up from Good Friday 26 March to Friday 9 April, while Leeds closes from Monday 5 to Friday 16 April."
   - "In 2028 the February half terms are a week apart: Westminster 14-18 February, Leeds 21-25 February."
   - "Academies and voluntary-aided schools may set different dates, and other councils publish their own, so check your own council's page."
 faq:
+  - q: "When is February half term 2027?"
+    a: "Westminster (with Kensington and Chelsea), Leeds, Surrey, Essex, Lancashire and Bristol all set Monday 15 to Friday 19 February 2027. Academies and some other schools may differ, so check your school."
   - q: "When is February half term 2027 in Westminster and Leeds?"
     a: "Both councils list Monday 15 to Friday 19 February 2027 for schools they set dates for."
   - q: "When are the Easter school holidays in 2027 in Leeds?"
@@ -47,6 +50,18 @@ sources:
   - title: "School holidays and term dates"
     url: "https://www.leeds.gov.uk/schools-and-education/school-holidays-and-term-dates"
     publisher: "Leeds City Council"
+  - title: "School term changes for 2026 to 2027"
+    url: "https://www.surreycc.gov.uk/schools-and-learning/schools/term-dates/school-term-dates-and-changes-for-2026-to-2027"
+    publisher: "Surrey County Council"
+  - title: "Essex County Council School Term and Holiday Dates for Community and Voluntary Controlled Schools - Academic Year 2026-2027"
+    url: "https://www.essex.gov.uk/sites/default/files/2025-03/Essex%20School%20Term%20Dates%202026%20to%202027.pdf"
+    publisher: "Essex County Council"
+  - title: "School term dates and holidays - Lancashire County Council"
+    url: "https://www.lancashire.gov.uk/schools-and-education/school-term-dates-and-holidays/"
+    publisher: "Lancashire County Council"
+  - title: "Dates for school terms and holidays"
+    url: "https://www.bristol.gov.uk/residents/schools-learning-and-early-years/school-term-and-holiday-dates"
+    publisher: "Bristol City Council"
 downloads:
   - group: "School Holidays 2026-27 printables"
     title: "School Holidays 2026-27: Westminster and Leeds"
@@ -100,6 +115,21 @@ assets:
 
 **Westminster City Council and Leeds City Council both list Monday 15 to Friday 19 February 2027 as February half term, but their Easter 2027 holidays do not match.** Westminster's dates run from Good Friday, 26 March, to Friday 9 April, while Leeds City Council lists Monday 5 to Friday 16 April. The tables below set both councils side by side for 2026-27 and 2027-28, and the printable at the end keeps the 2026-27 year on one page.
 
+## February half term 2027 dates by council
+
+All six councils below set the same week for February half term 2027, Monday 15 to Friday 19 February. Surrey, Essex, Lancashire and Bristol end the spring term on Thursday 25 March 2027 and start the summer term on Monday 12 April 2027, so their Easter break covers Good Friday, 26 March, and Easter Monday, 29 March 2027 (Easter Sunday is 28 March 2027). Compare that with the Westminster and Leeds Easter dates further down.
+
+| Council | February half term 2027 | Spring term ends / summer term starts | Source wording |
+|---|---|---|---|
+| Westminster (with Kensington and Chelsea) | Mon 15 to Fri 19 February 2027 | Easter holiday Fri 26 March to Fri 9 April 2027 | Bi-borough document; dates noted as proposed |
+| Leeds | Mon 15 to Fri 19 February 2027 | Easter holiday Mon 5 to Fri 16 April 2027 | Leeds City Council school holidays page |
+| Surrey County Council | Mon 15 to Fri 19 February 2027 | Spring term ends 25 March 2027; summer term starts 12 April 2027 | "15 February to 19 February 2027"; "Academies, Voluntary Aided and Foundation schools may have different term dates." |
+| Essex County Council | Mon 15 to Fri 19 February 2027 | Spring term ends Thu 25 March 2027; summer term starts Mon 12 April 2027 | "Half Term 15 February - 19 February"; "The above dates may vary for individual schools, especially Foundation, Voluntary Aided schools and Academies." |
+| Lancashire County Council | Mon 15 to Fri 19 February 2027 | Spring term ends Thu 25 March 2027; summer term starts Mon 12 April 2027 | "Half term: Monday 15 February - Friday 19 February 2027"; "Individual school holidays may vary from this framework." |
+| Bristol City Council | Mon 15 to Fri 19 February 2027 (between Term 3 and Term 4; derived from the term dates) | Term 4 ends 25 March 2027; Term 5 starts 12 April 2027 | Term 3 ends 12 February 2027 and Term 4 starts 22 February 2027; "academies and voluntary aided schools dates may be different so please check with them." |
+
+Surrey, Essex, Lancashire and Bristol publish dates for their community and council-maintained schools, and each says dates at individual schools, such as academies, may differ.
+
 ## School term dates 2026-27 in Westminster and Leeds
 
 The Westminster dates come from the bi-borough document it shares with the Royal Borough of Kensington and Chelsea. Its notes call the dates "proposed", and the council's term dates page was updated on 29 October 2026. The document counts 195 school days for the year. Leeds publishes its dates on its own school holidays page.
@@ -140,6 +170,6 @@ Easter lines up in 2028, which is the reverse of 2027. Westminster's 2027-28 sum
 
 ## What to check for other councils and schools
 
-Westminster says academies and voluntary-aided schools may set different dates from the council's. Councils such as Birmingham, Manchester, Kent and Glasgow publish their own calendars; their official pages could not be read automatically for this story, so no dates for them are given here. Check your council's page and your school's own letter before booking travel.
+Westminster says academies and voluntary-aided schools may set different dates from the council's. Other councils publish their own calendars and are not covered here, so no dates are given for them. Check your council's page and your school's own letter before booking travel.
 
 Print the dates for the year ahead with the [printable school calendar](/printable-school-calendar.html). The [February printable calendars](/february-calendars.html) and [April printable calendars](/april-calendars.html) cover the half term and Easter months. For a comparison with another country, see the [New York City public schools calendar for 2026-27](/news/nyc-public-schools-calendar-2026-27-breaks-holidays/).

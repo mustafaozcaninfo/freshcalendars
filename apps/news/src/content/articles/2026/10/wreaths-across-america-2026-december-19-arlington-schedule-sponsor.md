@@ -4,7 +4,7 @@ seoTitle: "Wreaths Across America 2026: Dec. 19 Arlington Schedule"
 description: "Wreaths Across America Day 2026 is Saturday, Dec. 19. Arlington placement starts 8 a.m. Eastern Standard Time (EST); the Tomb of the Unknown Soldier is at noon."
 type: news
 publishedAt: "2026-10-30T05:30:00-04:00"
-authors: [alex-morgan]
+authors: [christina-gerland]
 category: holidays
 keywords: ["wreaths across america 2026", "wreaths across america day 2026 date", "wreaths across america arlington 2026 schedule", "sponsor a wreath 2026"]
 hero:
@@ -57,7 +57,7 @@ internalLinks:
     label: "When is Veterans Day"
   - href: "/when-is/christmas-day/"
     label: "When is Christmas"
-related: [veterans-day-2026-wednesday-november-11, nyc-veterans-day-parade-2026-time-route-grand-marshal-suni-williams, national-christmas-tree-lighting-2026-ticket-lottery-october-28]
+related: [veterans-day-2026-wednesday-november-11, nyc-veterans-day-parade-2026-time-route-grand-marshal-suni-williams, national-pearl-harbor-remembrance-day-2026-december-7-flags-half-staff]
 downloads:
   - group: "Wreaths Across America 2026 printables"
     title: "Wreaths Across America 2026: Arlington Schedule, Sat., Dec. 19"

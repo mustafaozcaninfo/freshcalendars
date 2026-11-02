@@ -5,7 +5,7 @@ description: "The Hunter's Moon is full at 12:12 a.m. EDT Monday, Oct. 26, 2026,
 type: explainer
 publishedAt: "2026-10-20T01:25:00-04:00"
 updatedAt: "2026-10-30T01:05:00-04:00"
-authors: [jordan-bennett]
+authors: [jessica-hartwell]
 category: sky-events
 keywords: ["Hunter's Moon 2026", "full moon October 2026", "October 2026 full moon time", "moonrise tonight", "Beaver Moon November 2026"]
 dateline: "Washington"

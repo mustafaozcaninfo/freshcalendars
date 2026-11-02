@@ -4,7 +4,7 @@ seoTitle: "Knicks Schedule November 2026: Times, TV, Cup Games"
 description: "The Knicks host Brooklyn on Mon., Nov. 2, 2026, at 7:30 p.m. Eastern Time (ET), the first of 14 November games in the National Basketball Association (NBA)."
 type: news
 publishedAt: "2026-10-31T03:50:00-04:00"
-authors: [jordan-bennett]
+authors: [jessica-hartwell]
 category: sports
 keywords: ["Knicks schedule November 2026", "Knicks game tonight", "Knicks NBA Cup schedule 2026", "Knicks printable schedule"]
 dateline: "New York"
@@ -82,7 +82,7 @@ internalLinks:
     label: "printable weekly calendar"
   - href: "/when-is/thanksgiving/"
     label: "When is Thanksgiving?"
-related: [nba-cup-2026-schedule-dates-group-play-knockouts-final-indianapolis, lakers-schedule-november-2026-game-times-tv-nba-cup-printable, jalen-brunson-law-and-order-svu-episode-air-date-november-5-time-peacock]
+related: [knicks-schedule-december-2026-game-times-tv-christmas-printable, nba-cup-2026-schedule-dates-group-play-knockouts-final-indianapolis, lakers-schedule-november-2026-game-times-tv-nba-cup-printable]
 downloads:
   - group: "Knicks Schedule printables"
     title: "Knicks Schedule, November 2026"

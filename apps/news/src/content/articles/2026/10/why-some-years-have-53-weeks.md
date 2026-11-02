@@ -4,7 +4,7 @@ seoTitle: "Why Some Years Have 53 Weeks: ISO Week 53 Years"
 description: "A year has 53 weeks under the International Organization for Standardization (ISO) when Jan. 1 is a Thursday or a leap year starts on Wednesday."
 type: explainer
 publishedAt: "2026-10-30T08:21:00-04:00"
-authors: [jordan-bennett]
+authors: [jessica-hartwell]
 category: calendar-guides
 keywords: ["why do some years have 53 weeks", "53 week year", "which years have 53 weeks", "ISO week 53", "week 53 calendar"]
 hero:

@@ -4,7 +4,7 @@ seoTitle: "Federal Pay Period Calendar 2027: NFC Pay Dates"
 description: "The National Finance Center (NFC) 2027 pay period calendar has 26 official pay dates, Jan. 7 to Dec. 23. Free printable with every pay period."
 type: news
 publishedAt: "2026-10-27T11:58:00-04:00"
-authors: [alex-morgan]
+authors: [aaron-kessler]
 category: money-benefits
 keywords: ["2027 pay period calendar", "federal pay period calendar 2027", "nfc pay period calendar 2027", "gsa payroll calendar 2027", "2027 federal pay dates"]
 dateline: "Washington"

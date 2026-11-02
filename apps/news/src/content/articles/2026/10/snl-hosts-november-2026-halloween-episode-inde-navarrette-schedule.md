@@ -5,7 +5,7 @@ description: "Druski hosts Saturday Night Live (SNL) on Nov. 7, 2026 with The St
 type: news
 publishedAt: "2026-10-29T10:08:00-04:00"
 updatedAt: "2026-11-01T02:42:00-05:00"
-authors: [jordan-bennett]
+authors: [jessica-hartwell]
 category: entertainment
 keywords: ["who is hosting snl this week", "snl host october 31 2026", "snl hosts november 2026", "snl season 52 hosts"]
 assets:

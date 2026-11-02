@@ -5,7 +5,7 @@ description: "Days left in the year = 365 (366 in a leap year) minus today's day
 type: explainer
 publishedAt: "2026-10-30T08:22:00-04:00"
 updatedAt: "2026-11-01T05:33:00-05:00"
-authors: [jordan-bennett]
+authors: [jessica-hartwell]
 category: calendar-guides
 keywords: ["how many days are left in the year", "days left in the year", "days remaining in the year", "days until December 31"]
 hero:

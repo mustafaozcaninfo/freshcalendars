@@ -4,7 +4,7 @@ seoTitle: "UFC 334 Start Time: Main Card 9 p.m. ET Nov. 14"
 description: "The Ultimate Fighting Championship (UFC) 334 main card is Sat., Nov. 14, 2026, at Madison Square Garden: 9 p.m. Eastern Time (ET), 6 p.m. Pacific Time (PT)."
 type: news
 publishedAt: "2026-11-01T01:42:00-04:00"
-authors: [jordan-bennett]
+authors: [jessica-hartwell]
 category: sports
 keywords: ["UFC 334 start time", "UFC 334 date", "UFC schedule November 2026", "UFC Madison Square Garden 2026", "UFC 335 date"]
 dateline: "New York"

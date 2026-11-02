@@ -4,7 +4,7 @@ seoTitle: "Diwali 2026 UK: Leicester 8 Nov, Trafalgar Sq Cancelled"
 description: "Leicester City Council says Diwali Day is Sunday 8 November 2026 with no public fireworks; the Mayor of London cancelled Diwali on the Square on 25 October."
 type: news
 publishedAt: "2026-10-29T03:45:00-04:00"
-authors: [alex-morgan]
+authors: [christina-gerland]
 category: uk-canada
 keywords: ["Diwali 2026 UK", "Leicester Diwali 2026", "Diwali on the Square 2026", "Leicester Diwali fireworks 2026"]
 dateline: "London"

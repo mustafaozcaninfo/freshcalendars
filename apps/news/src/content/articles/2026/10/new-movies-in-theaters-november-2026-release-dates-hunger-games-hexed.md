@@ -4,7 +4,7 @@ seoTitle: "New Movies in Theaters November 2026: Dates"
 description: "Seven films have a November 2026 theater date on studio pages, from Godzilla Minus Zero on Fri., Nov. 6 to Hexed and Hershey on Wed., Nov. 25. See the table."
 type: news
 publishedAt: "2026-10-31T11:50:00-04:00"
-authors: [jordan-bennett]
+authors: [jessica-hartwell]
 category: entertainment
 keywords: ["new movies in theaters November 2026", "movies coming out in November 2026", "Thanksgiving 2026 movies", "Sunrise on the Reaping release date"]
 assets:

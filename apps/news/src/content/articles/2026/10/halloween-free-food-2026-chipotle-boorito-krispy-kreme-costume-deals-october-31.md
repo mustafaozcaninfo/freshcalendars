@@ -6,7 +6,7 @@ type: news
 dateline: "New York"
 publishedAt: "2026-10-30T05:43:00-04:00"
 updatedAt: "2026-11-01T05:33:00-05:00"
-authors: [jordan-bennett]
+authors: [christina-gerland]
 category: holidays
 keywords: ["Halloween free food 2026", "Chipotle Boorito 2026", "Krispy Kreme free doughnut costume 2026", "Halloween deals October 31 2026"]
 assets:
@@ -78,7 +78,7 @@ internalLinks:
     label: "November 2026 printable calendar"
   - href: "/when-is/halloween/"
     label: "When is Halloween?"
-related: [halloween-2026-saturday-sunset-trick-or-treat-times, halloween-costume-stores-open-october-29-31-2026-spirit-party-city, veterans-day-free-meals-discounts]
+related: [halloween-2026-saturday-sunset-trick-or-treat-times, halloween-costume-stores-open-october-29-31-2026-spirit-party-city, national-sandwich-day-2026-deals-tuesday-november-3-subway-mcalisters-capriottis]
 draft: false
 downloads:
   - group: "Halloween Free Food Checklist printables"
