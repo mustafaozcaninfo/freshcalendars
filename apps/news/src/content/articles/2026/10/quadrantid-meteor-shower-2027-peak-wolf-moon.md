@@ -128,4 +128,4 @@ The January full moon, known as the Wolf Moon, is at 12:17 UT on Friday, Jan. 22
 
 ## What comes before the Quadrantids?
 
-For the December 2026 Cold Moon, the Geminids and the solstice, see our [supermoon, Beaver Moon and Cold Moon story](/news/supermoon-2026-beaver-moon-cold-moon-geminids-solstice/). For the autumn showers, see [November 2026 meteor showers](/news/november-2026-meteor-showers-taurids-leonids/).
+For the other 2027 showers, see our [meteor showers 2027 calendar](/news/meteor-showers-2027-calendar-peak-dates-moon-phase-best-nights/) with peak times and Moon phase for 12 of them. For the December 2026 Cold Moon, the Geminids and the solstice, see our [supermoon, Beaver Moon and Cold Moon story](/news/supermoon-2026-beaver-moon-cold-moon-geminids-solstice/). For the autumn showers, see [November 2026 meteor showers](/news/november-2026-meteor-showers-taurids-leonids/).
