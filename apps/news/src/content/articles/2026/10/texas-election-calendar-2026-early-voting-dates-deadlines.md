@@ -55,7 +55,7 @@ internalLinks:
     label: "November 2026 printable calendar"
   - href: "/printable-yearly-calendar.html"
     label: "Printable yearly calendar"
-related: [texas-ballot-2026-candidates-senate-governor-statewide-races, sample-ballot-by-zip-code-2026-texas-ballot, mail-ballot-deadlines-2026-by-state]
+related: [texas-election-results-2026-polls-close-where-to-follow-canvass-dates, texas-ballot-2026-candidates-senate-governor-statewide-races, sample-ballot-by-zip-code-2026-texas-ballot]
 downloads:
   - group: "Election 2026 printables"
     title: "Texas Election Calendar 2026"

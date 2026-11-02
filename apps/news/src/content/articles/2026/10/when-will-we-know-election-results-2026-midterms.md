@@ -4,9 +4,10 @@ seoTitle: "When Will We Know 2026 Midterm Election Results?"
 description: "Polls close Nov. 3, 2026, but counting takes days in some states. When mail ballots are counted in 17 key states, late-ballot rules and certification dates."
 type: explainer
 publishedAt: "2026-10-21T00:30:00-04:00"
+updatedAt: "2026-11-02T13:17:00-05:00"
 authors: [christina-gerland]
 category: elections
-keywords: ["when will we know election results 2026", "2026 midterm results timeline", "how long does it take to count votes", "election results by state 2026", "when are election results certified"]
+keywords: ["when will we know election results 2026", "when will election results start coming in", "2026 midterm results timeline", "election results by state 2026", "when are election results certified"]
 dateline: "New York"
 hero:
   src: ../../../../assets/news/when-will-we-know-election-results-2026-midterms/when-will-we-know-election-results-2026-midterms.jpg
@@ -79,6 +80,21 @@ draft: false
 
 **The first results arrive minutes after polls close on Tuesday, Nov. 3, 2026, but they are unofficial, and in some states the count runs for days.** Election-night totals keep changing as officials add mail, provisional and overseas ballots, the U.S. Election Assistance Commission says. News organizations project winners when the trailing candidate can no longer catch up; states make results official later, through the canvass and certification. How fast each state reports depends mostly on its mail-ballot rules, which are laid out below for 17 states.
 
+## When do election results start coming in?
+
+The first results arrive at 6 p.m. Eastern Time (ET) on Tuesday, Nov. 3, when polls close in most of Indiana and Kentucky, and the flow builds as each state's polls close. No state releases results before its own polls close.
+
+| Eastern Time | Polls close in |
+|---|---|
+| 6 p.m. | Most of Indiana and Kentucky |
+| 7 p.m. | Florida, Georgia, South Carolina, Vermont, Virginia |
+| 7:30 p.m. | North Carolina, Ohio, West Virginia |
+| 8 p.m. | 18 states and the District of Columbia, including Michigan, Pennsylvania and Texas |
+| 9 p.m. | Ten states, including Arizona, New York and Wisconsin |
+| 11 p.m. | California, Oregon, Washington |
+
+What the first numbers contain differs by state. In California, the Secretary of State says "the first election results posted are typically ballots received before Election Day," and counties keep counting for up to 30 days. For the two biggest state questions, see [Texas election results: when polls close and where to follow the count](/news/texas-election-results-2026-polls-close-where-to-follow-canvass-dates/) and [California election results: the vote count timeline](/news/california-election-results-2026-polls-close-8-p-m-pt-when-the-count-ends/).
+
 ## How a result goes from projection to official
 
 1. **Polls close and counting starts.** The first states close at 6 p.m. Eastern Time (ET) and the last at 1 a.m. ET; see [poll closing times by state](/news/what-time-do-polls-close-election-day-2026/). No results may be released before a state's polls close.
@@ -101,7 +117,7 @@ draft: false
 |---|---|---|---|
 | Alaska | Reviewed 7 days before; counted from 8 p.m. Nov. 3 | Counted if received within 10 days | Late November, after ranked-choice tally |
 | Arizona | 14 days before Election Day | Not counted; due 7 p.m. Nov. 3 | About Nov. 23 |
-| California | As they arrive, up to 29 days before | Counted if received by Nov. 10 | Dec. 11 |
+| [California](/news/california-election-results-2026-polls-close-8-p-m-pt-when-the-count-ends/) | As they arrive, up to 29 days before | Counted if received by Nov. 10 | Dec. 11 |
 | Florida | 22 days before Election Day | Not counted; due 7 p.m. Nov. 3 | Nov. 17 |
 | Georgia | Scanned from the third Monday before; tallied after polls close | Not counted; due 7 p.m. Nov. 3 | About Nov. 20 |
 | Iowa | The day before Election Day | Not counted; due 8 p.m. Nov. 3 | About Nov. 30 |
@@ -114,7 +130,7 @@ draft: false
 | North Carolina | Approved before Election Day; counted on Election Day | No longer counted; due 7:30 p.m. Nov. 3 | About Nov. 24 |
 | Ohio | Before Election Day | No longer counted; due 7:30 p.m. Nov. 3 | Canvass Nov. 8-18 |
 | Pennsylvania | Not before 7 a.m. Nov. 3 | Not counted; due 8 p.m. Nov. 3 | About Nov. 23 |
-| Texas | Before Election Day | Counted if postmarked by 7 p.m. and received by 5 p.m. Nov. 4 | Local canvass by Nov. 17 |
+| [Texas](/news/texas-election-results-2026-polls-close-where-to-follow-canvass-dates/) | Before Election Day | Counted if postmarked by 7 p.m. and received by 5 p.m. Nov. 4 | Local canvass by Nov. 17 |
 | Wisconsin | Not before 7 a.m. Nov. 3 | Not counted; due 8 p.m. Nov. 3 | By Dec. 1 |
 
 Processing rules come from each state's election law as compiled by the National Conference of State Legislatures; certification dates are computed from state law, as summarized by the Brennan Center's State Court Report, and Ohio's from the Secretary of State's 2026 canvass directive. "About" marks dates that depend on how a statutory deadline falls on the calendar. Every state's mail deadline is in our [mail ballot deadlines list](/news/mail-ballot-deadlines-2026-by-state/).

@@ -4,7 +4,7 @@ seoTitle: "When Are 2026 Election Results Certified? By State"
 description: "When 10 states certify 2026 election results: county canvasses begin Nov. 6, and state deadlines run from Nov. 19 in Minnesota to Dec. 10 in Oregon."
 type: explainer
 publishedAt: "2026-11-02T07:09:00-05:00"
-updatedAt: "2026-11-02T07:09:00-05:00"
+updatedAt: "2026-11-02T13:17:00-05:00"
 authors: [christina-gerland]
 category: elections
 keywords: ["when are election results certified 2026", "election certification deadline 2026", "county canvass deadline 2026", "when will election results be official"]
@@ -184,6 +184,6 @@ The new Congress's terms begin at noon on Jan. 3, 2027, under Section 1 of the 2
 
 ## Which states are not in the table?
 
-All other states, including California, Texas, Georgia, New York, Wisconsin, Illinois and Nevada, are not in this table yet. We list a date only when we confirmed it in state law or an official state calendar. Check your state or county election office. For when results are expected to come in, see [when we will know the 2026 midterm results](/news/when-will-we-know-election-results-2026-midterms/).
+All other states, including [California](/news/california-election-results-2026-polls-close-8-p-m-pt-when-the-count-ends/) (counties by Dec. 3, the Secretary of State by Dec. 11), [Texas](/news/texas-election-results-2026-polls-close-where-to-follow-canvass-dates/) (counties by Nov. 17, state canvass from Nov. 21), Georgia, New York, Wisconsin, Illinois and Nevada, are not in this table yet. We list a date only when we confirmed it in state law or an official state calendar. Check your state or county election office. For when results are expected to come in, see [when we will know the 2026 midterm results](/news/when-will-we-know-election-results-2026-midterms/).
 
 To mark the dates, use our [November 2026 printable calendar](/november-calendars.html) and [December 2026 printable calendar](/december-calendars.html), and the printable below.
