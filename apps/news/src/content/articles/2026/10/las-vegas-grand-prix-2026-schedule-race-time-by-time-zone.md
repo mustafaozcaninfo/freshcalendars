@@ -53,7 +53,7 @@ internalLinks:
     label: "November 2026 printable calendar"
   - href: "/printable-weekly-calendar.html"
     label: "printable weekly calendar"
-related: [sao-paulo-grand-prix-2026-schedule-race-time-by-time-zone, mexico-city-grand-prix-2026-schedule-race-time-by-time-zone, abu-dhabi-grand-prix-2026-schedule-race-time-by-time-zone]
+related: [sao-paulo-grand-prix-2026-schedule-race-time-by-time-zone, f1-calendar-2027-race-dates-sprint-weekends-printable, abu-dhabi-grand-prix-2026-schedule-race-time-by-time-zone]
 assets:
   overlay: true
   kicker: "Las Vegas GP · Nov. 21, 2026"

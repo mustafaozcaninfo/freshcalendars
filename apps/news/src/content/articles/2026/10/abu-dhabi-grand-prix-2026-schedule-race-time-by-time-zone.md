@@ -55,7 +55,7 @@ internalLinks:
     label: "December 2026 printable calendar"
   - href: "/printable-weekly-calendar.html"
     label: "printable weekly calendar"
-related: [qatar-grand-prix-2026-schedule-race-time-by-time-zone, las-vegas-grand-prix-2026-schedule-race-time-by-time-zone, sao-paulo-grand-prix-2026-schedule-race-time-by-time-zone]
+related: [qatar-grand-prix-2026-schedule-race-time-by-time-zone, las-vegas-grand-prix-2026-schedule-race-time-by-time-zone, f1-calendar-2027-race-dates-sprint-weekends-printable]
 assets:
   overlay: true
   kicker: "F1 Abu Dhabi Grand Prix · Dec. 6"

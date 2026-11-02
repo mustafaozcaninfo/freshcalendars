@@ -1,7 +1,7 @@
 ---
 title: "Miami Dolphins Schedule 2026: Remaining Games, Times in ET, CT and PT, TV"
 seoTitle: "Dolphins Schedule 2026: Remaining Games, Times, TV"
-description: "The Dolphins next play the Lions on Sun., Nov. 8, 2026, at 1 p.m. Eastern Time (ET) on FOX. All 10 remaining games with Central and Pacific times, plus a printable."
+description: "The Dolphins next play the Lions on Sun., Nov. 8, 2026, at 1 p.m. Eastern Time (ET) on FOX. All 10 remaining games with times, TV and a printable."
 type: news
 publishedAt: "2026-11-01T18:40:00-05:00"
 authors: [jordan-bennett]
@@ -122,7 +122,7 @@ The Dolphins (1-5 entering the game) hosted the New England Patriots on Sun., No
 | 17 | Sun., Jan. 3, 2027 | Bills at Dolphins | 1 p.m. / noon / 10 a.m. | CBS | Hard Rock Stadium |
 | 18 | Jan. 9 or 10, 2027 | Dolphins at Patriots | To be determined | To be determined | Gillette Stadium |
 
-The Week 8 row is the game already played; the final score is not yet in this story (Final score to come). Hard Rock Stadium is at 347 Don Shula Drive, Miami Gardens, Florida 33056, per the stadium's website.
+The Week 8 row is the Nov. 1 game against New England. Hard Rock Stadium is at 347 Don Shula Drive, Miami Gardens, Florida 33056, per the stadium's website.
 
 ## How many Dolphins games are home, away and against division rivals?
 
