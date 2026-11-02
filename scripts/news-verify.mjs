@@ -2,7 +2,8 @@
 /**
  * Pre-publish gate for dist/news (NEWS-ROADMAP §7.8): link/H1/orphan crawl, every page has
  * canonical + JSON-LD that parses, sitemaps/feed are well-formed (xmllint when present),
- * the Google News sitemap holds nothing older than 48h, and no build leftovers ship.
+ * the Google News sitemap holds nothing older than 48h, no build leftovers ship, and no two
+ * article files share a slug.
  * Usage: node scripts/news-verify.mjs [distDir]
  */
 import { spawnSync } from "node:child_process";
@@ -16,6 +17,21 @@ let errors = 0;
 const bad = (msg) => { console.log(`✖ ${msg}`); errors++; };
 
 if (!existsSync(path.join(dist, "index.html"))) { bad(`no build at ${dist}`); process.exit(1); }
+
+// Two article files with the same name share one URL; Astro only warns and drops one, so fail here.
+const slugs = new Map();
+(function walk(dir) {
+  for (const f of readdirSync(dir)) {
+    const p = path.join(dir, f);
+    if (statSync(p).isDirectory()) walk(p);
+    else if (/\.mdx?$/.test(f)) {
+      const slug = f.replace(/\.mdx?$/, "");
+      const prev = slugs.get(slug);
+      if (prev) bad(`duplicate article slug ${slug}: ${prev} and ${path.relative(ROOT, p)}`);
+      else slugs.set(slug, path.relative(ROOT, p));
+    }
+  }
+})(path.join(ROOT, "apps/news/src/content/articles"));
 
 const links = spawnSync("node", [path.join(ROOT, "apps/news/test/links.mjs"), dist], { encoding: "utf8" });
 process.stdout.write(links.stdout);

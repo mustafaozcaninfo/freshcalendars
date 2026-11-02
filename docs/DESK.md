@@ -20,7 +20,7 @@ One category, one editor, one writer account: the byline is the editor who owns 
 
 | Phase | Per writer run | Per writer per day (4 runs) | Desk total per day (3 writers) | Starts |
 |---|---|---|---|---|
-| 1 | 2 new stories + 1 update | 8 new + 4 updates | **24 new + 12 updates** | Nov. 3, 2026 |
+| 1 | 2 new stories + 1 update | 8 new + 4 updates | **24 new + 12 updates** | Nov. 2, 2026 (now) |
 | 2 | 3 new stories + 1 update | 12 new + 4 updates | **36 new + 12 updates** | when the gate passes, earliest Nov. 17, 2026 |
 
 Puzzle pages (routines A to C, about 6 to 10 a day) come on top and do not count.
@@ -62,11 +62,11 @@ Each writer has one queue file: `docs/desk/w1.md`, `docs/desk/w2.md`, `docs/desk
 
 **Item format.** `- [ ] **<id>** Working headline.` then indented lines: target query, category and byline, publish by, what we add. The id is short kebab-case and unique across all queue files. An update's id is `upd-<slug>`.
 
-**Claiming.** An item is taken when a branch `claude/desk-<id>` exists on `origin`. The writer pushes a claim branch (one empty commit, "desk: claim <id>") for each item before any other work, so two runs never take the same item. A claim whose newest commit is older than 3 hours, whose item is still unticked and has no open pull request, is stalled: the next run deletes it, claims the item again and starts it fresh.
+**Claiming.** An item is taken when a branch `claude/desk-<id>` exists on `origin`. The writer pushes a claim branch (one empty commit, "desk: claim <id>") for each item before any other work, so two runs never take the same item. A claim whose newest commit is older than 3 hours, whose item is still unticked and has no open pull request, is stalled: the next run deletes it, claims the item again and starts it fresh. A claim counts only while its item is unticked and has no blocked note: a branch left behind for a ticked or blocked item is ignored, and the run that sees it deletes it.
 
 **Done.** The writer ticks each item in its pull request: `- [x] **<id>** (done 2026-11-03, <slug>) ...`. A self-found topic or update is added already ticked.
 
-**Blocked.** When a fact cannot be confirmed or the story needs a code change: `- [ ] **<id>** (blocked: reason, date) ...`, in the same pull request. The writer then takes the next item; after two blocked items in one run it stops looking. The manager unblocks an item by deleting the note.
+**Blocked.** When a fact cannot be confirmed or the story needs a code change: `- [ ] **<id>** (blocked: reason, date) ...`, in the same pull request. The writer deletes the item's claim branch, then takes the next item; after two blocked items in one run it stops looking. The manager unblocks an item by deleting the note (and any claim branch still left for it).
 
 ## Other routines
 
@@ -120,7 +120,7 @@ You are Fresh Calendars writer w1 (/news/). This is a fresh session; nothing els
 
 8. Checks once for the whole batch, all must pass: `pnpm news:build && pnpm news:verify && pnpm news:seo-audit && pnpm test`. Read the failing line and fix it in the story (yourself, or send it back to the same writer agent); never weaken a check.
 
-9. Ship. Tick every finished item in your queue file and add blocked notes. One commit, one pull request titled `[<your code in capitals>] <n> new, <n> update: <short headlines>` using `.github/pull_request_template.md`; subscribe and merge when CI is green; fix a red CI with a new commit. If this session has no GitHub tools to open a pull request, `git fetch origin main && git rebase origin/main && git push origin HEAD:main` and check that CI goes green. After the merge, delete this run's claim branches and work branch (`git push origin --delete ...`). Never deploy, never force-push.
+9. Ship. Tick every finished item in your queue file and add blocked notes. One commit, one pull request titled `[<your code in capitals>] <n> new, <n> update: <short headlines>` using `.github/pull_request_template.md`; subscribe and merge when CI is green; fix a red CI with a new commit. If this session has no GitHub tools to open a pull request, `git fetch origin main && git rebase origin/main && git push origin HEAD:main` and check that CI goes green. After the merge, delete this run's claim branches (done and blocked items) and work branch (`git push origin --delete ...`); a claim left behind hides its item from the next run, so this step is part of the run. Never deploy, never force-push.
 
 10. Report in Turkish, under 10 lines: each story and update with its URL, the pull request and whether it merged, anything blocked and why, and any good topic you saw in another beat (for the manager).
 ```
@@ -130,7 +130,7 @@ You are Fresh Calendars writer w1 (/news/). This is a fresh session; nothing els
 The owner's own sessions. The writers find their own topics, so the manager steers instead of feeding every story:
 
 1. **Every day: check what went live.** List the day's writer pull requests (`gh pr list --state merged --search "[W in:title"`), read a sample of the stories, check one with `pnpm news:verify-live <slug>`. A problem goes back as a new item at the top of the same writer's queue ("fix: ...").
-2. **Every day: unblock.** Delete a blocked note when the fact can now be confirmed or a source is known; items marked "needs code" are the manager's own work (branch and pull request).
+2. **Every day: unblock.** Delete a blocked note when the fact can now be confirmed or a source is known, and delete the item's claim branch if one is left; items marked "needs code" are the manager's own work (branch and pull request).
 3. **Every week: steer the queues.** Put the topics that matter most in the coming weeks (seasonal peaks, announced dates) at the top of each queue, 5 to 10 per writer. Check first that no story on `main` covers them. Commit queue changes straight to `main`.
 4. **Every Monday: the phase decision.** With the owner's Search Console numbers, apply the gate in "Volume and growth policy" and change the CURRENT PHASE line if needed.
 5. **Watch the puzzle desk.** Routines A, B and C run on account W4; their pull requests show whether a day was missed. Routine D is paused, so `docs/NEWS-BACKLOG.md` items are done by hand in manager sessions.
