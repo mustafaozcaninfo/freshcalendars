@@ -129,7 +129,7 @@ Employers that deposited all of a quarter's taxes on time get 10 extra days to f
 
 Federal law, 26 U.S.C. 7503, says that when a tax deadline falls on a Saturday, Sunday or legal holiday, it moves to the next business day. In 2027 that rule shifts five deadlines:
 
-- **Jan. 31 is a Sunday**, so W-2s, 1099-NECs and fourth-quarter Form 941 are due Monday, Feb. 1 (see the [W-2 and 1099 deadline 2027 breakdown](/news/w2-1099-deadline-2027-february-1-irs-due-dates/)).
+- **Jan. 31 is a Sunday**, so W-2s, 1099-NECs and fourth-quarter Form 941 are due Monday, Feb. 1.
 - **Feb. 15 is Presidents' Day**, so the 1099-B and 1099-S statements move to Tuesday, Feb. 16.
 - **Feb. 28 is a Sunday**, so paper information returns are due Monday, March 1.
 - **July 31 is a Saturday and Oct. 31 a Sunday**, so the second- and third-quarter Form 941 dates move to Aug. 2 and Nov. 1.
