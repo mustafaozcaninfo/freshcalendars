@@ -413,6 +413,7 @@ export const KEY_DATES: KeyDate[] = [
   { date: "2026-11-02", label: "No school in Chicago (Nov. 2-3)", slug: "chicago-public-schools-calendar-2026-27-breaks" },
   { date: "2026-11-03", label: "NYC schools remote for Election Day", slug: "nyc-public-schools-calendar-2026-27-breaks-holidays" },
   { date: "2026-11-26", label: "Thanksgiving", slug: "why-thanksgiving-2026-is-november-26" },
+  { date: "2026-11-26", label: "100th Macy's Thanksgiving Day Parade, 8:30 a.m. ET, NBC and Peacock", slug: "macys-thanksgiving-day-parade-2026-start-time-route-tv-balloons" },
   { date: "2026-11-27", label: "Native American Heritage Day", slug: "native-american-heritage-day-2026-friday-november-27-heritage-month" },
   { date: "2026-12-26", label: "Boxing Day in Canada (Saturday)", slug: "boxing-day-2026-canada-saturday-december-26-day-off-monday-december-28" },
   { date: "2026-12-28", label: "Canada Post closed for Boxing Day", slug: "boxing-day-2026-canada-saturday-december-26-day-off-monday-december-28" },
@@ -688,6 +689,9 @@ export const KEY_DATES: KeyDate[] = [
   { date: "2026-12-02", label: "Liga MX Liguilla semifinal first legs (Dec. 2-3)", slug: "liga-mx-liguilla-apertura-2026-dates-quarterfinals-semifinals-final-schedule" },
   { date: "2026-12-10", label: "Liga MX Apertura 2026 Final (Dec. 10-13)", slug: "liga-mx-liguilla-apertura-2026-dates-quarterfinals-semifinals-final-schedule" },
   { date: "2026-12-25", label: "Hyde Park Winter Wonderland closed for Christmas Day", slug: "hyde-park-winter-wonderland-2026-dates-opening-times-tickets" },
+  { date: "2026-11-23", label: "Michigan Board of State Canvassers and Arizona Secretary of State certification deadline for the Nov. 3 election", slug: "when-are-2026-election-results-certified-deadlines-by-state" },
+  { date: "2026-12-03", label: "Washington Secretary of State's last day to certify the Nov. 3 election", slug: "when-are-2026-election-results-certified-deadlines-by-state" },
+  { date: "2026-12-07", label: "Virginia State Board of Elections must meet to certify the Nov. 3 election", slug: "when-are-2026-election-results-certified-deadlines-by-state" },
 ];
 
 /** Today's date in Eastern Time as YYYY-MM-DD. */

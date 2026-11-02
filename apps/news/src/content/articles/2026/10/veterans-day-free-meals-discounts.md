@@ -1,10 +1,10 @@
 ---
-title: "Veterans Day Free Meals and Discounts 2026: Every Deal Confirmed So Far, the Fine Print and a Printable List"
-seoTitle: "Veterans Day Free Meals 2026: Full List + Printable"
-description: "Free meals for veterans on Wednesday, Nov. 11, 2026: 43 chains confirmed so far, 14 more discounts, vouchers good into 2027, ID rules and a printable list."
+title: "Veterans Day Free Meals 2026: 44 Chains Confirmed, 13 Discounts and a Printable List"
+seoTitle: "Veterans Day Free Meals 2026: 44 Chains + Printable"
+description: "44 chains confirmed free Veterans Day meals for Wednesday, Nov. 11, 2026, plus 13 discounts, Great Clips cards through Dec. 4, ID rules and a printable list."
 type: update
 publishedAt: "2026-10-20T16:55:00-04:00"
-updatedAt: "2026-11-01T10:55:00-05:00"
+updatedAt: "2026-11-02T07:09:00-05:00"
 authors: [christina-gerland]
 category: holidays
 keywords: ["Veterans Day free meals 2026", "Veterans Day discounts 2026", "Veterans Day restaurant deals", "free meals for veterans November 11", "Veterans Day freebies"]
@@ -15,17 +15,17 @@ hero:
   title: "Veterans Day free meals and discounts, Nov. 11, 2026"
   caption: "Restaurants and stores honor veterans and service members on Wednesday, Nov. 11, 2026. Most offers require proof of service."
 summary:
-  - "Forty-three chains have confirmed free Veterans Day meals for Wednesday, Nov. 11, 2026, including Applebee's, Denny's, Red Lobster, Golden Corral, International House of Pancakes (IHOP), Olive Garden and Texas Roadhouse, and 14 more offer discounts."
-  - "Eight offers reach past the day: Texas Roadhouse's voucher runs through May 31, 2027, Aspen Creek Grill's through Dec. 24, BJ's coupon through Dec. 31, and Bar Louie and Outback also serve on Nov. 10."
+  - "Forty-four chains have confirmed free Veterans Day meals for Wednesday, Nov. 11, 2026, including Applebee's, Denny's, Red Lobster, Golden Corral, International House of Pancakes (IHOP), Olive Garden and Texas Roadhouse, and 13 more offer discounts."
+  - "Offers reach past the day: Texas Roadhouse's voucher runs through May 31, 2027, Aspen Creek Grill's through Dec. 24, BJ's coupon through Dec. 31, Great Clips cards through Dec. 4, and Bar Louie and Outback also serve on Nov. 10."
   - "Nearly every offer requires proof of service, most are dine-in only and for the veteran alone, and drinks, tax and tip are usually extra."
   - "National parks are free to enter on Nov. 11 for U.S. citizens and residents, and veterans can get a free lifetime parks pass any day."
 faq:
   - q: "What restaurants give free meals to veterans on Nov. 11, 2026?"
-    a: "Confirmed so far for 2026, according to Military.com's list updated Nov. 1 and the chains' own announcements, 43 chains offer a free meal, drink or side, among them Applebee's, Buffalo Wild Wings, California Pizza Kitchen, Chili's, Dave & Buster's, Denny's, Golden Corral, IHOP, Olive Garden, Outback Steakhouse, Red Lobster, Red Robin, Ruby Tuesday, Starbucks and Texas Roadhouse. Cracker Barrel, Wendy's, Krispy Kreme, Little Caesars and Shake Shack offered free food in 2025 and have not announced 2026 terms."
+    a: "Confirmed so far for 2026, according to Military.com's list updated Nov. 1 and the chains' own announcements, 44 chains offer a free meal, drink or side, among them Applebee's, Buffalo Wild Wings, California Pizza Kitchen, Chili's, Dave & Buster's, Denny's, Golden Corral, IHOP, Olive Garden, Outback Steakhouse, Red Lobster, Red Robin, Ruby Tuesday, Starbucks and Texas Roadhouse. Cracker Barrel, Wendy's, Krispy Kreme, Little Caesars and Shake Shack offered free food in 2025 and have not announced 2026 terms."
   - q: "Which Veterans Day deals can I use after Nov. 11?"
-    a: "Texas Roadhouse hands out meal vouchers from 11 a.m. to 2 p.m. on Nov. 11 that are good through May 31, 2027. Aspen Creek Grill's $15 voucher can be used Nov. 11 through Dec. 24, BJ's Restaurant & Brewhouse gives a free appetizer coupon for Nov. 12 through Dec. 31, Freddy's combo meal cards and Hoss's $10-off-$40 voucher run through Nov. 25, and Twin Peaks takes 20% off all November."
+    a: "Texas Roadhouse hands out meal vouchers from 11 a.m. to 2 p.m. on Nov. 11 that Military.com lists as good through May 31, 2027. Great Clips cards for a free haircut are redeemable through Dec. 4, 2026. Aspen Creek Grill's $15 voucher can be used Nov. 11 through Dec. 24, BJ's Restaurant & Brewhouse gives a free appetizer coupon for Nov. 12 through Dec. 31, Freddy's combo meal cards and Hoss's $10-off-$40 voucher run through Nov. 25, and Twin Peaks takes 20% off all November."
   - q: "Do spouses get free meals on Veterans Day?"
-    a: "Usually not. Most free meals are for the veteran or service member only. Exceptions in the 2026 lists: Bonefish Grill includes families, Starbucks includes military spouses in its free coffee, Bombshells gives family members 20% off, and Eat'n Park takes 10% off the whole party in November."
+    a: "Most free meals are for the veteran or service member only. Exceptions in the 2026 lists: Bonefish Grill includes families, Military.com lists Starbucks as including military spouses in its free coffee, Bombshells gives family members 20% off, and Eat'n Park takes 10% off the whole party in November."
   - q: "Is McDonald's doing anything for Veterans Day 2026?"
     a: "McDonald's does not appear on Military.com's 2025 or 2026 Veterans Day lists, and it has not announced a national offer. Some franchise owners run local deals, so ask your restaurant."
   - q: "What ID do I need for Veterans Day discounts?"
@@ -42,7 +42,7 @@ sources:
   - title: "Free Veterans Day Meal"
     url: "https://www.chilis.com/restaurant-events/veterans-day"
     publisher: "Chili's Grill & Bar"
-  - title: "Red Robin Offers Free Burger and Bottomless Steak Fries to Veterans and Active-Duty Military on Veterans Day"
+  - title: "Red Robin Offers Free Burger and Bottomless Steak Fries to Military Heroes This Veterans Day"
     url: "https://ir.redrobin.com/news-events/press-releases/detail/741/red-robin-offers-free-burger-and-bottomless-steak-fries-to"
     publisher: "Red Robin Gourmet Burgers"
     date: "2026-10-22"
@@ -73,10 +73,10 @@ sources:
   - title: "Everyday Military Discount"
     url: "https://www.lowes.com/l/about/honor-our-military"
     publisher: "Lowe's"
-  - title: "Great Clips Honors Veterans and Military Service Members with Free Haircuts"
-    url: "https://www.businesswire.com/news/home/20251103497966/en/Great-Clips-Honors-Veterans-and-Military-Service-Members-with-Free-Haircuts"
-    publisher: "Great Clips via Business Wire"
-    date: "2025-11-03"
+  - title: "Great Clips® Provides Free Haircuts to Veterans and Military Service Members"
+    url: "https://www.greatclips.com/about-us/news-room/vets-day-free-haircuts-2026"
+    publisher: "Great Clips"
+    date: "2026-10-20"
   - title: "Veterans Day"
     url: "https://department.va.gov/veterans-day/"
     publisher: "U.S. Department of Veterans Affairs"
@@ -91,7 +91,7 @@ related: [veterans-day-2026-wednesday-november-11, november-2026-important-dates
 downloads:
   - group: "Veterans Day printables"
     title: "Veterans Day Free Meals Cheat Sheet, 2026"
-    description: "All 43 free meals and 14 discounts confirmed for 2026 plus the chains still to announce, tagged for dine-in, ID, family, hours and later use, and a wallet card of IDs."
+    description: "The free meals and discounts confirmed for 2026 as of Nov. 1, plus the chains still to announce, tagged for dine-in, ID, family, hours and later use, and a wallet card of IDs."
     preview: ../../../../assets/news/veterans-day/veterans-day-free-meals-cheat-sheet-2026.png
     alt: "Veterans Day free meals cheat sheet 2026 printable listing restaurant offers with dine-in and ID tags and a wallet card of accepted proof of service"
     pdf: "/news/downloads/veterans-day/veterans-day-free-meals-cheat-sheet-2026.pdf"
@@ -100,9 +100,9 @@ downloads:
 draft: false
 ---
 
-<p class="callout"><b>Checked Nov. 1, 2026.</b> The list now has 43 free meals and 14 discounts, from Military.com's list updated Nov. 1 and the chains' own announcements. Applebee's, Denny's, Red Lobster, Buffalo Wild Wings, Dunkin' and Starbucks have confirmed for 2026.</p>
+<p class="callout"><b>Checked Nov. 2, 2026.</b> The list now has 44 free meals and 13 discounts, from Military.com's list updated Nov. 1 and the chains' own announcements. Applebee's, Denny's, Red Lobster, Buffalo Wild Wings, Dunkin' and Starbucks have confirmed for 2026.</p>
 
-**Veterans and active-duty service members can eat free at 43 restaurant chains on Veterans Day, Wednesday, Nov. 11, 2026, so far, and 14 more offer discounts.** That is the count from Military.com's list updated Nov. 1 and the chains' own announcements. Most of the big names are in: Applebee's, Denny's, Red Lobster, Olive Garden, International House of Pancakes (IHOP) and Texas Roadhouse. Cracker Barrel, Wendy's and Little Caesars offered free food last year and have not announced yet. Below are the 2026 free meals, the discounts, the offers you can use on another day, the fine print that trips people up, and a one-page cheat sheet to print.
+**Veterans and active-duty service members can eat free at 44 restaurant chains on Veterans Day, Wednesday, Nov. 11, 2026, so far, and 13 more offer discounts.** That is the count from Military.com's list updated Nov. 1 and the chains' own announcements. Most of the big names are in: Applebee's, Denny's, Red Lobster, Olive Garden, International House of Pancakes (IHOP) and Texas Roadhouse. Cracker Barrel, Wendy's and Little Caesars offered free food last year and have not announced yet. Great Clips has now announced free haircuts and cards for 2026. Below are the 2026 free meals, the discounts, the offers you can use on another day, the fine print that trips people up, and a one-page cheat sheet to print.
 
 ## Free meals confirmed for 2026
 
@@ -122,16 +122,17 @@ All on Nov. 11 unless noted, at participating locations, from Military.com's 202
 | Buffalo Wild Wings | 10 free boneless wings and fries | **Dine-in, GO or walk-in; valid ID** |
 | California Pizza Kitchen | Free entrée from a special menu and a nonalcoholic drink | |
 | Charleys Cheesesteaks | Free regular Gourmet Fry | **Military ID**, no purchase needed |
-| Chili's | Free meal from a limited Veterans Day menu | **Dine-in only, Nov. 11 only**; drinks and tip not included; no substitutions (Chili's) |
+| Chili's | Free meal from a limited Veterans Day menu | **Dine-in only, valid only on Nov. 11**; drinks and tip not included; no substitutions (Chili's) |
 | Claim Jumper | Free meal from a select menu | |
 | Cotton Patch Cafe | Free regular chicken fried steak or chicken fried chicken | **Dine-in only, military ID** |
 | Dave & Buster's | Free entrée up to $20 and a $10 Power Card | **In store, military ID** |
 | Denny's | Free Original Grand Slam | **5 a.m. to noon, military ID** |
-| Dunkin' | Free donut | **In store only**, one per guest, not in the app |
+| Dunkin' | Free donut | **In store only**, one per guest, not in the app (per Military.com) |
 | Farmer Boys | Free Big Cheese Burger | **Dine-in only**, one per member, no delivery or mobile orders |
 | Freddy's Frozen Custard & Steakburgers | Free combo meal card | **Valid military ID**; card good through Nov. 25 (Freddy's) |
 | Golden Corral | Free "thank you" meal, Military Appreciation Night | **Dine-in, 4 p.m. to close** |
 | Hard Rock Cafe | Free Classic Smash Burger, all day | Can be combined with its 15% military discount |
+| Hooters | Free meal from a special Veterans Day menu | **With a beverage purchase** |
 | Hoss's Steak & Sea House | Free soup, salad, bread, nacho and dessert bar with iced tea | **Dine-in only**; plus a $10-off-$40 voucher good through Nov. 25 |
 | IHOP | Free Red, White and Blueberry Pancake Combo | **Dine-in only, ID or proof of service** |
 | In-N-Out Burger | Free burger, fries and drink, plus a Veterans Day decal | **Proof of service**; Reserve and National Guard members included |
@@ -142,13 +143,13 @@ All on Nov. 11 unless noted, at participating locations, from Military.com's 202
 | Outback Steakhouse | Free Bloomin' Onion and a drink | **Nov. 10 and 11**; plus a free Hero's Meal for a later visit through Dine Rewards |
 | Pilot and Flying J | Free sandwich and coffee or fountain drink | **In the Pilot app, verified through ID.me** (Pilot) |
 | Red Lobster | Free Veteran's Shrimp & Chips | **Dine-in, ID** |
-| Red Robin | Free Red's Big Tavern Burger with Bottomless Steak Fries | **Dine-in only**; military ID or proof of service (Red Robin) |
+| Red Robin | One free Red's Big Tavern Burger with Bottomless Steak Fries | **Dine-in only, Nov. 11 only**, participating restaurants (Red Robin) |
 | Ruby Tuesday | Free Everyday Fresh Meal from 13 entrées, with the Garden Bar and a drink | **Dine-in only** |
 | Sheetz | Free half turkey sub and regular fountain drink, plus a free car wash | **ID required**, more than 800 stores |
 | Shoney's | Free Legendary Breakfast Bar | **Dine-in, opening to 11 a.m.** |
 | Sizzler | Free lunch and nonalcoholic drink: tri-tip, Malibu chicken or shrimp | **Open to 4 p.m.** |
-| Starbucks | Free tall brewed coffee, hot or iced | Veterans, service members **and military spouses** |
-| Texas Roadhouse | Free meal voucher | **Handed out 11 a.m. to 2 p.m., proof of service**; good through May 31, 2027 |
+| Starbucks | Free tall brewed coffee, hot or iced | Veterans and service members; Military.com lists **military spouses** too |
+| Texas Roadhouse | Free meal voucher | **Handed out 11 a.m. to 2 p.m., proof of service**; good through May 31, 2027, per Military.com |
 | Tuscan Brands | Free meal | **11 a.m. to 4 p.m., reservations required** |
 | Twin Peaks | Free entrée from a select menu | Plus 20% off all November |
 | White Castle | Free individual combo or breakfast combo | |
@@ -156,7 +157,7 @@ All on Nov. 11 unless noted, at participating locations, from Military.com's 202
 
 ## Discounts and deals with a purchase
 
-These 14 offers take money off or need a purchase, from the same Military.com list:
+These 13 offers take money off or need a purchase, from the same Military.com list:
 
 | Restaurant | Offer | Fine print |
 |---|---|---|
@@ -167,13 +168,12 @@ These 14 offers take money off or need a purchase, from the same Military.com li
 | Eat'n Park | 10% off for you and your party | **Dine-in, Nov. 1 through 30**; free Smiley Cookie on Nov. 11 |
 | Firebirds Wood Fired Grill | Free lunch or dinner, up to the value of a guest's meal | **Dine-in only** |
 | Fogo de Chão | 50% off the Full or Indulgent Churrasco | **Saturday, Nov. 7** |
-| Hooters | Free item from a special menu | **With a drink purchase, dine-in** |
 | Joe's Crab Shack | 20% off | **Dine-in, ID** |
 | Margaritas Mexican Restaurant | 50% off an entrée | **Dine-in**, Northeast locations |
 | McCormick & Schmick's | Half-price select entrée | **Sunday, Nov. 8, dine-in** |
 | Perry's Steakhouse & Grille | Free dinner-cut pork chop with a full-price entrée, or a three-course military menu for $39 | **4 p.m. to close, reservations required** |
 | Rubio's | Buy one entrée, get one free with code VETS26 | **In-store only, military ID** |
-| Sonic | Half-price shakes, any size or flavor | |
+| Sonic | Half-price shakes, any size or flavor | **No ID required** |
 
 ## Deals you can use before or after Nov. 11
 
@@ -188,12 +188,13 @@ Nov. 11 falls on a Wednesday, a workday for many veterans. These offers reach pa
 | Tue., Nov. 10 and Wed., Nov. 11 | Outback Steakhouse, Bar Louie | Free Bloomin' Onion and drink, or a free burger, either day |
 | Through Wed., Nov. 25 | Freddy's | Pick up the combo meal card on Nov. 11, redeem later |
 | Through Wed., Nov. 25 | Hoss's Steak & Sea House | $10 off a $40 check with the voucher from your Nov. 11 visit |
+| Through Fri., Dec. 4 | Great Clips | Free haircut on Nov. 11, or take the card and redeem it at a U.S. salon |
 | Through Thu., Dec. 24 | Aspen Creek Grill | Pick up the $15 voucher on Nov. 11, 11 a.m. to 6 p.m. |
 | Thu., Nov. 12 through Thu., Dec. 31 | BJ's Restaurant & Brewhouse | Free appetizer coupon from your Nov. 11 visit |
 | Through Mon., May 31, 2027 | Texas Roadhouse | Pick up the voucher between 11 a.m. and 2 p.m. on Nov. 11 |
 | A later visit, no end date given | Outback Steakhouse, Bob Evans | Hero's Meal through Dine Rewards; free biscuits and sausage gravy |
 
-The Texas Roadhouse voucher has the longest window on the list: one stop at lunch on Nov. 11, and the meal can wait until next spring.
+The Texas Roadhouse voucher has the longest window in Military.com's list: one stop at lunch on Nov. 11, and the meal can wait until next spring.
 
 ## Chains that have not announced 2026 offers
 
@@ -211,7 +212,7 @@ These chains offered the following on Nov. 11, 2025, according to Military.com, 
 
 **Home Depot** gives veterans, service members and spouses 10% off eligible purchases, up to $400 a year, every day after you register in the store's app. **Lowe's** takes 10% off most full-price items, with no annual cap, once you verify your service through ID.me. Neither is a Veterans Day-only deal, so you can use them any week.
 
-**Great Clips** gave veterans and active-duty members a free haircut, or a card for a later visit, at any U.S. salon on Nov. 11, 2025, the program's 13th year. It has not announced 2026 details.
+**Great Clips** says veterans and active military service members can visit any of its 4,400+ U.S. salons on Veterans Day for a free haircut or a card to use on a later visit. The cards are redeemable through Dec. 4, 2026 at U.S. salons, according to the company's Oct. 20, 2026 announcement.
 
 **National parks** waive entrance fees on Nov. 11, 2026, one of the National Park Service's fee-free days. New this year, the free entry applies to U.S. citizens and residents only. Veterans and Gold Star families can also get the free **Military Lifetime Pass**, which covers entrance at national parks and other federal lands any day of the year.
 
@@ -229,4 +230,4 @@ Veterans Day is a federal holiday under 5 U.S.C. § 6103, and it never moves to 
 
 ## Print the cheat sheet
 
-The free one-page cheat sheet lists all 43 free meals and 14 discounts confirmed for 2026 and the chains still to announce, with tags for dine-in, ID, family, hours and later use, plus a cut-out wallet card of accepted IDs. Check off places as you go, and pin the day on our [November 2026 printable calendar](/november-calendars.html) or a [weekly planner](/printable-weekly-calendar.html). For the rest of the month, see [November 2026 important dates](/news/november-2026-important-dates-days-until/).
+The free one-page cheat sheet lists the free meals and discounts confirmed for 2026 as of Nov. 1 (it shows Hooters among the discounts and does not yet list Great Clips) and the chains still to announce, with tags for dine-in, ID, family, hours and later use, plus a cut-out wallet card of accepted IDs. Check off places as you go, and pin the day on our [November 2026 printable calendar](/november-calendars.html) or a [weekly planner](/printable-weekly-calendar.html). For the rest of the month, see [November 2026 important dates](/news/november-2026-important-dates-days-until/).
