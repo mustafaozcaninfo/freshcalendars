@@ -35,6 +35,9 @@ faq:
   - q: "Do I get time off work to vote?"
     a: "Many states require it. California and New York give up to two hours of paid time off if you do not have enough time to vote outside work, and Illinois also guarantees two hours. Rules differ on notice and pay, so check your state's labor or election office."
 sources:
+  - title: "Chicago Public Schools 2026-27 Family Calendar"
+    url: "https://www.cps.edu/globalassets/cps-pages/calendar/26-27/cps-family-calendar-english-26-27.pdf"
+    publisher: "Chicago Public Schools"
   - title: "Election Day Holidays and Paid Time Off to Vote"
     url: "https://www.lgbtmap.org/democracy-maps/election_day_holiday_paid_time_off_to_vote"
     publisher: "Movement Advancement Project"
@@ -191,7 +194,7 @@ The Council of State Governments (CSG) Book of the States also lists Hawaii, Mon
 School districts decide on their own, and many use school buildings as polling places. Examples from 2026-27 calendars:
 
 - **New York City:** the NYC Public Schools 2026-2027 calendar says, for Tuesday, Nov. 3, "Election Day, school will be in session remotely for all students"; see our [NYC public schools calendar](/news/nyc-public-schools-calendar-2026-27-breaks-holidays/).
-- **Chicago:** we could not confirm Nov. 3 on the Chicago Public Schools 2026-27 calendar page when we checked, so ask the district; see the [Chicago Public Schools calendar](/news/chicago-public-schools-calendar-2026-27-breaks/).
+- **Chicago:** no school on Tuesday, Nov. 3; the Chicago Public Schools (CPS) 2026-27 family calendar lists it as the General Election holiday, and Monday, Nov. 2 is a parent-teacher conference day with no classes. See the [Chicago Public Schools calendar](/news/chicago-public-schools-calendar-2026-27-breaks/).
 - **Palm Beach and Miami-Dade counties, Fla.:** see the [Palm Beach](/news/palm-beach-county-school-calendar-2026-27/) and [Miami-Dade](/news/miami-dade-school-calendar-2026-27-breaks/) calendars.
 
 Check your district's calendar or our [printable school-year calendar](/printable-school-calendar.html) guide.
