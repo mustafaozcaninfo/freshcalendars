@@ -85,7 +85,7 @@ internalLinks:
     label: "November 2026 printable calendar"
   - href: "/december-calendars.html"
     label: "December 2026 printable calendar"
-related: [lakers-schedule-november-2026-game-times-tv-nba-cup-printable, nba-cup-2026-schedule-dates-group-play-knockouts-final-indianapolis, toronto-maple-leafs-schedule-november-2026-game-times-tv-printable]
+related: [lakers-schedule-november-2026-game-times-tv-nba-cup-printable, nba-cup-2026-schedule-dates-group-play-knockouts-final-indianapolis, chicago-bulls-schedule-november-2026-game-times-tv-nba-cup-printable]
 downloads:
   - group: "Raptors Schedule printables"
     title: "Raptors Schedule, November 2026"
