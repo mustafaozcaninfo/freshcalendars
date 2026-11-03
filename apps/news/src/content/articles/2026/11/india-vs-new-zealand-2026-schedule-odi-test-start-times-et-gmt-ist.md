@@ -64,7 +64,7 @@ internalLinks:
     label: "November 2026 printable calendar"
   - href: "/printable-weekly-calendar.html"
     label: "printable weekly calendar"
-related: [us-india-time-difference-after-november-1-2026-ist-10-5-hours, sports-on-tv-today-november-2-2026, womens-world-cup-2027-schedule-brazil-us-uk-canada-times]
+related: [us-india-time-difference-after-november-1-2026-ist-10-5-hours, boxing-day-test-2026-australia-vs-new-zealand-mcg-start-times, womens-world-cup-2027-schedule-brazil-us-uk-canada-times]
 assets:
   overlay: true
   kicker: "India vs New Zealand · 2026"
