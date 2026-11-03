@@ -50,7 +50,7 @@ draft: false
 
 ## Guessing tips for today
 
-A word with a lone vowel in the middle rewards a guess that pins the middle letter first. Test a common vowel in the third spot early, since a hit there narrows a lot. Both ends are consonant pairs, so give the opening pair a close look.
+A word with a lone vowel in the middle rewards a guess that pins the middle letter first. Test a common vowel in the third spot early, since a hit there narrows a lot. Both ends are consonant pairs, so give the opening pair a close look. Opening words with several vowels give little help here. Of eight starters checked against the answer, Trace shares three letters, two of them in the exact spot. Slate and Audio share one letter each. Pick a first guess that tests consonants as well as the lone vowel.
 
 Playing the others too? Try [Connections](/news/nyt-connections-hints-answers-november-6-2026-1244/), [Strands](/news/nyt-strands-hints-answers-november-6-2026-978/), [Pips](/news/nyt-pips-hints-answers-november-6-2026/). Mark your own streak on the [printable weekly calendar](/printable-weekly-calendar.html).
 
@@ -64,6 +64,6 @@ Dreck means trash or low-quality stuff.
 
 ## Answer history check (spoilers)
 
-In the saved puzzle data, #0 to #1965, this answer is new: it has never appeared. The layout of two consonants, a vowel, and two consonants fits 325 earlier answers. Twenty-one began with D and R, and 37 ended with C and K. One earlier answer matches it in four places, Wreck (#1796). Next in line, with three places each, are Dress (#1954), Break (#1819), Crock (#1776) and Drunk (#1770). D opened 91 earlier answers, and K closed 91 as well.
+In the saved puzzle data, #0 to #1965, this answer is new: it has never appeared. The layout of two consonants, a vowel, and two consonants fits 325 earlier answers. Twenty-one began with D and R, and 37 ended with C and K. One earlier answer matches it in four places, Wreck (#1796). Next in line, with three places each, are Dress (#1954), Break (#1819), Crock (#1776) and Drunk (#1770). D opened 91 earlier answers, and K closed 91 as well. R sat in 712 earlier answers and E in 924. Only two earlier answers both began with D and ended with K. In all, 607 earlier answers held a single vowel from A, E, I, O or U, as this one does, and 11 shared four letters or more with it, in any position.
 
 Wordle #1967 is next.

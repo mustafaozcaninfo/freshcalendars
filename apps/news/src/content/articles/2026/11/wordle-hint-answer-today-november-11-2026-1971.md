@@ -50,7 +50,7 @@ draft: false
 
 ## Guessing tips for today
 
-A doubled letter shows as two tiles only once you guess it twice. Test the last two spots together. Put the opening consonant pair at the front first, then spend a guess on the middle vowel.
+A doubled letter shows as two tiles only once you guess it twice. Test the last two spots together. Put the opening consonant pair at the front first, then spend a guess on the middle vowel. Among eight starters checked against the answer, Slate shares three letters with it and Audio shares none. Raise and Stare share two each. A starter without S would miss the doubled letter entirely, so choose one that carries it.
 
 Next up on the same date: [Connections](/news/nyt-connections-hints-answers-november-11-2026-1249/), [Strands](/news/nyt-strands-hints-answers-november-11-2026-983/), [Pips](/news/nyt-pips-hints-answers-november-11-2026/). Mark your own streak on the [printable weekly calendar](/printable-weekly-calendar.html).
 
@@ -64,6 +64,6 @@ To bless is to ask a blessing on someone or something, or to make holy.
 
 ## Answer history check (spoilers)
 
-In the data for #0 to #1970 this answer has not appeared before. Its layout of two consonants, a vowel and two consonants fits 326 earlier answers. Twenty-eight opened with B and L, and 17 ended with the same doubled letter. One earlier answer matches in four places, Bliss (#1410). Dress (#1954), Gloss (#1772), Bleat (#1694) and Blast (#1664) match in three. The final letter closed only 30 earlier answers, the lowest count among its five positions.
+In the data for #0 to #1970 this answer has not appeared before. Its layout of two consonants, a vowel and two consonants fits 326 earlier answers. Twenty-eight opened with B and L, and 17 ended with the same doubled letter. One earlier answer matches in four places, Bliss (#1410). Dress (#1954), Gloss (#1772), Bleat (#1694) and Blast (#1664) match in three. The final letter closed only 30 earlier answers, the lowest count among its five positions. The letter B sat in 226 earlier answers, S in 507 and L in 547. Only one earlier answer shared four letters or more with it, and just four opened with B and closed with S. In all, 609 earlier answers held a single vowel from A, E, I, O or U.
 
 Wordle #1972 follows at midnight.

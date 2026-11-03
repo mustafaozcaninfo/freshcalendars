@@ -1,7 +1,7 @@
 ---
 title: "Strands #987, Sunday, Nov. 15, 2026: Hints for Five Theme Words and the Spangram"
 seoTitle: "Strands Hints, Nov. 15, 2026 (#987) and Answers"
-description: "Stuck on Strands #987 (Sunday, Nov. 15, 2026, clue \"Foiled again!\")? Hints for the spangram and theme words, a board map, and answers at the end."
+description: "Stuck on Strands #987 (Sunday, Nov. 15, 2026, a Gotham rogues' gallery)? Hints for the spangram and theme words, a board map, and answers at the end."
 type: explainer
 publishedAt: "2026-11-14T00:05:00-05:00"
 authors: [news-desk]
@@ -14,7 +14,7 @@ hero:
   title: "Strands #987 hints, Nov. 15, 2026"
   caption: "Strands puzzle #987 for Sunday, Nov. 15, 2026: hints for the spangram and theme words first, all answers only at the end."
 summary:
-  - "Strands #987 falls on Sunday, Nov. 15, 2026, and its clue is \"Foiled again!.\""
+  - "Strands #987 falls on Sunday, Nov. 15, 2026, and its theme is a Gotham rogues' gallery."
   - "The spangram runs 13 letters and touches the left and right edges; the board holds five theme words."
   - "Hints come first, then a map of where the words sit on the board."
   - "Every answer is held back in the last section, behind a spoiler marker."
@@ -37,9 +37,9 @@ internalLinks:
 related: [wordle-hint-answer-today-november-15-2026-1975, nyt-connections-hints-answers-november-15-2026-1253, nyt-pips-hints-answers-november-15-2026]
 draft: false
 ---
-**Today's Strands from The New York Times (NYT) is puzzle #987, for Sunday, Nov. 15, 2026, and its theme clue is "Foiled again!."** A Gotham rogues' gallery is on the board today. Tracy Bennett constructed and edited this one. Hints for the spangram and each theme word come first; the answers wait in a marked spoiler section at the end.
+**Today's Strands from The New York Times (NYT) is puzzle #987, for Sunday, Nov. 15, 2026, and its theme is a Gotham rogues' gallery.** Tracy Bennett constructed and edited this one. Hints for the spangram and each theme word come first; the answers wait in a marked spoiler section at the end.
 
-With 5 theme words and a 13-letter spangram filling all 48 tiles, today's board follows the usual rules, which are on our [Strands page](/news/topic/nyt-strands/#how-it-works).
+With 5 theme words and a 13-letter spangram filling all 48 tiles, today's board follows the usual rules, which are on our [Strands page](/news/topic/nyt-strands/#how-it-works). The printed clue reads "Foiled again!" and every word below answers it.
 
 ## Spangram hints
 

@@ -38,9 +38,9 @@ related: [wordle-hint-answer-today-november-5-2026-1965, nyt-connections-hints-a
 draft: false
 ---
 
-**The New York Times (NYT) Spelling Bee for Thursday, Nov. 5, 2026, builds its list around P, with G, I, N, O, T and V in the outer ring.** The puzzle holds 42 words and 249 points, and 30 of those words open with the center letter. Below you get a hint grid, a count of the thin starting pairs and a clue for the pangram; the words wait at the bottom.
+**The New York Times (NYT) Spelling Bee for Thursday, Nov. 5, 2026, builds its list around P, with G, I, N, O, T and V in the outer ring.** The puzzle holds 42 words and 249 points, and 30 of those words open with the center letter. Hints come first. You get a grid, a count of the thin starting pairs and a clue for the pangram. The words wait at the bottom.
 
-Genius is 174 points today, and the rules are on our [Spelling Bee page](/news/topic/nyt-spelling-bee/#how-it-works).
+Genius is 174 points today. The rules are on our [Spelling Bee page](/news/topic/nyt-spelling-bee/#how-it-works).
 
 ## Nov. 5 hint grid
 
@@ -61,7 +61,7 @@ Two-letter starts: GO-1, NI-1, OP-5, PI-19, PO-11, TI-3, TO-2.
 
 - **Pangram** (8 letters, starts with P): a basketball player's move with one foot planted, or any turn around a fixed point; I shows up twice and the word closes with -ing.
 
-Start with the 30 words that open with P and sort them by their second letter: 19 continue with I and 11 with O. The other 12 answers start with G, N, O or T, and the O group is the largest of them with five.
+Start with the 30 words that open with P and sort them by their second letter: 19 continue with I and 11 with O. The other 12 answers start with G, N, O or T, and the O group is the largest of them with five. The V starts nothing. One pangram only.
 
 ## What the Nov. 5 numbers say about the hardest words
 

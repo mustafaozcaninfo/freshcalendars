@@ -50,7 +50,7 @@ draft: false
 
 ## Guessing tips for today
 
-With one vowel and a closing letter that stands in for another, consonant guesses do most of the work. Check each yellow against close rhymes, since several words differ by one letter. No letter repeats, so keep every guess to fresh letters.
+With one vowel and a closing letter that stands in for another, consonant guesses do most of the work. Check each yellow against close rhymes, since several words differ by one letter. No letter repeats, so keep every guess to fresh letters. Of eight starters checked against the answer, Raise places two letters in the exact spot, the most of the group. Crane shares three letters but places none, and Slate shares only one. A starter with R and A at the front is a sound first guess.
 
 Other pages for this date: [Connections](/news/nyt-connections-hints-answers-november-14-2026-1252/), [Strands](/news/nyt-strands-hints-answers-november-14-2026-986/), [Pips](/news/nyt-pips-hints-answers-november-14-2026/). Mark your own streak on the [printable weekly calendar](/printable-weekly-calendar.html).
 
@@ -64,6 +64,6 @@ Randy is informal British slang for being keen, and it is also a familiar first 
 
 ## Answer history check (spoilers)
 
-The data for #0 to #1973 has no earlier use. The pattern of a consonant, a vowel and three consonants fits 237 earlier answers. Twelve began with R and A, and 32 closed with D and Y. Four different earlier answers match in four places: Dandy (#475), Candy (#884), Handy (#1193) and Sandy, which appeared twice, as #1226 and #1750. Runny (#1892) matches in three. D fell fourth in 63 earlier answers and Y closed 280.
+The data for #0 to #1973 has no earlier use. The pattern of a consonant, a vowel and three consonants fits 237 earlier answers. Twelve began with R and A, and 32 closed with D and Y. Four different earlier answers match in four places: Dandy (#475), Candy (#884), Handy (#1193) and Sandy, which appeared twice, as #1226 and #1750. Runny (#1892) matches in three. D fell fourth in 63 earlier answers and Y closed 280. N sat in 472 earlier answers and R in 717. Fifteen earlier answers opened with R and closed with Y. In all, 610 earlier answers held a single vowel from A, E, I, O or U, and 21 shared four letters or more with it, in any position.
 
 Wordle #1975 opens at midnight.

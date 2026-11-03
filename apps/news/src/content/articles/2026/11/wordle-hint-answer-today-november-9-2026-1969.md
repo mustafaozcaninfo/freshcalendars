@@ -50,7 +50,7 @@ draft: false
 
 ## Guessing tips for today
 
-The two vowels in the middle are the key. A guess that places both can confirm the center in one row. A finishing letter that often marks adjectives is worth testing early.
+The two vowels in the middle are the key. A guess that places both can confirm the center in one row. A finishing letter that often marks adjectives is worth testing early. Of eight starters checked against the answer, Audio and Slate share two letters with it. Crane, Stare, Irate and Trace share one each, in the exact spot, while Adieu and Raise share one letter out of place. Any of these gives you the vowel pair quickly.
 
 Other puzzles for this date: [Connections](/news/nyt-connections-hints-answers-november-9-2026-1247/), [Strands](/news/nyt-strands-hints-answers-november-9-2026-981/), [Pips](/news/nyt-pips-hints-answers-november-9-2026/). Mark your own streak on the [printable weekly calendar](/printable-weekly-calendar.html).
 
@@ -64,6 +64,6 @@ Loamy soil is a rich mix of sand, silt and clay.
 
 ## Answer history check (spoilers)
 
-The answer data for #0 to #1968 has no earlier use of it. Its pattern (a consonant, two vowels, two consonants) fits 156 earlier answers. Eighteen opened with L and O, and only eight closed with M and Y. Foamy (#1386) matches in four places. At three places each come Lorry (#1859), Loath (#1794), Toady (#1764) and Lobby (#1723). M fell fourth in just 58 earlier answers, the lowest of any of its five letters in place.
+The answer data for #0 to #1968 has no earlier use of it. Its pattern (a consonant, two vowels, two consonants) fits 156 earlier answers. Eighteen opened with L and O, and only eight closed with M and Y. Foamy (#1386) matches in four places. At three places each come Lorry (#1859), Loath (#1794), Toady (#1764) and Lobby (#1723). M fell fourth in just 58 earlier answers, the lowest of any of its five letters in place. Fifteen earlier answers opened with L and closed with Y. A appeared in 779 earlier answers and O in 592, and 1,147 of them held exactly two vowels from A, E, I, O or U. Fourteen shared four letters or more with it.
 
 Wordle #1970 comes at midnight.

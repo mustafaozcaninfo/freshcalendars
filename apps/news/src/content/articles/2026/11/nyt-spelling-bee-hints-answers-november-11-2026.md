@@ -38,9 +38,9 @@ related: [wordle-hint-answer-today-november-11-2026-1971, nyt-connections-hints-
 draft: false
 ---
 
-**The Spelling Bee from The New York Times (NYT) for Wednesday, Nov. 11, 2026, uses V as its center, with C, D, E, I, T and U around it.** The list is short, at 21 words and 124 points, and it holds one pangram. The hint grid, a clue and a data section come first, with the words below the spoiler warning.
+**The Spelling Bee from The New York Times (NYT) for Wednesday, Nov. 11, 2026, uses V as its center, with C, D, E, I, T and U around it.** The list is short, at 21 words and 124 points, and it holds one pangram. The hint grid, a clue and a data section come first. The words sit below the spoiler warning.
 
-Genius is 87 points today, and our [Spelling Bee page](/news/topic/nyt-spelling-bee/#how-it-works) explains how it is set.
+Genius is 87 points today. Our [Spelling Bee page](/news/topic/nyt-spelling-bee/#how-it-works) explains how it is set.
 
 ## Wednesday's hint grid, Nov. 11
 
@@ -61,7 +61,7 @@ Two-letter starts: CI-2, DE-5, DI-5, DU-1, EV-3, IV-1, VE-1, VI-3.
 
 - **Pangram** (9 letters, starts with D): reasoning from a general rule to a particular case, as a fictional detective does; D and E each appear twice and the word ends in -ive.
 
-D opens 11 of the 21 words, so start there; the pairs *de* and *di* have 5 words each. The other starts are small: V has 4, E has 3, C has 2 and I has 1.
+D opens 11 of the 21 words. Start there. The pairs *de* and *di* have 5 words each. The other starts are small: V has 4, E has 3, C has 2 and I has 1.
 
 ## A small list with a long top end
 
@@ -83,7 +83,7 @@ D opens 11 of the 21 words, so start there; the pairs *de* and *di* have 5 words
 
 ## Tuesday's puzzle in brief
 
-Tuesday had I in the middle, 70 words and 328 points, and the pangram Flipflopped.
+Tuesday was a bigger puzzle. It had I in the middle, 70 words and 328 points, and the pangram Flipflopped.
 
 Wednesday's other puzzles: [Wordle hints](/news/wordle-hint-answer-today-november-11-2026-1971/), [Connections hints](/news/nyt-connections-hints-answers-november-11-2026-1249/), [Pips hints](/news/nyt-pips-hints-answers-november-11-2026/). The [November calendar](/november-calendars.html) and [weekly calendar](/printable-weekly-calendar.html) both print for free.
 

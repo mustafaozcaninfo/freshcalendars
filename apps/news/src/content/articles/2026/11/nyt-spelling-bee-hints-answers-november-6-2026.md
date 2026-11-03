@@ -38,9 +38,9 @@ related: [wordle-hint-answer-today-november-6-2026-1966, nyt-connections-hints-a
 draft: false
 ---
 
-**Friday's Spelling Bee from The New York Times (NYT), dated Nov. 6, 2026, centers on L and wraps it with C, I, N, O, T and U.** Two pangrams sit in the 47 words, which total 178 points. The grid and a pair of clues are first; the word list is held back in the final section.
+**Friday's Spelling Bee from The New York Times (NYT), dated Nov. 6, 2026, centers on L and wraps it with C, I, N, O, T and U.** Two pangrams sit in the 47 words, which total 178 points. The grid and a pair of clues come first. The word list stays in the final section.
 
-Today's Genius line is 125 points; our [Spelling Bee page](/news/topic/nyt-spelling-bee/#how-it-works) covers how scoring works.
+Genius sits at 125 points. Our [Spelling Bee page](/news/topic/nyt-spelling-bee/#how-it-works) covers how scoring works.
 
 ## Friday's grid by first letter and length
 
@@ -64,7 +64,7 @@ Two-letter starts: CL-3, CO-8, CU-3, IL-1, LI-5, LO-10, LU-2, NO-1, NU-1, OC-3, 
 - **Pangram 1** (7 letters, starts with L): a relief print made from a design cut into a block of linoleum; all seven letters are different.
 - **Pangram 2** (8 letters, starts with L): a manner of speaking or a set phrase; O appears twice and the ending is -ion.
 
-The two largest opening pairs are *lo* with 10 answers and *co* with 8, which together cover 18 of the 47 words. Try every word you can build from those two starts before moving on.
+The two largest opening pairs are *lo* with 10 answers and *co* with 8, which together cover 18 of the 47 words. Try every word you can build from those two starts. Then move on.
 
 ## Where the points hide on Nov. 6
 
@@ -80,7 +80,7 @@ The 25 four-letter words are more than half of the 47 answers but only 25 of the
 | 9 letters | 3 | 9 | 27 |
 | Pangram bonus | 2 | 7 | 14 |
 
-Pairs that open exactly one word: *il*, *no*, *nu*, *ol*. Also, 17 of the answers double a letter back to back, and 4 of the words start with O.
+Pairs that open exactly one word: *il*, *no*, *nu*, *ol*. Four pairs, four words. Also, 17 of the answers double a letter back to back, and 4 of the words start with O.
 
 ## Thursday in brief
 

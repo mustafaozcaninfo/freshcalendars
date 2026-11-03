@@ -50,7 +50,7 @@ draft: false
 
 ## Guessing tips for today
 
-A closing vowel ended 390 of the 1,970 earlier answers, so your first row can test it. The opening pair is easy to confirm, so locking in two greens early frees guesses for the middle. Watch for look-alikes that end the same way.
+A closing vowel ended 390 of the 1,970 earlier answers, so your first row can test it. The opening pair is easy to confirm, so locking in two greens early frees guesses for the middle. Watch for look-alikes that end the same way. Of eight starters checked against the answer, Trace matches four letters in the exact spot. Crane and Irate share three letters, two of them in place, and Audio shares just one. A starter built on the same opening pair is therefore a fair first guess.
 
 If you play the full set, here are [Connections](/news/nyt-connections-hints-answers-november-10-2026-1248/), [Strands](/news/nyt-strands-hints-answers-november-10-2026-982/), [Pips](/news/nyt-pips-hints-answers-november-10-2026/). Mark your own streak on the [printable weekly calendar](/printable-weekly-calendar.html).
 
@@ -64,6 +64,6 @@ A truce is a pause in fighting that both sides agree to.
 
 ## Answer history check (spoilers)
 
-No earlier puzzle used it in the data for #0 to #1969. Its consonant, consonant, vowel, consonant, vowel pattern fits 177 earlier answers. Thirty-two began with T and R, and 28 closed with C and E. Trace (#1889), from 81 puzzle numbers ago, matches in four places, as do Trice (#457) and Truck (#1637). Trunk (#1927) and Tribe (#1885) match in three. The closing E sits in 390 earlier answers, nearly a fifth of the 1,970.
+No earlier puzzle used it in the data for #0 to #1969. Its consonant, consonant, vowel, consonant, vowel pattern fits 177 earlier answers. Thirty-two began with T and R, and 28 closed with C and E. Trace (#1889), from 81 puzzle numbers ago, matches in four places, as do Trice (#457) and Truck (#1637). Trunk (#1927) and Tribe (#1885) match in three. The closing E sits in 390 earlier answers, nearly a fifth of the 1,970. The letter U sat in 384 earlier answers and C in 381. Exactly 1,148 earlier answers held two vowels from A, E, I, O or U, as this one does, and 28 shared four letters or more with it, in any position.
 
 Wordle #1971 opens at midnight.

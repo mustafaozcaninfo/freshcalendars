@@ -50,7 +50,7 @@ draft: false
 
 ## Guessing tips for today
 
-The rare middle letter will not turn up by chance. If your first rows give you the opening pair, test the middle slot instead of tweaking the ending. Two vowels at the back make a guess ending in a common vowel likely to light up.
+The rare middle letter will not turn up by chance. If your first rows give you the opening pair, test the middle slot instead of tweaking the ending. Two vowels at the back make a guess ending in a common vowel likely to light up. Among eight starters checked against the answer, Crane, Slate, Stare and Trace each share one letter, in the exact spot. Audio, Raise and Irate share two, and Adieu shares two with neither in place. Starters that carry the closing vowel score best.
 
 Same-day puzzle pages: [Connections](/news/nyt-connections-hints-answers-november-13-2026-1251/), [Strands](/news/nyt-strands-hints-answers-november-13-2026-985/), [Pips](/news/nyt-pips-hints-answers-november-13-2026/). Mark your own streak on the [printable weekly calendar](/printable-weekly-calendar.html).
 
@@ -64,6 +64,6 @@ Moxie is energy, nerve and know-how.
 
 ## Answer history check (spoilers)
 
-The data for #0 to #1972 shows no earlier use. Its pattern, consonant, vowel, consonant, vowel, vowel, fits only 34 earlier answers. Twenty-nine began with M and O, and seven ended with I and E. One earlier answer matches it in four places, Movie (#271). Motif (#1872), Toxin (#1001), Mouse (#709) and Toxic (#624) match in three. X stood third in only 10 earlier answers, while the closing E ended 391.
+The data for #0 to #1972 shows no earlier use. Its pattern, consonant, vowel, consonant, vowel, vowel, fits only 34 earlier answers. Twenty-nine began with M and O, and seven ended with I and E. One earlier answer matches it in four places, Movie (#271). Motif (#1872), Toxin (#1001), Mouse (#709) and Toxic (#624) match in three. X stood third in only 10 earlier answers, while the closing E ended 391. X sat in only 33 earlier answers, while M opened 97 and I sat in 547. Twelve earlier answers opened with M and closed with E. Just 202 earlier answers held three vowels from A, E, I, O or U, and six shared four letters or more with it.
 
 Wordle #1974 follows at midnight.

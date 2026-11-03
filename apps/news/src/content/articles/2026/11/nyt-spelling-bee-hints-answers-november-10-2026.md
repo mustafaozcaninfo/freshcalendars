@@ -38,9 +38,9 @@ related: [wordle-hint-answer-today-november-10-2026-1970, nyt-connections-hints-
 draft: false
 ---
 
-**Tuesday's Spelling Bee from The New York Times (NYT), Nov. 10, 2026, has I in the center, ringed by D, E, F, L, O and P.** It is the biggest puzzle by points in this stretch: 70 words and 328 points, with one pangram and a Genius line of 230. The grid, a pangram clue and a set of counts come first; the words follow the warning.
+**Tuesday's Spelling Bee from The New York Times (NYT), Nov. 10, 2026, has I in the center, ringed by D, E, F, L, O and P.** It is the biggest puzzle by points in this stretch: 70 words and 328 points, with one pangram and a Genius line of 230. The grid, a pangram clue and a set of counts come first. The words follow the warning.
 
-Genius means 230 points today, and our [Spelling Bee page](/news/topic/nyt-spelling-bee/#how-it-works) covers the scoring.
+Genius means 230 points today. Our [Spelling Bee page](/news/topic/nyt-spelling-bee/#how-it-works) covers the scoring.
 
 ## Tuesday's grid, Nov. 10
 
@@ -63,7 +63,7 @@ Two-letter starts: DE-5, DI-9, DO-1, ED-2, EL-2, FE-1, FI-12, FL-5, FO-4, ID-3, 
 
 - **Pangram** (11 letters, starts with F): what a speaker did who reversed a stance more than once; F and L each appear twice, P three times, and the word ends in -pped.
 
-Five opening pairs cover 42 of the 70 answers: *fi* has 12, *pi* 10, *di* 9, *li* 6 and *fl* 5. Start with *fi* and *pi*, the two largest.
+Five opening pairs cover 42 of the 70 answers: *fi* has 12, *pi* 10, *di* 9, *li* 6 and *fl* 5. Start with *fi* and *pi*. They are the two largest.
 
 ## Why Nov. 10 is the heavy one
 
@@ -84,7 +84,7 @@ Five opening pairs cover 42 of the 70 answers: *fi* has 12, *pi* 10, *di* 9, *li
 
 ## Monday's puzzle in brief
 
-Monday's center was T, with A, B, H, M, O and R outside. It had 62 words and 239 points, and its pangram was Bathroom.
+Monday looked different. Its center was T, with A, B, H, M, O and R outside. It had 62 words and 239 points, and its pangram was Bathroom.
 
 Tuesday's other games: [Wordle hints](/news/wordle-hint-answer-today-november-10-2026-1970/), [Connections hints](/news/nyt-connections-hints-answers-november-10-2026-1248/), [Pips hints](/news/nyt-pips-hints-answers-november-10-2026/). Plan the month on the [November calendar](/november-calendars.html) or the [weekly calendar](/printable-weekly-calendar.html).
 

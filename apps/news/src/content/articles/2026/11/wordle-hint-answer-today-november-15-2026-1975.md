@@ -50,7 +50,7 @@ draft: false
 
 ## Guessing tips for today
 
-The opening pair covers a long list, so lock in the vowel before you chase the ending. The closing pair is uncommon, so once you have the vowel, try both together. Skip any guess that repeats a letter, since all five here differ.
+The opening pair covers a long list, so lock in the vowel before you chase the ending. The closing pair is uncommon, so once you have the vowel, try both together. Skip any guess that repeats a letter, since all five here differ. Of eight starters checked against the answer, Stare places three letters in the exact spot and Slate places two. Raise shares three letters with it but puts none in place. A starter with S in front is a strong opening here.
 
 Pair this with [Connections](/news/nyt-connections-hints-answers-november-15-2026-1253/), [Strands](/news/nyt-strands-hints-answers-november-15-2026-987/), [Pips](/news/nyt-pips-hints-answers-november-15-2026/). Mark your own streak on the [printable weekly calendar](/printable-weekly-calendar.html).
 
@@ -64,6 +64,6 @@ Snark is sharp, sarcastic or irreverent remarks.
 
 ## Answer history check (spoilers)
 
-Not in the data for #0 to #1974, so it is a first. Its layout fits 327 earlier answers. Fifteen began with S and N, while only eight ended with R and K. Five earlier answers match in four places: Snarl (#514), Snack (#692), Snare (#823), Stark (#1080) and Spark (#1369). S opened 294 earlier answers, while K closed 92. The A in the third spot appeared 279 times.
+Not in the data for #0 to #1974, so it is a first. Its layout fits 327 earlier answers. Fifteen began with S and N, while only eight ended with R and K. Five earlier answers match in four places: Snarl (#514), Snack (#692), Snare (#823), Stark (#1080) and Spark (#1369). S opened 294 earlier answers, while K closed 92. The A in the third spot appeared 279 times. S sat in 508 earlier answers, N in 473 and K in 174. Twenty-three earlier answers opened with S and closed with K, and only 81 had N as the second letter. In all, 611 earlier answers held a single vowel from A, E, I, O or U, and 14 shared four letters or more with it.
 
 Wordle #1976 arrives at midnight.

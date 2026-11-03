@@ -50,7 +50,7 @@ draft: false
 
 ## Guessing tips for today
 
-A repeated vowel means one guess tells you about only one of its two spots until you retry it. Start with the second spot. Test the opening letter early; it narrows the list.
+A repeated vowel means one guess tells you about only one of its two spots until you retry it. Start with the second spot. Test the opening letter early; it narrows the list. Of eight starters checked against the answer, Stare, Irate and Trace each share three letters with it, yet none puts one in the exact spot. Raise is the only starter of the eight that places a letter correctly.
 
 Today's companions: [Connections](/news/nyt-connections-hints-answers-november-12-2026-1250/), [Strands](/news/nyt-strands-hints-answers-november-12-2026-984/), [Pips](/news/nyt-pips-hints-answers-november-12-2026/). Mark your own streak on the [printable weekly calendar](/printable-weekly-calendar.html).
 
@@ -64,6 +64,6 @@ A karat measures gold's purity in twenty-fourths.
 
 ## Answer history check (spoilers)
 
-No earlier puzzle in the data for #0 to #1971 used it. The layout of consonant, vowel, consonant, vowel, consonant fits 347 earlier answers, a shape that is not unusual. Only three earlier answers began with K and A: Karma (#13), Kayak (#671) and Kazoo (#730), and just 19 began with K at all. Carat (#663) matches in four places, which makes it the closest earlier answer. Kayak and Karma match in three. A held the second place in 243 earlier answers.
+No earlier puzzle in the data for #0 to #1971 used it. The layout of consonant, vowel, consonant, vowel, consonant fits 347 earlier answers, a shape that is not unusual. Only three earlier answers began with K and A: Karma (#13), Kayak (#671) and Kazoo (#730), and just 19 began with K at all. Carat (#663) matches in four places, which makes it the closest earlier answer. Kayak and Karma match in three. A held the second place in 243 earlier answers. The letter K sat in 173 earlier answers, T in 587 and R in 716. Only one earlier answer opened with K and closed with T. Ten shared four letters or more with it, and 1,149 held two vowels from A, E, I, O or U, as this one does.
 
 Wordle #1973 arrives at midnight.
