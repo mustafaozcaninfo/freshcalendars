@@ -1,9 +1,10 @@
 ---
 title: "Holiday Return Policies 2026: Return Deadlines by Store, From Best Buy to Target"
 seoTitle: "Holiday Return Policy 2026: Deadlines by Store"
-description: "Best Buy says purchases from Oct. 30 through Dec. 31, 2026 can be returned by Jan. 15, 2027. See 2026 holiday return deadlines by store, with Target too."
+description: "Best Buy says most purchases from Oct. 30 through Dec. 31, 2026 can be returned by Jan. 15, 2027. See 2026 holiday return deadlines by store, with Target too."
 type: news
 publishedAt: "2026-10-30T05:30:00-04:00"
+updatedAt: "2026-11-03T09:22:00-05:00"
 authors: [jessica-hartwell]
 category: retail-dates
 keywords: ["holiday return policy 2026", "extended holiday return policy 2026", "best buy holiday return policy 2026", "target holiday return policy 2026", "amazon holiday return policy 2026"]
@@ -16,27 +17,30 @@ assets:
     slug: holiday-return-tracker-2026
     group: holiday-returns-2026
     title: "Holiday Return Tracker 2026"
-    subtitle: "Posted store return windows and deadlines, as of Oct. 30, 2026"
+    subtitle: "Posted store return windows and deadlines, as of Nov. 3, 2026"
     layout: checklist
+    noKit: "This sheet lists store return windows and a returns checklist, not a ship-by deadline matrix."
     rows:
       - { when: "Fri., Oct. 30", what: "Best Buy holiday return window opens", section: "Return dates" }
       - { when: "Sun., Nov. 1", what: "Target extended window opens (electronics and entertainment)", section: "Return dates" }
       - { when: "Thu., Dec. 24", what: "Last day of Target's extended-window purchases", section: "Return dates" }
+      - { when: "Sat., Dec. 26", what: "Target's extended return window begins", section: "Return dates" }
       - { when: "Thu., Dec. 31", what: "Last day of Best Buy's holiday purchase window", section: "Return dates" }
+      - { when: "Jan. 8, 2027 (Fri.)", what: "Target return-by date, Apple, Beats and mobile phones", section: "Return dates" }
       - { when: "Jan. 15, 2027 (Fri.)", what: "Best Buy return deadline, most purchases", section: "Return dates" }
+      - { when: "Jan. 24, 2027 (Sun.)", what: "Target return-by date, electronics, entertainment and most Target Plus items", section: "Return dates" }
       - { when: "Jan. 31, 2027 (Sun.)", what: "Best Buy return deadline, Plus and Total members", section: "Return dates" }
       - { when: "", what: "Keep receipts and order numbers", section: "Before you return" }
       - { when: "", what: "Note the return-by date on each gift", section: "Before you return" }
       - { when: "", what: "Check the product page for exceptions", section: "Before you return" }
       - { when: "", what: "Check whether a marketplace seller set the window", section: "Before you return" }
-    note: "Source: Best Buy Corporate News (Oct. 27, 2026) and Target Holiday Help FAQs (accessed Oct. 30, 2026). Weekdays are our computation."
-    inkSaver: true
+    note: "Source: Best Buy Corporate News (Oct. 27, 2026) and Target Holiday Help FAQs (page as read on Nov. 3, 2026; the page shows no date). Weekdays are our computation."
     description: "One-page 2026 holiday return tracker: Best Buy and Target return windows, deadlines Jan. 15 and Jan. 31, 2027, and a checklist for returning gifts."
     alt: "Printable 2026 holiday return tracker with Best Buy and Target dates and a returns checklist"
 hero:
   src: ../../../../assets/news/holiday-return-policies-2026-return-deadlines-by-store/holiday-return-policies-2026-return-deadlines-by-store.webp
   alt: "Wrapped gifts under a Christmas tree, illustrating 2026 holiday return policies and return deadlines by store"
-  caption: "Wrapped gifts under a Christmas tree (file photo, Brisbane, Australia, 2024). Best Buy says purchases from Oct. 30 through Dec. 31, 2026 can be returned by Jan. 15, 2027."
+  caption: "Wrapped gifts under a Christmas tree (file photo, Brisbane, Australia, 2024). Best Buy says most purchases from Oct. 30 through Dec. 31, 2026 can be returned by Jan. 15, 2027."
   credit: "Photo: Chris Olszewski / Wikimedia Commons, cropped, edited"
   license:
     name: "CC BY-SA 4.0"
@@ -46,18 +50,18 @@ hero:
     authorUrl: "https://commons.wikimedia.org/wiki/User:Kgbo"
 summary:
   - "Best Buy says most purchases made Oct. 30 through Dec. 31, 2026 can be returned through Jan. 15, 2027, or Jan. 31, 2027 for My Best Buy Plus and Total members."
-  - "Target says purchases from Nov. 1 through Dec. 24, 2026 have an extended return window for electronics and entertainment, but it has not listed the return-by date on its holiday Frequently Asked Questions (FAQ) page yet."
-  - "Amazon, Walmart and Apple have not posted 2026 holiday return terms as of Oct. 30; we will add them when they do."
+  - "Target's holiday Frequently Asked Questions (FAQ) page says purchases from Nov. 1 through Dec. 24, 2026 must be returned by Sun., Jan. 24, 2027 for most electronics, entertainment and Target Plus items, and by Fri., Jan. 8, 2027 for Apple, Beats and mobile phones."
+  - "Trade outlets ppc.land (Oct. 20, 2026) and Value Added Resource (Oct. 27, 2026) report that Amazon lets items bought Nov. 1 through Dec. 31, 2026 be returned through Jan. 31, 2027, and Apple-brand products through Jan. 15, 2027; we could not check Amazon's own page. Apple's own returns page lists no holiday window, and Walmart's terms are not confirmed."
   - "A free printable return tracker lists the posted windows and a checklist for returning gifts."
 faq:
   - q: "What is Best Buy's holiday return deadline for 2026 purchases?"
     a: "Best Buy says most purchases made Oct. 30 through Dec. 31, 2026 can be returned through Jan. 15, 2027, and through Jan. 31, 2027 for My Best Buy Plus and Total members."
   - q: "What is Target's 2026 holiday return policy?"
-    a: "Target says purchases from Nov. 1 through Dec. 24, 2026 have an extended return window for electronics and entertainment, including Apple and Beats products and most Target Plus items. Target has not listed the return-by date on its holiday FAQ yet."
+    a: "Target says purchases made Nov. 1 through Dec. 24, 2026 have extra return time, and the return window begins Dec. 26, 2026. Electronics and entertainment (excluding Apple and Beats) and most Target Plus items must be returned by Sun., Jan. 24, 2027. Apple and Beats products and mobile phones (unlocked or pre-paid) must be returned by Fri., Jan. 8, 2027."
   - q: "Has Amazon posted its 2026 holiday return policy?"
-    a: "No. As of Oct. 30, 2026, Amazon's return policy help page does not show 2026 holiday terms. Last year, Amazon said most items purchased between Nov. 1 and Dec. 31 could be returned until Jan. 31, 2026."
+    a: "Trade outlets report that it has. ppc.land (Oct. 20, 2026) and Value Added Resource (Oct. 27, 2026) both say items bought on Amazon between Nov. 1 and Dec. 31, 2026 can be returned through Sun., Jan. 31, 2027, and Apple-brand products through Fri., Jan. 15, 2027. We could not open Amazon's own help page to confirm it. Last year, Amazon said most items purchased between Nov. 1 and Dec. 31 could be returned until Jan. 31, 2026."
   - q: "Do Walmart and Apple have extended holiday returns in 2026?"
-    a: "Not yet confirmed. Neither company's 2026 holiday return terms were confirmed on its official pages as of Oct. 30, 2026."
+    a: "Apple's returns and refunds page lists no holiday return window as of Nov. 3, 2026; it gives 14 days from the date you receive the product from Apple. Walmart's 2026 holiday return terms were not confirmed on its official page as of Oct. 30, 2026."
 sources:
   - title: "Best Buy reveals holiday calendar with Doorbusters and deals throughout the season"
     url: "https://corporate.bestbuy.com/2026/holiday-calendar/"
@@ -65,12 +69,23 @@ sources:
     date: "2026-10-27"
   - title: "Holiday Help: FAQs"
     url: "https://www.target.com/help/articles/holiday-help/holiday-help-faqs"
-    publisher: "Target"
-    date: "2026-10-30"
-  - title: "About Our Returns Policies"
+    publisher: "Target (page as read on Nov. 3, 2026; the page shows no date)"
+    date: "2026-11-03"
+  - title: "About Our Returns Policies (link only; Amazon's page could not be checked)"
     url: "https://www.amazon.com/gp/help/customer/display.html?nodeId=GKM69DUUYKQWKWX7"
     publisher: "Amazon"
-    date: "2026-10-30"
+  - title: "Amazon makes its January 31 holiday return deadline an annual rule"
+    url: "https://ppc.land/amazon-makes-its-january-31-holiday-return-deadline-an-annual-rule/"
+    publisher: "PPC Land"
+    date: "2026-10-20"
+  - title: "Amazon extends 2026 holiday returns through January 31"
+    url: "https://www.valueaddedresource.net/amazon-2026-holiday-returns/"
+    publisher: "Value Added Resource"
+    date: "2026-10-27"
+  - title: "Returns & Refunds - Shopping Help"
+    url: "https://www.apple.com/shop/help/returns_refund"
+    publisher: "Apple"
+    date: "2026-11-03"
   - title: "Amazon holiday return policy 2025"
     url: "https://www.aboutamazon.com/news/retail/amazon-holiday-return-policy-2025"
     publisher: "Amazon"
@@ -110,17 +125,17 @@ downloads:
 draft: false
 ---
 
-**Best Buy says most purchases made Oct. 30 through Dec. 31, 2026 can be returned through Jan. 15, 2027.** The deadline moves to Jan. 31, 2027 for My Best Buy Plus and Total members, according to Best Buy Corporate News, which published its holiday calendar on Oct. 27. Target has posted an extended window for some 2026 purchases but has not listed a return-by date, Amazon has not posted 2026 terms yet, and we could not confirm Walmart's or Apple's. This story compares what each store has confirmed as of Oct. 30, 2026, and we will update it as more terms are published.
+**Best Buy says most purchases made Oct. 30 through Dec. 31, 2026 can be returned through Jan. 15, 2027.** The deadline moves to Jan. 31, 2027 for My Best Buy Plus and Total members, according to Best Buy Corporate News, which published its holiday calendar on Oct. 27. Target now lists return-by dates of Jan. 24, 2027 and Jan. 8, 2027 for its extended window, two trade outlets report Amazon's Jan. 31, 2027 window (we could not check Amazon's own page), Apple's returns page shows no holiday window, and we could not confirm Walmart's terms. This story compares what each store has confirmed as of Nov. 3, 2026, and we will update it as more terms are published.
 
 ## Which stores have posted 2026 holiday return terms?
 
 | Store | 2026 holiday return terms | Return-by date |
 |---|---|---|
 | Best Buy | Most purchases Oct. 30 through Dec. 31, 2026 | Fri., Jan. 15, 2027 (Sun., Jan. 31, 2027 for Plus and Total members) |
-| Target | Extended window for electronics and entertainment on purchases Nov. 1 through Dec. 24, 2026 | Not yet listed on Target's holiday help page |
-| Amazon | Not yet posted for 2026 (2025 terms below) | Not yet posted for 2026 |
+| Target | Extended window on purchases Nov. 1 through Dec. 24, 2026; the return window begins Dec. 26, 2026 | Sun., Jan. 24, 2027 for electronics and entertainment (excluding Apple and Beats) and most Target Plus items; Fri., Jan. 8, 2027 for Apple, Beats and mobile phones |
+| Amazon (per ppc.land and Value Added Resource) | Items purchased Nov. 1 through Dec. 31, 2026 | Sun., Jan. 31, 2027 (Fri., Jan. 15, 2027 for Apple-brand products) |
 | Walmart | Not yet confirmed | Not yet confirmed |
-| Apple | Not yet confirmed | Not yet confirmed |
+| Apple | No holiday window listed on Apple's returns page | Within 14 days of the date you receive the product from Apple |
 | Costco | No holiday extension listed; standard satisfaction guarantee | Varies by item |
 | Nordstrom | No holiday extension listed; no time limit on most returns | No time limit on most items |
 
@@ -138,13 +153,28 @@ Our [Best Buy holiday calendar story](/news/best-buy-black-friday-2026-doorbuste
 
 ## What is Target's 2026 holiday return window?
 
-Target's Holiday Help Frequently Asked Questions (FAQ) page says: "For purchases November 1 through December 24, 2026, there's an extended return window for electronics and entertainment, including Apple & Beats products and most Target Plus items." Target has not listed the return-by date on its holiday FAQ yet, so the exact deadline for that window is not confirmed.
+Target's Holiday Help Frequently Asked Questions (FAQ) page says: "For qualifying purchases, we're giving guests extra time to return purchases made between November 1 and December 24, 2026. The return window begins December 26, 2026." The return-by date depends on what you bought. The weekdays below are our computation; Target's page does not show them.
 
-For everything else, Target applies its standard policy: most unopened items sold by Target in new condition, returned within 90 days, get a refund or exchange, while Target Plus Partner items have 30 days. Target says it can deny returns to prevent fraud or abuse.
+| Item type | Target's wording | Return by |
+|---|---|---|
+| Electronics & Entertainment (excluding Apple and Beats) | 30 days from Dec. 26 | Sun., Jan. 24, 2027 |
+| Most Target Plus items (excluding seasonal holiday décor) | 30 days from Dec. 26 | Sun., Jan. 24, 2027 |
+| Apple & Beats products and mobile phones (unlocked or pre-paid) | 14 days from Dec. 26 | Fri., Jan. 8, 2027 |
 
-## Has Amazon posted its 2026 holiday return policy?
+Apple, Beats and phone purchases at Target therefore have a deadline 16 days earlier than other electronics. Dec. 26, 2026 is a Saturday.
 
-No. As of Oct. 30, 2026, Amazon's return policy help page does not show 2026 holiday terms. Last year, Amazon said "most items purchased between November 1 and December 31 can be returned until January 31, 2026," and that Apple-branded products bought in that period could be returned through Jan. 15, 2026. Those are 2025 figures; treat them as a guide to timing, not as this year's dates. Our [Amazon Black Friday 2026 story](/news/amazon-black-friday-2026-sale-dates-when-does-it-start/) tracks the retailer's holiday announcements.
+For all other items, Target says "the normal Target and Target Plus Partner return policy applies." Under that standard policy, most unopened items sold by Target in new condition, returned within 90 days, get a refund or exchange, while Target Plus Partner items have 30 days. Target says it can deny returns to prevent fraud or abuse.
+
+## What is Amazon's 2026 holiday return deadline?
+
+We could not open Amazon's own returns help page as of Nov. 3, 2026, so the 2026 dates below come from two trade outlets. The site ppc.land reported on Oct. 20, 2026, citing an Amazon Seller News post published Oct. 16, 2026, that items bought on Amazon.com between Nov. 1 and Dec. 31, 2026 can be returned until Jan. 31, 2027, with Apple-brand products carrying an earlier cut-off of Jan. 15, 2027. Value Added Resource, published Oct. 27, 2026, gives the same Jan. 31 date and says Apple-brand products can be returned through Jan. 15. Check Amazon's help page before you count on either date.
+
+| Bought | Return by |
+|---|---|
+| Items, Nov. 1 through Dec. 31, 2026 | Sun., Jan. 31, 2027 |
+| Apple-brand products, Nov. 1 through Dec. 31, 2026 | Fri., Jan. 15, 2027 |
+
+Last year, Amazon said "most items purchased between November 1 and December 31 can be returned until January 31, 2026," and that Apple-branded products bought in that period could be returned through Jan. 15, 2026, according to its 2025 holiday return policy page. Those are 2025 figures, not this year's dates. Our [Amazon Black Friday 2026 story](/news/amazon-black-friday-2026-sale-dates-when-does-it-start/) tracks the retailer's holiday announcements.
 
 ## What are Costco's and Nordstrom's return rules?
 
@@ -154,8 +184,10 @@ Nordstrom's return policy says: "There are no time limits for returns or exchang
 
 ## What about Walmart and Apple?
 
-Walmart and Apple have not confirmed 2026 holiday return terms on their official pages as of Oct. 30, 2026. Walmart's Oct. 26, 2026 holiday events release does not mention returns, and its holiday return page could not be checked. We are not publishing dates for these two until they post them. Our [Black Friday 2026 ad tracker](/news/black-friday-2026-ad-tracker-walmart-target-best-buy/) follows Walmart, Target and Best Buy through the season.
+As of Nov. 3, 2026, Apple's Returns & Refunds page lists no holiday return window. It says you can return or exchange an item within 14 days of the date you receive the product from Apple, and that Apple products bought from other retailers follow those retailers' policies. Target and Amazon each set their own, longer deadlines for Apple products, as shown above.
+
+Walmart has not confirmed 2026 holiday return terms on its official page as of Oct. 30, 2026. Walmart's Oct. 26, 2026 holiday events release does not mention returns, and its holiday return page could not be checked. We are not publishing dates for Walmart until it posts them. Our [Black Friday 2026 ad tracker](/news/black-friday-2026-ad-tracker-walmart-target-best-buy/) follows Walmart, Target and Best Buy through the season.
 
 ## Print the 2026 holiday return tracker
 
-Our free one-page printable lists the posted return windows, the Jan. 15 and Jan. 31, 2027 Best Buy deadlines, and a short checklist for returning gifts, such as keeping receipts and noting the return-by date on each gift. There is a standard version and an ink-saver version for home printers. For the gift-giving dates behind these returns, see [when Christmas is](/when-is/christmas-day/).
+Our free one-page printable lists the posted return windows, the Jan. 15 and Jan. 31, 2027 Best Buy deadlines, and a short checklist for returning gifts, such as keeping receipts and noting the return-by date on each gift. The tracker lists the Best Buy and Target windows as read on Nov. 3, 2026; Amazon's dates are in the story above because they come from trade outlets. There is a standard version and an ink-saver version for home printers. For the gift-giving dates behind these returns, see [when Christmas is](/when-is/christmas-day/).
