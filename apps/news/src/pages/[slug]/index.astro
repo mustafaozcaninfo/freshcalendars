@@ -773,9 +773,10 @@ const keyDates = upcomingFor(new Set([article.id]));
   .pz-jump a:last-child{background:var(--focus);color:var(--paper)}
   .jump a{display:inline-flex;align-items:center;min-height:44px}
   .prose-news{font-family:"Source Sans 3","Source Sans 3 Fallback",ui-sans-serif,system-ui,sans-serif;font-size:1.0625rem;line-height:1.7;color:var(--ink-strong)}
-  /* Running text stops near 70 characters a line (desktop lines ran 70-124); tables, tools, figures and
-     printables keep the full column. */
-  .prose-news > :global(:is(p,ul,ol,h2,h3,h4,blockquote,details)){max-width:70ch}
+  /* Running text stops near 70 characters a line (desktop lines ran 70-124; roadmap target 68). Source
+     Sans 3 averages narrower than its "0", so 58ch measures about 70 characters. Tables, tools, figures
+     and printables keep the full column. */
+  .prose-news > :global(:is(p,ul,ol,h2,h3,h4,blockquote,details)){max-width:58ch}
   .prose-news :global(h2){font-family:Sora,"Sora Fallback",sans-serif;font-size:1.35rem;line-height:1.3;margin:2rem 0 .75rem;color:var(--ink-strong);scroll-margin-top:10rem}
   .prose-news :global(h3){font-family:Sora,"Sora Fallback",sans-serif;font-size:1.1rem;line-height:1.3;margin:1.5rem 0 .5rem;color:var(--ink-strong)}
   .prose-news :global(ul){padding-left:1.25rem;margin:0 0 1.1rem}
