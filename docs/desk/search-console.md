@@ -1,21 +1,24 @@
 # Search Console (generated, do not edit)
 
-Read 2026-11-03T18:07 UTC for sc-domain:freshcalendars.com. Windows end 3 days before the read (Search Console data is late). Source: `scripts/news-gsc.mjs`, daily.
+Read 2026-11-03T18:41 UTC for sc-domain:freshcalendars.com. Windows end 3 days before the read (Search Console data is late). Source: `scripts/news-gsc.mjs`, daily. Web, image and Discover results are separate: each section says which.
 
 ## Gate for the phase decision (docs/DESK.md)
 
-- PASS: At least 60% of /news/ URLs published 7 to 21 days ago are indexed — 100% (30 of 30 sampled)
+- PASS: At least 60% of /news/ URLs published 7 to 21 days ago are indexed — 100% (40 of 40 sampled)
 - PASS: /news/ clicks and impressions did not fall two weeks in a row — no
 - CHECK: No manual action and no security issue — not in the API: check Search Console > Security & Manual Actions
 
 ## Weekly totals (latest first)
 
-- /news/: 2026-10-25..2026-10-31: 2,586 clicks, 525,908 impressions | 2026-10-18..2026-10-24: 867 clicks, 241,666 impressions | 2026-10-11..2026-10-17: 0 clicks, 0 impressions
-- Calendar site: 2026-10-25..2026-10-31: 56 clicks, 5,606 impressions | 2026-10-18..2026-10-24: 58 clicks, 4,073 impressions | 2026-10-11..2026-10-17: 12 clicks, 3,412 impressions
+- /news/, web: 2026-10-25..2026-10-31: 2,586 clicks, 525,908 impressions | 2026-10-18..2026-10-24: 867 clicks, 241,666 impressions | 2026-10-11..2026-10-17: 0 clicks, 0 impressions
+- /news/, image: 2026-10-25..2026-10-31: 499 clicks, 247,409 impressions | 2026-10-18..2026-10-24: 217 clicks, 68,023 impressions | 2026-10-11..2026-10-17: 0 clicks, 0 impressions
+- /news/, Discover: 2026-10-25..2026-10-31: 0 clicks, 0 impressions | 2026-10-18..2026-10-24: 0 clicks, 0 impressions | 2026-10-11..2026-10-17: 0 clicks, 0 impressions
+- Calendar site, web: 2026-10-25..2026-10-31: 56 clicks, 5,606 impressions | 2026-10-18..2026-10-24: 58 clicks, 4,073 impressions | 2026-10-11..2026-10-17: 12 clicks, 3,412 impressions
+- Calendar site, image: 2026-10-25..2026-10-31: 43 clicks, 20,752 impressions | 2026-10-18..2026-10-24: 34 clicks, 15,074 impressions | 2026-10-11..2026-10-17: 31 clicks, 15,206 impressions
 
-## Opportunities: ranking 2.5 to 20 with a click rate below what that position earns
+## Web opportunities: ranking 2.5 to 20 with a click rate below what that position earns
 
-Improve the title, the first sentence or a section of the page (an update item for the update desk), or answer the query in a new story (a queue item for the research desk). `missing` is the clicks per 28 days the page would gain at the usual rate.
+An update item for the update desk (title, first sentence or a section), or a new story for the research desk when no page answers the query. `missing` is the clicks per 28 days the page would gain at the usual rate. A query Google answers itself (a date, a time) can show a large `missing` that no title will win.
 
 - 20382 missing: "thanksgiving 2026" → /news/why-thanksgiving-2026-is-november-26/ (position 3.3, 204,209 impressions, 39 clicks)
 - 286 missing: "sample ballot by zip code" → /news/sample-ballot-by-zip-code-2026-texas-ballot/ (position 9.2, 16,150 impressions, 37 clicks)
@@ -58,7 +61,70 @@ Improve the title, the first sentence or a section of the page (an update item f
 - 11 missing: "ballon d'or time est" → /news/ballon-dor-2026-date-time-by-time-zone-nominees-london/ (position 7.7, 322 impressions, 0 clicks)
 - 11 missing: "diwali in usa 2026" → /news/diwali-2026-date-lakshmi-puja-time-usa/ (position 10.7, 537 impressions, 0 clicks)
 
-## Top /news/ pages, last 28 days
+## Pages that lost or gained clicks (last 14 days against the 14 before; web)
+
+Losing: none
+
+Gaining: 
+- /news/is-election-day-a-holiday-2026-whats-open/: 0 → 344 clicks (0 → 11,582 impressions)
+- /news/sample-ballot-by-zip-code-2026-texas-ballot/: 0 → 289 clicks (0 → 28,461 impressions)
+- /news/free-rides-to-the-polls-2026-lyft-uber-transit/: 0 → 196 clicks (0 → 1,620 impressions)
+- /news/nyt-connections-hints-answers-november-1-2026-1239/: 0 → 158 clicks (0 → 9,812 impressions)
+- /news/nyt-connections-hints-answers-october-26-2026-1233/: 0 → 136 clicks (0 → 14,228 impressions)
+- /news/day-of-the-dead-2026-dia-de-los-muertos-dates/: 0 → 122 clicks (0 → 9,987 impressions)
+- /news/printable-pumpkin-carving-templates/: 0 → 81 clicks (0 → 1,562 impressions)
+- /news/nyt-connections-hints-answers-october-30-2026-1237/: 0 → 75 clicks (0 → 14,288 impressions)
+- /news/nhl-hometown-remix-jerseys-2026-27-unveil-date-game-schedule/: 0 → 72 clicks (0 → 1,547 impressions)
+- /news/printable-nfl-schedule-2026-2027-pdf/: 0 → 57 clicks (0 → 1,171 impressions)
+
+## Pages that compete with each other (one query, two or more of our pages; web, 28 days)
+
+- "mini crossword answers" (1,596 impressions): /news/nyt-mini-crossword-answers-october-26-2026/ 982 at 7.5; /news/nyt-mini-crossword-answers-october-28-2026/ 614 at 7.7
+- "day of the dead 2026 schedule" (935 impressions): /news/day-of-the-dead-2026-dia-de-los-muertos-dates/ 232 at 5.7; /news/day-of-the-dead-2026-dia-de-los-muertos-dates/#building-an-ofrenda 83 at 4.8; /news/day-of-the-dead-2026-dia-de-los-muertos-dates/#day-of-the-dead-2026-dates 83 at 4.8; /news/day-of-the-dead-2026-dia-de-los-muertos-dates/#what-the-two-days-mean 83 at 4.8; /news/day-of-the-dead-2026-dia-de-los-muertos-dates/#day-of-the-dead-in-mexico-city-in-2026 67 at 7.1; /news/day-of-the-dead-2026-dia-de-los-muertos-dates/#day-of-the-dead-in-the-united-states-in-2026 67 at 7.1; /news/day-of-the-dead-2026-dia-de-los-muertos-dates/#coco-and-other-day-of-the-dead-movies 64 at 7.2; /news/day-of-the-dead-2026-dia-de-los-muertos-dates/#day-of-the-dead-2026-dates-at-a-glance 64 at 7.2; /news/day-of-the-dead-2026-dia-de-los-muertos-dates/#day-of-the-dead-for-pets-why-oct-27 64 at 7.2; /news/day-of-the-dead-2026-dia-de-los-muertos-dates/#the-2026-d%C3%ADa-de-muertos-barbie 64 at 7.2; /news/day-of-the-dead-2026-dia-de-los-muertos-dates/#the-week-before-oct-27-to-nov-2-day-by-day 64 at 7.2
+- "dia de los muertos 2026 calendar" (712 impressions): /news/day-of-the-dead-2026-dia-de-los-muertos-dates/ 319 at 2.8; /news/day-of-the-dead-2026-dia-de-los-muertos-dates/#building-an-ofrenda 46 at 2.5; /news/day-of-the-dead-2026-dia-de-los-muertos-dates/#day-of-the-dead-2026-dates 46 at 2.5; /news/day-of-the-dead-2026-dia-de-los-muertos-dates/#what-the-two-days-mean 46 at 2.5; /news/day-of-the-dead-2026-dia-de-los-muertos-dates/#the-2026-d%C3%ADa-de-muertos-barbie 38 at 3.1; /news/day-of-the-dead-2026-dia-de-los-muertos-dates/#what-d%C3%ADa-de-los-muertos-means 38 at 3.1; /news/day-of-the-dead-2026-dia-de-los-muertos-dates/#coco-and-other-day-of-the-dead-movies 36 at 3.1; /news/day-of-the-dead-2026-dia-de-los-muertos-dates/#day-of-the-dead-2026-dates-at-a-glance 36 at 3.1; /news/day-of-the-dead-2026-dia-de-los-muertos-dates/#day-of-the-dead-in-mexico-city-in-2026 36 at 3.1; /news/day-of-the-dead-2026-dia-de-los-muertos-dates/#day-of-the-dead-in-the-united-states-in-2026 36 at 3.1; /news/day-of-the-dead-2026-dia-de-los-muertos-dates/#the-week-before-oct-27-to-nov-2-day-by-day 35 at 3.1
+- "dia de los muertos 2026 schedule" (626 impressions): /news/day-of-the-dead-2026-dia-de-los-muertos-dates/ 133 at 6; /news/day-of-the-dead-2026-dia-de-los-muertos-dates/#building-an-ofrenda 56 at 7.1; /news/day-of-the-dead-2026-dia-de-los-muertos-dates/#day-of-the-dead-2026-dates 56 at 7.1; /news/day-of-the-dead-2026-dia-de-los-muertos-dates/#what-the-two-days-mean 56 at 7.1; /news/day-of-the-dead-2026-dia-de-los-muertos-dates/#day-of-the-dead-in-mexico-city-in-2026 48 at 7.8; /news/day-of-the-dead-2026-dia-de-los-muertos-dates/#day-of-the-dead-in-the-united-states-in-2026 48 at 7.8; /news/day-of-the-dead-2026-dia-de-los-muertos-dates/#coco-and-other-day-of-the-dead-movies 46 at 7.8; /news/day-of-the-dead-2026-dia-de-los-muertos-dates/#day-of-the-dead-2026-dates-at-a-glance 46 at 7.8; /news/day-of-the-dead-2026-dia-de-los-muertos-dates/#the-2026-d%C3%ADa-de-muertos-barbie 46 at 7.8; /news/day-of-the-dead-2026-dia-de-los-muertos-dates/#what-d%C3%ADa-de-los-muertos-means 46 at 7.8; /news/day-of-the-dead-2026-dia-de-los-muertos-dates/#day-of-the-dead-for-pets-why-oct-27 45 at 7.8
+- "2026 thanksgiving" (498 impressions): /news/why-thanksgiving-2026-is-november-26/ 464 at 2.8; /news/topic/thanksgiving-2026/ 34 at 1.3
+- "day of the dead calendar 2026" (485 impressions): /news/day-of-the-dead-2026-dia-de-los-muertos-dates/ 329 at 7.1; /news/day-of-the-dead-2026-dia-de-los-muertos-dates/#building-an-ofrenda 52 at 8.7; /news/day-of-the-dead-2026-dia-de-los-muertos-dates/#day-of-the-dead-2026-dates 52 at 8.7; /news/day-of-the-dead-2026-dia-de-los-muertos-dates/#what-the-two-days-mean 52 at 8.7
+- "dia de los muertos 2026 timeline" (269 impressions): /news/day-of-the-dead-2026-dia-de-los-muertos-dates/ 196 at 7.5; /news/mexico-city-day-of-the-dead-parade-2026-october-31-time-route-zocalo-ofrenda/ 73 at 7.8
+- "dia de los muertos schedule 2026" (183 impressions): /news/day-of-the-dead-2026-dia-de-los-muertos-dates/ 69 at 5.1; /news/day-of-the-dead-2026-dia-de-los-muertos-dates/#building-an-ofrenda 38 at 6.9; /news/day-of-the-dead-2026-dia-de-los-muertos-dates/#day-of-the-dead-2026-dates 38 at 6.9; /news/day-of-the-dead-2026-dia-de-los-muertos-dates/#what-the-two-days-mean 38 at 6.9
+
+## Image search (28 days)
+
+- /news/daylight-saving-time-ends-november-1-2026/: 45 clicks, 16,110 impressions, position 25.3
+- /news/november-2026-calendar-printable/: 40 clicks, 16,065 impressions, position 48.4
+- /news/january-2027-calendar-printable/: 34 clicks, 7,582 impressions, position 39.3
+- /news/ramadan-2027-calendar-dates-timetable/: 32 clicks, 6,342 impressions, position 24.8
+- /news/week-numbers-2027-calendar-printable/: 29 clicks, 2,312 impressions, position 37.4
+- /news/gta-6-october-22-2026-what-is-confirmed-release-countdown/: 25 clicks, 1,874 impressions, position 35.6
+- /printable-yearly-calendar.html: 24 clicks, 13,826 impressions, position 59.4
+- /news/julian-date-calendar-2027-2026-printable/: 20 clicks, 4,574 impressions, position 24.2
+- /news/hunters-moon-october-2026-full-moon-time/: 16 clicks, 10,390 impressions, position 28.3
+- /blank-calendars.html: 16 clicks, 3,896 impressions, position 64.2
+- /news/national-cat-day-2026-thursday-october-29/: 16 clicks, 3,116 impressions, position 25
+- /news/printable-pumpkin-carving-templates/: 13 clicks, 6,984 impressions, position 70.1
+- /october-calendars.html: 13 clicks, 5,876 impressions, position 60.7
+- /news/lunar-new-year-2027-year-of-the-goat/: 13 clicks, 1,453 impressions, position 46.6
+- /printable-blank-yearly-calendar.html: 13 clicks, 724 impressions, position 41.1
+
+Ranking in web results but absent from image results (hero alt text, caption, file name):
+- /news/day-of-the-dead-2026-dia-de-los-muertos-dates/#building-an-ofrenda: 424 web impressions, position 5.9
+- /news/day-of-the-dead-2026-dia-de-los-muertos-dates/#day-of-the-dead-2026-dates: 424 web impressions, position 5.9
+- /news/day-of-the-dead-2026-dia-de-los-muertos-dates/#what-the-two-days-mean: 424 web impressions, position 5.9
+- /news/nyt-spelling-bee-hints-answers-october-26-2026/: 325 web impressions, position 7
+- /news/day-of-the-dead-2026-dia-de-los-muertos-dates/#day-of-the-dead-in-mexico-city-in-2026: 321 web impressions, position 6.5
+- /news/day-of-the-dead-2026-dia-de-los-muertos-dates/#day-of-the-dead-in-the-united-states-in-2026: 321 web impressions, position 6.5
+- /news/day-of-the-dead-2026-dia-de-los-muertos-dates/#the-2026-d%C3%ADa-de-muertos-barbie: 308 web impressions, position 6.4
+- /news/day-of-the-dead-2026-dia-de-los-muertos-dates/#day-of-the-dead-2026-dates-at-a-glance: 298 web impressions, position 6.4
+- /news/day-of-the-dead-2026-dia-de-los-muertos-dates/#coco-and-other-day-of-the-dead-movies: 297 web impressions, position 6.4
+- /news/day-of-the-dead-2026-dia-de-los-muertos-dates/#day-of-the-dead-for-pets-why-oct-27: 194 web impressions, position 6.8
+- /news/day-of-the-dead-2026-dia-de-los-muertos-dates/#what-d%C3%ADa-de-los-muertos-means: 193 web impressions, position 6.1
+- /news/day-of-the-dead-2026-dia-de-los-muertos-dates/#the-week-before-oct-27-to-nov-2-day-by-day: 180 web impressions, position 5.8
+
+## Discover (28 days)
+
+- no Discover data
+
+## Top /news/ pages, web, last 28 days
 
 - /news/is-election-day-a-holiday-2026-whats-open/: 344 clicks, 11,582 impressions, position 6.4
 - /news/sample-ballot-by-zip-code-2026-texas-ballot/: 289 clicks, 28,461 impressions, position 8.8
@@ -86,7 +152,7 @@ Improve the title, the first sentence or a section of the page (an update item f
 - /news/nyt-spelling-bee-hints-answers-october-28-2026/: 22 clicks, 1,418 impressions, position 7.7
 - /news/downloads/lunar-new-year-2027/chinese-lunar-calendar-2027.pdf: 22 clicks, 382 impressions, position 16.4
 
-## Top calendar-site pages, last 28 days
+## Top calendar-site pages, web, last 28 days
 
 - /: 53 clicks, 696 impressions, position 35.9
 - /blank-calendars.html: 17 clicks, 438 impressions, position 21.8
@@ -104,6 +170,18 @@ Improve the title, the first sentence or a section of the page (an update item f
 - /when-is/christmas-day/: 1 clicks, 2,182 impressions, position 12
 - /when-is/new-years-day/: 1 clicks, 592 impressions, position 11.2
 
-## Stories not indexed (sample of those published 7 to 21 days ago)
+## Indexing
 
-- none in the sample
+Sample of 40 stories published 2 to 21 days ago (the gate counts those 7 to 21 days old): 90 Submitted and indexed.
+
+- every sampled story is indexed
+
+## Sitemaps
+
+- /news/sitemap.xml: 0 errors, 0 warnings, 821 URLs submitted, last read 2026-11-03
+- /news/news-sitemap.xml: 0 errors, 0 warnings, 128 URLs submitted, last read 2026-11-02
+- /sitemap.xml: 0 errors, 0 warnings, 96 URLs submitted, last read 2026-10-28
+
+## Experiments (title and snippet changes of the search desk, 14 days before against 14 days after)
+
+- none running
