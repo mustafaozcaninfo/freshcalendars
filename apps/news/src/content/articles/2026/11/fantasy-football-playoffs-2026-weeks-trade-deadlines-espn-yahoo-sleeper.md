@@ -3,8 +3,8 @@ title: "Fantasy Football Playoffs 2026: Week 15-18 Dates, Christmas Games and Tr
 seoTitle: "Fantasy Football Playoffs 2026: Weeks 15-18 Dates"
 description: "ESPN's fantasy football playoffs run Week 15 to 18, Dec. 17 to Jan. 10, after 14 regular weeks, by National Football League (NFL) dates in Eastern Time (ET)."
 type: explainer
-publishedAt: "2026-11-03T10:35:00-05:00"
-updatedAt: "2026-11-03T10:35:00-05:00"
+publishedAt: "2026-11-03T11:02:00-05:00"
+updatedAt: "2026-11-03T11:02:00-05:00"
 authors: [jessica-hartwell]
 category: sports
 keywords: ["fantasy football playoffs 2026 weeks", "when do fantasy football playoffs start 2026", "fantasy football championship week 2026", "fantasy trade deadline 2026"]
