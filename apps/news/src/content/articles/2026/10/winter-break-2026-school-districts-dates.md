@@ -4,7 +4,7 @@ seoTitle: "Winter Break 2026 Dates for Big School Districts"
 description: "Winter break 2026 in 24 big school districts: most are off Dec. 21-Jan. 1, NYC from Dec. 24, Los Angeles until Jan. 8. Return dates and Thanksgiving breaks."
 type: news
 publishedAt: "2026-10-20T01:35:00-04:00"
-updatedAt: "2026-11-02T05:15:00-05:00"
+updatedAt: "2026-11-03T08:50:00-05:00"
 authors: [aaron-kessler]
 category: school-calendars
 keywords: ["winter break 2026", "christmas break 2026 schools", "when is winter break 2026", "school winter break dates 2026-27", "when do schools go back after winter break 2027"]
@@ -31,6 +31,9 @@ faq:
   - q: "Is Christmas Eve a school day in 2026?"
     a: "Not in any of the 24 districts listed here. Dec. 24, 2026 is a Thursday, and every one of them is closed that day."
 sources:
+  - title: "2026-2027 School Year Calendar, Pre-Labor Day Start (PDF)"
+    url: "https://cdnsm5-ss3.sharpschool.com/UserFiles/Servers/Server_2744/File/Calendars/2026-2027/26-27%20BCPS%20Pre-Labor%20Day%20Calendar.pdf"
+    publisher: "Baltimore County Public Schools"
   - title: "School Year Calendar 2026-2027"
     url: "https://www.schools.nyc.gov/docs/default-source/sections/calendar/2026-27-school-year-calendar.pdf"
     publisher: "NYC Public Schools"
@@ -154,6 +157,7 @@ Independent school districts are the usual form of school district in Texas. "Pl
 ## Notes on specific districts
 
 - **Gwinnett County:** The student calendar lists winter break as Dec. 21 through Jan. 4. A separate staff calendar shows different dates for employees.
+- **Baltimore County, Md.:** Baltimore County Public Schools (BCPS) says winter break begins at the end of the school day on Wednesday, Dec. 23, and schools reopen Monday, Jan. 4, so students are off Dec. 24-Jan. 1 by our reading. The district is not in the table above; see our [BCPS calendar story](/news/baltimore-county-public-schools-calendar-2026-27-breaks/).
 - **Wake County:** The dates are for the traditional calendar. Year-round and modified-calendar schools have different breaks.
 - **Cobb County and Austin ISD:** Both list the break through Monday, Jan. 4, without a separate return day. Austin marks Jan. 4 as a staff development day and student holiday. Cobb's Important Dates page prints Jan. 4 as a "Friday," but Jan. 4, 2027 is a Monday.
 - **Broward County:** The district's calendar announcement gives the Dec. 21-Jan. 1 break but not the first day back; check the full calendar on the district site.
