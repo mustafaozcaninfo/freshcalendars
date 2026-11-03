@@ -4,6 +4,7 @@ seoTitle: "AP Exam Schedule 2027: Dates and Deadlines"
 description: "Advanced Placement (AP) exams run May 3-7 and May 10-14, 2027, and orders are due Nov. 13, 2026, says College Board. Day-by-day schedule and fees inside."
 type: explainer
 publishedAt: "2026-10-25T12:30:00-04:00"
+updatedAt: "2026-11-03T11:23:00-05:00"
 authors: [aaron-kessler]
 category: school-calendars
 keywords: ["AP exam schedule 2027", "AP exam dates 2027", "AP exam registration deadline", "when are AP exams 2027"]
@@ -34,9 +35,9 @@ faq:
   - q: "When are the AP portfolio deadlines in 2027?"
     a: "Digital portfolios are due at 11:59 p.m. Eastern Time (ET) on April 30, 2027, for Computer Science Principles (CSP), Seminar, Research and World Languages and Cultures, and on May 7, 2027, for Art and Design."
   - q: "When are 2027 AP scores released?"
-    a: "College Board has not yet announced a 2027 score release date."
+    a: "AP scores come out in July 2027; College Board has not yet announced the exact day."
   - q: "What if I cannot test in the first two weeks of May?"
-    a: "College Board offers late testing for students who cannot test during the first two weeks of May. The 2027 late-testing dates are not yet listed, so see AP Central and ask your AP coordinator."
+    a: "College Board offers late testing for students who cannot test during the first two weeks of May. College Board lists 2027 late testing for Monday, May 17 through Friday, May 21, 2027, with two sessions a day. It gives no clock times, so ask your AP coordinator when you are scheduled."
 sources:
   - title: "2027 AP Exam Dates - AP Students"
     url: "https://apstudents.collegeboard.org/exam-dates"
@@ -46,6 +47,12 @@ sources:
     publisher: "College Board"
   - title: "AP Exam Fees"
     url: "https://apcentral.collegeboard.org/exam-administration-ordering-scores/ordering-fees/exam-fees"
+    publisher: "College Board"
+  - title: "2027 AP Exam Late-Testing Dates - AP Central"
+    url: "https://apcentral.collegeboard.org/exam-administration-ordering-scores/exam-dates/late-testing-dates"
+    publisher: "College Board"
+  - title: "AP Calendar - AP Students"
+    url: "https://apstudents.collegeboard.org/calendar"
     publisher: "College Board"
 internalLinks:
   - href: "/may-calendars.html"
@@ -151,6 +158,6 @@ College Board's exam pages do not say which other subjects are fully digital, so
 
 ## What about scores and late testing?
 
-A 2027 score release date is not yet announced. College Board offers late testing for students who cannot test during the first two weeks of May, but we did not find 2027 late-testing dates, so check AP Central and your AP coordinator.
+AP scores come out in July 2027, according to College Board's AP Calendar; it has not yet announced the exact day, and its access schedule page says the 2027 access schedule will be available in the spring of 2027. College Board offers late testing for students who cannot test during the first two weeks of May. The 2027 late-testing dates are Monday, May 17 through Friday, May 21, 2027, with two sessions a day (Session 1 and Session 2, typically the morning and afternoon). College Board gives no clock times for them, so ask your AP coordinator when you are scheduled.
 
 Heading toward other tests this school year? See the [SAT and ACT dates for 2026-27](/news/sat-act-test-dates-2026-27-registration-deadlines/), the [Law School Admission Test (LSAT) dates and deadlines](/news/lsat-test-dates-2026-27-registration-deadlines/) and the [Medical College Admission Test (MCAT) 2027 schedule](/news/mcat-2027-test-dates-registration-opens-october-20/).
