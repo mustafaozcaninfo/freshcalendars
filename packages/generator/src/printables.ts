@@ -29,7 +29,8 @@ export function samePdf(a: Uint8Array, b: Uint8Array): boolean {
  * Renders every template to <public>/<slug>.pdf|png and copies the PNG to <assets>/<slug>.png.
  * Each sheet passes the print checks (printCheck.ts) first; FC_PRINT_DRY=1 checks without writing.
  */
-export async function renderPrintables(dir: string, list: Printable[]): Promise<void> {
+export async function renderPrintables(dir: string, list: Printable[]): Promise<Record<string, number>> {
+  const pageCount: Record<string, number> = {};
   const outPublic = path.join(ROOT, "apps/news/public/downloads", dir);
   const outAssets = path.join(ROOT, "apps/news/src/assets/news", dir);
   await fs.mkdir(outPublic, { recursive: true });
@@ -42,7 +43,8 @@ export async function renderPrintables(dir: string, list: Printable[]): Promise<
       await page.evaluate(() => document.fonts.ready);
       // Templates that ship a fit script (newsPrintable.ts) scale themselves to one page here.
       const fit = await page.evaluate(() => (window as unknown as { __fit?: () => number }).__fit?.() ?? null);
-      if (await page.evaluate(() => document.body.dataset.overflow === "1")) throw new Error(`${t.slug}: content does not fit on the page even at 80%; cut or split the rows`);
+      if (await page.evaluate(() => document.body.dataset.overflow === "1")) throw new Error(`${t.slug}: content does not fit (one page at 80%, or a kit's six pages); cut or split the rows`);
+      pageCount[t.slug] = await page.evaluate(() => document.querySelectorAll(".page").length);
       if (fit !== null && fit !== 1) console.log(`${t.slug}: scaled to ${Math.round(fit * 100)}% to fit`);
       await assertPrintable(page, t.slug);
       if (dryRun()) { warnRaster(t.slug, await page.pdf(pdfOptions(t.size))); await page.close(); continue; }
@@ -64,4 +66,5 @@ export async function renderPrintables(dir: string, list: Printable[]): Promise<
   } finally {
     await browser.close();
   }
+  return pageCount;
 }

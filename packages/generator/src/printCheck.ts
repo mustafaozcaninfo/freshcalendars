@@ -63,7 +63,7 @@ const MEASURE = String.raw`({ SAFE, EDGE, MIN_PX, MIN_C, GOOD_C, fontsRe }) => {
       const foot = pg.querySelector(".foot")?.getBoundingClientRect();
       const walker = document.createTreeWalker(pg, NodeFilter.SHOW_TEXT);
       // Writing areas (notes, fill-in boxes, tables of blank cells) count as filled.
-      const spans = [...pg.querySelectorAll(".notes, .box, svg, table, [data-print-fill]")].map((e) => { const r = e.getBoundingClientRect(); return [r.top - P.top, r.bottom - P.top]; });
+      const spans = [...pg.querySelectorAll(".notes, .box, svg, table, [data-print-fill]")].map((e) => e.getBoundingClientRect()).filter((r) => r.width && r.height).map((r) => [r.top - P.top, r.bottom - P.top]);
       for (let n = walker.nextNode(); n; n = walker.nextNode()) {
         const text = n.textContent ?? "";
         if (!text.trim()) continue;

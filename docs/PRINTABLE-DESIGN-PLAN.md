@@ -251,4 +251,6 @@ Published PDFs stay as they are until their story is updated (`samePdf` keeps un
 | `10-PDF-FACTS`, `10-PDF-FRESH`, `10-PDF-NO-INK`; full PDF text | `scripts/news-seo-audit.mjs`, `scripts/lib/pdf-print.mjs`, `scripts/lib/print-record.mjs` |
 | Writer, researcher and skill instructions | `.claude/skills/news-article`, `news-visuals`, `.claude/agents/news-researcher.md`, `news-writer.md` |
 
+Multi-page (2026-11-03, owner: "PDFs may run to several pages"): kits shrink to 90% first, then continue on new pages instead of failing (`PAGINATE` in `kits/components.ts`, up to 6 pages). Movable units are `.blk` elements; `data-split` tables break between rows with repeated heads; `.flow` containers (the month grid) are recreated on the next page. Stress-tested at the validators' limits: 80 events, 60 rows, 12 busy months.
+
 `src` on kit data is the 1-based number of the story's source, or its URL or publisher; the researcher hands over URLs so the order of `sources:` does not matter.
