@@ -136,9 +136,9 @@ assets:
         - { label: "MPI current loan interest rate", why: "MPI says rates are set by the Bank of Canada and can change" }
 ---
 
-**Quebec's winter tire requirement starts Tuesday, Dec. 1, 2026, and runs to Monday, March 15, 2027, and drivers who do not comply are liable to a fine of $200 to $300**, according to the Gouvernement du Québec (all dollar amounts in this story are Canadian dollars). British Columbia (BC) already has its rule in force since Thursday, Oct. 1, 2026. The table below sets out each province's official rule, with weekdays for the 2026-27 season, and a one-page printable follows the same dates.
+**Quebec's winter tire requirement starts Tuesday, Dec. 1, 2026, and runs to Monday, March 15, 2027, and drivers who do not comply are liable to a fine of $200 to $300**, according to the Gouvernement du Québec (all dollar amounts in this story are Canadian dollars). British Columbia (BC) has had its rule in force since Thursday, Oct. 1, 2026. The table below sets out each province's official rule, with weekdays for the 2026-27 season, and a one-page printable follows the same dates.
 
-From Tuesday, Nov. 3, there are 28 days until Quebec's rule starts. Our [December 2026 printable calendar](/december-calendars.html) has Dec. 1 marked if you want it on the wall.
+From Tuesday, Nov. 3, there are 28 days until Quebec's rule starts. To keep the date in sight, write it on our [December 2026 printable calendar](/december-calendars.html).
 
 ## Which winter tire rules apply in each province?
 
