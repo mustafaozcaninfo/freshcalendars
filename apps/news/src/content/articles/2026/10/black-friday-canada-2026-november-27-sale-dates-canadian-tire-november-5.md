@@ -89,7 +89,7 @@ internalLinks:
     label: "November 2026 printable calendar"
   - href: "/when-is/cyber-monday/"
     label: "When is Cyber Monday?"
-related: [black-friday-2026-uk-date-27-november-amazon-uk-sale-dates, canada-post-holiday-shipping-deadlines-2026-christmas, amazon-black-friday-2026-sale-dates-when-does-it-start]
+related: [winter-tires-canada-2026-27-quebec-december-1-bc-highway-rules, canada-post-holiday-shipping-deadlines-2026-christmas, amazon-black-friday-2026-sale-dates-when-does-it-start]
 draft: false
 assets:
   overlay: true

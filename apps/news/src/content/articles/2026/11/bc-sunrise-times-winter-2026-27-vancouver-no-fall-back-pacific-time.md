@@ -102,7 +102,7 @@ internalLinks:
     label: "November 2026 printable calendar"
   - href: "/december-calendars.html"
     label: "December 2026 printable calendar"
-related: [canada-clocks-fall-back-november-1-2026-which-provinces-no-time-change, sunset-times-after-daylight-saving-time-ends-2026, winter-solstice-2026-december-21-shortest-day-sunset-times]
+related: [canada-clocks-fall-back-november-1-2026-which-provinces-no-time-change, winter-tires-canada-2026-27-quebec-december-1-bc-highway-rules, winter-solstice-2026-december-21-shortest-day-sunset-times]
 draft: false
 ---
 

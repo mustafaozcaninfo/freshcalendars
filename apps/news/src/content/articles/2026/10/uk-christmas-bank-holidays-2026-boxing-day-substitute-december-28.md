@@ -55,7 +55,7 @@ internalLinks:
     label: "When is Christmas Day?"
   - href: "/when-is/new-years-eve/"
     label: "When is New Year's Eve?"
-related: [uk-bank-holidays-2027-dates-england-scotland-northern-ireland, st-andrews-day-2026-scotland-bank-holiday-monday-november-30, kings-christmas-message-2026-time-uk-us-canada-australia]
+related: [uk-bank-holidays-2027-dates-england-scotland-northern-ireland, uk-trains-christmas-2026-no-trains-december-25-26-paddington-closed, kings-christmas-message-2026-time-uk-us-canada-australia]
 downloads:
   - group: "UK Christmas and New Year Leave Planner printables"
     title: "UK Christmas and New Year Leave Planner, 2026 to 2027"
@@ -137,6 +137,8 @@ This table is our computation from the GOV.UK dates, for a standard Monday-to-Fr
 From Friday, Dec. 25, to Monday, Dec. 28, a Monday-to-Friday worker gets four days off in a row. New Year gives a three-day weekend, Friday, Jan. 1, to Sunday, Jan. 3, in England and Wales and in Northern Ireland, and four days in Scotland, Friday, Jan. 1, to Monday, Jan. 4.
 
 Taking annual leave on Dec. 29, 30 and 31 joins the two blocks. In England and Wales that gives 10 days off, Dec. 25 to Jan. 3. In Scotland the same three days give 11 days, Dec. 25 to Jan. 4. The same dates apply in Northern Ireland as in England and Wales.
+
+For trains on these days, see our story on [UK trains at Christmas 2026](/news/uk-trains-christmas-2026-no-trains-december-25-26-paddington-closed/).
 
 ## Do I get the bank holidays off?
 
