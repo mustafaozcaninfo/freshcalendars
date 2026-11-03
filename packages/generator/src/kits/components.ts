@@ -12,7 +12,10 @@ import { LETTER, LETTER_LANDSCAPE, doc } from "../julian.js";
 import { esc, type Size, type Unconfirmed } from "./kit.js";
 import type { Theme } from "./themes.js";
 
-export const sizeOf = (landscape: boolean): Size => (landscape ? LETTER_LANDSCAPE : LETTER);
+const A4 = { width: 794, height: 1123 }, A4_LANDSCAPE = { width: 1123, height: 794 };
+/** Page size for a kit: US Letter by default, A4 for the extra -a4 file of uk-canada stories. */
+export const sizeOf = (landscape: boolean, paper: "letter" | "a4" = "letter"): Size =>
+  paper === "a4" ? (landscape ? A4_LANDSCAPE : A4) : landscape ? LETTER_LANDSCAPE : LETTER;
 
 export function baseCss(t: Theme, landscape: boolean): string {
   const pad = landscape ? "34px 40px 44px" : "38px 42px 46px";
