@@ -40,8 +40,9 @@ it("opportunities keep rankable, under-clicked pairs and rank them by the clicks
     row("too small", "https://freshcalendars.com/news/b/", 20, 0, 9),                                // impressions below the floor
     row("fine ctr", "https://freshcalendars.com/news/c/", 300, 30, 9),                               // 10% at position 9: nothing missing
     row("deep", "https://freshcalendars.com/news/d/", 900, 0, 45),                                   // position 45: out of reach
+    row("why thanksgiving", "https://freshcalendars.com/news/e/", 40000, 8, 3.4),                    // position 3.4 earning 0.02%: a snippet problem
   ]);
-  assert.deepEqual(out.map((o) => o.query), ["first night of hanukkah 2026", "thanksgiving canada 2027"]);
+  assert.deepEqual(out.map((o) => o.query), ["why thanksgiving", "first night of hanukkah 2026", "thanksgiving canada 2027"]);
   assert.ok(out[0]!.missing > out[1]!.missing);
   assert.ok(expectedCtr(1) > expectedCtr(8));
 });
