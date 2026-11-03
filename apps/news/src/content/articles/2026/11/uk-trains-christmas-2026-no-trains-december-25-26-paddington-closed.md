@@ -89,13 +89,13 @@ assets:
       rows:
         - { date: "2026-12-20", cells: { Where: "Redhill", What: "Railway closed from this day for new track and points" }, src: 1, quote: "The railway through Redhill will be closed from 20 December for new track and points" }
         - { date: "2026-12-24", cells: { Where: "Birmingham New Street", What: "No trains from this day to Dec. 28" }, src: 2, quote: "Birmingham New Street station will have no trains from Thursday 24 December to Monday 28 December inclusive" }
-        - { date: "2026-12-25", cells: { Where: "All of National Rail", What: "No National Rail services; Paddington closes" }, src: 2, quote: "Friday 25 December - there will be no National Rail services on Christmas Day as usual" }
+        - { date: "2026-12-25", cells: { Where: "National Rail", What: "No National Rail services; Paddington closes" }, src: 2, quote: "Friday 25 December - there will be no National Rail services on Christmas Day as usual" }
         - { date: "2026-12-26", cells: { Where: "Most operators", What: "No service; very limited service from a few, details to be confirmed" }, src: 2, quote: "Saturday 26 December - most train operators will have no service" }
         - { date: "2026-12-28", cells: { Where: "Boxing Day bank holiday", What: "Train services running; see journey planners" }, src: 2, quote: "Monday 28 December - this year, the Boxing Day bank holiday is on a substitute day, Monday 28 December." }
         - { date: "2026-12-29", cells: { Where: "Birmingham New Street", What: "Service starts again" }, src: 1, quote: "The station will be closed on Christmas Eve through to the start of service on Tuesday 29 December" }
         - { date: "2026-12-31", cells: { Where: "Paddington to Heathrow", What: "Heathrow Express and Elizabeth line link again" }, src: 1, quote: "Heathrow Express and Elizabeth Line trains will link Paddington and Heathrow again from 31 December 2026" }
         - { date: "2027-01-04", cells: { Where: "Paddington", What: "Great Western Railway trains can reach it again" }, src: 1, quote: "Great Western Railway services will be unable to access Paddington until Monday 4 January 2027." }
-        - { date: "2027-02-01", cells: { Where: "Huddersfield", What: "Disruption ends in the morning (Network Rail)" }, src: 1, quote: "with the railway disrupted in the area from Christmas Day until the morning of 1 February 2027" }
+        - { date: "2027-02-01", cells: { Where: "Huddersfield", What: "Network Rail: disrupted until the morning" }, src: 1, quote: "with the railway disrupted in the area from Christmas Day until the morning of 1 February 2027" }
       unconfirmed:
         - { label: "Which operators run on Boxing Day", why: "National Rail says details are to be confirmed" }
         - { label: "Christmas Eve last-train times", why: "Not published on the two pages" }
