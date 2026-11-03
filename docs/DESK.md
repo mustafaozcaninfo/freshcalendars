@@ -86,7 +86,7 @@ Each writer has one queue file: `docs/desk/w1.md`, `docs/desk/w2.md`, `docs/desk
 
 - A desk pull request (`[W1]`..., `[U]`, `Puzzles ...`) that conflicts with `main` only in queue files gets `main` merged in with both sides' lines kept; any other conflict is reported.
 - One with no CI run gets one started; one green for 20 minutes is merged, and CI on `main` is started so it publishes (merges by the Actions token start no workflow of their own).
-- Claim branches whose item is ticked, blocked or stalled (see "Claiming") are deleted, and so are branches already in `main`, including run branches whose pull request was squash-merged (tip equal to the merged head).
+- Claim branches whose item is ticked, blocked or stalled (see "Claiming") are deleted, and so are claims with no queue item that are older than 3 hours (a self-found update that found nothing to change), and so are branches already in `main`, including run branches whose pull request was squash-merged (tip equal to the merged head).
 - What needs a person goes to the open issue "Desk watchdog": red CI, other conflicts, a writer with no pull request or claim for 8 hours, a research or update desk with no run on record for 8 hours, and the blocked items.
 
 Writers still merge and clean up their own runs; the watchdog is the backstop. Dry run: `node scripts/desk-watchdog.mjs --dry-run`.
