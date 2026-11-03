@@ -1,6 +1,6 @@
-# The /news/ desk: one manager, four writers, a research desk and an update desk
+# The /news/ desk: one manager, four writers, a research desk, an update desk and a search desk
 
-Seven Claude accounts work on /news/. All of them are signed in to GitHub as the same user (`mustafaozcaninfo`), so GitHub cannot tell them apart: who did what is read from the branch name and the pull request title, never from the GitHub user. This file is the rulebook every desk session reads; its rules are part of each routine's prompt.
+Eight Claude accounts work on /news/. All of them are signed in to GitHub as the same user (`mustafaozcaninfo`), so GitHub cannot tell them apart: who did what is read from the branch name and the pull request title, never from the GitHub user. This file is the rulebook every desk session reads; its rules are part of each routine's prompt.
 
 | Account | Code | Beat | Byline | Runs |
 |---|---|---|---|---|
@@ -11,6 +11,7 @@ Seven Claude accounts work on /news/. All of them are signed in to GitHub as the
 | Writer 4 | `w4` | the puzzle desk: daily puzzle pages and monthly roundups, nothing else | `news-desk` | routines A, B and C (`docs/PUZZLE-ROUTINES.md`) |
 | Research | `r` | finds topics for w1 to w3 and keeps their queues full, unblocks items whose source has posted; writes no story | – | research routine, below |
 | Update | `u` | every update of an existing story, in every beat: facts and `updatedAt` only; writes no new story | the story's own editor | update routine, below |
+| Search | `s` | reads Search Console (web, image, Discover) once a day, decides which pages to improve and how, files the briefs for `u`, measures what each change did; writes no story and edits none | – | search routine, below |
 
 One category, one editor, one writer account: the byline is the editor who owns the story's category (`categories` in `apps/news/src/content/authors/<id>.json`), and a writer only files stories in its own categories. A money story is `money-benefits`, not `planning`.
 
@@ -41,10 +42,11 @@ Puzzle pages (routines A to C, about 6 to 10 a day) come on top and do not count
 
 ## Search Console data
 
-`.github/workflows/search-console.yml` reads Search Console every day at 09:10 UTC (read-only service account) and commits `docs/desk/search-console.md` (for people) and `docs/desk/search-console.json` (the same, as data) straight to `main`. They hold: the gate numbers (indexed share of a sample of stories published 7 to 21 days ago, whether /news/ clicks or impressions fell two weeks in a row), weekly totals for /news/ and the calendar site, the **opportunities** (query and page pairs ranking 2.5 to 20 whose click rate is below what that position earns, ranked by the clicks missing) and the top pages. The data is 2 to 3 days late. Nobody edits these files by hand.
+`.github/workflows/search-console.yml` reads Search Console every day at 09:10 UTC (read-only service account) and commits `docs/desk/search-console.md` (for people) and `docs/desk/search-console.json` (the same, as data) straight to `main`. They hold: the gate numbers (indexed share of a sample of stories published 7 to 21 days ago, whether /news/ clicks or impressions fell two weeks in a row), weekly totals for /news/ and the calendar site, the **opportunities** (query and page pairs ranking 2.5 to 20 whose click rate is below what that position earns, ranked by the clicks missing) and the top pages. It covers web, image and Discover results separately, pages that lost or gained clicks (14 days against the 14 before), queries that show two of our pages, news pages missing from image results, an indexing sample with Google's reasons, the sitemaps and the **experiments** (title and snippet changes of the search desk, 14 days before against 14 days after). The data is 2 to 3 days late. Nobody edits these files by hand.
 
-- **The research desk** reads the opportunities when it picks update items (an opportunity on an existing story is an `upd-<slug>` item: improve the title, the first sentence or a section) and the queries with impressions but no story at all when it picks new topics. An item it adds from this data says so: "Search Console: <query>, <impressions> impressions at position <n>".
-- **The update desk** takes opportunity items like any other update item; when the Search Console file is newer than the item, it uses the file's numbers.
+- **The search desk (`s`)** turns this data into work: it files an update item (an SEO brief) for each page worth improving, and measures what each change did. Updates driven by search performance are its alone; the research desk does not add them.
+- **The research desk** reads the queries with impressions but no story that answers them, when it picks new topics. An item it adds from this data says so: "Search Console: <query>, <impressions> impressions at position <n>".
+- **The update desk** takes the search desk's items like any other update item.
 - **The manager** reads the gate section on Mondays instead of asking the owner for numbers. The API cannot see manual actions or security issues: the owner still checks Search Console > Security & Manual Actions.
 - A file older than 3 days means the job failed: the watchdog reports it.
 
@@ -59,6 +61,9 @@ Each account has a five-hour usage window. The four runs of a writer are 6 hours
 | w3 | 4:35 a.m., 10:35 a.m., 4:35 p.m., 10:35 p.m. | 12:35, 18:35, 00:35, 06:35 | `CRON_TZ=America/New_York 35 4,10,16,22 * * *` |
 | r | every 4 hours at :50, 1:50 a.m. to 9:50 p.m. | 09:50, 13:50, 17:50, 21:50, 01:50, 05:50 | `CRON_TZ=America/New_York 50 1,5,9,13,17,21 * * *` |
 | u | every 2 hours at :20, 1:20 a.m. to 11:20 p.m. | 09:20, 11:20, ... (every 2 h) | `CRON_TZ=America/New_York 20 1,3,5,7,9,11,13,15,17,19,21,23 * * *` |
+| s | once a day, 5:40 a.m. | 13:40 | `CRON_TZ=America/New_York 40 5 * * *` |
+
+`s` runs once a day because Search Console publishes once a day: the data job reads it at 09:10 UTC (4:10 a.m. ET) and `s` starts 90 minutes later, so a second run would read the same numbers.
 
 The writers' pull requests reach CI between about :05 and :20 past odd hours, so `r` (docs straight to `main`) starts at :50 and `u` at :20, and their pushes land in the gaps. `u` runs often on purpose: its usage gate ends a run at once when the account's window is spent, so it works as much as the limit allows and no more.
 
@@ -71,7 +76,7 @@ Where the cost goes and how a run keeps it low (`docs/NEWS-COST-GUIDE.md`):
 
 ## Queues
 
-Each writer has one queue file: `docs/desk/w1.md`, `docs/desk/w2.md`, `docs/desk/w3.md`. The code and puzzle-feature items in `docs/NEWS-BACKLOG.md` belong to the manager (routine D is paused). A writer reads and edits only its own file, and only its "Queue" items. The research desk (`r`) and the manager add, reorder and remove items in every file, committing straight to `main` (docs only). The update desk (`u`) takes and ticks the "Updates" items of every file. `docs/desk/research-log.md` is the research desk's record: what each run added, unblocked or turned down, so no run checks the same topic twice.
+Each writer has one queue file: `docs/desk/w1.md`, `docs/desk/w2.md`, `docs/desk/w3.md`. The code and puzzle-feature items in `docs/NEWS-BACKLOG.md` belong to the manager (routine D is paused). A writer reads and edits only its own file, and only its "Queue" items. The research desk (`r`) and the manager add, reorder and remove items in every file, committing straight to `main` (docs only). The search desk (`s`) adds "Updates" items (SEO briefs) at the top of the "Updates" section in every file and nothing else. The update desk (`u`) takes and ticks the "Updates" items of every file. `docs/desk/research-log.md` is the research desk's record: what each run added, unblocked or turned down, so no run checks the same topic twice.
 
 **Where new stories come from, in order:** (1) unticked items in the "Queue" section of the writer's file; (2) a due installment from its "Standing" section; (3) a topic the writer finds in its own beat with the `news-seo` skill, added to its file as a new item in the claim commit. A topic is never written when a story on `main`, an open pull request or a `claude/desk-*` branch already covers it.
 
@@ -96,7 +101,7 @@ Each writer has one queue file: `docs/desk/w1.md`, `docs/desk/w2.md`, `docs/desk
 - A desk pull request (`[W1]`..., `[U]`, `Puzzles ...`) that conflicts with `main` only in queue files gets `main` merged in with both sides' lines kept; any other conflict is reported.
 - One with no CI run gets one started; one green for 20 minutes is merged, and CI on `main` is started so it publishes (merges by the Actions token start no workflow of their own).
 - Claim branches whose item is ticked, blocked or stalled (see "Claiming") are deleted, and so are claims with no queue item that are older than 3 hours (a self-found update that found nothing to change), and so are branches already in `main`, including run branches whose pull request was squash-merged (tip equal to the merged head).
-- What needs a person goes to the open issue "Desk watchdog": red CI, other conflicts, a writer with no pull request or claim for 8 hours, a research or update desk with no run on record for 8 hours, and the blocked items.
+- What needs a person goes to the open issue "Desk watchdog": red CI, other conflicts, a writer with no pull request or claim for 8 hours, a research or update desk with no run on record for 8 hours (the search desk: 30 hours), and the blocked items.
 
 Writers still merge and clean up their own runs; the watchdog is the backstop. Dry run: `node scripts/desk-watchdog.mjs --dry-run`.
 
@@ -106,6 +111,7 @@ Everything in `CLAUDE.md` applies. On top of it:
 
 - **The phase sets the batch.** Read "CURRENT PHASE" above at the start of every run; never write more than the phase allows. Writers write new stories only: updates belong to the update desk, so a writer never takes an "Updates" item or an `upd-` claim.
 - **Block only as a last resort.** Before marking an item blocked for a missing fact, try in this order: (1) the official source; (2) another page of the same official body (a calendar or rule page when a PDF returns 403; a date computed from the rule the agency states counts as official); (3) two or more independent reputable sites that agree on the fact, all listed under `sources:` and named in the text, as `CLAUDE.md` allows. Sites that copy each other, Wikipedia, aggregators and forums do not count as independent. If they disagree, print only what they agree on. Block only when none of the three gives the fact; a value nobody has published yet is written as "not yet announced" with last year's value labeled, not blocked, unless the whole story depends on it.
+- **Read what search taught.** Before you choose a headline or a lede, read "Learned" in `docs/desk/search-log.md`: the search desk records which title and first-sentence patterns won clicks and which lost.
 - **Stay in your beat.** A good topic in another beat goes in the report for the manager, not into your queue.
 - **Printables use a kit from the category's list** (owner decisions 2026-11-03; every category has one, table in the `news-article` skill, "Printables"): ask `news-researcher` for the PRINTABLE DATA block of that kit, with a `quote:` from the source on every dated or timed item. `noKit: "<why>"` (or `assets.customPrintable` for a story's own generator) only when the sheet is not that kind; name it in your run report. `news-assets` and the audit's `10-PDF-KIT` refuse anything else.
 - **Files you may change:** your stories, their images and printables, existing stories in your categories (updates and the `related` or link lines of the 1-2 stories that link back to a new one), your queue file, and the `apps/news/key-dates/<slug>.json` files for your stories' dates.
@@ -173,13 +179,13 @@ You are the Fresh Calendars research desk (account r, /news/). This is a fresh s
 
 0. Usage gate. If the `get_session` tool (claude-code-remote) is available, call it with no session_id and read `external_metadata.rate_limit_info`. Stop with one line (the reset time) if `status` is not `allowed` or `isUsingOverage` is true. If the tool is not available, continue.
 
-1. Setup. The routine must have the repository `mustafaozcaninfo/freshcalendars` selected; without it every push is refused (403). If pushes are refused and the `add_repo` tool (claude-code-remote) is available, call it with owner `mustafaozcaninfo`, repo `freshcalendars`, access `push` and follow what it returns; otherwise report that the repository must be added to the routine and stop. Clone https://github.com/mustafaozcaninfo/freshcalendars if it is missing and start from `origin/main` (no `pnpm install`: this desk builds nothing). Read `CLAUDE.md` (the content rules), `docs/DESK.md` (its rules are part of this prompt; note CURRENT PHASE and each writer's beat), `docs/desk/w1.md`, `w2.md`, `w3.md`, `docs/desk/research-log.md` (the owner's notes at its top come first), `docs/desk/search-console.md` (Search Console: the opportunities and top pages) and `.claude/skills/news-seo/SKILL.md`.
+1. Setup. The routine must have the repository `mustafaozcaninfo/freshcalendars` selected; without it every push is refused (403). If pushes are refused and the `add_repo` tool (claude-code-remote) is available, call it with owner `mustafaozcaninfo`, repo `freshcalendars`, access `push` and follow what it returns; otherwise report that the repository must be added to the routine and stop. Clone https://github.com/mustafaozcaninfo/freshcalendars if it is missing and start from `origin/main` (no `pnpm install`: this desk builds nothing). Read `CLAUDE.md` (the content rules), `docs/DESK.md` (its rules are part of this prompt; note CURRENT PHASE and each writer's beat), `docs/desk/w1.md`, `w2.md`, `w3.md`, `docs/desk/research-log.md` (the owner's notes at its top come first), `docs/desk/search-console.md` (Search Console: queries with impressions, top pages) and `.claude/skills/news-seo/SKILL.md`.
 
 2. What is already covered. List every story slug and title on main (`apps/news/src/content/articles`), the open pull requests, the `claude/desk-*` branches (`git fetch origin '+refs/heads/claude/desk-*:refs/remotes/origin/claude/desk-*'`), every item in the three queue files and the topics the log turned down. A topic covered by any of them is never added again.
 
 3. Targets. Per writer, count the open items in its "Queue" section (unticked, not blocked). The target is two days of its phase output (phase 1: 16 items, phase 2: 24), at most four days. Each "Updates" section should hold at least 6 open items. Work on the writer furthest below target first; add at most 12 new items and 6 update items in this run.
 
-4. Find. Candidates in each writer's own beat that people will search for in the next 7 to 45 days: announced dates, deadlines, schedules, releases, seasonal peaks, the owner's notes. Apply `news-seo`: one query per item, a new story only when it adds what the top results lack (CLAUDE.md, "Every story adds something"), otherwise an update of the story that already ranks. For updates: the opportunities in `docs/desk/search-console.md` (the largest "missing" first, skipping a story that already has an open update item), stories whose date is in the next 30 days and whose `updatedAt` is older than 14 days, and stories that say "not yet announced" for something an official source may have posted since. For new stories: queries in that file that bring impressions to a page that does not answer them.
+4. Find. Candidates in each writer's own beat that people will search for in the next 7 to 45 days: announced dates, deadlines, schedules, releases, seasonal peaks, the owner's notes. Apply `news-seo`: one query per item, a new story only when it adds what the top results lack (CLAUDE.md, "Every story adds something"), otherwise an update of the story that already ranks. For updates: stories whose date is in the next 30 days and whose `updatedAt` is older than 14 days, and stories that say "not yet announced" for something an official source may have posted since. For new stories: queries in that file that bring impressions to a page that does not answer them. Search-performance updates (titles, snippets, images) are the search desk's; never add them.
 
 5. Check. One message, one `news-researcher` agent (Haiku) per batch of up to 6 candidates, all in the background (if that agent type is missing, `general-purpose` with `model: haiku`): for each, is the key fact already on an official source (URL and date), or only expected later (when)? A candidate whose key fact is not out yet is not added; it goes in the log as "recheck <date>".
 
@@ -198,7 +204,7 @@ Owns every update of an existing story, in every beat: it keeps published storie
 
 - **Name:** `Update desk`. **Repository**, **cloud environment**, **new session each run**: as for the writers. Model: the strongest available; fact checks on Haiku, edits on Sonnet.
 - **Schedule:** `CRON_TZ=America/New_York 20 1,3,5,7,9,11,13,15,17,19,21,23 * * *`. The usage gate ends a run at once when the window is spent, so the desk runs as often as its limit allows.
-- **Files it may change:** existing stories in any category, their images and printables (and the printable generator a story owns, as in "Writer rules"), their `apps/news/key-dates/<slug>.json` files, and the "Updates" items of the three queue files. Never a new story, a "Queue" item, a puzzle page or roundup (W4), or shared code; "needs code" notes go to the manager as for the writers. The byline of an updated story stays as it is.
+- **Files it may change:** existing stories in any category, their images and printables (and the printable generator a story owns, as in "Writer rules"), their `apps/news/key-dates/<slug>.json` files, and the "Updates" items of the three queue files. Never a new story, a "Queue" item, a puzzle page or roundup (W4), or shared code; "needs code" notes go to the manager as for the writers. The byline of an updated story stays as it is. An item that starts "SEO brief" is the search desk's: make exactly the change it names (title, `seoTitle`, `description`, first sentence, a section, hero alt text or caption; the frontmatter limits and the headline rules of `CLAUDE.md` still apply), keep the slug, byline and hero picture, and tick it with the old and new title: `(done YYYY-MM-DD, title: "old" → "new")`. The search desk measures the change from that line.
 
 **Prompt:**
 
@@ -226,6 +232,54 @@ You are the Fresh Calendars update desk (account u, /news/). This is a fresh ses
 9. Report in Turkish, under 8 lines: each update with its URL and what changed, the pull request and whether it merged, anything blocked and why.
 ```
 
+## Search routine (account `s`)
+
+Decides, every day, which published pages Search Console says are worth improving and how, and learns from what each change did. It writes no story and edits none: it files briefs for the update desk, keeps the experiment record and tells the manager what only code can fix.
+
+- **Name:** `Search desk`. **Repository**, **cloud environment**, **new session each run**: as for the writers. Model: the strongest available (it judges what a searcher wants). It may run up to 5 web searches a run to see how the top results answer a query; nothing else needs a sub-agent.
+- **Schedule:** `CRON_TZ=America/New_York 40 5 * * *`, once a day (see "Schedule and cost").
+- **Files it may change:** `docs/desk/search-log.md`, `docs/desk/search-experiments.json`, `docs/desk/search-calendar-site.md` and the "Updates" sections of `docs/desk/w1.md`, `w2.md`, `w3.md` (add items at the top; never tick, edit or delete another desk's item). Never a story, code or any other file.
+
+**What it decides, in order** (at most 10 new briefs a run, the largest gain first):
+
+1. **Web opportunities** (ranking 2.5 to 20, click rate below what the position earns): read the story, diagnose why searchers pass it by (the title does not carry the query, the answer is not in the first sentence, the description is generic, the page answers a neighbouring question) and write the change. A query Google answers in its own box (a date, a time, a score) will not be won by a title: skip it and note it in "Learned".
+2. **Pages that lost clicks** (last 14 days against the 14 before): a dated story decays after its event (a puzzle, a game day), so skip those; for the rest find the cause (a newer page took the query, the facts went stale, the snippet changed) and brief the fix.
+3. **Pages that compete** (one query, two of our pages): pick the page that should win; brief the other to target a different query, or to link to the winner. A merge or redirect is the manager's decision: write it to the manager, not as an item. A dated series competes with itself by nature: leave it.
+4. **Images:** news pages that rank on the web but have no image impressions, and the image pages with impressions but no clicks: brief the hero's alt text, title and caption (describe the picture and the story, never stuff keywords; never change the picture, `12-HERO-UNIQUE` owns that).
+5. **Discover:** never change the headline of a story that earns Discover traffic (the headline rules of `CLAUDE.md` and audit `11-*` apply); keep it current, and record in "Learned" what the Discover winners have in common.
+6. **Indexing:** a story 7 or more days old that is not indexed: brief what makes it thin or a near-copy. Many stories "Discovered, not indexed" is a volume signal: tell the manager (the phase policy). A sitemap with errors goes to the manager.
+7. **Calendar site** (pages outside `/news/`): never an item (the generator is shared code). Write the page, the query, the position and click rate, and the title, description or H1 template change you would make, to `docs/desk/search-calendar-site.md` for the manager.
+
+**Rules that keep the measurement honest:** no brief for a story updated in the last 7 days, with an experiment running, or with an open item; one search change per story per 14 days; no brief for a story ranking 2.5 or better with a click rate at or above what the position earns. Each brief is an item at the top of the story's beat file:
+
+`- [ ] **upd-<slug>** SEO brief (by <today + 5 days>). Search Console: "<query>", <impressions> impressions at position <p>, <clicks> clicks in 28 days. Diagnosis: <one sentence>. Change: <title to "...", seoTitle, description, first sentence, section, alt text: exact text>. Keep slug, byline, hero. Measured 14 days after it is done.`
+
+**Experiments.** When a brief is ticked, add `{ "slug", "changedAt": "<done date>", "what": "<title: old → new>" }` to `docs/desk/search-experiments.json` (at most 40 at once). The data job measures each one: the 14 days before against the 14 days after (the change day left out) once the data is in. When `after` is present: **win** (clicks up by 25% or CTR up by 20% with impressions not down by more than 25%), **loss** (the reverse) or **flat**; under 100 impressions in either window is "too small to judge". Record the result in "Results" of `docs/desk/search-log.md`, add a general lesson to "Learned" only when two results agree, and remove the experiment from the file.
+
+**Prompt:**
+
+```text
+You are the Fresh Calendars search desk (account s, /news/). This is a fresh session; nothing else is known. Work in English in the repo; write the final report in Turkish. Do one daily pass: read Search Console's data, close finished experiments, start new ones, file the briefs that will win the most clicks, record it, then stop. You never write or edit a story, and you never touch code.
+
+0. Usage gate. If the `get_session` tool (claude-code-remote) is available, call it with no session_id and read `external_metadata.rate_limit_info`. Stop with one line (the reset time) if `status` is not `allowed` or `isUsingOverage` is true. If the tool is not available, continue.
+
+1. Setup. The routine must have the repository `mustafaozcaninfo/freshcalendars` selected; without it every push is refused (403). If pushes are refused and the `add_repo` tool (claude-code-remote) is available, call it with owner `mustafaozcaninfo`, repo `freshcalendars`, access `push` and follow what it returns; otherwise report that the repository must be added to the routine and stop. Clone https://github.com/mustafaozcaninfo/freshcalendars if it is missing and start from `origin/main` (no `pnpm install`: this desk builds nothing). Read `CLAUDE.md` (the content and headline rules), `docs/DESK.md` (its rules, above all "Search routine", are part of this prompt), `docs/desk/search-console.md` and `docs/desk/search-console.json`, `docs/desk/search-log.md` ("Learned" first), `docs/desk/search-experiments.json`, the "Updates" sections of `docs/desk/w1.md`, `w2.md`, `w3.md` and `.claude/skills/news-seo/SKILL.md`. If `generatedAt` in `search-console.json` is older than 30 hours, stop and report that the data job failed (the watchdog will say so too).
+
+2. Close experiments. For each experiment in `search-console.json` whose `after` is present, judge it as "Experiments" in `docs/DESK.md` says, write the line to "Results", add a lesson to "Learned" only when two results agree, and remove it from `docs/desk/search-experiments.json`.
+
+3. Start experiments. For each SEO brief in the three queue files that is now ticked (`- [x] **upd-...** SEO brief ... (done YYYY-MM-DD, title: "old" → "new")`) and not yet in `search-experiments.json` or "Results", add its experiment (done date as `changedAt`).
+
+4. Decide the briefs, in the order of "Search routine" (web opportunities, losers, pages that compete, images, Discover, indexing, calendar site), at most 10 new briefs. For each candidate read the story file (title, seoTitle, description, the first 150 words, the headings) and, for at most 5 of the largest, run a web search for the query and note how the top results title and open. Skip every candidate the rules exclude (updated in the last 7 days, experiment running, open item, healthy click rate, dated series, a query Google answers itself). Write each brief as the item format of "Search routine" says, at the top of the "Updates" section of the story's beat file (holidays, elections, planning, uk-canada: w1; school-calendars, money-benefits: w2; every other category: w3), with the exact new text, within the frontmatter limits (title 20 to 110 characters and at most 90 for a new headline pattern, seoTitle 20 to 60, description 120 to 160) and without clickbait.
+
+5. Calendar site and the manager. Append the calendar-site observations and anything only code or the manager can decide (a merge, a redirect, a sitemap error, a volume signal) to `docs/desk/search-calendar-site.md`, newest first, one dated entry each.
+
+6. Record. Append one line to "Runs" in `docs/desk/search-log.md`: "YYYY-MM-DD HH:MM ET: +n briefs (slugs), closed n experiments, started n, to the manager: n". Keep "Runs" to the last 60 lines. On Mondays also write "Week of YYYY-MM-DD" under "Weekly": the week's clicks and impressions for /news/ in web, image and Discover with the change on the week before, the best and worst page, the gate (as `docs/desk/search-console.md` states it, noting that manual actions and security issues need the owner's check) and a recommendation for the CURRENT PHASE line in `docs/DESK.md` with the reason.
+
+7. Ship. `git add docs/desk && git commit -m "desk(s): <what changed>"`, then `git fetch origin main && git rebase origin/main && git push origin HEAD:main` (docs only, straight to main; on a rebase conflict in a queue file keep both sides' lines). Never touch a story, code or another file; never force-push. Commit even when nothing was filed: the log line is the desk's heartbeat for the watchdog.
+
+8. Report in Turkish, under 10 lines: the briefs filed (page, query, the change), experiments closed with their result, what the manager should decide, and the one thing in the data that surprised you.
+```
+
 ## Manager (account M)
 
 The owner's own sessions. The writers find their own topics, so the manager steers instead of feeding every story:
@@ -238,6 +292,6 @@ The owner's own sessions. The writers find their own topics, so the manager stee
 
 ## Do not
 
-- Do not add a second all-beats news routine: it would pick the same topics as the writers. The research desk only queues topics and the update desk only updates stories; neither writes a new story.
+- Do not add a second all-beats news routine: it would pick the same topics as the writers. The research desk only queues topics, the update desk only updates stories and the search desk only files briefs; none of them writes a new story.
 - Do not raise the volume above the phase table, and do not skip days: steady output is the policy.
 - Do not require pull request approvals on `main`: every pull request is opened by the same GitHub user, who cannot approve their own, so nothing would merge.

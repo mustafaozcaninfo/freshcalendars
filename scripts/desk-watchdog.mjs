@@ -185,13 +185,13 @@ for (const w of writers) {
 // The research desk (r) commits "desk(r): ..." to main every run; the update desk (u) lands "[U] ..."
 // pull requests or a "desk(u): ..." line when nothing changed (docs/DESK.md). Checked only once a
 // desk has run at least once, so a routine not set up yet raises nothing.
-for (const [code, name] of [["r", "Research desk"], ["u", "Update desk"]]) {
+for (const [code, name, window] of [["r", "Research desk", SILENT], ["u", "Update desk", SILENT], ["s", "Search desk", 30 * H]]) {
   const mark = (l) => l.startsWith(`desk(${code}):`) || (code === "u" && l.startsWith("[U]"));
   const ever = git("log", "origin/main", "--format=%s", "-E", `--grep=^(desk\\(${code}\\):${code === "u" ? "|\\[U\\])" : ")"}`, "-1");
   if (!ever) continue;
-  const lately = git("log", "origin/main", `--since=${SILENT / H} hours ago`, "--format=%s").split("\n").some(mark)
-    || recent.some((p) => code === "u" && p.title.startsWith("[U]") && NOW - Date.parse(p.createdAt) < SILENT);
-  if (!lately) attention.push(`${name} (${code}): no run on record for ${SILENT / H} hours; check its routine`);
+  const lately = git("log", "origin/main", `--since=${window / H} hours ago`, "--format=%s").split("\n").some(mark)
+    || recent.some((p) => code === "u" && p.title.startsWith("[U]") && NOW - Date.parse(p.createdAt) < window);
+  if (!lately) attention.push(`${name} (${code}): no run on record for ${window / H} hours; check its routine`);
 }
 // The daily Search Console read (.github/workflows/search-console.yml) commits its data to main; a
 // file older than 3 days means the job or its credentials failed. Checked only once a file exists.
