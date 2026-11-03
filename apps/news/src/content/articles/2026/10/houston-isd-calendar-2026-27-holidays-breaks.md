@@ -50,7 +50,7 @@ internalLinks:
     label: "November 2026 printable calendar"
   - href: "/december-calendars.html"
     label: "December 2026 printable calendar"
-related: [spring-break-2027-dates-school-districts, winter-break-2026-school-districts-dates, thanksgiving-break-2026-school-districts-dates]
+related: [spring-break-2027-dates-school-districts, northside-isd-calendar-2026-27-breaks, thanksgiving-break-2026-school-districts-dates]
 assets:
   overlay: true
   kicker: "Houston ISD 2026-27"

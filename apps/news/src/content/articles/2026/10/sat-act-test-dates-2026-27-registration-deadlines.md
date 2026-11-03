@@ -46,7 +46,7 @@ internalLinks:
     label: "November 2026 printable calendar"
   - href: "/december-calendars.html"
     label: "December 2026 printable calendar"
-related: [lsat-test-dates-2026-27-registration-deadlines, mcat-2027-test-dates-registration-opens-october-20, nyc-public-schools-calendar-2026-27-breaks-holidays]
+related: [act-december-12-2026-registration-deadline-score-release-test-day, lsat-test-dates-2026-27-registration-deadlines, mcat-2027-test-dates-registration-opens-october-20]
 downloads:
   - group: "Test dates printable"
     title: "SAT and ACT Test Dates 2026-27"
@@ -87,7 +87,7 @@ There is no SAT in January or February 2027, so the gap between the Dec. 5 and M
 | Saturday, June 12, 2027 | May 7 | May 25 | June 7 | June 23 |
 | Saturday, July 10, 2027 | June 4 | June 22 | July 5 | July 20 |
 
-ACT deadlines are 11:59 p.m. Central Time. Students who sat the Oct. 17 ACT had a target score release of Oct. 27. Standby testing means showing up without a confirmed seat; it costs extra and is not guaranteed.
+ACT deadlines are 11:59 p.m. Central Time. For the Dec. 12 test, see our [December ACT deadlines, score dates and test day checklist](/news/act-december-12-2026-registration-deadline-score-release-test-day/). Students who sat the Oct. 17 ACT had a target score release of Oct. 27. Standby testing means showing up without a confirmed seat; it costs extra and is not guaranteed.
 
 ## What the ACT costs
 
