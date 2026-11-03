@@ -6,6 +6,7 @@ Owner's decisions (2026-11-03):
 - **No ink-saver copies any more.** `news-assets` no longer draws `-ink` sheets; `inkSaver` is ignored with a warning; stories published from 2026-11-14 may not list an `-ink` PDF (`10-PDF-NO-INK`). Published `-ink` files stay as they are.
 - **`10-PDF-FACTS` is an error from day one** for every story whose printable has a `.print.json` record (every `news-assets` run writes one) and for every story published from 2026-11-14 (`PRINT_SINCE`, the day after the last story already scheduled on `main`).
 - **Landscape is the default** for `watch-guide` and `deadline-matrix`; `landscape: false` turns it off.
+- **Kits are required** (2026-11-03, second decision) in the categories that have one: `school-calendars` (`school-year`), `sports` and `entertainment` (`watch-guide`), `retail-dates`, `money-benefits`, `elections` and `planning` (`deadline-matrix`). `noKit: "<why>"` is the only way out. Enforced by `news-assets` and `10-PDF-KIT` for every record drawn from then on (`v: 2`); `KIT_FOR_CATEGORY` in `scripts/lib/print-record.mjs` grows as new kits land.
 
 The problem: every story's printable comes out of the same four layouts in `packages/generator/src/newsPrintable.ts`, so a Social Security payment sheet, a CMA Awards watch sheet and a Wordle answer list look like the same page with different words. The goal is a printable designed for its subject and filled from the story's researched facts, with every accuracy and print-safety guarantee we have today kept, and a few new ones added.
 

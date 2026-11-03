@@ -606,7 +606,7 @@ warn("10-PDF-TITLE", "Sheet heading does not use the words of its download title
 // Printable facts and freshness (docs/PRINTABLE-DESIGN-PLAN.md, scripts/lib/print-record.mjs). They apply to
 // stories whose printable carries a <slug>.print.json record (every `pnpm fc news-assets` run writes one)
 // and to every story published from PRINT_SINCE; older sheets are left as they shipped.
-const { PRINT_SINCE, factTokens, printableHash, readRecord, showToken } = await import("./lib/print-record.mjs");
+const { PRINT_SINCE, RECORD_VERSION, factTokens, kitProblem, printableHash, readRecord, showToken } = await import("./lib/print-record.mjs");
 const { parse: parseYaml } = await import("yaml");
 const storySrc = new Map();
 (function walkMd(dir) {
@@ -647,6 +647,12 @@ check("10-PDF-FRESH", "A story's printable PDF was drawn from its current assets
     if (!p) return [];
     if (!s.record) return s.recent ? [`${u}: no ${s.slug}.print.json; run pnpm fc news-assets ${s.slug}`] : [];
     return s.record.hash === printableHash(p) ? [] : [`${u}: assets.printable changed after the PDF was drawn; run pnpm fc news-assets ${s.slug}`];
+  }));
+check("10-PDF-KIT", "Printables in a category with a topic kit use it, or say in noKit why none fits (owner's decision 2026-11-03; records drawn from then on)", () =>
+  printStories.flatMap(([u, s]) => {
+    if ((s.record?.v ?? 1) < RECORD_VERSION) return [];
+    const why = kitProblem(s.fm.category, s.fm.assets?.printable);
+    return why ? [`${u}: ${why}`] : [];
   }));
 check("10-PDF-NO-INK", `No ink-saver copies on stories published from ${PRINT_SINCE} (retired 2026-11-03: one color sheet per story)`, () =>
   printStories.flatMap(([u, s]) => (s.recent && pdfLinks(html[u]).some((f) => /-ink\.pdf$/.test(f)) ? [`${u}: lists an -ink PDF`] : [])));

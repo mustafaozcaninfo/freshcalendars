@@ -27,6 +27,8 @@
  *     layout: auto                          # month | timeline | checklist | list (see newsPrintable.ts)
  *     kit: school-year                      # or a topic kit instead of rows: school-year, watch-guide,
  *     data: { ... }                         # deadline-matrix (packages/generator/src/kits/), filled from data:
+ *     noKit: "..."                          # required instead of kit: in a category that has a kit
+ *                                           # (KIT_FOR_CATEGORY in scripts/lib/print-record.mjs): why none fits
  *   render: 2d                              # optional: SVG scene instead of the 3D one (render3d/)
  *   overlay: true                           # licensed-photo stories: kicker, date tile and card over the photo
  * A story with a licensed photo (news-photo, <slug>.photo.json) keeps it; with `overlay: true` the
@@ -51,7 +53,7 @@ import { type Printable, printableHtml } from "./newsPrintable.js";
 import { CATEGORY_SCENE, SCENE_ICON, SCENE_COLOR, SCENES, type SceneName, scene, tint } from "./art.js";
 import { SCENES_3D, backdrop3d, shootHero, type HeroDoc } from "./news3d.js";
 import { UNIQUE_SINCE, heroProblems, storyHeroes } from "../../../scripts/lib/hero-hash.mjs";
-import { printableHash, recordPath } from "../../../scripts/lib/print-record.mjs";
+import { RECORD_VERSION, kitProblem, printableHash, recordPath } from "../../../scripts/lib/print-record.mjs";
 
 const W = 1200, H = 675;
 const ARTICLES = path.join(ROOT, "apps/news/src/content/articles");
@@ -63,7 +65,7 @@ const CATEGORY_COLOR: Record<string, string> = {
 };
 const DOW = ["SUNDAY", "MONDAY", "TUESDAY", "WEDNESDAY", "THURSDAY", "FRIDAY", "SATURDAY"];
 
-type Assets = { scene?: SceneName | "none"; render?: "2d" | "3d"; overlay?: boolean; kicker?: string; title?: string; date?: string; color?: string; card?: { top?: string; big: string; bottom?: string }; printable?: Printable & { kit?: string; data?: unknown } };
+type Assets = { scene?: SceneName | "none"; render?: "2d" | "3d"; overlay?: boolean; kicker?: string; title?: string; date?: string; color?: string; card?: { top?: string; big: string; bottom?: string }; printable?: Printable & { kit?: string; data?: unknown; noKit?: string } };
 type Front = { title: string; seoTitle?: string; category: string; publishedAt?: string; sources?: Source[]; assets?: Assets };
 
 const esc = (s: string) => s.replace(/&/g, "&amp;").replace(/</g, "&lt;").replace(/>/g, "&gt;").replace(/"/g, "&quot;");
@@ -187,6 +189,9 @@ export async function buildNewsAssets(slug: string): Promise<void> {
   const f = parse(m[1]!) as Front;
   const a = f.assets ?? {};
   if (!f.assets) console.log("no assets: block; drawing a hero from the title and category only");
+  // The kit rule first, so a refused printable does not cost a hero render.
+  const kitRule = kitProblem(f.category, a.printable);
+  if (kitRule) throw new Error(`printable: ${kitRule} (kits: packages/generator/src/kits/, formats in the news-article skill)`);
   const fonts = await fontFaces();
   const dir = path.join(ROOT, "apps/news/src/assets/news", slug);
   const name = a.scene ?? CATEGORY_SCENE[f.category] ?? "calendar";
@@ -275,7 +280,7 @@ export async function buildNewsAssets(slug: string): Promise<void> {
   // What was printed from which data, so the audit can tell a stale PDF (10-PDF-FRESH) and accept
   // the values the kit computed itself (10-PDF-FACTS).
   if (!dryRun()) {
-    const record = { kit: kitName, hash: printableHash(p), files: [`/news/downloads/${p.group}/${p.slug}.pdf`], computed };
+    const record = { v: RECORD_VERSION, kit: kitName, hash: printableHash(p), files: [`/news/downloads/${p.group}/${p.slug}.pdf`], computed };
     await fs.writeFile(recordPath(slug), `${JSON.stringify(record, null, 2)}\n`);
   }
   const q = (s: string) => JSON.stringify(s);
