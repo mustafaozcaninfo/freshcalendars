@@ -64,7 +64,7 @@ internalLinks:
     label: "November 2026 printable calendar"
   - href: "/printable-weekly-calendar.html"
     label: "printable weekly calendar"
-related: [pdc-world-darts-championship-2026-27-schedule-dates-alexandra-palace, atp-finals-2026-turin-dates-schedule-time-zones-tv-qualified-players, premier-league-fixtures-this-weekend-october-31-november-2-2026-kickoff-times-tv]
+related: [pdc-world-darts-championship-2026-27-schedule-dates-alexandra-palace, atp-finals-2026-turin-dates-schedule-time-zones-tv-qualified-players, uk-snooker-championship-2026-schedule-session-times-tv]
 assets:
   overlay: true
   kicker: "Grand Slam of Darts · Nov. 14-22, 2026"

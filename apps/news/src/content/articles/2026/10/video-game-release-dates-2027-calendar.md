@@ -69,7 +69,7 @@ internalLinks:
     label: "February printable calendars"
   - href: "/printable-yearly-calendar.html"
     label: "Printable yearly calendar"
-related: [gta-6-countdown-release-time-by-time-zone, video-game-release-dates-november-2026-gta-6-ocarina-of-time, golden-globes-oscars-2027-dates-nominations-how-to-watch-awards-calendar]
+related: [gta-6-countdown-release-time-by-time-zone, video-game-release-dates-november-2026-gta-6-ocarina-of-time, video-game-release-dates-december-2026]
 assets:
   overlay: true
   kicker: "Game releases 2027"
