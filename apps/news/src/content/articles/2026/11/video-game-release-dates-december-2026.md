@@ -97,7 +97,7 @@ sources:
     url: "https://www.capcom.co.jp/ir/english/news/html/e260910.html"
     publisher: "Capcom"
     date: "2026-09-10"
-  - title: "ID@Xbox and IGN showcase, October 2026"
+  - title: "ID@Xbox and IGN October 2026 presentation"
     url: "https://news.xbox.com/en-us/2026/10/20/id-xbox-ign-showcase-october-2026/"
     publisher: "Xbox Wire"
     date: "2026-10-20"
@@ -140,6 +140,8 @@ draft: false
 **Fourteen video games have a December 2026 release date on their publishers' own pages, and seven of them share Thursday, Dec. 3.** Square Enix, Ubisoft, Nintendo, Deep Silver, Nacon and others posted those; Capcom has Monster Hunter Wilds on Nintendo Switch 2 for Friday, Dec. 4. The table gives each date a weekday, platforms and the publisher's own source.
 
 ## December 2026 game release dates by day
+
+The table lists the 14 games whose publishers had confirmed a December 2026 date as of Nov. 3, 2026.
 
 Platform names follow each publisher's page: PlayStation 5 (PS5), Xbox Series X|S, Nintendo Switch 2 and personal computer (PC). No launch clock times are confirmed for any of these games, so none are listed.
 

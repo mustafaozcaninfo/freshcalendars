@@ -124,6 +124,9 @@ export const schoolYear: Kit<SchoolYear> = {
     .chart{margin-top:calc(10px*var(--s))}`;
     const body = `${header(t, p.title, p.subtitle)}${tiles(stat)}<div class="yr">${grids.join("")}</div>
       ${chart}<div class="side">${key}${unconfirmedBox(k.unconfirmed) || fillLines("More dates", ["", ""])}${fillLines("My family's dates", k.family)}</div>${notes(p.notesLabel)}`;
-    return { html: page(ctx, size, css, body, p.note), size, computed: [], warnings: [] };
+    // The chart's counts sit next to month labels, so the PDF's text reads "Aug 1 Sep 5": record those
+    // label-count pairs as computed, or 10-PDF-FACTS takes them for dates the story never gives.
+    const computed = perMonth.flatMap(([lab, n], i) => [`${lab} ${n}`, ...(i + 1 < perMonth.length ? [`${lab} ${perMonth[i + 1]![1]}`] : [])]);
+    return { html: page(ctx, size, css, body, p.note), size, computed, warnings: [] };
   },
 };
