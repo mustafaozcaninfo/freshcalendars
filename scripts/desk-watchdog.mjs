@@ -122,11 +122,17 @@ function mergeMain(pr, tag) {
 }
 
 // 2. Branches.
-const branches = git("for-each-ref", "--format=%(refname:short) %(committerdate:unix)", "refs/remotes/origin/claude/")
+const branches = git("for-each-ref", "--format=%(refname:short) %(committerdate:unix) %(objectname)", "refs/remotes/origin/claude/")
   .split("\n").filter(Boolean).map((l) => {
-    const [ref, t] = l.split(" ");
-    return { ref, name: ref.replace(/^origin\//, ""), time: Number(t) * 1000 };
+    const [ref, t, sha] = l.split(" ");
+    return { ref, name: ref.replace(/^origin\//, ""), time: Number(t) * 1000, sha };
   });
+// Writers squash-merge, so a run branch never becomes part of main's history and the "already in
+// main" test below misses it. A branch whose tip is exactly the head of a merged pull request is
+// fully in main all the same.
+const mergedHeads = new Map(JSON.parse(gh("pr", "list", "--state", "merged", "--limit", "200",
+  "--json", "number,headRefName,headRefOid,mergedAt")).map((p) => [`${p.headRefName} ${p.headRefOid}`, p]));
+const mergedPr = (b) => mergedHeads.get(`${b.name} ${b.sha}`);
 const writerBusy = (w) => prs.some((p) => p.title.startsWith(`[${w.toUpperCase()}]`))
   || branches.some((b) => b.name.startsWith(`claude/desk-run-${w}-`) && NOW - b.time < STALL);
 const cleaned = []; // branches already in main: nothing is lost, so they are only counted
@@ -141,10 +147,11 @@ for (const b of branches) {
     else if (item.state === "blocked") why = "item blocked";
     else if (NOW - b.time > STALL && !writerBusy(item.writer)) why = `stalled, newest commit ${ago(b.time)}`;
   } else if (inMain(b.ref) && NOW - b.time > OLD_MERGED) why = "already in main";
+  else if (mergedPr(b) && NOW - Date.parse(mergedPr(b).mergedAt) > OLD_MERGED) why = "already in main";
   else if (/^claude\/desk-run-/.test(b.name) && NOW - b.time > 24 * H) {
     attention.push(`${b.name}: unmerged run with no pull request (${ago(b.time)})`);
   }
-  if (why === "already in main") { if (!DRY) git("push", "-q", "origin", "--delete", b.name); cleaned.push(b.name); }
+  if (why === "already in main") { if (!DRY) git("push", "-q", "origin", "--delete", b.name); else console.log(`[dry run] would delete ${b.name}`); cleaned.push(b.name); }
   else if (why) act(`delete ${b.name}: ${why}`, () => git("push", "-q", "origin", "--delete", b.name));
 }
 
