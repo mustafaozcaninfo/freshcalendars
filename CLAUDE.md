@@ -92,7 +92,7 @@ Do not run Lighthouse (`news:lighthouse`, `smoke:lighthouse`). The goal is fast,
 | `SEO-HARITASI-TAM.md` | the SEO playbook the audit cites |
 | `scripts/news-*.mjs` | build gates and checks |
 | `apps/news/src/lib/similarity.ts`, `topics.ts`, `storygraph.ts`, `series.ts`, `trending.ts` | related stories (TF-IDF similarity, near-copy filter; no past events, one per dated series) and topic hubs at `/news/topic/<slug>/`; a story joins a hub when its title head names the topic, so put the topic phrase before the colon. Dated series (daily pages, NFL weeks) get previous/next links; "Trending now" ranks the last 24 hours of views (`pnpm news:trending`, CI only) |
-| `apps/news/src/lib/keydates.ts` (`KEY_DATES`) | dated events: the news home "Coming up", each story's "Key dates" box with add-to-calendar, and the hubs' `.ics` files; add a story's dates here (date from the story's source) |
+| `apps/news/key-dates/<slug>.json` (loaded by `apps/news/src/lib/keydates.ts` as `KEY_DATES`) | dated events: the news home "Coming up", each story's "Key dates" box with add-to-calendar, and the hubs' `.ics` files; one file per story, an array of `{ "date": "YYYY-MM-DD", "label": "...", "weight"?: n }` (date from the story's source); the file name is the story slug, so two stories never edit the same file |
 
 ## Code style
 
