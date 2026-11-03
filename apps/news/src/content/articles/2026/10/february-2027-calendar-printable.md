@@ -75,7 +75,7 @@ internalLinks:
     label: "Printable monthly calendar"
   - href: "/printable-yearly-calendar.html"
     label: "2027 printable yearly calendar"
-related: [january-2027-calendar-printable, february-2027-important-dates-holidays-days-until, presidents-day-2027-february-15-whats-open-closed]
+related: [january-2027-calendar-printable, february-2027-important-dates-holidays-days-until, march-2027-calendar-printable]
 assets:
   overlay: true
   kicker: "February 2027"
