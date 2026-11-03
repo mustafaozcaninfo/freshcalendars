@@ -86,8 +86,30 @@ export function cannibalization(pairs, { minPage = 30, minTotal = 150, limit = 1
     .slice(0, limit);
 }
 
-/** Pages that gained or lost the most clicks between two equal windows (`cur` and `prev` are page rows). */
-export function movers(cur, prev, { minClicks = 15, limit = 10 } = {}) {
+/**
+ * Google reports a jump link ("/news/story/#heading") as its own page. For the desk it is the story
+ * itself: strip the fragment from every URL key and add the rows together (impressions and clicks
+ * summed, position weighted by impressions).
+ */
+export function canonicalRows(rows) {
+  const merged = new Map();
+  for (const r of rows) {
+    const keys = r.keys.map((k) => (/^https?:\/\//.test(k) ? k.replace(/#.*$/, "") : k));
+    const id = keys.join("\u0000"), m = merged.get(id);
+    if (!m) { merged.set(id, { ...r, keys, _w: r.position * r.impressions }); continue; }
+    m.clicks += r.clicks; m.impressions += r.impressions; m._w += r.position * r.impressions;
+    m.position = m.impressions ? m._w / m.impressions : m.position;
+  }
+  return [...merged.values()].map(({ _w, ...r }) => r);
+}
+
+/**
+ * Pages that gained or lost the most clicks between two equal windows (`cur` and `prev` are page rows).
+ * The section is young: when the earlier window holds fewer than `minPrevClicks` clicks (before the
+ * section had traffic) every page would "gain", so nothing is reported.
+ */
+export function movers(cur, prev, { minClicks = 15, limit = 10, minPrevClicks = 200 } = {}) {
+  if (prev.reduce((s, r) => s + r.clicks, 0) < minPrevClicks) return { decliners: [], risers: [], note: "the earlier 14 days hold too little data to compare" };
   const before = new Map(prev.map((r) => [r.keys[0], r]));
   const after = new Map(cur.map((r) => [r.keys[0], r]));
   const pages = [...new Set([...before.keys(), ...after.keys()])].map((page) => {
@@ -268,6 +290,7 @@ export function report(d) {
     "",
     "## Pages that lost or gained clicks (last 14 days against the 14 before; web)",
     "",
+    ...(d.movers?.note ? [`Not compared: ${d.movers.note}.`, ""] : []),
     "Losing: " + (d.movers?.decliners?.length ? "" : "none"),
     ...(d.movers?.decliners ?? []).map((p) => `- ${slugOf(p.page)}: ${p.prevClicks} → ${p.clicks} clicks (${n(p.prevImpressions)} → ${n(p.impressions)} impressions)`),
     "",
@@ -299,7 +322,7 @@ export function report(d) {
     "",
     "## Indexing",
     "",
-    `Sample of ${d.indexed.checked} stories published 2 to 21 days ago (the gate counts those 7 to 21 days old): ${Object.entries(d.indexed.states ?? {}).map(([k, v]) => `${v} ${k}`).join(", ") || "none"}.`,
+    `Sample of ${d.indexed.sampled ?? d.indexed.checked} stories published 2 to 21 days ago (the gate counts the ${d.indexed.checked} that are 7 to 21 days old): ${Object.entries(d.indexed.states ?? {}).map(([k, v]) => `${v} ${k}`).join(", ") || "none"}.`,
     "",
     ...(d.indexed.notIndexed.length ? d.indexed.notIndexed.map((u) => `- not indexed: ${slugOf(u.url)}${u.state ? ` (${u.state}), ${u.age} days old` : ""}`) : ["- every sampled story is indexed"]),
     "",
@@ -334,7 +357,7 @@ async function main() {
     const expFrom = experiments.length ? ymd(Math.min(...experiments.map((e) => Date.parse(e.changedAt))) - 14 * DAY) : null;
     // Both sections are read with a page filter, so they count the same way (a search that shows
     // two of our pages counts once per page); the unfiltered daily total counts it once.
-    const [dailyCalendar, dailyNews, dailyNewsImage, dailyCalendarImage, dailyNewsDiscover, pages, pagesCur, pagesPrev, pairs, imagePages, discoverPages, sitemaps, expRows] = await Promise.all([
+    const [dailyCalendar, dailyNews, dailyNewsImage, dailyCalendarImage, dailyNewsDiscover, pagesRaw, pagesCurRaw, pagesPrevRaw, pairsRaw, imagePagesRaw, discoverPagesRaw, sitemaps, expRowsRaw] = await Promise.all([
       daily(notNews), daily(inNews), daily(inNews, "image"), daily(notNews, "image"), daily(inNews, "discover"),
       searchAnalytics(site, token, { ...q28, dimensions: ["page"] }),
       searchAnalytics(site, token, { ...cur14, dimensions: ["page"] }),
@@ -344,11 +367,12 @@ async function main() {
       searchAnalytics(site, token, { ...q28, dimensions: ["page"], searchType: "discover" }),
       call(`${API}/${encodeURIComponent(site)}/sitemaps`, token).then((r) => r.sitemap ?? []).catch(() => []),
       experiments.length
-        ? searchAnalytics(site, token, { start: expFrom, end: to, dimensions: ["date", "page"], rowLimit: 5000, filter: { dimension: "page", operator: "includingRegex", expression: `^https?://[^/]+/news/(${experiments.map((e) => e.slug).join("|")})/$` } })
+        ? searchAnalytics(site, token, { start: expFrom, end: to, dimensions: ["date", "page"], rowLimit: 5000, filter: { dimension: "page", operator: "includingRegex", expression: `^https?://[^/]+/news/(${experiments.map((e) => e.slug).join("|")})/(#.*)?$` } })
         : Promise.resolve([]),
     ]);
 
     const shape = (r) => ({ page: r.keys[0], clicks: r.clicks, impressions: r.impressions, position: round1(r.position) });
+    const pages = canonicalRows(pagesRaw), pagesCur = canonicalRows(pagesCurRaw), pagesPrev = canonicalRows(pagesPrevRaw), pairs = canonicalRows(pairsRaw), imagePages = canonicalRows(imagePagesRaw), discoverPages = canonicalRows(discoverPagesRaw), expRows = canonicalRows(expRowsRaw);
     const bySection = { news: [], calendar: [] };
     for (const r of [...pages].sort((a, b) => b.clicks - a.clicks || b.impressions - a.impressions)) bySection[section(r.keys[0])].push(shape(r));
     const byClicks = (rows) => [...rows].sort((a, b) => b.clicks - a.clicks || b.impressions - a.impressions).map(shape);
@@ -361,7 +385,7 @@ async function main() {
     const gateSample = known.filter((c) => c.age >= 7);
     const states = {};
     for (const c of known) states[c.state ?? c.status] = (states[c.state ?? c.status] ?? 0) + 1;
-    const indexed = { checked: gateSample.length, indexed: gateSample.filter((c) => c.status === "indexed").length, notIndexed: known.filter((c) => c.status === "not indexed").slice(0, 25), states, unknown: checked.length - known.length };
+    const indexed = { checked: gateSample.length, sampled: known.length, indexed: gateSample.filter((c) => c.status === "indexed").length, notIndexed: known.filter((c) => c.status === "not indexed").slice(0, 25), states, unknown: checked.length - known.length };
 
     const newsWeeks = weeklyTotals(dailyNews, wins);
     const data = {

@@ -1,6 +1,6 @@
 import assert from "node:assert/strict";
 import { it } from "node:test";
-import { cannibalization, expectedCtr, fellTwice, gate, imageGaps, measureExperiment, movers, opportunities, report, sample, section, weeklyTotals, windows, ymd } from "../../../scripts/news-gsc.mjs";
+import { cannibalization, canonicalRows, expectedCtr, fellTwice, gate, imageGaps, measureExperiment, movers, opportunities, report, sample, section, weeklyTotals, windows, ymd } from "../../../scripts/news-gsc.mjs";
 
 const day = (date: string, clicks: number, impressions: number) => ({ keys: [date], clicks, impressions });
 
@@ -112,6 +112,7 @@ it("movers separates pages that lost clicks from pages that gained them", () => 
   const m = movers(
     [page("fell", 10, 500), page("rose", 60, 900), page("flat", 30, 300), page("small", 4, 50)],
     [page("fell", 50, 2000), page("rose", 20, 400), page("flat", 28, 290), page("gone", 45, 800)],
+    { minPrevClicks: 0 },
   );
   assert.deepEqual(m.decliners.map((p) => p.page.split("/")[4]), ["gone", "fell"]);
   assert.deepEqual(m.risers.map((p) => p.page.split("/")[4]), ["rose"]);
@@ -141,4 +142,25 @@ it("measureExperiment compares 14 days before with 14 days after, once the data 
   const early = measureExperiment(rows, "2026-10-20", new Date("2026-11-02T00:00:00Z"));
   assert.equal(early.after, null);
   assert.equal(early.daysAfter, 10);
+});
+
+it("canonicalRows folds jump links into their story, weighting the position by impressions", () => {
+  const row = (page: string, clicks: number, impressions: number, position: number) => ({ keys: [page], clicks, impressions, position });
+  const out = canonicalRows([
+    row("https://freshcalendars.com/news/a/", 10, 100, 4),
+    row("https://freshcalendars.com/news/a/#heading", 2, 300, 8),
+    row("https://freshcalendars.com/news/b/", 1, 50, 6),
+  ]);
+  assert.equal(out.length, 2);
+  assert.deepEqual([out[0]!.keys[0], out[0]!.clicks, out[0]!.impressions, out[0]!.position], ["https://freshcalendars.com/news/a/", 12, 400, 7]);
+  const pair = canonicalRows([{ keys: ["q", "https://freshcalendars.com/news/a/#x"], clicks: 1, impressions: 10, position: 3 }, { keys: ["q", "https://freshcalendars.com/news/a/"], clicks: 0, impressions: 10, position: 5 }]);
+  assert.equal(pair.length, 1);
+  assert.equal(pair[0]!.position, 4);
+});
+
+it("movers says nothing when the earlier window has no data to compare", () => {
+  const page = (u: string, clicks: number) => ({ keys: [`https://freshcalendars.com/news/${u}/`], clicks, impressions: clicks * 10, position: 5 });
+  const m = movers([page("a", 300), page("b", 200)], [page("a", 20)]);
+  assert.deepEqual([m.decliners.length, m.risers.length], [0, 0]);
+  assert.match(String(m.note), /too little data/);
 });
