@@ -1,4 +1,4 @@
-import { copyFile, mkdir, readFile, readdir, rename, rm } from "node:fs/promises";
+import { copyFile, mkdir, readFile, readdir, rename, rm, writeFile } from "node:fs/promises";
 import path from "node:path";
 import { fileURLToPath } from "node:url";
 import { unified } from "@astrojs/markdown-remark";
@@ -24,6 +24,10 @@ const cleanBuildLeftovers = {
       await rename(path.join(out, "latest.json"), path.join(data, "latest.json")).catch(() => {});
       // home.json stays public (the calendar home page refreshes from it); the generator reads a copy.
       await copyFile(path.join(out, "home.json"), path.join(data, "home.json")).catch(() => {});
+      // A check build with scheduled stories (NEWS_INCLUDE_FUTURE, src/lib/articles.ts) must never
+      // go live; cloudflare/deploy.sh refuses a build that carries this file.
+      if (process.env.NEWS_INCLUDE_FUTURE === "1") await writeFile(path.join(data, "includes-future"), "scheduled stories included; never deploy\n");
+      else await rm(path.join(data, "includes-future"), { force: true });
       for (const f of await readdir(out)) {
         if (f.endsWith(".mjs") || f === "chunks" || f === "collections") {
           await rm(path.join(out, f), { recursive: true, force: true });

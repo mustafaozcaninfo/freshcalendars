@@ -492,10 +492,12 @@ check("09-NEWS-SITEMAP", "Google News sitemap: publication name/language, ISO da
     if (ART(u).headline !== title) fails.push(`${u}: news:title differs from headline`);
     dates.push(Date.parse(date));
   }
-  const newest = Math.max(...articleUrls.filter(indexable).map((u) => Date.parse(ART(u).datePublished)));
+  // Stories scheduled for later (a check build with NEWS_INCLUDE_FUTURE) are not in the window yet:
+  // the window ends at the newest story already due, as in a publishing build.
+  const newest = Math.max(...articleUrls.filter(indexable).map((u) => Date.parse(ART(u).datePublished)).filter((t) => t <= Date.now()));
   dates.forEach((d) => { if (newest - d > 48 * 3600e3) fails.push(`entry ${new Date(d).toISOString()} older than 48h before the newest story`); });
   const listed = new Set(items.map((it) => it.match(/<loc>([^<]+)</)[1].replace("https://freshcalendars.com", "")));
-  articleUrls.filter((u) => indexable(u) && newest - Date.parse(ART(u).datePublished) < 24 * 3600e3 && !listed.has(u)).forEach((u) => fails.push(`${u}: story from the last 24h missing`));
+  articleUrls.filter((u) => indexable(u) && Date.parse(ART(u).datePublished) <= newest && newest - Date.parse(ART(u).datePublished) < 24 * 3600e3 && !listed.has(u)).forEach((u) => fails.push(`${u}: story from the last 24h missing`));
   return fails;
 });
 check("07-FEED", "RSS feed: en-US, absolute links and guids, every item is a built indexable story (§07 echo pipeline)", () => {

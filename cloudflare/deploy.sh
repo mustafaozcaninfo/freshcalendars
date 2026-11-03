@@ -127,6 +127,8 @@ push_half() { # <news|calendar> <tar args...>
 deploy() {
   local start; start=$(date +%s)
   local news_fresh=0 deployed_news; deployed_news="$(state_get news/sha)"
+  # A check build that renders scheduled stories (NEWS_INCLUDE_FUTURE) would publish them early.
+  [[ -f dist/news-data/includes-future ]] && { echo "deploy: this /news/ build includes scheduled stories (NEWS_INCLUDE_FUTURE); refusing to publish it" >&2; exit 1; }
   if [[ -n "${NEWS_SHA:-}" && -f dist/news/index.html ]]; then
     news_fresh=1
     # Deploys queue one at a time; a build of an older commit than the live one never replaces it.

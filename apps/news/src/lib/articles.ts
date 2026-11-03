@@ -11,14 +11,19 @@ const RESERVED = new Set<string>(["page", "category", "author", "topic", "printa
 
 /**
  * Articles that may be rendered: no drafts in production builds and nothing
- * scheduled for later than `now` (they go live with the first deploy after that time; the 15-min VPS cron is off since 2026-10-23).
+ * scheduled for later than `now` (scheduled.yml rebuilds and publishes once that time comes).
  * Dev server shows drafts so they can be reviewed.
+ * NEWS_INCLUDE_FUTURE=1 also renders scheduled stories, so CI checks a story when it is pushed,
+ * not when it comes due: a story that fails then holds back every story due with it. Such a build
+ * is never published (astro.config.mjs marks it, cloudflare/deploy.sh refuses it).
  */
+export const INCLUDE_FUTURE = process.env.NEWS_INCLUDE_FUTURE === "1";
+
 export async function getPublishedArticles(now: Date = new Date()): Promise<Article[]> {
   const all = await checkedArticles();
   const showDrafts = import.meta.env.DEV || process.env.NEWS_INCLUDE_DRAFTS === "1";
   return all
-    .filter((a) => (showDrafts || !a.data.draft) && a.data.publishedAt <= now)
+    .filter((a) => (showDrafts || !a.data.draft) && (INCLUDE_FUTURE || a.data.publishedAt <= now))
     .sort((a, b) => b.data.publishedAt.getTime() - a.data.publishedAt.getTime());
 }
 

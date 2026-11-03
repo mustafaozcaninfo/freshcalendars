@@ -46,6 +46,10 @@ jobs:
       TZ: America/New_York
       # Pages load /news/ images from R2 on the CDN (apps/news/astro.config.mjs).
       NEWS_ASSETS_PREFIX: https://cdn.freshcalendars.com/news
+      # A run that does not publish also renders scheduled stories, so each story is checked when
+      # it is pushed, not first at its publish time (src/lib/articles.ts). Publishing runs build
+      # without them (same test as PUBLISH; job env cannot read env); the "scheduled" job checks them.
+      NEWS_INCLUDE_FUTURE: ${{ (github.ref == 'refs/heads/main' && (github.event_name == 'push' || github.event_name == 'workflow_dispatch')) && '0' || '1' }}
       CLOUDFLARE_ACCOUNT_ID: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
       R2_ACCESS_KEY_ID: ${{ secrets.R2_ACCESS_KEY_ID }}
       R2_SECRET_ACCESS_KEY: ${{ secrets.R2_SECRET_ACCESS_KEY }}
@@ -130,6 +134,36 @@ jobs:
           path: news-build.tar.gz
           retention-days: 3
           compression-level: 0
+
+  # On a publishing run, the same checks over a build that also renders scheduled stories. It does
+  # not hold back the deploy (the stories in it are not due); a failure here turns the run red, and
+  # the desk watchdog reports it, hours before the story's time instead of at it.
+  scheduled:
+    if: github.ref == 'refs/heads/main' && (github.event_name == 'push' || github.event_name == 'workflow_dispatch')
+    runs-on: ubuntu-24.04
+    timeout-minutes: 45
+    env:
+      TZ: America/New_York
+      NEWS_ASSETS_PREFIX: https://cdn.freshcalendars.com/news
+      NEWS_INCLUDE_FUTURE: "1"
+    steps:
+      - uses: actions/checkout@v7
+      - uses: ./.github/actions/setup
+      - name: Restore image cache
+        uses: actions/cache/restore@v6
+        with:
+          path: apps/news/node_modules/.astro/assets
+          key: news-images-${{ hashFiles('apps/news/src/assets/**', 'apps/news/src/components/Hero.astro') }}-${{ github.run_id }}
+          restore-keys: |
+            news-images-${{ hashFiles('apps/news/src/assets/**', 'apps/news/src/components/Hero.astro') }}-
+            news-images-
+      - name: Build /news/ with scheduled stories
+        run: pnpm news:build
+        timeout-minutes: 40
+      - name: Verify (links, H1, orphans)
+        run: pnpm news:verify
+      - name: SEO and writing audit
+        run: pnpm news:seo-audit
 
   deploy:
     needs: [verify, news]
