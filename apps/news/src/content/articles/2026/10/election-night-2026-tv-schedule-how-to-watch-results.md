@@ -4,7 +4,7 @@ seoTitle: "Election Night 2026 TV Schedule and Where to Stream"
 description: "CNN starts election night coverage at 4 p.m. Eastern Time (ET) on Nov. 3, 2026, NBC at 5, Fox News at 6 and CBS at 7. Anchors, free streams and poll closings."
 type: news
 publishedAt: "2026-10-24T16:00:00-04:00"
-updatedAt: "2026-10-31T00:25:00-04:00"
+updatedAt: "2026-11-03T12:48:00-05:00"
 authors: [christina-gerland]
 category: elections
 keywords: ["election night 2026 TV schedule", "how to watch election results 2026", "election night coverage 2026", "where to stream election results", "midterm election coverage start time"]
@@ -107,6 +107,8 @@ draft: false
 ---
 
 **NBC News starts its election night coverage at 5 p.m. Eastern Time (ET) on Tuesday, Nov. 3, 2026, and Fox News Channel follows at 6 p.m. ET, according to the networks' own announcements.** Both run through the night: NBC until 6 a.m. Wednesday, and Fox Business simulcasts Fox News until the same hour. Cable News Network (CNN) is first, at 4 p.m. ET, and CBS News starts its main coverage at 7 p.m. ET, according to their releases. The Cable-Satellite Public Affairs Network (C-SPAN) plans to go on the air at 4 p.m. ET, the trade site The Desk reports. The American Broadcasting Company (ABC) and the Public Broadcasting Service (PBS) had not published their schedules on their press sites as of Saturday, Oct. 31. Below: each network's start time, anchors and free streams, then an hour-by-hour guide that lines up the coverage with poll closings.
+
+For a scoreboard, a state-by-state map and timestamped updates beside the broadcasts, use our [Election Night 2026 live blog](/news/election-day-2026-results-map/).
 
 ## Election night start times by network
 

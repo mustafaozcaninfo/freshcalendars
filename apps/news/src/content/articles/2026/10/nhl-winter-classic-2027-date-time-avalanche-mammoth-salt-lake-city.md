@@ -4,6 +4,7 @@ seoTitle: "NHL Winter Classic 2027: Date, Start Time and TV"
 description: "The 2027 Winter Classic is Thursday, Dec. 31, 2026, at 4 p.m. Mountain Time (MT): Avalanche at Mammoth in Salt Lake City, the National Hockey League (NHL) says."
 type: news
 publishedAt: "2026-10-26T14:40:00-04:00"
+updatedAt: "2026-11-03T12:29:00-05:00"
 authors: [jessica-hartwell]
 category: sports
 keywords: ["NHL Winter Classic 2027", "Winter Classic 2027 time", "Winter Classic 2026 date", "Avalanche Mammoth Winter Classic", "NHL Stadium Series 2027"]
@@ -37,6 +38,10 @@ faq:
   - q: "When is the 2027 NHL Stadium Series?"
     a: "The Dallas Stars list the Vegas Golden Knights at the Stars on Saturday, Feb. 20, 2027, at 7 p.m. Central Time, on ABC, at AT&T Stadium in Arlington, Texas."
 sources:
+  - title: "NHL national television schedule announced for 2026-27 season"
+    url: "https://www.nhl.com/news/2026-2027-national-tv-schedule-announced"
+    publisher: "National Hockey League"
+    date: "2026-08-26"
   - title: "2027 DISCOVER NHL WINTER CLASSIC FAQs"
     url: "https://www.nhl.com/events/nhl-winter-classic/2026-27/faq"
     publisher: "National Hockey League"
@@ -125,7 +130,7 @@ The Utah Mammoth announcement, as published on the Delta Center site, says the g
 
 ## Where is the Winter Classic played?
 
-At Rice-Eccles Stadium, on the University of Utah campus in Salt Lake City, according to the NHL's FAQ. Utah is the home team.
+At Rice-Eccles Stadium, on the University of Utah campus in Salt Lake City, according to the NHL's FAQ. Utah is the home team: the NHL's Aug. 26, 2026 national television release says the Mammoth host the Avalanche there on Dec. 31 at 6 p.m. ET, and that TNT carries the game.
 
 ## What are the other NHL special events in 2026-27?
 
