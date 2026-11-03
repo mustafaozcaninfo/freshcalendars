@@ -3,8 +3,9 @@
  * One US Letter page: free meals confirmed for 2026 in two columns, then discounts and deals,
  * the 2025 offers still to be announced, the fine print as short tags, and a cut-out wallet card
  * listing accepted proof of service. Offers come from Military.com's 2026 list (updated Nov. 1,
- * 2026) and brand pages or press releases (Red Robin, Pilot, Freddy's, Bob Evans; Oct. 22-27, 2026);
- * no logos. Usage: pnpm fc news-veterans
+ * 2026) and brand pages or press releases (Red Robin, Pilot, Freddy's, Bob Evans; Oct. 22-27, 2026;
+ * Great Clips, Oct. 20, 2026); as of Nov. 2-3, 2026.
+ * No logos. Usage: pnpm fc news-veterans
  */
 import { LETTER, doc, fontFaces } from "./julian.js";
 import { renderPrintables } from "./printables.js";
@@ -34,6 +35,7 @@ export const CONFIRMED_2026: Deal[] = [
   ["Freddy's", "Free combo meal card, use by Nov. 25", ["ID", "L"]],
   ["Golden Corral", "Free meal, 4 p.m. to close", ["D", "T"]],
   ["Hard Rock Cafe", "Free Classic Smash Burger", []],
+  ["Hooters", "Free special-menu meal, with a drink purchase", []],
   ["Hoss's Steak & Sea House", "Free soup, salad and dessert bar", ["D", "L"]],
   ["IHOP", "Free Red, White & Blueberry Combo", ["D", "ID"]],
   ["In-N-Out Burger", "Free burger, fries and drink", ["ID"]],
@@ -64,7 +66,6 @@ export const DEALS_2026: Deal[] = [
   ["Eat'n Park", "10% off your party, Nov. 1-30", ["D", "F", "L"]],
   ["Firebirds", "Free meal up to a guest's purchase", ["D"]],
   ["Fogo de Chão", "50% off Churrasco, Sat., Nov. 7", ["L"]],
-  ["Hooters", "Free special-menu item with a drink", ["D"]],
   ["Joe's Crab Shack", "20% off", ["D", "ID"]],
   ["Margaritas", "50% off an entrée, Northeast", ["D"]],
   ["McCormick & Schmick's", "Half-price entrée, Sun., Nov. 8", ["D", "L"]],
@@ -117,9 +118,9 @@ function cheatSheet(fonts: string): string {
     <div class="two">${[CONFIRMED_2026.slice(0, HALF), CONFIRMED_2026.slice(HALF)].map((l) => `<table><tbody>${l.map((d) => row(d, true)).join("")}</tbody></table>`).join("")}</div>
     <div class="cols"><div>${tbl("Discounts and deals for 2026", DEALS_2026, true).replace("<h2>", '<h2 class="c">')}</div>
       <div>${tbl("Offered in 2025, not yet announced", WATCH_2025, false)}
-      <div class="side"><b>Also on Nov. 11, 2026</b><ul><li>National parks: free entrance for U.S. citizens and residents</li><li>Free Military Lifetime Pass for veterans, year-round</li><li>Closed: federal offices, banks, post offices · Open: stock markets</li><li>Year-round: Home Depot and Lowe's take 10% off</li></ul></div></div></div>
+      <div class="side"><b>Also on Nov. 11, 2026</b><ul><li>National parks: free entrance for U.S. citizens and residents</li><li>Free Military Lifetime Pass for veterans, year-round</li><li>Closed: federal offices, banks, post offices · Open: stock markets</li><li>Great Clips: free haircut or card, use by Dec. 4</li><li>Year-round: Home Depot and Lowe's take 10% off</li></ul></div></div></div>
     <div class="cut"><div><b><svg width="13" height="11" viewBox="0 0 13 11" fill="none" stroke="#b91c1c" stroke-width="1.5" style="vertical-align:-1px;margin-right:4px"><circle cx="2.6" cy="2.6" r="1.9"/><circle cx="2.6" cy="8.4" r="1.9"/><path d="M4.2 3.6 12.4 9.4M4.2 7.4 12.4 1.6"/></svg>Wallet card: bring one of these</b><ol><li>Veteran ID Card (VA) or Veteran Health Identification Card</li><li>Military ID: Common Access Card or Uniformed Services ID</li><li>Driver's license or state ID with a veteran designation</li><li>DD-214 (a copy or a photo on your phone)</li></ol></div><div><b>Before you go</b>Most offers are for the veteran only, not guests; drinks, tax and tip are usually extra; many are dine-in only and limited to Nov. 11. Wear the uniform only where the offer says it counts.</div></div>
-    <p class="note">Green boxes: announced for 2026 (Military.com list updated Nov. 1, 2026; Red Robin, Pilot, Freddy's and Bob Evans announcements). Gray boxes: offered in 2025, not yet announced for 2026. Park, VA and store terms as published.</p>
+    <p class="note">Green boxes: announced for 2026 (Military.com list updated Nov. 1, 2026; Red Robin, Pilot, Freddy's, Bob Evans and Great Clips announcements). Gray boxes: offered in 2025, not yet announced for 2026. Park, VA and store terms as published.</p>
     <div class="foot">Free printable from Fresh Calendars · freshcalendars.com/news/veterans-day-free-meals-discounts/</div></section>`;
   return doc(fonts, LETTER, css, [page]);
 }
