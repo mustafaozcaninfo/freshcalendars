@@ -64,7 +64,7 @@ internalLinks:
     label: "December 2026 printable calendar"
   - href: "/when-is/christmas/"
     label: "When is Christmas?"
-related: [national-christmas-tree-lighting-2026-ticket-lottery-october-28, nyc-holiday-calendar-2026-rockefeller-tree-macys-parade, us-christmas-markets-2026-opening-dates-philadelphia-dc-detroit-nyc]
+related: [national-christmas-tree-lighting-2026-ticket-lottery-october-28, nyc-holiday-calendar-2026-rockefeller-tree-macys-parade, christmas-tree-lightings-2026-dates-times-nyc-dc-boston]
 downloads:
   - group: "Capitol Christmas Tree Tour Tracker 2026 printables"
     title: "Capitol Christmas Tree Tour Tracker 2026"

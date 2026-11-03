@@ -4,7 +4,7 @@ seoTitle: "Veterans Day Free Meals 2026: 44 Chains + Printable"
 description: "44 chains confirmed free Veterans Day meals for Wednesday, Nov. 11, 2026, plus 13 discounts, Great Clips cards through Dec. 4, ID rules and a printable list."
 type: update
 publishedAt: "2026-10-20T16:55:00-04:00"
-updatedAt: "2026-11-02T07:09:00-05:00"
+updatedAt: "2026-11-03T06:39:00-05:00"
 authors: [christina-gerland]
 category: holidays
 keywords: ["Veterans Day free meals 2026", "Veterans Day discounts 2026", "Veterans Day restaurant deals", "free meals for veterans November 11", "Veterans Day freebies"]
@@ -242,4 +242,4 @@ Veterans Day is a federal holiday under 5 U.S.C. § 6103, and it never moves to 
 
 ## Print the cheat sheet
 
-The free one-page cheat sheet lists the free meals and discounts confirmed for 2026 as of Nov. 1 (it shows Hooters among the discounts and does not yet list Great Clips) and the chains still to announce, with tags for dine-in, ID, family, hours and later use, plus a cut-out wallet card of accepted IDs. Check off places as you go, and pin the day on our [November 2026 printable calendar](/november-calendars.html) or a [weekly planner](/printable-weekly-calendar.html). For the rest of the month, see [November 2026 important dates](/news/november-2026-important-dates-days-until/).
+The free one-page cheat sheet lists the same 44 free meals and 13 discounts confirmed for 2026 as of Nov. 1, the Great Clips haircut and card, and the chains still to announce, with tags for dine-in, ID, family, hours and later use, plus a cut-out wallet card of accepted IDs. Check off places as you go, and pin the day on our [November 2026 printable calendar](/november-calendars.html) or a [weekly planner](/printable-weekly-calendar.html). For the rest of the month, see [November 2026 important dates](/news/november-2026-important-dates-days-until/).
