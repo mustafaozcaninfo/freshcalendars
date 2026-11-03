@@ -23,7 +23,7 @@ summary:
   - "The Heisman Trophy Trust lists ballots going out Thursday, Dec. 3, 2026, and the voting deadline and finalist announcement on Monday, Dec. 7."
   - "Ballots are due by 5 p.m. Eastern Time (ET) on Dec. 7, which is 4 p.m. Central, 3 p.m. Mountain and 2 p.m. Pacific by our conversion."
   - "The winner is announced at the televised Heisman ceremony on Saturday, Dec. 12, 2026, on the American Broadcasting Company (ABC), according to heisman.com. The start time and venue are not yet announced; in 2025 it was 7 p.m. ET."
-  - "A free printable on this page lists the four dates to mark."
+  - "A free printable on this page lists the dates to mark."
 faq:
   - q: "When is the 2026 Heisman Trophy ceremony?"
     a: "Saturday, Dec. 12, 2026, on ABC, according to the key dates on heisman.com. The start time has not been announced; the 2025 ceremony was Saturday, Dec. 13, at 7 p.m. ET."
@@ -96,15 +96,16 @@ downloads:
     pages: 1
 ---
 
-The 2026 Heisman Trophy winner is announced at the Heisman ceremony on Saturday, Dec. 12, 2026, according to the key dates on heisman.com, the website of the Heisman Trophy Trust. Ballots are due Monday, Dec. 7, by 5 p.m. Eastern Time (ET), and the finalists are announced that evening. A free printable timeline with all four dates is below.
+The 2026 Heisman Trophy winner is announced at the Heisman ceremony on Saturday, Dec. 12, 2026, according to the key dates on heisman.com, the website of the Heisman Trophy Trust. Ballots are due Monday, Dec. 7, by 5 p.m. Eastern Time (ET), and the finalists are announced that evening. A free printable timeline with all the dates is below.
 
 ## What are the 2026 Heisman Trophy dates?
 
-The Heisman Trophy Trust lists four dates for the 2026 award. We checked the weekdays against the 2026 calendar.
+The Heisman Trophy Trust lists five dates for the 2026 award. We checked the weekdays against the 2026 calendar.
 
 | Date | What happens | Source |
 |---|---|---|
 | Thursday, Dec. 3, 2026 | Heisman ballots distributed | heisman.com key dates |
+| Saturday, Dec. 5, 2026 | Online voting website opens at 5 p.m. ET | heisman.com balloting page |
 | Monday, Dec. 7, 2026 | Voting deadline: ballots due by 5 p.m. ET | heisman.com key dates and balloting page |
 | Monday, Dec. 7, 2026 | Finalists announced, in the evening | heisman.com key dates and balloting page |
 | Saturday, Dec. 12, 2026 | Winner announced at the Heisman ceremony | heisman.com key dates |
