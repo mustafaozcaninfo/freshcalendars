@@ -98,6 +98,22 @@ for (const pr of prs) {
 }
 if (merged) act("starting CI on main so the merged stories publish", () => gh("workflow", "run", "ci.yml", "--ref", "main"));
 
+// 1b. Main itself red: a red main is never published and every open pull request inherits the failure,
+// so it is the first thing a person should see. A red pull request that is only behind a main that has
+// since gone green needs main merged in, not a fix.
+const mainRuns = JSON.parse(gh("run", "list", "--workflow", "ci.yml", "--branch", "main", "--event", "push", "--limit", "5",
+  "--json", "conclusion,status,createdAt,url"));
+const lastDone = mainRuns.find((r) => r.status === "completed");
+if (lastDone && lastDone.conclusion === "failure") attention.push(`main CI is red (${ago(Date.parse(lastDone.createdAt))}): ${lastDone.url}; nothing publishes until it is fixed`);
+else if (lastDone) {
+  for (const pr of prs) {
+    if (pr.isDraft || DESK_PR.test(pr.title)) continue;
+    const red = (pr.statusCheckRollup ?? []).some((c) => (c.conclusion ?? c.state) === "FAILURE");
+    if (red && !inMain(`origin/${pr.headRefName}`) && spawnSync("git", ["merge-base", "--is-ancestor", "origin/main", `origin/${pr.headRefName}`]).status !== 0)
+      attention.push(`#${pr.number} ${pr.title.slice(0, 60)}: CI red and the branch is behind a green main; merge main in and re-run CI`);
+  }
+}
+
 /** Merges main into a conflicting desk branch when only UNION files conflict, then starts its CI. */
 function mergeMain(pr, tag) {
   const b = pr.headRefName;
