@@ -27,9 +27,9 @@ assets:
       events:
         - { start: "2026-11-05T07:00-08:00", title: "Stellar Blade Complete Edition on Nintendo Switch 2", detail: "00:00 KST and JST on Nov. 6 is Thu., Nov. 5 in the Americas", airing: live, src: 1, quote: "6 November 2026 at 00:00 KST/JST (5 November, 07:00 PST / 15:00 GMT)" }
       fill:
-        title: "My launch day"
+        title: "Launch day notes"
         labels:
-          - "Buy or pre-order: cartridge or download"
+          - "Cartridge or download"
           - "Free space needed: 25.3 GB (download size, Nintendo UK)"
           - "Time I will start playing"
       unconfirmed:
