@@ -52,7 +52,7 @@ internalLinks:
     label: "November 2026 printable calendar"
   - href: "/december-calendars.html"
     label: "December 2026 printable calendar"
-related: [advent-calendar-2026-dates-free-printable, christmas-2026-calendar-printable-countdown, all-saints-day-2026-holy-day-of-obligation-all-souls-day]
+related: [advent-calendar-2026-dates-free-printable, christmas-2026-calendar-printable-countdown, our-lady-of-guadalupe-day-2026-december-12-las-posadas-december-16-24]
 downloads:
   - group: "Advent 2026 Wreath Candle Tracker printables"
     title: "Advent 2026 Wreath Candle Tracker"

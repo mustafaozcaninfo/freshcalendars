@@ -65,7 +65,7 @@ internalLinks:
     label: "When is Memorial Day?"
   - href: "/printable-weekly-calendar.html"
     label: "Printable weekly calendar"
-related: [federal-holidays-2027-observed-dates-list, long-weekends-2027-pto-planner-bridge-days, kentucky-derby-2027-may-1-post-time-triple-crown-dates]
+related: [federal-holidays-2027-observed-dates-list, long-weekends-2027-pto-planner-bridge-days, pancake-day-2027-february-9-mothering-sunday-2027-march-7-uk]
 assets:
   overlay: true
   kicker: "May 2027 holidays"
