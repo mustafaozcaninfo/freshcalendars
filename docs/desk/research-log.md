@@ -47,3 +47,4 @@ Topics checked and not added, with the reason and a recheck date when the fact i
 - 2026-11-03 (by hand): +3 w1 (kentucky-2027-election-calendar-filing-deadline-primary, scottish-budget-2026-date-december-3, lewes-polar-bear-plunge-2027-february-7); w1 and w3 queues at 16 open items.
 
 ## Update desk
+- 2026-11-03 10:14 ET: checked grand-slam-of-darts-2026-dates-november-14-22-format-prize-money-how-to-watch, toronto-santa-claus-parade-2026-sunday-november-22-route-citytv, survivor-series-wargames-2026-date-start-time-houston-espn, nothing changed (pdc.tv pages unreadable; recheck darts after the Nov. 6 qualifier)
