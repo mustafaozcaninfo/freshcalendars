@@ -1,7 +1,7 @@
 ---
 title: "World AIDS Day 2026: Tuesday, Dec. 1, and What We Know About This Year's Theme"
 seoTitle: "World AIDS Day 2026: Dec. 1 Date and Theme Status"
-description: "World Acquired Immunodeficiency Syndrome (AIDS) Day is Tuesday, Dec. 1, 2026. The 2026 theme is not yet announced; last year's theme is listed below."
+description: "The acquired immunodeficiency syndrome (AIDS) awareness day, World AIDS Day, falls on Tuesday, Dec. 1, 2026. Its 2026 theme has not been announced yet."
 type: news
 publishedAt: "2026-11-03T06:10:00-05:00"
 authors: [christina-gerland]
