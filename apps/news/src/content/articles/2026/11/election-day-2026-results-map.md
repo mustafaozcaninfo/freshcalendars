@@ -5,6 +5,7 @@ description: "Live updates on the Nov. 3, 2026 midterms: a state-by-state result
 type: news
 publishedAt: "2026-11-03T12:48:00-05:00"
 updatedAt: "2026-11-03T12:48:00-05:00"
+featuredUntil: "2026-11-04T06:00:00-05:00"
 authors: [christina-gerland]
 category: elections
 keywords: ["election night 2026 live blog", "2026 election results map", "election results 2026", "senate results 2026", "midterm election results live"]
