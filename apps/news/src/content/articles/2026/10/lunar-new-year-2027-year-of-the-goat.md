@@ -1,9 +1,10 @@
 ---
 title: "Lunar New Year 2027 Is Saturday, Feb. 6: Year of the Goat Dates, Zodiac Chart and Free Printable Calendars"
-seoTitle: "Lunar New Year 2027: Feb. 6, Year of the Goat"
+seoTitle: "Chinese New Year 2027: Feb. 6, Year of the Goat"
 description: "Chinese New Year 2027 falls on Saturday, Feb. 6, starting the Year of the Fire Goat. Festival dates, Seollal on Feb. 7, a zodiac chart and four printables."
 type: explainer
 publishedAt: "2026-10-18T12:00:00-04:00"
+updatedAt: "2026-11-03T15:20:00-05:00"
 authors: [christina-gerland]
 category: holidays
 keywords: ["Lunar New Year 2027", "Chinese New Year 2027", "Year of the Goat 2027", "Chinese zodiac chart", "Chinese calendar 2027"]
@@ -89,7 +90,7 @@ downloads:
 draft: false
 ---
 
-**Lunar New Year 2027 falls on Saturday, Feb. 6**, the first day of the Year of the Goat. New Year's Eve, with its reunion dinner, is Friday, Feb. 5, and the 15-day season ends with the Lantern Festival on Saturday, Feb. 20. Korea marks Seollal one day later, on Sunday, Feb. 7. The dates come from the Hong Kong Observatory (HKO), which publishes the official conversion between the Chinese lunar calendar and the Gregorian one.
+**Lunar New Year 2027, also called Chinese New Year, falls on Saturday, Feb. 6**, the first day of the Year of the Goat. New Year's Eve, with its reunion dinner, is Friday, Feb. 5, and the 15-day season ends with the Lantern Festival on Saturday, Feb. 20. Korea marks Seollal one day later, on Sunday, Feb. 7. The dates come from the Hong Kong Observatory (HKO), which publishes the official conversion between the Chinese lunar calendar and the Gregorian one.
 
 ## Lunar New Year 2027 dates
 
