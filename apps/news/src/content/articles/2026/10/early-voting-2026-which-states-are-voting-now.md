@@ -4,7 +4,7 @@ seoTitle: "Early Voting 2026: End Dates by State"
 description: "Early voting ended by Nov. 1 in the 11 states covered here, with dates and hours by state. Election Day is tomorrow, Tuesday, Nov. 3, 2026."
 type: news
 publishedAt: "2026-10-22T01:36:00-04:00"
-updatedAt: "2026-11-02T14:10:00-05:00"
+updatedAt: "2026-11-03T08:30:00-05:00"
 authors: [christina-gerland]
 category: elections
 keywords: ["early voting 2026", "which states have early voting", "early voting dates by state", "early voting now"]
@@ -77,7 +77,7 @@ internalLinks:
     label: "October 2026 printable calendar"
   - href: "/printable-weekly-calendar.html"
     label: "Printable weekly planner"
-related: [early-voting-starts-october-24-michigan-new-york-2026, texas-election-calendar-2026-early-voting-dates-deadlines, mail-ballot-deadlines-2026-by-state]
+related: [early-voting-starts-october-24-michigan-new-york-2026, how-many-people-voted-early-2026-59-million-early-votes, mail-ballot-deadlines-2026-by-state]
 assets:
   kicker: "Early voting · Nov. 3, 2026"
   title: "Which states are voting now"
@@ -117,7 +117,7 @@ downloads:
 draft: false
 ---
 
-<p class="callout"><b>Election Day is tomorrow, Tuesday, Nov. 3, 2026.</b> Texas, Georgia and Massachusetts ended early in-person voting on Friday, Oct. 30. North Carolina ended at 3 p.m. Saturday, Oct. 31; Connecticut, Michigan, New York and Delaware ended Sunday, Nov. 1. Maryland and Tennessee ended Thursday, Oct. 29, and Louisiana and Pennsylvania ended Tuesday, Oct. 27, according to the Center for Election Innovation & Research (CEIR).</p>
+<p class="callout"><b>Election Day is today, Tuesday, Nov. 3, 2026.</b> The University of Florida Election Lab counted 59,014,258 early votes nationwide as of 8:21 a.m. Eastern Time today; the <a href="/news/how-many-people-voted-early-2026-59-million-early-votes/">state-by-state early vote totals</a> are in our separate story. Texas, Georgia and Massachusetts ended early in-person voting on Friday, Oct. 30. North Carolina ended at 3 p.m. Saturday, Oct. 31; Connecticut, Michigan, New York and Delaware ended Sunday, Nov. 1. Maryland and Tennessee ended Thursday, Oct. 29, and Louisiana and Pennsylvania ended Tuesday, Oct. 27, according to the Center for Election Innovation & Research (CEIR).</p>
 
 **Early in-person voting has ended in the states covered in this guide, ahead of Election Day on Tuesday, Nov. 3, 2026.** Connecticut, Texas, Georgia, North Carolina, Massachusetts, Tennessee, New Mexico, Maryland, Delaware, Michigan and New York all closed their early voting windows by Sunday, Nov. 1. This is a guide to selected states with confirmed dates, not a complete list. The Center for Election Innovation & Research (CEIR) says 47 states plus the District of Columbia offer early in-person voting in 2026, with end dates ranging from Oct. 27 in Louisiana and Pennsylvania to the day before Election Day in 14 states.
 

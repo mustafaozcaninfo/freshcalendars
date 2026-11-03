@@ -1,9 +1,10 @@
 ---
 title: "ATP Finals 2026 in Turin: Dates, TV Channels, Qualified Players and Match Times by Time Zone"
 seoTitle: "ATP Finals 2026 Turin: Dates, TV and Time Zones"
-description: "The Association of Tennis Professionals (ATP) Finals run Nov. 15-22, 2026 in Turin, Italy, on Tennis Channel in the U.S. Match times are not yet announced."
+description: "The Association of Tennis Professionals (ATP) Finals run Nov. 15-22, 2026 in Turin, Italy, on Tennis Channel in the U.S., with singles from 8 a.m. Eastern."
 type: news
 publishedAt: "2026-10-28T03:42:00-04:00"
+updatedAt: "2026-11-03T07:50:00-05:00"
 authors: [jessica-hartwell]
 category: sports
 keywords: ["atp finals 2026", "atp finals 2026 schedule", "nitto atp finals turin dates", "atp finals 2026 tv channel us", "atp finals qualified players 2026"]
@@ -21,17 +22,17 @@ hero:
 summary:
   - "The Nitto ATP Finals will take place from Nov. 15 to 22, 2026 at the Inalpi Arena in Turin, Italy, a Sunday to a Sunday, according to the event's official site."
   - "The event's TV page, checked Oct. 28, 2026, lists Tennis Channel in the United States, Sky UK in the United Kingdom, The Sports Network (TSN) in Canada, and Sky Italia and Mediaset in Italy."
-  - "As of Oct. 18, the Association of Tennis Professionals (ATP) marked Alexander Zverev, Carlos Alcaraz and Ben Shelton as qualified; Jannik Sinner has said he is ending his 2026 season."
-  - "The 2026 order of play, session times and draw date are not yet announced. The time table here converts the 2025 session pattern and is labeled that way."
+  - "By Oct. 30, the Association of Tennis Professionals (ATP) had confirmed five qualified singles players: Jannik Sinner, Alexander Zverev, Carlos Alcaraz, Ben Shelton and Daniil Medvedev. Sinner has ended his 2026 season."
+  - "The event's 2026 tournament schedule puts singles not before 2 p.m. and 8:30 p.m. in Turin, which is 8 a.m. and 2:30 p.m. Eastern Time (ET). The draw date and order of play are not yet announced."
 faq:
   - q: "What are the ATP Finals 2026 dates?"
     a: "Nov. 15 to 22, 2026, at the Inalpi Arena in Turin, according to the Nitto ATP Finals. Nov. 15 and Nov. 22 are both Sundays."
   - q: "What channel shows the ATP Finals 2026 in the U.S.?"
     a: "The event's TV schedule page lists Tennis Channel for the United States, including Puerto Rico and the U.S. Virgin Islands. Tennis TV streams ATP Tour action."
   - q: "Who has qualified for the ATP Finals 2026?"
-    a: "As of Oct. 18, the ATP's Race to Turin report marked Alexander Zverev, Carlos Alcaraz and Ben Shelton as qualified. The full field is not yet announced."
+    a: "By Oct. 30, 2026, the ATP had announced five singles qualifiers: Jannik Sinner, Alexander Zverev, Carlos Alcaraz, Ben Shelton and Daniil Medvedev. Sinner has ended his season with a knee injury. Five doubles teams had also qualified. The full field is not yet set."
   - q: "What time do ATP Finals matches start?"
-    a: "Not yet announced for 2026. In 2025, sessions ran from 11:30 a.m. local time in Turin, with singles not before 2 p.m. and not before 8:30 p.m."
+    a: "The event's 2026 tournament schedule lists doubles at 11:30 a.m. and singles not before 2 p.m. in the day session, then doubles at 6 p.m. and singles not before 8:30 p.m. at night, local time in Turin, from Nov. 15 to 20. In Eastern Time that is 5:30 a.m., 8 a.m., noon and 2:30 p.m."
 sources:
   - title: "Mediaset Broadcast Rights Nitto ATP Finals"
     url: "https://www.nittoatpfinals.com/en/news/mediaset-broadcast-rights-nitto-atp-finals"
@@ -49,10 +50,34 @@ sources:
     url: "https://www.atptour.com/en/news/pif-atp-live-race-to-turin-18-october-2026"
     publisher: "ATP Tour"
     date: "2026-10-18"
-  - title: "Sinner 2026 injury announcement (October)"
-    url: "https://www.atptour.com/es/news/sinner-2026-injury-announcement-october"
+  - title: "Sinner to miss rest of 2026 due to injury"
+    url: "https://www.atptour.com/en/news/sinner-2026-injury-announcement-october"
     publisher: "ATP Tour"
     date: "2026-10-06"
+  - title: "Tournament Schedule"
+    url: "https://www.nittoatpfinals.com/en/event/tournament-schedule"
+    publisher: "Nitto ATP Finals"
+    date: "2026-11-03"
+  - title: "Schedule - Nitto ATP Finals 2026"
+    url: "https://tickets.nittoatpfinals.com/en/schedule"
+    publisher: "Nitto ATP Finals"
+    date: "2026-11-03"
+  - title: "Sinner qualifies for Nitto ATP Finals 2026"
+    url: "https://www.atptour.com/en/news/sinner-nitto-atp-finals-2026-qualification"
+    publisher: "ATP Tour"
+    date: "2026-07-10"
+  - title: "Shelton qualifies for Nitto ATP Finals 2026"
+    url: "https://www.atptour.com/en/news/shelton-nitto-atp-finals-2026-qualification"
+    publisher: "ATP Tour"
+    date: "2026-10-18"
+  - title: "Medvedev returns to the Nitto ATP Finals"
+    url: "https://www.atptour.com/en/news/daniil-medvedev-nitto-atp-finals-2026-qualification"
+    publisher: "ATP Tour"
+    date: "2026-10-30"
+  - title: "Bolelli and Vavassori qualify for Nitto ATP Finals 2026"
+    url: "https://www.atptour.com/en/news/bolelli-vavassori-nitto-atp-finals-2026-qualification"
+    publisher: "ATP Tour"
+    date: "2026-10-28"
   - title: "Nitto ATP Finals 2025 Tuesday Schedule"
     url: "https://www.nittoatpfinals.com/en/news/nitto-atp-finals-2025-tuesday-schedule"
     publisher: "Nitto ATP Finals"
@@ -110,7 +135,7 @@ assets:
 draft: false
 ---
 
-**The Nitto ATP Finals will take place from Nov. 15 to 22, 2026 at the Inalpi Arena in Turin, Italy, according to the event's official site, and its TV page, checked Oct. 28, 2026, lists Tennis Channel for the United States.** Nov. 15 and Nov. 22 are both Sundays. The Association of Tennis Professionals (ATP) has not yet announced the 2026 order of play, session times or draw date, so the time table below converts the 2025 session pattern and says so.
+**The Nitto ATP Finals will take place from Nov. 15 to 22, 2026 at the Inalpi Arena in Turin, Italy, according to the event's official site, and its TV page, checked Oct. 28, 2026, lists Tennis Channel for the United States.** Nov. 15 and Nov. 22 are both Sundays. The event's 2026 tournament schedule puts the first singles match of each round-robin day not before 2 p.m. in Turin, 8 a.m. Eastern Time (ET). The Association of Tennis Professionals (ATP) has not yet announced the draw date or which players meet on which day.
 
 ## What are the ATP Finals 2026 dates?
 
@@ -144,24 +169,45 @@ The page also says Tennis TV (TennisTV.com) streams ATP Tour action. In Italy, a
 
 ## Who has qualified for the ATP Finals 2026?
 
-The ATP's Race to Turin report of Oct. 18, 2026 marked three players as qualified: Alexander Zverev, Carlos Alcaraz and Ben Shelton. It described Rafael Jodar as in a qualifying position, which is not the same as qualified. The report as we read it does not say how many places remain, and the full field and the doubles field are not yet announced.
+The ATP Tour has published a qualification report for each player who has secured a place. By Oct. 30, 2026, five singles players had qualified:
 
-An ATP Tour report dated Oct. 6, 2026 says Jannik Sinner is ending his 2026 season because of a right knee injury. That means he is not expected in Turin, though the ATP has not confirmed a withdrawal from the event. The Rolex Paris Masters runs Oct. 31 to Nov. 8, 2026, according to Paris La Défense, and the remaining places are decided over the last weeks of the season. See our [Paris Masters 2026 schedule](/news/paris-masters-2026-schedule-final-time-by-time-zone/) for those match times.
+| Player | Qualified (ATP Tour report) |
+|---|---|
+| Jannik Sinner | July 10 |
+| Alexander Zverev | Aug. 6 |
+| Carlos Alcaraz | Sept. 16 |
+| Ben Shelton | Oct. 18 |
+| Daniil Medvedev | Oct. 30, after beating Adrian Mannarino in the Vienna quarterfinals |
+
+An ATP Tour report dated Oct. 6, 2026 says Sinner has ended his 2026 season because of a knee injury. That means he is not expected in Turin, though the ATP has not confirmed a withdrawal from the event. Rafael Jodar was in a qualifying position in the Oct. 18 Race to Turin report, which is not the same as qualified.
+
+Five doubles teams had qualified by Oct. 28: Harri Heliovaara and Henry Patten, Marcel Granollers and Horacio Zeballos, Christian Harrison and Neal Skupski, Marcelo Arevalo and Mate Pavic, and Simone Bolelli and Andrea Vavassori. Alternates are not yet announced. The Rolex Paris Masters runs Oct. 31 to Nov. 8, 2026, according to Paris La Défense, and the remaining places are decided over the last weeks of the season. See our [Paris Masters 2026 schedule](/news/paris-masters-2026-schedule-final-time-by-time-zone/) for those match times.
 
 ## What time do ATP Finals matches start?
 
-Not yet announced for 2026. The 2025 pattern is the only guide the event has published. On Nov. 10, 2025 the Nitto ATP Finals schedule showed a day session from 11:30 a.m. with doubles, singles "Not Before 2 pm", an evening session with doubles "Not Before 6 pm" and night singles "Not Before 8:30 pm", all in local time in Turin, which is on Central European Time (CET). Use the table as a conversion aid, not as the 2026 schedule.
+The Nitto ATP Finals tournament schedule for 2026, checked Nov. 3, gives these start times in local time in Turin, which is on Central European Time (CET). Each day has a doubles match first, then a singles match "NB" (not before) the listed time. The event's ticket site calls the times indicative and subject to change.
 
-In November 2026 Turin is on CET (Coordinated Universal Time (UTC) plus 1 hour). U.S. clocks fall back on Nov. 1, so Eastern Time (ET) is UTC minus 5 hours, six hours behind Turin. Central Time (CT) is 7 hours behind, Mountain Time (MT) 8 hours and Pacific Time (PT) 9 hours. Greenwich Mean Time (GMT) in the U.K. is 1 hour behind.
+In November 2026 Turin is on CET (Coordinated Universal Time (UTC) plus 1 hour). U.S. clocks fall back on Nov. 1, so Eastern Time is UTC minus 5 hours, six hours behind Turin. Central Time (CT) is 7 hours behind, Mountain Time (MT) 8 hours and Pacific Time (PT) 9 hours. Greenwich Mean Time (GMT) in the U.K. is 1 hour behind.
 
-**2025 session pattern; 2026 order of play not yet announced**
+**Round robin, Sun., Nov. 15 to Fri., Nov. 20**
 
-| 2025 session start (Turin, CET) | ET | CT | MT | PT | GMT |
+| Start (Turin, CET) | ET | CT | MT | PT | GMT |
 |---|---|---|---|---|---|
 | 11:30 a.m. (day session, doubles) | 5:30 a.m. | 4:30 a.m. | 3:30 a.m. | 2:30 a.m. | 10:30 a.m. |
-| Not before 2 p.m. (singles) | 8 a.m. | 7 a.m. | 6 a.m. | 5 a.m. | 1 p.m. |
-| Not before 6 p.m. (evening, doubles) | 12 p.m. | 11 a.m. | 10 a.m. | 9 a.m. | 5 p.m. |
-| Not before 8:30 p.m. (night, singles) | 2:30 p.m. | 1:30 p.m. | 12:30 p.m. | 11:30 a.m. | 7:30 p.m. |
+| Not before 2 p.m. (day singles) | 8 a.m. | 7 a.m. | 6 a.m. | 5 a.m. | 1 p.m. |
+| 6 p.m. (evening session, doubles) | 12 p.m. | 11 a.m. | 10 a.m. | 9 a.m. | 5 p.m. |
+| Not before 8:30 p.m. (night singles) | 2:30 p.m. | 1:30 p.m. | 12:30 p.m. | 11:30 a.m. | 7:30 p.m. |
+
+**Semifinals, Sat., Nov. 21, and finals, Sun., Nov. 22**
+
+| Day and start (Turin, CET) | ET | CT | MT | PT | GMT |
+|---|---|---|---|---|---|
+| Sat., 12 p.m. (doubles semifinal) | 6 a.m. | 5 a.m. | 4 a.m. | 3 a.m. | 11 a.m. |
+| Sat., not before 2:30 p.m. (singles semifinal) | 8:30 a.m. | 7:30 a.m. | 6:30 a.m. | 5:30 a.m. | 1:30 p.m. |
+| Sat., 6 p.m. (doubles semifinal) | 12 p.m. | 11 a.m. | 10 a.m. | 9 a.m. | 5 p.m. |
+| Sat., not before 8:30 p.m. (singles semifinal) | 2:30 p.m. | 1:30 p.m. | 12:30 p.m. | 11:30 a.m. | 7:30 p.m. |
+| Sun., 3 p.m. (doubles final) | 9 a.m. | 8 a.m. | 7 a.m. | 6 a.m. | 2 p.m. |
+| Sun., not before 6 p.m. (singles final) | 12 p.m. | 11 a.m. | 10 a.m. | 9 a.m. | 5 p.m. |
 
 The 2025 draw was held on the Thursday before the event at 12 p.m. CET, which is 6 a.m. ET, according to the event's 2025 draw announcement. The 2026 draw date and time are not yet announced.
 

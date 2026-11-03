@@ -4,6 +4,7 @@ seoTitle: "What Is a Midterm Election? What Nov. 3, 2026 Decides"
 description: "A midterm election falls halfway through a president's term. On Nov. 3, 2026, voters pick all 435 House members and 35 of 100 senators, plus local offices."
 type: explainer
 publishedAt: "2026-11-02T13:16:00-05:00"
+updatedAt: "2026-11-03T09:16:00-05:00"
 authors: [christina-gerland]
 category: elections
 keywords: ["what is a midterm election", "midterm election 2026", "what is this election for", "what does a midterm election decide", "midterm vs presidential election"]
@@ -34,6 +35,8 @@ faq:
     a: "No. The next presidential election is in November 2028, four years after the last one."
   - q: "How many Senate seats are up in 2026?"
     a: "Thirty-five of 100. Thirty-three are the regularly scheduled Class II seats and two are special elections for Class III seats in Ohio and Florida, according to the Senate's class lists and our midterm tracker."
+  - q: "How many races are on the ballot on Nov. 3, 2026?"
+    a: "Ballotpedia says it is following 44,443 races with 80,984 candidates on Nov. 3, 2026, from Congress to school boards, plus 145 statewide ballot measures in 39 states."
   - q: "What day is Election Day, and who sets it?"
     a: "Federal law, 2 U.S.C. 7, sets the Tuesday next after the first Monday in November in every even-numbered year. In 2026 that is Tuesday, Nov. 3."
   - q: "Who can vote in a midterm election?"
@@ -75,6 +78,10 @@ sources:
     url: "https://www.senate.gov/artandhistory/senate-stories/when-a-new-congress-begins.htm"
     publisher: "U.S. Senate Historical Office"
     date: "2020-12-30"
+  - title: "Daily Brew: November 3, 2026"
+    url: "https://ballotpedia.org/Daily_Brew:_November_3,_2026"
+    publisher: "Ballotpedia"
+    date: "2026-11-03"
   - title: "My Voter Status"
     url: "https://voterstatus.sos.ca.gov/"
     publisher: "California Secretary of State"
@@ -149,6 +156,24 @@ It falls in the middle of a president's four-year term. The Constitution gives t
 The House has had 435 voting members since Congress capped its size, according to the House's History, Art & Archives office. The Senate's own lists show 33 Class II seats with terms expiring in 2027 and Class III seats held by senators from Ohio and Florida. Our [midterm tracker](/news/2026-midterm-elections-whats-on-the-ballot-results-tracker/) explains why those two states hold special elections and lists every Senate and governor's race.
 
 Beyond Congress, ballots differ by state. Many include governors, state legislators, judges, ballot measures and city or county offices. To see yours, use the [official sample ballot lookup for your state](/news/sample-ballot-2026-by-state-official-lookup-links/). California's My Voter Status, Pennsylvania's Voter Registration Status and North Carolina's Voter Search are three examples.
+
+## How many races are on the ballot on Nov. 3?
+
+Ballotpedia, the online encyclopedia of American politics, says in its Nov. 3, 2026 Daily Brew newsletter that it is "following a total of 44,443 races today featuring a total of 80,984 candidates." That count covers congressional, state and local races in all 50 states. It is Ballotpedia's count of the races it tracks, so no single voter sees more than a small share of them.
+
+| Level | On the ballot Nov. 3, per Ballotpedia |
+|---|---|
+| U.S. Senate | 35 seats, including special elections in Florida and Ohio |
+| U.S. House | All 435 seats |
+| Governors | 36 governorships |
+| Other state executive offices | 296 offices in 43 states, including 31 lieutenant governors, 30 attorneys general and 26 secretaries of state |
+| State legislatures | 6,139 of 7,386 seats, in 88 of 99 chambers across 46 states |
+| State supreme courts | Seats in 25 states |
+| Statewide ballot measures | 145 measures in 39 states |
+| School boards | 475 districts in Ballotpedia's coverage |
+| Recall elections | 15 recalls of 24 local officials in five states |
+
+Source: Ballotpedia, Daily Brew, Nov. 3, 2026. Ballotpedia says it follows every race on the ballot in 32 states and selected local races elsewhere, so its count does not include every local race in the other 18 states.
 
 ## How is a midterm different from a presidential election?
 

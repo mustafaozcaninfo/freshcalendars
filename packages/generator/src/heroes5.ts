@@ -285,6 +285,8 @@ export const PUZZLE_HEROES: [string, string, string, string, string, string, str
   ["quordle-hints-answers-november-1-2026-1742", "quordle", "#1a2e2a", "#fb923c", "Quordle #1742 · Sun., Nov. 1, 2026", "Quordle hints today", "A clue for each of the four words, answers at the end."],
   ["waffle-answer-hints-today-november-2-2026-1746", "waffle", "#1f2a37", "#fb7185", "Waffle #1746 · Mon., Nov. 2, 2026", "Waffle hints today", "A clue for each of the six words, the solved grid at the end."],
   ["quordle-hints-answers-november-2-2026-1743", "quordle", "#14213d", "#a3e635", "Quordle #1743 · Mon., Nov. 2, 2026", "Quordle hints today", "A clue for each of the four words, the answers at the end."],
+  ["waffle-answer-hints-today-november-3-2026-1747", "waffle", "#2a1f33", "#38bdf8", "Waffle #1747 · Tue., Nov. 3, 2026", "Waffle hints today", "A clue for each of the six words, the solved grid at the end."],
+  ["quordle-hints-answers-november-3-2026-1744", "quordle", "#1f2937", "#fbbf24", "Quordle #1744 · Tue., Nov. 3, 2026", "Quordle hints today", "A clue for each of the four words, the answers at the end."],
   ["blossom-word-game-answers-november-2-2026", "blossom", "#3b0764", "#5eead4", "Blossom · Mon., Nov. 2, 2026", "Blossom answers", "Letters and hints first, the pangrams only at the end."],
   ["linkedin-games-answers-today-november-2-2026-queens-tango-zip", "linkedin", "#0f2a3a", "#fdba74", "LinkedIn games · Mon., Nov. 2, 2026", "LinkedIn games hints", "Pinpoint and Crossclimb hints first, answers at the end."],
   ["nyt-connections-sports-edition-hints-answers-november-2-2026-770", "sports", "#1b1f3b", "#38bdf8", "Sports Edition #770 · Mon., Nov. 2, 2026", "Sports Connections", "Four group hints come first, the answers wait at the end."],

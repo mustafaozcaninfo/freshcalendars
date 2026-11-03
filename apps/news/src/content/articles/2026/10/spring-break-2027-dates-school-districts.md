@@ -4,7 +4,7 @@ seoTitle: "Spring Break 2027 Dates for Big School Districts"
 description: "Spring break 2027 in 19 big U.S. districts: eight are off Mar. 22-26, Charlotte-Mecklenburg Schools (CMS) Mar. 29-Apr. 2, New York City Apr. 22-30."
 type: news
 publishedAt: "2026-10-26T08:45:00-04:00"
-updatedAt: "2026-11-02T20:35:00-05:00"
+updatedAt: "2026-11-03T08:52:00-05:00"
 authors: [aaron-kessler]
 category: school-calendars
 keywords: ["spring break 2027", "spring break 2027 dates", "when is spring break 2027", "cms spring break 2027", "spring break 2027 school districts"]
@@ -39,6 +39,9 @@ faq:
   - q: "Is spring break always the week before Easter?"
     a: "No. Easter Sunday is Mar. 28, 2027, and eight of the 19 districts here are off the week before it. Houston, Clark County, Dallas, Orange County and Austin break earlier; Charlotte-Mecklenburg, Wake County and Montgomery County break the week after; Cobb County, Gwinnett County and New York City break in April."
 sources:
+  - title: "Jefferson County Public Schools School Calendar 2026-27"
+    url: "https://files-backend.assets.thrillshare.com/documents/asset/uploaded_file/4298/Jcps/1d1e42d1-d735-4e92-99b1-dee5b02382ad/202627-ParentFamily-School-Calendar.pdf?disposition=inline"
+    publisher: "Jefferson County Public Schools"
   - title: "School Year Calendar 2026-2027"
     url: "https://www.schools.nyc.gov/docs/default-source/sections/calendar/2026-27-school-year-calendar.pdf"
     publisher: "NYC Public Schools"
@@ -107,7 +110,7 @@ internalLinks:
     label: "April 2027 printable calendar"
   - href: "/when-is/easter/"
     label: "When is Easter?"
-related: [winter-break-2026-school-districts-dates, charlotte-mecklenburg-schools-calendar-2026-27-breaks, lausd-calendar-2026-27-winter-break-spring-break]
+related: [winter-break-2026-school-districts-dates, jcps-calendar-2026-27-jefferson-county-public-schools-breaks, lausd-calendar-2026-27-winter-break-spring-break]
 assets:
   overlay: true
   kicker: "Spring break 2027"
@@ -228,4 +231,4 @@ That count covers only these 19 districts, not all U.S. schools. Montgomery Coun
 
 ## How to plan around spring break 2027
 
-Before booking, confirm the dates on your own district's calendar, because a district can change them. Clark County says so on its calendar. Mark the week on our [printable school-year calendar](/printable-school-calendar.html) and on the [March](/march-calendars.html) and [April](/april-calendars.html) monthly calendars, or print the one-page table below. Our [winter break 2026](/news/winter-break-2026-school-districts-dates/) story lists the earlier break in the school year for many of the same districts.
+Before booking, confirm the dates on your own district's calendar, because a district can change them. Clark County says so on its calendar. Mark the week on our [printable school-year calendar](/printable-school-calendar.html) and on the [March](/march-calendars.html) and [April](/april-calendars.html) monthly calendars, or print the one-page table below. Our [winter break 2026](/news/winter-break-2026-school-districts-dates/) story lists the earlier break in the school year for many of the same districts. Jefferson County Public Schools in Louisville, Ky., is off Monday, March 29 to Friday, April 2, 2027, and its Friday, March 26 is a teachers-only day, per its 2026-27 calendar; see the [Jefferson County Public Schools (JCPS) calendar story](/news/jcps-calendar-2026-27-jefferson-county-public-schools-breaks/).
