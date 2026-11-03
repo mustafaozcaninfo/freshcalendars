@@ -51,12 +51,12 @@ export const expectedCtr = (pos) => (pos <= 1.5 ? 0.28 : pos <= 2.5 ? 0.15 : pos
 
 /**
  * Query and page pairs worth a better title, lede or section: enough impressions, a position that
- * can still win clicks (4 to 20), and a click-through rate below what that position usually earns.
+ * can still win clicks (2.5 to 20; a page at 3.4 earning 0.02% has a title or snippet problem), and a click-through rate below what that position usually earns.
  * Ranked by the clicks missing.
  */
 export function opportunities(rows, { minImpressions = 80, limit = 40 } = {}) {
   return rows
-    .filter((r) => r.impressions >= minImpressions && r.position >= 4 && r.position <= 20)
+    .filter((r) => r.impressions >= minImpressions && r.position >= 2.5 && r.position <= 20)
     .map((r) => ({ query: r.keys[0], page: r.keys[1], impressions: r.impressions, clicks: r.clicks, position: Math.round(r.position * 10) / 10, missing: Math.round(r.impressions * Math.max(0, expectedCtr(r.position) - r.clicks / r.impressions)) }))
     .filter((o) => o.missing >= 3)
     .sort((a, b) => b.missing - a.missing)
@@ -169,7 +169,7 @@ export function report(d) {
     `- /news/: ${w(d.weeks.news)}`,
     `- Calendar site: ${w(d.weeks.calendar)}`,
     "",
-    "## Opportunities: ranking 4 to 20 with a click rate below what that position earns",
+    "## Opportunities: ranking 2.5 to 20 with a click rate below what that position earns",
     "",
     "Improve the title, the first sentence or a section of the page (an update item for the update desk), or answer the query in a new story (a queue item for the research desk). `missing` is the clicks per 28 days the page would gain at the usual rate.",
     "",
@@ -202,14 +202,15 @@ async function main() {
     const wins = windows();
     const from = wins[2].start, to = wins[0].end;
     const q28 = { start: ymd(Date.parse(to) - 27 * DAY), end: to };
-    const [daily, dailyNews, pages, pairs] = await Promise.all([
-      searchAnalytics(site, token, { start: from, end: to, dimensions: ["date"] }),
+    // Both sections are read with a page filter, so they count the same way (a search that shows
+    // two of our pages counts once per page); the unfiltered daily total counts it once.
+    const [dailyCalendar, dailyNews, pages, pairs] = await Promise.all([
+      searchAnalytics(site, token, { start: from, end: to, dimensions: ["date"], filter: { dimension: "page", operator: "excludingRegex", expression: "^https?://[^/]+/news/" } }),
       searchAnalytics(site, token, { start: from, end: to, dimensions: ["date"], filter: { dimension: "page", operator: "includingRegex", expression: "^https?://[^/]+/news/" } }),
       searchAnalytics(site, token, { ...q28, dimensions: ["page"], rowLimit: 1000 }),
       searchAnalytics(site, token, { ...q28, dimensions: ["query", "page"], rowLimit: 5000 }),
     ]);
-    const newsWeeks = weeklyTotals(dailyNews, wins), allWeeks = weeklyTotals(daily, wins);
-    const calendarWeeks = allWeeks.map((a, i) => ({ start: a.start, end: a.end, clicks: Math.max(0, a.clicks - newsWeeks[i].clicks), impressions: Math.max(0, a.impressions - newsWeeks[i].impressions) }));
+    const newsWeeks = weeklyTotals(dailyNews, wins), calendarWeeks = weeklyTotals(dailyCalendar, wins);
     const shape = (r) => ({ page: r.keys[0], clicks: r.clicks, impressions: r.impressions, position: Math.round(r.position * 10) / 10 });
     const bySection = { news: [], calendar: [] };
     for (const r of pages.sort((a, b) => b.clicks - a.clicks || b.impressions - a.impressions)) bySection[section(r.keys[0])].push(shape(r));
