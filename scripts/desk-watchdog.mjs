@@ -26,7 +26,7 @@ const NO_CI = 20 * MIN;      // a head commit this old with no checks never got 
 const STALL = 3 * H;         // docs/DESK.md "Claiming"
 const SILENT = 8 * H;        // writers run every 6 h; one missed run shows here
 const OLD_MERGED = 6 * H;    // a branch in main younger than this may be a run that has not committed yet
-const DESK_PR = /^(\[W\d\]|Puzzles\b)/;
+const DESK_PR = /^(\[W\d\]|\[U\]|Puzzles\b)/;
 // Lines both sides add to these files belong together (docs/DESK.md "Writer rules").
 const UNION = ["docs/desk/*.md"];
 
@@ -178,6 +178,17 @@ for (const w of writers) {
     .concat(branches.filter((b) => b.name.startsWith("claude/desk-") && items.get(b.name.slice(12))?.writer === w).map((b) => b.time));
   const last = Math.max(0, ...times);
   if (NOW - last > SILENT) attention.push(`${w.toUpperCase()}: no pull request or claim for ${last ? ago(last).replace(" ago", "") : "a long time"}; check its routine`);
+}
+// The research desk (r) commits "desk(r): ..." to main every run; the update desk (u) lands "[U] ..."
+// pull requests or a "desk(u): ..." line when nothing changed (docs/DESK.md). Checked only once a
+// desk has run at least once, so a routine not set up yet raises nothing.
+for (const [code, name] of [["r", "Research desk"], ["u", "Update desk"]]) {
+  const mark = (l) => l.startsWith(`desk(${code}):`) || (code === "u" && l.startsWith("[U]"));
+  const ever = git("log", "origin/main", "--format=%s", "-E", `--grep=^(desk\\(${code}\\):${code === "u" ? "|\\[U\\])" : ")"}`, "-1");
+  if (!ever) continue;
+  const lately = git("log", "origin/main", `--since=${SILENT / H} hours ago`, "--format=%s").split("\n").some(mark)
+    || recent.some((p) => code === "u" && p.title.startsWith("[U]") && NOW - Date.parse(p.createdAt) < SILENT);
+  if (!lately) attention.push(`${name} (${code}): no run on record for ${SILENT / H} hours; check its routine`);
 }
 const blocked = [...items].filter(([, it]) => it.state === "blocked")
   .map(([id, it]) => `- ${it.writer.toUpperCase()} \`${id}\` ${it.text.match(/^\(([^)]*)\)/)?.[1] ?? ""}`);
