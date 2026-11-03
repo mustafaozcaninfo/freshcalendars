@@ -4,6 +4,7 @@ seoTitle: "NFL Playoff Schedule 2027: Dates by Round"
 description: "The 2026-27 National Football League (NFL) playoffs start Jan. 16-18, 2027 and end with Super Bowl 61 (LXI) on Feb. 14. Dates by round, plus a printable."
 type: news
 publishedAt: "2026-10-30T23:59:00-04:00"
+updatedAt: "2026-11-03T17:20:00-05:00"
 authors: [jessica-hartwell]
 category: sports
 keywords: ["nfl playoff schedule 2027", "when do nfl playoffs start 2027", "wild card weekend 2027", "nfl divisional round 2027", "nfl championship games 2027"]
@@ -44,6 +45,14 @@ sources:
   - title: "NFL elevates Pro Bowl selection; game(s) will cease being contested"
     url: "https://www.nfl.com/news/nfl-elevates-pro-bowl-selection-game-s-will-cease-being-contested"
     publisher: "National Football League"
+  - title: "How do the 2025-26 NFL playoffs work? Teams, first-round byes, bracket, reseeding"
+    url: "https://www.nbcsports.com/nfl/news/how-do-the-2025-26-nfl-playoffs-work-teams-first-round-byes-bracket-reseeding"
+    publisher: "NBC Sports"
+    date: "2026-01-07"
+  - title: "NFL playoff bracket explained: How postseason seeding, matchups are decided in race to 2025 Super Bowl"
+    url: "https://www.cbssports.com/nfl/news/nfl-playoff-bracket-explained-how-postseason-seeding-matchups-are-decided-in-race-to-2025-super-bowl"
+    publisher: "CBS Sports"
+    date: "2025-01-06"
 internalLinks:
   - href: "/january-calendars.html"
     label: "January 2027 printable calendars"
@@ -52,6 +61,7 @@ internalLinks:
 related: [super-bowl-lxi-2027-date-sofi-stadium-channel-halftime, printable-nfl-schedule-2026-2027-pdf, nfl-week-11-schedule-2026-printable-pick-em-sheet-game-times]
 assets:
   overlay: true
+  customPrintable: "No kit draws a fill-in playoff bracket with seed lines, game boxes and a center final; the story's own generator nflBracket.ts does."
   kicker: "NFL Playoffs 2027"
   date: "2027-01-16"
   card: { top: "Wild Card Weekend", big: "Jan. 16-18", bottom: "Super Bowl LXI: Sun., Feb. 14" }
@@ -87,6 +97,14 @@ downloads:
     alt: "Printable list of the 2027 NFL playoff rounds with dates and blank lines for matchups, ink-saver version"
     pdf: "/news/downloads/nfl-2026/nfl-playoffs-2027-schedule-ink.pdf"
     png: "/news/downloads/nfl-2026/nfl-playoffs-2027-schedule-ink.png"
+    pages: 1
+  - group: "NFL Playoff Bracket 2027 printables"
+    title: "NFL Playoff Bracket 2027"
+    description: "Fill-in NFL playoff bracket for 2027: seven seed lines per conference, Wild Card, Divisional and Championship boxes with dates, and Super Bowl LXI."
+    preview: ../../../../assets/news/nfl-2026/nfl-playoff-bracket-2027.png
+    alt: "Printable fill-in NFL playoff bracket for 2027 with seven seed lines for each conference and a Super Bowl LXI box in the center"
+    pdf: "/news/downloads/nfl-2026/nfl-playoff-bracket-2027.pdf"
+    png: "/news/downloads/nfl-2026/nfl-playoff-bracket-2027.png"
     pages: 1
 draft: false
 ---
@@ -127,3 +145,9 @@ The NFL says the 2027 Pro Bowl class will be honored during the traditional Pro 
 ## Print the NFL playoff schedule for 2027
 
 The free printable, "NFL Playoffs 2027 Schedule", lists the five dates above with a blank line for each round's matchups, which the league sets after Week 18. Pair it with the [printable NFL schedule for 2026-2027](/news/printable-nfl-schedule-2026-2027-pdf/) for the regular season, or with the [Week 11 pick-em sheet](/news/nfl-week-11-schedule-2026-printable-pick-em-sheet-game-times/).
+
+## NFL playoff bracket 2027 printable
+
+The second free printable, "NFL Playoff Bracket 2027" ([PDF](/news/downloads/nfl-2026/nfl-playoff-bracket-2027.pdf), [PNG](/news/downloads/nfl-2026/nfl-playoff-bracket-2027.png)), is a fill-in bracket on one landscape Letter page. It has seven blank seed lines for the AFC and seven for the NFC, with the round dates from the NFL's important dates on each round header: Wild Card Saturday, Jan. 16 to Monday, Jan. 18, Divisional Saturday, Jan. 23 to Sunday, Jan. 24, Conference Championship Sunday, Jan. 31, and Super Bowl LXI on Sunday, Feb. 14, 2027 at SoFi Stadium in Inglewood, California. The seeds are not set yet; they are decided after Week 18, which ends Jan. 10, 2027, so the team lines stay blank. Kickoff times and TV networks are not yet announced.
+
+The format comes from two newsrooms that agree. NBC Sports (Jan. 7, 2026) describes a 14-team format with seven teams from each conference, where division winners take the top four seeds and only the No. 1 seed gets a first-round bye. CBS Sports (Jan. 6, 2025) also lists the division winners as seeds 1-4 and the three wild cards as seeds 5-7. Both give the Wild Card games as No. 2 against No. 7, No. 3 against No. 6 and No. 4 against No. 5. In the Divisional round, CBS Sports says the lowest remaining seeds travel to the highest remaining seeds, so the No. 1 seed hosts the lowest remaining seed. Both newsroom pieces describe earlier seasons, so check the league's own pages once the seeds are set.
