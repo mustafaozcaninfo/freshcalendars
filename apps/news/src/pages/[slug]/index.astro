@@ -755,8 +755,8 @@ const keyDates = upcomingFor(new Set([article.id]));
 .article .kicker{font-size:11px;margin-bottom:10px}
 .article :global(figure.hero){padding:0!important;background:transparent!important;border:0;margin-bottom:24px}
 .article :global(figure.hero img){border-radius:10px;width:100%;height:auto}
-@media(min-width:1100px){.article-layout{width:min(1320px,calc(100% - 80px));grid-template-columns:minmax(0,680px) 300px;justify-content:center;gap:clamp(40px,5vw,72px)}.article-layout>.article{width:100%;max-width:none}.article-layout :global(.aside){padding-top:28px}.article :global(.hero picture){display:block}.article :global(.hero img){width:100%}}
-@media(max-width:1099px){.article{width:min(680px,calc(100% - 40px))}}
+@media(min-width:1100px){.article-layout{width:min(1320px,calc(100% - 80px));grid-template-columns:minmax(0,640px) 300px;justify-content:center;gap:clamp(40px,5vw,72px)}.article-layout>.article{width:100%;max-width:none}.article-layout :global(.aside){padding-top:28px}.article :global(.hero picture){display:block}.article :global(.hero img){width:100%}}
+@media(max-width:1099px){.article{width:min(640px,calc(100% - 40px))}}
 @media(max-width:640px){.article{width:calc(100% - 32px);padding-top:22px}.article h1,.article h1.long{font-size:25px}.article .news-lede{font-size:19px}.article-byline-row{flex-wrap:wrap;gap:14px;margin:18px 0}.article-byline-row :global(.share a),.article-byline-row :global(.share button){min-width:32px;min-height:32px}}
 </style>
 <style>
@@ -773,11 +773,11 @@ const keyDates = upcomingFor(new Set([article.id]));
   .jump a{display:inline-flex;align-items:center;min-height:44px}
   /* Readable measure (news sites measured 2026-11-03: 16-20px type, line-height 1.4-1.6, 580-640px
      columns, 67-81 characters a line; Baymard and WCAG 1.4.8 give 50-75, at most 80). Source Sans 3
-     is narrow, so 18px on phones and 19px from tablets in the 680px column (.article-layout) give
+     is narrow, so 18px on phones and 20px from tablets in the 640px column (.article-layout) give
      about 40 and 75 characters. The whole column is that one width, so paragraphs, tables, tools and
      figures share both edges instead of text stopping short of the boxes. */
   .prose-news{font-family:"Source Sans 3","Source Sans 3 Fallback",ui-sans-serif,system-ui,sans-serif;font-size:1.125rem;line-height:1.65;color:var(--ink-strong)}
-  @media (min-width:768px){ .prose-news{font-size:1.1875rem;line-height:1.6} }
+  @media (min-width:768px){ .prose-news{font-size:1.25rem;line-height:1.6} }
   .prose-news :global(h2){font-family:Sora,"Sora Fallback",sans-serif;font-size:1.4rem;line-height:1.3;margin:2.25rem 0 .75rem;color:var(--ink-strong);scroll-margin-top:10rem}
   .prose-news :global(h3){font-family:Sora,"Sora Fallback",sans-serif;font-size:1.1rem;line-height:1.3;margin:1.5rem 0 .5rem;color:var(--ink-strong)}
   .prose-news :global(ul){padding-left:1.25rem;margin:0 0 1.1rem}
@@ -939,7 +939,7 @@ const keyDates = upcomingFor(new Set([article.id]));
   .after{display:flex;flex-wrap:wrap;justify-content:space-between;align-items:flex-end;gap:1rem;margin:2rem 0 0;padding-top:1.25rem;border-top:1px solid var(--line-soft)}
   .top-link{display:inline-flex;align-items:center;min-height:44px;font-weight:700;margin-bottom:1.25rem}
   @media (min-width:1100px){
-    .article-layout{display:grid;grid-template-columns:minmax(0,680px) 300px;gap:clamp(40px,5vw,72px);justify-content:center;width:min(1320px,calc(100% - 80px));margin:0 auto}
+    .article-layout{display:grid;grid-template-columns:minmax(0,640px) 300px;gap:clamp(40px,5vw,72px);justify-content:center;width:min(1320px,calc(100% - 80px));margin:0 auto}
     .article-layout > .article{width:auto;margin:0}
     .article-layout :global(.aside){padding-top:clamp(1.75rem,4vw,2.75rem)}
   }
