@@ -4,7 +4,7 @@ seoTitle: "King Tides 2026: California Dates and High Tide Times"
 description: "National Weather Service (NWS) coastal flood warnings covered South Florida to Georgia Oct. 28, 2026. California king tides: Nov. 24-26, Dec. 23-25, Jan. 21-22."
 type: news
 publishedAt: "2026-10-27T07:45:00-04:00"
-updatedAt: "2026-11-02T14:10:00-05:00"
+updatedAt: "2026-11-03T09:22:00-05:00"
 authors: [jessica-hartwell]
 category: sky-events
 keywords: ["king tides 2026", "king tide dates 2026", "king tides this week", "California king tides November 2026", "when are king tides"]
@@ -22,7 +22,7 @@ hero:
     authorUrl: "https://commons.wikimedia.org/wiki/User:B137"
 summary:
   - "On Wednesday, Oct. 28, 2026, the National Weather Service (NWS) had coastal flood warnings from Miami-Dade County to coastal Georgia and advisories in the Carolinas, Texas and California."
-  - "San Francisco's highest predicted tide from Oct. 27 to 29, 2026 was 6.67 feet at 12:56 p.m. PDT on Wednesday, Oct. 28, per National Oceanic and Atmospheric Administration (NOAA) predictions."
+  - "San Francisco's highest predicted tide from Oct. 27 to 29, 2026 was 6.67 feet at 12:56 p.m. Pacific Daylight Time (PDT) on Wednesday, Oct. 28, per National Oceanic and Atmospheric Administration (NOAA) predictions."
   - "The California Coastal Commission lists the 2026-27 king tide dates as Nov. 24-26, Dec. 23-25 and Jan. 21-22, 2027."
   - "NOAA predicts San Francisco's Nov. 24-26 highs at 6.94 to 7.03 feet, and its Dec. 24 high at 7.23 feet, all above the 6.67 feet of Oct. 28."
 faq:
@@ -33,7 +33,7 @@ faq:
   - q: "What is a king tide?"
     a: "NOAA's Ocean Service calls a king tide a non-scientific term people often use to describe exceptionally high tides."
   - q: "Do tide predictions include storms?"
-    a: "No. The Coastal Commission says its king tide dates come from predicted astronomical tides, which do not include storm surges or El Nino impacts. NOAA's predictions do not include weather."
+    a: "No. The Coastal Commission says its king tide dates come from predicted astronomical tides, which do not include storm surges or El Nino impacts. The page also says that this winter El Nino and Kelvin waves may cause actual water heights to exceed tide predictions. NOAA's predictions do not include weather."
   - q: "Is the third king tide day Thanksgiving?"
     a: "Yes. Thanksgiving is Thursday, Nov. 26, 2026, the last of the three California king tide days in November."
 sources:
@@ -55,7 +55,11 @@ sources:
   - title: "Tide predictions (API, high and low, datum MLLW)"
     url: "https://tidesandcurrents.noaa.gov/"
     publisher: "NOAA Tides & Currents"
-  - title: "Phases of the Moon (API data, October-December 2026)"
+  - title: "The Battery, NY (station 8518750): tide predictions, Dec. 23-25, 2026 and Jan. 21-23, 2027"
+    url: "https://tidesandcurrents.noaa.gov/stationhome.html?id=8518750"
+    publisher: "NOAA Tides & Currents"
+    date: "2026-11-03"
+  - title: "Phases of the Moon (API data, October 2026-January 2027)"
     url: "https://aa.usno.navy.mil/data/MoonPhases"
     publisher: "U.S. Naval Observatory, Astronomical Applications Department"
 internalLinks:
@@ -101,8 +105,6 @@ downloads:
 draft: false
 ---
 
-<p class="callout"><b>Last updated Oct. 28, 2026, 3:45 a.m. ET.</b> We added the National Weather Service coastal flood warnings and advisories in effect on Wednesday, Oct. 28, from South Florida to the Carolinas, Texas and California, and Thursday's Miami high tide times.</p>
-
 **San Francisco's highest predicted tide from Tuesday, Oct. 27, to Thursday, Oct. 29, 2026 was 6.67 feet at 12:56 p.m. Pacific Daylight Time (PDT) on Wednesday, Oct. 28**, according to National Oceanic and Atmospheric Administration (NOAA) tide predictions. The official California king tides come later: Nov. 24-26 and Dec. 23-25, 2026, and Jan. 21-22, 2027, according to the California Coastal Commission's King Tides Project.
 
 Those tides followed the full moon of Oct. 26, and the Commission's list does not include Oct. 26-29. They were a high-water stretch, not king tides. NOAA's Ocean Service says a king tide is a non-scientific term people often use to describe exceptionally high tides.
@@ -145,7 +147,7 @@ In Miami, NOAA predicted high tides at Virginia Key of 2.94 feet at 11:20 a.m. a
 
 The California Coastal Commission lists these statewide dates: Nov. 24-26, 2026, Dec. 23-25, 2026, and Jan. 21-22, 2027. Northern California locations may also include Dec. 22, Jan. 20 and Jan. 23. The third November day, Thursday, Nov. 26, is Thanksgiving Day.
 
-The Commission says it picks the dates from the highest predicted astronomical tides for California. NOAA says higher than normal tides typically occur during a new or full moon and when the moon is at its closest point to Earth, called perigee. Our comparison of the Commission's dates with the U.S. Naval Observatory (USNO): the full moons fall on Nov. 24 (11:48 Coordinated Universal Time) and Dec. 24 (05:42 UT), so the November and December king tide windows sit on those full moons.
+The Commission says it picks the dates from the highest predicted astronomical tides for California. NOAA says higher than normal tides typically occur during a new or full moon and when the moon is at its closest point to Earth, called perigee. Our comparison of the Commission's dates with the U.S. Naval Observatory (USNO) phases data, which is in Coordinated Universal Time (UTC): the full moons fall on Nov. 24 (14:53 UTC, 9:53 a.m. Eastern Standard Time, EST), Dec. 24 (01:28 UTC, which is 8:28 p.m. EST on Wednesday, Dec. 23) and Jan. 22, 2027 (12:17 UTC, 7:17 a.m. EST). Each of the three king tide windows includes one of those full-moon dates.
 
 ## How high are the king tides compared with Oct. 28?
 
@@ -164,13 +166,28 @@ NOAA predictions for San Francisco and Seattle on the official days, in feet abo
 
 At San Francisco, the highest of these days is Dec. 24 at 7.23 feet, 0.56 foot above the 6.67 feet predicted for Oct. 28. Every official San Francisco day is above the Oct. 28 peak. Seattle is different: its Nov. 24 high of 11.93 feet is below the 12.00 feet predicted for Oct. 28. These Seattle numbers are NOAA predictions on California's dates; we could not confirm an official Washington or Oregon king tide list for 2026-27.
 
+## What does NOAA predict at The Battery, New York, on the same winter dates?
+
+The California list does not cover New York, and neither NOAA nor the Commission gives a king tide threshold. For comparison, NOAA Tides & Currents station 8518750 at The Battery, New York, predicts these high tides on the California dates (plus Jan. 23, a Northern California extra day). Heights are in feet above MLLW and times are local Eastern time, which is EST in December and January.
+
+| Day | First high tide | Second high tide |
+|---|---|---|
+| Wed., Dec. 23, 2026 | 5.75 ft, 6:52 a.m. | 4.51 ft, 7:28 p.m. |
+| Thu., Dec. 24, 2026 | 5.84 ft, 7:44 a.m. | 4.62 ft, 8:22 p.m. |
+| Fri., Dec. 25, 2026 | 5.78 ft, 8:38 a.m. | 4.66 ft, 9:19 p.m. |
+| Thu., Jan. 21, 2027 | 5.52 ft, 6:44 a.m. | 4.58 ft, 7:18 p.m. |
+| Fri., Jan. 22, 2027 | 5.67 ft, 7:36 a.m. | 4.82 ft, 8:11 p.m. |
+| Sat., Jan. 23, 2027 | 5.66 ft, 8:28 a.m. | 4.95 ft, 9:03 p.m. |
+
+The higher of the two daily highs is 5.84 feet on Dec. 24 and 5.67 feet on Jan. 22. Like the California numbers, these are astronomical predictions without storm surge.
+
 ## Do the predictions include storms?
 
-No. The Coastal Commission says its dates are based on predicted astronomical tides, which do not include storm surges or El Nino impacts. NOAA's predictions do not include weather either, so real water levels can differ from the tables above. The National Weather Service does add weather to its forecasts, and on Oct. 28 it had coastal flood warnings and advisories in effect on three coasts (table above).
+No. The Coastal Commission says its dates are based on predicted astronomical tides, which do not include storm surges or El Nino impacts. The page also says that this winter El Nino and Kelvin waves may cause actual water heights to exceed tide predictions. NOAA's predictions do not include weather either, so real water levels can differ from the tables above. The National Weather Service does add weather to its forecasts, and on Oct. 28 it had coastal flood warnings and advisories in effect on three coasts (table above).
 
 ## Where can you watch king tides in California?
 
-The Commission asks the public to photograph king tides, because the photos help show how high water affects the coast and how sea level rise is changing the shoreline. Its page lists three community events:
+The Commission asks the public to photograph king tides, because the photos help show how high water affects the coast and how sea level rise is changing the shoreline. Its page lists seven community events from Nov. 14, 2026 to Jan. 23, 2027, including:
 
 | Date | Event | Place | Time |
 |---|---|---|---|

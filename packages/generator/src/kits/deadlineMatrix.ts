@@ -11,11 +11,12 @@
  *     - date: "2026-12-18"
  *       cells: { FedEx: "Ground 4-day", USPS: "Priority Mail" }   # a cell may be { text, src }
  *       src: 1                                                    # source of the row's cells
+ *       quote: "Dec. 18: Ground 4-day transit"                    # the source's words with the date
  *   done: true                     # tick-box column (default true)
  *   unconfirmed: [{ label: "UPS ground dates", why: "UPS had not posted them on Oct. 30" }]
  */
 import { baseCss, header, notes, page, sizeOf, unconfirmedBox } from "./components.js";
-import { MON, Problems, dayLabel, daysBetween, esc, isObj, isoDay, isoOf, needSource, str, unconfirmedList, type Kit, type Unconfirmed } from "./kit.js";
+import { MON, Problems, dayLabel, daysBetween, esc, isObj, isoDay, isoOf, needQuote, needSource, str, unconfirmedList, type Kit, type Unconfirmed } from "./kit.js";
 
 type Row = { date: Date; cells: Record<string, string> };
 export type DeadlineMatrix = { target?: { date: Date; label: string }; columns: string[]; rows: Row[]; done: boolean; unconfirmed: Unconfirmed[] };
@@ -51,6 +52,7 @@ export const deadlineMatrix: Kit<DeadlineMatrix> = {
         else cells[col] = text;
         needSource(pr, `${at} (${isoOf(date)}) ${col}`, isObj(v) && v.src !== undefined ? v.src : r.src, ctx);
       }
+      needQuote(pr, `${at} (${isoOf(date)})`, r.quote, ctx, { days: [date] });
       if (target && date > target.date) pr.add(`${at}: ${isoOf(date)} is after the target ${isoOf(target.date)}`);
       if (rows.length && date <= rows[rows.length - 1]!.date) pr.add(`${at}: ${isoOf(date)} is not after the row before; one row per date, in order`);
       rows.push({ date, cells });
@@ -62,7 +64,7 @@ export const deadlineMatrix: Kit<DeadlineMatrix> = {
   },
 
   render(m, p, ctx) {
-    const t = ctx.theme, landscape = p.landscape ?? true, size = sizeOf(landscape);
+    const t = ctx.theme, landscape = p.landscape ?? true, size = sizeOf(landscape, ctx.paper);
     // Timeline strip: one tick per date from the first row to the target, labels as SVG text.
     const first = m.rows[0]!.date, last = m.target?.date ?? m.rows[m.rows.length - 1]!.date;
     const span = Math.max(1, daysBetween(first, last));

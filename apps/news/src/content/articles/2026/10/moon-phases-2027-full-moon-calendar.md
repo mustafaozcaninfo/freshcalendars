@@ -4,7 +4,7 @@ seoTitle: "Moon Phases 2027: Full Moon Calendar and Dates"
 description: "Every full moon of 2027 with dates, U.S. times and names, plus new moons, eclipses and the Harvest Moon on Sept. 15. Four free moon phase printables."
 type: explainer
 publishedAt: "2026-10-18T11:50:00-04:00"
-updatedAt: "2026-11-02T14:10:00-05:00"
+updatedAt: "2026-11-03T09:22:00-05:00"
 authors: [jessica-hartwell]
 category: sky-events
 keywords: ["moon phases 2027", "full moon calendar 2027", "full moon dates 2027", "moon calendar 2027", "Harvest Moon 2027"]
@@ -15,7 +15,7 @@ hero:
   title: "Moon phases 2027: 12 full moons and 13 new moons"
   caption: "2027 has 12 full moons, one in every month, and 13 new moons. The first full moon is the Wolf Moon on Friday, Jan. 22."
 summary:
-  - "2027 has 12 full moons, one in each month, and no blue moon. The first is the Wolf Moon on Friday, Jan. 22 at 7:17 a.m. EST."
+  - "2027 has 12 full moons, one in each month, and no blue moon. The first is the Wolf Moon on Friday, Jan. 22 at 7:17 a.m. Eastern Standard Time (EST)."
   - "The Harvest Moon is on Wednesday, Sept. 15, the full moon nearest the Sept. 23 equinox, and the Hunter's Moon follows on Friday, Oct. 15."
   - "There are 13 new moons, and five eclipses: two solar (Feb. 6 and Aug. 2) and three faint penumbral lunar eclipses."
   - "Four free printables: a one-page moon phase calendar, a full moon list, 12 monthly moon calendars and a table of every phase."
@@ -29,7 +29,7 @@ faq:
   - q: "Are there any lunar eclipses in 2027?"
     a: "Three, all penumbral: Feb. 20, July 18 and Aug. 17. The Moon only passes through Earth's faint outer shadow, so the dimming is slight. The July 18 eclipse is too shallow to notice at all."
   - q: "Can I see the Aug. 2, 2027 total solar eclipse from the United States?"
-    a: "No. The path of totality crosses southern Spain, North Africa and the Middle East. NASA lists the longest totality as 6 minutes 23 seconds, near Luxor, Egypt."
+    a: "No. The path of totality crosses southern Spain, North Africa and the Middle East. NASA's eclipse page gives a central duration of 6 minutes 23 seconds for this eclipse."
   - q: "Why does the full moon fall on June 18 in the U.S. but June 19 elsewhere?"
     a: "The full moon happens at one instant worldwide: 00:44 Coordinated Universal Time (UTC) on June 19. That is still 8:44 p.m. on June 18 in New York and 5:44 p.m. in Los Angeles."
 sources:
@@ -89,7 +89,7 @@ downloads:
 draft: false
 ---
 
-**2027 has 12 full moons, one in every month**, starting with the Wolf Moon on Friday, Jan. 22 and ending with the Cold Moon on Monday, Dec. 13. There is no blue moon this time. The year also brings 13 new moons, the Harvest Moon on Wednesday, Sept. 15, and five eclipses. The longest of them, the total solar eclipse of Aug. 2, will not be visible from the United States. All times below are from the U.S. Naval Observatory (USNO), converted to U.S. time zones.
+**2027 has 12 full moons, one in every month**, starting with the Wolf Moon on Friday, Jan. 22 and ending with the Cold Moon on Monday, Dec. 13. There is no blue moon this time. The year also brings 13 new moons, the Harvest Moon on Wednesday, Sept. 15, and five eclipses. The total solar eclipse of Aug. 2 will not be visible from the United States. All times below are from the U.S. Naval Observatory (USNO), converted to Eastern Standard Time (EST), Eastern Daylight Time (EDT), Pacific Standard Time (PST) and Pacific Daylight Time (PDT).
 
 ## Full moon calendar 2027
 
@@ -110,13 +110,11 @@ draft: false
 
 The Moon looks full for about a day on either side of these times, so the evening before or after is just as good for viewing. Two dates depend on where you are. The Strawberry Moon is on June 19 in Universal Time but still June 18 across the United States, and the Beaver Moon is Nov. 14 in Europe and Nov. 13 in the U.S.
 
-The names are the traditional ones listed by the Old Farmer's Almanac, which draws on Native American, Colonial American and European sources. Our full moon printable lists all 12 with times in all four mainland U.S. zones.
+The names are the traditional ones listed by the Old Farmer's Almanac, which draws on Native American, Colonial American or other traditional North American sources; its September name is Corn Moon, also called the Harvest Moon. Our full moon printable lists all 12 with times in all four mainland U.S. zones.
 
 ## Harvest Moon and Hunter's Moon 2027
 
 The Harvest Moon is the full moon closest to the September equinox. In 2027 the equinox is Thursday, Sept. 23 at 2:02 a.m. EDT, and the nearest full moon is eight days earlier, on **Wednesday, Sept. 15**. The next full moon, the Hunter's Moon, is on Friday, Oct. 15.
-
-Sept. 15 is also the Mid-Autumn Festival in the Chinese calendar and Chuseok in Korea, both of which fall on the 15th day of the eighth lunar month.
 
 ## New moons 2027
 
@@ -144,26 +142,28 @@ New moon nights are the darkest of the month and the best for meteor showers and
 | Saturday, Feb. 6 | Annular solar | A "ring of fire" over southern South America, the South Atlantic and West Africa |
 | Saturday, Feb. 20 | Penumbral lunar | Greatest at 6:13 p.m. EST, shortly after moonrise in the eastern U.S.; the shading is subtle |
 | Sunday, July 18 | Penumbral lunar | So shallow (magnitude 0.0014) that it cannot be seen |
-| Monday, Aug. 2 | Total solar | Totality up to 6 min 23 s near Luxor, Egypt; path crosses Spain, North Africa and the Middle East |
+| Monday, Aug. 2 | Total solar | Central duration 6 min 23 s; path crosses Spain, North Africa and the Middle East |
 | Tuesday, Aug. 17 | Penumbral lunar | Greatest at 3:14 a.m. EDT, visible across the Americas as a faint shading |
 
-These come from NASA's eclipse list for 2027, which gives the Aug. 2 eclipse a maximum totality of 6 minutes 23 seconds, unusually long for a total eclipse. No total or partial lunar eclipse occurs in 2027, only the three penumbral ones.
+These come from NASA's eclipse list for 2027, which gives the Aug. 2 eclipse a central duration of 6 minutes 23 seconds. No total or partial lunar eclipse occurs in 2027, only the three penumbral ones.
 
 ## The phases, briefly
 
-The Moon takes about 29.5 days to go from new to new. NASA describes eight phases: new moon, waxing crescent, first quarter, waxing gibbous, full moon, waning gibbous, last quarter and waning crescent. Only four of them, the new moon, the two quarters and the full moon, are instants that can be timed to the minute. Those are the times in our tables. In the Northern Hemisphere the lit side grows from the right and shrinks from the right; south of the equator the picture is flipped.
+The Moon takes about 29.5 days to go from new to new. NASA describes eight phases: new moon, waxing crescent, first quarter, waxing gibbous, full moon, waning gibbous, third quarter and waning crescent. Only four of them, the new moon, the two quarters and the full moon, are instants that can be timed to the minute. Those are the times in our tables.
 
 The one-page moon phase calendar draws the Moon for every day of 2027 as it looks at noon Eastern Time. The monthly version adds the percentage lit and fits on a fridge next to a [January 2027 printable calendar](/january-calendars.html). For the whole year in one place, there is also our [2027 printable yearly calendar](/printable-yearly-calendar.html).
 
 ## 2027 seasons
 
-| Season begins | Date and time (Eastern) |
-|---|---|
-| Spring (March equinox) | Saturday, March 20, 4:25 p.m. EDT |
-| Summer (June solstice) | Monday, June 21, 10:11 a.m. EDT |
-| Fall (September equinox) | Thursday, Sept. 23, 2:02 a.m. EDT |
-| Winter (December solstice) | Tuesday, Dec. 21, 9:42 p.m. EST |
+| Event | Date and time (Eastern) | Universal Time (UT) |
+|---|---|---|
+| Earth at perihelion (closest to the Sun) | Saturday, Jan. 2, 9:33 p.m. EST | Jan. 3, 02:33 |
+| Spring (March equinox) | Saturday, March 20, 4:25 p.m. EDT | March 20, 20:25 |
+| Summer (June solstice) | Monday, June 21, 10:11 a.m. EDT | June 21, 14:11 |
+| Earth at aphelion (farthest from the Sun) | Monday, July 5, 1:06 a.m. EDT | July 5, 05:06 |
+| Fall (September equinox) | Thursday, Sept. 23, 2:02 a.m. EDT | Sept. 23, 06:02 |
+| Winter (December solstice) | Tuesday, Dec. 21, 9:42 p.m. EST | Dec. 22, 02:42 |
 
-Season times also come from the USNO. Daylight saving time in 2027 runs from Sunday, March 14 to Sunday, Nov. 7, which is why the times switch between EST and EDT. To plan Harvest Moon week, print the September page of the monthly moon calendar and pair it with a [September printable calendar](/september-calendars.html).
+Season times also come from the USNO, which lists them in Universal Time. The December solstice falls on Dec. 22 in Universal Time but is still the evening of Dec. 21 in the Eastern time zone, and the perihelion is on Jan. 3 in Universal Time but the evening of Jan. 2 in the Eastern time zone. Daylight saving time in 2027 runs from Sunday, March 14 to Sunday, Nov. 7, which is why the times switch between EST and EDT. To plan Harvest Moon week, print the September page of the monthly moon calendar and pair it with a [September printable calendar](/september-calendars.html).
 
 For this year's sky, see the [Hunter's Moon on Oct. 26](/news/hunters-moon-october-2026-full-moon-time/), the [Orionid meteor shower viewing times](/news/orionid-meteor-shower-2026-peak-october-21-22/) and [November 2026 meteor showers](/news/november-2026-meteor-showers-taurids-leonids/).

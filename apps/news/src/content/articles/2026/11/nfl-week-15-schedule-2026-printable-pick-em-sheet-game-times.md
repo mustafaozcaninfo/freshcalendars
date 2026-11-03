@@ -98,7 +98,7 @@ internalLinks:
     label: "December 2026 printable calendar"
   - href: "/printable-weekly-calendar.html"
     label: "Printable weekly calendar"
-related: [nfl-week-14-schedule-2026-printable-pick-em-sheet-game-times, printable-nfl-pickem-sheets-2026, nfl-week-16-schedule-2026-printable-pick-em-sheet-game-times]
+related: [nfl-week-14-schedule-2026-printable-pick-em-sheet-game-times, fantasy-football-playoffs-2026-weeks-trade-deadlines-espn-yahoo-sleeper, nfl-week-16-schedule-2026-printable-pick-em-sheet-game-times]
 draft: false
 ---
 

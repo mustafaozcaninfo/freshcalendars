@@ -66,6 +66,10 @@ const stories = walk(path.join(ROOT, ARTICLES)).flatMap((file) => {
     noindex: !!fm.noindex,
     corrections: (fm.corrections ?? []).length,
     downloads: (fm.downloads ?? []).length,
+    // Printable exceptions the manager reviews (news-article skill: kits are required by category).
+    kit: fm.assets?.printable?.kit ?? null,
+    noKit: typeof fm.assets?.printable?.noKit === "string" ? fm.assets.printable.noKit : null,
+    customPrintable: typeof fm.assets?.customPrintable === "string" ? fm.assets.customPrintable : null,
     publishedAt,
     updatedAt,
     words: body.replace(/<[^>]+>|[#*_>`|-]/g, " ").split(/\s+/).filter(Boolean).length,
@@ -290,6 +294,7 @@ const counts = {
   seoIssues: stories.filter((s) => s.seo?.length).length,
   duplicates: duplicates.filter((d) => !d.series).length,
   sourceIssues: sourceIssues.length,
+  printExceptions: stories.filter((s) => s.noKit || s.customPrintable).length,
 };
 const data = {
   generatedAt: now.toISOString(), today, origin: ORIGIN, counts, parseErrors, integrity, duplicates, sourceIssues,
@@ -309,6 +314,7 @@ console.log(`  ${counts.live} live (${counts.noindex} noindex) · ${counts.sched
 console.log(`  freshness: ${counts.urgent} urgent · ${counts.outdated} outdated · ${counts.review} to review`);
 console.log(`  ${counts.duplicates} possible duplicate pair(s) (+${duplicates.length - counts.duplicates} series pages) · ${counts.sourceIssues} source issue(s) · ${integrity.length} broken reference(s)`);
 console.log(seo ? `  SEO audit (build of ${seo.builtAt.slice(0, 16)}): ${seo.summary}` : `  SEO audit: skipped (${args.has("--no-audit") ? "--no-audit" : "no dist/news; run pnpm news:build first"})`);
+console.log(`  printables: ${stories.filter((s) => s.kit).length} drawn with a kit · ${counts.printExceptions} exception(s) to review (noKit / customPrintable)`);
 console.log(ci.error ? `  CI: unavailable (${ci.error})` : `  CI: last green ${data.ci.lastGreen?.sha ?? "none"} · ${pending.length} commit(s) on main after it`);
 if (parseErrors.length) console.log(`  ${parseErrors.length} story file(s) could not be read:\n    ${parseErrors.join("\n    ")}`);
 if (args.has("--open")) spawnSync("open", [out]);

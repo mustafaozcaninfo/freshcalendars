@@ -608,7 +608,7 @@ warn("10-PDF-TITLE", "Sheet heading does not use the words of its download title
 // Printable facts and freshness (docs/PRINTABLE-DESIGN-PLAN.md, scripts/lib/print-record.mjs). They apply to
 // stories whose printable carries a <slug>.print.json record (every `pnpm fc news-assets` run writes one)
 // and to every story published from PRINT_SINCE; older sheets are left as they shipped.
-const { PRINT_SINCE, RECORD_VERSION, factTokens, kitProblem, printableHash, readRecord, showToken } = await import("./lib/print-record.mjs");
+const { NAMES_VERSION, PRINT_SINCE, RECORD_VERSION, customProblem, unsupportedNames, factTokens, kitProblem, printableHash, readRecord, showToken } = await import("./lib/print-record.mjs");
 const { parse: parseYaml } = await import("yaml");
 const storySrc = new Map();
 (function walkMd(dir) {
@@ -628,20 +628,23 @@ const storyOf = (u) => {
   return { slug, fm, body: m[2], record: readRecord(slug), recent: String(fm.publishedAt ?? "").slice(0, 10) >= PRINT_SINCE };
 };
 const printStories = articleUrls.map((u) => [u, storyOf(u)]).filter(([, s]) => s);
-check("10-PDF-FACTS", "Every date, clock time, dollar amount and percentage on a printable also appears in its story (or was computed by the kit), so the sheet never says more than the story", () =>
+check("10-PDF-FACTS", "Every date, clock time, dollar amount and percentage on a printable, and every name and number in its kit data, also appears in its story (or was computed by the kit), so the sheet never says more than the story", () =>
   printStories.flatMap(([u, s]) => {
     if (!s.record && !s.recent) return [];
     // The story's own words: body plus frontmatter, minus the printable's rows and download blurbs.
     const { assets, downloads, ...rest } = s.fm;
     const have = factTokens(`${s.body}\n${JSON.stringify(rest)}`, { iso: true, story: true });
     for (const c of s.record?.computed ?? []) for (const k of factTokens(c)) have.add(k);
+    // Kit data from records of NAMES_VERSION on: every name and number must be in the story too.
+    const names = (s.record?.v ?? 1) >= NAMES_VERSION && s.fm.assets?.printable?.data ? unsupportedNames(s.fm.assets.printable.data, `${s.body}\n${JSON.stringify(rest)}`) : [];
+    const nameFail = names.length ? [`${u}: kit data names ${names.slice(0, 8).map((n) => `"${n}"`).join(", ")}${names.length > 8 ? ` and ${names.length - 8} more` : ""}, not in the story`] : [];
     const files = s.record ? s.record.files : pdfLinks(html[u]).filter((f) => !/-ink\.pdf$/.test(f));
     return files.flatMap((f) => {
       const r = pdfPrint.get(f);
       if (!r) return [];
       const missing = [...factTokens(r.all)].filter((k) => !have.has(k));
       return missing.length ? [`${u}: ${f} prints ${missing.slice(0, 8).map(showToken).join(", ")}${missing.length > 8 ? ` and ${missing.length - 8} more` : ""}, not in the story`] : [];
-    });
+    }).concat(nameFail);
   }));
 check("10-PDF-FRESH", "A story's printable PDF was drawn from its current assets.printable data (run pnpm fc news-assets <slug> after changing it)", () =>
   printStories.flatMap(([u, s]) => {
@@ -650,11 +653,13 @@ check("10-PDF-FRESH", "A story's printable PDF was drawn from its current assets
     if (!s.record) return s.recent ? [`${u}: no ${s.slug}.print.json; run pnpm fc news-assets ${s.slug}`] : [];
     return s.record.hash === printableHash(p) ? [] : [`${u}: assets.printable changed after the PDF was drawn; run pnpm fc news-assets ${s.slug}`];
   }));
-check("10-PDF-KIT", "Printables in a category with a topic kit use it, or say in noKit why none fits (owner's decision 2026-11-03; records drawn from then on)", () =>
+check("10-PDF-KIT", "Printables in a category with a topic kit use it, or say in noKit (custom generator: customPrintable) why none fits (owner's decision 2026-11-03)", () =>
   printStories.flatMap(([u, s]) => {
-    if ((s.record?.v ?? 1) < RECORD_VERSION) return [];
-    const why = kitProblem(s.fm.category, s.fm.assets?.printable);
-    return why ? [`${u}: ${why}`] : [];
+    const out = [];
+    if ((s.record?.v ?? 1) >= RECORD_VERSION) { const why = kitProblem(s.fm.category, s.fm.assets?.printable); if (why) out.push(`${u}: ${why}`); }
+    // A story's own generator module is the other way to make a PDF; from PRINT_SINCE it needs a reason too.
+    if (s.recent) { const why = customProblem(s.fm.category, s.fm.assets, s.record, pdfLinks(html[u])); if (why) out.push(`${u}: ${why}`); }
+    return out;
   }));
 check("10-PDF-NO-INK", `No ink-saver copies on stories published from ${PRINT_SINCE} (retired 2026-11-03: one color sheet per story)`, () =>
   printStories.flatMap(([u, s]) => (s.recent && pdfLinks(html[u]).some((f) => /-ink\.pdf$/.test(f)) ? [`${u}: lists an -ink PDF`] : [])));

@@ -36,6 +36,12 @@ Topics checked and not added, with the reason and a recheck date when the fact i
 - 2026-11-03: Canada CPP 2027 YMPE, federal tax brackets 2027 and TFSA 2027 (w1): not posted; brackets and TFSA usually late Nov. Recheck 2026-11-20.
 - 2026-11-03: UK personal allowance 2027-28 (w1): no official Budget text read; frozen per secondary sources only. Recheck when GOV.UK Budget documents open.
 - 2026-11-03: USPS and Canada Post 2027 stamp prices, RQAP 2027 rates, White House 2026 holiday tours, NHS England Christmas 2026 opening (w1): not announced or pages unreadable. Recheck 2026-11-20.
+- 2026-11-03: Fort Bend ISD, Pinellas County and Loudoun County 2026-27 calendars (w2): district pages 404, wrong year or truncated; dates only from news snippets and aggregators. Recheck 2026-11-10.
+- 2026-11-03: Child Tax Credit tax year 2026 amounts (w2): IRS page (updated Oct. 29, 2026) gives $2,200 / $1,700 refundable but ties them to 2025; Rev. Proc. 2025-32 PDF unreadable to the checker. Recheck 2026-11-17.
+- 2026-11-03: 2027 health FSA limit (w2, update of `fsa-2026-year-end-deadline-use-it-or-lose-it`): no IRS Rev. Proc. on 2027 inflation adjustments yet. Recheck 2026-11-20.
+- 2026-11-03: Updates of Miami-Dade, Broward, Palm Beach and NYC 2026-27 calendars (w2): Broward and Palm Beach official pages match our stories; Miami-Dade (503) and NYC (unreadable PDF) not checkable. No item. Recheck 2026-11-20.
+- 2026-11-03: LEGO advent calendars 2026 update (w3): lego.com category page 404; prices and stock only from third parties. Recheck 2026-11-15.
+- 2026-11-03: Duval County 2026-27 calendar (w2, stays blocked): duvalschools.org still a JavaScript shell; WOKV and Action News Jax run the same story (not independent), winter break "late December through January 1", no spring break dates. Recheck 2026-11-17.
 
 ## Runs
 
@@ -45,5 +51,8 @@ Topics checked and not added, with the reason and a recheck date when the fact i
 - 2026-11-03 (by hand, pattern extension): +5 w1 (uk-christmas-markets-2026-york-bath-cardiff-lincoln-belfast, christmas-light-trails-2026-uk-kew-blenheim-chatsworth-chester-zoo, winter-lights-across-canada-2026-ottawa-dates, winterlude-2027-dates-ottawa-gatineau, quebec-winter-carnival-2027-dates-night-parades), +8 w3 (boxing-schedule-december-2026-fight-dates-times, killington-cup-2026-world-cup-ski-race-times-tv, fury-vs-joshua-december-11-2026-fight-time, united-cup-2027-dates-schedule-time-zones, celtics/76ers/thunder/miami-heat December 2026 schedules), +0 updates; turned down: 7 groups to recheck.
 - 2026-11-03 (by hand): +3 w1 (ottawa-help-santa-toy-parade-2026-route-time, national-living-wage-april-2027-13-21-rates, ei-premium-rate-2027-maximum-insurable-earnings-canada); turned down: 3 to recheck.
 - 2026-11-03 (by hand): +3 w1 (kentucky-2027-election-calendar-filing-deadline-primary, scottish-budget-2026-date-december-3, lewes-polar-bear-plunge-2027-february-7); w1 and w3 queues at 16 open items.
+- 2026-11-03 10:55 ET: +0 w1, +4 w2 (act-december-12-2026, katy-isd-calendar-2026-27, dcps-calendar-2026-27, metro-nashville-schools-calendar-2026-27), +0 w3, +0 updates, unblocked: none (no recheck date due; duval-county-schools-calendar-2026-27 rechecked, still blocked); turned down: Fort Bend, Pinellas, Loudoun calendars (official pages unreadable), four Florida/NYC calendar updates (nothing changed or unreadable), LEGO advent update (404); recheck: Child Tax Credit 2026 (2026-11-17), 2027 FSA limit (2026-11-20).
 
 ## Update desk
+- 2026-11-03 10:14 ET: checked grand-slam-of-darts-2026-dates-november-14-22-format-prize-money-how-to-watch, toronto-santa-claus-parade-2026-sunday-november-22-route-citytv, survivor-series-wargames-2026-date-start-time-houston-espn, nothing changed (pdc.tv pages unreadable; recheck darts after the Nov. 6 qualifier)
+- 2026-11-03 12:24 ET: checked kennedy-center-honors-2026-date-december-7-capital-one-arena-broadcast, iheartradio-jingle-ball-2026-dates-lineup-by-city-abc-special, spotify-wrapped-2026-release-date-past-launch-dates, nothing changed (entertainment batch; ABC Jingle Ball Dec. 17 slot only on TV Insider, official release blocked: recheck when ABC or iHeartMedia confirms)

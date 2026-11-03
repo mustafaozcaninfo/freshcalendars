@@ -158,7 +158,10 @@ for (const b of branches) {
   const claim = b.name.match(/^claude\/desk-(?!run-)(.+)$/);
   if (claim) {
     const item = items.get(claim[1]);
-    if (!item) { if (NOW - b.time > 24 * H) attention.push(`claim ${b.name} has no item in a queue file on main (${ago(b.time)})`); }
+    // A self-found item gets its queue line only when its run merges, so a claim with no item is
+    // normal while that run works. Left for longer than STALL (an update that found nothing to
+    // change, a run that ended early) it would hide the story from every later run: delete it.
+    if (!item) { if (NOW - b.time > STALL) why = `no queue item, newest commit ${ago(b.time)}`; }
     else if (item.state === "done") why = "item ticked";
     else if (item.state === "blocked") why = "item blocked";
     else if (NOW - b.time > STALL && !writerBusy(item.writer)) why = `stalled, newest commit ${ago(b.time)}`;
@@ -190,6 +193,12 @@ for (const [code, name] of [["r", "Research desk"], ["u", "Update desk"]]) {
     || recent.some((p) => code === "u" && p.title.startsWith("[U]") && NOW - Date.parse(p.createdAt) < SILENT);
   if (!lately) attention.push(`${name} (${code}): no run on record for ${SILENT / H} hours; check its routine`);
 }
+// The daily Search Console read (.github/workflows/search-console.yml) commits its data to main; a
+// file older than 3 days means the job or its credentials failed. Checked only once a file exists.
+try {
+  const sc = JSON.parse(git("show", "origin/main:docs/desk/search-console.json"));
+  if (NOW - Date.parse(sc.generatedAt) > 3 * 24 * H) attention.push(`Search Console data is ${ago(Date.parse(sc.generatedAt))} old; check the "Search Console" workflow and its secrets`);
+} catch { /* not set up yet */ }
 const blocked = [...items].filter(([, it]) => it.state === "blocked")
   .map(([id, it]) => `- ${it.writer.toUpperCase()} \`${id}\` ${it.text.match(/^\(([^)]*)\)/)?.[1] ?? ""}`);
 
