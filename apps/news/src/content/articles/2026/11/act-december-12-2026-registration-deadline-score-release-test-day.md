@@ -3,7 +3,7 @@ title: "ACT December 12, 2026: Register by Nov. 6, Late Deadline Nov. 29, Scores
 seoTitle: "ACT Dec. 12, 2026: Deadlines, Scores, What to Bring"
 description: "ACT on Sat., Dec. 12, 2026: register by Fri., Nov. 6, late by Sun., Nov. 29, 11:59 p.m. Central Time (CT). Online scores Dec. 17, paper Dec. 22."
 type: explainer
-publishedAt: "2026-11-03T14:43:00-05:00"
+publishedAt: "2026-11-03T15:14:00-05:00"
 authors: [aaron-kessler]
 category: school-calendars
 keywords: ["ACT December 2026", "December ACT registration deadline", "December ACT scores release date", "ACT test day what to bring"]
@@ -41,8 +41,8 @@ assets:
         - { date: "2026-11-29", cells: { What: "Late registration deadline", Detail: "Late registration fee $42" }, src: 1, quote: "November 29" }
         - { date: "2026-12-07", cells: { What: "Photo upload and standby deadline", Detail: "Standby $75, refunded if denied admission" }, src: 1, quote: "December 7" }
         - { date: "2026-12-12", cells: { What: "Test day", Detail: "In by 8:00 a.m. local time; plastic photo ID, No. 2 pencils" }, src: 3, quote: "December 12, 2026" }
-        - { date: "2026-12-17", cells: { What: "Online scores", Detail: "Earliest online release" }, src: 2, quote: "Dec 17, 2026" }
-        - { date: "2026-12-22", cells: { What: "Paper scores", Detail: "Initial paper release" }, src: 2, quote: "Dec 22, 2026" }
+        - { date: "2026-12-17", cells: { What: "Online scores", Detail: "Initial online score release" }, src: 2, quote: "Dec 17, 2026" }
+        - { date: "2026-12-22", cells: { What: "Paper scores", Detail: "Initial paper score release" }, src: 2, quote: "Dec 22, 2026" }
 downloads:
   - group: "ACT December 12 printables"
     title: "ACT December 12, 2026 Deadlines and Test Day Checklist"
@@ -147,4 +147,4 @@ Without Science, the three required sections add up to 125 minutes (2 hours 5 mi
 
 ## Printable checklist
 
-<a id="printable-checklist"></a>The one-page sheet puts the six dates in order with the fees and test day items beside them. Mark Nov. 6 and Nov. 29 on the [November 2026 printable calendar](/november-calendars.html) and Dec. 12 on the [December 2026 printable calendar](/december-calendars.html). The full list of later dates is in our [SAT and ACT test dates for 2026-27](/news/sat-act-test-dates-2026-27-registration-deadlines/), and students packing a bag for the other test can read the [SAT checklist for Nov. 7](/news/sat-november-7-2026-test-day-checklist-what-to-bring-score-release-date/). Seniors applying early should also check the [early decision deadlines for 2026](/news/early-decision-deadlines-2026-november-1-sunday-college-list-uc-november-30/).
+<a id="printable-checklist"></a>The one-page sheet puts the six dates in order, each with a Detail column for its fee or test day items. Mark Nov. 6 and Nov. 29 on the [November 2026 printable calendar](/november-calendars.html) and Dec. 12 on the [December 2026 printable calendar](/december-calendars.html). The full list of later dates is in our [SAT and ACT test dates for 2026-27](/news/sat-act-test-dates-2026-27-registration-deadlines/), and students packing a bag for the other test can read the [SAT checklist for Nov. 7](/news/sat-november-7-2026-test-day-checklist-what-to-bring-score-release-date/). Seniors applying early should also check the [early decision deadlines for 2026](/news/early-decision-deadlines-2026-november-1-sunday-college-list-uc-november-30/).
