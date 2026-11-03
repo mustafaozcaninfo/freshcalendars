@@ -34,11 +34,15 @@ jobs:
         run: node scripts/news-gsc.mjs
       - name: Commit the data
         run: |
+          # The identity must be set for the whole step: the rebase below re-commits when main has moved.
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add docs/desk/search-console.json docs/desk/search-console.md
           if git diff --cached --quiet; then echo "nothing new"; exit 0; fi
-          git -c user.name="github-actions[bot]" -c user.email="41898282+github-actions[bot]@users.noreply.github.com" commit -q -m "desk: Search Console data of $(date -u +%F)"
+          git commit -q -m "desk: Search Console data of $(date -u +%F)"
           for i in 1 2 3; do
             git pull -q --rebase origin main && git push -q origin HEAD:main && exit 0
+            git rebase --abort 2>/dev/null || true
             sleep 5
           done
           exit 1
