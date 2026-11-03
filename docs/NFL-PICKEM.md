@@ -36,7 +36,7 @@ Club sites are official (the clubs publish the NFL schedule); 29 of 32 publish t
 
 1. **The week story** (`nfl-week-N-schedule-2026-*.md`): game table, time-zone table, summary and FAQ counts, its `assets.printable` rows; then `pnpm fc news-assets <slug>` and set `updatedAt`. Add the club schedule page to `sources:`.
 2. **Night-game guides** (`sunday-night-football-tonight-*`, `monday-night-football-tonight-*`) when a prime-time game moves.
-3. **KEY_DATES** (`apps/news/src/lib/keydates.ts`) if the moved game is listed there.
+3. **Key dates** (`apps/news/key-dates/<slug>.json`) if the moved game is listed there.
 4. The season PDFs in `public/downloads/nfl-2026-2027/` were drawn outside our generators (`PDF_LEGACY`); they cannot be redrawn here. Note the change for the site owner.
 
 Updates are silent (no "Updated" callout, no corrections entry): change the facts and `updatedAt`.
