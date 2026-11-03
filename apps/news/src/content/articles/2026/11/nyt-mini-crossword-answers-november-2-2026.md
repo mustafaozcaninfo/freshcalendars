@@ -35,6 +35,7 @@ internalLinks:
   - href: "/printable-weekly-calendar.html"
     label: "Printable weekly calendar"
 related: [wordle-hint-answer-today-november-2-2026-1962, nyt-connections-hints-answers-november-2-2026-1240, nyt-spelling-bee-hints-answers-november-2-2026]
+updatedAt: "2026-11-02T22:30:00-05:00"
 draft: false
 ---
 **The New York Times (NYT) Mini Crossword for Monday, Nov. 2, 2026, is a five-by-five grid with 10 clues by Joel Fagliano.** A black square fills each corner, so the top and bottom rows hold three letters and the three middle rows run the full width. Below is a hint for every clue, each one hidden until you open it, then the full answers in a marked spoiler section.
@@ -63,7 +64,7 @@ Start with 6-Across, a plain geography fact, and 1-Down, a Bible story most peop
 
 Keep a streak log on our [printable weekly calendar](/printable-weekly-calendar.html) or the [November 2026 printable calendar](/november-calendars.html).
 
-More of Monday's puzzles: [Wordle hints](/news/wordle-hint-answer-today-november-2-2026-1962/), [Connections hints](/news/nyt-connections-hints-answers-november-2-2026-1240/), [Strands hints](/news/nyt-strands-hints-answers-november-2-2026-974/), [Spelling Bee hints](/news/nyt-spelling-bee-hints-answers-november-2-2026/) and [Pips hints](/news/nyt-pips-hints-answers-november-2-2026/). Sunday's grid is in our [Mini answers for Nov. 1](/news/nyt-mini-crossword-answers-november-1-2026/).
+More of Monday's puzzles: [Wordle hints](/news/wordle-hint-answer-today-november-2-2026-1962/), [Connections hints](/news/nyt-connections-hints-answers-november-2-2026-1240/), [Strands hints](/news/nyt-strands-hints-answers-november-2-2026-974/), [Spelling Bee hints](/news/nyt-spelling-bee-hints-answers-november-2-2026/) and [Pips hints](/news/nyt-pips-hints-answers-november-2-2026/). Sunday's grid is in our [Mini answers for Nov. 1](/news/nyt-mini-crossword-answers-november-1-2026/), and Tuesday's in our [Mini answers for Nov. 3](/news/nyt-mini-crossword-answers-november-3-2026/).
 
 ## Today's NYT Mini answers (spoilers)
 
