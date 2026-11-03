@@ -118,7 +118,7 @@ export function rehypePuzzleBoards() {
     }
     if (p.game === "wordle" && spoiler) {
       const h = kids.indexOf(spoiler.h2);
-      const tool = wordleChecker();
+      const tool = wordleChecker(p.date);
       if (tool) inserts.push([h, tool]);
     }
 
@@ -708,10 +708,16 @@ function wordleRepeat(d, date) {
   return `<p>${title(w)} has been the answer before: ${before.map((i) => `Wordle #${i} on ${apDate(addDays(h.first, i))}`).join(", ")}.</p>`;
 }
 
-/** "Has this word been the Wordle answer before?" Placed above the spoiler, so it can never show today's answer. */
-function wordleChecker() {
-  const h = wordleHistory();
-  if (!h?.answers.length) return "";
+/**
+ * "Has this word been the Wordle answer before?" Placed above the spoiler, so it holds only answers
+ * from before the page's own date: a page rebuilt after its day never carries its own answer (or a
+ * later one) above the spoiler.
+ */
+function wordleChecker(date) {
+  const all = wordleHistory();
+  if (!all) return "";
+  const h = { first: all.first, answers: all.answers.filter((_, i) => addDays(all.first, i) < date) };
+  if (!h.answers.length) return "";
   const last = addDays(h.first, h.answers.length - 1);
   return `<form class="tool-box pz-track" data-wordle-check data-first="${h.first}" data-answers="${h.answers.join(" ")}" hidden novalidate>`
     + `<p class="tool-title">Has a word been the Wordle answer before?</p>`
