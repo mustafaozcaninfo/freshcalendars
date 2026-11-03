@@ -33,6 +33,8 @@ const articles = defineCollection({
         type: z.enum(["news", "explainer", "analysis", "update"]),
         publishedAt: isoDate,
         updatedAt: isoDate.optional(),
+        /** Pin as the news home lead until this time (lib/featured.ts). */
+        featuredUntil: isoDate.optional(),
         authors: z.array(reference("authors")).min(1),
         category: reference("categories"),
         keywords: z.array(z.string().min(2)).min(1).max(5),
@@ -98,6 +100,9 @@ const articles = defineCollection({
         noindex: z.boolean().default(false),
       })
       .superRefine((a, ctx) => {
+        if (a.featuredUntil && a.featuredUntil <= a.publishedAt) {
+          ctx.addIssue({ code: "custom", path: ["featuredUntil"], message: "featuredUntil must be after publishedAt" });
+        }
         if (a.updatedAt && a.updatedAt < a.publishedAt) {
           ctx.addIssue({ code: "custom", path: ["updatedAt"], message: "updatedAt is before publishedAt" });
         }
