@@ -15,12 +15,13 @@
  *                                         # Central live, West on tape: "8/7c"), eastern (only the
  *                                         # Eastern time is confirmed)
  *       src: 1
+ *       quote: "Wednesday, Nov. 18 at 8 p.m. ET on ABC"   # the source's words; must contain the date and time
  *   fill: { title: "My picks", labels: ["Entertainer of the Year", "Album of the Year"] }   # optional
  *   unconfirmed: [{ label: "Pacific broadcast", why: "ABC lists 8/7c only" }]
  * Times the kit converts are recorded as computed, so the audit does not ask the story to print them.
  */
 import { baseCss, fillLines, header, notes, page, sizeOf, unconfirmedBox } from "./components.js";
-import { DOW, DOWFULL, MON, Problems, esc, isObj, isoMoment, needSource, str, unconfirmedList, type Kit, type Unconfirmed } from "./kit.js";
+import { DOW, DOWFULL, MON, Problems, clockOf, esc, isObj, isoMoment, needQuote, needSource, offsetProblem, str, unconfirmedList, type Kit, type Unconfirmed } from "./kit.js";
 
 const ZONES = [["ET", "America/New_York"], ["CT", "America/Chicago"], ["MT", "America/Denver"], ["PT", "America/Los_Angeles"]] as const;
 const AIRINGS = ["live", "delayed", "eastern"] as const;
@@ -52,6 +53,8 @@ export const watchGuide: Kit<WatchGuide> = {
       if (!isObj(e)) { pr.add(`${at}: { start, title, channel?, stream?, src }`); continue; }
       const start = isoMoment(e.start);
       if (!start) pr.add(`${at}: start ${JSON.stringify(e.start)} must be an ISO time with its offset, e.g. 2026-11-18T20:00-05:00`);
+      else { const off = offsetProblem(e.start as string, ctx.category); if (off) pr.add(`${at}: ${off}`); }
+      if (start) needQuote(pr, at, e.quote, ctx, { days: [new Date(`${(e.start as string).slice(0, 10)}T00:00:00Z`)], clocks: [clockOf(e.start as string)] });
       if (!str(e.title) || e.title.length > 90) pr.add(`${at}: title, up to 90 characters`);
       for (const k of ["detail", "channel", "stream"] as const) if (e[k] !== undefined && (!str(e[k]) || (e[k] as string).length > 60)) pr.add(`${at}: ${k}, up to 60 characters`);
       const airing = (e.airing ?? "live") as Ev["airing"];
@@ -73,7 +76,7 @@ export const watchGuide: Kit<WatchGuide> = {
   },
 
   render(w, p, ctx) {
-    const t = ctx.theme, landscape = p.landscape ?? true, size = sizeOf(landscape);
+    const t = ctx.theme, landscape = p.landscape ?? true, size = sizeOf(landscape, ctx.paper);
     const computed = new Set<string>();
     const days = new Map<string, { label: string; rows: string[] }>();
     for (const e of w.events) {

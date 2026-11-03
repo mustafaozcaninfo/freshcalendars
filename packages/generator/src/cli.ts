@@ -184,6 +184,10 @@ async function main(): Promise<void> {
     } else if (cmd === "news-scenes") {
       const out = process.argv[3] && !process.argv[3].startsWith("--") ? process.argv[3] : undefined;
       await buildSceneGallery(out, argValue("--only")?.split(","));
+    } else if (cmd === "news-printables") {
+      const { buildPrintSheet } = await import("./newsPrintSheet.js");
+      const out = process.argv.slice(3).find((a) => a.endsWith(".png"));
+      await buildPrintSheet(argValue("--since"), out);
     } else if (cmd === "news-heroes") {
       await listHeroes();
     } else if (cmd === "news-photo") {
@@ -214,6 +218,7 @@ async function main(): Promise<void> {
   pnpm fc news-pickem [--weeks 9-12]       # NFL pick'em hub: weekly sheets, season sheets, story tables and downloads
   pnpm fc news-assets <slug>               # /news/ story hero (illustrated scene) and printable from frontmatter assets:
   pnpm fc news-scenes [out.png] [--only a,b] # contact sheet of hero scenes (3D where available)
+  pnpm fc news-printables [--since YYYY-MM-DD] [out.png] # contact sheet of printables changed since the date (default: last day)
   pnpm fc news-heroes                      # which scenes are taken and which heroes repeat (news-visuals skill)
   pnpm fc news-photo search "<q>|<q2>"     # licensed photo candidates (Commons, NASA, Openverse, Pexels) + numbered contact sheet
   pnpm fc news-photo use <slug> <n>        # crop to 16:9 WebP with credit and license record

@@ -9,13 +9,14 @@
  *   months: 10                  # 6 to 12
  *   events:
  *     - { from: "2026-08-03", kind: first, label: "First day of school", src: 2 }
- *     - { from: "2026-12-21", to: "2027-01-04", kind: break, label: "Holiday Break", src: 1 }
+ *     - { from: "2026-12-21", to: "2027-01-04", kind: break, label: "Holiday Break", src: 1,
+ *         quote: "Holiday Break Dec. 21 - Jan. 4" }          # source's words with both dates
  *   unconfirmed: [{ label: "Last day of school", why: "not on the district's list" }]
  *   family: ["Conferences", "Picture day"]   # optional fill-in labels
  * kinds: first, last, break, holiday, remote (digital learning / no report), early (early release)
  */
 import { baseCss, fillLines, header, notes, page, sizeOf, tiles, unconfirmedBox } from "./components.js";
-import { DOW, MONTHS, Problems, eachDay, esc, isObj, isoDay, isoOf, needSource, str, unconfirmedList, type Kit, type Unconfirmed } from "./kit.js";
+import { DOW, MONTHS, Problems, eachDay, esc, isObj, isoDay, isoOf, needQuote, needSource, str, unconfirmedList, type Kit, type Unconfirmed } from "./kit.js";
 
 const KINDS = ["first", "last", "break", "holiday", "remote", "early"] as const;
 type KindName = (typeof KINDS)[number];
@@ -51,6 +52,7 @@ export const schoolYear: Kit<SchoolYear> = {
       if (!KINDS.includes(e.kind as KindName)) pr.add(`${at}: kind must be one of ${KINDS.join(", ")}`);
       if (!str(e.label) || e.label.length > 60) pr.add(`${at}: label, up to 60 characters`);
       needSource(pr, `${at} "${String(e.label ?? "")}"`, e.src, ctx);
+      if (from && to) needQuote(pr, `${at} "${String(e.label ?? "")}"`, e.quote, ctx, { days: from.getTime() === to.getTime() ? [from] : [from, to] });
       if (from && to && (from < first || to > last)) pr.add(`${at}: ${isoOf(from)} is outside the months shown`);
       if (from && to && to >= from && KINDS.includes(e.kind as KindName) && str(e.label)) events.push({ from, to, kind: e.kind as KindName, label: e.label });
     }
@@ -69,7 +71,7 @@ export const schoolYear: Kit<SchoolYear> = {
   },
 
   render(k, p, ctx) {
-    const t = ctx.theme, landscape = p.landscape ?? false, size = sizeOf(landscape);
+    const t = ctx.theme, landscape = p.landscape ?? false, size = sizeOf(landscape, ctx.paper);
     const byDay = new Map<string, Ev>();
     for (const e of k.events) for (const d of eachDay(e.from, e.to)) byDay.set(isoOf(d), e);
     const grids: string[] = [], perMonth: [string, number][] = [];

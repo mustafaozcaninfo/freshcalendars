@@ -4,6 +4,7 @@ seoTitle: "Pokémon GO Events November 2026: Dates and Times"
 description: "Pokémon GO's November 2026 Community Day features Pawniard on Sat., Nov. 21, 2 to 5 p.m. local time; Halloween Part II runs Nov. 1 to Nov. 5."
 type: explainer
 publishedAt: "2026-10-28T19:43:00-04:00"
+updatedAt: "2026-11-03T10:28:00-05:00"
 authors: [jessica-hartwell]
 category: gaming-tech
 keywords: ["pokemon go events november 2026", "pokemon go community day november 2026", "pawniard community day", "pokemon go halloween 2026 part 2", "pokemon go wild area global 2026"]
@@ -17,32 +18,37 @@ assets:
     slug: pokemon-go-events-calendar-november-2026
     group: pokemon-go-2026
     title: "Pokémon GO Events Calendar, November 2026"
-    subtitle: "Official event dates, Oct. 29 to Dec. 3, plus GO Tour 2027"
+    subtitle: "Official event dates, Oct. 30 to Dec. 3, plus GO Tour 2027"
     layout: list
     rows:
-      - ["Fri., Oct. 30 to Sat., Oct. 31", "Chandelure Super Mega Raid Day bonuses: 8 p.m. EDT Fri. to 11 p.m. EDT Sat."]
       - ["Sat., Oct. 31, 2 to 5 p.m.", "Chandelure Super Mega Raid Day (local time)"]
       - ["Sun., Nov. 1, 10 a.m.", "Halloween 2026 Part II starts (local time)"]
       - ["Tue., Nov. 3, 10 a.m.", "GO Pass: November starts (local time)"]
       - ["Thu., Nov. 5, 8 p.m.", "Halloween Part II and GO Pass: Halloween end"]
-      - ["Fri., Nov. 6 to Sun., Nov. 8", "Wild Area citywide events: Sendai and Mexico City"]
+      - ["Tue., Nov. 3 to Tue., Dec. 1", "GO Battle League cups change weekly (1 p.m. Pacific Time)"]
+      - ["Fri., Nov. 6 to Sun., Nov. 8", "Wild Area: Sendai and Mexico City; ticket add-ons active"]
       - ["Sat., Nov. 7, 8 p.m.", "GO Pass: Halloween rewards expire"]
-      - ["Sat., Nov. 14, 10 a.m.", "Dynamax Trails early access; Karlsruhe Wild Area (10 a.m. to 8 p.m.)"]
+      - ["Mon., Nov. 9, 10 a.m.", "Into the Wild and GO Pass: Into the Wild start (local time)"]
+      - ["Mon., Nov. 9 to Fri., Nov. 13", "6 to 7 p.m.: Raid Hours (Zacian, Zamazenta), Max Battles (Registeel, Regidrago, Latias, Latios)"]
+      - ["Fri., Nov. 13, 8 p.m.", "Into the Wild ends (local time)"]
+      - ["Sat., Nov. 14, 10 a.m.", "Wild Area: Global Special Research; Dynamax Trails early access; Karlsruhe (to 8 p.m.)"]
       - ["Sat., Nov. 14, 5 p.m.", "Minior Leonids starts; sky effect 5 to 9 p.m. daily"]
-      - ["Sun., Nov. 15", "Stockholm Wild Area, 10 a.m. to 6 p.m. local time"]
+      - ["Sun., Nov. 15", "Stockholm Wild Area, 10 a.m. to 6 p.m.; GO Pass: Into the Wild ends 6 p.m."]
       - ["Mon., Nov. 16, 10 a.m.", "Dynamax Trails event starts (Eternamax Eternatus)"]
+      - ["Thu., Nov. 19, 6 to 7 p.m.", "Spotlight Hour: Grookey, Scorbunny, Sobble"]
       - ["Thu., Nov. 19, 11:59 p.m.", "Minior Leonids ends (local time)"]
-      - ["Sat., Nov. 21, 2 to 5 p.m.", "Pawniard Community Day (bonuses to 9 p.m.)"]
+      - ["Sat., Nov. 21, 11 a.m. to 2 p.m.", "Eternamax Eternatus at most Power Spots"]
+      - ["Sat., Nov. 21, 2 to 5 p.m.", "Pawniard Community Day (Kingambit evolution to 9 p.m.)"]
       - ["Mon., Nov. 23, 8 p.m.", "Dynamax Trails event ends (local time)"]
+      - ["Tue., Nov. 24, 10 a.m.", "Twilight Wishes starts (ends Mon., Nov. 30, 8 p.m.)"]
       - ["Wed., Nov. 25, 8 p.m.", "Dynamax Trails GO Pass rewards expire"]
       - ["Sat., Nov. 28", "Super Mega Raid Day (times and Pokémon not announced)"]
-      - ["Sat., Nov. 28 to Sun., Nov. 29", "GO Pass: No daily cap on GO Points, 12:00 a.m. to 11:59 p.m."]
+      - ["Sat., Nov. 28 to Sun., Nov. 29", "GO Pass: no daily GO Points cap"]
       - ["Tue., Dec. 1, 10 a.m.", "Twilight Trails season and GO Pass: November end"]
       - ["Thu., Dec. 3, 10 a.m.", "GO Pass: November rewards expire"]
       - ["Feb. 19 to Feb. 21, 2027", "GO Tour 2027: Kaohsiung and Los Angeles"]
       - ["Feb. 27 to Feb. 28, 2027", "GO Tour 2027: Global"]
-    note: "Source: Pokémon GO official news (pokemongo.com), checked Oct. 28, 2026. All times local unless marked."
-    inkSaver: true
+    note: "Source: Pokémon GO official news (pokemongo.com), checked Nov. 3, 2026. All times local unless marked."
     description: "One-page Pokémon GO events calendar for November 2026 with official dates from Oct. 30 to Dec. 3 and the GO Tour 2027 dates. Free to print."
     alt: "Printable Pokémon GO events calendar for November 2026 with a tick box beside each official event date"
 hero:
@@ -58,15 +64,15 @@ hero:
 summary:
   - "Pokémon GO's official site says the November 2026 Community Day features Pawniard on Saturday, Nov. 21, from 2 to 5 p.m. local time."
   - "Halloween 2026 Part II runs from Sunday, Nov. 1, 10 a.m. to Thursday, Nov. 5, 8 p.m. local time."
-  - "Wild Area: Global is on Nov. 14 and 15, 2026, with in-person events in Karlsruhe and Stockholm."
-  - "Spotlight Hour, Raid Hour and Max Monday details for November are not yet announced on the official site."
+  - "Into the Wild runs Nov. 9 to 13, Dynamax Trails Nov. 16 to 23 and Twilight Wishes Nov. 24 to 30, 2026, all on the official site."
+  - "Max Monday, Research Day and the Nov. 28 Super Mega Raid Day times and Pokémon are not yet announced on the official site."
 faq:
   - q: "When is the Pokémon GO Community Day in November 2026?"
     a: "Saturday, Nov. 21, 2026, from 2 to 5 p.m. local time, with Pawniard featured, per Pokémon GO's official news site."
   - q: "When does Halloween 2026 Part II end in Pokémon GO?"
     a: "It ends Thursday, Nov. 5, 2026, at 8 p.m. local time. Part II started Sunday, Nov. 1, at 10 a.m. local time."
   - q: "When is Wild Area: Global 2026?"
-    a: "On Nov. 14 and 15, 2026, per the official site. Tickets and details are available next Season and are not yet announced."
+    a: "On Nov. 14 and 15, 2026, with in-person events in Karlsruhe and Stockholm. Wild Area: Global Special Research begins Sat., Nov. 14, at 10 a.m. local time."
   - q: "When is GO Tour 2027?"
     a: "Kaohsiung, Taiwan and Los Angeles host it from Friday, Feb. 19 to Sunday, Feb. 21, 2027. The Global event is Sat., Feb. 27 and Sun., Feb. 28, 2027."
   - q: "When does the Twilight Trails season end?"
@@ -75,7 +81,7 @@ sources:
   - title: "Pawniard Community Day, November 2026"
     url: "https://pokemongo.com/news/communityday-november-2026-pawniard"
     publisher: "Pokémon GO (official site)"
-    date: "2026-10-28"
+    date: "2026-11-03"
   - title: "Halloween 2026 Part II"
     url: "https://pokemongo.com/news/halloween-part-2-2026"
     publisher: "Pokémon GO (official site)"
@@ -103,6 +109,23 @@ sources:
   - title: "Dynamax Trails: Eternamax Eternatus 2026"
     url: "https://pokemongo.com/news/dynamax-trails-eternamax-eternatus-2026"
     publisher: "Pokémon GO (official site)"
+    date: "2026-11-03"
+  - title: "Into the Wild 2026"
+    url: "https://pokemongo.com/news/into-the-wild-2026"
+    publisher: "Pokémon GO (official site)"
+    date: "2026-11-03"
+  - title: "GO Battle League: Twilight Trails Update"
+    url: "https://pokemongo.com/en/news/go-battle-league-twilight-trails"
+    publisher: "Pokémon GO (official site)"
+    date: "2026-11-03"
+  - title: "Twilight Wishes 2026"
+    url: "https://pokemongo.com/news/twilight-wishes-2026"
+    publisher: "Pokémon GO (official site)"
+    date: "2026-11-03"
+  - title: "Get ready for GO Wild Area 2026"
+    url: "https://pokemongo.com/news/get-ready-for-gowildarea-2026"
+    publisher: "Pokémon GO (official site)"
+    date: "2026-11-03"
   - title: "Save the Date: next season"
     url: "https://pokemongo.com/news/save-the-date-s24"
     publisher: "Pokémon GO (official site)"
@@ -140,7 +163,7 @@ draft: false
 
 **Pokémon GO's official news site lists the November 2026 Community Day as Pawniard on Saturday, Nov. 21, from 2 to 5 p.m. local time, and Halloween 2026 Part II as running from Sunday, Nov. 1 to Thursday, Nov. 5.** This page puts every officially announced event from Oct. 29 to Dec. 1 in one dated table, adds the 2027 GO Tour dates, and ends with a free printable to tick off.
 
-<p class="callout"><b>Checked Oct. 28, 2026.</b> All times are local to the player unless marked. Spotlight Hour, Raid Hour, Max Monday, Research Day and GO Battle League details for November are not yet announced on the official site, so they are not listed here.</p>
+<p class="callout"><b>Checked Nov. 3, 2026.</b> All times are local to the player unless marked. Max Monday and Research Day for November are not yet announced on the official site, so they are not listed here.</p>
 
 ## What are the Pokémon GO events from Oct. 29 to Dec. 1, 2026?
 
@@ -153,11 +176,16 @@ Weekdays are computed from the dates. Every row comes from a page on pokemongo.c
 | Sat., Oct. 31 | Chandelure Super Mega Raid Day | 2 to 5 p.m. |
 | Sun., Nov. 1 to Thu., Nov. 5 | Halloween 2026 Part II | Nov. 1, 10 a.m. to Nov. 5, 8 p.m. |
 | Tue., Nov. 3 to Tue., Dec. 1 | GO Pass: November | Nov. 3, 10 a.m. to Dec. 1, 10 a.m. |
-| Fri., Nov. 6 to Sun., Nov. 8 | Wild Area citywide events, Sendai and Mexico City | Dates only on the save-the-date page |
-| Sat., Nov. 14 and Sun., Nov. 15 | Wild Area: Global | Details not yet announced |
+| Tue., Nov. 3 to Tue., Dec. 1 | GO Battle League cups (see below) | Cups begin and end at 1 p.m. Pacific Time |
+| Fri., Nov. 6 to Sun., Nov. 8 | Wild Area citywide events, Sendai and Mexico City; ticket add-ons active | Dates on the official pages |
+| Mon., Nov. 9 to Fri., Nov. 13 | Into the Wild | Nov. 9, 10 a.m. to Nov. 13, 8 p.m. |
+| Sat., Nov. 14 and Sun., Nov. 15 | Wild Area: Global (Global Special Research begins Nov. 14) | Nov. 14, 10 a.m. |
 | Sat., Nov. 14 to Thu., Nov. 19 | Minior Leonids | Nov. 14, 5 p.m. to Nov. 19, 11:59 p.m. |
 | Mon., Nov. 16 to Mon., Nov. 23 | Dynamax Trails (Eternamax Eternatus) | Nov. 16, 10 a.m. to Nov. 23, 8 p.m. |
+| Thu., Nov. 19 | Spotlight Hour: Grookey, Scorbunny, Sobble | 6 to 7 p.m. |
+| Sat., Nov. 21 | Eternamax Eternatus at most Power Spots | 11 a.m. to 2 p.m. |
 | Sat., Nov. 21 | Pawniard Community Day | 2 to 5 p.m. |
+| Tue., Nov. 24 to Mon., Nov. 30 | Twilight Wishes | Nov. 24, 10 a.m. to Nov. 30, 8 p.m. |
 | Sat., Nov. 28 | Super Mega Raid Day | Times and Pokémon not yet announced |
 | Tue., Dec. 1 | Twilight Trails season ends | 10 a.m. |
 
@@ -165,7 +193,7 @@ The Twilight Trails season page gives its span as Sept. 8 at 10 a.m. to Dec. 1, 
 
 ## What is Pawniard Community Day on Nov. 21, 2026?
 
-Pokémon GO says the event runs Saturday, Nov. 21, 2026, from 2 to 5 p.m. local time. Bonuses and the spawn window run 2 to 9 p.m. local time, and the evolution requirement returns to normal at 9 p.m. that day. A shiny Pokémon and a special background are possible, not guaranteed.
+Pokémon GO says the event runs Saturday, Nov. 21, 2026, from 2 to 5 p.m. local time. A limited-time evolution lets Bisharp turn into Kingambit after you defeat 1 Dark- or Steel-type Raid Boss with Bisharp as your buddy, until 9 p.m. local time that day. Eternamax Eternatus is at most Power Spots from 11 a.m. to 2 p.m. local time the same day, so that window ends as Community Day starts. A shiny Pokémon and a special background are possible, not guaranteed.
 
 The page, updated Oct. 28, 2026, says an Ultra Ticket Box ($1.99) is "available soon". The Special Research ticket is marked "stay tuned", so its price is not yet announced.
 
@@ -189,13 +217,36 @@ The Global Challenge and Remote Raid bonus runs "Friday, October 30, at 5:00 p.m
 
 The save-the-date page says citywide events are in Sendai, Japan, and Mexico City "from November 6 to November 8, 2026," and Wild Area: Global is "on November 14 and 15, 2026."
 
-For Europe, the official page lists in-person events in Karlsruhe on Saturday, Nov. 14, from 10 a.m. to 8 p.m. local time, and in Stockholm on Sunday, Nov. 15, from 10 a.m. to 6 p.m. local time. Tickets and details for the Global event are "available next Season", so they are not yet announced.
+For Europe, the official page lists in-person events in Karlsruhe on Saturday, Nov. 14, from 10 a.m. to 8 p.m. local time, and in Stockholm on Sunday, Nov. 15, from 10 a.m. to 6 p.m. local time. Wild Area: Global Special Research begins Saturday, Nov. 14, at 10 a.m. local time, and ticket add-ons are active from Friday, Nov. 6 through Sunday, Nov. 8, 2026.
+
+## What are the Into the Wild events from Nov. 9 to 15, 2026?
+
+Into the Wild runs Monday, Nov. 9, at 10 a.m. to Friday, Nov. 13, 2026, at 8 p.m. local time. Raid Hours are 6 to 7 p.m. local time: Crowned Sword Zacian on Monday, Nov. 9, and Crowned Shield Zamazenta on Tuesday, Nov. 10. Hour of Max Battles is 6 to 7 p.m. local time: Registeel on Wednesday, Nov. 11, Regidrago on Thursday, Nov. 12, and Latias and Latios on Friday, Nov. 13.
+
+The Remote Raid daily limit is 30 from Nov. 9 to 13. Daily Discoveries will not take place from Nov. 9 through Nov. 15, 2026. GO Pass: Into the Wild runs from Monday, Nov. 9, at 10 a.m. to Sunday, Nov. 15, at 6 p.m. local time, and rewards can be claimed until Tuesday, Nov. 17, at 11:59 p.m. local time.
+
+## What are the GO Battle League cups in November 2026?
+
+The official GO Battle League page lists these cups, which begin and end at 1 p.m. Pacific Time.
+
+| Dates | Cups |
+|---|---|
+| Nov. 3 to Nov. 10 | Great, Ultra and Master League: Mega Edition |
+| Nov. 10 to Nov. 17 | Great League, Ultra League: Mega Edition, 2026 GO Latin America International Championships (LAIC) Cup |
+| Nov. 18 to Nov. 25 | Ultra League, Master League: Mega Edition, 2026 GO LAIC Cup |
+| Nov. 24 to Dec. 1 | Master League, Mega Catch Cup: Great League Edition |
 
 ## What else runs in mid-November?
 
 Minior Leonids runs from Nov. 14 at 5 p.m. to Nov. 19 at 11:59 p.m. local time, and the page puts the sky effect at 5 to 9 p.m. local time every day. For the real meteor shower, see our [November 2026 meteor showers guide](/news/november-2026-meteor-showers-taurids-leonids/).
 
 Dynamax Trails, featuring Eternamax Eternatus, has early access on Saturday, Nov. 14, at 10 a.m. local time. The event runs Monday, Nov. 16, at 10 a.m. to Monday, Nov. 23, 2026, at 8 p.m. local time, and its GO Pass rewards expire Wednesday, Nov. 25, at 8 p.m. local time.
+
+Spotlight Hour is Thursday, Nov. 19, from 6 to 7 p.m. local time, with Grookey, Scorbunny and Sobble (shiny possible) and bonus 2x Catch Candy. Eternamax Eternatus takes over most Power Spots on Saturday, Nov. 21, from 11 a.m. to 2 p.m. local time. The Remote Raid daily limit rises from 10 to 30 from Nov. 20 at 1 p.m. to Nov. 21 at 6 p.m. Pacific Standard Time (PST).
+
+## What is Twilight Wishes?
+
+Twilight Wishes runs Tuesday, Nov. 24, at 10 a.m. to Monday, Nov. 30, 2026, at 8 p.m. local time.
 
 ## What does GO Pass: November cover?
 
@@ -211,4 +262,4 @@ The printable lists the dated rows above from Oct. 30 to Dec. 3, plus the 2027 G
 
 ## How we keep this accurate
 
-Every date and time comes from the pokemongo.com pages in the sources list, checked Oct. 28, 2026. When Niantic and The Pokémon Company post Spotlight Hour, Raid Hour or the Nov. 28 raid details, this story and the printable change together.
+Every date and time comes from the pokemongo.com pages in the sources list, checked Nov. 3, 2026. When Niantic and The Pokémon Company post Max Monday, Research Day or the Nov. 28 raid details, this story and the printable change together.

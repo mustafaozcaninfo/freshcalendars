@@ -158,7 +158,10 @@ for (const b of branches) {
   const claim = b.name.match(/^claude\/desk-(?!run-)(.+)$/);
   if (claim) {
     const item = items.get(claim[1]);
-    if (!item) { if (NOW - b.time > 24 * H) attention.push(`claim ${b.name} has no item in a queue file on main (${ago(b.time)})`); }
+    // A self-found item gets its queue line only when its run merges, so a claim with no item is
+    // normal while that run works. Left for longer than STALL (an update that found nothing to
+    // change, a run that ended early) it would hide the story from every later run: delete it.
+    if (!item) { if (NOW - b.time > STALL) why = `no queue item, newest commit ${ago(b.time)}`; }
     else if (item.state === "done") why = "item ticked";
     else if (item.state === "blocked") why = "item blocked";
     else if (NOW - b.time > STALL && !writerBusy(item.writer)) why = `stalled, newest commit ${ago(b.time)}`;
