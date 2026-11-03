@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-03T18:41:55.989Z",
+ "generatedAt": "2026-11-03T18:51:03.115Z",
  "site": "sc-domain:freshcalendars.com",
  "windows": [
   {
@@ -199,6 +199,14 @@
    "missing": 52
   },
   {
+   "query": "dia de los muertos 2026 calendar",
+   "page": "https://freshcalendars.com/news/day-of-the-dead-2026-dia-de-los-muertos-dates/",
+   "impressions": 713,
+   "clicks": 20,
+   "position": 2.8,
+   "missing": 51
+  },
+  {
    "query": "2026 thanksgiving",
    "page": "https://freshcalendars.com/news/why-thanksgiving-2026-is-november-26/",
    "impressions": 464,
@@ -253,6 +261,14 @@
    "clicks": 0,
    "position": 9.1,
    "missing": 30
+  },
+  {
+   "query": "day of the dead 2026 schedule",
+   "page": "https://freshcalendars.com/news/day-of-the-dead-2026-dia-de-los-muertos-dates/",
+   "impressions": 935,
+   "clicks": 5,
+   "position": 6.2,
+   "missing": 28
   },
   {
    "query": "2027 stat holidays canada",
@@ -319,6 +335,14 @@
    "missing": 22
   },
   {
+   "query": "dia de los muertos 2026 schedule",
+   "page": "https://freshcalendars.com/news/day-of-the-dead-2026-dia-de-los-muertos-dates/",
+   "impressions": 627,
+   "clicks": 1,
+   "position": 7.2,
+   "missing": 21
+  },
+  {
    "query": "are banks open on election day 2026",
    "page": "https://freshcalendars.com/news/is-election-day-a-holiday-2026-whats-open/",
    "impressions": 448,
@@ -332,6 +356,14 @@
    "impressions": 636,
    "clicks": 3,
    "position": 7.1,
+   "missing": 19
+  },
+  {
+   "query": "day of the dead calendar 2026",
+   "page": "https://freshcalendars.com/news/day-of-the-dead-2026-dia-de-los-muertos-dates/",
+   "impressions": 560,
+   "clicks": 1,
+   "position": 8.2,
    "missing": 19
   },
   {
@@ -423,14 +455,6 @@
    "missing": 13
   },
   {
-   "query": "dia de los muertos 2026 calendar",
-   "page": "https://freshcalendars.com/news/day-of-the-dead-2026-dia-de-los-muertos-dates/",
-   "impressions": 319,
-   "clicks": 20,
-   "position": 2.8,
-   "missing": 12
-  },
-  {
    "query": "diwali 2026 date usa",
    "page": "https://freshcalendars.com/news/diwali-2026-date-lakshmi-puja-time-usa/",
    "impressions": 579,
@@ -445,106 +469,12 @@
    "clicks": 1,
    "position": 8.9,
    "missing": 11
-  },
-  {
-   "query": "day of the dead calendar 2026",
-   "page": "https://freshcalendars.com/news/day-of-the-dead-2026-dia-de-los-muertos-dates/",
-   "impressions": 329,
-   "clicks": 1,
-   "position": 7.1,
-   "missing": 11
-  },
-  {
-   "query": "ballon d'or time est",
-   "page": "https://freshcalendars.com/news/ballon-dor-2026-date-time-by-time-zone-nominees-london/",
-   "impressions": 322,
-   "clicks": 0,
-   "position": 7.7,
-   "missing": 11
-  },
-  {
-   "query": "diwali in usa 2026",
-   "page": "https://freshcalendars.com/news/diwali-2026-date-lakshmi-puja-time-usa/",
-   "impressions": 537,
-   "clicks": 0,
-   "position": 10.7,
-   "missing": 11
   }
  ],
  "movers": {
   "decliners": [],
-  "risers": [
-   {
-    "page": "https://freshcalendars.com/news/is-election-day-a-holiday-2026-whats-open/",
-    "clicks": 344,
-    "prevClicks": 0,
-    "impressions": 11582,
-    "prevImpressions": 0
-   },
-   {
-    "page": "https://freshcalendars.com/news/sample-ballot-by-zip-code-2026-texas-ballot/",
-    "clicks": 289,
-    "prevClicks": 0,
-    "impressions": 28461,
-    "prevImpressions": 0
-   },
-   {
-    "page": "https://freshcalendars.com/news/free-rides-to-the-polls-2026-lyft-uber-transit/",
-    "clicks": 196,
-    "prevClicks": 0,
-    "impressions": 1620,
-    "prevImpressions": 0
-   },
-   {
-    "page": "https://freshcalendars.com/news/nyt-connections-hints-answers-november-1-2026-1239/",
-    "clicks": 158,
-    "prevClicks": 0,
-    "impressions": 9812,
-    "prevImpressions": 0
-   },
-   {
-    "page": "https://freshcalendars.com/news/nyt-connections-hints-answers-october-26-2026-1233/",
-    "clicks": 136,
-    "prevClicks": 0,
-    "impressions": 14228,
-    "prevImpressions": 0
-   },
-   {
-    "page": "https://freshcalendars.com/news/day-of-the-dead-2026-dia-de-los-muertos-dates/",
-    "clicks": 122,
-    "prevClicks": 0,
-    "impressions": 9987,
-    "prevImpressions": 0
-   },
-   {
-    "page": "https://freshcalendars.com/news/printable-pumpkin-carving-templates/",
-    "clicks": 81,
-    "prevClicks": 0,
-    "impressions": 1562,
-    "prevImpressions": 0
-   },
-   {
-    "page": "https://freshcalendars.com/news/nyt-connections-hints-answers-october-30-2026-1237/",
-    "clicks": 75,
-    "prevClicks": 0,
-    "impressions": 14288,
-    "prevImpressions": 0
-   },
-   {
-    "page": "https://freshcalendars.com/news/nhl-hometown-remix-jerseys-2026-27-unveil-date-game-schedule/",
-    "clicks": 72,
-    "prevClicks": 0,
-    "impressions": 1547,
-    "prevImpressions": 0
-   },
-   {
-    "page": "https://freshcalendars.com/news/printable-nfl-schedule-2026-2027-pdf/",
-    "clicks": 57,
-    "prevClicks": 0,
-    "impressions": 1171,
-    "prevImpressions": 0
-   }
-  ]
+  "risers": [],
+  "note": "the earlier 14 days hold too little data to compare"
  },
  "cannibalization": [
   {
@@ -566,222 +496,6 @@
    "total": 1596
   },
   {
-   "query": "day of the dead 2026 schedule",
-   "pages": [
-    {
-     "page": "https://freshcalendars.com/news/day-of-the-dead-2026-dia-de-los-muertos-dates/",
-     "impressions": 232,
-     "clicks": 5,
-     "position": 5.7
-    },
-    {
-     "page": "https://freshcalendars.com/news/day-of-the-dead-2026-dia-de-los-muertos-dates/#building-an-ofrenda",
-     "impressions": 83,
-     "clicks": 0,
-     "position": 4.8
-    },
-    {
-     "page": "https://freshcalendars.com/news/day-of-the-dead-2026-dia-de-los-muertos-dates/#day-of-the-dead-2026-dates",
-     "impressions": 83,
-     "clicks": 0,
-     "position": 4.8
-    },
-    {
-     "page": "https://freshcalendars.com/news/day-of-the-dead-2026-dia-de-los-muertos-dates/#what-the-two-days-mean",
-     "impressions": 83,
-     "clicks": 0,
-     "position": 4.8
-    },
-    {
-     "page": "https://freshcalendars.com/news/day-of-the-dead-2026-dia-de-los-muertos-dates/#day-of-the-dead-in-mexico-city-in-2026",
-     "impressions": 67,
-     "clicks": 0,
-     "position": 7.1
-    },
-    {
-     "page": "https://freshcalendars.com/news/day-of-the-dead-2026-dia-de-los-muertos-dates/#day-of-the-dead-in-the-united-states-in-2026",
-     "impressions": 67,
-     "clicks": 0,
-     "position": 7.1
-    },
-    {
-     "page": "https://freshcalendars.com/news/day-of-the-dead-2026-dia-de-los-muertos-dates/#coco-and-other-day-of-the-dead-movies",
-     "impressions": 64,
-     "clicks": 0,
-     "position": 7.2
-    },
-    {
-     "page": "https://freshcalendars.com/news/day-of-the-dead-2026-dia-de-los-muertos-dates/#day-of-the-dead-2026-dates-at-a-glance",
-     "impressions": 64,
-     "clicks": 0,
-     "position": 7.2
-    },
-    {
-     "page": "https://freshcalendars.com/news/day-of-the-dead-2026-dia-de-los-muertos-dates/#day-of-the-dead-for-pets-why-oct-27",
-     "impressions": 64,
-     "clicks": 0,
-     "position": 7.2
-    },
-    {
-     "page": "https://freshcalendars.com/news/day-of-the-dead-2026-dia-de-los-muertos-dates/#the-2026-d%C3%ADa-de-muertos-barbie",
-     "impressions": 64,
-     "clicks": 0,
-     "position": 7.2
-    },
-    {
-     "page": "https://freshcalendars.com/news/day-of-the-dead-2026-dia-de-los-muertos-dates/#the-week-before-oct-27-to-nov-2-day-by-day",
-     "impressions": 64,
-     "clicks": 0,
-     "position": 7.2
-    }
-   ],
-   "total": 935
-  },
-  {
-   "query": "dia de los muertos 2026 calendar",
-   "pages": [
-    {
-     "page": "https://freshcalendars.com/news/day-of-the-dead-2026-dia-de-los-muertos-dates/",
-     "impressions": 319,
-     "clicks": 20,
-     "position": 2.8
-    },
-    {
-     "page": "https://freshcalendars.com/news/day-of-the-dead-2026-dia-de-los-muertos-dates/#building-an-ofrenda",
-     "impressions": 46,
-     "clicks": 0,
-     "position": 2.5
-    },
-    {
-     "page": "https://freshcalendars.com/news/day-of-the-dead-2026-dia-de-los-muertos-dates/#day-of-the-dead-2026-dates",
-     "impressions": 46,
-     "clicks": 0,
-     "position": 2.5
-    },
-    {
-     "page": "https://freshcalendars.com/news/day-of-the-dead-2026-dia-de-los-muertos-dates/#what-the-two-days-mean",
-     "impressions": 46,
-     "clicks": 0,
-     "position": 2.5
-    },
-    {
-     "page": "https://freshcalendars.com/news/day-of-the-dead-2026-dia-de-los-muertos-dates/#the-2026-d%C3%ADa-de-muertos-barbie",
-     "impressions": 38,
-     "clicks": 0,
-     "position": 3.1
-    },
-    {
-     "page": "https://freshcalendars.com/news/day-of-the-dead-2026-dia-de-los-muertos-dates/#what-d%C3%ADa-de-los-muertos-means",
-     "impressions": 38,
-     "clicks": 0,
-     "position": 3.1
-    },
-    {
-     "page": "https://freshcalendars.com/news/day-of-the-dead-2026-dia-de-los-muertos-dates/#coco-and-other-day-of-the-dead-movies",
-     "impressions": 36,
-     "clicks": 0,
-     "position": 3.1
-    },
-    {
-     "page": "https://freshcalendars.com/news/day-of-the-dead-2026-dia-de-los-muertos-dates/#day-of-the-dead-2026-dates-at-a-glance",
-     "impressions": 36,
-     "clicks": 0,
-     "position": 3.1
-    },
-    {
-     "page": "https://freshcalendars.com/news/day-of-the-dead-2026-dia-de-los-muertos-dates/#day-of-the-dead-in-mexico-city-in-2026",
-     "impressions": 36,
-     "clicks": 0,
-     "position": 3.1
-    },
-    {
-     "page": "https://freshcalendars.com/news/day-of-the-dead-2026-dia-de-los-muertos-dates/#day-of-the-dead-in-the-united-states-in-2026",
-     "impressions": 36,
-     "clicks": 0,
-     "position": 3.1
-    },
-    {
-     "page": "https://freshcalendars.com/news/day-of-the-dead-2026-dia-de-los-muertos-dates/#the-week-before-oct-27-to-nov-2-day-by-day",
-     "impressions": 35,
-     "clicks": 0,
-     "position": 3.1
-    }
-   ],
-   "total": 712
-  },
-  {
-   "query": "dia de los muertos 2026 schedule",
-   "pages": [
-    {
-     "page": "https://freshcalendars.com/news/day-of-the-dead-2026-dia-de-los-muertos-dates/",
-     "impressions": 133,
-     "clicks": 1,
-     "position": 6
-    },
-    {
-     "page": "https://freshcalendars.com/news/day-of-the-dead-2026-dia-de-los-muertos-dates/#building-an-ofrenda",
-     "impressions": 56,
-     "clicks": 0,
-     "position": 7.1
-    },
-    {
-     "page": "https://freshcalendars.com/news/day-of-the-dead-2026-dia-de-los-muertos-dates/#day-of-the-dead-2026-dates",
-     "impressions": 56,
-     "clicks": 0,
-     "position": 7.1
-    },
-    {
-     "page": "https://freshcalendars.com/news/day-of-the-dead-2026-dia-de-los-muertos-dates/#what-the-two-days-mean",
-     "impressions": 56,
-     "clicks": 0,
-     "position": 7.1
-    },
-    {
-     "page": "https://freshcalendars.com/news/day-of-the-dead-2026-dia-de-los-muertos-dates/#day-of-the-dead-in-mexico-city-in-2026",
-     "impressions": 48,
-     "clicks": 0,
-     "position": 7.8
-    },
-    {
-     "page": "https://freshcalendars.com/news/day-of-the-dead-2026-dia-de-los-muertos-dates/#day-of-the-dead-in-the-united-states-in-2026",
-     "impressions": 48,
-     "clicks": 0,
-     "position": 7.8
-    },
-    {
-     "page": "https://freshcalendars.com/news/day-of-the-dead-2026-dia-de-los-muertos-dates/#coco-and-other-day-of-the-dead-movies",
-     "impressions": 46,
-     "clicks": 0,
-     "position": 7.8
-    },
-    {
-     "page": "https://freshcalendars.com/news/day-of-the-dead-2026-dia-de-los-muertos-dates/#day-of-the-dead-2026-dates-at-a-glance",
-     "impressions": 46,
-     "clicks": 0,
-     "position": 7.8
-    },
-    {
-     "page": "https://freshcalendars.com/news/day-of-the-dead-2026-dia-de-los-muertos-dates/#the-2026-d%C3%ADa-de-muertos-barbie",
-     "impressions": 46,
-     "clicks": 0,
-     "position": 7.8
-    },
-    {
-     "page": "https://freshcalendars.com/news/day-of-the-dead-2026-dia-de-los-muertos-dates/#what-d%C3%ADa-de-los-muertos-means",
-     "impressions": 46,
-     "clicks": 0,
-     "position": 7.8
-    },
-    {
-     "page": "https://freshcalendars.com/news/day-of-the-dead-2026-dia-de-los-muertos-dates/#day-of-the-dead-for-pets-why-oct-27",
-     "impressions": 45,
-     "clicks": 0,
-     "position": 7.8
-    }
-   ],
-   "total": 626
-  },
-  {
    "query": "2026 thanksgiving",
    "pages": [
     {
@@ -800,41 +514,11 @@
    "total": 498
   },
   {
-   "query": "day of the dead calendar 2026",
-   "pages": [
-    {
-     "page": "https://freshcalendars.com/news/day-of-the-dead-2026-dia-de-los-muertos-dates/",
-     "impressions": 329,
-     "clicks": 1,
-     "position": 7.1
-    },
-    {
-     "page": "https://freshcalendars.com/news/day-of-the-dead-2026-dia-de-los-muertos-dates/#building-an-ofrenda",
-     "impressions": 52,
-     "clicks": 0,
-     "position": 8.7
-    },
-    {
-     "page": "https://freshcalendars.com/news/day-of-the-dead-2026-dia-de-los-muertos-dates/#day-of-the-dead-2026-dates",
-     "impressions": 52,
-     "clicks": 0,
-     "position": 8.7
-    },
-    {
-     "page": "https://freshcalendars.com/news/day-of-the-dead-2026-dia-de-los-muertos-dates/#what-the-two-days-mean",
-     "impressions": 52,
-     "clicks": 0,
-     "position": 8.7
-    }
-   ],
-   "total": 485
-  },
-  {
    "query": "dia de los muertos 2026 timeline",
    "pages": [
     {
      "page": "https://freshcalendars.com/news/day-of-the-dead-2026-dia-de-los-muertos-dates/",
-     "impressions": 196,
+     "impressions": 231,
      "clicks": 3,
      "position": 7.5
     },
@@ -845,37 +529,7 @@
      "position": 7.8
     }
    ],
-   "total": 269
-  },
-  {
-   "query": "dia de los muertos schedule 2026",
-   "pages": [
-    {
-     "page": "https://freshcalendars.com/news/day-of-the-dead-2026-dia-de-los-muertos-dates/",
-     "impressions": 69,
-     "clicks": 1,
-     "position": 5.1
-    },
-    {
-     "page": "https://freshcalendars.com/news/day-of-the-dead-2026-dia-de-los-muertos-dates/#building-an-ofrenda",
-     "impressions": 38,
-     "clicks": 0,
-     "position": 6.9
-    },
-    {
-     "page": "https://freshcalendars.com/news/day-of-the-dead-2026-dia-de-los-muertos-dates/#day-of-the-dead-2026-dates",
-     "impressions": 38,
-     "clicks": 0,
-     "position": 6.9
-    },
-    {
-     "page": "https://freshcalendars.com/news/day-of-the-dead-2026-dia-de-los-muertos-dates/#what-the-two-days-mean",
-     "impressions": 38,
-     "clicks": 0,
-     "position": 6.9
-    }
-   ],
-   "total": 183
+   "total": 304
   }
  ],
  "image": {
@@ -1123,76 +777,10 @@
   ],
   "gaps": [
    {
-    "page": "https://freshcalendars.com/news/day-of-the-dead-2026-dia-de-los-muertos-dates/#building-an-ofrenda",
-    "impressions": 424,
-    "clicks": 0,
-    "position": 5.9
-   },
-   {
-    "page": "https://freshcalendars.com/news/day-of-the-dead-2026-dia-de-los-muertos-dates/#day-of-the-dead-2026-dates",
-    "impressions": 424,
-    "clicks": 0,
-    "position": 5.9
-   },
-   {
-    "page": "https://freshcalendars.com/news/day-of-the-dead-2026-dia-de-los-muertos-dates/#what-the-two-days-mean",
-    "impressions": 424,
-    "clicks": 0,
-    "position": 5.9
-   },
-   {
     "page": "https://freshcalendars.com/news/nyt-spelling-bee-hints-answers-october-26-2026/",
     "impressions": 325,
     "clicks": 6,
     "position": 7
-   },
-   {
-    "page": "https://freshcalendars.com/news/day-of-the-dead-2026-dia-de-los-muertos-dates/#day-of-the-dead-in-mexico-city-in-2026",
-    "impressions": 321,
-    "clicks": 0,
-    "position": 6.5
-   },
-   {
-    "page": "https://freshcalendars.com/news/day-of-the-dead-2026-dia-de-los-muertos-dates/#day-of-the-dead-in-the-united-states-in-2026",
-    "impressions": 321,
-    "clicks": 0,
-    "position": 6.5
-   },
-   {
-    "page": "https://freshcalendars.com/news/day-of-the-dead-2026-dia-de-los-muertos-dates/#the-2026-d%C3%ADa-de-muertos-barbie",
-    "impressions": 308,
-    "clicks": 0,
-    "position": 6.4
-   },
-   {
-    "page": "https://freshcalendars.com/news/day-of-the-dead-2026-dia-de-los-muertos-dates/#day-of-the-dead-2026-dates-at-a-glance",
-    "impressions": 298,
-    "clicks": 0,
-    "position": 6.4
-   },
-   {
-    "page": "https://freshcalendars.com/news/day-of-the-dead-2026-dia-de-los-muertos-dates/#coco-and-other-day-of-the-dead-movies",
-    "impressions": 297,
-    "clicks": 0,
-    "position": 6.4
-   },
-   {
-    "page": "https://freshcalendars.com/news/day-of-the-dead-2026-dia-de-los-muertos-dates/#day-of-the-dead-for-pets-why-oct-27",
-    "impressions": 194,
-    "clicks": 0,
-    "position": 6.8
-   },
-   {
-    "page": "https://freshcalendars.com/news/day-of-the-dead-2026-dia-de-los-muertos-dates/#what-d%C3%ADa-de-los-muertos-means",
-    "impressions": 193,
-    "clicks": 0,
-    "position": 6.1
-   },
-   {
-    "page": "https://freshcalendars.com/news/day-of-the-dead-2026-dia-de-los-muertos-dates/#the-week-before-oct-27-to-nov-2-day-by-day",
-    "impressions": 180,
-    "clicks": 0,
-    "position": 5.8
    }
   ]
  },
@@ -1204,20 +792,20 @@
    {
     "page": "https://freshcalendars.com/news/is-election-day-a-holiday-2026-whats-open/",
     "clicks": 344,
-    "impressions": 11582,
+    "impressions": 11615,
     "position": 6.4
    },
    {
     "page": "https://freshcalendars.com/news/sample-ballot-by-zip-code-2026-texas-ballot/",
-    "clicks": 289,
-    "impressions": 28461,
-    "position": 8.8
+    "clicks": 290,
+    "impressions": 28547,
+    "position": 8.7
    },
    {
     "page": "https://freshcalendars.com/news/free-rides-to-the-polls-2026-lyft-uber-transit/",
     "clicks": 196,
-    "impressions": 1620,
-    "position": 6.5
+    "impressions": 1671,
+    "position": 6.4
    },
    {
     "page": "https://freshcalendars.com/news/nyt-connections-hints-answers-november-1-2026-1239/",
@@ -1234,8 +822,8 @@
    {
     "page": "https://freshcalendars.com/news/day-of-the-dead-2026-dia-de-los-muertos-dates/",
     "clicks": 122,
-    "impressions": 9987,
-    "position": 6.6
+    "impressions": 13413,
+    "position": 6.5
    },
    {
     "page": "https://freshcalendars.com/news/printable-pumpkin-carving-templates/",
@@ -1246,7 +834,7 @@
    {
     "page": "https://freshcalendars.com/news/nyt-connections-hints-answers-october-30-2026-1237/",
     "clicks": 75,
-    "impressions": 14288,
+    "impressions": 14291,
     "position": 7.9
    },
    {
@@ -1528,8 +1116,8 @@
    {
     "page": "https://freshcalendars.com/news/halloween-2026-saturday-sunset-trick-or-treat-times/",
     "clicks": 10,
-    "impressions": 9406,
-    "position": 7.6
+    "impressions": 9485,
+    "position": 7.5
    },
    {
     "page": "https://freshcalendars.com/news/nyt-pips-hints-answers-october-26-2026/",
@@ -1807,6 +1395,7 @@
  },
  "indexed": {
   "checked": 40,
+  "sampled": 90,
   "indexed": 40,
   "notIndexed": [],
   "states": {
