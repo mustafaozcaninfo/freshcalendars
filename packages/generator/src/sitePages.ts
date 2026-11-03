@@ -60,6 +60,7 @@ import {
 import { brandHeadLinks, writeBrandIcons } from "./brandIcons.js";
 import { homeNewsHtml, latestNewsHtml, newsStripHtml } from "./newsLinks.js";
 import { DIST_SITE, PHOTOSWIPE_PATH, ROOT } from "./paths.js";
+import { STUDIO_STYLES } from "./studio.js";
 import { displayPreview2xUrl, displayPreviewUrl } from "./previews.js";
 import { homeConceptHero, homeCalendarShelf, calendarStudio, calendarLibrary, calendarTools } from "./conceptPages.js";
 
@@ -664,11 +665,36 @@ export function splitVolatile(html: string): { html: string; contentHash: string
   };
 }
 
+/**
+ * The original single-size printables (`assets/.../calendar.pdf`) are 11.46 × 14.79 in, not the US
+ * Letter the pages promise, so "Actual size" printing crops them. Each has a Letter twin: monthly
+ * designs in the studio set (studio.ts studioAssets), every other family as `calendar-letter.pdf`
+ * beside it (studio.ts ensureOtherPaperAssets). Download links point at the twin. Data attributes
+ * and the studio model keep the base name: the browser scripts derive the -letter/-a4 files from it.
+ */
+const LEGACY_MONTHLY_PDF = /\/assets\/(\d{4})\/monthly\/([a-z]+)\/([a-z-]+)\/calendar\.pdf$/;
+const STUDIO_STYLE_IDS = new Set<string>(STUDIO_STYLES.map((s) => s.id));
+export function letterPdfUrl(url: string): string {
+  const m = LEGACY_MONTHLY_PDF.exec(url);
+  if (m) {
+    const [, year, month, design] = m;
+    const style = design === "monday-start" ? "classic-bw" : design!;
+    if (!STUDIO_STYLE_IDS.has(style)) return url;
+    const start = design === "monday-start" ? "monday" : "sunday";
+    return url.replace(LEGACY_MONTHLY_PDF, `/assets/studio/${year}/${month}/${style}/letter-${start}.pdf`);
+  }
+  return url.replace(/\/calendar\.pdf$/, "/calendar-letter.pdf");
+}
+function letterPdfLinks(html: string): string {
+  return html.replace(/href="([^"]*\/assets\/[^"]*\/calendar\.pdf)"/g, (_, url: string) => `href="${letterPdfUrl(url)}"`);
+}
+
 export async function writeSitePage(filePath: string, html: string): Promise<void> {
   const full = path.join(DIST_SITE, filePath.replace(/^\//, ""));
   await fs.mkdir(path.dirname(full), { recursive: true });
   // Any page rendered with volatile markers (404, extras) ships without them.
-  await fs.writeFile(full, html.includes(VOLATILE_OPEN) ? splitVolatile(html).html : html, "utf8");
+  const page = html.includes(VOLATILE_OPEN) ? splitVolatile(html).html : html;
+  await fs.writeFile(full, filePath.endsWith(".html") ? letterPdfLinks(page) : page, "utf8");
 }
 
 function renderHome(meta: SeoMeta, today: Date): string {
