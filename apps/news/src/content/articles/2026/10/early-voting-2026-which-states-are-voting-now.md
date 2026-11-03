@@ -77,7 +77,7 @@ internalLinks:
     label: "October 2026 printable calendar"
   - href: "/printable-weekly-calendar.html"
     label: "Printable weekly planner"
-related: [early-voting-starts-october-24-michigan-new-york-2026, texas-election-calendar-2026-early-voting-dates-deadlines, mail-ballot-deadlines-2026-by-state]
+related: [early-voting-starts-october-24-michigan-new-york-2026, how-many-people-voted-early-2026-59-million-early-votes, mail-ballot-deadlines-2026-by-state]
 assets:
   kicker: "Early voting · Nov. 3, 2026"
   title: "Which states are voting now"
