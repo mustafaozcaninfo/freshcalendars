@@ -109,7 +109,7 @@ internalLinks:
     label: "December 2026 printable calendar"
   - href: "/printable-weekly-calendar.html"
     label: "Printable weekly calendar"
-related: [nfl-week-16-schedule-2026-printable-pick-em-sheet-game-times, nfl-week-15-schedule-2026-printable-pick-em-sheet-game-times, printable-nfl-pickem-sheets-2026]
+related: [nfl-week-16-schedule-2026-printable-pick-em-sheet-game-times, nfl-week-18-schedule-2026-printable-pick-em-sheet-game-times, printable-nfl-pickem-sheets-2026]
 draft: false
 ---
 
@@ -138,7 +138,7 @@ Week 17 follows [Week 16](/news/nfl-week-16-schedule-2026-printable-pick-em-shee
 | To be determined | To be determined | Rams at Buccaneers | Not listed |
 | To be determined | To be determined | Commanders at Jaguars | Not listed |
 
-NFL.com lists 16 games, so all 32 teams play and no team has a bye. Week 18 follows on Saturday, Jan. 9, and Sunday, Jan. 10, 2027, according to the NFL's [2026 schedule release](https://media.nfl.com/football-information/2026/news/2026-nfl-schedule-announced) of May 14, 2026.
+NFL.com lists 16 games, so all 32 teams play and no team has a bye. [Week 18](/news/nfl-week-18-schedule-2026-printable-pick-em-sheet-game-times/) follows on Saturday, Jan. 9, and Sunday, Jan. 10, 2027, according to the NFL's [2026 schedule release](https://media.nfl.com/football-information/2026/news/2026-nfl-schedule-announced) of May 14, 2026.
 
 ## Is there an NFL game on New Year's Eve 2026?
 

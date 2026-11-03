@@ -4,6 +4,7 @@ seoTitle: "Black Friday Canada 2026: Nov. 27, Sale Dates"
 description: "Black Friday 2026 is Fri., Nov. 27 in Canada, and Canadian Tire says its deals start Thu., Nov. 5. See who has not announced dates, plus Canada Post deadlines."
 type: news
 publishedAt: "2026-10-29T11:47:00-04:00"
+updatedAt: "2026-11-02T23:01:00-05:00"
 authors: [jessica-hartwell]
 category: retail-dates
 keywords: ["black friday canada 2026", "when is black friday 2026 canada", "black friday 2026 canada sale dates", "is black friday a holiday in canada"]
@@ -37,7 +38,7 @@ hero:
     authorUrl: "https://www.flickr.com/people/10014440@N06"
 summary:
   - "Black Friday 2026 is Fri., Nov. 27 and Cyber Monday is Mon., Nov. 30. Canadian Tire says its Black Friday deals start Thu., Nov. 5, according to its Black Friday page."
-  - "Amazon.ca, Best Buy Canada, Walmart Canada, Costco Canada, Apple Canada and Staples Canada had not announced 2026 Black Friday dates when we checked on Oct. 29."
+  - "Amazon.ca, Best Buy Canada, Walmart Canada, Costco Canada, Apple Canada, Staples Canada, Home Depot Canada and Rona had not announced 2026 Black Friday dates when we checked on Nov. 3. Indigo confirms Nov. 27 but no sale dates."
   - "Black Friday is not on the Government of Canada's list of 10 general holidays for federally regulated employers."
   - "The Competition Bureau's two tests for an ordinary (regular) price are a volume test (more than 50% of sales) and a time test (offered in good faith for a substantial period)."
 faq:
@@ -48,7 +49,7 @@ faq:
   - q: "When do Canadian Tire Black Friday deals start in 2026?"
     a: "Thursday, Nov. 5, according to Canadian Tire's Black Friday page. It gives no end date and says sales timing may vary."
   - q: "When does Amazon.ca Black Friday 2026 start?"
-    a: "Not yet announced as of Oct. 29, 2026."
+    a: "Not yet announced as of Nov. 3, 2026. Amazon.ca's Black Friday page shows no 2026 dates."
   - q: "What counts as a fake regular price in Canada?"
     a: "The Competition Bureau says businesses cannot invent a higher regular price to make a sale look like a bargain. The Bureau calls this fake ordinary selling price and says it violates the Competition Act."
 sources:
@@ -56,10 +57,18 @@ sources:
     url: "https://www.canadiantire.ca/en/events/black-friday.html"
     publisher: "Canadian Tire"
     date: "2026-10-29"
-  - title: "It's the season for savings: Amazon's Black Friday Week and Cyber Monday deal events"
-    url: "https://press.aboutamazon.com/2025/11/its-the-season-for-savings-amazons-black-friday-week-and-cyber-monday-deal-events-offer-deep-discounts-on-customer-favorite-brands-from-november-20-through-december-1"
-    publisher: "Amazon"
-    date: "2025-11-09"
+  - title: "Get a sneak peek at Amazon's best discounts during its Black Friday Week and Cyber Monday deal events"
+    url: "https://www.aboutamazon.ca/news/retail/get-a-sneak-peek-at-amazons-best-discounts-during-its-black-friday-week-and-cyber-monday-deal-events-running-november-20-through-december-1"
+    publisher: "Amazon Canada"
+    date: "2025-11-17"
+  - title: "Black Friday | Indigo"
+    url: "https://www.indigo.ca/en-ca/black-friday/"
+    publisher: "Indigo"
+    date: "2026-11-03"
+  - title: "Black Friday Event | Costco"
+    url: "https://www.costco.ca/black-friday.html"
+    publisher: "Costco Canada"
+    date: "2026-11-03"
   - title: "Annual vacations and general holidays for employees working for federally regulated employers"
     url: "https://www.canada.ca/en/employment-social-development/services/labour-standards/reports/holidays.html"
     publisher: "Government of Canada"
@@ -109,29 +118,32 @@ assets:
     alt: "Printable Black Friday Canada 2026 planner with sale dates, Canada Post deadlines and a deal check"
 ---
 
-<p class="callout"><b>Checked Oct. 29, 2026.</b> We will update this page when a retailer announces its 2026 dates.</p>
+<p class="callout"><b>Checked Nov. 3, 2026.</b> We will update this page when a retailer announces its 2026 dates.</p>
 
 **Black Friday 2026 is Fri., Nov. 27, 2026 in Canada, Cyber Monday is Mon., Nov. 30, and Canadian Tire says its Black Friday deals start Thu., Nov. 5, according to Canadian Tire's Black Friday page.** That page also says "Black Friday 2026 takes place on November 27, 2026." For the plain date answer, see [when Black Friday falls](/when-is/black-friday/) and [when Cyber Monday falls](/when-is/cyber-monday/). A free planner is in the [downloads](#downloads) section.
 
 ## Which Canadian retailers have announced Black Friday 2026 dates?
 
-Only Canadian Tire had dates on its site when we checked on Oct. 29, 2026. Canadian Tire gives no end date or times, and says "Sales timing may vary, with some promotions starting early and extending through Cyber Monday or beyond."
+Only Canadian Tire had sale dates on its site when we checked on Nov. 3, 2026, and its deals start in two days. Canadian Tire gives no end date or times, and says "Sales timing may vary, with some promotions starting early and extending through Cyber Monday or beyond."
 
-| Retailer | 2026 Black Friday dates | Status on Oct. 29, 2026 |
+| Retailer | 2026 Black Friday dates | Status on Nov. 3, 2026 |
 |---|---|---|
 | Canadian Tire | Deals start Thu., Nov. 5; Black Friday Fri., Nov. 27 | Announced; no end date given |
-| Amazon.ca | Not yet announced | Not yet announced |
+| Amazon.ca | Not yet announced | Not yet announced; its Black Friday page shows no 2026 dates |
 | Best Buy Canada | Not yet announced | Not yet announced |
 | Walmart Canada | Not yet announced | Not yet announced |
-| Costco Canada | Not yet announced | Not yet announced |
+| Costco Canada | Not yet announced | Not yet announced; its page says "Content is currently unavailable, please check back soon." |
+| Indigo | Sale dates not yet announced; Black Friday Fri., Nov. 27 | Page says "Black Friday is Friday, November 27, 2026." |
 | Apple Canada | Not yet announced | Not yet announced |
 | Staples Canada | Not yet announced | Not yet announced |
+| Home Depot Canada | Not yet announced | Not yet announced |
+| Rona | Not yet announced | Not yet announced |
 
 We do not list 2025 dates for retailers that have not published 2026 ones, because we could not confirm them from an official source.
 
 ## When does Amazon.ca Black Friday 2026 start?
 
-Not yet announced. Amazon's newsroom did publish dates for the United States last year: its Nov. 9, 2025 release said its Black Friday Week and Cyber Monday deal events were "kicking off November 20" and running through Dec. 1. That release covers the United States, not Canada, so it does not tell us what Amazon.ca will do in 2026. Our [Amazon Black Friday 2026 story](/news/amazon-black-friday-2026-sale-dates-when-does-it-start/) tracks the US dates, and the [UK Black Friday 2026 story](/news/black-friday-2026-uk-date-27-november-amazon-uk-sale-dates/) covers the same day in Britain.
+Not yet announced as of Nov. 3, 2026; Amazon.ca's Black Friday page shows no 2026 dates. Last year, Amazon's Canadian newsroom said in a Nov. 17, 2025 release: "Amazon Canada is launching deep discounts during its Black Friday Week and Cyber Monday deal events, running from November 20 through December 1." Those are 2025 dates and do not tell us what Amazon.ca will do in 2026. Our [Amazon Black Friday 2026 story](/news/amazon-black-friday-2026-sale-dates-when-does-it-start/) tracks the US dates, and the [UK Black Friday 2026 story](/news/black-friday-2026-uk-date-27-november-amazon-uk-sale-dates/) covers the same day in Britain.
 
 ## Is Black Friday a holiday in Canada?
 
@@ -161,6 +173,15 @@ Canada Post's "Plan your holiday sending" page lists these 2026 dates. They appl
 | Cards | Tue., Dec. 22 | Mon., Dec. 21 | Fri., Dec. 18 |
 
 Weekdays are our computation from the dates Canada Post lists.
+
+The same page lists these deadlines for mail to the United States and for Letters to Santa:
+
+| Service | Send by |
+|---|---|
+| Xpresspost USA | Thu., Dec. 17 |
+| Expedited Parcel USA | Mon., Dec. 14 |
+| Tracked Packet USA | Fri., Dec. 11 |
+| Letters to Santa | Wed., Dec. 9 |
 
 ## Which dates should Canadian shoppers mark?
 
