@@ -4,7 +4,7 @@ seoTitle: "Walmart Black Friday 2026: Dates and Early Access"
 description: "Walmart's three 2026 events start Nov. 12, 23 and 30 at 12:01 a.m. Eastern Time (ET) online, with Walmart+ early access. Nov. 27 stores open at 6 a.m."
 type: news
 publishedAt: "2026-10-31T23:41:00-04:00"
-updatedAt: "2026-11-02T14:10:00-05:00"
+updatedAt: "2026-11-03T09:22:00-05:00"
 authors: [jessica-hartwell]
 category: retail-dates
 keywords: ["walmart black friday 2026", "when does walmart black friday start 2026", "walmart+ early access black friday 2026", "walmart cyber monday 2026"]
@@ -20,19 +20,19 @@ assets:
     title: "Walmart Black Friday 2026 Deal Calendar"
     subtitle: "Event starts, Walmart+ early access and end dates, Nov. 12 to Dec. 2, 2026"
     layout: list
+    noKit: "This sheet lists event windows, early access times and in-store openings, not a ship-by deadline matrix."
     rows:
       - ["Thu., Nov. 12", "Early Black Friday Deals begin on Walmart.com at 12:01 a.m. ET; Walmart+ early access to hot Deal drops at 12:01 a.m. ET"]
-      - ["Thu., Nov. 12", "In stores: not confirmed for this event"]
+      - ["Thu., Nov. 12", "Early Black Friday Deals in stores at 6 a.m. local time; release gives no separate in-store date"]
       - ["Fri., Nov. 13", "Remaining hot Deal drop items open to all customers at 12:01 a.m. ET"]
       - ["Sun., Nov. 15", "Early Black Friday Deals end"]
-      - ["Mon., Nov. 23", "Black Friday Deals begin on Walmart.com at 12:01 a.m. ET; Walmart+ early access to hot Deal drops"]
+      - ["Mon., Nov. 23", "Black Friday Deals begin on Walmart.com at 12:01 a.m. ET; Walmart+ early access to hot Deal drops at 12:01 a.m. ET"]
       - ["Tue., Nov. 24", "Remaining hot Deal drop items open to all at 12:01 a.m. ET"]
       - ["Fri., Nov. 27", "Black Friday Deals in stores at 6 a.m. local time"]
       - ["Sun., Nov. 29", "Black Friday Deals end"]
       - ["Mon., Nov. 30", "Cyber Monday Deals begin on Walmart.com at 12:01 a.m. ET"]
       - ["Wed., Dec. 2", "Cyber Monday Deals end"]
     note: "Source: Walmart press release, Oct. 26, 2026. All online starts are Eastern Time; stores open at 6 a.m. local time."
-    inkSaver: true
     description: "One-page Walmart Black Friday 2026 deal calendar: three events from Nov. 12 to Dec. 2, with Walmart+ early access times and in-store openings."
     alt: "Printable list of Walmart Black Friday 2026 event dates, Walmart+ early access and store openings"
 hero:
@@ -49,16 +49,16 @@ summary:
   - "Walmart's three 2026 holiday shopping events run from Nov. 12 through Dec. 2, according to its Oct. 26 press release."
   - "Online starts are 12:01 a.m. Eastern Time (ET) on Nov. 12, Nov. 23 and Nov. 30; for Pacific Time (PT) shoppers that is 9:01 p.m. the evening before."
   - "Walmart+ early access to hot Deal drops begins at 12:01 a.m. ET on Nov. 12 and Nov. 23, a change from 7 p.m. ET the evening before in 2025."
-  - "Walmart has not announced Thanksgiving Day store status, Black Friday hours beyond the 6 a.m. local opening, a 2026 price match or specific deals."
+  - "The release does not give Thanksgiving Day store status, Black Friday hours beyond the 6 a.m. local opening, a 2026 price match or specific deals."
 faq:
   - q: "When does Walmart Black Friday 2026 start?"
-    a: "Walmart's first event, Early Black Friday Deals, begins on Walmart.com at 12:01 a.m. ET on Thursday, Nov. 12, 2026. The Black Friday Deals event begins online at 12:01 a.m. ET on Monday, Nov. 23, and in stores on Nov. 27 at 6 a.m. local time."
+    a: "Walmart's first event, Early Black Friday Deals, begins on Walmart.com at 12:01 a.m. ET on Thursday, Nov. 12, 2026. The Black Friday Deals event begins online at 12:01 a.m. ET on Monday, Nov. 23, and in stores on Nov. 27 at 6 a.m. local time. The release also lists the Early Black Friday Deals event as beginning in stores at 6 a.m. local time, with no separate in-store date."
   - q: "When does Walmart+ early access start in 2026?"
     a: "At 12:01 a.m. ET on Nov. 12 and on Nov. 23 for hot Deal drops, per Walmart's release. Remaining hot Deal drop items open to all customers at 12:01 a.m. ET on Nov. 13 and Nov. 24."
   - q: "When is Walmart Cyber Monday 2026?"
-    a: "Cyber Monday Deals run Monday, Nov. 30, through Wednesday, Dec. 2, 2026. The release lists a Walmart.com start of 12:01 a.m. ET."
+    a: "Cyber Monday Deals run Monday, Nov. 30, through Wednesday, Dec. 2, 2026. The release says the event begins on Walmart.com at 12:01 a.m. ET. That moment is 11:01 p.m. Central Time (CT), 10:01 p.m. Mountain Time (MT), 9:01 p.m. Pacific Time (PT), 8:01 p.m. in Alaska and 7:01 p.m. in Hawaii on Sunday, Nov. 29 (our conversion)."
   - q: "Is Walmart open on Thanksgiving 2026?"
-    a: "Walmart has not announced Thanksgiving Day (Thursday, Nov. 26) store status in the release."
+    a: "The Oct. 26 release does not give Thanksgiving Day (Thursday, Nov. 26) store status."
   - q: "What time do Walmart stores open on Black Friday 2026?"
     a: "The release says in stores on Nov. 27 at 6 a.m. local time. It gives no other Black Friday store hours."
 sources:
@@ -108,13 +108,13 @@ draft: false
 
 | Event | Dates (2026) | Walmart.com start | Stores |
 |---|---|---|---|
-| Early Black Friday Deals | Thu., Nov. 12 to Sun., Nov. 15 | 12:01 a.m. ET, Nov. 12 | Not confirmed for this event |
+| Early Black Friday Deals | Thu., Nov. 12 to Sun., Nov. 15 | 12:01 a.m. ET, Nov. 12 | 6 a.m. local time |
 | Black Friday Deals | Mon., Nov. 23 to Sun., Nov. 29 | 12:01 a.m. ET, Nov. 23 | Nov. 27 at 6 a.m. local time |
 | Cyber Monday Deals | Mon., Nov. 30 to Wed., Dec. 2 | 12:01 a.m. ET, Nov. 30 | Not listed in the release |
 
-The release does not give a separate in-store date for the first event, so we list it as not confirmed. For Cyber Monday the release lists only a Walmart.com start. The weekdays are our computation. Our [Black Friday date page](/when-is/black-friday/) confirms Nov. 27 as Black Friday, and you can mark each start on the [November 2026 printable calendar](/november-calendars.html) and the [December 2026 printable calendar](/december-calendars.html).
+For Early Black Friday Deals the release says the event begins "in stores at 6 a.m. local time" and gives no separate in-store date, so we list no date for it. For Cyber Monday the release says only "Event begins on Walmart.com at 12:01 a.m. ET" and does not mention stores or an end time. The weekdays are our computation. Our [Black Friday date page](/when-is/black-friday/) confirms Nov. 27 as Black Friday, and you can mark each start on the [November 2026 printable calendar](/november-calendars.html) and the [December 2026 printable calendar](/december-calendars.html).
 
-By our count the three events add up to 14 sale days (4, 7 and 3). Retail Dive reported 14 days in 2026, against 10 in 2025.
+By our arithmetic the three events add up to 14 sale days: 4 (Nov. 12 to 15), 7 (Nov. 23 to 29) and 3 (Nov. 30 to Dec. 2). Walmart's release does not state a total. Retail Dive reports the same 14 days for 2026, against 10 in 2025.
 
 ## When does Walmart+ early access start?
 
@@ -122,26 +122,26 @@ Walmart+ early access to hot Deal drops begins at 12:01 a.m. ET on Nov. 12 and a
 
 ## What time is the Walmart.com start in each U.S. time zone?
 
-Walmart gives its online start in ET. Because 12:01 a.m. ET falls late the evening before in the rest of the country, shoppers outside the East Coast can start the evening before. The conversion is ours.
+Walmart gives its online start in ET. Because 12:01 a.m. ET falls late the evening before in every zone west of ET, the Cyber Monday event that begins at 12:01 a.m. ET on Monday, Nov. 30 starts on Sunday evening, Nov. 29, in the Central, Mountain, Pacific, Alaska and Hawaii zones. The conversion is ours.
 
-| Time zone | Local time of the 12:01 a.m. ET start | Day for the Nov. 12 start |
-|---|---|---|
-| Eastern Time (ET) | 12:01 a.m. | Thu., Nov. 12 |
-| Central Time (CT) | 11:01 p.m. | Wed., Nov. 11 |
-| Mountain Time (MT) | 10:01 p.m. | Wed., Nov. 11 |
-| Pacific Time (PT) | 9:01 p.m. | Wed., Nov. 11 |
-| Alaska | 8:01 p.m. | Wed., Nov. 11 |
-| Hawaii | 7:01 p.m. | Wed., Nov. 11 |
+| Time zone | Local time of the 12:01 a.m. ET start | Day for the Nov. 12 start | Day for the Nov. 30 start |
+|---|---|---|---|
+| Eastern Time (ET) | 12:01 a.m. | Thu., Nov. 12 | Mon., Nov. 30 |
+| Central Time (CT) | 11:01 p.m. | Wed., Nov. 11 | Sun., Nov. 29 |
+| Mountain Time (MT) | 10:01 p.m. | Wed., Nov. 11 | Sun., Nov. 29 |
+| Pacific Time (PT) | 9:01 p.m. | Wed., Nov. 11 | Sun., Nov. 29 |
+| Alaska | 8:01 p.m. | Wed., Nov. 11 | Sun., Nov. 29 |
+| Hawaii | 7:01 p.m. | Wed., Nov. 11 | Sun., Nov. 29 |
 
-Arizona does not change its clocks and is on Mountain Standard Time, so it matches the Pacific row (9:01 p.m.) at this time of year. The same shift applies to the Nov. 23 and Nov. 30 starts, one calendar day earlier for every zone except ET. In-store openings are at 6 a.m. local time, so they do not shift.
+Arizona does not change its clocks and is on Mountain Standard Time, so it matches the Mountain row (10:01 p.m.) at this time of year. The same shift applies to the Nov. 23 and Nov. 30 starts, one calendar day earlier for every zone except ET. In-store openings are at 6 a.m. local time, so they do not shift.
 
 ## How do Walmart's 2026 events compare with 2025?
 
-Walmart's 2025 release, from Oct. 27, 2025, listed these events and times. The biggest change in the schedule is the Walmart+ early access time.
+Walmart's 2025 release, from Oct. 27, 2025, listed these events and times. The Walmart+ early access time is the change this comparison shows most directly.
 
 | | 2025 (last year) | 2026 |
 |---|---|---|
-| First event | Nov. 14 to 16, online and in stores | Nov. 12 to 15 |
+| First event | Nov. 14 to 16, online and in stores | Nov. 12 to 15; stores at 6 a.m. local time |
 | Walmart+ early access, first event | Nov. 13 at 7 p.m. ET | Nov. 12 at 12:01 a.m. ET |
 | Second event | Nov. 25 to 30; online only Nov. 25 to 27, online and stores Nov. 28 to 30 | Nov. 23 to 29; stores Nov. 27 at 6 a.m. local time |
 | Walmart+ early access, second event | Nov. 24 at 7 p.m. ET | Nov. 23 at 12:01 a.m. ET |
@@ -150,9 +150,9 @@ Walmart's 2025 release, from Oct. 27, 2025, listed these events and times. The b
 
 In 2025 members got early access at 7 p.m. ET the evening before; in 2026 it begins at 12:01 a.m. ET on the first day.
 
-## What has Walmart not announced for Black Friday 2026?
+## What the Oct. 26 release does not give for Black Friday 2026?
 
-- Whether Walmart stores are open on Thanksgiving Day, Thursday, Nov. 26. For other chains, see our [Black Friday 2026 store hours guide](/news/black-friday-2026-store-hours-walmart-target-best-buy/).
+- Whether Walmart stores are open on Thanksgiving Day, Thursday, Nov. 26; the Oct. 26 release is silent on it. For other chains, see our [Black Friday 2026 store hours guide](/news/black-friday-2026-store-hours-walmart-target-best-buy/).
 - Black Friday store hours beyond the 6 a.m. local opening.
 - A 2026 price match or holiday price guarantee. Our [price match policy story](/news/black-friday-2026-price-match-policy-stores/) tracks the stores that have published one.
 - Specific deals and ad items. Our [Black Friday 2026 ad tracker](/news/black-friday-2026-ad-tracker-walmart-target-best-buy/) follows Walmart, Target and Best Buy as they publish. The Home Depot's sale runs on a different schedule, covered in our [Home Depot Black Friday 2026 story](/news/home-depot-black-friday-2026-sale-dates-november-5-25-store-hours/).
