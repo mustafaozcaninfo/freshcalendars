@@ -55,3 +55,4 @@ Topics checked and not added, with the reason and a recheck date when the fact i
 
 ## Update desk
 - 2026-11-03 10:14 ET: checked grand-slam-of-darts-2026-dates-november-14-22-format-prize-money-how-to-watch, toronto-santa-claus-parade-2026-sunday-november-22-route-citytv, survivor-series-wargames-2026-date-start-time-houston-espn, nothing changed (pdc.tv pages unreadable; recheck darts after the Nov. 6 qualifier)
+- 2026-11-03 12:24 ET: checked kennedy-center-honors-2026-date-december-7-capital-one-arena-broadcast, iheartradio-jingle-ball-2026-dates-lineup-by-city-abc-special, spotify-wrapped-2026-release-date-past-launch-dates, nothing changed (entertainment batch; ABC Jingle Ball Dec. 17 slot only on TV Insider, official release blocked: recheck when ABC or iHeartMedia confirms)
