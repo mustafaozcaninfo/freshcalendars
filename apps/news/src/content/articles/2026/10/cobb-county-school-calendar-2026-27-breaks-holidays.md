@@ -55,7 +55,7 @@ internalLinks:
     label: "December 2026 printable calendar"
   - href: "/april-calendars.html"
     label: "April 2027 printable calendar"
-related: [gwinnett-county-schools-calendar-2026-27-breaks, winter-break-2026-school-districts-dates, spring-break-2027-dates-school-districts]
+related: [gwinnett-county-schools-calendar-2026-27-breaks, fulton-county-schools-calendar-2026-27-breaks, spring-break-2027-dates-school-districts]
 assets:
   overlay: true
   kicker: "Cobb schools 2026-27"
