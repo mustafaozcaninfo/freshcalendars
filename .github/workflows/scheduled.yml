@@ -8,10 +8,16 @@ name: Scheduled stories
 # GitHub's own hourly schedule is only a backup: it starts runs late and skips many, so a run that
 # finds nothing due but a story due within MAX_WAIT waits for it on the runner, then checks again.
 # The repository is public, so the waiting minutes cost nothing.
+# A push can publish a newer commit while this run works: the build then takes the newer commit,
+# and a last job restarts the run if the live build still lacks a due story.
 on:
   schedule:
     - cron: "17 * * * *"
   workflow_dispatch:
+    inputs:
+      retry:
+        description: Restarts so far by the recheck job (it stops after 3)
+        default: "0"
 
 concurrency:
   group: scheduled-stories
@@ -71,6 +77,7 @@ jobs:
     runs-on: ubuntu-24.04
     timeout-minutes: 45
     outputs:
+      sha: ${{ steps.target.outputs.sha }}
       built-at: ${{ steps.build_start.outputs.t }}
     env:
       TZ: America/New_York
@@ -82,9 +89,30 @@ jobs:
       - uses: actions/checkout@v7
         with:
           ref: ${{ needs.due.outputs.sha }}
+          fetch-depth: 0 # the deployed commit may be newer than the one the due check saw
+      - name: Install rclone
+        run: |
+          curl -fsSLo /tmp/rclone.deb https://downloads.rclone.org/v1.75.2/rclone-v1.75.2-linux-amd64.deb
+          echo "efbfe852181f7191eb3c9043ed1ab49c9b2d0ba045c61c926a5da111c939ec5c  /tmp/rclone.deb" | sha256sum -c -
+          sudo dpkg -i /tmp/rclone.deb >/dev/null && rclone version | sed -n 1p
+      - name: Build the commit deployed now
+        id: target
+        run: |
+          # A push can publish a newer commit between the due check and this build. deploy.sh never
+          # lets an older build replace a newer one, so this run would publish nothing and the due
+          # story would wait for the next run (16 minutes on Nov. 2). Build the newer commit instead.
+          sha="${{ needs.due.outputs.sha }}"
+          now="$(cloudflare/deploy.sh state-get news/sha)"
+          if [[ -n "$now" && "$now" != "$sha" ]]; then
+            git cat-file -e "$now^{commit}" 2>/dev/null || git fetch -q origin "$now" || git fetch -q origin main
+            if git merge-base --is-ancestor "$sha" "$now"; then
+              echo "deployed commit moved from ${sha:0:7} to ${now:0:7}; building ${now:0:7}"
+              git checkout -q "$now"
+              sha="$now"
+            fi
+          fi
+          echo "sha=$sha" >>"$GITHUB_OUTPUT"
       - uses: ./.github/actions/setup
-        with:
-          rclone: "true"
       - name: Restore image cache
         id: image_cache
         uses: actions/cache/restore@v6
@@ -126,6 +154,50 @@ jobs:
     uses: ./.github/workflows/deploy.yml
     with:
       artifact: news-build
-      news-sha: ${{ needs.due.outputs.sha }}
+      news-sha: ${{ needs.build.outputs.sha }}
       news-built-at: ${{ needs.build.outputs.built-at }}
     secrets: inherit
+
+  recheck:
+    # The race can still be lost while this run builds: a CI deploy of a newer commit, built before
+    # the story's time, lands first or replaces this run's queued deploy. If the live build lacks a
+    # due story, start this workflow again; it rebuilds whatever is deployed by then.
+    needs: [build, deploy]
+    if: always() && needs.build.result == 'success'
+    runs-on: ubuntu-24.04
+    timeout-minutes: 5
+    permissions:
+      contents: read
+      actions: write
+    env:
+      CLOUDFLARE_ACCOUNT_ID: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
+      R2_ACCESS_KEY_ID: ${{ secrets.R2_ACCESS_KEY_ID }}
+      R2_SECRET_ACCESS_KEY: ${{ secrets.R2_SECRET_ACCESS_KEY }}
+      GH_TOKEN: ${{ github.token }}
+      RETRY: ${{ inputs.retry || '0' }}
+    steps:
+      - uses: actions/checkout@v7
+        with:
+          fetch-depth: 0
+      - name: Install rclone
+        run: |
+          curl -fsSLo /tmp/rclone.deb https://downloads.rclone.org/v1.75.2/rclone-v1.75.2-linux-amd64.deb
+          echo "efbfe852181f7191eb3c9043ed1ab49c9b2d0ba045c61c926a5da111c939ec5c  /tmp/rclone.deb" | sha256sum -c -
+          sudo dpkg -i /tmp/rclone.deb >/dev/null && rclone version | sed -n 1p
+      - name: Due stories missing from the live build
+        run: |
+          sha="$(cloudflare/deploy.sh state-get news/sha)"
+          since="$(cloudflare/deploy.sh state-get news/built-at)"
+          [[ -n "$sha" && -n "$since" ]] || { echo "nothing deployed yet"; exit 0; }
+          git cat-file -e "$sha^{commit}" 2>/dev/null || git fetch -q origin "$sha" || git fetch -q origin main
+          git checkout -q "$sha"
+          stories="$(node cloudflare/due-stories.mjs "$since")"
+          if [[ -z "$stories" ]]; then
+            echo "live build ${sha:0:7} has every due story"
+          elif (( RETRY >= 3 )); then
+            echo "::error::live build ${sha:0:7} still lacks $stories after 3 restarts; check the deploys"
+            exit 1
+          else
+            echo "live build ${sha:0:7} lacks $stories; starting this workflow again (restart $((RETRY + 1)))"
+            gh workflow run scheduled.yml --ref main -f retry=$((RETRY + 1))
+          fi
