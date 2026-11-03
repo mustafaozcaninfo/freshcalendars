@@ -32,6 +32,9 @@ Topics checked and not added, with the reason and a recheck date when the fact i
 - 2026-11-03: College football early signing period and transfer portal 2026-27 (w3): no NCAA page read, newsrooms disagree. Recheck 2026-11-15.
 - 2026-11-03: Mummers Parade 2027, Coney Island plunge, National Menorah 2026, NYC Grand Army Plaza menorah, Pope Leo Christmas 2026 schedule, US NYE fireworks by city, Canadian Santa parades besides Ottawa (w1): no 2026-27 official details yet. Recheck 2026-11-20 (papal schedule and menorahs) and 2026-12-01 (NYE, Mummers, plunge).
 - 2026-11-03: Blackpool Illuminations end date (w1): visitblackpool.com 503; Jan. 3, 2027 only from blogs. Recheck 2026-11-15.
+- 2026-11-03: UK benefit and State Pension rates 2027-28 (w1): not published; September 2026 CPI was 3.5% (ONS, Oct. 21); last year DWP posted rates Nov. 27. Recheck 2026-11-27.
+- 2026-11-03: Canada CPP 2027 YMPE, federal tax brackets 2027 and TFSA 2027 (w1): not posted; brackets and TFSA usually late Nov. Recheck 2026-11-20.
+- 2026-11-03: UK personal allowance 2027-28 (w1): no official Budget text read; frozen per secondary sources only. Recheck when GOV.UK Budget documents open.
 
 ## Runs
 
@@ -39,5 +42,6 @@ Topics checked and not added, with the reason and a recheck date when the fact i
 - 2026-11-03 (by hand): +1 w1 (uk-trains-christmas-new-year-2026), +0 updates, unblocked: none; turned down: 2027 US elections calendar (recheck 2026-12-15). Two-newsroom recheck of passport, Free Shipping Day, TfL and ScotRail 2026-27: not enough independent newsrooms, still turned down.
 - 2026-11-03 (by hand, competitor scan Nov. 2-4): +4 w1 (canada-winter-tire-rules-2026-27, child-benefit-christmas-2026-payment-dates, jewish-holidays-2027-calendar, canadas-wonderland-winterfest-2026), +0 w2, +4 w3 (ufc-335-oliveira-lopes-december-12-start-time, champions-league-december-2026-matchday-6-kickoff-times, fifa-intercontinental-cup-2026-qatar-dates, ursid-meteor-shower-2026-peak-december-21-22), +0 updates; turned down: about 25 topics already on main, 9 to recheck (see Turned down).
 - 2026-11-03 (by hand, pattern extension): +5 w1 (uk-christmas-markets-2026-york-bath-cardiff-lincoln-belfast, christmas-light-trails-2026-uk-kew-blenheim-chatsworth-chester-zoo, winter-lights-across-canada-2026-ottawa-dates, winterlude-2027-dates-ottawa-gatineau, quebec-winter-carnival-2027-dates-night-parades), +8 w3 (boxing-schedule-december-2026-fight-dates-times, killington-cup-2026-world-cup-ski-race-times-tv, fury-vs-joshua-december-11-2026-fight-time, united-cup-2027-dates-schedule-time-zones, celtics/76ers/thunder/miami-heat December 2026 schedules), +0 updates; turned down: 7 groups to recheck.
+- 2026-11-03 (by hand): +3 w1 (ottawa-help-santa-toy-parade-2026-route-time, national-living-wage-april-2027-13-21-rates, ei-premium-rate-2027-maximum-insurable-earnings-canada); turned down: 3 to recheck.
 
 ## Update desk
