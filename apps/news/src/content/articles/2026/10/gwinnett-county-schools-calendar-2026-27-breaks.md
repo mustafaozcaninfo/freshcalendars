@@ -50,7 +50,7 @@ internalLinks:
     label: "December 2026 printable calendar"
   - href: "/april-calendars.html"
     label: "April 2027 printable calendar"
-related: [spring-break-2027-dates-school-districts, winter-break-2026-school-districts-dates, fulton-county-schools-calendar-2026-27-breaks]
+related: [spring-break-2027-dates-school-districts, dekalb-county-school-district-calendar-2026-27-breaks, fulton-county-schools-calendar-2026-27-breaks]
 downloads:
   - group: "Gwinnett County Schools Calendar 2026-27 printables"
     title: "Gwinnett County Schools Calendar 2026-27: Days Off"
