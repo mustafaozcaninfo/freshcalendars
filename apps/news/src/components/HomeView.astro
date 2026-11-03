@@ -18,6 +18,7 @@ import { authorImageAlt } from "../lib/images";
 import { authorHref, categoryHref } from "../lib/articles";
 import { pagedTitle, type Page } from "../lib/listing";
 import { upcoming } from "../lib/keydates";
+import { withFeaturedFirst } from "../lib/featured";
 import { liveTopics } from "../lib/storygraph";
 import { topicPath } from "../lib/topics";
 import { allPrintables, PRINTABLES_PATH } from "../lib/printables";
@@ -36,7 +37,7 @@ interface Props {
 const { page, all, heading, intro, description, categories, categoryNames, authors } = Astro.props;
 // Daily puzzle pages are the newest stories most days; keep them in their own block so the
 // lead and the latest column carry the reported stories.
-const editorial = page.items.filter((a) => a.data.category.id !== "puzzles");
+const editorial = withFeaturedFirst(page.items.filter((a) => a.data.category.id !== "puzzles"), all);
 const [lead, ...others] = editorial;
 const latest = others.slice(0, 4);
 const more = others.slice(4, 9);

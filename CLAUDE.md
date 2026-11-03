@@ -65,6 +65,7 @@ Do not run Lighthouse (`news:lighthouse`, `smoke:lighthouse`). The goal is fast,
 | `seoTitle` | 20 to 60 characters |
 | `description` | 120 to 160 characters |
 | `publishedAt` / `updatedAt` | ISO with offset, America/New_York (`2026-10-21T09:30:00-04:00`). The build fails on a future `updatedAt` or correction date; a future `publishedAt` schedules the story, and auto-publish puts it live a few minutes after that time |
+| `featuredUntil` | optional, same ISO format: pins the story as the news home lead until that time (`lib/featured.ts`); after `publishedAt` |
 | `keywords` | 1 to 5 |
 | `summary` | 2 to 4 bullets |
 | `type` | `news`, `explainer`, `analysis` or `update` (`news` and `update` need sources) |

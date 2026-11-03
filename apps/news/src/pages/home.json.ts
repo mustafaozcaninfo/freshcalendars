@@ -2,6 +2,7 @@ import type { APIRoute } from "astro";
 import { getImage } from "astro:assets";
 import { getCategoryNames, getIndexableArticles } from "../lib/articles";
 import { upcoming } from "../lib/keydates";
+import { withFeaturedFirst } from "../lib/featured";
 import { articlePath, isoDateTime } from "../lib/seo";
 
 /** Stories and dates the calendar home page shows. */
@@ -19,8 +20,7 @@ export const GET: APIRoute = async () => {
   const all = await getIndexableArticles(now);
   const names = await getCategoryNames();
   const stories = await Promise.all(
-    all
-      .filter((a) => a.data.category.id !== "puzzles")
+    withFeaturedFirst(all.filter((a) => a.data.category.id !== "puzzles"), all, now)
       .slice(0, STORIES)
       .map(async (a) => {
         const img = await getImage({ src: a.data.hero.src, width: 480, format: "webp", quality: 62 });
