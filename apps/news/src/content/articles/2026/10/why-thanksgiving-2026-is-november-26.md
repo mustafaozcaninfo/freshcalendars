@@ -4,7 +4,7 @@ seoTitle: "Thanksgiving 2026: Thursday, Nov. 26 (Dates to 2035)"
 description: "Thanksgiving 2026 is Thursday, Nov. 26, the fourth Thursday of November under a 1941 law. See Thanksgiving dates through 2035 and who gets Friday off."
 type: explainer
 publishedAt: "2026-10-17T16:30:00-04:00"
-updatedAt: "2026-10-30T13:15:00-04:00"
+updatedAt: "2026-11-03T08:20:00-05:00"
 authors: [christina-gerland]
 category: holidays
 keywords: ["thanksgiving 2026", "what day is thanksgiving 2026", "thanksgiving dates 2026 to 2035", "why is thanksgiving on the 26th this year", "is the day after thanksgiving a holiday"]
@@ -114,6 +114,9 @@ sources:
   - title: "Macy's Kicks Off the 100-Day Countdown to the 100th Macy's Thanksgiving Day Parade"
     url: "https://www.macysinc.com/newsroom/news/news-details/2026/Macys-Kicks-Off-the-100-Day-Countdown-to-the-100th-Macys-Thanksgiving-Day-Parade/default.aspx"
     publisher: "Macy's, Inc."
+  - title: "2026 NFL schedule release: Lions to host Bears to kick off Thanksgiving Day slate"
+    url: "https://www.nfl.com/news/2026-nfl-schedule-release-lions-to-host-bears-to-kick-off-thanksgiving-day-slate"
+    publisher: "NFL.com"
   - title: "AAA Thanksgiving Travel Forecast 2025"
     url: "https://newsroom.aaa.com/2025/11/aaa-thanksgiving-travel-forecast-2025/"
     publisher: "AAA Newsroom"
@@ -175,14 +178,14 @@ Thanksgiving Day 2026 is Thursday, Nov. 26. The table runs from the Friday befor
 |---|---|---|---|
 | Nov. 20 | Friday | Friday before Thanksgiving | - |
 | Nov. 24 | Tuesday | Tuesday before Thanksgiving | - |
-| Nov. 25 | Wednesday | Thanksgiving Eve, first National Football League (NFL) game | - |
+| Nov. 25 | Wednesday | Thanksgiving Eve, first National Football League (NFL) game of the week: Packers at Rams | - |
 | Nov. 26 | Thursday | Thanksgiving Day (federal holiday) | - |
 | Nov. 27 | Friday | Black Friday | - |
 | Nov. 28 | Saturday | Small Business Saturday | - |
 | Nov. 29 | Sunday | Last day of the four-day weekend | - |
 | Nov. 30 | Monday | Cyber Monday | - |
 
-<div class="tool-box" data-launch-clock data-local="2026-11-26" data-done="Thanksgiving 2026 is here. Happy Thanksgiving." data-targets="Thanksgiving Day, midnight in your time zone|;Macy's parade starts, 8:30 a.m. ET|2026-11-26T13:30:00Z;First NFL kickoff, Bears at Lions, 1 p.m. ET|2026-11-26T18:00:00Z" hidden>
+<div class="tool-box" data-launch-clock data-local="2026-11-26" data-done="Thanksgiving 2026 is here. Happy Thanksgiving." data-targets="Thanksgiving Day, midnight in your time zone|;Macy's parade starts, 8:30 a.m. ET|2026-11-26T13:30:00Z;First Thanksgiving Day NFL kickoff, Bears at Lions, 1 p.m. ET|2026-11-26T18:00:00Z" hidden>
 <p class="tool-title">Days, hours, minutes and seconds until Thanksgiving</p>
 <label for="lc-tg">Count down to</label>
 <select id="lc-tg"></select>
@@ -254,7 +257,7 @@ Congress settled the question in 1941 with House Joint Resolution 41. The Nation
 
 ## Is the day after Thanksgiving a holiday? The 4-day weekend
 
-For federal employees, no. The Office of Personnel Management lists Thursday, Nov. 26 as the federal holiday, and Friday, Nov. 27 is not one. As of Oct. 28, 2026, no executive order giving federal workers that Friday off had been announced.
+For federal employees, no. The Office of Personnel Management lists Thursday, Nov. 26 as the federal holiday, and Friday, Nov. 27 is not one. As of Nov. 3, 2026, no executive order giving federal workers that Friday off had been announced.
 
 Many employers and some state governments do close on the Friday. North Carolina, for example, lists Thanksgiving as Thursday and Friday, Nov. 26 and 27, 2026, for state employees, according to the state's Office of State Human Resources. Check your own employer or your state's human resources page for the day after; our list of [states closed on Friday, Nov. 27](/news/is-the-day-after-thanksgiving-a-state-holiday-2026-states-closed-november-27/) covers state offices.
 
@@ -280,6 +283,6 @@ Canadian Thanksgiving falls on the second Monday of October, about six weeks bef
 
 ## Plan Thanksgiving week 2026
 
-The 2026 Macy's Thanksgiving Day Parade is the 100th, according to Macy's, and starts at 8:30 a.m. in all time zones on NBC and Peacock. On the roads, AAA has not released its 2026 Thanksgiving forecast; its 2025 forecast projected a record 81.8 million people traveling at least 50 miles over the holiday period. The [Thanksgiving travel 2026 guide](/news/thanksgiving-travel-2026-best-days-to-fly-and-drive/) covers the best days to fly and drive.
+The 2026 Macy's Thanksgiving Day Parade is the 100th, according to Macy's, and starts at 8:30 a.m. in all time zones on NBC, Peacock and Telemundo. The NFL opens Thanksgiving week on Wednesday, Nov. 25, with the Green Bay Packers at the Los Angeles Rams, and the Chicago Bears play at the Detroit Lions at 1 p.m. ET on Thursday on CBS, according to NFL.com. On the roads, AAA has not released its 2026 Thanksgiving forecast; its 2025 forecast projected a record 81.8 million people traveling at least 50 miles over the holiday period. The [Thanksgiving travel 2026 guide](/news/thanksgiving-travel-2026-best-days-to-fly-and-drive/) covers the best days to fly and drive.
 
 Work through the week with the [Thanksgiving 2026 planner, countdown and checklist](/news/thanksgiving-2026-planner-countdown-checklist/), track deals with the [Black Friday 2026 ad tracker](/news/black-friday-2026-ad-tracker-walmart-target-best-buy/), and mark the dates on a [November 2026 printable calendar](/november-calendars.html). To see which weekday Thanksgiving lands on in any other year, check [when Thanksgiving falls](/when-is/thanksgiving/).
