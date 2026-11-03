@@ -162,7 +162,7 @@ The December 2026 pages of the USCCB "Liturgical Calendar for the Dioceses of th
 | Sun., Dec. 20 | Fourth Sunday of Advent | Violet |
 | Fri., Dec. 25 | The Nativity of the Lord (Christmas), Solemnity, Holyday of Obligation | White |
 
-The optional memorial of Saint Nicholas is not listed for 2026 because Dec. 6 is a Sunday; in the USCCB's December 2025 page it appeared as "[Saint Nicholas, Bishop]". Our story on [Saint Nicholas Day 2026](/news/saint-nicholas-day-2026-december-6-eve-december-5/) covers the date, and our story on [Our Lady of Guadalupe Day 2026](/news/our-lady-of-guadalupe-day-2026-december-12-las-posadas-december-16-24/) covers Dec. 12.
+The optional memorial of Saint Nicholas is not listed for 2026 because Dec. 6 is a Sunday; in the USCCB's December 2025 page it appeared as "[Saint Nicholas, Bishop]". Our story on [Our Lady of Guadalupe Day 2026](/news/our-lady-of-guadalupe-day-2026-december-12-las-posadas-december-16-24/) covers Dec. 12.
 
 ## Do other churches start Advent on the same Sunday?
 
