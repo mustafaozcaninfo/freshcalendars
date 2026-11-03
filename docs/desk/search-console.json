@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-03T17:53:02.427Z",
+ "generatedAt": "2026-11-03T18:07:09.636Z",
  "site": "sc-domain:freshcalendars.com",
  "windows": [
   {
@@ -43,20 +43,23 @@
    {
     "start": "2026-10-25",
     "end": "2026-10-31",
-    "clicks": 22,
-    "impressions": 0
+    "clicks": 56,
+    "impressions": 5606,
+    "days": 7
    },
    {
     "start": "2026-10-18",
     "end": "2026-10-24",
-    "clicks": 49,
-    "impressions": 2016
+    "clicks": 58,
+    "impressions": 4073,
+    "days": 7
    },
    {
     "start": "2026-10-11",
     "end": "2026-10-17",
     "clicks": 12,
-    "impressions": 3359
+    "impressions": 3412,
+    "days": 7
    }
   ]
  },
@@ -78,6 +81,14 @@
   }
  ],
  "opportunities": [
+  {
+   "query": "thanksgiving 2026",
+   "page": "https://freshcalendars.com/news/why-thanksgiving-2026-is-november-26/",
+   "impressions": 204209,
+   "clicks": 39,
+   "position": 3.3,
+   "missing": 20382
+  },
   {
    "query": "sample ballot by zip code",
    "page": "https://freshcalendars.com/news/sample-ballot-by-zip-code-2026-texas-ballot/",
@@ -117,6 +128,14 @@
    "clicks": 2,
    "position": 5.5,
    "missing": 52
+  },
+  {
+   "query": "2026 thanksgiving",
+   "page": "https://freshcalendars.com/news/why-thanksgiving-2026-is-november-26/",
+   "impressions": 464,
+   "clicks": 0,
+   "position": 2.8,
+   "missing": 46
   },
   {
    "query": "sample ballot for my zip code",
@@ -223,6 +242,14 @@
    "missing": 22
   },
   {
+   "query": "2027 holidays canada",
+   "page": "https://freshcalendars.com/news/canada-statutory-holidays-2027-federal-general-holidays/",
+   "impressions": 217,
+   "clicks": 0,
+   "position": 3.4,
+   "missing": 22
+  },
+  {
    "query": "are banks open on election day 2026",
    "page": "https://freshcalendars.com/news/is-election-day-a-holiday-2026-whats-open/",
    "impressions": 448,
@@ -279,6 +306,14 @@
    "missing": 16
   },
   {
+   "query": "double misnomer",
+   "page": "https://freshcalendars.com/news/nyt-connections-hints-answers-october-21-2026-1228/",
+   "impressions": 156,
+   "clicks": 1,
+   "position": 2.6,
+   "missing": 15
+  },
+  {
    "query": "budget time",
    "page": "https://freshcalendars.com/news/uk-budget-2026-date-wednesday-28-october-what-time/",
    "impressions": 725,
@@ -319,6 +354,14 @@
    "missing": 13
   },
   {
+   "query": "dia de los muertos 2026 calendar",
+   "page": "https://freshcalendars.com/news/day-of-the-dead-2026-dia-de-los-muertos-dates/",
+   "impressions": 319,
+   "clicks": 20,
+   "position": 2.8,
+   "missing": 12
+  },
+  {
    "query": "diwali 2026 date usa",
    "page": "https://freshcalendars.com/news/diwali-2026-date-lakshmi-puja-time-usa/",
    "impressions": 579,
@@ -357,46 +400,6 @@
    "clicks": 0,
    "position": 10.7,
    "missing": 11
-  },
-  {
-   "query": "wordle 1950",
-   "page": "https://freshcalendars.com/news/wordle-hint-answer-today-october-21-2026-1950/",
-   "impressions": 558,
-   "clicks": 1,
-   "position": 9.4,
-   "missing": 10
-  },
-  {
-   "query": "double misnomers (neither word is an accurate description)",
-   "page": "https://freshcalendars.com/news/nyt-connections-hints-answers-october-21-2026-1228/",
-   "impressions": 293,
-   "clicks": 0,
-   "position": 7.5,
-   "missing": 10
-  },
-  {
-   "query": "drape pillow rug shade",
-   "page": "https://freshcalendars.com/news/nyt-connections-hints-answers-october-30-2026-1237/",
-   "impressions": 289,
-   "clicks": 0,
-   "position": 8.4,
-   "missing": 10
-  },
-  {
-   "query": "printable sample ballot by zip code 2026",
-   "page": "https://freshcalendars.com/news/sample-ballot-by-zip-code-2026-texas-ballot/",
-   "impressions": 1284,
-   "clicks": 36,
-   "position": 6.7,
-   "missing": 9
-  },
-  {
-   "query": "connections 26 october 2026",
-   "page": "https://freshcalendars.com/news/nyt-connections-hints-answers-october-26-2026-1233/",
-   "impressions": 332,
-   "clicks": 3,
-   "position": 7.7,
-   "missing": 9
   }
  ],
  "pages": {
