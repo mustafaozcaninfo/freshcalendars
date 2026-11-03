@@ -20,7 +20,7 @@ export const MIN_CONTRAST = 3;
 export const GOOD_CONTRAST = 4.5;
 const FONTS = /^(Sora|Manrope)\b/;
 
-export type PrintReport = { errors: string[]; warnings: string[]; clearance: number | null };
+export type PrintReport = { errors: string[]; warnings: string[]; clearance: number | null; gap: number };
 
 /** Same options for every printable PDF: exact page size, no margins, tagged (structure tree for screen readers). */
 export const pdfOptions = (size: { width: number; height: number }) =>
@@ -57,11 +57,13 @@ const MEASURE = String.raw`({ SAFE, EDGE, MIN_PX, MIN_C, GOOD_C, fontsRe }) => {
     };
     const pages = [...document.querySelectorAll(".page")];
     if (!pages.length) errors.push("no .page element: build the sheet with doc() from julian.ts");
-    let clearance = null, fontIx = 0;
+    let clearance = null, fontIx = 0, gap = 0;
     pages.forEach((pg, pi) => {
       const P = pg.getBoundingClientRect(), at = pages.length > 1 ? "page " + (pi + 1) + ": " : "";
       const foot = pg.querySelector(".foot")?.getBoundingClientRect();
       const walker = document.createTreeWalker(pg, NodeFilter.SHOW_TEXT);
+      // Writing areas (notes, fill-in boxes, tables of blank cells) count as filled.
+      const spans = [...pg.querySelectorAll(".notes, .box, svg, table, [data-print-fill]")].map((e) => { const r = e.getBoundingClientRect(); return [r.top - P.top, r.bottom - P.top]; });
       for (let n = walker.nextNode(); n; n = walker.nextNode()) {
         const text = n.textContent ?? "";
         if (!text.trim()) continue;
@@ -73,6 +75,7 @@ const MEASURE = String.raw`({ SAFE, EDGE, MIN_PX, MIN_C, GOOD_C, fontsRe }) => {
         const cs = getComputedStyle(el);
         if (cs.visibility === "hidden" || Number(cs.opacity) === 0) continue;
         const inFoot = !!el.closest(".foot");
+        if (!inFoot) spans.push([b.top - P.top, b.bottom - P.top]);
         const m = inFoot || el.closest("[data-print-edge]") ? EDGE : SAFE;
         const gaps = [["left", b.left - P.left], ["top", b.top - P.top], ["right", P.right - b.right], ["bottom", P.bottom - b.bottom]];
         for (const [side, d] of gaps) if (d < m - 0.5) errors.push(at + say(text) + " is " + Math.round(d) + " px from the " + side + " edge (min " + m + " px)");
@@ -100,10 +103,15 @@ const MEASURE = String.raw`({ SAFE, EDGE, MIN_PX, MIN_C, GOOD_C, fontsRe }) => {
         // Glyphs outside the embedded fonts fall back to a system font that differs per machine.
         if (/[^\x20-\x7e]/.test(text) || !fonts.test(cs.fontFamily.replace(/["']/g, ""))) el.setAttribute("data-fc-font", String(fontIx++));
       }
+      // Largest empty band between two pieces of text: a note pinned to the bottom must not hide
+      // an empty half page from the footer-clearance measure.
+      spans.sort((x, y) => x[0] - y[0]);
+      let reach = spans.length ? spans[0][1] : 0;
+      for (const [top, bottom] of spans) { if (top > reach) gap = Math.max(gap, top - reach); reach = Math.max(reach, bottom); }
     });
     for (const [px, t] of small) errors.push(t + " and other text at " + px + " px; the minimum is " + MIN_PX + " px (6 pt)");
     for (const [key, p] of pale) (p.ratio < MIN_C ? errors : warnings).push(p.text + " and other text in " + key + ": contrast " + p.ratio.toFixed(2) + ":1, " + (p.ratio < MIN_C ? "needs " + MIN_C + ":1" : "aim for " + (p.large ? MIN_C : GOOD_C) + ":1"));
-    return { errors, warnings, clearance };
+    return { errors, warnings, clearance, gap };
 }`;
 
 /** Measures every text node on every `.page`; returns errors (must fix) and warnings. */
@@ -133,6 +141,7 @@ export async function checkPrintLayout(page: Page): Promise<PrintReport> {
   if (r.clearance !== null && r.clearance < 6) r.warnings.push(`only ${Math.round(r.clearance)} px between the content and the footer; one more row will collide`);
   const height = await page.evaluate("document.querySelector('.page')?.getBoundingClientRect().height ?? 0") as number;
   if (r.clearance !== null && r.clearance > height / 4) r.warnings.push(`the bottom ${Math.round((r.clearance / height) * 100)}% of the page is empty; fill it (notes area, a second table) or scale the content up`);
+  else if (r.gap > height / 4) r.warnings.push(`${Math.round((r.gap / height) * 100)}% of the page is an empty band between two blocks of text; fill it (notes area, a second table) or scale the content up`);
   return r;
 }
 

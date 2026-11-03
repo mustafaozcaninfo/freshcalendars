@@ -7,6 +7,10 @@ import { finish, grainLayer } from "./fx.ts";
 import { samePdf } from "./printables.ts";
 import { splitVolatile } from "./sitePages.ts";
 import sharp from "sharp";
+import { KITS } from "./kits/index.ts";
+import { THEMES, contrast, textPairs } from "./kits/themes.ts";
+import { clock } from "./kits/watchGuide.ts";
+import { factTokens } from "../../../scripts/lib/print-record.mjs";
 
 const base = { slug: "t", group: "g", title: "Test Dates 2026", note: "Source: test" };
 const iso = (d: Date) => d.toISOString().slice(0, 10);
@@ -74,4 +78,84 @@ test("sitemap hash ignores volatile blocks and strips their markers", () => {
   assert.equal(a.contentHash, b.contentHash);
   assert.notEqual(a.contentHash, c.contentHash);
   assert.equal(a.html, "<main>AToday: Oct 25B</main>");
+});
+
+test("a weekday written after the date is checked too", () => {
+  assert.throws(() => items({ ...base, rows: [["Jan. 4, 2027 (Fri.)", "x"]] }, 2026), /is a Mon, not a Fri/);
+  assert.doesNotThrow(() => items({ ...base, rows: [["Jan. 4, 2027 (Mon.)", "x"]] }, 2026));
+  assert.throws(() => items({ ...base, rows: [["Feb. 15-19, 2027 (Mon. to Thu.)", "x"]] }, 2026), /is a Fri, not a Thu/);
+  assert.doesNotThrow(() => items({ ...base, rows: [["Feb. 15-19, 2027 (Mon. to Fri.)", "x"]] }, 2026));
+  // Real rows from stories: a pair after two dates, a year after the weekday, a range over New Year.
+  for (const when of ["Mar. 3 to Mar. 4, 2027 (Wed.-Thu.)", "Jan. 11 (Mon.) to Jan. 15 (Fri.), 2027", "Dec. 28 to Jan. 1 (Mon. to Fri.)", "Feb. 12, 2027 (Fri.) to Feb. 16 (Tue.)"])
+    assert.doesNotThrow(() => items({ ...base, rows: [[when, "x"]] }, 2026), when);
+});
+
+/** Kit context with two sources and the school theme; fonts are not needed to validate. */
+const kctx = (category = "school-calendars") => ({ storySlug: "s", category, sources: [{ url: "https://a.gov/x", publisher: "A" }, { url: "https://b.gov/y", publisher: "B" }], theme: THEMES[category]!, fonts: "" });
+
+test("school-year refuses bad dates, unknown sources, overlaps and a weekend holiday", () => {
+  const k = KITS["school-year"]!;
+  const ok = { start: "2026-08", months: 10, events: [{ from: "2026-12-21", to: "2027-01-04", kind: "break", label: "Winter break", src: 1 }] };
+  assert.doesNotThrow(() => k.validate(ok, kctx()));
+  const bad = (events: unknown[], re: RegExp) => assert.throws(() => k.validate({ ...ok, events }, kctx()), re);
+  bad([{ from: "2026-02-30", kind: "holiday", label: "X", src: 1 }], /not a real date/);
+  bad([{ from: "2026-12-04", to: "2026-12-01", kind: "break", label: "X", src: 1 }], /ends before it starts/);
+  bad([{ from: "2026-11-03", kind: "holiday", label: "X", src: 3 }], /not one of the story's 2 sources/);
+  bad([{ from: "2026-11-03", kind: "holiday", label: "X" }], /add src/);
+  bad([{ from: "2026-11-23", to: "2026-11-27", kind: "break", label: "A", src: 1 }, { from: "2026-11-25", kind: "early", label: "B", src: 1 }], /is both "A" and "B"/);
+  bad([{ from: "2026-11-07", kind: "holiday", label: "X", src: 1 }], /falls on a Sat/);
+  bad([{ from: "2027-07-01", kind: "holiday", label: "X", src: "B" }], /outside the months shown/);
+});
+
+test("school-year counts weekdays off from the dates, not from typed numbers", () => {
+  const k = KITS["school-year"]!;
+  const d = k.validate({ start: "2026-08", months: 10, events: [{ from: "2026-12-21", to: "2027-01-04", kind: "break", label: "Winter break", src: 1 }] }, kctx());
+  const html = k.render(d, { kit: "school-year", slug: "x", group: "g", title: "T 2026", note: "Source: A", data: {} }, { ...kctx(), fonts: "" }).html;
+  // Dec. 21-24, 25, 28-31, Jan. 1 and Jan. 4 are weekdays: 11.
+  assert.match(html, /<b>11<\/b><span>weekdays of scheduled breaks/);
+});
+
+test("watch-guide converts one sourced moment to the four U.S. zones", () => {
+  const k = KITS["watch-guide"]!;
+  const ev = (start: string, airing?: string) => ({ events: [{ start, title: "Game", channel: "NBC", src: 1, ...(airing ? { airing } : {}) }] });
+  const render = (data: unknown) => k.render(k.validate(data, kctx("sports")), { kit: "watch-guide", slug: "x", group: "g", title: "T 2026", note: "Source: A", data: {} }, kctx("sports"));
+  const live = render(ev("2026-11-18T20:00-05:00"));
+  assert.deepEqual(live.computed, ["7 p.m.", "6 p.m.", "5 p.m."]);
+  // 12:30 a.m. Eastern is still the evening before out West, and the sheet says which day.
+  const late = render(ev("2026-11-19T00:30-05:00")).html;
+  assert.match(late, /9:30 p\.m\. <em>\(Wed\.\)<\/em>/);
+  assert.match(render(ev("2026-11-18T20:00-05:00", "delayed")).html, /7 p\.m\.<\/td><td class="z na">Local listings/);
+  assert.throws(() => k.validate(ev("2026-11-18 20:00"), kctx()), /ISO time with its offset/);
+  assert.equal(clock(12, 0), "noon");
+  assert.equal(clock(0, 15), "12:15 a.m.");
+});
+
+test("deadline-matrix needs ordered dates inside its columns and before the target", () => {
+  const k = KITS["deadline-matrix"]!;
+  const base = { target: { date: "2026-12-25", label: "Christmas Day" }, columns: ["FedEx", "USPS"] };
+  const ok = { ...base, rows: [{ date: "2026-12-15", cells: { FedEx: "Ground Economy" }, src: 1 }, { date: "2026-12-18", cells: { USPS: { text: "Priority Mail", src: 2 } } }] };
+  const d = k.validate(ok, kctx("retail-dates"));
+  assert.match(k.render(d, { kit: "deadline-matrix", slug: "x", group: "g", title: "T 2026", note: "Source: A", data: {} }, kctx("retail-dates")).html, /Tue\., Dec\. 15<\/td><td class="n">10</);
+  const bad = (rows: unknown[], re: RegExp) => assert.throws(() => k.validate({ ...base, rows }, kctx("retail-dates")), re);
+  bad([{ date: "2026-12-18", cells: { UPS: "x" }, src: 1 }], /"UPS" is not one of the columns/);
+  bad([{ date: "2026-12-18", cells: { FedEx: "x" }, src: 1 }, { date: "2026-12-15", cells: { FedEx: "y" }, src: 1 }], /not after the row before/);
+  bad([{ date: "2026-12-28", cells: { FedEx: "x" }, src: 1 }], /after the target/);
+  bad([{ date: "2026-12-18", cells: { FedEx: "x" } }], /add src/);
+});
+
+test("every kit theme keeps its text pairs at 4.5:1", () => {
+  for (const t of Object.values(THEMES)) for (const [fg, bg, what] of textPairs(t)) assert.ok(contrast(fg, bg) >= 4.5, `${t.id}: ${what} is ${contrast(fg, bg).toFixed(2)}:1`);
+});
+
+test("factTokens reads dates, ranges, times, amounts and percentages the same way on both sides", () => {
+  const story = factTokens("Holiday break runs Dec. 21 through Jan. 4; the show starts at 8 p.m. and costs $1,234.50, 86 percent");
+  for (const k of ["d:12-21", "d:1-4", "t:20:00", "$:1234.5", "%:86"]) assert.ok(story.has(k), k);
+  // A range supports its two ends only, so a sheet cannot name a day the story never wrote.
+  assert.ok(!story.has("d:12-28"));
+  const sheet = factTokens("Mon., Dec. 28 · 8:00 p.m. · Sept. 24 · 86%");
+  assert.deepEqual([...sheet].sort(), ["%:86", "d:12-28", "d:9-24", "t:20:00"]);
+  assert.ok(factTokens("as of 2026-09-24", { iso: true }).has("d:9-24"));
+  assert.deepEqual([...factTokens("Burns Night is 25 January; doors 24-26 Dec", { story: true })].sort(), ["d:1-25", "d:12-24", "d:12-26"]);
+  assert.ok(!factTokens("2 Feb. 2027").has("d:2-2"), "day-first is read in stories only");
+  assert.ok(factTokens("gates open 17:00", { story: true }).has("t:17:00"));
 });

@@ -15,7 +15,7 @@
  *     overflows, the sheet fails and the rows must be cut or split (error)
  *   - the page is filled: short content is scaled up (to 130%) and a notes area takes the rest
  *   - at most 40 rows, a sources note, a year in the title, cells under 140 characters (warnings/errors)
- *   - `inkSaver: true` also writes <slug>-ink: black on white, outlines only, for home printers
+ *   - `inkSaver` is retired (2026-11-03): one color sheet per story, no -ink copy
  *   - then the print checks in printCheck.ts (safe area, footer, fonts, type size, contrast) (error)
  */
 import { LETTER, doc } from "./julian.js";
@@ -26,7 +26,7 @@ export type Row = [string, string] | { when: string; what: string; date?: string
 export type Printable = {
   slug: string; group: string; title: string; subtitle?: string; columns?: [string, string]; rows: Row[]; note: string;
   description?: string; alt?: string; layout?: "auto" | "list" | "month" | "timeline" | "checklist";
-  year?: number; weekStart?: "sunday" | "monday"; inkSaver?: boolean; notesLabel?: string;
+  year?: number; weekStart?: "sunday" | "monday"; /** retired, ignored */ inkSaver?: boolean; notesLabel?: string;
 };
 type Item = { when: string; what: string; date?: Date; end?: Date; section?: string; n: number };
 
@@ -38,19 +38,48 @@ const DAY_MS = 86_400_000;
 
 /**
  * Every "Weekday, Mon. D" in a `when` text as dates in `year`, with the weekday each one claims.
- * "Oct. 22-24" adds Oct. 24; "Fri., Nov. 20 to Sat., Nov. 21" gives both ends.
- * An explicit year after the day ("Sat., Jan. 2, 2027") wins, so a sheet can cross New Year.
+ * "Oct. 22-24" adds Oct. 24; "Fri., Nov. 20 to Sat., Nov. 21" gives both ends. A weekday may also
+ * follow the date: "Jan. 18, 2027 (Mon.)"; a pair after a range, "Feb. 15-19 (Mon. to Fri.)" or
+ * "Mar. 3 to Mar. 4, 2027 (Wed.-Thu.)", names its first and last day.
+ * Years: an explicit year after a day ("Sat., Jan. 2, 2027") wins and also dates the days before it
+ * in the same text ("Jan. 11 to Jan. 15, 2027"); a day without one takes the year of the day before
+ * it, plus one when it would fall earlier ("Dec. 28 to Jan. 1"), so a sheet can cross New Year.
  */
 export function parseWhen(when: string, year: number): { date: Date; claimed?: number }[] {
-  const out: { date: Date; claimed?: number }[] = [];
+  const trail = new RegExp(`^\\s*\\(${DOW_RE}(?:\\s*(?:to|-|\u2013)\\s*${DOW_RE})?\\)`);
+  const dowIx = (s: string) => ["sun", "mon", "tue", "wed", "thu", "fri", "sat"].indexOf(s.slice(0, 3).toLowerCase());
   const re = new RegExp(`(?:${DOW_RE},?\\s+)?${MON_RE}\\s+(\\d{1,2})\\b(?:\\s*[-\u2013]\\s*(\\d{1,2})\\b(?!\\s*[ap]\\.?m))?(?:,\\s*(20\\d\\d)\\b)?`, "g");
+  type Hit = { mon: number; day: number; end?: number; y?: number; claimed?: number; endClaimed?: number };
+  const hits: Hit[] = [];
   for (const m of when.matchAll(re)) {
     const mon = MON.indexOf(m[2]!.slice(0, 3).toLowerCase());
-    const y = m[5] ? Number(m[5]) : year;
-    const date = new Date(Date.UTC(y, mon, Number(m[3])));
-    if (date.getUTCMonth() !== mon) continue;
-    out.push({ date, claimed: m[1] ? ["sun", "mon", "tue", "wed", "thu", "fri", "sat"].indexOf(m[1].slice(0, 3).toLowerCase()) : undefined });
-    if (m[4]) out.push({ date: new Date(Date.UTC(y, mon, Number(m[4]))) });
+    const rest = when.slice((m.index ?? 0) + m[0].length), after = trail.exec(rest);
+    // "Jan. 15 (Fri.), 2027": the year may come after the weekday.
+    const late = !m[5] && after ? /^,?\s*(20\d\d)\b/.exec(rest.slice(after[0].length))?.[1] : undefined;
+    const h: Hit = { mon, day: Number(m[3]), end: m[4] ? Number(m[4]) : undefined, y: m[5] ? Number(m[5]) : late ? Number(late) : undefined, claimed: m[1] ? dowIx(m[1]) : undefined };
+    if (after?.[2]) {
+      // A pair names a range: this match's own range, or the range from the day before to this one.
+      if (h.end !== undefined) { h.claimed ??= dowIx(after[1]!); h.endClaimed = dowIx(after[2]); }
+      else { h.claimed ??= dowIx(after[2]); if (hits.length && hits[hits.length - 1]!.claimed === undefined) hits[hits.length - 1]!.claimed = dowIx(after[1]!); }
+    } else if (after?.[1]) h.claimed ??= dowIx(after[1]);
+    hits.push(h);
+  }
+  // Years: explicit ones date the days before them, then each undated day follows the one before it.
+  for (let i = hits.length - 1, next: number | undefined, nextAt: Hit | undefined; i >= 0; i--) {
+    const h = hits[i]!;
+    if (h.y !== undefined) { next = h.y, nextAt = h; continue; }
+    if (next !== undefined && nextAt) h.y = h.mon * 32 + h.day > nextAt.mon * 32 + nextAt.day ? next - 1 : next;
+  }
+  const out: { date: Date; claimed?: number }[] = [];
+  let prev: Date | undefined;
+  for (const h of hits) {
+    let y = h.y ?? prev?.getUTCFullYear() ?? year;
+    if (h.y === undefined && prev && Date.UTC(y, h.mon, h.day) < prev.getTime()) y++;
+    const date = new Date(Date.UTC(y, h.mon, h.day));
+    if (date.getUTCMonth() !== h.mon) continue;
+    out.push({ date, claimed: h.claimed });
+    prev = date;
+    if (h.end !== undefined) out.push({ date: (prev = new Date(Date.UTC(y, h.mon, h.end))), claimed: h.endClaimed });
   }
   return out;
 }
@@ -153,7 +182,7 @@ function body(layout: string, list: Item[], p: Printable): string {
  * until the content column fits the page and flags an overflow it could not fix; a short sheet grows
  * (up to 130%) until the notes area is under 40% of the page.
  */
-const FIT = `<script>window.__fit=()=>{const pg=document.querySelector('.page'),col=document.querySelector('.col');let s=1;
+export const FIT = `<script>window.__fit=()=>{const pg=document.querySelector('.page'),col=document.querySelector('.col');let s=1;
 const over=()=>col.scrollHeight>col.clientHeight+1;while(over()&&s>0.8){s=Math.round((s-0.02)*100)/100;document.documentElement.style.setProperty('--s',s)}
 if(over())document.body.dataset.overflow='1';const n=document.querySelector('.notes');
 if(s===1&&n){while(n.clientHeight>col.clientHeight*0.4&&s<1.3){s=Math.round((s+0.02)*100)/100;document.documentElement.style.setProperty('--s',s);if(over()){s=Math.round((s-0.02)*100)/100;document.documentElement.style.setProperty('--s',s);break}}}if(n&&n.clientHeight<70)n.style.display='none';return s};</script>`;
@@ -164,11 +193,10 @@ if(s===1&&n){while(n.clientHeight>col.clientHeight*0.4&&s<1.3){s=Math.round((s+0
  */
 const NOTE_LINES = "<i></i>".repeat(36);
 
-export function printableHtml(fonts: string, storySlug: string, color: string, p: Printable, fallbackYear: number, iconName: string, ink = false): { html: string; layout: string; warnings: string[] } {
+export function printableHtml(fonts: string, storySlug: string, color: string, p: Printable, fallbackYear: number, iconName: string): { html: string; layout: string; warnings: string[] } {
   const { list, warnings } = items(p, fallbackYear);
   const layout = !p.layout || p.layout === "auto" ? chooseLayout(list) : p.layout;
-  const c = ink ? "#1f2937" : color;
-  const fill = ink ? "#fff" : c, fillText = ink ? "#111" : "#fff";
+  const c = color, fill = c, fillText = "#fff";
   const cellH = layout === "month" ? (months(list.filter((x) => x.date)).length > 1 ? 52 : 64) : 60;
   const css = `
   :root{--s:1}
@@ -187,9 +215,9 @@ export function printableHtml(fonts: string, storySlug: string, color: string, p
   table.grid{width:100%;border-collapse:collapse;table-layout:fixed}
   .grid th{font-family:Sora;font-size:calc(9px*var(--s));color:#475569;text-transform:uppercase;padding:3px 0}
   .grid td{border:1px solid #cbd5e1;height:calc(${cellH}px*var(--s));vertical-align:top;padding:3px 4px;position:relative}
-  .grid td.x{background:${ink ? "#fff" : "#f8fafc"}}
+  .grid td.x{background:#f8fafc}
   .grid .dn{font-family:Sora;font-weight:700;font-size:calc(10.5px*var(--s));color:#334155}
-  .grid td.hit{background:${ink ? "#fff" : `${c}14`};border-color:${c}}
+  .grid td.hit{background:${c}14;border-color:${c}}
   .grid .mk{position:absolute;right:4px;bottom:4px;display:flex;gap:2px;flex-wrap:wrap;justify-content:flex-end}
   .mk i,.legend i,.tl i{font-style:normal;display:inline-grid;place-items:center;border-radius:50%;background:${fill};color:${fillText};border:1.6px solid ${c};font-family:Sora;font-weight:800}
   .mk i{width:calc(17px*var(--s));height:calc(17px*var(--s));font-size:calc(9.5px*var(--s))}
