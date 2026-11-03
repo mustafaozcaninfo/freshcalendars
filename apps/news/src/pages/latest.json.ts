@@ -30,14 +30,20 @@ export const GET: APIRoute = async () => {
     for (const link of a.data.internalLinks) {
       const slug = /^\/when-is\/([a-z0-9-]+)\/?$/.exec(link.href)?.[1];
       if (slug) {
-        const list = (bySlug[slug] ??= []);
-        if (list.length < PER_SLUG) list.push(story);
+        (bySlug[slug] ??= []).push(story);
         continue;
       }
       if (PATH_SKIP_CATEGORIES.has(a.data.category.id)) continue;
       const list = (byPath[link.href] ??= []);
       if (list.length < PER_PATH && !list.some((s) => s.url === story.url)) list.push(story);
     }
+  }
+  // Stories that name the holiday in their title first ("Thanksgiving Travel 2026" before a hockey
+  // schedule that only links the page), then newest; three per page.
+  for (const [slug, list] of Object.entries(bySlug)) {
+    const words = slug.replace(/^(uk|ca)-/, "").split("-").filter((w) => w.length > 2 && !["day", "the", "and"].includes(w));
+    const hits = (s: Story) => words.filter((w) => s.title.toLowerCase().includes(w)).length;
+    bySlug[slug] = list.map((s, i) => ({ s, i, h: hits(s) })).sort((a, b) => b.h - a.h || a.i - b.i).slice(0, PER_SLUG).map((x) => x.s);
   }
   return new Response(JSON.stringify({ bySlug, byPath }, null, 2), { headers: { "Content-Type": "application/json" } });
 };
