@@ -52,3 +52,13 @@ test("puzzle-month draws Connections group titles from the saved data", () => {
   assert.match(out.html, /KINDS OF TEETH/); // a real group title from the saved file
   assert.match(out.html, /Group 1/); // the blank solving board's group lines
 });
+
+test("a month still being played prints saved days and says the rest are not played yet", () => {
+  const ctx2 = { storySlug: "s", category: "puzzles", sources: [], theme: THEMES.puzzles!, fonts: "", publishedAt: "2026-11-10T09:00:00-05:00" };
+  assert.throws(() => puzzleMonth.validate({ game: "wordle", month: "2026-11" }, ctx2), /no saved Wordle data/);
+  assert.throws(() => puzzleMonth.validate({ game: "wordle", month: "2026-11", through: "2026-12-01" }, ctx2), /through/);
+  const d = puzzleMonth.validate({ game: "wordle", month: "2026-11", through: "2026-11-10" }, ctx2);
+  assert.equal(d.days.length, 10);
+  const html = puzzleMonth.render(d, { kit: "puzzle-month", slug: "x", group: "g", title: "Wordle Answers November 2026", note: "Source: The New York Times", data: {} }, ctx2).html;
+  assert.equal((html.match(/Not yet played/g) ?? []).length, 20);
+});

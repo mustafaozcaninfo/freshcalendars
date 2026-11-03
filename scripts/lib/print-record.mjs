@@ -25,13 +25,20 @@ export const PRINT_SINCE = "2026-11-14";
  * listed here keep the classic layouts until they get a kit of their own.
  */
 export const KIT_FOR_CATEGORY = {
-  "school-calendars": ["school-year"],
+  "school-calendars": ["school-year", "deadline-matrix"],
   sports: ["watch-guide"],
-  entertainment: ["watch-guide"],
-  "retail-dates": ["deadline-matrix"],
+  entertainment: ["watch-guide", "release-tracker"],
+  "retail-dates": ["deadline-matrix", "holiday-planner"],
   "money-benefits": ["deadline-matrix"],
   elections: ["deadline-matrix"],
-  planning: ["deadline-matrix"],
+  planning: ["deadline-matrix", "holiday-planner"],
+  holidays: ["holiday-planner", "deadline-matrix", "watch-guide"],
+  "uk-canada": ["bank-holidays", "holiday-planner", "watch-guide", "deadline-matrix"],
+  "sky-events": ["sky-night"],
+  "time-change": ["clock-change"],
+  puzzles: ["puzzle-month"],
+  "gaming-tech": ["release-tracker", "watch-guide"],
+  "calendar-guides": ["year-reference", "deadline-matrix"],
 };
 /** Records from this version on are held to the kit rule (older records were drawn before it). */
 export const RECORD_VERSION = 2;

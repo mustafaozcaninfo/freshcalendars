@@ -169,7 +169,9 @@ test("categories with a kit must use it or say why not", () => {
   assert.equal(kitProblem("sports", { kit: "watch-guide" }), null);
   assert.match(kitProblem("school-calendars", { noKit: "n/a" })!, /at least 20 characters/);
   assert.equal(kitProblem("school-calendars", { noKit: "registration rules by district, not a calendar" }), null);
-  assert.equal(kitProblem("holidays", { rows: [] }), null);
+  // Every category has a kit now (owner, 2026-11-03: "no category without a kit").
+  for (const c of ["holidays", "uk-canada", "sky-events", "time-change", "puzzles", "gaming-tech", "calendar-guides"]) assert.match(kitProblem(c, { rows: [] })!, /use a kit/, c);
+  assert.equal(kitProblem("no-such-category", { rows: [] }), null);
   for (const kits of Object.values(KIT_FOR_CATEGORY)) for (const k of kits) assert.ok(KITS[k], `${k} is a real kit`);
 });
 
@@ -215,4 +217,10 @@ test("a custom generator's PDF in a kit category needs a reason", () => {
   assert.match(customProblem("sports", {}, null, pdfs)!, /customPrintable/);
   assert.equal(customProblem("sports", { customPrintable: "season-long pick'em hub drawn from the schedule CSV" }, null, pdfs), null);
   assert.equal(customProblem("sports", {}, { files: pdfs }, pdfs), null);
+});
+
+test("every /news/ category has at least one kit", async () => {
+  const { readdirSync } = await import("node:fs");
+  const cats = readdirSync(new URL("../../../apps/news/src/content/categories/", import.meta.url)).map((f) => f.replace(/\.json$/, ""));
+  for (const c of cats) assert.ok(KIT_FOR_CATEGORY[c]?.length, `${c} has no kit in KIT_FOR_CATEGORY`);
 });

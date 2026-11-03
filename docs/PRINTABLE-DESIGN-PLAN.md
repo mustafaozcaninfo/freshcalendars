@@ -1,6 +1,6 @@
 # /news/ printables: topic kits plan
 
-Written 2026-11-02, updated 2026-11-03. Status: **phase 0 and the first three kits built** (branch `feat/printable-kits`); phases 2 and 3 are still proposals.
+Written 2026-11-02, updated 2026-11-03. Status: **built**: ten kits, one or more for every category, required by category, multi-page, with source quotes, offset checks, name and number checks, A4 for uk-canada, a download report and a daily contact sheet.
 
 Owner's decisions (2026-11-03):
 - **No ink-saver copies any more.** `news-assets` no longer draws `-ink` sheets; `inkSaver` is ignored with a warning; stories published from 2026-11-14 may not list an `-ink` PDF (`10-PDF-NO-INK`). Published `-ink` files stay as they are.
@@ -254,3 +254,17 @@ Published PDFs stay as they are until their story is updated (`samePdf` keeps un
 Multi-page (2026-11-03, owner: "PDFs may run to several pages"): kits shrink to 90% first, then continue on new pages instead of failing (`PAGINATE` in `kits/components.ts`, up to 6 pages). Movable units are `.blk` elements; `data-split` tables break between rows with repeated heads; `.flow` containers (the month grid) are recreated on the next page. Stress-tested at the validators' limits: 80 events, 60 rows, 12 busy months.
 
 `src` on kit data is the 1-based number of the story's source, or its URL or publisher; the researcher hands over URLs so the order of `sources:` does not matter.
+
+## 9. Second round (2026-11-03): no category without a kit
+
+| Added | Where |
+|---|---|
+| `holiday-planner`, `bank-holidays` (A4 file for uk-canada), `sky-night`, `clock-change`, `puzzle-month` (`through:` for a month in progress), `release-tracker`, `year-reference` | `packages/generator/src/kits/`, tests next to each |
+| Every category mapped to its kits; a test fails if a new category has none | `KIT_FOR_CATEGORY` in `scripts/lib/print-record.mjs` |
+| `quote:` required on dated or timed kit items from 2026-11-04, checked against the value | `needQuote` in `kits/kit.ts` |
+| UTC offset must be a real clock that day (daylight-saving slips caught; Atlantic Canada only for uk-canada) | `offsetProblem` in `kits/kit.ts` |
+| Story generator modules need `assets.customPrintable` in kit categories (from 2026-11-14) | `customProblem`, `10-PDF-KIT` |
+| Names and numbers in kit data must be in the story (records v3) | `unsupportedNames`, `10-PDF-FACTS` |
+| Printable exceptions listed for the manager | `pnpm news:dashboard` |
+| PDF downloads per file and per kit, last 7 days, in the CI run summary on main | `pnpm news:downloads` |
+| Contact sheet of printables changed since a date | `pnpm fc news-printables --since YYYY-MM-DD` |

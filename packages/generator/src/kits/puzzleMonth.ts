@@ -11,6 +11,8 @@
  * data:
  *   game: wordle            # wordle or connections (strands, mini, spelling-bee refused for now)
  *   month: "2026-10"        # the month to lay out, YYYY-MM
+ *   through: "2026-11-15"   # optional, for a month still being played: answers are required up to
+ *                           # this date; later days print "Not yet played" in words (no answer)
  */
 import { baseCss, header, notes, page, sizeOf } from "./components.js";
 import { MON, MONTHS, Problems, esc, isObj, type Kit } from "./kit.js";
@@ -23,7 +25,7 @@ type Game = (typeof SUPPORTED)[number];
 const NAMED = ["wordle", "connections", "strands", "mini", "spelling-bee"];
 
 type Day = { day: number; iso: string; number: number | null; solution?: string; groups?: string[] };
-export type PuzzleMonth = { game: Game; year: number; month: number; days: Day[] };
+export type PuzzleMonth = { game: Game; year: number; month: number; days: Day[]; through?: number };
 
 const pad2 = (n: number) => String(n).padStart(2, "0");
 const daysInMonth = (y: number, m: number) => new Date(Date.UTC(y, m + 1, 0)).getUTCDate();
@@ -42,13 +44,19 @@ export const puzzleMonth: Kit<PuzzleMonth> = {
     const mm = typeof d.month === "string" ? /^(\d{4})-(\d{2})$/.exec(d.month) : null;
     if (!mm || Number(mm[2]) < 1 || Number(mm[2]) > 12) pr.add('month: "YYYY-MM", the month to lay out');
     // Stop here if the game or month is unusable: loading the data would be meaningless.
+    let throughDay: number | undefined;
+    if (d.through !== undefined) {
+      const th = typeof d.through === "string" ? /^(\d{4})-(\d{2})-(\d{2})$/.exec(d.through) : null;
+      if (!th || `${th[1]}-${th[2]}` !== d.month) pr.add(`through: "YYYY-MM-DD" inside ${String(d.month)}, the last day already played`);
+      else throughDay = Number(th[3]);
+    }
     if (pr.list.length) pr.throwIfAny();
 
     const year = Number(mm![1]), month = Number(mm![2]) - 1;
     const total = daysInMonth(year, month);
     const days: Day[] = [];
     const missing: string[] = [];
-    for (let dd = 1; dd <= total; dd++) {
+    for (let dd = 1; dd <= (throughDay ?? total); dd++) {
       const iso = `${year}-${pad2(month + 1)}-${pad2(dd)}`;
       const raw = loadPuzzle(game, iso);
       if (!raw) { missing.push(iso); continue; }
@@ -64,7 +72,7 @@ export const puzzleMonth: Kit<PuzzleMonth> = {
     }
     if (missing.length) pr.add(`no saved ${GAMES[game].name} data for ${missing.length} day(s): ${missing.join(", ")}. Save each with "pnpm news:puzzle-data <date>" first (answers are never typed).`);
     pr.throwIfAny();
-    return { game: game as Game, year, month, days };
+    return { game: game as Game, year, month, days, through: throughDay };
   },
 
   render(k, p, ctx) {
@@ -75,7 +83,9 @@ export const puzzleMonth: Kit<PuzzleMonth> = {
 
     // One cell per calendar square; the answer and puzzle number sit in the day's cell.
     const cell = (dd: number): string => {
-      const x = byDay.get(dd)!;
+      const x = byDay.get(dd);
+      // A day after `through` has not been played yet: said in words, no answer drawn.
+      if (!x) return `<div class="c later"><span class="d">${dd}</span><span class="nyp">Not yet played</span></div>`;
       const num = x.number != null ? `<span class="num">No. ${x.number}</span>` : "";
       const ans = k.game === "wordle"
         ? `<span class="ans">${esc(x.solution!)}</span>`
@@ -102,6 +112,7 @@ export const puzzleMonth: Kit<PuzzleMonth> = {
     .dw i{font-style:normal;font-family:Sora;font-weight:700;font-size:max(9px,calc(10px*var(--s)));color:${t.primary}}
     .cal{display:flex;flex-direction:column;gap:0}
     .wk{display:grid;grid-template-columns:repeat(7,1fr)}
+    .c .nyp{display:block;margin-top:calc(8px*var(--s));font-size:9px;color:${t.muted}}
     .c{border:1px solid ${t.line};min-height:calc(${k.game === "wordle" ? 56 : 74}px*var(--s));padding:3px 4px;display:flex;flex-direction:column;gap:1px;overflow:hidden}
     .c.empty{background:${t.soft}}
     .c .d{font-family:Sora;font-weight:800;font-size:max(9px,calc(11px*var(--s)));color:${t.ink};line-height:1}
