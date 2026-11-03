@@ -4,6 +4,7 @@ seoTitle: "NYC Veterans Day Parade 2026: Time and Grand Marshal"
 description: "The 107th NYC Veterans Day Parade is Wednesday, Nov. 11, 2026, per the United War Veterans Council (UWVC). Step-off 12:30 p.m. Eastern Time (ET), as reported."
 type: news
 publishedAt: "2026-10-29T05:45:00-04:00"
+updatedAt: "2026-11-03T09:40:00-05:00"
 authors: [christina-gerland]
 category: holidays
 keywords: ["veterans day parade nyc 2026", "nyc veterans day parade time", "veterans day parade 2026 grand marshal", "birmingham veterans day parade 2026"]
@@ -22,7 +23,7 @@ summary:
   - "The 107th New York City Veterans Day Parade is Wednesday, Nov. 11, 2026, on Fifth Avenue, according to the United War Veterans Council (UWVC)."
   - "ABC7 New York reported a 12:30 p.m. step-off at Fifth Avenue and 26th Street, with a wreath-laying at 10:55 a.m. in Madison Square Park."
   - "NASA astronaut and U.S. Navy veteran Sunita \"Suni\" Williams is Grand Marshal; Navy veteran Vicki Bello is Honorary Marshal."
-  - "UWVC lists broadcast information as coming soon, and the 2026 route end point has not been published."
+  - "The New York City Department of Transportation (DOT) lists the route as Fifth Avenue from 25th to 48th Street, with dispersal on 45th Street; UWVC lists broadcast information as coming soon."
 faq:
   - q: "What time does the NYC Veterans Day Parade start in 2026?"
     a: "ABC7 New York reported on Oct. 24, 2026 that the parade steps off at 12:30 p.m. from Fifth Avenue at 26th Street. The reported wreath-laying in Madison Square Park is at 10:55 a.m."
@@ -45,6 +46,10 @@ sources:
     url: "https://abc7ny.com/post/navy-vet-vicki-bello-serve-honorary-marshal-2026-veterans-day-parade/19973248/"
     publisher: "ABC7 New York"
     date: "2026-10-24"
+  - title: "Construction Embargoes"
+    url: "https://www.nyc.gov/html/dot/html/infrastructure/construction-embargoes.shtml"
+    publisher: "New York City Department of Transportation"
+    date: "2026-11-03"
   - title: "Parade"
     url: "https://www.nationalveteransday.org/parade"
     publisher: "National Veterans Day Foundation"
@@ -88,15 +93,15 @@ assets:
       - ["Wed., Nov. 11, 10:55 a.m.", "Wreath-laying in Madison Square Park (reported by ABC7)"]
       - ["Wed., Nov. 11, 12:30 p.m.", "Parade steps off at Fifth Avenue and 26th Street (reported by ABC7)"]
       - ["Wed., Nov. 11", "TV details: UWVC says broadcast information is coming soon"]
-      - ["Wed., Nov. 11", "Route end point, street closures and end time: not yet announced"]
+      - ["Wed., Nov. 11", "Route: Fifth Avenue, 25th to 48th Street, per NYC DOT; closures and end time not yet announced"]
       - ["Wed., Nov. 11, 2 p.m. ET", "Birmingham, Ala., parade begins (1:00 p.m. Central Time)"]
-    note: "Source: United War Veterans Council (uwvc.org), checked Oct. 29, 2026; times as reported by ABC7 New York, Oct. 24, 2026; National Veterans Day Foundation (Birmingham)."
+    note: "Source: United War Veterans Council (uwvc.org), checked Nov. 3, 2026; route from NYC DOT construction embargoes; times as reported by ABC7 New York, Oct. 24, 2026; National Veterans Day Foundation (Birmingham)."
     inkSaver: true
     description: "A one-page day plan for the NYC Veterans Day Parade on Wednesday, Nov. 11, 2026, with the reported wreath-laying and step-off times and items not yet announced."
     alt: "Printable NYC Veterans Day Parade 2026 day plan with times for Nov. 11."
 ---
 
-<p class="callout"><b>Checked Oct. 29, 2026.</b> The route end point, street closures and television details are not yet announced; we will update this story when they are.</p>
+<p class="callout"><b>Checked Nov. 3, 2026.</b> Street closures and television details are not yet announced; we will update this story when they are.</p>
 
 **The 107th New York City Veterans Day Parade marches up Fifth Avenue on Wednesday, Nov. 11, 2026, with National Aeronautics and Space Administration (NASA) astronaut and U.S. Navy veteran Sunita "Suni" Williams as Grand Marshal**, according to the United War Veterans Council (UWVC), the parade's organizer. ABC7 New York reported on Oct. 24 that it steps off at 12:30 p.m. Eastern Time (ET) at Fifth Avenue and 26th Street. UWVC calls it "the largest Veterans Day parade in the country."
 
@@ -114,7 +119,9 @@ ABC7 wrote that the parade "will step off from Fifth Avenue at 26th Street at 12
 
 ## Where does the parade route start?
 
-The reported start is Fifth Avenue at 26th Street. UWVC says the parade "returns to Fifth Avenue on November 11, 2026." The route end point, street closures and subway changes are not yet published, so check uwvc.org and the city's transit notices closer to the date.
+The reported start is Fifth Avenue at 26th Street. UWVC says the parade "returns to Fifth Avenue on November 11, 2026." The city's construction embargo list gives the route as "5th Avenue between 25th Street and 48th Street," with marchers forming up on Broadway and the side streets between West 23rd and West 29th Streets and dispersing on East and West 45th Street between Sixth and Madison Avenues. Non-emergency street work in those blocks is suspended from 12:01 a.m. Sunday, Nov. 8 through 11:59 p.m. Wednesday, Nov. 11.
+
+That embargo is not a list of street closures. Closure hours and subway changes are not yet published, so check uwvc.org and the city's transit notices closer to the date.
 
 ## Who is the 2026 Grand Marshal?
 
