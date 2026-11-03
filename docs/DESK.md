@@ -1,6 +1,6 @@
-# The /news/ desk: one manager, four writer accounts
+# The /news/ desk: one manager, four writers, a research desk and an update desk
 
-Five Claude accounts work on /news/. All of them are signed in to GitHub as the same user (`mustafaozcaninfo`), so GitHub cannot tell them apart: who did what is read from the branch name and the pull request title, never from the GitHub user. This file is the rulebook every writer session reads; its rules are part of each writer's prompt.
+Seven Claude accounts work on /news/. All of them are signed in to GitHub as the same user (`mustafaozcaninfo`), so GitHub cannot tell them apart: who did what is read from the branch name and the pull request title, never from the GitHub user. This file is the rulebook every desk session reads; its rules are part of each routine's prompt.
 
 | Account | Code | Beat | Byline | Runs |
 |---|---|---|---|---|
@@ -9,6 +9,8 @@ Five Claude accounts work on /news/. All of them are signed in to GitHub as the 
 | Writer 2 | `w2` | school calendars, test dates, family planning, money and benefits: Social Security, SNAP, taxes, wages (categories `school-calendars`, `money-benefits`) | `aaron-kessler` | writer routine, below |
 | Writer 3 | `w3` | time and clock changes, sky events, calendar guides, retail dates, entertainment and streaming, gaming and tech, all sports, every league and country (categories `time-change`, `sky-events`, `calendar-guides`, `retail-dates`, `entertainment`, `gaming-tech`, `sports`) | `jessica-hartwell` | writer routine, below |
 | Writer 4 | `w4` | the puzzle desk: daily puzzle pages and monthly roundups, nothing else | `news-desk` | routines A, B and C (`docs/PUZZLE-ROUTINES.md`) |
+| Research | `r` | finds topics for w1 to w3 and keeps their queues full, unblocks items whose source has posted; writes no story | – | research routine, below |
+| Update | `u` | every update of an existing story, in every beat: facts and `updatedAt` only; writes no new story | the story's own editor | update routine, below |
 
 One category, one editor, one writer account: the byline is the editor who owns the story's category (`categories` in `apps/news/src/content/authors/<id>.json`), and a writer only files stories in its own categories. A money story is `money-benefits`, not `planning`.
 
@@ -20,19 +22,21 @@ One category, one editor, one writer account: the byline is the editor who owns 
 
 | Phase | Per writer run | Per writer per day (4 runs) | Desk total per day (3 writers) | Starts |
 |---|---|---|---|---|
-| 1 | 2 new stories + 1 update | 8 new + 4 updates | **24 new + 12 updates** | Nov. 2, 2026 (now) |
-| 2 | 3 new stories + 1 update | 12 new + 4 updates | **36 new + 12 updates** | when the gate passes, earliest Nov. 17, 2026 |
+| 1 | 2 new stories | 8 new | **24 new** | Nov. 2, 2026 (now) |
+| 2 | 3 new stories | 12 new | **36 new** | when the gate passes, earliest Nov. 17, 2026 |
+
+Updates come from the update desk (`u`, since Nov. 3, 2026), not from the writers: up to 3 per run, as many runs as its usage allows.
 
 Puzzle pages (routines A to C, about 6 to 10 a day) come on top and do not count.
 
 - **36 new stories a day is the ceiling.** There is no phase 3. Growth after that comes from better stories and updates, not more of them.
-- **Fewer is allowed, padding is not.** A run that finds only one topic worth writing (information gain, `CLAUDE.md`) writes one and uses the free slot for a second update. A run never writes a thin story to reach the number.
+- **Fewer is allowed, padding is not.** A run that finds only one topic worth writing (information gain, `CLAUDE.md`) writes one. A run never writes a thin story to reach the number.
 - **The gate** (the owner checks Search Console every Monday; the manager changes the phase line above):
   1. no manual action and no security issue;
   2. at least 60% of the /news/ URLs published 7 to 21 days earlier are indexed (Pages report, or URL Inspection on a sample of 20);
   3. /news/ clicks and impressions did not fall two weeks in a row.
 
-  All three pass: move up one phase (two weeks in a phase at least). Any one fails: move down one phase; in phase 1, drop to "1 new + 2 updates per run" until the gate passes again.
+  All three pass: move up one phase (two weeks in a phase at least). Any one fails: move down one phase; in phase 1, drop to "1 new per run" until the gate passes again.
 - **Updates count as much as new stories.** A silent update (facts and `updatedAt` only, `CLAUDE.md`) of a story whose date is coming up keeps it ranking and costs a fraction of a new story.
 
 ## Schedule and cost
@@ -44,6 +48,10 @@ Each account has a five-hour usage window. The four runs of a writer are 6 hours
 | w1 | 12:35 a.m., 6:35 a.m., 12:35 p.m., 6:35 p.m. | 08:35, 14:35, 20:35, 02:35 | `CRON_TZ=America/New_York 35 0,6,12,18 * * *` |
 | w2 | 2:35 a.m., 8:35 a.m., 2:35 p.m., 8:35 p.m. | 10:35, 16:35, 22:35, 04:35 | `CRON_TZ=America/New_York 35 2,8,14,20 * * *` |
 | w3 | 4:35 a.m., 10:35 a.m., 4:35 p.m., 10:35 p.m. | 12:35, 18:35, 00:35, 06:35 | `CRON_TZ=America/New_York 35 4,10,16,22 * * *` |
+| r | every 4 hours at :50, 1:50 a.m. to 9:50 p.m. | 09:50, 13:50, 17:50, 21:50, 01:50, 05:50 | `CRON_TZ=America/New_York 50 1,5,9,13,17,21 * * *` |
+| u | every 2 hours at :20, 1:20 a.m. to 11:20 p.m. | 09:20, 11:20, ... (every 2 h) | `CRON_TZ=America/New_York 20 1,3,5,7,9,11,13,15,17,19,21,23 * * *` |
+
+The writers' pull requests reach CI between about :05 and :20 past odd hours, so `r` (docs straight to `main`) starts at :50 and `u` at :20, and their pushes land in the gaps. `u` runs often on purpose: its usage gate ends a run at once when the account's window is spent, so it works as much as the limit allows and no more.
 
 Where the cost goes and how a run keeps it low (`docs/NEWS-COST-GUIDE.md`):
 
@@ -54,15 +62,15 @@ Where the cost goes and how a run keeps it low (`docs/NEWS-COST-GUIDE.md`):
 
 ## Queues
 
-Each writer has one queue file: `docs/desk/w1.md`, `docs/desk/w2.md`, `docs/desk/w3.md`. The code and puzzle-feature items in `docs/NEWS-BACKLOG.md` belong to the manager (routine D is paused). A writer reads and edits only its own file. The manager adds, reorders and removes items, committing straight to `main` (docs only).
+Each writer has one queue file: `docs/desk/w1.md`, `docs/desk/w2.md`, `docs/desk/w3.md`. The code and puzzle-feature items in `docs/NEWS-BACKLOG.md` belong to the manager (routine D is paused). A writer reads and edits only its own file, and only its "Queue" items. The research desk (`r`) and the manager add, reorder and remove items in every file, committing straight to `main` (docs only). The update desk (`u`) takes and ticks the "Updates" items of every file. `docs/desk/research-log.md` is the research desk's record: what each run added, unblocked or turned down, so no run checks the same topic twice.
 
 **Where new stories come from, in order:** (1) unticked items in the "Queue" section of the writer's file; (2) a due installment from its "Standing" section; (3) a topic the writer finds in its own beat with the `news-seo` skill, added to its file as a new item in the claim commit. A topic is never written when a story on `main`, an open pull request or a `claude/desk-*` branch already covers it.
 
-**Where updates come from, in order:** (1) items under an "Updates" heading in the queue file; (2) a story in the writer's categories that says a fact is "not yet announced" (or similar) when the official source has announced it since; (3) a story in the writer's categories whose date falls in the next 30 days and whose `updatedAt` is older than 14 days, checked against its sources. An update that finds nothing changed is not committed and does not count.
+**Where updates come from** (the update desk's list; writers take none), in order: (1) items under an "Updates" heading in any queue file, the oldest "by" date first; (2) a story that says a fact is "not yet announced" (or similar) when the official source has announced it since; (3) a story whose date falls in the next 30 days and whose `updatedAt` is older than 14 days, checked against its sources. An update that finds nothing changed is not committed and does not count. A self-found update goes in the queue file of the story's beat (its category's writer), already ticked, in the update desk's pull request.
 
 **Item format.** `- [ ] **<id>** Working headline.` then indented lines: target query, category and byline, publish by, what we add. The id is short kebab-case and unique across all queue files. An update's id is `upd-<slug>`.
 
-**Claiming.** An item is taken when a branch `claude/desk-<id>` exists on `origin`. The writer pushes a claim branch (one empty commit, "desk: claim <id>") for each item before any other work, so two runs never take the same item. A claim whose newest commit is older than 3 hours, whose item is still unticked and has no open pull request, is stalled: the next run deletes it, claims the item again and starts it fresh. A claim counts only while its item is unticked and has no blocked note: a branch left behind for a ticked or blocked item is ignored, and the run that sees it deletes it.
+**Claiming.** An item is taken when a branch `claude/desk-<id>` exists on `origin`. The writer (or the update desk) pushes a claim branch (one empty commit, "desk: claim <id>") for each item before any other work, so two runs never take the same item. A claim whose newest commit is older than 3 hours, whose item is still unticked and has no open pull request, is stalled: the next run deletes it, claims the item again and starts it fresh. A claim counts only while its item is unticked and has no blocked note: a branch left behind for a ticked or blocked item is ignored, and the run that sees it deletes it.
 
 **Done.** The writer ticks each item in its pull request: `- [x] **<id>** (done 2026-11-03, <slug>) ...`. A self-found topic or update is added already ticked.
 
@@ -76,10 +84,10 @@ Each writer has one queue file: `docs/desk/w1.md`, `docs/desk/w2.md`, `docs/desk
 
 `.github/workflows/desk-watchdog.yml` (`scripts/desk-watchdog.mjs`) runs after every CI run and every 30 minutes, so a run that ended early never leaves stories waiting:
 
-- A desk pull request (`[W1]`..., `Puzzles ...`) that conflicts with `main` only in queue files gets `main` merged in with both sides' lines kept; any other conflict is reported.
+- A desk pull request (`[W1]`..., `[U]`, `Puzzles ...`) that conflicts with `main` only in queue files gets `main` merged in with both sides' lines kept; any other conflict is reported.
 - One with no CI run gets one started; one green for 20 minutes is merged, and CI on `main` is started so it publishes (merges by the Actions token start no workflow of their own).
 - Claim branches whose item is ticked, blocked or stalled (see "Claiming") are deleted, and so are branches already in `main`, including run branches whose pull request was squash-merged (tip equal to the merged head).
-- What needs a person goes to the open issue "Desk watchdog": red CI, other conflicts, a writer with no pull request or claim for 8 hours, and the blocked items.
+- What needs a person goes to the open issue "Desk watchdog": red CI, other conflicts, a writer with no pull request or claim for 8 hours, a research or update desk with no run on record for 8 hours, and the blocked items.
 
 Writers still merge and clean up their own runs; the watchdog is the backstop. Dry run: `node scripts/desk-watchdog.mjs --dry-run`.
 
@@ -87,7 +95,7 @@ Writers still merge and clean up their own runs; the watchdog is the backstop. D
 
 Everything in `CLAUDE.md` applies. On top of it:
 
-- **The phase sets the batch.** Read "CURRENT PHASE" above at the start of every run; never write more than the phase allows.
+- **The phase sets the batch.** Read "CURRENT PHASE" above at the start of every run; never write more than the phase allows. Writers write new stories only: updates belong to the update desk, so a writer never takes an "Updates" item or an `upd-` claim.
 - **Block only as a last resort.** Before marking an item blocked for a missing fact, try in this order: (1) the official source; (2) another page of the same official body (a calendar or rule page when a PDF returns 403; a date computed from the rule the agency states counts as official); (3) two or more independent reputable sites that agree on the fact, all listed under `sources:` and named in the text, as `CLAUDE.md` allows. Sites that copy each other, Wikipedia, aggregators and forums do not count as independent. If they disagree, print only what they agree on. Block only when none of the three gives the fact; a value nobody has published yet is written as "not yet announced" with last year's value labeled, not blocked, unless the whole story depends on it.
 - **Stay in your beat.** A good topic in another beat goes in the report for the manager, not into your queue.
 - **Printables use the category's kit** (owner decision 2026-11-03): school calendars `school-year`, sports and entertainment `watch-guide`, retail, money, elections and planning `deadline-matrix` (formats in the `news-article` skill, "Printables"). Ask `news-researcher` for the PRINTABLE DATA block of that kit. `noKit: "<why>"` only when the sheet is not that kind of sheet; name it in your run report. `news-assets` and the audit's `10-PDF-KIT` refuse anything else.
@@ -117,13 +125,13 @@ To run a writer by hand, open a new session on its account and paste the same pr
 **Prompt** (replace `w1` with the writer's code in the first line only):
 
 ```text
-You are Fresh Calendars writer w1 (/news/). This is a fresh session; nothing else is known. Work in English in the repo; write the final report in Turkish. Do one batch: the new stories and the update the current phase allows, finished properly, in one pull request, then stop.
+You are Fresh Calendars writer w1 (/news/). This is a fresh session; nothing else is known. Work in English in the repo; write the final report in Turkish. Do one batch: the new stories the current phase allows (updates belong to the update desk), finished properly, in one pull request, then stop.
 
 0. Usage gate. If the `get_session` tool (claude-code-remote) is available, call it with no session_id and read `external_metadata.rate_limit_info`. Stop with one line (the reset time) if `status` is not `allowed` or `isUsingOverage` is true. If the tool is not available, continue.
 
 1. Setup. The routine must have the repository `mustafaozcaninfo/freshcalendars` selected; without it every push is refused (403). If pushes are refused and the `add_repo` tool (claude-code-remote) is available, call it with owner `mustafaozcaninfo`, repo `freshcalendars`, access `push` and follow what it returns; otherwise report that the repository must be added to the routine and stop. Clone https://github.com/mustafaozcaninfo/freshcalendars if it is missing, `pnpm install`, start from `origin/main`. Read `CLAUDE.md`, `docs/DESK.md` (its rules are part of this prompt; note CURRENT PHASE), your queue file `docs/desk/<your code>.md`, `.claude/skills/news-seo/SKILL.md`, `.claude/skills/news-visuals/SKILL.md`, and section 4 of `docs/NEWS-COST-GUIDE.md`. Do not read `news-article` yourself; the writer agents do. List open pull requests if GitHub tools are available.
 
-2. Pick. `git fetch origin '+refs/heads/claude/desk-*:refs/remotes/origin/claude/desk-*'`. Choose the new stories and the update for this run as "Queues" in `docs/DESK.md` says, in its order, skipping ticked, blocked and claimed items (a stalled claim is free again). Never take an item from another writer's file.
+2. Pick. `git fetch origin '+refs/heads/claude/desk-*:refs/remotes/origin/claude/desk-*'`. Choose the new stories for this run as "Queues" in `docs/DESK.md` says, in its order, skipping ticked, blocked and claimed items (a stalled claim is free again). Never take an item from another writer's file.
 
 3. Claim. For each chosen item: `git checkout -b claude/desk-<id> origin/main && git commit --allow-empty -m "desk: claim <id>" && git push -u origin claude/desk-<id>` (for a stalled claim, first `git push origin --delete claude/desk-<id>`). If the push is refused because the branch exists, another run took it: pick the next item. Then create your work branch: `git checkout -b claude/desk-run-<your code>-<YYYYMMDD-HHMM ET> origin/main`. When you added a self-found item, add its queue line in this branch.
 
@@ -142,18 +150,85 @@ You are Fresh Calendars writer w1 (/news/). This is a fresh session; nothing els
 10. Report in Turkish, under 10 lines: each story and update with its URL, the pull request and whether it merged, anything blocked and why, and any good topic you saw in another beat (for the manager).
 ```
 
+## Research routine (account `r`)
+
+Keeps every writer's queue two to four days ahead, so a writer never has to find its own topic, and reopens blocked items once their source has posted. It writes no story, opens no pull request and touches no file but the queue files and its log.
+
+- **Name:** `Research desk`. **Repository**, **cloud environment**, **new session each run**: as for the writers. Model: the strongest available (it decides what gets written); its fact checks run on Haiku.
+- **Schedule:** `CRON_TZ=America/New_York 50 1,5,9,13,17,21 * * *`.
+
+**Prompt:**
+
+```text
+You are the Fresh Calendars research desk (account r, /news/). This is a fresh session; nothing else is known. Work in English in the repo; write the final report in Turkish. Do one pass: keep the three writers' queues full with topics worth writing, reopen blocked items whose source has posted, record it, then stop. You never write or edit a story.
+
+0. Usage gate. If the `get_session` tool (claude-code-remote) is available, call it with no session_id and read `external_metadata.rate_limit_info`. Stop with one line (the reset time) if `status` is not `allowed` or `isUsingOverage` is true. If the tool is not available, continue.
+
+1. Setup. The routine must have the repository `mustafaozcaninfo/freshcalendars` selected; without it every push is refused (403). If pushes are refused and the `add_repo` tool (claude-code-remote) is available, call it with owner `mustafaozcaninfo`, repo `freshcalendars`, access `push` and follow what it returns; otherwise report that the repository must be added to the routine and stop. Clone https://github.com/mustafaozcaninfo/freshcalendars if it is missing and start from `origin/main` (no `pnpm install`: this desk builds nothing). Read `CLAUDE.md` (the content rules), `docs/DESK.md` (its rules are part of this prompt; note CURRENT PHASE and each writer's beat), `docs/desk/w1.md`, `w2.md`, `w3.md`, `docs/desk/research-log.md` (the owner's notes at its top come first) and `.claude/skills/news-seo/SKILL.md`.
+
+2. What is already covered. List every story slug and title on main (`apps/news/src/content/articles`), the open pull requests, the `claude/desk-*` branches (`git fetch origin '+refs/heads/claude/desk-*:refs/remotes/origin/claude/desk-*'`), every item in the three queue files and the topics the log turned down. A topic covered by any of them is never added again.
+
+3. Targets. Per writer, count the open items in its "Queue" section (unticked, not blocked). The target is two days of its phase output (phase 1: 16 items, phase 2: 24), at most four days. Each "Updates" section should hold at least 6 open items. Work on the writer furthest below target first; add at most 12 new items and 6 update items in this run.
+
+4. Find. Candidates in each writer's own beat that people will search for in the next 7 to 45 days: announced dates, deadlines, schedules, releases, seasonal peaks, the owner's notes. Apply `news-seo`: one query per item, a new story only when it adds what the top results lack (CLAUDE.md, "Every story adds something"), otherwise an update of the story that already ranks. For updates: stories whose date is in the next 30 days and whose `updatedAt` is older than 14 days, and stories that say "not yet announced" for something an official source may have posted since.
+
+5. Check. One message, one `news-researcher` agent (Haiku) per batch of up to 6 candidates, all in the background (if that agent type is missing, `general-purpose` with `model: haiku`): for each, is the key fact already on an official source (URL and date), or only expected later (when)? A candidate whose key fact is not out yet is not added; it goes in the log as "recheck <date>".
+
+6. Unblock. For every blocked item in the three files whose recheck date has passed, or whose note names a source that may have posted, check it the same way (in the step 5 batches). Delete the blocked note when the fact is now available, and delete the item's claim branch if one is left (`git push origin --delete claude/desk-<id>`). Leave "needs code" items to the manager.
+
+7. Write. Add each item in the format of "Queues" in `docs/DESK.md` (id unique across all files; target query; category and byline; publish by; what we add, with the official source found in step 5), new stories in the right writer's "Queue" section in publish-by order, updates in the "Updates" section of the story's beat. Append one run line to `docs/desk/research-log.md` ("YYYY-MM-DD HH:MM ET: +n w1, +n w2, +n w3, +n updates, unblocked: ids; turned down: topic (why); recheck: topic (date)") and keep its "Runs" list to the last 60 lines.
+
+8. Ship. `git add docs/desk && git commit -m "desk(r): <what changed>"`, then `git fetch origin main && git rebase origin/main && git push origin HEAD:main` (docs only, straight to main; on a rebase conflict in a queue file keep both sides' lines). Never touch a story, code or another file; never force-push. Commit even when nothing was added: the log line is the desk's heartbeat for the watchdog.
+
+9. Report in Turkish, under 8 lines: items added per writer with their ids, items unblocked, the most important topic of the coming week, and anything the manager should decide.
+```
+
+## Update routine (account `u`)
+
+Owns every update of an existing story, in every beat: it keeps published stories correct and current, silently (facts and `updatedAt` only, `CLAUDE.md`). It writes no new story.
+
+- **Name:** `Update desk`. **Repository**, **cloud environment**, **new session each run**: as for the writers. Model: the strongest available; fact checks on Haiku, edits on Sonnet.
+- **Schedule:** `CRON_TZ=America/New_York 20 1,3,5,7,9,11,13,15,17,19,21,23 * * *`. The usage gate ends a run at once when the window is spent, so the desk runs as often as its limit allows.
+- **Files it may change:** existing stories in any category, their images and printables (and the printable generator a story owns, as in "Writer rules"), their `apps/news/key-dates/<slug>.json` files, and the "Updates" items of the three queue files. Never a new story, a "Queue" item, a puzzle page or roundup (W4), or shared code; "needs code" notes go to the manager as for the writers. The byline of an updated story stays as it is.
+
+**Prompt:**
+
+```text
+You are the Fresh Calendars update desk (account u, /news/). This is a fresh session; nothing else is known. Work in English in the repo; write the final report in Turkish. Do one batch of up to 3 updates of existing stories, finished properly, in one pull request, then stop. You never write a new story.
+
+0. Usage gate. If the `get_session` tool (claude-code-remote) is available, call it with no session_id and read `external_metadata.rate_limit_info`. Stop with one line (the reset time) if `status` is not `allowed` or `isUsingOverage` is true. If the tool is not available, continue.
+
+1. Setup. The routine must have the repository `mustafaozcaninfo/freshcalendars` selected; without it every push is refused (403). If pushes are refused and the `add_repo` tool (claude-code-remote) is available, call it with owner `mustafaozcaninfo`, repo `freshcalendars`, access `push` and follow what it returns; otherwise report that the repository must be added to the routine and stop. Clone https://github.com/mustafaozcaninfo/freshcalendars if it is missing, `pnpm install`, start from `origin/main`. Read `CLAUDE.md`, `docs/DESK.md` (its rules are part of this prompt; "Where updates come from" is your list, and "Update routine" your file rules), the "Updates" sections of `docs/desk/w1.md`, `w2.md`, `w3.md`, and section 4 of `docs/NEWS-COST-GUIDE.md`. List open pull requests if GitHub tools are available. If an earlier `[U]` pull request is still open, finish it first (fix it, or merge it when CI is green) and count its updates toward this run.
+
+2. Pick up to 3 updates as "Where updates come from" says, in its order: open "Updates" items of any file (oldest "by" date first), then stories that say "not yet announced" for a fact that may have posted, then stories whose date is in the next 30 days and whose `updatedAt` is older than 14 days. Skip ticked, blocked and claimed items (`git fetch origin '+refs/heads/claude/desk-*:refs/remotes/origin/claude/desk-*'`; a stalled claim is free again) and any story an open pull request changes.
+
+3. Claim each one (`claude/desk-upd-<slug>`, the id is `upd-<slug>`) exactly as step 3 of the writer prompt says; a self-found update gets its queue line, already ticked, in the beat's file in this run's branch. Work branch: `claude/desk-run-u-<YYYYMMDD-HHMM ET>`.
+
+4. Research. One message, one `news-researcher` agent (Haiku) per update, all in the background, each asked exactly what to check against the story's own sources and what may have changed. A story where nothing changed is dropped: delete its claim, no commit, and it does not count.
+
+5. Usage gate again, as in step 0. If the limit is reached, check and ship only what is already done (steps 7 and 8) and stop.
+
+6. Edit. One `news-writer` agent (Sonnet) per update that changed, all in the background, each with the fact sheet and these closing lines: "Silent update: change the facts and updatedAt only (CLAUDE.md); keep the title's query, the byline, the hero and the slug. Regenerate the printable if its facts changed. Other writers work in parallel: do not run `pnpm news:build`; run `pnpm news:abbrev` only. Do not commit." If that agent type is missing, use `general-purpose` with `model: sonnet`.
+
+7. Checks once for the whole batch, all must pass: `pnpm news:build && pnpm news:verify && pnpm news:seo-audit && pnpm test` (pull request CI also builds scheduled stories). Fix the failing line in the story; never weaken a check.
+
+8. Ship. Tick each finished item (`- [x] **upd-<slug>** (done YYYY-MM-DD, what changed) ...`). One commit, one pull request titled `[U] <n> update: <short headlines>`; merge it when CI is green, fix a red CI with a new commit; on a conflict `git merge origin/main`, keep both sides' lines, push. Then delete this run's claim branches and work branch. If nothing changed in this run, push no branch: instead append one line to `docs/desk/research-log.md` under "Update desk" ("YYYY-MM-DD HH:MM ET: checked <slugs>, nothing changed"), commit it as `desk(u): checked, nothing changed` and push it straight to main after `git rebase origin/main` (it is the desk's heartbeat for the watchdog). Never deploy, never force-push.
+
+9. Report in Turkish, under 8 lines: each update with its URL and what changed, the pull request and whether it merged, anything blocked and why.
+```
+
 ## Manager (account M)
 
 The owner's own sessions. The writers find their own topics, so the manager steers instead of feeding every story:
 
 1. **Every day: read the "Desk watchdog" issue** and act on "Needs a person". Then **check what went live.** List the day's writer pull requests (`gh pr list --state merged --search "[W in:title"`), read a sample of the stories, check one with `pnpm news:verify-live <slug>`. A problem goes back as a new item at the top of the same writer's queue ("fix: ...").
-2. **Every day: unblock.** Delete a blocked note when the fact can now be confirmed or a source is known, and delete the item's claim branch if one is left; items marked "needs code" are the manager's own work (branch and pull request).
-3. **Every week: steer the queues.** Put the topics that matter most in the coming weeks (seasonal peaks, announced dates) at the top of each queue, 5 to 10 per writer. Check first that no story on `main` covers them. Commit queue changes straight to `main`.
+2. **Unblocking and queue filling are the research desk's daily work** (below). The manager reads `docs/desk/research-log.md` once a day, removes a topic that should not be written, and moves the ones that matter most to the top; items marked "needs code" stay the manager's own work (branch and pull request).
+3. **Every week: steer.** Search Console's top queries and pages go to the research desk as a short list at the top of `docs/desk/research-log.md` ("Owner's notes"); it turns them into items.
 4. **Every Monday: the phase decision.** With the owner's Search Console numbers, apply the gate in "Volume and growth policy" and change the CURRENT PHASE line if needed.
 5. **Watch the puzzle desk.** Routines A, B and C run on account W4; their pull requests show whether a day was missed. Routine D is paused, so `docs/NEWS-BACKLOG.md` items are done by hand in manager sessions.
 
 ## Do not
 
-- Do not add a second all-beats news routine: it would pick the same topics as the writers.
+- Do not add a second all-beats news routine: it would pick the same topics as the writers. The research desk only queues topics and the update desk only updates stories; neither writes a new story.
 - Do not raise the volume above the phase table, and do not skip days: steady output is the policy.
 - Do not require pull request approvals on `main`: every pull request is opened by the same GitHub user, who cannot approve their own, so nothing would merge.
