@@ -65,7 +65,7 @@ internalLinks:
     label: "December 2026 printable calendar"
   - href: "/printable-weekly-calendar.html"
     label: "Printable weekly planner"
-related: [2026-midterm-elections-whats-on-the-ballot-results-tracker, what-time-do-polls-close-election-day-2026, mail-ballot-deadlines-2026-by-state]
+related: [2026-midterm-elections-whats-on-the-ballot-results-tracker, ballot-cure-deadlines-2026-fix-mail-ballot-signature, how-many-people-voted-early-2026-59-million-early-votes]
 downloads:
   - group: "Election 2026 printables"
     title: "Election Night Tracker: Senate and Governors 2026"
