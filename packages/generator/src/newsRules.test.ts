@@ -10,7 +10,7 @@ import sharp from "sharp";
 import { KITS } from "./kits/index.ts";
 import { THEMES, contrast, textPairs } from "./kits/themes.ts";
 import { clock } from "./kits/watchGuide.ts";
-import { factTokens } from "../../../scripts/lib/print-record.mjs";
+import { KIT_FOR_CATEGORY, factTokens, kitProblem } from "../../../scripts/lib/print-record.mjs";
 
 const base = { slug: "t", group: "g", title: "Test Dates 2026", note: "Source: test" };
 const iso = (d: Date) => d.toISOString().slice(0, 10);
@@ -158,4 +158,13 @@ test("factTokens reads dates, ranges, times, amounts and percentages the same wa
   assert.deepEqual([...factTokens("Burns Night is 25 January; doors 24-26 Dec", { story: true })].sort(), ["d:1-25", "d:12-24", "d:12-26"]);
   assert.ok(!factTokens("2 Feb. 2027").has("d:2-2"), "day-first is read in stories only");
   assert.ok(factTokens("gates open 17:00", { story: true }).has("t:17:00"));
+});
+
+test("categories with a kit must use it or say why not", () => {
+  assert.match(kitProblem("sports", { rows: [] })!, /use a kit \(watch-guide\)/);
+  assert.equal(kitProblem("sports", { kit: "watch-guide" }), null);
+  assert.match(kitProblem("school-calendars", { noKit: "n/a" })!, /at least 20 characters/);
+  assert.equal(kitProblem("school-calendars", { noKit: "registration rules by district, not a calendar" }), null);
+  assert.equal(kitProblem("holidays", { rows: [] }), null);
+  for (const kits of Object.values(KIT_FOR_CATEGORY)) for (const k of kits) assert.ok(KITS[k], `${k} is a real kit`);
 });

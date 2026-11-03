@@ -19,6 +19,34 @@ const ROOT = path.resolve(path.dirname(fileURLToPath(import.meta.url)), "../..")
 /** Stories published from this date on that have `assets.printable` must carry a record. */
 export const PRINT_SINCE = "2026-11-14";
 
+/**
+ * Categories whose printables must use a topic kit (owner's decision 2026-11-03). A story in one of
+ * them that has no kit writes `noKit: "<why none fits>"` in assets.printable instead; categories not
+ * listed here keep the classic layouts until they get a kit of their own.
+ */
+export const KIT_FOR_CATEGORY = {
+  "school-calendars": ["school-year"],
+  sports: ["watch-guide"],
+  entertainment: ["watch-guide"],
+  "retail-dates": ["deadline-matrix"],
+  "money-benefits": ["deadline-matrix"],
+  elections: ["deadline-matrix"],
+  planning: ["deadline-matrix"],
+};
+/** Records from this version on are held to the kit rule (older records were drawn before it). */
+export const RECORD_VERSION = 2;
+
+/** Why a story's printable breaks the kit rule, or null when it is fine. */
+export function kitProblem(category, printable) {
+  const kits = KIT_FOR_CATEGORY[category];
+  if (!kits || !printable || printable.kit) return null;
+  const why = typeof printable.noKit === "string" ? printable.noKit.trim() : "";
+  if (why.length >= 20) return null;
+  return why
+    ? `noKit must say in at least 20 characters why no kit fits (now: "${why}")`
+    : `stories in ${category} use a kit (${kits.join(" or ")}): set assets.printable.kit and data:, or add noKit: "<why none fits>"`;
+}
+
 /** Stable hash of the parsed `assets.printable` block (the YAML parser keeps key order). */
 export const printableHash = (printable) => createHash("sha256").update(JSON.stringify(printable ?? null)).digest("hex").slice(0, 16);
 
