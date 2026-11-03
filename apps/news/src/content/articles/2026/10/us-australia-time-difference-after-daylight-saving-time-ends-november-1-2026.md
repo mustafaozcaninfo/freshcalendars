@@ -82,7 +82,7 @@ internalLinks:
     label: "November 2026 printable calendar"
   - href: "/printable-weekly-calendar.html"
     label: "Printable weekly calendar"
-related: [daylight-saving-time-ends-november-1-2026, us-japan-korea-china-time-difference-after-november-1-2026-tokyo-14-hours, melbourne-cup-2026-time-us-uk-derby-day-oaks-carnival-schedule]
+related: [daylight-saving-time-ends-november-1-2026, boxing-day-test-2026-australia-vs-new-zealand-mcg-start-times, melbourne-cup-2026-time-us-uk-derby-day-oaks-carnival-schedule]
 downloads:
   - group: "US-Australia Time Difference printables"
     title: "US-Australia Time Difference, Oct. 2026 to April 2027"
