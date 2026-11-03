@@ -1,0 +1,949 @@
+{
+ "updated": "2026-11-03T12:30:00-05:00",
+ "control": {
+  "senate": {
+   "seats": 100,
+   "majority": 51,
+   "vp": {
+    "name": "JD Vance",
+    "party": "R"
+   },
+   "composition": {
+    "R": 53,
+    "D": 45,
+    "I": 2
+   },
+   "up": {
+    "R": 22,
+    "D": 13,
+    "I": 0
+   },
+   "notUp": {
+    "R": 31,
+    "D": 32,
+    "I": 2
+   }
+  },
+  "house": {
+   "seats": 435,
+   "majority": 218,
+   "composition": {
+    "R": 218,
+    "D": 214,
+    "I": 1,
+    "vacant": 2
+   },
+   "fileDate": "2026-10-01"
+  },
+  "governors": {
+   "seats": 36
+  }
+ },
+ "states": [
+  {
+   "abbr": "AL",
+   "name": "Alabama",
+   "closeLocal": "7 p.m. CT",
+   "closeEt": "8 p.m.",
+   "waveEt": "8 p.m.",
+   "closeNote": "",
+   "houseSeats": 7,
+   "senate": {
+    "kind": "regular",
+    "holder": "Tuberville",
+    "party": "R"
+   },
+   "governor": true,
+   "office": {
+    "name": "Alabama election office",
+    "url": "https://www.sos.alabama.gov/alabama-votes"
+   }
+  },
+  {
+   "abbr": "AK",
+   "name": "Alaska",
+   "closeLocal": "8 p.m. AKT",
+   "closeEt": "midnight",
+   "waveEt": "midnight",
+   "closeNote": "Aleutian Islands 1 a.m. ET",
+   "houseSeats": 1,
+   "senate": {
+    "kind": "regular",
+    "holder": "Sullivan",
+    "party": "R"
+   },
+   "governor": true,
+   "office": {
+    "name": "Alaska election office",
+    "url": "https://www.elections.alaska.gov/"
+   }
+  },
+  {
+   "abbr": "AZ",
+   "name": "Arizona",
+   "closeLocal": "7 p.m. MST",
+   "closeEt": "9 p.m.",
+   "waveEt": "9 p.m.",
+   "closeNote": "",
+   "houseSeats": 9,
+   "senate": null,
+   "governor": true,
+   "office": {
+    "name": "Arizona election office",
+    "url": "https://azsos.gov/elections"
+   }
+  },
+  {
+   "abbr": "AR",
+   "name": "Arkansas",
+   "closeLocal": "7:30 p.m. CT",
+   "closeEt": "8:30 p.m.",
+   "waveEt": "8:30 p.m.",
+   "closeNote": "",
+   "houseSeats": 4,
+   "senate": {
+    "kind": "regular",
+    "holder": "Cotton",
+    "party": "R"
+   },
+   "governor": true,
+   "office": {
+    "name": "Arkansas election office",
+    "url": "https://www.sos.arkansas.gov/elections"
+   }
+  },
+  {
+   "abbr": "CA",
+   "name": "California",
+   "closeLocal": "8 p.m. PT",
+   "closeEt": "11 p.m.",
+   "waveEt": "11 p.m.",
+   "closeNote": "",
+   "houseSeats": 52,
+   "senate": null,
+   "governor": true,
+   "office": {
+    "name": "California election office",
+    "url": "https://www.sos.ca.gov/elections"
+   }
+  },
+  {
+   "abbr": "CO",
+   "name": "Colorado",
+   "closeLocal": "7 p.m. MT",
+   "closeEt": "9 p.m.",
+   "waveEt": "9 p.m.",
+   "closeNote": "",
+   "houseSeats": 8,
+   "senate": {
+    "kind": "regular",
+    "holder": "Hickenlooper",
+    "party": "D"
+   },
+   "governor": true,
+   "office": {
+    "name": "Colorado election office",
+    "url": "https://www.sos.state.co.us/pubs/elections/main.html"
+   }
+  },
+  {
+   "abbr": "CT",
+   "name": "Connecticut",
+   "closeLocal": "8 p.m. ET",
+   "closeEt": "8 p.m.",
+   "waveEt": "8 p.m.",
+   "closeNote": "",
+   "houseSeats": 5,
+   "senate": null,
+   "governor": true,
+   "office": {
+    "name": "Connecticut election office",
+    "url": "https://portal.ct.gov/sots/common-elements/v5-template---redesign/elections--voting--home-page"
+   }
+  },
+  {
+   "abbr": "DE",
+   "name": "Delaware",
+   "closeLocal": "8 p.m. ET",
+   "closeEt": "8 p.m.",
+   "waveEt": "8 p.m.",
+   "closeNote": "",
+   "houseSeats": 1,
+   "senate": {
+    "kind": "regular",
+    "holder": "Coons",
+    "party": "D"
+   },
+   "governor": false,
+   "office": {
+    "name": "Delaware election office",
+    "url": "https://elections.delaware.gov/index.shtml"
+   }
+  },
+  {
+   "abbr": "DC",
+   "name": "District of Columbia",
+   "closeLocal": "8 p.m. ET",
+   "closeEt": "8 p.m.",
+   "waveEt": "8 p.m.",
+   "closeNote": "",
+   "houseSeats": 0,
+   "senate": null,
+   "governor": false,
+   "office": {
+    "name": "District of Columbia election office",
+    "url": "https://dcboe.org/"
+   }
+  },
+  {
+   "abbr": "FL",
+   "name": "Florida",
+   "closeLocal": "7 p.m. local",
+   "closeEt": "7 p.m.",
+   "waveEt": "7 p.m.",
+   "closeNote": "Panhandle (Central) 8 p.m. ET",
+   "houseSeats": 28,
+   "senate": {
+    "kind": "special",
+    "holder": "Moody",
+    "party": "R"
+   },
+   "governor": true,
+   "office": {
+    "name": "Florida election office",
+    "url": "https://www.dos.myflorida.com/elections/"
+   }
+  },
+  {
+   "abbr": "GA",
+   "name": "Georgia",
+   "closeLocal": "7 p.m. ET",
+   "closeEt": "7 p.m.",
+   "waveEt": "7 p.m.",
+   "closeNote": "",
+   "houseSeats": 14,
+   "senate": {
+    "kind": "regular",
+    "holder": "Ossoff",
+    "party": "D"
+   },
+   "governor": true,
+   "office": {
+    "name": "Georgia election office",
+    "url": "https://sos.ga.gov/elections-division-georgia-secretary-states-office"
+   }
+  },
+  {
+   "abbr": "HI",
+   "name": "Hawaii",
+   "closeLocal": "7 p.m. HST",
+   "closeEt": "midnight",
+   "waveEt": "midnight",
+   "closeNote": "",
+   "houseSeats": 2,
+   "senate": null,
+   "governor": true,
+   "office": {
+    "name": "Hawaii election office",
+    "url": "https://elections.hawaii.gov/"
+   }
+  },
+  {
+   "abbr": "ID",
+   "name": "Idaho",
+   "closeLocal": "8 p.m. local",
+   "closeEt": "10 p.m.",
+   "waveEt": "10 p.m.",
+   "closeNote": "northern Idaho (Pacific) 11 p.m. ET",
+   "houseSeats": 2,
+   "senate": {
+    "kind": "regular",
+    "holder": "Risch",
+    "party": "R"
+   },
+   "governor": true,
+   "office": {
+    "name": "Idaho election office",
+    "url": "https://voteidaho.gov/"
+   }
+  },
+  {
+   "abbr": "IL",
+   "name": "Illinois",
+   "closeLocal": "7 p.m. CT",
+   "closeEt": "8 p.m.",
+   "waveEt": "8 p.m.",
+   "closeNote": "",
+   "houseSeats": 17,
+   "senate": {
+    "kind": "regular",
+    "holder": "Durbin",
+    "party": "D"
+   },
+   "governor": true,
+   "office": {
+    "name": "Illinois election office",
+    "url": "https://www.elections.il.gov/"
+   }
+  },
+  {
+   "abbr": "IN",
+   "name": "Indiana",
+   "closeLocal": "6 p.m. local",
+   "closeEt": "6 p.m.",
+   "waveEt": "6 p.m.",
+   "closeNote": "Central-time counties 7 p.m. ET",
+   "houseSeats": 9,
+   "senate": null,
+   "governor": false,
+   "office": {
+    "name": "Indiana election office",
+    "url": "https://indianavoters.in.gov/"
+   }
+  },
+  {
+   "abbr": "IA",
+   "name": "Iowa",
+   "closeLocal": "8 p.m. CT",
+   "closeEt": "9 p.m.",
+   "waveEt": "9 p.m.",
+   "closeNote": "",
+   "houseSeats": 4,
+   "senate": {
+    "kind": "regular",
+    "holder": "Ernst",
+    "party": "R"
+   },
+   "governor": true,
+   "office": {
+    "name": "Iowa election office",
+    "url": "https://sos.iowa.gov/elections/voterinformation/index.html"
+   }
+  },
+  {
+   "abbr": "KS",
+   "name": "Kansas",
+   "closeLocal": "7 p.m. local",
+   "closeEt": "8 p.m.",
+   "waveEt": "8 p.m.",
+   "closeNote": "counties may stay open until 8 p.m. local time; western Mountain-time counties close an hour later in ET",
+   "houseSeats": 4,
+   "senate": {
+    "kind": "regular",
+    "holder": "Marshall",
+    "party": "R"
+   },
+   "governor": true,
+   "office": {
+    "name": "Kansas election office",
+    "url": "https://sos.ks.gov/elections/elections.html"
+   }
+  },
+  {
+   "abbr": "KY",
+   "name": "Kentucky",
+   "closeLocal": "6 p.m. local",
+   "closeEt": "6 p.m.",
+   "waveEt": "6 p.m.",
+   "closeNote": "western Kentucky (Central) 7 p.m. ET",
+   "houseSeats": 6,
+   "senate": {
+    "kind": "regular",
+    "holder": "McConnell",
+    "party": "R"
+   },
+   "governor": false,
+   "office": {
+    "name": "Kentucky election office",
+    "url": "https://elect.ky.gov/Pages/default.aspx"
+   }
+  },
+  {
+   "abbr": "LA",
+   "name": "Louisiana",
+   "closeLocal": "8 p.m. CT",
+   "closeEt": "9 p.m.",
+   "waveEt": "9 p.m.",
+   "closeNote": "",
+   "houseSeats": 6,
+   "senate": {
+    "kind": "regular",
+    "holder": "Cassidy",
+    "party": "R"
+   },
+   "governor": false,
+   "office": {
+    "name": "Louisiana election office",
+    "url": "https://www.sos.la.gov/ElectionsAndVoting/Pages/default.aspx"
+   }
+  },
+  {
+   "abbr": "ME",
+   "name": "Maine",
+   "closeLocal": "8 p.m. ET",
+   "closeEt": "8 p.m.",
+   "waveEt": "8 p.m.",
+   "closeNote": "",
+   "houseSeats": 2,
+   "senate": {
+    "kind": "regular",
+    "holder": "Collins",
+    "party": "R"
+   },
+   "governor": true,
+   "office": {
+    "name": "Maine election office",
+    "url": "https://www.maine.gov/sos/cec/elec/index.html"
+   }
+  },
+  {
+   "abbr": "MD",
+   "name": "Maryland",
+   "closeLocal": "8 p.m. ET",
+   "closeEt": "8 p.m.",
+   "waveEt": "8 p.m.",
+   "closeNote": "",
+   "houseSeats": 8,
+   "senate": null,
+   "governor": true,
+   "office": {
+    "name": "Maryland election office",
+    "url": "https://elections.maryland.gov/"
+   }
+  },
+  {
+   "abbr": "MA",
+   "name": "Massachusetts",
+   "closeLocal": "8 p.m. ET",
+   "closeEt": "8 p.m.",
+   "waveEt": "8 p.m.",
+   "closeNote": "",
+   "houseSeats": 9,
+   "senate": {
+    "kind": "regular",
+    "holder": "Markey",
+    "party": "D"
+   },
+   "governor": true,
+   "office": {
+    "name": "Massachusetts election office",
+    "url": "https://www.sec.state.ma.us/divisions/elections/elections-and-voting.htm"
+   }
+  },
+  {
+   "abbr": "MI",
+   "name": "Michigan",
+   "closeLocal": "8 p.m. local",
+   "closeEt": "8 p.m.",
+   "waveEt": "8 p.m.",
+   "closeNote": "four Upper Peninsula counties (Central) 9 p.m. ET",
+   "houseSeats": 13,
+   "senate": {
+    "kind": "regular",
+    "holder": "Peters",
+    "party": "D"
+   },
+   "governor": true,
+   "office": {
+    "name": "Michigan election office",
+    "url": "https://www.michigan.gov/sos/elections"
+   }
+  },
+  {
+   "abbr": "MN",
+   "name": "Minnesota",
+   "closeLocal": "8 p.m. CT",
+   "closeEt": "9 p.m.",
+   "waveEt": "9 p.m.",
+   "closeNote": "",
+   "houseSeats": 8,
+   "senate": {
+    "kind": "regular",
+    "holder": "Smith",
+    "party": "D"
+   },
+   "governor": true,
+   "office": {
+    "name": "Minnesota election office",
+    "url": "https://www.sos.state.mn.us/elections-voting/"
+   }
+  },
+  {
+   "abbr": "MS",
+   "name": "Mississippi",
+   "closeLocal": "7 p.m. CT",
+   "closeEt": "8 p.m.",
+   "waveEt": "8 p.m.",
+   "closeNote": "",
+   "houseSeats": 4,
+   "senate": {
+    "kind": "regular",
+    "holder": "Hyde-Smith",
+    "party": "R"
+   },
+   "governor": false,
+   "office": {
+    "name": "Mississippi election office",
+    "url": "https://www.sos.ms.gov/elections-voting"
+   }
+  },
+  {
+   "abbr": "MO",
+   "name": "Missouri",
+   "closeLocal": "7 p.m. CT",
+   "closeEt": "8 p.m.",
+   "waveEt": "8 p.m.",
+   "closeNote": "",
+   "houseSeats": 8,
+   "senate": null,
+   "governor": false,
+   "office": {
+    "name": "Missouri election office",
+    "url": "https://www.sos.mo.gov/elections/"
+   }
+  },
+  {
+   "abbr": "MT",
+   "name": "Montana",
+   "closeLocal": "8 p.m. MT",
+   "closeEt": "10 p.m.",
+   "waveEt": "10 p.m.",
+   "closeNote": "",
+   "houseSeats": 2,
+   "senate": {
+    "kind": "regular",
+    "holder": "Daines",
+    "party": "R"
+   },
+   "governor": false,
+   "office": {
+    "name": "Montana election office",
+    "url": "https://sosmt.gov/elections/"
+   }
+  },
+  {
+   "abbr": "NE",
+   "name": "Nebraska",
+   "closeLocal": "8 p.m. CT",
+   "closeEt": "9 p.m.",
+   "waveEt": "9 p.m.",
+   "closeNote": "Mountain-time Panhandle closes 7 p.m. MT, also 9 p.m. ET",
+   "houseSeats": 3,
+   "senate": {
+    "kind": "regular",
+    "holder": "Ricketts",
+    "party": "R"
+   },
+   "governor": true,
+   "office": {
+    "name": "Nebraska election office",
+    "url": "https://www.nebraska.gov/featured/elections-voting/"
+   }
+  },
+  {
+   "abbr": "NV",
+   "name": "Nevada",
+   "closeLocal": "7 p.m. PT",
+   "closeEt": "10 p.m.",
+   "waveEt": "10 p.m.",
+   "closeNote": "",
+   "houseSeats": 4,
+   "senate": null,
+   "governor": true,
+   "office": {
+    "name": "Nevada election office",
+    "url": "https://www.nvsos.gov/sos/elections"
+   }
+  },
+  {
+   "abbr": "NH",
+   "name": "New Hampshire",
+   "closeLocal": "7 or 8 p.m. ET",
+   "closeEt": "7-8 p.m.",
+   "waveEt": "8 p.m.",
+   "closeNote": "towns set hours",
+   "houseSeats": 2,
+   "senate": {
+    "kind": "regular",
+    "holder": "Shaheen",
+    "party": "D"
+   },
+   "governor": true,
+   "office": {
+    "name": "New Hampshire election office",
+    "url": "https://www.sos.nh.gov/elections/voters"
+   }
+  },
+  {
+   "abbr": "NJ",
+   "name": "New Jersey",
+   "closeLocal": "8 p.m. ET",
+   "closeEt": "8 p.m.",
+   "waveEt": "8 p.m.",
+   "closeNote": "",
+   "houseSeats": 12,
+   "senate": {
+    "kind": "regular",
+    "holder": "Booker",
+    "party": "D"
+   },
+   "governor": false,
+   "office": {
+    "name": "New Jersey election office",
+    "url": "https://www.nj.gov/state/elections/vote.shtml"
+   }
+  },
+  {
+   "abbr": "NM",
+   "name": "New Mexico",
+   "closeLocal": "7 p.m. MT",
+   "closeEt": "9 p.m.",
+   "waveEt": "9 p.m.",
+   "closeNote": "",
+   "houseSeats": 3,
+   "senate": {
+    "kind": "regular",
+    "holder": "Luj\u00e1n",
+    "party": "D"
+   },
+   "governor": true,
+   "office": {
+    "name": "New Mexico election office",
+    "url": "https://www.sos.nm.gov/voting-and-elections/voter-information-portal-nmvote-org/"
+   }
+  },
+  {
+   "abbr": "NY",
+   "name": "New York",
+   "closeLocal": "9 p.m. ET",
+   "closeEt": "9 p.m.",
+   "waveEt": "9 p.m.",
+   "closeNote": "",
+   "houseSeats": 26,
+   "senate": null,
+   "governor": true,
+   "office": {
+    "name": "New York election office",
+    "url": "https://www.elections.ny.gov/"
+   }
+  },
+  {
+   "abbr": "NC",
+   "name": "North Carolina",
+   "closeLocal": "7:30 p.m. ET",
+   "closeEt": "7:30 p.m.",
+   "waveEt": "7:30 p.m.",
+   "closeNote": "",
+   "houseSeats": 14,
+   "senate": {
+    "kind": "regular",
+    "holder": "Tillis",
+    "party": "R"
+   },
+   "governor": false,
+   "office": {
+    "name": "North Carolina election office",
+    "url": "https://www.ncsbe.gov/"
+   }
+  },
+  {
+   "abbr": "ND",
+   "name": "North Dakota",
+   "closeLocal": "7-9 p.m. local",
+   "closeEt": "8-10 p.m.",
+   "waveEt": "8 p.m.",
+   "closeNote": "polls close between 7 and 9 p.m. local time depending on the precinct, 8 to 10 p.m. ET",
+   "houseSeats": 1,
+   "senate": null,
+   "governor": false,
+   "office": {
+    "name": "North Dakota election office",
+    "url": "https://vip.sos.nd.gov/PortalList.aspx"
+   }
+  },
+  {
+   "abbr": "OH",
+   "name": "Ohio",
+   "closeLocal": "7:30 p.m. ET",
+   "closeEt": "7:30 p.m.",
+   "waveEt": "7:30 p.m.",
+   "closeNote": "",
+   "houseSeats": 15,
+   "senate": {
+    "kind": "special",
+    "holder": "Husted",
+    "party": "R"
+   },
+   "governor": true,
+   "office": {
+    "name": "Ohio election office",
+    "url": "https://www.sos.state.oh.us/elections/voters/"
+   }
+  },
+  {
+   "abbr": "OK",
+   "name": "Oklahoma",
+   "closeLocal": "7 p.m. CT",
+   "closeEt": "8 p.m.",
+   "waveEt": "8 p.m.",
+   "closeNote": "",
+   "houseSeats": 5,
+   "senate": {
+    "kind": "regular",
+    "holder": "Armstrong",
+    "party": "R"
+   },
+   "governor": true,
+   "office": {
+    "name": "Oklahoma election office",
+    "url": "https://oklahoma.gov/elections.html"
+   }
+  },
+  {
+   "abbr": "OR",
+   "name": "Oregon",
+   "closeLocal": "8 p.m. local",
+   "closeEt": "11 p.m.",
+   "waveEt": "11 p.m.",
+   "closeNote": "all-mail; ballot drop sites close at 8 p.m. local time; Malheur County (Mountain) closes at 10 p.m. ET",
+   "houseSeats": 6,
+   "senate": {
+    "kind": "regular",
+    "holder": "Merkley",
+    "party": "D"
+   },
+   "governor": true,
+   "office": {
+    "name": "Oregon election office",
+    "url": "https://sos.oregon.gov/voting-elections/Pages/default.aspx"
+   }
+  },
+  {
+   "abbr": "PA",
+   "name": "Pennsylvania",
+   "closeLocal": "8 p.m. ET",
+   "closeEt": "8 p.m.",
+   "waveEt": "8 p.m.",
+   "closeNote": "",
+   "houseSeats": 17,
+   "senate": null,
+   "governor": true,
+   "office": {
+    "name": "Pennsylvania election office",
+    "url": "https://www.dos.pa.gov/VotingElections/Pages/default.aspx"
+   }
+  },
+  {
+   "abbr": "RI",
+   "name": "Rhode Island",
+   "closeLocal": "8 p.m. ET",
+   "closeEt": "8 p.m.",
+   "waveEt": "8 p.m.",
+   "closeNote": "",
+   "houseSeats": 2,
+   "senate": {
+    "kind": "regular",
+    "holder": "Reed",
+    "party": "D"
+   },
+   "governor": true,
+   "office": {
+    "name": "Rhode Island election office",
+    "url": "https://vote.sos.ri.gov/"
+   }
+  },
+  {
+   "abbr": "SC",
+   "name": "South Carolina",
+   "closeLocal": "7 p.m. ET",
+   "closeEt": "7 p.m.",
+   "waveEt": "7 p.m.",
+   "closeNote": "",
+   "houseSeats": 7,
+   "senate": {
+    "kind": "regular",
+    "holder": "Graham",
+    "party": "R"
+   },
+   "governor": true,
+   "office": {
+    "name": "South Carolina election office",
+    "url": "https://www.scvotes.org/"
+   }
+  },
+  {
+   "abbr": "SD",
+   "name": "South Dakota",
+   "closeLocal": "7 p.m. local",
+   "closeEt": "8 p.m.",
+   "waveEt": "8 p.m.",
+   "closeNote": "western South Dakota (Mountain) 9 p.m. ET",
+   "houseSeats": 1,
+   "senate": {
+    "kind": "regular",
+    "holder": "Rounds",
+    "party": "R"
+   },
+   "governor": true,
+   "office": {
+    "name": "South Dakota election office",
+    "url": "https://sdsos.gov/elections-voting/default.aspx"
+   }
+  },
+  {
+   "abbr": "TN",
+   "name": "Tennessee",
+   "closeLocal": "7 p.m. CT / 8 p.m. ET",
+   "closeEt": "8 p.m.",
+   "waveEt": "8 p.m.",
+   "closeNote": "counties set hours",
+   "houseSeats": 9,
+   "senate": {
+    "kind": "regular",
+    "holder": "Hagerty",
+    "party": "R"
+   },
+   "governor": true,
+   "office": {
+    "name": "Tennessee election office",
+    "url": "https://sos.tn.gov/elections"
+   }
+  },
+  {
+   "abbr": "TX",
+   "name": "Texas",
+   "closeLocal": "7 p.m. local",
+   "closeEt": "8 p.m.",
+   "waveEt": "8 p.m.",
+   "closeNote": "El Paso and Hudspeth counties (Mountain) 9 p.m. ET",
+   "houseSeats": 38,
+   "senate": {
+    "kind": "regular",
+    "holder": "Cornyn",
+    "party": "R"
+   },
+   "governor": true,
+   "office": {
+    "name": "Texas election office",
+    "url": "https://www.sos.state.tx.us/elections/index.shtml"
+   }
+  },
+  {
+   "abbr": "UT",
+   "name": "Utah",
+   "closeLocal": "8 p.m. MT",
+   "closeEt": "10 p.m.",
+   "waveEt": "10 p.m.",
+   "closeNote": "",
+   "houseSeats": 4,
+   "senate": null,
+   "governor": false,
+   "office": {
+    "name": "Utah election office",
+    "url": "https://vote.utah.gov/"
+   }
+  },
+  {
+   "abbr": "VT",
+   "name": "Vermont",
+   "closeLocal": "7 p.m. ET",
+   "closeEt": "7 p.m.",
+   "waveEt": "7 p.m.",
+   "closeNote": "",
+   "houseSeats": 1,
+   "senate": null,
+   "governor": true,
+   "office": {
+    "name": "Vermont election office",
+    "url": "https://sos.vermont.gov/elections/"
+   }
+  },
+  {
+   "abbr": "VA",
+   "name": "Virginia",
+   "closeLocal": "7 p.m. ET",
+   "closeEt": "7 p.m.",
+   "waveEt": "7 p.m.",
+   "closeNote": "",
+   "houseSeats": 11,
+   "senate": {
+    "kind": "regular",
+    "holder": "Warner",
+    "party": "D"
+   },
+   "governor": false,
+   "office": {
+    "name": "Virginia election office",
+    "url": "https://www.elections.virginia.gov/"
+   }
+  },
+  {
+   "abbr": "WA",
+   "name": "Washington",
+   "closeLocal": "8 p.m. PT",
+   "closeEt": "11 p.m.",
+   "waveEt": "11 p.m.",
+   "closeNote": "all-mail; ballot drop boxes close",
+   "houseSeats": 10,
+   "senate": null,
+   "governor": false,
+   "office": {
+    "name": "Washington election office",
+    "url": "https://www.sos.wa.gov/elections"
+   }
+  },
+  {
+   "abbr": "WV",
+   "name": "West Virginia",
+   "closeLocal": "7:30 p.m. ET",
+   "closeEt": "7:30 p.m.",
+   "waveEt": "7:30 p.m.",
+   "closeNote": "",
+   "houseSeats": 2,
+   "senate": {
+    "kind": "regular",
+    "holder": "Capito",
+    "party": "R"
+   },
+   "governor": false,
+   "office": {
+    "name": "West Virginia election office",
+    "url": "https://sos.wv.gov/elections/pages/default.aspx"
+   }
+  },
+  {
+   "abbr": "WI",
+   "name": "Wisconsin",
+   "closeLocal": "8 p.m. CT",
+   "closeEt": "9 p.m.",
+   "waveEt": "9 p.m.",
+   "closeNote": "",
+   "houseSeats": 8,
+   "senate": null,
+   "governor": true,
+   "office": {
+    "name": "Wisconsin election office",
+    "url": "https://myvote.wi.gov/en-us/"
+   }
+  },
+  {
+   "abbr": "WY",
+   "name": "Wyoming",
+   "closeLocal": "7 p.m. MT",
+   "closeEt": "9 p.m.",
+   "waveEt": "9 p.m.",
+   "closeNote": "",
+   "houseSeats": 1,
+   "senate": {
+    "kind": "regular",
+    "holder": "Lummis",
+    "party": "R"
+   },
+   "governor": true,
+   "office": {
+    "name": "Wyoming election office",
+    "url": "https://sos.wyo.gov/Elections/Default.aspx"
+   }
+  }
+ ]
+}

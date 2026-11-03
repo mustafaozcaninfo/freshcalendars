@@ -4,7 +4,7 @@ seoTitle: "When Will We Know 2026 Midterm Election Results?"
 description: "Polls close Nov. 3, 2026, but counting takes days in some states. When mail ballots are counted in 17 key states, late-ballot rules and certification dates."
 type: explainer
 publishedAt: "2026-10-21T00:30:00-04:00"
-updatedAt: "2026-11-02T13:17:00-05:00"
+updatedAt: "2026-11-03T12:48:00-05:00"
 authors: [christina-gerland]
 category: elections
 keywords: ["when will we know election results 2026", "when will election results start coming in", "2026 midterm results timeline", "election results by state 2026", "when are election results certified"]
@@ -79,6 +79,8 @@ draft: false
 ---
 
 **The first results arrive minutes after polls close on Tuesday, Nov. 3, 2026, but they are unofficial, and in some states the count runs for days.** Election-night totals keep changing as officials add mail, provisional and overseas ballots, the U.S. Election Assistance Commission says. News organizations project winners when the trailing candidate can no longer catch up; states make results official later, through the canvass and certification. How fast each state reports depends mostly on its mail-ballot rules, which are laid out below for 17 states.
+
+We are tracking the returns state by state in our [Election Night 2026 live blog](/news/election-day-2026-results-map/), with a results map, a scoreboard and a link to every state's election office.
 
 ## When do election results start coming in?
 

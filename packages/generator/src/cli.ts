@@ -23,6 +23,7 @@ import { buildDateList2Downloads } from "./datelists2.js";
 import { buildDateList3Downloads } from "./datelists3.js";
 import { buildHeroes3 } from "./heroes3.js";
 import { buildElection2026Downloads } from "./election2026.js";
+import { buildElectionLive } from "./electionLive.js";
 import { buildGta6Downloads } from "./gta6.js";
 import { buildVeteransDownloads } from "./veterans.js";
 import { buildShoppingDownloads } from "./shopping2026.js";
@@ -143,6 +144,8 @@ async function main(): Promise<void> {
       await buildHeroes3();
     } else if (cmd === "news-election2026") {
       await buildElection2026Downloads();
+    } else if (cmd === "news-electionlive") {
+      await buildElectionLive(process.argv.slice(3));
     } else if (cmd === "news-heroes4") {
       await buildHeroes4();
     } else if (cmd === "news-gta6") {
@@ -234,6 +237,7 @@ async function main(): Promise<void> {
   pnpm fc news-datelists                   # /news/ NYC and Chicago school calendars, UK bank holidays 2027
   pnpm fc news-datelists2                  # /news/ 2027 holidays, Florida school calendars, MCAT/SAT/ACT/LSAT
   pnpm fc news-election2026                # /news/ poll times, mail deadlines, results tracker, state ballot checklists
+  pnpm fc news-electionlive [--check]      # /news/ Election Night 2026 live blog: map, scoreboard and race tables from the status JSON
   pnpm fc news-heroes4                     # /news/ hero illustrations for the Election 2026 batch
   pnpm fc news-gta6                        # /news/ GTA 6 launch countdown calendar
   pnpm fc news-veterans                    # /news/ Veterans Day free meals cheat sheet

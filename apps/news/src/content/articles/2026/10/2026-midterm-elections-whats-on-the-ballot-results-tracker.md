@@ -4,7 +4,7 @@ seoTitle: "2026 Midterm Elections: What's on the Ballot Nov. 3"
 description: "The Nov. 3, 2026 midterms decide 35 Senate seats, all 435 House seats and 36 governors. Every race by state, dates after Election Day and a printable tracker."
 type: explainer
 publishedAt: "2026-10-20T11:00:00-04:00"
-updatedAt: "2026-11-02T14:10:00-05:00"
+updatedAt: "2026-11-03T12:48:00-05:00"
 authors: [christina-gerland]
 category: elections
 keywords: ["2026 midterm elections", "senate seats up in 2026", "governor races 2026", "midterm election 2026 date", "election night tracker printable"]
@@ -69,6 +69,8 @@ draft: false
 ---
 
 **The 2026 midterm elections on Tuesday, Nov. 3 will decide 35 of the 100 seats in the U.S. Senate, all 435 seats in the House of Representatives and 36 governorships.** Voters will also elect thousands of state legislators and decide 145 statewide ballot measures. Here is what is on the ballot nationwide, when the results become official and a free printable tracker for election night.
+
+As polls close, follow the results on our [Election Night 2026 live blog](/news/election-day-2026-results-map/), which carries a map, a scoreboard and tables for all 35 Senate and 36 governor races.
 
 ## The Senate: 35 seats
 
