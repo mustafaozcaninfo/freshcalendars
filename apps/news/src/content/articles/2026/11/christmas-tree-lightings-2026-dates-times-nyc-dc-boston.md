@@ -4,6 +4,7 @@ seoTitle: "Christmas Tree Lightings 2026: Dates and Times"
 description: "The National Christmas Tree lights Dec. 3, 2026, says the National Park Service (NPS), as does Boston Common; Rockefeller Center's is reported for Dec. 2."
 type: news
 publishedAt: "2026-11-03T06:48:00-05:00"
+updatedAt: "2026-11-03T10:28:00-05:00"
 authors: [christina-gerland]
 category: holidays
 keywords: ["christmas tree lighting 2026", "tree lighting 2026 near me", "rockefeller tree lighting 2026 date", "boston common tree lighting 2026"]
@@ -143,15 +144,15 @@ Both say the tree is a Norway spruce from West Edmeston, New York. amNY gives it
 
 The NPS says the ceremony takes place Dec. 3 on the Ellipse in Washington, D.C. Tickets come from a lottery on Recreation.gov that opened at 10 a.m. ET on Wednesday, Oct. 28 and closes at 3 p.m. ET on Wednesday, Nov. 4, 2026. There is no charge to enter or to receive tickets, and each winner can get up to five. Winners are notified Thursday, Nov. 12.
 
-The NPS release does not give a start time, and we found none elsewhere. The National Park Foundation's thenationaltree.org says the ceremony premieres nationwide on Saturday, Dec. 5 on the foundation's YouTube channel, and that the grounds are open to the public from Dec. 7, 2026 through Jan. 1, 2027.
+The NPS release does not give a start time, and we found none elsewhere. The National Park Foundation's thenationaltree.org says the ceremony premieres nationwide on Saturday, Dec. 5 on the foundation's YouTube channel and will air on other national and local media channels, and that the grounds are open to the public from Dec. 7, 2026 through Jan. 1, 2027.
 
 ## When is the Boston Common tree lighting in 2026?
 
-The City of Boston lists the Boston Common Tree Lighting for Dec. 3, 2026, 6 p.m. to 8 p.m., at 139 Tremont Street, and calls it free. The 2026 TV broadcast, tree donor and tree arrival are not yet announced.
+The City of Boston lists the Boston Common Tree Lighting for Dec. 3, 2026, 6 p.m. to 8 p.m., at 139 Tremont Street, and calls it free. The tree is a gift from the Province of Nova Scotia; the city says 2026 marks the 55th year Nova Scotia has given Boston a tree in thanks for relief efforts. Mayor Michelle Wu hosts with Nova Scotia Premier Tim Houston. At about 8:15 p.m., right after the Common ceremony, the lights on the Commonwealth Avenue Mall are switched on. The 2026 TV broadcast and the tree's arrival date are not yet announced.
 
 For comparison, in 2025 the Parks Department said the lighting was Thursday, Dec. 4, 6 to 8 p.m., with a Channel 5 broadcast from 7 p.m. Treat that as last year's schedule until the city posts a 2026 broadcast.
 
-Copley Square has its own event on Monday, Nov. 30, 2026, 5 p.m. to 6 p.m. at 560 Boylston Street, also free.
+Copley Square has its own event on Monday, Nov. 30, 2026, 5 p.m. to 6 p.m. at 560 Boylston Street, also free. The city lists music from vocalist Joelle James, the Boston Children's Chorus and Symphonic of Emerson College, visits from Santa Claus and Rudolph, and the grand reopening of Copley Square Park.
 
 ## When is the Capitol Christmas Tree lighting in 2026?
 
