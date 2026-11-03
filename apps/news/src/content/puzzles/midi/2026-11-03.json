@@ -1,0 +1,454 @@
+{
+ "title": "Stay in Line!",
+ "publicationDate": "2026-11-03",
+ "constructors": [
+  "Ian Livengood"
+ ],
+ "width": 9,
+ "height": 9,
+ "cells": [
+  "B",
+  "A",
+  "W",
+  "L",
+  null,
+  "A",
+  "B",
+  "C",
+  "S",
+  "A",
+  "C",
+  "H",
+  "E",
+  null,
+  "S",
+  "O",
+  "U",
+  "P",
+  "S",
+  "U",
+  "I",
+  "T",
+  null,
+  "A",
+  "N",
+  "D",
+  "Y",
+  "E",
+  "R",
+  "R",
+  null,
+  "A",
+  "D",
+  "E",
+  null,
+  null,
+  "S",
+  "A",
+  "L",
+  "T",
+  "S",
+  "A",
+  "W",
+  "A",
+  "Y",
+  null,
+  null,
+  "W",
+  "O",
+  "K",
+  null,
+  "H",
+  "O",
+  "O",
+  "S",
+  "K",
+  "I",
+  "T",
+  null,
+  "A",
+  "I",
+  "R",
+  "Y",
+  "P",
+  "I",
+  "N",
+  "E",
+  null,
+  "O",
+  "T",
+  "T",
+  "O",
+  "A",
+  "D",
+  "D",
+  "S",
+  null,
+  "L",
+  "E",
+  "A",
+  null
+ ],
+ "clues": [
+  {
+   "direction": "Across",
+   "label": "1",
+   "text": "Cry like a baby",
+   "cells": [
+    0,
+    1,
+    2,
+    3
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "5",
+   "text": "Topic of a children's song with the lyric \"Next time won't you sing with me?\"",
+   "cells": [
+    5,
+    6,
+    7,
+    8
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "9",
+   "text": "Long (for)",
+   "cells": [
+    9,
+    10,
+    11,
+    12
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "10",
+   "text": "Gazpacho or garbure",
+   "cells": [
+    14,
+    15,
+    16,
+    17
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "11",
+   "text": "Common attire for a Secret Service agent",
+   "cells": [
+    18,
+    19,
+    20,
+    21
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "12",
+   "text": "Samberg of \"7 Days in Hell\"",
+   "cells": [
+    23,
+    24,
+    25,
+    26
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "13",
+   "text": "\"To ___ is human; to forgive, divine\"",
+   "cells": [
+    27,
+    28,
+    29
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "14",
+   "text": "Commercial ending with Gator",
+   "cells": [
+    31,
+    32,
+    33
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "15",
+   "text": "Sets aside for a rainy day",
+   "cells": [
+    36,
+    37,
+    38,
+    39,
+    40,
+    41,
+    42,
+    43,
+    44
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "19",
+   "text": "Stir-frying pan",
+   "cells": [
+    47,
+    48,
+    49
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "20",
+   "text": "\"___ boy!\"",
+   "cells": [
+    51,
+    52,
+    53
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "21",
+   "text": "Comedic sketch",
+   "cells": [
+    54,
+    55,
+    56,
+    57
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "23",
+   "text": "Well-ventilated",
+   "cells": [
+    59,
+    60,
+    61,
+    62
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "24",
+   "text": "Norway ___ (state tree of Minnesota)",
+   "cells": [
+    63,
+    64,
+    65,
+    66
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "25",
+   "text": "Palindromic man's name",
+   "cells": [
+    68,
+    69,
+    70,
+    71
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "26",
+   "text": "Counts on one's fingers, say",
+   "cells": [
+    72,
+    73,
+    74,
+    75
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "27",
+   "text": "Actress/singer Salonga",
+   "cells": [
+    77,
+    78,
+    79
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "1",
+   "text": "Diamond quartet",
+   "cells": [
+    0,
+    9,
+    18,
+    27,
+    36
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "2",
+   "text": "Luxury brand of Honda",
+   "cells": [
+    1,
+    10,
+    19,
+    28,
+    37
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "3",
+   "text": "Action-packed and exhausting, as a weekend",
+   "cells": [
+    2,
+    11,
+    20,
+    29,
+    38,
+    47,
+    56,
+    65,
+    74
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "4",
+   "text": "\"___ freedom ring\" (line from Martin Luther King Jr.'s \"I Have a Dream\" speech)",
+   "cells": [
+    3,
+    12,
+    21
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "5",
+   "text": "Carne ___",
+   "cells": [
+    5,
+    14,
+    23,
+    32,
+    41
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "6",
+   "text": "Color similar to beige, despite its name",
+   "cells": [
+    6,
+    15,
+    24,
+    33,
+    42,
+    51,
+    60,
+    69,
+    78
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "7",
+   "text": "Cow's mouthful",
+   "cells": [
+    7,
+    16,
+    25
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "8",
+   "text": "Many a character on BBC's \"The Night Manager\"",
+   "cells": [
+    8,
+    17,
+    26
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "14",
+   "text": "\"Say, can I ___ you something?\"",
+   "cells": [
+    31,
+    40,
+    49
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "16",
+   "text": "\"Oh, 100%,\" in slang",
+   "cells": [
+    39,
+    48,
+    57,
+    66,
+    75
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "17",
+   "text": "Main artery of the human body",
+   "cells": [
+    43,
+    52,
+    61,
+    70,
+    79
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "18",
+   "text": "Toy on a string",
+   "cells": [
+    44,
+    53,
+    62,
+    71
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "21",
+   "text": "Relaxing escape",
+   "cells": [
+    54,
+    63,
+    72
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "22",
+   "text": "Josh",
+   "cells": [
+    55,
+    64,
+    73
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "23",
+   "text": "Internet company that popularized instant messaging",
+   "cells": [
+    59,
+    68,
+    77
+   ]
+  }
+ ]
+}

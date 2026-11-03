@@ -317,6 +317,9 @@ export const PUZZLE_HEROES: [string, string, string, string, string, string, str
   ["past-wordle-answers-every-word-since-2021", "wordle", "#13261b", "#c9b458", "Wordle · 2021 to 2026", "Every past answer", "1,960 puzzles, #0 to #1959, by date and A to Z."],
   ["nyt-letter-boxed-answer-hints-november-5-2026", "letterboxed", "#3d1f1a", "#fb923c", "Letter Boxed · Thu., Nov. 5, 2026", "Letter Boxed hints", "Starting letters and word lengths first, the answer at the end."],
   ["contexto-answer-hints-november-7-2026-1511", "contexto", "#0f172a", "#60a5fa", "Contexto #1511 · Sat., Nov. 7, 2026", "Contexto hints", "Close words and hints first, the secret word only at the end."],
+  ["nyt-mini-crossword-answers-november-3-2026", "mini", "#0f1d2e", "#93c5fd", "NYT Mini · Tue., Nov. 3, 2026", "NYT Mini answers", "A hint for every clue first, the full grid at the end."],
+  ["nyt-midi-crossword-answers-november-2-2026", "midi", "#13213a", "#fcd34d", "NYT Midi · Mon., Nov. 2, 2026", "NYT Midi answers", "A hint for every clue and the theme first, the full grid at the end."],
+  ["nyt-midi-crossword-answers-november-3-2026", "midi", "#13213a", "#f9a8d4", "NYT Midi · Tue., Nov. 3, 2026", "NYT Midi answers", "A hint for every clue and the theme first, the full grid at the end."],
 ];
 
 export async function buildHeroes5(only?: string): Promise<void> {

@@ -35,6 +35,7 @@ internalLinks:
   - href: "/printable-weekly-calendar.html"
     label: "Printable weekly calendar"
 related: [nyt-mini-crossword-answers-november-1-2026, wordle-hint-answer-today-november-1-2026-1961, nyt-connections-hints-answers-november-1-2026-1239]
+updatedAt: "2026-11-02T22:30:00-05:00"
 draft: false
 ---
 **The New York Times (NYT) Midi Crossword for Sunday, Nov. 1, 2026, is a 10-by-10 grid with 36 clues by Rebecca Goldstein, edited by Ian Livengood.** Its published title is Midi Golf. Below is a hint for every clue, each one hidden until you open it, then the full answers in a marked spoiler section.
@@ -93,7 +94,7 @@ Start with the ten three-letter entries: 1-Across, 17-Across, 27-Across, 30-Acro
 
 Keep a streak log on our [printable weekly calendar](/printable-weekly-calendar.html) or the [November 2026 printable calendar](/november-calendars.html).
 
-More of Sunday's puzzles: [Mini Crossword hints](/news/nyt-mini-crossword-answers-november-1-2026/), [Wordle hints](/news/wordle-hint-answer-today-november-1-2026-1961/), [Connections hints](/news/nyt-connections-hints-answers-november-1-2026-1239/), [Strands hints](/news/nyt-strands-hints-answers-november-1-2026-973/), [Spelling Bee hints](/news/nyt-spelling-bee-hints-answers-november-1-2026/) and [Pips hints](/news/nyt-pips-hints-answers-november-1-2026/).
+More of Sunday's puzzles: [Mini Crossword hints](/news/nyt-mini-crossword-answers-november-1-2026/), [Wordle hints](/news/wordle-hint-answer-today-november-1-2026-1961/), [Connections hints](/news/nyt-connections-hints-answers-november-1-2026-1239/), [Strands hints](/news/nyt-strands-hints-answers-november-1-2026-973/), [Spelling Bee hints](/news/nyt-spelling-bee-hints-answers-november-1-2026/) and [Pips hints](/news/nyt-pips-hints-answers-november-1-2026/). Monday's grid is in our [Midi answers for Nov. 2](/news/nyt-midi-crossword-answers-november-2-2026/).
 
 ## Today's NYT Midi answers (spoilers)
 
