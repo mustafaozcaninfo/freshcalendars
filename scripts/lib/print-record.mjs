@@ -40,8 +40,12 @@ export const KIT_FOR_CATEGORY = {
   "gaming-tech": ["release-tracker", "watch-guide"],
   "calendar-guides": ["year-reference", "deadline-matrix"],
 };
-/** Records from this version on are held to the kit rule (older records were drawn before it). */
-export const RECORD_VERSION = 2;
+/**
+ * Records from this version on are held to the kit rule. v2 records were drawn while only seven
+ * categories had kits; v3 (2026-11-03, a kit for every category) is when the rule covers them all,
+ * so a sheet is never failed for a rule that did not exist when it was drawn.
+ */
+export const RECORD_VERSION = 3;
 /** Records from this version on also have their kit data's names and numbers checked (10-PDF-FACTS). */
 export const NAMES_VERSION = 3;
 /** The version news-assets writes now. */
