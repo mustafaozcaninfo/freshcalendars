@@ -85,6 +85,15 @@ jobs:
           CF_ANALYTICS_TOKEN: ${{ secrets.CF_ANALYTICS_TOKEN }}
           CF_ZONE_ID: ${{ secrets.CF_ZONE_ID }}
         run: pnpm news:trending
+      - name: Printable downloads, last 7 days (Cloudflare analytics, optional)
+        # Requests per printable PDF and per kit, written to this run's summary
+        # (scripts/news-downloads.mjs); informational only, never blocks the build.
+        if: github.ref == 'refs/heads/main'
+        continue-on-error: true
+        env:
+          CF_ANALYTICS_TOKEN: ${{ secrets.CF_ANALYTICS_TOKEN }}
+          CF_ZONE_ID: ${{ secrets.CF_ZONE_ID }}
+        run: pnpm news:downloads
       - name: Build start
         id: build_start
         run: |

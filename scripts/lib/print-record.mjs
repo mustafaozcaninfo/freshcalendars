@@ -35,6 +35,40 @@ export const KIT_FOR_CATEGORY = {
 };
 /** Records from this version on are held to the kit rule (older records were drawn before it). */
 export const RECORD_VERSION = 2;
+/** Records from this version on also have their kit data's names and numbers checked (10-PDF-FACTS). */
+export const NAMES_VERSION = 3;
+/** The version news-assets writes now. */
+export const CURRENT_RECORD = 3;
+
+/**
+ * Kit data fields that are not facts from the story: identifiers, ISO values, the source's own
+ * words, and the sheet's own fill-in labels and advice.
+ */
+const NOT_FACTS = new Set(["src", "quote", "kind", "tz", "airing", "status", "direction", "mode", "start", "from", "to", "date", "dates", "at", "game", "month", "year", "months", "landscape", "family", "tasks", "checklist", "pick", "notesLabel", "why", "substitute", "federal", "done"]);
+const SKIP_WORDS = new Set(["jan", "january", "feb", "february", "mar", "march", "apr", "april", "may", "jun", "june", "jul", "july", "aug", "august", "sep", "sept", "september", "oct", "october", "nov", "november", "dec", "december", "mon", "monday", "tue", "tuesday", "wed", "wednesday", "thu", "thursday", "fri", "friday", "sat", "saturday", "sun", "sunday", "et", "ct", "mt", "pt", "the", "and", "or", "of", "a", "an", "to", "in", "on", "at", "for", "by", "with", "no"]);
+const words = (s) => s.toLowerCase().normalize("NFKD").replace(/[\u0300-\u036f]/g, "").match(/[a-z0-9]+/g) ?? [];
+
+/**
+ * Names and numbers in a kit's data (capitalized words, numbers) that the story's text does not
+ * contain, e.g. a channel or a count typed only in the printable. `storyText` is the story's body
+ * and frontmatter without the printable block.
+ */
+export function unsupportedNames(data, storyText) {
+  const have = new Set(words(storyText));
+  const missing = new Set();
+  const visit = (v, key) => {
+    if (key && NOT_FACTS.has(key)) return;
+    if (typeof v === "string") {
+      for (const raw of v.match(/[\p{L}\p{N}][\p{L}\p{N}'+]*/gu) ?? []) {
+        const isName = /^\p{Lu}/u.test(raw) || /\d/.test(raw);
+        for (const w of words(raw)) if (isName && !SKIP_WORDS.has(w) && !have.has(w)) missing.add(raw);
+      }
+    } else if (Array.isArray(v)) v.forEach((x) => visit(x));
+    else if (v && typeof v === "object") for (const [k, x] of Object.entries(v)) visit(x, k);
+  };
+  visit(data);
+  return [...missing];
+}
 
 /** Why a story's printable breaks the kit rule, or null when it is fine. */
 export function kitProblem(category, printable) {
@@ -45,6 +79,21 @@ export function kitProblem(category, printable) {
   return why
     ? `noKit must say in at least 20 characters why no kit fits (now: "${why}")`
     : `stories in ${category} use a kit (${kits.join(" or ")}): set assets.printable.kit and data:, or add noKit: "<why none fits>"`;
+}
+
+/**
+ * Why a story's downloads break the rule that printables in a kit category come from `news-assets`
+ * (a kit, or a `noKit` reason): a PDF drawn by a story's own generator module (renderPrintables
+ * directly) needs `assets.customPrintable: "<why a kit cannot draw it>"`. Returns null when fine.
+ */
+export function customProblem(category, assets, record, pdfs) {
+  if (!KIT_FOR_CATEGORY[category]) return null;
+  const drawn = new Set(record?.files ?? []);
+  const own = pdfs.filter((f) => !drawn.has(f));
+  if (!own.length) return null;
+  const why = typeof assets?.customPrintable === "string" ? assets.customPrintable.trim() : "";
+  if (why.length >= 20) return null;
+  return `${own.length} printable(s) not drawn by news-assets (${own.slice(0, 2).join(", ")}): use a kit, or add assets.customPrintable: "<why a kit cannot draw it>" (20+ characters)`;
 }
 
 /** Stable hash of the parsed `assets.printable` block (the YAML parser keeps key order). */

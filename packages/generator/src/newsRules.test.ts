@@ -10,7 +10,7 @@ import sharp from "sharp";
 import { KITS } from "./kits/index.ts";
 import { THEMES, contrast, textPairs } from "./kits/themes.ts";
 import { clock } from "./kits/watchGuide.ts";
-import { KIT_FOR_CATEGORY, factTokens, kitProblem } from "../../../scripts/lib/print-record.mjs";
+import { KIT_FOR_CATEGORY, customProblem, factTokens, kitProblem, unsupportedNames } from "../../../scripts/lib/print-record.mjs";
 
 const base = { slug: "t", group: "g", title: "Test Dates 2026", note: "Source: test" };
 const iso = (d: Date) => d.toISOString().slice(0, 10);
@@ -199,4 +199,20 @@ test("a UTC offset that no zone uses that day is refused (daylight saving time s
   assert.throws(() => k.validate(ev("2026-07-04T20:00-03:30"), kctx("sports")), /not the clock of any/);
   // Atlantic time (-04:00 in winter) is a real clock for uk-canada stories only.
   assert.doesNotThrow(() => k.validate(ev("2026-11-18T20:00-04:00"), kctx("uk-canada")));
+});
+
+test("kit data names and numbers must be in the story", () => {
+  const story = "Chiefs at Broncos, 8 p.m. ET on CBS and Paramount+. FedEx Ground 4-day transit.";
+  assert.deepEqual(unsupportedNames({ events: [{ title: "Chiefs at Broncos", channel: "CBS", stream: "Paramount+", quote: "ESPN2 says", src: 1 }] }, story), []);
+  assert.deepEqual(unsupportedNames({ events: [{ title: "Chiefs at Raiders", channel: "ESPN2" }] }, story).sort(), ["ESPN2", "Raiders"]);
+  assert.deepEqual(unsupportedNames({ rows: [{ cells: { FedEx: "Ground, 5-day transit" } }] }, story), ["5"]);
+  // The sheet's own fill-in labels and advice are not facts.
+  assert.deepEqual(unsupportedNames({ family: ["Picture Day"], tasks: [{ task: "Buy Batteries" }] }, story), []);
+});
+
+test("a custom generator's PDF in a kit category needs a reason", () => {
+  const pdfs = ["/news/downloads/g/a.pdf"];
+  assert.match(customProblem("sports", {}, null, pdfs)!, /customPrintable/);
+  assert.equal(customProblem("sports", { customPrintable: "season-long pick'em hub drawn from the schedule CSV" }, null, pdfs), null);
+  assert.equal(customProblem("sports", {}, { files: pdfs }, pdfs), null);
 });
