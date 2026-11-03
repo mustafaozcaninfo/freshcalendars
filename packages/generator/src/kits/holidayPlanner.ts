@@ -157,7 +157,9 @@ export const holidayPlanner: Kit<HolidayPlanner> = {
       <table class="fu-t"><thead><tr><th class="yr">Year</th><th>Date</th></tr></thead><tbody>${futureRows}</tbody></table></div>` : "";
 
     const sideParts = [unconfirmedBox(k.unconfirmed), k.fill.length ? fillLines("My plans", k.fill) : ""].filter(Boolean);
-    const side = sideParts.length ? `<div class="side blk">${key}${sideParts.join("")}</div>` : key ? `<div class="side blk">${key}</div>` : "";
+    // Each box moves on its own (a .flow grid), so the key can stay on page 1 when the rest cannot.
+    const boxes = [key, ...sideParts].filter(Boolean).map((b) => b.replace(/^<div class="box/, '<div class="box blk'));
+    const side = boxes.length ? `<div class="side flow">${boxes.join("")}</div>` : "";
 
     const css = `${baseCss(t, landscape)}
     .dcard{display:flex;align-items:stretch;gap:14px;border:2px solid ${t.primary};border-radius:12px;background:${t.soft};padding:calc(10px*var(--s)) 16px;margin-bottom:calc(10px*var(--s))}
