@@ -4,6 +4,7 @@ seoTitle: "Heisman Trophy 2026 Date: Ballots, Finalists, Ceremony"
 description: "The 2026 Heisman Trophy winner is announced Saturday, Dec. 12, heisman.com says. Ballots are due Monday, Dec. 7, 5 p.m. Eastern Time (ET); finalists follow."
 type: news
 publishedAt: "2026-10-28T18:00:00-04:00"
+updatedAt: "2026-11-03T12:29:00-05:00"
 authors: [jessica-hartwell]
 category: sports
 keywords: ["Heisman Trophy 2026 date", "Heisman ceremony 2026", "Heisman finalists 2026", "Heisman voting deadline"]
@@ -21,11 +22,11 @@ hero:
 summary:
   - "The Heisman Trophy Trust lists ballots going out Thursday, Dec. 3, 2026, and the voting deadline and finalist announcement on Monday, Dec. 7."
   - "Ballots are due by 5 p.m. Eastern Time (ET) on Dec. 7, which is 4 p.m. Central, 3 p.m. Mountain and 2 p.m. Pacific by our conversion."
-  - "The winner is announced at the Heisman ceremony on Saturday, Dec. 12, 2026. The start time, network and venue are not yet announced; in 2025 it was 7 p.m. ET on ABC."
+  - "The winner is announced at the televised Heisman ceremony on Saturday, Dec. 12, 2026, on the American Broadcasting Company (ABC), according to heisman.com. The start time and venue are not yet announced; in 2025 it was 7 p.m. ET."
   - "A free printable on this page lists the four dates to mark."
 faq:
   - q: "When is the 2026 Heisman Trophy ceremony?"
-    a: "Saturday, Dec. 12, 2026, according to the key dates on heisman.com. The start time has not been announced; the 2025 ceremony was Saturday, Dec. 13, at 7 p.m. ET."
+    a: "Saturday, Dec. 12, 2026, on ABC, according to the key dates on heisman.com. The start time has not been announced; the 2025 ceremony was Saturday, Dec. 13, at 7 p.m. ET."
   - q: "When are the 2026 Heisman finalists announced?"
     a: "Monday, Dec. 7, 2026, in the evening, according to the Heisman balloting page. ESPN announces the finalists each year under its rights agreement with the Heisman Trophy Trust. The exact time is not yet announced."
   - q: "When is the Heisman voting deadline in 2026?"
@@ -62,16 +63,17 @@ assets:
   card: { top: "Heisman ballots due", big: "Mon., Dec. 7", bottom: "5 p.m. ET · winner Sat., Dec. 12" }
   printable:
     slug: heisman-trophy-2026-timeline-printable
+    noKit: "award voting timeline (ballots, deadline, finalists), not a watch guide"
     group: heisman-2026
     title: "Heisman Trophy 2026 Timeline, Dec. 3 to Dec. 12"
     subtitle: "Ballots, voting deadline, finalists and ceremony"
     rows:
       - ["Thu., Dec. 3", "Heisman ballots distributed"]
+      - ["Sat., Dec. 5", "Online voting website opens at 5 p.m. ET"]
       - ["Mon., Dec. 7", "Ballots due by 5 p.m. ET (4 p.m. CT, 3 p.m. MT, 2 p.m. PT)"]
       - ["Mon., Dec. 7", "Finalists announced in the evening (time not yet announced)"]
-      - ["Sat., Dec. 12", "Winner announced at the Heisman ceremony (start time, network not yet announced)"]
+      - ["Sat., Dec. 12", "Winner announced at the Heisman ceremony on ABC (start time not yet announced)"]
     note: "Source: Heisman Trophy Trust (heisman.com key dates and balloting page). Time zone conversions by Fresh Calendars."
-    inkSaver: true
     description: "One-page printable timeline of the 2026 Heisman Trophy dates: ballots out Dec. 3, voting deadline and finalists Dec. 7, ceremony Dec. 12."
     alt: "Printable Heisman Trophy 2026 timeline listing ballots, voting deadline, finalists and ceremony dates"
 draft: false
@@ -130,9 +132,9 @@ The balloting page says the 2026 finalists are announced in the evening of Monda
 
 ## What time and channel is the 2026 ceremony?
 
-Not yet announced. The Heisman Trophy Trust has confirmed the date, and an October 20, 2026, release about hospitality packages refers to "the televised Heisman Trophy Ceremony presented by Nissan." The start time, the network and the venue are not in the sources we read.
+The channel is ABC. The Heisman Trophy Trust's balloting page lists "the announcement of the 2026 Heisman Trophy Winner via the televised Heisman Ceremony on ABC" for Saturday, Dec. 12, and marks it a private event. An October 20, 2026, release about hospitality packages also refers to "the televised Heisman Trophy Ceremony presented by Nissan." The start time and the venue are not yet announced.
 
-The ESPN release of Dec. 19, 2025, says ESPN remains the ceremony's home. Whether the show airs on the American Broadcasting Company (ABC) or ESPN this year is not stated.
+The ESPN release of Dec. 19, 2025, says ESPN remains the ceremony's home.
 
 ## How did the 2025 ceremony compare?
 
@@ -142,7 +144,7 @@ In 2025, ESPN said the ceremony was Saturday, Dec. 13, at 7 p.m. ET on ABC, from
 |---|---|---|
 | Ceremony date | Saturday, Dec. 13 | Saturday, Dec. 12 |
 | Start time | 7 p.m. ET | Not yet announced |
-| Network | ABC | Not yet announced |
+| Network | ABC | ABC |
 | Venue | Jazz at Lincoln Center's Appel Room, New York | Not yet announced |
 
 The 2025 finalists were Jeremiyah Love (Notre Dame), Fernando Mendoza (Indiana), Diego Pavia (Vanderbilt) and Julian Sayin (Ohio State). Mendoza, Indiana's quarterback, won with 2,362 points, according to heisman.com.
@@ -153,4 +155,4 @@ The Heisman balloting page lists 145 media votes per section, 870 media votes in
 
 ## What should you check before Dec. 12?
 
-The finalists list, the broadcast start time and the network are the open items. The Heisman Trophy Trust and ESPN are the sources to watch, and we will update this story when they publish. For other college football dates in December, see our stories on the [College Football Playoff schedule](/news/college-football-playoff-rankings-2026-schedule-dates-times/) and the [Army-Navy Game](/news/army-navy-game-2026-date-kickoff-time-metlife-stadium-tv/). A [printable weekly calendar](/printable-weekly-calendar.html) helps if you plan a watch party around the broadcast.
+The finalists list, the broadcast start time and the venue are the open items. The Heisman Trophy Trust and ESPN are the sources to watch, and we will update this story when they publish. For other college football dates in December, see our stories on the [College Football Playoff schedule](/news/college-football-playoff-rankings-2026-schedule-dates-times/) and the [Army-Navy Game](/news/army-navy-game-2026-date-kickoff-time-metlife-stadium-tv/). A [printable weekly calendar](/printable-weekly-calendar.html) helps if you plan a watch party around the broadcast.
