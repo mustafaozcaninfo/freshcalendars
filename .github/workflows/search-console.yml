@@ -1,0 +1,44 @@
+name: Search Console
+
+# Daily read of Search Console for the desk (scripts/news-gsc.mjs): clicks, impressions, the pages
+# and queries worth improving, an indexing sample and the numbers of the phase gate in
+# docs/DESK.md. It commits docs/desk/search-console.{json,md} straight to main; the research and
+# update desks read them there. Docs only, so nothing is built or deployed (a push with the
+# Actions token starts no workflow). Secrets: GSC_SERVICE_ACCOUNT_JSON (read-only service account),
+# GSC_SITE ("sc-domain:freshcalendars.com").
+on:
+  schedule:
+    - cron: "10 9 * * *"
+  workflow_dispatch:
+
+concurrency:
+  group: search-console
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+jobs:
+  read:
+    runs-on: ubuntu-24.04
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v7
+      - uses: actions/setup-node@v7
+        with:
+          node-version: 22.23.4
+      - name: Read Search Console
+        env:
+          GSC_SERVICE_ACCOUNT_JSON: ${{ secrets.GSC_SERVICE_ACCOUNT_JSON }}
+          GSC_SITE: ${{ secrets.GSC_SITE }}
+        run: node scripts/news-gsc.mjs
+      - name: Commit the data
+        run: |
+          git add docs/desk/search-console.json docs/desk/search-console.md
+          if git diff --cached --quiet; then echo "nothing new"; exit 0; fi
+          git -c user.name="github-actions[bot]" -c user.email="41898282+github-actions[bot]@users.noreply.github.com" commit -q -m "desk: Search Console data of $(date -u +%F)"
+          for i in 1 2 3; do
+            git pull -q --rebase origin main && git push -q origin HEAD:main && exit 0
+            sleep 5
+          done
+          exit 1
