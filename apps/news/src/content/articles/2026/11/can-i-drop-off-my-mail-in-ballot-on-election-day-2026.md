@@ -308,7 +308,7 @@ internalLinks:
     label: "November 2026 printable calendar"
   - href: "/printable-weekly-calendar.html"
     label: "Printable weekly calendar"
-related: [mail-ballot-deadlines-2026-by-state, what-time-do-polls-close-election-day-2026, early-voting-2026-which-states-are-voting-now]
+related: [mail-ballot-deadlines-2026-by-state, ballot-cure-deadlines-2026-fix-mail-ballot-signature, early-voting-2026-which-states-are-voting-now]
 downloads:
   - group: "Mail Ballot Drop-Off Checklist printables"
     title: "Mail Ballot Drop-Off Checklist, Nov. 3, 2026"
