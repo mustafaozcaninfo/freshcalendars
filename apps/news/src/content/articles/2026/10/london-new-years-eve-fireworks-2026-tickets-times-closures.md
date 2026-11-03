@@ -60,7 +60,7 @@ internalLinks:
     label: "When is New Year's Eve?"
   - href: "/january-calendars.html"
     label: "January 2027 printable calendar"
-related: [edinburghs-christmas-2026-dates-big-wheel-hogmanay-torchlight, uk-christmas-bank-holidays-2026-boxing-day-substitute-december-28, new-years-countdown-2027-midnight-every-time-zone]
+related: [edinburghs-christmas-2026-dates-big-wheel-hogmanay-torchlight, uk-christmas-bank-holidays-2026-boxing-day-substitute-december-28, uk-trains-christmas-2026-no-trains-december-25-26-paddington-closed]
 downloads:
   - group: "London New Year's Eve Fireworks Timeline 2026 printables"
     title: "London New Year's Eve Fireworks Timeline 2026"
