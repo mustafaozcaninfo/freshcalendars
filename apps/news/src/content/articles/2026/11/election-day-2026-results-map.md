@@ -4,7 +4,7 @@ seoTitle: "Election Night 2026 Live Blog: Results Map and Races"
 description: "Live updates on the Nov. 3, 2026 midterms: a state-by-state results map, Senate, House and governor races, and poll closings from 6 p.m. Eastern Time (ET)."
 type: news
 publishedAt: "2026-11-03T12:48:00-05:00"
-updatedAt: "2026-11-03T15:28:10-05:00"
+updatedAt: "2026-11-03T16:31:48-05:00"
 featuredUntil: "2026-11-04T06:00:00-05:00"
 authors: [christina-gerland]
 category: elections
@@ -103,6 +103,10 @@ sources:
     url: "https://www.nbcnews.com/politics/2026-election/live-blog/midterm-election-results-2026-news-trump-live-updates-rcna605763"
     publisher: "NBC News"
     date: "2026-11-03"
+  - title: "NOTICE - Extended voting hours for 3 precincts"
+    url: "https://www.chesco.org/156/Election-Information"
+    publisher: "Chester County, Pennsylvania"
+    date: "2026-11-03"
   - title: "Floods and severe weather beset parts of the U.S. on Election Day"
     url: "https://www.nbcnews.com/weather/floods/floods-severe-weather-beset-parts-us-election-day-rcna607186"
     publisher: "NBC News"
@@ -167,7 +171,7 @@ draft: false
 ## Election night scoreboard
 
 <!-- live:scoreboard:start -->
-**Data as of 3:28 p.m. ET on Nov. 3.** Polls have not closed in any state yet and no race has been called.
+**Data as of 4:31 p.m. ET on Nov. 3.** Polls have not closed in any state yet and no race has been called.
 
 | Chamber | On the ballot | Called: Democratic | Called: Republican | Called: independent or other | Not yet called | What control takes |
 |---|---|---:|---:|---:|---:|---|
@@ -181,6 +185,14 @@ The Senate counts come from Senate.gov, which lists 53 Republicans, 45 Democrats
 ## Live updates, newest first
 
 All times are Eastern Time. The first results entry appears after polls close at 6 p.m. ET. Until then, entries report what officials and news organizations have confirmed about how Election Day is running.
+
+### 4:30 p.m. ET: Three Chester County, Pennsylvania, precincts will stay open until 8:30 p.m.
+
+Chester County said three precincts will stay open until 8:30 p.m. after machine set-up issues briefly delayed their opening this morning, according to a notice on the county's election information page: Precinct 201 (Easttown 3) at Easttown Township Library in Berwyn, Precinct 210 (Easttown 6) at St. John's Presbyterian Church in Devon and Precinct 244 (East Goshen 2) at Goshen Baptist Church in West Chester. NBC News also reported the extension. Most Pennsylvania polls close at 8 p.m. ET, so these three close 30 minutes later. Sources: [Chester County](https://www.chesco.org/156/Election-Information) and [NBC News](https://www.nbcnews.com/politics/2026-election/live-blog/midterm-election-results-2026-news-trump-live-updates-rcna605763).
+
+### Afternoon: Fulton County, Georgia, warns of texts sending voters to the wrong polling places
+
+Fulton County officials warned voters about unauthorized text messages claiming that polling places had changed. The county said it did not send them and urged voters to check their polling place on Georgia's My Voter page, CBS News reports, citing the county's statement. NBC News reported that at least three Fulton County voters said they received texts directing them to the wrong polling locations. Sources: [CBS News](https://www.cbsnews.com/live-updates/election-day-2026-midterms/) and [NBC News](https://www.nbcnews.com/politics/2026-election/live-blog/midterm-election-results-2026-news-trump-live-updates-rcna605763).
 
 ### 3:10 p.m. ET: Early voting passes 60 million ballots
 
