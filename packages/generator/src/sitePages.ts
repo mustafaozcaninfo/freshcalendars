@@ -259,6 +259,28 @@ ${howToLd ? `<script type="application/ld+json">${JSON.stringify(howToLd)}</scri
 }
 
 /** Live “Today” card — SSG HTML is only a fallback; visitor local date wins. */
+/**
+ * "In 23 days" next to a holiday date (when-is answer box and the holiday lists), computed in the
+ * reader's browser against today's date in New York, because the calendar pages are baked once a
+ * day. On the lists, past rows dim and the next holiday is highlighted.
+ */
+const DAYS_UNTIL_JS = `
+(function(){
+  var els=document.querySelectorAll('[data-days-until]'); if(!els.length) return;
+  var today=new Intl.DateTimeFormat('en-CA',{timeZone:'America/New_York'}).format(new Date());
+  function diff(a,b){return Math.round((Date.parse(a+'T12:00:00Z')-Date.parse(b+'T12:00:00Z'))/864e5);}
+  var next=false;
+  els.forEach(function(el){
+    var n=diff(el.getAttribute('data-days-until'),today), row=el.closest('[data-holiday-row]');
+    if(n<0){ if(row){row.classList.add('is-past'); el.textContent='passed'; el.hidden=false;} return; }
+    var w=Math.floor(n/7), d=n%7;
+    el.textContent=n===0?'Today':n===1?'Tomorrow':'In '+n+' days'+(n>=14&&!row?' ('+w+' weeks'+(d?', '+d+(d===1?' day':' days'):'')+')':'');
+    el.hidden=false;
+    if(row&&!next){row.classList.add('is-next'); next=true;}
+  });
+})();
+`;
+
 const TODAY_JS = `
 (function(){
   var card=document.querySelector('.today-card');
@@ -467,7 +489,7 @@ ${siteFooterHtml(today, { news: NEWS_LAUNCHED })}
   <img alt="" title="" />
 </dialog>
 <script>${NAV_JS}</script>
-<script>${TODAY_JS}</script>
+<script>${TODAY_JS}${DAYS_UNTIL_JS}</script>
 <script>${LIGHTBOX_JS}</script>
 ${meta.calendar.family === "legal" && meta.pageId === "legal-contact" ? `<script>${CONTACT_JS}</script>` : ""}
 ${adsEnabled ? `<script>${ADSENSE_JS}</script>` : ""}
@@ -1412,7 +1434,7 @@ ${adBand(ADS.inArticle, "FreshCalendars_Holidays_Top")}`;
           (h) => `<tr data-holiday-row data-name="${esc(h.name.toLowerCase())}" data-kind="${esc(holidayKindKey(h.kind))}">
         <td><a href="${holidayWhenIsPath(h.slug)}" title="When is ${esc(h.name)} ${y}?">${esc(h.name)}</a></td>
         <td><span class="kind-pill">${esc(holidayKindLabel(h.kind, locale))}</span></td>
-        <td>${esc(h.formatted)}</td>
+        <td>${esc(h.formatted)} <span class="days-until" data-days-until="${h.iso}" hidden></span></td>
       </tr>`,
         )
         .join("")}
@@ -1521,7 +1543,7 @@ ${faqSection(meta)}`;
   <div class="eyebrow">Fresh Calendars · When is…</div>
   <h1>When is ${esc(h.name)} ${y}${locale === "uk" && !/\bUK\b/.test(h.name) ? " in the UK" : locale === "ca" && !/Canad/.test(h.name) ? " in Canada" : ""}?</h1>
   <p class="lead">${esc(lead)}</p>
-  <div class="date-answer"><span>Next date</span><strong>${esc(h.formatted)}</strong><a href="data:text/calendar;charset=utf-8,${encodeURIComponent(calendarEvent)}" download="${slug}-${y}.ics">${iconHtml("calendar")}Add to calendar</a></div>
+  <div class="date-answer"><span>Next date</span><strong>${esc(h.formatted)}</strong><em class="date-countdown" data-days-until="${h.iso}" hidden></em><a href="data:text/calendar;charset=utf-8,${encodeURIComponent(calendarEvent)}" download="${slug}-${y}.ics">${iconHtml("calendar")}Add to calendar</a></div>
   <div class="cta">
     <a class="btn btn-primary" href="/${mSlug}-calendars.html" title="Printable ${mName} ${y} calendar">${mName} calendar</a>
     ${downloadBtn(meta.download.pdf, "Download PDF", meta.downloadTitles.pdf, "ghost")}

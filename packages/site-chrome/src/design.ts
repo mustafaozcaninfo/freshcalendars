@@ -79,6 +79,9 @@ html[data-theme=dark] .search-excerpt mark{background:#6b5200;color:#fff}
 .hero-paper strong{font:700 clamp(17px,1.6vw,27px)/1 Sora,sans-serif;display:block;margin-top:-48%}
 .hero-mini-months{display:grid;grid-template-columns:repeat(7,1fr);gap:8px 3px;padding:16px 9px;font-size:7px;color:#243a4e}
 .hero-paper small{font-size:5px;letter-spacing:1px}
+.hero-paper strong{font-size:clamp(12px,1.15vw,20px);white-space:nowrap}.hero-mini-months .is-today{background:#007b48;color:#fff;border-radius:50%;font-weight:700}
+/* Phones: the home page has its own large search box; the header copy was a second box on one screen. */
+@media(max-width:767px){html[data-design-layout=home] .site-header>.site-search{display:none}}
 .shelf-heading{display:flex;gap:22px;align-items:center;margin-bottom:18px;white-space:nowrap}
 .shelf-heading h2{font:700 20px/1.3 Sora,sans-serif;letter-spacing:-.04em;margin:0;flex-shrink:0;color:var(--ink-strong)}
 .shelf-heading>a{margin-left:auto;color:var(--focus);font-size:11px;text-decoration:none;font-weight:700}
@@ -230,6 +233,9 @@ html.news[data-theme=dark] [data-cat=uk-canada]{--cat:#d9b3c6}
 html[data-theme=dark] .ad-unit{background:var(--surface-soft)}
 @media(prefers-reduced-motion:reduce){*{scroll-behavior:auto!important}.category-launchers a{transform:none!important}}
 @media print{.site-search,.header-utilities,.category-launchers,.hero-photograph,.hero-handwriting,.hero-paper,.studio-thumbnails,.studio-options,.library-sidebar,.library-toolbar,.library-search{display:none!important}.studio-preview{border:0;box-shadow:none}.studio-columns{display:block}.studio-preview>img{height:auto}.download-benefits{display:none}.home-hero:after{display:none}}
+/* Calendar pages print the calendar only: Ctrl+P printed six pages, the first one just the breadcrumb.
+   Everything that is not the preview, inside it or one of its ancestors is hidden (:has). */
+@media print{@page{size:letter;margin:.35in}html[data-design-layout=calendar-detail] body *:not(:has(.studio-preview)):not(.studio-preview):not(.studio-preview *){display:none!important}html[data-design-layout=calendar-detail] :is(main,body,.calendar-detail,.studio-columns,.studio-visual){margin:0!important;padding:0!important;border:0!important;box-shadow:none!important}html[data-design-layout=calendar-detail] .preview-arrow{display:none!important}html[data-design-layout=calendar-detail] .studio-preview{padding:0;border:0}html[data-design-layout=calendar-detail] .studio-preview>img{width:100%!important;height:auto!important;max-height:10in;object-fit:contain}}
 ${INNER_DESIGN_CSS}
 .page-workspace .prose a,.prose-news a{overflow-wrap:anywhere}
 /* Inline formulas in stories ("=CHOOSE(WEEKDAY(...") have no spaces; let them wrap instead of running off a phone screen. */
@@ -259,4 +265,7 @@ html[data-theme=dark] :is(.hero-search input,.hero-search button,.category-launc
 /* The search field is transparent inside its box (the dark input rule above would paint it a second shade). */
 html[data-theme=dark] body .site-search-box input[type=search]{background-color:transparent!important}
 @media(pointer:coarse){.footer-grid nav a,.footer-bottom a{display:inline-flex;align-items:center;min-height:32px}:is(.concept-breadcrumb,.crumbs) a,:is(.shelf-heading,.trending-heading,.date-answer)>a,h2.sec a,.shelf-card a,:is(.holiday-toolbar,.library-toolbar,.tools) button,details.toc a,.sources a{display:inline-flex;align-items:center;min-height:24px}}
+/* Phones: controls under 44px were hard to hit (theme toggle 29x40, preview arrows 30x34, style chips
+   29 tall, year select 32, favorite and share 32, Reset filters 24). */
+@media(max-width:640px){.theme-toggle{min-width:44px;min-height:44px}.preview-arrow{min-width:44px;min-height:44px}.studio-style-tabs button{min-height:40px;padding:6px 12px}.studio-field select,.library-toolbar select{min-height:44px}.studio-actions a,.studio-actions button,.library-toolbar button{min-height:44px}}
 `;
