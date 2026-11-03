@@ -4,7 +4,7 @@ seoTitle: "Thanksgiving 2026 Planner: Countdown and Turkey Math"
 description: "Thanksgiving is Thursday, Nov. 26, 2026. A dated countdown, turkey to buy at one pound per guest and oven times from the U.S. Department of Agriculture (USDA)."
 type: explainer
 publishedAt: "2026-10-23T15:00:00-04:00"
-updatedAt: "2026-11-02T14:10:00-05:00"
+updatedAt: "2026-11-03T17:30:00-05:00"
 authors: [christina-gerland]
 category: holidays
 keywords: ["Thanksgiving planner 2026", "Thanksgiving countdown checklist", "Thanksgiving planning timeline", "how much turkey per person"]
@@ -13,6 +13,7 @@ assets:
   scene: thanksgiving
   kicker: "Thanksgiving 2026 · Thu., Nov. 26"
   date: "2026-11-26"
+  customPrintable: "The Thanksgiving Day cooking plan is a countdown by turkey weight with blank dinner-time slots; no kit draws it, so the story's own generator thanksgivingCooking.ts does."
   card: { top: "Thanksgiving 2026", big: "Thu., Nov. 26", bottom: "1 lb of turkey per guest, USDA" }
   printable:
     slug: thanksgiving-2026-planner-checklist
@@ -64,6 +65,17 @@ sources:
     url: "https://www.fsis.usda.gov/food-safety/safe-food-handling-and-preparation/poultry/lets-talk-turkey-roasting"
     publisher: "U.S. Department of Agriculture (USDA) Food Safety and Inspection Service (FSIS)"
     date: "2023-11-17"
+  - title: "Preparing Your Holiday Turkey Safely"
+    url: "https://www.cdc.gov/food-safety/foods/holiday-turkey.html"
+    publisher: "Centers for Disease Control and Prevention (CDC)"
+    date: "2024-04-29"
+  - title: "Traditional Roast Turkey Unstuffed (USDA roasting timetable)"
+    url: "https://extension.illinois.edu/turkey/traditional-roast-turkey-unstuffed"
+    publisher: "University of Illinois Extension"
+  - title: "How to Safely Prepare Your Holiday Turkey"
+    url: "https://extension.psu.edu/how-to-safely-prepare-your-holiday-turkey"
+    publisher: "Penn State Extension"
+    date: "2024-11-08"
   - title: "Thanksgiving Day fires"
     url: "https://usfa.fema.gov/statistics/reports/fire-causes/snapshot-thanksgiving.html"
     publisher: "U.S. Fire Administration (USFA)"
@@ -87,6 +99,14 @@ downloads:
     alt: "Thanksgiving 2026 planner checklist printable with dated steps for weeks before, Thanksgiving week, Thursday and leftovers, ink-saver version"
     pdf: "/news/downloads/thanksgiving-2026/thanksgiving-2026-planner-checklist-ink.pdf"
     png: "/news/downloads/thanksgiving-2026/thanksgiving-2026-planner-checklist-ink.png"
+    pages: 1
+  - group: "Thanksgiving 2026 Cooking Plan printables"
+    title: "Thanksgiving Day 2026 Cooking Plan"
+    description: "One-page Thanksgiving Day 2026 cooking plan for an unstuffed turkey at 325°F, counted back from a 4 p.m. dinner, with blank slots for your own dinner time."
+    preview: ../../../../assets/news/thanksgiving-2026/thanksgiving-2026-cooking-plan.png
+    alt: "Thanksgiving Day 2026 cooking plan printable with oven, check and 165°F times by turkey weight for a 4 p.m. dinner and a blank table for your own dinner time"
+    pdf: "/news/downloads/thanksgiving-2026/thanksgiving-2026-cooking-plan.pdf"
+    png: "/news/downloads/thanksgiving-2026/thanksgiving-2026-cooking-plan.png"
     pages: 1
 internalLinks:
   - href: "/november-calendars.html"
@@ -154,6 +174,22 @@ Set the oven no lower than 325°F. Cook the turkey to 165°F, checked in the inn
 | 20 to 24 lb | 4½ to 5 h | 4¾ to 5¼ h |
 
 To time a 2 p.m. dinner with a 15-pound unstuffed turkey, work backward: allow the longer 4¼ hours of roasting plus the 20-minute rest, so the bird goes in around 9:25 a.m. That example is our arithmetic from the USDA times; a thermometer, not the clock, tells you when it is done.
+
+## Thanksgiving Day 2026 cooking plan by turkey weight
+
+The table below counts back from a 4 p.m. dinner on Thursday, Nov. 26 for an unstuffed whole turkey roasted at 325°F. The roasting times are the USDA timetable as published by University of Illinois Extension; Penn State Extension, citing the USDA, gives the same ends of the range: about 3 hours for an 8- to 12-pound turkey and about 4.5 to 5 hours for a 20- to 24-pound one. The Centers for Disease Control and Prevention (CDC) says to cook stuffing in a casserole dish instead of inside the turkey, so these times are for an unstuffed bird. For the thaw start dates, see [when to thaw a Thanksgiving turkey](/news/when-to-thaw-thanksgiving-turkey-2026/).
+
+| Turkey weight | Roasting time at 325°F | Into the oven | Start checking | 165°F by | Carve |
+|---|---|---|---|---|---|
+| 8 to 12 lb | 2¾ to 3 h | 12:40 p.m. | 3:25 p.m. | 3:40 p.m. | 4:00 p.m. |
+| 12 to 14 lb | 3 to 3¾ h | 11:55 a.m. | 2:55 p.m. | 3:40 p.m. | 4:00 p.m. |
+| 14 to 18 lb | 3¾ to 4¼ h | 11:25 a.m. | 3:10 p.m. | 3:40 p.m. | 4:00 p.m. |
+| 18 to 20 lb | 4¼ to 4½ h | 11:10 a.m. | 3:25 p.m. | 3:40 p.m. | 4:00 p.m. |
+| 20 to 24 lb | 4½ to 5 h | 10:40 a.m. | 3:10 p.m. | 3:40 p.m. | 4:00 p.m. |
+
+These clock times are our plan built from the chart, not the USDA's words. We put the turkey in at dinner time minus the longest roasting time minus the CDC's 20-minute stand before carving, begin checking after the shortest time, and show 165°F by the longest time. The CDC says to use a food thermometer to confirm 165°F, inserted in three places and avoiding bone: the thickest part of the breast, the thigh and the wing. A thermometer, not the clock, says when the bird is done. The CDC also says to refrigerate leftovers at 40°F or colder within 2 hours of cooking.
+
+The printable [Thanksgiving Day 2026 cooking plan (PDF)](/news/downloads/thanksgiving-2026/thanksgiving-2026-cooking-plan.pdf) ([PNG](/news/downloads/thanksgiving-2026/thanksgiving-2026-cooking-plan.png)) repeats this worked example and leaves a blank table for your own dinner time.
 
 ### Friday to Monday: leftovers
 

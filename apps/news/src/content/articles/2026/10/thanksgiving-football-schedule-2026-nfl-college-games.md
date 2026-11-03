@@ -4,7 +4,7 @@ seoTitle: "Thanksgiving Football 2026: NFL and College Games"
 description: "Every Thanksgiving weekend 2026 football game, Wed., Nov. 25 to Sat., Nov. 28, in one Eastern Time (ET) table: National Football League (NFL) and college."
 type: news
 publishedAt: "2026-10-23T15:00:00-04:00"
-updatedAt: "2026-10-27T03:30:00-04:00"
+updatedAt: "2026-11-03T17:25:00-05:00"
 authors: [jessica-hartwell]
 corrections:
   - date: "2026-10-24T01:40:00-04:00"
@@ -21,6 +21,7 @@ assets:
   card: { top: "Black Friday football", big: "Fri., Nov. 27", bottom: "Egg Bowl, Steelers, Lone Star Showdown" }
   title: "Thanksgiving football 2026"
   printable:
+    noKit: "Mixed NFL and college slate over four days, with kickoffs in two time zones and two games without a time; the source quotes do not cover every row."
     slug: thanksgiving-football-schedule-2026
     group: thanksgiving-2026
     title: "Thanksgiving Football Schedule 2026, Nov. 25-28"
@@ -30,7 +31,8 @@ assets:
     rows:
       - ["Wed., Nov. 25, 8 p.m.", "Packers at Rams, NFL Thanksgiving Eve, U2 halftime · Netflix"]
       - ["Thu., Nov. 26, 1 p.m.", "Bears at Lions, NFL · CBS"]
-      - ["Thu., Nov. 26, 4:30 p.m.", "Eagles at Cowboys, NFL · FOX"]
+      - ["Thu., Nov. 26, 4:30 p.m.", "Eagles at Cowboys, NFL, Miranda Lambert halftime · FOX"]
+      - ["Thu., Nov. 26, 8 p.m.", "Texas Christian University (TCU) at Texas Tech (7 p.m. CT), Lubbock · ESPN"]
       - ["Thu., Nov. 26, 8:20 p.m.", "Chiefs at Bills, NFL · NBC"]
       - ["Fri., Nov. 27, 12 noon", "Egg Bowl: Mississippi State at Ole Miss (11 a.m. CT) · ABC"]
       - ["Fri., Nov. 27, 12 noon", "Nebraska at Iowa (11 a.m. CT), Kinnick Stadium · CBS"]
@@ -39,9 +41,8 @@ assets:
       - ["Sat., Nov. 28, 12 noon", "The Game: Michigan at Ohio State · FOX"]
       - ["Sat., Nov. 28, TBA", "Iron Bowl: Auburn at Alabama, time and TV not yet announced"]
       - ["Sat., Nov. 28, TBA", "Georgia Tech at Georgia, time and TV not yet announced"]
-    note: "Source: NFL.com 2026 schedule release; Mississippi State and Ole Miss athletics (Egg Bowl); Iowa Athletics; Texas A&M Athletics; FOX Sports (Ohio State vs. Michigan); CBS Sports and Sports Illustrated on the SEC and Georgia schedules. Times marked TBA are set by TV partners closer to the game."
+    note: "Source: NFL.com 2026 schedule release; Mississippi State and Ole Miss athletics (Egg Bowl); Iowa Athletics; Texas Tech Athletics (Texas Christian University (TCU) at Texas Tech); Dallas Cowboys (halftime); Texas A&M Athletics; FOX Sports (Ohio State vs. Michigan); CBS Sports and Sports Illustrated on the SEC and Georgia schedules. Times marked TBA are set by TV partners closer to the game."
     notesLabel: "Our picks"
-    inkSaver: true
     description: "Every Thanksgiving weekend 2026 football game on one page: the NFL slate and college rivalry weekend from Wednesday, Nov. 25 to Saturday, Nov. 28."
     alt: "Thanksgiving football schedule 2026 printable listing every NFL and college game from Nov. 25 to Nov. 28 with Eastern Time kickoffs and TV channels"
 hero:
@@ -51,12 +52,12 @@ hero:
   caption: "Black Friday, Nov. 27, 2026, stacks the Egg Bowl, Broncos at Steelers and the Lone Star Showdown; the college rivalries close out on Saturday, Nov. 28."
 summary:
   - "The National Football League (NFL) plays five games across Thanksgiving weekend 2026, starting with its first Thanksgiving Eve game, Packers at Rams, on Wednesday, Nov. 25."
-  - "No Football Bowl Subdivision college game was on the published schedules for Thanksgiving Day, Thursday, Nov. 26, as of Oct. 23, 2026."
+  - "One Football Bowl Subdivision (FBS) game is on Thanksgiving Day: Texas Christian University (TCU) at Texas Tech, Thursday, Nov. 26, 2026, at 7 p.m. Central Time (CT), 8 p.m. Eastern Time (ET), on ESPN, per Texas Tech Athletics."
   - "Black Friday, Nov. 27, pairs the NFL's Broncos at Steelers with the Egg Bowl at noon Eastern Time (ET) and the Lone Star Showdown at 7:30 p.m. ET."
   - "The college rivalry weekend finishes on Saturday, Nov. 28, led by Michigan at Ohio State at noon ET on FOX; the Iron Bowl and Georgia Tech at Georgia are still to be scheduled."
 faq:
   - q: "Is there college football on Thanksgiving Day 2026?"
-    a: "No Football Bowl Subdivision (FBS) game appears on the published 2026 schedules for Thanksgiving Day, Thursday, Nov. 26, as of Oct. 23, 2026. The college rivalry games land on Friday, Nov. 27 and Saturday, Nov. 28 instead."
+    a: "Yes, one Football Bowl Subdivision (FBS) game. TCU plays at Texas Tech on Thursday, Nov. 26, 2026, at 7 p.m. Central Time, which is 8 p.m. Eastern Time, at Jones AT&T Stadium in Lubbock, Texas, on ESPN, per Texas Tech Athletics. The college rivalry games land on Friday, Nov. 27 and Saturday, Nov. 28."
   - q: "What time is the Egg Bowl 2026?"
     a: "Mississippi State at Ole Miss kicks off at 11 a.m. Central Time, which is noon Eastern Time, on Friday, Nov. 27, 2026, on ABC, according to Mississippi State Athletics. It is the 123rd Egg Bowl and the second straight year the game has opened Black Friday."
   - q: "What channel is Ohio State vs. Michigan on in 2026?"
@@ -75,6 +76,18 @@ sources:
   - title: "U2 to headline halftime of NFL's first-ever Thanksgiving Eve Gameday live on Netflix"
     url: "https://www.nfl.com/news/u2-to-headline-halftime-of-nfl-s-first-ever-thanksgiving-eve-gameday-live-on-netflix"
     publisher: "NFL.com"
+  - title: "Texas Tech, TCU set for Thanksgiving night on ESPN"
+    url: "https://texastech.com/news/2026/5/11/football-texas-tech-tcu-set-for-thanksgiving-night-on-espn"
+    publisher: "Texas Tech Athletics"
+    date: "2026-05-11"
+  - title: "Kickoff time announced for Texas Tech, TCU Thanksgiving game"
+    url: "https://www.fox34.com/2026/05/12/kickoff-time-announced-texas-tech-tcu-thanksgiving-game/"
+    publisher: "FOX34 Lubbock"
+    date: "2026-05-12"
+  - title: "Miranda Lambert to perform Cowboys 30th annual Thanksgiving halftime show"
+    url: "https://dallascowboys.com/news/miranda-lambert-to-perform-cowboys-30th-annual-thanksgiving-halftime-show"
+    publisher: "Dallas Cowboys"
+    date: "2026-10-25"
   - title: "Egg Bowl Game Time Announced"
     url: "https://hailstate.com/news/2026/5/12/football-egg-bowl-game-time-announced"
     publisher: "Mississippi State Athletics"
@@ -125,20 +138,10 @@ downloads:
     pdf: "/news/downloads/thanksgiving-2026/thanksgiving-football-schedule-2026.pdf"
     png: "/news/downloads/thanksgiving-2026/thanksgiving-football-schedule-2026.png"
     pages: 1
-  - group: "Thanksgiving Football Schedule 2026 printables"
-    title: "Thanksgiving Football Schedule 2026, Nov. 25-28 (ink saver)"
-    description: "Every Thanksgiving weekend 2026 football game on one page: the NFL slate and college rivalry weekend from Wednesday, Nov. 25 to Saturday, Nov. 28. Ink-saver version."
-    preview: ../../../../assets/news/thanksgiving-2026/thanksgiving-football-schedule-2026-ink.png
-    alt: "Thanksgiving football schedule 2026 printable listing every NFL and college game from Nov. 25 to Nov. 28 with kickoffs and TV channels, ink-saver version"
-    pdf: "/news/downloads/thanksgiving-2026/thanksgiving-football-schedule-2026-ink.pdf"
-    png: "/news/downloads/thanksgiving-2026/thanksgiving-football-schedule-2026-ink.png"
-    pages: 1
 draft: false
 ---
 
-<p class="callout"><b>Last updated Tue. Oct. 27, 2026, 3:30 a.m. ET.</b> Nebraska at Iowa on Friday, Nov. 27 kicks off at 11 a.m. Central Time (noon Eastern) on CBS; Iowa Athletics set the start time and network on May 27, 2026. U2 headlines the Thanksgiving Eve halftime show, Packers at Rams, live on Netflix; the Thanksgiving Day halftime performers have not been announced.</p>
-
-**Thanksgiving weekend 2026 runs four days of football, from Wednesday, Nov. 25 to Saturday, Nov. 28, and this story puts every game, professional and college, in one Eastern Time (ET) table.** The National Football League (NFL) owns Thursday; college football takes over on Friday and Saturday.
+**Thanksgiving weekend 2026 runs four days of football, from Wednesday, Nov. 25 to Saturday, Nov. 28, and this story puts every game, professional and college, in one Eastern Time (ET) table.** The National Football League (NFL) plays three games on Thursday, one college game shares the night, and college football takes over on Friday and Saturday.
 
 Where a source gives a Central Time (CT) kickoff, both times are shown. Two of the college games air on the American Broadcasting Company (ABC). Kickoffs marked "to be announced" are set by the television networks closer to the date.
 
@@ -149,6 +152,7 @@ Where a source gives a Central Time (CT) kickoff, both times are shown. Two of t
 | Wed., Nov. 25, 8 p.m. | Packers at Rams (NFL, Thanksgiving Eve) | Netflix |
 | Thu., Nov. 26, 1 p.m. | Bears at Lions (NFL) | CBS |
 | Thu., Nov. 26, 4:30 p.m. | Eagles at Cowboys (NFL) | FOX |
+| Thu., Nov. 26, 8 p.m. | Texas Christian University (TCU) at Texas Tech (college) | ESPN |
 | Thu., Nov. 26, 8:20 p.m. | Chiefs at Bills (NFL) | NBC |
 | Fri., Nov. 27, 12 noon | Egg Bowl: Mississippi State at Ole Miss | ABC |
 | Fri., Nov. 27, 12 noon | Nebraska at Iowa | CBS |
@@ -162,11 +166,11 @@ Where a source gives a Central Time (CT) kickoff, both times are shown. Two of t
 
 The NFL stacks five games across three days. For the first time, it plays on Thanksgiving Eve: the Green Bay Packers visit the Los Angeles Rams at SoFi Stadium at 8 p.m. ET on Wednesday, Nov. 25, streaming on Netflix. Thanksgiving Day keeps its tripleheader, with Bears at Lions at 1 p.m., Eagles at Cowboys at 4:30 p.m. and Chiefs at Bills at 8:20 p.m. The Denver Broncos play the Pittsburgh Steelers at 3 p.m. ET on Black Friday, Nov. 27, on Prime Video.
 
-Those are the facts the league confirmed in its 2026 schedule release. For the parade, channels, streaming services and Thanksgiving Day viewing order, see our [Thanksgiving 2026 TV schedule](/news/thanksgiving-2026-tv-schedule-macys-parade-nfl-games/). U2 will headline the halftime show of the Thanksgiving Eve game, Packers at Rams, live on Netflix, the NFL says; the show is produced by Jesse Collins Entertainment. The Thanksgiving Day halftime performers have not been announced. If you want the full season on paper, our [printable 2026-27 NFL schedule](/news/printable-nfl-schedule-2026-2027-pdf/) covers every week.
+Those are the facts the league confirmed in its 2026 schedule release. For the parade, channels, streaming services and Thanksgiving Day viewing order, see our [Thanksgiving 2026 TV schedule](/news/thanksgiving-2026-tv-schedule-macys-parade-nfl-games/). U2 will headline the halftime show of the Thanksgiving Eve game, Packers at Rams, live on Netflix, the NFL says; the show is produced by Jesse Collins Entertainment. Miranda Lambert will perform at halftime of the Cowboys' Thanksgiving Day game against the Eagles at AT&T Stadium, the Dallas Cowboys announced on Oct. 25, 2026. The halftime performers for the Lions game and the Chiefs at Bills night game have not been announced. If you want the full season on paper, our [printable 2026-27 NFL schedule](/news/printable-nfl-schedule-2026-2027-pdf/) covers every week.
 
 ## College football on Thanksgiving Day
 
-There is no Football Bowl Subdivision (FBS) game on the published schedules for Thanksgiving Day, Thursday, Nov. 26, 2026, as of Oct. 23. Unlike the NFL, the top tier of college football keeps Thursday clear and holds its biggest rivalries for the Friday and Saturday of the weekend. If a game is added later, the schedule note will change; for now, Thursday is the NFL's.
+One Football Bowl Subdivision (FBS) game is on Thanksgiving Day: TCU at Texas Tech on Thursday, Nov. 26, 2026, at 7 p.m. CT, which is 8 p.m. ET, at Jones AT&T Stadium in Lubbock, Texas, on ESPN. Texas Tech Athletics said in May 2026 that "the Thanksgiving kickoff between the Red Raiders and TCU is slated for 7 p.m. CT on ESPN." FOX34 Lubbock reported on May 12, 2026 that it is the first time since 2015 that the Red Raiders will play on Thanksgiving.
 
 ## Black Friday college games, Nov. 27
 
