@@ -1935,6 +1935,28 @@ export function renderConceptHubs(home: SeoMeta, today: Date): { meta: SeoMeta; 
 }
 
 /** Only loc and lastmod: Google ignores changefreq/priority and dropped image:title in 2022. */
+/**
+ * Every calendar page for the shared header search (site-chrome search.ts loads it on first focus):
+ * title, path, a group label, and the breadcrumb name and description as extra match text. Frontmatter
+ * keywords stay out: generic ones ("printable calendar") would match every page.
+ */
+const SEARCH_GROUPS: Record<string, string> = {
+  holiday: "Holiday dates", holidays: "Holiday lists", monthly: "Monthly calendars", yearly: "Yearly calendars",
+  blank: "Blank calendars", guide: "Guides & tools", legal: "About Fresh Calendars",
+};
+export async function writeSearchIndex(metas: SeoMeta[]): Promise<void> {
+  const entries = metas
+    .filter((m) => m.pageId !== "home")
+    .map((m) => ({
+      t: m.title.replace(/\s+\|\s+Fresh Calendars$/, ""),
+      u: new URL(m.url).pathname,
+      c: SEARCH_GROUPS[m.calendar.family] ?? "Calendars & guides",
+      k: m.breadcrumbs?.at(-1)?.name ?? "",
+      d: m.description,
+    }));
+  await writeSitePage("search/calendars.json", JSON.stringify(entries));
+}
+
 export async function writeSitemap(metas: SeoMeta[]): Promise<void> {
   const indexable = metas.filter((m) => m.robots.includes("index"));
   const urls = indexable
