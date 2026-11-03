@@ -4,7 +4,7 @@ seoTitle: "Black Friday Canada 2026: Nov. 27, Sale Dates"
 description: "Black Friday 2026 is Fri., Nov. 27 in Canada, and Canadian Tire says its deals start Thu., Nov. 5. See who has not announced dates, plus Canada Post deadlines."
 type: news
 publishedAt: "2026-10-29T11:47:00-04:00"
-updatedAt: "2026-11-02T22:38:00-05:00"
+updatedAt: "2026-11-02T23:01:00-05:00"
 authors: [jessica-hartwell]
 category: retail-dates
 keywords: ["black friday canada 2026", "when is black friday 2026 canada", "black friday 2026 canada sale dates", "is black friday a holiday in canada"]
