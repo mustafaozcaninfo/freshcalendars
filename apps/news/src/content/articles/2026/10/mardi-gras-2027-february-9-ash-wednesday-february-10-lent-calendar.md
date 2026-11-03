@@ -54,7 +54,7 @@ internalLinks:
     label: "March 2027 printable calendars"
   - href: "/when-is/easter/"
     label: "When is Easter?"
-related: [valentines-day-2027-sunday-february-14-dates-printables, presidents-day-2027-february-15-whats-open-closed, easter-2027-march-28-good-friday-easter-monday-whats-open]
+related: [valentines-day-2027-sunday-february-14-dates-printables, pancake-day-2027-february-9-mothering-sunday-2027-march-7-uk, easter-2027-march-28-good-friday-easter-monday-whats-open]
 downloads:
   - group: "Lent 2027 Calendar printables"
     title: "Lent 2027 Calendar: Mardi Gras to Easter"
@@ -98,7 +98,7 @@ assets:
 
 **Mardi Gras 2027 falls on Tuesday, Feb. 9, and Ash Wednesday follows on Feb. 10, counted back from Easter Sunday on March 28, 2027.** GOV.UK, which lists the 2027 UK bank holidays, shows Good Friday on 26 March and Easter Monday on 29 March, which fixes Easter itself. Below are the Lent dates, Holy Week days and the same dates for 2028 to 2030.
 
-Mardi Gras is also called Fat Tuesday and Shrove Tuesday. In the UK the day is known as Pancake Day, so Pancake Day 2027 is Feb. 9 as well. To keep the dates on paper, use the Lent 2027 printable below, or the [February 2027 printable calendars](/february-calendars.html) and [March 2027 printable calendars](/march-calendars.html). For Easter alone, see [when is Easter](/when-is/easter/).
+Mardi Gras is also called Fat Tuesday and Shrove Tuesday. In the UK the day is known as Pancake Day, so Pancake Day 2027 is Feb. 9 as well; see [Pancake Day and Mothering Sunday 2027](/news/pancake-day-2027-february-9-mothering-sunday-2027-march-7-uk/) for the UK dates. To keep the dates on paper, use the Lent 2027 printable below, or the [February 2027 printable calendars](/february-calendars.html) and [March 2027 printable calendars](/march-calendars.html). For Easter alone, see [when is Easter](/when-is/easter/).
 
 ## Mardi Gras and Lent dates in 2027
 

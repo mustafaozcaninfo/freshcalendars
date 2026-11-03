@@ -12,6 +12,8 @@ export interface KeyDate {
 }
 
 export const KEY_DATES: KeyDate[] = [
+  { date: "2026-12-12", label: "Feast of Our Lady of Guadalupe (Saturday)", slug: "our-lady-of-guadalupe-day-2026-december-12-las-posadas-december-16-24" },
+  { date: "2026-12-16", label: "Las Posadas begins, nine nights through Dec. 24", slug: "our-lady-of-guadalupe-day-2026-december-12-las-posadas-december-16-24" },
   { date: "2026-12-07", label: "National Pearl Harbor Remembrance Day, 85th anniversary; law asks for flags at half-staff", slug: "national-pearl-harbor-remembrance-day-2026-december-7-flags-half-staff" },
   { date: "2026-11-03", label: "Mega Millions drawing, 11 p.m. ET; estimated jackpot $482 million as of Nov. 1", slug: "mega-millions-drawing-tuesday-november-3-2026-time-jackpot-482-million" },
   { date: "2026-11-10", label: "Consumer Price Index (CPI) for October, 8:30 a.m. ET", slug: "cpi-report-november-10-2026-time-october-inflation-ppi-pce-dates" },
@@ -152,6 +154,8 @@ export const KEY_DATES: KeyDate[] = [
   { date: "2027-02-15", label: "Family Day (Ontario, Alberta) and Heritage Day (Nova Scotia)", slug: "family-day-2027-canada-february-15-provinces-whats-closed" },
   { date: "2027-02-14", label: "Valentine's Day (Sunday)", slug: "valentines-day-2027-sunday-february-14-dates-printables" },
   { date: "2027-02-02", label: "Groundhog Day, Punxsutawney Phil forecast", slug: "groundhog-day-2027-tuesday-february-2-time-where-to-watch" },
+  { date: "2027-02-09", label: "Pancake Day (Shrove Tuesday) in the UK", slug: "pancake-day-2027-february-9-mothering-sunday-2027-march-7-uk" },
+  { date: "2027-03-07", label: "Mothering Sunday in the UK", slug: "pancake-day-2027-february-9-mothering-sunday-2027-march-7-uk" },
   { date: "2027-02-09", label: "Mardi Gras (Fat Tuesday), Pancake Day in the UK", slug: "mardi-gras-2027-february-9-ash-wednesday-february-10-lent-calendar" },
   { date: "2027-02-10", label: "Ash Wednesday, Lent begins", slug: "mardi-gras-2027-february-9-ash-wednesday-february-10-lent-calendar" },
   { date: "2027-01-16", label: "NFL Wild Card Weekend begins (to Jan. 18)", slug: "nfl-playoff-schedule-2027-wild-card-divisional-championship-super-bowl-lxi" },

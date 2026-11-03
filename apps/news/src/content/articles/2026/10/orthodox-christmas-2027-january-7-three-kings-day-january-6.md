@@ -53,7 +53,7 @@ internalLinks:
     label: "When is Christmas Day?"
   - href: "/printable-yearly-calendar.html"
     label: "Printable yearly calendar"
-related: [january-2027-calendar-printable, lunar-new-year-2027-year-of-the-goat, martin-luther-king-jr-day-2027-january-18-whats-closed]
+related: [january-2027-calendar-printable, lunar-new-year-2027-year-of-the-goat, our-lady-of-guadalupe-day-2026-december-12-las-posadas-december-16-24]
 downloads:
   - group: "January 2027 Holiday Dates printables"
     title: "January 2027 Holiday Dates: Three Kings Day and Orthodox Christmas"
