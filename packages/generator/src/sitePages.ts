@@ -60,6 +60,7 @@ import {
 import { brandHeadLinks, writeBrandIcons } from "./brandIcons.js";
 import { homeNewsHtml, latestNewsHtml, newsStripHtml } from "./newsLinks.js";
 import { DIST_SITE, PHOTOSWIPE_PATH, ROOT } from "./paths.js";
+import { STUDIO_STYLES } from "./studio.js";
 import { displayPreview2xUrl, displayPreviewUrl } from "./previews.js";
 import { homeConceptHero, homeCalendarShelf, calendarStudio, calendarLibrary, calendarTools } from "./conceptPages.js";
 
@@ -664,11 +665,36 @@ export function splitVolatile(html: string): { html: string; contentHash: string
   };
 }
 
+/**
+ * The original single-size printables (`assets/.../calendar.pdf`) are 11.46 × 14.79 in, not the US
+ * Letter the pages promise, so "Actual size" printing crops them. Each has a Letter twin: monthly
+ * designs in the studio set (studio.ts studioAssets), every other family as `calendar-letter.pdf`
+ * beside it (studio.ts ensureOtherPaperAssets). Download links point at the twin. Data attributes
+ * and the studio model keep the base name: the browser scripts derive the -letter/-a4 files from it.
+ */
+const LEGACY_MONTHLY_PDF = /\/assets\/(\d{4})\/monthly\/([a-z]+)\/([a-z-]+)\/calendar\.pdf$/;
+const STUDIO_STYLE_IDS = new Set<string>(STUDIO_STYLES.map((s) => s.id));
+export function letterPdfUrl(url: string): string {
+  const m = LEGACY_MONTHLY_PDF.exec(url);
+  if (m) {
+    const [, year, month, design] = m;
+    const style = design === "monday-start" ? "classic-bw" : design!;
+    if (!STUDIO_STYLE_IDS.has(style)) return url;
+    const start = design === "monday-start" ? "monday" : "sunday";
+    return url.replace(LEGACY_MONTHLY_PDF, `/assets/studio/${year}/${month}/${style}/letter-${start}.pdf`);
+  }
+  return url.replace(/\/calendar\.pdf$/, "/calendar-letter.pdf");
+}
+function letterPdfLinks(html: string): string {
+  return html.replace(/href="([^"]*\/assets\/[^"]*\/calendar\.pdf)"/g, (_, url: string) => `href="${letterPdfUrl(url)}"`);
+}
+
 export async function writeSitePage(filePath: string, html: string): Promise<void> {
   const full = path.join(DIST_SITE, filePath.replace(/^\//, ""));
   await fs.mkdir(path.dirname(full), { recursive: true });
   // Any page rendered with volatile markers (404, extras) ships without them.
-  await fs.writeFile(full, html.includes(VOLATILE_OPEN) ? splitVolatile(html).html : html, "utf8");
+  const page = html.includes(VOLATILE_OPEN) ? splitVolatile(html).html : html;
+  await fs.writeFile(full, filePath.endsWith(".html") ? letterPdfLinks(page) : page, "utf8");
 }
 
 function renderHome(meta: SeoMeta, today: Date): string {
@@ -1909,6 +1935,28 @@ export function renderConceptHubs(home: SeoMeta, today: Date): { meta: SeoMeta; 
 }
 
 /** Only loc and lastmod: Google ignores changefreq/priority and dropped image:title in 2022. */
+/**
+ * Every calendar page for the shared header search (site-chrome search.ts loads it on first focus):
+ * title, path, a group label, and the breadcrumb name and description as extra match text. Frontmatter
+ * keywords stay out: generic ones ("printable calendar") would match every page.
+ */
+const SEARCH_GROUPS: Record<string, string> = {
+  holiday: "Holiday dates", holidays: "Holiday lists", monthly: "Monthly calendars", yearly: "Yearly calendars",
+  blank: "Blank calendars", guide: "Guides & tools", legal: "About Fresh Calendars",
+};
+export async function writeSearchIndex(metas: SeoMeta[]): Promise<void> {
+  const entries = metas
+    .filter((m) => m.pageId !== "home")
+    .map((m) => ({
+      t: m.title.replace(/\s+\|\s+Fresh Calendars$/, ""),
+      u: new URL(m.url).pathname,
+      c: SEARCH_GROUPS[m.calendar.family] ?? "Calendars & guides",
+      k: m.breadcrumbs?.at(-1)?.name ?? "",
+      d: m.description,
+    }));
+  await writeSitePage("search/calendars.json", JSON.stringify(entries));
+}
+
 export async function writeSitemap(metas: SeoMeta[]): Promise<void> {
   const indexable = metas.filter((m) => m.robots.includes("index"));
   const urls = indexable

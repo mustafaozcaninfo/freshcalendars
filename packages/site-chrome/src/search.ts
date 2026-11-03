@@ -13,8 +13,9 @@ var textQuery='',textPending='',textHits=[],textBusy=false,byUrl={};
 var months=['January','February','March','April','May','June','July','August','September','October','November','December'],years=JSON.parse(form.dataset.monthYears),year=Number(form.dataset.year);
 var calendars=months.map(function(m,i){return {t:m+' '+years[i]+' printable calendars',u:'/'+m.toLowerCase()+'-calendars.html',c:'Monthly calendars',k:m+' monthly calendar pdf png'};});
 [[year+' yearly calendars','/printable-calendars.html'],[(year+1)+' yearly calendars','/printable-yearly-calendar.html'],['Blank calendars','/blank-calendars.html'],['Weekly planners','/printable-weekly-calendar.html'],['School calendars','/printable-school-calendar.html'],['Monday-start calendars','/printable-monday-start-calendar.html'],['US holidays','/holidays/'],['UK holidays','/uk-holidays/'],['Canada holidays','/canada-holidays/'],['Print guide','/print-guide.html']].forEach(function(x){calendars.push({t:x[0],u:x[1],c:'Calendars & guides',k:'calendar printable pdf png'});});
-var aliases={gta:'grand theft auto',dst:'daylight saving',cps:'chicago public schools',nyc:'new york city',ssa:'social security',cola:'cost of living',nyse:'stock market',usps:'postal'};
-var index=calendars,loaded=false,loading=null,dismissed=false;
+calendars.forEach(function(x){x.cal=1;});
+var aliases={gta:'grand theft auto',dst:'daylight saving',cps:'chicago public schools',nyc:'new york city',ssa:'social security',cola:'cost of living',nyse:'stock market',usps:'postal',xmas:'christmas',mlk:'martin luther king',bday:'birthday'};
+var index=calendars,pages=[],stories=[],loaded=false,loading=null,dismissed=false;
 function norm(s){return String(s||'').toLowerCase().normalize('NFD').replace(/[\\u0300-\\u036f]/g,'').replace(/[^a-z0-9]+/g,' ').trim();}
 /* Normalized once per entry, not on every keystroke: with thousands of stories that was the slow part. */
 function prep(x){x._t=norm(x.t);x._a=x._t+' '+norm(x.k)+' '+norm(x.c)+' '+norm(x.d);return x;}
@@ -27,7 +28,9 @@ function render(){
  dismissed=false;
  var raw=norm(input.value),words=raw.split(' ').filter(Boolean).flatMap(function(w){return aliases[w]?aliases[w].split(' '):[w];});list.replaceChildren();
  if(!words.length){close();status.textContent='';return;}
- var matches=index.map(function(x,i){var title=x._t,all=x._a;return words.every(function(w){return all.indexOf(w)>=0;})?{x:x,s:(title.indexOf(raw)===0?100:0)+words.filter(function(w){return title.indexOf(w)>=0;}).length*10-i/10000}:null;}).filter(Boolean).sort(function(a,b){return b.s-a.s;}).slice(0,6);
+ /* Calendar pages (when-is, months, guides) win ties with stories that name the same words; among
+    equals the shorter, more exact title wins ("christmas" finds Christmas Day before Christmas Eve). */
+ var matches=index.map(function(x,i){var title=x._t,all=x._a;if(!words.every(function(w){return all.indexOf(w)>=0;}))return null;var inTitle=words.filter(function(w){return title.indexOf(w)>=0;}).length;return {x:x,s:(title.indexOf(raw)===0?100:0)+inTitle*10+(x.cal&&inTitle?5:0)-title.length/1000-i/1000000};}).filter(Boolean).sort(function(a,b){return b.s-a.s;}).slice(0,6);
  matches.forEach(function(m){list.append(item(m.x.u,m.x.t,m.x.c));});
  var shown={};matches.forEach(function(m){shown[m.x.u]=1;});
  var hits=textQuery===words.join(' ')?textHits.filter(function(h){return !shown[h.url];}).slice(0,5):[];
@@ -46,12 +49,22 @@ function searchText(q){
   return pf.debouncedSearch(q,{},150).then(function(r){return r?Promise.all(r.results.slice(0,11).map(function(x){return x.data();})):null;});
  }).then(function(data){
   if(data===null||q!==textPending)return;
+  /* Pagefind falls back to single letters ("xyzzyq" matched every "x"): keep a story only when a
+     highlighted word is at least 3 characters, or as long as the longest word searched if shorter. */
+  var need=Math.min(3,Math.max.apply(null,q.split(' ').map(function(w){return w.length;})));
+  data=data.filter(function(d){return (d.excerpt.match(/<mark>[^<]*<\\/mark>/g)||[]).some(function(m){return m.replace(/<\\/?mark>/g,'').replace(/[^a-z0-9]/gi,'').length>=need;});});
   textBusy=false;textQuery=q;textHits=data;
   /* Re-draw only while the reader is still in the box: re-drawing under a focused result would drop focus. */
   if(!dismissed&&document.activeElement===input)render();
  });
 }
-function load(){loadPagefind();if(loaded||loading)return;loading=fetch('/news/search/index.json').then(function(r){if(!r.ok)throw Error();return r.json();}).then(function(data){index=calendars.concat(data.filter(function(x){return typeof x.u==='string'&&x.u.startsWith('/news/');}).map(prep));index.forEach(function(x){byUrl[x.u]=x;});loaded=true;if(document.activeElement===input&&!dismissed)render();}).catch(function(){status.textContent='News search is unavailable. Calendar results are still available.';}).finally(function(){loading=null;});}
+function json(u){return fetch(u).then(function(r){if(!r.ok)throw Error();return r.json();});}
+/* Every calendar page (when-is dates, guides, tools, holiday lists) comes from /search/calendars.json,
+   written by the generator; the 22 built-in entries above stay as the fallback. */
+function load(){loadPagefind();if(loaded||loading)return;var newsDown=false;loading=Promise.all([
+ json('/search/calendars.json').then(function(data){pages=data.filter(function(x){return x&&typeof x.u==='string'&&x.u.charAt(0)==='/';}).map(function(x){x.cal=1;return prep(x);});}).catch(function(){}),
+ json('/news/search/index.json').then(function(data){stories=data.filter(function(x){return typeof x.u==='string'&&x.u.startsWith('/news/');}).map(prep);}).catch(function(){newsDown=true;})
+]).then(function(){var seen={};calendars.forEach(function(x){seen[x.u]=1;});index=calendars.concat(pages.filter(function(x){return !seen[x.u];}),stories);index.forEach(function(x){byUrl[x.u]=x;});loaded=true;if(newsDown)status.textContent='News search is unavailable. Calendar results are still available.';if(document.activeElement===input&&!dismissed)render();}).finally(function(){loading=null;});}
 input.addEventListener('focus',function(){load();render();});input.addEventListener('input',render);
 input.addEventListener('keydown',function(e){if(e.key==='ArrowDown'){var a=list.querySelector('a');if(a){e.preventDefault();a.focus();}}if(e.key==='Escape')close();});
 list.addEventListener('keydown',function(e){var a=Array.from(list.querySelectorAll('a')),i=a.indexOf(document.activeElement);if(e.key==='ArrowDown'||e.key==='ArrowUp'){e.preventDefault();var n=i+(e.key==='ArrowDown'?1:-1);if(n<0)input.focus();else (a[n]||a[0]).focus();}if(e.key==='Escape'){close();input.focus();close();}});

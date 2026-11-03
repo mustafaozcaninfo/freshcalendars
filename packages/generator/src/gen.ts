@@ -45,6 +45,7 @@ import {
   splitVolatile,
   writeSitePage,
   writeSitemap,
+  writeSearchIndex,
 } from "./sitePages.js";
 import { ensureStudioAssets, ensureOtherPaperAssets, ensureYearlyStudio } from "./studio.js";
 
@@ -272,6 +273,7 @@ export async function generateAll(opts: GenOptions): Promise<{ metas: SeoMeta[] 
   await writeJson(LASTMOD_STATE, nextLastmod);
 
   await writeSitemap(metas);
+  await writeSearchIndex(metas);
 
   if (!opts.htmlOnly) {
     const previewCount = await generateAssetPreviews();

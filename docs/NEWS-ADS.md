@@ -11,7 +11,9 @@ is rendered and every check still passes.
 
 ## Rules every slot follows
 
-- Labeled "Advertisement" (CSS text, so it never enters the page text or the word count).
+- Labeled "Advertisement" (CSS text, so it never enters the page text or the word count). The
+  visible tag is hidden while the owner tests its effect on revenue (2026-11-03); every slot keeps
+  `aria-label="Advertisement"`. Re-enable: `html.ad-labels` prefix in `src/layouts/NewsBase.astro`.
 - Nothing above the H1, with one exception: stories open with a fixed-size banner (below). On
   stories nothing between the headline and the hero.
 - Height reserved before fill (`min-height`, a full square on phones for the top unit), never

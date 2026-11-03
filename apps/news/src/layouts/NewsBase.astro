@@ -147,7 +147,10 @@ const fontPreload = [
   /* Ad units: labeled, height reserved before fill (no CLS), collapsed (by the loader, off screen only) if AdSense returns nothing.
      The top unit never collapses: it sits right under the headline, so collapsing it would shift the story. */
   .ad-slot{display:flex;flex-direction:column;align-items:center;justify-content:flex-start;width:100%;min-height:300px;margin:2rem auto;padding:.4rem 0 .6rem;border-top:1px solid var(--line-soft);border-bottom:1px solid var(--line-soft);contain:layout;clear:both}
-  .ad-slot::before{content:"Advertisement";display:block;margin:0 0 .4rem;font:700 .68rem/1 "Source Sans 3","Source Sans 3 Fallback",sans-serif;letter-spacing:.1em;text-transform:uppercase;color:var(--ink)}
+  /* Visible "Advertisement" tag: hidden for the owner's revenue test (2026-11-03). Slots keep
+     aria-label="Advertisement" for screen readers. To show it again, put class="ad-labels" on <html>
+     or drop the html.ad-labels prefix below. */
+  html.ad-labels .ad-slot::before{content:"Advertisement";display:block;margin:0 0 .4rem;font:700 .68rem/1 "Source Sans 3","Source Sans 3 Fallback",sans-serif;letter-spacing:.1em;text-transform:uppercase;color:var(--ink)}
   .ad-slot ins.adsbygoogle{width:100%}
   .ad-slot.ad-off{display:none}
   /* Top unit: label + padding + a 280px desktop ad, so the fill does not grow the box. */
