@@ -46,7 +46,7 @@ internalLinks:
     label: "November 2026 printable calendar"
   - href: "/december-calendars.html"
     label: "December 2026 printable calendar"
-related: [lsat-test-dates-2026-27-registration-deadlines, mcat-2027-test-dates-registration-opens-october-20, nyc-public-schools-calendar-2026-27-breaks-holidays]
+related: [lsat-test-dates-2026-27-registration-deadlines, mcat-2027-test-dates-registration-opens-october-20, act-december-12-2026-registration-deadline-november-6]
 downloads:
   - group: "Test dates printable"
     title: "SAT and ACT Test Dates 2026-27"
