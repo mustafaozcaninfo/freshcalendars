@@ -113,6 +113,9 @@ test("school-year counts weekdays off from the dates, not from typed numbers", (
   const html = k.render(d, { kit: "school-year", slug: "x", group: "g", title: "T 2026", note: "Source: A", data: {} }, { ...kctx(), fonts: "" }).html;
   // Dec. 21-24, 25, 28-31, Jan. 1 and Jan. 4 are weekdays: 11.
   assert.match(html, /<b>11<\/b><span>weekdays of scheduled breaks/);
+  // The sheet's own text (chart labels and counts included) must not read as dates the story never gave.
+  const text = html.replace(/<style[\s\S]*?<\/style>|<script[\s\S]*?<\/script>/g, " ").replace(/<[^>]+>/g, " ");
+  assert.deepEqual([...factTokens(text)].filter((k) => k.startsWith("d:")), []);
 });
 
 test("watch-guide converts one sourced moment to the four U.S. zones", () => {

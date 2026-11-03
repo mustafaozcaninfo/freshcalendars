@@ -64,6 +64,18 @@ import { STUDIO_STYLES } from "./studio.js";
 import { displayPreview2xUrl, displayPreviewUrl } from "./previews.js";
 import { homeConceptHero, homeCalendarShelf, calendarStudio, calendarLibrary, calendarTools } from "./conceptPages.js";
 
+/**
+ * Type label on the holiday lists. The engine's "federal" means the country's official days off,
+ * which the UK calls bank holidays and Canada statutory holidays; "movable" is a date rule, not a
+ * type a reader filters by, so it reads as an observance.
+ */
+const holidayKindKey = (kind: string) => (kind === "movable" ? "observance" : kind);
+function holidayKindLabel(kind: string, locale: string): string {
+  if (kind === "federal") return locale === "uk" ? "Bank holiday" : locale === "ca" ? "Statutory" : "Federal";
+  if (kind === "observance" || kind === "movable") return "Observance";
+  return kind.charAt(0).toUpperCase() + kind.slice(1);
+}
+
 function imgTag(opts: {
   src: string;
   alt: string;
@@ -421,7 +433,9 @@ function layout(
   const pageBody = pageWorkspaceHtml(body, meta.breadcrumbs, new URL(meta.canonical).pathname, today, designFamily);
   // Match <img srcset/sizes> so the browser preloads only the chosen density (not both 1x+2x).
   // Preload LCP preview on small screens only; desktop keeps the image below the fold (text LCP).
-  const preloadImg = opts.preloadImage
+  // Studio pages show their own preview (srcset WebP, fetchpriority=high on the <img>); preloading the
+  // older calendar-preview.webp there only fetched a file nobody sees, at high priority, beside the LCP.
+  const preloadImg = opts.preloadImage && designFamily !== "calendar-detail"
     ? `<link rel="preload" as="image" media="(max-width:960px)" imagesrcset="${esc(opts.preloadImage)} 540w, ${esc(opts.preloadImage.replace(/calendar-preview\.webp/, "calendar-preview-2x.webp"))} 1080w" imagesizes="92vw" fetchpriority="high" />`
     : "";
   return `<!doctype html>
@@ -1389,15 +1403,15 @@ ${adBand(ADS.inArticle, "FreshCalendars_Holidays_Top")}`;
   <p>Browse the dates below, filter by holiday name or type, and open a holiday for future dates and planning details.</p>
   ${alsoLinks}
   <p>Print the year: <a href="/printable-calendars.html">${y} yearly</a> · <a href="/printable-yearly-calendar.html">${y + 1} yearly</a> · <a href="/printable-school-calendar.html">school year hub</a>.</p>
-  <div data-holiday-filter><div class="holiday-toolbar"><label>${iconHtml("search")}<input type="search" data-holiday-query placeholder="Find a holiday…" aria-label="Find a holiday"></label><label>Type<select data-holiday-kind><option value="">All types</option>${[...new Set(list.map(h => h.kind))].map(kind => `<option value="${esc(kind)}">${esc(kind)}</option>`).join("")}</select></label><button type="button" data-holiday-reset>Reset filters</button></div><p class="holiday-result" data-holiday-count aria-live="polite">${list.length} dates</p><div class="table-scroll" role="region" aria-label="${y} holidays table" tabindex="0">
+  <div data-holiday-filter><div class="holiday-toolbar"><label>${iconHtml("search")}<input type="search" data-holiday-query placeholder="Find a holiday…" aria-label="Find a holiday"></label><label>Type<select data-holiday-kind><option value="">All types</option>${[...new Set(list.map(h => holidayKindKey(h.kind)))].map(kind => `<option value="${esc(kind)}">${esc(holidayKindLabel(kind, locale))}</option>`).join("")}</select></label><button type="button" data-holiday-reset>Reset filters</button></div><p class="holiday-result" data-holiday-count aria-live="polite">${list.length} dates</p><div class="table-scroll" role="region" aria-label="${y} holidays table" tabindex="0">
   <table class="hol-table" data-holiday-table>
     <thead><tr><th>Holiday</th><th>Type</th><th>Date</th></tr></thead>
     <tbody>
       ${list
         .map(
-          (h) => `<tr data-holiday-row data-name="${esc(h.name.toLowerCase())}" data-kind="${esc(h.kind)}">
+          (h) => `<tr data-holiday-row data-name="${esc(h.name.toLowerCase())}" data-kind="${esc(holidayKindKey(h.kind))}">
         <td><a href="${holidayWhenIsPath(h.slug)}" title="When is ${esc(h.name)} ${y}?">${esc(h.name)}</a></td>
-        <td><span class="kind-pill">${esc(h.kind)}</span></td>
+        <td><span class="kind-pill">${esc(holidayKindLabel(h.kind, locale))}</span></td>
         <td>${esc(h.formatted)}</td>
       </tr>`,
         )
@@ -1466,16 +1480,15 @@ ${faqSection(meta)}`;
       ? ed.planningTips(h)
       : [
           `Block travel and school closures on the ${mName} ${y} sheet before the week fills up.`,
-          `Use the weekly planner pack for the seven days around ${h.formatted}.`,
           `Scan nearby federal or observance days on the full ${hubLabel} list.`,
-          `For classrooms, jump to the school-year hub and mark breaks by hand.`,
+          `For classrooms, mark the break by hand on a school-year calendar.`,
         ];
     const printTip =
       locale === "uk"
         ? `Open the <a href="/${mSlug}-calendars.html" title="${mName} ${y} printable calendar">${mName} ${y} printable</a> and mark ${esc(h.name)} on the grid (UK bank holidays are listed on our <a href="${hub}">${hubLabel}</a> hub). Prefer a wall overview? Grab the <a href="/printable-calendars.html">${y} yearly poster</a>.`
         : locale === "ca"
           ? `Open the <a href="/${mSlug}-calendars.html" title="${mName} ${y} printable calendar">${mName} ${y} printable</a> and mark ${esc(h.name)} beside other Canadian dates from our <a href="${hub}">${hubLabel}</a> hub. Prefer a wall overview? Grab the <a href="/printable-calendars.html">${y} yearly poster</a>.`
-          : `Open the <a href="/${mSlug}-calendars.html" title="${mName} ${y} printable calendar">${mName} ${y} printable</a> and choose the holidays-marked template so ${esc(h.name)} is labeled in-cell when the engine includes it. Prefer a wall overview? Grab the <a href="/printable-calendars.html">${y} yearly poster</a> or plan ahead with <a href="/printable-yearly-calendar.html">${y + 1} yearly</a>.`;
+          : `Open the <a href="/${mSlug}-calendars.html" title="${mName} ${y} printable calendar">${mName} ${y} printable</a> and choose the holidays-marked template so ${esc(h.name)} is labeled in its date box. Prefer a wall overview? Grab the <a href="/printable-calendars.html">${y} yearly poster</a> or plan ahead with <a href="/printable-yearly-calendar.html">${y + 1} yearly</a>.`;
     // Neighbours by date (across the year boundary), so every when-is page
     // gets links from the pages around it rather than only from January's.
     const pool = [y - 1, y, y + 1]
@@ -1523,7 +1536,7 @@ ${adBand(ADS.inArticle, "FreshCalendars_WhenIs_Top")}`;
   ${datesTable}
   <h3>How the date is calculated</h3>
   <p>${esc(howCalc)}</p>
-  <p>The same holiday engine powers our <a href="${hub}">${hubLabel} list</a>${locale === "us" ? " and US Holidays Marked monthly templates" : ""}.</p>
+  <p>The same date rules power our <a href="${hub}">${hubLabel} list</a>${locale === "us" ? " and US Holidays Marked monthly templates" : ""}.</p>
   ${meaning}
   <h3>Print this month</h3>
   <p>${printTip}</p>

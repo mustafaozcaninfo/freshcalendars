@@ -45,7 +45,7 @@ const EDITORIAL: Record<number, MonthEditorial> = {
     description: (y) =>
       `January ${y} printable calendar in seven free designs, PNG and PDF. Correct weekdays, with New Year's Day and MLK Day on the holidays template. No signup.`,
     overview: (y) => [
-      `January ${y} is the reset month on Fresh Calendars: 31 dated cells, New Year’s Day, and Martin Luther King Jr. Day placed by our holiday engine.`,
+      `January ${y} is the reset month on Fresh Calendars: 31 dated cells, New Year’s Day, and Martin Luther King Jr. Day already marked.`,
       `Print a classic ink-saver for binders or the holidays layout when federal days need to jump out on the fridge.`,
     ],
     planningTips: (y) => [
@@ -103,7 +103,7 @@ const EDITORIAL: Record<number, MonthEditorial> = {
       },
       {
         q: `Does the February ${y} calendar include Presidents’ Day?`,
-        a: `Yes on the holidays variant — Presidents’ Day is the third Monday in February and is calculated by the holiday engine for ${y}.`,
+        a: `Yes on the holidays variant — Presidents’ Day is the third Monday in February and is marked on its ${y} date.`,
       },
     ],
   },
@@ -205,7 +205,7 @@ const EDITORIAL: Record<number, MonthEditorial> = {
       },
       {
         q: `Are May ${y} downloads free for personal printing?`,
-        a: `Yes — PNG and PDF for all five May ${y} designs are free for personal use from Fresh Calendars.`,
+        a: `Yes — PNG and PDF for every May ${y} design are free for personal use from Fresh Calendars.`,
       },
     ],
   },
@@ -405,7 +405,7 @@ const EDITORIAL: Record<number, MonthEditorial> = {
     faqBase: (y) => [
       {
         q: `When is Thanksgiving ${y}?`,
-        a: `Thanksgiving is the fourth Thursday of November. Our holiday engine computes the exact November ${y} date and labels it on the holidays template.`,
+        a: `Thanksgiving is the fourth Thursday of November. The holidays template labels its exact November ${y} date.`,
       },
       {
         q: `Do November ${y} FAQs match other month pages?`,
@@ -429,7 +429,7 @@ const EDITORIAL: Record<number, MonthEditorial> = {
     ],
     historyTitle: "December checkpoints",
     historyBlurb: (y) =>
-      `From Wright brothers flight anniversary chatter to year-end cultural releases, December ${y} is more than countdown candy.`,
+      `From Wright brothers flight anniversary chatter to year-end cultural releases, December ${y} is busier than the holiday countdown suggests.`,
     historyFacts: [
       { label: "Dec 17, 1903", text: "Wright brothers’ first powered flight." },
       { label: "Dec 25", text: "Christmas Day (US federal holiday)." },
@@ -479,7 +479,7 @@ export function buildMonthlyFaq(
       a: holLine,
     },
     {
-      q: `How do I download all five ${name} ${year} templates?`,
+      q: `How do I download all the ${name} ${year} templates?`,
       a: `On each ${name} ${year} Fresh Calendars page you’ll find Classic B&W, Modern Color, US Holidays, Notes Planner, Landscape Soft, and Monday-start — each with its own PNG/PDF on our CDN.`,
     },
   ];

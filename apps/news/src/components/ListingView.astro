@@ -86,7 +86,9 @@ const jsonLd = listingGraph({
 <style>
   .listing .news-lede{margin-bottom:1.25rem}
   .listing-controls{display:flex;align-items:center;justify-content:space-between;gap:16px;padding:13px;background:var(--surface-soft);border:1px solid var(--line);border-radius:9px;margin:20px 0}.listing-controls label{display:flex;gap:12px;align-items:center;font-size:11px;color:var(--ink-strong)}.listing-controls input{width:240px;max-width:100%;min-height:34px;border:1px solid var(--line);border-radius:6px;background:var(--paper);color:var(--ink-strong);padding:7px 10px;font:inherit;font-size:11px}.listing-controls p{font-size:11px;white-space:nowrap;color:var(--muted);margin:0}
-  .tile-listing{width:min(1120px,calc(100% - 2rem))}
+  /* The page container already has its side gutters; subtracting 2rem again left 48px on the right
+     and 16px on the left on phones. */
+  .tile-listing{width:min(1120px,100%)}
   .list.tiles{display:grid;grid-template-columns:minmax(0,1fr);gap:1.5rem;margin-top:1.5rem}
   .list.tiles :global(.ad-slot){grid-column:1/-1;width:100%}
   @media(min-width:640px){.list.tiles{grid-template-columns:repeat(2,minmax(0,1fr))}}

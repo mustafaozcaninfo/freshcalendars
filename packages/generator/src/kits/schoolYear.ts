@@ -95,14 +95,15 @@ export const schoolYear: Kit<SchoolYear> = {
     if (count("early")) stat.push([String(count("early")), "early-release days"]);
     const kinds = KINDS.filter((x) => k.events.some((e) => e.kind === x));
     const key = `<div class="box"><h3>Key</h3><ul class="kl">${kinds.map((x) => `<li><span class="sw k-${x}">8</span>${KEY[x]}</li>`).join("")}</ul></div>`;
-    // Bar chart of weekdays off per month: plain SVG rects, the number printed on each bar.
+    // Bar chart of weekdays off per month: plain SVG rects, the number printed on each bar. All counts
+    // are drawn before all month labels, so the PDF's text reads "0 1 5 ... Aug Sep Oct" and never
+    // pairs a label with the next count ("Aug 1"), which would read as a date to 10-PDF-FACTS.
     const max = Math.max(1, ...perMonth.map(([, n]) => n)), bw = 100 / perMonth.length;
-    const bars = perMonth.map(([lab, n], i) => {
+    const bars = perMonth.map(([, n], i) => {
       const h = (n / max) * 40, x = i * bw;
       return `<rect x="${x + bw * 0.18}%" y="${58 - h}" width="${bw * 0.64}%" height="${Math.max(h, 0.8)}" rx="2" fill="${t.primary}"/>
-        <text x="${x + bw / 2}%" y="${n ? 58 - h - 4 : 55}" text-anchor="middle" font-family="Sora" font-weight="800" font-size="9" fill="${t.ink}">${n}</text>
-        <text x="${x + bw / 2}%" y="72" text-anchor="middle" font-family="Manrope" font-weight="700" font-size="8.5" fill="${t.muted}">${lab}</text>`;
-    }).join("");
+        <text x="${x + bw / 2}%" y="${n ? 58 - h - 4 : 55}" text-anchor="middle" font-family="Sora" font-weight="800" font-size="9" fill="${t.ink}">${n}</text>`;
+    }).join("") + perMonth.map(([lab], i) => `<text x="${i * bw + bw / 2}%" y="72" text-anchor="middle" font-family="Manrope" font-weight="700" font-size="8.5" fill="${t.muted}">${lab}</text>`).join("");
     const chart = `<div class="box chart"><h3>Weekdays with no school, by month</h3><svg width="100%" height="78" aria-hidden="false" role="img"><title>Weekdays with no school by month</title>${bars}</svg></div>`;
     const css = `${baseCss(t, landscape)}
     .yr{display:grid;grid-template-columns:repeat(4,1fr);gap:calc(8px*var(--s)) 12px}
@@ -124,9 +125,6 @@ export const schoolYear: Kit<SchoolYear> = {
     .chart{margin-top:calc(10px*var(--s))}`;
     const body = `${header(t, p.title, p.subtitle)}${tiles(stat)}<div class="yr">${grids.join("")}</div>
       ${chart}<div class="side">${key}${unconfirmedBox(k.unconfirmed) || fillLines("More dates", ["", ""])}${fillLines("My family's dates", k.family)}</div>${notes(p.notesLabel)}`;
-    // The chart's counts sit next to month labels, so the PDF's text reads "Aug 1 Sep 5": record those
-    // label-count pairs as computed, or 10-PDF-FACTS takes them for dates the story never gives.
-    const computed = perMonth.flatMap(([lab, n], i) => [`${lab} ${n}`, ...(i + 1 < perMonth.length ? [`${lab} ${perMonth[i + 1]![1]}`] : [])]);
-    return { html: page(ctx, size, css, body, p.note), size, computed, warnings: [] };
+    return { html: page(ctx, size, css, body, p.note), size, computed: [], warnings: [] };
   },
 };

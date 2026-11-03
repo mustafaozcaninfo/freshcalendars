@@ -46,6 +46,15 @@ export const LEGACY_RULES = [
   [new RegExp(`^page\\/(${OBSERVANCES})\\/?$`), "/holidays/"],
   [/^editor(\/.*)?$/, "/blank-calendars.html"],
   [new RegExp(`^printable\\/monthly\\/[0-9]{4}\\/(${MONTHS})\\/`), "/$1-calendars.html"],
+  // Addresses people type or other sites link that never existed (2026-11 audit: they returned 404).
+  [/^when-is\/(christmas|xmas)\/?$/, "/when-is/christmas-day/"],
+  [/^when-is\/new-years\/?$/, "/when-is/new-years-day/"],
+  [/^when-is\/(july-4th|4th-of-july|fourth-of-july)\/?$/, "/when-is/independence-day/"],
+  [/^when-is\/(mlk-day|martin-luther-king-jr-day)\/?$/, "/when-is/martin-luther-king-day/"],
+  [/^when-is\/(dst|daylight-saving-time|daylight-saving)\/?$/, "/when-is/daylight-savings/"],
+  [/^when-is\/([a-z0-9-]+)-(20[0-9]{2})\/?$/, "/when-is/$1/"],
+  [new RegExp(`^(${MONTHS})-calendars\\/?$`), "/$1-calendars.html"],
+  [/^news\/page\/1\/?$/, "/news/"],
 ];
 
 /** The absolute redirect target for a path ("/foo.html") and query ("?a=1" or ""), or null. */

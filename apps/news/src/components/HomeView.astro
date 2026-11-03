@@ -69,7 +69,7 @@ import NewsBar from "./NewsBar.astro";
 <NewsBase title={pagedTitle(heading, 1)} description={description} path={page.path} jsonLd={jsonLd}>
   <div class="home">
     <header class="concept-news-hero">
-      <img src="/news/design/news-desk-v1.webp" width="1600" height="533" alt="Sunlit desk with a coffee cup, a laptop and plants" title="Fresh Calendars News" fetchpriority="high" />
+      <img src="/news/design/news-desk-v1.webp" width="1600" height="533" alt="Sunlit desk with a coffee cup, a laptop and plants" title="Fresh Calendars News" decoding="async" />
       <div class="news-concept-wrap">
         <Breadcrumb items={[{ name: "Home", href: "/" }, { name: "News", href: "/news/" }]} />
         <h1>News</h1>
@@ -82,7 +82,7 @@ import NewsBar from "./NewsBar.astro";
       <section class="concept-news-lead" aria-label="Featured and latest stories">
         <article class="concept-feature">
           <a href={articlePath(lead.id)}>
-            <Image src={lead.data.hero.src} alt={lead.data.hero.alt} title={lead.data.hero.title ?? lead.data.title} widths={[960,1320,1600]} sizes="1600px" format="webp" loading="eager" />
+            <Image src={lead.data.hero.src} alt={lead.data.hero.alt} title={lead.data.hero.title ?? lead.data.title} widths={[960,1320,1600]} sizes="(max-width: 640px) calc(100vw - 32px), (max-width: 1023px) 52vw, 690px" format="webp" loading="eager" fetchpriority="high" />
             <span class="feature-badge">Featured</span>
             <div class="feature-copy"><p>{formatDateET(lead.data.publishedAt)}</p><h2>{lead.data.title}</h2><p class="feature-desc">{lead.data.description}</p><span class="feature-read">Read the story →</span></div>
           </a>

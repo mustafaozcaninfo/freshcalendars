@@ -70,7 +70,7 @@ export function ruleHowCalculated(def: HolidayDef, h: ResolvedHoliday): string {
     case "offset_from":
       return `${name} is calculated as ${rule.days} day${rule.days === 1 ? "" : "s"} from ${rule.base.replace(/-/g, " ")}. In ${h.year} that resolves to ${h.formatted}.`;
     default:
-      return `${name} ${h.year} falls on ${h.formatted}, resolved by the Fresh Calendars holiday engine.`;
+      return `${name} ${h.year} falls on ${h.formatted}.`;
   }
 }
 
@@ -85,7 +85,7 @@ export function printFaqAnswer(
   if (locale === "ca") {
     return `Download the ${month} ${h.year} printable and mark ${h.name} on the grid. Canadian statutory dates are listed on our Canada holidays hub with matching when-is pages.`;
   }
-  return `Download the ${month} ${h.year} printable and choose the US Holidays Marked template so ${h.name} is labeled in-cell when the engine includes it.`;
+  return `Download the ${month} ${h.year} printable and choose the US Holidays Marked template so ${h.name} is labeled in its date box.`;
 }
 
 const EDITORIAL: Record<string, HolidayEditorial> = {

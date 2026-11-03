@@ -1,0 +1,10 @@
+[
+  {
+    "date": "2026-11-01",
+    "label": "Clocks fall back: test smoke alarms and check their dates"
+  },
+  {
+    "date": "2027-03-14",
+    "label": "Clocks spring forward: next smoke alarm check"
+  }
+]

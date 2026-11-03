@@ -3,7 +3,7 @@
  * Desk watchdog (docs/DESK.md "Watchdog", .github/workflows/desk-watchdog.yml). A writer or puzzle
  * session can end before its pull request merges; nothing else would notice. Each run:
  *  1. desk pull requests ([W1]..., Puzzles ...): merge main into a conflicting one when only the
- *     queue files or KEY_DATES conflict (both sides kept), start CI where none ran, merge one that
+ *     queue files conflict (both sides kept), start CI where none ran, merge one that
  *     has been green for GRACE minutes, then start CI on main so it publishes;
  *  2. delete claim branches the "Claiming" rules free (ticked, blocked, stalled) and branches
  *     already in main;
@@ -28,7 +28,7 @@ const SILENT = 8 * H;        // writers run every 6 h; one missed run shows here
 const OLD_MERGED = 6 * H;    // a branch in main younger than this may be a run that has not committed yet
 const DESK_PR = /^(\[W\d\]|Puzzles\b)/;
 // Lines both sides add to these files belong together (docs/DESK.md "Writer rules").
-const UNION = ["docs/desk/*.md", "apps/news/src/lib/keydates.ts"];
+const UNION = ["docs/desk/*.md"];
 
 const run = (cmd, args) => execFileSync(cmd, args, { encoding: "utf8", stdio: ["ignore", "pipe", "pipe"] }).trim();
 const git = (...a) => run("git", a);
@@ -98,6 +98,22 @@ for (const pr of prs) {
 }
 if (merged) act("starting CI on main so the merged stories publish", () => gh("workflow", "run", "ci.yml", "--ref", "main"));
 
+// 1b. Main itself red: a red main is never published and every open pull request inherits the failure,
+// so it is the first thing a person should see. A red pull request that is only behind a main that has
+// since gone green needs main merged in, not a fix.
+const mainRuns = JSON.parse(gh("run", "list", "--workflow", "ci.yml", "--branch", "main", "--event", "push", "--limit", "5",
+  "--json", "conclusion,status,createdAt,url"));
+const lastDone = mainRuns.find((r) => r.status === "completed");
+if (lastDone && lastDone.conclusion === "failure") attention.push(`main CI is red (${ago(Date.parse(lastDone.createdAt))}): ${lastDone.url}; nothing publishes until it is fixed`);
+else if (lastDone) {
+  for (const pr of prs) {
+    if (pr.isDraft || DESK_PR.test(pr.title)) continue;
+    const red = (pr.statusCheckRollup ?? []).some((c) => (c.conclusion ?? c.state) === "FAILURE");
+    if (red && !inMain(`origin/${pr.headRefName}`) && spawnSync("git", ["merge-base", "--is-ancestor", "origin/main", `origin/${pr.headRefName}`]).status !== 0)
+      attention.push(`#${pr.number} ${pr.title.slice(0, 60)}: CI red and the branch is behind a green main; merge main in and re-run CI`);
+  }
+}
+
 /** Merges main into a conflicting desk branch when only UNION files conflict, then starts its CI. */
 function mergeMain(pr, tag) {
   const b = pr.headRefName;
@@ -108,8 +124,8 @@ function mergeMain(pr, tag) {
     writeFileSync(attrs, UNION.map((p) => `${p} merge=union\n`).join(""));
     const wt = (...a) => execFileSync("git", ["-C", dir, ...a], { encoding: "utf8", stdio: ["ignore", "pipe", "pipe"] }).trim();
     wt("-c", `core.attributesFile=${attrs}`, "-c", "user.name=github-actions[bot]",
-      "-c", "user.email=41898282+github-actions[bot]@users.noreply.github.com", "merge", "--no-edit", "-m", "Merge main (desk watchdog: queue and KEY_DATES lines from both sides)", "origin/main");
-    act(`${tag}: conflicted with main in queue/KEY_DATES lines only; merged main, kept both sides, starting CI`, () => {
+      "-c", "user.email=41898282+github-actions[bot]@users.noreply.github.com", "merge", "--no-edit", "-m", "Merge main (desk watchdog: queue lines from both sides)", "origin/main");
+    act(`${tag}: conflicted with main in queue lines only; merged main, kept both sides, starting CI`, () => {
       wt("push", "-q", "origin", `HEAD:refs/heads/${b}`);
       gh("workflow", "run", "ci.yml", "--ref", b);
     });

@@ -35,6 +35,8 @@ select:not([multiple]):not([size]){-webkit-appearance:none;appearance:none;backg
 .site-search{position:relative;flex:1 1 270px;max-width:370px;margin:0 0 0 auto}
 .site-search-box{display:flex;gap:8px;align-items:center;min-height:38px;padding:0 14px;background:#f0f4f8;border:1px solid transparent;border-radius:24px;color:var(--ink-strong)}
 .site-search-box:focus-within{background:var(--paper);border-color:var(--accent)}
+/* A visible ring for keyboard users: the 1px border colour change alone failed WCAG 2.4.7. */
+.site-search-box:has(input:focus-visible){outline:2px solid var(--focus);outline-offset:2px}
 .site-search input{width:100%;min-width:0;background:none;border:0;outline:0;min-height:36px;font-size:11px;color:var(--ink-strong)}
 .site-search input::placeholder{color:var(--muted);opacity:1}
 .site-search .ui-icon{width:15px;height:15px}
