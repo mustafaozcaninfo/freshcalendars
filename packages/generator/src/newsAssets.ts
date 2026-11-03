@@ -276,7 +276,7 @@ export async function buildNewsAssets(slug: string): Promise<void> {
     sheet = { slug: p.slug, size: LETTER, html: main.html };
     kitName = `list:${main.layout}`;
   }
-  await renderPrintables(p.group, [sheet]);
+  const pageCount = await renderPrintables(p.group, [sheet]);
   // What was printed from which data, so the audit can tell a stale PDF (10-PDF-FRESH) and accept
   // the values the kit computed itself (10-PDF-FACTS).
   if (!dryRun()) {
@@ -284,7 +284,8 @@ export async function buildNewsAssets(slug: string): Promise<void> {
     await fs.writeFile(recordPath(slug), `${JSON.stringify(record, null, 2)}\n`);
   }
   const q = (s: string) => JSON.stringify(s);
-  const pages = (sheet.html.match(/<section class="page/g) ?? []).length;
+  // Kits continue on more pages when the content needs them; the count comes from the render.
+  const pages = pageCount[p.slug] ?? (sheet.html.match(/<section class="page/g) ?? []).length;
   console.log(`\nPaste under downloads: in the frontmatter:
   - group: ${q(p.title.replace(/[,:].*$/, "") + " printables")}
     title: ${q(p.title)}

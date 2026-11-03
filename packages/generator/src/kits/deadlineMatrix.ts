@@ -55,7 +55,7 @@ export const deadlineMatrix: Kit<DeadlineMatrix> = {
       if (rows.length && date <= rows[rows.length - 1]!.date) pr.add(`${at}: ${isoOf(date)} is not after the row before; one row per date, in order`);
       rows.push({ date, cells });
     }
-    if (rows.length > 24) pr.add(`${rows.length} rows; split into two printables (max 24)`);
+    if (rows.length > 60) pr.add(`${rows.length} rows; split into two printables (max 60; long tables continue on more pages)`);
     const unconfirmed = unconfirmedList(pr, d.unconfirmed);
     pr.throwIfAny();
     return { target, columns, rows, done: d.done !== false, unconfirmed };
@@ -67,9 +67,19 @@ export const deadlineMatrix: Kit<DeadlineMatrix> = {
     const first = m.rows[0]!.date, last = m.target?.date ?? m.rows[m.rows.length - 1]!.date;
     const span = Math.max(1, daysBetween(first, last));
     const X = (d: Date) => 3 + (daysBetween(first, d) / span) * 94;
-    const ticks = m.rows.map((r, i) => `<circle cx="${X(r.date)}%" cy="26" r="6" fill="${t.primary}"/><text x="${X(r.date)}%" y="${i % 2 ? 50 : 14}" text-anchor="middle" font-family="Sora" font-weight="800" font-size="9" fill="${t.ink}">${MON[r.date.getUTCMonth()]} ${r.date.getUTCDate()}</text>`).join("");
-    const goal = m.target ? `<rect x="${X(m.target.date)}%" y="16" width="14" height="20" rx="3" fill="${t.accent}" transform="translate(-7 0)"/><text x="${X(m.target.date)}%" y="50" text-anchor="end" font-family="Sora" font-weight="800" font-size="9" fill="${t.ink}">${esc(m.target.label)}</text>` : "";
-    const strip = `<svg class="strip" width="100%" height="56" role="img"><title>Deadlines in date order</title><line x1="3%" x2="97%" y1="26" y2="26" stroke="${t.line}" stroke-width="3"/>${ticks}${goal}</svg>`;
+    // Every date gets a dot; with many dates only every few get a label (first and last always), so
+    // the labels never crowd. The table below lists every date in full.
+    const every = Math.ceil(m.rows.length / 12);
+    const ticks = m.rows.map((r, i) => {
+      // A label too close to the target's own label (or, without a target, to the last one) is left out.
+      const end = m.target ? X(m.target.date) : X(m.rows[m.rows.length - 1]!.date);
+      const last = i === m.rows.length - 1;
+      const label = (i === 0 || (last && !m.target) || i % every === 0) && (last && !m.target ? true : end - X(r.date) >= (m.target ? 12 : 8));
+      const n = Math.floor(i / every);
+      return `<circle cx="${X(r.date)}%" cy="28" r="${every > 1 ? 4.5 : 6}" fill="${t.primary}"/>${label ? `<text x="${X(r.date)}%" y="${n % 2 ? 54 : 15}" text-anchor="middle" font-family="Sora" font-weight="800" font-size="9" fill="${t.ink}">${MON[r.date.getUTCMonth()]} ${r.date.getUTCDate()}</text>` : ""}`;
+    }).join("");
+    const goal = m.target ? `<rect x="${X(m.target.date)}%" y="18" width="14" height="20" rx="3" fill="${t.accent}" transform="translate(-7 0)"/><text x="${X(m.target.date)}%" y="54" text-anchor="end" font-family="Sora" font-weight="800" font-size="9" fill="${t.ink}">${esc(m.target.label)}</text>` : "";
+    const strip = `<svg class="strip" width="100%" height="62" role="img"><title>Deadlines in date order</title><line x1="3%" x2="97%" y1="28" y2="28" stroke="${t.line}" stroke-width="3"/>${ticks}${goal}</svg>`;
     const head = `<tr><th class="dt">Date</th>${m.target ? `<th class="n">Days before ${esc(m.target.label)}</th>` : ""}${m.columns.map((c) => `<th>${esc(c)}</th>`).join("")}${m.done ? `<th class="ck">Done</th>` : ""}</tr>`;
     const body = m.rows.map((r) => `<tr><td class="dt">${dayLabel(r.date)}</td>${m.target ? `<td class="n">${daysBetween(r.date, m.target.date)}</td>` : ""}${m.columns.map((c) => `<td>${r.cells[c] ? esc(r.cells[c]!) : ""}</td>`).join("")}${m.done ? `<td class="ck"><span class="bx"></span></td>` : ""}</tr>`).join("");
     const badge = m.target ? `${esc(m.target.label)}<br>${dayLabel(m.target.date)}` : undefined;
@@ -82,8 +92,8 @@ export const deadlineMatrix: Kit<DeadlineMatrix> = {
     .dm .dt{width:13%}.dm .n{width:9%;text-align:center}.dm td.dt{font-family:Sora;font-weight:800;color:${t.ink}}.dm td.n{font-family:Sora;font-weight:800;color:${t.primary}}
     .dm .ck{width:6%;text-align:center}
     .sidebox{margin-top:calc(10px*var(--s))}`;
-    const html = `${header(t, p.title, p.subtitle, badge)}${strip}<table class="dm"><thead>${head}</thead><tbody>${body}</tbody></table>
-      ${m.unconfirmed.length ? `<div class="sidebox">${unconfirmedBox(m.unconfirmed)}</div>` : ""}${notes(p.notesLabel)}`;
+    const html = `${header(t, p.title, p.subtitle, badge)}${strip}<div class="blk" data-split><table class="dm"><thead>${head}</thead><tbody>${body}</tbody></table></div>
+      ${m.unconfirmed.length ? `<div class="sidebox blk">${unconfirmedBox(m.unconfirmed)}</div>` : ""}${notes(p.notesLabel)}`;
     return { html: page(ctx, size, css, html, p.note), size, computed: [], warnings: [] };
   },
 };

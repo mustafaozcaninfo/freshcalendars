@@ -87,7 +87,7 @@ export const schoolYear: Kit<SchoolYear> = {
         const ds = eachDay(e.from, e.to).filter((d) => d.getUTCFullYear() === y && d.getUTCMonth() === m).map((d) => d.getUTCDate());
         return `<li><b>${ds.length > 1 ? `${ds[0]}-${ds[ds.length - 1]}` : ds[0]}</b> ${esc(e.label)}</li>`;
       }).join("");
-      grids.push(`<div class="mo"><h2>${MONTHS[m]} ${y}</h2><div class="dw">${"SMTWTFS".split("").map((x) => `<i>${x}</i>`).join("")}</div><div class="g">${cells}</div><ul>${lines}</ul></div>`);
+      grids.push(`<div class="mo blk"><h2>${MONTHS[m]} ${y}</h2><div class="dw">${"SMTWTFS".split("").map((x) => `<i>${x}</i>`).join("")}</div><div class="g">${cells}</div><ul>${lines}</ul></div>`);
     }
     const count = (kind: KindName) => k.events.filter((e) => e.kind === kind).flatMap((e) => eachDay(e.from, e.to)).filter(weekday).length;
     const stat: [string, string][] = [[String(count("break")), "weekdays of scheduled breaks"], [String(count("holiday")), "student holidays (weekdays)"]];
@@ -104,7 +104,7 @@ export const schoolYear: Kit<SchoolYear> = {
       return `<rect x="${x + bw * 0.18}%" y="${58 - h}" width="${bw * 0.64}%" height="${Math.max(h, 0.8)}" rx="2" fill="${t.primary}"/>
         <text x="${x + bw / 2}%" y="${n ? 58 - h - 4 : 55}" text-anchor="middle" font-family="Sora" font-weight="800" font-size="9" fill="${t.ink}">${n}</text>`;
     }).join("") + perMonth.map(([lab], i) => `<text x="${i * bw + bw / 2}%" y="72" text-anchor="middle" font-family="Manrope" font-weight="700" font-size="8.5" fill="${t.muted}">${lab}</text>`).join("");
-    const chart = `<div class="box chart"><h3>Weekdays with no school, by month</h3><svg width="100%" height="78" aria-hidden="false" role="img"><title>Weekdays with no school by month</title>${bars}</svg></div>`;
+    const chart = `<div class="box chart blk"><h3>Weekdays with no school, by month</h3><svg width="100%" height="78" aria-hidden="false" role="img"><title>Weekdays with no school by month</title>${bars}</svg></div>`;
     const css = `${baseCss(t, landscape)}
     .yr{display:grid;grid-template-columns:repeat(4,1fr);gap:calc(8px*var(--s)) 12px}
     .mo h2{font-family:Sora;font-size:calc(11px*var(--s));margin:0 0 2px;color:${t.ink}}
@@ -123,8 +123,8 @@ export const schoolYear: Kit<SchoolYear> = {
     .kl li{display:flex;gap:6px;align-items:center}
     .sw{display:inline-flex;align-items:center;justify-content:center;width:17px;height:17px;font-size:9px;border-radius:4px;font-weight:700;flex:none}
     .chart{margin-top:calc(10px*var(--s))}`;
-    const body = `${header(t, p.title, p.subtitle)}${tiles(stat)}<div class="yr">${grids.join("")}</div>
-      ${chart}<div class="side">${key}${unconfirmedBox(k.unconfirmed) || fillLines("More dates", ["", ""])}${fillLines("My family's dates", k.family)}</div>${notes(p.notesLabel)}`;
+    const body = `${header(t, p.title, p.subtitle)}${tiles(stat)}<div class="yr flow">${grids.join("")}</div>
+      ${chart}<div class="side blk">${key}${unconfirmedBox(k.unconfirmed) || fillLines("More dates", ["", ""])}${fillLines("My family's dates", k.family)}</div>${notes(p.notesLabel)}`;
     return { html: page(ctx, size, css, body, p.note), size, computed: [], warnings: [] };
   },
 };

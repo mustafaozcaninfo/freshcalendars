@@ -182,7 +182,7 @@ A printable is the product readers keep, so plan it with the story, not after it
         - { label: "UPS last days to ship", why: "UPS had not posted them as of Sept. 24, 2026" }
 ```
 
-The kit refuses data that does not check out (a date that does not exist, a range that ends before it starts, two kinds on one day, a holiday on a Saturday, rows out of order, a `src` that is not one of the story's sources) and lists every problem at once. Fix the data; never the check. When no kit fits, use the rows and layouts below.
+**Long content continues on more pages** (up to 6): a kit never fails because a schedule or table is long. Day groups and tables break between rows with "(continued)" headings and repeated column heads, every page gets a "Title, continued · page 2 of 3" header and the footer, and the notes area and source note go on the last page. Paste the `pages:` value `news-assets` prints. The kit refuses data that does not check out (a date that does not exist, a range that ends before it starts, two kinds on one day, a holiday on a Saturday, rows out of order, a `src` that is not one of the story's sources) and lists every problem at once. Fix the data; never the check. When no kit fits, use the rows and layouts below.
 
 ```yaml
 assets:

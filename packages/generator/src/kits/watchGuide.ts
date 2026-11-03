@@ -59,7 +59,7 @@ export const watchGuide: Kit<WatchGuide> = {
       needSource(pr, `${at} "${String(e.title ?? "")}"`, e.src, ctx);
       if (start && str(e.title)) events.push({ start, title: e.title, detail: e.detail as string | undefined, channel: e.channel as string | undefined, stream: e.stream as string | undefined, airing });
     }
-    if (events.length > 40) pr.add(`${events.length} events; split into two printables (max 40)`);
+    if (events.length > 80) pr.add(`${events.length} events; split into two printables (max 80; long lists continue on more pages)`);
     for (let i = 1; i < events.length; i++) if (events[i]!.start < events[i - 1]!.start) { pr.add(`event ${i + 1} starts before event ${i}; list events in time order`); break; }
     let fill: WatchGuide["fill"];
     if (d.fill !== undefined) {
@@ -91,7 +91,7 @@ export const watchGuide: Kit<WatchGuide> = {
       days.set(et.ymd, day);
     }
     const head = `<tr>${ZONES.map(([z]) => `<th class="z">${z}</th>`).join("")}<th>Event</th><th>Watch on</th>${w.pick ? `<th class="pk">${esc(w.pick)}</th>` : ""}</tr>`;
-    const tables = [...days.values()].map((d) => `<h2 class="sec">${esc(d.label)}</h2><table class="wg"><thead>${head}</thead><tbody>${d.rows.join("")}</tbody></table>`).join("");
+    const tables = [...days.values()].map((d) => `<div class="blk" data-split><h2 class="sec">${esc(d.label)}</h2><table class="wg"><thead>${head}</thead><tbody>${d.rows.join("")}</tbody></table></div>`).join("");
     const zoneNote = "Eastern Time (ET), Central Time (CT), Mountain Time (MT, Denver; most of Arizona keeps standard time), Pacific Time (PT). Times are converted from the start time the source gives.";
     const side = [w.fill ? fillLines(w.fill.title, w.fill.labels) : "", unconfirmedBox(w.unconfirmed)].filter(Boolean);
     const css = `${baseCss(t, landscape)}
@@ -105,7 +105,7 @@ export const watchGuide: Kit<WatchGuide> = {
     .wg td.pk{border-left:1px dashed ${t.line}}
     .zn{margin:6px 0 0;font-size:8.6px;color:${t.muted}}
     .sidebox{display:grid;grid-template-columns:repeat(${Math.max(side.length, 1)},1fr);gap:10px;margin-top:calc(10px*var(--s))}`;
-    const body = `${header(t, p.title, p.subtitle)}${tables}<p class="zn">${zoneNote}</p>${side.length ? `<div class="sidebox">${side.join("")}</div>` : ""}${notes(p.notesLabel)}`;
+    const body = `${header(t, p.title, p.subtitle)}${tables}<p class="zn blk">${zoneNote}</p>${side.length ? `<div class="sidebox blk">${side.join("")}</div>` : ""}${notes(p.notesLabel)}`;
     return { html: page(ctx, size, css, body, p.note), size, computed: [...computed], warnings: [] };
   },
 };
