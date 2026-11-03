@@ -3,7 +3,7 @@ title: "NYT Letter Boxed Hints and Answer for Friday, Nov. 6, 2026: Sides, Par 4
 seoTitle: "NYT Letter Boxed Hints and Answer, Nov. 6, 2026"
 description: "Letter Boxed for Friday, Nov. 6, 2026 from The New York Times (NYT): sides D/K/R, I/N/M, V/F/L, E/O/A, par 4, seven hints, then a marked spoiler."
 type: explainer
-publishedAt: "2026-11-03T05:29:00-05:00"
+publishedAt: "2026-11-05T00:05:00-05:00"
 authors: [news-desk]
 category: puzzles
 keywords: ["Letter Boxed answer today", "Letter Boxed hints", "NYT Letter Boxed November 6 2026", "Letter Boxed solution", "Letter Boxed par"]

@@ -3,7 +3,7 @@ title: "NYT Pips Hints and Answers for Sunday, Nov. 15, 2026: Easy, Medium and H
 seoTitle: "Pips Hints & Answers, Nov. 15, 2026: Easy, Medium, Hard"
 description: "Pips for Sunday, Nov. 15, 2026: two hints for each board, then every domino placement for Easy, Medium and Hard from the official puzzle data."
 type: explainer
-publishedAt: "2026-11-03T05:29:00-05:00"
+publishedAt: "2026-11-14T00:05:00-05:00"
 authors: [news-desk]
 category: puzzles
 keywords: ["Pips hints today", "NYT Pips answers today", "Pips November 15 2026", "Pips hard answer", "NYT Pips solution"]

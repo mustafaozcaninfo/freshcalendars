@@ -3,7 +3,7 @@ title: "NYT Strands Hints and Answers for Sunday, Nov. 15, 2026 (#987): Hints fo
 seoTitle: "Strands Hints, Spangram & Answers, Nov. 15, 2026 (#987)"
 description: "Strands #987 for Sunday, Nov. 15, 2026: hints for the spangram and each of the five theme words, then all the answers in a spoiler section at the end."
 type: explainer
-publishedAt: "2026-11-03T05:29:00-05:00"
+publishedAt: "2026-11-14T00:05:00-05:00"
 authors: [news-desk]
 category: puzzles
 keywords: ["Strands hints today", "NYT Strands November 15 2026", "Strands 987", "Strands spangram today", "Strands answers today"]

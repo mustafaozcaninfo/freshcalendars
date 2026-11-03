@@ -3,7 +3,7 @@ title: "Wordle Hints and Answer Today, #1975 for Sunday, Nov. 15, 2026: Six Clue
 seoTitle: "Wordle Hint Today, #1975 (Nov. 15, 2026): Clues & Answer"
 description: "Wordle #1975 for Sunday, Nov. 15, 2026: six graded clues, from the letter pattern to a strong nudge, then the answer in a spoiler section at the end."
 type: explainer
-publishedAt: "2026-11-03T05:29:00-05:00"
+publishedAt: "2026-11-14T00:05:00-05:00"
 authors: [news-desk]
 category: puzzles
 keywords: ["Wordle hint today", "Wordle 1975", "Wordle answer November 15 2026", "Wordle today", "Wordle clues"]
