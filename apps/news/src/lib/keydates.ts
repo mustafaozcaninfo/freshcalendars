@@ -12,6 +12,9 @@ export interface KeyDate {
 }
 
 export const KEY_DATES: KeyDate[] = [
+  { date: "2026-12-09", label: "NYC kindergarten application for 2027-28 opens", slug: "kindergarten-registration-2027-28-dates-age-cutoffs-by-district" },
+  { date: "2027-01-22", label: "NYC kindergarten application closes", slug: "kindergarten-registration-2027-28-dates-age-cutoffs-by-district" },
+  { date: "2027-01-19", label: "Philadelphia kindergarten registration for 2027-28 begins", slug: "kindergarten-registration-2027-28-dates-age-cutoffs-by-district" },
   { date: "2026-12-06", label: "St. Nicholas Day (Sunday, Second Sunday of Advent); eve Sat., Dec. 5", slug: "saint-nicholas-day-2026-december-6-eve-december-5" },
   { date: "2026-12-12", label: "Feast of Our Lady of Guadalupe (Saturday)", slug: "our-lady-of-guadalupe-day-2026-december-12-las-posadas-december-16-24" },
   { date: "2026-12-16", label: "Las Posadas begins, nine nights through Dec. 24", slug: "our-lady-of-guadalupe-day-2026-december-12-las-posadas-december-16-24" },
@@ -601,6 +604,9 @@ export const KEY_DATES: KeyDate[] = [
   { date: "2026-12-21", label: "Cobb County holiday break begins", slug: "cobb-county-school-calendar-2026-27-breaks-holidays" },
   { date: "2027-04-05", label: "Fulton County Schools spring break begins (through Apr. 9)", slug: "fulton-county-schools-calendar-2026-27-breaks" },
   { date: "2027-05-27", label: "Fulton County Schools last day of school", slug: "fulton-county-schools-calendar-2026-27-breaks" },
+  { date: "2026-11-23", label: "DeKalb County Schools Thanksgiving break begins (through Nov. 27)", slug: "dekalb-county-school-district-calendar-2026-27-breaks" },
+  { date: "2026-12-21", label: "DeKalb County Schools winter break begins (through Jan. 1)", slug: "dekalb-county-school-district-calendar-2026-27-breaks" },
+  { date: "2027-04-05", label: "DeKalb County Schools spring break begins (through Apr. 9)", slug: "dekalb-county-school-district-calendar-2026-27-breaks" },
   { date: "2026-10-29", label: "The Game Awards 2026 public tickets on sale (10 a.m. PT)", slug: "the-game-awards-2026-tickets-october-29-date-december-10-nominations" },
   { date: "2026-12-10", label: "The Game Awards 2026, Peacock Theater, Los Angeles", slug: "the-game-awards-2026-tickets-october-29-date-december-10-nominations" },
   { date: "2026-11-01", label: "Pokémon GO Halloween 2026 Part II begins", slug: "pokemon-go-november-2026-events-calendar-community-day-pawniard" },
