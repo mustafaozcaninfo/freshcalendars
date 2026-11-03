@@ -65,7 +65,7 @@ internalLinks:
     label: "December 2026 printable calendar"
   - href: "/november-calendars.html"
     label: "November 2026 printable calendar"
-related: [thanksgiving-2026-planner-countdown-checklist, year-end-money-deadlines-december-31-2026]
+related: [thanksgiving-2026-planner-countdown-checklist, year-end-money-deadlines-december-31-2026, world-aids-day-2026-tuesday-december-1-theme]
 downloads:
   - group: "GivingTuesday 2026 Giving Checklist printables"
     title: "GivingTuesday 2026 Giving Checklist"

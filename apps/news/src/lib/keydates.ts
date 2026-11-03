@@ -12,6 +12,7 @@ export interface KeyDate {
 }
 
 export const KEY_DATES: KeyDate[] = [
+  { date: "2026-12-06", label: "St. Nicholas Day (Sunday, Second Sunday of Advent); eve Sat., Dec. 5", slug: "saint-nicholas-day-2026-december-6-eve-december-5" },
   { date: "2026-12-12", label: "Feast of Our Lady of Guadalupe (Saturday)", slug: "our-lady-of-guadalupe-day-2026-december-12-las-posadas-december-16-24" },
   { date: "2026-12-16", label: "Las Posadas begins, nine nights through Dec. 24", slug: "our-lady-of-guadalupe-day-2026-december-12-las-posadas-december-16-24" },
   { date: "2026-12-07", label: "National Pearl Harbor Remembrance Day, 85th anniversary; law asks for flags at half-staff", slug: "national-pearl-harbor-remembrance-day-2026-december-7-flags-half-staff" },
@@ -428,6 +429,7 @@ export const KEY_DATES: KeyDate[] = [
   { date: "2027-02-06", label: "Annular solar eclipse (South America, Africa)", slug: "eclipses-2027-dates-times-total-solar-eclipse-august-2" },
   { date: "2027-05-03", label: "AP Exams begin (through May 14)", slug: "ap-exam-schedule-2027-dates-times-registration-deadline" },
   { date: "2027-08-02", label: "Total solar eclipse (Spain, North Africa, Middle East)", slug: "eclipses-2027-dates-times-total-solar-eclipse-august-2" },
+  { date: "2026-12-01", label: "World AIDS Day", slug: "world-aids-day-2026-tuesday-december-1-theme" },
   { date: "2026-12-01", label: "GivingTuesday", slug: "giving-tuesday-2026-december-1-tax-deduction-charity-check" },
   { date: "2026-12-26", label: "Kwanzaa begins (through Jan. 1)", slug: "kwanzaa-2026-dates-seven-principles-calendar-printable" },
   { date: "2027-01-18", label: "Martin Luther King Jr. Day, federal holiday", slug: "martin-luther-king-jr-day-2027-january-18-whats-closed" },
