@@ -4,7 +4,7 @@ seoTitle: "Election Night 2026 Live Blog: Results Map and Races"
 description: "Live updates on the Nov. 3, 2026 midterms: a state-by-state results map, Senate, House and governor races, and poll closings from 6 p.m. Eastern Time (ET)."
 type: news
 publishedAt: "2026-11-03T12:48:00-05:00"
-updatedAt: "2026-11-03T16:31:48-05:00"
+updatedAt: "2026-11-03T17:21:59-05:00"
 featuredUntil: "2026-11-04T06:00:00-05:00"
 authors: [christina-gerland]
 category: elections
@@ -103,6 +103,10 @@ sources:
     url: "https://www.nbcnews.com/politics/2026-election/live-blog/midterm-election-results-2026-news-trump-live-updates-rcna605763"
     publisher: "NBC News"
     date: "2026-11-03"
+  - title: "State Board extends voting in 5 precincts in 4 counties"
+    url: "https://www.ncsbe.gov/news/press-releases/2026/11/03/state-board-extends-voting-5-precincts-4-counties"
+    publisher: "North Carolina State Board of Elections"
+    date: "2026-11-03"
   - title: "NOTICE - Extended voting hours for 3 precincts"
     url: "https://www.chesco.org/156/Election-Information"
     publisher: "Chester County, Pennsylvania"
@@ -171,7 +175,7 @@ draft: false
 ## Election night scoreboard
 
 <!-- live:scoreboard:start -->
-**Data as of 4:31 p.m. ET on Nov. 3.** Polls have not closed in any state yet and no race has been called.
+**Data as of 5:21 p.m. ET on Nov. 3.** Polls have not closed in any state yet and no race has been called.
 
 | Chamber | On the ballot | Called: Democratic | Called: Republican | Called: independent or other | Not yet called | What control takes |
 |---|---|---:|---:|---:|---:|---|
@@ -189,6 +193,10 @@ All times are Eastern Time. The first results entry appears after polls close at
 ### 4:30 p.m. ET: Three Chester County, Pennsylvania, precincts will stay open until 8:30 p.m.
 
 Chester County said three precincts will stay open until 8:30 p.m. after machine set-up issues briefly delayed their opening this morning, according to a notice on the county's election information page: Precinct 201 (Easttown 3) at Easttown Township Library in Berwyn, Precinct 210 (Easttown 6) at St. John's Presbyterian Church in Devon and Precinct 244 (East Goshen 2) at Goshen Baptist Church in West Chester. NBC News also reported the extension. Most Pennsylvania polls close at 8 p.m. ET, so these three close 30 minutes later. Sources: [Chester County](https://www.chesco.org/156/Election-Information) and [NBC News](https://www.nbcnews.com/politics/2026-election/live-blog/midterm-election-results-2026-news-trump-live-updates-rcna605763).
+
+### 4:09 p.m. ET: North Carolina extends voting at five precincts, and first statewide results move to about 8:15 p.m.
+
+The North Carolina State Board of Elections voted to extend voting at five precincts in four counties because of stoppages in voting during the day, according to its Nov. 3 press release. New closing times: South Williams-Tabor City Courthouse in Columbus County, 8:15 p.m.; Como Fire and Rescue Building in Hertford County, 7:55 p.m.; Murfreesboro 1-Murfee Center in Hertford County, 8 p.m.; K8 Holloway Recreation Center in Lenoir County, 8 p.m.; and Wilson City Recreation Building in Wilson County, 7:45 p.m. The board said it will not publish any unofficial results statewide until all polls are closed, and the first results are expected around 8:15 p.m. That replaces the 7:30 p.m. start in the board's earlier reporting timeline. NBC News and CBS News also reported the extensions. Sources: [North Carolina State Board of Elections](https://www.ncsbe.gov/news/press-releases/2026/11/03/state-board-extends-voting-5-precincts-4-counties), [NBC News](https://www.nbcnews.com/politics/2026-election/live-blog/midterm-election-results-2026-news-trump-live-updates-rcna605763) and [CBS News](https://www.cbsnews.com/live-updates/election-day-2026-midterms/).
 
 ### Afternoon: Fulton County, Georgia, warns of texts sending voters to the wrong polling places
 
