@@ -5,6 +5,7 @@ description: "Polls close between 6 p.m. and 1 a.m. Eastern on Tuesday, Nov. 3, 
 type: explainer
 publishedAt: "2026-10-20T10:30:00-04:00"
 updatedAt: "2026-11-02T14:10:00-05:00"
+featuredUntil: "2026-11-04T02:00:00-05:00"
 authors: [christina-gerland]
 category: elections
 keywords: ["what time do polls close", "polls close time 2026", "election day 2026 poll hours", "what time do polls open", "poll closing times by state"]
