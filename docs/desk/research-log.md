@@ -6,7 +6,7 @@ The research desk (`r`, `docs/DESK.md`) appends one line per run; the update des
 
 Priorities for the research desk, newest first (Search Console queries and pages, topics to push or to avoid).
 
-- (none yet)
+- 2026-11-03: **Printables first.** Printable and PDF pages earn the best click rates on /news/ (the November gratitude calendar PDF: 35 clicks from 121 impressions; pumpkin templates 81 clicks; the NFL schedule PDF 4.9%). When choosing topics, start from a printable searchers want (tracker, planner, bracket, list, chart) and build the story around it from official facts. Seven such items were put at the top of w1 and w3 today (gift list, Secret Santa, 2027 habit tracker, Dry January, Super Bowl squares, March Madness bracket, Black History Month). Never a printable the calendar site already serves (yearly, school, weekly calendars).
 
 ## Turned down
 
