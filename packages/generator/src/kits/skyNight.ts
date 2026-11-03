@@ -136,12 +136,12 @@ export const skyNight: Kit<SkyNight> = {
     const rows = s.cities.map((c) => {
       const moonset = c.rec.mset ? fmtClock(c.rec.mset) : "does not set";
       if (c.rec.mset) note(moonset);
-      const dark = darkUntil(c.rec, c.nextRise);
-      const darkCell = dark ? note(fmtClock(dark)) : "all night";
+      const end = sunriseAfterMoonset(c.rec, c.nextRise);
+      const darkCell = end === "day" ? "Moon up all night" : end ? note(fmtClock(end)) : c.rec.mset ? "Not saved" : "Moon up all night";
       const lit = note(c.rec.illum);
       return `<tr><td class="ct">${esc(c.city)}</td><td class="k">${moonset}</td><td class="k">${darkCell}</td><td>${lit}</td></tr>`;
     }).join("");
-    const table = `<div class="blk" data-split><table class="sn"><thead><tr><th>City</th><th>Moonset</th><th>Dark sky until</th><th>Moon lit</th></tr></thead><tbody>${rows}</tbody></table></div>`;
+    const table = `<div class="blk" data-split><table class="sn"><thead><tr><th>City</th><th>Moonset</th><th>Next sunrise</th><th>Moon lit</th></tr></thead><tbody>${rows}</tbody></table></div>`;
 
     // Peak banner: the window with weekday labels computed from the dates, plus the rate when given.
     const fromDay = new Date(`${s.peak.fromIso.slice(0, 10)}T00:00:00Z`), toDay = new Date(`${s.peak.toIso.slice(0, 10)}T00:00:00Z`);
@@ -149,13 +149,13 @@ export const skyNight: Kit<SkyNight> = {
       ? `${dayLabel(fromDay)}`
       : `the night of ${dayLabel(fromDay)} into ${dayLabel(toDay)}`;
     const rateLine = s.rate ? ` Expect ${esc(s.rate.text)} from a dark site.` : "";
-    const banner = `<div class="box peak blk"><h3>Peak window</h3><p>The ${esc(s.event ?? "event")} peaks ${window}.${rateLine} Watch after the Moon has set, when the sky is at its darkest, until dawn starts to brighten it.</p></div>`;
+    const banner = `<div class="box peak blk"><h3>Peak window</h3><p>The ${esc(s.event ?? "event")} peaks ${window}.${rateLine} Watch after the Moon has set; the sky starts to brighten well before sunrise.</p></div>`;
 
     // Moon disc from the first city's lit fraction (the phase is the same nationwide that night).
     const m0 = s.cities[0]!.rec, f = Math.max(0, Math.min(1, parseInt(m0.illum, 10) / 100));
     const waxing = /waxing|new/i.test(m0.phase);
     const moon = `<div class="moon"><svg viewBox="0 0 120 120" width="108" height="108" role="img"><title>Moon phase on the peak night</title>
-      <circle cx="60" cy="60" r="52" fill="${t.soft}" stroke="${t.line}" stroke-width="2"/>${moonLit(60, 60, 52, f, waxing, t.primary)}
+      <circle cx="60" cy="60" r="52" fill="${t.primary}"/>${moonLit(60, 60, 52, f, waxing, "#ffffff")}
       <circle cx="60" cy="60" r="52" fill="none" stroke="${t.ink}" stroke-width="2"/></svg>
       <p class="cap">${esc(m0.phase)}, about ${note(m0.illum)} lit on the peak night</p></div>`;
 
@@ -173,12 +173,12 @@ export const skyNight: Kit<SkyNight> = {
     const litMin = Math.min(...s.cities.map((c) => parseInt(c.rec.illum, 10)));
     const litMax = Math.max(...s.cities.map((c) => parseInt(c.rec.illum, 10)));
     const litTile = litMin === litMax ? note(`${litMin}%`) : `${note(`${litMin}%`)}-${note(`${litMax}%`)}`;
-    const stat: [string, string][] = [[litTile, "Moonlight on the peak night"], [`${s.cities.length}`, "cities with local moonset and dark-sky times"]];
+    const stat: [string, string][] = [[litTile, "Moonlight on the peak night"], [`${s.cities.length}`, "cities with local moonset and sunrise times"]];
 
     const badge = fromDay.getTime() === toDay.getTime()
       ? `Peak<br>${MON[fromDay.getUTCMonth()]} ${fromDay.getUTCDate()}`
       : `Peak night<br>${MON[fromDay.getUTCMonth()]} ${fromDay.getUTCDate()}-${toDay.getUTCDate()}`;
-    const sourceNote = "Moonset, dark-sky time (dawn) and Moon illumination: U.S. Naval Observatory, local clock time. Times are read from saved USNO data, not converted.";
+    const sourceNote = "Moonset, sunrise and Moon illumination: U.S. Naval Observatory, local clock time. Times are read from saved USNO data, not converted.";
 
     const css = `${baseCss(t, false)}
     .peak p{margin:0;font-size:calc(10.5px*var(--s));line-height:1.45}
@@ -202,7 +202,7 @@ export const skyNight: Kit<SkyNight> = {
     .snnote{margin:6px 0 0;font-size:8.6px;color:${t.muted};line-height:1.45}`;
 
     const body = `${header(t, p.title, p.subtitle, badge)}${tiles(stat)}${banner}
-      <h2 class="sec">Local moonset and dark-sky times</h2>${table}<p class="snnote blk">${esc(sourceNote)}</p>
+      <h2 class="sec">Local moonset and sunrise times</h2>${table}<p class="snnote blk">${esc(sourceNote)}</p>
       <div class="look2 blk">${moon}${lookBox}</div>
       <div class="sky2 blk">${checks}${tally}</div>${s.unconfirmed.length ? `<div class="sidebox blk">${unconfirmedBox(s.unconfirmed)}</div>` : ""}${notes(p.notesLabel)}`;
     return { html: page(ctx, size, css, body, p.note), size, computed: [...computed], warnings: [] };
@@ -219,12 +219,19 @@ function fmtClock(hm: string): string {
   return `${h % 12 || 12}${min ? `:${String(min).padStart(2, "0")}` : ""} ${h < 12 ? "a.m." : "p.m."}`;
 }
 const hm = (s: string | null) => { const m = s ? /^(\d{1,2}):(\d{2})$/.exec(s) : null; return m ? Number(m[1]) * 60 + Number(m[2]) : null; };
-/** The hour the sky is dark until: the moon's set, then dawn. Pre-dawn moonset -> that morning's sunrise; evening moonset -> the next morning's. */
-function darkUntil(rec: Rec, nextRise: string | null): string | null {
-  const ms = hm(rec.mset), sr = hm(rec.rise);
+/**
+ * The sunrise that ends the moon-free stretch after moonset: a moonset before that morning's sunrise
+ * gives that sunrise; one after sunset (in the evening) gives the next morning's. A moonset in daylight
+ * means the Moon is up through the night, so there is no moon-free stretch ("day"). The sheet prints
+ * sunrise itself, never a "dark until" time: dawn brightens the sky well before sunrise, and the saved
+ * USNO data has no twilight times.
+ */
+function sunriseAfterMoonset(rec: Rec, nextRise: string | null): string | "day" | null {
+  const ms = hm(rec.mset), sr = hm(rec.rise), ss = hm(rec.set);
   if (ms === null || sr === null) return null;
-  if (ms < sr) return rec.rise; // moon sets before dawn the same morning
-  return nextRise; // moon sets in the evening; dark until the next sunrise (null when that date is not saved)
+  if (ms < sr) return rec.rise;
+  if (ss !== null && ms >= ss) return nextRise;
+  return "day";
 }
 
 /** Lit part of the Moon as a vector path: a semicircle on the lit limb closed by the terminator ellipse. */
