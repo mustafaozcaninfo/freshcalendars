@@ -1,7 +1,7 @@
 ---
-title: "NYT Strands Hints and Answers for Tuesday, Nov. 10, 2026 (#982): Hints for the Spangram and Six Theme Words"
-seoTitle: "Strands Hints, Spangram & Answers, Nov. 10, 2026 (#982)"
-description: "Strands #982 for Tuesday, Nov. 10, 2026: hints for the spangram and each of the six theme words, then all the answers in a spoiler section at the end."
+title: "NYT Strands Answers for Tuesday, Nov. 10, 2026 (#982): Hints First, Spoilers Last"
+seoTitle: "Strands #982: Nov. 10, 2026 Hints, Answers"
+description: "Strands #982 for Tuesday, Nov. 10, 2026 has the clue \"Influentially online.\" Hints and a board map for six theme words and the spangram; answers last."
 type: explainer
 publishedAt: "2026-11-09T00:05:00-05:00"
 authors: [news-desk]
@@ -14,19 +14,15 @@ hero:
   title: "Strands #982 hints, Nov. 10, 2026"
   caption: "Strands puzzle #982 for Tuesday, Nov. 10, 2026: hints for the spangram and theme words first, all answers only at the end."
 summary:
-  - "Today's Strands is puzzle #982, for Tuesday, Nov. 10, 2026, with the theme clue 'Influentially online.'"
-  - "The spangram is a 14-letter, two-word job title, and the six theme words all name a kind of video someone might post."
-  - "Hints below cover the spangram first, then the six theme words."
-  - "All answers are in the last section, marked as spoilers."
+  - "Strands #982 falls on Tuesday, Nov. 10, 2026, and its clue is \"Influentially online.\""
+  - "The spangram runs 14 letters and touches the left and right edges; the board holds six theme words."
+  - "Hints come first, then a map of where the words sit on the board."
+  - "Every answer is held back in the last section, behind a spoiler marker."
 faq:
-  - q: "What is today's Strands theme?"
-    a: "The clue for puzzle #982 on Nov. 10, 2026, is 'Influentially online.'"
-  - q: "What is the Strands spangram for Nov. 10, 2026?"
-    a: "Spoiler: Content Creator, fourteen letters, running along the fourth row from the left edge to the right edge, down the last column to the sixth row, back along the sixth row to the first column and ending in the fifth row, first column."
-  - q: "What are today's Strands answers?"
+  - q: "How long is the spangram in Strands #982, and how does it compare with the theme words?"
+    a: "It has 14 letters; the longest theme word has 8 and the shortest 4."
+  - q: "What are the Strands answers for Nov. 10, 2026?"
     a: "Spoilers: the theme words are Demo, Reaction, Review, Skit, Tutorial, Vlog, and the spangram is Content Creator."
-  - q: "How does Strands work?"
-    a: "Find theme words by linking adjacent letters in any direction on a six-by-eight board, using every letter once. The spangram describes the theme and touches two opposite sides of the board."
 sources:
   - title: "Strands"
     url: "https://www.nytimes.com/games/strands"
@@ -39,44 +35,55 @@ internalLinks:
 related: [wordle-hint-answer-today-november-10-2026-1970, nyt-connections-hints-answers-november-10-2026-1248, nyt-pips-hints-answers-november-10-2026]
 draft: false
 ---
-**Today's Strands from The New York Times (NYT) is puzzle #982, for Tuesday, Nov. 10, 2026, and its theme clue is "Influentially online."** Think of the people who make videos for a living and what they post. The puzzle was constructed by Christina Iverson and edited by Tracy Bennett. Below are hints for the spangram and each theme word; the answers wait in a marked spoiler section at the end.
+**Today's Strands from The New York Times (NYT) is puzzle #982, for Tuesday, Nov. 10, 2026, and its theme clue is "Influentially online."** Scroll your feed and you will meet most of these formats. It was constructed by Christina Iverson and edited by Tracy Bennett. Hints for the spangram and each theme word come first; the answers wait in a marked spoiler section at the end.
 
-## How Strands works
-
-The board is six letters wide and eight tall. Theme words are made by linking letters that touch, up, down, sideways or diagonally, and every letter is used exactly once. One special answer, the spangram, names the theme and stretches from one side of the board to the opposite side. Find three non-theme words and you earn a hint that highlights the letters of a theme word.
+For the rules, see our [Strands page](/news/topic/nyt-strands/#how-it-works); today's twist is a 14-letter spangram that shares the board with six theme words.
 
 ## Spangram hints
 
-- Hint 1: It is the job title of someone who posts videos and photos for an audience online.
-- Hint 2: It is two words of seven letters each.
-- Hint 3: Fourteen letters, and the first letter is C.
+- Hint 1: A job title for someone who posts videos and photos for a living.
+- Hint 2: Two words: what goes inside a post, then the person who makes it.
+- Hint 3: Fourteen letters, opening with C.
 
 ## Theme word hints
 
-There are six theme words, and each one is a kind of video a creator might post:
+Six theme words, each a type of online video or post:
 
-- **4 letters, starts with D:** a short showing of how a product or game works.
-- **4 letters, starts with S:** a short comedy scene.
-- **4 letters, starts with V:** a video diary.
-- **6 letters, starts with R:** an opinion on a product, film or game.
-- **8 letters, starts with R:** a video of someone watching something and responding to it.
-- **8 letters, starts with T:** a step-by-step lesson.
+- **Starts with D, 4 letters:** a short showing of how a product works.
+- **Starts with S, 4 letters:** a short comedy scene.
+- **Starts with V, 4 letters:** a video diary.
+- **Starts with R, 6 letters:** a verdict on a product after trying it.
+- **Starts with R, 8 letters:** a clip of someone watching and responding.
+- **Starts with T, 8 letters:** a step-by-step lesson.
+
+## Where today's spangram and theme words sit
+
+14 tiles make up the spangram, and its path opens at row 4, column 1. It closes at row 5, column 1, touching the left and right edges and turning 3 times, across rows 4 to 6 and columns 1 to 6. Its longest straight run is 6 tiles.
+
+The densest corner is the top-left quarter (rows 1 to 4, columns 1 to 3). It holds 9 theme tiles and 3 spangram tiles. Whole theme words that fit inside it: the 6-letter R word.
+
+By length, the 8-letter R word and the 8-letter T word tie for longest at 8 letters, and the 4-letter D word, the 4-letter S word and the 4-letter V word tie for shortest at 4 letters. At 14 letters the spangram outruns the longest theme word by 6. Quarter by quarter, the theme tiles split as top-left 9, top-right 9, bottom-left 8, bottom-right 8.
+
+| Theme word | Rows | Columns | Where it sits |
+|---|---|---|---|
+| 4-letter D word | 7 to 8 | 5 to 6 | entirely bottom-right |
+| 8-letter R word | 7 to 8 | 1 to 4 | mostly bottom-left (6 of 8 tiles) |
+| 6-letter R word | 1 to 3 | 1 to 2 | entirely top-left |
+| 4-letter S word | 1 to 2 | 3 to 4 | split top-right and top-left |
+| 8-letter T word | 1 to 3 | 3 to 6 | mostly top-right (7 of 8 tiles) |
+| 4-letter V word | 5 | 2 to 5 | split bottom-left and bottom-right |
 
 ## Solving tips
 
-Start with the spangram. On today's board it begins at the left edge in the fourth row and runs straight across that row to the right edge. Then it drops down the last column to the sixth row, runs back along the sixth row to the first column, and ends one row up, in the fifth row, first column. Its first six letters fill the whole fourth row. The six theme words use 34 letters, so the spangram and the theme words together fill all 48 tiles. Three theme words are only four letters long, and one of them sits in a straight line in the fifth row. The spangram uses T three times. If you get stuck, spell any ordinary words you can see to earn a hint.
+Three theme words have only four letters, and one of them is a blend of two words. Search for those before the longer ones. Mark your solve days on the [printable weekly calendar](/printable-weekly-calendar.html) or the [November 2026 printable calendar](/november-calendars.html).
 
-Keep a streak log on our [printable weekly calendar](/printable-weekly-calendar.html) or the [November 2026 printable calendar](/november-calendars.html).
-
-More of today's puzzles: [Wordle hints](/news/wordle-hint-answer-today-november-10-2026-1970/), [Connections hints](/news/nyt-connections-hints-answers-november-10-2026-1248/) and [Pips hints](/news/nyt-pips-hints-answers-november-10-2026/).
+Other games for Nov. 10: [Pips](/news/nyt-pips-hints-answers-november-10-2026/), [Connections](/news/nyt-connections-hints-answers-november-10-2026-1248/) and [Wordle](/news/wordle-hint-answer-today-november-10-2026-1970/).
 
 ## Today's Strands answers (spoilers)
 
-Stop here if you still want to solve it yourself.
+Spoilers start below this line.
 
 - **Spangram:** Content Creator
 - **Theme words:** Demo, Reaction, Review, Skit, Tutorial, Vlog
 
-All seven answers fit the clue: each theme word is a kind of video a content creator posts. The spangram is a single string of fourteen letters on the board, with no spaces.
-
-We checked the answers against the puzzle's official data before posting. Puzzle #983 arrives at midnight.
+Six formats a creator might film, plus the spangram naming the person who makes them.

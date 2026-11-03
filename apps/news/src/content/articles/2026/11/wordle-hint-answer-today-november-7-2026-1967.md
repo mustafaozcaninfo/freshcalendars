@@ -1,7 +1,7 @@
 ---
-title: "Wordle Hints and Answer Today, #1967 for Saturday, Nov. 7, 2026: Six Clues Before the Reveal"
-seoTitle: "Wordle Hint Today, #1967 (Nov. 7, 2026): Clues & Answer"
-description: "Wordle #1967 for Saturday, Nov. 7, 2026: six graded clues, from the letter pattern to a strong nudge, then the answer in a spoiler section at the end."
+title: "Wordle Hints for Saturday, Nov. 7, 2026 (#1967): Letters, Meaning and a Rhyme"
+seoTitle: "Wordle #1967 Hints, Nov. 7, 2026: Clues and Answer"
+description: "Saturday's Wordle #1967 on Nov. 7, 2026, with hints about its letters, meaning and ending, then the answer plus an anagram check in a closing spoiler block."
 type: explainer
 publishedAt: "2026-11-06T00:05:00-05:00"
 authors: [news-desk]
@@ -14,19 +14,17 @@ hero:
   title: "Wordle #1967 hints, Nov. 7, 2026"
   caption: "Wordle #1967 for Saturday, Nov. 7, 2026; graded clues come first and the answer only in the final section."
 summary:
-  - "Today's Wordle is puzzle #1967, for Saturday, Nov. 7, 2026, from The New York Times."
-  - "The answer has two vowel letters and no repeated letter, so every tile is a different letter."
-  - "Six clues below go from gentle to strong; stop when it clicks."
-  - "The answer is in the last section, marked as a spoiler."
+  - "Wordle #1967 falls on Saturday, Nov. 7, 2026 in The New York Times game."
+  - "Its last letter is a vowel, and its first two letters are consonants."
+  - "Hints cover the meaning, the ending and how it reads in a sentence."
+  - "A spoiler block at the bottom holds the answer and an anagram check."
 faq:
-  - q: "What number is today's Wordle?"
-    a: "Wordle #1967, for Saturday, Nov. 7, 2026."
-  - q: "Does today's Wordle have a repeated letter?"
-    a: "No. All five letters are different, and the two vowels are A in the third spot and E in the fifth."
+  - q: "Is #1967 an anagram of an earlier Wordle answer?"
+    a: "Yes. One earlier answer uses the same five letters in a different order. The spoiler section below names it."
   - q: "What is the Wordle answer for Nov. 7, 2026?"
     a: "Spoiler: Prate."
-  - q: "When does the next Wordle come out?"
-    a: "At midnight in your local time. Sunday's puzzle is #1968."
+  - q: "What is the number of Sunday's Wordle?"
+    a: "Sunday, Nov. 8, 2026, is #1968."
 sources:
   - title: "Wordle"
     url: "https://www.nytimes.com/games/wordle/index.html"
@@ -39,35 +37,33 @@ internalLinks:
 related: [nyt-connections-hints-answers-november-7-2026-1245, nyt-strands-hints-answers-november-7-2026-979, nyt-pips-hints-answers-november-7-2026]
 draft: false
 ---
-**Today's Wordle from The New York Times (NYT) is puzzle #1967, for Saturday, Nov. 7, 2026, edited by Tracy Bennett.** The answer has no repeated letter, and it has two vowels, which changes how you plan your first guesses. Take the clues one at a time, and only scroll to the last section if you want the answer itself.
-
-## How Wordle works
-
-You get six tries to find a five-letter word. After each guess, a green tile means the right letter in the right spot, yellow means the letter is in the word but in another spot, and gray means it is not in the word at all. A letter that appears twice is only marked twice if you guess it twice. Gray tiles matter too.
+**For Saturday, Nov. 7, 2026, The New York Times (NYT) offers Wordle #1967, edited by Tracy Bennett.** It ends on a vowel. Rules are on the [Wordle topic page](/news/topic/wordle/#how-it-works), so these hints go straight to this one puzzle.
 
 ## Six clues, gentle to strong
 
-1. **Part of speech:** it is a verb.
-2. **Topic:** it means to talk at length in a silly or tiresome way, usually about something small.
-3. **Vowels:** two vowel letters, A in the third spot and E in the fifth, and the word ends in E.
-4. **Repeated letter:** none. All five letters are different.
-5. **First letter:** P.
-6. **Strong nudge:** a bore at a party might do this for an hour: "Please don't ___ on about it."
+1. **Vowels:** two, with one in the third spot and one at the very end.
+2. **Starts:** two consonants side by side, and the second one is R.
+3. **Ends:** with E.
+4. **Part of speech:** a verb.
+5. **Meaning:** to talk on and on, usually about nothing much.
+6. **In use:** "He would ___ about his holiday for an hour if you let him."
 
 ## Guessing tips for today
 
-Because no letter repeats, each new guess should use five letters you have not tried yet, so no tile is wasted. Once both vowels show up yellow or green, stop spending tiles on vowels and switch to common consonants. Use gray tiles as much as green ones.
+A closing vowel like this one ended 389 of the 1,967 earlier answers, so guessing it early is a fair bet. Look to the front, where one consonant leads into another. Settle the opening pair and the middle vowel before you move on to the fourth spot.
 
-Keep your streak on our [printable weekly calendar](/printable-weekly-calendar.html) or the [November 2026 printable calendar](/november-calendars.html).
-
-More of today's puzzles: [Connections hints](/news/nyt-connections-hints-answers-november-7-2026-1245/), [Strands hints](/news/nyt-strands-hints-answers-november-7-2026-979/) and [Pips hints](/news/nyt-pips-hints-answers-november-7-2026/).
+The same day's other games: [Connections](/news/nyt-connections-hints-answers-november-7-2026-1245/), [Strands](/news/nyt-strands-hints-answers-november-7-2026-979/), [Pips](/news/nyt-pips-hints-answers-november-7-2026/). Mark your own streak on the [printable weekly calendar](/printable-weekly-calendar.html).
 
 ## Today's Wordle answer (spoilers)
 
-Stop here if you still want to solve it yourself.
+Spoilers follow; scroll back up for the hints.
 
 **The answer to Wordle #1967 is Prate.**
 
-Prate means to talk too much, in a dull or foolish way. The letters are P, R, A, T and E, each used once.
+To prate is to chatter at length in a foolish or tiresome way.
 
-We checked the answer against the puzzle's official data before posting. Wordle #1968 arrives at midnight.
+## Answer history check (spoilers)
+
+The data for #0 to #1966 shows no earlier use of this answer. Its shape (two consonants, a vowel, a consonant and a vowel) fits 176 earlier answers. Twenty-seven started with P and R, and 38 closed with T and E. Four earlier answers match it in four places: Irate (#745), Plate (#670), Grate (#462) and Crate (#45). A fifth, Prove (#1936), matches in three. One earlier answer is a true anagram, Taper, which uses the same five letters in another order. The final E ended 389 earlier answers.
+
+The next puzzle, #1968, comes at midnight.

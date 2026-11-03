@@ -1,7 +1,7 @@
 ---
-title: "NYT Strands Hints and Answers for Monday, Nov. 9, 2026 (#981): Hints for the Spangram and Five Theme Words"
-seoTitle: "Strands Hints, Spangram & Answers, Nov. 9, 2026 (#981)"
-description: "Strands #981 for Monday, Nov. 9, 2026: hints for the spangram and each of the five theme words, then all the answers in a spoiler section at the end."
+title: "Strands #981, Monday, Nov. 9, 2026: Hints for Five Theme Words and the Spangram"
+seoTitle: "Strands Hints, Nov. 9, 2026 (#981) and Answers"
+description: "Stuck on Strands #981 (Monday, Nov. 9, 2026, clue \"Idle chatter\")? Hints for the spangram and theme words, a board map, and answers at the end."
 type: explainer
 publishedAt: "2026-11-08T00:05:00-05:00"
 authors: [news-desk]
@@ -14,19 +14,17 @@ hero:
   title: "Strands #981 hints, Nov. 9, 2026"
   caption: "Strands puzzle #981 for Monday, Nov. 9, 2026: hints for the spangram and theme words first, all answers only at the end."
 summary:
-  - "Today's Strands is puzzle #981, for Monday, Nov. 9, 2026, with the theme clue 'Idle chatter.'"
-  - "The spangram is a 14-letter phrase made of three words, and the five theme words all name a kind of casual talk."
-  - "Hints below cover the spangram first, then the five theme words."
-  - "All answers are in the last section, marked as spoilers."
+  - "Strands #981 falls on Monday, Nov. 9, 2026, and its clue is \"Idle chatter.\""
+  - "The spangram runs 14 letters and touches the top, bottom, left and right edges; the board holds five theme words."
+  - "Hints come first, then a map of where the words sit on the board."
+  - "Every answer is held back in the last section, behind a spoiler marker."
 faq:
-  - q: "What is today's Strands theme?"
-    a: "The clue for puzzle #981 on Nov. 9, 2026, is 'Idle chatter.'"
-  - q: "What is the Strands spangram for Nov. 9, 2026?"
-    a: "Spoiler: Shoot the Breeze, fourteen letters, running from the third row of the board, first column, diagonally down to the bottom right corner, then up the right edge to the top row and ending in the first row, fifth column."
-  - q: "What are today's Strands answers?"
+  - q: "Where do the theme words cluster in Strands #981?"
+    a: "The bottom-left quarter is the densest, with 11 theme tiles out of 12."
+  - q: "What time does the next Strands puzzle arrive?"
+    a: "Puzzle #982 is the next one, available at midnight."
+  - q: "What are the Strands answers for Nov. 9, 2026?"
     a: "Spoilers: the theme words are Banter, Chinwag, Gabfest, Gossip, Schmooze, and the spangram is Shoot the Breeze."
-  - q: "How does Strands work?"
-    a: "Find theme words by linking adjacent letters in any direction on a six-by-eight board, using every letter once. The spangram describes the theme and touches two opposite sides of the board."
 sources:
   - title: "Strands"
     url: "https://www.nytimes.com/games/strands"
@@ -39,43 +37,53 @@ internalLinks:
 related: [wordle-hint-answer-today-november-9-2026-1969, nyt-connections-hints-answers-november-9-2026-1247, nyt-pips-hints-answers-november-9-2026]
 draft: false
 ---
-**Today's Strands from The New York Times (NYT) is puzzle #981, for Monday, Nov. 9, 2026, and its theme clue is "Idle chatter."** Think of the ways people pass the time by talking. The puzzle was constructed by Christina Iverson and edited by Tracy Bennett. Below are hints for the spangram and each theme word; the answers wait in a marked spoiler section at the end.
+**Today's Strands from The New York Times (NYT) is puzzle #981, for Monday, Nov. 9, 2026, and its theme clue is "Idle chatter."** The mood is a long, aimless talk with nothing in particular to say. It was constructed by Christina Iverson and edited by Tracy Bennett. Hints for the spangram and each theme word come first; the answers wait in a marked spoiler section at the end.
 
-## How Strands works
-
-The board is six letters wide and eight tall. Theme words are made by linking letters that touch, up, down, sideways or diagonally, and every letter is used exactly once. One special answer, the spangram, names the theme and stretches from one side of the board to the opposite side. Find three non-theme words and you earn a hint that highlights the letters of a theme word.
+With 5 theme words and a 14-letter spangram filling all 48 tiles, today's board follows the usual rules, which are on our [Strands page](/news/topic/nyt-strands/#how-it-works).
 
 ## Spangram hints
 
-- Hint 1: It is what you do when you chat about nothing in particular.
-- Hint 2: It is a phrase of three words, and the first one is a verb.
-- Hint 3: Fourteen letters, and the first letter is S.
+- Hint 1: An idiom for chatting about nothing much.
+- Hint 2: Three words, opening with a verb you might use at a basketball hoop.
+- Hint 3: Fourteen letters, opening with S.
 
 ## Theme word hints
 
-There are five theme words, and each one is a kind of casual talk:
+Five theme words, each a word for casual talk:
 
-- **6 letters, starts with B:** playful, teasing talk back and forth.
-- **6 letters, starts with G:** talk about other people's private lives.
-- **7 letters, starts with C:** an informal word for a friendly chat.
-- **7 letters, starts with G:** a long session of lively talk.
-- **8 letters, starts with S:** to chat in a friendly way to win people over.
+- **6 letters, starts with B:** playful back-and-forth teasing.
+- **6 letters, starts with G:** chat about other people's business.
+- **7 letters, starts with C:** British slang for a friendly talk.
+- **7 letters, starts with G:** a long, lively session of talking.
+- **8 letters, starts with S:** to chat someone up, often to make connections.
+
+## Where today's spangram and theme words sit
+
+Trace the spangram from row 3, column 1 to row 1, column 5. It touches the top, bottom, left and right edges of the board, spans rows 1 to 8 and columns 1 to 6, and changes direction 2 times, with 8 tiles in its longest straight run.
+
+Look at the bottom-left quarter (rows 5 to 8, columns 1 to 3) first. 11 of its 12 tiles are theme tiles, 1 are spangram tiles. No theme word fits entirely inside it.
+
+The longest theme word is the 8-letter S word, at 8 letters; the 6-letter B word and the 6-letter G word tie for shortest at 6 letters. The spangram, at 14 letters, is 6 longer than the longest theme word. Theme tiles per quarter: top-left 10, top-right 7, bottom-left 11, bottom-right 6.
+
+| Theme word | Rows | Columns | Where it sits |
+|---|---|---|---|
+| 6-letter B word | 2 to 5 | 2 to 4 | mostly top-left (4 of 6 tiles) |
+| 7-letter C word | 4 to 7 | 1 to 4 | mostly bottom-left (5 of 7 tiles) |
+| 7-letter G word | 2 to 6 | 4 to 5 | mostly top-right (5 of 7 tiles) |
+| 6-letter G word | 1 to 2 | 1 to 4 | mostly top-left (5 of 6 tiles) |
+| 8-letter S word | 7 to 8 | 1 to 5 | mostly bottom-left (6 of 8 tiles) |
 
 ## Solving tips
 
-Start with the spangram. On today's board it starts on the left edge in the third row, first column, and runs diagonally down and to the right, one row at a time, to the bottom right corner in the eighth row. Then it climbs the last column to the top edge and ends in the first row, fifth column. It is fourteen letters long, six more than the longest theme word. The five theme words use 34 letters, so the spangram and the theme words together fill all 48 tiles. The two shortest theme words have six letters each, two theme words each repeat one letter, and the spangram uses one vowel four times. If you get stuck, spell any ordinary words you can see to earn a hint.
+Two of the answers contain a C next to an H, so look for that pair first. Our [November 2026 printable calendar](/november-calendars.html) and [printable weekly calendar](/printable-weekly-calendar.html) are handy for a daily log.
 
-Keep a streak log on our [printable weekly calendar](/printable-weekly-calendar.html) or the [November 2026 printable calendar](/november-calendars.html).
-
-More of today's puzzles: [Wordle hints](/news/wordle-hint-answer-today-november-9-2026-1969/), [Connections hints](/news/nyt-connections-hints-answers-november-9-2026-1247/) and [Pips hints](/news/nyt-pips-hints-answers-november-9-2026/).
+More puzzles for this date: [Wordle](/news/wordle-hint-answer-today-november-9-2026-1969/), [Connections](/news/nyt-connections-hints-answers-november-9-2026-1247/) and [Pips](/news/nyt-pips-hints-answers-november-9-2026/).
 
 ## Today's Strands answers (spoilers)
 
-Stop here if you still want to solve it yourself.
+Last chance to turn back before the answers.
 
 - **Spangram:** Shoot the Breeze
 - **Theme words:** Banter, Chinwag, Gabfest, Gossip, Schmooze
 
-All six answers fit the clue: each theme word is a kind of casual talk, and the spangram is the phrase "shoot the breeze." The spangram is a single string of fourteen letters on the board, with no spaces.
-
-We checked the answers against the puzzle's official data before posting. Puzzle #982 arrives at midnight.
+All five theme words are ways of talking, and the spangram is an idiom for that same talk.

@@ -1,7 +1,7 @@
 ---
-title: "Wordle Hints and Answer Today, #1974 for Saturday, Nov. 14, 2026: Six Clues Before the Reveal"
-seoTitle: "Wordle Hint Today, #1974 (Nov. 14, 2026): Clues & Answer"
-description: "Wordle #1974 for Saturday, Nov. 14, 2026: six graded clues, from the letter pattern to a strong nudge, then the answer in a spoiler section at the end."
+title: "Wordle #1974, Saturday, Nov. 14, 2026: Hints and a Look at Its Rhyming Cousins"
+seoTitle: "Wordle #1974 Hints, Saturday Nov. 14, 2026: Answer"
+description: "Wordle #1974 for Saturday, Nov. 14, 2026: six hints, then the answer and a tally of the earlier answers that match it in four of five letter places."
 type: explainer
 publishedAt: "2026-11-13T00:05:00-05:00"
 authors: [news-desk]
@@ -14,19 +14,17 @@ hero:
   title: "Wordle #1974 hints, Nov. 14, 2026"
   caption: "Wordle #1974 for Saturday, Nov. 14, 2026; graded clues come first and the answer only in the final section."
 summary:
-  - "Today's Wordle is puzzle #1974, for Saturday, Nov. 14, 2026, from The New York Times."
-  - "The answer has one vowel letter and no repeated letter, so every tile is a different letter."
-  - "Six clues below go from gentle to strong, each one hidden until you open it."
-  - "The answer is in the last section, marked as a spoiler."
+  - "Saturday, Nov. 14, 2026, brings Wordle #1974 from The New York Times."
+  - "One vowel and a closing Y define the layout."
+  - "Hints cover meaning, tone and where the word is used."
+  - "The spoiler section counts the earlier answers that rhyme with it."
 faq:
-  - q: "What number is today's Wordle?"
-    a: "Wordle #1974, for Saturday, Nov. 14, 2026."
-  - q: "Does today's Wordle have a repeated letter?"
-    a: "No. All five letters are different, and the only vowel is A in the second spot; the word ends in Y."
+  - q: "How many earlier answers match #1974 in four places?"
+    a: "Four different words did, and one of them came up twice, so the history holds five such days."
   - q: "What is the Wordle answer for Nov. 14, 2026?"
     a: "Spoiler: Randy."
-  - q: "When does the next Wordle come out?"
-    a: "At midnight in your local time. Sunday's puzzle is #1975."
+  - q: "What number is Sunday's Wordle?"
+    a: "Sunday, Nov. 15, 2026, is #1975."
 sources:
   - title: "Wordle"
     url: "https://www.nytimes.com/games/wordle/index.html"
@@ -39,35 +37,33 @@ internalLinks:
 related: [nyt-connections-hints-answers-november-14-2026-1252, nyt-strands-hints-answers-november-14-2026-986, nyt-pips-hints-answers-november-14-2026]
 draft: false
 ---
-**Today's Wordle from The New York Times (NYT) is puzzle #1974, for Saturday, Nov. 14, 2026, edited by Tracy Bennett.** It has only one true vowel and ends in Y, so plan a guess that tests Y early. Take the clues one at a time, and only scroll to the last section if you want the answer itself.
-
-## How Wordle works
-
-You get six tries to find a five-letter word. After each guess, a green tile means the right letter in the right spot, yellow means the letter is in the word but in another spot, and gray means it is not in the word at all. A letter that appears twice is only marked twice if you guess it twice. Gray tiles matter too.
+**Saturday's Wordle, #1974 on Nov. 14, 2026, from The New York Times (NYT), is edited by Tracy Bennett.** It closes with a Y that stands in for a vowel, so the visible vowel count is one. Rules are on the [Wordle page](/news/topic/wordle/#how-it-works).
 
 ## Six clues, gentle to strong
 
-1. **Part of speech:** it is an adjective, and also a first name.
-2. **Topic:** an informal word for feeling amorous, heard more in British English.
-3. **Vowels:** one vowel letter, A, in the second spot. The word ends in Y.
-4. **Repeated letter:** none. All five letters are different.
-5. **First letter:** R.
-6. **Strong nudge:** as a name it is short for Randall or Randolph.
+1. **Vowel letters:** only A, in second place.
+2. **Last letter:** Y.
+3. **Part of speech:** an adjective, and in some places a noun.
+4. **Register:** informal.
+5. **Meaning:** an informal adjective from British slang that also works as a first name.
+6. **Third letter:** N, followed by D.
 
 ## Guessing tips for today
 
-With a single vowel, an opener that tests three or four vowels at once shows which one it is in a single row, and the rest of the hunt is consonants. Because no letter repeats, each new guess should use five letters you have not tried yet, so no tile is wasted. Every gray tile rules a letter out for the rest of the game.
+With one vowel and a closing letter that stands in for another, consonant guesses do most of the work. Check each yellow against close rhymes, since several words differ by one letter. No letter repeats, so keep every guess to fresh letters.
 
-Keep your streak on our [printable weekly calendar](/printable-weekly-calendar.html) or the [November 2026 printable calendar](/november-calendars.html).
-
-More of today's puzzles: [Connections hints](/news/nyt-connections-hints-answers-november-14-2026-1252/), [Strands hints](/news/nyt-strands-hints-answers-november-14-2026-986/) and [Pips hints](/news/nyt-pips-hints-answers-november-14-2026/).
+Other pages for this date: [Connections](/news/nyt-connections-hints-answers-november-14-2026-1252/), [Strands](/news/nyt-strands-hints-answers-november-14-2026-986/), [Pips](/news/nyt-pips-hints-answers-november-14-2026/). Mark your own streak on the [printable weekly calendar](/printable-weekly-calendar.html).
 
 ## Today's Wordle answer (spoilers)
 
-Stop here if you still want to solve it yourself.
+Still guessing? Stop reading at this line.
 
 **The answer to Wordle #1974 is Randy.**
 
-Randy is an informal adjective meaning amorous, more common in British English, and a first name short for Randall or Randolph. The letters are R, A, N, D and Y, each used once.
+Randy is informal British slang for being keen, and it is also a familiar first name, short for Randall or Randolph.
 
-We checked the answer against the puzzle's official data before posting. Wordle #1975 arrives at midnight.
+## Answer history check (spoilers)
+
+The data for #0 to #1973 has no earlier use. The pattern of a consonant, a vowel and three consonants fits 237 earlier answers. Twelve began with R and A, and 32 closed with D and Y. Four different earlier answers match in four places: Dandy (#475), Candy (#884), Handy (#1193) and Sandy, which appeared twice, as #1226 and #1750. Runny (#1892) matches in three. D fell fourth in 63 earlier answers and Y closed 280.
+
+Wordle #1975 opens at midnight.

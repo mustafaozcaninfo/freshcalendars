@@ -72,7 +72,7 @@ Two scheduled routines run this workflow every day (`docs/PUZZLE-ROUTINES.md`): 
 
 2. **Save the official data first** (`pnpm news:puzzle-data <from> [to] [--games a,b]`). It writes `apps/news/src/content/puzzles/<game>/<date>.json`. A Spelling Bee page also shows yesterday's solution, so yesterday's Bee data must be saved too. Never write a page for a date whose data is not saved; the check fails it.
 
-3. **Write the pages from the data**, one file per game and date, copying the shape of the newest page of the same game (headings, answer line formats, FAQ). Slugs: `wordle-hint-answer-today-<month>-<d>-<yyyy>-<number>`, `nyt-connections-hints-answers-…-<number>`, `nyt-strands-hints-answers-…-<number>`, `nyt-pips-hints-answers-…`, `nyt-spelling-bee-hints-answers-…`. `publishedAt` is 12:05 a.m. ET the day before the puzzle (`2026-11-09T00:05:00-05:00` for Nov. 10).
+3. **Write the pages from the data**, one file per game and date. Copy only the shape of the newest page of the same game: its section headings and the answer line formats the check reads. Write every sentence fresh for the day (see "Write every day fresh" below; `13-PUZZLE-SIMILAR` fails a page that repeats the last three days). Slugs: `wordle-hint-answer-today-<month>-<d>-<yyyy>-<number>`, `nyt-connections-hints-answers-…-<number>`, `nyt-strands-hints-answers-…-<number>`, `nyt-pips-hints-answers-…`, `nyt-spelling-bee-hints-answers-…`. `publishedAt` is 12:05 a.m. ET the day before the puzzle (`2026-11-09T00:05:00-05:00` for Nov. 10).
    - Compute, never recall: weekday (`node -e 'console.log(new Date("2026-11-10T12:00:00").toDateString())'`), puzzle numbers (Connections #1 was June 12, 2023; Strands #1 was March 4, 2024; Wordle's number is `days_since_launch` in its data), letter counts, Spelling Bee points (4-letter word 1 point, longer words 1 per letter, +7 per pangram, Genius = 70% rounded half up).
    - Pips: generate the placement lines and the region list from the data (the `pipsValues`/`pipsRegionOk` helpers in `apps/news/src/lib/puzzles.mjs`), never by hand. Each line is `- a-b: <cell of a> = a, <cell of b> = b`, in the data's order. If a domino can be flipped without breaking a rule, say so, and still print the data's placement.
    - Every hint must be true for the data: count letters, check which word repeats a letter, check traps against the actual groups. Read each hint against the answer before moving on.
@@ -95,6 +95,25 @@ Two scheduled routines run this workflow every day (`docs/PUZZLE-ROUTINES.md`): 
    Scheduled pages are not in the build until their time, so `news:puzzle-check` is the gate that covers them. If it fails, fix the page, never the data or the check. If the data itself looks wrong, refetch with `--force` and compare.
 
 6. **Commit** the pages, their data files, hero images and `heroes5.ts`; push per `CLAUDE.md`. In the message, list the dates, numbers and anything not yet published (for example "Spelling Bee Nov. 9 not published yet").
+
+
+## Write every day fresh
+
+Google treats near-identical daily pages as one page shown many times, and readers stop trusting them. Audit `13-PUZZLE-SIMILAR` (`scripts/lib/puzzle-similarity.mjs`) cuts each page's body, summary and FAQ into three-word runs and fails a page for a puzzle date from Nov. 5, 2026 on when 0.35 or more of its runs are shared with any of the previous three pages of the same game. It reads the Markdown, so scheduled pages are checked before they go live. Measure a draft with `node -e 'import("./scripts/lib/puzzle-similarity.mjs").then(m=>console.log(m.similarityProblems("apps/news/src/content/articles").fails))'`.
+
+- **Same skeleton, new text.** Keep the headings and the answer line formats (the check reads them). Do not carry sentences over from earlier days: lede, hints, tips, answer notes and FAQ answers are written for this puzzle. Writer briefs say so in these words: "Write the text from scratch. Do not move sentences over from the model page; copy only its headings and answer line formats."
+- **No rules section on the daily page.** How each game works lives once on its hub (`guide` in `apps/news/src/lib/topics.ts`, shown at `/news/topic/<hub>/#how-it-works`). The daily page links it in one sentence that names something about today ("Today's par is 5; the rules are on our [Letter Boxed page](/news/topic/nyt-letter-boxed/#how-it-works).").
+- **One section only today's data can fill**, computed by script from the saved data:
+  - Wordle: where today's letters sit compared with the full answer history (repeats of past answers, letter positions, the closest past answers by shared letters).
+  - Connections: why each red herring nearly fits (which entry could join which other group).
+  - Strands: the spangram's path across the board and which theme words share the densest corner.
+  - Spelling Bee: the day's hardest words (longest, rarest letter pairs) and how far Genius sits from the four-letter words alone.
+  - Pips: the forced first move on each board and why.
+  - Letter Boxed: the hardest letter pairs on today's sides, how many two-word solutions the day's dictionary allows (count them), and the longest word.
+  - Contexto: the game's own top 30 closest words, grouped by why they sit near the answer, and two tempting wrong paths that rank far away.
+  - The Mini and the Midi: the clue whose wordplay is least literal, explained without the answer.
+- **Scan the competition first, then write what they lack.** Before writing a round, send one `news-researcher` (Haiku) per game, all in one message, with this brief: "Search for '<game> hints answer today <Month D, YYYY>' (and '<game> <number>'). Open the top 5 dated pages for this exact puzzle that load without a block. For each, return in under 120 words: URL, publisher, the H2 headings, what extra they offer (word meaning, history, stats, tools, grids, videos). Then list 3 angles none of them covers that the official data can support. Do not copy any text or any answer from them; skip pages that block automated access." Pick one of those angles for the day-specific section and the day's FAQ question, so the page adds something the top results lack (`news-seo`, information gain). Competitor pages are for spotting gaps only: never take an answer, a hint or a sentence from them (answers come only from the saved official data), and note in the PR which angle each page took.
+- **The FAQ changes every day.** At most two standard questions (number, next puzzle); at least one question only today's puzzle raises ("Why does Shell Game count as a scheme?", "Is there a one-word Letter Boxed solution today?").
 
 ## Checking existing dates ("are the Oct. 28 pages ready?")
 

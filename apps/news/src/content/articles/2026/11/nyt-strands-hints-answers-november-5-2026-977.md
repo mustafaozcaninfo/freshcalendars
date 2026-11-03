@@ -1,7 +1,7 @@
 ---
-title: "NYT Strands Hints and Answers for Thursday, Nov. 5, 2026 (#977): Hints for the Spangram and Six Theme Words"
-seoTitle: "Strands Hints, Spangram & Answers, Nov. 5, 2026 (#977)"
-description: "Strands #977 for Thursday, Nov. 5, 2026: hints for the spangram and each of the six theme words, then all the answers in a spoiler section at the end."
+title: "NYT Strands #977 for Thursday, Nov. 5, 2026: Hints, Spangram Route and Answers"
+seoTitle: "Strands #977 Hints and Answers, Nov. 5, 2026"
+description: "Strands #977, Thursday, Nov. 5, 2026: clue \"Handle with care.\" Hints for the spangram and six theme words, a map of the spangram's route, and answers last."
 type: explainer
 publishedAt: "2026-11-04T00:05:00-05:00"
 authors: [news-desk]
@@ -14,19 +14,17 @@ hero:
   title: "Strands #977 hints, Nov. 5, 2026"
   caption: "Strands puzzle #977 for Thursday, Nov. 5, 2026: hints for the spangram and theme words first, all answers only at the end."
 summary:
-  - "Today's Strands is puzzle #977, for Thursday, Nov. 5, 2026, with the theme clue 'Handle with care.'"
-  - "The spangram is a 12-letter phrase made of four words, and the six theme words can all follow the same verb."
-  - "Hints below cover the spangram first, then the six theme words."
-  - "All answers are in the last section, marked as spoilers."
+  - "Strands #977 falls on Thursday, Nov. 5, 2026, and its clue is \"Handle with care.\""
+  - "The spangram runs 12 letters and touches the top and bottom edges; the board holds six theme words."
+  - "Hints come first, then a map of where the words sit on the board."
+  - "Every answer is held back in the last section, behind a spoiler marker."
 faq:
-  - q: "What is today's Strands theme?"
-    a: "The clue for puzzle #977 on Nov. 5, 2026, is 'Handle with care.'"
-  - q: "What is the Strands spangram for Nov. 5, 2026?"
-    a: "Spoiler: Give Me a Break, twelve letters, running from the third row of the board, third column, up to the top edge and down the fourth column to the bottom edge."
-  - q: "What are today's Strands answers?"
+  - q: "Which edges does the Nov. 5 spangram reach?"
+    a: "It touches the top and bottom edges, starting at row 3, column 3 and ending at row 8, column 3."
+  - q: "What time does the next Strands puzzle arrive?"
+    a: "Puzzle #978 is the next one, available at midnight."
+  - q: "What are the Strands answers for Nov. 5, 2026?"
     a: "Spoilers: the theme words are Bread, Character, Dancing, Faith, Ground, Wind, and the spangram is Give Me a Break."
-  - q: "How does Strands work?"
-    a: "Find theme words by linking adjacent letters in any direction on a six-by-eight board, using every letter once. The spangram describes the theme and touches two opposite sides of the board."
 sources:
   - title: "Strands"
     url: "https://www.nytimes.com/games/strands"
@@ -39,44 +37,55 @@ internalLinks:
 related: [wordle-hint-answer-today-november-5-2026-1965, nyt-connections-hints-answers-november-5-2026-1243, nyt-pips-hints-answers-november-5-2026]
 draft: false
 ---
-**Today's Strands from The New York Times (NYT) is puzzle #977, for Thursday, Nov. 5, 2026, and its theme clue is "Handle with care."** Think of what happens to things that are fragile, and of the word that comes next. The puzzle was constructed by Hope Fourie and edited by Tracy Bennett. Below are hints for the spangram and each theme word; the answers wait in a marked spoiler section at the end.
+**Today's Strands from The New York Times (NYT) is puzzle #977, for Thursday, Nov. 5, 2026, and its theme clue is "Handle with care."** Six of the seven answers share a lead-in verb, the one a label on a fragile parcel asks you to avoid. It was constructed by Hope Fourie and edited by Tracy Bennett. Hints for the spangram and each theme word come first; the answers wait in a marked spoiler section at the end.
 
-## How Strands works
-
-The board is six letters wide and eight tall. Theme words are made by linking letters that touch, up, down, sideways or diagonally, and every letter is used exactly once. One special answer, the spangram, names the theme and stretches from one side of the board to the opposite side. Find three non-theme words and you earn a hint that highlights the letters of a theme word.
+Today's board is six columns by eight rows and the spangram is twelve letters long; the rules are on our [Strands page](/news/topic/nyt-strands/#how-it-works).
 
 ## Spangram hints
 
-- Hint 1: It is what you say when you are fed up and want some mercy.
-- Hint 2: It is a phrase of four words, and the clue points to the last one.
-- Hint 3: Twelve letters, and the first letter is G.
+- Hint 1: What you might sigh at someone who keeps pushing their luck.
+- Hint 2: A four-word phrase, and its last word is the verb that links the six theme words.
+- Hint 3: Twelve letters, opening with G.
 
 ## Theme word hints
 
-There are six theme words, and each one can follow the same verb, the one a package marked fragile warns you about:
+All six theme words go after one shared verb:
 
-- **4 letters, starts with W:** air on the move.
-- **5 letters, starts with B:** a baked staple, sliced for toast.
-- **5 letters, starts with F:** trust, or a religious belief.
-- **6 letters, starts with G:** the earth under your feet.
-- **7 letters, starts with D:** moving to music.
-- **9 letters, starts with C:** the role an actor plays.
+- **4 letters, starts with W:** moving air, or the stomach-trouble kind.
+- **5 letters, starts with B:** what a sandwich sits between.
+- **5 letters, starts with F:** belief or trust, often religious.
+- **6 letters, starts with G:** the soil under your boots.
+- **7 letters, starts with D:** moving to a beat, in one popular street style.
+- **9 letters, starts with C:** the part an actor plays, or a person's nature.
+
+## Where today's spangram and theme words sit
+
+The spangram starts at row 3, column 3 and ends at row 8, column 3. On the way it reaches the top and bottom edges, covers rows 1 to 8 and columns 3 to 4, bends 3 times and has a longest straight stretch of 8 tiles.
+
+Theme words cluster most in the bottom-left quarter, which covers rows 5 to 8 and columns 1 to 3. Of its 12 tiles, 11 belong to theme words and 1 to the spangram. Whole theme words that fit inside it: the 7-letter D word.
+
+The longest theme word is the 9-letter C word, at 9 letters, and the shortest is the 4-letter W word, at 4 letters. The spangram has 12 letters (3 over the longest theme word). Theme tiles by quarter: top-left 9, top-right 8, bottom-left 11, bottom-right 8.
+
+| Theme word | Rows | Columns | Where it sits |
+|---|---|---|---|
+| 5-letter B word | 1 to 3 | 5 to 6 | entirely top-right |
+| 9-letter C word | 3 to 6 | 1 to 3 | mostly top-left (5 of 9 tiles) |
+| 7-letter D word | 5 to 8 | 1 to 3 | entirely bottom-left |
+| 5-letter F word | 6 to 8 | 5 to 6 | entirely bottom-right |
+| 6-letter G word | 3 to 6 | 5 to 6 | split top-right and bottom-right |
+| 4-letter W word | 1 to 2 | 1 to 2 | entirely top-left |
 
 ## Solving tips
 
-Start with the spangram. On today's board it starts in the third row, third column, climbs to the top edge, then runs down the fourth column to the bottom edge and ends in the bottom row, third column. It is twelve letters long, three more than the longest theme word. The six theme words use 36 letters, so the spangram and the theme words together fill all 48 tiles. The shortest theme word has four letters, the longest has nine and repeats three of its letters, and the spangram uses one vowel three times. If you get stuck, spell any ordinary words you can see to earn a hint.
+Try the shared verb with each candidate word before you swipe; one of the six makes a slangy phrase. Keep a daily record on our [printable weekly calendar](/printable-weekly-calendar.html) or the [November 2026 printable calendar](/november-calendars.html).
 
-Keep a streak log on our [printable weekly calendar](/printable-weekly-calendar.html) or the [November 2026 printable calendar](/november-calendars.html).
-
-More of today's puzzles: [Wordle hints](/news/wordle-hint-answer-today-november-5-2026-1965/), [Connections hints](/news/nyt-connections-hints-answers-november-5-2026-1243/) and [Pips hints](/news/nyt-pips-hints-answers-november-5-2026/).
+More puzzles for this date: [Wordle](/news/wordle-hint-answer-today-november-5-2026-1965/), [Connections](/news/nyt-connections-hints-answers-november-5-2026-1243/) and [Pips](/news/nyt-pips-hints-answers-november-5-2026/).
 
 ## Today's Strands answers (spoilers)
 
-Stop here if you still want to solve it yourself.
+Stop here if you want to solve it yourself.
 
 - **Spangram:** Give Me a Break
 - **Theme words:** Bread, Character, Dancing, Faith, Ground, Wind
 
-All seven answers fit the clue: each theme word can follow "break," as in break bread, break character, break dancing, break faith, break ground and break wind, and the spangram is the phrase "give me a break." The spangram is a single string of twelve letters on the board, with no spaces.
-
-We checked the answers against the puzzle's official data before posting. Puzzle #978 arrives at midnight.
+Each theme word follows the verb "break" (break bread, break character, break dancing, break faith, break ground, break wind), and the spangram is the phrase you might say when someone tests your patience.

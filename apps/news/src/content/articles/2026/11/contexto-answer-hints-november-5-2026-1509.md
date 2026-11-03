@@ -1,7 +1,7 @@
 ---
-title: "Contexto Answer and Hints Today, #1509 for Thursday, Nov. 5, 2026: Close Words Before the Secret Word"
-seoTitle: "Contexto Answer Today, #1509 (Nov. 5, 2026): Hints"
-description: "Contexto #1509 for Thursday, Nov. 5, 2026: graded hints and words that rank close to the secret word, then the answer in a marked section at the end."
+title: "Contexto #1509 for Nov. 5, 2026: Four Hints, the Top 30 Closest Words and Two Misleading Guesses"
+seoTitle: "Contexto #1509 Hints and Top 30 Words, Nov. 5, 2026"
+description: "Contexto #1509, Thursday, Nov. 5, 2026: four hints, the game's 30 closest words in groups, two far-off guesses, then the answer in a spoiler section."
 type: explainer
 publishedAt: "2026-11-04T00:05:00-05:00"
 authors: [news-desk]
@@ -14,19 +14,17 @@ hero:
   title: "Contexto #1509 hints, Nov. 5, 2026"
   caption: "Contexto game #1509 for Thursday, Nov. 5, 2026; graded hints and close words come first, the secret word only at the end."
 summary:
-  - "Today's Contexto is game #1509, for Thursday, Nov. 5, 2026."
-  - "The secret word is an 8-letter noun for doing something again and again to improve."
-  - "Hints go from broad to strong, with words that rank close to the answer."
-  - "The answer is in the last section, marked as a spoiler."
+  - "Contexto #1509 is the puzzle for Thursday, Nov. 5, 2026, and its secret word is a noun with 8 letters."
+  - "We sorted the game's own 30 closest words, ranks 2 to 31, into four groups of our own reading."
+  - "Two natural guesses, repeat and perfect, rank beyond 1,200 and lead away from the answer."
+  - "The answer sits in the last section, behind a spoiler warning."
 faq:
-  - q: "What number is today's Contexto?"
-    a: "Game #1509, for Thursday, Nov. 5, 2026."
   - q: "What is the Contexto answer for Nov. 5, 2026?"
     a: "Spoiler: Practice."
-  - q: "What was yesterday's Contexto answer?"
+  - q: "What was the word in the game before this one?"
     a: "Spoiler: Writer, for game #1508 on Wednesday, Nov. 4, 2026."
-  - q: "How does Contexto work?"
-    a: "You guess words and the game ranks each by how close it is in meaning to the secret word, which is number 1. The lower the number, the closer you are."
+  - q: "Which obvious guesses lead nowhere in game #1509?"
+    a: "Repeat ranks 1,290 and perfect ranks 1,367, both far outside the closest few hundred, even though each sounds like a fit."
 sources:
   - title: "Contexto"
     url: "https://contexto.me/"
@@ -39,26 +37,32 @@ internalLinks:
 related: [wordle-hint-answer-today-november-5-2026-1965, nyt-connections-hints-answers-november-5-2026-1243, nyt-strands-hints-answers-november-5-2026-977]
 draft: false
 ---
-**Today's Contexto is game #1509, for Thursday, Nov. 5, 2026.** It is a Thursday. The secret word is a short noun, 8 letters, and it can also be used as a verb. The hints below go from broad to strong, followed by a list of words that rank close to it; the answer waits at the end.
-
-## How Contexto works
-
-Contexto ranks every guess by how close its meaning is to the secret word, which sits at number 1. Spelling and letters do not matter, only how words are used together. A guess in the top 300 or so shows green, a middling one yellow, and a distant one red. Steer each new guess with your best-ranked words.
+**Today's Contexto is game #1509, for Thursday, Nov. 5, 2026.** The target is a noun with 8 letters, and the same spelling also works as a verb. This page gives four hints, the game's thirty closest words sorted into groups, two guesses that sound right and are not, and the answer in a marked section at the end. Rules live on our [Contexto page](/news/topic/contexto/#how-it-works); for game #1509 the figures to remember are 8 letters and a list of close words that runs from rank 2 to rank 31.
 
 ## Hints, broad to strong
 
-1. It is a noun with 8 letters, and it can also be a verb.
-2. It is about doing something, not owning something.
-3. It is doing something again and again to get better at it.
-4. A doctor or a lawyer can have one, and the saying goes that it "makes perfect."
+1. The word has 8 letters and two syllables.
+2. It names something you do, and you can also use it as an action word.
+3. Training and teach are the first two entries on the close-words list below.
+4. A well-known saying pairs it with "makes perfect."
 
-## Words that rank close
+## The 30 closest words to game #1509, in groups
 
-These guesses rank near the top today, according to the game's own closest-words list: training (2), teach (3), principle (4), knowledge (5), strategy (6), technique (7), conduct (8), procedure (10), approach (11), method (12) and learning (13). If "training" or "technique" sits in your top 50, think about the plain word for repeating something to improve.
+These ranks come from the game's own closest-words list, ranks 2 to 31. The grouping is our reading of why each word sits near the answer; the game gives no reasons.
 
-Keep a streak log on our [printable weekly calendar](/printable-weekly-calendar.html) or the [November 2026 printable calendar](/november-calendars.html).
+**Learning and skill.** Training (2), teach (3), knowledge (5), learning (13), skill (19), understanding (23), learn (27) and study (29). Eight of the thirty words are about picking something up.
 
-More of today's puzzles: [Wordle hints](/news/wordle-hint-answer-today-november-5-2026-1965/), [Connections hints](/news/nyt-connections-hints-answers-november-5-2026-1243/) and [Strands hints](/news/nyt-strands-hints-answers-november-5-2026-977/).
+**Rules and standards.** Principle (4), rule (16), standard (18), guideline (20), concept (24), ethic (26) and law (31). These describe what a field expects from the people in it.
+
+**Methods and plans.** Strategy (6), technique (7), procedure (10), approach (11), method (12), management (14) and conduct (8). They describe the way a task gets carried out.
+
+**Everyday work.** Practitioner (9), aspect (15), focus (17), way (21), activity (22), practical (25), work (28) and important (30). This group is a mix, and its words fit many other answers too.
+
+## Where guesses go wrong today
+
+Two directions look promising and are not. Repeat, which fits the idea of doing a thing again, sits at rank 1,290. Perfect, pulled in by the old saying, sits at rank 1,367. Those ranks come from the game's own lookup for game #1509. Words about learning and standards, listed above, do far better than words about repetition.
+
+Our [November 2026 calendar](/november-calendars.html) and the [printable weekly calendar](/printable-weekly-calendar.html) are handy for tracking a streak. Other Thursday puzzles are here: [Wordle](/news/wordle-hint-answer-today-november-5-2026-1965/), [Connections](/news/nyt-connections-hints-answers-november-5-2026-1243/) and [Strands](/news/nyt-strands-hints-answers-november-5-2026-977/).
 
 ## Today's Contexto answer (spoilers)
 
@@ -66,4 +70,4 @@ Stop here if you still want to solve it yourself.
 
 **The secret word for Contexto #1509 is Practice.**
 
-Practice is the repeated doing of something to get better at it, which is why training, teach and technique rank right behind it in the game's own list. Yesterday's word, for game #1508, was Writer. We checked today's answer against the game's own data before posting. Game #1510 starts at 11 p.m. Eastern Time (ET).
+Yesterday's word, for game #1508, was Writer. We matched this answer to the game's own data before posting. Game #1510 starts at 11 p.m. Eastern Time (ET).

@@ -1,7 +1,7 @@
 ---
-title: "Wordle Hints and Answer Today, #1972 for Thursday, Nov. 12, 2026: Six Clues Before the Reveal"
-seoTitle: "Wordle Hint Today, #1972 (Nov. 12, 2026): Clues & Answer"
-description: "Wordle #1972 for Thursday, Nov. 12, 2026: six graded clues, from the letter pattern to a strong nudge, then the answer in a spoiler section at the end."
+title: "Wordle #1972 for Thursday, Nov. 12, 2026: Hints Built Around a Repeated A"
+seoTitle: "Wordle #1972 Hints, Thursday Nov. 12, 2026: Answer"
+description: "Wordle #1972 on Thursday, Nov. 12, 2026: six hints around a repeated letter, then the answer and a note on how few past answers open the same way."
 type: explainer
 publishedAt: "2026-11-11T00:05:00-05:00"
 authors: [news-desk]
@@ -14,19 +14,17 @@ hero:
   title: "Wordle #1972 hints, Nov. 12, 2026"
   caption: "Wordle #1972 for Thursday, Nov. 12, 2026; graded clues come first and the answer only in the final section."
 summary:
-  - "Today's Wordle is puzzle #1972, for Thursday, Nov. 12, 2026, from The New York Times."
-  - "The answer has one vowel letter and one letter used twice, so only four different letters need finding."
-  - "Six clues below go from gentle to strong, each one hidden until you open it."
-  - "The answer is in the last section, marked as a spoiler."
+  - "Thursday, Nov. 12, 2026, is Wordle #1972 from The New York Times."
+  - "A appears twice, in the second and fourth places."
+  - "Hints touch on gold, weight and a word that sounds the same as another."
+  - "The spoiler section counts how few earlier answers begin like this one."
 faq:
-  - q: "What number is today's Wordle?"
-    a: "Wordle #1972, for Thursday, Nov. 12, 2026."
-  - q: "Does today's Wordle have a repeated letter?"
-    a: "Yes. The only vowel, A, appears twice, in the second and fourth spots."
+  - q: "How many earlier answers open with the same two letters as #1972?"
+    a: "Just three of the 1,972 earlier puzzle days, which makes the opening pair rare."
   - q: "What is the Wordle answer for Nov. 12, 2026?"
     a: "Spoiler: Karat."
-  - q: "When does the next Wordle come out?"
-    a: "At midnight in your local time. Friday's puzzle is #1973."
+  - q: "Will there be a Wordle on Friday?"
+    a: "Yes. #1973 opens at midnight local time on Nov. 13, 2026."
 sources:
   - title: "Wordle"
     url: "https://www.nytimes.com/games/wordle/index.html"
@@ -39,35 +37,33 @@ internalLinks:
 related: [nyt-connections-hints-answers-november-12-2026-1250, nyt-strands-hints-answers-november-12-2026-984, nyt-pips-hints-answers-november-12-2026]
 draft: false
 ---
-**Today's Wordle from The New York Times (NYT) is puzzle #1972, for Thursday, Nov. 12, 2026, edited by Tracy Bennett.** The answer repeats its only vowel, so a guess full of different vowels will light up just one of them. Take the clues one at a time, and only scroll to the last section if you want the answer itself.
-
-## How Wordle works
-
-You get six tries to find a five-letter word. After each guess, a green tile means the right letter in the right spot, yellow means the letter is in the word but in another spot, and gray means it is not in the word at all. A letter that appears twice is only marked twice if you guess it twice. Gray tiles matter too.
+**Thursday's Wordle, #1972 for Nov. 12, 2026, from The New York Times (NYT), was edited by Tracy Bennett.** It uses one vowel twice, with consonants between the copies. Rules sit on the [Wordle page](/news/topic/wordle/#how-it-works), and the hints follow.
 
 ## Six clues, gentle to strong
 
-1. **Part of speech:** it is a noun.
-2. **Topic:** it measures how pure gold is.
-3. **Vowels:** one vowel letter, A, used twice, in the second and fourth spots.
-4. **Repeated letter:** yes. The A appears twice.
-5. **First letter:** K.
-6. **Strong nudge:** a ring stamped 14K or 18K tells you how many of these its gold has.
+1. **Repeat:** the letter A appears twice.
+2. **Pattern:** consonant, A, consonant, A, consonant.
+3. **Part of speech:** a noun.
+4. **Topic:** a unit used to measure how pure a piece of gold is.
+5. **Sounds like:** a unit for weighing gemstones, though that word is spelled with a C.
+6. **Last letter:** T, preceded by an A.
 
 ## Guessing tips for today
 
-With a single vowel, an opener that tests three or four vowels at once shows which one it is in a single row, and the rest of the hunt is consonants. Because one letter repeats, a row that turns three or four tiles green with nothing left to try usually means one of those letters belongs twice. Gray tiles count too: drop those letters for good.
+A repeated vowel means one guess tells you about only one of its two spots until you retry it. Start with the second spot. Test the opening letter early; it narrows the list.
 
-Keep your streak on our [printable weekly calendar](/printable-weekly-calendar.html) or the [November 2026 printable calendar](/november-calendars.html).
-
-More of today's puzzles: [Connections hints](/news/nyt-connections-hints-answers-november-12-2026-1250/), [Strands hints](/news/nyt-strands-hints-answers-november-12-2026-984/) and [Pips hints](/news/nyt-pips-hints-answers-november-12-2026/).
+Today's companions: [Connections](/news/nyt-connections-hints-answers-november-12-2026-1250/), [Strands](/news/nyt-strands-hints-answers-november-12-2026-984/), [Pips](/news/nyt-pips-hints-answers-november-12-2026/). Mark your own streak on the [printable weekly calendar](/printable-weekly-calendar.html).
 
 ## Today's Wordle answer (spoilers)
 
-Stop here if you still want to solve it yourself.
+Ready for the reveal? It is just below.
 
 **The answer to Wordle #1972 is Karat.**
 
-A karat is a unit for the purity of gold: 24-karat gold is pure, and 18-karat gold is 18 parts gold in 24. The letters are K, A, R, A and T, with the A repeated. In the United States the gem weight is usually spelled carat.
+A karat measures gold's purity in twenty-fourths.
 
-We checked the answer against the puzzle's official data before posting. Wordle #1973 arrives at midnight.
+## Answer history check (spoilers)
+
+No earlier puzzle in the data for #0 to #1971 used it. The layout of consonant, vowel, consonant, vowel, consonant fits 347 earlier answers, a shape that is not unusual. Only three earlier answers began with K and A: Karma (#13), Kayak (#671) and Kazoo (#730), and just 19 began with K at all. Carat (#663) matches in four places, which makes it the closest earlier answer. Kayak and Karma match in three. A held the second place in 243 earlier answers.
+
+Wordle #1973 arrives at midnight.

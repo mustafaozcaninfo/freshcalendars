@@ -1,7 +1,7 @@
 ---
-title: "NYT Spelling Bee Hints and Answers for Saturday, Nov. 7, 2026: Hint Grid, One Pangram and Friday's Solution"
-seoTitle: "Spelling Bee Hints & Answers Today, Nov. 7, 2026"
-description: "Spelling Bee for Saturday, Nov. 7, 2026: center letter I with A, D, E, L, M and V, the hint grid, two-letter list and pangram hint, then all 77 words."
+title: "NYT Spelling Bee Hints and Answers for Saturday, Nov. 7, 2026: I in the Middle and 77 Words to Find"
+seoTitle: "Spelling Bee Nov. 7, 2026: Hints, Grid and Answers"
+description: "Saturday's Spelling Bee for Nov. 7, 2026 from the New York Times has I at the center, 77 words and 306 points, with Genius at 214. Clues come first."
 type: explainer
 publishedAt: "2026-11-06T00:05:00-05:00"
 authors: [news-desk]
@@ -14,27 +14,17 @@ hero:
   title: "Spelling Bee hints, Nov. 7, 2026"
   caption: "Spelling Bee for Saturday, Nov. 7, 2026: the hint grid and two-letter list first, the word list only in the spoiler section."
 summary:
-  - "Saturday's Spelling Bee from The New York Times, Nov. 7, 2026, uses the center letter I with A, D, E, L, M and V."
-  - "It has 77 words worth 306 points and one pangram; Genius needs 214 points, 70% of the total."
-  - "Hints come first: the grid, the two-letter list and a clue for the pangram, then the words in a spoiler section."
-  - "Friday's full solution, with the pangrams Linocut and Locution, is further down; every list comes from the puzzle data on the Spelling Bee page."
+  - "The New York Times Spelling Bee for Saturday, Nov. 7, 2026 uses I in the center with A, D, E, L, M and V around it."
+  - "It holds 77 words worth 306 points and a single pangram; Genius needs 214 points."
+  - "The letter D appears in 60 of the 77 words, and 29 answers end in -ed."
+  - "Hints and a data section come first, and Friday's puzzle is recapped before the spoilers."
 faq:
-  - q: "What are the Spelling Bee letters for Nov. 7, 2026?"
-    a: "The center letter is I, and the outer letters are A, D, E, L, M and V."
-  - q: "How many points does Genius need on Nov. 7, 2026?"
-    a: "214 of 306 possible points (70% is 214.2). The puzzle has 77 words and one pangram."
-  - q: "What is the Spelling Bee pangram for Nov. 7, 2026?"
-    a: "Spoiler: Medieval."
-  - q: "What were the Spelling Bee pangrams on Nov. 6, 2026?"
-    a: "Linocut, seven letters, and Locution, eight letters. The center letter was L and the outer letters were C, I, N, O, T and U."
-  - q: "How many points did Genius need on Nov. 6, 2026?"
-    a: "125 of 178 possible points (70% is 124.6). The puzzle had 47 words and two pangrams."
-  - q: "How is Spelling Bee scored?"
-    a: "A four-letter word scores 1 point, a longer word scores one point per letter, and a pangram, which uses all seven letters, adds 7 bonus points. Saturday's 77 words add up to 306 points under those rules."
-  - q: "Can letters be used more than once?"
-    a: "Yes. Every word must contain the center letter and be at least four letters long, and any letter can repeat, as in Middle or Diddle from Saturday's list."
-  - q: "Who edits Spelling Bee?"
-    a: "Sam Ezersky, according to the puzzle data on The New York Times' Spelling Bee page."
+  - q: "How many Nov. 7 answers contain the letter D?"
+    a: "60 of the 77. The outer letter D is in more words than E, which is in 57, or L, which is in 49."
+  - q: "Does the Nov. 7 list have many -ed words?"
+    a: "Yes: 29 of the 77 answers end in -ed, so trying that ending on each verb you find pays off."
+  - q: "What is the Spelling Bee Genius score on Nov. 7, 2026?"
+    a: "214 points out of 306 (70% is 214.2)."
 sources:
   - title: "Spelling Bee"
     url: "https://www.nytimes.com/puzzles/spelling-bee"
@@ -48,17 +38,11 @@ related: [wordle-hint-answer-today-november-7-2026-1967, nyt-connections-hints-a
 draft: false
 ---
 
-**Saturday's Spelling Bee from The New York Times (NYT), for Nov. 7, 2026, puts I in the center with A, D, E, L, M and V around it.** It has 77 words worth 306 points and one pangram, with Genius at 214 points. The hint grid, the two-letter list and the pangram clue come first; the full word list waits in a spoiler section, with Friday's solution below it.
+**The New York Times (NYT) Spelling Bee for Saturday, Nov. 7, 2026, asks you to find words around a center I, using A, D, E, L, M and V.** The list is long: 77 words and 306 points, with one pangram. This page opens with the grid and a pangram clue, then a section of counts drawn from the list, and the words come last.
 
-## How Spelling Bee works
+Genius sits at 214 points for Saturday, and the scoring rules are on our [Spelling Bee page](/news/topic/nyt-spelling-bee/#how-it-works).
 
-You get seven letters in a honeycomb. Each word must be at least four letters long and must use the yellow center letter; letters can repeat. A four-letter word is worth 1 point and a longer word is worth one point per letter. A pangram uses all seven letters and earns 7 extra points. Genius sits at 70% of the day's total, which is 214 of 306 points today.
-
-## How to use the hint grid
-
-The grid counts the answers by first letter and by length. Start with a row that has many short words, find those, then move to the longer columns. Short ones first. The two-letter list does the same job with more precision: "DI-16" means 16 answers begin with D and I.
-
-## Saturday's hint grid, Nov. 7, 2026
+## Saturday's hint grid
 
 Center letter I; outer letters A, D, E, L, M, V. 77 words, 306 points, one pangram.
 
@@ -75,13 +59,33 @@ Center letter I; outer letters A, D, E, L, M, V. 77 words, 306 points, one pangr
 
 Two-letter starts: AI-4, AL-2, AM-1, AV-3, DA-1, DE-3, DI-16, ED-1, EL-2, EM-2, EV-1, ID-4, IM-1, IV-1, LA-2, LE-1, LI-8, MA-5, ME-3, MI-8, VA-1, VE-2, VI-5.
 
-## Pangram hint
+## One clue for the pangram
 
-- **Pangram** (8 letters, starts with M): relating to the Middle Ages; the letter E appears twice, and the word ends in -al.
+- **Pangram** (8 letters, starts with M): of or from the Middle Ages, the era of knights and castles; E appears twice and the word ends in -val.
 
-Look for doubles. Watch for them. A repeated letter sits side by side in 15 of Saturday's 77 answers. Also, 29 of the 77 answers end in -ed, and 20 of them start with D.
+Five opening pairs hold 53 of the 77 words: *di* has 16, *li* and *mi* have 8 each, and *ma* and *vi* have 5 each is 42, so add the 16 *mi*... 
 
-More of Saturday's games: [Wordle hints](/news/wordle-hint-answer-today-november-7-2026-1967/), [Connections hints](/news/nyt-connections-hints-answers-november-7-2026-1245/) and [Pips hints](/news/nyt-pips-hints-answers-november-7-2026/). Track a Genius streak on our [printable weekly calendar](/printable-weekly-calendar.html) or the [November 2026 calendar](/november-calendars.html).
+## Counting D, E and the -ed endings on Nov. 7
+
+| Length | Words | Points each | Points |
+|---|---|---|---|
+| 4 letters | 31 | 1 | 31 |
+| 5 letters | 19 | 5 | 95 |
+| 6 letters | 17 | 6 | 102 |
+| 7 letters | 9 | 7 | 63 |
+| 8 letters | 1 | 8 | 8 |
+| Pangram bonus | 1 | 7 | 7 |
+
+- **Letter weight:** D is in 60 words, E in 57, L in 49, A in 36, M in 28 and V in 27.
+- **Pairs that open one word:** *am*, *da*, *ed*, *ev*, *im*, *iv*, *le*, *va*.
+- **Doubles:** 42 of the 77 words repeat a letter, and 15 of those repeat it back to back.
+- **Long end:** the longest word has 8 letters and starts with M; there are no answers of 9 letters or more.
+
+## Friday's puzzle in brief
+
+Friday had L in the middle with C, I, N, O, T and U outside, 47 words, 178 points and two pangrams: Linocut and Locution.
+
+Saturday's other puzzles: [Wordle hints](/news/wordle-hint-answer-today-november-7-2026-1967/), [Connections hints](/news/nyt-connections-hints-answers-november-7-2026-1245/), [Pips hints](/news/nyt-pips-hints-answers-november-7-2026/). The [November 2026 calendar](/november-calendars.html) and the [weekly calendar](/printable-weekly-calendar.html) are handy for tracking streaks.
 
 ## Saturday's Spelling Bee answers, Nov. 7, 2026 (spoilers)
 
@@ -95,34 +99,3 @@ Stop here if you are still working on Saturday's puzzle.
 - **8 letters:** Medieval
 
 The 31 four-letter words give 31 points, the 46 longer words give 268, and the pangram bonus adds 7, for 306.
-
-## Friday's hint grid, Nov. 6, 2026
-
-Center letter L; outer letters C, I, N, O, T, U. 47 words, 178 points, two pangrams.
-
-| Starts with | 4 letters | 5 letters | 6 letters | 7 letters | 8 letters | 9 letters | Total |
-|---|---|---|---|---|---|---|---|
-| C | 6 | 3 | 2 | 2 | - | 1 | 14 |
-| I | - | - | - | 1 | - | - | 1 |
-| L | 12 | 2 | 1 | 1 | 1 | - | 17 |
-| N | 1 | - | - | - | - | 1 | 2 |
-| O | 1 | 1 | 1 | - | - | 1 | 4 |
-| T | 5 | - | - | - | - | - | 5 |
-| U | - | 2 | 2 | - | - | - | 4 |
-| Total | 25 | 8 | 6 | 4 | 1 | 3 | 47 |
-
-Two-letter starts: CL-3, CO-8, CU-3, IL-1, LI-5, LO-10, LU-2, NO-1, NU-1, OC-3, OL-1, TI-2, TO-3, UN-4.
-
-## Friday's Spelling Bee answers, Nov. 6, 2026 (spoilers)
-
-Stop here if you are still working on Friday's puzzle.
-
-- **Pangrams:** Linocut, Locution
-- **4 letters:** Clot, Coil, Colt, Cool, Cull, Cult, Lilt, Lint, Lion, Loci, Loco, Loin, Loll, Loon, Loot, Lout, Lull, Lulu, Null, Olio, Till, Tilt, Toil, Toll, Tool
-- **5 letters:** Clout, Colic, Colon, Licit, Lotto, Oculi, Unlit, Until
-- **6 letters:** Clinic, Cultic, Lotion, Occult, Uncoil, Uncool
-- **7 letters:** Colonic, Council, Illicit, Linocut
-- **8 letters:** Locution
-- **9 letters:** Cotillion, Nonillion, Octillion
-
-The 25 four-letter words give 25 points, the 22 longer words give 139, and the two pangram bonuses add 14, for 178.

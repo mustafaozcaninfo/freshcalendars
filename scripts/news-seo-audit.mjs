@@ -724,6 +724,12 @@ check("13-H2-REUSE", `Stories since ${PATTERNS_SINCE}: no H2 that ${H2_REUSE_MAX
 check("13-CLOCK-HOOK", `Stories since ${PATTERNS_SINCE}: the clock-change line stays out of the description and summary unless the story is about it (Time Change category or headline)`, () => patterns.hook);
 check("13-TITLE-LENGTH", `Stories since ${PATTERNS_SINCE}: headline at most ${TITLE_MAX} characters`, () => patterns.title);
 check("13-INBOUND", `Stories since ${PATTERNS_SINCE}: at least one other story links to it (related list or body), not only the automatic picks`, () => patterns.inbound);
+// Daily puzzle pages: each one written fresh, not yesterday's text with new answers (owner, 2026-11-03).
+const { SIMILAR_SINCE, SIMILAR_MAX, similarityProblems } = await import("./lib/puzzle-similarity.mjs");
+const similar = similarityProblems(ARTICLES_SRC);
+check("13-PUZZLE-SIMILAR", `Daily puzzle pages for ${SIMILAR_SINCE} on: under ${SIMILAR_MAX} of their three-word runs shared with any of the previous three pages of the same game (Markdown source, scheduled pages included)`, () => similar.fails);
+warn("13-PUZZLE-SIMILAR-OLD", "Older daily puzzle pages that repeat the previous days' text (rewrite when you update them) — informational", () =>
+  similar.older.length ? [`${similar.older.length} pages`, ...similar.older.slice(0, 7)] : []);
 
 warn("10-PDF-ORPHANS", "Printable PDFs that no story links to (not stamped, no canonical) — informational", () => {
   const linked = new Set(articleUrls.flatMap((u) => pdfLinks(html[u])));

@@ -1,7 +1,7 @@
 ---
-title: "NYT Strands Hints and Answers for Sunday, Nov. 8, 2026 (#980): Hints for the Spangram and Five Theme Words"
-seoTitle: "Strands Hints, Spangram & Answers, Nov. 8, 2026 (#980)"
-description: "Strands #980 for Sunday, Nov. 8, 2026: hints for the spangram and each of the five theme words, then all the answers in a spoiler section at the end."
+title: "NYT Strands #980 for Sunday, Nov. 8, 2026: Hints, Spangram Route and Answers"
+seoTitle: "Strands #980 Hints and Answers, Nov. 8, 2026"
+description: "Strands #980, Sunday, Nov. 8, 2026: clue \"Disciplined combat.\" Hints for the spangram and five theme words, a map of the spangram's route, and answers last."
 type: explainer
 publishedAt: "2026-11-07T00:05:00-05:00"
 authors: [news-desk]
@@ -14,19 +14,15 @@ hero:
   title: "Strands #980 hints, Nov. 8, 2026"
   caption: "Strands puzzle #980 for Sunday, Nov. 8, 2026: hints for the spangram and theme words first, all answers only at the end."
 summary:
-  - "Today's Strands is puzzle #980, for Sunday, Nov. 8, 2026, with the theme clue 'Disciplined combat.'"
-  - "The spangram is an 11-letter phrase made of two words, and the five theme words each name a martial art or combat sport."
-  - "Hints below cover the spangram first, then the five theme words."
-  - "All answers are in the last section, marked as spoilers."
+  - "Strands #980 falls on Sunday, Nov. 8, 2026, and its clue is \"Disciplined combat.\""
+  - "The spangram runs 11 letters and touches the bottom, left and right edges; the board holds five theme words."
+  - "Hints come first, then a map of where the words sit on the board."
+  - "Every answer is held back in the last section, behind a spoiler marker."
 faq:
-  - q: "What is today's Strands theme?"
-    a: "The clue for puzzle #980 on Nov. 8, 2026, is 'Disciplined combat.'"
-  - q: "What is the Strands spangram for Nov. 8, 2026?"
-    a: "Spoiler: Martial Arts, eleven letters, running from the left edge of the board in the fifth row, first column, up to the third row, along the third row to the fifth column, then down to the right edge in the fourth row and down the last column to the bottom edge, ending in the eighth row, sixth column."
-  - q: "What are today's Strands answers?"
+  - q: "Which edges does the Nov. 8 spangram reach?"
+    a: "It touches the bottom, left and right edges, starting at row 5, column 1 and ending at row 8, column 6."
+  - q: "What are the Strands answers for Nov. 8, 2026?"
     a: "Spoilers: the theme words are Judo, Karate, Kickboxing, Ninjutsu, Taekwondo, and the spangram is Martial Arts."
-  - q: "How does Strands work?"
-    a: "Find theme words by linking adjacent letters in any direction on a six-by-eight board, using every letter once. The spangram describes the theme and touches two opposite sides of the board."
 sources:
   - title: "Strands"
     url: "https://www.nytimes.com/games/strands"
@@ -39,43 +35,53 @@ internalLinks:
 related: [wordle-hint-answer-today-november-8-2026-1968, nyt-connections-hints-answers-november-8-2026-1246, nyt-pips-hints-answers-november-8-2026]
 draft: false
 ---
-**Today's Strands from The New York Times (NYT) is puzzle #980, for Sunday, Nov. 8, 2026, and its theme clue is "Disciplined combat."** Think of the fighting arts. The puzzle was constructed and edited by Tracy Bennett. Below are hints for the spangram and each theme word; the answers wait in a marked spoiler section at the end.
+**Today's Strands from The New York Times (NYT) is puzzle #980, for Sunday, Nov. 8, 2026, and its theme clue is "Disciplined combat."** Today's words come from the dojo. Tracy Bennett constructed and edited this one. Hints for the spangram and each theme word come first; the answers wait in a marked spoiler section at the end.
 
-## How Strands works
-
-The board is six letters wide and eight tall. Theme words are made by linking letters that touch, up, down, sideways or diagonally, and every letter is used exactly once. One special answer, the spangram, names the theme and stretches from one side of the board to the opposite side. Find three non-theme words and you earn a hint that highlights the letters of a theme word.
+Today's board is six columns by eight rows and the spangram is eleven letters long; the rules are on our [Strands page](/news/topic/nyt-strands/#how-it-works).
 
 ## Spangram hints
 
-- Hint 1: It names the whole family that the five theme words belong to.
-- Hint 2: It is a phrase of two words, and the second one ends in S.
-- Hint 3: Eleven letters, and the first letter is M.
+- Hint 1: The umbrella term for fighting systems taught in studios and gyms.
+- Hint 2: Two words: an adjective linked to war, then a word for skilled crafts.
+- Hint 3: Eleven letters, opening with M.
 
 ## Theme word hints
 
-There are five theme words, and each one names a martial art or combat sport:
+Five theme words, each a named fighting style:
 
-- **4 letters, starts with J:** a sport where you throw or pin your opponent.
-- **6 letters, starts with K:** a striking art that uses the hands and feet.
-- **8 letters, starts with N:** the art of stealth and combat linked to the ninja.
-- **9 letters, starts with T:** a kicking art with a name that ends in DO.
-- **10 letters, starts with K:** a ring sport that mixes punches with kicks.
+- **Starts with J, 4 letters:** the Japanese "gentle way," built around throws.
+- **Starts with K, 6 letters:** a striking art practiced in a gi.
+- **Starts with N, 8 letters:** the art tied to stealth and the shinobi.
+- **Starts with T, 9 letters:** the Korean style known for high kicks.
+- **Starts with K, 10 letters:** a ring sport that mixes punches with leg strikes.
+
+## Where today's spangram and theme words sit
+
+The spangram starts at row 5, column 1 and ends at row 8, column 6. On the way it reaches the bottom, left and right edges, covers rows 3 to 8 and columns 1 to 6, bends 4 times and has a longest straight stretch of 5 tiles.
+
+Theme words cluster most in the top-left quarter, which covers rows 1 to 4 and columns 1 to 3. Of its 12 tiles, 9 belong to theme words and 3 to the spangram. Whole theme words that fit inside it: the 4-letter J word.
+
+The longest theme word is the 10-letter K word, at 10 letters, and the shortest is the 4-letter J word, at 4 letters. The spangram has 11 letters (1 over the longest theme word). Theme tiles by quarter: top-left 9, top-right 9, bottom-left 11, bottom-right 8.
+
+| Theme word | Rows | Columns | Where it sits |
+|---|---|---|---|
+| 4-letter J word | 1 to 3 | 1 to 2 | entirely top-left |
+| 6-letter K word | 4 to 5 | 3 to 5 | mostly top-right (2 of 6 tiles) |
+| 10-letter K word | 1 to 3 | 2 to 6 | mostly top-right (7 of 10 tiles) |
+| 8-letter N word | 4 to 8 | 1 to 2 | mostly bottom-left (7 of 8 tiles) |
+| 9-letter T word | 6 to 8 | 3 to 5 | mostly bottom-right (6 of 9 tiles) |
 
 ## Solving tips
 
-Start with the spangram. On today's board it starts on the left edge in the fifth row, first column, steps up to the fourth row, then climbs across to the third row, second column, and runs right along the third row to the fifth column. Then it drops to the fourth row at the right edge and follows the last column down to the bottom, ending in the eighth row, sixth column. It is eleven letters long, one more than the longest theme word. The five theme words use 37 letters, so the spangram and the theme words together fill all 48 tiles. The shortest theme word has four letters, two theme words start with the same letter, and the spangram uses one vowel three times. If you get stuck, spell any ordinary words you can see to earn a hint.
+Start with the longest theme word, which has ten letters; finding it clears a large share of the board. Keep a daily record on our [printable weekly calendar](/printable-weekly-calendar.html) or the [November 2026 printable calendar](/november-calendars.html).
 
-Keep a streak log on our [printable weekly calendar](/printable-weekly-calendar.html) or the [November 2026 printable calendar](/november-calendars.html).
-
-More of today's puzzles: [Wordle hints](/news/wordle-hint-answer-today-november-8-2026-1968/), [Connections hints](/news/nyt-connections-hints-answers-november-8-2026-1246/) and [Pips hints](/news/nyt-pips-hints-answers-november-8-2026/).
+Other games for Nov. 8: [Pips](/news/nyt-pips-hints-answers-november-8-2026/), [Connections](/news/nyt-connections-hints-answers-november-8-2026-1246/) and [Wordle](/news/wordle-hint-answer-today-november-8-2026-1968/).
 
 ## Today's Strands answers (spoilers)
 
-Stop here if you still want to solve it yourself.
+Stop here if you want to solve it yourself.
 
 - **Spangram:** Martial Arts
 - **Theme words:** Judo, Karate, Kickboxing, Ninjutsu, Taekwondo
 
-All six answers fit the clue: each theme word names a martial art or combat sport, and the spangram is the phrase "martial arts." The spangram is a single string of eleven letters on the board, with no space.
-
-We checked the answers against the puzzle's official data before posting. Puzzle #981 arrives at midnight.
+The five theme words are each a style of combat, and the spangram is the family name for all of them.

@@ -43,6 +43,12 @@ const others = liveTopics(all).map((t) => t.topic).filter((t) => t.slug !== topi
   {start && (
     <p class="start"><span>Start here</span><a href={articlePath(start.id)}>{start.data.title}</a></p>
   )}
+  {topic.guide && page.page === 1 && (
+    <section class="guide" id="how-it-works">
+      <h2>{topic.guide.heading}</h2>
+      {topic.guide.paras.map((p) => <p>{p}</p>)}
+    </section>
+  )}
   <KeyDates dates={dates.slice(0, 8)} heading={`Coming up in ${topic.name}`} ics={`${path}dates.ics`} linkStories />
   {topic.puzzle && <PuzzleTable stories={items.map((a) => ({ id: a.id, title: a.data.title }))} name={topic.name.replace(/ Answers.*$/, "")} />}
   {others.length > 0 && (
@@ -56,6 +62,9 @@ const others = liveTopics(all).map((t) => t.topic).filter((t) => t.slug !== topi
   .start span{font-size:.75rem;font-weight:700;text-transform:uppercase;letter-spacing:.08em;color:var(--ink)}
   .start a{font-family:Sora,"Sora Fallback",sans-serif;font-weight:700;line-height:1.3;color:var(--ink-strong);text-decoration:none}
   .start a:hover,.start a:focus-visible{text-decoration:underline}
+  .guide{margin:0 0 1.25rem;padding:1rem 1.1rem;border:1px solid var(--line);border-radius:8px}
+  .guide h2{margin:0 0 .5rem;font-size:1.15rem}
+  .guide p{margin:.5rem 0 0;line-height:1.55}
   .topics{display:flex;flex-wrap:wrap;gap:.5rem;margin:0 0 1.25rem}
   .topics a{display:inline-flex;align-items:center;min-height:44px;padding:0 .9rem;border:1px solid var(--line);border-radius:4px;color:var(--ink-strong);text-decoration:none;font-weight:700;font-size:.9rem}
   .topics a:hover,.topics a:focus-visible{border-color:var(--focus);color:var(--focus)}

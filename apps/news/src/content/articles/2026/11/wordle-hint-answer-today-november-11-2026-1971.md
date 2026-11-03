@@ -1,7 +1,7 @@
 ---
-title: "Wordle Hints and Answer Today, #1971 for Wednesday, Nov. 11, 2026: Six Clues Before the Reveal"
-seoTitle: "Wordle Hint Today, #1971 (Nov. 11, 2026): Clues & Answer"
-description: "Wordle #1971 for Wednesday, Nov. 11, 2026: six graded clues, from the letter pattern to a strong nudge, then the answer in a spoiler section at the end."
+title: "Wordle for Wednesday, Nov. 11, 2026 (#1971): Hints on the Double Letter and More"
+seoTitle: "Wordle #1971 Hints, Wed. Nov. 11, 2026 and Answer"
+description: "Wordle #1971, Wednesday, Nov. 11, 2026: six hints that include a doubled letter and the meaning, and the answer with a count of how rare that ending is."
 type: explainer
 publishedAt: "2026-11-10T00:05:00-05:00"
 authors: [news-desk]
@@ -14,19 +14,17 @@ hero:
   title: "Wordle #1971 hints, Nov. 11, 2026"
   caption: "Wordle #1971 for Wednesday, Nov. 11, 2026; graded clues come first and the answer only in the final section."
 summary:
-  - "Today's Wordle is puzzle #1971, for Wednesday, Nov. 11, 2026, from The New York Times."
-  - "The answer has one vowel letter and one letter used twice, so only four different letters need finding."
-  - "Six clues below go from gentle to strong; stop when it clicks."
-  - "The answer is in the last section, marked as a spoiler."
+  - "Wednesday, Nov. 11, 2026, is Wordle #1971 from The New York Times."
+  - "One letter appears twice, and both copies sit side by side at the end."
+  - "Hints cover the meaning, a greeting and the doubled finish."
+  - "A computed note on how rare that ending is appears below the answer."
 faq:
-  - q: "What number is today's Wordle?"
-    a: "Wordle #1971, for Wednesday, Nov. 11, 2026."
-  - q: "Does today's Wordle have a repeated letter?"
-    a: "Yes. The last two letters are the same consonant, and the only vowel is E in the third spot."
+  - q: "How many earlier answers end with the same doubled letter?"
+    a: "Seventeen of the 1,971 earlier puzzle days ended with the same double letter, so the ending is possible but not common."
   - q: "What is the Wordle answer for Nov. 11, 2026?"
     a: "Spoiler: Bless."
-  - q: "When does the next Wordle come out?"
-    a: "At midnight in your local time. Thursday's puzzle is #1972."
+  - q: "When does Wordle #1972 open?"
+    a: "At midnight local time, for Thursday, Nov. 12, 2026."
 sources:
   - title: "Wordle"
     url: "https://www.nytimes.com/games/wordle/index.html"
@@ -39,35 +37,33 @@ internalLinks:
 related: [nyt-connections-hints-answers-november-11-2026-1249, nyt-strands-hints-answers-november-11-2026-983, nyt-pips-hints-answers-november-11-2026]
 draft: false
 ---
-**Today's Wordle from The New York Times (NYT) is puzzle #1971, for Wednesday, Nov. 11, 2026, edited by Tracy Bennett.** The answer repeats a letter, and it has only one vowel, so a guess that spends all five spots on new letters may still leave you short. Take the clues one at a time, and only scroll to the last section if you want the answer itself.
-
-## How Wordle works
-
-You get six tries to find a five-letter word. After each guess, a green tile means the right letter in the right spot, yellow means the letter is in the word but in another spot, and gray means it is not in the word at all. A letter that appears twice is only marked twice if you guess it twice. Gray tiles matter too.
+**Wordle #1971 arrives on Wednesday, Nov. 11, 2026, from The New York Times (NYT), edited by Tracy Bennett.** This one doubles a letter. For the basics, see the [Wordle hub](/news/topic/wordle/#how-it-works).
 
 ## Six clues, gentle to strong
 
-1. **Part of speech:** it is a verb.
-2. **Topic:** it has to do with wishing someone well, often in a religious sense.
-3. **Vowels:** one vowel letter, E, in the third spot.
-4. **Repeated letter:** yes. The fourth and fifth letters are the same.
-5. **First letter:** B.
-6. **Strong nudge:** what many people say after someone sneezes: "___ you."
+1. **Repeat:** yes, one letter is used twice, back to back.
+2. **Shape:** two consonants, the vowel E, then the doubled pair.
+3. **Starts with:** B, then L.
+4. **Part of speech:** a verb.
+5. **Meaning:** to ask for divine favor on something or someone.
+6. **Said aloud:** it is what people say after a sneeze, in the form "God ___ you."
 
 ## Guessing tips for today
 
-With a single vowel, an opener that tests three or four vowels at once shows which one it is in a single row, and the rest of the hunt is consonants. Because one letter repeats, a row that turns three or four tiles green with nothing left to try usually means one of those letters belongs twice. Every gray tile rules a letter out for the rest of the game.
+A doubled letter shows as two tiles only once you guess it twice. Test the last two spots together. Put the opening consonant pair at the front first, then spend a guess on the middle vowel.
 
-Keep your streak on our [printable weekly calendar](/printable-weekly-calendar.html) or the [November 2026 printable calendar](/november-calendars.html).
-
-More of today's puzzles: [Connections hints](/news/nyt-connections-hints-answers-november-11-2026-1249/), [Strands hints](/news/nyt-strands-hints-answers-november-11-2026-983/) and [Pips hints](/news/nyt-pips-hints-answers-november-11-2026/).
+Next up on the same date: [Connections](/news/nyt-connections-hints-answers-november-11-2026-1249/), [Strands](/news/nyt-strands-hints-answers-november-11-2026-983/), [Pips](/news/nyt-pips-hints-answers-november-11-2026/). Mark your own streak on the [printable weekly calendar](/printable-weekly-calendar.html).
 
 ## Today's Wordle answer (spoilers)
 
-Stop here if you still want to solve it yourself.
+Anything after this line gives it away.
 
 **The answer to Wordle #1971 is Bless.**
 
-To bless is to ask for divine favor on someone or to wish them well. The letters are B, L, E, S and S, with the S repeated.
+To bless is to ask a blessing on someone or something, or to make holy.
 
-We checked the answer against the puzzle's official data before posting. Wordle #1972 arrives at midnight.
+## Answer history check (spoilers)
+
+In the data for #0 to #1970 this answer has not appeared before. Its layout of two consonants, a vowel and two consonants fits 326 earlier answers. Twenty-eight opened with B and L, and 17 ended with the same doubled letter. One earlier answer matches in four places, Bliss (#1410). Dress (#1954), Gloss (#1772), Bleat (#1694) and Blast (#1664) match in three. The final letter closed only 30 earlier answers, the lowest count among its five positions.
+
+Wordle #1972 follows at midnight.

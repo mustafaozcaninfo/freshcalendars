@@ -1,7 +1,7 @@
 ---
-title: "NYT Spelling Bee Hints and Answers for Friday, Nov. 6, 2026: Hint Grid, Two Pangrams and Thursday's Solution"
-seoTitle: "Spelling Bee Hints & Answers Today, Nov. 6, 2026"
-description: "Spelling Bee for Friday, Nov. 6, 2026: center letter L with C, I, N, O, T and U, the hint grid, two-letter list and pangram clues, then all 47 words."
+title: "NYT Spelling Bee Hints and Answers for Friday, Nov. 6, 2026: L at the Center and Two Pangrams"
+seoTitle: "Spelling Bee Nov. 6, 2026: Hints and Both Pangrams"
+description: "Friday's Spelling Bee for Nov. 6, 2026 from the New York Times centers on L with two pangrams, 47 words and 178 points. Clues come first, then the word list."
 type: explainer
 publishedAt: "2026-11-05T00:05:00-05:00"
 authors: [news-desk]
@@ -14,27 +14,17 @@ hero:
   title: "Spelling Bee hints, Nov. 6, 2026"
   caption: "Spelling Bee for Friday, Nov. 6, 2026: the hint grid and two-letter list first, the word list only in the spoiler section."
 summary:
-  - "Friday's Spelling Bee from The New York Times, Nov. 6, 2026, uses the center letter L with C, I, N, O, T and U."
-  - "It has 47 words worth 178 points and two pangrams; Genius needs 125 points, 70% of the total rounded to the nearest point."
-  - "Hints come first: the grid, the two-letter list and a clue for each pangram, then the words in a spoiler section."
-  - "Thursday's full solution, with the pangram Pivoting, is further down; every list comes from the puzzle data on the Spelling Bee page."
+  - "Friday's New York Times Spelling Bee, Nov. 6, 2026, has L in the center and C, I, N, O, T and U in the outer ring."
+  - "There are 47 words worth 178 points, and two pangrams add 14 of those points."
+  - "Twenty-five answers are four letters long, so Genius at 125 points needs plenty of longer finds too."
+  - "A length-and-pairs section follows the clues, and the full list sits below the spoiler warning."
 faq:
-  - q: "What are the Spelling Bee letters for Nov. 6, 2026?"
-    a: "The center letter is L, and the outer letters are C, I, N, O, T and U."
-  - q: "How many points does Genius need on Nov. 6, 2026?"
-    a: "125 of 178 possible points (70% is 124.6). The puzzle has 47 words and two pangrams."
-  - q: "What are the Spelling Bee pangrams for Nov. 6, 2026?"
-    a: "Spoiler: Linocut and Locution."
-  - q: "What was the Spelling Bee pangram on Nov. 5, 2026?"
-    a: "Pivoting, eight letters. The center letter was P and the outer letters were G, I, N, O, T and V."
-  - q: "How many points did Genius need on Nov. 5, 2026?"
-    a: "174 of 249 possible points (70% is 174.3). The puzzle had 42 words."
-  - q: "How is Spelling Bee scored?"
-    a: "A four-letter word scores 1 point, a longer word scores one point per letter, and a pangram, which uses all seven letters, adds 7 bonus points. Friday's 47 words add up to 178 points under those rules."
-  - q: "Can letters be used more than once?"
-    a: "Yes. Every word must contain the center letter and be at least four letters long, and any letter can repeat, as in Loll or Lulu from Friday's list."
-  - q: "Who edits Spelling Bee?"
-    a: "Sam Ezersky, according to the puzzle data on The New York Times' Spelling Bee page."
+  - q: "Why is Genius 125 points on Nov. 6 when 70% of 178 is 124.6?"
+    a: "The score rounds half up to the nearest whole point, so 124.6 becomes 125."
+  - q: "Do the two Nov. 6 pangrams start with the same letter?"
+    a: "Yes, both start with L. Linocut has seven letters and Locution has eight, and together they add 14 bonus points."
+  - q: "Which Nov. 6 words are worth the most points?"
+    a: "Locution is worth 15 (8 letters plus the 7-point pangram bonus) and Linocut is worth 14. Next come the three nine-letter words, Cotillion, Nonillion and Octillion, at 9 points each."
 sources:
   - title: "Spelling Bee"
     url: "https://www.nytimes.com/puzzles/spelling-bee"
@@ -48,17 +38,11 @@ related: [wordle-hint-answer-today-november-6-2026-1966, nyt-connections-hints-a
 draft: false
 ---
 
-**Friday's Spelling Bee from The New York Times (NYT), for Nov. 6, 2026, puts L in the center with C, I, N, O, T and U around it.** It has 47 words worth 178 points and two pangrams, with Genius at 125 points. The hint grid, the two-letter list and the pangram clues come first; the full word list waits in a spoiler section, with Thursday's solution below it.
+**Friday's Spelling Bee from The New York Times (NYT), dated Nov. 6, 2026, centers on L and wraps it with C, I, N, O, T and U.** Two pangrams sit in the 47 words, which total 178 points. The grid and a pair of clues are first; the word list is held back in the final section.
 
-## How Spelling Bee works
+Today's Genius line is 125 points; our [Spelling Bee page](/news/topic/nyt-spelling-bee/#how-it-works) covers how scoring works.
 
-You get seven letters in a honeycomb. Each word must be at least four letters long and must use the yellow center letter; letters can repeat. A four-letter word is worth 1 point and a longer word is worth one point per letter. A pangram uses all seven letters and earns 7 extra points. Genius sits at 70% of the day's total, rounded to the nearest point, which is 125 of 178 points today.
-
-## How to use the hint grid
-
-The grid counts the answers by first letter and by length. Start with a row that has many short words, find those, then move to the longer columns. Short ones first. The two-letter list does the same job with more precision: "LO-10" means 10 answers begin with L and O.
-
-## Friday's hint grid, Nov. 6, 2026
+## Friday's grid by first letter and length
 
 Center letter L; outer letters C, I, N, O, T, U. 47 words, 178 points, two pangrams.
 
@@ -75,14 +59,34 @@ Center letter L; outer letters C, I, N, O, T, U. 47 words, 178 points, two pangr
 
 Two-letter starts: CL-3, CO-8, CU-3, IL-1, LI-5, LO-10, LU-2, NO-1, NU-1, OC-3, OL-1, TI-2, TO-3, UN-4.
 
-## Pangram hints
+## Clues for both pangrams
 
-- **Pangram 1** (7 letters, starts with L): a print made from a design cut into a block of linoleum; all seven letters are different.
-- **Pangram 2** (8 letters, starts with L): a word or phrase, or a way of speaking; the letter O appears twice, and the word ends in -ion.
+- **Pangram 1** (7 letters, starts with L): a relief print made from a design cut into a block of linoleum; all seven letters are different.
+- **Pangram 2** (8 letters, starts with L): a manner of speaking or a set phrase; O appears twice and the ending is -ion.
 
-Look for doubles. Watch for them. A repeated letter sits side by side in 17 of Friday's 47 answers. Also, 17 of the 47 answers start with L, and 25 of them are four-letter words.
+The two largest opening pairs are *lo* with 10 answers and *co* with 8, which together cover 18 of the 47 words. Try every word you can build from those two starts before moving on.
 
-More of Friday's games: [Wordle hints](/news/wordle-hint-answer-today-november-6-2026-1966/), [Connections hints](/news/nyt-connections-hints-answers-november-6-2026-1244/) and [Pips hints](/news/nyt-pips-hints-answers-november-6-2026/). Track a Genius streak on our [printable weekly calendar](/printable-weekly-calendar.html) or the [November 2026 calendar](/november-calendars.html).
+## Where the points hide on Nov. 6
+
+The 25 four-letter words are more than half of the 47 answers but only 25 of the 178 points. Genius needs 100 more, and the 22 longer words plus both bonuses supply 153.
+
+| Length | Words | Points each | Points |
+|---|---|---|---|
+| 4 letters | 25 | 1 | 25 |
+| 5 letters | 8 | 5 | 40 |
+| 6 letters | 6 | 6 | 36 |
+| 7 letters | 4 | 7 | 28 |
+| 8 letters | 1 | 8 | 8 |
+| 9 letters | 3 | 9 | 27 |
+| Pangram bonus | 2 | 7 | 14 |
+
+Pairs that open exactly one word: *il*, *no*, *nu*, *ol*. Also, 17 of the answers double a letter back to back, and 4 of the words start with O.
+
+## Thursday in brief
+
+The Nov. 5 puzzle used P as its center and had 42 words for 249 points. Pivoting was the pangram.
+
+More games for Friday: [Wordle hints](/news/wordle-hint-answer-today-november-6-2026-1966/), [Connections hints](/news/nyt-connections-hints-answers-november-6-2026-1244/), [Pips hints](/news/nyt-pips-hints-answers-november-6-2026/). A habit tracker fits on the [weekly calendar](/printable-weekly-calendar.html), and November's dates are on the [monthly page](/november-calendars.html).
 
 ## Friday's Spelling Bee answers, Nov. 6, 2026 (spoilers)
 
@@ -97,33 +101,3 @@ Stop here if you are still working on Friday's puzzle.
 - **9 letters:** Cotillion, Nonillion, Octillion
 
 The 25 four-letter words give 25 points, the 22 longer words give 139, and the two pangram bonuses add 14, for 178.
-
-## Thursday's hint grid, Nov. 5, 2026
-
-Center letter P; outer letters G, I, N, O, T, V. 42 words, 249 points, one pangram.
-
-| Starts with | 4 letters | 5 letters | 6 letters | 7 letters | 8 letters | 9 letters | 11 letters | Total |
-|---|---|---|---|---|---|---|---|---|
-| G | 1 | - | - | - | - | - | - | 1 |
-| N | - | - | - | 1 | - | - | - | 1 |
-| O | - | - | 2 | 2 | - | 1 | - | 5 |
-| P | 5 | 6 | 5 | 9 | 3 | 1 | 1 | 30 |
-| T | 1 | - | 2 | 2 | - | - | - | 5 |
-| Total | 7 | 6 | 9 | 14 | 3 | 2 | 1 | 42 |
-
-Two-letter starts: GO-1, NI-1, OP-5, PI-19, PO-11, TI-3, TO-2.
-
-## Thursday's Spelling Bee answers, Nov. 5, 2026 (spoilers)
-
-Stop here if you are still working on Thursday's puzzle.
-
-- **Pangram:** Pivoting
-- **4 letters:** Goop, Ping, Pint, Pogo, Pong, Poop, Tipi
-- **5 letters:** Pinot, Pinto, Pipit, Piton, Pivot, Point
-- **6 letters:** Opting, Option, Pining, Pinion, Piping, Pippin, Potion, Tiptop, Toping
-- **7 letters:** Nipping, Opining, Opinion, Pigging, Pinging, Pinning, Pitting, Pogoing, Pontoon, Pooping, Popping, Potting, Tipping, Topping
-- **8 letters:** Pinpoint, Pivoting, Pointing
-- **9 letters:** Optioning, Pinioning
-- **11 letters:** Pinpointing
-
-The 7 four-letter words give 7 points, the 35 longer words give 235, and the pangram bonus adds 7, for 249.

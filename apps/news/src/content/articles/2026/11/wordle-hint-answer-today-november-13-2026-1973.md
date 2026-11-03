@@ -1,7 +1,7 @@
 ---
-title: "Wordle Hints and Answer Today, #1973 for Friday, Nov. 13, 2026: Six Clues Before the Reveal"
-seoTitle: "Wordle Hint Today, #1973 (Nov. 13, 2026): Clues & Answer"
-description: "Wordle #1973 for Friday, Nov. 13, 2026: six graded clues, from the letter pattern to a strong nudge, then the answer in a spoiler section at the end."
+title: "Wordle Hints for Friday, Nov. 13, 2026: Puzzle #1973 and a Rare X"
+seoTitle: "Wordle #1973 Hints, Friday Nov. 13, 2026 and Answer"
+description: "Hints for Wordle #1973 on Friday, Nov. 13, 2026, including its uncommon letter in the middle, with the answer and a rarity check saved for the spoiler section."
 type: explainer
 publishedAt: "2026-11-12T00:05:00-05:00"
 authors: [news-desk]
@@ -14,19 +14,17 @@ hero:
   title: "Wordle #1973 hints, Nov. 13, 2026"
   caption: "Wordle #1973 for Friday, Nov. 13, 2026; graded clues come first and the answer only in the final section."
 summary:
-  - "Today's Wordle is puzzle #1973, for Friday, Nov. 13, 2026, from The New York Times."
-  - "The answer has three vowel letters and no repeated letter, so every tile is a different letter."
-  - "Six clues below go from gentle to strong, each one hidden until you open it."
-  - "The answer is in the last section, marked as a spoiler."
+  - "Friday, Nov. 13, 2026, brings Wordle #1973 from The New York Times."
+  - "The middle letter is one of the least used in the alphabet."
+  - "Hints cover the meaning, the ending and a nearby spelling trap."
+  - "How rare the vowel layout is gets counted in the spoiler section."
 faq:
-  - q: "What number is today's Wordle?"
-    a: "Wordle #1973, for Friday, Nov. 13, 2026."
-  - q: "Does today's Wordle have a repeated letter?"
-    a: "No. All five letters are different. The vowels are O in the second spot, I in the fourth and E in the fifth."
+  - q: "How rare is the consonant and vowel layout of #1973?"
+    a: "Only 34 of the 1,973 earlier answers follow it."
   - q: "What is the Wordle answer for Nov. 13, 2026?"
     a: "Spoiler: Moxie."
-  - q: "When does the next Wordle come out?"
-    a: "At midnight in your local time. Saturday's puzzle is #1974."
+  - q: "When does the next Wordle open?"
+    a: "Saturday's, #1974, opens at midnight local time on Nov. 14, 2026."
 sources:
   - title: "Wordle"
     url: "https://www.nytimes.com/games/wordle/index.html"
@@ -39,35 +37,33 @@ internalLinks:
 related: [nyt-connections-hints-answers-november-13-2026-1251, nyt-strands-hints-answers-november-13-2026-985, nyt-pips-hints-answers-november-13-2026]
 draft: false
 ---
-**Today's Wordle from The New York Times (NYT) is puzzle #1973, for Friday, Nov. 13, 2026, edited by Tracy Bennett.** Three of its five letters are vowels, and one of the two consonants is a letter most starting words never try. Take the clues one at a time, and only scroll to the last section if you want the answer itself.
-
-## How Wordle works
-
-You get six tries to find a five-letter word. After each guess, a green tile means the right letter in the right spot, yellow means the letter is in the word but in another spot, and gray means it is not in the word at all. A letter that appears twice is only marked twice if you guess it twice. Gray tiles matter too.
+**Friday the 13th brings Wordle #1973, dated Nov. 13, 2026, to The New York Times (NYT) game, edited by Tracy Bennett.** Its two final letters are both vowels, a combination seldom seen at the back. The [Wordle hub](/news/topic/wordle/#how-it-works) covers the rules.
 
 ## Six clues, gentle to strong
 
-1. **Part of speech:** it is a noun.
-2. **Topic:** courage and spirit, especially the bold, cheeky kind.
-3. **Vowels:** three vowel letters: O in the second spot, I in the fourth and E in the fifth.
-4. **Repeated letter:** none. All five letters are different.
-5. **First letter:** M.
-6. **Strong nudge:** the middle letter is X. Someone with nerve and get-up-and-go has plenty of it.
+1. **Ends with:** two vowels, I and E.
+2. **Third letter:** X.
+3. **Starts with:** M, then O.
+4. **Part of speech:** a noun.
+5. **Meaning:** nerve, spirit, a gutsy way of facing a challenge.
+6. **Register:** informal.
 
 ## Guessing tips for today
 
-Because no letter repeats, each new guess should use five letters you have not tried yet, so no tile is wasted. With this many vowels, a vowel-heavy opener pays off fast; once the vowels are placed, only the consonants are left. Use gray tiles as much as green ones.
+The rare middle letter will not turn up by chance. If your first rows give you the opening pair, test the middle slot instead of tweaking the ending. Two vowels at the back make a guess ending in a common vowel likely to light up.
 
-Keep your streak on our [printable weekly calendar](/printable-weekly-calendar.html) or the [November 2026 printable calendar](/november-calendars.html).
-
-More of today's puzzles: [Connections hints](/news/nyt-connections-hints-answers-november-13-2026-1251/), [Strands hints](/news/nyt-strands-hints-answers-november-13-2026-985/) and [Pips hints](/news/nyt-pips-hints-answers-november-13-2026/).
+Same-day puzzle pages: [Connections](/news/nyt-connections-hints-answers-november-13-2026-1251/), [Strands](/news/nyt-strands-hints-answers-november-13-2026-985/), [Pips](/news/nyt-pips-hints-answers-november-13-2026/). Mark your own streak on the [printable weekly calendar](/printable-weekly-calendar.html).
 
 ## Today's Wordle answer (spoilers)
 
-Stop here if you still want to solve it yourself.
+Hints end here, and the answer begins.
 
 **The answer to Wordle #1973 is Moxie.**
 
-Moxie is an informal word for courage, nerve and determination. The letters are M, O, X, I and E, each used once.
+Moxie is energy, nerve and know-how.
 
-We checked the answer against the puzzle's official data before posting. Wordle #1974 arrives at midnight.
+## Answer history check (spoilers)
+
+The data for #0 to #1972 shows no earlier use. Its pattern, consonant, vowel, consonant, vowel, vowel, fits only 34 earlier answers. Twenty-nine began with M and O, and seven ended with I and E. One earlier answer matches it in four places, Movie (#271). Motif (#1872), Toxin (#1001), Mouse (#709) and Toxic (#624) match in three. X stood third in only 10 earlier answers, while the closing E ended 391.
+
+Wordle #1974 follows at midnight.
