@@ -76,7 +76,7 @@ Where the cost goes and how a run keeps it low (`docs/NEWS-COST-GUIDE.md`):
 
 ## Queues
 
-Each writer has one queue file: `docs/desk/w1.md`, `docs/desk/w2.md`, `docs/desk/w3.md`. The code and puzzle-feature items in `docs/NEWS-BACKLOG.md` belong to the manager (routine D is paused). A writer reads and edits only its own file, and only its "Queue" items. The research desk (`r`) and the manager add, reorder and remove items in every file, committing straight to `main` (docs only). The search desk (`s`) adds "Updates" items (SEO briefs) at the top of the "Updates" section in every file and nothing else. The update desk (`u`) takes and ticks the "Updates" items of every file. `docs/desk/research-log.md` is the research desk's record: what each run added, unblocked or turned down, so no run checks the same topic twice.
+Each writer has one queue file: `docs/desk/w1.md`, `docs/desk/w2.md`, `docs/desk/w3.md`. The code and puzzle-feature items in `docs/NEWS-BACKLOG.md` belong to the manager (routine D is paused). A writer reads and edits only its own file, and only its "Queue" items. The research desk (`r`) and the manager add, reorder and remove items in every file, committing straight to `main` (docs only). The search desk (`s`) adds "Updates" items (SEO briefs) at the top of the "Updates" section in every file and, since Nov. 3, 2026, new-story items from search data at the top of the "Queue" section ("Search routine"). The update desk (`u`) takes and ticks the "Updates" items of every file. `docs/desk/research-log.md` is the research desk's record: what each run added, unblocked or turned down, so no run checks the same topic twice.
 
 **Where new stories come from, in order:** (1) unticked items in the "Queue" section of the writer's file; (2) a due installment from its "Standing" section; (3) a topic the writer finds in its own beat with the `news-seo` skill, added to its file as a new item in the claim commit. A topic is never written when a story on `main`, an open pull request or a `claude/desk-*` branch already covers it.
 
@@ -238,7 +238,11 @@ Decides, every day, which published pages Search Console says are worth improvin
 
 - **Name:** `Search desk`. **Repository**, **cloud environment**, **new session each run**: as for the writers. Model: the strongest available (it judges what a searcher wants). It may run up to 5 web searches a run to see how the top results answer a query; nothing else needs a sub-agent.
 - **Schedule:** `CRON_TZ=America/New_York 40 5 * * *`, once a day (see "Schedule and cost").
-- **Files it may change:** `docs/desk/search-log.md`, `docs/desk/search-experiments.json`, `docs/desk/search-calendar-site.md` and the "Updates" sections of `docs/desk/w1.md`, `w2.md`, `w3.md` (add items at the top; never tick, edit or delete another desk's item). Never a story, code or any other file.
+- **Files it may change:** `docs/desk/search-log.md`, `docs/desk/search-experiments.json`, `docs/desk/search-calendar-site.md`, the "Updates" and "Queue" sections of `docs/desk/w1.md`, `w2.md`, `w3.md` (add items at the top; never tick, edit or delete another desk's item) and the "Owner's notes" of `docs/desk/research-log.md`. Never a story, code or any other file.
+- **Owner's mandate (Nov. 3, 2026):** the owner gave this desk the search decisions for /news/: which pages to improve and how (title, `seoTitle`, description, first sentence, sections, alt text), which new stories search data calls for, and which layout or template changes would raise clicks. Three surfaces, one desk:
+  1. **Briefs** (below), the core of every run.
+  2. **New stories from search data:** up to 5 "Queue" items a run, at the top of the beat's queue, each marked "(search desk, <date>)" and naming the pattern or query that calls for it. Before adding, check that no story on `main`, queue item or `claude/desk-*` branch covers it, and never a topic the calendar site already serves. These count inside the writers' phase volume; they never raise it.
+  3. **Layout and templates** (story page, news home, hubs, the calendar site): ideas go to `docs/desk/search-calendar-site.md` for the manager with the page, the data behind it and how to measure it; the desk never changes code.
 
 **What it decides, in order** (at most 10 new briefs a run, the largest gain first):
 
