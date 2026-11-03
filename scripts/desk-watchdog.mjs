@@ -193,6 +193,12 @@ for (const [code, name] of [["r", "Research desk"], ["u", "Update desk"]]) {
     || recent.some((p) => code === "u" && p.title.startsWith("[U]") && NOW - Date.parse(p.createdAt) < SILENT);
   if (!lately) attention.push(`${name} (${code}): no run on record for ${SILENT / H} hours; check its routine`);
 }
+// The daily Search Console read (.github/workflows/search-console.yml) commits its data to main; a
+// file older than 3 days means the job or its credentials failed. Checked only once a file exists.
+try {
+  const sc = JSON.parse(git("show", "origin/main:docs/desk/search-console.json"));
+  if (NOW - Date.parse(sc.generatedAt) > 3 * 24 * H) attention.push(`Search Console data is ${ago(Date.parse(sc.generatedAt))} old; check the "Search Console" workflow and its secrets`);
+} catch { /* not set up yet */ }
 const blocked = [...items].filter(([, it]) => it.state === "blocked")
   .map(([id, it]) => `- ${it.writer.toUpperCase()} \`${id}\` ${it.text.match(/^\(([^)]*)\)/)?.[1] ?? ""}`);
 
