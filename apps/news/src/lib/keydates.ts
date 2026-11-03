@@ -9,6 +9,12 @@ export interface KeyDate {
   label: string;
   /** Article slug that covers it. */
   slug: string;
+  /**
+   * Rank within its day on the home page's "Coming up" (higher first, default 0). That box shows
+   * at most two rows a day, so a busy day (Election Day had 20 rows) otherwise keeps whichever two
+   * come first in this file. Give it to the day's main event: an election, a federal holiday.
+   */
+  weight?: number;
 }
 
 export const KEY_DATES: KeyDate[] = [
@@ -334,7 +340,7 @@ export const KEY_DATES: KeyDate[] = [
   { date: "2026-11-02", label: "Día de los Muertos", slug: "day-of-the-dead-2026-dia-de-los-muertos-dates" },
   { date: "2026-10-23", label: "Texas mail ballot applications due", slug: "texas-election-calendar-2026-early-voting-dates-deadlines" },
   { date: "2026-10-30", label: "Last day of early voting in Texas", slug: "texas-election-calendar-2026-early-voting-dates-deadlines" },
-  { date: "2026-11-03", label: "Election Day", slug: "sample-ballot-by-zip-code-2026-texas-ballot" },
+  { date: "2026-11-03", label: "Election Day", slug: "sample-ballot-by-zip-code-2026-texas-ballot", weight: 10 },
   { date: "2026-11-04", label: "Southern Taurid meteor shower peaks", slug: "november-2026-meteor-showers-taurids-leonids" },
   { date: "2026-11-06", label: "Dhanteras, first day of Diwali", slug: "diwali-2026-date-lakshmi-puja-time-usa" },
   { date: "2026-11-08", label: "Diwali and Lakshmi Puja", slug: "diwali-2026-date-lakshmi-puja-time-usa" },
@@ -505,7 +511,7 @@ export const KEY_DATES: KeyDate[] = [
   { date: "2026-10-27", label: "Pennsylvania mail ballot applications due, 5 p.m.", slug: "pennsylvania-2026-election-governor-mail-ballot-deadlines" },
   { date: "2026-10-27", label: "Mail your ballot by today (USPS advice)", slug: "mail-ballot-deadlines-2026-by-state" },
   { date: "2026-10-30", label: "Texas early voting ends; find your sample ballot by ZIP code", slug: "sample-ballot-by-zip-code-2026-texas-ballot" },
-  { date: "2026-11-03", label: "Polls close from 6 p.m. ET", slug: "what-time-do-polls-close-election-day-2026" },
+  { date: "2026-11-03", label: "Polls close from 6 p.m. ET", slug: "what-time-do-polls-close-election-day-2026", weight: 10 },
   { date: "2026-11-04", label: "Election results: when each state finishes counting", slug: "when-will-we-know-election-results-2026-midterms" },
   { date: "2026-11-27", label: "Black Friday: store opening times", slug: "black-friday-2026-store-hours-walmart-target-best-buy" },
   { date: "2026-12-24", label: "Christmas Eve: stores close early", slug: "christmas-eve-christmas-day-2026-store-hours" },
@@ -764,7 +770,7 @@ export function upcoming(published: Set<string>, limit = 6, now: Date = new Date
   // perDay caps rows per date, so one busy day does not fill the whole list.
   const seen = new Map<string, number>();
   return KEY_DATES.filter((k) => k.date >= today && published.has(k.slug))
-    .sort((a, b) => a.date.localeCompare(b.date))
+    .sort((a, b) => a.date.localeCompare(b.date) || (b.weight ?? 0) - (a.weight ?? 0))
     .filter((k) => { const n = (seen.get(k.date) ?? 0) + 1; seen.set(k.date, n); return n <= perDay; })
     .slice(0, limit)
     .map((k) => ({ ...k, days: daysUntil(k.date, today) }));
