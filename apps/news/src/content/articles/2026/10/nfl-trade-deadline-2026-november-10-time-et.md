@@ -77,7 +77,7 @@ internalLinks:
     label: "When is Thanksgiving?"
   - href: "/november-calendars.html"
     label: "November 2026 printable calendar"
-related: [nfl-week-10-schedule-2026-printable-pick-em-sheet-game-times, super-bowl-lxi-2027-date-sofi-stadium-channel-halftime, printable-nfl-schedule-2026-2027-pdf]
+related: [nfl-week-10-schedule-2026-printable-pick-em-sheet-game-times, fantasy-football-playoffs-2026-weeks-trade-deadlines-espn-yahoo-sleeper, printable-nfl-schedule-2026-2027-pdf]
 downloads:
   - group: "NFL Trade Deadline Countdown 2026 printables"
     title: "NFL Trade Deadline Countdown 2026"
