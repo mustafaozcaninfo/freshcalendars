@@ -158,6 +158,6 @@ College Board's exam pages do not say which other subjects are fully digital, so
 
 ## What about scores and late testing?
 
-AP scores come out in July 2027, according to College Board's AP Calendar; it has not yet announced the exact day, and its access schedule page says the 2027 access schedule will be available in the spring of 2027. College Board offers late testing for students who cannot test during the first two weeks of May. The 2027 late-testing dates are Monday, May 17 through Friday, May 21, 2027, with two sessions a day (Session 1 and Session 2, typically the morning and afternoon). College Board gives no clock times for them, so ask your AP coordinator when you are scheduled.
+AP scores come out in July 2027, according to College Board's AP Calendar; it has not yet announced the exact day. College Board offers late testing for students who cannot test during the first two weeks of May. The 2027 late-testing dates are Monday, May 17 through Friday, May 21, 2027, with two sessions a day (Session 1 and Session 2). College Board gives no clock times for them, so ask your AP coordinator when you are scheduled.
 
 Heading toward other tests this school year? See the [SAT and ACT dates for 2026-27](/news/sat-act-test-dates-2026-27-registration-deadlines/), the [Law School Admission Test (LSAT) dates and deadlines](/news/lsat-test-dates-2026-27-registration-deadlines/) and the [Medical College Admission Test (MCAT) 2027 schedule](/news/mcat-2027-test-dates-registration-opens-october-20/).
