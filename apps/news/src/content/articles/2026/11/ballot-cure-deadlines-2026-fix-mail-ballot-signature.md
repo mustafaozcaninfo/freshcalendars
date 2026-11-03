@@ -138,7 +138,7 @@ Dates are computed from each state's rule, with weekdays checked. The Colorado d
 | Oregon | Tue., Nov. 24 | Challenged ballot, such as a signature | "You will have until 21 days after the election to resolve the challenge with your county elections office." (Oregon Secretary of State) |
 | Minnesota | None after the election | Replacement ballot or voting in person | No cure process; see below (Minnesota Statutes 203B.121) |
 
-Nevada's tracker, [myballot.nv.gov](https://myballot.nv.gov/), shows ballot status. For Clark County the notice date and the state's sixth-day rule give the same date, Mon., Nov. 9.
+Nevada's tracker, [myballot.nv.gov](https://myballot.nv.gov/), shows ballot status. Voters in other Nevada counties should check the notice from their own county.
 
 ## Why is Arizona's missing-signature deadline Election Day?
 
@@ -162,7 +162,7 @@ The U.S. Election Assistance Commission (EAC) says "election night results are u
 4. **Canvass:** Officials complete the canvass, and in many states audits.
 5. **Certification:** The EAC says "once the canvass (and in many states, audits) has been completed, the election results are certified as final." It adds that "state and local election officials are the authorities on election certification dates."
 
-For those dates, see [when 2026 election results are certified by state](/news/when-are-2026-election-results-certified-deadlines-by-state/). California's official canvass runs from 11/5/26 to 12/3/26, according to the California Secretary of State's general election calendar (revised Sept. 24, 2026). If you are still holding a ballot, our story on [dropping off a mail-in ballot on Election Day](/news/can-i-drop-off-my-mail-in-ballot-on-election-day-2026/) covers that.
+For those dates, see [when 2026 election results are certified by state](/news/when-are-2026-election-results-certified-deadlines-by-state/). California's official canvass runs from Thu., Nov. 5 to Thu., Dec. 3, 2026, according to the California Secretary of State's general election calendar (revised Sept. 24, 2026). If you are still holding a ballot, our story on [dropping off a mail-in ballot on Election Day](/news/can-i-drop-off-my-mail-in-ballot-on-election-day-2026/) covers that.
 
 ## What is the 45-day rule for military and overseas voters?
 

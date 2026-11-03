@@ -4,7 +4,7 @@ seoTitle: "Early Voting 2026: End Dates by State"
 description: "Early voting ended by Nov. 1 in the 11 states covered here, with dates and hours by state. Election Day is tomorrow, Tuesday, Nov. 3, 2026."
 type: news
 publishedAt: "2026-10-22T01:36:00-04:00"
-updatedAt: "2026-11-03T09:15:00-05:00"
+updatedAt: "2026-11-03T08:30:00-05:00"
 authors: [christina-gerland]
 category: elections
 keywords: ["early voting 2026", "which states have early voting", "early voting dates by state", "early voting now"]
