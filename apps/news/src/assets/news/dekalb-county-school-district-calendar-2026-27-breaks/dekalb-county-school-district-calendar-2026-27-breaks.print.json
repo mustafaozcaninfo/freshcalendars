@@ -1,28 +1,9 @@
 {
+  "v": 2,
   "kit": "school-year",
   "hash": "70b742afa644a4e8",
   "files": [
     "/news/downloads/dekalb-schools-2026-27/dekalb-county-schools-calendar-2026-27.pdf"
   ],
-  "computed": [
-    "Aug 0",
-    "Aug 1",
-    "Sep 1",
-    "Sep 5",
-    "Oct 5",
-    "Oct 5",
-    "Nov 5",
-    "Nov 9",
-    "Dec 9",
-    "Dec 3",
-    "Jan 3",
-    "Jan 5",
-    "Feb 5",
-    "Feb 1",
-    "Mar 1",
-    "Mar 5",
-    "Apr 5",
-    "Apr 0",
-    "May 0"
-  ]
+  "computed": []
 }
