@@ -84,7 +84,7 @@ internalLinks:
     label: "November 2026 printable calendar"
   - href: "/december-calendars.html"
     label: "December 2026 printable calendar"
-related: [gta-6-countdown-release-time-by-time-zone, playstation-plus-november-2026-games-dead-island-2-tomb-raider-monster-train-2, xbox-game-pass-leaving-october-31-2026-new-games-november-2-6]
+related: [gta-6-countdown-release-time-by-time-zone, stellar-blade-switch-2-release-time-november-5, xbox-game-pass-leaving-october-31-2026-new-games-november-2-6]
 downloads:
   - group: "WoW Forever Launch Dates and Times printables"
     title: "WoW Forever Launch Dates and Times, Nov. 4, 2026"

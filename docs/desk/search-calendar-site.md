@@ -1,0 +1,11 @@
+# Calendar site: search notes for the manager
+
+Written by the search desk (`s`) for pages outside `/news/` (printable calendars, `/when-is/`, holiday pages). They come from the generator (shared code), so the desk files no update item: each entry names the page, the query, the position and click rate, and the title, description or H1 template change it suggests. Newest first. The manager makes the change in `packages/generator` and strikes the entry.
+
+## 2026-11-03
+
+- **/september-calendars.html**: "september 2027 calendar", 1,178 impressions at position 9, 2 clicks (0.2%); the page has 2,095 impressions and 5 clicks in 28 days. Searchers ask for a future year the month page also serves. Suggest the month-page title template name the next year too ("September 2026 and 2027 Calendar: Free Printable PDF") and the description say which years are on the page. Same check for the other month pages: /march-calendars.html (576 at 7.7), /august-calendars.html (401 impressions at 7.9, 0 clicks), /november-calendars.html (180 at 8.3, 0 clicks).
+- **/when-is/christmas-day/**: "christmas 2026 date", 712 impressions at position 10.7, 0 clicks; page 2,182 impressions, 1 click. A date Google answers itself, so a title will win little; suggest the /when-is/ template lead with the weekday and the countdown ("Christmas 2026 Is Friday, Dec. 25: Days Left and What's Closed") and add what the box cannot give (closures, printable). Low priority.
+- **/when-is/thanksgiving/** (514 impressions at 24.6, 0 clicks) and the news story /news/why-thanksgiving-2026-is-november-26/ (218,364 impressions at 3.4) answer the same query. The news page wins; manager's decision whether /when-is/thanksgiving/ should link prominently to it or keep a different angle (every year's date). No merge or redirect suggested.
+- **/canada-holidays/**: 979 impressions at position 27.5, 0 clicks, while /news/canada-statutory-holidays-2027-federal-general-holidays/ ranks 3.4 to 7.5 for the same queries. Same question as above: link from the calendar page to the news story.
+- Volume: every sampled story (90 of 90) is indexed and all three sitemaps have 0 errors. No volume signal against phase 1; nothing for the phase line before Monday.
