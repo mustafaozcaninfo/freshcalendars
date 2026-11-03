@@ -91,7 +91,8 @@ test("a weekday written after the date is checked too", () => {
 });
 
 /** Kit context with two sources and the school theme; fonts are not needed to validate. */
-const kctx = (category = "school-calendars") => ({ storySlug: "s", category, sources: [{ url: "https://a.gov/x", publisher: "A" }, { url: "https://b.gov/y", publisher: "B" }], theme: THEMES[category]!, fonts: "" });
+/** Published before QUOTE_SINCE, so these fixtures need no quotes; the quote rule has its own test. */
+const kctx = (category = "school-calendars", publishedAt = "2026-11-01T09:00:00-05:00") => ({ storySlug: "s", category, sources: [{ url: "https://a.gov/x", publisher: "A" }, { url: "https://b.gov/y", publisher: "B" }], theme: THEMES[category]!, fonts: "", publishedAt });
 
 test("school-year refuses bad dates, unknown sources, overlaps and a weekend holiday", () => {
   const k = KITS["school-year"]!;
@@ -170,4 +171,32 @@ test("categories with a kit must use it or say why not", () => {
   assert.equal(kitProblem("school-calendars", { noKit: "registration rules by district, not a calendar" }), null);
   assert.equal(kitProblem("holidays", { rows: [] }), null);
   for (const kits of Object.values(KIT_FOR_CATEGORY)) for (const k of kits) assert.ok(KITS[k], `${k} is a real kit`);
+});
+
+test("new stories quote the source, and the quote must hold the date and time", () => {
+  const ctx = kctx("sports", "2026-11-10T09:00:00-05:00");
+  const k = KITS["watch-guide"]!;
+  const ev = (quote?: string) => ({ events: [{ start: "2026-11-18T20:00-05:00", title: "Game", src: 1, ...(quote ? { quote } : {}) }] });
+  assert.throws(() => k.validate(ev(), ctx), /add quote/);
+  assert.throws(() => k.validate(ev("Wednesday, Nov. 19 at 8 p.m. ET"), ctx), /does not say Nov\. 18/);
+  assert.throws(() => k.validate(ev("Wednesday, Nov. 18 at 9 p.m. ET"), ctx), /does not say 20:00/);
+  assert.doesNotThrow(() => k.validate(ev("Wednesday, Nov. 18 at 8 p.m. ET on ABC"), ctx));
+  assert.doesNotThrow(() => k.validate(ev("Nov. 18, 8/7c, ABC"), ctx));
+  const s = KITS["school-year"]!;
+  const sy = (quote: string) => ({ start: "2026-08", months: 10, events: [{ from: "2026-12-21", to: "2027-01-04", kind: "break", label: "Winter break", src: 1, quote }] });
+  assert.throws(() => s.validate(sy("Winter break begins Dec. 21"), kctx("school-calendars", "2026-11-10T09:00:00-05:00")), /does not say Jan\. 4/);
+  assert.doesNotThrow(() => s.validate(sy("Winter Break: December 21, 2026 - January 4, 2027"), kctx("school-calendars", "2026-11-10T09:00:00-05:00")));
+});
+
+test("a UTC offset that no zone uses that day is refused (daylight saving time slips)", () => {
+  const k = KITS["watch-guide"]!;
+  const ev = (start: string) => ({ events: [{ start, title: "Game", src: 1 }] });
+  // Daylight saving time ended Nov. 1, 2026: -04:00 on Nov. 18 is a typo for -05:00.
+  assert.throws(() => k.validate(ev("2026-11-18T20:00-04:00"), kctx("sports")), /Eastern Time is -05:00 that day/);
+  assert.doesNotThrow(() => k.validate(ev("2026-10-18T20:00-04:00"), kctx("sports")));
+  assert.doesNotThrow(() => k.validate(ev("2026-11-18T20:00-08:00"), kctx("sports")));
+  assert.doesNotThrow(() => k.validate(ev("2026-11-21T15:00Z"), kctx("sports")));
+  assert.throws(() => k.validate(ev("2026-07-04T20:00-03:30"), kctx("sports")), /not the clock of any/);
+  // Atlantic time (-04:00 in winter) is a real clock for uk-canada stories only.
+  assert.doesNotThrow(() => k.validate(ev("2026-11-18T20:00-04:00"), kctx("uk-canada")));
 });

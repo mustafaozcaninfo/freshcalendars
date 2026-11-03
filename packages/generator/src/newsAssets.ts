@@ -258,7 +258,7 @@ export async function buildNewsAssets(slug: string): Promise<void> {
   let kitName: string, computed: string[] = [];
   if (p.kit) {
     const kit = kitFor(p.kit);
-    const ctx: KitContext = { storySlug: slug, category: f.category, sources: f.sources ?? [], theme: themeFor(f.category), fonts };
+    const ctx: KitContext = { storySlug: slug, category: f.category, sources: f.sources ?? [], theme: themeFor(f.category), fonts, publishedAt: f.publishedAt };
     const out = kit.render(kit.validate(p.data, ctx), p as unknown as KitPrintable, ctx);
     for (const w of out.warnings) console.warn(`printable: ${w}`);
     if (!/\b20\d\d\b/.test(p.title)) console.warn("printable: put the year in the printable title");

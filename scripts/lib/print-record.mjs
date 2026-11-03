@@ -94,6 +94,8 @@ export function factTokens(text, { iso = false, story = false } = {}) {
     if (Number(m[1]) > 12) continue;
     out.add(`t:${String(h).padStart(2, "0")}:${m[2] ?? "00"}`);
   }
+  // TV listings' "8/7c": 8 p.m. Eastern, 7 p.m. Central (prime time is always evening).
+  if (story) for (const m of t.matchAll(/\b(\d{1,2})(?::(\d{2}))?\/(\d{1,2})(?::\d{2})?c\b/g)) out.add(`t:${String((Number(m[1]) % 12) + 12).padStart(2, "0")}:${m[2] ?? "00"}`);
   if (story) for (const m of t.matchAll(/\b([01]?\d|2[0-3]):([0-5]\d)\b(?!\s*[ap]\.?\s?m)/g)) out.add(`t:${m[1].padStart(2, "0")}:${m[2]}`);
   for (const m of t.matchAll(/\b(noon|midnight)\b/g)) out.add(m[1] === "noon" ? "t:12:00" : "t:00:00");
   for (const m of t.matchAll(/\$\s?(\d[\d,]*(?:\.\d+)?)/g)) out.add(`$:${Number(m[1].replace(/,/g, ""))}`);
