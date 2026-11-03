@@ -97,7 +97,7 @@ sources:
     url: "https://www.capcom.co.jp/ir/english/news/html/e260910.html"
     publisher: "Capcom"
     date: "2026-09-10"
-  - title: "ID@Xbox and IGN showcase, October 2026"
+  - title: "ID@Xbox and IGN games presentation, October 2026"
     url: "https://news.xbox.com/en-us/2026/10/20/id-xbox-ign-showcase-october-2026/"
     publisher: "Xbox Wire"
     date: "2026-10-20"
@@ -184,4 +184,4 @@ Golf With Your Friends 2 from Team17 is listed only for "fall 2026," so it has n
 
 ## Print the December 2026 video game release calendar
 
-The printable marks the 14 games on a December 2026 grid, with the Dec. 3 releases grouped into three lines, and names the same publishers as this story. Tick off each game as it ships.
+The printable marks the 14 games on a December 2026 grid, with the Dec. 3 releases grouped into three lines, and names the same publishers as this story. It lists the dates publishers had confirmed as of Nov. 3, 2026. Tick off each game as it ships.

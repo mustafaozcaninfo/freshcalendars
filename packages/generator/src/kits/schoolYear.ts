@@ -104,6 +104,10 @@ export const schoolYear: Kit<SchoolYear> = {
         <text x="${x + bw / 2}%" y="72" text-anchor="middle" font-family="Manrope" font-weight="700" font-size="8.5" fill="${t.muted}">${lab}</text>`;
     }).join("");
     const chart = `<div class="box chart"><h3>Weekdays with no school, by month</h3><svg width="100%" height="78" aria-hidden="false" role="img"><title>Weekdays with no school by month</title>${bars}</svg></div>`;
+    // The PDF's text reads the bars in drawing order, "0 Aug 1 Sep 5 Oct", so a month label and the
+    // next bar's count look like a date ("Aug 1"). Both are worked out here, so record the text as
+    // computed and the fact check (10-PDF-FACTS) does not ask the story to print it.
+    const computed = [perMonth.map(([lab, n]) => `${n} ${lab}`).join(" ")];
     const css = `${baseCss(t, landscape)}
     .yr{display:grid;grid-template-columns:repeat(4,1fr);gap:calc(8px*var(--s)) 12px}
     .mo h2{font-family:Sora;font-size:calc(11px*var(--s));margin:0 0 2px;color:${t.ink}}
@@ -124,6 +128,6 @@ export const schoolYear: Kit<SchoolYear> = {
     .chart{margin-top:calc(10px*var(--s))}`;
     const body = `${header(t, p.title, p.subtitle)}${tiles(stat)}<div class="yr">${grids.join("")}</div>
       ${chart}<div class="side">${key}${unconfirmedBox(k.unconfirmed) || fillLines("More dates", ["", ""])}${fillLines("My family's dates", k.family)}</div>${notes(p.notesLabel)}`;
-    return { html: page(ctx, size, css, body, p.note), size, computed: [], warnings: [] };
+    return { html: page(ctx, size, css, body, p.note), size, computed, warnings: [] };
   },
 };
