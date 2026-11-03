@@ -1,29 +1,32 @@
 #!/usr/bin/env node
-// Search Console for the desk: what Google shows and clicks, the gate numbers of docs/DESK.md
-// ("Volume and growth policy") and the stories worth improving. Runs daily in
+// Search Console for the desk: what Google shows and clicks in web, image and Discover results, the
+// gate numbers of docs/DESK.md ("Volume and growth policy"), the stories worth improving, and what
+// the title and snippet changes of the search desk did. Runs daily in
 // .github/workflows/search-console.yml with a read-only service account (GSC_SERVICE_ACCOUNT_JSON,
-// GSC_SITE, e.g. "sc-domain:freshcalendars.com"), and writes two files the research and update
-// desks read from main:
-//   docs/desk/search-console.json   the data (small: top pages, query/page opportunities, weekly totals)
+// GSC_SITE, e.g. "sc-domain:freshcalendars.com"), and writes two files the desks read from main:
+//   docs/desk/search-console.json   the data
 //   docs/desk/search-console.md     the same in words, with the gate numbers
 // Search Console data is 2 to 3 days late, so every window ends 3 days before today.
 // Without the secrets, or when Google fails, it warns and exits 0 and leaves the last files as they are.
 import { createSign } from "node:crypto";
-import { existsSync, readFileSync, readdirSync, writeFileSync } from "node:fs";
+import { readFileSync, readdirSync, writeFileSync } from "node:fs";
 import path from "node:path";
 
 const ROOT = path.resolve(import.meta.dirname, "..");
 const OUT_JSON = path.join(ROOT, "docs/desk/search-console.json");
 const OUT_MD = path.join(ROOT, "docs/desk/search-console.md");
+const EXPERIMENTS = path.join(ROOT, "docs/desk/search-experiments.json");
 const DAY = 86_400_000;
 const LAG_DAYS = 3;
 const API = "https://www.googleapis.com/webmasters/v3/sites";
 const INSPECT = "https://searchconsole.googleapis.com/v1/urlInspection/index:inspect";
 const SCOPE = "https://www.googleapis.com/auth/webmasters.readonly";
+const NEWS_RE = "^https?://[^/]+/news/";
 
 // ── Pure helpers (tested in apps/news/test/gsc.test.ts) ────────────────────────────────────────
 
 export const ymd = (t) => new Date(t).toISOString().slice(0, 10);
+const round1 = (x) => Math.round(x * 10) / 10;
 
 /** Three consecutive 7-day windows ending `LAG_DAYS` before `now`: latest first. */
 export function windows(now = new Date()) {
@@ -51,22 +54,87 @@ export const expectedCtr = (pos) => (pos <= 1.5 ? 0.28 : pos <= 2.5 ? 0.15 : pos
 
 /**
  * Query and page pairs worth a better title, lede or section: enough impressions, a position that
- * can still win clicks (2.5 to 20; a page at 3.4 earning 0.02% has a title or snippet problem), and a click-through rate below what that position usually earns.
- * Ranked by the clicks missing.
+ * can still win clicks (2.5 to 20; a page at 3.4 earning 0.02% has a title or snippet problem), and
+ * a click-through rate below what that position usually earns. Ranked by the clicks missing.
  */
 export function opportunities(rows, { minImpressions = 80, limit = 40 } = {}) {
   return rows
     .filter((r) => r.impressions >= minImpressions && r.position >= 2.5 && r.position <= 20)
-    .map((r) => ({ query: r.keys[0], page: r.keys[1], impressions: r.impressions, clicks: r.clicks, position: Math.round(r.position * 10) / 10, missing: Math.round(r.impressions * Math.max(0, expectedCtr(r.position) - r.clicks / r.impressions)) }))
+    .map((r) => ({ query: r.keys[0], page: r.keys[1], impressions: r.impressions, clicks: r.clicks, position: round1(r.position), missing: Math.round(r.impressions * Math.max(0, expectedCtr(r.position) - r.clicks / r.impressions)) }))
     .filter((o) => o.missing >= 3)
     .sort((a, b) => b.missing - a.missing)
     .slice(0, limit);
+}
+
+/**
+ * Queries that show two or more of our pages (each with enough impressions): the pages compete with
+ * each other, so one of them may be merged into the other, retitled for a different query or linked
+ * to the stronger one. Dated series (a puzzle for every day) compete by nature: the desk judges.
+ */
+export function cannibalization(pairs, { minPage = 30, minTotal = 150, limit = 15 } = {}) {
+  const byQuery = new Map();
+  for (const r of pairs) {
+    if (r.impressions < minPage) continue;
+    const list = byQuery.get(r.keys[0]) ?? [];
+    list.push({ page: r.keys[1], impressions: r.impressions, clicks: r.clicks, position: round1(r.position) });
+    byQuery.set(r.keys[0], list);
+  }
+  return [...byQuery]
+    .map(([query, pages]) => ({ query, pages: pages.sort((a, b) => b.impressions - a.impressions), total: pages.reduce((s, p) => s + p.impressions, 0) }))
+    .filter((x) => x.pages.length >= 2 && x.total >= minTotal)
+    .sort((a, b) => b.total - a.total)
+    .slice(0, limit);
+}
+
+/** Pages that gained or lost the most clicks between two equal windows (`cur` and `prev` are page rows). */
+export function movers(cur, prev, { minClicks = 15, limit = 10 } = {}) {
+  const before = new Map(prev.map((r) => [r.keys[0], r]));
+  const after = new Map(cur.map((r) => [r.keys[0], r]));
+  const pages = [...new Set([...before.keys(), ...after.keys()])].map((page) => {
+    const a = after.get(page), b = before.get(page);
+    return { page, clicks: a?.clicks ?? 0, prevClicks: b?.clicks ?? 0, impressions: a?.impressions ?? 0, prevImpressions: b?.impressions ?? 0 };
+  });
+  const delta = (p) => p.clicks - p.prevClicks;
+  return {
+    decliners: pages.filter((p) => p.prevClicks >= minClicks && p.clicks <= p.prevClicks * 0.6).sort((a, b) => delta(a) - delta(b)).slice(0, limit),
+    risers: pages.filter((p) => p.clicks >= minClicks && p.clicks >= p.prevClicks * 1.6).sort((a, b) => delta(b) - delta(a)).slice(0, limit),
+  };
+}
+
+/** News pages that rank in web results but show no image result at all: hero alt text, filename or caption. */
+export function imageGaps(webPages, imagePages, { minImpressions = 150, limit = 15 } = {}) {
+  const hasImage = new Set(imagePages.map((r) => r.keys[0]));
+  return webPages
+    .filter((r) => section(r.keys[0]) === "news" && !r.keys[0].includes("/downloads/") && r.impressions >= minImpressions && !hasImage.has(r.keys[0]))
+    .sort((a, b) => b.impressions - a.impressions)
+    .slice(0, limit)
+    .map((r) => ({ page: r.keys[0], impressions: r.impressions, clicks: r.clicks, position: round1(r.position) }));
 }
 
 /** Even sample of `n` items (keeps order, spreads over the list). */
 export function sample(items, n) {
   if (items.length <= n) return items;
   return Array.from({ length: n }, (_, i) => items[Math.floor((i * items.length) / n)]);
+}
+
+const metrics = (rows) => {
+  const clicks = rows.reduce((s, r) => s + r.clicks, 0), impressions = rows.reduce((s, r) => s + r.impressions, 0);
+  const position = impressions ? rows.reduce((s, r) => s + r.position * r.impressions, 0) / impressions : 0;
+  return { clicks, impressions, ctr: impressions ? Math.round((clicks / impressions) * 10_000) / 100 : 0, position: round1(position) };
+};
+
+/**
+ * What one change did to one page: the 14 days before the change against the 14 days after it, the
+ * first day after left out (the change goes live during it). `rows` are the page's daily rows
+ * ({keys:[date, page], clicks, impressions, position}); `after` stays null until 14 full days past
+ * the change are in the data (the window ends 3 days before `now`).
+ */
+export function measureExperiment(rows, changedAt, now = new Date()) {
+  const t = Date.parse(changedAt);
+  const inRange = (from, to) => rows.filter((r) => r.keys[0] >= ymd(t + from * DAY) && r.keys[0] <= ymd(t + to * DAY));
+  const lastDay = Date.parse(ymd(now.getTime() - LAG_DAYS * DAY));
+  const ready = t + 14 * DAY <= lastDay;
+  return { before: metrics(inRange(-14, -1)), after: ready ? metrics(inRange(1, 14)) : null, daysAfter: Math.max(0, Math.floor((lastDay - t) / DAY)) };
 }
 
 /** The gate of docs/DESK.md as far as the API can say it; manual actions and security issues stay with the owner. */
@@ -99,28 +167,28 @@ async function accessToken(key) {
   return body.access_token;
 }
 
-async function post(url, token, body) {
-  const res = await fetch(url, { method: "POST", headers: { authorization: `Bearer ${token}`, "content-type": "application/json" }, body: JSON.stringify(body), signal: AbortSignal.timeout(60_000) });
+async function call(url, token, body) {
+  const res = await fetch(url, { method: body ? "POST" : "GET", headers: { authorization: `Bearer ${token}`, ...(body ? { "content-type": "application/json" } : {}) }, body: body ? JSON.stringify(body) : undefined, signal: AbortSignal.timeout(60_000) });
   const data = await res.json().catch(() => ({}));
   if (!res.ok) throw new Error(`${url.split("?")[0].split("/").slice(-2).join("/")}: ${res.status} ${data.error?.message ?? ""}`);
   return data;
 }
 
-async function searchAnalytics(site, token, { start, end, dimensions, filter, rowLimit = 1000 }) {
+async function searchAnalytics(site, token, { start, end, dimensions, filter, searchType = "web", rowLimit = 1000 }) {
   const rows = [];
   for (let startRow = 0; ; startRow += rowLimit) {
-    const body = { startDate: start, endDate: end, dimensions, rowLimit, startRow, dataState: "final" };
+    const body = { startDate: start, endDate: end, dimensions, rowLimit, startRow, dataState: "final", searchType };
     if (filter) body.dimensionFilterGroups = [{ filters: [filter] }];
-    const data = await post(`${API}/${encodeURIComponent(site)}/searchAnalytics/query`, token, body);
+    const data = await call(`${API}/${encodeURIComponent(site)}/searchAnalytics/query`, token, body);
     rows.push(...(data.rows ?? []));
     if ((data.rows ?? []).length < rowLimit || rows.length >= 10_000) return rows;
   }
 }
 
-/** Index status of one URL: "indexed", "not indexed" or "unknown". */
+/** Index status of one URL: "indexed", "not indexed" or "unknown", with Google's own state text. */
 async function inspect(site, token, url) {
   try {
-    const data = await post(INSPECT, token, { inspectionUrl: url, siteUrl: site });
+    const data = await call(INSPECT, token, { inspectionUrl: url, siteUrl: site });
     const r = data.inspectionResult?.indexStatusResult;
     if (!r) return { url, status: "unknown" };
     return { url, status: r.verdict === "PASS" ? "indexed" : "not indexed", state: r.coverageState };
@@ -129,7 +197,17 @@ async function inspect(site, token, url) {
   }
 }
 
-/** Stories published 7 to 21 days ago, read from the article files (slug, publishedAt). */
+/** Runs `fn` over `items` with `size` at a time. */
+async function pool(items, size, fn) {
+  const out = new Array(items.length);
+  let next = 0;
+  await Promise.all(Array.from({ length: Math.min(size, items.length) }, async () => {
+    while (next < items.length) { const i = next++; out[i] = await fn(items[i]); }
+  }));
+  return out;
+}
+
+/** Stories published 2 to 21 days ago, read from the article files (slug, age in days). */
 function recentStories(now = new Date()) {
   const dir = path.join(ROOT, "apps/news/src/content/articles");
   const out = [];
@@ -138,27 +216,37 @@ function recentStories(now = new Date()) {
       const p = path.join(d, f.name);
       if (f.isDirectory()) walk(p);
       else if (f.name.endsWith(".md")) {
-        const t = Date.parse(/^publishedAt:\s*"?([^"\n]+)/m.exec(readFileSync(p, "utf8"))?.[1] ?? "");
+        const text = readFileSync(p, "utf8");
+        const t = Date.parse(/^publishedAt:\s*"?([^"\n]+)/m.exec(text)?.[1] ?? "");
         const age = (now.getTime() - t) / DAY;
-        if (age >= 7 && age <= 21 && !/^draft:\s*true/m.test(readFileSync(p, "utf8"))) out.push({ slug: f.name.replace(/\.md$/, ""), t });
+        if (age >= 2 && age <= 21 && !/^draft:\s*true/m.test(text)) out.push({ slug: f.name.replace(/\.md$/, ""), t, age });
       }
     }
   })(dir);
   return out.sort((a, b) => a.t - b.t);
 }
 
+/** The experiments the search desk keeps in docs/desk/search-experiments.json: [{slug, changedAt, what}]. */
+function readExperiments() {
+  try {
+    return (JSON.parse(readFileSync(EXPERIMENTS, "utf8")).experiments ?? []).filter((e) => /^[a-z0-9-]+$/.test(e.slug) && /^\d{4}-\d{2}-\d{2}$/.test(e.changedAt)).slice(0, 40);
+  } catch {
+    return [];
+  }
+}
+
 // ── Report ─────────────────────────────────────────────────────────────────────────────────────
 
 const n = (x) => Math.round(x).toLocaleString("en-US");
-const pct = (x) => `${(x * 100).toFixed(1)}%`;
 const slugOf = (url) => url.replace(/^https?:\/\/[^/]+/, "");
 
 export function report(d) {
-  const w = (arr) => arr.map((x) => `${x.start}..${x.end}: ${n(x.clicks)} clicks, ${n(x.impressions)} impressions`).join(" | ");
+  const w = (arr) => (arr ?? []).map((x) => `${x.start}..${x.end}: ${n(x.clicks)} clicks, ${n(x.impressions)} impressions`).join(" | ");
+  const pageLine = (p) => `- ${slugOf(p.page)}: ${n(p.clicks)} clicks, ${n(p.impressions)} impressions${p.position ? `, position ${p.position}` : ""}`;
   const lines = [
     "# Search Console (generated, do not edit)",
     "",
-    `Read ${d.generatedAt.slice(0, 16)} UTC for ${d.site}. Windows end ${LAG_DAYS} days before the read (Search Console data is late). Source: \`scripts/news-gsc.mjs\`, daily.`,
+    `Read ${d.generatedAt.slice(0, 16)} UTC for ${d.site}. Windows end ${LAG_DAYS} days before the read (Search Console data is late). Source: \`scripts/news-gsc.mjs\`, daily. Web, image and Discover results are separate: each section says which.`,
     "",
     "## Gate for the phase decision (docs/DESK.md)",
     "",
@@ -166,26 +254,62 @@ export function report(d) {
     "",
     "## Weekly totals (latest first)",
     "",
-    `- /news/: ${w(d.weeks.news)}`,
-    `- Calendar site: ${w(d.weeks.calendar)}`,
+    `- /news/, web: ${w(d.weeks.news)}`,
+    `- /news/, image: ${w(d.weeks.newsImage)}`,
+    `- /news/, Discover: ${w(d.weeks.newsDiscover)}`,
+    `- Calendar site, web: ${w(d.weeks.calendar)}`,
+    `- Calendar site, image: ${w(d.weeks.calendarImage)}`,
     "",
-    "## Opportunities: ranking 2.5 to 20 with a click rate below what that position earns",
+    "## Web opportunities: ranking 2.5 to 20 with a click rate below what that position earns",
     "",
-    "Improve the title, the first sentence or a section of the page (an update item for the update desk), or answer the query in a new story (a queue item for the research desk). `missing` is the clicks per 28 days the page would gain at the usual rate.",
+    "An update item for the update desk (title, first sentence or a section), or a new story for the research desk when no page answers the query. `missing` is the clicks per 28 days the page would gain at the usual rate. A query Google answers itself (a date, a time) can show a large `missing` that no title will win.",
     "",
     ...d.opportunities.map((o) => `- ${o.missing} missing: "${o.query}" → ${slugOf(o.page)} (position ${o.position}, ${n(o.impressions)} impressions, ${o.clicks} clicks)`),
     "",
-    "## Top /news/ pages, last 28 days",
+    "## Pages that lost or gained clicks (last 14 days against the 14 before; web)",
     "",
-    ...d.pages.news.slice(0, 25).map((p) => `- ${slugOf(p.page)}: ${n(p.clicks)} clicks, ${n(p.impressions)} impressions, position ${p.position}`),
+    "Losing: " + (d.movers?.decliners?.length ? "" : "none"),
+    ...(d.movers?.decliners ?? []).map((p) => `- ${slugOf(p.page)}: ${p.prevClicks} → ${p.clicks} clicks (${n(p.prevImpressions)} → ${n(p.impressions)} impressions)`),
     "",
-    "## Top calendar-site pages, last 28 days",
+    "Gaining: " + (d.movers?.risers?.length ? "" : "none"),
+    ...(d.movers?.risers ?? []).map((p) => `- ${slugOf(p.page)}: ${p.prevClicks} → ${p.clicks} clicks (${n(p.prevImpressions)} → ${n(p.impressions)} impressions)`),
     "",
-    ...d.pages.calendar.slice(0, 15).map((p) => `- ${slugOf(p.page)}: ${n(p.clicks)} clicks, ${n(p.impressions)} impressions, position ${p.position}`),
+    "## Pages that compete with each other (one query, two or more of our pages; web, 28 days)",
     "",
-    "## Stories not indexed (sample of those published 7 to 21 days ago)",
+    ...(d.cannibalization?.length ? d.cannibalization.map((c) => `- "${c.query}" (${n(c.total)} impressions): ${c.pages.map((p) => `${slugOf(p.page)} ${n(p.impressions)} at ${p.position}`).join("; ")}`) : ["- none"]),
     "",
-    ...(d.indexed.notIndexed.length ? d.indexed.notIndexed.map((u) => `- ${slugOf(u.url)}${u.state ? ` (${u.state})` : ""}`) : ["- none in the sample"]),
+    "## Image search (28 days)",
+    "",
+    ...(d.image?.pages?.length ? d.image.pages.slice(0, 15).map(pageLine) : ["- no image data"]),
+    "",
+    "Ranking in web results but absent from image results (hero alt text, caption, file name):",
+    ...(d.image?.gaps?.length ? d.image.gaps.map((p) => `- ${slugOf(p.page)}: ${n(p.impressions)} web impressions, position ${p.position}`) : ["- none"]),
+    "",
+    "## Discover (28 days)",
+    "",
+    ...(d.discover?.pages?.length ? d.discover.pages.slice(0, 15).map(pageLine) : ["- no Discover data"]),
+    "",
+    "## Top /news/ pages, web, last 28 days",
+    "",
+    ...d.pages.news.slice(0, 25).map(pageLine),
+    "",
+    "## Top calendar-site pages, web, last 28 days",
+    "",
+    ...d.pages.calendar.slice(0, 15).map(pageLine),
+    "",
+    "## Indexing",
+    "",
+    `Sample of ${d.indexed.checked} stories published 2 to 21 days ago (the gate counts those 7 to 21 days old): ${Object.entries(d.indexed.states ?? {}).map(([k, v]) => `${v} ${k}`).join(", ") || "none"}.`,
+    "",
+    ...(d.indexed.notIndexed.length ? d.indexed.notIndexed.map((u) => `- not indexed: ${slugOf(u.url)}${u.state ? ` (${u.state}), ${u.age} days old` : ""}`) : ["- every sampled story is indexed"]),
+    "",
+    "## Sitemaps",
+    "",
+    ...(d.sitemaps?.length ? d.sitemaps.map((s) => `- ${slugOf(s.path)}: ${s.errors} errors, ${s.warnings} warnings, ${n(s.submitted)} URLs submitted, last read ${String(s.lastDownloaded ?? "never").slice(0, 10)}`) : ["- none listed"]),
+    "",
+    "## Experiments (title and snippet changes of the search desk, 14 days before against 14 days after)",
+    "",
+    ...(d.experiments?.length ? d.experiments.map((e) => `- ${e.slug} (changed ${e.changedAt}): before ${e.before.clicks} clicks, ${n(e.before.impressions)} impressions, CTR ${e.before.ctr}%, position ${e.before.position}; ${e.after ? `after ${e.after.clicks} clicks, ${n(e.after.impressions)} impressions, CTR ${e.after.ctr}%, position ${e.after.position}` : `after: not yet (${e.daysAfter} of 15 days)`}`) : ["- none running"]),
     "",
   ];
   return lines.join("\n");
@@ -202,37 +326,61 @@ async function main() {
     const wins = windows();
     const from = wins[2].start, to = wins[0].end;
     const q28 = { start: ymd(Date.parse(to) - 27 * DAY), end: to };
+    const cur14 = { start: ymd(Date.parse(to) - 13 * DAY), end: to }, prev14 = { start: ymd(Date.parse(to) - 27 * DAY), end: ymd(Date.parse(to) - 14 * DAY) };
+    const inNews = { dimension: "page", operator: "includingRegex", expression: NEWS_RE };
+    const notNews = { dimension: "page", operator: "excludingRegex", expression: NEWS_RE };
+    const daily = (filter, searchType) => searchAnalytics(site, token, { start: from, end: to, dimensions: ["date"], filter, searchType });
+    const experiments = readExperiments();
+    const expFrom = experiments.length ? ymd(Math.min(...experiments.map((e) => Date.parse(e.changedAt))) - 14 * DAY) : null;
     // Both sections are read with a page filter, so they count the same way (a search that shows
     // two of our pages counts once per page); the unfiltered daily total counts it once.
-    const [dailyCalendar, dailyNews, pages, pairs] = await Promise.all([
-      searchAnalytics(site, token, { start: from, end: to, dimensions: ["date"], filter: { dimension: "page", operator: "excludingRegex", expression: "^https?://[^/]+/news/" } }),
-      searchAnalytics(site, token, { start: from, end: to, dimensions: ["date"], filter: { dimension: "page", operator: "includingRegex", expression: "^https?://[^/]+/news/" } }),
-      searchAnalytics(site, token, { ...q28, dimensions: ["page"], rowLimit: 1000 }),
+    const [dailyCalendar, dailyNews, dailyNewsImage, dailyCalendarImage, dailyNewsDiscover, pages, pagesCur, pagesPrev, pairs, imagePages, discoverPages, sitemaps, expRows] = await Promise.all([
+      daily(notNews), daily(inNews), daily(inNews, "image"), daily(notNews, "image"), daily(inNews, "discover"),
+      searchAnalytics(site, token, { ...q28, dimensions: ["page"] }),
+      searchAnalytics(site, token, { ...cur14, dimensions: ["page"] }),
+      searchAnalytics(site, token, { ...prev14, dimensions: ["page"] }),
       searchAnalytics(site, token, { ...q28, dimensions: ["query", "page"], rowLimit: 5000 }),
+      searchAnalytics(site, token, { ...q28, dimensions: ["page"], searchType: "image" }),
+      searchAnalytics(site, token, { ...q28, dimensions: ["page"], searchType: "discover" }),
+      call(`${API}/${encodeURIComponent(site)}/sitemaps`, token).then((r) => r.sitemap ?? []).catch(() => []),
+      experiments.length
+        ? searchAnalytics(site, token, { start: expFrom, end: to, dimensions: ["date", "page"], rowLimit: 5000, filter: { dimension: "page", operator: "includingRegex", expression: `^https?://[^/]+/news/(${experiments.map((e) => e.slug).join("|")})/$` } })
+        : Promise.resolve([]),
     ]);
-    const newsWeeks = weeklyTotals(dailyNews, wins), calendarWeeks = weeklyTotals(dailyCalendar, wins);
-    const shape = (r) => ({ page: r.keys[0], clicks: r.clicks, impressions: r.impressions, position: Math.round(r.position * 10) / 10 });
+
+    const shape = (r) => ({ page: r.keys[0], clicks: r.clicks, impressions: r.impressions, position: round1(r.position) });
     const bySection = { news: [], calendar: [] };
-    for (const r of pages.sort((a, b) => b.clicks - a.clicks || b.impressions - a.impressions)) bySection[section(r.keys[0])].push(shape(r));
+    for (const r of [...pages].sort((a, b) => b.clicks - a.clicks || b.impressions - a.impressions)) bySection[section(r.keys[0])].push(shape(r));
+    const byClicks = (rows) => [...rows].sort((a, b) => b.clicks - a.clicks || b.impressions - a.impressions).map(shape);
 
-    const stories = sample(recentStories(), 30);
-    const base = (process.env.NEWS_SITE_ORIGIN ?? "https://freshcalendars.com");
-    const checked = [];
-    for (const s of stories) { checked.push(await inspect(site, token, `${base}/news/${s.slug}/`)); await new Promise((r) => setTimeout(r, 250)); }
+    // Indexing: up to 90 stories published 2 to 21 days ago, 5 requests at a time.
+    const base = process.env.NEWS_SITE_ORIGIN ?? "https://freshcalendars.com";
+    const stories = sample(recentStories(), 90);
+    const checked = (await pool(stories, 5, async (s) => ({ ...(await inspect(site, token, `${base}/news/${s.slug}/`)), age: Math.round(s.age) }))).filter(Boolean);
     const known = checked.filter((c) => c.status !== "unknown");
-    const indexed = { checked: known.length, indexed: known.filter((c) => c.status === "indexed").length, notIndexed: known.filter((c) => c.status === "not indexed"), unknown: checked.length - known.length };
+    const gateSample = known.filter((c) => c.age >= 7);
+    const states = {};
+    for (const c of known) states[c.state ?? c.status] = (states[c.state ?? c.status] ?? 0) + 1;
+    const indexed = { checked: gateSample.length, indexed: gateSample.filter((c) => c.status === "indexed").length, notIndexed: known.filter((c) => c.status === "not indexed").slice(0, 25), states, unknown: checked.length - known.length };
 
+    const newsWeeks = weeklyTotals(dailyNews, wins);
     const data = {
       generatedAt: new Date().toISOString(), site, windows: wins,
-      weeks: { news: newsWeeks, calendar: calendarWeeks },
+      weeks: { news: newsWeeks, calendar: weeklyTotals(dailyCalendar, wins), newsImage: weeklyTotals(dailyNewsImage, wins), calendarImage: weeklyTotals(dailyCalendarImage, wins), newsDiscover: weeklyTotals(dailyNewsDiscover, wins) },
       gate: gate({ news: newsWeeks, indexed }),
       opportunities: opportunities(pairs),
+      movers: movers(pagesCur, pagesPrev),
+      cannibalization: cannibalization(pairs),
+      image: { pages: byClicks(imagePages).slice(0, 40), gaps: imageGaps(pages, imagePages) },
+      discover: { pages: byClicks(discoverPages).slice(0, 25) },
       pages: { news: bySection.news.slice(0, 60), calendar: bySection.calendar.slice(0, 40) },
       indexed,
+      sitemaps: sitemaps.map((s) => ({ path: s.path, errors: Number(s.errors ?? 0), warnings: Number(s.warnings ?? 0), lastDownloaded: s.lastDownloaded, submitted: Number((s.contents ?? []).find((c) => c.type === "web")?.submitted ?? 0) })),
+      experiments: experiments.map((e) => ({ ...e, ...measureExperiment(expRows.filter((r) => r.keys[1].endsWith(`/news/${e.slug}/`)), e.changedAt) })),
     };
     writeFileSync(OUT_JSON, `${JSON.stringify(data, null, 1)}\n`);
     writeFileSync(OUT_MD, report(data));
-    console.log(`search console: ${bySection.news.length} /news/ pages, ${data.opportunities.length} opportunities, ${indexed.indexed}/${indexed.checked} sampled stories indexed (${indexed.unknown} unknown)`);
+    console.log(`search console: ${bySection.news.length} /news/ pages, ${data.opportunities.length} opportunities, ${data.image.pages.length} image pages, ${data.discover.pages.length} Discover pages, ${indexed.indexed}/${indexed.checked} indexed in the gate sample (${indexed.unknown} unknown), ${data.experiments.length} experiments`);
   } catch (e) {
     console.log(`::warning::search console: ${e.message}; files left as they are`);
   }
