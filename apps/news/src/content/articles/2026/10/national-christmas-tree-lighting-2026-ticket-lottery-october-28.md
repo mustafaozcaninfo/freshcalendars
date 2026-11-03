@@ -65,7 +65,7 @@ internalLinks:
     label: "December 2026 printable calendar"
   - href: "/november-calendars.html"
     label: "November 2026 printable calendar"
-related: [us-capitol-christmas-tree-2026-tour-schedule-stops-dates, nyc-holiday-calendar-2026-rockefeller-tree-macys-parade, christmas-2026-calendar-printable-countdown]
+related: [us-capitol-christmas-tree-2026-tour-schedule-stops-dates, nyc-holiday-calendar-2026-rockefeller-tree-macys-parade, christmas-tree-lightings-2026-dates-times-nyc-dc-boston]
 downloads:
   - group: "National Christmas Tree Lighting 2026 Timeline printables"
     title: "National Christmas Tree Lighting 2026 Timeline"
