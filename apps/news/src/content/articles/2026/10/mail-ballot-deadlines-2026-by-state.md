@@ -60,7 +60,7 @@ internalLinks:
     label: "November 2026 printable calendar"
   - href: "/october-calendars.html"
     label: "October 2026 printable calendar"
-related: [what-time-do-polls-close-election-day-2026, early-voting-2026-which-states-are-voting-now, can-i-drop-off-my-mail-in-ballot-on-election-day-2026]
+related: [ballot-cure-deadlines-2026-fix-mail-ballot-signature, what-time-do-polls-close-election-day-2026, can-i-drop-off-my-mail-in-ballot-on-election-day-2026]
 downloads:
   - group: "Election 2026 printables"
     title: "Mail Ballot Deadlines, Nov. 3, 2026"

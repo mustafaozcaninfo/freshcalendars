@@ -48,7 +48,7 @@ internalLinks:
     label: "Printable weekly planner"
   - href: "/when-is/daylight-savings/"
     label: "When daylight saving time ends"
-related: [sample-ballot-by-zip-code-2026-texas-ballot, can-i-drop-off-my-mail-in-ballot-on-election-day-2026, mail-ballot-deadlines-2026-by-state]
+related: [election-day-2026-weather-forecast-polling-place-changes, can-i-drop-off-my-mail-in-ballot-on-election-day-2026, mail-ballot-deadlines-2026-by-state]
 downloads:
   - group: "Election 2026 printables"
     title: "When Polls Close, Nov. 3, 2026"
