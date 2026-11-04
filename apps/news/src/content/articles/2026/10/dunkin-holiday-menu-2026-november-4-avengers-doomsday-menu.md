@@ -91,7 +91,7 @@ internalLinks:
     label: "November 2026 printable calendar"
   - href: "/printable-weekly-calendar.html"
     label: "printable weekly calendar"
-related: [starbucks-holiday-menu-2026-red-cup-day-date, thanksgiving-meal-deals-2026-aldi-lidl-target-sams-club-prices-dates, black-friday-2026-ad-tracker-walmart-target-best-buy]
+related: [starbucks-holiday-menu-2026-red-cup-day-date, mcdonalds-holiday-drinks-2026-cookie-butter-cranberry, holiday-menus-2026-every-chain-tracker]
 downloads:
   - group: "Dunkin' Nov. 4 printables"
     title: "Dunkin' Nov. 4, 2026 Lineup Checklist"
