@@ -66,7 +66,7 @@ internalLinks:
     label: "January printable calendars by year"
   - href: "/printable-monthly-calendar.html"
     label: "Printable monthly calendar"
-related: [january-2027-calendar-printable, 2027-habit-tracker-printable, january-2027-important-dates-holidays-days-until]
+related: [january-2027-calendar-printable, 2027-habit-tracker-printable, veganuary-2027-dates-how-to-sign-up]
 downloads:
   - group: "Dry January 2027 printables"
     title: "Dry January 2027: 31-Day Tracker"

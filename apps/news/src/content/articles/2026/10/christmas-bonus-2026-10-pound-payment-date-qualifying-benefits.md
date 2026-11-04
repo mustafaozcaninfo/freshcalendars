@@ -63,7 +63,7 @@ internalLinks:
 related:
   - winter-fuel-payment-2026-dates-amounts-35000-threshold
   - cold-weather-payment-2026-27-dates-25-pounds-who-gets-it
-  - child-benefit-christmas-2026-paid-early-24-december
+  - warm-home-discount-2026-27-150-who-qualifies
 assets:
   overlay: true
   kicker: "Christmas Bonus 2026"
