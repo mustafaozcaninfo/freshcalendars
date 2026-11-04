@@ -98,7 +98,7 @@ draft: false
 
 **Birds of Prey 2026 at Beaver Creek, Colorado has seven World Cup races from Thursday, Dec. 3 to Sunday, Dec. 13, with the first men's downhill at 11 a.m. local Mountain Time (MT) on Dec. 3, according to the organizer's schedule of events.** That is 1 p.m. Eastern Time (ET), noon Central Time (CT), 10 a.m. Pacific Time (PT) and 7 p.m. Central European Time (CET). All races are at John and Karen Arnold Red Tail Stadium.
 
-The organizer's page gives times without a zone. Beaver Creek is on Mountain Time, which is Mountain Standard Time (UTC minus 7 hours) in December, so we read them as local time and converted the rest. The Vail Valley Foundation says the World Cup schedule "is preliminary and pending final FIS Council approval", referring to the International Ski and Snowboard Federation (FIS). NBC Sports calls its own copy of the calendar provisional and "subject to council approval".
+The organizer's page gives times without a zone. Beaver Creek is on Mountain Time, which is Mountain Standard Time (UTC minus 7 hours) in December, so we read them as local time and converted the rest. The Vail Valley Foundation says the World Cup schedule is preliminary and pending final approval by the International Ski and Snowboard Federation (FIS) Council. NBC Sports calls its own copy of the calendar provisional and "subject to council approval".
 
 ## Birds of Prey 2026 race times in ET, CT, MT, PT and CET
 

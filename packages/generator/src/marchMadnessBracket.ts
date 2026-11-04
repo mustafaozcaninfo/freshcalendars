@@ -97,7 +97,7 @@ function sheet(fonts: string): string {
   <div class="main">${side(false, ["South", "San Antonio, TX"], ["West", "Los Angeles, CA"])}
     <div class="center">${open}${ff}</div>
     ${side(true, ["Midwest", "Kansas City, MO"], ["East", "New York, NY"])}</div>
-  <p class="note">Source: NCAA.com, How the 2027 expanded NCAA tournament and March Madness brackets will work (May 7, 2026); Opening Round site in Wichita: CBS Sports and Yahoo Sports (July 9, 2026). Opening Round winners join the 64-team bracket. First and Second Round cities, arenas and TV not yet announced.</p>
+  <p class="note">Source: NCAA.com, How the 2027 expanded NCAA tournament and March Madness brackets will work (May 7, 2026); Opening Round site in Wichita: CBS Sports and Yahoo Sports (July 9, 2026). Opening Round winners join the 64-team bracket. First and Second Round cities: Charlotte, Fort Worth, Louisville, Minneapolis, Omaha, Pittsburgh, Sacramento, Spokane; arenas and TV not yet announced.</p>
   <div class="foot">Free printable from Fresh Calendars · freshcalendars.com/news/${STORY}/</div></section>`;
   return doc(fonts, LETTER_LANDSCAPE, css, [page]);
 }

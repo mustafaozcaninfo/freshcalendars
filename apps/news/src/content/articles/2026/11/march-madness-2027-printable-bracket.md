@@ -18,6 +18,13 @@ hero:
   src: ../../../../assets/news/march-madness-2027-printable-bracket/march-madness-2027-printable-bracket.webp
   alt: "Ford Field in Detroit on a sunny day, the 2027 Final Four site, for a March Madness 2027 printable bracket"
   caption: "Ford Field in Detroit (file photo), where the men's Final Four is Sat., Apr. 3, 2027 and the championship game is Mon., Apr. 5."
+  credit: "Photo: starscream1211 / Wikimedia Commons, edited"
+  license:
+    name: "CC BY-SA 3.0"
+    url: "https://creativecommons.org/licenses/by-sa/3.0"
+    source: "https://commons.wikimedia.org/wiki/File:Sunny_Ford_Field_-_panoramio.jpg"
+    author: "starscream1211"
+    authorUrl: "https://web.archive.org/web/20161015154849/http://www.panoramio.com/user/2945373?with_photo_id=32734690"
 summary:
   - "The 2027 men's and women's NCAA tournaments grow from 68 to 76 teams, and Selection Sunday is Sunday, March 14, according to NCAA.com."
   - "The men's Opening Round is Tuesday, March 16 and Wednesday, March 17: 24 teams in 12 games, six at UD Arena in Dayton and six at InTrust Bank Arena in Wichita."
