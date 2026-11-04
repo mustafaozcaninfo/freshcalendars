@@ -70,7 +70,7 @@ internalLinks:
     label: "Holidays on the Fresh Calendars site"
   - href: "/guides/fiscal-year-calendar.html"
     label: "Fiscal year calendar guide"
-related: [working-days-2027-business-days-by-month-federal-nyse, business-days-november-december-2026-working-days-calendar, what-is-a-fiscal-year]
+related: [working-days-2027-business-days-by-month-federal-nyse, business-days-november-december-2026-working-days-calendar, add-business-days-excel-workday-holidays]
 assets:
   overlay: true
   kicker: "Calendar guide · Business days"

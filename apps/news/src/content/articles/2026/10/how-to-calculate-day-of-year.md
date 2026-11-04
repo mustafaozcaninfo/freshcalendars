@@ -63,7 +63,7 @@ internalLinks:
     label: "February printable calendars"
   - href: "/printable-calendars.html"
     label: "All printable calendars"
-related: [julian-date-calendar-2027-2026-printable, 100th-day-of-the-year, what-is-a-leap-year]
+related: [julian-date-calendar-2027-2026-printable, 100th-day-of-the-year, is-12-noon-am-or-pm-midnight]
 downloads:
   - group: "Day of the Year Chart 2026 and 2028 printables"
     title: "Day of the Year Chart 2026 and 2028"
