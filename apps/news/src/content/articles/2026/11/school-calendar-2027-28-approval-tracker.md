@@ -1,7 +1,7 @@
 ---
-title: "2027-28 School Calendars: Which of the Largest Districts Have Approved Theirs"
+title: "2027-28 School Calendars: Which Big Districts Have Approved Theirs"
 seoTitle: "2027-28 School Calendar: Approval Tracker by District"
-description: "As of Nov. 4, 2026, seven large districts have approved 2027-28 calendars with dates, including Charlotte-Mecklenburg Schools (CMS); first days run Aug. 2 to 24."
+description: "As of Nov. 4, 2026, seven districts have approved 2027-28 calendars with dates, including Charlotte-Mecklenburg Schools (CMS); first days run Aug. 2 to 24."
 type: news
 publishedAt: "2026-11-04T13:05:00-05:00"
 updatedAt: "2026-11-04T13:05:00-05:00"
