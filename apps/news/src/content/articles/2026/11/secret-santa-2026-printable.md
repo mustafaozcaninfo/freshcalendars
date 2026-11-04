@@ -3,7 +3,7 @@ title: "Secret Santa 2026: Free Printable Draw Sheet, Wish List Lines and Exchan
 seoTitle: "Secret Santa 2026 Printable: Draw Sheet and Dates"
 description: "Free Secret Santa 2026 printable with a name-draw sheet and exchange dates: the United States Postal Service (USPS) recommends mailing by Thu., Dec. 17."
 type: explainer
-publishedAt: "2026-11-03T22:35:00-05:00"
+publishedAt: 2026-11-03T23:05:00-05:00
 authors: [jessica-hartwell]
 category: retail-dates
 keywords: ["secret santa printable", "secret santa 2026", "secret santa wish list template", "secret santa draw sheet"]
@@ -32,10 +32,10 @@ assets:
         - { daysBefore: 8, task: "USPS send-by: Ground Advantage and First-Class Mail, Thu., Dec. 17 (lower 48)" }
         - { daysBefore: 7, task: "USPS send-by: Priority Mail, Fri., Dec. 18; our last-Friday exchange" }
         - { daysBefore: 6, task: "USPS send-by: Priority Mail Express, Sat., Dec. 19" }
-      fill: ["Name I drew", "Budget per gift", "Exchange date", "Wish 1", "Wish 2", "Wish 3", "Sizes, colors, allergies"]
+      fill: ["Name drawn", "Budget per gift", "Exchange date", "Wish 1", "Wish 2", "Wish 3", "Sizes, colors, allergies"]
       unconfirmed:
         - { label: "United Parcel Service (UPS) 2026 ground dates", why: "Not yet announced" }
-        - { label: "Executive order for Dec. 24, 2026", why: "None has been announced" }
+        - { label: "Federal closure on Christmas Eve, Dec. 24", why: "Not announced" }
 hero:
   src: ../../../../assets/news/secret-santa-2026-printable/secret-santa-2026-printable.webp
   alt: "A wrapped gift with gold curling ribbon for a Secret Santa 2026 name draw"
