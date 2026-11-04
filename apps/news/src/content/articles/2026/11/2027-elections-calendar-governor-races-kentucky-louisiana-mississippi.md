@@ -12,7 +12,7 @@ hero:
   src: ../../../../assets/news/2027-elections-calendar-governor-races-kentucky-louisiana-mississippi/2027-elections-calendar-governor-races-kentucky-louisiana-mississippi.webp
   alt: "the Mississippi State Capitol dome in Jackson, where 2027 elections will choose the next governor"
   caption: "File photo: the Mississippi State Capitol in Jackson. Mississippi's 2027 primary is Aug. 3 and its general election is Nov. 2, 2027."
-  credit: "CREDIT"
+  credit: "Photo: Ken Lund from Las Vegas, Nevada, USA / Wikimedia Commons, cropped, edited"
   license: { name: "CC BY-SA 2.0", url: "https://creativecommons.org/licenses/by-sa/2.0", source: "https://commons.wikimedia.org/wiki/File:Mississippi_State_Capitol,_Jackson,_Mississippi_(3931971195).jpg", author: "Ken Lund from Las Vegas, Nevada, USA", authorUrl: "https://www.flickr.com/people/75683070@N00" }
 summary:
   - "Election Day 2027 is Tuesday, Nov. 2, 2027, the Tuesday after the first Monday in November, and it is 363 days after today, Nov. 4, 2026."
@@ -78,7 +78,7 @@ assets:
     group: 2027-elections-calendar
     title: "2027 Election Dates: Kentucky and Mississippi"
     subtitle: "Filing, primary, runoff and general election dates posted by each state"
-    note: "Source: Kentucky State Board of Elections, 2027 Kentucky Election Calendar; Mississippi Secretary of State, Election Calendar 2026-2027; both read Nov. 4, 2026. Louisiana, Virginia and New Jersey have no posted 2027 dates."
+    note: "Source: Kentucky State Board of Elections, 2027 Kentucky Election Calendar; Mississippi Secretary of State, Election Calendar 2026-2027; both read Nov. 4, 2026. Mississippi also lists a general runoff on Nov. 30. Louisiana, Virginia and New Jersey have no posted 2027 dates."
     description: "One page of the 2027 election dates Kentucky and Mississippi have posted: filing, registration, primaries, runoffs and the Nov. 2, 2027 general election."
     alt: "Printable grid of 2027 election dates for Kentucky and Mississippi, in date order, counting down to Nov. 2, 2027"
     data:
@@ -93,7 +93,6 @@ assets:
         - { date: "2027-08-31", cells: { Mississippi: "Primary runoff election" }, src: 3, quote: "August 31 (2027-08-31) Primary Runoff Election" }
         - { date: "2027-10-04", cells: { Kentucky: "Last day to register for the general election" }, src: 1, quote: "Monday 10/4/27 (2027-10-04)" }
         - { date: "2027-11-02", cells: { Kentucky: "General Election Day", Mississippi: "General election" }, src: 1, quote: "Tuesday 11/2/27 (2027-11-02)" }
-        - { date: "2027-11-30", cells: { Mississippi: "General runoff election" }, src: 3, quote: "November 30 (2027-11-30) General Runoff Election" }
       unconfirmed:
         - { label: "Mississippi candidate qualifying and voter registration deadlines", why: "Not yet posted by the Secretary of State as of Nov. 4, 2026" }
         - { label: "Louisiana 2027 election dates", why: "No 2027 calendar from the Secretary of State could be read as of Nov. 4, 2026" }

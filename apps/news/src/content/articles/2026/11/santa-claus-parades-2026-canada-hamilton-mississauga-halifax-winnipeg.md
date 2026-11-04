@@ -67,6 +67,23 @@ internalLinks:
   - href: "/canada-holidays/"
     label: "Canada holidays"
 related: [toronto-santa-claus-parade-2026-sunday-november-22-route-citytv, ottawa-santa-claus-parade-2026-november-21-route-time, canada-christmas-markets-2026-dates-toronto-montreal-vancouver-quebec-ottawa]
+downloads:
+  - group: "Santa Claus Parades 2026 in Canada printables"
+    title: "Santa Claus Parades 2026 in Canada: Dates and Times"
+    description: "A one-page list of the 2026 Santa Claus parades in Hamilton on Nov. 14, Mississauga and Ottawa on Nov. 21, with the cities that have not announced a date."
+    preview: ../../../../assets/news/santa-claus-parades-2026-canada/santa-claus-parades-2026-canada-checklist.png
+    alt: "Printable list of 2026 Santa Claus parades in Canada with dates and start times"
+    pdf: "/news/downloads/santa-claus-parades-2026-canada/santa-claus-parades-2026-canada-checklist.pdf"
+    png: "/news/downloads/santa-claus-parades-2026-canada/santa-claus-parades-2026-canada-checklist.png"
+    pages: 1
+  - group: "Santa Claus Parades 2026 in Canada printables"
+    title: "Santa Claus Parades 2026 in Canada: Dates and Times (A4)"
+    description: "A one-page list of the 2026 Santa Claus parades in Hamilton on Nov. 14, Mississauga and Ottawa on Nov. 21, with the cities that have not announced a date. A4 paper."
+    preview: ../../../../assets/news/santa-claus-parades-2026-canada/santa-claus-parades-2026-canada-checklist-a4.png
+    alt: "Printable list of 2026 Santa Claus parades in Canada with dates and start times, A4"
+    pdf: "/news/downloads/santa-claus-parades-2026-canada/santa-claus-parades-2026-canada-checklist-a4.pdf"
+    png: "/news/downloads/santa-claus-parades-2026-canada/santa-claus-parades-2026-canada-checklist-a4.png"
+    pages: 1
 draft: false
 assets:
   scene: winter-holidays
@@ -113,7 +130,7 @@ assets:
         - { label: "Winnipeg 2026 date", why: "Not announced by the City as of Nov. 4, 2026" }
 ---
 
-**Hamilton's Santa Claus Parade is on Saturday, Nov. 14, 2026 at 2 p.m., and Mississauga's follows on Saturday, Nov. 21 at 6 p.m.**, according to the organizer's site, hamiltonsantaparade.com, and the City of Mississauga. Those are the two parades in this story with confirmed 2026 dates and times. Toronto's and Ottawa's have their own stories, and Halifax, Winnipeg, Montreal and Edmonton have not announced 2026 dates. From Nov. 4, Hamilton's parade is 10 days away and Mississauga's is 17, our count.
+**Hamilton's Santa Claus Parade is on Saturday, Nov. 14, 2026 at 2 p.m., and Mississauga's follows on Saturday, Nov. 21 at 6 p.m.**, according to the organizer's site, hamiltonsantaparade.com, and the City of Mississauga. Those are the two parades in this story with confirmed 2026 dates and times. Toronto's and Ottawa's have their own stories, and Halifax, Winnipeg, Montreal and Edmonton have not announced 2026 dates.
 
 The table below puts every city in one place, with last year's date labeled where 2026 is still open, and a one-page list you can print is at the end.
 
@@ -136,11 +153,11 @@ Weekdays are computed from the 2026 calendar: Nov. 14 and Nov. 21 are both Satur
 
 The organizer's page says: "The parade begins at 2:00PM on Saturday November 14th 2026." It adds: "The parade will start at Upper Sherman and Acadia Drive." and "We will end at the South side parking lot. (outside of the old Hudson Bay)."
 
-Earlier Hamilton parades used other routes. This year's starts on the Mountain, at Upper Sherman and Acadia Drive, so check the organizer's page rather than an older listing. The page also says that Mission Services "will be collecting non-perishable food items and any financial donations."
+Route details can change before parade day, so check that page again before you go. It also says that Mission Services "will be collecting non-perishable food items and any financial donations."
 
 ## Mississauga Santa Claus Parade 2026: date and what is missing
 
-The City of Mississauga said on Aug. 17, 2026: "The Mississauga Santa Claus Parade is back this year, taking place on Saturday, November 21, 2026, at 6 p.m. in downtown Mississauga." That notice was a call for volunteers and entries, and it did not give a route, road closures or a donation drive. Those are not yet announced. Mississauga is in the same Eastern Time zone as Ottawa, which is on Eastern Standard Time after Nov. 1.
+The City of Mississauga said on Aug. 17, 2026: "The Mississauga Santa Claus Parade is back this year, taking place on Saturday, November 21, 2026, at 6 p.m. in downtown Mississauga." The notice, titled "Be part of the magic: Apply to be a part of the 2026 Mississauga Santa Claus Parade," did not give a route, road closures or a donation drive. Those are not yet announced.
 
 ## What happened in Halifax and Winnipeg last year?
 
