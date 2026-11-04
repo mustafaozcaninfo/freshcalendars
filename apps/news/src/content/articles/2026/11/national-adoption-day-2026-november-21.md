@@ -1,7 +1,7 @@
 ---
 title: "National Adoption Day 2026: Saturday, Nov. 21, Court Finalization Events"
 seoTitle: "National Adoption Day 2026: Saturday, Nov. 21"
-description: "National Adoption Day 2026 is Saturday, Nov. 21, says the coalition site. Courts finalize foster adoptions on or around that day. Dates to 2031 and events."
+description: "National Adoption Day 2026 is Saturday, Nov. 21, says the coalition site. Courts finalize adoptions from state care around that day. Dates to 2031 and events."
 type: explainer
 publishedAt: "2026-11-04T07:50:00-05:00"
 updatedAt: "2026-11-04T07:50:00-05:00"
@@ -13,12 +13,12 @@ assets:
   overlay: true
   kicker: "National Adoption Day · Sat., Nov. 21"
   date: "2026-11-21"
-  card: { top: "National Adoption Day 2026", big: "Nov. 21", bottom: "Courts finalize foster adoptions" }
+  card: { top: "National Adoption Day 2026", big: "Nov. 21", bottom: "Courts finalize adoptions" }
   printable:
     slug: national-adoption-day-2026-activity-sheet
     group: national-adoption-day-2026
     title: "National Adoption Day 2026 Ways to Take Part"
-    subtitle: "Sat., Nov. 21, 2026: finalize and celebrate adoptions from foster care"
+    subtitle: "Sat., Nov. 21, 2026: finalize and celebrate adoptions from state care"
     noKit: "An observance activity sheet with tick boxes for ways to take part, not a kit's date grid or status table."
     notesLabel: "How I will take part in National Adoption Day 2026"
     rows:
@@ -28,7 +28,7 @@ assets:
       - { when: "Before Nov. 21", what: "Call your county family court: the courts set their own event times", section: "Take part" }
       - { when: "Organisers", what: "Register your event on nationaladoptionday.org", section: "Take part" }
       - { when: "Anytime", what: "Share your story with the coalition", section: "Take part" }
-      - { when: "Anytime", what: "Learn about fostering through your state child welfare agency", section: "Take part" }
+      - { when: "Anytime", what: "Ask your state child welfare agency how to become a resource parent", section: "Take part" }
       - { when: "Anytime", what: "Spread the word about permanency for every child", section: "Take part" }
       - { when: "Sat., Nov. 20, 2027", what: "National Adoption Day 2027 (our calculation)", section: "Next dates" }
     note: "Source: nationaladoptionday.org, National Adoption Day (coalition site), read Nov. 4, 2026."
@@ -46,14 +46,14 @@ hero:
     author: "perpetual.fostering"
 summary:
   - "National Adoption Day 2026 is Saturday, Nov. 21, according to the coalition site nationaladoptionday.org, five days before Thanksgiving on Thursday, Nov. 26."
-  - "The day is held on or around the Saturday before Thanksgiving to finalize and celebrate adoptions from foster care, so some courts hold their events on other days."
-  - "The coalition site says it has recognized more than 95,000 children moving from foster care to a permanent family since it launched National Adoption Day in 1999."
+  - "The day is held on or around the Saturday before Thanksgiving to finalize and celebrate adoptions of children in state care, so some courts hold their events on other days."
+  - "The coalition site says it has recognized more than 95,000 children moving from state care to a permanent family since it launched National Adoption Day in 1999."
   - "November is National Adoption Month; the 2025 proclamation was Proclamation 10992 of Nov. 17, 2025, and a 2026 proclamation had not been issued as of Nov. 4."
 faq:
   - q: "When is National Adoption Day 2026?"
     a: "Saturday, Nov. 21, 2026, according to nationaladoptionday.org. Some calendar sites list Nov. 22 or Nov. 18; the organizer says Nov. 21."
   - q: "What happens on National Adoption Day?"
-    a: "The coalition says courts and communities gather on or around the Saturday before Thanksgiving to finalize and celebrate adoptions from foster care."
+    a: "The coalition says courts and communities gather on or around the Saturday before Thanksgiving to finalize and celebrate adoptions of children in state care."
   - q: "How do I find an event near me?"
     a: "Check the Events section of nationaladoptionday.org and call your county family court. Times are set by each court and the site lists none."
   - q: "When is National Adoption Day in 2027?"
@@ -85,13 +85,13 @@ downloads:
 draft: false
 ---
 
-**National Adoption Day 2026 is Saturday, Nov. 21,** according to the coalition site nationaladoptionday.org, which says the day is held "on or around the Saturday before Thanksgiving to finalize and celebrate adoptions from foster care." Thanksgiving 2026 is Thursday, Nov. 26. Below are the dates through 2031, the events the site listed on Nov. 4 and a free one-page sheet.
+**National Adoption Day 2026 is Saturday, Nov. 21,** according to the coalition site nationaladoptionday.org, which says the day is held "on or around the Saturday before Thanksgiving" to finalize and celebrate adoptions of children in the child welfare system. Thanksgiving 2026 is Thursday, Nov. 26. Below are the dates through 2031, the events the site listed on Nov. 4 and a free one-page sheet.
 
 ## When is National Adoption Day 2026?
 
 The organizer's site gives "Saturday, November 21, 2026." Some calendar sites list Nov. 22 or Nov. 18; the organizer says Nov. 21, so that is the date used here.
 
-The wording is "on or around," so a court may hold its event on another day. The site's own event list shows that (see the table below). The coalition says it launched National Adoption Day in 1999 and that the day "has recognized more than 95,000 children moving from foster care to a permanent family." The partners it names are the Dave Thomas Foundation for Adoption, the Congressional Coalition on Adoption Institute, the Alliance for Children's Rights and the Children's Action Network.
+The wording is "on or around," so a court may hold its event on another day. The site's own event list shows that (see the table below). The coalition says it launched National Adoption Day in 1999 and that the day has recognized more than 95,000 children who moved from state care to a permanent family. The partners it names are the Dave Thomas Foundation for Adoption, the Congressional Coalition on Adoption Institute, the Alliance for Children's Rights and the Children's Action Network.
 
 ## National Adoption Day dates through 2031
 
@@ -125,7 +125,7 @@ Several courts hold their event before Nov. 21, which fits the "on or around" ru
 
 ## How can you take part in National Adoption Day?
 
-The coalition site points to four actions: "Register your event," "Access resources to help plan your National Adoption Day event," "Share your story" and "spread the word about the importance of permanency for every child." Organizers register events on the site. Readers who want to attend can check the event list and call their county family court. Federal foster-care counts are published in the Adoption and Foster Care Analysis and Reporting System (AFCARS) report by the Children's Bureau, part of the Administration for Children and Families (ACF); we did not use its numbers here.
+The coalition site points to four actions: "Register your event," "Access resources to help plan your National Adoption Day event," "Share your story" and "spread the word about the importance of permanency for every child." Organizers register events on the site. Readers who want to attend can check the event list and call their county family court. Federal counts of children in state care and adoptions are published by the Children's Bureau, part of the Administration for Children and Families (ACF); its site refused our automated check on Nov. 4, so this story gives no federal numbers.
 
 ## Is November National Adoption Month in 2026?
 
