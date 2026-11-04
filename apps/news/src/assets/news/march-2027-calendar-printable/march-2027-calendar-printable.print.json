@@ -1,9 +1,19 @@
 {
   "v": 3,
-  "kit": "list:month",
-  "hash": "6ccd9620b22f51c3",
+  "kit": "year-reference",
+  "hash": "6c3f00051a2dc8aa",
   "files": [
-    "/news/downloads/march-2027-calendar/march-2027-calendar-key-dates.pdf"
+    "/news/downloads/march-2027-calendar/march-2027-calendar-holidays-moon-phases.pdf"
   ],
-  "computed": []
+  "computed": [
+    "Mon., Mar. 8",
+    "Sun., Mar. 14",
+    "Mon., Mar. 15",
+    "Mon., Mar. 22",
+    "Mon., Mar. 22",
+    "Thu., Mar. 25",
+    "Fri., Mar. 26",
+    "Sun., Mar. 28",
+    "Mon., Mar. 29"
+  ]
 }

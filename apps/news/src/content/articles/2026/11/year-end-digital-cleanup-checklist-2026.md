@@ -14,27 +14,22 @@ assets:
   date: "2026-12-01"
   card: { top: "Year-end digital cleanup", big: "30 days", bottom: "How long most deleted photos stay recoverable" }
   printable:
-    noKit: "year-end checklist, not a deadline sheet"
-    slug: year-end-digital-cleanup-checklist-2026
+    kit: planner
+    slug: year-end-digital-cleanup-plan-2026
     group: year-end-digital-cleanup-2026
     title: "Year-End Digital Cleanup Checklist 2026"
     subtitle: "Dec. 1 to 31, 2026: accounts, backups, photos, subscriptions and devices"
-    layout: checklist
-    rows:
-      - { when: "Dec. 1-7", what: "Turn on multifactor authentication for email, bank and health accounts (CISA)", section: "Accounts and passwords" }
-      - { when: "Dec. 1-7", what: "Replace weak passwords with ones of at least 16 characters, kept in a password manager (CISA)", section: "Accounts and passwords" }
-      - { when: "Dec. 1-7", what: "Install all updates and turn on automatic updates (CISA)", section: "Devices" }
-      - { when: "Dec. 8-14", what: "List every subscription and free trial; put each cancel date on your calendar (FTC)", section: "Subscriptions" }
-      - { when: "Dec. 8-14", what: "Read how and when to cancel each free trial before it ends (FTC)", section: "Subscriptions" }
-      - { when: "Dec. 8-14", what: "Dispute a charge you did not agree to if the company will not refund it (FTC)", section: "Subscriptions" }
-      - { when: "Dec. 8-14", what: "Do not click unsubscribe in suspicious email; delete it (CISA)", section: "Subscriptions" }
-      - { when: "Dec. 15-21", what: "Keep 3 copies of important files on 2 kinds of storage, 1 off-site (CISA)", section: "Backups" }
-      - { when: "Dec. 15-21", what: "Test a restore of one file and one folder (CISA)", section: "Backups" }
-      - { when: "Dec. 22-31", what: "Delete duplicate photos; deleted ones stay 30 days (Apple, Google Photos)", section: "Photos and files" }
-      - { when: "Dec. 22-31", what: "Check storage: a Google Account has up to 15 GB shared (Google Photos Help)", section: "Photos and files" }
-      - { when: "Dec. 22-31", what: "Download a Google data archive within about 7 days (Google Account Help)", section: "Photos and files" }
-      - { when: "Dec. 22-31", what: "OneDrive restores: 30 days personal, 93 days work or school (Microsoft)", section: "Photos and files" }
-      - { when: "Jan. 25-29, 2027", what: "Identity Theft Awareness Week (FTC)", section: "Next" }
+    data:
+      sections:
+        - type: checklist
+          title: "December 2026 cleanup plan (the weeks are ours)"
+          groups:
+            - { title: "Week of Dec. 1 - accounts and devices", items: ["Turn on multifactor authentication for email, bank and health accounts (CISA)", "Replace weak passwords with 16+ characters in a password manager (CISA)", "Install all updates and turn on automatic updates (CISA)"] }
+            - { title: "Week of Dec. 8 - subscriptions", items: ["List every subscription and free trial; put each cancel date on your calendar (FTC)", "Read how and when to cancel each free trial before it ends (FTC)", "Dispute a charge you did not agree to if the company will not refund it (FTC)", "Do not click unsubscribe in suspicious email; delete it (CISA)"] }
+            - { title: "Week of Dec. 15 - backups", items: ["Keep 3 copies of important files on 2 kinds of storage, 1 off-site (CISA)", "Test a restore of one file and one folder (CISA)"] }
+            - { title: "Week of Dec. 22 - photos and files", items: ["Delete duplicate photos; deleted ones stay 30 days (Apple, Google Photos)", "Check storage: a Google Account has up to 15 GB shared (Google Photos Help)", "Download a Google data archive within about 7 days (Google Account Help)", "OneDrive restores: 30 days personal, 93 days work or school (Microsoft)"] }
+      rules:
+        - { text: "Identity Theft Awareness Week is Jan. 25-29, 2027; a good time to check your accounts.", src: 8, quote: "Identity Theft Awareness Week (IDTAW) 2027 will be Jan. 25 - 29" }
     note: "Source: CISA Secure Our World guidance and back-up page; Federal Trade Commission; Apple Support; Google Photos Help and Google Account Help; Microsoft Support. The week plan is ours."
     description: "One-page year-end digital cleanup checklist for Dec. 2026: passwords, backups, photos, subscriptions and devices, with the source named on each line."
     alt: "Printable year-end digital cleanup checklist for December 2026 with tick boxes grouped by topic"
@@ -126,10 +121,10 @@ downloads:
   - group: "Year-End Digital Cleanup Checklist 2026 printables"
     title: "Year-End Digital Cleanup Checklist 2026"
     description: "One-page year-end digital cleanup checklist for Dec. 2026: passwords, backups, photos, subscriptions and devices, with the source named on each line."
-    preview: ../../../../assets/news/year-end-digital-cleanup-2026/year-end-digital-cleanup-checklist-2026.png
+    preview: ../../../../assets/news/year-end-digital-cleanup-2026/year-end-digital-cleanup-plan-2026.png
     alt: "Printable year-end digital cleanup checklist for December 2026 with tick boxes grouped by topic"
-    pdf: "/news/downloads/year-end-digital-cleanup-2026/year-end-digital-cleanup-checklist-2026.pdf"
-    png: "/news/downloads/year-end-digital-cleanup-2026/year-end-digital-cleanup-checklist-2026.png"
+    pdf: "/news/downloads/year-end-digital-cleanup-2026/year-end-digital-cleanup-plan-2026.pdf"
+    png: "/news/downloads/year-end-digital-cleanup-2026/year-end-digital-cleanup-plan-2026.png"
     pages: 1
 draft: false
 ---

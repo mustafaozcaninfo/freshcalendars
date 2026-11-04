@@ -14,29 +14,27 @@ assets:
   date: "2027-01-01"
   card: { top: "Monthly budget planner", big: "2027", bottom: "Tax dates and paydays printed" }
   printable:
-    slug: monthly-budget-planner-2027-printable
+    kit: planner
+    slug: monthly-budget-planner-2027-by-month
     group: monthly-budget-planner-2027
-    noKit: "monthly budget pages with blank income and bill lines, not a deadline sheet"
     title: "Monthly Budget Planner 2027"
-    subtitle: "Fixed tax dates and three-paycheck months printed, with blank lines for income, bills and savings"
-    columns: ["Month", "Printed dates, then fill in: Income ____  Bills ____  Savings ____"]
-    layout: list
-    rows:
-      - ["January", "Fri., Jan. 15: estimated tax | 3 paydays if paid Jan. 1 (A)"]
-      - ["February", "Mon., Feb. 1: W-2s to employees | no three-payday month"]
-      - ["March", "No federal tax date printed | no three-payday month"]
-      - ["April", "Thu., Apr. 15: tax filing and estimated tax | 3 paydays if paid Jan. 8 (B)"]
-      - ["May", "No federal tax date printed | no three-payday month"]
-      - ["June", "Tue., Jun. 15: estimated tax | no three-payday month"]
-      - ["July", "Three paydays on schedule A: Jul. 2, 16, 30"]
-      - ["August", "No federal tax date printed | no three-payday month"]
-      - ["September", "Wed., Sep. 15: estimated tax | no three-payday month"]
-      - ["October", "Fri., Oct. 15: extended returns | 3 paydays if paid Jan. 8 (B)"]
-      - ["November", "No federal tax date printed | no three-payday month"]
-      - ["December", "Three paydays on schedule A: Dec. 3, 17, 31"]
-    note: "Source: Internal Revenue Service, Publication 509 and Form 1040-ES; payday months computed by Fresh Calendars in 14-day steps from Jan. 1 (A) and Jan. 8 (B), 2027. Your employer sets your pay date."
-    description: "One-page 2027 monthly budget planner with IRS tax dates and three-paycheck months printed by month, plus blank lines for income, bills and savings."
-    alt: "Monthly budget planner 2027 printable listing twelve months with tax dates and three-paycheck months and blank lines for income, bills and savings"
+    subtitle: "A blank month-by-month budget for income, bills and savings, with estimated-tax dates and three-paycheck months"
+    data:
+      sections:
+        - { type: table, title: "2027 monthly budget", columns: ["Month", "Income", "Bills", "Savings"], rows: 12 }
+        - type: checklist
+          title: "Three-paycheck months (biweekly Fridays, our calculation)"
+          groups:
+            - { title: "If your first 2027 payday is Jan. 1", items: ["January", "July", "December"] }
+            - { title: "If your first 2027 payday is Jan. 8", items: ["April", "October"] }
+      facts:
+        - { text: "2027 estimated tax is due Jan. 15, April 15, June 15 and Sept. 15 (IRS).", src: 1, quote: "the 15th day of the 4th, 6th, and 9th months of your tax year and on the 15th day of the 1st month after your tax year ends" }
+        - { text: "Even small amounts of liquid savings can make a big difference, the CFPB says, so set a savings line each month.", src: 4, quote: "even small amounts of liquid savings can make a big difference" }
+      unconfirmed:
+        - { label: "2026 return filing and extension dates", why: "Generally April 15 and Oct. 15, 2027; we could not confirm them on the IRS pages read, so see the story and IRS.gov" }
+    note: "Source: Internal Revenue Service, Publication 509 (estimated tax due dates); Consumer Financial Protection Bureau, Start Small, Save Up; three-paycheck months computed by Fresh Calendars in 14-day steps from Jan. 1 and Jan. 8, 2027. Your employer sets your pay date."
+    description: "A one-page 2027 monthly budget planner: a blank month-by-month grid for income, bills and savings, with the 2027 estimated-tax dates and three-paycheck months."
+    alt: "Monthly budget planner 2027 printable with a blank month-by-month grid for income, bills and savings, estimated-tax dates and three-paycheck months"
 hero:
   src: ../../../../assets/news/monthly-budget-planner-2027-printable/monthly-budget-planner-2027-printable.webp
   alt: "A glass jar of coins and a folded bill beside crayons, for a 2027 monthly budget planner printable"
@@ -88,11 +86,11 @@ related: [tax-calendar-2027-irs-deadlines, three-paycheck-months-2027-biweekly-p
 downloads:
   - group: "Monthly Budget Planner 2027 printables"
     title: "Monthly Budget Planner 2027"
-    description: "One-page 2027 monthly budget planner with IRS tax dates and three-paycheck months printed by month, plus blank lines for income, bills and savings."
-    preview: ../../../../assets/news/monthly-budget-planner-2027/monthly-budget-planner-2027-printable.png
-    alt: "Monthly budget planner 2027 printable listing twelve months with tax dates and three-paycheck months and blank lines for income, bills and savings"
-    pdf: "/news/downloads/monthly-budget-planner-2027/monthly-budget-planner-2027-printable.pdf"
-    png: "/news/downloads/monthly-budget-planner-2027/monthly-budget-planner-2027-printable.png"
+    description: "A one-page 2027 monthly budget planner: a blank month-by-month grid for income, bills and savings, with the 2027 estimated-tax dates and three-paycheck months."
+    preview: ../../../../assets/news/monthly-budget-planner-2027/monthly-budget-planner-2027-by-month.png
+    alt: "Monthly budget planner 2027 printable with a blank month-by-month grid for income, bills and savings, estimated-tax dates and three-paycheck months"
+    pdf: "/news/downloads/monthly-budget-planner-2027/monthly-budget-planner-2027-by-month.pdf"
+    png: "/news/downloads/monthly-budget-planner-2027/monthly-budget-planner-2027-by-month.png"
     pages: 1
 draft: false
 ---
