@@ -149,7 +149,7 @@ All come from the VA's "History of Veterans Day" page (last updated June 10, 202
 
 | Date | Fact, per the VA |
 |---|---|
-| Nov. 11, 1918 | An armistice between the Allied nations and Germany went into effect on the eleventh hour of the eleventh day of the eleventh month; the day is generally regarded as the end of "the war to end all wars." |
+| Nov. 11, 1918 | An armistice between the Allied nations and Germany went into effect, halting the fighting of World War I (then called the Great War), on the eleventh hour of the eleventh day of the eleventh month; the day is generally regarded as the end of "the war to end all wars." |
 | Nov. 1919 | President Wilson proclaimed Nov. 11 as the first commemoration of Armistice Day. |
 | May 13, 1938 | An act approved that day made Nov. 11 a legal holiday. |
 | June 1, 1954 | Public Law 380 made Nov. 11 a day to honor American veterans of all wars. |
