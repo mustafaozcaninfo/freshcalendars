@@ -101,7 +101,7 @@ internalLinks:
     label: "January 2027 printable calendar"
   - href: "/printable-yearly-calendar.html"
     label: "printable yearly calendar"
-related: [thanksgiving-leftovers-how-long-turkey-and-sides-last-2026, home-maintenance-calendar-2027-monthly-checklist, january-2027-reset-planner-printable]
+related: [thanksgiving-leftovers-how-long-turkey-and-sides-last-2026, veganuary-2027-dates-how-to-sign-up, january-2027-reset-planner-printable]
 draft: false
 ---
 

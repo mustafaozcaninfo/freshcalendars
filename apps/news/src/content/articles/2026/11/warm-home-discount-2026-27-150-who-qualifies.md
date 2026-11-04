@@ -1,7 +1,7 @@
 ---
 title: "Warm Home Discount 2026-27: the £150 Off Your Electricity Bill and Who Qualifies"
 seoTitle: "Warm Home Discount 2026-27: £150 and Who Qualifies"
-description: "The Warm Home Discount is a one-off £150 off your electricity bill. The Department for Energy Security and Net Zero (DESNZ) set the qualifying date as 23 August 2026."
+description: "The Warm Home Discount takes £150 off your electricity bill. The Department for Energy Security and Net Zero (DESNZ) set 23 August 2026 as the qualifying date."
 type: explainer
 publishedAt: "2026-11-04T11:54:00-05:00"
 updatedAt: "2026-11-04T11:54:00-05:00"

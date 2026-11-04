@@ -110,7 +110,7 @@ sources:
     url: "https://veganuary.com/try-vegan/"
     publisher: "Veganuary"
     date: "2026-11-04"
-  - title: "Veganuary FAQs"
+  - title: "Veganuary frequently asked questions"
     url: "https://veganuary.com/faqs/"
     publisher: "Veganuary"
     date: "2026-11-04"
@@ -124,6 +124,15 @@ internalLinks:
   - href: "/printable-monthly-calendar.html"
     label: "Printable monthly calendar"
 related: [dry-january-2027-tracker, meal-planning-calendar-2027-printable, january-2027-reset-planner-printable]
+downloads:
+  - group: "Veganuary 2027 printables"
+    title: "Veganuary 2027: 31-Day Meal Tracker"
+    description: "One-page Veganuary 2027 meal tracker with a line for each of the 31 days, Jan. 1 to 31, favorites lines and a why-I'm-trying-it line."
+    preview: ../../../../assets/news/veganuary-2027/veganuary-2027-31-day-meal-tracker.png
+    alt: "Veganuary 2027 meal tracker printable with a tick box and write-in line for each day from Jan. 1 to Jan. 31"
+    pdf: "/news/downloads/veganuary-2027/veganuary-2027-31-day-meal-tracker.pdf"
+    png: "/news/downloads/veganuary-2027/veganuary-2027-31-day-meal-tracker.png"
+    pages: 1
 draft: false
 ---
 
@@ -163,11 +172,11 @@ The page lists a "Celebrity Cookbook", "Nutrition Guides" and "31 Coaching Email
 
 ## How many people try Veganuary?
 
-Veganuary's FAQ says "roughly 30 million people worldwide chose to try vegan this January as part of Veganuary," which refers to January 2026. This is Veganuary's own estimate, based on national surveys in twelve core countries plus population estimates. We found no US-only figure.
+Veganuary's frequently asked questions (FAQ) page says "roughly 30 million people worldwide chose to try vegan this January as part of Veganuary," which refers to January 2026. This is Veganuary's own estimate, based on national surveys in twelve core countries plus population estimates. We found no US-only figure.
 
 ## How do Veganuary and Dry January overlap?
 
-Both fill the same 31 days, Jan. 1 to Jan. 31, 2027, and both are run by charities rather than companies. They are separate campaigns: [Dry January is run by Alcohol Change UK](/news/dry-january-2027-tracker/) and has its own sign-up and tracker. Anyone doing both would use the same calendar month, so a combined sheet is simply two sets of check-ins on the same 31 days.
+Both fill the same 31 days, Jan. 1 to Jan. 31, 2027, and both are run by charities. They are separate campaigns: [Dry January is run by Alcohol Change UK](/news/dry-january-2027-tracker/) and has its own sign-up and tracker. Anyone doing both would use the same calendar month, so a combined sheet is simply two sets of check-ins on the same 31 days.
 
 ## What is in the free Veganuary 2027 meal tracker?
 
