@@ -89,7 +89,7 @@ assets:
     alt: "Printable Ottawa Santa Claus parade 2026 day guide with start time and route"
     data:
       landscape: false
-      pick: "Where I will watch"
+      pick: "Where to watch"
       events:
         - start: "2026-11-21T11:00-05:00"
           title: "Help Santa Toy Parade, Ottawa"
@@ -97,7 +97,7 @@ assets:
           airing: live
           src: 1
           quote: "The parade will be occurring on November 21, 2026 at 11:00am."
-      fill: { title: "My parade day", labels: ["Where I will watch", "Who is coming with me"] }
+      fill: { title: "Parade day", labels: ["Where to watch", "Where to meet the group"] }
       unconfirmed:
         - { label: "End time", why: "Not announced as of Nov. 4, 2026" }
         - { label: "Road closures", why: "No City of Ottawa notice found as of Nov. 4, 2026" }
