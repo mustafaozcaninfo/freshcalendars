@@ -57,7 +57,7 @@ internalLinks:
     label: "When is Cyber Monday?"
   - href: "/november-calendars.html"
     label: "November 2026 printable calendar"
-related: [black-friday-2026-store-hours-walmart-target-best-buy, small-business-saturday-2026-participating-stores-events, green-monday-2026-december-14-super-saturday-december-19]
+related: [small-business-saturday-uk-2026-5-december, small-business-saturday-2026-participating-stores-events, black-friday-2026-store-hours-walmart-target-best-buy]
 downloads:
   - group: "Thanksgiving Weekend Dates 2026 printables"
     title: "Thanksgiving Weekend Dates 2026, Nov. 26 to 30"

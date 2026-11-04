@@ -63,7 +63,7 @@ internalLinks:
     label: "November 2026 printable calendar"
   - href: "/december-calendars.html"
     label: "December 2026 printable calendar"
-related: [manchester-birmingham-christmas-markets-2026-dates-opening-times, edinburghs-christmas-2026-dates-big-wheel-hogmanay-torchlight, hyde-park-winter-wonderland-2026-dates-opening-times-tickets]
+related: [manchester-birmingham-christmas-markets-2026-dates-opening-times, small-business-saturday-uk-2026-5-december, edinburghs-christmas-2026-dates-big-wheel-hogmanay-torchlight]
 downloads:
   - group: "UK Christmas Markets 2026 printables"
     title: "UK Christmas Markets 2026: York, Bath, Cardiff, Lincoln, Belfast"
