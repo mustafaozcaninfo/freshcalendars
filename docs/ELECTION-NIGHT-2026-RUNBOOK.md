@@ -2,17 +2,18 @@
 
 Story: `apps/news/src/content/articles/2026/11/election-day-2026-results-map.md` (live at `/news/election-day-2026-results-map/`).
 
-The scoreboard, both tile maps, the wave table and the Senate, governor and state tables are generated from two JSON files, so they never disagree. The prose and the live entries are written by hand.
+The scoreboard, both tile maps, the wave table and the Senate, governor and state tables and the live entries are generated from JSON files (static data, status, updates), so they never disagree. The prose around them is written by hand.
 
 | File | Who edits it |
 |---|---|
 | `packages/generator/data/election-live-2026.json` | static: states, closing waves, seats, official links. Change only to fix a fact |
 | `packages/generator/data/election-live-2026-status.json` | the editor, all night: data time, headline, race calls, House seats called |
+| `packages/generator/data/election-live-2026-updates.json` | the editor, all night: the live entries, newest first. `visible` is how many stay open on the page (4); the rest become one-line disclosures under "Earlier updates" |
 | `packages/generator/src/electionLive.ts` | the generator and its validation |
 
 ## One update, step by step
 
-1. Add the entry to the story under "Live updates, newest first": a `### 9:14 p.m. ET: headline` heading, two to four plain sentences, and the source links. Newest entry on top. Time is Eastern and is the time the source reported.
+1. Add the entry at the top of `election-live-2026-updates.json`: `{ "time": "9:14 p.m. ET", "headline": "...", "body": "two to four plain sentences ending with Sources: [NBC News](url) and [Fox News](url)." }`. Newest entry first. Time is Eastern and is the time the source reported (after midnight: "12:35 a.m. ET"). The body is Markdown and needs at least one source link; the generator checks it. Do not edit the entries inside the story file: the generator writes them.
 2. Edit `election-live-2026-status.json`:
    - `asOf`: ISO time with offset (`2026-11-03T21:20:00-05:00`). Polls count as closed when their wave time is at or before `asOf`.
    - `headline`: one sentence shown above the scoreboard ("Polls have closed in 23 states; 2 Senate races have been called.").
@@ -44,7 +45,7 @@ The scoreboard, both tile maps, the wave table and the Senate, governor and stat
 - `winnerParty` is `D`, `R`, `I` or `O` (independent or other).
 - Nonpartisan: no polls, predictions, ratings or endorsements. Nothing unconfirmed goes on the page; when a source is blocked, use another official one.
 - A withdrawn call or a changed count is a new entry. Do not delete earlier entries.
-- Only the generated blocks change between the markers `<!-- live:NAME:start -->` and `<!-- live:NAME:end -->`. Do not edit inside them by hand.
+- Only the generated blocks change between the markers `<!-- live:NAME:start -->` and `<!-- live:NAME:end -->` (`updates`, `scoreboard`, the maps and the tables). Do not edit inside them by hand.
 
 ## After election night
 

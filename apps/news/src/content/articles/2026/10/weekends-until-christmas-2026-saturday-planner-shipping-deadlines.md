@@ -85,7 +85,7 @@ internalLinks:
     label: "When is Christmas Day"
   - href: "/printable-weekly-calendar.html"
     label: "Printable weekly calendar"
-related: [christmas-2026-calendar-printable-countdown, usps-holiday-shipping-deadlines-2026, powerball-drawing-tonight-monday-november-2-2026-time-jackpot-793-million]
+related: [secret-santa-2026-printable, usps-holiday-shipping-deadlines-2026, christmas-gift-list-budget-planner-2026]
 downloads:
   - group: "Weekends Until Christmas 2026 Planner printables"
     title: "Weekends Until Christmas 2026 Planner"

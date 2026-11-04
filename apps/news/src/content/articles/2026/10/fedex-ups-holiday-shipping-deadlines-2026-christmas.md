@@ -81,7 +81,7 @@ internalLinks:
     label: "December 2026 printable calendar"
   - href: "/when-is/christmas-day/"
     label: "When is Christmas Day"
-related: [usps-holiday-shipping-deadlines-2026, canada-post-holiday-shipping-deadlines-2026-christmas]
+related: [usps-holiday-shipping-deadlines-2026, christmas-gift-list-budget-planner-2026, canada-post-holiday-shipping-deadlines-2026-christmas]
 draft: false
 downloads:
   - group: "FedEx printables"

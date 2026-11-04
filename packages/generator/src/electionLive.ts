@@ -17,6 +17,7 @@ import { LETTER, doc } from "./julian.js";
 
 const DATA = "packages/generator/data/election-live-2026.json";
 const STATUS = "packages/generator/data/election-live-2026-status.json";
+const UPDATES = "packages/generator/data/election-live-2026-updates.json";
 const STORY = "apps/news/src/content/articles/2026/11/election-day-2026-results-map.md";
 
 type Party = "D" | "R" | "I" | "O";
@@ -32,6 +33,9 @@ type Control = {
   house: { seats: number; majority: number; composition: Record<string, number>; fileDate: string };
 };
 type Data = { updated: string; control: Control; states: State[] };
+/** One live blog entry. `body` is Markdown and keeps its own source links. */
+type Update = { time: string; headline: string; body: string };
+type Updates = { visible?: number; entries: Update[] };
 
 const WAVES = ["6 p.m.", "7 p.m.", "7:30 p.m.", "8 p.m.", "8:30 p.m.", "9 p.m.", "10 p.m.", "11 p.m.", "midnight"];
 const WAVE_MIN = [1080, 1140, 1170, 1200, 1230, 1260, 1320, 1380, 1440];
@@ -72,7 +76,7 @@ const dayLabel = (iso: string) => `Nov. ${3 + Math.floor(etMinutes(iso) / 1440)}
 const waveIndex = (s: State) => WAVES.indexOf(s.waveEt);
 const joinNames = (a: string[]) => (a.length <= 2 ? a.join(" and ") : `${a.slice(0, -1).join(", ")} and ${a[a.length - 1]}`);
 
-type Ctx = { data: Data; status: Status; asOf: number; closed: (s: State) => boolean };
+type Ctx = { data: Data; status: Status; updates: Updates; asOf: number; closed: (s: State) => boolean };
 
 function raceOf(ctx: Ctx, s: State, kind: "S" | "G"): Race | undefined {
   return ctx.status.races[`${s.abbr}-${kind}`];
@@ -97,8 +101,21 @@ function shortText(ctx: Ctx, s: State, r: Race | undefined): string {
 }
 
 // ── Validation ───────────────────────────────────────────────────────────────
-export function problems(data: Data, status: Status): string[] {
+export function problems(data: Data, status: Status, updates?: Updates): string[] {
   const out: string[] = [];
+  if (updates) {
+    if (!updates.entries?.length) out.push("updates: no entries");
+    if (updates.visible !== undefined && !(Number.isInteger(updates.visible) && updates.visible >= 1)) out.push("updates: visible must be a whole number of at least 1");
+    const seen = new Set<string>();
+    (updates.entries ?? []).forEach((e, i) => {
+      const where = `updates[${i}] ${e.time ?? "?"}`;
+      if (!e.time?.trim() || !e.headline?.trim() || !e.body?.trim()) out.push(`${where}: time, headline and body are required`);
+      const key = `${e.time}|${e.headline}`;
+      if (seen.has(key)) out.push(`${where}: duplicate entry`);
+      seen.add(key);
+      if (!/\]\(https?:\/\//.test(e.body ?? "") && !/\]\(\//.test(e.body ?? "")) out.push(`${where}: no source or internal link in the body`);
+    });
+  }
   const st = data.states;
   if (st.length !== 51) out.push(`expected 51 jurisdictions, found ${st.length}`);
   if (st.filter((s) => s.senate).length !== 35) out.push("expected 35 Senate races");
@@ -275,7 +292,20 @@ function statesTable(ctx: Ctx): string {
   ].join("\n");
 }
 
+/** Newest `visible` updates open as sections; the rest are one-line disclosures so the page stays short. */
+function updatesBlock(ctx: Ctx): string {
+  const { entries, visible = 6 } = ctx.updates;
+  const shown = entries.slice(0, visible), older = entries.slice(visible);
+  const parts = shown.map((e) => `### ${e.time}: ${e.headline}\n\n${e.body}`);
+  if (older.length) {
+    const items = older.map((e) => `<details>\n<summary>${esc(e.time)}: ${esc(e.headline)}</summary>\n\n${e.body}\n\n</details>`);
+    parts.push(`### Earlier updates (${older.length})\n\n${items.join("\n\n")}`);
+  }
+  return parts.join("\n\n");
+}
+
 const BLOCKS: Record<string, (c: Ctx) => string> = {
+  updates: updatesBlock,
   scoreboard, "map-status": statusMap, "map-waves": waveMap, waves: wavesTable, senate: senateTable, governors: governorsTable, states: statesTable,
 };
 
@@ -286,9 +316,9 @@ function replaceBlock(text: string, name: string, body: string): string {
   return text.slice(0, i + a.length) + "\n" + body + "\n" + text.slice(j);
 }
 
-export function renderBlocks(story: string, data: Data, status: Status): string {
+export function renderBlocks(story: string, data: Data, status: Status, updates: Updates): string {
   const asOf = etMinutes(status.asOf);
-  const ctx: Ctx = { data, status, asOf, closed: (s) => WAVE_MIN[waveIndex(s)] <= asOf };
+  const ctx: Ctx = { data, status, updates, asOf, closed: (s) => WAVE_MIN[waveIndex(s)] <= asOf };
   let out = story;
   for (const [name, fn] of Object.entries(BLOCKS)) out = replaceBlock(out, name, fn(ctx));
   return out;
@@ -296,13 +326,13 @@ export function renderBlocks(story: string, data: Data, status: Status): string 
 
 export async function buildElectionLive(args: string[]): Promise<void> {
   const flag = (n: string) => { const i = args.indexOf(n); return i >= 0 ? args[i + 1] : undefined; };
-  const data = read<Data>(DATA), status = read<Status>(flag("--status") ?? STATUS);
-  const bad = problems(data, status);
+  const data = read<Data>(DATA), status = read<Status>(flag("--status") ?? STATUS), updates = read<Updates>(flag("--updates") ?? UPDATES);
+  const bad = problems(data, status, updates);
   if (bad.length) { console.error(bad.map((p) => `✗ ${p}`).join("\n")); process.exitCode = 1; return; }
   if (args.includes("--check")) { console.log("election live data OK"); return; }
   if (args.includes("--print")) { await buildElectionLivePrintables(); return; }
   const file = path.resolve(ROOT, flag("--story") ?? STORY);
-  const before = fs.readFileSync(file, "utf8"), after = renderBlocks(before, data, status);
+  const before = fs.readFileSync(file, "utf8"), after = renderBlocks(before, data, status, updates);
   if (after === before) console.log("story blocks unchanged");
   else { fs.writeFileSync(file, after); console.log(`story blocks updated: ${path.relative(ROOT, file)}`); }
 }

@@ -26,6 +26,10 @@ import { buildElection2026Downloads } from "./election2026.js";
 import { buildElectionLive } from "./electionLive.js";
 import { buildGta6Downloads } from "./gta6.js";
 import { buildVeteransDownloads } from "./veterans.js";
+import { buildNflBracketDownloads } from "./nflBracket.js";
+import { buildGiftListDownloads } from "./giftList.js";
+import { buildHabitTrackerDownloads } from "./habitTracker.js";
+import { buildThanksgivingCookingDownloads } from "./thanksgivingCooking.js";
 import { buildShoppingDownloads } from "./shopping2026.js";
 import { buildSkyDownloads } from "./sky2026.js";
 import { buildHeroes5 } from "./heroes5.js";
@@ -152,6 +156,14 @@ async function main(): Promise<void> {
       await buildGta6Downloads();
     } else if (cmd === "news-veterans") {
       await buildVeteransDownloads();
+    } else if (cmd === "news-nfl-bracket") {
+      await buildNflBracketDownloads();
+    } else if (cmd === "news-habit-tracker") {
+      await buildHabitTrackerDownloads();
+    } else if (cmd === "news-gift-list") {
+      await buildGiftListDownloads();
+    } else if (cmd === "news-thanksgiving-cooking") {
+      await buildThanksgivingCookingDownloads();
     } else if (cmd === "news-shopping") {
       await buildShoppingDownloads();
     } else if (cmd === "news-sky") {
@@ -246,6 +258,9 @@ async function main(): Promise<void> {
   pnpm fc news-heroes4                     # /news/ hero illustrations for the Election 2026 batch
   pnpm fc news-gta6                        # /news/ GTA 6 launch countdown calendar
   pnpm fc news-veterans                    # /news/ Veterans Day free meals cheat sheet
+  pnpm fc news-nfl-bracket                 # /news/ NFL Playoff Bracket 2027 fill-in printable
+  pnpm fc news-gift-list                   # /news/ Christmas gift list and budget planner 2026
+  pnpm fc news-thanksgiving-cooking        # /news/ Thanksgiving Day 2026 cooking plan by turkey weight
   pnpm fc news-shopping                    # /news/ Black Friday planner + Christmas Eve checklist (3 themes each)
   pnpm fc news-sky                         # /news/ Orionid viewing times + checklist (night, ink)
   pnpm fc news-heroes5                     # /news/ spoiler-free heroes for daily puzzle stories

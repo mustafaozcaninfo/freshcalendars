@@ -1,5 +1,25 @@
 [
   {
+    "date": "2026-11-26",
+    "label": "Thanksgiving: stock market closed"
+  },
+  {
+    "date": "2026-11-27",
+    "label": "Stock market early close, 1:00 p.m. Eastern Time"
+  },
+  {
+    "date": "2026-12-24",
+    "label": "Stock market early close, 1:00 p.m. Eastern Time"
+  },
+  {
+    "date": "2026-12-25",
+    "label": "Christmas: stock market closed"
+  },
+  {
+    "date": "2027-01-01",
+    "label": "New Year's Day: stock market closed"
+  },
+  {
     "date": "2027-03-26",
     "label": "Good Friday: stock market closed"
   }
