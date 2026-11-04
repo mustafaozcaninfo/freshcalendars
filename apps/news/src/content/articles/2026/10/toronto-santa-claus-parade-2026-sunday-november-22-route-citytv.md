@@ -64,7 +64,7 @@ internalLinks:
     label: "Canada holidays"
   - href: "/december-calendars.html"
     label: "December 2026 printable calendar"
-related: [remembrance-day-2026-canada-statutory-holiday-remembrance-sunday-uk, boxing-day-2026-canada-saturday-december-26-day-off-monday-december-28, ottawa-santa-claus-parade-2026-november-21-route-time]
+related: [santa-claus-parades-2026-canada-hamilton-mississauga-halifax-winnipeg, boxing-day-2026-canada-saturday-december-26-day-off-monday-december-28, ottawa-santa-claus-parade-2026-november-21-route-time]
 downloads:
   - group: "Santa Claus Parade 2026 Day Planner printables"
     title: "Santa Claus Parade 2026 Day Planner, Toronto and Ottawa"
