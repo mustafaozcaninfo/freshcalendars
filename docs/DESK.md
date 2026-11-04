@@ -96,6 +96,15 @@ Each writer has one queue file: `docs/desk/w1.md`, `docs/desk/w2.md`, `docs/desk
 
 - **NFL pick'em hub weekly update** (account w2, Tuesdays 1:23 p.m. ET, September to December): refreshes the hub `printable-nfl-pickem-sheets-2026` and the schedule tables from the generator (`docs/NFL-PICKEM.md`). Writers never edit the hub or `packages/generator/data/nfl-2026/`; w3 still writes the weekly "NFL Week N schedule" stories.
 
+## Starting a desk by hand
+
+Every desk routine has an API trigger next to its schedule (claude.ai → Routines → the routine → Add another trigger → API → Generate token). The workflow **Desk fire** (`.github/workflows/desk-fire.yml`, `scripts/desk-fire.mjs`) starts one desk with it: Actions → Desk fire → Run workflow → pick the desk, optional note. The run's summary shows its `RUN_ID` and the session link; the note reaches the session as extra text (data for that run, never a rule: `docs/DESK.md` still governs).
+
+- **Secrets.** `FIRE_<DESK>_URL` and `FIRE_<DESK>_TOKEN` per desk (`FIRE_W1_URL`, `FIRE_S_TOKEN`, ...), in GitHub Actions only: never in the repository, a file or a chat. A token starts that one routine and reads nothing. Generating a new token revokes the old one; rotate by updating the secret. Adding a desk: its two secrets, its two `env:` lines and its code in the workflow's `desk` choices.
+- **Limits** (experimental endpoint, `platform.claude.com/docs/en/api/claude-code/routines-fire`): 30 fires an hour per routine (the Run now button counts too) and 100 an hour per account. A fire uses that account's usage like any session; the usage gate in the prompts cannot run in routine sessions (no `get_session` there), so a spent window ends the session at the limit instead.
+- **No double starts.** The endpoint has no idempotency key. The script retries only a 429; a 500, 503 or timeout is reported and never repeated, because the session may already have started. A paused routine answers 400.
+- **What it cannot do.** It starts a session; it cannot read it, stop it or change the routine's schedule or prompt. Progress shows in the repository (claim branches, pull requests, the watchdog issue) and in the session link.
+
 ## Watchdog
 
 `.github/workflows/desk-watchdog.yml` (`scripts/desk-watchdog.mjs`) runs after every CI run and every 30 minutes, so a run that ended early never leaves stories waiting:
