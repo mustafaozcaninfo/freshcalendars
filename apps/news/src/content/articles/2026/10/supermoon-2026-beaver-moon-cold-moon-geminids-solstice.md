@@ -4,7 +4,7 @@ seoTitle: "Supermoon 2026: Beaver Moon, Cold Moon, Geminids"
 description: "Two supermoons end 2026: the Beaver Moon Nov. 24 and Cold Moon Dec. 23, plus the Geminids on Dec. 13-14 and the winter solstice Dec. 21, in Eastern Time (ET)."
 type: explainer
 publishedAt: "2026-10-24T00:50:00-04:00"
-updatedAt: "2026-11-02T14:10:00-05:00"
+updatedAt: "2026-11-04T09:08:00-05:00"
 authors: [jessica-hartwell]
 category: sky-events
 keywords: ["supermoon november 2026", "beaver moon 2026", "cold moon december 2026", "geminid meteor shower 2026", "winter solstice 2026"]
@@ -35,14 +35,15 @@ assets:
     alt: "Night sky calendar for November and December 2026 listing the Beaver Moon, Cold Moon, Geminids, Ursids and winter solstice"
 hero:
   src: ../../../../assets/news/supermoon-2026-beaver-moon-cold-moon-geminids-solstice/supermoon-2026-beaver-moon-cold-moon-geminids-solstice.webp
-  alt: "Supermoon November 2026: a large, bright full moon rising in a dark sky, a file photo of a supermoon"
-  caption: "A supermoon rises in a NASA file photo. The 2026 Beaver Moon on Nov. 24 and the Cold Moon on Dec. 23 both qualify as supermoons under one common definition."
-  credit: "Photo: NASA GSFC"
+  alt: "Supermoon rising: a large, pink full moon above a tree line in a deep blue evening sky, a file photo of a supermoon"
+  caption: "A supermoon rises over a tree line in a file photo. The Beaver Moon on Nov. 24 and the Cold Moon on Dec. 23, 2026, both qualify as supermoons under one common definition."
+  credit: "Photo: Dave Grubb from UK / Wikimedia Commons, cropped"
   license:
-    name: "Public domain (NASA)"
-    url: "https://www.nasa.gov/nasa-brand-center/images-and-media/"
-    source: "https://images.nasa.gov/details/GSFC_20171208_Archive_e000160"
-    author: "NASA GSFC"
+    name: "CC BY-SA 2.0"
+    url: "https://creativecommons.org/licenses/by-sa/2.0"
+    source: "https://commons.wikimedia.org/wiki/File:Super_Moon_rising..._(14904581902).jpg"
+    author: "Dave Grubb from UK"
+    authorUrl: "https://www.flickr.com/people/39281291@N02"
 summary:
   - "The Beaver Moon is full on Tuesday, Nov. 24, 2026, at 9:53 a.m. Eastern Standard Time (EST), two days before Thanksgiving."
   - "The Cold Moon is full on Wednesday, Dec. 23, 2026, at 8:28 p.m. EST; it is the closest full moon of 2026 and a supermoon."
