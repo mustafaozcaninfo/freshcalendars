@@ -1,6 +1,6 @@
 {
-  "asOf": "2026-11-03T22:09:24-05:00",
-  "headline": "Polls have closed in states through the 10 p.m. ET wave. Fifteen U.S. Senate races, nine governor races and five U.S. House seats are marked called.",
+  "asOf": "2026-11-04T00:05:00-05:00",
+  "headline": "Polls have closed in every state except the Aleutian Islands of Alaska, which close at 1 a.m. ET. Twenty-five U.S. Senate races, twenty governor races and ten U.S. House seats are marked called. NBC News, CBS News and Fox News have each projected that Democrats will win a House majority and a Senate majority; this page counts seats only as individual races are called.",
   "races": {
     "VA-S": {
       "status": "called",
@@ -245,6 +245,221 @@
         "Fox News"
       ],
       "at": "2026-11-03T21:54:00-05:00"
+    },
+    "NM-S": {
+      "status": "called",
+      "winner": "Ben Ray Luj\u00e1n",
+      "winnerParty": "D",
+      "calledBy": [
+        "NBC News",
+        "Fox News"
+      ],
+      "at": "2026-11-03T22:17:00-05:00"
+    },
+    "AR-G": {
+      "status": "called",
+      "winner": "Sarah Huckabee Sanders",
+      "winnerParty": "R",
+      "calledBy": [
+        "NBC News",
+        "Fox News"
+      ],
+      "at": "2026-11-03T22:13:00-05:00"
+    },
+    "AR-S": {
+      "status": "called",
+      "winner": "Tom Cotton",
+      "winnerParty": "R",
+      "calledBy": [
+        "NBC News",
+        "Fox News"
+      ],
+      "at": "2026-11-03T22:36:00-05:00"
+    },
+    "WY-G": {
+      "status": "called",
+      "winner": "Eric Barlow",
+      "winnerParty": "R",
+      "calledBy": [
+        "NBC News",
+        "Fox News"
+      ],
+      "at": "2026-11-03T22:28:00-05:00"
+    },
+    "TX-S": {
+      "status": "called",
+      "winner": "James Talarico",
+      "winnerParty": "D",
+      "calledBy": [
+        "NBC News",
+        "CBS News"
+      ],
+      "at": "2026-11-03T22:53:00-05:00"
+    },
+    "OR-S": {
+      "status": "called",
+      "winner": "Jeff Merkley",
+      "winnerParty": "D",
+      "calledBy": [
+        "NBC News",
+        "Fox News"
+      ],
+      "at": "2026-11-03T23:00:00-05:00"
+    },
+    "OH-G": {
+      "status": "called",
+      "winner": "Amy Acton",
+      "winnerParty": "D",
+      "calledBy": [
+        "NBC News",
+        "CBS News",
+        "Fox News"
+      ],
+      "at": "2026-11-03T22:54:00-05:00"
+    },
+    "NM-G": {
+      "status": "called",
+      "winner": "Deb Haaland",
+      "winnerParty": "D",
+      "calledBy": [
+        "NBC News",
+        "Fox News"
+      ],
+      "at": "2026-11-03T22:55:00-05:00"
+    },
+    "OH-S": {
+      "status": "called",
+      "winner": "Sherrod Brown",
+      "winnerParty": "D",
+      "calledBy": [
+        "NBC News",
+        "CBS News",
+        "Fox News"
+      ],
+      "at": "2026-11-03T23:17:00-05:00"
+    },
+    "WY-S": {
+      "status": "called",
+      "winner": "Harriet Hageman",
+      "winnerParty": "R",
+      "calledBy": [
+        "NBC News",
+        "Fox News"
+      ],
+      "at": "2026-11-03T23:09:00-05:00"
+    },
+    "TX-G": {
+      "status": "called",
+      "winner": "Gina Hinojosa",
+      "winnerParty": "D",
+      "calledBy": [
+        "NBC News",
+        "CBS News",
+        "Fox News"
+      ],
+      "at": "2026-11-03T23:13:00-05:00"
+    },
+    "IA-G": {
+      "status": "called",
+      "winner": "Rob Sand",
+      "winnerParty": "D",
+      "calledBy": [
+        "NBC News",
+        "CBS News"
+      ],
+      "at": "2026-11-03T23:14:00-05:00"
+    },
+    "KS-S": {
+      "status": "called",
+      "winner": "Adam Hamilton",
+      "winnerParty": "D",
+      "calledBy": [
+        "NBC News",
+        "CBS News",
+        "Fox News"
+      ],
+      "at": "2026-11-03T23:24:00-05:00"
+    },
+    "IA-S": {
+      "status": "called",
+      "winner": "Josh Turek",
+      "winnerParty": "D",
+      "calledBy": [
+        "NBC News",
+        "CBS News",
+        "Fox News"
+      ],
+      "at": "2026-11-03T23:27:00-05:00"
+    },
+    "AL-S": {
+      "status": "called",
+      "winner": "Barry Moore",
+      "winnerParty": "R",
+      "calledBy": [
+        "NBC News",
+        "Fox News"
+      ],
+      "at": "2026-11-03T23:35:00-05:00"
+    },
+    "SD-S": {
+      "status": "called",
+      "winner": "Mike Rounds",
+      "winnerParty": "R",
+      "calledBy": [
+        "NBC News",
+        "Fox News"
+      ],
+      "at": "2026-11-03T23:40:00-05:00"
+    },
+    "SD-G": {
+      "status": "called",
+      "winner": "Larry Rhoden",
+      "winnerParty": "R",
+      "calledBy": [
+        "NBC News",
+        "Fox News"
+      ],
+      "at": "2026-11-03T23:42:00-05:00"
+    },
+    "ME-G": {
+      "status": "called",
+      "winner": "Hannah Pingree",
+      "winnerParty": "D",
+      "calledBy": [
+        "NBC News",
+        "Fox News"
+      ],
+      "at": "2026-11-04T00:00:00-05:00"
+    },
+    "HI-G": {
+      "status": "called",
+      "winner": "Josh Green",
+      "winnerParty": "D",
+      "calledBy": [
+        "NBC News",
+        "Fox News"
+      ],
+      "at": "2026-11-04T00:00:00-05:00"
+    },
+    "WI-G": {
+      "status": "called",
+      "winner": "David Crowley",
+      "winnerParty": "D",
+      "calledBy": [
+        "NBC News",
+        "Fox News"
+      ],
+      "at": "2026-11-03T23:52:00-05:00"
+    },
+    "OK-G": {
+      "status": "called",
+      "winner": "Mike Mazzei",
+      "winnerParty": "R",
+      "calledBy": [
+        "NBC News",
+        "Fox News"
+      ],
+      "at": "2026-11-03T23:55:00-05:00"
     }
   },
   "house": {
@@ -259,6 +474,21 @@
       "O": 0
     },
     "NJ": {
+      "D": 1,
+      "R": 0,
+      "O": 0
+    },
+    "PA": {
+      "D": 3,
+      "R": 0,
+      "O": 0
+    },
+    "TX": {
+      "D": 1,
+      "R": 0,
+      "O": 0
+    },
+    "VA": {
       "D": 1,
       "R": 0,
       "O": 0
