@@ -4,7 +4,7 @@ seoTitle: "Black Friday 2026 Store Hours: Walmart, Target, Best Buy"
 description: "Black Friday is Nov. 27, 2026. Opening times for Walmart, Home Depot, Kohl's, JCPenney and more, which stores close on Thanksgiving, and a printable planner."
 type: update
 publishedAt: "2026-10-20T17:30:00-04:00"
-updatedAt: "2026-11-03T15:25:00-05:00"
+updatedAt: "2026-11-03T19:24:00-05:00"
 authors: [jessica-hartwell]
 category: retail-dates
 keywords: ["Black Friday 2026 store hours", "what time does Walmart open on Black Friday", "Target Black Friday hours 2026", "Best Buy Black Friday 2026", "stores closed on Thanksgiving 2026"]
@@ -148,7 +148,7 @@ Most national chains now stay closed on Thanksgiving Day. For 2026, Walmart, Hom
 
 ## When the deals start
 
-Black Friday sales now run for weeks before the day itself. Lowe's started "Four Weeks of Black Friday Deals" on Oct. 29, followed by 12 Days of Deals beginning Nov. 16, with early online access for MyLowe's Rewards members. This year Walmart runs Early Black Friday Deals from Nov. 12 to 15 and Black Friday Deals from Nov. 23 to 29, with online access at 12:01 a.m. ET and stores at 6 a.m. local time, it announced on Oct. 26. JCPenney's Black Friday Deals run Nov. 20 to 29, with in-store giveaways at 5 a.m., 9 a.m., 1 p.m. and 5 p.m. on Nov. 27. Best Buy said on Oct. 27: "The holiday savings pick up Nov. 6 with the arrival of Early Black Friday Deals and Doorbusters," and "Starting Nov. 19, Best Buy will offer 10 days of Black Friday doorbusters and deals." Last year Walmart's events ran Nov. 14 to 16 and Nov. 25 to 30, and Amazon's Black Friday Week ran Nov. 20 to Dec. 1. For 2026, Amazon's page confirms Black Friday on Nov. 27 and Cyber Monday on Nov. 30, but Amazon has not announced when its 2026 Black Friday Week starts.
+Black Friday sales now run for weeks before the day itself. Lowe's started "Four Weeks of Black Friday Deals" on Oct. 29, followed by 12 Days of Deals beginning Nov. 16, with early online access for MyLowe's Rewards members. This year Walmart runs Early Black Friday Deals from Nov. 12 to 15 and Black Friday Deals from Nov. 23 to 29, with online access at 12:01 a.m. ET and stores at 6 a.m. local time, it announced on Oct. 26. Kohl's said on Oct. 30 that Black Friday Early Access runs Nov. 6 to 8, Black Friday Week Nov. 22 to 28 and Cyber Deals Nov. 29 to 30. JCPenney's Black Friday Deals run Nov. 20 to 29, with in-store giveaways at 5 a.m., 9 a.m., 1 p.m. and 5 p.m. on Nov. 27. Best Buy said on Oct. 27: "The holiday savings pick up Nov. 6 with the arrival of Early Black Friday Deals and Doorbusters," and "Starting Nov. 19, Best Buy will offer 10 days of Black Friday doorbusters and deals." Last year Walmart's events ran Nov. 14 to 16 and Nov. 25 to 30, and Amazon's Black Friday Week ran Nov. 20 to Dec. 1. For 2026, Amazon's page confirms Black Friday on Nov. 27, but Amazon has not announced when its 2026 Black Friday Week starts.
 
 ## The rest of the long weekend
 
