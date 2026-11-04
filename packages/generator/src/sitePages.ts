@@ -497,11 +497,17 @@ ${adsEnabled ? `<script>${ADSENSE_JS}</script>` : ""}
 </html>`;
 }
 
-function monthChips(currentSlug?: string): string {
+/** Month chips in a 3×4 grid: the page's month is filled, the visitor's current month carries a dot. */
+function monthChips(currentSlug?: string, today: Date = new Date()): string {
+  const nowSlug = MONTH_SLUGS[today.getMonth()];
   return MONTH_SLUGS.map((m) => {
     const label = `${m[0]!.toUpperCase()}${m.slice(1)}`;
-    const cls = currentSlug === m ? " is-current" : "";
-    return `<a class="${cls.trim()}" href="/${m}-calendars.html">${label}</a>`;
+    const cls = [currentSlug === m ? "is-current" : "", nowSlug === m ? "is-now" : ""].filter(Boolean).join(" ");
+    const aria = currentSlug === m ? ' aria-current="page"' : "";
+    // Three-letter labels keep the 3×4 grid on one line per chip in a 240px column; the
+    // accessible name and tooltip carry the full month.
+    const title = nowSlug === m ? `${label} (this month)` : `${label} calendar`;
+    return `<a${cls ? ` class="${cls}"` : ""} href="/${m}-calendars.html"${aria} title="${title}" aria-label="${title}">${label.slice(0, 3)}</a>`;
   }).join("");
 }
 
@@ -540,10 +546,20 @@ function todaySidebarCard(today: Date = new Date()): string {
 </div>`;
 }
 
+type SideLink = { href: string; label: string; title?: string };
+
+/**
+ * Right-hand column of the calendar pages, page-first: a focus card about this page (a countdown,
+ * the month's holidays, the next holiday; the Today card when a page has none), the month grid,
+ * up to six links chosen for the page, then the full link list folded under "More links" so
+ * every page still links the whole site. The download card goes last and is the only sticky
+ * part: the column is taller than the window, so a sticky column hid its own bottom.
+ */
 function sidebar(opts: {
   title?: string;
   currentSlug?: string;
   year?: number | null;
+  /** @deprecated previous/next month now sits above the calendar (monthPager) */
   month?: number | null;
   downloads?: { png: string; pdf: string };
   downloadTitles?: { png: string; pdf: string };
@@ -551,21 +567,40 @@ function sidebar(opts: {
   /** Default true — omit on legal/contact pages */
   ads?: boolean;
   today?: Date;
+  /** Page-specific card in place of the Today card. Wrap time-dependent content in volatile(). */
+  focus?: string;
+  /** Up to six links for this page; the rest of the site's links fold under "More links". */
+  links?: SideLink[];
+  linksTitle?: string;
 }): string {
-  const y = opts.year ?? new Date().getFullYear();
-  const planningY = resolvePlanningYear(opts.today ?? new Date());
+  const today = opts.today ?? new Date();
+  const y = opts.year ?? today.getFullYear();
+  const planningY = resolvePlanningYear(today);
   const nextPlanningY = planningY + 1;
-  const prevNext =
-    opts.month != null
-      ? (() => {
-          const prev = opts.month === 1 ? 12 : opts.month - 1;
-          const next = opts.month === 12 ? 1 : opts.month + 1;
-          return `<div class="side-links">
-  <a href="/${monthNumberToSlug(prev)}-calendars.html">← ${monthNumberToName(prev)}</a>
-  <a href="/${monthNumberToSlug(next)}-calendars.html">${monthNumberToName(next)} →</a>
-</div>`;
-        })()
-      : "";
+  const all: SideLink[] = [
+    { href: "/printable-calendars.html", label: `${planningY} yearly calendar`, title: `${planningY} printable yearly calendar` },
+    { href: "/printable-yearly-calendar.html", label: `${nextPlanningY} yearly calendar`, title: `${nextPlanningY} printable yearly calendar` },
+    { href: "/printable-weekly-calendar.html", label: "Weekly calendar", title: "Printable weekly calendar" },
+    { href: "/printable-school-calendar.html", label: "School year", title: "Printable school year calendar" },
+    { href: "/page/school-holidays/", label: "School holidays", title: "School holiday planning" },
+    { href: "/blank-calendars.html", label: "Blank calendar", title: "Printable blank undated calendar" },
+    { href: "/printable-blank-yearly-calendar.html", label: "Blank yearly", title: "Printable blank yearly calendar" },
+    { href: "/printable-monday-start-calendar.html", label: "Monday start", title: "Monday-start calendars" },
+    { href: "/holidays/", label: `${planningY} US holidays`, title: `${planningY} US holidays list` },
+    { href: "/uk-holidays/", label: "UK holidays", title: `${planningY} UK holidays` },
+    { href: "/canada-holidays/", label: "Canada holidays", title: `${planningY} Canada holidays` },
+    { href: "/print-guide.html", label: "Print guide", title: "How to print a calendar" },
+    { href: "/guides/classroom-printable-calendars.html", label: "Classroom guide", title: "Classroom printable calendars guide" },
+    { href: "/guides/monday-start-calendar.html", label: "Monday vs Sunday start", title: "Monday-start vs Sunday-start calendars" },
+    { href: "/guides/fiscal-year-calendar.html", label: "Fiscal year guide", title: "Fiscal year vs calendar year printables" },
+    { href: "/page/daylight-savings/", label: "Daylight saving time", title: "US daylight saving time dates" },
+    { href: "/when-is/thanksgiving/", label: "Thanksgiving", title: `When is Thanksgiving ${y}?` },
+    { href: "/when-is/easter/", label: "Easter", title: `When is Easter ${y}?` },
+  ];
+  const picked = (opts.links ?? [all[0]!, all[2]!, all[3]!, all[5]!, all[8]!, all[11]!]).slice(0, 6);
+  const pickedHrefs = new Set(picked.map((l) => l.href));
+  const rest = all.filter((l) => !pickedHrefs.has(l.href));
+  const linkHtml = (l: SideLink) => `<a href="${l.href}"${l.title ? ` title="${esc(l.title)}"` : ""}>${esc(l.label)}</a>`;
   const dl = opts.downloads
     ? `<div class="cta" style="margin:0">
   ${downloadBtn(opts.downloads.pdf, "PDF", opts.downloadTitles?.pdf ?? `Download PDF | Fresh Calendars`, "primary", "sm")}
@@ -574,43 +609,48 @@ function sidebar(opts: {
     : "";
   return `
 <aside class="sidebar" aria-label="Calendar navigation">
-  ${volatile(todaySidebarCard(opts.today))}
+  ${opts.focus ?? volatile(todaySidebarCard(today))}
   <div class="side-card">
     <h2>${esc(opts.title ?? "Browse months")}</h2>
-    <div class="month-chips">${monthChips(opts.currentSlug)}</div>
+    <div class="month-chips">${monthChips(opts.currentSlug, today)}</div>
   </div>
   <div class="side-card">
-    <h3>Quick links</h3>
+    <h3>${esc(opts.linksTitle ?? (opts.links ? "Plan with this page" : "Popular printables"))}</h3>
     <div class="side-links">
-      <a href="/printable-calendars.html" title="${planningY} printable yearly calendar">${planningY} yearly calendar</a>
-      <a href="/printable-yearly-calendar.html" title="${nextPlanningY} printable yearly calendar">${nextPlanningY} yearly calendar</a>
-      <a href="/printable-weekly-calendar.html" title="Printable weekly calendar">Weekly calendar</a>
-      <a href="/printable-school-calendar.html" title="Printable school year calendar">School year</a>
-      <a href="/page/school-holidays/" title="School holiday planning">School holidays</a>
-      <a href="/blank-calendars.html" title="Printable blank undated calendar">Blank calendar</a>
-      <a href="/printable-blank-yearly-calendar.html" title="Printable blank yearly calendar">Blank yearly</a>
-      <a href="/printable-monday-start-calendar.html" title="Monday-start calendars">Monday start</a>
-      <a href="/holidays/" title="${planningY} US holidays list">${planningY} US holidays</a>
-      <a href="/uk-holidays/" title="${planningY} UK holidays">UK holidays</a>
-      <a href="/canada-holidays/" title="${planningY} Canada holidays">Canada holidays</a>
-      <a href="/print-guide.html" title="How to print a calendar">Print guide</a>
-      <a href="/guides/classroom-printable-calendars.html" title="Classroom printable calendars guide">Classroom guide</a>
-      <a href="/guides/monday-start-calendar.html" title="Monday-start vs Sunday-start calendars">Monday vs Sunday start</a>
-      <a href="/guides/fiscal-year-calendar.html" title="Fiscal year vs calendar year printables">Fiscal year guide</a>
-      <a href="/page/daylight-savings/" title="US daylight saving time dates">Daylight saving time</a>
-      <a href="/when-is/thanksgiving/" title="When is Thanksgiving ${y}?">Thanksgiving</a>
-      <a href="/when-is/easter/" title="When is Easter ${y}?">Easter</a>
+      ${picked.map(linkHtml).join("\n      ")}
     </div>
-    ${prevNext}
+    <details class="side-more"><summary>More links</summary><div class="side-links">
+      ${rest.map(linkHtml).join("\n      ")}
+    </div></details>
   </div>
-  ${
-    dl
-      ? `<div class="side-card"><h3>Download</h3><p>Print-ready PNG and PDF files, ready the moment you click.</p>${dl}</div>`
-      : ""
-  }
   ${opts.extra ? `<div class="side-card">${opts.extra}</div>` : ""}
   ${opts.ads === false ? "" : `<div class="side-card ad-side">${adUnit(ADS.sidebar, "FreshCalendars_Sidebar", "sidebar")}</div>`}
+  ${
+    dl
+      ? `<div class="side-card side-dl"><h3>Download this page</h3><p>Print-ready PDF and PNG of the calendar shown here.</p>${dl}</div>`
+      : ""
+  }
 </aside>`;
+}
+
+/** Previous and next month above the calendar, where a reader looks for them. */
+function monthPager(m: number): string {
+  const prev = m === 1 ? 12 : m - 1;
+  const next = m === 12 ? 1 : m + 1;
+  return `<nav class="month-pager" aria-label="Other months">
+  <a href="/${monthNumberToSlug(prev)}-calendars.html" rel="prev">← ${monthNumberToName(prev)}</a>
+  <a href="/${monthNumberToSlug(next)}-calendars.html" rel="next">${monthNumberToName(next)} →</a>
+</nav>`;
+}
+
+/** A focus card: heading, a big answer, an optional countdown and a few lines. */
+function focusCard(o: { heading: string; big: string; countdownIso?: string; body?: string }): string {
+  return `<div class="side-card focus-card">
+  <h3>${esc(o.heading)}</h3>
+  <strong>${esc(o.big)}</strong>
+  ${o.countdownIso ? `<p class="focus-count" data-days-until="${o.countdownIso}" hidden></p>` : ""}
+  ${o.body ?? ""}
+</div>`;
 }
 
 function withSidebar(mainHtml: string, sideHtml: string): string {
@@ -1010,6 +1050,14 @@ ${faqSection(meta)}`;
         sidebar({
           title: "School tools",
           today,
+          links: [
+            { href: "/page/school-holidays/", label: "School holidays", title: "School holiday planning" },
+            { href: "/guides/classroom-printable-calendars.html", label: "Classroom guide", title: "Classroom printable calendars guide" },
+            { href: "/holidays/", label: "US holidays", title: "US holidays list" },
+            { href: "/printable-weekly-calendar.html", label: "Weekly planner", title: "Printable weekly calendar" },
+            { href: "/blank-calendars.html", label: "Blank month", title: "Printable blank undated calendar" },
+            { href: "/printable-calendars.html", label: "Yearly calendar", title: "Printable yearly calendar" },
+          ],
           downloads: meta.download,
           downloadTitles: meta.downloadTitles,
         }),
@@ -1081,6 +1129,14 @@ ${faqSection(meta)}`;
         sidebar({
           title: "Monday-start",
           today,
+          links: [
+            { href: "/guides/monday-start-calendar.html", label: "Monday vs Sunday start", title: "Monday-start vs Sunday-start calendars" },
+            { href: "/printable-weekly-calendar.html", label: "Weekly planner", title: "Printable weekly calendar" },
+            { href: "/printable-calendars.html", label: "Yearly calendar", title: "Printable yearly calendar" },
+            { href: "/blank-calendars.html", label: "Blank month", title: "Printable blank undated calendar" },
+            { href: "/holidays/", label: "US holidays", title: "US holidays list" },
+            { href: "/print-guide.html", label: "Print guide", title: "How to print a calendar" },
+          ],
           downloads: meta.download,
           downloadTitles: meta.downloadTitles,
         }),
@@ -1255,6 +1311,15 @@ ${faqSection(meta)}`;
         sidebar({
           title: `${y} months`,
           year: y,
+          today,
+          links: [
+            { href: otherHref, label: `${otherY} yearly calendar`, title: `${otherY} printable yearly calendar` },
+            { href: "/printable-weekly-calendar.html", label: "Weekly planner", title: "Printable weekly calendar" },
+            { href: "/printable-school-calendar.html", label: "School year", title: "Printable school year calendar" },
+            { href: "/printable-blank-yearly-calendar.html", label: "Blank yearly", title: "Printable blank yearly calendar" },
+            { href: "/holidays/", label: `${y} US holidays`, title: `${y} US holidays list` },
+            { href: "/print-guide.html", label: "Print guide", title: "How to print a calendar" },
+          ],
           downloads: meta.download,
           downloadTitles: meta.downloadTitles,
           extra: `<h3>${otherY} yearly</h3><p>Same five poster formats for ${otherY}.</p><a class="btn btn-ghost btn-sm" href="${otherHref}">Open ${otherY}</a>`,
@@ -1278,6 +1343,7 @@ ${faqSection(meta)}`;
     const hero = `${downloadHero(meta, meta.download.png, "Fresh Calendars · Monthly", ed.lead(y))}
 ${adBand(ADS.monthTop, "FreshCalendars_Month_New_Header", "header")}`;
     const main = `
+${monthPager(m)}
 ${variantGallery(meta)}
 ${adUnit(ADS.monthMid, "FreshCalendars_Month_InContent", "banner")}
 <section class="section prose">
@@ -1303,7 +1369,25 @@ ${faqSection(meta)}`;
           title: "All months",
           currentSlug: slug,
           year: y,
-          month: m,
+          today,
+          focus: focusCard({
+            heading: `Holidays in ${name} ${y}`,
+            big: hols.length ? `${hols.length} ${hols.length === 1 ? "date" : "dates"} to mark` : "No listed holidays",
+            body: hols.length
+              ? `<ul class="focus-list">${hols
+                  .slice(0, 6)
+                  .map((h) => `<li><a href="${holidayWhenIsPath(h.slug)}" title="When is ${esc(h.name)} ${y}?">${esc(h.name)}</a><span>${esc(h.date.toLocaleDateString("en-US", { month: "short", day: "numeric" }))}</span></li>`)
+                  .join("")}</ul>`
+              : "",
+          }),
+          links: [
+            { href: "/printable-calendars.html", label: `${y} yearly calendar`, title: `${y} printable yearly calendar` },
+            { href: "/printable-weekly-calendar.html", label: "Weekly planner", title: "Printable weekly calendar" },
+            { href: "/printable-monday-start-calendar.html", label: "Monday-start months", title: "Monday-start calendars" },
+            { href: "/blank-calendars.html", label: "Blank month", title: "Printable blank undated calendar" },
+            { href: "/holidays/", label: `${y} US holidays`, title: `${y} US holidays list` },
+            { href: "/print-guide.html", label: "Print guide", title: "How to print a calendar" },
+          ],
           downloads: meta.download,
           downloadTitles: meta.downloadTitles,
           extra: `<h3>Templates on this page</h3><p>Scroll the gallery for B&amp;W, color, holidays, planner, landscape, and Monday-start — each is a separate print file. Click previews to enlarge.</p>`,
@@ -1342,6 +1426,15 @@ ${faqSection(meta)}`;
         main,
         sidebar({
           title: "Jump to a dated month",
+          today,
+          links: [
+            { href: "/printable-blank-yearly-calendar.html", label: "Blank yearly", title: "Printable blank yearly calendar" },
+            { href: "/printable-monday-start-calendar.html", label: "Monday-start dated", title: "Monday-start calendars" },
+            { href: "/printable-weekly-calendar.html", label: "Weekly planner", title: "Printable weekly calendar" },
+            { href: "/printable-calendars.html", label: "Dated yearly calendar", title: "Printable yearly calendar" },
+            { href: "/guides/classroom-printable-calendars.html", label: "Classroom guide", title: "Classroom printable calendars guide" },
+            { href: "/print-guide.html", label: "Print guide", title: "How to print a calendar" },
+          ],
           downloads: meta.download,
           downloadTitles: meta.downloadTitles,
           extra: `<h3>Also</h3><p><a href="/printable-blank-yearly-calendar.html">Blank yearly poster</a> · <a href="/printable-monday-start-calendar.html">Monday-start dated</a></p>`,
@@ -1377,6 +1470,15 @@ ${faqSection(meta)}`;
         main,
         sidebar({
           title: "Blank tools",
+          today,
+          links: [
+            { href: "/blank-calendars.html", label: "Blank month", title: "Printable blank undated calendar" },
+            { href: "/printable-calendars.html", label: "Dated yearly calendar", title: "Printable yearly calendar" },
+            { href: "/printable-weekly-calendar.html", label: "Weekly planner", title: "Printable weekly calendar" },
+            { href: "/printable-school-calendar.html", label: "School year", title: "Printable school year calendar" },
+            { href: "/guides/fiscal-year-calendar.html", label: "Fiscal year guide", title: "Fiscal year vs calendar year printables" },
+            { href: "/print-guide.html", label: "Print guide", title: "How to print a calendar" },
+          ],
           downloads: meta.download,
           downloadTitles: meta.downloadTitles,
         }),
@@ -1451,6 +1553,33 @@ ${faqSection(meta)}`;
         sidebar({
           title: `${y} months`,
           year: y,
+          today,
+          focus: (() => {
+            const todayIso = today.toISOString().slice(0, 10);
+            const nextH = list.find((h) => h.iso >= todayIso);
+            return nextH
+              ? volatile(
+                  focusCard({
+                    heading: "Next holiday",
+                    big: nextH.name,
+                    countdownIso: nextH.iso,
+                    body: `<p class="focus-date">${esc(nextH.formatted)}</p><div class="side-links"><a href="${holidayWhenIsPath(nextH.slug)}" title="When is ${esc(nextH.name)} ${y}?">Dates and planning</a></div>`,
+                  }),
+                )
+              : undefined;
+          })(),
+          links: [
+            { href: "/printable-calendars.html", label: `${y} yearly calendar`, title: `${y} printable yearly calendar` },
+            { href: "/printable-yearly-calendar.html", label: `${y + 1} yearly calendar`, title: `${y + 1} printable yearly calendar` },
+            locale === "us"
+              ? { href: "/uk-holidays/", label: "UK holidays", title: `${y} UK holidays` }
+              : { href: "/holidays/", label: "US holidays", title: `${y} US holidays` },
+            locale === "ca"
+              ? { href: "/uk-holidays/", label: "UK holidays", title: `${y} UK holidays` }
+              : { href: "/canada-holidays/", label: "Canada holidays", title: `${y} Canada holidays` },
+            { href: "/page/school-holidays/", label: "School holidays", title: "School holiday planning" },
+            { href: "/printable-weekly-calendar.html", label: "Weekly planner", title: "Printable weekly calendar" },
+          ],
           downloads: meta.download,
           downloadTitles: meta.downloadTitles,
           extra: `<h3>Print with marks</h3><p>Open any month and choose the holidays template to see labels in-cell.</p>`,
@@ -1580,10 +1709,24 @@ ${faqSection(meta)}`;
         main,
         sidebar({
           year: y,
-          title: "Related",
+          title: "Browse months",
+          today,
           downloads: meta.download,
           downloadTitles: meta.downloadTitles,
           currentSlug: mSlug,
+          focus: focusCard({
+            heading: `${h.name} ${y}`,
+            big: h.formatted,
+            countdownIso: h.iso,
+            body: `<div class="side-links"><a href="/${mSlug}-calendars.html" title="${mName} ${y} printable calendar">${mName} ${y} calendar</a></div>`,
+          }),
+          links: [
+            { href: `/${mSlug}-calendars.html`, label: `${mName} ${y} printable`, title: `Printable ${mName} ${y} calendar` },
+            { href: hub, label: `${y} ${hubLabel}`, title: `${y} ${hubLabel} list` },
+            { href: "/printable-weekly-calendar.html", label: "Weekly planner", title: "Printable weekly calendar" },
+            { href: "/printable-calendars.html", label: `${resolvePlanningYear(today)} yearly calendar`, title: "Printable yearly calendar" },
+            ...nearby.slice(0, 2).map((x) => ({ href: holidayWhenIsPath(x.slug), label: x.name, title: `When is ${x.name}?` })),
+          ],
         }),
       )}`,
     );
