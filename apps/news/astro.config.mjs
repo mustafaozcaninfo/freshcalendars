@@ -11,6 +11,10 @@ import { minifyHtmlDir } from "./src/lib/minify-html.mjs";
 import { stampPdfs } from "./src/lib/pdf-meta.mjs";
 import { buildSearchIndex } from "./src/lib/search-index.mjs";
 
+/** When this build started. The news sitemap's 48-hour window is cut at about this moment, so the
+ *  audit measures "stories due" against it, not against its own (later) clock (09-NEWS-SITEMAP). */
+const BUILD_STARTED = new Date().toISOString();
+
 /** Astro leaves content-layer/server chunks in an outDir outside the project; none of it is public.
  *  Also moves latest.json (calendar-site data) to dist/news-data/ and copies home.json there. */
 const cleanBuildLeftovers = {
@@ -24,6 +28,7 @@ const cleanBuildLeftovers = {
       await rename(path.join(out, "latest.json"), path.join(data, "latest.json")).catch(() => {});
       // home.json stays public (the calendar home page refreshes from it); the generator reads a copy.
       await copyFile(path.join(out, "home.json"), path.join(data, "home.json")).catch(() => {});
+      await writeFile(path.join(data, "build-started"), `${BUILD_STARTED}\n`);
       // A check build with scheduled stories (NEWS_INCLUDE_FUTURE, src/lib/articles.ts) must never
       // go live; cloudflare/deploy.sh refuses a build that carries this file.
       if (process.env.NEWS_INCLUDE_FUTURE === "1") await writeFile(path.join(data, "includes-future"), "scheduled stories included; never deploy\n");
