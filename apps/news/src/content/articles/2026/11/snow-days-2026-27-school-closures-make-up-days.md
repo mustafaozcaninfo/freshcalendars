@@ -108,7 +108,7 @@ assets:
       highlight: district
       rows:
         - { cells: { district: "Philadelphia", alerts: "Email, text, website, media", decide: "4:00 a.m. ET", remote: "Not stated", makeup: "Not stated" }, src: 10, quote: "By 4:00AM" }
-        - { cells: { district: "Montgomery County (MD)", alerts: "Alert MCPS, X, Facebook, Instagram", decide: "5 a.m. ET (morning)", remote: "Code Purple: yes", makeup: "Not stated" }, src: 3, quote: "Morning Decision - made and announced by 5 am" }
+        - { cells: { district: "Montgomery County, Maryland", alerts: "Alert MCPS, X, Facebook, Instagram", decide: "5 a.m. ET (morning)", remote: "Code Purple: yes", makeup: "Not stated" }, src: 3, quote: "Morning Decision - made and announced by 5 am" }
         - { cells: { district: "Seattle", alerts: "Flash Alert, TV, radio, social media, SchoolMessenger", decide: "5 a.m. PT (target)", remote: "Not stated", makeup: "June 22-23, 2027 (potential)" }, src: 6, quote: "The targeted time for decisions ... is by 5 a.m." }
         - { cells: { district: "Baltimore County", alerts: "Media, website, Education Channel, BCPS TV", decide: "5:30 a.m. ET", remote: "Yes", makeup: "Not stated" }, src: 5, quote: "an announcement will be made by 5:30 a.m." }
         - { cells: { district: "Columbus", alerts: "Call, email, text, website, social media", decide: "5:30 a.m. ET", remote: "Not stated", makeup: "None listed" }, src: 8, quote: "no later than 5:30 a.m." }
