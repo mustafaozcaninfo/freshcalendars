@@ -31,7 +31,7 @@ import { loadRanking, trendingFor } from "../../lib/trending";
 import { topicPath } from "../../lib/topics";
 import { upcomingFor } from "../../lib/keydates";
 import KeyDates from "../../components/KeyDates.astro";
-import { puzzleOf } from "../../lib/puzzles.mjs";
+import { GAMES, puzzleOf } from "../../lib/puzzles.mjs";
 import {
   articleGraph,
   articleHeadTags,
@@ -145,6 +145,15 @@ const trending = trendingFor(loadRanking(), (s) => byId.has(s), allow, shown).ma
 // Running topics this story belongs to (hub links) and its own upcoming dates (add to calendar).
 const topics = d.noindex ? [] : topicsOf(all, article.id);
 const keyDates = upcomingFor(new Set([article.id]));
+// Sidebar "what next": the other games for the same puzzle date (each links its own day's page).
+const pzThis = puzzleOf(article.id);
+const puzzleDay = pzThis ? {
+  date: pzThis.date,
+  links: all.flatMap((a) => {
+    const p = a.id !== article.id ? puzzleOf(a.id) : null;
+    return p && p.date === pzThis.date && p.game !== pzThis.game ? [{ href: articlePath(a.id), title: GAMES[p.game as keyof typeof GAMES].name }] : [];
+  }).sort((x, y) => x.title.localeCompare(y.title)),
+} : undefined;
 ---
 <NewsBase
   title={pageTitle(d)}
@@ -219,7 +228,7 @@ const keyDates = upcomingFor(new Set([article.id]));
     <Trending items={trending} place="inline" />
     {endAd && <AdSlot unit={5} />}
   </article>
-  <ArticleAside headings={headings} downloads={d.downloads.length} url={absNewsUrl(articlePath(article.id))} title={d.title} image={shareImage} trending={trending} />
+  <ArticleAside headings={headings} downloads={d.downloads.length} url={absNewsUrl(articlePath(article.id))} title={d.title} image={shareImage} trending={trending} puzzleDay={puzzleDay} prev={prev} next={next} keyDates={keyDates.slice(0, 3)} />
   <ShareIcons />
   </div>
   <script is:inline>

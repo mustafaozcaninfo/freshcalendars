@@ -291,4 +291,32 @@ body{font-size:1rem}
 .site-footer a,.site-footer .footer-copy,.footer-brand p,.footer-grid nav a,.footer-bottom,.section-rail nav a,.page-workspace .side-links a,.library-sidebar a{font-size:14px}
 @media(min-width:1101px){.page-workspace .layout{grid-template-columns:minmax(0,660px) 260px;gap:56px;justify-content:start}}
 @media(max-width:700px){.page-workspace .section h2{font-size:22px}.page-workspace .section h3{font-size:19px}.page-workspace .prose,.faq details p,.page-workspace .section>p,.page-workspace .section li{font-size:17px}.faq summary{font-size:16px}.workspace-heading .lead{font-size:17px}.hero .lead,.hero-intro{font-size:17px}.hol-table td,.dates-table td{font-size:15px}}
+/* Calendar sidebar (2026-11-04). The column ran 1700-2300px in a 900px window and was sticky, so
+   its lower cards never showed until the page ended: it now scrolls with the page and only the
+   download card, placed last, sticks. Month chips are one 3x4 grid on every page (filled = this
+   page's month, dot = the current month); the focus card answers the page's question; the long
+   link list folds under "More links"; an unfilled sidebar ad slot collapses instead of leaving a white box. */
+.layout>.sidebar,.page-workspace .sidebar{position:static;align-self:stretch;align-content:start}
+.sidebar .side-dl{position:sticky;top:85px}
+.sidebar .month-chips,.page-workspace .sidebar .month-chips{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:6px}
+.sidebar .month-chips a{position:relative;display:flex;align-items:center;justify-content:center;min-height:40px;padding:6px 4px;font-size:14px;text-align:center}
+.sidebar .month-chips a.is-current{background:var(--focus);border-color:var(--focus);color:#fff!important;font-weight:700}
+.sidebar .month-chips a.is-now::after{content:"";position:absolute;top:5px;right:5px;width:6px;height:6px;border-radius:50%;background:var(--gold,#d99a00)}
+.focus-card strong{display:block;font-family:Sora,"Sora Fallback",sans-serif;font-size:20px;line-height:1.3;color:var(--ink-strong)}
+.focus-card .focus-count{margin:6px 0 0;font-size:15px;font-weight:700;color:var(--focus)}
+.focus-card .focus-date{margin:4px 0 0;color:var(--muted)}
+.focus-card .side-links{margin-top:10px}
+.focus-list{list-style:none;margin:10px 0 0;padding:0;display:grid;gap:8px}
+.focus-list li{display:flex;justify-content:space-between;gap:10px;font-size:15px;line-height:1.35}
+.focus-list span{flex-shrink:0;color:var(--muted)}
+.side-more{margin-top:10px;border-top:1px solid var(--line-soft);padding-top:8px}
+.side-more summary{display:flex;align-items:center;min-height:40px;cursor:pointer;font-weight:700;font-size:14px;color:var(--ink-strong)}
+.side-more[open] summary{margin-bottom:4px}
+.month-pager{display:flex;justify-content:space-between;gap:12px;margin:0 0 16px}
+.month-pager a{display:inline-flex;align-items:center;min-height:44px;padding:0 16px;border:1px solid var(--line);border-radius:999px;font-weight:700;font-size:15px;color:var(--ink-strong);text-decoration:none}
+.month-pager a:hover,.month-pager a:focus-visible{border-color:var(--focus);color:var(--focus)}
+/* Only the sidebar slot collapses: in-content and top slots keep their reserved height (no CLS, audit 01-ADS-LOAD). */
+.side-card.ad-side:has(ins[data-ad-status=unfilled]){display:none!important}
+@media(max-width:1100px){.sidebar .side-dl{position:static}}
+@media(max-width:700px){.sidebar .today-card{display:none}}
 `;
