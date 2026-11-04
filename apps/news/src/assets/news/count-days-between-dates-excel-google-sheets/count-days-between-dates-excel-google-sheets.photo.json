@@ -19,5 +19,6 @@
   "output": "2400×1350",
   "cropped": false,
   "framed": true,
-  "credit": "Photo: Marc Chouinard / stocksnap, edited"
+  "credit": "Photo: Marc Chouinard / stocksnap, edited",
+  "overlay": true
 }
