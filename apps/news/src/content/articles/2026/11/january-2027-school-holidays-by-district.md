@@ -3,8 +3,8 @@ title: "January 2027 School Holidays: MLK Day, Jan. 4 Staff Days and Days Off in
 seoTitle: "January 2027 School Holidays by District"
 description: "January 2027 school holidays in 36 districts: all close Jan. 18 for Martin Luther King Jr. (MLK) Day and 22 are off Jan. 4. Return dates and workdays."
 type: news
-publishedAt: "2027-01-01T00:00:00-05:00"
-updatedAt: "2027-01-01T00:00:00-05:00"
+publishedAt: "2026-11-04T13:03:00-05:00"
+updatedAt: "2026-11-04T13:03:00-05:00"
 authors: [aaron-kessler]
 category: school-calendars
 keywords: ["january 2027 school holidays", "no school january 2027", "when do students go back to school after winter break 2027", "mlk day 2027 schools closed"]
@@ -19,8 +19,8 @@ assets:
     group: january-2027-school-holidays
     title: "January 2027 School Days Off by District"
     subtitle: "Winter break end, first day back and other January days listed on 36 district calendars"
-    note: "Source: the 2026-27 official calendars of the 36 districts listed, read Nov. 4, 2026; see freshcalendars.com for the full source list. Check your own school's calendar."
-    description: "One-page table of January 2027 school days off in 36 U.S. districts: winter break end, first day back and Jan. 18 MLK Day, with staff days and early release."
+    note: "Source: the 2026-27 official calendars of the 36 districts listed, as of Nov. 4, 2026. Check your own school's calendar."
+    description: "Table of January 2027 school days off in 36 U.S. districts: winter break end, first day back and Jan. 18 MLK Day, with staff days and early release."
     alt: "Printable table of January 2027 school days off by district, with winter break end, first day back and staff days"
     landscape: true
     data:
@@ -76,7 +76,7 @@ hero:
   src: ../../../../assets/news/january-2027-school-holidays-by-district/january-2027-school-holidays-by-district.webp
   alt: "Martin Luther King Jr. Memorial in Washington, D.C., with a card for January 2027 school holidays and MLK Day, Jan. 18"
   caption: "The Martin Luther King Jr. Memorial in Washington, D.C. (file photo). Schools in all 36 districts we checked are closed on Monday, Jan. 18, 2027."
-  credit: "Photo: CBP Photography / Wikimedia Commons, cropped"
+  credit: "Photo: CBP Photography / Wikimedia Commons, cropped, edited"
   license:
     name: "Public domain"
     url: "https://creativecommons.org/publicdomain/mark/1.0/"
@@ -216,6 +216,15 @@ internalLinks:
   - href: "/page/school-holidays/"
     label: "School holidays guide"
 related: [winter-break-2026-school-districts-dates, martin-luther-king-jr-day-2027-january-18-whats-closed, spring-break-2027-dates-school-districts]
+downloads:
+  - group: "January 2027 School Days Off by District printables"
+    title: "January 2027 School Days Off by District"
+    description: "Table of January 2027 school days off in 36 U.S. districts: winter break end, first day back and Jan. 18 MLK Day, with staff days and early release."
+    preview: ../../../../assets/news/january-2027-school-holidays/january-2027-school-days-off-by-district.png
+    alt: "Printable table of January 2027 school days off by district, with winter break end, first day back and staff days"
+    pdf: "/news/downloads/january-2027-school-holidays/january-2027-school-days-off-by-district.pdf"
+    png: "/news/downloads/january-2027-school-holidays/january-2027-school-days-off-by-district.png"
+    pages: 3
 draft: false
 ---
 
@@ -223,7 +232,7 @@ All 36 U.S. school districts we checked close for students on Monday, Jan. 18, 2
 
 ## January 2027 school days off by district
 
-Each row comes from the district's own published calendar, read on Nov. 4, 2026, and links to our story on that district's full year. Calendars can be amended, so check your school's before you book travel. Independent school districts (ISD) are the usual form in Texas. District of Columbia Public Schools is shown as the District of Columbia.
+Each row comes from the district's own published calendar, checked as of Nov. 4, 2026, and links to our story on that district's full year. Calendars can be amended, so check your school's before you book travel. Katy Independent School District (ISD) and the other Texas districts are named in full.
 
 | District | Winter break ends | First day back (printed) | Jan. 18 | Other January days listed |
 |---|---|---|---|---|
@@ -264,15 +273,15 @@ Each row comes from the district's own published calendar, read on Nov. 4, 2026,
 | [Seattle, Wash.](/news/seattle-public-schools-calendar-2026-27-breaks/) | Jan. 1 | Not printed | Closed | Jan. 28 day between semesters |
 | [Wake County, N.C. (traditional calendar)](/news/wake-county-public-schools-calendar-2026-27-traditional/) | Jan. 1 | Not printed | Closed | Jan. 19 teacher workday |
 
-Notes on the table: "Jan. 1" means the break ends on Friday, Jan. 1, 2027; Jan. 2 and 3 are the weekend. Philadelphia and Prince George's County list their breaks as ending Dec. 31. Cobb County's Important Dates page prints the end of its break as "Friday January 4", but Jan. 4, 2027 is a Monday, so we show it as Monday, Jan. 4. Wake County's dates are for its traditional calendar. Memphis-Shelby County lists "Jan. 1-4 Winter Break (Students Out)". Hawaii's break is Dec. 21-Jan. 1, with Jan. 4 a teacher workday.
+Notes on the table: Jan. 1, 2027 is a Friday, and Jan. 2 and 3 are the weekend. Philadelphia and Prince George's County list their breaks as ending Dec. 31. Cobb County's Important Dates page prints the end of its break as "Friday January 4", but Jan. 4, 2027 is a Monday, so we show it as Monday, Jan. 4. Wake County's dates are for its traditional calendar. Memphis-Shelby County lists "Jan. 1-4 Winter Break (Students Out)".
 
 ## Who is off on Monday, Jan. 4, 2027?
 
-Jan. 4 is the first Monday after the break, and the calendars split three ways. Students are off in 22 of the 36 districts, either because the break runs through Jan. 4 or because the day is a staff day.
+Jan. 4 is the first Monday of 2027, and the calendars split three ways. Students are off in 22 of the 36 districts, either because the break runs through Jan. 4 or because the day is a staff day.
 
 **Closed to students (22):** [Austin Independent School District, Texas](/news/austin-isd-calendar-2026-27-holidays-breaks/); [Broward County, Fla.](/news/broward-county-school-calendar-2026-27/); [Chicago, Ill.](/news/chicago-public-schools-calendar-2026-27-breaks/); [Clark County, Nev.](/news/clark-county-school-district-calendar-2026-27-breaks/); [Cobb County, Ga.](/news/cobb-county-school-calendar-2026-27-breaks-holidays/); [Cypress-Fairbanks Independent School District, Texas](/news/cypress-fairbanks-isd-calendar-2026-27-breaks/); [Dallas Independent School District, Texas](/news/dallas-isd-calendar-2026-27-holidays-breaks/); [DeKalb County, Ga.](/news/dekalb-county-school-district-calendar-2026-27-breaks/); [Denver, Colo.](/news/denver-public-schools-calendar-2026-27-breaks/); [Fort Worth Independent School District, Texas](/news/fort-worth-isd-calendar-2026-27-breaks/); [Fulton County, Ga.](/news/fulton-county-schools-calendar-2026-27-breaks/); [Gwinnett County, Ga.](/news/gwinnett-county-schools-calendar-2026-27-breaks/); [Hawaii public schools](/news/hawaii-public-schools-calendar-2026-27-breaks/); [Houston Independent School District, Texas](/news/houston-isd-calendar-2026-27-holidays-breaks/); [Katy Independent School District, Texas](/news/katy-isd-calendar-2026-27-breaks/); [Los Angeles Unified, Calif.](/news/lausd-calendar-2026-27-winter-break-spring-break/); [Memphis-Shelby County, Tenn.](/news/memphis-shelby-county-schools-calendar-2026-27-breaks/); [Metro Nashville, Tenn.](/news/metro-nashville-public-schools-calendar-2026-27-breaks/); [Northside Independent School District, Texas](/news/northside-isd-calendar-2026-27-breaks/); [Orange County, Fla.](/news/orange-county-public-schools-calendar-2026-27-breaks-holidays/); [Polk County, Fla.](/news/polk-county-public-schools-calendar-2026-27-breaks/); [San Diego Unified, Calif.](/news/san-diego-unified-calendar-2026-27-breaks/).
 
-**No Jan. 4 closure listed (12):** [Anne Arundel County, Md.](/news/anne-arundel-county-public-schools-calendar-2026-27-breaks/); [Baltimore County, Md.](/news/baltimore-county-public-schools-calendar-2026-27-breaks/); [Charlotte-Mecklenburg, N.C.](/news/charlotte-mecklenburg-schools-calendar-2026-27-breaks/); [District of Columbia Public Schools](/news/dcps-calendar-2026-27-dc-public-schools-breaks/); [Fairfax County, Va.](/news/fairfax-county-public-schools-calendar-2026-27-breaks/); [Jefferson County, Ky. (Louisville)](/news/jcps-calendar-2026-27-jefferson-county-public-schools-breaks/); [Montgomery County, Md.](/news/montgomery-county-public-schools-calendar-2026-27-breaks/); [New York City](/news/nyc-public-schools-calendar-2026-27-breaks-holidays/); [Philadelphia, Pa.](/news/philadelphia-school-district-calendar-2026-27-holidays/); [Prince George's County, Md.](/news/prince-georges-county-public-schools-calendar-2026-27-breaks/); [Seattle, Wash.](/news/seattle-public-schools-calendar-2026-27-breaks/); [Wake County, N.C. (traditional calendar)](/news/wake-county-public-schools-calendar-2026-27-traditional/). This means the calendar names no closure that day; for Montgomery County, whose calendar does not print the end of the break, it is not a confirmed return date.
+**No Jan. 4 closure listed (12):** [Anne Arundel County, Md.](/news/anne-arundel-county-public-schools-calendar-2026-27-breaks/); [Baltimore County, Md.](/news/baltimore-county-public-schools-calendar-2026-27-breaks/); [Charlotte-Mecklenburg, N.C.](/news/charlotte-mecklenburg-schools-calendar-2026-27-breaks/); [District of Columbia Public Schools](/news/dcps-calendar-2026-27-dc-public-schools-breaks/); [Fairfax County, Va.](/news/fairfax-county-public-schools-calendar-2026-27-breaks/); [Jefferson County, Ky. (Louisville)](/news/jcps-calendar-2026-27-jefferson-county-public-schools-breaks/); [Montgomery County, Md.](/news/montgomery-county-public-schools-calendar-2026-27-breaks/); [New York City](/news/nyc-public-schools-calendar-2026-27-breaks-holidays/); [Philadelphia, Pa.](/news/philadelphia-school-district-calendar-2026-27-holidays/); [Prince George's County, Md.](/news/prince-georges-county-public-schools-calendar-2026-27-breaks/); [Seattle, Wash.](/news/seattle-public-schools-calendar-2026-27-breaks/); [Wake County, N.C. (traditional calendar)](/news/wake-county-public-schools-calendar-2026-27-traditional/). These calendars name no closure that day, but that is not a printed return date.
 
 **Not clear for students (2):** [Lee County, Fla.](/news/lee-county-schools-calendar-2026-27-breaks/); [Palm Beach County, Fla.](/news/palm-beach-county-school-calendar-2026-27/). Lee County lists Jan. 4 as a remote professional duty day, and Palm Beach County lists a duty day for staff without saying whether students attend.
 
@@ -289,7 +298,7 @@ For the other districts, no return day is printed in the sources we read. Dallas
 
 ## MLK Day 2027: schools closed on Monday, Jan. 18
 
-Every district in the table lists Jan. 18 as a closure: Montgomery County says "Schools and offices closed," Prince George's County says "Schools and Offices Closed," Palm Beach County says "No School & District Offices Closed," Houston and Cobb County list the day by name, and the rest mark it as a holiday or closure. Charlotte-Mecklenburg also lists Jan. 18 as the first of its weather make-up days, so a snow-heavy winter could change that district's plan; its calendar prints it as MLK Day. For the federal holiday itself, what else is closed and why the date moves each year, see our [MLK Day 2027 story](/news/martin-luther-king-jr-day-2027-january-18-whats-closed/).
+Every district in the table lists Jan. 18 as a closure: Montgomery County says "Schools and offices closed," Prince George's County says "Schools and Offices Closed," Palm Beach County says "No School & District Offices Closed," and the rest mark it as a holiday or closure. Charlotte-Mecklenburg's calendar also lists Jan. 18 as a weather make-up day, so ask the district if you need to know whether it will be used. For the federal holiday itself, what else is closed and why the date moves each year, see our [MLK Day 2027 story](/news/martin-luther-king-jr-day-2027-january-18-whats-closed/).
 
 ## Other January days off after MLK Day
 
@@ -312,4 +321,4 @@ We could not confirm January dates for [Hillsborough County, Fla.](/news/hillsbo
 
 ## Print the January 2027 school days off table
 
-The one-page printable below carries the same table for all 36 districts. Pair it with the [January 2027 printable calendar](/january-calendars.html) or the [printable school-year calendar for 2026-27](/printable-school-calendar.html), and see our [school holidays guide](/page/school-holidays/) for other breaks. Spring dates are in our [spring break 2027 story](/news/spring-break-2027-dates-school-districts/).
+The printable below carries the same table for all 36 districts. Pair it with the [January 2027 printable calendar](/january-calendars.html) or the [printable school-year calendar for 2026-27](/printable-school-calendar.html), and see our [school holidays guide](/page/school-holidays/) for other breaks. Spring dates are in our [spring break 2027 story](/news/spring-break-2027-dates-school-districts/).
