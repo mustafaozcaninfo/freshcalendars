@@ -96,7 +96,7 @@ internalLinks:
     label: "February 2027 printable calendar"
   - href: "/printable-yearly-calendar.html"
     label: "printable yearly calendar"
-related: [february-2027-important-dates-holidays-days-until, printable-nfl-schedule-2026-2027-pdf, nfl-playoff-schedule-2027-wild-card-divisional-championship-super-bowl-lxi]
+related: [super-bowl-lxi-squares-2027, printable-nfl-schedule-2026-2027-pdf, nfl-playoff-schedule-2027-wild-card-divisional-championship-super-bowl-lxi]
 downloads:
   - group: "Super Bowl LXI Planner (February 2027) printables"
     title: "Super Bowl LXI Planner (February 2027)"
