@@ -268,3 +268,18 @@ Multi-page (2026-11-03, owner: "PDFs may run to several pages"): kits shrink to 
 | Printable exceptions listed for the manager | `pnpm news:dashboard` |
 | PDF downloads per file and per kit, last 7 days, in the CI run summary on main | `pnpm news:downloads` |
 | Contact sheet of printables changed since a date | `pnpm fc news-printables --since YYYY-MM-DD` |
+
+## 10. Third round (2026-11-04): from the first day of required kits
+
+A review of the 68 printables drawn on the first day showed 37 `noKit` exceptions, almost all because no kit fitted. Fixed:
+
+| Gap seen in noKit reasons | Fix |
+|---|---|
+| Australian and Asian sport refused (Sydney, Perth, Adelaide clocks) | `watch-guide` `tz` per event, offset checked against that zone, local-time column |
+| Fights and tournaments with times not posted yet | `date` + `time: TBA`, "Time not yet announced" |
+| Source gives the date and the time in different places; "1-4 p.m." ranges | `quote` may be a list; ranges read as times |
+| Team months (one game a day) ran to two pages | compact table with a Date column |
+| Single-month calendars (Black History Month, March) | `year-reference` `month:` |
+| Observance activity sheets, blank planners, sourced non-date tables | new kits `activity-sheet`, `planner`, `fact-table` |
+
+Also found: a Sunday-start grid labeled ISO week numbers wrong (refused now), and the machine running writer sessions lacked the Playwright browser after a dependency bump (installed).

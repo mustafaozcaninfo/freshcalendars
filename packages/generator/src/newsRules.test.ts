@@ -165,7 +165,7 @@ test("factTokens reads dates, ranges, times, amounts and percentages the same wa
 });
 
 test("categories with a kit must use it or say why not", () => {
-  assert.match(kitProblem("sports", { rows: [] })!, /use a kit \(watch-guide\)/);
+  assert.match(kitProblem("sports", { rows: [] })!, /use a kit \(watch-guide or fact-table\)/);
   assert.equal(kitProblem("sports", { kit: "watch-guide" }), null);
   assert.match(kitProblem("school-calendars", { noKit: "n/a" })!, /at least 20 characters/);
   assert.equal(kitProblem("school-calendars", { noKit: "registration rules by district, not a calendar" }), null);
@@ -210,6 +210,9 @@ test("kit data names and numbers must be in the story", () => {
   assert.deepEqual(unsupportedNames({ rows: [{ cells: { FedEx: "Ground, 5-day transit" } }] }, story), ["5"]);
   // The sheet's own fill-in labels and advice are not facts.
   assert.deepEqual(unsupportedNames({ family: ["Picture Day"], tasks: [{ task: "Buy Batteries" }] }, story), []);
+  // Kit-scoped wording: a planner's column labels are ours, a school-year event label is a fact.
+  assert.deepEqual(unsupportedNames({ sections: [{ title: "Debt Log", columns: ["Balance", "APR"] }] }, story, "planner"), []);
+  assert.deepEqual(unsupportedNames({ events: [{ label: "Winter Break" }] }, story, "school-year").sort(), ["Break", "Winter"]);
 });
 
 test("a custom generator's PDF in a kit category needs a reason", () => {

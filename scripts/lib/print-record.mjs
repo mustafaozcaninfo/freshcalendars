@@ -25,20 +25,20 @@ export const PRINT_SINCE = "2026-11-14";
  * listed here keep the classic layouts until they get a kit of their own.
  */
 export const KIT_FOR_CATEGORY = {
-  "school-calendars": ["school-year", "deadline-matrix"],
-  sports: ["watch-guide"],
+  "school-calendars": ["school-year", "deadline-matrix", "fact-table"],
+  sports: ["watch-guide", "fact-table"],
   entertainment: ["watch-guide", "release-tracker"],
-  "retail-dates": ["deadline-matrix", "holiday-planner"],
-  "money-benefits": ["deadline-matrix"],
-  elections: ["deadline-matrix"],
-  planning: ["deadline-matrix", "holiday-planner"],
-  holidays: ["holiday-planner", "deadline-matrix", "watch-guide"],
-  "uk-canada": ["bank-holidays", "holiday-planner", "watch-guide", "deadline-matrix"],
+  "retail-dates": ["deadline-matrix", "holiday-planner", "fact-table", "planner"],
+  "money-benefits": ["deadline-matrix", "fact-table", "planner"],
+  elections: ["deadline-matrix", "fact-table"],
+  planning: ["deadline-matrix", "holiday-planner", "planner"],
+  holidays: ["holiday-planner", "activity-sheet", "deadline-matrix", "watch-guide", "year-reference"],
+  "uk-canada": ["bank-holidays", "holiday-planner", "watch-guide", "deadline-matrix", "activity-sheet", "fact-table"],
   "sky-events": ["sky-night"],
   "time-change": ["clock-change"],
   puzzles: ["puzzle-month"],
   "gaming-tech": ["release-tracker", "watch-guide"],
-  "calendar-guides": ["year-reference", "deadline-matrix"],
+  "calendar-guides": ["year-reference", "deadline-matrix", "planner"],
 };
 /**
  * Records from this version on are held to the kit rule. v2 records were drawn while only seven
@@ -64,11 +64,22 @@ const words = (s) => s.toLowerCase().normalize("NFKD").replace(/[\u0300-\u036f]/
  * contain, e.g. a channel or a count typed only in the printable. `storyText` is the story's body
  * and frontmatter without the printable block.
  */
-export function unsupportedNames(data, storyText) {
+/**
+ * Per kit, more keys whose text is the sheet's own wording (section titles, fill-in labels, quiz
+ * questions), scoped so `label` stays checked where it is a fact (a school-year event's label).
+ */
+const KIT_OWN_WORDS = {
+  "activity-sheet": ["title", "items", "labels", "q", "label", "columns"],
+  planner: ["title", "columns", "rows", "items", "labels", "mark", "label", "groups"],
+  "fact-table": ["label", "note", "key", "align", "highlight"],
+};
+
+export function unsupportedNames(data, storyText, kit = "") {
   const have = new Set(words(storyText));
   const missing = new Set();
+  const own = new Set([...NOT_FACTS, ...(KIT_OWN_WORDS[kit] ?? [])]);
   const visit = (v, key) => {
-    if (key && NOT_FACTS.has(key)) return;
+    if (key && own.has(key)) return;
     if (typeof v === "string") {
       for (const raw of v.match(/[\p{L}\p{N}][\p{L}\p{N}'+]*/gu) ?? []) {
         const isName = /^\p{Lu}/u.test(raw) || /\d/.test(raw);

@@ -641,7 +641,7 @@ check("10-PDF-FACTS", "Every date, clock time, dollar amount and percentage on a
     const have = factTokens(`${s.body}\n${JSON.stringify(rest)}`, { iso: true, story: true });
     for (const c of s.record?.computed ?? []) for (const k of factTokens(c)) have.add(k);
     // Kit data from records of NAMES_VERSION on: every name and number must be in the story too.
-    const names = (s.record?.v ?? 1) >= NAMES_VERSION && s.fm.assets?.printable?.data ? unsupportedNames(s.fm.assets.printable.data, `${s.body}\n${JSON.stringify(rest)}`) : [];
+    const names = (s.record?.v ?? 1) >= NAMES_VERSION && s.fm.assets?.printable?.data ? unsupportedNames(s.fm.assets.printable.data, `${s.body}\n${JSON.stringify(rest)}`, s.fm.assets.printable.kit) : [];
     const nameFail = names.length ? [`${u}: kit data names ${names.slice(0, 8).map((n) => `"${n}"`).join(", ")}${names.length > 8 ? ` and ${names.length - 8} more` : ""}, not in the story`] : [];
     const files = s.record ? s.record.files : pdfLinks(html[u]).filter((f) => !/-ink\.pdf$/.test(f));
     return files.flatMap((f) => {
