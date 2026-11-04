@@ -182,6 +182,6 @@ Trimesters apply to K-5 students in elementary and K-8 schools. Semesters and qu
 
 Mid-winter break is Feb. 15-19 and spring break is April 12-16, 2027. Quarter 3 ends April 8, the Thursday before spring break. For other districts' spring weeks, see our [spring break 2027 roundup](/news/spring-break-2027-dates-school-districts/).
 
-## When does the school year start and end?
+## When does the Seattle school year start and end?
 
 Students in grades 1-12 start Wednesday, Sept. 2, 2026. Preschool and Kindergarten Family Connections run Sept. 2-4, and those students start Tuesday, Sept. 8. The last day is Monday, June 21, 2027. The free printable carries these district dates on one page, and our [printable school-year calendar](/printable-school-calendar.html) page has more calendar layouts.

@@ -126,7 +126,7 @@ The weekday counts are our arithmetic from the printed dates; the winter count i
 
 ## What to know about the three-week winter recess
 
-The recess covers three school weeks: Dec. 21-25, Dec. 28-31 plus Jan. 1, and Jan. 4-8. The second semester begins Monday, Jan. 11, 2027. Compare that with Clark County School District in Nevada, whose winter break runs Dec. 21 to Jan. 1 and whose classes resume Tuesday, Jan. 5 (see our [Clark County calendar story](/news/san-diego-unified-calendar-2026-27-breaks/)). LAUSD students stay home four more weekdays, Jan. 5-8. For the other large districts, see our [winter break 2026 roundup](/news/winter-break-2026-school-districts-dates/), and plan the dates on the [December 2026 calendar](/december-calendars.html).
+The recess covers three school weeks: Dec. 21-25, Dec. 28-31 plus Jan. 1, and Jan. 4-8. The second semester begins Monday, Jan. 11, 2027. Compare that with Clark County School District in Nevada, whose winter break runs Dec. 21 to Jan. 1 and whose classes resume Tuesday, Jan. 5 (see our [Clark County calendar story](/news/clark-county-school-district-calendar-2026-27-breaks/)). LAUSD students stay home four more weekdays, Jan. 5-8. For the other large districts, see our [winter break 2026 roundup](/news/winter-break-2026-school-districts-dates/), and plan the dates on the [December 2026 calendar](/december-calendars.html).
 
 One footnote changes the spring. It says: "If a school selects Monday, January 11, 2027, as a Pupil Free Day, then Monday, June 7, 2027, becomes an Instructional Day." So a school that uses Jan. 11 as a pupil-free day gives up the June 7 pupil-free day. Ask your school which it chose.
 

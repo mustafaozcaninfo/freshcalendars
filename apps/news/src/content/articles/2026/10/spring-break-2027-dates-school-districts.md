@@ -110,7 +110,7 @@ internalLinks:
     label: "April 2027 printable calendar"
   - href: "/when-is/easter/"
     label: "When is Easter?"
-related: [winter-break-2026-school-districts-dates, san-diego-unified-calendar-2026-27-breaks, lausd-calendar-2026-27-winter-break-spring-break]
+related: [san-diego-unified-calendar-2026-27-breaks, jcps-calendar-2026-27-jefferson-county-public-schools-breaks, lausd-calendar-2026-27-winter-break-spring-break]
 assets:
   overlay: true
   kicker: "Spring break 2027"
@@ -231,4 +231,4 @@ That count covers only these 19 districts, not all U.S. schools. Montgomery Coun
 
 ## How to plan around spring break 2027
 
-Before booking, confirm the dates on your own district's calendar, because a district can change them. Clark County says so on its calendar. Mark the week on our [printable school-year calendar](/printable-school-calendar.html) and on the [March](/march-calendars.html) and [April](/april-calendars.html) monthly calendars, or print the one-page table below. Our [winter break 2026](/news/winter-break-2026-school-districts-dates/) story lists the earlier break in the school year for many of the same districts. Jefferson County Public Schools in Louisville, Ky., is off Monday, March 29 to Friday, April 2, 2027, and its Friday, March 26 is a teachers-only day, per its 2026-27 calendar; see the [Jefferson County Public Schools (JCPS) calendar story](/news/san-diego-unified-calendar-2026-27-breaks/).
+Before booking, confirm the dates on your own district's calendar, because a district can change them. Clark County says so on its calendar. Mark the week on our [printable school-year calendar](/printable-school-calendar.html) and on the [March](/march-calendars.html) and [April](/april-calendars.html) monthly calendars, or print the one-page table below. Our [winter break 2026](/news/winter-break-2026-school-districts-dates/) story lists the earlier break in the school year for many of the same districts. Jefferson County Public Schools in Louisville, Ky., is off Monday, March 29 to Friday, April 2, 2027, and its Friday, March 26 is a teachers-only day, per its 2026-27 calendar; see the [Jefferson County Public Schools (JCPS) calendar story](/news/jcps-calendar-2026-27-jefferson-county-public-schools-breaks/).
