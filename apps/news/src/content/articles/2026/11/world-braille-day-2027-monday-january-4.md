@@ -139,7 +139,7 @@ Another UN observance comes later in the month: see our story on [International 
 
 ## Who was Louis Braille?
 
-The Library of Congress National Library Service for the Blind and Print Disabled (NLS) says Louis Braille was born in the village of Coupvray near Paris on January 4, 1809. When he was three, he was playing with a sharp tool belonging to his father, a harness maker. He accidentally injured one eye, and an infection later caused total blindness.
+The Library of Congress National Library Service for the Blind and Print Disabled (NLS) says Louis Braille was born in the village of Coupvray near Paris on January 4, 1809. When he was three, he was playing with a sharp tool from the workshop of his father, who made leather gear for horses. He accidentally injured one eye, and an infection later caused total blindness.
 
 In 1821, at age 12, Braille took a secret code devised for the military, and the NLS says he spent several years developing the system. BANA also dates the system to 1821.
 
