@@ -1,9 +1,22 @@
 {
   "v": 3,
-  "kit": "list:checklist",
-  "hash": "da632e6eaffb012d",
+  "kit": "planner",
+  "hash": "c5d56d5418718a21",
   "files": [
-    "/news/downloads/vision-board-2027/vision-board-2027-goal-worksheet.pdf"
+    "/news/downloads/vision-board-2027/vision-board-2027-goal-worksheet-check-ins.pdf"
   ],
-  "computed": []
+  "computed": [
+    "January 31",
+    "February 28",
+    "March 31",
+    "April 30",
+    "May 31",
+    "June 30",
+    "July 31",
+    "August 31",
+    "September 30",
+    "October 31",
+    "November 30",
+    "December 31"
+  ]
 }

@@ -53,32 +53,15 @@ assets:
   date: "2027-01-01"
   card: { top: "First monthly check-in", big: "Sun., Jan. 31", bottom: "One box for each month of 2027" }
   printable:
-    noKit: "year goal worksheet with a fill-in goal page and 12 check-in boxes, not a deadline sheet"
-    slug: vision-board-2027-goal-worksheet
+    kit: planner
+    slug: vision-board-2027-goal-worksheet-check-ins
     group: vision-board-2027
     title: "2027 Goal Worksheet: Year Goal Page and 12 Monthly Check-Ins"
     subtitle: "One goal page and a check-in on the last day of each month"
-    year: 2027
-    layout: checklist
-    rows:
-      - { when: "Fill in", what: "My 2027 goal, in one sentence", section: "Year goal page" }
-      - { when: "Fill in", what: "Why it matters to me", section: "Year goal page" }
-      - { when: "Fill in", what: "Step 1, written down", section: "Year goal page" }
-      - { when: "Fill in", what: "Step 2, written down", section: "Year goal page" }
-      - { when: "Fill in", what: "Step 3, written down", section: "Year goal page" }
-      - { when: "Fill in", what: "Where I keep notes: journal, app or online diary", section: "Year goal page" }
-      - { when: "Sun., Jan. 31", what: "Check-in 1: step done? Next step", section: "Monthly check-ins" }
-      - { when: "Sun., Feb. 28", what: "Check-in 2: step done? Next step", section: "Monthly check-ins" }
-      - { when: "Wed., Mar. 31", what: "Check-in 3: step done? Next step", section: "Monthly check-ins" }
-      - { when: "Fri., Apr. 30", what: "Check-in 4: step done? Next step", section: "Monthly check-ins" }
-      - { when: "Mon., May 31", what: "Check-in 5: Memorial Day", section: "Monthly check-ins" }
-      - { when: "Wed., June 30", what: "Check-in 6: step done? Next step", section: "Monthly check-ins" }
-      - { when: "Sat., July 31", what: "Check-in 7: step done? Next step", section: "Monthly check-ins" }
-      - { when: "Tue., Aug. 31", what: "Check-in 8: step done? Next step", section: "Monthly check-ins" }
-      - { when: "Thu., Sept. 30", what: "Check-in 9: step done? Next step", section: "Monthly check-ins" }
-      - { when: "Sun., Oct. 31", what: "Check-in 10: step done? Next step", section: "Monthly check-ins" }
-      - { when: "Tue., Nov. 30", what: "Check-in 11: step done? Next step", section: "Monthly check-ins" }
-      - { when: "Fri., Dec. 31", what: "Check-in 12: step done? Next step", section: "Monthly check-ins" }
+    data:
+      sections:
+        - { type: lines, title: "Year goal page", labels: ["My 2027 goal, in one sentence", "Why it matters to me", "Step 1, written down", "Step 2, written down", "Step 3, written down", "Where I keep notes: journal, app or online diary"] }
+        - { type: month-grid, title: "Monthly check-ins (last day of each month)", months: ["2027-01", "2027-02", "2027-03", "2027-04", "2027-05", "2027-06", "2027-07", "2027-08", "2027-09", "2027-10", "2027-11", "2027-12"], mark: month-end }
     note: "Source: dates computed by Fresh Calendars; National Institutes of Health, Wellness@NIH, Maintaining Healthy Habits; U.S. Office of Personnel Management, Federal Holidays."
     description: "A one-page 2027 goal worksheet with a year goal page and 12 monthly check-in boxes on the last day of each month, with weekdays."
     alt: "2027 goal worksheet with a year goal page and 12 monthly check-in boxes with dates and weekdays"
@@ -86,10 +69,10 @@ downloads:
   - group: "2027 Goal Worksheet printables"
     title: "2027 Goal Worksheet: Year Goal Page and 12 Monthly Check-Ins"
     description: "A one-page 2027 goal worksheet with a year goal page and 12 monthly check-in boxes on the last day of each month, with weekdays."
-    preview: ../../../../assets/news/vision-board-2027/vision-board-2027-goal-worksheet.png
+    preview: ../../../../assets/news/vision-board-2027/vision-board-2027-goal-worksheet-check-ins.png
     alt: "2027 goal worksheet with a year goal page and 12 monthly check-in boxes with dates and weekdays"
-    pdf: "/news/downloads/vision-board-2027/vision-board-2027-goal-worksheet.pdf"
-    png: "/news/downloads/vision-board-2027/vision-board-2027-goal-worksheet.png"
+    pdf: "/news/downloads/vision-board-2027/vision-board-2027-goal-worksheet-check-ins.pdf"
+    png: "/news/downloads/vision-board-2027/vision-board-2027-goal-worksheet-check-ins.png"
     pages: 1
 draft: false
 ---
