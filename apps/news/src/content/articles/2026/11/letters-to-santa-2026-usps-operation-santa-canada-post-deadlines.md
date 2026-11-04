@@ -3,7 +3,7 @@ title: "Letters to Santa 2026: USPS Operation Santa Dec. 5 Postmark, Canada Post
 seoTitle: "Letters to Santa 2026: USPS and Canada Post Dates"
 description: "United States Postal Service (USPS) Operation Santa letters must be postmarked by Sat., Dec. 5, 2026; Canada Post's Santa letter deadline is Wed., Dec. 9."
 type: news
-publishedAt: 2026-11-04T15:14:00-05:00
+publishedAt: "2026-11-04T15:14:00-05:00"
 authors: [christina-gerland]
 category: holidays
 keywords: ["letters to santa 2026", "usps operation santa 2026", "where to send letters to santa 2026", "canada post santa letter deadline 2026", "operation santa adoption dates"]

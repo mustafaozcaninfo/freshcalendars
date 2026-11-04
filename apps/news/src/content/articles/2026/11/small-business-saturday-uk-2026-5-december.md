@@ -3,7 +3,7 @@ title: "Small Business Saturday UK 2026: Saturday 5 December and How Shops Take 
 seoTitle: "Small Business Saturday UK 2026: Sat 5 December"
 description: "Small Business Saturday in the United Kingdom (UK) is Saturday 5 December 2026, says the organiser. How shops join, the 2026 pack and a free checklist."
 type: news
-publishedAt: 2026-11-04T15:16:00-05:00
+publishedAt: "2026-11-04T15:16:00-05:00"
 authors: [christina-gerland]
 category: uk-canada
 keywords: ["small business saturday uk 2026", "small business saturday 2026 date uk", "small business saturday marketing pack", "small business saturday uk poster"]

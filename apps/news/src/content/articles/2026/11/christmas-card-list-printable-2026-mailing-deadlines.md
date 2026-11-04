@@ -3,7 +3,7 @@ title: "Christmas Card List 2026: Free Printable Address Tracker and Mail-By Dat
 seoTitle: "Christmas Card List 2026 Printable and Mail-By Dates"
 description: "Free printable Christmas card list for 2026 with United States Postal Service (USPS) mail-by dates: Dec. 17 First-Class, Dec. 9 international, and Canada."
 type: news
-publishedAt: 2026-11-04T15:10:00-05:00
+publishedAt: "2026-11-04T15:10:00-05:00"
 authors: [christina-gerland]
 category: planning
 keywords: ["christmas card list printable", "christmas card mailing deadline 2026", "last day to mail christmas cards 2026", "christmas card address tracker"]
