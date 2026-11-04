@@ -67,7 +67,7 @@ internalLinks:
     label: "Monday-start printable calendar"
   - href: "/november-calendars.html"
     label: "November printable calendar"
-related: [iso-week-numbers-explained, how-to-calculate-day-of-year, is-12-noon-am-or-pm-midnight]
+related: [year-2038-problem-unix-time-explained, iso-week-numbers-explained, how-to-calculate-day-of-year]
 downloads:
   - group: "ISO 8601 Date Format Cheat Sheet printables"
     title: "ISO 8601 Date Format Cheat Sheet, 2026 Examples"

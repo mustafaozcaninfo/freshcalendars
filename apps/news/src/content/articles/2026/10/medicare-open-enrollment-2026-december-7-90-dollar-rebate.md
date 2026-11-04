@@ -57,7 +57,7 @@ internalLinks:
     label: "January 2027 printable calendar"
   - href: "/printable-yearly-calendar.html"
     label: "2027 printable yearly calendar"
-related: [social-security-cola-2027-3-6-percent-payment-dates, aca-open-enrollment-2027-dates-november-1-january-15]
+related: [social-security-cola-2027-3-6-percent-payment-dates, aca-open-enrollment-2027-dates-november-1-january-15, medicare-part-d-2027-deductible-700-out-of-pocket-cap-2400]
 draft: false
 ---
 

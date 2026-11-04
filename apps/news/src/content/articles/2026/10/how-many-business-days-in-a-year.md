@@ -70,7 +70,7 @@ internalLinks:
     label: "Holidays on the Fresh Calendars site"
   - href: "/guides/fiscal-year-calendar.html"
     label: "Fiscal year calendar guide"
-related: [working-days-2027-business-days-by-month-federal-nyse, business-days-november-december-2026-working-days-calendar, add-business-days-excel-workday-holidays]
+related: [working-days-2027-business-days-by-month-federal-nyse, business-days-november-december-2026-working-days-calendar, count-court-deadlines-rule-6-days]
 assets:
   overlay: true
   kicker: "Calendar guide · Business days"
@@ -198,7 +198,7 @@ So the same Friday counted as a federal holiday and an NYSE holiday but a workin
 
 ## How do you count business days between two dates?
 
-In Microsoft Excel the network days function (NETWORKDAYS) takes NETWORKDAYS(start_date, end_date, [holidays]) and, Microsoft says, returns the number of whole working days between the two dates. Google Sheets lists the same function and syntax and returns the net working days between two dates. Put your holiday dates in a range and pass it as the third argument.
+In Microsoft Excel the network days function (NETWORKDAYS) takes NETWORKDAYS(start_date, end_date, [holidays]) and, Microsoft says, returns the number of whole working days between the two dates. Google Sheets lists the same function and syntax and returns the net working days between two dates. Put your holiday dates in a range and pass it as the third argument. Our [side-by-side Excel and Google Sheets formulas with 2027 examples](/news/count-days-between-dates-excel-google-sheets/) show the counts for six date pairs.
 
 Two checks before you trust the answer:
 

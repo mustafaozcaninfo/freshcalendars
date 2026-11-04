@@ -66,7 +66,7 @@ internalLinks:
     label: "February printable calendars"
   - href: "/printable-yearly-calendar.html"
     label: "Printable yearly calendar"
-related: [why-does-february-have-28-days, how-often-does-the-calendar-repeat, excel-dates-showing-as-numbers-serial-dates]
+related: [why-does-february-have-28-days, how-often-does-the-calendar-repeat, calculate-age-in-days-weeks-months]
 draft: false
 assets:
   overlay: true
