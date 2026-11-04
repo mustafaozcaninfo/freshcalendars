@@ -108,7 +108,6 @@ assets:
         - { label: "Night parade dates and times", why: "Not yet announced on carnaval.qc.ca on Nov. 4, 2026" }
         - { label: "Music lineup and site hours", why: "Not yet announced on carnaval.qc.ca on Nov. 4, 2026" }
         - { label: "Ice canoe race date", why: "2027 date not posted on Nov. 4, 2026" }
-      fill: ["Who is going", "Where we stay"]
 ---
 
 **The Carnaval de Québec runs from Friday, Feb. 5 to Sunday, Feb. 14, 2027**, according to the festival's official site, carnaval.qc.ca. Its official pass, the Effigie, costs $29 plus taxes in presale until Jan. 17, 2027, and $39 plus taxes from Jan. 18. The night parade dates and times are not yet announced; the day-by-day calendar, the Effigie price timeline, the Winterlude overlap and a printable planner are below.
