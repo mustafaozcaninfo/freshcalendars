@@ -60,7 +60,7 @@ internalLinks:
     label: "When is Christmas Eve?"
   - href: "/when-is/christmas-day/"
     label: "When is Christmas Day?"
-related: [christmas-eve-christmas-day-2026-store-hours, advent-calendar-2026-dates-free-printable, december-2026-important-dates-holidays-days-until]
+related: [christmas-eve-christmas-day-2026-store-hours, letters-to-santa-2026-usps-operation-santa-canada-post-deadlines, december-2026-important-dates-holidays-days-until]
 draft: false
 assets:
   kicker: "NORAD Tracks Santa 2026 · Dec. 24"
