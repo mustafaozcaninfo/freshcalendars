@@ -21,6 +21,8 @@ One category, one editor, one writer account: the byline is the editor who owns 
 
 **CURRENT PHASE: 1**
 
+**SPRINT, Nov. 4, 2026 only (owner's decision, until 11:59 p.m. ET):** every writer run, scheduled or started by hand, writes up to 6 new stories from its queue (as many as its usage allows), and the daily totals and the 36 ceiling below do not apply today. Everything else stays: the claim rule, information gain, sources, one pull request per run. From Nov. 5 the phase line above applies again.
+
 | Phase | Per writer run | Per writer per day (4 runs) | Desk total per day (3 writers) | Starts |
 |---|---|---|---|---|
 | 1 | 2 new stories | 8 new | **24 new** | Nov. 2, 2026 (now) |
