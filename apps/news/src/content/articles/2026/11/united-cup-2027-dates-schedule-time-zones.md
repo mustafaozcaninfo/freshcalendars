@@ -56,30 +56,37 @@ assets:
   date: "2027-01-01"
   card: { top: "Final in Sydney", big: "Jan. 10", bottom: "Draw out Thu., Nov. 12" }
   printable:
-    noKit: "The 2027 session times are not announced, so there is no start-time watch guide to draw; this is a ten-day date sheet by city."
-    slug: united-cup-2027-schedule-sheet
+    kit: fact-table
+    slug: united-cup-2027-schedule-fact-table
     group: united-cup-2027
     title: "United Cup 2027 Schedule by City and Round, Jan. 1-10"
     subtitle: "Perth and Sydney dates from the official overview"
-    rows:
-      - ["Fri., Jan. 1 to Tue., Jan. 5", "Group stage in Perth"]
-      - ["Sat., Jan. 2 to Wed., Jan. 6", "Group stage in Sydney "]
-      - ["Wed., Jan. 6", "Quarter-finals in Perth"]
-      - ["Thu., Jan. 7 to Fri., Jan. 8", "Quarter-finals in Sydney"]
-      - ["Sat., Jan. 9", "Two semi-finals in Sydney"]
-      - ["Sun., Jan. 10", "United Cup final in Sydney"]
     note: "Source: unitedcup.com, Overview (checked Nov. 4, 2026). The 2027 session times, teams and draw are not yet announced; the draw is due Nov. 12."
-    description: "A one-page January 2027 calendar marking each United Cup 2027 round in Perth and Sydney, from the Jan. 1 start to the Jan. 10 final."
-    alt: "January 2027 calendar with United Cup group stage, quarter-finals, semi-finals and final marked"
+    description: "A one-page schedule marking each United Cup 2027 round in Perth and Sydney, from the Jan. 1 start to the Jan. 10 final."
+    alt: "United Cup 2027 schedule by city and round with group stage, quarter-finals, semi-finals and final"
+    data:
+      columns:
+        - { key: round, label: "Round" }
+        - { key: city, label: "City" }
+        - { key: dates, label: "Dates (2027)" }
+      rows:
+        - { cells: { round: "Group stage", city: "Perth", dates: "Jan. 1-5" }, src: 1 }
+        - { cells: { round: "Group stage", city: "Sydney", dates: "Jan. 2-6" }, src: 1 }
+        - { cells: { round: "Quarter-finals", city: "Perth", dates: "Jan. 6" }, src: 1 }
+        - { cells: { round: "Quarter-finals", city: "Sydney", dates: "Jan. 7-8" }, src: 1 }
+        - { cells: { round: "Semi-finals (two)", city: "Sydney", dates: "Jan. 9" }, src: 1 }
+        - { cells: { round: "Final", city: "Sydney", dates: "Jan. 10" }, src: 1 }
+      unconfirmed:
+        - { label: "2027 session times and teams", why: "not yet announced; the official draw is due Nov. 12, 2026" }
 draft: false
 downloads:
   - group: "United Cup 2027 Schedule by City and Round printables"
     title: "United Cup 2027 Schedule by City and Round, Jan. 1-10"
-    description: "A one-page January 2027 calendar marking each United Cup 2027 round in Perth and Sydney, from the Jan. 1 start to the Jan. 10 final."
-    preview: ../../../../assets/news/united-cup-2027/united-cup-2027-schedule-sheet.png
-    alt: "January 2027 calendar with United Cup group stage, quarter-finals, semi-finals and final marked"
-    pdf: "/news/downloads/united-cup-2027/united-cup-2027-schedule-sheet.pdf"
-    png: "/news/downloads/united-cup-2027/united-cup-2027-schedule-sheet.png"
+    description: "A one-page schedule marking each United Cup 2027 round in Perth and Sydney, from the Jan. 1 start to the Jan. 10 final."
+    preview: ../../../../assets/news/united-cup-2027/united-cup-2027-schedule-fact-table.png
+    alt: "United Cup 2027 schedule by city and round with group stage, quarter-finals, semi-finals and final"
+    pdf: "/news/downloads/united-cup-2027/united-cup-2027-schedule-fact-table.pdf"
+    png: "/news/downloads/united-cup-2027/united-cup-2027-schedule-fact-table.png"
     pages: 1
 ---
 
