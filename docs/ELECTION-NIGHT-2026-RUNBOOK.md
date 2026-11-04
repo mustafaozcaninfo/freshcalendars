@@ -2,7 +2,7 @@
 
 Story: `apps/news/src/content/articles/2026/11/election-day-2026-results-map.md` (live at `/news/election-day-2026-results-map/`).
 
-The scoreboard, both tile maps, the wave table and the Senate, governor and state tables are generated from two JSON files, so they never disagree. The prose and the live entries are written by hand.
+The scoreboard, both tile maps, the wave table and the Senate, governor and state tables and the live entries are generated from JSON files (static data, status, updates), so they never disagree. The prose around them is written by hand.
 
 | File | Who edits it |
 |---|---|
