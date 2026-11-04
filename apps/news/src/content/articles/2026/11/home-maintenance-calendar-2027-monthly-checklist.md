@@ -1,7 +1,7 @@
 ---
 title: "Home Maintenance Calendar 2027: Monthly Tasks and a Printable Checklist"
 seoTitle: "Home Maintenance Calendar 2027 by Month"
-description: "The U.S. Fire Administration (USFA) says to test smoke alarms monthly. Our 2027 home maintenance calendar sets each test on a date and adds sourced seasonal tasks."
+description: "The U.S. Fire Administration (USFA) says to test smoke alarms monthly. Our 2027 home maintenance calendar sets each test date and adds sourced seasonal tasks."
 type: explainer
 publishedAt: "2026-11-04T06:45:00-05:00"
 updatedAt: "2026-11-04T06:45:00-05:00"
@@ -51,13 +51,22 @@ hero:
   src: ../../../../assets/news/home-maintenance-calendar-2027-monthly-checklist/home-maintenance-calendar-2027-monthly-checklist.webp
   alt: "Reusable pleated air filters leaning on a wall, a file photo for a home maintenance calendar 2027 by month"
   caption: "File photo of reusable air filters. This story gives no filter interval because none is confirmed; follow your system's manual."
-  credit: "CREDIT_PLACEHOLDER"
+  credit: "Photo: Frayedattheedges / Wikimedia Commons, cropped, edited"
   license:
     name: "CC BY-SA 4.0"
     url: "https://creativecommons.org/licenses/by-sa/4.0"
     source: "https://commons.wikimedia.org/wiki/File:Use_air_filters_(reusable).JPG"
     author: "Frayedattheedges"
     authorUrl: "https://commons.wikimedia.org/wiki/User:Frayedattheedges"
+downloads:
+  - group: "Home Maintenance Checklist 2027 by Month printables"
+    title: "Home Maintenance Checklist 2027 by Month"
+    description: "One-page 2027 home maintenance checklist: monthly alarm tests on set dates, yearly radon and battery tasks, cold-weather and storm-season items."
+    preview: ../../../../assets/news/home-maintenance-2027/home-maintenance-checklist-2027.png
+    alt: "Printable 2027 home maintenance checklist with monthly alarm tests and seasonal tasks"
+    pdf: "/news/downloads/home-maintenance-2027/home-maintenance-checklist-2027.pdf"
+    png: "/news/downloads/home-maintenance-2027/home-maintenance-checklist-2027.png"
+    pages: 1
 summary:
   - "The U.S. Fire Administration (USFA) says to test smoke alarms monthly; we set 2027 test days on the first Saturday of each month, from Jan. 2 to Dec. 4."
   - "The Consumer Product Safety Commission (CPSC) says to replace smoke and carbon monoxide (CO) alarm batteries every year; USFA says to replace the whole smoke alarm every 10 years."
@@ -118,7 +127,7 @@ draft: false
 related: [smoke-alarm-check-daylight-saving-time-ends-november-1-2026-checklist, clock-changes-2027-when-does-daylight-saving-time-start-again-march-14, january-2027-calendar-printable]
 ---
 
-A 2027 home maintenance calendar can start with one task federal agencies put on a fixed rhythm: the U.S. Fire Administration (USFA) says "Test the alarm monthly." This story turns that rule into 12 dated test days, adds the other tasks that U.S. agencies tie to a month or season, and ends with a one-page checklist to print. Where no official interval exists, the table says so and points to your owner's manual.
+A 2027 home maintenance calendar can start with one task federal agencies put on a fixed rhythm: the U.S. Fire Administration (USFA) says "Test the alarm monthly." This story turns that rule into 12 dated test days, adds the other tasks that U.S. agencies tie to a month or season, and ends with a one-page checklist to print. Where no official interval exists, the story says so and points to your owner's manual. The table names its sources as USFA, the Environmental Protection Agency (EPA), the National Hurricane Center (NHC), the National Institute of Standards and Technology (NIST) and Ready.gov, and CO stands for carbon monoxide.
 
 ## Which home maintenance tasks have official dates for 2027?
 
@@ -140,7 +149,7 @@ Only a short list does. The table gives each task, the 2027 date we computed and
 | November | Test alarms; clocks fall back; both hurricane seasons end | Sat., Nov. 6; Sun., Nov. 7; Tue., Nov. 30 | USFA; NIST; NHC |
 | December | Test alarms; check battery backups | Sat., Dec. 4 | USFA; Ready.gov |
 
-Abbreviations: Environmental Protection Agency (EPA), National Hurricane Center (NHC), National Institute of Standards and Technology (NIST), carbon monoxide (CO). The April and October placements of the drain and cold-weather tasks are ours; the sources do not tie them to a month.
+The April and October placements of the drain and cold-weather tasks are ours; the sources do not tie them to a month.
 
 ## How often should smoke and carbon monoxide alarms be tested and replaced?
 
@@ -156,7 +165,7 @@ The EPA described January as National Radon Action Month in its Jan. 4, 2022 rel
 
 ## What does Ready.gov say to do before winter?
 
-Ready.gov's "Winter Weather" page, updated Nov. 3, 2026, lists three home items: "Install and test smoke alarms and carbon monoxide detectors with battery backups"; "Prepare your home to keep out the cold with insulation, caulking and weather stripping"; and "Learn how to keep pipes from freezing." The page gives no steps for the pipes, so we add none. For cold climates, the Federal Emergency Management Agency (FEMA) site is the place to start, and the printable puts these items before the first freeze.
+Ready.gov's "Winter Weather" page, updated Nov. 3, 2026, lists three home items: "Install and test smoke alarms and carbon monoxide detectors with battery backups"; "Prepare your home to keep out the cold with insulation, caulking and weather stripping"; and "Learn how to keep pipes from freezing." The page gives no steps for the pipes, so we add none. Ready.gov is run by the Federal Emergency Management Agency (FEMA), and the printable puts these items before the first freeze.
 
 Ready.gov's "Floods" page, updated Oct. 20, 2026, says "Declutter drains and gutters" and "Install check valves. Consider a sump pump with a battery."
 
@@ -170,4 +179,4 @@ We could not confirm a federal interval for furnace, heat pump or air conditione
 
 ## Print the 2027 home maintenance checklist
 
-The one-page sheet lists the 12 monthly alarm tests, the yearly radon and battery tasks, the cold-weather and water items and the storm-season dates. Add the test days to the [printable yearly calendar](/printable-yearly-calendar.html) or to the [January printable calendar](/january-calendars.html), and keep the sheet near the breaker panel or the front door.
+The one-page sheet lists the 12 monthly alarm tests, the yearly radon and battery tasks, the cold-weather and water items and the storm-season dates. Add the test days to the [printable yearly calendar](/printable-yearly-calendar.html) or to the [January printable calendar](/january-calendars.html), and write the dates in the notes area.

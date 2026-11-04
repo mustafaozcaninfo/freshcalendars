@@ -12,7 +12,7 @@ hero:
   src: ../../../../assets/news/lewes-polar-bear-plunge-2027-february-7/lewes-polar-bear-plunge-2027-february-7.webp
   alt: "Rehoboth Beach boardwalk at Delaware Avenue, the setting for the Lewes Polar Bear Plunge 2027"
   caption: "File photo of the Rehoboth Beach boardwalk, where the 2027 plunge is held, by Dough4872. It is not from plunge day."
-  credit: "PLACEHOLDER"
+  credit: "Photo: Dough4872 / Wikimedia Commons, cropped, edited"
   license:
     name: "CC BY-SA 4.0"
     url: "https://creativecommons.org/licenses/by-sa/4.0"
@@ -131,6 +131,15 @@ assets:
     note: "Source: Special Olympics Delaware, plungede.org (home, FAQ, registration, fundraising incentives, maps and parking, tips for a bearable plunge). Checked Nov. 4, 2026."
     description: "Printable checklist for the Lewes Polar Bear Plunge on Sunday, Feb. 7, 2027: sign-up steps, what to bring, arrival and the official safety rules."
     alt: "Checklist for the Lewes Polar Bear Plunge 2027 with sign-up, packing and safety rules"
+downloads:
+  - group: "Lewes Polar Bear Plunge 2027 Checklist printables"
+    title: "Lewes Polar Bear Plunge 2027 Checklist"
+    description: "Printable checklist for the Lewes Polar Bear Plunge on Sunday, Feb. 7, 2027: sign-up steps, what to bring, arrival and the official safety rules."
+    preview: ../../../../assets/news/lewes-polar-bear-plunge-2027/lewes-polar-bear-plunge-2027-checklist.png
+    alt: "Checklist for the Lewes Polar Bear Plunge 2027 with sign-up, packing and safety rules"
+    pdf: "/news/downloads/lewes-polar-bear-plunge-2027/lewes-polar-bear-plunge-2027-checklist.pdf"
+    png: "/news/downloads/lewes-polar-bear-plunge-2027/lewes-polar-bear-plunge-2027-checklist.png"
+    pages: 1
 draft: false
 ---
 
