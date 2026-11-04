@@ -91,7 +91,7 @@ internalLinks:
   - href: "/when-is/memorial-day/"
     label: "When is Memorial Day?"
 draft: false
-related: [nyc-alternate-side-parking-holidays-2026, veterans-day-free-meals-discounts, national-parks-free-days-october-27-veterans-day-2026]
+related: [veterans-day-parades-2026-by-city, veterans-day-free-meals-discounts, national-parks-free-days-october-27-veterans-day-2026]
 ---
 
 Veterans Day 2026 falls on **Wednesday, Nov. 11**. It is a federal holiday, so federal offices, the Federal Reserve, most banks and the U.S. Postal Service close for the day, while the stock market stays open. Unlike most federal holidays, Veterans Day is tied to its date rather than a weekday, which is why it lands midweek this year instead of creating a long weekend.
@@ -140,6 +140,8 @@ Schools are the biggest variable. Some districts close for the day, while many s
 The date marks the armistice that halted fighting in World War I at 11 a.m. on Nov. 11, 1918, the 11th hour of the 11th day of the 11th month. President Woodrow Wilson proclaimed the first Armistice Day in 1919, Congress called for an annual observance in 1926, and a 1938 law made Nov. 11 a legal federal holiday.
 
 In 1954, after World War II and the Korean War, Congress renamed it Veterans Day to honor all American veterans. A later change did not last: under the Uniform Monday Holiday Act of 1968, Veterans Day moved to the fourth Monday of October starting in 1971. Many states kept Nov. 11 anyway, and in 1975 Congress passed a law returning the federal observance to Nov. 11, beginning in 1978. It has stayed there since.
+
+Our [free Veterans Day activity sheet and quiz](/news/veterans-day-printables-2026-activity-sheet-quiz-thank-you-note/) turns these dates into a class quiz.
 
 ## When Nov. 11 falls on a weekend
 
