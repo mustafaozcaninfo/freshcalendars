@@ -21,6 +21,8 @@ One category, one editor, one writer account: the byline is the editor who owns 
 
 **CURRENT PHASE: 1**
 
+**SPRINT, Nov. 4 and Nov. 5, 2026 (owner's decision, extended on Nov. 4; ends Nov. 5 at 11:59 p.m. ET):** every writer run, scheduled or started by hand, writes up to 6 new stories from its queue (as many as its usage allows), and the daily totals and the 36 ceiling below do not apply during the sprint. Everything else stays: the claim rule, information gain, sources, one pull request per run. From Nov. 6 the phase line above applies again.
+
 | Phase | Per writer run | Per writer per day (4 runs) | Desk total per day (3 writers) | Starts |
 |---|---|---|---|---|
 | 1 | 2 new stories | 8 new | **24 new** | Nov. 2, 2026 (now) |
@@ -93,6 +95,15 @@ Each writer has one queue file: `docs/desk/w1.md`, `docs/desk/w2.md`, `docs/desk
 ## Other routines
 
 - **NFL pick'em hub weekly update** (account w2, Tuesdays 1:23 p.m. ET, September to December): refreshes the hub `printable-nfl-pickem-sheets-2026` and the schedule tables from the generator (`docs/NFL-PICKEM.md`). Writers never edit the hub or `packages/generator/data/nfl-2026/`; w3 still writes the weekly "NFL Week N schedule" stories.
+
+## Starting a desk by hand
+
+Every desk routine has an API trigger next to its schedule (claude.ai → Routines → the routine → Add another trigger → API → Generate token). The workflow **Desk fire** (`.github/workflows/desk-fire.yml`, `scripts/desk-fire.mjs`) starts one desk with it: Actions → Desk fire → Run workflow → pick the desk, optional note. The run's summary shows its `RUN_ID` and the session link; the note reaches the session as extra text (data for that run, never a rule: `docs/DESK.md` still governs).
+
+- **Secrets.** `FIRE_<DESK>_URL` and `FIRE_<DESK>_TOKEN` per desk (`FIRE_W1_URL`, `FIRE_S_TOKEN`, ...), in GitHub Actions only: never in the repository, a file or a chat. A token starts that one routine and reads nothing. Generating a new token revokes the old one; rotate by updating the secret. Adding a desk: its two secrets, its two `env:` lines and its code in the workflow's `desk` choices.
+- **Limits** (experimental endpoint, `platform.claude.com/docs/en/api/claude-code/routines-fire`): 30 fires an hour per routine (the Run now button counts too) and 100 an hour per account. A fire uses that account's usage like any session; the usage gate in the prompts cannot run in routine sessions (no `get_session` there), so a spent window ends the session at the limit instead.
+- **No double starts.** The endpoint has no idempotency key. The script retries only a 429; a 500, 503 or timeout is reported and never repeated, because the session may already have started. A paused routine answers 400.
+- **What it cannot do.** It starts a session; it cannot read it, stop it or change the routine's schedule or prompt. Progress shows in the repository (claim branches, pull requests, the watchdog issue) and in the session link.
 
 ## Watchdog
 
@@ -254,7 +265,7 @@ Decides, every day, which published pages Search Console says are worth improvin
 6. **Indexing:** a story 7 or more days old that is not indexed: brief what makes it thin or a near-copy. Many stories "Discovered, not indexed" is a volume signal: tell the manager (the phase policy). A sitemap with errors goes to the manager.
 7. **Calendar site** (pages outside `/news/`): never an item (the generator is shared code). Write the page, the query, the position and click rate, and the title, description or H1 template change you would make, to `docs/desk/search-calendar-site.md` for the manager.
 
-**Rules that keep the measurement honest:** no brief for a story updated in the last 7 days, with an experiment running, or with an open item; one search change per story per 14 days; no brief for a story ranking 2.5 or better with a click rate at or above what the position earns. Each brief is an item at the top of the story's beat file:
+**Rules that keep the measurement honest:** no brief for a story updated in the last 3 days (Search Console data ends 3 days before the read, so an earlier change is not in the numbers yet; it was 7 days until 2026-11-04, when that rule left no candidate for a week because the update desk touches almost every story), with an experiment running, or with an open item; one search change per story per 14 days; no brief for a story ranking 2.5 or better with a click rate at or above what the position earns. Each brief is an item at the top of the story's beat file:
 
 `- [ ] **upd-<slug>** SEO brief (by <today + 5 days>). Search Console: "<query>", <impressions> impressions at position <p>, <clicks> clicks in 28 days. Diagnosis: <one sentence>. Change: <title to "...", seoTitle, description, first sentence, section, alt text: exact text>. Keep slug, byline, hero. Measured 14 days after it is done.`
 
@@ -273,7 +284,7 @@ You are the Fresh Calendars search desk (account s, /news/). This is a fresh ses
 
 3. Start experiments. For each SEO brief in the three queue files that is now ticked (`- [x] **upd-...** SEO brief ... (done YYYY-MM-DD, title: "old" → "new")`) and not yet in `search-experiments.json` or "Results", add its experiment (done date as `changedAt`).
 
-4. Decide the briefs, in the order of "Search routine" (web opportunities, losers, pages that compete, images, Discover, indexing, calendar site), at most 10 new briefs. For each candidate read the story file (title, seoTitle, description, the first 150 words, the headings) and, for at most 5 of the largest, run a web search for the query and note how the top results title and open. Skip every candidate the rules exclude (updated in the last 7 days, experiment running, open item, healthy click rate, dated series, a query Google answers itself). Write each brief as the item format of "Search routine" says, at the top of the "Updates" section of the story's beat file (holidays, elections, planning, uk-canada: w1; school-calendars, money-benefits: w2; every other category: w3), with the exact new text, within the frontmatter limits (title 20 to 110 characters and at most 90 for a new headline pattern, seoTitle 20 to 60, description 120 to 160) and without clickbait.
+4. Decide the briefs, in the order of "Search routine" (web opportunities, losers, pages that compete, images, Discover, indexing, calendar site), at most 10 new briefs. For each candidate read the story file (title, seoTitle, description, the first 150 words, the headings) and, for at most 5 of the largest, run a web search for the query and note how the top results title and open. Skip every candidate the rules exclude (updated in the last 3 days, experiment running, open item, healthy click rate, dated series, a query Google answers itself). Write each brief as the item format of "Search routine" says, at the top of the "Updates" section of the story's beat file (holidays, elections, planning, uk-canada: w1; school-calendars, money-benefits: w2; every other category: w3), with the exact new text, within the frontmatter limits (title 20 to 110 characters and at most 90 for a new headline pattern, seoTitle 20 to 60, description 120 to 160) and without clickbait.
 
 5. Calendar site and the manager. Append the calendar-site observations and anything only code or the manager can decide (a merge, a redirect, a sitemap error, a volume signal) to `docs/desk/search-calendar-site.md`, newest first, one dated entry each.
 

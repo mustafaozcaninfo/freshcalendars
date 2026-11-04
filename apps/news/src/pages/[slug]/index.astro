@@ -7,6 +7,7 @@ import AuthorCard from "../../components/AuthorCard.astro";
 import Breadcrumb from "../../components/Breadcrumb.astro";
 import CalendarLinks from "../../components/CalendarLinks.astro";
 import DownloadGrid from "../../components/DownloadGrid.astro";
+import PrintableTeaser from "../../components/PrintableTeaser.astro";
 import Corrections from "../../components/Corrections.astro";
 import Faq from "../../components/Faq.astro";
 import Hero from "../../components/Hero.astro";
@@ -31,7 +32,7 @@ import { loadRanking, trendingFor } from "../../lib/trending";
 import { topicPath } from "../../lib/topics";
 import { upcomingFor } from "../../lib/keydates";
 import KeyDates from "../../components/KeyDates.astro";
-import { puzzleOf } from "../../lib/puzzles.mjs";
+import { GAMES, puzzleOf } from "../../lib/puzzles.mjs";
 import {
   articleGraph,
   articleHeadTags,
@@ -145,6 +146,15 @@ const trending = trendingFor(loadRanking(), (s) => byId.has(s), allow, shown).ma
 // Running topics this story belongs to (hub links) and its own upcoming dates (add to calendar).
 const topics = d.noindex ? [] : topicsOf(all, article.id);
 const keyDates = upcomingFor(new Set([article.id]));
+// Sidebar "what next": the other games for the same puzzle date (each links its own day's page).
+const pzThis = puzzleOf(article.id);
+const puzzleDay = pzThis ? {
+  date: pzThis.date,
+  links: all.flatMap((a) => {
+    const p = a.id !== article.id ? puzzleOf(a.id) : null;
+    return p && p.date === pzThis.date && p.game !== pzThis.game ? [{ href: articlePath(a.id), title: GAMES[p.game as keyof typeof GAMES].name }] : [];
+  }).sort((x, y) => x.title.localeCompare(y.title)),
+} : undefined;
 ---
 <NewsBase
   title={pageTitle(d)}
@@ -156,11 +166,11 @@ const keyDates = upcomingFor(new Set([article.id]));
   jsonLd={articleGraph(seo)}
   section={category.id}
 >
-  <div class="progress" aria-hidden="true"><span></span></div>
+  <div class="progress" aria-hidden="true" data-cat={category.id}><span></span></div>
   <SectionBar headings={headings} />
   <NewsBar section={category.id} />
   <AdSlot unit={7} variant="banner" />
-  <div class="article-layout">
+  <div class="article-layout" data-cat={category.id}>
   <article class="news-wrap article">
     <Breadcrumb items={[
       { name: "Home", href: "/" },
@@ -188,7 +198,7 @@ const keyDates = upcomingFor(new Set([article.id]));
     <AdSlot unit={6} variant="top" />
     <KeyPoints points={d.summary} />
     <KeyDates dates={keyDates} heading={keyDates.length === 1 ? "Key date" : "Key dates"} ics={`${articlePath(article.id)}dates.ics`} />
-    {d.downloads.length > 0 && <p class="jump"><a href="#downloads">{d.downloads.length} free printable{d.downloads.length === 1 ? "" : "s"} below ↓</a></p>}
+    <PrintableTeaser items={d.downloads} />
     <Toc headings={headings} />
     <div class="prose-news">
       <Content />
@@ -219,7 +229,7 @@ const keyDates = upcomingFor(new Set([article.id]));
     <Trending items={trending} place="inline" />
     {endAd && <AdSlot unit={5} />}
   </article>
-  <ArticleAside headings={headings} downloads={d.downloads.length} url={absNewsUrl(articlePath(article.id))} title={d.title} image={shareImage} trending={trending} />
+  <ArticleAside headings={headings} downloads={d.downloads.length} url={absNewsUrl(articlePath(article.id))} title={d.title} image={shareImage} trending={trending} puzzleDay={puzzleDay} prev={prev} next={next} keyDates={keyDates.slice(0, 3)} />
   <ShareIcons />
   </div>
   <script is:inline>
@@ -746,31 +756,35 @@ const keyDates = upcomingFor(new Set([article.id]));
 .article-byline-row{display:flex;align-items:center;justify-content:space-between;gap:20px;margin:22px 0 24px}
 .article-byline-row :global(.share){margin:0;flex-shrink:0}
 .article-byline-row :global(.share .tool-label){display:none}
-.article-byline-row :global(.share ul){display:flex;gap:5px;flex-wrap:wrap}
-.article-byline-row :global(.share a),.article-byline-row :global(.share button){width:25px;min-height:25px;padding:0;border:0;border-radius:4px;background:none;box-shadow:none}
+.article-byline-row :global(.share ul){display:flex;align-items:center;gap:4px;flex-wrap:wrap}
+.article-byline-row :global(.share li){display:flex;margin:0}
+/* Every byline control is the same 30px box (36px on phones), the "+4" toggle included, so the row
+   lines up on one baseline instead of the toggle keeping the sidebar's 44px pill. */
+.article-byline-row :global(.share a),.article-byline-row :global(.share button),.article-byline-row :global(.share .more-nets summary){width:30px;min-width:30px;height:30px;min-height:30px;padding:0;border:0;border-radius:6px;background:none;box-shadow:none;justify-content:center}
+.article-byline-row :global(.share .more-nets){display:flex}
+.article-byline-row :global(.share .more-nets summary){font-size:13px;font-weight:700;color:var(--muted)}
+.article-byline-row :global(.share a:hover),.article-byline-row :global(.share button:hover),.article-byline-row :global(.share .more-nets summary:hover){background:var(--surface-soft);transform:none;box-shadow:none}
 .article-byline-row :global(.share .ico){width:19px;height:19px}
 .article{padding-top:28px}
 .article h1,.article h1.long{font-size:32px;line-height:1.23;letter-spacing:-.04em;max-width:31ch}
 .article .news-lede{font-size:21px;line-height:1.5}
-.article .kicker{font-size:11px;margin-bottom:10px}
+.article .kicker{font-size:13px;margin-bottom:10px}
 .article :global(figure.hero){padding:0!important;background:transparent!important;border:0;margin-bottom:24px}
 .article :global(figure.hero img){border-radius:10px;width:100%;height:auto}
 @media(min-width:1100px){.article-layout{width:min(1320px,calc(100% - 80px));grid-template-columns:minmax(0,640px) 300px;justify-content:center;gap:clamp(40px,5vw,72px)}.article-layout>.article{width:100%;max-width:none}.article-layout :global(.aside){padding-top:28px}.article :global(.hero picture){display:block}.article :global(.hero img){width:100%}}
 @media(max-width:1099px){.article{width:min(640px,calc(100% - 40px))}}
-@media(max-width:640px){.article{width:calc(100% - 32px);padding-top:22px}.article h1,.article h1.long{font-size:25px}.article .news-lede{font-size:19px}.article-byline-row{flex-wrap:wrap;gap:14px;margin:18px 0}.article-byline-row :global(.share a),.article-byline-row :global(.share button){min-width:32px;min-height:32px}}
+@media(max-width:640px){.article{width:calc(100% - 32px);padding-top:22px}.article h1,.article h1.long{font-size:25px}.article .news-lede{font-size:19px}.article-byline-row{flex-wrap:wrap;gap:14px;margin:18px 0}.article-byline-row :global(.share a),.article-byline-row :global(.share button),.article-byline-row :global(.share .more-nets summary){width:36px;min-width:36px;height:36px;min-height:36px}}
 </style>
 <style>
   .article .kicker{margin:0 0 .6rem}
-  .article .kicker a{display:inline-block;padding:.18rem .65rem;border-radius:999px;background:color-mix(in srgb,var(--cat) 10%,var(--paper));color:var(--cat)!important;font-size:.75rem;font-weight:800;text-transform:uppercase;letter-spacing:.07em;text-decoration:none}
+  .article .kicker a{display:inline-block;padding:.18rem .65rem;border-radius:999px;background:color-mix(in srgb,var(--cat) 10%,var(--paper));color:var(--cat)!important;font-size:.8125rem;font-weight:800;text-transform:uppercase;letter-spacing:.07em;text-decoration:none}
   .article .news-lede{margin-bottom:1rem}
   .topic-links{display:flex;flex-wrap:wrap;align-items:center;gap:.25rem 1rem;margin:2rem 0 0;padding:.85rem 1rem;border-left:4px solid var(--gold);background:var(--surface-warm);border-radius:0 8px 8px 0}
-  .topic-links span{flex-basis:100%;font-size:.75rem;font-weight:700;text-transform:uppercase;letter-spacing:.08em;color:var(--ink)}
+  .topic-links span{flex-basis:100%;font-size:.8125rem;font-weight:700;text-transform:uppercase;letter-spacing:.08em;color:var(--ink)}
   .topic-links a{display:inline-flex;align-items:center;min-height:44px;font-weight:700}
-  .jump{margin:-.5rem 0 1.25rem;font-weight:700}
   .pz-jump{display:flex;flex-wrap:wrap;gap:.5rem;margin:0 0 .5rem}
   .pz-jump a{display:inline-flex;align-items:center;min-height:44px;padding:0 1.1rem;border:1px solid var(--focus);border-radius:999px;font-weight:700;text-decoration:none;color:var(--focus);background:var(--paper)}
   .pz-jump a:last-child{background:var(--focus);color:var(--paper)}
-  .jump a{display:inline-flex;align-items:center;min-height:44px}
   /* Readable measure (news sites measured 2026-11-03: 16-20px type, line-height 1.4-1.6, 580-640px
      columns, 67-81 characters a line; Baymard and WCAG 1.4.8 give 50-75, at most 80). Source Sans 3
      is narrow, so 18px on phones and 20px from tablets in the 640px column (.article-layout) give
@@ -859,7 +873,7 @@ const keyDates = upcomingFor(new Set([article.id]));
   .prose-news :global(.pz-nav a:hover){box-shadow:var(--n-shadow-h)}
   .prose-news :global(details.pz-hint > summary){display:flex;flex-wrap:wrap;align-items:center;gap:.25rem .6rem;min-height:44px;cursor:pointer;font-weight:700;color:var(--ink-strong);list-style:none}
   .prose-news :global(details.pz-hint > summary::-webkit-details-marker){display:none}
-  .prose-news :global(details.pz-hint > summary::after){content:"Show hint";padding:.1rem .6rem;border:1px solid var(--focus);border-radius:999px;font-size:.8rem;font-weight:700;color:var(--focus);background:var(--paper)}
+  .prose-news :global(details.pz-hint > summary::after){content:"Show hint";padding:.1rem .6rem;border:1px solid var(--focus);border-radius:999px;font-size:.875rem;font-weight:700;color:var(--focus);background:var(--paper)}
   .prose-news :global(details.pz-hint[open] > summary::after){content:"Hide";color:var(--ink);border-color:var(--n-border)}
   .prose-news :global(details.pz-group > summary::after){content:"Show words"}
   .prose-news :global(details.pz-group[open] > summary::after){content:"Hide"}
@@ -935,7 +949,7 @@ const keyDates = upcomingFor(new Set([article.id]));
   .article :global(section h2),.article :global(aside h2){font-family:Sora,"Sora Fallback",sans-serif;color:var(--ink-strong)}
   .article :global(section){margin:2rem 0}
   .progress{position:fixed;left:0;right:0;top:0;height:4px;z-index:70;pointer-events:none}
-  .progress span{display:block;height:100%;background:var(--gold);transform:scaleX(0);transform-origin:0 50%}
+  .progress span{display:block;height:100%;background:var(--cat,var(--gold));transform:scaleX(0);transform-origin:0 50%}
   .after{display:flex;flex-wrap:wrap;justify-content:space-between;align-items:flex-end;gap:1rem;margin:2rem 0 0;padding-top:1.25rem;border-top:1px solid var(--line-soft)}
   .top-link{display:inline-flex;align-items:center;min-height:44px;font-weight:700;margin-bottom:1.25rem}
   @media (min-width:1100px){

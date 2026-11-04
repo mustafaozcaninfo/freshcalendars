@@ -110,7 +110,7 @@ internalLinks:
     label: "April 2027 printable calendar"
   - href: "/when-is/easter/"
     label: "When is Easter?"
-related: [winter-break-2026-school-districts-dates, jcps-calendar-2026-27-jefferson-county-public-schools-breaks, lausd-calendar-2026-27-winter-break-spring-break]
+related: [san-diego-unified-calendar-2026-27-breaks, jcps-calendar-2026-27-jefferson-county-public-schools-breaks, columbus-city-schools-calendar-2026-27-breaks]
 assets:
   overlay: true
   kicker: "Spring break 2027"

@@ -93,7 +93,7 @@ internalLinks:
     label: "March 2027 printable calendar"
   - href: "/december-calendars.html"
     label: "December 2026 printable calendar"
-related: [canada-benefit-payment-dates-november-december-2026-cpp-oas-ccb, canada-budget-2026-date-november-5-what-to-know, family-day-2027-canada-february-15-provinces-whats-closed]
+related: [canada-benefit-payment-dates-november-december-2026-cpp-oas-ccb, ei-premium-rate-2027-maximum-insurable-earnings-canada, canada-budget-2026-date-november-5-what-to-know]
 draft: false
 downloads:
   - group: "Canada Tax Dates printables"

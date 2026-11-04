@@ -51,7 +51,7 @@ internalLinks:
     label: "December 2026 printable calendar"
   - href: "/march-calendars.html"
     label: "March 2027 printable calendar"
-related: [montgomery-county-public-schools-calendar-2026-27-breaks, winter-break-2026-school-districts-dates, baltimore-county-public-schools-calendar-2026-27-breaks]
+related: [montgomery-county-public-schools-calendar-2026-27-breaks, dcps-calendar-2026-27-dc-public-schools-breaks, winter-break-2026-school-districts-dates]
 assets:
   overlay: true
   kicker: "PGCPS 2026-27"

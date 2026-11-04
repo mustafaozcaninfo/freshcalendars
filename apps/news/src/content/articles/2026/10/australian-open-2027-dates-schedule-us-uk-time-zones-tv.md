@@ -4,6 +4,7 @@ seoTitle: "Australian Open 2027 Dates, Time Zones and TV"
 description: "The Australian Open 2027 runs Jan. 11-31 at Melbourne Park; finals are Jan. 30-31. See 2026 start times in Eastern Time (ET) and Pacific Time (PT)."
 type: news
 publishedAt: "2026-10-28T18:00:00-04:00"
+updatedAt: "2026-11-04T05:29:00-05:00"
 authors: [jessica-hartwell]
 category: sports
 keywords: ["australian open 2027 dates", "australian open 2027 schedule", "australian open time zones us uk", "australian open 2027 tv"]
@@ -29,12 +30,16 @@ faq:
   - q: "What are the Australian Open 2027 dates?"
     a: "Jan. 11-31, 2027, at Melbourne Park, according to ausopen.com. Main-draw action begins Jan. 17 and the finals are on Jan. 30 and 31."
   - q: "What channel shows the Australian Open 2027 in the U.S.?"
-    a: "The 2027 U.S. channel list is not yet published. ESPN holds the U.S. and Canada rights through 2031, according to a May 19, 2022 report by Ministry of Sport citing Tennis Australia."
+    a: "The Australian Open's Broadcast Partners page lists ESPN and Tennis Channel for the USA (checked Nov. 4, 2026). The 2027 U.S. channel list by round is not yet published. ESPN holds the U.S. and Canada rights through 2031, according to a May 19, 2022 report by Ministry of Sport citing Tennis Australia."
   - q: "What channel shows the Australian Open 2027 in the UK?"
-    a: "The Lawn Tennis Association (LTA) says you can watch and stream all of the 2027 Australian Open live on TNT Sports and discovery+."
+    a: "The Australian Open's Broadcast Partners page lists HBO Max for the UK and Ireland (checked Nov. 4, 2026). The Lawn Tennis Association (LTA) says instead that you can watch and stream all of the 2027 Australian Open live on TNT Sports and discovery+. The two pages differ, so check closer to January."
   - q: "What time do Australian Open matches start in ET?"
     a: "The 2027 times are not yet published. In 2026, night sessions on Rod Laver Arena began at 7 p.m. Melbourne time, which is 3 a.m. ET on the same calendar day."
 sources:
+  - title: "Broadcast Partners"
+    url: "https://ausopen.com/broadcasters"
+    publisher: "Australian Open"
+    date: "2026-11-04"
   - title: "Australian Open 2027 dates announced"
     url: "https://ausopen.com/node/261931"
     publisher: "Australian Open (ausopen.com)"
@@ -62,7 +67,7 @@ internalLinks:
     label: "January 2027 printable calendar"
   - href: "/printable-weekly-calendar.html"
     label: "printable weekly calendar"
-related: [atp-finals-2026-turin-dates-schedule-time-zones-tv-qualified-players, wta-finals-2026-indian-wells-dates-qualified-players-time-zones, paris-masters-2026-schedule-final-time-by-time-zone]
+related: [atp-finals-2026-turin-dates-schedule-time-zones-tv-qualified-players, wta-finals-2026-indian-wells-dates-qualified-players-time-zones, united-cup-2027-dates-schedule-time-zones]
 assets:
   overlay: true
   kicker: "Australian Open · Jan. 11-31, 2027"
@@ -132,9 +137,11 @@ A morning start in Melbourne falls on the previous evening in the United States,
 
 ## Where can you watch the Australian Open 2027 in the U.S. and UK?
 
-For the UK, the LTA says the whole tournament streams live on Turner Network Television (TNT) Sports and discovery+: "Watch and stream all of the 2027 Australian Open live on TNT Sports and discovery+."
+The tournament's own Broadcast Partners page on ausopen.com, checked Nov. 4, 2026, lists HBO Max for the UK and Ireland and ESPN and Tennis Channel for the United States. The page gives no year for these deals, so it does not confirm 2027 rights by itself.
 
-For the United States, ESPN holds Australian Open rights for the U.S. and Canada through 2031, according to a May 19, 2022 Ministry of Sport report that cited Tennis Australia. The 2027 U.S. channel list is not yet published.
+The LTA says something different for the UK: "Watch and stream all of the 2027 Australian Open live on Turner Network Television (TNT) Sports and discovery+." The two pages differ, so check the broadcaster closer to January.
+
+For the United States, ausopen.com lists ESPN and Tennis Channel. ESPN holds Australian Open rights for the U.S. and Canada through 2031, according to a May 19, 2022 Ministry of Sport report that cited Tennis Australia. The 2027 U.S. channel list by round is not yet published.
 
 ## Who won the Australian Open in 2026?
 

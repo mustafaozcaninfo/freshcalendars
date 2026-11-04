@@ -55,7 +55,7 @@ internalLinks:
     label: "April 2027 printable calendar"
   - href: "/printable-yearly-calendar.html"
     label: "Printable yearly calendar"
-related: [ultra-music-festival-2027-miami-dates-march-26-28]
+related: [ultra-music-festival-2027-miami-dates-march-26-28, sundance-film-festival-2027-boulder-dates]
 draft: false
 downloads:
   - group: "Coachella and Stagecoach 2027 Dates printables"

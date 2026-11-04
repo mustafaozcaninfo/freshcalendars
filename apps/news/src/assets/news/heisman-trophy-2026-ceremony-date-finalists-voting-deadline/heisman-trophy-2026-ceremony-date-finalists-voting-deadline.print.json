@@ -1,9 +1,13 @@
 {
   "v": 3,
-  "kit": "list:month",
-  "hash": "3a1597f5324407ba",
+  "kit": "watch-guide",
+  "hash": "c7bc8f55f77cdcc7",
   "files": [
-    "/news/downloads/heisman-2026/heisman-trophy-2026-timeline-printable.pdf"
+    "/news/downloads/heisman-2026/heisman-trophy-2026-timeline-watch-guide.pdf"
   ],
-  "computed": []
+  "computed": [
+    "4 p.m.",
+    "3 p.m.",
+    "2 p.m."
+  ]
 }

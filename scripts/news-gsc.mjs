@@ -67,6 +67,29 @@ export function opportunities(rows, { minImpressions = 80, limit = 40 } = {}) {
 }
 
 /**
+ * /news/ pages with many impressions and almost no clicks, each with the queries behind them. The
+ * opportunity list keeps only the 40 biggest single gaps, so a page whose impressions are spread over
+ * many small queries (a long tail at position 9) never shows up there; this lists the page and its
+ * top queries so the desk can see what the page is being shown for before it changes a title.
+ */
+export function weakPages(pages, pairs, { minImpressions = 800, maxCtr = 0.01, limit = 15, perPage = 6 } = {}) {
+  const byPage = new Map();
+  for (const r of pairs) {
+    const list = byPage.get(r.keys[1]) ?? [];
+    list.push({ query: r.keys[0], impressions: r.impressions, clicks: r.clicks, position: round1(r.position) });
+    byPage.set(r.keys[1], list);
+  }
+  return pages
+    .filter((p) => section(p.keys[0]) === "news" && p.impressions >= minImpressions && p.clicks / p.impressions <= maxCtr)
+    .sort((a, b) => b.impressions - a.impressions)
+    .slice(0, limit)
+    .map((p) => ({
+      page: p.keys[0], impressions: p.impressions, clicks: p.clicks, position: round1(p.position),
+      queries: (byPage.get(p.keys[0]) ?? []).sort((a, b) => b.impressions - a.impressions).slice(0, perPage),
+    }));
+}
+
+/**
  * Queries that show two or more of our pages (each with enough impressions): the pages compete with
  * each other, so one of them may be merged into the other, retitled for a different query or linked
  * to the stronger one. Dated series (a puzzle for every day) compete by nature: the desk judges.
@@ -288,6 +311,12 @@ export function report(d) {
     "",
     ...d.opportunities.map((o) => `- ${o.missing} missing: "${o.query}" → ${slugOf(o.page)} (position ${o.position}, ${n(o.impressions)} impressions, ${o.clicks} clicks)`),
     "",
+    "## Pages shown a lot and clicked almost never (/news/, web, 28 days): what each is shown for",
+    "",
+    "Pages with 800 or more impressions and a click rate of 1% or less, with their top queries. Read this before you retitle one: the queries tell you which question the page is answering in the results, and whether the title names it. A date or time that Google answers itself will stay low.",
+    "",
+    ...(d.weakPages ?? []).flatMap((p) => [`- ${slugOf(p.page)}: ${n(p.impressions)} impressions, ${p.clicks} clicks, position ${p.position}`, ...p.queries.map((q) => `  - "${q.query}": ${n(q.impressions)} impressions, ${q.clicks} clicks, position ${q.position}`)]),
+    "",
     "## Pages that lost or gained clicks (last 14 days against the 14 before; web)",
     "",
     ...(d.movers?.note ? [`Not compared: ${d.movers.note}.`, ""] : []),
@@ -393,6 +422,7 @@ async function main() {
       weeks: { news: newsWeeks, calendar: weeklyTotals(dailyCalendar, wins), newsImage: weeklyTotals(dailyNewsImage, wins), calendarImage: weeklyTotals(dailyCalendarImage, wins), newsDiscover: weeklyTotals(dailyNewsDiscover, wins) },
       gate: gate({ news: newsWeeks, indexed }),
       opportunities: opportunities(pairs),
+      weakPages: weakPages(pages, pairs),
       movers: movers(pagesCur, pagesPrev),
       cannibalization: cannibalization(pairs),
       image: { pages: byClicks(imagePages).slice(0, 40), gaps: imageGaps(pages, imagePages) },

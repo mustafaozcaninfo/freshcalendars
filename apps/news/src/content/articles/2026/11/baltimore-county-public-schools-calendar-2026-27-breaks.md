@@ -58,7 +58,7 @@ internalLinks:
     label: "December 2026 printable calendar"
   - href: "/march-calendars.html"
     label: "March 2027 printable calendar"
-related: [montgomery-county-public-schools-calendar-2026-27-breaks, prince-georges-county-public-schools-calendar-2026-27-breaks, winter-break-2026-school-districts-dates]
+related: [montgomery-county-public-schools-calendar-2026-27-breaks, snow-days-2026-27-school-closures-make-up-days]
 assets:
   overlay: true
   kicker: "BCPS 2026-27"

@@ -63,7 +63,7 @@ internalLinks:
     label: "November 2026 printable calendar"
   - href: "/december-calendars.html"
     label: "December 2026 printable calendar"
-related: [ufc-fight-night-moicano-vs-nolan-halloween-start-time-how-to-watch, survivor-series-wargames-2026-date-start-time-houston-espn, canelo-vs-mbilli-fight-time-ring-walk-by-time-zone-dazn-ppv]
+related: [ufc-fight-night-moicano-vs-nolan-halloween-start-time-how-to-watch, ufc-335-oliveira-lopes-december-12-start-time, boxing-schedule-december-2026-fight-dates-times]
 assets:
   overlay: true
   scene: none

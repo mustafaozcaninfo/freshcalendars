@@ -27,8 +27,12 @@ import { buildElectionLive } from "./electionLive.js";
 import { buildGta6Downloads } from "./gta6.js";
 import { buildVeteransDownloads } from "./veterans.js";
 import { buildNflBracketDownloads } from "./nflBracket.js";
+import { buildMarchMadnessBracketDownloads } from "./marchMadnessBracket.js";
 import { buildGiftListDownloads } from "./giftList.js";
 import { buildHabitTrackerDownloads } from "./habitTracker.js";
+import { buildSuperBowlSquaresDownloads } from "./superBowlSquares.js";
+import { buildDryJanuaryDownloads } from "./dryJanuary.js";
+import { buildJanuaryResetDownloads } from "./januaryReset.js";
 import { buildThanksgivingCookingDownloads } from "./thanksgivingCooking.js";
 import { buildShoppingDownloads } from "./shopping2026.js";
 import { buildSkyDownloads } from "./sky2026.js";
@@ -158,8 +162,16 @@ async function main(): Promise<void> {
       await buildVeteransDownloads();
     } else if (cmd === "news-nfl-bracket") {
       await buildNflBracketDownloads();
+    } else if (cmd === "news-march-madness-bracket") {
+      await buildMarchMadnessBracketDownloads();
     } else if (cmd === "news-habit-tracker") {
       await buildHabitTrackerDownloads();
+    } else if (cmd === "news-super-bowl-squares") {
+      await buildSuperBowlSquaresDownloads();
+    } else if (cmd === "news-january-reset") {
+      await buildJanuaryResetDownloads();
+    } else if (cmd === "news-dry-january") {
+      await buildDryJanuaryDownloads();
     } else if (cmd === "news-gift-list") {
       await buildGiftListDownloads();
     } else if (cmd === "news-thanksgiving-cooking") {
@@ -195,7 +207,7 @@ async function main(): Promise<void> {
     } else if (cmd === "news-txcalendar") {
       await buildTxCalendar();
     } else if (cmd === "news-assets") {
-      await buildNewsAssets(process.argv[3] ?? "");
+      await buildNewsAssets(process.argv[3] ?? "", { printableOnly: process.argv.includes("--printable-only") });
     } else if (cmd === "news-scenes") {
       const out = process.argv[3] && !process.argv[3].startsWith("--") ? process.argv[3] : undefined;
       await buildSceneGallery(out, argValue("--only")?.split(","));
@@ -231,7 +243,7 @@ async function main(): Promise<void> {
   pnpm fc refresh-meta      # daily: Eastern bake date, HTML only, no PNG/OG
   pnpm fc nfl-sync [--write]               # NFL 2026 schedule CSV vs ESPN and the 32 club sites (flexed times, scores)
   pnpm fc news-pickem [--weeks 9-12]       # NFL pick'em hub: weekly sheets, season sheets, story tables and downloads
-  pnpm fc news-assets <slug>               # /news/ story hero (illustrated scene) and printable from frontmatter assets:
+  pnpm fc news-assets <slug> [--printable-only] # /news/ story hero (illustrated scene) and printable from frontmatter assets:
   pnpm fc news-scenes [out.png] [--only a,b] # contact sheet of hero scenes (3D where available)
   pnpm fc news-printables [--since YYYY-MM-DD] [out.png] # contact sheet of printables changed since the date (default: last day)
   pnpm fc news-heroes                      # which scenes are taken and which heroes repeat (news-visuals skill)
@@ -259,7 +271,10 @@ async function main(): Promise<void> {
   pnpm fc news-gta6                        # /news/ GTA 6 launch countdown calendar
   pnpm fc news-veterans                    # /news/ Veterans Day free meals cheat sheet
   pnpm fc news-nfl-bracket                 # /news/ NFL Playoff Bracket 2027 fill-in printable
+  pnpm fc news-march-madness-bracket       # /news/ March Madness 2027 printable bracket (76 teams)
   pnpm fc news-gift-list                   # /news/ Christmas gift list and budget planner 2026
+  pnpm fc news-january-reset               # /news/ January 2027 reset planner: 4-page PDF
+  pnpm fc news-dry-january                 # /news/ Dry January 2027 31-day tracker
   pnpm fc news-thanksgiving-cooking        # /news/ Thanksgiving Day 2026 cooking plan by turkey weight
   pnpm fc news-shopping                    # /news/ Black Friday planner + Christmas Eve checklist (3 themes each)
   pnpm fc news-sky                         # /news/ Orionid viewing times + checklist (night, ink)

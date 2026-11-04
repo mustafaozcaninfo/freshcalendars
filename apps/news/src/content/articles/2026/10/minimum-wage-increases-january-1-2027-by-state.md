@@ -1,8 +1,9 @@
 ---
 title: "Minimum Wage Increases on January 1, 2027: New Rates by State"
 seoTitle: "Minimum Wage 2027 by State: Jan. 1 Rates"
-description: "Michigan, Virginia, California, Washington and four more places raise their minimum wage on Jan. 1, 2027, per state labor agencies. Rates and percent change."
+description: "Michigan, Virginia, California, Washington and seven more places raise their minimum wage on Jan. 1, 2027, per official agencies. Rates and percent change."
 type: news
+updatedAt: "2026-11-04T07:20:00-05:00"
 publishedAt: "2026-10-30T15:49:00-04:00"
 authors: [aaron-kessler]
 category: money-benefits
@@ -19,10 +20,10 @@ hero:
     author: "Shanwei Jiang"
     authorUrl: "https://commons.wikimedia.org/wiki/User:DJTechYT"
 summary:
-  - "On Friday, Jan. 1, 2027, minimum wages rise in California ($17.40), Washington ($17.73), New Jersey ($16.48), Minnesota ($11.87), Virginia ($13.75), Michigan ($15.00), South Dakota ($12.30) and Seattle ($22.14)."
-  - "Michigan's rise from $13.73 to $15.00 is the biggest of the eight in dollars and percent, a 9.2% increase by our calculation."
+  - "On Friday, Jan. 1, 2027, minimum wages rise in California ($17.40), Washington ($17.73), New Jersey ($16.48), Minnesota ($11.87), Virginia ($13.75), Michigan ($15.00), South Dakota ($12.30) and Seattle ($22.14), plus Denver ($19.84), Connecticut ($17.48) and Montana ($11.20)."
+  - "Michigan's rise from $13.73 to $15.00 is the biggest of the eleven in dollars and percent, a 9.2% increase by our calculation."
   - "New York's rates do not change on Jan. 1, 2027, and the federal minimum stays at $7.25 an hour."
-  - "Ten more states and Denver also announced changes; we list them without rates until their official pages are confirmed."
+  - "Colorado, Maine, Rhode Island, Arizona, Ohio, Nebraska and Vermont are still listed without rates until their official pages are confirmed."
 faq:
   - q: "Does the federal minimum wage change on January 1, 2027?"
     a: "No. The U.S. Department of Labor lists the federal minimum wage at $7.25 an hour."
@@ -31,8 +32,18 @@ faq:
   - q: "When does Virginia reach $15.00?"
     a: "Under Virginia Code 40.1-28.10, the rate is $15.00 from Jan. 1, 2028. On Jan. 1, 2027 it goes from $12.77 to $13.75."
   - q: "Where do I find my state's official rate?"
-    a: "Each state labor department posts it. The sources for the eight rates below are linked at the bottom of this story."
+    a: "Each state labor department posts it. The sources for the eleven rates below are linked at the bottom of this story."
 sources:
+  - title: "Governor Lamont Announces Connecticut's Minimum Wage Will Increase to $17.48 on January 1, 2027"
+    url: "https://portal.ct.gov/governor/news/press-releases/2026/08-2026/governor-lamont-announces-minimum-wage-will-increase"
+    publisher: "Office of the Governor, State of Connecticut"
+    date: "2026-08-05"
+  - title: "Montana's Minimum Wage"
+    url: "https://erd.dli.mt.gov/labor-standards/wage-and-hour-payment-act/state-minimum-wage"
+    publisher: "Montana Department of Labor & Industry"
+  - title: "Citywide Minimum Wage"
+    url: "https://denvergov.org/Government/Agencies-Departments-Offices/Agencies-Departments-Offices-Directory/Auditors-Office/Denver-Labor/Citywide-Minimum-Wage"
+    publisher: "City and County of Denver, Denver Labor (Auditor's Office)"
   - title: "California's minimum wage will increase to $17.40 per hour on January 1, 2027 (release 2026-66)"
     url: "https://dir.ca.gov/DIRNews/2026/2026-66.html"
     publisher: "California Department of Industrial Relations"
@@ -79,47 +90,51 @@ assets:
   date: "2027-01-01"
   card: { top: "California rises to", big: "$17.40 an hour", bottom: "Jan. 1, 2027" }
   printable:
-    slug: minimum-wage-rates-january-1-2027
+    kit: fact-table
+    slug: minimum-wage-rates-by-state-january-1-2027
     group: minimum-wage-2027
     title: "Minimum Wage Rates, January 1, 2027"
     subtitle: "Hourly rates that take effect Fri., Jan. 1, 2027"
-    layout: list
-    rows:
-      - ["Fri., Jan. 1", "Seattle: $21.30 to $22.14 (city rate)"]
-      - ["Fri., Jan. 1", "Washington: $17.13 to $17.73"]
-      - ["Fri., Jan. 1", "California: $16.90 to $17.40"]
-      - ["Fri., Jan. 1", "New Jersey: $15.92 to $16.48 (most employees)"]
-      - ["Fri., Jan. 1", "Michigan: $13.73 to $15.00"]
-      - ["Fri., Jan. 1", "Virginia: $12.77 to $13.75 ($15.00 from Jan. 1, 2028)"]
-      - ["Fri., Jan. 1", "South Dakota: $11.85 to $12.30 (tipped $5.925 to $6.15)"]
-      - ["Fri., Jan. 1", "Minnesota: $11.41 to $11.87 (training wage $9.31 to $9.68)"]
-      - ["Fri., Jan. 1", "New York: no change ($17.00 NYC area, $16.00 elsewhere)"]
-      - ["Fri., Jan. 1", "Federal minimum wage: stays $7.25"]
+    landscape: true
+    data:
+      columns:
+        - { key: place, label: "State or city" }
+        - { key: now, label: "Rate now", align: right }
+        - { key: jan, label: "Jan. 1, 2027", align: right }
+        - { key: note, label: "Notes" }
+      highlight: place
+      rows:
+        - { cells: { place: "Seattle", now: "$21.30", jan: "$22.14", note: "City minimum wage" }, src: 11 }
+        - { cells: { place: "Denver", now: "$19.29", jan: "$19.84", note: "City minimum wage" }, src: 3 }
+        - { cells: { place: "Washington", now: "$17.13", jan: "$17.73" }, src: 5 }
+        - { cells: { place: "Connecticut", now: "$16.94", jan: "$17.48" }, src: 1 }
+        - { cells: { place: "California", now: "$16.90", jan: "$17.40" }, src: 4 }
+        - { cells: { place: "New Jersey", now: "$15.92", jan: "$16.48", note: "Most employees" }, src: 6 }
+        - { cells: { place: "Michigan", now: "$13.73", jan: "$15.00", note: "Biggest rise, +9.2%" }, src: 9 }
+        - { cells: { place: "Virginia", now: "$12.77", jan: "$13.75", note: "$15.00 from Jan. 1, 2028" }, src: 8 }
+        - { cells: { place: "South Dakota", now: "$11.85", jan: "$12.30", note: "Tipped $5.925 to $6.15" }, src: 10 }
+        - { cells: { place: "Minnesota", now: "$11.41", jan: "$11.87", note: "Training wage $9.31 to $9.68" }, src: 7 }
+        - { cells: { place: "Montana", now: "$10.85", jan: "$11.20", note: "No tip credit" }, src: 2 }
+        - { cells: { place: "New York", now: "No change", jan: "No change", note: "$17.00 NYC area, $16.00 elsewhere" }, src: 11 }
+        - { cells: { place: "Federal", now: "$7.25", jan: "$7.25", note: "Unchanged" }, src: 13 }
+      note:
+        - "City rates are set by Seattle and Denver; the others are state rates. Confirm with your state."
     note: "Source: state labor agencies, Seattle Office of Labor Standards and U.S. Department of Labor, as listed at freshcalendars.com/news. Confirm with your state."
-    inkSaver: true
-    description: "One-page list of the minimum wage rates that take effect on January 1, 2027 in eight places, with New York and federal rates."
+    description: "One-page list of the minimum wage rates that take effect on January 1, 2027 in eleven places, with New York and federal rates."
     alt: "Printable list of minimum wage rates by state for January 1, 2027"
 downloads:
   - group: "Minimum Wage Rates printables"
     title: "Minimum Wage Rates, January 1, 2027"
-    description: "One-page list of the minimum wage rates that take effect on January 1, 2027 in eight places, with New York and federal rates."
-    preview: ../../../../assets/news/minimum-wage-2027/minimum-wage-rates-january-1-2027.png
+    description: "One-page list of the minimum wage rates that take effect on January 1, 2027 in eleven places, with New York and federal rates."
+    preview: ../../../../assets/news/minimum-wage-2027/minimum-wage-rates-by-state-january-1-2027.png
     alt: "Printable list of minimum wage rates by state for January 1, 2027"
-    pdf: "/news/downloads/minimum-wage-2027/minimum-wage-rates-january-1-2027.pdf"
-    png: "/news/downloads/minimum-wage-2027/minimum-wage-rates-january-1-2027.png"
-    pages: 1
-  - group: "Minimum Wage Rates printables"
-    title: "Minimum Wage Rates, January 1, 2027 (ink saver)"
-    description: "One-page list of the minimum wage rates that take effect on January 1, 2027 in eight places, with New York and federal rates. Ink-saver version."
-    preview: ../../../../assets/news/minimum-wage-2027/minimum-wage-rates-january-1-2027-ink.png
-    alt: "Printable list of minimum wage rates by state for January 1, 2027, ink-saver version"
-    pdf: "/news/downloads/minimum-wage-2027/minimum-wage-rates-january-1-2027-ink.pdf"
-    png: "/news/downloads/minimum-wage-2027/minimum-wage-rates-january-1-2027-ink.png"
+    pdf: "/news/downloads/minimum-wage-2027/minimum-wage-rates-by-state-january-1-2027.pdf"
+    png: "/news/downloads/minimum-wage-2027/minimum-wage-rates-by-state-january-1-2027.png"
     pages: 1
 draft: false
 ---
 
-**Minimum wages rise on Friday, Jan. 1, 2027, in California, Washington, New Jersey, Minnesota, Virginia, Michigan, South Dakota and Seattle, according to each state's labor agency or the Seattle Office of Labor Standards.** Michigan's rate goes to $15.00 an hour, and Seattle's city rate goes to $22.14. New York stays put, and the federal minimum stays at $7.25.
+**Minimum wages rise on Friday, Jan. 1, 2027, in California, Washington, New Jersey, Minnesota, Virginia, Michigan, South Dakota, Seattle, Denver, Connecticut and Montana, according to each official labor page.** Michigan's rate goes to $15.00 an hour, and Seattle's city rate goes to $22.14. New York stays put, and the federal minimum stays at $7.25.
 
 Every rate in the table comes from an official page listed under the story. The dollar and percent changes are our own arithmetic on those rates, rounded to one decimal. A printable one-page list of the same rates is in the downloads box on this page, and the changes sit alongside other [new laws that start on Jan. 1, 2027](/news/new-laws-january-1-2027-by-state/).
 
@@ -128,15 +143,18 @@ Every rate in the table comes from an official page listed under the story. The 
 | State or city | 2026 rate | Jan. 1, 2027 rate | Change | Percent change |
 |---|---|---|---|---|
 | Seattle (city) | $21.30 | $22.14 | +$0.84 | 3.9% |
+| Denver (city) | $19.29 | $19.84 | +$0.55 | 2.9% |
 | Washington | $17.13 | $17.73 | +$0.60 | 3.5% |
+| Connecticut | $16.94 | $17.48 | +$0.54 | 3.2% |
 | California | $16.90 | $17.40 | +$0.50 | 3.0% |
 | New Jersey (most employees) | $15.92 | $16.48 | +$0.56 | 3.5% |
 | Michigan | $13.73 | $15.00 | +$1.27 | 9.2% |
 | Virginia | $12.77 | $13.75 | +$0.98 | 7.7% |
 | South Dakota (non-tipped) | $11.85 | $12.30 | +$0.45 | 3.8% |
 | Minnesota | $11.41 | $11.87 | +$0.46 | 4.0% |
+| Montana | $10.85 | $11.20 | +$0.35 | 3.2% |
 
-Sources: California Department of Industrial Relations (release 2026-66, Aug. 13, 2026); Washington Department of Labor & Industries (release 26-17, Sept. 30, 2026); New Jersey Department of Labor and Workforce Development (Sept. 29, 2026); Michigan Department of Labor and Economic Opportunity; Virginia Code 40.1-28.10; South Dakota Department of Labor and Regulation; Minnesota Department of Labor and Industry (Aug. 19, 2026); Seattle Office of Labor Standards. Washington's 3.5% matches the figure in the state's release.
+Sources: California Department of Industrial Relations (release 2026-66, Aug. 13, 2026); Washington Department of Labor & Industries (release 26-17, Sept. 30, 2026); New Jersey Department of Labor and Workforce Development (Sept. 29, 2026); Michigan Department of Labor and Economic Opportunity; Virginia Code 40.1-28.10; South Dakota Department of Labor and Regulation; Minnesota Department of Labor and Industry (Aug. 19, 2026); Seattle Office of Labor Standards; Office of the Governor, State of Connecticut (Aug. 5, 2026); Montana Department of Labor & Industry; Denver Labor, City and County of Denver. Washington's 3.5% matches the figure in the state's release.
 
 ## What changes in each state
 
@@ -154,6 +172,12 @@ Sources: California Department of Industrial Relations (release 2026-66, Aug. 13
 
 **South Dakota.** The Department of Labor and Regulation lists $12.30 for non-tipped workers, up from $11.85. The tipped rate goes from $5.925 to $6.15.
 
+**Connecticut.** The governor's office says the minimum wage will adjust to $17.48 an hour beginning Jan. 1, 2027, up from the 2026 rate of $16.94.
+
+**Montana.** The Department of Labor & Industry lists $11.20 effective Jan. 1, 2027, against a current $10.85. It states that no tip credit, meal credit or training wage is allowed under Montana's wage and hour laws.
+
+**Denver.** Denver Labor lists $19.84 from Jan. 1 to Dec. 31, 2027, up from $19.29 in 2026. The 2027 tipped rate is not given on the page.
+
 **Seattle.** The Office of Labor Standards says the city's minimum wage increases every year on Jan. 1. The 2027 city rate is $22.14, up from $21.30.
 
 ## Which minimum wages do not change on January 1, 2027?
@@ -164,7 +188,7 @@ The federal minimum wage stays at $7.25 an hour, per the U.S. Department of Labo
 
 ## Other places with changes to confirm
 
-Colorado, Maine, Rhode Island, Connecticut, Arizona, Ohio, Montana, Nebraska, Vermont and Denver have also announced changes for 2027. We could not check their official pages, so we list no rates for them. Their state labor departments post the new rates, and we will add each one here once it is confirmed on the official page.
+Colorado, Maine, Rhode Island, Arizona and Ohio are still unconfirmed: we could not check their official pages, so we list no rates for them. Nebraska and Vermont set an inflation adjustment for 2027 in their laws, but the dollar figure is not yet posted on the official page we checked. We will add each rate here once it is confirmed on an official page.
 
 ## How to use this list
 

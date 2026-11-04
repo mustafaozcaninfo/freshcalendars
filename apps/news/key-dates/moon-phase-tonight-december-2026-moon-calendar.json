@@ -1,0 +1,6 @@
+[
+  { "date": "2026-12-01", "label": "Last quarter moon, 1:08 a.m. EST" },
+  { "date": "2026-12-08", "label": "New moon, 7:52 p.m. EST" },
+  { "date": "2026-12-16", "label": "First quarter moon, 9:42 p.m. PST (12:42 a.m. EST on Dec. 17)" },
+  { "date": "2026-12-23", "label": "Full moon, 8:28 p.m. EST (supermoon per NASA)", "weight": 3 }
+]

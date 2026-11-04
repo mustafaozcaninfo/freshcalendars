@@ -1,9 +1,11 @@
 {
   "v": 3,
-  "kit": "list:month",
-  "hash": "7779c9e36b9c2138",
+  "kit": "year-reference",
+  "hash": "276781f0f0b4e622",
   "files": [
-    "/news/downloads/black-history-month-2027/black-history-month-2027-calendar-feb-1-28.pdf"
+    "/news/downloads/black-history-month-2027/black-history-month-2027-february-calendar.pdf"
   ],
-  "computed": []
+  "computed": [
+    "Thu., Feb. 4"
+  ]
 }

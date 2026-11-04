@@ -67,7 +67,7 @@ internalLinks:
     label: "When is Christmas Day?"
   - href: "/holidays/"
     label: "Holiday calendars"
-related: [when-does-advent-start-2026-november-29-advent-wreath-candles, orthodox-christmas-2027-january-7-three-kings-day-january-6, christmas-2026-calendar-printable-countdown]
+related: [when-does-advent-start-2026-november-29-advent-wreath-candles, immaculate-conception-2026-holy-day-of-obligation-december-8, christmas-2026-calendar-printable-countdown]
 downloads:
   - group: "Las Posadas 2026 printables"
     title: "Las Posadas 2026: Nine Nights, Dec. 16-24"

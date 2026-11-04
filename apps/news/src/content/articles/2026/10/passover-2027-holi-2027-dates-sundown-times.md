@@ -59,7 +59,7 @@ internalLinks:
     label: "April printable calendars"
   - href: "/march-calendars.html"
     label: "March printable calendars"
-related: [ramadan-2027-calendar-dates-timetable, easter-2027-march-28-good-friday-easter-monday-whats-open, lunar-new-year-2027-year-of-the-goat]
+related: [jewish-holidays-2027-dates-passover-rosh-hashanah-yom-kippur-hanukkah, easter-2027-march-28-good-friday-easter-monday-whats-open, lunar-new-year-2027-year-of-the-goat]
 assets:
   kicker: "Passover 2027"
   overlay: true

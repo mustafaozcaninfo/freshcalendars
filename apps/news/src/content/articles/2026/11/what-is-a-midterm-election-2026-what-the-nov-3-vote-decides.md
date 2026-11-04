@@ -96,7 +96,7 @@ internalLinks:
     label: "November 2026 printable calendar"
   - href: "/december-calendars.html"
     label: "December 2026 printable calendar"
-related: [2026-midterm-elections-whats-on-the-ballot-results-tracker, sample-ballot-2026-by-state-official-lookup-links, when-do-2026-election-winners-take-office-congress-governors]
+related: [2026-midterm-elections-whats-on-the-ballot-results-tracker, automatic-recount-rules-2026-thresholds-deadlines-by-state, when-do-2026-election-winners-take-office-congress-governors]
 assets:
   overlay: true
   kicker: "Midterm elections · Tue., Nov. 3, 2026"

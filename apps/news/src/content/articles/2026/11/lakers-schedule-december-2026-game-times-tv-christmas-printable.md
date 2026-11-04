@@ -78,7 +78,7 @@ internalLinks:
     label: "printable weekly calendar"
   - href: "/when-is/christmas/"
     label: "When is Christmas?"
-related: [lakers-schedule-november-2026-game-times-tv-nba-cup-printable, christmas-day-2026-games-nba-nfl-schedule-times-tv, nba-cup-2026-schedule-dates-group-play-knockouts-final-indianapolis]
+related: [lakers-schedule-november-2026-game-times-tv-nba-cup-printable, christmas-day-2026-games-nba-nfl-schedule-times-tv, 76ers-schedule-december-2026-game-times-tv-christmas-printable]
 downloads:
   - group: "Lakers Schedule printables"
     title: "Lakers Schedule, December 2026"

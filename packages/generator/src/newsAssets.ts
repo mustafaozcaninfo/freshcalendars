@@ -180,8 +180,8 @@ async function photoDoc(fonts: string, f: Front, a: Assets, src: string): Promis
 /** Finish per hero kind: 3D gets a stronger bloom (lit pumpkins, light strips), SVG art a light one. */
 const fxFor = (doc: HeroDoc, slug: string) => (doc.three ? { seed: slug, bloom: 0.5, threshold: 215 } : { seed: slug, bloom: 0.18, threshold: 200, vignette: 0.18 });
 
-export async function buildNewsAssets(slug: string): Promise<void> {
-  if (!slug) throw new Error("usage: pnpm fc news-assets <slug>");
+export async function buildNewsAssets(slug: string, opts: { printableOnly?: boolean } = {}): Promise<void> {
+  if (!slug) throw new Error("usage: pnpm fc news-assets <slug> [--printable-only]");
   const file = await findStory(slug);
   const raw = await fs.readFile(file, "utf8");
   const m = /^---\n([\s\S]*?)\n---/.exec(raw);
@@ -196,57 +196,60 @@ export async function buildNewsAssets(slug: string): Promise<void> {
   const dir = path.join(ROOT, "apps/news/src/assets/news", slug);
   const name = a.scene ?? CATEGORY_SCENE[f.category] ?? "calendar";
   if (name !== "none" && !SCENES.includes(name)) throw new Error(`assets.scene "${name}" is not one of: ${SCENES.join(", ")}, none`);
-  // A licensed photo (news-photo) is the hero; only the printable is drawn then.
-  const recordFile = path.join(dir, `${slug}.photo.json`);
-  const photo = await fs.access(recordFile).then(() => true, () => false);
-  if (photo && a.overlay) {
-    if (JSON.parse(await fs.readFile(recordFile, "utf8")).official) throw new Error("an official notice photo is shown as published; set assets.overlay: false");
-    const src = path.join(dir, `${slug}.source.webp`);
-    if (!(await fs.access(src).then(() => true, () => false))) throw new Error(`${slug}.source.webp is missing; run pnpm fc news-photo use again so the untouched crop is kept`);
-    const rec = JSON.parse(await fs.readFile(recordFile, "utf8"));
-    const browser = await chromium.launch({ headless: true });
-    try {
-      const png = await shootHero(browser, await photoDoc(fonts, f, a, src), { seed: slug, bloom: 0.08, threshold: 235, vignette: 0.2, grain: 4, saturation: 1.04 });
-      // Never upscale a photo: the branded hero keeps the source width.
-      const { width = 0 } = await sharp(src).metadata();
-      const credit = /, edited$/.test(rec.credit) ? rec.credit : `${rec.credit}, edited`;
-      const rights = `${rec.author}, ${rec.license}${rec.licenseUrl ? ` (${rec.licenseUrl})` : ""}; edited by Fresh Calendars`;
-      await sharp(png).resize(Math.min(width, W * 2)).withExif({ IFD0: { Artist: rec.author, Copyright: rights, ImageDescription: rec.title } })
-        .webp({ quality: 84, effort: 6 }).toFile(path.join(dir, `${slug}.webp`));
-      await fs.writeFile(recordFile, `${JSON.stringify({ ...rec, credit, overlay: true }, null, 2)}\n`);
-      console.log(`hero: ${slug}.webp redrawn from ${slug}.source.webp with the overlay\nset hero.credit in the frontmatter to: ${JSON.stringify(credit)}`);
+  // --printable-only: the story's hero is left as it is (updating a printable must not redraw it).
+  if (!opts.printableOnly) {
+    // A licensed photo (news-photo) is the hero; only the printable is drawn then.
+    const recordFile = path.join(dir, `${slug}.photo.json`);
+    const photo = await fs.access(recordFile).then(() => true, () => false);
+    if (photo && a.overlay) {
+      if (JSON.parse(await fs.readFile(recordFile, "utf8")).official) throw new Error("an official notice photo is shown as published; set assets.overlay: false");
+      const src = path.join(dir, `${slug}.source.webp`);
+      if (!(await fs.access(src).then(() => true, () => false))) throw new Error(`${slug}.source.webp is missing; run pnpm fc news-photo use again so the untouched crop is kept`);
+      const rec = JSON.parse(await fs.readFile(recordFile, "utf8"));
+      const browser = await chromium.launch({ headless: true });
+      try {
+        const png = await shootHero(browser, await photoDoc(fonts, f, a, src), { seed: slug, bloom: 0.08, threshold: 235, vignette: 0.2, grain: 4, saturation: 1.04 });
+        // Never upscale a photo: the branded hero keeps the source width.
+        const { width = 0 } = await sharp(src).metadata();
+        const credit = /, edited$/.test(rec.credit) ? rec.credit : `${rec.credit}, edited`;
+        const rights = `${rec.author}, ${rec.license}${rec.licenseUrl ? ` (${rec.licenseUrl})` : ""}; edited by Fresh Calendars`;
+        await sharp(png).resize(Math.min(width, W * 2)).withExif({ IFD0: { Artist: rec.author, Copyright: rights, ImageDescription: rec.title } })
+          .webp({ quality: 84, effort: 6 }).toFile(path.join(dir, `${slug}.webp`));
+        await fs.writeFile(recordFile, `${JSON.stringify({ ...rec, credit, overlay: true }, null, 2)}\n`);
+        console.log(`hero: ${slug}.webp redrawn from ${slug}.source.webp with the overlay\nset hero.credit in the frontmatter to: ${JSON.stringify(credit)}`);
+      } finally {
+        await browser.close();
+      }
+    } else if (photo) console.log(`hero: licensed photo ${slug}.webp kept (assets.overlay: true adds our layer; delete ${slug}.photo.json to draw a scene instead)`);
+    const browser = photo ? null : await chromium.launch({ headless: true });
+    if (browser) try {
+      let png: Buffer;
+      if (name === "none") {
+        const page = await browser.newPage({ viewport: { width: W, height: H }, deviceScaleFactor: 2 });
+        await page.setContent(hero(fonts, f, a), { waitUntil: "load" });
+        await page.evaluate(() => document.fonts.ready);
+        png = await page.screenshot({ type: "png" });
+      } else {
+        const doc = sceneDoc(fonts, f, a, slug, name);
+        png = await shootHero(browser, doc, fxFor(doc, slug));
+      }
+      await fs.mkdir(dir, { recursive: true });
+      await sharp(png).jpeg({ quality: 86, mozjpeg: true }).toFile(path.join(dir, `${slug}.jpg`));
+      console.log(`hero: apps/news/src/assets/news/${slug}/${slug}.jpg`);
     } finally {
       await browser.close();
     }
-  } else if (photo) console.log(`hero: licensed photo ${slug}.webp kept (assets.overlay: true adds our layer; delete ${slug}.photo.json to draw a scene instead)`);
-  const browser = photo ? null : await chromium.launch({ headless: true });
-  if (browser) try {
-    let png: Buffer;
-    if (name === "none") {
-      const page = await browser.newPage({ viewport: { width: W, height: H }, deviceScaleFactor: 2 });
-      await page.setContent(hero(fonts, f, a), { waitUntil: "load" });
-      await page.evaluate(() => document.fonts.ready);
-      png = await page.screenshot({ type: "png" });
-    } else {
-      const doc = sceneDoc(fonts, f, a, slug, name);
-      png = await shootHero(browser, doc, fxFor(doc, slug));
-    }
+    // Record what was drawn, then refuse a hero that repeats another story's scene or picture.
+    const kind = photo ? "photo" : name === "none" ? "poster" : "scene";
+    const render = kind === "scene" ? (a.render !== "2d" && SCENES_3D[name] ? "3d" : "2d") : undefined;
     await fs.mkdir(dir, { recursive: true });
-    await sharp(png).jpeg({ quality: 86, mozjpeg: true }).toFile(path.join(dir, `${slug}.jpg`));
-    console.log(`hero: apps/news/src/assets/news/${slug}/${slug}.jpg`);
-  } finally {
-    await browser.close();
-  }
-  // Record what was drawn, then refuse a hero that repeats another story's scene or picture.
-  const kind = photo ? "photo" : name === "none" ? "poster" : "scene";
-  const render = kind === "scene" ? (a.render !== "2d" && SCENES_3D[name] ? "3d" : "2d") : undefined;
-  await fs.mkdir(dir, { recursive: true });
-  await fs.writeFile(path.join(dir, `${slug}.hero.json`), `${JSON.stringify({ kind, ...(kind === "scene" ? { scene: name, render } : {}) }, null, 2)}\n`);
-  const problems = await heroProblems(slug, storyHeroes());
-  if (problems.length) {
-    const msg = `hero is not unique:\n  - ${problems.join("\n  - ")}\nUse a licensed photo with the overlay (pnpm fc news-photo, assets.overlay: true) or a scene no story has used; see .claude/skills/news-visuals/SKILL.md`;
-    if (String(f.publishedAt ?? "").slice(0, 10) >= UNIQUE_SINCE) throw new Error(msg);
-    console.warn(`${msg}\n(older story, published before ${UNIQUE_SINCE}: warning only)`);
+    await fs.writeFile(path.join(dir, `${slug}.hero.json`), `${JSON.stringify({ kind, ...(kind === "scene" ? { scene: name, render } : {}) }, null, 2)}\n`);
+    const problems = await heroProblems(slug, storyHeroes());
+    if (problems.length) {
+      const msg = `hero is not unique:\n  - ${problems.join("\n  - ")}\nUse a licensed photo with the overlay (pnpm fc news-photo, assets.overlay: true) or a scene no story has used; see .claude/skills/news-visuals/SKILL.md`;
+      if (String(f.publishedAt ?? "").slice(0, 10) >= UNIQUE_SINCE) throw new Error(msg);
+      console.warn(`${msg}\n(older story, published before ${UNIQUE_SINCE}: warning only)`);
+    }
   }
   const p = a.printable;
   if (!p) return;

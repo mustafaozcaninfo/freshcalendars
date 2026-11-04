@@ -68,7 +68,7 @@ internalLinks:
     label: "2026 UK holiday list"
   - href: "/printable-yearly-calendar.html"
     label: "2026 printable yearly calendar"
-related: [uk-bank-holidays-2027-dates-england-scotland-northern-ireland, uk-europe-clocks-go-back-october-25-2026-time-difference, uk-christmas-bank-holidays-2026-boxing-day-substitute-december-28]
+related: [scottish-budget-2027-28-december-3-2026-income-tax-bands, national-living-wage-april-2027-13-21-rates-by-age, uk-bank-holidays-2027-dates-england-scotland-northern-ireland]
 assets:
   overlay: true
   kicker: "UK Budget · Wed. 28 Oct. 2026"

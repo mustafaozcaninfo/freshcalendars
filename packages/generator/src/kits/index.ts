@@ -1,9 +1,12 @@
 /** Kit registry for `assets.printable.kit` (docs/PRINTABLE-DESIGN-PLAN.md). */
 import type { Kit } from "./kit.js";
+import { activitySheet } from "./activitySheet.js";
 import { bankHolidays } from "./bankHolidays.js";
 import { clockChange } from "./clockChange.js";
 import { deadlineMatrix } from "./deadlineMatrix.js";
+import { factTable } from "./factTable.js";
 import { holidayPlanner } from "./holidayPlanner.js";
+import { planner } from "./planner.js";
 import { puzzleMonth } from "./puzzleMonth.js";
 import { releaseTracker } from "./releaseTracker.js";
 import { schoolYear } from "./schoolYear.js";
@@ -12,7 +15,7 @@ import { watchGuide } from "./watchGuide.js";
 import { yearReference } from "./yearReference.js";
 
 export const KITS: Record<string, Kit<any>> = Object.fromEntries(
-  [schoolYear, watchGuide, deadlineMatrix, holidayPlanner, bankHolidays, skyNight, clockChange, puzzleMonth, releaseTracker, yearReference].map((k) => [k.name, k]),
+  [schoolYear, watchGuide, deadlineMatrix, holidayPlanner, bankHolidays, skyNight, clockChange, puzzleMonth, releaseTracker, yearReference, activitySheet, planner, factTable].map((k) => [k.name, k]),
 );
 
 export function kitFor(name: string): Kit<any> {

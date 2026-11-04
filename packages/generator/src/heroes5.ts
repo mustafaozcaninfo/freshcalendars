@@ -293,6 +293,11 @@ export const PUZZLE_HEROES: [string, string, string, string, string, string, str
   ["blossom-word-game-answers-november-3-2026", "blossom", "#422006", "#c4b5fd", "Blossom · Tue., Nov. 3, 2026", "Blossom answers", "Letters and hints first, the pangrams only at the end."],
   ["nyt-connections-sports-edition-hints-answers-november-3-2026-771", "sports", "#3b1225", "#f9a8d4", "Sports Edition #771 · Tue., Nov. 3, 2026", "Sports Connections", "A hint for each of the four groups, the answers at the end.", "sports-771-b"],
   ["linkedin-games-answers-today-november-3-2026-queens-tango-zip", "linkedin", "#1e1b4b", "#86efac", "LinkedIn games · Tue., Nov. 3, 2026", "LinkedIn games hints", "Pinpoint and Crossclimb hints first, answers at the end."],
+  ["waffle-answer-hints-today-november-4-2026-1748", "waffle", "#1a2a24", "#f9a8d4", "Waffle #1748 · Wed., Nov. 4, 2026", "Waffle hints today", "A clue for each of the six words, the solved grid at the end."],
+  ["quordle-hints-answers-november-4-2026-1745", "quordle", "#2a1a33", "#5eead4", "Quordle #1745 · Wed., Nov. 4, 2026", "Quordle hints today", "A clue for each of the four words, the answers at the end."],
+  ["nyt-connections-sports-edition-hints-answers-november-4-2026-772", "sports", "#102a43", "#fcd34d", "Sports Edition #772 · Wed., Nov. 4, 2026", "Sports Connections", "A hint for each of the four groups, the answers at the end.", "sports-772-b"],
+  ["blossom-word-game-answers-november-4-2026", "blossom", "#1e3a2f", "#fda4af", "Blossom · Wed., Nov. 4, 2026", "Blossom answers", "Letters and hints first, the pangrams only at the end."],
+  ["linkedin-games-answers-today-november-4-2026-queens-tango-zip", "linkedin", "#14213d", "#fca5a5", "LinkedIn games · Wed., Nov. 4, 2026", "LinkedIn games hints", "Pinpoint and Crossclimb hints first, puzzle numbers, answers at the end."],
   ["wordle-hint-answer-today-november-12-2026-1972", "wordle", "#121213", "#c9b458", "Wordle #1972 · Thu., Nov. 12, 2026", "Wordle hints today", "Six clues from gentle to strong, the answer only at the end."],
   ["nyt-connections-hints-answers-november-12-2026-1250", "connections", "#1e1a3a", "#f9df6d", "Connections #1250 · Thu., Nov. 12, 2026", "Connections hints", "Gentle hints for every group first, answers only at the end."],
   ["nyt-strands-hints-answers-november-12-2026-984", "strands", "#0f2f3a", "#aedfee", "Strands #984 · Thu., Nov. 12, 2026", "Strands hints today", "Spangram and theme-word hints first, answers at the end."],
@@ -329,6 +334,10 @@ export const PUZZLE_HEROES: [string, string, string, string, string, string, str
   ["nyt-connections-hints-answers-november-15-2026-1253", "connections", "#1e1a3a", "#ba81c5", "Connections #1253 · Sun., Nov. 15, 2026", "Connections hints", "Gentle hints for every group first, answers only at the end."],
   ["nyt-strands-hints-answers-november-15-2026-987", "strands", "#0f2f3a", "#f8cd05", "Strands #987 · Sun., Nov. 15, 2026", "Strands hints today", "Spangram and theme-word hints first, answers at the end."],
   ["nyt-pips-hints-answers-november-15-2026", "pips", "#1e293b", "#86efac", "Pips · Sun., Nov. 15, 2026", "Pips hints today", "Hints for Easy, Medium and Hard, placements at the end."],
+  ["wordle-hint-answer-today-november-16-2026-1976", "wordle", "#121213", "#c9b458", "Wordle #1976 · Mon., Nov. 16, 2026", "Wordle hints today", "Six clues from gentle to strong, the answer only at the end."],
+  ["nyt-connections-hints-answers-november-16-2026-1254", "connections", "#2a1a2e", "#f9df6d", "Connections #1254 · Mon., Nov. 16, 2026", "Connections hints", "Gentle hints for every group first, answers only at the end."],
+  ["nyt-strands-hints-answers-november-16-2026-988", "strands", "#0f2f3a", "#aedfee", "Strands #988 · Mon., Nov. 16, 2026", "Strands hints today", "Spangram and theme-word hints first, answers at the end."],
+  ["nyt-pips-hints-answers-november-16-2026", "pips", "#1e293b", "#fda4af", "Pips · Mon., Nov. 16, 2026", "Pips hints today", "Hints for Easy, Medium and Hard, placements at the end."],
   ["nyt-letter-boxed-answer-hints-november-6-2026", "letterboxed", "#3d1f1a", "#fca5a5", "Letter Boxed · Fri., Nov. 6, 2026", "Letter Boxed hints", "Starting letters and word lengths first, the answer at the end."],
   ["contexto-answer-hints-november-8-2026-1512", "contexto", "#0f172a", "#f472b6", "Contexto #1512 · Sun., Nov. 8, 2026", "Contexto hints", "Close words and hints first, the secret word only at the end."],
   ["nyt-mini-crossword-answers-november-4-2026", "mini", "#0f1d2e", "#86efac", "NYT Mini · Wed., Nov. 4, 2026", "NYT Mini answers", "A hint for every clue first, the full grid at the end."],
@@ -338,6 +347,7 @@ export const PUZZLE_HEROES: [string, string, string, string, string, string, str
   ["contexto-answer-hints-november-9-2026-1513", "contexto", "#0f172a", "#34d399", "Contexto #1513 · Mon., Nov. 9, 2026", "Contexto hints", "Close words and hints first, the secret word only at the end."],
   ["nyt-spelling-bee-hints-answers-november-14-2026", "bee", "#1c1917", "#fbbf24", "Spelling Bee · Sat., Nov. 14, 2026", "Spelling Bee hints", "Hint grid and two-letter list first, the word list at the end."],
   ["nyt-spelling-bee-hints-answers-november-15-2026", "bee", "#1c1917", "#facc15", "Spelling Bee · Sun., Nov. 15, 2026", "Spelling Bee hints", "Hint grid and two-letter list first, the word list at the end."],
+  ["nyt-spelling-bee-hints-answers-november-16-2026", "bee", "#1c1917", "#fb923c", "Spelling Bee · Mon., Nov. 16, 2026", "Spelling Bee hints", "Hint grid and two-letter list first, the word list at the end."],
 ];
 
 export async function buildHeroes5(only?: string): Promise<void> {

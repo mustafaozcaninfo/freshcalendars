@@ -25,20 +25,20 @@ export const PRINT_SINCE = "2026-11-14";
  * listed here keep the classic layouts until they get a kit of their own.
  */
 export const KIT_FOR_CATEGORY = {
-  "school-calendars": ["school-year", "deadline-matrix"],
-  sports: ["watch-guide"],
+  "school-calendars": ["school-year", "deadline-matrix", "fact-table"],
+  sports: ["watch-guide", "fact-table"],
   entertainment: ["watch-guide", "release-tracker"],
-  "retail-dates": ["deadline-matrix", "holiday-planner"],
-  "money-benefits": ["deadline-matrix"],
-  elections: ["deadline-matrix"],
-  planning: ["deadline-matrix", "holiday-planner"],
-  holidays: ["holiday-planner", "deadline-matrix", "watch-guide"],
-  "uk-canada": ["bank-holidays", "holiday-planner", "watch-guide", "deadline-matrix"],
+  "retail-dates": ["deadline-matrix", "holiday-planner", "fact-table", "planner"],
+  "money-benefits": ["deadline-matrix", "fact-table", "planner"],
+  elections: ["deadline-matrix", "fact-table"],
+  planning: ["deadline-matrix", "holiday-planner", "planner"],
+  holidays: ["holiday-planner", "activity-sheet", "deadline-matrix", "watch-guide", "year-reference"],
+  "uk-canada": ["bank-holidays", "holiday-planner", "watch-guide", "deadline-matrix", "activity-sheet", "fact-table"],
   "sky-events": ["sky-night"],
   "time-change": ["clock-change"],
   puzzles: ["puzzle-month"],
   "gaming-tech": ["release-tracker", "watch-guide"],
-  "calendar-guides": ["year-reference", "deadline-matrix"],
+  "calendar-guides": ["year-reference", "deadline-matrix", "planner"],
 };
 /**
  * Records from this version on are held to the kit rule. v2 records were drawn while only seven
@@ -55,7 +55,7 @@ export const CURRENT_RECORD = 3;
  * Kit data fields that are not facts from the story: identifiers, ISO values, the source's own
  * words, and the sheet's own fill-in labels and advice.
  */
-const NOT_FACTS = new Set(["src", "quote", "kind", "tz", "airing", "status", "direction", "mode", "start", "from", "to", "date", "dates", "at", "game", "month", "year", "months", "landscape", "family", "tasks", "checklist", "pick", "notesLabel", "why", "substitute", "federal", "done"]);
+const NOT_FACTS = new Set(["src", "quote", "kind", "tz", "time", "layout", "airing", "status", "direction", "mode", "start", "from", "to", "date", "dates", "at", "game", "month", "year", "months", "landscape", "family", "tasks", "checklist", "pick", "notesLabel", "why", "substitute", "federal", "done"]);
 const SKIP_WORDS = new Set(["jan", "january", "feb", "february", "mar", "march", "apr", "april", "may", "jun", "june", "jul", "july", "aug", "august", "sep", "sept", "september", "oct", "october", "nov", "november", "dec", "december", "mon", "monday", "tue", "tuesday", "wed", "wednesday", "thu", "thursday", "fri", "friday", "sat", "saturday", "sun", "sunday", "et", "ct", "mt", "pt", "the", "and", "or", "of", "a", "an", "to", "in", "on", "at", "for", "by", "with", "no"]);
 const words = (s) => s.toLowerCase().normalize("NFKD").replace(/[\u0300-\u036f]/g, "").match(/[a-z0-9]+/g) ?? [];
 
@@ -64,11 +64,24 @@ const words = (s) => s.toLowerCase().normalize("NFKD").replace(/[\u0300-\u036f]/
  * contain, e.g. a channel or a count typed only in the printable. `storyText` is the story's body
  * and frontmatter without the printable block.
  */
-export function unsupportedNames(data, storyText) {
+/**
+ * Per kit, more keys whose text is the sheet's own wording (section titles, fill-in labels, quiz
+ * questions), scoped so `label` stays checked where it is a fact (a school-year event's label).
+ */
+const KIT_OWN_WORDS = {
+  "activity-sheet": ["title", "items", "labels", "q", "label", "columns"],
+  planner: ["title", "columns", "rows", "items", "labels", "mark", "label", "groups"],
+  "fact-table": ["label", "note", "key", "align", "highlight"],
+  // The reader's own write-in lines ("My pick", "Who I watch with").
+  "watch-guide": ["fill", "pick"],
+};
+
+export function unsupportedNames(data, storyText, kit = "") {
   const have = new Set(words(storyText));
   const missing = new Set();
+  const own = new Set([...NOT_FACTS, ...(KIT_OWN_WORDS[kit] ?? [])]);
   const visit = (v, key) => {
-    if (key && NOT_FACTS.has(key)) return;
+    if (key && own.has(key)) return;
     if (typeof v === "string") {
       for (const raw of v.match(/[\p{L}\p{N}][\p{L}\p{N}'+]*/gu) ?? []) {
         const isName = /^\p{Lu}/u.test(raw) || /\d/.test(raw);
@@ -133,7 +146,8 @@ export function factTokens(text, { iso = false, story = false } = {}) {
   const t = ` ${text.toLowerCase().replace(/\u2013|\u2014/g, "-").replace(/\s+/g, " ")} `;
   const out = new Set();
   const day = (m, d) => `d:${m}-${d}`;
-  const re = new RegExp(`\\b${MON_RE}\\s+(\\d{1,2})\\b(?:\\s*(?:-|to|through|and)\\s*(?:${MON_RE}\\s+)?(\\d{1,2})\\b(?!\\s*(?::|[ap]\\.?m)))?`, "g");
+  // Ordinals count too ("January 19th", "Dec. 1st to 3rd"): organizers often write dates that way.
+  const re = new RegExp(`\\b${MON_RE}\\s+(\\d{1,2})(?:st|nd|rd|th)?\\b(?:\\s*(?:-|to|through|and)\\s*(?:${MON_RE}\\s+)?(\\d{1,2})(?:st|nd|rd|th)?\\b(?!\\s*(?::|[ap]\\.?m)))?`, "g");
   for (const m of t.matchAll(re)) {
     const m1 = MONTHS[m[1].replace(/\./, "")], d1 = Number(m[2]);
     if (!m1 || d1 < 1 || d1 > 31) continue;
@@ -153,6 +167,13 @@ export function factTokens(text, { iso = false, story = false } = {}) {
     if (m[3] === "p") h += 12;
     if (Number(m[1]) > 12) continue;
     out.add(`t:${String(h).padStart(2, "0")}:${m[2] ?? "00"}`);
+  }
+  // A time range in a story or quote, "1-4 p.m." or "11 a.m. to 1 p.m.": both ends are times.
+  if (story) for (const m of t.matchAll(/\b(\d{1,2})(?::(\d{2}))?\s*(?:([ap])\.?\s?m\.?)?\s*(?:-|to)\s*(\d{1,2})(?::(\d{2}))?\s*([ap])\.?\s?m\b/g)) {
+    const h2 = Number(m[4]) % 12 + (m[6] === "p" ? 12 : 0);
+    let h1 = Number(m[1]) % 12 + ((m[3] ?? m[6]) === "p" ? 12 : 0);
+    if (!m[3] && h1 > h2) h1 -= 12; // "11-1 p.m." starts at 11 a.m.
+    if (Number(m[1]) <= 12 && Number(m[4]) <= 12) for (const [h, mm] of [[h1, m[2]], [h2, m[5]]]) out.add(`t:${String(h).padStart(2, "0")}:${mm ?? "00"}`);
   }
   // TV listings' "8/7c": 8 p.m. Eastern, 7 p.m. Central (prime time is always evening).
   if (story) for (const m of t.matchAll(/\b(\d{1,2})(?::(\d{2}))?\/(\d{1,2})(?::\d{2})?c\b/g)) out.add(`t:${String((Number(m[1]) % 12) + 12).padStart(2, "0")}:${m[2] ?? "00"}`);
