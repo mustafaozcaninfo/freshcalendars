@@ -51,7 +51,7 @@ internalLinks:
     label: "November 2026 printable calendar"
   - href: "/december-calendars.html"
     label: "December 2026 printable calendar"
-related: [houston-isd-calendar-2026-27-holidays-breaks, spring-break-2027-dates-school-districts, winter-break-2026-school-districts-dates]
+related: [denver-public-schools-calendar-2026-27-breaks, spring-break-2027-dates-school-districts, winter-break-2026-school-districts-dates]
 assets:
   overlay: true
   kicker: "CCSD 2026-27"
