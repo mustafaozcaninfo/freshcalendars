@@ -1,3 +1,5 @@
 {
-  "experiments": []
+  "experiments": [
+    { "slug": "lunar-new-year-2027-year-of-the-goat", "changedAt": "2026-11-03", "what": "seoTitle: \"Lunar New Year 2027: Feb. 6, Year of the Goat\" → \"Chinese New Year 2027: Feb. 6, Year of the Goat\"; first sentence names Chinese New Year" }
+  ]
 }
