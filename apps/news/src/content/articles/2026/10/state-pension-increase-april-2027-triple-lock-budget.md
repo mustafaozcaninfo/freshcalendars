@@ -86,7 +86,7 @@ internalLinks:
     label: "April 2027 printable calendar"
   - href: "/november-calendars.html"
     label: "November 2026 printable calendar"
-related: [uk-budget-2026-date-wednesday-28-october-what-time, winter-fuel-payment-2026-dates-amounts-35000-threshold, cold-weather-payment-2026-27-dates-25-pounds-who-gets-it]
+related: [uk-budget-2026-date-wednesday-28-october-what-time, national-living-wage-april-2027-13-21-rates-by-age, winter-fuel-payment-2026-dates-amounts-35000-threshold]
 downloads:
   - group: "State Pension 2027-28 printables"
     title: "State Pension 2027-28: Triple Lock Tracker"
