@@ -49,7 +49,7 @@ internalLinks:
     label: "November 2026 printable calendar"
   - href: "/december-calendars.html"
     label: "December 2026 printable calendar"
-related: [montgomery-county-public-schools-calendar-2026-27-breaks, prince-georges-county-public-schools-calendar-2026-27-breaks, spring-break-2027-dates-school-districts]
+related: [montgomery-county-public-schools-calendar-2026-27-breaks, virginia-beach-city-public-schools-calendar-2026-27-breaks, spring-break-2027-dates-school-districts]
 assets:
   overlay: true
   kicker: "FCPS 2026-27"
