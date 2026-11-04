@@ -4,7 +4,7 @@ seoTitle: "Election Night 2026 Live Blog: Results Map and Races"
 description: "Live updates on the Nov. 3, 2026 midterms: a state-by-state results map, Senate, House and governor races, and poll closings from 6 p.m. Eastern Time (ET)."
 type: news
 publishedAt: "2026-11-03T12:48:00-05:00"
-updatedAt: "2026-11-03T22:25:03-05:00"
+updatedAt: "2026-11-03T22:42:08-05:00"
 featuredUntil: "2026-11-04T06:00:00-05:00"
 authors: [christina-gerland]
 category: elections
@@ -179,13 +179,13 @@ draft: false
 ## Election night scoreboard
 
 <!-- live:scoreboard:start -->
-**Data as of 10:27 p.m. ET on Nov. 3.** Polls have closed in states through the 10 p.m. ET wave. Sixteen U.S. Senate races, ten governor races and five U.S. House seats are marked called. NBC News and CBS News have each projected that Democrats will win a House majority; this page counts House seats only as districts are called.
+**Data as of 10:44 p.m. ET on Nov. 3.** Polls have closed in states through the 10 p.m. ET wave. Seventeen U.S. Senate races, eleven governor races and six U.S. House seats are marked called. NBC News and CBS News have each projected that Democrats will win a House majority; this page counts House seats only as districts are called.
 
 | Chamber | On the ballot | Called: Democratic | Called: Republican | Called: independent or other | Not yet called | What control takes |
 |---|---|---:|---:|---:|---:|---|
-| U.S. Senate | 35 seats | 12 | 4 | 0 | 19 | 51 seats, or 50 with Vice President JD Vance (R) breaking a tie. Republicans hold 31 and Democrats and independents who caucus with them hold 34 of the 65 seats not on the ballot, so Democrats need 17 of tonight's 35 and Republicans need 19. |
-| Governors | 36 seats | 8 | 2 | 0 | 26 | Each governorship is decided separately. |
-| U.S. House | 435 seats | 5 | 0 | 0 | 430 | 218 seats for a majority of 435. |
+| U.S. Senate | 35 seats | 12 | 5 | 0 | 18 | 51 seats, or 50 with Vice President JD Vance (R) breaking a tie. Republicans hold 31 and Democrats and independents who caucus with them hold 34 of the 65 seats not on the ballot, so Democrats need 17 of tonight's 35 and Republicans need 19. |
+| Governors | 36 seats | 8 | 3 | 0 | 25 | Each governorship is decided separately. |
+| U.S. House | 435 seats | 6 | 0 | 0 | 429 | 218 seats for a majority of 435. |
 <!-- live:scoreboard:end -->
 
 The Senate counts come from Senate.gov, which lists 53 Republicans, 45 Democrats and 2 independents who caucus with the Democrats. The House counts come from the Clerk of the House: its member list, a file published Oct. 1, 2026, shows 218 Republicans, 214 Democrats, one independent who caucuses with Republicans and 2 vacant seats, so the party counts can differ from the House today. The "what control takes" column is arithmetic from the seats held today, not a forecast. A candidate's lead in the count is not a call, and a call is not a certified result.
@@ -193,6 +193,10 @@ The Senate counts come from Senate.gov, which lists 53 Republicans, 45 Democrats
 ## Live updates, newest first
 
 All times are Eastern Time. The first results entry appears after polls close at 6 p.m. ET. Until then, entries report what officials and news organizations have confirmed about how Election Day is running.
+
+### 10:40 p.m. ET: Arkansas's U.S. Senate race, Wyoming's governor's race and Pennsylvania's 7th District are called
+
+NBC News and Fox News each projected that Republican Sen. Tom Cotton won Arkansas's U.S. Senate race over Democrat Hallie Shoffner, that Republican Eric Barlow won Wyoming's governor's race over Democrat Kenneth Casner, and that Democrat Bob Brooks won Pennsylvania's 7th District over Republican Ryan Mackenzie. Fox News shows only relative times, so its call times are approximate. Fox News and CBS News had not reported a House majority call of their own as of their 10:40 p.m. pages, though CBS News projected a Democratic majority earlier; other calls and ballot-measure results reported by only one outlet, or relayed from one outlet by another, are not marked called here. Sources: [NBC News](https://www.nbcnews.com/politics/2026-election/live-blog/midterm-election-results-2026-news-trump-live-updates-rcna605763), [Fox News](https://www.foxnews.com/live-news/election-day-results-11-3-2026) and [CBS News](https://www.cbsnews.com/live-updates/election-day-2026-midterms/).
 
 ### 10:15 p.m. ET: NBC News and CBS News project that Democrats will win the U.S. House; New Mexico's Senate and Arkansas's governor races are called
 
@@ -307,11 +311,11 @@ Each tile is a state. The left half is its U.S. Senate race and the right half i
 <!-- live:map-status:start -->
 <svg viewBox="0 0 770 560" width="100%" role="img" aria-labelledby="map-status-title map-status-desc" xmlns="http://www.w3.org/2000/svg" font-family="Manrope, system-ui, sans-serif">
 <title id="map-status-title">Race status by state</title>
-<desc id="map-status-desc">Tile map of the 50 states and the District of Columbia. Each tile shows a Senate half on the left and a governor half on the right. Polls have closed in 46 of 51 jurisdictions. Senate races called: 16 of 35. Governor races called: 10 of 36.</desc>
+<desc id="map-status-desc">Tile map of the 50 states and the District of Columbia. Each tile shows a Senate half on the left and a governor half on the right. Polls have closed in 46 of 51 jurisdictions. Senate races called: 17 of 35. Governor races called: 11 of 36.</desc>
 <a href="#state-al" aria-label="Alabama: polls closed. Senate: Polls closed, awaiting results. Governor: Polls closed, awaiting results."><rect x="423" y="423" width="64" height="64" rx="8" fill="#ffffff" stroke="#1f2937" stroke-width="2.5"/><text x="455" y="445" text-anchor="middle" font-size="21" font-weight="800" fill="#111827">AL</text><rect x="425" y="451" width="29" height="32" rx="4" fill="#e5e7eb"/><text x="439.5" y="473" text-anchor="middle" font-size="17" font-weight="700" fill="#374151">S</text><rect x="456" y="451" width="29" height="32" rx="4" fill="#e5e7eb"/><text x="470.5" y="473" text-anchor="middle" font-size="17" font-weight="700" fill="#374151">G</text></a>
 <a href="#state-ak" aria-label="Alaska: polls close midnight ET. Senate: Awaiting results. Governor: Awaiting results."><rect x="3" y="3" width="64" height="64" rx="8" fill="#ffffff" stroke="#1f2937" stroke-width="2.5" stroke-dasharray="2 4" stroke-linecap="round"/><text x="35" y="25" text-anchor="middle" font-size="21" font-weight="800" fill="#111827">AK</text><rect x="5" y="31" width="29" height="32" rx="4" fill="#e5e7eb"/><text x="19.5" y="53" text-anchor="middle" font-size="17" font-weight="700" fill="#374151">S</text><rect x="36" y="31" width="29" height="32" rx="4" fill="#e5e7eb"/><text x="50.5" y="53" text-anchor="middle" font-size="17" font-weight="700" fill="#374151">G</text></a>
 <a href="#state-az" aria-label="Arizona: polls closed. Senate: no race. Governor: Polls closed, awaiting results."><rect x="73" y="353" width="64" height="64" rx="8" fill="#ffffff" stroke="#1f2937" stroke-width="2.5"/><text x="105" y="375" text-anchor="middle" font-size="21" font-weight="800" fill="#111827">AZ</text><rect x="75" y="381" width="29" height="32" rx="4" fill="none" stroke="#6b7280" stroke-width="1.5" stroke-dasharray="3 3"/><rect x="106" y="381" width="29" height="32" rx="4" fill="#e5e7eb"/><text x="120.5" y="403" text-anchor="middle" font-size="17" font-weight="700" fill="#374151">G</text></a>
-<a href="#state-ar" aria-label="Arkansas: polls closed. Senate: Polls closed, awaiting results. Governor: Called for Sarah Huckabee Sanders (R) by NBC News and Fox News at 10:13 p.m. ET."><rect x="283" y="353" width="64" height="64" rx="8" fill="#ffffff" stroke="#1f2937" stroke-width="2.5"/><text x="315" y="375" text-anchor="middle" font-size="21" font-weight="800" fill="#111827">AR</text><rect x="285" y="381" width="29" height="32" rx="4" fill="#e5e7eb"/><text x="299.5" y="403" text-anchor="middle" font-size="17" font-weight="700" fill="#374151">S</text><rect x="316" y="381" width="29" height="32" rx="4" fill="#a8321c"/><text x="330.5" y="403" text-anchor="middle" font-size="20" font-weight="800" fill="#ffffff">R</text></a>
+<a href="#state-ar" aria-label="Arkansas: polls closed. Senate: Called for Tom Cotton (R) by NBC News and Fox News at 10:36 p.m. ET. Governor: Called for Sarah Huckabee Sanders (R) by NBC News and Fox News at 10:13 p.m. ET."><rect x="283" y="353" width="64" height="64" rx="8" fill="#ffffff" stroke="#1f2937" stroke-width="2.5"/><text x="315" y="375" text-anchor="middle" font-size="21" font-weight="800" fill="#111827">AR</text><rect x="285" y="381" width="29" height="32" rx="4" fill="#a8321c"/><text x="299.5" y="403" text-anchor="middle" font-size="20" font-weight="800" fill="#ffffff">R</text><rect x="316" y="381" width="29" height="32" rx="4" fill="#a8321c"/><text x="330.5" y="403" text-anchor="middle" font-size="20" font-weight="800" fill="#ffffff">R</text></a>
 <a href="#state-ca" aria-label="California: polls close 11 p.m. ET. Senate: no race. Governor: Awaiting results."><rect x="3" y="283" width="64" height="64" rx="8" fill="#ffffff" stroke="#1f2937" stroke-width="2.5" stroke-dasharray="2 4" stroke-linecap="round"/><text x="35" y="305" text-anchor="middle" font-size="21" font-weight="800" fill="#111827">CA</text><rect x="5" y="311" width="29" height="32" rx="4" fill="none" stroke="#6b7280" stroke-width="1.5" stroke-dasharray="3 3"/><rect x="36" y="311" width="29" height="32" rx="4" fill="#e5e7eb"/><text x="50.5" y="333" text-anchor="middle" font-size="17" font-weight="700" fill="#374151">G</text></a>
 <a href="#state-co" aria-label="Colorado: polls closed. Senate: Called for John Hickenlooper (D) by NBC News and Fox News at 9 p.m. ET. Governor: Polls closed, awaiting results."><rect x="143" y="283" width="64" height="64" rx="8" fill="#ffffff" stroke="#1f2937" stroke-width="2.5"/><text x="175" y="305" text-anchor="middle" font-size="21" font-weight="800" fill="#111827">CO</text><rect x="145" y="311" width="29" height="32" rx="4" fill="#1d4f91"/><text x="159.5" y="333" text-anchor="middle" font-size="20" font-weight="800" fill="#ffffff">D</text><rect x="176" y="311" width="29" height="32" rx="4" fill="#e5e7eb"/><text x="190.5" y="333" text-anchor="middle" font-size="17" font-weight="700" fill="#374151">G</text></a>
 <a href="#state-ct" aria-label="Connecticut: polls closed. Senate: no race. Governor: Called for Ned Lamont (D) by NBC News and Fox News at 9:19 p.m. ET."><rect x="633" y="213" width="64" height="64" rx="8" fill="#ffffff" stroke="#1f2937" stroke-width="2.5"/><text x="665" y="235" text-anchor="middle" font-size="21" font-weight="800" fill="#111827">CT</text><rect x="635" y="241" width="29" height="32" rx="4" fill="none" stroke="#6b7280" stroke-width="1.5" stroke-dasharray="3 3"/><rect x="666" y="241" width="29" height="32" rx="4" fill="#1d4f91"/><text x="680.5" y="263" text-anchor="middle" font-size="20" font-weight="800" fill="#ffffff">D</text></a>
@@ -358,7 +362,7 @@ Each tile is a state. The left half is its U.S. Senate race and the right half i
 <a href="#state-wa" aria-label="Washington: polls close 11 p.m. ET. Senate: no race. Governor: no race."><rect x="3" y="143" width="64" height="64" rx="8" fill="#ffffff" stroke="#1f2937" stroke-width="2.5" stroke-dasharray="2 4" stroke-linecap="round"/><text x="35" y="165" text-anchor="middle" font-size="21" font-weight="800" fill="#111827">WA</text><rect x="5" y="171" width="29" height="32" rx="4" fill="none" stroke="#6b7280" stroke-width="1.5" stroke-dasharray="3 3"/><rect x="36" y="171" width="29" height="32" rx="4" fill="none" stroke="#6b7280" stroke-width="1.5" stroke-dasharray="3 3"/></a>
 <a href="#state-wv" aria-label="West Virginia: polls closed. Senate: Polls closed, awaiting results. Governor: no race."><rect x="423" y="283" width="64" height="64" rx="8" fill="#ffffff" stroke="#1f2937" stroke-width="2.5"/><text x="455" y="305" text-anchor="middle" font-size="21" font-weight="800" fill="#111827">WV</text><rect x="425" y="311" width="29" height="32" rx="4" fill="#e5e7eb"/><text x="439.5" y="333" text-anchor="middle" font-size="17" font-weight="700" fill="#374151">S</text><rect x="456" y="311" width="29" height="32" rx="4" fill="none" stroke="#6b7280" stroke-width="1.5" stroke-dasharray="3 3"/></a>
 <a href="#state-wi" aria-label="Wisconsin: polls closed. Senate: no race. Governor: Polls closed, awaiting results."><rect x="423" y="143" width="64" height="64" rx="8" fill="#ffffff" stroke="#1f2937" stroke-width="2.5"/><text x="455" y="165" text-anchor="middle" font-size="21" font-weight="800" fill="#111827">WI</text><rect x="425" y="171" width="29" height="32" rx="4" fill="none" stroke="#6b7280" stroke-width="1.5" stroke-dasharray="3 3"/><rect x="456" y="171" width="29" height="32" rx="4" fill="#e5e7eb"/><text x="470.5" y="193" text-anchor="middle" font-size="17" font-weight="700" fill="#374151">G</text></a>
-<a href="#state-wy" aria-label="Wyoming: polls closed. Senate: Polls closed, awaiting results. Governor: Polls closed, awaiting results."><rect x="143" y="213" width="64" height="64" rx="8" fill="#ffffff" stroke="#1f2937" stroke-width="2.5"/><text x="175" y="235" text-anchor="middle" font-size="21" font-weight="800" fill="#111827">WY</text><rect x="145" y="241" width="29" height="32" rx="4" fill="#e5e7eb"/><text x="159.5" y="263" text-anchor="middle" font-size="17" font-weight="700" fill="#374151">S</text><rect x="176" y="241" width="29" height="32" rx="4" fill="#e5e7eb"/><text x="190.5" y="263" text-anchor="middle" font-size="17" font-weight="700" fill="#374151">G</text></a>
+<a href="#state-wy" aria-label="Wyoming: polls closed. Senate: Polls closed, awaiting results. Governor: Called for Eric Barlow (R) by NBC News and Fox News at 10:28 p.m. ET."><rect x="143" y="213" width="64" height="64" rx="8" fill="#ffffff" stroke="#1f2937" stroke-width="2.5"/><text x="175" y="235" text-anchor="middle" font-size="21" font-weight="800" fill="#111827">WY</text><rect x="145" y="241" width="29" height="32" rx="4" fill="#e5e7eb"/><text x="159.5" y="263" text-anchor="middle" font-size="17" font-weight="700" fill="#374151">S</text><rect x="176" y="241" width="29" height="32" rx="4" fill="#a8321c"/><text x="190.5" y="263" text-anchor="middle" font-size="20" font-weight="800" fill="#ffffff">R</text></a>
 </svg>
 
 | Mark on a tile | Meaning |
@@ -482,7 +486,7 @@ The table lists each race by closing time. "Now held by" names the senator who h
 | 8 p.m. | <span id="senate-sd"></span>South Dakota | Regular election | Rounds (R) | Polls closed, awaiting results |
 | 8 p.m. | <span id="senate-tn"></span>Tennessee | Regular election | Hagerty (R) | Called for Bill Hagerty (R) by NBC News and Fox News at 9:54 p.m. ET |
 | 8 p.m. | <span id="senate-tx"></span>Texas | Regular election | Cornyn (R) | Polls closed, awaiting results |
-| 8:30 p.m. | <span id="senate-ar"></span>Arkansas | Regular election | Cotton (R) | Polls closed, awaiting results |
+| 8:30 p.m. | <span id="senate-ar"></span>Arkansas | Regular election | Cotton (R) | Called for Tom Cotton (R) by NBC News and Fox News at 10:36 p.m. ET |
 | 9 p.m. | <span id="senate-co"></span>Colorado | Regular election | Hickenlooper (D) | Called for John Hickenlooper (D) by NBC News and Fox News at 9 p.m. ET |
 | 9 p.m. | <span id="senate-ia"></span>Iowa | Regular election | Ernst (R) | Polls closed, awaiting results |
 | 9 p.m. | <span id="senate-la"></span>Louisiana | Regular election | Cassidy (R) | Polls closed, awaiting results |
@@ -532,7 +536,7 @@ Thirty-six states elect a governor on Nov. 3. Governor results are separate from
 | 9 p.m. | <span id="gov-nm"></span>New Mexico | Polls closed, awaiting results |
 | 9 p.m. | <span id="gov-ny"></span>New York | Called for Kathy Hochul (D) by NBC News and Fox News at 9:01 p.m. ET |
 | 9 p.m. | <span id="gov-wi"></span>Wisconsin | Polls closed, awaiting results |
-| 9 p.m. | <span id="gov-wy"></span>Wyoming | Polls closed, awaiting results |
+| 9 p.m. | <span id="gov-wy"></span>Wyoming | Called for Eric Barlow (R) by NBC News and Fox News at 10:28 p.m. ET |
 | 10 p.m. | <span id="gov-id"></span>Idaho | Polls closed, awaiting results |
 | 10 p.m. | <span id="gov-nv"></span>Nevada | Polls closed, awaiting results |
 | 11 p.m. | <span id="gov-ca"></span>California | Awaiting results |
@@ -557,7 +561,7 @@ Every state and the District of Columbia, in alphabetical order. The last column
 | <span id="state-al"></span>Alabama | 8 p.m. | Polls closed | Polls closed | 7 seats: 0 called (D 0, R 0, other 0) | [Alabama election office](https://www.sos.alabama.gov/alabama-votes) |
 | <span id="state-ak"></span>Alaska | midnight* | Awaiting | Awaiting | 1 seat: 0 called (D 0, R 0, other 0) | [Alaska election office](https://www.elections.alaska.gov/) |
 | <span id="state-az"></span>Arizona | 9 p.m. | No race | Polls closed | 9 seats: 0 called (D 0, R 0, other 0) | [Arizona election office](https://azsos.gov/elections) |
-| <span id="state-ar"></span>Arkansas | 8:30 p.m. | Polls closed | Called: R | 4 seats: 0 called (D 0, R 0, other 0) | [Arkansas election office](https://www.sos.arkansas.gov/elections) |
+| <span id="state-ar"></span>Arkansas | 8:30 p.m. | Called: R | Called: R | 4 seats: 0 called (D 0, R 0, other 0) | [Arkansas election office](https://www.sos.arkansas.gov/elections) |
 | <span id="state-ca"></span>California | 11 p.m. | No race | Awaiting | 52 seats: 0 called (D 0, R 0, other 0) | [California election office](https://www.sos.ca.gov/elections) |
 | <span id="state-co"></span>Colorado | 9 p.m. | Called: D | Polls closed | 8 seats: 0 called (D 0, R 0, other 0) | [Colorado election office](https://www.sos.state.co.us/pubs/elections/main.html) |
 | <span id="state-ct"></span>Connecticut | 8 p.m. | No race | Called: D | 5 seats: 0 called (D 0, R 0, other 0) | [Connecticut election office](https://portal.ct.gov/sots/common-elements/v5-template---redesign/elections--voting--home-page) |
@@ -592,7 +596,7 @@ Every state and the District of Columbia, in alphabetical order. The last column
 | <span id="state-oh"></span>Ohio | 7:30 p.m. | Polls closed | Polls closed | 15 seats: 0 called (D 0, R 0, other 0) | [Ohio election office](https://www.sos.state.oh.us/elections/voters/) |
 | <span id="state-ok"></span>Oklahoma | 8 p.m. | Called: R | Polls closed | 5 seats: 0 called (D 0, R 0, other 0) | [Oklahoma election office](https://oklahoma.gov/elections.html) |
 | <span id="state-or"></span>Oregon | 11 p.m.* | Awaiting | Awaiting | 6 seats: 0 called (D 0, R 0, other 0) | [Oregon election office](https://sos.oregon.gov/voting-elections/Pages/default.aspx) |
-| <span id="state-pa"></span>Pennsylvania | 8 p.m. | No race | Called: D | 17 seats: 0 called (D 0, R 0, other 0) | [Pennsylvania election office](https://www.dos.pa.gov/VotingElections/Pages/default.aspx) |
+| <span id="state-pa"></span>Pennsylvania | 8 p.m. | No race | Called: D | 17 seats: 1 called (D 1, R 0, other 0) | [Pennsylvania election office](https://www.dos.pa.gov/VotingElections/Pages/default.aspx) |
 | <span id="state-ri"></span>Rhode Island | 8 p.m. | Called: D | Called: D | 2 seats: 0 called (D 0, R 0, other 0) | [Rhode Island election office](https://vote.sos.ri.gov/) |
 | <span id="state-sc"></span>South Carolina | 7 p.m. | Called: D | Polls closed | 7 seats: 0 called (D 0, R 0, other 0) | [South Carolina election office](https://www.scvotes.org/) |
 | <span id="state-sd"></span>South Dakota | 8 p.m.* | Polls closed | Polls closed | 1 seat: 0 called (D 0, R 0, other 0) | [South Dakota election office](https://sdsos.gov/elections-voting/default.aspx) |
@@ -604,7 +608,7 @@ Every state and the District of Columbia, in alphabetical order. The last column
 | <span id="state-wa"></span>Washington | 11 p.m.* | No race | No race | 10 seats: 0 called (D 0, R 0, other 0) | [Washington election office](https://www.sos.wa.gov/elections) |
 | <span id="state-wv"></span>West Virginia | 7:30 p.m. | Polls closed | No race | 2 seats: 0 called (D 0, R 0, other 0) | [West Virginia election office](https://sos.wv.gov/elections/pages/default.aspx) |
 | <span id="state-wi"></span>Wisconsin | 9 p.m. | No race | Polls closed | 8 seats: 0 called (D 0, R 0, other 0) | [Wisconsin election office](https://myvote.wi.gov/en-us/) |
-| <span id="state-wy"></span>Wyoming | 9 p.m. | Polls closed | Polls closed | 1 seat: 0 called (D 0, R 0, other 0) | [Wyoming election office](https://sos.wyo.gov/Elections/Default.aspx) |
+| <span id="state-wy"></span>Wyoming | 9 p.m. | Polls closed | Called: R | 1 seat: 0 called (D 0, R 0, other 0) | [Wyoming election office](https://sos.wyo.gov/Elections/Default.aspx) |
 <!-- live:states:end -->
 
 ## Ballot measures and state legislatures on tonight's ballots

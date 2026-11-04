@@ -1,6 +1,6 @@
 {
-  "asOf": "2026-11-03T22:27:03-05:00",
-  "headline": "Polls have closed in states through the 10 p.m. ET wave. Sixteen U.S. Senate races, ten governor races and five U.S. House seats are marked called. NBC News and CBS News have each projected that Democrats will win a House majority; this page counts House seats only as districts are called.",
+  "asOf": "2026-11-03T22:44:08-05:00",
+  "headline": "Polls have closed in states through the 10 p.m. ET wave. Seventeen U.S. Senate races, eleven governor races and six U.S. House seats are marked called. NBC News and CBS News have each projected that Democrats will win a House majority; this page counts House seats only as districts are called.",
   "races": {
     "VA-S": {
       "status": "called",
@@ -265,6 +265,26 @@
         "Fox News"
       ],
       "at": "2026-11-03T22:13:00-05:00"
+    },
+    "AR-S": {
+      "status": "called",
+      "winner": "Tom Cotton",
+      "winnerParty": "R",
+      "calledBy": [
+        "NBC News",
+        "Fox News"
+      ],
+      "at": "2026-11-03T22:36:00-05:00"
+    },
+    "WY-G": {
+      "status": "called",
+      "winner": "Eric Barlow",
+      "winnerParty": "R",
+      "calledBy": [
+        "NBC News",
+        "Fox News"
+      ],
+      "at": "2026-11-03T22:28:00-05:00"
     }
   },
   "house": {
@@ -279,6 +299,11 @@
       "O": 0
     },
     "NJ": {
+      "D": 1,
+      "R": 0,
+      "O": 0
+    },
+    "PA": {
       "D": 1,
       "R": 0,
       "O": 0
