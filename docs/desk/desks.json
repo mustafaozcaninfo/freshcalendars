@@ -1,0 +1,9 @@
+[
+  { "code": "w1", "name": "Writer w1", "kind": "writer", "beat": "Holidays, elections, government and civic deadlines, UK and Canada", "armed": true },
+  { "code": "w2", "name": "Writer w2", "kind": "writer", "beat": "School calendars, test dates, family planning, money and benefits", "armed": true },
+  { "code": "w3", "name": "Writer w3", "kind": "writer", "beat": "Time changes, sky events, calendar guides, retail dates, entertainment, gaming and tech, sports", "armed": false },
+  { "code": "w4", "name": "Puzzle desk", "kind": "puzzles", "beat": "Daily puzzle pages and monthly roundups (routines A to C)", "armed": false },
+  { "code": "r", "name": "Research desk", "kind": "research", "beat": "Keeps the writers' queues full, unblocks items", "armed": false },
+  { "code": "u", "name": "Update desk", "kind": "update", "beat": "Silent updates of published stories", "armed": false },
+  { "code": "s", "name": "Search desk", "kind": "search", "beat": "Reads Search Console, files SEO briefs", "armed": true }
+]
