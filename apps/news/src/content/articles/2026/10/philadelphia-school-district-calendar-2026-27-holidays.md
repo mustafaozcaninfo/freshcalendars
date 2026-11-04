@@ -50,7 +50,7 @@ internalLinks:
     label: "December 2026 printable calendar"
   - href: "/march-calendars.html"
     label: "March 2027 printable calendar"
-related: [kindergarten-registration-2027-28-dates-age-cutoffs-by-district, spring-break-2027-dates-school-districts, winter-break-2026-school-districts-dates]
+related: [snow-days-2026-27-school-closures-make-up-days, spring-break-2027-dates-school-districts, winter-break-2026-school-districts-dates]
 assets:
   overlay: true
   kicker: "Philadelphia schools 2026-27"
