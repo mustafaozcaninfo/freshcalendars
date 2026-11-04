@@ -3,8 +3,8 @@ title: "Christmas Bird Count 2026-27: Dec. 14 to Jan. 5, How to Join a Count"
 seoTitle: "Christmas Bird Count 2026-27: Dec. 14 to Jan. 5"
 description: "The Audubon Christmas Bird Count runs Dec. 14, 2026 to Jan. 5, 2027. Find a circle, register for free, see the weekend dates and print a feeder tally sheet."
 type: explainer
-publishedAt: "2026-11-04T08:00:00-05:00"
-updatedAt: "2026-11-04T08:00:00-05:00"
+publishedAt: "2026-11-04T07:50:00-05:00"
+updatedAt: "2026-11-04T07:50:00-05:00"
 authors: [christina-gerland]
 category: holidays
 keywords: ["christmas bird count 2026", "audubon christmas bird count", "how to join christmas bird count", "christmas bird count dates"]
@@ -92,6 +92,15 @@ internalLinks:
   - href: "/january-calendars.html"
     label: "January 2027 printable calendar"
 related: [national-bird-day-2027-january-5, first-day-hikes-2027-state-parks, december-2026-important-dates-holidays-days-until]
+downloads:
+  - group: "Christmas Bird Count 2026-27 printables"
+    title: "Christmas Bird Count 2026-27: Join Steps and Feeder Tally"
+    description: "Free printable for the 2026-27 Christmas Bird Count: four steps to join a count circle and a 12-bird feeder tally sheet for Dec. 14 to Jan. 5."
+    preview: ../../../../assets/news/christmas-bird-count-2026-27/christmas-bird-count-join-steps-feeder-tally-2026-27.png
+    alt: "Printable Christmas Bird Count sheet with four steps to join a circle and a tally list of 12 common feeder birds"
+    pdf: "/news/downloads/christmas-bird-count-2026-27/christmas-bird-count-join-steps-feeder-tally-2026-27.pdf"
+    png: "/news/downloads/christmas-bird-count-2026-27/christmas-bird-count-join-steps-feeder-tally-2026-27.png"
+    pages: 1
 draft: false
 ---
 

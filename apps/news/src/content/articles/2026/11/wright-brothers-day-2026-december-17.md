@@ -41,7 +41,7 @@ hero:
   src: ../../../../assets/news/wright-brothers-day-2026-december-17/wright-brothers-day-2026-december-17.webp
   alt: "The Wright Brothers Monument on Big Kill Devil Hill at Wright Brothers National Memorial in North Carolina, for Wright Brothers Day 2026"
   caption: "The Wright Brothers Monument on Big Kill Devil Hill, Wright Brothers National Memorial, North Carolina (file photo)."
-  credit: "Photo: Yuming Huang / Wikimedia Commons, cropped"
+  credit: "Photo: Yuming Huang / Wikimedia Commons, cropped, edited"
   license:
     name: "CC BY-SA 4.0"
     url: "https://creativecommons.org/licenses/by-sa/4.0/"
@@ -99,7 +99,16 @@ internalLinks:
     label: "December 2026 printable calendar"
   - href: "/when-is/christmas-day/"
     label: "When is Christmas Day?"
-related: [national-parks-free-days-october-27-veterans-day-2026, national-pearl-harbor-remembrance-day-2026-december-7-flags-half-staff]
+related: [national-parks-free-days-october-27-veterans-day-2026, bill-of-rights-day-2026-december-15, national-pearl-harbor-remembrance-day-2026-december-7-flags-half-staff]
+downloads:
+  - group: "Wright Brothers Day 2026 Flights and Visit Sheet printables"
+    title: "Wright Brothers Day 2026 Flights and Visit Sheet"
+    description: "One-page Wright Brothers Day 2026 sheet: the Dec. 17 date, the four 1903 flights in seconds and feet, the fee-free memorial and a visit checklist."
+    preview: ../../../../assets/news/wright-brothers-day-2026/wright-brothers-day-2026-activity-sheet.png
+    alt: "Printable Wright Brothers Day 2026 sheet with the four 1903 flights, the Dec. 17 fee-free memorial and a visit checklist"
+    pdf: "/news/downloads/wright-brothers-day-2026/wright-brothers-day-2026-activity-sheet.pdf"
+    png: "/news/downloads/wright-brothers-day-2026/wright-brothers-day-2026-activity-sheet.png"
+    pages: 1
 draft: false
 ---
 

@@ -25,16 +25,16 @@ assets:
       - { when: "Tue., Dec. 15", what: "Bill of Rights Day 2026", section: "Mark the date" }
       - { when: "Sept. 25, 1789", what: "The First Congress proposed 12 amendments to the states", section: "Mark the date" }
       - { when: "Dec. 15, 1791", what: "Ten of the 12 were ratified by three-fourths of the state legislatures", section: "Mark the date" }
-      - { when: "Amendment I", what: "Religion and expression (our label)", section: "The ten amendments (plain labels are ours)" }
-      - { when: "Amendment II", what: "Bearing arms (our label)", section: "The ten amendments (plain labels are ours)" }
-      - { when: "Amendment III", what: "Quartering soldiers (our label)", section: "The ten amendments (plain labels are ours)" }
-      - { when: "Amendment IV", what: "Searches (our label)", section: "The ten amendments (plain labels are ours)" }
-      - { when: "Amendment V", what: "Criminal charges (our label)", section: "The ten amendments (plain labels are ours)" }
-      - { when: "Amendment VI", what: "Criminal trials (our label)", section: "The ten amendments (plain labels are ours)" }
-      - { when: "Amendment VII", what: "Civil trials (our label)", section: "The ten amendments (plain labels are ours)" }
-      - { when: "Amendment VIII", what: "Bail, fines, punishments (our label)", section: "The ten amendments (plain labels are ours)" }
-      - { when: "Amendment IX", what: "Other rights kept (our label)", section: "The ten amendments (plain labels are ours)" }
-      - { when: "Amendment X", what: "Powers of the states and people (our label)", section: "The ten amendments (plain labels are ours)" }
+      - { when: "Amendment 1", what: "Religion and expression (our label)", section: "The ten amendments (plain labels are ours)" }
+      - { when: "Amendment 2", what: "Bearing arms (our label)", section: "The ten amendments (plain labels are ours)" }
+      - { when: "Amendment 3", what: "Quartering soldiers (our label)", section: "The ten amendments (plain labels are ours)" }
+      - { when: "Amendment 4", what: "Searches (our label)", section: "The ten amendments (plain labels are ours)" }
+      - { when: "Amendment 5", what: "Criminal charges (our label)", section: "The ten amendments (plain labels are ours)" }
+      - { when: "Amendment 6", what: "Criminal trials (our label)", section: "The ten amendments (plain labels are ours)" }
+      - { when: "Amendment 7", what: "Civil trials (our label)", section: "The ten amendments (plain labels are ours)" }
+      - { when: "Amendment 8", what: "Bail, fines, punishments (our label)", section: "The ten amendments (plain labels are ours)" }
+      - { when: "Amendment 9", what: "Other rights kept (our label)", section: "The ten amendments (plain labels are ours)" }
+      - { when: "Amendment 10", what: "Powers of the states and people (our label)", section: "The ten amendments (plain labels are ours)" }
       - { when: "Wed., Dec. 15, 2027", what: "Bill of Rights Day 2027", section: "Next dates" }
     note: "Source: National Archives, Bill of Rights (1791) and transcript; American Presidency Project, Proclamation 2524; GovInfo, Proclamation 10997."
     description: "One-page Bill of Rights Day 2026 sheet: the Dec. 15 date, the 1791 ratification and the ten amendments with plain labels, plus a notes area."
@@ -43,7 +43,7 @@ hero:
   src: ../../../../assets/news/bill-of-rights-day-2026-december-15/bill-of-rights-day-2026-december-15.webp
   alt: "The Bill of Rights, the joint resolution of Congress held by the National Archives, for Bill of Rights Day 2026 on Dec. 15"
   caption: "The Bill of Rights, the joint resolution of Congress held by the National Archives (scan). Bill of Rights Day 2026 is Tuesday, Dec. 15."
-  credit: "Photo: National Archives and Records Administration / Wikimedia Commons, cropped, edited"
+  credit: "Photo: National Archives and Records Administration. Office of the Federal Register. 4/1/1985 / Wikimedia Commons, cropped, edited"
   license:
     name: "Public domain"
     url: "https://creativecommons.org/publicdomain/mark/1.0/"
@@ -51,7 +51,7 @@ hero:
     author: "National Archives and Records Administration"
 summary:
   - "Bill of Rights Day is Tuesday, Dec. 15, 2026. The National Archives says ten amendments were ratified by three-fourths of the state legislatures on Dec. 15, 1791."
-  - "President Franklin D. Roosevelt first designated the day in Proclamation 2524 on Nov. 27, 1941. President Donald Trump proclaimed it for Dec. 15, 2025, in Proclamation 10997."
+  - "President Franklin D. Roosevelt first designated the day in Proclamation 2524 on Nov. 27, 1941. A 2025 proclamation, number 10997, named Dec. 15, 2025, as Bill of Rights Day."
   - "It is not on the federal holiday list kept by the Office of Personnel Management (OPM), so no day off is listed for it."
   - "The date is fixed, so the weekday moves: Wednesday in 2027, Friday in 2028 and Monday in 2031."
 faq:
@@ -98,6 +98,15 @@ internalLinks:
   - href: "/when-is/christmas-day/"
     label: "When is Christmas Day?"
 related: [human-rights-day-2026-december-10, wright-brothers-day-2026-december-17, december-2026-important-dates-holidays-days-until]
+downloads:
+  - group: "Bill of Rights Day 2026 Amendments and Dates Sheet printables"
+    title: "Bill of Rights Day 2026 Amendments and Dates Sheet"
+    description: "One-page Bill of Rights Day 2026 sheet: the Dec. 15 date, the 1791 ratification and the ten amendments with plain labels, plus a notes area."
+    preview: ../../../../assets/news/bill-of-rights-day-2026/bill-of-rights-day-2026-activity-sheet.png
+    alt: "Printable Bill of Rights Day 2026 sheet with the Dec. 15 date, the ten amendments and key dates"
+    pdf: "/news/downloads/bill-of-rights-day-2026/bill-of-rights-day-2026-activity-sheet.pdf"
+    png: "/news/downloads/bill-of-rights-day-2026/bill-of-rights-day-2026-activity-sheet.png"
+    pages: 1
 draft: false
 ---
 
@@ -125,16 +134,16 @@ The middle column quotes the opening words of each amendment from the National A
 
 | Amendment | Opening words (National Archives transcript) | Our label |
 |---|---|---|
-| I | "Congress shall make no law respecting an establishment of religion, or prohibiting the free exercise thereof" | Religion and expression |
-| II | "A well regulated Militia, being necessary to the security of a free State, the right of the people to keep and bear Arms" | Bearing arms |
-| III | "No Soldier shall, in time of peace be quartered in any house, without the consent of the Owner" | Quartering soldiers |
-| IV | "The right of the people to be secure in their persons, houses, papers, and effects, against unreasonable searches" | Searches |
-| V | "No person shall be held to answer for a capital, or otherwise infamous crime, unless on a presentment or indictment" | Criminal charges |
-| VI | "In all criminal prosecutions, the accused shall enjoy the right to a speedy and public trial" | Criminal trials |
-| VII | "In Suits at common law, where the value in controversy shall exceed twenty dollars, the right of trial" | Civil trials |
-| VIII | "Excessive bail shall not be required, nor excessive fines imposed, nor cruel and unusual punishments inflicted" | Bail, fines, punishments |
-| IX | "The enumeration in the Constitution, of certain rights, shall not be construed to deny or disparage others" | Other rights kept |
-| X | "The powers not delegated to the United States by the Constitution, nor prohibited by it to the States" | Powers of the states and people |
+| 1 | "Congress shall make no law respecting an establishment of religion, or prohibiting the free exercise thereof" | Religion and expression |
+| 2 | "A well regulated Militia, being necessary to the security of a free State, the right of the people to keep and bear Arms" | Bearing arms |
+| 3 | "No Soldier shall, in time of peace be quartered in any house, without the consent of the Owner" | Quartering soldiers |
+| 4 | "The right of the people to be secure in their persons, houses, papers, and effects, against unreasonable searches" | Searches |
+| 5 | "No person shall be held to answer for a capital, or otherwise infamous crime, unless on a presentment or indictment" | Criminal charges |
+| 6 | "In all criminal prosecutions, the accused shall enjoy the right to a speedy and public trial" | Criminal trials |
+| 7 | "In Suits at common law, where the value in controversy shall exceed twenty dollars, the right of trial" | Civil trials |
+| 8 | "Excessive bail shall not be required, nor excessive fines imposed, nor cruel and unusual punishments inflicted" | Bail, fines, punishments |
+| 9 | "The enumeration in the Constitution, of certain rights, shall not be construed to deny or disparage others" | Other rights kept |
+| 10 | "The powers not delegated to the United States by the Constitution, nor prohibited by it to the States" | Powers of the states and people |
 
 ## Is Bill of Rights Day a federal holiday?
 
