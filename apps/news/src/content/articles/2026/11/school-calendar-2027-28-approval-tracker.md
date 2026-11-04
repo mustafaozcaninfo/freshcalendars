@@ -1,7 +1,7 @@
 ---
 title: "2027-28 School Calendars: Which of the Largest Districts Have Approved Theirs"
 seoTitle: "2027-28 School Calendar: Approval Tracker by District"
-description: "As of Nov. 4, 2026, six large districts have approved 2027-28 calendars with dates, including Charlotte-Mecklenburg Schools (CMS); first days run Aug. 2 to Aug. 24, 2027."
+description: "As of Nov. 4, 2026, seven large districts have approved 2027-28 calendars with dates, including Charlotte-Mecklenburg Schools (CMS); first days run Aug. 2 to 24."
 type: news
 publishedAt: "2026-11-04T13:05:00-05:00"
 updatedAt: "2026-11-04T13:05:00-05:00"
@@ -12,22 +12,22 @@ hero:
   src: ../../../../assets/news/school-calendar-2027-28-approval-tracker/school-calendar-2027-28-approval-tracker.webp
   alt: "The 1916 Durango High School building in Colorado, now a school district office, for the 2027-28 school calendar approval tracker"
   caption: "File photo of the 1916 Durango High School building, now the school district's administration building in Durango, Colo. Durango is not one of the districts in the tracker."
-  credit: "Photo: Carol M. Highsmith / Wikimedia Commons, cropped"
+  credit: "Photo: Carol M. Highsmith / Wikimedia Commons, cropped, edited"
   license:
     name: "Public domain"
     url: "https://creativecommons.org/publicdomain/mark/1.0/"
     source: "https://commons.wikimedia.org/wiki/File:The_1916_Durango_High_School_Building,_as_of_this_writing_(in_2015)_the_city%27s_school_administration_building,_in_Durango,_Colorado_LCCN2015632607.tif"
     author: "Carol M. Highsmith"
 summary:
-  - "As of Nov. 4, 2026, Charlotte-Mecklenburg Schools (CMS), Hawaii, Katy, Northside, Fairfax County and Palm Beach County have approved 2027-28 calendars with a first day we could read."
-  - "Among those six, the first day runs from Monday, Aug. 2, 2027 in Hawaii to Tuesday, Aug. 24, 2027 in CMS."
+  - "As of Nov. 4, 2026, Charlotte-Mecklenburg Schools (CMS), Hawaii, Katy, Northside, Fairfax County, Palm Beach County and Lee County have approved 2027-28 calendars with a first day we could read."
+  - "Among those seven, the first day runs from Monday, Aug. 2, 2027 in Hawaii to Tuesday, Aug. 24, 2027 in CMS."
   - "Chicago, Orange County, Clark County and Columbus post 2027-28 calendars, but the documents we read do not say a board approved them."
   - "Houston, Dallas, Philadelphia, San Diego, Cypress-Fairbanks, Memphis-Shelby County and Wake County had nothing posted for 2027-28 when we checked."
 faq:
   - q: "Which large districts have approved a 2027-28 school calendar?"
-    a: "As of Nov. 4, 2026, Charlotte-Mecklenburg Schools, the Hawaii State Department of Education, Katy ISD, Northside ISD, Fairfax County Public Schools and Palm Beach County have approved calendars with dates we read. Polk, Broward and Hillsborough counties say they approved theirs, but we did not read their dates."
+    a: "As of Nov. 4, 2026, Charlotte-Mecklenburg Schools, the Hawaii State Department of Education, Katy ISD, Northside ISD, Fairfax County Public Schools, Palm Beach County and Lee County have approved calendars with dates we read. Polk, Broward and Hillsborough counties say they approved theirs, but we did not read their dates."
   - q: "When is the first day of school in 2027?"
-    a: "It depends on the district. Among the approved calendars we read, Hawaii starts Monday, Aug. 2, 2027, Northside ISD Monday, Aug. 9, Palm Beach County Tuesday, Aug. 10, Katy ISD Wednesday, Aug. 11, Fairfax County Monday, Aug. 23 and Charlotte-Mecklenburg Tuesday, Aug. 24."
+    a: "It depends on the district. Among the approved calendars we read, Hawaii starts Monday, Aug. 2, 2027, Northside ISD Monday, Aug. 9, Palm Beach County and Lee County Tuesday, Aug. 10, Katy ISD Wednesday, Aug. 11, Fairfax County Monday, Aug. 23 and Charlotte-Mecklenburg Tuesday, Aug. 24."
   - q: "Are the posted but unapproved calendars final?"
     a: "The Chicago, Orange County, Clark County and Columbus documents we read do not say a board approved them, and the Clark County calendar is marked \"Subject to change\". Treat their dates as posted, not confirmed."
   - q: "Why are some districts not listed with dates?"
@@ -172,9 +172,19 @@ assets:
     note: "Source: each district's 2027-28 calendar or board release, checked Nov. 4, 2026; see the story at freshcalendars.com/news."
     description: "One-page tracker of 2027-28 school calendars from large districts: approval status, first day, last day and breaks, as of Nov. 4, 2026."
     alt: "Printable table of 2027-28 school calendars by district with first day, last day and breaks"
+downloads:
+  - group: "2027-28 School Calendars printables"
+    title: "2027-28 School Calendars: Approval Tracker"
+    description: "One-page tracker of 2027-28 school calendars from large districts: approval status, first day, last day and breaks, as of Nov. 4, 2026."
+    preview: ../../../../assets/news/school-calendar-2027-28/school-calendar-2027-28-approval-tracker.png
+    alt: "Printable table of 2027-28 school calendars by district with first day, last day and breaks"
+    pdf: "/news/downloads/school-calendar-2027-28/school-calendar-2027-28-approval-tracker.pdf"
+    png: "/news/downloads/school-calendar-2027-28/school-calendar-2027-28-approval-tracker.png"
+    pages: 1
+draft: false
 ---
 
-**As of Nov. 4, 2026, six large U.S. school districts have an approved 2027-28 calendar with a first day we could read, and the earliest is Monday, Aug. 2, 2027 in Hawaii, according to the Hawaii State Department of Education (HIDOE).** The latest of the six is Tuesday, Aug. 24, 2027 at Charlotte-Mecklenburg Schools (CMS), whose Board of Education approved its calendar on April 14, 2026. This is a tracker: we update it as boards vote and districts post.
+**As of Nov. 4, 2026, seven large U.S. school districts have an approved 2027-28 calendar with a first day we could read, and the earliest is Monday, Aug. 2, 2027 in Hawaii, according to the Hawaii State Department of Education (HIDOE).** The latest of the seven is Tuesday, Aug. 24, 2027 at Charlotte-Mecklenburg Schools (CMS), whose Board of Education approved its calendar on April 14, 2026. This is a tracker: we update it as boards vote and districts post.
 
 ## 2027-28 school calendar tracker by district
 
@@ -205,7 +215,7 @@ Each row's dates come from the district's own document or release. The Katy wint
 
 Charlotte-Mecklenburg Schools lists "Aug 24 First Day of School" and "June 7th Last Day of School" on a calendar the Board of Education approved April 14, 2026. Winter break is "Dec 20-31" and spring break "Apr 10-14". Our [CMS 2026-27 story](/news/charlotte-mecklenburg-schools-calendar-2026-27-breaks/) covers the current year.
 
-Hawaii's "2027-2028 OFFICIAL SCHOOL CALENDAR" reads "Approved May 15, 2025", with "August 2: Students' First Day" and "May 24: Last Day for Students & Second Semester Ends". Winter break is December 20-31 and spring break March 13-17. See our [Hawaii 2026-27 story](/news/hawaii-public-schools-calendar-2026-27-breaks/) for this year.
+Hawaii's 2027-2028 official school calendar reads "Approved May 15, 2025", with "August 2: Students' First Day" and "May 24: Last Day for Students & Second Semester Ends". Winter break is December 20-31 and spring break March 13-17. See our [Hawaii 2026-27 story](/news/hawaii-public-schools-calendar-2026-27-breaks/) for this year.
 
 Katy ISD's board release of Jan. 20, 2026 gives the first day as Aug. 11, 2027 and the last day as May 24, 2028, with fall break Oct. 8-12, 2027 and spring break March 13-17, 2028. Northside ISD's board approved the 2026-27 and 2027-28 calendars together, with first days of Aug. 10, 2026 and Aug. 9, 2027 and last days of May 26, 2027 and May 25, 2028.
 
@@ -223,7 +233,7 @@ The Clark County School District PDF is marked "*Subject to change". It lists "M
 
 ## How the 2027-28 first days compare with 2026-27
 
-Where our own 2026-27 stories give the first day, the 2027-28 start is one calendar day earlier and falls on the same weekday, with one exception. The dates come from our district stories and the documents above.
+Where our own 2026-27 stories give the first day, the 2027-28 start is one calendar day earlier and falls on the same weekday, with one exception (Palm Beach County, last row). The dates come from our district stories and the documents above.
 
 | District | First day 2026-27 | First day 2027-28 | Change |
 |---|---|---|---|
@@ -239,7 +249,7 @@ Where our own 2026-27 stories give the first day, the 2027-28 start is one calen
 | Charlotte-Mecklenburg | Tue., Aug. 25, 2026 | Tue., Aug. 24, 2027 | One day earlier |
 | Palm Beach County | Mon., Aug. 10, 2026 | Tue., Aug. 10, 2027 | Same date, one weekday later |
 
-The weekday shift is a calendar fact: a date lands one weekday later each year. Our 2026-27 stories link from each district's name in the [kindergarten registration roundup](/news/kindergarten-registration-2027-28-dates-age-cutoffs-by-district/) and its related stories.
+The weekday shift is a calendar fact: a date lands one weekday later each year. For registration dates and age cutoffs, see our [kindergarten registration 2027-28 roundup](/news/kindergarten-registration-2027-28-dates-age-cutoffs-by-district/).
 
 ## Which districts have nothing posted for 2027-28?
 
