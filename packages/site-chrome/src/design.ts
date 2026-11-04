@@ -226,9 +226,20 @@ html[data-theme=dark] .facts strong{color:var(--focus)!important}
 
 html[data-theme=dark] .pref-link:hover,html[data-theme=dark] .pref-link:focus-visible{color:var(--focus)!important}
 html.news[data-theme=dark] [data-cat]{--cat:#a7d9c7}
-html.news[data-theme=dark] [data-cat=holidays],html.news[data-theme=dark] [data-cat=elections]{--cat:#e1b5a7}
-html.news[data-theme=dark] [data-cat=retail-dates]{--cat:#d8c297}
-html.news[data-theme=dark] [data-cat=puzzles],html.news[data-theme=dark] [data-cat=sky-events]{--cat:#c5b7de}
+html.news[data-theme=dark] [data-cat="holidays"]{--cat:#dd9c97}
+html.news[data-theme=dark] [data-cat="uk-canada"]{--cat:#d8a691}
+html.news[data-theme=dark] [data-cat="school-calendars"]{--cat:#cea993}
+html.news[data-theme=dark] [data-cat="sports"]{--cat:#a9b894}
+html.news[data-theme=dark] [data-cat="money-benefits"]{--cat:#96baa4}
+html.news[data-theme=dark] [data-cat="planning"]{--cat:#93c1be}
+html.news[data-theme=dark] [data-cat="calendar-guides"]{--cat:#93c0cd}
+html.news[data-theme=dark] [data-cat="time-change"]{--cat:#8ebcd5}
+html.news[data-theme=dark] [data-cat="elections"]{--cat:#99afed}
+html.news[data-theme=dark] [data-cat="sky-events"]{--cat:#aaa5e7}
+html.news[data-theme=dark] [data-cat="puzzles"]{--cat:#bd9eee}
+html.news[data-theme=dark] [data-cat="entertainment"]{--cat:#d599db}
+html.news[data-theme=dark] [data-cat="retail-dates"]{--cat:#e297b6}
+html.news[data-theme=dark] [data-cat="gaming-tech"]{--cat:#acb2bc}
 html.news[data-theme=dark] [data-cat=uk-canada]{--cat:#d9b3c6}
 html[data-theme=dark] .ad-unit{background:var(--surface-soft)}
 @media(prefers-reduced-motion:reduce){*{scroll-behavior:auto!important}.category-launchers a{transform:none!important}}
@@ -319,4 +330,17 @@ body{font-size:1rem}
 .side-card.ad-side:has(ins[data-ad-status=unfilled]){display:none!important}
 @media(max-width:1100px){.sidebar .side-dl{position:static}}
 @media(max-width:700px){.sidebar .today-card{display:none}}
+/* Holiday type colors: days off (federal, bank, statutory) in blue, observances in slate, so the
+   holiday table reads by type at a glance. Both pass 4.5:1 on their tint in each theme. */
+.kind-pill[data-kind=federal]{background:#e8eefc;color:#1d4ed8}
+.kind-pill[data-kind=observance]{background:#eef0f3;color:#475569}
+html[data-theme=dark] .kind-pill[data-kind=federal]{background:#1e2f52;color:#b4c6f5}
+html[data-theme=dark] .kind-pill[data-kind=observance]{background:#243443;color:#c3cbd6}
+/* Left rails (calendar sections, library) stay beside the reader instead of leaving an empty
+   column after the first screen; a rail taller than the window scrolls inside itself. */
+@media(min-width:701px){.section-rail,.library-sidebar{position:sticky;top:67px;align-self:start;max-height:calc(100vh - 67px);min-height:0;overflow-y:auto;overscroll-behavior:contain;scrollbar-width:thin}}
+.library-sidebar a>span:first-of-type{flex:1;min-width:0}
+.library-sidebar .lib-count{flex-shrink:0;min-width:26px;padding:1px 7px;border-radius:999px;background:var(--surface-soft);color:var(--muted);font-size:13px;font-weight:700;text-align:center}
+.library-sidebar a[aria-current=page] .lib-count{background:#fff;color:#0a5940}
+html[data-theme=dark] .library-sidebar a[aria-current=page] .lib-count{background:var(--surface-soft);color:var(--ink-strong)}
 `;

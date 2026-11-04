@@ -2,17 +2,29 @@ import { iconHtml } from "./icons.js";
 import { resolvePlanningYear } from "@freshcalendars/engine";
 const escape = (s: string) => s.replaceAll("&", "&amp;").replaceAll('"', "&quot;").replaceAll("<", "&lt;");
 
+/** The rail's closing card points to the next useful page for where the reader is, not one line for every page. */
+function railHelpHtml(path: string, year: number): string {
+  const card = path.startsWith("/when-is/") || /^\/(uk-|canada-)?holidays\/$/.test(path)
+    ? ["Print the holiday month", "Every month page has a holidays-marked template.", "/monthly-calendars/", "Pick a month →"]
+    : path.startsWith("/guides/") || path === "/print-guide.html"
+      ? ["Ready to print?", `The ${year} yearly calendar comes as PDF and PNG.`, "/printable-calendars.html", `${year} yearly calendar →`]
+      : path === "/calendar-tools/"
+        ? ["Dates in the news", "Deadlines and holiday schedules, checked against official sources.", "/news/", "Read the latest →"]
+        : ["Plan brighter days", `Find a printable for ${year}, or start with a blank page.`, "/news/printables/", "Explore free printables →"];
+  return `<div class="rail-help"><strong>${card[0]}</strong><p>${card[1]}</p><a href="${card[2]}">${card[3]}</a></div>`;
+}
+
 export function sectionRailHtml(current: string, today: Date, section = "planning"): string {
   const year = resolvePlanningYear(today);
   const groups = section === "company" ? [
     ["About Fresh Calendars", [["news", "About us", "/page/about/"], ["share", "Contact", "/page/contact/"], ["check", "Privacy policy", "/page/privacy-policy/"], ["pdf", "Terms of use", "/page/terms-of-use/"], ["news", "Advertising", "/page/advertising/"], ["check", "Disclosure", "/page/disclosure/"]]],
     ["Explore", [["calendar", "Calendar library", "/calendars/"], ["news", "News & guides", "/news/"], ["tools", "Calendar tools", "/calendar-tools/"]]],
   ] : [
-    ["Calendars", [["tools", "All calendars", "/calendars/"], ["calendar", "Monthly calendars", "/monthly-calendars/"], ["year", "Yearly calendars", "/printable-calendars.html"], ["planner", "Weekly planners", "/printable-weekly-calendar.html"], ["calendar", "Blank calendars", "/blank-calendars.html"], ["school", "School calendars", "/printable-school-calendar.html"]]],
-    ["Dates & holidays", [["holiday", "US holidays", "/holidays/"], ["holiday", "UK holidays", "/uk-holidays/"], ["holiday", "Canada holidays", "/canada-holidays/"], ["tools", "Date calculators", "/calendar-tools/"]]],
-    ["Planning guides", [["print", "Printing guide", "/print-guide.html"], ["calendar", "Monday-start guide", "/guides/monday-start-calendar.html"], ["school", "Classroom planning", "/guides/classroom-printable-calendars.html"], ["year", "Fiscal-year planning", "/guides/fiscal-year-calendar.html"]]],
+    ["Calendars", [["tools", "All calendars", "/calendars/"], ["month", "Monthly calendars", "/monthly-calendars/"], ["year", "Yearly calendars", "/printable-calendars.html"], ["week", "Weekly planners", "/printable-weekly-calendar.html"], ["blank", "Blank calendars", "/blank-calendars.html"], ["school", "School calendars", "/printable-school-calendar.html"]]],
+    ["Dates & holidays", [["holiday", "US holidays", "/holidays/"], ["globe", "UK holidays", "/uk-holidays/"], ["leaf", "Canada holidays", "/canada-holidays/"], ["calc", "Date calculators", "/calendar-tools/"]]],
+    ["Planning guides", [["print", "Printing guide", "/print-guide.html"], ["monday", "Monday-start guide", "/guides/monday-start-calendar.html"], ["school", "Classroom planning", "/guides/classroom-printable-calendars.html"], ["chart", "Fiscal-year planning", "/guides/fiscal-year-calendar.html"]]],
   ];
-  return `<aside class="section-rail" aria-label="${section === "company" ? "About and policies" : "Planning navigation"}">${groups.map(([label, links]) => `<section><h2>${label}</h2><nav>${(links as string[][]).map(([icon, title, href]) => `<a href="${href}"${href === current ? ' aria-current="page"' : ""}>${iconHtml(icon!)}<span>${title}</span></a>`).join("")}</nav></section>`).join("")}<div class="rail-help"><strong>Plan brighter days</strong><p>Find a printable for ${year}, or start with a blank page.</p><a href="/news/printables/">Explore free printables →</a></div></aside>`;
+  return `<aside class="section-rail" aria-label="${section === "company" ? "About and policies" : "Planning navigation"}">${groups.map(([label, links]) => `<section><h2>${label}</h2><nav>${(links as string[][]).map(([icon, title, href]) => `<a href="${href}"${href === current ? ' aria-current="page"' : ""}>${iconHtml(icon!)}<span>${title}</span></a>`).join("")}</nav></section>`).join("")}${railHelpHtml(current, year)}</aside>`;
 }
 
 /** Visible breadcrumb drawn from the page's BreadcrumbList items, so the two never disagree. */

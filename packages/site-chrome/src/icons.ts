@@ -18,7 +18,20 @@ const paths: Record<string, string> = {
   print: '<path d="M7 8V3h10v5M7 17H3V9h18v8h-4M7 14h10v7H7z"/>',
   arrow: '<path d="m9 5 7 7-7 7"/>',
   check: '<path d="m5 12 4 4L19 6"/>',
+  // Distinct marks so rail entries do not all share the calendar glyph.
+  month: '<rect x="3" y="5" width="18" height="16" rx="3"/><path d="M7 2v6m10-6v6M3 11h18"/><rect x="13" y="14" width="4" height="4" rx="1"/>',
+  week: '<rect x="3" y="5" width="18" height="16" rx="3"/><path d="M7 2v6m10-6v6M3 11h18M3 16h18"/>',
+  blank: '<rect x="3" y="4" width="18" height="17" rx="3"/><path d="M3 9h18"/>',
+  calc: '<rect x="5" y="3" width="14" height="18" rx="2"/><path d="M8 7h8M8 12h1m3 0h1m3 0h0M8 16h1m3 0h1m3 0h0"/>',
+  monday: '<rect x="3" y="5" width="18" height="16" rx="3"/><path d="M3 11h18M7 2v6m10-6v6M8 18v-4l2 2 2-2v4"/>',
+  leaf: '<path d="M12 21v-5M12 3l2 4 3-1-1 4 3 1-4 3 1 2-4-1-4 1 1-2-4-3 3-1-1-4 3 1z"/>',
+  chart: '<path d="M4 20V10m6 10V4m6 16v-7m4 7H3"/>',
+  list: '<path d="M8 6h12M8 12h12M8 18h12M4 6h0M4 12h0M4 18h0"/>',
+  archive: '<rect x="3" y="4" width="18" height="5" rx="1"/><path d="M5 9v11h14V9M10 13h4"/>',
+  info: '<circle cx="12" cy="12" r="9"/><path d="M12 11v6m0-9h0"/>',
 };
+/** Raw SVG markup for a named icon (for components that are not in this package's templates). */
+export const ICON_PATHS: Readonly<Record<string, string>> = paths;
 export function iconHtml(name: string, cls = ""): string {
   return `<svg class="ui-icon ${cls}" viewBox="0 0 24 24" width="20" height="20" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">${paths[name] ?? paths.calendar}</svg>`;
 }
