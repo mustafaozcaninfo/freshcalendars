@@ -69,7 +69,7 @@ internalLinks:
     label: "February 2027 printable calendar"
   - href: "/march-calendars.html"
     label: "March 2027 printable calendar"
-related: [grammy-nominations-2027-date-69th-grammys-february-7, super-bowl-lxi-2027-date-sofi-stadium-channel-halftime, the-game-awards-2026-tickets-october-29-date-december-10-nominations]
+related: [grammy-nominations-2027-date-69th-grammys-february-7, super-bowl-lxi-2027-date-sofi-stadium-channel-halftime, sundance-film-festival-2027-boulder-dates]
 assets:
   overlay: true
   kicker: "Awards season 2027"
