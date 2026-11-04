@@ -65,7 +65,7 @@ internalLinks:
     label: "December 2026 printable calendar"
   - href: "/printable-yearly-calendar.html"
     label: "printable yearly calendar"
-related: [snap-payment-schedule-december-2026-deposit-dates-by-state, snap-payment-schedule-november-2026-deposit-dates-by-state, social-security-cola-2027-3-6-percent-payment-dates]
+related: [snap-payment-schedule-december-2026-deposit-dates-by-state, snap-maximum-benefit-2027-allotments-income-limits-by-household-size, social-security-cola-2027-3-6-percent-payment-dates]
 assets:
   overlay: true
   kicker: "SNAP · January 2027"
