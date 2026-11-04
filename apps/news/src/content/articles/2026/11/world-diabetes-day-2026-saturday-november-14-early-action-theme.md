@@ -104,7 +104,7 @@ internalLinks:
     label: "November 2026 printable calendar"
   - href: "/printable-monthly-calendar.html"
     label: "Printable monthly calendar"
-related: [great-american-smokeout-2026-november-19-quit-day-planner, world-kindness-day-2026-friday-november-13-kindness-dates-printable, november-2026-important-dates-days-until]
+related: [great-american-smokeout-2026-november-19-quit-day-planner, world-kindness-day-2026-friday-november-13-kindness-dates-printable, world-toilet-day-2026-november-19]
 downloads:
   - group: "World Diabetes Day 2026 Early Action Checklist printables"
     title: "World Diabetes Day 2026 Early Action Checklist"
