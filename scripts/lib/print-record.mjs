@@ -144,7 +144,8 @@ export function factTokens(text, { iso = false, story = false } = {}) {
   const t = ` ${text.toLowerCase().replace(/\u2013|\u2014/g, "-").replace(/\s+/g, " ")} `;
   const out = new Set();
   const day = (m, d) => `d:${m}-${d}`;
-  const re = new RegExp(`\\b${MON_RE}\\s+(\\d{1,2})\\b(?:\\s*(?:-|to|through|and)\\s*(?:${MON_RE}\\s+)?(\\d{1,2})\\b(?!\\s*(?::|[ap]\\.?m)))?`, "g");
+  // Ordinals count too ("January 19th", "Dec. 1st to 3rd"): organizers often write dates that way.
+  const re = new RegExp(`\\b${MON_RE}\\s+(\\d{1,2})(?:st|nd|rd|th)?\\b(?:\\s*(?:-|to|through|and)\\s*(?:${MON_RE}\\s+)?(\\d{1,2})(?:st|nd|rd|th)?\\b(?!\\s*(?::|[ap]\\.?m)))?`, "g");
   for (const m of t.matchAll(re)) {
     const m1 = MONTHS[m[1].replace(/\./, "")], d1 = Number(m[2]);
     if (!m1 || d1 < 1 || d1 > 31) continue;
