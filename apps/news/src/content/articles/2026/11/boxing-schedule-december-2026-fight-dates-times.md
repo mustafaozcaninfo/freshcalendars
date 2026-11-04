@@ -79,31 +79,53 @@ assets:
   date: "2026-12-11"
   card: { top: "Fury vs Joshua, Cardiff", big: "Fri., Dec. 11", bottom: "Live on Netflix" }
   printable:
-    noKit: "The watch-guide kit needs a start time for every event and no promoter or broadcaster has posted one yet, so this is a date and venue list."
-    slug: boxing-schedule-december-2026
+    kit: watch-guide
+    slug: boxing-schedule-december-2026-watch-guide
     group: boxing-december-2026
     title: "Boxing Schedule December 2026: Dates and Venues"
-    subtitle: "Cards listed by Matchroom, Netflix and Queensberry, start times not yet posted"
-    columns: ["Date and card", "Venue and where to watch"]
-    layout: list
-    rows:
-      - ["Sat., Dec. 5 · Walker vs Rocha", "Civic Hall, Wolverhampton, UK"]
-      - ["Fri., Dec. 11 · Tyson Fury vs Anthony Joshua", "Principality Stadium, Cardiff, Wales · Netflix, no additional cost to members"]
-      - ["Sat., Dec. 12 · Bivol vs Smith", "Yekaterinburg, Russia · broadcaster not stated"]
-      - ["Sat., Dec. 12 · Soro vs Liddard, Monte Carlo Showdown", "Salle des Étoiles, Monte Carlo, Monaco · broadcaster not stated"]
-      - ["Sat., Dec. 19 · Anthony Cacace vs Nick Ball", "Belfast · broadcaster not stated"]
-      - ["Before each card", "Check the promoter page for the start time: none is posted yet"]
+    subtitle: "Cards listed by Matchroom and Netflix; start times not yet posted"
     note: "Source: Netflix Tudum (Nov. 3, 2026); Matchroom Boxing event pages and Queensberry events page (checked Nov. 4, 2026). Cards and times can change."
     description: "A one-page sheet listing the December 2026 boxing cards with Fury vs Joshua on Dec. 11, with venue and where to watch, and a reminder to check start times."
     alt: "Boxing schedule for December 2026 with dates, bouts, venues and broadcasters"
+    data:
+      pick: "My pick"
+      events:
+        - date: "2026-12-05"
+          time: tba
+          title: "Walker vs Rocha"
+          detail: "Civic Hall, Wolverhampton, UK"
+          src: 3
+          quote: "Saturday 05 December 2026"
+        - date: "2026-12-11"
+          time: tba
+          title: "Tyson Fury vs Anthony Joshua"
+          detail: "Principality Stadium, Cardiff, Wales"
+          channel: "Netflix"
+          src: 2
+          quote: "Friday 11 December 2026"
+        - date: "2026-12-12"
+          time: tba
+          title: "Dmitry Bivol vs Smith"
+          detail: "Yekaterinburg, Russia"
+          src: 4
+          quote: "Saturday 12 December 2026"
+        - date: "2026-12-12"
+          time: tba
+          title: "Soro vs Liddard, Monte Carlo Showdown"
+          detail: "Salle des Étoiles, Monte Carlo, Monaco"
+          src: 5
+          quote: "Saturday 12 December 2026"
+      unconfirmed:
+        - { label: "Cacace vs Ball, Dec. 19", why: "Queensberry's events page blocked our automated check, so its date is not quoted on this sheet" }
+        - { label: "Start and ring-walk times", why: "no promoter or broadcaster had posted a start time for any card as of Nov. 4, 2026" }
 downloads:
   - group: "Boxing Schedule December 2026 printables"
     title: "Boxing Schedule December 2026: Dates and Venues"
     description: "A one-page sheet listing the December 2026 boxing cards with Fury vs Joshua on Dec. 11, with venue and where to watch, and a reminder to check start times."
-    preview: ../../../../assets/news/boxing-december-2026/boxing-schedule-december-2026.png
+    preview: ../../../../assets/news/boxing-december-2026/boxing-schedule-december-2026-watch-guide.png
     alt: "Boxing schedule for December 2026 with dates, bouts, venues and broadcasters"
-    pdf: "/news/downloads/boxing-december-2026/boxing-schedule-december-2026.pdf"
-    png: "/news/downloads/boxing-december-2026/boxing-schedule-december-2026.png"
+    pdf: "/news/downloads/boxing-december-2026/boxing-schedule-december-2026-watch-guide.pdf"
+    png: "/news/downloads/boxing-december-2026/boxing-schedule-december-2026-watch-guide.png"
     pages: 1
 draft: false
 ---
