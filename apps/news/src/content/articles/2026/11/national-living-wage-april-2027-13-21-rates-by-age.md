@@ -3,7 +3,7 @@ title: "National Living Wage April 2027: £13.21 an Hour and the New Rates by Ag
 seoTitle: "National Living Wage 2027: £13.21 and Rates by Age"
 description: "The National Living Wage (NLW) rises 3.9% to £13.21 an hour from April 2027, GOV.UK says. Rates for 18-20, 16-17 and apprentices, with weekly and yearly pay."
 type: news
-publishedAt: "2026-11-04T06:40:00-05:00"
+publishedAt: "2026-11-04T09:25:00-05:00"
 authors: [christina-gerland]
 category: uk-canada
 keywords: ["national living wage 2027", "minimum wage april 2027 uk", "national minimum wage 2027 rates", "national living wage £13.21"]
