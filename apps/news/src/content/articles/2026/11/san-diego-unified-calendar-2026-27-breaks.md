@@ -99,7 +99,7 @@ draft: false
 
 **San Diego Unified School District (SDUSD) students have no school from Monday, Nov. 23 to Friday, Nov. 27, 2026, from Monday, Dec. 21 to Monday, Jan. 4, 2027, and from Monday, March 29 to Friday, April 2, 2027**, by the district's "2026-27 Academic Calendar." The grid marks Wednesday, May 26, 2027 as the last day of school, so June has no instruction days.
 
-The calendar is a one-page PDF with a color grid. Its header reads "FINAL (ADOPTED BY THE BOARD OF EDUCATION June 24, 2025)." The key has four entries: "H Holiday," "F/L First/Last Day of School," "N/I Non-Instructional Day (No School)" and "Instruction Day." The grid does not print holiday names, so we name a holiday only as the date of a federal or state holiday. "Winter break" and "spring break" are our words for the no-school blocks the grid marks, not district labels.
+The calendar is a one-page PDF with a color grid. Its header calls it final and says the Board of Education adopted it June 24, 2025. The key has four entries: "H Holiday," "F/L First/Last Day of School," "N/I Non-Instructional Day (No School)" and "Instruction Day." The grid does not print holiday names, so we name a holiday only as the date of a federal or state holiday. "Winter break" and "spring break" are our words for the no-school blocks the grid marks, not district labels.
 
 ## Which San Diego Unified days are off in 2026-27?
 
@@ -142,7 +142,7 @@ Yes. Friday, Feb. 12, 2027 and Monday, Feb. 15 are both marked H. Feb. 12 is the
 
 ## When is the last day of school at San Diego Unified in 2027?
 
-Wednesday, May 26, 2027, marked L in the grid. Monday, May 31 is a holiday. June has zero instruction days: the grid marks Friday, June 18 as H and shows the other June weekdays as no instruction. The first day was Monday, Aug. 10, 2026.
+Wednesday, May 26, 2027, marked L in the grid. Monday, May 31 is a holiday. The grid's June total is 0 instruction days, and it marks Friday, June 18 as H. The first day was Monday, Aug. 10, 2026.
 
 ## How many instruction days does each month have?
 
