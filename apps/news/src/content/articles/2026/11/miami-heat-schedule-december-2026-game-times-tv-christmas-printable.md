@@ -149,7 +149,7 @@ Chicago appears three times in the month. The Heat visit the Bulls on Monday, De
 
 ## National TV for Heat games in December 2026
 
-Four December games carry a national network in the NBA's schedule: ABC against New York on Dec. 12, Prime Video against the Los Angeles Clippers on Dec. 18, ABC and ESPN at Boston on Dec. 25, and NBC and Peacock at Dallas on Dec. 29. The other nine have none listed. The Heat close the year on the road at Oklahoma City on Thursday, Dec. 31, at 8 p.m. ET.
+Four December games carry a national network in the NBA's schedule: ABC against New York on Dec. 12, Prime Video against the Los Angeles Clippers on Dec. 18, ABC and ESPN at Boston on Dec. 25, and NBC and Peacock at Dallas on Dec. 29. The other nine have none listed. The Heat close the year on the road at Oklahoma City on New Year's Eve, Thursday, Dec. 31, at 8 p.m. ET.
 
 ## Printable Heat schedule for December 2026
 

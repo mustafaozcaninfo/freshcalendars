@@ -71,7 +71,7 @@ internalLinks:
     label: "December 2026 printable calendar"
   - href: "/printable-weekly-calendar.html"
     label: "Printable weekly calendar"
-related: [ufc-334-madison-square-garden-november-14-start-time-gane-hokit-ufc-schedule, pdc-world-darts-championship-2026-27-schedule-dates-alexandra-palace, college-football-bowl-schedule-2026-27-dates-times-tv-cfp]
+related: [fury-vs-joshua-december-11-2026-fight-time-ring-walk-netflix, ufc-334-madison-square-garden-november-14-start-time-gane-hokit-ufc-schedule, pdc-world-darts-championship-2026-27-schedule-dates-alexandra-palace]
 assets:
   overlay: true
   scene: none

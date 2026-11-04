@@ -195,4 +195,4 @@ This story will be updated when those networks post their schedules. Hallmark, L
 
 ## Print the 25-night Christmas movie calendar
 
-The free printable lists each night's first Freeform listing from 6 p.m. Eastern Time (ET), plus the three premieres, from Dec. 1 to Dec. 25, with a column for your pick. It prints the Eastern time only and says "Local listings" for the other zones, because Freeform prints EST/PST. Pair it with the [December 2026 printable calendar](/december-calendars.html), and see [when Christmas falls](/when-is/christmas/) for the date itself.
+The free printable lists each night's first Freeform listing from 6 p.m. Eastern Time (ET), plus the three premieres, from Dec. 1 to Dec. 25, with a column for your pick and a "My Christmas movie nights" box with lines for "Movie night I will not miss" and "Who I am watching with." It prints the Eastern time only and says "Local listings" for the other zones, because Freeform prints EST/PST. Pair it with the [December 2026 printable calendar](/december-calendars.html), and see [when Christmas falls](/when-is/christmas/) for the date itself.

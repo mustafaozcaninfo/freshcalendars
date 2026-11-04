@@ -165,4 +165,4 @@ For scale, a CTA audit released March 31, 2026 counted 148,392 participants and 
 
 ## Free CES 2027 keynote watch guide
 
-The printable puts the Waymo, State of the Industry and Lenovo times in ET, Central, Mountain and Pacific Time on one page, with a column for your picks and a list of what CTA has not confirmed. If you are tracking other 2027 launches, see our [video game release dates for 2027](/news/video-game-release-dates-2027-calendar/).
+The printable puts the Waymo, State of the Industry and Lenovo times in ET, Central, Mountain and Pacific Time on one page, with a column for your picks, a "My CES 2027 plan" box with lines for "Sessions I will watch" and "Who I am watching with," and a list of what CTA has not confirmed. If you are tracking other 2027 launches, see our [video game release dates for 2027](/news/video-game-release-dates-2027-calendar/).
