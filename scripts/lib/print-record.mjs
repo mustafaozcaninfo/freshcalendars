@@ -55,7 +55,7 @@ export const CURRENT_RECORD = 3;
  * Kit data fields that are not facts from the story: identifiers, ISO values, the source's own
  * words, and the sheet's own fill-in labels and advice.
  */
-const NOT_FACTS = new Set(["src", "quote", "kind", "tz", "airing", "status", "direction", "mode", "start", "from", "to", "date", "dates", "at", "game", "month", "year", "months", "landscape", "family", "tasks", "checklist", "pick", "notesLabel", "why", "substitute", "federal", "done"]);
+const NOT_FACTS = new Set(["src", "quote", "kind", "tz", "time", "layout", "airing", "status", "direction", "mode", "start", "from", "to", "date", "dates", "at", "game", "month", "year", "months", "landscape", "family", "tasks", "checklist", "pick", "notesLabel", "why", "substitute", "federal", "done"]);
 const SKIP_WORDS = new Set(["jan", "january", "feb", "february", "mar", "march", "apr", "april", "may", "jun", "june", "jul", "july", "aug", "august", "sep", "sept", "september", "oct", "october", "nov", "november", "dec", "december", "mon", "monday", "tue", "tuesday", "wed", "wednesday", "thu", "thursday", "fri", "friday", "sat", "saturday", "sun", "sunday", "et", "ct", "mt", "pt", "the", "and", "or", "of", "a", "an", "to", "in", "on", "at", "for", "by", "with", "no"]);
 const words = (s) => s.toLowerCase().normalize("NFKD").replace(/[\u0300-\u036f]/g, "").match(/[a-z0-9]+/g) ?? [];
 
@@ -72,6 +72,8 @@ const KIT_OWN_WORDS = {
   "activity-sheet": ["title", "items", "labels", "q", "label", "columns"],
   planner: ["title", "columns", "rows", "items", "labels", "mark", "label", "groups"],
   "fact-table": ["label", "note", "key", "align", "highlight"],
+  // The reader's own write-in lines ("My pick", "Who I watch with").
+  "watch-guide": ["fill", "pick"],
 };
 
 export function unsupportedNames(data, storyText, kit = "") {
