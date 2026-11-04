@@ -100,6 +100,23 @@ internalLinks:
   - href: "/december-calendars.html"
     label: "December 2026 printable calendar"
 related: [uk-christmas-menus-2026-greggs-costa-starbucks-kfc, uk-christmas-bank-holidays-2026-boxing-day-substitute-december-28, costa-christmas-menu-2026-ferrero-rocher-latte]
+downloads:
+  - group: "KFC Christmas Menu 2026 printables"
+    title: "KFC Christmas Menu 2026: Prices and Dates"
+    description: "One-page card of the KFC UK 2026 Christmas menu: Gravymas Burger, meals, fries and buckets with prices, plus the 9 November start and 3 January end."
+    preview: ../../../../assets/news/kfc-uk-christmas-menu-2026-gravymas/kfc-christmas-menu-2026-price-card.png
+    alt: "Printable KFC Christmas menu 2026 card listing each festive item with its price and contents, and the start and end dates"
+    pdf: "/news/downloads/kfc-uk-christmas-menu-2026-gravymas/kfc-christmas-menu-2026-price-card.pdf"
+    png: "/news/downloads/kfc-uk-christmas-menu-2026-gravymas/kfc-christmas-menu-2026-price-card.png"
+    pages: 1
+  - group: "KFC Christmas Menu 2026 printables"
+    title: "KFC Christmas Menu 2026: Prices and Dates (A4)"
+    description: "One-page card of the KFC UK 2026 Christmas menu: Gravymas Burger, meals, fries and buckets with prices, plus the 9 November start and 3 January end. A4 paper."
+    preview: ../../../../assets/news/kfc-uk-christmas-menu-2026-gravymas/kfc-christmas-menu-2026-price-card-a4.png
+    alt: "Printable KFC Christmas menu 2026 card listing each festive item with its price and contents, and the start and end dates, A4"
+    pdf: "/news/downloads/kfc-uk-christmas-menu-2026-gravymas/kfc-christmas-menu-2026-price-card-a4.pdf"
+    png: "/news/downloads/kfc-uk-christmas-menu-2026-gravymas/kfc-christmas-menu-2026-price-card-a4.png"
+    pages: 1
 draft: false
 ---
 
