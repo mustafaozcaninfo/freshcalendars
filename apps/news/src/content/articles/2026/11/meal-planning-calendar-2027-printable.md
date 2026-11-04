@@ -3,8 +3,8 @@ title: "Meal Planning Calendar 2027: Weekly Menu and Grocery List Printables"
 seoTitle: "Meal Planning Calendar 2027: Weekly Menu Printable"
 description: "The first full meal-planning week of 2027 starts Sunday, Jan. 3. Print a weekly menu and grocery list with Minnesota Department of Health (MDH) storage limits."
 type: explainer
-publishedAt: "2026-11-04T06:40:00-05:00"
-updatedAt: "2026-11-04T06:40:00-05:00"
+publishedAt: "2026-11-04T07:15:00-05:00"
+updatedAt: "2026-11-04T07:15:00-05:00"
 authors: [christina-gerland]
 category: planning
 keywords: ["meal planning calendar printable", "weekly meal planner 2027", "weekly menu and grocery list printable", "meal plan template"]

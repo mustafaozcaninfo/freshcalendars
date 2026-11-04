@@ -3,8 +3,8 @@ title: "Lewes Polar Bear Plunge 2027: Sunday, Feb. 7 at 1:00 p.m. in Rehoboth Be
 seoTitle: "Lewes Polar Bear Plunge 2027: Feb. 7, 1:00 p.m."
 description: "The 36th Lewes Polar Bear Plunge is Sunday, Feb. 7, 2027, at 1:00 p.m. in Rehoboth Beach, says Special Olympics Delaware. The 2026 plunge was canceled."
 type: news
-publishedAt: "2026-11-04T06:42:00-05:00"
-updatedAt: "2026-11-04T06:42:00-05:00"
+publishedAt: "2026-11-04T07:10:00-05:00"
+updatedAt: "2026-11-04T07:10:00-05:00"
 authors: [christina-gerland]
 category: holidays
 keywords: ["lewes polar bear plunge 2027", "polar bear plunge 2027", "rehoboth beach polar plunge 2027", "polar plunge 2027 dates"]
@@ -211,7 +211,7 @@ Official Bear status requires "a minimum of $100 is raised." The incentive list 
 
 The Plunge DE tips page recommends bringing a robe, plus "extra towels or a blanket to stand on – remember, the sand is like ice!" It suggests wearing layers and loose-fitting clothes, and "consider wearing water shoes or something on your feet into the water." It says to plunge with a friend and use the buddy system.
 
-The rules are written in capitals on the tips page: do not dive into or enter the water head-first, do not swim past the safety divers in the water, and do not go near the jetties. The same page says the event has "a professional dive team in the water and a Safety Team of emergency responders on site." Tents and drones are not allowed on the beach per the City of Rehoboth Beach.
+The rules are written in capitals on the tips page: do not dive or go into the water head-first, do not swim past the safety divers in the water, and do not go near the jetties. The same page says the event has "a professional dive team in the water and a Safety Team of emergency responders on site." Tents and drones are not allowed on the beach per the City of Rehoboth Beach.
 
 On parking, the maps page says "the crowd will be similar to a summer holiday weekend at the beach (some claim even bigger!)" and "our best advice is to come early, be patient looking for a spot." It lists no shuttle information.
 

@@ -3,8 +3,8 @@ title: "Immaculate Conception 2026: Tuesday, Dec. 8 Is a Holy Day of Obligation"
 seoTitle: "Immaculate Conception 2026: Dec. 8 Holy Day of Obligation"
 description: "Dec. 8, 2026, is a Tuesday and a U.S. holy day of obligation, so Mass is required, says the U.S. Conference of Catholic Bishops (USCCB). Dates to 2031 below."
 type: explainer
-publishedAt: "2026-11-04T06:42:00-05:00"
-updatedAt: "2026-11-04T06:42:00-05:00"
+publishedAt: "2026-11-04T07:11:00-05:00"
+updatedAt: "2026-11-04T07:11:00-05:00"
 authors: [christina-gerland]
 category: holidays
 keywords: ["is december 8 a holy day of obligation 2026", "immaculate conception 2026", "holy days of obligation 2026-2027", "is jan 1 2027 a holy day of obligation"]
@@ -107,7 +107,7 @@ The solemnity of the Immaculate Conception falls on **Tuesday, Dec. 8, 2026**, a
 
 ## Is Dec. 8, 2026, a holy day of obligation?
 
-Yes. The USCCB's canon 1246 complementary norm, adopted as a decree in 1991 and effective Jan. 1, 1993, lists six holy days in the United States besides Sundays. Dec. 8 is one of them. The USCCB's proper calendar for U.S. dioceses also marks the day as the "Patronal Feastday of the United States of America." Dec. 8, 2026, is 34 days after Wednesday, Nov. 4, and it comes nine days after Advent begins on Sunday, Nov. 29. Our story on [when Advent starts in 2026](/news/when-does-advent-start-2026-november-29-advent-wreath-candles/) covers the season.
+Yes. The USCCB's canon 1246 complementary norm, adopted as a decree in 1991 and effective Jan. 1, 1993, lists six holy days in the United States besides Sundays. Dec. 8 is one of them. The USCCB's proper calendar for U.S. dioceses also marks the day as the "Patronal Feastday of the United States of America." Dec. 8, 2026, comes nine days after Advent begins on Sunday, Nov. 29. Our story on [when Advent starts in 2026](/news/when-does-advent-start-2026-november-29-advent-wreath-candles/) covers the season.
 
 ## What does the Immaculate Conception celebrate?
 
@@ -157,4 +157,4 @@ Not yet announced. The Basilica of the National Shrine of the Immaculate Concept
 - Print the one-page planner above for Dec. 8, 2026, and the holy days through December 2027.
 - For the next Marian date on the calendar, see [Our Lady of Guadalupe Day](/news/our-lady-of-guadalupe-day-2026-december-12-las-posadas-december-16-24/).
 
-Not covered here: Mass times, local diocesan rules and Hawaii or other local exceptions. Check your diocese or parish.
+Not covered here: Mass times, local diocesan rules and other local exceptions. Check your diocese or parish.

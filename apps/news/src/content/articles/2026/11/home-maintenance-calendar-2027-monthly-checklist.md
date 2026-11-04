@@ -3,8 +3,8 @@ title: "Home Maintenance Calendar 2027: Monthly Tasks and a Printable Checklist"
 seoTitle: "Home Maintenance Calendar 2027 by Month"
 description: "The U.S. Fire Administration (USFA) says to test smoke alarms monthly. Our 2027 home maintenance calendar sets each test date and adds sourced seasonal tasks."
 type: explainer
-publishedAt: "2026-11-04T06:45:00-05:00"
-updatedAt: "2026-11-04T06:45:00-05:00"
+publishedAt: "2026-11-04T07:14:00-05:00"
+updatedAt: "2026-11-04T07:14:00-05:00"
 authors: [christina-gerland]
 category: planning
 keywords: ["home maintenance checklist by month", "home maintenance calendar 2027", "monthly home maintenance schedule", "seasonal home maintenance checklist"]

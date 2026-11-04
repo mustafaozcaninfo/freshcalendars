@@ -3,8 +3,8 @@ title: "January 2027 Reset Planner: Goals, Habits and Monthly Review Printables"
 seoTitle: "January 2027 Planner Printable: Goals and Habits"
 description: "A free four-page January 2027 planner: goals, a 31-day habit tracker from Fri., Jan. 1, the Jan. 15 IRS estimated tax date and a monthly review."
 type: explainer
-publishedAt: "2026-11-04T06:45:00-05:00"
-updatedAt: "2026-11-04T06:45:00-05:00"
+publishedAt: "2026-11-04T07:12:00-05:00"
+updatedAt: "2026-11-04T07:12:00-05:00"
 authors: [christina-gerland]
 category: planning
 keywords: ["january 2027 planner printable", "new year goal planner printable", "habit tracker january 2027", "monthly review template"]
