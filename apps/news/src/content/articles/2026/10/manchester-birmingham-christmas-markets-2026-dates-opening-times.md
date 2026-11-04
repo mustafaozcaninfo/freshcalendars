@@ -50,7 +50,7 @@ internalLinks:
     label: "November 2026 printable calendar"
   - href: "/december-calendars.html"
     label: "December 2026 printable calendar"
-related: [hyde-park-winter-wonderland-2026-dates-opening-times-tickets, uk-christmas-bank-holidays-2026-boxing-day-substitute-december-28, bonfire-night-2026-thursday-november-5-fireworks-rules]
+related: [hyde-park-winter-wonderland-2026-dates-opening-times-tickets, uk-christmas-markets-2026-york-bath-cardiff-lincoln-belfast, uk-christmas-bank-holidays-2026-boxing-day-substitute-december-28]
 downloads:
   - group: "UK Christmas Markets 2026 printables"
     title: "UK Christmas Markets 2026: Manchester and Birmingham Dates"

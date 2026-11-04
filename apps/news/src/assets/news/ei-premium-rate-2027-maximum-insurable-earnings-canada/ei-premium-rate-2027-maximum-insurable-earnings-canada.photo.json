@@ -17,5 +17,6 @@
   "original": "6144×4096",
   "output": "2400×1350",
   "cropped": true,
-  "credit": "Photo: GoToVan from Vancouver, Canada / Wikimedia Commons, cropped"
+  "credit": "Photo: GoToVan from Vancouver, Canada / Wikimedia Commons, cropped, edited",
+  "overlay": true
 }
