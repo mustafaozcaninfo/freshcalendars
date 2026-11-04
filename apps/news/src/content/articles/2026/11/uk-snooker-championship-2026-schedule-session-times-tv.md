@@ -4,6 +4,7 @@ seoTitle: "UK Snooker Championship 2026 Schedule and Times"
 description: "UK Championship snooker runs Nov. 28 to Dec. 6, 2026 at York Barbican. Daily sessions start 1 p.m. and 7 p.m. UK time: 8 a.m. and 2 p.m. Eastern Time (ET)."
 type: news
 publishedAt: "2026-11-03T06:00:00-05:00"
+updatedAt: "2026-11-04T03:25:00-05:00"
 authors: [jessica-hartwell]
 category: sports
 keywords: ["uk championship snooker 2026", "uk snooker championship 2026 schedule", "uk championship 2026 dates", "uk championship snooker times us"]
@@ -23,7 +24,7 @@ summary:
   - "York Barbican lists the UK Championship snooker for Sat., Nov. 28 to Sun., Dec. 6, 2026, nine days with a 13:00 and a 19:00 session each day."
   - "The 18 sessions run at 8 a.m. and 2 p.m. Eastern Time (ET), 7 a.m. and 1 p.m. Central Time (CT), and 5 a.m. and 11 a.m. Pacific Time (PT)."
   - "Mark Selby is the defending champion after a 10-8 win over Judd Trump on Dec. 7, 2025, his third UK title."
-  - "The draw, the round played each day, prize money and a UK or U.S. broadcaster are not yet announced."
+  - "York Barbican names BBC, Turner Network Television (TNT) Sports and World Snooker Tour (WST) Play as broadcasters; the draw, the round played each day, prize money, session-by-session channels and a U.S. or Canada stream are not yet announced."
 faq:
   - q: "When is the UK Championship snooker 2026?"
     a: "York Barbican lists it for Saturday, Nov. 28 to Sunday, Dec. 6, 2026, at the York Barbican in York, England."
@@ -32,7 +33,7 @@ faq:
   - q: "Who is the defending UK Championship winner?"
     a: "Mark Selby beat Judd Trump 10-8 in the 2025 final on Dec. 7, 2025, for his third UK title, according to Sporting Life and the live coverage on tntsports.co.uk."
   - q: "Where can I watch the UK Championship snooker in the US?"
-    a: "A 2026 UK or U.S. broadcaster is not confirmed on a listing we could read. Check World Snooker Tour's watch page at wst.tv and your local broadcaster."
+    a: "York Barbican's event page says it is shown \"on BBC, TNT Sports, WST Play and many other broadcasters.\" It does not say which channel shows which session or name a U.S. or Canada stream. Check World Snooker Tour's site at wst.tv and your local broadcaster."
 sources:
   - title: "UK Championship Snooker 2026 - York Barbican"
     url: "https://www.yorkbarbican.co.uk/whats-on/snooker-2026/"
@@ -97,7 +98,7 @@ assets:
 draft: false
 ---
 
-**The UK Championship snooker runs from Saturday, Nov. 28 to Sunday, Dec. 6, 2026 at the York Barbican in York, England, with a 13:00 and a 19:00 session each day, according to the venue's event page.** York is on Greenwich Mean Time (GMT) then, so the opening session is 8 a.m. Eastern Time (ET) and the evening session is 2 p.m. ET. The table below converts all 18 sessions for four U.S. time zones. The draw, the round played each day and a broadcaster are not yet announced.
+**The UK Championship snooker runs from Saturday, Nov. 28 to Sunday, Dec. 6, 2026 at the York Barbican in York, England, with a 13:00 and a 19:00 session each day, according to the venue's event page.** York is on Greenwich Mean Time (GMT) then, so the opening session is 8 a.m. Eastern Time (ET) and the evening session is 2 p.m. ET. The table below converts all 18 sessions for four U.S. time zones. The venue page says the event is shown on BBC, Turner Network Television (TNT) Sports and World Snooker Tour (WST) Play; the draw, the round played each day and the channel for each session are not yet announced.
 
 ## UK Championship 2026 session times in GMT, ET, CT and PT
 
@@ -132,7 +133,7 @@ SnookerHQ, reporting the WST calendar for 2026-27 on May 19, 2026, gave the main
 
 ## Who plays in the UK Championship 2026 and how do they enter?
 
-SnookerHQ's "Race to the 2026 UK Championship" (David Caulfield, Oct. 29, 2026) says the top 16 on the ranking get "automatic entry into the last 32" in York, and "those inside the top 48 will enter in the third of the four qualifying rounds." The draw and the frame format of each round are not yet announced.
+SnookerHQ's "Race to the 2026 UK Championship" (David Caulfield, Oct. 29, 2026) says the top 16 on the ranking get "automatic entry into the last 32" in York, and "those inside the top 48 will enter in the third of the four qualifying rounds." York Barbican's page says "the top 16 players, along with 16 who have come through the qualifying rounds, will be battling for the trophy," which makes a field of 32. The draw and the frame format of each round are not yet announced.
 
 ## Who is the UK Championship defending champion?
 
@@ -140,7 +141,7 @@ Mark Selby beat Judd Trump 10-8 in the 2025 final at the York Barbican on Dec. 7
 
 ## Where can you watch the UK Championship snooker in the US and UK?
 
-A 2026 UK or U.S. and Canada broadcaster or stream is not confirmed on a listing we could read. Check World Snooker Tour's watch page at [wst.tv](https://wst.tv) and your local broadcaster before the first session.
+York Barbican's event page says the UK Championship is shown "on BBC, TNT Sports, WST Play and many other broadcasters." The page does not say which channel shows which session, and it names no U.S. or Canada stream, so those listings are not yet announced. North American readers can check World Snooker Tour's site at [wst.tv](https://wst.tv) and their local broadcaster before the first session.
 
 ## What is still not announced for the UK Championship 2026?
 
@@ -151,7 +152,8 @@ A 2026 UK or U.S. and Canada broadcaster or stream is not confirmed on a listing
 | Prize money and winner's share | Not yet announced on a page we could read |
 | Draw and round-by-round schedule | Not yet announced |
 | Frame formats and final session times | Not yet announced |
-| Broadcaster and streaming | Not yet announced on a listing we could read |
+| Broadcasters | BBC, TNT Sports, WST Play and others, per York Barbican |
+| Channel for each session and a U.S. or Canada stream | Not yet announced |
 
 For other sport on UK time, see the [Professional Darts Corporation (PDC) World Darts Championship 2026-27 dates](/news/pdc-world-darts-championship-2026-27-schedule-dates-alexandra-palace/) and the [Grand Slam of Darts 2026 dates](/news/grand-slam-of-darts-2026-dates-november-14-22-format-prize-money-how-to-watch/).
 
