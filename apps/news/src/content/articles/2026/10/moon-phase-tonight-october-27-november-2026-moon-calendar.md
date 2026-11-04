@@ -50,7 +50,7 @@ internalLinks:
     label: "October 2026 printable calendar"
   - href: "/when-is/daylight-savings/"
     label: "When does daylight saving time end?"
-related: [new-years-eve-2026-moon-phase-moonrise-time-midnight-new-york, supermoon-2026-beaver-moon-cold-moon-geminids-solstice, november-2026-meteor-showers-taurids-leonids]
+related: [new-years-eve-2026-moon-phase-moonrise-time-midnight-new-york, supermoon-2026-beaver-moon-cold-moon-geminids-solstice, moon-phase-tonight-december-2026-moon-calendar]
 assets:
   overlay: true
   kicker: "Moon phase · Mon., Nov. 2, 2026"
