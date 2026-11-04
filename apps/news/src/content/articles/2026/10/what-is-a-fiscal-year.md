@@ -91,7 +91,7 @@ downloads:
     pdf: "/news/downloads/fiscal-year-2027/fiscal-year-quarter-dates-2027-ink.pdf"
     png: "/news/downloads/fiscal-year-2027/fiscal-year-quarter-dates-2027-ink.png"
     pages: 1
-related: [how-many-business-days-in-a-year, nrf-4-5-4-calendar-2027-fiscal-year-dates-53-week-year-2028-printable, why-some-years-have-53-weeks]
+related: [how-many-business-days-in-a-year, nrf-4-5-4-calendar-2027-fiscal-year-dates-53-week-year-2028-printable, calendar-quarters-2027-q1-q4-dates-days]
 assets:
   overlay: true
   kicker: "Calendar guide · Fiscal years"
