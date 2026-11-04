@@ -15,7 +15,7 @@ hero:
   caption: "NYT Pips for Monday, Nov. 16, 2026: where each board starts and two hints first, every domino placement only in the spoiler section."
 summary:
   - "Monday's Pips from The New York Times, Nov. 16, 2026: Easy and Medium by Ian Livengood, Hard by Rodolfo Kurchan."
-  - "The Hard board has 16 dominoes and 21 regions, 7 of them one-cell sums or targets that fix a value."
+  - "The Hard board has 16 dominoes and 21 regions, seven of them sums; five of those sums cover a single cell."
   - "No board uses a not-equal region today; the three boards share the same rule types in different mixes."
   - "Two hints per board come first; every placement, from the puzzle data and checked against each region's rule, is at the end."
 faq:
@@ -35,7 +35,7 @@ internalLinks:
     label: "November 2026 printable calendar"
   - href: "/printable-weekly-calendar.html"
     label: "Printable weekly calendar"
-related: [nyt-pips-hints-answers-november-15-2026, nyt-connections-hints-answers-november-15-2026-1253, nyt-strands-hints-answers-november-15-2026-987]
+related: [nyt-pips-hints-answers-november-15-2026, nyt-connections-hints-answers-november-16-2026-1254, nyt-strands-hints-answers-november-16-2026-988]
 draft: false
 ---
 
@@ -80,9 +80,9 @@ Counts come from the puzzle data for Nov. 16, 2026. Medium has no cell without a
 
 ## Reading the boards before you check
 
-Compare the sums first. Easy has one sum, over three cells, so most of its board is settled by the equal pair and the two one-cell limits. Medium leans on less-than and more-than regions, which allow several values each, so expect a few moves to hold more than one fit until the dominoes run out. Hard has seven sums, three of them one-cell targets of 3. Hard has three doubles: 3-3, 4-4 and 0-0. Easy has none and Medium has one, 1-1.
+Compare the sums first. Easy has one sum, over three cells, plus one equal pair. Medium has two sums and five less-than or more-than regions. Hard has seven sums, three of them one-cell targets of 3. Hard has three doubles: 3-3, 4-4 and 0-0. Easy has none and Medium has one, 1-1.
 
-More of Monday's puzzles come out at midnight; until then, try Sunday's [Connections hints](/news/nyt-connections-hints-answers-november-15-2026-1253/) and [Strands hints](/news/nyt-strands-hints-answers-november-15-2026-987/). Track your solve times on our [printable weekly calendar](/printable-weekly-calendar.html) or the [November 2026 calendar](/november-calendars.html).
+More of Monday's puzzles: [Wordle hints](/news/wordle-hint-answer-today-november-16-2026-1976/), [Connections hints](/news/nyt-connections-hints-answers-november-16-2026-1254/) and [Strands hints](/news/nyt-strands-hints-answers-november-16-2026-988/). Track your solve times on our [printable weekly calendar](/printable-weekly-calendar.html) or the [November 2026 calendar](/november-calendars.html).
 
 ## Monday's Pips answers, Nov. 16, 2026 (spoilers)
 
