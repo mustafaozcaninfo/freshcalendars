@@ -50,7 +50,7 @@ internalLinks:
     label: "December 2026 printable calendar"
   - href: "/march-calendars.html"
     label: "March 2027 printable calendar"
-related: [snow-days-2026-27-school-closures-make-up-days, spring-break-2027-dates-school-districts, winter-break-2026-school-districts-dates]
+related: [boston-public-schools-calendar-2026-27-breaks, snow-days-2026-27-school-closures-make-up-days, spring-break-2027-dates-school-districts]
 assets:
   overlay: true
   kicker: "Philadelphia schools 2026-27"

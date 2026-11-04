@@ -1,10 +1,10 @@
 ---
-title: "Wordle Answers 2026: Every Word So Far and the 28 Old Answers That Came Back"
+title: "Wordle Answers 2026: Every Word So Far and the 29 Old Answers That Came Back"
 seoTitle: "Wordle Answers 2026: Full List and Repeat Answers"
-description: "The New York Times (NYT) Wordle list for 2026, #1657 to #1955: all 299 answers by month and the 28 past answers that came back, starting with Cigar."
+description: "The New York Times (NYT) Wordle list for 2026, #1657 to #1964: all 308 answers by month and the 29 past answers that came back, starting with Cigar."
 type: analysis
 publishedAt: "2026-10-26T03:29:00-04:00"
-updatedAt: "2026-10-31T04:46:00-04:00"
+updatedAt: "2026-11-04T12:50:00-05:00"
 authors: [news-desk]
 category: puzzles
 keywords: ["Wordle answers 2026", "Wordle 2026 answer list", "Wordle repeat answers", "Wordle answer list", "has Wordle repeated words"]
@@ -12,53 +12,54 @@ hero:
   src: ../../../../assets/news/wordle-answers-2026-full-list-repeat-answers/wordle-answers-2026-full-list-repeat-answers.jpg
   alt: "Wordle answers 2026: a five-by-six word grid with green and yellow tiles and no letters shown"
   title: "Wordle answers, 2026"
-  caption: "Wordle puzzles #1657 to #1955 ran from Jan. 1 to Oct. 26, 2026, and 28 of the answers had been used before."
+  caption: "Wordle puzzles #1657 to #1964 ran from Jan. 1 to Nov. 4, 2026, and 29 of the answers had been used before."
 summary:
-  - "Wordle published 299 puzzles in 2026 through Mon., Oct. 26, from #1657 on Jan. 1 to #1955, according to The New York Times puzzle data."
+  - "Wordle published 308 puzzles in 2026 through Wed., Nov. 4, from #1657 on Jan. 1 to #1964, according to The New York Times puzzle data."
   - "Cigar on Feb. 2 (#1689) was the first 2026 answer to repeat an earlier one; the same word was the very first Wordle, #0, on June 19, 2021."
-  - "Through Oct. 26, 28 of the 2026 answers (9.4%) had been used before, and 24 of them first appeared in 2021."
-  - "The 28 repeats came back after 4.5 years on average, from 1.4 years (Sandy) to 5.3 years (Stink)."
+  - "Through Nov. 4, 29 of the 2026 answers (9.4%) had been used before, and 25 of them first appeared in 2021."
+  - "The 29 repeats came back after 4.5 years on average, from 1.4 years (Sandy) to 5.3 years (Stink)."
 faq:
   - q: "Has Wordle repeated an answer?"
-    a: "Yes. In the New York Times puzzle data, every answer from #0 (June 19, 2021) to #1688 was different. The first repeat was Cigar on Feb. 2, 2026 (#1689), and 28 repeats had appeared by Oct. 26, 2026."
+    a: "Yes. In the New York Times puzzle data, every answer from #0 (June 19, 2021) to #1688 was different. The first repeat was Cigar on Feb. 2, 2026 (#1689), and 29 repeats had appeared by Nov. 4, 2026."
   - q: "What was the first repeated Wordle answer?"
     a: "Cigar, on Mon., Feb. 2, 2026 (#1689). It was also the answer to the first Wordle, #0, on June 19, 2021."
   - q: "How many Wordle answers repeated in 2026?"
-    a: "28 of the 299 answers from Jan. 1 to Oct. 26, 2026, or 9.4%."
+    a: "29 of the 308 answers from Jan. 1 to Nov. 4, 2026, or 9.4%."
   - q: "Can a past Wordle answer come back?"
-    a: "The puzzle data shows 28 past answers returning in 2026, so a word that appears on a list of past answers cannot be ruled out."
+    a: "The puzzle data shows 29 past answers returning in 2026, so a word that appears on a list of past answers cannot be ruled out."
   - q: "Which repeat came after the longest wait?"
     a: "Stink, on Mon., Oct. 19, 2026 (#1948). It was first used on July 3, 2021 (#14), 1,934 days (5.3 years) earlier."
 sources:
   - title: "Wordle"
     url: "https://www.nytimes.com/games/wordle/index.html"
     publisher: "The New York Times"
-    date: "2026-10-26"
+    date: "2026-11-04"
 internalLinks:
   - href: "/printable-yearly-calendar.html"
     label: "2026 printable yearly calendar"
   - href: "/october-calendars.html"
     label: "October 2026 printable calendar"
-related: [wordle-hint-answer-today-october-26-2026-1955, wordle-hint-answer-today-october-25-2026-1954, past-wordle-answers-every-word-since-2021]
+related: [wordle-hint-answer-today-november-4-2026-1964, wordle-answers-october-2026-all-words, past-wordle-answers-every-word-since-2021]
 draft: false
 downloads:
   - group: "Wordle Repeat Answers printables"
     title: "Wordle Repeat Answers, 2026"
-    description: "Printable checklist of the 28 past Wordle answers that returned in 2026, from Feb. 2 to Oct. 19, with the date each was first used."
+    description: "Printable checklist of the 29 past Wordle answers that returned in 2026, from Feb. 2 to Oct. 29, with the date each was first used."
     preview: ../../../../assets/news/wordle-2026/wordle-repeat-answers-2026.png
-    alt: "Printable checklist of the 28 Wordle answers that repeated an earlier answer in 2026"
+    alt: "Printable checklist of the 29 Wordle answers that repeated an earlier answer in 2026"
     pdf: "/news/downloads/wordle-2026/wordle-repeat-answers-2026.pdf"
     png: "/news/downloads/wordle-2026/wordle-repeat-answers-2026.png"
     pages: 1
 assets:
   scene: none
   kicker: "Wordle answers · 2026"
-  card: { top: "299 puzzles in 2026", big: "28 repeats", bottom: "Jan. 1 to Mon., Oct. 26" }
+  card: { top: "308 puzzles in 2026", big: "29 repeats", bottom: "Jan. 1 to Wed., Nov. 4" }
   printable:
     slug: wordle-repeat-answers-2026
+    noKit: "A checklist of the past answers that came back across the whole year; puzzle-month lays out one month of daily answers"
     group: wordle-2026
     title: "Wordle Repeat Answers, 2026"
-    subtitle: "Past answers that returned, through Oct. 26"
+    subtitle: "Past answers that returned, through Nov. 4"
     layout: checklist
     rows:
       - { when: "Mon., Feb. 2", what: "Cigar (first used #0, June 19, 2021)", section: "February to May" }
@@ -89,15 +90,16 @@ assets:
       - { when: "Wed., Oct. 7", what: "Prove (first used #163, Nov. 29, 2021)", section: "June to October" }
       - { when: "Fri., Oct. 9", what: "Major (first used #20, July 9, 2021)", section: "June to October" }
       - { when: "Mon., Oct. 19", what: "Stink (first used #14, July 3, 2021)", section: "June to October" }
+      - { when: "Thu., Oct. 29", what: "Motor (first used #111, Oct. 8, 2021)", section: "June to October" }
     note: "Source: The New York Times, Wordle puzzle data."
-    description: "Printable checklist of the 28 past Wordle answers that returned in 2026, from Feb. 2 to Oct. 19, with the date each was first used."
-    alt: "Printable checklist of the 28 Wordle answers that repeated an earlier answer in 2026"
+    description: "Printable checklist of the 29 past Wordle answers that returned in 2026, from Feb. 2 to Oct. 29, with the date each was first used."
+    alt: "Printable checklist of the 29 Wordle answers that repeated an earlier answer in 2026"
 ---
-**Wordle published 299 puzzles in 2026 through Mon., Oct. 26, from #1657 on Jan. 1 to #1955, and 28 of those answers had already been used in earlier years, according to The New York Times (NYT) puzzle data.** The first repeat was Cigar on Feb. 2 (#1689), the same word as the very first Wordle, #0, on June 19, 2021. This page gives away every answer, so stop here if you still have a puzzle to solve. The list runs through Oct. 26, 2026, and we add each day's word as the month goes. No future answers are listed.
+**Wordle published 308 puzzles in 2026 through Wed., Nov. 4, from #1657 on Jan. 1 to #1964, and 29 of those answers had already been used in earlier years, according to The New York Times (NYT) puzzle data.** The first repeat was Cigar on Feb. 2 (#1689), the same word as the very first Wordle, #0, on June 19, 2021. This page gives away every answer, so stop here if you still have a puzzle to solve. The list runs through Nov. 4, 2026, and we add new days in batches. No future answers are listed.
 
 ## Which Wordle answers repeated in 2026?
 
-In the puzzle data, every answer from #0 on June 19, 2021 to #1688 on Feb. 1, 2026 was different: 1,689 puzzles with no repeat. From Feb. 2, 2026, an answer used in an earlier year started coming back. The table lists all 28 through Oct. 26, in the order they returned. Years apart is the number of days between the two dates divided by 365.25, rounded to one decimal.
+In the puzzle data, every answer from #0 on June 19, 2021 to #1688 on Feb. 1, 2026 was different: 1,689 puzzles with no repeat. From Feb. 2, 2026, an answer used in an earlier year started coming back. The table lists all 29 through Nov. 4, in the order they returned. Years apart is the number of days between the two dates divided by 365.25, rounded to one decimal.
 
 | Word | First used (date, #) | Returned (date, #) | Years apart |
 |---|---|---|---|
@@ -129,24 +131,25 @@ In the puzzle data, every answer from #0 on June 19, 2021 to #1688 on Feb. 1, 20
 | Prove | Nov. 29, 2021 (#163) | Oct. 7, 2026 (#1936) | 4.9 |
 | Major | July 9, 2021 (#20) | Oct. 9, 2026 (#1938) | 5.3 |
 | Stink | July 3, 2021 (#14) | Oct. 19, 2026 (#1948) | 5.3 |
+| Motor | Oct. 8, 2021 (#111) | Oct. 29, 2026 (#1958) | 5.1 |
 
-Source: The New York Times, [Wordle](https://www.nytimes.com/games/wordle/index.html), puzzle data for June 19, 2021 to Oct. 26, 2026. We compared every answer with all earlier ones. No word has appeared three times.
+Source: The New York Times, [Wordle](https://www.nytimes.com/games/wordle/index.html), puzzle data for June 19, 2021 to Nov. 4, 2026. We compared every answer with all earlier ones. No word has appeared three times.
 
 ## How often did old answers come back?
 
-| Measure | Result, Jan. 1 to Oct. 26, 2026 |
+| Measure | Result, Jan. 1 to Nov. 4, 2026 |
 |---|---|
-| Puzzles in 2026 | 299 (#1657 to #1955) |
-| Repeats | 28, or 9.4% of the 2026 answers |
-| Puzzles from Feb. 2 on, the first repeat | 267, so 10.5% of them were repeats |
-| Average gap | 4.5 years (1,644 days) |
+| Puzzles in 2026 | 308 (#1657 to #1964) |
+| Repeats | 29, or 9.4% of the 2026 answers |
+| Puzzles from Feb. 2 on, the first repeat | 276, so 10.5% of them were repeats |
+| Average gap | 4.5 years (1,651 days) |
 | Longest gap | Stink: July 3, 2021 (#14) to Oct. 19, 2026 (#1948), 1,934 days, 5.3 years |
 | Second longest | Major: July 9, 2021 (#20) to Oct. 9, 2026 (#1938), 1,918 days, 5.3 years |
 | Shortest gap | Sandy: Oct. 27, 2024 (#1226) to Apr. 4, 2026 (#1750), 524 days, 1.4 years |
-| First used in 2021 | 24 of the 28 |
+| First used in 2021 | 25 of the 29 |
 | First used later | Squad and Focus (2022), Smile (2023), Sandy (2024) |
 
-The 24 words from 2021 were all first used in the first 191 puzzles, #0 to #190.
+The 25 words from 2021 were all first used in the first 191 puzzles, #0 to #190.
 
 ### How many repeats came in each month?
 
@@ -161,23 +164,24 @@ The 24 words from 2021 were all first used in the first 191 puzzles, #0 to #190.
 | July | 3 |
 | August | 4 |
 | September | 2 |
-| October (through Oct. 26) | 3 |
+| October | 4 |
+| November (through Nov. 4) | 0 |
 
-That adds up to 28. Months ran from two to four repeats after January, so the pace has not grown or shrunk in a clear direction.
+That adds up to 29. Months ran from two to four repeats after January, so the pace has not grown or shrunk in a clear direction.
 
 ## What does this mean for Wordle players?
 
 These are counts from past puzzles, not a forecast of any answer. Three points follow from the data.
 
-- **A past answer is no longer ruled out.** Through Oct. 26, 28 of 299 answers in 2026 (9.4%) were words used before, so a word that appears on a list of past answers can still come back.
+- **A past answer is no longer ruled out.** Through Nov. 4, 29 of 308 answers in 2026 (9.4%) were words used before, so a word that appears on a list of past answers can still come back.
 - **A list of old answers is a partial filter.** About one in ten 2026 answers was a repeat, and about nine in ten were new to the puzzle.
-- **Most repeats come from the early years.** 24 of the 28 first appeared in 2021, and 25 of the 28 came back after more than four years.
+- **Most repeats come from the early years.** 25 of the 29 first appeared in 2021, and 26 of the 29 came back after more than four years.
 
-For the single puzzle in front of you, the [Wordle hint page for Oct. 26, 2026](/news/wordle-hint-answer-today-october-26-2026-1955/) covers that day's puzzle. Every Wordle story is on the [Wordle hub](/news/topic/wordle/). Every answer since 2021 is in our [past Wordle answers list](/news/past-wordle-answers-every-word-since-2021/). To keep your own streak, use the [2026 printable yearly calendar](/printable-yearly-calendar.html).
+For the single puzzle in front of you, the [Wordle hint page for Nov. 4, 2026](/news/wordle-hint-answer-today-november-4-2026-1964/) covers that day's puzzle. Every Wordle story is on the [Wordle hub](/news/topic/wordle/). Every answer since 2021 is in our [past Wordle answers list](/news/past-wordle-answers-every-word-since-2021/). To keep your own streak, use the [2026 printable yearly calendar](/printable-yearly-calendar.html).
 
 ## What was every Wordle answer in 2026?
 
-The tables below list each puzzle from #1657 to #1955. A repeat is marked "(repeat)". October stops at Oct. 26; the full month, with letter counts, is in our October 2026 Wordle answers story, which publishes on Oct. 31. The June 10 answer (#1817) is given as a clue because our style list keeps that word out of our copy: a five-letter verb meaning to put in a straight line, starting with A.
+The tables below list each puzzle from #1657 to #1964. A repeat is marked "(repeat)". November so far runs through Nov. 4. The full October list, with letter counts, is in our [October 2026 Wordle answers story](/news/wordle-answers-october-2026-all-words/). The June 10 answer (#1817) is given as a clue because our style list keeps that word out of our copy: a five-letter verb meaning to put in a straight line, starting with A.
 
 ### January 2026
 
@@ -527,9 +531,23 @@ The tables below list each puzzle from #1657 to #1955. A repeat is marked "(repe
 | Sat., Oct. 24 | #1953 | Holey |
 | Sun., Oct. 25 | #1954 | Dress |
 | Mon., Oct. 26 | #1955 | Geeky |
+| Tue., Oct. 27 | #1956 | Bingo |
+| Wed., Oct. 28 | #1957 | Grist |
+| Thu., Oct. 29 | #1958 | Motor (repeat) |
+| Fri., Oct. 30 | #1959 | Slide |
+| Sat., Oct. 31 | #1960 | Yahoo |
 
-Source: The New York Times, [Wordle](https://www.nytimes.com/games/wordle/index.html), puzzle data for Jan. 1 to Oct. 26, 2026. Tracy Bennett is the listed editor of all 299 puzzles. For the October calendar, see the [October 2026 printable calendar](/october-calendars.html).
+### November 2026
 
-## Printable list of the 28 repeat answers
+| Date | # | Answer |
+|---|---|---|
+| Sun., Nov. 1 | #1961 | Viper |
+| Mon., Nov. 2 | #1962 | Scoot |
+| Tue., Nov. 3 | #1963 | Pouch |
+| Wed., Nov. 4 | #1964 | Nutty |
+
+Source: The New York Times, [Wordle](https://www.nytimes.com/games/wordle/index.html), puzzle data for Jan. 1 to Nov. 4, 2026. Tracy Bennett is the listed editor of all 308 puzzles. For the October calendar, see the [October 2026 printable calendar](/october-calendars.html).
+
+## Printable list of the 29 repeat answers
 
 The printable checklist has every repeat, the date it came back and the date it was first used, so you can tick them off against your own record.
