@@ -1,6 +1,6 @@
 {
-  "asOf": "2026-11-03T19:31:00-05:00",
-  "headline": "Polls have closed in most of Florida and North Carolina and in Georgia, Indiana, Kentucky, Ohio, South Carolina, Vermont, Virginia and West Virginia. One race is marked called: Virginia's U.S. Senate seat.",
+  "asOf": "2026-11-03T19:52:28-05:00",
+  "headline": "Polls have closed in most of Florida and North Carolina and in Georgia, Indiana, Kentucky, Ohio, South Carolina, Vermont, Virginia and West Virginia. Two races are marked called: the U.S. Senate seats in Virginia and Georgia.",
   "races": {
     "VA-S": {
       "status": "called",
@@ -11,6 +11,16 @@
         "CBS News"
       ],
       "at": "2026-11-03T19:10:00-05:00"
+    },
+    "GA-S": {
+      "status": "called",
+      "winner": "Jon Ossoff",
+      "winnerParty": "D",
+      "calledBy": [
+        "NBC News",
+        "CBS News"
+      ],
+      "at": "2026-11-03T19:38:00-05:00"
     }
   },
   "house": {}
