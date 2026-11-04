@@ -3,7 +3,7 @@ title: "Champions League Matchday 6 on Dec. 8-9, 2026: Every Kickoff in ET"
 seoTitle: "Champions League Matchday 6 Times in ET: Dec. 8-9, 2026"
 description: "Champions League matchday 6 is Tue., Dec. 8 and Wed., Dec. 9, 2026, at 12:45 p.m. or 3 p.m. Eastern Time (ET), which is 9:45 a.m. or noon Pacific Time (PT)."
 type: news
-publishedAt: "2026-11-04T11:40:00-05:00"
+publishedAt: "2026-11-04T10:50:00-05:00"
 authors: [jessica-hartwell]
 category: sports
 keywords: ["champions league schedule december 2026", "champions league matchday 6", "arsenal vs real madrid champions league time", "barcelona vs manchester city time"]
@@ -78,6 +78,15 @@ sources:
     url: "https://www.cbssports.com/soccer/news/uefa-and-cbs-sportsparamount-reach-six-year-deal-to-air-champions-league-europa-and-conference-league/"
     publisher: "CBS Sports"
     date: "2022-08-19"
+downloads:
+  - group: "Champions League Matchday 6 Times in ET printables"
+    title: "Champions League Matchday 6 Times in ET, Dec. 8-9, 2026"
+    description: "One-page Champions League matchday 6 watch guide for Dec. 8-9, 2026: all 18 games with kickoff times in Eastern, Pacific and Greenwich Mean Time."
+    preview: ../../../../assets/news/champions-league-2026-27/champions-league-december-2026-matchday-6-times-et.png
+    alt: "Printable Champions League matchday 6 watch guide for Dec. 8-9, 2026 with kickoff times in ET, PT and GMT"
+    pdf: "/news/downloads/champions-league-2026-27/champions-league-december-2026-matchday-6-times-et.pdf"
+    png: "/news/downloads/champions-league-2026-27/champions-league-december-2026-matchday-6-times-et.png"
+    pages: 1
 internalLinks:
   - href: "/december-calendars.html"
     label: "December 2026 printable calendar"
@@ -95,7 +104,7 @@ UEFA's fixtures page, last updated Nov. 4, 2026, says "Kick-offs are 21:00 unles
 
 ## Champions League matchday 6 kickoff times in ET, PT and GMT
 
-The home team is named first. Two clubs go by initials: Linzer Athletik-Sport-Klub (LASK) and Athlitiki Enosis Konstantinoupoleos (AEK) of Athens; PSV Eindhoven is Philips Sport Vereniging (PSV). ET, PT and GMT are our conversions of UEFA's CET kickoffs.
+The home team is named first. Two clubs go by initials: Linzer Athletik-Sport-Klub (LASK) and Athlitiki Enosis Konstantinoupoleos (AEK) of Athens; Philips Sport Vereniging (PSV) is the club in Eindhoven. ET, PT and GMT are our conversions of UEFA's CET kickoffs.
 
 | Date | Game | CET | ET | PT | GMT |
 |---|---|---|---|---|---|
@@ -120,7 +129,7 @@ The home team is named first. Two clubs go by initials: Linzer Athletik-Sport-Kl
 
 ## What time are Arsenal vs Real Madrid and Barcelona vs Manchester City?
 
-Arsenal v Real Madrid is Wednesday, Dec. 9, at 21:00 CET: 3 p.m. ET, noon PT and 8pm GMT. Barcelona v Manchester City is Tuesday, Dec. 8, at the same times. Aston Villa v Paris Saint-Germain and Manchester United v Leipzig are also on Dec. 8 at 3 p.m. ET. Paris Saint-Germain also feature in our [FIFA Intercontinental Cup 2026 dates in Qatar](/news/fifa-intercontinental-cup-2026-qatar-dates/) story.
+Arsenal v Real Madrid is Wednesday, Dec. 9, at 21:00 CET: 3 p.m. ET, noon PT and 8pm GMT. Barcelona v Manchester City is Tuesday, Dec. 8, at the same times. Aston Villa v Paris Saint-Germain and Manchester United v Leipzig are also on Dec. 8 at 3 p.m. ET. Paris Saint-Germain also feature in our [Fédération Internationale de Football Association (FIFA) Intercontinental Cup 2026 dates in Qatar](/news/fifa-intercontinental-cup-2026-qatar-dates/) story.
 
 ## When do the 12:45 p.m. ET games start on Dec. 8 and 9?
 

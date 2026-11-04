@@ -3,7 +3,7 @@ title: "Sundance Film Festival 2027 in Boulder: Dates, Online Screenings, Lineup
 seoTitle: "Sundance 2027 Dates in Boulder, Online Screenings"
 description: "The 2027 Sundance Film Festival runs Jan. 21-31 in Boulder, Colorado, with online screenings Jan. 28-31, the Sundance Institute says. Lineup due in December."
 type: news
-publishedAt: "2026-11-04T11:40:00-05:00"
+publishedAt: "2026-11-04T10:50:00-05:00"
 authors: [jessica-hartwell]
 category: entertainment
 keywords: ["sundance 2027 dates", "sundance boulder 2027", "sundance film festival 2027 tickets", "sundance 2027 online screenings"]
@@ -117,7 +117,7 @@ The Institute's pages give these dates. It has not posted screening times, so th
 | Fri., Jan. 29 | Jury and audience awards announced | Institute, July 29, 2026 |
 | Sun., Jan. 31 | Festival and online screenings end | Institute, July 29, 2026 |
 
-The Institute wrote that "World premieres will be held Thursday, January 21, to Tuesday, January 26," and that the Legacy program, announced Oct. 21, 2026, runs from Jan. 27 through Sunday, Jan. 31. The release prints the start as "Tuesday, January 27," but Jan. 27, 2027, is a Wednesday, so the table uses Wednesday. The festival spans 11 days, counting both Jan. 21 and Jan. 31.
+The Institute wrote that "World premieres will be held Thursday, January 21, to Tuesday, January 26," and that the Legacy program, announced Oct. 21, 2026, runs from Jan. 27 through Sunday, Jan. 31. Jan. 27, 2027, falls on a Wednesday. The festival spans 11 days, counting both Jan. 21 and Jan. 31.
 
 ## Can you watch Sundance 2027 online?
 

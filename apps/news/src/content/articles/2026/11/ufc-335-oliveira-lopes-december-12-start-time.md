@@ -3,7 +3,7 @@ title: "UFC 335 Start Time: Oliveira vs. Lopes Main Card 9 p.m. ET Dec. 12 in La
 seoTitle: "UFC 335 Start Time: Main Card 9 p.m. ET Dec. 12"
 description: "Ultimate Fighting Championship (UFC) 335 is Sat., Dec. 12, 2026, in Las Vegas: main card 9 p.m. Eastern Time (ET), 6 p.m. Pacific Time (PT), on Paramount+."
 type: news
-publishedAt: "2026-11-04T11:40:00-05:00"
+publishedAt: "2026-11-04T10:50:00-05:00"
 authors: [jessica-hartwell]
 category: sports
 keywords: ["UFC 335 start time", "UFC 335 time", "UFC 335 main card time", "Oliveira vs Lopes time", "UFC 335 how to watch"]

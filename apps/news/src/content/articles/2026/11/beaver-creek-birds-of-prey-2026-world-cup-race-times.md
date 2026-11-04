@@ -1,9 +1,9 @@
 ---
 title: "Birds of Prey 2026 at Beaver Creek: Seven World Cup Races Dec. 3-13, Start Times"
 seoTitle: "Birds of Prey 2026 Beaver Creek: Race Start Times"
-description: "Birds of Prey 2026 at Beaver Creek, Colorado runs Dec. 3-13: first men's downhill Dec. 3 at 11 a.m. Mountain Time (MT), 1 p.m. Eastern Time (ET), seven races in all."
+description: "Birds of Prey 2026 at Beaver Creek, Colorado runs Dec. 3-13: first men's downhill Dec. 3 at 11 a.m. Mountain Time (MT), 1 p.m. Eastern Time (ET); seven races."
 type: news
-publishedAt: "2026-11-04T10:40:00-05:00"
+publishedAt: "2026-11-04T10:50:00-05:00"
 authors: [jessica-hartwell]
 category: sports
 keywords: ["birds of prey 2026", "beaver creek world cup 2026", "birds of prey race schedule", "beaver creek downhill 2026 start time"]
@@ -25,13 +25,13 @@ assets:
     data:
       pick: "My race"
       events:
-        - { start: "2026-12-03T11:00-07:00", title: "Men's downhill", detail: "Red Tail Stadium, Beaver Creek", src: 1, quote: "Thu. Dec. 3 11:00 am Men's Downhill" }
-        - { start: "2026-12-04T11:00-07:00", title: "Men's downhill", detail: "Red Tail Stadium, Beaver Creek", src: 1, quote: "Fri. Dec. 4 11:00 am Men's Downhill" }
-        - { start: "2026-12-05T10:30-07:00", title: "Men's super-G", detail: "Red Tail Stadium, Beaver Creek", src: 1, quote: "Sat. Dec. 5 10:30 am Men's Super-G" }
-        - { start: "2026-12-06T10:00-07:00", title: "Men's giant slalom", detail: "Red Tail Stadium, Beaver Creek", src: 1, quote: "Sun. Dec. 6 10:00 am Men's Giant Slalom" }
-        - { start: "2026-12-11T11:00-07:00", title: "Women's downhill", detail: "Red Tail Stadium, Beaver Creek", src: 1, quote: "Fri. Dec. 11 11:00 am Women's Downhill" }
-        - { start: "2026-12-12T11:00-07:00", title: "Women's downhill", detail: "Red Tail Stadium, Beaver Creek", src: 1, quote: "Sat. Dec. 12 11:00 am Women's Downhill" }
-        - { start: "2026-12-13T11:00-07:00", title: "Women's super-G", detail: "Red Tail Stadium, Beaver Creek", src: 1, quote: "Sun. Dec. 13 11:00 am Women's Super-G" }
+        - { start: "2026-12-03T11:00-07:00", title: "Men's downhill", detail: "Red Tail Stadium, Beaver Creek", src: 1, quote: "Thursday Dec 3, 2026 11:00 am" }
+        - { start: "2026-12-04T11:00-07:00", title: "Men's downhill", detail: "Red Tail Stadium, Beaver Creek", src: 1, quote: "Friday Dec 4, 2026 11:00 am" }
+        - { start: "2026-12-05T10:30-07:00", title: "Men's super-G", detail: "Red Tail Stadium, Beaver Creek", src: 1, quote: "Saturday Dec 5, 2026 10:30 am" }
+        - { start: "2026-12-06T10:00-07:00", title: "Men's giant slalom", detail: "Red Tail Stadium, Beaver Creek", src: 1, quote: "Sunday Dec 6, 2026 10:00 am" }
+        - { start: "2026-12-11T11:00-07:00", title: "Women's downhill", detail: "Red Tail Stadium, Beaver Creek", src: 1, quote: "Friday Dec 11, 2026 11:00 am" }
+        - { start: "2026-12-12T11:00-07:00", title: "Women's downhill", detail: "Red Tail Stadium, Beaver Creek", src: 1, quote: "Saturday Dec 12, 2026 11:00 am" }
+        - { start: "2026-12-13T11:00-07:00", title: "Women's super-G", detail: "Red Tail Stadium, Beaver Creek", src: 1, quote: "Sunday Dec 13, 2026 11:00 am" }
       fill: { title: "My Birds of Prey plan", labels: ["Where I'm watching", "Who I'm watching with"] }
       unconfirmed:
         - { label: "2026 U.S. TV and streaming", why: "Not yet announced as of Nov. 4, 2026" }
