@@ -22,7 +22,7 @@ summary:
   - "Fort Worth Independent School District (FWISD) lists Thanksgiving break as Nov. 23-27, 2026, with students returning Monday, Nov. 30 by our reading."
   - "Winter break is Monday, Dec. 21, 2026 to Friday, Jan. 1, 2027. Jan. 4 is a staff day and students return Tuesday, Jan. 5, 2027."
   - "Spring break is March 15-19, 2027, and the last day of school is Friday, May 21, 2027."
-  - "Some ELEVATE campuses follow the Accelerated Day School Year (ADSY) calendar, which adds 25 summer days, Monday, May 24 to Tuesday, June 29, 2027."
+  - "Nineteen campuses listed on the district calendar follow the Accelerated Day School Year (ADSY) calendar, which adds 25 summer days, Monday, May 24 to Tuesday, June 29, 2027."
 faq:
   - q: "When is Fort Worth ISD Thanksgiving break in 2026?"
     a: "Nov. 23-27, 2026, Monday to Friday, on the traditional and the ADSY calendars. By our reading, with no closure marked on Nov. 30, students return Monday, Nov. 30."
@@ -85,7 +85,7 @@ assets:
         - { from: "2026-11-23", to: "2026-11-27", kind: break, label: "Thanksgiving break", src: 1, quote: "Nov. 23-27 ...Thanksgiving Break" }
         - { from: "2026-12-21", to: "2027-01-01", kind: break, label: "Winter break", src: 1, quote: "Dec. 21-Jan. 1 ...Winter Break" }
         - { from: "2027-01-04", kind: holiday, label: "Staff day, no students", src: 1, quote: "Jan. 4 ..........Monday" }
-        - { from: "2027-01-18", kind: holiday, label: "MLK Jr. Day", src: 1, quote: "Jan. 18 ........MLK Jr Day" }
+        - { from: "2027-01-18", kind: holiday, label: "Martin Luther King Jr. Day", src: 1, quote: "Jan. 18" }
         - { from: "2027-02-15", kind: holiday, label: "Presidents Day, staff day", src: 1, quote: "Feb. 15 .........Monday" }
         - { from: "2027-03-15", to: "2027-03-19", kind: break, label: "Spring break", src: 1, quote: "Mar. 15-19 ...Spring Break" }
         - { from: "2027-03-26", kind: holiday, label: "Good Friday", src: 1, quote: "Mar. 26 .......Good Friday" }
@@ -155,7 +155,7 @@ Yes. Good Friday is March 26 and Monday, March 29 is a staff day, so students ar
 
 ## How does the ADSY calendar differ at Fort Worth ISD?
 
-The district says ADSY days are 25 days added to the traditional calendar for some campuses in its Elevate program, for acceleration, small-group support and enrichment. The ADSY PDF reads "175 Student Days + 25 ADSY Summer = 200 Student Days." Its breaks match the traditional calendar, so only the summer block differs.
+The district says ADSY days are 25 days added to the traditional calendar at 19 campuses it lists by name, for acceleration, small-group support and enrichment. The ADSY PDF reads "175 Student Days + 25 ADSY Summer = 200 Student Days." Its breaks match the traditional calendar, so only the summer block differs.
 
 | | Traditional | ADSY |
 |---|---|---|
