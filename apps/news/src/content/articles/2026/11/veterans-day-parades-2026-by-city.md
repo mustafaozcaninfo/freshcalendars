@@ -1,7 +1,7 @@
 ---
 title: "Veterans Day Parades 2026: Times and Routes in Birmingham, Houston, San Diego and More"
 seoTitle: "Veterans Day Parades 2026: Times and Routes by City"
-description: "Birmingham's parade is Wed., Nov. 11, 2026 at 1:00 p.m. Central Time (CT), Houston's 11:30 a.m. CT, San Diego's 10 a.m. Pacific Time (PT). Eastern Time (ET) listed."
+description: "Birmingham's parade is Nov. 11, 2026 at 1:00 p.m. Central Time (CT), Houston 11:30 a.m. CT, San Diego 10 a.m. Pacific Time (PT); Eastern Time (ET) too."
 type: news
 publishedAt: "2026-11-04T15:50:00-05:00"
 updatedAt: "2026-11-04T15:50:00-05:00"
