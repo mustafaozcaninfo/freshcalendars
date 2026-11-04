@@ -7,6 +7,7 @@ import AuthorCard from "../../components/AuthorCard.astro";
 import Breadcrumb from "../../components/Breadcrumb.astro";
 import CalendarLinks from "../../components/CalendarLinks.astro";
 import DownloadGrid from "../../components/DownloadGrid.astro";
+import PrintableTeaser from "../../components/PrintableTeaser.astro";
 import Corrections from "../../components/Corrections.astro";
 import Faq from "../../components/Faq.astro";
 import Hero from "../../components/Hero.astro";
@@ -197,7 +198,7 @@ const puzzleDay = pzThis ? {
     <AdSlot unit={6} variant="top" />
     <KeyPoints points={d.summary} />
     <KeyDates dates={keyDates} heading={keyDates.length === 1 ? "Key date" : "Key dates"} ics={`${articlePath(article.id)}dates.ics`} />
-    {d.downloads.length > 0 && <p class="jump"><a href="#downloads">{d.downloads.length} free printable{d.downloads.length === 1 ? "" : "s"} below ↓</a></p>}
+    <PrintableTeaser items={d.downloads} />
     <Toc headings={headings} />
     <div class="prose-news">
       <Content />
@@ -781,11 +782,9 @@ const puzzleDay = pzThis ? {
   .topic-links{display:flex;flex-wrap:wrap;align-items:center;gap:.25rem 1rem;margin:2rem 0 0;padding:.85rem 1rem;border-left:4px solid var(--gold);background:var(--surface-warm);border-radius:0 8px 8px 0}
   .topic-links span{flex-basis:100%;font-size:.8125rem;font-weight:700;text-transform:uppercase;letter-spacing:.08em;color:var(--ink)}
   .topic-links a{display:inline-flex;align-items:center;min-height:44px;font-weight:700}
-  .jump{margin:-.5rem 0 1.25rem;font-weight:700}
   .pz-jump{display:flex;flex-wrap:wrap;gap:.5rem;margin:0 0 .5rem}
   .pz-jump a{display:inline-flex;align-items:center;min-height:44px;padding:0 1.1rem;border:1px solid var(--focus);border-radius:999px;font-weight:700;text-decoration:none;color:var(--focus);background:var(--paper)}
   .pz-jump a:last-child{background:var(--focus);color:var(--paper)}
-  .jump a{display:inline-flex;align-items:center;min-height:44px}
   /* Readable measure (news sites measured 2026-11-03: 16-20px type, line-height 1.4-1.6, 580-640px
      columns, 67-81 characters a line; Baymard and WCAG 1.4.8 give 50-75, at most 80). Source Sans 3
      is narrow, so 18px on phones and 20px from tablets in the 640px column (.article-layout) give
