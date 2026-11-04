@@ -1,0 +1,59 @@
+name: Desk fire
+
+# Starts one desk routine on demand (docs/DESK.md "Starting a desk by hand"). Each desk runs on its own
+# account, so each routine has its own API trigger: its Fire URL and token are the secrets
+# FIRE_<DESK>_URL and FIRE_<DESK>_TOKEN (never in the repository or in chat). The script is
+# scripts/desk-fire.mjs; it starts exactly one session and never retries a request that may have
+# started one.
+#
+# Adding a desk: add its two secrets, then its two lines under `env:` below and its code to the
+# `desk` choices. Rotating a token: generate a new one in the routine (that revokes the old one) and
+# update the secret.
+on:
+  workflow_dispatch:
+    inputs:
+      desk:
+        description: Desk to start
+        type: choice
+        required: true
+        options: [w1, w2, s]
+      note:
+        description: Optional note for this run (data for the session, not a rule)
+        type: string
+        required: false
+        default: ""
+      dry_run:
+        description: Check the secrets and show the text, send nothing
+        type: boolean
+        required: false
+        default: false
+
+# One start at a time per desk, so a double click cannot start two sessions.
+concurrency:
+  group: desk-fire-${{ inputs.desk }}
+  cancel-in-progress: false
+
+permissions:
+  contents: read
+
+jobs:
+  fire:
+    runs-on: ubuntu-24.04
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v7
+      - name: Start the routine
+        env:
+          FIRE_W1_URL: ${{ secrets.FIRE_W1_URL }}
+          FIRE_W1_TOKEN: ${{ secrets.FIRE_W1_TOKEN }}
+          FIRE_W2_URL: ${{ secrets.FIRE_W2_URL }}
+          FIRE_W2_TOKEN: ${{ secrets.FIRE_W2_TOKEN }}
+          FIRE_S_URL: ${{ secrets.FIRE_S_URL }}
+          FIRE_S_TOKEN: ${{ secrets.FIRE_S_TOKEN }}
+          DESK: ${{ inputs.desk }}
+          NOTE: ${{ inputs.note }}
+          DRY: ${{ inputs.dry_run }}
+        run: |
+          flags=""
+          if [ "$DRY" = "true" ]; then flags="--dry-run"; fi
+          node scripts/desk-fire.mjs "$DESK" --note "$NOTE" $flags
