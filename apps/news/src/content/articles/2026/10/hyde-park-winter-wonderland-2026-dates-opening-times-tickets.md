@@ -69,7 +69,7 @@ internalLinks:
     label: "November 2026 printable calendar"
   - href: "/december-calendars.html"
     label: "December 2026 printable calendar"
-related: [uk-christmas-bank-holidays-2026-boxing-day-substitute-december-28, lord-mayors-show-2026-date-time-route-november-14, bonfire-night-2026-thursday-november-5-fireworks-rules]
+related: [uk-christmas-bank-holidays-2026-boxing-day-substitute-december-28, lord-mayors-show-2026-date-time-route-november-14, christmas-light-trails-2026-blenheim-chatsworth-chester-zoo-dates-prices]
 downloads:
   - group: "Hyde Park Winter Wonderland 2026 printables"
     title: "Hyde Park Winter Wonderland 2026: Opening Times"
