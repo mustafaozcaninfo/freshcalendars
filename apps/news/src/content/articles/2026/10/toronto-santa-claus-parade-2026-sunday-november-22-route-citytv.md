@@ -64,7 +64,7 @@ internalLinks:
     label: "Canada holidays"
   - href: "/december-calendars.html"
     label: "December 2026 printable calendar"
-related: [remembrance-day-2026-canada-statutory-holiday-remembrance-sunday-uk, boxing-day-2026-canada-saturday-december-26-day-off-monday-december-28, nyc-holiday-calendar-2026-rockefeller-tree-macys-parade]
+related: [remembrance-day-2026-canada-statutory-holiday-remembrance-sunday-uk, boxing-day-2026-canada-saturday-december-26-day-off-monday-december-28, ottawa-santa-claus-parade-2026-november-21-route-time]
 downloads:
   - group: "Santa Claus Parade 2026 Day Planner printables"
     title: "Santa Claus Parade 2026 Day Planner, Toronto and Ottawa"
@@ -110,7 +110,7 @@ assets:
 
 <p class="callout"><b>Checked Oct. 28, 2026.</b> Toronto's 2026 start time, route map and Toronto Transit Commission (TTC) notices are not yet out; we will update this story when they are.</p>
 
-**The 122nd Santa Claus Parade in Toronto is on Sunday, Nov. 22, 2026**, according to the parade's official website, thesantaclausparade.com. That is 25 days after Oct. 28, our count. Ottawa's Help Santa Toy Parade comes a day earlier, on Saturday, Nov. 21, at 11 a.m. Eastern Time (ET), according to toyparade.ca. Toronto and Ottawa are both on ET, which is Eastern Standard Time after Nov. 1.
+**The 122nd Santa Claus Parade in Toronto is on Sunday, Nov. 22, 2026**, according to the parade's official website, thesantaclausparade.com. That is 25 days after Oct. 28, our count. Ottawa's Help Santa Toy Parade comes a day earlier, on Saturday, Nov. 21, at 11 a.m. Eastern Time (ET), according to toyparade.ca; see our [Ottawa Santa Claus Parade story](/news/ottawa-santa-claus-parade-2026-november-21-route-time/) for its route. Toronto and Ottawa are both on ET, which is Eastern Standard Time after Nov. 1.
 
 This story puts both parades in one table, lists what organizers have not yet announced, and offers a one-page planner you can print.
 

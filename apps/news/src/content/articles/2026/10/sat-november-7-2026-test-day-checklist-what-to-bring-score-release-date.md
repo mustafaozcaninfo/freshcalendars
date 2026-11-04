@@ -97,7 +97,7 @@ internalLinks:
     label: "November 2026 printable calendar"
   - href: "/december-calendars.html"
     label: "December 2026 printable calendar"
-related: [sat-act-test-dates-2026-27-registration-deadlines, psat-scores-2026-release-date-november-5-november-12, ap-exam-schedule-2027-dates-times-registration-deadline]
+related: [sat-act-test-dates-2026-27-registration-deadlines, sat-december-5-2026-test-day-checklist-score-release-december-18, psat-scores-2026-release-date-november-5-november-12]
 downloads:
   - group: "SAT Test Day Checklist printables"
     title: "SAT Test Day Checklist, Nov. 7, 2026"
