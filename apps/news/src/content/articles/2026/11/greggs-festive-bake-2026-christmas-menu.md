@@ -33,9 +33,9 @@ assets:
         - { cells: { item: "Festive Bake", inside: "Cooked chicken, smoked ham hock and sweetcure bacon with soft cheese", kind: "Bake" }, src: 1, quote: "Our new and improved recipe features cooked chicken, smoked ham hock and sweetcure bacon with soft cheese." }
         - { cells: { item: "Pepperoni Pizza with Hot Honey", inside: "Focaccia-style base, jalapeños, red onion, hot honey sauce", kind: "Pizza" }, src: 1 }
         - { cells: { item: "Pigs in Blankets", inside: "A pot of six pork sausages wrapped in smoked streaky bacon", kind: "Side" }, src: 1 }
-        - { cells: { item: "Festive Flatbread", inside: "Filling not listed in our notes", kind: "Flatbread" }, src: 1 }
-        - { cells: { item: "Festive Feast Baguette", inside: "Filling not listed in our notes", kind: "Baguette" }, src: 1 }
-        - { cells: { item: "Pigs Under Blankets Toastie", inside: "Filling not listed in our notes", kind: "Toastie" }, src: 1 }
+        - { cells: { item: "Festive Flatbread", inside: "Greggs lists no filling", kind: "Flatbread" }, src: 1 }
+        - { cells: { item: "Festive Feast Baguette", inside: "Greggs lists no filling", kind: "Baguette" }, src: 1 }
+        - { cells: { item: "Pigs Under Blankets Toastie", inside: "Greggs lists no filling", kind: "Toastie" }, src: 1 }
       unconfirmed:
         - { label: "Prices", why: "Greggs does not list prices on its menu page" }
         - { label: "Vegan Festive Bake", why: "Not stated by Greggs" }
@@ -129,9 +129,9 @@ Greggs names six items. The table keeps to what its page says about each one.
 | Festive Bake | Cooked chicken, smoked ham hock and sweetcure bacon with soft cheese |
 | Pepperoni Pizza with Hot Honey | Focaccia-style base, jalapeños, red onion, hot honey sauce |
 | Pigs in Blankets | A pot of six pork sausages wrapped in smoked streaky bacon |
-| Festive Flatbread | Filling not listed in our notes |
-| Festive Feast Baguette | Filling not listed in our notes |
-| Pigs Under Blankets Toastie | Filling not listed in our notes |
+| Festive Flatbread | Greggs lists no filling |
+| Festive Feast Baguette | Greggs lists no filling |
+| Pigs Under Blankets Toastie | Greggs lists no filling |
 
 The Pigs in Blankets pot and the Pigs Under Blankets Toastie are two separate items on the page, so a search for the toastie lands on the sixth row, not the side.
 

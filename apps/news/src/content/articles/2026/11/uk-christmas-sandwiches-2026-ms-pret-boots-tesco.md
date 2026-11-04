@@ -1,5 +1,5 @@
 ---
-title: "Christmas Sandwiches 2026: Tesco and Aldi Prices, Greggs and Costa Dates, Who Is Still to Confirm"
+title: "Christmas Sandwiches 2026: Tesco and Aldi Prices, Greggs and Costa Dates, Others Pending"
 seoTitle: "Christmas Sandwiches 2026: Tesco, Aldi, Greggs, Costa"
 description: "Tesco's Christmas meal deal is £3.85 with a Clubcard from 12 October and Aldi's sandwiches start at £1.99 from 14 October. Greggs and Costa began on 22 October."
 type: news
@@ -213,12 +213,12 @@ Each row below stops at what could be checked. No 2026 names, prices or dates ar
 
 | Retailer | Status on 4 November 2026 | Last year |
 |---|---|---|
-| Marks & Spencer (M&S) | Reported by one publisher group only; the M&S newsroom has no 2026 release | Not in our notes |
-| Sainsbury's | Reported by one newsroom, and its dates conflict between 1 and 2 November | Not in our notes |
-| Boots | Reported by one newsroom; Boots' own newsroom shows only 2023 | Not in our notes |
+| Marks & Spencer (M&S) | Reported by one publisher group only; the M&S newsroom has no 2026 release | Not confirmed |
+| Sainsbury's | Reported by one newsroom, and its dates conflict between 1 and 2 November | Not confirmed |
+| Boots | Reported by one newsroom; Boots' own newsroom shows only 2023 | Not confirmed |
 | Pret | 2026 menu not announced | In 2025 Pret's Christmas menu was to be available across the UK "from 4th November until the end of December", Food Bible reported |
-| Morrisons | Its media centre lists a 20 October 2026 headline, "Morrisons Launches Christmas Sandwich Range"; we print no names or prices | Not in our notes |
-| Co-op, Waitrose, Asda, Lidl, Caffè Nero, Starbucks UK, Subway UK | No confirmation found | Not in our notes |
+| Morrisons | Its media centre lists a 20 October 2026 headline, "Morrisons Launches Christmas Sandwich Range"; we print no names or prices | Not confirmed |
+| Co-op, Waitrose, Asda, Lidl, Caffè Nero, Starbucks UK, Subway UK | No confirmation found | Not confirmed |
 
 The 2025 Pret dates are last year's and say nothing about 2026.
 
