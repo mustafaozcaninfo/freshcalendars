@@ -14,28 +14,38 @@ assets:
   date: "2027-01-27"
   card: { top: "International Holocaust Remembrance Day", big: "Wed., Jan. 27", bottom: "Liberation of Auschwitz-Birkenau, 1945" }
   printable:
-    slug: holocaust-remembrance-dates-2027
+    kit: activity-sheet
+    slug: holocaust-remembrance-day-2027-activity-sheet
     group: holocaust-remembrance-2027
-    title: "Holocaust Remembrance Dates 2027"
+    title: "Holocaust Remembrance Day 2027: Jan. 27 and Resources"
     subtitle: "International Holocaust Remembrance Day and Yom HaShoah, with USHMM resources"
-    noKit: "remembrance dates list"
-    layout: list
-    rows:
-      - ["Wed., Jan. 27, 2027", "International Holocaust Remembrance Day"]
-      - ["Tue., May 4, 2027", "Yom HaShoah (USHMM Remembrance Day Calendar)"]
-      - ["Thu., Jan. 27, 2028", "International Holocaust Remembrance Day"]
-      - ["Mon., Apr. 24, 2028", "Yom HaShoah"]
-      - ["Sat., Jan. 27, 2029", "International Holocaust Remembrance Day"]
-      - ["Thu., Apr. 12, 2029", "Yom HaShoah"]
-      - ["Sun., Jan. 27, 2030", "International Holocaust Remembrance Day"]
-      - ["Tue., Apr. 30, 2030", "Yom HaShoah"]
-      - ["Mon., Jan. 27, 2031", "International Holocaust Remembrance Day"]
-      - ["Tue., Jan. 27, 2032", "International Holocaust Remembrance Day"]
-      - ["Resource", "USHMM Holocaust Encyclopedia (ushmm.org)"]
-      - ["Resource", "The Path to Nazi Genocide, 38-minute film (USHMM)"]
-    note: "Source: United Nations, Observance; United States Holocaust Memorial Museum (USHMM), International Holocaust Remembrance Day and Remembrance Day Calendar. Jan. 27 weekdays computed by Fresh Calendars."
-    description: "One-page list of International Holocaust Remembrance Day dates for 2027 to 2032 and Yom HaShoah dates for 2027 to 2030, with two USHMM resources."
-    alt: "Printable list of Holocaust remembrance dates for 2027 to 2032"
+    notesLabel: "Names and stories I want to remember"
+    data:
+      day:
+        date: "2027-01-27"
+        name: "International Holocaust Remembrance Day"
+        src: 1
+        quote: "also designated 27 January as an annual International Day of Commemoration in memory of the victims of the Holocaust"
+      facts:
+        - text: "The USHMM says Jan. 27 is the anniversary of the liberation of Auschwitz-Birkenau."
+          src: 4
+          quote: "the anniversary of the liberation of Auschwitz-Birkenau"
+        - text: "On Jan. 27, 1945, Red Army soldiers liberated over 7000 prisoners of Auschwitz."
+          src: 3
+          quote: "On 27th January 1945, Red Army soldiers liberated over 7000 prisoners of Auschwitz."
+        - text: "Yom HaShoah is Tuesday, May 4, 2027, per the USHMM Remembrance Day Calendar."
+          src: 6
+          quote: "2027   Tuesday, May 4"
+      activities:
+        - type: checklist
+          title: "Ways to learn more (USHMM)"
+          items:
+            - "Read entries in the USHMM Holocaust Encyclopedia"
+            - "Watch 'The Path to Nazi Genocide', a 38-minute film"
+            - "Visit a local Holocaust memorial or museum"
+    note: "Source: United Nations, Observance; United States Holocaust Memorial Museum (USHMM), International Holocaust Remembrance Day and Remembrance Day Calendar; Auschwitz-Birkenau State Museum."
+    description: "One-page Holocaust Remembrance Day 2027 sheet: the Jan. 27 date, Yom HaShoah on May 4 and two USHMM resources, with space to remember names and stories."
+    alt: "Printable Holocaust Remembrance Day 2027 sheet with the Jan. 27 date, Yom HaShoah and USHMM resources"
 hero:
   src: ../../../../assets/news/international-holocaust-remembrance-day-2027-wednesday-january-27/international-holocaust-remembrance-day-2027-wednesday-january-27.webp
   alt: "The gate building of Auschwitz II-Birkenau and the rail tracks in snow, file photo for International Holocaust Remembrance Day 2027"
@@ -47,13 +57,13 @@ hero:
     source: "https://commons.wikimedia.org/wiki/File:Gate_of_Auschwitz_II,_28_November_2007.jpg"
     author: "Logaritmo"
 downloads:
-  - group: "Holocaust Remembrance Dates 2027 printables"
-    title: "Holocaust Remembrance Dates 2027"
-    description: "One-page list of International Holocaust Remembrance Day dates for 2027 to 2032 and Yom HaShoah dates for 2027 to 2030, with two USHMM resources."
-    preview: ../../../../assets/news/holocaust-remembrance-2027/holocaust-remembrance-dates-2027.png
-    alt: "Printable list of Holocaust remembrance dates for 2027 to 2032"
-    pdf: "/news/downloads/holocaust-remembrance-2027/holocaust-remembrance-dates-2027.pdf"
-    png: "/news/downloads/holocaust-remembrance-2027/holocaust-remembrance-dates-2027.png"
+  - group: "Holocaust Remembrance Day 2027 printables"
+    title: "Holocaust Remembrance Day 2027: Jan. 27 and Resources"
+    description: "One-page Holocaust Remembrance Day 2027 sheet: the Jan. 27 date, Yom HaShoah on May 4 and two USHMM resources, with space to remember names and stories."
+    preview: ../../../../assets/news/holocaust-remembrance-2027/holocaust-remembrance-day-2027-activity-sheet.png
+    alt: "Printable Holocaust Remembrance Day 2027 sheet with the Jan. 27 date, Yom HaShoah and USHMM resources"
+    pdf: "/news/downloads/holocaust-remembrance-2027/holocaust-remembrance-day-2027-activity-sheet.pdf"
+    png: "/news/downloads/holocaust-remembrance-2027/holocaust-remembrance-day-2027-activity-sheet.png"
     pages: 1
 summary:
   - "International Holocaust Remembrance Day is Wednesday, Jan. 27, 2027; United Nations General Assembly Resolution 60/7 designated Jan. 27 as an annual day of commemoration."
