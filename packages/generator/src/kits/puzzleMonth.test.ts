@@ -16,18 +16,23 @@ test("puzzle-month refuses an unknown or unbuilt game and a bad month", () => {
 });
 
 test("puzzle-month loads the saved data and refuses only the days with no file", () => {
-  // November 2026 has Wordle files for the 1st to the 15th only; the kit must flag exactly 16-30.
+  // Wordle files run from Nov. 1 to the newest saved day; the daily routines keep adding days, so
+  // the boundary is read from the files instead of being fixed here. The kit must flag exactly the rest.
+  const iso = (d: number) => `2026-11-${String(d).padStart(2, "0")}`;
+  let last = 0;
+  while (last < 30 && loadPuzzle("wordle", iso(last + 1))) last++;
+  assert.ok(last >= 15 && last < 30, "test expects saved Wordle data from Nov. 1 to a day before Nov. 30");
   try {
     puzzleMonth.validate({ game: "wordle", month: "2026-11" }, ctx());
     assert.fail("expected a refusal for the missing days");
   } catch (e) {
     const msg = (e as Error).message;
-    assert.match(msg, /no saved Wordle data for 15 day\(s\)/);
-    assert.match(msg, /2026-11-16/);
+    assert.match(msg, new RegExp(`no saved Wordle data for ${30 - last} day\\(s\\)`));
+    assert.match(msg, new RegExp(iso(last + 1)));
     assert.match(msg, /2026-11-30/);
     // The present days loaded without complaint, so they are not in the missing list.
     assert.ok(!msg.includes("2026-11-01"), "day 1 has a file and must not be listed missing");
-    assert.ok(!msg.includes("2026-11-15"), "day 15 has a file and must not be listed missing");
+    assert.ok(!msg.includes(iso(last)), "the newest saved day has a file and must not be listed missing");
   }
 });
 
