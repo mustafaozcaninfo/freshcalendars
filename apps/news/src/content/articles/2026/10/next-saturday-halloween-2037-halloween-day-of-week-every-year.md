@@ -1,10 +1,10 @@
 ---
 title: "Next Saturday Halloween: Oct. 31, 2037, 11 Years After 2026, With Dates to 2050"
-seoTitle: "Next Saturday Halloween: Oct. 31, 2037"
-description: "Oct. 31, 2026 was a Saturday Halloween. The next is Saturday, Oct. 31, 2037, 11 years later. Halloween's weekday for every year to 2050, plus a printable list."
+seoTitle: "Halloween 2027 Is a Sunday; Next Saturday: 2037"
+description: "Halloween 2027 is a Sunday. The next Saturday Halloween is Oct. 31, 2037, 11 years after 2026. Halloween weekday for every year to 2050, plus a printable list."
 type: explainer
 publishedAt: "2026-10-31T09:40:00-04:00"
-updatedAt: "2026-11-02T11:40:00-05:00"
+updatedAt: "2026-11-04T13:30:00-05:00"
 authors: [jessica-hartwell]
 category: calendar-guides
 keywords: ["next saturday halloween", "next halloween on a saturday", "what day is halloween 2027", "next friday halloween", "halloween on a weekend"]
@@ -102,7 +102,7 @@ downloads:
 draft: false
 ---
 
-**The next Saturday Halloween is Saturday, Oct. 31, 2037, 11 years after the Saturday Halloween of Oct. 31, 2026.** We computed every weekday in this story from the Gregorian calendar, the civil calendar used in the United States, with the leap-year rule the U.S. Naval Observatory (USNO) publishes. Halloween is always Oct. 31, so only the weekday changes from year to year.
+**The next Saturday Halloween is Saturday, Oct. 31, 2037, 11 years after the Saturday Halloween of Oct. 31, 2026.** We computed every weekday in this story from the Gregorian calendar, the civil calendar used in the United States, with the leap-year rule the U.S. Naval Observatory (USNO) publishes. Halloween is always Oct. 31, so only the weekday changes from year to year. Halloween 2027 falls on a Sunday, and the next Friday Halloween is Oct. 31, 2031.
 
 For how the 2026 night looked, see our story on [Halloween 2026 on a Saturday](/news/halloween-2026-saturday-sunset-trick-or-treat-times/). The [When is Halloween?](/when-is/halloween/) page has the date itself.
 

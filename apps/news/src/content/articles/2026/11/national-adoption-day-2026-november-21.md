@@ -79,7 +79,7 @@ internalLinks:
     label: "November 2026 printable calendar"
   - href: "/when-is/thanksgiving/"
     label: "When is Thanksgiving?"
-related: [native-american-heritage-day-2026-friday-november-27-heritage-month, why-thanksgiving-2026-is-november-26, america-recycles-day-2026-november-15]
+related: [world-childrens-day-2026-friday-november-20-rights-of-the-child, why-thanksgiving-2026-is-november-26, america-recycles-day-2026-november-15]
 downloads:
   - group: "National Adoption Day 2026 Facts and Ways to Take Part printables"
     title: "National Adoption Day 2026 Facts and Ways to Take Part"

@@ -49,7 +49,7 @@ internalLinks:
     label: "January 2027 printable calendar"
   - href: "/printable-weekly-calendar.html"
     label: "printable weekly calendar"
-related: [australian-open-2027-dates-schedule-us-uk-time-zones-tv, atp-finals-2026-turin-dates-schedule-time-zones-tv-qualified-players, davis-cup-final-8-2026-bologna-schedule-time-zones-teams]
+related: [australian-open-2027-dates-schedule-us-uk-time-zones-tv, atp-finals-2026-turin-dates-schedule-time-zones-tv-qualified-players, dakar-rally-2027-dates-portugal-morocco-stages]
 assets:
   overlay: true
   kicker: "United Cup · Jan. 1-10, 2027"
