@@ -52,7 +52,7 @@ internalLinks:
     label: "November 2026 printable calendar"
   - href: "/december-calendars.html"
     label: "December 2026 printable calendar"
-related: [houston-isd-calendar-2026-27-holidays-breaks, spring-break-2027-dates-school-districts, thanksgiving-break-2026-school-districts-dates]
+related: [houston-isd-calendar-2026-27-holidays-breaks, spring-break-2027-dates-school-districts, cypress-fairbanks-isd-calendar-2026-27-breaks]
 assets:
   overlay: true
   kicker: "Dallas ISD 2026-27"
@@ -118,7 +118,7 @@ draft: false
 
 The weekday counts are ours, computed from the printed dates. The first day of class was Tuesday, Aug. 11, 2026. After Winter Break, the calendar marks Tuesday, Jan. 5 as a professional development day and starts the next grading period on Wednesday, Jan. 6; check with your school for the return day, because the PDF does not say whether students attend on Jan. 5.
 
-Dallas ISD's spring break falls a week after Houston ISD's spring recess (March 8-12), which we cover in our [Houston ISD calendar story](/news/houston-isd-calendar-2026-27-holidays-breaks/). For how other districts set theirs, see our [spring break 2027 roundup](/news/spring-break-2027-dates-school-districts/).
+Dallas ISD's spring break falls a week after Houston ISD's spring recess (March 8-12), which we cover in our [Houston ISD calendar story](/news/houston-isd-calendar-2026-27-holidays-breaks/). Cypress-Fairbanks ISD, in the Houston area, has the same March 15-19 week, as our [Cy-Fair ISD calendar story](/news/cypress-fairbanks-isd-calendar-2026-27-breaks/) shows. For how other districts set theirs, see our [spring break 2027 roundup](/news/spring-break-2027-dates-school-districts/).
 
 ## Which days have no classes?
 
