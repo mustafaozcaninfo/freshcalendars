@@ -75,7 +75,7 @@ internalLinks:
     label: "When is Thanksgiving?"
   - href: "/holidays/"
     label: "US holidays"
-related: [veterans-day-2026-wednesday-november-11, why-thanksgiving-2026-is-november-26, native-american-heritage-month-2026-theme-events-books-activities]
+related: [veterans-day-2026-wednesday-november-11, why-thanksgiving-2026-is-november-26, national-adoption-day-2026-november-21]
 downloads:
   - group: "Native American Heritage Month Calendar printables"
     title: "Native American Heritage Month Calendar, November 2026"
