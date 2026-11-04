@@ -1,9 +1,9 @@
 {
-  "v": 2,
-  "kit": "list:list",
-  "hash": "64e02dfa3f539f04",
+  "v": 3,
+  "kit": "fact-table",
+  "hash": "9f57e66d0230ae26",
   "files": [
-    "/news/downloads/election-2026-printables/early-vote-by-state-2026-nov-3-snapshot.pdf"
+    "/news/downloads/election-2026-printables/early-vote-by-state-2026-fact-table.pdf"
   ],
   "computed": []
 }
