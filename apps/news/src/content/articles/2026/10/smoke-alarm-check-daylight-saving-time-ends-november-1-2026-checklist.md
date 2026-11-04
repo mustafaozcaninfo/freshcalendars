@@ -102,7 +102,7 @@ internalLinks:
   - href: "/march-calendars.html"
     label: "March 2027 printable calendar"
 draft: false
-related: [daylight-saving-time-ends-november-1-2026, sunset-times-after-daylight-saving-time-ends-2026, canada-clocks-fall-back-november-1-2026-which-provinces-no-time-change]
+related: [daylight-saving-time-ends-november-1-2026, sunset-times-after-daylight-saving-time-ends-2026, home-maintenance-calendar-2027-monthly-checklist]
 ---
 
 U.S. clocks fell back at 2 a.m. local time on Sunday, Nov. 1, 2026 (daylight saving time ended; Hawaii and most of Arizona did not change), and the U.S. Fire Administration (USFA), part of the Federal Emergency Management Agency (FEMA), says to test smoke alarms monthly. The clock change works as a twice-a-year reminder to do the full check, and the days after the change are a good time for it: test every alarm, look at its age and decide what needs replacing. Our one-page printable below turns that into ticks.

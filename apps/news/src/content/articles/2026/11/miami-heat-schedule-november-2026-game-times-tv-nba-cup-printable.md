@@ -81,7 +81,7 @@ internalLinks:
     label: "printable weekly calendar"
   - href: "/when-is/thanksgiving/"
     label: "When is Thanksgiving?"
-related: [nba-cup-2026-schedule-dates-group-play-knockouts-final-indianapolis, lakers-schedule-november-2026-game-times-tv-nba-cup-printable, oklahoma-city-thunder-schedule-november-2026-game-times-tv-nba-cup-printable]
+related: [nba-cup-2026-schedule-dates-group-play-knockouts-final-indianapolis, miami-heat-schedule-december-2026-game-times-tv-christmas-printable, oklahoma-city-thunder-schedule-november-2026-game-times-tv-nba-cup-printable]
 downloads:
   - group: "Miami Heat Schedule printables"
     title: "Miami Heat Schedule, November 2026"

@@ -61,7 +61,7 @@ internalLinks:
     label: "December 2026 printable calendar"
   - href: "/printable-weekly-calendar.html"
     label: "printable weekly calendar"
-related: [snap-payment-schedule-november-2026-deposit-dates-by-state, social-security-payment-schedule-december-2026-ssi-december-31, liheap-2026-27-heating-help-winter-shutoff-rules-by-state]
+related: [snap-maximum-benefit-2027-allotments-income-limits-by-household-size, social-security-payment-schedule-december-2026-ssi-december-31, liheap-2026-27-heating-help-winter-shutoff-rules-by-state]
 assets:
   overlay: true
   kicker: "SNAP December 2026"
