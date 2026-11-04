@@ -20,7 +20,7 @@ assets:
     title: "Costa Christmas Menu 2026 Card"
     subtitle: "Every item on the menu: type and whether it is new or returning"
     year: 2026
-    note: "Source: Retail Times, 20 Oct 2026, and What's The Jam, 20 Oct 2026. Costa did not publish prices in its launch information. Stocks last."
+    note: "Source: Retail Times, 20 Oct 2026, and What's The Jam, 20 Oct 2026."
     description: "One-page card of Costa Coffee's 2026 Christmas menu: each drink, savoury item and bake, new or returning, and the 22 October and 5 November dates."
     alt: "Printable table of the Costa Christmas menu 2026 with each item, its type and whether it is new or returning"
     data:
@@ -103,7 +103,7 @@ hero:
   src: ../../../../assets/news/costa-christmas-menu-2026-ferrero-rocher-latte/costa-christmas-menu-2026-ferrero-rocher-latte.webp
   alt: "A latte in a white cup and saucer, file photo for the Costa Christmas menu 2026"
   caption: "File photo of a latte. It illustrates Costa's 2026 Christmas drinks and is not a Costa product."
-  credit: "Photo: Mx. Granger / Wikimedia Commons, cropped"
+  credit: "Photo: Mx. Granger / Wikimedia Commons, cropped, edited"
   license:
     name: "CC0"
     url: "http://creativecommons.org/publicdomain/zero/1.0/deed.en"
@@ -145,6 +145,23 @@ internalLinks:
   - href: "/december-calendars.html"
     label: "December 2026 printable calendar"
 related: [uk-christmas-menus-2026-greggs-costa-starbucks-kfc, greggs-festive-bake-2026-christmas-menu, starbucks-holiday-menu-2026-red-cup-day-date]
+downloads:
+  - group: "Costa Christmas Menu 2026 Card printables"
+    title: "Costa Christmas Menu 2026 Card"
+    description: "One-page card of Costa Coffee's 2026 Christmas menu: each drink, savoury item and bake, new or returning, and the 22 October and 5 November dates."
+    preview: ../../../../assets/news/costa-christmas-menu-2026/costa-christmas-menu-2026-card.png
+    alt: "Printable table of the Costa Christmas menu 2026 with each item, its type and whether it is new or returning"
+    pdf: "/news/downloads/costa-christmas-menu-2026/costa-christmas-menu-2026-card.pdf"
+    png: "/news/downloads/costa-christmas-menu-2026/costa-christmas-menu-2026-card.png"
+    pages: 1
+  - group: "Costa Christmas Menu 2026 Card printables"
+    title: "Costa Christmas Menu 2026 Card (A4)"
+    description: "One-page card of Costa Coffee's 2026 Christmas menu: each drink, savoury item and bake, new or returning, and the 22 October and 5 November dates. A4 paper."
+    preview: ../../../../assets/news/costa-christmas-menu-2026/costa-christmas-menu-2026-card-a4.png
+    alt: "Printable table of the Costa Christmas menu 2026 with each item, its type and whether it is new or returning, A4"
+    pdf: "/news/downloads/costa-christmas-menu-2026/costa-christmas-menu-2026-card-a4.pdf"
+    png: "/news/downloads/costa-christmas-menu-2026/costa-christmas-menu-2026-card-a4.png"
+    pages: 1
 draft: false
 ---
 
