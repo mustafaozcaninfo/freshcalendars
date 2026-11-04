@@ -1,9 +1,10 @@
 ---
 title: "Great British Bake Off 2026: Free-From Week on Tuesday 3 November and the Episode Schedule"
 seoTitle: "Bake Off 2026: Free-From Week Tue 3 Nov, Episodes"
-description: "Bake Off Series 17 airs Free-From Party Week on Channel 4 on Tue. 3 Nov 2026, with three episodes left. Netflix has Collection 14 weekly on Fridays."
+description: "Bake Off Series 17 showed Free-From Party Week on Channel 4 on Tue. 3 Nov 2026: Gabe won Star Baker and Gary left. Netflix has Collection 14 on Fridays."
 type: news
 publishedAt: "2026-11-01T03:20:00-05:00"
+updatedAt: "2026-11-04T13:40:00-05:00"
 authors: [jessica-hartwell]
 category: entertainment
 dateline: "London"
@@ -20,15 +21,19 @@ hero:
     author: "Brassluff"
     authorUrl: "https://commons.wikimedia.org/wiki/User:Brassluff"
 summary:
-  - "Channel 4's programme page lists Free-From Party Week, Episode 7 of Series 17 of The Great British Bake Off, from Tuesday 3 November 2026."
-  - "Channel 4 says the series has 12 bakers and ten episodes, so three episodes remain after 3 November. Their themes and the date of the final are not yet announced."
+  - "Free-From Party Week, Episode 7 of Series 17 of The Great British Bake Off, was first shown on Channel 4 on Tuesday 3 November 2026. Gabe was named Star Baker and Gary was the seventh baker to leave."
+  - "Channel 4 says the series has 12 bakers and ten episodes, so three episodes remain after Episode 7. Their themes and the date of the final are not yet announced."
   - "PinkNews and The Scotsman both reported that the series returned at 8 p.m. on 22 September. If 3 November uses the same time, it is 3 p.m. Eastern Time (ET)."
   - "Netflix says The Great British Baking Show Collection 14 has new episodes every Friday until the finale, with no time of day given."
 sources:
   - title: "The Great British Bake Off"
     url: "https://www.channel4.com/programmes/the-great-british-bake-off"
     publisher: "Channel 4"
-    date: "2026-11-01"
+    date: "2026-11-04"
+  - title: "The Great British Bake Off: The seventh baker leaves the tent"
+    url: "https://www.channel4.com/press/news/great-british-bake-seventh-baker-leaves-tent-4"
+    publisher: "Channel 4"
+    date: "2026-11-04"
   - title: "The Great British Bake Off: The fifth baker leaves the tent"
     url: "https://www.channel4.com/press/news/great-british-bake-fifth-baker-leaves-tent-4"
     publisher: "Channel 4"
@@ -48,12 +53,12 @@ sources:
     url: "https://www.channel4.com/press/news/great-british-bake-series-16-final"
     publisher: "Channel 4"
 faq:
-  - q: "When is the next Great British Bake Off episode?"
-    a: "Channel 4's programme page lists Episode 7, Free-From Party Week, as a new episode from Tuesday 3 November 2026."
+  - q: "Who left Great British Bake Off on 3 November 2026?"
+    a: "Channel 4 says Gary was the seventh baker to leave Series 17 in the Free-From Party Week episode of Tuesday 3 November 2026, and Gabe was named Star Baker."
   - q: "What time is Bake Off on Channel 4?"
     a: "Channel 4's page gives no time. PinkNews and The Scotsman both reported an 8 p.m. start for the 22 September opener, which would be 3 p.m. ET on 3 November, as the clocks now stand. Check your listings."
   - q: "When is the Bake Off 2026 final?"
-    a: "Channel 4 has not announced the date of the final. The series has ten episodes and Episode 7 is on 3 November, so three remain."
+    a: "Channel 4 has not announced the date of the final. The series has ten episodes and Episode 7 aired on 3 November, so three remain."
   - q: "When is Great British Baking Show Collection 14 on Netflix?"
     a: "Netflix says Collection 14 premiered on Sept. 25 with new episodes every Friday until the finale. The next Friday after 3 November is 6 November."
   - q: "Who won Bake Off last year?"
@@ -92,6 +97,7 @@ assets:
     group: bake-off-2026
     title: "Bake Off 2026 Viewing Tracker"
     subtitle: "Series 17 on Channel 4, from the Channel 4 programme page"
+    noKit: "The fact sheet gave a plain weekly episode list, not kit data."
     layout: list
     rows:
       - ["Tue., Sept. 22", "Week 1: Cake Week"]
@@ -104,19 +110,18 @@ assets:
       - ["Date to be announced", "Week 8: theme to be announced"]
       - ["Date to be announced", "Week 9: theme to be announced"]
       - ["Date to be announced", "Week 10: theme to be announced"]
-    note: "Source: Channel 4 programme page for The Great British Bake Off, read 1 November 2026; Channel 4 press release, 21 October 2026. Weeks 8 to 10 and the final are not yet announced."
-    inkSaver: true
+    note: "Source: Channel 4 programme page for The Great British Bake Off, read 4 November 2026; Channel 4 press releases, 21 October and 4 November 2026. Weeks 8 to 10 and the final are not yet announced."
     description: "A one-page tracker of Great British Bake Off 2026 episodes: the seven known Channel 4 weeks from 22 September and three blank lines for weeks 8 to 10."
     alt: "Printable Bake Off 2026 viewing tracker listing weeks 1 to 7 with Channel 4 dates and weeks 8 to 10 to be announced."
 ---
 
-**The next Great British Bake Off episode, Free-From Party Week (Episode 7 of Series 17), is on Channel 4 on Tuesday 3 November 2026, according to Channel 4's programme page.** The page lists it as a new episode "from Tue 3 Nov". Channel 4 has not announced the themes or dates of Episodes 8 to 10, or the date of the final.
+**Free-From Party Week, Episode 7 of Series 17 of The Great British Bake Off, was first shown on Channel 4 on Tuesday 3 November 2026, and Channel 4's press office says Gabe was named Star Baker and Gary was the seventh baker to leave.** Channel 4's programme page lists the episode "from Tue 3 Nov". Channel 4 has not announced the themes or dates of Episodes 8 to 10, or the date of the final.
 
 Our table below sets all ten episodes side by side, and a one-page printable tracker follows it.
 
 ## What is the Bake Off 2026 episode schedule?
 
-Channel 4's page gives a "first shown" date for each of the first six episodes, and every one is a Tuesday. The series has aired every Tuesday since 22 September. The Netflix column shows the weekly Friday pattern Netflix states for Collection 14, not a per-episode date.
+Channel 4's page gives a "first shown" date for each of the first seven episodes, and every one is a Tuesday. The series has aired every Tuesday since 22 September, and the Episode 7 row is from the Channel 4 press release. The Netflix column shows the weekly Friday pattern Netflix states for Collection 14, not a per-episode date.
 
 | Episode | Theme | Channel 4 date | Netflix United States | Status |
 |---|---|---|---|---|
@@ -126,7 +131,7 @@ Channel 4's page gives a "first shown" date for each of the first six episodes, 
 | 4 | Bread Week | Tue 13 Oct 2026 | Weekly on Fridays | Aired |
 | 5 | Dessert Week | Tue 20 Oct 2026 | Weekly on Fridays | Aired |
 | 6 | Pastry Week | Tue 27 Oct 2026 | Weekly on Fridays | Aired |
-| 7 | Free-From Party Week | Tue 3 Nov 2026 | Weekly on Fridays | Next on Channel 4 |
+| 7 | Free-From Party Week | Tue 3 Nov 2026 | Weekly on Fridays | Aired. Star Baker: Gabe. Left: Gary |
 | 8 | Not yet announced | Not yet announced | Weekly on Fridays | Not yet announced |
 | 9 | Not yet announced | Not yet announced | Weekly on Fridays | Not yet announced |
 | 10 | Not yet announced | Not yet announced | Weekly on Fridays | Not yet announced |
@@ -150,7 +155,7 @@ The United Kingdom has been on GMT since 25 October and the United States on sta
 
 ## When is the Bake Off 2026 final?
 
-Channel 4 has not announced it. Its press release of 21 October 2026 says the series follows 12 bakers through thirty brand new challenges "in ten episodes". With Episode 7 on 3 November, three episodes remain. If the Tuesday pattern holds they would follow weekly, but Channel 4 has not confirmed that, so we give no final date.
+Channel 4 has not announced it. Its press release of 21 October 2026 says the series follows 12 bakers through thirty brand new challenges "in ten episodes". With Episode 7 shown on 3 November, three episodes remain. If the Tuesday pattern holds they would follow weekly, but Channel 4 has not confirmed that, so we give no final date.
 
 The same release names presenters Noel Fielding and Alison Hammond and judges Paul Hollywood and Nigella Lawson.
 
@@ -168,4 +173,4 @@ The one-page sheet lists weeks 1 to 7 with their Channel 4 dates and leaves thre
 
 ## Which Bake Off 2026 details has Channel 4 not announced?
 
-As of Channel 4's page on 1 November 2026: the themes and dates of Episodes 8 to 10, the date of the final, and any start time for 3 November. Netflix gives no time of day. Recheck Channel 4's programme page for changes.
+As of Channel 4's page and press release on 4 November 2026: the themes and dates of Episodes 8 to 10, the date of the final, and the start time of any episode. Netflix gives no time of day. Recheck Channel 4's programme page for changes.

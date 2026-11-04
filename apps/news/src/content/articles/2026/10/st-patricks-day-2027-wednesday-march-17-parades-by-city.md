@@ -4,6 +4,7 @@ seoTitle: "St. Patrick's Day 2027: Parade Dates by City"
 description: "St. Patrick's Day 2027 is Wednesday, March 17. New York's parade is set for 11:00 a.m. on Fifth Avenue; Dublin's festival runs March 13-17. Others pending."
 type: news
 publishedAt: "2026-10-31T02:54:00-04:00"
+updatedAt: "2026-11-04T13:40:00-05:00"
 authors: [christina-gerland]
 category: holidays
 keywords: ["st patricks day 2027", "nyc st patricks day parade 2027", "chicago river dyeing 2027", "st patricks day parade dates 2027"]
@@ -63,6 +64,7 @@ assets:
     group: st-patricks-day-2027
     title: "St. Patrick's Day 2027 Parade Planner"
     subtitle: "Parade and festival dates by city, with what is still to check"
+    noKit: "Dated parade and festival list with pending cities; no kit fits a by-city status list"
     layout: list
     rows:
       - ["Wed., Mar. 17, 2027", "New York: parade on Fifth Avenue in Manhattan at 11:00 a.m."]
@@ -71,7 +73,6 @@ assets:
       - ["Check", "Savannah: 2027 not yet posted (2026 parade: Tue., Mar. 17, 2026, from 10:15 a.m.)"]
       - ["Check", "Boston: not yet announced by the parade organizer"]
     note: "Source: NYC St. Patrick's Day Parade; St. Patrick's Festival, Dublin; City of Savannah; ABC7 Chicago."
-    inkSaver: true
     description: "A one-page planner with the 2027 St. Patrick's Day parade and festival dates for New York and Dublin, and the cities still to check."
     alt: "Printable St. Patrick's Day 2027 parade planner listing New York, Dublin, Chicago, Savannah and Boston"
 downloads:
@@ -100,7 +101,7 @@ draft: false
 
 | City | 2027 status | Time | Source |
 |---|---|---|---|
-| New York | Wednesday, March 17, 2027, along Fifth Avenue in Manhattan | 11:00 a.m. | NYC St. Patrick's Day Parade |
+| New York | Wednesday, March 17, 2027, along Fifth Avenue in Manhattan; Grand Marshal John Samuelsen | 11:00 a.m. | NYC St. Patrick's Day Parade |
 | Dublin | Festival programme from Saturday, March 13 to Wednesday, March 17, 2027 | Full schedule due January 2027 | St. Patrick's Festival |
 | Chicago | Not yet announced. Last year: parade on Saturday, March 14, 2026 | Not yet announced | ABC7 Chicago (2026) |
 | Savannah | 2027 not yet posted. Last year: Tuesday, March 17, 2026 | 10:15 a.m. in 2026 | City of Savannah (2026) |
@@ -124,7 +125,7 @@ Weekdays computed from the calendar. In 2026 March 17 was a Tuesday, and Chicago
 
 ## New York parade date and time
 
-The parade's official site states that it "will take place along Fifth Avenue in Manhattan on Wednesday, March 17, 2027 at 11:00 AM." That is the only 2027 parade with a confirmed date and time in our sources. For another New York holiday date list, see our [NYC holiday calendar](/news/nyc-holiday-calendar-2026-rockefeller-tree-macys-parade/).
+The parade's official site states that it "will take place along Fifth Avenue in Manhattan on Wednesday, March 17, 2027 at 11:00 AM." That is the only 2027 parade with a confirmed date and time in our sources. The site names John Samuelsen, International President of the Transport Workers Union of America (TWU), as the 2027 Grand Marshal. For another New York holiday date list, see our [NYC holiday calendar](/news/nyc-holiday-calendar-2026-rockefeller-tree-macys-parade/).
 
 ## Dublin's St. Patrick's Festival in 2027
 
