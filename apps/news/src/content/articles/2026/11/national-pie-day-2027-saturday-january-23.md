@@ -14,24 +14,32 @@ assets:
   date: "2027-01-23"
   card: { top: "National Pie Day", big: "Sat., Jan. 23", bottom: "Share it with #NationalPieDay" }
   printable:
-    slug: national-pie-day-2027-plan-sheet
+    kit: activity-sheet
+    slug: national-pie-day-2027-plan-kit
     group: national-pie-day-2027
-    title: "National Pie Day 2027 Plan Sheet, Sat., Jan. 23"
-    subtitle: "Pick a pie, make a shop list, set your bake day and share it"
-    noKit: "observance activity sheet"
-    layout: checklist
+    title: "National Pie Day 2027 Facts and Plan Sheet"
+    subtitle: "Sat., Jan. 23, 2027: pick a pie, shop, bake and share"
+    note: "Source: American Pie Council (piecouncil.org); House Resolution 224 (2009), GovInfo. The plan steps are our own suggestions."
+    description: "One-page National Pie Day 2027 sheet: the Jan. 23 date, two sourced facts and tick boxes for choosing a pie, shopping, baking and sharing."
+    alt: "Printable National Pie Day 2027 sheet with the Jan. 23 date and tick boxes for picking a pie, shopping, baking and sharing"
     notesLabel: "Pie choice, who is invited, shop list"
-    rows:
-      - { when: "Pick", what: "Choose the pie to make or buy", section: "Before Saturday, Jan. 23, 2027" }
-      - { when: "Pick", what: "Decide who to share it with", section: "Before Saturday, Jan. 23, 2027" }
-      - { when: "Shop", what: "Write the shop list on the notes lines", section: "Before Saturday, Jan. 23, 2027" }
-      - { when: "Shop", what: "Check each chain's own page for a pie offer", section: "Before Saturday, Jan. 23, 2027" }
-      - { when: "Bake", what: "Pick the day you will bake or collect the pie", section: "Before Saturday, Jan. 23, 2027" }
-      - { when: "Sat., Jan. 23", what: "Serve a slice as a meal ender or a treat", section: "National Pie Day" }
-      - { when: "Sat., Jan. 23", what: "Share a photo with #NationalPieDay", section: "National Pie Day" }
-    note: "Source: American Pie Council (piecouncil.org). The steps and the order are our own suggestions."
-    description: "One-page National Pie Day 2027 plan sheet with tick boxes for choosing a pie, a shop list, a bake day and sharing on Saturday, Jan. 23."
-    alt: "Printable National Pie Day 2027 plan sheet with tick boxes for picking a pie, shopping, baking and sharing"
+    data:
+      day: { date: "2027-01-23", name: "National Pie Day", src: 1, quote: "On Jan. 23, the American Pie Council invites everyone from sea to shining sea to celebrate National Pie Day" }
+      facts:
+        - { text: "The council suggests a slice as a meal ender or a treat, and asks people to share with #NationalPieDay.", src: 1, quote: "a small slice of heaven" }
+        - { text: "Pi Day is a separate observance on March 14, tied to the number pi.", src: 2, quote: "March 14, 2009, is an appropriate day for 'National Pi Day'" }
+      activities:
+        - type: checklist
+          title: "Plan for National Pie Day"
+          items:
+            - "Choose the pie to make or buy"
+            - "Decide who to share it with"
+            - "Write your shop list"
+            - "Check each chain's own page for a pie offer"
+            - "Pick your bake or pickup day"
+            - "Serve a slice and share a photo with #NationalPieDay"
+      unconfirmed:
+        - { label: "2027 pie deals", why: "neither Marie Callender's nor Bakers Square had posted a 2027 offer as of Nov. 4, 2026" }
 hero:
   src: ../../../../assets/news/national-pie-day-2027-saturday-january-23/national-pie-day-2027-saturday-january-23.webp
   alt: "A baked rhubarb pie with a woven lattice crust, for National Pie Day on Saturday, Jan. 23, 2027"
@@ -43,13 +51,13 @@ hero:
     source: "https://commons.wikimedia.org/wiki/File:Rhubarb_Pie_Lattice_Crust_Delicious.JPG"
     author: "Coyote7"
 downloads:
-  - group: "National Pie Day 2027 Plan Sheet printables"
-    title: "National Pie Day 2027 Plan Sheet, Sat., Jan. 23"
-    description: "One-page National Pie Day 2027 plan sheet with tick boxes for choosing a pie, a shop list, a bake day and sharing on Saturday, Jan. 23."
-    preview: ../../../../assets/news/national-pie-day-2027/national-pie-day-2027-plan-sheet.png
-    alt: "Printable National Pie Day 2027 plan sheet with tick boxes for picking a pie, shopping, baking and sharing"
-    pdf: "/news/downloads/national-pie-day-2027/national-pie-day-2027-plan-sheet.pdf"
-    png: "/news/downloads/national-pie-day-2027/national-pie-day-2027-plan-sheet.png"
+  - group: "National Pie Day 2027 Facts and Plan Sheet printables"
+    title: "National Pie Day 2027 Facts and Plan Sheet"
+    description: "One-page National Pie Day 2027 sheet: the Jan. 23 date, two sourced facts and tick boxes for choosing a pie, shopping, baking and sharing."
+    preview: ../../../../assets/news/national-pie-day-2027/national-pie-day-2027-plan-kit.png
+    alt: "Printable National Pie Day 2027 sheet with the Jan. 23 date and tick boxes for picking a pie, shopping, baking and sharing"
+    pdf: "/news/downloads/national-pie-day-2027/national-pie-day-2027-plan-kit.pdf"
+    png: "/news/downloads/national-pie-day-2027/national-pie-day-2027-plan-kit.png"
     pages: 1
 summary:
   - "National Pie Day is Jan. 23, which falls on Saturday in 2027, according to the American Pie Council (APC)."

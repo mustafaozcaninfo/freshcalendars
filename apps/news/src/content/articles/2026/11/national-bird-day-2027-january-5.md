@@ -25,27 +25,35 @@ assets:
   date: "2027-01-05"
   card: { top: "National Bird Day", big: "Tue., Jan. 5", bottom: "Last day of the Christmas Bird Count" }
   printable:
-    noKit: "A backyard bird tally sheet with blank count rows, not a holiday plan or a set of deadlines"
-    layout: checklist
-    slug: backyard-bird-tally-sheet-2026-27
+    kit: activity-sheet
+    slug: national-bird-day-2027-tally
     group: national-bird-day-2027
-    title: "Backyard Bird Tally Sheet, Winter 2026-27"
-    subtitle: "Two count days, the largest number seen at once, for FeederWatch or any winter count"
+    title: "National Bird Day 2027 Facts and Backyard Bird Tally"
+    subtitle: "Tue., Jan. 5, 2027: FeederWatch rules and a tally for any winter count"
+    note: "Source: Cornell Lab of Ornithology, Project FeederWatch; Avian Welfare Coalition; Born Free USA."
+    description: "Free printable National Bird Day 2027 sheet: the Jan. 5 date, FeederWatch counting rules and a backyard bird tally with the largest number seen at once."
+    alt: "Printable National Bird Day 2027 sheet with the Jan. 5 date, FeederWatch rules and a backyard bird tally"
     notesLabel: "Count dates, weather and other birds seen"
-    rows:
-      - { when: "Northern Cardinal", what: "Day 1 ____  Day 2 ____  Largest at once ____", section: "Feeder birds named by FeederWatch" }
-      - { when: "Blue Jay", what: "Day 1 ____  Day 2 ____  Largest at once ____", section: "Feeder birds named by FeederWatch" }
-      - { when: "House Sparrow", what: "Day 1 ____  Day 2 ____  Largest at once ____", section: "Feeder birds named by FeederWatch" }
-      - { when: "House Finch", what: "Day 1 ____  Day 2 ____  Largest at once ____", section: "Feeder birds named by FeederWatch" }
-      - { when: "Purple Finch", what: "Day 1 ____  Day 2 ____  Largest at once ____", section: "Feeder birds named by FeederWatch" }
-      - { when: "Evening Grosbeak", what: "Day 1 ____  Day 2 ____  Largest at once ____", section: "Feeder birds named by FeederWatch" }
-      - { when: "Species: ________", what: "Day 1 ____  Day 2 ____  Largest at once ____", section: "Other species" }
-      - { when: "Species: ________", what: "Day 1 ____  Day 2 ____  Largest at once ____", section: "Other species" }
-      - { when: "Species: ________", what: "Day 1 ____  Day 2 ____  Largest at once ____", section: "Other species" }
-      - { when: "Species: ________", what: "Day 1 ____  Day 2 ____  Largest at once ____", section: "Other species" }
-    note: "Source: Cornell Lab of Ornithology, Project FeederWatch: record only the largest number of individuals of each species in view simultaneously over the two-day count, do not add your counts together, and skip birds that simply fly over."
-    description: "Free printable backyard bird tally sheet for winter 2026-27: six feeder species and blank rows, with two count days and the largest number seen at once."
-    alt: "Printable backyard bird tally sheet with rows for six feeder birds and blank species, columns for two count days and the largest number seen at once"
+    data:
+      day: { date: "2027-01-05", name: "National Bird Day", src: 2, quote: "on Monday, January 5, we celebrated the 13th annual National Bird Day" }
+      facts:
+        - { text: "Record only the largest number of each species in view at the same time over the two-day count.", src: 8, quote: "only the largest number of individuals of each species in view simultaneously over the two-day count" }
+        - { text: "Do not add your counts together, and skip birds that simply fly over.", src: 8, quote: "do not add your counts together" }
+        - { text: "Project FeederWatch is a November to April survey of feeder birds.", src: 6, quote: "a November-April survey of birds" }
+      activities:
+        - type: tally
+          title: "Backyard bird tally (largest number seen at once)"
+          labels:
+            - "Northern Cardinal"
+            - "Blue Jay"
+            - "House Sparrow"
+            - "House Finch"
+            - "Purple Finch"
+            - "Evening Grosbeak"
+            - "Other species: ______"
+            - "Other species: ______"
+      unconfirmed:
+        - { label: "2027 National Bird Day events", why: "neither the Avian Welfare Coalition nor Born Free USA had posted 2027 events as of Nov. 4, 2026" }
 summary:
   - "National Bird Day is Tuesday, Jan. 5, 2027. The Avian Welfare Coalition (AWC) says it established the day in January 2002."
   - "Jan. 5 is also the last day of the Audubon Christmas Bird Count, which runs Dec. 14 to Jan. 5 and is free, per the National Audubon Society."
@@ -96,13 +104,13 @@ internalLinks:
     label: "February 2027 printable calendar"
 related: [christmas-bird-count-2026-27-dates-how-to-join, january-2027-important-dates-holidays-days-until, winter-solstice-2026-december-21-shortest-day-sunset-times]
 downloads:
-  - group: "Backyard Bird Tally Sheet printables"
-    title: "Backyard Bird Tally Sheet, Winter 2026-27"
-    description: "Free printable backyard bird tally sheet for winter 2026-27: six feeder species and blank rows, with two count days and the largest number seen at once."
-    preview: ../../../../assets/news/national-bird-day-2027/backyard-bird-tally-sheet-2026-27.png
-    alt: "Printable backyard bird tally sheet with rows for six feeder birds and blank species, columns for two count days and the largest number seen at once"
-    pdf: "/news/downloads/national-bird-day-2027/backyard-bird-tally-sheet-2026-27.pdf"
-    png: "/news/downloads/national-bird-day-2027/backyard-bird-tally-sheet-2026-27.png"
+  - group: "National Bird Day 2027 Facts and Backyard Bird Tally printables"
+    title: "National Bird Day 2027 Facts and Backyard Bird Tally"
+    description: "Free printable National Bird Day 2027 sheet: the Jan. 5 date, FeederWatch counting rules and a backyard bird tally with the largest number seen at once."
+    preview: ../../../../assets/news/national-bird-day-2027/national-bird-day-2027-tally.png
+    alt: "Printable National Bird Day 2027 sheet with the Jan. 5 date, FeederWatch rules and a backyard bird tally"
+    pdf: "/news/downloads/national-bird-day-2027/national-bird-day-2027-tally.pdf"
+    png: "/news/downloads/national-bird-day-2027/national-bird-day-2027-tally.png"
     pages: 1
 draft: false
 ---

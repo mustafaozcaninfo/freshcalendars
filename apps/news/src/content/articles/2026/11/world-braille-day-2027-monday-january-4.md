@@ -14,44 +14,55 @@ assets:
   date: "2027-01-04"
   card: { top: "World Braille Day", big: "Mon., Jan. 4", bottom: "Louis Braille was born Jan. 4, 1809" }
   printable:
-    slug: braille-alphabet-chart-world-braille-day-2027
+    kit: activity-sheet
+    slug: world-braille-day-2027-alphabet-chart
     group: world-braille-day-2027
     title: "Braille Alphabet Chart for World Braille Day 2027"
-    subtitle: "Dot numbers for each letter, a visual chart and not tactile braille"
-    layout: checklist
+    subtitle: "Mon., Jan. 4, 2027: dot patterns for each letter, a visual chart, not tactile braille"
+    note: "Source: Braille Authority of North America, Braille Basics; Library of Congress National Library Service for the Blind and Print Disabled; United Nations, World Braille Day. A visual chart of dot patterns, not tactile braille."
+    description: "One-page printable braille alphabet chart for World Braille Day, Mon., Jan. 4, 2027, with the six-dot pattern for each letter a to z and the number sign."
+    alt: "Printable braille alphabet chart with the dot pattern for letters a to z for World Braille Day 2027"
     notesLabel: "Letters I have learned, and a word to spell in braille"
-    noKit: "observance activity sheet, a letter and dot-number chart rather than a holiday planner"
-    rows:
-      - { when: "a", what: "dot 1", section: "Letters a to j (dots 1, 2, 4, 5 only)" }
-      - { when: "b", what: "dots 1, 2", section: "Letters a to j (dots 1, 2, 4, 5 only)" }
-      - { when: "c", what: "dots 1, 4", section: "Letters a to j (dots 1, 2, 4, 5 only)" }
-      - { when: "d", what: "dots 1, 4, 5", section: "Letters a to j (dots 1, 2, 4, 5 only)" }
-      - { when: "e", what: "dots 1, 5", section: "Letters a to j (dots 1, 2, 4, 5 only)" }
-      - { when: "f", what: "dots 1, 2, 4", section: "Letters a to j (dots 1, 2, 4, 5 only)" }
-      - { when: "g", what: "dots 1, 2, 4, 5", section: "Letters a to j (dots 1, 2, 4, 5 only)" }
-      - { when: "h", what: "dots 1, 2, 5", section: "Letters a to j (dots 1, 2, 4, 5 only)" }
-      - { when: "i", what: "dots 2, 4", section: "Letters a to j (dots 1, 2, 4, 5 only)" }
-      - { when: "j", what: "dots 2, 4, 5", section: "Letters a to j (dots 1, 2, 4, 5 only)" }
-      - { when: "k", what: "dots 1, 3", section: "Letters k to t (the a to j pattern plus dot 3)" }
-      - { when: "l", what: "dots 1, 2, 3", section: "Letters k to t (the a to j pattern plus dot 3)" }
-      - { when: "m", what: "dots 1, 3, 4", section: "Letters k to t (the a to j pattern plus dot 3)" }
-      - { when: "n", what: "dots 1, 3, 4, 5", section: "Letters k to t (the a to j pattern plus dot 3)" }
-      - { when: "o", what: "dots 1, 3, 5", section: "Letters k to t (the a to j pattern plus dot 3)" }
-      - { when: "p", what: "dots 1, 2, 3, 4", section: "Letters k to t (the a to j pattern plus dot 3)" }
-      - { when: "q", what: "dots 1, 2, 3, 4, 5", section: "Letters k to t (the a to j pattern plus dot 3)" }
-      - { when: "r", what: "dots 1, 2, 3, 5", section: "Letters k to t (the a to j pattern plus dot 3)" }
-      - { when: "s", what: "dots 2, 3, 4", section: "Letters k to t (the a to j pattern plus dot 3)" }
-      - { when: "t", what: "dots 2, 3, 4, 5", section: "Letters k to t (the a to j pattern plus dot 3)" }
-      - { when: "u", what: "dots 1, 3, 6", section: "Letters u to z (plus dot 6; w is the exception)" }
-      - { when: "v", what: "dots 1, 2, 3, 6", section: "Letters u to z (plus dot 6; w is the exception)" }
-      - { when: "w", what: "dots 2, 4, 5, 6", section: "Letters u to z (plus dot 6; w is the exception)" }
-      - { when: "x", what: "dots 1, 3, 4, 6", section: "Letters u to z (plus dot 6; w is the exception)" }
-      - { when: "y", what: "dots 1, 3, 4, 5, 6", section: "Letters u to z (plus dot 6; w is the exception)" }
-      - { when: "z", what: "dots 1, 3, 5, 6", section: "Letters u to z (plus dot 6; w is the exception)" }
-      - { when: "Number sign", what: "dots 3, 4, 5, 6, then a to j for 1 to 0", section: "Numbers" }
-    note: "Source: Braille Authority of North America, Braille Basics; Library of Congress National Library Service for the Blind and Print Disabled; United Nations, World Braille Day. Each cell has six dots numbered 1-2-3 down the left and 4-5-6 down the right. This is a printed chart of dot numbers, not tactile braille."
-    description: "One-page printable braille alphabet chart for World Braille Day, Monday, Jan. 4, 2027, listing the dot numbers for each letter a to z and the number sign."
-    alt: "Printable braille alphabet chart listing the dot numbers for letters a to z for World Braille Day 2027"
+    data:
+      day: { date: "2027-01-04", name: "World Braille Day", src: 1, quote: "World Braille Day 4 January" }
+      facts:
+        - { text: "The United Nations has marked World Braille Day since 2019 to raise awareness of braille.", src: 1, quote: "World Braille Day, celebrated since 2019, is observed to raise awareness of the importance of Braille as a means of communication" }
+        - { text: "A braille cell has six dots that can form 63 different patterns, says the Library of Congress.", src: 2, quote: "63 different patterns" }
+        - { text: "Louis Braille was born in Coupvray, near Paris, on Jan. 4, 1809.", src: 2, quote: "January 4, 1809" }
+      activities:
+        - type: chart
+          title: "Braille alphabet (filled dots are the cell's dots)"
+          columns: 6
+          cells:
+            - { label: "a", dots: [1] }
+            - { label: "b", dots: [1, 2] }
+            - { label: "c", dots: [1, 4] }
+            - { label: "d", dots: [1, 4, 5] }
+            - { label: "e", dots: [1, 5] }
+            - { label: "f", dots: [1, 2, 4] }
+            - { label: "g", dots: [1, 2, 4, 5] }
+            - { label: "h", dots: [1, 2, 5] }
+            - { label: "i", dots: [2, 4] }
+            - { label: "j", dots: [2, 4, 5] }
+            - { label: "k", dots: [1, 3] }
+            - { label: "l", dots: [1, 2, 3] }
+            - { label: "m", dots: [1, 3, 4] }
+            - { label: "n", dots: [1, 3, 4, 5] }
+            - { label: "o", dots: [1, 3, 5] }
+            - { label: "p", dots: [1, 2, 3, 4] }
+            - { label: "q", dots: [1, 2, 3, 4, 5] }
+            - { label: "r", dots: [1, 2, 3, 5] }
+            - { label: "s", dots: [2, 3, 4] }
+            - { label: "t", dots: [2, 3, 4, 5] }
+            - { label: "u", dots: [1, 3, 6] }
+            - { label: "v", dots: [1, 2, 3, 6] }
+            - { label: "w", dots: [2, 4, 5, 6] }
+            - { label: "x", dots: [1, 3, 4, 6] }
+            - { label: "y", dots: [1, 3, 4, 5, 6] }
+            - { label: "z", dots: [1, 3, 5, 6] }
+            - { label: "# sign", dots: [3, 4, 5, 6] }
+      unconfirmed:
+        - { label: "2027 World Braille Day theme or events", why: "no 2027 theme or event was in our sources" }
 hero:
   src: ../../../../assets/news/world-braille-day-2027-monday-january-4/world-braille-day-2027-monday-january-4.webp
   alt: "A fingertip reading a page of braille, for World Braille Day on Monday, Jan. 4, 2027"
@@ -65,11 +76,11 @@ hero:
 downloads:
   - group: "Braille Alphabet Chart for World Braille Day 2027 printables"
     title: "Braille Alphabet Chart for World Braille Day 2027"
-    description: "One-page printable braille alphabet chart for World Braille Day, Monday, Jan. 4, 2027, listing the dot numbers for each letter a to z and the number sign."
-    preview: ../../../../assets/news/world-braille-day-2027/braille-alphabet-chart-world-braille-day-2027.png
-    alt: "Printable braille alphabet chart listing the dot numbers for letters a to z for World Braille Day 2027"
-    pdf: "/news/downloads/world-braille-day-2027/braille-alphabet-chart-world-braille-day-2027.pdf"
-    png: "/news/downloads/world-braille-day-2027/braille-alphabet-chart-world-braille-day-2027.png"
+    description: "One-page printable braille alphabet chart for World Braille Day, Mon., Jan. 4, 2027, with the six-dot pattern for each letter a to z and the number sign."
+    preview: ../../../../assets/news/world-braille-day-2027/world-braille-day-2027-alphabet-chart.png
+    alt: "Printable braille alphabet chart with the dot pattern for letters a to z for World Braille Day 2027"
+    pdf: "/news/downloads/world-braille-day-2027/world-braille-day-2027-alphabet-chart.pdf"
+    png: "/news/downloads/world-braille-day-2027/world-braille-day-2027-alphabet-chart.png"
     pages: 1
 summary:
   - "World Braille Day is Monday, Jan. 4, 2027, and the United Nations (UN) says it has been celebrated since 2019."

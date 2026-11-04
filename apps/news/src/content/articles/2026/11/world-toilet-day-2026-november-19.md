@@ -14,28 +14,32 @@ assets:
   date: "2026-11-19"
   card: { top: "World Toilet Day", big: "Thu., Nov. 19", bottom: "3.4 billion lack safe sanitation" }
   printable:
-    slug: world-toilet-day-2026-activity-sheet
+    kit: activity-sheet
+    slug: world-toilet-day-2026-facts-actions
     group: world-toilet-day-2026
-    title: "World Toilet Day 2026 Fact and Action Sheet"
+    title: "World Toilet Day 2026 Facts and Action Sheet"
     subtitle: "Thu., Nov. 19, 2026: Safe toilets. Equal futures."
-    noKit: "An observance fact-and-action sheet with tick boxes, not a kit's date grid or status table."
+    note: "Source: United Nations, World Toilet Day; World Health Organization, Sanitation fact sheet, Nov. 3, 2026; World Health Organization and UNICEF, Aug. 26, 2025."
+    description: "One-page World Toilet Day 2026 sheet: the Nov. 19 date, the UN theme, WHO sanitation figures and tick boxes for the UN's calls to action."
+    alt: "Printable World Toilet Day 2026 facts and action sheet with the Nov. 19 date, sanitation figures and tick boxes for actions"
     notesLabel: "The action I will take for World Toilet Day 2026"
-    rows:
-      - { when: "Thu., Nov. 19", what: "World Toilet Day 2026, a United Nations observance", section: "Mark the date" }
-      - { when: "Nov. 19", what: "Theme: sanitation and gender equality, 'Safe toilets. Equal futures.'", section: "Mark the date" }
-      - { when: "2024 data", what: "3.4 billion people lack safely managed sanitation", section: "Numbers to know (WHO and UNICEF)" }
-      - { when: "2024 data", what: "354 million of them practice open defecation", section: "Numbers to know (WHO and UNICEF)" }
-      - { when: "2024 data", what: "1.7 billion lack basic hygiene services at home; 611 million have no facilities", section: "Numbers to know (WHO and UNICEF)" }
-      - { when: "2024 data", what: "58% of people (4.8 billion) used a safely managed sanitation service", section: "Numbers to know (WHO and UNICEF)" }
-      - { when: "By Nov. 19", what: "Download the UN resources and inspire action", section: "Take action (the UN's calls)" }
-      - { when: "By Nov. 19", what: "Raise awareness of the link between sanitation and gender equality", section: "Take action (the UN's calls)" }
-      - { when: "By Nov. 19", what: "Back gender-responsive sanitation: toilets as a force for equality", section: "Take action (the UN's calls)" }
-      - { when: "By Nov. 19", what: "Women help shape sanitation solutions, alongside men", section: "Take action (the UN's calls)" }
-      - { when: "Mon., Mar. 22, 2027", what: "World Water Day (2027 theme not announced)", section: "Next dates" }
-      - { when: "Fri., Nov. 19, 2027", what: "World Toilet Day 2027", section: "Next dates" }
-    note: "Source: United Nations, World Toilet Day; World Health Organization and UNICEF, Aug. 26, 2025; WHO Sanitation fact sheet, Nov. 3, 2026."
-    description: "One-page World Toilet Day 2026 sheet: the Nov. 19 date, the UN theme, WHO and UNICEF sanitation numbers and tick boxes for the UN's calls to action."
-    alt: "Printable World Toilet Day 2026 fact and action sheet with the Nov. 19 date, sanitation numbers and tick boxes for actions"
+    data:
+      day: { date: "2026-11-19", name: "World Toilet Day", src: 2, quote: "World Toilet Day 19 November" }
+      facts:
+        - { text: "The 2026 campaign, 'Safe toilets. Equal futures.', is about sanitation and gender equality.", src: 2, quote: "World Toilet Day 2026 is about sanitation and gender equality." }
+        - { text: "In 2024, 3.4 billion people still lacked safely managed sanitation.", src: 4, quote: "3.4 billion people still lacked safely managed sanitation" }
+        - { text: "Of them, 354 million practice open defecation.", src: 4, quote: "354 million practising open defecation" }
+        - { text: "In 2024, 58% of people (4.8 billion) used a safely managed sanitation service.", src: 4, quote: "In 2024, 58% of the global population (4.8 billion people) used safely managed sanitation services." }
+      activities:
+        - type: checklist
+          title: "The UN's calls to action"
+          items:
+            - "Raise awareness of the link between sanitation and gender equality"
+            - "Invest in gender-responsive sanitation"
+            - "Make toilets a force for equality"
+            - "Help women shape sanitation solutions, alongside men"
+      unconfirmed:
+        - { label: "World Water Day 2027 theme", why: "the 2027 theme was not announced as of Nov. 4, 2026" }
 hero:
   src: ../../../../assets/news/world-toilet-day-2026-november-19/world-toilet-day-2026-november-19.webp
   alt: "A concrete arched public restroom on a street in Kyoto, Japan, for World Toilet Day 2026 on Nov. 19"
@@ -96,13 +100,13 @@ internalLinks:
     label: "March 2027 printable calendar"
 related: [world-diabetes-day-2026-saturday-november-14-early-action-theme, world-kindness-day-2026-friday-november-13-kindness-dates-printable, november-2026-important-dates-days-until]
 downloads:
-  - group: "World Toilet Day 2026 Fact and Action Sheet printables"
-    title: "World Toilet Day 2026 Fact and Action Sheet"
-    description: "One-page World Toilet Day 2026 sheet: the Nov. 19 date, the UN theme, WHO and UNICEF sanitation numbers and tick boxes for the UN's calls to action."
-    preview: ../../../../assets/news/world-toilet-day-2026/world-toilet-day-2026-activity-sheet.png
-    alt: "Printable World Toilet Day 2026 fact and action sheet with the Nov. 19 date, sanitation numbers and tick boxes for actions"
-    pdf: "/news/downloads/world-toilet-day-2026/world-toilet-day-2026-activity-sheet.pdf"
-    png: "/news/downloads/world-toilet-day-2026/world-toilet-day-2026-activity-sheet.png"
+  - group: "World Toilet Day 2026 Facts and Action Sheet printables"
+    title: "World Toilet Day 2026 Facts and Action Sheet"
+    description: "One-page World Toilet Day 2026 sheet: the Nov. 19 date, the UN theme, WHO sanitation figures and tick boxes for the UN's calls to action."
+    preview: ../../../../assets/news/world-toilet-day-2026/world-toilet-day-2026-facts-actions.png
+    alt: "Printable World Toilet Day 2026 facts and action sheet with the Nov. 19 date, sanitation figures and tick boxes for actions"
+    pdf: "/news/downloads/world-toilet-day-2026/world-toilet-day-2026-facts-actions.pdf"
+    png: "/news/downloads/world-toilet-day-2026/world-toilet-day-2026-facts-actions.png"
     pages: 1
 draft: false
 ---

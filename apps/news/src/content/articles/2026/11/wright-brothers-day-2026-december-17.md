@@ -15,28 +15,38 @@ assets:
   date: "2026-12-17"
   card: { top: "Wright Brothers Day 2026", big: "Dec. 17", bottom: "Memorial fee waived" }
   printable:
-    slug: wright-brothers-day-2026-activity-sheet
+    kit: activity-sheet
+    slug: wright-brothers-day-2026-flights-sheet
     group: wright-brothers-day-2026
     title: "Wright Brothers Day 2026 Flights and Visit Sheet"
-    subtitle: "Thu., Dec. 17, 2026: four flights and a visit checklist"
-    noKit: "An observance activity sheet with the four flights and a visit checklist, not a kit's date grid or status table."
-    notesLabel: "Where I will mark the first flight on Dec. 17"
-    rows:
-      - { when: "Thu., Dec. 17", what: "Wright Brothers Day 2026; first powered flights were Dec. 17, 1903", section: "Mark the date" }
-      - { when: "Dec. 17", what: "Fees waived at Wright Brothers National Memorial only (per person, 16 or older)", section: "Mark the date" }
-      - { when: "Flight 1", what: "12 seconds, 120 feet", section: "The four flights of Dec. 17, 1903 (NPS)" }
-      - { when: "Flight 2", what: "12 seconds, 175 feet", section: "The four flights of Dec. 17, 1903 (NPS)" }
-      - { when: "Flight 3", what: "15 seconds, 200 feet", section: "The four flights of Dec. 17, 1903 (NPS)" }
-      - { when: "Flight 4", what: "59 seconds, 852 feet", section: "The four flights of Dec. 17, 1903 (NPS)" }
-      - { when: "Before Dec. 17", what: "Check the 2026 anniversary program on the park's news page", section: "Before you go" }
-      - { when: "Before Dec. 17", what: "Check the park's hours page; it lists Christmas Day as closed", section: "Before you go" }
-      - { when: "Before Dec. 17", what: "Get a free timed-entry pass for the National Air and Space Museum", section: "Before you go" }
-      - { when: "Dec. 17", what: "Memorial: 1401 National Park Drive, Manteo, North Carolina", section: "Where to go" }
-      - { when: "Dec. 17", what: "Museum: Gallery 107, the original 1903 Wright Flyer, 10 am to 5:30 pm", section: "Where to go" }
-      - { when: "Fri., Dec. 17, 2027", what: "Wright Brothers Day 2027", section: "Next dates" }
-    note: "Source: National Park Service, Four Powered Flights and Wright Brothers National Memorial fees; NASA, 115 Years Ago; Smithsonian National Air and Space Museum."
+    subtitle: "Thu., Dec. 17, 2026: the four 1903 flights and a visit checklist"
+    note: "Source: National Park Service, Four Powered Flights and Wright Brothers National Memorial fees; 36 U.S. Code section 143; Smithsonian National Air and Space Museum."
     description: "One-page Wright Brothers Day 2026 sheet: the Dec. 17 date, the four 1903 flights in seconds and feet, the fee-free memorial and a visit checklist."
     alt: "Printable Wright Brothers Day 2026 sheet with the four 1903 flights, the Dec. 17 fee-free memorial and a visit checklist"
+    notesLabel: "Where I will mark the first flight on Dec. 17"
+    data:
+      day: { date: "2026-12-17", name: "Wright Brothers Day", src: 1, quote: "December 17 is Wright Brothers Day" }
+      facts:
+        - { text: "Federal law names Dec. 17 as Wright Brothers Day and asks the President for a yearly proclamation.", src: 1, quote: "December 17 is Wright Brothers Day" }
+        - { text: "The brothers made four powered flights the morning of Dec. 17, 1903.", src: 4, quote: "made four successful sustained powered flights the morning of December 17, 1903" }
+        - { text: "Fees are waived Dec. 17 at Wright Brothers National Memorial only, charged per person 16 or older.", src: 7, quote: "December 17: Fees are waived at this park only, marking the anniversary of the Wright brothers' 'first flight.'" }
+      activities:
+        - type: checklist
+          title: "The four flights of Dec. 17, 1903 (NPS)"
+          items:
+            - "Flight 1: 12 seconds, 120 feet"
+            - "Flight 2: 12 seconds, 175 feet"
+            - "Flight 3: 15 seconds, 200 feet"
+            - "Flight 4: 59 seconds, 852 feet"
+        - type: checklist
+          title: "Before you go"
+          items:
+            - "Check the 2026 anniversary program on the park's news page"
+            - "Check the park's hours page; Christmas Day is listed closed"
+            - "Get a free timed-entry pass for the National Air and Space Museum"
+            - "See the original 1903 Wright Flyer in Gallery 107"
+      unconfirmed:
+        - { label: "2026 anniversary program", why: "the memorial's 2026 program was not yet announced" }
 hero:
   src: ../../../../assets/news/wright-brothers-day-2026-december-17/wright-brothers-day-2026-december-17.webp
   alt: "The Wright Brothers Monument on Big Kill Devil Hill at Wright Brothers National Memorial in North Carolina, for Wright Brothers Day 2026"
@@ -104,10 +114,10 @@ downloads:
   - group: "Wright Brothers Day 2026 Flights and Visit Sheet printables"
     title: "Wright Brothers Day 2026 Flights and Visit Sheet"
     description: "One-page Wright Brothers Day 2026 sheet: the Dec. 17 date, the four 1903 flights in seconds and feet, the fee-free memorial and a visit checklist."
-    preview: ../../../../assets/news/wright-brothers-day-2026/wright-brothers-day-2026-activity-sheet.png
+    preview: ../../../../assets/news/wright-brothers-day-2026/wright-brothers-day-2026-flights-sheet.png
     alt: "Printable Wright Brothers Day 2026 sheet with the four 1903 flights, the Dec. 17 fee-free memorial and a visit checklist"
-    pdf: "/news/downloads/wright-brothers-day-2026/wright-brothers-day-2026-activity-sheet.pdf"
-    png: "/news/downloads/wright-brothers-day-2026/wright-brothers-day-2026-activity-sheet.png"
+    pdf: "/news/downloads/wright-brothers-day-2026/wright-brothers-day-2026-flights-sheet.pdf"
+    png: "/news/downloads/wright-brothers-day-2026/wright-brothers-day-2026-flights-sheet.png"
     pages: 1
 draft: false
 ---
