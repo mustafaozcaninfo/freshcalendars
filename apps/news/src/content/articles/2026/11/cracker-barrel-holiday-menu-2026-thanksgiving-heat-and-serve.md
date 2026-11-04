@@ -30,7 +30,7 @@ assets:
           quote: ["pickup available from Nov. 21 through Nov. 29", "Typically priced around $119.99", "Typically priced around $189.99"]
         - date: "2026-11-26"
           cells:
-            "Restaurants": "Serves a traditional Thanksgiving meal; hours may vary by location"
+            "Restaurants": "Thanksgiving meal in restaurants; hours may vary by location"
           src: 3
           quote: "Cracker Barrel plans to serve a traditional Thanksgiving meal at its restaurants on Thursday, Nov. 26"
         - date: "2026-11-29"
