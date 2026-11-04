@@ -100,6 +100,8 @@ export const quotesRequired = (ctx: KitContext) => String(ctx.publishedAt ?? "99
 
 /** Checks `quote` against the values it must contain; `days` are calendar days, `clocks` "HH:MM". */
 export function needQuote(pr: Problems, where: string, quote: unknown, ctx: KitContext, want: { days?: Date[]; clocks?: string[] }): void {
+  // Several quotes are allowed when the source gives the date and the time in different places.
+  if (Array.isArray(quote)) quote = quote.every(str) && quote.length ? quote.join(" | ") : "";
   if (quote === undefined) { if (quotesRequired(ctx)) pr.add(`${where}: add quote, the source's own words for this fact (required from ${QUOTE_SINCE})`); return; }
   if (!str(quote) || quote.length < 6) { pr.add(`${where}: quote must be the source's own words`); return; }
   const have = factTokens(quote, { story: true, iso: true }) as Set<string>;
@@ -126,6 +128,23 @@ const offsetIn = (d: Date, tz: string) => {
   const m = /GMT(?:([+-])(\d{2}):(\d{2}))?/.exec(p.timeZoneName ?? "");
   return !m || !m[1] ? 0 : (m[1] === "-" ? -1 : 1) * (Number(m[2]) * 60 + Number(m[3]));
 };
+/**
+ * For a time the source states in a named zone ("Australia/Sydney" for a Melbourne Test, "Asia/Tokyo"):
+ * the ISO time's offset must be that zone's offset at that moment, so the same daylight-saving check
+ * covers events abroad. Returns a problem or null.
+ */
+export function zoneOffsetProblem(iso: string, tz: string): string | null {
+  const d = isoMoment(iso);
+  if (!d) return null;
+  try { new Intl.DateTimeFormat("en-US", { timeZone: tz }); } catch { return `tz "${tz}" is not a time zone name (use one like "Australia/Sydney")`; }
+  const m = /(Z|([+-])(\d{2}):(\d{2}))$/.exec(iso)!;
+  const off = m[1] === "Z" ? 0 : (m[2] === "-" ? -1 : 1) * (Number(m[3]) * 60 + Number(m[4]));
+  const want = offsetIn(d, tz);
+  if (off === want) return null;
+  const sign = want < 0 ? "-" : "+", a = Math.abs(want);
+  return `offset ${m[1]} is not ${tz}'s clock on ${iso.slice(0, 10)}; it is ${sign}${String(Math.floor(a / 60)).padStart(2, "0")}:${String(a % 60).padStart(2, "0")} that day (check daylight saving time)`;
+}
+
 export function offsetProblem(iso: string, category = ""): string | null {
   const d = isoMoment(iso);
   if (!d) return null;

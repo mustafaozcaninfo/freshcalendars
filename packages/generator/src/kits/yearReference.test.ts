@@ -45,3 +45,22 @@ test("year-reference needs a source and a date-bearing quote for each mark when 
   // The mark's computed weekday carries its date into `computed` for the audit.
   assert.ok(yearReference.render(d, prn(), ctx).computed.some((c) => /Apr\. 15/.test(c)));
 });
+
+test("year-reference month: one large month with names in the cells", () => {
+  const ctx = { storySlug: "s", category: "calendar-guides", sources: [{ url: "https://a.gov", publisher: "A" }], theme: THEMES["calendar-guides"]!, fonts: "", publishedAt: "2026-11-01T09:00:00-05:00" };
+  const p = { kit: "year-reference", slug: "x", group: "g", title: "February 2027 Calendar", note: "Source: A", data: {} };
+  const d = yearReference.validate({ year: 2027, mode: "day-of-year", month: 2, federal: true, marks: [{ date: "2027-02-14", label: "Valentine's Day", src: 1 }] }, ctx);
+  const html = yearReference.render(d, p, ctx).html;
+  assert.match(html, /February 2027/);
+  assert.match(html, /Presidents' Day|Washington's Birthday/);
+  assert.match(html, /Valentine&#39;s Day|Valentine's Day/);
+  assert.match(html, /Day 45/);
+  assert.throws(() => yearReference.validate({ year: 2027, mode: "day-of-year", month: 2, marks: [{ date: "2027-03-01", label: "X", src: 1 }] }, ctx), /not in February 2027/);
+  assert.throws(() => yearReference.validate({ year: 2027, mode: "day-of-year", month: 13 }, ctx), /month: 1 to 12/);
+});
+
+test("ISO week numbers refuse a Sunday start (a row would straddle two weeks)", () => {
+  const ctx = { storySlug: "s", category: "calendar-guides", sources: [], theme: THEMES["calendar-guides"]!, fonts: "", publishedAt: "2026-11-01T09:00:00-05:00" };
+  assert.throws(() => yearReference.validate({ year: 2027, mode: "week-numbers", start: "sunday" }, ctx), /Monday start/);
+  assert.doesNotThrow(() => yearReference.validate({ year: 2027, mode: "day-of-year", start: "sunday" }, ctx));
+});
