@@ -28,12 +28,12 @@ assets:
       - ["April", "Thu., Apr. 15: tax filing and estimated tax | 3 paydays if paid Jan. 8 (B)"]
       - ["May", "No federal tax date printed | no three-payday month"]
       - ["June", "Tue., Jun. 15: estimated tax | no three-payday month"]
-      - ["July", "3 paydays if paid Jan. 1 (A): Jul. 2, 16, 30"]
+      - ["July", "Three paydays on schedule A: Jul. 2, 16, 30"]
       - ["August", "No federal tax date printed | no three-payday month"]
       - ["September", "Wed., Sep. 15: estimated tax | no three-payday month"]
       - ["October", "Fri., Oct. 15: extended returns | 3 paydays if paid Jan. 8 (B)"]
       - ["November", "No federal tax date printed | no three-payday month"]
-      - ["December", "3 paydays if paid Jan. 1 (A): Dec. 3, 17, 31"]
+      - ["December", "Three paydays on schedule A: Dec. 3, 17, 31"]
     note: "Source: Internal Revenue Service, Publication 509 and Form 1040-ES; payday months computed by Fresh Calendars in 14-day steps from Jan. 1 (A) and Jan. 8 (B), 2027. Your employer sets your pay date."
     description: "One-page 2027 monthly budget planner with IRS tax dates and three-paycheck months printed by month, plus blank lines for income, bills and savings."
     alt: "Monthly budget planner 2027 printable listing twelve months with tax dates and three-paycheck months and blank lines for income, bills and savings"
@@ -125,8 +125,8 @@ If you are paid every other Friday starting Jan. 1, 2027, three months hold thre
 
 | Schedule | First 2027 payday | Three-payday months |
 |---|---|---|
-| A | Fri., Jan. 1 | January (1, 15, 29), July (2, 16, 30), December (3, 17, 31) |
-| B | Fri., Jan. 8 | April (2, 16, 30), October (1, 15, 29) |
+| A | Fri., Jan. 1 | January (Jan. 1, 15, 29), July (Jul. 2, 16, 30), December (Dec. 3, 17, 31) |
+| B | Fri., Jan. 8 | April (Apr. 2, 16, 30), October (Oct. 1, 15, 29) |
 
 Your employer's payroll calendar decides your real pay date. The [three-paycheck months story](/news/three-paycheck-months-2027-biweekly-payday-calendar/) lists every payday on both schedules, so you can see which of your months need a bills plan for the extra check.
 
