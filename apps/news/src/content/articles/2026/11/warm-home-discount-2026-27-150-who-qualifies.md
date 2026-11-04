@@ -101,7 +101,23 @@ assets:
             What to check or do: { text: "Your supplier applies the discount to your bill by this date if you are eligible", src: 3 }
           src: 3
           quote: "If you're eligible, your electricity supplier will apply the discount to your bill by 31 March 2027."
-downloads: []
+downloads:
+  - group: "Warm Home Discount 2026-27 Eligibility Checklist printables"
+    title: "Warm Home Discount 2026-27 Eligibility Checklist"
+    description: "One-page Warm Home Discount 2026-27 sheet: the 23 August 2026 qualifying date, the 26 February 2027 contact deadline and the 31 March 2027 Scotland bill date."
+    preview: ../../../../assets/news/warm-home-discount-2026/warm-home-discount-2026-27-checklist.png
+    alt: "Printable Warm Home Discount 2026-27 sheet with the qualifying date, contact deadline and Scotland bill date"
+    pdf: "/news/downloads/warm-home-discount-2026/warm-home-discount-2026-27-checklist.pdf"
+    png: "/news/downloads/warm-home-discount-2026/warm-home-discount-2026-27-checklist.png"
+    pages: 1
+  - group: "Warm Home Discount 2026-27 Eligibility Checklist printables"
+    title: "Warm Home Discount 2026-27 Eligibility Checklist (A4)"
+    description: "One-page Warm Home Discount 2026-27 sheet: the 23 August 2026 qualifying date, the 26 February 2027 contact deadline and the 31 March 2027 Scotland bill date. A4 paper."
+    preview: ../../../../assets/news/warm-home-discount-2026/warm-home-discount-2026-27-checklist-a4.png
+    alt: "Printable Warm Home Discount 2026-27 sheet with the qualifying date, contact deadline and Scotland bill date, A4"
+    pdf: "/news/downloads/warm-home-discount-2026/warm-home-discount-2026-27-checklist-a4.pdf"
+    png: "/news/downloads/warm-home-discount-2026/warm-home-discount-2026-27-checklist-a4.png"
+    pages: 1
 draft: false
 ---
 
@@ -121,7 +137,7 @@ For Scotland, GOV.UK lists the same date as the day the conditions must be met: 
 
 ## Who qualifies for the Warm Home Discount in England and Wales?
 
-The 2026-27 statement merges what were Core Groups 1 and 2 into one "core group". It lists four qualifying benefits, and the recipient (or a partner notified to the Department for Work and Pensions, DWP) must be named on the electricity bill.
+The 2026-27 statement merges what were Core Groups 1 and 2 into one "core group". It lists four qualifying benefits, and the recipient (or a partner notified to the Department for Work and Pensions (DWP)) must be named on the electricity bill.
 
 | Check | England and Wales, 2026-27 (DESNZ) |
 |---|---|
@@ -179,7 +195,7 @@ These are three different payments with different triggers. The facts below come
 | Apply? | Usually automatic; may need to apply in Scotland | No, automatic | No, automatic |
 | Benefits that count | Four listed (England and Wales) | Pension Credit, income-related ESA, Universal Credit, Support for Mortgage Interest | 24 listed; Universal Credit alone is not on the list |
 
-## Printable
+## Warm Home Discount printable sheet
 
 The downloads below hold a one-page sheet with the three dated rows, the 23 August 2026 qualifying date, the 26 February 2027 contact deadline and the 31 March 2027 Scotland date, and what to check on each.
 

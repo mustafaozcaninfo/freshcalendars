@@ -70,7 +70,7 @@ internalLinks:
     label: "November 2026 printable calendar"
   - href: "/printable-yearly-calendar.html"
     label: "2026 printable yearly calendar"
-related: [winter-fuel-payment-2026-dates-amounts-35000-threshold, uk-budget-2026-date-wednesday-28-october-what-time, uk-christmas-bank-holidays-2026-boxing-day-substitute-december-28]
+related: [winter-fuel-payment-2026-dates-amounts-35000-threshold, warm-home-discount-2026-27-150-who-qualifies, uk-christmas-bank-holidays-2026-boxing-day-substitute-december-28]
 assets:
   overlay: true
   kicker: "Cold Weather Payment 2026-27"

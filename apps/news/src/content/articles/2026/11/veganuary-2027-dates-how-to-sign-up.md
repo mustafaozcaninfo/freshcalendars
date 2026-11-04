@@ -20,8 +20,8 @@ assets:
     title: "Veganuary 2027: 31-Day Meal Tracker"
     subtitle: "One line for each day, Fri., Jan. 1 to Sun., Jan. 31, 2027"
     note: "Source: Veganuary, Try Vegan sign-up page (veganuary.com/try-vegan), checked Nov. 4, 2026. Weekdays computed by Fresh Calendars."
-    description: "One-page Veganuary 2027 meal tracker with a line for each of the 31 days, Jan. 1 to 31, a weekly review table and a why-I'm-trying-it line."
-    alt: "Veganuary 2027 meal tracker printable with a tick box and write-in line for each day from Jan. 1 to Jan. 31 and a weekly review table"
+    description: "One-page Veganuary 2027 meal tracker with a line for each of the 31 days, Jan. 1 to 31, favorites lines and a why-I'm-trying-it line."
+    alt: "Veganuary 2027 meal tracker printable with a tick box and write-in line for each day from Jan. 1 to Jan. 31"
     data:
       sections:
         - type: lines
@@ -71,10 +71,9 @@ assets:
                 - "Fri., Jan. 29: ______"
                 - "Sat., Jan. 30: ______"
                 - "Sun., Jan. 31: ______"
-        - type: table
-          title: "Weekly review"
-          columns: ["Week", "Meals I tried", "Favorite", "Next to try"]
-          rows: 5
+        - type: lines
+          title: "My favorites this month"
+          labels: ["Best meal", "Next to try"]
 hero:
   src: ../../../../assets/news/veganuary-2027-dates-how-to-sign-up/veganuary-2027-dates-how-to-sign-up.webp
   alt: "A vegan bowl with tofu, carrots and tomatoes, for Veganuary 2027"
@@ -172,4 +171,4 @@ Both fill the same 31 days, Jan. 1 to Jan. 31, 2027, and both are run by chariti
 
 ## What is in the free Veganuary 2027 meal tracker?
 
-[Download the PDF](/news/downloads/veganuary-2027/veganuary-2027-31-day-meal-tracker.pdf) or the [PNG](/news/downloads/veganuary-2027/veganuary-2027-31-day-meal-tracker.png). It is a US Letter page with a tick box and a write-in line for each day from Fri., Jan. 1 to Sun., Jan. 31, 2027, grouped by the same weeks as the calendar above. It also has a "Why I'm trying it" line and a weekly review table with room for five weeks. For a weekly menu and grocery list, see our [meal planning calendar for 2027](/news/meal-planning-calendar-2027-printable/).
+[Download the PDF](/news/downloads/veganuary-2027/veganuary-2027-31-day-meal-tracker.pdf) or the [PNG](/news/downloads/veganuary-2027/veganuary-2027-31-day-meal-tracker.png). It is a US Letter page with a tick box and a write-in line for each day from Fri., Jan. 1 to Sun., Jan. 31, 2027, grouped by the same weeks as the calendar above. It also has a "Why I'm trying it" line and two lines for your best meal and the next one to try. For a weekly menu and grocery list, see our [meal planning calendar for 2027](/news/meal-planning-calendar-2027-printable/).
