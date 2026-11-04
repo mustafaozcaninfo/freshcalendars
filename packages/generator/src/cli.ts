@@ -29,6 +29,8 @@ import { buildVeteransDownloads } from "./veterans.js";
 import { buildNflBracketDownloads } from "./nflBracket.js";
 import { buildGiftListDownloads } from "./giftList.js";
 import { buildHabitTrackerDownloads } from "./habitTracker.js";
+import { buildSuperBowlSquaresDownloads } from "./superBowlSquares.js";
+import { buildDryJanuaryDownloads } from "./dryJanuary.js";
 import { buildThanksgivingCookingDownloads } from "./thanksgivingCooking.js";
 import { buildShoppingDownloads } from "./shopping2026.js";
 import { buildSkyDownloads } from "./sky2026.js";
@@ -160,6 +162,10 @@ async function main(): Promise<void> {
       await buildNflBracketDownloads();
     } else if (cmd === "news-habit-tracker") {
       await buildHabitTrackerDownloads();
+    } else if (cmd === "news-super-bowl-squares") {
+      await buildSuperBowlSquaresDownloads();
+    } else if (cmd === "news-dry-january") {
+      await buildDryJanuaryDownloads();
     } else if (cmd === "news-gift-list") {
       await buildGiftListDownloads();
     } else if (cmd === "news-thanksgiving-cooking") {
@@ -260,6 +266,7 @@ async function main(): Promise<void> {
   pnpm fc news-veterans                    # /news/ Veterans Day free meals cheat sheet
   pnpm fc news-nfl-bracket                 # /news/ NFL Playoff Bracket 2027 fill-in printable
   pnpm fc news-gift-list                   # /news/ Christmas gift list and budget planner 2026
+  pnpm fc news-dry-january                 # /news/ Dry January 2027 31-day tracker
   pnpm fc news-thanksgiving-cooking        # /news/ Thanksgiving Day 2026 cooking plan by turkey weight
   pnpm fc news-shopping                    # /news/ Black Friday planner + Christmas Eve checklist (3 themes each)
   pnpm fc news-sky                         # /news/ Orionid viewing times + checklist (night, ink)

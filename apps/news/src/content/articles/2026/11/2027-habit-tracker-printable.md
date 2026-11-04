@@ -62,7 +62,7 @@ internalLinks:
     label: "Monday-start printable calendar"
   - href: "/printable-weekly-calendar.html"
     label: "Printable weekly planner"
-related: [week-numbers-2027-calendar-printable, federal-holidays-2027-observed-dates-list, working-days-2027-business-days-by-month-federal-nyse]
+related: [week-numbers-2027-calendar-printable, federal-holidays-2027-observed-dates-list, dry-january-2027-tracker]
 downloads:
   - group: "2027 habit tracker printables"
     title: "2027 Habit Tracker: 365-Day Grid"
