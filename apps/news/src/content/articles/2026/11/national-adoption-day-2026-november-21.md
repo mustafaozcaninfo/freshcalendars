@@ -15,25 +15,32 @@ assets:
   date: "2026-11-21"
   card: { top: "National Adoption Day 2026", big: "Nov. 21", bottom: "Courts finalize adoptions" }
   printable:
-    slug: national-adoption-day-2026-activity-sheet
+    kit: activity-sheet
+    slug: national-adoption-day-2026-ways-to-take-part
     group: national-adoption-day-2026
-    title: "National Adoption Day 2026 Ways to Take Part"
+    title: "National Adoption Day 2026 Facts and Ways to Take Part"
     subtitle: "Sat., Nov. 21, 2026: finalize and celebrate adoptions from state care"
-    noKit: "An observance activity sheet with tick boxes for ways to take part, not a kit's date grid or status table."
+    note: "Source: nationaladoptionday.org, National Adoption Day (coalition site); Federal Register, National Adoption Month, 2025 (Proclamation 10992)."
+    description: "One-page National Adoption Day 2026 activity sheet: the Nov. 21 date, two sourced facts and tick boxes for ways to take part."
+    alt: "Printable National Adoption Day 2026 activity sheet with the Nov. 21 date and tick boxes for ways to take part"
     notesLabel: "How I will take part in National Adoption Day 2026"
-    rows:
-      - { when: "Sat., Nov. 21", what: "National Adoption Day 2026, on or around the Saturday before Thanksgiving", section: "Mark the date" }
-      - { when: "Thu., Nov. 26", what: "Thanksgiving 2026, five days after National Adoption Day", section: "Mark the date" }
-      - { when: "Before Nov. 21", what: "Check the event list on nationaladoptionday.org for a court near you", section: "Take part" }
-      - { when: "Before Nov. 21", what: "Call your county family court: the courts set their own event times", section: "Take part" }
-      - { when: "Organisers", what: "Register your event on nationaladoptionday.org", section: "Take part" }
-      - { when: "Anytime", what: "Share your story with the coalition", section: "Take part" }
-      - { when: "Anytime", what: "Ask your state child welfare agency how to become a resource parent", section: "Take part" }
-      - { when: "Anytime", what: "Spread the word about permanency for every child", section: "Take part" }
-      - { when: "Sat., Nov. 20, 2027", what: "National Adoption Day 2027 (our calculation)", section: "Next dates" }
-    note: "Source: nationaladoptionday.org, National Adoption Day (coalition site), read Nov. 4, 2026."
-    description: "One-page National Adoption Day 2026 sheet: the Nov. 21 date, Thanksgiving on Nov. 26 and tick boxes for ways to take part, from finding a court event to sharing a story."
-    alt: "Printable National Adoption Day 2026 sheet with the Nov. 21 date and tick boxes for ways to take part"
+    data:
+      day: { date: "2026-11-21", name: "National Adoption Day", src: 1, quote: "Saturday, November 21, 2026" }
+      facts:
+        - { text: "Held on or around the Saturday before Thanksgiving to finalize and celebrate adoptions of children in state care.", src: 1, quote: "on or around the Saturday before Thanksgiving" }
+        - { text: "November is National Adoption Month.", src: 2, quote: "National Adoption Month, 2025" }
+      activities:
+        - type: checklist
+          title: "Ways to take part"
+          items:
+            - "Find a court event near you on nationaladoptionday.org"
+            - "Call your county family court for event times"
+            - "Register your event, if you are an organizer"
+            - "Share your story with the coalition"
+            - "Ask your state agency how to become a resource parent"
+            - "Spread the word about permanency for every child"
+      unconfirmed:
+        - { label: "2026 National Adoption Month proclamation", why: "a 2026 proclamation had not been issued as of Nov. 4, 2026" }
 hero:
   src: ../../../../assets/news/national-adoption-day-2026-november-21/national-adoption-day-2026-november-21.webp
   alt: "Wooden blocks spelling adopt next to a gavel and adoption forms, for National Adoption Day 2026 on Nov. 21"
@@ -74,13 +81,13 @@ internalLinks:
     label: "When is Thanksgiving?"
 related: [native-american-heritage-day-2026-friday-november-27-heritage-month, why-thanksgiving-2026-is-november-26, america-recycles-day-2026-november-15]
 downloads:
-  - group: "National Adoption Day 2026 Ways to Take Part printables"
-    title: "National Adoption Day 2026 Ways to Take Part"
-    description: "One-page National Adoption Day 2026 sheet: the Nov. 21 date, Thanksgiving on Nov. 26 and tick boxes for ways to take part, from finding a court event to sharing a story."
-    preview: ../../../../assets/news/national-adoption-day-2026/national-adoption-day-2026-activity-sheet.png
-    alt: "Printable National Adoption Day 2026 sheet with the Nov. 21 date and tick boxes for ways to take part"
-    pdf: "/news/downloads/national-adoption-day-2026/national-adoption-day-2026-activity-sheet.pdf"
-    png: "/news/downloads/national-adoption-day-2026/national-adoption-day-2026-activity-sheet.png"
+  - group: "National Adoption Day 2026 Facts and Ways to Take Part printables"
+    title: "National Adoption Day 2026 Facts and Ways to Take Part"
+    description: "One-page National Adoption Day 2026 activity sheet: the Nov. 21 date, two sourced facts and tick boxes for ways to take part."
+    preview: ../../../../assets/news/national-adoption-day-2026/national-adoption-day-2026-ways-to-take-part.png
+    alt: "Printable National Adoption Day 2026 activity sheet with the Nov. 21 date and tick boxes for ways to take part"
+    pdf: "/news/downloads/national-adoption-day-2026/national-adoption-day-2026-ways-to-take-part.pdf"
+    png: "/news/downloads/national-adoption-day-2026/national-adoption-day-2026-ways-to-take-part.png"
     pages: 1
 draft: false
 ---
