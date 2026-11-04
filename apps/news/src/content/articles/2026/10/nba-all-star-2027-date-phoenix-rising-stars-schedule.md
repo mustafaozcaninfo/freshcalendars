@@ -62,7 +62,7 @@ internalLinks:
     label: "February 2027 printable calendar"
   - href: "/printable-weekly-calendar.html"
     label: "Printable weekly calendar"
-related: [nba-cup-2026-schedule-dates-group-play-knockouts-final-indianapolis, christmas-day-2026-games-nba-nfl-schedule-times-tv, nhl-winter-classic-2027-date-time-avalanche-mammoth-salt-lake-city]
+related: [nba-cup-2026-schedule-dates-group-play-knockouts-final-indianapolis, christmas-day-2026-games-nba-nfl-schedule-times-tv, nba-paris-manchester-games-2027-dates-times-tv]
 assets:
   overlay: true
   scene: none
