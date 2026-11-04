@@ -125,12 +125,22 @@ export const ADSENSE_JS = `
     s.onload=pushPending;
     document.head.appendChild(s);
   }
-  function schedule(){
-    if('requestIdleCallback' in window) window.requestIdleCallback(boot,{timeout:2000});
-    else setTimeout(boot,900);
+  /* The ad code waits for the reader's first scroll, tap or key (or 8 s after load for one who reads
+     without touching the page). On a slow phone it cost 400-900 ms of blocked main thread at load and,
+     arriving late, became the page's largest paint (LCP 5-9 s instead of 1-2 s); LCP stops being
+     measured at the first interaction, so the ads now load after it. */
+  function arm(){
+    var evs=['scroll','pointerdown','keydown','touchstart'],t=setTimeout(go,8000);
+    function go(){
+      clearTimeout(t);
+      evs.forEach(function(e){ window.removeEventListener(e,go,true); });
+      if('requestIdleCallback' in window) window.requestIdleCallback(boot,{timeout:1000});
+      else setTimeout(boot,200);
+    }
+    evs.forEach(function(e){ window.addEventListener(e,go,{capture:true,passive:true}); });
   }
-  if(document.readyState==='complete') schedule();
-  else window.addEventListener('load',schedule);
+  if(document.readyState==='complete') arm();
+  else window.addEventListener('load',arm);
 })();
 `;
 
