@@ -4,7 +4,7 @@ seoTitle: "When Will We Know 2026 Midterm Election Results?"
 description: "Polls closed Nov. 3, 2026, but counting takes days in some states. When mail ballots are counted in 17 key states, late-ballot rules and certification dates."
 type: explainer
 publishedAt: "2026-10-21T00:30:00-04:00"
-updatedAt: "2026-11-04T01:20:00-05:00"
+updatedAt: "2026-11-04T05:29:00-05:00"
 authors: [christina-gerland]
 category: elections
 keywords: ["when will we know election results 2026", "when will election results start coming in", "2026 midterm results timeline", "election results by state 2026", "when are election results certified"]
@@ -59,6 +59,10 @@ sources:
     url: "https://voterguide.sos.ca.gov/voter-info/election-results.htm"
     publisher: "California Secretary of State"
     date: "2026-11-04"
+  - title: "Official Canvass - Vote Counting Process"
+    url: "https://www.sos.ca.gov/elections/upcoming-elections/vote-counting-process"
+    publisher: "California Secretary of State"
+    date: "2026-11-04"
   - title: "Mail ballot signature cure notice, 2026 general election"
     url: "https://www.clarkcountynv.gov/adobe/assets/urn:aaid:aem:49388c5e-e4e8-4d0d-b850-be1f8290f71f/original/as/mbsigcure-26g.pdf"
     publisher: "Clark County (Nevada) Election Department"
@@ -90,7 +94,11 @@ draft: false
 
 ## Where the 2026 count stands on Wednesday, Nov. 4
 
-Election-night totals are unofficial, and counting continues on Wednesday, Nov. 4. It goes on in states that accept late mail ballots (Texas until 5 p.m. Nov. 4, Nevada until 5 p.m. Nov. 7, California and New York through Nov. 10) and in ranked-choice states such as Maine and Alaska. California's Secretary of State says "in the days afterwards, the results will be updated each day throughout the canvass as counties count the remaining ballots," and that official certified results "will be posted by December 11, 2026." In Clark County, Nevada, voters can fix a mail ballot signature problem until 5 p.m. on Nov. 9, according to the county Election Department.
+Election-night totals are unofficial, and counting continues on Wednesday, Nov. 4. It goes on in states that accept late mail ballots (Texas until 5 p.m. Nov. 4, Nevada until 5 p.m. Nov. 7, California and New York through Nov. 10) and in ranked-choice states such as Maine and Alaska. California's Secretary of State says "in the days afterwards, the results will be updated each day throughout the canvass as counties count the remaining ballots," and that official certified results "will be posted by December 11, 2026."
+
+The Secretary of State's canvass page sets the rest of California's schedule relative to Election Day. Computed from those rules for the Nov. 3, 2026 election: counties must count and report all ballots, with some exceptions, by the 13th day, Monday, Nov. 16; counties must send final results to the Secretary of State by 30 days after, Thursday, Dec. 3; and the Secretary of State certifies at 38 days, Friday, Dec. 11. Vote-by-mail ballots postmarked by Election Day and received within seven days count, which gives Nov. 10.
+
+In Clark County, Nevada, voters can fix a mail ballot signature problem until 5 p.m. on Nov. 9, according to the county Election Department.
 
 We could not confirm from most state election offices how many ballots remain to be counted, and we have no confirmation that any state has finished counting. Check your state's election office through our [live blog](/news/election-day-2026-results-map/) for the latest.
 
@@ -164,8 +172,10 @@ In Watson v. Republican National Committee, decided June 29, 2026, the U.S. Supr
 | Date | What happens |
 |---|---|
 | Nov. 4-10 | Late mail ballots arrive in grace-period states (Texas Nov. 4, Nevada Nov. 7, California and New York Nov. 10) |
+| Nov. 16 | California counties finish reporting all ballots, with some exceptions (computed from the Secretary of State's 13-day rule) |
 | Mid-November | Counties finish canvassing; ranked-choice rounds in Maine and Alaska |
 | Dec. 1 | Georgia runoff, if needed |
+| Dec. 3 | California counties send final results to the Secretary of State (computed from the 30-day rule) |
 | Late Nov.-Dec. | States certify results |
 | Jan. 3, 2027 | The new Congress is sworn in |
 

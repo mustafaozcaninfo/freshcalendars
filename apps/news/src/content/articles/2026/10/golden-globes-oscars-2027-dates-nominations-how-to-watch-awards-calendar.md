@@ -4,7 +4,7 @@ seoTitle: "Golden Globes and Oscars 2027 Dates and Calendar"
 description: "The 84th Golden Globes air Sunday, Jan. 10, 2027, on CBS; the 99th Oscars are Sunday, March 14 at 7 p.m. Eastern Time (ET) on ABC. Every nomination date."
 type: news
 publishedAt: "2026-10-31T01:00:00-04:00"
-updatedAt: "2026-11-01T11:45:00-05:00"
+updatedAt: "2026-11-04T05:29:00-05:00"
 authors: [jessica-hartwell]
 category: entertainment
 keywords: ["golden globes 2027 date", "oscars 2027 date", "when are the oscars 2027", "awards season 2027 calendar", "oscar nominations 2027"]
@@ -21,13 +21,13 @@ hero:
     author: "Greg in Hollywood (Greg Hernandez)"
     authorUrl: "https://www.flickr.com/photos/greginhollywood/"
 summary:
-  - "The 84th Golden Globes are on Sunday, Jan. 10, 2027, on CBS and Paramount+ in the U.S.; nominations come Monday, Dec. 7, 2026, the Golden Globes say."
+  - "The 84th Golden Globes are on Sunday, Jan. 10, 2027, on CBS and Paramount+ in the U.S. from 8 p.m. to 11 p.m. ET, with Nikki Glaser returning as host; nominations come Monday, Dec. 7, 2026, the Golden Globes say."
   - "The 99th Oscars are on Sunday, March 14, 2027, live on ABC at 7 p.m. Eastern Time (ET) / 4 p.m. Pacific Time (PT), per the Academy."
   - "Oscar nominations are announced Thursday, Jan. 21, 2027, after nominations voting from Jan. 11 to Jan. 15."
   - "The table lists eight awards-season events from Nov. 16, 2026, to March 14, 2027, including the Actor Awards on Sunday, Feb. 28, live on Netflix; the British Academy of Film and Television Arts (BAFTA) date is not confirmed."
 faq:
   - q: "When are the Golden Globes 2027?"
-    a: "Sunday, Jan. 10, 2027. The 84th Golden Globes air on CBS and stream on Paramount+ in the U.S., according to the Golden Globes."
+    a: "Sunday, Jan. 10, 2027, from 8 p.m. to 11 p.m. ET (5 p.m. to 8 p.m. PT), live on CBS and Paramount+, according to CBS. Nikki Glaser will return to host, the Golden Globes say."
   - q: "When are the Oscars 2027?"
     a: "Sunday, March 14, 2027, at 7 p.m. ET / 4 p.m. PT on ABC, from the Dolby Theatre at Ovation Hollywood, according to the Academy."
   - q: "When are the Oscar nominations announced?"
@@ -41,6 +41,9 @@ sources:
     url: "https://goldenglobes.com/articles/the-84th-annual-golden-globes-timetable-eligibility-rules-and-campaign-guidelines-announced/"
     publisher: "Golden Globes"
     date: "2026-05-07"
+  - title: "84th Annual Golden Globes | About"
+    url: "https://www.paramountpressexpress.com/cbs-entertainment/shows/84th-annual-golden-globes/about/"
+    publisher: "CBS"
   - title: "Academy and ABC announce show dates for the 99th and 100th Oscars"
     url: "https://press.oscars.org/news/academy-and-abc-announce-show-dates-99th-and-100th-oscarsr"
     publisher: "Academy of Motion Picture Arts and Sciences"
@@ -77,8 +80,8 @@ assets:
     group: awards-season-2027
     title: "Awards Season 2026-27 Calendar"
     subtitle: "Golden Globes, Oscars, Grammys, Critics Choice and Actor Awards dates"
+    noKit: "Mixed season calendar of nominations, ballots, voting windows and shows; no single kit draws it."
     layout: list
-    inkSaver: true
     description: "Awards season dates from Nov. 16, 2026, to March 14, 2027: Grammy and Golden Globe nominations, Critics Choice, Golden Globes, Oscar nominations, the Actor Awards and the Oscars."
     alt: "Printable awards season calendar from Grammy nominations on Nov. 16, 2026, to the Oscars on March 14, 2027"
     rows:
@@ -86,7 +89,7 @@ assets:
       - ["Dec. 7, 2026 (Mon.)", "Golden Globe nominations announced"]
       - ["Jan. 2, 2027 (Sat.)", "Golden Globes final ballots due, 5 p.m. PT"]
       - ["Jan. 3, 2027 (Sun.)", "Critics Choice Awards, USA Network, 7 to 10 p.m. ET"]
-      - ["Jan. 10, 2027 (Sun.)", "84th Golden Globes, CBS and Paramount+"]
+      - ["Jan. 10, 2027 (Sun.)", "84th Golden Globes, CBS and Paramount+, 8 p.m. ET / 5 p.m. PT"]
       - ["Jan. 11 (Mon.) to Jan. 15 (Fri.), 2027", "Oscar nominations voting, 9 a.m. PT to 5 p.m. PT"]
       - ["Jan. 21, 2027 (Thu.)", "Oscar nominations announced"]
       - ["Feb. 7, 2027 (Sun.)", "69th Grammy Awards, ABC, Disney+ and Hulu"]
@@ -94,7 +97,7 @@ assets:
       - ["Feb. 25 (Thu.) to March 4 (Thu.), 2027", "Oscars final voting"]
       - ["Feb. 28, 2027 (Sun.)", "Actor Awards, Netflix, 8 p.m. ET / 5 p.m. PT"]
       - ["March 14, 2027 (Sun.)", "99th Oscars, ABC, 7 p.m. ET / 4 p.m. PT"]
-    note: "Source: Golden Globes (May 7, 2026), Academy of Motion Picture Arts and Sciences (April 7, 2026), Recording Academy (May 12, 2026), Critics Choice Association (April 20, 2026), The Actor Awards (checked Nov. 1, 2026). Dates are subject to change."
+    note: "Source: Golden Globes (May 7, 2026), CBS, Academy of Motion Picture Arts and Sciences (April 7, 2026), Recording Academy (May 12, 2026), Critics Choice Association (April 20, 2026), The Actor Awards. Dates are subject to change."
 downloads:
   - group: "Awards Season 2026-27 Calendar printables"
     title: "Awards Season 2026-27 Calendar"
@@ -126,7 +129,7 @@ Each row comes from the organizer's own announcement. "None listed" and "Not lis
 | Mon., Nov. 16, 2026 | Grammy nominations announced | None listed | Not listed |
 | Mon., Dec. 7, 2026 | Golden Globe nominations announced | None listed | Not listed |
 | Sun., Jan. 3, 2027 | 32nd Critics Choice Awards, The Barker Hangar | USA Network | 7 to 10 p.m. ET / 4 to 7 p.m. PT |
-| Sun., Jan. 10, 2027 | 84th Golden Globes | CBS, Paramount+ | Not listed |
+| Sun., Jan. 10, 2027 | 84th Golden Globes | CBS, Paramount+ | 8 to 11 p.m. ET / 5 to 8 p.m. PT |
 | Thu., Jan. 21, 2027 | Oscar nominations announced | None listed | Not listed |
 | Sun., Feb. 7, 2027 | 69th Grammy Awards, Crypto.com Arena, Los Angeles | ABC, Disney+, Hulu | Not listed |
 | Sun., Feb. 28, 2027 | Actor Awards | Netflix | 8 p.m. ET / 5 p.m. PT |
@@ -136,7 +139,7 @@ The date and weekday for each row come from the organizers' pages cited under So
 
 ## Golden Globes 2027: ceremony, nominations and ballot deadline
 
-The Golden Globes announced its 84th ceremony timetable on May 7, 2026. The show is Sunday, Jan. 10, 2027, on CBS, with streaming on Paramount+ in the U.S. Nominations are announced Monday, Dec. 7, 2026. Final ballots are due Saturday, Jan. 2, 2027, at 5 p.m. PT.
+The Golden Globes announced its 84th ceremony timetable on May 7, 2026. The show is Sunday, Jan. 10, 2027, on CBS, with streaming on Paramount+ in the U.S. CBS lists it live from 8 p.m. to 11 p.m. ET (5 p.m. to 8 p.m. PT). The Golden Globes say Nikki Glaser will return to host. Nominations are announced Monday, Dec. 7, 2026. Final ballots are due Saturday, Jan. 2, 2027, at 5 p.m. PT.
 
 ## Oscars 2027: show time, nominations and voting dates
 
@@ -154,7 +157,7 @@ The Academy's key dates page lists the steps toward the show. It adds that "all 
 
 ## How to watch the 2027 awards shows
 
-For the Golden Globes, the Golden Globes name CBS and Paramount+ in the U.S. The Oscars are on ABC. The Recording Academy says the Grammys on Sunday, Feb. 7, 2027, are simulcast on ABC, Disney+ and Hulu; our [Grammy nominations story](/news/grammy-nominations-2027-date-69th-grammys-february-7/) covers that season in detail. The Critics Choice Association lists USA Network for its Sunday, Jan. 3, 2027, show. A start time for the Golden Globes and the Grammys was not in the releases we used.
+For the Golden Globes, the Golden Globes name CBS and Paramount+ in the U.S. The Oscars are on ABC. The Recording Academy says the Grammys on Sunday, Feb. 7, 2027, are simulcast on ABC, Disney+ and Hulu; our [Grammy nominations story](/news/grammy-nominations-2027-date-69th-grammys-february-7/) covers that season in detail. The Critics Choice Association lists USA Network for its Sunday, Jan. 3, 2027, show. CBS lists the Golden Globes live from 8 p.m. to 11 p.m. ET (5 p.m. to 8 p.m. PT). A start time for the Grammys was not in the releases we used.
 
 For game fans, [The Game Awards 2026 story](/news/the-game-awards-2026-tickets-october-29-date-december-10-nominations/) has its own date. Another big date in the same stretch is [Super Bowl 61 (LXI)](/news/super-bowl-lxi-2027-date-sofi-stadium-channel-halftime/).
 
