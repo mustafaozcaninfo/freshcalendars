@@ -62,7 +62,7 @@ internalLinks:
     label: "November 2026 printable calendar"
   - href: "/when-is/halloween/"
     label: "When is Halloween?"
-related: [ufc-fight-night-moicano-vs-nolan-halloween-start-time-how-to-watch, sports-on-tv-today-october-31-2026, survivor-series-wargames-2026-date-start-time-houston-espn]
+related: [fury-vs-joshua-december-11-2026-fight-time-ring-walk-netflix, ufc-fight-night-moicano-vs-nolan-halloween-start-time-how-to-watch, sports-on-tv-today-october-31-2026]
 assets:
   overlay: true
   kicker: "Canelo vs. M'Billi · Sat., Oct. 31, 2026"
