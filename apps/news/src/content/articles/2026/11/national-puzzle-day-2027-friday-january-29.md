@@ -24,7 +24,7 @@ assets:
     alt: "Printable National Puzzle Day 2027 sheet with the Jan. 29 date and tick boxes for puzzles through the day"
     notesLabel: "Puzzles we finished, and who solved what"
     data:
-      day: { date: "2027-01-29", name: "National Puzzle Day", src: 2, quote: "Held every year on January 29, this special day is all about encouraging people of all ages to explore, play, and enjoy puzzles" }
+      day: { date: "2027-01-29", name: "National Puzzle Day", src: 1, quote: "Puzzle Day is January 29th every year" }
       facts:
         - { text: "Puzzle Day was founded by Jodi Jill, a professional puzzle maker.", src: 2, quote: "Puzzle Day was founded by Jodi Jill, a professional puzzle maker and lifelong puzzle enthusiast." }
         - { text: "The site offers a free 2026 Puzzle Kit and lists the hashtag #PuzzleDay.", src: 1, quote: "Download, Copy and Play our official 2026 Puzzle Kit" }
