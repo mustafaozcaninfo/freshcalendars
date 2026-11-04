@@ -1,0 +1,49 @@
+---
+/**
+ * The story's first printable, shown above the text: thumbnail, title and a direct PDF button.
+ * Search Console (2026-11-03) shows printable PDFs earning far more clicks per impression than the
+ * stories around them, yet the grid sits below the whole story and only a one-line link pointed to it.
+ * The full grid (`DownloadGrid`, id "downloads") stays where it is; this card links to it.
+ */
+import { Image } from "astro:assets";
+import type { ImageMetadata } from "astro";
+interface Item { title: string; preview: ImageMetadata; alt: string; pdf: string; pages: number; paper: string; compact: boolean }
+interface Props { items: Item[] }
+const { items } = Astro.props;
+const n = items.length;
+// A set of compact (thumbnail-less) files has no picture to show: keep the plain link.
+const first = items.find((i) => !i.compact);
+const count = `${n} free printable${n === 1 ? "" : "s"}`;
+---
+{n > 0 && (first ? (
+  <aside class="print-tease" aria-label="Free printable">
+    <div class="pt-thumb">
+      <Image src={first.preview} alt={first.alt} title={first.title} widths={[96, 192]} sizes="64px" format="webp" loading="lazy" decoding="async" />
+    </div>
+    <div class="pt-body">
+      <p class="pt-k">{n === 1 ? "Free printable" : `${count}, no sign-up`}</p>
+      <p class="pt-t">{first.title}</p>
+      <div class="pt-act">
+        <a class="pt-btn" href={first.pdf} download type="application/pdf" aria-label={`Download ${first.title} (PDF)`}>Download PDF</a>
+        <a class="pt-more" href="#downloads">{n === 1 ? "See it below" : `See all ${n} below`} ↓</a>
+      </div>
+    </div>
+  </aside>
+) : (
+  <p class="pt-plain"><a href="#downloads">{count} below ↓</a></p>
+))}
+<style>
+  .print-tease{display:grid;grid-template-columns:64px 1fr;gap:.85rem;align-items:center;margin:0 0 1.25rem;padding:.75rem .9rem;border:1px solid var(--warm-line);border-left:5px solid var(--gold);border-radius:12px;background:var(--surface-warm)}
+  .pt-thumb :global(img){display:block;width:64px;height:auto;border:1px solid var(--n-border);border-radius:5px;background:#fff}
+  .pt-body p{margin:0}
+  .pt-k{font-size:.8125rem;font-weight:700;text-transform:uppercase;letter-spacing:.06em;color:var(--ink)}
+  .pt-t{font-family:Sora,"Sora Fallback",sans-serif;font-weight:700;font-size:.98rem;line-height:1.3;color:var(--ink-strong);margin:.1rem 0 .35rem!important}
+  .pt-act{display:flex;flex-wrap:wrap;align-items:center;gap:.25rem .9rem}
+  .pt-btn{display:inline-flex;align-items:center;min-height:44px;padding:0 .95rem;border-radius:8px;background:var(--focus);color:#fff;font-weight:700;font-size:.9rem;text-decoration:none}
+  .pt-btn:hover{box-shadow:0 4px 10px rgba(0,74,127,.25)}
+  /* The dark theme turns --focus into a light green; white text on it fails contrast. Same green as every other PDF button (site-chrome design.ts). */
+  :global(html[data-theme=dark]) .pt-btn{background:#007749;color:#fff}
+  .pt-more,.pt-plain a{display:inline-flex;align-items:center;min-height:44px;font-weight:700}
+  .pt-plain{margin:-.5rem 0 1.25rem}
+  .pt-btn:focus-visible{outline:3px solid var(--focus);outline-offset:2px}
+</style>
