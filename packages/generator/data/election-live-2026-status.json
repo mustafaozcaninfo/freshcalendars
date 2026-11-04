@@ -1,6 +1,6 @@
 {
-  "asOf": "2026-11-03T22:44:08-05:00",
-  "headline": "Polls have closed in states through the 10 p.m. ET wave. Seventeen U.S. Senate races, eleven governor races and six U.S. House seats are marked called. NBC News and CBS News have each projected that Democrats will win a House majority; this page counts House seats only as districts are called.",
+  "asOf": "2026-11-03T23:04:51-05:00",
+  "headline": "Polls have closed in states through the 11 p.m. ET wave. Nineteen U.S. Senate races, thirteen governor races and nine U.S. House seats are marked called. NBC News, CBS News and Fox News have each projected that Democrats will win a House majority; this page counts House seats only as districts are called.",
   "races": {
     "VA-S": {
       "status": "called",
@@ -285,6 +285,47 @@
         "Fox News"
       ],
       "at": "2026-11-03T22:28:00-05:00"
+    },
+    "TX-S": {
+      "status": "called",
+      "winner": "James Talarico",
+      "winnerParty": "D",
+      "calledBy": [
+        "NBC News",
+        "CBS News"
+      ],
+      "at": "2026-11-03T22:53:00-05:00"
+    },
+    "OR-S": {
+      "status": "called",
+      "winner": "Jeff Merkley",
+      "winnerParty": "D",
+      "calledBy": [
+        "NBC News",
+        "Fox News"
+      ],
+      "at": "2026-11-03T23:00:00-05:00"
+    },
+    "OH-G": {
+      "status": "called",
+      "winner": "Amy Acton",
+      "winnerParty": "D",
+      "calledBy": [
+        "NBC News",
+        "CBS News",
+        "Fox News"
+      ],
+      "at": "2026-11-03T22:54:00-05:00"
+    },
+    "NM-G": {
+      "status": "called",
+      "winner": "Deb Haaland",
+      "winnerParty": "D",
+      "calledBy": [
+        "NBC News",
+        "Fox News"
+      ],
+      "at": "2026-11-03T22:55:00-05:00"
     }
   },
   "house": {
@@ -304,6 +345,11 @@
       "O": 0
     },
     "PA": {
+      "D": 3,
+      "R": 0,
+      "O": 0
+    },
+    "TX": {
       "D": 1,
       "R": 0,
       "O": 0
