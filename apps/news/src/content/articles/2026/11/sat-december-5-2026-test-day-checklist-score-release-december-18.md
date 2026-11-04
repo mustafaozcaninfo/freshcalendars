@@ -1,7 +1,7 @@
 ---
 title: "SAT on Dec. 5, 2026: Registration Deadline Nov. 20, Test Day Checklist, Scores Dec. 18"
 seoTitle: "SAT Dec. 5, 2026: Register by Nov. 20, Scores Dec. 18"
-description: "Register for the Dec. 5, 2026 SAT by 11:59 p.m. Eastern Time (ET) on Fri., Nov. 20, College Board says. Students see scores Fri., Dec. 18; late deadline is Nov. 24."
+description: "Register for the Dec. 5, 2026 SAT by 11:59 p.m. Eastern Time (ET) on Fri., Nov. 20, College Board says. Student scores come Fri., Dec. 18."
 type: news
 publishedAt: "2026-11-04T08:48:00-05:00"
 updatedAt: "2026-11-04T08:48:00-05:00"
@@ -13,7 +13,7 @@ hero:
   src: ../../../../assets/news/sat-december-5-2026-test-day-checklist-score-release-december-18/sat-december-5-2026-test-day-checklist-score-release-december-18.webp
   alt: "SAT December 2026: a pencil resting on a bubble answer sheet"
   caption: "A pencil on a paper answer sheet. The SAT is now taken in the Bluebook app, but College Board still asks for pencils or pens for scratch work."
-  credit: "CREDIT_PLACEHOLDER"
+  credit: "Photo: lecroitg / Wikimedia Commons, cropped, edited"
   license:
     name: "CC0"
     url: "http://creativecommons.org/publicdomain/zero/1.0/deed.en"
@@ -34,7 +34,6 @@ assets:
     description: "A one-page sheet of the College Board deadlines, fees, test-day items and score release dates for the Saturday, Dec. 5, 2026 SAT."
     alt: "Printable grid of SAT deadlines, fees, test-day items and score dates for the Dec. 5, 2026 test"
     data:
-      target: { date: "2026-12-05", label: "SAT test day" }
       columns: ["What to do", "Cost or note"]
       rows:
         - date: "2026-11-20"
@@ -126,6 +125,15 @@ internalLinks:
   - href: "/november-calendars.html"
     label: "November 2026 printable calendar"
 related: [sat-act-test-dates-2026-27-registration-deadlines, act-december-12-2026-registration-deadline-november-6, sat-november-7-2026-test-day-checklist-what-to-bring-score-release-date]
+downloads:
+  - group: "SAT December 5 printables"
+    title: "SAT December 5, 2026 Deadlines and Test Day Checklist"
+    description: "A one-page sheet of the College Board deadlines, fees, test-day items and score release dates for the Saturday, Dec. 5, 2026 SAT."
+    preview: ../../../../assets/news/sat-december-2026/sat-december-5-2026-deadlines-checklist.png
+    alt: "Printable grid of SAT deadlines, fees, test-day items and score dates for the Dec. 5, 2026 test"
+    pdf: "/news/downloads/sat-december-2026/sat-december-5-2026-deadlines-checklist.pdf"
+    png: "/news/downloads/sat-december-2026/sat-december-5-2026-deadlines-checklist.png"
+    pages: 1
 draft: false
 ---
 
@@ -139,7 +147,7 @@ The days left are counted from Wednesday, Nov. 4, 2026 (our math). Thu., Dec. 3 
 |---|---|---|---|
 | Fri., Nov. 20 | Registration deadline | 16 | Late registration fee of $38 if you register by Nov. 24 |
 | Tue., Nov. 24 | Deadline for changes, regular cancellation and late registration | 20 | After this, a cancellation is a late cancel at $44 |
-| Thu., Dec. 3 | Last day to cancel late (computed) | 29 | After this, nothing can be canceled for a refund |
+| Thu., Dec. 3 | Last day to cancel late (computed) | 29 | After this, College Board lists no later cancellation date |
 | Sat., Dec. 5 | Test day: doors close at 8 a.m. | 31 | Late or absent students register again and pay standard fees |
 | Fri., Dec. 18 | Scores to students | 44 | Not applicable |
 | Mon., Dec. 21 | Scores to the K-12 educator portal | 47 | Not applicable |

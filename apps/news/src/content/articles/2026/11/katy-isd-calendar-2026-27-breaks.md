@@ -85,27 +85,37 @@ assets:
       start: "2026-08"
       months: 10
       events:
-        - { from: "2026-08-12", kind: first, label: "First day of school", src: 1, quote: "12 First Day of School and Fall Semester" }
-        - { from: "2026-09-07", kind: holiday, label: "Labor Day", src: 1, quote: "7 Holiday • Students and Staff" }
-        - { from: "2026-09-18", kind: holiday, label: "Campus learning day, no students", src: 1, quote: "18 Campus Professional Learning Day" }
-        - { from: "2026-10-09", to: "2026-10-13", kind: break, label: "Fall break", src: 1, quote: "9-13 Fall Break • Students and Staff" }
-        - { from: "2026-10-23", kind: holiday, label: "Campus learning day, no students", src: 1, quote: "23 Campus Professional Learning Day" }
-        - { from: "2026-11-02", kind: holiday, label: "Campus learning day, no students", src: 1, quote: "2 Campus Professional Learning Day" }
-        - { from: "2026-11-23", to: "2026-11-27", kind: break, label: "Thanksgiving break", src: 1, quote: "23-27 Holiday • Students and Staff" }
-        - { from: "2026-12-18", kind: early, label: "Early dismissal, end of semester", src: 1, quote: "18 Early Dismissal and End of Semester" }
-        - { from: "2026-12-21", to: "2027-01-01", kind: break, label: "Winter break", src: 1, quote: "21-31 Winter Break • Students and Staff" }
-        - { from: "2027-01-04", kind: holiday, label: "Campus day, no students", src: 1, quote: "4 Campus Day • No Students" }
-        - { from: "2027-01-05", kind: first, label: "First day of spring semester", src: 1, quote: "5 First Day of Spring Semester" }
-        - { from: "2027-01-18", kind: holiday, label: "Martin Luther King Jr. Day", src: 1, quote: "18 Holiday • Students and Staff" }
-        - { from: "2027-02-12", kind: holiday, label: "Campus learning day, no students", src: 1, quote: "12 Campus Professional Learning Day" }
-        - { from: "2027-02-15", kind: holiday, label: "Presidents Day", src: 1, quote: "15 Holiday • Students and Staff" }
-        - { from: "2027-03-08", to: "2027-03-12", kind: break, label: "Spring break", src: 1, quote: "8-12 Spring Break • Students and Staff" }
-        - { from: "2027-03-26", to: "2027-03-29", kind: holiday, label: "Holiday, Friday and Monday", src: 1, quote: "26-29 Holiday • Students and Staff" }
-        - { from: "2027-04-09", kind: holiday, label: "Campus learning day, no students", src: 1, quote: "9 Campus Professional Learning Day" }
-        - { from: "2027-05-26", kind: last, label: "Last day of school, early dismissal", src: 1, quote: "26 Early Dismissal and Last Day of School" }
+        - { from: "2026-08-12", kind: first, label: "First day of school", src: 1, quote: "Aug. 12 First Day of School and Fall Semester" }
+        - { from: "2026-09-07", kind: holiday, label: "Labor Day", src: 1, quote: "Sept. 7 Holiday • Students and Staff" }
+        - { from: "2026-09-18", kind: holiday, label: "Campus learning day, no students", src: 1, quote: "Sept. 18 Campus Professional Learning Day" }
+        - { from: "2026-10-09", to: "2026-10-13", kind: break, label: "Fall break", src: 1, quote: "Oct. 9-13 Fall Break • Students and Staff" }
+        - { from: "2026-10-23", kind: holiday, label: "Campus learning day, no students", src: 1, quote: "Oct. 23 Campus Professional Learning Day" }
+        - { from: "2026-11-02", kind: holiday, label: "Campus learning day, no students", src: 1, quote: "Nov. 2 Campus Professional Learning Day" }
+        - { from: "2026-11-23", to: "2026-11-27", kind: break, label: "Thanksgiving break", src: 1, quote: "Nov. 23-27 Holiday • Students and Staff" }
+        - { from: "2026-12-18", kind: early, label: "Early dismissal, end of semester", src: 1, quote: "Dec. 18 Early Dismissal and End of Semester" }
+        - { from: "2026-12-21", to: "2027-01-01", kind: break, label: "Winter break", src: 1, quote: "Dec. 21-31 Winter Break • Students and Staff; Jan. 1 Winter Break • Students and Staff" }
+        - { from: "2027-01-04", kind: holiday, label: "Campus day, no students", src: 1, quote: "Jan. 4 Campus Day • No Students" }
+        - { from: "2027-01-05", kind: first, label: "First day of spring semester", src: 1, quote: "Jan. 5 First Day of Spring Semester" }
+        - { from: "2027-01-18", kind: holiday, label: "Martin Luther King Jr. Day", src: 1, quote: "Jan. 18 Holiday • Students and Staff" }
+        - { from: "2027-02-12", kind: holiday, label: "Campus learning day, no students", src: 1, quote: "Feb. 12 Campus Professional Learning Day" }
+        - { from: "2027-02-15", kind: holiday, label: "Presidents Day", src: 1, quote: "Feb. 15 Holiday • Students and Staff" }
+        - { from: "2027-03-08", to: "2027-03-12", kind: break, label: "Spring break", src: 1, quote: "March 8-12 Spring Break • Students and Staff" }
+        - { from: "2027-03-26", to: "2027-03-29", kind: holiday, label: "Holiday, Friday and Monday", src: 1, quote: "March 26-29 Holiday • Students and Staff" }
+        - { from: "2027-04-09", kind: holiday, label: "Campus learning day, no students", src: 1, quote: "April 9 Campus Professional Learning Day" }
+        - { from: "2027-05-26", kind: last, label: "Last day of school, early dismissal", src: 1, quote: "May 26 Early Dismissal and Last Day of School" }
       family:
         - "Conferences"
         - "Picture day"
+downloads:
+  - group: "Katy ISD Calendar 2026-27 printables"
+    title: "Katy ISD Calendar 2026-27"
+    description: "Katy Independent School District 2026-27 breaks, holidays, campus days, first day and last day on one printable page."
+    preview: ../../../../assets/news/katy-isd-2026-27/katy-isd-calendar-2026-27.png
+    alt: "Katy Independent School District 2026-27 printable school-year calendar with breaks, holidays and the first and last day"
+    pdf: "/news/downloads/katy-isd-2026-27/katy-isd-calendar-2026-27.pdf"
+    png: "/news/downloads/katy-isd-2026-27/katy-isd-calendar-2026-27.png"
+    pages: 1
+draft: false
 ---
 
 **Katy Independent School District (ISD) has no school from Monday, Nov. 23 through Friday, Nov. 27, 2026**, according to its "Instructional Calendar 2026-2027", which the Katy ISD Board of Trustees approved on Jan. 20, 2026. Winter break runs **Monday, Dec. 21 through Friday, Jan. 1**, and spring break is **Monday, March 8 through Friday, March 12, 2027**. The last day of school is Wednesday, May 26, 2027. Fall break (Oct. 9-13) has already passed, so Thanksgiving week is the next break.

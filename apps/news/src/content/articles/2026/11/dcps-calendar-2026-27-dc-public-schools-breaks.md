@@ -80,27 +80,27 @@ assets:
       start: "2026-08"
       months: 11
       events:
-        - { from: "2026-08-24", kind: first, label: "First day of school", src: 2, quote: "F First Day of School" }
-        - { from: "2026-09-07", kind: holiday, label: "Labor Day", src: 2, quote: "HOL Holiday for Students, Teachers, and Staff" }
-        - { from: "2026-10-12", kind: holiday, label: "Indigenous Peoples' Day", src: 2, quote: "HOL Holiday for Students, Teachers, and Staff" }
-        - { from: "2026-10-13", kind: holiday, label: "Parent-teacher conferences", src: 2, quote: "PTC Parent Teacher Conference Day - No school for students" }
-        - { from: "2026-10-30", kind: holiday, label: "Staff PD, no school", src: 2, quote: "PD PD for Staff / No School for Students" }
-        - { from: "2026-11-02", kind: early, label: "Half-day records and wellness", src: 2, quote: "R/W Half-Day Records & Half-Day Wellness / No School for Students" }
-        - { from: "2026-11-03", kind: holiday, label: "Election Day, no school", src: 2, quote: "*** No School for Students or Teachers" }
-        - { from: "2026-11-11", kind: holiday, label: "Veterans Day", src: 2, quote: "HOL Holiday for Students, Teachers, and Staff" }
-        - { from: "2026-11-25", to: "2026-11-27", kind: break, label: "Thanksgiving break", src: 2, quote: "*** No School for Students or Teachers" }
-        - { from: "2026-12-21", to: "2027-01-01", kind: break, label: "Winter break", src: 2, quote: "*** No School for Students or Teachers" }
-        - { from: "2027-01-18", kind: holiday, label: "Martin Luther King Jr. Day", src: 2, quote: "HOL Holiday for Students, Teachers, and Staff" }
-        - { from: "2027-01-26", kind: early, label: "Half-day records and PD", src: 2, quote: "R/PD Half-Day Records & Half-Day PD / No School for Students" }
-        - { from: "2027-02-11", kind: holiday, label: "Parent-teacher conferences", src: 2, quote: "PTC Parent Teacher Conference Day - No school for students" }
-        - { from: "2027-02-12", kind: holiday, label: "Staff PD, no school", src: 2, quote: "PD PD for Staff / No School for Students" }
-        - { from: "2027-02-15", kind: holiday, label: "Presidents Day", src: 2, quote: "HOL Holiday for Students, Teachers, and Staff" }
-        - { from: "2027-03-22", to: "2027-03-26", kind: break, label: "Spring break", src: 2, quote: "*** No School for Students or Teachers" }
-        - { from: "2027-04-09", kind: early, label: "Half-day records and wellness", src: 2, quote: "R/W Half-Day Records & Half-Day Wellness / No School for Students" }
-        - { from: "2027-04-16", kind: holiday, label: "DC Emancipation Day", src: 2, quote: "HOL Holiday for Students, Teachers, and Staff" }
-        - { from: "2027-05-14", kind: holiday, label: "Wellness Day, no school", src: 2, quote: "***(W) Wellness Day /No School for Students or Teachers" }
-        - { from: "2027-05-31", kind: holiday, label: "Memorial Day", src: 2, quote: "HOL Holiday for Students, Teachers, and Staff" }
-        - { from: "2027-06-17", kind: last, label: "Last day for students", src: 2, quote: "L/ET Last Day for Students / End of Term" }
+        - { from: "2026-08-24", kind: first, label: "First day of school", src: 2, quote: "Aug. 24: F First Day of School" }
+        - { from: "2026-09-07", kind: holiday, label: "Labor Day", src: 2, quote: "Sept. 7: HOL Holiday for Students, Teachers, and Staff" }
+        - { from: "2026-10-12", kind: holiday, label: "Indigenous Peoples' Day", src: 2, quote: "Oct. 12: HOL Holiday for Students, Teachers, and Staff" }
+        - { from: "2026-10-13", kind: holiday, label: "Parent-teacher conferences", src: 2, quote: "Oct. 13: PTC Parent Teacher Conference Day - No school for students" }
+        - { from: "2026-10-30", kind: holiday, label: "Staff PD, no school", src: 2, quote: "Oct. 30: PD PD for Staff / No School for Students" }
+        - { from: "2026-11-02", kind: early, label: "Half-day records and wellness", src: 2, quote: "Nov. 2: R/W Half-Day Records & Half-Day Wellness / No School for Students" }
+        - { from: "2026-11-03", kind: holiday, label: "Election Day, no school", src: 2, quote: "Nov. 3: *** No School for Students or Teachers" }
+        - { from: "2026-11-11", kind: holiday, label: "Veterans Day", src: 2, quote: "Nov. 11: HOL Holiday for Students, Teachers, and Staff" }
+        - { from: "2026-11-25", to: "2026-11-27", kind: break, label: "Thanksgiving break", src: 2, quote: "Nov. 25: *** No School for Students or Teachers; Nov. 27: *** No School for Students or Teachers" }
+        - { from: "2026-12-21", to: "2027-01-01", kind: break, label: "Winter break", src: 2, quote: "Dec. 21: PD PD for Staff / No School for Students; Dec. 22: *** No School for Students or Teachers; Jan. 1: HOL Holiday for Students, Teachers, and Staff" }
+        - { from: "2027-01-18", kind: holiday, label: "Martin Luther King Jr. Day", src: 2, quote: "Jan. 18: HOL Holiday for Students, Teachers, and Staff" }
+        - { from: "2027-01-26", kind: early, label: "Half-day records and PD", src: 2, quote: "Jan. 26: R/PD Half-Day Records & Half-Day PD / No School for Students" }
+        - { from: "2027-02-11", kind: holiday, label: "Parent-teacher conferences", src: 2, quote: "Feb. 11: PTC Parent Teacher Conference Day - No school for students" }
+        - { from: "2027-02-12", kind: holiday, label: "Staff PD, no school", src: 2, quote: "Feb. 12: PD PD for Staff / No School for Students" }
+        - { from: "2027-02-15", kind: holiday, label: "Presidents Day", src: 2, quote: "Feb. 15: HOL Holiday for Students, Teachers, and Staff" }
+        - { from: "2027-03-22", to: "2027-03-26", kind: break, label: "Spring break", src: 2, quote: "Mar. 22: *** No School for Students or Teachers; Mar. 26: *** No School for Students or Teachers" }
+        - { from: "2027-04-09", kind: early, label: "Half-day records and wellness", src: 2, quote: "Apr. 9: R/W Half-Day Records & Half-Day Wellness / No School for Students" }
+        - { from: "2027-04-16", kind: holiday, label: "DC Emancipation Day", src: 2, quote: "Apr. 16: HOL Holiday for Students, Teachers, and Staff" }
+        - { from: "2027-05-14", kind: holiday, label: "Wellness Day, no school", src: 2, quote: "May 14: ***(W) Wellness Day /No School for Students or Teachers" }
+        - { from: "2027-05-31", kind: holiday, label: "Memorial Day", src: 2, quote: "May 31: HOL Holiday for Students, Teachers, and Staff" }
+        - { from: "2027-06-17", kind: last, label: "Last day for students", src: 2, quote: "June 17: L/ET Last Day for Students / End of Term" }
       family:
         - "Conferences"
         - "Picture day"

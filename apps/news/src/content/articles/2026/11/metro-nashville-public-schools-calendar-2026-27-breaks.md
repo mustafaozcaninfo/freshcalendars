@@ -13,7 +13,7 @@ hero:
   src: ../../../../assets/news/metro-nashville-public-schools-calendar-2026-27-breaks/metro-nashville-public-schools-calendar-2026-27-breaks.webp
   alt: "Hume-Fogg Academic High School at Broadway and 7th Avenue in Nashville, for the MNPS calendar 2026-27"
   caption: "File photo of Hume-Fogg Academic High School, an MNPS magnet school, in Nashville. The district calendar lists Veterans Day, Nov. 11, 2026, as the next day the district is closed."
-  credit: "PLACEHOLDER"
+  credit: "Photo: Warren LeMay from Chicago, IL, United States / Wikimedia Commons, cropped, edited"
   license:
     name: "CC BY-SA 2.0"
     url: "https://creativecommons.org/licenses/by-sa/2.0"
@@ -77,18 +77,18 @@ assets:
         - { from: "2026-08-11", kind: first, label: "First day for students", src: 1, quote: "Aug. 11-12: Full day for grades 1-12; Half day for Pre-K and K" }
         - { from: "2026-09-07", kind: holiday, label: "Labor Day", src: 1, quote: "Sept. 7: Labor Day observed (District closed)" }
         - { from: "2026-10-09", kind: break, label: "PD day, students out", src: 1, quote: "Oct. 9" }
-        - { from: "2026-10-12", to: "2026-10-16", kind: break, label: "Fall break", src: 1, quote: "Oct. 12-16: Fall Break" }
+        - { from: "2026-10-12", to: "2026-10-16", kind: break, label: "Fall break", src: 1, quote: "Oct. 12-16" }
         - { from: "2026-11-03", kind: holiday, label: "Parent conference day", src: 1, quote: "Nov. 3: Parent conference day (Students do not report)" }
         - { from: "2026-11-11", kind: holiday, label: "Veterans Day", src: 1, quote: "Nov. 11: Veterans Day observed (District closed)" }
         - { from: "2026-11-23", to: "2026-11-27", kind: break, label: "Thanksgiving break", src: 1, quote: "Nov. 23-27: Thanksgiving holiday (District closed Nov. 26-27)" }
-        - { from: "2026-12-18", kind: early, label: "Half day, end of Q2", src: 1, quote: "Dec. 18: Half day for all students; Exams grades 9-12; Second quarter ends" }
+        - { from: "2026-12-18", kind: early, label: "Half day, second quarter ends", src: 1, quote: "Dec. 18: Half day for all students; Exams grades 9-12; Second quarter ends" }
         - { from: "2026-12-21", to: "2026-12-31", kind: break, label: "Winter break", src: 1, quote: "Dec. 21-Dec 31: Winter break holiday (District closed Dec. 23-25)" }
         - { from: "2027-01-01", kind: holiday, label: "New Year's Day", src: 1, quote: "Jan. 1: New Year Day holiday (District closed)" }
         - { from: "2027-01-04", kind: break, label: "PD day, students out", src: 1, quote: "Jan. 4: Stockpiled PD Day (Students do not report)" }
         - { from: "2027-01-18", kind: holiday, label: "Martin Luther King Jr. Day", src: 1, quote: "Jan. 18: MLK holiday observed (District closed)" }
         - { from: "2027-02-15", kind: break, label: "PD day, students out", src: 1, quote: "Feb. 15: Stockpiled PD Day (Students do not report)" }
         - { from: "2027-03-19", kind: early, label: "Half day, all students", src: 1, quote: "March 19: Half day all students" }
-        - { from: "2027-03-22", to: "2027-03-25", kind: break, label: "Spring break", src: 1, quote: "March 22-25: Spring Break" }
+        - { from: "2027-03-22", to: "2027-03-25", kind: break, label: "Spring break", src: 1, quote: "March 22-25" }
         - { from: "2027-03-26", kind: holiday, label: "Spring Holiday", src: 1, quote: "March 26: Spring Holiday (District closed)" }
         - { from: "2027-05-25", kind: last, label: "Last day for students", src: 1, quote: "May 25: Half day for all students; Exams grades 9-12; End of school year; Report cards issued (elementary and middle schools)" }
       unconfirmed:
@@ -96,7 +96,15 @@ assets:
       family:
         - "Conferences"
         - "Picture day"
-downloads: []
+downloads:
+  - group: "Metro Nashville Public Schools Calendar 2026-27 printables"
+    title: "Metro Nashville Public Schools Calendar 2026-27"
+    description: "Metro Nashville Public Schools 2026-27 breaks, holidays, PD days, first day and last day on one printable page."
+    preview: ../../../../assets/news/metro-nashville-public-schools-2026-27/metro-nashville-public-schools-calendar-2026-27.png
+    alt: "Metro Nashville Public Schools 2026-27 printable school-year calendar with breaks, holidays, PD days and the first and last day"
+    pdf: "/news/downloads/metro-nashville-public-schools-2026-27/metro-nashville-public-schools-calendar-2026-27.pdf"
+    png: "/news/downloads/metro-nashville-public-schools-2026-27/metro-nashville-public-schools-calendar-2026-27.png"
+    pages: 1
 draft: false
 ---
 
@@ -132,7 +140,7 @@ The district separates days when it is closed from days when students stay home 
 | Dec. 21-31, 2026 | Monday-Thursday | Winter break holiday | District closed Dec. 23-25; other days not stated |
 | Jan. 1, 2027 | Friday | New Year Day holiday | District closed |
 | Jan. 4, 2027 | Monday | Stockpiled PD day | Students do not report |
-| Jan. 18, 2027 | Monday | MLK holiday observed | District closed |
+| Jan. 18, 2027 | Monday | Martin Luther King Jr. (MLK) holiday observed | District closed |
 | Feb. 15, 2027 | Monday | Stockpiled PD day | Students do not report |
 | Mar. 22-25, 2027 | Monday-Thursday | Spring Break | Not stated |
 | Mar. 26, 2027 | Friday | Spring Holiday | District closed |

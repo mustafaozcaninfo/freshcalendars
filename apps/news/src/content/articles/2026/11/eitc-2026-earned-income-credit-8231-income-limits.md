@@ -11,13 +11,13 @@ keywords: ["eitc 2026", "earned income credit 2027 refund", "eitc income limits 
 dateline: "Washington"
 hero:
   src: ../../../../assets/news/eitc-2026-earned-income-credit-8231-income-limits/eitc-2026-earned-income-credit-8231-income-limits.webp
-  alt: "The Internal Revenue Service Building in the Federal Triangle, Washington, D.C., for the EITC 2026 amounts"
+  alt: "Columns of the Internal Revenue Service Building in the Federal Triangle, Washington, D.C., for the EITC 2026 amounts"
   caption: "The Internal Revenue Service Building on Constitution Avenue in Washington, D.C. For tax year 2026 the IRS puts the top EITC at $8,231."
   credit: "Photo: Carol M. Highsmith / Wikimedia Commons, cropped, edited"
   license:
     name: "Public domain"
     url: "https://creativecommons.org/publicdomain/mark/1.0/"
-    source: "https://commons.wikimedia.org/wiki/File:The_Internal_Revenue_Service_Building,_located_in_the_center_of_the_Federal_Triangle_complex_in_Washington,_D.C_LCCN2013634107.tif"
+    source: "https://commons.wikimedia.org/wiki/File:The_Internal_Revenue_Service_Building,_located_in_the_center_of_the_Federal_Triangle_complex_in_Washington,_D.C_LCCN2013634111.tif"
     author: "Carol M. Highsmith"
     authorUrl: "https://en.wikipedia.org/wiki/en:Carol_M._Highsmith"
 summary:
@@ -65,11 +65,19 @@ internalLinks:
   - href: "/printable-yearly-calendar.html"
     label: "2027 printable yearly calendar"
 related: [child-tax-credit-2026-2200-per-child-refundable-actc, tax-refund-schedule-2027-when-to-expect-your-refund, when-does-tax-season-start-2027-irs-filing-opening-date]
+downloads:
+  - group: "EITC 2026 Amounts and Income Limits by Children printables"
+    title: "EITC 2026 Amounts and Income Limits by Children"
+    description: "A one-page table of the 2026 EITC maximum credit and income limits by number of children, from IRS Revenue Procedure 2025-32."
+    preview: ../../../../assets/news/eitc-2026/eitc-2026-income-limits-table.png
+    alt: "Printable table of 2026 EITC amounts and income limits by number of children"
+    pdf: "/news/downloads/eitc-2026/eitc-2026-income-limits-table.pdf"
+    png: "/news/downloads/eitc-2026/eitc-2026-income-limits-table.png"
+    pages: 1
 assets:
   scene: money
   overlay: true
   kicker: "EITC · Tax year 2026"
-  date: "2027-02-15"
   card: { top: "Top EITC, tax year 2026", big: "$8,231", bottom: "3+ children; filed in 2027" }
   printable:
     noKit: "A reference table of credit amounts and income limits by number of children; it has no dates to schedule, so no deadline kit fits."
