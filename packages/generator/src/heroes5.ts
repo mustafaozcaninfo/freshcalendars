@@ -334,6 +334,7 @@ export const PUZZLE_HEROES: [string, string, string, string, string, string, str
   ["nyt-mini-crossword-answers-november-4-2026", "mini", "#0f1d2e", "#86efac", "NYT Mini · Wed., Nov. 4, 2026", "NYT Mini answers", "A hint for every clue first, the full grid at the end."],
   ["nyt-midi-crossword-answers-november-4-2026", "midi", "#13213a", "#93c5fd", "NYT Midi · Wed., Nov. 4, 2026", "NYT Midi answers", "A hint for every clue and the theme first, the full grid at the end."],
   ["nyt-letter-boxed-answer-hints-november-7-2026", "letterboxed", "#3d1f1a", "#86efac", "Letter Boxed · Sat., Nov. 7, 2026", "Letter Boxed hints", "Starting letters and word lengths first, the answer at the end."],
+  ["nyt-letter-boxed-answer-hints-november-8-2026", "letterboxed", "#3d1f1a", "#c4b5fd", "Letter Boxed · Sun., Nov. 8, 2026", "Letter Boxed hints", "Starting letters and word lengths first, the answer at the end."],
   ["contexto-answer-hints-november-9-2026-1513", "contexto", "#0f172a", "#34d399", "Contexto #1513 · Mon., Nov. 9, 2026", "Contexto hints", "Close words and hints first, the secret word only at the end."],
   ["nyt-spelling-bee-hints-answers-november-14-2026", "bee", "#1c1917", "#fbbf24", "Spelling Bee · Sat., Nov. 14, 2026", "Spelling Bee hints", "Hint grid and two-letter list first, the word list at the end."],
   ["nyt-spelling-bee-hints-answers-november-15-2026", "bee", "#1c1917", "#facc15", "Spelling Bee · Sun., Nov. 15, 2026", "Spelling Bee hints", "Hint grid and two-letter list first, the word list at the end."],
