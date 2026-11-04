@@ -80,7 +80,7 @@ internalLinks:
     label: "January 2027 printable calendars"
   - href: "/printable-school-calendar.html"
     label: "Printable school calendar"
-related: [early-decision-deadlines-2026-november-1-sunday-college-list-uc-november-30, fafsa-2027-28-open-now-deadlines-tax-year, new-years-countdown-2027-midnight-every-time-zone]
+related: [early-decision-deadlines-2026-november-1-sunday-college-list-uc-november-30, fafsa-2027-28-open-now-deadlines-tax-year, spring-semester-2027-start-dates-colleges]
 assets:
   kicker: "Regular decision 2027"
   overlay: true
