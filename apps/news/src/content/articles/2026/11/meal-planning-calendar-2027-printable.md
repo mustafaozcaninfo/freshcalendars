@@ -14,36 +14,27 @@ assets:
   date: "2027-01-03"
   card: { top: "Leftovers in the fridge", big: "3 to 4 days", bottom: "Minnesota Department of Health chart" }
   printable:
-    noKit: "weekly menu and grocery planner with storage limits, not a deadline or holiday sheet"
-    slug: meal-planning-calendar-2027-weekly-menu-grocery-list
+    kit: planner
+    slug: meal-planning-2027-weekly-menu-grocery-storage
     group: meal-planning-2027
     title: "Weekly Menu and Grocery List 2027"
     subtitle: "Plan breakfast, lunch, dinner and snacks, then shop by storage limits"
-    layout: checklist
-    rows:
-      - { section: "Weekly menu (week starting: ______)", when: "Breakfast, lunch, dinner, snack", what: "Sunday: ______" }
-      - { section: "Weekly menu (week starting: ______)", when: "Breakfast, lunch, dinner, snack", what: "Monday: ______" }
-      - { section: "Weekly menu (week starting: ______)", when: "Breakfast, lunch, dinner, snack", what: "Tuesday: ______" }
-      - { section: "Weekly menu (week starting: ______)", when: "Breakfast, lunch, dinner, snack", what: "Wednesday: ______" }
-      - { section: "Weekly menu (week starting: ______)", when: "Breakfast, lunch, dinner, snack", what: "Thursday: ______" }
-      - { section: "Weekly menu (week starting: ______)", when: "Breakfast, lunch, dinner, snack", what: "Friday: ______" }
-      - { section: "Weekly menu (week starting: ______)", when: "Breakfast, lunch, dinner, snack", what: "Saturday: ______" }
-      - { section: "Grocery list", when: "Cook first", what: "Raw poultry and ground meat: ______" }
-      - { section: "Grocery list", when: "Cook later", what: "Beef, pork, eggs, deli items: ______" }
-      - { section: "Grocery list", when: "Produce", what: "Fruit and vegetables: ______" }
-      - { section: "Grocery list", when: "Pantry", what: "Grains, cans, staples: ______" }
-      - { section: "Refrigerator days at 40°F (MDH)", when: "1 to 2 days", what: "Raw ground meat, fresh poultry" }
-      - { section: "Refrigerator days at 40°F (MDH)", when: "3 to 4 days", what: "Cooked meat dishes" }
-      - { section: "Refrigerator days at 40°F (MDH)", when: "3 to 5 days", what: "Beef, pork, soups and stews, deli salad, opened lunch meat" }
-      - { section: "Refrigerator days at 40°F (MDH)", when: "7 days", what: "Hard-cooked eggs, opened hot dogs" }
-      - { section: "Refrigerator days at 40°F (MDH)", when: "21 days", what: "Fresh eggs in the shell" }
-      - { section: "Freezer months at 0°F (MDH)", when: "1 to 2 months", what: "Opened lunch meat and hot dogs" }
-      - { section: "Freezer months at 0°F (MDH)", when: "3 to 4 months", what: "Raw ground meat" }
-      - { section: "Freezer months at 0°F (MDH)", when: "2 to 3 months", what: "Cooked meat dishes, soups and stews" }
-      - { section: "Freezer months at 0°F (MDH)", when: "6 to 12 months", what: "Beef" }
-      - { section: "Safety checks (CDC)", when: "2 hours", what: "Refrigerate perishable food within 2 hours (1 hour above 90°F)" }
-      - { section: "Safety checks (CDC)", when: "Thaw", what: "In the refrigerator, in cold water or in the microwave, never on the counter" }
-      - { section: "Safety checks (CDC)", when: "165°F", what: "Heat leftovers and casseroles to 165°F" }
+    data:
+      sections:
+        - { type: week, title: "Weekly menu (week starting: ______)", rows: ["Breakfast", "Lunch", "Dinner", "Snack"] }
+        - type: checklist
+          title: "Grocery list"
+          groups:
+            - { title: "Shop by when to cook", items: ["Raw poultry and ground meat (cook first)", "Beef, pork, eggs and deli items (cook later)", "Fruit and vegetables", "Grains, cans and staples"] }
+        - type: checklist
+          title: "Storage limits (Minnesota Department of Health)"
+          groups:
+            - { title: "Refrigerator at 40°F", items: ["Raw ground meat and fresh poultry: 1 to 2 days", "Cooked meat dishes: 3 to 4 days", "Beef, pork, soups, stews, deli salad, opened lunch meat: 3 to 5 days", "Hard-cooked eggs and opened hot dogs: 7 days", "Fresh eggs in the shell: 21 days"] }
+            - { title: "Freezer at 0°F", items: ["Opened lunch meat and hot dogs: 1 to 2 months", "Cooked meat dishes, soups and stews: 2 to 3 months", "Raw ground meat: 3 to 4 months", "Beef: 6 to 12 months"] }
+        - type: checklist
+          title: "Food safety (CDC)"
+          groups:
+            - { title: "Before you eat", items: ["Refrigerate perishable food within 2 hours (1 hour above 90°F)", "Thaw in the refrigerator, cold water or the microwave, never on the counter", "Heat leftovers and casseroles to 165°F"] }
     note: "Source: Minnesota Department of Health, Refrigerator and Freezer Storage Chart (updated Sept. 25, 2026); Centers for Disease Control and Prevention, Preventing Food Poisoning; U.S. Food and Drug Administration, Refrigerator Thermometers."
     description: "A one-page 2027 weekly menu and grocery list with refrigerator and freezer storage limits to print and keep."
     alt: "Weekly menu and grocery list printable for 2027 with a day-by-day menu, grocery sections and storage limits"
@@ -89,10 +80,10 @@ downloads:
   - group: "Weekly Menu and Grocery List 2027 printables"
     title: "Weekly Menu and Grocery List 2027"
     description: "A one-page 2027 weekly menu and grocery list with refrigerator and freezer storage limits to print and keep."
-    preview: ../../../../assets/news/meal-planning-2027/meal-planning-calendar-2027-weekly-menu-grocery-list.png
+    preview: ../../../../assets/news/meal-planning-2027/meal-planning-2027-weekly-menu-grocery-storage.png
     alt: "Weekly menu and grocery list printable for 2027 with a day-by-day menu, grocery sections and storage limits"
-    pdf: "/news/downloads/meal-planning-2027/meal-planning-calendar-2027-weekly-menu-grocery-list.pdf"
-    png: "/news/downloads/meal-planning-2027/meal-planning-calendar-2027-weekly-menu-grocery-list.png"
+    pdf: "/news/downloads/meal-planning-2027/meal-planning-2027-weekly-menu-grocery-storage.pdf"
+    png: "/news/downloads/meal-planning-2027/meal-planning-2027-weekly-menu-grocery-storage.png"
     pages: 1
 internalLinks:
   - href: "/printable-weekly-calendar.html"

@@ -76,44 +76,36 @@ assets:
   date: "2027-03-14"
   card: { top: "99th Oscars", big: "Sun., March 14", bottom: "Golden Globes: Sun., Jan. 10" }
   printable:
-    slug: awards-season-2026-27-calendar
+    kit: watch-guide
+    slug: awards-season-2026-27-watch-guide
     group: awards-season-2027
     title: "Awards Season 2026-27 Calendar"
     subtitle: "Golden Globes, Oscars, Grammys, Critics Choice and Actor Awards dates"
-    noKit: "Mixed season calendar of nominations, ballots, voting windows and shows; no single kit draws it."
-    layout: list
     description: "Awards season dates from Nov. 16, 2026, to March 14, 2027: Grammy and Golden Globe nominations, Critics Choice, Golden Globes, Oscar nominations, the Actor Awards and the Oscars."
     alt: "Printable awards season calendar from Grammy nominations on Nov. 16, 2026, to the Oscars on March 14, 2027"
-    rows:
-      - ["Nov. 16, 2026 (Mon.)", "Grammy nominations announced"]
-      - ["Dec. 7, 2026 (Mon.)", "Golden Globe nominations announced"]
-      - ["Jan. 2, 2027 (Sat.)", "Golden Globes final ballots due, 5 p.m. PT"]
-      - ["Jan. 3, 2027 (Sun.)", "Critics Choice Awards, USA Network, 7 to 10 p.m. ET"]
-      - ["Jan. 10, 2027 (Sun.)", "84th Golden Globes, CBS and Paramount+, 8 p.m. ET / 5 p.m. PT"]
-      - ["Jan. 11 (Mon.) to Jan. 15 (Fri.), 2027", "Oscar nominations voting, 9 a.m. PT to 5 p.m. PT"]
-      - ["Jan. 21, 2027 (Thu.)", "Oscar nominations announced"]
-      - ["Feb. 7, 2027 (Sun.)", "69th Grammy Awards, ABC, Disney+ and Hulu"]
-      - ["Feb. 16, 2027 (Tue.)", "Oscar nominees luncheon"]
-      - ["Feb. 25 (Thu.) to March 4 (Thu.), 2027", "Oscars final voting"]
-      - ["Feb. 28, 2027 (Sun.)", "Actor Awards, Netflix, 8 p.m. ET / 5 p.m. PT"]
-      - ["March 14, 2027 (Sun.)", "99th Oscars, ABC, 7 p.m. ET / 4 p.m. PT"]
+    data:
+      pick: "My pick"
+      layout: table
+      events:
+        - { date: "2026-11-16", time: tba, title: "Grammy nominations announced", src: 5 }
+        - { date: "2026-12-07", time: tba, title: "Golden Globe nominations announced", src: 1 }
+        - { start: "2027-01-03T19:00-05:00", title: "32nd Critics Choice Awards", detail: "The Barker Hangar", channel: "USA Network", src: 6 }
+        - { start: "2027-01-10T20:00-05:00", title: "84th Golden Globes", channel: "CBS", stream: "Paramount+", src: 2 }
+        - { date: "2027-01-21", time: tba, title: "Oscar nominations announced", src: 4 }
+        - { date: "2027-02-07", time: tba, title: "69th Grammy Awards", detail: "Crypto.com Arena, Los Angeles", channel: "ABC", stream: "Disney+, Hulu", src: 5 }
+        - { start: "2027-02-28T20:00-05:00", title: "Actor Awards", channel: "Netflix", src: 7 }
+        - { start: "2027-03-14T19:00-04:00", title: "99th Oscars", detail: "Dolby Theatre, Ovation Hollywood", channel: "ABC", src: 3 }
+      unconfirmed:
+        - { label: "BAFTA Film Awards date", why: "not confirmed on the organizer's site when we checked, so it is left out" }
     note: "Source: Golden Globes (May 7, 2026), CBS, Academy of Motion Picture Arts and Sciences (April 7, 2026), Recording Academy (May 12, 2026), Critics Choice Association (April 20, 2026), The Actor Awards. Dates are subject to change."
 downloads:
   - group: "Awards Season 2026-27 Calendar printables"
     title: "Awards Season 2026-27 Calendar"
     description: "Awards season dates from Nov. 16, 2026, to March 14, 2027: Grammy and Golden Globe nominations, Critics Choice, Golden Globes, Oscar nominations, the Actor Awards and the Oscars."
-    preview: ../../../../assets/news/awards-season-2027/awards-season-2026-27-calendar.png
+    preview: ../../../../assets/news/awards-season-2027/awards-season-2026-27-watch-guide.png
     alt: "Printable awards season calendar from Grammy nominations on Nov. 16, 2026, to the Oscars on March 14, 2027"
-    pdf: "/news/downloads/awards-season-2027/awards-season-2026-27-calendar.pdf"
-    png: "/news/downloads/awards-season-2027/awards-season-2026-27-calendar.png"
-    pages: 1
-  - group: "Awards Season 2026-27 Calendar printables"
-    title: "Awards Season 2026-27 Calendar (ink saver)"
-    description: "Awards season dates from Nov. 16, 2026, to March 14, 2027: Grammy and Golden Globe nominations, Critics Choice, Golden Globes, Oscar nominations, the Actor Awards and the Oscars. Ink-saver version."
-    preview: ../../../../assets/news/awards-season-2027/awards-season-2026-27-calendar-ink.png
-    alt: "Printable awards season calendar from Grammy nominations on Nov. 16, 2026, to the Oscars on March 14, 2027, ink-saver version"
-    pdf: "/news/downloads/awards-season-2027/awards-season-2026-27-calendar-ink.pdf"
-    png: "/news/downloads/awards-season-2027/awards-season-2026-27-calendar-ink.png"
+    pdf: "/news/downloads/awards-season-2027/awards-season-2026-27-watch-guide.pdf"
+    png: "/news/downloads/awards-season-2027/awards-season-2026-27-watch-guide.png"
     pages: 1
 draft: false
 ---

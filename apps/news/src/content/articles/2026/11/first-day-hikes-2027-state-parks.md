@@ -14,27 +14,49 @@ assets:
   date: "2027-01-01"
   card: { top: "First Day Hikes", big: "Fri., Jan. 1", bottom: "Texas, Minnesota, Virginia, Pennsylvania posted" }
   printable:
-    slug: first-day-hike-packing-checklist-2027
+    kit: activity-sheet
+    slug: first-day-hike-2027-packing-activity-sheet
     group: first-day-hikes-2027
-    noKit: "A hike-day packing checklist of gear to bring, not a set of dates, deadlines or a holiday status grid"
-    title: "First Day Hike Packing Checklist, Jan. 1, 2027"
+    title: "First Day Hike Packing Activity Sheet, Jan. 1, 2027"
     subtitle: "The National Park Service Ten Essentials, plus what to check on your state's page"
     notesLabel: "Hike, start time and who is coming"
-    rows:
-      - { when: "", what: "Navigation: map, compass and Global Positioning System (GPS)", section: "Ten Essentials" }
-      - { when: "", what: "Sun protection: sunglasses, sunscreen and hat", section: "Ten Essentials" }
-      - { when: "", what: "Extra clothing: jacket, hat, gloves, rain shell and other layers", section: "Ten Essentials" }
-      - { when: "", what: "Illumination: flashlight and headlamp", section: "Ten Essentials" }
-      - { when: "", what: "First-aid supplies: first aid kit", section: "Ten Essentials" }
-      - { when: "", what: "Fire: matches or lighter and fire starters", section: "Ten Essentials" }
-      - { when: "", what: "Repair kit and tools: duct tape, knife, multi-tool and scissors", section: "Ten Essentials" }
-      - { when: "", what: "Nutrition: extra food", section: "Ten Essentials" }
-      - { when: "", what: "Hydration: water and water treatment supplies", section: "Ten Essentials" }
-      - { when: "", what: "Emergency shelter: tent, space blanket, tarp or bivy", section: "Ten Essentials" }
-      - { when: "Fri., Jan. 1", what: "Find your hike on your state park system's page and note the start time", section: "Before you go" }
-      - { when: "", what: "Check the page for parking or entrance fees", section: "Before you go" }
-      - { when: "", what: "Minnesota: bring a vehicle permit (hikes are free, the park entry needs one)", section: "Before you go" }
-    note: "Source: National Park Service, Ten Essentials (updated May 28, 2026); Minnesota Department of Natural Resources, First Day Hike. Start times and fees come from each state's page."
+    data:
+      day:
+        date: "2027-01-01"
+        name: "First Day Hikes"
+        src: 5
+        quote: "Fri, Jan 1, 2027 9am EST"
+      facts:
+        - text: "Minnesota says its First Day Hikes are free but you need a vehicle permit to enter the park."
+          src: 3
+          quote: "All First Day Hikes are free, but you will need a vehicle permit to enter the park."
+        - text: "Virginia says nearly all its parks will be free, with two exceptions."
+          src: 4
+          quote: "While nearly all our parks will be free, there are two exceptions."
+        - text: "Texas invites you to spend the first day of 2027 in a Texas State Park."
+          src: 1
+          quote: "Spend the first day of 2027 in a Texas State Park. Find a First Day Hike near you!"
+      activities:
+        - type: checklist
+          title: "National Park Service Ten Essentials"
+          items:
+            - "Navigation: map, compass and GPS"
+            - "Sun protection: sunglasses, sunscreen and hat"
+            - "Extra clothing: jacket, hat, gloves, rain shell and layers"
+            - "Illumination: flashlight and headlamp"
+            - "First-aid supplies"
+            - "Fire: matches or lighter and fire starters"
+            - "Repair kit and tools: duct tape, knife, multi-tool"
+            - "Nutrition: extra food"
+            - "Hydration: water and water treatment supplies"
+            - "Emergency shelter: tent, space blanket, tarp or bivy"
+        - type: checklist
+          title: "Before you go"
+          items:
+            - "Find your hike on your state park system's page and note the start time"
+            - "Check the page for parking or entrance fees"
+            - "Minnesota: bring a vehicle permit (hikes are free, park entry needs one)"
+    note: "Source: National Park Service, Ten Essentials; Minnesota Department of Natural Resources, First Day Hike; Virginia Department of Conservation and Recreation; Pennsylvania Department of Conservation and Natural Resources; Texas Parks and Wildlife Department."
     description: "One-page checklist for a First Day Hike on Friday, Jan. 1, 2027: the National Park Service Ten Essentials and what to check on your state's page."
     alt: "Printable First Day Hike packing checklist for Jan. 1, 2027 with tick boxes for the ten National Park Service essentials"
 hero:
@@ -118,13 +140,13 @@ internalLinks:
     label: "January 2027 printable calendar"
 related: [whats-open-new-years-eve-new-years-day-2027, new-years-countdown-2027-midnight-every-time-zone, january-2027-important-dates-holidays-days-until]
 downloads:
-  - group: "First Day Hike Packing Checklist printables"
-    title: "First Day Hike Packing Checklist, Jan. 1, 2027"
+  - group: "First Day Hike Packing Activity Sheet printables"
+    title: "First Day Hike Packing Activity Sheet, Jan. 1, 2027"
     description: "One-page checklist for a First Day Hike on Friday, Jan. 1, 2027: the National Park Service Ten Essentials and what to check on your state's page."
-    preview: ../../../../assets/news/first-day-hikes-2027/first-day-hike-packing-checklist-2027.png
+    preview: ../../../../assets/news/first-day-hikes-2027/first-day-hike-2027-packing-activity-sheet.png
     alt: "Printable First Day Hike packing checklist for Jan. 1, 2027 with tick boxes for the ten National Park Service essentials"
-    pdf: "/news/downloads/first-day-hikes-2027/first-day-hike-packing-checklist-2027.pdf"
-    png: "/news/downloads/first-day-hikes-2027/first-day-hike-packing-checklist-2027.png"
+    pdf: "/news/downloads/first-day-hikes-2027/first-day-hike-2027-packing-activity-sheet.pdf"
+    png: "/news/downloads/first-day-hikes-2027/first-day-hike-2027-packing-activity-sheet.png"
     pages: 1
 draft: false
 ---

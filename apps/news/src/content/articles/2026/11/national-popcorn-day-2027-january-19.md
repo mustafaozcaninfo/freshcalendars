@@ -14,27 +14,38 @@ assets:
   date: "2027-01-19"
   card: { top: "National Popcorn Day", big: "Tue., Jan. 19", bottom: "Popcorn Board: 'January 19th'" }
   printable:
-    noKit: "observance activity sheet: a popcorn facts quiz with answers and a flavor tally, not a schedule that fits a topic kit"
-    slug: national-popcorn-day-2027-facts-quiz
+    kit: activity-sheet
+    slug: national-popcorn-day-2027-quiz-tally
     group: national-popcorn-day-2027
     title: "National Popcorn Day 2027 Facts Quiz and Flavor Tally"
-    subtitle: "Six popcorn questions with sourced answers, plus a tally for Tuesday, Jan. 19, 2027"
+    subtitle: "Tue., Jan. 19, 2027: popcorn questions with sourced answers, and a tally"
+    note: "Source: The Popcorn Board; U.S. Department of Agriculture, Agricultural Research Service; U.S. Census Bureau, National Popcorn Day: January 19, 2024. Flavor list is ours."
+    description: "One-page National Popcorn Day 2027 printable: the Jan. 19 date, a popcorn facts quiz with sourced answers and a flavor tally."
+    alt: "Printable National Popcorn Day 2027 facts quiz with sourced answers and a flavor tally with tick boxes"
     notesLabel: "Flavors tried and favorite"
-    rows:
-      - { when: "Q1", what: "Is popcorn a whole grain? Yes (Popcorn Board, Agriculture Department)", section: "Facts quiz" }
-      - { when: "Q2", what: "Which day is National Popcorn Day? January 19th (Popcorn Board)", section: "Facts quiz" }
-      - { when: "Q3", what: "What weekday is Jan. 19, 2027? Tuesday (our calculation)", section: "Facts quiz" }
-      - { when: "Q4", what: "Which month is Popcorn Poppin' Month? October (Popcorn Board)", section: "Facts quiz" }
-      - { when: "Q5", what: "Quarts a year per American, 2016-2020 average? 43 (Census Bureau)", section: "Facts quiz" }
-      - { when: "Q6", what: "Quarts a year across the U.S.? About 14 billion (Census Bureau)", section: "Facts quiz" }
-      - { when: "Tally", what: "Plain with salt", section: "Flavor tally" }
-      - { when: "Tally", what: "Butter", section: "Flavor tally" }
-      - { when: "Tally", what: "Caramel", section: "Flavor tally" }
-      - { when: "Tally", what: "Cheese", section: "Flavor tally" }
-      - { when: "Tally", what: "A flavor of your own", section: "Flavor tally" }
-    note: "Source: The Popcorn Board; U.S. Department of Agriculture, Agricultural Research Service; U.S. Census Bureau, National Popcorn Day: January 19, 2024. Weekdays are our calculation. Flavor list is ours."
-    description: "One-page National Popcorn Day 2027 printable: six popcorn facts quiz questions with sourced answers and a flavor tally for Tuesday, Jan. 19, 2027."
-    alt: "Printable National Popcorn Day 2027 facts quiz with six questions and answers and a flavor tally with tick boxes"
+    data:
+      day: { date: "2027-01-19", name: "National Popcorn Day", src: 1, quote: "January 19th is National Popcorn Day, a day bursting with goodness and good taste" }
+      facts:
+        - { text: "The USDA says popcorn is a 100 percent whole grain.", src: 5, quote: "Did you know that popcorn is a 100 percent whole grain?" }
+        - { text: "The Census Bureau estimated some 14 billion quarts of popcorn a year, a 2016-2020 average.", src: 6, quote: "some 14 billion" }
+      activities:
+        - type: quiz
+          title: "Popcorn facts quiz"
+          questions:
+            - { q: "Is popcorn a whole grain?", a: "Yes", src: 5, quote: "popcorn is a 100 percent whole grain" }
+            - { q: "Which day is National Popcorn Day?", a: "January 19", src: 1, quote: "January 19th is National Popcorn Day, a day bursting with goodness and good taste" }
+            - { q: "Which month is Popcorn Poppin' Month?", a: "October", src: 2, quote: "October is Popcorn Poppin' Month" }
+            - { q: "About how many quarts do Americans eat a year?", a: "About 14 billion", src: 6, quote: "some 14 billion" }
+        - type: tally
+          title: "Flavor tally"
+          labels:
+            - "Plain with salt"
+            - "Butter"
+            - "Caramel"
+            - "Cheese"
+            - "Your own flavor"
+      unconfirmed:
+        - { label: "2027 theater deals", why: "no 2027 popcorn deals were announced as of Nov. 4, 2026" }
 hero:
   src: ../../../../assets/news/national-popcorn-day-2027-january-19/national-popcorn-day-2027-january-19.webp
   alt: "A glass bowl of white popcorn, the snack celebrated on National Popcorn Day 2027 on Tuesday, Jan. 19"
@@ -106,11 +117,11 @@ related: [january-2027-important-dates-holidays-days-until, martin-luther-king-j
 downloads:
   - group: "National Popcorn Day 2027 Facts Quiz and Flavor Tally printables"
     title: "National Popcorn Day 2027 Facts Quiz and Flavor Tally"
-    description: "One-page National Popcorn Day 2027 printable: six popcorn facts quiz questions with sourced answers and a flavor tally for Tuesday, Jan. 19, 2027."
-    preview: ../../../../assets/news/national-popcorn-day-2027/national-popcorn-day-2027-facts-quiz.png
-    alt: "Printable National Popcorn Day 2027 facts quiz with six questions and answers and a flavor tally with tick boxes"
-    pdf: "/news/downloads/national-popcorn-day-2027/national-popcorn-day-2027-facts-quiz.pdf"
-    png: "/news/downloads/national-popcorn-day-2027/national-popcorn-day-2027-facts-quiz.png"
+    description: "One-page National Popcorn Day 2027 printable: the Jan. 19 date, a popcorn facts quiz with sourced answers and a flavor tally."
+    preview: ../../../../assets/news/national-popcorn-day-2027/national-popcorn-day-2027-quiz-tally.png
+    alt: "Printable National Popcorn Day 2027 facts quiz with sourced answers and a flavor tally with tick boxes"
+    pdf: "/news/downloads/national-popcorn-day-2027/national-popcorn-day-2027-quiz-tally.pdf"
+    png: "/news/downloads/national-popcorn-day-2027/national-popcorn-day-2027-quiz-tally.png"
     pages: 1
 draft: false
 ---

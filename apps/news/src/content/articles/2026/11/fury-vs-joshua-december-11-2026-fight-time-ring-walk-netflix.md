@@ -60,34 +60,38 @@ assets:
   date: "2026-12-11"
   card: { top: "Planned ring walk, about", big: "8 p.m. ET", bottom: "1 a.m. Saturday in Cardiff" }
   printable:
-    noKit: "The only source for the ring walk time (PA via ESPN) gives 1 a.m. without a date, so the watch-guide kit's quote check cannot be met."
-    slug: fury-vs-joshua-watch-guide-2026
+    kit: watch-guide
+    slug: fury-vs-joshua-watch-guide-ring-walk-2026
     group: fury-vs-joshua-2026
     title: "Fury vs Joshua Watch Guide, Dec. 11, 2026"
-    subtitle: "Planned ring walk by time zone, with the start time still to fill in"
-    columns: ["Place", "Planned ring walk, about"]
-    layout: list
-    rows:
-      - ["Fri., Dec. 11", "Fury vs Joshua, Principality Stadium, Cardiff, on Netflix"]
-      - ["Fri., Dec. 11", "Eastern Time (ET): 8 p.m."]
-      - ["Fri., Dec. 11", "Central Time (CT): 7 p.m."]
-      - ["Fri., Dec. 11", "Mountain Time (MT): 6 p.m."]
-      - ["Fri., Dec. 11", "Pacific Time (PT): 5 p.m."]
-      - ["Sat., Dec. 12", "Cardiff, Greenwich Mean Time (GMT): 1 a.m."]
-      - ["Sat., Dec. 12", "Central Europe (CET): 2 a.m."]
-      - ["Sat., Dec. 12", "Eastern Australia (AEDT): 12 noon"]
-      - ["Fri., Dec. 11", "Card start time: not yet announced. Write it here: ________"]
+    subtitle: "Planned ring walk by time zone, with the card start time still to fill in"
     note: "Source: Netflix Tudum (Nov. 2, 2026); Matchroom Boxing; Press Association via ESPN (Oct. 7, 2026). Times converted by Fresh Calendars from the planned 1 a.m. GMT ring walk."
     description: "A Fury vs Joshua watch guide for Dec. 11, 2026: the planned ring walk in Eastern, Central, Mountain and Pacific Time, with a blank for the start time."
     alt: "Fury vs Joshua watch guide with the planned Dec. 11, 2026 ring walk by time zone and a blank for the card start time"
+    landscape: false
+    data:
+      pick: "My pick"
+      events:
+        - start: "2026-12-12T01:00+00:00"
+          tz: "Europe/London"
+          title: "Fury vs Joshua, planned ring walk"
+          detail: "Principality Stadium, Cardiff"
+          channel: "Netflix"
+          airing: live
+          src: 4
+          quote:
+            - "Tyson Fury and Anthony Joshua are set for a 1 a.m. ring walk in their heavyweight boxing clash in Cardiff."
+            - "the stadium will remain open until 3 a.m. on Dec. 12."
+      unconfirmed:
+        - { label: "Card start time", why: "Netflix has not announced when the card starts; the 1 a.m. ring walk is a planned time reported by the Press Association" }
 downloads:
   - group: "Fury vs Joshua Watch Guide printables"
     title: "Fury vs Joshua Watch Guide, Dec. 11, 2026"
     description: "A Fury vs Joshua watch guide for Dec. 11, 2026: the planned ring walk in Eastern, Central, Mountain and Pacific Time, with a blank for the start time."
-    preview: ../../../../assets/news/fury-vs-joshua-2026/fury-vs-joshua-watch-guide-2026.png
+    preview: ../../../../assets/news/fury-vs-joshua-2026/fury-vs-joshua-watch-guide-ring-walk-2026.png
     alt: "Fury vs Joshua watch guide with the planned Dec. 11, 2026 ring walk by time zone and a blank for the card start time"
-    pdf: "/news/downloads/fury-vs-joshua-2026/fury-vs-joshua-watch-guide-2026.pdf"
-    png: "/news/downloads/fury-vs-joshua-2026/fury-vs-joshua-watch-guide-2026.png"
+    pdf: "/news/downloads/fury-vs-joshua-2026/fury-vs-joshua-watch-guide-ring-walk-2026.pdf"
+    png: "/news/downloads/fury-vs-joshua-2026/fury-vs-joshua-watch-guide-ring-walk-2026.png"
     pages: 1
 draft: false
 ---

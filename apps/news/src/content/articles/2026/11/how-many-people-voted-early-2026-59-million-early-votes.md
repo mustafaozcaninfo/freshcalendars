@@ -54,10 +54,10 @@ downloads:
   - group: "2026 Early Vote by State printables"
     title: "2026 Early Vote by State, Nov. 3 Snapshot"
     description: "Early votes recorded in the 20 states with the most, with each total as a share of the state's 2022 total ballots."
-    preview: ../../../../assets/news/election-2026-printables/early-vote-by-state-2026-nov-3-snapshot.png
+    preview: ../../../../assets/news/election-2026-printables/early-vote-by-state-2026-fact-table.png
     alt: "List of the 20 states with the most early votes in 2026 as of Nov. 3"
-    pdf: "/news/downloads/election-2026-printables/early-vote-by-state-2026-nov-3-snapshot.pdf"
-    png: "/news/downloads/election-2026-printables/early-vote-by-state-2026-nov-3-snapshot.png"
+    pdf: "/news/downloads/election-2026-printables/early-vote-by-state-2026-fact-table.pdf"
+    png: "/news/downloads/election-2026-printables/early-vote-by-state-2026-fact-table.png"
     pages: 1
 draft: false
 assets:
@@ -66,35 +66,41 @@ assets:
   date: "2026-11-03"
   card: { top: "Early votes recorded", big: "59.0 million", bottom: "As of 8:21 a.m. ET, Nov. 3" }
   printable:
-    slug: early-vote-by-state-2026-nov-3-snapshot
+    kit: fact-table
+    slug: early-vote-by-state-2026-fact-table
     group: election-2026-printables
-    noKit: "A ranked table of early votes by state, not a set of dates or deadlines"
     title: "2026 Early Vote by State, Nov. 3 Snapshot"
     subtitle: "Top 20 states by early votes as of 8:21 a.m. ET, Nov. 3, 2026"
-    rows:
-      - ["Texas", "7,736,594 early votes (94.9% of 2022 total ballots)"]
-      - ["California", "6,662,914 early votes (59.8% of 2022 total ballots)"]
-      - ["Florida", "5,464,802 early votes (70.1% of 2022 total ballots)"]
-      - ["Georgia", "2,834,893 early votes (71.5% of 2022 total ballots)"]
-      - ["North Carolina", "2,828,288 early votes (74.6% of 2022 total ballots)"]
-      - ["Michigan", "2,313,206 early votes (51.4% of 2022 total ballots)"]
-      - ["New York", "2,110,908 early votes (35.4% of 2022 total ballots)"]
-      - ["Washington", "1,992,533 early votes (65.0% of 2022 total ballots)"]
-      - ["Colorado", "1,859,900 early votes (73.2% of 2022 total ballots)"]
-      - ["Ohio", "1,728,899 early votes (41.2% of 2022 total ballots)"]
-      - ["Arizona", "1,648,197 early votes (63.6% of 2022 total ballots)"]
-      - ["Virginia", "1,644,509 early votes (54.4% of 2022 total ballots)"]
-      - ["Illinois", "1,579,728 early votes (38.1% of 2022 total ballots)"]
-      - ["Oregon", "1,481,943 early votes (74.2% of 2022 total ballots)"]
-      - ["Tennessee", "1,280,642 early votes (72.9% of 2022 total ballots)"]
-      - ["New Jersey", "1,240,049 early votes (46.9% of 2022 total ballots)"]
-      - ["Massachusetts", "1,161,295 early votes (46.2% of 2022 total ballots)"]
-      - ["South Carolina", "1,084,542 early votes (63.1% of 2022 total ballots)"]
-      - ["Pennsylvania", "1,062,313 early votes (19.6% of 2022 total ballots)"]
-      - ["Maryland", "993,206 early votes (48.9% of 2022 total ballots)"]
     note: "Source: University of Florida Election Lab, 2026 Early Voting tracker, 8:21 a.m. ET Nov. 3, 2026. A preliminary snapshot, not final turnout."
     description: "Early votes recorded in the 20 states with the most, with each total as a share of the state's 2022 total ballots."
     alt: "List of the 20 states with the most early votes in 2026 as of Nov. 3"
+    data:
+      highlight: state
+      columns:
+        - { key: state, label: "State" }
+        - { key: votes, label: "Early votes", align: right }
+        - { key: share, label: "Share of 2022 total ballots", align: right }
+      rows:
+        - { cells: { state: "Texas", votes: "7,736,594", share: "94.9%" }, src: 1 }
+        - { cells: { state: "California", votes: "6,662,914", share: "59.8%" }, src: 1 }
+        - { cells: { state: "Florida", votes: "5,464,802", share: "70.1%" }, src: 1 }
+        - { cells: { state: "Georgia", votes: "2,834,893", share: "71.5%" }, src: 1 }
+        - { cells: { state: "North Carolina", votes: "2,828,288", share: "74.6%" }, src: 1 }
+        - { cells: { state: "Michigan", votes: "2,313,206", share: "51.4%" }, src: 1 }
+        - { cells: { state: "New York", votes: "2,110,908", share: "35.4%" }, src: 1 }
+        - { cells: { state: "Washington", votes: "1,992,533", share: "65.0%" }, src: 1 }
+        - { cells: { state: "Colorado", votes: "1,859,900", share: "73.2%" }, src: 1 }
+        - { cells: { state: "Ohio", votes: "1,728,899", share: "41.2%" }, src: 1 }
+        - { cells: { state: "Arizona", votes: "1,648,197", share: "63.6%" }, src: 1 }
+        - { cells: { state: "Virginia", votes: "1,644,509", share: "54.4%" }, src: 1 }
+        - { cells: { state: "Illinois", votes: "1,579,728", share: "38.1%" }, src: 1 }
+        - { cells: { state: "Oregon", votes: "1,481,943", share: "74.2%" }, src: 1 }
+        - { cells: { state: "Tennessee", votes: "1,280,642", share: "72.9%" }, src: 1 }
+        - { cells: { state: "New Jersey", votes: "1,240,049", share: "46.9%" }, src: 1 }
+        - { cells: { state: "Massachusetts", votes: "1,161,295", share: "46.2%" }, src: 1 }
+        - { cells: { state: "South Carolina", votes: "1,084,542", share: "63.1%" }, src: 1 }
+        - { cells: { state: "Pennsylvania", votes: "1,062,313", share: "19.6%" }, src: 1 }
+        - { cells: { state: "Maryland", votes: "993,206", share: "48.9%" }, src: 1 }
 ---
 
 The University of Florida (UF) Election Lab tracker counted 59,014,258 early votes as of 8:21 a.m. Eastern Time (ET) on Tuesday, Nov. 3, 2026, split between 31,900,671 cast in person and 27,113,587 mail ballots returned. The tracker covers 48 states and the District of Columbia (D.C.); Alabama and New Hampshire have no early vote data in its file. The figures below are a preliminary snapshot, not final turnout, and they do not show how anyone voted.

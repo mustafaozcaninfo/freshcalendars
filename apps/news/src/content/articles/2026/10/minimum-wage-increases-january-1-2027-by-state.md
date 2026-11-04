@@ -90,26 +90,35 @@ assets:
   date: "2027-01-01"
   card: { top: "California rises to", big: "$17.40 an hour", bottom: "Jan. 1, 2027" }
   printable:
-    slug: minimum-wage-rates-january-1-2027
+    kit: fact-table
+    slug: minimum-wage-rates-by-state-january-1-2027
     group: minimum-wage-2027
     title: "Minimum Wage Rates, January 1, 2027"
     subtitle: "Hourly rates that take effect Fri., Jan. 1, 2027"
-    layout: list
-    noKit: "Rates by place on one fixed date, not deadlines or steps"
-    rows:
-      - ["Fri., Jan. 1", "Seattle: $21.30 to $22.14 (city rate)"]
-      - ["Fri., Jan. 1", "Denver: $19.29 to $19.84 (city rate)"]
-      - ["Fri., Jan. 1", "Washington: $17.13 to $17.73"]
-      - ["Fri., Jan. 1", "Connecticut: $16.94 to $17.48"]
-      - ["Fri., Jan. 1", "California: $16.90 to $17.40"]
-      - ["Fri., Jan. 1", "New Jersey: $15.92 to $16.48 (most employees)"]
-      - ["Fri., Jan. 1", "Michigan: $13.73 to $15.00"]
-      - ["Fri., Jan. 1", "Virginia: $12.77 to $13.75 ($15.00 from Jan. 1, 2028)"]
-      - ["Fri., Jan. 1", "South Dakota: $11.85 to $12.30 (tipped $5.925 to $6.15)"]
-      - ["Fri., Jan. 1", "Minnesota: $11.41 to $11.87 (training wage $9.31 to $9.68)"]
-      - ["Fri., Jan. 1", "Montana: $10.85 to $11.20 (no tip credit)"]
-      - ["Fri., Jan. 1", "New York: no change ($17.00 NYC area, $16.00 elsewhere)"]
-      - ["Fri., Jan. 1", "Federal minimum wage: stays $7.25"]
+    landscape: true
+    data:
+      columns:
+        - { key: place, label: "State or city" }
+        - { key: now, label: "Rate now", align: right }
+        - { key: jan, label: "Jan. 1, 2027", align: right }
+        - { key: note, label: "Notes" }
+      highlight: place
+      rows:
+        - { cells: { place: "Seattle", now: "$21.30", jan: "$22.14", note: "City minimum wage" }, src: 11 }
+        - { cells: { place: "Denver", now: "$19.29", jan: "$19.84", note: "City minimum wage" }, src: 3 }
+        - { cells: { place: "Washington", now: "$17.13", jan: "$17.73" }, src: 5 }
+        - { cells: { place: "Connecticut", now: "$16.94", jan: "$17.48" }, src: 1 }
+        - { cells: { place: "California", now: "$16.90", jan: "$17.40" }, src: 4 }
+        - { cells: { place: "New Jersey", now: "$15.92", jan: "$16.48", note: "Most employees" }, src: 6 }
+        - { cells: { place: "Michigan", now: "$13.73", jan: "$15.00", note: "Biggest rise, +9.2%" }, src: 9 }
+        - { cells: { place: "Virginia", now: "$12.77", jan: "$13.75", note: "$15.00 from Jan. 1, 2028" }, src: 8 }
+        - { cells: { place: "South Dakota", now: "$11.85", jan: "$12.30", note: "Tipped $5.925 to $6.15" }, src: 10 }
+        - { cells: { place: "Minnesota", now: "$11.41", jan: "$11.87", note: "Training wage $9.31 to $9.68" }, src: 7 }
+        - { cells: { place: "Montana", now: "$10.85", jan: "$11.20", note: "No tip credit" }, src: 2 }
+        - { cells: { place: "New York", now: "No change", jan: "No change", note: "$17.00 NYC area, $16.00 elsewhere" }, src: 11 }
+        - { cells: { place: "Federal", now: "$7.25", jan: "$7.25", note: "Unchanged" }, src: 13 }
+      note:
+        - "City rates are set by Seattle and Denver; the others are state rates. Confirm with your state."
     note: "Source: state labor agencies, Seattle Office of Labor Standards and U.S. Department of Labor, as listed at freshcalendars.com/news. Confirm with your state."
     description: "One-page list of the minimum wage rates that take effect on January 1, 2027 in eleven places, with New York and federal rates."
     alt: "Printable list of minimum wage rates by state for January 1, 2027"
@@ -117,10 +126,10 @@ downloads:
   - group: "Minimum Wage Rates printables"
     title: "Minimum Wage Rates, January 1, 2027"
     description: "One-page list of the minimum wage rates that take effect on January 1, 2027 in eleven places, with New York and federal rates."
-    preview: ../../../../assets/news/minimum-wage-2027/minimum-wage-rates-january-1-2027.png
+    preview: ../../../../assets/news/minimum-wage-2027/minimum-wage-rates-by-state-january-1-2027.png
     alt: "Printable list of minimum wage rates by state for January 1, 2027"
-    pdf: "/news/downloads/minimum-wage-2027/minimum-wage-rates-january-1-2027.pdf"
-    png: "/news/downloads/minimum-wage-2027/minimum-wage-rates-january-1-2027.png"
+    pdf: "/news/downloads/minimum-wage-2027/minimum-wage-rates-by-state-january-1-2027.pdf"
+    png: "/news/downloads/minimum-wage-2027/minimum-wage-rates-by-state-january-1-2027.png"
     pages: 1
 draft: false
 ---

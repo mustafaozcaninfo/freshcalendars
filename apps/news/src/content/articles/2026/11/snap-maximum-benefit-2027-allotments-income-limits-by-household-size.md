@@ -52,34 +52,45 @@ internalLinks:
 related: [snap-payment-schedule-january-2027-deposit-dates-by-state, snap-payment-schedule-december-2026-deposit-dates-by-state]
 downloads:
   - group: "SNAP Benefit Amounts and Income Limits printables"
-    title: "SNAP Benefit Amounts and Income Limits, FY2027"
+    title: "SNAP 2027 Benefit Amounts and Income Limits (FY2027)"
     description: "Printable table of SNAP maximum monthly benefits and gross and net income limits by household size for fiscal year 2027, from FNS."
-    preview: ../../../../assets/news/snap-2027/snap-benefit-amounts-income-limits-fy2027.png
+    preview: ../../../../assets/news/snap-2027/snap-benefit-amounts-income-limits-fy2027-by-household.png
     alt: "Printable table of SNAP maximum benefit and income limits by household size for fiscal year 2027"
-    pdf: "/news/downloads/snap-2027/snap-benefit-amounts-income-limits-fy2027.pdf"
-    png: "/news/downloads/snap-2027/snap-benefit-amounts-income-limits-fy2027.png"
+    pdf: "/news/downloads/snap-2027/snap-benefit-amounts-income-limits-fy2027-by-household.pdf"
+    png: "/news/downloads/snap-2027/snap-benefit-amounts-income-limits-fy2027-by-household.png"
     pages: 1
 assets:
   overlay: true
   kicker: "SNAP · FY2027"
   card: { top: "Max SNAP, family of 4", big: "$1,023", bottom: "FY2027, from Oct. 1, 2026" }
   printable:
-    noKit: "household-size table of FY2027 allotments and income limits, not a deadline sheet"
-    layout: list
-    slug: snap-benefit-amounts-income-limits-fy2027
+    kit: fact-table
+    slug: snap-benefit-amounts-income-limits-fy2027-by-household
     group: snap-2027
-    title: "SNAP Benefit Amounts and Income Limits, FY2027"
+    title: "SNAP 2027 Benefit Amounts and Income Limits (FY2027)"
     subtitle: "Maximum monthly allotment, gross and net income limits by household size, Oct. 1, 2026 to Sept. 30, 2027"
-    rows:
-      - ["1 person", "Max $306 a month · gross limit $1,729 · net limit $1,330"]
-      - ["2 people", "Max $562 a month · gross limit $2,345 · net limit $1,804"]
-      - ["3 people", "Max $808 a month · gross limit $2,960 · net limit $2,277"]
-      - ["4 people", "Max $1,023 a month · gross limit $3,575 · net limit $2,750"]
-      - ["5 people", "Max $1,217 a month · gross limit $4,191 · net limit $3,224"]
-      - ["6 people", "Max $1,463 a month · gross limit $4,806 · net limit $3,697"]
-      - ["7 people", "Max $1,616 a month · gross limit $5,421 · net limit $4,170"]
-      - ["8 people", "Max $1,841 a month · gross limit $6,037 · net limit $4,644"]
-      - ["Each added person", "Max +$225 · gross limit +$616 · net limit +$474"]
+    data:
+      columns:
+        - { key: household, label: "Household size" }
+        - { key: max, label: "Maximum monthly benefit", align: right }
+        - { key: gross, label: "Gross income limit", align: right }
+        - { key: net, label: "Net income limit", align: right }
+      highlight: household
+      rows:
+        - { cells: { household: "1 person", max: "$306", gross: "$1,729", net: "$1,330" }, src: 1 }
+        - { cells: { household: "2 people", max: "$562", gross: "$2,345", net: "$1,804" }, src: 1 }
+        - { cells: { household: "3 people", max: "$808", gross: "$2,960", net: "$2,277" }, src: 1 }
+        - { cells: { household: "4 people", max: "$1,023", gross: "$3,575", net: "$2,750" }, src: 1 }
+        - { cells: { household: "5 people", max: "$1,217", gross: "$4,191", net: "$3,224" }, src: 1 }
+        - { cells: { household: "6 people", max: "$1,463", gross: "$4,806", net: "$3,697" }, src: 1 }
+        - { cells: { household: "7 people", max: "$1,616", gross: "$5,421", net: "$4,170" }, src: 1 }
+        - { cells: { household: "8 people", max: "$1,841", gross: "$6,037", net: "$4,644" }, src: 1 }
+        - { cells: { household: "Each added person", max: "+$225", gross: "+$616", net: "+$474" }, src: 1 }
+      note:
+        - "Amounts are for the 48 states and DC, fiscal year 2027 (Oct. 1, 2026 to Sept. 30, 2027)."
+        - "Gross income limit is 130% of the poverty line; net is 100%. FNS says the income figures may change."
+      unconfirmed:
+        - { label: "Alaska, Guam, Hawaii and U.S. Virgin Islands amounts", why: "FNS lists separate figures for them, not in this 48-states table" }
     note: "Source: USDA Food and Nutrition Service, SNAP Cost-of-Living Adjustment (COLA) Information (updated Oct. 21, 2026) and SNAP Eligibility (updated Nov. 3, 2026). Amounts are for the 48 states and DC; FNS says the income figures may change."
     description: "Printable table of SNAP maximum monthly benefits and gross and net income limits by household size for fiscal year 2027, from FNS."
     alt: "Printable table of SNAP maximum benefit and income limits by household size for fiscal year 2027"

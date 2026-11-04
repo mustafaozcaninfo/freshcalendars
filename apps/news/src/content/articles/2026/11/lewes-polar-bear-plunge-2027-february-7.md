@@ -106,39 +106,61 @@ assets:
   date: "2027-02-07"
   card: { top: "Plunge into the Atlantic at", big: "1:00 p.m.", bottom: "Rehoboth Beach, Sun., Feb. 7" }
   printable:
-    slug: lewes-polar-bear-plunge-2027-checklist
+    kit: activity-sheet
+    slug: lewes-polar-bear-plunge-2027-plunge-activity-sheet
     group: lewes-polar-bear-plunge-2027
     title: "Lewes Polar Bear Plunge 2027 Checklist"
     subtitle: "Sunday, Feb. 7, 2027, 1:00 p.m., Rehoboth Beach"
-    layout: checklist
-    noKit: "plunge-day packing and safety checklist, not a holiday status grid or deadline matrix"
-    rows:
-      - { when: "Before", what: "Register on the GoFundMe Pro site or with the paper form", section: "Sign up and raise" }
-      - { when: "Before", what: "Raise at least $100 to be an Official Bear", section: "Sign up and raise" }
-      - { when: "Before", what: "Plan where and when you check in (2027 times not yet announced)", section: "Sign up and raise" }
-      - { when: "End of Feb.", what: "Donations and matching dollars in by the end of February", section: "Sign up and raise" }
-      - { when: "Bring", what: "A robe", section: "Pack" }
-      - { when: "Bring", what: "Extra towels or a blanket to stand on", section: "Pack" }
-      - { when: "Bring", what: "Layers and loose-fitting clothes", section: "Pack" }
-      - { when: "Bring", what: "Water shoes or something on your feet", section: "Pack" }
-      - { when: "Sun., Feb. 7", what: "Arrive early and be patient looking for parking", section: "On the day" }
-      - { when: "1:00 p.m.", what: "In-person plunge at Rehoboth Beach", section: "On the day" }
-      - { when: "Rule", what: "Do not dive in or enter the water head-first", section: "Safety rules" }
-      - { when: "Rule", what: "Do not swim past the safety divers", section: "Safety rules" }
-      - { when: "Rule", what: "Do not go near the jetties", section: "Safety rules" }
-      - { when: "Rule", what: "Plunge with a friend: use the buddy system", section: "Safety rules" }
-      - { when: "Rule", what: "No tents or drones on the beach", section: "Safety rules" }
-    note: "Source: Special Olympics Delaware, plungede.org (home, frequently asked questions, registration, fundraising incentives, maps and parking, tips for a bearable plunge). Checked Nov. 4, 2026."
+    notesLabel: "Check-in time, parking and my fundraising total"
+    data:
+      day:
+        date: "2027-02-07"
+        name: "36th Lewes Polar Bear Plunge"
+        src: 1
+        quote: "In-Person – Sunday, February 7, 2027 in Rehoboth Beach at 1:00 p.m."
+      facts:
+        - text: "The in-person plunge is at 1:00 p.m. in Rehoboth Beach on Sunday, Feb. 7, 2027."
+          src: 1
+          quote: "In-Person – Sunday, February 7, 2027 in Rehoboth Beach at 1:00 p.m."
+        - text: "Official Bear status requires a minimum of $100 raised."
+          src: 4
+          quote: "a minimum of $100 is raised"
+        - text: "A virtual plunge is offered: backyard, schoolyard, any time, any place."
+          src: 1
+          quote: "Virtual – Backyard, schoolyard, any time, any place."
+      activities:
+        - type: checklist
+          title: "Sign up and raise"
+          items:
+            - "Register on the GoFundMe Pro site or with the paper form"
+            - "Raise at least $100 to be an Official Bear"
+            - "Plan where and when you check in (2027 times not yet announced)"
+        - type: checklist
+          title: "Pack"
+          items:
+            - "A robe"
+            - "Extra towels or a blanket to stand on"
+            - "Layers and loose-fitting clothes"
+            - "Water shoes or something on your feet"
+        - type: checklist
+          title: "Safety rules (Plunge DE tips page)"
+          items:
+            - "Do not dive in or enter the water head-first"
+            - "Do not swim past the safety divers"
+            - "Do not go near the jetties"
+            - "Plunge with a friend: use the buddy system"
+            - "No tents or drones on the beach"
+    note: "Source: Special Olympics Delaware, plungede.org (home, frequently asked questions, registration, fundraising incentives, tips for a bearable plunge). Checked Nov. 4, 2026."
     description: "Printable checklist for the Lewes Polar Bear Plunge on Sunday, Feb. 7, 2027: sign-up steps, what to bring, arrival and the official safety rules."
     alt: "Checklist for the Lewes Polar Bear Plunge 2027 with sign-up, packing and safety rules"
 downloads:
   - group: "Lewes Polar Bear Plunge 2027 Checklist printables"
     title: "Lewes Polar Bear Plunge 2027 Checklist"
     description: "Printable checklist for the Lewes Polar Bear Plunge on Sunday, Feb. 7, 2027: sign-up steps, what to bring, arrival and the official safety rules."
-    preview: ../../../../assets/news/lewes-polar-bear-plunge-2027/lewes-polar-bear-plunge-2027-checklist.png
+    preview: ../../../../assets/news/lewes-polar-bear-plunge-2027/lewes-polar-bear-plunge-2027-plunge-activity-sheet.png
     alt: "Checklist for the Lewes Polar Bear Plunge 2027 with sign-up, packing and safety rules"
-    pdf: "/news/downloads/lewes-polar-bear-plunge-2027/lewes-polar-bear-plunge-2027-checklist.pdf"
-    png: "/news/downloads/lewes-polar-bear-plunge-2027/lewes-polar-bear-plunge-2027-checklist.png"
+    pdf: "/news/downloads/lewes-polar-bear-plunge-2027/lewes-polar-bear-plunge-2027-plunge-activity-sheet.pdf"
+    png: "/news/downloads/lewes-polar-bear-plunge-2027/lewes-polar-bear-plunge-2027-plunge-activity-sheet.png"
     pages: 1
 draft: false
 ---

@@ -89,33 +89,38 @@ assets:
   date: "2026-10-28"
   card: { top: "Sam's Club meal on sale", big: "Wed., Oct. 28", bottom: "Aldi, Target and Lidl deals follow" }
   printable:
-    slug: thanksgiving-meal-deals-2026-sale-dates
+    kit: fact-table
+    slug: thanksgiving-meal-deals-2026-fact-table
     group: thanksgiving-2026
-    title: "Thanksgiving Meal Deals 2026: Sale Dates"
-    subtitle: "When the Sam's Club, ALDI, Target, Lidl, Walmart and Amazon meals are on sale"
-    rows:
-      - ["Wed., Oct. 14", "ALDI meal for 10 (under $39) prices begin"]
-      - ["Mon., Oct. 26", "ALDI cranberries available"]
-      - ["Wed., Oct. 28", "Sam's Club Member's Mark meal (about $160, up to 16) on sale; Walmart $35 meal basket for 10 begins"]
-      - ["Wed., Nov. 4", "ALDI turkey available"]
-      - ["Sun., Nov. 8", "Target $30 meal for six starts"]
-      - ["Wed., Nov. 11", "Lidl $35.86 basket starts; ALDI pumpkin pie mix available"]
-      - ["Wed., Nov. 25", "ALDI and Lidl deals end"]
-      - ["Thu., Nov. 26", "Thanksgiving; Amazon Grocery $25 meal offer ends"]
-      - ["Sun., Nov. 29", "Target prices valid through this day"]
-      - ["Thu., Dec. 24", "Walmart meal basket prices valid through this day"]
+    title: "Thanksgiving Meal Deals 2026: Prices and Dates"
+    subtitle: "Sam's Club, ALDI, Lidl, Target, Walmart and Amazon prices, servings and sale dates"
     note: "Source: Sam's Club, ALDI, Lidl US, Target, Walmart and Amazon press releases, Oct. to Nov. 2026. Prices are as announced and before tax; Target's offer excludes Alaska and Hawaii."
-    noKit: "Mixed sale windows from six retailers' price announcements in one list, not a deadline-by-program grid with one source quote per cell."
     description: "Sale dates for the 2026 Thanksgiving meals from Sam's Club, ALDI, Target, Lidl, Walmart and Amazon, from Oct. 14 to Dec. 24."
-    alt: "Thanksgiving meal deals 2026 printable calendar with sale dates for Sam's Club, ALDI, Target, Lidl, Walmart and Amazon"
+    alt: "Thanksgiving meal deals 2026 printable comparing prices, servings and sale dates for Sam's Club, ALDI, Target, Lidl, Walmart and Amazon"
+    landscape: true
+    data:
+      highlight: retailer
+      columns:
+        - { key: retailer, label: "Retailer" }
+        - { key: price, label: "Price (before tax)", align: right }
+        - { key: feeds, label: "Feeds" }
+        - { key: per, label: "Per person" }
+        - { key: sale, label: "On sale (2026)" }
+      rows:
+        - { cells: { retailer: "Sam's Club", price: "About $160", feeds: "Up to 16", per: "About $10", sale: "From Oct. 28" }, src: 4 }
+        - { cells: { retailer: "ALDI", price: "Under $39", feeds: "10", per: "Under $3.90", sale: "Oct. 14 to Nov. 25" }, src: 5 }
+        - { cells: { retailer: "Lidl", price: "$35.86", feeds: "Up to 10", per: "$3.59", sale: "Nov. 11 to Nov. 25" }, src: 6 }
+        - { cells: { retailer: "Target", price: "$30", feeds: "6", per: "$5", sale: "Nov. 8 to Nov. 29" }, src: 7 }
+        - { cells: { retailer: "Walmart", price: "$35", feeds: "10", per: "$3.50", sale: "Oct. 28 to Dec. 24" }, src: 1 }
+        - { cells: { retailer: "Amazon Grocery", price: "$25", feeds: "Not stated", per: "Not available", sale: "Through Nov. 26" }, src: 2 }
 downloads:
   - group: "Thanksgiving Meal Deals 2026 printables"
-    title: "Thanksgiving Meal Deals 2026: Sale Dates"
+    title: "Thanksgiving Meal Deals 2026: Prices and Dates"
     description: "Sale dates for the 2026 Thanksgiving meals from Sam's Club, ALDI, Target, Lidl, Walmart and Amazon, from Oct. 14 to Dec. 24."
-    preview: ../../../../assets/news/thanksgiving-2026/thanksgiving-meal-deals-2026-sale-dates.png
-    alt: "Thanksgiving meal deals 2026 printable calendar with sale dates for Sam's Club, ALDI, Target, Lidl, Walmart and Amazon"
-    pdf: "/news/downloads/thanksgiving-2026/thanksgiving-meal-deals-2026-sale-dates.pdf"
-    png: "/news/downloads/thanksgiving-2026/thanksgiving-meal-deals-2026-sale-dates.png"
+    preview: ../../../../assets/news/thanksgiving-2026/thanksgiving-meal-deals-2026-fact-table.png
+    alt: "Thanksgiving meal deals 2026 printable comparing prices, servings and sale dates for Sam's Club, ALDI, Target, Lidl, Walmart and Amazon"
+    pdf: "/news/downloads/thanksgiving-2026/thanksgiving-meal-deals-2026-fact-table.pdf"
+    png: "/news/downloads/thanksgiving-2026/thanksgiving-meal-deals-2026-fact-table.png"
     pages: 1
 draft: false
 ---

@@ -21,30 +21,30 @@ assets:
   card: { top: "Black Friday football", big: "Fri., Nov. 27", bottom: "Egg Bowl, Steelers, Lone Star Showdown" }
   title: "Thanksgiving football 2026"
   printable:
-    noKit: "Mixed NFL and college slate over four days, with kickoffs in two time zones and two games without a time; the source quotes do not cover every row."
-    slug: thanksgiving-football-schedule-2026
+    kit: watch-guide
+    slug: thanksgiving-football-watch-guide-2026
     group: thanksgiving-2026
     title: "Thanksgiving Football Schedule 2026, Nov. 25-28"
     subtitle: "Every NFL and college game, Eastern Time unless noted"
-    layout: list
-    columns: ["When (ET)", "Game and where to watch"]
-    rows:
-      - ["Wed., Nov. 25, 8 p.m.", "Packers at Rams, NFL Thanksgiving Eve, U2 halftime · Netflix"]
-      - ["Thu., Nov. 26, 1 p.m.", "Bears at Lions, NFL · CBS"]
-      - ["Thu., Nov. 26, 4:30 p.m.", "Eagles at Cowboys, NFL, Miranda Lambert halftime · FOX"]
-      - ["Thu., Nov. 26, 8 p.m.", "Texas Christian University (TCU) at Texas Tech (7 p.m. CT), Lubbock · ESPN"]
-      - ["Thu., Nov. 26, 8:20 p.m.", "Chiefs at Bills, NFL · NBC"]
-      - ["Fri., Nov. 27, 12 noon", "Egg Bowl: Mississippi State at Ole Miss (11 a.m. CT) · ABC"]
-      - ["Fri., Nov. 27, 12 noon", "Nebraska at Iowa (11 a.m. CT), Kinnick Stadium · CBS"]
-      - ["Fri., Nov. 27, 3 p.m.", "Broncos at Steelers, NFL Black Friday game · Prime Video"]
-      - ["Fri., Nov. 27, 7:30 p.m.", "Lone Star Showdown: Texas at Texas A&M (6:30 p.m. CT) · ABC"]
-      - ["Sat., Nov. 28, 12 noon", "The Game: Michigan at Ohio State · FOX"]
-      - ["Sat., Nov. 28, TBA", "Iron Bowl: Auburn at Alabama, time and TV not yet announced"]
-      - ["Sat., Nov. 28, TBA", "Georgia Tech at Georgia, time and TV not yet announced"]
-    note: "Source: NFL.com 2026 schedule release; Mississippi State and Ole Miss athletics (Egg Bowl); Iowa Athletics; Texas Tech Athletics (Texas Christian University (TCU) at Texas Tech); Dallas Cowboys (halftime); Texas A&M Athletics; FOX Sports (Ohio State vs. Michigan); CBS Sports and Sports Illustrated on the SEC and Georgia schedules. Times marked TBA are set by TV partners closer to the game."
-    notesLabel: "Our picks"
+    note: "Source: NFL.com 2026 schedule release; Mississippi State and Ole Miss athletics (Egg Bowl); Iowa Athletics; Texas Tech Athletics (Texas Christian University (TCU) at Texas Tech); Dallas Cowboys (halftime); Texas A&M Athletics; FOX Sports (Ohio State vs. Michigan); CBS Sports and Sports Illustrated on the SEC and Georgia schedules. Times marked to be announced are set by TV partners closer to the game."
     description: "Every Thanksgiving weekend 2026 football game on one page: the NFL slate and college rivalry weekend from Wednesday, Nov. 25 to Saturday, Nov. 28."
     alt: "Thanksgiving football schedule 2026 printable listing every NFL and college game from Nov. 25 to Nov. 28 with Eastern Time kickoffs and TV channels"
+    data:
+      pick: "My pick"
+      layout: table
+      events:
+        - { start: "2026-11-25T20:00-05:00", title: "Packers at Rams", detail: "NFL Thanksgiving Eve; U2 halftime", channel: "Netflix", src: 2 }
+        - { start: "2026-11-26T13:00-05:00", title: "Bears at Lions", detail: "NFL", channel: "CBS", src: 1 }
+        - { start: "2026-11-26T16:30-05:00", title: "Eagles at Cowboys", detail: "NFL; Miranda Lambert halftime", channel: "FOX", src: 1 }
+        - { start: "2026-11-26T20:00-05:00", title: "TCU at Texas Tech", detail: "College; Jones AT&T Stadium, Lubbock", channel: "ESPN", src: 4 }
+        - { start: "2026-11-26T20:20-05:00", title: "Chiefs at Bills", detail: "NFL", channel: "NBC", src: 1 }
+        - { start: "2026-11-27T12:00-05:00", title: "Egg Bowl: Mississippi State at Ole Miss", detail: "Vaught-Hemingway Stadium, Oxford", channel: "ABC", src: 7 }
+        - { start: "2026-11-27T12:00-05:00", title: "Nebraska at Iowa", detail: "Kinnick Stadium, Iowa City", channel: "CBS", src: 10 }
+        - { start: "2026-11-27T15:00-05:00", title: "Broncos at Steelers", detail: "NFL Black Friday game", channel: "Prime Video", src: 1 }
+        - { start: "2026-11-27T19:30-05:00", title: "Lone Star Showdown: Texas at Texas A&M", detail: "Kyle Field, College Station", channel: "ABC", src: 11 }
+        - { start: "2026-11-28T12:00-05:00", title: "The Game: Michigan at Ohio State", detail: "Ohio Stadium, Columbus", channel: "FOX", src: 12 }
+        - { date: "2026-11-28", time: tba, title: "Iron Bowl: Auburn at Alabama", detail: "Bryant-Denny Stadium, Tuscaloosa", src: 13 }
+        - { date: "2026-11-28", time: tba, title: "Georgia Tech at Georgia", detail: "Sanford Stadium, Athens", src: 14 }
 hero:
   src: ../../../../assets/news/thanksgiving-football-schedule-2026-nfl-college-games/thanksgiving-football-schedule-2026-nfl-college-games.jpg
   alt: "Thanksgiving football schedule 2026 illustration with a Nov. 27 date tile and a card for the Black Friday games"
@@ -133,10 +133,10 @@ downloads:
   - group: "Thanksgiving Football Schedule 2026 printables"
     title: "Thanksgiving Football Schedule 2026, Nov. 25-28"
     description: "Every Thanksgiving weekend 2026 football game on one page: the NFL slate and college rivalry weekend from Wednesday, Nov. 25 to Saturday, Nov. 28."
-    preview: ../../../../assets/news/thanksgiving-2026/thanksgiving-football-schedule-2026.png
+    preview: ../../../../assets/news/thanksgiving-2026/thanksgiving-football-watch-guide-2026.png
     alt: "Thanksgiving football schedule 2026 printable listing every NFL and college game from Nov. 25 to Nov. 28 with Eastern Time kickoffs and TV channels"
-    pdf: "/news/downloads/thanksgiving-2026/thanksgiving-football-schedule-2026.pdf"
-    png: "/news/downloads/thanksgiving-2026/thanksgiving-football-schedule-2026.png"
+    pdf: "/news/downloads/thanksgiving-2026/thanksgiving-football-watch-guide-2026.pdf"
+    png: "/news/downloads/thanksgiving-2026/thanksgiving-football-watch-guide-2026.png"
     pages: 1
 draft: false
 ---

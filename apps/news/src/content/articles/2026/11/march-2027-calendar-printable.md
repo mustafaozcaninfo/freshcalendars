@@ -87,37 +87,37 @@ assets:
   date: "2027-03-01"
   card: { top: "First day of spring", big: "Sat., Mar. 20", bottom: "Full Moon Mon., Mar. 22" }
   printable:
-    noKit: "A one-month calendar grid with numbered marks does not fit the year-reference or deadline-matrix kits, which draw 12 mini months or a date-by-program table."
-    slug: march-2027-calendar-key-dates
+    kit: year-reference
+    slug: march-2027-calendar-holidays-moon-phases
     group: march-2027-calendar
     title: "March 2027 Calendar With Holidays, Moon Phases and Key Dates"
-    subtitle: "Monday, Mar. 1 to Wednesday, Mar. 31, 2027"
-    rows:
-      - ["Mon., Mar. 8, 2027", "New Moon, 4:29 a.m. EST"]
-      - ["Sun., Mar. 14, 2027", "Daylight saving time begins, 2 a.m."]
-      - ["Sun., Mar. 14, 2027", "NCAA Selection Sunday"]
-      - ["Sun., Mar. 14, 2027", "99th Oscars, 7 p.m. ET on ABC"]
-      - ["Mon., Mar. 15, 2027", "First Quarter Moon, 12:25 p.m. EDT"]
-      - ["Wed., Mar. 17, 2027", "St. Patrick's Day"]
-      - ["Sat., Mar. 20, 2027", "First day of spring, 4:25 p.m. EDT"]
-      - ["Mon., Mar. 22, 2027", "Full Moon, 6:44 a.m. EDT"]
-      - ["Mon., Mar. 22, 2027", "Purim begins at sundown"]
-      - ["Thu., Mar. 25, 2027", "MLB Opening Day"]
-      - ["Fri., Mar. 26, 2027", "Good Friday: NYSE closed, UK bank holiday"]
-      - ["Sun., Mar. 28, 2027", "Easter Sunday"]
-      - ["Mon., Mar. 29, 2027", "Easter Monday, UK bank holiday"]
-      - ["Mon., Mar. 29, 2027", "Last Quarter Moon, 8:54 p.m. EDT"]
-    note: "Source: U.S. Naval Observatory (Moon phases, 2027; Earth's Seasons); Church of England; GOV.UK; Cornell Legal Information Institute (15 U.S.C. 260a); New York Stock Exchange; Hebcal; NCAA.com; Academy of Motion Picture Arts and Sciences; MLB.com."
-    description: "One-page March 2027 calendar with Moon phases and times, the spring equinox, Selection Sunday, the Oscars, Good Friday, Easter, MLB Opening Day and more."
-    alt: "March 2027 printable calendar grid with 14 numbered dates, Moon phases and the spring equinox on Saturday, Mar. 20"
+    subtitle: "Monday, March 1 to Wednesday, March 31, 2027"
+    data:
+      year: 2027
+      mode: day-of-year
+      start: sunday
+      month: 3
+      marks:
+        - { date: "2027-03-08", label: "New Moon, 4:29 a.m. EST", src: 2, quote: "2027 Mar 8 09:29 (UT)" }
+        - { date: "2027-03-14", label: "99th Oscars, 7 p.m. ET on ABC", src: 11, quote: "the 99th Oscars will take place on Sunday, March 14, 2027." }
+        - { date: "2027-03-15", label: "First Quarter Moon, 12:25 p.m. EDT", src: 2, quote: "2027 Mar 15 16:25 (UT)" }
+        - { date: "2027-03-22", label: "Purim begins at sundown", src: 9, quote: "Purim for Hebrew Year 5787 begins at sundown on Monday, 22 March 2027" }
+        - { date: "2027-03-22", label: "Full Moon, 6:44 a.m. EDT", src: 2, quote: "2027 Mar 22 10:44 (UT)" }
+        - { date: "2027-03-25", label: "MLB Opening Day", src: 12, quote: "Traditional Opening Day is set for Thursday, March 25" }
+        - { date: "2027-03-26", label: "Good Friday (UK bank holiday)", src: 7, quote: ["Good Friday", "26 March"] }
+        - { date: "2027-03-28", label: "Easter Sunday", src: 6, quote: "Easter Day 28 March" }
+        - { date: "2027-03-29", label: "Easter Monday (UK bank holiday)", src: 7, quote: ["Easter Monday", "29 March"] }
+    note: "Source: U.S. Naval Observatory (Moon phases, 2027); Church of England and GOV.UK (Easter, Good Friday, Easter Monday); Hebcal (Purim); Academy of Motion Picture Arts and Sciences (99th Oscars); MLB.com (Opening Day). Moon times shown in Eastern Time."
+    description: "One-page March 2027 calendar with the Moon phases, Purim, the 99th Oscars, Good Friday, Easter and MLB Opening Day marked, with weekdays."
+    alt: "March 2027 printable calendar grid with Moon phases, the Oscars, Good Friday, Easter and MLB Opening Day marked"
 downloads:
   - group: "March 2027 Calendar With Holidays printables"
     title: "March 2027 Calendar With Holidays, Moon Phases and Key Dates"
-    description: "One-page March 2027 calendar with Moon phases and times, the spring equinox, Selection Sunday, the Oscars, Good Friday, Easter, MLB Opening Day and more."
-    preview: ../../../../assets/news/march-2027-calendar/march-2027-calendar-key-dates.png
-    alt: "March 2027 printable calendar grid with 14 numbered dates, Moon phases and the spring equinox on Saturday, Mar. 20"
-    pdf: "/news/downloads/march-2027-calendar/march-2027-calendar-key-dates.pdf"
-    png: "/news/downloads/march-2027-calendar/march-2027-calendar-key-dates.png"
+    description: "One-page March 2027 calendar with the Moon phases, Purim, the 99th Oscars, Good Friday, Easter and MLB Opening Day marked, with weekdays."
+    preview: ../../../../assets/news/march-2027-calendar/march-2027-calendar-holidays-moon-phases.png
+    alt: "March 2027 printable calendar grid with Moon phases, the Oscars, Good Friday, Easter and MLB Opening Day marked"
+    pdf: "/news/downloads/march-2027-calendar/march-2027-calendar-holidays-moon-phases.pdf"
+    png: "/news/downloads/march-2027-calendar/march-2027-calendar-holidays-moon-phases.png"
     pages: 1
 draft: false
 ---

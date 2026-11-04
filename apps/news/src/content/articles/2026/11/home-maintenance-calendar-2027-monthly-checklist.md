@@ -15,37 +15,24 @@ assets:
   date: "2027-01-01"
   card: { top: "Test smoke alarms", big: "Every month", bottom: "U.S. Fire Administration" }
   printable:
-    noKit: "monthly home checklist, not a deadline sheet: tick boxes grouped by task type"
-    slug: home-maintenance-checklist-2027
+    kit: planner
+    slug: home-maintenance-checklist-2027-by-month
     group: home-maintenance-2027
     title: "Home Maintenance Checklist 2027 by Month"
     subtitle: "Sourced monthly, seasonal and storm-season tasks for 2027"
     notesLabel: "Alarm ages, filter sizes and service dates"
-    rows:
-      - { when: "Jan. 2", what: "Test every smoke and CO alarm (first Saturday)", section: "Every month" }
-      - { when: "Feb. 6", what: "Test every smoke and CO alarm", section: "Every month" }
-      - { when: "March 6", what: "Test every smoke and CO alarm", section: "Every month" }
-      - { when: "April 3", what: "Test every smoke and CO alarm", section: "Every month" }
-      - { when: "May 1", what: "Test every smoke and CO alarm", section: "Every month" }
-      - { when: "June 5", what: "Test every smoke and CO alarm", section: "Every month" }
-      - { when: "July 3", what: "Test every smoke and CO alarm", section: "Every month" }
-      - { when: "Aug. 7", what: "Test every smoke and CO alarm", section: "Every month" }
-      - { when: "Sept. 4", what: "Test every smoke and CO alarm", section: "Every month" }
-      - { when: "Oct. 2", what: "Test every smoke and CO alarm", section: "Every month" }
-      - { when: "Nov. 6", what: "Test every smoke and CO alarm", section: "Every month" }
-      - { when: "Dec. 4", what: "Test every smoke and CO alarm", section: "Every month" }
-      - { when: "January", what: "Test for radon; EPA action level is 4 pCi/L", section: "Once a year" }
-      - { when: "Nov. 7", what: "Replace alarm batteries (CPSC: yearly)", section: "Once a year" }
-      - { when: "Alarm back", what: "Replace the whole smoke alarm 10 years after its made date", section: "Once a year" }
-      - { when: "Before freeze", what: "Insulation, caulking, weather stripping", section: "Cold weather" }
-      - { when: "Before freeze", what: "Learn how to keep pipes from freezing", section: "Cold weather" }
-      - { when: "April", what: "Declutter drains and gutters", section: "Water" }
-      - { when: "April", what: "Check valves; battery sump pump", section: "Water" }
-      - { when: "May 15", what: "Eastern Pacific hurricane season begins", section: "Storm season" }
-      - { when: "June 1", what: "Atlantic hurricane season begins", section: "Storm season" }
-      - { when: "Nov. 30", what: "Both hurricane seasons end", section: "Storm season" }
-    note: "Source: U.S. Fire Administration (USFA), Smoke Alarms; Consumer Product Safety Commission (CPSC), CO Alarms; Environmental Protection Agency (EPA), radon; Ready.gov Winter Weather and Floods; National Hurricane Center. Test days are our pick: the first Saturday of each month."
-    description: "One-page 2027 home maintenance checklist: monthly alarm tests on set dates, yearly radon and battery tasks, cold-weather and storm-season items."
+    data:
+      sections:
+        - { type: month-grid, title: "Test smoke and CO alarms every month (USFA)", months: ["2027-01", "2027-02", "2027-03", "2027-04", "2027-05", "2027-06", "2027-07", "2027-08", "2027-09", "2027-10", "2027-11", "2027-12"], mark: none }
+        - type: checklist
+          title: "Seasonal and safety tasks"
+          groups:
+            - { title: "Once a year", items: ["Test for radon (EPA action level 4 pCi/L)", "Replace smoke and CO alarm batteries (CPSC: yearly)", "Replace each smoke alarm 10 years after its made date (USFA)"] }
+            - { title: "Cold weather", items: ["Insulation, caulking and weather stripping before the freeze", "Learn how to keep pipes from freezing"] }
+            - { title: "Water", items: ["Declutter drains and gutters", "Check valves and the battery sump pump"] }
+            - { title: "Storm season", items: ["Eastern Pacific hurricane season begins May 15", "Atlantic hurricane season begins June 1", "Both hurricane seasons end Nov. 30"] }
+    note: "Source: U.S. Fire Administration (USFA), Smoke Alarms; Consumer Product Safety Commission (CPSC), CO Alarms; Environmental Protection Agency (EPA), radon; Ready.gov Winter Weather and Floods; National Hurricane Center. Test days are your pick: we suggest the first Saturday of each month."
+    description: "One-page 2027 home maintenance checklist: a monthly smoke and CO alarm test box, yearly radon and battery tasks, cold-weather and storm-season items."
     alt: "Printable 2027 home maintenance checklist with monthly alarm tests and seasonal tasks"
 hero:
   src: ../../../../assets/news/home-maintenance-calendar-2027-monthly-checklist/home-maintenance-calendar-2027-monthly-checklist.webp
@@ -61,11 +48,11 @@ hero:
 downloads:
   - group: "Home Maintenance Checklist 2027 by Month printables"
     title: "Home Maintenance Checklist 2027 by Month"
-    description: "One-page 2027 home maintenance checklist: monthly alarm tests on set dates, yearly radon and battery tasks, cold-weather and storm-season items."
-    preview: ../../../../assets/news/home-maintenance-2027/home-maintenance-checklist-2027.png
+    description: "One-page 2027 home maintenance checklist: a monthly smoke and CO alarm test box, yearly radon and battery tasks, cold-weather and storm-season items."
+    preview: ../../../../assets/news/home-maintenance-2027/home-maintenance-checklist-2027-by-month.png
     alt: "Printable 2027 home maintenance checklist with monthly alarm tests and seasonal tasks"
-    pdf: "/news/downloads/home-maintenance-2027/home-maintenance-checklist-2027.pdf"
-    png: "/news/downloads/home-maintenance-2027/home-maintenance-checklist-2027.png"
+    pdf: "/news/downloads/home-maintenance-2027/home-maintenance-checklist-2027-by-month.pdf"
+    png: "/news/downloads/home-maintenance-2027/home-maintenance-checklist-2027-by-month.png"
     pages: 1
 summary:
   - "The U.S. Fire Administration (USFA) says to test smoke alarms monthly; we set 2027 test days on the first Saturday of each month, from Jan. 2 to Dec. 4."

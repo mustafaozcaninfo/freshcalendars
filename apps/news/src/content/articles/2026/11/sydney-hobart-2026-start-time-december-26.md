@@ -57,13 +57,13 @@ sources:
     publisher: "Rolex Sydney Hobart"
     date: "2025-12-29"
 downloads:
-  - group: "Sydney Hobart 2026 Start-Day Planner printables"
-    title: "Sydney Hobart 2026 Start-Day Planner: Harbour Times in ET, PT and GMT"
-    description: "A Sydney Hobart 2026 start-day planner: harbour rules, the 1 p.m. AEDT race start and exclusion zone times in ET, PT and GMT, with a where-I'm-watching line."
-    preview: ../../../../assets/news/sydney-hobart-2026/sydney-hobart-2026-start-day-planner.png
-    alt: "Sydney Hobart 2026 start-day planner with the race start and harbour exclusion zone times in ET, PT and GMT"
-    pdf: "/news/downloads/sydney-hobart-2026/sydney-hobart-2026-start-day-planner.pdf"
-    png: "/news/downloads/sydney-hobart-2026/sydney-hobart-2026-start-day-planner.png"
+  - group: "Sydney Hobart 2026 Start-Day Watch Guide printables"
+    title: "Sydney Hobart 2026 Start-Day Watch Guide, Dec. 26"
+    description: "A Sydney Hobart 2026 start-day watch guide: the 1 p.m. AEDT race start and exclusion zone times in Eastern, Central, Mountain and Pacific Time."
+    preview: ../../../../assets/news/sydney-hobart-2026/sydney-hobart-2026-start-day-watch-guide.png
+    alt: "Sydney Hobart 2026 start-day watch guide with the race start and harbour exclusion zone times in US time zones"
+    pdf: "/news/downloads/sydney-hobart-2026/sydney-hobart-2026-start-day-watch-guide.pdf"
+    png: "/news/downloads/sydney-hobart-2026/sydney-hobart-2026-start-day-watch-guide.png"
     pages: 1
 internalLinks:
   - href: "/december-calendars.html"
@@ -77,22 +77,51 @@ assets:
   date: "2026-12-26"
   card: { top: "Race start in the US", big: "9 p.m. ET Dec. 25", bottom: "1 p.m. AEDT Dec. 26, Sydney Harbour" }
   printable:
-    noKit: "The watch-guide kit accepts only U.S., London, Paris and UTC clocks, and every time here is set in Sydney (AEDT); a dated list of the start-day times is the right sheet."
-    slug: sydney-hobart-2026-start-day-planner
+    kit: watch-guide
+    slug: sydney-hobart-2026-start-day-watch-guide
     group: sydney-hobart-2026
-    title: "Sydney Hobart 2026 Start-Day Planner: Harbour Times in ET, PT and GMT"
+    title: "Sydney Hobart 2026 Start-Day Watch Guide, Dec. 26"
     subtitle: "Sat., Dec. 26, 2026 in Sydney is the evening of Fri., Dec. 25 in the US"
-    layout: list
-    rows:
-      - ["11:30 a.m. AEDT Sat., Dec. 26", "Harbour 6 knot speed limit and no-wash rule begin. 7:30 p.m. ET / 4:30 p.m. PT Fri., Dec. 25; 12:30 a.m. GMT Sat., Dec. 26"]
-      - ["12 p.m. AEDT Sat., Dec. 26", "Exclusion zone active; non-competing boats may not hoist sails. 8 p.m. ET / 5 p.m. PT Fri., Dec. 25; 1 a.m. GMT Sat., Dec. 26"]
-      - ["1 p.m. AEDT Sat., Dec. 26", "Race start off Nielsen Park. Live on the Nine Network and 9Now; overseas on the race site and CYCA YouTube. 9 p.m. ET / 6 p.m. PT Fri., Dec. 25; 2 a.m. GMT Sat., Dec. 26"]
-      - ["2:20 p.m. AEDT Sat., Dec. 26", "Exclusion zone and speed limit end. 10:20 p.m. ET / 7:20 p.m. PT Fri., Dec. 25; 3:20 a.m. GMT Sat., Dec. 26"]
-      - ["Land viewing", "South Head, North Head, Christison Park (Vaucluse), Watsons Bay, Lady Bay Beach"]
-      - ["Where I'm watching", "____________________________________________"]
     note: "Source: NSW Government (Rolex Sydney to Hobart Yacht Race harbour rules and race start); Rolex Sydney Hobart 2026 race page and live-broadcast page. Times converted by Fresh Calendars."
-    description: "A Sydney Hobart 2026 start-day planner: harbour rules, the 1 p.m. AEDT race start and exclusion zone times in ET, PT and GMT, with a where-I'm-watching line."
-    alt: "Sydney Hobart 2026 start-day planner with the race start and harbour exclusion zone times in ET, PT and GMT"
+    description: "A Sydney Hobart 2026 start-day watch guide: the 1 p.m. AEDT race start and exclusion zone times in Eastern, Central, Mountain and Pacific Time."
+    alt: "Sydney Hobart 2026 start-day watch guide with the race start and harbour exclusion zone times in US time zones"
+    landscape: true
+    data:
+      pick: false
+      layout: table
+      events:
+        - start: "2026-12-26T11:30+11:00"
+          tz: "Australia/Sydney"
+          title: "Harbour 6-knot speed limit and no-wash zone start"
+          src: 1
+          quote:
+            - "Date: Saturday, 26 December 2026"
+            - "6 knot maximum speed & No wash restrictions: 11:30am – 2:20pm"
+        - start: "2026-12-26T12:00+11:00"
+          tz: "Australia/Sydney"
+          title: "Exclusion zone active; no sails for non-competing vessels"
+          src: 1
+          quote:
+            - "Date: Saturday, 26 December 2026"
+            - "Exclusion Zone Active: 12:00pm – 2:20pm"
+        - start: "2026-12-26T13:00+11:00"
+          tz: "Australia/Sydney"
+          title: "Race start off Nielsen Park"
+          channel: "Nine Network"
+          stream: "9Now"
+          src: 1
+          quote:
+            - "Date: Saturday, 26 December 2026"
+            - "Start Time: 1:00pm"
+        - start: "2026-12-26T14:20+11:00"
+          tz: "Australia/Sydney"
+          title: "Exclusion zone and speed limit end"
+          src: 1
+          quote:
+            - "Date: Saturday, 26 December 2026"
+            - "Exclusion Zone Active: 12:00pm – 2:20pm"
+      unconfirmed:
+        - { label: "Live coverage start time", why: "Sails Magazine reported coverage from 12:30 p.m. AEDT; the race site does not state it" }
 draft: false
 ---
 

@@ -14,21 +14,30 @@ assets:
   date: "2027-01-23"
   card: { top: "National Handwriting Day", big: "Sat., Jan. 23", bottom: "John Hancock's birthday" }
   printable:
-    slug: national-handwriting-day-2027-writing-sheet
+    kit: activity-sheet
+    slug: national-handwriting-day-2027-ideas-sheet
     group: national-handwriting-day-2027
-    title: "National Handwriting Day 2027 Writing Sheet, Jan. 23"
-    subtitle: "Four ways to write by hand, with lines to fill in"
-    layout: checklist
+    title: "National Handwriting Day 2027 Facts and Writing Ideas"
+    subtitle: "Sat., Jan. 23, 2027: John Hancock's birthday, with ideas and a lined area"
+    note: "Source: Writing Instrument Manufacturers Association release, Jan. 16, 2026; National Park Service, John Hancock; National Archives."
+    description: "One-page National Handwriting Day 2027 sheet: the Jan. 23 date, two sourced facts, writing ideas to tick off and a lined area."
+    alt: "Printable National Handwriting Day 2027 sheet with the Jan. 23 date, writing ideas to tick off and ruled lines"
     notesLabel: "Write your Jan. 23 note, memory or recipe here"
-    noKit: "observance activity sheet with write-in lines, not a kit-type schedule"
-    rows:
-      - { when: "Sat., Jan. 23", what: "Screen-free writing hour, with devices put away", section: "Writing Instrument Manufacturers Association ideas" }
-      - { when: "Sat., Jan. 23", what: "Write a favorite memory from the past year", section: "Writing Instrument Manufacturers Association ideas" }
-      - { when: "Sat., Jan. 23", what: "Write a favorite recipe, tradition or family story by hand", section: "Writing Instrument Manufacturers Association ideas" }
-      - { when: "Sat., Jan. 23", what: "Create labels for gifts, lunch bags, folders or household items", section: "Writing Instrument Manufacturers Association ideas" }
-    note: "Source: Writing Instrument Manufacturers Association release, Jan. 16, 2026 (the 49th anniversary); National Park Service, John Hancock; National Archives."
-    description: "One-page National Handwriting Day 2027 sheet for Saturday, Jan. 23 with four handwriting ideas to tick off and a lined area to write on."
-    alt: "Printable National Handwriting Day 2027 writing sheet with four tick-box ideas and ruled lines"
+    data:
+      day: { date: "2027-01-23", name: "National Handwriting Day", src: 1, quote: "Celebrate the 49th Anniversary of National Handwriting Day on January 23" }
+      facts:
+        - { text: "Observed annually on the birthday of American signer John Hancock.", src: 1, quote: "observed annually on the birthday of iconic American signer John Hancock" }
+        - { text: "The National Park Service says John Hancock was born Jan. 23, 1737, in Braintree, Massachusetts.", src: 2, quote: ["January 23, 1737", "Braintree, Massachusetts"] }
+      activities:
+        - type: checklist
+          title: "Ideas from the Writing Instrument Manufacturers Association"
+          items:
+            - "Screen-free writing hour, with devices put away"
+            - "Write a favorite memory from the past year"
+            - "Write a favorite recipe, tradition or family story by hand"
+            - "Make labels for gifts, lunch bags, folders or household items"
+      unconfirmed:
+        - { label: "WIMA's 2027 suggestions", why: "WIMA had not published its 2027 ideas; these are the 2026 ideas" }
 hero:
   src: ../../../../assets/news/national-handwriting-day-2027-saturday-january-23/national-handwriting-day-2027-saturday-january-23.webp
   alt: "John Hancock's signature among the signatures on William Stone's engraved copy of the Declaration of Independence, file image for National Handwriting Day 2027"
@@ -41,13 +50,13 @@ hero:
     author: "original: w:Second Continental Congress; reproduction: William Stone"
     authorUrl: "https://en.wikipedia.org/wiki/Second_Continental_Congress"
 downloads:
-  - group: "National Handwriting Day 2027 Writing Sheet printables"
-    title: "National Handwriting Day 2027 Writing Sheet, Jan. 23"
-    description: "One-page National Handwriting Day 2027 sheet for Saturday, Jan. 23 with four handwriting ideas to tick off and a lined area to write on."
-    preview: ../../../../assets/news/national-handwriting-day-2027/national-handwriting-day-2027-writing-sheet.png
-    alt: "Printable National Handwriting Day 2027 writing sheet with four tick-box ideas and ruled lines"
-    pdf: "/news/downloads/national-handwriting-day-2027/national-handwriting-day-2027-writing-sheet.pdf"
-    png: "/news/downloads/national-handwriting-day-2027/national-handwriting-day-2027-writing-sheet.png"
+  - group: "National Handwriting Day 2027 Facts and Writing Ideas printables"
+    title: "National Handwriting Day 2027 Facts and Writing Ideas"
+    description: "One-page National Handwriting Day 2027 sheet: the Jan. 23 date, two sourced facts, writing ideas to tick off and a lined area."
+    preview: ../../../../assets/news/national-handwriting-day-2027/national-handwriting-day-2027-ideas-sheet.png
+    alt: "Printable National Handwriting Day 2027 sheet with the Jan. 23 date, writing ideas to tick off and ruled lines"
+    pdf: "/news/downloads/national-handwriting-day-2027/national-handwriting-day-2027-ideas-sheet.pdf"
+    png: "/news/downloads/national-handwriting-day-2027/national-handwriting-day-2027-ideas-sheet.png"
     pages: 1
 summary:
   - "National Handwriting Day 2027 falls on Saturday, Jan. 23, the birthday of John Hancock, according to the Writing Instrument Manufacturers Association (WIMA)."

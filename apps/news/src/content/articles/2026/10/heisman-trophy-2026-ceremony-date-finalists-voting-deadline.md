@@ -62,37 +62,32 @@ assets:
   date: "2026-12-12"
   card: { top: "Heisman ballots due", big: "Mon., Dec. 7", bottom: "5 p.m. ET · winner Sat., Dec. 12" }
   printable:
-    slug: heisman-trophy-2026-timeline-printable
-    noKit: "award voting timeline (ballots, deadline, finalists), not a watch guide"
+    kit: watch-guide
+    slug: heisman-trophy-2026-timeline-watch-guide
     group: heisman-2026
     title: "Heisman Trophy 2026 Timeline, Dec. 3 to Dec. 12"
     subtitle: "Ballots, voting deadline, finalists and ceremony"
-    rows:
-      - ["Thu., Dec. 3", "Heisman ballots distributed"]
-      - ["Sat., Dec. 5", "Online voting website opens at 5 p.m. ET"]
-      - ["Mon., Dec. 7", "Ballots due by 5 p.m. ET (4 p.m. CT, 3 p.m. MT, 2 p.m. PT)"]
-      - ["Mon., Dec. 7", "Finalists announced in the evening (time not yet announced)"]
-      - ["Sat., Dec. 12", "Winner announced at the Heisman ceremony on ABC (start time not yet announced)"]
     note: "Source: Heisman Trophy Trust (heisman.com key dates and balloting page). Time zone conversions by Fresh Calendars."
     description: "One-page printable timeline of the 2026 Heisman Trophy dates: ballots out Dec. 3, voting deadline and finalists Dec. 7, ceremony Dec. 12."
     alt: "Printable Heisman Trophy 2026 timeline listing ballots, voting deadline, finalists and ceremony dates"
+    data:
+      pick: false
+      layout: table
+      events:
+        - { date: "2026-12-03", time: tba, title: "Heisman ballots distributed", src: 1 }
+        - { start: "2026-12-05T17:00-05:00", title: "Online voting website opens", src: 2 }
+        - { start: "2026-12-07T17:00-05:00", title: "Voting deadline: ballots due", src: 2 }
+        - { date: "2026-12-07", time: tba, title: "Finalists announced", detail: "in the evening", src: 2 }
+        - { date: "2026-12-12", time: tba, title: "Winner announced at the Heisman ceremony", channel: "ABC", src: 1 }
 draft: false
 downloads:
   - group: "Heisman Trophy 2026 Timeline printables"
     title: "Heisman Trophy 2026 Timeline, Dec. 3 to Dec. 12"
     description: "One-page printable timeline of the 2026 Heisman Trophy dates: ballots out Dec. 3, voting deadline and finalists Dec. 7, ceremony Dec. 12."
-    preview: ../../../../assets/news/heisman-2026/heisman-trophy-2026-timeline-printable.png
+    preview: ../../../../assets/news/heisman-2026/heisman-trophy-2026-timeline-watch-guide.png
     alt: "Printable Heisman Trophy 2026 timeline listing ballots, voting deadline, finalists and ceremony dates"
-    pdf: "/news/downloads/heisman-2026/heisman-trophy-2026-timeline-printable.pdf"
-    png: "/news/downloads/heisman-2026/heisman-trophy-2026-timeline-printable.png"
-    pages: 1
-  - group: "Heisman Trophy 2026 Timeline printables"
-    title: "Heisman Trophy 2026 Timeline, Dec. 3 to Dec. 12 (ink saver)"
-    description: "One-page printable timeline of the 2026 Heisman Trophy dates: ballots out Dec. 3, voting deadline and finalists Dec. 7, ceremony Dec. 12. Ink-saver version."
-    preview: ../../../../assets/news/heisman-2026/heisman-trophy-2026-timeline-printable-ink.png
-    alt: "Printable Heisman Trophy 2026 timeline listing ballots, voting deadline, finalists and ceremony dates, ink-saver version"
-    pdf: "/news/downloads/heisman-2026/heisman-trophy-2026-timeline-printable-ink.pdf"
-    png: "/news/downloads/heisman-2026/heisman-trophy-2026-timeline-printable-ink.png"
+    pdf: "/news/downloads/heisman-2026/heisman-trophy-2026-timeline-watch-guide.pdf"
+    png: "/news/downloads/heisman-2026/heisman-trophy-2026-timeline-watch-guide.png"
     pages: 1
 ---
 
@@ -112,7 +107,7 @@ The Heisman Trophy Trust lists five dates for the 2026 award. We checked the wee
 
 Voters have four days between the day ballots go out and the deadline, a count from the dates above. Put the dates on your own sheet with the [December 2026 printable calendar](/december-calendars.html), or use the Heisman printable on this page.
 
-[Download the Heisman Trophy 2026 timeline (PDF)](/news/downloads/heisman-2026/heisman-trophy-2026-timeline-printable.pdf)
+[Download the Heisman Trophy 2026 timeline (PDF)](/news/downloads/heisman-2026/heisman-trophy-2026-timeline-watch-guide.pdf)
 
 ## What time is the Heisman voting deadline in each time zone?
 
