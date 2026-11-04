@@ -137,7 +137,7 @@ internalLinks:
     label: "January 2027 printable calendar"
   - href: "/page/school-holidays/"
     label: "School holidays guide"
-related: [lausd-calendar-2026-27-winter-break-spring-break, nyc-public-schools-calendar-2026-27-breaks-holidays, chicago-public-schools-calendar-2026-27-breaks]
+related: [lausd-calendar-2026-27-winter-break-spring-break, nyc-public-schools-calendar-2026-27-breaks-holidays, columbus-city-schools-calendar-2026-27-breaks]
 downloads:
   - group: "Winter break printable"
     title: "Winter Break 2026 by School District"

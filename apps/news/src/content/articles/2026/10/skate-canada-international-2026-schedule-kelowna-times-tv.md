@@ -88,7 +88,7 @@ internalLinks:
     label: "November 2026 printable calendar"
   - href: "/december-calendars.html"
     label: "December 2026 printable calendar"
-related: [atp-finals-2026-turin-dates-schedule-time-zones-tv-qualified-players, canada-clocks-fall-back-november-1-2026-which-provinces-no-time-change, grand-slam-of-darts-2026-dates-november-14-22-format-prize-money-how-to-watch]
+related: [us-figure-skating-championships-2027-dates-utah, atp-finals-2026-turin-dates-schedule-time-zones-tv-qualified-players, grand-slam-of-darts-2026-dates-november-14-22-format-prize-money-how-to-watch]
 assets:
   overlay: true
   kicker: "Skate Canada International · Oct. 30-Nov. 1"

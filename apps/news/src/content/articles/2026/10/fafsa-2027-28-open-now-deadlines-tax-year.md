@@ -62,7 +62,7 @@ internalLinks:
     label: "Printable school calendar"
   - href: "/march-calendars.html"
     label: "March 2027 printable calendar"
-related: [sat-act-test-dates-2026-27-registration-deadlines, psat-scores-2026-release-date-november-5-november-12]
+related: [sat-act-test-dates-2026-27-registration-deadlines, psat-scores-2026-release-date-november-5-november-12, spring-semester-2027-start-dates-colleges]
 draft: false
 faq:
   - q: "When did the 2027-28 FAFSA open?"

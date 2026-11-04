@@ -92,7 +92,7 @@ internalLinks:
     label: "December 2026 printable calendar"
   - href: "/printable-weekly-calendar.html"
     label: "printable weekly calendar"
-related: [ski-resort-opening-dates-2026-27-vail-breckenridge-park-city-whistler-aspen, abu-dhabi-grand-prix-2026-schedule-race-time-by-time-zone]
+related: [ski-resort-opening-dates-2026-27-vail-breckenridge-park-city-whistler-aspen, killington-cup-2026-world-cup-ski-race-times-tv, abu-dhabi-grand-prix-2026-schedule-race-time-by-time-zone]
 draft: false
 ---
 

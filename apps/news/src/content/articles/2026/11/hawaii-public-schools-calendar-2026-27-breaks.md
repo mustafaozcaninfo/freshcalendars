@@ -49,7 +49,7 @@ internalLinks:
     label: "Printable school-year calendar 2026-27"
   - href: "/november-calendars.html"
     label: "November 2026 printable calendar"
-related: [winter-break-2026-school-districts-dates, spring-break-2027-dates-school-districts, san-diego-unified-calendar-2026-27-breaks]
+related: [winter-break-2026-school-districts-dates, spring-break-2027-dates-school-districts, school-calendar-2027-28-approval-tracker]
 assets:
   overlay: true
   kicker: "Hawaii Public Schools · 2026-27"
