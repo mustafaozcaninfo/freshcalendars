@@ -4,6 +4,7 @@ seoTitle: "Advent Calendar 2026: Dates and Free Printables"
 description: "Advent 2026 begins Sunday, Nov. 29; advent calendars run Dec. 1 to 24. Key dates, which 2026 brand calendars are confirmed, and four free printables."
 type: explainer
 publishedAt: "2026-10-19T08:05:00-04:00"
+updatedAt: "2026-11-04T11:25:00-05:00"
 authors: [christina-gerland]
 category: holidays
 keywords: ["advent calendar 2026", "2026 advent calendar", "when does Advent start 2026", "printable advent calendar 2026", "advent calendar countdown"]
@@ -16,7 +17,7 @@ hero:
 summary:
   - "Advent 2026 begins on Sunday, Nov. 29, the fourth Sunday before Christmas, which falls on Friday, Dec. 25."
   - "Most advent calendars have 24 doors and run from Tuesday, Dec. 1 to Thursday, Dec. 24, 2026."
-  - "Of the trending 2026 calendars, LEGO's five sets ($34.99 to $44.99) and Disney's $275 pin calendar are confirmed; several others have no official 2026 details yet."
+  - "Of the trending 2026 calendars, LEGO's five sets ($34.99 to $44.99), Disney's $275 pin calendar and Callaway's $37.99 golf ball calendar are confirmed; several others have no official 2026 details yet."
   - "Four free printables: a countdown advent calendar, a family activity calendar, a kindness calendar and a blank DIY calendar."
 faq:
   - q: "When does Advent start in 2026?"
@@ -50,9 +51,9 @@ sources:
   - title: "LEGO's 2026 advent calendars are starting to sell out already"
     url: "https://techradar.com/home/legos-2026-advent-calendars-such-a-festive-delight-that-theyre-starting-to-sell-out-already-take-a-look-at-the-full-range-here"
     publisher: "TechRadar"
-  - title: "Callaway 2025 Supersoft Advent Calendar Golf Balls"
-    url: "https://www.golfgalaxy.com/p/callaway-2025-supersoft-advent-calendar-golf-balls-25calugolf25sprsftvzk/25calugolf25sprsftvzk"
-    publisher: "Golf Galaxy"
+  - title: "Supersoft 12-Day Advent Calendar"
+    url: "https://www.callawaygolf.com/balls/mens-golf-balls-supersoft/balls-2026-supersoft-advent.html"
+    publisher: "Callaway Golf"
 internalLinks:
   - href: "/december-calendars.html"
     label: "December 2026 printable calendar"
@@ -115,7 +116,7 @@ Because Christmas falls on a Friday, the season of Advent lasts 26 days in 2026,
 
 ## Which 2026 advent calendars are confirmed
 
-Interest in branded calendars is spiking, but not every brand has announced a 2026 edition. As of Monday, Oct. 19:
+Interest in branded calendars is spiking, but not every brand has announced a 2026 edition. The table is as of Monday, Oct. 19, except the golf ball row, which we checked again on Wednesday, Nov. 4:
 
 | Calendar | 2026 status |
 |---|---|
@@ -123,7 +124,7 @@ Interest in branded calendars is spiking, but not every brand has announced a 20
 | Disney pin advent calendar | Christmas Cookies 24-Day Mystery Pin Set, $275, limited to 5,750 worldwide; still available on DisneyStore.com on Oct. 19 |
 | Funko | A Disney 2026 Pocket Pop advent calendar is listed by Entertainment Earth |
 | Fisher-Price Little People | Mattel sells a Little People advent calendar for toddlers; check its shop for the current edition |
-| Golf ball calendars | Callaway's 12-day Supersoft calendar was sold for 2025; we found no 2026 edition as of Oct. 19 |
+| Golf ball calendars | Callaway's Supersoft 12-Day Advent Calendar, $37.99, listed as in stock on Callaway's site on Nov. 4 |
 | Toy Story, Jellycat, Victoria's Secret, Louis Vuitton, champagne | No official 2026 advent calendar details found from these brands as of Oct. 19 |
 
 Two of the hottest searches deserve a warning. We found no advent calendar for sale from Louis Vuitton; the "Louis Vuitton advent calendars" listed online are resold holiday gift boxes and ornament sets from past years. And many pages promising "2026" calendars from Jellycat, Toy Story or Victoria's Secret recycle last year's photos and prices. Check the brand's own website before you pay.
