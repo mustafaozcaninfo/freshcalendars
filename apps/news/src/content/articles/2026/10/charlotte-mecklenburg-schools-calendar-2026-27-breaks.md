@@ -54,7 +54,7 @@ internalLinks:
     label: "December 2026 printable calendar"
   - href: "/march-calendars.html"
     label: "March 2027 printable calendar"
-related: [fairfax-county-public-schools-calendar-2026-27-breaks, spring-break-2027-dates-school-districts, school-calendar-2027-28-approval-tracker]
+related: [guilford-county-schools-calendar-2026-27-breaks, spring-break-2027-dates-school-districts, school-calendar-2027-28-approval-tracker]
 assets:
   overlay: true
   kicker: "CMS 2026-27"
