@@ -21,7 +21,7 @@ summary:
 faq:
   - q: "Who made today's NYT Mini?"
     a: "Sam Ezersky constructed the Nov. 3, 2026 Mini, according to the puzzle data."
-  - q: undefined
+  - q: "What are the NYT Mini answers for Nov. 3, 2026?"
     a: "Spoilers: Across, Claim, Limbo, Avail, Pizza, Dear; Down, Clap, Livid, Amaze, Ibiza, Molar."
   - q: "How big is today's Mini and how many clues does it have?"
     a: "The Tuesday grid is five squares wide and five tall, with 10 clues: five Across and five Down."

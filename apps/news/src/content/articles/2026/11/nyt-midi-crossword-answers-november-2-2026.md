@@ -21,7 +21,7 @@ summary:
 faq:
   - q: "Who made today's NYT Midi Crossword?"
     a: "Adam Aaronson constructed the Nov. 2, 2026 Midi, titled Going Back for Seconds, and Ian Livengood is listed as its editor, according to the puzzle data."
-  - q: undefined
+  - q: "What are the NYT Midi Crossword answers for Nov. 2, 2026?"
     a: "Spoilers: Across, App, Clef, Bars, Loco, Cling, Ogre, Couscous, Newark, Mahi mahi, A sin, Ads, Ask, Bonbon, Mae, Udders, Sus, Nestea; Down, Abc, Pal, Price hikes, Clock hands, Logo, Ecru, Foes, Snow in, Guam, Sra, Nassau, Ma'ams, I'd bet, Sore, Bun, Ode, Nsa."
   - q: "How big is today's Midi and how many clues does it have?"
     a: "The Monday grid is 10 squares wide and 10 tall, with 34 clues: 17 Across and 17 Down."

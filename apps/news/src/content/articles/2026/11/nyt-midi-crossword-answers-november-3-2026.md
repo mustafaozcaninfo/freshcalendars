@@ -21,7 +21,7 @@ summary:
 faq:
   - q: "Who made today's NYT Midi Crossword?"
     a: "Ian Livengood constructed the Nov. 3, 2026 Midi, titled Stay in Line!, according to the puzzle data."
-  - q: undefined
+  - q: "What are the NYT Midi Crossword answers for Nov. 3, 2026?"
     a: "Spoilers: Across, Bawl, Abcs, Ache, Soup, Suit, Andy, Err, Ade, Salts away, Wok, Hoo, Skit, Airy, Pine, Otto, Adds, Lea; Down, Bases, Acura, Whirlwind, Let, Asada, Bone white, Cud, Spy, Ask, Totes, Aorta, Yoyo, Spa, Kid, Aol."
   - q: "How big is today's Midi and how many clues does it have?"
     a: "The Tuesday grid is nine squares wide and nine tall, with 32 clues: 17 Across and 15 Down."
