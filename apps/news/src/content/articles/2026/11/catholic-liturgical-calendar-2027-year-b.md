@@ -76,7 +76,7 @@ internalLinks:
     label: "When is Easter?"
   - href: "/march-calendars.html"
     label: "March 2027 printable calendar"
-related: [immaculate-conception-2026-holy-day-of-obligation-december-8, easter-2027-march-28-good-friday-easter-monday-whats-open, mardi-gras-2027-february-9-ash-wednesday-february-10-lent-calendar]
+related: [immaculate-conception-2026-holy-day-of-obligation-december-8, holy-days-of-obligation-2027-us-dates, easter-2027-march-28-good-friday-easter-monday-whats-open]
 downloads:
   - group: "Catholic Liturgical Calendar 2027 printables"
     title: "Catholic Liturgical Calendar 2027: Key Dates"
