@@ -27,6 +27,7 @@ import { buildElectionLive } from "./electionLive.js";
 import { buildGta6Downloads } from "./gta6.js";
 import { buildVeteransDownloads } from "./veterans.js";
 import { buildNflBracketDownloads } from "./nflBracket.js";
+import { buildMarchMadnessBracketDownloads } from "./marchMadnessBracket.js";
 import { buildGiftListDownloads } from "./giftList.js";
 import { buildHabitTrackerDownloads } from "./habitTracker.js";
 import { buildSuperBowlSquaresDownloads } from "./superBowlSquares.js";
@@ -161,6 +162,8 @@ async function main(): Promise<void> {
       await buildVeteransDownloads();
     } else if (cmd === "news-nfl-bracket") {
       await buildNflBracketDownloads();
+    } else if (cmd === "news-march-madness-bracket") {
+      await buildMarchMadnessBracketDownloads();
     } else if (cmd === "news-habit-tracker") {
       await buildHabitTrackerDownloads();
     } else if (cmd === "news-super-bowl-squares") {
@@ -268,6 +271,7 @@ async function main(): Promise<void> {
   pnpm fc news-gta6                        # /news/ GTA 6 launch countdown calendar
   pnpm fc news-veterans                    # /news/ Veterans Day free meals cheat sheet
   pnpm fc news-nfl-bracket                 # /news/ NFL Playoff Bracket 2027 fill-in printable
+  pnpm fc news-march-madness-bracket       # /news/ March Madness 2027 printable bracket (76 teams)
   pnpm fc news-gift-list                   # /news/ Christmas gift list and budget planner 2026
   pnpm fc news-january-reset               # /news/ January 2027 reset planner: 4-page PDF
   pnpm fc news-dry-january                 # /news/ Dry January 2027 31-day tracker

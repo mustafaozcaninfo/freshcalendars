@@ -4,11 +4,27 @@
     "label": "Election results: when each state finishes counting"
   },
   {
+    "date": "2026-11-10",
+    "label": "Oregon receipt deadline for ballots postmarked by Election Day"
+  },
+  {
+    "date": "2026-11-12",
+    "label": "Colorado signature cure deadline"
+  },
+  {
     "date": "2026-11-16",
     "label": "California counties finish reporting all ballots"
   },
   {
     "date": "2026-12-03",
     "label": "California counties send final results to the Secretary of State"
+  },
+  {
+    "date": "2026-11-24",
+    "label": "Oregon signature-challenge deadline"
+  },
+  {
+    "date": "2026-12-10",
+    "label": "Oregon certifies final election results"
   }
 ]

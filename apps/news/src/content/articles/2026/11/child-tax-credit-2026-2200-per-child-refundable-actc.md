@@ -58,7 +58,7 @@ internalLinks:
     label: "April 2027 printable calendar"
   - href: "/printable-yearly-calendar.html"
     label: "2027 printable yearly calendar"
-related: [tax-refund-schedule-2027-when-to-expect-your-refund, tax-calendar-2027-irs-deadlines, w2-1099-deadline-2027-february-1-irs-due-dates]
+related: [tax-refund-schedule-2027-when-to-expect-your-refund, eitc-2026-earned-income-credit-8231-income-limits, tax-calendar-2027-irs-deadlines]
 assets:
   scene: calendar
   overlay: true

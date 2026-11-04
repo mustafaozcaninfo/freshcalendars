@@ -52,7 +52,7 @@ internalLinks:
     label: "Printable school-year calendar 2026-27"
   - href: "/november-calendars.html"
     label: "November 2026 printable calendar"
-related: [jcps-calendar-2026-27-jefferson-county-public-schools-breaks, spring-break-2027-dates-school-districts, winter-break-2026-school-districts-dates]
+related: [metro-nashville-public-schools-calendar-2026-27-breaks, spring-break-2027-dates-school-districts, winter-break-2026-school-districts-dates]
 assets:
   overlay: true
   kicker: "Memphis-Shelby County Schools · 2026-27"
