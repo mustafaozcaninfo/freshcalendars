@@ -1535,7 +1535,7 @@ ${adBand(ADS.inArticle, "FreshCalendars_Holidays_Top")}`;
         .map(
           (h) => `<tr data-holiday-row data-name="${esc(h.name.toLowerCase())}" data-kind="${esc(holidayKindKey(h.kind))}">
         <td><a href="${holidayWhenIsPath(h.slug)}" title="When is ${esc(h.name)} ${y}?">${esc(h.name)}</a></td>
-        <td><span class="kind-pill">${esc(holidayKindLabel(h.kind, locale))}</span></td>
+        <td><span class="kind-pill" data-kind="${esc(holidayKindKey(h.kind))}">${esc(holidayKindLabel(h.kind, locale))}</span></td>
         <td>${esc(h.formatted)} <span class="days-until" data-days-until="${h.iso}" hidden></span></td>
       </tr>`,
         )

@@ -4,7 +4,7 @@ seoTitle: "Runoff Election 2026 Dates: Georgia and Louisiana"
 description: "Georgia's runoff, if needed, is Tuesday, Dec. 1, 2026; Louisiana's second round is Saturday, Dec. 12. Deadlines for each state, with a printable."
 type: news
 publishedAt: "2026-10-30T19:45:00-04:00"
-updatedAt: "2026-11-04T01:24:00-05:00"
+updatedAt: "2026-11-04T04:40:00-05:00"
 authors: [christina-gerland]
 category: elections
 keywords: ["runoff election 2026 dates", "georgia runoff 2026 date", "when is the georgia runoff", "louisiana december 12 election"]
@@ -139,14 +139,14 @@ draft: false
 | Register to vote | Mon., Nov. 2 | Thu., Nov. 12 (in person, by mail or at an Office of Motor Vehicles (OMV) office); Sat., Nov. 21 (online, GeauxVote) | Mon., Nov. 2 |
 | Request a mail or absentee ballot | Fri., Nov. 20 | Tue., Dec. 8, 4:30 p.m. | Not covered here |
 | Early or in-person absentee voting | Mon., Nov. 23-Wed., Nov. 25 | Sat., Nov. 28-Sat., Dec. 5 (no Sunday, Nov. 29), 8:30 a.m. to 6 p.m. | In-person absentee ends Sat., Nov. 28 at noon |
-| Runoff or second-round day | Tue., Dec. 1 (if required) | Sat., Dec. 12 | Tue., Dec. 1 (if required), polls open 7 a.m. to 7 p.m. |
+| Runoff or second-round day | Tue., Dec. 1 (if required) | Sat., Dec. 12, polls open 7 a.m. to 8 p.m. | Tue., Dec. 1 (if required), polls open 7 a.m. to 7 p.m. |
 | Mail ballot must arrive | 7 p.m. on Dec. 1 | Fri., Dec. 11, 4:30 p.m. | Tue., Dec. 8 at 5 p.m. if postmarked by Dec. 1 |
 
 Dates come from georgia.gov, the Louisiana Secretary of State's 2026 elections calendar (revised July 2026) and the Mississippi Secretary of State's 2026 elections calendar (revised Sept. 8, 2026). You can mark them on our [November 2026 printable calendar](/november-calendars.html) and [December 2026 printable calendar](/december-calendars.html).
 
 ## When is the Georgia runoff and what are the deadlines?
 
-georgia.gov lists the General Election Runoff for Tuesday, Dec. 1, 2026, if needed. That is four weeks after the Nov. 3 election. The state's page does not give poll hours for the runoff, so check with your county election office.
+georgia.gov lists the General Election Runoff for Tuesday, Dec. 1, 2026, if needed. That is four weeks after the Nov. 3 election. The georgia.gov early-voting page says hours are "generally, Monday through Friday, 9 a.m. to 5 p.m.," and that counties may open as early as 7 a.m. and close as late as 7 p.m. It calls the window "very short" because of the Thanksgiving holiday. The state's pages we read do not give Election Day poll hours for the runoff, so check with your county election office.
 
 - **Register:** georgia.gov says Monday, Nov. 2 "is the last day eligible Georgians can register to vote in the Runoff Election, if one is required." That deadline has passed; confirm your status with your county registrar.
 - **Absentee ballot:** the last day to request one is Friday, Nov. 20. Absentee ballots must be received by 7 p.m. on Dec. 1.

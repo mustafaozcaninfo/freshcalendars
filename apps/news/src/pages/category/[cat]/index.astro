@@ -12,6 +12,7 @@ const { category, page } = Astro.props;
 ---
 <ListingView
   page={page}
+  cat={category.id}
   heading={categoryHeading(category)}
   intro={shortDescription(category.data.description, 220)}
   about={category.data.description}

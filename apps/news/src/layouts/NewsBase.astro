@@ -111,11 +111,9 @@ const fontPreload = [
 <style is:global>
   /* News design tokens: soft borders, rounded cards, one shadow scale, a color per section. */
   html.news{--n-border:var(--line);--n-soft:var(--surface-soft);--n-brand:var(--accent);--n-brand-soft:var(--surface-tint);--n-radius:10px;--n-shadow:0 1px 2px rgba(16,24,40,.03),0 4px 14px rgba(16,24,40,.04);--n-shadow-h:0 2px 4px rgba(16,24,40,.06),0 10px 24px rgba(16,24,40,.09);--cat:var(--accent)}
-  html.news [data-cat="holidays"]{--cat:#855449} html.news [data-cat="planning"]{--cat:#34645c} html.news [data-cat="retail-dates"]{--cat:#795f39}
-  html.news [data-cat="school-calendars"]{--cat:#416748} html.news [data-cat="sky-events"]{--cat:#625677} html.news [data-cat="time-change"]{--cat:#35696b}
-  html.news [data-cat="uk-canada"]{--cat:#755667} html.news [data-cat="puzzles"]{--cat:#665b70}
-  html.news [data-cat="elections"]{--cat:#77584b} html.news [data-cat="calendar-guides"]{--cat:#376762} html.news [data-cat="sports"]{--cat:#3d5f80}
-  html.news [data-cat="money-benefits"]{--cat:#4b6130} html.news [data-cat="gaming-tech"]{--cat:#55507f}
+  /* Category colors (2026-11-04): fourteen hues spread round the wheel so sections tell apart at a
+     glance; each passes 4.5:1 on white and on its 10% tint. Dark-theme variants are in site-chrome design.ts. */
+  html.news [data-cat="holidays"]{--cat:#b42318} html.news [data-cat="uk-canada"]{--cat:#a8390b} html.news [data-cat="school-calendars"]{--cat:#92400e} html.news [data-cat="sports"]{--cat:#3f6212} html.news [data-cat="money-benefits"]{--cat:#166534} html.news [data-cat="planning"]{--cat:#0f766e} html.news [data-cat="calendar-guides"]{--cat:#0e7490} html.news [data-cat="time-change"]{--cat:#0369a1} html.news [data-cat="elections"]{--cat:#1d4ed8} html.news [data-cat="sky-events"]{--cat:#4338ca} html.news [data-cat="puzzles"]{--cat:#6d28d9} html.news [data-cat="entertainment"]{--cat:#a21caf} html.news [data-cat="retail-dates"]{--cat:#be185d} html.news [data-cat="gaming-tech"]{--cat:#475569}
   html.news ::selection{background:#e8ddc3;color:#111}
   .news-main a{text-underline-offset:.18em;text-decoration-thickness:1px}
   .news-main a:hover{text-decoration-thickness:2px}
