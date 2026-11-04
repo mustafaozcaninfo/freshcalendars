@@ -15,44 +15,68 @@ assets:
   date: "2026-12-10"
   card: { top: "Human Rights Day 2026", big: "Dec. 10", bottom: "30 articles, adopted 1948" }
   printable:
-    slug: human-rights-day-2026-30-articles-checklist
+    kit: activity-sheet
+    slug: human-rights-day-2026-30-articles-activity-sheet
     group: human-rights-day-2026
     title: "Human Rights Day 2026: The 30 Articles Checklist"
-    subtitle: "Thu., Dec. 10, 2026: read them all by Dec. 10"
-    noKit: "An observance activity sheet: a 30-item reading checklist, not a kit's date grid or status table."
-    layout: checklist
-    rows:
-      - { when: "Thu., Dec. 10", what: "Human Rights Day 2026, a United Nations observance", section: "Mark the date" }
-      - { when: "Art. 1", what: "Born free and equal", section: "Articles 1 to 10" }
-      - { when: "Art. 2", what: "No discrimination", section: "Articles 1 to 10" }
-      - { when: "Art. 3", what: "Life, liberty and security", section: "Articles 1 to 10" }
-      - { when: "Art. 4", what: "No slavery", section: "Articles 1 to 10" }
-      - { when: "Art. 5", what: "No torture", section: "Articles 1 to 10" }
-      - { when: "Art. 6", what: "Recognized before the law", section: "Articles 1 to 10" }
-      - { when: "Art. 7", what: "Equal before the law", section: "Articles 1 to 10" }
-      - { when: "Art. 8", what: "Right to a remedy", section: "Articles 1 to 10" }
-      - { when: "Art. 9", what: "No arbitrary arrest", section: "Articles 1 to 10" }
-      - { when: "Art. 10", what: "Fair public trial", section: "Articles 1 to 10" }
-      - { when: "Art. 11", what: "Presumed innocent", section: "Articles 11 to 20" }
-      - { when: "Art. 12", what: "Privacy", section: "Articles 11 to 20" }
-      - { when: "Art. 13", what: "Freedom of movement", section: "Articles 11 to 20" }
-      - { when: "Art. 14", what: "Asylum", section: "Articles 11 to 20" }
-      - { when: "Art. 15", what: "Nationality", section: "Articles 11 to 20" }
-      - { when: "Art. 16", what: "Marriage and family", section: "Articles 11 to 20" }
-      - { when: "Art. 17", what: "Property", section: "Articles 11 to 20" }
-      - { when: "Art. 18", what: "Thought, conscience and religion", section: "Articles 11 to 20" }
-      - { when: "Art. 19", what: "Opinion and expression", section: "Articles 11 to 20" }
-      - { when: "Art. 20", what: "Assembly and association", section: "Articles 11 to 20" }
-      - { when: "Art. 21", what: "Take part in government", section: "Articles 21 to 30" }
-      - { when: "Art. 22", what: "Social security", section: "Articles 21 to 30" }
-      - { when: "Art. 23", what: "Work and fair pay", section: "Articles 21 to 30" }
-      - { when: "Art. 24", what: "Rest and leisure", section: "Articles 21 to 30" }
-      - { when: "Art. 25", what: "Standard of living", section: "Articles 21 to 30" }
-      - { when: "Art. 26", what: "Education", section: "Articles 21 to 30" }
-      - { when: "Art. 27", what: "Culture and science", section: "Articles 21 to 30" }
-      - { when: "Art. 28", what: "Social and international order", section: "Articles 21 to 30" }
-      - { when: "Art. 29", what: "Duties to community", section: "Articles 21 to 30" }
-      - { when: "Art. 30", what: "No one may destroy these rights", section: "Articles 21 to 30" }
+    subtitle: "Thu., Dec. 10, 2026: read the 30 articles by Dec. 10"
+    notesLabel: "The article I want to read in full"
+    data:
+      day:
+        date: "2026-12-10"
+        name: "Human Rights Day"
+        src: 1
+        quote: "Human Rights Day is observed annually around the world on 10 December."
+      facts:
+        - text: "The Declaration was proclaimed by the UN General Assembly in Paris on 10 December 1948."
+          src: 2
+          quote: "was proclaimed by the United Nations General Assembly in Paris on 10 December 1948"
+        - text: "The Universal Declaration has 30 Articles."
+          src: 2
+          quote: "the 30 Articles of the Universal Declaration of Human Rights"
+        - text: "The text has been translated into over 500 languages."
+          src: 2
+          quote: "has been translated into over 500 languages"
+      activities:
+        - type: checklist
+          title: "Articles 1 to 10 (our short labels)"
+          items:
+            - "1. Born free and equal"
+            - "2. No discrimination"
+            - "3. Life, liberty and security"
+            - "4. No slavery"
+            - "5. No torture"
+            - "6. Recognized before the law"
+            - "7. Equal before the law"
+            - "8. Right to a remedy"
+            - "9. No arbitrary arrest"
+            - "10. Fair public trial"
+        - type: checklist
+          title: "Articles 11 to 20"
+          items:
+            - "11. Presumed innocent"
+            - "12. Privacy"
+            - "13. Freedom of movement"
+            - "14. Asylum"
+            - "15. Nationality"
+            - "16. Marriage and family"
+            - "17. Property"
+            - "18. Thought, conscience and religion"
+            - "19. Opinion and expression"
+            - "20. Assembly and association"
+        - type: checklist
+          title: "Articles 21 to 30"
+          items:
+            - "21. Take part in government"
+            - "22. Social security"
+            - "23. Work and fair pay"
+            - "24. Rest and leisure"
+            - "25. Standard of living"
+            - "26. Education"
+            - "27. Culture and science"
+            - "28. Social and international order"
+            - "29. Duties to community"
+            - "30. No one may destroy these rights"
     note: "Source: United Nations, Human Rights Day and Universal Declaration of Human Rights pages; short labels are ours, based on the OHCHR plain-language version. Read the full text at un.org."
     description: "Free one-page Human Rights Day 2026 checklist: the Dec. 10 date and a tick box for each of the 30 articles of the Universal Declaration of Human Rights."
     alt: "Printable Human Rights Day 2026 checklist with the Dec. 10 date and a tick box for each of the 30 articles"
@@ -118,10 +142,10 @@ downloads:
   - group: "Human Rights Day 2026 printables"
     title: "Human Rights Day 2026: The 30 Articles Checklist"
     description: "Free one-page Human Rights Day 2026 checklist: the Dec. 10 date and a tick box for each of the 30 articles of the Universal Declaration of Human Rights."
-    preview: ../../../../assets/news/human-rights-day-2026/human-rights-day-2026-30-articles-checklist.png
+    preview: ../../../../assets/news/human-rights-day-2026/human-rights-day-2026-30-articles-activity-sheet.png
     alt: "Printable Human Rights Day 2026 checklist with the Dec. 10 date and a tick box for each of the 30 articles"
-    pdf: "/news/downloads/human-rights-day-2026/human-rights-day-2026-30-articles-checklist.pdf"
-    png: "/news/downloads/human-rights-day-2026/human-rights-day-2026-30-articles-checklist.png"
+    pdf: "/news/downloads/human-rights-day-2026/human-rights-day-2026-30-articles-activity-sheet.pdf"
+    png: "/news/downloads/human-rights-day-2026/human-rights-day-2026-30-articles-activity-sheet.png"
     pages: 1
 draft: false
 ---

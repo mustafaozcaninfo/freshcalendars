@@ -26,31 +26,52 @@ assets:
   date: "2026-12-14"
   card: { top: "Christmas Bird Count opens", big: "Dec. 14", bottom: "Runs to Jan. 5, 2027" }
   printable:
-    noKit: "An observance activity sheet with join steps and a feeder bird tally, not a holiday status plan or a set of deadlines"
-    layout: checklist
-    slug: christmas-bird-count-join-steps-feeder-tally-2026-27
+    kit: activity-sheet
+    slug: christmas-bird-count-2026-27-join-tally-activity-sheet
     group: christmas-bird-count-2026-27
     title: "Christmas Bird Count 2026-27: Join Steps and Feeder Tally"
-    subtitle: "Count window Dec. 14, 2026 to Jan. 5, 2027, with 12 common feeder birds to tally"
+    subtitle: "Count window Dec. 14, 2026 to Jan. 5, 2027, with 12 feeder birds to tally"
     notesLabel: "Circle, count day, weather and other birds seen"
-    rows:
-      - { when: "Step 1", what: "Open the Audubon Circle Finder and locate a count circle near you", section: "Steps to join" }
-      - { when: "Step 2", what: "Register for that circle; participation is free", section: "Steps to join" }
-      - { when: "Step 3", what: "Ask your circle leader which day is the count day", section: "Steps to join" }
-      - { when: "Step 4", what: "Keep all counting inside the 24-hour period of that count day", section: "Steps to join" }
-      - { when: "Black-capped Chickadee", what: "Seen ____", section: "Feeder birds, from FeederWatch's common list" }
-      - { when: "Dark-eyed Junco", what: "Seen ____", section: "Feeder birds, from FeederWatch's common list" }
-      - { when: "Downy Woodpecker", what: "Seen ____", section: "Feeder birds, from FeederWatch's common list" }
-      - { when: "Hairy Woodpecker", what: "Seen ____", section: "Feeder birds, from FeederWatch's common list" }
-      - { when: "White-breasted Nuthatch", what: "Seen ____", section: "Feeder birds, from FeederWatch's common list" }
-      - { when: "Tufted Titmouse", what: "Seen ____", section: "Feeder birds, from FeederWatch's common list" }
-      - { when: "Northern Cardinal", what: "Seen ____", section: "Feeder birds, from FeederWatch's common list" }
-      - { when: "Blue Jay", what: "Seen ____", section: "Feeder birds, from FeederWatch's common list" }
-      - { when: "American Goldfinch", what: "Seen ____", section: "Feeder birds, from FeederWatch's common list" }
-      - { when: "House Finch", what: "Seen ____", section: "Feeder birds, from FeederWatch's common list" }
-      - { when: "Mourning Dove", what: "Seen ____", section: "Feeder birds, from FeederWatch's common list" }
-      - { when: "White-throated Sparrow", what: "Seen ____", section: "Feeder birds, from FeederWatch's common list" }
-    note: "Source: National Audubon Society (Christmas Bird Count), Birds Canada, Cornell Lab of Ornithology (Project FeederWatch, Common Feeder Birds). The bird list is not a ranking."
+    data:
+      day:
+        date: "2026-12-14"
+        name: "Christmas Bird Count opens"
+        src: 1
+        quote: "takes place between December 14 and January 5 each year."
+      facts:
+        - text: "Participation is free and open to bird enthusiasts of any level."
+          src: 1
+          quote: "Participation is free and open to bird enthusiasts of any level."
+        - text: "All counting must fall within the 24-hour period of your circle's count day."
+          src: 1
+          quote: "must fall within the 24-hour period that comprises your circle's count day."
+        - text: "Feeder counting needs no binoculars or hiking."
+          src: 1
+          quote: "no binoculars or hiking required, and you can participate with less time commitment"
+      activities:
+        - type: checklist
+          title: "Steps to join a count"
+          items:
+            - "Open Audubon's CBC Circle Finder to locate a circle near you"
+            - "Register for that circle (participation is free)"
+            - "Ask your circle leader which day is the count day"
+            - "Count inside the 24-hour count day"
+        - type: tally
+          title: "Feeder birds (Cornell Lab FeederWatch common list)"
+          labels:
+            - "Black-capped Chickadee"
+            - "Dark-eyed Junco"
+            - "Downy Woodpecker"
+            - "Hairy Woodpecker"
+            - "White-breasted Nuthatch"
+            - "Tufted Titmouse"
+            - "Northern Cardinal"
+            - "Blue Jay"
+            - "American Goldfinch"
+            - "House Finch"
+            - "Mourning Dove"
+            - "White-throated Sparrow"
+    note: "Source: National Audubon Society (Christmas Bird Count); Birds Canada; Cornell Lab of Ornithology (Project FeederWatch, Common Feeder Birds). The bird list is not a ranking."
     description: "Free printable for the 2026-27 Christmas Bird Count: four steps to join a count circle and a 12-bird feeder tally sheet for Dec. 14 to Jan. 5."
     alt: "Printable Christmas Bird Count sheet with four steps to join a circle and a tally list of 12 common feeder birds"
 summary:
@@ -96,10 +117,10 @@ downloads:
   - group: "Christmas Bird Count 2026-27 printables"
     title: "Christmas Bird Count 2026-27: Join Steps and Feeder Tally"
     description: "Free printable for the 2026-27 Christmas Bird Count: four steps to join a count circle and a 12-bird feeder tally sheet for Dec. 14 to Jan. 5."
-    preview: ../../../../assets/news/christmas-bird-count-2026-27/christmas-bird-count-join-steps-feeder-tally-2026-27.png
+    preview: ../../../../assets/news/christmas-bird-count-2026-27/christmas-bird-count-2026-27-join-tally-activity-sheet.png
     alt: "Printable Christmas Bird Count sheet with four steps to join a circle and a tally list of 12 common feeder birds"
-    pdf: "/news/downloads/christmas-bird-count-2026-27/christmas-bird-count-join-steps-feeder-tally-2026-27.pdf"
-    png: "/news/downloads/christmas-bird-count-2026-27/christmas-bird-count-join-steps-feeder-tally-2026-27.png"
+    pdf: "/news/downloads/christmas-bird-count-2026-27/christmas-bird-count-2026-27-join-tally-activity-sheet.pdf"
+    png: "/news/downloads/christmas-bird-count-2026-27/christmas-bird-count-2026-27-join-tally-activity-sheet.png"
     pages: 1
 draft: false
 ---

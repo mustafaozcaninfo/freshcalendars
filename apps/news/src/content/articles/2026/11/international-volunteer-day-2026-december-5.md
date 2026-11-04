@@ -15,22 +15,42 @@ assets:
   date: "2026-12-05"
   card: { top: "International Volunteer Day", big: "Dec. 5", bottom: "Closes the UN Year of Volunteers" }
   printable:
-    slug: international-volunteer-day-2026-planning-sheet
+    kit: activity-sheet
+    slug: international-volunteer-day-2026-volunteer-activity-sheet
     group: international-volunteer-day-2026
     title: "International Volunteer Day 2026 Planning Sheet"
-    subtitle: "Sat., Dec. 5, 2026: plan your volunteer day"
-    noKit: "An observance activity sheet with tick-box steps, not a kit's date grid or status table."
+    subtitle: "Dec. 5, 2026: plan your volunteer day"
     notesLabel: "The cause and organization I will volunteer with"
-    rows:
-      - { when: "Step 1", what: "Pick a cause you care about", section: "Plan your volunteer day" }
-      - { when: "Step 2", what: "Search Idealist and VolunteerMatch by keyword, skill or interest, with a radius", section: "Plan your volunteer day" }
-      - { when: "Step 3", what: "Contact the organization and confirm the shift", section: "Plan your volunteer day" }
-      - { when: "Step 4", what: "Log your hours and your miles driven for your records", section: "Plan your volunteer day" }
-      - { when: "Sat., Dec. 5", what: "International Volunteer Day, a United Nations observance", section: "Mark the date" }
-      - { when: "Sat., Dec. 5", what: "Share what you did on International Volunteer Day", section: "Mark the date" }
-      - { when: "2025 IRS rate", what: "14 cents a mile for charity driving (IRS Publication 526, 2025)", section: "Keep for taxes" }
-      - { when: "Not deductible", what: "The value of your time or services", section: "Keep for taxes" }
-    note: "Source: United Nations, International Volunteer Day; U.S. Census Bureau, Nov. 19, 2024; Internal Revenue Service, Publication 526 (2025); Idealist."
+    data:
+      day:
+        date: "2026-12-05"
+        name: "International Volunteer Day"
+        src: 1
+        quote: "International Volunteer Day, commonly known as IVD, is celebrated on 5 December every year."
+      facts:
+        - text: "It started as an observance mandated by the UN General Assembly in 1985."
+          src: 1
+          quote: "It started as an international observance mandated by the United Nations General Assembly in 1985."
+        - text: "The IRS does not let you deduct the value of your time or services."
+          src: 4
+          quote: "the value of your time or services"
+        - text: "The IRS standard mileage rate for charity driving is 14 cents a mile (2025)."
+          src: 4
+          quote: "You can use a standard mileage rate of 14 cents a mile"
+      activities:
+        - type: checklist
+          title: "Plan your volunteer day"
+          items:
+            - "Pick a cause you care about"
+            - "Search Idealist and VolunteerMatch by keyword, skill or interest"
+            - "Contact the organization and confirm the shift"
+            - "Log your hours and your miles driven for your records"
+        - type: checklist
+          title: "Keep for taxes (IRS Publication 526)"
+          items:
+            - "The value of your time or services is not deductible"
+            - "Save receipts for unreimbursed expenses and a mileage log"
+    note: "Source: United Nations, International Volunteer Day; Internal Revenue Service, Publication 526 (2025); Idealist."
     description: "One-page International Volunteer Day 2026 sheet: the Dec. 5 date, steps to find a volunteer role, tick boxes and the 2025 IRS mileage rate for charity driving."
     alt: "Printable International Volunteer Day 2026 planning sheet with the Dec. 5 date, volunteer steps and tick boxes"
 hero:
@@ -86,10 +106,10 @@ downloads:
   - group: "International Volunteer Day 2026 Planning Sheet printables"
     title: "International Volunteer Day 2026 Planning Sheet"
     description: "One-page International Volunteer Day 2026 sheet: the Dec. 5 date, steps to find a volunteer role, tick boxes and the 2025 IRS mileage rate for charity driving."
-    preview: ../../../../assets/news/international-volunteer-day-2026/international-volunteer-day-2026-planning-sheet.png
+    preview: ../../../../assets/news/international-volunteer-day-2026/international-volunteer-day-2026-volunteer-activity-sheet.png
     alt: "Printable International Volunteer Day 2026 planning sheet with the Dec. 5 date, volunteer steps and tick boxes"
-    pdf: "/news/downloads/international-volunteer-day-2026/international-volunteer-day-2026-planning-sheet.pdf"
-    png: "/news/downloads/international-volunteer-day-2026/international-volunteer-day-2026-planning-sheet.png"
+    pdf: "/news/downloads/international-volunteer-day-2026/international-volunteer-day-2026-volunteer-activity-sheet.pdf"
+    png: "/news/downloads/international-volunteer-day-2026/international-volunteer-day-2026-volunteer-activity-sheet.png"
     pages: 1
 draft: false
 ---
