@@ -67,7 +67,7 @@ internalLinks:
     label: "January 2027 printable calendar"
   - href: "/printable-weekly-calendar.html"
     label: "printable weekly calendar"
-related: [atp-finals-2026-turin-dates-schedule-time-zones-tv-qualified-players, wta-finals-2026-indian-wells-dates-qualified-players-time-zones, paris-masters-2026-schedule-final-time-by-time-zone]
+related: [atp-finals-2026-turin-dates-schedule-time-zones-tv-qualified-players, wta-finals-2026-indian-wells-dates-qualified-players-time-zones, united-cup-2027-dates-schedule-time-zones]
 assets:
   overlay: true
   kicker: "Australian Open · Jan. 11-31, 2027"
