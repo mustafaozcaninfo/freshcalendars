@@ -62,7 +62,7 @@ internalLinks:
     label: "Monday-start calendar guide"
   - href: "/printable-weekly-calendar.html"
     label: "printable weekly calendar"
-related: [week-numbers-2027-calendar-printable, why-some-years-have-53-weeks, what-is-iso-8601]
+related: [week-numbers-2027-calendar-printable, date-formats-by-country-mm-dd-dd-mm, what-is-iso-8601]
 assets:
   overlay: true
   kicker: "Calendar guide · ISO weeks"

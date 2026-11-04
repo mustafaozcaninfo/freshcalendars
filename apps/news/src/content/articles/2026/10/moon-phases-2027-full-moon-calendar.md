@@ -52,7 +52,7 @@ internalLinks:
     label: "January 2027 printable calendar"
   - href: "/september-calendars.html"
     label: "September printable calendar"
-related: [meteor-showers-2027-calendar-peak-dates-moon-phase-best-nights, next-blood-moon-total-lunar-eclipse-after-2026-dates-us-times-2028-2029, moon-phase-tonight-october-27-november-2026-moon-calendar]
+related: [meteor-showers-2027-calendar-peak-dates-moon-phase-best-nights, next-blood-moon-total-lunar-eclipse-after-2026-dates-us-times-2028-2029, chinese-lunar-calendar-2027-months-no-leap-month]
 downloads:
   - group: "Moon phase printables"
     title: "Moon Phase Calendar 2027"
