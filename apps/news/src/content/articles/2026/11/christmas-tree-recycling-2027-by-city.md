@@ -91,7 +91,7 @@ internalLinks:
     label: "December 2026 printable calendar"
   - href: "/january-calendars.html"
     label: "January 2027 printable calendar"
-related: [christmas-new-year-trash-pickup-2026-by-city, thanksgiving-trash-pickup-2026-by-city, christmas-2026-calendar-printable-countdown]
+related: [christmas-new-year-trash-pickup-2026-by-city, thanksgiving-trash-pickup-2026-by-city, america-recycles-day-2026-november-15]
 draft: false
 assets:
   overlay: true
