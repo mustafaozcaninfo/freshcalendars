@@ -21,7 +21,7 @@ summary:
 faq:
   - q: "Who made today's NYT Midi Crossword?"
     a: "Ian Livengood constructed the Nov. 3, 2026 Midi, titled Stay in Line!, according to the puzzle data."
-  - q: undefined
+  - q: "What are the NYT Midi Crossword answers for Nov. 3, 2026?"
     a: "Spoilers: Across, Bawl, Abcs, Ache, Soup, Suit, Andy, Err, Ade, Salts away, Wok, Hoo, Skit, Airy, Pine, Otto, Adds, Lea; Down, Bases, Acura, Whirlwind, Let, Asada, Bone white, Cud, Spy, Ask, Totes, Aorta, Yoyo, Spa, Kid, Aol."
   - q: "How big is today's Midi and how many clues does it have?"
     a: "The Tuesday grid is nine squares wide and nine tall, with 32 clues: 17 Across and 15 Down."
@@ -89,7 +89,7 @@ Start with the three-letter entries, such as 13-Across, 14-Across, 19-Across, 20
 
 Keep a streak log on our [printable weekly calendar](/printable-weekly-calendar.html) or the [November 2026 printable calendar](/november-calendars.html).
 
-More of Tuesday's puzzles: [Mini Crossword hints](/news/nyt-mini-crossword-answers-november-3-2026/), [Wordle hints](/news/wordle-hint-answer-today-november-3-2026-1963/), [Connections hints](/news/nyt-connections-hints-answers-november-3-2026-1241/), [Strands hints](/news/nyt-strands-hints-answers-november-3-2026-975/), [Spelling Bee hints](/news/nyt-spelling-bee-hints-answers-november-3-2026/) and [Pips hints](/news/nyt-pips-hints-answers-november-3-2026/). Monday's grid is in our [Midi answers for Nov. 2](/news/nyt-midi-crossword-answers-november-2-2026/).
+More of Tuesday's puzzles: [Mini Crossword hints](/news/nyt-mini-crossword-answers-november-3-2026/), [Wordle hints](/news/wordle-hint-answer-today-november-3-2026-1963/), [Connections hints](/news/nyt-connections-hints-answers-november-3-2026-1241/), [Strands hints](/news/nyt-strands-hints-answers-november-3-2026-975/), [Spelling Bee hints](/news/nyt-spelling-bee-hints-answers-november-3-2026/) and [Pips hints](/news/nyt-pips-hints-answers-november-3-2026/). Monday's grid is in our [Midi answers for Nov. 2](/news/nyt-midi-crossword-answers-november-2-2026/). Wednesday's grid is in our [Midi answers for Nov. 4](/news/nyt-midi-crossword-answers-november-4-2026/).
 
 ## Today's NYT Midi answers (spoilers)
 

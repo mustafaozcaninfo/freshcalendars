@@ -21,7 +21,7 @@ summary:
 faq:
   - q: "Who made today's NYT Mini?"
     a: "Sam Ezersky constructed the Nov. 3, 2026 Mini, according to the puzzle data."
-  - q: undefined
+  - q: "What are the NYT Mini answers for Nov. 3, 2026?"
     a: "Spoilers: Across, Claim, Limbo, Avail, Pizza, Dear; Down, Clap, Livid, Amaze, Ibiza, Molar."
   - q: "How big is today's Mini and how many clues does it have?"
     a: "The Tuesday grid is five squares wide and five tall, with 10 clues: five Across and five Down."
@@ -63,7 +63,7 @@ Start with 4-Down, a geography fact, and 1-Across, a word from paperwork. 1-Acro
 
 Keep a streak log on our [printable weekly calendar](/printable-weekly-calendar.html) or the [November 2026 printable calendar](/november-calendars.html).
 
-More of Tuesday's puzzles: [Wordle hints](/news/wordle-hint-answer-today-november-3-2026-1963/), [Connections hints](/news/nyt-connections-hints-answers-november-3-2026-1241/), [Strands hints](/news/nyt-strands-hints-answers-november-3-2026-975/), [Spelling Bee hints](/news/nyt-spelling-bee-hints-answers-november-3-2026/) and [Pips hints](/news/nyt-pips-hints-answers-november-3-2026/). Monday's grid is in our [Mini answers for Nov. 2](/news/nyt-mini-crossword-answers-november-2-2026/).
+More of Tuesday's puzzles: [Wordle hints](/news/wordle-hint-answer-today-november-3-2026-1963/), [Connections hints](/news/nyt-connections-hints-answers-november-3-2026-1241/), [Strands hints](/news/nyt-strands-hints-answers-november-3-2026-975/), [Spelling Bee hints](/news/nyt-spelling-bee-hints-answers-november-3-2026/) and [Pips hints](/news/nyt-pips-hints-answers-november-3-2026/). Monday's grid is in our [Mini answers for Nov. 2](/news/nyt-mini-crossword-answers-november-2-2026/). Wednesday's grid is in our [Mini answers for Nov. 4](/news/nyt-mini-crossword-answers-november-4-2026/).
 
 ## Today's NYT Mini answers (spoilers)
 
