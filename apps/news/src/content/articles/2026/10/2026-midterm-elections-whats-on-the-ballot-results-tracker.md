@@ -4,7 +4,7 @@ seoTitle: "2026 Midterm Elections: What's on the Ballot Nov. 3"
 description: "The Nov. 3, 2026 midterms decide 35 Senate seats, all 435 House seats and 36 governors. Every race by state, dates after Election Day and a printable tracker."
 type: explainer
 publishedAt: "2026-10-20T11:00:00-04:00"
-updatedAt: "2026-11-03T12:48:00-05:00"
+updatedAt: "2026-11-03T21:25:00-05:00"
 authors: [christina-gerland]
 category: elections
 keywords: ["2026 midterm elections", "senate seats up in 2026", "governor races 2026", "midterm election 2026 date", "election night tracker printable"]
@@ -48,6 +48,15 @@ sources:
   - title: "California's vote counting process"
     url: "https://www.sos.ca.gov/administration/news-releases-and-advisories/2022-news-releases-and-advisories/californias-vote-counting-process-law-counting-can-take-30-days-ensure-voters-rights-and-integrity-elections"
     publisher: "California Secretary of State"
+  - title: "Election Results"
+    url: "https://electionresults.sos.mn.gov/"
+    publisher: "Minnesota Secretary of State"
+  - title: "Results"
+    url: "https://www.elections.virginia.gov/results"
+    publisher: "Virginia Department of Elections"
+  - title: "2026 General Election Calendar"
+    url: "https://www.pa.gov/content/dam/copapwp-pagov/en/dos/programs/voting-and-elections/running-for-office/2026/2026-general-election-calendar.pdf"
+    publisher: "Pennsylvania Department of State"
 internalLinks:
   - href: "/november-calendars.html"
     label: "November 2026 printable calendar"
@@ -115,6 +124,27 @@ Polls close from 6 p.m. Eastern in parts of Indiana and Kentucky to 1 a.m. Easte
 | Tue., Dec. 1 | Georgia runoffs, if no candidate won a majority |
 | Sun., Jan. 3, 2027 | 120th Congress convenes, unless Congress sets another day by law |
 | January 2027 | Most new governors take office |
+
+## Official results and certification dates by state
+
+Results posted on election night are unofficial until each state certifies them. The table links the official results page for six states and lists certification dates; the sources and rules behind each date are in our [certification deadlines by state](/news/when-are-2026-election-results-certified-deadlines-by-state/) story.
+
+| State | Official results page | State certification |
+|---|---|---|
+| Florida | [Florida Department of State](https://results.elections.myflorida.com/) | Counties file official results by noon Mon., Nov. 16 |
+| Georgia | [Georgia Secretary of State](https://results.sos.ga.gov/results/public/georgia/elections/11032026GeneralAndSpecialElection) | Check the Secretary of State |
+| Minnesota | [Minnesota Secretary of State](https://electionresults.sos.mn.gov/) | Thu., Nov. 19 (State Canvassing Board) |
+| Texas | State election office | State canvass Sat., Nov. 21 to Sun., Dec. 6 |
+| Michigan | State election office | Mon., Nov. 23 |
+| Arizona | State election office | Mon., Nov. 23 |
+| Pennsylvania | [Pennsylvania Department of State](https://electionreturns.pa.gov/) | Counties certify by Mon., Nov. 23; state date not on the department's calendar |
+| North Carolina | [North Carolina State Board of Elections](https://er.ncsbe.gov/) | Tue., Nov. 24 (state canvass scheduled) |
+| Nevada | State election office | Tue., Nov. 24 |
+| Wisconsin | State election office | Tue., Dec. 1 |
+| Washington | State election office | Thu., Dec. 3 |
+| Virginia | [Virginia Department of Elections](https://www.elections.virginia.gov/results) | Mon., Dec. 7 (State Board meets by) |
+| Oregon | State election office | Thu., Dec. 10 |
+| California | State election office | Fri., Dec. 11 |
 
 ## Use the tracker
 
