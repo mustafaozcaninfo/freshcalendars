@@ -98,7 +98,7 @@ internalLinks:
     label: "February 2027 printable calendars"
   - href: "/printable-weekly-calendar.html"
     label: "Printable weekly calendar"
-related: [lewes-polar-bear-plunge-2027-february-7, february-2027-calendar-printable, super-bowl-lxi-2027-date-sofi-stadium-channel-halftime]
+related: [lewes-polar-bear-plunge-2027-february-7, catholic-liturgical-calendar-2027-year-b, super-bowl-lxi-2027-date-sofi-stadium-channel-halftime]
 downloads:
   - group: "February 2027 Important Dates printables"
     title: "February 2027 Important Dates"
