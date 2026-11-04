@@ -270,7 +270,7 @@ html[data-theme=dark] body .site-search-box input[type=search]{background-color:
 @media(max-width:640px){.theme-toggle{min-width:44px;min-height:44px}.preview-arrow{min-width:44px;min-height:44px}.studio-style-tabs button{min-height:40px;padding:6px 12px}.studio-field select,.library-toolbar select{min-height:44px}.studio-actions a,.studio-actions button,.library-toolbar button{min-height:44px}}
 /* Reading type (2026-11-04). News sites set body copy at 16-20px with 60-80 characters a line and no
    text under 12-13px; our pages ran 11-13px with 100+ character lines. Body is 16px, running text 18px
-   (17px on phones) in a 720px content column, so text, tables and the FAQ share one edge. Small labels
+   (17px on phones) in a 660px content column (Manrope runs narrow: 720px measured 84 characters a line), so text, tables and the FAQ share one edge. Small labels
    were raised by 2px in the rules above (13px floor). */
 body{font-size:1rem}
 .page-workspace .prose,.faq details p,.page-workspace .section>p,.page-workspace .section li{font-size:18px;line-height:1.65}
@@ -282,6 +282,13 @@ body{font-size:1rem}
 .shelf-card h3,.library-card h2{font-size:15px}
 .hol-table td,.dates-table td{font-size:15px}
 .hol-table th,.dates-table th{font-size:13px}
-@media(min-width:1101px){.page-workspace .layout{grid-template-columns:minmax(0,720px) 240px;gap:48px;justify-content:start}}
-@media(max-width:700px){.page-workspace .prose,.faq details p,.page-workspace .section>p,.page-workspace .section li{font-size:17px}.faq summary{font-size:16px}.workspace-heading .lead{font-size:17px}.hero .lead,.hero-intro{font-size:17px}.hol-table td,.dates-table td{font-size:15px}}
+.page-workspace .section h2{font-size:25px;line-height:1.25}
+.page-workspace .section h3{font-size:20px;line-height:1.3}
+.section.prose{font-size:18px;line-height:1.65;max-width:680px}
+.section.faq{max-width:700px}
+.page-workspace[data-workspace=policy] .main{max-width:700px}
+.hn-w{font-size:15px}
+.site-footer a,.site-footer .footer-copy,.footer-brand p,.footer-grid nav a,.footer-bottom,.section-rail nav a,.page-workspace .side-links a,.library-sidebar a{font-size:14px}
+@media(min-width:1101px){.page-workspace .layout{grid-template-columns:minmax(0,660px) 260px;gap:56px;justify-content:start}}
+@media(max-width:700px){.page-workspace .section h2{font-size:22px}.page-workspace .section h3{font-size:19px}.page-workspace .prose,.faq details p,.page-workspace .section>p,.page-workspace .section li{font-size:17px}.faq summary{font-size:16px}.workspace-heading .lead{font-size:17px}.hero .lead,.hero-intro{font-size:17px}.hol-table td,.dates-table td{font-size:15px}}
 `;

@@ -45,7 +45,7 @@ const beats = d.categories.map(({ id }) => ({ id, name: categoryNames.get(id) ??
 <style>
   .profile{color:var(--ink-strong);margin:20px 0 1rem}
   .profile-card{display:grid;grid-template-columns:88px minmax(0,1fr);gap:18px;padding:20px;background:var(--surface-soft);border:1px solid var(--line);border-radius:10px;align-items:start}
-  .profile-card p{font-size:17px;line-height:1.65;max-width:68ch;margin:0;color:var(--ink)}
+  .profile-card p{font-size:17px;line-height:1.65;max-width:600px;margin:0;color:var(--ink)}
   .profile-card .beats,.profile-card .contact{grid-column:2;font-size:13px;color:var(--ink-strong)}
   .profile-card.without-avatar{grid-template-columns:minmax(0,1fr)}.profile-card.without-avatar .same-as{grid-column:1}
   .avatar{width:88px;height:88px;border-radius:12px;margin:0;object-fit:cover;grid-row:span 2}
