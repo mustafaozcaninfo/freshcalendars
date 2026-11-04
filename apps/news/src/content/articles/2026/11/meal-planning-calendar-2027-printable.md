@@ -1,7 +1,7 @@
 ---
 title: "Meal Planning Calendar 2027: Weekly Menu and Grocery List Printables"
 seoTitle: "Meal Planning Calendar 2027: Weekly Menu Printable"
-description: "The first full meal-planning week of 2027 starts Sunday, Jan. 3. Get a weekly menu and grocery list sheet with storage limits from the Minnesota Department of Health (MDH)."
+description: "The first full meal-planning week of 2027 starts Sunday, Jan. 3. Print a weekly menu and grocery list with Minnesota Department of Health (MDH) storage limits."
 type: explainer
 publishedAt: "2026-11-04T06:40:00-05:00"
 updatedAt: "2026-11-04T06:40:00-05:00"
@@ -51,7 +51,7 @@ hero:
   src: ../../../../assets/news/meal-planning-calendar-2027-printable/meal-planning-calendar-2027-printable.webp
   alt: "Three glass meal-prep containers with grains, corn, tomatoes and olives for a meal planning calendar printable"
   caption: "Glass containers of prepared meals. File photo by Ella Olsson, not from a specific week in 2027."
-  credit: "Photo: Ella Olsson from Stockholm, Sweden / Wikimedia Commons, cropped"
+  credit: "Photo: Ella Olsson from Stockholm, Sweden / Wikimedia Commons, cropped, edited"
   license:
     name: "CC BY 2.0"
     url: "https://creativecommons.org/licenses/by/2.0"
@@ -85,7 +85,15 @@ faq:
     a: "No. The CDC says never to thaw food on the counter. It lists the refrigerator, cold water and the microwave as safe ways, and the FDA names the same three."
   - q: "How cold should the refrigerator and freezer be?"
     a: "The CDC says to keep the refrigerator at 40°F or below and the freezer at 0°F or below."
-downloads: []
+downloads:
+  - group: "Weekly Menu and Grocery List 2027 printables"
+    title: "Weekly Menu and Grocery List 2027"
+    description: "A one-page 2027 weekly menu and grocery list with refrigerator and freezer storage limits to print and keep."
+    preview: ../../../../assets/news/meal-planning-2027/meal-planning-calendar-2027-weekly-menu-grocery-list.png
+    alt: "Weekly menu and grocery list printable for 2027 with a day-by-day menu, grocery sections and storage limits"
+    pdf: "/news/downloads/meal-planning-2027/meal-planning-calendar-2027-weekly-menu-grocery-list.pdf"
+    png: "/news/downloads/meal-planning-2027/meal-planning-calendar-2027-weekly-menu-grocery-list.png"
+    pages: 1
 internalLinks:
   - href: "/printable-weekly-calendar.html"
     label: "printable weekly calendar"

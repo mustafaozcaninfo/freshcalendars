@@ -62,6 +62,15 @@ internalLinks:
   - href: "/printable-yearly-calendar.html"
     label: "Printable yearly calendar for 2027"
 related: [all-saints-day-2026-holy-day-of-obligation-all-souls-day, when-does-advent-start-2026-november-29-advent-wreath-candles, our-lady-of-guadalupe-day-2026-december-12-las-posadas-december-16-24]
+downloads:
+  - group: "Immaculate Conception 2026 and U.S. Holy Days to Dec. 2027 printables"
+    title: "Immaculate Conception 2026 and U.S. Holy Days to Dec. 2027"
+    description: "One-page planner for Dec. 8, 2026, the Immaculate Conception, with the next U.S. holy days of obligation through Dec. 2027."
+    preview: ../../../../assets/news/immaculate-conception-2026/holy-days-of-obligation-dec-2026-dec-2027.png
+    alt: "Printable planner for the Immaculate Conception on Tuesday, Dec. 8, 2026, with U.S. holy days of obligation through Dec. 2027"
+    pdf: "/news/downloads/immaculate-conception-2026/holy-days-of-obligation-dec-2026-dec-2027.pdf"
+    png: "/news/downloads/immaculate-conception-2026/holy-days-of-obligation-dec-2026-dec-2027.png"
+    pages: 1
 draft: false
 assets:
   overlay: true

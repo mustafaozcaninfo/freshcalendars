@@ -1,7 +1,7 @@
 ---
 title: "January 2027 Reset Planner: Goals, Habits and Monthly Review Printables"
 seoTitle: "January 2027 Planner Printable: Goals and Habits"
-description: "A free four-page January 2027 planner: goals, a 31-day habit tracker starting Fri., Jan. 1, the Jan. 15 Internal Revenue Service (IRS) date and a monthly review."
+description: "A free four-page January 2027 planner: goals, a 31-day habit tracker from Fri., Jan. 1, the Jan. 15 IRS estimated tax date and a monthly review."
 type: explainer
 publishedAt: "2026-11-04T06:45:00-05:00"
 updatedAt: "2026-11-04T06:45:00-05:00"
@@ -53,7 +53,7 @@ sources:
     date: "2026-01-26"
   - title: "Maintaining Healthy Habits"
     url: "https://wellnessatnih.ors.od.nih.gov/news/Pages/Maintaining-Healthy-Habits.aspx"
-    publisher: "Wellness@NIH, National Institutes of Health"
+    publisher: "National Institutes of Health"
     date: "2020-02-03"
 internalLinks:
   - href: "/january-calendars.html"
@@ -61,6 +61,15 @@ internalLinks:
   - href: "/printable-yearly-calendar.html"
     label: "2027 printable yearly calendar"
 related: [january-2027-important-dates-holidays-days-until, vision-board-2027-printable-goal-worksheets, long-weekends-2027-pto-planner-bridge-days]
+downloads:
+  - group: "January 2027 reset planner"
+    title: "January 2027 Reset Planner: Goals, Habits and Monthly Review"
+    description: "Four-page January 2027 planner: three goals, a 31-day habit tracker with weekdays and dates, a list of dated items and a monthly review page."
+    preview: ../../../../assets/news/january-2027-reset-planner-printable/january-2027-reset-planner.png
+    alt: "January 2027 reset planner printable, page 1: three goal boxes with lines for the goal, the reason, the steps and a start date"
+    pdf: "/news/downloads/january-2027-reset-planner-printable/january-2027-reset-planner.pdf"
+    png: "/news/downloads/january-2027-reset-planner-printable/january-2027-reset-planner.png"
+    pages: 4
 draft: false
 ---
 
@@ -103,7 +112,7 @@ The IRS had not announced the 2027 opening date when we checked on Nov. 4, 2026.
 
 ## Which goal-setting tip does the planner use?
 
-The goals page quotes the Wellness@NIH employee wellness program of the National Institutes of Health (NIH), in an article dated Feb. 3, 2020: "Write down the steps that will help you to achieve them." The same article adds: "A journal, app, or online diary will help keep your focus." The planner follows the first tip with lines for steps and a start date under each goal. We make no health claims beyond that advice.
+The goals page quotes the employee wellness program of the National Institutes of Health (NIH), Wellness@NIH, in an article dated Feb. 3, 2020: "Write down the steps that will help you to achieve them." The same article adds: "A journal, app, or online diary will help keep your focus." The planner follows the first tip with lines for steps and a start date under each goal. We make no health claims beyond that advice.
 
 ## How do I run the monthly review?
 
@@ -111,4 +120,4 @@ Fill in page 4 after Sunday, Jan. 31. Count the ticks for each habit and write t
 
 ## Where can I find the rest of January 2027?
 
-The [January 2027 calendar printables](/news/january-2027-calendar-printable/) put the month on a grid, and the [January 2027 important dates list](/news/january-2027-important-dates-holidays-days-until/) adds days-until counts. For a longer-term plan, see our [vision board and goal worksheets](/news/vision-board-2027-printable-goal-worksheets/) and the [2027 PTO and bridge-day planner](/news/long-weekends-2027-pto-planner-bridge-days/). Browse every [January printable calendar](/january-calendars.html) or the [2027 yearly calendar](/printable-yearly-calendar.html).
+The [January 2027 calendar printables](/news/january-2027-calendar-printable/) put the month on a grid, and the [January 2027 important dates list](/news/january-2027-important-dates-holidays-days-until/) adds days-until counts. For a longer-term plan, see our [vision board and goal worksheets](/news/vision-board-2027-printable-goal-worksheets/) and the [2027 paid time off (PTO) and bridge-day planner](/news/long-weekends-2027-pto-planner-bridge-days/). Browse every [January printable calendar](/january-calendars.html) or the [2027 yearly calendar](/printable-yearly-calendar.html).

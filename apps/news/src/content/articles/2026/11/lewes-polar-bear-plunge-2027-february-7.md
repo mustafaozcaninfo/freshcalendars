@@ -28,7 +28,7 @@ faq:
   - q: "What time is the Lewes Polar Bear Plunge in 2027?"
     a: "The in-person plunge is Sunday, Feb. 7, 2027, at 1:00 p.m. in Rehoboth Beach, according to plungede.org."
   - q: "Was there a Lewes Polar Bear Plunge in 2026?"
-    a: "No. WBOC and WMDT reported on Feb. 26, 2026 that the plunge and the 5K Run to the Plunge were canceled, and WMDT reported it would not be rescheduled."
+    a: "No. Two newsrooms covering the plunge reported on Feb. 26, 2026 that the plunge and the 5K Run to the Plunge were canceled, and WMDT reported it would not be rescheduled."
   - q: "How much do you have to raise to plunge?"
     a: "Official Bear status requires a minimum of $100 raised, per the Plunge DE fundraising incentives page."
   - q: "Can you plunge without going to Rehoboth Beach?"
@@ -65,19 +65,19 @@ sources:
     publisher: "Special Olympics Delaware"
   - title: "Lewes Polar Bear Plunge postponed due to weather concerns"
     url: "https://www.wboc.com/news/lewes-polar-bear-plunge-postponed-due-to-weather-concerns/article_851ed1bf-3074-4ffd-b89f-0d6e163c6add.html"
-    publisher: "WBOC"
+    publisher: "WBOC, the CBS station in Salisbury, Maryland"
     date: "2026-01-28"
   - title: "Lewes Polar Bear Plunge postponed for weather"
     url: "https://www.wmdt.com/?p=4278399"
-    publisher: "WMDT"
+    publisher: "WMDT, the ABC station in Salisbury, Maryland"
     date: "2026-01-28"
   - title: "Rehoboth Beach cancels 2026 Lewes Polar Bear Plunge"
     url: "https://www.wboc.com/news/rehoboth-beach-cancels-2026-lewes-polar-bear-plunge/article_f6245ed9-581f-467f-bf18-973bdca7dff5.html"
-    publisher: "WBOC"
+    publisher: "WBOC, the CBS station in Salisbury, Maryland"
     date: "2026-02-26"
   - title: "2026 Lewes Polar Bear Plunge and 5K Run to the Plunge canceled"
     url: "https://www.wmdt.com/?p=4391961"
-    publisher: "WMDT"
+    publisher: "WMDT, the ABC station in Salisbury, Maryland"
     date: "2026-02-26"
   - title: "Polar Plunge MN White Bear Lake"
     url: "https://www.plungemn.org/events/white-bear-lake/"
@@ -128,7 +128,7 @@ assets:
       - { when: "Rule", what: "Do not go near the jetties", section: "Safety rules" }
       - { when: "Rule", what: "Plunge with a friend: use the buddy system", section: "Safety rules" }
       - { when: "Rule", what: "No tents or drones on the beach", section: "Safety rules" }
-    note: "Source: Special Olympics Delaware, plungede.org (home, FAQ, registration, fundraising incentives, maps and parking, tips for a bearable plunge). Checked Nov. 4, 2026."
+    note: "Source: Special Olympics Delaware, plungede.org (home, frequently asked questions, registration, fundraising incentives, maps and parking, tips for a bearable plunge). Checked Nov. 4, 2026."
     description: "Printable checklist for the Lewes Polar Bear Plunge on Sunday, Feb. 7, 2027: sign-up steps, what to bring, arrival and the official safety rules."
     alt: "Checklist for the Lewes Polar Bear Plunge 2027 with sign-up, packing and safety rules"
 downloads:
@@ -158,11 +158,11 @@ The Plunge DE homepage lists "In-Person – Sunday, February 7, 2027 in Rehoboth
 | Virtual plunge | "Backyard, schoolyard, any time, any place." | plungede.org homepage |
 | Check-in times and places | Not yet announced for 2027 | plungede.org registration page |
 
-The FAQ says to join "on the first Sunday in February at 1:00 p.m. in Rehoboth Beach" and "strongly recommend[s] taking advantage of one of the early check-in opportunities." As of Nov. 4, 2026, the 2027 check-in times are not posted; some pages show "2027 REGISTRATION TBD." The registration page tells plungers to "plan ahead when and where you will check in."
+The frequently asked questions page says to join "on the first Sunday in February at 1:00 p.m. in Rehoboth Beach" and "strongly recommend[s] taking advantage of one of the early check-in opportunities." As of Nov. 4, 2026, the 2027 check-in times are not posted; some pages say 2027 registration is still to be determined. The registration page tells plungers to "plan ahead when and where you will check in."
 
 ## Why was there no Lewes Polar Bear Plunge in 2026?
 
-WBOC and WMDT both reported on Jan. 28, 2026 that the 2026 plunge was postponed for weather to Sunday, March 1. On Feb. 26, 2026, WMDT reported that the plunge and the 5K Run to the Plunge were canceled and "will not be rescheduled this year." WBOC reported the same day that "the City of Rehoboth Beach has canceled the 2026 Lewes Polar Bear Plunge and 5K Run to the Plunge."
+The CBS station in Salisbury, Maryland (WBOC) and the ABC station there (WMDT) both reported on Jan. 28, 2026 that the 2026 plunge was postponed for weather to Sunday, March 1. On Feb. 26, 2026, WMDT reported that the plunge and the 5K Run to the Plunge were canceled and "will not be rescheduled this year." WBOC reported the same day that "the City of Rehoboth Beach has canceled the 2026 Lewes Polar Bear Plunge and 5K Run to the Plunge."
 
 Special Olympics Delaware's homepage addresses the year this way: "While Mother Nature had other plans for the 2026 Lewes Polar Bear Plunge, it didn't diminish what was accomplished." The plunge benefits "the athletes of Special Olympics Delaware," which provides "year-round sports training and athletic competition in a variety of Olympic-type sports" for "thousands of children and adults with intellectual disabilities."
 
@@ -193,13 +193,13 @@ The only 2027 time confirmed is the 1:00 p.m. plunge. The 2026 cancellation also
 
 ## How do you register and what are the fundraising incentives?
 
-The registration page says to "use our secure GoFundMe Pro site to register yourself and/or fellow Bears" and also offers a paper form. The FAQ says "you only need to register once." Anyone who prefers not to plunge can "skip the Plunge and support the mission by making a donation."
+The registration page says to "use our secure GoFundMe Pro site to register yourself and/or fellow Bears" and also offers a paper form. The frequently asked questions page says "you only need to register once." Anyone who prefers not to plunge can "skip the Plunge and support the mission by making a donation."
 
-Official Bear status requires "a minimum of $100 is raised." The incentive list below sits on the fundraising page under a 2026 heading, and the 2027 hoodie is listed as "TBD," so 2027 items may change. The site says incentives "are determined by individual fundraising totals, not based on team fundraising." The FAQ adds that "all donations and matching dollars must be received by the end of February to count toward your incentive fulfillments."
+Official Bear status requires "a minimum of $100 is raised." The incentive list below sits on the fundraising page under a 2026 heading, and the 2027 hoodie is listed as still to be determined, so 2027 items may change. The site says incentives "are determined by individual fundraising totals, not based on team fundraising." The same page adds that "all donations and matching dollars must be received by the end of February to count toward your incentive fulfillments."
 
 | Amount raised | Incentive on the current site list |
 |---|---|
-| $100 | Hoodie (2027 design TBD) |
+| $100 | Hoodie (2027 design to be determined) |
 | $250 | Beach towel |
 | $500 | Sweatshirt |
 | $1,000 | Duffle bag |
@@ -211,7 +211,7 @@ Official Bear status requires "a minimum of $100 is raised." The incentive list 
 
 The Plunge DE tips page recommends bringing a robe, plus "extra towels or a blanket to stand on – remember, the sand is like ice!" It suggests wearing layers and loose-fitting clothes, and "consider wearing water shoes or something on your feet into the water." It says to plunge with a friend and use the buddy system.
 
-The rules are written in capitals on the tips page: do not dive into or enter the water head-first, do not swim past the safety divers in the water, and do not go near the jetties. The FAQ says the event has "a professional dive team in the water and a Safety Team of emergency responders on site." Tents and drones are not allowed on the beach per the City of Rehoboth Beach.
+The rules are written in capitals on the tips page: do not dive into or enter the water head-first, do not swim past the safety divers in the water, and do not go near the jetties. The same page says the event has "a professional dive team in the water and a Safety Team of emergency responders on site." Tents and drones are not allowed on the beach per the City of Rehoboth Beach.
 
 On parking, the maps page says "the crowd will be similar to a summer holiday weekend at the beach (some claim even bigger!)" and "our best advice is to come early, be patient looking for a spot." It lists no shuttle information.
 
