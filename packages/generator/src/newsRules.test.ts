@@ -224,3 +224,27 @@ test("every /news/ category has at least one kit", async () => {
   const cats = readdirSync(new URL("../../../apps/news/src/content/categories/", import.meta.url)).map((f) => f.replace(/\.json$/, ""));
   for (const c of cats) assert.ok(KIT_FOR_CATEGORY[c]?.length, `${c} has no kit in KIT_FOR_CATEGORY`);
 });
+
+test("watch-guide: events abroad, times not yet announced, split quotes, compact table", () => {
+  const k = KITS["watch-guide"]!;
+  const p = { kit: "watch-guide", slug: "x", group: "g", title: "T 2026", note: "Source: A", data: {} };
+  // A Melbourne Test at 10:30 a.m. AEDT on Dec. 26: +11:00 is Sydney's clock that day, not -04:00's.
+  const mcg = { events: [{ start: "2026-12-26T10:30+11:00", tz: "Australia/Sydney", title: "Boxing Day Test", src: 1 }] };
+  const html = k.render(k.validate(mcg, kctx("sports")), p, kctx("sports")).html;
+  assert.match(html, /Sydney time/);
+  assert.match(html, /Dec\. 26, 10:30 a\.m\./);
+  assert.match(html, /6:30 p\.m\. <em>\(Fri\.\)<\/em>|6:30 p\.m\./);
+  assert.throws(() => k.validate({ events: [{ start: "2026-12-26T10:30+10:00", tz: "Australia/Sydney", title: "X", src: 1 }] }, kctx("sports")), /not Australia\/Sydney's clock/);
+  assert.throws(() => k.validate({ events: [{ start: "2026-12-26T10:30+11:00", title: "X", src: 1 }] }, kctx("sports")), /add tz/);
+  // A fight whose time is not posted yet.
+  const tba = k.render(k.validate({ events: [{ date: "2026-12-12", time: "TBA", title: "Fight night", src: 1 }] }, kctx("sports")), p, kctx("sports")).html;
+  assert.match(tba, /Time not yet announced/);
+  // Date and time from two lines of the source.
+  const ctxNew = kctx("sports", "2026-11-10T09:00:00-05:00");
+  assert.doesNotThrow(() => k.validate({ events: [{ start: "2026-12-11T19:00-05:00", title: "Fight", src: 1, quote: ["Friday, Dec. 11 card", "ring walks at 7 p.m. ET"] }] }, ctxNew));
+  // One game a day: a single table with a Date column instead of a heading per day.
+  const games = { events: Array.from({ length: 6 }, (_, i) => ({ start: `2026-12-${String(i * 3 + 1).padStart(2, "0")}T19:00-05:00`, title: `Game ${i}`, src: 1 })) };
+  const wg = k.validate(games, kctx("sports"));
+  assert.equal(wg.layout, "table");
+  assert.match(k.render(wg, p, kctx("sports")).html, /Date \(ET\)/);
+});

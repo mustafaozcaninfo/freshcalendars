@@ -154,6 +154,13 @@ export function factTokens(text, { iso = false, story = false } = {}) {
     if (Number(m[1]) > 12) continue;
     out.add(`t:${String(h).padStart(2, "0")}:${m[2] ?? "00"}`);
   }
+  // A time range in a story or quote, "1-4 p.m." or "11 a.m. to 1 p.m.": both ends are times.
+  if (story) for (const m of t.matchAll(/\b(\d{1,2})(?::(\d{2}))?\s*(?:([ap])\.?\s?m\.?)?\s*(?:-|to)\s*(\d{1,2})(?::(\d{2}))?\s*([ap])\.?\s?m\b/g)) {
+    const h2 = Number(m[4]) % 12 + (m[6] === "p" ? 12 : 0);
+    let h1 = Number(m[1]) % 12 + ((m[3] ?? m[6]) === "p" ? 12 : 0);
+    if (!m[3] && h1 > h2) h1 -= 12; // "11-1 p.m." starts at 11 a.m.
+    if (Number(m[1]) <= 12 && Number(m[4]) <= 12) for (const [h, mm] of [[h1, m[2]], [h2, m[5]]]) out.add(`t:${String(h).padStart(2, "0")}:${mm ?? "00"}`);
+  }
   // TV listings' "8/7c": 8 p.m. Eastern, 7 p.m. Central (prime time is always evening).
   if (story) for (const m of t.matchAll(/\b(\d{1,2})(?::(\d{2}))?\/(\d{1,2})(?::\d{2})?c\b/g)) out.add(`t:${String((Number(m[1]) % 12) + 12).padStart(2, "0")}:${m[2] ?? "00"}`);
   if (story) for (const m of t.matchAll(/\b([01]?\d|2[0-3]):([0-5]\d)\b(?!\s*[ap]\.?\s?m)/g)) out.add(`t:${m[1].padStart(2, "0")}:${m[2]}`);
