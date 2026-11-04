@@ -295,7 +295,7 @@ body{font-size:1rem}
    its lower cards never showed until the page ended: it now scrolls with the page and only the
    download card, placed last, sticks. Month chips are one 3x4 grid on every page (filled = this
    page's month, dot = the current month); the focus card answers the page's question; the long
-   link list folds under "More links"; unfilled ad slots collapse instead of leaving a white box. */
+   link list folds under "More links"; an unfilled sidebar ad slot collapses instead of leaving a white box. */
 .layout>.sidebar,.page-workspace .sidebar{position:static;align-self:stretch;align-content:start}
 .sidebar .side-dl{position:sticky;top:85px}
 .sidebar .month-chips,.page-workspace .sidebar .month-chips{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:6px}
@@ -315,7 +315,8 @@ body{font-size:1rem}
 .month-pager{display:flex;justify-content:space-between;gap:12px;margin:0 0 16px}
 .month-pager a{display:inline-flex;align-items:center;min-height:44px;padding:0 16px;border:1px solid var(--line);border-radius:999px;font-weight:700;font-size:15px;color:var(--ink-strong);text-decoration:none}
 .month-pager a:hover,.month-pager a:focus-visible{border-color:var(--focus);color:var(--focus)}
-.ad-unit:has(ins[data-ad-status=unfilled]),.side-card.ad-side:has(ins[data-ad-status=unfilled]),.ad-slot:has(ins[data-ad-status=unfilled]){display:none!important}
+/* Only the sidebar slot collapses: in-content and top slots keep their reserved height (no CLS, audit 01-ADS-LOAD). */
+.side-card.ad-side:has(ins[data-ad-status=unfilled]){display:none!important}
 @media(max-width:1100px){.sidebar .side-dl{position:static}}
 @media(max-width:700px){.sidebar .today-card{display:none}}
 `;
