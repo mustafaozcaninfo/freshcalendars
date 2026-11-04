@@ -83,6 +83,24 @@ assets:
       unconfirmed:
         - { label: "2027 program: opening ceremony, ice carving, Snowflake Kingdom", why: "Not yet announced" }
         - { label: "Skateway 2026-27 opening date", why: "Not announced by the National Capital Commission" }
+downloads:
+  - group: "Winterlude 2027 Weekend Planner printables"
+    title: "Winterlude 2027 Weekend Planner, Jan. 29 to Feb. 15"
+    description: "One-page Winterlude 2027 planner for Ottawa-Gatineau with the Jan. 29 start, the three weekends, and Skateway notes."
+    preview: ../../../../assets/news/winterlude-2027/winterlude-2027-weekend-planner.png
+    alt: "Printable Winterlude 2027 weekend planner for Ottawa-Gatineau, Jan. 29 to Feb. 15, 2027"
+    pdf: "/news/downloads/winterlude-2027/winterlude-2027-weekend-planner.pdf"
+    png: "/news/downloads/winterlude-2027/winterlude-2027-weekend-planner.png"
+    pages: 1
+  - group: "Winterlude 2027 Weekend Planner printables"
+    title: "Winterlude 2027 Weekend Planner, Jan. 29 to Feb. 15 (A4)"
+    description: "One-page Winterlude 2027 planner for Ottawa-Gatineau with the Jan. 29 start, the three weekends, and Skateway notes. A4 paper."
+    preview: ../../../../assets/news/winterlude-2027/winterlude-2027-weekend-planner-a4.png
+    alt: "Printable Winterlude 2027 weekend planner for Ottawa-Gatineau, Jan. 29 to Feb. 15, 2027, A4"
+    pdf: "/news/downloads/winterlude-2027/winterlude-2027-weekend-planner-a4.pdf"
+    png: "/news/downloads/winterlude-2027/winterlude-2027-weekend-planner-a4.png"
+    pages: 1
+draft: false
 ---
 
 **Winterlude 2027 runs from Jan. 29 to Feb. 15, 2027,** Canadian Heritage says on its Winterlude page (modified Oct. 29, 2026): "From January 29 to February 15, 2027, join us for the 49th edition of Winterlude in Canada's Capital Region." The program is not yet announced. Print our one-page [Winterlude 2027 weekend planner](/news/downloads/winterlude-2027/winterlude-2027-weekend-planner.pdf) to keep the dates.

@@ -1,7 +1,7 @@
 ---
 title: "Kentucky 2027 Election Calendar: Jan. 8 Filing Deadline, May 18 Primary, Nov. 2 General"
 seoTitle: "Kentucky 2027 Election Calendar: Primary May 18"
-description: "Kentucky's 2027 candidate filing deadline is 4 p.m. Friday, Jan. 8; the primary is Tuesday, May 18 and the general election Nov. 2, per the State Board of Elections."
+description: "Kentucky's 2027 candidate filing deadline is 4 p.m. Friday, Jan. 8; the primary is Tuesday, May 18 and the general Nov. 2, per the State Board of Elections."
 type: news
 publishedAt: "2026-11-04T06:40:00-05:00"
 authors: [christina-gerland]
@@ -71,26 +71,35 @@ assets:
       target: { date: "2027-11-02", label: "General election" }
       columns: ["Primary (May 18)", "General (Nov. 2)"]
       rows:
-        - { date: "2026-11-04", cells: { "Primary (May 18)": "Earliest day to sign candidate filing forms" }, src: 1, quote: "Wednesday 11/4/26" }
-        - { date: "2026-12-31", cells: { "Primary (May 18)": "Last day to change party and vote in its primary" }, src: 1, quote: "Thursday 12/31/26" }
-        - { date: "2027-01-08", cells: { "Primary (May 18)": "Candidate filing deadline, 4:00 PM" }, src: 1, quote: "Friday 1/8/27 4:00 PM" }
-        - { date: "2027-04-01", cells: { "Primary (May 18)": "Independent and organization candidacy statement, 4:00 PM" }, src: 1, quote: "Thursday 4/1/27 4:00 PM" }
-        - { date: "2027-04-03", cells: { "Primary (May 18)": "Mail-in absentee request portal opens" }, src: 1, quote: "Saturday 4/3/27" }
-        - { date: "2027-04-19", cells: { "Primary (May 18)": "Last day to register; online by 4:00 PM local time" }, src: 1, quote: "Monday 4/19/27" }
-        - { date: "2027-04-20", cells: { "Primary (May 18)": "Books close to May 24; mailed form postmarked 4/20 counts" }, src: 1, quote: "Tuesday 4/20/27 - Monday 5/24/27" }
-        - { date: "2027-05-04", cells: { "Primary (May 18)": "Mail-in absentee portal closes, 11:59 PM" }, src: 1, quote: "Tuesday 5/4/27 11:59 PM" }
-        - { date: "2027-05-05", cells: { "Primary (May 18)": "Excused in-person absentee: May 5, 6, 7 and May 10, 11, 12" }, src: 1, quote: "5/5, 5/6, 5/7 and 5/10, 5/11, 5/12" }
-        - { date: "2027-05-11", cells: { "Primary (May 18)": "Military-overseas application deadline" }, src: 1, quote: "Tuesday 5/11/27" }
-        - { date: "2027-05-13", cells: { "Primary (May 18)": "No-excuse in-person early voting, through Sat., May 15" }, src: 1, quote: "Thursday 5/13/27 - Saturday 5/15/27" }
-        - { date: "2027-05-18", cells: { "Primary (May 18)": "Primary Election Day, polls 6 a.m. to 6 p.m." }, src: 1, quote: "Tuesday 5/18/27" }
-        - { date: "2027-09-18", cells: { "General (Nov. 2)": "Mail-in absentee request portal opens" }, src: 1, quote: "Saturday 9/18/27" }
-        - { date: "2027-10-04", cells: { "General (Nov. 2)": "Last day to register; mailed form postmarked 10/5" }, src: 1, quote: "Monday 10/4/27" }
-        - { date: "2027-10-05", cells: { "General (Nov. 2)": "Registration books close, through Nov. 8" }, src: 1, quote: "Tuesday 10/5/27- Monday 11/8/27" }
-        - { date: "2027-10-19", cells: { "General (Nov. 2)": "Mail-in absentee portal closes, 11:59 PM" }, src: 1, quote: "Tuesday 10/19/27 11:59 PM" }
-        - { date: "2027-10-20", cells: { "General (Nov. 2)": "Excused in-person absentee: Oct. 20, 21, 22 and Oct. 25, 26, 27" }, src: 1, quote: "10/20, 10/21, 10/22 and 10/25, 10/26, 10/27" }
-        - { date: "2027-10-26", cells: { "General (Nov. 2)": "Military-overseas application deadline" }, src: 1, quote: "Tuesday 10/26/27" }
-        - { date: "2027-10-28", cells: { "General (Nov. 2)": "No-excuse in-person early voting, through Sat., Oct. 30" }, src: 1, quote: "Thursday 10/28/27 - Saturday 10/30/27" }
-        - { date: "2027-11-02", cells: { "General (Nov. 2)": "General Election Day, polls 6 a.m. to 6 p.m." }, src: 1, quote: "Tuesday 11/2/27" }
+        - { date: "2026-11-04", cells: { "Primary (May 18)": "Earliest day to sign candidate filing forms" }, src: 1, quote: "Wednesday 11/4/26 (2026-11-04)" }
+        - { date: "2026-12-31", cells: { "Primary (May 18)": "Last day to change party and vote in its primary" }, src: 1, quote: "Thursday 12/31/26 (2026-12-31)" }
+        - { date: "2027-01-08", cells: { "Primary (May 18)": "Candidate filing deadline, 4:00 PM" }, src: 1, quote: "Friday 1/8/27 4:00 PM (2027-01-08)" }
+        - { date: "2027-04-01", cells: { "Primary (May 18)": "Independent and organization candidacy statement, 4:00 PM" }, src: 1, quote: "Thursday 4/1/27 4:00 PM (2027-04-01)" }
+        - { date: "2027-04-03", cells: { "Primary (May 18)": "Mail-in absentee request portal opens" }, src: 1, quote: "Saturday 4/3/27 (2027-04-03)" }
+        - { date: "2027-04-19", cells: { "Primary (May 18)": "Last day to register; online by 4:00 PM local time" }, src: 1, quote: "Monday 4/19/27 (2027-04-19)" }
+        - { date: "2027-04-20", cells: { "Primary (May 18)": "Books close to May 24; mailed form postmarked 4/20 counts" }, src: 1, quote: "Tuesday 4/20/27 - Monday 5/24/27 (2027-04-20)" }
+        - { date: "2027-05-04", cells: { "Primary (May 18)": "Mail-in absentee portal closes, 11:59 PM" }, src: 1, quote: "Tuesday 5/4/27 11:59 PM (2027-05-04)" }
+        - { date: "2027-05-05", cells: { "Primary (May 18)": "Excused in-person absentee: May 5, 6, 7 and May 10, 11, 12" }, src: 1, quote: "5/5, 5/6, 5/7 and 5/10, 5/11, 5/12 (2027-05-05)" }
+        - { date: "2027-05-11", cells: { "Primary (May 18)": "Military-overseas application deadline" }, src: 1, quote: "Tuesday 5/11/27 (2027-05-11)" }
+        - { date: "2027-05-13", cells: { "Primary (May 18)": "No-excuse in-person early voting, through Sat., May 15" }, src: 1, quote: "Thursday 5/13/27 - Saturday 5/15/27 (2027-05-13)" }
+        - { date: "2027-05-18", cells: { "Primary (May 18)": "Primary Election Day, polls 6 a.m. to 6 p.m." }, src: 1, quote: "Tuesday 5/18/27 (2027-05-18)" }
+        - { date: "2027-09-18", cells: { "General (Nov. 2)": "Mail-in absentee request portal opens" }, src: 1, quote: "Saturday 9/18/27 (2027-09-18)" }
+        - { date: "2027-10-04", cells: { "General (Nov. 2)": "Last day to register; mailed form postmarked 10/5" }, src: 1, quote: "Monday 10/4/27 (2027-10-04)" }
+        - { date: "2027-10-05", cells: { "General (Nov. 2)": "Registration books close, through Nov. 8" }, src: 1, quote: "Tuesday 10/5/27- Monday 11/8/27 (2027-10-05)" }
+        - { date: "2027-10-19", cells: { "General (Nov. 2)": "Mail-in absentee portal closes, 11:59 PM" }, src: 1, quote: "Tuesday 10/19/27 11:59 PM (2027-10-19)" }
+        - { date: "2027-10-20", cells: { "General (Nov. 2)": "Excused in-person absentee: Oct. 20, 21, 22 and Oct. 25, 26, 27" }, src: 1, quote: "10/20, 10/21, 10/22 and 10/25, 10/26, 10/27 (2027-10-20)" }
+        - { date: "2027-10-26", cells: { "General (Nov. 2)": "Military-overseas application deadline" }, src: 1, quote: "Tuesday 10/26/27 (2027-10-26)" }
+        - { date: "2027-10-28", cells: { "General (Nov. 2)": "No-excuse in-person early voting, through Sat., Oct. 30" }, src: 1, quote: "Thursday 10/28/27 - Saturday 10/30/27 (2027-10-28)" }
+        - { date: "2027-11-02", cells: { "General (Nov. 2)": "General Election Day, polls 6 a.m. to 6 p.m." }, src: 1, quote: "Tuesday 11/2/27 (2027-11-02)" }
+downloads:
+  - group: "Kentucky 2027 Election Deadlines printables"
+    title: "Kentucky 2027 Election Deadlines: Primary and General"
+    description: "One page of Kentucky's 2027 election dates for the May 18 primary and Nov. 2 general election: filing, party change, registration, absentee and early voting."
+    preview: ../../../../assets/news/kentucky-2027-election-calendar/kentucky-2027-election-deadlines.png
+    alt: "Printable grid of Kentucky 2027 election deadlines for the May 18 primary and Nov. 2 general election, in date order"
+    pdf: "/news/downloads/kentucky-2027-election-calendar/kentucky-2027-election-deadlines.pdf"
+    png: "/news/downloads/kentucky-2027-election-calendar/kentucky-2027-election-deadlines.png"
+    pages: 1
 draft: false
 ---
 
@@ -135,7 +144,7 @@ The calendar then lists the registration books as closed from Tuesday, April 20 
 
 ## How do absentee and early voting work in Kentucky in 2027?
 
-Three routes appear on the calendar. Mail-in absentee requests go through a portal that opens 45 days before each election and closes at 11:59 PM 14 days before. Excused in-person absentee voting, which needs a designated reason, runs on six weekdays before each election. No-excuse in-person early voting is the Thursday to Saturday before the election week: May 13-15 for the primary and Oct. 28-30 for the general election.
+Three routes appear on the calendar. Mail-in absentee requests go through a portal that opens 45 days before each election and closes at 11:59 PM 14 days before. Excused in-person absentee voting, which needs a designated reason, runs on six weekdays before each election. No-excuse in-person early voting is Thursday to Saturday, the days just before Election Day: May 13-15 for the primary and Oct. 28-30 for the general election.
 
 Mail-in ballots "must be received by the County Clerk before 6 p.m. prevailing time," the calendar says. Military and overseas applications are due 7 days before: Tuesday, May 11 and Tuesday, Oct. 26.
 

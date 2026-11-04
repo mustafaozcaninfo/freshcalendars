@@ -1,7 +1,7 @@
 ---
 title: "EI Premiums 2027: $1.64 Rate and $70,800 Maximum Insurable Earnings"
 seoTitle: "EI Premiums 2027: $1.64 and $70,800 Maximum"
-description: "Employment Insurance (EI) premiums for 2027 are $1.64 per $100 of earnings up to $70,800, a $1,161.12 yearly maximum, Employment and Social Development Canada says."
+description: "Employment Insurance (EI) premiums for 2027 are $1.64 per $100 earned up to $70,800, a $1,161.12 maximum, Employment and Social Development Canada says."
 type: news
 publishedAt: "2026-11-04T06:30:00-05:00"
 authors: [christina-gerland]
@@ -42,12 +42,12 @@ assets:
           src: 1
           quote: "Effective January 1, 2027"
       unconfirmed:
-        - { label: "Canada Pension Plan (CPP) 2027 rates", why: "The CRA's CPP page had no 2027 row on Oct. 30, 2026" }
+        - { label: "Canada Pension Plan (CPP) 2027 contribution maximums", why: "The CRA's CPP payroll page had no 2027 row on Nov. 4, 2026" }
 hero:
   src: ../../../../assets/news/ei-premium-rate-2027-maximum-insurable-earnings-canada/ei-premium-rate-2027-maximum-insurable-earnings-canada.webp
   alt: "Service Canada office in the Sinclair Centre, Vancouver, for the EI premium 2027 rate and maximum insurable earnings"
   caption: "File photo of a Service Canada centre in the Sinclair Centre, Vancouver. The 2027 EI rate and maximum take effect Jan. 1, 2027."
-  credit: "PLACEHOLDER"
+  credit: "Photo: GoToVan from Vancouver, Canada / Wikimedia Commons, cropped, edited"
   license:
     name: "CC BY 2.0"
     url: "https://creativecommons.org/licenses/by/2.0"
@@ -67,7 +67,7 @@ faq:
   - q: "What is the maximum weekly EI benefit in 2027?"
     a: "ESDC lists $749 a week for claims beginning on or after Dec. 27, 2026, and $449 for extended parental benefits."
   - q: "Are the 2027 Canada Pension Plan figures out?"
-    a: "Not on the Canada Revenue Agency page checked Nov. 4, 2026, which had no 2027 row. The 2026 figures are in the section below."
+    a: "Partly. The Canada Revenue Agency lists the 2027 Year's Maximum Pensionable Earnings at $76,700, but its payroll page for CPP contribution maximums had no 2027 row on Nov. 4, 2026."
 sources:
   - title: "Employment Insurance - Important notice about maximum insurable earnings for 2027"
     url: "https://www.canada.ca/en/employment-social-development/programs/ei/ei-list/ei-employers/premium-reduction-program/2027-maximum-insurable-earnings.html"
@@ -84,6 +84,10 @@ sources:
     url: "https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/payroll/payroll-deductions-contributions/canada-pension-plan-cpp/cpp-contribution-rates-maximums-exemptions.html"
     publisher: "Canada Revenue Agency"
     date: "2026-10-30"
+  - title: "MP, DB, RRSP, DPSP, ALDA, TFSA limits, YMPE and the YAMPE"
+    url: "https://www.canada.ca/en/revenue-agency/services/tax/registered-plans-administrators/pspa/mp-rrsp-dpsp-tfsa-limits-ympe.html"
+    publisher: "Canada Revenue Agency"
+    date: "2026-10-28"
 internalLinks:
   - href: "/january-calendars.html"
     label: "January 2027 printable calendar"
@@ -91,6 +95,23 @@ internalLinks:
     label: "December 2026 printable calendar"
 related: [canada-benefit-payment-dates-november-december-2026-cpp-oas-ccb, rrsp-deadline-2027-march-1-canada-tax-season-dates, canada-statutory-holidays-2027-federal-general-holidays]
 draft: false
+downloads:
+  - group: "EI Premiums and Benefit Rates printables"
+    title: "EI Premiums and Benefit Rates, 2026 vs 2027"
+    description: "One-page sheet comparing Canada's 2026 and 2027 Employment Insurance premium rate, maximum insurable earnings, maximum premium and weekly benefit rates."
+    preview: ../../../../assets/news/ei-premiums-2027/ei-premiums-2027-vs-2026-canada.png
+    alt: "Printable grid comparing Canada's 2026 and 2027 Employment Insurance premiums and weekly benefit rates"
+    pdf: "/news/downloads/ei-premiums-2027/ei-premiums-2027-vs-2026-canada.pdf"
+    png: "/news/downloads/ei-premiums-2027/ei-premiums-2027-vs-2026-canada.png"
+    pages: 1
+  - group: "EI Premiums and Benefit Rates printables"
+    title: "EI Premiums and Benefit Rates, 2026 vs 2027 (A4)"
+    description: "One-page sheet comparing Canada's 2026 and 2027 Employment Insurance premium rate, maximum insurable earnings, maximum premium and weekly benefit rates. A4 paper."
+    preview: ../../../../assets/news/ei-premiums-2027/ei-premiums-2027-vs-2026-canada-a4.png
+    alt: "Printable grid comparing Canada's 2026 and 2027 Employment Insurance premiums and weekly benefit rates, A4"
+    pdf: "/news/downloads/ei-premiums-2027/ei-premiums-2027-vs-2026-canada-a4.pdf"
+    png: "/news/downloads/ei-premiums-2027/ei-premiums-2027-vs-2026-canada-a4.png"
+    pages: 1
 ---
 
 **Employment Insurance (EI) premiums for 2027 are $1.64 per $100 of insurable earnings outside Quebec, on earnings up to $70,800, according to Employment and Social Development Canada (ESDC).** The rate and the new maximum take effect Jan. 1, 2027, and the most an employee pays in the year is $1,161.12. This story adds what that means on a paycheque at three salaries, in and outside Quebec.
@@ -161,7 +182,9 @@ That is $20 a week more on the standard maximum and $12 more on extended parenta
 
 ## What about Canada Pension Plan contributions in 2027?
 
-Not yet announced. The CRA's "CPP contribution rates, maximums and exemptions" page, modified Oct. 30, 2026, had no 2027 row when checked on Nov. 4, 2026, so no 2027 Canada Pension Plan (CPP) figure is printed here. The 2026 row reads:
+The earnings ceilings are out; the payroll maximums are not. The CRA's page of registered plan limits, modified Oct. 28, 2026, lists the 2027 Year's Maximum Pensionable Earnings (YMPE) at $76,700, up from $74,600, and the 2027 Year's Additional Maximum Pensionable Earnings (YAMPE) at $87,400, up from $85,000.
+
+The Canada Pension Plan (CPP) payroll page, "CPP contribution rates, maximums and exemptions," modified Oct. 30, 2026, had no 2027 row when checked on Nov. 4, 2026, so the 2027 maximum contributions are not yet announced. Its 2026 row reads:
 
 | 2026 CPP item | Amount |
 |---|---|
@@ -170,4 +193,4 @@ Not yet announced. The CRA's "CPP contribution rates, maximums and exemptions" p
 | Employee contribution rate | 5.95% |
 | Maximum employee contribution | $4,230.45 |
 
-For other dates that shape the new year, see the [RRSP deadline for 2027](/news/rrsp-deadline-2027-march-1-canada-tax-season-dates/), the [benefit payment dates for November and December 2026](/news/canada-benefit-payment-dates-november-december-2026-cpp-oas-ccb/) and [Canada's federal holidays in 2027](/news/canada-statutory-holidays-2027-federal-general-holidays/).
+For other dates that shape the new year, see the [Registered Retirement Savings Plan (RRSP) deadline for 2027](/news/rrsp-deadline-2027-march-1-canada-tax-season-dates/), the [benefit payment dates for November and December 2026](/news/canada-benefit-payment-dates-november-december-2026-cpp-oas-ccb/) and [Canada's federal holidays in 2027](/news/canada-statutory-holidays-2027-federal-general-holidays/).

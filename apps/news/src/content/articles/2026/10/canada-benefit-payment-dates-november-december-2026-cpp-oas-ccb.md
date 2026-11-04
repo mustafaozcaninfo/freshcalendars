@@ -90,7 +90,7 @@ internalLinks:
     label: "December 2026 printable calendar"
   - href: "/canada-holidays/"
     label: "Canada holidays calendar"
-related: [canada-post-holiday-shipping-deadlines-2026-christmas, canada-statutory-holidays-2027-federal-general-holidays, rrsp-deadline-2027-march-1-canada-tax-season-dates]
+related: [ei-premium-rate-2027-maximum-insurable-earnings-canada, canada-statutory-holidays-2027-federal-general-holidays, rrsp-deadline-2027-march-1-canada-tax-season-dates]
 draft: false
 downloads:
   - group: "Canada Benefit Payment Dates printables"

@@ -57,7 +57,7 @@ internalLinks:
     label: "February 2027 printable calendar"
   - href: "/printable-yearly-calendar.html"
     label: "printable yearly calendar"
-related: [canada-christmas-markets-2026-dates-toronto-montreal-vancouver-quebec-ottawa, family-day-2027-canada-february-15-provinces-whats-closed]
+related: [winterlude-2027-dates-ottawa-gatineau, canada-christmas-markets-2026-dates-toronto-montreal-vancouver-quebec-ottawa, family-day-2027-canada-february-15-provinces-whats-closed]
 draft: false
 downloads:
   - group: "Quebec Winter Carnival 2027 Planner printables"
