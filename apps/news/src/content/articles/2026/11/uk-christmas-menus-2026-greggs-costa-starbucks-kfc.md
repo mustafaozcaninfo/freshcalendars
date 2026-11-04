@@ -166,7 +166,7 @@ draft: false
 
 Weekdays and day counts are ours, computed from the dates in each source. "Days on sale" counts from the start date to 24 December 2026, both days included. It is a count of calendar days, not a promise that an item is in stock on each of them.
 
-| Chain | 2026 start | Weekday | End | Days on sale to 24 Dec | Source |
+| Chain | 2026 start | Weekday | Ends | Days on sale to 24 Dec | Source |
 |---|---|---|---|---|---|
 | Tesco Christmas meal deal | 12 Oct | Monday | Not stated | 74 | Retail Times, Grocery Gazette |
 | Aldi Christmas sandwiches | 14 Oct | Wednesday | Not stated | 72 | Grocery Gazette, BritBrief |
@@ -176,7 +176,7 @@ Weekdays and day counts are ours, computed from the dates in each source. "Days 
 | KFC (UK and Ireland) | 9 Nov | Monday | Sunday 3 Jan 2027 | 46 | Britbrief, Foodbible |
 | Wetherspoon | 12 Nov | Thursday | Thursday 31 Dec, excluding Christmas Day | 43 | Wetherspoon |
 
-The free printable below turns the same rows into a one-page sheet with a countdown to Christmas Day. For the weeks themselves, print a [November 2026 calendar](/november-calendars.html) and a [December 2026 calendar](/december-calendars.html).
+The free printable below turns the same rows into a one-page sheet with a countdown to Christmas Day, Friday 25 December 2026, and a column for when each menu ends. For the weeks themselves, print a [November 2026 calendar](/november-calendars.html) and a [December 2026 calendar](/december-calendars.html).
 
 ## What Greggs has in its 2026 festive range
 
