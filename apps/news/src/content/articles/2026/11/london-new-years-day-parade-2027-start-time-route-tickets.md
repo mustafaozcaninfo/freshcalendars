@@ -3,8 +3,8 @@ title: "London New Year's Day Parade 2027: Start Time, Route and How to Watch Fr
 seoTitle: "London New Year's Day Parade 2027: Time and Route"
 description: "London's New Year's Day Parade starts at 1 p.m. Greenwich Mean Time (GMT) on Fri., Jan. 1, 2027, or 8 a.m. Eastern Time (ET), Time Out and The Late Edition say."
 type: explainer
-publishedAt: "2026-11-04T13:40:00-05:00"
-updatedAt: "2026-11-04T13:40:00-05:00"
+publishedAt: "2026-11-04T13:57:00-05:00"
+updatedAt: "2026-11-04T13:57:00-05:00"
 authors: [christina-gerland]
 category: uk-canada
 keywords: ["london new years day parade 2027", "london new year's day parade start time", "london parade route", "london new year parade on pbs time"]
@@ -146,7 +146,7 @@ Time Out says more than 8,000 performers from across the globe take part. The La
 
 Time Out says that in America the parade is televised on the Public Broadcasting Service (PBS). The 2027 air time is not yet announced, and PBS stations set their own times, so check your local PBS station listings. No UK broadcaster has been announced in the sources we used.
 
-## What is not yet announced?
+## London parade details not yet announced
 
 - Grandstand ticket prices and seller for 2027
 - The 2027 headliners

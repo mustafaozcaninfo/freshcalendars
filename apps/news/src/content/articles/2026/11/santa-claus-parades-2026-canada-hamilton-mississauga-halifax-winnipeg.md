@@ -3,8 +3,8 @@ title: "Santa Claus Parades 2026 in Canada: Hamilton Nov. 14, Mississauga Nov. 2
 seoTitle: "Santa Claus Parades 2026 Canada: Hamilton, Mississauga"
 description: "Hamilton's Santa Claus Parade is Saturday, Nov. 14, 2026 at 2 p.m.; Mississauga's is Saturday, Nov. 21 at 6 p.m., say the organizer and the City of Mississauga."
 type: news
-publishedAt: "2026-11-04T13:27:00-05:00"
-updatedAt: "2026-11-04T13:27:00-05:00"
+publishedAt: "2026-11-04T13:57:00-05:00"
+updatedAt: "2026-11-04T13:57:00-05:00"
 authors: [christina-gerland]
 category: uk-canada
 keywords: ["santa claus parade 2026 canada", "hamilton santa claus parade 2026", "mississauga santa claus parade 2026", "santa claus parade near me ontario"]
@@ -140,7 +140,7 @@ The table below puts every city in one place, with last year's date labeled wher
 |---|---|---|---|---|
 | Hamilton | Hamilton Santa Claus Parade | Saturday, Nov. 14, 2 p.m. | Upper Sherman and Acadia Drive | Non-perishable food and financial donations for Mission Services |
 | Mississauga | Mississauga Santa Claus Parade | Saturday, Nov. 21, 6 p.m. | Not yet announced (downtown Mississauga) | Not stated by the City |
-| Ottawa | Help Santa Toy Parade | Saturday, Nov. 21, 11 a.m. ET | Queen Elizabeth Driveway at Somerset St. W. | Toy Mountain donations |
+| Ottawa | Help Santa Toy Parade | Saturday, Nov. 21, 11 a.m. ET | Queen Elizabeth Driveway at Somerset St. W., ending at Lansdowne Park | Toy Mountain donations |
 | Toronto | The Original Santa Claus Parade | Sunday, Nov. 22, start time not yet announced | 2026 route not yet announced | Not stated |
 | Halifax | Holiday Parade of Lights | Not yet announced (2025: Saturday, Nov. 15, 6 p.m. to 8 p.m.) | 2025: Cogswell St. roundabout | 2025: non-perishable food, packaged toys or cash |
 | Winnipeg | Santa Claus Parade | Not yet announced (2025: Saturday, Nov. 15) | Not stated | Not stated |

@@ -3,8 +3,8 @@ title: "2027 Elections Calendar: Governor Races in Kentucky, Mississippi and Lou
 seoTitle: "2027 Elections Calendar: Governor Race Dates"
 description: "Election Day 2027 is Tuesday, Nov. 2. Kentucky's primary is May 18 and Mississippi's is Aug. 3; Louisiana, Virginia and New Jersey dates are not yet posted."
 type: news
-publishedAt: "2026-11-04T13:25:00-05:00"
-updatedAt: "2026-11-04T13:25:00-05:00"
+publishedAt: "2026-11-04T13:57:00-05:00"
+updatedAt: "2026-11-04T13:57:00-05:00"
 authors: [christina-gerland]
 category: elections
 keywords: ["2027 elections", "2027 governor races", "mississippi 2027 election dates", "when is election day 2027"]
@@ -15,7 +15,7 @@ hero:
   credit: "Photo: Ken Lund from Las Vegas, Nevada, USA / Wikimedia Commons, cropped, edited"
   license: { name: "CC BY-SA 2.0", url: "https://creativecommons.org/licenses/by-sa/2.0", source: "https://commons.wikimedia.org/wiki/File:Mississippi_State_Capitol,_Jackson,_Mississippi_(3931971195).jpg", author: "Ken Lund from Las Vegas, Nevada, USA", authorUrl: "https://www.flickr.com/people/75683070@N00" }
 summary:
-  - "Election Day 2027 is Tuesday, Nov. 2, 2027, the Tuesday after the first Monday in November, and it is 363 days after today, Nov. 4, 2026."
+  - "Election Day 2027 is Tuesday, Nov. 2, 2027, the Tuesday after the first Monday in November. Kentucky and Mississippi have posted their 2027 calendars."
   - "Kentucky's 2027 calendar from the State Board of Elections sets a Jan. 8 filing deadline, a May 18 primary and a Nov. 2 general election."
   - "Mississippi's Secretary of State lists an Aug. 3 primary, an Aug. 31 primary runoff, a Nov. 2 general election and a Nov. 30 general runoff for 2027."
   - "Louisiana, Virginia and New Jersey have not posted a 2027 calendar we could read, so their rows below show state law or say not yet announced."
@@ -110,7 +110,7 @@ downloads:
 draft: false
 ---
 
-**Election Day 2027 is Tuesday, Nov. 2, 2027, and two states already have official calendars for it: Kentucky's State Board of Elections sets a May 18 primary and Mississippi's Secretary of State sets an Aug. 3 primary.** Both list governor among the offices on the 2027 ballot. Kentucky's candidate filing deadline is 4:00 PM on Friday, Jan. 8, 2027. This overview puts the states side by side as of Nov. 4, 2026, 363 days before Election Day, and marks every cell as official, computed from state law or not yet announced. It names no candidates.
+**Election Day 2027 is Tuesday, Nov. 2, 2027, and two states already have official calendars for it: Kentucky's State Board of Elections sets a May 18 primary and Mississippi's Secretary of State sets an Aug. 3 primary.** Both list governor among the offices on the 2027 ballot. Kentucky's candidate filing deadline is 4:00 PM on Friday, Jan. 8, 2027. This overview puts the states side by side as of Nov. 4, 2026, and marks every cell as official, computed from state law or not yet announced. It names no candidates.
 
 ## 2027 election dates by state
 
@@ -126,7 +126,7 @@ All dates are 2027. Primary and runoff dates follow each state's own calendar; w
 
 ## What does Kentucky's 2027 calendar say?
 
-The Kentucky State Board of Elections' "2027 Kentucky Election Calendar" lists the general election on Tuesday, Nov. 2, 2027, the first Tuesday after the first Monday in November, and the primary on Tuesday, May 18. Candidates who must run in the primary file by 4:00 PM on Friday, Jan. 8. Signatures on candidate filing forms for a 2027 office can be collected from today, Wednesday, Nov. 4, 2026. The last day to register is Monday, April 19 for the primary and Monday, Oct. 4 for the general election.
+The Kentucky State Board of Elections' "2027 Kentucky Election Calendar" lists the general election on Tuesday, Nov. 2, 2027, the first Tuesday after the first Monday in November, and the primary on Tuesday, May 18. Candidates who must run in the primary file by 4:00 PM on Friday, Jan. 8. The earliest day to sign candidate filing forms for a 2027 office was Wednesday, Nov. 4, 2026. The last day to register is Monday, April 19 for the primary and Monday, Oct. 4 for the general election.
 
 The board's "Kentucky Election Schedule 2026-2036" marks only state officers in its 2027 column: governor, lieutenant governor, secretary of state, attorney general, auditor of public accounts, state treasurer and commissioner of agriculture. Absentee rules, early voting days and the party-change deadline are in our [Kentucky 2027 election calendar story](/news/kentucky-2027-election-calendar-filing-deadline-primary/).
 
