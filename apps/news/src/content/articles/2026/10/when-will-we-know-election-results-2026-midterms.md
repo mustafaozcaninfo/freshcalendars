@@ -1,10 +1,10 @@
 ---
 title: "When Will We Know the 2026 Election Results? How Counting Works and the Timeline in 17 Key States"
 seoTitle: "When Will We Know 2026 Midterm Election Results?"
-description: "Polls close Nov. 3, 2026, but counting takes days in some states. When mail ballots are counted in 17 key states, late-ballot rules and certification dates."
+description: "Polls closed Nov. 3, 2026, but counting takes days in some states. When mail ballots are counted in 17 key states, late-ballot rules and certification dates."
 type: explainer
 publishedAt: "2026-10-21T00:30:00-04:00"
-updatedAt: "2026-11-03T12:48:00-05:00"
+updatedAt: "2026-11-04T01:20:00-05:00"
 authors: [christina-gerland]
 category: elections
 keywords: ["when will we know election results 2026", "when will election results start coming in", "2026 midterm results timeline", "election results by state 2026", "when are election results certified"]
@@ -21,7 +21,7 @@ summary:
   - "Close races can take days, and ranked-choice tallies in Maine and Alaska come later. Georgia holds runoffs, if needed, on Dec. 1."
 faq:
   - q: "When will we know who won the 2026 midterms?"
-    a: "Many races are projected on election night, Nov. 3, 2026, but close contests and states that count mail ballots slowly can take days. Control of the House or Senate may not be clear until enough close races are called, and official results come only when states certify, mostly in late November and December."
+    a: "Many races were projected on election night, Nov. 3, 2026, but close contests and states that count mail ballots slowly can take days. Control of the House or Senate may not be clear until enough close races are called, and official results come only when states certify, mostly in late November and December."
   - q: "Why do election results change after election night?"
     a: "Election-night totals are unofficial and grow as officials add mail ballots, provisional ballots and overseas ballots, according to the U.S. Election Assistance Commission. In some states, ballots postmarked by Election Day can still arrive and be counted for several days."
   - q: "Who declares the winner of an election?"
@@ -55,6 +55,14 @@ sources:
     url: "https://news.bloomberglaw.com/us-law-week/supreme-court-says-mail-ballots-can-arrive-after-election-day"
     publisher: "Bloomberg Law"
     date: "2026-06-29"
+  - title: "Election Results | Official Voter Information Guide | California Secretary of State"
+    url: "https://voterguide.sos.ca.gov/voter-info/election-results.htm"
+    publisher: "California Secretary of State"
+    date: "2026-11-04"
+  - title: "Mail ballot signature cure notice, 2026 general election"
+    url: "https://www.clarkcountynv.gov/adobe/assets/urn:aaid:aem:49388c5e-e4e8-4d0d-b850-be1f8290f71f/original/as/mbsigcure-26g.pdf"
+    publisher: "Clark County (Nevada) Election Department"
+    date: "2026-11-04"
   - title: "Carrier envelope and mail ballot return"
     url: "https://www.votetexas.gov/voting-by-mail/carrier-envelope.html"
     publisher: "Texas Secretary of State (VoteTexas.gov)"
@@ -78,15 +86,21 @@ downloads:
 draft: false
 ---
 
-**The first results arrive minutes after polls close on Tuesday, Nov. 3, 2026, but they are unofficial, and in some states the count runs for days.** Election-night totals keep changing as officials add mail, provisional and overseas ballots, the U.S. Election Assistance Commission says. News organizations project winners when the trailing candidate can no longer catch up; states make results official later, through the canvass and certification. How fast each state reports depends mostly on its mail-ballot rules, which are laid out below for 17 states.
+**The first results arrived minutes after polls closed on Tuesday, Nov. 3, 2026, but they are unofficial, and in some states the count runs for days.** Election-night totals keep changing as officials add mail, provisional and overseas ballots, the U.S. Election Assistance Commission says. News organizations project winners when the trailing candidate can no longer catch up; states make results official later, through the canvass and certification. How fast each state reports depends mostly on its mail-ballot rules, which are laid out below for 17 states.
+
+## Where the 2026 count stands on Wednesday, Nov. 4
+
+Election-night totals are unofficial, and counting continues on Wednesday, Nov. 4. It goes on in states that accept late mail ballots (Texas until 5 p.m. Nov. 4, Nevada until 5 p.m. Nov. 7, California and New York through Nov. 10) and in ranked-choice states such as Maine and Alaska. California's Secretary of State says "in the days afterwards, the results will be updated each day throughout the canvass as counties count the remaining ballots," and that official certified results "will be posted by December 11, 2026." In Clark County, Nevada, voters can fix a mail ballot signature problem until 5 p.m. on Nov. 9, according to the county Election Department.
+
+We could not confirm from most state election offices how many ballots remain to be counted, and we have no confirmation that any state has finished counting. Check your state's election office through our [live blog](/news/election-day-2026-results-map/) for the latest.
 
 We are tracking the returns state by state in our [Election Night 2026 live blog](/news/election-day-2026-results-map/), with a results map, a scoreboard and a link to every state's election office.
 
 ## When do election results start coming in?
 
-The first results arrive at 6 p.m. Eastern Time (ET) on Tuesday, Nov. 3, when polls close in most of Indiana and Kentucky, and the flow builds as each state's polls close. No state releases results before its own polls close.
+The first results came at 6 p.m. Eastern Time (ET) on Tuesday, Nov. 3, when polls closed in most of Indiana and Kentucky, and the flow built as each state's polls closed. No state releases results before its own polls close.
 
-| Eastern Time | Polls close in |
+| Eastern Time | Polls closed in |
 |---|---|
 | 6 p.m. | Most of Indiana and Kentucky |
 | 7 p.m. | Florida, Georgia, South Carolina, Vermont, Virginia |
@@ -157,4 +171,4 @@ In Watson v. Republican National Committee, decided June 29, 2026, the U.S. Supr
 
 You can follow these dates on our [November](/november-calendars.html) and [December](/december-calendars.html) printable calendars.
 
-Louisiana holds December runoffs for races in which no candidate wins a majority; check dates with the Louisiana Secretary of State. Follow every Senate and governor's race with our [2026 midterm tracker](/news/2026-midterm-elections-whats-on-the-ballot-results-tracker/) and the free printable below, which lists each race with its poll closing time in ET. Before you vote, find your [sample ballot by ZIP code](/news/sample-ballot-by-zip-code-2026-texas-ballot/), and see [whether Election Day is a holiday](/news/is-election-day-a-holiday-2026-whats-open/) where you live.
+Louisiana holds December runoffs for races in which no candidate wins a majority; check dates with the Louisiana Secretary of State. Follow every Senate and governor's race with our [2026 midterm tracker](/news/2026-midterm-elections-whats-on-the-ballot-results-tracker/) and the free printable below, which lists each race with its poll closing time in ET. For future elections, find your [sample ballot by ZIP code](/news/sample-ballot-by-zip-code-2026-texas-ballot/), and see [whether Election Day is a holiday](/news/is-election-day-a-holiday-2026-whats-open/) where you live.

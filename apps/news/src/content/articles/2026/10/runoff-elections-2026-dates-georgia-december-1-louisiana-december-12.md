@@ -4,7 +4,7 @@ seoTitle: "Runoff Election 2026 Dates: Georgia and Louisiana"
 description: "Georgia's runoff, if needed, is Tuesday, Dec. 1, 2026; Louisiana's second round is Saturday, Dec. 12. Deadlines for each state, with a printable."
 type: news
 publishedAt: "2026-10-30T19:45:00-04:00"
-updatedAt: "2026-11-02T14:10:00-05:00"
+updatedAt: "2026-11-04T01:24:00-05:00"
 authors: [christina-gerland]
 category: elections
 keywords: ["runoff election 2026 dates", "georgia runoff 2026 date", "when is the georgia runoff", "louisiana december 12 election"]
@@ -50,16 +50,16 @@ summary:
   - "Georgia's General Election Runoff, if needed, is Tuesday, Dec. 1, 2026, four weeks after the Nov. 3 election. Early voting is Monday, Nov. 23 to Wednesday, Nov. 25."
   - "Louisiana's second round is Saturday, Dec. 12, with early voting from Nov. 28 to Dec. 5, except Sunday, Nov. 29."
   - "Mississippi holds runoffs on Tuesday, Dec. 1, if required, for judge and school board races."
-  - "The registration deadline for the Georgia and Mississippi runoffs is today, Monday, Nov. 2, the day before the general election."
+  - "The registration deadline for the Georgia and Mississippi runoffs was Monday, Nov. 2, the day before the general election."
 faq:
   - q: "When is the Georgia runoff in 2026?"
     a: "Tuesday, Dec. 1, 2026, if one is required. georgia.gov lists it as the General Election Runoff."
   - q: "What is the deadline to register for the Georgia runoff?"
-    a: "Monday, Nov. 2, 2026, which is today, according to georgia.gov. Confirm your status with your county registrar."
+    a: "Monday, Nov. 2, 2026, which has passed, according to georgia.gov. Confirm your status with your county registrar."
   - q: "How long is early voting for the Georgia runoff?"
     a: "Monday, Nov. 23 to Wednesday, Nov. 25, 2026. georgia.gov says the window is abbreviated due to the Thanksgiving holiday."
   - q: "What happens in Louisiana on Dec. 12, 2026?"
-    a: "The Louisiana Secretary of State lists Saturday, Dec. 12 as the Open U.S. Representative General, Open General and a Special Primary for the 14th State Senatorial District only."
+    a: "The Louisiana Secretary of State lists Saturday, Dec. 12 as the Open U.S. Representative General, Open General and a Special Primary for State Senator, 14th Senatorial District, Parish of East Baton Rouge."
   - q: "Is there a general election runoff in Alabama?"
     a: "The Alabama Secretary of State lists runoffs for primaries, and the 2026 primary runoff was June 16. No general election runoff is listed."
 sources:
@@ -129,18 +129,18 @@ downloads:
 draft: false
 ---
 
-**Georgia's General Election Runoff, if one is required, is Tuesday, Dec. 1, 2026, according to georgia.gov, and Louisiana's second round is Saturday, Dec. 12, according to the Louisiana Secretary of State.** Mississippi also lists Dec. 1 as a runoff day for judge and school board races. Every deadline below comes from those state calendars, and a runoff happens only if no race on the ballot is decided on Nov. 3 under the state's rules.
+**Georgia's General Election Runoff, if one is required, is Tuesday, Dec. 1, 2026, according to georgia.gov, and Louisiana's second round is Saturday, Dec. 12, according to the Louisiana Secretary of State.** Mississippi also lists Dec. 1 as a runoff day for judge and school board races. Every deadline below comes from those state calendars, and a runoff happens only if no race on the ballot is decided on Nov. 3 under the state's rules. As of Wednesday morning, Nov. 4, neither the Georgia nor the Louisiana election office had said which Nov. 3 contests need a runoff, and results stay unofficial until counties certify.
 
 ## Runoff and second-round dates by state
 
 | Milestone | Georgia | Louisiana | Mississippi |
 |---|---|---|---|
-| Election Nov. 3 | General election | Open U.S. Representative Primary/Open Primary | General election |
-| Register to vote | Mon., Nov. 2 | Thu., Nov. 12 (in person or by mail); Sat., Nov. 21 (online, GeauxVote) | Mon., Nov. 2 |
-| Request a mail or absentee ballot | Fri., Nov. 20 | Tue., Dec. 8 | Not covered here |
+| Election Nov. 3 | General election | U.S. Senate (General), U.S. Representative (Open Primary) | General election |
+| Register to vote | Mon., Nov. 2 | Thu., Nov. 12 (in person, by mail or at an Office of Motor Vehicles (OMV) office); Sat., Nov. 21 (online, GeauxVote) | Mon., Nov. 2 |
+| Request a mail or absentee ballot | Fri., Nov. 20 | Tue., Dec. 8, 4:30 p.m. | Not covered here |
 | Early or in-person absentee voting | Mon., Nov. 23-Wed., Nov. 25 | Sat., Nov. 28-Sat., Dec. 5 (no Sunday, Nov. 29), 8:30 a.m. to 6 p.m. | In-person absentee ends Sat., Nov. 28 at noon |
 | Runoff or second-round day | Tue., Dec. 1 (if required) | Sat., Dec. 12 | Tue., Dec. 1 (if required), polls open 7 a.m. to 7 p.m. |
-| Mail ballot must arrive | 7 p.m. on Dec. 1 | Fri., Dec. 11 | Tue., Dec. 8 at 5 p.m. if postmarked by Dec. 1 |
+| Mail ballot must arrive | 7 p.m. on Dec. 1 | Fri., Dec. 11, 4:30 p.m. | Tue., Dec. 8 at 5 p.m. if postmarked by Dec. 1 |
 
 Dates come from georgia.gov, the Louisiana Secretary of State's 2026 elections calendar (revised July 2026) and the Mississippi Secretary of State's 2026 elections calendar (revised Sept. 8, 2026). You can mark them on our [November 2026 printable calendar](/november-calendars.html) and [December 2026 printable calendar](/december-calendars.html).
 
@@ -148,7 +148,7 @@ Dates come from georgia.gov, the Louisiana Secretary of State's 2026 elections c
 
 georgia.gov lists the General Election Runoff for Tuesday, Dec. 1, 2026, if needed. That is four weeks after the Nov. 3 election. The state's page does not give poll hours for the runoff, so check with your county election office.
 
-- **Register:** georgia.gov says Monday, Nov. 2, today, "is the last day eligible Georgians can register to vote in the Runoff Election, if one is required." Confirm your status with your county registrar.
+- **Register:** georgia.gov says Monday, Nov. 2 "is the last day eligible Georgians can register to vote in the Runoff Election, if one is required." That deadline has passed; confirm your status with your county registrar.
 - **Absentee ballot:** the last day to request one is Friday, Nov. 20. Absentee ballots must be received by 7 p.m. on Dec. 1.
 - **Early voting:** Monday, Nov. 23 to Wednesday, Nov. 25. georgia.gov calls it "a very short early voting window, abbreviated due to the Thanksgiving holiday."
 
@@ -160,21 +160,21 @@ The Brennan Center for Justice, in an analysis updated Oct. 13, 2026, cites Offi
 
 ## What is Louisiana's Dec. 12 election?
 
-The Louisiana Secretary of State's calendar names Nov. 3 the "Open U.S. Representative Primary/Open Primary." It names Saturday, Dec. 12 the "Open U.S. Representative General/Open General/Special Primary (14th State Senatorial District Only)." Dec. 12 is the second round in Louisiana's open system. The calendar adds a note: "Per Act 7 of the 2026 Regular Session, U.S. Representative is no longer considered a closed party office."
+The Louisiana Secretary of State's Election Dates page lists Nov. 3 as "U.S. Senate (General), U.S. Representative (Open Primary)." It names Saturday, Dec. 12 the "Open U.S. Representative General/Open General/Special Primary (State Senator, 14th Senatorial District, Parish of East Baton Rouge) Election." Dec. 12 is the second round in Louisiana's open system. The calendar adds a note: "Per Act 7 of the 2026 Regular Session, U.S. Representative is no longer considered a closed party office."
 
 | Louisiana deadline for Dec. 12 | Date |
 |---|---|
-| Register in person or by mail | Thu., Nov. 12 |
+| Register in person, by mail or at an Office of Motor Vehicles (OMV) office | Thu., Nov. 12 |
 | Register online (GeauxVote) | Sat., Nov. 21 |
 | Early voting, 8:30 a.m. to 6 p.m. | Sat., Nov. 28-Sat., Dec. 5, except Sun., Nov. 29 |
-| Request a mail ballot | Tue., Dec. 8 |
-| Mail ballot must be received | Fri., Dec. 11 |
+| Request a mail ballot | Tue., Dec. 8, by 4:30 p.m. |
+| Mail ballot must be received | Fri., Dec. 11, by 4:30 p.m. |
 
 Louisiana readers can also look at our [Louisiana sample ballot guide](/news/louisiana-sample-ballot-2026-senate-amendments/) for the Nov. 3 ballot.
 
 ## What is on the Mississippi runoff calendar for Dec. 1?
 
-The Mississippi Secretary of State lists Tuesday, Dec. 1 as "General Election/Special Election Runoff Day (if required) for Mississippi Supreme Court, Court of Appeals, Chancery, Circuit, and County Court Judges; School Board Members/Trustees," with polls open 7 a.m. to 7 p.m. The runoff registration deadline is today, Nov. 2. In-person absentee voting ends Saturday, Nov. 28 at noon. Mail ballots must be postmarked by runoff day and received by Dec. 8 at 5 p.m.
+The Mississippi Secretary of State lists Tuesday, Dec. 1 as "General Election/Special Election Runoff Day (if required) for Mississippi Supreme Court, Court of Appeals, Chancery, Circuit, and County Court Judges; School Board Members/Trustees," with polls open 7 a.m. to 7 p.m. The runoff registration deadline was Nov. 2. In-person absentee voting ends Saturday, Nov. 28 at noon. Mail ballots must be postmarked by runoff day and received by Dec. 8 at 5 p.m.
 
 ## Do Texas and Alabama have general election runoffs?
 
