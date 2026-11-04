@@ -1,7 +1,7 @@
 ---
 title: "Cy-Fair ISD Calendar 2026-27: Thanksgiving, Winter Break and Spring Break March 15-19"
 seoTitle: "Cy-Fair ISD Calendar 2026-27: Breaks and Days Off"
-description: "Cypress-Fairbanks Independent School District (CFISD) 2026-27: Thanksgiving break Nov. 23-27, winter break Dec. 21-Jan. 1, spring break March 15-19, last day May 27."
+description: "Cypress-Fairbanks Independent School District (CFISD) 2026-27: Thanksgiving Nov. 23-27, winter break Dec. 21-Jan. 1, spring break March 15-19, last day May 27."
 type: explainer
 publishedAt: "2026-11-03T20:40:00-05:00"
 authors: [aaron-kessler]
