@@ -4,6 +4,7 @@ seoTitle: "Thanksgiving Parades 2026: City Start Times and TV"
 description: "Detroit's 100th Thanksgiving parade steps off 8:45 a.m. Eastern Time (ET) Nov. 26, 2026; Houston's is 9 a.m. Central Time (CT), Philadelphia's 8:30 a.m. ET."
 type: news
 publishedAt: "2026-10-30T13:50:00-04:00"
+updatedAt: "2026-11-04T13:21:00-05:00"
 authors: [christina-gerland]
 category: holidays
 keywords: ["thanksgiving parades 2026", "detroit thanksgiving parade 2026 time", "houston thanksgiving parade 2026", "philadelphia thanksgiving parade 2026", "plymouth thanksgiving parade 2026"]
@@ -46,6 +47,10 @@ sources:
     url: "https://www.michigan.gov/mvaa/events/2026/11/26/detroit-100th-americas-thanksgiving-parade"
     publisher: "State of Michigan"
     date: "2026-10-30"
+  - title: "2026 Grand Marshal, City of Houston Thanksgiving Day Parade"
+    url: "https://www.houstontx.gov/thanksgivingparade/grand-marshal.html"
+    publisher: "City of Houston"
+    date: "2026-11-04"
   - title: "City of Houston Thanksgiving Day Parade"
     url: "https://www.houstontx.gov/thanksgivingparade/"
     publisher: "City of Houston"
@@ -127,7 +132,7 @@ This story covers the parades other than Macy's, which is in our [Thanksgiving 2
 | City and parade | Date | Step-off | Route | Channel | What is confirmed for 2026 |
 |---|---|---|---|---|---|
 | Detroit, America's Thanksgiving Parade, 100th | Thu., Nov. 26 | 8:45 a.m. ET | Woodward Avenue, Kirby to Congress, about three miles | WDIV Local 4; stream at clickondetroit.com | Date, 100th edition and start time are on the organizer's pages; the 2026 syndication list is due the week of Nov. 23 |
-| Houston, H-E-B Thanksgiving Day Parade, 77th | Thu., Nov. 26 | 9:00 a.m. CT | Downtown; 2026 route not yet posted | Not yet posted | Date, time and 77th edition are on the city page; the city site links only a 2025 route map |
+| Houston, H-E-B Thanksgiving Day Parade, 77th | Thu., Nov. 26 | 9:00 a.m. CT | Downtown; 2026 route not yet posted | Not yet posted | Date, time, 77th edition and grand marshal (Lizzo) are on the city's pages; the city site links only a 2025 route map |
 | Philadelphia, 6abc Dunkin' Thanksgiving Day Parade | Thu., Nov. 26 | 8:30 a.m. ET | 20th Street and John F. Kennedy Boulevard to the Philadelphia Museum of Art | Not yet posted for 2026 (2025: 6abc) | Date, time and route are on Visit Philadelphia's 2026 page; closures not yet posted |
 | Chicago Thanksgiving Parade, 92nd | Thu., Nov. 26 | 7:45 a.m. or 8 a.m. CT | Not posted for 2026 | Not yet posted | Only the date and edition, from Choose Chicago; its two pages disagree on the time |
 | Plymouth, Mass., America's Hometown Thanksgiving Parade | Sat., Nov. 21 | Not yet announced | Historic Plymouth Waterfront, Water Street | Channel 5 Boston, per the organizer's site | Date, theme and location are in the organizer's press release |
@@ -139,11 +144,13 @@ Houston's 9:00 a.m. CT is 10:00 a.m. ET, our conversion. Last year's values are 
 
 The Parade Company's visitor page says the parade steps off at Kirby and Woodward at 8:45 a.m. and covers about three miles along Woodward Avenue from Kirby to Congress. Its parade page calls the event "America's Thanksgiving Parade presented by Gardner White" and says the 100th parade is on Thursday, Nov. 26, 2026. The 99th was in 2025. The State of Michigan's event listing also gives Nov. 26, 2026 for the 100th parade.
 
+The visitor page lists these street closures: Woodward Avenue between West Grand Boulevard and Warren closes at 9 a.m. on Wednesday, Nov. 25, and Woodward from Warren to Congress closes at noon that day. On Thanksgiving Day, Woodward from West Grand Boulevard to Larned is closed completely from 5 a.m. to 4 p.m.
+
 On TV, the visitor page lists WDIV Local 4 and a stream at clickondetroit.com. The 2026 syndication list is "due the week of November 23, 2026," so stations outside Detroit are not yet announced. In 2025, the organizer said the parade stepped off at 8:45 a.m. on Nov. 27 at Woodward and Kirby and ended at Woodward and Congress.
 
 ## When does the Houston Thanksgiving parade roll in 2026?
 
-The City of Houston says the 77th annual H-E-B Thanksgiving Day Parade is "rolling through downtown again on Thursday, November 26th, 2026, at 9:00 am." Houston is on Central Time. The city page does not give a 2026 route or a TV channel, and it links only a 2025 route map, so both are not yet posted.
+The City of Houston says the 77th annual H-E-B Thanksgiving Day Parade is "rolling through downtown again on Thursday, November 26th, 2026, at 9:00 am." Houston is on Central Time. The city's grand marshal page names Lizzo as the 2026 grand marshal. The city page does not give a 2026 route or a TV channel, and it links only a 2025 route map, so both are not yet posted.
 
 ## What is the Philadelphia parade route and start time?
 
