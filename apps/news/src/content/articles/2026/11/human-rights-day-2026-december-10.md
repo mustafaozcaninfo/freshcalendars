@@ -114,7 +114,15 @@ internalLinks:
   - href: "/printable-weekly-calendar.html"
     label: "Printable weekly calendar"
 related: [bill-of-rights-day-2026-december-15, christmas-jumper-day-2026-thursday-10-december-planner, international-volunteer-day-2026-december-5]
-downloads: []
+downloads:
+  - group: "Human Rights Day 2026 printables"
+    title: "Human Rights Day 2026: The 30 Articles Checklist"
+    description: "Free one-page Human Rights Day 2026 checklist: the Dec. 10 date and a tick box for each of the 30 articles of the Universal Declaration of Human Rights."
+    preview: ../../../../assets/news/human-rights-day-2026/human-rights-day-2026-30-articles-checklist.png
+    alt: "Printable Human Rights Day 2026 checklist with the Dec. 10 date and a tick box for each of the 30 articles"
+    pdf: "/news/downloads/human-rights-day-2026/human-rights-day-2026-30-articles-checklist.pdf"
+    png: "/news/downloads/human-rights-day-2026/human-rights-day-2026-30-articles-checklist.png"
+    pages: 1
 draft: false
 ---
 
@@ -124,7 +132,7 @@ draft: false
 
 The UN says the Declaration "was proclaimed by the United Nations General Assembly in Paris on 10 December 1948." The UN's page on the Declaration refers to "the 30 Articles of the Universal Declaration of Human Rights" and says the text "has been translated into over 500 languages."
 
-Older counts are lower. Guinness World Records lists it as the "Most translated document," "translated into 370 languages and dialects ... as of 2009." The two figures measure different years, so they do not conflict.
+An older count is lower: Guinness World Records lists it as the "Most translated document," "translated into 370 languages and dialects ... as of 2009." The two figures measure different years, so they do not conflict.
 
 The UN Dag Hammarskjöld Library says the drafting group began its work in February 1947 and lists Eleanor Roosevelt among its members.
 
