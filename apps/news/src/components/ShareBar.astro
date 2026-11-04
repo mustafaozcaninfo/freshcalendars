@@ -4,15 +4,17 @@
  * (in the story page). Icons come from the page's ShareIcons sprite, in each brand's own color.
  * Pinterest pins `image` (a story's first printable, else its hero); Bluesky takes the link inside
  * the post text. Share endpoints are rel="nofollow": they are actions, not pages to rank.
+ * Copy link and the three networks readers of printables use most stay in view; the rest open
+ * from a "+4" toggle (details/:has, no script), so the row is four buttons instead of eight.
  */
 interface Props { url: string; title: string; image: string; compact?: boolean }
 const { url, title, image, compact = false } = Astro.props;
 const u = encodeURIComponent(url), t = encodeURIComponent(title);
 const nets = [
-  { id: "facebook", name: "Facebook", href: `https://www.facebook.com/sharer/sharer.php?u=${u}` },
+  { id: "facebook", main: true, name: "Facebook", href: `https://www.facebook.com/sharer/sharer.php?u=${u}` },
   { id: "x", name: "X", href: `https://x.com/intent/tweet?url=${u}&text=${t}` },
-  { id: "pinterest", name: "Pinterest", href: `https://www.pinterest.com/pin/create/button/?url=${u}&media=${encodeURIComponent(image)}&description=${t}` },
-  { id: "whatsapp", name: "WhatsApp", href: `https://wa.me/?text=${encodeURIComponent(`${title} ${url}`)}` },
+  { id: "pinterest", main: true, name: "Pinterest", href: `https://www.pinterest.com/pin/create/button/?url=${u}&media=${encodeURIComponent(image)}&description=${t}` },
+  { id: "whatsapp", main: true, name: "WhatsApp", href: `https://wa.me/?text=${encodeURIComponent(`${title} ${url}`)}` },
   { id: "reddit", name: "Reddit", href: `https://www.reddit.com/submit?url=${u}&title=${t}` },
   { id: "bluesky", name: "Bluesky", href: `https://bsky.app/intent/compose?text=${encodeURIComponent(`${title} ${url}`)}` },
 ];
@@ -22,9 +24,10 @@ const nets = [
   <ul>
     <li><button type="button" class="copy" data-url={url} aria-label="Copy link to this story"><svg class="ico" aria-hidden="true"><use href="#si-link" /></svg><span class="lbl">Copy link</span></button></li>
     {nets.map((n) => (
-      <li><a class={`net ${n.id}`} href={n.href} rel="noopener nofollow" target="_blank" aria-label={`Share on ${n.name} (opens in a new tab)`} title={`Share on ${n.name}`}><svg class="ico" aria-hidden="true"><use href={`#si-${n.id}`} /></svg><span class="lbl">{n.name}</span></a></li>
+      <li class={n.main ? undefined : "extra"}><a class={`net ${n.id}`} href={n.href} rel="noopener nofollow" target="_blank" aria-label={`Share on ${n.name} (opens in a new tab)`} title={`Share on ${n.name}`}><svg class="ico" aria-hidden="true"><use href={`#si-${n.id}`} /></svg><span class="lbl">{n.name}</span></a></li>
     ))}
-    <li><a class="net mail" href={`mailto:?subject=${t}&body=${u}`} aria-label="Share by email" title="Share by email"><svg class="ico" aria-hidden="true"><use href="#si-mail" /></svg><span class="lbl">Email</span></a></li>
+    <li class="extra"><a class="net mail" href={`mailto:?subject=${t}&body=${u}`} aria-label="Share by email" title="Share by email"><svg class="ico" aria-hidden="true"><use href="#si-mail" /></svg><span class="lbl">Email</span></a></li>
+    <li class="more-li"><details class="more-nets"><summary aria-label="More ways to share" title="More ways to share"><span aria-hidden="true">+4</span></summary></details></li>
     <li><button type="button" class="native" hidden data-url={url} data-title={title} aria-label="More ways to share"><svg class="ico" aria-hidden="true"><use href="#si-share" /></svg><span class="lbl">More</span></button></li>
   </ul>
 </div>
@@ -42,6 +45,14 @@ const nets = [
   .share a:hover,.share button:hover,.share a:focus-visible,.share button:focus-visible{border-color:var(--c);box-shadow:0 3px 10px rgba(16,24,40,.12);transform:translateY(-1px)}
   .share :focus-visible{outline:3px solid var(--gold);outline-offset:2px}
   .share [hidden],.share li:has(> [hidden]){display:none}
+  .share li.extra{display:none}
+  .share ul:has(details[open]) li.extra{display:list-item}
+  .share ul:has(details[open]) li.more-li{display:none}
+  .more-nets summary{display:inline-flex;align-items:center;justify-content:center;min-width:44px;min-height:44px;padding:0 .8rem;border:1px solid var(--line);border-radius:999px;background:#fff;color:var(--ink-strong);font-size:.88rem;font-weight:700;cursor:pointer;list-style:none}
+  .more-nets summary::-webkit-details-marker{display:none}
+  .more-nets summary:focus-visible{outline:3px solid var(--gold);outline-offset:2px}
+  :global(html[data-theme=dark]) .more-nets summary{background:var(--surface-soft)}
+  @supports not selector(:has(*)){ .share li.extra{display:list-item} .share li.more-li{display:none} }
   .share button.done{--c:#1a7f5a;border-color:#1a7f5a;color:#1a7f5a}
   /* Phones and the sidebar: round icon buttons; the label stays for screen readers via aria-label. */
   @media (max-width:560px){

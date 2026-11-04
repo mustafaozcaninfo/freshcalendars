@@ -323,8 +323,6 @@ import NewsBar from "./NewsBar.astro";
 .concept-latest :global(img){height:100%;min-height:90px;width:100%;object-fit:cover}
 .concept-latest a>div{padding:8px 10px 8px 0;align-self:center;min-width:0}
 .story-category{font-size:13px;text-transform:uppercase;color:var(--cat);background:color-mix(in srgb,var(--cat) 8%,var(--paper));padding:3px 5px;border-radius:3px}
-/* Category colors are tuned for dark mode; on white they fell to 2.8-3.5:1 at 13px, so light mode darkens them to pass 4.5:1. */
-:root:not([data-theme=dark]) .story-category,:root:not([data-theme=dark]) .latest .cat a{color:color-mix(in srgb,var(--cat) 72%,#000)!important}
 .concept-latest h2{font-size:17px;line-height:1.35;margin:6px 0;color:var(--ink-strong);display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden}
 .concept-latest time{font-size:13px;color:var(--muted)}
 .trending-heading{display:flex;justify-content:space-between;align-items:center;margin-bottom:12px}

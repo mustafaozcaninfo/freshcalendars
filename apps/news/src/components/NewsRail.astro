@@ -1,20 +1,50 @@
 ---
+/**
+ * Left rail of the news listing pages. Each section wears its category color: a colored mark,
+ * the current section tinted in its own color with a side bar, and a "new" count for stories
+ * published in the last 24 hours (counted at build; the site rebuilds on every push). The closing
+ * card points to the calendar page that fits the section being read.
+ */
+import { iconHtml } from "@freshcalendars/site-chrome";
 import { getActiveCategories, getPublishedArticles, categoryHref } from "../lib/articles";
 interface Props { path: string }
 const { path } = Astro.props;
-const categories = await getActiveCategories(await getPublishedArticles());
+const articles = await getPublishedArticles();
+const categories = await getActiveCategories(articles);
 const selected = (href: string) => href === "/news/" ? path === href : path.startsWith(href);
-const basics = [["Latest stories", "/news/"], ["Free printables", "/news/printables/"], ["Story archive", "/news/archive/"], ["Calendar library", "/calendars/"]];
-const policies = [["About the newsroom", "/news/about/"], ["Our editors", "/news/masthead/"], ["Editorial policy", "/news/editorial-policy/"], ["Corrections", "/news/corrections-policy/"]];
+const dayAgo = Date.now() - 864e5;
+const fresh = new Map<string, number>();
+for (const a of articles) if (a.data.publishedAt.getTime() >= dayAgo) fresh.set(a.data.category.id, (fresh.get(a.data.category.id) ?? 0) + 1);
+const basics = [["list", "Latest stories", "/news/"], ["download", "Free printables", "/news/printables/"], ["archive", "Story archive", "/news/archive/"], ["tools", "Calendar library", "/calendars/"]];
+const policies = [["info", "About the newsroom", "/news/about/"], ["news", "Our editors", "/news/masthead/"], ["check", "Editorial policy", "/news/editorial-policy/"], ["pdf", "Corrections", "/news/corrections-policy/"]];
+const current = /^\/news\/category\/([^/]+)\//.exec(path)?.[1];
+const notes: Record<string, [string, string, string, string]> = {
+  holidays: ["Every holiday, one list", "Dates and weekdays for every US holiday this year.", "/holidays/", "US holidays list →"],
+  "school-calendars": ["Mark the breaks", "Print a school-year calendar and add your district's dates.", "/printable-school-calendar.html", "School year calendar →"],
+  "time-change": ["Both clock changes", "Spring forward and fall back dates, with a printable reminder.", "/page/daylight-savings/", "Daylight saving guide →"],
+  "uk-canada": ["UK and Canada dates", "Bank holidays and statutory holidays for the year.", "/uk-holidays/", "UK bank holidays →"],
+  "sky-events": ["Plan the night sky", "Note meteor peaks and moon phases on this month's page.", "/monthly-calendars/", "Monthly calendars →"],
+  puzzles: ["Plan the week", "A printable weekly planner for the days ahead.", "/printable-weekly-calendar.html", "Weekly planner →"],
+};
+const note = (current && notes[current]) ?? ["Make room for your next plan.", "Put the dates from this section on a printable month.", "/monthly-calendars/", "Monthly calendars →"];
 ---
 <aside class="news-rail" aria-label="News directory">
-  <section><h2>Explore</h2><nav>{basics.map(([label, href]) => <a href={href} aria-current={selected(href!) ? "page" : undefined}>{label}</a>)}</nav></section>
-  <section><h2>Topics & sections</h2><nav>{categories.map(c => <a href={categoryHref(c.id)} aria-current={selected(categoryHref(c.id)) ? "page" : undefined}><span class="section-dot" data-cat={c.id}></span>{c.data.name}</a>)}</nav></section>
-  <section><h2>Our newsroom</h2><nav>{policies.map(([label, href]) => <a href={href} aria-current={selected(href!) ? "page" : undefined}>{label}</a>)}</nav></section>
-  <div class="news-rail-note"><b>Make room for your next plan.</b><p>Download a calendar, follow a date, or find a useful printable.</p><a href="/calendar-tools/">Try our calendar tools →</a></div>
+  <section><h2>Explore</h2><nav>{basics.map(([icon, label, href]) => <a href={href} aria-current={selected(href!) ? "page" : undefined}><Fragment set:html={iconHtml(icon!)} />{label}</a>)}</nav></section>
+  <section><h2>Topics & sections</h2><nav class="cats">{categories.map(c => <a href={categoryHref(c.id)} data-cat={c.id} aria-current={selected(categoryHref(c.id)) ? "page" : undefined}><span class="section-dot" aria-hidden="true"></span><span class="nm">{c.data.name}</span>{fresh.get(c.id) ? <span class="new" title={`${fresh.get(c.id)} new in the last 24 hours`}>{fresh.get(c.id)} new</span> : null}</a>)}</nav></section>
+  <section><h2>Our newsroom</h2><nav>{policies.map(([icon, label, href]) => <a href={href} aria-current={selected(href!) ? "page" : undefined}><Fragment set:html={iconHtml(icon!)} />{label}</a>)}</nav></section>
+  <div class="news-rail-note"><b>{note[0]}</b><p>{note[1]}</p><a href={note[2]}>{note[3]}</a></div>
 </aside>
 <style>
 .news-rail{border-right:1px solid var(--line-soft);padding:27px 18px 30px 0;min-height:calc(100vh - 66px)}.news-rail section{margin-bottom:25px}.news-rail h2{font-size:13px;font-weight:700;text-transform:uppercase;letter-spacing:.08em;color:var(--muted);margin:0 10px 9px}.news-rail nav{display:grid;gap:3px}.news-rail nav a{display:flex;align-items:center;gap:8px;font-size:14px;line-height:1.4;min-height:35px;padding:8px 10px;border-radius:6px;color:var(--ink-strong)!important;text-decoration:none}.news-rail nav a:hover{background:var(--surface-soft)}.news-rail nav a[aria-current=page]{color:var(--focus)!important;background:var(--surface-tint);font-weight:700}.section-dot{display:block;width:6px;height:6px;border-radius:2px;background:var(--cat);flex-shrink:0}.news-rail-note{font-size:13px;line-height:1.65;padding:13px 10px;border:1px solid var(--line);border-radius:8px;color:var(--muted)}.news-rail-note b{color:var(--ink-strong)}.news-rail-note p{margin:8px 0}.news-rail-note a{font-weight:700;font-size:13px;color:var(--focus);text-decoration:none}
+.news-rail :global(.ui-icon){width:16px;height:16px;flex-shrink:0;color:var(--muted)}
+.news-rail nav a[aria-current=page] :global(.ui-icon){color:var(--focus)}
+.news-rail .cats a{position:relative}
+.news-rail .section-dot{width:10px;height:10px;border-radius:3px;background:var(--cat);flex-shrink:0}
+.news-rail .cats .nm{flex:1;min-width:0}
+.news-rail .cats .new{flex-shrink:0;padding:1px 7px;border-radius:999px;font-size:13px;font-weight:700;line-height:1.4;color:var(--cat);background:color-mix(in srgb,var(--cat) 10%,var(--paper))}
+.news-rail .cats a:hover{background:color-mix(in srgb,var(--cat) 7%,var(--paper))}
+.news-rail .cats a[aria-current=page]{color:var(--cat)!important;background:color-mix(in srgb,var(--cat) 10%,var(--paper));box-shadow:inset 3px 0 0 var(--cat)}
+@media(min-width:701px){.news-rail{position:sticky;top:67px;align-self:start;max-height:calc(100vh - 67px);min-height:0;overflow-y:auto;overscroll-behavior:contain;scrollbar-width:thin}}
 @media(max-width:700px){.news-rail{min-height:0;border-right:0;border-bottom:1px solid var(--line);padding:12px 0}.news-rail section:first-child{margin:0}.news-rail section:not(:first-child),.news-rail h2,.news-rail-note{display:none}.news-rail nav{display:flex;gap:6px;overflow-x:auto;white-space:nowrap}.news-rail nav a{font-size:14px;border:1px solid var(--line);padding:8px 11px;min-height:32px}}
 @media print{.news-rail{display:none}}
 </style>

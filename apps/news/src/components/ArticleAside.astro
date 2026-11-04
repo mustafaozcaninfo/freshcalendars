@@ -82,7 +82,9 @@ const rails = items.length >= LONG_STORY_H2 ? 3 : items.length >= 5 ? 2 : 1;
   .toc-side ol{list-style:none;margin:0;padding:0;border-left:2px solid var(--line-soft)}
   .toc-side a{display:block;padding:.4rem 0 .4rem .85rem;margin-left:-2px;border-left:2px solid transparent;font-size:.9rem;line-height:1.35;color:var(--ink);text-decoration:none}
   .toc-side a:hover,.toc-side a:focus-visible{color:var(--focus)}
-  .toc-side a.on{border-left-color:var(--focus);color:var(--focus);font-weight:700}
+  .toc-side a.on{border-left-color:var(--cat,var(--focus));color:var(--cat,var(--focus));font-weight:700}
+  /* The section being read is marked in the story's category color. */
+  .toc-side a.on:before{background:var(--cat,var(--focus));color:var(--paper)}
   .dl{display:grid;gap:.15rem;margin:0 0 1.25rem;padding:.8rem 1rem;border:2px solid var(--gold);border-radius:8px;background:var(--surface-warm);text-decoration:none;color:var(--ink-strong)}
   .dl b{font-family:Sora,"Sora Fallback",sans-serif;font-size:.95rem}
   .dl span{font-size:.875rem;color:var(--ink)}
