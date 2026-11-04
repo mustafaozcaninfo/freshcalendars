@@ -66,7 +66,7 @@ internalLinks:
     label: "February printable calendars"
   - href: "/printable-yearly-calendar.html"
     label: "Printable yearly calendar"
-related: [why-does-february-have-28-days, how-often-does-the-calendar-repeat, calculate-age-in-days-weeks-months]
+related: [leap-day-2028-february-29-next-leap-years, why-does-february-have-28-days, calendar-act-1752-eleven-days-skipped]
 draft: false
 assets:
   overlay: true
