@@ -172,7 +172,7 @@ Runoffs follow in some states; see [the runoff dates for Georgia on Dec. 1 and L
 
 ## When do recounts happen?
 
-Recount triggers and deadlines differ by state. Those we confirmed:
+Recount triggers and deadlines differ by state. Those we confirmed are below; our story on [recount rules in six states](/news/automatic-recount-rules-2026-thresholds-deadlines-by-state/) compares the margins for Arizona, Florida, Georgia, Michigan, North Carolina and Ohio.
 
 | State | Recount rule |
 |---|---|
