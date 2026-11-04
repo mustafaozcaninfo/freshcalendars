@@ -141,6 +141,6 @@ The Consumer Financial Protection Bureau (CFPB) offers three tools in its Your M
 
 In a Feb. 25, 2019 release, the CFPB said: "Our research finds that even small amounts of liquid savings can make a big difference." That is a 2019 statement, not a 2027 target.
 
-## What did we leave out?
+## What the 2027 budget planner leaves out
 
 We print no average spending, percentages or budgeting rules, because we found no official source for them. The 2028 estimated payment appears only in the table above, because the one-page sheet covers 2027.

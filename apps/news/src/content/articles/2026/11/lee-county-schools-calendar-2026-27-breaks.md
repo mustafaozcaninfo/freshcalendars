@@ -3,7 +3,7 @@ title: "Lee County Schools Calendar 2026-27: Thanksgiving, Winter Break and Spri
 seoTitle: "Lee County Schools Calendar 2026-27 Breaks"
 description: "The School District of Lee County (Fla.) 2026-27: no school Nov. 23-27, Dec. 21-Jan. 4 and Mar. 22-29. Students return Jan. 5; the last day is May 27."
 type: explainer
-publishedAt: "2026-11-04T06:40:00-05:00"
+publishedAt: "2026-11-04T07:30:00-05:00"
 authors: [aaron-kessler]
 category: school-calendars
 keywords: ["lee county school calendar 2026-27", "lee county schools spring break 2027", "lee county schools winter break 2026", "leeschools calendar"]

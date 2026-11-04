@@ -148,6 +148,6 @@ The avalanche order finishes one month sooner and costs $223.80 less interest in
 
 Our [monthly budget planner for 2027](/news/monthly-budget-planner-2027-printable/) can show where the monthly amount comes from. Months with a third paycheck, covered in our [three-paycheck months story](/news/three-paycheck-months-2027-biweekly-payday-calendar/), and the timing in our [tax refund schedule for 2027](/news/tax-refund-schedule-2027-when-to-expect-your-refund/) are dates some readers use to plan extra payments.
 
-## What did we leave out?
+## What this debt payoff planner leaves out
 
 Our example has no fees, no promotional rates, no new purchases and no change in rates over time. The CFPB post does not say which method is better; it tells readers to choose the one that fits their situation.
