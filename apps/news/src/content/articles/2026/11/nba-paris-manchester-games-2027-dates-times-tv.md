@@ -3,7 +3,7 @@ title: "NBA Paris and Manchester Games 2027: Spurs vs. Pelicans Dates, Tip Times
 seoTitle: "NBA Paris and Manchester Games 2027: Dates and Times"
 description: "The NBA plays Spurs vs. Pelicans in Paris Thu., Jan. 14, 2027, at 2 p.m. Eastern Time (ET), then in Manchester Sun., Jan. 17, at 10:30 a.m. ET on Prime Video."
 type: news
-publishedAt: "2026-11-04T15:00:00-05:00"
+publishedAt: "2026-11-04T15:06:00-05:00"
 authors: [jessica-hartwell]
 category: sports
 keywords: ["nba paris game 2027", "nba manchester game", "spurs pelicans paris", "nba co-op live", "nba europe games 2027 tip time"]
@@ -88,7 +88,7 @@ assets:
           src: 1
           quote: ["Jan. 17: NBA Manchester Game", "San Antonio Spurs vs. New Orleans Pelicans | Co-op Live (10:30 a.m. ET, Prime Video)"]
       unconfirmed:
-        - { label: "United Kingdom broadcaster", why: "the NBA had not confirmed one as of Nov. 4, 2026" }
+        - { label: "United Kingdom broadcaster", why: "the NBA has not confirmed one" }
 downloads:
   - group: "NBA Paris and Manchester Games 2027 printables"
     title: "NBA Paris and Manchester Games 2027: Tip Times"
@@ -121,7 +121,7 @@ The Eastern times are the NBA's. The NBA does not print local times, so every ot
 | Paris, Thu., Jan. 14 | 2 p.m. | 1 p.m. | 12 p.m. | 11 a.m. | 7 p.m. | 8 p.m. |
 | Manchester, Sun., Jan. 17 | 10:30 a.m. | 9:30 a.m. | 8:30 a.m. | 7:30 a.m. | 3:30 p.m. | 4:30 p.m. |
 
-In short, the Paris game is an 8 p.m. start in Paris and the Manchester game is a 3:30 p.m. start in Manchester. Mark both on your [January 2027 printable calendar](/january-calendars.html) or your [printable weekly calendar](/printable-weekly-calendar.html).
+The Paris game is an 8 p.m. start in Paris and the Manchester game is a 3:30 p.m. start in Manchester. Mark both on your [January 2027 printable calendar](/january-calendars.html) or your [printable weekly calendar](/printable-weekly-calendar.html).
 
 ## Where can you watch the Paris and Manchester games?
 

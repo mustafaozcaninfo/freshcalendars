@@ -3,7 +3,7 @@ title: "How to Calculate Your Age in Days, Weeks and Months, With Leap Years"
 seoTitle: "Age in Days: How to Calculate Weeks, Months, Leap Years"
 description: "Someone born Jan. 1, 1960 is 24,472 days old on Jan. 1, 2027. Worked age-in-days examples for five birthdays, with leap days counted and Excel formulas."
 type: explainer
-publishedAt: "2026-11-04T15:00:00-05:00"
+publishedAt: "2026-11-04T15:08:00-05:00"
 authors: [jessica-hartwell]
 category: calendar-guides
 keywords: ["age in days", "how many days old am i", "how to calculate age in excel", "age in weeks", "leap day birthday age"]
@@ -11,7 +11,7 @@ hero:
   src: ../../../../assets/news/calculate-age-in-days-weeks-months/calculate-age-in-days-weeks-months.webp
   alt: "A birthday cake with number candles, the starting point for working out your age in days"
   caption: "File photo of a birthday cake with candles. Our worked examples count every day from five birthdays to Jan. 1, 2027."
-  credit: "PLACEHOLDER"
+  credit: "Photo: Brassluff / Wikimedia Commons, cropped, edited"
   license:
     name: "CC0"
     url: "http://creativecommons.org/publicdomain/zero/1.0/deed.en"
@@ -21,18 +21,18 @@ hero:
 summary:
   - "Born Jan. 1, 1960: 67 years, 0 months, 0 days old on Jan. 1, 2027, which is 24,472 days, or 3,496 weeks exactly, and the span holds 17 leap days."
   - "Whole years first, then whole months, then days: 365 days for each year plus one extra day for each Feb. 29 in the span."
-  - "The U.S. Naval Observatory (USNO) says 2000 was a leap year, so a person born Mar. 1, 2000 has lived 6 leap days by Jan. 1, 2027 and one born Feb. 29, 2000 has lived 6 more days than that, 9,803 in all."
-  - "Microsoft's Calculate age page uses YEAR(NOW())-YEAR(A2), which gives 47 for a June 15, 1980 birthday on Jan. 1, 2027; the real age is 46."
+  - "The U.S. Naval Observatory (USNO) rule makes 2000 a leap year, so a person born Feb. 29, 2000 has lived 9,803 days by Jan. 1, 2027, one more than a person born Mar. 1, 2000."
+  - "Microsoft's Calculate age page subtracts the birth year from the current year, which gives 47 for a June 15, 1980 birthday on Jan. 1, 2027; the real age is 46."
 faq:
   - q: "How many days old am I?"
-    a: "Subtract your birth date from today's date. In a spreadsheet, =TODAY()-A2 does it when A2 holds the birth date. By hand, count 365 days for each whole year, add one day for every Feb. 29 in between, then add the days since your last birthday."
+    a: "Subtract your birth date from today's date. In a spreadsheet, subtract the cell that holds the birth date from today's date; the formula is in the table below. By hand, count 365 days for each whole year, add one day for every Feb. 29 in between, then add the days since your last birthday."
   - q: "How do I find my age in weeks?"
-    a: "Divide your total days by 7 and drop the remainder. In a spreadsheet, =INT((TODAY()-A2)/7) does it. A person born June 15, 1980 is 17,001 days old on Jan. 1, 2027, which is 2,428 weeks and 5 days."
+    a: "Divide your total days by 7 and drop the remainder. In a spreadsheet, divide that difference by 7 and round down. A person born June 15, 1980 is 17,001 days old on Jan. 1, 2027, which is 2,428 weeks and 5 days."
   - q: "Does a leap year change my age in days?"
     a: "Yes. Each Feb. 29 between your birth date and the day you count to adds one day. From Jan. 1, 1960 to Jan. 1, 2027 there are 17 of them."
   - q: "When does a person born on Feb. 29 turn a year older in a common year?"
     a: "It depends on the place. Scotland's Age of Legal Capacity (Scotland) Act 1991, section 6(2), takes the anniversary to be Mar. 1. We found no written rule for U.S. federal law or for England and Wales, so do not assume Feb. 28 or Mar. 1 applies to a form or a contract."
-  - q: "Why does Excel DATEDIF sometimes give a wrong answer?"
+  - q: "Why does the Excel date difference function (DATEDIF) sometimes give a wrong answer?"
     a: "Microsoft says the function may calculate incorrect results in certain scenarios and does not recommend its \"MD\" argument, which may return a negative number, a zero or an inaccurate result."
 sources:
   - title: "Calculate age"
@@ -55,7 +55,7 @@ sources:
     url: "https://www.legislation.gov.uk/ukpga/1991/50/section/6"
     publisher: "legislation.gov.uk"
     date: "2026-11-04"
-  - title: "POMS GN 00302.400"
+  - title: "Program Operations Manual System, GN 00302.400"
     url: "https://secure.ssa.gov/POMS.NSF/lnx/0200302400"
     publisher: "U.S. Social Security Administration"
     date: "2026-03-04"
@@ -101,6 +101,15 @@ assets:
     note: "Source: U.S. Naval Observatory, Introduction to Calendars. Worked method and examples by Fresh Calendars, counted to Jan. 1, 2027."
     description: "One-page age in days worksheet: whole years, months and days, leap days to count, total days and weeks, with the Gregorian leap year rule."
     alt: "Printable age in days worksheet with lines for dates, a method checklist and blank tables for leap days and totals"
+downloads:
+  - group: "Age in Days Worksheet 2027 printables"
+    title: "Age in Days Worksheet 2027"
+    description: "One-page age in days worksheet: whole years, months and days, leap days to count, total days and weeks, with the Gregorian leap year rule."
+    preview: ../../../../assets/news/age-in-days-2027/age-in-days-worksheet-2027.png
+    alt: "Printable age in days worksheet with lines for dates, a method checklist and blank tables for leap days and totals"
+    pdf: "/news/downloads/age-in-days-2027/age-in-days-worksheet-2027.pdf"
+    png: "/news/downloads/age-in-days-2027/age-in-days-worksheet-2027.png"
+    pages: 1
 ---
 
 Someone born Jan. 1, 1960 is 24,472 days old on Jan. 1, 2027: 67 years of 365 days plus 17 leap days. The leap day rule comes from the U.S. Naval Observatory (USNO), which says every year divisible by four is a leap year, "except for years that are exactly divisible by 100, but these centurial years are leap years if they are exactly divisible by 400." Below are five worked birthdays, the by-hand method, the Microsoft Excel and Google Sheets formulas, and a free printable worksheet.
@@ -140,11 +149,11 @@ For June 15, 1980 to Jan. 1, 2027:
 - June 15, 2026 to Jan. 1, 2027 is 200 days.
 - 16,790 + 11 + 200 = 17,001 days.
 
-Weeks come next: 17,001 divided by 7 is 2,428 with 5 left over. Complete months are 46 x 12 + 6 = 558. For the Jan. 1, 1960 row the same steps give 67 x 365 = 24,455, plus 17 leap days (1960 through 2024), which makes 24,472. See what-is-a-leap-year for the rule and the list of leap years, and our [leap year guide](/news/what-is-a-leap-year/) for every one to 2100.
+Weeks come next: 17,001 divided by 7 is 2,428 with 5 left over. Complete months are 46 x 12 + 6 = 558. For the Jan. 1, 1960 row the same steps give 67 x 365 = 24,455, plus 17 leap days (1960 through 2024), which makes 24,472. Our [leap year guide](/news/what-is-a-leap-year/) has the rule and every leap year to 2100.
 
 ## What formulas calculate age in Excel and Google Sheets?
 
-Put the birth date in cell A2. The formulas below are ours, built from the functions Microsoft documents.
+Put the birth date in cell A2. The formulas below are ours, built from Microsoft's date difference function (DATEDIF) and plain date subtraction. They also use the today's date function (TODAY), which returns the current date, and the integer function (INT), which rounds down. Microsoft's own age formulas further down use the year function (YEAR), the current date and time function (NOW) and the month function (MONTH).
 
 | What you want | Formula | Check |
 |---|---|---|
@@ -161,7 +170,7 @@ Microsoft's separate Calculate age page gives years as `=(YEAR(NOW())-YEAR(A2))`
 
 Rules differ by place. The Age of Legal Capacity (Scotland) Act 1991, section 6(2), says: "Where a person has been born on 29th February in a leap year, the relevant anniversary in any year other than a leap year shall be taken to be 1st March." That applies in Scotland only. We found no written rule in U.S. federal law or for England and Wales.
 
-The U.S. Social Security Administration (SSA) uses a general rule in its Program Operations Manual System (POMS GN 00302.400, dated 03/04/2026): "An individual attains a particular age on the first moment of the day preceding the anniversary of his/her birth." The section does not mention Feb. 29. Check the rule that governs your form, benefit or contract before relying on either date. Total days lived does not depend on any convention, which is why the table's totals are the safest number to quote.
+The U.S. Social Security Administration (SSA) uses a general rule in its Program Operations Manual System (POMS), section GN 00302.400, dated 03/04/2026: "An individual attains a particular age on the first moment of the day preceding the anniversary of his/her birth." The section does not mention Feb. 29. Check the rule that governs your form, benefit or contract before relying on either date. Total days lived does not depend on any convention, which is why the table's totals are the safest number to quote.
 
 ## Print the age in days worksheet
 

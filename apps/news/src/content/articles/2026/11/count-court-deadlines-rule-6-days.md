@@ -3,7 +3,7 @@ title: "How to Count a Court Deadline: Federal Rule 6 and the Weekend Rule"
 seoTitle: "How to Count Court Deadline Days: Federal Rule 6"
 description: "Federal Rule of Civil Procedure (FRCP) 6(a): skip the trigger day, count every day, and move a weekend or holiday last day ahead. 2027 examples inside."
 type: explainer
-publishedAt: "2026-11-04T15:00:00-05:00"
+publishedAt: "2026-11-04T15:10:00-05:00"
 authors: [jessica-hartwell]
 category: calendar-guides
 keywords: ["how to count days for court deadline", "rule 6 computing time", "frcp rule 6(a)", "3 days added for mail service", "court deadline weekend rule"]
@@ -16,9 +16,9 @@ assets:
     slug: court-deadline-counting-worksheet-2027
     group: court-deadlines-2027
     title: "Court Deadline Counting Worksheet 2027"
-    subtitle: "Federal Rule 6(a) in three steps, with 2027 legal holidays"
+    subtitle: "Federal Rule 6(a) in three steps"
     note: "Source: Cornell Legal Information Institute copy of Federal Rule of Civil Procedure 6; U.S. Office of Personnel Management, Federal Holidays. Not legal advice; check your court's rules."
-    description: "Fill-in worksheet for counting a court deadline under Federal Rule of Civil Procedure 6(a), with the three counting steps and the 2027 legal holiday dates."
+    description: "Fill-in worksheet for counting a court deadline under Federal Rule of Civil Procedure 6(a), with the three counting steps, a blank table for 2027 dates and a check list."
     alt: "Printable court deadline counting worksheet for 2027 with a blank table for trigger date, days, raw last day and due day"
     data:
       sections:
@@ -34,11 +34,25 @@ assets:
         - { text: "Exclude the day of the event that triggers the period.", src: 1, quote: "exclude the day of the event that triggers the period;" }
         - { text: "Count every day, including intermediate Saturdays, Sundays, and legal holidays.", src: 1, quote: "count every day, including intermediate Saturdays, Sundays, and legal holidays;" }
         - { text: "Include the last day, but if it is a Saturday, Sunday, or legal holiday, run to the next day that is not.", src: 1, quote: "include the last day of the period, but if the last day is a Saturday, Sunday, or legal holiday," }
+downloads:
+  - group: "Court Deadline Counting Worksheet 2027 printables"
+    title: "Court Deadline Counting Worksheet 2027"
+    description: "Fill-in worksheet for counting a court deadline under Federal Rule of Civil Procedure 6(a), with the three counting steps, a blank table for 2027 dates and a check list."
+    preview: ../../../../assets/news/court-deadlines-2027/court-deadline-counting-worksheet-2027.png
+    alt: "Printable court deadline counting worksheet for 2027 with a blank table for trigger date, days, raw last day and due day"
+    pdf: "/news/downloads/court-deadlines-2027/court-deadline-counting-worksheet-2027.pdf"
+    png: "/news/downloads/court-deadlines-2027/court-deadline-counting-worksheet-2027.png"
+    pages: 1
 hero:
   src: ../../../../assets/news/count-court-deadlines-rule-6-days/count-court-deadlines-rule-6-days.webp
   alt: "Exterior of the Birch Bayh Federal Building and U.S. Courthouse in Indianapolis, for how to count days for a court deadline"
-  caption: "File photo from 2015 of the Birch Bayh Federal Building and U.S. Courthouse in Indianapolis, taken by Alejandro. A federal court's clerk's office follows the same Rule 6 counting."
-  credit: "Photo: Alejandro / Wikimedia Commons, cropped"
+  caption: "File photo from 2015 of the Birch Bayh Federal Building and U.S. Courthouse in Indianapolis, taken by Alejandro."
+  credit: "Photo: Alejandro / Wikimedia Commons, cropped, edited"
+  license:
+    name: "CC0"
+    url: "http://creativecommons.org/publicdomain/zero/1.0/deed.en"
+    source: "https://commons.wikimedia.org/wiki/File:Exterior_of_the_Birch_Bayh_Federal_Building_%26_U.S._Courthouse_-_2015-08-02_-_02.jpg"
+    author: "Alejandro"
 summary:
   - "Federal Rule of Civil Procedure (FRCP) 6(a) counts days in three steps: leave out the trigger day, count every day, and carry a last day on a weekend or legal holiday to the next day that is not one."
   - "Rule 6(d) adds 3 days after the period would otherwise expire when service is made by mail, by leaving the papers with the clerk, or by other means the person consented to."
@@ -128,7 +142,7 @@ We counted each period with the three steps above, treating Saturdays, Sundays a
 | Monday, May 10, 2027 | 21 days | Monday, May 31 (Memorial Day) | Tuesday, June 1 |
 | Saturday, June 5, 2027 | 14 days | Saturday, June 19 (Juneteenth) | Monday, June 21 |
 | Tuesday, Oct. 26, 2027 | 30 days | Thursday, Nov. 25 (Thanksgiving Day) | Friday, Nov. 26 |
-| Monday, March 1, 2027 (served by mail) | 14 days, plus 3 under Rule 6(d) | Monday, March 15, then Thursday, March 18 | Thursday, March 18 |
+| Monday, March 1, 2027 (served by mail) | 14 days, plus 3 under Rule 6(d) | Monday, March 15 (then 3 days added) | Thursday, March 18 |
 
 In the first row, day 1 is Friday, Feb. 19, and the 30th day is a Saturday, so the period runs to Monday. In the last row the 14 days end on Monday, March 15, and Rule 6(d) adds 3 days after that.
 
@@ -136,7 +150,7 @@ In the first row, day 1 is Friday, Feb. 19, and the 30th day is a Saturday, so t
 
 Rule 6(d) reads: "When a party may or must act within a specified time after being served and service is made under Rule 5(b)(2)(C) (mail), (D) (leaving with the clerk), or (F) (other means consented to), 3 days are added after the period would otherwise expire under Rule 6(a)." The order matters: work out the Rule 6(a) end date first, then add the 3 days.
 
-The 2016 committee note says "Rule 6(d) is amended to remove service by electronic means under Rule 5(b)(2)(E) from the modes of service." A paper served by that electronic route no longer gets the extra 3 days.
+The 2016 committee note says "Rule 6(d) is amended to remove service by electronic means under Rule 5(b)(2)(E) from the modes of service." Electronic service is therefore not on the Rule 6(d) list.
 
 ## What about Juneteenth on Saturday, June 19, 2027?
 

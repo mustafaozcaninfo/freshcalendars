@@ -1,9 +1,9 @@
 ---
 title: "The Year 2038 Problem: Why Some 32-Bit Clocks Run Out on Jan. 19, 2038"
 seoTitle: "Year 2038 Problem: Unix Time Ends Jan. 19, 2038"
-description: "A signed 32-bit Unix time counter reaches its limit at 03:14:07 Coordinated Universal Time (UTC) on Jan. 19, 2038. Times by zone, the 2106 limit and a checklist."
+description: "A signed 32-bit Unix time counter reaches its limit at 03:14:07 Coordinated Universal Time (UTC) on Jan. 19, 2038. Times by zone, the 2106 limit, a checklist."
 type: explainer
-publishedAt: "2026-11-04T15:00:00-05:00"
+publishedAt: "2026-11-04T15:09:00-05:00"
 authors: [jessica-hartwell]
 category: calendar-guides
 keywords: ["year 2038 problem", "unix time 2038", "y2038", "2038 bug date", "32-bit time_t"]
@@ -29,7 +29,7 @@ assets:
         - { text: "Unix time counts from the Epoch: 0:00:00 on Jan. 1, 1970 UTC.", src: 1, quote: "The time zero hours, zero minutes, zero seconds, on January 1, 1970 Coordinated Universal Time (UTC)." }
         - { text: "Microsoft advises against _USE_32BIT_TIME_T because an application may fail after Jan. 18, 2038.", src: 3, quote: "We don't recommend `_USE_32BIT_TIME_T` because your application may fail after January 18, 2038." }
         - { text: "glibc 2.40 widened some login-record fields to hold timestamps until the year 2106.", src: 5, quote: "This allows these fields to store timestamps beyond the year 2038, until the year 2106." }
-    note: "Source: The Open Group Base Specifications Issue 7; Microsoft Learn, time, _time32, _time64; GNU C Library 2.40 NEWS. The limit moments are our calculation."
+    note: "Source: The Open Group Base Specifications Issue 7; Microsoft Learn, time, _time32, _time64; glibc 2.40 release notes. The limit moments are our calculation."
     description: "A one-page checklist for the year 2038 problem: the Unix epoch, the signed 32-bit limit on Jan. 19, 2038 and where a 32-bit time counter can hide."
     alt: "Printable year 2038 problem checklist with tick boxes for devices, software, files and records, and three sourced facts"
 hero:
@@ -46,12 +46,12 @@ summary:
   - "A signed 32-bit count of seconds since the Unix epoch (Jan. 1, 1970, per The Open Group) reaches its maximum, 2,147,483,647, at 03:14:07 Coordinated Universal Time (UTC) on Tuesday, Jan. 19, 2038."
   - "That moment is 10:14:07 p.m. Eastern Standard Time (EST) on Monday, Jan. 18, 2038, in the Eastern Time zone."
   - "The next second would wrap the same counter to -2,147,483,648, which reads as Friday, Dec. 13, 1901, 20:45:52 UTC."
-  - "An unsigned 32-bit counter lasts until Feb. 7, 2106, 06:28:15 UTC; the GNU C Library (glibc) 2.40 notes say some fields now hold timestamps until 2106."
+  - "An unsigned 32-bit counter lasts until Feb. 7, 2106, 06:28:15 UTC; the glibc 2.40 notes say some fields now hold timestamps until 2106."
 faq:
   - q: "What is the year 2038 problem?"
     a: "It is the limit of a 32-bit signed count of seconds since the Unix epoch. The largest value, 2,147,483,647, falls at 03:14:07 UTC on Jan. 19, 2038. The Linux kernel documentation says the tv_sec member overflows in year 2038 on 32-bit architectures."
   - q: "Will my phone or laptop stop working in 2038?"
-    a: "This story does not name any device or system that will fail, and the fact sheet behind it has no such confirmation. Whether a product is affected depends on how its software stores time, so ask the maker."
+    a: "We found no confirmed list of devices or systems that will fail, so this story names none. Whether a product is affected depends on how its software stores time, so ask the maker."
   - q: "Does the problem happen on Jan. 18 or Jan. 19?"
     a: "In UTC it is Jan. 19, 2038, at 03:14:07. In U.S. time zones the same moment is still the evening of Monday, Jan. 18. Microsoft says an application using a 32-bit time type may fail after January 18, 2038."
   - q: "Is a 64-bit time fix available?"
@@ -62,20 +62,18 @@ sources:
   - title: "The Open Group Base Specifications Issue 7 (IEEE Std 1003.1-2017), Definitions: 3.150 Epoch"
     url: "https://pubs.opengroup.org/onlinepubs/9699919799/basedefs/V1_chap03.html"
     publisher: "The Open Group"
-    date: "2018-01-01"
   - title: "The Open Group Base Specifications Issue 7, General Concepts: 4.16 Seconds Since the Epoch"
     url: "https://pubs.opengroup.org/onlinepubs/9699919799/basedefs/V1_chap04.html"
     publisher: "The Open Group"
-    date: "2018-01-01"
   - title: "time, _time32, _time64"
     url: "https://learn.microsoft.com/en-us/cpp/c-runtime-library/reference/time-time32-time64?view=msvc-170"
     publisher: "Microsoft Learn"
-  - title: "GNU C Library 2.34 NEWS (release branch copy)"
+  - title: "glibc 2.34 release notes (release branch copy)"
     url: "https://github.com/bminor/glibc/blob/release/2.34/master/NEWS"
-    publisher: "GNU C Library project"
-  - title: "GNU C Library NEWS (2.40 entry)"
+    publisher: "glibc project"
+  - title: "glibc release notes (2.40 entry)"
     url: "https://github.com/bminor/glibc/blob/master/NEWS"
-    publisher: "GNU C Library project"
+    publisher: "glibc project"
   - title: "ReleaseGoals/64bit-time"
     url: "https://wiki.debian.org/ReleaseGoals/64bit-time"
     publisher: "Debian Wiki"
@@ -87,7 +85,7 @@ sources:
     url: "https://lists.linaro.org/archives/list/y2038@lists.linaro.org/thread/WE7SLWAPGN4OZ57L5LQ4CBXTSOOUDOVW/"
     publisher: "Arnd Bergmann, y2038 mailing list"
     date: "2020-01-29"
-  - title: "Linux 5.6 clears a path past the year 2038"
+  - title: "The Register report on Linux 5.6 and the year 2038"
     url: "https://www.theregister.com/2020/01/30/linux_5_6_2038/"
     publisher: "The Register"
     date: "2020-01-30"
@@ -97,10 +95,19 @@ internalLinks:
   - href: "/january-calendars.html"
     label: "January printable calendars"
 related: [what-is-iso-8601, what-is-a-leap-year]
+downloads:
+  - group: "Year 2038 Problem Checklist printables"
+    title: "Year 2038 Problem Checklist: What to Check on 32-Bit Clocks"
+    description: "A one-page checklist for the year 2038 problem: the Unix epoch, the signed 32-bit limit on Jan. 19, 2038 and where a 32-bit time counter can hide."
+    preview: ../../../../assets/news/year-2038-problem/year-2038-problem-checklist.png
+    alt: "Printable year 2038 problem checklist with tick boxes for devices, software, files and records, and three sourced facts"
+    pdf: "/news/downloads/year-2038-problem/year-2038-problem-checklist.pdf"
+    png: "/news/downloads/year-2038-problem/year-2038-problem-checklist.png"
+    pages: 1
 draft: false
 ---
 
-A signed 32-bit count of seconds since the Unix epoch reaches its maximum, 2,147,483,647, at 03:14:07 Coordinated Universal Time (UTC) on Tuesday, Jan. 19, 2038. The Open Group, which publishes the POSIX (Portable Operating System Interface) specification, defines the epoch as "The time zero hours, zero minutes, zero seconds, on January 1, 1970 Coordinated Universal Time (UTC)." This explainer gives the limit moment in several time zones, a countdown, and the 2106 limit of an unsigned counter. Our printable checklist is built from the same facts.
+A signed 32-bit count of seconds since the Unix epoch reaches its maximum, 2,147,483,647, at 03:14:07 Coordinated Universal Time (UTC) on Tuesday, Jan. 19, 2038. The Open Group, which publishes the Portable Operating System Interface (POSIX) specification, defines the epoch as "The time zero hours, zero minutes, zero seconds, on January 1, 1970 Coordinated Universal Time (UTC)." This explainer gives the limit moment in several time zones, a countdown, and the 2106 limit of an unsigned counter. Our printable checklist is built from the same facts.
 
 ## What happens at 03:14:07 UTC on Jan. 19, 2038?
 
@@ -122,16 +129,16 @@ The moment is fixed. The clock reading and even the calendar day depend on the z
 
 | Zone | Local time of the limit moment |
 |---|---|
-| Eastern Standard Time (EST, UTC-5) | 10:14:07 p.m., Monday, Jan. 18, 2038 |
-| Central Standard Time (CST, UTC-6) | 9:14:07 p.m., Monday, Jan. 18, 2038 |
-| Mountain Standard Time (MST, UTC-7) | 8:14:07 p.m., Monday, Jan. 18, 2038 |
-| Pacific Standard Time (PST, UTC-8) | 7:14:07 p.m., Monday, Jan. 18, 2038 |
-| Greenwich Mean Time (GMT, UTC+0) | 3:14:07 a.m., Tuesday, Jan. 19, 2038 |
-| Central European Time (CET, UTC+1) | 4:14:07 a.m., Tuesday, Jan. 19, 2038 |
-| India Standard Time (IST, UTC+5:30) | 8:44:07 a.m., Tuesday, Jan. 19, 2038 |
-| Japan Standard Time (JST, UTC+9) | 12:14:07 p.m., Tuesday, Jan. 19, 2038 |
+| Eastern Standard Time (EST), UTC-5 | 10:14:07 p.m., Monday, Jan. 18, 2038 |
+| Central Standard Time (CST), UTC-6 | 9:14:07 p.m., Monday, Jan. 18, 2038 |
+| Mountain Standard Time (MST), UTC-7 | 8:14:07 p.m., Monday, Jan. 18, 2038 |
+| Pacific Standard Time (PST), UTC-8 | 7:14:07 p.m., Monday, Jan. 18, 2038 |
+| Greenwich Mean Time (GMT), UTC+0 | 3:14:07 a.m., Tuesday, Jan. 19, 2038 |
+| Central European Time (CET), UTC+1 | 4:14:07 a.m., Tuesday, Jan. 19, 2038 |
+| India Standard Time (IST), UTC+5:30 | 8:44:07 a.m., Tuesday, Jan. 19, 2038 |
+| Japan Standard Time (JST), UTC+9 | 12:14:07 p.m., Tuesday, Jan. 19, 2038 |
 
-All conversions are our calculation from UTC. For how the "Z" and offsets in a timestamp work, see our guide to [ISO 8601 dates and times](/news/what-is-iso-8601/).
+All conversions are our calculation from UTC. For how the "Z" and offsets in a timestamp work, see our guide to [International Organization for Standardization (ISO) 8601 dates and times](/news/what-is-iso-8601/).
 
 ## Why does Microsoft say January 18, 2038?
 
@@ -147,16 +154,16 @@ From Jan. 1, 2027 to Jan. 19, 2038 is 4,036 days. As of Nov. 4, 2026, the calend
 
 These are the statements we found from the projects themselves:
 
-- **GNU C Library (glibc).** Version 2.34 NEWS says it will "Add support for 64-bit time_t on configurations like x86 where time_t is traditionally 32-bit." It adds: "Although time_t still defaults to 32-bit on these configurations, this default may change in future versions." It is "enabled with the _TIME_BITS preprocessor macro set to 64."
-- **glibc 2.40.** The NEWS for struct lastlog, utmp and utmpx says: "This allows these fields to store timestamps beyond the year 2038, until the year 2106." That is the unsigned limit in the table above.
-- **Debian.** The Debian Wiki says "it was decided to do an in-architecture ABI transition for all 32-bit architectures except i386 and hurd-i386," and that "The actual transition began on February 27th, 2024." The page was last modified Aug. 10, 2025.
+- **glibc.** The 2.34 release notes say it will "Add support for 64-bit time_t on configurations like x86 where time_t is traditionally 32-bit." It adds: "Although time_t still defaults to 32-bit on these configurations, this default may change in future versions." It is "enabled with the _TIME_BITS preprocessor macro set to 64."
+- **glibc 2.40.** The 2.40 release notes for struct lastlog, utmp and utmpx says: "This allows these fields to store timestamps beyond the year 2038, until the year 2106." That is the unsigned limit in the table above.
+- **Debian.** The Debian Wiki says that for the application binary interface (ABI), "it was decided to do an in-architecture ABI transition for all 32-bit architectures except i386 and hurd-i386," and that "The actual transition began on February 27th, 2024." The page was last modified Aug. 10, 2025.
 - **Linux kernel.** In a Jan. 29, 2020 pull request, developer Arnd Bergmann wrote that Linux 5.6 "should be the first release that can serve as a base for a 32-bit system designed to run beyond year 2038." The Register reported it on Jan. 30, 2020. That is the developer's stated goal for the release, not a statement that the problem is solved everywhere.
 
 We did not find a statement from the Cybersecurity and Infrastructure Security Agency (CISA) or the National Institute of Standards and Technology (NIST) on this date, and we do not name any product that will fail.
 
 ## What should you check before Jan. 19, 2038?
 
-Most people never see a raw seconds counter. It matters where software stores a time as one 32-bit number. The printable lists the places to look, and the first three steps are these:
+The limit matters wherever software stores a time as one 32-bit number. The printable lists the places to look, and the first three steps are these:
 
 1. Make a list of devices that keep their own clock and note each model and age.
 2. Ask each maker whether the software stores time in 64 bits, and write down the answer.
