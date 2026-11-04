@@ -2,5 +2,13 @@
   {
     "date": "2026-11-04",
     "label": "Election results: when each state finishes counting"
+  },
+  {
+    "date": "2026-11-16",
+    "label": "California counties finish reporting all ballots"
+  },
+  {
+    "date": "2026-12-03",
+    "label": "California counties send final results to the Secretary of State"
   }
 ]
