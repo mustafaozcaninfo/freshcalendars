@@ -14,24 +14,32 @@ assets:
   date: "2027-01-29"
   card: { top: "National Puzzle Day", big: "Fri., Jan. 29", bottom: "Every year on Jan. 29" }
   printable:
-    slug: national-puzzle-day-2027-plan-sheet
+    kit: activity-sheet
+    slug: national-puzzle-day-2027-plan-kit
     group: national-puzzle-day-2027
-    title: "National Puzzle Day 2027 Plan Sheet, Fri., Jan. 29"
-    subtitle: "A puzzle for each part of the day, plus the founder's free kit and hashtag"
-    noKit: "observance activity sheet"
-    layout: checklist
-    notesLabel: "Puzzles we finished, and who solved what"
-    rows:
-      - { when: "Fri., Jan. 29", what: "Morning: one quick puzzle (our suggestion)", section: "A puzzle for each part of the day" }
-      - { when: "Fri., Jan. 29", what: "Midday: one word or logic puzzle (our suggestion)", section: "A puzzle for each part of the day" }
-      - { when: "Fri., Jan. 29", what: "Evening: one jigsaw or board puzzle (our suggestion)", section: "A puzzle for each part of the day" }
-      - { when: "Fri., Jan. 29", what: "Family puzzle hour (our suggestion)", section: "A puzzle for each part of the day" }
-      - { when: "Before Jan. 29", what: "Check puzzledayfun.com for the 2027 Puzzle Kit", section: "From the founder's site" }
-      - { when: "Fri., Jan. 29", what: "Download and play the free kit", section: "From the founder's site" }
-      - { when: "Fri., Jan. 29", what: "Share your puzzle with #PuzzleDay", section: "From the founder's site" }
+    title: "National Puzzle Day 2027 Facts and Plan Sheet"
+    subtitle: "Fri., Jan. 29, 2027: a puzzle for each part of the day, plus the free kit"
     note: "Source: puzzledayfun.com (Puzzle Day, founded by Jodi Jill); jodijill.com. The day parts and the family hour are our suggestions."
-    description: "One-page National Puzzle Day 2027 plan sheet for Friday, Jan. 29, with a puzzle for each part of the day, the founder's free kit and the hashtag."
-    alt: "Printable National Puzzle Day 2027 plan sheet with tick boxes for puzzles through Friday, Jan. 29"
+    description: "One-page National Puzzle Day 2027 sheet: the Jan. 29 date, two sourced facts and tick boxes for a puzzle at each part of the day."
+    alt: "Printable National Puzzle Day 2027 sheet with the Jan. 29 date and tick boxes for puzzles through the day"
+    notesLabel: "Puzzles we finished, and who solved what"
+    data:
+      day: { date: "2027-01-29", name: "National Puzzle Day", src: 2, quote: "Held every year on January 29, this special day is all about encouraging people of all ages to explore, play, and enjoy puzzles" }
+      facts:
+        - { text: "Puzzle Day was founded by Jodi Jill, a professional puzzle maker.", src: 2, quote: "Puzzle Day was founded by Jodi Jill, a professional puzzle maker and lifelong puzzle enthusiast." }
+        - { text: "The site offers a free 2026 Puzzle Kit and lists the hashtag #PuzzleDay.", src: 1, quote: "Download, Copy and Play our official 2026 Puzzle Kit" }
+      activities:
+        - type: checklist
+          title: "A puzzle for each part of the day"
+          items:
+            - "Morning: one quick puzzle"
+            - "Midday: a word or logic puzzle"
+            - "Evening: a jigsaw or board puzzle"
+            - "Family puzzle hour"
+            - "Check puzzledayfun.com for the free kit"
+            - "Share your puzzle with #PuzzleDay"
+      unconfirmed:
+        - { label: "2027 free Puzzle Kit", why: "the site offered a 2026 kit; no 2027 kit was posted as of Nov. 4, 2026" }
 hero:
   src: ../../../../assets/news/national-puzzle-day-2027-friday-january-29/national-puzzle-day-2027-friday-january-29.webp
   alt: "Jigsaw puzzle pieces, a red piece on green pieces, on a wooden table for National Puzzle Day on Friday, Jan. 29, 2027"
@@ -43,13 +51,13 @@ hero:
     source: "https://commons.wikimedia.org/wiki/File:Red_jigsaw_puzzle_piece_on_green_pieces.jpg"
     author: "Profpcde"
 downloads:
-  - group: "National Puzzle Day 2027 Plan Sheet printables"
-    title: "National Puzzle Day 2027 Plan Sheet, Fri., Jan. 29"
-    description: "One-page National Puzzle Day 2027 plan sheet for Friday, Jan. 29, with a puzzle for each part of the day, the founder's free kit and the hashtag."
-    preview: ../../../../assets/news/national-puzzle-day-2027/national-puzzle-day-2027-plan-sheet.png
-    alt: "Printable National Puzzle Day 2027 plan sheet with tick boxes for puzzles through Friday, Jan. 29"
-    pdf: "/news/downloads/national-puzzle-day-2027/national-puzzle-day-2027-plan-sheet.pdf"
-    png: "/news/downloads/national-puzzle-day-2027/national-puzzle-day-2027-plan-sheet.png"
+  - group: "National Puzzle Day 2027 Facts and Plan Sheet printables"
+    title: "National Puzzle Day 2027 Facts and Plan Sheet"
+    description: "One-page National Puzzle Day 2027 sheet: the Jan. 29 date, two sourced facts and tick boxes for a puzzle at each part of the day."
+    preview: ../../../../assets/news/national-puzzle-day-2027/national-puzzle-day-2027-plan-kit.png
+    alt: "Printable National Puzzle Day 2027 sheet with the Jan. 29 date and tick boxes for puzzles through the day"
+    pdf: "/news/downloads/national-puzzle-day-2027/national-puzzle-day-2027-plan-kit.pdf"
+    png: "/news/downloads/national-puzzle-day-2027/national-puzzle-day-2027-plan-kit.png"
     pages: 1
 summary:
   - "National Puzzle Day is Jan. 29 every year, says puzzledayfun.com, so in 2027 it falls on Friday, Jan. 29."
