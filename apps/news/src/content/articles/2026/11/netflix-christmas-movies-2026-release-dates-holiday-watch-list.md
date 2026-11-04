@@ -103,7 +103,7 @@ internalLinks:
     label: "November 2026 printable calendar"
   - href: "/december-calendars.html"
     label: "December 2026 printable calendar"
-related: [netflix-new-movies-november-2026-release-dates, hallmark-countdown-to-christmas-2026-schedule-printable, new-movies-in-theaters-december-2026-release-dates-avengers-doomsday-dune]
+related: [netflix-new-movies-november-2026-release-dates, hallmark-countdown-to-christmas-2026-schedule-printable, christmas-movies-on-tv-2026-schedule-by-channel]
 downloads:
   - group: "Netflix Holiday Watch List 2026 printables"
     title: "Netflix Holiday Watch List 2026"

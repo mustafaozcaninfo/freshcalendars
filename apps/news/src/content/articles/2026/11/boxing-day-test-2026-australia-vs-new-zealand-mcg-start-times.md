@@ -64,7 +64,7 @@ internalLinks:
     label: "December 2026 printable calendar"
   - href: "/january-calendars.html"
     label: "January 2027 printable calendar"
-related: [india-vs-new-zealand-2026-schedule-odi-test-start-times-et-gmt-ist, us-australia-time-difference-after-daylight-saving-time-ends-november-1-2026, melbourne-cup-2026-time-us-uk-derby-day-oaks-carnival-schedule]
+related: [sydney-hobart-2026-start-time-december-26, us-australia-time-difference-after-daylight-saving-time-ends-november-1-2026, melbourne-cup-2026-time-us-uk-derby-day-oaks-carnival-schedule]
 assets:
   overlay: true
   kicker: "Boxing Day Test · Sat., Dec. 26, 2026"
