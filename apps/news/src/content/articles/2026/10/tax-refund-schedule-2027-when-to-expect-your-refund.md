@@ -53,7 +53,7 @@ internalLinks:
     label: "March 2027 printable calendar"
   - href: "/april-calendars.html"
     label: "April 2027 printable calendar"
-related: [when-does-tax-season-start-2027-irs-filing-opening-date, tax-calendar-2027-irs-deadlines, 2026-hsa-contribution-deadline-april-2027]
+related: [when-does-tax-season-start-2027-irs-filing-opening-date, tax-calendar-2027-irs-deadlines, child-tax-credit-2026-2200-per-child-refundable-actc]
 downloads:
   - group: "2027 Tax Refund Tracker printables"
     title: "2027 Tax Refund Tracker"

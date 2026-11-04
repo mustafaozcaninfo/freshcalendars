@@ -83,7 +83,7 @@ internalLinks:
     label: "December printable calendars"
   - href: "/when-is/new-years-day/"
     label: "When is New Year's Day"
-related: [federal-pay-period-calendar-2027-pay-dates-nfc-gsa-printable, federal-holidays-2027-observed-dates-list, stock-market-holidays-2027-nyse-closed-dates]
+related: [federal-pay-period-calendar-2027-pay-dates-nfc-gsa-printable, monthly-budget-planner-2027-printable, debt-payoff-planner-2027-snowball-avalanche]
 downloads:
   - group: "Biweekly Friday Payday Calendar 2027 printables"
     title: "Biweekly Friday Payday Calendar 2027"
