@@ -14,16 +14,23 @@ assets:
   date: "2027-02-01"
   card: { top: "Black History Month 2027", big: "Feb. 1-28", bottom: "28 days, Monday to Sunday" }
   printable:
-    noKit: "The sheet is a 28-day month grid with a box for every day, which no holiday kit draws (holiday-planner is one date card)."
-    slug: black-history-month-2027-calendar-feb-1-28
+    kit: year-reference
+    slug: black-history-month-2027-february-calendar
     group: black-history-month-2027
     title: "Black History Month 2027 Calendar, Feb. 1-28"
     subtitle: "28 days, Monday Feb. 1 to Sunday Feb. 28, with a box for every day"
-    rows:
-      - ["Mon., Feb. 1", "Black History Month begins; first of 28 days"]
-      - ["Thu., Feb. 4", "Rosa Parks was born on this date in 1913"]
-      - ["Mon., Feb. 15", "Washington's Birthday, a federal holiday"]
-      - ["Sun., Feb. 28", "Last day of February 2027"]
+    notesLabel: "My plans for Black History Month"
+    data:
+      year: 2027
+      mode: week-numbers
+      start: monday
+      month: 2
+      federal: true
+      marks:
+        - date: "2027-02-04"
+          label: "Rosa Parks born 1913"
+          src: 5
+          quote: "Date of Birth: February 4, 1913"
     note: "Source: blackhistorymonth.gov (Library of Congress and partners); National Park Service, Rosa Parks; U.S. Office of Personnel Management, Federal Holidays. Write your own daily plans in the boxes."
     description: "Free printable Black History Month 2027 calendar for Feb. 1-28, with a box for each of the 28 days and the federal holiday and Rosa Parks birthday marked."
     alt: "Printable February 2027 calendar for Black History Month with a box for each day from Monday, Feb. 1 to Sunday, Feb. 28"
@@ -80,10 +87,10 @@ downloads:
   - group: "Black History Month 2027 Calendar printables"
     title: "Black History Month 2027 Calendar, Feb. 1-28"
     description: "Free printable Black History Month 2027 calendar for Feb. 1-28, with a box for each of the 28 days and the federal holiday and Rosa Parks birthday marked."
-    preview: ../../../../assets/news/black-history-month-2027/black-history-month-2027-calendar-feb-1-28.png
+    preview: ../../../../assets/news/black-history-month-2027/black-history-month-2027-february-calendar.png
     alt: "Printable February 2027 calendar for Black History Month with a box for each day from Monday, Feb. 1 to Sunday, Feb. 28"
-    pdf: "/news/downloads/black-history-month-2027/black-history-month-2027-calendar-feb-1-28.pdf"
-    png: "/news/downloads/black-history-month-2027/black-history-month-2027-calendar-feb-1-28.png"
+    pdf: "/news/downloads/black-history-month-2027/black-history-month-2027-february-calendar.pdf"
+    png: "/news/downloads/black-history-month-2027/black-history-month-2027-february-calendar.png"
     pages: 1
 draft: false
 ---
