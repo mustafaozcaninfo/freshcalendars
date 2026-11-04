@@ -80,13 +80,13 @@ downloads:
 draft: false
 ---
 
-**The Consumer Financial Protection Bureau (CFPB) says there are "two basic strategies that can help you reduce debt: the highest interest rate method and the snowball method," and our worked example for 2027 shows what each costs on the same three sample debts.** The CFPB post, "How to reduce your debt," was published July 16, 2019 and is marked as archived content. Our free [debt payoff tracker for 2027](/news/downloads/debt-payoff-2027/debt-payoff-tracker-2027.pdf) has room for six debts and a 12-month payment log.
+**The Consumer Financial Protection Bureau (CFPB) says there are "two basic strategies that can help you reduce debt: the highest interest rate method and the snowball method," and our worked example for 2027 shows what each costs on the same three sample debts.** The CFPB post, "How to reduce your debt," was published July 16, 2019 and is marked as archived content. Our free [debt payoff tracker for 2027](/news/downloads/debt-payoff-2027/debt-payoff-tracker-2027-snowball-avalanche.pdf) has room for six debts and a 12-month payment log.
 
 This is a plain explanation, not financial advice. The debts below are made up, and your own balances, rates and minimums will give different results.
 
 ## Debt payoff planner 2027 printable
 
-[Download the PDF](/news/downloads/debt-payoff-2027/debt-payoff-tracker-2027.pdf) or the [PNG](/news/downloads/debt-payoff-2027/debt-payoff-tracker-2027.png). Each of the six debt rows has a name, balance, annual percentage rate (APR), minimum payment and a payoff order. Below them, one line per month from January to December 2027 holds what you paid, the extra you put on your first debt and the balance left. Pin it beside the [2027 yearly calendar](/printable-yearly-calendar.html) or the [January calendar](/january-calendars.html).
+[Download the PDF](/news/downloads/debt-payoff-2027/debt-payoff-tracker-2027-snowball-avalanche.pdf) or the [PNG](/news/downloads/debt-payoff-2027/debt-payoff-tracker-2027-snowball-avalanche.png). Each of the six debt rows has a name, balance, annual percentage rate (APR), minimum payment and a payoff order. Below them, one line per month from January to December 2027 holds what you paid, the extra you put on your first debt and the balance left. Pin it beside the [2027 yearly calendar](/printable-yearly-calendar.html) or the [January calendar](/january-calendars.html).
 
 The CFPB's Your Money, Your Goals toolkit (last modified April 24, 2026) lists a "Debt log," a "Debt action plan" and a "Debt-to-income calculator" under "Dealing with Debt."
 
