@@ -137,6 +137,8 @@ The race site says Sydney Harbour's headlands and bays "provide excellent vantag
 | Non-competing vessels | No sails hoisted | 12 p.m. to 2:20 p.m. | 8 p.m. to 10:20 p.m. |
 | Kayaks, paddleboards, inflatables | No passive craft or anchoring around the zone | 12 p.m. to 2:20 p.m. | 8 p.m. to 10:20 p.m. |
 
+For West Coast and U.K. readers, by our conversion: the speed limit starts at 4:30 p.m. PT on Dec. 25 (12:30 a.m. GMT on Dec. 26), the exclusion zone at 5 p.m. PT (1 a.m. GMT), the race at 6 p.m. PT (2 a.m. GMT), and both rules end at 7:20 p.m. PT (3:20 a.m. GMT).
+
 The NSW page warns small vessels to avoid South Head and North Head after the start, citing "very high vessel density." Its information line is 13 12 36, staffed 8:30 a.m. to 4:30 p.m. during major aquatic events.
 
 ## What happened in the 2025 Sydney Hobart?
