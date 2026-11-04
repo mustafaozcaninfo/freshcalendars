@@ -25,24 +25,24 @@ assets:
     data:
       pick: "My pick"
       events:
-        - { start: "2026-12-08T18:45+01:00", title: "Viking v Feyenoord", src: 1, quote: "Viking vs Feyenoord (18:45)" }
-        - { start: "2026-12-08T18:45+01:00", title: "Villarreal v Sabah", src: 1, quote: "Villarreal vs Sabah (18:45)" }
-        - { start: "2026-12-08T21:00+01:00", title: "Aston Villa v Paris Saint-Germain", src: 1, quote: "Kick-offs are 21:00 unless stated; all times CET." }
-        - { start: "2026-12-08T21:00+01:00", title: "AEK Athens v Galatasaray", src: 1, quote: "Kick-offs are 21:00 unless stated; all times CET." }
-        - { start: "2026-12-08T21:00+01:00", title: "Roma v Sporting CP", src: 1, quote: "Kick-offs are 21:00 unless stated; all times CET." }
-        - { start: "2026-12-08T21:00+01:00", title: "Barcelona v Manchester City", src: 1, quote: "Kick-offs are 21:00 unless stated; all times CET." }
-        - { start: "2026-12-08T21:00+01:00", title: "Bayern München v Slavia Praha", src: 1, quote: "Kick-offs are 21:00 unless stated; all times CET." }
-        - { start: "2026-12-08T21:00+01:00", title: "Manchester United v Leipzig", src: 1, quote: "Kick-offs are 21:00 unless stated; all times CET." }
-        - { start: "2026-12-08T21:00+01:00", title: "Napoli v Club Brugge", src: 1, quote: "Kick-offs are 21:00 unless stated; all times CET." }
-        - { start: "2026-12-09T18:45+01:00", title: "Real Betis v Como", src: 1, quote: "Real Betis vs Como (18:45)" }
-        - { start: "2026-12-09T18:45+01:00", title: "Slovan Bratislava v Shakhtar Donetsk", src: 1, quote: "Slovan Bratislava vs Shakhtar Donetsk (18:45)" }
-        - { start: "2026-12-09T21:00+01:00", title: "Arsenal v Real Madrid", src: 1, quote: "Kick-offs are 21:00 unless stated; all times CET." }
-        - { start: "2026-12-09T21:00+01:00", title: "Borussia Dortmund v Inter", src: 1, quote: "Kick-offs are 21:00 unless stated; all times CET." }
-        - { start: "2026-12-09T21:00+01:00", title: "LASK v Fenerbahçe", src: 1, quote: "Kick-offs are 21:00 unless stated; all times CET." }
-        - { start: "2026-12-09T21:00+01:00", title: "Liverpool v Porto", src: 1, quote: "Kick-offs are 21:00 unless stated; all times CET." }
-        - { start: "2026-12-09T21:00+01:00", title: "Lens v Bodø/Glimt", src: 1, quote: "Kick-offs are 21:00 unless stated; all times CET." }
-        - { start: "2026-12-09T21:00+01:00", title: "PSV Eindhoven v Atlético de Madrid", src: 1, quote: "Kick-offs are 21:00 unless stated; all times CET." }
-        - { start: "2026-12-09T21:00+01:00", title: "Stuttgart v Lille", src: 1, quote: "Kick-offs are 21:00 unless stated; all times CET." }
+        - { start: "2026-12-08T18:45+01:00", title: "Viking v Feyenoord", src: 1, quote: ["Tue. Dec. 8, 2026", "Viking vs Feyenoord (18:45)"] }
+        - { start: "2026-12-08T18:45+01:00", title: "Villarreal v Sabah", src: 1, quote: ["Tue. Dec. 8, 2026", "Villarreal vs Sabah (18:45)"] }
+        - { start: "2026-12-08T21:00+01:00", title: "Aston Villa v Paris Saint-Germain", src: 1, quote: ["Tue. Dec. 8, 2026", "Kick-offs are 21:00 unless stated; all times CET."] }
+        - { start: "2026-12-08T21:00+01:00", title: "AEK Athens v Galatasaray", src: 1, quote: ["Tue. Dec. 8, 2026", "Kick-offs are 21:00 unless stated; all times CET."] }
+        - { start: "2026-12-08T21:00+01:00", title: "Roma v Sporting CP", src: 1, quote: ["Tue. Dec. 8, 2026", "Kick-offs are 21:00 unless stated; all times CET."] }
+        - { start: "2026-12-08T21:00+01:00", title: "Barcelona v Manchester City", src: 1, quote: ["Tue. Dec. 8, 2026", "Kick-offs are 21:00 unless stated; all times CET."] }
+        - { start: "2026-12-08T21:00+01:00", title: "Bayern München v Slavia Praha", src: 1, quote: ["Tue. Dec. 8, 2026", "Kick-offs are 21:00 unless stated; all times CET."] }
+        - { start: "2026-12-08T21:00+01:00", title: "Manchester United v Leipzig", src: 1, quote: ["Tue. Dec. 8, 2026", "Kick-offs are 21:00 unless stated; all times CET."] }
+        - { start: "2026-12-08T21:00+01:00", title: "Napoli v Club Brugge", src: 1, quote: ["Tue. Dec. 8, 2026", "Kick-offs are 21:00 unless stated; all times CET."] }
+        - { start: "2026-12-09T18:45+01:00", title: "Real Betis v Como", src: 1, quote: ["Wed. Dec. 9, 2026", "Real Betis vs Como (18:45)"] }
+        - { start: "2026-12-09T18:45+01:00", title: "Slovan Bratislava v Shakhtar Donetsk", src: 1, quote: ["Wed. Dec. 9, 2026", "Slovan Bratislava vs Shakhtar Donetsk (18:45)"] }
+        - { start: "2026-12-09T21:00+01:00", title: "Arsenal v Real Madrid", src: 1, quote: ["Wed. Dec. 9, 2026", "Kick-offs are 21:00 unless stated; all times CET."] }
+        - { start: "2026-12-09T21:00+01:00", title: "Borussia Dortmund v Inter", src: 1, quote: ["Wed. Dec. 9, 2026", "Kick-offs are 21:00 unless stated; all times CET."] }
+        - { start: "2026-12-09T21:00+01:00", title: "LASK v Fenerbahçe", src: 1, quote: ["Wed. Dec. 9, 2026", "Kick-offs are 21:00 unless stated; all times CET."] }
+        - { start: "2026-12-09T21:00+01:00", title: "Liverpool v Porto", src: 1, quote: ["Wed. Dec. 9, 2026", "Kick-offs are 21:00 unless stated; all times CET."] }
+        - { start: "2026-12-09T21:00+01:00", title: "Lens v Bodø/Glimt", src: 1, quote: ["Wed. Dec. 9, 2026", "Kick-offs are 21:00 unless stated; all times CET."] }
+        - { start: "2026-12-09T21:00+01:00", title: "PSV Eindhoven v Atlético de Madrid", src: 1, quote: ["Wed. Dec. 9, 2026", "Kick-offs are 21:00 unless stated; all times CET."] }
+        - { start: "2026-12-09T21:00+01:00", title: "Stuttgart v Lille", src: 1, quote: ["Wed. Dec. 9, 2026", "Kick-offs are 21:00 unless stated; all times CET."] }
       unconfirmed:
         - { label: "U.S. and U.K. channels for each match", why: "Not announced in a source we found as of Nov. 4, 2026" }
 hero:

@@ -89,6 +89,15 @@ internalLinks:
   - href: "/november-calendars.html"
     label: "November 2026 printable calendar"
 related: [champions-league-december-2026-matchday-6-kickoff-times, champions-league-november-2026-schedule-kickoff-times-et-matchday-4-5, mls-cup-playoffs-2026-schedule-dates-mls-cup-december-18]
+downloads:
+  - group: "FIFA Intercontinental Cup 2026 Bracket Sheet printables"
+    title: "FIFA Intercontinental Cup 2026 Bracket Sheet: Dec. 9, 12 and 16"
+    description: "A one-page FIFA Intercontinental Cup 2026 bracket sheet with the Dec. 9, 12 and 16 matches in Qatar, a pick column and space for scores."
+    preview: ../../../../assets/news/fifa-intercontinental-cup-2026/fifa-intercontinental-cup-2026-bracket-sheet.png
+    alt: "Printable FIFA Intercontinental Cup 2026 bracket sheet listing the Dec. 9, 12 and 16 matches in Qatar with a pick column"
+    pdf: "/news/downloads/fifa-intercontinental-cup-2026/fifa-intercontinental-cup-2026-bracket-sheet.pdf"
+    png: "/news/downloads/fifa-intercontinental-cup-2026/fifa-intercontinental-cup-2026-bracket-sheet.png"
+    pages: 1
 draft: false
 ---
 
@@ -104,7 +113,7 @@ FIFA's Oct. 22 announcement gives three dates. The Qatar News Agency (QNA) repor
 | Sat., Dec. 12, 2026 | FIFA Challenger Cup: Derby of the Americas winners v Mamelodi Sundowns | Jassim bin Hamad Stadium, Doha |
 | Wed., Dec. 16, 2026 | Final: PSG v Challenger Cup winners | Ahmad bin Ali Stadium, Al Rayyan |
 
-Every kickoff time is not yet announced. The same goes for U.S. and UK broadcasters and prize money.
+FIFA has not announced kickoff times, U.S. and UK broadcasters or prize money.
 
 ## How the 2026 path to the final runs
 
@@ -127,14 +136,14 @@ Toluca is the Concacaf club in the Derby of the Americas. It reached the Confede
 
 ## What time is the Intercontinental Cup final?
 
-FIFA has not published a kickoff time. In 2025, the final was on Wed., Dec. 17 at Ahmad bin Ali Stadium and started at 8 p.m. local time (17:00 Greenwich Mean Time, GMT), per Al Jazeera. PSG beat Flamengo on penalties after a 1-1 draw.
+FIFA has not published a kickoff time. In 2025, the final was on Wed., Dec. 17 at Ahmad bin Ali Stadium and started at 8 p.m. local time (17:00 Greenwich Mean Time (GMT)), per Al Jazeera. PSG beat Flamengo on penalties after a 1-1 draw.
 
-If 2026 used the same start, which FIFA has not said, 8 p.m. in Qatar (Arabia Standard Time, AST, UTC+3) would be:
+If 2026 used the same start, which FIFA has not said, 8 p.m. in Qatar (Arabia Standard Time (AST), UTC+3) would be:
 
 | Zone | Hypothetical time, from the 2025 start |
 |---|---|
 | Qatar (AST) | 8 p.m. |
-| Greenwich Mean Time (GMT) | 5 p.m. |
+| GMT | 5 p.m. |
 | Eastern Time (ET) | noon |
 | Pacific Time (PT) | 9 a.m. |
 

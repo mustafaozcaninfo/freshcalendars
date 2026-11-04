@@ -12,7 +12,7 @@ hero:
   src: ../../../../assets/news/sundance-film-festival-2027-boulder-dates/sundance-film-festival-2027-boulder-dates.webp
   alt: "Sundance Film Festival 2027 in Boulder: Chautauqua Auditorium, one of the festival's venues, below the Colorado foothills"
   caption: "Chautauqua Auditorium in Boulder, a 2027 festival venue, per the Sundance Institute's venue list. The festival runs Jan. 21-31, 2027."
-  credit: "CREDIT_PLACEHOLDER"
+  credit: "Photo: Laura Scudder / Wikimedia Commons, cropped, edited"
   license:
     name: "CC BY-SA 3.0"
     url: "https://creativecommons.org/licenses/by-sa/3.0"
@@ -69,7 +69,7 @@ assets:
     group: sundance-2027
     title: "Sundance Film Festival 2027 Planner: Boulder, Jan. 21-31"
     subtitle: "Tickets, premieres, gala, online screenings and awards by day"
-    note: "Source: Sundance Institute (July 29 and Oct. 21, 2026). Times not announced. Dates subject to change."
+    note: "Source: Sundance Institute (July 29 and Oct. 21, 2026). Times not announced."
     description: "A Sundance Film Festival 2027 planner with the Boulder dates: tickets Jan. 8, opening Jan. 21, gala Jan. 22, online screenings Jan. 28-31 and awards Jan. 29."
     alt: "Sundance Film Festival 2027 planner listing Boulder festival dates from Jan. 8 to Jan. 31 with a space for picks"
     data:
@@ -88,6 +88,15 @@ assets:
       unconfirmed:
         - { label: "Film lineup", why: "The Institute says it will be announced in December; no day given as of Nov. 4, 2026" }
         - { label: "Screening and event times", why: "Not in the Institute pages we used as of Nov. 4, 2026" }
+downloads:
+  - group: "Sundance Film Festival 2027 Planner printables"
+    title: "Sundance Film Festival 2027 Planner: Boulder, Jan. 21-31"
+    description: "A Sundance Film Festival 2027 planner with the Boulder dates: tickets Jan. 8, opening Jan. 21, gala Jan. 22, online screenings Jan. 28-31 and awards Jan. 29."
+    preview: ../../../../assets/news/sundance-2027/sundance-film-festival-2027-planner.png
+    alt: "Sundance Film Festival 2027 planner listing Boulder festival dates from Jan. 8 to Jan. 31 with a space for picks"
+    pdf: "/news/downloads/sundance-2027/sundance-film-festival-2027-planner.pdf"
+    png: "/news/downloads/sundance-2027/sundance-film-festival-2027-planner.png"
+    pages: 1
 draft: false
 ---
 
@@ -103,13 +112,12 @@ The Institute's pages give these dates. It has not posted screening times, so th
 | Thu., Jan. 21 | Festival opens; world premieres begin; press and industry (P&I) screenings begin | Institute, July 29, 2026 |
 | Fri., Jan. 22 | Festival gala | Institute, July 29, 2026 |
 | Tue., Jan. 26 | Last day of world premieres | Institute, July 29, 2026 |
-| Tue., Jan. 27 | Legacy program begins (runs through Sun., Jan. 31) | Institute, Oct. 21, 2026 |
-| Wed., Jan. 27 | Last day of P&I screenings at Cinemark Century | Institute, July 29, 2026 |
+| Wed., Jan. 27 | Legacy program begins (runs through Sun., Jan. 31); last day of P&I screenings at Cinemark Century | Institute, Oct. 21 and July 29, 2026 |
 | Thu., Jan. 28 | At-home online screenings begin | Institute, July 29, 2026 |
 | Fri., Jan. 29 | Jury and audience awards announced | Institute, July 29, 2026 |
 | Sun., Jan. 31 | Festival and online screenings end | Institute, July 29, 2026 |
 
-The Institute wrote that "World premieres will be held Thursday, January 21, to Tuesday, January 26," and that the Legacy program, announced Oct. 21, 2026, runs from Tuesday, Jan. 27, through Sunday, Jan. 31. The festival spans 11 days, counting both Jan. 21 and Jan. 31.
+The Institute wrote that "World premieres will be held Thursday, January 21, to Tuesday, January 26," and that the Legacy program, announced Oct. 21, 2026, runs from Jan. 27 through Sunday, Jan. 31. The release prints the start as "Tuesday, January 27," but Jan. 27, 2027, is a Wednesday, so the table uses Wednesday. The festival spans 11 days, counting both Jan. 21 and Jan. 31.
 
 ## Can you watch Sundance 2027 online?
 
