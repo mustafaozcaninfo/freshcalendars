@@ -57,7 +57,7 @@ internalLinks:
     label: "February printable calendars"
   - href: "/printable-yearly-calendar.html"
     label: "Printable yearly calendar"
-related: [canada-statutory-holidays-2027-federal-general-holidays, presidents-day-2027-february-15-whats-open-closed, boxing-day-2026-canada-saturday-december-26-day-off-monday-december-28]
+related: [canada-statutory-holidays-2027-federal-general-holidays, presidents-day-2027-february-15-whats-open-closed, winterlude-2027-dates-ottawa-gatineau]
 assets:
   kicker: "Family Day 2027"
   date: "2027-02-15"

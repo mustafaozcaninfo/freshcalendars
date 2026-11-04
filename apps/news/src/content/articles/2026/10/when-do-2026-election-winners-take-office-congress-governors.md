@@ -77,7 +77,7 @@ internalLinks:
     label: "January 2027 printable calendar"
   - href: "/december-calendars.html"
     label: "December 2026 printable calendar"
-related: [when-will-we-know-election-results-2026-midterms, 2026-midterm-elections-whats-on-the-ballot-results-tracker, when-are-2026-election-results-certified-deadlines-by-state]
+related: [kentucky-2027-election-calendar-filing-deadline-primary, 2026-midterm-elections-whats-on-the-ballot-results-tracker, when-are-2026-election-results-certified-deadlines-by-state]
 assets:
   overlay: true
   kicker: "120th Congress · Sun., Jan. 3, 2027"
