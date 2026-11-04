@@ -66,7 +66,7 @@ internalLinks:
     label: "April 2027 printable calendar"
   - href: "/december-calendars.html"
     label: "December 2026 printable calendar"
-related: [cobb-county-school-calendar-2026-27-breaks-holidays, gwinnett-county-schools-calendar-2026-27-breaks, spring-break-2027-dates-school-districts]
+related: [cobb-county-school-calendar-2026-27-breaks-holidays, gwinnett-county-schools-calendar-2026-27-breaks, memphis-shelby-county-schools-calendar-2026-27-breaks]
 assets:
   overlay: true
   kicker: "Fulton County Schools 2026-27"

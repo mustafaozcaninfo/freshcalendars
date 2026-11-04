@@ -47,7 +47,7 @@ internalLinks:
     label: "December 2026 printable calendar"
   - href: "/march-calendars.html"
     label: "March 2027 printable calendar"
-related: [orange-county-public-schools-calendar-2026-27-breaks-holidays, thanksgiving-break-2026-school-districts-dates, winter-break-2026-school-districts-dates]
+related: [orange-county-public-schools-calendar-2026-27-breaks-holidays, polk-county-public-schools-calendar-2026-27-breaks, thanksgiving-break-2026-school-districts-dates]
 draft: false
 downloads:
   - group: "HCPS No-School Days 2026-27 printables"
