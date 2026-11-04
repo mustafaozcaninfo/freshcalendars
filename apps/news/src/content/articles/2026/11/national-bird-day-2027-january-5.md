@@ -94,7 +94,7 @@ internalLinks:
     label: "January 2027 printable calendar"
   - href: "/february-calendars.html"
     label: "February 2027 printable calendar"
-related: [january-2027-important-dates-holidays-days-until, winter-solstice-2026-december-21-shortest-day-sunset-times, presidents-day-2027-february-15-whats-open-closed]
+related: [christmas-bird-count-2026-27-dates-how-to-join, january-2027-important-dates-holidays-days-until, winter-solstice-2026-december-21-shortest-day-sunset-times]
 downloads:
   - group: "Backyard Bird Tally Sheet printables"
     title: "Backyard Bird Tally Sheet, Winter 2026-27"

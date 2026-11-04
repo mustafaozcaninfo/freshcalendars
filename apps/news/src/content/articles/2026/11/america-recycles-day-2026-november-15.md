@@ -101,7 +101,7 @@ internalLinks:
     label: "November 2026 printable calendar"
   - href: "/printable-yearly-calendar.html"
     label: "Printable yearly calendar"
-related: [christmas-tree-recycling-2027-by-city, thanksgiving-trash-pickup-2026-by-city, world-kindness-day-2026-friday-november-13-kindness-dates-printable]
+related: [christmas-tree-recycling-2027-by-city, thanksgiving-trash-pickup-2026-by-city, national-adoption-day-2026-november-21]
 downloads:
   - group: "America Recycles Day 2026 Recycling Checklist printables"
     title: "America Recycles Day 2026 Recycling Checklist, Nov. 15"
