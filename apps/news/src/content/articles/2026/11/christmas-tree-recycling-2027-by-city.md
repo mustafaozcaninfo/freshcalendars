@@ -179,7 +179,7 @@ New York City's Department of Sanitation (DSNY) said in a Dec. 24, 2025 press re
 
 Los Angeles, Chicago, San Jose and Indianapolis are not in the table because their pages were not reachable when we checked. San Antonio, Fort Worth and Columbus had no current official rule that we could find. Check the city's own site for those.
 
-Print the [last-season dates sheet](#downloads) and mark your city's 2026-27 dates on the [January 2027 printable calendar](/january-calendars.html) once they appear.
+The [last-season dates sheet](#downloads) sorts these windows into two columns, "Starts (2025-26)" and "Ends (2025-26)". Print it and mark your city's 2026-27 dates on the [January 2027 printable calendar](/january-calendars.html) once they appear.
 
 ## What to remove before a Christmas tree goes out
 
