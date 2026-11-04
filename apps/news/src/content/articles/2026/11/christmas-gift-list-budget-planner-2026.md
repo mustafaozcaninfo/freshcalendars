@@ -75,7 +75,7 @@ internalLinks:
     label: "When is Christmas Day"
   - href: "/november-calendars.html"
     label: "November 2026 printable calendar"
-related: [fedex-ups-holiday-shipping-deadlines-2026-christmas, weekends-until-christmas-2026-saturday-planner-shipping-deadlines, usps-holiday-shipping-deadlines-2026]
+related: [secret-santa-2026-printable, weekends-until-christmas-2026-saturday-planner-shipping-deadlines, usps-holiday-shipping-deadlines-2026]
 downloads:
   - group: "Christmas gift list printables"
     title: "Christmas Gift List and Budget Planner 2026"

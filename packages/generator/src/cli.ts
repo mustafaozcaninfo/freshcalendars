@@ -28,6 +28,7 @@ import { buildGta6Downloads } from "./gta6.js";
 import { buildVeteransDownloads } from "./veterans.js";
 import { buildNflBracketDownloads } from "./nflBracket.js";
 import { buildGiftListDownloads } from "./giftList.js";
+import { buildHabitTrackerDownloads } from "./habitTracker.js";
 import { buildThanksgivingCookingDownloads } from "./thanksgivingCooking.js";
 import { buildShoppingDownloads } from "./shopping2026.js";
 import { buildSkyDownloads } from "./sky2026.js";
@@ -157,6 +158,8 @@ async function main(): Promise<void> {
       await buildVeteransDownloads();
     } else if (cmd === "news-nfl-bracket") {
       await buildNflBracketDownloads();
+    } else if (cmd === "news-habit-tracker") {
+      await buildHabitTrackerDownloads();
     } else if (cmd === "news-gift-list") {
       await buildGiftListDownloads();
     } else if (cmd === "news-thanksgiving-cooking") {
