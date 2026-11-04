@@ -102,7 +102,7 @@ internalLinks:
     label: "January 2027 printable calendar"
   - href: "/printable-weekly-calendar.html"
     label: "Printable weekly calendar"
-related: [december-2026-important-dates-holidays-days-until, january-2027-calendar-printable, january-2027-reset-planner-printable]
+related: [national-popcorn-day-2027-january-19, january-2027-calendar-printable, year-end-digital-cleanup-checklist-2026]
 downloads:
   - group: "January 2027 Important Dates printables"
     title: "January 2027 Important Dates"
