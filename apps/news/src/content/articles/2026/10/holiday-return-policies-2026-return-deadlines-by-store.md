@@ -14,29 +14,35 @@ assets:
   date: "2027-01-15"
   card: { top: "Best Buy holiday return deadline", big: "Fri., Jan. 15", bottom: "Jan. 31 for Plus and Total members" }
   printable:
-    slug: holiday-return-tracker-2026
+    kit: fact-table
+    slug: holiday-return-tracker-2026-fact-table
     group: holiday-returns-2026
-    title: "Holiday Return Tracker 2026"
+    title: "Holiday Return Tracker 2026: Deadlines by Store"
     subtitle: "Posted store return windows and deadlines, as of Nov. 3, 2026"
-    layout: checklist
-    noKit: "This sheet lists store return windows and a returns checklist, not a ship-by deadline matrix."
-    rows:
-      - { when: "Fri., Oct. 30", what: "Best Buy holiday return window opens", section: "Return dates" }
-      - { when: "Sun., Nov. 1", what: "Target extended window opens (electronics and entertainment)", section: "Return dates" }
-      - { when: "Thu., Dec. 24", what: "Last day of Target's extended-window purchases", section: "Return dates" }
-      - { when: "Sat., Dec. 26", what: "Target's extended return window begins", section: "Return dates" }
-      - { when: "Thu., Dec. 31", what: "Last day of Best Buy's holiday purchase window", section: "Return dates" }
-      - { when: "Jan. 8, 2027 (Fri.)", what: "Target return-by date, Apple, Beats and mobile phones", section: "Return dates" }
-      - { when: "Jan. 15, 2027 (Fri.)", what: "Best Buy return deadline, most purchases", section: "Return dates" }
-      - { when: "Jan. 24, 2027 (Sun.)", what: "Target return-by date, electronics, entertainment and most Target Plus items", section: "Return dates" }
-      - { when: "Jan. 31, 2027 (Sun.)", what: "Best Buy return deadline, Plus and Total members", section: "Return dates" }
-      - { when: "", what: "Keep receipts and order numbers", section: "Before you return" }
-      - { when: "", what: "Note the return-by date on each gift", section: "Before you return" }
-      - { when: "", what: "Check the product page for exceptions", section: "Before you return" }
-      - { when: "", what: "Check whether a marketplace seller set the window", section: "Before you return" }
-    note: "Source: Best Buy Corporate News (Oct. 27, 2026) and Target Holiday Help FAQs (page as read on Nov. 3, 2026; the page shows no date). Weekdays are our computation."
+    note: "Source: Best Buy Corporate News (Oct. 27, 2026); Target Holiday Help FAQs (read Nov. 3, 2026); Amazon dates from PPC Land and Value Added Resource; Apple, Costco and Nordstrom returns pages."
     description: "One-page 2026 holiday return tracker: Best Buy and Target return windows, deadlines Jan. 15 and Jan. 31, 2027, and a checklist for returning gifts."
     alt: "Printable 2026 holiday return tracker with Best Buy and Target dates and a returns checklist"
+    landscape: true
+    data:
+      highlight: store
+      columns:
+        - { key: store, label: "Store" }
+        - { key: terms, label: "2026 holiday return window" }
+        - { key: by, label: "Return-by date" }
+      rows:
+        - { cells: { store: "Best Buy", terms: "Most purchases Oct. 30 to Dec. 31, 2026", by: "Jan. 15, 2027; Jan. 31, 2027 for Plus and Total members" }, src: 1 }
+        - { cells: { store: "Target", terms: "Purchases Nov. 1 to Dec. 24, 2026; window opens Dec. 26", by: "Jan. 24, 2027 (most); Jan. 8, 2027 for Apple, Beats, phones" }, src: 2 }
+        - { cells: { store: "Amazon", terms: "Items Nov. 1 to Dec. 31, 2026 (per trade outlets)", by: "Jan. 31, 2027; Jan. 15, 2027 for Apple-brand" }, src: 4 }
+        - { cells: { store: "Apple", terms: "No holiday window listed", by: "14 days from receipt" }, src: 6 }
+        - { cells: { store: "Costco", terms: "No holiday extension; satisfaction guarantee", by: "Varies by item" }, src: 8 }
+        - { cells: { store: "Nordstrom", terms: "No holiday extension", by: "No time limit on most items" }, src: 9 }
+      note:
+        - "Before you return: keep receipts and order numbers."
+        - "Note the return-by date on each gift."
+        - "Check the product page for exceptions."
+        - "Check whether a marketplace seller set the window."
+      unconfirmed:
+        - { label: "Walmart holiday return terms", why: "not confirmed on Walmart's official page as of Oct. 30, 2026" }
 hero:
   src: ../../../../assets/news/holiday-return-policies-2026-return-deadlines-by-store/holiday-return-policies-2026-return-deadlines-by-store.webp
   alt: "Wrapped gifts under a Christmas tree, illustrating 2026 holiday return policies and return deadlines by store"
@@ -109,18 +115,10 @@ downloads:
   - group: "Holiday Return Tracker 2026 printables"
     title: "Holiday Return Tracker 2026"
     description: "One-page 2026 holiday return tracker: Best Buy and Target return windows, deadlines Jan. 15 and Jan. 31, 2027, and a checklist for returning gifts."
-    preview: ../../../../assets/news/holiday-returns-2026/holiday-return-tracker-2026.png
+    preview: ../../../../assets/news/holiday-returns-2026/holiday-return-tracker-2026-fact-table.png
     alt: "Printable 2026 holiday return tracker with Best Buy and Target dates and a returns checklist"
-    pdf: "/news/downloads/holiday-returns-2026/holiday-return-tracker-2026.pdf"
-    png: "/news/downloads/holiday-returns-2026/holiday-return-tracker-2026.png"
-    pages: 1
-  - group: "Holiday Return Tracker 2026 printables"
-    title: "Holiday Return Tracker 2026 (ink saver)"
-    description: "One-page 2026 holiday return tracker: Best Buy and Target return windows, deadlines Jan. 15 and Jan. 31, 2027, and a checklist for returning gifts. Ink-saver version."
-    preview: ../../../../assets/news/holiday-returns-2026/holiday-return-tracker-2026-ink.png
-    alt: "Printable 2026 holiday return tracker with Best Buy and Target dates and a returns checklist, ink-saver version"
-    pdf: "/news/downloads/holiday-returns-2026/holiday-return-tracker-2026-ink.pdf"
-    png: "/news/downloads/holiday-returns-2026/holiday-return-tracker-2026-ink.png"
+    pdf: "/news/downloads/holiday-returns-2026/holiday-return-tracker-2026-fact-table.pdf"
+    png: "/news/downloads/holiday-returns-2026/holiday-return-tracker-2026-fact-table.png"
     pages: 1
 draft: false
 ---

@@ -1,9 +1,9 @@
 {
-  "v": 2,
-  "kit": "list:checklist",
-  "hash": "0cee8afb061ee280",
+  "v": 3,
+  "kit": "fact-table",
+  "hash": "4e9ae696655cdce0",
   "files": [
-    "/news/downloads/holiday-returns-2026/holiday-return-tracker-2026.pdf"
+    "/news/downloads/holiday-returns-2026/holiday-return-tracker-2026-fact-table.pdf"
   ],
   "computed": []
 }

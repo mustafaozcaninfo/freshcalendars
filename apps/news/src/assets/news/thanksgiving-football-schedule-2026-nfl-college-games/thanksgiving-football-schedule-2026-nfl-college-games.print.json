@@ -1,9 +1,28 @@
 {
   "v": 3,
-  "kit": "list:list",
-  "hash": "2c683009268a29d0",
+  "kit": "watch-guide",
+  "hash": "58a7c911a948dd89",
   "files": [
-    "/news/downloads/thanksgiving-2026/thanksgiving-football-schedule-2026.pdf"
+    "/news/downloads/thanksgiving-2026/thanksgiving-football-watch-guide-2026.pdf"
   ],
-  "computed": []
+  "computed": [
+    "7 p.m.",
+    "6 p.m.",
+    "5 p.m.",
+    "noon",
+    "11 a.m.",
+    "10 a.m.",
+    "3:30 p.m.",
+    "2:30 p.m.",
+    "1:30 p.m.",
+    "7:20 p.m.",
+    "6:20 p.m.",
+    "5:20 p.m.",
+    "9 a.m.",
+    "2 p.m.",
+    "1 p.m.",
+    "6:30 p.m.",
+    "5:30 p.m.",
+    "4:30 p.m."
+  ]
 }

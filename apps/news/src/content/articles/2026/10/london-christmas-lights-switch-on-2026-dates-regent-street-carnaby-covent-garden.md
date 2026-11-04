@@ -102,11 +102,19 @@ internalLinks:
 downloads:
   - group: "Christmas Lights Switch-On Dates 2026 printables"
     title: "Christmas Lights Switch-On Dates 2026, London and Belfast"
-    description: "A one-page list of the 2026 Christmas lights switch-on dates in Carnaby Street, Regent Street, Oxford Street, Covent Garden, Bond Street and Belfast, plus the Somerset House rink opening."
-    preview: ../../../../assets/news/london-christmas-lights-2026/london-christmas-lights-switch-on-2026-dates.png
+    description: "A one-page list of the 2026 Christmas lights switch-on dates in Carnaby Street, Regent Street, Oxford Street, Covent Garden, Bond Street and Belfast."
+    preview: ../../../../assets/news/london-christmas-lights-2026/london-christmas-lights-switch-on-2026-watch-guide.png
     alt: "Printable calendar of 2026 Christmas lights switch-on dates in London and Belfast."
-    pdf: "/news/downloads/london-christmas-lights-2026/london-christmas-lights-switch-on-2026-dates.pdf"
-    png: "/news/downloads/london-christmas-lights-2026/london-christmas-lights-switch-on-2026-dates.png"
+    pdf: "/news/downloads/london-christmas-lights-2026/london-christmas-lights-switch-on-2026-watch-guide.pdf"
+    png: "/news/downloads/london-christmas-lights-2026/london-christmas-lights-switch-on-2026-watch-guide.png"
+    pages: 1
+  - group: "Christmas Lights Switch-On Dates 2026 printables"
+    title: "Christmas Lights Switch-On Dates 2026, London and Belfast (A4)"
+    description: "A one-page list of the 2026 Christmas lights switch-on dates in Carnaby Street, Regent Street, Oxford Street, Covent Garden, Bond Street and Belfast. A4 paper."
+    preview: ../../../../assets/news/london-christmas-lights-2026/london-christmas-lights-switch-on-2026-watch-guide-a4.png
+    alt: "Printable calendar of 2026 Christmas lights switch-on dates in London and Belfast., A4"
+    pdf: "/news/downloads/london-christmas-lights-2026/london-christmas-lights-switch-on-2026-watch-guide-a4.pdf"
+    png: "/news/downloads/london-christmas-lights-2026/london-christmas-lights-switch-on-2026-watch-guide-a4.png"
     pages: 1
 draft: false
 assets:
@@ -115,22 +123,27 @@ assets:
   date: "2026-11-04"
   card: { top: "Carnaby Street switches on", big: "Wed., Nov. 4", bottom: "Regent Street Thu., Nov. 5" }
   printable:
-    slug: london-christmas-lights-switch-on-2026-dates
+    kit: watch-guide
+    slug: london-christmas-lights-switch-on-2026-watch-guide
     group: london-christmas-lights-2026
     title: "Christmas Lights Switch-On Dates 2026, London and Belfast"
-    subtitle: "Confirmed dates from the official sources"
-    noKit: "A dated list of local switch-on events, not a bank holiday, planner, watch guide or deadline matrix."
-    rows:
-      - ["Tue., Nov. 3", "Belfast switch-on tickets on sale from 10am"]
-      - ["Wed., Nov. 4", "Carnaby Street switch-on, from 4.30pm, free ticket sign-up"]
-      - ["Thu., Nov. 5", "Regent Street lights return, traffic-free event"]
-      - ["Mon., Nov. 9", "Oxford Street Harry Potter switch-on, from 4:30pm"]
-      - ["Wed., Nov. 11", "Skate at Somerset House opens"]
-      - ["Thu., Nov. 12", "Covent Garden switch-on; Bond Street lights up"]
-      - ["Sat., Nov. 14", "Belfast City Hall switch-on, 6.30pm to 7.30pm, ticketed"]
-    note: "Source: Regent Street Online; Shaftesbury Capital (Carnaby Street); Covent Garden; Oxford Street; Bond Street; Belfast City Council; Somerset House."
-    description: "A one-page list of the 2026 Christmas lights switch-on dates in Carnaby Street, Regent Street, Oxford Street, Covent Garden, Bond Street and Belfast, plus the Somerset House rink opening."
+    subtitle: "Confirmed dates from the official sources, in UK time and Eastern Time"
+    note: "Source: Shaftesbury Capital (Carnaby Street), Regent Street Online, Oxford Street, Covent Garden, Bond Street and Belfast City Council."
+    description: "A one-page list of the 2026 Christmas lights switch-on dates in Carnaby Street, Regent Street, Oxford Street, Covent Garden, Bond Street and Belfast."
     alt: "Printable calendar of 2026 Christmas lights switch-on dates in London and Belfast."
+    data:
+      pick: "Going?"
+      layout: table
+      events:
+        - { start: "2026-11-04T16:30+00:00", tz: "Europe/London", title: "Carnaby Street switch-on", detail: "free ticket sign-up", src: 8 }
+        - { date: "2026-11-05", time: tba, title: "Regent Street lights return", detail: "traffic-free event", src: 7 }
+        - { start: "2026-11-09T16:30+00:00", tz: "Europe/London", title: "Oxford Street switch-on", detail: "Harry Potter theme", src: 2 }
+        - { date: "2026-11-12", time: tba, title: "Covent Garden switch-on", src: 9 }
+        - { date: "2026-11-12", time: tba, title: "Bond Street switch-on", src: 3 }
+        - { start: "2026-11-14T18:30+00:00", tz: "Europe/London", title: "Belfast City Hall switch-on", detail: "ticketed event", src: 10 }
+      unconfirmed:
+        - { label: "Leicester Square switch-on", why: "Time Out and Fact Magazines reported Nov. 1, 2026; the square's own site shows no date" }
+        - { label: "Trafalgar Square tree lighting", why: "the 2026 date has not been announced" }
 ---
 
 **Carnaby Street switches on its Christmas lights on Wednesday 4 November 2026, Regent Street's lights return from Thursday 5 November and Covent Garden's switch-on is on Thursday 12 November**, according to Shaftesbury Capital's Soho site, Regent Street Online and Covent Garden. The table below puts every confirmed date in order, with the official source, ticket needs and Eastern Time (ET) for the two events with a published clock time. A printable is further down.

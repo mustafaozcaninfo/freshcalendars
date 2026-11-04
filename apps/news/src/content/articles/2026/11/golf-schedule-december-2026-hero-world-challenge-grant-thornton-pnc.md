@@ -14,24 +14,33 @@ assets:
   date: "2026-12-03"
   card: { top: "Hero World Challenge starts", big: "Thu., Dec. 3", bottom: "Albany, Bahamas, $5 million purse" }
   printable:
-    noKit: "The source gives TV windows as '1-4 p.m. ET' ranges with no date per day, so a watch-guide kit's per-item quote check cannot pass; this is a dated multi-event list."
-    slug: golf-schedule-december-2026-printable
+    kit: fact-table
+    slug: golf-schedule-december-2026-fact-table
     group: golf-december-2026
     title: "Golf Schedule December 2026: Dates and TV Windows"
     subtitle: "Hero World Challenge, Grant Thornton Invitational, PNC Championship and DP World Tour"
-    layout: list
-    rows:
-      - ["Thu., Dec. 3 to Sun., Dec. 6", "Hero World Challenge, Albany Golf Club, Bahamas, $5,000,000. 2026 TV not yet announced"]
-      - ["Fri., Dec. 4 to Mon., Dec. 7", "DP World Tour: Crown Australian Open and Nedbank Golf Challenge"]
-      - ["Fri., Dec. 11", "Grant Thornton Invitational round 1, Golf Channel 1-4 p.m. ET"]
-      - ["Sat., Dec. 12", "Grant Thornton: Golf Channel 2-3 p.m. ET, then NBC 3-5 p.m. ET"]
-      - ["Sun., Dec. 13", "Grant Thornton: Golf Channel 1-2 p.m. ET, then NBC 2-4 p.m. ET"]
-      - ["Fri., Dec. 11 to Mon., Dec. 14", "DP World Tour: Alfred Dunhill Championship, Royal Johannesburg"]
-      - ["Thu., Dec. 17 to Sun., Dec. 20", "PNC Championship event week, Ritz-Carlton Golf Club, Orlando. Round days not yet posted"]
-      - ["Fri., Dec. 18 to Mon., Dec. 21", "DP World Tour: AfrAsia Bank Mauritius Open"]
-    note: "Source: PGA Tour tournament pages; Grant Thornton press release, Oct. 22, 2026; PNC Championship site; DP World Tour schedule. Weekdays computed by Fresh Calendars."
+    note: "Source: PGA Tour tournament pages; Grant Thornton press release, Oct. 22, 2026; PNC Championship site; DP World Tour schedule."
     description: "One-page list of December 2026 golf: Hero World Challenge, Grant Thornton Invitational TV windows in ET, PNC Championship week and DP World Tour events."
     alt: "Printable December 2026 golf schedule listing the Hero World Challenge, Grant Thornton Invitational, PNC Championship and DP World Tour dates"
+    landscape: true
+    data:
+      columns:
+        - { key: event, label: "Event" }
+        - { key: dates, label: "Dates (2026)" }
+        - { key: course, label: "Course" }
+        - { key: purse, label: "Purse", align: right }
+      rows:
+        - { cells: { event: "Hero World Challenge (PGA Tour)", dates: "Dec. 3-6", course: "Albany Golf Club, Bahamas", purse: "$5,000,000" }, src: 1 }
+        - { cells: { event: "Grant Thornton Invitational (PGA Tour and LPGA)", dates: "Dec. 11-13", course: "Tiburón Golf Club, Naples, Florida", purse: "$4.1 million" }, src: 3 }
+        - { cells: { event: "PNC Championship (PGA Tour Champions)", dates: "Dec. 17-20", course: "Ritz-Carlton Golf Club, Orlando", purse: "$1,085,000" }, src: 7 }
+        - { cells: { event: "Crown Australian Open (DP World Tour)", dates: "Dec. 4-7", course: "Royal Melbourne Golf Club" }, src: 8 }
+        - { cells: { event: "Nedbank Golf Challenge (DP World Tour)", dates: "Dec. 4-7", course: "Gary Player Country Club, Sun City, South Africa" }, src: 8 }
+        - { cells: { event: "Alfred Dunhill Championship (DP World Tour)", dates: "Dec. 11-14", course: "Royal Johannesburg" }, src: 8 }
+        - { cells: { event: "AfrAsia Bank Mauritius Open (DP World Tour)", dates: "Dec. 18-21", course: "Heritage La Réserve Golf Links" }, src: 8 }
+      note:
+        - "Grant Thornton on Golf Channel in ET: Fri., Dec. 11, 1-4 p.m.; Sat., Dec. 12, 2-3 p.m.; Sun., Dec. 13, 1-2 p.m."
+        - "Grant Thornton on NBC in ET: Sat., Dec. 12, 3-5 p.m.; Sun., Dec. 13, 2-4 p.m."
+        - "Hero World Challenge 2026 TV windows are not yet announced; PNC Championship round days are not yet posted."
 hero:
   src: ../../../../assets/news/golf-schedule-december-2026-hero-world-challenge-grant-thornton-pnc/golf-schedule-december-2026-hero-world-challenge-grant-thornton-pnc.webp
   alt: "Golf schedule December 2026: a sunlit golf course with a raked bunker in the foreground and palm trees lining the fairway"
@@ -93,10 +102,10 @@ downloads:
   - group: "Golf Schedule December 2026 printables"
     title: "Golf Schedule December 2026: Dates and TV Windows"
     description: "One-page list of December 2026 golf: Hero World Challenge, Grant Thornton Invitational TV windows in ET, PNC Championship week and DP World Tour events."
-    preview: ../../../../assets/news/golf-december-2026/golf-schedule-december-2026-printable.png
+    preview: ../../../../assets/news/golf-december-2026/golf-schedule-december-2026-fact-table.png
     alt: "Printable December 2026 golf schedule listing the Hero World Challenge, Grant Thornton Invitational, PNC Championship and DP World Tour dates"
-    pdf: "/news/downloads/golf-december-2026/golf-schedule-december-2026-printable.pdf"
-    png: "/news/downloads/golf-december-2026/golf-schedule-december-2026-printable.png"
+    pdf: "/news/downloads/golf-december-2026/golf-schedule-december-2026-fact-table.pdf"
+    png: "/news/downloads/golf-december-2026/golf-schedule-december-2026-fact-table.png"
     pages: 1
 internalLinks:
   - href: "/december-calendars.html"
