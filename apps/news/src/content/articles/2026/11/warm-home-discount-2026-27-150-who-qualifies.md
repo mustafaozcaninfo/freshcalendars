@@ -91,7 +91,7 @@ assets:
           quote: "For winter 2026 to 2027, the qualifying date is 23 August 2026."
         - date: "2027-02-26"
           cells:
-            Who: { text: "Anyone eligible with no letter", src: 4 }
+            Who: { text: "eligible households with no letter", src: 4 }
             What to check or do: { text: "Contact the scheme before this date if no letter by early Jan. 2027", src: 4 }
           src: 4
           quote: "You must contact them before 26 February 2027."

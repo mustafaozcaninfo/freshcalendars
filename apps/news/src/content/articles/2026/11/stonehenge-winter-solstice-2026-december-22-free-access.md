@@ -31,7 +31,7 @@ assets:
         - { start: "2026-12-22T08:09+00:00", title: "Sunrise (approximate)", src: 1, quote: "Sunrise will take place at 8:09am on Tuesday 22nd December (approximate timings)." }
         - { start: "2026-12-22T09:00+00:00", title: "Last parking admission", src: 1, quote: ["Last parking admission will be at 9:00am.", "free access to Stonehenge on Tuesday 22nd December"] }
         - { start: "2026-12-22T11:00+00:00", title: "Car park must be vacated", src: 1, quote: "Visitors must vacate the car park by 11:00am on Tuesday 22nd December." }
-      fill: { title: "My Stonehenge plan", labels: ["Travel", "Parking booked"] }
+      fill: { title: "Stonehenge morning plan", labels: ["Travel", "Parking booked"] }
       unconfirmed:
         - { label: "Stone circle opening and closing times", why: "Not on English Heritage's page as of Nov. 4, 2026" }
 hero:

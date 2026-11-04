@@ -30,47 +30,47 @@ assets:
         - type: checklist
           title: "What I ate each day"
           groups:
-            - title: "Week of Jan. 1-3"
+            - title: "Days 1 to 3"
               items:
-                - "Fri., Jan. 1: ______"
-                - "Sat., Jan. 2: ______"
-                - "Sun., Jan. 3: ______"
-            - title: "Week of Jan. 4-10"
+                - "Day 1: ______"
+                - "Day 2: ______"
+                - "Day 3: ______"
+            - title: "Days 4 to 10"
               items:
-                - "Mon., Jan. 4: ______"
-                - "Tue., Jan. 5: ______"
-                - "Wed., Jan. 6: ______"
-                - "Thu., Jan. 7: ______"
-                - "Fri., Jan. 8: ______"
-                - "Sat., Jan. 9: ______"
-                - "Sun., Jan. 10: ______"
-            - title: "Week of Jan. 11-17"
+                - "Day 4: ______"
+                - "Day 5: ______"
+                - "Day 6: ______"
+                - "Day 7: ______"
+                - "Day 8: ______"
+                - "Day 9: ______"
+                - "Day 10: ______"
+            - title: "Days 11 to 17"
               items:
-                - "Mon., Jan. 11: ______"
-                - "Tue., Jan. 12: ______"
-                - "Wed., Jan. 13: ______"
-                - "Thu., Jan. 14: ______"
-                - "Fri., Jan. 15: ______"
-                - "Sat., Jan. 16: ______"
-                - "Sun., Jan. 17: ______"
-            - title: "Week of Jan. 18-24"
+                - "Day 11: ______"
+                - "Day 12: ______"
+                - "Day 13: ______"
+                - "Day 14: ______"
+                - "Day 15: ______"
+                - "Day 16: ______"
+                - "Day 17: ______"
+            - title: "Days 18 to 24"
               items:
-                - "Mon., Jan. 18: ______"
-                - "Tue., Jan. 19: ______"
-                - "Wed., Jan. 20: ______"
-                - "Thu., Jan. 21: ______"
-                - "Fri., Jan. 22: ______"
-                - "Sat., Jan. 23: ______"
-                - "Sun., Jan. 24: ______"
-            - title: "Week of Jan. 25-31"
+                - "Day 18: ______"
+                - "Day 19: ______"
+                - "Day 20: ______"
+                - "Day 21: ______"
+                - "Day 22: ______"
+                - "Day 23: ______"
+                - "Day 24: ______"
+            - title: "Days 25 to 31"
               items:
-                - "Mon., Jan. 25: ______"
-                - "Tue., Jan. 26: ______"
-                - "Wed., Jan. 27: ______"
-                - "Thu., Jan. 28: ______"
-                - "Fri., Jan. 29: ______"
-                - "Sat., Jan. 30: ______"
-                - "Sun., Jan. 31: ______"
+                - "Day 25: ______"
+                - "Day 26: ______"
+                - "Day 27: ______"
+                - "Day 28: ______"
+                - "Day 29: ______"
+                - "Day 30: ______"
+                - "Day 31: ______"
         - type: lines
           title: "My favorites this month"
           labels: ["Best meal", "Next to try"]
@@ -176,7 +176,7 @@ Veganuary's frequently asked questions (FAQ) page says "roughly 30 million peopl
 
 ## How do Veganuary and Dry January overlap?
 
-Both fill the same 31 days, Jan. 1 to Jan. 31, 2027, and both are run by charities. They are separate campaigns: [Dry January is run by Alcohol Change UK](/news/dry-january-2027-tracker/) and has its own sign-up and tracker. Anyone doing both would use the same calendar month, so a combined sheet is simply two sets of check-ins on the same 31 days.
+Both fill the same 31 days, Jan. 1 to Jan. 31, 2027, and both are run by charities. They are separate campaigns: Dry January is run by Alcohol Change UK and has its own sign-up and tracker. Anyone doing both would use the same calendar month, so a combined sheet is simply two sets of check-ins on the same 31 days.
 
 ## What is in the free Veganuary 2027 meal tracker?
 

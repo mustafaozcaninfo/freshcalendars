@@ -82,7 +82,7 @@ assets:
         - date: "2026-11-08"
           cells:
             Street cleaning (ASP): { text: "Diwali, suspended (Sunday)", src: 1 }
-            Parking meters: { text: "You do not have to pay (311, Sundays)", src: 1 }
+            Parking meters: { text: "No payment on Sunday (311)", src: 1 }
           src: 1
           quote: "Sunday, Nov. 8, Diwali"
         - date: "2026-11-11"
