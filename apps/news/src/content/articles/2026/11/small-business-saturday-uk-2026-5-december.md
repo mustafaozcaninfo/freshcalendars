@@ -36,7 +36,7 @@ assets:
         - { daysBefore: 7, task: "Put the poster up and follow the organiser accounts" }
         - { daysBefore: 1, task: "Check stock and Saturday opening hours" }
         - { daysBefore: 0, task: "Post on the day and tag the organiser accounts" }
-      fill: ["After the day: thank customers", "Posts that worked", "Sales notes"]
+      fill: ["After the day: thank customers", "Posts that worked", "Notes for next year"]
       unconfirmed:
         - { label: "Out And About tour dates and places", why: "The organiser had posted none on Nov. 4, 2026" }
 hero:
