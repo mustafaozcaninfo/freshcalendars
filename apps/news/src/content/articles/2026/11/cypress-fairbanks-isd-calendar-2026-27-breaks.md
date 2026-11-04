@@ -81,7 +81,7 @@ assets:
         - { from: "2026-09-07", kind: holiday, label: "Labor Day", src: 1, quote: "Sept. 7 Student/Staff Holiday" }
         - { from: "2026-10-09", kind: holiday, label: "Student holiday, weather makeup day", src: 1, quote: "Oct. 9 Teacher Work Day/School Closure Make-up Day/Student Holiday/Inclement Weather Day" }
         - { from: "2026-10-12", to: "2026-10-16", kind: break, label: "Fall break", src: 1, quote: "Oct. 12-16 Student/Staff Holiday" }
-        - { from: "2026-11-03", kind: holiday, label: "Student holiday, Election Day", src: 1, quote: "Nov. 3 Teacher Work Day/School Closure Make-up Day/Student Holiday" }
+        - { from: "2026-11-03", kind: holiday, label: "Student holiday", src: 1, quote: "Nov. 3 Teacher Work Day/School Closure Make-up Day/Student Holiday" }
         - { from: "2026-11-23", to: "2026-11-27", kind: break, label: "Thanksgiving break", src: 1, quote: "Nov. 23-27 Student/Staff Holiday" }
         - { from: "2026-12-21", to: "2027-01-01", kind: break, label: "Winter break", src: 1, quote: "Dec. 21 - Jan. 1 Student/Staff Holiday" }
         - { from: "2027-01-04", kind: holiday, label: "Professional day, no school", src: 1, quote: "Jan. 4 Professional Day" }

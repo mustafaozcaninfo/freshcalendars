@@ -74,7 +74,7 @@ assets:
       start: "2026-08"
       months: 11
       events:
-        - { from: "2026-08-24", kind: first, label: "First day, K-12", src: 1 }
+        - { from: "2026-08-24", kind: first, label: "First day of school", src: 1 }
         - { from: "2026-09-07", kind: holiday, label: "Labor Day", src: 1, quote: "Labor Day - Sept. 7" }
         - { from: "2026-09-28", kind: holiday, label: "Planning day", src: 2, quote: "Monday, September 28" }
         - { from: "2026-10-30", kind: holiday, label: "Planning day", src: 2, quote: "Friday, October 30" }
@@ -82,7 +82,7 @@ assets:
         - { from: "2026-12-21", to: "2027-01-01", kind: break, label: "Winter break", src: 1 }
         - { from: "2027-01-04", kind: holiday, label: "Planning day", src: 2, quote: "Monday, January 4" }
         - { from: "2027-01-18", kind: holiday, label: "Martin Luther King Jr. Day", src: 1, quote: "Dr. Martin Luther King, Jr. Day - Jan. 18" }
-        - { from: "2027-02-15", kind: holiday, label: "Presidents' Day", src: 1, quote: "President's Day - Feb. 15" }
+        - { from: "2027-02-15", kind: holiday, label: "President's Day", src: 1, quote: "President's Day - Feb. 15" }
         - { from: "2027-02-26", kind: holiday, label: "Planning day", src: 2, quote: "Friday, February 26" }
         - { from: "2027-03-29", to: "2027-04-02", kind: break, label: "Spring break", src: 1 }
         - { from: "2027-04-30", kind: holiday, label: "Planning day", src: 2, quote: "Friday, April 30" }
