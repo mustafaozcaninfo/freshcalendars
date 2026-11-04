@@ -62,7 +62,7 @@ internalLinks:
 related:
   - daylight-saving-time-ends-november-1-2026
   - uk-europe-clocks-go-back-october-25-2026-time-difference
-  - sunset-times-after-daylight-saving-time-ends-2026
+  - uk-clocks-go-forward-2027-march-28-bst
 downloads:
   - group: "Clock Changes 2027 printables"
     title: "Clock Changes 2027: U.S., UK, Europe and Australia"

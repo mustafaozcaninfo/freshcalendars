@@ -46,7 +46,7 @@ internalLinks:
     label: "January printable calendars"
   - href: "/printable-yearly-calendar.html"
     label: "Printable yearly calendar"
-related: [moon-phases-2027-full-moon-calendar, supermoon-2026-beaver-moon-cold-moon-geminids-solstice, november-2026-meteor-showers-taurids-leonids]
+related: [moon-phases-2027-full-moon-calendar, supermoon-2026-beaver-moon-cold-moon-geminids-solstice, planets-visible-january-2027-night-sky-calendar]
 assets:
   overlay: true
   kicker: "Quadrantids 2027"
