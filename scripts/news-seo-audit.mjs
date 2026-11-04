@@ -496,7 +496,10 @@ check("09-NEWS-SITEMAP", "Google News sitemap: publication name/language, ISO da
   }
   // Stories scheduled for later (a check build with NEWS_INCLUDE_FUTURE) are not in the window yet:
   // the window ends at the newest story already due, as in a publishing build.
-  const newest = Math.max(...articleUrls.filter(indexable).map((u) => Date.parse(ART(u).datePublished)).filter((t) => t <= Date.now()));
+  // "Due" means due when the build started: a story that fell due between the sitemap and this
+  // audit (minutes later) is not in the sitemap and should not be. Falls back to the clock.
+  const builtAt = (() => { try { return Date.parse(readFileSync(path.join(dist, "..", "news-data", "build-started"), "utf8").trim()) || Date.now(); } catch { return Date.now(); } })();
+  const newest = Math.max(...articleUrls.filter(indexable).map((u) => Date.parse(ART(u).datePublished)).filter((t) => t <= builtAt));
   dates.forEach((d) => { if (newest - d > 48 * 3600e3) fails.push(`entry ${new Date(d).toISOString()} older than 48h before the newest story`); });
   const listed = new Set(items.map((it) => it.match(/<loc>([^<]+)</)[1].replace("https://freshcalendars.com", "")));
   articleUrls.filter((u) => indexable(u) && Date.parse(ART(u).datePublished) <= newest && newest - Date.parse(ART(u).datePublished) < 24 * 3600e3 && !listed.has(u)).forEach((u) => fails.push(`${u}: story from the last 24h missing`));
