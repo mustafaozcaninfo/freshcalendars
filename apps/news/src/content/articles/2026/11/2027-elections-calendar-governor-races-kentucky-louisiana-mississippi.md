@@ -98,7 +98,15 @@ assets:
         - { label: "Louisiana 2027 election dates", why: "No 2027 calendar from the Secretary of State could be read as of Nov. 4, 2026" }
         - { label: "Virginia 2027 primary date", why: "Not yet set; the state-law default is the third Tuesday in June" }
         - { label: "New Jersey 2027 election timeline", why: "Not yet posted by the Division of Elections as of Nov. 4, 2026" }
-downloads: []
+downloads:
+  - group: "2027 Election Dates printables"
+    title: "2027 Election Dates: Kentucky and Mississippi"
+    description: "One page of the 2027 election dates Kentucky and Mississippi have posted: filing, registration, primaries, runoffs and the Nov. 2, 2027 general election."
+    preview: ../../../../assets/news/2027-elections-calendar/2027-election-dates-kentucky-mississippi.png
+    alt: "Printable grid of 2027 election dates for Kentucky and Mississippi, in date order, counting down to Nov. 2, 2027"
+    pdf: "/news/downloads/2027-elections-calendar/2027-election-dates-kentucky-mississippi.pdf"
+    png: "/news/downloads/2027-elections-calendar/2027-election-dates-kentucky-mississippi.png"
+    pages: 1
 draft: false
 ---
 

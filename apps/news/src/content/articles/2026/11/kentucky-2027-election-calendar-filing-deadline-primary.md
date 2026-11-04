@@ -52,7 +52,7 @@ internalLinks:
     label: "November printable calendar"
   - href: "/printable-yearly-calendar.html"
     label: "Printable yearly calendar"
-related: [when-do-2026-election-winners-take-office-congress-governors, 2026-midterm-elections-whats-on-the-ballot-results-tracker]
+related: [when-do-2026-election-winners-take-office-congress-governors, 2026-midterm-elections-whats-on-the-ballot-results-tracker, 2027-elections-calendar-governor-races-kentucky-louisiana-mississippi]
 assets:
   overlay: true
   kicker: "Kentucky elections · 2027"
