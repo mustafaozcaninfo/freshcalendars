@@ -55,7 +55,7 @@ internalLinks:
     label: "February printable calendars"
   - href: "/march-calendars.html"
     label: "March printable calendars"
-related: [valentines-day-2027-sunday-february-14-dates-printables, mardi-gras-2027-february-9-ash-wednesday-february-10-lent-calendar, january-2027-calendar-printable]
+related: [valentines-day-2027-sunday-february-14-dates-printables, national-puzzle-day-2027-friday-january-29, january-2027-calendar-printable]
 assets:
   overlay: true
   kicker: "Groundhog Day 2027"

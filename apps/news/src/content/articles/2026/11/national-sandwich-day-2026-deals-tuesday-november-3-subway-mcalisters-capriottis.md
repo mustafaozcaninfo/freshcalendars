@@ -77,7 +77,7 @@ internalLinks:
     label: "printable weekly calendar"
   - href: "/when-is/veterans-day/"
     label: "When is Veterans Day?"
-related: [halloween-free-food-2026-chipotle-boorito-krispy-kreme-costume-deals-october-31, veterans-day-free-meals-discounts, holiday-deals-this-week-november-2-8-2026-target-best-buy-starbucks]
+related: [halloween-free-food-2026-chipotle-boorito-krispy-kreme-costume-deals-october-31, veterans-day-free-meals-discounts, national-pie-day-2027-saturday-january-23]
 draft: false
 downloads:
   - group: "National Sandwich Day 2026 Deals printables"

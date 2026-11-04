@@ -93,7 +93,7 @@ internalLinks:
     label: "November 2026 printable calendar"
   - href: "/printable-weekly-calendar.html"
     label: "printable weekly calendar"
-related: [pride-and-prejudice-netflix-release-date-december-3-reading-plan, national-family-literacy-day-2026-november-1-family-reading-plan, world-vegan-day-2026-sunday-november-1-world-vegan-month-planner]
+related: [pride-and-prejudice-netflix-release-date-december-3-reading-plan, national-family-literacy-day-2026-november-1-family-reading-plan, national-handwriting-day-2027-saturday-january-23]
 draft: false
 ---
 
