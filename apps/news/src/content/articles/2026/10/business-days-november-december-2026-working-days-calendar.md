@@ -53,7 +53,7 @@ internalLinks:
     label: "December 2026 printable calendar"
   - href: "/when-is/veterans-day/"
     label: "When is Veterans Day?"
-related: [is-christmas-eve-a-federal-holiday-2026, stock-market-holidays-2027-nyse-closed-dates, uk-christmas-bank-holidays-2026-boxing-day-substitute-december-28]
+related: [is-christmas-eve-a-federal-holiday-2026, stock-market-holidays-2027-nyse-closed-dates, add-business-days-excel-workday-holidays]
 assets:
   overlay: true
   kicker: "Business days · Nov. and Dec. 2026"
