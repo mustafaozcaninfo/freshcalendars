@@ -204,7 +204,7 @@ async function main(): Promise<void> {
     } else if (cmd === "news-txcalendar") {
       await buildTxCalendar();
     } else if (cmd === "news-assets") {
-      await buildNewsAssets(process.argv[3] ?? "");
+      await buildNewsAssets(process.argv[3] ?? "", { printableOnly: process.argv.includes("--printable-only") });
     } else if (cmd === "news-scenes") {
       const out = process.argv[3] && !process.argv[3].startsWith("--") ? process.argv[3] : undefined;
       await buildSceneGallery(out, argValue("--only")?.split(","));
@@ -240,7 +240,7 @@ async function main(): Promise<void> {
   pnpm fc refresh-meta      # daily: Eastern bake date, HTML only, no PNG/OG
   pnpm fc nfl-sync [--write]               # NFL 2026 schedule CSV vs ESPN and the 32 club sites (flexed times, scores)
   pnpm fc news-pickem [--weeks 9-12]       # NFL pick'em hub: weekly sheets, season sheets, story tables and downloads
-  pnpm fc news-assets <slug>               # /news/ story hero (illustrated scene) and printable from frontmatter assets:
+  pnpm fc news-assets <slug> [--printable-only] # /news/ story hero (illustrated scene) and printable from frontmatter assets:
   pnpm fc news-scenes [out.png] [--only a,b] # contact sheet of hero scenes (3D where available)
   pnpm fc news-printables [--since YYYY-MM-DD] [out.png] # contact sheet of printables changed since the date (default: last day)
   pnpm fc news-heroes                      # which scenes are taken and which heroes repeat (news-visuals skill)
