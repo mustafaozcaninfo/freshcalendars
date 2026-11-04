@@ -60,7 +60,7 @@ internalLinks:
     label: "December 2026 printable calendar"
   - href: "/june-calendars.html"
     label: "June 2027 printable calendar"
-related: [fairfax-county-public-schools-calendar-2026-27-breaks, prince-georges-county-public-schools-calendar-2026-27-breaks, winter-break-2026-school-districts-dates]
+related: [dcps-calendar-2026-27-dc-public-schools-breaks, prince-georges-county-public-schools-calendar-2026-27-breaks, winter-break-2026-school-districts-dates]
 assets:
   overlay: true
   kicker: "MCPS 2026-27"

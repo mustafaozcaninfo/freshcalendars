@@ -1,0 +1,21 @@
+{
+  "ref": "commons:File:Test-986769 640.jpg",
+  "source": "Wikimedia Commons",
+  "title": "Test-986769 640",
+  "page": "https://commons.wikimedia.org/wiki/File:Test-986769_640.jpg",
+  "file": "https://upload.wikimedia.org/wikipedia/commons/2/24/Test-986769_640.jpg",
+  "width": 4128,
+  "height": 3096,
+  "thumb": "https://commons.wikimedia.org/wiki/Special:FilePath/Test-986769%20640.jpg?width=640",
+  "license": "CC0",
+  "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+  "author": "lecroitg",
+  "ok": true,
+  "slug": "sat-december-5-2026-test-day-checklist-score-release-december-18",
+  "fetchedAt": "2026-11-04T13:44:21.000Z",
+  "original": "4128×3096",
+  "output": "2400×1350",
+  "cropped": true,
+  "credit": "Photo: lecroitg / Wikimedia Commons, cropped, edited",
+  "overlay": true
+}
