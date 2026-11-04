@@ -19,5 +19,6 @@
   "output": "2400×1350",
   "cropped": false,
   "framed": true,
-  "credit": "Photo: Steve Johnson / stocksnap, edited"
+  "credit": "Photo: Steve Johnson / stocksnap, edited",
+  "overlay": true
 }

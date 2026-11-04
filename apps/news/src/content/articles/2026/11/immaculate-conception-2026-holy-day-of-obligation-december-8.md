@@ -12,7 +12,7 @@ hero:
   src: ../../../../assets/news/immaculate-conception-2026-holy-day-of-obligation-december-8/immaculate-conception-2026-holy-day-of-obligation-december-8.webp
   alt: "Basilica of the National Shrine of the Immaculate Conception in Washington, D.C., for Immaculate Conception 2026 on Tuesday, Dec. 8"
   caption: "File photo, 2023: the Basilica of the National Shrine of the Immaculate Conception in Washington, D.C., seen from the parking lot on Nov. 22, 2023."
-  credit: "PLACEHOLDER"
+  credit: "Photo: ThadeusOfNazereth / Wikimedia Commons, cropped, edited"
   license:
     name: "CC0"
     url: "http://creativecommons.org/publicdomain/zero/1.0/deed.en"
@@ -79,7 +79,8 @@ assets:
     alt: "Printable planner for the Immaculate Conception on Tuesday, Dec. 8, 2026, with U.S. holy days of obligation through Dec. 2027"
     data:
       holiday: { date: "2026-12-08", name: "Immaculate Conception", src: 1, quote: "December 8, the solemnity of the Immaculate Conception" }
-      status: []
+      status:
+        - { name: "Mass obligation, U.S. Catholics", status: open, detail: "Dec. 8 is on the U.S. list; the Saturday/Monday rule does not name it", src: 1, quote: "December 8, the solemnity of the Immaculate Conception" }
       tasks:
         - { daysBefore: 7, task: "Check your parish or the National Shrine page for Mass times" }
         - { daysBefore: 0, task: "Holy day of obligation: Mass required" }

@@ -1,7 +1,7 @@
 ---
 title: "2027 Vision Board Printables: Goal Worksheets and Monthly Check-Ins"
 seoTitle: "2027 Vision Board Printable: Goal Sheet, 12 Check-Ins"
-description: "A free 2027 vision board printable: one goal page plus 12 month-end check-ins with weekdays, and the federal holidays from the Office of Personnel Management (OPM)."
+description: "A free 2027 vision board printable: a goal page plus 12 month-end check-ins with weekdays, and federal holidays from the Office of Personnel Management (OPM)."
 type: explainer
 publishedAt: "2026-11-04T06:50:00-05:00"
 updatedAt: "2026-11-04T06:50:00-05:00"
@@ -82,6 +82,15 @@ assets:
     note: "Source: dates computed by Fresh Calendars; National Institutes of Health, Wellness@NIH, Maintaining Healthy Habits; U.S. Office of Personnel Management, Federal Holidays."
     description: "A one-page 2027 goal worksheet with a year goal page and 12 monthly check-in boxes on the last day of each month, with weekdays."
     alt: "2027 goal worksheet with a year goal page and 12 monthly check-in boxes with dates and weekdays"
+downloads:
+  - group: "2027 Goal Worksheet printables"
+    title: "2027 Goal Worksheet: Year Goal Page and 12 Monthly Check-Ins"
+    description: "A one-page 2027 goal worksheet with a year goal page and 12 monthly check-in boxes on the last day of each month, with weekdays."
+    preview: ../../../../assets/news/vision-board-2027/vision-board-2027-goal-worksheet.png
+    alt: "2027 goal worksheet with a year goal page and 12 monthly check-in boxes with dates and weekdays"
+    pdf: "/news/downloads/vision-board-2027/vision-board-2027-goal-worksheet.pdf"
+    png: "/news/downloads/vision-board-2027/vision-board-2027-goal-worksheet.png"
+    pages: 1
 draft: false
 ---
 
@@ -112,7 +121,7 @@ We set each check-in on the last day of the month and computed the weekday for e
 | 11 | Tue., Nov. 30 | Thu., Nov. 11 (Veterans Day); Thu., Nov. 25 (Thanksgiving) |
 | 12 | Fri., Dec. 31 | Fri., Dec. 24 (Christmas, observed; Dec. 25 is a Saturday) |
 
-Four of the 12 dates fall on a weekend: Jan. 31, Feb. 28, July 31 and Oct. 31. Check-in 5 lands on Memorial Day itself, Monday, May 31. Move any of them by a day or two; the boxes on the sheet have room for your own date.
+Four of the 12 dates fall on a weekend: Jan. 31, Feb. 28, July 31 and Oct. 31. Check-in 5 lands on Memorial Day itself, Monday, May 31. Move any of them if the date does not suit you.
 
 ## Can I check in on the full Moon instead?
 
@@ -120,4 +129,4 @@ You can. The U.S. Naval Observatory (USNO) lists the 2027 full Moons in Eastern 
 
 ## Print the 2027 goal worksheet
 
-The one-page printable has the year goal page and the 12 check-in boxes with the dates above. Put the dates on a wall calendar too, such as our [2027 printable yearly calendar](/printable-yearly-calendar.html). For a 31-day start to the year, see our [January 2027 reset planner](/news/january-2027-reset-planner-printable/), and to plan time off around the holidays in the table, read our [2027 long weekends and PTO planner](/news/long-weekends-2027-pto-planner-bridge-days/). Our [January printable calendar](/january-calendars.html) covers the first check-in month, and the calendar year that repeats 2027 is in [what calendar year is the same as 2027](/news/what-calendar-year-is-the-same-as-2027/).
+The one-page printable has the year goal page and the 12 check-in boxes with the dates above. Put the dates on a wall calendar too, such as our [2027 printable yearly calendar](/printable-yearly-calendar.html). For a 31-day start to the year, see our [January 2027 reset planner](/news/january-2027-reset-planner-printable/), and to plan time off around the holidays in the table, read our [2027 long weekends and paid time off (PTO) planner](/news/long-weekends-2027-pto-planner-bridge-days/). Our [January printable calendar](/january-calendars.html) covers the first check-in month, and the calendar year that repeats 2027 is in [what calendar year is the same as 2027](/news/what-calendar-year-is-the-same-as-2027/).
