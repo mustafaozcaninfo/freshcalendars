@@ -24,7 +24,7 @@ assets:
     alt: "Printable National Popcorn Day 2027 facts quiz with sourced answers and a flavor tally with tick boxes"
     notesLabel: "Flavors tried and favorite"
     data:
-      day: { date: "2027-01-19", name: "National Popcorn Day", src: 9, quote: "observed every year on January 19" }
+      day: { date: "2027-01-19", name: "National Popcorn Day", src: 1, quote: "January 19th is National Popcorn Day, a day bursting with goodness and good taste" }
       facts:
         - { text: "The USDA says popcorn is a 100 percent whole grain.", src: 5, quote: "Did you know that popcorn is a 100 percent whole grain?" }
         - { text: "The Census Bureau estimated some 14 billion quarts of popcorn a year, a 2016-2020 average.", src: 6, quote: "some 14 billion" }
