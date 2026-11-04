@@ -3,7 +3,8 @@
 // listen for workflow_dispatch and this decides when to call them:
 //   - a story whose publishedAt has come (deploy.sh writes the next one to news/next-due) starts
 //     scheduled.yml, which rebuilds the deployed commit with it;
-//   - the calendar jobs start at the times the VPS crontab used (UTC).
+//   - the calendar jobs start at the times the VPS crontab used (UTC);
+//   - the daily Search Console read (search-console.yml) starts at 09:10 UTC.
 // A job is marked done in the STATE bucket only after GitHub accepts the call, so a failed call or
 // a missed tick is retried on the next tick. Needs the secret GH_DISPATCH_TOKEN (a fine-grained
 // token with Actions: write on this repository only).
@@ -29,6 +30,7 @@ export async function scheduled(controller, env) {
   const now = controller.scheduledTime;
   await stories(env, now);
   await calendar(env, now);
+  await searchConsole(env, now);
 }
 
 async function stories(env, now) {
@@ -54,6 +56,19 @@ async function calendar(env, now) {
       await env.STATE.put(key, new Date(now).toISOString());
       console.log(`cron: started calendar.yml ${c.job}`);
     }
+  }
+}
+
+/** The daily Search Console read: GitHub's own schedule skipped it on Nov. 4, 2026. Same marker and catch-up rules as the calendar jobs. */
+async function searchConsole(env, now) {
+  const day = new Date(now);
+  const at = Date.UTC(day.getUTCFullYear(), day.getUTCMonth(), day.getUTCDate(), 9, 10);
+  if (now < at || now - at > CATCH_UP) return;
+  const key = `cron/search-console/${day.toISOString().slice(0, 10)}`;
+  if (await env.STATE.head(key)) return;
+  if (await dispatch(env, "search-console.yml")) {
+    await env.STATE.put(key, new Date(now).toISOString());
+    console.log("cron: started search-console.yml");
   }
 }
 
