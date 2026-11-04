@@ -171,7 +171,7 @@ This grid counts the days each market is open in Monday-to-Sunday weeks, from ou
 
 The week of Monday 30 November is the only one in which York, Bath, Cardiff and Lincoln are all open.
 
-## Which dates should you mark?
+## UK Christmas market dates to mark: openings, last days and Belfast switch-on
 
 The printable lists each opening, York's 5pm close on 21 December, Lincoln's dates and Belfast's switch-on at 6.30pm and market opening at noon. Print it, then add the dates to the [November 2026 printable calendar](/november-calendars.html) and the [December 2026 printable calendar](/december-calendars.html).
 
