@@ -1,10 +1,10 @@
 ---
 title: "When Are 2026 Election Results Certified? Deadlines by State"
 seoTitle: "When Are 2026 Election Results Certified? By State"
-description: "When 10 states certify 2026 election results: county canvasses begin Nov. 6, and state deadlines run from Nov. 19 in Minnesota to Dec. 10 in Oregon."
+description: "When 12 states certify 2026 election results: county canvasses begin Nov. 6, and state deadlines run from Nov. 19 in Minnesota to Dec. 10 in Oregon."
 type: explainer
 publishedAt: "2026-11-02T07:09:00-05:00"
-updatedAt: "2026-11-02T13:17:00-05:00"
+updatedAt: "2026-11-03T21:29:00-05:00"
 authors: [christina-gerland]
 category: elections
 keywords: ["when are election results certified 2026", "election certification deadline 2026", "county canvass deadline 2026", "when will election results be official"]
@@ -19,9 +19,9 @@ hero:
     source: "https://commons.wikimedia.org/wiki/File:Washington_State_Capitol_aerial_view_in_summer.jpg"
     author: "Nils Huenerfuerst"
 summary:
-  - "Results from the Nov. 3, 2026 general election are unofficial until each state certifies them; in the 10 states we confirmed, state-level dates run from Thu., Nov. 19 (Minnesota) to Thu., Dec. 10 (Oregon)."
+  - "Results from the Nov. 3, 2026 general election are unofficial until each state certifies them; in the 12 states we confirmed, state-level dates run from Thu., Nov. 19 (Minnesota) to Thu., Dec. 10 (Oregon)."
   - "County canvasses come first: North Carolina counties meet at 11 a.m. on Fri., Nov. 13, and Virginia's local canvass is due the same day, according to each state's election office or code."
-  - "Michigan's Board of State Canvassers and Arizona's Secretary of State both have until Mon., Nov. 23; Washington's Secretary of State has until Thu., Dec. 3 and Virginia's State Board of Elections meets by Mon., Dec. 7."
+  - "Michigan's Board of State Canvassers and Arizona's Secretary of State both have until Mon., Nov. 23; Wisconsin's Elections Commission chairperson has until Tue., Dec. 1, Washington's Secretary of State until Thu., Dec. 3 and Virginia's State Board of Elections meets by Mon., Dec. 7."
   - "Florida, Ohio and Pennsylvania have no fixed state certification date in the sources we checked. All other states are not in this table yet; check your state election office."
 faq:
   - q: "When are election results certified in 2026?"
@@ -75,6 +75,12 @@ sources:
   - title: "20th Amendment"
     url: "https://www.law.cornell.edu/constitution/amendmentxx"
     publisher: "Legal Information Institute, Cornell Law School"
+  - title: "Calendar of Election Events, 2026-2027"
+    url: "https://elections.wi.gov/sites/default/files/documents/2026_2027%20Election%20Calendar_0.pdf"
+    publisher: "Wisconsin Elections Commission"
+  - title: "NRS: Chapter 293 - Elections"
+    url: "https://www.leg.state.nv.us/nrs/nrs-293.html"
+    publisher: "Nevada Legislature"
 internalLinks:
   - href: "/november-calendars.html"
     label: "November 2026 printable calendar"
@@ -85,50 +91,47 @@ assets:
   overlay: true
   kicker: "Election certification · 2026"
   date: "2026-11-03"
-  card: { top: "State certification deadlines", big: "Nov. 13 to Dec. 10", bottom: "10 states, from state law and calendars" }
+  card: { top: "State certification deadlines", big: "Nov. 13 to Dec. 10", bottom: "12 states, from state law and calendars" }
   printable:
+    kit: deadline-matrix
     slug: election-certification-deadlines-2026
     group: when-are-2026-election-results-certified-deadlines-by-state
     title: "2026 Election Certification Deadlines by State"
     subtitle: "County and state canvass dates after the Nov. 3, 2026 election, in date order"
-    layout: timeline
     year: 2026
-    rows:
-      - ["Fri., Nov. 6", "Pennsylvania: county boards begin the official canvass (latest start day)"]
-      - ["Fri., Nov. 13", "North Carolina: county canvass, 11 a.m. Virginia: local canvass deadline"]
-      - ["Mon., Nov. 16", "Florida: county canvassing boards file official results by noon"]
-      - ["Tue., Nov. 17", "Michigan: county boards of canvassers certify by this day"]
-      - ["Thu., Nov. 19", "Minnesota: State Canvassing Board meets. Arizona: county canvass deadline"]
-      - ["Mon., Nov. 23", "Michigan: Board of State Canvassers deadline. Arizona: state canvass deadline"]
-      - ["Tue., Nov. 24", "North Carolina: state canvass. Ohio: county canvass deadline. Washington: counties certify"]
-      - ["Mon., Nov. 30", "Oregon: county abstracts delivered"]
-      - ["Thu., Dec. 3", "Washington: Secretary of State's last day to certify"]
-      - ["Mon., Dec. 7", "Virginia: State Board of Elections meets by this day"]
-      - ["Thu., Dec. 10", "Oregon: Secretary of State's last day to canvass votes"]
-    note: "Source: Washington Secretary of State; North Carolina State Board of Elections; Oregon Secretary of State; Pennsylvania Department of State; Florida, Michigan, Ohio, Virginia, Minnesota and Arizona statutes. Check your state."
-    inkSaver: true
-    description: "One page of 2026 election canvass and certification dates for 10 states after Nov. 3, in date order."
-    alt: "Printable list of 2026 election certification deadlines for 10 states in date order"
+    note: "Source: Washington Secretary of State; North Carolina State Board of Elections; Oregon Secretary of State; Pennsylvania Department of State; Wisconsin Elections Commission; Florida, Michigan, Ohio, Virginia, Minnesota, Arizona and Nevada statutes. Check your state."
+    description: "One page of 2026 election canvass and certification dates for 12 states after Nov. 3, in date order."
+    alt: "Printable list of 2026 election certification deadlines for 12 states in date order"
+    data:
+      columns: ["County or local", "State level"]
+      rows:
+        - { date: "2026-11-06", cells: { "County or local": "Pennsylvania: county boards begin the official canvass (latest start day)" }, src: 4 }
+        - { date: "2026-11-10", cells: { "County or local": "Wisconsin: county boards of canvassers convene by 9 a.m." }, src: 14 }
+        - { date: "2026-11-13", cells: { "County or local": "North Carolina: county canvass, 11 a.m. Virginia: local canvass. Nevada: canvass done" }, src: 2 }
+        - { date: "2026-11-16", cells: { "County or local": "Florida: county canvassing boards file official results by noon" }, src: 5 }
+        - { date: "2026-11-17", cells: { "County or local": "Michigan: county boards certify. Wisconsin: county statements due to the state" }, src: 6 }
+        - { date: "2026-11-19", cells: { "County or local": { text: "Arizona: county canvass deadline", src: 12 }, "State level": { text: "Minnesota: State Canvassing Board meets", src: 11 } }, src: 12 }
+        - { date: "2026-11-23", cells: { "County or local": { text: "Pennsylvania: county boards certify returns", src: 4 }, "State level": { text: "Michigan: Board of State Canvassers. Arizona: Secretary of State", src: 6 } }, src: 6 }
+        - { date: "2026-11-24", cells: { "County or local": { text: "Ohio: county canvass deadline. Washington: counties certify", src: 8 }, "State level": { text: "North Carolina: state canvass. Nevada: Supreme Court canvass", src: 2 } }, src: 8 }
+        - { date: "2026-11-30", cells: { "County or local": "Oregon: county abstracts delivered" }, src: 3 }
+        - { date: "2026-12-01", cells: { "State level": "Wisconsin: Elections Commission chairperson's last day to certify" }, src: 14 }
+        - { date: "2026-12-03", cells: { "State level": "Washington: Secretary of State's last day to certify" }, src: 1 }
+        - { date: "2026-12-07", cells: { "State level": "Virginia: State Board of Elections meets by this day" }, src: 10 }
+        - { date: "2026-12-10", cells: { "State level": "Oregon: Secretary of State's last day to canvass votes" }, src: 3 }
+      unconfirmed:
+        - { label: "Florida, Ohio and Pennsylvania state certification", why: "No fixed state date in the sources checked" }
 downloads:
   - group: "2026 Election Certification Deadlines by State printables"
     title: "2026 Election Certification Deadlines by State"
-    description: "One page of 2026 election canvass and certification dates for 10 states after Nov. 3, in date order."
+    description: "One page of 2026 election canvass and certification dates for 12 states after Nov. 3, in date order."
     preview: ../../../../assets/news/when-are-2026-election-results-certified-deadlines-by-state/election-certification-deadlines-2026.png
-    alt: "Printable list of 2026 election certification deadlines for 10 states in date order"
+    alt: "Printable list of 2026 election certification deadlines for 12 states in date order"
     pdf: "/news/downloads/when-are-2026-election-results-certified-deadlines-by-state/election-certification-deadlines-2026.pdf"
     png: "/news/downloads/when-are-2026-election-results-certified-deadlines-by-state/election-certification-deadlines-2026.png"
     pages: 1
-  - group: "2026 Election Certification Deadlines by State printables"
-    title: "2026 Election Certification Deadlines by State (ink saver)"
-    description: "One page of 2026 election canvass and certification dates for 10 states after Nov. 3, in date order. Ink-saver version."
-    preview: ../../../../assets/news/when-are-2026-election-results-certified-deadlines-by-state/election-certification-deadlines-2026-ink.png
-    alt: "Printable list of 2026 election certification deadlines for 10 states in date order, ink-saver version"
-    pdf: "/news/downloads/when-are-2026-election-results-certified-deadlines-by-state/election-certification-deadlines-2026-ink.pdf"
-    png: "/news/downloads/when-are-2026-election-results-certified-deadlines-by-state/election-certification-deadlines-2026-ink.png"
-    pages: 1
 ---
 
-**Results from the Nov. 3, 2026 general election are unofficial until each state certifies them, and in the 10 states we confirmed, state-level dates run from Thu., Nov. 19 in Minnesota to Thu., Dec. 10 in Oregon, according to each state's election code or official calendar.** Counties canvass first. North Carolina's county canvass meetings start at 11 a.m. on Fri., Nov. 13, per the North Carolina State Board of Elections. Other states are not in this table yet; check your state election office.
+**Results from the Nov. 3, 2026 general election are unofficial until each state certifies them, and in the 12 states we confirmed, state-level dates run from Thu., Nov. 19 in Minnesota to Thu., Dec. 10 in Oregon, according to each state's election code or official calendar.** Counties canvass first. North Carolina's county canvass meetings start at 11 a.m. on Fri., Nov. 13, per the North Carolina State Board of Elections. Other states are not in this table yet; check your state election office.
 
 ## What does certification mean?
 
@@ -136,7 +139,7 @@ A canvass is the official count. Election officials review every valid ballot, i
 
 Recounts come after or alongside certification under each state's own rules. The table lists the ones we confirmed.
 
-## 2026 certification deadlines in 10 states
+## 2026 certification deadlines in 12 states
 
 The table is sorted by state-level date. Dates are for the Nov. 3, 2026 election; weekdays are computed from the statute rule shown.
 
@@ -146,22 +149,24 @@ The table is sorted by state-level date. Dates are for the Nov. 3, 2026 election
 | Michigan | Mon., Nov. 23 | Tue., Nov. 17 | County boards of canvassers certify "by the fourteenth day after the election"; the Board of State Canvassers "not later than the twentieth day" (Michigan Compiled Laws (MCL) 168.822) |
 | Arizona | Mon., Nov. 23 | Thu., Nov. 19 | County boards of supervisors "not later than the third Thursday after the election"; Secretary of State "not later than the third Monday" (Arizona Revised Statutes (A.R.S.) 16-642) |
 | North Carolina | Tue., Nov. 24 (state canvass scheduled) | Fri., Nov. 13, 11 a.m. | Dates from the State Board of Elections' Oct. 27, 2026 reporter's primer |
+| Nevada | Tue., Nov. 24 (Supreme Court canvass) | Canvass completed by Fri., Nov. 13 | "The canvass must be completed on or before the 10th day following the election" (Nevada Revised Statutes (NRS) 293.387(1)); the justices of the Supreme Court canvass the vote on "the fourth Tuesday of November after each general election" (NRS 293.395(2)) |
+| Wisconsin | Tue., Dec. 1 (Elections Commission chairperson's last day) | County boards convene by 9 a.m. Tue., Nov. 10; county statements due Tue., Nov. 17 | Wisconsin Elections Commission (WEC) calendar: county canvass "no later than 9:00 a.m. on the Tuesday after the election" (Wis. Stat. 7.60(3)); statements due "14 days after election" (7.60(5)); chairperson certifies by "December 1" (7.70(3)(a)) |
 | Washington | Thu., Dec. 3 (Secretary of State's last day) | Tue., Nov. 24 | County canvassing boards certify and transmit by Nov. 24 (Washington Secretary of State elections calendar) |
 | Virginia | Mon., Dec. 7 (State Board of Elections meets by this day) | Fri., Nov. 13 | Local canvass "not to exceed 10 calendar days," extendable for a risk-limiting audit (Va. Code 24.2-671); State Board "shall meet by the first Monday in December" (24.2-679) |
 | Oregon | Thu., Dec. 10 (Secretary of State's last day) | Mon., Nov. 30 | County abstracts by Nov. 30 (Oregon Revised Statutes (ORS) 254.545); Secretary of State canvasses votes and delivers certificates by Dec. 10 (ORS 254.555) |
 | Florida | No fixed date in Fla. Stat. 102.112 | Mon., Nov. 16, noon | County canvassing boards file official results "no later than noon on the 13th day following the general election" |
 | Ohio | Set by the Secretary of State's directive | Tue., Nov. 24 | Boards of elections complete the canvass "not later than the twenty-first day after the day of the election" (Ohio Revised Code (ORC) 3505.32) |
-| Pennsylvania | No fixed date in the state's 2026 calendar | Begins by Fri., Nov. 6 | County boards begin the official canvass no later than the third day after the election; the calendar notes dates are subject to change |
+| Pennsylvania | No fixed date in the state's 2026 calendar | Begins by Fri., Nov. 6; county boards certify by Mon., Nov. 23 | County boards begin the official canvass no later than the third day after the election; the calendar lists Nov. 23 as the last day for county boards to certify returns to the Secretary of the Commonwealth and notes dates are subject to change |
 
-Michigan and Arizona share Mon., Nov. 23. Washington's counties and North Carolina's state canvass share Tue., Nov. 24, the same day Ohio's county canvass is due.
+Michigan and Arizona share Mon., Nov. 23, the same day Pennsylvania's county boards must certify. North Carolina's state canvass and Nevada's Supreme Court canvass share Tue., Nov. 24 with Washington's counties and Ohio's county canvass.
 
 ## What happens in what order?
 
 1. **Nov. 3:** Election Day. Counts released that night are unofficial.
-2. **Nov. 6 to Nov. 17:** County and local canvasses. Pennsylvania counties begin by Nov. 6, Minnesota's boards meet Nov. 6 to Nov. 11, North Carolina's and Virginia's are Nov. 13, Florida's results are due at noon on Nov. 16 and Michigan's counties certify by Nov. 17.
-3. **Nov. 19 to Nov. 24:** The first state-level dates: Minnesota on Nov. 19, Michigan and Arizona on Nov. 23, North Carolina on Nov. 24.
+2. **Nov. 6 to Nov. 17:** County and local canvasses. Pennsylvania counties begin by Nov. 6, Minnesota's boards meet Nov. 6 to Nov. 11, Wisconsin's county boards convene by Nov. 10, North Carolina's and Virginia's are Nov. 13 (as is Nevada's canvass), Florida's results are due at noon on Nov. 16 and Michigan's counties certify and Wisconsin's county statements are due by Nov. 17.
+3. **Nov. 19 to Nov. 24:** The first state-level dates: Minnesota on Nov. 19, Michigan and Arizona on Nov. 23, North Carolina and Nevada on Nov. 24.
 4. **Nov. 24 to Nov. 30:** Ohio's county canvass is due Nov. 24 and Washington's counties certify by then; Oregon's county abstracts are due Nov. 30.
-5. **Dec. 3 to Dec. 10:** Washington's Secretary of State on Dec. 3, Virginia's State Board of Elections by Dec. 7, Oregon's Secretary of State on Dec. 10.
+5. **Dec. 1 to Dec. 10:** Wisconsin's Elections Commission chairperson on Dec. 1, Washington's Secretary of State on Dec. 3, Virginia's State Board of Elections by Dec. 7, Oregon's Secretary of State on Dec. 10.
 
 Runoffs follow in some states; see [the runoff dates for Georgia on Dec. 1 and Louisiana on Dec. 12](/news/runoff-elections-2026-dates-georgia-december-1-louisiana-december-12/).
 
@@ -184,6 +189,6 @@ The new Congress's terms begin at noon on Jan. 3, 2027, under Section 1 of the 2
 
 ## Which states are not in the table?
 
-All other states, including [California](/news/california-election-results-2026-polls-close-8-p-m-pt-when-the-count-ends/) (counties by Dec. 3, the Secretary of State by Dec. 11), [Texas](/news/texas-election-results-2026-polls-close-where-to-follow-canvass-dates/) (counties by Nov. 17, state canvass from Nov. 21), Georgia, New York, Wisconsin, Illinois and Nevada, are not in this table yet. We list a date only when we confirmed it in state law or an official state calendar. Check your state or county election office. For when results are expected to come in, see [when we will know the 2026 midterm results](/news/when-will-we-know-election-results-2026-midterms/).
+All other states, including [California](/news/california-election-results-2026-polls-close-8-p-m-pt-when-the-count-ends/) (counties by Dec. 3, the Secretary of State by Dec. 11), [Texas](/news/texas-election-results-2026-polls-close-where-to-follow-canvass-dates/) (counties by Nov. 17, state canvass from Nov. 21), Georgia, New York and Illinois, are not in this table yet. We list a date only when we confirmed it in state law or an official state calendar. Check your state or county election office. For when results are expected to come in, see [when we will know the 2026 midterm results](/news/when-will-we-know-election-results-2026-midterms/).
 
 To mark the dates, use our [November 2026 printable calendar](/november-calendars.html) and [December 2026 printable calendar](/december-calendars.html), and the printable below.
