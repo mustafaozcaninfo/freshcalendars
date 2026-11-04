@@ -14,23 +14,44 @@ assets:
   date: "2027-01-24"
   card: { top: "International Day of Education", big: "Sun., Jan. 24", bottom: "2027 theme not yet announced" }
   printable:
-    slug: international-day-of-education-2027-activity-sheet
+    kit: activity-sheet
+    slug: international-day-of-education-2027-classroom-activity-sheet
     group: international-day-of-education-2027
     title: "International Day of Education 2027 Activity Sheet, Jan. 24"
     subtitle: "Ideas for a classroom or family, built on the UNESCO and UN lines"
-    layout: checklist
     notesLabel: "Our theme for Jan. 24, 2027, once UNESCO names one"
-    noKit: "observance activity sheet with our own suggestions, not a dated schedule that a kit draws"
-    rows:
-      - { when: "Before", what: "Check UNESCO's site for the 2027 theme (not yet announced)", section: "Get ready" }
-      - { when: "Before", what: "Read UNESCO's line: education is a human right, a public good and a public responsibility", section: "Get ready" }
-      - { when: "Before", what: "Own idea: ask each child what they most want to learn this year", section: "Get ready" }
-      - { when: "Sun., Jan. 24", what: "International Day of Education, proclaimed by the UN General Assembly", section: "On the day" }
-      - { when: "Sun., Jan. 24", what: "Own idea: read together for 20 minutes", section: "On the day" }
-      - { when: "Sun., Jan. 24", what: "Own idea: thank a teacher by card or message", section: "On the day" }
-      - { when: "After", what: "Own idea: write down one thing each person learned", section: "Afterwards" }
-      - { when: "After", what: "Own idea: pick a new learning goal for the year", section: "Afterwards" }
-    note: "Source: United Nations, International Day of Education; UNESCO, International Day of Education. Rows marked Own idea are our suggestions, not from either organization."
+    data:
+      day:
+        date: "2027-01-24"
+        name: "International Day of Education"
+        src: 1
+        quote: "The United Nations General Assembly proclaimed 24 January as International Day of Education"
+      facts:
+        - text: "UNESCO says education is a human right, a public good and a public responsibility."
+          src: 2
+          quote: "Education is a human right, a public good and a public responsibility."
+        - text: "UNESCO reported the number of children out of school rose to 273 million."
+          src: 3
+          quote: "the number of children and young people out of school has risen for the seventh consecutive year, up to 273 million"
+      activities:
+        - type: checklist
+          title: "Get ready"
+          items:
+            - "Check UNESCO's site for the 2027 theme (not yet announced)"
+            - "Read UNESCO's line about education as a right and a public good"
+            - "Ask each child what they most want to learn this year"
+        - type: checklist
+          title: "On the day (our ideas)"
+          items:
+            - "Read together for 20 minutes"
+            - "Thank a teacher by card or message"
+            - "Learn one fact about a school somewhere else in the world"
+        - type: checklist
+          title: "Afterwards (our ideas)"
+          items:
+            - "Write down one thing each person learned"
+            - "Pick a new learning goal for the year"
+    note: "Source: United Nations, International Day of Education; UNESCO, International Day of Education. Our-idea rows are our suggestions, not from either organization."
     description: "One-page International Day of Education 2027 activity sheet for Sunday, Jan. 24, with get-ready, on-the-day and afterwards tick boxes for a class or family."
     alt: "Printable International Day of Education 2027 activity sheet with tick boxes for a classroom or family"
 hero:
@@ -47,10 +68,10 @@ downloads:
   - group: "International Day of Education 2027 Activity Sheet printables"
     title: "International Day of Education 2027 Activity Sheet, Jan. 24"
     description: "One-page International Day of Education 2027 activity sheet for Sunday, Jan. 24, with get-ready, on-the-day and afterwards tick boxes for a class or family."
-    preview: ../../../../assets/news/international-day-of-education-2027/international-day-of-education-2027-activity-sheet.png
+    preview: ../../../../assets/news/international-day-of-education-2027/international-day-of-education-2027-classroom-activity-sheet.png
     alt: "Printable International Day of Education 2027 activity sheet with tick boxes for a classroom or family"
-    pdf: "/news/downloads/international-day-of-education-2027/international-day-of-education-2027-activity-sheet.pdf"
-    png: "/news/downloads/international-day-of-education-2027/international-day-of-education-2027-activity-sheet.png"
+    pdf: "/news/downloads/international-day-of-education-2027/international-day-of-education-2027-classroom-activity-sheet.pdf"
+    png: "/news/downloads/international-day-of-education-2027/international-day-of-education-2027-classroom-activity-sheet.png"
     pages: 1
 summary:
   - "The United Nations General Assembly proclaimed Jan. 24 as International Day of Education, which falls on a Sunday in 2027."
