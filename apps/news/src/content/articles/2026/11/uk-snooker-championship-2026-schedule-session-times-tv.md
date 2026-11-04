@@ -4,7 +4,7 @@ seoTitle: "UK Snooker Championship 2026 Schedule and Times"
 description: "UK Championship snooker runs Nov. 28 to Dec. 6, 2026 at York Barbican. Daily sessions start 1 p.m. and 7 p.m. UK time: 8 a.m. and 2 p.m. Eastern Time (ET)."
 type: news
 publishedAt: "2026-11-03T06:00:00-05:00"
-updatedAt: "2026-11-04T03:50:00-05:00"
+updatedAt: "2026-11-04T03:25:00-05:00"
 authors: [jessica-hartwell]
 category: sports
 keywords: ["uk championship snooker 2026", "uk snooker championship 2026 schedule", "uk championship 2026 dates", "uk championship snooker times us"]
