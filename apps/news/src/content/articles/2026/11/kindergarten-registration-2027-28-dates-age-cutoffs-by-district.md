@@ -118,7 +118,7 @@ assets:
       - ["On or before Aug. 31, 2022", "Wake County, Charlotte-Mecklenburg: age 5 by Aug. 31, 2027"]
       - ["On or before Sept. 30, 2022", "Fairfax County and Virginia law: fifth birthday by Sept. 30, 2027"]
       - ["Not yet announced", "Fairfax, Montgomery, Gwinnett and Charlotte-Mecklenburg 2027-28 windows"]
-    note: "Source: NYC Public Schools; School District of Philadelphia; Wake County Public School System; Fairfax and Montgomery County public schools; Charlotte-Mecklenburg Schools; state statutes. Checked Nov. 4, 2026."
+    note: "Source: NYC Public Schools; School District of Philadelphia; Wake County Public School System; Fairfax and Montgomery County public schools; Charlotte-Mecklenburg Schools; state statutes. Checked Nov. 3, 2026."
     description: "One-page list of 2027-28 kindergarten registration dates for NYC, Philadelphia and Wake County, with birthdate cutoffs for fall 2027."
     alt: "Printable list of kindergarten registration dates and birthdate cutoffs for fall 2027"
 ---

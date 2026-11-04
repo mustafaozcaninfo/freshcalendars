@@ -74,14 +74,6 @@ downloads:
     pdf: "/news/downloads/capitol-christmas-tree-2026/capitol-christmas-tree-tour-tracker-2026.pdf"
     png: "/news/downloads/capitol-christmas-tree-2026/capitol-christmas-tree-tour-tracker-2026.png"
     pages: 1
-  - group: "Capitol Christmas Tree Tour Tracker 2026 printables"
-    title: "Capitol Christmas Tree Tour Tracker 2026 (ink saver)"
-    description: "One-page tracker of the 21 stops on the 2026 U.S. Capitol Christmas Tree tour, by date and town, with a Done box for each stop. Ink-saver version."
-    preview: ../../../../assets/news/capitol-christmas-tree-2026/capitol-christmas-tree-tour-tracker-2026-ink.png
-    alt: "Printable Capitol Christmas Tree 2026 tour tracker listing 21 stops from Grangeville, Idaho, to Joint Base Andrews, Maryland, ink-saver version"
-    pdf: "/news/downloads/capitol-christmas-tree-2026/capitol-christmas-tree-tour-tracker-2026-ink.pdf"
-    png: "/news/downloads/capitol-christmas-tree-2026/capitol-christmas-tree-tour-tracker-2026-ink.png"
-    pages: 1
 draft: false
 assets:
   overlay: true

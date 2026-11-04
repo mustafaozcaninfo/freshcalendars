@@ -84,14 +84,6 @@ downloads:
     pdf: "/news/downloads/st-patricks-day-2027/st-patricks-day-2027-parade-planner.pdf"
     png: "/news/downloads/st-patricks-day-2027/st-patricks-day-2027-parade-planner.png"
     pages: 1
-  - group: "St. Patrick's Day 2027 Parade Planner printables"
-    title: "St. Patrick's Day 2027 Parade Planner (ink saver)"
-    description: "A one-page planner with the 2027 St. Patrick's Day parade and festival dates for New York and Dublin, and the cities still to check. Ink-saver version."
-    preview: ../../../../assets/news/st-patricks-day-2027/st-patricks-day-2027-parade-planner-ink.png
-    alt: "Printable St. Patrick's Day 2027 parade planner listing New York, Dublin, Chicago, Savannah and Boston, ink-saver version"
-    pdf: "/news/downloads/st-patricks-day-2027/st-patricks-day-2027-parade-planner-ink.pdf"
-    png: "/news/downloads/st-patricks-day-2027/st-patricks-day-2027-parade-planner-ink.png"
-    pages: 1
 draft: false
 ---
 

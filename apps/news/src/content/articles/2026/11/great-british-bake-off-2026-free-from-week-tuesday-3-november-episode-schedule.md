@@ -78,14 +78,6 @@ downloads:
     pdf: "/news/downloads/bake-off-2026/bake-off-2026-viewing-tracker.pdf"
     png: "/news/downloads/bake-off-2026/bake-off-2026-viewing-tracker.png"
     pages: 1
-  - group: "Bake Off 2026 Viewing Tracker printables"
-    title: "Bake Off 2026 Viewing Tracker (ink saver)"
-    description: "A one-page tracker of Great British Bake Off 2026 episodes: the seven known Channel 4 weeks from 22 September and three blank lines for weeks 8 to 10. Ink-saver version."
-    preview: ../../../../assets/news/bake-off-2026/bake-off-2026-viewing-tracker-ink.png
-    alt: "Printable Bake Off 2026 viewing tracker listing weeks 1 to 7 with Channel 4 dates and weeks 8 to 10 to be announced, ink-saver version"
-    pdf: "/news/downloads/bake-off-2026/bake-off-2026-viewing-tracker-ink.pdf"
-    png: "/news/downloads/bake-off-2026/bake-off-2026-viewing-tracker-ink.png"
-    pages: 1
 draft: false
 assets:
   overlay: true

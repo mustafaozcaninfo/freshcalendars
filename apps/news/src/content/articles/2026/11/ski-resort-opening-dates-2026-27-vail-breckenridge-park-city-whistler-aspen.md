@@ -19,6 +19,7 @@ assets:
     title: "Ski Resort Opening Dates 2026-27"
     subtitle: "Opening days from Oct. 28 to Dec. 12, 2026, by date"
     layout: list
+    noKit: "Opening-day checklist by resort; no deadline, holiday or planner kit fits."
     rows:
       - ["Wed., Oct. 28", "Arapahoe Basin: opened"]
       - ["Fri., Oct. 30", "Keystone: opened"]
@@ -135,14 +136,6 @@ downloads:
     alt: "Printable list of 2026-27 ski resort opening dates with a Done column"
     pdf: "/news/downloads/ski-openings-2026/ski-resort-opening-dates-2026-27-checklist.pdf"
     png: "/news/downloads/ski-openings-2026/ski-resort-opening-dates-2026-27-checklist.png"
-    pages: 1
-  - group: "Ski Resort Opening Dates 2026-27 printables"
-    title: "Ski Resort Opening Dates 2026-27 (ink saver)"
-    description: "One-page checklist of 2026-27 ski resort opening dates from Arapahoe Basin on Oct. 28 to Aspen Highlands on Dec. 12, with a Done column to tick. Ink-saver version."
-    preview: ../../../../assets/news/ski-openings-2026/ski-resort-opening-dates-2026-27-checklist-ink.png
-    alt: "Printable list of 2026-27 ski resort opening dates with a Done column, ink-saver version"
-    pdf: "/news/downloads/ski-openings-2026/ski-resort-opening-dates-2026-27-checklist-ink.pdf"
-    png: "/news/downloads/ski-openings-2026/ski-resort-opening-dates-2026-27-checklist-ink.png"
     pages: 1
 draft: false
 ---

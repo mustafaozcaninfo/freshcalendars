@@ -27,7 +27,7 @@ assets:
       - ["Mon., Nov. 23, 5 p.m. ET", "BYU vs. Washington, Maui Invitational quarterfinals, ESPN2"]
       - ["Mon., Nov. 23 to Wed., Nov. 25", "ESPN Events Invitational, Adventure Group, Kissimmee: Akron, Appalachian State, Belmont, St. Bonaventure, Wright State, Yale"]
       - ["Tue., Nov. 24 and Thu., Nov. 26", "Fort Myers Tip-Off, Beach Division: Pitt, Oklahoma, DePaul, Purdue"]
-      - ["Tue., Nov. 24 to Sat., Nov. 28", "Players Era 16, T-Mobile Arena and Michelob Ultra Arena, Las Vegas: 16 teams, all games on ESPN networks; championship game Sat., Nov. 28 at Michelob Ultra Arena"]
+      - ["Tue., Nov. 24 to Sat., Nov. 28", "Players Era 16, T-Mobile Arena and Michelob Ultra Arena, Las Vegas: 16 teams; final Sat., Nov. 28 at Michelob Ultra Arena"]
       - ["Wed., Nov. 25 to Fri., Nov. 27", "Battle 4 Atlantis, Imperial Arena, Bahamas: Marquette, Memphis, Mississippi State, Penn State, Texas A&M, Virginia, Wake Forest, Xavier"]
       - ["Thu., Nov. 26", "Thanksgiving Day"]
       - ["Thu., Nov. 26 and Fri., Nov. 27", "ESPN Events Invitational, Magic Group, Kissimmee: Boston College, UCF, Cincinnati, Georgia"]
@@ -106,14 +106,6 @@ downloads:
     alt: "Printable Feast Week 2026 college basketball tournament calendar listing dates, venues and teams for Maui, Atlantis, Players Era and more"
     pdf: "/news/downloads/college-basketball-2026-27/feast-week-2026-college-basketball-tournament-calendar.pdf"
     png: "/news/downloads/college-basketball-2026-27/feast-week-2026-college-basketball-tournament-calendar.png"
-    pages: 1
-  - group: "Feast Week 2026 College Basketball Tournament Calendar printables"
-    title: "Feast Week 2026 College Basketball Tournament Calendar (ink saver)"
-    description: "A one-page Feast Week 2026 college basketball calendar with seven Thanksgiving-week tournaments, Nov. 17 to Nov. 28, their venues and confirmed teams. Ink-saver version."
-    preview: ../../../../assets/news/college-basketball-2026-27/feast-week-2026-college-basketball-tournament-calendar-ink.png
-    alt: "Printable Feast Week 2026 college basketball tournament calendar listing dates, venues and teams for Maui, Atlantis, Players Era and more, ink-saver version"
-    pdf: "/news/downloads/college-basketball-2026-27/feast-week-2026-college-basketball-tournament-calendar-ink.pdf"
-    png: "/news/downloads/college-basketball-2026-27/feast-week-2026-college-basketball-tournament-calendar-ink.png"
     pages: 1
 internalLinks:
   - href: "/november-calendars.html"

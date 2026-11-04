@@ -55,7 +55,7 @@ summary:
   - "The European Broadcasting Union (EBU) says Burgas, Bulgaria, hosts the 71st Eurovision Song Contest in May 2027, at Arena Burgas."
   - "The semi-finals are on Tuesday, May 11 and Thursday, May 13, 2027, and the grand final is on Saturday, May 15, 2027."
   - "Tickets for the nine live and preview shows go on sale early in 2027, with no exact date yet; start times, prices and the UK entry are not yet announced."
-  - "The EBU says 36 broadcasters compete, the BBC is in the grand final and CBC/Radio-Canada takes part for the first time."
+  - "The EBU says 36 broadcasters compete, the BBC is in the grand final and Canadian Broadcasting Corporation (CBC)/Radio-Canada takes part for the first time."
   - "From Oct. 27, 2026, the semi-finals are 196 and 198 days away and the grand final is 200 days away."
 faq:
   - q: "When is Eurovision 2027?"
@@ -121,7 +121,7 @@ The day counts are our own calculation from Oct. 27, 2026.
 | Ticket sales: early in 2027 | Confirmed, no exact date yet | EBU, Oct. 28, 2026 |
 | Semi-final draw: Burgas, January 2027 | Confirmed month, no exact date yet | EBU, Oct. 28, 2026 |
 | BBC in the grand final, May 15 | Confirmed | EBU, Oct. 28, 2026 |
-| CBC/Radio-Canada first-time entry | Confirmed | EBU, Oct. 28, 2026 |
+| Canadian Broadcasting Corporation (CBC)/Radio-Canada first-time entry | Confirmed | EBU, Oct. 28, 2026 |
 | Canada's semi-final | Not yet announced | Not posted |
 | Show start times | Not yet announced | Not posted |
 | Ticket prices and exact sale date | Not yet announced | Not posted |
