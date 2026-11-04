@@ -123,7 +123,7 @@ Weekdays off are our count from the district's dates; the return days marked "ou
 | Winter break | Mon., Dec. 21, 2026 to Mon., Jan. 4, 2027 | 11 | Tue., Jan. 5, 2027 (third quarter begins) |
 | Spring break | Mon., Mar. 22 to Fri., Mar. 26, 2027 | 5 | Mon., Mar. 29 (our reading) |
 
-Oct. 9 is a stockpiled PD day, which puts a Friday in front of the Oct. 12-16 Fall Break. The district lists Jan. 4 the same way, "Stockpiled PD Day (Students do not report)," and Jan. 5 as the day the third quarter begins. Some sites give Jan. 4 as the return date; by the district's calendar that Monday is a PD day for staff. For the December weeks, see our [December 2026 printable calendar](/december-calendars.html) and the [winter break 2026 roundup](/news/winter-break-2026-school-districts-dates/).
+Oct. 9 is a stockpiled PD day, which puts a Friday in front of the Oct. 12-16 Fall Break. The district lists Jan. 4 the same way, "Stockpiled PD Day (Students do not report)," and Jan. 5 as the day the third quarter begins. Students return on Tuesday, Jan. 5; that Monday is a PD day for staff only. For the December weeks, see our [December 2026 printable calendar](/december-calendars.html) and the [winter break 2026 roundup](/news/winter-break-2026-school-districts-dates/).
 
 ## Which MNPS days are no-school days?
 

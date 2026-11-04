@@ -13,7 +13,7 @@ hero:
   src: ../../../../assets/news/dcps-calendar-2026-27-dc-public-schools-breaks/dcps-calendar-2026-27-dc-public-schools-breaks.webp
   alt: "Eastern High School in Washington, D.C., a District of Columbia Public Schools (DCPS) high school, for the DCPS calendar 2026-27"
   caption: "Eastern High School in Washington, a DCPS high school (file photo). The 2026-27 calendar lists spring break for March 22-26, 2027."
-  credit: "REPLACE"
+  credit: "Photo: APK / Wikimedia Commons, cropped, edited"
   license:
     name: "CC BY 4.0"
     url: "https://creativecommons.org/licenses/by/4.0"
@@ -28,8 +28,10 @@ summary:
 faq:
   - q: "When does DCPS start school in 2026?"
     a: "Monday, Aug. 24, 2026 is the first day of school, per the DCPS 2026-27 calendar. Pre-K students start Thursday, Aug. 27."
+  - q: "What do the codes on the DCPS calendar mean?"
+    a: "The PDF's legend uses Holiday (HOL) for a holiday for students, teachers and staff, Parent Teacher Conference (PTC) for a conference day with no school for students, and professional development (PD) for staff with no school for students. Three asterisks (***) mean no school for students or teachers."
   - q: "When is DCPS winter break 2026?"
-    a: "The calendar marks Monday, Dec. 21 as a day of professional development (PD) for staff with no school for students, Dec. 22-24 as no school for students or teachers, Dec. 25 as a holiday, Dec. 28-31 as no school and Jan. 1, 2027 as a holiday. Classes resume Monday, Jan. 4, 2027."
+    a: "The calendar marks Monday, Dec. 21 as a day of PD for staff with no school for students, Dec. 22-24 as no school for students or teachers, Dec. 25 as a holiday, Dec. 28-31 as no school and Jan. 1, 2027 as a holiday. Classes resume Monday, Jan. 4, 2027."
   - q: "When is DCPS spring break 2027?"
     a: "Monday, March 22 through Friday, March 26, 2027, marked as no school for students or teachers."
   - q: "When is the last day of school for DCPS in 2027?"
@@ -105,7 +107,14 @@ assets:
         - "Conferences"
         - "Picture day"
 downloads:
-  - PLACEHOLDER
+  - group: "DCPS Calendar 2026-27 printables"
+    title: "DCPS Calendar 2026-27"
+    description: "District of Columbia Public Schools 2026-27 breaks, holidays, no-school days, first day and last day on one printable page."
+    preview: ../../../../assets/news/dcps-2026-27/dcps-calendar-2026-27.png
+    alt: "DCPS 2026-27 printable school-year calendar with breaks, holidays and the first and last day"
+    pdf: "/news/downloads/dcps-2026-27/dcps-calendar-2026-27.pdf"
+    png: "/news/downloads/dcps-2026-27/dcps-calendar-2026-27.png"
+    pages: 1
 draft: false
 ---
 
@@ -115,7 +124,7 @@ DCPS posted the calendar on its [School Year 2026-2027 Calendar](https://dcps.dc
 
 ## Which days are off on the DCPS 2026-27 calendar?
 
-The PDF marks days with codes rather than names. The table translates every code that means no school for students, using the PDF's legend. "No school" here means no school for students. Holiday names beyond the date are ours; the PDF prints only "HOL."
+The PDF marks days with codes rather than names: Holiday (HOL), Parent Teacher Conference (PTC), professional development (PD) and three asterisks for no school for students or teachers. The table translates every code that means no school for students, using the PDF's legend. "No school" here means no school for students. Holiday names beyond the date are ours; the PDF prints only "HOL."
 
 | Date | Weekday | PDF code | What the legend says |
 |---|---|---|---|
@@ -188,7 +197,7 @@ The PDF marks four end-of-term dates (ET) and prints terms of 46, 44, 44 and 46 
 
 ## What other dates does the DCPS calendar list?
 
-Parent-teacher conference days are Tuesday, Oct. 13, 2026 and Thursday, Feb. 11, 2027. The Pre-K first day (F-ECE) is Thursday, Aug. 27, 2026. Wellness Day is Friday, May 14, 2027. The PDF lists these religious observances, when schools avoid events: Rosh Hashanah (Sept. 12-13, 2026), Yom Kippur (Sept. 21), Diwali (Nov. 8), first day of Ramadan (Feb. 8, 2027), Ash Wednesday (Feb. 10), Eid al-Fitr (March 10), Good Friday (March 26), Passover (April 21-22) and Eid al-Adha (May 17).
+Parent-teacher conference days are Tuesday, Oct. 13, 2026 and Thursday, Feb. 11, 2027. The Pre-K first day is Thursday, Aug. 27, 2026. Wellness Day is Friday, May 14, 2027. The PDF lists these religious observances, when schools avoid events: Rosh Hashanah (Sept. 12-13, 2026), Yom Kippur (Sept. 21), Diwali (Nov. 8), first day of Ramadan (Feb. 8, 2027), Ash Wednesday (Feb. 10), Eid al-Fitr (March 10), Good Friday (March 26), Passover (April 21-22) and Eid al-Adha (May 17).
 
 ## When does DCPS start in 2027-28?
 
