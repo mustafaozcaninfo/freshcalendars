@@ -215,6 +215,8 @@ const officialText = (u) => {
     // The build lists other two-word solutions from the puzzle's word list, which can hold a
     // banned word ("Align"); those are the puzzle's words, not ours.
     if (p.game === "letterboxed") return [...d.ourSolution, ...d.dictionary.filter((w) => BANNED_EN.includes(w.toLowerCase()))];
+    // The answer list prints every official word, which can hold a banned word ("Align").
+    if (p.game === "bee") return [...d.pangrams, ...d.answers].filter((w) => BANNED_EN.includes(w.toLowerCase()));
     return [];
   }).map((s) => s.toLowerCase());
 };
