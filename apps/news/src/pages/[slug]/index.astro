@@ -165,11 +165,11 @@ const puzzleDay = pzThis ? {
   jsonLd={articleGraph(seo)}
   section={category.id}
 >
-  <div class="progress" aria-hidden="true"><span></span></div>
+  <div class="progress" aria-hidden="true" data-cat={category.id}><span></span></div>
   <SectionBar headings={headings} />
   <NewsBar section={category.id} />
   <AdSlot unit={7} variant="banner" />
-  <div class="article-layout">
+  <div class="article-layout" data-cat={category.id}>
   <article class="news-wrap article">
     <Breadcrumb items={[
       { name: "Home", href: "/" },
@@ -944,7 +944,7 @@ const puzzleDay = pzThis ? {
   .article :global(section h2),.article :global(aside h2){font-family:Sora,"Sora Fallback",sans-serif;color:var(--ink-strong)}
   .article :global(section){margin:2rem 0}
   .progress{position:fixed;left:0;right:0;top:0;height:4px;z-index:70;pointer-events:none}
-  .progress span{display:block;height:100%;background:var(--gold);transform:scaleX(0);transform-origin:0 50%}
+  .progress span{display:block;height:100%;background:var(--cat,var(--gold));transform:scaleX(0);transform-origin:0 50%}
   .after{display:flex;flex-wrap:wrap;justify-content:space-between;align-items:flex-end;gap:1rem;margin:2rem 0 0;padding-top:1.25rem;border-top:1px solid var(--line-soft)}
   .top-link{display:inline-flex;align-items:center;min-height:44px;font-weight:700;margin-bottom:1.25rem}
   @media (min-width:1100px){
