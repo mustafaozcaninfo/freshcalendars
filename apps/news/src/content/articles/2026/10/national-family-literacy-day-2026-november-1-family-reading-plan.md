@@ -85,7 +85,7 @@ internalLinks:
     label: "November 2026 printable calendar"
   - href: "/printable-weekly-calendar.html"
     label: "printable weekly calendar"
-related: [national-authors-day-2026-november-1-history-reading-log, pride-and-prejudice-netflix-release-date-december-3-reading-plan, world-kindness-day-2026-friday-november-13-kindness-dates-printable]
+related: [national-authors-day-2026-november-1-history-reading-log, international-day-of-education-2027-sunday-january-24, world-braille-day-2027-monday-january-4]
 draft: false
 ---
 

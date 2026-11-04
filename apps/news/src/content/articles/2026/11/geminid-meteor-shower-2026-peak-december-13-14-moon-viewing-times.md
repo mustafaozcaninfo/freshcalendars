@@ -58,7 +58,7 @@ internalLinks:
     label: "December 2026 printable calendar"
   - href: "/printable-yearly-calendar.html"
     label: "Printable yearly calendar"
-related: [supermoon-2026-beaver-moon-cold-moon-geminids-solstice, planets-visible-december-2026-night-sky-calendar-geminids-solstice, winter-solstice-2026-december-21-shortest-day-sunset-times]
+related: [ursid-meteor-shower-2026-peak-december-21-22-moonset-times, planets-visible-december-2026-night-sky-calendar-geminids-solstice, winter-solstice-2026-december-21-shortest-day-sunset-times]
 assets:
   overlay: true
   kicker: "Geminids 2026 · Dec. 13-14"

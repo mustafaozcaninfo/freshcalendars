@@ -31,7 +31,7 @@ internalLinks:
     label: "When is New Year's Eve?"
   - href: "/january-calendars.html"
     label: "January printable calendars"
-related: [costco-holiday-hours-closures-2026-2027, christmas-eve-christmas-day-2026-store-hours, christmas-new-year-trash-pickup-2026-by-city]
+related: [costco-holiday-hours-closures-2026-2027, christmas-eve-christmas-day-2026-store-hours, first-day-hikes-2027-state-parks]
 faq:
   - q: "Is the stock market open on New Year's Eve 2026?"
     a: "Yes. The New York Stock Exchange (NYSE) has no early close on Thursday, Dec. 31, 2026. Its only early close in late 2026 is Thursday, Dec. 24, at 1:00 p.m. Eastern Time (ET)."
