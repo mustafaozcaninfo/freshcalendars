@@ -175,7 +175,7 @@ The UN page says the campaign concludes "on the day that commemorates the Intern
 | Nov. 28 | Saturday | |
 | Nov. 29 | Sunday | |
 | Nov. 30 | Monday | |
-| Dec. 1 | Tuesday | World AIDS Day |
+| Dec. 1 | Tuesday | World Acquired Immunodeficiency Syndrome (AIDS) Day |
 | Dec. 2 | Wednesday | |
 | Dec. 3 | Thursday | International Day of Persons with Disabilities |
 | Dec. 4 | Friday | |
