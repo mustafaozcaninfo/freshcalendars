@@ -37,13 +37,9 @@ assets:
           src: 11
           quote: "available from 14 October"
         - date: "2026-10-22"
-          cells: { Chain: "Greggs festive range", Ends: "Not stated" }
+          cells: { Chain: "Greggs festive range; Costa Coffee Christmas menu", Ends: "Greggs not stated; Costa while stocks last" }
           src: 1
-          quote: "in shop from 22nd October 2026"
-        - date: "2026-10-22"
-          cells: { Chain: "Costa Coffee Christmas menu", Ends: "While stocks last" }
-          src: 2
-          quote: "Costa Coffee’s Christmas menu launches in stores across the UK & Ireland from 22 October 2026, while stocks last."
+          quote: ["in shop from 22nd October 2026", "Costa Coffee’s Christmas menu launches in stores across the UK & Ireland from 22 October 2026, while stocks last."]
         - date: "2026-11-03"
           cells: { Chain: "Burger King UK festive menu", Ends: "Not confirmed" }
           src: 6
@@ -63,7 +59,7 @@ hero:
   src: ../../../../assets/news/uk-christmas-menus-2026-greggs-costa-starbucks-kfc/uk-christmas-menus-2026-greggs-costa-starbucks-kfc.webp
   alt: "Hot chocolate topped with cream and marshmallows in a pink mug, for the Christmas menus 2026 UK start dates"
   caption: "File photo of a hot chocolate in a café; it illustrates the 2026 UK Christmas menus and is not any chain's product."
-  credit: "Photo: Andy Li / Wikimedia Commons, cropped"
+  credit: "Photo: Andy Li / Wikimedia Commons, cropped, edited"
   license:
     name: "CC0"
     url: "http://creativecommons.org/publicdomain/zero/1.0/deed.en"
@@ -144,6 +140,23 @@ internalLinks:
   - href: "/december-calendars.html"
     label: "December 2026 printable calendar"
 related: [kfc-uk-christmas-menu-2026-gravymas, greggs-festive-bake-2026-christmas-menu, uk-christmas-sandwiches-2026-ms-pret-boots-tesco]
+downloads:
+  - group: "UK Christmas Menus 2026 printables"
+    title: "UK Christmas Menus 2026: Start Dates"
+    description: "One-page sheet of the 2026 UK Christmas menu start dates for Greggs, Costa, Burger King, KFC, Wetherspoon, Tesco and Aldi, counted to Christmas Day."
+    preview: ../../../../assets/news/uk-christmas-menus-2026/uk-christmas-menus-2026-start-dates.png
+    alt: "Printable UK Christmas menus 2026 sheet listing each chain's start date, end date where known and days before Christmas Day"
+    pdf: "/news/downloads/uk-christmas-menus-2026/uk-christmas-menus-2026-start-dates.pdf"
+    png: "/news/downloads/uk-christmas-menus-2026/uk-christmas-menus-2026-start-dates.png"
+    pages: 1
+  - group: "UK Christmas Menus 2026 printables"
+    title: "UK Christmas Menus 2026: Start Dates (A4)"
+    description: "One-page sheet of the 2026 UK Christmas menu start dates for Greggs, Costa, Burger King, KFC, Wetherspoon, Tesco and Aldi, counted to Christmas Day. A4 paper."
+    preview: ../../../../assets/news/uk-christmas-menus-2026/uk-christmas-menus-2026-start-dates-a4.png
+    alt: "Printable UK Christmas menus 2026 sheet listing each chain's start date, end date where known and days before Christmas Day, A4"
+    pdf: "/news/downloads/uk-christmas-menus-2026/uk-christmas-menus-2026-start-dates-a4.pdf"
+    png: "/news/downloads/uk-christmas-menus-2026/uk-christmas-menus-2026-start-dates-a4.png"
+    pages: 1
 draft: false
 ---
 
@@ -200,7 +213,7 @@ These chains have no 2026 start date that two independent newsrooms or an offici
 | Marks & Spencer (M&S), Sainsbury's, Boots | Not confirmed by two sources | Not covered here |
 | McDonald's UK | Not confirmed; undated reports disagree | Not covered here |
 | Pret A Manger | Not confirmed | 2025: from 4 November "until the end of December, while supply lasts" (Retail Times, 6 November 2025) |
-| Leon | Not confirmed | 2025: "LEON's Christmas Menu launches November 5th" (Retail Times, 23 October 2025) |
+| Leon | Not confirmed | 2025: menu launch on "November 5th" (Retail Times, 23 October 2025) |
 | Caffè Nero, Nando's, Krispy Kreme UK | Not confirmed | Not covered here |
 
 The US Starbucks holiday menu is a separate launch; see [Starbucks holiday menu 2026 and Red Cup Day](/news/starbucks-holiday-menu-2026-red-cup-day-date/) for US dates only.

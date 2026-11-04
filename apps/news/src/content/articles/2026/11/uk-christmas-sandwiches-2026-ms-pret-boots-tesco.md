@@ -30,12 +30,12 @@ assets:
         - { key: price, label: "Price as stated" }
         - { key: from, label: "On sale from" }
       rows:
-        - cells: { retailer: "Tesco", item: "Christmas meal deal, with the new Fully Loaded Chicken, Stuffing, Braised Red Cabbage & Cranberry Sauce Sandwich", price: "£3.85 with a Clubcard (£4.25 without)", from: "Mon., 12 Oct. 2026" }
+        - cells: { retailer: "Tesco", item: "Christmas meal deal, with the new Fully Loaded Chicken sandwich", price: "£3.85 with a Clubcard (£4.25 without)", from: "Mon., 12 Oct. 2026" }
           src: 1
-          quote: ["is available in stores and online from the 12 October.", "for £3.85 with a Clubcard (£4.25 without)"]
+          quote: "is available in stores and online from the 12 October."
         - cells: { retailer: "Tesco", item: "Premium Meal Deal", price: "From £5.50 with a Clubcard (£6 without)", from: "Mon., 12 Oct. 2026" }
           src: 1
-          quote: ["is available in stores and online from the 12 October.", "from £5.50 with a Clubcard (£6 without)"]
+          quote: "is available in stores and online from the 12 October."
         - cells: { retailer: "Aldi", item: "Pigs in Blankets Sandwich", price: "£1.99", from: "Wed., 14 Oct. 2026" }
           src: 3
           quote: "available from 14 October"
@@ -48,7 +48,10 @@ assets:
         - cells: { retailer: "Greggs", item: "Festive Feast Baguette; Pigs Under Blankets Toastie", price: "No price given", from: "Thu., 22 Oct. 2026" }
           src: 5
           quote: "in shop from 22nd October 2026"
-        - cells: { retailer: "Costa", item: "Festive Feast Toastie; Festive Flatbread; Pigs & Blankets Toastie; Brie, Bacon & Cranberry Panini", price: "No price given", from: "Thu., 22 Oct. 2026" }
+        - cells: { retailer: "Costa", item: "Festive Feast Toastie; Festive Flatbread; Pigs & Blankets Toastie", price: "No price given", from: "Thu., 22 Oct. 2026" }
+          src: 6
+          quote: "Costa Coffee’s Christmas menu launches in stores across the UK & Ireland from 22 October 2026, while stocks last."
+        - cells: { retailer: "Costa", item: "Brie, Bacon & Cranberry Panini", price: "No price given", from: "Thu., 22 Oct. 2026" }
           src: 6
           quote: "Costa Coffee’s Christmas menu launches in stores across the UK & Ireland from 22 October 2026, while stocks last."
       unconfirmed:
@@ -61,7 +64,7 @@ hero:
   src: ../../../../assets/news/uk-christmas-sandwiches-2026-ms-pret-boots-tesco/uk-christmas-sandwiches-2026-ms-pret-boots-tesco.webp
   alt: "An open turkey and cranberry sandwich on seeded bread, a file photo for Christmas sandwiches 2026"
   caption: "File photo of a turkey and cranberry open sandwich; it illustrates the 2026 Christmas sandwich ranges and is not a product named here."
-  credit: "Photo: avlxyz / Wikimedia Commons, cropped"
+  credit: "Photo: avlxyz / Wikimedia Commons, cropped, edited"
   license:
     name: "CC BY-SA 2.0"
     url: "https://creativecommons.org/licenses/by-sa/2.0"
@@ -122,6 +125,23 @@ internalLinks:
   - href: "/december-calendars.html"
     label: "December 2026 printable calendar"
 related: [uk-christmas-menus-2026-greggs-costa-starbucks-kfc, greggs-festive-bake-2026-christmas-menu, tesco-christmas-delivery-slots-2026-booking-dates-uk-supermarkets]
+downloads:
+  - group: "Christmas Sandwiches 2026 printables"
+    title: "Christmas Sandwiches 2026: What's Confirmed"
+    description: "One-page table of the confirmed 2026 Christmas sandwiches at Tesco, Aldi, Greggs and Costa, with the price as stated and the on-sale date."
+    preview: ../../../../assets/news/uk-christmas-sandwiches-2026/christmas-sandwiches-2026-whats-confirmed.png
+    alt: "Printable table of Christmas sandwiches 2026 at Tesco, Aldi, Greggs and Costa with price as stated and on-sale date"
+    pdf: "/news/downloads/uk-christmas-sandwiches-2026/christmas-sandwiches-2026-whats-confirmed.pdf"
+    png: "/news/downloads/uk-christmas-sandwiches-2026/christmas-sandwiches-2026-whats-confirmed.png"
+    pages: 1
+  - group: "Christmas Sandwiches 2026 printables"
+    title: "Christmas Sandwiches 2026: What's Confirmed (A4)"
+    description: "One-page table of the confirmed 2026 Christmas sandwiches at Tesco, Aldi, Greggs and Costa, with the price as stated and the on-sale date. A4 paper."
+    preview: ../../../../assets/news/uk-christmas-sandwiches-2026/christmas-sandwiches-2026-whats-confirmed-a4.png
+    alt: "Printable table of Christmas sandwiches 2026 at Tesco, Aldi, Greggs and Costa with price as stated and on-sale date, A4"
+    pdf: "/news/downloads/uk-christmas-sandwiches-2026/christmas-sandwiches-2026-whats-confirmed-a4.pdf"
+    png: "/news/downloads/uk-christmas-sandwiches-2026/christmas-sandwiches-2026-whats-confirmed-a4.png"
+    pages: 1
 draft: false
 ---
 

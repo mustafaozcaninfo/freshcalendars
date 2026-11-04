@@ -56,7 +56,7 @@ internalLinks:
     label: "November 2026 printable calendar"
   - href: "/when-is/christmas-day/"
     label: "When is Christmas Day?"
-related: [royal-mail-last-posting-dates-christmas-2026-second-class-18-december, uk-christmas-bank-holidays-2026-boxing-day-substitute-december-28, black-friday-2026-uk-date-27-november-amazon-uk-sale-dates]
+related: [royal-mail-last-posting-dates-christmas-2026-second-class-18-december, uk-christmas-bank-holidays-2026-boxing-day-substitute-december-28, uk-christmas-menus-2026-greggs-costa-starbucks-kfc]
 downloads:
   - group: "Christmas Food Shop Booking Planner 2026 UK printables"
     title: "Christmas Food Shop Booking Planner 2026 UK"
