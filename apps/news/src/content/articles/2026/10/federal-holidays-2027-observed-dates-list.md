@@ -56,7 +56,7 @@ internalLinks:
     label: "When is Juneteenth"
   - href: "/when-is/thanksgiving/"
     label: "When is Thanksgiving"
-related: [stock-market-holidays-2027-nyse-closed-dates, canada-statutory-holidays-2027-federal-general-holidays, long-weekends-2027-pto-planner-bridge-days]
+related: [stock-market-holidays-2027-nyse-closed-dates, long-weekends-2027-pto-planner-bridge-days, count-court-deadlines-rule-6-days]
 downloads:
   - group: "2027 holidays printable"
     title: "Federal Holidays 2027"
@@ -102,6 +102,8 @@ Federal law fixes the 11 holidays in 5 U.S.C. 6103. When one falls on a Saturday
 - **New Year's Day 2028:** Jan. 1, 2028 is a Saturday, so it is observed on Friday, Dec. 31, 2027.
 
 OPM uses the names in the law, so Presidents' Day appears as "Washington's Birthday." Many state governments and businesses use other names or observe other days.
+
+To leave these 11 dates out of a spreadsheet count, see [how to count days between two dates in Excel and Google Sheets](/news/count-days-between-dates-excel-google-sheets/), which uses this list in a spreadsheet weekday count.
 
 ## Long weekends in 2027
 
