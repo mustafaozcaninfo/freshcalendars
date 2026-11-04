@@ -3,7 +3,7 @@ title: "Christmas Light Trails 2026: Blenheim, Chatsworth and Chester Zoo Dates,
 seoTitle: "Christmas Light Trails 2026: Blenheim, Chatsworth, Chester"
 description: "Chatsworth's Christmas trail opens Saturday 7 November 2026; Blenheim Palace and Chester Zoo open Friday 13 November. All three run to 3 January 2027."
 type: news
-publishedAt: "2026-11-04T09:15:00-05:00"
+publishedAt: "2026-11-04T09:03:00-05:00"
 authors: [christina-gerland]
 category: uk-canada
 keywords: ["Christmas light trails 2026", "Blenheim Christmas 2026", "Chatsworth Christmas 2026", "Chester Zoo Lanterns and Light 2026"]
