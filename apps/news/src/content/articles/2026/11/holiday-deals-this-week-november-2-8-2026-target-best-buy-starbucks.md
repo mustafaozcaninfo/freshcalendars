@@ -115,7 +115,7 @@ internalLinks:
     label: "November 2026 printable calendar"
   - href: "/printable-weekly-calendar.html"
     label: "Printable weekly calendar"
-related: [black-friday-2026-ad-tracker-walmart-target-best-buy, home-depot-black-friday-2026-sale-dates-november-5-25-store-hours, national-sandwich-day-2026-deals-tuesday-november-3-subway-mcalisters-capriottis]
+related: [black-friday-2026-ad-tracker-walmart-target-best-buy, home-depot-black-friday-2026-sale-dates-november-5-25-store-hours, aldi-holiday-items-november-2026-advent-calendars-aldi-finds-prices]
 downloads:
   - group: "Holiday Sale Start Dates printables"
     title: "Holiday Sale Start Dates, Nov. 2-8, 2026"

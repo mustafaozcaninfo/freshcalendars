@@ -81,7 +81,7 @@ internalLinks:
     label: "November 2026 printable calendar"
   - href: "/when-is/thanksgiving/"
     label: "When is Thanksgiving?"
-related: [whats-open-thanksgiving-2026-grocery-stores-walmart-costco, when-to-thaw-thanksgiving-turkey-2026, thanksgiving-2026-planner-countdown-checklist]
+related: [whats-open-thanksgiving-2026-grocery-stores-walmart-costco, when-to-thaw-thanksgiving-turkey-2026, aldi-holiday-items-november-2026-advent-calendars-aldi-finds-prices]
 assets:
   scene: thanksgiving
   overlay: true
