@@ -47,7 +47,7 @@ internalLinks:
     label: "December 2026 printable calendar"
   - href: "/printable-yearly-calendar.html"
     label: "Printable yearly calendar"
-related: [geminid-meteor-shower-2026-peak-december-13-14-moon-viewing-times, meteor-showers-2027-calendar-peak-dates-moon-phase-best-nights, winter-solstice-2026-december-21-shortest-day-sunset-times]
+related: [geminid-meteor-shower-2026-peak-december-13-14-moon-viewing-times, stonehenge-winter-solstice-2026-december-22-free-access, winter-solstice-2026-december-21-shortest-day-sunset-times]
 assets:
   overlay: true
   kicker: "Ursids · Dec. 21-22, 2026"

@@ -73,7 +73,7 @@ internalLinks:
     label: "December 2026 printable calendar"
   - href: "/january-calendars.html"
     label: "January 2027 printable calendar"
-related: [supermoon-2026-beaver-moon-cold-moon-geminids-solstice, national-bird-day-2027-january-5, latest-sunrise-2027-dates-by-city-when-mornings-get-lighter]
+related: [supermoon-2026-beaver-moon-cold-moon-geminids-solstice, stonehenge-winter-solstice-2026-december-22-free-access, latest-sunrise-2027-dates-by-city-when-mornings-get-lighter]
 downloads:
   - group: "Winter Solstice 2026 printables"
     title: "Winter Solstice 2026: Key Dates and Dec. 21 Sunset Times"

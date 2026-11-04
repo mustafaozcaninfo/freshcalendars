@@ -82,7 +82,7 @@ internalLinks:
     label: "When is Christmas Eve"
   - href: "/when-is/new-years-eve/"
     label: "When is New Year's Eve"
-related: [hanukkah-2026-dates-calendar, usps-holiday-shipping-deadlines-2026, world-aids-day-2026-tuesday-december-1-theme]
+related: [hanukkah-2026-dates-calendar, ugly-christmas-sweater-day-2026, world-aids-day-2026-tuesday-december-1-theme]
 downloads:
   - group: "December 2026 printables"
     title: "December 2026 Important Dates Calendar"
