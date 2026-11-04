@@ -13,31 +13,15 @@ assets:
   kicker: "Debt payoff planner 2027"
   card: { top: "Debt payoff planner 2027", big: "$224 less", bottom: "Snowball vs. avalanche" }
   printable:
-    noKit: "blank debt payoff tracker with balance and payment columns, not a deadline sheet"
-    slug: debt-payoff-tracker-2027
+    kit: planner
+    slug: debt-payoff-tracker-2027-snowball-avalanche
     group: debt-payoff-2027
     title: "Debt Payoff Tracker 2027"
     subtitle: "Up to 6 debts, then a 12-month payment log for 2027"
-    layout: list
-    rows:
-      - ["Debt 1", "Name ______  Balance ______  APR ______  Minimum ______  Order ___"]
-      - ["Debt 2", "Name ______  Balance ______  APR ______  Minimum ______  Order ___"]
-      - ["Debt 3", "Name ______  Balance ______  APR ______  Minimum ______  Order ___"]
-      - ["Debt 4", "Name ______  Balance ______  APR ______  Minimum ______  Order ___"]
-      - ["Debt 5", "Name ______  Balance ______  APR ______  Minimum ______  Order ___"]
-      - ["Debt 6", "Name ______  Balance ______  APR ______  Minimum ______  Order ___"]
-      - ["Jan. 2027", "Paid ______  Extra to first debt ______  Balance left ______"]
-      - ["Feb. 2027", "Paid ______  Extra to first debt ______  Balance left ______"]
-      - ["Mar. 2027", "Paid ______  Extra to first debt ______  Balance left ______"]
-      - ["Apr. 2027", "Paid ______  Extra to first debt ______  Balance left ______"]
-      - ["May 2027", "Paid ______  Extra to first debt ______  Balance left ______"]
-      - ["Jun. 2027", "Paid ______  Extra to first debt ______  Balance left ______"]
-      - ["Jul. 2027", "Paid ______  Extra to first debt ______  Balance left ______"]
-      - ["Aug. 2027", "Paid ______  Extra to first debt ______  Balance left ______"]
-      - ["Sep. 2027", "Paid ______  Extra to first debt ______  Balance left ______"]
-      - ["Oct. 2027", "Paid ______  Extra to first debt ______  Balance left ______"]
-      - ["Nov. 2027", "Paid ______  Extra to first debt ______  Balance left ______"]
-      - ["Dec. 2027", "Paid ______  Extra to first debt ______  Balance left ______"]
+    data:
+      sections:
+        - { type: table, title: "Your debts (list up to 6)", columns: ["Debt", "Balance", "APR", "Minimum", "Order"], rows: 6 }
+        - { type: table, title: "2027 monthly payment log", columns: ["Month", "Paid", "Extra to first debt", "Balance left"], rows: 12 }
     note: "Source: Consumer Financial Protection Bureau, How to reduce your debt (2019, archived) and Your Money, Your Goals toolkit."
     description: "Blank 2027 debt payoff tracker: six debt rows with balance, annual percentage rate, minimum and payoff order, plus a 12-month payment log."
     alt: "Printable debt payoff tracker 2027 with six blank debt rows and a twelve-month payment log from January to December"
@@ -88,10 +72,10 @@ downloads:
   - group: "Debt Payoff Tracker 2027 printables"
     title: "Debt Payoff Tracker 2027"
     description: "Blank 2027 debt payoff tracker: six debt rows with balance, annual percentage rate, minimum and payoff order, plus a 12-month payment log."
-    preview: ../../../../assets/news/debt-payoff-2027/debt-payoff-tracker-2027.png
+    preview: ../../../../assets/news/debt-payoff-2027/debt-payoff-tracker-2027-snowball-avalanche.png
     alt: "Printable debt payoff tracker 2027 with six blank debt rows and a twelve-month payment log from January to December"
-    pdf: "/news/downloads/debt-payoff-2027/debt-payoff-tracker-2027.pdf"
-    png: "/news/downloads/debt-payoff-2027/debt-payoff-tracker-2027.png"
+    pdf: "/news/downloads/debt-payoff-2027/debt-payoff-tracker-2027-snowball-avalanche.pdf"
+    png: "/news/downloads/debt-payoff-2027/debt-payoff-tracker-2027-snowball-avalanche.png"
     pages: 1
 draft: false
 ---
