@@ -23,12 +23,12 @@ assets:
     description: "A one-page FIFA Intercontinental Cup 2026 bracket sheet with the Dec. 9, 12 and 16 matches in Qatar, a pick column and space for scores."
     alt: "Printable FIFA Intercontinental Cup 2026 bracket sheet listing the Dec. 9, 12 and 16 matches in Qatar with a pick column"
     data:
-      pick: "My pick"
+      pick: "Pick"
       events:
-        - { date: "2026-12-09", time: TBA, title: "FIFA Derby of the Americas: Libertadores winner v Toluca", detail: "Jassim bin Hamad Stadium, Doha", src: 1, quote: "Wednesday, 9 December 2026 CONMEBOL Libertadores 2026 winners v Toluca FC Jassim bin Hamad Stadium, Doha, Qatar" }
-        - { date: "2026-12-12", time: TBA, title: "FIFA Challenger Cup: Derby winner v Mamelodi Sundowns", detail: "Jassim bin Hamad Stadium, Doha", src: 1, quote: "Saturday, 12 December 2026 FIFA Derby of the Americas winners v Mamelodi Sundowns FC Jassim bin Hamad Stadium, Doha, Qatar" }
-        - { date: "2026-12-16", time: TBA, title: "Final: Paris Saint-Germain v Challenger Cup winner", detail: "Ahmad bin Ali Stadium, Al Rayyan", src: 1, quote: "Wednesday, 16 December 2026 Paris Saint-Germain v FIFA Challenger Cup winners Ahmad bin Ali Stadium, Al Rayyan, Qatar" }
-      fill: { title: "My bracket", labels: ["Libertadores winner or Toluca", "Challenger Cup winner", "Intercontinental Cup champion"] }
+        - { date: "2026-12-09", time: tba, title: "FIFA Derby of the Americas: Libertadores winner v Toluca", detail: "Jassim bin Hamad Stadium, Doha", src: 1, quote: "Wednesday, 9 December 2026 CONMEBOL Libertadores 2026 winners v Toluca FC Jassim bin Hamad Stadium, Doha, Qatar" }
+        - { date: "2026-12-12", time: tba, title: "FIFA Challenger Cup: Derby winner v Mamelodi Sundowns", detail: "Jassim bin Hamad Stadium, Doha", src: 1, quote: "Saturday, 12 December 2026 FIFA Derby of the Americas winners v Mamelodi Sundowns FC Jassim bin Hamad Stadium, Doha, Qatar" }
+        - { date: "2026-12-16", time: tba, title: "Final: Paris Saint-Germain v Challenger Cup winner", detail: "Ahmad bin Ali Stadium, Al Rayyan", src: 1, quote: "Wednesday, 16 December 2026 Paris Saint-Germain v FIFA Challenger Cup winners Ahmad bin Ali Stadium, Al Rayyan, Qatar" }
+      fill: { title: "Bracket", labels: ["Libertadores winner or Toluca", "Challenger Cup winner", "Intercontinental Cup champion"] }
       unconfirmed:
         - { label: "Kickoff times for all three matches", why: "FIFA's Oct. 22, 2026 announcement lists dates and venues only" }
         - { label: "U.S. and UK broadcasters", why: "none announced as of Nov. 4, 2026" }

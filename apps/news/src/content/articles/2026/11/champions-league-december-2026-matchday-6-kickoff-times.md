@@ -23,7 +23,7 @@ assets:
     description: "One-page Champions League matchday 6 watch guide for Dec. 8-9, 2026: all 18 games with kickoff times in Eastern, Pacific and Greenwich Mean Time."
     alt: "Printable Champions League matchday 6 watch guide for Dec. 8-9, 2026 with kickoff times in ET, PT and GMT"
     data:
-      pick: "My pick"
+      pick: "Pick"
       events:
         - { start: "2026-12-08T18:45+01:00", title: "Viking v Feyenoord", src: 1, quote: ["Tue. Dec. 8, 2026", "Viking vs Feyenoord (18:45)"] }
         - { start: "2026-12-08T18:45+01:00", title: "Villarreal v Sabah", src: 1, quote: ["Tue. Dec. 8, 2026", "Villarreal vs Sabah (18:45)"] }
@@ -44,7 +44,7 @@ assets:
         - { start: "2026-12-09T21:00+01:00", title: "PSV Eindhoven v Atlético de Madrid", src: 1, quote: ["Wed. Dec. 9, 2026", "Kick-offs are 21:00 unless stated; all times CET."] }
         - { start: "2026-12-09T21:00+01:00", title: "Stuttgart v Lille", src: 1, quote: ["Wed. Dec. 9, 2026", "Kick-offs are 21:00 unless stated; all times CET."] }
       unconfirmed:
-        - { label: "U.S. and U.K. channels for each match", why: "Not announced in a source we found as of Nov. 4, 2026" }
+        - { label: "channels for each match", why: "Not announced in a source we found as of Nov. 4, 2026" }
 hero:
   src: ../../../../assets/news/champions-league-december-2026-matchday-6-kickoff-times/champions-league-december-2026-matchday-6-kickoff-times.webp
   alt: "Emirates Stadium in London, where Arsenal host Real Madrid in the Champions League matchday 6 on Dec. 9, 2026"

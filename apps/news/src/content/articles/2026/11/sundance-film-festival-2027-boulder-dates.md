@@ -73,18 +73,18 @@ assets:
     description: "A Sundance Film Festival 2027 planner with the Boulder dates: tickets Jan. 8, opening Jan. 21, gala Jan. 22, online screenings Jan. 28-31 and awards Jan. 29."
     alt: "Sundance Film Festival 2027 planner listing Boulder festival dates from Jan. 8 to Jan. 31 with a space for picks"
     data:
-      pick: "My pick"
+      pick: "Pick"
       events:
-        - { date: "2027-01-08", time: TBA, title: "Single film tickets go on sale", airing: live, src: 2, quote: "Single Film Tickets will go on sale starting January 8, 2027." }
-        - { date: "2027-01-21", time: TBA, title: "Festival opens; world premieres begin", airing: live, src: 1, quote: "World premieres will be held Thursday, January 21, to Tuesday, January 26" }
-        - { date: "2027-01-21", time: TBA, title: "Press and industry screenings begin", airing: live, src: 1, quote: "starting Thursday, January 21, through Wednesday, January 27, Cinemark Century will host P&I screenings" }
-        - { date: "2027-01-22", time: TBA, title: "Festival gala", airing: live, src: 1, quote: "Our annual Festival gala will take place on Friday, January 22." }
-        - { date: "2027-01-26", time: TBA, title: "Last day of world premieres", airing: live, src: 1, quote: "World premieres will be held Thursday, January 21, to Tuesday, January 26" }
-        - { date: "2027-01-27", time: TBA, title: "Legacy program begins", airing: live, src: 2, quote: "The Legacy program will take place from Tuesday, January 27, through Sunday, January 31" }
-        - { date: "2027-01-28", time: TBA, title: "At-home online screenings begin", airing: live, src: 1, quote: "at-home online screenings from Thursday, January 28, to Sunday, January 31" }
-        - { date: "2027-01-29", time: TBA, title: "Jury and audience awards announced", airing: live, src: 1, quote: "The 2027 Sundance Film Festival jury and audience awards will be announced on Friday, January 29." }
-        - { date: "2027-01-31", time: TBA, title: "Festival and online screenings end", airing: live, src: 1, quote: "at-home online screenings from Thursday, January 28, to Sunday, January 31" }
-      fill: { title: "My Sundance 2027 plan", labels: ["Films to see", "Who is going"] }
+        - { date: "2027-01-08", time: tba, title: "Single film tickets go on sale", airing: live, src: 2, quote: "Single Film Tickets will go on sale starting January 8, 2027." }
+        - { date: "2027-01-21", time: tba, title: "Festival opens; world premieres begin", airing: live, src: 1, quote: "World premieres will be held Thursday, January 21, to Tuesday, January 26" }
+        - { date: "2027-01-21", time: tba, title: "Press and industry screenings begin", airing: live, src: 1, quote: "starting Thursday, January 21, through Wednesday, January 27, Cinemark Century will host P&I screenings" }
+        - { date: "2027-01-22", time: tba, title: "Festival gala", airing: live, src: 1, quote: "Our annual Festival gala will take place on Friday, January 22." }
+        - { date: "2027-01-26", time: tba, title: "Last day of world premieres", airing: live, src: 1, quote: "World premieres will be held Thursday, January 21, to Tuesday, January 26" }
+        - { date: "2027-01-27", time: tba, title: "Legacy program begins", airing: live, src: 2, quote: "The Legacy program will take place from Tuesday, January 27, through Sunday, January 31" }
+        - { date: "2027-01-28", time: tba, title: "At-home online screenings begin", airing: live, src: 1, quote: "at-home online screenings from Thursday, January 28, to Sunday, January 31" }
+        - { date: "2027-01-29", time: tba, title: "Jury and audience awards announced", airing: live, src: 1, quote: "The 2027 Sundance Film Festival jury and audience awards will be announced on Friday, January 29." }
+        - { date: "2027-01-31", time: tba, title: "Festival and online screenings end", airing: live, src: 1, quote: "at-home online screenings from Thursday, January 28, to Sunday, January 31" }
+      fill: { title: "Sundance 2027 plan", labels: ["Films to see", "who is coming"] }
       unconfirmed:
         - { label: "Film lineup", why: "The Institute says it will be announced in December; no day given as of Nov. 4, 2026" }
         - { label: "Screening and event times", why: "Not in the Institute pages we used as of Nov. 4, 2026" }

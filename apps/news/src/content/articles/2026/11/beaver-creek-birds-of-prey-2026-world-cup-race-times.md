@@ -23,7 +23,7 @@ assets:
     description: "A Birds of Prey 2026 race card: the seven Beaver Creek World Cup races Dec. 3-13 with start times in Eastern, Central, Mountain and Pacific Time."
     alt: "Birds of Prey 2026 race card listing seven Beaver Creek World Cup races with start times in ET, CT, MT and PT"
     data:
-      pick: "My race"
+      pick: "Race"
       events:
         - { start: "2026-12-03T11:00-07:00", title: "Men's downhill", detail: "Red Tail Stadium, Beaver Creek", src: 1, quote: "Thursday Dec 3, 2026 11:00 am" }
         - { start: "2026-12-04T11:00-07:00", title: "Men's downhill", detail: "Red Tail Stadium, Beaver Creek", src: 1, quote: "Friday Dec 4, 2026 11:00 am" }
@@ -32,7 +32,7 @@ assets:
         - { start: "2026-12-11T11:00-07:00", title: "Women's downhill", detail: "Red Tail Stadium, Beaver Creek", src: 1, quote: "Friday Dec 11, 2026 11:00 am" }
         - { start: "2026-12-12T11:00-07:00", title: "Women's downhill", detail: "Red Tail Stadium, Beaver Creek", src: 1, quote: "Saturday Dec 12, 2026 11:00 am" }
         - { start: "2026-12-13T11:00-07:00", title: "Women's super-G", detail: "Red Tail Stadium, Beaver Creek", src: 1, quote: "Sunday Dec 13, 2026 11:00 am" }
-      fill: { title: "My Birds of Prey plan", labels: ["Where I'm watching", "Who I'm watching with"] }
+      fill: { title: "Birds of Prey plan", labels: ["Where to watch", "with whom"] }
       unconfirmed:
         - { label: "2026 U.S. TV and streaming", why: "Not yet announced as of Nov. 4, 2026" }
         - { label: "Training run times", why: "Not on the organizer's schedule as of Nov. 4, 2026" }
