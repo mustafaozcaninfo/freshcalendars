@@ -137,7 +137,7 @@ The Schedule 8812 instructions describe the ACTC as 15% of earned income above $
 | 2 | $4,400 | $3,400 | $25,166.67 |
 | 3 | $6,600 | $5,100 | $36,500.00 |
 
-The formula is $2,500 plus the refundable cap divided by 0.15. The ACTC is also limited by the part of the credit that tax does not already use, so a family with no income tax liability can reach the cap sooner than a family that owes tax. Check the worksheet in the Schedule 8812 instructions for your own return.
+The formula is $2,500 plus the refundable cap divided by 0.15. The ACTC is also limited to the part of the credit your tax does not already use, so the table shows the most a family can get back, not what every family receives. Check the worksheet in the Schedule 8812 instructions for your own return.
 
 ## When will 2027 refunds with the ACTC arrive?
 
