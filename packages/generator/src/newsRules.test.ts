@@ -162,6 +162,8 @@ test("factTokens reads dates, ranges, times, amounts and percentages the same wa
   assert.deepEqual([...factTokens("Burns Night is 25 January; doors 24-26 Dec", { story: true })].sort(), ["d:1-25", "d:12-24", "d:12-26"]);
   assert.ok(!factTokens("2 Feb. 2027").has("d:2-2"), "day-first is read in stories only");
   assert.ok(factTokens("gates open 17:00", { story: true }).has("t:17:00"));
+  assert.ok(factTokens("National Popcorn Day is January 19th").has("d:1-19"));
+  assert.deepEqual([...factTokens("Dec. 1st to 3rd")].sort(), ["d:12-1", "d:12-3"]);
 });
 
 test("categories with a kit must use it or say why not", () => {
