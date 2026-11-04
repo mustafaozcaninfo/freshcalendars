@@ -15,30 +15,45 @@ assets:
   date: "2026-12-15"
   card: { top: "Bill of Rights Day 2026", big: "Dec. 15", bottom: "Ratified Dec. 15, 1791" }
   printable:
-    slug: bill-of-rights-day-2026-activity-sheet
+    kit: activity-sheet
+    slug: bill-of-rights-day-2026-amendments-activity-sheet
     group: bill-of-rights-day-2026
-    title: "Bill of Rights Day 2026 Amendments and Dates Sheet"
-    subtitle: "Tue., Dec. 15, 2026: the 10 amendments ratified in 1791"
-    noKit: "An observance sheet listing ten amendments with plain labels and key dates, not a holiday-status grid."
+    title: "Bill of Rights Day 2026 Amendments Activity Sheet"
+    subtitle: "Dec. 15, 2026: the 10 amendments ratified in 1791"
     notesLabel: "The amendment I want to read again"
-    rows:
-      - { when: "Tue., Dec. 15", what: "Bill of Rights Day 2026", section: "Mark the date" }
-      - { when: "Sept. 25, 1789", what: "The First Congress proposed 12 amendments to the states", section: "Mark the date" }
-      - { when: "Dec. 15, 1791", what: "Ten of the 12 were ratified by three-fourths of the state legislatures", section: "Mark the date" }
-      - { when: "Amendment 1", what: "Religion and expression (our label)", section: "The ten amendments (plain labels are ours)" }
-      - { when: "Amendment 2", what: "Bearing arms (our label)", section: "The ten amendments (plain labels are ours)" }
-      - { when: "Amendment 3", what: "Quartering soldiers (our label)", section: "The ten amendments (plain labels are ours)" }
-      - { when: "Amendment 4", what: "Searches (our label)", section: "The ten amendments (plain labels are ours)" }
-      - { when: "Amendment 5", what: "Criminal charges (our label)", section: "The ten amendments (plain labels are ours)" }
-      - { when: "Amendment 6", what: "Criminal trials (our label)", section: "The ten amendments (plain labels are ours)" }
-      - { when: "Amendment 7", what: "Civil trials (our label)", section: "The ten amendments (plain labels are ours)" }
-      - { when: "Amendment 8", what: "Bail, fines, punishments (our label)", section: "The ten amendments (plain labels are ours)" }
-      - { when: "Amendment 9", what: "Other rights kept (our label)", section: "The ten amendments (plain labels are ours)" }
-      - { when: "Amendment 10", what: "Powers of the states and people (our label)", section: "The ten amendments (plain labels are ours)" }
-      - { when: "Wed., Dec. 15, 2027", what: "Bill of Rights Day 2027", section: "Next dates" }
-    note: "Source: National Archives, Bill of Rights (1791) and transcript; American Presidency Project, Proclamation 2524; GovInfo, Proclamation 10997."
+    data:
+      day:
+        date: "2026-12-15"
+        name: "Bill of Rights Day"
+        src: 4
+        quote: "do hereby proclaim December 15, 2025, as Bill of Rights Day."
+      facts:
+        - text: "Ten of the 12 proposed amendments were ratified on Dec. 15, 1791."
+          src: 1
+          quote: "ratified December 15, 1791, by three-fourths of the state legislatures"
+        - text: "The First Congress proposed 12 amendments to the states on Sept. 25, 1789."
+          src: 1
+          quote: "the First Congress of the United States therefore proposed to the state legislatures 12 amendments"
+        - text: "President Franklin D. Roosevelt designated the day in Proclamation 2524 in 1941."
+          src: 3
+          quote: "do hereby designate December 15, 1941, as Bill of Rights Day"
+      activities:
+        - type: checklist
+          title: "The ten amendments (our plain labels)"
+          items:
+            - "Amendment 1: Religion and expression"
+            - "Amendment 2: Bearing arms"
+            - "Amendment 3: Quartering soldiers"
+            - "Amendment 4: Searches"
+            - "Amendment 5: Criminal charges"
+            - "Amendment 6: Criminal trials"
+            - "Amendment 7: Civil trials"
+            - "Amendment 8: Bail, fines, punishments"
+            - "Amendment 9: Other rights kept"
+            - "Amendment 10: Powers of the states and people"
+    note: "Source: National Archives, Bill of Rights (1791); American Presidency Project, Proclamation 2524; GovInfo, Proclamation 10997."
     description: "One-page Bill of Rights Day 2026 sheet: the Dec. 15 date, the 1791 ratification and the ten amendments with plain labels, plus a notes area."
-    alt: "Printable Bill of Rights Day 2026 sheet with the Dec. 15 date, the ten amendments and key dates"
+    alt: "Printable Bill of Rights Day 2026 sheet with the Dec. 15 date and the ten amendments with plain labels"
 hero:
   src: ../../../../assets/news/bill-of-rights-day-2026-december-15/bill-of-rights-day-2026-december-15.webp
   alt: "The Bill of Rights, the joint resolution of Congress held by the National Archives, for Bill of Rights Day 2026 on Dec. 15"
@@ -99,13 +114,13 @@ internalLinks:
     label: "When is Christmas Day?"
 related: [human-rights-day-2026-december-10, wright-brothers-day-2026-december-17, december-2026-important-dates-holidays-days-until]
 downloads:
-  - group: "Bill of Rights Day 2026 Amendments and Dates Sheet printables"
-    title: "Bill of Rights Day 2026 Amendments and Dates Sheet"
+  - group: "Bill of Rights Day 2026 Amendments Activity Sheet printables"
+    title: "Bill of Rights Day 2026 Amendments Activity Sheet"
     description: "One-page Bill of Rights Day 2026 sheet: the Dec. 15 date, the 1791 ratification and the ten amendments with plain labels, plus a notes area."
-    preview: ../../../../assets/news/bill-of-rights-day-2026/bill-of-rights-day-2026-activity-sheet.png
-    alt: "Printable Bill of Rights Day 2026 sheet with the Dec. 15 date, the ten amendments and key dates"
-    pdf: "/news/downloads/bill-of-rights-day-2026/bill-of-rights-day-2026-activity-sheet.pdf"
-    png: "/news/downloads/bill-of-rights-day-2026/bill-of-rights-day-2026-activity-sheet.png"
+    preview: ../../../../assets/news/bill-of-rights-day-2026/bill-of-rights-day-2026-amendments-activity-sheet.png
+    alt: "Printable Bill of Rights Day 2026 sheet with the Dec. 15 date and the ten amendments with plain labels"
+    pdf: "/news/downloads/bill-of-rights-day-2026/bill-of-rights-day-2026-amendments-activity-sheet.pdf"
+    png: "/news/downloads/bill-of-rights-day-2026/bill-of-rights-day-2026-amendments-activity-sheet.png"
     pages: 1
 draft: false
 ---
