@@ -202,7 +202,7 @@ import NewsBar from "./NewsBar.astro";
   .top .desk,.top .desk a{color:#fff;font-size:.8125rem}
   @media(max-width:640px){.top{padding:1.5rem;min-height:240px}.top h1{font-size:1.8rem}.top:after{background:rgba(10,32,21,.9)}}
   .desk{display:grid;gap:.9rem 1.5rem;align-items:center;margin:0 0 1rem;padding:1rem 1.25rem;border:1px solid var(--line);border-top:3px solid var(--ink-strong);border-radius:8px;background:var(--surface-soft)}
-  .desk-head h2{font-family:Sora,"Sora Fallback",sans-serif;font-size:.78rem;font-weight:700;text-transform:uppercase;letter-spacing:.08em;color:var(--ink-strong);margin:0 0 .25rem}
+  .desk-head h2{font-family:Sora,"Sora Fallback",sans-serif;font-size:.875rem;font-weight:700;text-transform:uppercase;letter-spacing:.08em;color:var(--ink-strong);margin:0 0 .25rem}
   .desk-head p{margin:0;font-size:.85rem;line-height:1.4;color:var(--ink)}
   .desk-list{list-style:none;margin:0;padding:0;display:grid;gap:.5rem;grid-template-columns:repeat(auto-fill,minmax(150px,1fr))}
   .desk-list a{display:flex;align-items:center;gap:.65rem;min-height:56px;padding:.4rem .6rem;border:1px solid transparent;border-radius:8px;text-decoration:none;color:var(--ink-strong)}
@@ -212,7 +212,7 @@ import NewsBar from "./NewsBar.astro";
   .desk-mono{display:grid;place-items:center;background:var(--ink-strong);color:var(--paper);font:700 .8rem Sora,"Sora Fallback",sans-serif;letter-spacing:.04em}
   .desk-who{display:grid;min-width:0;line-height:1.25}
   .desk-who b{font-size:.92rem}
-  .desk-who span{font-size:.78rem;color:var(--ink)}
+  .desk-who span{font-size:.875rem;color:var(--ink)}
   .desk-cta{justify-self:start;display:inline-flex;align-items:center;min-height:44px;padding:0 1rem;border-radius:999px;background:var(--ink-strong);color:var(--paper)!important;font-weight:700;font-size:.88rem;text-decoration:none;white-space:nowrap}
   .desk-cta:hover,.desk-cta:focus-visible{background:var(--focus)}
   @media (min-width:1100px){.desk{grid-template-columns:200px minmax(0,1fr) auto}.desk-list{grid-template-columns:repeat(4,minmax(0,1fr));gap:.25rem}.desk-list a{padding:.4rem}.desk-who b{white-space:nowrap}}
@@ -231,21 +231,21 @@ import NewsBar from "./NewsBar.astro";
   .latest ol{list-style:none;margin:0;padding:0}
   .latest li{padding:.8rem 0;border-top:1px solid var(--n-border)}
   .latest li:first-child{border-top:0;padding-top:0}
-  .latest .cat{margin:0 0 .2rem;font-size:.72rem;font-weight:700;text-transform:uppercase;letter-spacing:.06em}
+  .latest .cat{margin:0 0 .2rem;font-size:.8125rem;font-weight:700;text-transform:uppercase;letter-spacing:.06em}
   .latest .cat a{color:var(--cat)!important;text-decoration:none}
   .latest li{border-left:3px solid transparent;transition:border-color .15s ease}
   .latest li:hover{border-left-color:var(--cat);padding-left:.6rem}
   .latest h3{font-family:Sora,"Sora Fallback",sans-serif;font-size:1rem;line-height:1.3;margin:0 0 .3rem}
   .latest h3 a{color:var(--ink-strong);text-decoration:none}
   .latest h3 a:hover,.latest h3 a:focus-visible{text-decoration:underline}
-  .latest time,.all time{font-size:.82rem;color:var(--ink)}
+  .latest time,.all time{font-size:.875rem;color:var(--ink)}
 
   .topic-nav{margin:0 0 2.25rem}
   .topic-nav ul{list-style:none;margin:0;padding:0;display:grid;gap:.6rem;grid-template-columns:repeat(auto-fill,minmax(210px,1fr))}
   .topic-nav a{display:grid;gap:.1rem;min-height:56px;padding:.65rem .85rem;border:1px solid var(--line);border-left:4px solid var(--gold);border-radius:6px;text-decoration:none;color:var(--ink-strong);background:#fff}
   .topic-nav a:hover,.topic-nav a:focus-visible{border-color:var(--focus)}
   .topic-nav b{font-family:Sora,"Sora Fallback",sans-serif;font-size:.95rem;line-height:1.25}
-  .topic-nav span{font-size:.82rem;color:var(--ink)}
+  .topic-nav span{font-size:.875rem;color:var(--ink)}
   .topic-more{margin-top:.6rem}
   .topic-more summary{display:inline-flex;align-items:center;gap:.4rem;min-height:44px;padding:0 1rem;border:1px solid var(--line);border-radius:999px;font-weight:700;font-size:.88rem;color:var(--ink-strong);cursor:pointer;list-style:none}
   .topic-more summary::-webkit-details-marker{display:none}
@@ -257,10 +257,10 @@ import NewsBar from "./NewsBar.astro";
   .upcoming ol{list-style:none;margin:0;padding:0;display:grid;gap:.6rem}
   .upcoming a{display:grid;grid-template-columns:4.2rem 1fr auto;gap:.85rem;align-items:center;padding:.6rem .7rem;background:#fff;border:1px solid var(--line);border-radius:6px;text-decoration:none;color:var(--ink-strong);min-height:56px}
   .upcoming a:hover,.upcoming a:focus-visible{border-color:var(--focus)}
-  .upcoming .date{display:grid;text-align:center;font-size:.75rem;color:var(--ink);text-transform:uppercase;letter-spacing:.04em;border-right:1px solid var(--line-soft);padding-right:.6rem}
+  .upcoming .date{display:grid;text-align:center;font-size:.8125rem;color:var(--ink);text-transform:uppercase;letter-spacing:.04em;border-right:1px solid var(--line-soft);padding-right:.6rem}
   .upcoming .date b{font-family:Sora,"Sora Fallback",sans-serif;font-size:1rem;color:var(--focus);text-transform:none;letter-spacing:0}
   .upcoming .what{font-weight:700;line-height:1.3}
-  .upcoming .in{font-size:.8rem;font-weight:700;color:var(--warm-ink);background:var(--surface-warm);border-radius:999px;padding:.2rem .6rem;white-space:nowrap}
+  .upcoming .in{font-size:.875rem;font-weight:700;color:var(--warm-ink);background:var(--surface-warm);border-radius:999px;padding:.2rem .6rem;white-space:nowrap}
 
   .strip{margin:0 0 2.25rem}
   .strip ul{list-style:none;margin:0;padding:0;display:grid;grid-template-columns:repeat(2,1fr);gap:1rem}
@@ -303,39 +303,41 @@ import NewsBar from "./NewsBar.astro";
 :global(html[data-theme=dark]) .concept-news-hero :is(h1,p){color:var(--ink-strong)}
 .concept-news-hero .news-concept-wrap{padding:23px 0}
 .concept-news-hero h1{font:700 44px/1.1 Sora,sans-serif;letter-spacing:-.04em;color:#0e2135;margin:10px 0 10px}
-.concept-news-hero p{font-size:13px;color:#0e2135;margin:0;max-width:65ch}
+.concept-news-hero p{font-size:17px;color:#0e2135;margin:0;max-width:65ch}
 .concept-news-lead{display:grid;grid-template-columns:1.06fr .94fr;gap:24px;margin:20px 0 24px;align-items:stretch}
 .concept-feature{position:relative;min-width:0;border-radius:8px;overflow:hidden;background:#071a25}
 .concept-feature>a{display:flex;flex-direction:column;height:100%;text-decoration:none!important;color:#fff!important}
 /* Shown whole at 16:9: heroes carry their own lettering, which a cover crop cut off. */
 .concept-feature :global(img){display:block;width:100%;height:auto;aspect-ratio:16/9;object-fit:cover}
 /* Top right: story heroes carry their own kicker in the top-left corner. */
-.feature-badge{position:absolute;top:15px;right:15px;z-index:1;padding:6px 10px;border-radius:6px;background:#fff;color:#10283b;font-size:11px;font-weight:700;text-transform:uppercase}
+.feature-badge{position:absolute;top:15px;right:15px;z-index:1;padding:6px 10px;border-radius:6px;background:#fff;color:#10283b;font-size:13px;font-weight:700;text-transform:uppercase}
 .feature-copy{flex:1;display:flex;flex-direction:column;justify-content:center;padding:20px 22px 22px;background:#071a25}
 .feature-copy h2{font:700 25px/1.2 Sora,sans-serif;letter-spacing:-.04em;margin:8px 0;color:#fff}
-.feature-copy p{font-size:12px;margin:0;color:#fff}
+.feature-copy p{font-size:16px;margin:0;color:#fff}
 .feature-copy .feature-desc{font-size:14px;line-height:1.5;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden}
-.feature-read{display:block;font-size:13px;font-weight:700;margin-top:12px;color:#fff}
+.feature-read{display:block;font-size:15px;font-weight:700;margin-top:12px;color:#fff}
 .concept-feature>a:hover h2,.concept-feature>a:focus-visible h2{text-decoration:underline}
 .concept-latest{display:grid;grid-template-rows:repeat(4,1fr);gap:10px;min-width:0}
 .concept-latest article{border:1px solid var(--line-soft);border-radius:8px;overflow:hidden;min-width:0;background:var(--paper)}
 .concept-latest a{height:100%;display:grid;grid-template-columns:40% 1fr;gap:14px;text-decoration:none!important;color:var(--ink-strong)!important}
 .concept-latest :global(img){height:100%;min-height:90px;width:100%;object-fit:cover}
 .concept-latest a>div{padding:8px 10px 8px 0;align-self:center;min-width:0}
-.story-category{font-size:11px;text-transform:uppercase;color:var(--cat);background:color-mix(in srgb,var(--cat) 8%,var(--paper));padding:3px 5px;border-radius:3px}
-.concept-latest h2{font-size:13px;line-height:1.35;margin:6px 0;color:var(--ink-strong);display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden}
-.concept-latest time{font-size:11px;color:var(--muted)}
+.story-category{font-size:13px;text-transform:uppercase;color:var(--cat);background:color-mix(in srgb,var(--cat) 8%,var(--paper));padding:3px 5px;border-radius:3px}
+/* Category colors are tuned for dark mode; on white they fell to 2.8-3.5:1 at 13px, so light mode darkens them to pass 4.5:1. */
+:root:not([data-theme=dark]) .story-category,:root:not([data-theme=dark]) .latest .cat a{color:color-mix(in srgb,var(--cat) 60%,#000)!important}
+.concept-latest h2{font-size:17px;line-height:1.35;margin:6px 0;color:var(--ink-strong);display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden}
+.concept-latest time{font-size:13px;color:var(--muted)}
 .trending-heading{display:flex;justify-content:space-between;align-items:center;margin-bottom:12px}
 .trending-heading h2{font:700 20px/1.2 Sora,sans-serif;color:var(--ink-strong);letter-spacing:-.03em;margin:0}
-.trending-heading>a{font-size:11px;color:var(--focus);text-decoration:none}
+.trending-heading>a{font-size:13px;color:var(--focus);text-decoration:none}
 .concept-trending ol{display:grid;grid-template-columns:repeat(5,minmax(0,1fr));gap:14px;padding:0;list-style:none;margin:0 0 25px}
 .concept-trending li{position:relative;border:1px solid var(--line-soft);border-radius:9px;overflow:hidden;background:var(--paper)}
 .concept-trending li>a{position:relative;isolation:isolate;display:flex;flex-direction:column;min-height:139px;padding:12px;text-decoration:none!important;color:var(--ink-strong)!important}
 .concept-trending :global(img){position:absolute;inset:0;width:100%;height:100%;object-fit:cover;opacity:.1;z-index:-1}
 .concept-trending .story-category{align-self:flex-start;margin-bottom:10px}
-.concept-trending h3{font-size:11px;line-height:1.4;margin:0 0 12px;display:-webkit-box;-webkit-line-clamp:3;-webkit-box-orient:vertical;overflow:hidden}
-.concept-trending time{font-size:11px;color:var(--muted);margin-top:auto}
-@media(max-width:1023px){.news-concept-wrap{width:calc(100% - 40px)}.concept-news-lead{gap:16px}.feature-copy h2{font-size:21px}.concept-latest a{gap:10px}.concept-latest h2{font-size:12px}.concept-trending ol{gap:10px}}
-@media(max-width:640px){.news-concept-wrap{width:calc(100% - 32px)}.concept-news-hero{min-height:155px}.concept-news-hero h1{font-size:34px}.concept-news-hero p{font-size:11px;max-width:36ch}.concept-news-lead{grid-template-columns:1fr;gap:14px}.concept-latest{grid-template-rows:none;grid-template-columns:1fr 1fr;gap:10px}.concept-latest a{display:flex;flex-direction:column;gap:0}.concept-latest :global(img){height:100px;min-height:100px}.concept-latest a>div{padding:10px;width:100%}.concept-latest h2{font-size:11px}.concept-trending ol{display:flex;overflow-x:auto;scrollbar-width:thin}.concept-trending li{flex:0 0 160px}.feature-copy{padding:18px}.feature-copy h2{font-size:22px}}
+.concept-trending h3{font-size:16px;line-height:1.35;margin:0 0 12px;display:-webkit-box;-webkit-line-clamp:3;-webkit-box-orient:vertical;overflow:hidden}
+.concept-trending time{font-size:13px;color:var(--muted);margin-top:auto}
+@media(max-width:1023px){.news-concept-wrap{width:calc(100% - 40px)}.concept-news-lead{gap:16px}.feature-copy h2{font-size:21px}.concept-latest a{gap:10px}.concept-latest h2{font-size:16px}.concept-trending ol{gap:10px}}
+@media(max-width:640px){.news-concept-wrap{width:calc(100% - 32px)}.concept-news-hero{min-height:155px}.concept-news-hero h1{font-size:34px}.concept-news-hero p{font-size:16px;max-width:36ch}.concept-news-lead{grid-template-columns:1fr;gap:14px}.concept-latest{grid-template-rows:none;grid-template-columns:1fr 1fr;gap:10px}.concept-latest a{display:flex;flex-direction:column;gap:0}.concept-latest :global(img){height:100px;min-height:100px}.concept-latest a>div{padding:10px;width:100%}.concept-latest h2{font-size:16px}.concept-trending ol{display:flex;overflow-x:auto;scrollbar-width:thin}.concept-trending li{flex:0 0 160px}.feature-copy{padding:18px}.feature-copy h2{font-size:22px}}
   @media(max-width:480px){.upcoming a{grid-template-columns:48px minmax(0,1fr);gap:7px 10px}.upcoming .what{min-width:0;overflow-wrap:anywhere}.upcoming .date{grid-row:span 2}.upcoming .in{grid-column:2;justify-self:start;white-space:normal}.upcoming li{min-width:0}}
 </style>

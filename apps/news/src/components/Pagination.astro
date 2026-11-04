@@ -15,7 +15,7 @@ const pages = Array.from({length:page.totalPages},(_,i)=>i+1).filter(n=>page.tot
 )}
 <style>
   .pager{display:flex;justify-content:space-between;align-items:center;gap:12px;margin:25px 0 0;padding-top:18px;border-top:1px solid var(--line-soft);flex-wrap:wrap}
-  .pager a{min-height:34px;display:inline-flex;align-items:center;font-weight:700;color:var(--focus);font-size:11px;text-decoration:none}
-  .page-numbers{display:flex;align-items:center;gap:5px}.page-numbers a,.page-numbers .current{display:grid;place-items:center;width:32px;min-height:32px;border:1px solid var(--line);border-radius:6px;font-size:11px;color:var(--ink-strong)}.page-numbers .current{background:var(--accent);color:#fff;border-color:var(--accent)}.ellipsis{font-size:11px;color:var(--muted);padding:0 3px}
+  .pager a{min-height:34px;display:inline-flex;align-items:center;font-weight:700;color:var(--focus);font-size:13px;text-decoration:none}
+  .page-numbers{display:flex;align-items:center;gap:5px}.page-numbers a,.page-numbers .current{display:grid;place-items:center;width:32px;min-height:32px;border:1px solid var(--line);border-radius:6px;font-size:13px;color:var(--ink-strong)}.page-numbers .current{background:var(--accent);color:#fff;border-color:var(--accent)}.ellipsis{font-size:13px;color:var(--muted);padding:0 3px}
   .count{font-size:.9rem;color:var(--ink)}
 </style>
