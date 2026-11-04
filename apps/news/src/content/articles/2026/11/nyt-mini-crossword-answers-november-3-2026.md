@@ -63,7 +63,7 @@ Start with 4-Down, a geography fact, and 1-Across, a word from paperwork. 1-Acro
 
 Keep a streak log on our [printable weekly calendar](/printable-weekly-calendar.html) or the [November 2026 printable calendar](/november-calendars.html).
 
-More of Tuesday's puzzles: [Wordle hints](/news/wordle-hint-answer-today-november-3-2026-1963/), [Connections hints](/news/nyt-connections-hints-answers-november-3-2026-1241/), [Strands hints](/news/nyt-strands-hints-answers-november-3-2026-975/), [Spelling Bee hints](/news/nyt-spelling-bee-hints-answers-november-3-2026/) and [Pips hints](/news/nyt-pips-hints-answers-november-3-2026/). Monday's grid is in our [Mini answers for Nov. 2](/news/nyt-mini-crossword-answers-november-2-2026/).
+More of Tuesday's puzzles: [Wordle hints](/news/wordle-hint-answer-today-november-3-2026-1963/), [Connections hints](/news/nyt-connections-hints-answers-november-3-2026-1241/), [Strands hints](/news/nyt-strands-hints-answers-november-3-2026-975/), [Spelling Bee hints](/news/nyt-spelling-bee-hints-answers-november-3-2026/) and [Pips hints](/news/nyt-pips-hints-answers-november-3-2026/). Monday's grid is in our [Mini answers for Nov. 2](/news/nyt-mini-crossword-answers-november-2-2026/). Wednesday's grid is in our [Mini answers for Nov. 4](/news/nyt-mini-crossword-answers-november-4-2026/).
 
 ## Today's NYT Mini answers (spoilers)
 
