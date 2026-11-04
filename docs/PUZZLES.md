@@ -80,6 +80,10 @@ Every page for Wordle, Connections, Strands, Pips, Spelling Bee, the Mini, the M
 - Squaredle: the word lists in `squaredle.app/api/today-puzzle-config.js` are obfuscated; decoding them would get around the site's protection, so no answer pages.
 - Octordle (Britannica), Globle, Letroso: no data file to read; the answer is worked out inside the game's own script, so reading it would mean reverse-engineering their code. Hurdle: the site did not answer a plain request. Daily Jumble: no official answer data found (Tribune posts the answer in the next day's paper). Checked Nov. 1, 2026; demand for these looked thin next to the games above (few current daily posts from large outlets).
 - Washington Post Keyword, The Atlantic Bracket City, USA Today games: blocked or paywalled to plain requests (checked Oct. 26, 2026).
+- Nerdle (checked Nov. 4, 2026): the publisher posts its own answer page each day (`nerdlegame.com/answers/classic/classic-nerdle-answer-YYYY-MM-DD.html`, today only; the next day answers 403; new puzzle at midnight GMT). Readable, but the official page already answers "nerdle answer today" with its own stats, and only Try Hard Guides and one small site post daily US pages, so a page of ours would add little. Held; revisit if large US outlets start daily posts.
+- NYT Sudoku (checked Nov. 4, 2026): `nytimes.com/puzzles/sudoku/<level>` carries `window.gameData` with the puzzle and solution (today only), but no large outlet posts daily answer pages and a solved 9x9 grid is a thin page. Held.
+- Phrazle (checked Nov. 4, 2026): the answer is not in the page and no data file was found; the site gives two different release times. Not usable.
+- NYT Vertex ended Aug. 29, 2024 (NYT Help Center); Apple News+ Quartiles is subscriber-only; Worldle, Framed, Weaver, Dordle and Costcodle keep the answer out of the page (checked Nov. 4, 2026).
 
 ## Checks that catch scheduled pages
 
