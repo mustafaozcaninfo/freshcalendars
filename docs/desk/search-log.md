@@ -19,3 +19,4 @@ Finished experiments: the change, 14 days before against 14 days after, and the 
 ## Runs
 
 2026-11-03 14:20 ET: +1 brief (lunar-new-year-2027-year-of-the-goat), closed 0 experiments, started 0, to the manager: 4
+2026-11-04 05:45 ET: +0 briefs (every candidate updated in the last 7 days, past or a dated series), closed 0 experiments, started 1 (lunar-new-year-2027-year-of-the-goat), to the manager: 2
