@@ -124,7 +124,7 @@ internalLinks:
     label: "November 2026 printable calendar"
   - href: "/december-calendars.html"
     label: "December 2026 printable calendar"
-related: [thanksgiving-travel-2026-best-days-to-fly-and-drive, el-nino-update-november-12-noaa-winter-outlook-november-19-2026, beaver-creek-birds-of-prey-2026-world-cup-race-times]
+related: [thanksgiving-travel-2026-best-days-to-fly-and-drive, beaver-creek-birds-of-prey-2026-world-cup-race-times, killington-cup-2026-world-cup-ski-race-times-tv]
 downloads:
   - group: "Ski Resort Opening Dates 2026-27 printables"
     title: "Ski Resort Opening Dates 2026-27"
