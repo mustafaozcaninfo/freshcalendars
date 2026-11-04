@@ -15,26 +15,30 @@ assets:
   date: "2026-11-12"
   card: { top: "Three events, online from", big: "Nov. 12", bottom: "12:01 a.m. ET, through Dec. 2" }
   printable:
-    slug: walmart-black-friday-2026-deal-calendar
+    kit: fact-table
+    slug: walmart-black-friday-2026-fact-table
     group: black-friday-2026
     title: "Walmart Black Friday 2026 Deal Calendar"
     subtitle: "Event starts, Walmart+ early access and end dates, Nov. 12 to Dec. 2, 2026"
-    layout: list
-    noKit: "This sheet lists event windows, early access times and in-store openings, not a ship-by deadline matrix."
-    rows:
-      - ["Thu., Nov. 12", "Early Black Friday Deals begin on Walmart.com at 12:01 a.m. ET; Walmart+ early access to hot Deal drops at 12:01 a.m. ET"]
-      - ["Thu., Nov. 12", "Early Black Friday Deals in stores at 6 a.m. local time; release gives no separate in-store date"]
-      - ["Fri., Nov. 13", "Remaining hot Deal drop items open to all customers at 12:01 a.m. ET"]
-      - ["Sun., Nov. 15", "Early Black Friday Deals end"]
-      - ["Mon., Nov. 23", "Black Friday Deals begin on Walmart.com at 12:01 a.m. ET; Walmart+ early access to hot Deal drops at 12:01 a.m. ET"]
-      - ["Tue., Nov. 24", "Remaining hot Deal drop items open to all at 12:01 a.m. ET"]
-      - ["Fri., Nov. 27", "Black Friday Deals in stores at 6 a.m. local time"]
-      - ["Sun., Nov. 29", "Black Friday Deals end"]
-      - ["Mon., Nov. 30", "Cyber Monday Deals begin on Walmart.com at 12:01 a.m. ET"]
-      - ["Wed., Dec. 2", "Cyber Monday Deals end"]
     note: "Source: Walmart press release, Oct. 26, 2026. All online starts are Eastern Time; stores open at 6 a.m. local time."
     description: "One-page Walmart Black Friday 2026 deal calendar: three events from Nov. 12 to Dec. 2, with Walmart+ early access times and in-store openings."
     alt: "Printable list of Walmart Black Friday 2026 event dates, Walmart+ early access and store openings"
+    landscape: true
+    data:
+      highlight: event
+      columns:
+        - { key: event, label: "Event" }
+        - { key: dates, label: "Dates (2026)" }
+        - { key: online, label: "Walmart.com start" }
+        - { key: early, label: "Walmart+ early access" }
+        - { key: stores, label: "Stores" }
+      rows:
+        - { cells: { event: "Early Black Friday Deals", dates: "Nov. 12 to Nov. 15", online: "12:01 a.m. ET, Nov. 12", early: "12:01 a.m. ET, Nov. 12", stores: "6 a.m. local time" }, src: 1 }
+        - { cells: { event: "Black Friday Deals", dates: "Nov. 23 to Nov. 29", online: "12:01 a.m. ET, Nov. 23", early: "12:01 a.m. ET, Nov. 23", stores: "Nov. 27 at 6 a.m. local time" }, src: 1 }
+        - { cells: { event: "Cyber Monday Deals", dates: "Nov. 30 to Dec. 2", online: "12:01 a.m. ET, Nov. 30", early: "Not listed", stores: "Not listed" }, src: 1 }
+      note:
+        - "Remaining hot Deal drop items open to all customers at 12:01 a.m. ET on Nov. 13 and Nov. 24."
+        - "12:01 a.m. ET is 9:01 p.m. the evening before in Pacific Time; in-store openings do not shift."
 hero:
   src: ../../../../assets/news/walmart-black-friday-2026-dates-november-12-23-walmart-plus-early-access/walmart-black-friday-2026-dates-november-12-23-walmart-plus-early-access.webp
   alt: "Walmart Supercenter storefront and parking lot in Bainbridge, Georgia, for Walmart Black Friday 2026 deal dates"
@@ -86,18 +90,10 @@ downloads:
   - group: "Walmart Black Friday 2026 Deal Calendar printables"
     title: "Walmart Black Friday 2026 Deal Calendar"
     description: "One-page Walmart Black Friday 2026 deal calendar: three events from Nov. 12 to Dec. 2, with Walmart+ early access times and in-store openings."
-    preview: ../../../../assets/news/black-friday-2026/walmart-black-friday-2026-deal-calendar.png
+    preview: ../../../../assets/news/black-friday-2026/walmart-black-friday-2026-fact-table.png
     alt: "Printable list of Walmart Black Friday 2026 event dates, Walmart+ early access and store openings"
-    pdf: "/news/downloads/black-friday-2026/walmart-black-friday-2026-deal-calendar.pdf"
-    png: "/news/downloads/black-friday-2026/walmart-black-friday-2026-deal-calendar.png"
-    pages: 1
-  - group: "Walmart Black Friday 2026 Deal Calendar printables"
-    title: "Walmart Black Friday 2026 Deal Calendar (ink saver)"
-    description: "One-page Walmart Black Friday 2026 deal calendar: three events from Nov. 12 to Dec. 2, with Walmart+ early access times and in-store openings. Ink-saver version."
-    preview: ../../../../assets/news/black-friday-2026/walmart-black-friday-2026-deal-calendar-ink.png
-    alt: "Printable list of Walmart Black Friday 2026 event dates, Walmart+ early access and store openings, ink-saver version"
-    pdf: "/news/downloads/black-friday-2026/walmart-black-friday-2026-deal-calendar-ink.pdf"
-    png: "/news/downloads/black-friday-2026/walmart-black-friday-2026-deal-calendar-ink.png"
+    pdf: "/news/downloads/black-friday-2026/walmart-black-friday-2026-fact-table.pdf"
+    png: "/news/downloads/black-friday-2026/walmart-black-friday-2026-fact-table.png"
     pages: 1
 draft: false
 ---
