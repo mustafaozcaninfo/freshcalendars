@@ -57,7 +57,7 @@ internalLinks:
     label: "When is Presidents' Day?"
   - href: "/february-calendars.html"
     label: "February printable calendars"
-related: [federal-holidays-2027-observed-dates-list, martin-luther-king-jr-day-2027-january-18-whats-closed, valentines-day-2027-sunday-february-14-dates-printables]
+related: [federal-holidays-2027-observed-dates-list, martin-luther-king-jr-day-2027-january-18-whats-closed, black-history-month-2027-calendar]
 assets:
   overlay: true
   kicker: "Presidents' Day 2027"
