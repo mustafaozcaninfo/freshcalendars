@@ -4,7 +4,6 @@ seoTitle: "National Pie Day 2027: Saturday, Jan. 23"
 description: "National Pie Day falls on Saturday, Jan. 23, 2027, per the American Pie Council (APC). Weekdays through 2032, how it differs from Pi Day, and a free planner."
 type: explainer
 publishedAt: "2026-11-04T06:40:00-05:00"
-updatedAt: "2026-11-04T06:40:00-05:00"
 authors: [christina-gerland]
 category: holidays
 keywords: ["national pie day 2027", "when is national pie day", "national pie day january 23", "pie day deals 2027"]
@@ -37,12 +36,21 @@ hero:
   src: ../../../../assets/news/national-pie-day-2027-saturday-january-23/national-pie-day-2027-saturday-january-23.webp
   alt: "A baked rhubarb pie with a woven lattice crust, for National Pie Day on Saturday, Jan. 23, 2027"
   caption: "File photo of a rhubarb pie with a lattice crust. National Pie Day is Saturday, Jan. 23, 2027, per the American Pie Council."
-  credit: "Photo: Coyote7 / Wikimedia Commons, cropped"
+  credit: "Photo: Coyote7 / Wikimedia Commons, cropped, edited"
   license:
     name: "Public domain"
     url: "https://creativecommons.org/publicdomain/mark/1.0/"
     source: "https://commons.wikimedia.org/wiki/File:Rhubarb_Pie_Lattice_Crust_Delicious.JPG"
     author: "Coyote7"
+downloads:
+  - group: "National Pie Day 2027 Plan Sheet printables"
+    title: "National Pie Day 2027 Plan Sheet, Sat., Jan. 23"
+    description: "One-page National Pie Day 2027 plan sheet with tick boxes for choosing a pie, a shop list, a bake day and sharing on Saturday, Jan. 23."
+    preview: ../../../../assets/news/national-pie-day-2027/national-pie-day-2027-plan-sheet.png
+    alt: "Printable National Pie Day 2027 plan sheet with tick boxes for picking a pie, shopping, baking and sharing"
+    pdf: "/news/downloads/national-pie-day-2027/national-pie-day-2027-plan-sheet.pdf"
+    png: "/news/downloads/national-pie-day-2027/national-pie-day-2027-plan-sheet.png"
+    pages: 1
 summary:
   - "National Pie Day is Jan. 23, which falls on Saturday in 2027, according to the American Pie Council (APC)."
   - "Pi Day is a separate observance on March 14, tied to the first digits of pi, and a 2009 House resolution named that date."
@@ -63,7 +71,6 @@ sources:
   - title: "H.Res. 224, 111th Congress: Supporting the designation of Pi Day"
     url: "https://www.govinfo.gov/content/pkg/BILLS-111hres224eh/html/BILLS-111hres224eh.htm"
     publisher: "U.S. Government Publishing Office (GovInfo)"
-    date: "2009-03-12"
   - title: "NASA Pi Day Challenge"
     url: "https://www.jpl.nasa.gov/edu/nasapidaychallenge/"
     publisher: "NASA Jet Propulsion Laboratory (JPL)"
@@ -112,7 +119,7 @@ NASA's Jet Propulsion Laboratory (JPL) runs a yearly "NASA Pi Day Challenge," wh
 
 Not yet announced. On Nov. 4, 2026, neither Marie Callender's nor Bakers Square had posted a National Pie Day 2027 offer on its own site. We will check the chains' own pages in the week before Jan. 23 and will not treat any past offer as this year's. For a look at how a food-day deal story reads once offers are posted, see our [National Sandwich Day 2026 deals](/news/national-sandwich-day-2026-deals-tuesday-november-3-subway-mcalisters-capriottis/) report.
 
-If you bake at home, FoodSafety.gov is the federal source to check for handling questions; we give no storage rules here.
+If you bake at home, [FoodSafety.gov](https://www.foodsafety.gov/) has federal food handling guidance; we give no storage rules here.
 
 ## Free National Pie Day 2027 plan sheet
 

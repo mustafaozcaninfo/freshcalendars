@@ -1,10 +1,9 @@
 ---
 title: "World Braille Day 2027: Monday, Jan. 4, and a Printable Braille Alphabet Chart"
 seoTitle: "World Braille Day 2027: Monday, Jan. 4"
-description: "World Braille Day is Monday, Jan. 4, 2027, per the United Nations (UN), on Louis Braille's birthday. A-to-z dot numbers and a free printable braille alphabet chart."
+description: "World Braille Day is Monday, Jan. 4, 2027, per the United Nations (UN), on Louis Braille's birthday. A-to-z dot numbers and a free braille alphabet chart."
 type: explainer
 publishedAt: "2026-11-04T06:50:00-05:00"
-updatedAt: "2026-11-04T06:50:00-05:00"
 authors: [christina-gerland]
 category: holidays
 keywords: ["world braille day 2027", "braille alphabet chart printable", "when is world braille day", "louis braille birthday"]
@@ -57,12 +56,21 @@ hero:
   src: ../../../../assets/news/world-braille-day-2027-monday-january-4/world-braille-day-2027-monday-january-4.webp
   alt: "A fingertip reading a page of braille, for World Braille Day on Monday, Jan. 4, 2027"
   caption: "A fingertip on a page of braille. World Braille Day is Monday, Jan. 4, 2027, per the United Nations."
-  credit: "Photo: Eddau / Wikimedia Commons, cropped"
+  credit: "Photo: Eddau / Wikimedia Commons, cropped, edited"
   license:
     name: "CC0"
     url: "http://creativecommons.org/publicdomain/zero/1.0/deed.en"
     source: "https://commons.wikimedia.org/wiki/File:IMG_0086_Braille_finger.JPG"
     author: "Eddau"
+downloads:
+  - group: "Braille Alphabet Chart for World Braille Day 2027 printables"
+    title: "Braille Alphabet Chart for World Braille Day 2027"
+    description: "One-page printable braille alphabet chart for World Braille Day, Monday, Jan. 4, 2027, listing the dot numbers for each letter a to z and the number sign."
+    preview: ../../../../assets/news/world-braille-day-2027/braille-alphabet-chart-world-braille-day-2027.png
+    alt: "Printable braille alphabet chart listing the dot numbers for letters a to z for World Braille Day 2027"
+    pdf: "/news/downloads/world-braille-day-2027/braille-alphabet-chart-world-braille-day-2027.pdf"
+    png: "/news/downloads/world-braille-day-2027/braille-alphabet-chart-world-braille-day-2027.png"
+    pages: 1
 summary:
   - "World Braille Day is Monday, Jan. 4, 2027, and the United Nations (UN) says it has been celebrated since 2019."
   - "Louis Braille was born in Coupvray, near Paris, on Jan. 4, 1809, according to the Library of Congress."
@@ -76,7 +84,7 @@ faq:
   - q: "How many dots are in a braille cell?"
     a: "Six, arranged in two columns of three, per the Braille Authority of North America. The Library of Congress says they allow 63 different patterns."
   - q: "Is the printable chart real braille?"
-    a: "No. It is a visual chart that gives the dot numbers for each letter. Raised dots need a braille writer, slate and stylus or an embosser."
+    a: "No. It is a visual chart that gives the dot numbers for each letter."
 sources:
   - title: "World Braille Day"
     url: "https://www.un.org/en/observances/braille-day"
@@ -125,9 +133,9 @@ Put the day on your [January 2027 printable calendar](/january-calendars.html), 
 
 ## Why does the United Nations mark World Braille Day?
 
-The UN says braille is used by blind and partially sighted people to read the same books and periodicals as everyone else. It calls braille essential in the context of education, freedom of expression and opinion, and social inclusion. The UN General Assembly proclaimed the day in resolution A/RES/73/161, and the UN names the system after its 19th-century French inventor, Louis Braille.
+The UN says braille is used by blind and partially sighted people to read the same books and periodicals as everyone else. It calls braille essential in the context of education, freedom of expression and opinion, and social inclusion. The UN General Assembly proclaimed the day in resolution 73/161, and the UN names the system after its 19th-century French inventor, Louis Braille.
 
-Another UN day is two weeks later: see our story on [International Day of Education on Sunday, Jan. 24, 2027](/news/international-day-of-education-2027-sunday-january-24/).
+Another UN observance comes later in the month: see our story on [International Day of Education on Sunday, Jan. 24, 2027](/news/international-day-of-education-2027-sunday-january-24/).
 
 ## Who was Louis Braille?
 

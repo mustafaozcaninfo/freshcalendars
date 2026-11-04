@@ -4,7 +4,6 @@ seoTitle: "National Puzzle Day 2027: Friday, Jan. 29"
 description: "National Puzzle Day falls on Friday, Jan. 29, 2027, says founder Jodi Jill's puzzledayfun.com. Weekdays to 2032, the free kit status and a one-page plan sheet."
 type: explainer
 publishedAt: "2026-11-04T06:00:00-05:00"
-updatedAt: "2026-11-04T06:00:00-05:00"
 authors: [christina-gerland]
 category: holidays
 keywords: ["national puzzle day 2027", "when is national puzzle day", "puzzle day january 29", "free puzzles"]

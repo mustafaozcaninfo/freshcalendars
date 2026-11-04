@@ -4,7 +4,6 @@ seoTitle: "International Day of Education 2027: Sunday, Jan. 24"
 description: "International Day of Education is Jan. 24, a Sunday in 2027, per the United Nations (UN). The 2027 theme is not yet announced; see weekdays to 2032 and a sheet."
 type: explainer
 publishedAt: "2026-11-04T06:20:00-05:00"
-updatedAt: "2026-11-04T06:20:00-05:00"
 authors: [christina-gerland]
 category: holidays
 keywords: ["international day of education 2027", "international day of education theme 2027", "january 24 education day"]
@@ -41,6 +40,7 @@ hero:
   credit: "Photo: Paul The Writer / Wikimedia Commons, cropped, edited"
   license:
     name: "CC0"
+    url: "http://creativecommons.org/publicdomain/zero/1.0/deed.en"
     source: "https://commons.wikimedia.org/wiki/File:Rows_of_Desks_in_Lecture_Theatre.jpg"
     author: "Paul The Writer"
 downloads:
