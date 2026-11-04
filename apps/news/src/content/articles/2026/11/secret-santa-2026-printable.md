@@ -3,7 +3,7 @@ title: "Secret Santa 2026: Free Printable Draw Sheet, Wish List Lines and Exchan
 seoTitle: "Secret Santa 2026 Printable: Draw Sheet and Dates"
 description: "Free Secret Santa 2026 printable with a name-draw sheet and exchange dates: the United States Postal Service (USPS) recommends mailing by Thu., Dec. 17."
 type: explainer
-publishedAt: 2026-11-03T23:05:00-05:00
+publishedAt: "2026-11-03T23:05:00-05:00"
 authors: [jessica-hartwell]
 category: retail-dates
 keywords: ["secret santa printable", "secret santa 2026", "secret santa wish list template", "secret santa draw sheet"]
