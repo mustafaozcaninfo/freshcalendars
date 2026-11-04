@@ -4,6 +4,7 @@ seoTitle: "LIHEAP 2026-27: Application Dates and Shutoff Rules"
 description: "Low Income Home Energy Assistance Program (LIHEAP) and Home Energy Assistance Program (HEAP) 2026-27 windows by state: PA opened Nov. 2; shutoff dates compared."
 type: explainer
 publishedAt: "2026-11-04T06:50:00-05:00"
+updatedAt: "2026-11-04T17:25:00-05:00"
 authors: [aaron-kessler]
 category: money-benefits
 keywords: ["LIHEAP 2026", "HEAP application 2026", "winter shutoff moratorium 2026", "heating assistance 2026-27 by state"]
@@ -80,6 +81,12 @@ sources:
   - title: "42 U.S. Code 8624 (U.S. Code text)"
     url: "https://www.law.cornell.edu/uscode/text/42/8624"
     publisher: "Legal Information Institute, Cornell Law School"
+  - title: "N.J.A.C. 14:3-3A.5 Winter Termination Program"
+    url: "https://www.law.cornell.edu/regulations/new-jersey/N-J-A-C-14-3-3A-5"
+    publisher: "Legal Information Institute, Cornell Law School"
+  - title: "Winter Termination Program"
+    url: "https://nj.gov/dca/dhcr/offices/wintertermination.shtml"
+    publisher: "New Jersey Department of Community Affairs"
 internalLinks:
   - href: "/november-calendars.html"
     label: "November 2026 printable calendar"
@@ -108,15 +115,15 @@ assets:
         - { date: "2026-10-01", cells: { "Apply for help": { text: "New Jersey opens", src: 3, quote: "October 1, 2026, to June 30, 2027" }, "Shutoff protection": { text: "Minnesota cold weather period starts", src: 8, quote: "Oct. 1 through April 30 of the following year" } }, src: 3, quote: "October 1, 2026, to June 30, 2027" }
         - { date: "2026-10-12", cells: { "Shutoff protection": "Ohio reconnect window starts (not a moratorium)" }, src: 11, quote: "between Oct. 12, 2026 and April 16, 2027" }
         - { date: "2026-11-02", cells: { "Apply for help": "Pennsylvania and New York City open" }, src: 1, quote: "The season runs November 2, 2026 through April 23, 2027." }
+        - { date: "2026-11-15", cells: { "Shutoff protection": "New Jersey winter termination period starts" }, src: 15, quote: "shall not discontinue service during the period from November 15 through March 15" }
         - { date: "2026-12-01", cells: { "Shutoff protection": "Indiana protection starts" }, src: 10, quote: "between December 1 and March 15" }
-        - { date: "2027-03-15", cells: { "Shutoff protection": "Indiana protection ends" }, src: 10, quote: "between December 1 and March 15" }
+        - { date: "2027-03-15", cells: { "Shutoff protection": { text: "Indiana protection ends; New Jersey winter termination period ends", src: 15, quote: "shall not discontinue service during the period from November 15 through March 15" } }, src: 10, quote: "between December 1 and March 15" }
         - { date: "2027-04-16", cells: { "Shutoff protection": "Ohio reconnect window ends" }, src: 11, quote: "between Oct. 12, 2026 and April 16, 2027" }
         - { date: "2027-04-23", cells: { "Apply for help": "Pennsylvania closes" }, src: 1, quote: "The season runs November 2, 2026 through April 23, 2027." }
         - { date: "2027-04-30", cells: { "Shutoff protection": "Minnesota cold weather period ends" }, src: 8, quote: "Oct. 1 through April 30 of the following year" }
         - { date: "2027-05-31", cells: { "Apply for help": "Ohio, Minnesota, Connecticut deadlines" }, src: 5, quote: "The deadline to apply for Energy Assistance for the winter of 2026-2027 is May 31, 2027." }
         - { date: "2027-06-30", cells: { "Apply for help": "New Jersey closes" }, src: 3, quote: "October 1, 2026, to June 30, 2027" }
       unconfirmed:
-        - { label: "New Jersey 2026-27 winter termination dates", why: "Not yet announced; last season ran Nov. 15, 2025 through March 15, 2026" }
         - { label: "New York City HEAP closing date", why: "Not listed on the city's page" }
         - { label: "Wisconsin closing date", why: "Not stated in the Oct. 1, 2026 bulletin" }
 downloads:
@@ -161,9 +168,9 @@ These are different programs with different rules. Only the first three are blan
 | Connecticut | Electric winter moratorium | Nov. 1 through May 1 | In hardship cases where the customer lacks the financial resources to pay the entire account |
 | Indiana | Winter disconnection moratorium | Dec. 1 to March 15 | Under conditions, including receiving help from the federally funded Energy Assistance Program (EAP) |
 | Ohio | Special reconnect order, not a moratorium | Contact your utility between Oct. 12, 2026 and April 16, 2027 | Pay no more than $175 plus a reconnection charge that cannot exceed $36 |
-| New Jersey | Winter Termination Program | Last season: Nov. 15, 2025 through March 15, 2026 | 2026-27 dates not yet announced |
+| New Jersey | Winter Termination Program | Nov. 15, 2026 through March 15, 2027 | Residential customers must show eligibility, such as receiving HEAP, Supplemental Security Income (SSI) or Temporary Assistance for Needy Families (TANF) help, or being unable to pay for reasons beyond their control |
 
-Connecticut's dates come from the Public Utilities Regulatory Authority (PURA) "Winter Moratorium Details" page, which is a standing rule page. Indiana's come from the Office of Utility Consumer Counselor (OUCC) frequently asked questions page. The Ohio entry is a Sept. 30, 2026 bulletin from the Public Utilities Commission of Ohio (PUCO): customers who were disconnected can use the window to restore service. The New Jersey Board of Public Utilities announced last season's program on Nov. 14, 2025; treat those dates as last season's until the board posts this year's.
+Connecticut's dates come from the Public Utilities Regulatory Authority (PURA) "Winter Moratorium Details" page, which is a standing rule page. Indiana's come from the Office of Utility Consumer Counselor (OUCC) frequently asked questions page. The Ohio entry is a Sept. 30, 2026 bulletin from the Public Utilities Commission of Ohio (PUCO): customers who were disconnected can use the window to restore service. New Jersey's dates come from a standing rule, New Jersey Administrative Code (N.J.A.C.) 14:3-3A.5, as published by Cornell Law School's Legal Information Institute. It bars utilities from discontinuing service from Nov. 15 through March 15 unless the Board of Public Utilities orders otherwise, so the 2026-27 period runs Nov. 15, 2026 through March 15, 2027. The state's Department of Community Affairs page also says "from November 15th through March 15th." Protection is not automatic: the customer must show eligibility. The Board of Public Utilities announced last season's program on Nov. 14, 2025.
 
 ## Who qualifies for LIHEAP under federal law?
 
@@ -171,6 +178,6 @@ Under 42 U.S.C. 8624(b)(2)(B), as published in the [U.S. Code text at Cornell La
 
 ## Heating help and shutoff dates to mark
 
-The printable puts both tables on one page in date order, with a Done box for each step and a count of days before June 30, 2027, when New Jersey's window closes. Ohio, Minnesota and Connecticut share May 31, 2027, and the sheet's note carries Connecticut's Nov. 1 to May 1 electric moratorium. Rows for New Jersey's 2026-27 shutoff dates, New York City's closing date and Wisconsin's closing date are listed as unconfirmed, because their sources do not give them.
+The printable puts both tables on one page in date order, with a Done box for each step and a count of days before June 30, 2027, when New Jersey's window closes. Ohio, Minnesota and Connecticut share May 31, 2027, and the sheet's note carries Connecticut's Nov. 1 to May 1 electric moratorium. New Jersey's Nov. 15 and March 15 shutoff dates are on the timeline. Rows for New York City's closing date and Wisconsin's closing date are listed as unconfirmed, because their sources do not give them.
 
 Other benefit dates for the season are in the [Supplemental Nutrition Assistance Program (SNAP) payment schedule for December 2026](/news/snap-payment-schedule-december-2026-deposit-dates-by-state/) and the [Social Security payment schedule for December 2026](/news/social-security-payment-schedule-december-2026-ssi-december-31/). To mark dates by hand, use the [November 2026](/november-calendars.html) and [December 2026](/december-calendars.html) printable calendars.
