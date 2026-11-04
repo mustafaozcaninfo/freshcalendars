@@ -102,7 +102,7 @@ internalLinks:
     label: "January 2027 printable calendar"
   - href: "/printable-weekly-calendar.html"
     label: "Printable weekly calendar"
-related: [national-popcorn-day-2027-january-19, january-2027-calendar-printable, holy-days-of-obligation-2027-us-dates]
+related: [national-popcorn-day-2027-january-19, january-2027-calendar-printable, year-end-digital-cleanup-checklist-2026]
 downloads:
   - group: "January 2027 Important Dates printables"
     title: "January 2027 Important Dates"
@@ -163,6 +163,8 @@ For a plain monthly layout with room for your own plans, the [January 2027 print
 | Jan. 25 | Monday | Burns Night | 86 |
 | Jan. 29 | Friday | Last quarter moon at 5:55 a.m. EST | 90 |
 | Jan. 31 | Sunday | NFL American Football Conference (AFC) and National Football Conference (NFC) Championship Games | 92 |
+
+For Catholics, Friday, Jan. 1 is also the Solemnity of Mary, the Holy Mother of God, a holy day of obligation in the 2027 U.S. liturgical calendar; our [holy days of obligation 2027 list](/news/holy-days-of-obligation-2027-us-dates/) has the rest of the year.
 
 To count from another day, add the days left in the current month to the days in each month before your date. From Oct. 31 there are 0 days left in October, 30 in November and 31 in December, so Jan. 18 is 0 + 30 + 31 + 18 = 79 days away.
 

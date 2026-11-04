@@ -36,7 +36,7 @@ assets:
       start: monday
       marks:
         - { date: "2027-01-01", label: "Mary, Mother of God: holyday", src: 1, quote: ["1 Fri Solemnity of Mary, the Holy Mother of God", "Fri., Jan. 1, 2027"] }
-        - { date: "2027-05-06", label: "Ascension: holyday in 5 provinces only", src: 1, quote: "Thursday, May 6, is the Solemnity of the Ascension of the Lord in the ecclesiastical provinces of Boston, Hartford, New York, Omaha, and Philadelphia." }
+        - { date: "2027-05-06", label: "Ascension: holyday in five provinces only", src: 1, quote: "Thursday, May 6, is the Solemnity of the Ascension of the Lord in the ecclesiastical provinces of Boston, Hartford, New York, Omaha, and Philadelphia." }
         - { date: "2027-05-09", label: "Ascension Sunday in all other provinces", src: 1, quote: "All other ecclesiastical provinces of the United States of America have transferred this Solemnity to the following Sunday, May 9" }
         - { date: "2027-08-15", label: "Assumption, a Sunday: no holyday mark", src: 1, quote: ["15 Sun The Assumption of the Blessed Virgin Mary", "Sun., Aug. 15, 2027"] }
         - { date: "2027-11-01", label: "All Saints: obligation abrogated", src: 1, quote: "Monday, November 1, is the Solemnity of All Saints." }
