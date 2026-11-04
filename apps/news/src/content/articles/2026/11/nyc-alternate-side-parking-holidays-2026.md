@@ -60,7 +60,7 @@ downloads:
     png: "/news/downloads/nyc-alternate-side-parking-2026/nyc-alternate-side-parking-suspension-dates-2026.png"
     pages: 1
 draft: false
-related: [veterans-day-2026-wednesday-november-11, immaculate-conception-2026-holy-day-of-obligation-december-8, christmas-new-year-trash-pickup-2026-by-city]
+related: [veterans-day-2026-wednesday-november-11, code-blue-2026-27-cold-weather-shelters-by-city, christmas-new-year-trash-pickup-2026-by-city]
 assets:
   overlay: true
   kicker: "NYC Alternate Side Parking · 2026"

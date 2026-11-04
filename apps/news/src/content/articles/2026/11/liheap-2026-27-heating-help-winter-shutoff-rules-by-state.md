@@ -85,7 +85,7 @@ internalLinks:
     label: "November 2026 printable calendar"
   - href: "/december-calendars.html"
     label: "December 2026 printable calendar"
-related: [snap-payment-schedule-december-2026-deposit-dates-by-state, social-security-payment-schedule-december-2026-ssi-december-31]
+related: [snap-payment-schedule-december-2026-deposit-dates-by-state, social-security-payment-schedule-december-2026-ssi-december-31, code-blue-2026-27-cold-weather-shelters-by-city]
 assets:
   overlay: true
   kicker: "Heating help · 2026-27"
