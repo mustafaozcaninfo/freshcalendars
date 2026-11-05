@@ -1,7 +1,7 @@
 ---
 title: "North East ISD Calendar 2026-27: Winter Break Dec. 21 to Jan. 4, Spring Break March 8-12"
 seoTitle: "North East ISD Calendar 2026-27: Breaks and Dates"
-description: "North East Independent School District (NEISD) in San Antonio, Texas: Thanksgiving break Nov. 23-27, winter break Dec. 21 to Jan. 4, spring break March 8-12."
+description: "North East Independent School District (ISD) in San Antonio, Texas: Thanksgiving break Nov. 23-27, winter break Dec. 21 to Jan. 4, spring break March 8-12."
 type: news
 publishedAt: "2026-11-05T06:20:00-05:00"
 authors: [aaron-kessler]
@@ -12,7 +12,7 @@ hero:
   src: ../../../../assets/news/north-east-isd-calendar-2026-27-breaks/north-east-isd-calendar-2026-27-breaks.webp
   alt: "McAllister Park trailhead sign in north-east San Antonio, with the North East ISD calendar 2026-27 Thanksgiving break on a card"
   caption: "File photo of the McAllister Park trailhead sign on the Salado Creek Greenway in north-east San Antonio. The district lists Thanksgiving break as Nov. 23-27, 2026."
-  credit: "Photo: Stillwaterising / Wikimedia Commons, cropped"
+  credit: "Photo: Stillwaterising / Wikimedia Commons, cropped, edited"
   license:
     name: "CC BY-SA 3.0"
     url: "https://creativecommons.org/licenses/by-sa/3.0"
@@ -66,6 +66,15 @@ internalLinks:
   - href: "/march-calendars.html"
     label: "March 2027 printable calendar"
 related: [northside-isd-calendar-2026-27-breaks, austin-isd-calendar-2026-27-holidays-breaks, houston-isd-calendar-2026-27-holidays-breaks]
+downloads:
+  - group: "North East ISD Calendar 2026-27 printables"
+    title: "North East ISD Calendar 2026-27"
+    description: "North East Independent School District 2026-27 breaks, holidays, first day and last day for traditional campuses on one printable page."
+    preview: ../../../../assets/news/north-east-isd-2026-27/north-east-isd-calendar-2026-27.png
+    alt: "North East Independent School District 2026-27 printable school-year calendar for traditional campuses with breaks, holidays and the first and last day"
+    pdf: "/news/downloads/north-east-isd-2026-27/north-east-isd-calendar-2026-27.pdf"
+    png: "/news/downloads/north-east-isd-2026-27/north-east-isd-calendar-2026-27.png"
+    pages: 1
 draft: false
 assets:
   overlay: true
@@ -103,7 +112,7 @@ assets:
         - { label: "Board approval date of the calendar", why: "The district page does not give one" }
 ---
 
-**North East Independent School District (NEISD) in San Antonio, Texas, lists Thanksgiving break for Nov. 23-27, 2026, winter break as "12/21/2026-1/4/2027" and spring break for March 8-12, 2027**, on its "Calendars" page. Traditional campuses started Aug. 17 and the last day of classes is Thursday, May 27, 2027.
+**North East Independent School District (ISD), or NEISD, in San Antonio, Texas, lists Thanksgiving break for Nov. 23-27, 2026, winter break as "12/21/2026-1/4/2027" and spring break for March 8-12, 2027**, on its "Calendars" page. Traditional campuses started Aug. 17 and the last day of classes is Thursday, May 27, 2027.
 
 The page says "Academic Calendars are Subject to Change." It gives no board approval date, so every date here is as posted by the district on Nov. 5, 2026. This story adds what the page does not: weekdays off by month, school days between breaks, the three NEISD calendars side by side, early release dates from a second district page, and a comparison with Northside Independent School District (NISD). A printable for traditional campuses is at the bottom.
 
@@ -213,7 +222,7 @@ A second district page, "Campus Start/End Times & Early Release Dates," lists th
 | Middle schools | March 5, 2027 |
 | High schools | Dec. 17 and 18, 2026; March 5, May 25, 26 and 27, 2027 |
 
-The Dec. 17 and 18 dates sit just before winter break for high schools. The page lists "TBA" for one more campus group, so those dates are not yet announced.
+The Dec. 17 and 18 dates sit just before winter break for high schools. The page lists "TBA" (To Be Announced) for one more campus group, so those dates are not yet announced.
 
 ## NEISD vs Northside ISD: how do the two calendars compare?
 
