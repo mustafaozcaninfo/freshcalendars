@@ -3,8 +3,7 @@ title: "Wordle Hints and Answer Today, #1977 for Tuesday, Nov. 17, 2026: Clues, 
 seoTitle: "Wordle Hint Today, #1977 (Nov. 17, 2026): Clues & Answer"
 description: "Wordle #1977 for Tuesday, Nov. 17, 2026: five graded clues, the 1,977-day count since launch, and a letter-by-letter check against every past answer."
 type: explainer
-publishedAt: "2026-11-05T05:33:08-05:00"
-updatedAt: "2026-11-05T05:33:08-05:00"
+publishedAt: "2026-11-16T00:05:00-05:00"
 authors: [news-desk]
 category: puzzles
 keywords: ["Wordle hint today", "Wordle 1977", "Wordle answer November 17 2026", "Wordle today", "Wordle clues"]

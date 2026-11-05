@@ -3,8 +3,7 @@ title: "Contexto #1514 for Tuesday, Nov. 10, 2026: Hints, 30 Closest Words by Re
 seoTitle: "Contexto #1514 Hints and Closest Words, Nov. 10, 2026"
 description: "Contexto #1514 for Tuesday, Nov. 10, 2026: three hints, the game's 30 closest words in four groups, a rank-band table, two guesses that miss, then the answer."
 type: explainer
-publishedAt: "2026-11-05T05:33:08-05:00"
-updatedAt: "2026-11-05T05:33:08-05:00"
+publishedAt: "2026-11-09T00:05:00-05:00"
 authors: [news-desk]
 category: puzzles
 keywords: ["Contexto answer today", "Contexto 1514", "Contexto hints", "Contexto November 10 2026", "Contexto today"]
