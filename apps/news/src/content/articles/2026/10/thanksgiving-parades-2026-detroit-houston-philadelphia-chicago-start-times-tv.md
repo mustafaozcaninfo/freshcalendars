@@ -80,7 +80,7 @@ internalLinks:
     label: "When is Thanksgiving?"
   - href: "/november-calendars.html"
     label: "November 2026 printable calendar"
-related: [thanksgiving-2026-tv-schedule-macys-parade-nfl-games, toronto-santa-claus-parade-2026-sunday-november-22-route-citytv, thanksgiving-2026-planner-countdown-checklist]
+related: [thanksgiving-2026-tv-schedule-macys-parade-nfl-games, toronto-santa-claus-parade-2026-sunday-november-22-route-citytv, christmas-parades-2026-us-cities-dates-times-routes]
 downloads:
   - group: "Thanksgiving Parades 2026 Schedule printables"
     title: "Thanksgiving Parades 2026 Schedule"
