@@ -1,5 +1,14 @@
 {
   "experiments": [
-    { "slug": "lunar-new-year-2027-year-of-the-goat", "changedAt": "2026-11-03", "what": "seoTitle: \"Lunar New Year 2027: Feb. 6, Year of the Goat\" → \"Chinese New Year 2027: Feb. 6, Year of the Goat\"; first sentence names Chinese New Year" }
+    {
+      "slug": "lunar-new-year-2027-year-of-the-goat",
+      "changedAt": "2026-11-03",
+      "what": "seoTitle: \"Lunar New Year 2027: Feb. 6, Year of the Goat\" → \"Chinese New Year 2027: Feb. 6, Year of the Goat\"; first sentence names Chinese New Year"
+    },
+    {
+      "slug": "julian-date-calendar-2027-2026-printable",
+      "changedAt": "2026-11-05",
+      "what": "seoTitle: \"Julian Date Calendar 2027: Free Printable PDF Charts\" → \"Julian Date Calendar 2026 and 2027: Free Printable PDFs\"; description now leads with 2026"
+    }
   ]
 }

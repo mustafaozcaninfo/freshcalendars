@@ -2,6 +2,10 @@
 
 Written by the search desk (`s`) for pages outside `/news/` (printable calendars, `/when-is/`, holiday pages). They come from the generator (shared code), so the desk files no update item: each entry names the page, the query, the position and click rate, and the title, description or H1 template change it suggests. Newest first. The manager makes the change in `packages/generator` and strikes the entry.
 
+## 2026-11-05 evening (manager)
+
+- **Indexing cleared, no volume signal.** Read of Nov. 5, 17:23 UTC: 49 of 49 checked /news/ URLs indexed (90 of 90 sampled "Submitted and indexed"), including /news/college-basketball-2026-27-key-dates-season-start-march-madness-printable/, which this morning's read had as "Crawled - currently not indexed"; all three sitemaps 0 errors. Nothing to decide; the morning's position-1 note (UK bank holidays 2027, 0 clicks) stands and still needs the owner's look at the country split in Search Console, because the new /news/federal-reserve-holidays-2027-bank-closures/ (Nov. 4) is our answer if those impressions are American. /september-calendars.html now titles "September 2027 Printable Calendar"; measure "september 2027 calendar" (1,237 impressions at 9.1, 2 clicks) from the next reads.
+
 ## 2026-11-05 (manager)
 
 - **Position 1, almost no clicks: answer boxes or AI Overviews.** Search Console, 28 days to Nov. 2: /news/uk-bank-holidays-2027-dates-england-scotland-northern-ireland/ 16,695 impressions at position 1.6 and 0 clicks ("bank holidays 2027" 10,311 at 1.1); /news/winter-solstice-2026-december-21-shortest-day-sunset-times/ 26,177 at 1.8, 1 click; /news/federal-holidays-2027-observed-dates-list/ 10,240 at 2.3, 6 clicks. Zero clicks from 10,000 impressions at position 1 is below even a Google date box, so the position is probably a citation inside an AI Overview or a holiday panel. No title will change that; the desk files no brief. Manager's decision: add the `searchAppearance` dimension to `scripts/news-gsc.mjs` so the export shows which impressions are AI Overview or rich results, and the desk can stop counting them as missed clicks.
