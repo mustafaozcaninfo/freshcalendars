@@ -99,7 +99,7 @@ assets:
         - { from: "2027-01-04", kind: holiday, label: "Teacher Plan Day, no school for students", src: 1, quote: ["Jan. 4", "4 - Teacher Plan Day- No School for Students"] }
         - { from: "2027-01-18", kind: holiday, label: "Martin Luther King Jr. Day", src: 1, quote: ["Jan. 18", "18** - Martin Luther King Jr. Day (paid holiday)"] }
         - { from: "2027-02-02", kind: early, label: "Early dismissal", src: 1, quote: ["Feb. 2", "2- Early Dismissal Day/ Professional Learning for Teachers"] }
-        - { from: "2027-02-15", kind: holiday, label: "Presidents' Day", src: 1, quote: ["Feb. 15", "15** - President's Day (paid holiday)"] }
+        - { from: "2027-02-15", kind: holiday, label: "President's Day", src: 1, quote: ["Feb. 15", "15** - President's Day (paid holiday)"] }
         - { from: "2027-03-19", kind: holiday, label: "Teacher Plan Day, no school for students", src: 1, quote: ["Mar. 19", "19- Teacher Plan Day- No School for Students"] }
         - { from: "2027-03-22", to: "2027-03-29", kind: break, label: "Spring Break", src: 1, quote: ["Mar. 22", "Mar. 29", "22 - 29 - Spring Break"] }
         - { from: "2027-04-21", kind: early, label: "Early dismissal", src: 1, quote: ["Apr. 21", "21- Early Dismissal Day/ Professional Learning for Teachers"] }
