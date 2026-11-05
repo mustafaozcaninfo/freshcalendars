@@ -6,3 +6,23 @@ set -euo pipefail
 cd "$(git rev-parse --show-toplevel)"
 command -v node >/dev/null || exit 0
 node scripts/news-abbrev-check.mjs
+
+# Full gate before the push when it changes the news site: the same build, link check and SEO audit
+# CI runs, so a failing printable fact (10-PDF-FACTS), orphan or heading rule fails here, on the
+# writer's machine, instead of turning a pull request red. About 2-3 minutes. Skip once:
+# FC_SKIP_AUDIT=1 git push (or --no-verify). Built with NEWS_INCLUDE_FUTURE=1 like CI, so a story
+# scheduled for later is checked too (such a build is never deployed).
+if [ "${FC_SKIP_AUDIT:-0}" != "1" ] && command -v pnpm >/dev/null; then
+  base=$(git merge-base HEAD origin/main 2>/dev/null || true)
+  if [ -n "$base" ] && [ -n "$(git diff --name-only "$base" HEAD -- apps/news packages/generator scripts | head -1)" ]; then
+    echo "pre-push: building /news/ and running the audit (FC_SKIP_AUDIT=1 to skip)..."
+    log=$(mktemp)
+    if ! { NEWS_INCLUDE_FUTURE=1 pnpm -s news:build && pnpm -s news:verify && pnpm -s news:seo-audit; } >"$log" 2>&1; then
+      echo "pre-push: the audit failed, push stopped. Fix these, then push again:" >&2
+      grep -E '^(FAIL|\s+· )|problem|rror' "$log" | grep -v '^PASS' | head -25 >&2
+      echo "(full log: $log)" >&2
+      exit 1
+    fi
+    echo "pre-push: build and audit passed."
+  fi
+fi
