@@ -67,7 +67,7 @@ internalLinks:
     label: "Monday-start printable calendar"
   - href: "/november-calendars.html"
     label: "November printable calendar"
-related: [year-2038-problem-unix-time-explained, iso-week-numbers-explained, how-to-calculate-day-of-year]
+related: [year-2038-problem-unix-time-explained, iso-week-numbers-explained, 24-hour-military-time-conversion-chart-printable]
 downloads:
   - group: "ISO 8601 Date Format Cheat Sheet printables"
     title: "ISO 8601 Date Format Cheat Sheet, 2026 Examples"

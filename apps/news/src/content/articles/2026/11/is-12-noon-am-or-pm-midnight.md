@@ -64,7 +64,7 @@ internalLinks:
     label: "2027 printable yearly calendar"
   - href: "/when-is/new-years-eve/"
     label: "New Year's Eve date"
-related: [what-is-iso-8601, new-years-countdown-2027-midnight-every-time-zone, julian-date-calendar-2027-2026-printable]
+related: [what-is-iso-8601, 24-hour-military-time-conversion-chart-printable, new-years-countdown-2027-midnight-every-time-zone]
 downloads:
   - group: "Noon and Midnight Clock Card printables"
     title: "Noon and Midnight Clock Card, 2026"

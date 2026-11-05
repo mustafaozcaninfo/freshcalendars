@@ -56,7 +56,7 @@ internalLinks:
     label: "March 2027 printable calendar"
   - href: "/printable-yearly-calendar.html"
     label: "Printable yearly calendar"
-related: [clock-changes-2027-when-does-daylight-saving-time-start-again-march-14, winter-solstice-2026-december-21-shortest-day-sunset-times]
+related: [clock-changes-2027-when-does-daylight-saving-time-start-again-march-14, winter-solstice-2026-december-21-shortest-day-sunset-times, seasons-2027-equinox-solstice-dates-times]
 assets:
   overlay: true
   kicker: "Nowruz 2027 · Sun., March 21"
