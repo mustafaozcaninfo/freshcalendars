@@ -139,7 +139,7 @@ internalLinks:
     label: "November 2026 printable calendar"
   - href: "/december-calendars.html"
     label: "December 2026 printable calendar"
-related: [kfc-uk-christmas-menu-2026-gravymas, greggs-festive-bake-2026-christmas-menu, uk-christmas-sandwiches-2026-ms-pret-boots-tesco]
+related: [kfc-uk-christmas-menu-2026-gravymas, pret-christmas-menu-2026, uk-christmas-sandwiches-2026-ms-pret-boots-tesco]
 downloads:
   - group: "UK Christmas Menus 2026 printables"
     title: "UK Christmas Menus 2026: Start Dates"

@@ -124,7 +124,7 @@ internalLinks:
     label: "November 2026 printable calendar"
   - href: "/december-calendars.html"
     label: "December 2026 printable calendar"
-related: [uk-christmas-menus-2026-greggs-costa-starbucks-kfc, greggs-festive-bake-2026-christmas-menu, tesco-christmas-delivery-slots-2026-booking-dates-uk-supermarkets]
+related: [uk-christmas-menus-2026-greggs-costa-starbucks-kfc, pret-christmas-menu-2026, tesco-christmas-delivery-slots-2026-booking-dates-uk-supermarkets]
 downloads:
   - group: "Christmas Sandwiches 2026 printables"
     title: "Christmas Sandwiches 2026: What's Confirmed"
