@@ -115,9 +115,9 @@ assets:
           src: 45
         - cells: { district: "Philadelphia, Pa. (Nov. 25 is a staff development day)", off: "Wed., Nov. 25 to Fri., Nov. 27", days: "3" }
           src: 24
-        - cells: { district: "New York City Public Schools, N.Y.", off: "Thu., Nov. 26 to Fri., Nov. 27", days: "2" }
+        - cells: { district: "New York City Public Schools", off: "Thu., Nov. 26 to Fri., Nov. 27", days: "2" }
           src: 1
-        - cells: { district: "Chicago Public Schools, Ill.", off: "Thu., Nov. 26 to Fri., Nov. 27", days: "2" }
+        - cells: { district: "Chicago Public Schools", off: "Thu., Nov. 26 to Fri., Nov. 27", days: "2" }
           src: 4
         - cells: { district: "Montgomery County, Md. (early release Nov. 23-25)", off: "Thu., Nov. 26 to Fri., Nov. 27", days: "2" }
           src: 16
