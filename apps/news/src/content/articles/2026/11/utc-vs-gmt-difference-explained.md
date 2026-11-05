@@ -70,7 +70,7 @@ internalLinks:
     label: "When does daylight saving time start and end?"
   - href: "/march-calendars.html"
     label: "March printable calendar"
-related: [uk-europe-clocks-go-back-october-25-2026-time-difference, is-12-noon-am-or-pm-midnight, what-is-iso-8601]
+related: [uk-europe-clocks-go-back-october-25-2026-time-difference, leap-second-ends-utc-2035-what-changes, what-is-iso-8601]
 downloads:
   - group: "UTC vs GMT printables"
     title: "UTC vs GMT: London Time Offsets, 2026 to 2027"
