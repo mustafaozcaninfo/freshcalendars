@@ -52,8 +52,7 @@ downloads:
     png: "/news/downloads/eurovision-2027/eurovision-2027-countdown-and-dates.png"
     pages: 1
 summary:
-  - "The European Broadcasting Union (EBU) says Burgas, Bulgaria, hosts the 71st Eurovision Song Contest in May 2027, at Arena Burgas."
-  - "The semi-finals are on Tuesday, May 11 and Thursday, May 13, 2027, and the grand final is on Saturday, May 15, 2027."
+  - "The European Broadcasting Union (EBU) says Burgas, Bulgaria, hosts the 71st Eurovision Song Contest at Arena Burgas: semi-finals on Tuesday, May 11 and Thursday, May 13, 2027, and the grand final on Saturday, May 15, 2027."
   - "Tickets for the nine live and preview shows go on sale early in 2027, with no exact date yet; start times, prices and the UK entry are not yet announced."
   - "The EBU says 36 broadcasters compete, the BBC is in the grand final and Canadian Broadcasting Corporation (CBC)/Radio-Canada takes part for the first time."
   - "From Oct. 27, 2026, the semi-finals are 196 and 198 days away and the grand final is 200 days away."
