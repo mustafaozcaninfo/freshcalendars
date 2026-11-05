@@ -4,7 +4,7 @@ seoTitle: "U.S. to Japan, Korea and China Time Difference"
 description: "New York is 14 hours behind Japan Standard Time (JST) and Korea Standard Time (KST), and 13 behind Beijing, while U.S. clocks are on standard time."
 type: explainer
 publishedAt: "2026-10-30T23:50:00-04:00"
-updatedAt: "2026-11-05T03:23:11-05:00"
+updatedAt: "2026-11-05T15:26:00-05:00"
 authors: [jessica-hartwell]
 category: time-change
 keywords: ["time difference between us and japan", "new york to tokyo time difference after daylight saving", "us korea time difference", "us china time difference november 2026"]
@@ -87,6 +87,17 @@ sources:
   - title: "15 U.S. Code 260a - Advancement of time or changes in time within time belts"
     url: "https://www.law.cornell.edu/uscode/text/15/260a"
     publisher: "Legal Information Institute, Cornell Law School"
+  - title: "国民の祝日について (National holidays)"
+    url: "https://www8.cao.go.jp/chosei/shukujitsu/gaiyou.html"
+    publisher: "Cabinet Office of Japan"
+  - title: "2027 calendar data (월력요항), Korea Astronomy and Space Science Institute"
+    url: "https://astro.kasi.re.kr/kor/life/post/calendarData?search_year=2027"
+    publisher: "Korea Astronomy and Space Science Institute (KASI)"
+    date: "2026-06-29"
+  - title: "China's State Council 2026 holiday notice"
+    url: "https://www.news.cn/20251104/76de5bdd2fb249b6a35c83b96115df8b/c.html"
+    publisher: "Xinhua"
+    date: "2025-11-04"
 internalLinks:
   - href: "/printable-weekly-calendar.html"
     label: "Printable weekly calendar"
@@ -170,8 +181,22 @@ Beijing runs one hour behind Tokyo and Seoul, so a Beijing workday lands one hou
 
 Under 15 U.S.C. 260a and the NIST rule that DST begins at 2 a.m. on the second Sunday of March, daylight saving time returns on Sunday, March 14, 2027 (our calculation). New York will then be 13 hours behind Tokyo and Seoul and 12 hours behind Beijing again.
 
-## East Asia call checklist for the standard-time months
+## Japan, South Korea and China holidays before March 14, 2027
+Each country's days off differ, so check the one you call. Japan's Cabinet Office lists these national holidays between now and the U.S. return to daylight saving time on Sunday, March 14, 2027:
 
-- Start from your U.S. zone in the first table, then add its hours to reach Tokyo, Seoul or Beijing.
-- Shift any standing East Asia call an hour earlier on the U.S. clock for each American zone that changed, and remind colleagues abroad their own hour has not budged.
-- Mark Sunday, Nov. 1 on a [November 2026 printable calendar](/november-calendars.html), or keep a [printable weekly calendar](/printable-weekly-calendar.html) within reach.
+| Date | Holiday in Japan | Day |
+|---|---|---|
+| Nov. 23, 2026 | Labor Thanksgiving Day | Monday |
+| Jan. 1, 2027 | New Year's Day | Friday |
+| Jan. 11, 2027 | Coming of Age Day | Monday |
+| Feb. 11, 2027 | National Foundation Day | Thursday |
+| Feb. 23, 2027 | Emperor's Birthday | Tuesday |
+
+For South Korea, the Korea Astronomy and Space Science Institute (KASI) 2027 calendar data, published June 2026 by the Korea AeroSpace Administration, gives Seollal (Lunar New Year) on Feb. 6-8, 2027 (Saturday to Monday) with a substitute holiday on Tue., Feb. 9, 2027, and Independence Movement Day (March 1st Movement Day) on Mon., March 1, 2027. Christmas, Fri., Dec. 25, 2026, is also a public holiday in South Korea, on a fixed date.
+
+China's State Council has not yet published its 2027 holiday notice (the 2026 one came on Nov. 4, 2025, per Xinhua), so Spring Festival 2027 days off are not yet announced.
+
+- Plan Tokyo calls around Nov. 23, Jan. 1, Jan. 11, Feb. 11 and Feb. 23, and Seoul calls around Dec. 25, Feb. 6-9 and March 1.
+- Leave Beijing out of holiday planning until the State Council notice is out.
+- Mark Sun., March 14, 2027, when New York moves to 13 hours behind Tokyo and Seoul and 12 behind Beijing.
+- Our [printable weekly calendar](/printable-weekly-calendar.html) is a handy place to note each country's days off.

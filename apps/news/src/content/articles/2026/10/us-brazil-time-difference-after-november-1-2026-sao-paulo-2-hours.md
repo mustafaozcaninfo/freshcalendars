@@ -4,7 +4,7 @@ seoTitle: "US-Brazil Time Difference: New York to São Paulo"
 description: "New York is 2 hours behind Brasília Time (BRT) while US clocks are on standard time, and Brazil keeps UTC-3 all year. Tables for every US zone."
 type: explainer
 publishedAt: "2026-10-31T07:45:00-04:00"
-updatedAt: "2026-11-05T03:23:11-05:00"
+updatedAt: "2026-11-05T15:26:00-05:00"
 authors: [jessica-hartwell]
 category: time-change
 keywords: ["time difference between US and Brazil", "New York to São Paulo time difference", "Brazil time vs EST", "Brasília time zone"]
@@ -94,6 +94,14 @@ sources:
   - title: "15 U.S. Code 260a - Advancement of time or changes in time within time belts"
     url: "https://www.law.cornell.edu/uscode/text/15/260a"
     publisher: "Legal Information Institute, Cornell Law School"
+  - title: "Governo divulga feriados nacionais e pontos facultativos de 2026"
+    url: "https://www.congressoemfoco.com.br/noticia/115211/governo-divulga-feriados-nacionais-e-pontos-facultativos-de-2026"
+    publisher: "Congresso em Foco"
+    date: "2026-01-01"
+  - title: "Governo divulga calendário de feriados e pontos facultativos de 2026 (Agência Brasil reprint)"
+    url: "https://www.ocafezinho.com/2025/12/30/governo-divulga-calendario-de-feriados-e-pontos-facultativos-de-2026-confira/amp/"
+    publisher: "Agência Brasil, reprinted by O Cafezinho"
+    date: "2025-12-30"
 internalLinks:
   - href: "/printable-weekly-calendar.html"
     label: "Printable weekly calendar"
@@ -199,8 +207,18 @@ Brazil holds Brasília Time at UTC-3 all year, so only the U.S. side ever moves 
 
 U.S. daylight saving time runs from the second Sunday of March to the first Sunday of November under 15 U.S.C. 260a, so these turning dates are our calculation. São Paulo stays on UTC-3 throughout.
 
-## Brazil call checklist for the standard-time months
+## Brazil holidays before March 14, 2027: when São Paulo is off
+Brazil's federal Ministry of Management (MGI) set the 2026 national holidays in Portaria MGI nº 11.460 of Dec. 29, 2025, as reported by the newsroom Agência Brasil and by Congresso em Foco. Three fall between now and the U.S. return to daylight saving time on Sunday, March 14, 2027:
 
-- Take your U.S. zone from the first table and add its hours to reach São Paulo and Brasília time.
-- Review any standing call with Brazil, because each U.S. zone that changed now meets São Paulo one hour earlier on the American clock.
-- Pin Sunday, Nov. 1 on a [November 2026 printable calendar](/november-calendars.html), or keep the [printable weekly calendar](/printable-weekly-calendar.html) by the phone.
+| Date in 2026 | Holiday in Brazil | Day |
+|---|---|---|
+| Nov. 15 | Proclamation of the Republic | Sunday |
+| Nov. 20 | National Day of Zumbi and Black Consciousness | Friday |
+| Dec. 25 | Christmas | Friday |
+
+Nov. 15 lands on a Sunday, so only Fri., Nov. 20 and Fri., Dec. 25 take a weekday out of the shared calls. Brazil's 2027 national list, including Carnival, is not yet announced, so we give no 2027 holiday dates.
+
+- Keep Fri., Nov. 20 and Fri., Dec. 25 free of calls that need São Paulo staff.
+- Do not expect Brazilian colleagues on Sun., Nov. 15; it is a holiday there on a weekend.
+- Re-check Brazil's 2027 list once it is out, and mark Sun., March 14, 2027, when New York moves to 1 hour behind São Paulo.
+- Keep the [printable weekly calendar](/printable-weekly-calendar.html) beside your desk to write these days in.
