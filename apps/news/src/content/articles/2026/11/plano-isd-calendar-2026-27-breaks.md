@@ -55,7 +55,7 @@ internalLinks:
     label: "Printable school-year calendar 2026-27"
   - href: "/november-calendars.html"
     label: "November 2026 printable calendar"
-related: [dallas-isd-calendar-2026-27-holidays-breaks, fort-worth-isd-calendar-2026-27-breaks, lewisville-isd-calendar-2026-27-breaks]
+related: [dallas-isd-calendar-2026-27-holidays-breaks, fort-worth-isd-calendar-2026-27-breaks, garland-isd-calendar-2026-27-breaks]
 assets:
   overlay: true
   kicker: "Plano ISD · 2026-27"
