@@ -66,7 +66,7 @@ internalLinks:
     label: "When is Christmas?"
   - href: "/when-is/christmas-eve/"
     label: "When is Christmas Eve?"
-related: [usps-holiday-shipping-deadlines-2026, canada-post-holiday-shipping-deadlines-2026-christmas, norad-tracks-santa-2026-when-tracking-starts-phone-number]
+related: [usps-holiday-shipping-deadlines-2026, canada-post-holiday-shipping-deadlines-2026-christmas, santa-at-the-mall-2026-arrival-dates-simon-malls]
 draft: false
 assets:
   overlay: true
