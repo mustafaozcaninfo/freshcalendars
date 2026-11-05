@@ -21,3 +21,4 @@ Finished experiments: the change, 14 days before against 14 days after, and the 
 2026-11-03 14:20 ET: +1 brief (lunar-new-year-2027-year-of-the-goat), closed 0 experiments, started 0, to the manager: 4
 2026-11-04 05:45 ET: +0 briefs (every candidate updated in the last 7 days, past or a dated series), closed 0 experiments, started 1 (lunar-new-year-2027-year-of-the-goat), to the manager: 2
 2026-11-04 08:40 ET: +0 briefs (same export as the 05:45 run, generatedAt 2026-11-03T18:51Z; no new ticked brief), closed 0 experiments, started 0, to the manager: 0 (API-triggered run)
+2026-11-05 05:50 ET: +1 brief (julian-date-calendar-2027-2026-printable), closed 0 experiments, started 0, to the manager: 3 (most candidates updated Nov. 2-5 or past events)
