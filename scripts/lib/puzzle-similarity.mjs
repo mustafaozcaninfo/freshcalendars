@@ -47,11 +47,41 @@ function dailyPages(dir) {
       const md = readFileSync(p, "utf8");
       if (/^draft:\s*true/m.test(md)) continue;
       if (!games.has(puzzle.game)) games.set(puzzle.game, []);
-      games.get(puzzle.game).push({ slug, date: puzzle.date, runs: shingles(prose(md)) });
+      const body = md.split(/^---$/m).slice(2).join("---");
+      games.get(puzzle.game).push({ slug, date: puzzle.date, body, runs: shingles(prose(md)) });
     }
   })(dir);
   for (const list of games.values()) list.sort((a, b) => a.date.localeCompare(b.date));
   return games;
+}
+
+/**
+ * The page model, checked on structure rather than wording (owner, 2026-11-05): from SIMILAR_SINCE on
+ * a daily page carries no rules section (how each game works lives once on its hub) and links the
+ * hub's rules in its text (`#how-it-works`). A page that fails either was written from the old model.
+ */
+const RULES_H2 = /^##\s+How\s+(?:to play\b|(?:the game|the \w+|Pips|Wordle|Connections|Strands|Spelling Bee|Letter Boxed|Contexto|Waffle|Quordle)\s+works\s*$)/im;
+
+/** Old-model pages for puzzle dates from SIMILAR_SINCE on: a rules section, or no link to the hub's rules. */
+export function modelProblems(dir) {
+  const fails = [];
+  for (const list of dailyPages(dir).values()) {
+    for (const page of list) {
+      if (page.date < SIMILAR_SINCE) continue;
+      const rules = page.body.match(RULES_H2)?.[0].trim();
+      if (rules) fails.push(`${page.slug}: rules section "${rules}" on a daily page; link the hub's #how-it-works instead`);
+      else if (!page.body.includes("#how-it-works")) fails.push(`${page.slug}: no link to the hub's rules (#how-it-works)`);
+    }
+  }
+  return fails;
+}
+
+/** Per game, from `today` (YYYY-MM-DD) on: how many pages exist and the last puzzle date written. */
+export function queueAhead(dir, today) {
+  return [...dailyPages(dir)].map(([game, list]) => {
+    const ahead = list.filter((p) => p.date >= today);
+    return { game, ahead: ahead.length, last: list.at(-1)?.date ?? "" };
+  }).sort((a, b) => a.game.localeCompare(b.game));
 }
 
 /** { fails, older }: pages over SIMILAR_MAX against one of the previous LOOKBACK pages of their game. */
