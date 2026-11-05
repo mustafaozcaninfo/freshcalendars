@@ -1,10 +1,10 @@
 # Search Console (generated, do not edit)
 
-Read 2026-11-05T09:13 UTC for sc-domain:freshcalendars.com. Windows end 3 days before the read (Search Console data is late). Source: `scripts/news-gsc.mjs`, daily. Web, image and Discover results are separate: each section says which.
+Read 2026-11-05T17:23 UTC for sc-domain:freshcalendars.com. Windows end 3 days before the read (Search Console data is late). Source: `scripts/news-gsc.mjs`, daily. Web, image and Discover results are separate: each section says which.
 
 ## Gate for the phase decision (docs/DESK.md)
 
-- PASS: At least 60% of /news/ URLs published 7 to 21 days ago are indexed — 98% (46 of 47 sampled)
+- PASS: At least 60% of /news/ URLs published 7 to 21 days ago are indexed — 100% (49 of 49 sampled)
 - PASS: /news/ clicks and impressions did not fall two weeks in a row — no
 - CHECK: No manual action and no security issue — not in the API: check Search Console > Security & Manual Actions
 
@@ -262,9 +262,9 @@ Ranking in web results but absent from image results (hero alt text, caption, fi
 
 ## Indexing
 
-Sample of 90 stories published 2 to 21 days ago (the gate counts the 47 that are 7 to 21 days old): 89 Submitted and indexed, 1 Crawled - currently not indexed.
+Sample of 90 stories published 2 to 21 days ago (the gate counts the 49 that are 7 to 21 days old): 90 Submitted and indexed.
 
-- not indexed: /news/college-basketball-2026-27-key-dates-season-start-march-madness-printable/ (Crawled - currently not indexed), 8 days old
+- every sampled story is indexed
 
 ## Sitemaps
 
