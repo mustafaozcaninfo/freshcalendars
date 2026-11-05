@@ -4,7 +4,7 @@ seoTitle: "Runoff Election 2026 Dates: Georgia and Louisiana"
 description: "Georgia's runoff, if needed, is Tuesday, Dec. 1, 2026; Louisiana's second round is Saturday, Dec. 12. Deadlines for each state, with a printable."
 type: news
 publishedAt: "2026-10-30T19:45:00-04:00"
-updatedAt: "2026-11-04T09:25:00-05:00"
+updatedAt: "2026-11-05T11:25:00-05:00"
 authors: [christina-gerland]
 category: elections
 keywords: ["runoff election 2026 dates", "georgia runoff 2026 date", "when is the georgia runoff", "louisiana december 12 election"]
@@ -107,6 +107,14 @@ sources:
     url: "https://www.kplctv.com/2026/11/04/runoff-needed-determine-who-takes-5th-congressional-district-seat/"
     publisher: "KPLC"
     date: "2026-11-04"
+  - title: "Chauna Banks, Blake Miguez advance to runoff for Louisiana's 6th Congressional District"
+    url: "https://www.wafb.com/2026/11/03/chauna-banks-blake-miguez-advance-runoff-louisianas-6th-congressional-district/"
+    publisher: "WAFB"
+    date: "2026-11-03"
+  - title: "'We're not letting our foot off the gas': Blake Miguez speaks on District 6 House runoff"
+    url: "https://www.wbrz.com/news/we-re-not-letting-our-foot-off-the-gas-blake-miguez-speaks-on-district-6-house-runoff"
+    publisher: "WBRZ"
+    date: "2026-11-04"
   - title: "Sen. Jon Ossoff defeats challenger Mike Collins in Georgia Senate race"
     url: "https://thecurrentga.org/2026/11/03/sen-jon-ossoff-defeats-challenger-mike-collins-in-georgia-senate-race/"
     publisher: "The Current"
@@ -145,7 +153,7 @@ downloads:
 draft: false
 ---
 
-**Georgia's General Election Runoff, if one is required, is Tuesday, Dec. 1, 2026, according to georgia.gov, and Louisiana's second round is Saturday, Dec. 12, according to the Louisiana Secretary of State.** Mississippi also lists Dec. 1 as a runoff day for judge and school board races. Every deadline below comes from those state calendars, and a runoff happens only if no race on the ballot is decided on Nov. 3 under the state's rules. As of Wednesday, Nov. 4, Louisiana's 5th Congressional District is headed to the Dec. 12 runoff, the Rapides Parish Journal and the Lake Charles TV station (KPLC) reported, while Georgia's U.S. Senate race was decided on Nov. 3 without a runoff, The Current and CBS News reported. Neither state's election office had posted a runoff list we could open, and results stay unofficial until counties certify.
+**Georgia's General Election Runoff, if one is required, is Tuesday, Dec. 1, 2026, according to georgia.gov, and Louisiana's second round is Saturday, Dec. 12, according to the Louisiana Secretary of State.** Mississippi also lists Dec. 1 as a runoff day for judge and school board races. Every deadline below comes from those state calendars, and a runoff happens only if no race on the ballot is decided on Nov. 3 under the state's rules. As of Thursday, Nov. 5, Louisiana's 5th and 6th Congressional Districts are headed to the Dec. 12 runoff, according to the Rapides Parish Journal, the Lake Charles TV station (KPLC), a Baton Rouge TV station (WAFB) and another Baton Rouge TV station (WBRZ), while Georgia's U.S. Senate race was decided on Nov. 3 without a runoff, The Current and CBS News reported. Neither state's election office had posted a runoff list we could open, and results stay unofficial until counties certify.
 
 ## Runoff and second-round dates by state
 
@@ -168,7 +176,7 @@ georgia.gov lists the General Election Runoff for Tuesday, Dec. 1, 2026, if need
 - **Absentee ballot:** the last day to request one is Friday, Nov. 20. Absentee ballots must be received by 7 p.m. on Dec. 1.
 - **Early voting:** Monday, Nov. 23 to Wednesday, Nov. 25. georgia.gov calls it "a very short early voting window, abbreviated due to the Thanksgiving holiday."
 
-The Current and CBS News reported that the U.S. Senate race in Georgia was decided on Nov. 3 without a runoff, so it will not go to Dec. 1. As of Wednesday morning, Nov. 4, none of the sources we read reported a Georgia statewide runoff. The Georgia Secretary of State had not posted a runoff list we could open, and local or legislative contests may still go to Dec. 1. The official list is not yet posted.
+The Current and CBS News reported that the U.S. Senate race in Georgia was decided on Nov. 3 without a runoff, so it will not go to Dec. 1. As of Thursday, Nov. 5, none of the sources we read reported a Georgia statewide runoff. The Georgia Secretary of State had not posted a runoff list we could open, and local or legislative contests may still go to Dec. 1. The official list is not yet posted.
 
 For this election, the Georgia Election Guide on georgia.gov lists an Oct. 5 registration deadline and early voting from Oct. 13 to Oct. 30. Our [Georgia ballot and advance voting guide](/news/georgia-2026-ballot-amendments-advance-voting/) covers the Nov. 3 ballot.
 
@@ -188,7 +196,7 @@ The Louisiana Secretary of State's Election Dates page lists Nov. 3 as "U.S. Sen
 | Request a mail ballot | Tue., Dec. 8, by 4:30 p.m. |
 | Mail ballot must be received | Fri., Dec. 11, by 4:30 p.m. |
 
-As of Nov. 4, the Rapides Parish Journal and KPLC reported that Louisiana's 5th Congressional District goes to the Saturday, Dec. 12 runoff between state Rep. Patricia "Pat" Moore (Democrat) and state Rep. Gabe Firment (Republican). Both outlets said no candidate won more than 50% in the nine-candidate Nov. 3 open primary. The Rapides Parish Journal noted that "all results from the Nov. 3 election remain unofficial and subject to certification." The Louisiana Secretary of State had not posted a runoff list we could open, so other contests may be added to the Dec. 12 ballot.
+As of Nov. 5, two Louisiana congressional districts go to the Saturday, Dec. 12 runoff. The Rapides Parish Journal and KPLC reported that the 5th District runoff is between state Rep. Patricia "Pat" Moore (Democrat) and state Rep. Gabe Firment (Republican). WAFB (Nov. 3) and WBRZ (Nov. 4) reported that the 6th District runoff is between Chauna Banks (Democrat) and Blake Miguez (Republican). The Rapides Parish Journal and KPLC said no candidate won more than 50% in the nine-candidate Nov. 3 open primary in the 5th District. The Rapides Parish Journal noted that "all results from the Nov. 3 election remain unofficial and subject to certification." The Louisiana Secretary of State had not posted a runoff list we could open, so other contests may be added to the Dec. 12 ballot.
 
 Louisiana readers can also look at our [Louisiana sample ballot guide](/news/louisiana-sample-ballot-2026-senate-amendments/) for the Nov. 3 ballot.
 
