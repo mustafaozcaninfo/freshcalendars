@@ -1,9 +1,10 @@
 ---
 title: "NYT Connections Hints and Answers for Thursday, Nov. 5, 2026 (#1243): Two Hints per Group, Then the Answers"
 seoTitle: "Connections Hints & Answers Today, Nov. 5, 2026 (#1243)"
-description: "Connections #1243 for Thursday, Nov. 5, 2026: two levels of hints for every group, the decoy words to avoid, then the full answers at the very end."
+description: "Connections #1243 for Thursday, Nov. 5, 2026: graded hints for each color, a cat-shaped red herring, a drink-shaped one, and the solved grid at the end."
 type: explainer
 publishedAt: "2026-11-04T00:05:00-05:00"
+updatedAt: "2026-11-05T00:46:00-05:00"
 authors: [news-desk]
 category: puzzles
 keywords: ["Connections hints today", "NYT Connections November 5 2026", "Connections 1243", "Connections answers today", "NYT Connections hints"]
@@ -12,21 +13,21 @@ hero:
   src: ../../../../assets/news/nyt-connections-hints-answers-november-5-2026-1243/nyt-connections-hints-answers-november-5-2026-1243.jpg
   alt: "Connections hints for Nov. 5, 2026, puzzle #1243: a four-by-four board of word tiles with two rows solved in yellow and green"
   title: "Connections #1243 hints, Nov. 5, 2026"
-  caption: "Connections puzzle #1243 for Thursday, Nov. 5, 2026; graded hints for each group first, the full solution only at the end."
+  caption: "Puzzle #1243 for Thursday, Nov. 5, 2026, with nudges up top and the solved rows saved for the bottom of the page."
 summary:
-  - "Today's Connections is puzzle #1243, for Thursday, Nov. 5, 2026, from The New York Times."
-  - "Pear and Wedge each have a second meaning that pulls them toward the wrong group."
-  - "Each group gets two hints, a nudge and then a strong one."
-  - "Full answers are in the last section, marked as spoilers."
+  - "Thursday's Connections, Nov. 5, 2026, is puzzle #1243, edited by Wyna Liu at The New York Times."
+  - "Kitten and Whisker look like a cat pair, yet they belong to different groups."
+  - "Every tile is a single word, and the longest, at nine letters, also names a youth from Greek myth."
+  - "Two hints per color sit behind taps, and a decoy map follows the answers."
 faq:
   - q: "What number is today's Connections puzzle?"
-    a: "Puzzle #1243, for Thursday, Nov. 5, 2026."
+    a: "Thursday, Nov. 5, 2026, is Connections #1243."
   - q: "What are the Connections answers for Nov. 5, 2026?"
     a: "Spoilers: Kinds of Heels (Kitten, Platform, Spike, Wedge); Flowers (Anemone, Lotus, Narcissus, Rose); Teardrop-Shaped Things (Pear, Raindrop, Speedbag, Uvula); Liquors with Last Letters Changed (Brando, Gig, Run, Whisker)."
-  - q: "Which words are the traps in Connections #1243?"
-    a: "Pear is a fruit, but it goes with the teardrop shapes. Brando, Gig, Run and Whisker look like ordinary words, yet each turns into a liquor when its last letter changes."
-  - q: "When does the next Connections puzzle come out?"
-    a: "At midnight in your local time. Friday's puzzle will be #1244."
+  - q: "Why are Kitten and Whisker in different groups in Connections #1243?"
+    a: "Spoilers: the cat link is a decoy. Kitten is a short, low heel, while Whisker turns into Whiskey once its R becomes a Y."
+  - q: "Does Rose count as a drink because of rosé?"
+    a: "Spoilers: no. Rosé needs an accent, and no change to the last letter of Rose makes a liquor, so it stays with Anemone, Lotus and Narcissus."
 sources:
   - title: "Connections"
     url: "https://www.nytimes.com/games/connections"
@@ -39,49 +40,47 @@ internalLinks:
 related: [wordle-hint-answer-today-november-5-2026-1965, nyt-strands-hints-answers-november-5-2026-977, nyt-pips-hints-answers-november-5-2026]
 draft: false
 ---
-**Today's Connections from The New York Times (NYT) is puzzle #1243, for Thursday, Nov. 5, 2026, edited by Wyna Liu.** All 16 entries are single words, and the groups run from yellow, the easiest, to purple, the trickiest. Pear and Wedge each have another meaning, which makes the board harder than it looks. Below are two levels of hints for each color, then the full solution and an explanation of the tricky words in a marked spoiler section.
+**The New York Times (NYT) puzzle for Thursday, Nov. 5, 2026, is Connections #1243, edited by Wyna Liu.** Two of today's 16 tiles are only three letters long, and our [Connections guide](/news/topic/nyt-connections/#how-it-works) has the rules if this is your first grid. Open one hint at a time below; the solved groups wait near the bottom.
 
 ## Today's 16 words
 
 Raindrop, Rose, Whisker, Kitten, Gig, Pear, Spike, Narcissus, Wedge, Run, Lotus, Uvula, Brando, Anemone, Speedbag, Platform
 
-## How the game works
-
-Sort the 16 entries into four groups of four. You can make four mistakes. The groups run from yellow to green, blue and purple, with purple the group that depends most on wordplay.
-
 ## Hints for each group
 
 **Yellow**
 
-- Hint 1: Think of shoes. Each word names a style of heel.
-- Hint 2: One shares its name with a young cat, one is a thin, sharp point, one is a thick, raised sole under the whole foot, and one is a triangular shape.
+- Hint 1: Tip a dress shoe over and look at the back of the sole; each entry is a style of what you find there.
+- Hint 2: One borrows its name from a young cat, and one lifts the whole foot on a thick base.
 
 **Green**
 
-- Hint 1: Each one is a plant grown for its blossom.
-- Hint 2: One floats on ponds, one has thorns on its stem, one is a bulb in the daffodil family, and one shares its name with a sea creature.
+- Hint 1: All four could fill a vase at a florist's shop.
+- Hint 2: One floats on still ponds and is sacred in Buddhism; another shares a name with the young man in Greek myth who fell for his own reflection.
 
 **Blue**
 
-- Hint 1: Each one has a rounded bottom that narrows to a point at the top.
-- Hint 2: One falls from a cloud, one is a fruit, one hangs at the back of your throat, and one is a small punching bag that boxers hit.
+- Hint 1: Trace each outline: round and full at the bottom, narrowing toward a point at the top.
+- Hint 2: One dangles at the back of your throat; one is the small bag a boxer hits in a fast rhythm.
 
 **Purple**
 
-- Hint 1: Change the last letter of each entry and you get a drink.
-- Hint 2: One is an actor's surname, one is a short paid performance, one is what a sprinter does, and one grows on a cat's face.
+- Hint 1: Swap the final letter of each and you could order it at a bar.
+- Hint 2: One grows on a cat's face; one is the surname of the actor who played Vito Corleone in The Godfather.
 
 ## Solving tips
 
-Start with green, because flowers are the easiest group to name. Next, take the teardrop shapes, and keep Pear there: it is a fruit, but it fits by shape. Wedge is another word with a second life, so check it against the heel styles. Leave purple for last. Four entries will be left, and each turns into a liquor with one new last letter.
+The quickest opening is the vase group, since four plant names stand apart from the rest of the board. After that, read for outlines instead of meanings: a piece of fruit can belong somewhere other than the produce aisle.
 
-Keep a streak log on our [printable weekly calendar](/printable-weekly-calendar.html) or the [November 2026 printable calendar](/november-calendars.html).
+Two tiles suggest a cat, and they do not share a group. Leave the three-letter tiles until the board has thinned out.
 
-More of today's puzzles: [Wordle hints](/news/wordle-hint-answer-today-november-5-2026-1965/), [Strands hints](/news/nyt-strands-hints-answers-november-5-2026-977/) and [Pips hints](/news/nyt-pips-hints-answers-november-5-2026/).
+Tracking a streak? Mark each solved day on the [November 2026 printable calendar](/november-calendars.html), or use the [printable weekly calendar](/printable-weekly-calendar.html) if you like a week at a glance.
+
+Thursday's other games: [Wordle hints](/news/wordle-hint-answer-today-november-5-2026-1965/), [Strands hints](/news/nyt-strands-hints-answers-november-5-2026-977/) and [Pips hints](/news/nyt-pips-hints-answers-november-5-2026/).
 
 ## Today's Connections answers (spoilers)
 
-Stop here if you still want to solve it yourself.
+Last chance to look away: the four groups are listed next.
 
 - **Yellow, Kinds of Heels:** Kitten, Platform, Spike, Wedge
 - **Green, Flowers:** Anemone, Lotus, Narcissus, Rose
@@ -90,10 +89,18 @@ Stop here if you still want to solve it yourself.
 
 ## Why the traps worked
 
-**Pear.** It is a fruit, so it may not suggest a shape. Here it sits with Raindrop, Speedbag and Uvula, all teardrop shapes.
+Kitten and Whisker are both cat words, which invites a pet group that never existed. Kitten is a low heel, and Whisker drops its R for a Y to become Whiskey.
 
-**Wedge.** It can be a shape, but here it is a kind of heel, with Kitten, Platform and Spike.
+Rose was the other snare. Add an accent and you have rosé, a wine, so it can look like part of the bar set; no last-letter swap turns it into a liquor, though. Wedge and Pear both work as outlines, and only Pear is in the shape group.
 
-**The changed endings.** Brando, Gig, Run and Whisker look like ordinary words. Each becomes a liquor when the last letter changes: Brando becomes Brandy, Gig becomes Gin, Run becomes Rum and Whisker becomes Whiskey.
+## Decoy map
 
-We checked the solution against the puzzle's official data before posting. Puzzle #1244 arrives at midnight.
+| Entry | Real group | Look-alike group | Why it tempts |
+|---|---|---|---|
+| Kitten | Kinds of Heels | Liquors with Last Letters Changed | It pairs with Whisker as a cat word. |
+| Rose | Flowers | Liquors with Last Letters Changed | Rosé is a wine, so the tile smells of the bar. |
+| Spike | Kinds of Heels | Liquors with Last Letters Changed | To spike a punch bowl means adding alcohol to it. |
+| Wedge | Kinds of Heels | Teardrop-Shaped Things | A wedge is a shape too, a thick triangle. |
+| Pear | Teardrop-Shaped Things | Flowers | It grows on a blossoming tree, beside garden words like Rose and Lotus. |
+
+Every group above was matched to the official puzzle file before this page went up. Friday brings puzzle #1244.

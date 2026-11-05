@@ -1,7 +1,7 @@
 ---
 title: "NYT Connections Hints and Answers for Friday, Nov. 13, 2026 (#1251): Two Hints per Group, Then the Answers"
 seoTitle: "Connections Hints & Answers Today, Nov. 13, 2026 (#1251)"
-description: "Connections #1251 for Friday, Nov. 13, 2026: two levels of hints for every group, the decoy words to avoid, then the full answers at the very end."
+description: "Connections #1251 for Friday, Nov. 13, 2026: two hints for every color, a watery trap, a movie-preview pair that splits up, and the full answers last."
 type: explainer
 publishedAt: "2026-11-12T00:05:00-05:00"
 authors: [news-desk]
@@ -12,21 +12,21 @@ hero:
   src: ../../../../assets/news/nyt-connections-hints-answers-november-13-2026-1251/nyt-connections-hints-answers-november-13-2026-1251.jpg
   alt: "Connections hints for Nov. 13, 2026, puzzle #1251: a four-by-four board of word tiles with solved rows in color"
   title: "Connections #1251 hints, Nov. 13, 2026"
-  caption: "Connections puzzle #1251 for Friday, Nov. 13, 2026; graded hints for each group first, the full solution only at the end."
+  caption: "Connections #1251 for Friday, Nov. 13, 2026, a board whose water theme misleads; hints first, the solved rows last."
 summary:
-  - "Today's Connections is puzzle #1251, for Friday, Nov. 13, 2026, from The New York Times."
-  - "Surf, Waves and Water Skier all sound like the beach, but they belong to three different groups."
-  - "Each group gets two hints, a nudge and then a strong one, each hidden until you open it."
-  - "Full answers are in the last section, marked as spoilers."
+  - "Connections #1251 is the Friday, Nov. 13, 2026, puzzle from The New York Times."
+  - "Four tiles have a beach or water feel, and they land in three different groups."
+  - "Two tiles both mean a short movie preview, and they do not share a group."
+  - "Hints open one tap at a time; the answers and a decoy table are at the end."
 faq:
   - q: "What number is today's Connections puzzle?"
-    a: "Puzzle #1251, for Friday, Nov. 13, 2026."
+    a: "Friday, Nov. 13, 2026, is puzzle #1251."
   - q: "What are the Connections answers for Nov. 13, 2026?"
     a: "Spoilers: Use the Internet (Browse, Scroll, Search, Surf); Media Attention (Coverage, Exposure, Press, Publicity); Things That Are Towed (Barge, Glider, Trailer, Water Skier); Brain ___ (Freeze, Teaser, Trust, Waves)."
-  - q: "Which words are the traps in Connections #1251?"
-    a: "Surf, Waves and Water Skier all sound like the beach, yet Surf is an internet verb, Waves follows Brain, and a water skier is towed. Press looks like a button but means the news media."
-  - q: "When does the next Connections puzzle come out?"
-    a: "At midnight in your local time. Saturday's puzzle will be #1252."
+  - q: "Why aren't Teaser and Trailer together in Connections #1251?"
+    a: "Spoilers: the preview meaning is a decoy. Trailer is towed, with Barge, Glider and Water Skier, and Teaser follows Brain, with Freeze, Trust and Waves."
+  - q: "Is a glider really towed?"
+    a: "Spoilers: yes. A glider has no engine of its own in most cases, so a tow plane or a ground winch pulls it into the air before it is released."
 sources:
   - title: "Connections"
     url: "https://www.nytimes.com/games/connections"
@@ -39,49 +39,47 @@ internalLinks:
 related: [wordle-hint-answer-today-november-13-2026-1973, nyt-strands-hints-answers-november-13-2026-985, nyt-pips-hints-answers-november-13-2026]
 draft: false
 ---
-**Today's Connections from The New York Times (NYT) is puzzle #1251, for Friday, Nov. 13, 2026, edited by Wyna Liu.** The board mixes fifteen single words with one longer entries, and the groups run from yellow, the easiest, to purple, the trickiest. Surf, Waves and Water Skier look like a beach group that does not exist. Below are two levels of hints for each color, then the full solution and an explanation of the tricky words in a marked spoiler section.
+**Friday the 13th brings Connections #1251 from The New York Times for Nov. 13, 2026, edited by Wyna Liu.** Two tiles today are names for a movie preview, and [our Connections page](/news/topic/nyt-connections/#how-it-works) explains why grouping them on a hunch can cost a mistake. Each color has two hints below; the answers wait in the spoiler section.
 
 ## Today's 16 words
 
 Press, Barge, Scroll, Water Skier, Surf, Teaser, Waves, Trailer, Trust, Exposure, Search, Freeze, Coverage, Glider, Publicity, Browse
 
-## How the game works
-
-Sort the 16 entries into four groups of four. You can make four mistakes. The groups run from yellow to green, blue and purple, with purple the group that depends most on wordplay.
-
 ## Hints for each group
 
 **Yellow**
 
-- Hint 1: Think of what you do on a phone or laptop to find things online.
-- Hint 2: One is a word for looking around casually, one means to move a page up or down, one means to look for something specific, and one borrows a word from the ocean.
+- Hint 1: Each is something you do with a web browser open.
+- Hint 2: One means moving down a feed with your thumb; one shares its name with riding ocean swells on a board.
 
 **Green**
 
-- Hint 1: Each word describes how much the news covers someone or something.
-- Hint 2: One is a word for reporting, one is a word for being seen in public, one is a name for journalists as a group, and one is the work of a promoter.
+- Hint 1: Each is the notice a person or product gets from reporters and outlets.
+- Hint 2: One is also the word for a printing machine; one is how long a camera lets light in.
 
 **Blue**
 
-- Hint 1: Each thing gets pulled along behind something else.
-- Hint 2: One is a flat-bottomed boat, one is an aircraft without an engine, one is hitched to a truck, and one stands on the water behind a speedboat.
+- Hint 1: Each one moves because something in front is pulling it.
+- Hint 2: One is a flat-bottomed boat for cargo on a river; one is an aircraft that usually flies without an engine.
 
 **Purple**
 
-- Hint 1: Each word can follow "brain."
-- Hint 2: One is the sharp pain from cold ice cream, one is a puzzle, one is a group of advisers, and one is the electrical rhythms a doctor can record.
+- Hint 1: Put the organ that does your thinking in front of each one.
+- Hint 2: One is the sharp headache from eating ice cream too fast; one is a short puzzle or riddle.
 
 ## Solving tips
 
-Start with the things pulled behind something else; one of them is a person. Then look for words that can follow Brain, because Waves and Freeze both fit there. Surf belongs with the web words, since you surf the internet. Press can mean to push a button, but here it means reporters, so it joins the words for being in the news.
+Ignore the beach mood. Several tiles sound like a day at the shore, and they are scattered around the board.
 
-Keep a streak log on our [printable weekly calendar](/printable-weekly-calendar.html) or the [November 2026 printable calendar](/november-calendars.html).
+Film fans will want to pair the two preview words. They split up, so place one with a group you are sure of before you try the other.
 
-More of today's puzzles: [Wordle hints](/news/wordle-hint-answer-today-november-13-2026-1973/), [Strands hints](/news/nyt-strands-hints-answers-november-13-2026-985/) and [Pips hints](/news/nyt-pips-hints-answers-november-13-2026/).
+Superstitious about the date? Mark the solve on the [printable weekly calendar](/printable-weekly-calendar.html), or keep the month's record on the [November 2026 printable calendar](/november-calendars.html).
+
+Friday's other puzzles: [Wordle hints](/news/wordle-hint-answer-today-november-13-2026-1973/), [Strands hints](/news/nyt-strands-hints-answers-november-13-2026-985/) and [Pips hints](/news/nyt-pips-hints-answers-november-13-2026/).
 
 ## Today's Connections answers (spoilers)
 
-Stop here if you still want to solve it yourself.
+From here on, every group is named.
 
 - **Yellow, Use the Internet:** Browse, Scroll, Search, Surf
 - **Green, Media Attention:** Coverage, Exposure, Press, Publicity
@@ -90,10 +88,18 @@ Stop here if you still want to solve it yourself.
 
 ## Why the traps worked
 
-**Surf, Waves and Water Skier.** All three suggest the beach, but there is no beach group. Surf is how you use the internet, Waves follows Brain, and a water skier is towed.
+Surf, Waves, Water Skier and Barge all sound like a day on the water. Surf is a web verb, Waves follows Brain, and Water Skier and Barge are both pulled behind a boat.
 
-**Press.** It looks like a button you push online. Here it means the news media, which puts it with Coverage, Exposure and Publicity.
+Teaser and Trailer are both film previews; Trailer is hitched behind a car, and Teaser follows Brain. Freeze can also mean a frozen screen, which makes it look like a web word, and Press can sound like pressing a button.
 
-**Trust and Teaser.** Neither seems to fit until you put Brain in front: brain trust and brain teaser.
+## Decoy map
 
-We checked the solution against the puzzle's official data before posting. Puzzle #1252 arrives at midnight.
+| Entry | Real group | Look-alike group | Why it tempts |
+|---|---|---|---|
+| Teaser | Brain ___ | Things That Are Towed | It pairs with Trailer as a movie preview. |
+| Trailer | Things That Are Towed | Brain ___ | It pairs with Teaser as a movie preview. |
+| Surf | Use the Internet | Things That Are Towed | It suggests the sea, like Water Skier and Barge. |
+| Waves | Brain ___ | Use the Internet | Ocean waves sit right beside Surf. |
+| Freeze | Brain ___ | Use the Internet | A frozen screen is a common web annoyance. |
+
+The answers were compared with the official puzzle data before this page went up. Saturday's Connections is #1252.
