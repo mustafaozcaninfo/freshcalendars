@@ -4,6 +4,7 @@ seoTitle: "Kindergarten Registration 2027-28 Dates and Age Cutoffs"
 description: "NYC kindergarten applications for 2027-28 open Dec. 9, 2026; Philadelphia registers Jan. 19. Age cutoffs and registration dates for large districts."
 type: news
 publishedAt: "2026-11-03T06:10:00-05:00"
+updatedAt: "2026-11-04T13:41:00-05:00"
 authors: [aaron-kessler]
 category: school-calendars
 keywords: ["kindergarten registration 2027", "kindergarten registration 2027-28", "nyc kindergarten application 2027", "kindergarten age cutoff 2027", "when does kindergarten registration open"]
@@ -45,11 +46,11 @@ sources:
   - title: "Kindergarten"
     url: "https://www.philasd.org/kregistration"
     publisher: "School District of Philadelphia"
-    date: "2026-11-03"
+    date: "2026-11-04"
   - title: "Enroll"
     url: "https://www.wcpss.net/enroll"
     publisher: "Wake County Public School System"
-    date: "2026-11-03"
+    date: "2026-11-04"
   - title: "Kindergarten Registration"
     url: "https://www.fcps.edu/about-fcps/registration/kindergarten-registration"
     publisher: "Fairfax County Public Schools"
@@ -65,7 +66,7 @@ sources:
   - title: "Enroll"
     url: "https://www.cmsk12.org/enroll"
     publisher: "Charlotte-Mecklenburg Schools"
-    date: "2026-11-03"
+    date: "2026-11-04"
   - title: "Florida Statutes 1003.21: School attendance"
     url: "https://www.flsenate.gov/Laws/Statutes/2025/1003.21"
     publisher: "Florida Senate"
@@ -148,7 +149,9 @@ The age rule decides which birth year starts in fall 2027. The table converts ea
 | Fairfax County Public Schools (FCPS) | Turns five on or before Sept. 30 | Sept. 30, 2022 | Not yet announced | [FCPS](https://www.fcps.edu/about-fcps/registration/kindergarten-registration) |
 | Montgomery County Public Schools (MCPS), Md. | Age 5 by Sept. 1 on the first day of school | Sept. 1, 2022 | Not yet announced | [MCPS](https://www.montgomeryschoolsmd.org/info/enroll/kindergarten.aspx) |
 | Gwinnett County Public Schools, Ga. | District's 2026-27 page: five on or before Sept. 1, 2026 | Not yet stated for 2027-28 | Not yet announced | [Gwinnett](https://www.gcpsk12.org/schools/new-student-enrollmentregistration/kindergarten-registration) |
-| Charlotte-Mecklenburg Schools (CMS) | Age 5 on or before Aug. 31 | Aug. 31, 2022 | Not yet announced | [CMS](https://www.cmsk12.org/enroll) |
+| Charlotte-Mecklenburg Schools (CMS) | Age 5 on or before Aug. 31, per the North Carolina statute (the district page states no cutoff) | Aug. 31, 2022 | Not yet announced; the district page gives no 2027-28 dates | [CMS](https://www.cmsk12.org/enroll), [N.C. statute](https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/BySection/Chapter_115C/GS_115C-364.html) |
+
+Philadelphia also lists Open House Day on Mar. 9, 2027, Open House Week on May 10-14, 2027, and says completing registration by May 31 is strongly recommended. Wake County lists a Transfer Application window of Mar. 1-12, 2027 for 2027-28.
 
 MCPS enrolled in person starting Mar. 16, 2026 last year. It has not said whether 2027-28 follows the same pattern, so treat that date as last year's.
 
@@ -167,7 +170,7 @@ New York works differently from the table above. [Education Law 3202](https://ww
 
 ## Who has already opened registration, and who has not?
 
-Wake County opened first: its enroll page says kindergarten and pre-registration for 2027-28 opened Oct. 15, 2026. Philadelphia follows on Tuesday, Jan. 19, 2027, according to the district. Our [Philadelphia school calendar](/news/philadelphia-school-district-calendar-2026-27-holidays/) has its closures. Wake County families can see the school year in our [Wake County calendar](/news/wake-county-public-schools-calendar-2026-27-traditional/).
+Wake County opened first: its enroll page says kindergarten and pre-registration for 2027-28 opened Oct. 15, 2026. Philadelphia follows on Tuesday, Jan. 19, 2027, according to the district, which lists Open House Day on Mar. 9, 2027. Our [Philadelphia school calendar](/news/philadelphia-school-district-calendar-2026-27-holidays/) has its closures. Wake County families can see the school year in our [Wake County calendar](/news/wake-county-public-schools-calendar-2026-27-traditional/).
 
 Fairfax, Montgomery, Gwinnett and Charlotte-Mecklenburg had no 2027-28 window on the pages we read on Nov. 3, 2026. Check the district page before you plan.
 

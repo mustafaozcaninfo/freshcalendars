@@ -4,7 +4,7 @@ seoTitle: "Capitol Christmas Tree 2026 Tour Schedule and Stops"
 description: "The 2026 U.S. Capitol Christmas Tree tour began Oct. 29 in Idaho and makes 21 stops in 10 states, ending at Joint Base Andrews, Maryland, on Nov. 19."
 type: news
 publishedAt: "2026-10-31T15:45:00-04:00"
-updatedAt: "2026-11-02T14:10:00-05:00"
+updatedAt: "2026-11-04T13:40:00-05:00"
 authors: [christina-gerland]
 category: holidays
 keywords: ["Capitol Christmas Tree 2026 tour schedule", "Capitol Christmas Tree 2026 stops", "Capitol Christmas Tree tour near me", "2026 Capitol Christmas Tree Idaho"]
@@ -35,7 +35,7 @@ faq:
   - q: "What time does the tree arrive at each stop?"
     a: "Not yet announced. The project says partners and communities will finalize event details over the next several weeks, so check the host town's page or the project's website."
   - q: "When is the 2026 Capitol Christmas Tree lighting?"
-    a: "Not yet announced. The AOC page \"Coming Soon: the 2026 Capitol Christmas Tree\" says the tree arrives at the Capitol on Friday, Nov. 20, 2026 at 10 a.m. and lists the lighting date as to be announced. In 2025 the lighting began at 5 p.m. on Tuesday, Dec. 2."
+    a: "Not yet announced. The AOC page \"Coming Soon: the 2026 Capitol Christmas Tree\" says the tree arrives at the Capitol on Friday, Nov. 20, 2026 at 10 a.m. and lists the lighting date as to be announced. Once lit, the tree stays lit from dusk until 11 p.m. each evening through early January 2027."
   - q: "Is this the same as the National Christmas Tree?"
     a: "No. The National Christmas Tree is lit on the Ellipse near the White House; the Capitol tree goes to the West Lawn of the U.S. Capitol Building."
 sources:
@@ -49,10 +49,10 @@ sources:
   - title: "U.S. Capitol Christmas Tree"
     url: "https://www.aoc.gov/christmas"
     publisher: "Architect of the Capitol"
-  - title: "The 2025 Capitol Christmas Tree"
+  - title: "Coming Soon: the 2026 Capitol Christmas Tree"
     url: "https://www.aoc.gov/about-us/news-notices/capitol-christmas-tree-dates"
     publisher: "Architect of the Capitol"
-    date: "2025-11-21"
+    date: "2026-11-02"
   - title: "2026 U.S. Capitol Christmas Tree selected from Nez Perce-Clearwater National Forests"
     url: "https://www.fs.usda.gov/r01/nezperce-clearwater/newsroom/releases/2026-us-capitol-christmas-tree-selected-nez-perce"
     publisher: "USDA Forest Service, Nez Perce-Clearwater National Forests"
@@ -74,14 +74,6 @@ downloads:
     pdf: "/news/downloads/capitol-christmas-tree-2026/capitol-christmas-tree-tour-tracker-2026.pdf"
     png: "/news/downloads/capitol-christmas-tree-2026/capitol-christmas-tree-tour-tracker-2026.png"
     pages: 1
-  - group: "Capitol Christmas Tree Tour Tracker 2026 printables"
-    title: "Capitol Christmas Tree Tour Tracker 2026 (ink saver)"
-    description: "One-page tracker of the 21 stops on the 2026 U.S. Capitol Christmas Tree tour, by date and town, with a Done box for each stop. Ink-saver version."
-    preview: ../../../../assets/news/capitol-christmas-tree-2026/capitol-christmas-tree-tour-tracker-2026-ink.png
-    alt: "Printable Capitol Christmas Tree 2026 tour tracker listing 21 stops from Grangeville, Idaho, to Joint Base Andrews, Maryland, ink-saver version"
-    pdf: "/news/downloads/capitol-christmas-tree-2026/capitol-christmas-tree-tour-tracker-2026-ink.pdf"
-    png: "/news/downloads/capitol-christmas-tree-2026/capitol-christmas-tree-tour-tracker-2026-ink.png"
-    pages: 1
 draft: false
 assets:
   overlay: true
@@ -94,6 +86,7 @@ assets:
     title: "Capitol Christmas Tree Tour Tracker 2026"
     subtitle: "All 21 tour stops by date; tick each one you visit"
     layout: list
+    noKit: "Dated tour-stop tracker with a tick box per stop; no planner, deadline or watch-guide data fits."
     rows:
       - ["Thu., Oct. 29", "Grangeville, Idaho"]
       - ["Fri., Oct. 30", "Lewiston, Idaho"]
@@ -117,7 +110,6 @@ assets:
       - ["Tue., Nov. 17", "Littlestown, Pennsylvania"]
       - ["Thu., Nov. 19", "Joint Base Andrews, Maryland (military ID access only)"]
     note: "Source: U.S. Capitol Christmas Tree (uscapitolchristmastree.com), route announcement of Oct. 1, 2026; Architect of the Capitol. Times and venues not yet announced."
-    inkSaver: true
     description: "One-page tracker of the 21 stops on the 2026 U.S. Capitol Christmas Tree tour, by date and town, with a Done box for each stop."
     alt: "Printable Capitol Christmas Tree 2026 tour tracker listing 21 stops from Grangeville, Idaho, to Joint Base Andrews, Maryland"
 ---
@@ -164,9 +156,9 @@ The Architect of the Capitol (AOC) lists the 2026 tree as an Engelmann spruce, 7
 
 ## When will the Capitol tree arrive and be lit?
 
-The lighting date and time are not yet announced. The AOC page "Coming Soon: the 2026 Capitol Christmas Tree" says the tree arrives at the Capitol on Friday, Nov. 20, 2026, at 10 a.m., and lists the lighting date as "to be announced." The route page says the tree is traveling to the West Lawn of the U.S. Capitol Building "this holiday season."
+The lighting date and time are not yet announced. The AOC page "Coming Soon: the 2026 Capitol Christmas Tree" says the tree arrives at the Capitol on Friday, Nov. 20, 2026, at 10 a.m., and lists the lighting date as "to be announced." The AOC says the tree will then be lit from dusk until 11 p.m. each evening through early January 2027. The route page says the tree is traveling to the West Lawn of the U.S. Capitol Building "this holiday season."
 
-For comparison only, the 2025 tree arrived at the Capitol on Friday, Nov. 21, 2025, at 10 a.m., and the 2025 lighting began at 5 p.m. on Tuesday, Dec. 2, 2025, on the West Front Lawn, the AOC reported. Those are last year's details, not 2026 dates. When a date is set, mark it on the [December 2026 printable calendar](/december-calendars.html); the day it falls near is also on our [When is Christmas?](/when-is/christmas/) page.
+When a date is set, mark it on the [December 2026 printable calendar](/december-calendars.html); the day it falls near is also on our [When is Christmas?](/when-is/christmas/) page.
 
 ## How is the Capitol tree different from the National Christmas Tree?
 

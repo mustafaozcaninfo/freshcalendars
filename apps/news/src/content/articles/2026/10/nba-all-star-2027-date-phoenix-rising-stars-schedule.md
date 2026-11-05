@@ -4,6 +4,7 @@ seoTitle: "NBA All-Star 2027: Date, Rising Stars Time and TV"
 description: "The 76th National Basketball Association (NBA) All-Star Game is Sunday, Feb. 21, 2027, in Phoenix; Rising Stars tips off Feb. 19 at 7 p.m. Mountain Time (MT)."
 type: news
 publishedAt: "2026-10-26T16:38:00-04:00"
+updatedAt: "2026-11-04T13:41:00-05:00"
 authors: [jessica-hartwell]
 category: sports
 keywords: ["NBA All-Star 2027", "NBA All Star Game 2027 date", "2027 All-Star Weekend Phoenix", "NBA All Star 2027 time channel", "Rising Stars 2027"]
@@ -21,14 +22,14 @@ hero:
 summary:
   - "NBA Events lists the 76th NBA All-Star Game for Sunday, Feb. 21, 2027, at the Mortgage Matchup Center, home of the Phoenix Suns. All-Star 2027 runs Feb. 19-21."
   - "NBA.com says Castrol Rising Stars tips off Friday, Feb. 19, at 7 p.m. Mountain Time (MT). By our conversion that is 9 p.m. Eastern Time (ET), 8 p.m. Central, 6 p.m. Pacific and 02:00 Coordinated Universal Time (UTC) on Feb. 20."
-  - "NBC Sports says it will present the All-Star Game on Feb. 21, 2027. The game's tip time and the start of All-Star Saturday Night, Feb. 20, have not been announced in the sources we read."
+  - "NBC Sports says it will present the All-Star Game on Feb. 21, 2027, with a Spanish-language broadcast on Telemundo. The game's tip time and the start of All-Star Saturday Night, Feb. 20, have not been announced in the sources we read."
 faq:
   - q: "When is the 2027 NBA All-Star Game?"
     a: "NBA Events lists the 76th NBA All-Star Game for Sunday, Feb. 21, 2027, at the Mortgage Matchup Center in Phoenix. The tip time has not been announced in the sources we read."
   - q: "What time is Rising Stars in 2027?"
     a: "NBA.com says Castrol Rising Stars tips off Friday, Feb. 19, 2027, at 7 p.m. Mountain Time (MT). By our conversion that is 9 p.m. Eastern Time (ET)."
   - q: "What channel is the 2027 NBA All-Star Game on?"
-    a: "NBC Sports says it will present the NBA All-Star Game on Feb. 21, 2027. The sources we read do not name other networks or streaming services for the weekend."
+    a: "NBC Sports says it will present the NBA All-Star Game on Feb. 21, 2027, and that the game will be available in Spanish on Telemundo. The sources we read do not name other networks or streaming services for the weekend."
   - q: "When is All-Star Saturday Night 2027?"
     a: "The NBA's 2024 release on the Phoenix selection puts State Farm All-Star Saturday Night, which includes the Kia Skills Challenge, on Feb. 20, 2027. The start time has not been announced in the sources we read."
   - q: "Where is NBA All-Star 2027?"
@@ -126,7 +127,7 @@ NBA.com gives the start as 7 p.m. MT. Arizona does not observe daylight saving t
 
 ## What channel is the NBA All-Star Game on?
 
-NBC Sports said on Aug. 13, 2026, that it will present the NBA All-Star Game on Feb. 21, 2027. The sources we read do not name a network for Rising Stars or All-Star Saturday Night, and they do not list streaming services for the weekend. Check the listings closer to the date.
+NBC Sports said on Aug. 13, 2026, that it will present the NBA All-Star Game on Feb. 21, 2027, and that the game "will be available in Spanish on Telemundo." The sources we read do not name a network for Rising Stars or All-Star Saturday Night, and they do not list streaming services for the weekend. Check the listings closer to the date.
 
 ## Where is NBA All-Star 2027 played?
 

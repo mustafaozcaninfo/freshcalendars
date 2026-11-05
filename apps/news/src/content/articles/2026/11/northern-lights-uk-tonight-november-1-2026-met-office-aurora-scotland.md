@@ -67,7 +67,7 @@ internalLinks:
     label: "November 2026 printable calendar"
   - href: "/when-is/daylight-savings/"
     label: "When does daylight saving time end"
-related: [northern-lights-forecast-tonight-halloween-2026-noaa-g1-storm-watch-november-dates, planets-visible-november-2026-night-sky-calendar-moon-venus-uranus-opposition, november-2026-meteor-showers-taurids-leonids]
+related: [northern-lights-forecast-tonight-halloween-2026-noaa-g1-storm-watch-november-dates, planets-visible-november-2026-night-sky-calendar-moon-venus-uranus-opposition, uk-storm-names-2026-27-list]
 assets:
   scene: night-sky
   overlay: true
