@@ -4,7 +4,7 @@ seoTitle: "Printable NFL Pick'em Sheets 2026: Free Weekly PDFs"
 description: "Free National Football League (NFL) pick'em sheets for 2026, updated weekly: classic, confidence, office pool and survivor PDFs with Eastern Time (ET) kickoffs."
 type: explainer
 publishedAt: "2026-10-29T08:00:00-04:00"
-updatedAt: "2026-11-01T02:49:00-05:00"
+updatedAt: "2026-11-05T03:18:00-05:00"
 authors: [jessica-hartwell]
 category: sports
 keywords: ["printable NFL pick'em sheets", "NFL pick'em sheet this week", "NFL confidence pool sheet", "office football pool sheet", "NFL survivor pool sheet printable"]
@@ -75,54 +75,6 @@ internalLinks:
 related: [printable-nfl-schedule-2026-2027-pdf, nfl-week-9-schedule-2026-printable-pick-em-sheet-game-times, nfl-playoff-schedule-2027-wild-card-divisional-championship-super-bowl-lxi]
 draft: false
 downloads:
-  - group: "NFL Week 8 Pick'em Sheets 2026"
-    title: "NFL Week 8 Pick'em Sheet 2026"
-    description: "Free one-page NFL Week 8 classic pick'em sheet: tick the winner of each game, final score blanks and a tiebreaker. 14 games, Thu., Oct. 29 to Mon., Nov. 2, 2026, kickoff times in ET. US Letter size."
-    preview: ../../../../assets/news/nfl-pickem-2026/nfl-week-8-pick-em-sheet-2026.png
-    alt: "Printable NFL Week 8 pick'em sheet for 2026 listing every game with tick boxes, US Letter size"
-    pdf: "/news/downloads/nfl-pickem-2026/nfl-week-8-pick-em-sheet-2026.pdf"
-    png: "/news/downloads/nfl-pickem-2026/nfl-week-8-pick-em-sheet-2026.png"
-    pages: 1
-  - group: "NFL Week 8 Pick'em Sheets 2026"
-    title: "NFL Week 8 Pick'em Sheet 2026 (A4)"
-    description: "Free one-page NFL Week 8 classic pick'em sheet: tick the winner of each game, final score blanks and a tiebreaker. 14 games, Thu., Oct. 29 to Mon., Nov. 2, 2026, kickoff times in ET. A4 size."
-    preview: ../../../../assets/news/nfl-pickem-2026/nfl-week-8-pick-em-sheet-2026-a4.png
-    alt: "Printable NFL Week 8 pick'em sheet for 2026 listing every game with tick boxes, A4 size"
-    pdf: "/news/downloads/nfl-pickem-2026/nfl-week-8-pick-em-sheet-2026-a4.pdf"
-    png: "/news/downloads/nfl-pickem-2026/nfl-week-8-pick-em-sheet-2026-a4.png"
-    pages: 1
-  - group: "NFL Week 8 Pick'em Sheets 2026"
-    title: "NFL Week 8 Confidence Pool Sheet 2026"
-    description: "Free one-page NFL Week 8 confidence pool sheet: tick a winner and give each game a different point value. 14 games, Thu., Oct. 29 to Mon., Nov. 2, 2026, kickoff times in ET. US Letter size."
-    preview: ../../../../assets/news/nfl-pickem-2026/nfl-week-8-confidence-pool-sheet-2026.png
-    alt: "Printable NFL Week 8 confidence pool sheet for 2026 listing every game with tick boxes, US Letter size"
-    pdf: "/news/downloads/nfl-pickem-2026/nfl-week-8-confidence-pool-sheet-2026.pdf"
-    png: "/news/downloads/nfl-pickem-2026/nfl-week-8-confidence-pool-sheet-2026.png"
-    pages: 1
-  - group: "NFL Week 8 Pick'em Sheets 2026"
-    title: "NFL Week 8 Confidence Pool Sheet 2026 (A4)"
-    description: "Free one-page NFL Week 8 confidence pool sheet: tick a winner and give each game a different point value. 14 games, Thu., Oct. 29 to Mon., Nov. 2, 2026, kickoff times in ET. A4 size."
-    preview: ../../../../assets/news/nfl-pickem-2026/nfl-week-8-confidence-pool-sheet-2026-a4.png
-    alt: "Printable NFL Week 8 confidence pool sheet for 2026 listing every game with tick boxes, A4 size"
-    pdf: "/news/downloads/nfl-pickem-2026/nfl-week-8-confidence-pool-sheet-2026-a4.pdf"
-    png: "/news/downloads/nfl-pickem-2026/nfl-week-8-confidence-pool-sheet-2026-a4.png"
-    pages: 1
-  - group: "NFL Week 8 Pick'em Sheets 2026"
-    title: "NFL Week 8 Office Pool Grid 2026"
-    description: "Free one-page NFL Week 8 office pool grid: one column per player, tiebreaker and correct-picks rows. 14 games, Thu., Oct. 29 to Mon., Nov. 2, 2026, kickoff times in ET. US Letter size."
-    preview: ../../../../assets/news/nfl-pickem-2026/nfl-week-8-office-pool-grid-2026.png
-    alt: "Printable NFL Week 8 office pool grid for 2026 listing every game with tick boxes, US Letter size"
-    pdf: "/news/downloads/nfl-pickem-2026/nfl-week-8-office-pool-grid-2026.pdf"
-    png: "/news/downloads/nfl-pickem-2026/nfl-week-8-office-pool-grid-2026.png"
-    pages: 1
-  - group: "NFL Week 8 Pick'em Sheets 2026"
-    title: "NFL Week 8 Office Pool Grid 2026 (A4)"
-    description: "Free one-page NFL Week 8 office pool grid: one column per player, tiebreaker and correct-picks rows. 14 games, Thu., Oct. 29 to Mon., Nov. 2, 2026, kickoff times in ET. A4 size."
-    preview: ../../../../assets/news/nfl-pickem-2026/nfl-week-8-office-pool-grid-2026-a4.png
-    alt: "Printable NFL Week 8 office pool grid for 2026 listing every game with tick boxes, A4 size"
-    pdf: "/news/downloads/nfl-pickem-2026/nfl-week-8-office-pool-grid-2026-a4.pdf"
-    png: "/news/downloads/nfl-pickem-2026/nfl-week-8-office-pool-grid-2026-a4.png"
-    pages: 1
   - group: "NFL Week 9 Pick'em Sheets 2026"
     title: "NFL Week 9 Pick'em Sheet 2026"
     description: "Free one-page NFL Week 9 classic pick'em sheet: tick the winner of each game, final score blanks and a tiebreaker. 15 games, Thu., Nov. 5 to Mon., Nov. 9, 2026, kickoff times in ET. US Letter size."
@@ -267,6 +219,54 @@ downloads:
     pdf: "/news/downloads/nfl-pickem-2026/nfl-week-11-office-pool-grid-2026-a4.pdf"
     png: "/news/downloads/nfl-pickem-2026/nfl-week-11-office-pool-grid-2026-a4.png"
     pages: 1
+  - group: "NFL Week 12 Pick'em Sheets 2026"
+    title: "NFL Week 12 Pick'em Sheet 2026"
+    description: "Free one-page NFL Week 12 classic pick'em sheet: tick the winner of each game, final score blanks and a tiebreaker. 16 games, Wed., Nov. 25 to Mon., Nov. 30, 2026, kickoff times in ET. US Letter size."
+    preview: ../../../../assets/news/nfl-pickem-2026/nfl-week-12-pick-em-sheet-2026.png
+    alt: "Printable NFL Week 12 pick'em sheet for 2026 listing every game with tick boxes, US Letter size"
+    pdf: "/news/downloads/nfl-pickem-2026/nfl-week-12-pick-em-sheet-2026.pdf"
+    png: "/news/downloads/nfl-pickem-2026/nfl-week-12-pick-em-sheet-2026.png"
+    pages: 1
+  - group: "NFL Week 12 Pick'em Sheets 2026"
+    title: "NFL Week 12 Pick'em Sheet 2026 (A4)"
+    description: "Free one-page NFL Week 12 classic pick'em sheet: tick the winner of each game, final score blanks and a tiebreaker. 16 games, Wed., Nov. 25 to Mon., Nov. 30, 2026, kickoff times in ET. A4 size."
+    preview: ../../../../assets/news/nfl-pickem-2026/nfl-week-12-pick-em-sheet-2026-a4.png
+    alt: "Printable NFL Week 12 pick'em sheet for 2026 listing every game with tick boxes, A4 size"
+    pdf: "/news/downloads/nfl-pickem-2026/nfl-week-12-pick-em-sheet-2026-a4.pdf"
+    png: "/news/downloads/nfl-pickem-2026/nfl-week-12-pick-em-sheet-2026-a4.png"
+    pages: 1
+  - group: "NFL Week 12 Pick'em Sheets 2026"
+    title: "NFL Week 12 Confidence Pool Sheet 2026"
+    description: "Free one-page NFL Week 12 confidence pool sheet: tick a winner and give each game a different point value. 16 games, Wed., Nov. 25 to Mon., Nov. 30, 2026, kickoff times in ET. US Letter size."
+    preview: ../../../../assets/news/nfl-pickem-2026/nfl-week-12-confidence-pool-sheet-2026.png
+    alt: "Printable NFL Week 12 confidence pool sheet for 2026 listing every game with tick boxes, US Letter size"
+    pdf: "/news/downloads/nfl-pickem-2026/nfl-week-12-confidence-pool-sheet-2026.pdf"
+    png: "/news/downloads/nfl-pickem-2026/nfl-week-12-confidence-pool-sheet-2026.png"
+    pages: 1
+  - group: "NFL Week 12 Pick'em Sheets 2026"
+    title: "NFL Week 12 Confidence Pool Sheet 2026 (A4)"
+    description: "Free one-page NFL Week 12 confidence pool sheet: tick a winner and give each game a different point value. 16 games, Wed., Nov. 25 to Mon., Nov. 30, 2026, kickoff times in ET. A4 size."
+    preview: ../../../../assets/news/nfl-pickem-2026/nfl-week-12-confidence-pool-sheet-2026-a4.png
+    alt: "Printable NFL Week 12 confidence pool sheet for 2026 listing every game with tick boxes, A4 size"
+    pdf: "/news/downloads/nfl-pickem-2026/nfl-week-12-confidence-pool-sheet-2026-a4.pdf"
+    png: "/news/downloads/nfl-pickem-2026/nfl-week-12-confidence-pool-sheet-2026-a4.png"
+    pages: 1
+  - group: "NFL Week 12 Pick'em Sheets 2026"
+    title: "NFL Week 12 Office Pool Grid 2026"
+    description: "Free one-page NFL Week 12 office pool grid: one column per player, tiebreaker and correct-picks rows. 16 games, Wed., Nov. 25 to Mon., Nov. 30, 2026, kickoff times in ET. US Letter size."
+    preview: ../../../../assets/news/nfl-pickem-2026/nfl-week-12-office-pool-grid-2026.png
+    alt: "Printable NFL Week 12 office pool grid for 2026 listing every game with tick boxes, US Letter size"
+    pdf: "/news/downloads/nfl-pickem-2026/nfl-week-12-office-pool-grid-2026.pdf"
+    png: "/news/downloads/nfl-pickem-2026/nfl-week-12-office-pool-grid-2026.png"
+    pages: 1
+  - group: "NFL Week 12 Pick'em Sheets 2026"
+    title: "NFL Week 12 Office Pool Grid 2026 (A4)"
+    description: "Free one-page NFL Week 12 office pool grid: one column per player, tiebreaker and correct-picks rows. 16 games, Wed., Nov. 25 to Mon., Nov. 30, 2026, kickoff times in ET. A4 size."
+    preview: ../../../../assets/news/nfl-pickem-2026/nfl-week-12-office-pool-grid-2026-a4.png
+    alt: "Printable NFL Week 12 office pool grid for 2026 listing every game with tick boxes, A4 size"
+    pdf: "/news/downloads/nfl-pickem-2026/nfl-week-12-office-pool-grid-2026-a4.pdf"
+    png: "/news/downloads/nfl-pickem-2026/nfl-week-12-office-pool-grid-2026-a4.png"
+    pages: 1
   - group: "NFL Season Pick'em Sheets 2026"
     title: "NFL Survivor Pool Sheet 2026"
     description: "Free one-page NFL survivor pool sheet for 2026: a pick line for Weeks 1 to 18 with dates, won and lost boxes, and all 32 teams with their bye weeks. US Letter size."
@@ -291,28 +291,29 @@ downloads:
 
 <!-- pickem:now:start -->
 
-**Week 8: Thu., Oct. 29 to Mon., Nov. 2, 2026.** 14 games; picks are due before Panthers at Packers, Thu., Oct. 29 at 8:15 p.m. ET. The tiebreaker on the sheets is the total points in Bears at Seahawks (Mon., Nov. 2, 8:15 p.m. ET). On bye: Texans, Saints, Giants, 49ers. Local times in every U.S. time zone are in our [Week 8 schedule story](/news/nfl-week-8-schedule-2026-game-times-tv-clock-change/).
+**Week 9: Thu., Nov. 5 to Mon., Nov. 9, 2026.** 15 games; picks are due before Jaguars at Ravens, Thu., Nov. 5 at 8:15 p.m. ET. The tiebreaker on the sheets is the total points in Bills at Vikings (Mon., Nov. 9, 8:15 p.m. ET). On bye: Steelers, Titans. Local times in every U.S. time zone are in our [Week 9 schedule story](/news/nfl-week-9-schedule-2026-printable-pick-em-sheet-game-times/).
 
 | Day | Kickoff (ET) | Game | TV | Final |
 |---|---|---|---|---|
-| Thu., Oct. 29 | 8:15 p.m. | Panthers at Packers | Prime Video | Panthers 19, Packers 27 |
-| Sun., Nov. 1 | 1:00 p.m. | Cardinals at Cowboys | FOX |  |
-| Sun., Nov. 1 | 1:00 p.m. | Falcons at Buccaneers | FOX |  |
-| Sun., Nov. 1 | 1:00 p.m. | Ravens at Bills | CBS |  |
-| Sun., Nov. 1 | 1:00 p.m. | Browns at Steelers | CBS |  |
-| Sun., Nov. 1 | 1:00 p.m. | Colts at Jaguars | CBS |  |
-| Sun., Nov. 1 | 1:00 p.m. | Raiders at Jets | FOX |  |
-| Sun., Nov. 1 | 1:00 p.m. | Vikings at Lions | FOX |  |
-| Sun., Nov. 1 | 1:00 p.m. | Titans at Bengals | CBS |  |
-| Sun., Nov. 1 | 4:05 p.m. | Chargers at Rams | FOX |  |
-| Sun., Nov. 1 | 4:25 p.m. | Chiefs at Broncos | CBS |  |
-| Sun., Nov. 1 | 4:25 p.m. | Patriots at Dolphins | CBS |  |
-| Sun., Nov. 1 | 8:20 p.m. | Eagles at Commanders | NBC |  |
-| Mon., Nov. 2 | 8:15 p.m. | Bears at Seahawks | ESPN, ABC, ESPN2 |  |
+| Thu., Nov. 5 | 8:15 p.m. | Jaguars at Ravens | Prime Video |  |
+| Sun., Nov. 8 | 9:30 a.m. | Bengals vs. Falcons (Madrid) | NFL Network |  |
+| Sun., Nov. 8 | 1:00 p.m. | Browns at Saints | CBS |  |
+| Sun., Nov. 8 | 1:00 p.m. | Cowboys at Colts | FOX |  |
+| Sun., Nov. 8 | 1:00 p.m. | Broncos at Panthers | CBS |  |
+| Sun., Nov. 8 | 1:00 p.m. | Lions at Dolphins | FOX |  |
+| Sun., Nov. 8 | 1:00 p.m. | Rams at Commanders | FOX |  |
+| Sun., Nov. 8 | 1:00 p.m. | Giants at Eagles | FOX |  |
+| Sun., Nov. 8 | 1:00 p.m. | Jets at Chiefs | CBS |  |
+| Sun., Nov. 8 | 4:05 p.m. | Texans at Chargers | CBS |  |
+| Sun., Nov. 8 | 4:25 p.m. | Cardinals at Seahawks | FOX |  |
+| Sun., Nov. 8 | 4:25 p.m. | Packers at Patriots | FOX |  |
+| Sun., Nov. 8 | 4:25 p.m. | Raiders at 49ers | FOX |  |
+| Sun., Nov. 8 | 8:20 p.m. | Buccaneers at Bears | NBC |  |
+| Mon., Nov. 9 | 8:15 p.m. | Bills at Vikings | ESPN, ABC, ESPN2, NFL Network |  |
 
-- **Week 9, Thu., Nov. 5 to Mon., Nov. 9, 2026:** 15 games, first kickoff Jaguars at Ravens Thu., Nov. 5 at 8:15 p.m. ET; tiebreaker Bills at Vikings; on bye: Steelers, Titans. [Week 9 schedule](/news/nfl-week-9-schedule-2026-printable-pick-em-sheet-game-times/).
 - **Week 10, Thu., Nov. 12 to Mon., Nov. 16, 2026:** 14 games, first kickoff Commanders at Giants Thu., Nov. 12 at 8:15 p.m. ET; tiebreaker Chargers at Ravens; on bye: Bears, Broncos, Eagles, Buccaneers. [Week 10 schedule](/news/nfl-week-10-schedule-2026-printable-pick-em-sheet-game-times/).
 - **Week 11, Thu., Nov. 19 to Mon., Nov. 23, 2026:** 13 games, first kickoff Colts at Texans Thu., Nov. 19 at 8:15 p.m. ET; tiebreaker Bengals at Commanders; on bye: Falcons, Browns, Packers, Rams, Patriots, Seahawks. [Week 11 schedule](/news/nfl-week-11-schedule-2026-printable-pick-em-sheet-game-times/).
+- **Week 12, Wed., Nov. 25 to Mon., Nov. 30, 2026:** 16 games, first kickoff Packers at Rams Wed., Nov. 25 at 8:00 p.m. ET; tiebreaker Panthers at Buccaneers; on bye: none. [Week 12 schedule](/news/nfl-week-12-schedule-2026-printable-pick-em-sheet-game-times/).
 
 <!-- pickem:now:end -->
 
@@ -373,17 +374,17 @@ Each week links to its schedule story where we have one; those stories give kick
 | Week 5 | Thu., Oct. 8 to Mon., Oct. 12, 2026 | 15 | Panthers, Chiefs | Final |
 | Week 6 | Thu., Oct. 15 to Mon., Oct. 19, 2026 | 14 | Bengals, Lions, Dolphins, Vikings | Final |
 | Week 7 | Thu., Oct. 22 to Mon., Oct. 26, 2026 | 14 | Bills, Jaguars, Chargers, Commanders | Final |
-| [Week 8](/news/nfl-week-8-schedule-2026-game-times-tv-clock-change/) | Thu., Oct. 29 to Mon., Nov. 2, 2026 | 14 | Texans, Saints, Giants, 49ers | Sheets on this page |
+| [Week 8](/news/nfl-week-8-schedule-2026-game-times-tv-clock-change/) | Thu., Oct. 29 to Mon., Nov. 2, 2026 | 14 | Texans, Saints, Giants, 49ers | Final |
 | [Week 9](/news/nfl-week-9-schedule-2026-printable-pick-em-sheet-game-times/) | Thu., Nov. 5 to Mon., Nov. 9, 2026 | 15 | Steelers, Titans | Sheets on this page |
 | [Week 10](/news/nfl-week-10-schedule-2026-printable-pick-em-sheet-game-times/) | Thu., Nov. 12 to Mon., Nov. 16, 2026 | 14 | Bears, Broncos, Eagles, Buccaneers | Sheets on this page |
 | [Week 11](/news/nfl-week-11-schedule-2026-printable-pick-em-sheet-game-times/) | Thu., Nov. 19 to Mon., Nov. 23, 2026 | 13 | Falcons, Browns, Packers, Rams, Patriots, Seahawks | Sheets on this page |
-| [Week 12](/news/nfl-week-12-schedule-2026-printable-pick-em-sheet-game-times/) | Wed., Nov. 25 to Mon., Nov. 30, 2026 | 16 | None | Sheets added as the week nears |
-| Week 13 | Thu., Dec. 3 to Mon., Dec. 7, 2026 | 14 | Ravens, Colts, Raiders, Jets | Sheets added as the week nears |
-| Week 14 | Thu., Dec. 10 to Mon., Dec. 14, 2026 | 15 | Cardinals, Cowboys | Sheets added as the week nears |
-| Week 15 | Thu., Dec. 17 to Mon., Dec. 21, 2026 | 16 | None | Sheets added as the week nears |
-| Week 16 | Thu., Dec. 24 to Mon., Dec. 28, 2026 | 16 | None | Sheets added as the week nears |
-| Week 17 | Thu., Dec. 31, 2026 to Mon., Jan. 4, 2027 | 16 | None | Sheets added as the week nears |
-| Week 18 | Sat., Jan. 9 and Sun., Jan. 10, 2027 | 16 | None | Sheets added as the week nears |
+| [Week 12](/news/nfl-week-12-schedule-2026-printable-pick-em-sheet-game-times/) | Wed., Nov. 25 to Mon., Nov. 30, 2026 | 16 | None | Sheets on this page |
+| [Week 13](/news/nfl-week-13-schedule-2026-printable-pick-em-sheet-game-times/) | Thu., Dec. 3 to Mon., Dec. 7, 2026 | 14 | Ravens, Colts, Raiders, Jets | Sheets added as the week nears |
+| [Week 14](/news/nfl-week-14-schedule-2026-printable-pick-em-sheet-game-times/) | Thu., Dec. 10 to Mon., Dec. 14, 2026 | 15 | Cardinals, Cowboys | Sheets added as the week nears |
+| [Week 15](/news/nfl-week-15-schedule-2026-printable-pick-em-sheet-game-times/) | Thu., Dec. 17 to Mon., Dec. 21, 2026 | 16 | None | Sheets added as the week nears |
+| [Week 16](/news/nfl-week-16-schedule-2026-printable-pick-em-sheet-game-times/) | Thu., Dec. 24 to Mon., Dec. 28, 2026 | 16 | None | Sheets added as the week nears |
+| [Week 17](/news/nfl-week-17-schedule-2026-printable-pick-em-sheet-game-times/) | Thu., Dec. 31, 2026 to Mon., Jan. 4, 2027 | 16 | None | Sheets added as the week nears |
+| [Week 18](/news/nfl-week-18-schedule-2026-printable-pick-em-sheet-game-times/) | Sat., Jan. 9 and Sun., Jan. 10, 2027 | 16 | None | Sheets added as the week nears |
 
 <!-- pickem:index:end -->
 
