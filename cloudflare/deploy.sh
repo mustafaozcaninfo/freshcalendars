@@ -71,13 +71,14 @@ purge_cdn() { # <file with one path per line, relative to the bucket>
 }
 
 # Calendar PNG/PDF/WebP and Open Graph images: copy what changed (never delete: old URLs keep
-# working, as on the VPS) and purge those URLs.
+# working, as on the VPS) and purge those URLs. They keep their URL when they change, so browsers
+# revalidate daily instead of holding a corrected file for a week (no immutable).
 sync_calendar_assets() {
   local changes; changes="$(mktemp)"
   for d in assets og; do
     [[ -d "dist/$d" ]] || continue
     "${RCLONE[@]}" copy "dist/$d" "$CDN_BUCKET/$d" --checksum --exclude '.*' \
-      --header-upload "Cache-Control: public, max-age=604800, immutable" --combined - |
+      --header-upload "Cache-Control: public, max-age=86400, stale-while-revalidate=604800" --combined - |
       awk -v d="$d" '$1 == "*" { print d "/" $2 }' >>"$changes"
   done
   log "calendar files changed: $(wc -l <"$changes")"
@@ -161,6 +162,8 @@ deploy() {
   if [[ "${DRY_RUN:-0}" != "1" ]]; then
     printf 'User-agent: *\nDisallow: /news/downloads/\nAllow: /\n' |
       "${RCLONE[@]}" rcat "$CDN_BUCKET/robots.txt" --header-upload "Content-Type: text/plain; charset=utf-8" --header-upload "Cache-Control: public, max-age=3600"
+    # The edge kept the old robots.txt for days (no Cache-Control): drop it so the rule applies now.
+    local robots; robots="$(mktemp)"; echo robots.txt >"$robots"; purge_cdn "$robots"
   fi
   node cloudflare/assemble.mjs
   if [[ "${DRY_RUN:-0}" == "1" ]]; then
