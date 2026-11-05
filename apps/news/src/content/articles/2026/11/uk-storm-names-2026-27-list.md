@@ -29,7 +29,7 @@ faq:
   - q: "When does a UK storm get a name?"
     a: "The Met Office says a storm is named when it has the potential to cause disruption or damage that could result in an amber or red warning. Wind is the usual trigger; rain and snow are also considered."
   - q: "Why are there no storm names starting with Q, U, X, Y or Z?"
-    a: "The Met Office says it does not include names beginning with Q, U, X, Y and Z, which aligns with the conventions of the US National Hurricane Center."
+    a: "The Met Office says it does not include names beginning with Q, U, X, Y and Z, to match the conventions of the US National Hurricane Center."
   - q: "Who chooses the storm names?"
     a: "Each of the three services contributes names: the Met Office, Met Éireann and KNMI. The Met Office says the names do not use private companies or brands and are not picked by popularity or number of submissions."
   - q: "How long does the 2026-27 storm season last?"
@@ -204,7 +204,7 @@ That is why the next name is Chloe: the names run in order, and Austen and Boelo
 
 Two other rules from the Met Office:
 
-- Names beginning with Q, U, X, Y and Z are left out, to align with the US National Hurricane Center conventions.
+- Names beginning with Q, U, X, Y and Z are left out, to match the US National Hurricane Center conventions.
 - Ex-hurricanes keep the name given by the US National Weather Service, for example "ex-hurricane Ophelia".
 
 The Met Office also lists two other storm-naming groups, a south-western group (Spain, Portugal, France, Belgium and Luxembourg) and a northern group (Norway, Sweden and Denmark).
