@@ -1,5 +1,9 @@
 [
   {
+    "date": "2026-11-06",
+    "label": "Boston Snowport opens (to Dec. 27)"
+  },
+  {
     "date": "2026-11-11",
     "label": "Downtown Detroit Winter Markets open (to Jan. 3)"
   },
@@ -8,11 +12,23 @@
     "label": "DC Holiday Market opens near Dupont Circle"
   },
   {
+    "date": "2026-11-12",
+    "label": "Union Square Holiday Market opens (to Dec. 24)"
+  },
+  {
+    "date": "2026-11-20",
+    "label": "Denver Christkindlmarket opens (to Dec. 23)"
+  },
+  {
     "date": "2026-11-21",
     "label": "Christmas Village in Philadelphia opens (to Dec. 27)"
   },
   {
     "date": "2026-11-27",
     "label": "Leavenworth Christmastown festivities begin"
+  },
+  {
+    "date": "2026-12-01",
+    "label": "Columbus Circle Holiday Market opens (to Dec. 31)"
   }
 ]
