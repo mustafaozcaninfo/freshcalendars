@@ -350,6 +350,12 @@ export const PUZZLE_HEROES: [string, string, string, string, string, string, str
   ["nyt-spelling-bee-hints-answers-november-14-2026", "bee", "#1c1917", "#fbbf24", "Spelling Bee · Sat., Nov. 14, 2026", "Spelling Bee hints", "Hint grid and two-letter list first, the word list at the end."],
   ["nyt-spelling-bee-hints-answers-november-15-2026", "bee", "#1c1917", "#facc15", "Spelling Bee · Sun., Nov. 15, 2026", "Spelling Bee hints", "Hint grid and two-letter list first, the word list at the end."],
   ["nyt-spelling-bee-hints-answers-november-16-2026", "bee", "#1c1917", "#fb923c", "Spelling Bee · Mon., Nov. 16, 2026", "Spelling Bee hints", "Hint grid and two-letter list first, the word list at the end."],
+  ["wordle-hint-answer-today-november-17-2026-1977", "wordle", "#121213", "#6aaa64", "Wordle #1977 · Tue., Nov. 17, 2026", "Wordle hints today", "Six clues from gentle to strong, the answer only at the end."],
+  ["nyt-connections-hints-answers-november-17-2026-1255", "connections", "#0f2a3a", "#a0c35a", "Connections #1255 · Tue., Nov. 17, 2026", "Connections hints", "Gentle hints for every group first, answers only at the end.", "nyt-connections-november-17-d"],
+  ["nyt-strands-hints-answers-november-17-2026-989", "strands", "#0f2f3a", "#f8cd05", "Strands #989 · Tue., Nov. 17, 2026", "Strands hints today", "Spangram and theme-word hints first, answers at the end."],
+  ["nyt-pips-hints-answers-november-17-2026", "pips", "#1e293b", "#93c5fd", "Pips · Tue., Nov. 17, 2026", "Pips hints today", "Hints for Easy, Medium and Hard, placements at the end."],
+  ["contexto-answer-hints-november-10-2026-1514", "contexto", "#0f172a", "#a78bfa", "Contexto #1514 · Tue., Nov. 10, 2026", "Contexto hints", "Close words and hints first, the secret word only at the end."],
+  ["nyt-spelling-bee-hints-answers-november-17-2026", "bee", "#1c1917", "#fde047", "Spelling Bee · Tue., Nov. 17, 2026", "Spelling Bee hints", "Hint grid and two-letter list first, the word list at the end."],
 ];
 
 export async function buildHeroes5(only?: string): Promise<void> {
