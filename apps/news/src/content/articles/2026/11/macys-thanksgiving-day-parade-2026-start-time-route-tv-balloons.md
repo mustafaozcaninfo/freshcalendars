@@ -144,4 +144,4 @@ Macy's full 2026 balloon list was not on a page we could reach, so this story na
 - **Subway service:** the Metropolitan Transportation Authority (MTA) has not posted a 2026 Thanksgiving service notice that we could find.
 - **Spanish-language coverage:** Macy's has not confirmed a Spanish-language broadcast on a page we could reach.
 
-Looking for other New York dates this season? The [NYC holiday calendar for 2026](/news/nyc-holiday-calendar-2026-rockefeller-tree-macys-parade/) lists the tree lighting and more. A [November 2026 printable calendar](/november-calendars.html) has room for the whole week.
+Looking for other New York dates this season? The [NYC holiday calendar for 2026](/news/nyc-holiday-calendar-2026-rockefeller-tree-macys-parade/) lists the tree lighting and more. A [November 2026 printable calendar](/november-calendars.html) has room for the whole week. For another big parade, see our guide to the [Rose Parade](/news/rose-parade-2027-date-start-time-by-time-zone-route-floatfest/).

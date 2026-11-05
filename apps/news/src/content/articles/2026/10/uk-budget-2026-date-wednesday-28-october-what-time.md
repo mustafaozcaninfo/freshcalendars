@@ -164,7 +164,7 @@ On Oct. 28 the UK was on GMT, because its clocks went back on Oct. 25. The US wa
 
 ## How does this compare with last year?
 
-GOV.UK says the Chancellor presented the Budget 2025 to Parliament on Wednesday, Nov. 26, 2025. The 2026 date is 29 days earlier in the calendar.
+GOV.UK says the Chancellor presented the Budget 2025 to Parliament on Wednesday, Nov. 26, 2025. The 2026 date is 29 days earlier in the calendar. Our [Canada Budget 2026 date](/news/canada-budget-2026-date-november-5-what-to-know/) guide covers another country's fall budget.
 
 ## Key dates around the Budget
 

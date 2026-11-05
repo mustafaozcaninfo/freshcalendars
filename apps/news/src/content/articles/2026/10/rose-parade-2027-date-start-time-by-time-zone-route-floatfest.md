@@ -153,7 +153,7 @@ The Rose Bowl Game presented by Prudential is a College Football Playoff (CFP) q
 
 ## Is the 2027 theme or TV channel announced?
 
-The theme is "Welcome," announced by Tournament of Roses President and Chairman Terry Madigan in January 2026, as reported by NBC Los Angeles on Jan. 16, 2026. The official tournamentofroses.com pages did not expose the theme text to our automated check. The Grand Marshal and the television and streaming broadcasters are not yet announced, and we do not name a channel. Check the Tournament of Roses site for updates. For other holiday parades, see our [Macy's Thanksgiving Day Parade TV schedule](/news/thanksgiving-2026-tv-schedule-macys-parade-nfl-games/) and [NYC holiday calendar](/news/nyc-holiday-calendar-2026-rockefeller-tree-macys-parade/).
+The theme is "Welcome," announced by Tournament of Roses President and Chairman Terry Madigan in January 2026, as reported by NBC Los Angeles on Jan. 16, 2026. The official tournamentofroses.com pages did not expose the theme text to our automated check. The Grand Marshal and the television and streaming broadcasters are not yet announced, and we do not name a channel. Check the Tournament of Roses site for updates. For other holiday parades, see our [Macy's Thanksgiving Day Parade TV schedule](/news/thanksgiving-2026-tv-schedule-macys-parade-nfl-games/) and [NYC holiday calendar](/news/nyc-holiday-calendar-2026-rockefeller-tree-macys-parade/). The [St. Patrick's Day parade dates](/news/st-patricks-day-2027-wednesday-march-17-parades-by-city/) are in our guide too.
 
 ## Free Rose Parade week 2027 printable
 

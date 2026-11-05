@@ -112,6 +112,6 @@ All of these days are counted from Thanksgiving, the fourth Thursday of November
 
 ## Shop small or shop broad
 
-The two days differ in focus. Small Business Saturday asks shoppers to spend at independent local businesses, and Black Friday is known for broad retail deals. This story does not cover store hours or deals; for those, use the guides linked below once retailers publish their plans.
+The two days differ in focus. Small Business Saturday asks shoppers to spend at independent local businesses, and Black Friday is known for broad retail deals. This story does not cover store hours or deals; for those, use the guides linked below once retailers publish their plans. For the next shopping dates after this weekend, see our guide to [Green Monday and Super Saturday](/news/green-monday-2026-december-14-super-saturday-december-19/).
 
 Print the Thanksgiving weekend sheet below, and find the rest of the month on our [November 2026 important dates](/news/november-2026-important-dates-days-until/) page and the [November printable calendar](/november-calendars.html).

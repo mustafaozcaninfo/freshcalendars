@@ -162,7 +162,7 @@ Two retailers started before Nov. 2. Lowe's Black Friday deals have run since Oc
 
 Target's Oct. 21 press release says: "Early Black Friday deals run Nov. 5-7, followed by new limited-time offers every weekend throughout the holiday season." The release is the source for these dates; we do not list products or prices because we did not take any from it.
 
-Last year, Target's Oct. 30, 2025 fact sheet said its "three-day Early Black Friday Sale is back Nov. 6-8" and that the Holiday Price Match Guarantee ran Nov. 1 through Dec. 24. Those are 2025 dates. Target has not announced its 2026 price match, its Black Friday Week dates, Target Circle early access or Thanksgiving hours. Our [Black Friday 2026 ad tracker](/news/black-friday-2026-ad-tracker-walmart-target-best-buy/) follows Target, Walmart and Best Buy as they publish.
+Last year, Target's Oct. 30, 2025 fact sheet said its "three-day Early Black Friday Sale is back Nov. 6-8" and that the Holiday Price Match Guarantee ran Nov. 1 through Dec. 24. Those are 2025 dates. Target has not announced its 2026 price match, its Black Friday Week dates, Target Circle early access or Thanksgiving hours. Our [Black Friday 2026 ad tracker](/news/black-friday-2026-ad-tracker-walmart-target-best-buy/) follows Target, Walmart and Best Buy as they publish. Our [Target Black Friday deals](/news/target-black-friday-2026-early-sale-november-5-7-price-match-dates/) story has the early-deal dates and price match.
 
 ## Which holiday menus start this week?
 

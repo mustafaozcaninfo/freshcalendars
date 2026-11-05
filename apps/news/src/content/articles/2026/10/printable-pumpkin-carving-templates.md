@@ -301,7 +301,7 @@ Each stencil prints about 6 inches wide and 5 1/4 inches tall at 100% (Actual si
 | 5 inches | 84% | 5 × 4 1/2 inches | 0.21 inch |
 | 6 inches or more | 100% (Actual size) | 6 × 5 1/4 inches | 0.25 inch |
 
-Scaling shrinks the bridges along with everything else. For a pumpkin smaller than about 5 inches across, choose an Easy design. On a bigger pumpkin, print at 100% and leave a wider border; scaling up past 100% pushes the design off the edge of a Letter sheet. On a printer, "Fit to page" changes the size, so turn it off when you want the table's numbers.
+Scaling shrinks the bridges along with everything else. For a pumpkin smaller than about 5 inches across, choose an Easy design. On a bigger pumpkin, print at 100% and leave a wider border; scaling up past 100% pushes the design off the edge of a Letter sheet. On a printer, "Fit to page" changes the size, so turn it off when you want the table's numbers. Our guide to [printing a PDF at actual size](/news/how-to-print-a-calendar/) covers the same settings.
 
 ## How to use a printable pumpkin stencil
 

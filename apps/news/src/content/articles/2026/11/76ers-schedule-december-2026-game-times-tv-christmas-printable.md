@@ -119,7 +119,7 @@ The NBA's August schedule lists 11 76ers games in December: five at home and six
 
 ## 76ers Christmas Day game 2026
 
-The 76ers play at the Los Angeles Lakers on Friday, Dec. 25, at 2 p.m. PT (5 p.m. ET), on ABC and ESPN, according to the NBA's schedule. The Lakers' own side of the game, with their Pacific times, is in our [Lakers schedule for December 2026](/news/lakers-schedule-december-2026-game-times-tv-christmas-printable/). For the full holiday slate, see our [Christmas Day 2026 NBA and National Football League (NFL) schedule](/news/christmas-day-2026-games-nba-nfl-schedule-times-tv/) and the [When is Christmas?](/when-is/christmas/) date page.
+The 76ers play at the Los Angeles Lakers on Friday, Dec. 25, at 2 p.m. PT (5 p.m. ET), on ABC and ESPN, according to the NBA's schedule. The Lakers' own side of the game, with their Pacific times, is in our [Lakers schedule for December 2026](/news/lakers-schedule-december-2026-game-times-tv-christmas-printable/). For the full holiday slate, see our [Christmas Day 2026 NBA and National Football League (NFL) schedule](/news/christmas-day-2026-games-nba-nfl-schedule-times-tv/) and the [When is Christmas?](/when-is/christmas/) date page. Our [Celtics schedule](/news/celtics-schedule-december-2026-game-times-tv-christmas-printable/) and [Knicks schedule](/news/knicks-schedule-december-2026-game-times-tv-christmas-printable/) cover those teams' December games.
 
 ## No 76ers games from Dec. 3 to Dec. 11
 

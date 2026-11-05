@@ -154,7 +154,7 @@ We computed the date of Western Easter Sunday with the Anonymous Gregorian algor
 | 2034 | Fri., April 7 | Sun., April 9 | Mon., April 10 |
 | 2035 | Fri., March 23 | Sun., March 25 | Mon., March 26 |
 
-These are calendar dates only. Whether a given day is a market or bank holiday in a later year depends on the official calendars, which we have not checked beyond 2027.
+These are calendar dates only. Whether a given day is a market or bank holiday in a later year depends on the official calendars, which we have not checked beyond 2027. For the Orthodox dates alongside the Western ones, see our [Orthodox Easter dates](/news/easter-dates-2027-2036-orthodox-easter/) table.
 
 ## Print the Easter 2027 closures and dates
 

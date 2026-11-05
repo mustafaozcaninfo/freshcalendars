@@ -128,7 +128,7 @@ The rebate does not change your monthly Part B premium. It is a single payment. 
 
 For 2027, the annual cap on what you pay out of pocket for covered Part D drugs rises to **$2,400**, from $2,100 in 2026, according to Medicare.gov. The highest deductible a Medicare drug plan can charge rises to $700, from $615. Once you reach the cap, you pay nothing more for covered drugs for the rest of the year. The cap resets every January.
 
-The 2027 Part B premium had not been announced as of Oct. 18. Our [Social Security COLA story](/news/social-security-cola-2027-3-6-percent-payment-dates/) covers the 3.6% benefit increase and how premiums are deducted from January payments.
+The 2027 Part B premium had not been announced as of Oct. 18. Our guide to the [projected 2027 Part B premium](/news/medicare-part-b-premium-2027-projected-209-50-when-cms-announces/) explains what the trustees project. Our [Social Security COLA story](/news/social-security-cola-2027-3-6-percent-payment-dates/) covers the 3.6% benefit increase and how premiums are deducted from January payments.
 
 ## Before you decide
 

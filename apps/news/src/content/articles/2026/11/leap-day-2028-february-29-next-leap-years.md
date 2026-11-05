@@ -137,7 +137,7 @@ We computed these weekdays from the USNO rule (computed by Fresh Calendars). The
 | 2092 | Friday |
 | 2096 | Wednesday |
 
-The USNO says the years 1700, 1800, 1900 and 2100 are not leap years, so 2100 has no Feb. 29. The next leap day after 2096 is Feb. 29, 2104, a Friday (computed). Our [yearly calendar](/printable-yearly-calendar.html) and [February calendars](/february-calendars.html) show how the month looks in a common year.
+The USNO says the years 1700, 1800, 1900 and 2100 are not leap years, so 2100 has no Feb. 29. The next leap day after 2096 is Feb. 29, 2104, a Friday (computed). Our [yearly calendar](/printable-yearly-calendar.html) and [February calendars](/february-calendars.html) show how the month looks in a common year. Our guide to [why February is the short month](/news/why-does-february-have-28-days/) covers its calendar history.
 
 ## Why is a leap day needed?
 

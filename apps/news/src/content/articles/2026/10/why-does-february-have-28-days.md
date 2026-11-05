@@ -140,7 +140,7 @@ Eleven months of the Gregorian year have 30 or 31 days. February is the one that
 | 2035 | 28 | 365 | No |
 | 2036 | 29 | 366 | Yes |
 
-Because the leap day sits at the end of February, March 1 is day 60 of a leap year, one day later than in a common year. Our guide to [calculating the day of the year](/news/how-to-calculate-day-of-year/) shows how to account for it, and the [February printable calendars](/february-calendars.html) come in both lengths.
+Because the leap day sits at the end of February, March 1 is day 60 of a leap year, one day later than in a common year. Our guide to [calculating the day of the year](/news/how-to-calculate-day-of-year/) shows how to account for it, and the [February printable calendars](/february-calendars.html) come in both lengths. Our guide to [calculating your age in days](/news/calculate-age-in-days-weeks-months/) counts leap days too.
 
 ## What did February look like in the Roman calendar of Romulus and Numa?
 

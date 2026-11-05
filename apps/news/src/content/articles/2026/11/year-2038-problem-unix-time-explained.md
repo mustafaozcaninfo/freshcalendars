@@ -138,7 +138,7 @@ The moment is fixed. The clock reading and even the calendar day depend on the z
 | India Standard Time (IST), UTC+5:30 | 8:44:07 a.m., Tuesday, Jan. 19, 2038 |
 | Japan Standard Time (JST), UTC+9 | 12:14:07 p.m., Tuesday, Jan. 19, 2038 |
 
-All conversions are our calculation from UTC. For how the "Z" and offsets in a timestamp work, see our guide to [International Organization for Standardization (ISO) 8601 dates and times](/news/what-is-iso-8601/).
+All conversions are our calculation from UTC. For how the "Z" and offsets in a timestamp work, see our guide to [International Organization for Standardization (ISO) 8601 dates and times](/news/what-is-iso-8601/). For the difference between the two time standards in the table, see our guide to [UTC and GMT](/news/utc-vs-gmt-difference-explained/).
 
 ## Why does Microsoft say January 18, 2038?
 

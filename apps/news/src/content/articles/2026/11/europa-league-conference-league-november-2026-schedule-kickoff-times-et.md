@@ -238,7 +238,7 @@ Three English clubs are in the Europa League (Crystal Palace, Bournemouth, Sunde
 | Brighton | Conference League | Getafe vs Brighton, 3 p.m. ET | Brighton vs Universitatea Craiova, 12:45 p.m. ET |
 | Hearts | Conference League | Thun vs Hearts, 12:45 p.m. ET | Hearts vs Monaco, 12:45 p.m. ET |
 
-For fans in the UK, the same games are at 5:45 p.m. or 8 p.m. UK time. Our [Premier League Gameweek 10 story](/news/premier-league-fixtures-november-6-8-2026-gameweek-10-kickoff-times-tv/) has the league games that follow on Nov. 6-8.
+For fans in the UK, the same games are at 5:45 p.m. or 8 p.m. UK time. Our [Premier League Gameweek 10 story](/news/premier-league-fixtures-november-6-8-2026-gameweek-10-kickoff-times-tv/) has the league games that follow on Nov. 6-8. For the national teams, see our [Nations League fixtures](/news/nations-league-november-2026-fixtures-kick-off-times-england-scotland-wales-ireland/).
 
 ## How to watch the Europa League and Conference League in the U.S.
 

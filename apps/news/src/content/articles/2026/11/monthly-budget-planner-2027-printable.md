@@ -101,7 +101,7 @@ It is a paper planner, not financial advice. It holds no spending targets or per
 
 ## Monthly budget planner 2027 printable
 
-Download the PDF or the PNG from the file box on this page, then print the page and pin it beside the [2027 printable yearly calendar](/printable-yearly-calendar.html). The page lists each month with the dates that are already fixed, so you write only your own numbers.
+Download the PDF or the PNG from the file box on this page, then print the page and pin it beside the [2027 printable yearly calendar](/printable-yearly-calendar.html). The page lists each month with the dates that are already fixed, so you write only your own numbers. For goal setting alongside your budget, see our [vision board printables](/news/vision-board-2027-printable-goal-worksheets/).
 
 ## Which fixed dates are printed on the planner?
 

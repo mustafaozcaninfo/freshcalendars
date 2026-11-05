@@ -160,7 +160,7 @@ The Federal Reserve's Federal Open Market Committee (FOMC) calendar page lists t
 
 Source: Federal Reserve, FOMC meeting calendars (tentative 2027 dates); Bank of England, MPC dates for 2027.
 
-In four weeks of 2027 both banks decide (the [Fed 2027 schedule story](/news/fomc-meeting-dates-2027-fed-schedule-december-2026/) has the full US list), with the Fed on the Wednesday and the Bank the next day: 17 and 18 March, 28 and 29 April, 28 and 29 July, and 15 and 16 September. In the other four pairs the Bank decides eight days after the Fed.
+In four weeks of 2027 both banks decide (the [Fed 2027 schedule story](/news/fomc-meeting-dates-2027-fed-schedule-december-2026/) has the full US list), with the Fed on the Wednesday and the Bank the next day: 17 and 18 March, 28 and 29 April, 28 and 29 July, and 15 and 16 September. In the other four pairs the Bank decides eight days after the Fed. The [Bank of Canada rate decisions](/news/bank-of-canada-rate-hike-october-28-2026-next-dates-2027/) story covers another central bank's 2027 schedule.
 
 ## Where do I keep these dates?
 

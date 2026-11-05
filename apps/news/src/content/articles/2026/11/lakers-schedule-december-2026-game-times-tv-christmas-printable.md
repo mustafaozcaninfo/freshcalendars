@@ -125,7 +125,7 @@ The NBA's August schedule lists 11 Lakers games in December: six at home and fiv
 
 ## Lakers Christmas Day game 2026
 
-The Lakers host the Philadelphia 76ers on Friday, Dec. 25, at 2 p.m. PT (5 p.m. ET), on ABC and ESPN, according to the NBA's schedule. It is the earliest home tip-off of the Lakers' December and one of only four December games the schedule puts on a national network. For the full holiday slate, see our [Christmas Day 2026 NBA and National Football League (NFL) schedule](/news/christmas-day-2026-games-nba-nfl-schedule-times-tv/) and the [When is Christmas?](/when-is/christmas/) date page.
+The Lakers host the Philadelphia 76ers on Friday, Dec. 25, at 2 p.m. PT (5 p.m. ET), on ABC and ESPN, according to the NBA's schedule. It is the earliest home tip-off of the Lakers' December and one of only four December games the schedule puts on a national network. For the full holiday slate, see our [Christmas Day 2026 NBA and National Football League (NFL) schedule](/news/christmas-day-2026-games-nba-nfl-schedule-times-tv/) and the [When is Christmas?](/when-is/christmas/) date page. Our [Golden State Warriors schedule](/news/golden-state-warriors-schedule-december-2026-game-times-tv-christmas-printable/) and [Thunder schedule](/news/oklahoma-city-thunder-schedule-december-2026-game-times-tv-christmas-printable/) cover those teams' December games.
 
 ## No Lakers games from Dec. 3 to Dec. 11
 

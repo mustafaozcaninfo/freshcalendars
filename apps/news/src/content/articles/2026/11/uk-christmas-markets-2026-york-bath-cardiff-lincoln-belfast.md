@@ -111,7 +111,7 @@ assets:
 
 **York's Christmas market opens Thursday 12 November 2026 and runs to 21 December, and Cardiff's opens the same day and runs to Wednesday 23 December**, according to Visit York and the Cardiff Christmas Market's own site. Bath's follows on Thursday 26 November, Lincoln Cathedral holds a ticketed market on 3 to 5 December and Belfast's opens on 14 November. Our comparison table, a week-by-week grid and a one-page printable are below.
 
-We also cover [Manchester and Birmingham](/news/manchester-birmingham-christmas-markets-2026-dates-opening-times/), [Edinburgh](/news/edinburghs-christmas-2026-dates-big-wheel-hogmanay-torchlight/) and [London's Hyde Park Winter Wonderland](/news/hyde-park-winter-wonderland-2026-dates-opening-times-tickets/) in separate stories.
+We also cover [Manchester and Birmingham](/news/manchester-birmingham-christmas-markets-2026-dates-opening-times/), [Edinburgh](/news/edinburghs-christmas-2026-dates-big-wheel-hogmanay-torchlight/), Newcastle's [Fenwick Christmas window](/news/fenwick-christmas-window-2026-newcastle-public-viewing-monday-2-november/) and [London's Hyde Park Winter Wonderland](/news/hyde-park-winter-wonderland-2026-dates-opening-times-tickets/) in separate stories.
 
 ## How do the five markets compare?
 

@@ -127,7 +127,7 @@ Sunrise and sunset below come from the USNO Rise/Set/Transit data for Dec. 21, 2
 | Anchorage | 10:14 a.m. | 3:41 p.m. | 5 h 27 min |
 | Honolulu | 7:05 a.m. | 5:55 p.m. | 10 h 50 min |
 
-The spread is wide: Seattle gets 8 hours 25 minutes of daylight and Anchorage 5 hours 27 minutes, while Honolulu gets 10 hours 50 minutes. In New York, civil twilight begins at 6:46 a.m. and ends at 5:03 p.m. that day, according to USNO.
+The spread is wide: Seattle gets 8 hours 25 minutes of daylight and Anchorage 5 hours 27 minutes, while Honolulu gets 10 hours 50 minutes. In New York, civil twilight begins at 6:46 a.m. and ends at 5:03 p.m. that day, according to USNO. For the far north of Alaska, see our [Utqiagvik polar night](/news/utqiagvik-polar-night-2026-last-sunset-november-18-sun-returns-january-23/) story.
 
 ## Why is the earliest sunset before the solstice?
 

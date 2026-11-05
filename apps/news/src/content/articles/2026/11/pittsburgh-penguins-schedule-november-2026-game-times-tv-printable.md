@@ -141,7 +141,7 @@ These are our own counts from the NHL's schedule:
 - **Home and away:** seven of the 13 games are at PPG Paints Arena; six are on the road.
 - **Month end:** Toronto visits on Saturday, Nov. 28, at 7 p.m. ET, and Columbus closes the month on Monday, Nov. 30, at 7 p.m. ET.
 
-For other teams' months, see our [Rangers November 2026 schedule](/news/rangers-schedule-november-2026-game-times-tv-printable/), and for the team visiting Pittsburgh on Nov. 28, the [Maple Leafs November 2026 schedule](/news/toronto-maple-leafs-schedule-november-2026-game-times-tv-printable/). Other NHL dates this season include the [2027 Winter Classic](/news/nhl-winter-classic-2027-date-time-avalanche-mammoth-salt-lake-city/).
+For other teams' months, see our [Rangers November 2026 schedule](/news/rangers-schedule-november-2026-game-times-tv-printable/), and for the team visiting Pittsburgh on Nov. 28, the [Maple Leafs November 2026 schedule](/news/toronto-maple-leafs-schedule-november-2026-game-times-tv-printable/). Other NHL dates this season include the [2027 Winter Classic](/news/nhl-winter-classic-2027-date-time-avalanche-mammoth-salt-lake-city/). Boston's own month is in the [Bruins schedule](/news/boston-bruins-schedule-november-2026-game-times-tv-printable/).
 
 ## Is there a printable Penguins schedule for November 2026?
 

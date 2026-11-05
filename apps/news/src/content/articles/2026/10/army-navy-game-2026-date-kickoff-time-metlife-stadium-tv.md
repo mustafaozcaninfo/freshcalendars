@@ -141,7 +141,7 @@ As reported by The American Legion, Navy beat Army 17-16 in the 126th game on Sa
 
 ## What else is on the calendar before Dec. 12?
 
-[Thanksgiving](/when-is/thanksgiving/) is Thursday, Nov. 26. FBSchedules.com reports that The American Athletic Conference (AAC) championship game is Saturday, Dec. 5, one week before the Army-Navy Game. For other late-season dates, see our stories on the [college football playoff rankings schedule](/news/college-football-playoff-rankings-2026-schedule-dates-times/) and the [Thanksgiving football schedule](/news/thanksgiving-football-schedule-2026-nfl-college-games/). The [Veterans Day 2026](/news/veterans-day-2026-wednesday-november-11/) story covers Wednesday, Nov. 11.
+[Thanksgiving](/when-is/thanksgiving/) is Thursday, Nov. 26. FBSchedules.com reports that The American Athletic Conference (AAC) championship game is Saturday, Dec. 5, one week before the Army-Navy Game. For other late-season dates, see our stories on the [college football playoff rankings schedule](/news/college-football-playoff-rankings-2026-schedule-dates-times/) and the [Thanksgiving football schedule](/news/thanksgiving-football-schedule-2026-nfl-college-games/). Our story on the [Heisman Trophy ceremony](/news/heisman-trophy-2026-ceremony-date-finalists-voting-deadline/) covers another late-season date. The [Veterans Day 2026](/news/veterans-day-2026-wednesday-november-11/) story covers Wednesday, Nov. 11.
 
 ## Free Army-Navy 2026 countdown
 

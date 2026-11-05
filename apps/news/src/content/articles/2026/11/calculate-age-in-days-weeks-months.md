@@ -170,7 +170,7 @@ Microsoft's separate Calculate age page gives years as `=(YEAR(NOW())-YEAR(A2))`
 
 Rules differ by place. The Age of Legal Capacity (Scotland) Act 1991, section 6(2), says: "Where a person has been born on 29th February in a leap year, the relevant anniversary in any year other than a leap year shall be taken to be 1st March." That applies in Scotland only. We found no written rule in U.S. federal law or for England and Wales.
 
-The U.S. Social Security Administration (SSA) uses a general rule in its Program Operations Manual System (POMS), section GN 00302.400, dated 03/04/2026: "An individual attains a particular age on the first moment of the day preceding the anniversary of his/her birth." The section does not mention Feb. 29. Check the rule that governs your form, benefit or contract before relying on either date. Total days lived does not depend on any convention, which is why the table's totals are the safest number to quote.
+The U.S. Social Security Administration (SSA) uses a general rule in its Program Operations Manual System (POMS), section GN 00302.400, dated 03/04/2026: "An individual attains a particular age on the first moment of the day preceding the anniversary of his/her birth." The section does not mention Feb. 29. Check the rule that governs your form, benefit or contract before relying on either date. Total days lived does not depend on any convention, which is why the table's totals are the safest number to quote. Our [leap day birthday rules](/news/leap-day-2028-february-29-next-leap-years/) guide covers the next leap years.
 
 ## Print the age in days worksheet
 

@@ -151,6 +151,6 @@ Eight home games and eight road games make 16 in all, from Nov. 2 to Nov. 30.
 
 ## Is there a printable Bucks schedule for November 2026?
 
-Yes. The one-page sheet lists all 16 November games with the opponent, home or away, CT and ET start times and NBA Cup games, and it has an ink-saver version. Keep it next to the [November 2026 printable calendar](/november-calendars.html) or copy the games into a [printable weekly calendar](/printable-weekly-calendar.html). For another team's month, see our [Celtics schedule for November 2026](/news/celtics-schedule-november-2026-game-times-tv-nba-cup-printable/).
+Yes. The one-page sheet lists all 16 November games with the opponent, home or away, CT and ET start times and NBA Cup games, and it has an ink-saver version. Keep it next to the [November 2026 printable calendar](/november-calendars.html) or copy the games into a [printable weekly calendar](/printable-weekly-calendar.html). For another team's month, see our [Celtics schedule for November 2026](/news/celtics-schedule-november-2026-game-times-tv-nba-cup-printable/), the [Cavaliers schedule](/news/cleveland-cavaliers-schedule-november-2026-game-times-tv-nba-cup-printable/) or the [Mavericks schedule](/news/dallas-mavericks-schedule-november-2026-game-times-tv-nba-cup-printable/).
 
 Because the NBA's schedule is "subject to change," recheck game times on NBA.com before you head out. Results, injuries and tickets are not part of the NBA's schedule and are not covered here.

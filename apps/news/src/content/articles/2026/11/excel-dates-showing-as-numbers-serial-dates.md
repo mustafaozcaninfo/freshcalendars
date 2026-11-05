@@ -129,7 +129,7 @@ Three causes cover most cases. Each has its own fix.
 | The date is stored as text | A date that formatting does not change | Use DATEVALUE(date_text), then format the result as Date |
 | A 1904 workbook was pasted into a 1900 workbook | Dates 1,462 days off | Switch the date system or add 1,462 days |
 
-**Cause 1: the cell format.** Microsoft's "Format numbers as dates or times" page says to press Ctrl+1 to open the Format Cells dialog box, then choose "Date" or "Time" in the Category list. The stored number does not change; only the display does.
+**Cause 1: the cell format.** Microsoft's "Format numbers as dates or times" page says to press Ctrl+1 to open the Format Cells dialog box, then choose "Date" or "Time" in the Category list. The stored number does not change; only the display does. For how countries write the same date differently, see our [date formats by country](/news/date-formats-by-country-mm-dd-dd-mm/) guide.
 
 **Cause 2: a date stored as text.** Microsoft says "The DATEVALUE function converts a date that is stored as text to a serial number that Excel recognizes as a date." The syntax is DATEVALUE(date_text). The result is a serial number, so format that cell as a Date too.
 

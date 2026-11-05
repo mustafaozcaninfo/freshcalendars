@@ -155,7 +155,7 @@ The organiser's own accounts are Instagram (smallbizsatuk), TikTok (@smallbizsat
 | Who runs or supports it | Small Business Saturday UK, "proudly supported by American Express" | American Express founded it in 2010; the SBA has co-sponsored since 2011 |
 | Source | [smallbusinesssaturdayuk.com](https://www.smallbusinesssaturdayuk.com/) | [sba.gov/Saturday](https://www.sba.gov/Saturday) |
 
-In 2025 the UK day was Saturday 6 December, according to GOV.UK. For the US day, see our [Small Business Saturday and Cyber Monday 2026 guide](/news/small-business-saturday-2026-november-28-cyber-monday-november-30/).
+In 2025 the UK day was Saturday 6 December, according to GOV.UK. For the US day, see our [Small Business Saturday and Cyber Monday 2026 guide](/news/small-business-saturday-2026-november-28-cyber-monday-november-30/). To find shops taking part, see our guide to [participating stores and events](/news/small-business-saturday-2026-participating-stores-events/).
 
 ## Countdown for shop owners to 5 December
 
@@ -170,7 +170,7 @@ These steps are our suggestions, counted back from Saturday, December 5, 2026. O
 | Fri., Dec. 4 | Check stock and Saturday opening hours |
 | Sat., Dec. 5 | Post on the day and tag the organiser accounts |
 
-The printable below puts these steps on one page, with room for notes after the day. Mark the date on your [December 2026 printable calendar](/december-calendars.html), and check the [UK holidays](/uk-holidays/) page when planning opening hours. Shops that ship orders can use the [Royal Mail last posting dates](/news/royal-mail-last-posting-dates-christmas-2026-second-class-18-december/). Shoppers planning the weekend can see the [UK Christmas markets dates](/news/uk-christmas-markets-2026-york-bath-cardiff-lincoln-belfast/).
+The printable below puts these steps on one page, with room for notes after the day. Mark the date on your [December 2026 printable calendar](/december-calendars.html), and check the [UK holidays](/uk-holidays/) page when planning opening hours. Shops that ship orders can use the [Royal Mail last posting dates](/news/royal-mail-last-posting-dates-christmas-2026-second-class-18-december/). Shoppers planning the weekend can see the [UK Christmas markets dates](/news/uk-christmas-markets-2026-york-bath-cardiff-lincoln-belfast/). For more United States holiday shopping dates, see our guide to [Green Monday and Super Saturday](/news/green-monday-2026-december-14-super-saturday-december-19/).
 
 ## What the organiser has not announced
 

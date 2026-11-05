@@ -139,4 +139,4 @@ FedSmith reported that the order usually comes in the last two weeks of December
 
 ## What else is open for federal employees?
 
-Federal Benefits Open Season runs alongside this debate; our [open season dates and premiums story](/news/federal-benefits-open-season-2026-dates-fehb-premiums/) has the details. Observed holiday dates for the year are in our [2027 federal holidays list](/news/federal-holidays-2027-observed-dates-list/).
+Federal Benefits Open Season runs alongside this debate; our [open season dates and premiums story](/news/federal-benefits-open-season-2026-dates-fehb-premiums/) has the details. Observed holiday dates for the year are in our [2027 federal holidays list](/news/federal-holidays-2027-observed-dates-list/). The paydays are in our [federal pay period calendar](/news/federal-pay-period-calendar-2027-pay-dates-nfc-gsa-printable/).

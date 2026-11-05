@@ -170,6 +170,6 @@ Alexandra Palace says its "Fireworks & Drone Festival returns on Saturday 7 and 
 
 Saturday 7 November has four displays on the calendar: Morden Park, Blackheath, Battersea Park and Alexandra Palace. Sunday 8 November has Battersea Park and Alexandra Palace. The printable lists each with its gates, fireworks time and ticket note. Add the dates to the [November 2026 printable calendar](/november-calendars.html) or the [printable weekly calendar](/printable-weekly-calendar.html).
 
-Other London dates around the same time include the [Regent Street, Carnaby and Covent Garden Christmas lights switch-ons](/news/london-christmas-lights-switch-on-2026-dates-regent-street-carnaby-covent-garden/) and the [Lord Mayor's Show on 14 November](/news/lord-mayors-show-2026-date-time-route-november-14/).
+Other London dates around the same time include the [Regent Street, Carnaby and Covent Garden Christmas lights switch-ons](/news/london-christmas-lights-switch-on-2026-dates-regent-street-carnaby-covent-garden/) and the [Lord Mayor's Show on 14 November](/news/lord-mayors-show-2026-date-time-route-november-14/). Our guide to [Diwali in the UK](/news/diwali-2026-uk-leicester-diwali-day-8-november-trafalgar-square-cancelled/) covers the Leicester and London events.
 
 Times and prices come from the organisers and can change; we did not check displays other than those above.

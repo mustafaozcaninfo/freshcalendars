@@ -139,7 +139,7 @@ The USNO lists its phase times in UT. The EST conversions below are Fresh Calend
 | Wed., Dec. 23 | Full Moon at 8:28 p.m. EST (01:28 UT on Dec. 24) | USNO |
 | Sat., Dec. 26 | Last day of the active period | AMS |
 
-Mark them on the [December 2026 printable calendar](/december-calendars.html) or the [printable yearly calendar](/printable-yearly-calendar.html). For the December shower that comes first, see our [Geminid meteor shower 2026 story](/news/geminid-meteor-shower-2026-peak-december-13-14-moon-viewing-times/), and for next year's showers the [2027 meteor shower calendar](/news/meteor-showers-2027-calendar-peak-dates-moon-phase-best-nights/).
+Mark them on the [December 2026 printable calendar](/december-calendars.html) or the [printable yearly calendar](/printable-yearly-calendar.html). For the December shower that comes first, see our [Geminid meteor shower 2026 story](/news/geminid-meteor-shower-2026-peak-december-13-14-moon-viewing-times/), and for next year's showers the [2027 meteor shower calendar](/news/meteor-showers-2027-calendar-peak-dates-moon-phase-best-nights/). Our [Leonid meteor shower 2026](/news/leonid-meteor-shower-2026-peak-november-16-17-moon-best-times/) story covers the previous shower of the season.
 
 ## Ursid viewing sheet to print
 

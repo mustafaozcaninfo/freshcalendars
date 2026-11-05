@@ -122,7 +122,7 @@ Yes. Title 5 of the U.S. Code, section 6103, names "Birthday of Martin Luther Ki
 | Federal Reserve | Listed as a holiday | Federal Reserve Board |
 | Banks, post offices, schools, employers | Not confirmed here; check with each one | Not applicable |
 
-OPM sets the federal schedule, and the NYSE says all of its markets observe the U.S. holidays on its list for 2025, 2026 and 2027. The Federal Reserve Board publishes its own holiday dates. Local services decide their own hours, so confirm them with your bank, the United States Postal Service (USPS), your school and your employer.
+OPM sets the federal schedule, and the NYSE says all of its markets observe the U.S. holidays on its list for 2025, 2026 and 2027. The Federal Reserve Board publishes its own holiday dates. Local services decide their own hours, so confirm them with your bank, the United States Postal Service (USPS), your school and your employer. Our guide to [school holidays by district](/news/january-2027-school-holidays-by-district/) lists which districts give the day off.
 
 ## Are national parks free on MLK Day?
 

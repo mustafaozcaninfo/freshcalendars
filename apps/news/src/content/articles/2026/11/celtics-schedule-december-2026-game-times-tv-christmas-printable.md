@@ -129,7 +129,7 @@ NBA.com's Aug. 12, 2026 Group Play release sets the knockout rounds in that span
 
 After the Dec. 13 game at Brooklyn, the schedule has seven straight Celtics home games, from Monday, Dec. 14, through Monday, Dec. 28. The Celtics then close the month on the road at Chicago on Wednesday, Dec. 30, at 7 p.m. local time, which is 8 p.m. ET.
 
-National TV carries three December games: ESPN for Washington on Dec. 16, ABC and ESPN on Christmas Day, and NBC and Peacock for Cleveland on Dec. 28. Our [Celtics schedule November 2026](/news/celtics-schedule-november-2026-game-times-tv-nba-cup-printable/) covers the games that come before.
+National TV carries three December games: ESPN for Washington on Dec. 16, ABC and ESPN on Christmas Day, and NBC and Peacock for Cleveland on Dec. 28. Our [Celtics schedule November 2026](/news/celtics-schedule-november-2026-game-times-tv-nba-cup-printable/) covers the games that come before. For other teams' December games, see the [Golden State Warriors](/news/golden-state-warriors-schedule-december-2026-game-times-tv-christmas-printable/) and [Knicks](/news/knicks-schedule-december-2026-game-times-tv-christmas-printable/) schedules.
 
 ## Printable Celtics schedule for December 2026
 
