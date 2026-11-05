@@ -4,7 +4,7 @@ seoTitle: "Games Leaving Xbox Game Pass Oct. 31, 2026"
 description: "Nine games left Xbox Game Pass on Oct. 31, 2026, per Xbox Wire. Football Manager 26 follows Nov. 10, and five new games are listed for Nov. 2 to 5."
 type: news
 publishedAt: "2026-10-31T03:45:00-04:00"
-updatedAt: "2026-11-01T02:42:00-05:00"
+updatedAt: "2026-11-05T01:32:00-05:00"
 authors: [jessica-hartwell]
 category: gaming-tech
 keywords: ["games leaving xbox game pass october 31 2026", "xbox game pass november 2026", "leaving game pass", "new on game pass this week"]
@@ -44,9 +44,9 @@ hero:
     author: "mliu92"
 summary:
   - "Xbox Wire's Oct. 20, 2026 Game Pass post lists nine games leaving on Saturday, Oct. 31, 2026, each on Cloud, Console and PC."
-  - "Football Manager 26 (PC) and Football Manager 26 - Console Edition leave on Tuesday, Nov. 10."
+  - "Football Manager 26 (PC) and Football Manager 26 - Console Edition leave on Tuesday, Nov. 10. Microsoft gives no removal time."
   - "Xbox Wire's Oct. 30 post lists Gravhounds (Nov. 2), Pit of Goblin (Nov. 3), Football Manager 27 (Nov. 3), Void/Breaker (Nov. 4) and Escape Academy 2: Back 2 School (Nov. 5) with Game Pass labels."
-  - "Microsoft gives no removal time, and the rest of the November 2026 Game Pass lineup is not yet announced."
+  - "Xbox Wire's Nov. 3 post adds eleven more arrivals from Nov. 4 to 17 and a Nov. 15 leaving list of 13 games."
 faq:
   - q: "What time do games leave Xbox Game Pass on Oct. 31, 2026?"
     a: "Xbox Wire gives the date, Saturday, Oct. 31, 2026, and no time of day."
@@ -57,8 +57,12 @@ faq:
   - q: "What is coming to Xbox Game Pass this week?"
     a: "Xbox Wire's Oct. 30 post lists Gravhounds on Nov. 2, Pit of Goblin and Football Manager 27 on Nov. 3, Void/Breaker on Nov. 4 and Escape Academy 2: Back 2 School on Nov. 5."
   - q: "What else is coming to Game Pass in November 2026?"
-    a: "It is not yet announced. Xbox Wire had not published the November 2026 wave 1 post when this story was written."
+    a: "Xbox Wire's Nov. 3, 2026 wave 1 post lists Football Manager 2027 Console, Warhammer Survivors and Tanuki: Pon's Summer on Nov. 10, Hope in the City and Thronefall on Nov. 11, John Carpenter's Toxic Commando on Nov. 12, and Aphelion and Paw Patrol: Dino World on Nov. 17. Thirteen games leave on Nov. 15."
 sources:
+  - title: "Coming to XBOX Game Pass: Escape Academy 2: Back 2 School, Thronefall, Warhammer Survivors, and More"
+    url: "https://news.xbox.com/en-us/2026/11/03/xbox-game-pass-november-2026-wave-1/"
+    publisher: "Xbox Wire"
+    date: "2026-11-03"
   - title: "Coming to Xbox Game Pass: Final Fantasy VII Remake Intergrade, The Séance of Blake Manor, and More"
     url: "https://news.xbox.com/en-us/2026/10/20/xbox-game-pass-october-2026-wave-2/"
     publisher: "Xbox Wire (Microsoft)"
@@ -121,7 +125,7 @@ Xbox Wire's "Leaving October 31" list has nine titles, and all nine are marked "
 
 ## What is coming to Xbox Game Pass on Nov. 2 to 6?
 
-Xbox Wire editor Will Fulton's "Next Week on Xbox" post of Oct. 30 lists five games with a Game Pass label. The labels below are copied from that post; the post does not say which tier carries Gravhounds or Escape Academy 2: Back 2 School, so this story does not either.
+Xbox Wire editor Will Fulton's "Next Week on Xbox" post of Oct. 30 lists five games with a Game Pass label. The labels below are copied from that post; the post does not say which tier carries Gravhounds, so this story does not either. Xbox Wire's Nov. 3 post lists Escape Academy 2: Back 2 School for Game Pass Ultimate and PC Game Pass, "Available on day one" on Nov. 5.
 
 | Game | Date | Xbox Wire label |
 |---|---|---|
@@ -131,7 +135,7 @@ Xbox Wire editor Will Fulton's "Next Week on Xbox" post of Oct. 30 lists five ga
 | Void/Breaker (1.0) | Wed., Nov. 4 | PC Game Pass |
 | Escape Academy 2: Back 2 School | Thu., Nov. 5 | Game Pass |
 
-The Oct. 20 post also lists Pit of Goblin for Cloud, Xbox Series X|S and PC on Nov. 3. For Football Manager 27, Xbox Wire says: "Pre-orders on PC, Game Pass Ultimate, and PC Game Pass will grant early access starting on November 3."
+The Nov. 3 post lists Pit of Goblin as available that day on Cloud, Xbox Series X|S and PC for Game Pass Ultimate, Premium and PC Game Pass, and Football Manager 27 (PC) for Game Pass Ultimate and PC Game Pass, "Available on day one". It also lists Vampire Crawlers: The Turbo Wildcard from Vampire Survivors for Nov. 4 (Cloud, Xbox Series X|S, Handheld, PC) and, for Nov. 5, Firefighting Simulator: Ignite and MySims Cozy Bundle, all with Game Pass labels in the table below. Void/Breaker on Nov. 4 is listed for Ultimate, Premium and PC Game Pass. For Football Manager 27, Xbox Wire says: "Pre-orders on PC, Game Pass Ultimate, and PC Game Pass will grant early access starting on November 3."
 
 ## What leaves and arrives from Oct. 31 to Nov. 10?
 
@@ -152,10 +156,43 @@ The Oct. 20 post also lists Football Manager 26 (PC) and Football Manager 26 - C
 
 Xbox Wire said on April 21, 2026 that Game Pass Ultimate drops from $29.99 to $22.99 a month and that PC Game Pass drops from $16.49 to $13.99 a month. The tier names on xbox.com are Essential, Premium, Ultimate and PC Game Pass. This story has no Essential or Premium prices because the sources above do not give them.
 
-## What is in the rest of the November 2026 Game Pass lineup?
+## Coming to Game Pass Nov. 10 to 17, 2026
 
-Not yet announced. Xbox Wire had not published the November 2026 wave 1 post when this story was written, and any other November additions are unconfirmed. For the other big console subscription, see our [PlayStation Plus November 2026 games](/news/playstation-plus-november-2026-games-dead-island-2-tomb-raider-monster-train-2/) story, and for PC sale dates see the [Steam Winter Sale 2026 calendar](/news/steam-winter-sale-2026-dates-december-17-steam-sale-calendar-2027/). For a big release date, see the [Grand Theft Auto (GTA) 6 countdown](/news/gta-6-countdown-release-time-by-time-zone/).
+Xbox Wire's Nov. 3 post lists these titles. "Day one" means the post marks it "Available on day one".
 
-## Print the Xbox Game Pass dates for Oct. 31 to Nov. 10
+| Game | Date | Tiers listed | Day one |
+|---|---|---|---|
+| Football Manager 2027 Console | Tue., Nov. 10 | Ultimate, PC Game Pass | Yes |
+| Warhammer Survivors | Tue., Nov. 10 | Ultimate, PC Game Pass | Yes |
+| Tanuki: Pon's Summer | Tue., Nov. 10 | Ultimate, PC Game Pass | Yes |
+| Hope in the City | Wed., Nov. 11 | Ultimate, PC Game Pass | Yes |
+| Thronefall | Wed., Nov. 11 | Ultimate, Premium, PC Game Pass | No label |
+| John Carpenter's Toxic Commando | Thu., Nov. 12 | Ultimate, Premium, PC Game Pass | No label |
+| Aphelion | Tue., Nov. 17 | Premium (new), Ultimate, PC Game Pass | No label |
+| Paw Patrol: Dino World | Tue., Nov. 17 | Ultimate, Premium, PC Game Pass | No label |
 
-The printable lists every leaving and arriving date above on one US Letter page, with a Done column to tick off as you finish games. Pair it with the [November 2026 printable calendar](/november-calendars.html), the [October 2026 printable calendar](/october-calendars.html) or the [printable weekly calendar](/printable-weekly-calendar.html) to plan play sessions.
+Game Pass Essential adds Banjo Kazooie, Banjo Tooie, Banjo Kazooie: Nuts & Bolts, Gears of War: Judgement, Halo: Spartan Assault, Perfect Dark, Viva Piñata and one more Viva Piñata title to its library on Nov. 15, per the same post.
+
+## Which games leave Game Pass on Nov. 15, 2026?
+
+This is a separate list from the Oct. 31 exits above. Xbox Wire's Nov. 3 post says "The following games are leaving the Game Pass library soon" under "Leaving November 15":
+
+- 1000xResist
+- Barbie Horse Trails
+- Dragon Ball Xenoverse 2
+- Firefighting Simulator - The Squad
+- GoldenEye 007 (Cloud, Console)
+- Great God Grove
+- Moonlighter
+- Pigeon Simulator
+- Police Simulator: Patrol Officers
+- Relic Hunters Legend
+- Total Chaos
+- Winter Burrow
+- Wreckfest
+
+For the other big console subscription, see our [PlayStation Plus November 2026 games](/news/playstation-plus-november-2026-games-dead-island-2-tomb-raider-monster-train-2/) story, and for PC sale dates see the [Steam Winter Sale 2026 calendar](/news/steam-winter-sale-2026-dates-december-17-steam-sale-calendar-2027/). For a big release date, see the [Grand Theft Auto (GTA) 6 countdown](/news/gta-6-countdown-release-time-by-time-zone/).
+
+## Print the Xbox Game Pass arrivals and exits for Oct. 31 to Nov. 17
+
+The printable lists every leaving date above and the arrivals with platforms, tiers and day-one labels, on three US Letter pages with tick boxes for games you own. Gravhounds is left off because the sources here give no platform for it. Pair it with the [November 2026 printable calendar](/november-calendars.html), the [October 2026 printable calendar](/october-calendars.html) or the [printable weekly calendar](/printable-weekly-calendar.html) to plan play sessions.

@@ -4,7 +4,7 @@ seoTitle: "College Football Week 11 Schedule 2026: Times, TV"
 description: "College football Saturday, Nov. 7, 2026: Miami at Notre Dame is at 7:30 p.m. Eastern Time (ET) on NBC, per ESPN. Game times, TV and a pick'em sheet."
 type: news
 publishedAt: "2026-11-01T01:22:00-05:00"
-updatedAt: "2026-11-02T14:10:00-05:00"
+updatedAt: "2026-11-05T01:32:00-05:00"
 authors: [jessica-hartwell]
 category: sports
 keywords: ["college football week 11 schedule 2026", "college football games Nov 7 2026", "Miami Notre Dame time", "college football TV schedule Saturday"]
@@ -14,34 +14,34 @@ assets:
   date: "2026-11-07"
   card: { top: "Miami at Notre Dame", big: "7:30 p.m. ET", bottom: "NBC and Peacock" }
   printable:
+    kit: watch-guide
     slug: college-football-week-11-pick-em-sheet-2026
     group: college-football-week-11-2026
     title: "College Football Week 11 Viewing and Pick'em Sheet 2026"
-    subtitle: "16 games with a ranked team, Sat., Nov. 7. All times Eastern (ET). Write your pick and the score."
-    columns: ["Kickoff (ET)", "Game and network · Pick · Score"]
-    layout: list
-    rows:
-      - ["Sat., Nov. 7 · 12:00 p.m.", "BYU at Utah (ABC)  Pick: ______  Score: ______"]
-      - ["Sat., Nov. 7 · 12:00 p.m.", "Texas at Missouri (ESPN)  Pick: ______  Score: ______"]
-      - ["Sat., Nov. 7 · 12:00 p.m.", "Oklahoma State at Kansas State (TNT)  Pick: ______  Score: ______"]
-      - ["Sat., Nov. 7 · 12:30 p.m.", "Rutgers at Wisconsin (BTN)  Pick: ______  Score: ______"]
-      - ["Sat., Nov. 7 · 3:30 p.m.", "Oregon at Ohio State (CBS)  Pick: ______  Score: ______"]
-      - ["Sat., Nov. 7 · 3:30 p.m.", "Alabama at LSU (ABC)  Pick: ______  Score: ______"]
-      - ["Sat., Nov. 7 · 3:30 p.m.", "Merrimack at Wake Forest (ACC Network)  Pick: ______  Score: ______"]
-      - ["Sat., Nov. 7 · 6:00 p.m.", "Boise State at Colorado State (USA)  Pick: ______  Score: ______"]
-      - ["Sat., Nov. 7 · 6:15 p.m.", "Kentucky at Tennessee (ESPN)  Pick: ______  Score: ______"]
-      - ["Sat., Nov. 7 · 7:30 p.m.", "Miami at Notre Dame (NBC)  Pick: ______  Score: ______"]
-      - ["Sat., Nov. 7 · 7:30 p.m.", "Georgia at Ole Miss (ABC)  Pick: ______  Score: ______"]
-      - ["Sat., Nov. 7 · 7:45 p.m.", "Oklahoma at Florida (SEC Network)  Pick: ______  Score: ______"]
-      - ["Sat., Nov. 7 · 9:30 p.m.", "West Virginia at Texas Tech (ESPN)  Pick: ______  Score: ______"]
-      - ["Sat., Nov. 7 · Time TBA", "UCLA at Minnesota (TBA)  Pick: ______  Score: ______"]
-      - ["Sat., Nov. 7 · Time TBA", "Cincinnati at Houston (TBA)  Pick: ______  Score: ______"]
-      - ["Sat., Nov. 7 · Time TBA", "Iowa at Northwestern (TBA)  Pick: ______  Score: ______"]
-      - ["Tiebreaker · Sat., Nov. 7", "Total points, Miami at Notre Dame: ______"]
-    note: "Source: ESPN college football schedule (checked Nov. 1, 2026) and FBSchedules TV selections for Nov. 7, 2026. Times can change; check ESPN."
-    inkSaver: true
+    subtitle: "16 games with a ranked team, Sat., Nov. 7. Write your pick and the score."
+    note: "Source: ESPN college football schedule (times checked Nov. 5, 2026). Times can change; check ESPN."
     description: "A one-page college football Week 11 2026 sheet with 16 Nov. 7 games, Eastern Time kickoffs, TV networks, blanks for picks and scores, and a tiebreaker line."
     alt: "Printable college football Week 11 2026 pick'em sheet listing 16 Nov. 7 games with kickoff, network and blanks for picks and scores"
+    data:
+      pick: "My pick and score"
+      fill: { title: "Tiebreaker", labels: ["Total points, Miami at Notre Dame"] }
+      events:
+        - { start: "2026-11-07T12:00-05:00", title: "BYU at Utah", channel: "ABC", src: 1 }
+        - { start: "2026-11-07T12:00-05:00", title: "Texas at Missouri", channel: "ESPN", src: 1 }
+        - { start: "2026-11-07T12:00-05:00", title: "UCLA at Minnesota", channel: "FOX", src: 1 }
+        - { start: "2026-11-07T13:00-05:00", title: "Oklahoma State at Kansas State", channel: "TNT", src: 1 }
+        - { start: "2026-11-07T15:30-05:00", title: "Oregon at Ohio State", channel: "CBS", stream: "Paramount+", src: 1 }
+        - { start: "2026-11-07T15:30-05:00", title: "Alabama at LSU", channel: "ABC", src: 1 }
+        - { start: "2026-11-07T15:30-05:00", title: "Merrimack at Wake Forest", channel: "ACC Network", src: 1 }
+        - { start: "2026-11-07T15:30-05:00", title: "Cincinnati at Houston", channel: "FOX", src: 1 }
+        - { start: "2026-11-07T16:15-05:00", title: "Rutgers at Wisconsin", channel: "BTN", src: 1 }
+        - { start: "2026-11-07T18:00-05:00", title: "Boise State at Colorado State", channel: "USA Network", src: 1 }
+        - { start: "2026-11-07T18:15-05:00", title: "Kentucky at Tennessee", channel: "ESPN", src: 1 }
+        - { start: "2026-11-07T19:30-05:00", title: "Miami at Notre Dame", channel: "NBC", stream: "Peacock", src: 1 }
+        - { start: "2026-11-07T19:30-05:00", title: "Georgia at Ole Miss", channel: "ABC", src: 1 }
+        - { start: "2026-11-07T19:30-05:00", title: "Iowa at Northwestern", channel: "FOX", src: 1 }
+        - { start: "2026-11-07T19:45-05:00", title: "Oklahoma at Florida", channel: "SEC Network", src: 1 }
+        - { start: "2026-11-07T21:30-05:00", title: "West Virginia at Texas Tech", channel: "ESPN", src: 1 }
 hero:
   src: ../../../../assets/news/college-football-week-11-schedule-2026-miami-notre-dame-game-times-tv/college-football-week-11-schedule-2026-miami-notre-dame-game-times-tv.webp
   alt: "College football Week 11 schedule 2026: Notre Dame Stadium lit at night, where Miami visits Notre Dame on Nov. 7"
@@ -55,16 +55,14 @@ hero:
     authorUrl: "https://commons.wikimedia.org/wiki/User:Eccekevin"
 summary:
   - "Miami at Notre Dame kicks off at 7:30 p.m. Eastern Time (ET) on Saturday, Nov. 7, 2026, on NBC and Peacock, according to ESPN's schedule."
-  - "ESPN lists 16 games with a team ranked in the Oct. 25 Associated Press (AP) poll, 13 with times and 3 still to be announced."
+  - "ESPN lists 16 games with a team ranked in the Oct. 25 Associated Press (AP) poll, all 16 with times and networks as of Nov. 5."
   - "Oregon at Ohio State is at 3:30 p.m. ET on CBS, and Alabama at LSU is at 3:30 p.m. ET on the American Broadcasting Company (ABC)."
   - "The first College Football Playoff (CFP) rankings are scheduled for Tuesday, Nov. 3, and the second for Tuesday, Nov. 10, per the schedule FBSchedules reported."
 faq:
   - q: "What time is Miami at Notre Dame on Nov. 7, 2026?"
     a: "7:30 p.m. ET at Notre Dame Stadium, on NBC and Peacock, per ESPN. By our conversion that is 6:30 p.m. Central Time (CT), 5:30 p.m. Mountain Time (MT) and 4:30 p.m. Pacific Time (PT)."
   - q: "What time do the first college football games start on Nov. 7?"
-    a: "ESPN lists three noon ET games with a ranked team: BYU at Utah on ABC, Texas at Missouri on ESPN and Oklahoma State at Kansas State on TNT. Rutgers at Wisconsin follows at 12:30 p.m. ET on Big Ten Network (BTN)."
-  - q: "Which games on Nov. 7 do not have a time yet?"
-    a: "ESPN shows no time or network for UCLA at Minnesota, Cincinnati at Houston and Iowa at Northwestern. FBSchedules lists 12 p.m., 3:30 p.m. and 7:30 p.m. ET on FOX for them, which ESPN has not confirmed."
+    a: "ESPN lists three noon ET games with a ranked team: BYU at Utah on ABC, Texas at Missouri on ESPN and UCLA at Minnesota on FOX. Oklahoma State at Kansas State follows at 1:00 p.m. ET on TNT."
   - q: "Is Indiana playing on Nov. 7?"
     a: "Not in ESPN's schedule. Indiana, No. 4 in the Oct. 25 AP poll, has no game listed for Nov. 7."
   - q: "When are the College Football Playoff rankings this week?"
@@ -73,7 +71,7 @@ sources:
   - title: "College football schedule, Week 11, 2026"
     url: "https://www.espn.com/college-football/schedule/_/week/11/year/2026/seasontype/2"
     publisher: "ESPN"
-    date: "2026-11-01"
+    date: "2026-11-05"
   - title: "College football schedule, TV selections for November 7, 2026"
     url: "https://fbschedules.com/college-football-schedule-tv-selections-for-november-7-2026/"
     publisher: "FBSchedules"
@@ -100,44 +98,36 @@ downloads:
     pdf: "/news/downloads/college-football-week-11-2026/college-football-week-11-pick-em-sheet-2026.pdf"
     png: "/news/downloads/college-football-week-11-2026/college-football-week-11-pick-em-sheet-2026.png"
     pages: 1
-  - group: "College Football Week 11 Viewing and Pick'em Sheet 2026 printables"
-    title: "College Football Week 11 Viewing and Pick'em Sheet 2026 (ink saver)"
-    description: "A one-page college football Week 11 2026 sheet with 16 Nov. 7 games, Eastern Time kickoffs, TV networks, blanks for picks and scores, and a tiebreaker line. Ink-saver version."
-    preview: ../../../../assets/news/college-football-week-11-2026/college-football-week-11-pick-em-sheet-2026-ink.png
-    alt: "Printable college football Week 11 2026 pick'em sheet listing 16 Nov. 7 games with kickoff, network and blanks for picks and scores, ink-saver version"
-    pdf: "/news/downloads/college-football-week-11-2026/college-football-week-11-pick-em-sheet-2026-ink.pdf"
-    png: "/news/downloads/college-football-week-11-2026/college-football-week-11-pick-em-sheet-2026-ink.png"
-    pages: 1
 related: [college-football-week-10-schedule-2026-halloween-top-25-game-times-tv, college-football-playoff-rankings-2026-schedule-dates-times, college-football-conference-championship-games-2026-schedule-times-tv]
 draft: false
 ---
 
-**Miami at Notre Dame kicks off at 7:30 p.m. Eastern Time (ET) on Saturday, Nov. 7, 2026, on NBC and Peacock, according to ESPN's Week 11 schedule.** ESPN lists 16 games with a ranked team that day, 13 with times and 3 still to be announced (TBA). Below: every game with its channel, a Central, Mountain and Pacific time table, the weeknight and Friday games, and a one-page pick'em sheet.
+**Miami at Notre Dame kicks off at 7:30 p.m. Eastern Time (ET) on Saturday, Nov. 7, 2026, on NBC and Peacock, according to ESPN's Week 11 schedule.** ESPN lists 16 games with a ranked team that day, all with times and networks as of Nov. 5. Below: every game with its channel, a Central, Mountain and Pacific time table, the weeknight and Friday games, and a one-page pick'em sheet.
 
 ## What is the college football schedule for Saturday, Nov. 7, 2026?
 
-Rankings are the Associated Press (AP) Top 25 of Oct. 25, 2026, as shown on ESPN; a newer AP poll was due Sunday, Nov. 1, so current ranks may differ from the ones here. Times are ET from ESPN's schedule, which was checked on Nov. 1. FBSchedules' TV selections for Nov. 7 agree where ESPN has a time, and add a likely time and channel for three games ESPN has not set. The American Broadcasting Company (ABC), CBS, NBC, FOX, ESPN, Turner Network Television (TNT), USA Network, Big Ten Network (BTN), Atlantic Coast Conference (ACC) Network and Southeastern Conference (SEC) Network carry them.
+Rankings are the Associated Press (AP) Top 25 of Oct. 25, 2026, as shown on ESPN; a newer AP poll was due Sunday, Nov. 1, so current ranks may differ from the ones here. Times are ET from ESPN's schedule, which was checked on Nov. 5. ESPN now lists University of California, Los Angeles (UCLA) at Minnesota, Cincinnati at Houston and Iowa at Northwestern on FOX, matching the FBSchedules TV selections for Nov. 7. The American Broadcasting Company (ABC), CBS, NBC, FOX, ESPN, Turner Network Television (TNT), USA Network, Big Ten Network (BTN), Atlantic Coast Conference (ACC) Network and Southeastern Conference (SEC) Network carry them.
 
 | Kickoff (ET) | TV | Game (Oct. 25 rank) | Stadium |
 |---|---|---|---|
 | 12:00 p.m. | ABC | (8) Brigham Young University (BYU) at (6) Utah | Rice-Eccles Stadium, Salt Lake City |
 | 12:00 p.m. | ESPN | (11) Texas at (23) Missouri | Memorial Stadium (Faurot Field), Columbia, Mo. |
-| 12:00 p.m. | TNT | (24) Oklahoma State at Kansas State | Bill Snyder Family Stadium, Manhattan, Kan. |
-| 12:30 p.m. | BTN | Rutgers at (25) Wisconsin | Camp Randall Stadium, Madison |
+| 12:00 p.m. | FOX | (7) University of California, Los Angeles (UCLA) at Minnesota | Huntington Bank Stadium, Minneapolis |
+| 1:00 p.m. | TNT | (24) Oklahoma State at Kansas State | Bill Snyder Family Stadium, Manhattan, Kan. |
 | 3:30 p.m. | CBS | Oregon at (2) Ohio State | Ohio Stadium, Columbus |
 | 3:30 p.m. | ABC | (10) Alabama at (15) Louisiana State University (LSU) | Tiger Stadium, Baton Rouge |
 | 3:30 p.m. | ACC Network | Merrimack at (14) Wake Forest | Allegacy Federal Credit Union Stadium, Winston-Salem |
+| 3:30 p.m. | FOX | Cincinnati at (18) Houston | Texas Dow Employees Credit Union (TDECU) Stadium, Houston |
+| 4:15 p.m. | BTN | Rutgers at (25) Wisconsin | Camp Randall Stadium, Madison |
 | 6:00 p.m. | USA Network | (20) Boise State at Colorado State | Canvas Stadium, Fort Collins |
 | 6:15 p.m. | ESPN | (9) Kentucky at (16) Tennessee | Neyland Stadium, Knoxville |
 | 7:30 p.m. | NBC | (1) Miami at (5) Notre Dame | Notre Dame Stadium, Notre Dame, Ind. |
 | 7:30 p.m. | ABC | (3) Georgia at (12) Ole Miss | Vaught-Hemingway Stadium, Oxford, Miss. |
+| 7:30 p.m. | FOX | Iowa at (20) Northwestern | Ryan Field, Evanston, Ill. |
 | 7:45 p.m. | SEC Network | Oklahoma at (17) Florida | Ben Hill Griffin Stadium, Gainesville |
 | 9:30 p.m. | ESPN | West Virginia at (13) Texas Tech | Galaxy Stadium (as ESPN lists it), Lubbock |
-| Time TBA | TBA | (7) University of California, Los Angeles (UCLA) at Minnesota | Huntington Bank Stadium, Minneapolis |
-| Time TBA | TBA | Cincinnati at (18) Houston | Texas Dow Employees Credit Union (TDECU) Stadium, Houston |
-| Time TBA | TBA | Iowa at (20) Northwestern | Ryan Field, Evanston, Ill. |
 
-Some listings are not final. For UCLA at Minnesota, ESPN shows no time or network yet; FBSchedules lists 12 p.m. on FOX, not yet confirmed by ESPN. For Cincinnati at Houston, FBSchedules lists 3:30 p.m. on FOX, and for Iowa at Northwestern 7:30 p.m. on FOX, both unconfirmed. Boise State and Northwestern are tied at No. 20 in the poll. Indiana, No. 4, has no game on Nov. 7 in ESPN's schedule, and Southern Methodist University (SMU) and Arizona play Friday (below). ESPN lists Florida as the home team against Oklahoma in Gainesville.
+Boise State and Northwestern are tied at No. 20 in the poll. Indiana, No. 4, has no game on Nov. 7 in ESPN's schedule, and Southern Methodist University (SMU) and Arizona play Friday (below). ESPN lists Florida as the home team against Oklahoma in Gainesville.
 
 ## What time is each Nov. 7 window in my time zone?
 
@@ -146,8 +136,9 @@ The Central, Mountain and Pacific columns are our conversion from the ET times o
 | Window | ET | CT | MT | PT |
 |---|---|---|---|---|
 | Noon games | 12:00 p.m. | 11:00 a.m. | 10:00 a.m. | 9:00 a.m. |
-| Wisconsin game | 12:30 p.m. | 11:30 a.m. | 10:30 a.m. | 9:30 a.m. |
+| Oklahoma State game | 1:00 p.m. | 12:00 p.m. | 11:00 a.m. | 10:00 a.m. |
 | Afternoon games | 3:30 p.m. | 2:30 p.m. | 1:30 p.m. | 12:30 p.m. |
+| Wisconsin game | 4:15 p.m. | 3:15 p.m. | 2:15 p.m. | 1:15 p.m. |
 | Boise State game | 6:00 p.m. | 5:00 p.m. | 4:00 p.m. | 3:00 p.m. |
 | Kentucky at Tennessee | 6:15 p.m. | 5:15 p.m. | 4:15 p.m. | 3:15 p.m. |
 | Prime-time games | 7:30 p.m. | 6:30 p.m. | 5:30 p.m. | 4:30 p.m. |
@@ -203,4 +194,4 @@ According to the schedule FBSchedules reported on Aug. 6, 2026, the first Colleg
 
 ## Is there a printable pick'em sheet for Week 11?
 
-Yes. The one-page sheet lists all 16 Nov. 7 games in kickoff order, with the network, blanks for your pick and the score, and a tiebreaker line for total points in Miami at Notre Dame. The three games without a time are marked TBA. It follows our [Week 10 sheet](/news/college-football-week-10-schedule-2026-halloween-top-25-game-times-tv/). Keep it beside the [November 2026 printable calendar](/november-calendars.html) or a [printable weekly calendar](/printable-weekly-calendar.html). Times can change; check ESPN on game day.
+Yes. The one-page sheet lists all 16 Nov. 7 games in kickoff order, with the network, blanks for your pick and the score, and a tiebreaker line for total points in Miami at Notre Dame. It follows our [Week 10 sheet](/news/college-football-week-10-schedule-2026-halloween-top-25-game-times-tv/). Keep it beside the [November 2026 printable calendar](/november-calendars.html) or a [printable weekly calendar](/printable-weekly-calendar.html). Times can change; check ESPN on game day.
