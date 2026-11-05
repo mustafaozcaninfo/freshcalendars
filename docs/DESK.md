@@ -21,7 +21,7 @@ One category, one editor, one writer account: the byline is the editor who owns 
 
 **CURRENT PHASE: 1**
 
-**SPRINT, Nov. 4 and Nov. 5, 2026 (owner's decision, extended on Nov. 4; ends Nov. 5 at 11:59 p.m. ET):** every writer run, scheduled or started by hand, writes up to 6 new stories from its queue (as many as its usage allows), and the daily totals and the 36 ceiling below do not apply during the sprint. Everything else stays: the claim rule, information gain, sources, one pull request per run. From Nov. 6 the phase line above applies again.
+**SPRINT ENDED on Nov. 4, 2026 (owner's decision on Nov. 5: too many stories in a burst risks a Google penalty).** The phase line above applies again today: 2 new stories per writer run, 24 new a day for the desk. Update items (`upd-`) are not new stories and continue at the normal pace.
 
 | Phase | Per writer run | Per writer per day (4 runs) | Desk total per day (3 writers) | Starts |
 |---|---|---|---|---|
