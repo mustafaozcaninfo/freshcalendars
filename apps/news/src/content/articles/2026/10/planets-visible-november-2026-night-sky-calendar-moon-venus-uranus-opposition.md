@@ -150,7 +150,7 @@ Jupiter and Mars are the other pair to find. The Moon, a day past last quarter, 
 
 ## Can I see Mercury, Saturn and Neptune?
 
-Mercury passes between Earth and the Sun on Nov. 4, so it is lost in the glare. It then moves into the morning sky after about Nov. 10 and reaches its greatest western elongation, 19.6° from the Sun, at about 7 p.m. on Nov. 20. The best view is before dawn on Nov. 20-22, at about magnitude -0.1 to -0.7 in late November.
+Mercury passes between Earth and the Sun on Nov. 4, so it is lost in the glare. It then moves into the morning sky after about Nov. 10 and reaches its greatest western elongation, 19.6° from the Sun, at about 7 p.m. on Nov. 20. The best view is before dawn on Nov. 20-22, at about magnitude -0.1 to -0.7 in late November. Our guide to [Mercury retrograde](/news/mercury-retrograde-2026-ends-november-13-dates-times-2027/) lists every date and time through 2027.
 
 Saturn is in the evening sky, 151° from the Sun on Nov. 1 and 120° by Nov. 30, at magnitude +0.5 to +0.6. It is best in the early evening in the south. Neptune is also an evening planet but shines at only magnitude 7.7, so it needs binoculars or a telescope; the Moon passes about 4.4° from it on Nov. 20.
 

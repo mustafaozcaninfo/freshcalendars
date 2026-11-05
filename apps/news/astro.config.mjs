@@ -1,3 +1,4 @@
+import { createHash } from "node:crypto";
 import { copyFile, mkdir, readFile, readdir, rename, rm, writeFile } from "node:fs/promises";
 import path from "node:path";
 import { fileURLToPath } from "node:url";
@@ -70,6 +71,20 @@ async function pruneUnusedImages(out) {
  * Output goes to dist/news (outside dist/site, which the calendar generator wipes)
  * and is deployed on its own to public_html/news/. See docs/NEWS-ROADMAP.md.
  */
+/** "/news/downloads/<path>" -> first 16 hex digits of the file's SHA-256, for every file under dir. */
+async function downloadVersions(dir) {
+  const out = {};
+  const walk = async (d) => {
+    for (const e of await readdir(d, { withFileTypes: true }).catch(() => [])) {
+      const p = path.join(d, e.name);
+      if (e.isDirectory()) await walk(p);
+      else out[`/news/downloads/${path.relative(dir, p).split(path.sep).join("/")}`] = createHash("sha256").update(await readFile(p)).digest("hex").slice(0, 16);
+    }
+  };
+  await walk(dir);
+  return out;
+}
+
 /** Printable PDFs: document properties, top link and the nginx canonical map (src/lib/pdf-meta.mjs). */
 const stampPrintables = {
   name: "stamp-printables",
@@ -81,6 +96,11 @@ const stampPrintables = {
       const n = await stampPdfs(out, JSON.parse(await readFile(json, "utf8")), path.join(data, "pdf-canonical.map"));
       await rm(json);
       logger.info(`stamped ${n} printable PDFs`);
+      // Content hash of every printable, after stamping: the Worker's edge cache keys on it, so a
+      // regenerated file gets a new cache entry on the deploy that ships it (cloudflare/worker.js).
+      const files = await downloadVersions(path.join(out, "downloads"));
+      await writeFile(path.join(data, "download-versions.json"), JSON.stringify(files));
+      logger.info(`hashed ${Object.keys(files).length} printable files`);
     },
   },
 };

@@ -56,7 +56,7 @@ internalLinks:
     label: "April 2027 printable calendar"
   - href: "/january-calendars.html"
     label: "January 2027 printable calendar"
-related: [w2-1099-deadline-2027-february-1-irs-due-dates, when-does-tax-season-start-2027-irs-filing-opening-date, child-tax-credit-2026-2200-per-child-refundable-actc]
+related: [w2-1099-deadline-2027-february-1-irs-due-dates, when-does-tax-season-start-2027-irs-filing-opening-date, deadline-falls-on-weekend-rules-irs-courts-agencies]
 downloads:
   - group: "Tax calendar printable"
     title: "2027 Federal Tax Calendar"

@@ -42,7 +42,7 @@ internalLinks:
     label: "October printable calendars"
   - href: "/april-calendars.html"
     label: "April printable calendars"
-related: [passover-2027-holi-2027-dates-sundown-times, hanukkah-2026-dates-calendar, easter-2027-march-28-good-friday-easter-monday-whats-open]
+related: [passover-2027-holi-2027-dates-sundown-times, hebrew-calendar-5787-leap-year-adar-i-adar-ii, hanukkah-2026-dates-calendar]
 faq:
   - q: "When is Rosh Hashanah 2027?"
     a: "It begins at sundown on Friday, Oct. 1, 2027, and ends at nightfall on Sunday, Oct. 3, according to Hebcal. The first full day is Saturday, Oct. 2 (1 Tishrei 5788)."

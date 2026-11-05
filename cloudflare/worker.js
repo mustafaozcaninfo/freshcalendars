@@ -1,6 +1,7 @@
 // freshcalendars.com on Cloudflare Workers. Pages, feeds and sitemaps are static assets (dist/cf/public,
 // built by cloudflare/assemble.mjs) and never reach this code. The Worker only runs for:
-//   - /news/downloads/*  printables, read from R2 with the story canonical as a Link header;
+//   - /news/downloads/*  printables, read from R2 with the story canonical as a Link header, and kept
+//                        in the edge cache under their content hash (a new file, a new entry);
 //   - /api/contact       the contact form (Turnstile, then email to the owner and a copy in R2);
 //   - anything no file answers: old calendar URLs (301) or the site's 404 page.
 // Its cron trigger starts the timed GitHub Actions jobs (cron.js).
@@ -8,11 +9,14 @@
 import { legacyRedirect } from "./legacy-redirects.js";
 import { scheduled } from "./cron.js";
 import PDF_CANONICAL from "../dist/cf/pdf-canonical.json";
+import DOWNLOAD_VERSIONS from "../dist/cf/download-versions.json";
 import NEWS_REDIRECTS from "../dist/cf/news-redirects.json";
 
 const HTML_CACHE = "public, max-age=300, stale-while-revalidate=3600";
 const NEWS_CACHE = "public, max-age=300, stale-while-revalidate=600";
 const DOWNLOAD_CACHE = "public, max-age=86400, stale-while-revalidate=604800";
+/** How long the edge keeps a printable: the key holds its content hash, so a changed file never hits an old entry. */
+const EDGE_TTL = "public, max-age=2592000";
 const SUBJECTS = ["general", "download", "licensing", "other"];
 
 export default {
@@ -22,7 +26,7 @@ export default {
     const path = url.pathname;
     try {
       if (path === "/api/contact" || path === "/api/contact.php") return await contact(request, env, ctx);
-      if (path.startsWith("/news/downloads/")) return await download(request, env, path);
+      if (path.startsWith("/news/downloads/")) return await download(request, env, path, ctx);
       const target = legacyRedirect(path, url.search);
       if (target) return Response.redirect(target, 301);
       return await notFound(request, env, path);
@@ -43,8 +47,36 @@ async function notFound(request, env, path) {
   return new Response(request.method === "HEAD" ? null : page.body, { status: 404, headers });
 }
 
-/** Printables live in R2 under the same path; PDFs name their story as canonical (pdf-meta.mjs). */
-async function download(request, env, path) {
+/** Response headers for a printable: type and validators from R2, our cache policy, the story canonical. */
+function downloadHeaders(object, path) {
+  const headers = new Headers();
+  object.writeHttpMetadata(headers);
+  headers.set("ETag", object.httpEtag);
+  headers.set("Last-Modified", object.uploaded.toUTCString());
+  headers.set("Accept-Ranges", "bytes");
+  headers.set("Cache-Control", DOWNLOAD_CACHE);
+  headers.set("CDN-Cache-Control", "public, max-age=2592000");
+  const canonical = PDF_CANONICAL[path];
+  if (canonical) headers.set("Link", `<${canonical}>; rel="canonical"`);
+  return headers;
+}
+
+/** 304 when the client already holds this version (If-None-Match), else null. */
+function notModified(request, headers) {
+  const inm = request.headers.get("If-None-Match");
+  if (!inm || !headers.get("ETag")) return null;
+  const tags = inm.split(",").map((t) => t.trim().replace(/^W\//, ""));
+  return tags.includes("*") || tags.includes(headers.get("ETag")) ? new Response(null, { status: 304, headers }) : null;
+}
+
+/**
+ * Printables live in R2 under the same path; PDFs name their story as canonical (pdf-meta.mjs).
+ * Whole-file GETs are answered from the edge cache, keyed by the file's content hash
+ * (download-versions.json, written by the news build), so after the first reader in a region
+ * the file no longer goes back to R2. Range and HEAD requests, and files the build did not
+ * hash, read R2 directly as before.
+ */
+async function download(request, env, path, ctx) {
   const moved = NEWS_REDIRECTS[path];
   if (moved) return Response.redirect(new URL(moved, request.url).href, 301);
   if (request.method !== "GET" && request.method !== "HEAD") {
@@ -56,21 +88,35 @@ async function download(request, env, path) {
   } catch {
     return notFound(request, env, path);
   }
+
+  const version = DOWNLOAD_VERSIONS[path];
+  if (version && request.method === "GET" && !request.headers.has("Range") && typeof caches !== "undefined") {
+    const cacheKey = new Request(new URL(`${path}?v=${version}`, request.url).href);
+    const hit = await caches.default.match(cacheKey);
+    if (hit) {
+      const headers = new Headers(hit.headers);
+      headers.set("Cache-Control", DOWNLOAD_CACHE);
+      headers.set("X-Edge-Cache", "HIT");
+      return notModified(request, headers) ?? new Response(hit.body, { headers });
+    }
+    const object = await env.CDN.get(key);
+    if (!object) return notFound(request, env, path);
+    const headers = downloadHeaders(object, path);
+    headers.set("Content-Length", String(object.size));
+    const stored = new Headers(headers);
+    stored.set("Cache-Control", EDGE_TTL);
+    const [forCache, forClient] = object.body.tee();
+    ctx?.waitUntil(caches.default.put(cacheKey, new Response(forCache, { headers: stored })));
+    headers.set("X-Edge-Cache", "MISS");
+    return notModified(request, headers) ?? new Response(forClient, { headers });
+  }
+
   const object = request.method === "HEAD"
     ? await env.CDN.head(key)
     : await env.CDN.get(key, { onlyIf: request.headers, range: request.headers });
   if (!object) return notFound(request, env, path);
 
-  const headers = new Headers();
-  object.writeHttpMetadata(headers);
-  headers.set("ETag", object.httpEtag);
-  headers.set("Last-Modified", object.uploaded.toUTCString());
-  headers.set("Accept-Ranges", "bytes");
-  headers.set("Cache-Control", DOWNLOAD_CACHE);
-  headers.set("CDN-Cache-Control", "public, max-age=2592000");
-  const canonical = PDF_CANONICAL[path];
-  if (canonical) headers.set("Link", `<${canonical}>; rel="canonical"`);
-
+  const headers = downloadHeaders(object, path);
   if (request.method === "HEAD") {
     headers.set("Content-Length", String(object.size));
     return new Response(null, { headers });

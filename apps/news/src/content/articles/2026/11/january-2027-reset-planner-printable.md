@@ -112,7 +112,7 @@ The IRS had not announced the 2027 opening date when we checked on Nov. 4, 2026.
 
 ## Which goal-setting tip does the planner use?
 
-The goals page quotes the employee wellness program of the National Institutes of Health (NIH), Wellness@NIH, in an article dated Feb. 3, 2020: "Write down the steps that will help you to achieve them." The same article adds: "A journal, app, or online diary will help keep your focus." The planner follows the first tip with lines for steps and a start date under each goal. We make no health claims beyond that advice.
+The goals page quotes the employee wellness program of the National Institutes of Health (NIH), Wellness@NIH, in an article dated Feb. 3, 2020: "Write down the steps that will help you to achieve them." The same article adds: "A journal, app, or online diary will help keep your focus." The planner follows the first tip with lines for steps and a start date under each goal. We make no health claims beyond that advice. If a new goal for January is what you want, our guide to [signing up for Veganuary](/news/veganuary-2027-dates-how-to-sign-up/) covers that one.
 
 ## How do I run the monthly review?
 

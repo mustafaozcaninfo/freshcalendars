@@ -4,7 +4,7 @@ seoTitle: "ACA Open Enrollment 2027: Nov. 1 to Jan. 15 Dates"
 description: "HealthCare.gov open enrollment for 2027 plans runs Nov. 1, 2026 to Jan. 15, 2027. Enroll by Dec. 15 for Jan. 1 coverage. Why the window was not shortened."
 type: news
 publishedAt: "2026-10-19T10:20:00-04:00"
-updatedAt: "2026-11-02T14:10:00-05:00"
+updatedAt: "2026-11-04T19:20:00-05:00"
 authors: [aaron-kessler]
 category: money-benefits
 keywords: ["ACA open enrollment 2027", "Obamacare open enrollment 2026", "HealthCare.gov open enrollment dates", "open enrollment deadline December 15", "marketplace open enrollment January 15"]
@@ -33,7 +33,13 @@ faq:
   - q: "Where can I get free help enrolling?"
     a: "HealthCare.gov's Find Local Help tool lists trained assisters near you, and the Marketplace call center is 1-800-318-2596."
 sources:
-  - title: "Dates and deadlines for 2027 health insurance"
+  - title: "Plan Year 2027 Marketplace Plans and Prices Fact Sheet"
+    url: "https://www.cms.gov/newsroom/fact-sheets/plan-year-2027-marketplace-plans-prices-fact-sheet-0"
+    publisher: "Centers for Medicare & Medicaid Services"
+  - title: "Get or change coverage outside of Open Enrollment | HealthCare.gov"
+    url: "https://www.healthcare.gov/coverage-outside-open-enrollment/"
+    publisher: "HealthCare.gov (Centers for Medicare & Medicaid Services)"
+  - title: "When can you get health insurance? | HealthCare.gov"
     url: "https://www.healthcare.gov/quick-guide/dates-and-deadlines/"
     publisher: "HealthCare.gov (Centers for Medicare & Medicaid Services)"
   - title: "Open Enrollment Period"
@@ -79,11 +85,18 @@ draft: false
 | Friday, Jan. 1, 2027 | Coverage begins for plans chosen and paid for by Dec. 15 |
 | Friday, Jan. 15, 2027 | Open enrollment ends; plans chosen Dec. 16 to Jan. 15 begin Feb. 1 |
 
+The Centers for Medicare & Medicaid Services (CMS) confirms the Nov. 1 to Jan. 15 window for 2027 HealthCare.gov coverage in its Plan Year 2027 fact sheet of Oct. 30, 2026. HealthCare.gov's dates page lists Dec. 15 as the "last day to enroll in or change plans for coverage to start January 1."
+
+| CMS figure for 2027 | What it says |
+|---|---|
+| Premiums at or below $50 | More than 75% of Americans who buy through HealthCare.gov will continue to have access to them |
+| Plans and insurers | On average, Americans have access to 100 different plans and five to six different insurance companies |
+
 After Jan. 15 you can enroll only with a Special Enrollment Period, which requires a qualifying life event such as losing other coverage, moving, marriage or the birth of a child.
 
 ## Why the window was not shortened
 
-In June 2025 the Centers for Medicare & Medicaid Services (CMS) finalized the Marketplace Integrity and Affordability rule. Among other changes, it required every marketplace to end open enrollment by Dec. 31 and cap it at nine weeks starting with 2027 plans, which would have meant a Dec. 15 close on HealthCare.gov.
+In June 2025 CMS finalized the Marketplace Integrity and Affordability rule. Among other changes, it required every marketplace to end open enrollment by Dec. 31 and cap it at nine weeks starting with 2027 plans, which would have meant a Dec. 15 close on HealthCare.gov.
 
 Cities and advocacy groups sued. In June 2026 the U.S. District Court for the District of Maryland vacated that open-enrollment provision, along with several others, in City of Columbus v. Kennedy, according to the Georgetown Law Health Care Litigation Tracker. HealthCare.gov now lists the familiar Nov. 1 to Jan. 15 window. The administration has appealed to the Fourth Circuit (No. 26-1938), which set oral argument for Oct. 30, 2026, according to the tracker. That date has passed, and this story has no report on the argument. No stay of the lower court's order had been issued as of Oct. 26, and HealthCare.gov still lists Jan. 15 as the last day.
 

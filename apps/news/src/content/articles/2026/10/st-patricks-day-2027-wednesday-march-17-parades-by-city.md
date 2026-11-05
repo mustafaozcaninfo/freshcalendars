@@ -136,4 +136,4 @@ Chicago's 2027 parade and river-dyeing dates are not yet announced. Savannah's c
 
 ## Print the parade planner
 
-The one-page planner lists the confirmed New York and Dublin dates and keeps the three pending cities as "Check" rows, so you can fill in dates as they appear. Pair it with the [printable weekly calendar](/printable-weekly-calendar.html) to plan the week of March 17.
+The one-page planner lists the confirmed New York and Dublin dates and keeps the three pending cities as "Check" rows, so you can fill in dates as they appear. Pair it with the [printable weekly calendar](/printable-weekly-calendar.html) to plan the week of March 17. If you follow parades, see our guide to the [Rose Parade start time and route](/news/rose-parade-2027-date-start-time-by-time-zone-route-floatfest/).

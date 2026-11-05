@@ -91,7 +91,7 @@ internalLinks:
     label: "November 2026 printable calendar"
   - href: "/printable-weekly-calendar.html"
     label: "printable weekly calendar"
-related: [starbucks-holiday-menu-2026-red-cup-day-date, thanksgiving-meal-deals-2026-aldi-lidl-target-sams-club-prices-dates, black-friday-2026-ad-tracker-walmart-target-best-buy]
+related: [starbucks-holiday-menu-2026-red-cup-day-date, mcdonalds-holiday-drinks-2026-cookie-butter-cranberry, holiday-menus-2026-every-chain-tracker]
 downloads:
   - group: "Dunkin' Nov. 4 printables"
     title: "Dunkin' Nov. 4, 2026 Lineup Checklist"
@@ -160,13 +160,13 @@ The limited-edition collection also includes Avengers: Doomsday-themed tumblers,
 
 Dunkin' says "more surprises" will be announced at the top of November. The film, directed by Anthony and Joe Russo, releases in theaters Friday, Dec. 18, 2026, per the same release.
 
-For the film's runtime, ticket details and a dated countdown, see our [Avengers: Doomsday release date story](/news/avengers-doomsday-release-date-december-18-countdown-tickets-runtime/).
+For the film's runtime, ticket details and a dated countdown, see our [Avengers: Doomsday release date story](/news/avengers-doomsday-release-date-december-18-countdown-tickets-runtime/). For other films opening that month, see our guide to [new movies in theaters](/news/new-movies-in-theaters-december-2026-release-dates-avengers-doomsday-dune/).
 
 ## Print the Nov. 4 checklist
 
 The free printable lists the drinks, donuts, Munchkins treats and collectibles, each with a tick box, plus a short section of holiday menu start dates. Use the ink-saver version on a home printer. It uses no Dunkin' or Marvel logos or art. To mark the dates, print a [November 2026 calendar](/november-calendars.html) or a [printable weekly calendar](/printable-weekly-calendar.html) and circle Nov. 4.
 
-For the rest of the season, see our [Thanksgiving meal deals 2026](/news/thanksgiving-meal-deals-2026-aldi-lidl-target-sams-club-prices-dates/) and the [Black Friday 2026 ad tracker](/news/black-friday-2026-ad-tracker-walmart-target-best-buy/).
+For the rest of the season, see our [Thanksgiving meal deals 2026](/news/thanksgiving-meal-deals-2026-aldi-lidl-target-sams-club-prices-dates/) and the [Black Friday 2026 ad tracker](/news/black-friday-2026-ad-tracker-walmart-target-best-buy/). Cracker Barrel's [Thanksgiving Heat & Serve pickup dates](/news/cracker-barrel-holiday-menu-2026-thanksgiving-heat-and-serve/) are in our guide too.
 
 ## How we keep this accurate
 

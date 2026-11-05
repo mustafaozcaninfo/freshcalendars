@@ -127,7 +127,7 @@ The Christmas Bonus is a one-off tax-free £10 payment made "before Christmas", 
 
 ## When is the Christmas Bonus paid in 2026?
 
-GOV.UK says the bonus is paid before Christmas. No exact 2026 date has been announced, and this page does not guess one. Christmas Day falls on Friday 25 December 2026; the [December 2026 printable calendar](/december-calendars.html) and [when Christmas Day falls](/when-is/christmas-day/) show the days around it.
+GOV.UK says the bonus is paid before Christmas. No exact 2026 date has been announced, and this page does not guess one. Christmas Day falls on Friday 25 December 2026; the [December 2026 printable calendar](/december-calendars.html) and [when Christmas Day falls](/when-is/christmas-day/) show the days around it. Our guide to [Child Benefit paid early at Christmas](/news/child-benefit-christmas-2026-paid-early-24-december/) covers another payment that shifts for the holiday.
 
 The same wording applies in Northern Ireland, where nidirect says the bonus is a one-off tax-free £10 payment that you do not need to claim.
 

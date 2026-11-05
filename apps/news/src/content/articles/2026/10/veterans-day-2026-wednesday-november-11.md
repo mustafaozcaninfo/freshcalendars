@@ -91,7 +91,7 @@ internalLinks:
   - href: "/when-is/memorial-day/"
     label: "When is Memorial Day?"
 draft: false
-related: [nyc-alternate-side-parking-holidays-2026, veterans-day-free-meals-discounts, national-parks-free-days-october-27-veterans-day-2026]
+related: [veterans-day-parades-2026-by-city, veteran-id-card-how-to-prove-veteran-status-discounts, veterans-day-free-meals-discounts]
 ---
 
 Veterans Day 2026 falls on **Wednesday, Nov. 11**. It is a federal holiday, so federal offices, the Federal Reserve, most banks and the U.S. Postal Service close for the day, while the stock market stays open. Unlike most federal holidays, Veterans Day is tied to its date rather than a weekday, which is why it lands midweek this year instead of creating a long weekend.
@@ -141,6 +141,8 @@ The date marks the armistice that halted fighting in World War I at 11 a.m. on N
 
 In 1954, after World War II and the Korean War, Congress renamed it Veterans Day to honor all American veterans. A later change did not last: under the Uniform Monday Holiday Act of 1968, Veterans Day moved to the fourth Monday of October starting in 1971. Many states kept Nov. 11 anyway, and in 1975 Congress passed a law returning the federal observance to Nov. 11, beginning in 1978. It has stayed there since.
 
+Our [free Veterans Day activity sheet and quiz](/news/veterans-day-printables-2026-activity-sheet-quiz-thank-you-note/) turns these dates into a class quiz.
+
 ## When Nov. 11 falls on a weekend
 
 Because the holiday keeps its date, it sometimes lands on a Saturday or Sunday. OPM's rule is that a Saturday holiday is observed on the Friday before and a Sunday holiday on the Monday after, for federal pay and leave purposes.
@@ -164,7 +166,7 @@ The two holidays are often confused. Veterans Day honors everyone who has served
 
 - Send time-sensitive mail and bank transfers by Tuesday, Nov. 10.
 - If you have children in school, confirm whether your district is open; closures differ even between neighboring districts.
-- Many restaurants and retailers offer discounts to veterans and service members on Nov. 11; most require a military ID or proof of service. Our [Veterans Day free meals and discounts list](/news/veterans-day-free-meals-discounts/) tracks every confirmed 2026 offer.
+- Many restaurants and retailers offer discounts to veterans and service members on Nov. 11; most require a military ID or proof of service. Our [Veterans Day free meals and discounts list](/news/veterans-day-free-meals-discounts/) tracks every confirmed 2026 offer. Our guide to [Golden Corral's Military Appreciation Night](/news/golden-corral-military-appreciation-night-2026/) covers that event.
 - Thanksgiving follows two weeks later, on Thursday, Nov. 26, so November 2026 has two federal holidays in the same month. Both are marked on our [November 2026 printable calendar](/november-calendars.html), and the full year is in the [2026 US holiday list](/holidays/).
 
 The next federal holiday is [Thanksgiving on Thursday, Nov. 26](/news/why-thanksgiving-2026-is-november-26/). Election Day, Nov. 3, is not a federal holiday; see [what is open on Election Day](/news/is-election-day-a-holiday-2026-whats-open/), and the [2027 federal holiday list](/news/federal-holidays-2027-observed-dates-list/) has next year's dates.

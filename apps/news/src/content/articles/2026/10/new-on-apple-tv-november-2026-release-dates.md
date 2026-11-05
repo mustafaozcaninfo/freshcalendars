@@ -167,7 +167,7 @@ Apple states a start, a cadence and an end date for three series. We counted the
 
 ## When are the Apple TV finales?
 
-Two finales land on Friday, Dec. 25, 2026: "12 12 12" (episode 8 of 8) and "Nocturne" (episode 10 of 10). "Stick" season 2 ends five days later on Wednesday, Dec. 30, 2026, which is its stated last date. Plan around the [December 2026 printable calendar](/december-calendars.html) if you track these into the holidays.
+Two finales land on Friday, Dec. 25, 2026: "12 12 12" (episode 8 of 8) and "Nocturne" (episode 10 of 10). "Stick" season 2 ends five days later on Wednesday, Dec. 30, 2026, which is its stated last date. Plan around the [December 2026 printable calendar](/december-calendars.html) if you track these into the holidays. Our guide to the [Nocturne episode schedule](/news/nocturne-apple-tv-release-date-episode-schedule-october-30/) covers that series date by date.
 
 ## When does Stick season 2 premiere?
 

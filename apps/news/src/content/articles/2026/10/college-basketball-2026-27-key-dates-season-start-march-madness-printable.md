@@ -158,7 +158,7 @@ On Nov. 2, NCAA.com lists the "Field of 68," a season tipoff event of eight game
 | Mon., Nov. 23 to Wed., Nov. 25 | Maui Invitational | Hawai'i |
 | Tue., Nov. 24 to Sat., Nov. 28 | Players Era 16 | Las Vegas |
 
-ESPN Events gives the Champions Classic date and matchups; tip times and television are not in the sources we used. NCAA.com gives the other three events. The Thanksgiving week overlap is easier to plan next to the [November 2026 printable calendar](/november-calendars.html), and the [Thanksgiving football schedule](/news/thanksgiving-football-schedule-2026-nfl-college-games/) covers the other games that week.
+ESPN Events gives the Champions Classic date and matchups; tip times and television are not in the sources we used. NCAA.com gives the other three events. The Thanksgiving week overlap is easier to plan next to the [November 2026 printable calendar](/november-calendars.html), and the [Thanksgiving football schedule](/news/thanksgiving-football-schedule-2026-nfl-college-games/) covers the other games that week. See our guide to the [Feast Week college basketball tournaments](/news/feast-week-2026-college-basketball-tournaments-dates-maui-battle-4-atlantis-players-era/).
 
 ## Where are the 2027 NCAA tournament games played?
 

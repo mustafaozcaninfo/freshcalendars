@@ -108,11 +108,11 @@ The October payment is your benefit for September: Social Security pays each mon
 | Wednesday, Nov. 18 | Birthdays on the 11th to the 20th |
 | Wednesday, Nov. 25 | Birthdays on the 21st to the 31st |
 
-There is no SSI payment dated in November: the November payment went out Oct. 30, and December's comes on Tuesday, Dec. 1. Nov. 3 is also Election Day; it is not a federal holiday, so that payment keeps its date. See [whether Election Day is a holiday](/news/is-election-day-a-holiday-2026-whats-open/) for what else is open.
+There is no SSI payment dated in November: the November payment went out Oct. 30, and December's comes on Tuesday, Dec. 1. Nov. 3 is also Election Day; it is not a federal holiday, so that payment keeps its date. See [whether Election Day is a holiday](/news/is-election-day-a-holiday-2026-whats-open/) for what else is open. Our guide to [VA disability payment dates](/news/va-disability-payment-dates-2026-2027-november-payment-october-30/) lists the schedule for veterans.
 
 ## December and the 3.6% raise
 
-December's Wednesdays are Dec. 9, 16 and 23, and the early-filer payment is Thursday, Dec. 3. These December payments are November benefits, so they still use the 2026 amounts. The 3.6% cost-of-living adjustment that SSA announced on Oct. 14 starts with the payments made in January 2027. SSI recipients get the higher amount sooner: January's SSI payment is dated Thursday, Dec. 31, 2026, because Jan. 1 is New Year's Day. The new amounts and January dates are in [Social Security COLA 2027 is 3.6%](/news/social-security-cola-2027-3-6-percent-payment-dates/).
+December's Wednesdays are Dec. 9, 16 and 23, and the early-filer payment is Thursday, Dec. 3. These December payments are November benefits, so they still use the 2026 amounts. The 3.6% cost-of-living adjustment that SSA announced on Oct. 14 starts with the [payments made in January 2027](/news/social-security-payment-schedule-january-2027-first-cola-checks/). SSI recipients get the higher amount sooner: January's SSI payment is dated Thursday, Dec. 31, 2026, because Jan. 1 is New Year's Day. The new amounts and January dates are in [Social Security COLA 2027 is 3.6%](/news/social-security-cola-2027-3-6-percent-payment-dates/).
 
 ## How your payment date is set
 

@@ -157,6 +157,6 @@ Not yet announced on an official page as of Nov. 4, 2026: the show start time an
 
 ## How does Appeal Night fit with other November dates?
 
-Appeal Night falls the day before the Lord Mayor's Show in London, covered in our [Lord Mayor's Show 2026 story](/news/lord-mayors-show-2026-date-time-route-november-14/). Bonfire Night is earlier, on Nov. 5, in our [Bonfire Night 2026 story](/news/bonfire-night-2026-thursday-november-5-fireworks-rules/), and our [Remembrance Day 2026 story](/news/remembrance-day-2026-canada-statutory-holiday-remembrance-sunday-uk/) explains the days around Nov. 8 and Nov. 11.
+Appeal Night falls the day before the Lord Mayor's Show in London, covered in our [Lord Mayor's Show 2026 story](/news/lord-mayors-show-2026-date-time-route-november-14/). Bonfire Night is earlier, on Nov. 5, in our [Bonfire Night 2026 story](/news/bonfire-night-2026-thursday-november-5-fireworks-rules/), and our [Remembrance Day 2026 story](/news/remembrance-day-2026-canada-statutory-holiday-remembrance-sunday-uk/) explains the days around Nov. 8 and Nov. 11. Another November date for children is [World Children's Day](/news/world-childrens-day-2026-friday-november-20-rights-of-the-child/).
 
 Mark Nov. 3 and Nov. 13 on the [November 2026 printable calendar](/november-calendars.html), or add the fundraising steps to a [printable weekly calendar](/printable-weekly-calendar.html).

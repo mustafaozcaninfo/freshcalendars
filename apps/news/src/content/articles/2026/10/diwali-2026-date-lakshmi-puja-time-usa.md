@@ -141,7 +141,7 @@ The Lakshmi Puja options count to the start of the Pradosh Kaal window (sunset) 
 | Govardhan Puja | Monday, Nov. 9 | Annakut food offerings; Gujarati New Year for many families |
 | Bhai Dooj | Tuesday, Nov. 10 | Sisters pray for their brothers; brothers give gifts |
 
-Sikhs mark Bandi Chhor Divas at the same time. Customs and the names of the days differ between regions, so families from Gujarat, Bengal or Tamil Nadu may follow a slightly different order.
+Sikhs mark Bandi Chhor Divas at the same time. Customs and the names of the days differ between regions, so families from Gujarat, Bengal or Tamil Nadu may follow a slightly different order. Our guide to [Guru Nanak Jayanti](/news/guru-nanak-jayanti-2026-date-november-24-gurpurab-purnima-time-us/) covers another major Sikh festival this fall.
 
 ## Why Diwali is on Nov. 8 this year
 
@@ -214,6 +214,6 @@ Sources: the 2026-27 calendars of New York City Public Schools and Montgomery Co
 
 With Diwali on a Sunday, the main celebrations fall on a weekend for most families: Choti Diwali on Saturday, Lakshmi Puja on Sunday night. Govardhan Puja and Bhai Dooj land on Monday and Tuesday, so families who travel for Bhai Dooj may need a day off. Election Day falls the Tuesday before, on Nov. 3, and Veterans Day the Wednesday after, on Nov. 11.
 
-Our free Diwali planner splits the preparations by day, from cleaning and buying diyas before Dhanteras to the Bhai Dooj tilak. To see the whole month, print a [November 2026 calendar](/november-calendars.html) and mark the five days. For other festivals that follow the Moon, see our guides to [Ramadan 2027](/news/ramadan-2027-calendar-dates-timetable/) and [Lunar New Year 2027](/news/lunar-new-year-2027-year-of-the-goat/), or plan ahead with a [2027 printable yearly calendar](/printable-yearly-calendar.html). Thanksgiving comes three weeks after Diwali, on Nov. 26; our page on [when Thanksgiving falls](/when-is/thanksgiving/) explains the rule.
+Our free Diwali planner splits the preparations by day, from cleaning and buying diyas before Dhanteras to the Bhai Dooj tilak. To see the whole month, print a [November 2026 calendar](/november-calendars.html) and mark the five days. For other festivals that follow the Moon, see our guides to [Ramadan 2027](/news/ramadan-2027-calendar-dates-timetable/) and [Lunar New Year 2027](/news/lunar-new-year-2027-year-of-the-goat/), or plan ahead with a [2027 printable yearly calendar](/printable-yearly-calendar.html). Thanksgiving comes three weeks after Diwali, on Nov. 26; our page on [when Thanksgiving falls](/when-is/thanksgiving/) explains the rule. Readers in Britain can follow our guide to [Diwali in the United Kingdom](/news/diwali-2026-uk-leicester-diwali-day-8-november-trafalgar-square-cancelled/).
 
 Diwali week overlaps other November observances: [Day of the Dead](/news/day-of-the-dead-2026-dia-de-los-muertos-dates/) ends on Nov. 2, and [Veterans Day](/news/veterans-day-2026-wednesday-november-11/) follows on Nov. 11. The [2027 federal holiday list](/news/federal-holidays-2027-observed-dates-list/) covers next year's days off.

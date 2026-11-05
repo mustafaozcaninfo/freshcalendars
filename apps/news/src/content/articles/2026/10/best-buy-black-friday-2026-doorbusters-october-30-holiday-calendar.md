@@ -143,6 +143,8 @@ Best Buy says "most purchases made Oct. 30 through Dec. 31 can be returned throu
 |---|---|---|
 | Oct. 30 through Dec. 31, 2026 | Fri., Jan. 15, 2027 | Sun., Jan. 31, 2027 |
 
+Deadlines at other chains are in our [holiday return deadlines by store](/news/holiday-return-policies-2026-return-deadlines-by-store/) guide.
+
 ## What do double rewards and price match cover?
 
 From Nov. 19 to Dec. 6, My Best Buy Plus and Total members earn double rewards on purchases. A footnote explains that 1 point per $1 equals 2% back in rewards, inclusive of the 1% members already get. Points post 2-3 weeks after purchase, and the offer is valid through Dec. 6, 2026.

@@ -147,7 +147,7 @@ The page marks its leaderboard as a spoiler. For Week 5, it puts Tabby and Mark 
 
 ## Who presents Strictly Come Dancing 2026?
 
-The BBC says the series has three hosts "for the first time ever": presenter Emma Willis, professional dancer Johannes Radebe and comedian Josh Widdicombe. The judging panel is Craig Revel Horwood, Motsi Mabuse, Anton Du Beke and Head Judge Shirley Ballas.
+The BBC says the series has three hosts "for the first time ever": presenter Emma Willis, professional dancer Johannes Radebe and comedian Josh Widdicombe. The judging panel is Craig Revel Horwood, Motsi Mabuse, Anton Du Beke and Head Judge Shirley Ballas. Our guide to the [Dancing with the Stars schedule](/news/dancing-with-the-stars-2026-schedule-disney-night-monday-november-2-finale-november-24/) covers the American celebrity dancing show.
 
 ## What did last year's Strictly final draw?
 

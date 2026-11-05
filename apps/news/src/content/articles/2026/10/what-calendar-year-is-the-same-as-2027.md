@@ -79,7 +79,7 @@ internalLinks:
     label: "US holiday list"
   - href: "/when-is/easter/"
     label: "When is Easter?"
-related: [how-often-does-the-calendar-repeat, federal-holidays-2027-observed-dates-list, week-numbers-2027-calendar-printable]
+related: [how-often-does-the-calendar-repeat, federal-holidays-2027-observed-dates-list, calendar-act-1752-eleven-days-skipped]
 downloads:
   - group: "Same calendar as 2027 printables"
     title: "Years With the Same Calendar as 2027"
@@ -142,7 +142,7 @@ What you should cross out or correct:
 
 - **Easter and the days around it.** Easter Sunday was April 4 in 2021 and is March 28 in 2027. The date comes from the church's lunar tables, so it moves even when the weekdays repeat. We computed both dates with the method USNO publishes on its Date of Easter page; our [Easter date page](/when-is/easter/) lists other years.
 - **Juneteenth.** A calendar printed before mid-June 2021 may not show it. Juneteenth National Independence Day became a federal holiday when Public Law 117-17 was signed on June 17, 2021. In 2027, June 19 is a Saturday, so federal offices observe it on Friday, June 18.
-- **Lunar and religious dates.** Lunar New Year, Ramadan, Passover, Rosh Hashanah, Diwali and Hanukkah follow lunar or lunisolar calendars and land on different dates each year.
+- **Lunar and religious dates.** Lunar New Year, Ramadan, Passover, Rosh Hashanah, Diwali and Hanukkah follow lunar or lunisolar calendars and land on different dates each year. Our guide to the [Chinese lunar calendar](/news/chinese-lunar-calendar-2027-months-no-leap-month/) lists each month's start for next year.
 - **Local and one-off dates.** School breaks, election days, sports schedules and pay dates are set year by year.
 
 Holidays fixed to a date or to a weekday rule do repeat. Thanksgiving is the fourth Thursday of November, Nov. 25 in both years. Christmas falls on a Saturday in both years, so the federal day off is Friday, Dec. 24 each time. Our list of [2027 federal holidays and observed dates](/news/federal-holidays-2027-observed-dates-list/) has every observed date from the U.S. Office of Personnel Management (OPM), including New Year's Day 2028, observed on Friday, Dec. 31, 2027.

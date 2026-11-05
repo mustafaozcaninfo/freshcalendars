@@ -127,7 +127,7 @@ The CDC warns against thawing a turkey on the kitchen counter. If a turkey sits 
 - **Nov. 23 to 25:** Smaller birds need only 1 to 3 days.
 - **Nov. 26:** Cook the turkey once it is fully thawed.
 
-Mark the dates on a [November 2026 printable calendar](/november-calendars.html) or on the free thaw-date sheet below. If you are also planning the weekend, see [Black Friday 2026 store hours](/news/black-friday-2026-store-hours-walmart-target-best-buy/).
+Mark the dates on a [November 2026 printable calendar](/november-calendars.html) or on the free thaw-date sheet below. If you are also planning the weekend, see [Black Friday 2026 store hours](/news/black-friday-2026-store-hours-walmart-target-best-buy/). For Thanksgiving morning, see our [Turkey Trot start times](/news/turkey-trot-2026-start-times-thanksgiving-races-by-city/).
 
 ## What temperature should a cooked turkey reach?
 

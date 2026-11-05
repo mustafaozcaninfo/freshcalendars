@@ -48,7 +48,7 @@ internalLinks:
     label: "January 2027 printable calendar"
   - href: "/holidays/"
     label: "US holiday list"
-related: [2027-habit-tracker-printable, federal-holidays-2027-observed-dates-list, stock-market-holidays-2027-nyse-closed-dates]
+related: [federal-reserve-holidays-2027-bank-closures, federal-holidays-2027-observed-dates-list, how-many-mondays-fridays-weekends-in-2027]
 assets:
   overlay: true
   kicker: "Working days · 2027"

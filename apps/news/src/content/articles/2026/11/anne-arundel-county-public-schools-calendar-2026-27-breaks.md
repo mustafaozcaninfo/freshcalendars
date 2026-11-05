@@ -58,7 +58,7 @@ internalLinks:
     label: "Printable school-year calendar 2026-27"
   - href: "/november-calendars.html"
     label: "November 2026 printable calendar"
-related: [baltimore-county-public-schools-calendar-2026-27-breaks, montgomery-county-public-schools-calendar-2026-27-breaks, spring-break-2027-dates-school-districts]
+related: [baltimore-county-public-schools-calendar-2026-27-breaks, montgomery-county-public-schools-calendar-2026-27-breaks, howard-county-public-schools-calendar-2026-27-breaks]
 assets:
   overlay: true
   kicker: "Anne Arundel County Schools · 2026-27"

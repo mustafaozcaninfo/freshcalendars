@@ -165,7 +165,7 @@ Tax-Free Childcare has its own 3-month check. GOV.UK says that for every £8 you
 
 ## Which UK nations does this cover?
 
-The pages used here are for England. Scotland, Wales and Northern Ireland run their own schemes, and this story gives no hours for them. Other 2027 dates for England readers are in our [annual leave 2027 story](/news/uk-annual-leave-2027-bank-holidays-double-your-days-off/) and the [Self Assessment deadline story](/news/self-assessment-deadline-31-january-2027-tax-return-penalties/). Council term dates are not covered here.
+The pages used here are for England. Scotland, Wales and Northern Ireland run their own schemes, and this story gives no hours for them. Other 2027 dates for England readers are in our [annual leave 2027 story](/news/uk-annual-leave-2027-bank-holidays-double-your-days-off/) and the [Self Assessment deadline story](/news/self-assessment-deadline-31-january-2027-tax-return-penalties/). Adults planning study can see our [Lifelong Learning Entitlement](/news/lifelong-learning-entitlement-applications-open-january-2027-courses/) guide. Council term dates are not covered here.
 
 ## Free childcare deadlines 2027 planner
 

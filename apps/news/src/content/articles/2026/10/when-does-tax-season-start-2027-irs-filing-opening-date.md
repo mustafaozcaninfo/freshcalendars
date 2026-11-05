@@ -130,4 +130,4 @@ The IRS refunds page, updated Oct. 16, 2026, says an e-filed return takes 3 week
 
 ## Printable 2027 tax season checklist
 
-The printable lists the four dates to mark: the W-2 and 1099 due date, blanks for the Free File and filing season opening days, and Tax Day. Fill in the blanks later. To plan around the dates, use the [January printable calendars](/january-calendars.html) and [April printable calendars](/april-calendars.html), or the [printable yearly calendar](/printable-yearly-calendar.html).
+The printable lists the four dates to mark: the W-2 and 1099 due date, blanks for the Free File and filing season opening days, and Tax Day. Fill in the blanks later. To plan around the dates, use the [January printable calendars](/january-calendars.html) and [April printable calendars](/april-calendars.html), or the [printable yearly calendar](/printable-yearly-calendar.html). Our guide to the 2027 [calendar quarters](/news/calendar-quarters-2027-q1-q4-dates-days/) has the quarter start and end dates and tax due dates.

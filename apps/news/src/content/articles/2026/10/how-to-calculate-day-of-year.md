@@ -63,7 +63,7 @@ internalLinks:
     label: "February printable calendars"
   - href: "/printable-calendars.html"
     label: "All printable calendars"
-related: [julian-date-calendar-2027-2026-printable, 100th-day-of-the-year, what-is-a-leap-year]
+related: [julian-date-calendar-2027-2026-printable, 100th-day-of-the-year, is-12-noon-am-or-pm-midnight]
 downloads:
   - group: "Day of the Year Chart 2026 and 2028 printables"
     title: "Day of the Year Chart 2026 and 2028"
@@ -134,7 +134,7 @@ Use one formula:
 2. Add the day of the month.
 3. In a leap year, February counts 29 days, so any date from March 1 on gains one.
 
-Worked example for Oct. 30, 2026, the day this story was published. January to September have 31 + 28 + 31 + 30 + 31 + 30 + 31 + 31 + 30 = 273 days, and 2026 is a common year. Add 30 and the answer is day 303. On Monday, Nov. 2, 2026, January to October hold 304 days, so the answer is 304 + 2 = day 306. We checked every month of the table below against JavaScript's `Date` object and against an independent Julian-day-number formula, and both agree.
+Worked example for Oct. 30, 2026, the day this story was published. January to September have 31 + 28 + 31 + 30 + 31 + 30 + 31 + 31 + 30 = 273 days, and 2026 is a common year. Add 30 and the answer is day 303. On Monday, Nov. 2, 2026, January to October hold 304 days, so the answer is 304 + 2 = day 306. We checked every month of the table below against JavaScript's `Date` object and against an independent Julian-day-number formula, and both agree. Our [days left in the year](/news/how-many-days-left-in-the-year/) guide covers the related count.
 
 | Date | Common year (2026) | Leap year (2028) |
 |---|---|---|
@@ -187,7 +187,7 @@ Reverse the steps, and check the limit first.
 2. Find the last month whose "add" number in the table is smaller than your day number.
 3. Subtract that "add" number from the day number. The result is the day of the month.
 
-Example: 2026-300. The "add" number for October is 273, and 300 - 273 = 27, so the date is Oct. 27, 2026. In 2028, October's number is 274, so day 300 is Oct. 26, 2028. Day 366 is Dec. 31, 2028, but 2026-366 does not exist: the year has 365 days.
+Example: 2026-300. The "add" number for October is 273, and 300 - 273 = 27, so the date is Oct. 27, 2026. In 2028, October's number is 274, so day 300 is Oct. 26, 2028. Day 366 is Dec. 31, 2028, but 2026-366 does not exist: the year has 365 days. Once you have the date, our [weekday for any date](/news/find-day-of-week-for-any-date/) guide finds its day of the week.
 
 ## Is day of the year the same as a Julian date?
 

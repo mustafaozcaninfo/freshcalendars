@@ -68,7 +68,7 @@ internalLinks:
     label: "November 2026 printable calendar"
   - href: "/printable-yearly-calendar.html"
     label: "Printable yearly calendar"
-related: [children-in-need-2026-date-friday-13-november-appeal-night, what-calendar-year-is-the-same-as-2027, november-2026-calendar-printable]
+related: [palindrome-dates-2027-next-palindrome-days, what-calendar-year-is-the-same-as-2027, november-2026-calendar-printable]
 faq:
   - q: "When is the next Friday the 13th?"
     a: "Friday, Nov. 13, 2026. The one after it is Friday, Aug. 13, 2027."

@@ -143,7 +143,7 @@ draft: false
 | Nintendo Switch 2 | Oct. 22, 2026 | $9.99 digital |
 | PC (Steam) | June 16, 2025 | $3.99 |
 
-The console prices come from the PlayStation Store, Xbox Wire and the Nintendo store. The PS5 version includes all content updates, biomes and items added since the original launch, according to the PlayStation Blog. Prices elsewhere may differ.
+The console prices come from the PlayStation Store, Xbox Wire and the Nintendo store. The PS5 version includes all content updates, biomes and items added since the original launch, according to the PlayStation Blog. Prices elsewhere may differ. For when the Steam copy goes on sale, see our guide to the [Steam Winter Sale dates](/news/steam-winter-sale-2026-dates-december-17-steam-sale-calendar-2027/).
 
 ## Crossplay: who can play with whom
 
@@ -188,4 +188,4 @@ This section is our judgment, based only on the facts above.
 4. Open the settings and reduce head bobbing if motion bothers you.
 5. Stay together on the way up.
 
-Our free PEAK game night checklist, listed under downloads, repeats these steps on one page. If you are planning a regular game night, a [printable weekly planner](/printable-weekly-calendar.html) or the [November 2026 calendar](/november-calendars.html) keeps the dates in one place. For another game story this month, see [what Rockstar has confirmed](/news/gta-6-october-22-2026-what-is-confirmed-release-countdown/).
+Our free PEAK game night checklist, listed under downloads, repeats these steps on one page. If you are planning a regular game night, a [printable weekly planner](/printable-weekly-calendar.html) or the [November 2026 calendar](/november-calendars.html) keeps the dates in one place. For another game story this month, see [what Rockstar has confirmed](/news/gta-6-october-22-2026-what-is-confirmed-release-countdown/). If you are shopping for the console itself, we cover the [PS5 Prism Collection pre-orders](/news/ps5-prism-collection-pre-order-date-november-10-price-release-february-4/) separately.

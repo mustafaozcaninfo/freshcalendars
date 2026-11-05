@@ -145,6 +145,6 @@ Reading the dates in the table shows how the month is built. These are our own c
 
 ## Is there a printable Cavaliers schedule for November 2026?
 
-Yes. The one-page sheet lists all 14 November games with the opponent, home or away, ET start time, national TV and NBA Cup games, and it has an ink-saver version. Keep it next to the [November 2026 printable calendar](/november-calendars.html) or copy the games into a [printable weekly calendar](/printable-weekly-calendar.html). For an opponent's month, see our [Miami Heat schedule for November 2026](/news/miami-heat-schedule-november-2026-game-times-tv-nba-cup-printable/).
+Yes. The one-page sheet lists all 14 November games with the opponent, home or away, ET start time, national TV and NBA Cup games, and it has an ink-saver version. Keep it next to the [November 2026 printable calendar](/november-calendars.html) or copy the games into a [printable weekly calendar](/printable-weekly-calendar.html). For an opponent's month, see our [Miami Heat schedule for November 2026](/news/miami-heat-schedule-november-2026-game-times-tv-nba-cup-printable/). The [Milwaukee Bucks schedule](/news/milwaukee-bucks-schedule-november-2026-game-times-tv-nba-cup-printable/) covers another team's month too.
 
 Because the NBA's schedule is "subject to change," recheck game times on NBA.com before you head out. Results, injuries and tickets are not part of the NBA's schedule and are not covered here.

@@ -117,8 +117,11 @@ const rule = (pattern, cache, cdn) =>
 const headers = [
   `/*\n  Cache-Control: ${HTML}\n  CDN-Cache-Control: public, max-age=2678400\n`,
   ...["/*.png", "/*.svg", "/*.ico", "/*.webmanifest", "/*.webp", "/*.jpg", "/*.css", "/*.js", "/*.txt"].map((p) => rule(p, STATIC)),
-  // Apache sent no cache header for these (nginx passed them through).
-  ...["/*.xml", "/*.json", "/*.md"].map((p) => `${p}\n  ! Cache-Control\n  ! CDN-Cache-Control\n`),
+  // Sitemaps and feeds: the page policy, so crawlers and readers see a new story within minutes
+  // (they used to go out with no header, left to each client's heuristic).
+  ...["/*.xml", "/*.json", "/*.md"].map((p) => rule(p, HTML)),
+  // Files whose changes must reach crawlers soon (robots.txt, ads.txt, llms.txt), not in 30 days.
+  ...["/robots.txt", "/ads.txt", "/llms.txt"].map((p) => rule(p, "public, max-age=3600")),
   "/favicon.ico\n  Content-Type: image/x-icon\n",
   // Pages: nginx and Apache named the charset; the asset router sends bare text/html.
   "/\n  Content-Type: text/html; charset=utf-8\n",
@@ -128,6 +131,8 @@ const headers = [
   rule("/*.woff2", IMMUTABLE),
   rule("/news/*", NEWS_HTML, "public, max-age=600"),
   rule("/news/*.xsl", "public, max-age=86400"),
+  // Search index chunks are named by their content hash (Pagefind): a new build, new names.
+  ...["/news/pagefind/fragment/*", "/news/pagefind/index/*", "/news/pagefind/filter/*", "/news/pagefind/*.pf_meta"].map((p) => rule(p, IMMUTABLE)),
   "/news/*.xml\n  Content-Type: text/xml; charset=utf-8\n",
 ];
 await writeFile(path.join(PUBLIC, "_headers"), headers.join(""));
@@ -140,6 +145,11 @@ for (const line of pdfMap.split("\n")) {
   if (m) canonical[m[1].replace(/\\(.)/g, "$1")] = m[2];
 }
 await writeFile(path.join(OUT, "pdf-canonical.json"), JSON.stringify(canonical));
+// Content hashes of the printables (news build, astro.config.mjs): the Worker's edge-cache key.
+// dist/news-data comes back from the state bucket on a calendar-only deploy, so this is always the
+// live set; without it the Worker serves from R2 uncached, as before.
+const versions = await readFile(path.join(ROOT, "dist/news-data/download-versions.json"), "utf8").catch(() => "{}");
+await writeFile(path.join(OUT, "download-versions.json"), versions);
 await writeFile(path.join(OUT, "news-redirects.json"), JSON.stringify(downloadRedirects));
 
 // Checks: file count and size limits, and no old-URL rule that Apache applied to a live page.

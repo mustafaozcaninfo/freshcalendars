@@ -177,7 +177,7 @@ The BEA schedule lists the second estimate of third-quarter 2026 GDP, with Corpo
 
 ## Where are the jobs report and Consumer Price Index dates?
 
-Those come from the Bureau of Labor Statistics (BLS), not the BEA. The BLS dates are on bls.gov and are not listed here.
+Those come from the Bureau of Labor Statistics (BLS), not the BEA. The BLS dates are on bls.gov and are not listed here. For those, see our guides to the [jobs report release time](/news/jobs-report-november-6-2026-time-bls-release-schedule-2027/) and the [Consumer Price Index release dates](/news/cpi-report-november-10-2026-time-october-inflation-ppi-pce-dates/).
 
 ## How does this fit with the Fed calendar?
 

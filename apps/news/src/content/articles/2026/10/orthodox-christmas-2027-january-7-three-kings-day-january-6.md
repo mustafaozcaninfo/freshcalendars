@@ -106,7 +106,7 @@ Churches that keep the Julian calendar celebrate Christmas on Dec. 25 by that ca
 | 2099 | Jan. 7, 2100 | 13 |
 | 2100 | Jan. 8, 2101 | 14 |
 
-The 2100 row is the first change. Feb. 29, 2100 does not exist in the Gregorian calendar but does in the Julian one, so the gap widens to 14 days and Julian Christmas moves to Jan. 8. Nobody reading this will see it, but it explains why "Jan. 7" is a rule of the current century and not a fixed fact of the church year.
+The 2100 row is the first change. Feb. 29, 2100 does not exist in the Gregorian calendar but does in the Julian one, so the gap widens to 14 days and Julian Christmas moves to Jan. 8. Nobody reading this will see it, but it explains why "Jan. 7" is a rule of the current century and not a fixed fact of the church year. Our [Easter dates 2027 to 2036](/news/easter-dates-2027-2036-orthodox-easter/) guide shows Orthodox Easter beside the Western date.
 
 ## What weekday is Orthodox Christmas from 2027 to 2030?
 
