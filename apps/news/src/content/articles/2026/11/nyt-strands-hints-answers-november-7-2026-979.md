@@ -1,7 +1,7 @@
 ---
-title: "NYT Strands Hints and Answers for Saturday, Nov. 7, 2026 (#979): Hints for the Spangram and Seven Theme Words"
-seoTitle: "Strands Hints, Spangram & Answers, Nov. 7, 2026 (#979)"
-description: "Strands #979 for Saturday, Nov. 7, 2026: hints for the spangram and each of the seven theme words, then all the answers in a spoiler section at the end."
+title: "NYT Strands Answers for Saturday, Nov. 7, 2026 (#979): Hints First, Spoilers Last"
+seoTitle: "Strands #979: Nov. 7, 2026 Hints, Answers"
+description: "Strands #979 for Saturday, Nov. 7, 2026 has the clue \"In the blink of an eye.\" Hints and a board map for seven theme words and the spangram; answers last."
 type: explainer
 publishedAt: "2026-11-06T00:05:00-05:00"
 authors: [news-desk]
@@ -14,19 +14,17 @@ hero:
   title: "Strands #979 hints, Nov. 7, 2026"
   caption: "Strands puzzle #979 for Saturday, Nov. 7, 2026: hints for the spangram and theme words first, all answers only at the end."
 summary:
-  - "Today's Strands is puzzle #979, for Saturday, Nov. 7, 2026, with the theme clue 'In the blink of an eye.'"
-  - "The spangram is a 13-letter phrase made of three words, and the seven theme words all describe moving fast."
-  - "Hints below cover the spangram first, then the seven theme words."
-  - "All answers are in the last section, marked as spoilers."
+  - "Strands #979 falls on Saturday, Nov. 7, 2026, and its clue is \"In the blink of an eye.\""
+  - "The spangram runs 13 letters and touches the top, left and right edges; the board holds seven theme words."
+  - "Hints come first, then a map of where the words sit on the board."
+  - "Every answer is held back in the last section, behind a spoiler marker."
 faq:
-  - q: "What is today's Strands theme?"
-    a: "The clue for puzzle #979 on Nov. 7, 2026, is 'In the blink of an eye.'"
-  - q: "What is the Strands spangram for Nov. 7, 2026?"
-    a: "Spoiler: What's the Hurry, thirteen letters, running from the fourth row of the board, first column, down the left edge, along the sixth row to the right edge, then up the right edge to the top row and ending in the first row, fifth column."
-  - q: "What are today's Strands answers?"
+  - q: "How long is the spangram in Strands #979, and how does it compare with the theme words?"
+    a: "It has 13 letters; the longest theme word has 6 and the shortest 4."
+  - q: "What time does the next Strands puzzle arrive?"
+    a: "Puzzle #980 is the next one, available at midnight."
+  - q: "What are the Strands answers for Nov. 7, 2026?"
     a: "Spoilers: the theme words are Flash, Hurtle, Rush, Streak, Whiz, Whoosh, Zoom, and the spangram is What's the Hurry."
-  - q: "How does Strands work?"
-    a: "Find theme words by linking adjacent letters in any direction on a six-by-eight board, using every letter once. The spangram describes the theme and touches two opposite sides of the board."
 sources:
   - title: "Strands"
     url: "https://www.nytimes.com/games/strands"
@@ -39,45 +37,57 @@ internalLinks:
 related: [wordle-hint-answer-today-november-7-2026-1967, nyt-connections-hints-answers-november-7-2026-1245, nyt-pips-hints-answers-november-7-2026]
 draft: false
 ---
-**Today's Strands from The New York Times (NYT) is puzzle #979, for Saturday, Nov. 7, 2026, and its theme clue is "In the blink of an eye."** Think of things that happen almost too fast to see. The puzzle was constructed by Christina Iverson and edited by Tracy Bennett. Below are hints for the spangram and each theme word; the answers wait in a marked spoiler section at the end.
+**Today's Strands from The New York Times (NYT) is puzzle #979, for Saturday, Nov. 7, 2026, and its theme clue is "In the blink of an eye."** All seven theme words describe moving very fast, or the sound of it. It was constructed by Christina Iverson and edited by Tracy Bennett. Hints for the spangram and each theme word come first; the answers wait in a marked spoiler section at the end.
 
-## How Strands works
-
-The board is six letters wide and eight tall. Theme words are made by linking letters that touch, up, down, sideways or diagonally, and every letter is used exactly once. One special answer, the spangram, names the theme and stretches from one side of the board to the opposite side. Find three non-theme words and you earn a hint that highlights the letters of a theme word.
+For the rules, see our [Strands page](/news/topic/nyt-strands/#how-it-works); today's twist is a 13-letter spangram that shares the board with seven theme words.
 
 ## Spangram hints
 
-- Hint 1: It is what you might ask someone who is rushing around.
-- Hint 2: It is a phrase of three words, and the first one is a contraction.
-- Hint 3: Thirteen letters, and the first letter is W.
+- Hint 1: A question you might shout at a friend who is dashing out the door.
+- Hint 2: Three words, and the first one is a contraction.
+- Hint 3: Thirteen letters, opening with W.
 
 ## Theme word hints
 
-There are seven theme words, and each one describes moving or happening very fast:
+Each theme word is a way of going quickly, or the noise it makes:
 
-- **4 letters, starts with R:** to hurry.
-- **4 letters, starts with W:** to fly past with a humming sound.
-- **4 letters, starts with Z:** to go very fast, or what a camera lens does to get closer.
-- **5 letters, starts with F:** a sudden burst of light.
-- **6 letters, starts with H:** to move very fast, often with force.
-- **6 letters, starts with S:** a long thin line or mark, or to dash by at high speed.
-- **6 letters, starts with W:** the sound of air rushing past.
+- **4 letters, starts with R:** to hurry, or a sudden surge.
+- **4 letters, starts with W:** to fly by with a buzz.
+- **4 letters, starts with Z:** to speed along, or a video call.
+- **5 letters, starts with F:** a sudden burst of light, or a quick move.
+- **6 letters, starts with H:** to travel at reckless speed.
+- **6 letters, starts with S:** a long thin line, or to dash past.
+- **6 letters, starts with W:** the sound of something passing at speed.
+
+## Where today's spangram and theme words sit
+
+13 tiles make up the spangram, and its path opens at row 4, column 1. It closes at row 1, column 5, touching the top, left and right edges and turning 4 times, across rows 1 to 6 and columns 1 to 6. Its longest straight run is 6 tiles.
+
+The densest corner is the top-left quarter (rows 1 to 4, columns 1 to 3). It holds 11 theme tiles and 1 spangram tiles. Whole theme words that fit inside it: the 6-letter W word.
+
+By length, the 6-letter H word, the 6-letter S word and the 6-letter W word tie for longest at 6 letters, and the 4-letter R word, the 4-letter W word and the 4-letter Z word tie for shortest at 4 letters. At 13 letters the spangram outruns the longest theme word by 7. Quarter by quarter, the theme tiles split as top-left 11, top-right 7, bottom-left 9, bottom-right 8.
+
+| Theme word | Rows | Columns | Where it sits |
+|---|---|---|---|
+| 5-letter F word | 7 to 8 | 2 to 4 | mostly bottom-left (3 of 5 tiles) |
+| 6-letter H word | 2 to 5 | 2 to 3 | mostly top-left (5 of 6 tiles) |
+| 4-letter R word | 7 to 8 | 5 to 6 | entirely bottom-right |
+| 6-letter S word | 1 to 5 | 3 to 4 | mostly top-right (4 of 6 tiles) |
+| 4-letter W word | 2 to 5 | 5 | mostly top-right (3 of 4 tiles) |
+| 6-letter W word | 1 to 3 | 1 to 3 | entirely top-left |
+| 4-letter Z word | 6 to 8 | 1 to 2 | entirely bottom-left |
 
 ## Solving tips
 
-Start with the spangram. On today's board it starts on the left edge in the fourth row, first column, goes down to the fifth row, steps down and across to the sixth row, second column, and runs right along the sixth row to the right edge. Then it climbs the last column to the top edge and ends in the first row, fifth column. It is thirteen letters long, seven more than the longest theme word. The seven theme words use 35 letters, so the spangram and the theme words together fill all 48 tiles. Three theme words have only four letters each, and two of those three share a rare letter. The spangram uses one consonant three times. If you get stuck, spell any ordinary words you can see to earn a hint.
+Two of the seven answers contain the letter Z, so hunt for that tile first. Mark your solve days on the [printable weekly calendar](/printable-weekly-calendar.html) or the [November 2026 printable calendar](/november-calendars.html).
 
-Keep a daily solving log on our [printable weekly calendar](/printable-weekly-calendar.html) or the [November 2026 printable calendar](/november-calendars.html).
-
-More of today's puzzles: [Wordle hints](/news/wordle-hint-answer-today-november-7-2026-1967/), [Connections hints](/news/nyt-connections-hints-answers-november-7-2026-1245/) and [Pips hints](/news/nyt-pips-hints-answers-november-7-2026/).
+More puzzles for this date: [Wordle](/news/wordle-hint-answer-today-november-7-2026-1967/), [Connections](/news/nyt-connections-hints-answers-november-7-2026-1245/) and [Pips](/news/nyt-pips-hints-answers-november-7-2026/).
 
 ## Today's Strands answers (spoilers)
 
-Stop here if you still want to solve it yourself.
+Spoilers start below this line.
 
 - **Spangram:** What's the Hurry
 - **Theme words:** Flash, Hurtle, Rush, Streak, Whiz, Whoosh, Zoom
 
-All eight answers fit the clue: each theme word describes moving or happening very fast, and the spangram is the phrase "What's the hurry." The spangram is a single string of thirteen letters on the board, with no spaces or apostrophe.
-
-We checked the answers against the puzzle's official data before posting. Puzzle #980 arrives at midnight.
+The seven theme words are all synonyms for speed in motion, and the spangram is the phrase you ask a person who is moving too quickly.

@@ -24,6 +24,11 @@ export interface Topic {
   start?: string;
   /** A daily puzzle hub: the page shows a date, number and link table of its daily pages (lib/puzzle-hub.ts). */
   puzzle?: boolean;
+  /**
+   * How the game works, shown once on the hub (#how-it-works). Daily pages link here in one line
+   * instead of repeating the rules, so each day's page is written fresh (audit 13-PUZZLE-SIMILAR).
+   */
+  guide?: { heading: string; paras: string[] };
 }
 
 export const MIN_TOPIC_STORIES = 4;
@@ -94,6 +99,14 @@ export const TOPICS: Topic[] = [
     name: "Wordle Answers and Hints",
     description: "Every Wordle hints and answer page from Fresh Calendars, newest first: graded clues for each puzzle number and the answer checked against the puzzle data.",
     match: ["wordle"],
+    guide: {
+      heading: "How Wordle works",
+      paras: [
+        "You get six tries to find a five-letter word. After each guess, a green tile means the right letter in the right spot, yellow means the letter is in the word but in another spot, and gray means it is not in the word at all.",
+        "A letter that appears twice is only marked twice if you guess it twice. Gray tiles matter too: every letter they rule out narrows the next guess.",
+        "A new Wordle comes out at midnight in your local time. The puzzle data shows past answers coming back since Feb. 2, 2026, so an old answer can no longer be ruled out.",
+      ],
+    },
   },
   {
     slug: "nyt-connections",
@@ -101,6 +114,13 @@ export const TOPICS: Topic[] = [
     name: "NYT Connections Answers and Hints",
     description: "Every New York Times Connections page, Sports Edition too: hints for each color group first, then the four groups and what links the words, newest first.",
     match: ["connections"],
+    guide: {
+      heading: "How Connections works",
+      paras: [
+        "Sort the 16 entries into four groups of four. You can make four mistakes before the game ends.",
+        "The groups run from yellow, the most direct, to green, blue and purple, which leans hardest on wordplay such as hidden words, homophones or a missing word. A new puzzle comes out at midnight local time.",
+      ],
+    },
   },
   {
     slug: "nyt-strands",
@@ -108,6 +128,13 @@ export const TOPICS: Topic[] = [
     name: "NYT Strands Answers and Hints",
     description: "Every New York Times Strands page, newest first: the clue explained, spangram and theme-word hints, then all the answers from the official puzzle data.",
     match: ["strands"],
+    guide: {
+      heading: "How Strands works",
+      paras: [
+        "The board is six letters wide and eight tall. Theme words are made by linking letters that touch, up, down, sideways or diagonally, and every letter is used exactly once.",
+        "One special answer, the spangram, names the theme and stretches from one side of the board to the opposite side. Find three words that are not on the theme and you earn a hint that highlights the letters of a theme word.",
+      ],
+    },
   },
   {
     slug: "nyt-spelling-bee",
@@ -115,6 +142,13 @@ export const TOPICS: Topic[] = [
     name: "NYT Spelling Bee Answers and Hints",
     description: "Every New York Times Spelling Bee page, newest first: letters, hint grid, two-letter list and Genius score, then the pangrams and full word list.",
     match: ["spelling bee"],
+    guide: {
+      heading: "How Spelling Bee works",
+      paras: [
+        "You get seven letters in a honeycomb. Each word must be at least four letters long and must use the yellow center letter, and letters can repeat.",
+        "A four-letter word is worth 1 point and a longer word is worth one point per letter. A pangram uses all seven letters and earns 7 extra points. Genius is 70% of the day's total, so the number changes every day.",
+      ],
+    },
   },
   {
     slug: "nyt-pips",
@@ -122,6 +156,13 @@ export const TOPICS: Topic[] = [
     name: "NYT Pips Answers and Hints",
     description: "Every New York Times Pips page, newest first: hints for the Easy, Medium and Hard boards, then domino placements checked against every region rule.",
     match: ["pips"],
+    guide: {
+      heading: "How Pips works",
+      paras: [
+        "You place every domino on the board so that each colored region meets its condition. A number means the pips in the region add up to it, = means every half shows the same value, ≠ means all are different, and > or < set a total above or below a number. A region with no condition takes anything.",
+        "There are three boards a day: Easy, Medium and Hard. Our pages count rows from the top and columns from the left, so R2C5 is the second row, fifth column.",
+      ],
+    },
   },
   {
     slug: "nyt-letter-boxed",
@@ -129,6 +170,13 @@ export const TOPICS: Topic[] = [
     name: "NYT Letter Boxed Answers and Hints",
     description: "Every New York Times Letter Boxed page, newest first: the four sides and par, starting hints and warm-up words, then the Times' own solution.",
     match: ["letter boxed"],
+    guide: {
+      heading: "How Letter Boxed works",
+      paras: [
+        "You get twelve letters, three on each side of a square. Make words of at least three letters by connecting letters, and never use two letters from the same side one after the other.",
+        "Each new word must start with the last letter of the word before it. Every letter has to be used at least once, and the goal is to finish within par, the number of words the day allows.",
+      ],
+    },
   },
   {
     slug: "nyt-mini-crossword",
@@ -136,6 +184,13 @@ export const TOPICS: Topic[] = [
     name: "NYT Mini Crossword Answers",
     description: "Every New York Times Mini Crossword page, newest first: a hint for each across and down clue, then the full grid from the Mini's official puzzle data.",
     match: ["mini crossword"],
+    guide: {
+      heading: "How the Mini works",
+      paras: [
+        "The Mini is a small daily crossword from The New York Times, usually five squares by five. Across and down answers cross, so each one you fill gives letters to the others.",
+        "The next day's Mini is reported to go live at 10 p.m. Eastern Time (ET) the evening before, and at 6 p.m. ET on Saturday for Sunday's puzzle.",
+      ],
+    },
   },
   {
     slug: "nyt-midi-crossword",
@@ -150,6 +205,13 @@ export const TOPICS: Topic[] = [
     name: "Contexto Answers and Hints",
     description: "Every Contexto page, newest first: the game number, close words ranked by the game itself and hints that narrow the meaning, then the secret word.",
     match: ["contexto"],
+    guide: {
+      heading: "How Contexto works",
+      paras: [
+        "Contexto ranks every guess by how close its meaning is to the secret word, which sits at number 1. Spelling does not matter, only how often words are used together.",
+        "A guess near the top shows green, a middling one yellow and a distant one red. Steer each new guess with your best-ranked words.",
+      ],
+    },
   },
   {
     slug: "quordle",
@@ -157,6 +219,13 @@ export const TOPICS: Topic[] = [
     name: "Quordle Answers and Hints",
     description: "Every Quordle page, newest first: a clue for each of the four five-letter words in the daily puzzle, then all four answers in a marked spoiler section.",
     match: ["quordle"],
+    guide: {
+      heading: "How Quordle works",
+      paras: [
+        "You have nine guesses to solve four five-letter words. Every guess is entered on all four boards at once.",
+        "The tiles color like Wordle's: green for the right letter in the right spot, yellow for a letter in the wrong spot, gray for a letter that is not in that word.",
+      ],
+    },
   },
   {
     slug: "waffle",
@@ -164,6 +233,14 @@ export const TOPICS: Topic[] = [
     name: "Waffle Answers and Hints",
     description: "Every Waffle page, newest first: a clue for each of the six words in the daily grid, then the solved grid and a route that finishes in the minimum swaps.",
     match: ["waffle"],
+    guide: {
+      heading: "How Waffle works",
+      paras: [
+        "The board is a five-by-five grid with four holes, so 21 letters are in play. Three words run across and three run down, and you swap any two letters to put them in place.",
+        "Green means the letter is in the right place, yellow means it belongs in that row or column but elsewhere, and gray means it is not in that row or column. A corner letter can be yellow for either word that meets there.",
+        "You have 15 swaps and earn a star for each one left. The game says every Waffle can be solved in 10 swaps.",
+      ],
+    },
   },
   {
     slug: "linkedin-games",

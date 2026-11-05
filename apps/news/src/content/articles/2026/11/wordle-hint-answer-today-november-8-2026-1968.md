@@ -1,7 +1,7 @@
 ---
-title: "Wordle Hints and Answer Today, #1968 for Sunday, Nov. 8, 2026: Six Clues Before the Reveal"
-seoTitle: "Wordle Hint Today, #1968 (Nov. 8, 2026): Clues & Answer"
-description: "Wordle #1968 for Sunday, Nov. 8, 2026: six graded clues, from the letter pattern to a strong nudge, then the answer in a spoiler section at the end."
+title: "Wordle #1968, Sunday, Nov. 8, 2026: Six Hints and a Repeat Answer Check"
+seoTitle: "Wordle #1968 Hints, Sunday Nov. 8, 2026 and Answer"
+description: "Wordle #1968 for Sunday, Nov. 8, 2026: six hints on letters and meaning, then the answer and a check of whether the same word came up in an earlier puzzle."
 type: explainer
 publishedAt: "2026-11-07T00:05:00-05:00"
 authors: [news-desk]
@@ -14,19 +14,17 @@ hero:
   title: "Wordle #1968 hints, Nov. 8, 2026"
   caption: "Wordle #1968 for Sunday, Nov. 8, 2026; graded clues open the page and the answer waits in the final section."
 summary:
-  - "Today's Wordle is puzzle #1968, for Sunday, Nov. 8, 2026, from The New York Times."
-  - "The answer has one vowel letter and no repeated letter, so every tile is a different letter."
-  - "Six clues below go from gentle to strong; stop when it clicks."
-  - "The answer is in the last section, marked as a spoiler."
+  - "Sunday, Nov. 8, 2026, brings Wordle #1968 from The New York Times."
+  - "The word has one vowel and four consonants, with no letter repeated."
+  - "Six hints cover its meaning, its job in a sentence and its ending."
+  - "The spoiler section shows whether this answer was used before."
 faq:
-  - q: "What number is today's Wordle?"
-    a: "Wordle #1968, for Sunday, Nov. 8, 2026."
-  - q: "Does today's Wordle have a repeated letter?"
-    a: "No. All five letters are different, and the only vowel is I in the second spot."
+  - q: "Has the answer to #1968 been used before?"
+    a: "Yes, once. The puzzle data lists it earlier; the date and number are in the spoiler section."
   - q: "What is the Wordle answer for Nov. 8, 2026?"
     a: "Spoiler: First."
-  - q: "When does the next Wordle come out?"
-    a: "At midnight in your local time. Monday's puzzle is #1969."
+  - q: "What comes after Wordle #1968?"
+    a: "Monday, Nov. 9, 2026, is #1969."
 sources:
   - title: "Wordle"
     url: "https://www.nytimes.com/games/wordle/index.html"
@@ -39,35 +37,33 @@ internalLinks:
 related: [nyt-connections-hints-answers-november-8-2026-1246, nyt-strands-hints-answers-november-8-2026-980, nyt-pips-hints-answers-november-8-2026]
 draft: false
 ---
-**Today's Wordle from The New York Times (NYT) is puzzle #1968, for Sunday, Nov. 8, 2026, edited by Tracy Bennett.** The answer has no repeated letter, and it has just one vowel, which changes how you plan your opening guesses. Take the clues one at a time, and only scroll to the last section if you want the answer itself.
-
-## How Wordle works
-
-You get six tries to find a five-letter word. After each guess, a green tile means the right letter in the right spot, yellow means the letter is in the word but in another spot, and gray means it is not in the word at all. A letter that appears twice is only marked twice if you guess it twice. Gray tiles matter too.
+**Wordle #1968 lands on Sunday, Nov. 8, 2026, from The New York Times (NYT), with Tracy Bennett as editor.** Today's puzzle has a quirk the other recent ones lack, and it is explained in the spoiler section. Basic rules are on the [Wordle page](/news/topic/wordle/#how-it-works).
 
 ## Six clues, gentle to strong
 
-1. **Part of speech:** it works as an adjective, an adverb or a noun.
-2. **Topic:** it describes whatever comes before all the others, in order or in time.
-3. **Vowels:** one vowel letter, I in the second spot, and the word ends in T.
-4. **Repeated letter:** none. All five letters are different.
-5. **First letter:** F.
-6. **Strong nudge:** the opposite of last: "Come in ___ place."
+1. **Vowel count:** one, the letter I, in second place.
+2. **Repeats:** none; all five letters differ.
+3. **Part of speech:** it works as an adjective, an adverb and a noun.
+4. **Meaning:** coming before all others in order or time.
+5. **Ends:** the last two letters are S and T.
+6. **Context:** the winner of a race finishes in this place.
 
 ## Guessing tips for today
 
-With a single vowel, an opener that tests three or four vowels at once shows which one it is in a single row, and the rest of the hunt is consonants. Because no letter repeats, each new guess should use five letters you have not tried yet, so no tile is wasted. Every gray tile rules a letter out for the rest of the game.
+The one vowel sits near the front, so build early guesses around consonant starters that pair naturally with it. The closing pair is a familiar one, so test both letters together rather than one by one. A guess like that clears two spots at once.
 
-Keep your streak on our [printable weekly calendar](/printable-weekly-calendar.html) or the [November 2026 printable calendar](/november-calendars.html).
-
-More of today's puzzles: [Connections hints](/news/nyt-connections-hints-answers-november-8-2026-1246/), [Strands hints](/news/nyt-strands-hints-answers-november-8-2026-980/) and [Pips hints](/news/nyt-pips-hints-answers-november-8-2026/).
+Also published for this date: [Connections](/news/nyt-connections-hints-answers-november-8-2026-1246/), [Strands](/news/nyt-strands-hints-answers-november-8-2026-980/), [Pips](/news/nyt-pips-hints-answers-november-8-2026/). Mark your own streak on the [printable weekly calendar](/printable-weekly-calendar.html).
 
 ## Today's Wordle answer (spoilers)
 
-Stop here if you still want to solve it yourself.
+If you are still playing, close the page now.
 
 **The answer to Wordle #1968 is First.**
 
-First means coming before all others in order or time. The letters are F, I, R, S and T, each used once.
+It means earliest in order, time or rank.
 
-We checked the answer against the puzzle's official data before posting. Wordle #1969 arrives at midnight.
+## Answer history check (spoilers)
+
+Unlike most days, this answer has appeared before: Wordle #56 on Aug. 14, 2021, which is 1,912 puzzle numbers earlier. It is the only repeat of the word in the data (#0 to #1967). The consonant, vowel, consonant, consonant, consonant shape fits 236 earlier answers. Fifteen earlier answers began with F and I, one of them this very word, and 36 ended with S and T. No other earlier answer shares four letters in place; the best, at three, are Burst (#1908), Foist (#1487), Filet (#1162) and Worst (#898).
+
+Wordle #1969 arrives at midnight.

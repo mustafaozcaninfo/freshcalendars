@@ -1,7 +1,7 @@
 ---
-title: "NYT Spelling Bee Hints and Answers for Thursday, Nov. 5, 2026: Hint Grid, One Pangram and Wednesday's Solution"
-seoTitle: "Spelling Bee Hints & Answers Today, Nov. 5, 2026"
-description: "Spelling Bee for Thursday, Nov. 5, 2026: center letter P with G, I, N, O, T and V, the hint grid, two-letter list and pangram hint, then all 42 words."
+title: "NYT Spelling Bee Hints and Answers for Thursday, Nov. 5, 2026: 42 Words Around P and One 11-Letter Entry"
+seoTitle: "Spelling Bee Nov. 5, 2026: Hints and 42 Answers"
+description: "Thursday's Spelling Bee for Nov. 5, 2026 from the New York Times puts P in the middle: 42 words, 249 points and a Genius bar of 174. Hints first, answers last."
 type: explainer
 publishedAt: "2026-11-04T00:05:00-05:00"
 authors: [news-desk]
@@ -14,27 +14,17 @@ hero:
   title: "Spelling Bee hints, Nov. 5, 2026"
   caption: "Spelling Bee for Thursday, Nov. 5, 2026: the hint grid and two-letter list first, the word list only in the spoiler section."
 summary:
-  - "Thursday's Spelling Bee from The New York Times, Nov. 5, 2026, uses the center letter P with G, I, N, O, T and V."
-  - "It has 42 words worth 249 points and one pangram; Genius needs 174 points, 70% of the total."
-  - "Hints come first: the grid, the two-letter list and a clue for the pangram, then the words in a spoiler section."
-  - "Wednesday's full solution, with the pangram Atrophy, is further down; every list comes from the puzzle data on the Spelling Bee page."
+  - "The New York Times Spelling Bee for Thursday, Nov. 5, 2026 has P in the center, with G, I, N, O, T and V around it."
+  - "The list holds 42 words worth 249 points; 30 of the words start with P, and one pangram is among them."
+  - "The seven four-letter words add only 7 points, so Genius at 174 points depends on the longer entries."
+  - "Hints, a data section on word lengths and starting pairs, and a short Wednesday recap come before the spoilers."
 faq:
-  - q: "What are the Spelling Bee letters for Nov. 5, 2026?"
-    a: "The center letter is P, and the outer letters are G, I, N, O, T and V."
-  - q: "How many points does Genius need on Nov. 5, 2026?"
-    a: "174 of 249 possible points (70% is 174.3). The puzzle has 42 words and one pangram."
-  - q: "What is the Spelling Bee pangram for Nov. 5, 2026?"
-    a: "Spoiler: Pivoting."
-  - q: "What was the Spelling Bee pangram on Nov. 4, 2026?"
-    a: "Atrophy, seven letters. The center letter was O and the outer letters were A, H, P, R, T and Y."
-  - q: "How many points did Genius need on Nov. 4, 2026?"
-    a: "200 of 286 possible points (70% is 200.2). The puzzle had 68 words."
-  - q: "How is Spelling Bee scored?"
-    a: "A four-letter word scores 1 point, a longer word scores one point per letter, and a pangram, which uses all seven letters, adds 7 bonus points. Thursday's 42 words add up to 249 points under those rules."
-  - q: "Can letters be used more than once?"
-    a: "Yes. Every word must contain the center letter and be at least four letters long, and any letter can repeat, as in Popping or Pippin from Thursday's list."
-  - q: "Who edits Spelling Bee?"
-    a: "Sam Ezersky, according to the puzzle data on The New York Times' Spelling Bee page."
+  - q: "Why does Nov. 5 lean so hard on the letter P?"
+    a: "The center letter P is required in every word, and 30 of the 42 answers also begin with it. Only G, N, O and T start the other 12 words, and V starts none."
+  - q: "Is there a long word on Nov. 5 that is worth chasing first?"
+    a: "Yes. One answer has 11 letters and is worth 11 points: Pinpointing. It uses the letters P, I, N, O, T and G, and the V never appears in it."
+  - q: "How many of the Nov. 5 answers end in -ing?"
+    a: "22 of the 42 answers end in -ing. The other 20 include the four-letter words and shorter entries such as Pinot and Pivot."
 sources:
   - title: "Spelling Bee"
     url: "https://www.nytimes.com/puzzles/spelling-bee"
@@ -48,17 +38,11 @@ related: [wordle-hint-answer-today-november-5-2026-1965, nyt-connections-hints-a
 draft: false
 ---
 
-**Thursday's Spelling Bee from The New York Times (NYT), for Nov. 5, 2026, puts P in the center with G, I, N, O, T and V around it.** It has 42 words worth 249 points and one pangram, with Genius at 174 points. The hint grid, the two-letter list and the pangram clue come first; the full word list waits in a spoiler section, with Wednesday's solution below it.
+**The New York Times (NYT) Spelling Bee for Thursday, Nov. 5, 2026, builds its list around P, with G, I, N, O, T and V in the outer ring.** The puzzle holds 42 words and 249 points, and 30 of those words open with the center letter. Hints come first. You get a grid, a count of the thin starting pairs and a clue for the pangram. The words wait at the bottom.
 
-## How Spelling Bee works
+Genius is 174 points today. The rules are on our [Spelling Bee page](/news/topic/nyt-spelling-bee/#how-it-works).
 
-You get seven letters in a honeycomb. Each word must be at least four letters long and must use the yellow center letter; letters can repeat. A four-letter word is worth 1 point and a longer word is worth one point per letter. A pangram uses all seven letters and earns 7 extra points. Genius sits at 70% of the day's total, which is 174 of 249 points today.
-
-## How to use the hint grid
-
-The grid counts the answers by first letter and by length. Start with a row that has many short words, find those, then move to the longer columns. Short ones first. The two-letter list does the same job with more precision: "PI-19" means 19 answers begin with P and I.
-
-## Thursday's hint grid, Nov. 5, 2026
+## Nov. 5 hint grid
 
 Center letter P; outer letters G, I, N, O, T, V. 42 words, 249 points, one pangram.
 
@@ -73,13 +57,25 @@ Center letter P; outer letters G, I, N, O, T, V. 42 words, 249 points, one pangr
 
 Two-letter starts: GO-1, NI-1, OP-5, PI-19, PO-11, TI-3, TO-2.
 
-## Pangram hint
+## Pangram clue
 
-- **Pangram** (8 letters, starts with P): turning on a central point, or the act of turning around one; the letter I appears twice, and the word ends in -ing.
+- **Pangram** (8 letters, starts with P): a basketball player's move with one foot planted, or any turn around a fixed point; I shows up twice and the word closes with -ing.
 
-Look for doubles. Watch for them. A repeated letter sits side by side in 13 of Thursday's 42 answers. Also, 22 of the 42 answers end in -ing, and 30 of them start with P.
+Start with the 30 words that open with P and sort them by their second letter: 19 continue with I and 11 with O. The other 12 answers start with G, N, O or T, and the O group is the largest of them with five. The V starts nothing. One pangram only.
 
-More of Thursday's games: [Wordle hints](/news/wordle-hint-answer-today-november-5-2026-1965/), [Connections hints](/news/nyt-connections-hints-answers-november-5-2026-1243/) and [Pips hints](/news/nyt-pips-hints-answers-november-5-2026/). Track a Genius streak on our [printable weekly calendar](/printable-weekly-calendar.html) or the [November 2026 calendar](/november-calendars.html).
+## What the Nov. 5 numbers say about the hardest words
+
+- **Longest entries:** one at 11 letters (starting with P); two at 9 letters (starting with O and P); three at 8 letters (starting with P, P and P).
+- **Pairs that open a single word:** *go*, *ni*. No other answer shares their first two letters.
+- **Four-letter words versus Genius:** the 7 four-letter words add 7 points, which leaves 167 of the 174 Genius points to find in longer words and the pangram.
+- **Repeated letters:** 32 of the 42 words use some letter twice or more, and 13 of them double a letter back to back.
+- **The lone V:** it appears in 2 words only, so check it early.
+
+## Wednesday's puzzle in brief
+
+Wednesday's honeycomb had O in the center and A, H, P, R, T and Y around it. It had 68 words and 286 points, with Genius at 200, and its pangram was Atrophy.
+
+Elsewhere today: [Wordle hints](/news/wordle-hint-answer-today-november-5-2026-1965/), [Connections hints](/news/nyt-connections-hints-answers-november-5-2026-1243/), [Pips hints](/news/nyt-pips-hints-answers-november-5-2026/). Keep score on the [November 2026 calendar](/november-calendars.html) or the [weekly planner](/printable-weekly-calendar.html).
 
 ## Thursday's Spelling Bee answers, Nov. 5, 2026 (spoilers)
 
@@ -95,34 +91,3 @@ Stop here if you are still working on Thursday's puzzle.
 - **11 letters:** Pinpointing
 
 The 7 four-letter words give 7 points, the 35 longer words give 235, and the pangram bonus adds 7, for 249.
-
-## Wednesday's hint grid, Nov. 4, 2026
-
-Center letter O; outer letters A, H, P, R, T, Y. 68 words, 286 points, one pangram.
-
-| Starts with | 4 letters | 5 letters | 6 letters | 7 letters | 8 letters | 9 letters | Total |
-|---|---|---|---|---|---|---|---|
-| A | 2 | 1 | 1 | 1 | - | - | 5 |
-| H | 5 | 2 | 4 | - | - | 1 | 12 |
-| O | 2 | - | 1 | 1 | - | - | 4 |
-| P | 6 | 4 | 2 | 2 | - | 1 | 15 |
-| R | 3 | 1 | 2 | 2 | 1 | - | 9 |
-| T | 8 | 6 | 5 | 2 | - | - | 21 |
-| Y | - | 1 | 1 | - | - | - | 2 |
-| Total | 26 | 15 | 16 | 8 | 1 | 2 | 68 |
-
-Two-letter starts: AH-1, AO-1, AR-1, AT-2, HO-11, HY-1, OA-2, OR-2, PA-2, PH-2, PO-9, PR-1, PY-1, RA-2, RO-7, TA-4, TH-2, TO-8, TR-5, TY-2, YA-1, YO-1.
-
-## Wednesday's Spelling Bee answers, Nov. 4, 2026 (spoilers)
-
-Stop here if you are still working on Wednesday's puzzle.
-
-- **Pangram:** Atrophy
-- **4 letters:** Ahoy, Atop, Hoar, Hoop, Hoot, Hora, Hypo, Oath, Oaty, Pooh, Poop, Poor, Port, Prop, Pyro, Roar, Root, Ropy, Taro, Toot, Toro, Tort, Trot, Troy, Typo, Tyro
-- **5 letters:** Aorta, Hoary, Hoppy, Photo, Poppa, Poppy, Potty, Rotor, Tarot, Tooth, Torah, Torta, Troop, Troth, Yahoo
-- **6 letters:** Arroyo, Hoorah, Hooray, Horror, Hotpot, Orator, Parrot, Potato, Raptor, Rotary, Tattoo, Throat, Toothy, Torpor, Trophy, Yoohoo
-- **7 letters:** Atrophy, Oratory, Pharaoh, Portray, Rapport, Rotator, Taproot, Throaty
-- **8 letters:** Rotatory
-- **9 letters:** Hortatory, Paratroop
-
-The 26 four-letter words give 26 points, the 42 longer words give 253, and the pangram bonus adds 7, for 286.

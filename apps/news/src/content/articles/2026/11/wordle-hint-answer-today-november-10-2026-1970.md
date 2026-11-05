@@ -1,7 +1,7 @@
 ---
-title: "Wordle Hints and Answer Today, #1970 for Tuesday, Nov. 10, 2026: Six Clues Before the Reveal"
-seoTitle: "Wordle Hint Today, #1970 (Nov. 10, 2026): Clues & Answer"
-description: "Wordle #1970 for Tuesday, Nov. 10, 2026: six graded clues, from the letter pattern to a strong nudge, then the answer in a spoiler section at the end."
+title: "Wordle #1970 on Tuesday, Nov. 10, 2026: Stepwise Hints, Then the Answer"
+seoTitle: "Wordle #1970 Hints, Tuesday Nov. 10, 2026 and Answer"
+description: "Hints for Wordle #1970 on Tuesday, Nov. 10, 2026, from the letter layout through the meaning, then the answer and a closer look at its near twins."
 type: explainer
 publishedAt: "2026-11-09T00:05:00-05:00"
 authors: [news-desk]
@@ -14,19 +14,17 @@ hero:
   title: "Wordle #1970 hints, Nov. 10, 2026"
   caption: "Wordle #1970 for Tuesday, Nov. 10, 2026; graded clues come first and the answer only in the final section."
 summary:
-  - "Today's Wordle is puzzle #1970, for Tuesday, Nov. 10, 2026, from The New York Times."
-  - "The answer has two vowel letters and no repeated letter, so every tile is a different letter."
-  - "Six clues below go from gentle to strong; stop when it clicks."
-  - "The answer is in the last section, marked as a spoiler."
+  - "Tuesday, Nov. 10, 2026, is Wordle #1970 from The New York Times."
+  - "Two vowels are split by consonants."
+  - "Hints go from the layout to what the word means and where you hear it."
+  - "A near twin from 81 puzzles ago is discussed in the spoiler section."
 faq:
-  - q: "What number is today's Wordle?"
-    a: "Wordle #1970, for Tuesday, Nov. 10, 2026."
-  - q: "Does today's Wordle have a repeated letter?"
-    a: "No. All five letters are different, and the two vowels are U in the third spot and E in the fifth."
+  - q: "Did a similar answer appear recently?"
+    a: "Yes. One earlier answer matches in four places and appeared 81 puzzle numbers before today's. The spoiler section names it."
   - q: "What is the Wordle answer for Nov. 10, 2026?"
     a: "Spoiler: Truce."
-  - q: "When does the next Wordle come out?"
-    a: "At midnight in your local time. Wednesday's puzzle is #1971."
+  - q: "What number does Wordle reach on Wednesday?"
+    a: "Wednesday, Nov. 11, 2026, is #1971."
 sources:
   - title: "Wordle"
     url: "https://www.nytimes.com/games/wordle/index.html"
@@ -39,35 +37,33 @@ internalLinks:
 related: [nyt-connections-hints-answers-november-10-2026-1248, nyt-strands-hints-answers-november-10-2026-982, nyt-pips-hints-answers-november-10-2026]
 draft: false
 ---
-**Today's Wordle from The New York Times (NYT) is puzzle #1970, for Tuesday, Nov. 10, 2026, edited by Tracy Bennett.** The answer has no repeated letter and ends in E, so your first guesses can test five fresh letters each time. Take the clues one at a time, and only scroll to the last section if you want the answer itself.
-
-## How Wordle works
-
-You get six tries to find a five-letter word. After each guess, a green tile means the right letter in the right spot, yellow means the letter is in the word but in another spot, and gray means it is not in the word at all. A letter that appears twice is only marked twice if you guess it twice. Gray tiles matter too.
+**Wordle #1970 is Tuesday's puzzle, Nov. 10, 2026, from The New York Times (NYT), edited by Tracy Bennett.** Its two vowels are not neighbors, and it closes with one. The [Wordle rules](/news/topic/wordle/#how-it-works) are on the hub page.
 
 ## Six clues, gentle to strong
 
-1. **Part of speech:** it is a noun.
-2. **Topic:** it has to do with conflict, or rather a pause in one.
-3. **Vowels:** two vowel letters, U in the third spot and E in the fifth.
-4. **Repeated letter:** none. All five letters are different.
-5. **First letter:** T.
-6. **Strong nudge:** two sides that agree to stop fighting for a while "call a ___."
+1. **Letters:** five different ones.
+2. **Vowels:** U in the third spot and E at the end.
+3. **Opening pair:** T first, then R.
+4. **Part of speech:** a noun.
+5. **Meaning:** an agreement to stop a fight for a while.
+6. **Where it comes up:** when two sides in a conflict talk.
 
 ## Guessing tips for today
 
-Because no letter repeats, each new guess should use five letters you have not tried yet, so no tile is wasted. Once both vowels show up yellow or green, stop spending tiles on vowels and switch to common consonants. Use gray tiles as much as green ones.
+A closing vowel ended 390 of the 1,970 earlier answers, so your first row can test it. The opening pair is easy to confirm, so locking in two greens early frees guesses for the middle. Watch for look-alikes that end the same way. Of eight starters checked against the answer, Trace matches four letters in the exact spot. Crane and Irate share three letters, two of them in place, and Audio shares just one. A starter built on the same opening pair is therefore a fair first guess.
 
-Keep your streak on our [printable weekly calendar](/printable-weekly-calendar.html) or the [November 2026 printable calendar](/november-calendars.html).
-
-More of today's puzzles: [Connections hints](/news/nyt-connections-hints-answers-november-10-2026-1248/), [Strands hints](/news/nyt-strands-hints-answers-november-10-2026-982/) and [Pips hints](/news/nyt-pips-hints-answers-november-10-2026/).
+If you play the full set, here are [Connections](/news/nyt-connections-hints-answers-november-10-2026-1248/), [Strands](/news/nyt-strands-hints-answers-november-10-2026-982/), [Pips](/news/nyt-pips-hints-answers-november-10-2026/). Mark your own streak on the [printable weekly calendar](/printable-weekly-calendar.html).
 
 ## Today's Wordle answer (spoilers)
 
-Stop here if you still want to solve it yourself.
+The answer is below, so turn back if you want to keep trying.
 
 **The answer to Wordle #1970 is Truce.**
 
-A truce is an agreement between two sides to stop fighting for a time. The letters are T, R, U, C and E, each used once.
+A truce is a pause in fighting that both sides agree to.
 
-We checked the answer against the puzzle's official data before posting. Wordle #1971 arrives at midnight.
+## Answer history check (spoilers)
+
+No earlier puzzle used it in the data for #0 to #1969. Its consonant, consonant, vowel, consonant, vowel pattern fits 177 earlier answers. Thirty-two began with T and R, and 28 closed with C and E. Trace (#1889), from 81 puzzle numbers ago, matches in four places, as do Trice (#457) and Truck (#1637). Trunk (#1927) and Tribe (#1885) match in three. The closing E sits in 390 earlier answers, nearly a fifth of the 1,970. The letter U sat in 384 earlier answers and C in 381. Exactly 1,148 earlier answers held two vowels from A, E, I, O or U, as this one does, and 28 shared four letters or more with it, in any position.
+
+Wordle #1971 opens at midnight.

@@ -1,7 +1,7 @@
 ---
-title: "NYT Strands Hints and Answers for Friday, Nov. 13, 2026 (#985): Hints for the Spangram and Six Theme Words"
-seoTitle: "Strands Hints, Spangram & Answers, Nov. 13, 2026 (#985)"
-description: "Strands #985 for Friday, Nov. 13, 2026: hints for the spangram and each of the six theme words, then all the answers in a spoiler section at the end."
+title: "NYT Strands Answers for Friday, Nov. 13, 2026 (#985): Hints First, Spoilers Last"
+seoTitle: "Strands #985: Nov. 13, 2026 Hints, Answers"
+description: "Strands #985 for Friday, Nov. 13, 2026 has the clue \"Not a good sign.\" Hints and a board map for six theme words and the spangram; answers last."
 type: explainer
 publishedAt: "2026-11-12T00:05:00-05:00"
 authors: [news-desk]
@@ -14,19 +14,17 @@ hero:
   title: "Strands #985 hints, Nov. 13, 2026"
   caption: "Strands puzzle #985 for Friday, Nov. 13, 2026: hints for the spangram and theme words first, all answers only at the end."
 summary:
-  - "Today's Strands is puzzle #985, for Friday, Nov. 13, 2026, with the theme clue 'Not a good sign.'"
-  - "The spangram is a phrase of two words of 10 letters, and there are six theme words."
-  - "Hints below cover the spangram first, then the theme words, each hidden until you open it."
-  - "All answers are in the last section, marked as spoilers."
+  - "Strands #985 falls on Friday, Nov. 13, 2026, and its clue is \"Not a good sign.\""
+  - "The spangram runs 10 letters and touches the bottom, left and right edges; the board holds six theme words."
+  - "Hints come first, then a map of where the words sit on the board."
+  - "Every answer is held back in the last section, behind a spoiler marker."
 faq:
-  - q: "What is today's Strands theme?"
-    a: "The clue for puzzle #985 on Nov. 13, 2026, is 'Not a good sign.'"
-  - q: "What is the Strands spangram for Nov. 13, 2026?"
-    a: "Spoiler: Rotten Luck, ten letters, starting at the left edge in the fourth row, running across the fifth row and ending in the bottom-right corner."
-  - q: "What are today's Strands answers?"
+  - q: "How long is the spangram in Strands #985, and how does it compare with the theme words?"
+    a: "It has 10 letters; the longest theme word has 10 and the shortest 4."
+  - q: "What time does the next Strands puzzle arrive?"
+    a: "Puzzle #986 is the next one, available at midnight."
+  - q: "What are the Strands answers for Nov. 13, 2026?"
     a: "Spoilers: the theme words are Broken, Floor, Mirror, Salt, Spilled, Thirteenth, and the spangram is Rotten Luck."
-  - q: "How does Strands work?"
-    a: "Find theme words by linking adjacent letters in any direction on a six-by-eight board, using every letter once. The spangram describes the theme and touches two opposite sides of the board."
 sources:
   - title: "Strands"
     url: "https://www.nytimes.com/games/strands"
@@ -39,44 +37,55 @@ internalLinks:
 related: [wordle-hint-answer-today-november-13-2026-1973, nyt-connections-hints-answers-november-13-2026-1251, nyt-pips-hints-answers-november-13-2026]
 draft: false
 ---
-**Today's Strands from The New York Times (NYT) is puzzle #985, for Friday, Nov. 13, 2026, and its theme clue is "Not a good sign."** The puzzle runs on Friday the 13th, so think of superstitions about bad luck. The puzzle was constructed by Hope Fourie and edited by Tracy Bennett. Below are hints for the spangram and each theme word; the answers wait in a marked spoiler section at the end.
+**Today's Strands from The New York Times (NYT) is puzzle #985, for Friday, Nov. 13, 2026, and its theme clue is "Not a good sign."** Superstitions are the theme, with some words forming pairs. It was constructed by Hope Fourie and edited by Tracy Bennett. Hints for the spangram and each theme word come first; the answers wait in a marked spoiler section at the end.
 
-## How Strands works
-
-The board is six letters wide and eight tall. Theme words are made by linking letters that touch, up, down, sideways or diagonally, and every letter is used exactly once. One special answer, the spangram, names the theme and stretches from one side of the board to the opposite side. Find three non-theme words and you earn a hint that highlights the letters of a theme word.
+For the rules, see our [Strands page](/news/topic/nyt-strands/#how-it-works); today's twist is a 10-letter spangram that shares the board with six theme words.
 
 ## Spangram hints
 
-- Hint 1: It is a phrase for a run of misfortune.
-- Hint 2: It is two words, and the first means decayed.
-- Hint 3: Ten letters, and the first letter is R.
+- Hint 1: What superstitious people say will follow an unlucky omen.
+- Hint 2: Two words: the first means spoiled, the second means fortune.
+- Hint 3: Ten letters, opening with R.
 
 ## Theme word hints
 
-There are six theme words, and they pair up into three signs of bad luck:
+Six theme words, which form three two-word omens between them:
 
-- **4 letters, starts with S:** a seasoning; knocking it over is said to be unlucky.
-- **5 letters, starts with F:** part of a building; many skip the one numbered 13.
-- **6 letters, starts with B:** cracked or shattered.
-- **6 letters, starts with M:** a looking glass.
-- **7 letters, starts with S:** knocked over, as a shaker on a table.
-- **10 letters, starts with T:** the ordinal for 13.
+- **4 letters, starts with S:** a seasoning, tossed over a shoulder for luck.
+- **5 letters, starts with F:** a level of a building, and one hotels sometimes skip.
+- **6 letters, starts with B:** cracked into pieces.
+- **6 letters, starts with M:** glass that shows your reflection.
+- **7 letters, starts with S:** knocked over, as a shaker might be.
+- **10 letters, starts with T:** the ordinal after twelfth.
+
+## Where today's spangram and theme words sit
+
+10 tiles make up the spangram, and its path opens at row 4, column 1. It closes at row 8, column 6, touching the bottom, left and right edges and turning 2 times, across rows 4 to 8 and columns 1 to 6. Its longest straight run is 6 tiles.
+
+The densest corner is the top-right quarter (rows 1 to 4, columns 4 to 6). It holds 12 theme tiles and 0 spangram tiles. Whole theme words that fit inside it: the 6-letter B word.
+
+By length, the longest theme word is the 10-letter T word, at 10 letters, and the shortest is the 4-letter S word, at 4 letters. At 10 letters the spangram matches the longest theme word. Quarter by quarter, the theme tiles split as top-left 11, top-right 12, bottom-left 9, bottom-right 6.
+
+| Theme word | Rows | Columns | Where it sits |
+|---|---|---|---|
+| 6-letter B word | 1 to 3 | 4 to 6 | entirely top-right |
+| 5-letter F word | 6 to 8 | 1 to 2 | entirely bottom-left |
+| 6-letter M word | 6 to 8 | 3 to 5 | mostly bottom-right (5 of 6 tiles) |
+| 4-letter S word | 7 to 8 | 2 to 4 | mostly bottom-left (3 of 4 tiles) |
+| 7-letter S word | 2 to 4 | 3 to 6 | mostly top-right (6 of 7 tiles) |
+| 10-letter T word | 1 to 4 | 1 to 3 | entirely top-left |
 
 ## Solving tips
 
-Start with the spangram. On today's board it starts at the left edge in the fourth row, drops one row, runs straight across the fifth row to the right edge and finishes down the last column in the bottom-right corner. The six theme words pair up into three phrases of two words, and one theme word is as long as the spangram. The six theme words use 38 letters, so the spangram and the theme words together fill all 48 tiles. If you get stuck, spell any ordinary words you can see to earn a hint.
+Pair the words up as you find them. Three of the answers go before the other three. Mark your solve days on the [printable weekly calendar](/printable-weekly-calendar.html) or the [November 2026 printable calendar](/november-calendars.html).
 
-Keep a streak log on our [printable weekly calendar](/printable-weekly-calendar.html) or the [November 2026 printable calendar](/november-calendars.html).
-
-More of today's puzzles: [Wordle hints](/news/wordle-hint-answer-today-november-13-2026-1973/), [Connections hints](/news/nyt-connections-hints-answers-november-13-2026-1251/) and [Pips hints](/news/nyt-pips-hints-answers-november-13-2026/).
+More puzzles for this date: [Wordle](/news/wordle-hint-answer-today-november-13-2026-1973/), [Connections](/news/nyt-connections-hints-answers-november-13-2026-1251/) and [Pips](/news/nyt-pips-hints-answers-november-13-2026/).
 
 ## Today's Strands answers (spoilers)
 
-Stop here if you still want to solve it yourself.
+Spoilers start below this line.
 
 - **Spangram:** Rotten Luck
 - **Theme words:** Broken, Floor, Mirror, Salt, Spilled, Thirteenth
 
-All seven answers fit the clue: the six theme words make three superstitions, broken mirror, spilled salt and the thirteenth floor, and the spangram is what they are said to bring. The spangram is a single string of ten letters on the board, with no spaces.
-
-We checked the answers against the puzzle's official data before posting. Puzzle #986 arrives at midnight.
+The three omens are a broken mirror, spilled salt and the thirteenth floor, and the spangram is the bad fortune they point to.

@@ -1,7 +1,7 @@
 ---
-title: "Wordle Hints and Answer Today, #1969 for Monday, Nov. 9, 2026: Six Clues Before the Reveal"
-seoTitle: "Wordle Hint Today, #1969 (Nov. 9, 2026): Clues & Answer"
-description: "Wordle #1969 for Monday, Nov. 9, 2026: six graded clues, from the letter pattern to a strong nudge, then the answer in a spoiler section at the end."
+title: "Wordle Hints and Clues for Monday, Nov. 9, 2026: Puzzle #1969 Before the Answer"
+seoTitle: "Wordle #1969 Hints for Monday, Nov. 9, 2026"
+description: "Monday's Wordle #1969 on Nov. 9, 2026: six hints about its vowel run, its meaning and its soil connection, then a spoiler section with the answer."
 type: explainer
 publishedAt: "2026-11-08T00:05:00-05:00"
 authors: [news-desk]
@@ -14,19 +14,17 @@ hero:
   title: "Wordle #1969 hints, Nov. 9, 2026"
   caption: "Wordle #1969 for Monday, Nov. 9, 2026; graded clues come first and the answer only in the final section."
 summary:
-  - "Today's Wordle is puzzle #1969, for Monday, Nov. 9, 2026, from The New York Times."
-  - "The answer has two vowel letters and no repeated letter, so every tile is a different letter."
-  - "Six clues below go from gentle to strong; stop when it clicks."
-  - "The answer is in the last section, marked as a spoiler."
+  - "Monday, Nov. 9, 2026, features Wordle #1969 from The New York Times."
+  - "Two vowels sit side by side in the middle of the word."
+  - "Hints describe the meaning, the ending and a garden connection."
+  - "The answer and its history check come last, under a spoiler heading."
 faq:
-  - q: "What number is today's Wordle?"
-    a: "Wordle #1969, for Monday, Nov. 9, 2026."
-  - q: "Does today's Wordle have a repeated letter?"
-    a: "No. All five letters are different, and the two vowels are O in the second spot and A in the third."
+  - q: "How common is the last letter of #1969 among earlier answers?"
+    a: "It ended 279 of the 1,969 earlier answers, so it is far from rare as a closer."
   - q: "What is the Wordle answer for Nov. 9, 2026?"
     a: "Spoiler: Loamy."
-  - q: "When does the next Wordle come out?"
-    a: "At midnight in your local time. Tuesday's puzzle is #1970."
+  - q: "When is Wordle #1970 released?"
+    a: "At midnight local time, for Tuesday, Nov. 10, 2026."
 sources:
   - title: "Wordle"
     url: "https://www.nytimes.com/games/wordle/index.html"
@@ -39,35 +37,33 @@ internalLinks:
 related: [nyt-connections-hints-answers-november-9-2026-1247, nyt-strands-hints-answers-november-9-2026-981, nyt-pips-hints-answers-november-9-2026]
 draft: false
 ---
-**Today's Wordle from The New York Times (NYT) is puzzle #1969, for Monday, Nov. 9, 2026, edited by Tracy Bennett.** The answer has no repeated letter, and it ends in Y, which changes how you plan your first guesses. Take the clues one at a time, and only scroll to the last section if you want the answer itself.
-
-## How Wordle works
-
-You get six tries to find a five-letter word. After each guess, a green tile means the right letter in the right spot, yellow means the letter is in the word but in another spot, and gray means it is not in the word at all. A letter that appears twice is only marked twice if you guess it twice. Gray tiles matter too.
+**Monday's puzzle, Wordle #1969 for Nov. 9, 2026, was edited by Tracy Bennett for The New York Times (NYT).** A pair of adjacent vowels in the middle is the notable shape this time. See the [Wordle hub](/news/topic/wordle/#how-it-works) for the rules; this page sticks to today's word.
 
 ## Six clues, gentle to strong
 
-1. **Part of speech:** it is an adjective.
-2. **Topic:** it describes a kind of soil.
-3. **Vowels:** two vowel letters, O in the second spot and A in the third, and the word ends in Y.
-4. **Repeated letter:** none. All five letters are different.
-5. **First letter:** L.
-6. **Strong nudge:** a gardener might call dark, crumbly earth this: "rich, ___ soil."
+1. **Vowel run:** the second and third letters are both vowels.
+2. **Vowels used:** O and A, in that order.
+3. **Part of speech:** an adjective.
+4. **Meaning:** describes earth that is crumbly and rich.
+5. **Where you meet it:** in a gardening book, about a bed of dirt.
+6. **Ending:** the last letter is Y, and it follows an M.
 
 ## Guessing tips for today
 
-Once both vowels show up yellow or green, stop spending tiles on vowels and switch to common consonants. Because no letter repeats, each new guess should use five letters you have not tried yet, so no tile is wasted. Gray tiles count too: drop those letters for good.
+The two vowels in the middle are the key. A guess that places both can confirm the center in one row. A finishing letter that often marks adjectives is worth testing early. Of eight starters checked against the answer, Audio and Slate share two letters with it. Crane, Stare, Irate and Trace share one each, in the exact spot, while Adieu and Raise share one letter out of place. Any of these gives you the vowel pair quickly.
 
-Keep your streak on our [printable weekly calendar](/printable-weekly-calendar.html) or the [November 2026 printable calendar](/november-calendars.html).
-
-More of today's puzzles: [Connections hints](/news/nyt-connections-hints-answers-november-9-2026-1247/), [Strands hints](/news/nyt-strands-hints-answers-november-9-2026-981/) and [Pips hints](/news/nyt-pips-hints-answers-november-9-2026/).
+Other puzzles for this date: [Connections](/news/nyt-connections-hints-answers-november-9-2026-1247/), [Strands](/news/nyt-strands-hints-answers-november-9-2026-981/), [Pips](/news/nyt-pips-hints-answers-november-9-2026/). Mark your own streak on the [printable weekly calendar](/printable-weekly-calendar.html).
 
 ## Today's Wordle answer (spoilers)
 
-Stop here if you still want to solve it yourself.
+This is the point of no return for a spoiler-free run.
 
 **The answer to Wordle #1969 is Loamy.**
 
-Loamy describes soil that contains loam. The letters are L, O, A, M and Y, each used once.
+Loamy soil is a rich mix of sand, silt and clay.
 
-We checked the answer against the puzzle's official data before posting. Wordle #1970 arrives at midnight.
+## Answer history check (spoilers)
+
+The answer data for #0 to #1968 has no earlier use of it. Its pattern (a consonant, two vowels, two consonants) fits 156 earlier answers. Eighteen opened with L and O, and only eight closed with M and Y. Foamy (#1386) matches in four places. At three places each come Lorry (#1859), Loath (#1794), Toady (#1764) and Lobby (#1723). M fell fourth in just 58 earlier answers, the lowest of any of its five letters in place. Fifteen earlier answers opened with L and closed with Y. A appeared in 779 earlier answers and O in 592, and 1,147 of them held exactly two vowels from A, E, I, O or U. Fourteen shared four letters or more with it.
+
+Wordle #1970 comes at midnight.

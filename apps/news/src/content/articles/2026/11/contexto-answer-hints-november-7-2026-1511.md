@@ -1,7 +1,7 @@
 ---
-title: "Contexto Answer and Hints Today, #1511 for Saturday, Nov. 7, 2026: Close Words Before the Secret Word"
-seoTitle: "Contexto Answer Today, #1511 (Nov. 7, 2026): Hints"
-description: "Contexto #1511 for Saturday, Nov. 7, 2026: graded hints and words that rank close to the secret word, then the answer in a marked section at the end."
+title: "Contexto #1511 on Saturday, Nov. 7, 2026: Hints, Close Words in Three Groups, Far-Off Guesses"
+seoTitle: "Contexto #1511 Hints and Close Words, Nov. 7, 2026"
+description: "Contexto #1511 for Saturday, Nov. 7, 2026: hints, the game's 30 closest words in three groups, two guesses that miss by hundreds of ranks, then the answer."
 type: explainer
 publishedAt: "2026-11-06T00:05:00-05:00"
 authors: [news-desk]
@@ -14,19 +14,17 @@ hero:
   title: "Contexto #1511 hints, Nov. 7, 2026"
   caption: "Contexto game #1511 for Saturday, Nov. 7, 2026; graded hints and close words come first, the secret word only at the end."
 summary:
-  - "Today's Contexto is game #1511, for Saturday, Nov. 7, 2026."
-  - "The secret word is a 7-letter noun for a small baked good."
-  - "Hints go from broad to strong, with words that rank close to the answer."
-  - "The answer is in the last section, marked as a spoiler."
+  - "Contexto #1511 falls on Saturday, Nov. 7, 2026, and the secret word is a noun with 7 letters."
+  - "The game's 30 closest words split into baked goods, foods served alongside, and flavors."
+  - "Kitchen ranks 466 and yeast ranks 515, so two obvious baking guesses miss."
+  - "The answer is in the final section behind a spoiler label."
 faq:
-  - q: "What number is today's Contexto?"
-    a: "Game #1511, for Saturday, Nov. 7, 2026."
   - q: "What is the Contexto answer for Nov. 7, 2026?"
     a: "Spoiler: Biscuit."
-  - q: "What was yesterday's Contexto answer?"
+  - q: "What was the previous Contexto word?"
     a: "Spoiler: Tiger, for game #1510 on Friday, Nov. 6, 2026."
-  - q: "How does Contexto work?"
-    a: "You guess words and the game ranks each by how close it is in meaning to the secret word, which is number 1. The lower the number, the closer you are."
+  - q: "Is cookie a good guess in game #1511?"
+    a: "Cookie ranks 20, so it is close and a useful signal, though it is not the target."
 sources:
   - title: "Contexto"
     url: "https://contexto.me/"
@@ -39,26 +37,30 @@ internalLinks:
 related: [wordle-hint-answer-today-november-7-2026-1967, nyt-connections-hints-answers-november-7-2026-1245, nyt-strands-hints-answers-november-7-2026-979]
 draft: false
 ---
-**Today's Contexto is game #1511, for Saturday, Nov. 7, 2026.** It is a Saturday. The secret word is a short noun, 7 letters, and it names something you bake. The hints below go from broad to strong, followed by a list of words that rank close to it; the answer waits at the end.
-
-## How Contexto works
-
-Contexto ranks every guess by how close its meaning is to the secret word, which sits at number 1. Spelling and letters do not matter, only how words are used together. A guess in the top 300 or so shows green, a middling one yellow, and a distant one red. Steer each new guess with your best-ranked words.
+**Today's Contexto is game #1511, for Saturday, Nov. 7, 2026.** The word to find is a noun with 7 letters, and it is something people eat. What follows: four hints, the closest thirty words the game lists, two baking guesses that rank well outside the top 400, and the answer at the end. If you want the basics first, the [Contexto page](/news/topic/contexto/#how-it-works) covers them, and for game #1511 a handy marker is rank 20, where cookie lands.
 
 ## Hints, broad to strong
 
-1. It is a noun with 7 letters.
-2. It is food, something made in an oven rather than on a stovetop.
-3. It is a small baked item, and in the US it is a soft, fluffy kind of quick bread.
-4. In the US it is often split open and served with gravy; in the UK the same word means a cookie.
+1. Seven letters.
+2. It is a food that gets cooked in dry heat.
+3. Breakfast ranks 78 in the game's list.
+4. Gravy and sausage are both in the top five of the game's list.
 
-## Words that rank close
+## What the 30 closest words say
 
-These guesses rank near the top today, according to the game's own closest-words list: bread (2), bake (3), gravy (4), sausage (5), muffin (6), butter (8), toast (9), scone (10), pancake (12) and cookie (20). If "bread" or "gravy" sits in your top 50, think about the small baked one.
+Below are ranks 2 to 31 from the game's own list. We made the three groups ourselves, and the game offers no labels.
 
-Keep a streak log on our [printable weekly calendar](/printable-weekly-calendar.html) or the [November 2026 printable calendar](/november-calendars.html).
+**Baked goods.** Bread (2), bake (3), muffin (6), toast (9), scone (10), pancake (12), cake (14), waffle (16), pie (17), cookie (20), cornbread (23), shortbread (26), pastry (27), crust (30) and loaf (31). Fifteen words, half the list, belong to the bakery.
 
-More of today's puzzles: [Wordle hints](/news/wordle-hint-answer-today-november-7-2026-1967/), [Connections hints](/news/nyt-connections-hints-answers-november-7-2026-1245/) and [Strands hints](/news/nyt-strands-hints-answers-november-7-2026-979/).
+**Served with it.** Gravy (4), sausage (5), butter (8), cheese (11), buttermilk (18), bacon (25) and potato (28). The word sits next to a plate as much as an oven.
+
+**Flavors and add-ins.** Pudding (7), cinnamon (13), chocolate (15), peanut (19), caramel (21), oatmeal (22), toffee (24) and raisin (29). These are things stirred in, spread on, or poured over baked food.
+
+## Two guesses that fall short
+
+Kitchen feels safe, yet the game puts it at rank 466. Yeast feels like the key ingredient, yet it ranks 515. Both come from the game's own lookup for game #1511. The list above leans toward finished foods and their partners.
+
+You can log the day on the [November 2026 calendar](/november-calendars.html) or the [weekly printable](/printable-weekly-calendar.html). Saturday's other puzzles: [Wordle](/news/wordle-hint-answer-today-november-7-2026-1967/), [Connections](/news/nyt-connections-hints-answers-november-7-2026-1245/) and [Strands](/news/nyt-strands-hints-answers-november-7-2026-979/).
 
 ## Today's Contexto answer (spoilers)
 
@@ -66,4 +68,4 @@ Stop here if you still want to solve it yourself.
 
 **The secret word for Contexto #1511 is Biscuit.**
 
-The biscuit is a small baked good, which is why bread, bake and muffin rank right behind it in the game's own list, along with gravy and sausage, which are often served with it in the US. Yesterday's word, for game #1510, was Tiger. We checked today's answer against the game's own data before posting. Game #1512 starts at 11 p.m. Eastern Time (ET).
+The word in game #1510 was Tiger. The saved data from the game's own site matches this answer. Game #1512 starts at 11 p.m. Eastern Time (ET).

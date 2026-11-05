@@ -1,7 +1,7 @@
 ---
-title: "NYT Strands Hints and Answers for Saturday, Nov. 14, 2026 (#986): Hints for the Spangram and Seven Theme Words"
-seoTitle: "Strands Hints, Spangram & Answers, Nov. 14, 2026 (#986)"
-description: "Strands #986 for Saturday, Nov. 14, 2026: hints for the spangram and each of the seven theme words, then all the answers in a spoiler section at the end."
+title: "NYT Strands #986 for Saturday, Nov. 14, 2026: Hints, Spangram Route and Answers"
+seoTitle: "Strands #986 Hints and Answers, Nov. 14, 2026"
+description: "Strands #986, Saturday, Nov. 14, 2026: clue \"Preschool fun.\" Hints for the spangram and seven theme words, a map of the spangram's route, and answers last."
 type: explainer
 publishedAt: "2026-11-13T00:05:00-05:00"
 authors: [news-desk]
@@ -14,19 +14,15 @@ hero:
   title: "Strands #986 hints, Nov. 14, 2026"
   caption: "Strands puzzle #986 for Saturday, Nov. 14, 2026: hints for the spangram and theme words first, all answers only at the end."
 summary:
-  - "Today's Strands is puzzle #986, for Saturday, Nov. 14, 2026, with the theme clue 'Preschool fun.'"
-  - "The spangram is a phrase of three words of 15 letters, and there are seven theme words."
-  - "Hints below cover the spangram first, then the theme words, each hidden until you open it."
-  - "All answers are in the last section, marked as spoilers."
+  - "Strands #986 falls on Saturday, Nov. 14, 2026, and its clue is \"Preschool fun.\""
+  - "The spangram runs 15 letters and touches the bottom, left and right edges; the board holds seven theme words."
+  - "Hints come first, then a map of where the words sit on the board."
+  - "Every answer is held back in the last section, behind a spoiler marker."
 faq:
-  - q: "What is today's Strands theme?"
-    a: "The clue for puzzle #986 on Nov. 14, 2026, is 'Preschool fun.'"
-  - q: "What is the Strands spangram for Nov. 14, 2026?"
-    a: "Spoiler: Follow the Leader, fifteen letters, starting at the left edge in the fifth row and ending in the bottom-right corner."
-  - q: "What are today's Strands answers?"
+  - q: "Which edges does the Nov. 14 spangram reach?"
+    a: "It touches the bottom, left and right edges, starting at row 5, column 1 and ending at row 8, column 6."
+  - q: "What are the Strands answers for Nov. 14, 2026?"
     a: "Spoilers: the theme words are Gallop, Jump, March, Skip, Spin, Tiptoe, Walk, and the spangram is Follow the Leader."
-  - q: "How does Strands work?"
-    a: "Find theme words by linking adjacent letters in any direction on a six-by-eight board, using every letter once. The spangram describes the theme and touches two opposite sides of the board."
 sources:
   - title: "Strands"
     url: "https://www.nytimes.com/games/strands"
@@ -39,45 +35,57 @@ internalLinks:
 related: [wordle-hint-answer-today-november-14-2026-1974, nyt-connections-hints-answers-november-14-2026-1252, nyt-pips-hints-answers-november-14-2026]
 draft: false
 ---
-**Today's Strands from The New York Times (NYT) is puzzle #986, for Saturday, Nov. 14, 2026, and its theme clue is "Preschool fun."** Think of the games young children play and the ways they move while playing them. The puzzle was constructed by Christina Iverson and edited by Tracy Bennett. Below are hints for the spangram and each theme word; the answers wait in a marked spoiler section at the end.
+**Today's Strands from The New York Times (NYT) is puzzle #986, for Saturday, Nov. 14, 2026, and its theme clue is "Preschool fun."** This one is a playground game: copy the child in front. It was constructed by Christina Iverson and edited by Tracy Bennett. Hints for the spangram and each theme word come first; the answers wait in a marked spoiler section at the end.
 
-## How Strands works
-
-The board is six letters wide and eight tall. Theme words are made by linking letters that touch, up, down, sideways or diagonally, and every letter is used exactly once. One special answer, the spangram, names the theme and stretches from one side of the board to the opposite side. Find three non-theme words and you earn a hint that highlights the letters of a theme word.
+Today's board is six columns by eight rows and the spangram is fifteen letters long; the rules are on our [Strands page](/news/topic/nyt-strands/#how-it-works).
 
 ## Spangram hints
 
-- Hint 1: It is a game where everyone copies whatever the person in front does.
-- Hint 2: It is three words, and the middle one is "the."
-- Hint 3: Fifteen letters, and the first letter is F.
+- Hint 1: A children's game where a line copies the first kid's moves.
+- Hint 2: Three words, and the last one names the person at the front.
+- Hint 3: Fifteen letters, opening with F.
 
 ## Theme word hints
 
-There are seven theme words, and each one is a way to move:
+Seven theme words, each a way to move:
 
-- **4 letters, starts with J:** to spring off the ground with both feet.
-- **4 letters, starts with S, a step:** to hop lightly from one foot to the other.
-- **4 letters, starts with S, a turn:** to go round and round on the spot.
-- **4 letters, starts with W:** to move on foot at an ordinary pace.
-- **5 letters, starts with M:** to step in time, like a band on parade.
-- **6 letters, starts with G:** to run like a horse.
-- **6 letters, starts with T:** to move quietly on the balls of your feet.
+- **Starts with J, 4 letters:** to leave the ground and land again.
+- **Starts with S, 4 letters:** to hop-step on alternate feet.
+- **Starts with S, 4 letters:** to turn round and round.
+- **Starts with W, 4 letters:** to go on foot at an ordinary pace.
+- **Starts with M, 5 letters:** to step in rhythm, like a band.
+- **Starts with G, 6 letters:** to run like a horse.
+- **Starts with T, 6 letters:** to move quietly on the balls of your feet.
+
+## Where today's spangram and theme words sit
+
+The spangram starts at row 5, column 1 and ends at row 8, column 6. On the way it reaches the bottom, left and right edges, covers rows 3 to 8 and columns 1 to 6, bends 11 times and has a longest straight stretch of 3 tiles.
+
+Theme words cluster most in the bottom-left quarter, which covers rows 5 to 8 and columns 1 to 3. Of its 12 tiles, 10 belong to theme words and 2 to the spangram. Whole theme words that fit inside it: the 4-letter S word.
+
+The 6-letter G word and the 6-letter T word tie for longest at 6 letters, and the 4-letter J word, the 4-letter S word, the 4-letter S word and the 4-letter W word tie for shortest at 4 letters. The spangram has 15 letters (9 over the longest theme word). Theme tiles by quarter: top-left 9, top-right 8, bottom-left 10, bottom-right 6.
+
+| Theme word | Rows | Columns | Where it sits |
+|---|---|---|---|
+| 6-letter G word | 1 to 3 | 4 to 6 | entirely top-right |
+| 4-letter J word | 7 to 8 | 2 to 4 | mostly bottom-left (3 of 4 tiles) |
+| 5-letter M word | 4 to 6 | 3 to 5 | mostly bottom-right (3 of 5 tiles) |
+| 4-letter S word | 6 to 8 | 1 to 2 | entirely bottom-left |
+| 4-letter S word | 1 to 2 | 2 to 4 | mostly top-left (3 of 4 tiles) |
+| 6-letter T word | 1 to 4 | 1 to 2 | entirely top-left |
+| 4-letter W word | 6 to 8 | 2 to 5 | split bottom-left and bottom-right |
 
 ## Solving tips
 
-Start with the spangram. On today's board it starts at the left edge in the fifth row, winds up through the fourth and third rows to the right side, then down the right half of the board to the bottom-right corner. At fifteen letters the spangram is far longer than any theme word, so it crosses much of the board. The seven theme words use 33 letters, so the spangram and the theme words together fill all 48 tiles. If you get stuck, spell any ordinary words you can see to earn a hint.
+Four of the seven theme words have four letters, so the board is crowded with short answers. Keep a daily record on our [printable weekly calendar](/printable-weekly-calendar.html) or the [November 2026 printable calendar](/november-calendars.html).
 
-Keep a streak log on our [printable weekly calendar](/printable-weekly-calendar.html) or the [November 2026 printable calendar](/november-calendars.html).
-
-More of today's puzzles: [Wordle hints](/news/wordle-hint-answer-today-november-14-2026-1974/), [Connections hints](/news/nyt-connections-hints-answers-november-14-2026-1252/) and [Pips hints](/news/nyt-pips-hints-answers-november-14-2026/).
+Other games for Nov. 14: [Pips](/news/nyt-pips-hints-answers-november-14-2026/), [Connections](/news/nyt-connections-hints-answers-november-14-2026-1252/) and [Wordle](/news/wordle-hint-answer-today-november-14-2026-1974/).
 
 ## Today's Strands answers (spoilers)
 
-Stop here if you still want to solve it yourself.
+Stop here if you want to solve it yourself.
 
 - **Spangram:** Follow the Leader
 - **Theme words:** Gallop, Jump, March, Skip, Spin, Tiptoe, Walk
 
-All eight answers fit the clue: each theme word is a move a leader could make for everyone else to copy. The spangram is a single string of fifteen letters on the board, with no spaces.
-
-We checked the answers against the puzzle's official data before posting. Puzzle #987 arrives at midnight.
+The seven theme words are actions a leader might ask the line to copy, and the spangram is the game.
