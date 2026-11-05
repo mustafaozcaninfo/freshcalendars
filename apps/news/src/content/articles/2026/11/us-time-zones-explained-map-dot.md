@@ -94,7 +94,7 @@ assets:
         - { text: "15 U.S.C. 261: the territory of the United States is divided into nine zones.", src: 1, quote: "shall be divided into nine zones" }
         - { text: "15 U.S.C. 261: the limits of each zone are defined by an order of the Secretary of Transportation.", src: 1, quote: "The limits of each zone shall be defined by an order of the Secretary of Transportation" }
         - { text: "15 U.S.C. 263: the ninth zone is known as Chamorro standard time.", src: 2, quote: "that of the ninth zone shall be known as Chamorro standard time" }
-        - { text: "15 U.S.C. 260: the Secretary of Transportation promotes one standard of time within each zone.", src: 3, quote: "foster and promote widespread and uniform adoption and observance of the same standard of time within and throughout each such standard time zone" }
+        - { text: "15 U.S.C. 260: the Secretary of Transportation promotes one standard of time within each zone.", src: 3, quote: "promote widespread and uniform adoption and observance of the same standard of time within and throughout each such standard time zone" }
     note: "Source: 15 U.S.C. 261, 263 and 260; 49 CFR Part 71, Standard Time Zone Boundaries (eCFR, Nov. 1, 2026)."
     description: "A one-page card of the nine U.S. time zones in the order of federal law, with each zone's offset from UTC and the three boundary sections of 49 CFR Part 71."
     alt: "Printable card of the nine U.S. time zones from Atlantic to Chamorro with offsets from Coordinated Universal Time and federal law quotes"
@@ -130,7 +130,7 @@ The noon column is for standard time. If one place advances its clocks and anoth
 
 Two branches share the job. Congress fixes the number of zones and their offsets in 15 U.S.C. 261. The same section hands the map to the executive branch: "The limits of each zone shall be defined by an order of the Secretary of Transportation, having regard for the convenience of commerce and the existing junction points and division points of common carriers engaged in interstate or foreign commerce." That order is 49 CFR Part 71. Its history notes cite amendments through 78 Federal Register (FR) 15884, dated March 13, 2013.
 
-The Uniform Time Act of 1966 adds a mandate, in 15 U.S.C. 260: "the Secretary of Transportation is authorized and directed to foster and promote widespread and uniform adoption and observance of the same standard of time within and throughout each such standard time zone." The Department of Transportation (DOT) website was not readable by our tools, so this story does not describe how a zone change is requested; only the statute and the regulation text are quoted.
+The Uniform Time Act of 1966 adds a mandate, in 15 U.S.C. 260: the Secretary of Transportation is directed to "promote widespread and uniform adoption and observance of the same standard of time within and throughout each such standard time zone." The Department of Transportation (DOT) website was not readable by our tools, so this story does not describe how a zone change is requested; only the statute and the regulation text are quoted.
 
 ## Which states are split between time zones?
 
