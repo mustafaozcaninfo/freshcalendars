@@ -4,7 +4,7 @@ seoTitle: "US-Philippines Time Difference: New York to Manila"
 description: "New York is 13 hours behind Philippine Standard Time (PHT) while US clocks are on standard time, and the Philippines keeps UTC+8 all year. Tables included."
 type: explainer
 publishedAt: "2026-10-30T17:44:00-04:00"
-updatedAt: "2026-11-05T03:23:11-05:00"
+updatedAt: "2026-11-05T15:26:00-05:00"
 authors: [jessica-hartwell]
 category: time-change
 keywords: ["Philippines time difference after daylight saving time ends", "Philippines time vs New York November 2026", "PHT to EST", "what time is it in the Philippines when it is 9 am in California"]
@@ -92,6 +92,14 @@ sources:
   - title: "PAGASA home page, Official Philippine Standard Time"
     url: "https://www.pagasa.dost.gov.ph/"
     publisher: "Philippine Atmospheric, Geophysical and Astronomical Services Administration (PAGASA)"
+  - title: "Proclamation No. 1006, s. 2025 (2026 regular holidays and special non-working days)"
+    url: "https://lawphil.net/executive/proc/proc2025/proc_1006_2025.html"
+    publisher: "Office of the President of the Philippines, text as published by the Lawphil Project"
+    date: "2025-09-03"
+  - title: "Proclamation No. 1427, s. 2026 (2027 regular holidays and special non-working days)"
+    url: "https://lawphil.net/executive/proc/proc2026/proc_1427_2026.html"
+    publisher: "Office of the President of the Philippines, text as published by the Lawphil Project"
+    date: "2026-09-08"
 internalLinks:
   - href: "/printable-weekly-calendar.html"
     label: "Printable weekly calendar"
@@ -171,8 +179,22 @@ A Manila morning therefore falls on the US evening before, which is why many US-
 
 Under 15 U.S.C. 260a, daylight saving time starts on the second Sunday of March, which is Sunday, March 14, 2027 (our calculation). New York will then be 12 hours behind PHT again. Australia moves its clocks in the other direction, as the [US-Australia time-difference story](/news/us-australia-time-difference-after-daylight-saving-time-ends-november-1-2026/) explains.
 
-## Philippines call checklist for the standard-time stretch
+## Philippine holidays before March 14, 2027: when Manila is off
+Two presidential proclamations set the dates, as published by the Lawphil Project: Proclamation No. 1006 of Sept. 3, 2025 for 2026, and Proclamation No. 1427 of Sept. 8, 2026 for 2027. Between now and the U.S. return to daylight saving time on Sunday, March 14, 2027, they list:
 
-- Pick your US zone in the first table and add its hours to arrive at Manila time.
-- Nudge any recurring Philippines call an hour earlier on the US clock for each US zone that changed, while the Manila hour holds steady.
-- Note Sunday, Nov. 1 on a [November 2026 printable calendar](/november-calendars.html), or hang a [printable weekly calendar](/printable-weekly-calendar.html) near your screen.
+| Date | Holiday in the Philippines | Type | Day |
+|---|---|---|---|
+| Nov. 30, 2026 | Bonifacio Day | Regular holiday | Monday |
+| Dec. 8, 2026 | Feast of the Immaculate Conception | Special non-working day | Tuesday |
+| Dec. 24, 2026 | Christmas Eve | Special non-working day | Thursday |
+| Dec. 25, 2026 | Christmas Day | Regular holiday | Friday |
+| Dec. 30, 2026 | Rizal Day | Regular holiday | Wednesday |
+| Dec. 31, 2026 | Last Day of the Year | Special non-working day | Thursday |
+| Jan. 1, 2027 | New Year's Day | Regular holiday | Friday |
+
+Chinese New Year 2027 and the Eid holidays of 2027 are not yet proclaimed, so they are not on the list.
+
+- Skip Manila on the seven dates above when you plan a late-year call.
+- Late December is crowded: Manila is off on Thu., Dec. 24, Fri., Dec. 25, Wed., Dec. 30 and Thu., Dec. 31, then Fri., Jan. 1, 2027.
+- Mark Sun., March 14, 2027 as the day the gap with New York shrinks to 12 hours.
+- A [November 2026 printable calendar](/november-calendars.html) has room for these days if you want them on paper.

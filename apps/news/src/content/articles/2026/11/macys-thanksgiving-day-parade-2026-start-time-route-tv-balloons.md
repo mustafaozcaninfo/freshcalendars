@@ -1,10 +1,10 @@
 ---
 title: "Macy's Thanksgiving Day Parade 2026: Start Time, Route, TV Channel and Balloons"
 seoTitle: "Macy's Thanksgiving Day Parade 2026: Time, Route, TV"
-description: "The 100th Macy's Thanksgiving Day Parade steps off at 8:30 a.m. Eastern Time (ET) on Thu., Nov. 26, 2026, on NBC and Peacock. Route, zone times, printable."
+description: "The 100th Macy's Thanksgiving Day Parade steps off at 8:30 a.m. Eastern Time (ET) on Thu., Nov. 26, 2026, on NBC, Peacock and Telemundo. Route, zone times."
 type: explainer
 publishedAt: "2026-11-02T07:09:00-05:00"
-updatedAt: "2026-11-02T07:09:00-05:00"
+updatedAt: "2026-11-05T15:26:00-05:00"
 authors: [christina-gerland]
 category: holidays
 keywords: ["macys thanksgiving day parade 2026", "macys parade route 2026", "what time does the macys parade start 2026", "100th macys parade"]
@@ -22,23 +22,29 @@ hero:
     authorUrl: "https://commons.wikimedia.org/wiki/User:Beyond_My_Ken"
 summary:
   - "The 100th Macy's Thanksgiving Day Parade runs from 8:30 a.m. to noon Eastern Time (ET) on Thursday, Nov. 26, 2026, per Time Out New York and CentralPark.com."
-  - "NBC and Peacock carry it. CentralPark.com says the broadcast starts at 8:30 a.m. in all time zones, so viewers outside the Eastern zone see it at 8:30 a.m. local time."
+  - "NBC, Peacock and Telemundo carry it, per Macy's, Inc. CentralPark.com says the broadcast starts at 8:30 a.m. in all time zones, so viewers outside the Eastern zone see it at 8:30 a.m. local time."
   - "Both guides give the same route: West 77th Street and Central Park West, south to Columbus Circle, east on Central Park South, south on Sixth Avenue and west on 34th Street to Herald Square."
-  - "The 2026 performers and hosts are not yet announced. Macy's own pages were not reachable, so this story rests on two independent guides, Time Out New York and CentralPark.com."
+  - "Macy's, Inc. says the 2026 lineup has 100 inflatables, including the new Disney's Sorcerer's Apprentice Mickey, Underdog's first flight since 1984 and the Blue Hippopotamus. Performers, hosts and balloon inflation hours are not yet announced."
 faq:
   - q: "What time does the Macy's Thanksgiving Day Parade start in 2026?"
     a: "Time Out New York and CentralPark.com both list 8:30 a.m. to noon Eastern Time (ET) on Thursday, Nov. 26, 2026."
   - q: "What channel is the Macy's parade on in 2026?"
-    a: "Both guides list NBC from 8:30 a.m. to noon, with streaming on Peacock. CentralPark.com says the broadcast starts at 8:30 a.m. in all time zones."
+    a: "Macy's, Inc. lists NBC, Peacock and Telemundo, starting at 8:30 a.m. in all time zones. Time Out New York and CentralPark.com list NBC from 8:30 a.m. to noon, with streaming on Peacock."
   - q: "What is the Macy's parade route in 2026?"
     a: "It steps off at West 77th Street and Central Park West, goes south to Columbus Circle, east on Central Park South, south on Sixth Avenue to 34th Street and west to Macy's Herald Square at Seventh Avenue. Macy's own 2026 route map was not reachable."
   - q: "Who performs in the 2026 Macy's parade?"
     a: "Not yet announced. Time Out New York wrote that this year's performers are yet to be announced."
   - q: "Who hosts the Macy's parade broadcast in 2026?"
     a: "Not yet announced. In 2025 the hosts were Savannah Guthrie, Hoda Kotb and Al Roker."
+  - q: "Which balloons and floats are in the 2026 Macy's parade?"
+    a: "Macy's, Inc. says a lineup of 100 inflatable elements, which it calls record-breaking. New is Disney's Sorcerer's Apprentice Mickey. Underdog, Felix the Cat and the Blue Hippopotamus return, and a float called Tony Sarg's Amazing Marionettes honors Tony Sarg."
   - q: "What is the 100th Macy's parade?"
     a: "2026 is the 100th Macy's Thanksgiving Day Parade, per Time Out New York and CentralPark.com."
 sources:
+  - title: "Macy's Kicks Off the 100-Day Countdown to the 100th Macy's Thanksgiving Day Parade"
+    url: "https://www.macysinc.com/newsroom/news/news-details/2026/Macys-Kicks-Off-the-100-Day-Countdown-to-the-100th-Macys-Thanksgiving-Day-Parade/default.aspx"
+    publisher: "Macy's, Inc."
+    date: "2026-08-18"
   - title: "Macy's Thanksgiving Day Parade NYC 2026: How to watch, route timings & line-up"
     url: "https://www.timeout.com/newyork/things-to-do/events-festivals/macys-thanksgiving-day-parade"
     publisher: "Time Out New York"
@@ -98,7 +104,7 @@ downloads:
 draft: false
 ---
 
-**The 100th Macy's Thanksgiving Day Parade runs from 8:30 a.m. to noon Eastern Time (ET) on Thursday, Nov. 26, 2026, on NBC and Peacock, according to Time Out New York and CentralPark.com.** Macy's own parade pages were not reachable when we checked, so every fact below is one that both guides report. Below: the start in each U.S. time zone, the route street by street, and what has not been announced. A one-page morning plan is at the end.
+**The 100th Macy's Thanksgiving Day Parade runs from 8:30 a.m. to noon Eastern Time (ET) on Thursday, Nov. 26, 2026, on NBC, Peacock and Telemundo, according to Macy's, Inc., Time Out New York and CentralPark.com.** The step-off times and route come from the two guides, because Macy's own schedule and route pages were not reachable when we checked; the lineup and broadcast come from Macy's, Inc. Below: the start in each U.S. time zone, the route street by street, and what has not been announced. A one-page morning plan is at the end.
 
 ## What time does the Macy's parade start in each time zone?
 
@@ -113,7 +119,7 @@ The parade is live in New York at 8:30 a.m. ET. CentralPark.com says "the broadc
 | Alaska Time (AKT) | 4:30 a.m. | 8:30 a.m. |
 | Hawaii-Aleutian Time (HT) | 3:30 a.m. | 8:30 a.m. |
 
-Both guides list NBC from 8:30 a.m. to noon, with streaming on Peacock. We did not find a source that says whether Peacock streams the parade live in the western zones, so check your local listing. The full Thanksgiving week TV lineup, with the NFL games, is in our [Thanksgiving 2026 TV schedule](/news/thanksgiving-2026-tv-schedule-macys-parade-nfl-games/).
+Macy's, Inc. says the parade airs "on NBC, Peacock and Telemundo starting at 8:30 a.m. in all time zones." Both guides list NBC from 8:30 a.m. to noon, with streaming on Peacock. We did not find a source that says whether Peacock streams the parade live in the western zones, so check your local listing. The full Thanksgiving week TV lineup, with the NFL games, is in our [Thanksgiving 2026 TV schedule](/news/thanksgiving-2026-tv-schedule-macys-parade-nfl-games/).
 
 ## What is the Macy's parade route in 2026?
 
@@ -135,7 +141,23 @@ Both guides tell spectators to arrive early. CentralPark.com advises Central Par
 
 The city's balloon standard dates to 1998, when a mayoral task force recommended, in a release from the NYC Office of the Mayor, that no large parade balloon be operated "when there are sustained wind conditions exceeding 23 mph," or in gusts over 34 mph. City officials decide on parade morning.
 
-Macy's full 2026 balloon list was not on a page we could reach, so this story names no balloons yet. Balloon inflation traditionally happens the afternoon before Thanksgiving on the Upper West Side; Macy's 2026 hours are not yet announced.
+Balloon inflation traditionally happens the afternoon before Thanksgiving on the Upper West Side; Macy's 2026 hours are not yet announced.
+
+## Which balloons and floats are in the 2026 Macy's parade?
+
+In its Aug. 18, 2026 release, Macy's, Inc. announced "a record-breaking lineup of 100 inflatable elements" for the 100th parade. The "record" is Macy's own claim. The release counts inflatables, not only balloons, and it names these:
+
+| Entry | What Macy's, Inc. says |
+|---|---|
+| Disney's Sorcerer's Apprentice Mickey | New in 2026 |
+| Underdog | Returns in "a reimagined iteration," his first flight since 1984 |
+| Felix the Cat | Returns; the first character balloon in the parade (1927), with a new version for the 90th parade in 2016 |
+| Blue Hippopotamus | Returns; not seen since after the 1931 parade |
+| All-Stars float | Carries past favorites Bullwinkle J. Moose, Olive Oyl, Popeye, Swee'Pea and Sonic the Hedgehog |
+| Billie Brightpaw and Tom Jr. | Newcomers; Tom Jr. is the son of Tom Turkey |
+| Tony Sarg's Amazing Marionettes | New float honoring Tony Sarg |
+
+The release does not say whether Billie Brightpaw and Tom Jr. are balloons.
 
 ## What has Macy's not announced for the 2026 parade?
 
