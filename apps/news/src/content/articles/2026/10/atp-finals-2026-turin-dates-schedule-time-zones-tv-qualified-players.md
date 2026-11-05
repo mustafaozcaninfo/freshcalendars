@@ -4,7 +4,7 @@ seoTitle: "ATP Finals 2026 Turin: Dates, TV and Time Zones"
 description: "The Association of Tennis Professionals (ATP) Finals run Nov. 15-22, 2026 in Turin, Italy, on Tennis Channel in the U.S., with singles from 8 a.m. Eastern."
 type: news
 publishedAt: "2026-10-28T03:42:00-04:00"
-updatedAt: "2026-11-03T07:50:00-05:00"
+updatedAt: "2026-11-05T01:32:00-05:00"
 authors: [jessica-hartwell]
 category: sports
 keywords: ["atp finals 2026", "atp finals 2026 schedule", "nitto atp finals turin dates", "atp finals 2026 tv channel us", "atp finals qualified players 2026"]
@@ -22,7 +22,7 @@ hero:
 summary:
   - "The Nitto ATP Finals will take place from Nov. 15 to 22, 2026 at the Inalpi Arena in Turin, Italy, a Sunday to a Sunday, according to the event's official site."
   - "The event's TV page, checked Oct. 28, 2026, lists Tennis Channel in the United States, Sky UK in the United Kingdom, The Sports Network (TSN) in Canada, and Sky Italia and Mediaset in Italy."
-  - "By Oct. 30, the Association of Tennis Professionals (ATP) had confirmed five qualified singles players: Jannik Sinner, Alexander Zverev, Carlos Alcaraz, Ben Shelton and Daniil Medvedev. Sinner has ended his 2026 season."
+  - "As of Nov. 5, 2026, the Association of Tennis Professionals (ATP) lists six qualified singles players: Alexander Zverev, Carlos Alcaraz, Ben Shelton, Daniil Medvedev, Flavio Cobolli and Arthur Fils. Only two places remain, and they depend on Paris Masters results. The eight doubles teams are set."
   - "The event's 2026 tournament schedule puts singles not before 2 p.m. and 8:30 p.m. in Turin, which is 8 a.m. and 2:30 p.m. Eastern Time (ET). The draw date and order of play are not yet announced."
 faq:
   - q: "What are the ATP Finals 2026 dates?"
@@ -30,7 +30,7 @@ faq:
   - q: "What channel shows the ATP Finals 2026 in the U.S.?"
     a: "The event's TV schedule page lists Tennis Channel for the United States, including Puerto Rico and the U.S. Virgin Islands. Tennis TV streams ATP Tour action."
   - q: "Who has qualified for the ATP Finals 2026?"
-    a: "By Oct. 30, 2026, the ATP had announced five singles qualifiers: Jannik Sinner, Alexander Zverev, Carlos Alcaraz, Ben Shelton and Daniil Medvedev. Sinner has ended his season with a knee injury. Five doubles teams had also qualified. The full field is not yet set."
+    a: "As of Nov. 5, 2026, the ATP says six singles players have qualified: Alexander Zverev, Carlos Alcaraz, Ben Shelton, Daniil Medvedev, Flavio Cobolli and Arthur Fils. Jannik Sinner qualified in July but the event's site says he misses the 2026 event due to injury. Only two singles places remain, and the eight doubles teams are set."
   - q: "What time do ATP Finals matches start?"
     a: "The event's 2026 tournament schedule lists doubles at 11:30 a.m. and singles not before 2 p.m. in the day session, then doubles at 6 p.m. and singles not before 8:30 p.m. at night, local time in Turin, from Nov. 15 to 20. In Eastern Time that is 5:30 a.m., 8 a.m., noon and 2:30 p.m."
 sources:
@@ -85,6 +85,18 @@ sources:
   - title: "Nitto ATP Finals draw stream 2025"
     url: "https://www.nittoatpfinals.com/en/news/nitto-atp-finals-draw-stream-2025"
     publisher: "Nitto ATP Finals"
+  - title: "What are the Nitto ATP Finals qualification scenarios Thursday in Paris?"
+    url: "https://www.atptour.com/en/news/nitto-atp-finals-2026-qualification-scenarios-4-november"
+    publisher: "ATP Tour"
+    date: "2026-11-04"
+  - title: "Arribage Olivetti Nitto ATP Finals 2026 Qualification"
+    url: "https://www.nittoatpfinals.com/en/news/arribage-olivetti-nitto-atp-finals-2026-qualification"
+    publisher: "Nitto ATP Finals"
+    date: "2026-11-04"
+  - title: "Luz Matos Nitto ATP Finals 2026 Qualification"
+    url: "https://www.nittoatpfinals.com/en/news/luz-matos-nitto-atp-finals-2026-qualification"
+    publisher: "Nitto ATP Finals"
+    date: "2026-11-04"
   - title: "Rolex Paris Masters back October 31 to November 8, 2026"
     url: "https://www.parisladefense.com/en/news/events/rolex-paris-masters-back-october-31-november-8-2026"
     publisher: "Paris La Défense"
@@ -169,19 +181,42 @@ The page also says Tennis TV (TennisTV.com) streams ATP Tour action. In Italy, a
 
 ## Who has qualified for the ATP Finals 2026?
 
-The ATP Tour has published a qualification report for each player who has secured a place. By Oct. 30, 2026, five singles players had qualified:
+The ATP Tour has published a qualification report for each player who has secured a place. In its Nov. 4, 2026 qualification scenarios, the ATP said: "Alexander Zverev, Carlos Alcaraz, Ben Shelton, Daniil Medvedev, Flavio Cobolli and [Arthur] Fils have already qualified." Six singles players are in:
 
 | Player | Qualified (ATP Tour report) |
 |---|---|
-| Jannik Sinner | July 10 |
 | Alexander Zverev | Aug. 6 |
 | Carlos Alcaraz | Sept. 16 |
 | Ben Shelton | Oct. 18 |
 | Daniil Medvedev | Oct. 30, after beating Adrian Mannarino in the Vienna quarterfinals |
+| Flavio Cobolli | Reported by the ATP by Nov. 4 |
+| Arthur Fils | Reported by the ATP by Nov. 4 |
 
-An ATP Tour report dated Oct. 6, 2026 says Sinner has ended his 2026 season because of a knee injury. That means he is not expected in Turin, though the ATP has not confirmed a withdrawal from the event. Rafael Jodar was in a qualifying position in the Oct. 18 Race to Turin report, which is not the same as qualified.
+Jannik Sinner qualified first, on July 10. An ATP Tour report dated Oct. 6, 2026 says he ended his 2026 season because of a knee injury, and the Nitto ATP Finals race list reads "Misses 2026 event due to injury." He is not counted among the six above. No alternate has been named; alternates are not yet announced.
 
-Five doubles teams had qualified by Oct. 28: Harri Heliovaara and Henry Patten, Marcel Granollers and Horacio Zeballos, Christian Harrison and Neal Skupski, Marcelo Arevalo and Mate Pavic, and Simone Bolelli and Andrea Vavassori. Alternates are not yet announced. The Rolex Paris Masters runs Oct. 31 to Nov. 8, 2026, according to Paris La Défense, and the remaining places are decided over the last weeks of the season. See our [Paris Masters 2026 schedule](/news/paris-masters-2026-schedule-final-time-by-time-zone/) for those match times.
+### Which two singles places are still open?
+
+The ATP wrote on Nov. 4: "Only two places remain." Both depend on the Rolex Paris Masters, which runs Oct. 31 to Nov. 8, 2026, according to Paris La Défense. These are the ATP's scenarios, not results:
+
+- If Tommy Paul or Taylor Fritz loses on Thursday, Nov. 5, their countryman Frances Tiafoe, eighth in the ATP Live Race To Turin, will qualify.
+- If both Paul and Fritz lose, ninth-placed Martin Jodar will also qualify, completing the field.
+
+See our [Paris Masters 2026 schedule](/news/paris-masters-2026-schedule-final-time-by-time-zone/) for those match times.
+
+### Who are the doubles teams?
+
+The doubles field is complete. The Nitto ATP Finals lists eight teams:
+
+| Team | Players |
+|---|---|
+| 1 | Harri Heliovaara and Henry Patten |
+| 2 | Christian Harrison and Neal Skupski |
+| 3 | Marcel Granollers and Horacio Zeballos |
+| 4 | Marcelo Arevalo and Mate Pavic |
+| 5 | Simone Bolelli and Andrea Vavassori |
+| 6 | Kevin Krawietz and Tim Puetz |
+| 7 | Orlando Luz and Rafael Matos |
+| 8 | Theo Arribage and Albano Olivetti |
 
 ## What time do ATP Finals matches start?
 
