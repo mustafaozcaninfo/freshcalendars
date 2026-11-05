@@ -76,7 +76,7 @@ internalLinks:
     label: "November 2026 printable calendar"
   - href: "/december-calendars.html"
     label: "December 2026 printable calendar"
-related: [holiday-menus-2026-every-chain-tracker, starbucks-holiday-menu-2026-red-cup-day-date, dutch-bros-holiday-drinks-2026-merry-magic]
+related: [holiday-menus-2026-every-chain-tracker, starbucks-holiday-menu-2026-red-cup-day-date, sonic-holiday-menu-2026-santa-slush-float]
 downloads:
   - group: "Caribou Coffee Holiday Menu 2026 printables"
     title: "Caribou Coffee Holiday Menu 2026: Every Item and Form"
