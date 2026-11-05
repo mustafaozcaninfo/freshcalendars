@@ -4,6 +4,7 @@ seoTitle: "Native American Heritage Day 2026: Fri., Nov. 27"
 description: "Native American Heritage Day 2026 is Fri., Nov. 27. Public Law 111-33 encourages it; the Office of Personnel Management (OPM) lists no federal holiday."
 type: explainer
 publishedAt: "2026-10-28T11:44:00-04:00"
+updatedAt: "2026-11-05T03:25:00-05:00"
 authors: [christina-gerland]
 category: holidays
 keywords: ["native american heritage day 2026", "native american heritage month 2026", "is native american heritage day a federal holiday", "day after thanksgiving holiday 2026"]
@@ -96,7 +97,7 @@ downloads:
 draft: false
 ---
 
-**Native American Heritage Day 2026 is Friday, Nov. 27, the Friday after Thanksgiving Day, under Public Law 111-33 published by the U.S. Government Publishing Office (GPO), but it is not a federal holiday on the U.S. Office of Personnel Management (OPM) list.** The law, approved June 26, 2009, only encourages observance. A printable November 2026 calendar for the month is further down this page.
+**Native American Heritage Day 2026 is Friday, Nov. 27, the Friday after Thanksgiving Day, under Public Law 111-33 published by the U.S. Government Publishing Office (GPO), but it is not a federal holiday on the U.S. Office of Personnel Management (OPM) list.** The law, approved June 26, 2009, only encourages observance. A printable November 2026 calendar for the month is further down this page. Looking for the month's theme, events and books? See our [Native American Heritage Month 2026 theme guide](/news/native-american-heritage-month-2026-theme-events-books-activities/).
 
 ## Is Native American Heritage Day a federal holiday?
 
@@ -134,13 +135,13 @@ For the reason Thanksgiving lands on Nov. 26 this year, see [why Thanksgiving 20
 
 ## When is Native American Heritage Month 2026?
 
-November 1, 2026, is a Sunday, so the month runs from Sunday, Nov. 1 to Monday, Nov. 30, 2026. According to the Bureau of Indian Affairs, Congress designated November 1990 as National American Indian Heritage Month by joint resolution (Public Law 101-343, approved Aug. 3, 1990), and it has become an annual observance in November. Our [Native American Heritage Month guide](/news/native-american-heritage-month-2026-theme-events-books-activities/) has the theme, events and activities.
+November 1, 2026, is a Sunday, so the month runs from Sunday, Nov. 1 to Monday, Nov. 30, 2026. According to the Bureau of Indian Affairs, Congress designated November 1990 as National American Indian Heritage Month by joint resolution (Public Law 101-343, approved Aug. 3, 1990), and it has become an annual observance in November. The theme, events and books are in our [Native American Heritage Month 2026 theme guide](/news/native-american-heritage-month-2026-theme-events-books-activities/).
 
 ## Has a 2026 proclamation been announced?
 
-Not yet announced. In 2025, the White House issued a "Message on National Native American Heritage Month" dated Nov. 4, 2025, according to The American Presidency Project. As of Oct. 23, 2026, the presidential actions page on whitehouse.gov showed no 2026 proclamation or message.
+Not yet announced. In 2025, the White House issued a "Message on National Native American Heritage Month" dated Nov. 4, 2025, according to The American Presidency Project. As of Nov. 3, 2026, the presidential actions page on whitehouse.gov showed no 2026 proclamation or message.
 
-The official hub, [nativeamericanheritagemonth.gov](https://nativeamericanheritagemonth.gov/), is hosted by the Library of Congress with partners. As of Oct. 28 it still shows the 2025 page. Programs at the Smithsonian National Museum of the American Indian (NMAI) for November 2026 are not confirmed here; check americanindian.si.edu.
+The official hub, [nativeamericanheritagemonth.gov](https://nativeamericanheritagemonth.gov/), is hosted by the Library of Congress with partners. As of Nov. 5 its 2026 page states "November is National American Indian Heritage Month" and lists no theme. Programs at the Smithsonian National Museum of the American Indian (NMAI) for November 2026 are not confirmed here; check americanindian.si.edu.
 
 ## What else is on the calendar in November 2026?
 

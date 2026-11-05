@@ -1,10 +1,10 @@
 ---
-title: "Printable Sample Ballot by ZIP Code 2026: Find Your Ballot in Every State, With Texas County Links"
-seoTitle: "Printable Sample Ballot by ZIP Code 2026"
-description: "Enter your ZIP code to find your official sample ballot in any state before Election Day, Tuesday, Nov. 3; Texas early voting ended Friday, Oct. 30."
+title: "2026 Election Results by State, Canvass and Runoff Dates, and Sample Ballot Lookup"
+seoTitle: "2026 Election Results by State and Sample Ballot"
+description: "Where to see official 2026 election results in every state, canvass and certification dates, December election dates and a sample ballot lookup by ZIP code."
 type: news
 publishedAt: "2026-10-19T07:50:00-04:00"
-updatedAt: "2026-11-02T14:10:00-05:00"
+updatedAt: "2026-11-05T03:25:00-05:00"
 authors: [christina-gerland]
 category: elections
 keywords: ["printable sample ballot by zip code 2026", "sample ballot by zip code", "sample ballot for my zip code", "printable sample ballot 2026", "Texas sample ballot 2026"]
@@ -18,7 +18,7 @@ hero:
   src: ../../../../assets/news/sample-ballot-by-zip-code-2026-texas-ballot/sample-ballot-by-zip-code-2026-texas-ballot.webp
   alt: "Sample ballot by ZIP code 2026: a bilingual Vote Here, Vote Aqui sign with an American flag outside a polling place in Taft, Texas"
   title: "Find your sample ballot for Nov. 3, 2026"
-  caption: "A bilingual Vote Here sign outside a polling place in Taft, Texas (file photo). Election Day is Tuesday, Nov. 3, 2026."
+  caption: "A bilingual Vote Here sign outside a polling place in Taft, Texas (file photo). Election Day was Tuesday, Nov. 3, 2026."
   credit: "Photo: Jay Phagan from Taft, Texas / Wikimedia Commons, cropped, edited"
   license:
     name: "CC BY 2.0"
@@ -27,15 +27,19 @@ hero:
     author: "Jay Phagan from Taft, Texas"
     authorUrl: "https://www.flickr.com/people/70671301@N03"
 summary:
-  - "Type your ZIP code in the finder below to get your state's official sample ballot lookup; a table lists the portal for all 50 states and Washington, D.C."
-  - "Election Day is Tuesday, Nov. 3, with Texas polls open 7 a.m. to 7 p.m.; Texas early voting ended Friday, Oct. 30, according to the Texas Secretary of State."
-  - "In 18 states and Washington, D.C., the state portal shows your sample ballot; in most others your county, city or town elections office posts it."
-  - "In 103 Texas counties, including Harris, Dallas, Tarrant, Bexar and Travis, you can vote at any vote center on Nov. 3; phones cannot be used in the voting room."
+  - "Official results are posted by each state election office listed in the USA.gov directory; the table below links all 50 states and Washington, D.C."
+  - "Texas local canvass can begin Friday, Nov. 6, and the state canvass runs Saturday, Nov. 21 to Sunday, Dec. 6, under the Texas Election Code."
+  - "Georgia's general election runoff, if needed, is Tuesday, Dec. 1, 2026; Louisiana lists Dec. 12 elections, according to each state's official site."
+  - "For the next election, type your ZIP code in the finder to get your state's official sample ballot lookup."
 faq:
   - q: "How do I find my sample ballot by ZIP code?"
     a: "Enter your ZIP code in the finder at the top of this story to get your state's official lookup, then search there by full street address or by name and date of birth. A ZIP code tells you the state, but only your address tells the county which precinct ballot you get."
   - q: "Where is the sample ballot for my ZIP code?"
     a: "Type your ZIP code into the finder at the top of this page. It points you to your state's official lookup, where you enter your address to see and print the sample ballot for your precinct."
+  - q: "Where can I see official election results for my state?"
+    a: "On your state election office website. The USA.gov directory of state and local election offices links them, and the table at the top of this story lists the office for each state and Washington, D.C. Election night counts are unofficial until the state or county certifies them."
+  - q: "Is there a Texas runoff date for local races?"
+    a: "Local runoff dates in Texas are set by each county and city, so check your county elections office. This story does not list a statewide date."
   - q: "Why doesn't my ZIP code show one ballot?"
     a: "ZIP codes are drawn for mail delivery, not elections. A single ZIP code can include parts of different congressional, state legislative, city, school and judicial districts, so neighbors can have different ballots."
   - q: "How do I read a sample ballot?"
@@ -45,18 +49,55 @@ faq:
   - q: "Can I print my sample ballot?"
     a: "Yes. Most county sample ballots are PDFs you can print. You can also copy your choices onto our free My Ballot Worksheet, a one-page printable with lines for each office and ballot measure."
   - q: "Is the sample ballot the same for early voting and Election Day?"
-    a: "Yes. Early voting uses the same ballot style as Election Day for your precinct, so the sample ballot you see now matches what you get at your polling place on Nov. 3."
+    a: "Yes. Early voting uses the same ballot style as Election Day for your precinct, so the sample ballot you see matches what you get at your polling place."
   - q: "Where is my Texas sample ballot?"
     a: "On your county elections office website. Harris County lists it at HarrisVotes.com, and Dallas, Tarrant, Bexar, Travis and other large counties have their own lookups; the table in this story links 12 of them. The Texas Secretary of State's My Voter Portal shows your registration and polling places."
   - q: "When was early voting in Texas for November 2026?"
-    a: "Monday, Oct. 19 through Friday, Oct. 30, 2026, and it has ended. Early voters could use any early voting location in their county of registration. Election Day polls are open 7 a.m. to 7 p.m. on Tuesday, Nov. 3."
+    a: "Monday, Oct. 19 through Friday, Oct. 30, 2026, and it has ended. Early voters could use any early voting location in their county of registration. Election Day polls were open 7 a.m. to 7 p.m. on Tuesday, Nov. 3."
   - q: "Can I bring my sample ballot into the voting booth in Texas?"
     a: "Yes. The Texas Secretary of State says voters may bring printed notes or a paper sample ballot to help them make their selections. You cannot use a phone, tablet or other wireless device in the room where voting takes place, so print or write your choices first."
   - q: "Do I have to vote at my precinct on Election Day in Texas?"
-    a: "It depends on your county. For the Nov. 3 election, 103 counties are approved for the Countywide Polling Place Program, including Harris, Dallas, Tarrant, Bexar and Travis, so you can vote at any vote center in the county. In other counties you may have to vote at your assigned polling place. The Secretary of State's My Voter Portal lists it."
+    a: "It depends on your county. For the Nov. 3, 2026 election, 103 counties were approved for the Countywide Polling Place Program, including Harris, Dallas, Tarrant, Bexar and Travis, so you could vote at any vote center in the county. In other counties voters had to use their assigned polling place. The Secretary of State's My Voter Portal lists it."
   - q: "What ID do I need to vote in Texas?"
     a: "One of seven photo IDs, including a Texas driver license, Texas Election Identification Certificate, Texas ID card, handgun license, U.S. military ID, U.S. citizenship certificate or U.S. passport. Voters who cannot reasonably obtain one may sign a Reasonable Impediment Declaration and show a supporting document such as a utility bill."
 sources:
+  - title: "State and local election offices"
+    url: "https://www.usa.gov/state-election-office"
+    publisher: "USAGov"
+  - title: "General Election Runoff Early Voting"
+    url: "https://georgia.gov/node/34091"
+    publisher: "Georgia.gov"
+  - title: "Election Dates"
+    url: "https://www.sos.la.gov/elections-voting/election-dates"
+    publisher: "Louisiana Secretary of State"
+  - title: "Elections calendar"
+    url: "https://www.sos.wa.gov/elections/calendar"
+    publisher: "Washington Secretary of State"
+  - title: "Reporters primer: 2026 general election in North Carolina"
+    url: "https://www.ncsbe.gov/news/press-releases/2026/10/27/reporters-primer-2026-general-election-nc"
+    publisher: "North Carolina State Board of Elections"
+    date: "2026-10-27"
+  - title: "Minnesota Statutes, Section 204C.33"
+    url: "https://www.revisor.mn.gov/statutes/cite/204C.33"
+    publisher: "Minnesota Office of the Revisor of Statutes"
+  - title: "Ohio Revised Code, Section 3505.32"
+    url: "https://codes.ohio.gov/ohio-revised-code/section-3505.32"
+    publisher: "Ohio Laws and Administrative Rules"
+  - title: "Virginia Code, Section 24.2-679"
+    url: "https://law.lis.virginia.gov/vacode/title24.2/chapter6/section24.2-679/"
+    publisher: "Virginia Law"
+  - title: "Arizona Revised Statutes, Section 16-642"
+    url: "https://azleg.gov/ars/16/00642.htm"
+    publisher: "Arizona Legislature"
+  - title: "Texas Election Code, Section 67.003 (Local Canvass)"
+    url: "https://texas.public.law/statutes/tex._election_code_section_67.003"
+    publisher: "Texas Election Code"
+  - title: "Texas Election Code, Section 65.051 (Duty of Early Voting Ballot Board)"
+    url: "https://texas.public.law/statutes/tex._election_code_section_65.051"
+    publisher: "Texas Election Code"
+  - title: "Texas Election Code, Section 67.012 (State Canvass)"
+    url: "https://texas.public.law/statutes/tex._election_code_section_67.012"
+    publisher: "Texas Election Code"
   - title: "HB 25 (2017): Elimination of Straight-Party Voting (Election Advisory No. 2020-29)"
     url: "https://www.sos.texas.gov/elections/laws/advisory2020-29.shtml"
     publisher: "Texas Secretary of State"
@@ -141,11 +182,90 @@ downloads:
 draft: false
 ---
 
-<p class="callout"><b>Election Day is tomorrow, Tuesday, Nov. 3, 2026.</b> Texas early voting ended Friday, Oct. 30. This guide covers which large Texas counties use vote centers on Election Day, the state's early voting turnout and registration figures, and where sample ballots are posted in each state.</p>
+**Official 2026 election results are posted by each state election office, and Texas counties can begin their canvass on Friday, Nov. 6, according to the Texas Election Code.** Election Day was Tuesday, Nov. 3, 2026, and counts reported on election night are unofficial until each state or county certifies them. This guide links the state election office for every state and Washington, D.C., lists the canvass and certification dates we could confirm, covers Georgia's and Louisiana's December dates, and keeps the sample ballot lookup for the next election. For live race calls, see our [Texas results story](/news/texas-election-results-2026-polls-close-where-to-follow-canvass-dates/) and the [results map](/news/election-day-2026-results-map/).
 
-**To find the sample ballot for your ZIP code, enter your ZIP code below to get your state's official lookup for Nov. 3, 2026, then search there by street address and print your choices on our free worksheet.** Your sample ballot shows exactly what you will vote on, and in most of the country you can see it online today. In Texas, early voting ended Friday, Oct. 30, according to the Texas Secretary of State, and sample ballots come from each county elections office rather than the state. On Election Day, Tuesday, Nov. 3, polls are open 7 a.m. to 7 p.m. statewide. Below: why a ZIP code alone can show the wrong races, the official lookup for every state, links for 12 large Texas counties, and free printables to take your choices with you.
+## Where to see official 2026 election results by state
 
-## Find your sample ballot by ZIP code
+Each link goes to the state election office listed in the USA.gov directory of state and local election offices, which says it helps you get election results. The last column gives a canvass or certification date only where an official source confirmed it; for other states, use our [certification deadlines by state](/news/when-are-2026-election-results-certified-deadlines-by-state/) or check your state election office. Dates were checked on Nov. 5, 2026.
+
+| State | Official results (state election office) | Canvass or certification |
+|---|---|---|
+| Alabama | [Alabama election office](https://www.sos.alabama.gov/alabama-votes) | Check your state election office; see our [certification deadlines by state](/news/when-are-2026-election-results-certified-deadlines-by-state/) |
+| Alaska | [Alaska election office](https://www.elections.alaska.gov/) | Check your state election office; see our [certification deadlines by state](/news/when-are-2026-election-results-certified-deadlines-by-state/) |
+| Arizona | [Arizona election office](https://azsos.gov/elections) | State canvass by the third Monday after the election, Mon., Nov. 23 ([A.R.S. 16-642](https://azleg.gov/ars/16/00642.htm)) |
+| Arkansas | [Arkansas election office](https://www.sos.arkansas.gov/elections) | Check your state election office; see our [certification deadlines by state](/news/when-are-2026-election-results-certified-deadlines-by-state/) |
+| California | [California election office](https://www.sos.ca.gov/elections) | Check your state election office; see our [certification deadlines by state](/news/when-are-2026-election-results-certified-deadlines-by-state/) |
+| Colorado | [Colorado election office](https://www.sos.state.co.us/pubs/elections/main.html) | Check your state election office; see our [certification deadlines by state](/news/when-are-2026-election-results-certified-deadlines-by-state/) |
+| Connecticut | [Connecticut election office](https://portal.ct.gov/sots/common-elements/v5-template---redesign/elections--voting--home-page) | Check your state election office; see our [certification deadlines by state](/news/when-are-2026-election-results-certified-deadlines-by-state/) |
+| Delaware | [Delaware election office](https://elections.delaware.gov/index.shtml) | Check your state election office; see our [certification deadlines by state](/news/when-are-2026-election-results-certified-deadlines-by-state/) |
+| District of Columbia | [District of Columbia election office](https://dcboe.org/) | Check your state election office; see our [certification deadlines by state](/news/when-are-2026-election-results-certified-deadlines-by-state/) |
+| Florida | [Florida election office](https://www.dos.myflorida.com/elections/) | Check your state election office; see our [certification deadlines by state](/news/when-are-2026-election-results-certified-deadlines-by-state/) |
+| Georgia | [Georgia election office](https://sos.ga.gov/elections-division-georgia-secretary-states-office) | Runoff, if needed, Tue., Dec. 1 (see runoff table below) |
+| Hawaii | [Hawaii election office](https://elections.hawaii.gov/) | Check your state election office; see our [certification deadlines by state](/news/when-are-2026-election-results-certified-deadlines-by-state/) |
+| Idaho | [Idaho election office](https://voteidaho.gov/) | Check your state election office; see our [certification deadlines by state](/news/when-are-2026-election-results-certified-deadlines-by-state/) |
+| Illinois | [Illinois election office](https://www.elections.il.gov/) | Check your state election office; see our [certification deadlines by state](/news/when-are-2026-election-results-certified-deadlines-by-state/) |
+| Indiana | [Indiana election office](https://indianavoters.in.gov/) | Check your state election office; see our [certification deadlines by state](/news/when-are-2026-election-results-certified-deadlines-by-state/) |
+| Iowa | [Iowa election office](https://sos.iowa.gov/elections/voterinformation/index.html) | Check your state election office; see our [certification deadlines by state](/news/when-are-2026-election-results-certified-deadlines-by-state/) |
+| Kansas | [Kansas election office](https://sos.ks.gov/elections/elections.html) | Check your state election office; see our [certification deadlines by state](/news/when-are-2026-election-results-certified-deadlines-by-state/) |
+| Kentucky | [Kentucky election office](https://elect.ky.gov/Pages/default.aspx) | Check your state election office; see our [certification deadlines by state](/news/when-are-2026-election-results-certified-deadlines-by-state/) |
+| Louisiana | [Louisiana election office](https://www.sos.la.gov/ElectionsAndVoting/Pages/default.aspx) | Dec. 12 elections (see runoff table below) |
+| Maine | [Maine election office](https://www.maine.gov/sos/cec/elec/index.html) | Check your state election office; see our [certification deadlines by state](/news/when-are-2026-election-results-certified-deadlines-by-state/) |
+| Maryland | [Maryland election office](https://elections.maryland.gov/) | Check your state election office; see our [certification deadlines by state](/news/when-are-2026-election-results-certified-deadlines-by-state/) |
+| Massachusetts | [Massachusetts election office](https://www.sec.state.ma.us/divisions/elections/elections-and-voting.htm) | Check your state election office; see our [certification deadlines by state](/news/when-are-2026-election-results-certified-deadlines-by-state/) |
+| Michigan | [Michigan election office](https://www.michigan.gov/sos/elections) | Check your state election office; see our [certification deadlines by state](/news/when-are-2026-election-results-certified-deadlines-by-state/) |
+| Minnesota | [Minnesota election office](https://www.sos.state.mn.us/elections-voting/) | State Canvassing Board meets on the 16th day, Thu., Nov. 19 ([Minn. Stat. 204C.33](https://www.revisor.mn.gov/statutes/cite/204C.33)) |
+| Mississippi | [Mississippi election office](https://www.sos.ms.gov/elections-voting) | Check your state election office; see our [certification deadlines by state](/news/when-are-2026-election-results-certified-deadlines-by-state/) |
+| Missouri | [Missouri election office](https://www.sos.mo.gov/elections/) | Check your state election office; see our [certification deadlines by state](/news/when-are-2026-election-results-certified-deadlines-by-state/) |
+| Montana | [Montana election office](https://sosmt.gov/elections/) | Check your state election office; see our [certification deadlines by state](/news/when-are-2026-election-results-certified-deadlines-by-state/) |
+| Nebraska | [Nebraska election office](https://www.nebraska.gov/featured/elections-voting/) | Check your state election office; see our [certification deadlines by state](/news/when-are-2026-election-results-certified-deadlines-by-state/) |
+| Nevada | [Nevada election office](https://www.nvsos.gov/sos/elections) | Check your state election office; see our [certification deadlines by state](/news/when-are-2026-election-results-certified-deadlines-by-state/) |
+| New Hampshire | [New Hampshire election office](https://www.sos.nh.gov/elections/voters) | Check your state election office; see our [certification deadlines by state](/news/when-are-2026-election-results-certified-deadlines-by-state/) |
+| New Jersey | [New Jersey election office](https://www.nj.gov/state/elections/vote.shtml) | Check your state election office; see our [certification deadlines by state](/news/when-are-2026-election-results-certified-deadlines-by-state/) |
+| New Mexico | [New Mexico election office](https://www.sos.nm.gov/voting-and-elections/voter-information-portal-nmvote-org/) | Check your state election office; see our [certification deadlines by state](/news/when-are-2026-election-results-certified-deadlines-by-state/) |
+| New York | [New York election office](https://www.elections.ny.gov/) | Check your state election office; see our [certification deadlines by state](/news/when-are-2026-election-results-certified-deadlines-by-state/) |
+| North Carolina | [North Carolina election office](https://www.ncsbe.gov/) | County canvass 11 a.m. Fri., Nov. 13; state canvass Nov. 24 ([NC State Board of Elections](https://www.ncsbe.gov/news/press-releases/2026/10/27/reporters-primer-2026-general-election-nc)) |
+| North Dakota | [North Dakota election office](https://vip.sos.nd.gov/PortalList.aspx) | Check your state election office; see our [certification deadlines by state](/news/when-are-2026-election-results-certified-deadlines-by-state/) |
+| Ohio | [Ohio election office](https://www.sos.state.oh.us/elections/voters/) | County boards finish by the 21st day, Tue., Nov. 24 ([Ohio Revised Code 3505.32](https://codes.ohio.gov/ohio-revised-code/section-3505.32)) |
+| Oklahoma | [Oklahoma election office](https://oklahoma.gov/elections.html) | Check your state election office; see our [certification deadlines by state](/news/when-are-2026-election-results-certified-deadlines-by-state/) |
+| Oregon | [Oregon election office](https://sos.oregon.gov/voting-elections/Pages/default.aspx) | Check your state election office; see our [certification deadlines by state](/news/when-are-2026-election-results-certified-deadlines-by-state/) |
+| Pennsylvania | [Pennsylvania election office](https://www.dos.pa.gov/VotingElections/Pages/default.aspx) | Check your state election office; see our [certification deadlines by state](/news/when-are-2026-election-results-certified-deadlines-by-state/) |
+| Rhode Island | [Rhode Island election office](https://vote.sos.ri.gov/) | Check your state election office; see our [certification deadlines by state](/news/when-are-2026-election-results-certified-deadlines-by-state/) |
+| South Carolina | [South Carolina election office](https://www.scvotes.org/) | Check your state election office; see our [certification deadlines by state](/news/when-are-2026-election-results-certified-deadlines-by-state/) |
+| South Dakota | [South Dakota election office](https://sdsos.gov/elections-voting/default.aspx) | Check your state election office; see our [certification deadlines by state](/news/when-are-2026-election-results-certified-deadlines-by-state/) |
+| Tennessee | [Tennessee election office](https://sos.tn.gov/elections) | Check your state election office; see our [certification deadlines by state](/news/when-are-2026-election-results-certified-deadlines-by-state/) |
+| Texas | [Texas election office](https://www.sos.state.tx.us/elections/index.shtml) | Local canvass from Fri., Nov. 6; state canvass Sat., Nov. 21 to Sun., Dec. 6 (Texas Election Code; see canvass section below) |
+| Utah | [Utah election office](https://vote.utah.gov/) | Check your state election office; see our [certification deadlines by state](/news/when-are-2026-election-results-certified-deadlines-by-state/) |
+| Vermont | [Vermont election office](https://sos.vermont.gov/elections/) | Check your state election office; see our [certification deadlines by state](/news/when-are-2026-election-results-certified-deadlines-by-state/) |
+| Virginia | [Virginia election office](https://www.elections.virginia.gov/) | State Board of Elections meets by the first Monday in December, Dec. 7 ([Va. Code 24.2-679](https://law.lis.virginia.gov/vacode/title24.2/chapter6/section24.2-679/)) |
+| Washington | [Washington election office](https://www.sos.wa.gov/elections) | Counties certify Tue., Nov. 24; Secretary of State certifies by Thu., Dec. 3 ([Washington Secretary of State calendar](https://www.sos.wa.gov/elections/calendar)) |
+| West Virginia | [West Virginia election office](https://sos.wv.gov/elections/pages/default.aspx) | Check your state election office; see our [certification deadlines by state](/news/when-are-2026-election-results-certified-deadlines-by-state/) |
+| Wisconsin | [Wisconsin election office](https://myvote.wi.gov/en-us/) | Check your state election office; see our [certification deadlines by state](/news/when-are-2026-election-results-certified-deadlines-by-state/) |
+| Wyoming | [Wyoming election office](https://sos.wyo.gov/Elections/Default.aspx) | Check your state election office; see our [certification deadlines by state](/news/when-are-2026-election-results-certified-deadlines-by-state/) |
+
+## Texas canvass dates after Nov. 3, 2026
+
+These dates are computed from the Texas Election Code, because the Texas Secretary of State pages blocked automated access.
+
+| Date | What happens | Source |
+|---|---|---|
+| Friday, Nov. 6 | Earliest local canvass (not before the 3rd day after the election) | Section 67.003 |
+| Saturday, Nov. 14 | Local canvass due by the 11th day | Section 67.003 |
+| Monday, Nov. 16 | Provisional ballots verified and counted (13th day) | Section 65.051(a-1) |
+| Tuesday, Nov. 17 | Local canvass can run up to the 14th day where section 67.003(c) applies | Section 67.003(c) |
+| Saturday, Nov. 21 to Sunday, Dec. 6 | State canvass window (18th to 33rd day) | Section 67.012 |
+
+Local runoff dates are set by each county and city, so check your county elections office. Our [Texas results story](/news/texas-election-results-2026-polls-close-where-to-follow-canvass-dates/) has the full canvass timeline.
+
+## Runoff and December election dates in Georgia and Louisiana
+
+| State | Date | What the official site says |
+|---|---|---|
+| Georgia | Tuesday, Dec. 1, 2026 | General election runoff, if needed; early voting Nov. 23 to 25 (Georgia.gov) |
+| Louisiana | Saturday, Dec. 12, 2026 | Dec. 12 elections, including an open U.S. Representative general election and a State Senate 14th District special primary in East Baton Rouge Parish; early voting Nov. 28 to Dec. 5, except Sunday, Nov. 29 (Louisiana Secretary of State) |
+
+More in our [runoff dates story](/news/runoff-elections-2026-dates-georgia-december-1-louisiana-december-12/).
+
+## Sample ballot lookup by ZIP code for the next election
 
 <form class="zip-finder" data-zip-finder action="#state-lookups" onsubmit="return false" novalidate>
 <label for="zip-in">Enter your five-digit ZIP code</label>
@@ -174,7 +294,7 @@ In Texas there is no straight-ticket option. The Legislature ended straight-part
 
 ## Research the candidates
 
-Start with the candidate list on your official sample ballot, then read what the candidates and measures say for themselves. VOTE411, run by the League of Women Voters Education Fund, collects candidates' answers to the same questions, and Ballotpedia lists the candidates and measures for an address. Both are nonpartisan. For measures, your county or city usually publishes the full text with the sample ballot; read it before Election Day, because the summary on the ballot is short.
+Start with the candidate list on your official sample ballot, then read what the candidates and measures say for themselves. VOTE411, run by the League of Women Voters Education Fund, collects candidates' answers to the same questions, and Ballotpedia lists the candidates and measures for an address. Both are nonpartisan. For measures, your county or city usually publishes the full text with the sample ballot; read it before you vote, because the summary on the ballot is short.
 
 ## Official sample ballot lookup in every state
 
@@ -246,7 +366,7 @@ If your state portal shows only your registration, search for your county name p
 
 Texas sample ballots are posted by counties. The state's My Voter Portal shows your registration and early voting locations once you enter your name, county, date of birth and ZIP code. For the 12 most populous counties, the official elections offices are:
 
-Texas heads into Nov. 3 with a record 19,041,684 registered voters, the Secretary of State said on Oct. 16, 2026. More than 4.2 million Texans voted in the first six days of early voting, through Saturday, Oct. 24, about 22 percent of registered voters, according to an Oct. 26 release. For the Nov. 3 election, 103 counties are approved to run the Countywide Polling Place Program, which lets you vote at any vote center in the county. In counties that are not in the program, you may have to vote at your assigned polling place on Election Day. Polls are open 7 a.m. to 7 p.m. statewide, the Secretary of State confirmed on Oct. 27. The table below lists each county's year in the program (the first year it was approved) from the state's list.
+Texas went into Nov. 3 with a record 19,041,684 registered voters, the Secretary of State said on Oct. 16, 2026. More than 4.2 million Texans voted in the first six days of early voting, through Saturday, Oct. 24, about 22 percent of registered voters, according to an Oct. 26 release. For the Nov. 3 election, 103 counties are approved to run the Countywide Polling Place Program, which lets you vote at any vote center in the county. In counties that are not in the program, you may have to vote at your assigned polling place on Election Day. Polls are open 7 a.m. to 7 p.m. statewide, the Secretary of State confirmed on Oct. 27. The table below lists each county's year in the program (the first year it was approved) from the state's list.
 
 | County | Elections office | Vote at any vote center on Nov. 3? |
 |---|---|---|
@@ -279,7 +399,7 @@ Texas heads into Nov. 3 with a record 19,041,684 registered voters, the Secretar
 
 ## Early voting used the same ballot
 
-The ballot at an early voting site is the same ballot style you would get at your precinct on Election Day, so the sample ballot you look up now is the one to study for Nov. 3. Early voting dates differed by state: Texas ran through Oct. 30, while Michigan's statewide minimum period was Oct. 24 to Nov. 1. Our [mail ballot deadline list](/news/mail-ballot-deadlines-2026-by-state/) covers the states that vote mostly by mail.
+The ballot at an early voting site is the same ballot style you would get at your precinct on Election Day, so the sample ballot you look up is the one to study before any election. Early voting dates differed by state: Texas ran through Oct. 30, while Michigan's statewide minimum period was Oct. 24 to Nov. 1. Our [mail ballot deadline list](/news/mail-ballot-deadlines-2026-by-state/) covers the states that vote mostly by mail.
 
 ## Bring your choices on paper
 
@@ -295,11 +415,17 @@ For Texas candidates, see our [Texas ballot guide](/news/texas-ballot-2026-candi
 
 | Date | What happens |
 |---|---|
-| Friday, Oct. 23 | Texas: last day for a mail ballot application to arrive (passed) |
-| Saturday, Oct. 24 | Early voting opens statewide in Michigan (passed) |
-| Friday, Oct. 30 | Last day of early voting in Texas (passed) |
-| Sunday, Nov. 1 | Clocks fell back one hour at 2 a.m. (passed) |
-| Tuesday, Nov. 3 | Election Day; Texas polls open 7 a.m. to 7 p.m. |
-| Wednesday, Nov. 4, 5 p.m. | Texas: last arrival for a mailed ballot postmarked by Nov. 3 |
+| Tuesday, Nov. 3 | Election Day (passed) |
+| Friday, Nov. 6 | Texas: earliest local canvass |
+| Friday, Nov. 13, 11 a.m. | North Carolina: county canvass |
+| Monday, Nov. 16 | Texas: provisional ballots verified and counted |
+| Thursday, Nov. 19 | Minnesota: State Canvassing Board meets |
+| Saturday, Nov. 21 to Sunday, Dec. 6 | Texas: state canvass window |
+| Monday, Nov. 23 | Arizona: state canvass deadline |
+| Tuesday, Nov. 24 | Washington counties certify; North Carolina state canvass; Ohio county boards finish |
+| Tuesday, Dec. 1 | Georgia: general election runoff, if needed |
+| Thursday, Dec. 3 | Washington: Secretary of State certifies by this date |
+| Monday, Dec. 7 | Virginia: State Board of Elections meets by this date |
+| Saturday, Dec. 12 | Louisiana: Dec. 12 elections |
 
-Plan your Nov. 3 trip on a [weekly planner](/printable-weekly-calendar.html), and keep the day circled on the [November 2026 calendar](/november-calendars.html); the [October 2026 calendar](/october-calendars.html) shows the early voting weeks that just ended. If you are in line when your polls close, stay in line: you can still vote.
+Keep the dates on the [November 2026 calendar](/november-calendars.html) and a [weekly planner](/printable-weekly-calendar.html); the [October 2026 calendar](/october-calendars.html) shows the early voting weeks that just ended.
