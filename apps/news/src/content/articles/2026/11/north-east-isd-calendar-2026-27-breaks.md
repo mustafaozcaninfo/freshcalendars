@@ -10,7 +10,7 @@ keywords: ["neisd calendar 2026-27", "neisd spring break 2027", "neisd winter br
 dateline: "San Antonio"
 hero:
   src: ../../../../assets/news/north-east-isd-calendar-2026-27-breaks/north-east-isd-calendar-2026-27-breaks.webp
-  alt: "McAllister Park trailhead sign in north-east San Antonio, with the North East ISD calendar 2026-27 Thanksgiving break on a card"
+  alt: "McAllister Park trailhead sign in north-east San Antonio, with the North East Independent School District (NEISD) calendar 2026-27 Thanksgiving break on a card"
   caption: "File photo of the McAllister Park trailhead sign on the Salado Creek Greenway in north-east San Antonio. The district lists Thanksgiving break as Nov. 23-27, 2026."
   credit: "Photo: Stillwaterising / Wikimedia Commons, cropped, edited"
   license:
@@ -112,7 +112,7 @@ assets:
         - { label: "Board approval date of the calendar", why: "The district page does not give one" }
 ---
 
-**North East Independent School District (ISD), or NEISD, in San Antonio, Texas, lists Thanksgiving break for Nov. 23-27, 2026, winter break as "12/21/2026-1/4/2027" and spring break for March 8-12, 2027**, on its "Calendars" page. Traditional campuses started Aug. 17 and the last day of classes is Thursday, May 27, 2027.
+**North East Independent School District (NEISD) in San Antonio, Texas, lists Thanksgiving break for Nov. 23-27, 2026, winter break as "12/21/2026-1/4/2027" and spring break for March 8-12, 2027**, on its "Calendars" page. Traditional campuses started Aug. 17 and the last day of classes is Thursday, May 27, 2027.
 
 The page says "Academic Calendars are Subject to Change." It gives no board approval date, so every date here is as posted by the district on Nov. 5, 2026. This story adds what the page does not: weekdays off by month, school days between breaks, the three NEISD calendars side by side, early release dates from a second district page, and a comparison with Northside Independent School District (NISD). A printable for traditional campuses is at the bottom.
 
@@ -222,7 +222,7 @@ A second district page, "Campus Start/End Times & Early Release Dates," lists th
 | Middle schools | March 5, 2027 |
 | High schools | Dec. 17 and 18, 2026; March 5, May 25, 26 and 27, 2027 |
 
-The Dec. 17 and 18 dates sit just before winter break for high schools. The page lists "TBA" (To Be Announced) for one more campus group, so those dates are not yet announced.
+The Dec. 17 and 18 dates sit just before winter break for high schools. The page lists To Be Announced (TBA) for one more campus group, so those dates are not yet announced.
 
 ## NEISD vs Northside ISD: how do the two calendars compare?
 
