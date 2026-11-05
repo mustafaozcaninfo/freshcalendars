@@ -50,7 +50,7 @@ internalLinks:
     label: "November 2026 printable calendar"
   - href: "/december-calendars.html"
     label: "December 2026 printable calendar"
-related: [dallas-isd-calendar-2026-27-holidays-breaks, houston-isd-calendar-2026-27-holidays-breaks, northside-isd-calendar-2026-27-breaks]
+related: [north-east-isd-calendar-2026-27-breaks, houston-isd-calendar-2026-27-holidays-breaks, northside-isd-calendar-2026-27-breaks]
 assets:
   overlay: true
   kicker: "Austin ISD 2026-27"
