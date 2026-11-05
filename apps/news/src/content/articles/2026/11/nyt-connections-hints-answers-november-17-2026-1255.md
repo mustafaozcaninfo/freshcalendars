@@ -3,8 +3,7 @@ title: "NYT Connections Hints and Answers for Tuesday, Nov. 17, 2026 (#1255): Tw
 seoTitle: "Connections Hints & Answers Today, Nov. 17, 2026 (#1255)"
 description: "Connections #1255 for Tuesday, Nov. 17, 2026: two hints per color, what each tier asks of you today, then the full answers and a look-alike map at the end."
 type: explainer
-publishedAt: "2026-11-05T05:33:08-05:00"
-updatedAt: "2026-11-05T05:33:08-05:00"
+publishedAt: "2026-11-16T00:05:00-05:00"
 authors: [news-desk]
 category: puzzles
 keywords: ["Connections hints today", "NYT Connections November 17 2026", "Connections 1255", "Connections answers today", "NYT Connections hints"]
