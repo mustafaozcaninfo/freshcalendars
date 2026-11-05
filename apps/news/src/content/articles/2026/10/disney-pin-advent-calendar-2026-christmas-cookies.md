@@ -54,7 +54,7 @@ internalLinks:
     label: "When is Christmas Day"
   - href: "/when-is/black-friday/"
     label: "When is Black Friday"
-related: [advent-calendar-2026-dates-free-printable, lego-advent-calendars-2026-prices-whats-inside]
+related: [advent-calendar-2026-dates-free-printable, lego-advent-calendars-2026-prices-whats-inside, little-debbie-christmas-tree-cakes-2026]
 draft: false
 ---
 
