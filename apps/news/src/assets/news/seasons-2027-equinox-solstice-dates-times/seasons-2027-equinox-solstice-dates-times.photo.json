@@ -16,5 +16,6 @@
   "original": "1920×1080",
   "output": "1920×1080",
   "cropped": false,
-  "credit": "Photo: GOES imagery: CSU/CIRA & NOAA / Wikimedia Commons"
+  "credit": "Photo: GOES imagery: CSU/CIRA & NOAA / Wikimedia Commons, edited",
+  "overlay": true
 }
