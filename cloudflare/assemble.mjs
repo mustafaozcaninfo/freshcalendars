@@ -140,6 +140,11 @@ for (const line of pdfMap.split("\n")) {
   if (m) canonical[m[1].replace(/\\(.)/g, "$1")] = m[2];
 }
 await writeFile(path.join(OUT, "pdf-canonical.json"), JSON.stringify(canonical));
+// Content hashes of the printables (news build, astro.config.mjs): the Worker's edge-cache key.
+// dist/news-data comes back from the state bucket on a calendar-only deploy, so this is always the
+// live set; without it the Worker serves from R2 uncached, as before.
+const versions = await readFile(path.join(ROOT, "dist/news-data/download-versions.json"), "utf8").catch(() => "{}");
+await writeFile(path.join(OUT, "download-versions.json"), versions);
 await writeFile(path.join(OUT, "news-redirects.json"), JSON.stringify(downloadRedirects));
 
 // Checks: file count and size limits, and no old-URL rule that Apache applied to a live page.
