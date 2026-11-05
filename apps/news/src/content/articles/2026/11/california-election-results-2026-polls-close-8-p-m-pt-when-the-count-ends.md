@@ -4,6 +4,7 @@ seoTitle: "California Election Results 2026: Times and Count Dates"
 description: "California polls close at 8 p.m. Pacific Time (PT), 11 p.m. Eastern Time (ET), on Nov. 3, 2026. Where results post, how long counting runs and key dates."
 type: explainer
 publishedAt: "2026-11-02T13:14:00-05:00"
+updatedAt: "2026-11-05T08:00:00-05:00"
 authors: [christina-gerland]
 category: elections
 keywords: ["california election results 2026", "california election night results", "when do california polls close", "california vote count timeline", "california unprocessed ballots report"]
@@ -66,6 +67,10 @@ sources:
     url: "https://www.sos.ca.gov/administration/news-releases-and-advisories/2026-news-releases-and-advisories/california-secretary-state-shirley-n-weber-phd-issues-unprocessed-ballots-report"
     publisher: "California Secretary of State"
     date: "2026-06-04"
+  - title: "Unprocessed Ballots Status | 2026 General Election"
+    url: "https://electionresults.sos.ca.gov/unprocessed-ballots-status"
+    publisher: "California Secretary of State"
+    date: "2026-11-05"
   - title: "Secretary of State Weber certifies candidate list for the November 3, 2026 General Election"
     url: "https://www.sos.ca.gov/administration/news-releases-and-advisories/2026-news-releases-and-advisories/california-secretary-state-shirley-n-weber-phd-certifies-candidate-list-november-3-2026-general-election"
     publisher: "California Secretary of State"
@@ -138,7 +143,7 @@ What the first numbers contain matters. The Secretary of State's vote counting p
 | Date | What happens |
 |---|---|
 | Tue., Nov. 3, 8 p.m. | Polls close; counties begin the semi-official canvass; last time to register conditionally and vote a provisional ballot |
-| Thu., Nov. 5 | Counties send the state a first estimate of unprocessed ballots |
+| Thu., Nov. 5 | Counties send the state a first estimate of unprocessed ballots; see the [unprocessed ballots status page](https://electionresults.sos.ca.gov/unprocessed-ballots-status) |
 | Mon., Nov. 9 | From this day, counties report estimates to the state on any day they publish updated results |
 | Tue., Nov. 10 | Last day for mailed ballots to arrive |
 | Mon., Nov. 16 | Counties finish counting most ballots |
@@ -152,6 +157,8 @@ The Nov. 16 deadline has exceptions. Counties may still be working on provisiona
 ## How to see how many California ballots are left to count
 
 Counties give the Secretary of State "an estimate of their remaining unprocessed ballots" two days after the election, and the office posts that report online and updates it daily, according to its vote counting page. It issued the same kind of report after the June primary.
+
+For this election, the Secretary of State's [Unprocessed Ballots Status page](https://electionresults.sos.ca.gov/unprocessed-ballots-status) for the Nov. 3, 2026 general election is the place to check. It was live on the morning of Thu., Nov. 5, but it had not yet posted a statewide unprocessed-ballot total or an "as of" time, and it does not post an update schedule. The page says "it typically takes weeks for counties to process and count all of the ballots" and that, for the most up-to-date vote counts before statewide certified results are published, "you may contact a county elections office directly."
 
 Counties have their own duty. Starting the Thursday after the election, each county must update its website at least twice by the next Thursday and at least twice a week after that. Each update must show updated results, the ballots processed and the estimated ballots left in five groups (polling place, mailed ballots received on or before Election Day, mailed ballots received after Election Day, provisional and conditional registration), and the date and time of the next release.
 

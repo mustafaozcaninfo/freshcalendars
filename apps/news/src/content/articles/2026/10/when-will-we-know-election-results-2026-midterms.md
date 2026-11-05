@@ -4,7 +4,7 @@ seoTitle: "When Will We Know 2026 Midterm Election Results?"
 description: "Polls closed Nov. 3, 2026, but counting takes days in some states. When mail ballots are counted in 17 key states, late-ballot rules and certification dates."
 type: explainer
 publishedAt: "2026-10-21T00:30:00-04:00"
-updatedAt: "2026-11-04T09:30:00-05:00"
+updatedAt: "2026-11-05T08:00:00-05:00"
 authors: [christina-gerland]
 category: elections
 keywords: ["when will we know election results 2026", "when will election results start coming in", "2026 midterm results timeline", "election results by state 2026", "when are election results certified"]
@@ -78,6 +78,14 @@ sources:
     url: "https://coloradosos.gov/pubs/newsRoom/pressReleases/2026/PR20261102ElectionResults.html"
     publisher: "Colorado Secretary of State"
     date: "2026-11-02"
+  - title: "Unprocessed Ballots Status | 2026 General Election | California Secretary of State"
+    url: "https://electionresults.sos.ca.gov/unprocessed-ballots-status"
+    publisher: "California Secretary of State"
+    date: "2026-11-05"
+  - title: "Nov. 3, 2026, is the General Election."
+    url: "https://www.pa.gov/en/agencies/vote/elections/upcoming-elections"
+    publisher: "Pennsylvania Department of State"
+    date: "2026-11-05"
 internalLinks:
   - href: "/november-calendars.html"
     label: "November 2026 printable calendar"
@@ -100,17 +108,19 @@ draft: false
 
 **The first results arrived minutes after polls closed on Tuesday, Nov. 3, 2026, but they are unofficial, and in some states the count runs for days.** Election-night totals keep changing as officials add mail, provisional and overseas ballots, the U.S. Election Assistance Commission says. News organizations project winners when the trailing candidate can no longer catch up; states make results official later, through the canvass and certification. How fast each state reports depends mostly on its mail-ballot rules, which are laid out below for 17 states.
 
-## Where the 2026 count stands on Wednesday, Nov. 4
+## Where the 2026 count stands on Thursday, Nov. 5
 
-Election-night totals are unofficial, and counting continues on Wednesday, Nov. 4. It goes on in states that accept late mail ballots (Texas until 5 p.m. Nov. 4, Nevada until 5 p.m. Nov. 7, California and New York through Nov. 10) and in ranked-choice states such as Maine and Alaska. California's Secretary of State says "in the days afterwards, the results will be updated each day throughout the canvass as counties count the remaining ballots," and that official certified results "will be posted by December 11, 2026."
+Election-night totals are unofficial, and counting continues on Thursday, Nov. 5. It goes on in states that accept late mail ballots (Nevada until 5 p.m. Nov. 7, California and New York through Nov. 10; Texas's 5 p.m. Nov. 4 deadline has passed) and in ranked-choice states such as Maine and Alaska. California's Secretary of State says "in the days afterwards, the results will be updated each day throughout the canvass as counties count the remaining ballots," and that official certified results "will be posted by December 11, 2026."
 
 The Secretary of State's canvass page sets the rest of California's schedule relative to Election Day. Computed from those rules for the Nov. 3, 2026 election: counties must count and report all ballots, with some exceptions, by the 13th day, Monday, Nov. 16; counties must send final results to the Secretary of State by 30 days after, Thursday, Dec. 3; and the Secretary of State certifies at 38 days, Friday, Dec. 11. Vote-by-mail ballots postmarked by Election Day and received within seven days count, which gives Nov. 10.
 
 In Clark County, Nevada, voters can fix a mail ballot signature problem until 5 p.m. on Nov. 9, according to the county Election Department.
 
-Two more states are still receiving or curing ballots. Oregon's Secretary of State says ballots postmarked by Election Day can reach the county elections office up to 7 days after Election Day, which is Tuesday, Nov. 10. Voters with a signature challenge have until 21 days after the election to resolve it, which is Tuesday, Nov. 24 (both dates computed from those rules), and Oregon says final results "will be certified and made available on December 10." In Colorado, the Secretary of State's Nov. 2 release says counties "upload results periodically through the night," and gives Nov. 12, 2026, as the signature cure deadline.
+Three more states are still receiving or curing ballots. Oregon's Secretary of State says ballots postmarked by Election Day can reach the county elections office up to 7 days after Election Day, which is Tuesday, Nov. 10. Voters with a signature challenge have until 21 days after the election to resolve it, which is Tuesday, Nov. 24 (both dates computed from those rules), and Oregon says final results "will be certified and made available on December 10." In Colorado, the Secretary of State's Nov. 2 release says counties "upload results periodically through the night," and gives Nov. 12, 2026, as the signature cure deadline.
 
-We could not confirm from most state election offices how many ballots remain to be counted, and we have no confirmation that any state has finished counting. Check your state's election office through our [live blog](/news/election-day-2026-results-map/) for the latest.
+The Pennsylvania Department of State lists Nov. 10 as the last day for county election offices to receive completed military and overseas absentee ballots that were submitted for delivery no later than 11:59 p.m. on Nov. 2, so Pennsylvania counties can still receive those ballots.
+
+California's Secretary of State says on its unprocessed ballots status page for the Nov. 3, 2026 election that "it typically takes weeks for counties to process and count all of the ballots"; on the morning of Nov. 5 that [page](https://electionresults.sos.ca.gov/unprocessed-ballots-status) showed no statewide unprocessed-ballot total. We could not confirm from most state election offices how many ballots remain to be counted, and as of Nov. 5 we have no confirmation that any state has finished counting. Check your state's election office through our [live blog](/news/election-day-2026-results-map/) for the latest.
 
 We are tracking the returns state by state in our [Election Night 2026 live blog](/news/election-day-2026-results-map/), with a results map, a scoreboard and a link to every state's election office.
 
@@ -163,7 +173,7 @@ What the first numbers contain differs by state. In California, the Secretary of
 | New York | Reviewed as they arrive; tabulated from 1 hour before polls close | Counted if received by Nov. 10 | By Dec. 15 |
 | North Carolina | Approved before Election Day; counted on Election Day | No longer counted; due 7:30 p.m. Nov. 3 | About Nov. 24 |
 | Ohio | Before Election Day | No longer counted; due 7:30 p.m. Nov. 3 | Canvass Nov. 8-18 |
-| Pennsylvania | Not before 7 a.m. Nov. 3 | Not counted; due 8 p.m. Nov. 3 | About Nov. 23 |
+| Pennsylvania | Not before 7 a.m. Nov. 3 | Not counted; due 8 p.m. Nov. 3 (military and overseas ballots received by Nov. 10) | About Nov. 23 |
 | [Texas](/news/texas-election-results-2026-polls-close-where-to-follow-canvass-dates/) | Before Election Day | Counted if postmarked by 7 p.m. and received by 5 p.m. Nov. 4 | Local canvass by Nov. 17 |
 | Wisconsin | Not before 7 a.m. Nov. 3 | Not counted; due 8 p.m. Nov. 3 | By Dec. 1 |
 
@@ -181,7 +191,7 @@ In Watson v. Republican National Committee, decided June 29, 2026, the U.S. Supr
 
 | Date | What happens |
 |---|---|
-| Nov. 4-10 | Late mail ballots arrive in grace-period states (Texas Nov. 4, Nevada Nov. 7, California, New York and Oregon Nov. 10) |
+| Nov. 4-10 | Late mail ballots arrive in grace-period states (Texas Nov. 4, Nevada Nov. 7, California, New York and Oregon Nov. 10); Pennsylvania receives military and overseas ballots until Nov. 10 |
 | Nov. 12 | Colorado signature cure deadline |
 | Nov. 16 | California counties finish reporting all ballots, with some exceptions (computed from the Secretary of State's 13-day rule) |
 | Nov. 24 | Oregon signature-challenge deadline (computed from the 21-day rule) |
