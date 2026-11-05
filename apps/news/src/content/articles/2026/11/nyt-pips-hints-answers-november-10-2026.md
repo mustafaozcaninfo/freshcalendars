@@ -1,7 +1,7 @@
 ---
-title: "NYT Pips Hints and Answers for Tuesday, Nov. 10, 2026: Easy, Medium and Hard Domino Placements"
+title: "NYT Pips Hints and Answers for Tuesday, Nov. 10, 2026: Easy, Medium and Hard"
 seoTitle: "Pips Hints & Answers, Nov. 10, 2026: Easy, Medium, Hard"
-description: "Pips for Tuesday, Nov. 10, 2026: two hints for each board, then every domino placement for Easy, Medium and Hard from the official puzzle data."
+description: "Pips for Tuesday, Nov. 10, 2026: a Hard board with six cells that add up to 0, opening moves, two hints per level, then every Easy, Medium and Hard placement."
 type: explainer
 publishedAt: "2026-11-09T00:05:00-05:00"
 authors: [news-desk]
@@ -12,21 +12,16 @@ hero:
   src: ../../../../assets/news/nyt-pips-hints-answers-november-10-2026/nyt-pips-hints-answers-november-10-2026.jpg
   alt: "Pips hints for Nov. 10, 2026: dominoes resting on a board of pastel colored regions, no solution shown"
   title: "Pips hints, Nov. 10, 2026"
-  caption: "NYT Pips for Tuesday, Nov. 10, 2026: two hints for each board first, every domino placement only in the spoiler section."
+  caption: "Tuesday's Pips, Nov. 10, 2026: opening moves and hints up front; placements only past the spoiler heading."
 summary:
-  - "Tuesday's Pips from The New York Times, Nov. 10, 2026: Easy and Medium by Ian Livengood, Hard by Rodolfo Kurchan."
-  - "The Hard board spreads 16 dominoes over five rows, nine columns and 32 cells, and six of those cells must hold a 0."
-  - "Two hints per board come first; every placement, solved from the puzzle data and checked against each region's rule, is at the end."
-  - "Cells are named by row and column from the top left: R1C1 is the top-left cell."
+  - "Tuesday's Pips from The New York Times, Nov. 10, 2026: Ian Livengood made Easy and Medium, Rodolfo Kurchan made Hard."
+  - "Hard spreads 16 dominoes over nine columns, and six of its cells must add up to 0, which uses every 0 in the set."
+  - "Easy and Medium have no doubles between them except one, the 3-3 on Medium."
 faq:
-  - q: "When does Tuesday's Pips puzzle come out?"
-    a: "At midnight in your local time zone on Tuesday, Nov. 10, according to The New York Times Help Center. New boards are published every day."
-  - q: "What do the symbols in Pips mean?"
-    a: "A number means the pips in that region add up to it; = means every half-domino in the region shows the same value; ≠ means all are different; > and < mean the total is more or less than the number shown. A region with no condition takes any value."
-  - q: "Who made Tuesday's Pips puzzles?"
-    a: "Ian Livengood made the Easy and Medium boards, and Rodolfo Kurchan the Hard board, according to the puzzle data."
-  - q: "How many dominoes are on Tuesday's boards?"
-    a: "Five on Easy, seven on Medium and sixteen on Hard, according to the puzzle data."
+  - q: "Why does Tuesday's Medium Pips need its only 0 in the less-than-3 region?"
+    a: "R2C3, R3C2 and R3C3 must total less than 3. The board has no 2, a single 0 and three 1s, so the only way to stay under 3 is a 0 and two 1s."
+  - q: "When does Wednesday's Pips come out?"
+    a: "Wednesday's boards appear at midnight in your local time zone, according to The New York Times Help Center."
 sources:
   - title: "Pips"
     url: "https://www.nytimes.com/games/pips"
@@ -43,40 +38,54 @@ related: [wordle-hint-answer-today-november-10-2026-1970, nyt-connections-hints-
 draft: false
 ---
 
-**Tuesday's Pips from The New York Times (NYT), for Nov. 10, 2026, has Easy and Medium boards by Ian Livengood and a Hard board by Rodolfo Kurchan; two hints for each come first, and every domino placement is at the end.** The solutions come from the puzzle data the Times publishes for the game and were checked against every region's rule. The boards go live at midnight in your time zone.
+**Tuesday's Pips from The New York Times (NYT), Nov. 10, 2026, has a Hard board nine columns wide where six cells must add up to 0.** Ian Livengood made Easy and Medium; Rodolfo Kurchan made Hard. Hard has four equal regions today, and [our Pips page](/news/topic/nyt-pips/#how-it-works) covers what that sign and the others mean. The placements at the end follow the Times' data and pass every region.
 
-## How Pips works
+## Where each Pips board starts on Nov. 10
 
-You place every domino so that each colored region meets its condition. A number means the pips in the region add up to it; = means every half shows the same value; ≠ means all are different; > and < set a total above or below a number; a region with no condition takes anything. Rows are counted from the top and columns from the left, so R2C5 is the second row, fifth column.
+Cells are named row first, then column, counting from the top-left corner.
+
+**Easy.** Two dead ends fix the outline. R1C3 touches only R2C3, and R2C1 only R2C2. With R2C2 taken, R3C2 must join R4C2; with R2C3 taken, R2C4 must join R3C4; and R4C3 with R4C4 is the last pair. R2C1 must be under 3, so its domino puts a 0 or a 1 there.
+
+**Medium.** R2C3, R3C2 and R3C3 must total less than 3. The board has no 2, one 0 (on the 1-0) and three 1s, so those cells hold exactly a 0 and two 1s. Two dead ends help too: R1C4 must be 3 and touches only R2C4, and R6C2 must be 3 and touches only R5C2.
+
+**Hard.** R1C1 must be 5 and touches only R2C1, so they share a domino. R2C1 and R3C1 must match, and with R2C1 taken, R3C1 can only pair with R3C2, which must be 4. The shared value of R2C1 and R3C1 has to sit on a domino with a 5 and on one with a 4; only 1 and 2 do both.
+
+## Tuesday's three Pips boards side by side
+
+| Level | Dominoes | Regions | Sum | Equal | Not equal | Less or more than | No condition |
+|---|---|---|---|---|---|---|---|
+| Easy | 5 | 6 | 2 | 2 | 0 | 2 | 0 |
+| Medium | 7 | 7 | 3 | 0 | 0 | 4 | 0 |
+| Hard | 16 | 21 | 14 | 4 | 0 | 2 | 1 |
+
+Counts come from the Times' data for Nov. 10. Medium has no equal region, and Hard has fourteen sums, eleven of them on single cells.
 
 ## Tuesday's Pips hints, Nov. 10, 2026
 
 **Easy (five dominoes: 5-6, 0-1, 5-4, 6-1, 1-3)**
 
-- Hint 1: R4C2 and R4C3 must add up to 8. The board has only one 4 and no 2, so the pair is a 5 and a 3. The only 3 is on the 1-3 domino.
-- Hint 2: R2C2 and R3C2 are equal, and so are R2C3 and R2C4. Only three values show up more than once: the 1 three times, and the 5 and the 6 twice each.
+- Hint 1: R2C3 and R2C4 must match. Only 1, 5 and 6 appear on two or more halves.
+- Hint 2: R4C2 and R4C3 add up to 8. With these halves, 8 can only be a 3 and a 5.
 
 **Medium (seven dominoes: 3-4, 3-3, 1-0, 5-1, 5-4, 1-3, 3-5)**
 
-- Hint 1: R4C3 and R4C4 must add up to 10. The highest value on the board is 5, so both cells hold a 5. Three halves show a 5, on the 5-1, 5-4 and 3-5 dominoes.
-- Hint 2: R2C3, R3C2 and R3C3 must total less than 3. There is no 2 on the board and only one 0, so the three cells hold that 0 and two 1s.
+- Hint 1: R4C3 and R4C4 add up to 10. No 6 is on the board, so that means two 5s; there are three.
+- Hint 2: R1C4 and R6C2 must each be a 3, and each touches only one other cell.
 
 **Hard (sixteen dominoes on a five-row board)**
 
-- Hint 1: Six cells must hold a 0: R1C9, R3C4 and R5C5 each add up to 0, and so do R4C7, R5C6 and R5C7 together. Exactly six halves show a 0, and the 0-0 double supplies two of them.
-- Hint 2: R2C9, R3C9 and R4C9 must total less than 4. Once every 0 is placed, the only way to stay under 4 is three 1s, and the 1-1 double supplies two of them.
+- Hint 1: R4C7, R5C6 and R5C7 add up to 0, as do the single cells R1C9, R3C4 and R5C5. That is six 0s, and the set has exactly six.
+- Hint 2: R3C5, R3C6 and R4C6 must show one value. The 3-3 is one of four doubles on this board.
 
-## Solving tips
+## Reading the boards before you check
 
-Start with the cells that leave no choice. On Tuesday's Medium board, two cells must add up to 10 with nothing higher than a 5 on the board, so both are 5s. R1C4 and R6C2 each add up to 3. The Hard board is wide, nine columns across, and 11 of its 32 cells have a fixed total on their own. Count the 0s first: the board needs six and has exactly six, which settles four regions at once. It has four doubles: 0-0, 1-1, 2-2 and 3-3, and four regions where every cell must match. Its one cell with no condition is R4C3. The Easy and Medium boards have none.
+Hard has four doubles, 0-0, 1-1, 2-2 and 3-3, and four equal regions; a double fills two touching cells of an equal region in one move. Medium has three regions that must total more than 6 or 7, and nothing on that board is higher than 5. Easy has no doubles at all.
 
-More of Tuesday's puzzles: [Wordle hints](/news/wordle-hint-answer-today-november-10-2026-1970/), [Connections hints](/news/nyt-connections-hints-answers-november-10-2026-1248/) and [Strands hints](/news/nyt-strands-hints-answers-november-10-2026-982/). Track your solve times on our [printable weekly calendar](/printable-weekly-calendar.html) or the [November 2026 calendar](/november-calendars.html).
+Also for Tuesday: [Wordle hints](/news/wordle-hint-answer-today-november-10-2026-1970/), [Connections hints](/news/nyt-connections-hints-answers-november-10-2026-1248/) and [Strands hints](/news/nyt-strands-hints-answers-november-10-2026-982/). The [printable weekly calendar](/printable-weekly-calendar.html) or the [November 2026 calendar](/november-calendars.html) can hold a running tally of solve times.
 
 ## Tuesday's Pips answers, Nov. 10, 2026 (spoilers)
 
-Stop here if you want to solve the boards yourself.
-
-The values below are the arrangement that fits the placements in the puzzle data and every region's condition.
+Answers start here. Read each line as domino, then cell and value for each half.
 
 **Easy, by Ian Livengood.** Regions: R2C2 and R3C2 are equal; R2C3 and R2C4 are equal; R3C4 and R4C4 add up to 5; R1C3 is more than 4; R2C1 is less than 3; R4C3 and R4C2 add up to 8.
 
@@ -115,4 +124,4 @@ The values below are the arrangement that fits the placements in the puzzle data
 - 3-4: R2C7 = 3, R1C7 = 4
 - 4-5: R5C3 = 4, R5C4 = 5
 
-The Hard board has four doubles, so the other twelve dominoes each show two different values. Flipping any one domino in the puzzle data's placements breaks a rule on Easy and on Hard. On Medium, only the 1-0 can be flipped without breaking a rule. Wednesday's boards arrive at midnight.
+On Medium, the 1-0 can be flipped without breaking a rule; no domino on Easy or Hard can. Wednesday's boards go live at midnight.
