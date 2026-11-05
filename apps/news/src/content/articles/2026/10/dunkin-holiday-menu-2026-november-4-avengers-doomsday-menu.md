@@ -4,7 +4,7 @@ seoTitle: "Dunkin' Holiday Menu 2026: Nov. 4 Date and Full Menu"
 description: "Dunkin' starts its 2026 holiday season and Avengers: Doomsday menu Wed., Nov. 4, at participating U.S. restaurants. Caribou Coffee starts Mon., Nov. 2."
 type: news
 publishedAt: "2026-10-29T15:52:00-04:00"
-updatedAt: "2026-11-01T04:58:00-05:00"
+updatedAt: "2026-11-05T05:27:00-05:00"
 authors: [jessica-hartwell]
 category: retail-dates
 keywords: ["Dunkin holiday menu 2026", "Dunkin Avengers Doomsday menu", "Dunkin November 4 2026", "when does Dunkin holiday menu come out"]
@@ -82,6 +82,14 @@ sources:
     url: "https://www.cariboucoffee.com/"
     publisher: "Caribou Coffee via PR Newswire"
     date: "2026-10-13"
+  - title: "Dutch Bros® Unwraps Its Most Festive Holiday Lineup Yet"
+    url: "https://www.dutchbros.com/news-events/holiday-drinks-2026"
+    publisher: "Dutch Bros"
+    date: "2026-11-01"
+  - title: "Krispy Kreme Holiday Donuts 2026 | New & Limited Time"
+    url: "https://www.krispykreme.com/promos/holiday"
+    publisher: "Krispy Kreme"
+    date: "2026-11-05"
   - title: "Dutch Bros Cranks Up the Cheer with 2025 Holiday Menu"
     url: "https://www.dutchbros.com/news-events/holiday-2025-drink-menu/"
     publisher: "Dutch Bros"
@@ -122,17 +130,18 @@ The release headline says Cookie Butter and Toasted White Chocolate return. The 
 
 ## Holiday menu start dates 2026, by chain
 
-Dunkin' starts two days after Caribou Coffee and one day before Starbucks. Other chains had not announced 2026 dates on their newsrooms as of Oct. 29, 2026.
+Dunkin' starts two days after Caribou Coffee and one day before Starbucks. Dutch Bros announced its menu Nov. 1, 2026, and Krispy Kreme lists Nov. 3, 2026. McDonald's, Panera and Tim Hortons had not announced 2026 dates on their newsrooms as of Nov. 5, 2026.
 
 | Chain | 2026 start | Day | Source |
 |---|---|---|---|
 | Caribou Coffee | Nov. 2 | Monday | Caribou Coffee release, Oct. 13, 2026 |
 | Dunkin' | Nov. 4 | Wednesday | Dunkin' releases, Oct. 6 and Oct. 28, 2026 |
 | Starbucks | Nov. 5 | Thursday | Starbucks, see our [Starbucks holiday menu story](/news/starbucks-holiday-menu-2026-red-cup-day-date/) |
-| Dutch Bros | Not yet announced | n/a | 2025 menu started Nov. 1, 2025 |
-| McDonald's, Krispy Kreme, Panera, Tim Hortons | Not yet announced | n/a | Newsrooms checked Oct. 29, 2026 |
+| Krispy Kreme | Nov. 3 to Jan. 4, 2027 | Tuesday to Monday | Krispy Kreme holiday donuts page, checked Nov. 5, 2026 |
+| Dutch Bros | Announced Nov. 1, 2026, available now | n/a | Dutch Bros release, Nov. 1, 2026 |
+| McDonald's, Panera, Tim Hortons | Not yet announced | n/a | Newsrooms checked Nov. 5, 2026 |
 
-Dutch Bros' 2025 holiday menu started Nov. 1, 2025, according to its newsroom. That is last year's date, not a 2026 one.
+Krispy Kreme says its holiday donuts are "available November 3, 2026 through January 4, 2027 at participating shops." Dutch Bros says its holiday drinks, Merry Magic, Sprinkle Cookie, Hazelnut Truffle and Candy Cane, plus a Holiday Sugar Cookie Cake Pop, "are available now at all 1,225+ Dutch Bros locations, while supplies last," in a release dated Nov. 1, 2026. The page gives no separate start date. For comparison, Dutch Bros' 2025 holiday menu started Nov. 1, 2025, according to its newsroom.
 
 ## What is on the Dunkin' Avengers: Doomsday menu?
 
@@ -170,4 +179,4 @@ For the rest of the season, see our [Thanksgiving meal deals 2026](/news/thanksg
 
 ## How we keep this accurate
 
-Dates and items come from Dunkin's newsroom releases of Oct. 6 and Oct. 28, 2026, checked on Oct. 29, 2026, and from Caribou Coffee's Oct. 13, 2026 release. If Dunkin' publishes its holiday drink list or the November surprises, this story, the table and the printable will change together.
+Dates and items come from Dunkin's newsroom releases of Oct. 6 and Oct. 28, 2026, checked on Oct. 29, 2026, and from Caribou Coffee's Oct. 13, 2026 release. Dutch Bros and Krispy Kreme rows were checked on their official pages on Nov. 5, 2026. If Dunkin' publishes its holiday drink list or the November surprises, this story, the table and the printable will change together.
