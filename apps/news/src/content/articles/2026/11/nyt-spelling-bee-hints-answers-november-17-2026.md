@@ -3,8 +3,7 @@ title: "NYT Spelling Bee Hints and Answers for Tuesday, Nov. 17, 2026: 47 Words,
 seoTitle: "Spelling Bee Hints & Answers Today, Nov. 17, 2026"
 description: "Tuesday's Spelling Bee from The New York Times (NYT) for Nov. 17, 2026: center O, 47 words, 183 points, Genius at 128, a length table and a pangram clue."
 type: explainer
-publishedAt: "2026-11-05T05:33:08-05:00"
-updatedAt: "2026-11-05T05:33:08-05:00"
+publishedAt: "2026-11-16T00:05:00-05:00"
 authors: [news-desk]
 category: puzzles
 keywords: ["Spelling Bee hints today", "Spelling Bee answers today", "NYT Spelling Bee November 17 2026", "Spelling Bee pangram today", "Spelling Bee hint grid"]
