@@ -4,6 +4,7 @@ seoTitle: "Strands #977 Hints and Answers, Nov. 5, 2026"
 description: "Strands #977, Thursday, Nov. 5, 2026: clue \"Handle with care.\" Hints for the spangram and six theme words, a map of the spangram's route, and answers last."
 type: explainer
 publishedAt: "2026-11-04T00:05:00-05:00"
+updatedAt: "2026-11-05T00:51:00-05:00"
 authors: [news-desk]
 category: puzzles
 keywords: ["Strands hints today", "NYT Strands November 5 2026", "Strands 977", "Strands spangram today", "Strands answers today"]

@@ -4,6 +4,7 @@ seoTitle: "Strands Hints, Nov. 6, 2026 (#978) and Answers"
 description: "Stuck on Strands #978 (Friday, Nov. 6, 2026, clue \"Autumn walk in the woods\")? Hints for the spangram and theme words, a board map, and answers at the end."
 type: explainer
 publishedAt: "2026-11-05T00:05:00-05:00"
+updatedAt: "2026-11-05T00:51:00-05:00"
 authors: [news-desk]
 category: puzzles
 keywords: ["Strands hints today", "NYT Strands November 6 2026", "Strands 978", "Strands spangram today", "Strands answers today"]

@@ -4,6 +4,7 @@ seoTitle: "Wordle #1966 Hints, Friday Nov. 6, 2026 and Answer"
 description: "Wordle #1966 for Friday, Nov. 6, 2026: a ladder of hints about letters, meaning and sound, with the answer kept in a spoiler section after the clues."
 type: explainer
 publishedAt: "2026-11-05T00:05:00-05:00"
+updatedAt: "2026-11-05T00:51:00-05:00"
 authors: [news-desk]
 category: puzzles
 keywords: ["Wordle hint today", "Wordle 1966", "Wordle answer November 6 2026", "Wordle today", "Wordle clues"]

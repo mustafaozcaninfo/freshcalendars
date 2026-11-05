@@ -216,8 +216,17 @@ try {
   puzzleLines.push(model.length || similar.length
     ? `- ${model.length + similar.length} page(s) from ${lib.SIMILAR_SINCE} on fail the new model (listed under "Needs a person").`
     : `- Every page from ${lib.SIMILAR_SINCE} on is in the new model (no rules section, hub rules linked, under ${lib.SIMILAR_MAX} shared with the last three days).`);
+  // Same-day games (Waffle, Quordle and the like) are written from 7:17 a.m. ET; by 3 p.m. ET every
+  // routine of the day has run, so a game active this week with no page for today has stalled.
+  const weekAgo = new Date(NOW - 7 * 24 * H).toLocaleDateString("en-CA", { timeZone: "America/New_York" });
+  const etHour = Number(new Date(NOW).toLocaleString("en-US", { timeZone: "America/New_York", hour: "numeric", hourCycle: "h23" }));
   puzzleLines.push("", "| Game | Pages from today | Last date written |", "|---|---|---|");
-  for (const g of lib.queueAhead(src, today)) if (g.last >= today) puzzleLines.push(`| ${g.game} | ${g.ahead} | ${g.last} |`);
+  for (const g of lib.queueAhead(src, today)) {
+    if (g.last < weekAgo) continue;
+    const behind = g.last < today;
+    puzzleLines.push(`| ${g.game} | ${g.ahead} | ${g.last}${behind ? " (no page for today yet)" : ""} |`);
+    if (behind && etHour >= 15) attention.push(`Puzzle queue: ${g.game} has no page for ${today} (last ${g.last}); check routine A or B`);
+  }
 } catch (e) {
   puzzleLines.push(`- Could not check the puzzle pages: ${e.message.split("\n")[0]}`);
 }

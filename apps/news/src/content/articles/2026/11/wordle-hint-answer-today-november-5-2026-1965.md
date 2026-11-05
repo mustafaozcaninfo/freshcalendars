@@ -4,6 +4,7 @@ seoTitle: "Wordle #1965 Hints for Nov. 5, 2026 and the Answer"
 description: "Hints for Wordle #1965 on Thursday, Nov. 5, 2026, starting with the vowel count and ending with a fill-in-the-blank, plus a spoiler-marked answer at the bottom."
 type: explainer
 publishedAt: "2026-11-04T00:05:00-05:00"
+updatedAt: "2026-11-05T00:51:00-05:00"
 authors: [news-desk]
 category: puzzles
 keywords: ["Wordle hint today", "Wordle 1965", "Wordle answer November 5 2026", "Wordle today", "Wordle clues"]
