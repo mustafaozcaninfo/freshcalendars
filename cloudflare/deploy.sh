@@ -156,6 +156,12 @@ deploy() {
     # Printables keep their URL: sync (changed ones replaced, removed ones deleted, as rsync --delete did).
     "${RCLONE[@]}" sync dist/news/downloads "$CDN_BUCKET/news/downloads" --checksum
   fi
+  # cdn.freshcalendars.com serves the same printables without their canonical: keep crawlers on
+  # freshcalendars.com/news/downloads/ (the Worker adds Link rel=canonical there). Images stay open.
+  if [[ "${DRY_RUN:-0}" != "1" ]]; then
+    printf 'User-agent: *\nDisallow: /news/downloads/\nAllow: /\n' |
+      "${RCLONE[@]}" rcat "$CDN_BUCKET/robots.txt" --header-upload "Content-Type: text/plain; charset=utf-8" --header-upload "Cache-Control: public, max-age=3600"
+  fi
   node cloudflare/assemble.mjs
   if [[ "${DRY_RUN:-0}" == "1" ]]; then
     pnpm exec wrangler deploy --dry-run --outdir dist/cf/worker
