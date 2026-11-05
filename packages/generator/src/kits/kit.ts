@@ -104,7 +104,7 @@ export function needQuote(pr: Problems, where: string, quote: unknown, ctx: KitC
   if (Array.isArray(quote)) quote = quote.every(str) && quote.length ? quote.join(" | ") : "";
   if (quote === undefined) { if (quotesRequired(ctx)) pr.add(`${where}: add quote, the source's own words for this fact (required from ${QUOTE_SINCE})`); return; }
   if (!str(quote) || quote.length < 6) { pr.add(`${where}: quote must be the source's own words`); return; }
-  const have = factTokens(quote, { story: true, iso: true, slash: true }) as Set<string>;
+  const have = factTokens(quote, { story: true, iso: true }) as Set<string>;
   for (const d of want.days ?? []) {
     const k = `d:${d.getUTCMonth() + 1}-${d.getUTCDate()}`;
     if (!have.has(k)) pr.add(`${where}: the quote does not say ${MON[d.getUTCMonth()]} ${d.getUTCDate()} ("${quote.slice(0, 60)}"); check the date against the source`);

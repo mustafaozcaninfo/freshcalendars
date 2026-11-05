@@ -58,6 +58,9 @@ sources:
     url: "https://www.nisd.net/sites/default/files/attachments/file/2025/2026-2027-nisd-calendar.pdf"
     publisher: "Northside Independent School District"
     date: "2025-12-09"
+  - title: "2026-27 Instructional Calendar"
+    url: "https://d16k74nzx9emoe.cloudfront.net/efa34186-6c3c-4ed8-8ad2-08adbb44c45b/2026-27%20Instructional%20Calendar.pdf"
+    publisher: "North East Independent School District"
 internalLinks:
   - href: "/printable-school-calendar.html"
     label: "Printable school-year calendar 2026-27"
@@ -66,55 +69,17 @@ internalLinks:
   - href: "/march-calendars.html"
     label: "March 2027 printable calendar"
 related: [northside-isd-calendar-2026-27-breaks, austin-isd-calendar-2026-27-holidays-breaks, houston-isd-calendar-2026-27-holidays-breaks]
-downloads:
-  - group: "North East ISD Calendar 2026-27 printables"
-    title: "North East ISD Calendar 2026-27"
-    description: "North East Independent School District 2026-27 breaks, holidays, first day and last day for traditional campuses on one printable page."
-    preview: ../../../../assets/news/north-east-isd-2026-27/north-east-isd-calendar-2026-27.png
-    alt: "North East Independent School District 2026-27 printable school-year calendar for traditional campuses with breaks, holidays and the first and last day"
-    pdf: "/news/downloads/north-east-isd-2026-27/north-east-isd-calendar-2026-27.pdf"
-    png: "/news/downloads/north-east-isd-2026-27/north-east-isd-calendar-2026-27.png"
-    pages: 1
 draft: false
 assets:
   overlay: true
   kicker: "North East ISD · 2026-27"
   date: "2026-11-23"
   card: { top: "Thanksgiving break", big: "Nov. 23-27", bottom: "Spring break March 8-12, 2027" }
-  printable:
-    kit: school-year
-    slug: north-east-isd-calendar-2026-27
-    group: north-east-isd-2026-27
-    title: "North East ISD Calendar 2026-27"
-    subtitle: "Breaks, holidays, first and last day, traditional campuses only, San Antonio"
-    note: "Source: North East Independent School District, Calendars page (neisd.net), traditional campuses; Castle Hills Elementary and Academy of Creative Education have separate dates."
-    description: "North East Independent School District 2026-27 breaks, holidays, first day and last day for traditional campuses on one printable page."
-    alt: "North East Independent School District 2026-27 printable school-year calendar for traditional campuses with breaks, holidays and the first and last day"
-    data:
-      start: "2026-08"
-      months: 10
-      events:
-        - { from: "2026-08-17", kind: first, label: "First day, traditional campuses", src: 1, quote: "First Day of Classes for Traditional Campuses : 8/17/2026" }
-        - { from: "2026-09-07", kind: holiday, label: "Labor Day", src: 1, quote: "Labor Day: 9/7/2026" }
-        - { from: "2026-10-09", kind: holiday, label: "Student holiday", src: 1, quote: "Student Holiday: 10/9/2026" }
-        - { from: "2026-10-12", kind: holiday, label: "Columbus/Indigenous Peoples’ Day", src: 1, quote: "Columbus/Indigenous Peoples’ Day: 10/12/2026" }
-        - { from: "2026-11-03", kind: holiday, label: "Election Day", src: 1, quote: "Election Day: 11/3/2026" }
-        - { from: "2026-11-23", to: "2026-11-27", kind: break, label: "Thanksgiving Break", src: 1, quote: "Thanksgiving-Break: 11/23-27/2026" }
-        - { from: "2026-12-21", to: "2027-01-04", kind: break, label: "Winter Break", src: 1, quote: "Winter Break: 12/21/2026-1/4/2027" }
-        - { from: "2027-01-18", kind: holiday, label: "Martin Luther King Jr. Day", src: 1, quote: "Martin Luther King Jr. Day: 1/18/2027" }
-        - { from: "2027-02-15", kind: holiday, label: "Presidents’ Day", src: 1, quote: "Presidents’ Day: 2/15/2027" }
-        - { from: "2027-03-08", to: "2027-03-12", kind: break, label: "Spring Break", src: 1, quote: "Spring Break: 3/8-12/2027" }
-        - { from: "2027-03-26", kind: holiday, label: "Good Friday", src: 1, quote: "Good Friday: 3/26/2027" }
-        - { from: "2027-04-23", kind: holiday, label: "Battle of Flowers", src: 1, quote: "Battle of Flowers: 4/23/2027" }
-        - { from: "2027-05-27", kind: last, label: "Last day, traditional campuses", src: 1, quote: "Last Day of Classes for Traditional Campuses : 5/27/2027" }
-      unconfirmed:
-        - { label: "Return day after winter break", why: "The district prints the break as 12/21/2026-1/4/2027 and no return day" }
-        - { label: "Board approval date of the calendar", why: "The district page does not give one" }
 ---
 
 **North East Independent School District (NEISD) in San Antonio, Texas, lists Thanksgiving break for Nov. 23-27, 2026, winter break as "12/21/2026-1/4/2027" and spring break for March 8-12, 2027**, on its "Calendars" page. Traditional campuses started Aug. 17 and the last day of classes is Thursday, May 27, 2027.
 
-The page says "Academic Calendars are Subject to Change." It gives no board approval date, so every date here is as posted by the district on Nov. 5, 2026. This story adds what the page does not: weekdays off by month, school days between breaks, the three NEISD calendars side by side, early release dates from a second district page, and a comparison with Northside Independent School District (NISD). A printable for traditional campuses is at the bottom.
+The page says "Academic Calendars are Subject to Change." It gives no board approval date, so every date here is as posted by the district on Nov. 5, 2026. This story adds what the page does not: weekdays off by month, school days between breaks, the three NEISD calendars side by side, early release dates from a second district page, and a comparison with Northside Independent School District (NISD).
 
 ## NEISD breaks at a glance
 
@@ -226,7 +191,7 @@ The Dec. 17 and 18 dates sit just before winter break for high schools. The page
 
 ## NEISD vs Northside ISD: how do the two calendars compare?
 
-The two largest districts in north San Antonio share Thanksgiving and spring break weeks. Northside's dates come from its own "2026-27 key dates" list and its approved calendar.
+Both San Antonio districts list the same Thanksgiving and spring break weeks. Northside's dates come from its own "2026-27 key dates" list and its approved calendar.
 
 | | NEISD (traditional) | Northside ISD |
 |---|---|---|
@@ -243,6 +208,6 @@ NISD has one more day off in October and one more after spring break, and starts
 
 The district says it gives campuses two calendar options for review. Campuses vote, the option with the most votes goes to the school board, and once the district calendar is approved the other NEISD calendars are presented for approval. Families can apply for School Choice to attend a campus outside their area, and graduation dates are on a separate page the district links.
 
-## Print the NEISD school-year calendar
+## Where to print the NEISD dates
 
-The printable covers traditional campuses only, with the first and last day, breaks and holidays on a 10-month sheet. Castle Hills Elementary and the Academy of Creative Education have separate dates, as the table above shows. Our [printable school-year calendar](/printable-school-calendar.html) has a blank layout.
+The district links a 2026-27 Instructional Calendar PDF for traditional campuses from its calendars page, with separate PDFs for Castle Hills Elementary and the Academy of Creative Education. To write the dates in yourself, our [printable school-year calendar](/printable-school-calendar.html) has a blank August-to-May layout.

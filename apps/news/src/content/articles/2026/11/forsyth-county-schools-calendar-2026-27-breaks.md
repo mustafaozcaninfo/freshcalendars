@@ -12,7 +12,7 @@ hero:
   src: ../../../../assets/news/forsyth-county-schools-calendar-2026-27-breaks/forsyth-county-schools-calendar-2026-27-breaks.webp
   alt: "The Forsyth County courthouse in Cumming, Georgia, for the Forsyth County Schools calendar 2026-27"
   caption: "File photo (April 2015) of the Forsyth County courthouse in Cumming, Ga. The district lists spring break as Monday through Friday, April 5-9, 2027."
-  credit: "Photo: Thomson200 / Wikimedia Commons, cropped"
+  credit: "Photo: Thomson200 / Wikimedia Commons, cropped, edited"
   license:
     name: "CC0 1.0"
     url: "http://creativecommons.org/publicdomain/zero/1.0/deed.en"
@@ -21,7 +21,7 @@ hero:
     authorUrl: "https://commons.wikimedia.org/wiki/User:Thomson200"
 summary:
   - "Forsyth County Schools (FCS) in Cumming, Georgia, lists Thanksgiving break for Monday through Friday, Nov. 23-27, 2026, and a holiday break for Dec. 21-31, with New Year's Day on Friday, Jan. 1, 2027."
-  - "Spring break is Monday through Friday, April 5-9, 2027. The last day of school is Thursday, May 27, 2027, an early-release day for all grades."
+  - "Spring break is Monday through Friday, April 5-9, 2027. The last day of school is Thursday, May 27, 2027, an early-release day for all grades. Martin Luther King Jr. (MLK) Day, Monday, Jan. 18, is a student and staff holiday."
   - "The February break is Friday, Feb. 12 through Monday, Feb. 15, and Tuesday, Feb. 16 is a professional development day, so students are out five days in a row."
   - "Counting the district's holiday dates, students have 33 weekdays off between Aug. 6, 2026 and the last day; the district counts 178 student days."
 faq:
@@ -61,6 +61,15 @@ internalLinks:
   - href: "/april-calendars.html"
     label: "April 2027 printable calendar"
 related: [gwinnett-county-schools-calendar-2026-27-breaks, fulton-county-schools-calendar-2026-27-breaks, cobb-county-school-calendar-2026-27-breaks-holidays]
+downloads:
+  - group: "Forsyth County Schools Calendar 2026-27 printables"
+    title: "Forsyth County Schools Calendar 2026-27"
+    description: "Forsyth County Schools 2026-27 breaks, holidays, professional development student holidays, online learning days, first day and last day."
+    preview: ../../../../assets/news/forsyth-county-schools-2026-27/forsyth-county-schools-calendar-2026-27.png
+    alt: "Forsyth County Schools 2026-27 printable school-year calendar with breaks, holidays, online learning days and the first and last day"
+    pdf: "/news/downloads/forsyth-county-schools-2026-27/forsyth-county-schools-calendar-2026-27.pdf"
+    png: "/news/downloads/forsyth-county-schools-2026-27/forsyth-county-schools-calendar-2026-27.png"
+    pages: 2
 draft: false
 assets:
   overlay: true
@@ -143,14 +152,14 @@ The district lists "February 12–15: Student/Staff Holiday" and "February 16: P
 | Mon., Dec. 21, 2026 to Thu., Dec. 31, 2026 | Holiday Break, Student/Staff Holiday |
 | Fri., Jan. 1, 2027 | New Year's Day, Student/Staff Holiday |
 | Mon., Jan. 4, 2027 | Professional Development (Student Holiday) |
-| Mon., Jan. 18, 2027 | MLK Day, Student/Staff Holiday |
+| Mon., Jan. 18, 2027 | Martin Luther King Jr. (MLK) Day, Student/Staff Holiday |
 | Fri., Feb. 12 to Mon., Feb. 15, 2027 | Student/Staff Holiday |
 | Tue., Feb. 16, 2027 | Professional Development (Student Holiday) |
 | Mon., March 15, 2027 | Professional Development (Student Holiday) |
 | Mon.-Fri., April 5-9, 2027 | Spring Break, Student/Staff Holidays |
 | Thu., May 27, 2027 | All Grades (K-12) Early Release; last day of school |
 
-Martin Luther King Jr. (MLK) Day is Monday, Jan. 18, 2027. Tuesday, Nov. 3, 2026 (Election Day) is not listed as a day off, and neither is Memorial Day, which falls on Monday, May 31, 2027, after the last day of school. The November student-day count supports the Nov. 3 reading: the district counts 16 student days in November 2026, which is that month's 21 weekdays minus the five Thanksgiving weekdays (our arithmetic).
+Tuesday, Nov. 3, 2026 (Election Day) is not listed as a day off, and neither is Memorial Day, which falls on Monday, May 31, 2027, after the last day of school. The November student-day count supports the Nov. 3 reading: the district counts 16 student days in November 2026, which is that month's 21 weekdays minus the five Thanksgiving weekdays (our arithmetic).
 
 ## Which Forsyth County online learning days are not days off?
 
@@ -221,7 +230,7 @@ Both districts are off for Thanksgiving, winter break, February and spring break
 
 ## When does the Forsyth County 2027-28 calendar start and end?
 
-The district's 2027-28 page lists the first day of school as August 5, 2027 and the last day as May 25, 2028, with 178 student days and 190 staff days. It lists "December 20–31: Holiday Break – Student/Staff Holiday" and "February 18–21: Student/Staff Holiday." By our calculation, Dec. 20, 2027 is a Monday and Feb. 18-21, 2028 runs Friday through Monday. The district's calendar hub also shows a "2028-29 DRAFT Student Calendar" open for feedback, which we have not used for dates.
+The district's 2027-28 page lists the first day of school as August 5, 2027 and the last day as May 25, 2028, with 178 student days and 190 staff days. It lists "December 20–31: Holiday Break – Student/Staff Holiday" and "February 18–21: Student/Staff Holiday." By our calculation, Dec. 20, 2027 is a Monday and Feb. 18-21, 2028 runs Friday through Monday. The district's calendar hub also lists a draft 2028-29 student calendar open for feedback, which we have not used for dates.
 
 ## Print the Forsyth County school-year calendar
 
