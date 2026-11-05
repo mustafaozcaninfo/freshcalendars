@@ -1,10 +1,10 @@
 ---
-title: "Is Election Day a Holiday? Is the DMV, Bank or Post Office Open on Nov. 3, 2026? What's Open and Closed"
-seoTitle: "Is the DMV, Bank or Post Office Open on Election Day 2026?"
-description: "Election Day, Nov. 3, 2026, is not a federal holiday; banks are open. Which states list it for state workers, motor vehicle offices (DMV) and schools."
+title: "Is Election Day a Holiday? Is the DMV, Bank or Post Office Open?"
+seoTitle: "Is Election Day a Holiday? DMV, Bank, Post Office Hours"
+description: "Election Day is not a federal holiday, so banks and the post office stay open. Which states close offices for state workers, plus time off to vote and schools."
 type: explainer
 publishedAt: "2026-10-20T10:50:00-04:00"
-updatedAt: "2026-11-01T20:43:00-05:00"
+updatedAt: "2026-11-05T03:22:58-05:00"
 authors: [christina-gerland]
 category: holidays
 keywords: ["is election day a holiday", "is the DMV open on election day", "are banks open on election day", "is the post office open on election day", "election day 2026 school closed"]
@@ -13,9 +13,9 @@ hero:
   src: ../../../../assets/news/is-election-day-a-holiday-2026-whats-open/is-election-day-a-holiday-2026-whats-open.jpg
   alt: "Is Election Day a holiday: an open sign reading banks and post offices beside a calendar page for Tuesday, Nov. 3"
   title: "Election Day, Nov. 3, 2026: what's open"
-  caption: "Election Day, Tuesday, Nov. 3, 2026, is not a federal holiday; banks, post offices and the stock market are open, while some states close their offices."
+  caption: "Election Day is not a federal holiday; on Nov. 3, 2026, banks, post offices and the stock market were open, while some states closed their offices."
 summary:
-  - "Election Day, Tuesday, Nov. 3, 2026, is not on the Office of Personnel Management (OPM) federal holiday list, so federal offices, the Federal Reserve and the New York Stock Exchange (NYSE) keep regular schedules."
+  - "Election Day is not a federal holiday: Nov. 3, 2026, was not on the Office of Personnel Management (OPM) federal holiday list, so federal offices, the Federal Reserve and the New York Stock Exchange (NYSE) kept regular schedules."
   - "Delaware, Illinois, Indiana, Louisiana, Maryland and New Jersey list Election Day as a 2026 state employee holiday on their official pages; New York lists it as a floating holiday for certain bargaining units."
   - "School districts decide for themselves: New York City Public Schools are in session remotely for all students on Nov. 3."
   - "Many states require employers to give workers time to vote, including California and New York, which guarantee up to two hours of paid time."
@@ -100,6 +100,10 @@ sources:
     url: "https://www.schools.nyc.gov/calendar/2026-2027-school-year-calendar"
     publisher: "New York City Public Schools"
     date: "2026-11-02"
+  - title: "Elections Calendar"
+    url: "https://www.sos.mn.gov/election-administration-campaigns/elections-calendar/"
+    publisher: "Minnesota Secretary of State"
+    date: "2026-11-05"
 internalLinks:
   - href: "/holidays/"
     label: "2026 US holiday list"
@@ -150,25 +154,23 @@ downloads:
 draft: false
 ---
 
-**Election Day, Tuesday, Nov. 3, 2026, is not a federal holiday.** It is not on the Office of Personnel Management (OPM) list of 2026 federal holidays, which has Veterans Day on Nov. 11 and Thanksgiving on Nov. 26, so federal offices, the Federal Reserve and the New York Stock Exchange (NYSE) keep regular schedules. What changes depends on where you live: Delaware, Illinois, Indiana, Louisiana, Maryland and New Jersey list the day as a state employee holiday, about half the states require employers to give time off to vote, and school districts set their own calendars. Polls are open in every state; hours differ by state.
+**Election Day is not a federal holiday.** The 2026 general election was held Tuesday, Nov. 3, and that date was not on the Office of Personnel Management (OPM) list of 2026 federal holidays, which has Veterans Day on Nov. 11 and Thanksgiving on Nov. 26, so federal offices, the Federal Reserve and the New York Stock Exchange (NYSE) kept regular schedules; banks and the post office stayed open. What changes is set by where you live: Delaware, Illinois, Indiana, Louisiana, Maryland and New Jersey list Election Day as a state employee holiday, about half the states require employers to give time off to vote, and school districts set their own calendars. The next federal general election is Tuesday, Nov. 7, 2028.
 
-## What's open and closed on Nov. 3
+## What was open on Election Day, Nov. 3
 
-| | Status on Tuesday, Nov. 3, 2026 | Source |
+Because Election Day is not a federal holiday, the schedule that held on Tuesday, Nov. 3, 2026, is the same one that applies whenever Election Day falls on a regular workday:
+
+| | Status on Election Day, Nov. 3, 2026 | Source |
 |---|---|---|
-| Federal offices | Regular schedule; not on the federal holiday list | OPM |
-| U.S. Postal Service (USPS) | Not a federal holiday, and USPS holidays are the federal holidays | OPM |
-| Federal Reserve Banks | Open; Nov. 3 is not on the Federal Reserve's 2026 holiday list | Federal Reserve Board, K.8 |
-| Banks and credit unions | Most banks follow the Federal Reserve holiday schedule; check your branch | Federal Reserve Board, K.8 |
-| Stock market | Regular hours, 9:30 a.m. to 4 p.m. Eastern Time (ET); Nov. 3 is not on the NYSE holiday list | NYSE |
-| Bond market | No U.S. entry for Nov. 3 in the Securities Industry and Financial Markets Association (SIFMA) holiday schedule | SIFMA |
-| State offices | Closed in states that list it as a holiday (table below) | State HR pages |
-| New York City public schools | In session remotely for all students | NYC Public Schools |
-| Other public schools | Varies by district | Your district |
+| Federal offices, post office | Open; Nov. 3 was not on the federal holiday list, and U.S. Postal Service (USPS) holidays are the federal holidays | OPM |
+| Banks and the Federal Reserve | Open; Nov. 3 was not on the Federal Reserve's 2026 holiday list | Federal Reserve Board, K.8 |
+| Stock and bond markets | Regular hours, 9:30 a.m. to 4 p.m. Eastern Time (ET); Nov. 3 was not on the New York Stock Exchange (NYSE) or Securities Industry and Financial Markets Association (SIFMA) holiday schedule | NYSE; SIFMA |
+| State offices | Closed in the states that list Election Day as a holiday (table below) | State HR pages |
+| Public schools | Varied by district; New York City public schools held remote classes for all students | NYC Public Schools |
 
-The next federal holiday is [Veterans Day, Wednesday, Nov. 11](/news/veterans-day-2026-wednesday-november-11/), when federal offices and many banks close; see also [when Veterans Day falls](/when-is/veterans-day/). The USPS does not publish a separate list for Nov. 3 that we could check, so confirm local post office hours with your branch.
+The next federal holiday is [Veterans Day, Wednesday, Nov. 11](/news/veterans-day-2026-wednesday-november-11/), when federal offices and many banks close; see also [when Veterans Day falls](/when-is/veterans-day/).
 
-## Is the DMV open on Election Day?
+## Is the Department of Motor Vehicles (DMV) open on Election Day?
 
 A motor vehicle office is a state office, so whether it closes follows your state's rules. In the states below, where Election Day is a state holiday, state government offices close. Check your state motor vehicle agency's page for its own hours.
 
@@ -201,16 +203,26 @@ Check your district's calendar or our [printable school-year calendar](/printabl
 
 ## Time off to vote
 
-There is no federal law guaranteeing time off to vote, but about half the states require employers to allow it. If you need a ride, Lyft's VOTE26 code and free transit in Los Angeles, Cincinnati, Hampton Roads and Dallas are in our [free rides to the polls guide](/news/free-rides-to-the-polls-2026-lyft-uber-transit/). Three of the largest states:
+There is no federal law guaranteeing time off to vote, but about half the states require employers to allow it. Ride codes and free transit for getting to the polls are covered in our [free rides to the polls guide](/news/free-rides-to-the-polls-2026-lyft-uber-transit/). Three of the largest states:
 
 - **California:** up to two hours of paid time at the start or end of a shift if you cannot otherwise get to the polls; you generally must tell your employer at least two working days ahead (Elections Code 14000).
 - **New York:** up to two hours of paid time if you do not have four consecutive hours to vote outside your working hours; notice is due two to 10 working days before Election Day (Election Law 3-110).
 - **Illinois:** up to two hours with advance notice.
 
-Early voting and mail voting make the issue less pressing, since 47 states offer some form of in-person voting before Election Day. If you plan to vote on Nov. 3, check [what time polls close](/news/what-time-do-polls-close-election-day-2026/) in your state, see [when results are expected](/news/when-will-we-know-election-results-2026-midterms/), and look up [your sample ballot by ZIP code](/news/sample-ballot-by-zip-code-2026-texas-ballot/) so you know every race before you go.
+Early voting and mail voting make the issue less pressing, since 47 states offer some form of in-person voting before Election Day. Before you vote, check [what time polls close](/news/what-time-do-polls-close-election-day-2026/) in your state, see [when results are expected](/news/when-will-we-know-election-results-2026-midterms/), and look up [your sample ballot by ZIP code](/news/sample-ballot-by-zip-code-2026-texas-ballot/) so you know every race before you go.
+
+## The next elections
+
+The 2026 general election was held Tuesday, Nov. 3. The next regularly scheduled federal general election is Tuesday, Nov. 7, 2028, which is the Tuesday after the first Monday in November, the date set by federal law; the Minnesota Secretary of State's elections calendar lists it as the 2028 general election. Before any election, confirm these from an official source:
+
+- **Your registration and polling place.** Both can change between elections, so use your state or local election office's lookup.
+- **The dates that matter.** Your state's voter registration deadline, early voting window and mail ballot deadlines.
+- **What is on your ballot.** The federal, state and local races and any ballot measures.
+
+Some states and districts also hold special or runoff elections between general elections; check your state election office for those dates.
 
 ## Why it isn't a federal holiday
 
 Congress set the Tuesday after the first Monday in November as Election Day in 1845, a choice tied to a farming calendar and travel by horse. Bills to make Election Day a federal holiday have been introduced in Congress repeatedly, and none has passed. The day remains a regular workday on the federal calendar; see our [2026 US holiday list](/holidays/) for the days that are.
 
-Mark Nov. 3 and your voting plan on our [November 2026 printable calendar](/november-calendars.html).
+Plan your next voting day on our [November 2026 printable calendar](/november-calendars.html).

@@ -108,4 +108,3 @@ New Year's Day, Friday, Jan. 1, 2027, is the next federal holiday after Christma
 ## Plan the week
 
 Put Dec. 24 and Dec. 25 on a [December 2026 printable calendar](/december-calendars.html), and see the date in other years on [when is Christmas Day](/when-is/christmas-day/) or the full [holidays calendar](/holidays/). For market closings through next year, see our [2027 stock market holidays](/news/stock-market-holidays-2027-nyse-closed-dates/) list, and for store and bank hours, the [Christmas Eve and Christmas Day 2026 store hours](/news/christmas-eve-christmas-day-2026-store-hours/).
-</content>

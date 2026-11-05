@@ -4,6 +4,7 @@ seoTitle: "Penguins Schedule November 2026: Times and TV"
 description: "The Pittsburgh Penguins play 13 games in November 2026, starting Tue., Nov. 3 at 7 p.m. Eastern Time (ET) vs. Vegas, per the National Hockey League schedule."
 type: news
 publishedAt: "2026-11-02T11:22:00-05:00"
+updatedAt: "2026-11-05T03:23:00-05:00"
 authors: [jessica-hartwell]
 category: sports
 keywords: ["Pittsburgh Penguins schedule November 2026", "Penguins game tonight", "Penguins TV schedule", "Penguins Maple Leafs November 28 2026", "Penguins printable schedule"]
@@ -147,4 +148,4 @@ For other teams' months, see our [Rangers November 2026 schedule](/news/rangers-
 
 Yes. It is free. The one-page sheet lists all 13 games with the opponent, home or away, ET start time and TV, and it has an ink-saver version. Keep it next to the [November 2026 printable calendar](/november-calendars.html) or copy the games into a [printable weekly calendar](/printable-weekly-calendar.html).
 
-Recheck the NHL schedule before game day. Results, standings, injuries and tickets are not part of this story.
+The Penguins' longest break is four days, between hosting Ottawa on Nov. 14 and St. Louis on Nov. 19. Look up puck drop on NHL.com close to game night.

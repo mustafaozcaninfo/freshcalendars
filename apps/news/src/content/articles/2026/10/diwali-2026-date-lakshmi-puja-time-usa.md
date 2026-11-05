@@ -1,10 +1,10 @@
 ---
-title: "Diwali 2026 in the USA Is Sunday, Nov. 8: Countdown, Lakshmi Puja Times and the Five Days"
-seoTitle: "Diwali 2026 in the USA: Sunday, Nov. 8"
-description: "When is Diwali 2026 in the United States (USA)? Sunday, Nov. 8. See a countdown, Lakshmi Puja times for 28 U.S. cities and the five days of celebration."
+title: "Diwali 2026 in the USA Is Sunday, Nov. 8: Lakshmi Puja Time in Your Time Zone"
+seoTitle: "Diwali 2026 USA: Nov. 8 Date and Lakshmi Puja Time"
+description: "When is Diwali 2026 in the United States (USA)? Sunday, Nov. 8. Find the Lakshmi Puja evening window for your U.S. city and the five days of the festival."
 type: explainer
 publishedAt: "2026-10-19T07:45:00-04:00"
-updatedAt: "2026-10-29T08:30:00-04:00"
+updatedAt: "2026-11-05T03:22:41-05:00"
 authors: [christina-gerland]
 category: holidays
 keywords: ["when is diwali 2026 in usa", "diwali 2026 usa", "Diwali 2026", "Lakshmi Puja time 2026 USA", "Dhanteras 2026"]
@@ -47,6 +47,7 @@ sources:
   - title: "Sun and Moon Data for One Day"
     url: "https://aa.usno.navy.mil/data/RS_OneDay"
     publisher: "U.S. Naval Observatory, Astronomical Applications Department"
+    date: "2026-11-05"
   - title: "California Recognizes Diwali as a Public Holiday"
     url: "https://www.timeanddate.com/news/calendar/california-diwali-state-holiday"
     publisher: "timeanddate.com"
@@ -104,9 +105,22 @@ downloads:
 draft: false
 ---
 
-**Diwali 2026 in the United States (USA) is Sunday, Nov. 8, the same night as in India.** The date shifts each year. Lakshmi Puja, the central prayer of the festival, takes place that evening after sunset, on the Amavasya (new moon) night of the Hindu month of Kartik. The five days of celebration begin with Dhanteras on Friday, Nov. 6 and end with Bhai Dooj on Tuesday, Nov. 10. This year is also the first Diwali that California observes as a state holiday.
+**Diwali 2026 in the United States (USA) is Sunday, Nov. 8, the same night as in India.** Lakshmi Puja, the central prayer of the festival, is done that evening in the Pradosh Kaal window that opens at local sunset, so the exact time depends on your U.S. time zone: it runs about 4:44 to 7:08 p.m. Eastern Time (ET) in New York and 4:54 to 7:18 p.m. Pacific Time (PT) in Los Angeles, with six cities in the table below. The night is the Amavasya (new moon) of the Hindu month of Kartik. The five days of celebration begin with Dhanteras on Friday, Nov. 6 and end with Bhai Dooj on Tuesday, Nov. 10, and this year is the first Diwali that California observes as a state holiday.
 
-<p class="callout"><b>Last updated Oct. 29, 2026, 8:30 a.m. ET.</b> Lakshmi Puja evening windows now cover 28 U.S. cities, up from 12, and a new section shows which schools and offices close around Diwali this year, from the districts' own 2026-27 calendars.</p>
+## Lakshmi Puja time on Diwali 2026 in six U.S. cities
+
+Lakshmi Puja is performed in the Pradosh Kaal window that opens at sunset and runs about 2 hours 24 minutes. Here is that window for six U.S. cities on Sunday, Nov. 8, from U.S. Naval Observatory sunset times. Clocks are on standard time, because they fell back on Nov. 1.
+
+| City | Sunset | Lakshmi Puja (Pradosh Kaal) |
+|---|---|---|
+| New York, NY | 4:44 p.m. EST | 4:44 to 7:08 p.m. EST |
+| Atlanta, GA | 5:39 p.m. EST | 5:39 to 8:03 p.m. EST |
+| Chicago, IL | 4:36 p.m. CST | 4:36 to 7:00 p.m. CST |
+| Houston, TX | 5:30 p.m. CST | 5:30 to 7:54 p.m. CST |
+| San Jose, CA | 5:03 p.m. PST | 5:03 to 7:27 p.m. PST |
+| Los Angeles, CA | 4:54 p.m. PST | 4:54 to 7:18 p.m. PST |
+
+Your temple or family priest may name a shorter muhurat inside this window. The full table of 28 cities, with sunrise, is further down.
 
 ## Countdown to Diwali 2026
 

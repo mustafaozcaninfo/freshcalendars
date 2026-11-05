@@ -4,6 +4,7 @@ seoTitle: "Mavericks Schedule November 2026: Times, TV, Cup"
 description: "The Mavericks host Sacramento on Mon., Nov. 2, 2026, at 7 p.m. Central Time (CT), 8 p.m. Eastern Time (ET), the first of 14 November games."
 type: news
 publishedAt: "2026-11-02T11:21:00-05:00"
+updatedAt: "2026-11-05T03:23:00-05:00"
 authors: [jessica-hartwell]
 category: sports
 keywords: ["Mavericks schedule November 2026", "Mavericks game tonight", "Mavs NBA Cup schedule 2026", "Mavericks printable schedule"]
@@ -136,7 +137,7 @@ The schedule flags three November Mavericks games as Emirates NBA Cup group play
 
 ## Back-to-backs and road trips in the Mavericks' November
 
-Reading the dates in the table shows how the month is built. These are our own counts from the NBA's schedule:
+The Mavericks take two three-game road trips in November, one in the middle of the month and one to close it out. These are our own counts from the NBA's schedule:
 
 - **Back-to-backs:** Sun., Nov. 8 and Mon., Nov. 9 (both at home), Sat., Nov. 14 and Sun., Nov. 15 (both on the road), and Sat., Nov. 21 and Sun., Nov. 22 (home, then at Utah).
 - **A three-game road trip:** the Mavericks play at Minnesota on Nov. 12, at Cleveland on Nov. 14 and at Boston on Nov. 15.
@@ -149,4 +150,4 @@ Seven home games and seven road games make 14 in all, from Nov. 2 to Nov. 30.
 
 Yes. The one-page sheet lists all 14 November games with the opponent, home or away, CT and ET start times, national TV and NBA Cup games, and it has an ink-saver version. Keep it next to the [November 2026 printable calendar](/november-calendars.html) or copy the games into a [printable weekly calendar](/printable-weekly-calendar.html). For an opponent's month, see our [Denver Nuggets schedule for November 2026](/news/denver-nuggets-schedule-november-2026-game-times-tv-mexico-city-printable/). For other teams' months, see our [Cavaliers schedule](/news/cleveland-cavaliers-schedule-november-2026-game-times-tv-nba-cup-printable/) and [Bucks schedule](/news/milwaukee-bucks-schedule-november-2026-game-times-tv-nba-cup-printable/).
 
-Because the NBA's schedule is "subject to change," recheck game times on NBA.com before you head out. Results, injuries and tickets are not part of the NBA's schedule and are not covered here.
+The Mavericks have five weekend games in November: Nov. 8, 14, 15, 21 and 22. NBA.com carries the up-to-date start time for each game.

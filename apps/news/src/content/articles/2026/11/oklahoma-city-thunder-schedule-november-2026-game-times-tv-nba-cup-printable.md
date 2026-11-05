@@ -4,6 +4,7 @@ seoTitle: "Thunder Schedule November 2026: Times, TV, Cup Games"
 description: "The Thunder play at Cleveland on Mon., Nov. 2, 2026, at 6 p.m. Central Time (CT), 7 p.m. Eastern Time (ET), first of 15 November games."
 type: news
 publishedAt: "2026-11-02T11:20:00-05:00"
+updatedAt: "2026-11-05T03:23:00-05:00"
 authors: [jessica-hartwell]
 category: sports
 keywords: ["Thunder schedule November 2026", "Thunder game tonight", "Oklahoma City Thunder NBA Cup schedule 2026", "Thunder printable schedule"]
@@ -138,7 +139,7 @@ The schedule flags four November Thunder games as Emirates NBA Cup group play: a
 
 ## Back-to-backs and road trips in the Thunder's November
 
-Reading the dates in the table shows how the month is built. These are our own counts from the NBA's schedule:
+The Thunder play three back-to-backs in November and just five of their 15 games at home in Oklahoma City. These are our own counts from the NBA's schedule:
 
 - **Back-to-backs:** Fri., Nov. 6 and Sat., Nov. 7 (at Memphis, then home), Tue., Nov. 10 and Wed., Nov. 11 (both at Portland), and Sun., Nov. 22 and Mon., Nov. 23 (at Miami, then at Indiana).
 - **A four-game western road trip:** the Thunder play at Portland on Nov. 10 and 11, at the LA Clippers on Nov. 13 and at Sacramento on Nov. 15 before returning home.
@@ -151,4 +152,4 @@ Five home games and 10 road games make 15 in all, from Nov. 2 to Nov. 30.
 
 Yes. The one-page sheet lists all 15 November games with the opponent, home or away, CT and ET start times and NBA Cup games, and it has an ink-saver version. Keep it next to the [November 2026 printable calendar](/november-calendars.html) or copy the games into a [printable weekly calendar](/printable-weekly-calendar.html). For another team's month, see our [Miami Heat schedule for November 2026](/news/miami-heat-schedule-november-2026-game-times-tv-nba-cup-printable/).
 
-Because the NBA's schedule is "subject to change," recheck game times on NBA.com before you head out. Results, injuries and tickets are not part of the NBA's schedule and are not covered here.
+The Thunder's latest tip-off of the month is 11 p.m. Eastern Time at Portland on Nov. 10. Confirm the tip-off at NBA.com in case the slate shifts.

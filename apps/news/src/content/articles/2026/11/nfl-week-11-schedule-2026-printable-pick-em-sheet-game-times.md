@@ -4,6 +4,7 @@ seoTitle: "NFL Week 11 Schedule 2026: Times and Pick'em Sheet"
 description: "National Football League (NFL) Week 11 runs Nov. 19 to 23, 2026: 13 games, Eastern Time (ET) and Pacific Time (PT) kickoffs, TV channels and a pick'em sheet."
 type: news
 publishedAt: "2026-10-30T13:43:00-04:00"
+updatedAt: "2026-11-05T03:26:00-05:00"
 authors: [jessica-hartwell]
 category: sports
 keywords: ["NFL Week 11 schedule 2026", "NFL Week 11 pick em sheet printable", "NFL schedule November 22 2026", "Vikings 49ers Mexico City time"]
@@ -103,7 +104,7 @@ related: [nfl-week-12-schedule-2026-printable-pick-em-sheet-game-times, printabl
 draft: false
 ---
 
-**The National Football League (NFL) plays 13 Week 11 games from Thursday, Nov. 19 to Monday, Nov. 23, 2026, including Vikings at 49ers in Mexico City at 8:20 p.m. Eastern Time (ET) on Sunday, Nov. 22, according to NFL.com.** Below: every game with its network, the kickoffs in ET and Pacific Time (PT), a time-zone table for the Mexico City game, and a one-page pick'em sheet with a Monday tiebreaker.
+**The National Football League (NFL) plays 13 Week 11 games from Thursday, Nov. 19 to Monday, Nov. 23, 2026, including Vikings at 49ers in Mexico City at 8:20 p.m. Eastern Time (ET) on Sunday, Nov. 22, according to NFL.com.** What follows is every game with its network, the kickoffs in ET and Pacific Time (PT), a full time-zone table for the Mexico City game, and a one-page pick'em sheet rounded off with a Monday tiebreaker.
 
 ## What is the NFL Week 11 schedule for 2026?
 
@@ -160,9 +161,13 @@ Our [NFL international games story](/news/nfl-international-games-november-2026-
 
 Yes, for Sunday. The NFL's flexible scheduling procedures say that for Sunday Night Football, "the NFL will decide and announce no later than 12 days in advance of the game" in Weeks 5 to 13. Counting back from Nov. 22, that is Tuesday, Nov. 10, 2026, by our calculation. The same page says flexing can be used in any week from Week 11 to 17, so Sunday kickoffs and networks may move. Monday flexing starts in Week 12 and Thursday flexing in Week 13, so the Thursday game on Nov. 19 and Monday game on Nov. 23 are not eligible. Check NFL.com before game day.
 
+## Why does NFL Week 11 have only 13 games?
+
+Six teams are on bye in Week 11: the Atlanta Falcons, Cleveland Browns, Green Bay Packers, Los Angeles Rams, New England Patriots and Seattle Seahawks. That leaves 26 of the 32 teams playing, which is why the week lists 13 games rather than a fuller slate.
+
 ## Is there a printable NFL Week 11 pick'em sheet?
 
-Yes. The one-page sheet lists all 13 games in kickoff order with the network, a blank for your pick and a blank for the final score, plus a tiebreaker line for the total points in Monday's Bengals at Commanders game. Pin it beside the [November 2026 printable calendar](/november-calendars.html) or a [printable weekly calendar](/printable-weekly-calendar.html), and fill in your picks before the Thursday kickoff. Week 12 falls in Thanksgiving week; see [when is Thanksgiving](/when-is/thanksgiving/) and our [Thanksgiving football schedule](/news/thanksgiving-football-schedule-2026-nfl-college-games/).
+Yes. The single page walks through all 13 games by start time, puts the network next to each one, and gives you a blank for the pick and the score, then finishes with a tiebreaker on the combined points of Monday's Bengals at Commanders game. Stick it next to the [November 2026 printable calendar](/november-calendars.html) or a [printable weekly calendar](/printable-weekly-calendar.html), and pencil in your picks before Thursday's opener. Week 12 lands in Thanksgiving week; see [when is Thanksgiving](/when-is/thanksgiving/) and our [Thanksgiving football schedule](/news/thanksgiving-football-schedule-2026-nfl-college-games/).
 
 ## Which games are on Sunday, Nov. 22?
 

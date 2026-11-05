@@ -143,5 +143,3 @@ The Knicks close December with a two-game Western swing: at Utah on Wednesday, D
 Yes, there is a printable. The one-page sheet lists all 12 December games with the opponent, home or away, ET start time (plus the local time for games outside the Eastern zone) and national TV, and it has an ink-saver version. Keep it next to the [December 2026 printable calendar](/december-calendars.html) or copy the games into a [printable weekly calendar](/printable-weekly-calendar.html).
 
 Because the NBA's schedule is "subject to change," recheck game times on NBA.com before you head out. Results, injuries and tickets are not part of the NBA's schedule and are not covered here.
-</content>
-</invoke>

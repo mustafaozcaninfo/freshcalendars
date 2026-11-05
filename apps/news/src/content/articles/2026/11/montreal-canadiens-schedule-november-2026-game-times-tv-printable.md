@@ -4,6 +4,7 @@ seoTitle: "Canadiens Schedule November 2026: Times and TV"
 description: "The Canadiens play 14 games in November 2026, starting Tue., Nov. 3, at 7 p.m. Eastern Time (ET) against Winnipeg, per the National Hockey League (NHL)."
 type: news
 publishedAt: "2026-11-02T10:12:00-05:00"
+updatedAt: "2026-11-05T03:23:00-05:00"
 authors: [jessica-hartwell]
 category: sports
 keywords: ["Canadiens schedule November 2026", "Habs game tonight", "Canadiens TV schedule", "Canadiens Maple Leafs November 7 2026", "Canadiens printable schedule"]
@@ -155,6 +156,4 @@ Other NHL dates this season include the [2027 Winter Classic](/news/nhl-winter-c
 
 Yes. It is free. The one-page sheet lists all 14 games with the opponent, home or away, ET start time and Canadian TV, and it has an ink-saver version. Keep it next to the [November 2026 printable calendar](/november-calendars.html) or copy the games into a [printable weekly calendar](/printable-weekly-calendar.html).
 
-Recheck the NHL schedule before game day. Results, standings, injuries and tickets are not part of this story.
-</content>
-</invoke>
+The Canadiens have just one back-to-back all month, at New Jersey on Nov. 18 and at Carolina on Nov. 19. Confirm each start time on NHL.com before you watch.

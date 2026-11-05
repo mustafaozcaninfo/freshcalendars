@@ -4,6 +4,7 @@ seoTitle: "Heat Schedule November 2026: Times, TV, Cup Games"
 description: "The Miami Heat visit the Lakers on Mon., Nov. 2, 2026, at 10 p.m. Eastern Time (ET), first of 13 November games in the National Basketball Association (NBA)."
 type: news
 publishedAt: "2026-11-02T10:12:00-05:00"
+updatedAt: "2026-11-05T03:23:00-05:00"
 authors: [jessica-hartwell]
 category: sports
 keywords: ["Heat schedule November 2026", "Miami Heat game tonight", "Heat NBA Cup schedule 2026", "Heat printable schedule"]
@@ -134,7 +135,7 @@ The schedule flags four Heat games as Emirates NBA Cup group play: against India
 
 ## Road trips and home stand in the Heat's November
 
-Reading the dates in the table shows how the month is built. These are our own counts from the NBA's schedule:
+The Heat's month splits almost in half, a five-game Western road trip to open it and a five-game home stand right after. These are our own counts from the NBA's schedule:
 
 - **Five-game Western road trip:** at the Lakers (Nov. 2), the Clippers (Nov. 4), Golden State (Nov. 5), Sacramento (Nov. 8) and Utah (Nov. 10), the first five games of the month.
 - **Five-game home stand:** Cleveland (Nov. 13), Detroit (Nov. 14), Houston (Nov. 16), Milwaukee (Nov. 18) and Oklahoma City (Nov. 22), all at Kaseya Center.
@@ -145,4 +146,4 @@ Reading the dates in the table shows how the month is built. These are our own c
 
 Yes. The one-page sheet lists all 13 November games with the opponent, home or away, ET start time, national TV and NBA Cup games, and it has an ink-saver version. Keep it next to the [November 2026 printable calendar](/november-calendars.html) or copy the games into a [printable weekly calendar](/printable-weekly-calendar.html). For another team's month, see our [Lakers schedule for November 2026](/news/lakers-schedule-november-2026-game-times-tv-nba-cup-printable/) and [Golden State Warriors schedule for November 2026](/news/golden-state-warriors-schedule-november-2026-game-times-tv-nba-cup-printable/).
 
-Because the NBA's schedule is "subject to change," recheck game times on NBA.com before you head out. Results, injuries and tickets are not part of the NBA's schedule and are not covered here.
+Eight of the Heat's 13 November games are on the road and only five are at Kaseya Center. Check the start time on NBA.com before game night.

@@ -175,4 +175,3 @@ Other Week 16 and Week 17 games are still to be determined (TBD); the NFL says t
 ## Is there a printable MNF schedule?
 
 Yes. The one-page printable lists all 11 dated Monday games with the Week 7 result and the 8:15 p.m. ET kickoff on ESPN, so you can pin it up next to the [October 2026 printable calendar](/october-calendars.html) or the [November 2026 printable calendar](/november-calendars.html). It leaves out games that are still TBD. For the Thanksgiving week games, see our [Thanksgiving football schedule](/news/thanksgiving-football-schedule-2026-nfl-college-games/). If you are also tracking baseball, the [World Series 2026 schedule](/news/world-series-2026-schedule-game-times-tv-channel/) has game times and channels.
-</content>

@@ -1,10 +1,10 @@
 ---
-title: "US-Philippines Time Difference After Nov. 1, 2026: New York Is 13 Hours Behind Manila"
-seoTitle: "US-Philippines Time Difference After Nov. 1, 2026"
-description: "US clocks fell back at 2 a.m. on Nov. 1, 2026, so New York is 13 hours behind Philippine Standard Time (PHT), which does not change. Tables for every US zone."
+title: "US-Philippines Time Difference: New York Is 13 Hours Behind Manila"
+seoTitle: "US-Philippines Time Difference: New York to Manila"
+description: "New York is 13 hours behind Philippine Standard Time (PHT) while US clocks are on standard time, and the Philippines keeps UTC+8 all year. Tables included."
 type: explainer
 publishedAt: "2026-10-30T17:44:00-04:00"
-updatedAt: "2026-11-01T05:45:00-05:00"
+updatedAt: "2026-11-05T03:23:11-05:00"
 authors: [jessica-hartwell]
 category: time-change
 keywords: ["Philippines time difference after daylight saving time ends", "Philippines time vs New York November 2026", "PHT to EST", "what time is it in the Philippines when it is 9 am in California"]
@@ -101,9 +101,9 @@ related: [daylight-saving-time-ends-november-1-2026, us-india-time-difference-af
 draft: false
 ---
 
-US clocks fell back one hour at 2 a.m. local time on **Sunday, Nov. 1, 2026**, and from then New York is 13 hours behind Philippine Standard Time (PHT); until Oct. 31 it was 12 hours behind. The rule comes from the National Institute of Standards and Technology (NIST), and the Philippines does not move its clocks, so the whole change lands on the US side. A one-page [printable US-Philippines time converter](/news/downloads/time-change-2026/us-philippines-time-converter-november-2026.pdf) is on this page for your desk.
+New York is **13 hours behind Philippine Standard Time (PHT)** right now, the gap in place since US clocks fell back one hour to standard time at 2 a.m. local time on Sunday, Nov. 1, 2026; before that it was 12 hours. The Philippines does not move its clocks, so the whole shift lands on the US side, under the rule from the National Institute of Standards and Technology (NIST). A one-page [printable US-Philippines time converter](/news/downloads/time-change-2026/us-philippines-time-converter-november-2026.pdf) is on this page for your desk.
 
-The Philippines' own abbreviation for its standard time is PhST, also written PST. We use PHT here to avoid confusion with Pacific Standard Time. The figures below are our calculation from the Coordinated Universal Time (UTC) offsets.
+The Philippines' own abbreviation for its standard time is PhST, also written PST. We use PHT here to avoid confusion with Pacific Standard Time. All the times below come from our own arithmetic on the Coordinated Universal Time (UTC) offsets.
 
 ## Does the Philippines change its clocks on Nov. 1, 2026?
 
@@ -144,23 +144,35 @@ Going the other way, 8 a.m. PHT is 7 p.m. ET on the evening before and 4 p.m. PT
 
 ## Which hours work for a call with the Philippines?
 
-Taking 9 a.m. to 9 p.m. PHT as the window (our assumption for the guide, not an official rule), these are the US hours inside it from Nov. 1:
+Manila's business week mostly runs Monday to Friday, so we take 9 a.m. to 9 p.m. PHT as the window to reach the Philippines (our assumption for the guide, not an official rule). These are the US hours inside it now:
 
 | US zone | Hours inside the window |
 |---|---|
 | Eastern | 8 p.m. ET to 8 a.m. ET the next morning |
 | Pacific | 5 p.m. PT to 5 a.m. PT the next morning |
 
-Before Nov. 1, the same window ran one hour later on US clocks, so a regular slot now starts an hour earlier for you.
+Through the summer this Manila window sat one hour later on US clocks, so a Pacific or Eastern team's usual slot has moved an hour earlier for the standard-time stretch.
 
-A meeting fixed in Manila time shifts on US clocks. A standing call at 8 p.m. PHT was at 8 a.m. ET until Oct. 31 and is at 7 a.m. ET from Nov. 1. Phones update automatically when the automatic time zone setting is on, but a calendar invite in a fixed US time needs a manual check. For another zone with no clock change, see the [US-India time-difference story](/news/us-india-time-difference-after-november-1-2026-ist-10-5-hours/).
+A meeting pinned to Manila time slides on the US calendar. A standing call at 8 p.m. PHT sat at 8 a.m. ET until Oct. 31 and is at 7 a.m. ET from Nov. 1. A phone in Manila with automatic time zone on keeps up by itself, yet a US-side invite saved to a fixed hour wants a second look. For another zone with no clock change, see the [US-India time-difference story](/news/us-india-time-difference-after-november-1-2026-ist-10-5-hours/).
+
+## A full Manila workday in US clock times
+
+A 9 a.m. to 5 p.m. Manila business day (Monday to Friday, our assumption for the guide, not an official rule) reads off the four main US zones as below. The US times come from the offsets in the first table, and "day before" is the previous US calendar day.
+
+| Manila business day (PHT) | New York (ET) | Chicago (CT) | Denver (MT) | Los Angeles (PT) |
+|---|---|---|---|---|
+| 9 a.m. (start) | 8 p.m., day before | 7 p.m., day before | 6 p.m., day before | 5 p.m., day before |
+| 1 p.m. (midday) | 12 a.m. (midnight) | 11 p.m., day before | 10 p.m., day before | 9 p.m., day before |
+| 5 p.m. (close) | 4 a.m. | 3 a.m. | 2 a.m. | 1 a.m. |
+
+A Manila morning therefore falls on the US evening before, which is why many US-Philippines teams meet near the start or end of one side's day.
 
 ## When does the gap with Manila shrink again?
 
 Under 15 U.S.C. 260a, daylight saving time starts on the second Sunday of March, which is Sunday, March 14, 2027 (our calculation). New York will then be 12 hours behind PHT again. Australia moves its clocks in the other direction, as the [US-Australia time-difference story](/news/us-australia-time-difference-after-daylight-saving-time-ends-november-1-2026/) explains.
 
-## Quick checklist for Nov. 1
+## Philippines call checklist for the standard-time stretch
 
-- Find your US zone in the first table and add the hours to get Manila time.
-- Recheck any recurring call with the Philippines: for every zone that changes, it moves one hour earlier on US clocks.
-- Mark Nov. 1 on a [November 2026 printable calendar](/november-calendars.html) or a [printable weekly calendar](/printable-weekly-calendar.html).
+- Pick your US zone in the first table and add its hours to arrive at Manila time.
+- Nudge any recurring Philippines call an hour earlier on the US clock for each US zone that changed, while the Manila hour holds steady.
+- Note Sunday, Nov. 1 on a [November 2026 printable calendar](/november-calendars.html), or hang a [printable weekly calendar](/printable-weekly-calendar.html) near your screen.

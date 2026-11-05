@@ -1,10 +1,10 @@
 ---
-title: "US-India Time Difference After Nov. 1, 2026: New York Is 10.5 Hours Behind India"
-seoTitle: "US-India Time Difference After Nov. 1, 2026"
-description: "New York is 10 hours 30 minutes behind Indian Standard Time (IST) from Nov. 1, 2026, when US clocks go back and India stays put. Tables for every US zone."
+title: "US-India Time Difference: New York Is 10.5 Hours Behind India"
+seoTitle: "US-India Time Difference: New York to India"
+description: "New York is 10 hours 30 minutes behind Indian Standard Time (IST) while US clocks are on standard time, and India keeps UTC+5:30 all year. Tables included."
 type: explainer
 publishedAt: "2026-10-30T07:50:00-04:00"
-updatedAt: "2026-11-01T05:45:00-05:00"
+updatedAt: "2026-11-05T03:23:11-05:00"
 authors: [jessica-hartwell]
 category: time-change
 keywords: ["time difference between India and USA after daylight saving", "India time vs New York November 2026", "IST to EST", "what time is it in India when it is 9 am in New York"]
@@ -99,9 +99,9 @@ related: [daylight-saving-time-ends-november-1-2026, india-vs-new-zealand-2026-s
 draft: false
 ---
 
-At 2 a.m. local time on **Sunday, Nov. 1, 2026**, U.S. clocks fell back one hour and New York became 10 hours 30 minutes behind India; it was 9 hours 30 minutes behind. The rule comes from the National Institute of Standards and Technology (NIST), and India's offset does not move, so the whole one-hour change lands on the U.S. side. A one-page [printable US-India time converter](/news/downloads/time-change-2026/us-india-time-difference-november-2026.pdf) is on this page for your desk.
+New York is **10 hours 30 minutes behind India** right now, the gap in place since U.S. clocks fell back one hour to standard time at 2 a.m. local time on Sunday, Nov. 1, 2026; before that it was 9 hours 30 minutes. India's offset does not move, so the whole shift lands on the U.S. side, under the rule from the National Institute of Standards and Technology (NIST). A one-page [printable US-India time converter](/news/downloads/time-change-2026/us-india-time-difference-november-2026.pdf) is on this page for your desk.
 
-The figures below are our calculation from the Coordinated Universal Time (UTC) offsets.
+The conversions below are worked out from the Coordinated Universal Time (UTC) offsets.
 
 ## Does India change its clocks on Nov. 1, 2026?
 
@@ -142,23 +142,35 @@ Going the other way, 9 p.m. IST is 10:30 a.m. ET on the same calendar day in Ind
 
 ## Which U.S. hours work for a call with India?
 
-Taking 9 a.m. to 9 p.m. IST as the window (our assumption for the guide, not an official rule), these are the U.S. hours that fall inside it from Nov. 1:
+Indian teams usually keep a Monday-to-Friday week, so we take a 9 a.m. to 9 p.m. IST window as the time to reach India (our assumption for the guide, not an official rule). These are the U.S. hours that now fall inside it:
 
 | U.S. zone | U.S. morning hours inside the window | U.S. evening hours inside the window |
 |---|---|---|
 | Eastern | Midnight to 10:30 a.m. ET | 10:30 p.m. ET to midnight |
 | Pacific | Midnight to 7:30 a.m. PT | 7:30 p.m. PT to midnight |
 
-Before Nov. 1, the same window ran one hour later on U.S. clocks, so a regular slot may now start an hour earlier for you.
+Across the summer this India window sat one hour later on U.S. clocks, so an Eastern team's regular slot has slid an hour earlier for the standard-time months.
 
-A meeting fixed in India time shifts on U.S. clocks. A standing call at 8:30 p.m. IST was at 11 a.m. ET until Oct. 31 and is at 10 a.m. ET from Nov. 1. Phones update automatically when the automatic time zone setting is on, but a calendar invite in a fixed U.S. time needs a manual check.
+A meeting pinned to India time moves on the U.S. calendar instead. A standing call at 8:30 p.m. IST sat at 11 a.m. ET until Oct. 31 and is at 10 a.m. ET from Nov. 1. An Indian laptop set to pick its zone automatically catches this, but a teammate reading a fixed U.S. invite should check the new Eastern hour.
+
+## A full Indian workday in U.S. clock times
+
+A 9 a.m. to 5 p.m. Indian business day (Monday to Friday, our assumption for the guide, not an official rule) maps onto the four main U.S. zones like this. The U.S. clock readings come straight from the offsets in the first table, and "day before" marks the previous U.S. calendar day.
+
+| India business day (IST) | New York (ET) | Chicago (CT) | Denver (MT) | Los Angeles (PT) |
+|---|---|---|---|---|
+| 9 a.m. (start) | 10:30 p.m., day before | 9:30 p.m., day before | 8:30 p.m., day before | 7:30 p.m., day before |
+| 1 p.m. (midday) | 2:30 a.m. | 1:30 a.m. | 12:30 a.m. | 11:30 p.m., day before |
+| 5 p.m. (close) | 6:30 a.m. | 5:30 a.m. | 4:30 a.m. | 3:30 a.m. |
+
+With the gap at 10 hours 30 minutes or more, India's working day lands overnight in the United States, which is why most U.S.-India calls sit at one country's edge of the day.
 
 ## When does the gap change again?
 
 Under 15 U.S.C. 260a, daylight saving time starts on the second Sunday of March, which is Sunday, March 14, 2027 (our calculation). New York will then be 9 hours 30 minutes behind India again. Read [when daylight saving time starts again on March 14](/news/clock-changes-2027-when-does-daylight-saving-time-start-again-march-14/) for the 2027 dates. For Mexico and Australia, see our [Mexico time-difference story](/news/mexico-time-difference-after-november-1-2026-us-clocks-fall-back/) and the [US-Australia time-difference story](/news/us-australia-time-difference-after-daylight-saving-time-ends-november-1-2026/).
 
-## Quick checklist for Nov. 1
+## India call checklist for the standard-time stretch
 
-- Find your U.S. zone in the first table and add the hours to India time.
-- Recheck any recurring call with India: for every zone that changes, it moves one hour earlier on U.S. clocks.
-- Mark Nov. 1 on a [November 2026 printable calendar](/november-calendars.html) or a [printable weekly calendar](/printable-weekly-calendar.html).
+- Read your U.S. zone off the first table and add its hours and the extra 30 minutes to land on India time.
+- Move any recurring India call back by an hour wherever your U.S. zone changed its clocks, then tell the Indian side the Indian hour has not moved.
+- Circle Sunday, Nov. 1 on a [November 2026 printable calendar](/november-calendars.html), or tape a [printable weekly calendar](/printable-weekly-calendar.html) above your desk.

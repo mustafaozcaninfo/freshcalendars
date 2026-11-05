@@ -4,6 +4,7 @@ seoTitle: "Native American Heritage Day 2026: Fri., Nov. 27"
 description: "Native American Heritage Day 2026 is Fri., Nov. 27. Public Law 111-33 encourages it; the Office of Personnel Management (OPM) lists no federal holiday."
 type: explainer
 publishedAt: "2026-10-28T11:44:00-04:00"
+updatedAt: "2026-11-05T03:22:47-05:00"
 authors: [christina-gerland]
 category: holidays
 keywords: ["native american heritage day 2026", "native american heritage month 2026", "is native american heritage day a federal holiday", "day after thanksgiving holiday 2026"]
@@ -75,7 +76,7 @@ internalLinks:
     label: "When is Thanksgiving?"
   - href: "/holidays/"
     label: "US holidays"
-related: [veterans-day-2026-wednesday-november-11, why-thanksgiving-2026-is-november-26, national-adoption-day-2026-november-21]
+related: [native-american-heritage-month-2026-theme-events-books-activities, veterans-day-2026-wednesday-november-11, why-thanksgiving-2026-is-november-26]
 downloads:
   - group: "Native American Heritage Month Calendar printables"
     title: "Native American Heritage Month Calendar, November 2026"
@@ -97,6 +98,8 @@ draft: false
 ---
 
 **Native American Heritage Day 2026 is Friday, Nov. 27, the Friday after Thanksgiving Day, under Public Law 111-33 published by the U.S. Government Publishing Office (GPO), but it is not a federal holiday on the U.S. Office of Personnel Management (OPM) list.** The law, approved June 26, 2009, only encourages observance. A printable November 2026 calendar for the month is further down this page.
+
+For the Native American Heritage Month 2026 theme, events, book lists and classroom activities, see our [Native American Heritage Month guide](/news/native-american-heritage-month-2026-theme-events-books-activities/).
 
 ## Is Native American Heritage Day a federal holiday?
 

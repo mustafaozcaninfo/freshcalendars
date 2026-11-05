@@ -1,10 +1,10 @@
 ---
-title: "U.S.-Japan, Korea and China Time Difference After Nov. 1, 2026: Tokyo Is 14 Hours Ahead"
-seoTitle: "U.S.-Japan, Korea, China Time Difference Nov. 1, 2026"
-description: "U.S. clocks fell back at 2 a.m. on Nov. 1, 2026, so New York is 14 hours behind Japan Standard Time (JST) and Korea Standard Time (KST), 13 behind Beijing."
+title: "U.S.-Japan, Korea and China Time Difference: Tokyo Is 14 Hours Ahead"
+seoTitle: "U.S. to Japan, Korea and China Time Difference"
+description: "New York is 14 hours behind Japan Standard Time (JST) and Korea Standard Time (KST), and 13 behind Beijing, while U.S. clocks are on standard time."
 type: explainer
 publishedAt: "2026-10-30T23:50:00-04:00"
-updatedAt: "2026-11-01T05:45:00-05:00"
+updatedAt: "2026-11-05T03:23:11-05:00"
 authors: [jessica-hartwell]
 category: time-change
 keywords: ["time difference between us and japan", "new york to tokyo time difference after daylight saving", "us korea time difference", "us china time difference november 2026"]
@@ -96,7 +96,7 @@ related: [daylight-saving-time-ends-november-1-2026, us-philippines-time-differe
 draft: false
 ---
 
-U.S. clocks fell back one hour at 2 a.m. local time on **Sunday, Nov. 1, 2026**, and from then New York is 14 hours behind Tokyo and Seoul and 13 hours behind Beijing, up from 13 and 12 hours. The rule comes from the National Institute of Standards and Technology (NIST), and none of the three countries moves its clocks, so the whole change lands on the U.S. side. A one-page [printable U.S. to Japan, Korea and China time chart](/news/downloads/time-change-2026/us-japan-korea-china-time-chart-november-2026.pdf) is on this page for your desk.
+New York is **14 hours behind Tokyo and Seoul** and **13 hours behind Beijing** right now, the gaps in place since U.S. clocks fell back one hour to standard time at 2 a.m. local time on Sunday, Nov. 1, 2026, up from 13 and 12 hours. None of the three countries moves its clocks, so the whole shift lands on the U.S. side, under the rule from the National Institute of Standards and Technology (NIST). A one-page [printable U.S. to Japan, Korea and China time chart](/news/downloads/time-change-2026/us-japan-korea-china-time-chart-november-2026.pdf) is on this page for your desk.
 
 The figures below are our calculation from the Coordinated Universal Time (UTC) offsets in the time zone database and NIST's dates. Japan Standard Time (JST) and Korea Standard Time (KST) are both UTC+9. Beijing Time, the China standard time, is UTC+8.
 
@@ -152,14 +152,26 @@ So 8 a.m. in Tokyo is 6 p.m. the evening before in New York and 3 p.m. in Los An
 
 ## Does a standing call with Japan, South Korea or China move on Nov. 1?
 
-On U.S. clocks, yes; on Asian clocks, no. A call fixed at 8 a.m. Tokyo time was at 7 p.m. in New York the day before until Oct. 31 and is at 6 p.m. from Nov. 1. A call fixed in New York time lands one hour later on the Tokyo clock instead: 9 a.m. in New York was 10 p.m. in Tokyo until Oct. 31 and is 11 p.m. from Nov. 1. Phones update on their own when the automatic time zone setting is on, but an invite saved in a fixed zone needs a manual check. For a country that also keeps one offset all year, see the [U.S.-Philippines time-difference story](/news/us-philippines-time-difference-after-november-1-2026-manila-13-hours/) and the [U.S.-India story](/news/us-india-time-difference-after-november-1-2026-ist-10-5-hours/).
+On U.S. clocks, yes; on East Asian clocks, no. A call fixed at 8 a.m. Tokyo time was at 7 p.m. in New York the day before until Oct. 31 and is at 6 p.m. from Nov. 1. A call fixed in New York time lands one hour later on the Tokyo clock instead: 9 a.m. in New York was 10 p.m. in Tokyo until Oct. 31 and is 11 p.m. from Nov. 1. A handset in Tokyo, Seoul or Beijing with automatic time zone turned on follows this quietly, while an invite locked to one zone needs a human to re-read the hour. For a country that also keeps one offset all year, see the [U.S.-Philippines time-difference story](/news/us-philippines-time-difference-after-november-1-2026-manila-13-hours/) and the [U.S.-India story](/news/us-india-time-difference-after-november-1-2026-ist-10-5-hours/).
+
+## A Tokyo or Seoul workday across U.S. clocks
+
+Offices in Japan and South Korea mostly run a Monday-to-Friday week, so here is a 9 a.m. to 5 p.m. Tokyo or Seoul business day (our assumption for the guide, not an official rule) read off the four main U.S. zones. The U.S. times come from the offsets in the first table, and "day before" is the previous U.S. calendar day.
+
+| Tokyo or Seoul business day (JST, KST) | New York (ET) | Chicago (CT) | Denver (MT) | Los Angeles (PT) |
+|---|---|---|---|---|
+| 9 a.m. (start) | 7 p.m., day before | 6 p.m., day before | 5 p.m., day before | 4 p.m., day before |
+| 1 p.m. (midday) | 11 p.m., day before | 10 p.m., day before | 9 p.m., day before | 8 p.m., day before |
+| 5 p.m. (close) | 3 a.m. | 2 a.m. | 1 a.m. | 12 a.m. (midnight) |
+
+Beijing runs one hour behind Tokyo and Seoul, so a Beijing workday lands one hour later on U.S. clocks: Beijing 9 a.m. is 8 p.m. the day before in New York.
 
 ## When do the gaps with Tokyo, Seoul and Beijing shrink again?
 
 Under 15 U.S.C. 260a and the NIST rule that DST begins at 2 a.m. on the second Sunday of March, daylight saving time returns on Sunday, March 14, 2027 (our calculation). New York will then be 13 hours behind Tokyo and Seoul and 12 hours behind Beijing again.
 
-## Quick checklist for Nov. 1
+## East Asia call checklist for the standard-time months
 
-- Find your U.S. zone in the first table and add the hours to get Tokyo, Seoul or Beijing time.
-- Recheck any recurring call with East Asia: for every zone that changes, a call fixed in Asian time moves one hour earlier on U.S. clocks.
-- Mark Nov. 1 on a [November 2026 printable calendar](/november-calendars.html) or a [printable weekly calendar](/printable-weekly-calendar.html).
+- Start from your U.S. zone in the first table, then add its hours to reach Tokyo, Seoul or Beijing.
+- Shift any standing East Asia call an hour earlier on the U.S. clock for each American zone that changed, and remind colleagues abroad their own hour has not budged.
+- Mark Sunday, Nov. 1 on a [November 2026 printable calendar](/november-calendars.html), or keep a [printable weekly calendar](/printable-weekly-calendar.html) within reach.

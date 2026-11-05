@@ -4,6 +4,7 @@ seoTitle: "NFL Week 13 Schedule 2026: Times and Pick'em Sheet"
 description: "National Football League (NFL) Week 13 runs Dec. 3 to 7, 2026: 14 games, four byes, Eastern Time (ET) kickoffs, TV channels and a printable pick'em sheet."
 type: news
 publishedAt: "2026-11-01T14:44:00-05:00"
+updatedAt: "2026-11-05T03:26:00-05:00"
 authors: [jessica-hartwell]
 category: sports
 keywords: ["NFL Week 13 schedule 2026", "NFL Week 13 pick em sheet printable", "NFL Week 13 game times", "NFL Week 13 bye teams 2026"]
@@ -97,7 +98,7 @@ related: [nfl-week-12-schedule-2026-printable-pick-em-sheet-game-times, printabl
 draft: false
 ---
 
-**The National Football League (NFL) plays 14 Week 13 games from Thursday, Dec. 3 to Monday, Dec. 7, 2026, with four teams on bye and Chiefs at Rams opening the week at 8:15 p.m. Eastern Time (ET), according to NFL.com.** Below: every game with its network, a time-zone table in ET, Central Time (CT), Mountain Time (MT) and Pacific Time (PT), the bye teams, and a one-page pick'em sheet with a Monday tiebreaker.
+**The National Football League (NFL) plays 14 Week 13 games from Thursday, Dec. 3 to Monday, Dec. 7, 2026, with four teams on bye and Chiefs at Rams opening the week at 8:15 p.m. Eastern Time (ET), according to NFL.com.** Read on for every game with its network, a time-zone table spanning ET, Central Time (CT), Mountain Time (MT) and Pacific Time (PT), the four bye teams, and a one-page pick'em sheet finished with a Monday tiebreaker.
 
 ## What is the NFL Week 13 schedule for 2026?
 
@@ -145,6 +146,10 @@ Prime Video has Thursday's Chiefs at Rams. On Sunday afternoon NFL.com lists CBS
 
 Three. NFL.com lists games on Thursday, Sunday and Monday, with none on Friday, Dec. 4 or Saturday, Dec. 5. Sunday carries 12 of the 14 games.
 
+## How long does the Week 13 Sunday slate run?
+
+Sunday, Dec. 6 holds 12 of the 14 games across four start times: seven at 1 p.m. ET, two at 4:05 p.m., two at 4:25 p.m. and Texans at Steelers at 8:20 p.m. ET. From the first 1 p.m. kickoff to the 8:20 p.m. night game, Sunday spans 7 hours and 20 minutes of staggered starts.
+
 ## Is there a printable NFL Week 13 pick'em sheet?
 
-Yes. The one-page sheet lists all 14 games in kickoff order with the network, a blank for your pick and a blank for the final score, plus a tiebreaker line for the total points in Monday's Cowboys at Seahawks game. Because the first game is Thursday, fill it in before 8:15 p.m. ET on Dec. 3. Pin it beside the [December 2026 printable calendar](/december-calendars.html) or a [printable weekly calendar](/printable-weekly-calendar.html). For other weeks, see our [printable NFL pick'em sheets](/news/printable-nfl-pickem-sheets-2026/).
+Yes. The printable page lays out all 14 games by start time, lists the network for each, and leaves a slot for your pick and the final score, before ending on a tiebreaker for the combined points in Monday's Cowboys at Seahawks game. With the opener on Thursday, have it done before 8:15 p.m. ET on Dec. 3. Clip it beside the [December 2026 printable calendar](/december-calendars.html) or a [printable weekly calendar](/printable-weekly-calendar.html). Every other week sits on our [printable NFL pick'em sheets](/news/printable-nfl-pickem-sheets-2026/) page.

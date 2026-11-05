@@ -4,7 +4,7 @@ seoTitle: "Lakers Schedule November 2026: Times, TV, Cup Games"
 description: "The Lakers host the Heat on Mon., Nov. 2, 2026, at 7 p.m. Pacific Time (PT), 10 p.m. Eastern Time (ET), with no national TV listed, and all 15 November games."
 type: news
 publishedAt: "2026-10-29T01:45:00-04:00"
-updatedAt: "2026-11-02T14:10:00-05:00"
+updatedAt: "2026-11-05T03:23:00-05:00"
 authors: [jessica-hartwell]
 category: sports
 keywords: ["Lakers schedule", "Lakers schedule November 2026", "next Lakers game", "Lakers game tonight", "Lakers NBA Cup 2026"]
@@ -154,4 +154,4 @@ The PDF lists 1,200 games, and it has no regular-season dates from Dec. 4 to Dec
 
 Yes. The one-page sheet lists Oct. 30 and all 15 November games with the opponent, home or away, PT and ET times and national TV, and it has an ink-saver version. Keep it next to the [November 2026 printable calendar](/november-calendars.html), use the [October 2026 printable calendar](/october-calendars.html) for the Oct. 30 game, or add the games to a [printable weekly calendar](/printable-weekly-calendar.html).
 
-Because the NBA's schedule is "subject to change," recheck game times on NBA.com before you head out. Game results, injuries and tickets are not part of the NBA's schedule and are not covered here.
+Eight of the Lakers' 15 November games are on the road, and all three of their back-to-backs begin on a Sunday. Verify start times on NBA.com, which the league updates as games move.

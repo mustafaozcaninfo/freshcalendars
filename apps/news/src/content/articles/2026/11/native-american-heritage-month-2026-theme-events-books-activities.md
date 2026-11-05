@@ -1,10 +1,10 @@
 ---
-title: "Native American Heritage Month 2026: Theme, Events, Books and Student Activities"
-seoTitle: "Native American Heritage Month 2026: Theme and Events"
-description: "Native American Heritage Month 2026 runs Nov. 1 to 30. The Bureau of Indian Affairs (BIA) theme is 250 Years and Beyond. Events, books and student activities."
+title: "Native American Heritage Month 2026 Theme: Events, Books, Activities"
+seoTitle: "Native American Heritage Month 2026 Theme and Events"
+description: "Native American Heritage Month 2026 theme is 250 Years and Beyond, set by the Bureau of Indian Affairs (BIA). Events, books and student activities inside."
 type: explainer
 publishedAt: "2026-11-01T05:40:00-05:00"
-updatedAt: "2026-11-02T14:10:00-05:00"
+updatedAt: "2026-11-05T03:22:47-05:00"
 authors: [christina-gerland]
 category: holidays
 keywords: ["native american heritage month 2026", "native american heritage month 2026 theme", "native american heritage month activities for students", "native american heritage month books for kids", "native american heritage month printable"]
@@ -65,7 +65,7 @@ faq:
   - q: "Is it the same as Indigenous Peoples Month?"
     a: "The BIA page and the federal site also call the observance National American Indian Heritage Month. 'Indigenous Peoples' is a broader term. When you write about one nation, use the name that nation uses for itself."
   - q: "Is Native American Heritage Month a federal holiday?"
-    a: "No. It is an observance. The related Native American Heritage Day on Friday, Nov. 27 is also not a federal holiday; see our Heritage Day story."
+    a: "No. It is an observance. For whether the related Native American Heritage Day on Friday, Nov. 27 is a day off, see our Heritage Day story."
   - q: "Which books are good for kids during the month?"
     a: "NYC Public Schools lists Fry Bread, We Are Water Protectors and Ancestor Approved for younger readers, and several middle grade and young adult titles. The full list is in the books table above."
 sources:
@@ -115,7 +115,7 @@ downloads:
 draft: false
 ---
 
-**Native American Heritage Month 2026 runs from Sunday, Nov. 1 to Monday, Nov. 30, and the Bureau of Indian Affairs (BIA) theme is "250 Years and Beyond: Building a culture of service in Indian Country."** Below: the events the federal Native American Heritage Month website lists, nine books from NYC Public Schools, classroom and library ideas, and a free printable checklist.
+**The Native American Heritage Month 2026 theme is "250 Years and Beyond: Building a culture of service in Indian Country," set by the Bureau of Indian Affairs (BIA), and the month runs from Sunday, Nov. 1 to Monday, Nov. 30.** Below: the events the federal Native American Heritage Month website lists, nine books from NYC Public Schools, classroom and library ideas, and a free printable checklist.
 
 ## What is the Native American Heritage Month 2026 theme?
 
@@ -151,7 +151,7 @@ The federal Native American Heritage Month website, hosted by the Library of Con
 |---|---|---|
 | Thu., Nov. 5 | Artful Evenings: "Water's Edge" with artist Sky Hopinka, Smithsonian | 6 to 9 p.m. ET |
 | Sat., Nov. 14 | "Always Becoming: Next Chapter", Smithsonian; performances, films, gallery tours | 10:30 a.m. to 4:30 p.m. ET |
-| Fri., Nov. 27 | [Native American Heritage Day](/news/native-american-heritage-day-2026-friday-november-27-heritage-month/) | Observance, not a federal holiday |
+| Fri., Nov. 27 | Native American Heritage Day | [Is it a day off? See our Heritage Day story](/news/native-american-heritage-day-2026-friday-november-27-heritage-month/) |
 
 The federal page prints "EDT" for these, but Eastern Time is on standard time from Nov. 1, so they are written ET here. It does not name a venue, so confirm the place, tickets and times on the Smithsonian listing. We could not confirm other Smithsonian events; check the [National Museum of the American Indian calendar](https://americanindian.si.edu/). The [National Park Service (NPS)](https://www.nps.gov/subjects/npscelebrates/native-american-heritage-month.htm) page for the month has stories, places, resources and kids' activities.
 

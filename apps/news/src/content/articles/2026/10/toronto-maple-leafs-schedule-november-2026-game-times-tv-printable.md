@@ -4,6 +4,7 @@ seoTitle: "Maple Leafs Schedule November 2026: Times and TV"
 description: "The Maple Leafs play 13 games in November 2026, starting Tue., Nov. 3, at 7 p.m. Eastern Time (ET) against Utah, per the National Hockey League (NHL) schedule."
 type: news
 publishedAt: "2026-10-31T09:45:00-04:00"
+updatedAt: "2026-11-05T03:23:00-05:00"
 authors: [jessica-hartwell]
 category: sports
 keywords: ["Maple Leafs schedule November 2026", "Leafs game tonight", "Maple Leafs TV schedule", "Leafs Canadiens November 7 2026", "Maple Leafs printable schedule"]
@@ -141,4 +142,4 @@ Other NHL dates this season include the [2027 Winter Classic](/news/nhl-winter-c
 
 Yes. It is free. The one-page sheet lists all 13 games with the opponent, home or away, ET start time and Canadian TV, and it has an ink-saver version. Keep it next to the [November 2026 printable calendar](/november-calendars.html) or copy the games into a [printable weekly calendar](/printable-weekly-calendar.html).
 
-Recheck the NHL schedule before game day. Results, standings, injuries and tickets are not part of this story.
+The Maple Leafs open November with six straight games at Scotiabank Arena, from Nov. 3 to Nov. 14. Confirm puck drop on NHL.com before game day.

@@ -4,6 +4,7 @@ seoTitle: "Spurs Schedule November 2026: Times, TV, Cup Games"
 description: "The Spurs host Utah on Mon., Nov. 2, 2026, at 7:30 p.m. Central Time (CT), 8:30 p.m. Eastern Time (ET), first of 16 November games."
 type: news
 publishedAt: "2026-11-02T11:20:00-05:00"
+updatedAt: "2026-11-05T03:23:00-05:00"
 authors: [jessica-hartwell]
 category: sports
 keywords: ["Spurs schedule November 2026", "Spurs game tonight", "San Antonio Spurs NBA Cup schedule 2026", "Spurs printable schedule"]
@@ -139,7 +140,7 @@ The schedule flags four November Spurs games as Emirates NBA Cup group play: at 
 
 ## Back-to-backs and road trips in the Spurs' November
 
-Reading the dates in the table shows how the month is built. These are our own counts from the NBA's schedule:
+The Spurs' November turns on an early four-game road trip and a three-game home stand later in the month. These are our own counts from the NBA's schedule:
 
 - **Back-to-backs:** Fri., Nov. 6 and Sat., Nov. 7 (at Sacramento, then at Portland), and Sun., Nov. 29 and Mon., Nov. 30 (home against Boston, then at Milwaukee).
 - **A four-game road trip:** the Spurs play at Sacramento on Nov. 6, at Portland on Nov. 7, at Phoenix on Nov. 9 and at Chicago on Nov. 11 before returning home.
@@ -152,4 +153,4 @@ Eight home games and eight road games make 16 in all, from Nov. 2 to Nov. 30.
 
 Yes. The one-page sheet lists all 16 November games with the opponent, home or away, CT and ET start times and NBA Cup games, and it has an ink-saver version. Keep it next to the [November 2026 printable calendar](/november-calendars.html) or copy the games into a [printable weekly calendar](/printable-weekly-calendar.html). For another team's month, see our [Miami Heat schedule for November 2026](/news/miami-heat-schedule-november-2026-game-times-tv-nba-cup-printable/).
 
-Because the NBA's schedule is "subject to change," recheck game times on NBA.com before you head out. Results, injuries and tickets are not part of the NBA's schedule and are not covered here.
+Four of the Spurs' 16 November games fall on a weekend: Nov. 7, 15, 21 and 29. Confirm tip-off times at NBA.com, since the league can still move games.
