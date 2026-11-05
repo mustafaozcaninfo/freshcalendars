@@ -4,6 +4,7 @@ seoTitle: "76ers Schedule November 2026: Times, TV, Cup Games"
 description: "The 76ers host Chicago on Mon., Nov. 2, 2026, at 7:30 p.m. Eastern Time (ET), the first of 14 November games in the National Basketball Association (NBA)."
 type: news
 publishedAt: "2026-11-02T10:12:00-05:00"
+updatedAt: "2026-11-05T03:23:00-05:00"
 authors: [jessica-hartwell]
 category: sports
 keywords: ["76ers schedule November 2026", "Sixers game tonight", "76ers NBA Cup schedule 2026", "76ers printable schedule"]
@@ -136,7 +137,7 @@ The schedule flags four 76ers games as Emirates NBA Cup group play: against New 
 
 ## Back-to-backs and Thanksgiving week in the 76ers' November
 
-Reading the dates in the table shows how the month is built. These are our own counts from the NBA's schedule:
+The 76ers play two sets of back-to-back games in November, one around mid-month and one that closes the month on the road. These are our own counts from the NBA's schedule:
 
 - **Back-to-backs:** Sun., Nov. 15 and Mon., Nov. 16 (home against Indiana, then at Brooklyn), and Fri., Nov. 27 and Sat., Nov. 28 (both on the road, at Indiana then at Houston).
 - **Home and away:** the month splits evenly, seven home games and seven road games, ending with four of the last six on the road.
@@ -148,4 +149,4 @@ The 76ers also appear in our [Christmas Day 2026 NBA and NFL schedule](/news/chr
 
 Yes. The one-page sheet lists all 14 November games with the opponent, home or away, ET start time, national TV and NBA Cup games, and it has an ink-saver version. Keep it next to the [November 2026 printable calendar](/november-calendars.html) or copy the games into a [printable weekly calendar](/printable-weekly-calendar.html). For another team's month, see our [Lakers schedule for November 2026](/news/lakers-schedule-november-2026-game-times-tv-nba-cup-printable/).
 
-Because the NBA's schedule is "subject to change," recheck game times on NBA.com before you head out. Results, injuries and tickets are not part of the NBA's schedule and are not covered here.
+The 76ers have four weekend tip-offs in November, on Nov. 8, 15, 21 and 28. Recheck the game time at NBA.com before you tune in.

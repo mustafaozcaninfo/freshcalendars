@@ -4,6 +4,7 @@ seoTitle: "Oilers Schedule November 2026: Times and TV"
 description: "The Oilers' next game is Tue., Nov. 3, 2026, at 5:30 p.m. Mountain Time (MT), 7:30 p.m. Eastern Time (ET), at New Jersey, per the National Hockey League (NHL)."
 type: news
 publishedAt: "2026-11-02T11:20:00-05:00"
+updatedAt: "2026-11-05T03:23:00-05:00"
 authors: [jessica-hartwell]
 category: sports
 keywords: ["Oilers schedule November 2026", "Oilers game tonight", "Oilers TV schedule", "Oilers Canucks November 7 2026", "Oilers printable schedule"]
@@ -158,6 +159,4 @@ Edmonton closes the month with a home-and-home against Seattle: at Rogers Place 
 
 Yes. It is free. The one-page sheet lists all 15 games with the opponent, home or away, MT and ET start times and TV, and it has an ink-saver version. Keep it next to the [November 2026 printable calendar](/november-calendars.html) or copy the games into a [printable weekly calendar](/printable-weekly-calendar.html).
 
-Recheck the NHL schedule before game day. Results, standings, injuries and tickets are not part of this story.
-</content>
-</invoke>
+The Oilers skate three back-to-backs in November, two of them during their six-game Eastern road swing. See NHL.com for the latest puck-drop time.

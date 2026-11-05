@@ -1,9 +1,10 @@
 [
-  {"date": "2026-10-30", "label": "Texas early voting ends; find your sample ballot by ZIP code"},
-  {"date": "2026-11-03", "label": "Election Day"},
-  {"date": "2026-11-06", "label": "Texas: earliest local canvass"},
-  {"date": "2026-11-16", "label": "Texas: provisional ballots verified and counted"},
-  {"date": "2026-11-21", "label": "Texas: state canvass window opens (through Dec. 6)"},
-  {"date": "2026-12-01", "label": "Georgia: general election runoff, if needed"},
-  {"date": "2026-12-12", "label": "Louisiana: Dec. 12 elections"}
+  {
+    "date": "2026-11-03",
+    "label": "Election Day"
+  },
+  {
+    "date": "2026-10-30",
+    "label": "Texas early voting ends; find your sample ballot by ZIP code"
+  }
 ]

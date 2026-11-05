@@ -1,10 +1,10 @@
 ---
-title: "US-Brazil Time Difference After Nov. 1, 2026: New York Is 2 Hours Behind São Paulo"
-seoTitle: "US-Brazil Time Difference After Nov. 1, 2026"
-description: "New York is 2 hours behind Brasília Time (BRT) from Nov. 1, 2026, when US clocks fall back and Brazil stays put. Tables for every US and Brazilian zone."
+title: "US-Brazil Time Difference: New York Is 2 Hours Behind São Paulo"
+seoTitle: "US-Brazil Time Difference: New York to São Paulo"
+description: "New York is 2 hours behind Brasília Time (BRT) while US clocks are on standard time, and Brazil keeps UTC-3 all year. Tables for every US zone."
 type: explainer
 publishedAt: "2026-10-31T07:45:00-04:00"
-updatedAt: "2026-11-01T05:45:00-05:00"
+updatedAt: "2026-11-05T03:23:11-05:00"
 authors: [jessica-hartwell]
 category: time-change
 keywords: ["time difference between US and Brazil", "New York to São Paulo time difference", "Brazil time vs EST", "Brasília time zone"]
@@ -103,9 +103,9 @@ related: [daylight-saving-time-ends-november-1-2026, mexico-time-difference-afte
 draft: false
 ---
 
-When U.S. clocks fell back at 2 a.m. local time on **Sunday, Nov. 1, 2026**, New York went from 1 hour to 2 hours behind São Paulo and Brasília, according to the National Institute of Standards and Technology (NIST) rule for the U.S. side. Brazil did not move its clocks, so the whole one-hour change landed in the United States. A one-page [printable US-Brazil time converter](/news/downloads/time-change-2026/us-brazil-time-difference-november-2026.pdf) is on this page for your desk.
+New York is **2 hours behind São Paulo and Brasília** right now, the gap in place since U.S. clocks fell back to standard time at 2 a.m. local time on Sunday, Nov. 1, 2026. Brazil did not move its clocks, so the whole one-hour shift landed in the United States, under the rule from the National Institute of Standards and Technology (NIST). A one-page [printable US-Brazil time converter](/news/downloads/time-change-2026/us-brazil-time-difference-november-2026.pdf) is on this page for your desk.
 
-The figures below are our calculation from the Coordinated Universal Time (UTC) offsets.
+Every figure below is our own calculation from the Coordinated Universal Time (UTC) offsets.
 
 ## Does Brazil change its clocks on Nov. 1, 2026?
 
@@ -170,7 +170,7 @@ Going the other way, 9 a.m. in São Paulo is 7 a.m. ET, and 6 p.m. in São Paulo
 
 ## How much of a 9-to-5 workday do New York and São Paulo share?
 
-Taking 9 a.m. to 5 p.m. local time in both cities as the workday (our assumption for the guide, not an official rule), this is the overlap in the cities' clocks:
+Brazilian offices mostly keep a Monday-to-Friday week, so we take a Monday-to-Friday, 9 a.m. to 5 p.m. business day in both cities (our assumption for the guide, not an official rule). This is the overlap in the cities' clocks:
 
 | Zone pair | Overlap until Oct. 31 | Overlap from Nov. 1 |
 |---|---|---|
@@ -178,7 +178,7 @@ Taking 9 a.m. to 5 p.m. local time in both cities as the workday (our assumption
 | Chicago and São Paulo | 9 a.m. to 3 p.m. CT (6 hours) | 9 a.m. to 2 p.m. CT (5 hours) |
 | Los Angeles and São Paulo | 9 a.m. to 1 p.m. PT (4 hours) | 9 a.m. to 12 p.m. PT (3 hours) |
 
-From Nov. 1, a New York 9 a.m. start is 11 a.m. in São Paulo, and a São Paulo 5 p.m. finish is 3 p.m. in New York. A standing call at 10 a.m. in São Paulo moves from 9 a.m. to 8 a.m. ET on Nov. 1; on Brazil's clocks nothing changes. Phones update automatically when the automatic time zone setting is on, but a calendar invite fixed in U.S. time needs a manual check.
+A New York 9 a.m. start is now 11 a.m. in São Paulo, and a São Paulo 5 p.m. finish is 3 p.m. in New York. A standing call at 10 a.m. in São Paulo, which was 9 a.m. ET until Oct. 31, now falls at 8 a.m. ET, while Brazil's clocks read the same as always. A Brazilian phone set to update its zone automatically handles this on its own, but a São Paulo colleague working from a fixed U.S. invite should confirm the new U.S. hour.
 
 ## How does this affect the São Paulo Grand Prix weekend?
 
@@ -188,8 +188,19 @@ Our [São Paulo Grand Prix schedule](/news/sao-paulo-grand-prix-2026-schedule-ra
 
 Under 15 U.S.C. 260a, daylight saving time starts on the second Sunday of March, which is Sunday, March 14, 2027 (our calculation). New York will then be 1 hour behind São Paulo again, as long as Brazil keeps its zones unchanged. Read [when daylight saving time starts again on March 14](/news/clock-changes-2027-when-does-daylight-saving-time-start-again-march-14/) for the 2027 dates.
 
-## Brazil call checklist for Nov. 1
+Brazil holds Brasília Time at UTC-3 all year, so only the U.S. side ever moves the gap. This timeline tracks New York against São Paulo across the current cycle:
 
-- Find your U.S. zone in the first table and add the hours to São Paulo time.
-- Recheck any recurring call with Brazil: for every U.S. zone that changes, it moves one hour earlier on U.S. clocks.
-- Mark Nov. 1 on a [November 2026 printable calendar](/november-calendars.html) or a [printable weekly calendar](/printable-weekly-calendar.html).
+| U.S. Eastern period | New York offset | New York vs São Paulo |
+|---|---|---|
+| Until Oct. 31, 2026 | Eastern Daylight Time (UTC-4) | 1 hour behind |
+| Nov. 1, 2026 to March 13, 2027 (now) | Eastern Standard Time (UTC-5) | 2 hours behind |
+| March 14, 2027 to Nov. 6, 2027 | Eastern Daylight Time (UTC-4) | 1 hour behind |
+| From Nov. 7, 2027 | Eastern Standard Time (UTC-5) | 2 hours behind |
+
+U.S. daylight saving time runs from the second Sunday of March to the first Sunday of November under 15 U.S.C. 260a, so these turning dates are our calculation. São Paulo stays on UTC-3 throughout.
+
+## Brazil call checklist for the standard-time months
+
+- Take your U.S. zone from the first table and add its hours to reach São Paulo and Brasília time.
+- Review any standing call with Brazil, because each U.S. zone that changed now meets São Paulo one hour earlier on the American clock.
+- Pin Sunday, Nov. 1 on a [November 2026 printable calendar](/november-calendars.html), or keep the [printable weekly calendar](/printable-weekly-calendar.html) by the phone.

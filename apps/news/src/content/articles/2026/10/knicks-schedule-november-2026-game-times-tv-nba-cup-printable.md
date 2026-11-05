@@ -4,6 +4,7 @@ seoTitle: "Knicks Schedule November 2026: Times, TV, Cup Games"
 description: "The Knicks host Brooklyn on Mon., Nov. 2, 2026, at 7:30 p.m. Eastern Time (ET), the first of 14 November games in the National Basketball Association (NBA)."
 type: news
 publishedAt: "2026-10-31T03:50:00-04:00"
+updatedAt: "2026-11-05T03:23:00-05:00"
 authors: [jessica-hartwell]
 category: sports
 keywords: ["Knicks schedule November 2026", "Knicks game tonight", "Knicks NBA Cup schedule 2026", "Knicks printable schedule"]
@@ -136,7 +137,7 @@ The schedule flags four Knicks games as Emirates NBA Cup group play: at Philadel
 
 ## Back-to-backs and road trips in the Knicks' November
 
-Reading the dates in the table shows how the month is built. These are our own counts from the NBA's schedule:
+Both of the Knicks' November back-to-backs are at Madison Square Garden, and their only long trip is four road games in a row. These are our own counts from the NBA's schedule:
 
 - **Back-to-backs:** Tue., Nov. 10 and Wed., Nov. 11 (both at home), and Sat., Nov. 21 and Sun., Nov. 22 (both at home).
 - **Toronto twice:** the Knicks play at Toronto on Sun., Nov. 15 and again on Tue., Nov. 17, two games in three days.
@@ -149,4 +150,4 @@ The Knicks also appear in our [Christmas Day 2026 NBA and NFL schedule](/news/ch
 
 Yes. The one-page sheet lists all 14 November games with the opponent, home or away, ET start time, national TV and NBA Cup games, and it has an ink-saver version. Keep it next to the [November 2026 printable calendar](/november-calendars.html) or copy the games into a [printable weekly calendar](/printable-weekly-calendar.html). For another team's month, see our [Lakers schedule for November 2026](/news/lakers-schedule-november-2026-game-times-tv-nba-cup-printable/).
 
-Because the NBA's schedule is "subject to change," recheck game times on NBA.com before you head out. Results, injuries and tickets are not part of the NBA's schedule and are not covered here.
+Nine of the Knicks' 14 November games are at Madison Square Garden and five are on the road. Double-check each tip-off on NBA.com before you make plans.

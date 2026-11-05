@@ -4,6 +4,7 @@ seoTitle: "NFL Week 14 Schedule 2026: Times and Pick'em Sheet"
 description: "National Football League (NFL) Week 14 runs Dec. 10 to 14, 2026: 15 games, two byes, Eastern Time (ET) kickoffs, TV channels and a printable pick'em sheet."
 type: news
 publishedAt: "2026-11-02T01:22:00-05:00"
+updatedAt: "2026-11-05T03:26:00-05:00"
 authors: [jessica-hartwell]
 category: sports
 keywords: ["NFL Week 14 schedule 2026", "NFL Week 14 pick em sheet printable", "NFL Week 14 game times", "NFL Week 14 bye teams 2026"]
@@ -101,7 +102,7 @@ related: [nfl-week-13-schedule-2026-printable-pick-em-sheet-game-times, printabl
 draft: false
 ---
 
-**NFL.com lists 15 Week 14 games from Thursday, Dec. 10 to Monday, Dec. 14, 2026, with the Arizona Cardinals and Dallas Cowboys on bye and Vikings at Patriots opening the week at 8:15 p.m. Eastern Time (ET).** The National Football League (NFL) is the source for every game below. You also get a time-zone table in ET, Central Time (CT), Mountain Time (MT) and Pacific Time (PT), the bye teams, and a one-page pick'em sheet with a Monday tiebreaker.
+**NFL.com lists 15 Week 14 games from Thursday, Dec. 10 to Monday, Dec. 14, 2026, with the Arizona Cardinals and Dallas Cowboys on bye and Vikings at Patriots opening the week at 8:15 p.m. Eastern Time (ET).** The National Football League (NFL) is the source for every game below. You also get a time-zone table in ET, Central Time (CT), Mountain Time (MT) and Pacific Time (PT), the two bye teams, and a one-page pick'em sheet topped off with a Monday tiebreaker.
 
 ## What is the NFL Week 14 schedule for 2026?
 
@@ -154,6 +155,10 @@ Three. NFL.com lists games on Thursday, Sunday and Monday, with none on Friday, 
 
 NFL.com says dates and times for the designated Week 16 matchups will be announced no later than immediately after Week 14. Under the league's [flexible scheduling procedures](https://www.nfl.com/legal/flexible-scheduling-procedures), Sunday games can be moved, so check NFL.com the week of the game before you plan around a kickoff.
 
+## How many Week 14 games share the 1 p.m. window?
+
+Eight of the 15 games open together at 1 p.m. ET on Sunday, Dec. 13. No other window that week holds as many: the afternoon then thins to Chargers at Raiders at 4:05 p.m. ET and three games at 4:25 p.m. ET, and Bills at Packers at 8:20 p.m. ET closes Sunday.
+
 ## Is there a printable NFL Week 14 pick'em sheet?
 
-Yes. The one-page sheet lists all 15 games in kickoff order with the network, a blank for your pick and a blank for the final score, plus a tiebreaker line for the total points in Monday's Steelers at Jaguars game. Because the first game is Thursday, fill it in before 8:15 p.m. ET on Dec. 10. Pin it beside the [December 2026 printable calendar](/december-calendars.html) or a [printable weekly calendar](/printable-weekly-calendar.html). For other weeks, see our [printable NFL pick'em sheets](/news/printable-nfl-pickem-sheets-2026/).
+Yes. The sheet fits all 15 games on one page in start-time order, shows the network for each, and keeps a space for your pick and the final score, then signs off with a tiebreaker for the total points in Monday's Steelers at Jaguars game. The week starts on Thursday, so have it ready before 8:15 p.m. ET on Dec. 10. Post it beside the [December 2026 printable calendar](/december-calendars.html) or a [printable weekly calendar](/printable-weekly-calendar.html). The rest of the season is on our [printable NFL pick'em sheets](/news/printable-nfl-pickem-sheets-2026/) page.

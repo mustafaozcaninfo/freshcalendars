@@ -4,6 +4,7 @@ seoTitle: "Cavaliers Schedule November 2026: Times, TV, Cup"
 description: "The Cavaliers host Oklahoma City on Mon., Nov. 2, 2026, at 7 p.m. Eastern Time (ET), one of 14 November games in the National Basketball Association (NBA)."
 type: news
 publishedAt: "2026-11-02T11:20:00-05:00"
+updatedAt: "2026-11-05T03:23:00-05:00"
 authors: [jessica-hartwell]
 category: sports
 keywords: ["Cavaliers schedule November 2026", "Cavs game tonight", "Cavs NBA Cup schedule 2026", "Cavaliers printable schedule"]
@@ -136,7 +137,7 @@ The schedule flags four November Cavaliers games as Emirates NBA Cup group play:
 
 ## Back-to-backs and road games in the Cavaliers' November
 
-Reading the dates in the table shows how the month is built. These are our own counts from the NBA's schedule:
+The Cavaliers' only road trip longer than two games runs three stops from Nov. 9 to Nov. 13, and both their back-to-backs come in the first two weeks. These are our own counts from the NBA's schedule:
 
 - **Eight home games, six on the road.** The home dates are Nov. 2, 6, 7, 14, 16, 18, 20 and 29; the six road games are Nov. 4, 9, 11, 13, 23 and 25.
 - **Two back-to-backs:** Nov. 6 and Nov. 7 (both at home) and Nov. 13 and Nov. 14 (at Miami, then home against Dallas).
@@ -147,4 +148,4 @@ Reading the dates in the table shows how the month is built. These are our own c
 
 Yes. The one-page sheet lists all 14 November games with the opponent, home or away, ET start time, national TV and NBA Cup games, and it has an ink-saver version. Keep it next to the [November 2026 printable calendar](/november-calendars.html) or copy the games into a [printable weekly calendar](/printable-weekly-calendar.html). For an opponent's month, see our [Miami Heat schedule for November 2026](/news/miami-heat-schedule-november-2026-game-times-tv-nba-cup-printable/). The [Milwaukee Bucks schedule](/news/milwaukee-bucks-schedule-november-2026-game-times-tv-nba-cup-printable/) covers another team's month too.
 
-Because the NBA's schedule is "subject to change," recheck game times on NBA.com before you head out. Results, injuries and tickets are not part of the NBA's schedule and are not covered here.
+The Cavaliers' longest rest is three days, between Nov. 25 at New York and Nov. 29 at home against Miami. See NBA.com for any last-minute change to the tip-off.

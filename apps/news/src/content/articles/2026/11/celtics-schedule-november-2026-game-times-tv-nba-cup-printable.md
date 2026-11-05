@@ -4,6 +4,7 @@ seoTitle: "Celtics Schedule November 2026: Times, TV, Cup Games"
 description: "The Celtics play at Houston on Mon., Nov. 2, 2026, at 8:30 p.m. Eastern Time (ET), one of 16 November games in the National Basketball Association (NBA)."
 type: news
 publishedAt: "2026-11-02T10:12:00-05:00"
+updatedAt: "2026-11-05T03:23:00-05:00"
 authors: [jessica-hartwell]
 category: sports
 keywords: ["Celtics schedule November 2026", "Celtics game tonight", "Celtics NBA Cup schedule 2026", "Celtics printable schedule"]
@@ -140,7 +141,7 @@ The schedule flags three November Celtics games as Emirates NBA Cup group play: 
 
 ## Back-to-backs and road games in the Celtics' November
 
-Reading the dates in the table shows how the month is built. These are our own counts from the NBA's schedule:
+The Celtics play five back-to-back sets in November, four of them with both games away from TD Garden. These are our own counts from the NBA's schedule:
 
 - **Twelve road games, four home.** Of the 16 games, only Nov. 4, 15, 16 and 27 are at TD Garden; the other 12 are away.
 - **Five back-to-backs:** Nov. 1 and Nov. 2 (both away), Nov. 10 and Nov. 11 (both away), Nov. 15 and Nov. 16 (both home), Nov. 21 and Nov. 22 (both away), and Nov. 29 and Nov. 30 (both away).
@@ -151,6 +152,4 @@ Reading the dates in the table shows how the month is built. These are our own c
 
 Yes. The one-page sheet lists all 16 November games with the opponent, home or away, ET start time, national TV and NBA Cup games, and it has an ink-saver version. Keep it next to the [November 2026 printable calendar](/november-calendars.html) or copy the games into a [printable weekly calendar](/printable-weekly-calendar.html). For another team's month, see our [Knicks schedule for November 2026](/news/knicks-schedule-november-2026-game-times-tv-nba-cup-printable/).
 
-Because the NBA's schedule is "subject to change," recheck game times on NBA.com before you head out. Results, injuries and tickets are not part of the NBA's schedule and are not covered here.
-</content>
-</invoke>
+Six of the Celtics' 16 November dates are Saturday or Sunday games. Look up the current time on NBA.com close to game day.

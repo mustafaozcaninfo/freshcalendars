@@ -4,7 +4,7 @@ seoTitle: "NFL Week 9 Schedule 2026: Times and Pick'em Sheet"
 description: "National Football League (NFL) Week 9: 15 games, Thu., Nov. 5 to Mon., Nov. 9, 2026, with Eastern Time (ET) kickoffs, TV channels and a printable pick'em sheet."
 type: news
 publishedAt: "2026-10-29T03:43:00-04:00"
-updatedAt: "2026-11-01T02:50:00-05:00"
+updatedAt: "2026-11-05T03:26:00-05:00"
 authors: [jessica-hartwell]
 category: sports
 keywords: ["NFL Week 9 schedule 2026", "NFL Week 9 pick em sheet printable", "NFL Week 9 game times TV", "Bengals Falcons Madrid time"]
@@ -106,7 +106,7 @@ downloads:
 draft: false
 ---
 
-**The National Football League (NFL) plays 15 Week 9 games from Thursday, Nov. 5 to Monday, Nov. 9, 2026, including Bengals vs. Falcons in Madrid at 9:30 a.m. Eastern Time (ET) on Sunday, according to NFL.com.** Below: every game with its network, the kickoff in each U.S. time zone and the United Kingdom, and a one-page pick'em sheet with blanks for your picks, the final scores and a Monday tiebreaker.
+**The National Football League (NFL) plays 15 Week 9 games from Thursday, Nov. 5 to Monday, Nov. 9, 2026, including Bengals vs. Falcons in Madrid at 9:30 a.m. Eastern Time (ET) on Sunday, according to NFL.com.** This page carries every game with its network, each kickoff in the U.S. time zones and the United Kingdom, and a printable one-page pick'em sheet with spaces for your picks, the final scores and a Monday tiebreaker.
 
 ## What is the NFL Week 9 schedule for 2026?
 
@@ -148,9 +148,13 @@ The Central Time (CT), Mountain Time (MT), Pacific Time (PT) and United Kingdom 
 
 NFL.com lists Bengals vs. Falcons on Sunday, Nov. 8 at 9:30 a.m. ET on NFL Network. In Madrid, on Central European Time (CET, UTC+1), that is 3:30 p.m. In the United Kingdom it is 2:30 p.m. Our [NFL international games story](/news/nfl-international-games-november-2026-madrid-munich-mexico-city-kickoff-times/) has the stadium, Bernabéu Stadium, and the Munich and Mexico City games that follow.
 
+## How many Week 9 games kick off in primetime?
+
+Three Week 9 games stand alone in national primetime: Jaguars at Ravens on Thursday at 8:15 p.m. ET on Prime Video, Buccaneers at Bears on Sunday at 8:20 p.m. ET on NBC, and Bills at Vikings on Monday at 8:15 p.m. ET. The earliest kickoff of the week sits at the opposite end of the clock, with Bengals vs. Falcons from Madrid at 9:30 a.m. ET on Sunday, so the slate runs from mid-morning to late at night.
+
 ## Is there a printable NFL Week 9 pick'em sheet?
 
-Yes. The one-page sheet lists all 15 games in kickoff order with the network, a blank for your pick and a blank for the final score, plus a tiebreaker line for the total points in Monday's Bills at Vikings game. It also has a tick box per row to mark each game as you score it. Pin it beside the [November 2026 printable calendar](/november-calendars.html) or a [printable weekly calendar](/printable-weekly-calendar.html), and fill in your picks before the Thursday kickoff.
+Yes. The free one-pager runs all 15 games in kickoff order, each with its network and a blank for your pick and the final score, and it ends with a tiebreaker for the combined points in Monday's Bills at Vikings game. Every row has a tick box so you can mark a game once it is final. Keep it next to the [November 2026 printable calendar](/november-calendars.html) or a [printable weekly calendar](/printable-weekly-calendar.html), and write your picks in before the Thursday opener.
 
 ## Which games are on Sunday, Nov. 8?
 

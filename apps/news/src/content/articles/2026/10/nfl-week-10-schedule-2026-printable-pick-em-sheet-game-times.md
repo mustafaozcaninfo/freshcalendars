@@ -4,6 +4,7 @@ seoTitle: "NFL Week 10 Schedule 2026: Times and Pick'em Sheet"
 description: "National Football League (NFL) Week 10 has 14 games, Nov. 12 to 16, 2026: Eastern Time (ET) kickoffs, TV channels, Munich time and a printable pick'em sheet."
 type: news
 publishedAt: "2026-10-29T11:46:00-04:00"
+updatedAt: "2026-11-05T03:26:00-05:00"
 authors: [jessica-hartwell]
 category: sports
 keywords: ["NFL Week 10 schedule 2026", "NFL Week 10 2026 game times", "NFL Week 10 pick em sheet printable", "Patriots Lions Munich time"]
@@ -101,7 +102,7 @@ related: [nfl-week-11-schedule-2026-printable-pick-em-sheet-game-times, nfl-trad
 draft: false
 ---
 
-**The National Football League (NFL) plays 14 Week 10 games from Thursday, Nov. 12 to Monday, Nov. 16, 2026, including Patriots at Lions in Munich at 9:30 a.m. Eastern Time (ET) on Sunday, according to NFL.com.** Below: every game with its network, the kickoff in each U.S. time zone and in Munich, and a one-page pick'em sheet with blanks for your picks, the final scores and a Monday tiebreaker.
+**The National Football League (NFL) plays 14 Week 10 games from Thursday, Nov. 12 to Monday, Nov. 16, 2026, including Patriots at Lions in Munich at 9:30 a.m. Eastern Time (ET) on Sunday, according to NFL.com.** You will find every game with its network, the kickoff in each U.S. time zone and in Munich, plus a one-page pick'em sheet that has room for your picks, the final scores and a Monday tiebreaker.
 
 ## What is the NFL Week 10 schedule for 2026?
 
@@ -142,9 +143,13 @@ The Central Time (CT), Mountain Time (MT) and Pacific Time (PT) columns are our 
 
 NFL.com lists Patriots at Lions in Munich, Germany on Sunday, Nov. 15 at 9:30 a.m. ET on FOX, with the Lions as the listed home team. In Munich, on Central European Time (CET, UTC+1), that is 3:30 p.m. By our conversion, both places are on standard time that day, so the gap is six hours. Our [NFL international games story](/news/nfl-international-games-november-2026-madrid-munich-mexico-city-kickoff-times/) covers the Munich game with the Madrid and Mexico City games.
 
+## How many teams are on bye in NFL Week 10?
+
+Four teams sit out Week 10: the Chicago Bears, Denver Broncos, Philadelphia Eagles and Tampa Bay Buccaneers. With four of the 32 teams idle, the other 28 are in action across the 14 games listed above.
+
 ## Is there a printable NFL Week 10 pick'em sheet?
 
-Yes. The one-page sheet lists all 14 games in kickoff order with the network, a blank for your pick and a blank for the final score, plus a tiebreaker line for the total points in Monday's Chargers at Ravens game. It also has a tick box per row to mark each game as you score it. Pin it beside the [November 2026 printable calendar](/november-calendars.html) or a [printable weekly calendar](/printable-weekly-calendar.html), and fill in your picks before the Thursday kickoff.
+Yes. The printable sheet sets out all 14 games in start-time order, naming the network beside each and leaving you a space for the pick and the final score, and it closes with a tiebreaker for the total points in Monday's Chargers at Ravens game. A tick box sits on every line so you can check games off as the results land. Tape it up alongside the [November 2026 printable calendar](/november-calendars.html) or a [printable weekly calendar](/printable-weekly-calendar.html), and mark your picks ahead of Thursday night.
 
 ## Which games are on Sunday, Nov. 15?
 

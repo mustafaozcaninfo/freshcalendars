@@ -4,6 +4,7 @@ seoTitle: "NFL Week 12 Schedule 2026: Times and Pick'em Sheet"
 description: "National Football League (NFL) Week 12 runs Nov. 25 to 30, 2026: 16 games, no byes, Eastern Time (ET) kickoffs, TV channels and a printable pick'em sheet."
 type: news
 publishedAt: "2026-10-31T10:30:00-04:00"
+updatedAt: "2026-11-05T03:26:00-05:00"
 authors: [jessica-hartwell]
 category: sports
 keywords: ["NFL Week 12 schedule 2026", "NFL Week 12 pick em sheet printable", "NFL Thanksgiving 2026 game times", "NFL Thanksgiving Eve game time"]
@@ -104,7 +105,7 @@ related: [nfl-week-13-schedule-2026-printable-pick-em-sheet-game-times, printabl
 draft: false
 ---
 
-**The National Football League (NFL) plays 16 Week 12 games from Wednesday, Nov. 25 to Monday, Nov. 30, 2026, with all 32 teams in action and Thanksgiving Day kickoffs at 1, 4:30 and 8:20 p.m. Eastern Time (ET), according to NFL.com.** Below: every game with its network, a time-zone table in ET, Central Time (CT), Mountain Time (MT) and Pacific Time (PT), and a one-page pick'em sheet with a Monday tiebreaker.
+**The National Football League (NFL) plays 16 Week 12 games from Wednesday, Nov. 25 to Monday, Nov. 30, 2026, with all 32 teams in action and Thanksgiving Day kickoffs at 1, 4:30 and 8:20 p.m. Eastern Time (ET), according to NFL.com.** Scroll on for every game with its network, a time-zone table covering ET, Central Time (CT), Mountain Time (MT) and Pacific Time (PT), and a one-page pick'em sheet capped with a Monday tiebreaker.
 
 ## What is the NFL Week 12 schedule for 2026?
 
@@ -158,6 +159,10 @@ Five game days spread over six. NFL.com lists games on Wednesday, Thursday, Frid
 
 Yes, for Sunday afternoon games. The NFL's flexible scheduling procedures say only Sunday afternoon games, or games still to be determined, can move. Sunday Night Football can be flexed in any week from Week 11 to 17 and Monday Night Football in Weeks 12 to 17, with notice "no later than 12 days before the game." Counting back from Nov. 29 and Nov. 30, that puts the decisions by Tuesday, Nov. 17 for Sunday night and Wednesday, Nov. 18 for Monday night, by our calculation. The Thanksgiving and Wednesday games are not covered by the flex rule. Check NFL.com before game day.
 
+## How long does Thanksgiving Day football run in Week 12?
+
+Thanksgiving Day, Thursday, Nov. 26, carries three games in a row: Bears at Lions at 1 p.m. ET, Eagles at Cowboys at 4:30 p.m. ET and Chiefs at Bills at 8:20 p.m. ET. From the opening kickoff to the nightcap, the holiday slate spans 7 hours and 20 minutes.
+
 ## Is there a printable NFL Week 12 pick'em sheet?
 
-Yes. The one-page sheet lists all 16 games in kickoff order with the network, a blank for your pick and a blank for the final score, plus a tiebreaker line for the total points in Monday's Panthers at Buccaneers game. Because the first game is Wednesday, fill it in before 8 p.m. ET on Nov. 25. Pin it beside the [November 2026 printable calendar](/november-calendars.html) or a [printable weekly calendar](/printable-weekly-calendar.html). For other weeks, see our [printable NFL pick'em sheets](/news/printable-nfl-pickem-sheets-2026/).
+Yes. The one-pager runs through all 16 games in start-time order, with the network against each and open spaces for your pick and the final score, and it wraps up with a tiebreaker on the total points in Monday's Panthers at Buccaneers game. Since the week opens on Wednesday, get it filled in before 8 p.m. ET on Nov. 25. Hang it beside the [November 2026 printable calendar](/november-calendars.html) or a [printable weekly calendar](/printable-weekly-calendar.html). For other weeks, see our [printable NFL pick'em sheets](/news/printable-nfl-pickem-sheets-2026/).

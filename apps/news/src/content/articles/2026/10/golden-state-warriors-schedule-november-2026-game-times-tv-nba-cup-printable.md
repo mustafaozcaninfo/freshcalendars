@@ -4,7 +4,7 @@ seoTitle: "Warriors Schedule November 2026: Times, TV, Cup"
 description: "The Warriors host Phoenix on Mon., Nov. 2, 2026, at 7 p.m. Pacific Time (PT), 10 p.m. Eastern Time (ET), with all 14 November games and times."
 type: explainer
 publishedAt: "2026-10-31T01:40:00-04:00"
-updatedAt: "2026-11-02T14:10:00-05:00"
+updatedAt: "2026-11-05T03:23:00-05:00"
 authors: [jessica-hartwell]
 category: sports
 keywords: ["warriors schedule november 2026", "warriors game tonight", "warriors schedule printable", "warriors nba cup schedule 2026"]
@@ -158,4 +158,4 @@ For another West team's month, see the [Denver Nuggets November schedule](/news/
 
 Yes. The one-page sheet lists all 14 November games with the opponent, home or away, PT and ET times, national TV and the NBA Cup label, and it has an ink-saver version. Keep it next to the [November 2026 printable calendar](/november-calendars.html) or copy the games onto a [printable weekly calendar](/printable-weekly-calendar.html).
 
-Because the NBA's schedule is "subject to change," recheck game times on NBA.com before you head out. Records, injuries and tickets are not part of the NBA's schedule and are not covered here.
+All four of the Warriors' weekend games in November are at Chase Center, on Nov. 1, 7, 22 and 29. Always confirm the night's start time on NBA.com first.

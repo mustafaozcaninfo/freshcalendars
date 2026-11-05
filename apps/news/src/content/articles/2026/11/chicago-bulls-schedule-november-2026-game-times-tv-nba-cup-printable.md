@@ -4,6 +4,7 @@ seoTitle: "Bulls Schedule November 2026: Times, TV, Cup Games"
 description: "The Bulls play at Philadelphia on Mon., Nov. 2, 2026, at 6:30 p.m. Central Time (CT), 7:30 p.m. Eastern Time (ET), first of 13 November games."
 type: news
 publishedAt: "2026-11-02T10:10:00-05:00"
+updatedAt: "2026-11-05T03:23:00-05:00"
 authors: [jessica-hartwell]
 category: sports
 keywords: ["Bulls schedule November 2026", "Bulls game tonight", "Chicago Bulls NBA Cup schedule 2026", "Bulls printable schedule"]
@@ -134,7 +135,7 @@ The schedule flags three November Bulls games as Emirates NBA Cup group play: ag
 
 ## Back-to-backs and home stands in the Bulls' November
 
-Reading the dates in the table shows how the month is built. These are our own counts from the NBA's schedule:
+The Bulls have just two back-to-backs in November and never play more than three road games in a row. These are our own counts from the NBA's schedule:
 
 - **Back-to-backs:** Fri., Nov. 13 and Sat., Nov. 14 (home, then at Minnesota), and Sun., Nov. 22 and Mon., Nov. 23 (both at home).
 - **Two three-game home stands:** Nov. 8, 11 and 13 at the United Center, and again Nov. 20, 22 and 23.
@@ -147,4 +148,4 @@ Seven home games and six road games make 13 in all, from Nov. 2 to Nov. 28.
 
 Yes. The one-page sheet lists all 13 November games with the opponent, home or away, CT and ET start times and NBA Cup games, and it has an ink-saver version. Keep it next to the [November 2026 printable calendar](/november-calendars.html) or copy the games into a [printable weekly calendar](/printable-weekly-calendar.html). For another team's month, see our [Knicks schedule for November 2026](/news/knicks-schedule-november-2026-game-times-tv-nba-cup-printable/). The [Dallas Mavericks schedule](/news/dallas-mavericks-schedule-november-2026-game-times-tv-nba-cup-printable/) covers that team's games too.
 
-Because the NBA's schedule is "subject to change," recheck game times on NBA.com before you head out. Results, injuries and tickets are not part of the NBA's schedule and are not covered here.
+The Bulls play four of their 13 games on weekends, on Nov. 8, 14, 22 and 28. Confirm the tip on NBA.com, as dates and times can shift.

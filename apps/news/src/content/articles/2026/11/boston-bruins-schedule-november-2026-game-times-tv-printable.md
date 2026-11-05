@@ -4,6 +4,7 @@ seoTitle: "Bruins Schedule November 2026: Times and TV"
 description: "The Bruins play 11 games in November 2026, starting Mon., Nov. 2, at 7 p.m. Eastern Time (ET) against Vegas, per the National Hockey League (NHL) schedule."
 type: news
 publishedAt: "2026-11-02T11:20:00-05:00"
+updatedAt: "2026-11-05T03:23:00-05:00"
 authors: [jessica-hartwell]
 category: sports
 keywords: ["Bruins schedule November 2026", "Bruins game tonight", "Bruins TV schedule", "Bruins Maple Leafs November 27 2026", "Bruins printable schedule"]
@@ -142,6 +143,4 @@ Another NHL date this season is the [2027 Winter Classic](/news/nhl-winter-class
 
 Yes. It is free. The one-page sheet lists all 11 games with the opponent, home or away, ET start time and TV, and it has an ink-saver version. Keep it next to the [November 2026 printable calendar](/november-calendars.html) or copy the games into a [printable weekly calendar](/printable-weekly-calendar.html).
 
-Recheck the NHL schedule before game day. Results, standings, injuries and tickets are not part of this story.
-</content>
-</invoke>
+The Bruins never go more than three days between games in November, and their only back-to-back is Nov. 17 at home and Nov. 18 at Detroit. Verify the start on NHL.com in case a game moves.

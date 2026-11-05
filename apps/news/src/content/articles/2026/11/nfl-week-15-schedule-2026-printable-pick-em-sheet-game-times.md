@@ -4,6 +4,7 @@ seoTitle: "NFL Week 15 Schedule 2026: Saturday Games, Pick'em"
 description: "National Football League (NFL) Week 15 runs Dec. 17 to 21, 2026: 16 games, no byes, two Saturday games, Eastern Time (ET) kickoffs and a pick'em sheet."
 type: news
 publishedAt: "2026-11-02T06:10:00-05:00"
+updatedAt: "2026-11-05T03:26:00-05:00"
 authors: [jessica-hartwell]
 category: sports
 keywords: ["NFL Week 15 schedule 2026", "NFL Week 15 games 2026", "NFL Saturday games December 19 2026", "NFL Week 15 pick em sheet printable"]
@@ -102,7 +103,7 @@ related: [nfl-week-14-schedule-2026-printable-pick-em-sheet-game-times, fantasy-
 draft: false
 ---
 
-**NFL.com lists 16 Week 15 games from Thursday, Dec. 17 to Monday, Dec. 21, 2026, with no teams on bye and two games on Saturday, Dec. 19.** The National Football League (NFL) is the source for every game below. You also get a time-zone table in Eastern Time (ET), Central Time (CT), Mountain Time (MT) and Pacific Time (PT), and a one-page pick'em sheet with a Monday tiebreaker.
+**NFL.com lists 16 Week 15 games from Thursday, Dec. 17 to Monday, Dec. 21, 2026, with no teams on bye and two games on Saturday, Dec. 19.** The National Football League (NFL) supplies every game listed below. Alongside it you get a time-zone table in Eastern Time (ET), Central Time (CT), Mountain Time (MT) and Pacific Time (PT), plus a one-page pick'em sheet closed out with a Monday tiebreaker.
 
 ## What is the NFL Week 15 schedule for 2026?
 
@@ -162,6 +163,10 @@ Four. NFL.com lists games on Thursday, Saturday, Sunday and Monday, with none on
 
 Yes. Under the league's [flexible scheduling procedures](https://www.nfl.com/legal/flexible-scheduling-procedures), Sunday games can be moved, so check NFL.com the week of the game before you plan around a kickoff.
 
+## How many Week 15 games fall outside Sunday afternoon?
+
+Five of the 16 games sit outside the Sunday afternoon windows: 49ers at Chargers on Thursday, the two Saturday games on Dec. 19, Lions at Vikings on Sunday night and Patriots at Chiefs on Monday. That leaves 11 in the Sunday afternoon blocks, eight at 1 p.m. ET, one at 4:05 p.m. and two at 4:25 p.m. ET.
+
 ## Is there a printable NFL Week 15 pick'em sheet?
 
-Yes. The one-page sheet lists all 16 games in kickoff order with the network, a blank for your pick and a blank for the final score, plus a tiebreaker line for the total points in Monday's Patriots at Chiefs game. Because the first game is Thursday, fill it in before 8:15 p.m. ET on Dec. 17. Pin it beside the [December 2026 printable calendar](/december-calendars.html) or a [printable weekly calendar](/printable-weekly-calendar.html). For other weeks, see our [printable NFL pick'em sheets](/news/printable-nfl-pickem-sheets-2026/).
+Yes. The one-page printout orders all 16 games by kickoff, marks the network on each line, and keeps a blank for your pick and the final score, then ends with a tiebreaker for the total points in Monday's Patriots at Chiefs game. The week tips off on Thursday, so complete it before 8:15 p.m. ET on Dec. 17. Prop it beside the [December 2026 printable calendar](/december-calendars.html) or a [printable weekly calendar](/printable-weekly-calendar.html). You can grab the other weeks from our [printable NFL pick'em sheets](/news/printable-nfl-pickem-sheets-2026/) page.

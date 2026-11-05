@@ -4,6 +4,7 @@ seoTitle: "Bucks Schedule November 2026: Times, TV, Cup Games"
 description: "The Bucks play at Minnesota on Mon., Nov. 2, 2026, at 7 p.m. Central Time (CT), 8 p.m. Eastern Time (ET), first of 16 November games."
 type: news
 publishedAt: "2026-11-02T11:20:00-05:00"
+updatedAt: "2026-11-05T03:23:00-05:00"
 authors: [jessica-hartwell]
 category: sports
 keywords: ["Bucks schedule November 2026", "Bucks game tonight", "Bucks NBA Cup schedule", "Milwaukee Bucks printable schedule"]
@@ -140,7 +141,7 @@ The schedule flags four November Bucks games as Emirates NBA Cup group play: aga
 
 ## Back-to-backs and home stands in the Bucks' November
 
-Reading the dates in the table shows how the month is built. These are our own counts from the NBA's schedule:
+Each of the Bucks' three November back-to-backs pairs a road game with a home game the next night. These are our own counts from the NBA's schedule:
 
 - **Three back-to-backs:** Nov. 10 and 11 (at New York, then home against the LA Lakers), Nov. 18 and 19 (at Miami, then home against Portland), and Nov. 27 and 28 (at Detroit, then home against Oklahoma City).
 - **Two short home stands:** Nov. 6 and 8 at home (Toronto, then Boston), and Nov. 28 and 30 at home (Oklahoma City, then San Antonio).
@@ -153,4 +154,4 @@ Eight home games and eight road games make 16 in all, from Nov. 2 to Nov. 30.
 
 Yes. The one-page sheet lists all 16 November games with the opponent, home or away, CT and ET start times and NBA Cup games, and it has an ink-saver version. Keep it next to the [November 2026 printable calendar](/november-calendars.html) or copy the games into a [printable weekly calendar](/printable-weekly-calendar.html). For another team's month, see our [Celtics schedule for November 2026](/news/celtics-schedule-november-2026-game-times-tv-nba-cup-printable/), the [Cavaliers schedule](/news/cleveland-cavaliers-schedule-november-2026-game-times-tv-nba-cup-printable/) or the [Mavericks schedule](/news/dallas-mavericks-schedule-november-2026-game-times-tv-nba-cup-printable/).
 
-Because the NBA's schedule is "subject to change," recheck game times on NBA.com before you head out. Results, injuries and tickets are not part of the NBA's schedule and are not covered here.
+Four of the Bucks' 16 November games are on a weekend, including a 1 p.m. tip at Philadelphia on Nov. 21. Verify the tip on NBA.com, which reflects any reschedule.
