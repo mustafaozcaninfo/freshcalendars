@@ -4,7 +4,7 @@ seoTitle: "NFL Week 15 Schedule 2026: Saturday Games, Pick'em"
 description: "National Football League (NFL) Week 15 runs Dec. 17 to 21, 2026: 16 games, no byes, two Saturday games, Eastern Time (ET) kickoffs and a pick'em sheet."
 type: news
 publishedAt: "2026-11-02T06:10:00-05:00"
-updatedAt: "2026-11-05T03:26:00-05:00"
+updatedAt: "2026-11-05T09:22:00-05:00"
 authors: [jessica-hartwell]
 category: sports
 keywords: ["NFL Week 15 schedule 2026", "NFL Week 15 games 2026", "NFL Saturday games December 19 2026", "NFL Week 15 pick em sheet printable"]
@@ -103,13 +103,13 @@ related: [nfl-week-14-schedule-2026-printable-pick-em-sheet-game-times, fantasy-
 draft: false
 ---
 
-**NFL.com lists 16 Week 15 games from Thursday, Dec. 17 to Monday, Dec. 21, 2026, with no teams on bye and two games on Saturday, Dec. 19.** The National Football League (NFL) supplies every game listed below. Alongside it you get a time-zone table in Eastern Time (ET), Central Time (CT), Mountain Time (MT) and Pacific Time (PT), plus a one-page pick'em sheet closed out with a Monday tiebreaker.
+**NFL.com lists 16 Week 15 games from Thursday, Dec. 17 to Monday, Dec. 21, 2026, with no teams on bye and two games on Saturday, Dec. 19.** The National Football League (NFL) schedule on NFL.com supplies all 16 games. The page also converts kickoffs to Central Time (CT), Mountain Time (MT) and Pacific Time (PT), compares rest days around the Saturday games and offers a one-page pick'em sheet with a Monday tiebreaker.
 
 ## What is the NFL Week 15 schedule for 2026?
 
-NFL.com lists these games, all times ET. Week 15 comes after the [Week 14 games](/news/nfl-week-14-schedule-2026-printable-pick-em-sheet-game-times/) of Dec. 10 to 14.
+The 16 games below are from NFL.com, with every kickoff in ET. Week 15 follows the [Week 14 games](/news/nfl-week-14-schedule-2026-printable-pick-em-sheet-game-times/) of Dec. 10 to 14.
 
-| Day | Kickoff (ET) | Game | TV |
+| Date | ET | Game | Channel |
 |---|---|---|---|
 | Thu., Dec. 17 | 8:15 p.m. | 49ers at Chargers | Prime Video |
 | Sat., Dec. 19 | 5:00 p.m. | Seahawks at Eagles | FOX / FOX Deportes |
@@ -134,14 +134,14 @@ Two games are listed: Seahawks at Eagles at 5:00 p.m. ET on FOX (also FOX Deport
 
 ## What are the NFL Week 15 kickoffs in each U.S. time zone?
 
-The CT, MT and PT columns are our conversion from the ET kickoffs on NFL.com, not an official schedule. All December dates are on standard time, so there is no clock change to account for.
+The CT, MT and PT columns are our own conversion of the ET kickoffs on NFL.com and are not an official schedule. December kickoffs fall on standard time.
 
-| Window | Games | ET | CT | MT | PT |
+| When | What is on | ET (EST) | CT | MT | PT |
 |---|---|---|---|---|---|
 | Thu., Dec. 17 | 49ers at Chargers | 8:15 p.m. | 7:15 p.m. | 6:15 p.m. | 5:15 p.m. |
 | Sat., Dec. 19 | Seahawks at Eagles | 5:00 p.m. | 4:00 p.m. | 3:00 p.m. | 2:00 p.m. |
 | Sat., Dec. 19 | Bears at Bills | 8:20 p.m. | 7:20 p.m. | 6:20 p.m. | 5:20 p.m. |
-| Sun., Dec. 20 | Eight games | 1:00 p.m. | 12:00 p.m. | 11:00 a.m. | 10:00 a.m. |
+| Sun., Dec. 20 | Eight 1 p.m. games | 1:00 p.m. | 12:00 p.m. | 11:00 a.m. | 10:00 a.m. |
 | Sun., Dec. 20 | Jets at Cardinals | 4:05 p.m. | 3:05 p.m. | 2:05 p.m. | 1:05 p.m. |
 | Sun., Dec. 20 | Two games | 4:25 p.m. | 3:25 p.m. | 2:25 p.m. | 1:25 p.m. |
 | Sun., Dec. 20 | Lions at Vikings | 8:20 p.m. | 7:20 p.m. | 6:20 p.m. | 5:20 p.m. |
@@ -149,19 +149,38 @@ The CT, MT and PT columns are our conversion from the ET kickoffs on NFL.com, no
 
 ## Are any teams on bye in NFL Week 15?
 
-No. NFL.com lists 16 games, so all 32 teams play in Week 15.
+No team has a bye, since NFL.com lists 16 games and all 32 teams play.
 
 ## Which networks show the NFL Week 15 games?
 
-Prime Video has Thursday's 49ers at Chargers. FOX has Saturday's Seahawks at Eagles and CBS has Bears at Bills. At 1 p.m. on Sunday, NFL.com lists FOX for Falcons at Commanders, Bengals at Panthers, Dolphins at Packers and Saints at Buccaneers, and CBS for Ravens at Steelers, Browns at Giants, Colts at Titans and Jaguars at Texans. In the late afternoon, FOX has Jets at Cardinals at 4:05 p.m., and CBS has Cowboys at Rams and Broncos at Raiders at 4:25 p.m. Lions at Vikings is on NBC (also Universo) on Sunday night, and Patriots at Chiefs is on ESPN, ABC, ESPN2 and ESPN Deportes on Monday night.
+Thursday's 49ers at Chargers is on Prime Video, Saturday's Seahawks at Eagles is on FOX and Bears at Bills is on CBS. Among the 1 p.m. Sunday games, FOX has Falcons at Commanders, Bengals at Panthers, Dolphins at Packers and Saints at Buccaneers, and CBS has Ravens at Steelers, Browns at Giants, Colts at Titans and Jaguars at Texans. Late Sunday afternoon, FOX has Jets at Cardinals at 4:05 p.m., and CBS has Cowboys at Rams and Broncos at Raiders at 4:25 p.m. NBC (also Universo) has Lions at Vikings on Sunday night, and Patriots at Chiefs closes the week on ESPN, ABC, ESPN2 and ESPN Deportes on Monday night.
 
 ## How many days of NFL games are in Week 15?
 
-Four. NFL.com lists games on Thursday, Saturday, Sunday and Monday, with none on Friday, Dec. 18. Sunday carries 12 of the 16 games.
+Games land on four days: Thursday, Saturday, Sunday and Monday. Friday, Dec. 18 has none, and 12 of the 16 games are on Sunday, per NFL.com.
 
 ## Can the NFL Week 15 times change?
 
-Yes. Under the league's [flexible scheduling procedures](https://www.nfl.com/legal/flexible-scheduling-procedures), Sunday games can be moved, so check NFL.com the week of the game before you plan around a kickoff.
+Possibly. The league's [flexible scheduling procedures](https://www.nfl.com/legal/flexible-scheduling-procedures) allow Sunday games to move, so look at NFL.com during game week before you set plans around a kickoff.
+
+## Week 15 turnarounds: Seahawks, Eagles, Bears and Bills play Saturday on six days
+
+The Saturday games shorten the week for four teams. The Seattle Seahawks, Philadelphia Eagles, Chicago Bears and Buffalo Bills all played on Sunday, Dec. 13 and have six days until Saturday, Dec. 19. The San Francisco 49ers and Los Angeles Chargers have four before Thursday, Dec. 17. The Dallas Cowboys and Arizona Cardinals were on bye in Week 14 and last played Dec. 7 and Dec. 6, so they come back after 13 and 14 days. The Minnesota Vikings, who played Thursday, Dec. 10, wait 10 days and the New England Patriots 11.
+
+| Team | Previous game | Days of rest | Week 15 game (ET) |
+|---|---|---|---|
+| 49ers | Sun., Dec. 13 vs. Rams | 4 | Thu., Dec. 17, 8:15 p.m., at Chargers |
+| Chargers | Sun., Dec. 13 at Raiders | 4 | Thu., Dec. 17, 8:15 p.m., vs. 49ers |
+| Seahawks | Sun., Dec. 13 vs. Giants | 6 | Sat., Dec. 19, 5 p.m., at Eagles |
+| Eagles | Sun., Dec. 13 vs. Colts | 6 | Sat., Dec. 19, 5 p.m., vs. Seahawks |
+| Bears | Sun., Dec. 13 at Dolphins | 6 | Sat., Dec. 19, 8:20 p.m., at Bills |
+| Bills | Sun., Dec. 13 at Packers | 6 | Sat., Dec. 19, 8:20 p.m., vs. Bears |
+| Vikings | Thu., Dec. 10 at Patriots | 10 | Sun., Dec. 20, 8:20 p.m., vs. Lions |
+| Patriots | Thu., Dec. 10 vs. Vikings | 11 | Mon., Dec. 21, 8:15 p.m., at Chiefs |
+| Cowboys | Mon., Dec. 7 at Seahawks | 13 | Sun., Dec. 20, 4:25 p.m., at Rams |
+| Cardinals | Sun., Dec. 6 vs. Eagles | 14 | Sun., Dec. 20, 4:05 p.m., vs. Jets |
+
+Days of rest are calendar days between the two dates, counted by us from the NFL.com data.
 
 ## How many Week 15 games fall outside Sunday afternoon?
 
@@ -169,4 +188,4 @@ Five of the 16 games sit outside the Sunday afternoon windows: 49ers at Chargers
 
 ## Is there a printable NFL Week 15 pick'em sheet?
 
-Yes. The one-page printout orders all 16 games by kickoff, marks the network on each line, and keeps a blank for your pick and the final score, then ends with a tiebreaker for the total points in Monday's Patriots at Chiefs game. The week tips off on Thursday, so complete it before 8:15 p.m. ET on Dec. 17. Prop it beside the [December 2026 printable calendar](/december-calendars.html) or a [printable weekly calendar](/printable-weekly-calendar.html). You can grab the other weeks from our [printable NFL pick'em sheets](/news/printable-nfl-pickem-sheets-2026/) page.
+Yes. The one-page PDF orders the 16 games by kickoff, names the network on each line, and gives you room for a pick and the final score, with a last-line tiebreaker on the total points in Monday's Patriots at Chiefs game. Thursday opens the week, so finish it before 8:15 p.m. ET on Dec. 17. Set it next to the [December 2026 printable calendar](/december-calendars.html) or a [printable weekly calendar](/printable-weekly-calendar.html). You can grab the other weeks from our [printable NFL pick'em sheets](/news/printable-nfl-pickem-sheets-2026/) page.

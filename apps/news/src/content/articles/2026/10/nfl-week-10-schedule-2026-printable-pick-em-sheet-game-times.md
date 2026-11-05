@@ -4,7 +4,7 @@ seoTitle: "NFL Week 10 Schedule 2026: Times and Pick'em Sheet"
 description: "National Football League (NFL) Week 10 has 14 games, Nov. 12 to 16, 2026: Eastern Time (ET) kickoffs, TV channels, Munich time and a printable pick'em sheet."
 type: news
 publishedAt: "2026-10-29T11:46:00-04:00"
-updatedAt: "2026-11-05T03:26:00-05:00"
+updatedAt: "2026-11-05T09:22:00-05:00"
 authors: [jessica-hartwell]
 category: sports
 keywords: ["NFL Week 10 schedule 2026", "NFL Week 10 2026 game times", "NFL Week 10 pick em sheet printable", "Patriots Lions Munich time"]
@@ -102,11 +102,11 @@ related: [nfl-week-11-schedule-2026-printable-pick-em-sheet-game-times, nfl-trad
 draft: false
 ---
 
-**The National Football League (NFL) plays 14 Week 10 games from Thursday, Nov. 12 to Monday, Nov. 16, 2026, including Patriots at Lions in Munich at 9:30 a.m. Eastern Time (ET) on Sunday, according to NFL.com.** You will find every game with its network, the kickoff in each U.S. time zone and in Munich, plus a one-page pick'em sheet that has room for your picks, the final scores and a Monday tiebreaker.
+**The National Football League (NFL) plays 14 Week 10 games from Thursday, Nov. 12 to Monday, Nov. 16, 2026, including Patriots at Lions in Munich at 9:30 a.m. Eastern Time (ET) on Sunday, according to NFL.com.** The sections below cover the 14-game table, a time-zone grid that includes Munich, a rest-day table for teams on short or long breaks, and a printable pick'em sheet with a Monday total-points tiebreaker.
 
 ## What is the NFL Week 10 schedule for 2026?
 
-NFL.com lists these games, all times ET. The Chicago Bears, Denver Broncos, Philadelphia Eagles and Tampa Bay Buccaneers are on bye. Week 10 is the first week after the league's trade deadline, which falls on Tuesday, Nov. 10, 2026 at 4 p.m. ET, as our [NFL trade deadline story](/news/nfl-trade-deadline-2026-november-10-time-et/) explains. The schedule can change, so check NFL.com before game day.
+The 14 games below come from NFL.com, with kickoffs in ET. The Chicago Bears, Denver Broncos, Philadelphia Eagles and Tampa Bay Buccaneers are on bye. Week 10 is the first week after the league's trade deadline, which falls on Tuesday, Nov. 10, 2026 at 4 p.m. ET, as our [NFL trade deadline story](/news/nfl-trade-deadline-2026-november-10-time-et/) explains. The schedule can change, so check NFL.com before game day.
 
 | Day | Kickoff (ET) | Game | TV |
 |---|---|---|---|
@@ -127,7 +127,7 @@ NFL.com lists these games, all times ET. The Chicago Bears, Denver Broncos, Phil
 
 ## What time is each Week 10 window in my time zone?
 
-The Central Time (CT), Mountain Time (MT) and Pacific Time (PT) columns are our conversion from the ET kickoff on NFL.com, not an official schedule. The United States is on standard time after clocks fell back on Sunday, Nov. 1.
+Our own arithmetic turns NFL.com's ET kickoffs into the Central Time (CT), Mountain Time (MT) and Pacific Time (PT) columns, which are not an official schedule. Standard time has applied since the Sunday, Nov. 1 clock change.
 
 | Window | Games | ET | CT | MT | PT |
 |---|---|---|---|---|---|
@@ -147,9 +147,26 @@ NFL.com lists Patriots at Lions in Munich, Germany on Sunday, Nov. 15 at 9:30 a.
 
 Four teams sit out Week 10: the Chicago Bears, Denver Broncos, Philadelphia Eagles and Tampa Bay Buccaneers. With four of the 32 teams idle, the other 28 are in action across the 14 games listed above.
 
+## Week 10 turnarounds: Giants and Commanders on four days, Ravens on 11
+
+The shortest Week 10 gap is on Thursday, Nov. 12. The Washington Commanders and New York Giants both played on Sunday, Nov. 8, so they have four days. The Buffalo Bills and Minnesota Vikings played Monday, Nov. 9 and have six, and the New England Patriots have seven before Munich. The Tennessee Titans and Pittsburgh Steelers were on bye in Week 9 and last played Nov. 1, 14 days before their Nov. 15 games. The Baltimore Ravens played Thursday, Nov. 5 and do not play again until Monday, Nov. 16, an 11-day gap.
+
+| Team | Previous game | Days of rest | Week 10 game (ET) |
+|---|---|---|---|
+| Commanders | Sun., Nov. 8 vs. Rams | 4 | Thu., Nov. 12, 8:15 p.m., at Giants |
+| Giants | Sun., Nov. 8 at Eagles | 4 | Thu., Nov. 12, 8:15 p.m., vs. Commanders |
+| Bills | Mon., Nov. 9 at Vikings | 6 | Sun., Nov. 15, 1 p.m., at Jets |
+| Vikings | Mon., Nov. 9 vs. Bills | 6 | Sun., Nov. 15, 1 p.m., at Packers |
+| Patriots | Sun., Nov. 8 vs. Packers | 7 | Sun., Nov. 15, 9:30 a.m., at Lions (Munich) |
+| Titans | Sun., Nov. 1 at Bengals | 14 | Sun., Nov. 15, 1 p.m., vs. Jaguars |
+| Steelers | Sun., Nov. 1 vs. Browns | 14 | Sun., Nov. 15, 8:20 p.m., at Bengals |
+| Ravens | Thu., Nov. 5 vs. Jaguars | 11 | Mon., Nov. 16, 8:15 p.m., vs. Chargers |
+
+Days of rest are calendar days between the two dates, counted by us from the NFL.com data.
+
 ## Is there a printable NFL Week 10 pick'em sheet?
 
-Yes. The printable sheet sets out all 14 games in start-time order, naming the network beside each and leaving you a space for the pick and the final score, and it closes with a tiebreaker for the total points in Monday's Chargers at Ravens game. A tick box sits on every line so you can check games off as the results land. Tape it up alongside the [November 2026 printable calendar](/november-calendars.html) or a [printable weekly calendar](/printable-weekly-calendar.html), and mark your picks ahead of Thursday night.
+Yes. The one-page PDF puts the 14 games in start-time order with the network next to each, and every line has blanks for your pick and the final score plus a tick box for finished games. At the bottom, the tiebreaker asks for total points in Monday's Chargers at Ravens game. It pairs well with the [November 2026 printable calendar](/november-calendars.html) or a [printable weekly calendar](/printable-weekly-calendar.html), and your picks should be in before Thursday night.
 
 ## Which games are on Sunday, Nov. 15?
 
@@ -161,4 +178,4 @@ NFL.com lists five Sunday start times, all ET.
 - 4:25 p.m.: 49ers at Cowboys on FOX.
 - 8:20 p.m.: Steelers at Bengals on NBC.
 
-The week before, our [NFL Week 9 schedule](/news/nfl-week-9-schedule-2026-printable-pick-em-sheet-game-times/) lists the 15 games from Nov. 5 to 9. The NFL may change times later in the season; check NFL.com on game day.
+The week before, our [NFL Week 9 schedule](/news/nfl-week-9-schedule-2026-printable-pick-em-sheet-game-times/) lists the 15 games from Nov. 5 to 9. Kickoffs can change later in the season, so recheck NFL.com on game day.

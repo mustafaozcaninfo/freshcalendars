@@ -4,7 +4,7 @@ seoTitle: "NFL Week 12 Schedule 2026: Times and Pick'em Sheet"
 description: "National Football League (NFL) Week 12 runs Nov. 25 to 30, 2026: 16 games, no byes, Eastern Time (ET) kickoffs, TV channels and a printable pick'em sheet."
 type: news
 publishedAt: "2026-10-31T10:30:00-04:00"
-updatedAt: "2026-11-05T03:26:00-05:00"
+updatedAt: "2026-11-05T09:22:00-05:00"
 authors: [jessica-hartwell]
 category: sports
 keywords: ["NFL Week 12 schedule 2026", "NFL Week 12 pick em sheet printable", "NFL Thanksgiving 2026 game times", "NFL Thanksgiving Eve game time"]
@@ -105,13 +105,13 @@ related: [nfl-week-13-schedule-2026-printable-pick-em-sheet-game-times, printabl
 draft: false
 ---
 
-**The National Football League (NFL) plays 16 Week 12 games from Wednesday, Nov. 25 to Monday, Nov. 30, 2026, with all 32 teams in action and Thanksgiving Day kickoffs at 1, 4:30 and 8:20 p.m. Eastern Time (ET), according to NFL.com.** Scroll on for every game with its network, a time-zone table covering ET, Central Time (CT), Mountain Time (MT) and Pacific Time (PT), and a one-page pick'em sheet capped with a Monday tiebreaker.
+**The National Football League (NFL) plays 16 Week 12 games from Wednesday, Nov. 25 to Monday, Nov. 30, 2026, with all 32 teams in action and Thanksgiving Day kickoffs at 1, 4:30 and 8:20 p.m. Eastern Time (ET), according to NFL.com.** The full 16-game list follows, with networks, kickoffs converted into Central Time (CT), Mountain Time (MT) and Pacific Time (PT), a table of how many days each team had since its last game, and a printable pick'em sheet with a Monday tiebreaker.
 
 ## What is the NFL Week 12 schedule for 2026?
 
-NFL.com lists these games, all times ET, and the CBS Sports schedule page matches them. No team is on bye. Week 12 comes after the [Week 11 games](/news/nfl-week-11-schedule-2026-printable-pick-em-sheet-game-times/) of Nov. 19 to 23.
+These 16 games come from NFL.com in ET, and the CBS Sports schedule page matches them. No team is on bye. Week 12 comes after the [Week 11 games](/news/nfl-week-11-schedule-2026-printable-pick-em-sheet-game-times/) of Nov. 19 to 23.
 
-| Day | Kickoff (ET) | Game | TV |
+| Day | Kickoff, ET | Game | Where to watch |
 |---|---|---|---|
 | Wed., Nov. 25 | 8:00 p.m. | Packers at Rams | Netflix |
 | Thu., Nov. 26 | 1:00 p.m. | Bears at Lions | CBS |
@@ -132,9 +132,9 @@ NFL.com lists these games, all times ET, and the CBS Sports schedule page matche
 
 ## What are the Week 12 kickoffs in each U.S. time zone?
 
-The CT, MT and PT columns are our conversion from the ET kickoffs on NFL.com, not an official schedule. Clocks fell back on Sunday, Nov. 1, so every zone is on standard time.
+Our conversion of the NFL.com ET kickoffs gives the CT, MT and PT columns, which are not an official schedule. Every zone has been on standard time since Nov. 1.
 
-| Window | Games | ET | CT | MT | PT |
+| Window | Matchups | ET | CT | MT | PT |
 |---|---|---|---|---|---|
 | Wed., Nov. 25 | Packers at Rams | 8:00 p.m. | 7:00 p.m. | 6:00 p.m. | 5:00 p.m. |
 | Thu., Nov. 26 | Bears at Lions | 1:00 p.m. | 12:00 p.m. | 11:00 a.m. | 10:00 a.m. |
@@ -163,6 +163,26 @@ Yes, for Sunday afternoon games. The NFL's flexible scheduling procedures say on
 
 Thanksgiving Day, Thursday, Nov. 26, carries three games in a row: Bears at Lions at 1 p.m. ET, Eagles at Cowboys at 4:30 p.m. ET and Chiefs at Bills at 8:20 p.m. ET. From the opening kickoff to the nightcap, the holiday slate spans 7 hours and 20 minutes.
 
+## Thanksgiving week turnarounds: four days for all six Thursday teams
+
+Week 12 has no byes, so the gaps come from the calendar. All six teams on Thanksgiving Thursday, Nov. 26 (Bears, Lions, Eagles, Cowboys, Chiefs and Bills) last played on Sunday, Nov. 22, four days earlier. The Denver Broncos and Pittsburgh Steelers, on Black Friday, had five. The Green Bay Packers and Los Angeles Rams open the week on Wednesday, Nov. 25, 10 days after their Nov. 15 games, because both were on bye in Week 11. The Atlanta Falcons, Cleveland Browns, Seattle Seahawks and New England Patriots were also on bye in Week 11 and return on Sunday, Nov. 29, 14 days after Nov. 15.
+
+| Team | Previous game | Days of rest | Week 12 game (ET) |
+|---|---|---|---|
+| Bears | Sun., Nov. 22 vs. Saints | 4 | Thu., Nov. 26, 1 p.m., at Lions |
+| Lions | Sun., Nov. 22 vs. Buccaneers | 4 | Thu., Nov. 26, 1 p.m., vs. Bears |
+| Eagles | Sun., Nov. 22 vs. Steelers | 4 | Thu., Nov. 26, 4:30 p.m., at Cowboys |
+| Cowboys | Sun., Nov. 22 vs. Titans | 4 | Thu., Nov. 26, 4:30 p.m., vs. Eagles |
+| Chiefs | Sun., Nov. 22 vs. Cardinals | 4 | Thu., Nov. 26, 8:20 p.m., at Bills |
+| Bills | Sun., Nov. 22 vs. Dolphins | 4 | Thu., Nov. 26, 8:20 p.m., vs. Chiefs |
+| Broncos | Sun., Nov. 22 vs. Raiders | 5 | Fri., Nov. 27, 3 p.m., at Steelers |
+| Packers | Sun., Nov. 15 vs. Vikings | 10 | Wed., Nov. 25, 8 p.m., at Rams |
+| Rams | Sun., Nov. 15 at Cardinals | 10 | Wed., Nov. 25, 8 p.m., vs. Packers |
+| Falcons | Sun., Nov. 15 vs. Chiefs | 14 | Sun., Nov. 29, 1 p.m., at Vikings |
+| Patriots | Sun., Nov. 15 at Lions | 14 | Sun., Nov. 29, 8:20 p.m., at Chargers |
+
+Days of rest are calendar days between the two dates, counted by us from the NFL.com data.
+
 ## Is there a printable NFL Week 12 pick'em sheet?
 
-Yes. The one-pager runs through all 16 games in start-time order, with the network against each and open spaces for your pick and the final score, and it wraps up with a tiebreaker on the total points in Monday's Panthers at Buccaneers game. Since the week opens on Wednesday, get it filled in before 8 p.m. ET on Nov. 25. Hang it beside the [November 2026 printable calendar](/november-calendars.html) or a [printable weekly calendar](/printable-weekly-calendar.html). For other weeks, see our [printable NFL pick'em sheets](/news/printable-nfl-pickem-sheets-2026/).
+Yes. The one-page PDF covers the 16 games in start-time order, prints the network on each line, and has a blank for your pick and another for the final score. It closes with a tiebreaker for the combined points in Monday's Panthers at Buccaneers game. The week opens on Wednesday, so get your picks in before 8 p.m. ET on Nov. 25. Display it near the [November 2026 printable calendar](/november-calendars.html) or a [printable weekly calendar](/printable-weekly-calendar.html). For other weeks, see our [printable NFL pick'em sheets](/news/printable-nfl-pickem-sheets-2026/).
