@@ -55,7 +55,7 @@ internalLinks:
     label: "December 2026 printable calendar"
   - href: "/march-calendars.html"
     label: "March 2027 printable calendar"
-related: [memphis-shelby-county-schools-calendar-2026-27-breaks, spring-break-2027-dates-school-districts, winter-break-2026-school-districts-dates]
+related: [memphis-shelby-county-schools-calendar-2026-27-breaks, spring-break-2027-dates-school-districts, knox-county-schools-calendar-2026-27-breaks]
 assets:
   overlay: true
   kicker: "Metro Nashville Public Schools · 2026-27"

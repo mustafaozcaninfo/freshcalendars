@@ -99,7 +99,7 @@ internalLinks:
     label: "When is Veterans Day?"
   - href: "/printable-weekly-calendar.html"
     label: "Printable weekly planner"
-related: [veterans-day-2026-wednesday-november-11, golden-corral-military-appreciation-night-2026, veterans-day-parades-2026-by-city]
+related: [veterans-day-2026-wednesday-november-11, veteran-id-card-how-to-prove-veteran-status-discounts, veterans-day-parades-2026-by-city]
 downloads:
   - group: "Veterans Day printables"
     title: "Veterans Day Free Meals Cheat Sheet, 2026"

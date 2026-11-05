@@ -60,7 +60,7 @@ internalLinks:
     label: "Printable school-year calendar 2026-27"
   - href: "/december-calendars.html"
     label: "December 2026 printable calendar"
-related: [wake-county-public-schools-calendar-2026-27-traditional, charlotte-mecklenburg-schools-calendar-2026-27-breaks, spring-break-2027-dates-school-districts]
+related: [wake-county-public-schools-calendar-2026-27-traditional, charlotte-mecklenburg-schools-calendar-2026-27-breaks, greenville-county-schools-calendar-2026-27-breaks]
 assets:
   overlay: true
   kicker: "Guilford County Schools · 2026-27"
