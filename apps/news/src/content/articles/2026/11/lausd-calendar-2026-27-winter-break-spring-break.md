@@ -58,7 +58,7 @@ internalLinks:
     label: "December 2026 printable calendar"
   - href: "/march-calendars.html"
     label: "March 2027 printable calendar"
-related: [san-diego-unified-calendar-2026-27-breaks, winter-break-2026-school-districts-dates, spring-break-2027-dates-school-districts]
+related: [san-diego-unified-calendar-2026-27-breaks, fresno-unified-calendar-2026-27-breaks, winter-break-2026-school-districts-dates]
 assets:
   overlay: true
   kicker: "LAUSD 2026-27"
