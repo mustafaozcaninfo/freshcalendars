@@ -1,7 +1,7 @@
 ---
 title: "NYT Connections Hints and Answers for Thursday, Nov. 12, 2026 (#1250): Two Hints per Group, Then the Answers"
 seoTitle: "Connections Hints & Answers Today, Nov. 12, 2026 (#1250)"
-description: "Connections #1250 for Thursday, Nov. 12, 2026: two levels of hints for every group, the decoy words to avoid, then the full answers at the very end."
+description: "Connections #1250 for Thursday, Nov. 12, 2026: every tile is two words, two hints per color, a 1985 time-travel film in disguise, and the answers last."
 type: explainer
 publishedAt: "2026-11-11T00:05:00-05:00"
 authors: [news-desk]
@@ -12,21 +12,21 @@ hero:
   src: ../../../../assets/news/nyt-connections-hints-answers-november-12-2026-1250/nyt-connections-hints-answers-november-12-2026-1250.jpg
   alt: "Connections hints for Nov. 12, 2026, puzzle #1250: a four-by-four board of word tiles with solved rows in color"
   title: "Connections #1250 hints, Nov. 12, 2026"
-  caption: "Connections puzzle #1250 for Thursday, Nov. 12, 2026; graded hints for each group first, the full solution only at the end."
+  caption: "Connections #1250 for Thursday, Nov. 12, 2026, an all two-word board; graded hints first, the solved grid at the end."
 summary:
-  - "Today's Connections is puzzle #1250, for Thursday, Nov. 12, 2026, from The New York Times."
-  - "Great Scott, Flux Capacitor, Doc Brown and Marty McFly all come from Back to the Future, yet each one belongs to a different group."
-  - "Each group gets two hints, a nudge and then a strong one, each hidden until you open it."
-  - "Full answers are in the last section, marked as spoilers."
+  - "Thursday's Connections is puzzle #1250, for Nov. 12, 2026, from The New York Times."
+  - "All 16 tiles are two words long, so the half you focus on decides the group."
+  - "Four tiles come from one 1985 time-travel film, and the film is not a group."
+  - "Each color gets a soft and a strong hint; answers and decoys come last."
 faq:
   - q: "What number is today's Connections puzzle?"
-    a: "Puzzle #1250, for Thursday, Nov. 12, 2026."
+    a: "Thursday, Nov. 12, 2026, is #1250."
   - q: "What are the Connections answers for Nov. 12, 2026?"
     a: "Spoilers: 'Gadzooks!' (Good Heavens, Great Scott, Holy Smokes, Jiminy Cricket); Starting With Variations (Change Purse, Flux Capacitor, Shift Dress, Swing Set); Ending in Ways to Cook Things (Arctic Char, Comedy Roast, Doc Brown, You're Toast); Starting With Best Picture Oscar Winners (Gladiator Sandals, Marty McFly, Moonlight Sonata, Rocky Road)."
-  - q: "Which words are the traps in Connections #1250?"
-    a: "Great Scott, Flux Capacitor, Doc Brown and Marty McFly all come from Back to the Future, but they land in four different groups: an exclamation, a word for change, a way to cook and a Best Picture title."
-  - q: "When does the next Connections puzzle come out?"
-    a: "At midnight in your local time. Friday's puzzle will be #1251."
+  - q: "Why are the Back to the Future tiles split up in Connections #1250?"
+    a: "Spoilers: the film is a decoy. Great Scott is a cry of surprise, Flux Capacitor starts with a word for change, Doc Brown ends in a way to cook, and Marty McFly starts with a Best Picture winner."
+  - q: "Which year did Marty win Best Picture?"
+    a: "Spoilers: Marty was the best picture of 1955, honored at the Academy Awards in 1956."
 sources:
   - title: "Connections"
     url: "https://www.nytimes.com/games/connections"
@@ -39,49 +39,47 @@ internalLinks:
 related: [wordle-hint-answer-today-november-12-2026-1972, nyt-strands-hints-answers-november-12-2026-984, nyt-pips-hints-answers-november-12-2026]
 draft: false
 ---
-**Today's Connections from The New York Times (NYT) is puzzle #1250, for Thursday, Nov. 12, 2026, edited by Wyna Liu.** All 16 entries are phrases of two or more words, and the groups run from yellow, the easiest, to purple, the trickiest. Four entries come straight from Back to the Future, and that is the trap: no group is about the film. Below are two levels of hints for each color, then the full solution and an explanation of the tricky words in a marked spoiler section.
+**The New York Times puts out Connections #1250 for Thursday, Nov. 12, 2026, edited by Wyna Liu.** All 16 tiles are two-word phrases, and [our Connections hub](/news/topic/nyt-connections/#how-it-works) explains how many wrong guesses you get before the game ends. Hints come first, two per color; the solution sits below a spoiler line.
 
 ## Today's 16 words
 
 Great Scott, Rocky Road, You're Toast, Flux Capacitor, Moonlight Sonata, Jiminy Cricket, Marty McFly, Comedy Roast, Doc Brown, Change Purse, Arctic Char, Good Heavens, Shift Dress, Gladiator Sandals, Holy Smokes, Swing Set
 
-## How the game works
-
-Sort the 16 entries into four groups of four. You can make four mistakes. The groups run from yellow to green, blue and purple, with purple the group that depends most on wordplay.
-
 ## Hints for each group
 
 **Yellow**
 
-- Hint 1: Think of what someone shouts when something startles them, as in an old comic strip.
-- Hint 2: One is a cry to the sky, one is Doc's favorite phrase, one is a puff of something rising, and one is the name of a cartoon insect.
+- Hint 1: Each is an old-fashioned way to say wow when something startles you.
+- Hint 2: One borrows the name of the cricket in Disney's Pinocchio; one calls on the sky above.
 
 **Green**
 
-- Hint 1: Look at the first word of each entry: each is another word for an alteration.
-- Hint 2: One starts with a word for coins you get back, one with a word for steady flow, one with a word for a work period, and one with a word for a sudden move in mood or opinion.
+- Hint 1: Look at the first word of each one: it is another word for an alteration.
+- Hint 2: One is a coin pouch; one is a backyard frame with seats that move back and forth.
 
 **Blue**
 
-- Hint 1: Look at the last word of each entry: each is something you can do to food with heat.
-- Hint 2: One ends in a word for searing until blackened, one in a word for oven-cooking meat, one in a word for browning, and one in a word for crisping bread.
+- Hint 1: The last word of each one is something a cook can do to food with heat.
+- Hint 2: One is a cold-water fish; one is a time-travel scientist from the movies.
 
 **Purple**
 
-- Hint 1: Look at the first word of each entry: each is the title of a film that won the top Academy Award.
-- Hint 2: The four films are from 1976, 1955, 2000 and 2016: a boxer, a butcher from the Bronx, a Roman general and a boy growing up in Miami.
+- Hint 1: The first word of each one is the title of a film that took the top prize at the Academy Awards.
+- Hint 2: One starts with the winning film from 2016; one starts with the winning boxing film from 1976.
 
 ## Solving tips
 
-Ignore the movie for a moment. Great Scott, Flux Capacitor, Doc Brown and Marty McFly look like a group, but there are only those four film names on the board, and that is exactly why they are spread out. Start with the exclamations: three more old-fashioned cries of surprise pair with Great Scott. Then read first words: four entries open with a word that means a change. The cooking group hides in the last words, so purple is whatever is left, each starting with a film title.
+Split every tile into its two halves before you guess. A tile that looks like a film character may count for its first word, its last word, or the phrase as a whole.
 
-Keep a streak log on our [printable weekly calendar](/printable-weekly-calendar.html) or the [November 2026 printable calendar](/november-calendars.html).
+Four tiles come from Back to the Future, the 1985 time-travel film, and no group is about it. Treat that as noise and test each half on its own.
 
-More of today's puzzles: [Wordle hints](/news/wordle-hint-answer-today-november-12-2026-1972/), [Strands hints](/news/nyt-strands-hints-answers-november-12-2026-984/) and [Pips hints](/news/nyt-pips-hints-answers-november-12-2026/).
+If you keep a streak, the [November 2026 printable calendar](/november-calendars.html) has a box for every day, and the [printable weekly calendar](/printable-weekly-calendar.html) leaves room for notes.
+
+Thursday's other games: [Wordle hints](/news/wordle-hint-answer-today-november-12-2026-1972/), [Strands hints](/news/nyt-strands-hints-answers-november-12-2026-984/) and [Pips hints](/news/nyt-pips-hints-answers-november-12-2026/).
 
 ## Today's Connections answers (spoilers)
 
-Stop here if you still want to solve it yourself.
+Spoilers start right below this line.
 
 - **Yellow, "Gadzooks!":** Good Heavens, Great Scott, Holy Smokes, Jiminy Cricket
 - **Green, Starting With Variations:** Change Purse, Flux Capacitor, Shift Dress, Swing Set
@@ -90,10 +88,17 @@ Stop here if you still want to solve it yourself.
 
 ## Why the traps worked
 
-**Great Scott, Flux Capacitor, Doc Brown and Marty McFly.** All four come from Back to the Future, the 1985 film. Great Scott is an exclamation, Flux starts the variations group, Doc Brown ends in Brown, a way to cook, and Marty starts with the title of the 1955 Best Picture winner.
+Great Scott, Flux Capacitor, Doc Brown and Marty McFly all come from Back to the Future, and the board hands one to each color. Great Scott is a cry Doc Brown uses often, Flux names a kind of change, Brown is a way to cook, and Marty won Best Picture for 1955.
 
-**Rocky Road and Gladiator Sandals.** An ice cream flavor and a style of shoe seem unrelated to film. Rocky won Best Picture for 1976 and Gladiator for 2000.
+Rocky Road, an ice cream flavor, can pull you toward the kitchen group with Arctic Char and You're Toast. Jiminy Cricket also opens with a name, like Marty McFly, yet as a whole phrase it is an exclamation.
 
-**Arctic Char and Comedy Roast.** A fish and a comedy event. Char and Roast are both ways to cook, which is what puts them in blue.
+## Decoy map
 
-We checked the solution against the puzzle's official data before posting. Puzzle #1251 arrives at midnight.
+| Entry | Real group | Look-alike group | Why it tempts |
+|---|---|---|---|
+| Rocky Road | Starting With Best Picture Oscar Winners | Ending in Ways to Cook Things | It is a food, like the kitchen tiles. |
+| Doc Brown | Ending in Ways to Cook Things | Starting With Best Picture Oscar Winners | It names a film character, like Marty McFly. |
+| Jiminy Cricket | "Gadzooks!" | Starting With Best Picture Oscar Winners | Its first word is a name, like Marty. |
+| Great Scott | "Gadzooks!" | Ending in Ways to Cook Things | Scott is a surname, like Brown in Doc Brown. |
+
+We matched each group to the puzzle's official data before posting. Friday brings #1251.

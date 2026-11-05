@@ -4,6 +4,7 @@ seoTitle: "Contexto #1510 Hints and Close Words, Nov. 6, 2026"
 description: "Contexto #1510 for Friday, Nov. 6, 2026: the 30 closest words sorted into groups, two guesses that rank far off, a few hints, and the answer at the end."
 type: explainer
 publishedAt: "2026-11-05T00:05:00-05:00"
+updatedAt: "2026-11-05T00:51:00-05:00"
 authors: [news-desk]
 category: puzzles
 keywords: ["Contexto answer today", "Contexto 1510", "Contexto hints", "Contexto November 6 2026", "Contexto today"]

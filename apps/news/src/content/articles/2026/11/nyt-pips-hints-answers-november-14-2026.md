@@ -1,7 +1,7 @@
 ---
-title: "NYT Pips Hints and Answers for Saturday, Nov. 14, 2026: Easy, Medium and Hard Domino Placements"
+title: "NYT Pips Hints and Answers for Saturday, Nov. 14, 2026: Easy, Medium and Hard"
 seoTitle: "Pips Hints & Answers, Nov. 14, 2026: Easy, Medium, Hard"
-description: "Pips for Saturday, Nov. 14, 2026: two hints for each board, then every domino placement for Easy, Medium and Hard from the official puzzle data."
+description: "Pips for Saturday, Nov. 14, 2026: why the 6-6 must cover R1C2 on Hard, two hints per level, then every Easy, Medium and Hard domino placement."
 type: explainer
 publishedAt: "2026-11-13T00:05:00-05:00"
 authors: [news-desk]
@@ -12,21 +12,16 @@ hero:
   src: ../../../../assets/news/nyt-pips-hints-answers-november-14-2026/nyt-pips-hints-answers-november-14-2026.jpg
   alt: "Pips hints for Nov. 14, 2026: dominoes resting on a board of pastel colored regions, no solution shown"
   title: "Pips hints, Nov. 14, 2026"
-  caption: "NYT Pips for Saturday, Nov. 14, 2026: two hints for each board first, every domino placement only in the spoiler section."
+  caption: "Saturday's Pips, Nov. 14, 2026: opening moves and hints at the top; the solution waits in the spoiler section."
 summary:
-  - "Saturday's Pips from The New York Times, Nov. 14, 2026: Easy by Ian Livengood, Medium and Hard by Rodolfo Kurchan."
-  - "The Hard board is nine rows tall, with 16 dominoes, five of them doubles, and a top row of three cells that must add up to 18."
-  - "Two hints per board come first; every placement, from the puzzle data and checked against each region's rule, is at the end."
-  - "Cells are named by row and column from the top left: R1C1 is the top-left cell."
+  - "Saturday's Pips from The New York Times, Nov. 14, 2026: Ian Livengood made Easy, Rodolfo Kurchan made Medium and Hard."
+  - "Hard has five doubles: 2-2, 1-1, 0-0, 4-4 and 6-6."
+  - "Easy has no doubles, which decides how its equal pair can be covered."
 faq:
-  - q: "When does Saturday's Pips puzzle come out?"
-    a: "At midnight in your local time zone on Saturday, Nov. 14, according to The New York Times Help Center. New boards are published every day."
-  - q: "What do the symbols in Pips mean?"
-    a: "A number means the pips in that region add up to it; = means every half-domino in the region shows the same value; ≠ means all are different; > and < mean the total is more or less than the number shown. A region with no condition takes any value."
-  - q: "Who made Saturday's Pips puzzles?"
-    a: "Ian Livengood made the Easy board and Rodolfo Kurchan made the Medium and Hard boards, according to the puzzle data."
-  - q: "How many dominoes are on Saturday's boards?"
-    a: "Five on Easy, seven on Medium and sixteen on Hard, according to the puzzle data."
+  - q: "Why must the 6-6 cover R1C2 on Saturday's Hard Pips?"
+    a: "R1C1, R1C2 and R1C3 add up to 18, so all three are 6s. R1C2 touches only R1C1 and R1C3, so its domino has a 6 on both ends, and the 6-6 is the only domino that does."
+  - q: "When does Sunday's Pips come out?"
+    a: "Sunday's boards go live at midnight in your local time zone, according to The New York Times Help Center."
 sources:
   - title: "Pips"
     url: "https://www.nytimes.com/games/pips"
@@ -43,40 +38,54 @@ related: [wordle-hint-answer-today-november-14-2026-1974, nyt-connections-hints-
 draft: false
 ---
 
-**Saturday's Pips from The New York Times (NYT), for Nov. 14, 2026, has an Easy board by Ian Livengood and Medium and Hard boards by Rodolfo Kurchan; two hints for each come first, and every domino placement is at the end.** The solutions come from the puzzle data the Times publishes for the game and were checked against every region's rule. The boards go live at midnight in your time zone.
+**Saturday's Pips from The New York Times (NYT), Nov. 14, 2026, puts five doubles on the Hard board and opens it with a top row of three 6s.** Ian Livengood made Easy; Rodolfo Kurchan made Medium and Hard. Medium has a not-equal region today, which [our Pips page](/news/topic/nyt-pips/#how-it-works) explains with the other signs. Every placement below comes from the Times' data.
 
-## How Pips works
+## Where each Pips board starts on Nov. 14
 
-You place every domino so that each colored region meets its condition. A number means the pips in the region add up to it; = means every half shows the same value; ≠ means all are different; > and < set a total above or below a number; a region with no condition takes anything. Rows are counted from the top and columns from the left, so R2C5 is the second row, fifth column.
+Cell names give the row, then the column: R9C1 is the bottom-left cell of Hard.
+
+**Easy.** Three dead ends set three dominoes: R1C1 with R2C1, R2C3 with R2C2, and R5C3 with R4C3. That leaves R3C1, R3C2, R4C1 and R4C2. R3C1 and R4C1 must match, and with no doubles in the set they can't share a domino, so R3C1 pairs with R3C2 and R4C1 with R4C2.
+
+**Medium.** R2C2 must be more than 4, and the only half above 4 is the 6 on the 6-3. R1C3 must add up to 0, and the only 0 is on the 0-4. Those two dominoes are placed in part before anything else: each has one half fixed and the other in a neighboring cell.
+
+**Hard.** R1C1, R1C2 and R1C3 must add up to 18, so each is a 6. R1C2 touches only R1C1 and R1C3, so whichever it pairs with, its domino is 6 on both ends: the 6-6.
+
+## Saturday's three Pips boards side by side
+
+| Level | Dominoes | Regions | Sum | Equal | Not equal | Less or more than | No condition |
+|---|---|---|---|---|---|---|---|
+| Easy | 5 | 6 | 3 | 1 | 0 | 1 | 1 |
+| Medium | 7 | 8 | 3 | 1 | 1 | 3 | 0 |
+| Hard | 16 | 17 | 11 | 1 | 1 | 3 | 1 |
+
+Counts come from the Times' data for Nov. 14. Medium has three single-cell sums, Easy one and Hard five.
 
 ## Saturday's Pips hints, Nov. 14, 2026
 
 **Easy (five dominoes: 2-4, 2-0, 2-6, 4-1, 4-3)**
 
-- Hint 1: R1C1 must add up to 4. Three halves show a 4, on the 2-4, 4-1 and 4-3 dominoes.
-- Hint 2: R3C1 and R4C1 must be equal. Only the 2 and the 4 appear more than once on the board.
+- Hint 1: R1C1 must be a 4. Three dominoes carry one: the 2-4, the 4-1 and the 4-3.
+- Hint 2: R2C2 and R3C2 add up to 8, and R2C3 to their right must be more than 2.
 
 **Medium (seven dominoes: 3-2, 2-2, 0-4, 6-3, 4-1, 4-4, 3-3)**
 
-- Hint 1: R1C3 must add up to 0, and the only 0 is on the 0-4 domino.
-- Hint 2: R2C2 must be more than 4. The only value above 4 is the 6 on the 6-3 domino.
+- Hint 1: R1C3 must add up to 0, and only the 0-4 has a 0.
+- Hint 2: R1C1, R2C1 and R1C2 must match. Three doubles, 2-2, 4-4 and 3-3, could each cover two of them.
 
 **Hard (sixteen dominoes on a nine-row board)**
 
-- Hint 1: R1C1, R1C2 and R1C3 must add up to 18, so all three hold a 6, the highest value. Six halves show a 6, and the 6-6 double supplies two of them.
-- Hint 2: R9C1 must be more than 5, so it holds a 6 too.
+- Hint 1: R3C1, R5C5 and R7C4 must each be 0. Five halves show a 0.
+- Hint 2: R7C7, R8C7 and R9C7 must match, and R7C7 touches only R8C7, so that domino is a double.
 
-## Solving tips
+## Reading the boards before you check
 
-Look for the targets that force the highest or lowest value. On Saturday's Hard board, 18 from three cells can only be three 6s, and R9C1 needs another. Three cells must hold a 0: R3C1, R5C5 and R7C4, and the four-cell region R8C4, R9C4, R9C5 and R9C6 adds up to only 5. Easy and Hard each have one cell with no condition, R2C1 on both boards; Medium has none. Hard has five doubles: 2-2, 1-1, 0-0, 4-4 and 6-6. Medium has three: 2-2, 4-4 and 3-3.
+Hard has eight dead-end cells, among them R7C2, R9C1 and R7C4, so many dominoes are placed in outline before you test a value. R2C1 is Hard's only blank. On Medium, R2C3, R2C4 and R2C5 must all differ, and R4C3 must be under 3.
 
-More of Saturday's puzzles: [Wordle hints](/news/wordle-hint-answer-today-november-14-2026-1974/), [Connections hints](/news/nyt-connections-hints-answers-november-14-2026-1252/) and [Strands hints](/news/nyt-strands-hints-answers-november-14-2026-986/). Track your solve times on our [printable weekly calendar](/printable-weekly-calendar.html) or the [November 2026 calendar](/november-calendars.html).
+Saturday's other puzzles: [Wordle hints](/news/wordle-hint-answer-today-november-14-2026-1974/), [Connections hints](/news/nyt-connections-hints-answers-november-14-2026-1252/) and [Strands hints](/news/nyt-strands-hints-answers-november-14-2026-986/). Weekend times can go on the [printable weekly calendar](/printable-weekly-calendar.html) or the [November 2026 calendar](/november-calendars.html).
 
 ## Saturday's Pips answers, Nov. 14, 2026 (spoilers)
 
-Stop here if you want to solve the boards yourself.
-
-The values below are the arrangement that fits the placements in the puzzle data and every region's condition.
+Here is the solution. Each line names a domino, then the cell and value for each half.
 
 **Easy, by Ian Livengood.** Regions: R5C3, R4C3 and R4C2 add up to 8; R2C2 and R3C2 add up to 8; R4C1 and R3C1 are equal; R1C1 adds up to 4; R2C3 is more than 2; R2C1 takes any value.
 
@@ -115,4 +124,4 @@ The values below are the arrangement that fits the placements in the puzzle data
 - 4-4: R3C2 = 4, R3C3 = 4
 - 6-6: R1C1 = 6, R1C2 = 6
 
-Flipping any one domino in the puzzle data's placements breaks a rule on Medium. On Easy, the 2-6 can be flipped without breaking a rule, and on Hard, the 6-2, 2-1, 3-6 and 2-3. Sunday's boards arrive at midnight.
+Easy's 2-6 can be flipped without breaking a rule. On Hard, the 6-2, 2-1, 3-6 and 2-3 can be turned around; nothing on Medium can. Sunday's boards open at midnight.

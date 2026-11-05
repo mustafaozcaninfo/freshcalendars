@@ -1,9 +1,10 @@
 ---
 title: "NYT Connections Hints and Answers for Friday, Nov. 6, 2026 (#1244): Two Hints per Group, Then the Answers"
 seoTitle: "Connections Hints & Answers Today, Nov. 6, 2026 (#1244)"
-description: "Connections #1244 for Friday, Nov. 6, 2026: two levels of hints for every group, the decoy words to avoid, then the full answers at the very end."
+description: "Connections #1244 for Friday, Nov. 6, 2026: two tap-to-open hints per color, three tiles with the same ending to watch, and the full solution saved for last."
 type: explainer
 publishedAt: "2026-11-05T00:05:00-05:00"
+updatedAt: "2026-11-05T00:46:00-05:00"
 authors: [news-desk]
 category: puzzles
 keywords: ["Connections hints today", "NYT Connections November 6 2026", "Connections 1244", "Connections answers today", "NYT Connections hints"]
@@ -12,21 +13,21 @@ hero:
   src: ../../../../assets/news/nyt-connections-hints-answers-november-6-2026-1244/nyt-connections-hints-answers-november-6-2026-1244.jpg
   alt: "Connections hints for Nov. 6, 2026, puzzle #1244: a four-by-four board of word tiles with two rows solved in yellow and green"
   title: "Connections #1244 hints, Nov. 6, 2026"
-  caption: "Connections puzzle #1244 for Friday, Nov. 6, 2026; graded hints for each group first, the full solution only at the end."
+  caption: "Connections #1244 for Friday, Nov. 6, 2026, a grid where three tiles share an ending; the solved groups sit at the bottom."
 summary:
-  - "Today's Connections is puzzle #1244, for Friday, Nov. 6, 2026, from The New York Times."
-  - "Backup, Pickup and Makeup all end in \"up\", yet they sit in three different groups."
-  - "Each group gets two hints, a nudge and then a strong one."
-  - "Full answers are in the last section, marked as spoilers."
+  - "Connections #1244 is Friday's puzzle, for Nov. 6, 2026, from The New York Times."
+  - "Three tiles end in the same two letters and still land in three separate groups."
+  - "Two tiles are two-word phrases; every other tile is a single word."
+  - "Hints open one at a time, and a decoy table follows the answers."
 faq:
   - q: "What number is today's Connections puzzle?"
-    a: "Puzzle #1244, for Friday, Nov. 6, 2026."
+    a: "Friday's grid, for Nov. 6, 2026, is #1244."
   - q: "What are the Connections answers for Nov. 6, 2026?"
     a: "Spoilers: Composition (Constitution, Fabric, Makeup, Structure); Copy (Backup, Extra, Replacement, Spare); Kinds of Trucks (Flatbed, Pickup, Semi, Tanker); Ending in Parts of the Eye (Hot Rod, Osiris, Traffic Cone, Woolens)."
-  - q: "Which words are the traps in Connections #1244?"
-    a: "Backup, Pickup and Makeup all end in \"up\", yet they belong to Copy, Kinds of Trucks and Composition. Hot Rod sounds like a vehicle, but it ends in the eye part Rod."
-  - q: "When does the next Connections puzzle come out?"
-    a: "At midnight in your local time. Saturday's puzzle will be #1245."
+  - q: "Why don't Backup, Pickup and Makeup make a group in Connections #1244?"
+    a: "Spoilers: the shared ending is a coincidence. Backup is a spare copy, Pickup is a truck, and Makeup describes what something is made of."
+  - q: "Which part of the eye hides in Osiris?"
+    a: "Spoilers: the iris, the colored ring around the pupil. Its partners hide a rod, a cone and a lens."
 sources:
   - title: "Connections"
     url: "https://www.nytimes.com/games/connections"
@@ -39,49 +40,47 @@ internalLinks:
 related: [wordle-hint-answer-today-november-6-2026-1966, nyt-strands-hints-answers-november-6-2026-978, nyt-pips-hints-answers-november-6-2026]
 draft: false
 ---
-**Today's Connections from The New York Times (NYT) is puzzle #1244, for Friday, Nov. 6, 2026, edited by Wyna Liu.** The board mixes fourteen single words with two longer entries, and the groups run from yellow, the easiest, to purple, the trickiest. Backup, Pickup and Makeup share an ending, which makes the board harder than it looks. Below are two levels of hints for each color, then the full solution and an explanation of the tricky words in a marked spoiler section.
+**Friday, Nov. 6, 2026, brings Connections #1244 from The New York Times, edited by Wyna Liu.** Three tiles today end in -up, and [the rules on our Connections page](/news/topic/nyt-connections/#how-it-works) explain why a guess built on that ending would still cost a mistake. Hints come first, two per color, and the answers sit behind a spoiler heading.
 
 ## Today's 16 words
 
 Backup, Pickup, Makeup, Hot Rod, Flatbed, Fabric, Extra, Woolens, Traffic Cone, Semi, Constitution, Replacement, Spare, Osiris, Structure, Tanker
 
-## How the game works
-
-Sort the 16 entries into four groups of four. You can make four mistakes. The groups run from yellow to green, blue and purple, with purple the group that depends most on wordplay.
-
 ## Hints for each group
 
 **Yellow**
 
-- Hint 1: Think of what a thing is made of, or how it is put together.
-- Hint 2: One is cloth, one is another word for cosmetics, one is how a building is arranged, and one also names the founding document of a country.
+- Hint 1: Each one can describe what a thing is made of, the way its parts fit together.
+- Hint 2: One is a nation's founding charter; one is the cloth of society in a common figure of speech.
 
 **Green**
 
-- Hint 1: Each one is a second item kept in case the first fails or runs out.
-- Hint 2: One is a tire in the trunk, one is a file saved in another place, one is more than you need, and one takes the place of something broken.
+- Hint 1: Each one is a second of something, held back in case the first fails or runs out.
+- Hint 2: One is the wheel stored in your trunk; one is a film actor in the crowd with no lines.
 
 **Blue**
 
-- Hint 1: Each one is a kind of truck.
-- Hint 2: One has an open bed with no sides, one is a small truck with an open cargo area, one carries liquid, and one is the short name for a big tractor-trailer rig.
+- Hint 1: Each one is a vehicle you would see hauling cargo on an interstate.
+- Hint 2: One has an open deck with no walls; one is shaped like a long tube and carries fuel or milk.
 
 **Purple**
 
-- Hint 1: Look at the end of each entry. A part of the eye is hiding there.
-- Hint 2: One is a car built for speed, one is an Egyptian god, one is an orange marker on the road, and one is clothing made from sheep's wool.
+- Hint 1: Ignore the start of each tile and study its end, where part of what you see with is hiding.
+- Hint 2: One is an Egyptian god of the afterlife; one is the orange marker set out around road work.
 
 ## Solving tips
 
-Start with blue, because trucks are the easiest group to name. Next, take the copies. Keep Backup there, even though it ends like Pickup and Makeup. Pickup is a truck, so check it against the trucks. Hot Rod sounds like a vehicle, so read it again at the end. Leave purple for last. Four entries will be left, and each ends in a part of the eye.
+Three tiles here end in the same two letters, and that shared ending means nothing. Sort them by meaning instead.
 
-Keep a streak log on our [printable weekly calendar](/printable-weekly-calendar.html) or the [November 2026 printable calendar](/november-calendars.html).
+A tile that sounds like a fast car may pull you toward the vehicles, so ask whether it hauls anything. The purple set only shows itself once you read the last three or four letters of each tile on their own.
 
-More of today's puzzles: [Wordle hints](/news/wordle-hint-answer-today-november-6-2026-1966/), [Strands hints](/news/nyt-strands-hints-answers-november-6-2026-978/) and [Pips hints](/news/nyt-pips-hints-answers-november-6-2026/).
+Solved it? Log the day on our [printable weekly calendar](/printable-weekly-calendar.html), or keep the whole month in view with the [November 2026 printable calendar](/november-calendars.html).
+
+Also out for Friday: [Wordle hints](/news/wordle-hint-answer-today-november-6-2026-1966/), [Strands hints](/news/nyt-strands-hints-answers-november-6-2026-978/) and [Pips hints](/news/nyt-pips-hints-answers-november-6-2026/).
 
 ## Today's Connections answers (spoilers)
 
-Stop here if you still want to solve it yourself.
+Scroll on only if you are ready to see every group.
 
 - **Yellow, Composition:** Constitution, Fabric, Makeup, Structure
 - **Green, Copy:** Backup, Extra, Replacement, Spare
@@ -90,10 +89,19 @@ Stop here if you still want to solve it yourself.
 
 ## Why the traps worked
 
-**Backup, Pickup and Makeup.** All three end in "up", so they look like a set. Backup belongs with the copies, Pickup with the trucks and Makeup with composition.
+Backup, Pickup and Makeup all end in -up, and a careful solver could try to make that a set. They split three ways: a spare copy, a truck, and a word for what something is made of.
 
-**Hot Rod.** It sounds like a vehicle, so it tempts you toward the trucks. It belongs with the hidden eye parts.
+Hot Rod is a car, so it leans toward the trucks, yet it ends in rod, one of the light-sensing cells at the back of the eye. Woolens and Fabric both point to cloth; Fabric stays in yellow, and Woolens hides a lens.
 
-**The hidden endings.** Each purple entry ends in a part of the eye: Hot Rod ends in Rod, Osiris ends in Iris, Traffic Cone ends in Cone and Woolens ends in Lens.
+## Decoy map
 
-We checked the solution against the puzzle's official data before posting. Puzzle #1245 arrives at midnight.
+| Entry | Real group | Look-alike group | Why it tempts |
+|---|---|---|---|
+| Makeup | Composition | Copy | It ends in -up like Backup. |
+| Pickup | Kinds of Trucks | Copy | Same -up ending as Backup. |
+| Hot Rod | Ending in Parts of the Eye | Kinds of Trucks | It is a road vehicle too. |
+| Woolens | Ending in Parts of the Eye | Composition | Wool is a cloth, like Fabric. |
+| Spare | Copy | Kinds of Trucks | A pickup usually carries a spare tire. |
+| Traffic Cone | Ending in Parts of the Eye | Kinds of Trucks | It is road gear you pass in a work zone. |
+
+We read each group against the official puzzle data before publishing. Saturday's grid is #1245.

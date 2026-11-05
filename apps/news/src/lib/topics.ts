@@ -198,6 +198,13 @@ export const TOPICS: Topic[] = [
     name: "NYT Midi Crossword Answers",
     description: "Every New York Times Midi Crossword page, newest first: the day's theme, a hint for each across and down clue, then the full grid from official data.",
     match: ["midi crossword"],
+    guide: {
+      heading: "How the Midi works",
+      paras: [
+        "The Midi is a daily themed crossword from The New York Times, larger than the Mini: a grid of about nine or ten squares a side with roughly 30 to 36 clues.",
+        "Each Midi has a title that hints at the day's theme, and the theme answers share that idea. Across and down answers cross, so each one you fill gives letters to the others.",
+      ],
+    },
   },
   {
     slug: "contexto",

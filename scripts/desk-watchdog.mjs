@@ -13,7 +13,7 @@
  * Usage: node scripts/desk-watchdog.mjs [--dry-run]
  */
 import { execFileSync, spawnSync } from "node:child_process";
-import { appendFileSync, writeFileSync } from "node:fs";
+import { appendFileSync, mkdirSync, rmSync, writeFileSync } from "node:fs";
 import { tmpdir } from "node:os";
 import path from "node:path";
 
@@ -199,6 +199,37 @@ try {
   const sc = JSON.parse(git("show", "origin/main:docs/desk/search-console.json"));
   if (NOW - Date.parse(sc.generatedAt) > 3 * 24 * H) attention.push(`Search Console data is ${ago(Date.parse(sc.generatedAt))} old; check the "Search Console" workflow and its secrets`);
 } catch { /* not set up yet */ }
+// Daily puzzle pages on main: written in the new model and not repeating the last three days
+// (audit 13-PUZZLE-MODEL and 13-PUZZLE-SIMILAR), and how far ahead each game is written. CI already
+// blocks a failing page; this shows the state every day in the issue.
+const puzzleLines = [];
+try {
+  const dir = path.join(tmpdir(), "watchdog-articles");
+  rmSync(dir, { recursive: true, force: true });
+  mkdirSync(dir, { recursive: true });
+  execFileSync("sh", ["-c", `git archive origin/main apps/news/src/content/articles | tar -x -C "${dir}"`]);
+  const lib = await import("./lib/puzzle-similarity.mjs");
+  const src = path.join(dir, "apps/news/src/content/articles");
+  const today = new Date(NOW).toLocaleDateString("en-CA", { timeZone: "America/New_York" });
+  const model = lib.modelProblems(src), similar = lib.similarityProblems(src).fails;
+  for (const p of [...model, ...similar]) attention.push(`Puzzle page in the old model: ${p}`);
+  puzzleLines.push(model.length || similar.length
+    ? `- ${model.length + similar.length} page(s) from ${lib.SIMILAR_SINCE} on fail the new model (listed under "Needs a person").`
+    : `- Every page from ${lib.SIMILAR_SINCE} on is in the new model (no rules section, hub rules linked, under ${lib.SIMILAR_MAX} shared with the last three days).`);
+  // Same-day games (Waffle, Quordle and the like) are written from 7:17 a.m. ET; by 3 p.m. ET every
+  // routine of the day has run, so a game active this week with no page for today has stalled.
+  const weekAgo = new Date(NOW - 7 * 24 * H).toLocaleDateString("en-CA", { timeZone: "America/New_York" });
+  const etHour = Number(new Date(NOW).toLocaleString("en-US", { timeZone: "America/New_York", hour: "numeric", hourCycle: "h23" }));
+  puzzleLines.push("", "| Game | Pages from today | Last date written |", "|---|---|---|");
+  for (const g of lib.queueAhead(src, today)) {
+    if (g.last < weekAgo) continue;
+    const behind = g.last < today;
+    puzzleLines.push(`| ${g.game} | ${g.ahead} | ${g.last}${behind ? " (no page for today yet)" : ""} |`);
+    if (behind && etHour >= 15) attention.push(`Puzzle queue: ${g.game} has no page for ${today} (last ${g.last}); check routine A or B`);
+  }
+} catch (e) {
+  puzzleLines.push(`- Could not check the puzzle pages: ${e.message.split("\n")[0]}`);
+}
 const blocked = [...items].filter(([, it]) => it.state === "blocked")
   .map(([id, it]) => `- ${it.writer.toUpperCase()} \`${id}\` ${it.text.match(/^\(([^)]*)\)/)?.[1] ?? ""}`);
 
@@ -208,6 +239,7 @@ const body = [
   "", "## Needs a person", "", ...(attention.length ? attention.map((a) => `- ${a}`) : ["Nothing."]),
   "", "## Done in the last check", "", ...(did.length ? did.map((d) => `- ${d}`) : ["Nothing to do."]),
   ...(cleaned.length ? ["", `${DRY ? "Would delete" : "Deleted"} ${cleaned.length} branch(es) already in main.`] : []),
+  "", "## Puzzle pages (new model)", "", ...puzzleLines,
   "", "## Blocked items (the manager unblocks them)", "", ...(blocked.length ? blocked : ["None."]), "",
 ].join("\n");
 console.log(`\n${body}`);

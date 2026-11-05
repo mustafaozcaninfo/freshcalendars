@@ -1,7 +1,7 @@
 ---
 title: "NYT Connections Hints and Answers for Saturday, Nov. 7, 2026 (#1245): Two Hints per Group, Then the Answers"
 seoTitle: "Connections Hints & Answers Today, Nov. 7, 2026 (#1245)"
-description: "Connections #1245 for Saturday, Nov. 7, 2026: two levels of hints for every group, the decoy words to avoid, then the full answers at the very end."
+description: "Connections #1245 for Saturday, Nov. 7, 2026: hints in two steps for every color, a holiday-shaped decoy, and the full grid solution at the bottom."
 type: explainer
 publishedAt: "2026-11-06T00:05:00-05:00"
 authors: [news-desk]
@@ -12,21 +12,19 @@ hero:
   src: ../../../../assets/news/nyt-connections-hints-answers-november-7-2026-1245/nyt-connections-hints-answers-november-7-2026-1245.jpg
   alt: "Connections hints for Nov. 7, 2026, puzzle #1245: a four-by-four board of word tiles with two rows solved in yellow and green"
   title: "Connections #1245 hints, Nov. 7, 2026"
-  caption: "Connections puzzle #1245 for Saturday, Nov. 7, 2026; graded hints for each group first, the full solution only at the end."
+  caption: "Connections #1245 for Saturday, Nov. 7, 2026, a board with a compass-shaped trap; graded hints first, solved rows last."
 summary:
-  - "Today's Connections is puzzle #1245, for Saturday, Nov. 7, 2026, from The New York Times."
-  - "Booty and Bounty look alike, and four entries are only the ends of longer words."
-  - "Each group gets two hints, a nudge and then a strong one."
-  - "Full answers are in the last section, marked as spoilers."
+  - "Saturday, Nov. 7, 2026, brings Connections puzzle #1245 from The New York Times."
+  - "Easter looks like a compass word, and it is the board's most convincing decoy."
+  - "Fourteen of the 16 tiles run four to six letters, so word length gives little away."
+  - "Each color has a nudge and a stronger hint, both hidden until tapped."
 faq:
   - q: "What number is today's Connections puzzle?"
-    a: "Puzzle #1245, for Saturday, Nov. 7, 2026."
+    a: "It is #1245, the puzzle for Saturday, Nov. 7, 2026."
   - q: "What are the Connections answers for Nov. 7, 2026?"
     a: "Spoilers: Pirate's Plunder (Booty, Bounty, Spoils, Treasure); Kinds of Shirts (Henley, Polo, Raglan, Ringer); First Words of U.S. State Names (New, North, Rhode, South); Ends of Storm Types (Cane, Clone, Easter, Soon)."
-  - q: "Which words are the traps in Connections #1245?"
-    a: "North, South and Easter all hide a compass point, but North and South belong with the state names and Easter with the storm endings. Cane, Clone, Easter and Soon look like ordinary words, yet each finishes the name of a storm."
-  - q: "When does the next Connections puzzle come out?"
-    a: "At midnight in your local time. Sunday's puzzle will be #1246."
+  - q: "Why is Easter not with North and South in Connections #1245?"
+    a: "Spoilers: it only looks like East with two letters added. Easter is the tail of nor'easter, so it joins Cane, Clone and Soon as the end of a storm word."
 sources:
   - title: "Connections"
     url: "https://www.nytimes.com/games/connections"
@@ -39,49 +37,47 @@ internalLinks:
 related: [wordle-hint-answer-today-november-7-2026-1967, nyt-strands-hints-answers-november-7-2026-979, nyt-pips-hints-answers-november-7-2026]
 draft: false
 ---
-**Today's Connections from The New York Times (NYT) is puzzle #1245, for Saturday, Nov. 7, 2026, edited by Wyna Liu.** All 16 entries are single words, and the groups run from yellow, the easiest, to purple, the trickiest. Booty and Bounty sound alike, and four of the words are only half of a longer storm name. Below are two levels of hints for each color, then the full solution and an explanation of the tricky words in a marked spoiler section.
+**Connections #1245 from The New York Times is the puzzle for Saturday, Nov. 7, 2026, edited by Wyna Liu.** At first glance one tile is a spring holiday, and if the color order is new to you, [our Connections explainer](/news/topic/nyt-connections/#how-it-works) lays it out. Each group gets two hints below before the answers appear.
 
 ## Today's 16 words
 
 Polo, Easter, New, Clone, Rhode, Ringer, Soon, Treasure, Henley, Bounty, North, Cane, Spoils, South, Raglan, Booty
 
-## How the game works
-
-Sort the 16 entries into four groups of four. You can make four mistakes. The groups run from yellow to green, blue and purple, with purple the group that depends most on wordplay.
-
 ## Hints for each group
 
 **Yellow**
 
-- Hint 1: Think of what a pirate hauls away from a captured ship.
-- Hint 2: One is a reward paid for catching someone, one is gold and jewels in a chest, one is goods taken in a raid, and one is a slangy word for loot.
+- Hint 1: Think of what a ship's crew hauls home after a raid on the high seas.
+- Hint 2: One is also a reward posted for catching an outlaw; another is what milk does when it sits out too long.
 
 **Green**
 
-- Hint 1: Each word names a style of shirt.
-- Hint 2: One has a collar and a short row of buttons at the neck, one has buttons but no collar, one has a slanted seam from the collar to the underarm, and one has contrasting bands at the collar and cuffs.
+- Hint 1: All four are tops you could buy in a casual clothing store.
+- Hint 2: One shares a name with a sport played on horseback; one has sleeves joined by a seam that slants up to the collar.
 
 **Blue**
 
-- Hint 1: Each word can open the name of a state.
-- Hint 2: Two of them can be followed by Carolina or Dakota, one is followed by Island, and one can come before Hampshire, Jersey, Mexico or York.
+- Hint 1: Each is the opening word of a state name that has two words.
+- Hint 2: One leads the name of the smallest state by area; another leads four state names by itself.
 
 **Purple**
 
-- Hint 1: Add a few letters at the front and each entry becomes the name of a big storm.
-- Hint 2: One is a walking stick, one is a copy of a living thing, one is a spring holiday, and one means before long.
+- Hint 1: Each one closes out the name of a kind of rough weather.
+- Hint 2: One finishes the seasonal rains of South Asia; one finishes the name used for a twisting storm over the Indian Ocean.
 
 ## Solving tips
 
-Start with the state names: two of the entries are compass points, and one entry can be followed by only one word to make a state. Watch the three entries that hide a compass point, because only two belong with the states. Take the pirate words next, then the shirts. Leave purple for last. Four entries will be left, and each needs a few letters in front to become a storm.
+Start with the clothing, since those tiles share a shop and little else. The state words come next; count how many states each could open before you commit.
 
-Keep a streak log on our [printable weekly calendar](/printable-weekly-calendar.html) or the [November 2026 printable calendar](/november-calendars.html).
+Two compass points sit on the board, and a third tile looks like one if you read only its first four letters, so check what the rest of it spells.
 
-More of today's puzzles: [Wordle hints](/news/wordle-hint-answer-today-november-7-2026-1967/), [Strands hints](/news/nyt-strands-hints-answers-november-7-2026-979/) and [Pips hints](/news/nyt-pips-hints-answers-november-7-2026/).
+Keep a tally of solved Saturdays on the [November 2026 printable calendar](/november-calendars.html); the [printable weekly calendar](/printable-weekly-calendar.html) works if you track every game each day.
+
+Weekend companions: [Wordle hints](/news/wordle-hint-answer-today-november-7-2026-1967/), [Strands hints](/news/nyt-strands-hints-answers-november-7-2026-979/) and [Pips hints](/news/nyt-pips-hints-answers-november-7-2026/).
 
 ## Today's Connections answers (spoilers)
 
-Stop here if you still want to solve it yourself.
+Everything below gives the game away.
 
 - **Yellow, Pirate's Plunder:** Booty, Bounty, Spoils, Treasure
 - **Green, Kinds of Shirts:** Henley, Polo, Raglan, Ringer
@@ -90,10 +86,16 @@ Stop here if you still want to solve it yourself.
 
 ## Why the traps worked
 
-**North, South and Easter.** Each one hides a compass point. North and South sit with New and Rhode, which open state names. Easter belongs with the storm endings.
+Easter carries East at its front, which makes it look like a partner for North and South. It sits in purple as the tail of nor'easter, and North gets a second pull from that same storm, whose name opens with a short form of north.
 
-**Polo.** It is also a sport, but here it is a shirt, with Henley, Raglan and Ringer.
+Treasure could have joined Rhode as the first half of an island, since Treasure Island is a famous novel. Ringer and Polo both sound like sports words: a ringer is a skilled player slipped onto a team, and polo is played on horseback. Both are shirts today.
 
-**The storm endings.** Cane, Clone, Easter and Soon look like ordinary words. Each finishes a storm name: Cane becomes Hurricane, Clone becomes Cyclone, Easter becomes Nor'easter and Soon becomes Monsoon.
+## Decoy map
 
-We checked the solution against the puzzle's official data before posting. Puzzle #1246 arrives at midnight.
+| Entry | Real group | Look-alike group | Why it tempts |
+|---|---|---|---|
+| Easter | Ends of Storm Types | First Words of U.S. State Names | Its first four letters spell East, next to North and South. |
+| North | First Words of U.S. State Names | Ends of Storm Types | Nor'easter starts with a short form of north. |
+| Treasure | Pirate's Plunder | First Words of U.S. State Names | Treasure Island and Rhode Island share a second word. |
+
+The answers were compared with the puzzle's official data before posting. Sunday's Connections is #1246.

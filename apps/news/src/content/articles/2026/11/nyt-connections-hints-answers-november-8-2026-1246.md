@@ -1,7 +1,7 @@
 ---
 title: "NYT Connections Hints and Answers for Sunday, Nov. 8, 2026 (#1246): Two Hints per Group, Then the Answers"
 seoTitle: "Connections Hints & Answers Today, Nov. 8, 2026 (#1246)"
-description: "Connections #1246 for Sunday, Nov. 8, 2026: two levels of hints for every group, the decoy words to avoid, then the full answers at the very end."
+description: "Connections #1246 for Sunday, Nov. 8, 2026: a pair of hints for each color, a jeweler's trap that spans the whole board, and the full answers last."
 type: explainer
 publishedAt: "2026-11-07T00:05:00-05:00"
 authors: [news-desk]
@@ -12,21 +12,19 @@ hero:
   src: ../../../../assets/news/nyt-connections-hints-answers-november-8-2026-1246/nyt-connections-hints-answers-november-8-2026-1246.jpg
   alt: "Connections hints for Nov. 8, 2026, puzzle #1246: a four-by-four board of word tiles with two rows solved in yellow and green"
   title: "Connections #1246 hints, Nov. 8, 2026"
-  caption: "Connections puzzle #1246 for Sunday, Nov. 8, 2026; graded hints for each group first, the full solution only at the end."
+  caption: "Connections #1246 for Sunday, Nov. 8, 2026, a board where six tiles start with C; hints first, solved groups at the end."
 summary:
-  - "Today's Connections is puzzle #1246, for Sunday, Nov. 8, 2026, from The New York Times."
-  - "Cut and Trim each fit two groups, and four of the words only make sense when you say them aloud."
-  - "Each group gets two hints, a nudge and then a strong one."
-  - "Full answers are in the last section, marked as spoilers."
+  - "Sunday's Connections, puzzle #1246, is the Nov. 8, 2026, grid from The New York Times."
+  - "Four tiles match a jeweler's checklist for grading diamonds, and no two of them share a group."
+  - "Six tiles start with C, so first letters are no help today."
+  - "Hints open one tap at a time; the answers and a decoy table close the page."
 faq:
   - q: "What number is today's Connections puzzle?"
-    a: "Puzzle #1246, for Sunday, Nov. 8, 2026."
+    a: "Sunday, Nov. 8, 2026, has puzzle #1246."
   - q: "What are the Connections answers for Nov. 8, 2026?"
     a: "Spoilers: Muscular (Built, Cut, Jacked, Ripped); Hair Salon Services (Blowout, Color, Extensions, Trim); Things That Help Make Sense of a Situation (Clarity, Context, Insight, Perspective); Vegetable Homophones (Carat, Charred, Korn, Leak)."
-  - q: "Which words are the traps in Connections #1246?"
-    a: "Cut and Trim can each describe a haircut or a fit body, so five words compete for four spots in the salon group. Carat, Charred, Korn and Leak look like ordinary words, yet each sounds like a vegetable."
-  - q: "When does the next Connections puzzle come out?"
-    a: "At midnight in your local time. Monday's puzzle will be #1247."
+  - q: "Is there a diamond group in Connections #1246?"
+    a: "Spoilers: no. Cut, Color, Clarity and Carat are the four Cs of diamond grading, and the puzzle puts one in each color: muscle, salon, sense-making and sound-alike vegetables."
 sources:
   - title: "Connections"
     url: "https://www.nytimes.com/games/connections"
@@ -39,49 +37,47 @@ internalLinks:
 related: [wordle-hint-answer-today-november-8-2026-1968, nyt-strands-hints-answers-november-8-2026-980, nyt-pips-hints-answers-november-8-2026]
 draft: false
 ---
-**Today's Connections from The New York Times (NYT) is puzzle #1246, for Sunday, Nov. 8, 2026, edited by Wyna Liu.** All 16 entries are single words, and the groups run from yellow, the easiest, to purple, the trickiest. Cut and Trim each fit more than one group, and four words only click when you say them out loud. Below are two levels of hints for each color, then the full solution and an explanation of the tricky words in a marked spoiler section.
+**The New York Times Connections for Sunday, Nov. 8, 2026, is puzzle #1246, edited by Wyna Liu.** Four tiles today read like a jeweler's grading sheet, and [our Connections hub](/news/topic/nyt-connections/#how-it-works) explains the one-away message you may see while testing them. Two hints per color follow, then the solved grid.
 
 ## Today's 16 words
 
 Cut, Leak, Context, Carat, Built, Blowout, Clarity, Charred, Color, Korn, Insight, Extensions, Ripped, Trim, Jacked, Perspective
 
-## How the game works
-
-Sort the 16 entries into four groups of four. You can make four mistakes. The groups run from yellow to green, blue and purple, with purple the group that depends most on wordplay.
-
 ## Hints for each group
 
 **Yellow**
 
-- Hint 1: Picture someone who spends a lot of time lifting weights.
-- Hint 2: One means made or constructed, one means torn apart, one means stacked with muscle, and one is also what a knife does.
+- Hint 1: Each describes someone who spends hours lifting weights and shows it.
+- Hint 2: One also means torn, like a pair of old jeans; another is the past tense of build.
 
 **Green**
 
-- Hint 1: These are things you might book at a salon.
-- Hint 2: One adds length with extra strands, one shortens the ends, one changes the shade, and one dries and styles with hot air.
+- Hint 1: Book time with a stylist and you could ask for any of these.
+- Hint 2: One adds length with clip-in or sewn-in hair; one is a smooth styling done with a round brush and a dryer.
 
 **Blue**
 
-- Hint 1: Each word helps you understand what is going on.
-- Hint 2: One is the background around an event, one is a clear view of it, one is a point of view, and one is a sudden deep understanding.
+- Hint 1: Each one helps you grasp what is really going on.
+- Hint 2: One is the background around an event; one is the angle from which you view it.
 
 **Purple**
 
-- Hint 1: Say each entry out loud and think of a garden.
-- Hint 2: One is a unit for weighing gems, one means scorched, one is a drip through a hole, and one starts with a K.
+- Hint 1: Read each one out loud and you will hear something grown in a garden patch.
+- Hint 2: One is the name of a heavy metal band from California; one is the unit for a gemstone's weight.
 
 ## Solving tips
 
-Start with the salon services. Three are safe, and Cut and Trim both compete for the last spot. Watch Cut and Trim: each can describe a haircut or a fit body, but only one belongs with the salon words. Take the muscular words next, then the sense-makers. Leave purple for last. Four entries will be left, and each needs only to be read aloud.
+Clear the salon first; those tiles fit nowhere else once you picture a stylist's price list. Then say each leftover tile out loud, one at a time.
 
-Keep a streak log on our [printable weekly calendar](/printable-weekly-calendar.html) or the [November 2026 printable calendar](/november-calendars.html).
+Watch for the diamond terms. A jeweler would put four of today's tiles on one card, and the puzzle scatters them across four colors.
 
-More of today's puzzles: [Wordle hints](/news/wordle-hint-answer-today-november-8-2026-1968/), [Strands hints](/news/nyt-strands-hints-answers-november-8-2026-980/) and [Pips hints](/news/nyt-pips-hints-answers-november-8-2026/).
+A [printable weekly calendar](/printable-weekly-calendar.html) makes a simple score sheet for the week, and the [November 2026 printable calendar](/november-calendars.html) holds the whole month.
+
+Sunday's other puzzles: [Wordle hints](/news/wordle-hint-answer-today-november-8-2026-1968/), [Strands hints](/news/nyt-strands-hints-answers-november-8-2026-980/) and [Pips hints](/news/nyt-pips-hints-answers-november-8-2026/).
 
 ## Today's Connections answers (spoilers)
 
-Stop here if you still want to solve it yourself.
+The full solution starts here.
 
 - **Yellow, Muscular:** Built, Cut, Jacked, Ripped
 - **Green, Hair Salon Services:** Blowout, Color, Extensions, Trim
@@ -90,10 +86,18 @@ Stop here if you still want to solve it yourself.
 
 ## Why the traps worked
 
-**Cut and Trim.** Both can describe a haircut, and both can describe a fit body. Trim sits with Blowout, Color and Extensions, and Cut sits with Built, Jacked and Ripped.
+Cut, Color, Clarity and Carat are the four Cs a jeweler uses to grade a diamond. The board splits them four ways: Cut is gym talk, Color is a salon service, Clarity helps you make sense of things, and Carat sounds like carrot.
 
-**Charred.** It means scorched, but here it is about sound: it matches chard.
+Cut and Trim make another tempting pair, since both are haircut words, and Trim can also describe a lean build. Only Trim belongs to the salon, and only Cut belongs with the muscles. Charred sounds like chard once you say it, which is easy to miss when you read it as burnt.
 
-**The vegetable homophones.** Carat, Charred, Korn and Leak look like ordinary words. Each sounds like a vegetable: Carat sounds like carrot, Charred like chard, Korn like corn and Leak like leek.
+## Decoy map
 
-We checked the solution against the puzzle's official data before posting. Puzzle #1247 arrives at midnight.
+| Entry | Real group | Look-alike group | Why it tempts |
+|---|---|---|---|
+| Cut | Muscular | Hair Salon Services | A haircut is the job most people book at a salon. |
+| Trim | Hair Salon Services | Muscular | Trim also describes a lean, fit body. |
+| Clarity | Things That Help Make Sense of a Situation | The four Cs (not a group) | Jewelers grade diamonds on it, with Cut, Color and Carat. |
+| Carat | Vegetable Homophones | The four Cs (not a group) | It reads as a jewelry word before it sounds like carrot. |
+| Leak | Vegetable Homophones | Things That Help Make Sense of a Situation | A leak to reporters can give insight into a story. |
+
+Each answer above was checked against the official puzzle data before posting. Monday's grid is #1247.

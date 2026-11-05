@@ -4,6 +4,7 @@ seoTitle: "NYT Letter Boxed Nov. 6, 2026: Hints, V and K, Answer"
 description: "Letter Boxed from The New York Times (NYT) for Friday, Nov. 6, 2026, par 4: the letter pairs that never meet, 29 two-word fits, five hints, then the answer."
 type: explainer
 publishedAt: "2026-11-05T00:05:00-05:00"
+updatedAt: "2026-11-05T00:51:00-05:00"
 authors: [news-desk]
 category: puzzles
 keywords: ["Letter Boxed answer today", "Letter Boxed hints", "NYT Letter Boxed November 6 2026", "Letter Boxed solution", "Letter Boxed par"]

@@ -1,7 +1,7 @@
 ---
 title: "NYT Connections Hints and Answers for Sunday, Nov. 15, 2026 (#1253): Two Hints per Group, Then the Answers"
 seoTitle: "Connections Hints & Answers Today, Nov. 15, 2026 (#1253)"
-description: "Connections #1253 for Sunday, Nov. 15, 2026: two levels of hints for every group, the decoy words to avoid, then the full answers at the very end."
+description: "Connections #1253 for Sunday, Nov. 15, 2026: two hints for every color, a record-keeping trap across three groups, and the full answers at the end."
 type: explainer
 publishedAt: "2026-11-14T00:05:00-05:00"
 authors: [news-desk]
@@ -12,21 +12,21 @@ hero:
   src: ../../../../assets/news/nyt-connections-hints-answers-november-15-2026-1253/nyt-connections-hints-answers-november-15-2026-1253.jpg
   alt: "Connections hints for Nov. 15, 2026, puzzle #1253: a four-by-four board of word tiles with solved rows in color"
   title: "Connections #1253 hints, Nov. 15, 2026"
-  caption: "Connections puzzle #1253 for Sunday, Nov. 15, 2026; graded hints for each group first, the full solution only at the end."
+  caption: "Connections #1253 for Sunday, Nov. 15, 2026, a board with one French abbreviation; hints first, then the solved groups."
 summary:
-  - "Today's Connections is puzzle #1253, for Sunday, Nov. 15, 2026, from The New York Times."
-  - "One group depends on the last letters of its four entries, not on what they mean."
-  - "Each group gets two hints, a nudge and then a strong one, each hidden until you open it."
-  - "Full answers are in the last section, marked as spoilers."
+  - "Sunday's Connections is puzzle #1253, for Nov. 15, 2026, from The New York Times."
+  - "Three tiles sound like ways to keep records, and they sit in three groups."
+  - "One tile is a four-letter abbreviation from French, the only one on the board."
+  - "Hints stay closed until tapped; the answers and a decoy table follow."
 faq:
   - q: "What number is today's Connections puzzle?"
-    a: "Puzzle #1253, for Sunday, Nov. 15, 2026."
+    a: "Sunday, Nov. 15, 2026, is Connections #1253."
   - q: "What are the Connections answers for Nov. 15, 2026?"
     a: "Spoilers: Unmatched (All-Time, Historic, Record, Unprecedented); Wedding Website Sections (Dress Code, Registry, RSVP, Travel); ___ Plane (Astral, Cartesian, Inclined, Jet); Ending in Vegetables in the Allium Family (Archive, Octonion, Rapscallion, Sleek)."
-  - q: "Which words are the traps in Connections #1253?"
-    a: "Jet and Travel both suggest getting around, but Jet goes with the planes and Travel is a wedding website section. Record, Registry and Archive all suggest keeping track of things, yet they sit in three different groups."
-  - q: "When does the next Connections puzzle come out?"
-    a: "At midnight in your local time. Monday's puzzle will be #1254."
+  - q: "Why isn't Archive with Record and Registry in Connections #1253?"
+    a: "Spoilers: Archive is in purple because it ends in chive. Record means a best-ever mark, and Registry is the wedding gift list."
+  - q: "What is an octonion?"
+    a: "Spoilers: a number system in mathematics with eight components, one step beyond the quaternions. The puzzle only needs its last five letters, onion."
 sources:
   - title: "Connections"
     url: "https://www.nytimes.com/games/connections"
@@ -39,49 +39,47 @@ internalLinks:
 related: [wordle-hint-answer-today-november-15-2026-1975, nyt-strands-hints-answers-november-15-2026-987, nyt-pips-hints-answers-november-15-2026]
 draft: false
 ---
-**Today's Connections from The New York Times (NYT) is puzzle #1253, for Sunday, Nov. 15, 2026, edited by Wyna Liu.** The 16 entries include a hyphenated term, a two-word phrase and one abbreviation, Répondez S'il Vous Plaît (RSVP), and the groups run from yellow, the easiest, to purple, the trickiest. Two entries seem to be about travel, and a few more seem to be about keeping records. Below are two levels of hints for each color, then the full solution and an explanation of the tricky words in a marked spoiler section.
+**Connections #1253 is the New York Times puzzle for Sunday, Nov. 15, 2026, edited by Wyna Liu.** One tile is Répondez S'il Vous Plaît (RSVP), the only abbreviation on today's board, and [our Connections guide](/news/topic/nyt-connections/#how-it-works) explains the rules. Two hints per color come first; the solved groups follow in a marked section.
 
 ## Today's 16 words
 
 Jet, Travel, Sleek, Record, Registry, Archive, Inclined, Dress Code, Rapscallion, All-Time, RSVP, Cartesian, Historic, Astral, Octonion, Unprecedented
 
-## How the game works
-
-Sort the 16 entries into four groups of four. You can make four mistakes. The groups run from yellow to green, blue and purple, with purple the group that depends most on wordplay.
-
 ## Hints for each group
 
 **Yellow**
 
-- Hint 1: Each word says that nothing like it came before.
-- Hint 2: One is also a noun for a vinyl disc or a best mark in sports, and one begins with "all."
+- Hint 1: Each describes a feat nobody has ever topped.
+- Hint 2: One is also a vinyl disc; one is hyphenated and means of every era.
 
 **Green**
 
-- Hint 1: Each entry could be a page or tab you click on a couple's wedding website.
-- Hint 2: One is where guests reply, and one is where they find gift ideas.
+- Hint 1: Each is a page on the site a couple builds before their wedding day.
+- Hint 2: One lists the gifts they hope to receive; one tells guests what to wear.
 
 **Blue**
 
-- Hint 1: Each entry can come before the same word, one that means a flat surface or an aircraft.
-- Hint 2: One is a fast aircraft, one is a sloped surface, one has x and y axes, and one describes the stars.
+- Hint 1: Each can come before a word for a flat surface, or for an aircraft.
+- Hint 2: One is a grid of x and y axes named after a French thinker; one is the sloped ramp from physics class.
 
 **Purple**
 
-- Hint 1: Ignore what the words mean and look at the last few letters of each.
-- Hint 2: The endings are chive, leek, onion and scallion.
+- Hint 1: The end of each one hides a vegetable related to garlic.
+- Hint 2: One ends in a green herb snipped over baked potatoes; one is a playful word for a rascal.
 
 ## Solving tips
 
-Start with the entries that can come before the same word, since that group is the most open. Two entries suggest travel, and a few suggest keeping records, so treat those links with care: they are decoys. Once three groups are placed, the last four entries are the ones whose endings matter.
+Clear the wedding pages first; a couple's website has only so many sections, and four tiles fit that list.
 
-Keep a streak log on our [printable weekly calendar](/printable-weekly-calendar.html) or the [November 2026 printable calendar](/november-calendars.html).
+Three tiles sound like keeping records, and they do not belong together. For the trickiest group, read the last few letters of each leftover tile and think about the kitchen.
 
-More of today's puzzles: [Wordle hints](/news/wordle-hint-answer-today-november-15-2026-1975/), [Strands hints](/news/nyt-strands-hints-answers-november-15-2026-987/) and [Pips hints](/news/nyt-pips-hints-answers-november-15-2026/).
+Close out the week on the [printable weekly calendar](/printable-weekly-calendar.html), or keep counting on the [November 2026 printable calendar](/november-calendars.html).
+
+Sunday's other games: [Wordle hints](/news/wordle-hint-answer-today-november-15-2026-1975/), [Strands hints](/news/nyt-strands-hints-answers-november-15-2026-987/) and [Pips hints](/news/nyt-pips-hints-answers-november-15-2026/).
 
 ## Today's Connections answers (spoilers)
 
-Stop here if you still want to solve it yourself.
+The solved groups are just below.
 
 - **Yellow, Unmatched:** All-Time, Historic, Record, Unprecedented
 - **Green, Wedding Website Sections:** Dress Code, Registry, RSVP, Travel
@@ -90,10 +88,18 @@ Stop here if you still want to solve it yourself.
 
 ## Why the traps worked
 
-**Jet and Travel.** Both suggest getting around, but Jet goes with Astral, Cartesian and Inclined as a plane, and Travel is a wedding website section.
+Record, Registry and Archive all sound like the work of a clerk keeping files. Record means a best-ever mark here, Registry is the gift list, and Archive hides chive.
 
-**Record, Registry and Archive.** All three suggest keeping track of things. Record is in yellow, Registry in green and Archive in purple, where it ends in chive.
+Jet and Travel make another pair, since both point to a trip. Jet goes before plane, and Travel is the wedding page for guests coming from out of town. Historic leans toward Archive as a word about the past, but today it means record-setting.
 
-**Sleek.** It reads as a word for smooth, but its last four letters spell leek. Octonion ends in onion and Rapscallion in scallion.
+## Decoy map
 
-We checked the solution against the puzzle's official data before posting. Puzzle #1254 arrives at midnight.
+| Entry | Real group | Look-alike group | Why it tempts |
+|---|---|---|---|
+| Record | Unmatched | Ending in Vegetables in the Allium Family | It reads like Archive, a word for stored files. |
+| Registry | Wedding Website Sections | Unmatched | A registry is an official record, like Record. |
+| Archive | Ending in Vegetables in the Allium Family | Unmatched | It sounds like Historic, a word about the past. |
+| Jet | ___ Plane | Wedding Website Sections | Travel, a wedding page, is about trips like a jet ride. |
+| Travel | Wedding Website Sections | ___ Plane | Most long trips start on a jet. |
+
+Each group was checked against the official puzzle data before posting. Monday's grid is #1254.
