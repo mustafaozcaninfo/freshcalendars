@@ -63,7 +63,7 @@ internalLinks:
     label: "December 2026 printable calendar"
   - href: "/march-calendars.html"
     label: "March 2027 printable calendar"
-related: [plano-isd-calendar-2026-27-breaks, dallas-isd-calendar-2026-27-holidays-breaks, spring-break-2027-dates-school-districts]
+related: [plano-isd-calendar-2026-27-breaks, arlington-isd-calendar-2026-27-breaks, spring-break-2027-dates-school-districts]
 downloads:
   - group: "Lewisville ISD Calendar 2026-27 printables"
     title: "Lewisville ISD Calendar 2026-27"
