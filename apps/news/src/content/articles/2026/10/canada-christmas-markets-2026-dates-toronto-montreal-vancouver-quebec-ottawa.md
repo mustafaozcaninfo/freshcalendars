@@ -69,7 +69,7 @@ internalLinks:
     label: "November 2026 printable calendar"
   - href: "/december-calendars.html"
     label: "December 2026 printable calendar"
-related: [toronto-santa-claus-parade-2026-sunday-november-22-route-citytv, ottawa-santa-claus-parade-2026-november-21-route-time, quebec-winter-carnival-2027-dates-night-parades]
+related: [toronto-santa-claus-parade-2026-sunday-november-22-route-citytv, ottawa-santa-claus-parade-2026-november-21-route-time, niagara-falls-winter-festival-of-lights-2026-27-fireworks-schedule]
 downloads:
   - group: "Canada Christmas Markets 2026 printables"
     title: "Canada Christmas Markets 2026: Opening and Closing Dates"
@@ -185,6 +185,6 @@ The printable has 11 rows: all five openings, the end of the Distillery's free a
 
 ## What else is on around the same dates?
 
-Toronto's Santa Claus Parade falls ten days after the Distillery opens; see our [Toronto Santa Claus Parade 2026 story](/news/toronto-santa-claus-parade-2026-sunday-november-22-route-citytv/). For gifts that travel, the [Canada Post holiday shipping deadlines](/news/canada-post-holiday-shipping-deadlines-2026-christmas/) are listed separately. Across the Atlantic, the [Manchester and Birmingham Christmas markets](/news/manchester-birmingham-christmas-markets-2026-dates-opening-times/) open on Nov. 5 and 6.
+Toronto's Santa Claus Parade falls ten days after the Distillery opens; see our [Toronto Santa Claus Parade 2026 story](/news/toronto-santa-claus-parade-2026-sunday-november-22-route-citytv/). For gifts that travel, the [Canada Post holiday shipping deadlines](/news/canada-post-holiday-shipping-deadlines-2026-christmas/) are listed separately. In Niagara Falls, the [Winter Festival of Lights fireworks schedule](/news/niagara-falls-winter-festival-of-lights-2026-27-fireworks-schedule/) starts Nov. 14. Across the Atlantic, the [Manchester and Birmingham Christmas markets](/news/manchester-birmingham-christmas-markets-2026-dates-opening-times/) open on Nov. 5 and 6.
 
 Dates, hours and prices can change, so check each official site before you travel.
