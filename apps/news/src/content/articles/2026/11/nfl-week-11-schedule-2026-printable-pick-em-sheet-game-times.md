@@ -4,7 +4,7 @@ seoTitle: "NFL Week 11 Schedule 2026: Times and Pick'em Sheet"
 description: "National Football League (NFL) Week 11 runs Nov. 19 to 23, 2026: 13 games, Eastern Time (ET) and Pacific Time (PT) kickoffs, TV channels and a pick'em sheet."
 type: news
 publishedAt: "2026-10-30T13:43:00-04:00"
-updatedAt: "2026-11-05T03:26:00-05:00"
+updatedAt: "2026-11-05T09:22:00-05:00"
 authors: [jessica-hartwell]
 category: sports
 keywords: ["NFL Week 11 schedule 2026", "NFL Week 11 pick em sheet printable", "NFL schedule November 22 2026", "Vikings 49ers Mexico City time"]
@@ -104,11 +104,11 @@ related: [nfl-week-12-schedule-2026-printable-pick-em-sheet-game-times, printabl
 draft: false
 ---
 
-**The National Football League (NFL) plays 13 Week 11 games from Thursday, Nov. 19 to Monday, Nov. 23, 2026, including Vikings at 49ers in Mexico City at 8:20 p.m. Eastern Time (ET) on Sunday, Nov. 22, according to NFL.com.** What follows is every game with its network, the kickoffs in ET and Pacific Time (PT), a full time-zone table for the Mexico City game, and a one-page pick'em sheet rounded off with a Monday tiebreaker.
+**The National Football League (NFL) plays 13 Week 11 games from Thursday, Nov. 19 to Monday, Nov. 23, 2026, including Vikings at 49ers in Mexico City at 8:20 p.m. Eastern Time (ET) on Sunday, Nov. 22, according to NFL.com.** The page lists all 13 games with networks and kickoffs in ET and Pacific Time (PT), converts the Mexico City game for nine time zones, compares rest days across the week, and links a printable pick'em sheet that ends in a Monday tiebreaker.
 
 ## What is the NFL Week 11 schedule for 2026?
 
-NFL.com lists these games, all times ET. Twenty-six teams play. The Atlanta Falcons, Cleveland Browns, Green Bay Packers, Los Angeles Rams, New England Patriots and Seattle Seahawks are on bye. Week 11 comes after the [Week 10 games](/news/nfl-week-10-schedule-2026-printable-pick-em-sheet-game-times/) of Nov. 12 to 16.
+The 13 games below are from NFL.com and use ET. Twenty-six teams play. The Atlanta Falcons, Cleveland Browns, Green Bay Packers, Los Angeles Rams, New England Patriots and Seattle Seahawks are on bye. Week 11 comes after the [Week 10 games](/news/nfl-week-10-schedule-2026-printable-pick-em-sheet-game-times/) of Nov. 12 to 16.
 
 | Day | Kickoff (ET) | Game | TV |
 |---|---|---|---|
@@ -128,7 +128,7 @@ NFL.com lists these games, all times ET. Twenty-six teams play. The Atlanta Falc
 
 ## What are the Week 11 kickoffs in Eastern and Pacific time?
 
-The PT column is our conversion from the ET kickoff on NFL.com, not an official schedule. Clocks in the United States fell back on Sunday, Nov. 1, so both zones are on standard time.
+Pacific times here are our own conversion of the NFL.com ET kickoff and are not an official schedule. Both zones have been on standard time since the Nov. 1 clock change.
 
 | Window | Games | ET | PT |
 |---|---|---|---|
@@ -165,13 +165,32 @@ Yes, for Sunday. The NFL's flexible scheduling procedures say that for Sunday Ni
 
 Six teams are on bye in Week 11: the Atlanta Falcons, Cleveland Browns, Green Bay Packers, Los Angeles Rams, New England Patriots and Seattle Seahawks. That leaves 26 of the 32 teams playing, which is why the week lists 13 games rather than a fuller slate.
 
+## Week 11 rest: Colts and Texans on four days, four teams back from bye
+
+Thursday's Colts at Texans game has the shortest gap of Week 11. Both teams played Sunday, Nov. 15, four days earlier. The Baltimore Ravens and Los Angeles Chargers met on Monday, Nov. 16 and have six days. The New York Giants and Washington Commanders both played Thursday, Nov. 12, so the Giants wait 10 days and the Commanders, who close the week on Monday, Nov. 23, wait 11. The Chicago Bears, Tampa Bay Buccaneers, Denver Broncos and Philadelphia Eagles last played on Nov. 8 and return after 14 days, because all four were on bye in Week 10.
+
+| Team | Previous game | Days of rest | Week 11 game (ET) |
+|---|---|---|---|
+| Colts | Sun., Nov. 15 vs. Dolphins | 4 | Thu., Nov. 19, 8:15 p.m., at Texans |
+| Texans | Sun., Nov. 15 at Browns | 4 | Thu., Nov. 19, 8:15 p.m., vs. Colts |
+| Ravens | Mon., Nov. 16 vs. Chargers | 6 | Sun., Nov. 22, 1 p.m., at Panthers |
+| Chargers | Mon., Nov. 16 at Ravens | 6 | Sun., Nov. 22, 4:05 p.m., vs. Jets |
+| Giants | Thu., Nov. 12 vs. Commanders | 10 | Sun., Nov. 22, 1 p.m., vs. Jaguars |
+| Commanders | Thu., Nov. 12 at Giants | 11 | Mon., Nov. 23, 8:15 p.m., vs. Bengals |
+| Bears | Sun., Nov. 8 vs. Buccaneers | 14 | Sun., Nov. 22, 1 p.m., vs. Saints |
+| Buccaneers | Sun., Nov. 8 at Bears | 14 | Sun., Nov. 22, 1 p.m., at Lions |
+| Broncos | Sun., Nov. 8 at Panthers | 14 | Sun., Nov. 22, 4:25 p.m., vs. Raiders |
+| Eagles | Sun., Nov. 8 vs. Giants | 14 | Sun., Nov. 22, 4:25 p.m., vs. Steelers |
+
+Days of rest are calendar days between the two dates, counted by us from the NFL.com data.
+
 ## Is there a printable NFL Week 11 pick'em sheet?
 
-Yes. The single page walks through all 13 games by start time, puts the network next to each one, and gives you a blank for the pick and the score, then finishes with a tiebreaker on the combined points of Monday's Bengals at Commanders game. Stick it next to the [November 2026 printable calendar](/november-calendars.html) or a [printable weekly calendar](/printable-weekly-calendar.html), and pencil in your picks before Thursday's opener. Week 12 lands in Thanksgiving week; see [when is Thanksgiving](/when-is/thanksgiving/) and our [Thanksgiving football schedule](/news/thanksgiving-football-schedule-2026-nfl-college-games/).
+Yes. The single-page PDF orders the 13 games by start time, shows the network on each line, and leaves a blank for your pick and one for the score. The last line is the tiebreaker, the combined points in Monday's Bengals at Commanders game. Stick it by the [November 2026 printable calendar](/november-calendars.html) or a [printable weekly calendar](/printable-weekly-calendar.html) and fill in your picks before Thursday's opener. Week 12 lands in Thanksgiving week; see [when is Thanksgiving](/when-is/thanksgiving/) and our [Thanksgiving football schedule](/news/thanksgiving-football-schedule-2026-nfl-college-games/).
 
 ## Which games are on Sunday, Nov. 22?
 
-NFL.com lists four Sunday start times, all ET.
+Sunday, Nov. 22 has four start times on NFL.com, all in ET.
 
 - 1 p.m.: seven games, three on CBS and four on FOX.
 - 4:05 p.m.: Jets at Chargers on FOX.

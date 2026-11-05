@@ -4,7 +4,7 @@ seoTitle: "NFL Week 13 Schedule 2026: Times and Pick'em Sheet"
 description: "National Football League (NFL) Week 13 runs Dec. 3 to 7, 2026: 14 games, four byes, Eastern Time (ET) kickoffs, TV channels and a printable pick'em sheet."
 type: news
 publishedAt: "2026-11-01T14:44:00-05:00"
-updatedAt: "2026-11-05T03:26:00-05:00"
+updatedAt: "2026-11-05T09:22:00-05:00"
 authors: [jessica-hartwell]
 category: sports
 keywords: ["NFL Week 13 schedule 2026", "NFL Week 13 pick em sheet printable", "NFL Week 13 game times", "NFL Week 13 bye teams 2026"]
@@ -98,11 +98,11 @@ related: [nfl-week-12-schedule-2026-printable-pick-em-sheet-game-times, printabl
 draft: false
 ---
 
-**The National Football League (NFL) plays 14 Week 13 games from Thursday, Dec. 3 to Monday, Dec. 7, 2026, with four teams on bye and Chiefs at Rams opening the week at 8:15 p.m. Eastern Time (ET), according to NFL.com.** Read on for every game with its network, a time-zone table spanning ET, Central Time (CT), Mountain Time (MT) and Pacific Time (PT), the four bye teams, and a one-page pick'em sheet finished with a Monday tiebreaker.
+**The National Football League (NFL) plays 14 Week 13 games from Thursday, Dec. 3 to Monday, Dec. 7, 2026, with four teams on bye and Chiefs at Rams opening the week at 8:15 p.m. Eastern Time (ET), according to NFL.com.** Below are the 14 games with networks, kickoffs converted to Central Time (CT), Mountain Time (MT) and Pacific Time (PT), the four bye teams, the days of rest after Thanksgiving week, and a printable pick'em sheet with a Monday tiebreaker.
 
 ## What is the NFL Week 13 schedule for 2026?
 
-NFL.com lists these games, all times ET. Week 13 comes after the [Week 12 games](/news/nfl-week-12-schedule-2026-printable-pick-em-sheet-game-times/) of Nov. 25 to 30.
+The 14 games below are from NFL.com in ET. Week 13 follows the [Week 12 games](/news/nfl-week-12-schedule-2026-printable-pick-em-sheet-game-times/) of Nov. 25 to 30, which included Thanksgiving.
 
 | Day | Kickoff (ET) | Game | TV |
 |---|---|---|---|
@@ -123,33 +123,54 @@ NFL.com lists these games, all times ET. Week 13 comes after the [Week 12 games]
 
 ## What are the Week 13 kickoffs in each U.S. time zone?
 
-The CT, MT and PT columns are our conversion from the ET kickoffs on NFL.com, not an official schedule.
+We computed the CT, MT and PT columns from the ET kickoffs on NFL.com; they are not an official schedule.
 
-| Window | Games | ET | CT | MT | PT |
+| Kickoff slot | Matchups | Eastern | Central | Mountain | Pacific |
 |---|---|---|---|---|---|
 | Thu., Dec. 3 | Chiefs at Rams | 8:15 p.m. | 7:15 p.m. | 6:15 p.m. | 5:15 p.m. |
-| Sun., Dec. 6 | Seven games | 1:00 p.m. | 12:00 p.m. | 11:00 a.m. | 10:00 a.m. |
+| Sun., Dec. 6 | Seven 1 p.m. games | 1:00 p.m. | 12:00 p.m. | 11:00 a.m. | 10:00 a.m. |
 | Sun., Dec. 6 | Two games | 4:05 p.m. | 3:05 p.m. | 2:05 p.m. | 1:05 p.m. |
 | Sun., Dec. 6 | Two games | 4:25 p.m. | 3:25 p.m. | 2:25 p.m. | 1:25 p.m. |
 | Sun., Dec. 6 | Texans at Steelers | 8:20 p.m. | 7:20 p.m. | 6:20 p.m. | 5:20 p.m. |
 | Mon., Dec. 7 | Cowboys at Seahawks | 8:15 p.m. | 7:15 p.m. | 6:15 p.m. | 5:15 p.m. |
 
+## Week 13 rest after Thanksgiving: Chiefs return in seven days, Bears and Lions in ten
+
+Thanksgiving week left uneven gaps. The Kansas City Chiefs played on Thursday, Nov. 26 and open Week 13 on Thursday, Dec. 3, seven days later. The Los Angeles Rams played Wednesday, Nov. 25 and host them with eight. The Tampa Bay Buccaneers and Carolina Panthers played the Monday game on Nov. 30 and have six days. The Chicago Bears, Detroit Lions, Philadelphia Eagles and Buffalo Bills had 10 days since Thanksgiving, and the Dallas Cowboys and Green Bay Packers 11. The Denver Broncos and Pittsburgh Steelers, who played on Black Friday, Nov. 27, have nine.
+
+| Team | Previous game | Days of rest | Week 13 game (ET) |
+|---|---|---|---|
+| Chiefs | Thu., Nov. 26 at Bills | 7 | Thu., Dec. 3, 8:15 p.m., at Rams |
+| Rams | Wed., Nov. 25 vs. Packers | 8 | Thu., Dec. 3, 8:15 p.m., vs. Chiefs |
+| Buccaneers | Mon., Nov. 30 vs. Panthers | 6 | Sun., Dec. 6, 1 p.m., vs. Chargers |
+| Panthers | Mon., Nov. 30 at Buccaneers | 6 | Sun., Dec. 6, 4:25 p.m., at Vikings |
+| Broncos | Fri., Nov. 27 at Steelers | 9 | Sun., Dec. 6, 4:05 p.m., vs. Dolphins |
+| Steelers | Fri., Nov. 27 vs. Broncos | 9 | Sun., Dec. 6, 8:20 p.m., vs. Texans |
+| Bears | Thu., Nov. 26 at Lions | 10 | Sun., Dec. 6, 1 p.m., vs. Jaguars |
+| Lions | Thu., Nov. 26 vs. Bears | 10 | Sun., Dec. 6, 1 p.m., at Falcons |
+| Eagles | Thu., Nov. 26 at Cowboys | 10 | Sun., Dec. 6, 4:05 p.m., at Cardinals |
+| Bills | Thu., Nov. 26 vs. Chiefs | 10 | Sun., Dec. 6, 4:25 p.m., at Patriots |
+| Packers | Wed., Nov. 25 at Rams | 11 | Sun., Dec. 6, 1 p.m., at Saints |
+| Cowboys | Thu., Nov. 26 vs. Eagles | 11 | Mon., Dec. 7, 8:15 p.m., at Seahawks |
+
+Days of rest are calendar days between the two dates, counted by us from the NFL.com data.
+
 ## Which teams are on bye in NFL Week 13?
 
-NFL.com lists four teams on bye: the Baltimore Ravens, Indianapolis Colts, Las Vegas Raiders and New York Jets. The other 28 teams play, in 14 games.
+The Baltimore Ravens, Indianapolis Colts, Las Vegas Raiders and New York Jets sit out Week 13, according to NFL.com, which leaves 28 teams across 14 games.
 
 ## Which networks show the Week 13 games?
 
-Prime Video has Thursday's Chiefs at Rams. On Sunday afternoon NFL.com lists CBS for Lions at Falcons, Bengals at Browns, Chargers at Buccaneers, Commanders at Titans, Panthers at Vikings and Bills at Patriots, and FOX for Jaguars at Bears, Packers at Saints, 49ers at Giants, Eagles at Cardinals and Dolphins at Broncos. Texans at Steelers is on NBC on Sunday night, and Cowboys at Seahawks is on ESPN on Monday night.
+By network, Prime Video has Chiefs at Rams on Thursday, and NBC has Texans at Steelers on Sunday night. ESPN has Cowboys at Seahawks on Monday night. On Sunday afternoon CBS has Lions at Falcons, Bengals at Browns, Chargers at Buccaneers, Commanders at Titans, Panthers at Vikings and Bills at Patriots, and FOX has Jaguars at Bears, Packers at Saints, 49ers at Giants, Eagles at Cardinals and Dolphins at Broncos, all per NFL.com.
 
 ## How many days of NFL games are in Week 13?
 
-Three. NFL.com lists games on Thursday, Sunday and Monday, with none on Friday, Dec. 4 or Saturday, Dec. 5. Sunday carries 12 of the 14 games.
+Games fall on three days. NFL.com lists Thursday, Sunday and Monday kickoffs, and, Sunday and Monday, nothing on Friday, Dec. 4 or Saturday, Dec. 5. Twelve of the 14 games are on Sunday.
 
 ## How long does the Week 13 Sunday slate run?
 
-Sunday, Dec. 6 holds 12 of the 14 games across four start times: seven at 1 p.m. ET, two at 4:05 p.m., two at 4:25 p.m. and Texans at Steelers at 8:20 p.m. ET. From the first 1 p.m. kickoff to the 8:20 p.m. night game, Sunday spans 7 hours and 20 minutes of staggered starts.
+Sunday, Dec. 6 has four blocks of games: seven at 1 p.m. ET, two at 4:05 p.m., two at 4:25 p.m. and Texans at Steelers at 8:20 p.m. ET. The first and last Sunday kickoffs are 7 hours and 20 minutes apart.
 
 ## Is there a printable NFL Week 13 pick'em sheet?
 
-Yes. The printable page lays out all 14 games by start time, lists the network for each, and leaves a slot for your pick and the final score, before ending on a tiebreaker for the combined points in Monday's Cowboys at Seahawks game. With the opener on Thursday, have it done before 8:15 p.m. ET on Dec. 3. Clip it beside the [December 2026 printable calendar](/december-calendars.html) or a [printable weekly calendar](/printable-weekly-calendar.html). Every other week sits on our [printable NFL pick'em sheets](/news/printable-nfl-pickem-sheets-2026/) page.
+Yes. The one-page PDF lists the 14 games by start time with the network on each line, plus a space for your pick, a space for the final score and a tiebreaker for the combined points in Monday's Cowboys at Seahawks game. Because Thursday opens the week, finish it before 8:15 p.m. ET on Dec. 3. Place it next to the [December 2026 printable calendar](/december-calendars.html) or a [printable weekly calendar](/printable-weekly-calendar.html). Every other week sits on our [printable NFL pick'em sheets](/news/printable-nfl-pickem-sheets-2026/) page.
