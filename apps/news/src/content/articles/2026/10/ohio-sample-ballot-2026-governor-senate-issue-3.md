@@ -82,7 +82,7 @@ draft: false
 2. Follow the link to your county board of elections. Most boards let you search by name or address.
 3. Open the ballot for your precinct and print it, or copy your choices onto the checklist below.
 
-Our [sample ballot guide for all 50 states](/news/sample-ballot-by-zip-code-2026-texas-ballot/) lists the official lookup in every other state.
+Our [sample ballot guide for all 50 states](/news/sample-ballot-by-zip-code-2026-texas-ballot/) lists the official lookup in every other state. Our [New Jersey sample ballot](/news/new-jersey-sample-ballot-2026-senate-early-voting/) guide covers that state's U.S. Senate candidates and mail ballot rules.
 
 ## Key dates
 

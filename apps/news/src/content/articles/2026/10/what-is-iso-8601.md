@@ -153,7 +153,7 @@ We ran that sort ourselves. It shows a property of the order, not a promise abou
 
 ## What is the difference between 05/01/2026 and 2026-05-01?
 
-The slash version has two readings. Month first, `05/01/2026` is May 1; day first, it is Jan. 5. A reader cannot tell which from the text. `2026-05-01` has one reading, May 1, 2026, because a four-digit number in the first position can only be the year. ISO's help center calls the standard "unambiguous"; this is the case it means.
+The slash version has two readings. Month first, `05/01/2026` is May 1; day first, it is Jan. 5. A reader cannot tell which from the text. `2026-05-01` has one reading, May 1, 2026, because a four-digit number in the first position can only be the year. ISO's help center calls the standard "unambiguous"; this is the case it means. Which reading a country uses is set out in [how countries write dates](/news/date-formats-by-country-mm-dd-dd-mm/). For dates that read the same forwards and backwards, see [palindrome dates](/news/palindrome-dates-2027-next-palindrome-days/).
 
 ## What does the Z mean, and how is it different from an offset?
 

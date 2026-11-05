@@ -149,7 +149,7 @@ These are our own counts from the NHL's schedule:
 - **Home games (six):** Winnipeg on Tue., Nov. 3; Utah on Thu., Nov. 5; Minnesota on Tue., Nov. 10; Colorado on Sat., Nov. 14; Philadelphia on Sat., Nov. 21; and Los Angeles on Mon., Nov. 23, all at the Bell Centre.
 - **Away games (eight):** at Toronto, Boston, the New York Rangers, New Jersey, Carolina, Colorado, Vegas and Utah.
 
-Other NHL dates this season include the [2027 Winter Classic](/news/nhl-winter-classic-2027-date-time-avalanche-mammoth-salt-lake-city/) and the [Hometown Remix jersey games](/news/nhl-hometown-remix-jerseys-2026-27-unveil-date-game-schedule/).
+Other NHL dates this season include the [2027 Winter Classic](/news/nhl-winter-classic-2027-date-time-avalanche-mammoth-salt-lake-city/) and the [Hometown Remix jersey games](/news/nhl-hometown-remix-jerseys-2026-27-unveil-date-game-schedule/). The same month for other teams is in the [Bruins schedule](/news/boston-bruins-schedule-november-2026-game-times-tv-printable/) and the [Penguins schedule](/news/pittsburgh-penguins-schedule-november-2026-game-times-tv-printable/).
 
 ## Is there a printable Canadiens schedule for November 2026?
 

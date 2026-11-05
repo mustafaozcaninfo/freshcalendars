@@ -132,7 +132,7 @@ A basic version, with a start date in cell A1 and a day count in B1:
 
 `=WORKDAY(A1, B1)`
 
-To type the date inside the formula, use the date function (DATE) so Excel reads it correctly: `=WORKDAY(DATE(2027,1,4), 90)`. Microsoft explains that Excel stores dates as sequential serial numbers, and that dates should be entered by using the DATE function or as results of other formulas or functions. A date typed as plain text can return an error.
+To type the date inside the formula, use the date function (DATE) so Excel reads it correctly: `=WORKDAY(DATE(2027,1,4), 90)`. Microsoft explains that Excel stores dates as sequential serial numbers, and that dates should be entered by using the DATE function or as results of other formulas or functions. A date typed as plain text can return an error. If a result shows as a serial number instead of a date, see [why Excel shows dates as numbers](/news/excel-dates-showing-as-numbers-serial-dates/).
 
 Microsoft lists two errors. If any argument is not a valid date, WORKDAY returns the value error (VALUE), shown as `#VALUE!`. If start_date plus days yields an invalid date, it returns the number error (NUM), shown as `#NUM!`.
 

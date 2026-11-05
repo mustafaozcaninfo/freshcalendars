@@ -192,7 +192,7 @@ Peacock's post says November brings holiday favorites, including "It's a Wonderf
 
 ## Print the Peacock November 2026 watch calendar
 
-The printable puts 15 key dates on a one-page US Letter calendar: the three Originals, the next-day NBC premieres, a few film dates and the six NBC Sports game days. Print it for the fridge, or print a [November 2026 calendar](/november-calendars.html) and add your own picks. To plan each watch night by week, use the [printable weekly calendar](/printable-weekly-calendar.html). For the other services, see [Hulu for November 2026](/news/new-on-hulu-november-2026-release-dates/) and [Netflix movies for November 2026](/news/netflix-new-movies-november-2026-release-dates/).
+The printable puts 15 key dates on a one-page US Letter calendar: the three Originals, the next-day NBC premieres, a few film dates and the six NBC Sports game days. Print it for the fridge, or print a [November 2026 calendar](/november-calendars.html) and add your own picks. To plan each watch night by week, use the [printable weekly calendar](/printable-weekly-calendar.html). For the other services, see [Hulu for November 2026](/news/new-on-hulu-november-2026-release-dates/) and [Netflix movies for November 2026](/news/netflix-new-movies-november-2026-release-dates/). For a late-night lineup, see our [Saturday Night Live hosts](/news/snl-hosts-november-2026-halloween-episode-inde-navarrette-schedule/) story.
 
 ## How we keep this accurate
 

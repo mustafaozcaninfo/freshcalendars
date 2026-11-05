@@ -346,7 +346,7 @@ This is the sheet built from the dates in this story: the early Supplemental Sec
 
 ### 13. November 2026 Calendar With October and December 2026
 
-A large November with the month before and after underneath, for planning from Halloween to Christmas on one sheet.
+A large November with the month before and after underneath, for planning from Halloween to Christmas on one sheet. Our [printable pumpkin carving stencils](/news/printable-pumpkin-carving-templates/) cover Halloween itself.
 
 <a class="tpl" href="/news/downloads/november-2026-calendar/november-2026-calendar-october-december-2026.pdf"><img title="Download November 2026 Calendar With October and December 2026 (PDF)" src="/news/downloads/november-2026-calendar/november-2026-calendar-october-december-2026.webp" alt="November 2026 calendar with October and December 2026 three-month printable" width="1100" height="1424" loading="lazy" decoding="async"></a>
 

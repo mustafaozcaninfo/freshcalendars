@@ -113,7 +113,7 @@ The projected 2027 premium is $6.60 higher than 2026, and the projected deductib
 
 ## When will CMS announce the 2027 Part B premium?
 
-CMS has not given a date. It released the 2025 figures on Nov. 8, 2024 and the 2026 figures on Nov. 14, 2025, so the last two announcements both came in November. That is a record of the past, not a schedule for this year. Medicare open enrollment runs from Oct. 15 to Dec. 7, 2026, as covered in our [Medicare open enrollment story](/news/medicare-open-enrollment-2026-december-7-90-dollar-rebate/), so the official number may land before the window closes. Mark the days on the [November 2026 printable calendar](/november-calendars.html) and the [December 2026 printable calendar](/december-calendars.html), and check the CMS newsroom.
+CMS has not given a date. It released the 2025 figures on Nov. 8, 2024 and the 2026 figures on Nov. 14, 2025, so the last two announcements both came in November. That is a record of the past, not a schedule for this year. Medicare open enrollment runs from Oct. 15 to Dec. 7, 2026, as covered in our [Medicare open enrollment story](/news/medicare-open-enrollment-2026-december-7-90-dollar-rebate/), so the official number may land before the window closes. Mark the days on the [November 2026 printable calendar](/november-calendars.html) and the [December 2026 printable calendar](/december-calendars.html), and check the CMS newsroom. The companion drug coverage is in our [Medicare Part D guide](/news/medicare-part-d-2027-deductible-700-out-of-pocket-cap-2400/).
 
 ## What do higher-income members pay in 2026?
 

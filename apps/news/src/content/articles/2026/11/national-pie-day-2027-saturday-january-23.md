@@ -125,7 +125,7 @@ NASA's Jet Propulsion Laboratory (JPL) runs a yearly "NASA Pi Day Challenge," wh
 
 ## Are there National Pie Day 2027 deals?
 
-Not yet announced. On Nov. 4, 2026, neither Marie Callender's nor Bakers Square had posted a National Pie Day 2027 offer on its own site. We will check the chains' own pages in the week before Jan. 23 and will not treat any past offer as this year's. For a look at how a food-day deal story reads once offers are posted, see our [National Sandwich Day 2026 deals](/news/national-sandwich-day-2026-deals-tuesday-november-3-subway-mcalisters-capriottis/) report.
+Not yet announced. On Nov. 4, 2026, neither Marie Callender's nor Bakers Square had posted a National Pie Day 2027 offer on its own site. We will check the chains' own pages in the week before Jan. 23 and will not treat any past offer as this year's. For a look at how a food-day deal story reads once offers are posted, see our [National Sandwich Day 2026 deals](/news/national-sandwich-day-2026-deals-tuesday-november-3-subway-mcalisters-capriottis/) report. Another January snack day is covered in our [National Popcorn Day guide](/news/national-popcorn-day-2027-january-19/).
 
 If you bake at home, [FoodSafety.gov](https://www.foodsafety.gov/) has federal food handling guidance; we give no storage rules here.
 

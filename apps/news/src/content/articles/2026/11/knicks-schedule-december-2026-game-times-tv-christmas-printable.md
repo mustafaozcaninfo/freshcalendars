@@ -128,7 +128,7 @@ The NBA's schedule lists national TV only. Local broadcasts are not in it; those
 
 ## Knicks Christmas Day game at Madison Square Garden
 
-The Knicks host San Antonio on Christmas Day, Friday, Dec. 25, 2026, at 12 p.m. ET at Madison Square Garden, carried on ABC and ESPN. It is the middle game of a three-game homestand: Utah on Wed., Dec. 23, San Antonio on Dec. 25 and Brooklyn on Sun., Dec. 27 all come to New York. Our [Christmas Day 2026 NBA and NFL schedule](/news/christmas-day-2026-games-nba-nfl-schedule-times-tv/) lists the day's full slate across the NBA and National Football League (NFL), and our [When is Christmas?](/when-is/christmas/) page has the date.
+The Knicks host San Antonio on Christmas Day, Friday, Dec. 25, 2026, at 12 p.m. ET at Madison Square Garden, carried on ABC and ESPN. It is the middle game of a three-game homestand: Utah on Wed., Dec. 23, San Antonio on Dec. 25 and Brooklyn on Sun., Dec. 27 all come to New York. Our [Christmas Day 2026 NBA and NFL schedule](/news/christmas-day-2026-games-nba-nfl-schedule-times-tv/) lists the day's full slate across the NBA and National Football League (NFL), and our [When is Christmas?](/when-is/christmas/) page has the date. The [Thunder's December schedule](/news/oklahoma-city-thunder-schedule-december-2026-game-times-tv-christmas-printable/) covers another team's Christmas Day game.
 
 ## The empty stretch in the Knicks' December schedule
 

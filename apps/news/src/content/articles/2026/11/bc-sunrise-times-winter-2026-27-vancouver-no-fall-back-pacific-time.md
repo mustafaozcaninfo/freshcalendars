@@ -135,7 +135,7 @@ USNO rounds to the minute. Winnipeg values assume Manitoba stays on year-round d
 
 Vancouver's latest sunrise is 9:08 a.m., from **Tuesday, Dec. 29, 2026, through Sunday, Jan. 3, 2027**, according to USNO. The earliest sunset of the winter in the table is 5:16 p.m., on both Dec. 1 and Dec. 21. Sunrise first goes back before 8 a.m. on **Saturday, Feb. 27, 2027**, at 7:59 a.m.; on Friday, Feb. 26, it is 8:01 a.m. By Mar. 1, 2027, Vancouver sunrise is 7:55 a.m.
 
-Farther north and inland the mornings run later: on Jan. 1, 2027, sunrise is 9:08 a.m. in Vancouver, 9:29 a.m. in Prince George, 9:40 a.m. in Calgary and 9:27 a.m. in Winnipeg.
+Farther north and inland the mornings run later: on Jan. 1, 2027, sunrise is 9:08 a.m. in Vancouver, 9:29 a.m. in Prince George, 9:40 a.m. in Calgary and 9:27 a.m. in Winnipeg. For the latest sunrise dates in United States cities, see our guide to [when mornings get lighter](/news/latest-sunrise-2027-dates-by-city-when-mornings-get-lighter/).
 
 ## How would sunrise look if B.C. had fallen back?
 

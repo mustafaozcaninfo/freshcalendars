@@ -145,7 +145,7 @@ The International Bureau of Weights and Measures (BIPM) published Resolution 4 o
 
 Since Oct. 25, 2026, UK clocks show GMT, the same reading as UTC. GOV.UK lists the 2026 changes as "Clocks go forward on 29 March and back on 25 October," and 2027 as "Clocks go forward on 28 March and back on 31 October." Under the Summer Time Act 1972, section 1, summer time is "one hour in advance of Greenwich mean time," running from "one o'clock, Greenwich mean time, in the morning of the last Sunday in March" to "one o'clock, Greenwich mean time, in the morning of the last Sunday in October." On the clock on the wall, that is a move forward at 1 a.m. and back at 2 a.m. (the same instant as 1 a.m. GMT).
 
-So the UK is not on GMT all year. From March 28 to Oct. 31, 2027, London runs on British Summer Time (BST), which is UTC+1.
+So the UK is not on GMT all year. From March 28 to Oct. 31, 2027, London runs on British Summer Time (BST), which is UTC+1. Our guide to [when the UK clocks go forward](/news/uk-clocks-go-forward-2027-march-28-bst/) has that change in detail.
 
 ## London's offset from UTC through 2027, and the gap to Eastern Time
 
@@ -170,4 +170,4 @@ For UK legal documents the rule is specific. Section 9 of the Interpretation Act
 
 ## Printable: London UTC offsets, 2026 to 2027
 
-The one-page sheet lists the six periods above with the Eastern Time gap, adds a short checklist for meetings set across the March 14 to March 28, 2027 window, and prints the GOV.UK and NIST wording. Pair it with the [2027 printable yearly calendar](/printable-yearly-calendar.html) and our page on [when daylight saving time starts and ends](/when-is/daylight-savings/). The [March printable calendar](/march-calendars.html) shows both 2027 change weeks. For how to write a time without the 12 a.m. mix-up, see [is 12 noon a.m. or p.m.](/news/is-12-noon-am-or-pm-midnight/), and for date formats [what International Organization for Standardization (ISO) 8601 is](/news/what-is-iso-8601/).
+The one-page sheet lists the six periods above with the Eastern Time gap, adds a short checklist for meetings set across the March 14 to March 28, 2027 window, and prints the GOV.UK and NIST wording. Pair it with the [2027 printable yearly calendar](/printable-yearly-calendar.html) and our page on [when daylight saving time starts and ends](/when-is/daylight-savings/). The [March printable calendar](/march-calendars.html) shows both 2027 change weeks. For how to write a time without the 12 a.m. mix-up, see [is 12 noon a.m. or p.m.](/news/is-12-noon-am-or-pm-midnight/), and for date formats [what International Organization for Standardization (ISO) 8601 is](/news/what-is-iso-8601/). Our guide to [United States time zones](/news/us-time-zones-explained-map-dot/) covers how they are set.

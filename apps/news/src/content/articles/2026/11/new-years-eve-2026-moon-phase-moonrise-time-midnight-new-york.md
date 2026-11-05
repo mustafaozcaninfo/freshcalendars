@@ -122,7 +122,7 @@ All times are local standard time (December is outside daylight time) and come f
 | Anchorage (Alaska Standard Time, AKST) | 11:55 a.m. | 4:19 a.m. | Below the horizon | 4 h 19 min |
 | Honolulu (Hawaii Standard Time, HST) | 12:50 p.m. | 2:03 a.m. | Below the horizon | 2 h 03 min |
 
-Las Vegas has the earliest moonrise of the dozen at 1:29 a.m. PST, and Anchorage the latest at 4:19 a.m. AKST. Midnight in New York is 9 p.m. PST, so a West Coast watch party that follows the New York countdown is even further from moonrise: Los Angeles does not see the Moon until 1:38 a.m. PST.
+Las Vegas has the earliest moonrise of the dozen at 1:29 a.m. PST, and Anchorage the latest at 4:19 a.m. AKST. Midnight in New York is 9 p.m. PST, so a West Coast watch party that follows [the New York countdown](/news/times-square-ball-drop-2026-time-how-to-watch-time-zones/) is even further from moonrise: Los Angeles does not see the Moon until 1:38 a.m. PST.
 
 ## Why does New York show a moonrise on Dec. 31 and another on Jan. 1?
 

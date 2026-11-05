@@ -103,7 +103,7 @@ Each row has a person, a gift idea, a budget, what you spent, an order-by date a
 3. Write an order-by date for any gift that ships, using the table below.
 4. Enter the price in Spent when you buy, tick the boxes as each gift is bought, wrapped and shipped, and update Left.
 
-For a yardstick, the National Retail Federation (NRF) said in its Oct. 16, 2025 release that shoppers planned to spend an average of $627.93 per person on gifts in 2025. That is last year's survey figure. The NRF's 2026 survey release of Oct. 20, 2026 (8,094 adults surveyed Oct. 1-7) gives no per-person figure in the text we could read, so we print none for 2026.
+For a yardstick, the National Retail Federation (NRF) said in its Oct. 16, 2025 release that shoppers planned to spend an average of $627.93 per person on gifts in 2025. That is last year's survey figure. The NRF's 2026 survey release of Oct. 20, 2026 (8,094 adults surveyed Oct. 1-7) gives no per-person figure in the text we could read, so we print none for 2026. For another holiday cost, see our [holiday tipping guide](/news/holiday-tipping-guide-2026-how-much-to-tip/).
 
 ## What is the 2026 ship-by date for each carrier?
 

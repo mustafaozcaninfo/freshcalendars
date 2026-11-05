@@ -126,7 +126,7 @@ Listings change. Check the NHL schedule on game day.
 
 ## The Rangers' Western Canada and Seattle road trip, Nov. 7-13
 
-The Rangers play four games in seven nights out West, every one a late start in New York time. They open at Seattle on Saturday, Nov. 7, at 5 p.m. ET (2 p.m. PT) at Climate Pledge Arena, then visit Edmonton on Monday, Nov. 9, at 8 p.m. ET (6 p.m. MT), Calgary on Wednesday, Nov. 11, at 7:30 p.m. ET (5:30 p.m. MT) and Vancouver on Friday, Nov. 13, at 9 p.m. ET (6 p.m. PT). The three games in Canada add Sportsnet, Sportsnet+ or Prime Video alongside the MSG feed; the Seattle game stays on MSG and MSG 2.
+The Rangers play four games in seven nights out West, every one a late start in New York time. They open at Seattle on Saturday, Nov. 7, at 5 p.m. ET (2 p.m. PT) at Climate Pledge Arena, then visit Edmonton on Monday, Nov. 9, at 8 p.m. ET (6 p.m. MT), Calgary on Wednesday, Nov. 11, at 7:30 p.m. ET (5:30 p.m. MT) and Vancouver on Friday, Nov. 13, at 9 p.m. ET (6 p.m. PT). The three games in Canada add Sportsnet, Sportsnet+ or Prime Video alongside the MSG feed; the Seattle game stays on MSG and MSG 2. For the Oilers' own month, see our [Oilers schedule](/news/edmonton-oilers-schedule-november-2026-game-times-tv-printable/).
 
 ## What channel is Rangers vs. Canadiens on Nov. 16, 2026?
 

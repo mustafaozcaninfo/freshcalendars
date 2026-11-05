@@ -153,7 +153,7 @@ Black Friday 2026 is Nov. 27, so 8 days earlier is Thursday, Nov. 19 and 7 days 
 
 ## What is Amazon's holiday return policy for 2026?
 
-Amazon's consumer page for 2026 was not found as of Oct. 26, 2026. ppc.land reported that an Amazon Seller News post dated Oct. 16, 2026 says items bought Nov. 1 to Dec. 31, 2026 are returnable until Jan. 31, 2027, Apple-branded products until Jan. 15, 2027, and that "This policy will apply every year." That is a report of Amazon's seller notice, so check Amazon's help pages before you rely on it.
+Amazon's consumer page for 2026 was not found as of Oct. 26, 2026. ppc.land reported that an Amazon Seller News post dated Oct. 16, 2026 says items bought Nov. 1 to Dec. 31, 2026 are returnable until Jan. 31, 2027, Apple-branded products until Jan. 15, 2027, and that "This policy will apply every year." That is a report of Amazon's seller notice, so check Amazon's help pages before you rely on it. For return deadlines at other stores, see our guide to [holiday return policies by store](/news/holiday-return-policies-2026-return-deadlines-by-store/).
 
 For comparison, Amazon's 2025 policy said "most items purchased between November 1 and December 31 can be returned until January 31, 2026," with Apple-branded products "through January 15, 2026."
 

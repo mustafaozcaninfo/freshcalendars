@@ -260,7 +260,7 @@ The Federal Trade Commission (FTC) publishes holiday guidance every year. Its ma
 
 ## The rest of the weekend
 
-Black Friday opens a four-day stretch: Small Business Saturday is Nov. 28 and Cyber Monday is Monday, Nov. 30. Our guide to [Small Business Saturday and Cyber Monday 2026](/news/small-business-saturday-2026-november-28-cyber-monday-november-30/) covers both. Before you count on a tax break, read our check of [Black Friday and Cyber Monday 2026 sales tax holidays](/news/black-friday-cyber-monday-2026-sales-tax-holiday/): no state has a general one that weekend. If you are mailing gifts, check the [USPS holiday shipping deadlines for 2026](/news/usps-holiday-shipping-deadlines-2026/). See the date in other years on [when is Black Friday](/when-is/black-friday/) and [when is Cyber Monday](/when-is/cyber-monday/).
+Black Friday opens a four-day stretch: Small Business Saturday is Nov. 28 and Cyber Monday is Monday, Nov. 30. Our guide to [Small Business Saturday and Cyber Monday 2026](/news/small-business-saturday-2026-november-28-cyber-monday-november-30/) covers both. Before you count on a tax break, read our check of [Black Friday and Cyber Monday 2026 sales tax holidays](/news/black-friday-cyber-monday-2026-sales-tax-holiday/): no state has a general one that weekend. If you are mailing gifts, check the [USPS holiday shipping deadlines for 2026](/news/usps-holiday-shipping-deadlines-2026/). See the date in other years on [when is Black Friday](/when-is/black-friday/) and [when is Cyber Monday](/when-is/cyber-monday/). Shoppers in Canada can see our [Black Friday Canada](/news/black-friday-canada-2026-november-27-sale-dates-canadian-tire-november-5/) guide.
 
 ## Print the deals calendar
 

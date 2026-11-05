@@ -199,6 +199,6 @@ The Getting Here page names Hyde Park Corner (Piccadilly line), Knightsbridge (P
 
 ## What else is on in London this month?
 
-The Lord Mayor's Show is on Saturday, Nov. 14, five days before opening day, covered in our [Lord Mayor's Show 2026 story](/news/lord-mayors-show-2026-date-time-route-november-14/). Bonfire Night comes earlier, on Nov. 5, in our [Bonfire Night 2026 story](/news/bonfire-night-2026-thursday-november-5-fireworks-rules/).
+The Lord Mayor's Show is on Saturday, Nov. 14, five days before opening day, covered in our [Lord Mayor's Show 2026 story](/news/lord-mayors-show-2026-date-time-route-november-14/). Bonfire Night comes earlier, on Nov. 5, in our [Bonfire Night 2026 story](/news/bonfire-night-2026-thursday-november-5-fireworks-rules/). For more places to skate this winter, see our [ice skating rinks guide](/news/ice-skating-rinks-2026-27-opening-dates-bryant-park-wollman-chicago-la-london/).
 
 Mark Nov. 19 on the [November 2026 printable calendar](/november-calendars.html) and the closure on Dec. 25 on the [December 2026 printable calendar](/december-calendars.html). Dates, ticket rules and prices can change, so check the Winter Wonderland site before you book.

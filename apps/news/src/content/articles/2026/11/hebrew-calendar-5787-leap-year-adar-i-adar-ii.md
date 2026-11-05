@@ -112,7 +112,7 @@ We checked that list with our own count. Year 5787 is 19 times 304 plus 11, so i
 
 Chabad.org explains that "the added month is called 'Adar I' and is inserted before the month of Adar (termed 'Adar II' in leap years)." The reason, in its words: "This is so that the lunar-based Jewish year should remain aligned with the solar seasons."
 
-So in 5787 the usual Adar becomes Adar II, and a new Adar I comes first.
+So in 5787 the usual Adar becomes Adar II, and a new Adar I comes first. Our guides to [why February is the short month](/news/why-does-february-have-28-days/) and the [next leap day](/news/leap-day-2028-february-29-next-leap-years/) explain the Gregorian calendar's leap rules.
 
 ## What are the 13 months of 5787 in Gregorian dates?
 

@@ -120,7 +120,7 @@ Hawaii and most of Arizona do not observe DST. The U.S. Department of Transporta
 
 ## When do UK and EU clocks go forward in 2027?
 
-[GOV.UK](https://www.gov.uk/when-do-the-clocks-change) says UK clocks go forward 1 hour at 1am on the last Sunday in March and back at 2am on the last Sunday in October. In 2027 those Sundays are March 28 and Oct. 31.
+[GOV.UK](https://www.gov.uk/when-do-the-clocks-change) says UK clocks go forward 1 hour at 1am on the last Sunday in March and back at 2am on the last Sunday in October. In 2027 those Sundays are March 28 and Oct. 31. Our [UK clocks go forward guide](/news/uk-clocks-go-forward-2027-march-28-bst/) covers the British change in detail.
 
 [Directive 2000/84/EC](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32000L0084) sets summer time in the EU from 1:00 a.m. GMT on the last Sunday in March to 1:00 a.m. GMT on the last Sunday in October. That is the same instant as the UK change.
 

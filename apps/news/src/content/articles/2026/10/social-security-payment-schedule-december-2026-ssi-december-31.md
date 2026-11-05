@@ -128,7 +128,7 @@ Fox Business and American Broadcasting Company (ABC) News both reported on Oct. 
 | Wednesday, Jan. 20, 2027 | Birthdays on the 11th to the 20th |
 | Wednesday, Jan. 27, 2027 | Birthdays on the 21st to the 31st |
 
-These Wednesdays are computed from the second, third and fourth Wednesday rule. For people who started benefits before May 1997 or get both Social Security and SSI, the 3rd of the month is Sunday, Jan. 3, 2027. SSA has not confirmed that date on a page we could read, so check your SSA account. See the [January 2027 printable calendar](/january-calendars.html) for the month.
+These Wednesdays are computed from the second, third and fourth Wednesday rule. For people who started benefits before May 1997 or get both Social Security and SSI, the 3rd of the month is Sunday, Jan. 3, 2027. SSA has not confirmed that date on a page we could read, so check your SSA account. See the [January 2027 printable calendar](/january-calendars.html) for the month. Our [January 2027 Social Security schedule](/news/social-security-payment-schedule-january-2027-first-cola-checks/) covers the first checks with the raise.
 
 ## How is your payment date set?
 

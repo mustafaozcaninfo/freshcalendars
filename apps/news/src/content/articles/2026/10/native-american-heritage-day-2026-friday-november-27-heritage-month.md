@@ -134,7 +134,7 @@ For the reason Thanksgiving lands on Nov. 26 this year, see [why Thanksgiving 20
 
 ## When is Native American Heritage Month 2026?
 
-November 1, 2026, is a Sunday, so the month runs from Sunday, Nov. 1 to Monday, Nov. 30, 2026. According to the Bureau of Indian Affairs, Congress designated November 1990 as National American Indian Heritage Month by joint resolution (Public Law 101-343, approved Aug. 3, 1990), and it has become an annual observance in November.
+November 1, 2026, is a Sunday, so the month runs from Sunday, Nov. 1 to Monday, Nov. 30, 2026. According to the Bureau of Indian Affairs, Congress designated November 1990 as National American Indian Heritage Month by joint resolution (Public Law 101-343, approved Aug. 3, 1990), and it has become an annual observance in November. Our [Native American Heritage Month guide](/news/native-american-heritage-month-2026-theme-events-books-activities/) has the theme, events and activities.
 
 ## Has a 2026 proclamation been announced?
 

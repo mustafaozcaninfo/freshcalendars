@@ -138,7 +138,7 @@ Three formulas return calendar days, and they agree when the end date is after t
 
 Microsoft's guide to date differences notes that "Excel provides the DATEDIF function in order to support older workbooks from Lotus 1-2-3." If the start date is greater than the end date, DATEDIF returns #NUM!, Microsoft says.
 
-Subtraction leaves out one day. Jan. 4 to Jan. 8, 2027 is 4 days apart but covers 5 calendar days if both ends count. Add 1 when you want the span inclusive, as in `=B2-A2+1`.
+Subtraction leaves out one day. Jan. 4 to Jan. 8, 2027 is 4 days apart but covers 5 calendar days if both ends count. Add 1 when you want the span inclusive, as in `=B2-A2+1`. If the result shows as a date instead of a number, see [why Excel shows dates as numbers](/news/excel-dates-showing-as-numbers-serial-dates/).
 
 ## What are the Excel and Google Sheets formulas side by side?
 
@@ -157,7 +157,7 @@ For NETWORKDAYS.INTL, Microsoft says a weekend of "1 or omitted" means Saturday 
 
 Microsoft says NETWORKDAYS "Returns the number of whole working days between start_date and end_date." The page does not say in words that both ends count. A Monday-to-Friday week shows it: Monday, Jan. 4, 2027 to Friday, Jan. 8, 2027 returns 5, so NETWORKDAYS counts both the start and end date when they are workdays.
 
-The third argument is a range of holiday dates, such as `=NETWORKDAYS(A2,B2,E2:E12)`. Put the holidays in their own column once and reuse the range. The 2027 list from OPM is in the next section; for how the observed dates work, see [federal holidays in 2027](/news/federal-holidays-2027-observed-dates-list/).
+The third argument is a range of holiday dates, such as `=NETWORKDAYS(A2,B2,E2:E12)`. Put the holidays in their own column once and reuse the range. The 2027 list from OPM is in the next section; for how the observed dates work, see [federal holidays in 2027](/news/federal-holidays-2027-observed-dates-list/). To go the other way and add business days to a date, see our guide to [adding business days in Excel](/news/add-business-days-excel-workday-holidays/).
 
 ## Which 2027 date pairs give which counts?
 

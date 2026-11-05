@@ -139,7 +139,7 @@ No. Target's [Price Match Guarantee](https://www.target.com/help/articles/polici
 
 Target lists these as not matched: a lower price at a different Target store, items with a promotional Target GiftCard, Registry completion coupons and other Target coupons, Target Circle Bonuses, clearance, closeout, liquidation, refurbished or typographical-error prices, and Target Plus items. Target.com matches are not available in Alaska and Hawaii, and "other exclusions may apply."
 
-Ask at checkout or at Guest Services. Target says screenshots or pictures cannot be accepted, so have the digital ad, Target.com or the Target App ready. The phone line is 1-800-591-3869.
+Ask at checkout or at Guest Services. Target says screenshots or pictures cannot be accepted, so have the digital ad, Target.com or the Target App ready. The phone line is 1-800-591-3869. Target's early deal dates and its Holiday Price Match window are in our [Target Black Friday 2026](/news/target-black-friday-2026-early-sale-november-5-7-price-match-dates/) guide.
 
 ## What about Amazon's price matching?
 
