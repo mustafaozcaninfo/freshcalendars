@@ -1,6 +1,6 @@
 import assert from "node:assert/strict";
 import { it } from "node:test";
-import { cannibalization, canonicalRows, expectedCtr, fellTwice, gate, imageGaps, measureExperiment, movers, opportunities, report, sample, section, weeklyTotals, windows, ymd } from "../../../scripts/news-gsc.mjs";
+import { cannibalization, canonicalRows, expectedCtr, fellTwice, gate, imageGaps, measureExperiment, movers, opportunities, report, sample, section, weakPages, weeklyTotals, windows, ymd } from "../../../scripts/news-gsc.mjs";
 
 const day = (date: string, clicks: number, impressions: number) => ({ keys: [date], clicks, impressions });
 
@@ -163,4 +163,20 @@ it("movers says nothing when the earlier window has no data to compare", () => {
   const m = movers([page("a", 300), page("b", 200)], [page("a", 20)]);
   assert.deepEqual([m.decliners.length, m.risers.length], [0, 0]);
   assert.match(String(m.note), /too little data/);
+});
+
+it("weakPages lists news pages with many impressions and few clicks, with their top queries", () => {
+  const pages = [
+    { keys: ["https://freshcalendars.com/news/a/"], impressions: 4000, clicks: 8, position: 9.2 },
+    { keys: ["https://freshcalendars.com/news/b/"], impressions: 4000, clicks: 400, position: 3 },
+    { keys: ["https://freshcalendars.com/news/c/"], impressions: 100, clicks: 0, position: 9 },
+    { keys: ["https://freshcalendars.com/when-is/x/"], impressions: 9000, clicks: 0, position: 12 },
+  ];
+  const pairs = [
+    { keys: ["small", "https://freshcalendars.com/news/a/"], impressions: 10, clicks: 0, position: 9 },
+    { keys: ["big", "https://freshcalendars.com/news/a/"], impressions: 900, clicks: 1, position: 8.8 },
+  ];
+  const out = weakPages(pages, pairs);
+  assert.deepEqual(out.map((p) => p.page), ["https://freshcalendars.com/news/a/"]);
+  assert.deepEqual(out[0].queries.map((q) => q.query), ["big", "small"]);
 });

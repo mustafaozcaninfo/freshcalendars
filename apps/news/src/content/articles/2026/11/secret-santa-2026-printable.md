@@ -128,7 +128,7 @@ This is a planning computation, not a statistic. If the last Ground Advantage se
 | Mail by (Priority Mail Express) | Sat., Dec. 19 |
 | Christmas Day | Fri., Dec. 25 |
 
-For a bigger gift list beyond the exchange, see our [Christmas gift list and budget planner](/news/christmas-gift-list-budget-planner-2026/), and our [weekends until Christmas planner](/news/weekends-until-christmas-2026-saturday-planner-shipping-deadlines/) counts the Saturdays and Sundays left.
+For a bigger gift list beyond the exchange, see our [Christmas gift list and budget planner](/news/christmas-gift-list-budget-planner-2026/), and our [weekends until Christmas planner](/news/weekends-until-christmas-2026-saturday-planner-shipping-deadlines/) counts the Saturdays and Sundays left. On Christmas Eve, our [North American Aerospace Defense Command (NORAD) Santa tracker](/news/norad-tracks-santa-2026-when-tracking-starts-phone-number/) guide follows Santa's route.
 
 ## What did we leave out?
 

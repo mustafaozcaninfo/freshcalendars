@@ -1,6 +1,8 @@
 import type { APIRoute } from "astro";
 import { getIndexableArticles } from "../lib/articles";
+import pins from "../../calendar-pins.json";
 import { articlePath } from "../lib/seo";
+import { pinTarget, withPinned, type LinkStory } from "../lib/calendar-links";
 import { SITE_ORIGIN } from "../lib/site";
 
 /** Calendar site "Latest news" boxes only show recent stories. */
@@ -24,9 +26,12 @@ export const GET: APIRoute = async () => {
   const cutoff = now.getTime() - MAX_AGE_DAYS * 86_400_000;
   const bySlug: Record<string, Story[]> = {};
   const byPath: Record<string, Story[]> = {};
-  for (const a of await getIndexableArticles(now)) {
-    if (a.data.publishedAt.getTime() < cutoff) continue;
+  const stories = await getIndexableArticles(now);
+  const byId = new Map<string, Story>();
+  for (const a of stories) {
     const story = { title: a.data.title, url: `${SITE_ORIGIN}${articlePath(a.id)}`, publishedAt: a.data.publishedAt.toISOString() };
+    byId.set(a.id, story);
+    if (a.data.publishedAt.getTime() < cutoff) continue;
     for (const link of a.data.internalLinks) {
       const slug = /^\/when-is\/([a-z0-9-]+)\/?$/.exec(link.href)?.[1];
       if (slug) {
@@ -44,6 +49,15 @@ export const GET: APIRoute = async () => {
     const words = slug.replace(/^(uk|ca)-/, "").split("-").filter((w) => w.length > 2 && !["day", "the", "and"].includes(w));
     const hits = (s: Story) => words.filter((w) => s.title.toLowerCase().includes(w)).length;
     bySlug[slug] = list.map((s, i) => ({ s, i, h: hits(s) })).sort((a, b) => b.h - a.h || a.i - b.i).slice(0, PER_SLUG).map((x) => x.s);
+  }
+  // Pinned stories (calendar-pins.json) lead their page's box whatever their age; an id that is not
+  // published (yet) is skipped, and apps/news/test/calendar-links.test.ts fails on a misspelled one.
+  for (const [page, ids] of Object.entries(pins as Record<string, string[]>)) {
+    const pinned = ids.map((id) => byId.get(id)).filter((x): x is LinkStory => !!x);
+    if (!pinned.length) continue;
+    const { kind, key } = pinTarget(page);
+    const box = kind === "slug" ? bySlug : byPath;
+    box[key] = withPinned(box[key], pinned, kind === "slug" ? PER_SLUG : PER_PATH);
   }
   return new Response(JSON.stringify({ bySlug, byPath }, null, 2), { headers: { "Content-Type": "application/json" } });
 };

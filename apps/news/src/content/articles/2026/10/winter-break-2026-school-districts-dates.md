@@ -137,7 +137,7 @@ internalLinks:
     label: "January 2027 printable calendar"
   - href: "/page/school-holidays/"
     label: "School holidays guide"
-related: [lausd-calendar-2026-27-winter-break-spring-break, nyc-public-schools-calendar-2026-27-breaks-holidays, columbus-city-schools-calendar-2026-27-breaks]
+related: [lausd-calendar-2026-27-winter-break-spring-break, nyc-public-schools-calendar-2026-27-breaks-holidays, seminole-county-public-schools-calendar-2026-27-breaks]
 downloads:
   - group: "Winter break printable"
     title: "Winter Break 2026 by School District"
@@ -228,7 +228,7 @@ Thanksgiving is Thursday, Nov. 26, 2026. Of the 36 districts with Thanksgiving d
 
 ## Planning travel
 
-The Saturday that starts the break, Dec. 19, and the Sunday before school resumes, Jan. 3, are likely to be busy travel days in districts that share the Dec. 21-Jan. 1 break. Families in Los Angeles have an extra week, through Sunday, Jan. 10. Check whether your school has an early dismissal on Friday, Dec. 18, and plan around the Jan. 4 staff day if your district has one.
+The Saturday that starts the break, Dec. 19, and the Sunday before school resumes, Jan. 3, are likely to be busy travel days in districts that share the Dec. 21-Jan. 1 break. Families in Los Angeles have an extra week, through Sunday, Jan. 10. Check whether your school has an early dismissal on Friday, Dec. 18, and plan around the Jan. 4 staff day if your district has one. Our guide to [January 2027 school holidays](/news/january-2027-school-holidays-by-district/) covers the month after the break.
 
 Mark the dates on our [printable school-year calendar](/printable-school-calendar.html) and the [December](/december-calendars.html) and [January](/january-calendars.html) monthly calendars, see the [school holidays guide](/page/school-holidays/), or print the one-page district table below.
 

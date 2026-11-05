@@ -109,7 +109,7 @@ draft: false
 
 Disney's "Disney Movies Coming to Theaters Fall 2026" says "Marvel Studios' Avengers: Doomsday, arriving in theaters December 18." Dunkin' repeats it in its Oct. 6, 2026 release ("releases in theaters December 18, 2026"), and the Fandango movie page lists "Friday, Dec 18, 2026."
 
-The Motion Picture Association (MPA) blog "The Credits" notes that another film premieres the same day, so check showtimes for both.
+The Motion Picture Association (MPA) blog "The Credits" notes that another film premieres the same day, so check showtimes for both. Our guide to [new movies in theaters in December 2026](/news/new-movies-in-theaters-december-2026-release-dates-avengers-doomsday-dune/) has the month's full lineup.
 
 ## How many days until Avengers: Doomsday?
 

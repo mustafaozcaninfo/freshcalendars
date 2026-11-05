@@ -128,7 +128,7 @@ NBA.com's Aug. 12, 2026 Group Play release sets the Cup knockout rounds: the qua
 
 ## Thunder home and road games in December 2026
 
-The schedule splits the month into six home games and five road games. The Thunder are at home on Dec. 2, 13, 16, 22, 29 and 31. Five of the six games from Friday, Dec. 18, to Sunday, Dec. 27, are on the road: at Charlotte, Atlanta, New Orleans, Minnesota on Christmas Day and Houston, with one home night against the Detroit Pistons on Tuesday, Dec. 22. The Thunder close the year at home against the Miami Heat on New Year's Eve, Thursday, Dec. 31, at 7 p.m. CT (8 p.m. ET). Our [Thunder schedule for November 2026](/news/oklahoma-city-thunder-schedule-november-2026-game-times-tv-nba-cup-printable/) covers the games that come before.
+The schedule splits the month into six home games and five road games. The Thunder are at home on Dec. 2, 13, 16, 22, 29 and 31. Five of the six games from Friday, Dec. 18, to Sunday, Dec. 27, are on the road: at Charlotte, Atlanta, New Orleans, Minnesota on Christmas Day and Houston, with one home night against the Detroit Pistons on Tuesday, Dec. 22. The Thunder close the year at home against the Miami Heat on New Year's Eve, Thursday, Dec. 31, at 7 p.m. CT (8 p.m. ET). Our [Thunder schedule for November 2026](/news/oklahoma-city-thunder-schedule-november-2026-game-times-tv-nba-cup-printable/) covers the games that come before. For another December slate, see the [Celtics schedule for December 2026](/news/celtics-schedule-december-2026-game-times-tv-christmas-printable/).
 
 ## Printable Thunder schedule for December 2026
 

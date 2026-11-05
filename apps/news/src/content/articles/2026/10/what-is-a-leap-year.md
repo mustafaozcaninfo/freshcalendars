@@ -66,7 +66,7 @@ internalLinks:
     label: "February printable calendars"
   - href: "/printable-yearly-calendar.html"
     label: "Printable yearly calendar"
-related: [why-does-february-have-28-days, how-often-does-the-calendar-repeat, how-to-calculate-day-of-year]
+related: [leap-day-2028-february-29-next-leap-years, why-does-february-have-28-days, calendar-act-1752-eleven-days-skipped]
 draft: false
 assets:
   overlay: true
@@ -191,7 +191,7 @@ In the 2028 to 2096 rows, each leap year's Feb. 29 falls two weekdays earlier in
 
 ## Is 2028 the next leap year?
 
-Yes. As of Nov. 2, 2026, the next Feb. 29 is in 2028, on a Tuesday. February has 28 days in 2026 and 2027, and 29 in 2028. The following leap years are 2032, 2036 and 2040. If you plan across a leap day, the [day-of-year calculation](/news/how-to-calculate-day-of-year/) shifts by one from March 1 onward. The [February printable calendars](/february-calendars.html) show the month's layout, and the [printable yearly calendar](/printable-yearly-calendar.html) has a year view.
+Yes. As of Nov. 2, 2026, the next Feb. 29 is in 2028, on a Tuesday. February has 28 days in 2026 and 2027, and 29 in 2028. The following leap years are 2032, 2036 and 2040. If you plan across a leap day, the [day-of-year calculation](/news/how-to-calculate-day-of-year/) shifts by one from March 1 onward. Our guide to [how many days are left in the year](/news/how-many-days-left-in-the-year/) counts the days to Dec. 31. For a birthday, [calculating your age in days](/news/calculate-age-in-days-weeks-months/) shows how leap days add in. The [February printable calendars](/february-calendars.html) show the month's layout, and the [printable yearly calendar](/printable-yearly-calendar.html) has a year view.
 
 ## Why does February get the extra day?
 

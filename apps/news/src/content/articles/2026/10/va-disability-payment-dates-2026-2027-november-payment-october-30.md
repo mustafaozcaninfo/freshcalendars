@@ -162,7 +162,7 @@ The October 2026 date of Thursday, Oct. 1 follows the same first-of-the-month ru
 
 VA's rate page says, "We're required by law to match the percentage of cost-of-living adjustments made to Social Security benefits." The Social Security Administration (SSA) announced a 3.6% cost-of-living adjustment (COLA) for 2027 on Oct. 14, 2026. VA's 2027 rate table is not posted on va.gov as of Oct. 30, 2026, so we give no 2027 amounts.
 
-Last year's pattern, labeled as last year's: the 2026 rates on va.gov are marked "Effective December 1, 2025," and the page was last updated Dec. 2, 2025. For the Social Security side of the same announcement, see [Social Security COLA 2027 is 3.6%](/news/social-security-cola-2027-3-6-percent-payment-dates/) and the [Social Security November 2026 schedule](/news/social-security-payment-schedule-november-2026-veterans-day-shift/). The Veterans Day holiday on Wednesday, Nov. 11 is covered in [Veterans Day 2026](/news/veterans-day-2026-wednesday-november-11/).
+Last year's pattern, labeled as last year's: the 2026 rates on va.gov are marked "Effective December 1, 2025," and the page was last updated Dec. 2, 2025. For the Social Security side of the same announcement, see [Social Security COLA 2027 is 3.6%](/news/social-security-cola-2027-3-6-percent-payment-dates/) and the [Social Security November 2026 schedule](/news/social-security-payment-schedule-november-2026-veterans-day-shift/). The Veterans Day holiday on Wednesday, Nov. 11 is covered in [Veterans Day 2026](/news/veterans-day-2026-wednesday-november-11/). Our [Veterans Day printables](/news/veterans-day-printables-2026-activity-sheet-quiz-thank-you-note/) page has a free activity sheet and quiz.
 
 ## How do I check a VA payment?
 

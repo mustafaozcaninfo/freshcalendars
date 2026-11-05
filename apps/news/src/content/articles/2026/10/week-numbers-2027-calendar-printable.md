@@ -160,7 +160,7 @@ Four of these fall on a weekend in 2027. Federal offices observe Juneteenth on F
 | =WEEKNUM(A1) | U.S., Sunday start | 1 |
 | =WEEKNUM(A1,2) | Monday start, week of Jan. 1 is week 1 | 1 |
 
-Microsoft documents ISOWEEKNUM and the WEEKNUM return types on its support site, and Google Sheets supports the same ISOWEEKNUM function. If a report shows a week number that is one higher than your wall calendar, the formula is probably the plain WEEKNUM.
+Microsoft documents ISOWEEKNUM and the WEEKNUM return types on its support site, and Google Sheets supports the same ISOWEEKNUM function. If a report shows a week number that is one higher than your wall calendar, the formula is probably the plain WEEKNUM. To work out the [day of the week for any date](/news/find-day-of-week-for-any-date/) by hand, see our guide.
 
 ## Planning with week numbers
 

@@ -64,7 +64,7 @@ internalLinks:
     label: "Canada holidays"
   - href: "/december-calendars.html"
     label: "December 2026 printable calendar"
-related: [remembrance-day-2026-canada-statutory-holiday-remembrance-sunday-uk, boxing-day-2026-canada-saturday-december-26-day-off-monday-december-28, ottawa-santa-claus-parade-2026-november-21-route-time]
+related: [santa-claus-parades-2026-canada-hamilton-mississauga-halifax-winnipeg, boxing-day-2026-canada-saturday-december-26-day-off-monday-december-28, ottawa-santa-claus-parade-2026-november-21-route-time]
 downloads:
   - group: "Santa Claus Parade 2026 Day Planner printables"
     title: "Santa Claus Parade 2026 Day Planner, Toronto and Ottawa"
@@ -156,4 +156,4 @@ Official 2026 dates for the Montreal and Vancouver parades were not found when w
 
 ## How do the parades fit the November calendar?
 
-Put Saturday, Nov. 21 and Sunday, Nov. 22 on the [November 2026 printable calendar](/november-calendars.html), and see the [Canada holidays](/canada-holidays/) page for statutory days. Nearby dates are in our [Remembrance Day 2026 story](/news/remembrance-day-2026-canada-statutory-holiday-remembrance-sunday-uk/) and our [Boxing Day 2026 story for Canada](/news/boxing-day-2026-canada-saturday-december-26-day-off-monday-december-28/). A similar holiday-season event in the United States is covered in the [NYC holiday calendar 2026](/news/nyc-holiday-calendar-2026-rockefeller-tree-macys-parade/), and December plans fit the [December 2026 printable calendar](/december-calendars.html).
+Put Saturday, Nov. 21 and Sunday, Nov. 22 on the [November 2026 printable calendar](/november-calendars.html), and see the [Canada holidays](/canada-holidays/) page for statutory days. Nearby dates are in our [Remembrance Day 2026 story](/news/remembrance-day-2026-canada-statutory-holiday-remembrance-sunday-uk/) and our [Boxing Day 2026 story for Canada](/news/boxing-day-2026-canada-saturday-december-26-day-off-monday-december-28/). A similar holiday-season event in the United States is covered in the [NYC holiday calendar 2026](/news/nyc-holiday-calendar-2026-rockefeller-tree-macys-parade/), and December plans fit the [December 2026 printable calendar](/december-calendars.html). Children can also follow our [Santa tracker guide](/news/norad-tracks-santa-2026-when-tracking-starts-phone-number/).

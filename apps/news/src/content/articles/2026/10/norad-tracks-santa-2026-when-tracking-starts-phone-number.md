@@ -60,7 +60,7 @@ internalLinks:
     label: "When is Christmas Eve?"
   - href: "/when-is/christmas-day/"
     label: "When is Christmas Day?"
-related: [christmas-eve-christmas-day-2026-store-hours, advent-calendar-2026-dates-free-printable, december-2026-important-dates-holidays-days-until]
+related: [christmas-eve-christmas-day-2026-store-hours, letters-to-santa-2026-usps-operation-santa-canada-post-deadlines, december-2026-important-dates-holidays-days-until]
 draft: false
 assets:
   kicker: "NORAD Tracks Santa 2026 · Dec. 24"
@@ -152,4 +152,4 @@ NORAD's 2025 release called that year the 70th anniversary year of the tradition
 
 ## Is there a printable timeline for kids?
 
-Yes. The free printable below puts the five steps on one page: the website launch date, the phone number, the same start hour in five U.S. zones and the end of tracking. It uses 2025 hours and says so on the sheet. Pair it with the [December 2026 printable calendar](/december-calendars.html) and the dates for [Christmas Eve](/when-is/christmas-eve/) and [Christmas Day](/when-is/christmas-day/). For store hours that day, see our [Christmas Eve and Christmas Day 2026 store hours](/news/christmas-eve-christmas-day-2026-store-hours/).
+Yes. The free printable below puts the five steps on one page: the website launch date, the phone number, the same start hour in five U.S. zones and the end of tracking. It uses 2025 hours and says so on the sheet. Pair it with the [December 2026 printable calendar](/december-calendars.html) and the dates for [Christmas Eve](/when-is/christmas-eve/) and [Christmas Day](/when-is/christmas-day/). For store hours that day, see our [Christmas Eve and Christmas Day 2026 store hours](/news/christmas-eve-christmas-day-2026-store-hours/). For a gift-exchange draw sheet, see our [Secret Santa printable](/news/secret-santa-2026-printable/).

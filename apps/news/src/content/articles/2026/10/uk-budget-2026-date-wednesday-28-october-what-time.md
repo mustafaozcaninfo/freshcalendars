@@ -68,7 +68,7 @@ internalLinks:
     label: "2026 UK holiday list"
   - href: "/printable-yearly-calendar.html"
     label: "2026 printable yearly calendar"
-related: [scottish-budget-2027-28-december-3-2026-income-tax-bands, national-living-wage-april-2027-13-21-rates-by-age, uk-bank-holidays-2027-dates-england-scotland-northern-ireland]
+related: [scottish-budget-2027-28-december-3-2026-income-tax-bands, national-living-wage-april-2027-13-21-rates-by-age, uk-tax-year-2027-28-key-dates]
 assets:
   overlay: true
   kicker: "UK Budget · Wed. 28 Oct. 2026"
@@ -164,7 +164,7 @@ On Oct. 28 the UK was on GMT, because its clocks went back on Oct. 25. The US wa
 
 ## How does this compare with last year?
 
-GOV.UK says the Chancellor presented the Budget 2025 to Parliament on Wednesday, Nov. 26, 2025. The 2026 date is 29 days earlier in the calendar.
+GOV.UK says the Chancellor presented the Budget 2025 to Parliament on Wednesday, Nov. 26, 2025. The 2026 date is 29 days earlier in the calendar. Our [Canada Budget 2026 date](/news/canada-budget-2026-date-november-5-what-to-know/) guide covers another country's fall budget.
 
 ## Key dates around the Budget
 

@@ -45,8 +45,17 @@ export const ADS_LOADER_JS = `
   var injected=false;
   function inject(){ if(injected) return; injected=true; document.head.appendChild(s); }
   function soon(){ if('requestIdleCallback' in window) requestIdleCallback(inject,{timeout:1000}); else setTimeout(inject,300); }
-  if(document.readyState==='complete') soon();
-  else { addEventListener('load',soon); setTimeout(soon,2500); }
+  // The ad code waits for the reader's first scroll, tap or key, or 8 s after load. Measured on a slow
+  // phone it blocked the main thread 350-500 ms at load and, filling late, became the largest paint
+  // (LCP 5 s on the news home); LCP stops at the first interaction, so ads now load after it.
+  // Slot pushes below still queue on window.adsbygoogle and fill once the script arrives.
+  function arm(){
+    var evs=['scroll','pointerdown','keydown','touchstart'],t=setTimeout(go,8000);
+    function go(){ clearTimeout(t); evs.forEach(function(e){ removeEventListener(e,go,true); }); soon(); }
+    evs.forEach(function(e){ addEventListener(e,go,{capture:true,passive:true}); });
+  }
+  if(document.readyState==='complete') arm();
+  else addEventListener('load',arm);
   window.adsbygoogle=window.adsbygoogle||[];
   // Sidebar rail units: a 300×600 half page when the window can show it whole under the header.
   var tall=innerHeight>=760;

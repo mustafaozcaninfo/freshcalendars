@@ -154,7 +154,7 @@ Not yet. The UN has not announced a 2027 theme or a memorial ceremony time. For 
 
 The USHMM's page for the day lists its Holocaust Encyclopedia and "The Path to Nazi Genocide," a 38-minute film. Both are on the printable.
 
-Jan. 27, 2027 comes three days after International Day of Education on Sunday, Jan. 24; see our [International Day of Education 2027 story](/news/international-day-of-education-2027-sunday-january-24/). Martin Luther King Jr. Day falls nine days earlier, on Jan. 18; see [what is closed on Jan. 18, 2027](/news/martin-luther-king-jr-day-2027-january-18-whats-closed/).
+Jan. 27, 2027 comes three days after International Day of Education on Sunday, Jan. 24; see our [International Day of Education 2027 story](/news/international-day-of-education-2027-sunday-january-24/). Martin Luther King Jr. Day falls nine days earlier, on Jan. 18; see [what is closed on Jan. 18, 2027](/news/martin-luther-king-jr-day-2027-january-18-whats-closed/). For another day of remembrance, see our [Remembrance Sunday](/news/remembrance-sunday-2026-cenotaph-timings-8-november-festival-of-remembrance/) guide.
 
 ## Free printable: Holocaust remembrance dates 2027
 

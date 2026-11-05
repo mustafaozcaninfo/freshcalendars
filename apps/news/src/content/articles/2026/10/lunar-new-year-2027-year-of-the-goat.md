@@ -110,7 +110,7 @@ Because New Year's Day lands on a Saturday, most families in the United States c
 
 The Chinese calendar is lunisolar: months follow the Moon, while the year is kept in step with the seasons. New Year's Day is usually the second new moon after the winter solstice, so it always lands between Jan. 21 and Feb. 20.
 
-In 2027 that new moon comes at 15:56 Coordinated Universal Time (UTC) on Feb. 6, according to the U.S. Naval Observatory. In Beijing it is 11:56 p.m., just four minutes before midnight, so Feb. 6 is New Year's Day in China. Four minutes decide it. In Seoul the clock already reads 12:56 a.m. on Feb. 7, which is why Korea's Seollal comes a day later. Vietnam's Tet follows the same calculation for Hanoi time, where the new moon falls at 10:56 p.m. on Feb. 6.
+In 2027 that new moon comes at 15:56 Coordinated Universal Time (UTC) on Feb. 6, according to the U.S. Naval Observatory. In Beijing it is 11:56 p.m., just four minutes before midnight, so Feb. 6 is New Year's Day in China. Four minutes decide it. In Seoul the clock already reads 12:56 a.m. on Feb. 7, which is why Korea's Seollal comes a day later. Vietnam's Tet follows the same calculation for Hanoi time, where the new moon falls at 10:56 p.m. on Feb. 6. Our [Nowruz 2027](/news/nowruz-2027-date-equinox-time/) guide covers the Persian New Year.
 
 The same new moon also matters for [Ramadan 2027](/news/ramadan-2027-calendar-dates-timetable/), which begins two days later, and it brings an annular solar eclipse over South America and West Africa.
 
@@ -144,7 +144,7 @@ Zodiac years start at Lunar New Year, not Jan. 1. That trips people up. Someone 
 | Double Ninth Festival | Friday, Oct. 8 | 9th day, 9th month |
 | Dongzhi (Winter Solstice) | Wednesday, Dec. 22 | Solar term |
 
-The Mid-Autumn Festival on Sept. 15 is also Korea's Chuseok and falls on the same day as the 2027 Harvest Moon. Our [moon phases 2027 calendar](/news/moon-phases-2027-full-moon-calendar/) has the time of every full moon. There is no leap month in 2027. The lunar year that began on Feb. 6 has 12 months and ends on Jan. 25, 2028. The Year of the Monkey starts on Wednesday, Jan. 26, 2028.
+The Mid-Autumn Festival on Sept. 15 is also Korea's Chuseok and falls on the same day as the 2027 Harvest Moon. Our [moon phases 2027 calendar](/news/moon-phases-2027-full-moon-calendar/) has the time of every full moon. There is [no leap month](/news/chinese-lunar-calendar-2027-months-no-leap-month/) in 2027. The lunar year that began on Feb. 6 has 12 months and ends on Jan. 25, 2028. The Year of the Monkey starts on Wednesday, Jan. 26, 2028.
 
 ## Planning the season
 

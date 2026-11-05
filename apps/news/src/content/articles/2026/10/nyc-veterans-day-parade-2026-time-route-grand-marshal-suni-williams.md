@@ -133,7 +133,7 @@ Not yet announced. UWVC's watch page says "Broadcast information coming soon," a
 
 ## Other Veterans Day parades on Nov. 11: Birmingham
 
-The National Veterans Day Foundation lists its Birmingham, Ala., parade for Wednesday, Nov. 11, 2026. Its page says: "The parade begins at 1:00pm, rain or shine!" That is Central Time (CT), so 2 p.m. ET. The event is listed from 1:00 p.m. to 4:30 p.m. CT. We have no confirmed 2026 times for other cities.
+The National Veterans Day Foundation lists its Birmingham, Ala., parade for Wednesday, Nov. 11, 2026. Its page says: "The parade begins at 1:00pm, rain or shine!" That is Central Time (CT), so 2 p.m. ET. The event is listed from 1:00 p.m. to 4:30 p.m. CT. Times and routes for eight more cities are in our [Veterans Day parades by city](/news/veterans-day-parades-2026-by-city/) table.
 
 ## Arlington National Cemetery observance
 

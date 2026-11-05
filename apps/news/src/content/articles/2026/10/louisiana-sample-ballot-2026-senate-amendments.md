@@ -85,7 +85,7 @@ draft: false
 3. Open "Sample Ballot." It lists every race and amendment for your precinct.
 4. Mark your choices and print them. The Secretary of State says the marked sample ballot is for preparation only and is not an official ballot.
 
-The portal can also search by candidate or amendment. Ballots appear about three weeks before an election, once qualifying closes. Not in Louisiana? Our [sample ballot lookup for every state](/news/sample-ballot-by-zip-code-2026-texas-ballot/) lists each official tool.
+The portal can also search by candidate or amendment. Ballots appear about three weeks before an election, once qualifying closes. Not in Louisiana? Our [sample ballot lookup for every state](/news/sample-ballot-by-zip-code-2026-texas-ballot/) lists each official tool. We also have guides to the [Minnesota ballot](/news/minnesota-ballot-2026-senate-governor-candidates-school-fund-amendment/) and the [New Jersey sample ballot](/news/new-jersey-sample-ballot-2026-senate-early-voting/).
 
 ## Key dates for Nov. 3
 

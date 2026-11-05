@@ -122,11 +122,11 @@ Listings change. Check the NHL schedule on game day.
 
 ## Bruins home stand to open November
 
-The Bruins play their first six games of the month inside a stretch that is nearly all at TD Garden. After hosting Vegas on Monday, Nov. 2, and visiting Pittsburgh on Thursday, Nov. 5, the team returns home for a Sunday matinee against Florida on Nov. 8 at 1 p.m. ET, then hosts Montreal on Thursday, Nov. 12, Minnesota on Saturday, Nov. 14, and Los Angeles on Tuesday, Nov. 17. The one road game at Detroit on Wednesday, Nov. 18, at 7:30 p.m. ET is the Bruins' only national broadcast of the month.
+The Bruins play their first six games of the month inside a stretch that is nearly all at TD Garden. After hosting Vegas on Monday, Nov. 2, and visiting Pittsburgh on Thursday, Nov. 5, the team returns home for a Sunday matinee against Florida on Nov. 8 at 1 p.m. ET, then hosts Montreal on Thursday, Nov. 12, Minnesota on Saturday, Nov. 14, and Los Angeles on Tuesday, Nov. 17. The one road game at Detroit on Wednesday, Nov. 18, at 7:30 p.m. ET is the Bruins' only national broadcast of the month. For the host team's month, see our [Penguins schedule for November 2026](/news/pittsburgh-penguins-schedule-november-2026-game-times-tv-printable/).
 
 ## What channel is Bruins vs. Canadiens on Nov. 12, 2026?
 
-The Bruins host the Montreal Canadiens on Thursday, Nov. 12, at 7 p.m. ET at TD Garden. The NHL lists it on NESN, the Bruins' regional outlet. The Original Six rivals meet here once in November; for Montreal's full month, compare our [Maple Leafs November 2026 schedule](/news/toronto-maple-leafs-schedule-november-2026-game-times-tv-printable/) and the [Rangers November 2026 schedule](/news/rangers-schedule-november-2026-game-times-tv-printable/).
+The Bruins host the Montreal Canadiens on Thursday, Nov. 12, at 7 p.m. ET at TD Garden. The NHL lists it on NESN, the Bruins' regional outlet. The Original Six rivals meet here once in November; for Montreal's full month, compare our [Maple Leafs November 2026 schedule](/news/toronto-maple-leafs-schedule-november-2026-game-times-tv-printable/), the [Oilers November 2026 schedule](/news/edmonton-oilers-schedule-november-2026-game-times-tv-printable/) and the [Rangers November 2026 schedule](/news/rangers-schedule-november-2026-game-times-tv-printable/).
 
 ## Bruins on Thanksgiving weekend 2026
 

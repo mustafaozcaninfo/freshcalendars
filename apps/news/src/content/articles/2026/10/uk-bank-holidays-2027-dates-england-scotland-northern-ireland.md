@@ -46,7 +46,7 @@ internalLinks:
     label: "When is Boxing Day in the UK"
   - href: "/printable-yearly-calendar.html"
     label: "2027 printable yearly calendar"
-related: [uk-annual-leave-2027-bank-holidays-double-your-days-off, st-andrews-day-2026-scotland-bank-holiday-monday-november-30, st-patricks-day-2027-wednesday-march-17-parades-by-city]
+related: [uk-annual-leave-2027-bank-holidays-double-your-days-off, london-new-years-day-parade-2027-start-time-route-tickets, st-patricks-day-2027-wednesday-march-17-parades-by-city]
 downloads:
   - group: "UK bank holidays printable"
     title: "UK Bank Holidays 2027"

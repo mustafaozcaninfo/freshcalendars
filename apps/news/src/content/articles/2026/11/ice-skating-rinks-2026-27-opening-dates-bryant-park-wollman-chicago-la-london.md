@@ -150,6 +150,6 @@ We list no dates or prices for these rinks because their official pages were blo
 
 ## Ice rink dates to mark on your calendar
 
-The printable lists the six season openings with closing dates and a Done column. Add them to the [November 2026 printable calendar](/november-calendars.html) and the [December 2026 printable calendar](/december-calendars.html). Other holiday outings are in our [zoo lights 2026 dates](/news/zoo-lights-2026-dates-national-zoo-bronx-lincoln-park-la-denver-houston/) list.
+The printable lists the six season openings with closing dates and a Done column. Add them to the [November 2026 printable calendar](/november-calendars.html) and the [December 2026 printable calendar](/december-calendars.html). Other holiday outings are in our [zoo lights 2026 dates](/news/zoo-lights-2026-dates-national-zoo-bronx-lincoln-park-la-denver-houston/) list. So are the [Christkindlmarket Chicago dates and hours](/news/christkindlmarket-chicago-2026-dates-hours-wrigleyville-aurora-mugs/).
 
 Dates, hours and prices can change, so check each rink's site before you buy tickets.

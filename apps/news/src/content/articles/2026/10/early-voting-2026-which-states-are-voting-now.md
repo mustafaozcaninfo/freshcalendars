@@ -162,7 +162,7 @@ Michigan and New York opened Saturday, Oct. 24, and have their own guide: [early
 
 ## When is Election Day 2026?
 
-Election Day is Tuesday, Nov. 3, 2026. Early voting is separate from voting by mail. If you plan to return a mail ballot, see the [mail ballot deadlines by state](/news/mail-ballot-deadlines-2026-by-state/). Wondering whether you get the day off? Read [is Election Day a holiday and what is open](/news/is-election-day-a-holiday-2026-whats-open/). Mark Nov. 3 on a [November 2026 printable calendar](/november-calendars.html), and see the [October 2026 calendar](/october-calendars.html) for the early voting weeks that just ended.
+Election Day is Tuesday, Nov. 3, 2026. Early voting is separate from voting by mail. If you plan to return a mail ballot, see the [mail ballot deadlines by state](/news/mail-ballot-deadlines-2026-by-state/). Wondering whether you get the day off? Read [is Election Day a holiday and what is open](/news/is-election-day-a-holiday-2026-whats-open/). Mark Nov. 3 on a [November 2026 printable calendar](/november-calendars.html), and see the [October 2026 calendar](/october-calendars.html) for the early voting weeks that just ended. Illinois voters can see our [Illinois Election Day guide](/news/when-is-election-day-2026-illinois-polls-early-voting/) for polling hours.
 
 ## How to find your polling place
 

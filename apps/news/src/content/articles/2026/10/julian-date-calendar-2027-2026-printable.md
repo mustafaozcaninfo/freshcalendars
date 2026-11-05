@@ -64,7 +64,7 @@ internalLinks:
     label: "2026 printable yearly calendar"
   - href: "/january-calendars.html"
     label: "January 2027 printable calendar"
-related: [how-to-calculate-day-of-year, week-numbers-2027-calendar-printable, 100th-day-of-the-year]
+related: [how-to-calculate-day-of-year, week-numbers-2027-calendar-printable, excel-dates-showing-as-numbers-serial-dates]
 downloads:
   - group: "2027 printables"
     title: "2027 Day-of-Year Chart"

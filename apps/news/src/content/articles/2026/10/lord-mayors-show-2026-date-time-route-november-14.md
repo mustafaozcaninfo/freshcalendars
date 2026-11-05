@@ -130,7 +130,7 @@ Alderman Bronek Masojada will be the 698th Lord Mayor of London, according to th
 
 The 2026 closure details are not yet published. The Show's closures page still shows 2025 guidance, which said most roads in the City of London would be completely closed from about 7 a.m. on the day, and that most roads would reopen around 4 p.m.
 
-Treat those times as last year's pattern. We expect the 2026 closure details and the TfL notice closer to the day, and will update this story then.
+Treat those times as last year's pattern. We expect the 2026 closure details and the TfL notice closer to the day, and will update this story then. Our [Lewes Bonfire Night road closures](/news/lewes-bonfire-night-2026-thursday-5-november-road-closures-last-trains/) guide covers another UK event's road and rail changes.
 
 ## Where can you watch, and is it on TV?
 

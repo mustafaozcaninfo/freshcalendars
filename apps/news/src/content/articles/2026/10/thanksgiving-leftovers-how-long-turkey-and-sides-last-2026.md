@@ -102,7 +102,7 @@ draft: false
 
 **Cooked turkey from Thanksgiving dinner on Thursday, Nov. 26, 2026 is good in the refrigerator through Sunday, Nov. 29 or Monday, Nov. 30, if it was chilled within 2 hours.** That follows the Centers for Disease Control and Prevention (CDC), which says in [Preparing Your Holiday Turkey Safely](https://www.cdc.gov/food-safety/foods/holiday-turkey.html) to eat cooked turkey and dishes made with it within 3 to 4 days. This story turns that window into calendar dates, adds a shorter limit for gravy and ends with a printable tracker.
 
-If you are still planning the front end of the meal, see [how to thaw a Thanksgiving turkey safely](/news/when-to-thaw-thanksgiving-turkey-2026/) and the [Thanksgiving 2026 planner and countdown](/news/thanksgiving-2026-planner-countdown-checklist/). Thanksgiving itself is covered on [When is Thanksgiving?](/when-is/thanksgiving/).
+If you are still planning the front end of the meal, see [how to thaw a Thanksgiving turkey safely](/news/when-to-thaw-thanksgiving-turkey-2026/) and the [Thanksgiving 2026 planner and countdown](/news/thanksgiving-2026-planner-countdown-checklist/). Thanksgiving itself is covered on [When is Thanksgiving?](/when-is/thanksgiving/). For the morning races, see our [Thanksgiving turkey trot start times](/news/turkey-trot-2026-start-times-thanksgiving-races-by-city/).
 
 ## Thanksgiving leftovers dates for 2026
 

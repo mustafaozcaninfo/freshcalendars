@@ -138,7 +138,7 @@ Las Posadas reenacts Mary and Joseph's search for lodging. The Olvera Street sit
 | 8 | Dec. 23 | Wednesday |
 | 9 | Dec. 24 | Thursday |
 
-For the Christmas dates that follow, see [when is Christmas Day](/when-is/christmas-day/) and the [December 2026 printable calendar](/december-calendars.html). Advent begins earlier; see [when Advent starts in 2026](/news/when-does-advent-start-2026-november-29-advent-wreath-candles/).
+For the Christmas dates that follow, see [when is Christmas Day](/when-is/christmas-day/) and the [December 2026 printable calendar](/december-calendars.html). Advent begins earlier; see [when Advent starts in 2026](/news/when-does-advent-start-2026-november-29-advent-wreath-candles/). For a nearby December feast, see our [St. Nicholas Day guide](/news/saint-nicholas-day-2026-december-6-eve-december-5/).
 
 ## What time is Las Posadas at Olvera Street?
 

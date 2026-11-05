@@ -143,7 +143,7 @@ The IRS RMD FAQs, reviewed Jan. 29, 2026, say you must take your first RMD for t
 
 Delaying the first RMD has a catch. If you take it on April 1, 2027, you will also owe the 2027 RMD by Dec. 31, 2027, so two RMDs land in the same tax year.
 
-A missed RMD "may be subject to an excise tax of 25%," the IRS says, reduced to 10% if the amount is corrected in time.
+A missed RMD "may be subject to an excise tax of 25%," the IRS says, reduced to 10% if the amount is corrected in time. Our guide to the [required minimum distribution deadline](/news/2026-required-minimum-distribution-deadline-ira-401k/) covers the details.
 
 ## Which deadlines wait until 2027?
 
@@ -179,4 +179,4 @@ The gift tax annual exclusion for 2026 is $19,000 per recipient, according to Re
 
 Medicare Open Enrollment runs Oct. 15 to Dec. 7, with changes effective Jan. 1, per Medicare.gov. HealthCare.gov says to enroll by Dec. 15 in a new plan for coverage to start Jan. 1. Open Enrollment for 2027 runs Nov. 1 to Jan. 15, and enrolling by Jan. 15 gives coverage starting Feb. 1. Details are in our [Affordable Care Act (ACA) open enrollment 2027 story](/news/aca-open-enrollment-2027-dates-november-1-january-15/); state-run exchanges may differ.
 
-Mark these dates on the [December 2026 printable calendar](/december-calendars.html) and the [January 2027 printable calendar](/january-calendars.html), or use the [printable yearly calendar](/printable-yearly-calendar.html) for the full span.
+Mark these dates on the [December 2026 printable calendar](/december-calendars.html) and the [January 2027 printable calendar](/january-calendars.html), or use the [printable yearly calendar](/printable-yearly-calendar.html) for the full span. Our [year-end digital cleanup checklist](/news/year-end-digital-cleanup-checklist-2026/) covers photos, files, passwords and subscriptions.

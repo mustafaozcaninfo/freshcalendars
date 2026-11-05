@@ -269,7 +269,7 @@ Only Christmas Day is a federal holiday. The rest of the table lists the dates t
 | Mon., Dec. 30, 1:59 p.m. EST | Last quarter Moon | USNO |
 | Thu., Dec. 31 | New Year's Eve; January SSI paid early because Jan. 1 is a holiday | SSA |
 
-USPS dates are for the lower 48 states and are recommendations, not guarantees. The stock market is open on New Year's Eve with normal hours, according to NYSE. For the countdown to each date, see our [December 2026 holidays and important dates](/news/december-2026-important-dates-holidays-days-until/) story; for the eight nights with candle times, [Hanukkah 2026](/news/hanukkah-2026-dates-calendar/).
+USPS dates are for the lower 48 states and are recommendations, not guarantees. The stock market is open on New Year's Eve with normal hours, according to NYSE. For the countdown to each date, see our [December 2026 holidays and important dates](/news/december-2026-important-dates-holidays-days-until/) story; for the eight nights with candle times, [Hanukkah 2026](/news/hanukkah-2026-dates-calendar/). Our [Kwanzaa dates and the seven principles](/news/kwanzaa-2026-dates-seven-principles-calendar-printable/) guide covers that week in full.
 
 ## 16 free printable December 2026 calendar templates
 
@@ -409,6 +409,8 @@ Four small calendars on one sheet with dashed lines to cut along, about postcard
 2. Print at "Actual size" or 100%. "Fit to page" shrinks the margins a little, which is fine too.
 3. Choose portrait or landscape to match the sheet. The landscape and planner templates are wide.
 4. For less ink, pick the blank calendar, the daily list or the mini calendars, or print in grayscale; every sheet stays readable in black and white.
+
+Our guide to [printing a calendar PDF at actual size](/news/how-to-print-a-calendar/) has the print settings for each browser.
 
 ## Christmas week 2026 on the calendar
 

@@ -115,7 +115,7 @@ No. GOV.UK's bank holidays page does not list Nov. 5 for England and Wales, so i
 
 ## When do displays take place?
 
-Often on the weekend. With Nov. 5 on a Thursday this year, many organized displays move to the Friday or Saturday nearest to it. Times vary by town, so check with the council or club running yours.
+Often on the weekend. With Nov. 5 on a Thursday this year, many organized displays move to the Friday or Saturday nearest to it. Times vary by town, so check with the council or club running yours. For one town's road closures and procession times, see our [Lewes Bonfire guide](/news/lewes-bonfire-night-2026-thursday-5-november-road-closures-last-trains/).
 
 ## How does the UK clock change fit in?
 

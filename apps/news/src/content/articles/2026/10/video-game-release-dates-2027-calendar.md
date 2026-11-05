@@ -139,7 +139,7 @@ Other 2027 games have dates reported by the press. They stay off this list until
 
 ## Is Grand Theft Auto VI a 2027 game?
 
-No. Take-Two announced in a Business Wire release on June 24, 2026 that Grand Theft Auto VI is "launching November 19, 2026, for the PlayStation 5 computer entertainment systems and Xbox Series X|S." It belongs to the 2026 calendar. For the launch time in your time zone, see our Grand Theft Auto VI [countdown by time zone](/news/gta-6-countdown-release-time-by-time-zone/) and the story on [what is confirmed for the game](/news/gta-6-october-22-2026-what-is-confirmed-release-countdown/).
+No. Take-Two announced in a Business Wire release on June 24, 2026 that Grand Theft Auto VI is "launching November 19, 2026, for the PlayStation 5 computer entertainment systems and Xbox Series X|S." It belongs to the 2026 calendar. For the launch time in your time zone, see our Grand Theft Auto VI [countdown by time zone](/news/gta-6-countdown-release-time-by-time-zone/) and the story on [what is confirmed for the game](/news/gta-6-october-22-2026-what-is-confirmed-release-countdown/). For the month's other launches, see our [November 2026 game release dates](/news/video-game-release-dates-november-2026-gta-6-ocarina-of-time/).
 
 ## Print the 2027 game release calendar
 

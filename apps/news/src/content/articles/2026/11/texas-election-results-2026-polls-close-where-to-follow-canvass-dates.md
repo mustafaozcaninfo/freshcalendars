@@ -4,7 +4,7 @@ seoTitle: "Texas Election Results 2026: Times and Canvass Dates"
 description: "Most Texas polls close at 7 p.m. Central Time, 8 p.m. Eastern Time (ET), on Nov. 3, 2026. Where to follow the count, late mail ballots and canvass dates."
 type: explainer
 publishedAt: "2026-11-02T13:12:00-05:00"
-updatedAt: "2026-11-04T09:35:00-05:00"
+updatedAt: "2026-11-04T17:25:00-05:00"
 authors: [christina-gerland]
 category: elections
 keywords: ["texas election results 2026", "texas election night results", "when do texas polls close", "texas election canvass 2026", "texas late mail ballots"]
@@ -50,6 +50,10 @@ sources:
   - title: "November 3, 2026, Joint General and Special Election Results"
     url: "https://www.tarrantcountytx.gov/en/elections/past-election-information/2026-archives/november-3--2026--joint-general-and-special-election-results.html"
     publisher: "Tarrant County Elections Administration"
+    date: "2026-11-04"
+  - title: "November 3, 2026 Election Returns"
+    url: "https://elections.bexar.gov/"
+    publisher: "Bexar County Elections Department"
     date: "2026-11-04"
   - title: "November 3, 2026 - General and Special Elections (Live Results)"
     url: "https://www.harrisvotes.com"
@@ -148,7 +152,7 @@ Section 41.032 entitles a voter "inside or waiting to enter the polling place at
 Unofficial results come in two layers: statewide returns and each county's own totals.
 
 - **Statewide races.** The Texas Secretary of State's results pages and election calendar would not open for us on Wed., Nov. 4 (the site returned an access error), so we do not link a confirmed statewide results page. Counting continues on Nov. 4, and every total stays unofficial until the canvass.
-- **County results pages.** Counties post on their own. The Tarrant County Elections Administration's [results page](https://www.tarrantcountytx.gov/en/elections/past-election-information/2026-archives/november-3--2026--joint-general-and-special-election-results.html) lists timed reports in Central Time (CT), local time: early voting results no later than 7:15 p.m. on Nov. 3, then reports no later than 9 p.m., 10 p.m. and 11 p.m., then hourly reports on Nov. 4 from 12 a.m. to 4 a.m. The page states nothing about later updates. The Harris County Clerk's Office Elections Department's [site](https://www.harrisvotes.com) is headed "November 3, 2026 - General and Special Elections" and has a "Live Results" link; it states no posting schedule.
+- **County results pages.** Counties post on their own. The Tarrant County Elections Administration's [results page](https://www.tarrantcountytx.gov/en/elections/past-election-information/2026-archives/november-3--2026--joint-general-and-special-election-results.html) lists timed reports in Central Time (CT), local time: early voting results no later than 7:15 p.m. on Nov. 3, then reports no later than 9 p.m., 10 p.m. and 11 p.m., then hourly reports on Nov. 4 from 12 a.m. to 4 a.m. The page states nothing about later updates. The Harris County Clerk's Office Elections Department's [site](https://www.harrisvotes.com) is headed "November 3, 2026 - General and Special Elections" and has a "Live Results" link; it states no posting schedule. The Bexar County Elections Department's [home page](https://elections.bexar.gov/) links its "November 3, 2026 Election Returns" ([results page](https://results.enr.clarityelections.com/TX/Bexar/127291/)) and an unofficial reconciliation report; it also states no posting schedule.
 - **County races and your own county.** Each county elections office posts its own unofficial totals. Our [sample ballot guide](/news/sample-ballot-by-zip-code-2026-texas-ballot/) links the official elections offices of the 12 most populous counties.
 - **How soon.** We could not confirm one statewide release time. Texas counties may start counting early ballots before Election Day, a point covered in [when we will know the 2026 results](/news/when-will-we-know-election-results-2026-midterms/), and each county posts on its own schedule.
 

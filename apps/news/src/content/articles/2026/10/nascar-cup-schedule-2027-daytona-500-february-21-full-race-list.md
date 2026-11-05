@@ -179,7 +179,7 @@ Two track changes stand out. Dover, which hosted the 2026 All-Star Race, has a p
 
 ## When is the 2027 season finale?
 
-Homestead-Miami closes the year on Sunday, Nov. 14, 2027, according to FOX Sports. Before it come Martinsville on Nov. 7, Talladega on Oct. 31 and Phoenix on Oct. 24. This story does not describe the playoff format for 2027, because the sources used here do not confirm it.
+Homestead-Miami closes the year on Sunday, Nov. 14, 2027, according to FOX Sports. Before it come Martinsville on Nov. 7, Talladega on Oct. 31 and Phoenix on Oct. 24. This story does not describe the playoff format for 2027, because the sources used here do not confirm it. For this year's title race, see our [NASCAR Championship 2026 start time](/news/nascar-championship-2026-homestead-start-time-tv-schedule/) guide.
 
 ## What is still not announced?
 

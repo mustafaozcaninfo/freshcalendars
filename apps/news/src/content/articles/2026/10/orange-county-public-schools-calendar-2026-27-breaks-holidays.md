@@ -47,7 +47,7 @@ internalLinks:
     label: "November 2026 printable calendar"
   - href: "/when-is/thanksgiving/"
     label: "When is Thanksgiving?"
-related: [polk-county-public-schools-calendar-2026-27-breaks, miami-dade-school-calendar-2026-27-breaks, hillsborough-county-public-schools-calendar-2026-27-breaks]
+related: [polk-county-public-schools-calendar-2026-27-breaks, osceola-county-schools-calendar-2026-27-breaks, volusia-county-schools-calendar-2026-27-breaks]
 draft: false
 downloads:
   - group: "OCPS School Calendar 2026-27 printables"

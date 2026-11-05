@@ -158,7 +158,7 @@ Week 5 begins on Thanksgiving, Thursday, Nov. 26, so it is the week to plan arou
 
 The printable has the five weekly chapter ranges, the Dec. 3 premiere row and a tick box for each. An ink-saver version is included. To place the weeks on a page you already use, mark them on a [November 2026 printable calendar](/november-calendars.html), a [December 2026 printable calendar](/december-calendars.html) or a [printable weekly calendar](/printable-weekly-calendar.html).
 
-For other Netflix dates this season, see the [Netflix movies for November 2026](/news/netflix-new-movies-november-2026-release-dates/) and the [Hallmark Countdown to Christmas 2026 schedule](/news/hallmark-countdown-to-christmas-2026-schedule-printable/).
+For other Netflix dates this season, see the [Netflix movies for November 2026](/news/netflix-new-movies-november-2026-release-dates/) and the [Hallmark Countdown to Christmas 2026 schedule](/news/hallmark-countdown-to-christmas-2026-schedule-printable/). Our [Narnia: The Magician's Nephew release date](/news/narnia-the-magicians-nephew-release-date-imax-february-12-2027-netflix-april-2/) guide covers another Netflix film.
 
 ## How we keep this accurate
 

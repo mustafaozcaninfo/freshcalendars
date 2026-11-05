@@ -153,4 +153,4 @@ College Board says about 1.3 million test takers meet the entry requirements eac
 
 Print the one-page timeline below to keep the three score dates and the September 2027 notice in one place. Pencil the dates onto the [November 2026 printable calendar](/november-calendars.html); Nov. 5 and Nov. 12 fall in the weeks before the [Thanksgiving holiday on Nov. 26](/when-is/thanksgiving/). School break dates are in our [Thanksgiving break guide for school districts](/news/thanksgiving-break-2026-school-districts-dates/).
 
-Planning the next exams? See the [SAT and ACT test dates for 2026-27](/news/sat-act-test-dates-2026-27-registration-deadlines/) and the [AP exam schedule for 2027](/news/ap-exam-schedule-2027-dates-times-registration-deadline/).
+Planning the next exams? See the [SAT and ACT test dates for 2026-27](/news/sat-act-test-dates-2026-27-registration-deadlines/) and the [AP exam schedule for 2027](/news/ap-exam-schedule-2027-dates-times-registration-deadline/). Our [SAT November 7 test-day checklist](/news/sat-november-7-2026-test-day-checklist-what-to-bring-score-release-date/) covers what to bring.

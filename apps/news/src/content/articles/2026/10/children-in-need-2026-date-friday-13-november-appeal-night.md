@@ -4,6 +4,7 @@ seoTitle: "Children in Need 2026: Appeal Night Friday, Nov. 13"
 description: "British Broadcasting Corporation (BBC) Children in Need says Appeal Night 2026 is Friday, Nov. 13. The start time is not yet announced. Printable planner."
 type: news
 publishedAt: "2026-10-27T11:55:00-04:00"
+updatedAt: "2026-11-04T13:16:00-05:00"
 authors: [christina-gerland]
 category: uk-canada
 keywords: ["Children in Need 2026", "when is Children in Need 2026", "Children in Need 2026 date", "Pudsey day 2026", "Children in Need appeal night"]
@@ -20,7 +21,7 @@ hero:
     author: "Oscar Taylor"
 summary:
   - "BBC Children in Need's website names Appeal Night 2026 as Friday, Nov. 13, which is 17 days after Oct. 27."
-  - "The 2026 show start time is not yet announced. Nation.Cymru reports a live broadcast on BBC One and BBC iPlayer that evening."
+  - "The 2026 show start time is not yet announced. BBC Children in Need says the Appeal will broadcast live from Salford on BBC One and iPlayer."
   - "In 2025 the 45th Appeal show on Friday, Nov. 14 raised £45.5m, the charity's press release said."
   - "The donate page lists phone, online, Text to Donate and post, and says not to send cash by post."
 faq:
@@ -33,7 +34,7 @@ faq:
   - q: "How do I donate to Children in Need?"
     a: "The charity's donate page lists a phone line (0345 7 33 22 33), a Welsh language line (0345 607 0011), online donations, Text to Donate and post. It says not to send cash by post."
   - q: "Who presents Children in Need 2026?"
-    a: "The Irish News, citing the PA news agency, reports that Alex Jones presents for the first time and Rylan Clark joins as a presenter. More presenters are to be announced."
+    a: "The Irish News, citing the PA news agency, reports that Alex Jones presents for the first time and that Rylan Clark and Sara Cox are on the presenting team. We have not found an official full line-up."
 sources:
   - title: "By the side of every child- BBC Children in Need"
     url: "https://www.bbcchildreninneed.co.uk/"
@@ -56,6 +57,14 @@ sources:
   - title: "BBC Cymru Wales presenters to take on demanding challenges for charity"
     url: "https://nation.cymru/news/bbc-cymru-wales-presenters-to-take-on-demanding-challenges-for-charity/"
     publisher: "Nation.Cymru"
+  - title: "BBC Children in Need Returns"
+    url: "https://www.bbcchildreninneed.co.uk/2026/09/bbc-children-in-need-returns/"
+    publisher: "BBC Children in Need"
+    date: "2026-09-21"
+  - title: "Appeal show - 13th November 2026 - BBC Children in Need"
+    url: "https://bbcchildreninneed.co.uk/shows/appeal-show"
+    publisher: "BBC Children in Need"
+    date: "2026-11-04"
 internalLinks:
   - href: "/november-calendars.html"
     label: "November 2026 printable calendar"
@@ -115,11 +124,13 @@ The homepage says "Take our fundraiser quiz to get your very own 2026 Yellow Env
 
 ## What time is Children in Need 2026 on TV?
 
-The start time is not yet announced on an official page. Nation.Cymru reports a live broadcast on BBC One and BBC iPlayer on Friday, Nov. 13. We have not given a United Kingdom or United States time because there is nothing official to convert. We will add one when it is published.
+BBC Children in Need's Sep. 21, 2026 announcement says the Appeal "will broadcast live from Salford on Friday 13th November on BBC One and iPlayer." The charity's Appeal show page says the show "will be back on 13th November 2026" and tells readers to check back nearer the time, so the start time is not yet announced on an official page. Nation.Cymru also reports the BBC One and BBC iPlayer broadcast. We have not given a United Kingdom or United States time because there is nothing official to convert. We will add one when it is published.
 
 ## Who is presenting the 2026 appeal show?
 
-The Irish News, citing the PA news agency, reports that Alex Jones will present the 2026 appeal show for the first time, and that Rylan Clark also joins as a presenter. More presenters are to be announced, and the full line-up is not yet out.
+The Irish News, citing the PA news agency, reports that Alex Jones will present the 2026 appeal show for the first time, and that Rylan Clark "will appear alongside Alex Jones and Sara Cox on the presenting team." The charity's Sep. 21 announcement says the first presenter announcement would be revealed live on air on The One Show. We have not found an official full line-up.
+
+The same announcement says the Run with Pudsey challenge with Joe Wicks asks for "two miles a day in the two weeks leading up to the Appeal on Friday 13 November." It also says Challenge Yourself 2026 has no set dates, and people can sign up and fundraise now.
 
 ## How many appeals has Children in Need held, and what did 2025 raise?
 
@@ -142,10 +153,10 @@ The page says: "Please do not send cash by post."
 
 ## What is not yet announced?
 
-Not yet announced as of Oct. 27, 2026: the show start time, the full presenter line-up, the dates and route of the Rickshaw Challenge 2026, and merchandise on-sale dates. We will update this story when the charity publishes them.
+Not yet announced on an official page as of Nov. 4, 2026: the show start time and end time. Not yet announced as of Oct. 27, 2026: the full presenter line-up, the dates and route of the Rickshaw Challenge 2026, and merchandise on-sale dates. We will update this story when the charity publishes them.
 
 ## How does Appeal Night fit with other November dates?
 
-Appeal Night falls the day before the Lord Mayor's Show in London, covered in our [Lord Mayor's Show 2026 story](/news/lord-mayors-show-2026-date-time-route-november-14/). Bonfire Night is earlier, on Nov. 5, in our [Bonfire Night 2026 story](/news/bonfire-night-2026-thursday-november-5-fireworks-rules/), and our [Remembrance Day 2026 story](/news/remembrance-day-2026-canada-statutory-holiday-remembrance-sunday-uk/) explains the days around Nov. 8 and Nov. 11.
+Appeal Night falls the day before the Lord Mayor's Show in London, covered in our [Lord Mayor's Show 2026 story](/news/lord-mayors-show-2026-date-time-route-november-14/). Bonfire Night is earlier, on Nov. 5, in our [Bonfire Night 2026 story](/news/bonfire-night-2026-thursday-november-5-fireworks-rules/), and our [Remembrance Day 2026 story](/news/remembrance-day-2026-canada-statutory-holiday-remembrance-sunday-uk/) explains the days around Nov. 8 and Nov. 11. Another November date for children is [World Children's Day](/news/world-childrens-day-2026-friday-november-20-rights-of-the-child/).
 
 Mark Nov. 3 and Nov. 13 on the [November 2026 printable calendar](/november-calendars.html), or add the fundraising steps to a [printable weekly calendar](/printable-weekly-calendar.html).

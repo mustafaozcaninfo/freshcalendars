@@ -4,7 +4,7 @@ seoTitle: "Black Friday 2026 Deals: Nov. 27 Date and Countdown"
 description: "Black Friday 2026 is Friday, Nov. 27. Walmart's Black Friday Deals run Nov. 23 to 29 and Target's early deals Nov. 5 to 7. Live countdown and ad tracker."
 type: news
 publishedAt: "2026-10-23T15:05:00-04:00"
-updatedAt: "2026-11-03T15:25:00-05:00"
+updatedAt: "2026-11-04T21:25:00-05:00"
 authors: [jessica-hartwell]
 category: retail-dates
 keywords: ["black friday 2026 deals", "how many days until black friday 2026", "what date is black friday 2026", "Walmart Black Friday ad 2026", "Target Black Friday 2026"]
@@ -117,6 +117,10 @@ sources:
     url: "https://www.costco.com/o/-/black-friday"
     publisher: "Costco Wholesale"
     date: "2026-11-03"
+  - title: "Everyone Deserves a Better Deal. At JCPenney, They Get One. Period."
+    url: "https://corporate.jcpenney.com/2026/11/02/everyone-deserves-a-better-deal-at-jcpenney-they-get-one-period/"
+    publisher: "JCPenney Newsroom"
+    date: "2026-11-02"
 internalLinks:
   - href: "/november-calendars.html"
     label: "November 2026 printable calendar"
@@ -145,7 +149,7 @@ downloads:
 draft: false
 ---
 
-<p class="callout"><b>Checked Tue., Nov. 3, 2026.</b> Best Buy's DoorBOOsters (from Oct. 30) and Lowe's Black Friday deals (from Oct. 29) are live, and Target's Deal of the Day has run daily since Nov. 1 and continues through Dec. 24. Walmart set its events on Oct. 26 and Best Buy published its holiday calendar on Oct. 27: DoorBOOsters, Early Black Friday Deals Nov. 6, 10 days of Black Friday deals from Nov. 19, and Cyber Week Dec. 1 to 6. Costco has posted its Black Friday prices for Nov. 27 to 30. Amazon has not set dates. We update this tracker as official ads land.</p>
+<p class="callout"><b>Checked Wed., Nov. 4, 2026.</b> JCPenney's Nov. 2 release sets its Black Friday Deals for Nov. 20 to 29. Best Buy's DoorBOOsters (from Oct. 30) and Lowe's Black Friday deals (from Oct. 29) are live, and Target's Deal of the Day has run daily since Nov. 1 and continues through Dec. 24. Walmart set its events on Oct. 26 and Best Buy published its holiday calendar on Oct. 27: DoorBOOsters, Early Black Friday Deals Nov. 6, 10 days of Black Friday deals from Nov. 19, and Cyber Week Dec. 1 to 6. Costco has posted its Black Friday prices for Nov. 27 to 30. Amazon has not set dates. We update this tracker as official ads land.</p>
 
 **Black Friday 2026 is Friday, Nov. 27, and Walmart has now set its deal dates: Black Friday Deals run Monday, Nov. 23, to Sunday, Nov. 29, after an Early Black Friday event Nov. 12 to 15, the company said on Oct. 26.** Target will run a Deal of the Day every day from Nov. 1 to Dec. 24 and Early Black Friday deals from Nov. 5 to 7, according to its Oct. 21 press release. Best Buy's holiday calendar starts its Black Friday deals on Nov. 19, and Costco has published Black Friday 2026 television and electronics warehouse prices. Below is a live countdown, a deals calendar, a status table for each retailer, what Walmart has and has not said, how to judge a deal, and a shopping-safety checklist from the Federal Trade Commission (FTC).
 
@@ -176,6 +180,7 @@ These are the dated events retailers have announced so far. Unconfirmed sales ar
 | Nov. 6 | Friday | Best Buy Early Black Friday Deals and Doorbusters; new deals every Friday | - |
 | Nov. 12 to 15 | Thu. to Sun. | Walmart Early Black Friday Deals | - |
 | Nov. 19 | Thursday | Best Buy starts 10 days of Black Friday doorbusters and deals | - |
+| Nov. 20 to 29 | Fri. to Sun. | JCPenney Black Friday Deals | - |
 | Nov. 22 to 28 | Sun. to Sat. | Kohl's Black Friday Week | - |
 | Nov. 23 to 29 | Mon. to Sun. | Walmart Black Friday Deals | - |
 | Nov. 26 | Thursday | Thanksgiving; Walmart, Best Buy, Home Depot and Kohl's stores closed | - |
@@ -198,6 +203,7 @@ Amazon held its Prime Big Deal Days on Oct. 6 and 7, 2026, and Target ran its Ci
 | Home Depot | Holiday savings start Oct. 29; Black Friday Savings Event Nov. 5 to 25; stores closed Thanksgiving, open 6 a.m. Nov. 27 ([our Home Depot guide](/news/home-depot-black-friday-2026-sale-dates-november-5-25-store-hours/)) | Not confirmed here |
 | Lowe's | Announced Oct. 8: Black Friday deals from Oct. 29; 12 Days of Deals from Nov. 16; stores closed Thanksgiving Day; Doorbusters Nov. 27 ([our Lowe's guide](/news/lowes-black-friday-2026-deals-start-october-29-12-days-of-deals-november-16/)) | Not confirmed here |
 | Kohl's | Announced Oct. 30: Black Friday Early Access Nov. 6 to 8; Black Friday Week Nov. 22 to 28; stores closed Thanksgiving, reopen 5 a.m. local time Nov. 27 ([our Kohl's guide](/news/kohls-black-friday-2026-dates-early-access-november-6-store-hours/)) | Not confirmed here |
+| JCPenney | Announced Nov. 2: Black Friday Deals Nov. 20 to 29 ("Black Friday prices for 10 days"); surprise giveaways in stores at 5 a.m., 9 a.m., 1 p.m. and 5 p.m. on Nov. 27; stores closed Thanksgiving Day, opening 5 a.m. local time on Black Friday | Not confirmed here |
 | Macy's | Not yet announced | Not confirmed here |
 | Dick's Sporting Goods | Not yet announced | Not confirmed here |
 
@@ -254,7 +260,7 @@ The Federal Trade Commission (FTC) publishes holiday guidance every year. Its ma
 
 ## The rest of the weekend
 
-Black Friday opens a four-day stretch: Small Business Saturday is Nov. 28 and Cyber Monday is Monday, Nov. 30. Our guide to [Small Business Saturday and Cyber Monday 2026](/news/small-business-saturday-2026-november-28-cyber-monday-november-30/) covers both. Before you count on a tax break, read our check of [Black Friday and Cyber Monday 2026 sales tax holidays](/news/black-friday-cyber-monday-2026-sales-tax-holiday/): no state has a general one that weekend. If you are mailing gifts, check the [USPS holiday shipping deadlines for 2026](/news/usps-holiday-shipping-deadlines-2026/). See the date in other years on [when is Black Friday](/when-is/black-friday/) and [when is Cyber Monday](/when-is/cyber-monday/).
+Black Friday opens a four-day stretch: Small Business Saturday is Nov. 28 and Cyber Monday is Monday, Nov. 30. Our guide to [Small Business Saturday and Cyber Monday 2026](/news/small-business-saturday-2026-november-28-cyber-monday-november-30/) covers both. Before you count on a tax break, read our check of [Black Friday and Cyber Monday 2026 sales tax holidays](/news/black-friday-cyber-monday-2026-sales-tax-holiday/): no state has a general one that weekend. If you are mailing gifts, check the [USPS holiday shipping deadlines for 2026](/news/usps-holiday-shipping-deadlines-2026/). See the date in other years on [when is Black Friday](/when-is/black-friday/) and [when is Cyber Monday](/when-is/cyber-monday/). Shoppers in Canada can see our [Black Friday Canada](/news/black-friday-canada-2026-november-27-sale-dates-canadian-tire-november-5/) guide.
 
 ## Print the deals calendar
 
