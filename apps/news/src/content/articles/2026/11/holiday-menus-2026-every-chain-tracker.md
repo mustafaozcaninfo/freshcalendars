@@ -4,7 +4,7 @@ seoTitle: "Holiday Menus 2026: Chain-by-Chain Launch Dates"
 description: "Holiday menus 2026: Starbucks starts Thu., Nov. 5; McDonald's, Dutch Bros, Caribou, Scooter's and Dunkin' are live. Launch dates, new items, chains pending."
 type: news
 publishedAt: "2026-11-04T15:00:00-05:00"
-updatedAt: "2026-11-04T15:00:00-05:00"
+updatedAt: "2026-11-05T02:10:00-05:00"
 authors: [jessica-hartwell]
 category: retail-dates
 keywords: ["holiday menus 2026", "christmas menu fast food 2026", "holiday drinks 2026", "when do holiday menus come out 2026"]
@@ -196,6 +196,8 @@ Pepsi Vanilla & Cream and Pepsi Zero Sugar Vanilla & Cream went on sale nationwi
 The free printable lists the seven chains that are live, with each launch date, items to try and a box to mark once tried, on one US Letter page. It uses no logos or brand art; the names are plain text.
 
 Menus run at participating locations, and McDonald's, Caribou Coffee and Dunkin' use that wording, so check the chain's app for your own store before you go.
+
+Before you plan a chain meal, check that the restaurant is open: our [Outback Steakhouse closing locations list](/news/outback-steakhouse-closing-locations-list-2026/) covers the franchisee bankruptcy that has affected some Outback restaurants in the West.
 
 ## How this tracker is kept up to date
 

@@ -4,7 +4,7 @@ seoTitle: "Veterans Day Free Meals 2026: 44 Chains + Printable"
 description: "44 chains confirmed free Veterans Day meals for Wednesday, Nov. 11, 2026, plus 13 discounts, Great Clips cards through Dec. 4, ID rules and a printable list."
 type: update
 publishedAt: "2026-10-20T16:55:00-04:00"
-updatedAt: "2026-11-03T06:39:00-05:00"
+updatedAt: "2026-11-05T02:10:00-05:00"
 authors: [christina-gerland]
 category: holidays
 keywords: ["Veterans Day free meals 2026", "Veterans Day discounts 2026", "Veterans Day restaurant deals", "free meals for veterans November 11", "Veterans Day freebies"]
@@ -166,6 +166,8 @@ All on Nov. 11 unless noted, at participating locations, from Military.com's 202
 | Twin Peaks | Free entrée from a select menu | Plus 20% off all November |
 | White Castle | Free individual combo or breakfast combo | |
 | Yard House | Free appetizer | **Dine-in, military ID** |
+
+Outback's Nov. 10 and 11 offer is at participating restaurants. Out West Restaurant Group, a franchisee that runs 61 Outback restaurants in the West, filed for Chapter 11 on Nov. 2, and Bloomin' Brands' filing says the case has no immediate impact on Out West or company-owned Outback guests. Our [Outback Steakhouse closing locations list](/news/outback-steakhouse-closing-locations-list-2026/) has the details, and a call ahead is the safest check before you go.
 
 ## Discounts and deals with a purchase
 
