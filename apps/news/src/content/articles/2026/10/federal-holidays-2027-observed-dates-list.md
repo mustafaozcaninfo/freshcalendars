@@ -56,7 +56,7 @@ internalLinks:
     label: "When is Juneteenth"
   - href: "/when-is/thanksgiving/"
     label: "When is Thanksgiving"
-related: [stock-market-holidays-2027-nyse-closed-dates, deadline-falls-on-weekend-rules-irs-courts-agencies, count-court-deadlines-rule-6-days]
+related: [stock-market-holidays-2027-nyse-closed-dates, deadline-falls-on-weekend-rules-irs-courts-agencies, net-30-60-90-due-date-calendar-2027]
 downloads:
   - group: "2027 holidays printable"
     title: "Federal Holidays 2027"
