@@ -4,6 +4,7 @@ seoTitle: "Eurovision 2027 Dates: Burgas, May 11, 13 and 15"
 description: "The European Broadcasting Union (EBU) says Eurovision 2027 is in Burgas: semi-finals Tue., May 11 and Thu., May 13, grand final Sat., May 15, at Arena Burgas."
 type: news
 publishedAt: "2026-10-27T07:40:00-04:00"
+updatedAt: "2026-11-04T13:40:00-05:00"
 authors: [christina-gerland]
 category: uk-canada
 keywords: ["Eurovision 2027", "Eurovision 2027 dates", "Eurovision 2027 Burgas", "when is Eurovision 2027", "Eurovision 2027 tickets"]
@@ -19,17 +20,17 @@ assets:
     title: "Eurovision 2027 Countdown and Dates"
     subtitle: "Burgas, Bulgaria: semi-finals and grand final, May 2027"
     layout: timeline
+    noKit: "Dated countdown for one event; no kit fits."
     description: "Confirmed Eurovision 2027 dates in Burgas: host announced Aug. 13, 2026, semi-finals May 11 and 13, grand final May 15, with items not yet announced."
     alt: "Printable Eurovision 2027 timeline with the Burgas semi-finals and grand final dates and items not yet announced"
     rows:
-      - ["Not yet announced", "Ticket sale dates and prices: ____________"]
-      - ["Not yet announced", "UK entry and how the BBC will pick it: ____________"]
+      - ["Early 2027", "Ticket sales open, no exact date yet; prices: ____________"]
+      - ["Not yet announced", "UK entry: ____________"]
       - ["Not yet announced", "Show start times: ____________"]
       - ["Tue., May 11, 2027", "First semi-final, Arena Burgas (196 days from Oct. 27, 2026)"]
       - ["Thu., May 13, 2027", "Second semi-final (198 days from Oct. 27, 2026)"]
       - ["Sat., May 15, 2027", "Grand final (200 days from Oct. 27, 2026)"]
-    note: "Source: European Broadcasting Union (EBU), Burgas to host Eurovision Song Contest 2027 (host announced Aug. 13, 2026). Times, tickets and the UK entry are not yet announced."
-    inkSaver: true
+    note: "Source: European Broadcasting Union (EBU), Burgas to host Eurovision Song Contest 2027 (host announced Aug. 13, 2026). Tickets go on sale early in 2027 (EBU, Oct. 28, 2026). Times and the UK entry are not yet announced."
 hero:
   src: ../../../../assets/news/eurovision-2027-dates-burgas-semi-finals-grand-final-may-15/eurovision-2027-dates-burgas-semi-finals-grand-final-may-15.webp
   alt: "Eurovision 2027 host city Burgas, Bulgaria: the salt lagoons and Burgas Bay on the Black Sea coast seen from the air"
@@ -50,18 +51,10 @@ downloads:
     pdf: "/news/downloads/eurovision-2027/eurovision-2027-countdown-and-dates.pdf"
     png: "/news/downloads/eurovision-2027/eurovision-2027-countdown-and-dates.png"
     pages: 1
-  - group: "Eurovision 2027 Countdown and Dates printables"
-    title: "Eurovision 2027 Countdown and Dates (ink saver)"
-    description: "Confirmed Eurovision 2027 dates in Burgas: host announced Aug. 13, 2026, semi-finals May 11 and 13, grand final May 15, with items not yet announced. Ink-saver version."
-    preview: ../../../../assets/news/eurovision-2027/eurovision-2027-countdown-and-dates-ink.png
-    alt: "Printable Eurovision 2027 timeline with the Burgas semi-finals and grand final dates and items not yet announced, ink-saver version"
-    pdf: "/news/downloads/eurovision-2027/eurovision-2027-countdown-and-dates-ink.pdf"
-    png: "/news/downloads/eurovision-2027/eurovision-2027-countdown-and-dates-ink.png"
-    pages: 1
 summary:
-  - "The European Broadcasting Union (EBU) says Burgas, Bulgaria, hosts the 71st Eurovision Song Contest in May 2027, at Arena Burgas."
-  - "The semi-finals are on Tuesday, May 11 and Thursday, May 13, 2027, and the grand final is on Saturday, May 15, 2027."
-  - "Show start times, ticket sale dates and prices, and the UK entry are not yet announced."
+  - "The European Broadcasting Union (EBU) says Burgas, Bulgaria, hosts the 71st Eurovision Song Contest at Arena Burgas: semi-finals on Tuesday, May 11 and Thursday, May 13, 2027, and the grand final on Saturday, May 15, 2027."
+  - "Tickets for the nine live and preview shows go on sale early in 2027, with no exact date yet; start times, prices and the UK entry are not yet announced."
+  - "The EBU says 36 broadcasters compete, the BBC is in the grand final and Canadian Broadcasting Corporation (CBC)/Radio-Canada takes part for the first time."
   - "From Oct. 27, 2026, the semi-finals are 196 and 198 days away and the grand final is 200 days away."
 faq:
   - q: "When is Eurovision 2027?"
@@ -69,9 +62,11 @@ faq:
   - q: "Where is Eurovision 2027?"
     a: "In Burgas, Bulgaria, at Arena Burgas, the EBU announced on Aug. 13, 2026. Bulgarian National Television (BNT) is the host broadcaster."
   - q: "When do Eurovision 2027 tickets go on sale?"
-    a: "Not yet announced. The EBU's Burgas 2027 frequently asked questions page says ticket details will be announced at a later stage. The page blocked automated access, so we relied on its reported wording."
+    a: "Early in 2027, with no exact date yet. The EBU said on Oct. 28, 2026 that tickets for nine live and preview shows will go on sale early in 2027. Prices are not yet announced."
   - q: "Who will represent the UK at Eurovision 2027?"
-    a: "Not yet announced, and the British Broadcasting Corporation (BBC) has not said how it will pick the entry."
+    a: "The UK entry is not yet announced. According to the EBU, the British Broadcasting Corporation (BBC) is in the grand final on Saturday, May 15, 2027, as a pre-qualified broadcaster."
+  - q: "How many countries and which semi-final?"
+    a: "The EBU says 36 broadcasters compete. The draw that decides each song's semi-final takes place in Burgas in January 2027, with no exact date yet. Ten songs qualify from each semi-final. CBC/Radio-Canada takes part for the first time; its semi-final is not yet announced."
   - q: "What time does Eurovision 2027 start?"
     a: "Start times for 2027 are not yet announced."
 sources:
@@ -83,9 +78,10 @@ sources:
     url: "https://bntnews.bg/news/welcome-39eurovision-2027-39-to-burgas-overview-1407936news.html"
     publisher: "Bulgarian National Television (BNT)"
     date: "2026-08-13"
-  - title: "Frequently asked questions: Burgas 2027"
-    url: "https://www.eurovision.com/newsroom/frequently-asked-questions/faqs-burgas-2027/"
-    publisher: "Eurovision.com"
+  - title: "36 broadcasters to compete at 71st Eurovision Song Contest in Burgas"
+    url: "https://www.ebu.ch/news/2026/10/36-broadcasters-to-compete-at-71st-eurovision-song-contest-in-burgas"
+    publisher: "European Broadcasting Union (EBU)"
+    date: "2026-10-28"
 internalLinks:
   - href: "/may-calendars.html"
     label: "May 2027 printable calendar"
@@ -95,9 +91,9 @@ related: [uk-bank-holidays-2027-dates-england-scotland-northern-ireland, lord-ma
 draft: false
 ---
 
-<p class="callout"><b>Checked Oct. 27, 2026.</b> The dates below are confirmed. Start times, ticket sales and the UK entry are not yet announced; we will update this story when they are.</p>
+<p class="callout"><b>Checked Nov. 4, 2026.</b> The dates below are confirmed. Tickets go on sale early in 2027. Start times, prices and the UK entry are not yet announced.</p>
 
-**Eurovision 2027 is in Burgas, Bulgaria, with semi-finals on Tuesday, May 11 and Thursday, May 13, 2027, and the grand final on Saturday, May 15, 2027, the European Broadcasting Union (EBU) said on Aug. 13, 2026.** The EBU says the 71st Eurovision Song Contest will be staged at Arena Burgas, which it calls Bulgaria's newest sports and entertainment venue. This story counts the days to each show and lists what is confirmed and what is not.
+**Eurovision 2027 is in Burgas, Bulgaria, with semi-finals on Tuesday, May 11 and Thursday, May 13, 2027, and the grand final on Saturday, May 15, 2027, the European Broadcasting Union (EBU) said on Aug. 13, 2026.** The EBU says the 71st Eurovision Song Contest will be staged at Arena Burgas, which it calls Bulgaria's newest sports and entertainment venue. The EBU says six preview shows run between Monday, May 10 and Saturday, May 15, 2027, so nine shows in all (three contests and six previews). This story counts the days to each show and lists what is confirmed and what is not.
 
 ## When is Eurovision 2027?
 
@@ -120,8 +116,14 @@ The day counts are our own calculation from Oct. 27, 2026.
 | Semi-finals: May 11 and 13, 2027 | Confirmed | EBU, Aug. 13, 2026 |
 | Grand final: May 15, 2027 | Confirmed | EBU, Aug. 13, 2026 |
 | Host broadcaster: BNT | Confirmed | BNT, Aug. 13, 2026 |
+| Broadcasters competing: 36 | Confirmed | EBU, Oct. 28, 2026 |
+| Ticket sales: early in 2027 | Confirmed, no exact date yet | EBU, Oct. 28, 2026 |
+| Semi-final draw: Burgas, January 2027 | Confirmed month, no exact date yet | EBU, Oct. 28, 2026 |
+| BBC in the grand final, May 15 | Confirmed | EBU, Oct. 28, 2026 |
+| Canadian Broadcasting Corporation (CBC)/Radio-Canada first-time entry | Confirmed | EBU, Oct. 28, 2026 |
+| Canada's semi-final | Not yet announced | Not posted |
 | Show start times | Not yet announced | Not posted |
-| Ticket sale dates and prices | Not yet announced | EBU questions page, as reported |
+| Ticket prices and exact sale date | Not yet announced | Not posted |
 | UK entry | Not yet announced | Not posted |
 
 ## What time does Eurovision 2027 start?
@@ -130,22 +132,27 @@ Start times are not yet announced, so we give no UK or US time. We will add a ti
 
 ## When do Eurovision 2027 tickets go on sale?
 
-Not yet announced. The EBU's Burgas 2027 frequently asked questions page says ticket sale dates and prices will be announced at a later stage. That page blocked automated access when we checked, so this wording is as reported and not read directly. Official ticket news will come from the EBU and BNT.
+Early in 2027, with no exact date yet. The EBU said on Oct. 28, 2026: "Tickets for 9 live and preview shows will go on sale early in 2027." Prices are not yet announced. Official ticket news will come from the EBU and BNT.
 
-## Who will represent the UK?
+## Who will represent the UK and Canada?
 
-The UK entry and the way the British Broadcasting Corporation (BBC) will choose it are not yet announced.
+The UK entry is not yet announced. According to the EBU, the British Broadcasting Corporation (BBC) is in the grand final on Saturday, May 15, 2027, as a pre-qualified broadcaster. The EBU also says CBC/Radio-Canada will take part for the first time; its semi-final is not yet announced.
+
+## How does the Eurovision 2027 semi-final draw work?
+
+The EBU says the draw to decide which semi-final each song performs in takes place in Burgas in January 2027, with no exact date yet. Ten songs qualify from the First Semi-Final on Tuesday, May 11 and 10 from the Second Semi-Final on Thursday, May 13.
 
 ## Timeline to Eurovision 2027
 
 | Date | Step | Status |
 |---|---|---|
 | Thu., Aug. 13, 2026 | Burgas announced as host | Confirmed |
-| To be announced | Ticket sales open | Not yet announced |
+| January 2027, no exact date yet | Semi-final draw in Burgas | Confirmed month |
+| Early 2027, no exact date yet | Ticket sales open | Confirmed period |
 | Tue., May 11, 2027 | First semi-final | Confirmed |
 | Thu., May 13, 2027 | Second semi-final | Confirmed |
 | Sat., May 15, 2027 | Grand final | Confirmed |
 
 ## Keep the Eurovision 2027 dates
 
-Our free printable timeline lists the three show dates with their day counts and blank lines for the start times, ticket dates and UK entry. Add the year to your plans with the [2027 printable yearly calendar](/printable-yearly-calendar.html), and see our [UK bank holidays 2027 list](/news/uk-bank-holidays-2027-dates-england-scotland-northern-ireland/) for days off around it. Another early 2027 date is covered in our [Grammy nominations 2027 story](/news/grammy-nominations-2027-date-69th-grammys-february-7/).
+Our free printable timeline lists the three show dates with their day counts and blank lines for ticket prices and the UK entry. Add the year to your plans with the [2027 printable yearly calendar](/printable-yearly-calendar.html), and see our [UK bank holidays 2027 list](/news/uk-bank-holidays-2027-dates-england-scotland-northern-ireland/) for days off around it. Another early 2027 date is covered in our [Grammy nominations 2027 story](/news/grammy-nominations-2027-date-69th-grammys-february-7/).
