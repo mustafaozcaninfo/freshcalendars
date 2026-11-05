@@ -1,7 +1,15 @@
 [
   {
+    "date": "2026-12-04",
+    "label": "Critics Choice nominations announced"
+  },
+  {
     "date": "2026-12-07",
-    "label": "Golden Globe nominations announced"
+    "label": "Golden Globe nominations announced, 8 a.m. ET"
+  },
+  {
+    "date": "2026-12-15",
+    "label": "Oscar shortlists announced"
   },
   {
     "date": "2027-01-10",
@@ -12,11 +20,11 @@
     "label": "Oscar nominations announced"
   },
   {
-    "date": "2027-03-14",
-    "label": "99th Oscars, 7 p.m. ET on ABC"
-  },
-  {
     "date": "2027-02-28",
     "label": "The Actor Awards, live on Netflix at 8 p.m. ET"
+  },
+  {
+    "date": "2027-03-14",
+    "label": "99th Oscars, 7 p.m. ET on ABC"
   }
 ]
