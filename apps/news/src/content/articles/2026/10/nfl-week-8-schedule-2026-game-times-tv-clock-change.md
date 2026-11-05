@@ -1,9 +1,10 @@
 ---
-title: "NFL Week 8 Schedule 2026: All 14 Game Times, TV Channels and the Nov. 1 Clock Change"
-seoTitle: "NFL Week 8 Schedule 2026: Game Times and TV"
-description: "National Football League (NFL) Week 8: 14 games from Thu., Oct. 29 to Mon., Nov. 2, 2026, with Eastern Time (ET) kickoffs, TV channels and clock-change times."
+title: "NFL Week 8 Schedule 2026: Final Scores, Times, TV Channels and the Nov. 1 Clock Change"
+seoTitle: "NFL Week 8 2026: Final Scores, Game Times and TV"
+description: "National Football League (NFL) Week 8, 2026: final scores of all 14 games, plus Eastern Time (ET) kickoffs, TV channels and the Nov. 1 clock-change times."
 type: news
 publishedAt: "2026-10-28T17:45:00-04:00"
+updatedAt: "2026-11-05T12:13:00-05:00"
 authors: [jessica-hartwell]
 category: sports
 keywords: ["NFL Week 8 schedule 2026", "NFL games this week", "NFL schedule today Nov 1 2026", "what time do NFL games start after time change"]
@@ -52,32 +53,36 @@ hero:
     author: "Gonzo fan2007"
     authorUrl: "https://commons.wikimedia.org/wiki/User:Gonzo_fan2007"
 summary:
-  - "The National Football League (NFL) lists 14 Week 8 games from Thu., Oct. 29 to Mon., Nov. 2, 2026, per NFL.com; kickoffs are Eastern Time (ET)."
-  - "Thursday's game is on Eastern Daylight Time (EDT); the Sunday and Monday games follow the Nov. 1 clock change and are on Eastern Standard Time (EST)."
-  - "Sunday has eight games at 1:00 p.m. ET, one at 4:05 p.m., two at 4:25 p.m. and Sunday Night Football (SNF) at 8:20 p.m. on NBC."
-  - "The Texans, Saints, Giants and 49ers are on bye."
+  - "The National Football League (NFL) played 14 Week 8 games from Thu., Oct. 29 to Mon., Nov. 2, 2026, per NFL.com; all 14 are final and kickoffs are Eastern Time (ET)."
+  - "Thursday's game was on Eastern Daylight Time (EDT); the Sunday and Monday games followed the Nov. 1 clock change and were on Eastern Standard Time (EST)."
+  - "Sunday had eight games at 1:00 p.m. ET, one at 4:05 p.m., two at 4:25 p.m. and Sunday Night Football (SNF) at 8:20 p.m. on NBC; the Commanders beat the Eagles 27-10."
+  - "The Texans, Saints, Giants and 49ers were on bye. Week 9 is next; see our Week 9 schedule and pick'em sheet."
 faq:
   - q: "What time do NFL games start on Sunday, Nov. 1, 2026?"
-    a: "NFL.com lists eight games at 1:00 p.m. ET, one at 4:05 p.m. ET, two at 4:25 p.m. ET and one at 8:20 p.m. ET. After the clock change those are 12:00 p.m. Central, 11:00 a.m. Mountain and Arizona, and 10:00 a.m. Pacific for the first window."
+    a: "NFL.com listed eight games at 1:00 p.m. ET, one at 4:05 p.m. ET, two at 4:25 p.m. ET and one at 8:20 p.m. ET. After the clock change those were 12:00 p.m. Central, 11:00 a.m. Mountain and Arizona, and 10:00 a.m. Pacific for the first window."
   - q: "Do NFL kickoff times change when clocks fall back?"
-    a: "The listed times are Eastern Time, so they do not move. Clocks fall back at 2 a.m. local time on Sun., Nov. 1, so Sunday's 1:00 p.m. game is EST, and the gap to Arizona, Hawaii and the United Kingdom is different from Thursday's."
+    a: "The listed times were Eastern Time, so they did not move. Clocks fell back at 2 a.m. local time on Sun., Nov. 1, so Sunday's 1:00 p.m. game was EST, and the gap to Arizona, Hawaii and the United Kingdom was different from Thursday's."
   - q: "Which teams are on bye in NFL Week 8?"
-    a: "The Houston Texans, New Orleans Saints, New York Giants and San Francisco 49ers, per NFL.com."
+    a: "The Houston Texans, New Orleans Saints, New York Giants and San Francisco 49ers were on bye, per NFL.com."
   - q: "Which CBS or FOX game will I get on Sunday afternoon?"
-    a: "It depends on your market. NFL.com marks the CBS and FOX Sunday afternoon games as local, so check your local listings."
+    a: "It depended on your market. NFL.com marked the CBS and FOX Sunday afternoon games as local."
   - q: "What channel is Monday Night Football in Week 8?"
-    a: "Bears at Seahawks is on ESPN on Mon., Nov. 2, at 8:15 p.m. ET, per NFL.com."
+    a: "Bears at Seahawks was on ESPN on Mon., Nov. 2, at 8:15 p.m. ET, per NFL.com. The Bears won 34-17."
 sources:
   - title: "NFL Schedule"
     url: "https://www.nfl.com/schedules/"
     publisher: "National Football League"
     date: "2026-10-28"
+  - title: "2026 NFL schedule by week, Week 8"
+    url: "https://www.nfl.com/schedules/2026/by-week/week-8"
+    publisher: "NFL.com"
+    date: "2026-11-05"
 internalLinks:
   - href: "/november-calendars.html"
     label: "November 2026 printable calendar"
   - href: "/printable-weekly-calendar.html"
     label: "printable weekly calendar"
-related: [thursday-night-football-tonight-panthers-packers-tnf-schedule-2026, printable-nfl-schedule-2026-2027-pdf, daylight-saving-time-ends-november-1-2026]
+related: [nfl-week-9-schedule-2026-printable-pick-em-sheet-game-times, printable-nfl-schedule-2026-2027-pdf, daylight-saving-time-ends-november-1-2026]
 downloads:
   - group: "NFL Week 8 Schedule 2026 printables"
     title: "NFL Week 8 Schedule 2026"
@@ -98,11 +103,34 @@ downloads:
 draft: false
 ---
 
-**The National Football League (NFL) plays 14 Week 8 games from Thursday, Oct. 29 to Monday, Nov. 2, 2026, with Sunday kickoffs from 1:00 p.m. Eastern Time (ET), according to NFL.com.** Thursday's game falls before the U.S. clock change and the Sunday and Monday games fall after it, so the same Eastern kickoff lands at different local times. Below: every game in seven time zones, the networks and a one-page printable.
+**The National Football League (NFL) played 14 Week 8 games from Thursday, Oct. 29 to Monday, Nov. 2, 2026, with Sunday kickoffs from 1:00 p.m. Eastern Time (ET), and all 14 are final, according to NFL.com.** Thursday's game came before the U.S. clock change and the Sunday and Monday games came after it, so the same Eastern kickoff landed at different local times. Below: the final scores, every game in seven time zones, the networks and a one-page printable. Week 9 is next: see our [NFL Week 9 schedule and pick'em sheet](/news/nfl-week-9-schedule-2026-printable-pick-em-sheet-game-times/).
 
-## What is the NFL Week 8 schedule for 2026?
+## NFL Week 8 final scores 2026
 
-NFL.com lists these games, all times ET. Thursday is on Eastern Daylight Time (EDT); Sunday and Monday are on Eastern Standard Time (EST). The Central, Mountain, Arizona, Pacific, Hawaii and London columns are our conversion from the listed ET kickoff, not an official schedule. CBS and FOX Sunday afternoon games are regional: NFL.com marks them local, so which one airs depends on your market.
+All 14 games are final, per NFL.com. The winner is listed first.
+
+| Day | Game | Final score |
+|---|---|---|
+| Thu., Oct. 29 | Panthers at Packers | Packers 27, Panthers 19 |
+| Sun., Nov. 1 | Ravens at Bills | Bills 36, Ravens 10 |
+| Sun., Nov. 1 | Titans at Bengals | Bengals 43, Titans 36 |
+| Sun., Nov. 1 | Colts at Jaguars | Jaguars 42, Colts 7 |
+| Sun., Nov. 1 | Browns at Steelers | Steelers 27, Browns 6 |
+| Sun., Nov. 1 | Cardinals at Cowboys | Cardinals 33, Cowboys 30 |
+| Sun., Nov. 1 | Vikings at Lions | Lions 19, Vikings 15 |
+| Sun., Nov. 1 | Raiders at Jets | Raiders 38, Jets 33 |
+| Sun., Nov. 1 | Falcons at Buccaneers | Buccaneers 16, Falcons 0 |
+| Sun., Nov. 1 | Chargers at Rams | Rams 24, Chargers 9 |
+| Sun., Nov. 1 | Chiefs at Broncos | Broncos 28, Chiefs 24 |
+| Sun., Nov. 1 | Patriots at Dolphins | Patriots 24, Dolphins 19 |
+| Sun., Nov. 1 | Eagles at Commanders (SNF) | Commanders 27, Eagles 10 |
+| Mon., Nov. 2 | Bears at Seahawks (MNF) | Bears 34, Seahawks 17 |
+
+Our pages on [Sunday Night Football](/news/sunday-night-football-tonight-eagles-commanders-snf-november-1-2026/) and [Monday Night Football](/news/monday-night-football-tonight-cowboys-eagles-mnf-schedule-2026/) cover the two prime-time games.
+
+## What was the NFL Week 8 schedule for 2026?
+
+NFL.com listed these games, all times ET. Thursday was on Eastern Daylight Time (EDT); Sunday and Monday were on Eastern Standard Time (EST). The Central, Mountain, Arizona, Pacific, Hawaii and London columns are our conversion from the listed ET kickoff, not an official schedule. CBS and FOX Sunday afternoon games were regional: NFL.com marked them local, so which one aired depended on your market.
 
 | Day | Game | Network | ET | Central | Mountain | Arizona | Pacific | Hawaii | London |
 |---|---|---|---|---|---|---|---|---|---|
@@ -121,31 +149,31 @@ NFL.com lists these games, all times ET. Thursday is on Eastern Daylight Time (E
 | Sun., Nov. 1 | Eagles at Commanders (SNF) | NBC | 8:20 p.m. | 7:20 p.m. | 6:20 p.m. | 6:20 p.m. | 5:20 p.m. | 3:20 p.m. | 1:20 a.m. Mon. |
 | Mon., Nov. 2 | Bears at Seahawks (MNF) | ESPN | 8:15 p.m. | 7:15 p.m. | 6:15 p.m. | 6:15 p.m. | 5:15 p.m. | 3:15 p.m. | 1:15 a.m. Tue. |
 
-SNF is Sunday Night Football and MNF is Monday Night Football. The Texans, Saints, Giants and 49ers are on bye in Week 8, per NFL.com.
+SNF is Sunday Night Football and MNF is Monday Night Football. The Texans, Saints, Giants and 49ers were on bye in Week 8, per NFL.com.
 
-## Why do NFL game times shift after the clock change?
+## Why did NFL game times shift after the clock change?
 
-U.S. clocks fall back at 2 a.m. local time on Sunday, Nov. 1, 2026, the same day as the main slate; our [daylight saving time ends Nov. 1, 2026](/news/daylight-saving-time-ends-november-1-2026/) story covers the change. The Eastern kickoff times stay as NFL.com lists them. What moves is the clock in places that do not change with the rest of the country or that changed on a different date.
+U.S. clocks fell back at 2 a.m. local time on Sunday, Nov. 1, 2026, the same day as the main slate; our [daylight saving time ends Nov. 1, 2026](/news/daylight-saving-time-ends-november-1-2026/) story covers the change. The Eastern kickoff times stayed as NFL.com listed them. What moved was the clock in places that do not change with the rest of the country or that changed on a different date.
 
-Arizona does not change clocks. On Thursday, Oct. 29, it matches Pacific time, so 8:15 p.m. ET is 5:15 p.m. there. On Sunday, Nov. 1, it matches Mountain time, so a 1:00 p.m. ET game is 11:00 a.m. in Arizona. Hawaii also stays put: Thursday's game is at 2:15 p.m. there, and Monday's equivalent kickoff is 3:15 p.m.
+Arizona does not change clocks. On Thursday, Oct. 29, it matched Pacific time, so 8:15 p.m. ET was 5:15 p.m. there. On Sunday, Nov. 1, it matched Mountain time, so a 1:00 p.m. ET game was 11:00 a.m. in Arizona. Hawaii also stays put: Thursday's game was at 2:15 p.m. there, and Monday's 8:15 p.m. ET kickoff was 3:15 p.m.
 
-The United Kingdom moved to Greenwich Mean Time (GMT) on Oct. 25. Thursday's game is at 12:15 a.m. on Friday in London, and Sunday's 1:00 p.m. ET window is 6:00 p.m. GMT.
+The United Kingdom moved to Greenwich Mean Time (GMT) on Oct. 25. Thursday's game was at 12:15 a.m. on Friday in London, and Sunday's 1:00 p.m. ET window was 6:00 p.m. GMT.
 
 ## What time are the Sunday games on Nov. 1?
 
-NFL.com lists four Sunday start times, all ET.
+NFL.com listed four Sunday start times, all ET.
 
 - 1:00 p.m.: eight games, four on CBS and four on FOX.
 - 4:05 p.m.: Chargers at Rams on FOX.
 - 4:25 p.m.: Chiefs at Broncos and Patriots at Dolphins on CBS.
 - 8:20 p.m.: Eagles at Commanders on NBC.
 
-For a viewer in Chicago the first window is 12:00 p.m. CST, and in Los Angeles it is 10:00 a.m. PST, by our conversion. Because the CBS and FOX games are regional, the table lists every game but your market may carry only some of them.
+For a viewer in Chicago the first window was 12:00 p.m. CST, and in Los Angeles it was 10:00 a.m. PST, by our conversion. Because the CBS and FOX games were regional, the table lists every game but your market carried only some of them.
 
 ## Is Thursday's game part of Week 8?
 
-Yes. NFL.com lists Panthers at Packers on Thu., Oct. 29 at 8:15 p.m. ET on Prime Video as Week 8. Our [Thursday Night Football story](/news/thursday-night-football-tonight-panthers-packers-tnf-schedule-2026/) has the rest of the Thursday schedule.
+Yes. NFL.com listed Panthers at Packers on Thu., Oct. 29 at 8:15 p.m. ET on Prime Video as Week 8. Our [Thursday Night Football story](/news/thursday-night-football-tonight-panthers-packers-tnf-schedule-2026/) has the rest of the Thursday schedule.
 
 ## Is there a printable NFL Week 8 schedule?
 
-Yes. The one-page printable lists all 14 games with date, Eastern kickoff and network, so you can pin it beside the [November 2026 printable calendar](/november-calendars.html) or a [printable weekly calendar](/printable-weekly-calendar.html). For every week of the season, see our [printable NFL schedule for 2026-2027](/news/printable-nfl-schedule-2026-2027-pdf/). Times can change, so check NFL.com on game day.
+Yes. The one-page printable lists all 14 games with date, Eastern kickoff and network, so you can keep it beside the [November 2026 printable calendar](/november-calendars.html) or a [printable weekly calendar](/printable-weekly-calendar.html). For every week of the season, see our [printable NFL schedule for 2026-2027](/news/printable-nfl-schedule-2026-2027-pdf/). For the next week, use the [NFL Week 9 schedule and pick'em sheet](/news/nfl-week-9-schedule-2026-printable-pick-em-sheet-game-times/).

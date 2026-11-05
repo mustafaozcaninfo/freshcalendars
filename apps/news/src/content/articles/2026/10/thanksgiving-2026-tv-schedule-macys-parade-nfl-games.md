@@ -4,7 +4,7 @@ seoTitle: "Thanksgiving 2026 TV Schedule: Macy's Parade, NFL"
 description: "The 100th Macy's parade airs Thu., Nov. 26 at 8:30 a.m. on NBC. Five National Football League (NFL) games run Nov. 25-27. Times, channels and a printable."
 type: news
 publishedAt: "2026-10-22T12:55:00-04:00"
-updatedAt: "2026-10-24T01:40:00-04:00"
+updatedAt: "2026-11-05T12:17:00-05:00"
 authors: [christina-gerland]
 category: holidays
 keywords: ["Thanksgiving 2026 TV schedule", "Macy's Thanksgiving Day Parade 2026", "NFL Thanksgiving games 2026", "what channel is the Macy's parade on", "Thanksgiving Eve game 2026"]
@@ -71,6 +71,10 @@ sources:
   - title: "U2 to headline halftime of NFL's first-ever Thanksgiving Eve Gameday live on Netflix"
     url: "https://www.nfl.com/news/u2-to-headline-halftime-of-nfl-s-first-ever-thanksgiving-eve-gameday-live-on-netflix"
     publisher: "NFL.com"
+  - title: "Miranda Lambert to perform Cowboys 30th annual Thanksgiving halftime show"
+    url: "https://dallascowboys.com/news/miranda-lambert-to-perform-cowboys-30th-annual-thanksgiving-halftime-show"
+    publisher: "Dallas Cowboys"
+    date: "2026-10-25"
   - title: "America's Most-Watched Entertainment Telecast of the Year, Macy's Thanksgiving Day Parade, Returns Live on NBC"
     url: "https://www.nbcuniversal.com/article/americas-most-watched-entertainment-telecast-year-macys-thanksgiving-day-parader-returns-live-nbc"
     publisher: "NBCUniversal"
@@ -109,7 +113,7 @@ downloads:
 draft: false
 ---
 
-<p class="callout"><b>Updated Sat., Oct. 24, 2026.</b> The NFL has announced that U2 will headline the halftime show of the Thanksgiving Eve game, Packers at Rams, on Wednesday, Nov. 25, live on Netflix. The Thanksgiving Day halftime performers have not been announced.</p>
+<p class="callout"><b>Updated Thu., Nov. 5, 2026.</b> The NFL has announced that U2 will headline the halftime show of the Thanksgiving Eve game, Packers at Rams, on Wednesday, Nov. 25, live on Netflix. The Dallas Cowboys announced on Oct. 25 that Miranda Lambert will perform at halftime of Eagles at Cowboys on Thursday, Nov. 26. Halftime performers for Bears at Lions and Chiefs at Bills have not been announced.</p>
 
 **The 100th Macy's Thanksgiving Day Parade airs on Thursday, Nov. 26, 2026, starting at 8:30 a.m. in all time zones on NBC and Peacock.** Telemundo carries it in Spanish. Around it, the National Football League (NFL) has packed five games into three days, including its first game on Thanksgiving Eve.
 
@@ -155,12 +159,12 @@ NBC has not announced the 2026 hosts or musical acts. Last year's broadcast was 
 
 ### Wednesday, Nov. 25: the first Thanksgiving Eve game
 
-The Green Bay Packers visit the Los Angeles Rams at SoFi Stadium at 8 p.m. ET, streaming on Netflix. NFL.com calls it the league's inaugural Thanksgiving Eve game. In Los Angeles, kickoff is 5 p.m. Pacific Time. U2 will headline the halftime show, the NFL says, in a performance produced by Jesse Collins Entertainment. The Thanksgiving Day halftime performers have not been announced.
+The Green Bay Packers visit the Los Angeles Rams at SoFi Stadium at 8 p.m. ET, streaming on Netflix. NFL.com calls it the league's inaugural Thanksgiving Eve game. In Los Angeles, kickoff is 5 p.m. Pacific Time. U2 will headline the halftime show, the NFL says, in a performance produced by Jesse Collins Entertainment.
 
 ### Thursday, Nov. 26: the tripleheader
 
 - **Bears at Lions, 1 p.m. ET, CBS.** Ford Field, Detroit. The Lions host the early game, as they do every year.
-- **Eagles at Cowboys, 4:30 p.m. ET, FOX.** AT&T Stadium, Arlington, Texas.
+- **Eagles at Cowboys, 4:30 p.m. ET, FOX.** AT&T Stadium, Arlington, Texas. The Dallas Cowboys say Miranda Lambert will perform at halftime.
 - **Chiefs at Bills, 8:20 p.m. ET, NBC.** Highmark Stadium, Orchard Park, New York.
 
 All three also stream on NFL+, and each one on its network's own service: Paramount+, FOX One and Peacock.

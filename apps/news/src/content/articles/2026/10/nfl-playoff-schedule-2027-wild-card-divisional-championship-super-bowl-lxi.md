@@ -4,7 +4,7 @@ seoTitle: "NFL Playoff Schedule 2027: Dates by Round"
 description: "The 2026-27 National Football League (NFL) playoffs start Jan. 16-18, 2027 and end with Super Bowl 61 (LXI) on Feb. 14. Dates by round, plus a printable."
 type: news
 publishedAt: "2026-10-30T23:59:00-04:00"
-updatedAt: "2026-11-03T17:20:00-05:00"
+updatedAt: "2026-11-05T12:17:00-05:00"
 authors: [jessica-hartwell]
 category: sports
 keywords: ["nfl playoff schedule 2027", "when do nfl playoffs start 2027", "wild card weekend 2027", "nfl divisional round 2027", "nfl championship games 2027"]
@@ -38,6 +38,9 @@ sources:
   - title: "2026-27 National Football League important dates"
     url: "https://www.nfl.com/news/2026-27-national-football-league-important-dates"
     publisher: "National Football League"
+  - title: "NFL Schedules: Games, Times, Matchups & Tickets"
+    url: "https://www.nfl.com/schedules/2026/"
+    publisher: "NFL.com"
   - title: "Super Bowl LXI on Disney+"
     url: "https://thewaltdisneycompany.com/news/super-bowl-disney-plus/"
     publisher: "The Walt Disney Company"
@@ -115,7 +118,7 @@ draft: false
 
 | Round | Dates | Weekdays | Status |
 |---|---|---|---|
-| Week 18 (regular season ends) | Jan. 9-10, 2027 | Saturday and Sunday | Dates set by the NFL |
+| Week 18 (regular season ends) | Jan. 9-10, 2027 | Saturday and Sunday | Three Saturday games have times and TV; Sunday times to be announced after Week 17 |
 | Wild Card Weekend | Jan. 16-18, 2027 | Saturday to Monday | Matchups set after Week 18 |
 | Divisional Playoffs | Jan. 23-24, 2027 | Saturday and Sunday | Matchups set after Week 18 |
 | American Football Conference (AFC) and National Football Conference (NFC) Championship Games | Jan. 31, 2027 | Sunday | Matchups set after Week 18 |
@@ -123,7 +126,7 @@ draft: false
 
 *Dates: NFL, 2026-27 National Football League important dates. Weekdays computed by Fresh Calendars.*
 
-The league lists no kickoff times or TV windows for any playoff game yet. Those are not yet announced and are set after Week 18, so they are not in this table.
+The NFL's schedules page lists times for three Week 18 games on Saturday, Jan. 9: 1:00 p.m. Eastern Time (ET) on Netflix, then 4:30 p.m. ET and 8:00 p.m. ET on ESPN and ABC. The other Week 18 games are set for Sunday, Jan. 10 at 1:00 p.m., 4:25 p.m. or 8:20 p.m. ET, with times to be announced after Week 17. The league lists no kickoff times or TV windows for any playoff game yet. Those are not yet announced and are set after Week 18, so they are not in this table.
 
 ## How many days are there between the playoff rounds?
 
@@ -150,4 +153,4 @@ The free printable, "NFL Playoffs 2027 Schedule", lists the five dates above wit
 
 The second free printable, "NFL Playoff Bracket 2027" ([PDF](/news/downloads/nfl-2026/nfl-playoff-bracket-2027.pdf), [PNG](/news/downloads/nfl-2026/nfl-playoff-bracket-2027.png)), is a fill-in bracket on one landscape Letter page. It has seven blank seed lines for the AFC and seven for the NFC, with the round dates from the NFL's important dates on each round header: Wild Card Saturday, Jan. 16 to Monday, Jan. 18, Divisional Saturday, Jan. 23 to Sunday, Jan. 24, Conference Championship Sunday, Jan. 31, and Super Bowl LXI on Sunday, Feb. 14, 2027 at SoFi Stadium in Inglewood, California. The seeds are not set yet; they are decided after Week 18, which ends Jan. 10, 2027, so the team lines stay blank. Kickoff times and TV networks are not yet announced.
 
-The format comes from two newsrooms that agree. NBC Sports (Jan. 7, 2026) describes a 14-team format with seven teams from each conference, where division winners take the top four seeds and only the No. 1 seed gets a first-round bye. CBS Sports (Jan. 6, 2025) also lists the division winners as seeds 1-4 and the three wild cards as seeds 5-7. Both give the Wild Card games as No. 2 against No. 7, No. 3 against No. 6 and No. 4 against No. 5. In the Divisional round, CBS Sports says the lowest remaining seeds travel to the highest remaining seeds, so the No. 1 seed hosts the lowest remaining seed. Both newsroom pieces describe earlier seasons, so check the league's own pages once the seeds are set.
+The format comes from two newsrooms that agree; we did not check it against an official NFL page. NBC Sports (Jan. 7, 2026) describes a 14-team format with seven teams from each conference, where division winners take the top four seeds and only the No. 1 seed gets a first-round bye. CBS Sports (Jan. 6, 2025) also lists the division winners as seeds 1-4 and the three wild cards as seeds 5-7. Both give the Wild Card games as No. 2 against No. 7, No. 3 against No. 6 and No. 4 against No. 5. In the Divisional round, CBS Sports says the lowest remaining seeds travel to the highest remaining seeds, so the No. 1 seed hosts the lowest remaining seed. Both newsroom pieces describe earlier seasons, so check the league's own pages once the seeds are set.

@@ -4,7 +4,7 @@ seoTitle: "Dolphins Schedule 2026: Remaining Games, Times, TV"
 description: "The Dolphins next play the Lions on Sun., Nov. 8, 2026, at 1 p.m. Eastern Time (ET) on FOX. All 10 remaining games with times, TV and a printable."
 type: news
 publishedAt: "2026-11-01T18:40:00-05:00"
-updatedAt: "2026-11-02T14:10:00-05:00"
+updatedAt: "2026-11-05T12:13:00-05:00"
 authors: [jessica-hartwell]
 category: sports
 keywords: ["Dolphins schedule", "Miami Dolphins schedule 2026", "Dolphins next game", "Dolphins schedule printable"]
@@ -115,7 +115,7 @@ The Dolphins (1-5 entering the game) hosted the New England Patriots on Sun., No
 
 | Week | Date | Game | Time (ET / CT / PT) | TV | Stadium |
 |---|---|---|---|---|---|
-| 8 | Sun., Nov. 1 | Patriots at Dolphins | 4:25 p.m. ET | CBS | Hard Rock Stadium |
+| 8 | Sun., Nov. 1 | Patriots at Dolphins | Final (Patriots 24, Dolphins 19) | CBS | Hard Rock Stadium |
 | 9 | Sun., Nov. 8 | Lions at Dolphins | 1 p.m. / noon / 10 a.m. | FOX | Hard Rock Stadium |
 | 10 | Sun., Nov. 15 | Dolphins at Colts | 1 p.m. / noon / 10 a.m. | CBS | Lucas Oil Stadium |
 | 11 | Sun., Nov. 22 | Dolphins at Bills | 1 p.m. / noon / 10 a.m. | FOX | Highmark Stadium |

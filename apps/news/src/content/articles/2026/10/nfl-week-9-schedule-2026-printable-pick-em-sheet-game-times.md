@@ -4,7 +4,7 @@ seoTitle: "NFL Week 9 Schedule 2026: Times and Pick'em Sheet"
 description: "National Football League (NFL) Week 9: 15 games, Thu., Nov. 5 to Mon., Nov. 9, 2026, with Eastern Time (ET) kickoffs, TV channels and a printable pick'em sheet."
 type: news
 publishedAt: "2026-10-29T03:43:00-04:00"
-updatedAt: "2026-11-05T09:22:00-05:00"
+updatedAt: "2026-11-05T12:23:00-05:00"
 authors: [jessica-hartwell]
 category: sports
 keywords: ["NFL Week 9 schedule 2026", "NFL Week 9 pick em sheet printable", "NFL Week 9 game times TV", "Bengals Falcons Madrid time"]
@@ -85,7 +85,7 @@ internalLinks:
     label: "November 2026 printable calendar"
   - href: "/printable-weekly-calendar.html"
     label: "printable weekly calendar"
-related: [miami-dolphins-schedule-2026-remaining-games-times-tv-printable, printable-nfl-schedule-2026-2027-pdf, printable-nfl-pickem-sheets-2026]
+related: [thursday-night-football-tonight-jaguars-ravens-tnf-schedule-2026, monday-night-football-tonight-bills-vikings-mnf-november-9-2026, printable-nfl-pickem-sheets-2026]
 downloads:
   - group: "NFL Week 9 Pick'em Sheet 2026 printables"
     title: "NFL Week 9 Pick'em Sheet 2026"
@@ -129,6 +129,8 @@ Every kickoff in this table is in ET, taken from NFL.com's Week 9 page. Clocks f
 | Sun., Nov. 8 | 4:25 p.m. | Packers at Patriots | FOX |
 | Sun., Nov. 8 | 8:20 p.m. | Buccaneers at Bears | NBC |
 | Mon., Nov. 9 | 8:15 p.m. | Bills at Vikings | ESPN, ABC, ESPN2, NFL Network |
+
+The three prime-time games each have their own guide: [Thursday Night Football, Jaguars at Ravens](/news/thursday-night-football-tonight-jaguars-ravens-tnf-schedule-2026/), [Sunday Night Football, Buccaneers at Bears](/news/sunday-night-football-tonight-buccaneers-bears-snf-november-8-2026/) and [Monday Night Football, Bills at Vikings](/news/monday-night-football-tonight-bills-vikings-mnf-november-9-2026/).
 
 ## What time is each Week 9 window in my time zone?
 

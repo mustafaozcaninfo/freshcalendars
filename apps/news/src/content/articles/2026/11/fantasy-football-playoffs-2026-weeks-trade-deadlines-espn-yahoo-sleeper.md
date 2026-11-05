@@ -4,7 +4,7 @@ seoTitle: "Fantasy Football Playoffs 2026: Weeks 15-18 Dates"
 description: "ESPN's fantasy football playoffs run Week 15 to 18, Dec. 17 to Jan. 10, after 14 regular weeks, by National Football League (NFL) dates in Eastern Time (ET)."
 type: explainer
 publishedAt: "2026-11-03T11:02:00-05:00"
-updatedAt: "2026-11-03T11:02:00-05:00"
+updatedAt: "2026-11-05T12:15:00-05:00"
 authors: [jessica-hartwell]
 category: sports
 keywords: ["fantasy football playoffs 2026 weeks", "when do fantasy football playoffs start 2026", "fantasy football championship week 2026", "fantasy trade deadline 2026"]
@@ -40,7 +40,7 @@ assets:
           - "Week 18, Jan. 9 to 10: my opponent"
           - "My league's trade deadline"
       unconfirmed:
-        - { label: "Week 15, 17 and 18 kickoff times", why: "NFL.com lists the first and last game days; Week 18 games are announced after Week 17" }
+        - { label: "Week 18 matchups and times beyond the Saturday slots", why: "NFL.com's Week 18 page lists three Saturday games and says game times will be determined and announced" }
         - { label: "ESPN trade deadline date", why: "ESPN's help page names a universal deadline but no 2026 date" }
 hero:
   src: ../../../../assets/news/fantasy-football-playoffs-2026-weeks-trade-deadlines-espn-yahoo-sleeper/fantasy-football-playoffs-2026-weeks-trade-deadlines-espn-yahoo-sleeper.webp
@@ -55,7 +55,7 @@ hero:
 summary:
   - "ESPN sets 14 regular-season weeks for fantasy football and says its playoffs begin in Week 15 and finish in Week 18; in the 2026 National Football League (NFL) schedule that is Dec. 17 to Jan. 10."
   - "NFL Week 16 has games on Thursday, Dec. 24 and Friday, Dec. 25, so players in those games lock before the weekend on a platform that locks each player at his own kickoff."
-  - "ESPN has a universal trade deadline in public leagues but no 2026 date on its help page; Yahoo posts no 2026 defaults there; Sleeper lets commissioners set the week or turn it off."
+  - "ESPN has a universal trade deadline in public leagues but no 2026 date on its help page; Yahoo posts no 2026 defaults there; Sleeper says commissioners can manage the trade deadline in General Settings."
   - "A free one-page printable lists Weeks 14 to 18, the Christmas games in Eastern Time (ET) and a matchup line for each playoff week."
 faq:
   - q: "When do fantasy football playoffs start in 2026?"
@@ -63,7 +63,7 @@ faq:
   - q: "What week is the fantasy football championship in 2026?"
     a: "ESPN says its playoffs finish in Week 18, which NFL.com lists for Jan. 9-10, 2027. A league that ends earlier has its own settings."
   - q: "When is the fantasy trade deadline in 2026?"
-    a: "ESPN has not posted the date on its help page. Sleeper commissioners pick the deadline week or turn it off, and for private leagues on any platform, check your league settings."
+    a: "ESPN has not posted the date on its help page. Sleeper says commissioners can manage the trade deadline in the league's General Settings, and for private leagues on any platform, check your league settings."
   - q: "When does the real NFL trade deadline fall in 2026?"
     a: "Nov. 10, 2026, per NFL.com's important dates page. It has no effect on a fantasy trade deadline."
   - q: "Do any teams have a bye in fantasy playoff weeks?"
@@ -135,12 +135,12 @@ ESPN's page says "ESPN has set fourteen (14) weeks in the regular season" and "P
 | NFL week | First to last game day | Under ESPN's default | Lineup-lock note |
 |---|---|---|---|
 | Week 14 | Thu., Dec. 10 (Vikings at Patriots, 8:15 p.m. ET) to Mon., Dec. 14 (Steelers at Jaguars, 8:15 p.m. ET) | Last regular-season week | Thursday and Monday night games |
-| Week 15 | Thu., Dec. 17 (49ers at Chargers) to Mon., Dec. 21 | Playoffs begin | Thursday game starts the week |
-| Week 16 | Thu., Dec. 24 (Texans at Eagles, 8:15 p.m. ET) to Mon., Dec. 28 | Playoff week | Games on Christmas Eve and Christmas Day |
-| Week 17 | Thu., Dec. 31 (Ravens at Bengals) to Mon., Jan. 4, 2027 (Texans at Packers) | Playoff week | Starts on New Year's Eve, a Thursday |
-| Week 18 | Jan. 9-10, 2027 | Playoffs finish | Game times come after Week 17 |
+| Week 15 | Thu., Dec. 17 (49ers at Chargers, 8:15 p.m. ET) to Mon., Dec. 21 (Patriots at Chiefs, 8:15 p.m. ET); Sat., Dec. 19 has games at 5:00 p.m. and 8:20 p.m. ET | Playoffs begin | Thursday game starts the week |
+| Week 16 | Thu., Dec. 24 (Texans at Eagles, 8:15 p.m. ET) to Mon., Dec. 28; NFL.com says two Week 16 games will be played Saturday at 4:30 p.m. and 8:00 p.m. ET on NFL Network (matchups not named) | Playoff week | Games on Christmas Eve and Christmas Day |
+| Week 17 | Thu., Dec. 31 (Ravens at Bengals, 8:15 p.m. ET) to Mon., Jan. 4, 2027 (Texans at Packers, 8:15 p.m. ET) | Playoff week | Starts on New Year's Eve, a Thursday |
+| Week 18 | Jan. 9-10, 2027 (Saturday: 1:00 p.m. ET on Netflix, 4:30 p.m. and 8:00 p.m. ET on ESPN/ABC) | Playoffs finish | NFL.com says game times will be determined and announced |
 
-NFL.com lists Week 18 as "January 9-10" on its important dates page and says game dates and times are announced after Week 17. Mark the weeks on the [December 2026 printable calendar](/december-calendars.html) and the [January 2027 printable calendar](/january-calendars.html).
+NFL.com lists Week 18 as "January 9-10" on its important dates page. Its Week 18 schedule page says three games will be played Saturday (1:00 p.m. ET on Netflix, 4:30 p.m. and 8:00 p.m. ET on ESPN/ABC) and that game times will be determined and announced. Mark the weeks on the [December 2026 printable calendar](/december-calendars.html) and the [January 2027 printable calendar](/january-calendars.html).
 
 ## Which Week 16 games lock lineups early on Christmas?
 
@@ -154,11 +154,11 @@ Yahoo's lineup help page says players lock at "The start of the player's real-li
 |---|---|---|
 | ESPN | 14 regular-season weeks; playoffs Week 15 to Week 18; a universal trade deadline in public leagues | A 2026 trade deadline date |
 | Yahoo | Players lock at the start of the real-life game | 2026 playoff weeks or a default trade deadline; the page still names the 2025 schedule |
-| Sleeper | Commissioners can change the deadline week or turn it off | A default deadline week |
+| Sleeper | Commissioners can manage the trade deadline in General Settings | A default deadline week |
 
 ## When is the fantasy football trade deadline in 2026?
 
-ESPN's help page, updated Aug. 11, 2026, says "In all ESPN Public fantasy leagues, there is a universal Trade Deadline set by ESPN." It gives no 2026 date, so check your league settings for the day. Sleeper's page, dated Apr. 22, 2026, says commissioners "can change the deadline week in the league's General Settings, or turn the deadline off entirely." Yahoo's help page lists no default trade deadline.
+ESPN's help page, updated Aug. 11, 2026, says "In all ESPN Public fantasy leagues, there is a universal Trade Deadline set by ESPN." It gives no 2026 date, so check your league settings for the day. Sleeper's page, dated Apr. 22, 2026, says "Commissioners can manage the trade deadline at any time in the league's General Settings." Yahoo's help page lists no default trade deadline.
 
 The NFL's own trade deadline is a different date: Nov. 10, 2026, per NFL.com's important dates page. See our [NFL trade deadline 2026 story](/news/nfl-trade-deadline-2026-november-10-time-et/) for the time.
 
@@ -168,4 +168,4 @@ No. NFL.com's bye-week list runs from Week 5 to Week 14, with no byes in Week 12
 
 ## How do you use the fantasy football playoff weeks sheet?
 
-The landscape sheet lists the Week 14 opener and closer, the Christmas Eve and Christmas Day games in Eastern, Central, Mountain and Pacific time, and a line per playoff week for your opponent and your league's trade deadline. Weeks 15, 17 and 18 show their game days but no kickoff times, because NFL.com's pages here give none. Write your own league's weeks in if your commissioner changed them.
+The landscape sheet lists the Week 14 opener and closer, the Christmas Eve and Christmas Day games in Eastern, Central, Mountain and Pacific time, and a line per playoff week for your opponent and your league's trade deadline. The sheet does not print Week 15, 17 or 18 kickoff times; they are in the table above. Write your own league's weeks in if your commissioner changed them.

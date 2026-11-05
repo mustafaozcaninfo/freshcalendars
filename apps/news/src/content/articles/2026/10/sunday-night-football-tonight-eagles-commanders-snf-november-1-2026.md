@@ -102,7 +102,7 @@ internalLinks:
     label: "November 2026 printable calendar"
   - href: "/when-is/daylight-savings/"
     label: "When does daylight saving time end?"
-related: [nfl-week-8-schedule-2026-game-times-tv-clock-change, monday-night-football-tonight-cowboys-eagles-mnf-schedule-2026, thursday-night-football-tonight-panthers-packers-tnf-schedule-2026]
+related: [nfl-week-8-schedule-2026-game-times-tv-clock-change, monday-night-football-tonight-cowboys-eagles-mnf-schedule-2026, sunday-night-football-tonight-buccaneers-bears-snf-november-8-2026]
 draft: false
 ---
 

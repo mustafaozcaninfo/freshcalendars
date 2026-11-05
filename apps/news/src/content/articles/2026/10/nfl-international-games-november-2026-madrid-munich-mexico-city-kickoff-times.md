@@ -4,6 +4,7 @@ seoTitle: "NFL Madrid, Munich, Mexico City 2026 Kickoff Times"
 description: "The National Football League (NFL) plays Bengals vs. Falcons in Madrid Sun., Nov. 8, 2026, at 9:30 a.m. Eastern Time (ET), 3:30 p.m. local, on NFL Network."
 type: news
 publishedAt: "2026-10-28T02:40:00-04:00"
+updatedAt: "2026-11-05T12:15:00-05:00"
 authors: [jessica-hartwell]
 category: sports
 keywords: ["NFL Madrid game 2026 kickoff time", "NFL Munich game 2026 time", "NFL Mexico City game 2026", "NFL international games 2026 schedule"]
@@ -93,7 +94,7 @@ draft: false
 
 ## When are the NFL international games in November 2026?
 
-NFL.com lists the three games below. The team named second is the designated home team. NFL Football Operations says the 2026 season has "a record-breaking nine games played across four continents." The other six were Melbourne (Sept. 10), Rio de Janeiro (Sept. 27), London (Oct. 4, Oct. 11 and Oct. 18) and Paris (Oct. 25, Steelers and Saints at the Stade de France).
+NFL.com lists the three games below. NFL.com's game pages print "VS." and do not label a home team. NFL Football Operations says the 2026 season has "a record-breaking nine games played across four continents." The other six were Melbourne (Sept. 10), Rio de Janeiro (Sept. 27), London (Oct. 4, Oct. 11 and Oct. 18) and Paris (Oct. 25, Steelers and Saints at the Stade de France).
 
 | Week | Date | Game | Stadium | Kickoff (ET) | TV and streaming |
 |---|---|---|---|---|---|
@@ -101,7 +102,7 @@ NFL.com lists the three games below. The team named second is the designated hom
 | 10 | Sun., Nov. 15 | Patriots at Lions | FC Bayern Munich Stadium, Munich | 9:30 a.m. | FOX, FOX One, NFL+ |
 | 11 | Sun., Nov. 22 | Vikings at 49ers | Estadio Banorte, Mexico City | 8:20 p.m. | NBC, Peacock, NFL+ |
 
-The Patriots' own announcement on May 14, 2026, gives the Munich start as "9:30 a.m. ET (3:30 p.m. Munich time)." For the full season, see our [printable NFL schedule for 2026-2027](/news/printable-nfl-schedule-2026-2027-pdf/).
+NFL.com names the Munich venue FC Bayern Munich Stadium; the Patriots and NFL Football Operations call it FC Bayern Munich Arena. The Patriots' own announcement on May 14, 2026, gives the Munich start as "9:30 a.m. ET (3:30 p.m. Munich time)." For the full season, see our [printable NFL schedule for 2026-2027](/news/printable-nfl-schedule-2026-2027-pdf/).
 
 ## What time do the games start in your time zone?
 

@@ -4,7 +4,7 @@ seoTitle: "NFL Trade Deadline 2026: Nov. 10, 4 p.m. ET"
 description: "The National Football League (NFL) trade deadline is Tue., Nov. 10, 2026, at 1 p.m. Pacific Time, or 4 p.m. Eastern Time (ET). See every time zone."
 type: explainer
 publishedAt: "2026-10-25T23:40:00-04:00"
-updatedAt: "2026-10-29T11:50:00-04:00"
+updatedAt: "2026-11-05T12:15:00-05:00"
 authors: [jessica-hartwell]
 category: sports
 keywords: ["NFL trade deadline 2026", "when is the NFL trade deadline", "NFL trade deadline time"]
@@ -20,6 +20,7 @@ assets:
     title: "NFL Trade Deadline Countdown 2026"
     subtitle: "From the Nov. 10 deadline to Super Bowl 61"
     layout: timeline
+    noKit: "a countdown timeline of league dates from one deadline to the Super Bowl, not a game watch guide or fact table"
     rows:
       - ["Sun., Nov. 1", "Daylight saving time ends (our calculation)"]
       - ["Tue., Nov. 10", "Trade deadline, 1 p.m. PT (4 p.m. ET), after Week 9"]
@@ -27,7 +28,7 @@ assets:
       - ["Jan. 9 to Jan. 10, 2027", "Week 18, final regular-season weekend"]
       - ["Jan. 16 to Jan. 18, 2027", "Wild Card weekend"]
       - ["Feb. 14, 2027", "Super Bowl 61 (LXI) at SoFi Stadium"]
-    note: "Source: Seahawks.com (NFL Announces Important Dates For 2026-2027, July 7, 2026); Chargers.com (Oct. 21, 2026); NFL.com Bills schedule. ET time is our calculation."
+    note: "Source: Seahawks.com (NFL Announces Important Dates For 2026-2027, July 7, 2026); Chargers.com (Nov. 4, 2026); NFL.com Bills schedule. ET time is our calculation."
     inkSaver: true
     description: "A one-page countdown from the Nov. 10, 2026 NFL trade deadline to Thanksgiving, Week 18, Wild Card weekend and Super Bowl 61, with dates."
     alt: "Printable NFL trade deadline 2026 countdown timeline from Nov. 10 to the Super Bowl on Feb. 14, 2027"
@@ -60,7 +61,7 @@ sources:
   - title: "What You Need to Know About the Chargers Ahead of 2026 NFL Trade Deadline"
     url: "https://www.chargers.com/news/2026-nfl-trade-deadline"
     publisher: "Chargers.com"
-    date: "2026-10-21"
+    date: "2026-11-04"
   - title: "NFL trade deadline: Track every move since start of 2025 regular season"
     url: "https://www.nfl.com/news/nfl-trade-deadline-track-every-move-since-start-of-2025-regular-season"
     publisher: "NFL.com"
@@ -70,6 +71,9 @@ sources:
   - title: "2026 NFL bye weeks schedule for all 32 teams"
     url: "https://www.foxsports.com/stories/nfl/2026-nfl-bye-weeks-schedule-all-32-teams"
     publisher: "Fox Sports"
+  - title: "2026-27 National Football League important dates"
+    url: "https://www.nfl.com/news/2026-27-national-football-league-important-dates"
+    publisher: "NFL.com"
 internalLinks:
   - href: "/when-is/daylight-savings/"
     label: "When does daylight saving time end?"
@@ -106,7 +110,7 @@ This page adds a time-zone table and a one-page countdown printable that runs fr
 
 ## What time is the NFL trade deadline in my time zone?
 
-Chargers.com ("What You Need to Know About the Chargers Ahead of 2026 NFL Trade Deadline," Oct. 21, 2026) gives the time as "1 p.m. (PT)" and says "all trades must be submitted to the league by 1 p.m. (PT) on that day." Daylight saving time ends on Sunday, Nov. 1, 2026, so on Nov. 10 the clocks are already on standard time. The conversions below are our calculation, not a league figure.
+Chargers.com ("What You Need to Know About the Chargers Ahead of 2026 NFL Trade Deadline," Nov. 4, 2026) gives the time as "1 p.m. (PT)" and says "all trades must be submitted to the league by 1 p.m. (PT) on that day." Daylight saving time ends on Sunday, Nov. 1, 2026, so on Nov. 10 the clocks are already on standard time. The conversions below are our calculation, not a league figure.
 
 | Time zone | Deadline on Tue., Nov. 10, 2026 |
 |---|---|
@@ -131,7 +135,7 @@ NFL.com's trade tracker gives the 2025 cutoff as "Nov. 4's 4 p.m. ET," a Tuesday
 
 ## What comes after the deadline?
 
-The Seahawks.com post also lists the season's key dates. The regular season began on Wednesday, Sept. 9, 2026. Week 18 is Saturday, Jan. 9 and Sunday, Jan. 10, 2027, Wild Card weekend is Jan. 16 to 18, 2027, and Super Bowl 61 (LXI) is Feb. 14, 2027, at SoFi Stadium in Inglewood, California. Our [Super Bowl LXI date story](/news/super-bowl-lxi-2027-date-sofi-stadium-channel-halftime/) covers that game.
+The Seahawks.com post also lists the season's key dates. NFL.com's important dates page lists Kickoff Weekend for Sept. 9-10 and 13-14, 2026. Week 18 is Saturday, Jan. 9 and Sunday, Jan. 10, 2027, Wild Card weekend is Jan. 16 to 18, 2027, and Super Bowl 61 (LXI) is Feb. 14, 2027, at SoFi Stadium in Inglewood, California. Our [Super Bowl LXI date story](/news/super-bowl-lxi-2027-date-sofi-stadium-channel-halftime/) covers that game.
 
 Fox Sports reports that bye weeks run from Week 5 to Week 14. That is a reported schedule detail, not one we confirmed with the league.
 
