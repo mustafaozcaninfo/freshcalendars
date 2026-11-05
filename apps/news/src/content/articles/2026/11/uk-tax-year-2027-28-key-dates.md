@@ -3,7 +3,7 @@ title: "UK Tax Year 2027-28: Starts 6 April 2027, and the Key HMRC Dates"
 seoTitle: "UK Tax Year 2027-28: Start Date and Key HMRC Dates"
 description: "The UK 2027-28 tax year runs from 6 April 2027 to 5 April 2028 on GOV.UK's pattern; HM Revenue and Customs (HMRC) dates from 6 April 2027 to May 2028 are below."
 type: explainer
-publishedAt: "2026-11-04T22:50:00-05:00"
+publishedAt: "2026-11-04T22:43:00-05:00"
 authors: [jessica-hartwell]
 category: calendar-guides
 keywords: ["uk tax year 2027-28", "tax year dates uk", "when does the tax year start uk", "hmrc key dates 2027"]
@@ -12,7 +12,7 @@ hero:
   src: ../../../../assets/news/uk-tax-year-2027-28-key-dates/uk-tax-year-2027-28-key-dates.webp
   alt: "The Palace of Westminster and Whitehall in London, with the UK tax year 2027-28 starting 6 April 2027"
   caption: "The Palace of Westminster and Whitehall in London, seen from the dome of Methodist Central Hall (file photo)."
-  credit: "Photo: Colin / Wikimedia Commons, cropped"
+  credit: "Photo: Colin / Wikimedia Commons, cropped, edited"
   license:
     name: "CC BY-SA 4.0"
     url: "https://creativecommons.org/licenses/by-sa/4.0"
@@ -23,7 +23,7 @@ summary:
   - "Following the 6 April to 5 April pattern GOV.UK shows for 2025-26 and 2026-27, the 2027-28 UK tax year runs from Tuesday 6 April 2027 to Wednesday 5 April 2028."
   - "Making Tax Digital (MTD) for Income Tax extends to sole traders and landlords earning more than £30,000 from 6 April 2027, according to HM Revenue and Customs (HMRC)."
   - "Applying GOV.UK's day-and-month rules, the 2026-27 Self Assessment return and tax are due by 11:59pm on 31 January 2028, a Monday; the paper deadline, 31 October 2027, is a Sunday."
-  - "Our table lists 13 HMRC dates from 6 April 2027 to 7 May 2028 with computed weekdays, and a one-page printable carries them."
+  - "Our table lists 13 HMRC dates from 6 April 2027 to 7 May 2028 with computed weekdays, and a one-page printable carries 12 of them."
 faq:
   - q: "When does the 2027-28 tax year start in the UK?"
     a: "On 6 April 2027. GOV.UK shows tax years running from 6 April to 5 April, for example 6 April 2026 to 5 April 2027, so 2027-28 runs from 6 April 2027 to 5 April 2028."
@@ -33,9 +33,13 @@ faq:
     a: "GOV.UK says you must give your employees a P60 by 31 May. In 2027 that is a Monday."
   - q: "Who must use Making Tax Digital for Income Tax from 6 April 2027?"
     a: "GOV.UK says people with income over £30,000 need to use it from 6 April 2027. People with income over £20,000 follow from 6 April 2028."
-  - q: "What is the PAYE payment date each month?"
+  - q: "What is the Pay As You Earn (PAYE) payment date each month?"
     a: "GOV.UK says the 22nd of the next tax month if you pay monthly. A cheque sent by post must reach HMRC by the 19th."
 sources:
+  - title: "Budget 2026 (HTML)"
+    url: "https://www.gov.uk/government/publications/budget-2026-document/budget-2026-html"
+    publisher: "HM Treasury, GOV.UK"
+    date: "2026-10-28"
   - title: "Self Assessment tax returns: Deadlines"
     url: "https://www.gov.uk/self-assessment-tax-returns/deadlines"
     publisher: "GOV.UK"
@@ -122,7 +126,15 @@ assets:
         - { date: "2027-11-07", cells: { "Making Tax Digital": "Quarterly update, period to 5 October" }, src: 9, quote: "5 October 7 November" }
         - { date: "2028-01-31", cells: { "Individuals": "Online return and tax due, 11:59pm" }, src: 1, quote: "You must submit your online tax return by 11:59pm on 31 January" }
         - { date: "2028-02-07", cells: { "Making Tax Digital": "Quarterly update, period to 5 January" }, src: 9, quote: "5 January 7 February" }
-downloads: []
+downloads:
+  - group: "UK Tax Year 2027-28 Key HMRC Dates printables"
+    title: "UK Tax Year 2027-28 Key HMRC Dates"
+    description: "One page of key UK tax dates for the 2027-28 tax year: Making Tax Digital, P60, employer and Self Assessment deadlines, in date order."
+    preview: ../../../../assets/news/uk-tax-year-2027-28/uk-tax-year-2027-28-key-dates-planner.png
+    alt: "Printable grid of UK 2027-28 tax year dates from 6 April 2027 to May 2028 for individuals, employers and Making Tax Digital"
+    pdf: "/news/downloads/uk-tax-year-2027-28/uk-tax-year-2027-28-key-dates-planner.pdf"
+    png: "/news/downloads/uk-tax-year-2027-28/uk-tax-year-2027-28-key-dates-planner.png"
+    pages: 1
 draft: false
 ---
 
@@ -145,7 +157,7 @@ GOV.UK states most of these dates as a day and month, not a year. The table appl
 | 31 July 2027 | Saturday | Individuals | Second payment on account |
 | 7 August 2027 | Saturday | MTD users | Quarterly update for the period to 5 July |
 | 5 October 2027 | Tuesday | Individuals | Tell HMRC if you need to complete a tax return for the previous year |
-| 22 October 2027 | Friday | Employers | Pay a PAYE Settlement Agreement; 19 October (Tuesday) if paying by cheque |
+| 22 October 2027 | Friday | Employers | Pay a Pay As You Earn (PAYE) Settlement Agreement; 19 October (Tuesday) if paying by cheque |
 | 31 October 2027 | Sunday | Individuals | HMRC must receive a paper return by 11:59pm |
 | 7 November 2027 | Sunday | MTD users | Quarterly update for the period to 5 October |
 | 31 January 2028 | Monday | Individuals | Online return and the Self Assessment tax, both by 11:59pm |
@@ -162,15 +174,15 @@ Four things are dated to the start of the year, all from official pages.
 
 **Making Tax Digital for Income Tax.** GOV.UK's guidance, updated 26 March 2026, says people with income over £50,000 use it from 6 April 2026, people over £30,000 "will need to use it from 6 April 2027", and people over £20,000 from 6 April 2028. HMRC's 5 October 2026 news release says it "will extend to sole traders and landlords earning more than £30,000 from 6 April 2027." GOV.UK's quarterly update page ties each period to a date: to 5 July, send by 7 August; to 5 October, 7 November; to 5 January, 7 February; to 5 April, 7 May.
 
-**Cash ISA limit.** An HMRC policy paper dated 17 September 2026 said it would "reduce the annual cash ISA subscription limit to £12,000 for individuals aged under 65 from 6 April 2027", with the limit staying at £20,000 for people aged 65 or over. Our [UK Budget 2026 story](/news/uk-budget-2026-date-wednesday-28-october-what-time/) reports that the Budget 2026 document later dropped that cut, so the cash Individual Savings Account (ISA) limit stays at £20,000. GOV.UK says the most you can save across ISAs in 2026-27 is £20,000; we found no page that states the overall 2027-28 figure.
+**Cash Individual Savings Account (ISA) limit.** An HMRC policy paper dated 17 September 2026 set out a cut of the cash ISA limit to £12,000 for savers under 65 from 6 April 2027. The Budget 2026 document, published on 28 October 2026, reverses it: "the government has decided not to reduce the cash ISA limit, so that it remains at £20,000." Our [UK Budget 2026 story](/news/uk-budget-2026-date-wednesday-28-october-what-time/) covers the rest of that Budget. GOV.UK says the most you can save across ISAs in 2026-27 is £20,000; we found no page that states the overall 2027-28 figure.
 
-**Savings income rates.** HMRC's Tax-free savings newsletter 19 (November 2025) says that "with effect from 6 April 2027 the rates of Income Tax applicable to savings income will change", to 22% basic, 42% higher and 47% additional.
+**Savings income rates.** The Budget 2026 document says "the savings basic rate will be 24%, the savings higher rate will be 44%, and the savings additional rate will be 49%," to be legislated in Finance Bill 2026-27 and to "take effect from 6 April 2027." That adds two percentage points to the rise HMRC announced in November 2025, which would have set the rates at 22%, 42% and 47%.
 
 **Thresholds.** The Personal Allowance of £12,570 and the basic rate limit of £37,700 are maintained until 5 April 2031, per the GOV.UK policy paper of 26 November 2025, so they stay the same through 2027-28.
 
 ## What is the monthly PAYE payment date?
 
-For employers who pay Pay As You Earn (PAYE) monthly, GOV.UK says payment is due "the 22nd of the next tax month", and a cheque sent by post "must reach HMRC by the 19th of the month." This is a rule for every month, so the table lists only the two employer dates that GOV.UK names with a month.
+For employers who pay PAYE monthly, GOV.UK says payment is due "the 22nd of the next tax month", and a cheque sent by post "must reach HMRC by the 19th of the month." This is a rule for every month, so the table lists only the two employer dates that GOV.UK names with a month.
 
 ## Printable UK tax year 2027-28 planner
 

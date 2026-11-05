@@ -38,7 +38,7 @@ assets:
         - { date: "2027-09-23", label: "Fall 2:02 a.m. EDT", src: 1, quote: "Equinox 2027 September 23 06:02" }
         - { date: "2027-12-22", label: "Winter 2:42 a.m. UTC, Dec. 21 in U.S.", src: 1, quote: "Solstice 2027 December 22 02:42" }
     note: "Source: U.S. Naval Observatory, Earth's Seasons API for 2027 (times in Universal Time); Eastern Time conversions by Fresh Calendars. Winter begins Dec. 22 in UTC and Dec. 21 in U.S. time zones."
-    description: "Year calendar for 2027 marking spring on Mar. 20, summer on Jun. 21, fall on Sep. 23 and winter on Dec. 21 in Eastern Time, from USNO."
+    description: "Year calendar for 2027 marking spring on Mar. 20, summer on Jun. 21, fall on Sep. 23 and winter on Dec. 22 UTC (Dec. 21 in U.S. time zones), from USNO."
     alt: "2027 year calendar with the equinox and solstice dates and Eastern Time start times marked"
 summary:
   - "Spring 2027 begins at the March equinox on Sat., Mar. 20 at 20:25 UTC, which is 4:25 p.m. EDT in New York, per the U.S. Naval Observatory."
@@ -82,6 +82,15 @@ internalLinks:
   - href: "/march-calendars.html"
     label: "March 2027 printable calendar"
 related: [nowruz-2027-date-equinox-time, winter-solstice-2026-december-21-shortest-day-sunset-times, clock-changes-2027-when-does-daylight-saving-time-start-again-march-14]
+downloads:
+  - group: "Seasons 2027 printables"
+    title: "Seasons 2027: Equinox and Solstice Dates and Times"
+    description: "Year calendar for 2027 marking spring on Mar. 20, summer on Jun. 21, fall on Sep. 23 and winter on Dec. 22 UTC (Dec. 21 in U.S. time zones), from USNO."
+    preview: ../../../../assets/news/seasons-2027/seasons-2027-equinox-solstice-times.png
+    alt: "2027 year calendar with the equinox and solstice dates and Eastern Time start times marked"
+    pdf: "/news/downloads/seasons-2027/seasons-2027-equinox-solstice-times.pdf"
+    png: "/news/downloads/seasons-2027/seasons-2027-equinox-solstice-times.png"
+    pages: 1
 draft: false
 ---
 

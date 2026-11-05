@@ -68,7 +68,7 @@ internalLinks:
     label: "2026 UK holiday list"
   - href: "/printable-yearly-calendar.html"
     label: "2026 printable yearly calendar"
-related: [scottish-budget-2027-28-december-3-2026-income-tax-bands, national-living-wage-april-2027-13-21-rates-by-age, uk-bank-holidays-2027-dates-england-scotland-northern-ireland]
+related: [scottish-budget-2027-28-december-3-2026-income-tax-bands, national-living-wage-april-2027-13-21-rates-by-age, uk-tax-year-2027-28-key-dates]
 assets:
   overlay: true
   kicker: "UK Budget · Wed. 28 Oct. 2026"

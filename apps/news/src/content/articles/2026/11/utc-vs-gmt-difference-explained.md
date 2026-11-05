@@ -36,6 +36,9 @@ faq:
   - q: "Will leap seconds end?"
     a: "Resolution 4 of the 27th General Conference on Weights and Measures (CGPM, 2022) decides that the maximum value for the difference (UT1-UTC) will be increased in, or before, 2035. It does not abolish leap seconds outright."
 sources:
+  - title: "15 U.S. Code § 260a: Advancement of time or changeover dates"
+    url: "https://www.govinfo.gov/link/uscode/15/260a"
+    publisher: "U.S. Government Publishing Office"
   - title: "Leap second and UT1-UTC information"
     url: "https://www.nist.gov/pml/time-and-frequency-division/time-realization/leap-seconds"
     publisher: "National Institute of Standards and Technology"
@@ -167,4 +170,4 @@ For UK legal documents the rule is specific. Section 9 of the Interpretation Act
 
 ## Printable: London UTC offsets, 2026 to 2027
 
-The one-page sheet lists the six periods above with the Eastern Time gap, adds a short checklist for meetings set across the March 14 to March 28, 2027 window, and prints the GOV.UK and NIST wording. Pair it with the [2027 printable yearly calendar](/printable-yearly-calendar.html) and our page on [when daylight saving time starts and ends](/when-is/daylight-savings/). The [March printable calendar](/march-calendars.html) shows both 2027 change weeks. For how to write a time without the 12 a.m. mix-up, see [is 12 noon a.m. or p.m.](/news/is-12-noon-am-or-pm-midnight/), and for date formats [what ISO 8601 is](/news/what-is-iso-8601/).
+The one-page sheet lists the six periods above with the Eastern Time gap, adds a short checklist for meetings set across the March 14 to March 28, 2027 window, and prints the GOV.UK and NIST wording. Pair it with the [2027 printable yearly calendar](/printable-yearly-calendar.html) and our page on [when daylight saving time starts and ends](/when-is/daylight-savings/). The [March printable calendar](/march-calendars.html) shows both 2027 change weeks. For how to write a time without the 12 a.m. mix-up, see [is 12 noon a.m. or p.m.](/news/is-12-noon-am-or-pm-midnight/), and for date formats [what International Organization for Standardization (ISO) 8601 is](/news/what-is-iso-8601/).

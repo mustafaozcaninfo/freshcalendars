@@ -11,7 +11,7 @@ hero:
   src: ../../../../assets/news/us-time-zones-explained-map-dot/us-time-zones-explained-map-dot.webp
   alt: "Interstate 10 West sign reading Entering Jackson County, Central Time Zone, one of the US time zones in Florida"
   caption: "Interstate 10 West in Florida at the Eastern and Central line, a boundary set in 49 CFR 71.5(f)."
-  credit: "Photo: formulanone from Huntsville, United States / Wikimedia Commons, cropped"
+  credit: "Photo: formulanone from Huntsville, United States / Wikimedia Commons, cropped, edited"
   license:
     name: "CC BY-SA 2.0"
     url: "https://creativecommons.org/licenses/by-sa/2.0"
@@ -58,6 +58,15 @@ internalLinks:
   - href: "/printable-yearly-calendar.html"
     label: "2027 printable yearly calendar"
 related: [new-years-countdown-2027-midnight-every-time-zone, clock-changes-2027-when-does-daylight-saving-time-start-again-march-14, daylight-saving-time-ends-november-1-2026]
+downloads:
+  - group: "US Time Zones Card printables"
+    title: "US Time Zones Card, 2026"
+    description: "A one-page card of the nine U.S. time zones in the order of federal law, with each zone's offset from UTC and the three boundary sections of 49 CFR Part 71."
+    preview: ../../../../assets/news/us-time-zones-2026/us-time-zones-card-2026.png
+    alt: "Printable card of the nine U.S. time zones from Atlantic to Chamorro with offsets from Coordinated Universal Time and federal law quotes"
+    pdf: "/news/downloads/us-time-zones-2026/us-time-zones-card-2026.pdf"
+    png: "/news/downloads/us-time-zones-2026/us-time-zones-card-2026.png"
+    pages: 1
 draft: false
 assets:
   overlay: true
