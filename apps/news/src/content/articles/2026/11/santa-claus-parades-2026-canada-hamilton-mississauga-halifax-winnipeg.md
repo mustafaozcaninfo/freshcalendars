@@ -66,7 +66,7 @@ internalLinks:
     label: "December 2026 printable calendar"
   - href: "/canada-holidays/"
     label: "Canada holidays"
-related: [toronto-santa-claus-parade-2026-sunday-november-22-route-citytv, ottawa-santa-claus-parade-2026-november-21-route-time, canada-christmas-markets-2026-dates-toronto-montreal-vancouver-quebec-ottawa]
+related: [toronto-santa-claus-parade-2026-sunday-november-22-route-citytv, ottawa-santa-claus-parade-2026-november-21-route-time, christmas-parades-2026-us-cities-dates-times-routes]
 downloads:
   - group: "Santa Claus Parades 2026 in Canada printables"
     title: "Santa Claus Parades 2026 in Canada: Dates and Times"
