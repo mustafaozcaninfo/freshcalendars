@@ -58,7 +58,7 @@ internalLinks:
     label: "Printable school-year calendar 2026-27"
   - href: "/november-calendars.html"
     label: "November 2026 printable calendar"
-related: [polk-county-public-schools-calendar-2026-27-breaks, hillsborough-county-public-schools-calendar-2026-27-breaks, spring-break-2027-dates-school-districts]
+related: [polk-county-public-schools-calendar-2026-27-breaks, hillsborough-county-public-schools-calendar-2026-27-breaks, collier-county-public-schools-calendar-2026-27-breaks]
 assets:
   overlay: true
   kicker: "Lee County Schools · 2026-27"
