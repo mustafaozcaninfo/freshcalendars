@@ -95,7 +95,7 @@ internalLinks:
     label: "December 2026 printable calendar"
   - href: "/january-calendars.html"
     label: "January 2027 printable calendar"
-related: [nyc-public-schools-calendar-2026-27-breaks-holidays, philadelphia-school-district-calendar-2026-27-holidays, wake-county-public-schools-calendar-2026-27-traditional]
+related: [nyc-public-schools-calendar-2026-27-breaks-holidays, philadelphia-school-district-calendar-2026-27-holidays, gocps-2027-28-application-deadline-november-13-offers]
 assets:
   overlay: true
   kicker: "Kindergarten 2027-28"

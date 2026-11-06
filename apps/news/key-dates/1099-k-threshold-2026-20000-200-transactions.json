@@ -1,0 +1,5 @@
+[
+  { "date": "2027-02-01", "label": "2026 Form 1099-K copies due to recipients" },
+  { "date": "2027-03-01", "label": "2026 Form 1099-K due to the IRS, paper filing" },
+  { "date": "2027-03-31", "label": "2026 Form 1099-K due to the IRS, electronic filing" }
+]

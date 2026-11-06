@@ -66,7 +66,7 @@ internalLinks:
     label: "February 2027 printable calendar"
   - href: "/march-calendars.html"
     label: "March 2027 printable calendar"
-related: [tax-calendar-2027-irs-deadlines, w2-box-12-codes-tp-tt-tips-overtime-2026, bonus-tax-withholding-2026-22-percent-flat-rate]
+related: [tax-calendar-2027-irs-deadlines, bonus-tax-withholding-2026-22-percent-flat-rate, 1099-k-threshold-2026-20000-200-transactions]
 assets:
   scene: calendar
   overlay: true
@@ -126,7 +126,7 @@ The table shows the statutory date, the weekday it lands on in 2027 and the date
 |---|---|---|---|
 | W-2 and W-3 | Mon., Feb. 1 (Jan. 31 is a Sunday) | Mon., Feb. 1 (to the SSA) | Mon., Feb. 1 (to the SSA) |
 | 1099-NEC | Mon., Feb. 1 (Jan. 31 is a Sunday) | Mon., Feb. 1 | Mon., Feb. 1 |
-| 1099-R, 1099-K, 1099-G, W-2G, and the 1099 forms for interest and dividends | Mon., Feb. 1 (Jan. 31 is a Sunday) | Mon., March 1 (Feb. 28 is a Sunday) | Wed., March 31 |
+| 1099-R, [1099-K](/news/1099-k-threshold-2026-20000-200-transactions/), 1099-G, W-2G, and the 1099 forms for interest and dividends | Mon., Feb. 1 (Jan. 31 is a Sunday) | Mon., March 1 (Feb. 28 is a Sunday) | Wed., March 31 |
 | 1099-MISC | Mon., Feb. 1; Tue., Feb. 16 if amounts are in box 8 or 10 (Feb. 15 is a holiday) | Mon., March 1 (Feb. 28 is a Sunday) | Wed., March 31 |
 | 1099-B and 1099-S | Tue., Feb. 16 (Feb. 15 is a holiday) | See Publication 1099 | See Publication 1099 |
 
