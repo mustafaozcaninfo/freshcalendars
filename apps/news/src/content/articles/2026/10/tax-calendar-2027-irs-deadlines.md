@@ -4,7 +4,7 @@ seoTitle: "Tax Deadline 2027: Thursday, April 15"
 description: "The tax deadline 2027 is Thursday, April 15, for 2026 federal returns. See a live countdown and every 2027 IRS due date for individuals and small businesses."
 type: explainer
 publishedAt: "2026-10-20T01:30:00-04:00"
-updatedAt: "2026-10-24T00:50:00-04:00"
+updatedAt: "2026-11-06T17:19:00-05:00"
 authors: [aaron-kessler]
 category: money-benefits
 keywords: ["tax deadline 2027 date", "tax deadline 2027", "2027 tax calendar", "when are taxes due 2027", "tax day 2027"]
@@ -18,7 +18,7 @@ summary:
   - "Tax Day 2027 is Thursday, April 15, the due date for 2026 individual returns, extensions and 2026 IRA and health savings account (HSA) contributions."
   - "Quarterly estimated tax payments are due Jan. 15, April 15, June 15 and Sept. 15, 2027, and the fourth-quarter 2027 payment moves to Tuesday, Jan. 18, 2028."
   - "Weekend and holiday rules push several 2027 business deadlines: W-2s and 1099-NECs are due Monday, Feb. 1, because Jan. 31 is a Sunday."
-  - "The IRS has not yet released its 2027 inflation adjustments or announced when the 2027 filing season opens."
+  - "The IRS released its tax year 2027 inflation adjustments on Nov. 5, 2026, but they apply to returns filed in 2028; the April 15, 2027 return uses 2026 figures, and the 2027 filing season opening date is not yet announced."
 faq:
   - q: "What is the tax deadline 2027 date?"
     a: "Thursday, April 15, 2027, for 2026 federal individual income tax returns. The countdown and days-until table on this page count down to it. With an extension filed by that date, the return is due Friday, Oct. 15, 2027, but any tax owed is still due April 15."
@@ -33,7 +33,7 @@ faq:
   - q: "When is the deadline for 2026 IRA contributions?"
     a: "April 15, 2027, the same as Tax Day. The 2026 IRA contribution limit is $7,500, according to the IRS."
   - q: "Are the 2027 tax brackets out?"
-    a: "Not yet. The IRS usually publishes the next year's inflation-adjusted brackets and standard deduction in October or early November. For tax year 2026 it did so in October 2025, with a $32,200 standard deduction for married couples filing jointly."
+    a: "Yes. The Internal Revenue Service (IRS) released the tax year 2027 inflation adjustments on Nov. 5, 2026 (news release IR-2026-133). The 2027 standard deduction is $16,600 for single filers and $33,200 for married couples filing jointly. They generally apply to returns filed in 2028, so the return due April 15, 2027 still uses the 2026 figures, including the $32,200 standard deduction for married couples filing jointly."
 sources:
   - title: "Publication 509, Tax Calendars"
     url: "https://www.irs.gov/publications/p509"
@@ -46,6 +46,12 @@ sources:
     publisher: "Legal Information Institute, Cornell Law School"
   - title: "Rev. Proc. 2025-32 (tax year 2026 inflation adjustments)"
     url: "https://www.irs.gov/pub/irs-drop/rp-25-32.pdf"
+    publisher: "Internal Revenue Service"
+  - title: "IRS releases tax inflation adjustments for tax year 2027; taxpayers continue to benefit from the Working Families Tax Cuts (IR-2026-133)"
+    url: "https://www.irs.gov/newsroom/irs-releases-tax-inflation-adjustments-for-tax-year-2027-taxpayers-continue-to-benefit-from-the-working-families-tax-cuts"
+    publisher: "Internal Revenue Service"
+  - title: "Rev. Proc. 2026-35 (tax year 2027 inflation adjustments)"
+    url: "https://www.irs.gov/pub/irs-drop/rp-26-35.pdf"
     publisher: "Internal Revenue Service"
 internalLinks:
   - href: "/printable-yearly-calendar.html"
@@ -137,12 +143,14 @@ Federal law, 26 U.S.C. 7503, says that when a tax deadline falls on a Saturday, 
 
 Washington, D.C.'s Emancipation Day can push Tax Day when April 15 falls on a weekend or the holiday is observed on April 15 itself. That does not happen in 2027: the holiday falls on Friday, April 16, after the deadline. See our list of [federal holidays in 2027](/news/federal-holidays-2027-observed-dates-list/) for the other days that can shift a deadline.
 
-## What the IRS has not announced yet
+## What the IRS has released and what is still pending
 
-Two pieces of the 2027 tax year are still pending:
+On Nov. 5, 2026, the IRS released the tax year 2027 inflation adjustments in news release IR-2026-133 and Rev. Proc. 2026-35. The release says the adjustments "generally apply to tax returns filed in 2028," so the return due April 15, 2027 still uses the 2026 figures: a $16,100 standard deduction for single filers, $24,150 for heads of household and $32,200 for married couples filing jointly (Rev. Proc. 2025-32). For 2027, the standard deduction is $16,600 for single filers and married couples filing separately, $24,925 for heads of household and $33,200 for married couples filing jointly, up $1,000 from 2026. The top rate stays 37%, for single income over $661,375 and married filing jointly over $793,650. See the [2027 tax brackets and contribution limits](/news/2027-tax-brackets-401k-hsa-limits-irs/) for the full figures.
 
-- **The 2027 tax brackets and standard deduction.** The IRS publishes inflation adjustments in a revenue procedure each fall. For tax year 2026, it released them in October 2025 (Rev. Proc. 2025-32), setting the standard deduction at $16,100 for single filers, $24,150 for heads of household and $32,200 for married couples filing jointly. The 2027 figures had not been published as of Oct. 20, 2026.
-- **The start of filing season.** The IRS announces each January when it will begin accepting returns; in recent years the season has opened in the second half of January.
+Two items are still pending as of Nov. 6, 2026:
+
+- **The 2027 401(k) and IRA contribution limits.** The IRS announces them in a separate fall notice. The 2026 limits came out on Nov. 13, 2025.
+- **The start of filing season.** The date the 2027 filing season opens is not yet announced.
 
 We will update this story when the IRS publishes both.
 
