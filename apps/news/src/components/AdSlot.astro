@@ -6,10 +6,17 @@
  * sidebar ad always fits the window. The banner is a fixed 320x100 (728x90 from 768 px) unit whose
  * box height is set in CSS, so it never moves the headline below it.
  * See src/lib/ads.ts for the placement rules and the loader.
+ * Until an ad fills (the loader waits for the reader's first interaction) or when AdSense has no ad,
+ * the reserved box shows our own printables card instead of blank space; a filled ad covers it, so
+ * nothing moves (no CLS). Text and one inline icon only: no extra request.
  */
 import { ADSENSE_CLIENT, ADS_ENABLED, NEWS_AD_UNITS, type NewsAdUnit } from "../lib/ads";
+import { allPrintables, PRINTABLES_PATH } from "../lib/printables";
+import { getPublishedArticles } from "../lib/articles";
 interface Props { unit: NewsAdUnit; variant?: "wide" | "side" | "top" | "banner" }
 const { unit, variant = "wide" } = Astro.props;
+const house = variant !== "banner";
+const printableCount = house ? allPrintables(await getPublishedArticles()).length : 0;
 ---
 {ADS_ENABLED && (
   <aside class={`ad-slot ${variant === "top" ? "ad-slot--wide ad-slot--top" : `ad-slot--${variant}`}`} aria-label="Advertisement">
@@ -18,5 +25,13 @@ const { unit, variant = "wide" } = Astro.props;
       : variant === "side"
       ? <ins class="adsbygoogle" style="display:inline-block;width:300px;height:250px" data-ad-client={ADSENSE_CLIENT} data-ad-slot={NEWS_AD_UNITS[unit]}></ins>
       : <ins class="adsbygoogle" style="display:block" data-ad-client={ADSENSE_CLIENT} data-ad-slot={NEWS_AD_UNITS[unit]} data-ad-format="auto" data-full-width-responsive="true"></ins>}
+    {house && (
+      <a class="house" href={PRINTABLES_PATH} tabindex="-1" aria-hidden="true">
+        <svg viewBox="0 0 24 24" width="28" height="28" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"><path d="M7 8V3h10v5M7 17H3V9h18v8h-4M7 14h10v7H7z"/></svg>
+        <b>{printableCount} free printables</b>
+        <span>Calendars, planners and checklists from our stories. PDF and PNG, no sign-up.</span>
+        <em>Browse printables →</em>
+      </a>
+    )}
   </aside>
 )}

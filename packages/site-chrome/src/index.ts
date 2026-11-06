@@ -9,6 +9,7 @@ import { iconHtml } from "./icons.js";
 import { STUDIO_JS } from "./studio-client.js";
 export { THEME_BOOT_HTML } from "./studio-client.js";
 export { iconHtml } from "./icons.js";
+export { NOT_FOUND_JS } from "./not-found.js";
 export { breadcrumbNavHtml, pageWorkspaceHtml, sectionRailHtml } from "./page-shell.js";
 
 const BLUE = "#007b48";

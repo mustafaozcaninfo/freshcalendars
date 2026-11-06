@@ -56,6 +56,7 @@ import {
   pageWorkspaceHtml,
   iconHtml,
   THEME_BOOT_HTML,
+  NOT_FOUND_JS,
 } from "@freshcalendars/site-chrome";
 import { brandHeadLinks, writeBrandIcons } from "./brandIcons.js";
 import { homeNewsHtml, latestNewsHtml, newsStripHtml } from "./newsLinks.js";
@@ -2304,9 +2305,11 @@ ${FONT_PRELOAD}
 ${siteHeaderHtml(today, { news: NEWS_LAUNCHED })}
 <main id="main">
   <section class="concept-wrap error-page"><div class="error-visual" aria-hidden="true"><strong>404</strong></div><div class="error-content"><p class="overline">A fresh start</p><h1>That page isn’t here</h1><p>The address may have changed. Find a calendar in the library, try the search above, or start again from the homepage.</p><div class="error-links"><a href="/calendars/">${iconHtml("calendar")}Browse calendars</a><a href="/">Home</a><a href="/page/contact/">Report a broken link</a></div></div></section>
+  <section class="concept-wrap nf-suggest" data-nf-suggest hidden aria-live="polite"></section>
 </main>
 ${siteFooterHtml(today, { news: NEWS_LAUNCHED })}
 <script>${NAV_JS}</script>
+<script>${NOT_FOUND_JS}</script>
 </body>
 </html>
 `;

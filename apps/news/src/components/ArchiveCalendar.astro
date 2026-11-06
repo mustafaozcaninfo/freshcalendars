@@ -1,0 +1,63 @@
+---
+/**
+ * One month of the story archive drawn as a calendar: each day a square, shaded by how many stories
+ * were published that day (Eastern Time), linking to that day's list. A calendar site's archive reads
+ * best as a calendar, and it shows at a glance which days were busy.
+ */
+interface Props {
+  year: number;
+  month: number; // 1-12
+  /** Story count per ET day, keyed YYYY-MM-DD. */
+  counts: Map<string, number>;
+  /** Link for a day with stories. */
+  dayHref: (iso: string) => string;
+  heading: string;
+  headingHref?: string;
+  total: number;
+}
+const { year, month, counts, dayHref, heading, headingHref, total } = Astro.props;
+const first = new Date(Date.UTC(year, month - 1, 1)).getUTCDay();
+const days = new Date(Date.UTC(year, month, 0)).getUTCDate();
+const cells: (null | { d: number; iso: string; n: number })[] = [];
+for (let i = 0; i < first; i++) cells.push(null);
+for (let d = 1; d <= days; d++) {
+  const iso = `${year}-${String(month).padStart(2, "0")}-${String(d).padStart(2, "0")}`;
+  cells.push({ d, iso, n: counts.get(iso) ?? 0 });
+}
+const level = (n: number) => (n === 0 ? 0 : n <= 5 ? 1 : n <= 15 ? 2 : n <= 30 ? 3 : 4);
+const longDay = (iso: string) => new Date(`${iso}T12:00:00Z`).toLocaleDateString("en-US", { weekday: "long", month: "long", day: "numeric", timeZone: "UTC" });
+---
+<section class="acal" aria-label={`${heading}: stories per day`}>
+  <h3 class="acal-head">{headingHref ? <a href={headingHref}>{heading}</a> : heading}<span>{total} {total === 1 ? "story" : "stories"}</span></h3>
+  <div class="acal-grid" role="list">
+    {["S", "M", "T", "W", "T", "F", "S"].map((w) => <span class="acal-dow" aria-hidden="true">{w}</span>)}
+    {cells.map((c) => c === null
+      ? <span class="acal-pad" aria-hidden="true"></span>
+      : c.n > 0
+        ? <a role="listitem" class={`acal-day l${level(c.n)}`} href={dayHref(c.iso)} title={`${longDay(c.iso)}: ${c.n} ${c.n === 1 ? "story" : "stories"}`} aria-label={`${longDay(c.iso)}, ${c.n} ${c.n === 1 ? "story" : "stories"}`}><b>{c.d}</b><i>{c.n}</i></a>
+        : <span role="listitem" class="acal-day l0" aria-label={`${longDay(c.iso)}, no stories`}><b>{c.d}</b></span>)}
+  </div>
+</section>
+<style>
+  .acal{border:1px solid var(--line);border-radius:12px;padding:14px;background:var(--paper)}
+  .acal-head{display:flex;justify-content:space-between;align-items:baseline;gap:10px;margin:0 0 10px;font:700 17px/1.3 Sora,"Sora Fallback",sans-serif;color:var(--ink-strong)}
+  .acal-head a{color:inherit;text-decoration:none}
+  .acal-head a:hover,.acal-head a:focus-visible{color:var(--focus);text-decoration:underline}
+  .acal-head span{font:400 14px/1.3 Manrope,sans-serif;color:var(--muted)}
+  .acal-grid{display:grid;grid-template-columns:repeat(7,minmax(0,1fr));gap:4px}
+  .acal-dow{text-align:center;font-size:13px;font-weight:700;color:var(--muted);padding-bottom:2px}
+  .acal-day{position:relative;display:flex;flex-direction:column;justify-content:space-between;aspect-ratio:1;min-height:40px;padding:4px 5px;border-radius:6px;text-decoration:none;font-size:13px;line-height:1}
+  .acal-day b{font-weight:700}
+  .acal-day i{font-style:normal;font-size:13px;align-self:flex-end}
+  /* Shades of the brand green; text flips to white from the third step so every cell keeps 4.5:1. */
+  .acal-day.l0{background:var(--surface-soft);color:var(--muted)}
+  .acal-day.l1{background:#d8efe3;color:#0a4d33}
+  .acal-day.l2{background:#9fd6b9;color:#063b27}
+  .acal-day.l3{background:#237550;color:#fff}
+  .acal-day.l4{background:#0b5a3a;color:#fff}
+  :global(html[data-theme=dark]) .acal-day.l1{background:#1d3d31;color:#cdeedd}
+  :global(html[data-theme=dark]) .acal-day.l2{background:#25604a;color:#e6fff2}
+  :global(html[data-theme=dark]) .acal-day.l3{background:#3c9a70;color:#06150f}
+  :global(html[data-theme=dark]) .acal-day.l4{background:#7fd1a8;color:#06150f}
+  a.acal-day:hover,a.acal-day:focus-visible{outline:2px solid var(--focus);outline-offset:1px}
+</style>
