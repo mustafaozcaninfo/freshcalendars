@@ -1,10 +1,10 @@
 ---
 title: "Sunset Times After Daylight Saving Time Ends: When It Gets Dark in 20 U.S. Cities, and the Earliest Sunset"
-seoTitle: "Sunset Times After the Clock Change 2026 by City"
-description: "Sunset jumped an hour earlier on Nov. 1, 2026: 4:52 p.m. in New York, 4:45 in Chicago. Naval Observatory data, 20 cities, plus each city's earliest sunset date."
+seoTitle: "Earliest Sunset 2026 by City: When It Gets Dark Now"
+description: "The earliest sunset of 2026 is 4:28 p.m. in New York on Dec. 6-9, before the solstice. U.S. Naval Observatory (USNO) times for 20 cities, and the Nov. 1 drop."
 type: explainer
 publishedAt: "2026-10-20T01:20:00-04:00"
-updatedAt: "2026-11-02T14:10:00-05:00"
+updatedAt: "2026-11-05T19:20:00-05:00"
 authors: [jessica-hartwell]
 category: time-change
 keywords: ["sunset time after daylight saving time ends", "what time does it get dark November 2026", "earliest sunset 2026", "sunset times by city", "sunset November 1 2026"]
