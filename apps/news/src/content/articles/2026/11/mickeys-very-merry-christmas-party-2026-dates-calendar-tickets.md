@@ -63,7 +63,7 @@ internalLinks:
     label: "December 2026 printable calendar"
   - href: "/when-is/christmas-day/"
     label: "When is Christmas Day?"
-related: [zoo-lights-2026-dates-national-zoo-bronx-lincoln-park-la-denver-houston, us-christmas-markets-2026-opening-dates-philadelphia-dc-detroit-nyc, christmas-2026-calendar-printable-countdown]
+related: [disney-universal-christmas-2026-dates-epcot-disneyland-universal-holidays, us-christmas-markets-2026-opening-dates-philadelphia-dc-detroit-nyc, christmas-2026-calendar-printable-countdown]
 draft: false
 assets:
   overlay: true

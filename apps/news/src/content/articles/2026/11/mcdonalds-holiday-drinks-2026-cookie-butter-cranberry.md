@@ -101,7 +101,7 @@ internalLinks:
     label: "November 2026 printable calendar"
   - href: "/december-calendars.html"
     label: "December 2026 printable calendar"
-related: [holiday-menus-2026-every-chain-tracker, starbucks-holiday-menu-2026-red-cup-day-date, dunkin-holiday-menu-2026-november-4-avengers-doomsday-menu]
+related: [holiday-menus-2026-every-chain-tracker, starbucks-holiday-menu-2026-red-cup-day-date, panera-holiday-menu-2026-peppermint-pistachio-white-mocha-snowman-cup]
 downloads:
   - group: "McDonald's Holiday Drinks 2026 printables"
     title: "McDonald's Holiday Drinks 2026: What Is in Each of the Five"

@@ -82,7 +82,7 @@ internalLinks:
     label: "November 2026 printable calendar"
   - href: "/december-calendars.html"
     label: "December 2026 printable calendar"
-related: [holiday-menus-2026-every-chain-tracker, starbucks-holiday-menu-2026-red-cup-day-date, caribou-coffee-holiday-menu-2026-cookie-butter-white-mocha]
+related: [holiday-menus-2026-every-chain-tracker, panera-holiday-menu-2026-peppermint-pistachio-white-mocha-snowman-cup, caribou-coffee-holiday-menu-2026-cookie-butter-white-mocha]
 downloads:
   - group: "Sonic Holiday Menu 2026 Try List printables"
     title: "Sonic Holiday Menu 2026 Try List"
