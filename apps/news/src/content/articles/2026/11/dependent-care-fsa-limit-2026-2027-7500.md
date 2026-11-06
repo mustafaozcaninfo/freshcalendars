@@ -4,7 +4,7 @@ seoTitle: "Dependent Care FSA Limit: $7,500 for 2026 and 2027"
 description: "The dependent care flexible spending account (FSA) limit is $7,500 in 2026, up from $5,000, under federal law, and the amendment has no inflation adjustment."
 type: explainer
 publishedAt: "2026-11-04T21:07:00-05:00"
-updatedAt: "2026-11-04T21:07:00-05:00"
+updatedAt: "2026-11-06T15:29:00-05:00"
 authors: [aaron-kessler]
 category: money-benefits
 keywords: ["dependent care fsa limit 2027", "dependent care fsa 7500", "dependent care fsa limit 2026", "dcfsa limit"]
@@ -29,7 +29,7 @@ faq:
   - q: "What is the dependent care FSA limit for 2027?"
     a: "Public Law 119-21 sets $7,500 ($3,750 married filing separately) for taxable years beginning after Dec. 31, 2025, with no inflation adjustment in the amendment. So $7,500 stays the legal maximum for 2027 unless Congress changes it. Your employer's plan can set a lower limit."
   - q: "What is the 2027 health FSA limit?"
-    a: "It had not been announced when this story was published. The 2026 health FSA limit is $3,400, per IRS Publication 15-B (2026)."
+    a: "$3,500 for tax years beginning in 2027, up $100 from $3,400 in 2026, per Internal Revenue Service (IRS) news release IR-2026-133 (Nov. 5, 2026) and Revenue Procedure 2026-35. If a health FSA plan allows carryover, the maximum carryover amount is $700, up $20. That carryover applies to health FSAs, not dependent care FSAs."
   - q: "Can I use dependent care FSA money and claim the child and dependent care credit?"
     a: "Yes, but the same dollars cannot count twice. IRS Publication 503 says excluded benefits reduce the work-related expenses and the dollar limit."
   - q: "Does my employer have to offer the full $7,500?"
@@ -57,6 +57,14 @@ sources:
   - title: "Open Season"
     url: "https://www.opm.gov/healthcare-insurance/open-season/"
     publisher: "Office of Personnel Management"
+  - title: "IRS releases tax inflation adjustments for tax year 2027; taxpayers continue to benefit from the Working Families Tax Cuts (IR-2026-133)"
+    url: "https://www.irs.gov/newsroom/irs-releases-tax-inflation-adjustments-for-tax-year-2027-taxpayers-continue-to-benefit-from-the-working-families-tax-cuts"
+    publisher: "Internal Revenue Service"
+    date: "2026-11-05"
+  - title: "Rev. Proc. 2026-35 (tax year 2027 inflation adjustments)"
+    url: "https://www.irs.gov/pub/irs-drop/rp-26-35.pdf"
+    publisher: "Internal Revenue Service"
+    date: "2026-11-05"
 internalLinks:
   - href: "/december-calendars.html"
     label: "December 2026 printable calendar"
@@ -99,11 +107,11 @@ assets:
         - { text: "Ask each provider for a name, address and TIN.", src: 5, quote: "get the correct name, address and taxpayer identification number (TIN) from each person or organization" }
         - { text: "An organization provider uses an EIN.", src: 3, quote: "If the care provider is an organization, then it is the employer identification number (EIN)." }
         - { text: "FSAFEDS Open Season ends 11:59 p.m. ET on Mon., Dec. 14, 2026.", src: 6, quote: "at 11:59 pm Eastern Time on Monday December 14, 2026" }
+        - { text: "Health FSA limit for 2027 is $3,500 (not the dependent care limit); carryover, if the plan allows it, is up to $700.", src: 8, quote: "the dollar limitation under § 125(i) on voluntary employee salary reductions for contributions to health flexible spending arrangements is $3,500. If the cafeteria plan permits the carryover of unused amounts, the maximum carryover amount is $700." }
       unconfirmed:
         - { label: "Use-by and grace or carryover rule for dependent care FSAs", why: "not found on an official page; your plan sets it" }
         - { label: "Claim deadline for dependent care FSA reimbursement", why: "not found on an official page; your plan sets it" }
-        - { label: "2027 health FSA limit", why: "not yet announced when this was written" }
-    note: "Source: Public Law 119-21; IRS Publication 15-B (2026), Publication 503 (2025) and Form W-10 page; Office of Personnel Management, Open Season. Your plan sets its own rules."
+    note: "Source: Public Law 119-21; IRS Publication 15-B (2026), Publication 503 (2025) and Form W-10 page; Office of Personnel Management, Open Season; IRS Revenue Procedure 2026-35. Your plan sets its own rules."
     description: "One-page open enrollment checklist for a dependent care FSA: the $7,500 limit, child age rule, provider TIN or EIN, credit offset and the Dec. 14 FSAFEDS date."
     alt: "Printable dependent care FSA open enrollment checklist for 2027 with tick boxes, write-in lines and sourced rules"
 downloads:
@@ -175,7 +183,7 @@ The Office of Personnel Management (OPM) says Federal Benefits Open Season runs 
 
 ## What about the health FSA and the use-it-or-lose-it deadline?
 
-This story covers dependent care. The health FSA limit is $3,400 for 2026, per Publication 15-B (2026), and the IRS had not announced a 2027 health FSA limit when this story was published. Carryover, grace period and year-end rules for health FSAs are in our [FSA year-end deadline story](/news/fsa-2026-year-end-deadline-use-it-or-lose-it/). For dependent care FSAs, the use-by, grace period and claim deadlines come from your plan, so ask the administrator. The IRS limits for next year's retirement and health savings accounts are in the [2027 IRS limits story](/news/2027-tax-brackets-401k-hsa-limits-irs/).
+This story covers dependent care. The health FSA limit is $3,400 for 2026, per Publication 15-B (2026), and the IRS set it at $3,500 for tax years beginning in 2027, up $100, in news release IR-2026-133 (Nov. 5, 2026) and Revenue Procedure 2026-35. For health FSA plans that permit carryover, the 2027 maximum carryover amount is $700, up $20; that carryover does not apply to dependent care FSAs. Neither IRS document gives a dependent care figure. Carryover, grace period and year-end rules for health FSAs are in our [FSA year-end deadline story](/news/fsa-2026-year-end-deadline-use-it-or-lose-it/). For dependent care FSAs, the use-by, grace period and claim deadlines come from your plan, so ask the administrator. The IRS limits for next year's retirement and health savings accounts are in the [2027 IRS limits story](/news/2027-tax-brackets-401k-hsa-limits-irs/).
 
 ## Dependent care FSA open enrollment checklist to print
 
