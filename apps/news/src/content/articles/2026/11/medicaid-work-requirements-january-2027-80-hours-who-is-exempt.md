@@ -94,7 +94,7 @@ assets:
             - title: "Family and health"
               items: ["Parent or caregiver of a child 13 and under or of a disabled person", "Medically frail or special medical needs", "Pregnant or postpartum", "Veteran with a total disability rating"]
             - title: "Programs and status"
-              items: ["Meeting TANF or SNAP work rules", "In a drug or alcohol treatment program", "American Indian or Alaska Native", "Former foster care youth", "In a public institution or released in the previous three months"]
+              items: ["Meeting TANF or SNAP work rules", "In a drug or alcohol treatment program", "American Indian or Alaska Native", "Former child-welfare care group (young adults)", "In a public institution or released in the previous three months"]
             - title: "Keep for each month"
               items: ["Pay stubs, timesheets or volunteer logs", "School enrollment proof", "Copy of every state notice"]
       rules:
@@ -145,7 +145,7 @@ The bulletin (page 4) describes people "at least 19 and under 65 years of age, n
 
 The bulletin (pages 5 and 6) lists groups that states must exclude from the requirement. Use this as a checklist; your state's notice says how to claim one.
 
-- Former foster care youth (the federal text gives no age; Nebraska's page adds "under 26" for its program)
+- Young adults in the Medicaid group for people who were in state child-welfare care, section 1902(a)(10)(A)(i)(IX) of the Social Security Act (the federal text in the bulletin gives no age; Nebraska's page adds "under 26" for its program)
 - American Indians and Alaska Natives, including Urban Indian, California Indian and Indian Health Service (IHS)-eligible people
 - Parents, guardians, caretaker relatives or family caregivers "of a dependent child who is 13 years of age and under or of a disabled individual" (the CMS fact sheet also says "under 14")
 - "A veteran with a disability rated as total"
