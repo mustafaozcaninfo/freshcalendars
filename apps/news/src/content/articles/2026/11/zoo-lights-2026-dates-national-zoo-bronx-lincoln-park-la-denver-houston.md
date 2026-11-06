@@ -113,7 +113,7 @@ internalLinks:
     label: "November 2026 printable calendar"
   - href: "/december-calendars.html"
     label: "December 2026 printable calendar"
-related: [botanical-garden-holiday-lights-2026-dates-nybg-atlanta-longwood-denver-brooklyn, us-christmas-markets-2026-opening-dates-philadelphia-dc-detroit-nyc, mickeys-very-merry-christmas-party-2026-dates-calendar-tickets]
+related: [botanical-garden-holiday-lights-2026-dates-nybg-atlanta-longwood-denver-brooklyn, us-christmas-markets-2026-opening-dates-philadelphia-dc-detroit-nyc, canada-holiday-light-shows-2026-canyon-lights-zoolights-vandusen]
 draft: false
 assets:
   overlay: true
