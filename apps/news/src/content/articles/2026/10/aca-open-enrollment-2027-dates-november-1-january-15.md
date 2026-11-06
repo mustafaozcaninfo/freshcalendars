@@ -61,7 +61,7 @@ internalLinks:
     label: "December 2026 printable calendar"
   - href: "/january-calendars.html"
     label: "January 2027 printable calendar"
-related: [medicare-open-enrollment-2026-december-7-90-dollar-rebate, social-security-cola-2027-3-6-percent-payment-dates]
+related: [aca-open-enrollment-deadlines-by-state-2027, medicare-open-enrollment-2026-december-7-90-dollar-rebate, social-security-cola-2027-3-6-percent-payment-dates]
 downloads:
   - group: "Open enrollment printable"
     title: "ACA Open Enrollment 2027 Checklist"

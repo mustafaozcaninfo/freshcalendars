@@ -49,7 +49,7 @@ internalLinks:
     label: "printable yearly calendar"
   - href: "/january-calendars.html"
     label: "January 2027 printable calendar"
-related: [snap-payment-schedule-january-2027-deposit-dates-by-state, snap-payment-schedule-december-2026-deposit-dates-by-state]
+related: [snap-payment-schedule-january-2027-deposit-dates-by-state, snap-payment-schedule-december-2026-deposit-dates-by-state, medicaid-work-requirements-january-2027-80-hours-who-is-exempt]
 downloads:
   - group: "SNAP Benefit Amounts and Income Limits printables"
     title: "SNAP 2027 Benefit Amounts and Income Limits (FY2027)"
