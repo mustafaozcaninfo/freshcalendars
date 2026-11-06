@@ -14,8 +14,11 @@ interface Props {
   heading: string;
   headingHref?: string;
   total: number;
+  /** Heading level: 3 under a year heading on the archive index, 2 on a month page (no skipped levels). */
+  level?: 2 | 3;
 }
-const { year, month, counts, dayHref, heading, headingHref, total } = Astro.props;
+const { year, month, counts, dayHref, heading, headingHref, total, level = 3 } = Astro.props;
+const H = level === 2 ? "h2" : "h3";
 const first = new Date(Date.UTC(year, month - 1, 1)).getUTCDay();
 const days = new Date(Date.UTC(year, month, 0)).getUTCDate();
 const cells: (null | { d: number; iso: string; n: number })[] = [];
@@ -28,7 +31,7 @@ const level = (n: number) => (n === 0 ? 0 : n <= 5 ? 1 : n <= 15 ? 2 : n <= 30 ?
 const longDay = (iso: string) => new Date(`${iso}T12:00:00Z`).toLocaleDateString("en-US", { weekday: "long", month: "long", day: "numeric", timeZone: "UTC" });
 ---
 <section class="acal" aria-label={`${heading}: stories per day`}>
-  <h3 class="acal-head">{headingHref ? <a href={headingHref}>{heading}</a> : heading}<span>{total} {total === 1 ? "story" : "stories"}</span></h3>
+  <H class="acal-head">{headingHref ? <a href={headingHref}>{heading}</a> : heading}<span>{total} {total === 1 ? "story" : "stories"}</span></H>
   <div class="acal-grid" role="list">
     {["S", "M", "T", "W", "T", "F", "S"].map((w) => <span class="acal-dow" aria-hidden="true">{w}</span>)}
     {cells.map((c) => c === null

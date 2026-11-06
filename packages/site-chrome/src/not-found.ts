@@ -9,7 +9,7 @@ export const NOT_FOUND_JS = `
   var box=document.querySelector('[data-nf-suggest]');
   if(!box||!window.fetch) return;
   var stop={html:1,htm:1,php:1,www:1,the:1,and:1,for:1,news:1,page:1,amp:1,index:1};
-  var words=decodeURIComponent(location.pathname).toLowerCase().replace(/[^a-z0-9]+/g,' ').trim().split(' ').filter(function(w){return w.length>1&&!stop[w];});
+  var words=decodeURIComponent(location.pathname).toLowerCase().replace(/[^a-z0-9]+/g,' ').trim().split(' ').filter(function(w){return (w.length>1||/^[0-9]$/.test(w))&&!stop[w];});
   if(!words.length) return;
   function dist(a,b){
     if(Math.abs(a.length-b.length)>2) return 9;
