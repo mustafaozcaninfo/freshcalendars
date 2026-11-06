@@ -207,6 +207,20 @@ export const TOPICS: Topic[] = [
     },
   },
   {
+    slug: "nyt-crossword",
+    puzzle: true,
+    name: "NYT Crossword Answers",
+    description: "Every New York Times daily Crossword page, newest first: a hint for each across and down clue, then the full solved grid from the puzzle's official data.",
+    match: ["nyt crossword answers"],
+    guide: {
+      heading: "How the NYT Crossword works",
+      paras: [
+        "The New York Times Crossword is the paper's main daily puzzle, edited by Will Shortz. Weekday grids are 15 squares by 15; the puzzle data for each day gives its size, its constructor and every clue.",
+        "Every white square belongs to one Across answer and one Down answer, so each answer you fill hands letters to the entries that cross it. A clue ending in a question mark signals wordplay, and a clue in quotation marks is a spoken phrase.",
+      ],
+    },
+  },
+  {
     slug: "contexto",
     puzzle: true,
     name: "Contexto Answers and Hints",

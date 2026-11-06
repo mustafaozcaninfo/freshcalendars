@@ -29,6 +29,9 @@ export const GAMES = {
   // The Midi is the Mini's bigger, themed sibling (9×9 to 10×10, about 30 clues): same NYT data
   // format, same release pattern, so it shares the Mini's checks and drawings (`isCrossword`).
   midi: { prefix: "nyt-midi-crossword-answers", name: "Midi Crossword", hub: "nyt-midi-crossword", since: "2026-11-01" },
+  // The main daily crossword (15×15 weekdays, 21×21 Sunday): the same NYT data format and release
+  // pattern as the Mini (today and past days only), so it shares the Mini's checks and drawings.
+  crossword: { prefix: "nyt-crossword-answers", name: "Crossword", hub: "nyt-crossword", since: "2026-11-06" },
   // NYT publishes Letter Boxed data only about two days ahead, so its schedule cannot run further out.
   letterboxed: { prefix: "nyt-letter-boxed-answer-hints", name: "Letter Boxed", hub: "nyt-letter-boxed" },
   // Contexto's own API serves the answer for a game number, days ahead. #1 was Sept. 19, 2022, one
@@ -40,8 +43,8 @@ export const GAMES = {
   waffle: { prefix: "waffle-answer-hints-today", name: "Waffle", hub: "waffle", since: "2026-10-31", boards: false },
 };
 
-/** NYT crosswords saved from the same data format (the Mini and the Midi). */
-export const isCrossword = (game) => game === "mini" || game === "midi";
+/** NYT crosswords saved from the same data format (the Mini, the Midi and the daily Crossword). */
+export const isCrossword = (game) => game === "mini" || game === "midi" || game === "crossword";
 
 /** { game, date: "YYYY-MM-DD", number } for a daily puzzle slug, or null for any other story. */
 export function puzzleOf(slug) {
