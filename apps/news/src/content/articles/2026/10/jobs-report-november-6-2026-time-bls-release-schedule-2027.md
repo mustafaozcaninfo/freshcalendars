@@ -1,16 +1,17 @@
 ---
 title: "Jobs Report Nov. 6, 2026: 8:30 a.m. ET Release Time and BLS Jobs and CPI Dates for 2027"
 seoTitle: "Jobs Report Nov. 6, 2026: Time and BLS 2027 Dates"
-description: "The Bureau of Labor Statistics (BLS) releases the October 2026 jobs report Nov. 6 at 8:30 a.m. Eastern Time (ET), plus 2027 Consumer Price Index (CPI) dates."
+description: "The Bureau of Labor Statistics (BLS) reported payrolls up 165,000 and 4.1% unemployment for October 2026 on Nov. 6; 2027 Consumer Price Index (CPI) dates too."
 type: news
 publishedAt: "2026-10-29T05:44:00-04:00"
+updatedAt: "2026-11-06T09:50:00-05:00"
 authors: [aaron-kessler]
 category: money-benefits
 keywords: ["jobs report november 2026", "when is the next jobs report", "october jobs report 2026 release date", "bls release schedule 2027", "cpi release date november 2026"]
 hero:
   src: ../../../../assets/news/jobs-report-november-6-2026-time-bls-release-schedule-2027/jobs-report-november-6-2026-time-bls-release-schedule-2027.webp
-  alt: "The U.S. Department of Labor's Frances Perkins Building in Washington; the jobs report comes out Nov. 6, 2026"
-  caption: "The Department of Labor's headquarters in Washington (file photo). Its Bureau of Labor Statistics releases the October jobs report Nov. 6, 2026, at 8:30 a.m. ET."
+  alt: "The U.S. Department of Labor's Frances Perkins Building in Washington; the jobs report came out Nov. 6, 2026"
+  caption: "The Department of Labor's headquarters in Washington (file photo). Its Bureau of Labor Statistics released the October jobs report Nov. 6, 2026, at 8:30 a.m. ET."
   credit: "Photo: US Department of Labor / Wikimedia Commons, cropped, edited"
   license:
     name: "CC BY 2.0"
@@ -18,13 +19,16 @@ hero:
     source: "https://commons.wikimedia.org/wiki/File:Frances_Perkins_Building_of_the_United_States_Department_of_Labor_in_Washington,_D.C._-_4.jpg"
     author: "US Department of Labor"
 summary:
-  - "The Bureau of Labor Statistics (BLS) releases the October 2026 Employment Situation, the jobs report, on Friday, Nov. 6, 2026, at 8:30 a.m. Eastern Time (ET)."
-  - "The Nov. 6 report comes three days after Election Day (Tuesday, Nov. 3), the day the Job Openings and Labor Turnover Survey (JOLTS) is released at 10:00 a.m. ET."
+  - "The Bureau of Labor Statistics (BLS) released the October 2026 Employment Situation at 8:30 a.m. Eastern Time (ET) on Friday, Nov. 6, 2026: payroll employment rose by 165,000 and the unemployment rate was 4.1 percent."
+  - "The BLS revised August up to +186,000 and September up to +60,000; average hourly earnings rose 14 cents to $38.00."
+  - "The Nov. 6 report came three days after Election Day (Tuesday, Nov. 3), the day the Job Openings and Labor Turnover Survey (JOLTS) is released at 10:00 a.m. ET."
   - "The Consumer Price Index (CPI) for October 2026 follows on Tuesday, Nov. 10, and the November jobs report on Friday, Dec. 4, 2026."
   - "The BLS has published 2027 dates: the first jobs report is Friday, Jan. 8, 2027, and the November 2027 report is Nov. 5."
 faq:
   - q: "What time is the jobs report on Nov. 6, 2026?"
     a: "8:30 a.m. Eastern Time (ET), according to the BLS schedule for the Employment Situation."
+  - q: "What did the October 2026 jobs report show?"
+    a: "Total nonfarm payroll employment rose by 165,000 in October and the unemployment rate changed little at 4.1 percent, the BLS said on Nov. 6, 2026."
   - q: "When is the next jobs report after Nov. 6?"
     a: "Friday, Dec. 4, 2026, at 8:30 a.m. ET, covering November 2026."
   - q: "When is the CPI release in November 2026?"
@@ -46,10 +50,14 @@ sources:
     url: "https://www.bls.gov/schedule/2027/home.htm"
     publisher: "U.S. Bureau of Labor Statistics"
     date: "2026-10-29"
-  - title: "Employment Situation Summary - 2026 M09 Results"
+  - title: "Employment Situation Summary - 2026 M10 Results"
     url: "https://www.bls.gov/news.release/empsit.nr0.htm"
     publisher: "U.S. Bureau of Labor Statistics"
-    date: "2026-10-02"
+    date: "2026-11-06"
+  - title: "The Employment Situation: October 2026"
+    url: "https://www.bls.gov/news.release/pdf/empsit.pdf"
+    publisher: "U.S. Bureau of Labor Statistics"
+    date: "2026-11-06"
 internalLinks:
   - href: "/november-calendars.html"
     label: "November 2026 printable calendar"
@@ -116,17 +124,32 @@ assets:
     alt: "Printable list of BLS jobs report and CPI release dates for 2027"
 ---
 
-**The Bureau of Labor Statistics (BLS) releases the October 2026 jobs report (The Employment Situation) on Friday, Nov. 6, 2026, at 8:30 a.m. Eastern Time (ET), per the BLS release schedule.** The next one, for November 2026, is Friday, Dec. 4 at 8:30 a.m. ET. The BLS has also posted its 2027 dates, listed below and on a printable at the end of the story.
+**The Bureau of Labor Statistics (BLS) released the October 2026 jobs report (The Employment Situation, release 26-1632) at 8:30 a.m. Eastern Time (ET) on Friday, Nov. 6, 2026: total nonfarm payroll employment rose by 165,000 and the unemployment rate was 4.1 percent.** The next one, for November 2026, is Friday, Dec. 4 at 8:30 a.m. ET. The BLS has also posted its 2027 dates, listed below and on a printable at the end of the story.
 
 ## What time is the jobs report on Nov. 6?
 
-The BLS schedule for the Employment Situation lists "October 2026" with a release date of Nov. 6, 2026, and a time of 8:30 a.m. ET. The same schedule lists "November 2026" on Dec. 4, 2026, also at 8:30 a.m. ET.
+The BLS schedule for the Employment Situation lists "October 2026" with a release date of Nov. 6, 2026, and a time of 8:30 a.m. ET, and the release went out at that time. The same schedule lists "November 2026" on Dec. 4, 2026, also at 8:30 a.m. ET.
 
 Nov. 6 falls three days after Election Day, Tuesday, Nov. 3, 2026. On Election Day itself the BLS releases the Job Openings and Labor Turnover Survey (JOLTS) for September 2026, at 10:00 a.m. ET, so two labor reports land in the same week. For the voting calendar, see the [November 2026 printable calendar](/november-calendars.html).
 
-## What did the September report show?
+## What did the October 2026 jobs report show?
 
-The BLS released the September 2026 Employment Situation at 8:30 a.m. ET on Friday, Oct. 2, 2026. Its summary says total nonfarm payroll employment "changed little in September (+29,000)" and gives an unemployment rate of 4.2 percent. The BLS has not published the October figures yet, and this story makes no forecast of them.
+The BLS said total nonfarm payroll employment "rose by 165,000 in October, and the unemployment rate changed little at 4.1 percent." October's gain was "higher than the average monthly gain of 48,000 over the prior 12 months." The BLS also said the unemployment rate "has remained in a narrow range of 4.1 percent to 4.3 percent since March," and that 7.1 million people were unemployed.
+
+| October 2026 jobs report at a glance | Figure |
+|---|---|
+| Total nonfarm payroll employment, October | +165,000 |
+| Unemployment rate | 4.1 percent |
+| Number unemployed | 7.1 million |
+| August change, revised | +186,000 (from +133,000, up 53,000) |
+| September change, revised | +60,000 (from +29,000, up 31,000) |
+| August and September combined | 84,000 higher than previously reported |
+| Average hourly earnings, private nonfarm | $38.00, up 14 cents (0.4 percent) |
+| Average hourly earnings, past 12 months | up 3.1 percent |
+
+Source: BLS, The Employment Situation for October 2026 (release 26-1632), released Nov. 6, 2026. This story makes no forecast.
+
+The September report, released Oct. 2, 2026, had put the unemployment rate at 4.2 percent and described payroll employment as having "changed little in September (+29,000)." The October release revised that figure to +60,000.
 
 ## What other BLS releases are due in November and December 2026?
 
