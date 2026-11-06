@@ -1,9 +1,10 @@
 ---
 title: "Child Tax Credit 2026: $2,200 per Child and $1,700 Refundable on Returns Filed in 2027"
 seoTitle: "Child Tax Credit 2026: $2,200 per Child"
-description: "The child tax credit is $2,200 per child for tax year 2026, with up to $1,700 refundable, says the Internal Revenue Service (IRS). See the income table."
+description: "The child tax credit is $2,200 per child for tax year 2026 and $2,300 for 2027, says the Internal Revenue Service (IRS). See the refundable limits and table."
 type: explainer
 publishedAt: "2026-11-04T07:40:00-05:00"
+updatedAt: "2026-11-06T12:03:00-05:00"
 authors: [aaron-kessler]
 category: money-benefits
 keywords: ["child tax credit 2026", "additional child tax credit 2026", "child tax credit 2027 refund", "how much is the child tax credit for 2026"]
@@ -21,8 +22,8 @@ hero:
     authorUrl: "https://www.flickr.com/people/64873675@N00"
 summary:
   - "For taxable years beginning in 2026, the maximum child tax credit is $2,200 per qualifying child, and $1,700 of it can be refundable, according to IRS Revenue Procedure 2025-32."
-  - "The refundable part is the additional child tax credit (ACTC), which the IRS bases on earned income of at least $2,500 for 2025 returns."
-  - "The credit starts to phase out when modified adjusted gross income (AGI) tops $400,000 for married couples filing jointly and $200,000 for everyone else, per the IRS 2025 Schedule 8812 instructions."
+  - "The refundable part is the additional child tax credit (ACTC), which the IRS bases on earned income of at least $2,500 for 2025 returns. The credit starts to phase out when modified adjusted gross income (AGI) tops $400,000 for married couples filing jointly and $200,000 for everyone else, per the IRS 2025 Schedule 8812 instructions."
+  - "For tax year 2027, the IRS says the maximum credit is $2,300, up $100 from 2026, and the refundable amount is $1,800, also up $100 (IR-2026-133, Nov. 5, 2026)."
   - "The IRS has not announced when the 2027 filing season opens; by law it cannot issue earned income tax credit (EITC) or ACTC refunds before mid-February."
 faq:
   - q: "How much is the child tax credit for 2026?"
@@ -34,8 +35,16 @@ faq:
   - q: "When will the IRS pay the refundable part in 2027?"
     a: "The IRS says, \"By law, we can't issue EITC or ACTC refunds before mid-February.\" It has not given a 2027 date."
   - q: "What is the 2027 tax year amount?"
-    a: "Not announced. The IRS amounts in this story are for tax year 2026, filed in 2027."
+    a: "For tax year 2027, the IRS says the maximum credit is $2,300, an increase of $100 from 2026, and the amount that may be refundable is $1,800, also up $100 from 2026. These apply generally to returns filed in 2028. The other amounts in this story are for tax year 2026, filed in 2027."
 sources:
+  - title: "IRS releases tax inflation adjustments for tax year 2027; taxpayers continue to benefit from the Working Families Tax Cuts (IR-2026-133)"
+    url: "https://www.irs.gov/newsroom/irs-releases-tax-inflation-adjustments-for-tax-year-2027-taxpayers-continue-to-benefit-from-the-working-families-tax-cuts"
+    publisher: "Internal Revenue Service"
+    date: "2026-11-05"
+  - title: "Revenue Procedure 2026-35"
+    url: "https://www.irs.gov/pub/irs-drop/rp-26-35.pdf"
+    publisher: "Internal Revenue Service"
+    date: "2026-11-05"
   - title: "Revenue Procedure 2025-32"
     url: "https://www.irs.gov/pub/irs-drop/rp-25-32.pdf"
     publisher: "Internal Revenue Service"
@@ -107,8 +116,10 @@ Section 4.05(1) of the revenue procedure says: "For taxable years beginning in 2
 | Refundable limit per child | $1,700 | 2026 | Rev. Proc. 2025-32, section 4.05(2) |
 | Credit for other dependents | Up to $500 per dependent | 2025 returns | IRS Child Tax Credit page |
 | Earned income needed for the ACTC | At least $2,500 | 2025 returns | IRS Child Tax Credit page |
+| Maximum credit per child | $2,300 (up $100 from 2026) | 2027 | IR-2026-133; Rev. Proc. 2026-35, section 3.05 |
+| Refundable limit per child | $1,800 (up $100 from 2026) | 2027 | IR-2026-133; Rev. Proc. 2026-35, section 3.05 |
 
-The IRS has not announced a figure for tax year 2027.
+On Nov. 5, 2026, the IRS news release IR-2026-133 said: "The maximum amount of the child tax credit for 2027 is $2,300, an increase of $100 from 2026. For tax year 2027, the amount of credit that may be refundable is $1,800, also up $100 from 2026." Revenue Procedure 2026-35, section 3.05, gives the same amounts for taxable years beginning in 2027. The release says the tax year 2027 adjustments generally apply to returns filed in 2028. The IRS Child Tax Credit page still shows the 2026 figures as of Oct. 29, 2026.
 
 ## Who qualifies for the credit?
 

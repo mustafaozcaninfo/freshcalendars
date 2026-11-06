@@ -4,6 +4,7 @@ seoTitle: "Grand Slam of Darts 2026: Dates, Prize Money, TV"
 description: "The Professional Darts Corporation (PDC) Grand Slam of Darts runs Nov. 14-22, 2026 in Wolverhampton, England, on Peacock in the U.S. Times not yet announced."
 type: news
 publishedAt: "2026-10-30T15:45:00-04:00"
+updatedAt: "2026-11-06T12:03:00-05:00"
 authors: [jessica-hartwell]
 category: sports
 keywords: ["grand slam of darts 2026", "grand slam of darts 2026 dates", "grand slam of darts 2026 how to watch us", "grand slam of darts prize money 2026"]
@@ -21,7 +22,7 @@ hero:
     authorUrl: "https://www.flickr.com/people/57827564@N03"
 summary:
   - "Sky Sports and Dartsnews both report that the Grand Slam of Darts 2026 runs Nov. 14 to 22 at WV Active Aldersley in Wolverhampton, England: a Saturday to a Sunday, nine days."
-  - "The field grows to 48 players for the first time, in 16 groups of three. Eight places go through a Tour Card Holder Qualifier on Friday, Nov. 6, 2026."
+  - "The field grows to 48 players for the first time, in 16 groups of three. The PDC says ten places go through a Tour Card Holder Qualifier on Friday, Nov. 6, 2026, at the Mattioli Arena in Leicester."
   - "Dartsnews reports a £1 million prize fund with £200,000 for the champion. In the U.S., NBC Sports says Peacock streams Sky Sports' coverage."
   - "Session start times, the day-by-day schedule, the group draw and the full list of 48 players are not yet announced."
 faq:
@@ -31,6 +32,8 @@ faq:
     a: "NBC Sports says Peacock streams Sky Sports' coverage of the Grand Slam of Darts from Wolverhampton (Nov. 14-22)."
   - q: "How much prize money is in the Grand Slam of Darts 2026?"
     a: "Dartsnews reports a £1 million total, with £200,000 to the champion. Players who get out of the group earn at least £12,500."
+  - q: "Who can still qualify for the Grand Slam of Darts 2026?"
+    a: "The PDC says 91 players are in the Tour Card Holder Qualifier on Friday, Nov. 6, 2026, at the Mattioli Arena in Leicester, for ten places. Play begins at approximately 12:00 GMT (7 a.m. ET)."
   - q: "What time does the Grand Slam of Darts start?"
     a: "Session start times are not yet announced. Check the PDC for the schedule."
 sources:
@@ -50,6 +53,10 @@ sources:
     url: "https://www.nbcsports.com/pressbox/press-releases/nbc-sports-and-professional-darts-corporation-return-to-stream-select-2026-events-live-on-peacock-beginning-with-premier-league-night-five-tomorrow-march-5-at-2-p-m-et"
     publisher: "NBC Sports"
     date: "2026-03-04"
+  - title: "Grand Slam of Darts Tour Card Holder Qualifier entries confirmed"
+    url: "https://www.pdc.tv/news/2026/november/05/grand-slam-of-darts-tour-card-holder-qualifier-entries-confirmed/"
+    publisher: "Professional Darts Corporation (PDC)"
+    date: "2026-11-05"
 downloads:
   - group: "Grand Slam of Darts 2026 Tracker printables"
     title: "Grand Slam of Darts 2026 Tracker, Nov. 14-22"
@@ -77,8 +84,9 @@ assets:
     subtitle: "Nine days in Wolverhampton, plus the Nov. 6 qualifier. Blank lines for results."
     columns: ["Date", "Result or note"]
     layout: list
+    noKit: "Results tracker with blank lines to fill in; the sheet has no watch-guide or fact-table data."
     rows:
-      - ["Fri., Nov. 6", "Tour Card Holder Qualifier (eight places) · Result: ________"]
+      - ["Fri., Nov. 6", "Tour Card Holder Qualifier (ten places) · Result: ________"]
       - ["Sat., Nov. 14", "First day · Result: ________"]
       - ["Sun., Nov. 15", "Result: ________"]
       - ["Mon., Nov. 16", "Result: ________"]
@@ -88,7 +96,7 @@ assets:
       - ["Fri., Nov. 20", "Result: ________"]
       - ["Sat., Nov. 21", "Result: ________"]
       - ["Sun., Nov. 22", "Last day · Champion: ________"]
-    note: "Source: Sky Sports (Feb. 11 and Oct. 30, 2026); Dartsnews (Feb. 13, 2026); NBC Sports (Mar. 4, 2026). Session times not yet announced; check the PDC."
+    note: "Source: Sky Sports (Feb. 11 and Oct. 30, 2026); Dartsnews (Feb. 13, 2026); NBC Sports (Mar. 4, 2026); PDC (Nov. 5, 2026). Session times not yet announced; check the PDC."
     description: "A one-page Grand Slam of Darts 2026 tracker with the Nov. 6 qualifier, the nine days from Nov. 14 to 22 and blank lines for results."
     alt: "Grand Slam of Darts 2026 tracker with one row per day and blank result lines"
 draft: false
@@ -121,7 +129,9 @@ Sky Sports says the field expands to 48 players for the first time, with a new g
 
 ## How do players qualify for the Grand Slam of Darts 2026?
 
-Sky Sports and Dartsnews both report two routes: the top 16 are seeded from the PDC Order of Merit, the rankings list, and eight places go through a Tour Card Holder Qualifier on Friday, Nov. 6, 2026.
+Sky Sports and Dartsnews both report two routes: the top 16 are seeded from the PDC Order of Merit, the rankings list, and ten places go through a Tour Card Holder Qualifier on Friday, Nov. 6, 2026.
+
+The PDC page published on Nov. 5, 2026 says 91 players are entered in the qualifier for ten places in the Wolverhampton event. It is played at the Mattioli Arena in Leicester, and the PDC says play begins at approximately 12:00 GMT, which is 7 a.m. ET.
 
 Sky Sports listed these players as qualified in February: Luke Littler, Luke Humphries, Gian van Veen, Nathan Aspinall and Beau Greaves. Sky Sports calls Littler the "reigning and back-to-back Grand Slam champion". The full field of 48 is not yet announced.
 
@@ -151,6 +161,6 @@ If a session starts at 7 p.m. GMT, that is 2 p.m. ET. Once the PDC publishes ses
 
 ## Free Grand Slam of Darts 2026 tracker
 
-The printable has one row for each day from Sat., Nov. 14 to Sun., Nov. 22, a row for the Nov. 6 qualifier and a blank line for each result. Its source note matches this story: Sky Sports, Dartsnews and NBC Sports. For other November sport on your calendar, see the [Association of Tennis Professionals (ATP) Finals 2026 dates and time zones](/news/atp-finals-2026-turin-dates-schedule-time-zones-tv-qualified-players/), the [Premier League fixtures for Oct. 31 to Nov. 2](/news/premier-league-fixtures-this-weekend-october-31-november-2-2026-kickoff-times-tv/) and the [Nations Championship rugby fixtures](/news/nations-championship-rugby-november-2026-fixtures-kick-off-times-uk-us/).
+The printable has one row for each day from Sat., Nov. 14 to Sun., Nov. 22, a row for the Nov. 6 qualifier and a blank line for each result. Its source note matches this story: Sky Sports, Dartsnews, NBC Sports and the PDC. For other November sport on your calendar, see the [Association of Tennis Professionals (ATP) Finals 2026 dates and time zones](/news/atp-finals-2026-turin-dates-schedule-time-zones-tv-qualified-players/), the [Premier League fixtures for Oct. 31 to Nov. 2](/news/premier-league-fixtures-this-weekend-october-31-november-2-2026-kickoff-times-tv/) and the [Nations Championship rugby fixtures](/news/nations-championship-rugby-november-2026-fixtures-kick-off-times-uk-us/).
 
 The next big date in darts is the [PDC World Darts Championship](/news/pdc-world-darts-championship-2026-27-schedule-dates-alexandra-palace/), which Sky Sports says runs from Dec. 11, 2026 to Jan. 3, 2027 at Alexandra Palace.
