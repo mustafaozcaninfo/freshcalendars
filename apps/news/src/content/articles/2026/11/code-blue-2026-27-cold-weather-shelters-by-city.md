@@ -55,7 +55,7 @@ internalLinks:
     label: "December 2026 printable calendar"
   - href: "/january-calendars.html"
     label: "January 2027 printable calendar"
-related: [liheap-2026-27-heating-help-winter-shutoff-rules-by-state, winter-solstice-2026-december-21-shortest-day-sunset-times, nyc-alternate-side-parking-holidays-2026]
+related: [liheap-2026-27-heating-help-winter-shutoff-rules-by-state, winter-parking-bans-2026-27-by-city, nyc-alternate-side-parking-holidays-2026]
 assets:
   overlay: true
   kicker: "Code Blue · Winter 2026-27"
