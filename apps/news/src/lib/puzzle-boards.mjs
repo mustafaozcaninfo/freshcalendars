@@ -519,18 +519,20 @@ function pips(cx, cy, v) {
   return (SPOTS[v] ?? []).map(([dx, dy]) => `<circle cx="${cx + dx * o}" cy="${cy + dy * o}" r="5.5" fill="#1f2937"/>`).join("");
 }
 
-/** The solved Mini or Midi grid: black squares, clue numbers and every answer letter. */
+/** The solved Mini, Midi or daily Crossword grid: black squares, clue numbers and every answer letter. */
 function miniBoard(d, name = "Mini Crossword") {
+  // A rebus square holds several letters; they are drawn smaller and in title case ("Eta"), since
+  // a run of capitals reads as an abbreviation to the writing audit (08-ABBREV).
   const S = 64;
   const num = new Map(d.clues.map((c) => [c.cells[0], c.label]));
   const cells = d.cells.map((ch, i) => {
     const x = (i % d.width) * S, y = Math.floor(i / d.width) * S;
     if (ch === null) return `<rect x="${x}" y="${y}" width="${S}" height="${S}" fill="#1a1a1a"/>`;
     const n = num.has(i) ? `<text x="${x + 5}" y="${y + 16}" font-size="13" font-weight="600">${num.get(i)}</text>` : "";
-    return `<rect x="${x}" y="${y}" width="${S}" height="${S}" fill="#fff" stroke="#1a1a1a" stroke-width="2"/>${n}<text x="${x + S / 2}" y="${y + S / 2 + 12}" text-anchor="middle" font-size="32" font-weight="700">${esc(ch)}</text>`;
+    return `<rect x="${x}" y="${y}" width="${S}" height="${S}" fill="#fff" stroke="#1a1a1a" stroke-width="2"/>${n}<text x="${x + S / 2}" y="${y + S / 2 + 12}" text-anchor="middle" font-size="${ch.length > 1 ? Math.max(12, Math.floor(56 / ch.length)) : 32}" font-weight="700">${esc(ch.length > 1 ? ch[0] + ch.slice(1).toLowerCase() : ch)}</text>`;
   }).join("");
   const label = `Solved ${name} grid, ${d.width} by ${d.height}`;
-  const svg = `<svg class="pz-svg pz-mini" viewBox="-2 -2 ${d.width * S + 4} ${d.height * S + 4}" role="img" aria-label="${esc(label)}"><g font-family="Sora,sans-serif" fill="#1a1a1a">${cells}</g></svg>`;
+  const svg = `<svg class="pz-svg pz-mini${d.width > 10 ? " pz-xw" : ""}" viewBox="-2 -2 ${d.width * S + 4} ${d.height * S + 4}" role="img" aria-label="${esc(label)}"><g font-family="Sora,sans-serif" fill="#1a1a1a">${cells}</g></svg>`;
   return figure("pz-minigrid", svg, `The filled grid, with each clue number in its first square. ${FROM_DATA}`);
 }
 
@@ -598,7 +600,7 @@ function yesterday(p) {
       return full ? `${full} (${row})` : title(w);
     };
     const dir = (k) => d.clues.filter((c) => c.direction === k).map((c) => `${c.label} ${esc(ans(c))}`).join(", ");
-    body = `<p>The ${p.game === "midi" ? "Midi" : "Mini"} on ${apDate(date)}: Across ${dir("Across")}; Down ${dir("Down")}.${more}</p>`;
+    body = `<p>The ${{ midi: "Midi", crossword: "Crossword" }[p.game] ?? "Mini"} on ${apDate(date)}: Across ${dir("Across")}; Down ${dir("Down")}.${more}</p>`;
   }
   if (!body) return "";
   return `<h2 id="pz-yesterday">Yesterday's ${esc(g.name)} answer</h2>${body}`;

@@ -114,6 +114,10 @@ Every desk routine has an API trigger next to its schedule (claude.ai → Routin
 - Claim branches whose item is ticked, blocked or stalled (see "Claiming") are deleted, and so are claims with no queue item that are older than 3 hours (a self-found update that found nothing to change), and so are branches already in `main`, including run branches whose pull request was squash-merged (tip equal to the merged head).
 - What needs a person goes to the open issue "Desk watchdog": red CI, other conflicts, a writer with no pull request or claim for 8 hours, a research or update desk with no run on record for 8 hours (the search desk: 30 hours), and the blocked items.
 
+- Only pull requests from this repository's own branches are handled. One from a fork (anyone can open one on a public repository, with any title) is listed by number under "Needs a person" and never merged, rebased or started by the watchdog: read it and decide by hand.
+- A desk pull request that changes a file in "Files you never change" (`.github/`, `.githooks/`, `.claude/`, `scripts/`, `cloudflare/`, any `package.json`, the lock and workspace files, `wrangler.jsonc`, `CLAUDE.md`; the list is `PROTECTED` in `scripts/desk-scope.mjs`) is not merged and is reported; CI also turns it red (job `desk-scope`). Such a change goes in its own pull request without a desk title, which the owner merges.
+- An error on one pull request is reported and skipped; the rest of the run (merges, publish, cleanup, report) goes on. The report goes only to the "Desk watchdog" issue the Actions bot opened.
+
 Writers still merge and clean up their own runs; the watchdog is the backstop. Dry run: `node scripts/desk-watchdog.mjs --dry-run`.
 
 ## Writer rules

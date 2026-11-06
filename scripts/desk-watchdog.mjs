@@ -16,6 +16,7 @@ import { execFileSync, spawnSync } from "node:child_process";
 import { appendFileSync, mkdirSync, rmSync, writeFileSync } from "node:fs";
 import { tmpdir } from "node:os";
 import path from "node:path";
+import { DESK_PR, outOfScope } from "./desk-scope.mjs";
 
 const DRY = process.argv.includes("--dry-run");
 const NOW = Date.now();
@@ -26,7 +27,6 @@ const NO_CI = 20 * MIN;      // a head commit this old with no checks never got 
 const STALL = 3 * H;         // docs/DESK.md "Claiming"
 const SILENT = 8 * H;        // writers run every 6 h; one missed run shows here
 const OLD_MERGED = 6 * H;    // a branch in main younger than this may be a run that has not committed yet
-const DESK_PR = /^(\[W\d\]|\[U\]|Puzzles\b)/;
 // Lines both sides add to these files belong together (docs/DESK.md "Writer rules").
 const UNION = ["docs/desk/*.md"];
 
@@ -61,18 +61,35 @@ for (const f of git("ls-tree", "--name-only", "origin/main", "docs/desk/").split
   }
 }
 
-const prs = JSON.parse(gh("pr", "list", "--state", "open", "--limit", "100",
-  "--json", "number,title,headRefName,headRefOid,isDraft,mergeable,statusCheckRollup"));
+// Pull requests from forks are never ours: the repository is public, so anyone can open one with a
+// desk title, and its CI runs the fork's own code. Their head branch is not a branch of this
+// repository either (origin/<name> is missing or is someone else's branch). The watchdog leaves
+// them to a person and reports only their number, never their text.
+const allPrs = JSON.parse(gh("pr", "list", "--state", "open", "--limit", "100",
+  "--json", "number,title,headRefName,headRefOid,isDraft,mergeable,statusCheckRollup,isCrossRepository"));
+const prs = allPrs.filter((p) => p.isCrossRepository === false);
+const forks = allPrs.filter((p) => p.isCrossRepository !== false);
+if (forks.length) attention.push(`pull request(s) from outside this repository, not handled by the watchdog (review by hand, never merge unread): ${forks.map((p) => `#${p.number}`).join(", ")}`);
 const openHeads = new Set(prs.map((p) => p.headRefName));
 
-// 1. Desk pull requests.
+// 1. Desk pull requests. Each one is handled on its own: an error is reported and the run goes on,
+// so one bad pull request never stops the merges, the publish, the cleanup or the report.
 let merged = 0;
 for (const pr of prs) {
   if (pr.isDraft || !DESK_PR.test(pr.title)) continue;
   const tag = `#${pr.number} ${pr.title.slice(0, 70)}`;
+  try {
+    merged += deskPr(pr, tag);
+  } catch (e) {
+    attention.push(`${tag}: watchdog error, skipped (${String(e.message).split("\n")[0].slice(0, 200)})`);
+  }
+}
+
+/** One desk pull request: merge main in, start CI, or merge it. Returns 1 when it was merged. */
+function deskPr(pr, tag) {
   const ref = `origin/${pr.headRefName}`;
-  if (pr.mergeable === "CONFLICTING") { mergeMain(pr, tag); continue; }
-  if (pr.mergeable !== "MERGEABLE") continue; // GitHub is still working it out; next run
+  if (pr.mergeable === "CONFLICTING") { mergeMain(pr, tag); return 0; }
+  if (pr.mergeable !== "MERGEABLE") return 0; // GitHub is still working it out; next run
   const checks = (pr.statusCheckRollup ?? []).map((c) => ({
     name: c.name ?? c.context,
     done: c.status ? c.status === "COMPLETED" : c.state !== "PENDING",
@@ -82,19 +99,27 @@ for (const pr of prs) {
   if (!checks.length) {
     if (NOW - commitTime(ref) > NO_CI) act(`${tag}: no CI ran on ${pr.headRefOid.slice(0, 8)}; starting it`,
       () => gh("workflow", "run", "ci.yml", "--ref", pr.headRefName));
-    continue;
+    return 0;
   }
-  if (checks.some((c) => !c.done)) continue;
+  if (checks.some((c) => !c.done)) return 0;
   const failed = checks.filter((c) => !c.ok).map((c) => c.name);
-  if (failed.length) { attention.push(`${tag}: CI failed (${failed.join(", ")}); needs a fix commit`); continue; }
+  if (failed.length) { attention.push(`${tag}: CI failed (${failed.join(", ")}); needs a fix commit`); return 0; }
   const green = Math.max(...checks.map((c) => c.at));
-  if (NOW - green < GRACE) continue;
+  if (NOW - green < GRACE) return 0;
+  // Main's copy of the scope rule, so the pull request cannot change the check that judges it.
+  const bad = outOfScope(gh("pr", "diff", String(pr.number), "--name-only").split("\n").filter(Boolean));
+  if (bad.length) {
+    attention.push(`${tag}: changes files a desk pull request may not touch (${bad.slice(0, 5).join(", ")}${bad.length > 5 ? ", ..." : ""}); not merged, the owner decides`);
+    return 0;
+  }
   act(`${tag}: green since ${ago(green)}; merging`, () => {
-    gh("pr", "merge", String(pr.number), "--merge");
-    git("push", "-q", "origin", "--delete", pr.headRefName);
+    // --match-head-commit: merge only the commit whose checks were read, not one pushed since.
+    gh("pr", "merge", String(pr.number), "--merge", "--match-head-commit", pr.headRefOid);
     openHeads.delete(pr.headRefName);
+    // The merge is done; a failed branch delete only leaves the branch for the cleanup below.
+    try { git("push", "-q", "origin", "--delete", pr.headRefName); } catch {}
   });
-  merged++;
+  return 1;
 }
 if (merged) act("starting CI on main so the merged stories publish", () => gh("workflow", "run", "ci.yml", "--ref", "main"));
 
@@ -118,8 +143,8 @@ else if (lastDone) {
 function mergeMain(pr, tag) {
   const b = pr.headRefName;
   const dir = path.join(tmpdir(), `desk-watchdog-${pr.number}`);
-  git("worktree", "add", "-q", "-f", "--detach", dir, `origin/${b}`);
   try {
+    git("worktree", "add", "-q", "-f", "--detach", dir, `origin/${b}`);
     const attrs = path.join(tmpdir(), "desk-watchdog.attributes");
     writeFileSync(attrs, UNION.map((p) => `${p} merge=union\n`).join(""));
     const wt = (...a) => execFileSync("git", ["-C", dir, ...a], { encoding: "utf8", stdio: ["ignore", "pipe", "pipe"] }).trim();
@@ -133,7 +158,7 @@ function mergeMain(pr, tag) {
     const left = spawnSync("git", ["-C", dir, "diff", "--name-only", "--diff-filter=U"], { encoding: "utf8" }).stdout.trim();
     attention.push(`${tag}: conflicts with main in ${left.split("\n").join(", ") || "files"}; needs a person`);
   } finally {
-    git("worktree", "remove", "-f", dir);
+    spawnSync("git", ["worktree", "remove", "-f", dir]); // absent when the add itself failed
   }
 }
 
@@ -247,8 +272,14 @@ if (process.env.GITHUB_STEP_SUMMARY) appendFileSync(process.env.GITHUB_STEP_SUMM
 if (!DRY) {
   const file = path.join(tmpdir(), "desk-watchdog.md");
   writeFileSync(file, body);
-  const issue = JSON.parse(gh("issue", "list", "--state", "open", "--search", "\"Desk watchdog\" in:title", "--json", "number,title"))
-    .find((i) => i.title === "Desk watchdog");
+  // Only the issue the Actions bot opened: anyone can open an issue with this title on a public
+  // repository, and the manager acts on what it says. If only someone else's issue has the title,
+  // write nothing there and open none (a new one each run would pile up); the run log still has it.
+  const BOT = new Set(["app/github-actions", "github-actions", "github-actions[bot]"]);
+  const titled = JSON.parse(gh("issue", "list", "--state", "open", "--search", "\"Desk watchdog\" in:title", "--json", "number,title,author"))
+    .filter((i) => i.title === "Desk watchdog");
+  const issue = titled.find((i) => BOT.has(i.author?.login));
   if (issue) gh("issue", "edit", String(issue.number), "--body-file", file);
-  else gh("issue", "create", "--title", "Desk watchdog", "--body-file", file);
+  else if (!titled.length) gh("issue", "create", "--title", "Desk watchdog", "--body-file", file);
+  else console.warn(`::warning::Open "Desk watchdog" issue(s) ${titled.map((i) => `#${i.number}`).join(", ")} not opened by the Actions bot; report not written there`);
 }
