@@ -363,6 +363,12 @@ export const PUZZLE_HEROES: [string, string, string, string, string, string, str
   ["nyt-pips-hints-answers-november-17-2026", "pips", "#1e293b", "#93c5fd", "Pips · Tue., Nov. 17, 2026", "Pips hints today", "Hints for Easy, Medium and Hard, placements at the end."],
   ["contexto-answer-hints-november-10-2026-1514", "contexto", "#0f172a", "#a78bfa", "Contexto #1514 · Tue., Nov. 10, 2026", "Contexto hints", "Close words and hints first, the secret word only at the end."],
   ["nyt-spelling-bee-hints-answers-november-17-2026", "bee", "#1c1917", "#fde047", "Spelling Bee · Tue., Nov. 17, 2026", "Spelling Bee hints", "Hint grid and two-letter list first, the word list at the end."],
+  ["wordle-hint-answer-today-november-18-2026-1978", "wordle", "#121213", "#c9b458", "Wordle #1978 · Wed., Nov. 18, 2026", "Wordle hints today", "Six clues from gentle to strong, the answer only at the end."],
+  ["nyt-connections-hints-answers-november-18-2026-1256", "connections", "#1e1a3a", "#ba81c5", "Connections #1256 · Wed., Nov. 18, 2026", "Connections hints", "Gentle hints for every group first, answers only at the end.", "nyt-connections-november-18-e"],
+  ["nyt-strands-hints-answers-november-18-2026-990", "strands", "#0f2f3a", "#aedfee", "Strands #990 · Wed., Nov. 18, 2026", "Strands hints today", "Spangram and theme-word hints first, answers at the end."],
+  ["nyt-pips-hints-answers-november-18-2026", "pips", "#1e293b", "#fca5a5", "Pips · Wed., Nov. 18, 2026", "Pips hints today", "Hints for Easy, Medium and Hard, placements at the end."],
+  ["contexto-answer-hints-november-11-2026-1515", "contexto", "#0f172a", "#5eead4", "Contexto #1515 · Wed., Nov. 11, 2026", "Contexto hints", "Close words and hints first, the secret word only at the end."],
+  ["nyt-spelling-bee-hints-answers-november-18-2026", "bee", "#1c1917", "#fbbf24", "Spelling Bee · Wed., Nov. 18, 2026", "Spelling Bee hints", "Hint grid and two-letter list first, the word list at the end."],
 ];
 
 export async function buildHeroes5(only?: string): Promise<void> {
