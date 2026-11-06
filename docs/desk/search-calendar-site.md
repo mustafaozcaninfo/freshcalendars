@@ -2,6 +2,10 @@
 
 Written by the search desk (`s`) for pages outside `/news/` (printable calendars, `/when-is/`, holiday pages). They come from the generator (shared code), so the desk files no update item: each entry names the page, the query, the position and click rate, and the title, description or H1 template change it suggests. Newest first. The manager makes the change in `packages/generator` and strikes the entry.
 
+## 2026-11-06 (search desk, evening)
+
+- **Nothing new for the manager.** Read of Nov. 6, 16:45 UTC (same windows as the morning read, ending Nov. 3): 90 of 90 sampled stories "Submitted and indexed" (gate 54 of 54), all three sitemaps 0 errors, /sitemap.xml last read by Google Oct. 28. No volume signal. The calendar-site notes of Nov. 3 (/september-calendars.html, /when-is/christmas-day/) still stand; no new data on them.
+
 ## 2026-11-06 (search desk, morning)
 
 - **Indexing and sitemaps clear, no volume signal.** Read of Nov. 6, 09:18 UTC: 76 of 76 sampled stories published 2 to 21 days ago are "Submitted and indexed" (the gate counts 46 of 46), including the college basketball key-dates story that was "Crawled - currently not indexed" on Nov. 5. All three sitemaps 0 errors. Gate rows 1 and 2 pass; manual actions and security issues still need the owner's check.
