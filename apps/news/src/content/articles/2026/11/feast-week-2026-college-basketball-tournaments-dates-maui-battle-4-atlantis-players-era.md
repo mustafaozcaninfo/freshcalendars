@@ -112,7 +112,7 @@ internalLinks:
     label: "November 2026 printable calendar"
   - href: "/when-is/thanksgiving/"
     label: "When is Thanksgiving?"
-related: [college-basketball-opening-night-2026-top-25-games-times-tv-champions-classic, thanksgiving-football-schedule-2026-nfl-college-games, nba-cup-2026-schedule-dates-group-play-knockouts-final-indianapolis]
+related: [college-basketball-opening-night-2026-top-25-games-times-tv-champions-classic, thanksgiving-football-schedule-2026-nfl-college-games, ncaa-volleyball-tournament-2026-bracket-schedule-final-four-san-antonio]
 draft: false
 ---
 
