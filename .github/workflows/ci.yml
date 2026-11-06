@@ -34,6 +34,26 @@ jobs:
       - name: Puzzle answers vs official data
         run: pnpm news:puzzle-check
 
+  # A desk pull request ([W1]..., [U], Puzzles ...) may not change workflows, scripts, the Worker,
+  # package manifests or agent settings (docs/DESK.md "Files you never change"; scripts/desk-scope.mjs).
+  # Other titles pass, so the owner's own pull requests are not limited. The title and base go in
+  # through env, never into the script text.
+  desk-scope:
+    if: github.event_name == 'pull_request'
+    runs-on: ubuntu-24.04
+    timeout-minutes: 5
+    steps:
+      # The pull request's merge commit and its first parent (the base it was merged onto), so only
+      # this pull request's own changes count, not what landed on main since it was opened.
+      - uses: actions/checkout@v7
+        with:
+          fetch-depth: 2
+      - name: Files a desk pull request may change
+        env:
+          DESK_TITLE: ${{ github.event.pull_request.title }}
+          DESK_BASE: HEAD^1
+        run: node scripts/desk-scope.mjs
+
   # The checks a story must pass before it is published.
   news:
     runs-on: ubuntu-24.04
