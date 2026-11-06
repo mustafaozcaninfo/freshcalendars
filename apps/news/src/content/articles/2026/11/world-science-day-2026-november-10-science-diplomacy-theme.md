@@ -113,7 +113,7 @@ draft: false
 
 ## What is the World Science Day 2026 theme?
 
-UNESCO's page gives the 2026 theme as "Common ground through science diplomacy." Some other websites list different theme wording. We use UNESCO's page, because it is the organization behind the day.
+UNESCO's page gives the 2026 theme as "Common ground through science diplomacy." UNESCO is the organization behind the day, so its wording is the one we use.
 
 ## When is World Science Day in 2026 and 2027?
 
