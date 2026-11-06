@@ -4,7 +4,7 @@ seoTitle: "ATP Finals 2026 Turin: Dates, TV and Time Zones"
 description: "The Association of Tennis Professionals (ATP) Finals run Nov. 15-22, 2026 in Turin, Italy, on Tennis Channel in the U.S., with singles from 8 a.m. Eastern."
 type: news
 publishedAt: "2026-10-28T03:42:00-04:00"
-updatedAt: "2026-11-05T01:32:00-05:00"
+updatedAt: "2026-11-06T00:37:00-05:00"
 authors: [jessica-hartwell]
 category: sports
 keywords: ["atp finals 2026", "atp finals 2026 schedule", "nitto atp finals turin dates", "atp finals 2026 tv channel us", "atp finals qualified players 2026"]
@@ -89,6 +89,10 @@ sources:
     url: "https://www.atptour.com/en/news/nitto-atp-finals-2026-qualification-scenarios-4-november"
     publisher: "ATP Tour"
     date: "2026-11-04"
+  - title: "What are the Nitto ATP Finals qualification scenarios?"
+    url: "https://www.atptour.com/en/news/nitto-atp-finals-qualification-2026-scenarios-november-5"
+    publisher: "ATP Tour"
+    date: "2026-11-05"
   - title: "Arribage Olivetti Nitto ATP Finals 2026 Qualification"
     url: "https://www.nittoatpfinals.com/en/news/arribage-olivetti-nitto-atp-finals-2026-qualification"
     publisher: "Nitto ATP Finals"
@@ -189,17 +193,18 @@ The ATP Tour has published a qualification report for each player who has secure
 | Carlos Alcaraz | Sept. 16 |
 | Ben Shelton | Oct. 18 |
 | Daniil Medvedev | Oct. 30, after beating Adrian Mannarino in the Vienna quarterfinals |
-| Flavio Cobolli | Reported by the ATP by Nov. 4 |
+| Flavio Cobolli | Nov. 3 ("Flavio Cobolli qualifies for Nitto ATP Finals for first time") |
 | Arthur Fils | Reported by the ATP by Nov. 4 |
 
 Jannik Sinner qualified first, on July 10. An ATP Tour report dated Oct. 6, 2026 says he ended his 2026 season because of a knee injury, and the Nitto ATP Finals race list reads "Misses 2026 event due to injury." He is not counted among the six above. No alternate has been named; alternates are not yet announced.
 
 ### Which two singles places are still open?
 
-The ATP wrote on Nov. 4: "Only two places remain." Both depend on the Rolex Paris Masters, which runs Oct. 31 to Nov. 8, 2026, according to Paris La Défense. These are the ATP's scenarios, not results:
+As of Nov. 5, 2026, the ATP says "Only two singles places remain" with "four players in contention." Paris Masters results decide the last two places. The Rolex Paris Masters runs Oct. 31 to Nov. 8, 2026, according to Paris La Défense. These are the ATP's scenarios from Nov. 5, not results:
 
-- If Tommy Paul or Taylor Fritz loses on Thursday, Nov. 5, their countryman Frances Tiafoe, eighth in the ATP Live Race To Turin, will qualify.
-- If both Paul and Fritz lose, ninth-placed Martin Jodar will also qualify, completing the field.
+- Frances Tiafoe qualifies "as long as Paul does not defeat Fritz in the Paris final."
+- Rafael Jodar qualifies if "Alcaraz defeats Fritz in their quarter-final and Paul does not reach the final."
+- Taylor Fritz qualifies if he reaches the final, or the semifinals and Paul does not reach the final.
 
 See our [Paris Masters 2026 schedule](/news/paris-masters-2026-schedule-final-time-by-time-zone/) for those match times.
 

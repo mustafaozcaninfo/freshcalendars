@@ -4,6 +4,7 @@ seoTitle: "FSA Deadline 2026: Use It or Lose It, $680 Carryover"
 description: "Money in a health flexible spending arrangement (FSA) is use-it-or-lose-it unless your plan allows a $680 carryover or a 2½-month grace period, IRS says."
 type: explainer
 publishedAt: "2026-10-30T15:30:00-04:00"
+updatedAt: "2026-11-06T00:36:00-05:00"
 authors: [aaron-kessler]
 category: money-benefits
 keywords: ["fsa deadline 2026", "fsa use it or lose it 2026", "fsa carryover 2026", "fsa grace period 2026", "health fsa limit 2026"]
@@ -22,7 +23,7 @@ summary:
   - "The 2026 health flexible spending arrangement (FSA) limit is $3,400, up $100 from $3,300 in 2025, per the IRS."
   - "If your plan allows a carryover, the most that can move into the next plan year is $680."
   - "A plan may offer a grace period of up to 2½ months instead, which for a plan year ending Dec. 31, 2026 runs at most to March 15, 2027."
-  - "A plan with a carryover cannot also have a grace period for health FSAs. The IRS has not yet announced the 2027 limit."
+  - "A plan with a carryover cannot also have a grace period for health FSAs. For 2027 the IRS set the limit at $3,500 and the carryover at $700."
 faq:
   - q: "Does my health FSA money roll over in 2026?"
     a: "Only if your plan has a carryover provision. The IRS caps it at $680 for plan years beginning in 2026, and an employer may set a lower amount."
@@ -31,10 +32,17 @@ faq:
   - q: "What is the last day of a grace period for a calendar-year plan?"
     a: "Monday, March 15, 2027 at the latest, for a plan year ending Thursday, December 31, 2026, and only if the plan has a grace period."
   - q: "What is the 2027 health FSA limit?"
-    a: "The IRS had not announced it as of October 30, 2026."
+    a: "$3,500, up $100 from the prior year, for tax years beginning in 2027. For plans that allow carryover, the maximum carryover is $700, up $20 from 2026. The IRS released both on November 5, 2026."
   - q: "When is the deadline to submit FSA claims?"
     a: "Your plan sets it. Ask your plan administrator; the IRS pages used for this story do not give one."
 sources:
+  - title: "IRS releases tax inflation adjustments for tax year 2027 (IR-2026-133)"
+    url: "https://www.irs.gov/newsroom/irs-releases-tax-inflation-adjustments-for-tax-year-2027-taxpayers-continue-to-benefit-from-the-working-families-tax-cuts"
+    publisher: "Internal Revenue Service"
+    date: "2026-11-05"
+  - title: "Revenue Procedure 2026-35"
+    url: "https://www.irs.gov/pub/irs-drop/rp-26-35.pdf"
+    publisher: "Internal Revenue Service"
   - title: "Rev. Proc. 2025-32, section 4.15, Internal Revenue Bulletin 2025-45"
     url: "https://www.irs.gov/irb/2025-45_IRB"
     publisher: "Internal Revenue Service"
@@ -65,14 +73,6 @@ downloads:
     pdf: "/news/downloads/fsa-2026/fsa-year-end-checklist-2026.pdf"
     png: "/news/downloads/fsa-2026/fsa-year-end-checklist-2026.png"
     pages: 1
-  - group: "FSA Year-End Checklist 2026 printables"
-    title: "FSA Year-End Checklist 2026 (ink saver)"
-    description: "A one-page checklist for health FSA holders: plan year end, carryover up to $680, grace period, balance, claims deadline and receipts. Ink-saver version."
-    preview: ../../../../assets/news/fsa-2026/fsa-year-end-checklist-2026-ink.png
-    alt: "Printable FSA year-end checklist for 2026 with tick boxes, ink-saver version"
-    pdf: "/news/downloads/fsa-2026/fsa-year-end-checklist-2026-ink.pdf"
-    png: "/news/downloads/fsa-2026/fsa-year-end-checklist-2026-ink.png"
-    pages: 1
 assets:
   kicker: "Health FSA · Plan year ends Dec. 31"
   overlay: true
@@ -84,6 +84,7 @@ assets:
     title: "FSA Year-End Checklist 2026"
     subtitle: "Health FSA steps before the plan year ends"
     layout: checklist
+    noKit: "Personal to-do checklist for a plan year end; the plan sets its own dates, so there is no fixed deadline matrix."
     rows:
       - { when: "Now", what: "Find your plan year end date (Dec. 31, 2026 for a calendar-year plan)", section: "Find out" }
       - { when: "Now", what: "Check whether the plan has a carryover (up to $680), a grace period or neither", section: "Find out" }
@@ -91,9 +92,8 @@ assets:
       - { when: "Now", what: "Check your balance in the benefits portal", section: "Do" }
       - { when: "Now", what: "Ask the administrator for the claims deadline", section: "Do" }
       - { when: "Now", what: "Keep receipts for every eligible expense", section: "Do" }
-      - { when: "Open enrollment", what: "Note your 2027 election", section: "Do" }
+      - { when: "Open enrollment", what: "Note your 2027 election (2027 limit $3,500, carryover up to $700)", section: "Do" }
     note: "Source: IRS Rev. Proc. 2025-32 (Internal Revenue Bulletin 2025-45) and IRS Publication 969. Your plan sets its own rules."
-    inkSaver: true
     description: "A one-page checklist for health FSA holders: plan year end, carryover up to $680, grace period, balance, claims deadline and receipts."
     alt: "Printable FSA year-end checklist for 2026 with tick boxes"
 ---
@@ -108,9 +108,9 @@ assets:
 | Maximum carryover, if the plan allows | $680 (2025: $660) | [Rev. Proc. 2025-32](https://www.irs.gov/irb/2025-45_IRB) |
 | Grace period, if the plan allows | Up to 2½ months after the plan year ends | [IRS Publication 969](https://www.irs.gov/publications/p969) |
 | Carryover and grace period together | Not permitted for health FSAs | [IRS Publication 969](https://www.irs.gov/publications/p969) |
-| 2027 limit | Not yet announced by the IRS as of Oct. 30, 2026 | |
+| 2027 health FSA limit | $3,500 (up $100), with a maximum carryover of $700 (up $20) | [IRS news release IR-2026-133](https://www.irs.gov/newsroom/irs-releases-tax-inflation-adjustments-for-tax-year-2027-taxpayers-continue-to-benefit-from-the-working-families-tax-cuts), Nov. 5, 2026 |
 
-The $3,400 limit applies to taxable years beginning in 2026, and the $680 carryover figure applies when the cafeteria plan permits carryover. The 2025 values of $3,300 and $660 come from Publication 969.
+The $3,400 limit applies to taxable years beginning in 2026, and the $680 carryover figure applies when the cafeteria plan permits carryover. The 2025 values of $3,300 and $660 come from Publication 969. For tax years beginning in 2027, the IRS says the health FSA limit rises to $3,500 and the maximum carryover to $700 ([IR-2026-133](https://www.irs.gov/newsroom/irs-releases-tax-inflation-adjustments-for-tax-year-2027-taxpayers-continue-to-benefit-from-the-working-families-tax-cuts), with detail in [Revenue Procedure 2026-35](https://www.irs.gov/pub/irs-drop/rp-26-35.pdf)).
 
 ## What happens to unused health FSA money?
 
