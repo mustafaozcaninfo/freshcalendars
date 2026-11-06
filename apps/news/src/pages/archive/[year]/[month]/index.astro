@@ -34,7 +34,7 @@ const jsonLd = listingGraph({ path: m.path, name: title, description, trail, ite
     <Breadcrumb items={[{ name: "Home", href: "/" }, { name: "News", href: "/news/" }, { name: "Archive", href: ARCHIVE_PATH }, { name: m.name }]} />
     <h1>{title}</h1>
     <p class="news-lede">Stories are listed by publication date in Eastern Time (ET), newest first. The <a href={ARCHIVE_PATH}>archive</a> has every other month.</p>
-    <div class="month-cal"><ArchiveCalendar year={m.year} month={m.month} counts={counts} dayHref={(iso) => `#d-${iso}`} heading={`${m.name} by day`} total={m.items.length} level={2} /></div>
+    <div class="month-cal"><ArchiveCalendar year={m.year} month={m.month} counts={counts} dayHref={(iso) => `#d-${iso}`} heading={`${m.name} by day`} total={m.items.length} headingLevel={2} /></div>
     {[...byDay].map(([iso, items]) => (
       <section class="day" id={`d-${iso}`} aria-labelledby={`h-${iso}`}>
         <h2 id={`h-${iso}`}>{dayName(iso)}<span>{items.length} {items.length === 1 ? "story" : "stories"}</span></h2>

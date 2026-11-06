@@ -15,10 +15,10 @@ interface Props {
   headingHref?: string;
   total: number;
   /** Heading level: 3 under a year heading on the archive index, 2 on a month page (no skipped levels). */
-  level?: 2 | 3;
+  headingLevel?: 2 | 3;
 }
-const { year, month, counts, dayHref, heading, headingHref, total, level = 3 } = Astro.props;
-const H = level === 2 ? "h2" : "h3";
+const { year, month, counts, dayHref, heading, headingHref, total, headingLevel = 3 } = Astro.props;
+const H = headingLevel === 2 ? "h2" : "h3";
 const first = new Date(Date.UTC(year, month - 1, 1)).getUTCDay();
 const days = new Date(Date.UTC(year, month, 0)).getUTCDate();
 const cells: (null | { d: number; iso: string; n: number })[] = [];
