@@ -99,7 +99,7 @@ internalLinks:
     label: "December 2026 printable calendar"
   - href: "/november-calendars.html"
     label: "November 2026 printable calendar"
-related: [dunkin-holiday-menu-2026-november-4-avengers-doomsday-menu, new-movies-in-theaters-november-2026-release-dates-hunger-games-hexed, netflix-new-movies-november-2026-release-dates]
+related: [dunkin-holiday-menu-2026-november-4-avengers-doomsday-menu, new-movies-in-theaters-november-2026-release-dates-hunger-games-hexed, dune-part-three-release-date-december-18-2026-tickets]
 draft: false
 ---
 

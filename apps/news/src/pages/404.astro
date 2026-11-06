@@ -9,6 +9,7 @@ import ArticleCard from "../components/ArticleCard.astro";
 import { categoryHref, getActiveCategories, getCategoryNames, getPublishedArticles } from "../lib/articles";
 import { liveTopics } from "../lib/storygraph";
 import { topicPath } from "../lib/topics";
+import { NOT_FOUND_JS } from "@freshcalendars/site-chrome";
 
 const all = await getPublishedArticles();
 const names = await getCategoryNames();
@@ -26,6 +27,8 @@ const topics = liveTopics(all).slice(0, 8).map(({ topic, items }) => ({ ...topic
   <div class="concept-wrap nf">
     <section class="error-page"><div class="error-visual" aria-hidden="true"><strong>404</strong></div><div class="error-content"><p class="overline">Fresh Calendars News</p><h1>Story not found</h1><p>This page may have moved, or the story is not published yet. The newest stories, every section and our free printables are below, or use the search at the top.</p><div class="error-links"><a href="/news/">Latest stories</a><a href="/news/printables/">Free printables</a><a href="/page/contact/">Report a broken link</a></div></div></section>
 
+    <section class="nf-suggest" data-nf-suggest hidden aria-live="polite"></section>
+    <script is:inline set:html={NOT_FOUND_JS} />
     {latest.length > 0 && (
       <section class="nf-block" aria-labelledby="nf-latest">
         <div class="nf-head"><h2 id="nf-latest">Latest stories</h2><a href="/news/">All news →</a></div>

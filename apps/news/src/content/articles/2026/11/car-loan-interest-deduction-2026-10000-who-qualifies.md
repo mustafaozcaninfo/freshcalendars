@@ -67,7 +67,7 @@ internalLinks:
     label: "December 2026 printable calendar"
   - href: "/january-calendars.html"
     label: "January 2027 printable calendar"
-related: [year-end-money-deadlines-december-31-2026, when-does-tax-season-start-2027-irs-filing-opening-date, w2-box-12-codes-tp-tt-tips-overtime-2026]
+related: [year-end-money-deadlines-december-31-2026, when-does-tax-season-start-2027-irs-filing-opening-date, save-plan-deadline-2027-switch-repayment-plan-rap]
 assets:
   overlay: true
   kicker: "Car loan interest · 2025-2028 tax years"

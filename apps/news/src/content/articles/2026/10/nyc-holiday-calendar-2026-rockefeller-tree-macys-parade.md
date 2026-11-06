@@ -157,7 +157,7 @@ Every date below comes from the organizer's own site or press release. Nothing i
 
 ## Rockefeller Center Christmas Tree
 
-Rockefeller Center says the 2026 tree returns to the plaza on **Saturday, Nov. 7**. It is the second year of Meet the Tree Day, when families can watch it arrive. The **Tree Lighting Ceremony is Wednesday, Dec. 2**, and the Christmas in Rockefeller Center broadcast airs live on NBC.
+Rockefeller Center says the 2026 tree returns to the plaza on **Saturday, Nov. 7**. It is the second year of Meet the Tree Day, when families can watch it arrive. The **Tree Lighting Ceremony is Wednesday, Dec. 2**, and the Christmas in Rockefeller Center broadcast airs live on NBC. Our [Rockefeller Christmas tree 2026 guide](/news/rockefeller-christmas-tree-2026-lighting-december-2-arrival-november-7/) has the lighting time by time zone and where the tree is from.
 
 Still to come: the ceremony's start time, the performers, where the tree is from and its height. Last year's tree stood 75 feet tall with more than 50,000 multicolored lights, according to Rockefeller Center. The Swarovski star weighs about 900 pounds. It has 70 spikes. After the season, the tree is milled into lumber for Habitat for Humanity homes.
 

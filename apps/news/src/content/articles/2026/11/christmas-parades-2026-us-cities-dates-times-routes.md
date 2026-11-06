@@ -72,7 +72,7 @@ internalLinks:
     label: "November 2026 printable calendar"
   - href: "/december-calendars.html"
     label: "December 2026 printable calendar"
-related: [thanksgiving-parades-2026-detroit-houston-philadelphia-chicago-start-times-tv, santa-at-the-mall-2026-arrival-dates-simon-malls, christmas-tree-lightings-2026-dates-times-nyc-dc-boston]
+related: [thanksgiving-parades-2026-detroit-houston-philadelphia-chicago-start-times-tv, cpkc-holiday-train-2026-schedule-stops-times, christmas-tree-lightings-2026-dates-times-nyc-dc-boston]
 downloads:
   - group: "Christmas Parades 2026 Schedule printables"
     title: "Christmas Parades 2026 Schedule"

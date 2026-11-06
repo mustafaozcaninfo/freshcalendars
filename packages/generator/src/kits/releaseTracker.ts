@@ -72,7 +72,7 @@ export const releaseTracker: Kit<ReleaseTracker> = {
       for (let y = first.getUTCFullYear(), m = first.getUTCMonth(); y < last.getUTCFullYear() || (y === last.getUTCFullYear() && m <= last.getUTCMonth()); m === 11 ? (m = 0, y++) : m++) months.push({ y, m });
       const span = Math.max(1, (last.getUTCFullYear() * 12 + last.getUTCMonth()) - (first.getUTCFullYear() * 12 + first.getUTCMonth()) + 1);
       const X = (dt: Date) => 3 + (((dt.getUTCFullYear() * 12 + dt.getUTCMonth()) - (first.getUTCFullYear() * 12 + first.getUTCMonth())) + (dt.getUTCDate() - 1) / 31) / span * 94;
-      const labels = months.map((mo, i) => `<text x="${(3 + (i + 0.5) / span * 94)}%" y="50" text-anchor="middle" font-family="Sora" font-weight="700" font-size="9" fill="${t.muted}">${MON[mo.m]} ${String(mo.y).slice(2)}</text>`).join("");
+      const labels = months.map((mo, i) => `<text x="${(3 + (i + 0.5) / span * 94)}%" y="50" text-anchor="middle" font-family="Sora" font-weight="700" font-size="9" fill="${t.muted}">${MON[mo.m]} ${mo.y}</text>`).join("");
       const dots = dated.map((r) => `<circle cx="${X(r.date)}%" cy="24" r="5" fill="${t.primary}"/>`).join("");
       strip = `<svg class="strip" width="100%" height="56" role="img"><title>Dated releases by month</title><line x1="3%" x2="97%" y1="24" y2="24" stroke="${t.line}" stroke-width="3"/>${dots}${labels}</svg>`;
     }

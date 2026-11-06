@@ -4,6 +4,7 @@ seoTitle: "Times Square Ball Drop 2026: Time and How to Watch"
 description: "The Times Square ball begins its 60-second drop at 11:59 p.m. Eastern Time (ET) on Thursday, Dec. 31, 2026. Times by U.S. zone, plus ABC and Disney+ coverage."
 type: news
 publishedAt: "2026-10-30T15:48:00-04:00"
+updatedAt: "2026-11-06T13:53:00-05:00"
 authors: [christina-gerland]
 category: holidays
 keywords: ["ball drop 2026 time", "what time does the ball drop", "new year's rockin eve 2027 time", "times square new year's eve 2026", "how to watch ball drop"]
@@ -77,6 +78,9 @@ sources:
     url: "https://www.fox5ny.com/news/times-square-unveils-new-2025-new-years-eve-ball-5280-waterford-crystals"
     publisher: "Fox 5 New York"
     date: "2025-11-25"
+  - title: "'Dick Clark's New Year's Rockin' Eve with Ryan Seacrest 2027' to Simulcast on Disney+"
+    url: "https://abc.com/news/fe2a34ee-c8e0-4df1-a1a1-ef35d92fb779/category/1138628"
+    publisher: "ABC"
   - title: "New Year's Rockin' Eve with Ryan Seacrest to simulcast on ABC and Disney+ for the first time"
     url: "https://www.thewrap.com/media-platforms/tv/new-years-rockin-eve-ryan-seacrest-simulcast-abc-disney-plus-first-time/"
     publisher: "TheWrap"
@@ -106,7 +110,7 @@ faq:
   - q: "What time does the ball drop in Pacific Time?"
     a: "The descent starts at 8:59 p.m. PT and midnight in New York is 9 p.m. PT. Whether ABC replays the drop in the West has not been announced."
   - q: "What time does New Year's Rockin' Eve 2027 start?"
-    a: "At 8 p.m. ET (7 p.m. CT) on ABC and Disney+, according to TheWrap and TV Insider. The performer lineup has not been announced."
+    a: "ABC has not published the 2026-27 start time, but says the show simulcasts on Disney+ alongside ABC for the first time. TheWrap and TV Insider reported an 8 p.m. ET (7 p.m. CT) start. The performer lineup has not been announced."
   - q: "Can you bring a backpack to Times Square on New Year's Eve?"
     a: "Backpacks were not permitted at the last event, per the Alliance's guidance for that event. The Alliance has not posted 2026-27 rules yet."
   - q: "Is the ball new in 2026?"
@@ -149,9 +153,11 @@ Two Canadian provinces moved to permanent offsets this year, per the tz database
 
 ## How to watch the 2027 countdown on TV and online
 
-TheWrap reported on Oct. 7, 2026, and TV Insider on Oct. 27, 2026, that "Dick Clark's New Year's Rockin' Eve with Ryan Seacrest 2027" airs on Dec. 31 starting at 8 p.m. ET (7 p.m. CT) on ABC and, for the first time, is simulcast on Disney+. TV Insider wrote that Ryan Seacrest "will be back as the main host." TheWrap named Rita Ora as the returning co-host in Times Square, Julianne Hough and Rob Gronkowski in Las Vegas, and Druski as a Chicago co-host.
+ABC said in October 2026 that "Dick Clark's New Year's Rockin' Eve with Ryan Seacrest 2027" "will simulcast on Disney+, alongside the live broadcast on ABC, for the first time in the history of the iconic franchise." The show is hosted by Ryan Seacrest. ABC said Rita Ora "returns to co-host from New York's Times Square," Druski is "the Chicago co-host," and Julianne Hough and Rob Gronkowski "will return to Las Vegas."
 
-Performers have not been announced. Plans from CNN, NBC and Fox have not been announced either. Last year, ABC's special also began at 8 p.m. ET, 7 p.m. CT, according to ABC11 on Dec. 26, 2025.
+ABC has not published the 2026-27 start time on Dec. 31, 2026, and said "additional details for this year's broadcast will be announced in the coming months," so performers are not yet named. TheWrap reported on Oct. 7, 2026, and TV Insider on Oct. 27, 2026, that the special begins at 8 p.m. ET (7 p.m. CT). Plans from CNN, NBC and Fox have not been announced. Last year, ABC's special also began at 8 p.m. ET, 7 p.m. CT, according to ABC11 on Dec. 26, 2025.
+
+ABC said last year's broadcast drew "46 million total viewers" across "an expanded eight-hour celebration" with "42 performers, four live countdown celebrations, and nearly 100 songs." It added that "more than 30 million viewers watched the iconic Times Square Ball Drop at midnight."
 
 ## What to know before going to Times Square
 

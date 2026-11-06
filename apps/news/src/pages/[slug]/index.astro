@@ -958,8 +958,23 @@ const puzzleDay = pzThis ? {
     .article-layout > .article{width:auto;margin:0}
     .article-layout :global(.aside){padding-top:clamp(1.75rem,4vw,2.75rem)}
   }
+  /* Print: the story and its sources, not the page's controls. Navigation bars, share and add-to-calendar
+     buttons, the download and related blocks and the folded contents list printed as dead ink (a
+     story ran to 11 pages); external links print their address so a paper copy keeps its sources. */
   @media print{
     .progress,.after,:global(.aside),:global(.site-header),:global(.site-footer),:global(.ad-slot){display:none!important}
-    .prose-news{font-size:11pt}
+    :global(:is(.newsbar,.secbar,.crumbs,.share,.toc,.pz-jump,.jump,.topic-links,.downloads,.related,.pn,.more,.trending,.pref-src,.author-card,.keydates .add,.keydates .all,.keydates .in,.tool-box,.zip-finder,.print-tease,.cal-links,.faq-block)){display:none!important}
+    .prose-news{font-size:11pt;line-height:1.5}
+    .article :global(figure.hero img){max-height:3in;width:auto;max-width:100%;object-fit:cover}
+    .article :global(:is(h2,h3)){break-after:avoid}
+    .prose-news :global(:is(tr,li,blockquote,figure,.keypoints)){break-inside:avoid}
+    .prose-news :global(a[href^="http"])::after{content:" (" attr(href) ")";font-size:8.5pt;color:#555;word-break:break-all}
+    /* Tables print whole on the page width: the scroll box clipped the last columns, and printed
+       addresses in those narrow cells ran letter by letter (one row filled a third of a page). The
+       Sources list at the end carries every address. */
+    .prose-news :global(.table-scroll){overflow:visible!important;border:0;box-shadow:none}
+    .prose-news :global(table){font-size:9pt;width:100%}
+    .prose-news :global(:is(th,td)){min-width:0!important;padding:4px 6px!important;white-space:normal!important}
+    .prose-news :global(table a[href^="http"])::after{content:none}
   }
 </style>

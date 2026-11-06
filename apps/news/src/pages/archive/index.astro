@@ -6,10 +6,19 @@ import NewsRail from "../../components/NewsRail.astro";
 import { getPublishedArticles } from "../../lib/articles";
 import { ARCHIVE_PATH, archiveMonths } from "../../lib/archive";
 import { listingGraph } from "../../lib/seo";
+import ArchiveCalendar from "../../components/ArchiveCalendar.astro";
+
+/** Stories per Eastern Time day, keyed YYYY-MM-DD (the archive groups by ET, like the month pages). */
+const etDay = (d: Date) => d.toLocaleDateString("en-CA", { timeZone: "America/New_York" });
 
 const months = archiveMonths(await getPublishedArticles(), (a) => a.data.publishedAt);
 const total = months.reduce((n, m) => n + m.items.length, 0);
 const years = [...new Set(months.map((m) => m.year))];
+const countsOf = (items: { data: { publishedAt: Date } }[]) => {
+  const c = new Map<string, number>();
+  for (const a of items) { const k = etDay(a.data.publishedAt); c.set(k, (c.get(k) ?? 0) + 1); }
+  return c;
+};
 const title = "News Archive: Every Story by Month";
 const description = `All ${total} Fresh Calendars News stories by the month they were published, newest first: holiday dates, schedules, deadlines and daily puzzle pages.`;
 const trail = [{ name: "News", path: "/news/" }, { name: "Archive", path: ARCHIVE_PATH }];
@@ -19,19 +28,24 @@ const jsonLd = listingGraph({ path: ARCHIVE_PATH, name: title, description, trai
   <div class="news-workspace"><NewsRail path={ARCHIVE_PATH} /><div class="hub archive">
     <Breadcrumb items={[{ name: "Home", href: "/" }, { name: "News", href: "/news/" }, { name: "Archive" }]} />
     <h1>{title}</h1>
-    <p class="news-lede">Every story we have published, {total} in all, grouped by month in Eastern Time (ET). Pick a month to see its stories by date.</p>
+    <p class="news-lede">Every story we have published, {total} in all, by the day it went up in Eastern Time (ET). Darker days had more stories; pick a day or a month to see its list.</p>
+    <p class="acal-key" aria-hidden="true">Fewer <span class="k l1"></span><span class="k l2"></span><span class="k l3"></span><span class="k l4"></span> More stories</p>
     {years.map((y) => (
       <section aria-labelledby={`y${y}`}>
         <h2 id={`y${y}`}>{y}</h2>
-        <ul class="months">
-          {months.filter((m) => m.year === y).map((m) => <li><a href={m.path}>{m.name.replace(` ${y}`, "")}<span>{m.items.length} stories</span></a></li>)}
-        </ul>
+        <div class="cals">
+          {months.filter((m) => m.year === y).map((m) => <ArchiveCalendar year={m.year} month={m.month} counts={countsOf(m.items)} dayHref={(iso) => `${m.path}#d-${iso}`} heading={m.name} headingHref={m.path} total={m.items.length} />)}
+        </div>
       </section>
     ))}
   </div></div>
 </NewsBase>
 <style>
   .archive h2{font-size:1.2rem;margin:1.5rem 0 .6rem}
+  .cals{display:grid;grid-template-columns:repeat(auto-fill,minmax(280px,1fr));gap:16px}
+  .acal-key{display:flex;align-items:center;gap:4px;font-size:14px;color:var(--muted);margin:0 0 .5rem}
+  .acal-key .k{width:16px;height:16px;border-radius:4px;display:inline-block}
+  .acal-key .k.l1{background:#d8efe3}.acal-key .k.l2{background:#9fd6b9}.acal-key .k.l3{background:#237550}.acal-key .k.l4{background:#0b5a3a}
   .months{list-style:none;margin:0;padding:0;display:grid;grid-template-columns:repeat(auto-fill,minmax(150px,1fr));gap:10px}
   .months a{display:grid;gap:2px;min-height:44px;padding:12px 14px;border:1px solid var(--line);border-radius:8px;font-weight:700;color:var(--ink-strong);text-decoration:none}
   .months a:hover,.months a:focus-visible{border-color:var(--focus);color:var(--focus)}
