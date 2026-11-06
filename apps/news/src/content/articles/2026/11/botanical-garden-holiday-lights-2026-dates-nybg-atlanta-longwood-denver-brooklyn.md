@@ -4,7 +4,7 @@ seoTitle: "Botanical Garden Holiday Lights 2026 Dates and Prices"
 description: "New York Botanical Garden (NYBG) and Atlanta Botanical Garden open Sat., Nov. 14, 2026; Longwood, Denver and Brooklyn open Fri., Nov. 20, per each garden."
 type: explainer
 publishedAt: "2026-11-04T18:38:00-05:00"
-updatedAt: "2026-11-04T18:38:00-05:00"
+updatedAt: "2026-11-06T01:30:00-05:00"
 authors: [christina-gerland]
 category: holidays
 keywords: ["botanical garden christmas lights 2026", "botanical garden holiday lights", "garden lights near me", "Lightscape 2026 dates", "Longwood Christmas 2026"]
@@ -21,7 +21,7 @@ hero:
     authorUrl: "https://www.flickr.com/people/69094753@N05"
 summary:
   - "New York Botanical Garden (NYBG) and Atlanta Botanical Garden open Saturday, Nov. 14, 2026; Longwood Gardens, Denver Botanic Gardens and Brooklyn Botanic Garden open Friday, Nov. 20."
-  - "Four of the five gardens close Sunday, Jan. 10, 2027; Brooklyn's Lightscape ends a week earlier, on Sunday, Jan. 3."
+  - "Four of the five gardens close Sunday, Jan. 10, 2027; Brooklyn's Lightscape ends a week earlier, on Sunday, Jan. 3. Chicago Botanic Garden, a sixth, runs Lightscape Nov. 13 to Jan. 3."
   - "Only Denver and Brooklyn post prices: Denver $19-$45 for the general public, Brooklyn $29 to $44 for an adult."
   - "Denver's public tickets go on sale Monday, Nov. 9 at 10 a.m., according to the garden."
 faq:
@@ -29,6 +29,8 @@ faq:
     a: "New York Botanical Garden's Holiday Train Show and Atlanta Botanical Garden's Garden Lights, Holiday Nights open Saturday, Nov. 14, 2026, according to each garden. Longwood, Denver and Brooklyn open Friday, Nov. 20."
   - q: "When does Lightscape start at Brooklyn Botanic Garden in 2026?"
     a: "Lightscape runs Nov. 20, 2026 to Jan. 3, 2027, according to Brooklyn Botanic Garden. Entry is by a 15-minute window chosen when you pick a visit date."
+  - q: "When does Lightscape start at Chicago Botanic Garden in 2026?"
+    a: "Lightscape runs from Nov. 13 to Jan. 3, according to Chicago Botanic Garden. The page prints no year; its dated events fall in December 2026 and Jan. 1-3, which puts the run at Nov. 13, 2026 to Jan. 3, 2027. The garden is closed on Thanksgiving day and Christmas day."
   - q: "How much are Denver Botanic Gardens Blossoms of Light tickets?"
     a: "General admission is $19-$45 and member tickets are $16-$38, according to Denver Botanic Gardens. Prices vary by date and time, and children 2 and younger are free."
   - q: "Is the Holiday Train Show at New York Botanical Garden a light show?"
@@ -66,7 +68,11 @@ sources:
   - title: "Lightscape"
     url: "https://www.chicagobotanic.org/lightscape"
     publisher: "Chicago Botanic Garden"
-    date: "2026-11-04"
+    date: "2026-11-06"
+  - title: "Lightscape FAQs"
+    url: "https://www.chicagobotanic.org/lightscape/FAQ"
+    publisher: "Chicago Botanic Garden"
+    date: "2026-11-06"
 internalLinks:
   - href: "/november-calendars.html"
     label: "November 2026 printable calendar"
@@ -119,11 +125,11 @@ assets:
           quote: ["November 14, 2026 through January 10, 2027.", "November 14, 2026 - January 10, 2027.", "November 20, 2026–January 10, 2027", "Nov. 20 – Jan. 10, 4:30-9 p.m. (closed Nov. 26 & Dec. 25)."]
           src: 1
       unconfirmed:
-        - { label: "Chicago Botanic Garden Lightscape run dates", why: "Not yet announced on the garden's page as of Nov. 4, 2026" }
+        - { label: "Chicago Botanic Garden Lightscape price range", why: "Not posted on the garden's page as of Nov. 6, 2026" }
         - { label: "Prices at NYBG, Atlanta and Longwood", why: "Not posted on the gardens' pages as of Nov. 4, 2026" }
 ---
 
-**New York Botanical Garden (NYBG) and Atlanta Botanical Garden open their holiday displays on Saturday, Nov. 14, 2026, and Longwood Gardens, Denver Botanic Gardens and Brooklyn Botanic Garden open on Friday, Nov. 20**, according to each garden's own event page, checked Nov. 4, 2026. The table below sets the five side by side, in opening order, with the hours and prices each garden has posted. A one-page printable keeps the opening, closing and on-sale dates in one grid.
+**New York Botanical Garden (NYBG) and Atlanta Botanical Garden open their holiday displays on Saturday, Nov. 14, 2026, and Longwood Gardens, Denver Botanic Gardens and Brooklyn Botanic Garden open on Friday, Nov. 20**, according to each garden's own event page, checked Nov. 4, 2026. The table below sets the five side by side with Chicago Botanic Garden, in opening order, with the hours and prices each garden has posted. A one-page printable keeps the opening, closing and on-sale dates in one grid.
 
 ## Botanical garden holiday lights 2026 by opening date
 
@@ -131,13 +137,14 @@ assets:
 
 | Opens | Garden and event | Closes | Hours | Price range | Timed entry | Tickets on sale |
 |---|---|---|---|---|---|---|
+| Fri., Nov. 13 | Chicago Botanic Garden, Lightscape | Sun., Jan. 3, 2027 | 4:30-10:30 p.m. on most evenings, last entry 8:45 p.m.; 4:30-9:30 p.m. on select dates, last entry 7:45 p.m.; closed Thanksgiving and Christmas | Not posted; $3 service fee per paid nonmember ticket | Timed tickets in 15-minute increments | Not posted |
 | Sat., Nov. 14 | NYBG, Holiday Train Show, Bronx, New York | Sun., Jan. 10, 2027 | Regular hours not posted; Conservatory open until 8 p.m. on select dates | Not posted | Member reservations recommended on non-peak weekdays | Not posted |
 | Sat., Nov. 14 | Atlanta Botanical Garden, Garden Lights, Holiday Nights | Sun., Jan. 10, 2027 | Not posted | Not posted; members save $5 | Timed tickets | Not posted |
 | Fri., Nov. 20 | Longwood Gardens, A Longwood Christmas, Kennett Square, Pennsylvania | Sun., Jan. 10, 2027 | 10 a.m.-11 p.m. daily, per the event page | Not posted | Timed tickets | Not posted |
 | Fri., Nov. 20 | Denver Botanic Gardens, Blossoms of Light | Sun., Jan. 10 | 4:30-9 p.m.; closed Nov. 26 and Dec. 25 | $19-$45; members $16-$38 | Arrive within 30 minutes after your ticket time | Public sale Mon., Nov. 9, 10 a.m. |
 | Fri., Nov. 20 | Brooklyn Botanic Garden, Lightscape | Sun., Jan. 3, 2027 | Garden closes 3:30 p.m. daily; evening hours not posted | $29 to $44 adult | 15-minute entry window | Not posted |
 
-Four of the five gardens close on the same night, Sunday, Jan. 10, 2027: NYBG, Atlanta, Longwood and Denver. Brooklyn's Lightscape ends a week earlier, on Sunday, Jan. 3.
+Four of the five gardens other than Chicago close on the same night, Sunday, Jan. 10, 2027: NYBG, Atlanta, Longwood and Denver. Brooklyn's Lightscape ends a week earlier, on Sunday, Jan. 3, and Chicago Botanic Garden's Lightscape ends the same day.
 
 ## NYBG: a train show with evening hours, not a light trail
 
@@ -150,6 +157,19 @@ Atlanta Botanical Garden lists Garden Lights, Holiday Nights from Sat., Nov. 14 
 Longwood Gardens lists A Longwood Christmas from Nov. 20, 2026 to Jan. 10, 2027. The event page gives 10 a.m.-11 p.m. daily and offers timed tickets and member reservations. Longwood's general visiting hours elsewhere on its site differ from that line, so check the date you want on the ticket calendar before you go.
 
 Denver's Blossoms of Light runs Nov. 20 to Jan. 10, 4:30-9 p.m., and is closed Nov. 26 and Dec. 25. The page heading still reads "Blossoms of Light 2025" and the date line has no year, but the ticket line, public sale Monday, Nov. 9 at 10 a.m., matches 2026, when Nov. 9 is a Monday. Member presale runs Nov. 4 to Nov. 6, staggered by membership level. Prices vary by date and time and are based on anticipated demand, and children 2 and younger are free.
+
+## Chicago Botanic Garden Lightscape: run, hours and special nights
+
+Chicago Botanic Garden says "Lightscape runs from November 13 to January 3." The page prints no year, but its dated events fall in December 2026 and Jan. 1-3, so the run is Friday, Nov. 13, 2026 to Sunday, Jan. 3, 2027. Lightscape is open from 4:30 to 10:30 p.m. on most evenings, with last entry at 8:45 p.m. On select dates it closes earlier, 4:30 to 9:30 p.m. with last entry at 7:45 p.m.; the page does not name those dates. It is closed on Thanksgiving day, Nov. 26, and Christmas day, Dec. 25, and tickets are available for Christmas Eve, New Year's Eve and New Year's Day.
+
+Tickets are sold in 15-minute increments. Prices vary by date and time and are based on anticipated demand, a $3 service fee applies to each paid nonmember ticket, and children under 3 receive free admission. The garden lists these special nights:
+
+| Night | Dates |
+|---|---|
+| Museums for All | Nov. 19; Dec. 3, 9, 10 and 16; Jan. 1, 2 and 3 |
+| Sensory Friendly | Dec. 2 |
+| Jingle Jam Family Night | Dec. 9 and 16 |
+| 21+ Nights | Dec. 10 and Jan. 1 |
 
 ## Brooklyn Lightscape prices by night type
 
@@ -170,12 +190,12 @@ Children under 3 are free, and Anytime Entry is $59. Visitors select a visit dat
 - **Atlanta:** hours, closed dates and prices.
 - **Longwood:** prices and an on-sale date.
 - **Brooklyn:** evening hours and an on-sale date.
-- **Chicago Botanic Garden:** full run dates for its own Lightscape are not yet announced on the garden's page. It lists Museums for All nights, including Thursday, Nov. 19, and says 20 of its 24 installations are new this year. It also says many gold, blue and purple dates offer tickets under $30.
+- **Chicago Botanic Garden:** a price range. The garden says prices vary by date and time and are based on anticipated demand, and that many gold, blue and purple dates currently offer tickets under $30.
 
 We did not use prices from ticket resellers or aggregator sites. For zoo shows, see [zoo lights 2026 dates](/news/zoo-lights-2026-dates-national-zoo-bronx-lincoln-park-la-denver-houston/); for other seasonal events, see [US Christmas markets in 2026](/news/us-christmas-markets-2026-opening-dates-philadelphia-dc-detroit-nyc/) and [Christmas tree lightings in 2026](/news/christmas-tree-lightings-2026-dates-times-nyc-dc-boston/).
 
 ## Garden lights dates to mark on your calendar
 
-The printable has one row per date: Denver's Nov. 9 on-sale, NYBG's Nov. 13 preview, the Nov. 14 and Nov. 20 openings, and the Jan. 3 and Jan. 10 closings, with a Done column. Add them to the [November 2026 printable calendar](/november-calendars.html) and the [December 2026 printable calendar](/december-calendars.html).
+The printable covers the five gardens in the headline, with one row per date: Denver's Nov. 9 on-sale, NYBG's Nov. 13 preview, the Nov. 14 and Nov. 20 openings, and the Jan. 3 and Jan. 10 closings, with a Done column. Add them to the [November 2026 printable calendar](/november-calendars.html) and the [December 2026 printable calendar](/december-calendars.html).
 
 Dates, hours and prices can change, so check each garden's site before you buy tickets.
