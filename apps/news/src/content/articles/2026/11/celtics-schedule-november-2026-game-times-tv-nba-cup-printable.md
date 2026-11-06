@@ -4,7 +4,7 @@ seoTitle: "Celtics Schedule November 2026: Times, TV, Cup Games"
 description: "The Celtics play at Houston on Mon., Nov. 2, 2026, at 8:30 p.m. Eastern Time (ET), one of 16 November games in the National Basketball Association (NBA)."
 type: news
 publishedAt: "2026-11-02T10:12:00-05:00"
-updatedAt: "2026-11-05T03:23:00-05:00"
+updatedAt: "2026-11-05T21:25:00-05:00"
 authors: [jessica-hartwell]
 category: sports
 keywords: ["Celtics schedule November 2026", "Celtics game tonight", "Celtics NBA Cup schedule 2026", "Celtics printable schedule"]
@@ -62,7 +62,7 @@ faq:
   - q: "When is the next Celtics game?"
     a: "Tonight, Mon., Nov. 2, 2026, at Houston, 8:30 p.m. ET (7:30 p.m. CT), according to the NBA's 2026-27 schedule. The Celtics played at Orlando on Sun., Nov. 1."
   - q: "How many Celtics games are in November 2026?"
-    a: "16, according to the NBA's schedule dated Aug. 13, 2026: four at home and 12 on the road. The schedule is subject to change."
+    a: "16, according to the NBA's schedule dated Aug. 13, 2026: four at home and 12 on the road. The Celtics' four home games fall on Nov. 4, 15, 16 and 27, and they have two four-game road runs, Nov. 6 to Nov. 11 and Nov. 18 to Nov. 24."
   - q: "Which Celtics games are NBA Cup games?"
     a: "Three November group games: at Charlotte on Fri., Nov. 6, at Washington on Tue., Nov. 24 and against Atlanta on Fri., Nov. 27. The Oct. 30 home game against Chicago was also a Cup game."
   - q: "Which Celtics games are on national TV in November?"

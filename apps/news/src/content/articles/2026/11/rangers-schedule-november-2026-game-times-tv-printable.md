@@ -4,7 +4,7 @@ seoTitle: "Rangers Schedule November 2026: Times and TV"
 description: "The Rangers play 13 games in November 2026, starting Tue., Nov. 3, at 7 p.m. Eastern Time (ET) against St. Louis, per the National Hockey League (NHL) schedule."
 type: news
 publishedAt: "2026-11-02T10:12:00-05:00"
-updatedAt: "2026-11-05T03:23:00-05:00"
+updatedAt: "2026-11-05T21:25:00-05:00"
 authors: [jessica-hartwell]
 category: sports
 keywords: ["Rangers schedule November 2026", "New York Rangers game tonight", "Rangers TV schedule", "Rangers Canadiens November 16 2026", "Rangers printable schedule"]
@@ -82,7 +82,7 @@ faq:
   - q: "When do the Rangers play on Thanksgiving weekend 2026?"
     a: "The Rangers play at Buffalo on Wed., Nov. 25, and at Chicago on Black Friday, Fri., Nov. 27, at 5:30 p.m. ET. They have no game on Thanksgiving Day, Thu., Nov. 26, 2026."
   - q: "Can the Rangers schedule change?"
-    a: "TV listings can change, so recheck the NHL schedule before game day."
+    a: "Yes, TV listings can change, so look up the channel on NHL.com the day of the game. The Rangers open with three straight home games, then play four straight on the road at Seattle, Edmonton, Calgary and Vancouver from Sat., Nov. 7 to Fri., Nov. 13."
 sources:
   - title: "New York Rangers club schedule, November 2026 (NHL web API)"
     url: "https://api-web.nhle.com/v1/club-schedule/NYR/month/2026-11"

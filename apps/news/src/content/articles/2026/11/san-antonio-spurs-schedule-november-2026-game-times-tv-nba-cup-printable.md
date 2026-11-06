@@ -4,7 +4,7 @@ seoTitle: "Spurs Schedule November 2026: Times, TV, Cup Games"
 description: "The Spurs host Utah on Mon., Nov. 2, 2026, at 7:30 p.m. Central Time (CT), 8:30 p.m. Eastern Time (ET), first of 16 November games."
 type: news
 publishedAt: "2026-11-02T11:20:00-05:00"
-updatedAt: "2026-11-05T03:23:00-05:00"
+updatedAt: "2026-11-05T21:25:00-05:00"
 authors: [jessica-hartwell]
 category: sports
 keywords: ["Spurs schedule November 2026", "Spurs game tonight", "San Antonio Spurs NBA Cup schedule 2026", "Spurs printable schedule"]
@@ -61,7 +61,7 @@ faq:
   - q: "When is the next Spurs game?"
     a: "Mon., Nov. 2, 2026, hosting Utah at 7:30 p.m. CT (8:30 p.m. ET), according to the NBA's 2026-27 schedule. The Spurs hosted Minnesota on Sat., Oct. 31."
   - q: "How many Spurs games are in November 2026?"
-    a: "16, according to the NBA's schedule dated Aug. 13, 2026: eight at home and eight on the road. The schedule is subject to change."
+    a: "16, according to the NBA's schedule dated Aug. 13, 2026: eight at home and eight on the road. The Spurs' longest road trip is four games, from Fri., Nov. 6 at Sacramento to Wed., Nov. 11 at Chicago."
   - q: "Which Spurs games are NBA Cup games?"
     a: "Four group games: at Sacramento on Fri., Nov. 6, against Golden State on Fri., Nov. 13, at Portland on Wed., Nov. 25 and against the LA Lakers on Fri., Nov. 27."
   - q: "Which Spurs games are on national TV in November?"

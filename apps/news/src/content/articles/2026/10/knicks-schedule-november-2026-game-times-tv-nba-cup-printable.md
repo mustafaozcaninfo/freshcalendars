@@ -4,7 +4,7 @@ seoTitle: "Knicks Schedule November 2026: Times, TV, Cup Games"
 description: "The Knicks host Brooklyn on Mon., Nov. 2, 2026, at 7:30 p.m. Eastern Time (ET), the first of 14 November games in the National Basketball Association (NBA)."
 type: news
 publishedAt: "2026-10-31T03:50:00-04:00"
-updatedAt: "2026-11-05T03:23:00-05:00"
+updatedAt: "2026-11-05T21:25:00-05:00"
 authors: [jessica-hartwell]
 category: sports
 keywords: ["Knicks schedule November 2026", "Knicks game tonight", "Knicks NBA Cup schedule 2026", "Knicks printable schedule"]
@@ -60,7 +60,7 @@ faq:
   - q: "When is the next Knicks game?"
     a: "Mon., Nov. 2, 2026, against Brooklyn at Madison Square Garden, 7:30 p.m. ET, according to the NBA's 2026-27 schedule. The Knicks played at Philadelphia on Fri., Oct. 30."
   - q: "How many Knicks games are in November 2026?"
-    a: "14, according to the NBA's schedule dated Aug. 13, 2026: nine at home and five on the road. The schedule is subject to change."
+    a: "14, according to the NBA's schedule dated Aug. 13, 2026: nine at home and five on the road. The Knicks finish the month with five straight home games, from Sat., Nov. 21 to Sun., Nov. 29."
   - q: "Which Knicks games are NBA Cup games?"
     a: "Four group games: at Philadelphia on Fri., Oct. 30, at Indiana on Fri., Nov. 13, against Cleveland on Wed., Nov. 25 and against Miami on Fri., Nov. 27."
   - q: "Which Knicks games are on national TV in November?"

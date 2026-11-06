@@ -4,7 +4,7 @@ seoTitle: "Warriors Schedule November 2026: Times, TV, Cup"
 description: "The Warriors host Phoenix on Mon., Nov. 2, 2026, at 7 p.m. Pacific Time (PT), 10 p.m. Eastern Time (ET), with all 14 November games and times."
 type: explainer
 publishedAt: "2026-10-31T01:40:00-04:00"
-updatedAt: "2026-11-05T03:23:00-05:00"
+updatedAt: "2026-11-05T21:25:00-05:00"
 authors: [jessica-hartwell]
 category: sports
 keywords: ["warriors schedule november 2026", "warriors game tonight", "warriors schedule printable", "warriors nba cup schedule 2026"]
@@ -60,7 +60,7 @@ faq:
   - q: "When do the Warriors play next?"
     a: "On Mon., Nov. 2, 2026, the Warriors host Phoenix at Chase Center at 7 p.m. PT (10 p.m. ET), according to the NBA's official schedule. No national TV is listed."
   - q: "How many Warriors games are in November 2026?"
-    a: "14, according to the NBA's schedule dated Aug. 13, 2026: 8 at home and 6 away, by our count. The schedule is subject to change."
+    a: "14, according to the NBA's schedule dated Aug. 13, 2026: 8 at home and 6 away, by our count. The Warriors play five straight home games from Sun., Nov. 1 to Mon., Nov. 9, then five straight road games from Wed., Nov. 11 to Thu., Nov. 19."
   - q: "Which Warriors games are NBA Cup games?"
     a: "Three in November: at San Antonio on Fri., Nov. 13, against Sacramento on Wed., Nov. 25 and at Portland on Fri., Nov. 27, per the NBA's schedule."
   - q: "Which Warriors games are on national TV?"

@@ -4,7 +4,7 @@ seoTitle: "Penguins Schedule November 2026: Times and TV"
 description: "The Pittsburgh Penguins play 13 games in November 2026, starting Tue., Nov. 3 at 7 p.m. Eastern Time (ET) vs. Vegas, per the National Hockey League schedule."
 type: news
 publishedAt: "2026-11-02T11:22:00-05:00"
-updatedAt: "2026-11-05T03:23:00-05:00"
+updatedAt: "2026-11-05T21:25:00-05:00"
 authors: [jessica-hartwell]
 category: sports
 keywords: ["Pittsburgh Penguins schedule November 2026", "Penguins game tonight", "Penguins TV schedule", "Penguins Maple Leafs November 28 2026", "Penguins printable schedule"]
@@ -82,7 +82,7 @@ faq:
   - q: "When do the Penguins play on Thanksgiving weekend 2026?"
     a: "The Penguins host Calgary on Wed., Nov. 25, and play at Buffalo on Black Friday, Fri., Nov. 27, at 8 p.m. ET. They have no game on Thanksgiving Day, Thu., Nov. 26, 2026."
   - q: "Can the Penguins schedule change?"
-    a: "TV listings can change, so recheck the NHL schedule before game day."
+    a: "Yes, TV listings can change, so match the channel against the NHL's schedule on game day. The Penguins play three straight West Coast road games: at Los Angeles on Sat., Nov. 7, at Anaheim on Sun., Nov. 8 and at San Jose on Wed., Nov. 11."
 sources:
   - title: "Pittsburgh Penguins club schedule, November 2026 (NHL web API)"
     url: "https://api-web.nhle.com/v1/club-schedule/PIT/month/2026-11"

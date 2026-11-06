@@ -4,7 +4,7 @@ seoTitle: "76ers Schedule November 2026: Times, TV, Cup Games"
 description: "The 76ers host Chicago on Mon., Nov. 2, 2026, at 7:30 p.m. Eastern Time (ET), the first of 14 November games in the National Basketball Association (NBA)."
 type: news
 publishedAt: "2026-11-02T10:12:00-05:00"
-updatedAt: "2026-11-05T03:23:00-05:00"
+updatedAt: "2026-11-05T21:25:00-05:00"
 authors: [jessica-hartwell]
 category: sports
 keywords: ["76ers schedule November 2026", "Sixers game tonight", "76ers NBA Cup schedule 2026", "76ers printable schedule"]
@@ -60,7 +60,7 @@ faq:
   - q: "When is the next 76ers game?"
     a: "Mon., Nov. 2, 2026, against Chicago in South Philadelphia, 7:30 p.m. ET, according to the NBA's 2026-27 schedule. The 76ers played at Charlotte on Sat., Oct. 31."
   - q: "How many 76ers games are in November 2026?"
-    a: "14, according to the NBA's schedule dated Aug. 13, 2026: seven at home and seven on the road. The schedule is subject to change."
+    a: "14, according to the NBA's schedule dated Aug. 13, 2026: seven at home and seven on the road. The 76ers play back-to-backs on Sun., Nov. 15 and Mon., Nov. 16 (at home, then at Brooklyn) and on Fri., Nov. 27 and Sat., Nov. 28 (both on the road)."
   - q: "Which 76ers games are NBA Cup games?"
     a: "Four group games: against New York on Fri., Oct. 30, at Cleveland on Fri., Nov. 6, against Miami on Wed., Nov. 25 and at Indiana on Fri., Nov. 27."
   - q: "Which 76ers games are on national TV in November?"

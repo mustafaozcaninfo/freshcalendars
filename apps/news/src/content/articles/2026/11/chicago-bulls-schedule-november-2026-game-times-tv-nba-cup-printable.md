@@ -4,7 +4,7 @@ seoTitle: "Bulls Schedule November 2026: Times, TV, Cup Games"
 description: "The Bulls play at Philadelphia on Mon., Nov. 2, 2026, at 6:30 p.m. Central Time (CT), 7:30 p.m. Eastern Time (ET), first of 13 November games."
 type: news
 publishedAt: "2026-11-02T10:10:00-05:00"
-updatedAt: "2026-11-05T03:23:00-05:00"
+updatedAt: "2026-11-05T21:25:00-05:00"
 authors: [jessica-hartwell]
 category: sports
 keywords: ["Bulls schedule November 2026", "Bulls game tonight", "Chicago Bulls NBA Cup schedule 2026", "Bulls printable schedule"]
@@ -59,7 +59,7 @@ faq:
   - q: "When is the next Bulls game?"
     a: "Mon., Nov. 2, 2026, at Philadelphia, 6:30 p.m. CT (7:30 p.m. ET), according to the NBA's 2026-27 schedule. The Bulls played at Boston on Fri., Oct. 30."
   - q: "How many Bulls games are in November 2026?"
-    a: "13, according to the NBA's schedule dated Aug. 13, 2026: seven at home and six on the road. The schedule is subject to change."
+    a: "13, according to the NBA's schedule dated Aug. 13, 2026: seven at home and six on the road. The Bulls play back-to-backs on Fri., Nov. 13 (home) and Sat., Nov. 14 (at Minnesota), and on Sun., Nov. 22 and Mon., Nov. 23, both at home."
   - q: "Which Bulls games are NBA Cup games?"
     a: "Four group games: at Boston on Fri., Oct. 30, against Atlanta on Fri., Nov. 13, against Washington on Fri., Nov. 20 and at Charlotte on Wed., Nov. 25."
   - q: "Which Bulls games are on national TV in November?"

@@ -4,7 +4,7 @@ seoTitle: "Heat Schedule November 2026: Times, TV, Cup Games"
 description: "The Miami Heat visit the Lakers on Mon., Nov. 2, 2026, at 10 p.m. Eastern Time (ET), first of 13 November games in the National Basketball Association (NBA)."
 type: news
 publishedAt: "2026-11-02T10:12:00-05:00"
-updatedAt: "2026-11-05T03:23:00-05:00"
+updatedAt: "2026-11-05T21:25:00-05:00"
 authors: [jessica-hartwell]
 category: sports
 keywords: ["Heat schedule November 2026", "Miami Heat game tonight", "Heat NBA Cup schedule 2026", "Heat printable schedule"]
@@ -59,7 +59,7 @@ faq:
   - q: "When is the next Miami Heat game?"
     a: "Mon., Nov. 2, 2026, at the Los Angeles Lakers, 10 p.m. ET (7 p.m. PT), according to the NBA's 2026-27 schedule. It is the first of five straight road games out West. The Heat hosted Indiana on Fri., Oct. 30."
   - q: "How many Heat games are in November 2026?"
-    a: "13, according to the NBA's schedule dated Aug. 13, 2026: five at home and eight on the road. The schedule is subject to change."
+    a: "13, according to the NBA's schedule dated Aug. 13, 2026: five at home and eight on the road. The Heat open with five straight road games, from Mon., Nov. 2 to Tue., Nov. 10, then play five straight at home from Fri., Nov. 13 to Sun., Nov. 22."
   - q: "Which Heat games are NBA Cup games?"
     a: "Four group games: against Indiana on Fri., Oct. 30, against Cleveland on Fri., Nov. 13, at Philadelphia on Wed., Nov. 25 and at New York on Fri., Nov. 27."
   - q: "Which Heat games are on national TV in November?"

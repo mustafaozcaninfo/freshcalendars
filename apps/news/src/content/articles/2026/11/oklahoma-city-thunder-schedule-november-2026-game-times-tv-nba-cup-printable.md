@@ -4,7 +4,7 @@ seoTitle: "Thunder Schedule November 2026: Times, TV, Cup Games"
 description: "The Thunder play at Cleveland on Mon., Nov. 2, 2026, at 6 p.m. Central Time (CT), 7 p.m. Eastern Time (ET), first of 15 November games."
 type: news
 publishedAt: "2026-11-02T11:20:00-05:00"
-updatedAt: "2026-11-05T03:23:00-05:00"
+updatedAt: "2026-11-05T21:25:00-05:00"
 authors: [jessica-hartwell]
 category: sports
 keywords: ["Thunder schedule November 2026", "Thunder game tonight", "Oklahoma City Thunder NBA Cup schedule 2026", "Thunder printable schedule"]
@@ -61,7 +61,7 @@ faq:
   - q: "When is the next Thunder game?"
     a: "Mon., Nov. 2, 2026, at Cleveland, 6 p.m. CT (7 p.m. ET), according to the NBA's 2026-27 schedule. The Thunder played at Houston on Sat., Oct. 31."
   - q: "How many Thunder games are in November 2026?"
-    a: "15, according to the NBA's schedule dated Aug. 13, 2026: five at home and 10 on the road. The schedule is subject to change."
+    a: "15, according to the NBA's schedule dated Aug. 13, 2026: five at home and 10 on the road. The Thunder's longest road trip is four games, from Tue., Nov. 10 at Portland to Sun., Nov. 15 at Sacramento."
   - q: "Which Thunder games are NBA Cup games?"
     a: "Four group games: at Memphis on Fri., Nov. 6, at the LA Clippers on Fri., Nov. 13, against New Orleans on Fri., Nov. 20 and against Minnesota on Wed., Nov. 25."
   - q: "Which Thunder games are on national TV in November?"

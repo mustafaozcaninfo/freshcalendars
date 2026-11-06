@@ -4,7 +4,7 @@ seoTitle: "Cavaliers Schedule November 2026: Times, TV, Cup"
 description: "The Cavaliers host Oklahoma City on Mon., Nov. 2, 2026, at 7 p.m. Eastern Time (ET), one of 14 November games in the National Basketball Association (NBA)."
 type: news
 publishedAt: "2026-11-02T11:20:00-05:00"
-updatedAt: "2026-11-05T03:23:00-05:00"
+updatedAt: "2026-11-05T21:25:00-05:00"
 authors: [jessica-hartwell]
 category: sports
 keywords: ["Cavaliers schedule November 2026", "Cavs game tonight", "Cavs NBA Cup schedule 2026", "Cavaliers printable schedule"]
@@ -60,7 +60,7 @@ faq:
   - q: "When is the next Cavaliers game?"
     a: "Tonight, Mon., Nov. 2, 2026, Cleveland hosts Oklahoma City at 7 p.m. ET on Peacock and NBC Sports Network (NBCSN), according to the NBA's 2026-27 schedule. The Cavaliers played at Milwaukee on Sat., Oct. 31."
   - q: "How many Cavaliers games are in November 2026?"
-    a: "14, according to the NBA's schedule dated Aug. 13, 2026: eight at home and six on the road. The schedule is subject to change."
+    a: "14, according to the NBA's schedule dated Aug. 13, 2026: eight at home and six on the road. The Cavaliers' longest homestand is four games, from Sat., Nov. 14 to Fri., Nov. 20."
   - q: "Which Cavaliers games are NBA Cup games?"
     a: "Four group games: Philadelphia on Fri., Nov. 6, at Miami on Fri., Nov. 13, Indiana on Fri., Nov. 20 and at New York on Wed., Nov. 25, per the NBA's schedule."
   - q: "Which Cavaliers games are on national TV in November?"
