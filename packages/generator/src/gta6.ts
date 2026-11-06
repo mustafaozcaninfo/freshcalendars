@@ -13,7 +13,8 @@ const LAUNCH = utc(2026, 10, 19);
 const MARKS: [number, number, string][] = [
   [10, 1, "Clocks fall back 1 hour"],
   [10, 9, "Take-Two results, 4:30 p.m. ET"],
-  [10, 12, "Pre-load opens; boxed copy on sale"],
+  [10, 10, "Pre-load opens (PS5: midnight local)"],
+  [10, 12, "Boxed copy on sale"],
   [10, 19, "LAUNCH: PS5 and Xbox Series X|S"],
   [10, 20, "Pre-order bonus window closes"],
 ];
@@ -56,8 +57,8 @@ function countdown(fonts: string): string {
     <div class="dow"><div>Sun</div><div>Mon</div><div>Tue</div><div>Wed</div><div>Thu</div><div>Fri</div><div>Sat</div></div>
     <div class="grid">${cells.join("")}</div>
     <div class="key"><span class="k1">Thursday (Rockstar's usual news day, not a promise)</span><span class="k2">Confirmed date</span><span class="k3">Launch day</span></div>
-    <div class="plan"><div><b>My platform</b>PlayStation 5 · Xbox Series X|S</div><div><b>Free storage needed</b>Check the store listing before Nov. 12</div><div><b>Day off / plans</b></div></div>
-    <p class="note">Sources: Take-Two Interactive press releases of June 24 and Oct. 13, 2026; Rockstar Games Newswire; PlayStation Blog. Pre-loading for digital pre-orders and the boxed edition (a download code, no disc) start Nov. 12; pre-orders and purchases before Nov. 20 include the Vintage Vice City Pack. Standard Edition $79.99, Ultimate Edition $99.99. Rated M for Mature 17+ by the ESRB. Not affiliated with Rockstar Games.</p>
+    <div class="plan"><div><b>My platform</b>PlayStation 5 · Xbox Series X|S</div><div><b>Free storage needed</b>212GB minimum on PS5 (PlayStation Store)</div><div><b>Day off / plans</b></div></div>
+    <p class="note">Sources: Take-Two Interactive press releases of June 24 and Oct. 13, 2026; Rockstar Games Newswire; PlayStation Store and Blog. Pre-loading for digital pre-orders opens Nov. 10 (Rockstar); the boxed edition (a download code, no disc) goes on sale Nov. 12; pre-orders and purchases before Nov. 20 include the Vintage Vice City Pack. Standard Edition $79.99, Ultimate Edition $99.99. Rated M for Mature 17+ by the ESRB. Not affiliated with Rockstar Games.</p>
     <div class="foot">Free printable from Fresh Calendars · freshcalendars.com/news/gta-6-october-22-2026-what-is-confirmed-release-countdown/</div></section>`;
   return doc(fonts, LETTER, css, [page]);
 }
