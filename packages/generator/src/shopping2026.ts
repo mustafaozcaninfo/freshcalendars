@@ -23,7 +23,7 @@ const XMAS_THEMES: Theme[] = [
 
 /** [store, Black Friday opening, source year]. */
 export const BF_HOURS: [string, string, "2026" | "2025"][] = [
-  ["Home Depot", "6 a.m.", "2026"], ["Lowe's", "6 a.m.", "2025"], ["Walmart", "6 a.m.", "2026"], ["Target", "6 a.m.", "2025"],
+  ["Home Depot", "6 a.m.", "2026"], ["Lowe's", "6 a.m.", "2025"], ["Walmart", "6 a.m.", "2026"], ["Target", "6 a.m.", "2026"],
   ["Best Buy", "6 a.m.-10 p.m.", "2025"], ["Dick's Sporting Goods", "6 a.m.-10 p.m.", "2025"], ["Kohl's", "5 a.m.", "2026"],
   ["JCPenney", "5 a.m.", "2026"], ["Macy's", "6 a.m.-10 p.m.", "2025"], ["Costco", "9 a.m.", "2025"], ["Sam's Club", "Regular hours", "2025"],
 ];
