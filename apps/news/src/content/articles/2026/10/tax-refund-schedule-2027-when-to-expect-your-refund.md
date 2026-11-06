@@ -53,7 +53,7 @@ internalLinks:
     label: "March 2027 printable calendar"
   - href: "/april-calendars.html"
     label: "April 2027 printable calendar"
-related: [when-does-tax-season-start-2027-irs-filing-opening-date, eitc-2026-earned-income-credit-8231-income-limits, child-tax-credit-2026-2200-per-child-refundable-actc]
+related: [when-does-tax-season-start-2027-irs-filing-opening-date, eitc-2026-earned-income-credit-8231-income-limits, car-loan-interest-deduction-2026-10000-who-qualifies]
 downloads:
   - group: "2027 Tax Refund Tracker printables"
     title: "2027 Tax Refund Tracker"
