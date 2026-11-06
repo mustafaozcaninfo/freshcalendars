@@ -55,7 +55,7 @@ internalLinks:
     label: "When is Christmas Day?"
   - href: "/when-is/new-years-eve/"
     label: "When is New Year's Eve?"
-related: [uk-bank-holidays-2027-dates-england-scotland-northern-ireland, uk-trains-christmas-2026-no-trains-december-25-26-paddington-closed, child-benefit-christmas-2026-paid-early-24-december]
+related: [uk-bank-holidays-2027-dates-england-scotland-northern-ireland, uk-school-christmas-holidays-2026-break-up-dates-by-council, uk-trains-christmas-2026-no-trains-december-25-26-paddington-closed]
 downloads:
   - group: "UK Christmas and New Year Leave Planner printables"
     title: "UK Christmas and New Year Leave Planner, 2026 to 2027"

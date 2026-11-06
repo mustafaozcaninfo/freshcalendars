@@ -65,7 +65,7 @@ internalLinks:
     label: "December 2026 printable calendar"
   - href: "/november-calendars.html"
     label: "November 2026 printable calendar"
-related: [international-volunteer-day-2026-december-5, year-end-money-deadlines-december-31-2026, world-aids-day-2026-tuesday-december-1-theme]
+related: [international-volunteer-day-2026-december-5, year-end-money-deadlines-december-31-2026, operation-christmas-child-2026-national-collection-week-drop-off]
 downloads:
   - group: "GivingTuesday 2026 Giving Checklist printables"
     title: "GivingTuesday 2026 Giving Checklist"
