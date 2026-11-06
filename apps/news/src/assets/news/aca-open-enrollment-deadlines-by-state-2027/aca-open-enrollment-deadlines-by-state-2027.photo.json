@@ -19,5 +19,6 @@
   "output": "2400×1350",
   "cropped": false,
   "framed": true,
-  "credit": "Photo: Direct Media / stocksnap, edited"
+  "credit": "Photo: Direct Media / stocksnap, edited",
+  "overlay": true
 }
