@@ -1,12 +1,16 @@
 {
   "v": 3,
   "kit": "watch-guide",
-  "hash": "9365d3a2287acaf9",
+  "hash": "dfe406e231f5e375",
   "files": [
     "/news/downloads/london-christmas-lights-2026/london-christmas-lights-switch-on-2026-watch-guide.pdf",
     "/news/downloads/london-christmas-lights-2026/london-christmas-lights-switch-on-2026-watch-guide-a4.pdf"
   ],
   "computed": [
+    "noon",
+    "11 a.m.",
+    "10 a.m.",
+    "6 p.m.",
     "10:30 a.m.",
     "9:30 a.m.",
     "8:30 a.m.",

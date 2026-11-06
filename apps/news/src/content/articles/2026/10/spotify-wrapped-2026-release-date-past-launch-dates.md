@@ -1,9 +1,10 @@
 ---
 title: "Spotify Wrapped 2026 Release Date: Not Announced Yet, With Every Launch Date Since 2020"
 seoTitle: "Spotify Wrapped 2026 Release Date: Not Announced Yet"
-description: "Spotify has not announced the 2026 Wrapped date. Wrapped went live on a Wednesday from 2021 to 2025, between Nov. 29 and Dec. 4; here are all six launch dates."
+description: "Spotify says Wrapped season is almost here but has not announced the 2026 date. Wrapped went live on a Wednesday from 2021 to 2025; see all six launch dates."
 type: explainer
 publishedAt: "2026-10-25T23:20:00-04:00"
+updatedAt: "2026-11-06T12:02:00-05:00"
 authors: [jessica-hartwell]
 category: entertainment
 keywords: ["when does Spotify Wrapped 2026 come out", "Spotify Wrapped 2026 release date", "Spotify Wrapped date", "Spotify Wrapped past launch dates"]
@@ -18,13 +19,14 @@ hero:
     source: "https://commons.wikimedia.org/wiki/File:Auriculares_movil.jpg"
     author: "kaboompics"
 summary:
-  - "Spotify has not announced the 2026 Wrapped date as of Oct. 26, 2026; its newsroom, Spotify for Artists page and Wrapped help page give no launch day."
+  - "Spotify said on Nov. 5, 2026 that \"Wrapped season is almost here!\" but has not announced the 2026 Wrapped date; its post gives no launch day, listening window or eligibility rules."
   - "Spotify's newsroom shows Wrapped launching on Wed., Dec. 3, 2025, Wed., Dec. 4, 2024, Wed., Nov. 29, 2023, Wed., Nov. 30, 2022, Wed., Dec. 1, 2021 and Tue., Dec. 1, 2020."
   - "Each 2021 to 2025 launch fell on the Wednesday after U.S. Thanksgiving, six days later. Thanksgiving 2026 is Nov. 26, so the same pattern points to Wed., Dec. 2, an estimate and not a Spotify date."
+  - "Spotify's Nov. 5 post tells users to update the app and shows two taste-profile controls that affect Wrapped results."
   - "A free one-page Wrapped watch timeline is below."
 faq:
   - q: "When does Spotify Wrapped 2026 come out?"
-    a: "Spotify has not announced it as of Oct. 26, 2026. Our pattern-based estimate is Wednesday, Dec. 2, 2026, but Spotify could choose any day."
+    a: "Spotify said on Nov. 5, 2026 that Wrapped season is \"almost here,\" but it has not announced the date. Our pattern-based estimate is Wednesday, Dec. 2, 2026, but Spotify could choose any day."
   - q: "What day of the week does Spotify Wrapped come out?"
     a: "Spotify's newsroom shows Wednesday launches in each year from 2021 to 2025 and a Tuesday launch in 2020. The 2026 day is not announced."
   - q: "When did Spotify Wrapped 2025 come out?"
@@ -33,6 +35,8 @@ faq:
     a: "In its 2025 post, Spotify said you need to have streamed at least 30 songs for more than 30 seconds each. The 2026 rules are not yet published."
   - q: "What listening period does Wrapped cover?"
     a: "In 2025, Spotify said Wrapped captures listening from January 1 until mid November. Spotify has not stated the 2026 window."
+  - q: "What did Spotify tell users to do before Wrapped 2026?"
+    a: "In its Nov. 5, 2026 post, Spotify told users to update the Spotify app, exclude tracks or playlists from their taste profile if they do not want them to count, and use a new toggle to decide whether kids and family music streams shape Wrapped."
   - q: "Can artists do anything before Wrapped 2026?"
     a: "Spotify for Artists says all artists can submit a short video message to thank fans until Nov. 6, 2026."
 sources:
@@ -40,6 +44,10 @@ sources:
     url: "https://newsroom.spotify.com/"
     publisher: "Spotify"
     date: "2026-10-26"
+  - title: "Get Ready for Your Spotify Wrapped"
+    url: "https://newsroom.spotify.com/2026-11-05/spotify-wrapped-ready/"
+    publisher: "Spotify"
+    date: "2026-11-05"
   - title: "Submitting Your Artist Messages for 2026 Wrapped"
     url: "https://support.spotify.com/us/artists/article/submitting-your-artist-messages-2026-wrapped/"
     publisher: "Spotify for Artists"
@@ -91,14 +99,6 @@ downloads:
     pdf: "/news/downloads/spotify-wrapped-2026/spotify-wrapped-2026-watch-timeline.pdf"
     png: "/news/downloads/spotify-wrapped-2026/spotify-wrapped-2026-watch-timeline.png"
     pages: 1
-  - group: "Spotify Wrapped Watch Timeline 2026 printables"
-    title: "Spotify Wrapped Watch Timeline 2026 (ink saver)"
-    description: "One-page Spotify Wrapped 2026 watch timeline with the Nov. 6 artist deadline, Thanksgiving, our Dec. 2 estimate and every past launch date. Ink-saver version."
-    preview: ../../../../assets/news/spotify-wrapped-2026/spotify-wrapped-2026-watch-timeline-ink.png
-    alt: "Printable Spotify Wrapped 2026 watch timeline with the artist message deadline, Thanksgiving and past launch dates, ink-saver version"
-    pdf: "/news/downloads/spotify-wrapped-2026/spotify-wrapped-2026-watch-timeline-ink.pdf"
-    png: "/news/downloads/spotify-wrapped-2026/spotify-wrapped-2026-watch-timeline-ink.png"
-    pages: 1
 draft: false
 assets:
   overlay: true
@@ -116,18 +116,18 @@ assets:
       - ["Thu., Nov. 26", "U.S. Thanksgiving; every 2021 to 2025 launch came the Wednesday after"]
       - ["Wed., Dec. 2", "Our estimate only: the matching Wednesday. Spotify has not announced a date"]
       - ["Past launches", "Dec. 3, 2025; Dec. 4, 2024; Nov. 29, 2023; Nov. 30, 2022; Dec. 1, 2021; Dec. 1, 2020"]
-      - ["Before launch", "Update the Spotify app on iOS or Android (Spotify, 2024)"]
+      - ["Before launch", "Update the Spotify app; review taste-profile and kids toggles (Spotify, Nov. 5, 2026)"]
     note: "Source: Spotify newsroom (For the Record) launch posts, 2020 to 2025; Spotify for Artists, Submitting Your Artist Messages for 2026 Wrapped. Dec. 2 is our estimate."
-    inkSaver: true
+    noKit: "Pre-launch date watch with no confirmed release date; neither the watch-guide nor the release-tracker kit fits."
     description: "One-page Spotify Wrapped 2026 watch timeline with the Nov. 6 artist deadline, Thanksgiving, our Dec. 2 estimate and every past launch date."
     alt: "Printable Spotify Wrapped 2026 watch timeline with the artist message deadline, Thanksgiving and past launch dates"
 ---
 
-<p class="callout"><b>Checked Oct. 25, 2026.</b> We will update this page when Spotify announces the date.</p>
+<p class="callout"><b>Checked Nov. 6, 2026.</b> We will update this page when Spotify announces the date.</p>
 
-**Spotify has not announced the 2026 Wrapped date**, and its newsroom, "Spotify - For the Record," had no launch day as of Oct. 26, 2026. The Spotify for Artists page "Submitting Your Artist Messages for 2026 Wrapped" says "Until November 6, all artists can submit a short video message in Spotify for Artists to thank their fans for listening." It gives no launch date either.
+**Spotify has not announced the 2026 Wrapped date.** Its newsroom post "Get Ready for Your Spotify Wrapped," dated Nov. 5, 2026, says "Wrapped season is almost here!" but gives no launch day, listening window or eligibility rules. The Spotify for Artists page "Submitting Your Artist Messages for 2026 Wrapped" says "Until November 6, all artists can submit a short video message in Spotify for Artists to thank their fans for listening." It gives no launch date either.
 
-Spotify's own posts do show when past Wrapped launches landed. This story lists all six, adds how many days each came after U.S. Thanksgiving, and gives a [printable Wrapped watch timeline](#downloads).
+Spotify's earlier posts do show when past Wrapped launches landed. This story lists all six, adds how many days each came after U.S. Thanksgiving, and gives a [printable Wrapped watch timeline](#downloads).
 
 ## When does Spotify Wrapped 2026 come out?
 
@@ -162,11 +162,19 @@ The 2026 rules are not yet published. In 2025, Spotify said Wrapped was "availab
 
 The Spotify Wrapped help page says Wrapped "may not be available to all users." In its 2024 post, Spotify advised keeping the iOS or Android app up to date.
 
+## What Spotify told users to do before Wrapped 2026
+
+Spotify's Nov. 5, 2026 post says: "Here are a few simple ways to get your Spotify ready before the big reveal." It lists three steps:
+
+- Update the Spotify app.
+- Tracks or playlists you exclude from your taste profile won't influence your Wrapped results. "Include in your taste profile" adds them back.
+- A new dedicated toggle lets you decide whether kids and family music streams shape your recommendations and influence Wrapped. With the toggle off, those streams do not count toward your Wrapped top songs or artists.
+
 ## What can you do before Wrapped 2026 launches?
 
 - Mark the dates on the [printable timeline](#downloads) and check Spotify's newsroom for the announcement.
 - Artists have until Nov. 6, 2026 to submit a video message in Spotify for Artists.
-- Update the app, as Spotify advised in 2024.
+- Update the app, as Spotify advised in 2024 and again on Nov. 5, 2026.
 - Plan around the holidays that follow: [Christmas Day](/when-is/christmas-day/) and [New Year's Eve](/when-is/new-years-eve/) both fall after Thanksgiving and the early-December launch dates of past years.
 
 For the wider month, see our [December 2026 important dates](/news/december-2026-important-dates-holidays-days-until/) and [November 2026 important dates](/news/november-2026-important-dates-days-until/). For something to watch while you wait, our list of [Netflix new movies in November 2026](/news/netflix-new-movies-november-2026-release-dates/) has the release dates.

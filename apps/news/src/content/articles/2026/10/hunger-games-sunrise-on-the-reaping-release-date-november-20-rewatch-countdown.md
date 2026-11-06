@@ -4,6 +4,7 @@ seoTitle: "Sunrise on the Reaping Release Date: Nov. 20, 2026"
 description: "Sunrise on the Reaping opens in U.S. theaters Fri., Nov. 20, 2026 and runs about 158 minutes, says the British Board of Film Classification (BBFC)."
 type: news
 publishedAt: "2026-10-29T11:52:00-04:00"
+updatedAt: "2026-11-06T12:02:00-05:00"
 authors: [jessica-hartwell]
 category: entertainment
 keywords: ["sunrise on the reaping release date", "hunger games sunrise on the reaping runtime", "when does sunrise on the reaping come out", "hunger games movies in order"]
@@ -18,6 +19,7 @@ assets:
     title: "Hunger Games Rewatch Countdown, Nov. 15-20, 2026"
     subtitle: "Our suggested plan: one film a night, in release order"
     layout: list
+    noKit: "Our own five-night rewatch plan, not a release tracker or watch guide with a sourced item list"
     rows:
       - ["Sun., Nov. 15", "The Hunger Games (2012)"]
       - ["Mon., Nov. 16", "Catching Fire (2013)"]
@@ -26,7 +28,6 @@ assets:
       - ["Thu., Nov. 19", "The Ballad of Songbirds & Snakes (2023)"]
       - ["Fri., Nov. 20", "Sunrise on the Reaping in theaters (about 158 min, BBFC)"]
     note: "Source: Fathom Entertainment; British Board of Film Classification (BBFC); Scholastic. The nightly order is our suggestion."
-    inkSaver: true
     description: "One-page plan to rewatch five Hunger Games films, one a night from Nov. 15 to 19, before Sunrise on the Reaping opens on Nov. 20, 2026, with a tick box per night."
     alt: "Printable Hunger Games rewatch plan with one film per night from Nov. 15 to 19, 2026 and the Nov. 20 Sunrise on the Reaping opening, each with a tick box"
 downloads:
@@ -37,14 +38,6 @@ downloads:
     alt: "Printable Hunger Games rewatch plan with one film per night from Nov. 15 to 19, 2026 and the Nov. 20 Sunrise on the Reaping opening, each with a tick box"
     pdf: "/news/downloads/hunger-games-2026/hunger-games-rewatch-countdown-2026.pdf"
     png: "/news/downloads/hunger-games-2026/hunger-games-rewatch-countdown-2026.png"
-    pages: 1
-  - group: "Hunger Games Rewatch Countdown printables"
-    title: "Hunger Games Rewatch Countdown, Nov. 15-20, 2026 (ink saver)"
-    description: "One-page plan to rewatch five Hunger Games films, one a night from Nov. 15 to 19, before Sunrise on the Reaping opens on Nov. 20, 2026, with a tick box per night. Ink-saver version."
-    preview: ../../../../assets/news/hunger-games-2026/hunger-games-rewatch-countdown-2026-ink.png
-    alt: "Printable Hunger Games rewatch plan with one film per night from Nov. 15 to 19, 2026 and the Nov. 20 Sunrise on the Reaping opening, each wi, ink-saver version"
-    pdf: "/news/downloads/hunger-games-2026/hunger-games-rewatch-countdown-2026-ink.pdf"
-    png: "/news/downloads/hunger-games-2026/hunger-games-rewatch-countdown-2026-ink.png"
     pages: 1
 hero:
   src: ../../../../assets/news/hunger-games-sunrise-on-the-reaping-release-date-november-20-rewatch-countdown/hunger-games-sunrise-on-the-reaping-release-date-november-20-rewatch-countdown.webp
@@ -82,8 +75,8 @@ sources:
     date: "2026-07-09"
   - title: "The Hunger Games: Sunrise on the Reaping"
     url: "https://www.bbfc.co.uk/release/the-hunger-games-sunrise-on-the-reaping-q29sbgvjdglvbjpwwc0xmdm0mtu1"
-    publisher: "British Board of Film Classification"
-    date: "2026-10-28"
+    publisher: "British Board of Film Classification (BBFC)"
+    date: "2026-11-06"
   - title: "The Hunger Games: Sunrise on the Reaping Unveils First Footage and a Stacked New Cast"
     url: "https://www.motionpictures.org/2026/04/the-hunger-games-sunrise-on-the-reaping-unveils-first-footage-and-a-stacked-new-cast/"
     publisher: "The Credits, Motion Picture Association"
@@ -111,7 +104,7 @@ Nov. 20 is also the day Mockingjay Part 2 opened in the U.S. in 2015, so Sunrise
 
 ## How long is Sunrise on the Reaping?
 
-The BBFC lists an approximate running time of 158 minutes, which is 2 hours 38 minutes. It classified the film on Oct. 28, 2026 and lists the content descriptors "moderate violence, injury detail, threat, upsetting scenes." The BBFC also classified a 3D version.
+The BBFC lists an approximate running time of 158 minutes, which is 2 hours 38 minutes. The BBFC classified the 2D version on Oct. 14, 2026, the IMAX version on Oct. 20 and the 3D version on Oct. 28. It lists the content advice "moderate violence, injury detail, threat, upsetting scenes." The 158-minute figure is the BBFC's UK listing and is marked approximate.
 
 | Detail | Status |
 |---|---|
@@ -155,7 +148,7 @@ Yes, at one film a night. Starting Sunday, Nov. 15 and finishing Thursday, Nov. 
 
 ## Print the Hunger Games rewatch countdown
 
-The printable has the six rows above with a tick box for each, and an ink-saver version is included. To fit the nights around other plans, mark them on a [November 2026 printable calendar](/november-calendars.html) or a [printable weekly calendar](/printable-weekly-calendar.html).
+The printable has the six rows above with a tick box for each. To fit the nights around other plans, mark them on a [November 2026 printable calendar](/november-calendars.html) or a [printable weekly calendar](/printable-weekly-calendar.html).
 
 For other releases this month, see the [Netflix movies for November 2026](/news/netflix-new-movies-november-2026-release-dates/). Another dated plan is the [Pride and Prejudice reading plan](/news/pride-and-prejudice-netflix-release-date-december-3-reading-plan/), and the [Thanksgiving 2026 TV schedule](/news/thanksgiving-2026-tv-schedule-macys-parade-nfl-games/) covers the following week.
 
