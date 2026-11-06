@@ -61,7 +61,7 @@ internalLinks:
     label: "When is Black Friday"
   - href: "/when-is/christmas-eve/"
     label: "When is Christmas Eve"
-related: [advent-calendar-2026-dates-free-printable, disney-pin-advent-calendar-2026-christmas-cookies]
+related: [advent-calendar-2026-dates-free-printable, aldi-advent-calendars-2026-in-stores-date, disney-pin-advent-calendar-2026-christmas-cookies]
 draft: false
 ---
 

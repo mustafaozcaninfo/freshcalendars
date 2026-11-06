@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-06T09:18:08.009Z",
+ "generatedAt": "2026-11-06T16:45:36.096Z",
  "site": "sc-domain:freshcalendars.com",
  "windows": [
   {
@@ -135,7 +135,7 @@
  "gate": [
   {
    "rule": "At least 60% of /news/ URLs published 7 to 21 days ago are indexed",
-   "value": "100% (46 of 46 sampled)",
+   "value": "100% (54 of 54 sampled)",
    "pass": true
   },
   {
@@ -2204,14 +2204,14 @@
   ]
  },
  "indexed": {
-  "checked": 46,
-  "sampled": 76,
-  "indexed": 46,
+  "checked": 54,
+  "sampled": 90,
+  "indexed": 54,
   "notIndexed": [],
   "states": {
-   "Submitted and indexed": 76
+   "Submitted and indexed": 90
   },
-  "unknown": 14
+  "unknown": 0
  },
  "sitemaps": [
   {
@@ -2219,14 +2219,14 @@
    "errors": 0,
    "warnings": 0,
    "lastDownloaded": "2026-11-05T00:48:55.916Z",
-   "submitted": 1157
+   "submitted": 1181
   },
   {
    "path": "https://freshcalendars.com/news/news-sitemap.xml",
    "errors": 0,
    "warnings": 0,
-   "lastDownloaded": "2026-11-04T17:11:05.072Z",
-   "submitted": 149
+   "lastDownloaded": "2026-11-06T13:26:28.239Z",
+   "submitted": 173
   },
   {
    "path": "https://freshcalendars.com/sitemap.xml",
@@ -2259,6 +2259,45 @@
     "impressions": 1617,
     "ctr": 0.62,
     "position": 3.6
+   },
+   "after": null,
+   "daysAfter": 0
+  },
+  {
+   "slug": "clark-county-school-district-calendar-2026-27-breaks",
+   "changedAt": "2026-11-05",
+   "what": "title: \"CCSD Calendar 2026-27: No School Nov. 3, Winter Break Dec. 21 to Jan. 1, Spring Break Mar. 15-19\" → \"CCSD Calendar 2026-27: Thanksgiving Break Nov. 25-27, Winter Break Dec. 21 to Jan. 1\"; seoTitle, description and first sentence",
+   "before": {
+    "clicks": 31,
+    "impressions": 8120,
+    "ctr": 0.38,
+    "position": 6.3
+   },
+   "after": null,
+   "daysAfter": 0
+  },
+  {
+   "slug": "week-numbers-2027-calendar-printable",
+   "changedAt": "2026-11-05",
+   "what": "seoTitle: \"Week Numbers 2027: Calendar With Week Numbers\" → \"Week Numbers 2027: Printable Calendars and Full Week List\"; new description",
+   "before": {
+    "clicks": 23,
+    "impressions": 3057,
+    "ctr": 0.75,
+    "position": 3.9
+   },
+   "after": null,
+   "daysAfter": 0
+  },
+  {
+   "slug": "sunset-times-after-daylight-saving-time-ends-2026",
+   "changedAt": "2026-11-05",
+   "what": "seoTitle: \"Sunset Times After the Clock Change 2026 by City\" → \"Earliest Sunset 2026 by City: When It Gets Dark Now\"; description leads with the Dec. 6-9 earliest sunset",
+   "before": {
+    "clicks": 4,
+    "impressions": 1333,
+    "ctr": 0.3,
+    "position": 9.9
    },
    "after": null,
    "daysAfter": 0
