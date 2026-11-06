@@ -343,4 +343,11 @@ html[data-theme=dark] .kind-pill[data-kind=observance]{background:#243443;color:
 .library-sidebar .lib-count{flex-shrink:0;min-width:26px;padding:1px 7px;border-radius:999px;background:var(--surface-soft);color:var(--muted);font-size:13px;font-weight:700;text-align:center}
 .library-sidebar a[aria-current=page] .lib-count{background:#fff;color:#0a5940}
 html[data-theme=dark] .library-sidebar a[aria-current=page] .lib-count{background:var(--surface-soft);color:var(--ink-strong)}
+/* 404 "Did you mean": up to three pages matched from the missing address (not-found.ts). */
+.nf-suggest{margin:0 auto 32px;padding:18px 20px;border:2px solid var(--focus);border-radius:12px;background:var(--surface-tint);max-width:720px}
+.nf-suggest h2{margin:0 0 10px;font:700 18px/1.3 Sora,"Sora Fallback",sans-serif;color:var(--ink-strong)}
+.nf-suggest ul{list-style:none;margin:0;padding:0;display:grid;gap:8px}
+.nf-suggest li{display:flex;flex-wrap:wrap;align-items:baseline;gap:4px 10px}
+.nf-suggest a{font-weight:700;font-size:17px;color:var(--focus)}
+.nf-suggest span{font-size:14px;color:var(--muted)}
 `;
