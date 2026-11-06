@@ -1,0 +1,8 @@
+[
+  { "date": "2026-11-22", "label": "FCS playoffs: Selection Sunday" },
+  { "date": "2026-11-28", "label": "FCS playoffs: first round" },
+  { "date": "2026-12-05", "label": "FCS playoffs: second round" },
+  { "date": "2026-12-11", "label": "FCS playoffs: quarterfinals begin" },
+  { "date": "2026-12-19", "label": "FCS playoffs: semifinals" },
+  { "date": "2027-01-11", "label": "FCS championship game, Nashville, 7:30 p.m. ET", "weight": 3 }
+]
