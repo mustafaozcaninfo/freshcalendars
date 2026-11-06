@@ -1,0 +1,165 @@
+{
+ "publicationDate": "2026-11-06",
+ "constructors": [
+  "Joel Fagliano"
+ ],
+ "width": 6,
+ "height": 5,
+ "cells": [
+  null,
+  null,
+  "S",
+  "U",
+  "E",
+  "D",
+  null,
+  "F",
+  "O",
+  "R",
+  "C",
+  "E",
+  "C",
+  "A",
+  "R",
+  "B",
+  "O",
+  "N",
+  "A",
+  "R",
+  "E",
+  "A",
+  null,
+  null,
+  "B",
+  "E",
+  "R",
+  "N",
+  null,
+  null
+ ],
+ "clues": [
+  {
+   "direction": "Across",
+   "label": "1",
+   "text": "Took legal action against",
+   "cells": [
+    2,
+    3,
+    4,
+    5
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "5",
+   "text": "An \"F\" in Physics?",
+   "cells": [
+    7,
+    8,
+    9,
+    10,
+    11
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "6",
+   "text": "A \"C\" in Chemistry?",
+   "cells": [
+    12,
+    13,
+    14,
+    15,
+    16,
+    17
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "7",
+   "text": "An \"A\" in Geometry?",
+   "cells": [
+    18,
+    19,
+    20,
+    21
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "8",
+   "text": "\"Feel the ___\" (2010s political slogan)",
+   "cells": [
+    24,
+    25,
+    26,
+    27
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "1",
+   "text": "More achy",
+   "cells": [
+    2,
+    8,
+    14,
+    20,
+    26
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "2",
+   "text": "Rural's opposite",
+   "cells": [
+    3,
+    9,
+    15,
+    21,
+    27
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "3",
+   "text": "Shorthand for things that are green",
+   "cells": [
+    4,
+    10,
+    16
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "4",
+   "text": "Where a bear hibernates in the winter",
+   "cells": [
+    5,
+    11,
+    17
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "5",
+   "text": "Cost of a 6-Down",
+   "cells": [
+    7,
+    13,
+    19,
+    25
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "6",
+   "text": "Traditionally, it's black in London and yellow in New York City",
+   "cells": [
+    12,
+    18,
+    24
+   ]
+  }
+ ]
+}

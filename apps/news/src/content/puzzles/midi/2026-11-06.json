@@ -1,0 +1,325 @@
+{
+ "title": "Maze Runner",
+ "publicationDate": "2026-11-06",
+ "constructors": [
+  "Ian Livengood"
+ ],
+ "width": 9,
+ "height": 9,
+ "cells": [
+  null,
+  null,
+  "C",
+  "H",
+  "I",
+  "L",
+  "I",
+  "S",
+  null,
+  null,
+  "G",
+  "H",
+  "O",
+  "S",
+  "T",
+  "S",
+  null,
+  null,
+  "S",
+  "O",
+  "A",
+  "R",
+  "E",
+  "D",
+  null,
+  null,
+  null,
+  "W",
+  "O",
+  "R",
+  "S",
+  "E",
+  null,
+  null,
+  null,
+  null,
+  "I",
+  "D",
+  "L",
+  "E",
+  null,
+  null,
+  null,
+  null,
+  null,
+  "S",
+  "C",
+  "A",
+  "R",
+  "S",
+  null,
+  null,
+  null,
+  null,
+  "H",
+  "O",
+  "T",
+  "A",
+  "I",
+  "R",
+  null,
+  null,
+  null,
+  null,
+  "P",
+  "A",
+  "C",
+  "M",
+  "A",
+  "N",
+  null,
+  null,
+  null,
+  null,
+  "N",
+  "E",
+  "S",
+  "T",
+  "E",
+  "A",
+  null
+ ],
+ "clues": [
+  {
+   "direction": "Across",
+   "label": "1",
+   "text": "Restaurant chain with a red pepper in its logo",
+   "cells": [
+    2,
+    3,
+    4,
+    5,
+    6,
+    7
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "6",
+   "text": "Maze runners trying to thwart this puzzle's subject",
+   "cells": [
+    10,
+    11,
+    12,
+    13,
+    14,
+    15
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "7",
+   "text": "Flew high",
+   "cells": [
+    18,
+    19,
+    20,
+    21,
+    22,
+    23
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "8",
+   "text": "Not as good",
+   "cells": [
+    27,
+    28,
+    29,
+    30,
+    31
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "9",
+   "text": "Sitting around not doing much",
+   "cells": [
+    36,
+    37,
+    38,
+    39
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "10",
+   "text": "Surgery marks",
+   "cells": [
+    45,
+    46,
+    47,
+    48,
+    49
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "12",
+   "text": "Empty, boastful talk",
+   "cells": [
+    54,
+    55,
+    56,
+    57,
+    58,
+    59
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "14",
+   "text": "Iconic maze runner hinted at in this puzzle",
+   "cells": [
+    64,
+    65,
+    66,
+    67,
+    68,
+    69
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "16",
+   "text": "Snapple rival",
+   "cells": [
+    74,
+    75,
+    76,
+    77,
+    78,
+    79
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "1",
+   "text": "Total fraud",
+   "cells": [
+    2,
+    11,
+    20,
+    29,
+    38,
+    47,
+    56,
+    65,
+    74
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "2",
+   "text": "Jockeys jockey for position in it",
+   "cells": [
+    3,
+    12,
+    21,
+    30,
+    39,
+    48,
+    57,
+    66,
+    75
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "3",
+   "text": "\"Yes, that makes sense\"",
+   "cells": [
+    4,
+    13,
+    22,
+    31
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "4",
+   "text": "British abbreviation similar to \"Inc.\"",
+   "cells": [
+    5,
+    14,
+    23
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "5",
+   "text": "\"What ___ the meaning of all this?!\"",
+   "cells": [
+    6,
+    15
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "6",
+   "text": "One member of a police interrogation team",
+   "cells": [
+    10,
+    19,
+    28,
+    37,
+    46,
+    55,
+    64
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "7",
+   "text": "Nothing-but-net sound",
+   "cells": [
+    18,
+    27,
+    36,
+    45,
+    54
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "11",
+   "text": "Virtual people in a 2000s computer game franchise",
+   "cells": [
+    49,
+    58,
+    67,
+    76
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "13",
+   "text": "Member of order Rodentia",
+   "cells": [
+    59,
+    68,
+    77
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "15",
+   "text": "The Cornhusker State, in a mailing address ",
+   "cells": [
+    69,
+    78
+   ]
+  }
+ ]
+}
