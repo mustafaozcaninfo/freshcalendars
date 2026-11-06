@@ -4,7 +4,7 @@ seoTitle: "Bucks Schedule November 2026: Times, TV, Cup Games"
 description: "The Bucks play at Minnesota on Mon., Nov. 2, 2026, at 7 p.m. Central Time (CT), 8 p.m. Eastern Time (ET), first of 16 November games."
 type: news
 publishedAt: "2026-11-02T11:20:00-05:00"
-updatedAt: "2026-11-05T03:23:00-05:00"
+updatedAt: "2026-11-05T21:25:00-05:00"
 authors: [jessica-hartwell]
 category: sports
 keywords: ["Bucks schedule November 2026", "Bucks game tonight", "Bucks NBA Cup schedule", "Milwaukee Bucks printable schedule"]
@@ -79,7 +79,7 @@ faq:
   - q: "When is the next Bucks game?"
     a: "Mon., Nov. 2, 2026, at Minnesota, 7 p.m. CT (8 p.m. ET), according to the NBA's 2026-27 schedule. The Bucks hosted Cleveland on Sat., Oct. 31."
   - q: "How many Bucks games are in November 2026?"
-    a: "16, according to the NBA's schedule dated Aug. 13, 2026: eight at home and eight on the road. The schedule is subject to change."
+    a: "16, according to the NBA's schedule dated Aug. 13, 2026: eight at home and eight on the road. The Bucks play back-to-backs on Tue., Nov. 10 and Wed., Nov. 11, Wed., Nov. 18 and Thu., Nov. 19, and Fri., Nov. 27 and Sat., Nov. 28."
   - q: "Which Bucks games are NBA Cup games?"
     a: "Four group games: against Toronto on Fri., Nov. 6, at Orlando on Fri., Nov. 13, against Brooklyn on Wed., Nov. 25 and at Detroit on Fri., Nov. 27."
   - q: "Which Bucks games are on national TV in November?"

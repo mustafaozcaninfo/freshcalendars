@@ -4,7 +4,7 @@ seoTitle: "Lakers Schedule November 2026: Times, TV, Cup Games"
 description: "The Lakers host the Heat on Mon., Nov. 2, 2026, at 7 p.m. Pacific Time (PT), 10 p.m. Eastern Time (ET), with no national TV listed, and all 15 November games."
 type: news
 publishedAt: "2026-10-29T01:45:00-04:00"
-updatedAt: "2026-11-05T03:23:00-05:00"
+updatedAt: "2026-11-05T21:25:00-05:00"
 authors: [jessica-hartwell]
 category: sports
 keywords: ["Lakers schedule", "Lakers schedule November 2026", "next Lakers game", "Lakers game tonight", "Lakers NBA Cup 2026"]
@@ -62,7 +62,7 @@ faq:
   - q: "Do the Lakers play tonight?"
     a: "Yes, on Mon., Nov. 2, 2026, against the Miami Heat, 7 p.m. PT (10 p.m. ET), according to the NBA's schedule, which lists no national TV for it. It is not an Emirates NBA Cup game."
   - q: "How many Lakers games are in November 2026?"
-    a: "15, according to the NBA's schedule dated Aug. 13, 2026. It is subject to change."
+    a: "15, according to the NBA's schedule dated Aug. 13, 2026. The Lakers play four straight road games from Sun., Nov. 8 to Sun., Nov. 15, then four straight at home from Tue., Nov. 17 to Mon., Nov. 23."
   - q: "Which Lakers games are NBA Cup games?"
     a: "Four in the NBA's schedule: at the Warriors on Fri., Oct. 30 (played), against Portland on Fri., Nov. 6, against Sacramento on Fri., Nov. 20 and at San Antonio on Fri., Nov. 27."
   - q: "Where are local Lakers broadcasts listed?"

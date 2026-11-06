@@ -4,7 +4,7 @@ seoTitle: "Bruins Schedule November 2026: Times and TV"
 description: "The Bruins play 11 games in November 2026, starting Mon., Nov. 2, at 7 p.m. Eastern Time (ET) against Vegas, per the National Hockey League (NHL) schedule."
 type: news
 publishedAt: "2026-11-02T11:20:00-05:00"
-updatedAt: "2026-11-05T03:23:00-05:00"
+updatedAt: "2026-11-05T21:25:00-05:00"
 authors: [jessica-hartwell]
 category: sports
 keywords: ["Bruins schedule November 2026", "Bruins game tonight", "Bruins TV schedule", "Bruins Maple Leafs November 27 2026", "Bruins printable schedule"]
@@ -80,7 +80,7 @@ faq:
   - q: "When do the Bruins play on Thanksgiving weekend 2026?"
     a: "The Bruins host Winnipeg on Wed., Nov. 25, and host Toronto on Black Friday, Fri., Nov. 27, at 1 p.m. ET. They have no game on Thanksgiving Day, Thu., Nov. 26, 2026."
   - q: "Can the Bruins schedule change?"
-    a: "TV listings can change, so recheck the NHL schedule before game day."
+    a: "Yes, TV listings can change, so look at the NHL's schedule again before puck drop. The Bruins end the month with four straight home games, on Nov. 21, 25, 27 and 29."
 sources:
   - title: "Boston Bruins club schedule, November 2026 (NHL web API)"
     url: "https://api-web.nhle.com/v1/club-schedule/BOS/month/2026-11"

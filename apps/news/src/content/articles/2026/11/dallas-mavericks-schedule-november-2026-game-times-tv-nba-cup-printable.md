@@ -4,7 +4,7 @@ seoTitle: "Mavericks Schedule November 2026: Times, TV, Cup"
 description: "The Mavericks host Sacramento on Mon., Nov. 2, 2026, at 7 p.m. Central Time (CT), 8 p.m. Eastern Time (ET), the first of 14 November games."
 type: news
 publishedAt: "2026-11-02T11:21:00-05:00"
-updatedAt: "2026-11-05T03:23:00-05:00"
+updatedAt: "2026-11-05T21:25:00-05:00"
 authors: [jessica-hartwell]
 category: sports
 keywords: ["Mavericks schedule November 2026", "Mavericks game tonight", "Mavs NBA Cup schedule 2026", "Mavericks printable schedule"]
@@ -60,7 +60,7 @@ faq:
   - q: "When is the next Mavericks game?"
     a: "Mon., Nov. 2, 2026, at home against Sacramento, 7 p.m. CT (8 p.m. ET), according to the NBA's 2026-27 schedule. The Mavericks hosted Houston on Fri., Oct. 30."
   - q: "How many Mavericks games are in November 2026?"
-    a: "14, according to the NBA's schedule dated Aug. 13, 2026: seven at home and seven on the road. The schedule is subject to change."
+    a: "14, according to the NBA's schedule dated Aug. 13, 2026: seven at home and seven on the road. The Mavericks play back-to-backs on Sun., Nov. 8 and Mon., Nov. 9 (both at home), Sat., Nov. 14 and Sun., Nov. 15 (both on the road), and Sat., Nov. 21 and Sun., Nov. 22 (home, then at Utah)."
   - q: "Which Mavericks games are NBA Cup games?"
     a: "Four group games: against Houston on Fri., Oct. 30, against Utah on Fri., Nov. 6, at Denver on Tue., Nov. 24 and at Phoenix on Fri., Nov. 27."
   - q: "Which Mavericks games are on national TV in November?"

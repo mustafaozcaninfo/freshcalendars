@@ -4,7 +4,7 @@ seoTitle: "Maple Leafs Schedule November 2026: Times and TV"
 description: "The Maple Leafs play 13 games in November 2026, starting Tue., Nov. 3, at 7 p.m. Eastern Time (ET) against Utah, per the National Hockey League (NHL) schedule."
 type: news
 publishedAt: "2026-10-31T09:45:00-04:00"
-updatedAt: "2026-11-05T03:23:00-05:00"
+updatedAt: "2026-11-05T21:25:00-05:00"
 authors: [jessica-hartwell]
 category: sports
 keywords: ["Maple Leafs schedule November 2026", "Leafs game tonight", "Maple Leafs TV schedule", "Leafs Canadiens November 7 2026", "Maple Leafs printable schedule"]
@@ -82,7 +82,7 @@ faq:
   - q: "Where can I watch the Maple Leafs in November 2026?"
     a: "In Canada, the NHL schedule lists Sportsnet, Sportsnet+, TSN4 and TVA Sports, depending on the game. The U.S. broadcaster for each game is in the table above."
   - q: "Can the Maple Leafs schedule change?"
-    a: "TV listings can change, so recheck the NHL schedule before game day."
+    a: "Yes, TV listings can change, and NHL.com lists the current channels. The Maple Leafs play back-to-backs on Sat., Nov. 7 and Sun., Nov. 8, both at home, and on Fri., Nov. 27 at Boston and Sat., Nov. 28 at Pittsburgh."
 sources:
   - title: "Toronto Maple Leafs club schedule, November 2026 (NHL web API)"
     url: "https://api-web.nhle.com/v1/club-schedule/TOR/month/2026-11"

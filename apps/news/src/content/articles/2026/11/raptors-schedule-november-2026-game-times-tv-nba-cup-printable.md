@@ -4,7 +4,7 @@ seoTitle: "Raptors Schedule November 2026: Times, TV, Cup Games"
 description: "The Raptors play at the LA Clippers on Mon., Nov. 2, 2026, at 7 p.m. Pacific Time (PT), 10 p.m. Eastern Time (ET), with all 14 November games listed."
 type: news
 publishedAt: "2026-11-01T20:45:00-05:00"
-updatedAt: "2026-11-05T03:23:00-05:00"
+updatedAt: "2026-11-05T21:25:00-05:00"
 authors: [jessica-hartwell]
 category: sports
 keywords: ["Raptors schedule", "Raptors schedule November 2026", "next Raptors game", "Raptors game tonight", "Raptors NBA Cup 2026"]
@@ -63,7 +63,7 @@ faq:
   - q: "When do the Raptors play the Lakers?"
     a: "The schedule lists Sun., Nov. 1, 2026, at the Lakers, 6 p.m. PT (9 p.m. ET)."
   - q: "How many Raptors games are in November 2026?"
-    a: "14, according to the NBA's schedule dated Aug. 13, 2026: 8 at home and 6 on the road, by our count. It is subject to change."
+    a: "14, according to the NBA's schedule dated Aug. 13, 2026: 8 at home and 6 on the road, by our count. Their home games come in two three-game blocks: Nov. 15, 17 and 18, then Nov. 23, 27 and 29."
   - q: "Which Raptors games are NBA Cup games?"
     a: "The Raptors opened Cup group play at home against Orlando on Oct. 30. In November the schedule flags Nov. 6 at Milwaukee, Nov. 20 at Detroit and Nov. 27 against Brooklyn."
   - q: "Which channel shows the Raptors in Canada?"

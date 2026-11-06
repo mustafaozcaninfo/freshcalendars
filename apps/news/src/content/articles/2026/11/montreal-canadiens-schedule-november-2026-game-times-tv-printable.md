@@ -4,7 +4,7 @@ seoTitle: "Canadiens Schedule November 2026: Times and TV"
 description: "The Canadiens play 14 games in November 2026, starting Tue., Nov. 3, at 7 p.m. Eastern Time (ET) against Winnipeg, per the National Hockey League (NHL)."
 type: news
 publishedAt: "2026-11-02T10:12:00-05:00"
-updatedAt: "2026-11-05T03:23:00-05:00"
+updatedAt: "2026-11-05T21:25:00-05:00"
 authors: [jessica-hartwell]
 category: sports
 keywords: ["Canadiens schedule November 2026", "Habs game tonight", "Canadiens TV schedule", "Canadiens Maple Leafs November 7 2026", "Canadiens printable schedule"]
@@ -83,7 +83,7 @@ faq:
   - q: "How can I watch the Canadiens in French?"
     a: "The NHL lists Réseau des sports (RDS) for most Bell Centre games and TVA Sports for national games, both French-language broadcasts in Canada."
   - q: "Can the Canadiens schedule change?"
-    a: "TV listings can change, so recheck the NHL schedule before game day."
+    a: "Yes, TV listings can change, so confirm the channel on NHL.com closer to the game. The Canadiens play three straight road games twice, on Nov. 16, 18 and 19 (at the Rangers, New Jersey and Carolina) and on Nov. 25, 28 and 30 (at Colorado, Vegas and Utah)."
 sources:
   - title: "Montreal Canadiens club schedule, November 2026 (NHL web API)"
     url: "https://api-web.nhle.com/v1/club-schedule/MTL/month/2026-11"
