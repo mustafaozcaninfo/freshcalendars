@@ -4,6 +4,7 @@ seoTitle: "When to Thaw a Thanksgiving Turkey 2026: By Weight"
 description: "Thanksgiving is Thursday, Nov. 26, 2026. Start thawing a 16 to 20 lb turkey in the fridge on Nov. 21 or 22, using U.S. Department of Agriculture (USDA) times."
 type: explainer
 publishedAt: "2026-10-22T01:30:00-04:00"
+updatedAt: "2026-11-06T01:23:00-05:00"
 authors: [christina-gerland]
 category: holidays
 keywords: ["when to thaw turkey for Thanksgiving 2026", "turkey thawing time by weight", "how long to thaw a turkey in the fridge", "thaw turkey cold water method"]
@@ -55,6 +56,9 @@ sources:
     url: "https://www.cdc.gov/food-safety/foods/holiday-turkey.html"
     publisher: "Centers for Disease Control and Prevention (CDC)"
     date: "2024-04-29"
+  - title: "Contact Us | Butterball"
+    url: "https://www.butterball.com/contact-us"
+    publisher: "Butterball"
 downloads:
   - group: "Thanksgiving Turkey Thaw Dates printables"
     title: "Thanksgiving Turkey Thaw Dates, Nov. 26, 2026"
@@ -118,6 +122,23 @@ A small turkey or a turkey breast may fit in a microwave. Follow the manufacture
 ## Never thaw a turkey on the counter
 
 The CDC warns against thawing a turkey on the kitchen counter. If a turkey sits out for more than two hours, its temperature becomes unsafe even when the center is still frozen. Germs can grow rapidly in the "danger zone" between 40°F and 140°F (4°C and 60°C).
+
+## Turkey help lines open on Thanksgiving 2026
+
+Butterball says its Turkey Talk-Line is open Nov. 2 to Dec. 24, 2026, and that hours vary. You can call 1-800-288-8372, text 844-877-3456 or use the live chat with an expert on [Butterball's contact page](https://www.butterball.com/contact-us), which we read on Nov. 6, 2026.
+
+Butterball lists its hours in Central Standard Time (CST). The Eastern Time (ET) column is our arithmetic, one hour later than Central Time (CT).
+
+| Dates in 2026 | Butterball hours (CST) | Eastern Time (ET) |
+|---|---|---|
+| Nov. 2 to 20, weekdays | 8 a.m. to 8 p.m. | 9 a.m. to 9 p.m. |
+| Nov. 21 to 22, Saturday and Sunday | 8 a.m. to 6 p.m. | 9 a.m. to 7 p.m. |
+| Nov. 23 to 25, Monday to Wednesday | 7 a.m. to 9 p.m. | 8 a.m. to 10 p.m. |
+| Nov. 26, Thanksgiving Day | 6 a.m. to 6 p.m. | 7 a.m. to 7 p.m. |
+
+The table on Butterball's page lists no hours for Friday, Nov. 27. The next row starts on Nov. 28.
+
+The USDA runs its own Meat and Poultry Hotline. It has not yet posted 2026 Thanksgiving hours for that hotline on a page we could check, so confirm them with the USDA before you call.
 
 ## Thanksgiving turkey timeline for 2026
 
