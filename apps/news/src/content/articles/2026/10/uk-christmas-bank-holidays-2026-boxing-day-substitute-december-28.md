@@ -138,7 +138,7 @@ From Friday, Dec. 25, to Monday, Dec. 28, a Monday-to-Friday worker gets four da
 
 Taking annual leave on Dec. 29, 30 and 31 joins the two blocks. In England and Wales that gives 10 days off, Dec. 25 to Jan. 3. In Scotland the same three days give 11 days, Dec. 25 to Jan. 4. The same dates apply in Northern Ireland as in England and Wales.
 
-For trains on these days, see our story on [UK trains at Christmas 2026](/news/uk-trains-christmas-2026-no-trains-december-25-26-paddington-closed/).
+For trains on these days, see our story on [UK trains at Christmas 2026](/news/uk-trains-christmas-2026-no-trains-december-25-26-paddington-closed/). With Christmas Day on a Friday, the [Christmas Number 1 2026](/news/christmas-number-one-2026-race-dates-revealed-christmas-day/) is revealed on Dec. 25 itself.
 
 ## Do I get the bank holidays off?
 

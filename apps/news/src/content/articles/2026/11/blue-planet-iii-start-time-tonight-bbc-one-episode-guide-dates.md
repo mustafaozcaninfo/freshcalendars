@@ -55,7 +55,7 @@ internalLinks:
     label: "November 2026 printable calendar"
   - href: "/printable-weekly-calendar.html"
     label: "Printable weekly calendar"
-related: [strictly-come-dancing-2026-halloween-week-saturday-31-october-blackpool-21-november, great-british-bake-off-2026-free-from-week-tuesday-3-november-episode-schedule]
+related: [strictly-come-dancing-2026-halloween-week-saturday-31-october-blackpool-21-november, great-british-bake-off-2026-free-from-week-tuesday-3-november-episode-schedule, the-traitors-2027-start-date-series-5-bbc]
 downloads:
   - group: "Blue Planet III Episode Tracker printables"
     title: "Blue Planet III Episode Tracker, Nov. 2026"

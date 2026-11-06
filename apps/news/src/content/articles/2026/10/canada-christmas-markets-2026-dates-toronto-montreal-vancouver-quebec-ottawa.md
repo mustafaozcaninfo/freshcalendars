@@ -69,7 +69,7 @@ internalLinks:
     label: "November 2026 printable calendar"
   - href: "/december-calendars.html"
     label: "December 2026 printable calendar"
-related: [toronto-santa-claus-parade-2026-sunday-november-22-route-citytv, canada-holiday-light-shows-2026-canyon-lights-zoolights-vandusen, niagara-falls-winter-festival-of-lights-2026-27-fireworks-schedule]
+related: [toronto-santa-claus-parade-2026-sunday-november-22-route-citytv, canada-holiday-light-shows-2026-canyon-lights-zoolights-vandusen, cpkc-holiday-train-2026-schedule-stops-times]
 downloads:
   - group: "Canada Christmas Markets 2026 printables"
     title: "Canada Christmas Markets 2026: Opening and Closing Dates"

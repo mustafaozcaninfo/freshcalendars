@@ -93,7 +93,7 @@ internalLinks:
     label: "November 2026 printable calendar"
   - href: "/printable-weekly-calendar.html"
     label: "Printable weekly calendar"
-related: [wow-forever-launch-time-by-time-zone-november-4, video-game-release-dates-2027-calendar, video-game-release-dates-december-2026]
+related: [fortnite-chapter-7-end-event-december-5-2026-time, video-game-release-dates-2027-calendar, video-game-release-dates-december-2026]
 downloads:
   - group: "Video Game Release Calendar printables"
     title: "Video Game Release Calendar, November 2026"

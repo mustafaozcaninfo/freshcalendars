@@ -88,7 +88,7 @@ internalLinks:
     label: "When is Christmas Day?"
   - href: "/when-is/new-years-eve/"
     label: "When is New Year's Eve?"
-related: [december-2026-important-dates-holidays-days-until, netflix-new-movies-november-2026-release-dates]
+related: [december-2026-important-dates-holidays-days-until, netflix-new-movies-november-2026-release-dates, christmas-number-one-2026-race-dates-revealed-christmas-day]
 downloads:
   - group: "Spotify Wrapped Watch Timeline 2026 printables"
     title: "Spotify Wrapped Watch Timeline 2026"

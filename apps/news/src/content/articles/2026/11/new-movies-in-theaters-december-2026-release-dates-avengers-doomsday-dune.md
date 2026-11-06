@@ -103,7 +103,7 @@ internalLinks:
     label: "December 2026 printable calendar"
   - href: "/when-is/christmas-day/"
     label: "When is Christmas Day?"
-related: [new-movies-in-theaters-november-2026-release-dates-hunger-games-hexed, avengers-doomsday-release-date-december-18-countdown-tickets-runtime, netflix-christmas-movies-2026-release-dates-holiday-watch-list]
+related: [new-movies-in-theaters-november-2026-release-dates-hunger-games-hexed, avengers-doomsday-release-date-december-18-countdown-tickets-runtime, dune-part-three-release-date-december-18-2026-tickets]
 downloads:
   - group: "December 2026 Movie Release Calendar printables"
     title: "December 2026 Movie Release Calendar"
