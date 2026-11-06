@@ -22,8 +22,7 @@ summary:
   - "Spotify said on Nov. 5, 2026 that \"Wrapped season is almost here!\" but has not announced the 2026 Wrapped date; its post gives no launch day, listening window or eligibility rules."
   - "Spotify's newsroom shows Wrapped launching on Wed., Dec. 3, 2025, Wed., Dec. 4, 2024, Wed., Nov. 29, 2023, Wed., Nov. 30, 2022, Wed., Dec. 1, 2021 and Tue., Dec. 1, 2020."
   - "Each 2021 to 2025 launch fell on the Wednesday after U.S. Thanksgiving, six days later. Thanksgiving 2026 is Nov. 26, so the same pattern points to Wed., Dec. 2, an estimate and not a Spotify date."
-  - "Spotify's Nov. 5 post tells users to update the app and shows two taste-profile controls that affect Wrapped results."
-  - "A free one-page Wrapped watch timeline is below."
+  - "Spotify's Nov. 5 post tells users to update the app and shows two taste-profile controls that affect Wrapped results. A free one-page Wrapped watch timeline is below."
 faq:
   - q: "When does Spotify Wrapped 2026 come out?"
     a: "Spotify said on Nov. 5, 2026 that Wrapped season is \"almost here,\" but it has not announced the date. Our pattern-based estimate is Wednesday, Dec. 2, 2026, but Spotify could choose any day."

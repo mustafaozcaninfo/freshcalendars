@@ -22,8 +22,7 @@ hero:
     authorUrl: "https://www.flickr.com/people/64873675@N00"
 summary:
   - "For taxable years beginning in 2026, the maximum child tax credit is $2,200 per qualifying child, and $1,700 of it can be refundable, according to IRS Revenue Procedure 2025-32."
-  - "The refundable part is the additional child tax credit (ACTC), which the IRS bases on earned income of at least $2,500 for 2025 returns."
-  - "The credit starts to phase out when modified adjusted gross income (AGI) tops $400,000 for married couples filing jointly and $200,000 for everyone else, per the IRS 2025 Schedule 8812 instructions."
+  - "The refundable part is the additional child tax credit (ACTC), which the IRS bases on earned income of at least $2,500 for 2025 returns. The credit starts to phase out when modified adjusted gross income (AGI) tops $400,000 for married couples filing jointly and $200,000 for everyone else, per the IRS 2025 Schedule 8812 instructions."
   - "For tax year 2027, the IRS says the maximum credit is $2,300, up $100 from 2026, and the refundable amount is $1,800, also up $100 (IR-2026-133, Nov. 5, 2026)."
   - "The IRS has not announced when the 2027 filing season opens; by law it cannot issue earned income tax credit (EITC) or ACTC refunds before mid-February."
 faq:

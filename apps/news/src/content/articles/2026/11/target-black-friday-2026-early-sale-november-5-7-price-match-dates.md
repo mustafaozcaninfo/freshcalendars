@@ -51,8 +51,7 @@ summary:
   - "Target's Early Black Friday deals run Thursday, Nov. 5, through Saturday, Nov. 7, 2026, according to its Oct. 21 press release."
   - "A new Deal of the Day started Nov. 1 and continues through Dec. 24; Target's Holiday Price Match also runs Nov. 1 to Dec. 24."
   - "Target stores are closed Thursday, Nov. 26, and open at 6 a.m. local time on Friday, Nov. 27, 2026, according to Target's Nov. 5 holiday shopping fact sheet."
-  - "Returns start Dec. 26: electronics and entertainment are due by Jan. 24, 2027, and Apple, Beats and mobile phones by Jan. 8, 2027."
-  - "Target has not announced 2026 Black Friday week dates, Cyber Monday dates or Target Circle 360 early access."
+  - "Returns start Dec. 26: electronics and entertainment are due by Jan. 24, 2027, and Apple, Beats and mobile phones by Jan. 8, 2027. Target has not announced 2026 Black Friday week dates, Cyber Monday dates or Target Circle 360 early access."
 faq:
   - q: "When is Target's Early Black Friday sale in 2026?"
     a: "Thursday, Nov. 5, through Saturday, Nov. 7, 2026, according to Target's Oct. 21 press release. The release adds new limited-time offers every weekend through the holiday season."
