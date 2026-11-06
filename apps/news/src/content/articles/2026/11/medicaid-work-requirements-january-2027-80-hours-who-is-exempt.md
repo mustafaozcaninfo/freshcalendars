@@ -1,7 +1,7 @@
 ---
 title: "Medicaid Work Requirements Start Jan. 1, 2027: The 80-Hour Rule and Who Is Exempt"
 seoTitle: "Medicaid Work Requirements 2027: 80 Hours, Exemptions"
-description: "Medicaid work requirements begin Jan. 1, 2027 for adults 19 to 64 in expansion states, per the Centers for Medicare & Medicaid Services (CMS): 80 hours a month, with exclusions."
+description: "Medicaid work requirements start Jan. 1, 2027 for adults 19 to 64 in expansion states, per the Centers for Medicare & Medicaid Services (CMS): 80 hours monthly."
 type: news
 publishedAt: "2026-11-06T06:10:00-05:00"
 updatedAt: "2026-11-06T06:10:00-05:00"
@@ -27,21 +27,21 @@ summary:
   - "Nebraska (May 1, 2026) and Iowa (Dec. 1, 2026) start earlier, per their own agencies; a state can also ask CMS for a good-faith exemption that ends no later than Dec. 31, 2028."
 faq:
   - q: "When do Medicaid work requirements start?"
-    a: "Jan. 1, 2027, per the Center for Medicaid and CHIP Services (CMCS) bulletin of Dec. 8, 2025, unless a state opts to start sooner. The July 31, 2026 date is when the interim final rule took effect, not the start of the requirement."
+    a: "Jan. 1, 2027, per the CMS bulletin of Dec. 8, 2025, unless a state opts to start sooner. The July 31, 2026 date is when the interim final rule took effect, not the start of the requirement."
   - q: "How many hours a month does Medicaid require?"
     a: "At least 80 hours in a month of work, community service or a work program, or enrollment in education at least half-time, or a combination totaling at least 80 hours. Monthly income of at least the federal minimum wage times 80 hours also counts ($580 at $7.25)."
   - q: "Does the rule apply to children or people on Medicare?"
-    a: "No. It covers adults at least 19 and under 65 who are not pregnant and not entitled to or enrolled in Medicare Part A or Part B, per the CMCS bulletin."
+    a: "No. It covers adults at least 19 and under 65 who are not pregnant and not entitled to or enrolled in Medicare Part A or Part B, per the CMS bulletin."
   - q: "What happens if a person cannot show compliance?"
-    a: "The state sends a notice and the person has 30 calendar days from receipt to demonstrate compliance. If they do not, the state must deny the application or terminate eligibility, per the CMCS bulletin."
+    a: "The state sends a notice and the person has 30 calendar days from receipt to demonstrate compliance. If they do not, the state must deny the application or terminate eligibility, per the CMS bulletin."
   - q: "Do U.S. territories have to follow the requirement?"
-    a: "No. The CMS fact sheet says 43 states and the District of Columbia provide coverage to the affected group, and territories are not included."
+    a: "No. The CMCS bulletin of Dec. 8, 2025 says the requirement does not apply in U.S. territories. The CMS fact sheet counts 43 states and the District of Columbia that cover the affected group."
   - q: "Which states start before 2027?"
     a: "Nebraska and Iowa say so on their own agency pages. Montana and Georgia could not be confirmed from official pages for this story, so check your state's Medicaid agency."
 sources:
-  - title: "CMCS Informational Bulletin: Implementation of the Medicaid community engagement requirement"
+  - title: "CMS Informational Bulletin on the Medicaid community engagement requirement"
     url: "https://www.medicaid.gov/federal-policy-guidance/downloads/cib12082025.pdf"
-    publisher: "Center for Medicaid and CHIP Services, CMS"
+    publisher: "Centers for Medicare & Medicaid Services"
     date: "2025-12-08"
   - title: "Medicaid Program; Community Engagement Requirement for Certain Individuals (interim final rule, CMS-2454-IFC), Federal Register vol. 91, no. 106"
     url: "https://www.govinfo.gov/content/pkg/FR-2026-06-03/html/2026-11094.htm"
@@ -103,12 +103,21 @@ assets:
         - { text: "After a notice, you have 30 calendar days from receipt to show you comply.", src: 1, quote: "30 calendar days from the date such notice is received to demonstrate compliance" }
       unconfirmed:
         - { label: "Your state's own start date and forms", why: "check your state's Medicaid agency; Montana and Georgia dates not confirmed" }
-    note: "Source: Center for Medicaid and CHIP Services bulletin of Dec. 8, 2025; Centers for Medicare & Medicaid Services; Public Law 119-21. Your state sets its own forms."
+    note: "Source: CMS bulletin of Dec. 8, 2025; Centers for Medicare & Medicaid Services; Public Law 119-21. Your state sets its own forms."
     description: "One-page tracker for the 80 hours a month Medicaid work requirements ask from Jan. 1, 2027, with the $580 income line and a checklist of exclusions."
     alt: "Printable Medicaid work requirement tracker for 2027 with twelve monthly boxes and an exclusion checklist"
+downloads:
+  - group: "Medicaid 80-Hour Monthly Tracker and Exemption Checklist 2027 printables"
+    title: "Medicaid 80-Hour Monthly Tracker and Exemption Checklist 2027"
+    description: "One-page tracker for the 80 hours a month Medicaid work requirements ask from Jan. 1, 2027, with the $580 income line and a checklist of exclusions."
+    preview: ../../../../assets/news/medicaid-work-requirements-2027/medicaid-work-requirements-80-hour-tracker-2027.png
+    alt: "Printable Medicaid work requirement tracker for 2027 with twelve monthly boxes and an exclusion checklist"
+    pdf: "/news/downloads/medicaid-work-requirements-2027/medicaid-work-requirements-80-hour-tracker-2027.pdf"
+    png: "/news/downloads/medicaid-work-requirements-2027/medicaid-work-requirements-80-hour-tracker-2027.png"
+    pages: 1
 ---
 
-**Medicaid work requirements begin Jan. 1, 2027, unless a state starts sooner, and ask adults to show at least 80 hours a month of work, community service, a work program or school, according to the Center for Medicaid and CHIP Services (CMCS) bulletin of Dec. 8, 2025.** CMCS is part of the Centers for Medicare & Medicaid Services (CMS), and CHIP is the Children's Health Insurance Program. The requirement comes from Public Law 119-21, signed July 4, 2025 (section 71119). It applies to adults at least 19 and under 65 who are not pregnant and not on Medicare, in the adult expansion group.
+**Medicaid work requirements begin Jan. 1, 2027, unless a state starts sooner, and ask adults to show at least 80 hours a month of work, community service, a work program or school, according to the bulletin of Dec. 8, 2025 from the Center for Medicaid and Children's Health Insurance Program (CHIP) Services (CMCS).** CMCS is part of the Centers for Medicare & Medicaid Services (CMS). The requirement comes from Public Law 119-21, signed July 4, 2025 (section 71119). It applies to adults at least 19 and under 65 who are not pregnant and not on Medicare, in the adult expansion group.
 
 This story gives the one-month tests with their exact thresholds, the exclusions as a checklist, a timeline with weekdays, what states can start earlier or delay, and a printable 2027 tracker. It reports the federal guidance and the rule; it does not predict who will keep or lose coverage.
 
@@ -130,7 +139,7 @@ The income test is the only one that does not count hours. At the current federa
 
 ## Who has to meet the Medicaid work requirement?
 
-The bulletin (page 4) describes people "at least 19 and under 65 years of age, not pregnant, not entitled to or enrolled for benefits under Medicare Part A or Part B," who are in the adult expansion group or in a section 1115 demonstration that covers that group. The rule does not apply in states that have not adopted the adult group and have no such demonstration. The CMS fact sheet of June 1, 2026 says "43 states and the District of Columbia provide coverage to these populations." U.S. territories are not included. People under 19 and Medicare enrollees are outside the rule.
+The bulletin (page 4) describes people "at least 19 and under 65 years of age, not pregnant, not entitled to or enrolled for benefits under Medicare Part A or Part B," who are in the adult expansion group or in a section 1115 demonstration that covers that group. The rule does not apply in states that have not adopted the adult group and have no such demonstration. The CMS fact sheet of June 1, 2026 says "43 states and the District of Columbia provide coverage to these populations." The bulletin leaves out U.S. territories. People under 19 and Medicare enrollees are outside the rule.
 
 ## Who is excluded from Medicaid work requirements?
 
@@ -153,11 +162,11 @@ States may also grant short-term hardship exemptions, according to the bulletin 
 | Date | What happens | Source |
 |---|---|---|
 | Fri., July 31, 2026 | Effective date of the interim final rule; comments closed the same day | [Federal Register, June 3, 2026](https://www.govinfo.gov/content/pkg/FR-2026-06-03/html/2026-11094.htm) |
-| Tue., Dec. 1, 2026 | Iowa: certain Iowa Health and Wellness Plan members must meet monthly requirements | [Iowa HHS](https://hhs.iowa.gov/medicaid/plans-programs/iowa-health-wellness-plan/ihawp-community-engagement-requirements) |
+| Tue., Dec. 1, 2026 | Iowa: certain Iowa Health and Wellness Plan members must meet monthly requirements | [Iowa Health and Human Services](https://hhs.iowa.gov/medicaid/plans-programs/iowa-health-wellness-plan/ihawp-community-engagement-requirements) |
 | Fri., Jan. 1, 2027 | National start, unless a state opts in sooner; six-month renewals begin for renewals initiated on or after this date | [CMCS bulletin](https://www.medicaid.gov/federal-policy-guidance/downloads/cib12082025.pdf) |
 | Sun., Dec. 31, 2028 | Latest day a state's good-faith exemption can run | CMCS bulletin, page 11 |
 
-The July 31, 2026 date is not the start of the requirement. The CMS fact sheet says states "must generally implement this requirement no later than January 1, 2027." A state may ask for a good-faith exemption and must show a good-faith effort; CMS has not posted any approval as of Nov. 6, 2026, as far as the pages used for this story show.
+The July 31, 2026 date is not the start of the requirement. The CMS fact sheet says states "must generally implement this requirement no later than January 1, 2027." A state may ask for a good-faith exemption and must show a good-faith effort; CMS had not posted an approval for any state on its pages as of Nov. 6, 2026.
 
 ## Which states start before 2027?
 
@@ -174,7 +183,7 @@ At application, a person must show compliance "for at least one month immediatel
 
 Separately, Public Law 119-21 section 71107 starts six-month renewals for these adults, for renewals initiated on or after Jan. 1, 2027. That is a different change from the work requirement.
 
-If the state finds a person has not complied, it sends a notice. The person then has "30 calendar days from the date such notice is received to demonstrate compliance." If they do not, the state must "deny the application or terminate eligibility," and the person cannot receive Marketplace premium tax credits (the advance premium tax credit and premium tax credit), per page 9 of the bulletin. For Marketplace dates, see the [ACA open enrollment story](/news/aca-open-enrollment-2027-dates-november-1-january-15/); SNAP households can see allotments in the [2027 SNAP maximum benefit story](/news/snap-maximum-benefit-2027-allotments-income-limits-by-household-size/); Medicare enrollees are outside this rule, and [Medicare open enrollment](/news/medicare-open-enrollment-2026-december-7-90-dollar-rebate/) has its own dates.
+If the state finds a person has not complied, it sends a notice. The person then has "30 calendar days from the date such notice is received to demonstrate compliance." If they do not, the state must "deny the application or terminate eligibility," and the person cannot receive Marketplace premium tax credits (the advance premium tax credit and premium tax credit), per page 9 of the bulletin. For Marketplace dates, see the [Affordable Care Act (ACA) open enrollment story](/news/aca-open-enrollment-2027-dates-november-1-january-15/); SNAP households can see allotments in the [2027 SNAP maximum benefit story](/news/snap-maximum-benefit-2027-allotments-income-limits-by-household-size/); Medicare enrollees are outside this rule, and [Medicare open enrollment](/news/medicare-open-enrollment-2026-december-7-90-dollar-rebate/) has its own dates.
 
 ## Medicaid 80-hour tracker for 2027 to print
 
