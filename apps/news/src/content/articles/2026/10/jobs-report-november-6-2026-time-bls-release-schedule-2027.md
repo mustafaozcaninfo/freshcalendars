@@ -4,7 +4,7 @@ seoTitle: "Jobs Report Nov. 6, 2026: Time and BLS 2027 Dates"
 description: "The Bureau of Labor Statistics (BLS) reported payrolls up 165,000 and 4.1% unemployment for October 2026 on Nov. 6; 2027 Consumer Price Index (CPI) dates too."
 type: news
 publishedAt: "2026-10-29T05:44:00-04:00"
-updatedAt: "2026-11-06T09:50:00-05:00"
+updatedAt: "2026-11-06T09:27:00-05:00"
 authors: [aaron-kessler]
 category: money-benefits
 keywords: ["jobs report november 2026", "when is the next jobs report", "october jobs report 2026 release date", "bls release schedule 2027", "cpi release date november 2026"]
@@ -21,7 +21,6 @@ hero:
 summary:
   - "The Bureau of Labor Statistics (BLS) released the October 2026 Employment Situation at 8:30 a.m. Eastern Time (ET) on Friday, Nov. 6, 2026: payroll employment rose by 165,000 and the unemployment rate was 4.1 percent."
   - "The BLS revised August up to +186,000 and September up to +60,000; average hourly earnings rose 14 cents to $38.00."
-  - "The Nov. 6 report came three days after Election Day (Tuesday, Nov. 3), the day the Job Openings and Labor Turnover Survey (JOLTS) is released at 10:00 a.m. ET."
   - "The Consumer Price Index (CPI) for October 2026 follows on Tuesday, Nov. 10, and the November jobs report on Friday, Dec. 4, 2026."
   - "The BLS has published 2027 dates: the first jobs report is Friday, Jan. 8, 2027, and the November 2027 report is Nov. 5."
 faq:
