@@ -4,7 +4,7 @@ seoTitle: "EITC 2026: Up to $8,231 and Income Limits"
 description: "The Earned Income Tax Credit (EITC) reaches $8,231 for tax year 2026, says the Internal Revenue Service (IRS). See income limits and the change from 2025."
 type: news
 publishedAt: "2026-11-04T08:41:00-05:00"
-updatedAt: "2026-11-04T08:41:00-05:00"
+updatedAt: "2026-11-06T17:19:00-05:00"
 authors: [aaron-kessler]
 category: money-benefits
 keywords: ["eitc 2026", "earned income credit 2027 refund", "eitc income limits 2026", "eitc maximum 2026"]
@@ -22,7 +22,7 @@ hero:
     authorUrl: "https://en.wikipedia.org/wiki/en:Carol_M._Highsmith"
 summary:
   - "For tax year 2026, the maximum Earned Income Tax Credit (EITC) is $8,231 for taxpayers with three or more qualifying children, up from $8,046 for tax year 2025, the Internal Revenue Service (IRS) said on Oct. 9, 2025."
-  - "The $8,231 is a tax year 2026 amount claimed on returns filed in 2027; the IRS has not announced a separate 2027 amount."
+  - "The $8,231 is a tax year 2026 amount claimed on returns filed in 2027; the IRS released the separate tax year 2027 amounts on Nov. 5, 2026, with a top credit of $8,496, for returns filed in 2028."
   - "For 2026 the credit ends at $62,974 for most filers with three or more children and at $70,244 for married couples filing jointly."
   - "By law the IRS must wait until mid-February to issue refunds to taxpayers who claim the EITC; it has not announced when the 2027 filing season opens."
 faq:
@@ -37,6 +37,14 @@ faq:
   - q: "When will EITC refunds arrive in 2027?"
     a: "The IRS has not announced a 2027 date. It says, \"By law, we must wait until mid-February to issue refunds to taxpayers who claim the Earned Income Tax Credit.\""
 sources:
+  - title: "IRS releases tax inflation adjustments for tax year 2027; taxpayers continue to benefit from the Working Families Tax Cuts (IR-2026-133)"
+    url: "https://www.irs.gov/newsroom/irs-releases-tax-inflation-adjustments-for-tax-year-2027-taxpayers-continue-to-benefit-from-the-working-families-tax-cuts"
+    publisher: "Internal Revenue Service"
+    date: "2026-11-05"
+  - title: "Revenue Procedure 2026-35"
+    url: "https://www.irs.gov/pub/irs-drop/rp-26-35.pdf"
+    publisher: "Internal Revenue Service"
+    date: "2026-11-05"
   - title: "Revenue Procedure 2025-32"
     url: "https://www.irs.gov/pub/irs-drop/rp-25-32.pdf"
     publisher: "Internal Revenue Service"
@@ -100,7 +108,7 @@ assets:
 
 ## Is the $8,231 EITC a 2026 or a 2027 credit?
 
-It is a tax year 2026 amount. You earn it on 2026 income and claim it on the return you file in 2027, which is why searches for the "2027 refund" lead to the same numbers. The IRS has not published a separate 2027 amount, and none of the figures below should be read as 2027 limits.
+It is a tax year 2026 amount. You earn it on 2026 income and claim it on the return you file in 2027, which is why searches for the "2027 refund" lead to the same numbers. The IRS published the separate tax year 2027 amounts on Nov. 5, 2026 (see the 2027 table below), which apply to returns filed in 2028. The 2026 figures in the main tables are not 2027 limits.
 
 ## What are the EITC amounts and income limits for 2026?
 
@@ -135,6 +143,21 @@ Revenue Procedure 2024-40 gave the 2025 figures. We subtracted them from the 202
 | Phaseout ends, all other statuses, 2025 | $19,104 | $50,434 | $57,310 | $61,555 |
 | Phaseout ends, all other statuses, 2026 | $19,540 | $51,593 | $58,629 | $62,974 |
 | Change | +$436 | +$1,159 | +$1,319 | +$1,419 |
+
+## What is the EITC for tax year 2027, filed in 2028?
+
+In release IR-2026-133 on Nov. 5, 2026, the IRS said: "The tax year 2027 maximum Earned Income Tax Credit (EITC) amount is $8,496 for qualifying taxpayers who have three or more qualifying children, up from $8,231 for tax year 2026." It added that the tax year 2027 adjustments "generally apply to tax returns filed in 2028." Revenue Procedure 2026-35, section 3.06, has the full table. Do not use these figures on the return you file in 2027.
+
+| Qualifying children | None | One | Two | Three or more |
+|---|---|---|---|---|
+| Earned income amount | $8,960 | $13,450 | $18,880 | $18,880 |
+| Maximum credit | $685 | $4,573 | $7,552 | $8,496 |
+| Phaseout begins, married filing jointly | $18,730 | $32,170 | $32,170 | $32,170 |
+| Phaseout ends, married filing jointly | $27,684 | $60,787 | $68,029 | $72,512 |
+| Phaseout begins, all other filers | $11,210 | $24,660 | $24,660 | $24,660 |
+| Phaseout ends, all other filers | $20,164 | $53,277 | $60,519 | $65,002 |
+
+For tax year 2027 the credit is not allowed if investment income "exceeds $12,600" (2026: $12,200).
 
 ## Who can claim the EITC?
 
