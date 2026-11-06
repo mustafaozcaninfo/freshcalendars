@@ -85,7 +85,7 @@ internalLinks:
     label: "November 2026 printable calendar"
   - href: "/printable-weekly-calendar.html"
     label: "Printable weekly calendar"
-related: [veterans-day-2026-wednesday-november-11, thanksgiving-2026-planner-countdown-checklist]
+related: [veterans-day-2026-wednesday-november-11, thanksgiving-2026-planner-countdown-checklist, international-mens-day-2026-november-19-theme]
 downloads:
   - group: "Movember 2026 Tracker printables"
     title: "Movember 2026 Tracker: Nov. 1 to 30"
