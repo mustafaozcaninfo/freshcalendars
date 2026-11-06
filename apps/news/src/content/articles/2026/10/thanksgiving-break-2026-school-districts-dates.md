@@ -307,7 +307,7 @@ internalLinks:
     label: "Printable school-year calendar 2026-27"
   - href: "/when-is/thanksgiving/"
     label: "When is Thanksgiving?"
-related: [winter-break-2026-school-districts-dates, why-thanksgiving-2026-is-november-26, orange-county-public-schools-calendar-2026-27-breaks-holidays]
+related: [winter-break-2026-school-districts-dates, why-thanksgiving-2026-is-november-26, american-education-week-2026-november-16-20-daily-themes]
 downloads:
   - group: "Thanksgiving Break 2026 by School District printables"
     title: "Thanksgiving Break 2026 by School District"

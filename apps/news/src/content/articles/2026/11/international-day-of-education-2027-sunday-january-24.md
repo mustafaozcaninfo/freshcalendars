@@ -96,7 +96,7 @@ internalLinks:
     label: "January 2027 printable calendar"
   - href: "/printable-weekly-calendar.html"
     label: "printable weekly calendar"
-related: [world-braille-day-2027-monday-january-4, international-holocaust-remembrance-day-2027-wednesday-january-27, national-family-literacy-day-2026-november-1-family-reading-plan]
+related: [world-braille-day-2027-monday-january-4, international-holocaust-remembrance-day-2027-wednesday-january-27, world-science-day-2026-november-10-science-diplomacy-theme]
 faq:
   - q: "What date is International Day of Education?"
     a: "Jan. 24. The United Nations General Assembly proclaimed that date, per the UN and UNESCO. In 2027 it is a Sunday."
