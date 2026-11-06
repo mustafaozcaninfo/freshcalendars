@@ -1,0 +1,7 @@
+[
+  { "date": "2026-11-13", "label": "Disneyland Resort and Walt Disney World holiday seasons begin", "weight": 5 },
+  { "date": "2026-11-14", "label": "Universal Orlando holidays begin" },
+  { "date": "2026-11-27", "label": "EPCOT International Festival of the Holidays begins", "weight": 10 },
+  { "date": "2026-12-30", "label": "EPCOT International Festival of the Holidays ends" },
+  { "date": "2027-01-03", "label": "Universal Orlando holidays end" }
+]
