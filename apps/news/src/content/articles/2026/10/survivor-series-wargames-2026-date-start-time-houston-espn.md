@@ -64,7 +64,7 @@ internalLinks:
     label: "November 2026 printable calendar"
   - href: "/december-calendars.html"
     label: "December 2026 printable calendar"
-related: [ufc-fight-night-moicano-vs-nolan-halloween-start-time-how-to-watch, thanksgiving-football-schedule-2026-nfl-college-games, sports-on-tv-today-november-1-2026]
+related: [wwe-events-december-2026-dates-start-times, thanksgiving-football-schedule-2026-nfl-college-games, sports-on-tv-today-november-1-2026]
 assets:
   overlay: true
   kicker: "Survivor Series · Sat., Nov. 28, 2026"

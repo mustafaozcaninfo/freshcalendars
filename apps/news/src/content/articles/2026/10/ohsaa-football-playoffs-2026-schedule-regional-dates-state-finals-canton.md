@@ -62,7 +62,7 @@ internalLinks:
     label: "November 2026 printable calendar"
   - href: "/december-calendars.html"
     label: "December 2026 printable calendar"
-related: [ihsaa-football-tournament-2026-schedule-sectionals-regionals-state-finals, thanksgiving-football-schedule-2026-nfl-college-games, college-football-week-10-schedule-2026-halloween-top-25-game-times-tv]
+related: [ihsaa-football-tournament-2026-schedule-sectionals-regionals-state-finals, thanksgiving-football-schedule-2026-nfl-college-games, high-school-football-state-championships-2026-dates-by-state]
 assets:
   overlay: true
   scene: sports
