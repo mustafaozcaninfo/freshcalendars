@@ -4,7 +4,7 @@ seoTitle: "Thanksgiving Trash Pickup 2026: Schedules by City"
 description: "Phoenix, Houston, San Diego, Philadelphia and Charlotte skip trash pickup on Thu., Nov. 26, 2026; the city-by-city table shows where each makeup day goes."
 type: explainer
 publishedAt: "2026-11-03T18:38:00-05:00"
-updatedAt: "2026-11-03T18:38:00-05:00"
+updatedAt: "2026-11-06T00:39:00-05:00"
 authors: [christina-gerland]
 category: planning
 keywords: ["thanksgiving trash pickup 2026", "is trash picked up on thanksgiving", "thanksgiving garbage pickup schedule 2026", "trash pickup day after thanksgiving"]
@@ -23,7 +23,7 @@ summary:
   - "Phoenix, Houston, San Diego, Philadelphia and Charlotte do not collect trash on Thursday, Nov. 26, 2026, according to their city pages; Philadelphia also skips Friday, Nov. 27."
   - "Where the makeup goes differs: Phoenix and Houston collect Thursday's route on Friday, Nov. 27; Jacksonville and Oklahoma City move Thursday's route to Saturday, Nov. 28."
   - "San Francisco's hauler Recology says drivers will service as normal on Thanksgiving, and Denver collects trash and recycling only Monday to Wednesday that week."
-  - "Los Angeles, Chicago, Dallas, San Antonio, Fort Worth, San Jose and Indianapolis had no 2026 schedule on the city's page when we checked on Nov. 3, 2026."
+  - "Los Angeles, Chicago, Dallas, San Antonio, San Jose and Indianapolis had no 2026 schedule on the city's page when we checked on Nov. 3, 2026. Fort Worth's 2026 holiday PDF, read Nov. 6, 2026, moves Thursday collection to Friday and Friday collection to Saturday."
 faq:
   - q: "Is trash picked up on Thanksgiving 2026?"
     a: "In Phoenix, Houston, San Diego, Philadelphia and Charlotte it is not: each city's page says there is no collection on Thursday, Nov. 26, 2026. San Francisco's hauler Recology says drivers will service as normal."
@@ -95,6 +95,10 @@ sources:
     url: "https://www.nyc.gov/site/dsny/news/25-036/no-trash-curbside-composting-recycling-collection-thanksgiving-day-thursday-november-27-"
     publisher: "New York City Department of Sanitation"
     date: "2025-11-20"
+  - title: "2026 Holiday Schedule for Garbage & Recycling Collection"
+    url: "https://www.fortworthtexas.gov/files/assets/public/v/3/environmental-services/solid-waste/documents/envd-solid-waste-holiday-schedule-2026-ada.pdf"
+    publisher: "City of Fort Worth"
+    date: "2026-11-06"
 internalLinks:
   - href: "/november-calendars.html"
     label: "November 2026 printable calendar"
@@ -113,7 +117,7 @@ assets:
     group: thanksgiving-trash-2026
     title: "Thanksgiving 2026 Trash Pickup Planner, Nov. 26"
     subtitle: "Which cities skip pickup and where the makeup goes"
-    note: "Source: city solid waste pages for Phoenix, Jacksonville, Houston, San Diego, Philadelphia (Philly311), Charlotte, Denver and Oklahoma City, and Recology San Francisco, read Nov. 3, 2026."
+    note: "Source: city solid waste pages for Phoenix, Jacksonville, Houston, San Diego, Philadelphia (Philly311), Charlotte, Denver and Oklahoma City, Fort Worth (read Nov. 6, 2026) and Recology San Francisco, read Nov. 3, 2026."
     description: "A one-page planner for Thanksgiving 2026 trash pickup: which cities skip Nov. 26, where the makeup day goes, and what is not yet posted."
     alt: "Printable Thanksgiving 2026 trash pickup planner with city status, makeup days and reminders."
     data:
@@ -132,23 +136,24 @@ assets:
         - { name: "Denver", status: limited, detail: "Trash and recycling Monday to Wednesday only", src: 8, quote: "Set out cart by 6 a.m. Wednesday, November 25." }
         - { name: "Oklahoma City", status: closed, detail: "Thursday's route moves to Saturday", src: 9, quote: "Thursday, November 26" }
         - { name: "San Francisco", status: open, detail: "Recology drivers service as normal", src: 7, quote: "Thanksgiving Thursday, November 26: Drivers will service as normal" }
+        - { name: "Fort Worth", status: closed, detail: "Thursday's route moves to Friday", src: 14, quote: "Thursday collection moves to Friday" }
       tasks:
         - { daysBefore: 7, task: "Find your route on your city's holiday schedule page" }
         - { daysBefore: 3, task: "Write your new pickup day on the calendar" }
         - { daysBefore: 1, task: "Check that carts are out for the day your city set" }
       unconfirmed:
         - { label: "Los Angeles, Chicago, Dallas, San Antonio", why: "2026 schedule not yet posted on the city's page" }
-        - { label: "Fort Worth, San Jose, Indianapolis", why: "2026 schedule not yet posted on the city's page" }
+        - { label: "San Jose, Indianapolis", why: "2026 schedule not yet posted on the city's page" }
         - { label: "New York City, Seattle, Columbus, Austin", why: "No 2026 Thanksgiving notice or dates yet" }
 ---
 
 **Phoenix, Houston, San Diego, Philadelphia and Charlotte do not collect trash on Thursday, Nov. 26, 2026**, according to each city's own page, and their Thursday routes move to Friday or Saturday, as the table below shows city by city.
 
-The pattern breaks in places. Jacksonville and Oklahoma City send Thursday's route to Saturday, Nov. 28, Philadelphia has no collection on Friday either, and San Francisco's hauler says drivers will service as normal. We read the pages of 20 large U.S. cities on Nov. 3, 2026; 11 have a 2026 answer or a holiday rule, and nine had no 2026 Thanksgiving schedule posted.
+The pattern breaks in places. Jacksonville and Oklahoma City send Thursday's route to Saturday, Nov. 28, Philadelphia has no collection on Friday either, and San Francisco's hauler says drivers will service as normal. We read the pages of 20 large U.S. cities on Nov. 3, 2026; 12 have a 2026 answer or a holiday rule, and eight had no 2026 Thanksgiving schedule posted.
 
 ## Trash pickup on Thanksgiving 2026, city by city
 
-Quotes in the table are the cities' own words. "Not yet posted" means we found no 2026 Thanksgiving schedule on the city's page on Nov. 3, 2026.
+Quotes in the table are the cities' own words. "Not yet posted" means we found no 2026 Thanksgiving schedule on the city's page on Nov. 3, 2026. Fort Worth's row comes from its 2026 holiday PDF, read Nov. 6, 2026.
 
 | City | Thanksgiving Day (Nov. 26) | Day after (Nov. 27) | Where the makeup pickup goes | Source |
 |---|---|---|---|---|
@@ -166,7 +171,8 @@ Quotes in the table are the cities' own words. "Not yet posted" means we found n
 | Seattle | 2026 schedule not yet posted (2025 rule below) | 2026 schedule not yet posted | 2026 schedule not yet posted | [Seattle Public Utilities](https://atyourservice.seattle.gov/2025/11/21/2025-winter-holiday-waste-collection-schedule/) |
 | New York City | 2026 schedule not yet posted (2025 notice below) | 2026 schedule not yet posted | 2026 schedule not yet posted | [NYC Department of Sanitation](https://www.nyc.gov/site/dsny/news/25-036/no-trash-curbside-composting-recycling-collection-thanksgiving-day-thursday-november-27-) |
 | Los Angeles | 2026 schedule not yet posted on the city's page | 2026 schedule not yet posted on the city's page | 2026 schedule not yet posted on the city's page | [LA Sanitation](https://sanitation.lacity.gov/) |
-| Chicago, Dallas, San Antonio, Fort Worth, San Jose, Indianapolis | 2026 schedule not yet posted on the city's page | 2026 schedule not yet posted on the city's page | 2026 schedule not yet posted on the city's page | None |
+| Fort Worth | "Thursday collection moves to Friday" | "Friday collection moves to Saturday" | Friday collection on Saturday, Nov. 28 | [City of Fort Worth](https://www.fortworthtexas.gov/files/assets/public/v/3/environmental-services/solid-waste/documents/envd-solid-waste-holiday-schedule-2026-ada.pdf) |
+| Chicago, Dallas, San Antonio, San Jose, Indianapolis | 2026 schedule not yet posted on the city's page | 2026 schedule not yet posted on the city's page | 2026 schedule not yet posted on the city's page | None |
 
 Print the [Thanksgiving 2026 trash pickup planner](#downloads) to keep the confirmed cities and the reminders on one page, and mark your day on the [November 2026 printable calendar](/november-calendars.html).
 
@@ -201,7 +207,7 @@ Neither city had posted its 2026 Thanksgiving schedule when we checked. These ar
 
 ## Which cities have no 2026 Thanksgiving schedule yet?
 
-Los Angeles, Chicago, Dallas, San Antonio, Fort Worth, San Jose and Indianapolis had no 2026 schedule on the city's page when we checked on Nov. 3, 2026. We will not guess their rules; check the city's solid waste page, such as [LA Sanitation](https://sanitation.lacity.gov/), as the holiday gets closer.
+Los Angeles, Chicago, Dallas, San Antonio, San Jose and Indianapolis had no 2026 schedule on the city's page when we checked on Nov. 3, 2026. Fort Worth has one: its 2026 holiday schedule PDF, read Nov. 6, 2026, says Thanksgiving Thursday collection moves to Friday and Friday collection moves to Saturday. We will not guess their rules; check the city's solid waste page, such as [LA Sanitation](https://sanitation.lacity.gov/), as the holiday gets closer.
 
 ## Where else does Thanksgiving week change?
 

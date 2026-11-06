@@ -1,10 +1,10 @@
 ---
-title: "Thanksgiving 2026 Is Thursday, Nov. 26: Why the Date Moves, Dates Through 2035 and the 4-Day Weekend"
-seoTitle: "Thanksgiving 2026: Thursday, Nov. 26 (Dates to 2035)"
-description: "Thanksgiving 2026 is Thursday, Nov. 26, the fourth Thursday of November under a 1941 law. See Thanksgiving dates through 2035 and who gets Friday off."
+title: "Thanksgiving 2026 Is Thursday, Nov. 26: Why the Date Moves, Dates to 2035, Game and Parade Times"
+seoTitle: "Thanksgiving 2026: Thursday, Nov. 26 (Games, Parade)"
+description: "Thanksgiving 2026 is Thursday, Nov. 26, the fourth Thursday of November. See dates through 2035, football and Macy's parade times, and who gets Friday off."
 type: explainer
 publishedAt: "2026-10-17T16:30:00-04:00"
-updatedAt: "2026-11-03T08:20:00-05:00"
+updatedAt: "2026-11-06T02:18:00-05:00"
 authors: [christina-gerland]
 category: holidays
 keywords: ["thanksgiving 2026", "what day is thanksgiving 2026", "thanksgiving dates 2026 to 2035", "why is thanksgiving on the 26th this year", "is the day after thanksgiving a holiday"]
@@ -50,7 +50,7 @@ hero:
 summary:
   - "Thanksgiving Day 2026 is Thursday, Nov. 26, the fourth Thursday of November; Black Friday follows on Friday, Nov. 27."
   - "A 1941 federal law fixed the holiday on the fourth Thursday, so it always falls between Nov. 22 and Nov. 28; the next Nov. 26 Thanksgivings are 2037, 2043 and 2048."
-  - "Thanksgiving dates run through 2035 in a table and a printable, with Black Friday and Canadian Thanksgiving listed by year."
+  - "Football fills the week: a Wednesday night game and three games on Thursday, plus a Friday afternoon game, with the 100th Macy's parade at 8:30 a.m. in every time zone. Thanksgiving dates run through 2035 in a table and a printable."
   - "Friday, Nov. 27 is not a federal holiday, but the four-day weekend runs Thursday through Sunday and the New York Stock Exchange (NYSE) closes early at 1:00 p.m. Eastern Time (ET)."
 faq:
   - q: "Is Thanksgiving always on the 26th?"
@@ -114,6 +114,9 @@ sources:
   - title: "Macy's Kicks Off the 100-Day Countdown to the 100th Macy's Thanksgiving Day Parade"
     url: "https://www.macysinc.com/newsroom/news/news-details/2026/Macys-Kicks-Off-the-100-Day-Countdown-to-the-100th-Macys-Thanksgiving-Day-Parade/default.aspx"
     publisher: "Macy's, Inc."
+  - title: "2026 NFL schedule release: Packers-Rams, Chiefs-Bills, Broncos-Steelers highlight Thanksgiving Week"
+    url: "https://www.nfl.com/news/thanksgiving-2026-nfl-schedule-release"
+    publisher: "NFL.com"
   - title: "2026 NFL schedule release: Lions to host Bears to kick off Thanksgiving Day slate"
     url: "https://www.nfl.com/news/2026-nfl-schedule-release-lions-to-host-bears-to-kick-off-thanksgiving-day-slate"
     publisher: "NFL.com"
@@ -257,7 +260,7 @@ Congress settled the question in 1941 with House Joint Resolution 41. The Nation
 
 ## Is the day after Thanksgiving a holiday? The 4-day weekend
 
-For federal employees, no. The Office of Personnel Management lists Thursday, Nov. 26 as the federal holiday, and Friday, Nov. 27 is not one. As of Nov. 3, 2026, no executive order giving federal workers that Friday off had been announced.
+For federal employees, no. The Office of Personnel Management lists Thursday, Nov. 26 as the federal holiday, and Friday, Nov. 27 is not one. As of Nov. 6, 2026, no executive order giving federal workers that Friday off had been announced.
 
 Many employers and some state governments do close on the Friday. North Carolina, for example, lists Thanksgiving as Thursday and Friday, Nov. 26 and 27, 2026, for state employees, according to the state's Office of State Human Resources. Check your own employer or your state's human resources page for the day after; our list of [states closed on Friday, Nov. 27](/news/is-the-day-after-thanksgiving-a-state-holiday-2026-states-closed-november-27/) covers state offices.
 
@@ -280,6 +283,20 @@ The federal schedule comes from the Office of Personnel Management and the Feder
 ## When is Canadian Thanksgiving?
 
 Canadian Thanksgiving falls on the second Monday of October, about six weeks before the U.S. holiday. The Canada Revenue Agency lists it as Monday, Oct. 12, 2026. In 2027 it moves to Monday, Oct. 11.
+
+## Thanksgiving 2026 on TV: football games and the Macy's parade
+
+The National Football League (NFL) plays five games across Thanksgiving week in 2026, according to NFL.com's schedule release. Times are Eastern Time (ET).
+
+| Date | Game | Kickoff (ET) | Channel |
+|---|---|---|---|
+| Wed., Nov. 25 (Thanksgiving Eve) | Green Bay Packers at Los Angeles Rams | 8 p.m. | Netflix |
+| Thu., Nov. 26 | Chicago Bears at Detroit Lions | 1 p.m. | CBS, Paramount+, NFL+ |
+| Thu., Nov. 26 | Philadelphia Eagles at Dallas Cowboys | 4:30 p.m. | FOX, FOX One, NFL+ |
+| Thu., Nov. 26 | Kansas City Chiefs at Buffalo Bills | 8:20 p.m. | NBC, Peacock, NFL+ |
+| Fri., Nov. 27 (Black Friday) | Denver Broncos at Pittsburgh Steelers | 3 p.m. | Prime Video |
+
+The 100th Macy's Thanksgiving Day Parade starts at 8:30 a.m. in all time zones on NBC, Peacock and Telemundo, per Macy's. Macy's said in August that this year's lineup has 100 inflatable elements, with new balloons including Disney's Sorcerer's Apprentice Mickey, a reimagined Underdog and a new Tony Sarg's Amazing Marionettes float, and that more participation details would follow "in the coming weeks." Macy's had not named performers or a grand marshal in the pages we could read. For kickoff times by time zone, channels and the parade schedule in one place, see our [Thanksgiving 2026 TV schedule](/news/thanksgiving-2026-tv-schedule-macys-parade-nfl-games/).
 
 ## Plan Thanksgiving week 2026
 
