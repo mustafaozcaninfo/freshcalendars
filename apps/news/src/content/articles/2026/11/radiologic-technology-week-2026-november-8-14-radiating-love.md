@@ -42,7 +42,7 @@ assets:
 hero:
   src: ../../../../assets/news/radiologic-technology-week-2026-november-8-14-radiating-love/radiologic-technology-week-2026-november-8-14-radiating-love.webp
   alt: "A U.S. Air Force airman reviews an X-ray image on a light board, for Radiologic Technology Week 2026 on Nov. 8-14"
-  caption: "An airman reviews an X-ray image in a 2012 U.S. Air Force photo (file photo). NRTW 2026 runs Nov. 8-14."
+  caption: "An airman reviews an X-ray image in a U.S. Air Force photo (file photo). NRTW 2026 runs Nov. 8-14."
   credit: "Photo: Airman 1st Class Colby Hardin / Wikimedia Commons, cropped, edited"
   license:
     name: "Public domain"
@@ -118,7 +118,7 @@ Put the week on the [November 2026 printable calendar](/november-calendars.html)
 
 ## When is Radiologic Technology Week 2027?
 
-Not yet announced. ASRT's page covered 2026 only when we checked on Nov. 6, 2026. The 2025 theme used by some third-party pages is not the 2026 theme.
+Not yet announced. ASRT's page covered 2026 only when we checked on Nov. 6, 2026.
 
 ## What does the free NRTW 2026 sheet include?
 
