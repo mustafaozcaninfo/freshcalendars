@@ -1,10 +1,10 @@
 ---
-title: "Black Friday Canada 2026: Nov. 27 Date, Canadian Tire Deals From Nov. 5, Who Hasn't Announced"
-seoTitle: "Black Friday Canada 2026: Nov. 27, Sale Dates"
-description: "Black Friday 2026 is Fri., Nov. 27 in Canada, and Canadian Tire says its deals start Thu., Nov. 5. See who has not announced dates, plus Canada Post deadlines."
+title: "Black Friday 2026 Canada: Nov. 27 Sale Dates by Store, From Canadian Tire to Amazon.ca"
+seoTitle: "Black Friday 2026 Canada: Nov. 27 Sale Dates by Store"
+description: "Black Friday 2026 in Canada is Fri., Nov. 27, and Cyber Monday is Nov. 30. Sale dates from 10 retailers' own pages, Canadian Tire to Amazon.ca, by store."
 type: news
 publishedAt: "2026-10-29T11:47:00-04:00"
-updatedAt: "2026-11-02T23:01:00-05:00"
+updatedAt: "2026-11-06T07:22:00-05:00"
 authors: [jessica-hartwell]
 category: retail-dates
 keywords: ["black friday canada 2026", "when is black friday 2026 canada", "black friday 2026 canada sale dates", "is black friday a holiday in canada"]
@@ -28,7 +28,7 @@ downloads:
 hero:
   src: ../../../../assets/news/black-friday-canada-2026-november-27-sale-dates-canadian-tire-november-5/black-friday-canada-2026-november-27-sale-dates-canadian-tire-november-5.webp
   alt: "Holiday shoppers crowding the levels of the Toronto Eaton Centre, for Black Friday Canada 2026"
-  caption: "File photo: Boxing Day shoppers at the Toronto Eaton Centre. Black Friday 2026 in Canada is Friday, Nov. 27, and Canadian Tire says its deals start Nov. 5."
+  caption: "File photo: Boxing Day shoppers at the Toronto Eaton Centre. Black Friday 2026 in Canada is Friday, Nov. 27. Canadian Tire's early Black Friday deals are already on."
   credit: "Photo: 松林 Ｌ from Toronto, Canada / Wikimedia Commons, cropped, edited"
   license:
     name: "CC BY 2.0"
@@ -37,8 +37,8 @@ hero:
     author: "松林 Ｌ from Toronto, Canada"
     authorUrl: "https://www.flickr.com/people/10014440@N06"
 summary:
-  - "Black Friday 2026 is Fri., Nov. 27 and Cyber Monday is Mon., Nov. 30. Canadian Tire says its Black Friday deals start Thu., Nov. 5, according to its Black Friday page."
-  - "Amazon.ca, Best Buy Canada, Walmart Canada, Costco Canada, Apple Canada, Staples Canada, Home Depot Canada and Rona had not announced 2026 Black Friday dates when we checked on Nov. 3. Indigo confirms Nov. 27 but no sale dates."
+  - "Black Friday 2026 is Fri., Nov. 27 and Cyber Monday is Mon., Nov. 30. Canadian Tire's early Black Friday Week 1 deals are on now; when we checked on Nov. 3, its Black Friday page gave Thu., Nov. 5 as the start, and it posts no end date."
+  - "Amazon.ca, Best Buy Canada, Walmart Canada, Costco Canada, Apple Canada, Staples Canada, Home Depot Canada and Rona had posted no 2026 Black Friday sale dates when we last read them. Indigo confirms Nov. 27 but no sale dates, and Home Depot Canada shows early savings with no dates."
   - "Black Friday is not on the Government of Canada's list of 10 general holidays for federally regulated employers."
   - "The Competition Bureau's two tests for an ordinary (regular) price are a volume test (more than 50% of sales) and a time test (offered in good faith for a substantial period)."
 faq:
@@ -47,16 +47,16 @@ faq:
   - q: "Is Black Friday a holiday in Canada?"
     a: "No. It is not one of the 10 general holidays on the Government of Canada's list for federally regulated employers. That page covers federal jurisdiction only."
   - q: "When do Canadian Tire Black Friday deals start in 2026?"
-    a: "Thursday, Nov. 5, according to Canadian Tire's Black Friday page. It gives no end date and says sales timing may vary."
+    a: "They have started. Canadian Tire's early Black Friday Week 1 deals are on now. When we checked on Nov. 3, its Black Friday page gave Thu., Nov. 5 as the start. It posts no end date."
   - q: "When does Amazon.ca Black Friday 2026 start?"
-    a: "Not yet announced as of Nov. 3, 2026. Amazon.ca's Black Friday page shows no 2026 dates."
+    a: "Not yet announced. Amazon.ca's newsroom, aboutamazon.ca, shows no 2026 Black Friday Week or Cyber Monday dates; its newest release, on Oct. 22, covers Prime Big Deal Days."
   - q: "What counts as a fake regular price in Canada?"
     a: "The Competition Bureau says businesses cannot invent a higher regular price to make a sale look like a bargain. The Bureau calls this fake ordinary selling price and says it violates the Competition Act."
 sources:
   - title: "Black Friday Deals 2026 | Canadian Tire"
     url: "https://www.canadiantire.ca/en/events/black-friday.html"
     publisher: "Canadian Tire"
-    date: "2026-10-29"
+    date: "2026-11-06"
   - title: "Get a sneak peek at Amazon's best discounts during its Black Friday Week and Cyber Monday deal events"
     url: "https://www.aboutamazon.ca/news/retail/get-a-sneak-peek-at-amazons-best-discounts-during-its-black-friday-week-and-cyber-monday-deal-events-running-november-20-through-december-1"
     publisher: "Amazon Canada"
@@ -64,11 +64,15 @@ sources:
   - title: "Black Friday | Indigo"
     url: "https://www.indigo.ca/en-ca/black-friday/"
     publisher: "Indigo"
-    date: "2026-11-03"
+    date: "2026-11-06"
   - title: "Black Friday Event | Costco"
     url: "https://www.costco.ca/black-friday.html"
     publisher: "Costco Canada"
-    date: "2026-11-03"
+    date: "2026-11-06"
+  - title: "Home Improvement, Home Renovation, Tools, & Hardware - Homedepot.ca"
+    url: "https://www.homedepot.ca/"
+    publisher: "Home Depot Canada"
+    date: "2026-11-06"
   - title: "Annual vacations and general holidays for employees working for federally regulated employers"
     url: "https://www.canada.ca/en/employment-social-development/services/labour-standards/reports/holidays.html"
     publisher: "Government of Canada"
@@ -95,15 +99,16 @@ assets:
   overlay: true
   kicker: "Black Friday Canada 2026 · Fri., Nov. 27"
   date: "2026-11-27"
-  card: { top: "Canadian Tire deals start", big: "Thu., Nov. 5", bottom: "Black Friday is Fri., Nov. 27" }
+  card: { top: "Black Friday Canada", big: "Fri., Nov. 27", bottom: "Cyber Monday is Mon., Nov. 30" }
   printable:
+    noKit: "Fill-in planner that mixes calendar dates, Canada Post deadlines and a blank deal check; the fact sheet has no verbatim quote for every dated row."
     slug: black-friday-canada-2026-planner
     group: black-friday-2026
     title: "Black Friday Canada 2026 Planner"
     subtitle: "Sale dates, Canada Post deadlines and a deal check"
     layout: checklist
     rows:
-      - { when: "Thu., Nov. 5", what: "Canadian Tire Black Friday deals start", section: "Sale dates" }
+      - { when: "Now", what: "Canadian Tire early deals (Week 1) live", section: "Sale dates" }
       - { when: "Fri., Nov. 27", what: "Black Friday", section: "Sale dates" }
       - { when: "Mon., Nov. 30", what: "Cyber Monday", section: "Sale dates" }
       - { when: "Thu., Dec. 10", what: "Canada Post Regular Parcel, national deadline", section: "Canada Post" }
@@ -118,32 +123,32 @@ assets:
     alt: "Printable Black Friday Canada 2026 planner with sale dates, Canada Post deadlines and a deal check"
 ---
 
-<p class="callout"><b>Checked Nov. 3, 2026.</b> We will update this page when a retailer announces its 2026 dates.</p>
+<p class="callout"><b>Checked Nov. 6, 2026.</b> Walmart.ca, Rona and Amazon.ca's store page could not be read on Nov. 6 and still showed no 2026 dates when last read Nov. 3. We will update this page when a retailer announces its 2026 dates.</p>
 
-**Black Friday 2026 is Fri., Nov. 27, 2026 in Canada, Cyber Monday is Mon., Nov. 30, and Canadian Tire says its Black Friday deals start Thu., Nov. 5, according to Canadian Tire's Black Friday page.** That page also says "Black Friday 2026 takes place on November 27, 2026." For the plain date answer, see [when Black Friday falls](/when-is/black-friday/) and [when Cyber Monday falls](/when-is/cyber-monday/). A free planner is in the [downloads](#downloads) section.
+**Black Friday 2026 is Fri., Nov. 27, 2026 in Canada and Cyber Monday is Mon., Nov. 30, according to Canadian Tire's Black Friday page, which says "Black Friday 2026 takes place on November 27, 2026."** Canadian Tire's early deals are already on: its page offers "up to 50% with Early Black Friday Week 1 Deals." For the plain date answer, see [when Black Friday falls](/when-is/black-friday/) and [when Cyber Monday falls](/when-is/cyber-monday/). A free planner is in the [downloads](#downloads) section.
 
 ## Which Canadian retailers have announced Black Friday 2026 dates?
 
-Only Canadian Tire had sale dates on its site when we checked on Nov. 3, 2026, and its deals start in two days. Canadian Tire gives no end date or times, and says "Sales timing may vary, with some promotions starting early and extending through Cyber Monday or beyond."
+No retailer we checked had posted a full 2026 sale calendar on Nov. 6, 2026. Canadian Tire's early Black Friday Week 1 deals are on now. When we checked on Nov. 3, its page gave Thu., Nov. 5 as the start; it posts no end date and says "Promotions may launch before Black Friday and continue through Cyber Monday".
 
-| Retailer | 2026 Black Friday dates | Status on Nov. 3, 2026 |
+| Retailer | 2026 Black Friday dates | Status on Nov. 6, 2026 |
 |---|---|---|
-| Canadian Tire | Deals start Thu., Nov. 5; Black Friday Fri., Nov. 27 | Announced; no end date given |
-| Amazon.ca | Not yet announced | Not yet announced; its Black Friday page shows no 2026 dates |
+| Canadian Tire | Early Week 1 deals on now (page gave Thu., Nov. 5 as the start on Nov. 3); Black Friday Fri., Nov. 27 | Live; no end date posted |
+| Amazon.ca | Not yet announced | Not yet announced; aboutamazon.ca shows no 2026 dates (newest release Oct. 22, Prime Big Deal Days) |
 | Best Buy Canada | Not yet announced | Not yet announced |
-| Walmart Canada | Not yet announced | Not yet announced |
+| Walmart Canada | Not yet announced | Not yet announced; page could not be read on Nov. 6 |
 | Costco Canada | Not yet announced | Not yet announced; its page says "Content is currently unavailable, please check back soon." |
 | Indigo | Sale dates not yet announced; Black Friday Fri., Nov. 27 | Page says "Black Friday is Friday, November 27, 2026." |
 | Apple Canada | Not yet announced | Not yet announced |
 | Staples Canada | Not yet announced | Not yet announced |
-| Home Depot Canada | Not yet announced | Not yet announced |
-| Rona | Not yet announced | Not yet announced |
+| Home Depot Canada | No dates posted | Homepage shows "Early Black Friday savings are here." with no dates |
+| Rona | Not yet announced | Not yet announced; page could not be read on Nov. 6 |
 
 We do not list 2025 dates for retailers that have not published 2026 ones, because we could not confirm them from an official source.
 
 ## When does Amazon.ca Black Friday 2026 start?
 
-Not yet announced as of Nov. 3, 2026; Amazon.ca's Black Friday page shows no 2026 dates. Last year, Amazon's Canadian newsroom said in a Nov. 17, 2025 release: "Amazon Canada is launching deep discounts during its Black Friday Week and Cyber Monday deal events, running from November 20 through December 1." Those are 2025 dates and do not tell us what Amazon.ca will do in 2026. Our [Amazon Black Friday 2026 story](/news/amazon-black-friday-2026-sale-dates-when-does-it-start/) tracks the US dates, and the [UK Black Friday 2026 story](/news/black-friday-2026-uk-date-27-november-amazon-uk-sale-dates/) covers the same day in Britain.
+Not yet announced as of Nov. 6, 2026; aboutamazon.ca shows no 2026 Black Friday Week or Cyber Monday dates, and its newest release, on Oct. 22, covers Prime Big Deal Days. Last year, Amazon's Canadian newsroom said in a Nov. 17, 2025 release: "Amazon Canada is launching deep discounts during its Black Friday Week and Cyber Monday deal events, running from November 20 through December 1." Those are 2025 dates and do not tell us what Amazon.ca will do in 2026. Our [Amazon Black Friday 2026 story](/news/amazon-black-friday-2026-sale-dates-when-does-it-start/) tracks the US dates, and the [UK Black Friday 2026 story](/news/black-friday-2026-uk-date-27-november-amazon-uk-sale-dates/) covers the same day in Britain.
 
 ## Is Black Friday a holiday in Canada?
 
@@ -187,7 +192,7 @@ The same page lists these deadlines for mail to the United States and for Letter
 
 | Date | What | Source |
 |---|---|---|
-| Thu., Nov. 5 | Canadian Tire Black Friday deals start | Canadian Tire |
+| Now | Canadian Tire early Black Friday Week 1 deals live | Canadian Tire |
 | Fri., Nov. 27 | Black Friday | Calendar |
 | Mon., Nov. 30 | Cyber Monday | Calendar |
 | Thu., Dec. 10 | Regular Parcel national deadline | Canada Post |
