@@ -1,0 +1,1134 @@
+{
+ "editor": "Will Shortz",
+ "publicationDate": "2026-11-04",
+ "constructors": [
+  "Peggy Sue Marlin"
+ ],
+ "width": 15,
+ "height": 15,
+ "cells": [
+  "W",
+  "A",
+  "T",
+  "T",
+  "S",
+  null,
+  "A",
+  "D",
+  "L",
+  "I",
+  "B",
+  null,
+  "U",
+  "P",
+  "C",
+  "A",
+  "L",
+  "E",
+  "U",
+  "T",
+  null,
+  "N",
+  "O",
+  "Y",
+  "O",
+  "U",
+  null,
+  "R",
+  "I",
+  "O",
+  "S",
+  "O",
+  "R",
+  "R",
+  "Y",
+  "W",
+  "E",
+  "R",
+  "E",
+  "C",
+  "L",
+  "O",
+  "S",
+  "E",
+  "D",
+  "N",
+  "E",
+  "R",
+  "F",
+  null,
+  "H",
+  "W",
+  "Y",
+  "S",
+  null,
+  "G",
+  "L",
+  "A",
+  "R",
+  "E",
+  "T",
+  "S",
+  "E",
+  "T",
+  "S",
+  "E",
+  null,
+  null,
+  null,
+  "H",
+  "A",
+  "I",
+  "M",
+  null,
+  null,
+  null,
+  null,
+  null,
+  "O",
+  "U",
+  "T",
+  "O",
+  "F",
+  "S",
+  "E",
+  "R",
+  "V",
+  "I",
+  "C",
+  "E",
+  null,
+  "X",
+  "M",
+  "E",
+  "N",
+  null,
+  "N",
+  "U",
+  "T",
+  "R",
+  "I",
+  "E",
+  "N",
+  "T",
+  "S",
+  "A",
+  "B",
+  "A",
+  null,
+  null,
+  "M",
+  "E",
+  "D",
+  "E",
+  "A",
+  null,
+  null,
+  "O",
+  "R",
+  "C",
+  "L",
+  "O",
+  "N",
+  "G",
+  "R",
+  "A",
+  "N",
+  "G",
+  "E",
+  null,
+  "E",
+  "A",
+  "R",
+  "L",
+  null,
+  "E",
+  "X",
+  "P",
+  "E",
+  "C",
+  "T",
+  "D",
+  "E",
+  "L",
+  "A",
+  "Y",
+  "S",
+  null,
+  null,
+  null,
+  null,
+  null,
+  "U",
+  "T",
+  "A",
+  "H",
+  null,
+  null,
+  null,
+  "N",
+  "E",
+  "W",
+  "C",
+  "A",
+  "R",
+  "L",
+  "U",
+  "R",
+  "I",
+  "D",
+  null,
+  "C",
+  "A",
+  "P",
+  "N",
+  null,
+  "E",
+  "L",
+  "L",
+  "E",
+  "I",
+  "T",
+  "S",
+  "N",
+  "O",
+  "T",
+  "A",
+  "G",
+  "O",
+  "O",
+  "D",
+  "S",
+  "I",
+  "G",
+  "N",
+  "F",
+  "E",
+  "E",
+  null,
+  "M",
+  "A",
+  "N",
+  "E",
+  "S",
+  null,
+  "R",
+  "A",
+  "N",
+  "A",
+  "T",
+  "E",
+  "S",
+  "S",
+  null,
+  "E",
+  "X",
+  "E",
+  "R",
+  "T",
+  null,
+  "S",
+  "Y",
+  "K",
+  "E",
+  "S"
+ ],
+ "clues": [
+  {
+   "direction": "Across",
+   "label": "1",
+   "text": "Power bank units",
+   "cells": [
+    0,
+    1,
+    2,
+    3,
+    4
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "6",
+   "text": "Rick's line \"Here's looking at you, kid,\" in \"Casablanca\"",
+   "cells": [
+    6,
+    7,
+    8,
+    9,
+    10
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "11",
+   "text": "Lines at a supermarket checkout, for short",
+   "cells": [
+    12,
+    13,
+    14
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "14",
+   "text": "Alaskan native",
+   "cells": [
+    15,
+    16,
+    17,
+    18,
+    19
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "15",
+   "text": "\"Please, go first!\"",
+   "cells": [
+    21,
+    22,
+    23,
+    24,
+    25
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "16",
+   "text": "She \"dances on the sand\" in a 1983 Duran Duran hit",
+   "cells": [
+    27,
+    28,
+    29
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "17",
+   "text": "56-Across on a store",
+   "cells": [
+    30,
+    31,
+    32,
+    33,
+    34,
+    35,
+    36,
+    37,
+    38,
+    39,
+    40,
+    41,
+    42,
+    43,
+    44
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "20",
+   "text": "Kind of ball that's played with indoors",
+   "cells": [
+    45,
+    46,
+    47,
+    48
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "21",
+   "text": "Major rds.",
+   "cells": [
+    50,
+    51,
+    52,
+    53
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "22",
+   "text": "Angry look",
+   "cells": [
+    55,
+    56,
+    57,
+    58,
+    59
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "23",
+   "text": "Feared fly",
+   "cells": [
+    60,
+    61,
+    62,
+    63,
+    64,
+    65
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "25",
+   "text": "Rock band founded by three sisters",
+   "cells": [
+    69,
+    70,
+    71,
+    72
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "26",
+   "text": "56-Across on an elevator",
+   "cells": [
+    78,
+    79,
+    80,
+    81,
+    82,
+    83,
+    84,
+    85,
+    86,
+    87,
+    88,
+    89
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "32",
+   "text": "Marvel mutants",
+   "cells": [
+    91,
+    92,
+    93,
+    94
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "34",
+   "text": "Crop boosters",
+   "cells": [
+    96,
+    97,
+    98,
+    99,
+    100,
+    101,
+    102,
+    103,
+    104
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "35",
+   "text": "Org. for lawyers",
+   "cells": [
+    105,
+    106,
+    107
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "36",
+   "text": "Magical ally in \"Argonautica\"",
+   "cells": [
+    110,
+    111,
+    112,
+    113,
+    114
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "37",
+   "text": "Middle-earth monster",
+   "cells": [
+    117,
+    118,
+    119
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "38",
+   "text": "Not short-term",
+   "cells": [
+    120,
+    121,
+    122,
+    123,
+    124,
+    125,
+    126,
+    127,
+    128
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "41",
+   "text": "British noble",
+   "cells": [
+    130,
+    131,
+    132,
+    133
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "43",
+   "text": "56-Across on an interstate",
+   "cells": [
+    135,
+    136,
+    137,
+    138,
+    139,
+    140,
+    141,
+    142,
+    143,
+    144,
+    145,
+    146
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "45",
+   "text": "With 51-Down, college football rival of the B.Y.U. Cougars",
+   "cells": [
+    152,
+    153,
+    154,
+    155
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "46",
+   "text": "Nice kind of smell that tends to disappear quickly",
+   "cells": [
+    159,
+    160,
+    161,
+    162,
+    163,
+    164
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "50",
+   "text": "Sensationally detailed",
+   "cells": [
+    165,
+    166,
+    167,
+    168,
+    169
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "52",
+   "text": "___ Crunch",
+   "cells": [
+    171,
+    172,
+    173,
+    174
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "55",
+   "text": "Magazine with \"Decor\" and \"à Table\" offshoots",
+   "cells": [
+    176,
+    177,
+    178,
+    179
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "56",
+   "text": "\"That spells trouble!\"",
+   "cells": [
+    180,
+    181,
+    182,
+    183,
+    184,
+    185,
+    186,
+    187,
+    188,
+    189,
+    190,
+    191,
+    192,
+    193,
+    194
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "59",
+   "text": "Charge",
+   "cells": [
+    195,
+    196,
+    197
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "60",
+   "text": "Features of giraffe necks",
+   "cells": [
+    199,
+    200,
+    201,
+    202,
+    203
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "61",
+   "text": "Charged",
+   "cells": [
+    205,
+    206,
+    207,
+    208,
+    209
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "62",
+   "text": "Sourdough starter?",
+   "cells": [
+    210,
+    211,
+    212
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "63",
+   "text": "Apply, as pressure",
+   "cells": [
+    214,
+    215,
+    216,
+    217,
+    218
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "64",
+   "text": "Comedian Wanda",
+   "cells": [
+    220,
+    221,
+    222,
+    223,
+    224
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "1",
+   "text": "\"Rome ___ built in a day\"",
+   "cells": [
+    0,
+    15,
+    30,
+    45,
+    60
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "2",
+   "text": "Low-maintenance succulents",
+   "cells": [
+    1,
+    16,
+    31,
+    46,
+    61
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "3",
+   "text": "Earth, in French",
+   "cells": [
+    2,
+    17,
+    32,
+    47,
+    62
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "4",
+   "text": "Foot joint sprain, familiarly",
+   "cells": [
+    3,
+    18,
+    33,
+    48,
+    63,
+    78,
+    93
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "5",
+   "text": "Pigs' place",
+   "cells": [
+    4,
+    19,
+    34
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "6",
+   "text": "With a fresh start",
+   "cells": [
+    6,
+    21,
+    36,
+    51
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "7",
+   "text": "Film friend of Nemo",
+   "cells": [
+    7,
+    22,
+    37,
+    52
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "8",
+   "text": "Soapmaking substances",
+   "cells": [
+    8,
+    23,
+    38,
+    53
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "9",
+   "text": "Org. whose logo represents five continents",
+   "cells": [
+    9,
+    24,
+    39
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "10",
+   "text": "Luxury brand known for its Rome-inspired designs",
+   "cells": [
+    10,
+    25,
+    40,
+    55,
+    70,
+    85,
+    100
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "11",
+   "text": "Constellation that includes the North Star",
+   "cells": [
+    12,
+    27,
+    42,
+    57,
+    72,
+    87,
+    102,
+    117,
+    132
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "12",
+   "text": "Chicago's Navy ___",
+   "cells": [
+    13,
+    28,
+    43,
+    58
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "13",
+   "text": "A secret message might be in this",
+   "cells": [
+    14,
+    29,
+    44,
+    59
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "18",
+   "text": "Stimulate, as an appetite",
+   "cells": [
+    35,
+    50,
+    65,
+    80
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "19",
+   "text": "___ Garden",
+   "cells": [
+    41,
+    56,
+    71,
+    86,
+    101
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "24",
+   "text": "Back burner?",
+   "cells": [
+    64,
+    79,
+    94
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "25",
+   "text": "Divine protector in \"Argonautica\"",
+   "cells": [
+    69,
+    84,
+    99,
+    114
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "27",
+   "text": "How raised hackles stand",
+   "cells": [
+    81,
+    96,
+    111,
+    126,
+    141
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "28",
+   "text": "Block in a candy shop",
+   "cells": [
+    82,
+    97,
+    112,
+    127,
+    142
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "29",
+   "text": "What the corporation Nucor produces",
+   "cells": [
+    83,
+    98,
+    113,
+    128,
+    143
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "30",
+   "text": "Lower-left PC key",
+   "cells": [
+    88,
+    103,
+    118,
+    133
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "31",
+   "text": "Upper-left PC key",
+   "cells": [
+    89,
+    104,
+    119
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "32",
+   "text": "Microsoft game console",
+   "cells": [
+    91,
+    106,
+    121,
+    136
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "33",
+   "text": "Some messenger bags and satchels, jocularly",
+   "cells": [
+    92,
+    107,
+    122,
+    137,
+    152,
+    167,
+    182,
+    197,
+    212
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "35",
+   "text": "Ginger ___",
+   "cells": [
+    105,
+    120,
+    135
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "36",
+   "text": "\"Four out of three people struggle with\" this subject",
+   "cells": [
+    110,
+    125,
+    140,
+    155
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "39",
+   "text": "\"Let's go for a ride!\"",
+   "cells": [
+    123,
+    138,
+    153,
+    168,
+    183
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "40",
+   "text": "Former Indianapolis stadium",
+   "cells": [
+    124,
+    139,
+    154,
+    169,
+    184,
+    199,
+    214
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "41",
+   "text": "A cyclops has one",
+   "cells": [
+    130,
+    145,
+    160
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "42",
+   "text": "In a manner of speaking",
+   "cells": [
+    131,
+    146,
+    161,
+    176,
+    191,
+    206,
+    221
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "44",
+   "text": "Year in Italy",
+   "cells": [
+    144,
+    159,
+    174,
+    189
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "47",
+   "text": "[Cheers!]",
+   "cells": [
+    162,
+    177,
+    192,
+    207,
+    222
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "48",
+   "text": "Fish tank buildup",
+   "cells": [
+    163,
+    178,
+    193,
+    208,
+    223
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "49",
+   "text": "Doesn't own, say",
+   "cells": [
+    164,
+    179,
+    194,
+    209,
+    224
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "50",
+   "text": "Albert Einstein once compared it to riding a bicycle: \"To keep your balance, you must keep moving\"",
+   "cells": [
+    165,
+    180,
+    195,
+    210
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "51",
+   "text": "See 45-Across",
+   "cells": [
+    166,
+    181,
+    196,
+    211
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "52",
+   "text": "Prop for the Riddler",
+   "cells": [
+    171,
+    186,
+    201,
+    216
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "53",
+   "text": "Antiquing substance",
+   "cells": [
+    172,
+    187,
+    202,
+    217
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "54",
+   "text": "Company that makes Grape-Nuts",
+   "cells": [
+    173,
+    188,
+    203,
+    218
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "57",
+   "text": "Line on many a receipt",
+   "cells": [
+    185,
+    200,
+    215
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "58",
+   "text": "Rx writers",
+   "cells": [
+    190,
+    205,
+    220
+   ]
+  }
+ ]
+}

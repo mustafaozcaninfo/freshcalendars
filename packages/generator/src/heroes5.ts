@@ -75,6 +75,14 @@ const ART: Record<string, (r: Rng) => string> = {
     const across = 1 + Math.floor(r() * 8), down = 1 + Math.floor(r() * 8);
     return grid(735, 110, 10, 10, 40, 3, (row, c) => (black.has(row * 10 + c) ? "#111827" : row === across ? "#a7d8ff" : c === down ? "#ffda00" : E), 2);
   },
+  /** The daily Crossword: a 15×15 grid with rotationally symmetric black squares and a pencil across it. */
+  crossword: (r) => {
+    const black = new Set<number>();
+    for (let k = 0; k < 16 + Math.floor(r() * 8); k++) { const i = Math.floor(r() * 225); black.add(i); black.add(224 - i); }
+    const across = 2 + Math.floor(r() * 11), down = 2 + Math.floor(r() * 11);
+    return grid(720, 70, 15, 15, 30, 2, (row, c) => (black.has(row * 15 + c) ? "#111827" : row === across ? "#a7d8ff" : c === down ? "#ffda00" : E), 1)
+      + `<g transform="translate(1110 520) rotate(${(-40 - r() * 20).toFixed(0)})"><rect x="-14" y="-150" width="28" height="240" rx="4" fill="#f59e0b"/><rect x="-14" y="-150" width="28" height="34" fill="#f472b6"/><path d="M-14 90 L0 130 L14 90 Z" fill="#fde68a"/><path d="M-5 117 L0 130 L5 117 Z" fill="#111827"/></g>`;
+  },
   quordle: (r) => [0, 1, 2, 3].map((q) => {
     const solvedAt = 2 + Math.floor(r() * 3), rows = Array.from({ length: 5 }, () => Array.from({ length: 5 }, () => pick(r, [N, N, Y, G])));
     return grid(690 + (q % 2) * 230, 90 + Math.floor(q / 2) * 260, 5, 5, 38, 5, (row, c) => (row < solvedAt ? rows[row]![c]! : row === solvedAt ? G : E), 4);
@@ -374,6 +382,10 @@ export const PUZZLE_HEROES: [string, string, string, string, string, string, str
   ["nyt-pips-hints-answers-november-18-2026", "pips", "#1e293b", "#fca5a5", "Pips · Wed., Nov. 18, 2026", "Pips hints today", "Hints for Easy, Medium and Hard, placements at the end."],
   ["contexto-answer-hints-november-11-2026-1515", "contexto", "#0f172a", "#5eead4", "Contexto #1515 · Wed., Nov. 11, 2026", "Contexto hints", "Close words and hints first, the secret word only at the end."],
   ["nyt-spelling-bee-hints-answers-november-18-2026", "bee", "#1c1917", "#fbbf24", "Spelling Bee · Wed., Nov. 18, 2026", "Spelling Bee hints", "Hint grid and two-letter list first, the word list at the end."],
+  ["nyt-crossword-answers-november-3-2026", "crossword", "#172033", "#86efac", "NYT Crossword · Tue., Nov. 3, 2026", "NYT Crossword answers", "A hint for all 74 clues first, the full solved grid at the end."],
+  ["nyt-crossword-answers-november-4-2026", "crossword", "#172033", "#f9a8d4", "NYT Crossword · Wed., Nov. 4, 2026", "NYT Crossword answers", "A hint for all 74 clues first, the full solved grid at the end."],
+  ["nyt-crossword-answers-november-5-2026", "crossword", "#172033", "#93c5fd", "NYT Crossword · Thu., Nov. 5, 2026", "NYT Crossword answers", "A hint for all 78 clues first, the full solved grid at the end."],
+  ["nyt-crossword-answers-november-6-2026", "crossword", "#172033", "#fcd34d", "NYT Crossword · Fri., Nov. 6, 2026", "NYT Crossword answers", "A hint for all 70 clues first, the full solved grid at the end."],
 ];
 
 export async function buildHeroes5(only?: string): Promise<void> {
