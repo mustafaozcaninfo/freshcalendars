@@ -4,6 +4,7 @@ seoTitle: "Davis Cup Final 8 2026 Bologna: Schedule, Times"
 description: "The Davis Cup Final 8 runs Nov. 24-29, 2026 in Bologna, Italy. Central European Time (CET) sessions start at 16:00 on Nov. 24, or 10 a.m. Eastern Time (ET)."
 type: news
 publishedAt: "2026-10-30T03:42:00-04:00"
+updatedAt: "2026-11-06T13:25:00-05:00"
 authors: [jessica-hartwell]
 category: sports
 keywords: ["davis cup finals 2026 schedule", "davis cup final 8 2026 time", "davis cup 2026 bologna dates", "great britain vs germany davis cup 2026 time", "canada vs czechia davis cup time"]
@@ -22,7 +23,7 @@ summary:
   - "The Davis Cup by Generali Final 8 takes place Nov. 24-29, 2026 at the BolognaFiere in Bologna, Italy, with four quarterfinals, two semifinals and the final, according to daviscup.com."
   - "All official times are Central European Time (CET). The first quarterfinal, Czechia v Canada, starts Tue., Nov. 24 at 16:00 CET, which is 10 a.m. Eastern Time (ET) and 7 a.m. Pacific Time (PT)."
   - "Great Britain v Germany plays Thu., Nov. 26 at 10:00 CET, which is 9 a.m. Greenwich Mean Time (GMT) and 4 a.m. ET. Austria v Spain follows in the evening session, not before 17:00 CET."
-  - "Television and streaming for the United States, United Kingdom and Canada are not yet announced by the organizer; check local listings."
+  - "Tennis Channel holds exclusive U.S. rights to the Davis Cup through 2028, but its 2026 Final 8 listings are not yet posted; U.K. and Canada television and streaming are not yet announced by the organizer."
 faq:
   - q: "What are the Davis Cup Finals 2026 dates?"
     a: "Nov. 24 to 29, 2026 in Bologna, Italy, according to daviscup.com. The quarterfinals are Nov. 24-26, the semifinals Nov. 27-28 and the final Nov. 29."
@@ -31,8 +32,16 @@ faq:
   - q: "What time does Canada v Czechia start at the Davis Cup 2026?"
     a: "Tue., Nov. 24 at 16:00 CET, the opening session of the Final 8. That is 10 a.m. ET (Toronto) and 7 a.m. PT (Vancouver)."
   - q: "Where can I watch the Davis Cup Final 8 2026?"
-    a: "Television and streaming for the U.S., U.K. and Canada are not yet announced by the organizer. Check local listings and daviscup.com."
+    a: "In the U.S., Tennis Channel holds exclusive rights to the Davis Cup through 2028, according to a deal reported in August 2025, but its 2026 Final 8 listings are not yet posted. Check Tennis Channel listings. Television and streaming for the U.K. and Canada are not yet announced by the organizer."
 sources:
+  - title: "Network platforms will continue to be exclusive U.S. media home of all Billie Jean King Cup and Davis Cup competitions"
+    url: "https://www.sportsvideo.org/2025/08/05/network-platforms-will-continue-to-be-exclusive-u-s-media-home-of-all-billie-jean-king-cup-and-davis-cup-competitions/"
+    publisher: "Sports Video Group"
+    date: "2025-08-05"
+  - title: "Tennis Channel, International Tennis Federation extend media rights agreement"
+    url: "https://prod.tennis.com/news/articles/tennis-channel-international-tennis-federation-extend-media-rights-agreement"
+    publisher: "Tennis.com"
+    date: "2025-08-06"
   - title: "Schedule confirmed for Davis Cup by Generali Final 8"
     url: "https://www.daviscup.com/en/news/schedule-confirmed-for-davis-cup-by-generali-final-8"
     publisher: "Davis Cup"
@@ -90,7 +99,7 @@ assets:
 draft: false
 ---
 
-**The Davis Cup by Generali Final 8 takes place Nov. 24-29, 2026 at the BolognaFiere in Bologna, Italy, and the first quarterfinal, Czechia v Canada, starts Tue., Nov. 24 at 16:00 Central European Time (CET), which is 10 a.m. Eastern Time (ET), according to the schedule daviscup.com confirmed on Sept. 23, 2026.** "All times are CET," the organizer says. The table below converts every session to Greenwich Mean Time (GMT), ET and Pacific Time (PT). Television and streaming are not yet announced.
+**The Davis Cup by Generali Final 8 takes place Nov. 24-29, 2026 at the BolognaFiere in Bologna, Italy, and the first quarterfinal, Czechia v Canada, starts Tue., Nov. 24 at 16:00 Central European Time (CET), which is 10 a.m. Eastern Time (ET), according to the schedule daviscup.com confirmed on Sept. 23, 2026.** "All times are CET," the organizer says. The table below converts every session to Greenwich Mean Time (GMT), ET and Pacific Time (PT). Tennis Channel holds U.S. rights to the Davis Cup through 2028, but U.K. and Canada television and streaming are not yet announced.
 
 ## What is the Davis Cup Finals 2026 schedule?
 
@@ -143,7 +152,9 @@ The article notes that Carlos Alcaraz returns for the first time since the 2024 
 
 ## Where can I watch the Davis Cup Final 8 2026?
 
-Not yet announced by the organizer for the United States, United Kingdom or Canada. We have not seen a broadcaster listed on the schedule or nominations pages, so check local listings and daviscup.com closer to the event. The same goes for the exact arena layout inside the BolognaFiere, which the pages we read do not describe.
+In the United States, Tennis Channel holds exclusive rights to the Davis Cup. Tennis Channel and the International Tennis Federation (ITF) announced in August 2025 that "Tennis Channel will remain the exclusive U.S. home for both tournaments," the Billie Jean King Cup and the Davis Cup, and that "the deal now runs through 2028 for the Davis Cup," according to Sports Video Group (SVG) on Aug. 5, 2025 and Tennis.com on Aug. 6, 2025. The ITF's own release was not readable by us, so this rests on those two reports. No source we read lists the match-by-match 2026 Final 8 schedule on Tennis Channel, and its listings are not yet posted, so check Tennis Channel listings.
+
+For the United Kingdom and Canada, television and streaming are not yet announced by the organizer; we have not seen a broadcaster listed on the schedule or nominations pages, so check local listings and daviscup.com closer to the event. The same goes for the exact arena layout inside the BolognaFiere, which the pages we read do not describe.
 
 On the spot, daviscup.com says tickets are on sale, and that over 60,000 supporters attended last year's Final 8. The official hospitality page lists packages from 549 to 1,220 euros per session. General ticket prices are not published on the pages we read.
 
