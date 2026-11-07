@@ -1,10 +1,10 @@
 # Search Console (generated, do not edit)
 
-Read 2026-11-07T09:13 UTC for sc-domain:freshcalendars.com. Windows end 3 days before the read (Search Console data is late). Source: `scripts/news-gsc.mjs`, daily. Web, image and Discover results are separate: each section says which.
+Read 2026-11-07T15:40 UTC for sc-domain:freshcalendars.com. Windows end 3 days before the read (Search Console data is late). Source: `scripts/news-gsc.mjs`, daily. Web, image and Discover results are separate: each section says which.
 
 ## Gate for the phase decision (docs/DESK.md)
 
-- PASS: At least 60% of /news/ URLs published 7 to 21 days ago are indexed — 100% (55 of 55 sampled)
+- PASS: At least 60% of /news/ URLs published 7 to 21 days ago are indexed — 98% (54 of 55 sampled)
 - PASS: /news/ clicks and impressions did not fall two weeks in a row — no
 - CHECK: No manual action and no security issue — not in the API: check Search Console > Security & Manual Actions
 
@@ -270,13 +270,13 @@ Ranking in web results but absent from image results (hero alt text, caption, fi
 
 ## Indexing
 
-Sample of 90 stories published 2 to 21 days ago (the gate counts the 55 that are 7 to 21 days old): 90 Submitted and indexed.
+Sample of 90 stories published 2 to 21 days ago (the gate counts the 55 that are 7 to 21 days old): 89 Submitted and indexed, 1 Crawled - currently not indexed.
 
-- every sampled story is indexed
+- not indexed: /news/college-basketball-2026-27-key-dates-season-start-march-madness-printable/ (Crawled - currently not indexed), 11 days old
 
 ## Sitemaps
 
-- /news/sitemap.xml: 0 errors, 0 warnings, 1,181 URLs submitted, last read 2026-11-07
+- /news/sitemap.xml: 0 errors, 0 warnings, 1,182 URLs submitted, last read 2026-11-07
 - /news/news-sitemap.xml: 0 errors, 0 warnings, 173 URLs submitted, last read 2026-11-06
 - /sitemap.xml: 0 errors, 0 warnings, 96 URLs submitted, last read 2026-11-07
 
@@ -290,3 +290,4 @@ Sample of 90 stories published 2 to 21 days ago (the gate counts the 55 that are
 - gta-6-october-22-2026-what-is-confirmed-release-countdown (changed 2026-11-06): before 2 clicks, 102 impressions, CTR 1.96%, position 6.2; after: not yet (0 of 15 days)
 - whats-open-thanksgiving-2026-grocery-stores-walmart-costco (changed 2026-11-06): before 14 clicks, 1,088 impressions, CTR 1.29%, position 10.2; after: not yet (0 of 15 days)
 - black-friday-canada-2026-november-27-sale-dates-canadian-tire-november-5 (changed 2026-11-06): before 10 clicks, 10,838 impressions, CTR 0.09%, position 10.8; after: not yet (0 of 15 days)
+- avatar-seven-havens-release-schedule-episodes (changed 2026-11-06): before 14 clicks, 4,459 impressions, CTR 0.31%, position 9; after: not yet (0 of 15 days)
