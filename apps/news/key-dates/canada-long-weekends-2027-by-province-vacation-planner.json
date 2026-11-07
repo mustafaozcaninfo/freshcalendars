@@ -1,0 +1,10 @@
+[
+  { "date": "2027-01-01", "label": "New Year's Day, Friday: three-day weekend (Jan. 1-3)" },
+  { "date": "2027-02-15", "label": "Family Day and other third-Monday holidays: three-day weekend" },
+  { "date": "2027-03-26", "label": "Good Friday weekend; Easter Monday is Mar. 29 (computed)" },
+  { "date": "2027-05-24", "label": "Victoria Day, Monday: three-day weekend" },
+  { "date": "2027-07-01", "label": "Canada Day, Thursday: add Friday, July 2 for four days off" },
+  { "date": "2027-09-06", "label": "Labour Day, Monday: three-day weekend" },
+  { "date": "2027-09-30", "label": "National Day for Truth and Reconciliation, Thursday: add Friday, Oct. 1" },
+  { "date": "2027-10-11", "label": "Thanksgiving Day, Monday: three-day weekend" }
+]

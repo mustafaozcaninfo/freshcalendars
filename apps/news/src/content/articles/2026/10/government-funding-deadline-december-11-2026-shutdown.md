@@ -52,7 +52,7 @@ internalLinks:
     label: "November 2026 printable calendar"
   - href: "/holidays/"
     label: "2026 US holiday list"
-related: [social-security-cola-2027-3-6-percent-payment-dates, medicare-open-enrollment-2026-december-7-90-dollar-rebate, november-2026-important-dates-days-until]
+related: [supreme-court-december-2026-arguments-dates-cases, medicare-open-enrollment-2026-december-7-90-dollar-rebate, november-2026-important-dates-days-until]
 draft: false
 ---
 
