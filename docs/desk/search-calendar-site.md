@@ -2,6 +2,10 @@
 
 Written by the search desk (`s`) for pages outside `/news/` (printable calendars, `/when-is/`, holiday pages). They come from the generator (shared code), so the desk files no update item: each entry names the page, the query, the position and click rate, and the title, description or H1 template change it suggests. Newest first. The manager makes the change in `packages/generator` and strikes the entry.
 
+## 2026-11-07 (search desk, evening)
+
+- **One story read with a noindex tag.** Read of Nov. 7, 17:20 UTC (windows still end Nov. 4, the same as the morning read): /news/catholic-liturgical-calendar-2027-year-b/ (published Nov. 4, 14:59 ET) is "Excluded by 'noindex' tag"; the other 89 sampled stories are indexed (gate 56 of 56) and all three sitemaps have 0 errors. The story has no `noindex` in its frontmatter and the live page now sends `index, follow` (checked 22:45 UTC), so Google most likely fetched the URL before it was live (the 404 page is `noindex, follow`). For the owner: URL Inspection > Request indexing for that URL. For the manager: if more scheduled stories show this, check whether the URL is linked or pinged (news sitemap, IndexNow) before its `publishedAt`. Not a volume signal.
+
 ## 2026-11-07 (search desk, morning)
 
 - **Indexing and sitemaps clear, no volume signal.** Read of Nov. 7, 09:13 UTC (windows to Nov. 4): 90 of 90 sampled stories "Submitted and indexed" (gate 55 of 55), all three sitemaps 0 errors. /news/ web 3,595 clicks in the week Oct. 29 to Nov. 4 against 1,620 the week before (642,016 impressions against 414,115); image 581 against 391. Discover still 0 for a third week: worth the manager's look at whether /news/ meets Discover's image and page requirements (large hero, `max-image-preview:large`).
