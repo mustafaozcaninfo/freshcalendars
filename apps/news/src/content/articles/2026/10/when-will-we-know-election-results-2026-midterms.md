@@ -4,7 +4,7 @@ seoTitle: "When Will We Know 2026 Midterm Election Results?"
 description: "Polls closed Nov. 3, 2026, but counting takes days in some states. When mail ballots are counted in 17 key states, late-ballot rules and certification dates."
 type: explainer
 publishedAt: "2026-10-21T00:30:00-04:00"
-updatedAt: "2026-11-07T03:24:00-05:00"
+updatedAt: "2026-11-07T13:25:00-05:00"
 authors: [christina-gerland]
 category: elections
 keywords: ["when will we know election results 2026", "when will election results start coming in", "2026 midterm results timeline", "election results by state 2026", "when are election results certified"]
@@ -94,6 +94,14 @@ sources:
     url: "https://www.pa.gov/en/agencies/vote/elections/upcoming-elections"
     publisher: "Pennsylvania Department of State"
     date: "2026-11-05"
+  - title: "Preliminary results from Alaska's 2026 general election"
+    url: "https://adn.com/politics/2026/11/03/preliminary-results-from-alaskas-2026-general-election/"
+    publisher: "Anchorage Daily News"
+    date: "2026-11-04"
+  - title: "What to know about Alaska's general election"
+    url: "https://alaskapublic.org/news/politics/elections/2026-10-05/what-to-know-about-alaskas-general-election"
+    publisher: "Alaska Public Media"
+    date: "2026-10-05"
 internalLinks:
   - href: "/november-calendars.html"
     label: "November 2026 printable calendar"
@@ -160,14 +168,14 @@ What the first numbers contain differs by state. In California, the Secretary of
 - **When mail ballots can be processed.** Opening envelopes and checking signatures takes time. Pennsylvania and Wisconsin cannot start until 7 a.m. on Election Day, so their mail ballots pile up; Florida, Arizona and Michigan can start days or weeks earlier.
 - **Late-arriving ballots.** Some states count ballots postmarked by Election Day that arrive afterward, so their totals keep growing for days.
 - **Cure periods and provisional ballots.** Voters may get a few days to fix a missing or mismatched signature.
-- **Ranked-choice voting.** In Maine and Alaska, if no candidate wins a majority, later rounds are tabulated after all ballots are in; in Alaska that is about two weeks after Election Day.
+- **Ranked-choice voting.** In Maine and Alaska, if no candidate wins a majority, later rounds are tabulated after all ballots are in; in Alaska, the Anchorage Daily News and Alaska Public Media both report that the ranked-choice tabulation is scheduled for Wednesday, Nov. 18, 2026, and the Anchorage Daily News adds that results are set to be certified Wednesday, Nov. 25. The tabulation applies only to races where no candidate passes 50% of first-choice votes.
 - **Recounts.** Very close margins can trigger automatic or requested recounts.
 
 ## The timeline in 17 key states
 
 | State | Mail ballots can be processed | Postmarked ballots that arrive late | State certification |
 |---|---|---|---|
-| Alaska | Reviewed 7 days before; counted from 8 p.m. Nov. 3 | Counted if received within 10 days | Late November, after ranked-choice tally |
+| Alaska | Reviewed 7 days before; counted from 8 p.m. Nov. 3 | Counted if received within 10 days | Ranked-choice tally Nov. 18; certification Nov. 25 (target) |
 | Arizona | 14 days before Election Day | Not counted; due 7 p.m. Nov. 3 | About Nov. 23 |
 | [California](/news/california-election-results-2026-polls-close-8-p-m-pt-when-the-count-ends/) | As they arrive, up to 29 days before | Counted if received by Nov. 10 | Dec. 11 |
 | Florida | 22 days before Election Day | Not counted; due 7 p.m. Nov. 3 | Nov. 17 |
@@ -203,7 +211,7 @@ In Watson v. Republican National Committee, decided June 29, 2026, the U.S. Supr
 | Nov. 12 | Colorado signature cure deadline |
 | Nov. 16 | California counties finish reporting all ballots, with some exceptions (computed from the Secretary of State's 13-day rule) |
 | Nov. 24 | Oregon's last day to resolve ballot challenges, per the Secretary of State |
-| Mid-November | Counties finish canvassing; ranked-choice rounds in Maine and Alaska |
+| Mid-November | Counties finish canvassing; ranked-choice rounds in Maine; Alaska's tabulation is scheduled for Nov. 18 |
 | Dec. 1 | Georgia runoff, if needed |
 | Dec. 3 | California counties complete final official results, per the Secretary of State |
 | Dec. 10 | Oregon certifies final results |
