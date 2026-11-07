@@ -15,6 +15,7 @@ import path from "node:path";
 const ROOT = path.resolve(import.meta.dirname, "..");
 const OUT_JSON = path.join(ROOT, "docs/desk/search-console.json");
 const OUT_MD = path.join(ROOT, "docs/desk/search-console.md");
+const OUT_PAGES = path.join(ROOT, "docs/desk/search-console-pages.json");
 const EXPERIMENTS = path.join(ROOT, "docs/desk/search-experiments.json");
 const DAY = 86_400_000;
 const LAG_DAYS = 3;
@@ -124,6 +125,35 @@ export function canonicalRows(rows) {
     m.position = m.impressions ? m._w / m.impressions : m.position;
   }
   return [...merged.values()].map(({ _w, ...r }) => r);
+}
+
+/**
+ * Every /news/ story page with its own numbers, not only the top 60 that search-console.json keeps.
+ * A story missing here had no impressions in the window; a page cut from the short lists did not.
+ * The desk decides merges and removals from this table, so it carries web, image and Discover for
+ * 28 days, the two 14-day halves and the page's top queries (from the query-page pairs, which the
+ * API caps at 5,000 rows, so a page's long tail can be missing).
+ */
+export function pageTable({ web = [], image = [], discover = [], cur = [], prev = [], pairs = [] }, { queriesPerPage = 5 } = {}) {
+  const slugOf = (url) => (section(url) === "news" ? (url.replace(/[?#].*$/, "").match(/\/news\/([^/]+)\/?$/) ?? [])[1] : undefined);
+  const out = {};
+  const row = (slug) => (out[slug] ??= { web: { clicks: 0, impressions: 0, position: null }, image: { clicks: 0, impressions: 0 }, discover: { clicks: 0, impressions: 0 }, web14: { clicks: 0, impressions: 0 }, webPrev14: { clicks: 0, impressions: 0 }, queries: [] });
+  const add = (rows, key, withPosition = false) => {
+    for (const r of rows) {
+      const slug = slugOf(r.keys[0]);
+      if (!slug) continue;
+      const t = row(slug)[key];
+      t.clicks += r.clicks; t.impressions += r.impressions;
+      if (withPosition) t.position = round1(r.position);
+    }
+  };
+  add(web, "web", true); add(image, "image"); add(discover, "discover"); add(cur, "web14"); add(prev, "webPrev14");
+  for (const r of [...pairs].sort((a, b) => b.impressions - a.impressions)) {
+    const slug = slugOf(r.keys[1]);
+    if (!slug || !out[slug] || out[slug].queries.length >= queriesPerPage) continue;
+    out[slug].queries.push({ query: r.keys[0], clicks: r.clicks, impressions: r.impressions, position: round1(r.position) });
+  }
+  return Object.fromEntries(Object.entries(out).sort(([a], [b]) => a.localeCompare(b)));
 }
 
 /**
@@ -434,6 +464,8 @@ async function main() {
     };
     writeFileSync(OUT_JSON, `${JSON.stringify(data, null, 1)}\n`);
     writeFileSync(OUT_MD, report(data));
+    const pageRows = pageTable({ web: pages, image: imagePages, discover: discoverPages, cur: pagesCur, prev: pagesPrev, pairs });
+    writeFileSync(OUT_PAGES, `${JSON.stringify({ generatedAt: data.generatedAt, window: q28, halves: { web14: cur14, webPrev14: prev14 }, note: "Every /news/ page with web, image or Discover impressions in the 28 days; a story not listed had none. Top queries come from the 5,000 largest query-page rows.", pages: pageRows }, null, 1)}\n`);
     console.log(`search console: ${bySection.news.length} /news/ pages, ${data.opportunities.length} opportunities, ${data.image.pages.length} image pages, ${data.discover.pages.length} Discover pages, ${indexed.indexed}/${indexed.checked} indexed in the gate sample (${indexed.unknown} unknown), ${data.experiments.length} experiments`);
   } catch (e) {
     console.log(`::warning::search console: ${e.message}; files left as they are`);
