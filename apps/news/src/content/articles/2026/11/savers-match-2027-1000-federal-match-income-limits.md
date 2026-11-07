@@ -153,7 +153,7 @@ Eligible plans include a 401(k), 403(b) or governmental 457(b) plan, and the IRS
 2. **2028:** you file Form 8880-A with your 2027 federal tax return, which the IRS says is filed in 2028.
 3. **After you file:** the IRS says the match is "deposited directly into your designated retirement account." IR-2026-89 says it will be paid to eligible taxpayers starting in 2028.
 
-Neither the IRS page nor IR-2026-89 gives a deposit date, so the date of the 2028 deposit is not yet announced.
+Neither the IRS page nor IR-2026-89 gives a deposit date, so the date of the 2028 deposit is not yet announced as of Nov. 7, 2026.
 
 | Date | Day | What happens |
 |---|---|---|

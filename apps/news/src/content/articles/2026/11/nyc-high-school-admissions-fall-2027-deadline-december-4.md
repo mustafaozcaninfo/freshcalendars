@@ -140,7 +140,7 @@ NYC Public Schools' own instructions point to a short list:
 - **Confirm who can apply.** NYC lists two requirements: a NYC resident, and a current eighth grade or first-time ninth grade student.
 - **Apply to 12 or more options.** The page says "we recommend you apply to at least twelve" and that you can add any number of programs. Twelve is a recommendation, not a limit.
 - **Rank in your true order.** NYC says to "always place the programs on your application in your true order of preference."
-- **Submit online or through a school counselor.** Both routes are listed.
+- **Where to submit:** online or through a school counselor. Both routes are listed.
 - **Check your SHSAT date.** The Specialized High Schools page says "all registered students will be scheduled for a SHSAT testing date in November."
 - **Upload auditions before the deadline.** All audition schools, including LaGuardia High School, accept virtual auditions, and they "must be uploaded to MySchools during the application period."
 
