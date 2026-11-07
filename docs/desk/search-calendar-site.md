@@ -2,6 +2,12 @@
 
 Written by the search desk (`s`) for pages outside `/news/` (printable calendars, `/when-is/`, holiday pages). They come from the generator (shared code), so the desk files no update item: each entry names the page, the query, the position and click rate, and the title, description or H1 template change it suggests. Newest first. The manager makes the change in `packages/generator` and strikes the entry.
 
+## 2026-11-07 (search desk, morning)
+
+- **Indexing and sitemaps clear, no volume signal.** Read of Nov. 7, 09:13 UTC (windows to Nov. 4): 90 of 90 sampled stories "Submitted and indexed" (gate 55 of 55), all three sitemaps 0 errors. /news/ web 3,595 clicks in the week Oct. 29 to Nov. 4 against 1,620 the week before (642,016 impressions against 414,115); image 581 against 391. Discover still 0 for a third week: worth the manager's look at whether /news/ meets Discover's image and page requirements (large hero, `max-image-preview:large`).
+- **/when-is/christmas-day/**: "christmas 2026 date" 749 impressions at position 10.6, 0 clicks. A date Google answers in its own box; no template change unless the page reaches the top 5.
+- **/september-calendars.html**: "september 2027 calendar" 1,270 impressions at position 9.1, 2 clicks (2,462 page impressions at 7.7, 5 clicks). The month pages rank for next year's month; a title template that names both years ("September 2026 and 2027 Calendars: Free Printable") would match the query. Measure the page's click rate over 28 days after the change.
+
 ## 2026-11-06 (search desk, evening)
 
 - **Nothing new for the manager.** Read of Nov. 6, 16:45 UTC (same windows as the morning read, ending Nov. 3): 90 of 90 sampled stories "Submitted and indexed" (gate 54 of 54), all three sitemaps 0 errors, /sitemap.xml last read by Google Oct. 28. No volume signal. The calendar-site notes of Nov. 3 (/september-calendars.html, /when-is/christmas-day/) still stand; no new data on them.
