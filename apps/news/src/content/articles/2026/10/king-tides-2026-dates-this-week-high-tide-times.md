@@ -1,10 +1,10 @@
 ---
 title: "King Tides 2026: California Dates Nov. 24-26, Dec. 23-25 and Jan. 21-22, High Tide Times"
-seoTitle: "King Tides 2026: California Dates and High Tide Times"
-description: "National Weather Service (NWS) coastal flood warnings covered South Florida to Georgia Oct. 28, 2026. California king tides: Nov. 24-26, Dec. 23-25, Jan. 21-22."
+seoTitle: "King Tides 2026: Nov. 24-26 California Dates and Tide Times"
+description: "California king tides 2026 arrive Nov. 24-26, with San Francisco's high tide predicted at 7.03 feet on Nov. 25. Next come Dec. 23-25 and Jan. 21-22, 2027."
 type: news
 publishedAt: "2026-10-27T07:45:00-04:00"
-updatedAt: "2026-11-03T09:22:00-05:00"
+updatedAt: "2026-11-07T07:20:00-05:00"
 authors: [jessica-hartwell]
 category: sky-events
 keywords: ["king tides 2026", "king tide dates 2026", "king tides this week", "California king tides November 2026", "when are king tides"]
@@ -21,10 +21,10 @@ hero:
     author: "B137"
     authorUrl: "https://commons.wikimedia.org/wiki/User:B137"
 summary:
-  - "On Wednesday, Oct. 28, 2026, the National Weather Service (NWS) had coastal flood warnings from Miami-Dade County to coastal Georgia and advisories in the Carolinas, Texas and California."
-  - "San Francisco's highest predicted tide from Oct. 27 to 29, 2026 was 6.67 feet at 12:56 p.m. Pacific Daylight Time (PDT) on Wednesday, Oct. 28, per National Oceanic and Atmospheric Administration (NOAA) predictions."
   - "The California Coastal Commission lists the 2026-27 king tide dates as Nov. 24-26, Dec. 23-25 and Jan. 21-22, 2027."
-  - "NOAA predicts San Francisco's Nov. 24-26 highs at 6.94 to 7.03 feet, and its Dec. 24 high at 7.23 feet, all above the 6.67 feet of Oct. 28."
+  - "National Oceanic and Atmospheric Administration (NOAA) predicts San Francisco's Nov. 24-26 highs at 6.94 to 7.03 feet, and its Dec. 24 high at 7.23 feet, all above the 6.67 feet of Oct. 28."
+  - "San Francisco's highest predicted tide from Oct. 27 to 29, 2026 was 6.67 feet at 12:56 p.m. Pacific Daylight Time (PDT) on Wednesday, Oct. 28, per NOAA predictions."
+  - "On Wednesday, Oct. 28, 2026, the National Weather Service (NWS) had coastal flood warnings from Miami-Dade County to coastal Georgia and advisories in the Carolinas, Texas and California."
 faq:
   - q: "When are king tides in 2026?"
     a: "The California Coastal Commission's King Tides Project lists Nov. 24-26 and Dec. 23-25, 2026, and Jan. 21-22, 2027 for the whole state. Northern California locations may also include Dec. 22, Jan. 20 and Jan. 23."
@@ -105,13 +105,36 @@ downloads:
 draft: false
 ---
 
-**San Francisco's highest predicted tide from Tuesday, Oct. 27, to Thursday, Oct. 29, 2026 was 6.67 feet at 12:56 p.m. Pacific Daylight Time (PDT) on Wednesday, Oct. 28**, according to National Oceanic and Atmospheric Administration (NOAA) tide predictions. The official California king tides come later: Nov. 24-26 and Dec. 23-25, 2026, and Jan. 21-22, 2027, according to the California Coastal Commission's King Tides Project.
+**The next California king tides are Tuesday, Nov. 24 to Thursday, Nov. 26, 2026, according to the California Coastal Commission's King Tides Project, and National Oceanic and Atmospheric Administration (NOAA) predictions put San Francisco's highest at 7.03 feet at 10:49 a.m. Pacific Standard Time (PST) on Wednesday, Nov. 25.** Two more windows follow: Dec. 23-25, 2026, and Jan. 21-22, 2027.
 
-Those tides followed the full moon of Oct. 26, and the Commission's list does not include Oct. 26-29. They were a high-water stretch, not king tides. NOAA's Ocean Service says a king tide is a non-scientific term people often use to describe exceptionally high tides.
+## When are the official California king tides?
 
-## What were the high tide times on Oct. 27-29?
+The California Coastal Commission lists these statewide dates: Nov. 24-26, 2026, Dec. 23-25, 2026, and Jan. 21-22, 2027. Northern California locations may also include Dec. 22, Jan. 20 and Jan. 23. The third November day, Thursday, Nov. 26, is Thanksgiving Day.
 
-NOAA Tides & Currents predicted these heights in feet above Mean Lower Low Water (MLLW), in local daylight time. Each cell shows the higher of the day's two high tides.
+The Commission says it picks the dates from the highest predicted astronomical tides for California. NOAA says higher than normal tides typically occur during a new or full moon and when the moon is at its closest point to Earth, called perigee. Our comparison of the Commission's dates with the U.S. Naval Observatory (USNO) phases data, which is in Coordinated Universal Time (UTC): the full moons fall on Nov. 24 (14:53 UTC, 9:53 a.m. Eastern Standard Time, EST), Dec. 24 (01:28 UTC, which is 8:28 p.m. EST on Wednesday, Dec. 23) and Jan. 22, 2027 (12:17 UTC, 7:17 a.m. EST). Each of the three king tide windows includes one of those full-moon dates.
+
+## How high are the king tides compared with Oct. 28?
+
+NOAA predictions for San Francisco and Seattle on the official days, in feet above Mean Lower Low Water (MLLW). Times from Nov. 1 are PST, because clocks fell back on Nov. 1. Each cell shows the day's higher high tide.
+
+| Day | San Francisco | Seattle |
+|---|---|---|
+| Tue., Nov. 24, 2026 | 6.94 ft, 10:05 a.m. | 11.93 ft, 5:08 a.m. |
+| Wed., Nov. 25, 2026 | 7.03 ft, 10:49 a.m. | 12.44 ft, 5:57 a.m. |
+| Thu., Nov. 26, 2026 | 6.95 ft, 11:38 a.m. | 12.67 ft, 6:48 a.m. |
+| Wed., Dec. 23, 2026 | 7.19 ft, 9:46 a.m. | 12.26 ft, 5:13 a.m. |
+| Thu., Dec. 24, 2026 | 7.23 ft, 10:37 a.m. | 12.70 ft, 5:58 a.m. |
+| Fri., Dec. 25, 2026 | 7.08 ft, 11:30 a.m. | 12.93 ft, 6:40 a.m. |
+| Thu., Jan. 21, 2027 | 7.11 ft, 9:39 a.m. | 12.26 ft, 5:03 a.m. |
+| Fri., Jan. 22, 2027 | 7.09 ft, 10:33 a.m. | 12.64 ft, 5:37 a.m. |
+
+At San Francisco, the highest of these days is Dec. 24 at 7.23 feet, 0.56 foot above the 6.67 feet predicted for Oct. 28. Every official San Francisco day is above the Oct. 28 peak. Seattle is different: its Nov. 24 high of 11.93 feet is below the 12.00 feet predicted for Oct. 28. These Seattle numbers are NOAA predictions on California's dates; we could not confirm an official Washington or Oregon king tide list for 2026-27.
+
+## The Oct. 27-29 high tides, for comparison
+
+San Francisco's highest predicted tide from Tuesday, Oct. 27, to Thursday, Oct. 29, 2026 was 6.67 feet at 12:56 p.m. Pacific Daylight Time (PDT) on Wednesday, Oct. 28, per NOAA. Those tides followed the full moon of Oct. 26, and the Commission's list does not include Oct. 26-29. They were a high-water stretch, not king tides. NOAA's Ocean Service says a king tide is a non-scientific term people often use to describe exceptionally high tides.
+
+NOAA Tides & Currents predicted these heights in feet above MLLW, in local daylight time. Each cell shows the higher of the day's two high tides.
 
 | Station | Tue., Oct. 27 | Wed., Oct. 28 | Thu., Oct. 29 |
 |---|---|---|---|
@@ -142,29 +165,6 @@ The National Weather Service (NWS) had these coastal flood alerts in effect as o
 | Aransas, Nueces, Kleberg and Calhoun islands, Texas | Corpus Christi | Coastal Flood Advisory | 5 a.m. Thu., Oct. 29 |
 
 In Miami, NOAA predicted high tides at Virginia Key of 2.94 feet at 11:20 a.m. and 2.77 feet at 11:23 p.m. EDT on Wednesday, Oct. 28, then 2.87 feet at 12:11 p.m. on Thursday, Oct. 29. The NWS Miami office had said moderate to major coastal flooding would peak around the Oct. 27-28 high tides; its coastal flood warnings for those days have since expired. Flooding tends to be worst for an hour or two either side of each high tide.
-
-## When are the official California king tides?
-
-The California Coastal Commission lists these statewide dates: Nov. 24-26, 2026, Dec. 23-25, 2026, and Jan. 21-22, 2027. Northern California locations may also include Dec. 22, Jan. 20 and Jan. 23. The third November day, Thursday, Nov. 26, is Thanksgiving Day.
-
-The Commission says it picks the dates from the highest predicted astronomical tides for California. NOAA says higher than normal tides typically occur during a new or full moon and when the moon is at its closest point to Earth, called perigee. Our comparison of the Commission's dates with the U.S. Naval Observatory (USNO) phases data, which is in Coordinated Universal Time (UTC): the full moons fall on Nov. 24 (14:53 UTC, 9:53 a.m. Eastern Standard Time, EST), Dec. 24 (01:28 UTC, which is 8:28 p.m. EST on Wednesday, Dec. 23) and Jan. 22, 2027 (12:17 UTC, 7:17 a.m. EST). Each of the three king tide windows includes one of those full-moon dates.
-
-## How high are the king tides compared with Oct. 28?
-
-NOAA predictions for San Francisco and Seattle on the official days, in feet above MLLW. Times from Nov. 1 are Pacific Standard Time (PST), because clocks fell back on Nov. 1. Each cell shows the day's higher high tide.
-
-| Day | San Francisco | Seattle |
-|---|---|---|
-| Tue., Nov. 24, 2026 | 6.94 ft, 10:05 a.m. | 11.93 ft, 5:08 a.m. |
-| Wed., Nov. 25, 2026 | 7.03 ft, 10:49 a.m. | 12.44 ft, 5:57 a.m. |
-| Thu., Nov. 26, 2026 | 6.95 ft, 11:38 a.m. | 12.67 ft, 6:48 a.m. |
-| Wed., Dec. 23, 2026 | 7.19 ft, 9:46 a.m. | 12.26 ft, 5:13 a.m. |
-| Thu., Dec. 24, 2026 | 7.23 ft, 10:37 a.m. | 12.70 ft, 5:58 a.m. |
-| Fri., Dec. 25, 2026 | 7.08 ft, 11:30 a.m. | 12.93 ft, 6:40 a.m. |
-| Thu., Jan. 21, 2027 | 7.11 ft, 9:39 a.m. | 12.26 ft, 5:03 a.m. |
-| Fri., Jan. 22, 2027 | 7.09 ft, 10:33 a.m. | 12.64 ft, 5:37 a.m. |
-
-At San Francisco, the highest of these days is Dec. 24 at 7.23 feet, 0.56 foot above the 6.67 feet predicted for Oct. 28. Every official San Francisco day is above the Oct. 28 peak. Seattle is different: its Nov. 24 high of 11.93 feet is below the 12.00 feet predicted for Oct. 28. These Seattle numbers are NOAA predictions on California's dates; we could not confirm an official Washington or Oregon king tide list for 2026-27.
 
 ## What does NOAA predict at The Battery, New York, on the same winter dates?
 

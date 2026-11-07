@@ -1,10 +1,10 @@
 ---
-title: "Thanksgiving Football Schedule 2026: Every NFL and College Game From Wednesday to Saturday"
-seoTitle: "Thanksgiving Football 2026: NFL and College Games"
-description: "Every Thanksgiving weekend 2026 football game, Wed., Nov. 25 to Sat., Nov. 28, in one Eastern Time (ET) table: National Football League (NFL) and college."
+title: "Thanksgiving Football 2026: Bears-Lions, Eagles-Cowboys, Chiefs-Bills and College Games"
+seoTitle: "Thanksgiving Football 2026: Lions, Cowboys, Bills Game Times"
+description: "Thanksgiving football 2026, Eastern Time (ET): Bears-Lions 1 p.m., Eagles-Cowboys 4:30, Chiefs-Bills 8:20 on Nov. 26, plus Packers-Rams and every college game."
 type: news
 publishedAt: "2026-10-23T15:00:00-04:00"
-updatedAt: "2026-11-03T17:25:00-05:00"
+updatedAt: "2026-11-07T07:18:00-05:00"
 authors: [jessica-hartwell]
 corrections:
   - date: "2026-10-24T01:40:00-04:00"
@@ -141,7 +141,7 @@ downloads:
 draft: false
 ---
 
-**Thanksgiving weekend 2026 runs four days of football, from Wednesday, Nov. 25 to Saturday, Nov. 28, and this story puts every game, professional and college, in one Eastern Time (ET) table.** The National Football League (NFL) plays three games on Thursday, one college game shares the night, and college football takes over on Friday and Saturday.
+**The three Thanksgiving Day National Football League (NFL) games on Thursday, Nov. 26, 2026 are Bears at Lions at 1 p.m. Eastern Time (ET) on CBS, Eagles at Cowboys at 4:30 p.m. on FOX and Chiefs at Bills at 8:20 p.m. on NBC, and Packers at Rams opens the weekend on Wednesday, Nov. 25.** Thanksgiving weekend 2026 runs four days of football, from Wednesday, Nov. 25 to Saturday, Nov. 28, and this story puts every game, professional and college, in one table. One college game shares Thursday night, and college football takes over on Friday and Saturday.
 
 Where a source gives a Central Time (CT) kickoff, both times are shown. Two of the college games air on the American Broadcasting Company (ABC). Kickoffs marked "to be announced" are set by the television networks closer to the date.
 
