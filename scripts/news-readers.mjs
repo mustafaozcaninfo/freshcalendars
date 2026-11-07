@@ -158,7 +158,7 @@ if (import.meta.url === `file://${process.argv[1]}`) {
   const flags = clarity ? clarityFlags(clarityPages(clarity), stories) : [];
   const cats = beacon.pages ? byCategory(beacon.pages, beacon.pagesPrev, stories) : [];
   let history = read("clarity-history.json") ?? [];
-  if (clarity?.devices && !clarity.failed?.length) history = [...history.filter((r) => r.day !== day), clarityRow(clarity, day)].slice(-120);
+  if (clarity?.devices && !clarity.failed?.length && clarity.generatedAt?.slice(0, 10) === day) history = [...history.filter((r) => r.day !== day), clarityRow(clarity, day)].slice(-120);
   const readers = readersMd({ now, leavers, flags, cats, uxExperiments: beacon.experiments });
   const weekly = weeklyMd({ now, beacon, history, gsc, cats });
   if (process.argv.includes("--stdout")) console.log(readers + "\n\n" + weekly);

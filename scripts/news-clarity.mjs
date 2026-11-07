@@ -4,11 +4,11 @@
 // scroll depth, engagement time, dead, rage and quick-back clicks, script errors). Writes
 // docs/desk/clarity.{md,json}; the daily Search Console workflow runs it with CLARITY_API_TOKEN
 // (Clarity > Settings > Data Export, a project admin's token).
-//   node scripts/news-clarity.mjs [--stdout]
+//   node scripts/news-clarity.mjs [--stdout] [--force]
 // The API allows 10 requests a day per project and 1,000 rows each; this uses 3. Optional:
 // without the token it exits 0, and a refused request is reported, never fatal.
 // Clarity documents only the Traffic fields, so the tables print whatever fields each metric has.
-import { writeFileSync } from "node:fs";
+import { readFileSync, writeFileSync } from "node:fs";
 import path from "node:path";
 
 const ROOT = path.join(import.meta.dirname, "..");
@@ -53,6 +53,16 @@ if (import.meta.url === `file://${process.argv[1]}`) {
     process.exit(0);
   }
   const now = new Date(), data = {}, failed = [];
+  // The API allows 10 requests a day and the workflow can run twice (Worker cron and GitHub's own
+  // schedule): read again only when the last complete read is 20 or more hours old, and keep the
+  // last good data of a view that fails.
+  let last = null;
+  try { last = JSON.parse(readFileSync(path.join(ROOT, "docs/desk/clarity.json"), "utf8")); } catch {}
+  const fresh = last && !last.failed?.length && now - Date.parse(last.generatedAt) < 20 * 3_600_000;
+  if (fresh && !process.argv.includes("--force")) {
+    console.log(`clarity: last complete read ${last.generatedAt} is under 20 hours old; not read again`);
+    process.exit(0);
+  }
   for (const [view, dim] of Object.entries(VIEWS)) {
     try {
       const res = await fetch(`${API}?numOfDays=1&dimension1=${encodeURIComponent(dim)}`, {
@@ -65,6 +75,7 @@ if (import.meta.url === `file://${process.argv[1]}`) {
     } catch (e) {
       failed.push(`${view}: ${e.message}`);
       console.log(`::warning::clarity: ${view}: ${e.message}`);
+      if (last?.[view]) data[view] = last[view];
     }
   }
   const md = report(now, data, failed);
