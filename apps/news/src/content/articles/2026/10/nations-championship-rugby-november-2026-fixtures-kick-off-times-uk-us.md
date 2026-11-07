@@ -4,7 +4,7 @@ seoTitle: "Nations Championship Nov. 2026 Fixtures and Kick-Off Times"
 description: "The Nations Championship runs Nov. 6-29, 2026, with England v New Zealand on Nov. 21 at 2:10pm Greenwich Mean Time (GMT), 9:10 a.m. Eastern Time (ET)."
 type: news
 publishedAt: "2026-10-28T00:02:00-04:00"
-updatedAt: "2026-11-01T04:50:00-05:00"
+updatedAt: "2026-11-07T03:24:00-05:00"
 authors: [christina-gerland]
 category: uk-canada
 keywords: ["nations championship november 2026 fixtures", "autumn internationals 2026 kick-off times", "england v new zealand 2026 kick-off time", "nations championship finals twickenham"]
@@ -65,7 +65,7 @@ summary:
   - "The Nations Championship November series runs from Fri., Nov. 6 to Sat., Nov. 21, 2026 (Rounds 4 to 6), with Finals Weekend at Allianz Stadium, Twickenham, on Nov. 27 to 29, per Rugby Australia and Scottish Rugby."
   - "England v New Zealand is Sat., Nov. 21 at 2:10pm Greenwich Mean Time (GMT), which is 9:10 a.m. Eastern Time (ET) and 6:10 a.m. Pacific Time (PT)."
   - "The final, first-placed North team v first-placed South team, is Sun., Nov. 29 at 4:40pm GMT, 11:40 a.m. ET and 8:40 a.m. PT."
-  - "A U.S. broadcaster was not yet announced in the sources we checked; Independent Television (ITV) and Scottish Television (STV) were reported to hold UK free-to-air rights."
+  - "A U.S. broadcaster was not yet announced in the sources we checked; Independent Television (ITV) holds exclusive UK free-to-air rights to the 2026 and 2028 editions, per Advanced Television and Rugby World."
 faq:
   - q: "What time is England v New Zealand in the Nations Championship?"
     a: "Saturday 21 November 2026 at 2:10pm GMT at Allianz Stadium, Twickenham. That is 9:10 a.m. ET and 6:10 a.m. PT. The time comes from Rugby Australia's list, converted by Fresh Calendars from Australian Eastern Daylight Time."
@@ -90,6 +90,14 @@ sources:
   - title: "ITV secures free-to-air rights for Nations Championship rugby tournament"
     url: "https://www.broadcastnow.co.uk/broadcasting/itv-secures-free-to-air-rights-for-nations-championship-rugby-tournament/5213024.article"
     publisher: "BroadcastNow"
+  - title: "ITV scores new international rugby deal"
+    url: "https://www.advanced-television.com/2026/01/26/itv-scores-new-international-rugby-deal/"
+    publisher: "Advanced Television"
+    date: "2026-01-26"
+  - title: "What does ITV's new rugby deal mean for me as a fan?"
+    url: "https://www.rugbyworld.com/?p=181659"
+    publisher: "Rugby World"
+    date: "2026-01-28"
 downloads:
   - group: "Nations Championship November 2026 Fixtures and Kick-Off Times printables"
     title: "Nations Championship November 2026 Fixtures and Kick-Off Times"
@@ -194,7 +202,7 @@ Rugby Australia's page lists the results of Rounds 1 and 2. It does not list Rou
 
 ## Where can I watch the Nations Championship?
 
-Rugby Australia says Stan Sport shows every game in Australia. In the UK, BroadcastNow reported that Independent Television (ITV) and Scottish Television (STV) hold free-to-air rights; that is a trade report, not a broadcaster listing. A U.S. broadcaster was not yet announced in the sources we checked, so check your local listings.
+Rugby Australia says Stan Sport shows every game in Australia. In the UK, Advanced Television and Rugby World both reported in January 2026 that Independent Television (ITV) holds the exclusive free-to-air rights to the 2026 and 2028 editions. Advanced Television adds that ITV and Scottish Television (STV) are the exclusive free-to-air home of the tournament for viewers in the UK. These are press reports, not a broadcaster listing. A U.S. broadcaster was not yet announced in the sources we checked, so check your local listings.
 
 For other UK sport on U.S. clocks, see the [FA Cup first round kick-off times](/news/fa-cup-first-round-2026-27-fixtures-tv-picks-kickoff-times/) and the [Carabao Cup fourth round schedule](/news/carabao-cup-fourth-round-2026-schedule-kickoff-times-tv-us-uk/). The 5-hour gap to Eastern Time is explained in our [guide to the UK and Europe clock change](/news/uk-europe-clocks-go-back-october-25-2026-time-difference/).
 

@@ -4,7 +4,7 @@ seoTitle: "When Will We Know 2026 Midterm Election Results?"
 description: "Polls closed Nov. 3, 2026, but counting takes days in some states. When mail ballots are counted in 17 key states, late-ballot rules and certification dates."
 type: explainer
 publishedAt: "2026-10-21T00:30:00-04:00"
-updatedAt: "2026-11-06T23:35:00-05:00"
+updatedAt: "2026-11-07T03:24:00-05:00"
 authors: [christina-gerland]
 category: elections
 keywords: ["when will we know election results 2026", "when will election results start coming in", "2026 midterm results timeline", "election results by state 2026", "when are election results certified"]
@@ -78,6 +78,14 @@ sources:
     url: "https://coloradosos.gov/pubs/newsRoom/pressReleases/2026/PR20261102ElectionResults.html"
     publisher: "Colorado Secretary of State"
     date: "2026-11-02"
+  - title: "Elections and Voter Information"
+    url: "https://www.sos.ca.gov/elections/"
+    publisher: "California Secretary of State"
+    date: "2026-11-07"
+  - title: "Voters can Fix Signature, ID issues using Colorado BallotCure for the 2026 General Election"
+    url: "https://www.coloradosos.gov/pubs/newsRoom/pressReleases/2026/PR20261106BallotCure.html"
+    publisher: "Colorado Secretary of State"
+    date: "2026-11-06"
   - title: "Unprocessed Ballots Status | 2026 General Election | California Secretary of State"
     url: "https://electionresults.sos.ca.gov/unprocessed-ballots-status"
     publisher: "California Secretary of State"
@@ -108,19 +116,19 @@ draft: false
 
 **The first results arrived minutes after polls closed on Tuesday, Nov. 3, 2026, but they are unofficial, and in some states the count runs for days.** Election-night totals keep changing as officials add mail, provisional and overseas ballots, the U.S. Election Assistance Commission says. News organizations project winners when the trailing candidate can no longer catch up; states make results official later, through the canvass and certification. How fast each state reports depends mostly on its mail-ballot rules, which are laid out below for 17 states.
 
-## Where the 2026 count stands on Thursday, Nov. 5
+## Where the 2026 count stands on Saturday, Nov. 7
 
-Election-night totals are unofficial, and counting continues on Thursday, Nov. 5. It goes on in states that accept late mail ballots (Nevada until 5 p.m. Nov. 7, California and New York through Nov. 10; Texas's 5 p.m. Nov. 4 deadline has passed) and in ranked-choice states such as Maine and Alaska. California's Secretary of State says "in the days afterwards, the results will be updated each day throughout the canvass as counties count the remaining ballots," and that official certified results "will be posted by December 11, 2026."
+Election-night totals are unofficial, and counting continues on Saturday, Nov. 7. It goes on in states that accept late mail ballots (Nevada until 5 p.m. today, Nov. 7, California and New York through Nov. 10; Texas's 5 p.m. Nov. 4 deadline has passed) and in ranked-choice states such as Maine and Alaska. California's Secretary of State says "in the days afterwards, the results will be updated each day throughout the canvass as counties count the remaining ballots," and that official certified results "will be posted by December 11, 2026."
 
-The Secretary of State's canvass page sets the rest of California's schedule relative to Election Day. Computed from those rules for the Nov. 3, 2026 election: counties must count and report all ballots, with some exceptions, by the 13th day, Monday, Nov. 16; counties must send final results to the Secretary of State by 30 days after, Thursday, Dec. 3; and the Secretary of State certifies at 38 days, Friday, Dec. 11. Vote-by-mail ballots postmarked by Election Day and received within seven days count, which gives Nov. 10.
+California's Secretary of State now prints the main dates on its elections page: vote-by-mail ballots "must be postmarked on or before Election Day and received by November 10, 2026," "County elections officials must complete final official results by December 3, 2026," and "The Secretary of State will certify results on December 11, 2026." Its canvass page adds one more step, computed from its 13-day rule: counties must count and report all ballots, with some exceptions, by Monday, Nov. 16.
 
 In Clark County, Nevada, voters can fix a mail ballot signature problem until 5 p.m. on Nov. 9, according to the county Election Department.
 
-Three more states are still receiving or curing ballots. Oregon's Secretary of State now lists the dates on its current-election page: the "Last day for counties to receive valid postmarked ballots by mail" is Tuesday, Nov. 10, the "Last day to resolve ballot challenges" is Tuesday, Nov. 24, and Oregon says final results "will be certified and made available on December 10." In Colorado, the Secretary of State's Nov. 2 release says counties "upload results periodically through the night," and gives Nov. 12, 2026, as the signature cure deadline.
+Three more states are still receiving or curing ballots. Oregon's Secretary of State now lists the dates on its current-election page: the "Last day for counties to receive valid postmarked ballots by mail" is Tuesday, Nov. 10, the "Last day to resolve ballot challenges" is Tuesday, Nov. 24, and Oregon says final results "will be certified and made available on December 10." In Colorado, the Secretary of State's Nov. 2 release says counties "upload results periodically through the night," and its Nov. 6 release repeats the cure deadline: "Voters have until November 12 to correct any signature or ID issue with their 2026 General Election ballot," through their county or the Colorado BallotCure tool on GoVoteColorado.gov.
 
 The Pennsylvania Department of State lists Nov. 10 as the last day for county election offices to receive completed military and overseas absentee ballots that were submitted for delivery no later than 11:59 p.m. on Nov. 2, so Pennsylvania counties can still receive those ballots.
 
-California's Secretary of State says on its unprocessed ballots status page for the Nov. 3, 2026 election that "it typically takes weeks for counties to process and count all of the ballots"; on the morning of Nov. 5 that [page](https://electionresults.sos.ca.gov/unprocessed-ballots-status) showed no statewide unprocessed-ballot total. We could not confirm from most state election offices how many ballots remain to be counted, and as of Nov. 5 we have no confirmation that any state has finished counting. Check your state's election office through our [live blog](/news/election-day-2026-results-map/) for the latest.
+California's Secretary of State says on its unprocessed ballots status page for the Nov. 3, 2026 election that "it typically takes weeks for counties to process and count all of the ballots"; on the morning of Nov. 5 that [page](https://electionresults.sos.ca.gov/unprocessed-ballots-status) showed no statewide unprocessed-ballot total. We could not confirm from most state election offices how many ballots remain to be counted, and as of the morning of Nov. 7 no state election office we checked says its count is finished. Check your state's election office through our [live blog](/news/election-day-2026-results-map/) for the latest.
 
 We are tracking the returns state by state in our [Election Night 2026 live blog](/news/election-day-2026-results-map/), with a results map, a scoreboard and a link to every state's election office.
 
@@ -197,7 +205,7 @@ In Watson v. Republican National Committee, decided June 29, 2026, the U.S. Supr
 | Nov. 24 | Oregon's last day to resolve ballot challenges, per the Secretary of State |
 | Mid-November | Counties finish canvassing; ranked-choice rounds in Maine and Alaska |
 | Dec. 1 | Georgia runoff, if needed |
-| Dec. 3 | California counties send final results to the Secretary of State (computed from the 30-day rule) |
+| Dec. 3 | California counties complete final official results, per the Secretary of State |
 | Dec. 10 | Oregon certifies final results |
 | Late Nov.-Dec. | States certify results |
 | Jan. 3, 2027 | The new Congress is sworn in |
