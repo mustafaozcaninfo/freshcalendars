@@ -81,7 +81,7 @@ internalLinks:
     label: "November 2026 printable calendar"
   - href: "/december-calendars.html"
     label: "December 2026 printable calendar"
-related: [carabao-cup-fourth-round-2026-schedule-kickoff-times-tv-us-uk, uk-europe-clocks-go-back-october-25-2026-time-difference, bonfire-night-2026-thursday-november-5-fireworks-rules]
+related: [carabao-cup-fourth-round-2026-schedule-kickoff-times-tv-us-uk, uk-europe-clocks-go-back-october-25-2026-time-difference, carabao-cup-quarter-finals-2026-27-fixtures-kickoff-times-tv]
 downloads:
   - group: "FA Cup 2026-27 First Round TV Picks and Round Dates printables"
     title: "FA Cup 2026-27 First Round TV Picks and Round Dates"
