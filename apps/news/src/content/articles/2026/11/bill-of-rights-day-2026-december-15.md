@@ -112,7 +112,7 @@ internalLinks:
     label: "December 2026 printable calendar"
   - href: "/when-is/christmas-day/"
     label: "When is Christmas Day?"
-related: [human-rights-day-2026-december-10, wright-brothers-day-2026-december-17, december-2026-important-dates-holidays-days-until]
+related: [human-rights-day-2026-december-10, rosa-parks-day-2026-december-1-states, december-2026-important-dates-holidays-days-until]
 downloads:
   - group: "Bill of Rights Day 2026 Amendments Activity Sheet printables"
     title: "Bill of Rights Day 2026 Amendments Activity Sheet"
