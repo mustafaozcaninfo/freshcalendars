@@ -6,6 +6,7 @@ type: explainer
 publishedAt: "2026-11-03T00:05:00-05:00"
 authors: [news-desk]
 category: puzzles
+noindex: true
 keywords: ["Wordle hint today", "Wordle 1964", "Wordle answer November 4 2026", "Wordle today", "Wordle clues"]
 dateline: "New York"
 hero:

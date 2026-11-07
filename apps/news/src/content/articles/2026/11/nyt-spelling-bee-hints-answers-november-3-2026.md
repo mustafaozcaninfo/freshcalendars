@@ -6,6 +6,7 @@ type: explainer
 publishedAt: "2026-11-02T00:05:00-05:00"
 authors: [news-desk]
 category: puzzles
+noindex: true
 keywords: ["Spelling Bee hints today", "Spelling Bee answers today", "NYT Spelling Bee November 3 2026", "Spelling Bee pangram today", "Spelling Bee hint grid"]
 dateline: "New York"
 hero:

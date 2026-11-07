@@ -14,17 +14,17 @@ hero:
   title: "Strands #983 hints, Nov. 11, 2026"
   caption: "Strands puzzle #983 for Wednesday, Nov. 11, 2026: hints for the spangram and theme words first, all answers only at the end."
 summary:
-  - "Strands #983 falls on Wednesday, Nov. 11, 2026, and its clue is \"Work it out.\""
-  - "The spangram runs 11 letters and touches the left and right edges; the board holds six theme words."
-  - "Hints come first, then a map of where the words sit on the board."
-  - "Every answer is held back in the last section, behind a spoiler marker."
+  - "Strands #983 is Wednesday's board for Nov. 11, 2026, clued \"Work it out.\""
+  - "The eleven-letter spangram zigzags through the upper rows with seven turns and no straight run over three tiles."
+  - "Six answers name muscles or muscle sets, from four to ten letters, with the longest anchoring the bottom."
+  - "Hints come first; all answers sit in the spoiler section."
 faq:
-  - q: "Which edges does the Nov. 11 spangram reach?"
-    a: "It touches the left and right edges, starting at row 2, column 1 and ending at row 3, column 6."
-  - q: "What time does the next Strands puzzle arrive?"
-    a: "Puzzle #984 is the next one, available at midnight."
+  - q: "Why is Wednesday's spangram so hard to trace?"
+    a: "It changes direction seven times and never runs straight for more than three tiles, weaving through the top and center of the board between the second and fifth rows."
+  - q: "When does the next Strands puzzle arrive?"
+    a: "Puzzle #984 is next, live at midnight."
   - q: "What are the Strands answers for Nov. 11, 2026?"
-    a: "Spoilers: the theme words are Biceps, Hamstrings, Lats, Obliques, Pecs, Quads, and the spangram is Muscle Group."
+    a: "Spoilers: the theme words are Biceps, Hamstrings, Lats, Obliques, Pecs and Quads, and the spangram is Muscle Group."
 sources:
   - title: "Strands"
     url: "https://www.nytimes.com/games/strands"
@@ -37,55 +37,44 @@ internalLinks:
 related: [wordle-hint-answer-today-november-11-2026-1971, nyt-connections-hints-answers-november-11-2026-1249, nyt-pips-hints-answers-november-11-2026]
 draft: false
 ---
-**Today's Strands from The New York Times (NYT) is puzzle #983, for Wednesday, Nov. 11, 2026, and its theme clue is "Work it out."** The gym is open, and the board lists what a trainer might ask you to build. It was constructed by Christina Iverson and edited by Tracy Bennett. Hints for the spangram and each theme word come first; the answers wait in a marked spoiler section at the end.
-
-Today's board is six columns by eight rows and the spangram is eleven letters long; the rules are on our [Strands page](/news/topic/nyt-strands/#how-it-works).
+**Strands #983 is the Wednesday puzzle for Nov. 11, 2026, and The New York Times (NYT) sets the clue "Work it out."** The gym is open, and the board lists what a trainer might have you build. Christina Iverson constructed it, edited by Tracy Bennett. An eleven-letter spangram ties it together; what a spangram must do is laid out on our [Strands page](/news/topic/nyt-strands/#how-it-works). Hints come first, and every answer waits in the spoiler section at the end.
 
 ## Spangram hints
 
-- Hint 1: What a trainer calls the set of muscles an exercise targets.
-- Hint 2: Two words: the first is the tissue that contracts, the second means a collection.
-- Hint 3: Eleven letters, opening with M.
+- Hint one: what a trainer calls a set of muscles that work together, as "leg day" targets.
+- Hint two: two words. The first is the tissue that contracts; the second means a cluster or set.
+- Hint three: eleven letters across two words, starting with M.
 
 ## Theme word hints
 
-Six theme words, each a muscle or muscle set:
+Each answer is a muscle or a muscle set, shortest to longest:
 
-- **4 letters, starts with L:** wide back muscles, short for a Latin name.
-- **4 letters, starts with P:** chest muscles, short for pectorals.
-- **5 letters, starts with Q:** the front of the thigh.
-- **6 letters, starts with B:** the front of the upper arm, flexed for a photo.
-- **8 letters, starts with O:** the side abdominals, worked by twists.
-- **10 letters, starts with H:** the back of the thigh.
+- **4 letters, starts with L:** the broad back muscles, clipped from a Latin name.
+- **4 letters, starts with P:** the chest muscles, short for pectorals.
+- **5 letters, starts with Q:** the four-headed muscles on the front of the thigh.
+- **6 letters, starts with B:** the front of the upper arm, the one you flex for a photo.
+- **8 letters, starts with O:** the side abdominals that twist the torso.
+- **10 letters, starts with H:** the muscles at the back of the thigh.
 
-## Where today's spangram and theme words sit
+## The spangram knots up top; the big word anchors the bottom
 
-The spangram starts at row 2, column 1 and ends at row 3, column 6. On the way it reaches the left and right edges, covers rows 2 to 5 and columns 1 to 6, bends 7 times and has a longest straight stretch of 3 tiles.
+Rather than run in a line, the spangram tangles. It enters on the left edge in the second row and starts switching direction at once, stepping down, sideways and back up through the upper-left and the center. Across seven turns it never holds one direction for more than three tiles, and it exits on the right edge in the third row. All of its work stays between the second and fifth rows.
 
-Theme words cluster most in the bottom-left quarter, which covers rows 5 to 8 and columns 1 to 3. Of its 12 tiles, 11 belong to theme words and 1 to the spangram. Whole theme words that fit inside it: the 4-letter L word and the 4-letter P word.
-
-The longest theme word is the 10-letter H word, at 10 letters, and the 4-letter L word and the 4-letter P word tie for shortest at 4 letters. The spangram has 11 letters (1 over the longest theme word). Theme tiles by quarter: top-left 6, top-right 8, bottom-left 11, bottom-right 12.
-
-| Theme word | Rows | Columns | Where it sits |
-|---|---|---|---|
-| 6-letter B word | 1 | 1 to 6 | split top-right and top-left |
-| 10-letter H word | 5 to 8 | 3 to 6 | mostly bottom-right (8 of 10 tiles) |
-| 4-letter L word | 7 to 8 | 1 to 2 | entirely bottom-left |
-| 8-letter O word | 2 to 3 | 2 to 6 | mostly top-right (5 of 8 tiles) |
-| 4-letter P word | 5 to 6 | 1 to 2 | entirely bottom-left |
-| 5-letter Q word | 5 to 6 | 3 to 5 | mostly bottom-right (4 of 5 tiles) |
+That hands the bottom of the board to the longest answers. The ten-letter H word fills the bottom-right, the five-letter Q word sits beside it, and the four-letter L word and four-letter P word tuck into the bottom-left, each boxed inside a single quarter. Up top, the six-letter B word runs straight across the first row, with the eight-letter O word just below. The bottom-right quarter is the busiest, with all twelve of its tiles given to theme words.
 
 ## Solving tips
 
-Three of the six are slang shortenings, so check for short words ending in S. Keep a daily record on our [printable weekly calendar](/printable-weekly-calendar.html) or the [November 2026 printable calendar](/november-calendars.html).
+Three of the six are gym slang clipped short and ending in S, so hunt those first. The spangram zigzags so tightly that any path running straight for four tiles or more belongs to a theme word, not to it.
 
-More puzzles for this date: [Wordle](/news/wordle-hint-answer-today-november-11-2026-1971/), [Connections](/news/nyt-connections-hints-answers-november-11-2026-1249/) and [Pips](/news/nyt-pips-hints-answers-november-11-2026/).
+Keeping score across the week? The [printable weekly calendar](/printable-weekly-calendar.html) and the [November 2026 printable calendar](/november-calendars.html) are made for it.
+
+More for Wednesday: [Wordle](/news/wordle-hint-answer-today-november-11-2026-1971/), [Connections](/news/nyt-connections-hints-answers-november-11-2026-1249/) and [Pips](/news/nyt-pips-hints-answers-november-11-2026/).
 
 ## Today's Strands answers (spoilers)
 
-Stop here if you want to solve it yourself.
+Spoilers below. Turn back to keep working at it.
 
 - **Spangram:** Muscle Group
 - **Theme words:** Biceps, Hamstrings, Lats, Obliques, Pecs, Quads
 
-The theme words are six muscles or sets of muscles, and the spangram is the term for such a set.
+Each theme word is a muscle or set of muscles, and the spangram, Muscle Group, is the term a trainer uses for such a set.

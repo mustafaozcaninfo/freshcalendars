@@ -6,6 +6,7 @@ type: explainer
 publishedAt: "2026-11-01T00:05:00-05:00"
 authors: [news-desk]
 category: puzzles
+noindex: true
 keywords: ["Strands hints today", "NYT Strands November 2 2026", "Strands 974", "Strands spangram today", "Strands answers today"]
 dateline: "New York"
 hero:

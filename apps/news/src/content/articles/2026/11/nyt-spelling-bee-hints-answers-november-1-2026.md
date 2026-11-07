@@ -4,6 +4,7 @@ seoTitle: "Spelling Bee Hints Today, Nov. 1, 2026"
 description: "Spelling Bee for Sunday, Nov. 1, 2026: center letter E with F, G, I, O, P and T, the hint grid, two-letter list and pangram hint, then all 27 words."
 type: explainer
 publishedAt: "2026-10-31T00:05:00-04:00"
+updatedAt: "2026-11-07T12:52:00-05:00"
 authors: [news-desk]
 category: puzzles
 keywords: ["Spelling Bee hints today", "Spelling Bee answers today", "NYT Spelling Bee November 1 2026", "Spelling Bee pangram today", "Spelling Bee hint grid"]
@@ -14,27 +15,19 @@ hero:
   title: "Spelling Bee hints, Nov. 1, 2026"
   caption: "Spelling Bee for Sunday, Nov. 1, 2026: the hint grid and two-letter list first, the word list only in the spoiler section."
 summary:
-  - "Sunday's Spelling Bee from The New York Times, Nov. 1, 2026, uses the center letter E with F, G, I, O, P and T."
-  - "It has 27 words worth 104 points and one pangram; Genius needs 73 points, 70% of the total."
-  - "Hints come first: the grid, the two-letter list and a clue for the pangram, then the words in a spoiler section."
-  - "Saturday's full solution, with the pangram Haunting, is further down; every list comes from the puzzle data on the Spelling Bee page."
+  - "Sunday's New York Times Spelling Bee for Nov. 1, 2026 centers on E, surrounded by F, G, I, O, P and T."
+  - "The board is small: 27 words, 104 points and one pangram, with Genius set at 73."
+  - "G turns up in only two answers, while E runs through every one, and 14 words double a letter."
+  - "The grid, two-letter counts and a pangram clue come first; the word list follows the spoiler line."
 faq:
-  - q: "What are the Spelling Bee letters for Nov. 1, 2026?"
-    a: "The center letter is E, and the outer letters are F, G, I, O, P and T."
-  - q: "How many points does Genius need on Nov. 1, 2026?"
-    a: "73 of 104 possible points (70% is 72.8). The puzzle has 27 words and one pangram."
-  - q: "What is the Spelling Bee pangram for Nov. 1, 2026?"
-    a: "Spoiler: Pettifog."
-  - q: "What was the Spelling Bee pangram on Oct. 31, 2026?"
-    a: "Haunting, eight letters, the only pangram that day. The center letter was A and the outer letters were G, H, I, N, T and U."
-  - q: "How many points did Genius need on Oct. 31, 2026?"
-    a: "212 of 303 possible points (70% is 212.1). The puzzle had 59 words."
-  - q: "How is Spelling Bee scored?"
-    a: "A four-letter word scores 1 point, a longer word scores one point per letter, and a pangram, which uses all seven letters, adds 7 bonus points. Sunday's 27 words add up to 104 points under those rules."
-  - q: "Can letters be used more than once?"
-    a: "Yes. Every word must contain the center letter and be at least four letters long, and any letter can repeat, as in Peep or Teepee from Sunday's list."
-  - q: "Who edits Spelling Bee?"
-    a: "Sam Ezersky, according to the puzzle data on The New York Times' Spelling Bee page."
+  - q: "How many of the Nov. 1 answers use the letter G?"
+    a: "Only two: Ogee and the pangram. G is the scarcest outer letter on this board, while E appears in all 27 words."
+  - q: "Which word is the Nov. 1 pangram?"
+    a: "Spoiler: Pettifog, an eight-letter word carrying a double T."
+  - q: "What score reaches Genius on Nov. 1, 2026?"
+    a: "73 of the 104 points, which is 70% rounded up from 72.8."
+  - q: "Why does Nov. 1 have so many repeated-letter words?"
+    a: "The vowel-rich letter set invites them: 14 of the 27 answers double a letter back to back, and five hold three of the same letter, such as Teepee and Poppet."
 sources:
   - title: "Spelling Bee"
     url: "https://www.nytimes.com/puzzles/spelling-bee"
@@ -51,17 +44,11 @@ related: [wordle-hint-answer-today-november-1-2026-1961, nyt-connections-hints-a
 draft: false
 ---
 
-**Sunday's Spelling Bee from The New York Times (NYT), for Nov. 1, 2026, puts E in the center with F, G, I, O, P and T around it.** It has 27 words worth 104 points and one pangram, with Genius at 73 points. The hint grid, the two-letter list and the pangram clue come first; the full word list waits in a spoiler section, with Saturday's solution below it. U.S. daylight saving time ends that morning.
+**Sunday's New York Times (NYT) Spelling Bee for Nov. 1, 2026 keeps the center on E and rings it with F, G, I, O, P and T.** It is a compact board: 27 words, 104 points and a single pangram. The hint grid, the two-letter counts and one clue sit up top, and the full list waits behind the spoiler line. Clocks fell back an hour that same morning, so a short puzzle fits the slow start to the day.
 
-## How Spelling Bee works
+Genius needs 73 points, and the scoring rules live on our [Spelling Bee page](/news/topic/nyt-spelling-bee/#how-it-works).
 
-You get seven letters in a honeycomb. Each word must be at least four letters long and must use the yellow center letter; letters can repeat. A four-letter word is worth 1 point and a longer word is worth one point per letter. A pangram uses all seven letters and earns 7 extra points. Genius sits at 70% of the day's total, which is 73 of 104 points today.
-
-## How to use the hint grid
-
-The grid counts the answers by first letter and by length. Start with a row that has many short words, find those, then move to the longer columns. The two-letter list does the same job with more precision: "PE-4" means 4 answers begin with P and E.
-
-## Sunday's hint grid, Nov. 1, 2026
+## Sunday's hint grid
 
 Center letter E; outer letters F, G, I, O, P, T. 27 words, 104 points, one pangram.
 
@@ -74,19 +61,34 @@ Center letter E; outer letters F, G, I, O, P, T. 27 words, 104 points, one pangr
 | T | 3 | 1 | 4 | - | - | 8 |
 | Total | 13 | 3 | 9 | 1 | 1 | 27 |
 
-Two-letter starts: EF-1, EP-1, FE-2, FI-2, FO-1, OG-1, PE-4, PI-3, PO-4, TE-3, TI-2, TO-3.
+Two-letter starts: EF-1, EP-1, FE-2, FI-2, FO-1, OG-1, PE-4, PI-3, PO-4, TE-3, TI-2, TO-3. PE and PO tie at four apiece, the busiest openings on a grid this small.
 
-## Pangram hint
+## A clue for the pangram
 
-- **Pangram** (8 letters, starts with P): it has a double T in the middle.
+- **Pangram** (8 letters, starts with P): to quibble over petty, trivial points, often in a legal dispute; the middle of the word holds a double T.
 
-Look for doubles. A repeated letter sits side by side in 14 of Sunday's 27 answers, and four of them hold three E letters.
+## Where Sunday's 104 points sit
 
-More of Sunday's games: [Wordle hints](/news/wordle-hint-answer-today-november-1-2026-1961/), [Connections hints](/news/nyt-connections-hints-answers-november-1-2026-1239/) and [Pips hints](/news/nyt-pips-hints-answers-november-1-2026/). Track a Genius streak on our [printable weekly calendar](/printable-weekly-calendar.html) or the [November 2026 calendar](/november-calendars.html).
+| Length | Words | Points each | Points |
+|---|---|---|---|
+| 4 letters | 13 | 1 | 13 |
+| 5 letters | 3 | 5 | 15 |
+| 6 letters | 9 | 6 | 54 |
+| 7 letters | 1 | 7 | 7 |
+| 8 letters | 1 | 8 | 8 |
+| Pangram bonus | 1 | 7 | 7 |
+
+Every answer runs through E, so the real hunt is among the other six letters. G is the stingiest of them: just two words use it, and one of those is the pangram. P and T carry the board instead, opening 19 of the 27 answers between them. Repeated vowels pile up too, with a letter doubled side by side in 14 of the words and three of the same letter crammed into five of them, so once you land one -ee word, try its cousins.
+
+## Saturday in brief
+
+Saturday's Oct. 31 board ran much larger: A at the heart of it with G, H, I, N, T and U, good for 59 words and 303 points. Haunting was that day's lone pangram, a fitting word to close out Halloween.
+
+More of Sunday's puzzles: [Wordle hints](/news/wordle-hint-answer-today-november-1-2026-1961/), [Connections hints](/news/nyt-connections-hints-answers-november-1-2026-1239/) and [Pips hints](/news/nyt-pips-hints-answers-november-1-2026/). Keep a Genius streak going on the [November 2026 calendar](/november-calendars.html) or a [printable weekly calendar](/printable-weekly-calendar.html).
 
 ## Sunday's Spelling Bee answers, Nov. 1, 2026 (spoilers)
 
-Stop here if you are still working on Sunday's puzzle.
+Hold here if Sunday's grid is still open.
 
 - **Pangram:** Pettifog
 - **4 letters:** Epee, Feet, Fete, Fief, Fife, Ogee, Peep, Pipe, Poet, Pope, Teff, Tope, Tote
@@ -96,35 +98,3 @@ Stop here if you are still working on Sunday's puzzle.
 - **8 letters:** Pettifog
 
 The 13 four-letter words give 13 points, the 14 longer words give 84, and the pangram bonus adds 7, for 104.
-
-## Saturday's hint grid, Oct. 31, 2026
-
-Center letter A; outer letters G, H, I, N, T, U. 59 words, 303 points, one pangram.
-
-| Starts with | 4 letters | 5 letters | 6 letters | 7 letters | 8 letters | 9 letters | 10 letters | Total |
-|---|---|---|---|---|---|---|---|---|
-| A | 2 | 4 | 2 | - | 1 | 2 | - | 11 |
-| G | 5 | 2 | 1 | 4 | - | - | - | 12 |
-| H | 2 | 2 | 1 | 1 | 1 | - | - | 7 |
-| I | - | - | 1 | - | - | - | 1 | 2 |
-| N | 2 | - | 2 | 1 | - | - | - | 5 |
-| T | 5 | 4 | 3 | 3 | 2 | - | - | 17 |
-| U | - | 1 | 1 | - | 1 | 2 | - | 5 |
-| Total | 16 | 13 | 11 | 9 | 5 | 4 | 1 | 59 |
-
-Two-letter starts: AG-4, AN-2, AT-3, AU-2, GA-10, GI-1, GN-1, HA-7, IG-1, IN-1, NA-5, TA-13, TH-2, TI-1, TU-1, UN-5.
-
-## Saturday's Spelling Bee answers, Oct. 31, 2026 (spoilers)
-
-Stop here if you are still working on Saturday's puzzle.
-
-- **Pangram:** Haunting
-- **4 letters:** Anti, Aunt, Gaga, Gain, Gait, Gang, Gnat, Hang, Hath, Naan, Nana, Tang, Taut, Than, That, Tuna
-- **5 letters:** Again, Aging, Agita, Aught, Gaunt, Giant, Hatha, Haunt, Taiga, Taint, Taunt, Titan, Untag
-- **6 letters:** Angina, Attain, Gating, Hating, Iguana, Natant, Naught, Tahini, Tannin, Taught, Unhang
-- **7 letters:** Gagging, Gaining, Ganging, Gauging, Hanging, Nagging, Tagging, Tanning, Tatting
-- **8 letters:** Attuning, Haunting, Tainting, Taunting, Untaught
-- **9 letters:** Agitating, Attaining, Unhanging, Untagging
-- **10 letters:** Initiating
-
-The 16 four-letter words give 16 points, the 43 longer words give 280, and the pangram bonus adds 7, for 303.

@@ -6,6 +6,7 @@ type: explainer
 publishedAt: "2026-11-01T07:21:00-05:00"
 authors: [news-desk]
 category: puzzles
+noindex: true
 keywords: ["Blossom answers today", "Blossom word game November 1 2026", "Blossom pangram today", "Blossom hints", "Merriam-Webster Blossom"]
 dateline: "New York"
 hero:

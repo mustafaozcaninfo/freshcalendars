@@ -6,6 +6,7 @@ type: explainer
 publishedAt: "2026-10-26T04:20:00-04:00"
 authors: [news-desk]
 category: puzzles
+noindex: true
 keywords: ["Quordle hints today", "Quordle 1736", "Quordle answers October 26 2026", "Quordle today", "Quordle answer"]
 dateline: "New York"
 hero:
@@ -43,7 +44,7 @@ internalLinks:
     label: "October 2026 printable calendar"
   - href: "/printable-weekly-calendar.html"
     label: "Printable weekly calendar"
-related: [wordle-hint-answer-today-october-26-2026-1955, nyt-connections-hints-answers-october-26-2026-1233, nyt-strands-hints-answers-october-26-2026-967]
+related: [wordle-hint-answer-today-october-26-2026-1955, nyt-connections-hints-answers-october-26-2026-1233, nyt-strands-answers-october-2026-all-spangrams]
 draft: false
 ---
 **Today's Quordle from Merriam-Webster is puzzle #1736, for Monday, Oct. 26, 2026.** Two of the four words repeat a letter, and one of them is a less common word from metalworking and chemistry, so expect that board to take the longest. Work through the clues below one board at a time; the answers are in a marked spoiler section at the end.
@@ -80,7 +81,7 @@ A first guess such as Samba, with S, A and M, touches three of the four boards. 
 
 Keep a streak log on our [printable weekly calendar](/printable-weekly-calendar.html) or the [October 2026 printable calendar](/october-calendars.html).
 
-More of today's puzzles: [Wordle hints](/news/wordle-hint-answer-today-october-26-2026-1955/), [Connections hints](/news/nyt-connections-hints-answers-october-26-2026-1233/), [Strands hints](/news/nyt-strands-hints-answers-october-26-2026-967/) and [Contexto hints](/news/contexto-answer-hints-october-26-2026-1499/). Sunday's boards are on our [Quordle #1735 page](/news/quordle-hints-answers-october-25-2026-1735/).
+More of today's puzzles: [Wordle hints](/news/wordle-hint-answer-today-october-26-2026-1955/), [Connections hints](/news/nyt-connections-hints-answers-october-26-2026-1233/), [Strands hints](/news/nyt-strands-answers-october-2026-all-spangrams/) and [Contexto hints](/news/contexto-answers-october-2026-all-words/). Sunday's boards are on our [Quordle #1735 page](/news/quordle-hints-answers-october-25-2026-1735/).
 
 ## Today's Quordle answers (spoilers)
 

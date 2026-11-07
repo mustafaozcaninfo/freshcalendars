@@ -10,6 +10,8 @@ import path from "node:path";
 import { puzzleOf } from "../../apps/news/src/lib/puzzles.mjs";
 
 export const SIMILAR_MAX = 0.35;
+/** Writers aim under this; pages from SIMILAR_SINCE between it and SIMILAR_MAX are reported as drifting. */
+export const SIMILAR_TARGET = 0.25;
 export const SIMILAR_SINCE = "2026-11-05";
 const LOOKBACK = 3;
 
@@ -34,6 +36,13 @@ export function jaccard(a, b) {
   return any ? both / any : 0;
 }
 
+const MONTH_NAMES = ["january", "february", "march", "april", "may", "june", "july", "august", "september", "october", "november", "december"];
+/** Game and date of a daily puzzle page outside puzzleOf's games: "<game>-<month>-<d>-<yyyy>[-...]". */
+function otherDaily(slug) {
+  const m = new RegExp(`^(.+?)-(${MONTH_NAMES.join("|")})-(\\d{1,2})-(\\d{4})(?:-.+)?$`).exec(slug);
+  return m ? { game: m[1], date: `${m[4]}-${String(MONTH_NAMES.indexOf(m[2]) + 1).padStart(2, "0")}-${m[3].padStart(2, "0")}` } : null;
+}
+
 /** Every daily puzzle page in the articles tree, grouped by game and sorted by puzzle date. */
 function dailyPages(dir) {
   const games = new Map();
@@ -42,13 +51,17 @@ function dailyPages(dir) {
       const p = path.join(d, f);
       if (statSync(p).isDirectory()) { walk(p); continue; }
       if (!f.endsWith(".md")) continue;
-      const slug = f.slice(0, -3), puzzle = puzzleOf(slug);
-      if (!puzzle) continue;
+      const slug = f.slice(0, -3);
       const md = readFileSync(p, "utf8");
+      // Games with official data (puzzleOf) and every other daily puzzle page (Quordle, Blossom,
+      // Sports Edition, LinkedIn...): category puzzles with a day in the slug; monthly roundups
+      // have no day and are left out.
+      const puzzle = puzzleOf(slug) ?? (/^category:\s*"?puzzles"?\s*$/m.test(md) ? otherDaily(slug) : null);
+      if (!puzzle) continue;
       if (/^draft:\s*true/m.test(md)) continue;
       if (!games.has(puzzle.game)) games.set(puzzle.game, []);
       const body = md.split(/^---$/m).slice(2).join("---");
-      games.get(puzzle.game).push({ slug, date: puzzle.date, body, runs: shingles(prose(md)) });
+      games.get(puzzle.game).push({ slug, date: puzzle.date, body, runs: shingles(prose(md)), noindex: /^noindex:\s*true/m.test(md) });
     }
   })(dir);
   for (const list of games.values()) list.sort((a, b) => a.date.localeCompare(b.date));
@@ -65,12 +78,17 @@ const RULES_H2 = /^##\s+How\s+(?:to play\b|(?:the game|the \w+|Pips|Wordle|Conne
 /** Old-model pages for puzzle dates from SIMILAR_SINCE on: a rules section, or no link to the hub's rules. */
 export function modelProblems(dir) {
   const fails = [];
+  const topics = readFileSync(path.join(dir, "../../lib/topics.ts"), "utf8");
+  const guides = new Set([...topics.matchAll(/slug: "([a-z0-9-]+)",[^{}]*?guide: \{/g)].map((m) => m[1]));
   for (const list of dailyPages(dir).values()) {
     for (const page of list) {
       if (page.date < SIMILAR_SINCE) continue;
       const rules = page.body.match(RULES_H2)?.[0].trim();
       if (rules) fails.push(`${page.slug}: rules section "${rules}" on a daily page; link the hub's #how-it-works instead`);
       else if (!page.body.includes("#how-it-works")) fails.push(`${page.slug}: no link to the hub's rules (#how-it-works)`);
+      // The link must land on a rules section: the hub needs a `guide` in topics.ts.
+      for (const [, hub] of page.body.matchAll(/\/news\/topic\/([a-z0-9-]+)\/#how-it-works/g))
+        if (!guides.has(hub)) fails.push(`${page.slug}: links /news/topic/${hub}/#how-it-works, but that hub has no rules section (add a guide in apps/news/src/lib/topics.ts)`);
     }
   }
   return fails;
@@ -86,7 +104,7 @@ export function queueAhead(dir, today) {
 
 /** { fails, older }: pages over SIMILAR_MAX against one of the previous LOOKBACK pages of their game. */
 export function similarityProblems(dir) {
-  const fails = [], older = [];
+  const fails = [], older = [], near = [];
   for (const list of dailyPages(dir).values()) {
     list.forEach((page, i) => {
       let worst = { score: 0, slug: "" };
@@ -94,10 +112,12 @@ export function similarityProblems(dir) {
         const score = jaccard(page.runs, prev.runs);
         if (score > worst.score) worst = { score, slug: prev.slug };
       }
-      if (worst.score < SIMILAR_MAX) return;
       const line = `${page.slug}: ${worst.score.toFixed(2)} of its three-word runs shared with ${worst.slug} (limit ${SIMILAR_MAX})`;
-      (page.date >= SIMILAR_SINCE ? fails : older).push(line);
+      if (worst.score < SIMILAR_TARGET) return;
+      if (worst.score < SIMILAR_MAX) { if (page.date >= SIMILAR_SINCE) near.push(line); return; }
+      // An older page kept out of the index (merged, see docs/PUZZLES.md) no longer counts.
+      if (page.date >= SIMILAR_SINCE) fails.push(line); else if (!page.noindex) older.push(line);
     });
   }
-  return { fails, older };
+  return { fails, older, near };
 }

@@ -181,9 +181,12 @@ check("02-CANONICAL", "Self-referencing absolute canonical (§02 C l.660)", () =
     if (u === "/news/404/") return null;
     return c === `https://freshcalendars.com${u}` ? null : `canonical=${c}`;
   }));
-check("02-ROBOTS", "Indexable pages carry index,follow + max-image-preview:large; utility pages noindex (§02 C l.661)", () =>
+// Stories whose frontmatter says `noindex: true` (merged puzzle pages, docs/PUZZLES.md) must say so.
+const NOINDEX_STORIES = new Set((function walk(d) { return readdirSync(d, { withFileTypes: true }).flatMap((e) => e.isDirectory() ? walk(path.join(d, e.name)) : e.name.endsWith(".md") && /^noindex:\s*true/m.test(readFileSync(path.join(d, e.name), "utf8")) ? [`/news/${e.name.slice(0, -3)}/`] : []); })(ARTICLES_SRC));
+check("02-ROBOTS", "Indexable pages carry index,follow + max-image-preview:large; utility pages and stories marked noindex carry noindex (§02 C l.661)", () =>
   each(urls, (u, h) => {
     const r = h.match(/<meta name="robots" content="([^"]+)"/)?.[1] ?? "";
+    if (NOINDEX_STORIES.has(u)) return /^noindex, follow/.test(r) ? null : `robots="${r}" on a story marked noindex`;
     return /^index, follow/.test(r) && /max-image-preview:large/.test(r) ? null : `robots="${r}"`;
   }));
 check("02-LANG", "html lang + hreflang en/x-default (§02 C)", () =>
@@ -734,6 +737,8 @@ const { SIMILAR_SINCE, SIMILAR_MAX, similarityProblems, modelProblems } = await 
 const similar = similarityProblems(ARTICLES_SRC);
 check("13-PUZZLE-MODEL", `Daily puzzle pages for ${SIMILAR_SINCE} on: written in the new model (no rules section on the page; the hub's rules linked with #how-it-works)`, () => modelProblems(ARTICLES_SRC));
 check("13-PUZZLE-SIMILAR", `Daily puzzle pages for ${SIMILAR_SINCE} on: under ${SIMILAR_MAX} of their three-word runs shared with any of the previous three pages of the same game (Markdown source, scheduled pages included)`, () => similar.fails);
+warn("13-PUZZLE-SIMILAR-NEAR", "Daily puzzle pages drifting toward the similarity limit (0.25 to 0.35 shared with a recent page): rewrite the repeated sentences before they fail — review", () =>
+  similar.near.length ? [`${similar.near.length} pages`, ...similar.near.slice(0, 10)] : []);
 warn("13-PUZZLE-SIMILAR-OLD", "Older daily puzzle pages that repeat the previous days' text (rewrite when you update them) — informational", () =>
   similar.older.length ? [`${similar.older.length} pages`, ...similar.older.slice(0, 7)] : []);
 

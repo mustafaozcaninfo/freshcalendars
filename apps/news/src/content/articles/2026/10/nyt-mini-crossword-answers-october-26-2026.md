@@ -64,7 +64,7 @@ Start with the three gimmes: Santa's laugh at 7-Across, the film franchise at 8-
 
 Keep a streak log on our [printable weekly calendar](/printable-weekly-calendar.html) or the [October 2026 printable calendar](/october-calendars.html).
 
-More of today's puzzles: [Wordle hints](/news/wordle-hint-answer-today-october-26-2026-1955/), [Connections hints](/news/nyt-connections-hints-answers-october-26-2026-1233/), [Strands hints](/news/nyt-strands-hints-answers-october-26-2026-967/), [Spelling Bee hints](/news/nyt-spelling-bee-hints-answers-october-26-2026/) and [Pips hints](/news/nyt-pips-hints-answers-october-26-2026/). Sunday's grid is in our [Mini answers for Oct. 25](/news/nyt-mini-crossword-answers-october-25-2026/).
+More of today's puzzles: [Wordle hints](/news/wordle-hint-answer-today-october-26-2026-1955/), [Connections hints](/news/nyt-connections-hints-answers-october-26-2026-1233/), [Strands hints](/news/nyt-strands-answers-october-2026-all-spangrams/), [Spelling Bee hints](/news/nyt-spelling-bee-hints-answers-october-26-2026/) and [Pips hints](/news/nyt-pips-hints-answers-october-26-2026/). Sunday's grid is in our [Mini answers for Oct. 25](/news/nyt-mini-crossword-answers-october-25-2026/).
 
 ## Today's NYT Mini answers (spoilers)
 

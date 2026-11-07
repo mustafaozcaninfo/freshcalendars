@@ -6,6 +6,7 @@ type: explainer
 publishedAt: "2026-11-01T14:35:00-05:00"
 authors: [news-desk]
 category: puzzles
+noindex: true
 keywords: ["Quordle hints today", "Quordle 1742", "Quordle answers November 1 2026", "Quordle today", "Quordle answer"]
 dateline: "New York"
 hero:

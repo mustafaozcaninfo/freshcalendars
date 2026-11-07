@@ -36,7 +36,7 @@ internalLinks:
     label: "October 2026 printable calendar"
   - href: "/november-calendars.html"
     label: "November 2026 printable calendar"
-related: [contexto-answer-hints-october-31-2026-1504, wordle-answers-october-2026-all-words, contexto-answer-hints-october-30-2026-1503]
+related: [wordle-answers-october-2026-all-words]
 draft: false
 downloads:
   - group: "Contexto Answers printables"
@@ -133,7 +133,7 @@ The last column shows the three words the game ranked closest to each answer aft
 | Oct. 30 | Fri. | #1503 | Hole | Drill, Inside, Bottom |
 | Oct. 31 | Sat. | #1504 | Limit | Limitation, Maximum, Restriction |
 
-Source: [Contexto](https://contexto.me/), answer and nearest-word data for Oct. 1 to Oct. 31, 2026. Eight days have their own hint pages: [Oct. 21](/news/contexto-answer-hints-october-21-2026-1494/), [Oct. 25](/news/contexto-answer-hints-october-25-2026-1498/), [Oct. 26](/news/contexto-answer-hints-october-26-2026-1499/), [Oct. 27](/news/contexto-answer-hints-october-27-2026-1500/), [Oct. 28](/news/contexto-answer-hints-october-28-2026-1501/), [Oct. 29](/news/contexto-answer-hints-october-29-2026-1502/), [Oct. 30](/news/contexto-answer-hints-october-30-2026-1503/) and [Oct. 31](/news/contexto-answer-hints-october-31-2026-1504/). For other games, see the [Contexto hub](/news/topic/contexto/).
+Source: [Contexto](https://contexto.me/), answer and nearest-word data for Oct. 1 to Oct. 31, 2026. Eight days have their own hint pages: [Oct. 21](/news/contexto-answer-hints-october-21-2026-1494/), Oct. 25, Oct. 26, Oct. 27, Oct. 28, Oct. 29, Oct. 30 and Oct. 31. For other games, see the [Contexto hub](/news/topic/contexto/).
 
 ## How long were the October answers?
 

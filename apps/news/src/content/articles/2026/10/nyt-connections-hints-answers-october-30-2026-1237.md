@@ -36,7 +36,7 @@ internalLinks:
     label: "October 2026 printable calendar"
   - href: "/printable-weekly-calendar.html"
     label: "Printable weekly calendar"
-related: [wordle-hint-answer-today-october-30-2026-1959, nyt-strands-hints-answers-october-30-2026-971, nyt-pips-hints-answers-october-30-2026]
+related: [wordle-answers-october-2026-all-words, nyt-strands-answers-october-2026-all-spangrams, nyt-pips-hints-answers-october-30-2026]
 draft: false
 ---
 **Today's Connections from The New York Times (NYT) is puzzle #1237, for Friday, Oct. 30, 2026, edited by Wyna Liu.** One group is parts of a camera, another is things around a theater stage, one is a phrase that follows the word throw, and the last is made of misspelled fruit. Four words can cover a window, and they are spread across three groups. Below are two levels of hints for each color, then the full solution and an explanation of the overlaps in a marked spoiler section.
@@ -77,7 +77,7 @@ Start with purple, because the swapped first letters are a pattern you can test 
 
 Keep a streak log on our [printable weekly calendar](/printable-weekly-calendar.html) or the [October 2026 printable calendar](/october-calendars.html).
 
-More of today's puzzles: [Wordle hints](/news/wordle-hint-answer-today-october-30-2026-1959/), [Strands hints](/news/nyt-strands-hints-answers-october-30-2026-971/) and [Pips hints](/news/nyt-pips-hints-answers-october-30-2026/).
+More of today's puzzles: [Wordle hints](/news/wordle-answers-october-2026-all-words/), [Strands hints](/news/nyt-strands-answers-october-2026-all-spangrams/) and [Pips hints](/news/nyt-pips-hints-answers-october-30-2026/).
 
 ## Today's Connections answers (spoilers)
 

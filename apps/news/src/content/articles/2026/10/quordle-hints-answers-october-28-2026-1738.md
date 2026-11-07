@@ -6,6 +6,7 @@ type: explainer
 publishedAt: "2026-10-28T17:50:00-04:00"
 authors: [news-desk]
 category: puzzles
+noindex: true
 keywords: ["Quordle hints today", "Quordle 1738", "Quordle answers October 28 2026", "Quordle today", "Quordle answer"]
 dateline: "New York"
 hero:
@@ -43,7 +44,7 @@ internalLinks:
     label: "October 2026 printable calendar"
   - href: "/printable-weekly-calendar.html"
     label: "Printable weekly calendar"
-related: [wordle-hint-answer-today-october-28-2026-1957, nyt-connections-hints-answers-october-28-2026-1235, waffle-answer-hints-today-october-28-2026-1741]
+related: [wordle-answers-october-2026-all-words, nyt-connections-hints-answers-october-28-2026-1235, waffle-answer-hints-today-october-28-2026-1741]
 draft: false
 ---
 **Today's Quordle from Merriam-Webster is puzzle #1738, for Wednesday, Oct. 28, 2026.** Each word starts with a different letter, and all four are common English words. The clues below are grouped by each word's first letter, because the published solutions we checked agree on the words but not all list them without saying which board each one is on. The answers are in a marked spoiler section at the end.
@@ -80,7 +81,7 @@ A first guess such as Stale, with S, T, A, L and E, puts at least one letter int
 
 Keep a streak log on our [printable weekly calendar](/printable-weekly-calendar.html) or the [October 2026 printable calendar](/october-calendars.html).
 
-More of today's puzzles: [Wordle hints](/news/wordle-hint-answer-today-october-28-2026-1957/), [Connections hints](/news/nyt-connections-hints-answers-october-28-2026-1235/), [Waffle hints](/news/waffle-answer-hints-today-october-28-2026-1741/) and [Contexto hints](/news/contexto-answer-hints-october-28-2026-1501/). Tuesday's boards are on our [Quordle #1737 page](/news/quordle-hints-answers-october-27-2026-1737/).
+More of today's puzzles: [Wordle hints](/news/wordle-answers-october-2026-all-words/), [Connections hints](/news/nyt-connections-hints-answers-october-28-2026-1235/), [Waffle hints](/news/waffle-answer-hints-today-october-28-2026-1741/) and [Contexto hints](/news/contexto-answers-october-2026-all-words/). Tuesday's boards are on our [Quordle #1737 page](/news/quordle-hints-answers-october-27-2026-1737/).
 
 ## Today's Quordle answers (spoilers)
 

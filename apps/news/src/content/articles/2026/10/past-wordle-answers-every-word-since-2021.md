@@ -38,7 +38,7 @@ internalLinks:
     label: "2026 printable yearly calendar"
   - href: "/october-calendars.html"
     label: "October 2026 printable calendar"
-related: [wordle-answers-2026-full-list-repeat-answers, wordle-answers-october-2026-all-words, wordle-hint-answer-today-october-31-2026-1960]
+related: [wordle-answers-2026-full-list-repeat-answers, wordle-answers-october-2026-all-words]
 draft: false
 downloads:
   - group: "Wordle Letter Frequency printables"
@@ -92,7 +92,7 @@ assets:
     description: "Printable table of how many Wordle answers contain each letter A to Z, with first-letter and last-letter counts, for puzzles #0 to #1959."
     alt: "Printable Wordle letter frequency table for the 1,960 answers from June 2021 to October 2026"
 ---
-**Wordle has used 1,960 answers, from #0 on Sat., June 19, 2021 to #1959 on Fri., Oct. 30, 2026, and 1,931 of them are different words, according to The New York Times (NYT) puzzle data.** This page lists every one, by date and from A to Z, and it gives away all of them, so stop here if you still have a puzzle to solve. Today's puzzle (#1960, Oct. 31) is not on the list; for today, use the [Wordle hint page for Oct. 31, 2026](/news/wordle-hint-answer-today-october-31-2026-1960/). No future answers are listed.
+**Wordle has used 1,960 answers, from #0 on Sat., June 19, 2021 to #1959 on Fri., Oct. 30, 2026, and 1,931 of them are different words, according to The New York Times (NYT) puzzle data.** This page lists every one, by date and from A to Z, and it gives away all of them, so stop here if you still have a puzzle to solve. Today's puzzle (#1960, Oct. 31) is not on the list; for today, use the [Wordle hint page for Oct. 31, 2026](/news/wordle-answers-october-2026-all-words/). No future answers are listed.
 
 ## How many Wordle answers have there been?
 
@@ -203,7 +203,7 @@ The eight answers with none are Nymph, Tryst, Glyph, Shyly, Crypt, Myrrh, Dryly 
 
 ## Check whether a word was a past Wordle answer
 
-The daily Wordle pages on our site include a used-word checker: type any word to see if it was an answer before. It sits on the [Wordle hint page for Oct. 31, 2026](/news/wordle-hint-answer-today-october-31-2026-1960/). Every Wordle story is on the [Wordle hub](/news/topic/wordle/).
+The daily Wordle pages on our site include a used-word checker: type any word to see if it was an answer before. It sits on the [Wordle hint page for Oct. 31, 2026](/news/wordle-answers-october-2026-all-words/). Every Wordle story is on the [Wordle hub](/news/topic/wordle/).
 
 ## Every Wordle answer by date, 2021 to 2026
 

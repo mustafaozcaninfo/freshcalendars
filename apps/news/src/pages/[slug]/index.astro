@@ -70,6 +70,8 @@ const authorPath = authorHref;
 
 const hero = await heroImages(d.hero.src);
 // Pinterest gets the first printable (a tall page, the format Pinterest favors), else the hero.
+// A story kept out of the index (a merged puzzle page) carries no ads: AdSense and audit 01-ADS-CENTER.
+const showAds = !d.noindex;
 const shareImage = d.downloads[0] ? absNewsUrl(d.downloads[0].png) : hero.main.url;
 
 const wordCount = countWords(article.body ?? "");
@@ -162,6 +164,7 @@ const puzzleDay = pzThis ? {
   path={articlePath(article.id)}
   ogType="article"
   robots={d.noindex ? "noindex, follow" : undefined}
+  ads={showAds}
   headTags={articleHeadTags(seo)}
   jsonLd={articleGraph(seo)}
   section={category.id}
@@ -169,7 +172,7 @@ const puzzleDay = pzThis ? {
   <div class="progress" aria-hidden="true" data-cat={category.id}><span></span></div>
   <SectionBar headings={headings} />
   <NewsBar section={category.id} />
-  <AdSlot unit={7} variant="banner" />
+  {showAds && <AdSlot unit={7} variant="banner" />}
   <div class="article-layout" data-cat={category.id}>
   <article class="news-wrap article">
     <Breadcrumb items={[
@@ -195,7 +198,7 @@ const puzzleDay = pzThis ? {
     <ShareBar url={absNewsUrl(articlePath(article.id))} title={d.title} image={shareImage} compact />
     </div>
     <Hero src={d.hero.src} alt={d.hero.alt} title={d.hero.title ?? d.title} caption={d.hero.caption} credit={d.hero.credit} license={d.hero.license} />
-    <AdSlot unit={6} variant="top" />
+    {showAds && <AdSlot unit={6} variant="top" />}
     <KeyPoints points={d.summary} />
     <KeyDates dates={keyDates} heading={keyDates.length === 1 ? "Key date" : "Key dates"} ics={`${articlePath(article.id)}dates.ics`} />
     <PrintableTeaser items={d.downloads} />
@@ -209,12 +212,12 @@ const puzzleDay = pzThis ? {
       <a class="top-link" href="#main">Back to top ↑</a>
     </div>
     <PreferredSource />
-    <AdSlot unit={2} />
+    {showAds && <AdSlot unit={2} />}
     <CalendarLinks links={d.internalLinks} />
     <Faq items={d.faq} />
     <Sources items={d.sources} />
     <Corrections items={d.corrections} />
-    <AdSlot unit={4} />
+    {showAds && <AdSlot unit={4} />}
     {authors.map((a) => (
       <AuthorCard name={a.data.name} role={a.data.role} bio={a.data.bio} href={authorPath(a.id)} photo={a.data.photo} />
     ))}
@@ -227,9 +230,9 @@ const puzzleDay = pzThis ? {
     <RelatedGrid items={related} />
     <StoryNav section={{ name: category.data.name, href: categoryPath(category.id) }} more={more} prev={prev} next={next} />
     <Trending items={trending} place="inline" />
-    {endAd && <AdSlot unit={5} />}
+    {showAds && endAd && <AdSlot unit={5} />}
   </article>
-  <ArticleAside headings={headings} downloads={d.downloads.length} url={absNewsUrl(articlePath(article.id))} title={d.title} image={shareImage} trending={trending} puzzleDay={puzzleDay} prev={prev} next={next} keyDates={keyDates.slice(0, 3)} />
+  <ArticleAside ads={showAds} headings={headings} downloads={d.downloads.length} url={absNewsUrl(articlePath(article.id))} title={d.title} image={shareImage} trending={trending} puzzleDay={puzzleDay} prev={prev} next={next} keyDates={keyDates.slice(0, 3)} />
   <ShareIcons />
   </div>
   <script is:inline>

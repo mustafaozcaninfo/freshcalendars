@@ -6,6 +6,7 @@ type: explainer
 publishedAt: "2026-11-01T00:05:00-05:00"
 authors: [news-desk]
 category: puzzles
+noindex: true
 keywords: ["Contexto answer today", "Contexto 1506", "Contexto hints", "Contexto November 2 2026", "Contexto today"]
 dateline: "New York"
 hero:

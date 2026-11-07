@@ -39,7 +39,7 @@ internalLinks:
     label: "October 2026 printable calendar"
   - href: "/printable-weekly-calendar.html"
     label: "Printable weekly calendar"
-related: [nyt-pips-hints-answers-october-27-2026, wordle-hint-answer-today-october-28-2026-1957, nyt-connections-hints-answers-october-28-2026-1235]
+related: [nyt-pips-hints-answers-october-27-2026, wordle-answers-october-2026-all-words, nyt-connections-hints-answers-october-28-2026-1235]
 draft: false
 ---
 
@@ -70,7 +70,7 @@ You place every domino so that each colored region meets its condition. A number
 
 Look for single cells with a sum target: a cell that must add up to 3, 4 or 5 can only hold that value. An "equal" region shrinks your options fast once one value is known; with three cells, as in Wednesday's Medium board, you need three matching halves, and a double can supply two of them. On the Hard board, no region has more than one cell, so each cell's target is its value and the work is matching numbers to dominoes. Count the blanks: there are five 0 halves among the 16 dominoes.
 
-More of Wednesday's puzzles: [Wordle hints](/news/wordle-hint-answer-today-october-28-2026-1957/) and [Connections hints](/news/nyt-connections-hints-answers-october-28-2026-1235/). Track your solve times on our [printable weekly calendar](/printable-weekly-calendar.html) or the [October 2026 calendar](/october-calendars.html).
+More of Wednesday's puzzles: [Wordle hints](/news/wordle-answers-october-2026-all-words/) and [Connections hints](/news/nyt-connections-hints-answers-october-28-2026-1235/). Track your solve times on our [printable weekly calendar](/printable-weekly-calendar.html) or the [October 2026 calendar](/october-calendars.html).
 
 ## Wednesday's Pips answers, Oct. 28, 2026 (spoilers)
 

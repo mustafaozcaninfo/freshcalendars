@@ -6,6 +6,7 @@ type: explainer
 publishedAt: "2026-10-28T17:50:00-04:00"
 authors: [news-desk]
 category: puzzles
+noindex: true
 keywords: ["Waffle answer today", "Waffle 1741", "Waffle hints", "Waffle answer October 28 2026", "Waffle game today"]
 dateline: "New York"
 hero:
@@ -36,7 +37,7 @@ internalLinks:
     label: "October 2026 printable calendar"
   - href: "/printable-weekly-calendar.html"
     label: "Printable weekly calendar"
-related: [wordle-hint-answer-today-october-28-2026-1957, quordle-hints-answers-october-27-2026-1737, nyt-connections-hints-answers-october-28-2026-1235]
+related: [wordle-answers-october-2026-all-words, quordle-hints-answers-october-27-2026-1737, nyt-connections-hints-answers-october-28-2026-1235]
 draft: false
 ---
 **Today's Waffle (wafflegame.net) is puzzle #1741, for Wednesday, Oct. 28, 2026, and it hides six five-letter words in one waffle-shaped grid.** Three words read across and three read down, and every word is an ordinary English word. Use the clues below one word at a time; the answers, and a swap-by-swap route to the five-star score, are in a marked spoiler section at the end.
@@ -73,7 +74,7 @@ Start with the corners, because each one serves two words. Today's solution has 
 
 Keep a streak log on our [printable weekly calendar](/printable-weekly-calendar.html) or the [October 2026 printable calendar](/october-calendars.html).
 
-More of today's puzzles: [Wordle hints](/news/wordle-hint-answer-today-october-28-2026-1957/), [Connections hints](/news/nyt-connections-hints-answers-october-28-2026-1235/) and [Quordle hints](/news/quordle-hints-answers-october-27-2026-1737/).
+More of today's puzzles: [Wordle hints](/news/wordle-answers-october-2026-all-words/), [Connections hints](/news/nyt-connections-hints-answers-october-28-2026-1235/) and [Quordle hints](/news/quordle-hints-answers-october-27-2026-1737/).
 
 ## Today's Waffle answers (spoilers)
 

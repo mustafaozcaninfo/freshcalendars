@@ -40,7 +40,7 @@ internalLinks:
     label: "October 2026 printable calendar"
   - href: "/printable-weekly-calendar.html"
     label: "Printable weekly calendar"
-related: [nyt-spelling-bee-hints-answers-october-27-2026, wordle-hint-answer-today-october-27-2026-1956, nyt-connections-hints-answers-october-27-2026-1234]
+related: [nyt-spelling-bee-hints-answers-october-27-2026, wordle-answers-october-2026-all-words, nyt-connections-hints-answers-october-27-2026-1234]
 draft: false
 ---
 **Letter Boxed from The New York Times (NYT) for Tuesday, Oct. 27, 2026 has the sides C/D/I, U/F/T, R/M/A and B/E/O and a par of 5 words, according to the puzzle data on the Letter Boxed page.** Sam Ezersky edits it. The Times' own solution needs only two words, so there is room to beat par. Work down the hints one at a time, and scroll to the last section only if you want the words themselves.
@@ -87,7 +87,7 @@ These words fit the box and the side rule, and none of them is part of the Times
 
 Keep your streak on our [printable weekly calendar](/printable-weekly-calendar.html) or the [October 2026 printable calendar](/october-calendars.html).
 
-More of Tuesday's games: [Spelling Bee hints](/news/nyt-spelling-bee-hints-answers-october-27-2026/), [Wordle hints](/news/wordle-hint-answer-today-october-27-2026-1956/) and [Connections hints](/news/nyt-connections-hints-answers-october-27-2026-1234/).
+More of Tuesday's games: [Spelling Bee hints](/news/nyt-spelling-bee-hints-answers-october-27-2026/), [Wordle hints](/news/wordle-answers-october-2026-all-words/) and [Connections hints](/news/nyt-connections-hints-answers-october-27-2026-1234/).
 
 ## Today's Letter Boxed answer (spoilers)
 

@@ -146,6 +146,8 @@ Patches and Wend had no number on the pages we read. Every game's rules are on o
 
 Also on Thursday: [Wordle hint and answer](/news/wordle-hint-answer-today-november-5-2026-1965/) and [Connections hints and answers](/news/nyt-connections-hints-answers-november-5-2026-1243/). Missed a day? [Wednesday's LinkedIn games answers](/news/linkedin-games-answers-today-november-4-2026-queens-tango-zip/) are still up. Mark your streak on the [printable weekly calendar](/printable-weekly-calendar.html) or the [November 2026 calendar](/november-calendars.html).
 
+Rules for each game are on our [LinkedIn games page](/news/topic/linkedin-games/#how-it-works); Thursday's puzzles went live at midnight Pacific Time (PT).
+
 ## Thursday's LinkedIn answers, Nov. 5, 2026 (spoilers)
 
 Scroll no further if you are still solving.

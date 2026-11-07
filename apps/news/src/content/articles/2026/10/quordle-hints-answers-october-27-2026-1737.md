@@ -40,7 +40,7 @@ internalLinks:
     label: "October 2026 printable calendar"
   - href: "/printable-weekly-calendar.html"
     label: "Printable weekly calendar"
-related: [wordle-hint-answer-today-october-27-2026-1956, nyt-connections-hints-answers-october-27-2026-1234, blossom-word-game-answers-october-27-2026]
+related: [wordle-answers-october-2026-all-words, nyt-connections-hints-answers-october-27-2026-1234, blossom-word-game-answers-october-27-2026]
 draft: false
 ---
 **Today's Quordle from Merriam-Webster is puzzle #1737, for Tuesday, Oct. 27, 2026.** No word repeats a letter, so every guess tests five new letters on each board, and each word starts with a different letter. The clues below are grouped by each word's first letter, because the published solutions we checked list the words without saying which board each one is on. The answers are in a marked spoiler section at the end.
@@ -77,7 +77,7 @@ A first guess such as Whale, with W, H, A, L and E, puts at least one letter int
 
 Keep a streak log on our [printable weekly calendar](/printable-weekly-calendar.html) or the [October 2026 printable calendar](/october-calendars.html).
 
-More of today's puzzles: [Wordle hints](/news/wordle-hint-answer-today-october-27-2026-1956/), [Connections hints](/news/nyt-connections-hints-answers-october-27-2026-1234/), [Mini Crossword answers](/news/nyt-mini-crossword-answers-october-27-2026/) and [Contexto hints](/news/contexto-answer-hints-october-27-2026-1500/). Monday's boards are on our [Quordle #1736 page](/news/quordle-hints-answers-october-26-2026-1736/).
+More of today's puzzles: [Wordle hints](/news/wordle-answers-october-2026-all-words/), [Connections hints](/news/nyt-connections-hints-answers-october-27-2026-1234/), [Mini Crossword answers](/news/nyt-mini-crossword-answers-october-27-2026/) and [Contexto hints](/news/contexto-answers-october-2026-all-words/). Monday's boards are on our [Quordle #1736 page](/news/quordle-hints-answers-october-26-2026-1736/).
 
 ## Today's Quordle answers (spoilers)
 
