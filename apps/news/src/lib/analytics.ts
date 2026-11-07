@@ -9,7 +9,22 @@
  */
 export const GA_ID = "G-VT08H0GXHZ";
 export const GA_ENABLED = process.env.NEWS_GA !== "0";
-export const GA_ORIGINS = ["https://www.googletagmanager.com", "https://analytics.google.com"];
+/**
+ * Microsoft Clarity (heatmaps, session recordings, rage and dead clicks) for UX and ad placement.
+ * The project id is public (it is in every page's source), so it lives here, not in a secret.
+ * Empty turns it off. It loads with gtag.js after window load, so it costs no LCP time. No consent
+ * signal is sent: in the EEA, UK and Switzerland Clarity then runs without cookies until a
+ * consent banner exists (see docs/ANALYTICS.md).
+ */
+export const CLARITY_ID = "";
+export const GA_ORIGINS = ["https://www.googletagmanager.com", "https://analytics.google.com", ...(CLARITY_ID ? ["https://www.clarity.ms"] : [])];
+
+const CLARITY_LOAD = CLARITY_ID
+  ? `window.clarity=window.clarity||function(){(clarity.q=clarity.q||[]).push(arguments)};
+    var c=document.createElement('script');
+    c.async=true; c.src='https://www.clarity.ms/tag/${CLARITY_ID}';
+    document.head.appendChild(c);`
+  : "";
 
 export const GA_JS = `
 (function(){
@@ -22,6 +37,7 @@ export const GA_JS = `
     var s=document.createElement('script');
     s.async=true; s.src='https://www.googletagmanager.com/gtag/js?id='+id;
     document.head.appendChild(s);
+    ${CLARITY_LOAD}
   }
   function later(){ 'requestIdleCallback' in window ? requestIdleCallback(load,{timeout:1500}) : setTimeout(load,200); }
   document.readyState==='complete' ? later() : addEventListener('load',later);
