@@ -6,6 +6,7 @@ type: explainer
 publishedAt: "2026-10-29T10:41:00-04:00"
 authors: [news-desk]
 category: puzzles
+noindex: true
 keywords: ["Quordle hints today", "Quordle 1739", "Quordle answers October 29 2026", "Quordle today", "Quordle answer"]
 dateline: "New York"
 hero:
@@ -40,7 +41,7 @@ internalLinks:
     label: "October 2026 printable calendar"
   - href: "/printable-weekly-calendar.html"
     label: "Printable weekly calendar"
-related: [quordle-hints-answers-october-28-2026-1738, wordle-hint-answer-today-october-29-2026-1958, nyt-connections-hints-answers-october-29-2026-1236]
+related: [quordle-hints-answers-october-28-2026-1738, wordle-answers-october-2026-all-words, nyt-connections-hints-answers-october-29-2026-1236]
 draft: false
 ---
 **Today's Quordle from Merriam-Webster is puzzle #1739, for Thursday, Oct. 29, 2026.** Each word starts with a different letter, and all four are common English words. The clues below are grouped by each word's first letter, because the published solutions we checked agree on the words but not all list them without saying which board each one is on. The answers are in a marked spoiler section at the end.
@@ -77,7 +78,7 @@ A first guess such as Stale, with S, T, A, L and E, puts at least one letter int
 
 Keep a streak log on our [printable weekly calendar](/printable-weekly-calendar.html) or the [October 2026 printable calendar](/october-calendars.html).
 
-More of today's puzzles: [Wordle hints](/news/wordle-hint-answer-today-october-29-2026-1958/), [Connections hints](/news/nyt-connections-hints-answers-october-29-2026-1236/) and [Blossom hints](/news/blossom-word-game-answers-october-29-2026/). Wednesday's boards are on our [Quordle #1738 page](/news/quordle-hints-answers-october-28-2026-1738/).
+More of today's puzzles: [Wordle hints](/news/wordle-answers-october-2026-all-words/), [Connections hints](/news/nyt-connections-hints-answers-october-29-2026-1236/) and [Blossom hints](/news/blossom-word-game-answers-october-29-2026/). Wednesday's boards are on our [Quordle #1738 page](/news/quordle-hints-answers-october-28-2026-1738/).
 
 ## Today's Quordle answers (spoilers)
 

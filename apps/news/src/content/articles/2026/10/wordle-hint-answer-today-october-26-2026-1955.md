@@ -36,7 +36,7 @@ internalLinks:
     label: "October 2026 printable calendar"
   - href: "/printable-weekly-calendar.html"
     label: "Printable weekly calendar"
-related: [nyt-connections-hints-answers-october-26-2026-1233, nyt-strands-hints-answers-october-26-2026-967, nyt-pips-hints-answers-october-26-2026]
+related: [nyt-connections-hints-answers-october-26-2026-1233, nyt-strands-answers-october-2026-all-spangrams, nyt-pips-hints-answers-october-26-2026]
 draft: false
 ---
 **Today's Wordle from The New York Times (NYT) is puzzle #1955, for Monday, Oct. 26, 2026, edited by Tracy Bennett.** The answer repeats a vowel letter and ends in Y, which makes the middle of the word the tricky part. Work down the clues one at a time, and only scroll to the last section if you want the answer itself.
@@ -60,7 +60,7 @@ The word ends in Y, so a guess that puts Y in the last spot can turn a tile gree
 
 Keep your streak on our [printable weekly calendar](/printable-weekly-calendar.html) or the [October 2026 printable calendar](/october-calendars.html).
 
-More of today's puzzles: [Connections hints](/news/nyt-connections-hints-answers-october-26-2026-1233/), [Strands hints](/news/nyt-strands-hints-answers-october-26-2026-967/) and [Pips hints](/news/nyt-pips-hints-answers-october-26-2026/).
+More of today's puzzles: [Connections hints](/news/nyt-connections-hints-answers-october-26-2026-1233/), [Strands hints](/news/nyt-strands-answers-october-2026-all-spangrams/) and [Pips hints](/news/nyt-pips-hints-answers-october-26-2026/).
 
 ## Today's Wordle answer (spoilers)
 

@@ -14,15 +14,15 @@ hero:
   title: "Strands #984 hints, Nov. 12, 2026"
   caption: "Strands puzzle #984 for Thursday, Nov. 12, 2026: hints for the spangram and theme words first, all answers only at the end."
 summary:
-  - "Strands #984 falls on Thursday, Nov. 12, 2026, and its clue is \"Facing the music.\""
-  - "The spangram runs 8 letters and touches the bottom, left and right edges; the board holds five theme words."
-  - "Hints come first, then a map of where the words sit on the board."
-  - "Every answer is held back in the last section, behind a spoiler marker."
+  - "Strands #984 is Thursday's board for Nov. 12, 2026, clued \"Facing the music.\""
+  - "At eight letters, the spangram is the shortest answer and hugs the bottom two rows in a shallow U."
+  - "Five words for someone watching or listening, six to eleven letters, fill the top of the grid."
+  - "Hints come first; the answers are held in the spoiler section."
 faq:
-  - q: "Where do the theme words cluster in Strands #984?"
-    a: "The top-left quarter is the densest, with 12 theme tiles out of 12."
+  - q: "Is Thursday's spangram shorter than the theme words?"
+    a: "Yes. The spangram has eight letters, three fewer than the longest theme word, so for once a theme answer is the longest word on the board."
   - q: "What are the Strands answers for Nov. 12, 2026?"
-    a: "Spoilers: the theme words are Concertgoer, Listener, Patron, Spectator, Viewer, and the spangram is Audience."
+    a: "Spoilers: the theme words are Concertgoer, Listener, Patron, Spectator and Viewer, and the spangram is Audience."
 sources:
   - title: "Strands"
     url: "https://www.nytimes.com/games/strands"
@@ -35,53 +35,43 @@ internalLinks:
 related: [wordle-hint-answer-today-november-12-2026-1972, nyt-connections-hints-answers-november-12-2026-1250, nyt-pips-hints-answers-november-12-2026]
 draft: false
 ---
-**Today's Strands from The New York Times (NYT) is puzzle #984, for Thursday, Nov. 12, 2026, and its theme clue is "Facing the music."** The clue is about the folks on the other side of the stage. Tracy Bennett constructed and edited this one. Hints for the spangram and each theme word come first; the answers wait in a marked spoiler section at the end.
-
-With 5 theme words and a 8-letter spangram filling all 48 tiles, today's board follows the usual rules, which are on our [Strands page](/news/topic/nyt-strands/#how-it-works).
+**Thursday's Strands is puzzle #984, dated Nov. 12, 2026, and The New York Times (NYT) gives the clue "Facing the music."** The answers are the folks on the far side of the stage. Tracy Bennett is credited as both constructor and editor. The spangram is shorter than usual here, and what a spangram still has to connect is covered on our [Strands page](/news/topic/nyt-strands/#how-it-works). Hints come first, and the answers are held back to the final section.
 
 ## Spangram hints
 
-- Hint 1: The crowd that has taken its seats.
-- Hint 2: A single word, from a Latin root for hearing.
-- Hint 3: Eight letters, opening with A.
+- A gentle hint: the whole crowd gathered to watch or hear a show, taken as one body.
+- A firmer hint: a single word, from a Latin root meaning "to hear."
+- The last hint: eight letters, the shortest answer on the board, beginning with A.
 
 ## Theme word hints
 
-Five theme words, each a person who takes in a show or a performance:
+Each answer is a person who takes in a show or performance, shortest to longest:
 
-- **Starts with P, 6 letters:** a supporter of the arts, or a regular customer.
-- **Starts with V, 6 letters:** a person watching a screen.
-- **Starts with L, 8 letters:** a person tuning in by ear.
-- **Starts with S, 9 letters:** someone watching a game or show.
-- **Starts with C, 11 letters:** someone with a ticket to hear a live band.
+- **6 letters, starts with P:** a paying supporter of the arts, or a regular customer.
+- **6 letters, starts with V:** someone watching a screen.
+- **8 letters, starts with L:** someone taking it in by ear.
+- **9 letters, starts with S:** someone watching a game or event.
+- **11 letters, starts with C:** a ticket-holder at a live gig.
 
-## Where today's spangram and theme words sit
+## A short spangram along the bottom, watchers up top
 
-Trace the spangram from row 7, column 1 to row 7, column 6. It touches the bottom, left and right edges of the board, spans rows 7 to 8 and columns 1 to 6, and changes direction 2 times, with 6 tiles in its longest straight run.
+The spangram is the shortest word on the grid at eight letters, and it stays low. It opens in the seventh row on the left, drops into the bottom-left corner, runs the full length of the bottom row to the right, then steps up once on the right edge. That shallow U fills only the last two rows and touches the left, bottom and right edges.
 
-Look at the top-left quarter (rows 1 to 4, columns 1 to 3) first. 12 of its 12 tiles are theme tiles, 0 are spangram tiles. No theme word fits entirely inside it.
-
-The longest theme word is the 11-letter C word, at 11 letters; the 6-letter P word and the 6-letter V word tie for shortest at 6 letters. The spangram, at 8 letters, is 3 shorter than the longest theme word. Theme tiles per quarter: top-left 12, top-right 12, bottom-left 8, bottom-right 8.
-
-| Theme word | Rows | Columns | Where it sits |
-|---|---|---|---|
-| 11-letter C word | 1 to 6 | 1 to 2 | mostly top-left (7 of 11 tiles) |
-| 8-letter L word | 3 to 4 | 3 to 6 | mostly top-right (6 of 8 tiles) |
-| 6-letter P word | 6 to 7 | 2 to 5 | split bottom-left and bottom-right |
-| 9-letter S word | 1 to 2 | 2 to 6 | mostly top-right (6 of 9 tiles) |
-| 6-letter V word | 5 to 6 | 3 to 6 | mostly bottom-right (5 of 6 tiles) |
+Everything above belongs to the five watcher words. The eleven-letter C word, the longest answer on the board, runs down the left side. The nine-letter S word spreads across the top-right, with the eight-letter L word under it. Lower down, the six-letter P word and the six-letter V word share the middle rows. Both top quarters are packed solid, twelve theme tiles each, while the spangram owns the bottom.
 
 ## Solving tips
 
-The spangram has only eight letters, so the five theme words take up most of the board. Our [November 2026 printable calendar](/november-calendars.html) and [printable weekly calendar](/printable-weekly-calendar.html) are handy for a daily log.
+Because the spangram uses only eight tiles, the five answers cover most of the board, so you can start almost anywhere up top. The longest answer runs the full height of the left side, so look there to clear a column fast.
 
-Other games for Nov. 12: [Pips](/news/nyt-pips-hints-answers-november-12-2026/), [Connections](/news/nyt-connections-hints-answers-november-12-2026-1250/) and [Wordle](/news/wordle-hint-answer-today-november-12-2026-1972/).
+Want a streak log? Reach for the [printable weekly calendar](/printable-weekly-calendar.html) or the [November 2026 printable calendar](/november-calendars.html).
+
+Thursday's other puzzles: [Wordle](/news/wordle-hint-answer-today-november-12-2026-1972/), [Connections](/news/nyt-connections-hints-answers-november-12-2026-1250/) and [Pips](/news/nyt-pips-hints-answers-november-12-2026/).
 
 ## Today's Strands answers (spoilers)
 
-Last chance to turn back before the answers.
+Everything below gives the game away, so stop if you want to solve it.
 
 - **Spangram:** Audience
 - **Theme words:** Concertgoer, Listener, Patron, Spectator, Viewer
 
-The five theme words are each a kind of person watching or listening, and the spangram is the collective word for them.
+Each theme word is a person taking in a show, and the spangram, Audience, is the collective word for all of them together.

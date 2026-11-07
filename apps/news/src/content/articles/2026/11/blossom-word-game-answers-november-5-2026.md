@@ -54,6 +54,8 @@ draft: false
 - **Center:** D (every word must include it)
 - **Petals:** B, E, I, S, T, U
 
+Every word today needs the D in the center; the rules and the scoring are on our [Blossom page](/news/topic/blossom/#how-it-works).
+
 Three of the six petals are vowel letters (E, I and U), and the other three are consonants, so D has plenty of vowels to lean on.
 
 ## Words to try

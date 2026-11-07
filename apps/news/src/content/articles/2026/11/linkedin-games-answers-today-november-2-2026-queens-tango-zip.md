@@ -7,6 +7,7 @@ publishedAt: "2026-11-02T07:20:00-05:00"
 updatedAt: "2026-11-02T07:20:00-05:00"
 authors: [news-desk]
 category: puzzles
+noindex: true
 keywords: ["LinkedIn games answers today", "LinkedIn Queens answer today", "LinkedIn Zip answer today", "LinkedIn Tango answer today", "Pinpoint answer today"]
 dateline: "New York"
 hero:

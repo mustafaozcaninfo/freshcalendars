@@ -17,17 +17,19 @@ import { PRINTABLES_PATH } from "../lib/printables";
 import { LONG_STORY_H2 } from "../lib/ad-units.mjs";
 type Link = { href: string; title: string };
 interface Props {
+  /** False on a story kept out of the index: no side ads. */
+  ads?: boolean;
   headings: MarkdownHeading[]; downloads: number; url: string; title: string; image: string; trending: Link[];
   /** The other games published for the same puzzle date. */
   puzzleDay?: { date: string; links: Link[] };
   prev?: Link; next?: Link;
   keyDates?: { date: string; label: string }[];
 }
-const { headings, downloads, url, title, image, trending, puzzleDay, prev, next, keyDates = [] } = Astro.props;
+const { ads = true, headings, downloads, url, title, image, trending, puzzleDay, prev, next, keyDates = [] } = Astro.props;
 const dayLabel = (iso: string) => new Date(`${iso}T12:00:00Z`).toLocaleDateString("en-US", { month: "long", day: "numeric", timeZone: "UTC" });
 const shortDay = (iso: string) => new Date(`${iso}T12:00:00Z`).toLocaleDateString("en-US", { month: "short", day: "numeric", timeZone: "UTC" });
 const items = headings.filter((h) => h.depth === 2);
-const rails = items.length >= LONG_STORY_H2 ? 3 : items.length >= 5 ? 2 : 1;
+const rails = !ads ? 0 : items.length >= LONG_STORY_H2 ? 3 : items.length >= 5 ? 2 : 1;
 ---
 <aside class="aside" aria-label="Article tools">
   <div class="stick">

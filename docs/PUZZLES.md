@@ -92,3 +92,14 @@ Every page for Wordle, Connections, Strands, Pips, Spelling Bee, the Mini, the M
 ## Checks that catch scheduled pages
 
 `pnpm news:build` leaves out stories with a future `publishedAt`, so verify and most of the audit never see them, but 12-HERO-UNIQUE in CI does. Before pushing scheduled pages: compare every hero with `duplicateHeroes(storyHeroes())` from `scripts/lib/hero-hash.mjs` (it includes scheduled stories; recolors do not change the hash, a different layout seed does: `heroes5.ts` rows take an optional 8th seed), and make sure no page links a story that goes live later than itself (news:verify reports it as broken until then).
+
+## Merged daily pages (Nov. 7, 2026)
+
+Daily pages dated before 2026-11-05 were written in the old model and 54 of them repeated the previous days' text (audit warning `13-PUZZLE-SIMILAR-OLD`). The owner merged them on Nov. 7, 2026:
+
+- **25 pages of Oct. 25 to 31** (Contexto, Letter Boxed, Spelling Bee, Strands, Wordle) were deleted and 301-redirected to that game's October roundup (`apps/news/redirects.map`), which already lists every day's answer.
+- **20 pages** (those games' Nov. 1 to 4 pages and Waffle Oct. 28 to Nov. 3) carry `noindex: true` until the November roundups exist; routine C then merges them the same way (`docs/PUZZLE-ROUTINES.md`, prompt C). Waffle has no roundup: its pages stay noindex.
+- **23 more pages** of the games outside the official-data set (Blossom 7, LinkedIn 6, Quordle 10, Oct. 21 to Nov. 4), found once the similarity check covered every daily game, carry `noindex: true` for good: those games have no monthly roundup, and none of the pages had search traffic.
+- **9 pages that still had search traffic** (Spelling Bee Oct. 27, 28, 30 and Nov. 1, 2, 4; Strands Nov. 3; Wordle Nov. 1 and 3) were rewritten in the new model.
+
+Every indexable daily page now stays under the `13-PUZZLE-SIMILAR` limit. From the same day the checks cover every daily puzzle page in category `puzzles` (not only the games with official data), warn from 0.25 (`13-PUZZLE-SIMILAR-NEAR`), and fail a page whose `#how-it-works` link lands on a hub with no rules section (`13-PUZZLE-MODEL`).

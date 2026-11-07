@@ -36,7 +36,7 @@ internalLinks:
     label: "October 2026 printable calendar"
   - href: "/printable-weekly-calendar.html"
     label: "Printable weekly calendar"
-related: [wordle-hint-answer-today-october-26-2026-1955, nyt-strands-hints-answers-october-26-2026-967, nyt-pips-hints-answers-october-26-2026]
+related: [wordle-hint-answer-today-october-26-2026-1955, nyt-strands-answers-october-2026-all-spangrams, nyt-pips-hints-answers-october-26-2026]
 draft: false
 ---
 **Today's Connections from The New York Times (NYT) is puzzle #1233, for Monday, Oct. 26, 2026, edited by Wyna Liu.** One group is about replies to a friendly question, another about things you stand or kneel on, and the purple group hides movie titles behind a changed last letter. Below are two levels of hints for each color, then the full solution and an explanation of the overlaps in a marked spoiler section.
@@ -77,7 +77,7 @@ Start with blue and green, because each has a clear theme. Hold Welcome until yo
 
 Keep a streak log on our [printable weekly calendar](/printable-weekly-calendar.html) or the [October 2026 printable calendar](/october-calendars.html).
 
-More of today's puzzles: [Wordle hints](/news/wordle-hint-answer-today-october-26-2026-1955/), [Strands hints](/news/nyt-strands-hints-answers-october-26-2026-967/) and [Pips hints](/news/nyt-pips-hints-answers-october-26-2026/).
+More of today's puzzles: [Wordle hints](/news/wordle-hint-answer-today-october-26-2026-1955/), [Strands hints](/news/nyt-strands-answers-october-2026-all-spangrams/) and [Pips hints](/news/nyt-pips-hints-answers-october-26-2026/).
 
 ## Today's Connections answers (spoilers)
 

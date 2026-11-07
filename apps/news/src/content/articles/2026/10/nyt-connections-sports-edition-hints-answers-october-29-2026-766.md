@@ -82,7 +82,7 @@ internalLinks:
     label: "October 2026 printable calendar"
   - href: "/printable-weekly-calendar.html"
     label: "Printable weekly calendar"
-related: [nyt-connections-hints-answers-october-29-2026-1236, linkedin-games-answers-today-october-29-2026-queens-tango-zip, nyt-spelling-bee-hints-answers-october-29-2026]
+related: [nyt-connections-hints-answers-october-29-2026-1236, linkedin-games-answers-today-october-29-2026-queens-tango-zip, nyt-spelling-bee-answers-october-2026-all-pangrams]
 draft: false
 ---
 
@@ -107,7 +107,7 @@ Thursday's 16 tiles run from one to five characters. Only one of them has a numb
 
 Watch for the overlap: C and G look like basketball positions, but they sit with the ice spots. TD looks like a stand-alone football score, but here it sits with the other passing numbers.
 
-More of Thursday's puzzles: [Connections hints](/news/nyt-connections-hints-answers-october-29-2026-1236/), [Spelling Bee hints](/news/nyt-spelling-bee-hints-answers-october-29-2026/), [LinkedIn games answers](/news/linkedin-games-answers-today-october-29-2026-queens-tango-zip/) and [Pips hints](/news/nyt-pips-hints-answers-october-29-2026/). The newest earlier Sports Edition page is still up: [Connections: Sports Edition #763](/news/nyt-connections-sports-edition-hints-answers-october-26-2026-763/). Keep a streak log on our [printable weekly calendar](/printable-weekly-calendar.html).
+More of Thursday's puzzles: [Connections hints](/news/nyt-connections-hints-answers-october-29-2026-1236/), [Spelling Bee hints](/news/nyt-spelling-bee-answers-october-2026-all-pangrams/), [LinkedIn games answers](/news/linkedin-games-answers-today-october-29-2026-queens-tango-zip/) and [Pips hints](/news/nyt-pips-hints-answers-october-29-2026/). The newest earlier Sports Edition page is still up: [Connections: Sports Edition #763](/news/nyt-connections-sports-edition-hints-answers-october-26-2026-763/). Keep a streak log on our [printable weekly calendar](/printable-weekly-calendar.html).
 
 ## Thursday's answers, #766, Oct. 29, 2026 (spoilers)
 

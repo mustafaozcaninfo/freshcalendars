@@ -34,7 +34,7 @@ internalLinks:
     label: "October 2026 printable calendar"
   - href: "/printable-weekly-calendar.html"
     label: "Printable weekly calendar"
-related: [wordle-hint-answer-today-october-25-2026-1954, nyt-connections-hints-answers-october-25-2026-1232, nyt-spelling-bee-hints-answers-october-25-2026]
+related: [wordle-answers-october-2026-all-words, nyt-connections-hints-answers-october-25-2026-1232, nyt-spelling-bee-hints-answers-october-25-2026]
 draft: false
 ---
 **The New York Times (NYT) Mini Crossword for Sunday, Oct. 25, 2026, is a five-by-five grid with 10 clues by Christina Iverson, and two of its Across answers are music genres that start and end with the same letters.** Joel Fagliano edited it. Below is a hint for every clue, then the full answers in a marked spoiler section.
@@ -63,7 +63,7 @@ Start with the bone at 1-Down: once its first letter is in, 1-Across follows, an
 
 Keep a streak log on our [printable weekly calendar](/printable-weekly-calendar.html) or the [October 2026 printable calendar](/october-calendars.html).
 
-More of today's puzzles: [Wordle hints](/news/wordle-hint-answer-today-october-25-2026-1954/), [Connections hints](/news/nyt-connections-hints-answers-october-25-2026-1232/), [Strands hints](/news/nyt-strands-hints-answers-october-25-2026-966/), [Spelling Bee hints](/news/nyt-spelling-bee-hints-answers-october-25-2026/) and [Pips hints](/news/nyt-pips-hints-answers-october-25-2026/).
+More of today's puzzles: [Wordle hints](/news/wordle-answers-october-2026-all-words/), [Connections hints](/news/nyt-connections-hints-answers-october-25-2026-1232/), [Strands hints](/news/nyt-strands-hints-answers-october-25-2026-966/), [Spelling Bee hints](/news/nyt-spelling-bee-hints-answers-october-25-2026/) and [Pips hints](/news/nyt-pips-hints-answers-october-25-2026/).
 
 ## Today's NYT Mini answers (spoilers)
 

@@ -14,17 +14,17 @@ hero:
   title: "Strands #981 hints, Nov. 9, 2026"
   caption: "Strands puzzle #981 for Monday, Nov. 9, 2026: hints for the spangram and theme words first, all answers only at the end."
 summary:
-  - "Strands #981 falls on Monday, Nov. 9, 2026, and its clue is \"Idle chatter.\""
-  - "The spangram runs 14 letters and touches the top, bottom, left and right edges; the board holds five theme words."
-  - "Hints come first, then a map of where the words sit on the board."
-  - "Every answer is held back in the last section, behind a spoiler marker."
+  - "Strands #981 is Monday's board for Nov. 9, 2026, under the clue \"Idle chatter.\""
+  - "A fourteen-letter spangram slants from the left edge to the bottom-right corner, then climbs the whole right side."
+  - "Five words for casual talk, six to eight letters each, fill the half the diagonal leaves behind."
+  - "Hints lead; the answers stay in the spoiler section at the foot of the page."
 faq:
-  - q: "Where do the theme words cluster in Strands #981?"
-    a: "The bottom-left quarter is the densest, with 11 theme tiles out of 12."
-  - q: "What time does the next Strands puzzle arrive?"
-    a: "Puzzle #982 is the next one, available at midnight."
+  - q: "Does Monday's spangram really touch every edge?"
+    a: "Yes. Its diagonal starts on the left edge and ends in the bottom-right corner, then it runs up the right column to the top row, so it brushes the left, bottom, right and top in turn."
+  - q: "When does the next Strands puzzle go live?"
+    a: "Puzzle #982 follows at midnight."
   - q: "What are the Strands answers for Nov. 9, 2026?"
-    a: "Spoilers: the theme words are Banter, Chinwag, Gabfest, Gossip, Schmooze, and the spangram is Shoot the Breeze."
+    a: "Spoilers: the theme words are Banter, Chinwag, Gabfest, Gossip and Schmooze, and the spangram is Shoot the Breeze."
 sources:
   - title: "Strands"
     url: "https://www.nytimes.com/games/strands"
@@ -37,53 +37,43 @@ internalLinks:
 related: [wordle-hint-answer-today-november-9-2026-1969, nyt-connections-hints-answers-november-9-2026-1247, nyt-pips-hints-answers-november-9-2026]
 draft: false
 ---
-**Today's Strands from The New York Times (NYT) is puzzle #981, for Monday, Nov. 9, 2026, and its theme clue is "Idle chatter."** The mood is a long, aimless talk with nothing in particular to say. It was constructed by Christina Iverson and edited by Tracy Bennett. Hints for the spangram and each theme word come first; the answers wait in a marked spoiler section at the end.
-
-With 5 theme words and a 14-letter spangram filling all 48 tiles, today's board follows the usual rules, which are on our [Strands page](/news/topic/nyt-strands/#how-it-works).
+**Monday's Strands is puzzle #981, dated Nov. 9, 2026, and The New York Times (NYT) gives the clue "Idle chatter."** The mood is a long, aimless talk with nothing much to say. Christina Iverson built the grid and Tracy Bennett edited it. A fourteen-letter spangram does the heavy lifting; how it has to stretch is explained on our [Strands page](/news/topic/nyt-strands/#how-it-works). Hints come first, and the answers are held in a marked section at the foot of the page.
 
 ## Spangram hints
 
-- Hint 1: An idiom for chatting about nothing much.
-- Hint 2: Three words, opening with a verb you might use at a basketball hoop.
-- Hint 3: Fourteen letters, opening with S.
+- Hint 1: An easygoing idiom for passing time in light conversation about nothing in particular.
+- Hint 2: Three words. The first is a verb you might also do at a basketball hoop; the last is a soft wind.
+- Hint 3: Fourteen letters over three words, opening with S.
 
 ## Theme word hints
 
-Five theme words, each a word for casual talk:
+Every answer is a word for casual talk, shortest to longest:
 
-- **6 letters, starts with B:** playful back-and-forth teasing.
-- **6 letters, starts with G:** chat about other people's business.
-- **7 letters, starts with C:** British slang for a friendly talk.
-- **7 letters, starts with G:** a long, lively session of talking.
-- **8 letters, starts with S:** to chat someone up, often to make connections.
+- **6 letters, starts with B:** playful, teasing back-and-forth between friends.
+- **6 letters, starts with G:** talk about other people's private business.
+- **7 letters, starts with C:** British slang for a cozy natter.
+- **7 letters, starts with G:** a long, lively talkfest.
+- **8 letters, starts with S:** to chat someone up warmly, often to win useful contacts.
 
-## Where today's spangram and theme words sit
+## How the spangram crosses the board
 
-Trace the spangram from row 3, column 1 to row 1, column 5. It touches the top, bottom, left and right edges of the board, spans rows 1 to 8 and columns 1 to 6, and changes direction 2 times, with 8 tiles in its longest straight run.
+Starting on the left edge three rows down, the spangram cuts a clean diagonal all the way to the bottom-right corner, passing through six cells on a single slant. At the corner it turns and climbs the entire right-hand column, rung by rung, to the top row, then takes one step left to finish. In effect it traces the right side and the long diagonal, which is how it manages to touch all four edges.
 
-Look at the bottom-left quarter (rows 5 to 8, columns 1 to 3) first. 11 of its 12 tiles are theme tiles, 1 are spangram tiles. No theme word fits entirely inside it.
-
-The longest theme word is the 8-letter S word, at 8 letters; the 6-letter B word and the 6-letter G word tie for shortest at 6 letters. The spangram, at 14 letters, is 6 longer than the longest theme word. Theme tiles per quarter: top-left 10, top-right 7, bottom-left 11, bottom-right 6.
-
-| Theme word | Rows | Columns | Where it sits |
-|---|---|---|---|
-| 6-letter B word | 2 to 5 | 2 to 4 | mostly top-left (4 of 6 tiles) |
-| 7-letter C word | 4 to 7 | 1 to 4 | mostly bottom-left (5 of 7 tiles) |
-| 7-letter G word | 2 to 6 | 4 to 5 | mostly top-right (5 of 7 tiles) |
-| 6-letter G word | 1 to 2 | 1 to 4 | mostly top-left (5 of 6 tiles) |
-| 8-letter S word | 7 to 8 | 1 to 5 | mostly bottom-left (6 of 8 tiles) |
+The talk words crowd the half of the board the diagonal leaves behind. The six-letter G word runs along the top on the left, with the six-letter B word just under it. Down in the bottom-left the eight-letter S word stretches across five columns of the last two rows, and the seven-letter C word loops above it. The seven-letter G word leans against the spangram on the right. The lower-left quarter is the thickest, with eleven of its twelve tiles spelling theme words.
 
 ## Solving tips
 
-Two of the answers contain a C next to an H, so look for that pair first. Our [November 2026 printable calendar](/november-calendars.html) and [printable weekly calendar](/printable-weekly-calendar.html) are handy for a daily log.
+The longest straight stretch runs up the right edge, so follow that climb first to pin the spangram down. With the right side settled, pick apart the crowded lower-left where the talk words overlap most.
 
-More puzzles for this date: [Wordle](/news/wordle-hint-answer-today-november-9-2026-1969/), [Connections](/news/nyt-connections-hints-answers-november-9-2026-1247/) and [Pips](/news/nyt-pips-hints-answers-november-9-2026/).
+Logging your run? The [printable weekly calendar](/printable-weekly-calendar.html) and the [November 2026 printable calendar](/november-calendars.html) both have room.
+
+The rest of Monday's set: [Wordle](/news/wordle-hint-answer-today-november-9-2026-1969/), [Connections](/news/nyt-connections-hints-answers-november-9-2026-1247/) and [Pips](/news/nyt-pips-hints-answers-november-9-2026/).
 
 ## Today's Strands answers (spoilers)
 
-Last chance to turn back before the answers.
+Answers are just below; stop here to keep solving.
 
 - **Spangram:** Shoot the Breeze
 - **Theme words:** Banter, Chinwag, Gabfest, Gossip, Schmooze
 
-All five theme words are ways of talking, and the spangram is an idiom for that same talk.
+Each theme word is a way to chat idly, and the spangram, Shoot the Breeze, is the idiom for that same aimless talk.

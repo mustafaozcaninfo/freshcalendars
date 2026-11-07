@@ -36,7 +36,7 @@ internalLinks:
     label: "October 2026 printable calendar"
   - href: "/printable-weekly-calendar.html"
     label: "Printable weekly calendar"
-related: [wordle-hint-answer-today-october-29-2026-1958, nyt-strands-hints-answers-october-29-2026-970, nyt-pips-hints-answers-october-29-2026]
+related: [wordle-answers-october-2026-all-words, nyt-strands-answers-october-2026-all-spangrams, nyt-pips-hints-answers-october-29-2026]
 draft: false
 ---
 **Today's Connections from The New York Times (NYT) is puzzle #1236, for Thursday, Oct. 29, 2026, edited by Wyna Liu.** One group is things that take coins, one is linked to penguins, one is the ends of famous font names, and one is things that show three colors. Below are two levels of hints for each color, then the full solution and an explanation of the overlaps in a marked spoiler section.
@@ -79,7 +79,7 @@ Candy corn ties the board to Halloween, which falls on Saturday, Oct. 31.
 
 Keep a streak log on our [printable weekly calendar](/printable-weekly-calendar.html) or the [October 2026 printable calendar](/october-calendars.html).
 
-More of today's puzzles: [Wordle hints](/news/wordle-hint-answer-today-october-29-2026-1958/), [Strands hints](/news/nyt-strands-hints-answers-october-29-2026-970/) and [Pips hints](/news/nyt-pips-hints-answers-october-29-2026/).
+More of today's puzzles: [Wordle hints](/news/wordle-answers-october-2026-all-words/), [Strands hints](/news/nyt-strands-answers-october-2026-all-spangrams/) and [Pips hints](/news/nyt-pips-hints-answers-october-29-2026/).
 
 ## Today's Connections answers (spoilers)
 

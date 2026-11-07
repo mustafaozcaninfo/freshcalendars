@@ -1,9 +1,10 @@
 ---
 title: "NYT Spelling Bee Hints and Answers for Wednesday, Oct. 28, 2026: Hint Grid, Pangram and Tuesday's Solution"
 seoTitle: "Spelling Bee Hints Today, Oct. 28, 2026"
-description: "Spelling Bee for Wednesday, Oct. 28, 2026: center letter I with B, D, E, G, L and O, the hint grid, two-letter list and pangram hint, then all 71 words."
+description: "Wednesday's Spelling Bee for Oct. 28, 2026 from the New York Times centers on I, with 71 words, 355 points and one pangram. Hints first, then the answers."
 type: explainer
 publishedAt: "2026-10-27T00:05:00-04:00"
+updatedAt: "2026-11-07T12:52:00-05:00"
 authors: [news-desk]
 category: puzzles
 keywords: ["Spelling Bee hints today", "Spelling Bee answers today", "NYT Spelling Bee October 28 2026", "Spelling Bee pangram today", "Spelling Bee hint grid"]
@@ -14,27 +15,17 @@ hero:
   title: "Spelling Bee hints, Oct. 28, 2026"
   caption: "Spelling Bee for Wednesday, Oct. 28, 2026: the hint grid and two-letter list first, the word list only in the spoiler section."
 summary:
-  - "Wednesday's Spelling Bee from The New York Times, Oct. 28, 2026, uses the center letter I with B, D, E, G, L and O."
-  - "It has 71 words worth 355 points and one pangram; Genius needs 249 points, 70% of the total."
-  - "Hints come first: the grid, the two-letter list and a clue for the pangram, then the words in a spoiler section."
-  - "Tuesday's full solution, with the pangram Payphone, is further down; every list comes from the puzzle data on the Spelling Bee page."
+  - "Wednesday's New York Times Spelling Bee, Oct. 28, 2026, puts I in the center with B, D, E, G, L and O around it."
+  - "It is the week's biggest board: 71 words, 355 points and one pangram, with Genius at 249."
+  - "The pair GI opens 10 words and BI another 8, so the G and B rows carry the puzzle."
+  - "Twenty-six answers end in -ed, so test that ending on every verb you find."
 faq:
-  - q: "What are the Spelling Bee letters for Oct. 28, 2026?"
-    a: "The center letter is I, and the outer letters are B, D, E, G, L and O."
-  - q: "How many points does Genius need on Oct. 28, 2026?"
-    a: "249 of 355 possible points (70% is 248.5). The puzzle has 71 words and one pangram."
-  - q: "What is the Spelling Bee pangram for Oct. 28, 2026?"
-    a: "Spoiler: Obliged."
-  - q: "What was the Spelling Bee pangram on Oct. 27, 2026?"
-    a: "Payphone, eight letters, the only pangram that day. The center letter was A and the outer letters were E, H, N, O, P and Y."
-  - q: "How many points did Genius need on Oct. 27, 2026?"
-    a: "81 of 116 possible points (70% is 81.2). The puzzle had 29 words."
-  - q: "How is Spelling Bee scored?"
-    a: "A four-letter word scores 1 point, a longer word scores one point per letter, and a pangram, which uses all seven letters, adds 7 bonus points. Wednesday's 71 words add up to 355 points under those rules."
-  - q: "Can letters be used more than once?"
-    a: "Yes. Every word must contain the center letter and be at least four letters long, and any letter can repeat, as in Giggle or Illegible from Wednesday's list."
-  - q: "Who edits Spelling Bee?"
-    a: "Sam Ezersky, according to the puzzle data on The New York Times' Spelling Bee page."
+  - q: "How big is the Oct. 28 Spelling Bee?"
+    a: "Seventy-one words and 355 points, the largest grid of the week, with Genius at 249 and one pangram."
+  - q: "Why do so many Oct. 28 answers end in -ed?"
+    a: "Twenty-six of the 71 do, because the letters build past-tense verbs such as Boiled, Gilded and Libeled."
+  - q: "What is the Oct. 28 pangram?"
+    a: "Spoiler: Obliged, the one seven-letter word that uses B, D, E, G, I, L and O."
 sources:
   - title: "Spelling Bee"
     url: "https://www.nytimes.com/puzzles/spelling-bee"
@@ -44,21 +35,15 @@ internalLinks:
     label: "October 2026 printable calendar"
   - href: "/printable-weekly-calendar.html"
     label: "Printable weekly calendar"
-related: [wordle-hint-answer-today-october-28-2026-1957, nyt-connections-hints-answers-october-28-2026-1235, nyt-pips-hints-answers-october-28-2026]
+related: [wordle-answers-october-2026-all-words, nyt-connections-hints-answers-october-28-2026-1235, nyt-pips-hints-answers-october-28-2026]
 draft: false
 ---
 
-**Wednesday's Spelling Bee from The New York Times (NYT), for Oct. 28, 2026, puts I in the center with B, D, E, G, L and O around it.** It has 71 words worth 355 points and one pangram, with Genius at 249 points. The hint grid, the two-letter list and the pangram clue come first; the full word list waits in a spoiler section, with Tuesday's solution below it.
+**Wednesday's New York Times (NYT) Spelling Bee for Oct. 28, 2026 is a crowded board: I sits in the middle, with B, D, E, G, L and O around the rim.** It opens up 71 words and 355 points, the fullest Bee of the week, with one pangram tucked inside. The clues come first, and the answer list is the final section.
 
-## How Spelling Bee works
+Genius lands at 249 points. Our [Spelling Bee page](/news/topic/nyt-spelling-bee/#how-it-works) explains how the scoring adds up.
 
-You get seven letters in a honeycomb. Each word must be at least four letters long and must use the yellow center letter; letters can repeat. That is the whole rulebook. A four-letter word is worth 1 point and a longer word is worth one point per letter. A pangram uses all seven letters and earns 7 extra points. Genius sits at 70% of the day's total, which is 249 of 355 points today (70% is 248.5, rounded to 249).
-
-## How to use the hint grid
-
-The grid counts the answers by first letter and by length. Think of it as a map. Start with a row that has many short words, find those, then move to the longer columns. The two-letter list does the same job with more precision: "GI-10" means 10 answers begin with G and I.
-
-## Wednesday's hint grid, Oct. 28, 2026
+## Wednesday's hint grid, Oct. 28
 
 Center letter I; outer letters B, D, E, G, L, O. 71 words, 355 points, one pangram.
 
@@ -75,13 +60,33 @@ Center letter I; outer letters B, D, E, G, L, O. 71 words, 355 points, one pangr
 
 Two-letter starts: BE-4, BI-8, BL-1, BO-5, DE-1, DI-6, DO-4, ED-2, EL-3, GE-2, GI-10, GL-3, GO-1, ID-3, IG-1, IL-1, IO-1, LE-1, LI-7, LO-1, OB-2, OI-1, OL-3.
 
-## Pangram hint
+## The pangram clue
 
-- **Pangram** (7 letters, starts with O, ends with D): it describes being required by duty or grateful for a favor.
+- **Pangram** (7 letters, starts with O, ends with D): grateful for a favor, or bound by a duty to do something.
 
-Look for doubles. 26 of Wednesday's 71 answers have the same letter twice in a row, such as LL, GG, DD or OO.
+Begin where the words pile up. GI opens 10 answers and BI another 8, and the whole B row holds 18 of the 71, more than any other letter.
 
-More of Wednesday's games: [Wordle hints](/news/wordle-hint-answer-today-october-28-2026-1957/), [Connections hints](/news/nyt-connections-hints-answers-october-28-2026-1235/) and [Pips hints](/news/nyt-pips-hints-answers-october-28-2026/). Track a Genius streak on our [printable weekly calendar](/printable-weekly-calendar.html) or the [October 2026 calendar](/october-calendars.html).
+## Why Oct. 28 rewards verbs
+
+This grid is about endings. Twenty-six of the 71 answers close with -ed, from Boiled and Gilded to Diddled and Lobbied, so once you find a verb, try the past tense of it too. Doubled letters are just as common: 26 words repeat a letter back to back, such as the LL in Billed or the GG in Giggle.
+
+| Length | Words | Points each | Points |
+|---|---|---|---|
+| 4 letters | 15 | 1 | 15 |
+| 5 letters | 20 | 5 | 100 |
+| 6 letters | 23 | 6 | 138 |
+| 7 letters | 10 | 7 | 70 |
+| 8 letters | 2 | 8 | 16 |
+| 9 letters | 1 | 9 | 9 |
+| Pangram bonus | 1 | 7 | 7 |
+
+E runs through 59 of the 71 words and L through 52, so almost every answer carries at least one of them. The 23 six-letter words are the deepest column, worth 138 points on their own.
+
+## Tuesday in brief
+
+Tuesday, Oct. 27 played out far shorter: A in the center with E, H, N, O, P and Y, only 29 words for 116 points. Payphone was that day's pangram.
+
+More of Wednesday's games: [Wordle hints](/news/wordle-answers-october-2026-all-words/), [Connections hints](/news/nyt-connections-hints-answers-october-28-2026-1235/) and [Pips hints](/news/nyt-pips-hints-answers-october-28-2026/). Mark a Genius run on the [printable weekly calendar](/printable-weekly-calendar.html) or the [October 2026 calendar](/october-calendars.html).
 
 ## Wednesday's Spelling Bee answers, Oct. 28, 2026 (spoilers)
 
@@ -95,31 +100,4 @@ Stop here if you are still working on Wednesday's puzzle.
 - **8 letters:** Bloodied, Eligible
 - **9 letters:** Illegible
 
-The 15 four-letter words give 15 points, the 56 longer words give 333, and the pangram bonus adds 7, for 355.
-
-## Tuesday's hint grid, Oct. 27, 2026
-
-Center letter A; outer letters E, H, N, O, P, Y. 29 words, 116 points, one pangram.
-
-| Starts with | 4 letters | 5 letters | 6 letters | 8 letters | Total |
-|---|---|---|---|---|---|
-| A | 3 | 2 | 2 | - | 7 |
-| H | 1 | 3 | 1 | - | 5 |
-| N | 4 | 1 | - | - | 5 |
-| P | 2 | 4 | 2 | 1 | 9 |
-| Y | 1 | 2 | - | - | 3 |
-| Total | 11 | 12 | 5 | 1 | 29 |
-
-Two-letter starts: AE-1, AH-1, AN-4, AP-1, HA-2, HE-2, HY-1, NA-4, NE-1, PA-7, PE-1, PO-1, YA-2, YE-1.
-
-## Tuesday's Spelling Bee answers, Oct. 27, 2026 (spoilers)
-
-Stop here if you are still working on Tuesday's puzzle.
-
-- **Pangram:** Payphone
-- **4 letters:** Aeon, Ahoy, Anon, Heap, Naan, Nana, Nape, Neap, Pane, Papa, Yeah
-- **5 letters:** Annoy, Apnea, Happy, Henna, Hyena, Nanny, Paean, Pappy, Payee, Poppa, Yahoo, Yappy
-- **6 letters:** Anyhoo, Anyone, Happen, Papaya, Peahen
-- **8 letters:** Payphone
-
-The 11 four-letter words give 11 points, the 18 longer words give 98, and the pangram bonus adds 7, for 116.
+Add it up: 15 points for the four-letter words, 333 for the 56 longer answers and 7 for the pangram, a total of 355. A libelee, worth 7 points, is the person a libel is written about.

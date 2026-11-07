@@ -6,6 +6,7 @@ type: explainer
 publishedAt: "2026-10-29T07:24:00-04:00"
 authors: [news-desk]
 category: puzzles
+noindex: true
 keywords: ["Blossom answers today", "Blossom word game October 29 2026", "Blossom pangram today", "Blossom hints", "Merriam-Webster Blossom"]
 dateline: "New York"
 hero:
@@ -40,7 +41,7 @@ internalLinks:
     label: "October 2026 printable calendar"
   - href: "/printable-weekly-calendar.html"
     label: "Printable weekly calendar"
-related: [nyt-spelling-bee-hints-answers-october-29-2026, wordle-hint-answer-today-october-29-2026-1958, quordle-hints-answers-october-28-2026-1738]
+related: [nyt-spelling-bee-answers-october-2026-all-pangrams, wordle-answers-october-2026-all-words, quordle-hints-answers-october-28-2026-1738]
 draft: false
 ---
 **Today's Blossom from Merriam-Webster, for Thursday, Oct. 29, 2026, puts V in the center with the petals E, G, I, N, R and T.** Six everyday words use all seven letters, from 8 to 11 letters long. Below are the rules, words to try and hints for the pangrams, which are revealed in a marked spoiler section at the end.
@@ -69,7 +70,7 @@ With V in the middle and E, G, I, N, R and T around it, plenty of short words fa
 
 Keep a streak log on our [printable weekly calendar](/printable-weekly-calendar.html) or the [October 2026 printable calendar](/october-calendars.html).
 
-More of today's puzzles: [Spelling Bee hints](/news/nyt-spelling-bee-hints-answers-october-29-2026/), [Wordle hints](/news/wordle-hint-answer-today-october-29-2026-1958/), [Mini Crossword answers](/news/nyt-mini-crossword-answers-october-29-2026/) and [Quordle hints](/news/quordle-hints-answers-october-28-2026-1738/).
+More of today's puzzles: [Spelling Bee hints](/news/nyt-spelling-bee-answers-october-2026-all-pangrams/), [Wordle hints](/news/wordle-answers-october-2026-all-words/), [Mini Crossword answers](/news/nyt-mini-crossword-answers-october-29-2026/) and [Quordle hints](/news/quordle-hints-answers-october-28-2026-1738/).
 
 ## Today's Blossom pangrams (spoilers)
 

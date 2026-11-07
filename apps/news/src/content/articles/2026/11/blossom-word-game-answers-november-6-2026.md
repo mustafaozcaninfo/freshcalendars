@@ -54,6 +54,8 @@ draft: false
 - **Center:** O (every word must include it)
 - **Petals:** E, F, N, R, S, U
 
+Every word today needs the O in the center; the rules and the scoring are on our [Blossom page](/news/topic/blossom/#how-it-works).
+
 The board holds three vowel letters in all, the center O plus E and U on the petals. F is the one petal that is hard to place, so a lot of good words simply skip it.
 
 ## Long-word count before the spoilers

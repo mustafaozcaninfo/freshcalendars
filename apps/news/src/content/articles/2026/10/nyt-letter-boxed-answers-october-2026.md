@@ -36,7 +36,7 @@ internalLinks:
     label: "October 2026 printable calendar"
   - href: "/november-calendars.html"
     label: "November 2026 printable calendar"
-related: [nyt-letter-boxed-answer-hints-october-31-2026, nyt-spelling-bee-answers-october-2026-all-pangrams, wordle-answers-october-2026-all-words]
+related: [nyt-spelling-bee-answers-october-2026-all-pangrams, wordle-answers-october-2026-all-words]
 draft: false
 downloads:
   - group: "NYT Letter Boxed Answers printables"
@@ -129,7 +129,7 @@ assets:
 | Fri., Oct. 30 | L/R/V, I/F/S, G/M/T, N/O/A | 4 | Flamingos, Striving |
 | Sat., Oct. 31 | U/I/N, A/T/X, E/O/M, B/P/Y | 5 | Bauxite, Eponym |
 
-Source: The New York Times, [Letter Boxed](https://www.nytimes.com/puzzles/letter-boxed), puzzle data for Oct. 1 to Oct. 31, 2026. Sides are listed as the puzzle data gives them, one group of three letters per side. Letter Boxed has no public puzzle numbers, so days are identified by date. The solution is the one the Times calls "Our solution"; other valid answers exist. Our daily pages cover the last five days: [Oct. 27](/news/nyt-letter-boxed-answer-hints-october-27-2026/), [Oct. 28](/news/nyt-letter-boxed-answer-hints-october-28-2026/), [Oct. 29](/news/nyt-letter-boxed-answer-hints-october-29-2026/), [Oct. 30](/news/nyt-letter-boxed-answer-hints-october-30-2026/) and [Oct. 31](/news/nyt-letter-boxed-answer-hints-october-31-2026/). For earlier and later puzzles, see the [Letter Boxed hub](/news/topic/nyt-letter-boxed/).
+Source: The New York Times, [Letter Boxed](https://www.nytimes.com/puzzles/letter-boxed), puzzle data for Oct. 1 to Oct. 31, 2026. Sides are listed as the puzzle data gives them, one group of three letters per side. Letter Boxed has no public puzzle numbers, so days are identified by date. The solution is the one the Times calls "Our solution"; other valid answers exist. Our daily pages cover the last five days: [Oct. 27](/news/nyt-letter-boxed-answer-hints-october-27-2026/), Oct. 28, Oct. 29, Oct. 30 and Oct. 31. For earlier and later puzzles, see the [Letter Boxed hub](/news/topic/nyt-letter-boxed/).
 
 ## How did we check the solutions?
 

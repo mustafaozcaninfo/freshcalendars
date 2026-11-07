@@ -44,7 +44,7 @@ internalLinks:
     label: "October 2026 printable calendar"
   - href: "/printable-weekly-calendar.html"
     label: "Printable weekly calendar"
-related: [nyt-spelling-bee-hints-answers-october-25-2026, nyt-connections-hints-answers-october-25-2026-1232, wordle-hint-answer-today-october-25-2026-1954]
+related: [nyt-spelling-bee-hints-answers-october-25-2026, nyt-connections-hints-answers-october-25-2026-1232, wordle-answers-october-2026-all-words]
 draft: false
 ---
 
@@ -72,7 +72,7 @@ Start with the most restrictive region. A one-cell region that must add up to 0 
 
 Rows are numbered from the top and columns from the left, so R1C1 is the top-left cell and R2C5 is the second row, fifth column. Each line gives a domino and the value on each of its two cells.
 
-More of Sunday's games: [Spelling Bee hints](/news/nyt-spelling-bee-hints-answers-october-25-2026/), [Connections hints](/news/nyt-connections-hints-answers-october-25-2026-1232/) and [Wordle hints](/news/wordle-hint-answer-today-october-25-2026-1954/). Log your solve times on our [printable weekly calendar](/printable-weekly-calendar.html) or the [October 2026 calendar](/october-calendars.html).
+More of Sunday's games: [Spelling Bee hints](/news/nyt-spelling-bee-hints-answers-october-25-2026/), [Connections hints](/news/nyt-connections-hints-answers-october-25-2026-1232/) and [Wordle hints](/news/wordle-answers-october-2026-all-words/). Log your solve times on our [printable weekly calendar](/printable-weekly-calendar.html) or the [October 2026 calendar](/october-calendars.html).
 
 ## Sunday's Pips hints, Oct. 25, 2026
 

@@ -40,7 +40,7 @@ internalLinks:
     label: "October 2026 printable calendar"
   - href: "/printable-weekly-calendar.html"
     label: "Printable weekly calendar"
-related: [nyt-spelling-bee-hints-answers-october-25-2026, wordle-hint-answer-today-october-25-2026-1954, nyt-mini-crossword-answers-october-25-2026]
+related: [nyt-spelling-bee-hints-answers-october-25-2026, wordle-answers-october-2026-all-words, nyt-mini-crossword-answers-october-25-2026]
 draft: false
 ---
 **Today's Blossom from Merriam-Webster, for Sunday, Oct. 25, 2026, puts S in the center with the petals A, E, H, R, T and W.** Several everyday words use all seven letters, and plurals make the S easy to place. Below are the rules, words to try and hints for the pangrams, which are revealed in a marked spoiler section at the end.
@@ -66,7 +66,7 @@ With S in the middle, think plurals and "st" or "sh" starts. Good starters inclu
 
 Keep a streak log on our [printable weekly calendar](/printable-weekly-calendar.html) or the [October 2026 printable calendar](/october-calendars.html).
 
-More of today's puzzles: [Spelling Bee hints](/news/nyt-spelling-bee-hints-answers-october-25-2026/), [Wordle hints](/news/wordle-hint-answer-today-october-25-2026-1954/), [Connections hints](/news/nyt-connections-hints-answers-october-25-2026-1232/), [Mini Crossword answers](/news/nyt-mini-crossword-answers-october-25-2026/) and [Quordle hints](/news/quordle-hints-answers-october-25-2026-1735/).
+More of today's puzzles: [Spelling Bee hints](/news/nyt-spelling-bee-hints-answers-october-25-2026/), [Wordle hints](/news/wordle-answers-october-2026-all-words/), [Connections hints](/news/nyt-connections-hints-answers-october-25-2026-1232/), [Mini Crossword answers](/news/nyt-mini-crossword-answers-october-25-2026/) and [Quordle hints](/news/quordle-hints-answers-october-25-2026-1735/).
 
 ## Today's Blossom pangrams (spoilers)
 

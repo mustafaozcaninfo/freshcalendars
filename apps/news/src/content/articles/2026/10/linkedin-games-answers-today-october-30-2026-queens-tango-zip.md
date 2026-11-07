@@ -7,6 +7,7 @@ publishedAt: "2026-10-30T07:50:00-04:00"
 updatedAt: "2026-10-30T07:50:00-04:00"
 authors: [news-desk]
 category: puzzles
+noindex: true
 keywords: ["LinkedIn games answers today", "LinkedIn Queens answer today", "LinkedIn Zip answer today", "LinkedIn Tango answer today", "Pinpoint answer today"]
 dateline: "New York"
 hero:
@@ -60,7 +61,7 @@ internalLinks:
     label: "October 2026 printable calendar"
   - href: "/printable-weekly-calendar.html"
     label: "Printable weekly calendar"
-related: [linkedin-games-answers-today-october-29-2026-queens-tango-zip, wordle-hint-answer-today-october-30-2026-1959, nyt-connections-hints-answers-october-30-2026-1237]
+related: [linkedin-games-answers-today-october-29-2026-queens-tango-zip, wordle-answers-october-2026-all-words, nyt-connections-hints-answers-october-30-2026-1237]
 draft: false
 ---
 
@@ -95,7 +96,7 @@ Descriptions follow LinkedIn's Help Center. Anyone can play, with or without a L
 
 **Zip.** Work from both ends: the path must start at 1 and end at the highest number, and dead-end corners force the path's shape.
 
-More puzzles for Friday: [Wordle hint and answer](/news/wordle-hint-answer-today-october-30-2026-1959/) and [Connections hints and answers](/news/nyt-connections-hints-answers-october-30-2026-1237/). Yesterday's page is still up: [Thursday's LinkedIn games answers](/news/linkedin-games-answers-today-october-29-2026-queens-tango-zip/). Keep your streaks on our [printable weekly calendar](/printable-weekly-calendar.html) or the [October 2026 calendar](/october-calendars.html).
+More puzzles for Friday: [Wordle hint and answer](/news/wordle-answers-october-2026-all-words/) and [Connections hints and answers](/news/nyt-connections-hints-answers-october-30-2026-1237/). Yesterday's page is still up: [Thursday's LinkedIn games answers](/news/linkedin-games-answers-today-october-29-2026-queens-tango-zip/). Keep your streaks on our [printable weekly calendar](/printable-weekly-calendar.html) or the [October 2026 calendar](/october-calendars.html).
 
 ## Friday's LinkedIn answers, Oct. 30, 2026 (spoilers)
 

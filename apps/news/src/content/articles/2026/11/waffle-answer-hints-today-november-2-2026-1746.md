@@ -6,6 +6,7 @@ type: explainer
 publishedAt: "2026-11-02T07:25:00-05:00"
 authors: [news-desk]
 category: puzzles
+noindex: true
 keywords: ["Waffle answer today", "Waffle 1746", "Waffle hints", "Waffle answer November 2 2026", "Waffle game today"]
 dateline: "New York"
 hero:

@@ -43,7 +43,7 @@ internalLinks:
     label: "October 2026 printable calendar"
   - href: "/printable-weekly-calendar.html"
     label: "Printable weekly calendar"
-related: [wordle-hint-answer-today-october-31-2026-1960, nyt-spelling-bee-hints-answers-october-31-2026, blossom-word-game-answers-october-30-2026]
+related: [wordle-answers-october-2026-all-words, nyt-spelling-bee-answers-october-2026-all-pangrams, blossom-word-game-answers-october-30-2026]
 draft: false
 ---
 **Today's Blossom from Merriam-Webster, for Saturday, Oct. 31, 2026, puts E in the center with the petals A, B, C, O, R and T.** Solver sites list four words that use all seven letters, each 10 or 11 letters long. Below are the rules, words to try and hints for the pangrams, which are revealed in a marked spoiler section at the end.
@@ -70,7 +70,7 @@ With E in the middle and A, B, C, O, R and T around it, several short words fall
 
 Keep a streak log on our [printable weekly calendar](/printable-weekly-calendar.html) or the [October 2026 printable calendar](/october-calendars.html).
 
-More of today's puzzles: [Spelling Bee hints](/news/nyt-spelling-bee-hints-answers-october-31-2026/), [Wordle hints](/news/wordle-hint-answer-today-october-31-2026-1960/) and [Waffle hints](/news/waffle-answer-hints-today-october-31-2026-1744/).
+More of today's puzzles: [Spelling Bee hints](/news/nyt-spelling-bee-answers-october-2026-all-pangrams/), [Wordle hints](/news/wordle-answers-october-2026-all-words/) and [Waffle hints](/news/waffle-answer-hints-today-october-31-2026-1744/).
 
 ## Today's Blossom pangrams (spoilers)
 
