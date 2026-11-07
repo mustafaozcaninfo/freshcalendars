@@ -1,9 +1,10 @@
 ---
 title: "BCPS Calendar 2026-27: Winter Break Dec. 24 to Jan. 1, Spring Break March 22-29"
-seoTitle: "BCPS Calendar 2026-27: Breaks and Last Day"
-description: "Baltimore County Public Schools (BCPS) 2026-27: no school Dec. 24 to Jan. 1 and March 22-29, last day June 17, or June 14 if no closure days are used."
+seoTitle: "Baltimore County BCPS Calendar 2026-27: Breaks, Last Day"
+description: "Baltimore County Public Schools (BCPS) 2026-27: off Nov. 26-27 for Thanksgiving, Dec. 24 to Jan. 1 and March 22-29; last day June 17 or June 14."
 type: news
 publishedAt: "2026-11-03T08:36:00-05:00"
+updatedAt: "2026-11-07T07:20:00-05:00"
 authors: [aaron-kessler]
 category: school-calendars
 keywords: ["bcps calendar 2026-27", "baltimore county public schools calendar 2026-2027", "bcps winter break 2026", "bcps spring break 2027", "bcps last day of school 2027"]
@@ -35,7 +36,7 @@ faq:
     a: "Thursday, June 17, 2027 is the last day of classes and ends 3 hours early. That date assumes all three emergency closure days are used. The calendar says: \"If no emergency closure days occur, the school year will end for students on Monday, June 14, 2027.\""
   - q: "Is BCPS open on Columbus Day and Veterans Day?"
     a: "Yes. The calendar lists Columbus Day/Indigenous Peoples' Day on Oct. 12 and Veterans Day on Nov. 11 as open days, not closures."
-  - q: "Is BCPS closed on Election Day, Nov. 3, 2026?"
+  - q: "Was BCPS closed on Election Day, Nov. 3, 2026?"
     a: "Yes. The calendar lists Tuesday, Nov. 3, 2026 as closed for schools and offices."
 sources:
   - title: "2026-2027 School Year Calendar, Pre-Labor Day Start (PDF, adopted 11/04/25)"
@@ -114,7 +115,7 @@ downloads:
 draft: false
 ---
 
-**Baltimore County Public Schools (BCPS) students are off from Thursday, Dec. 24, 2026 through Friday, Jan. 1, 2027, and the last day of classes is Thursday, June 17, 2027**, according to the district's "2026-2027 School Year Calendar, Pre-Labor Day Start" (PDF), adopted Nov. 4, 2025. The first day for students was Monday, Aug. 31, 2026. June 17 assumes all three emergency closure days are used; with none, the year ends Monday, June 14. Today, Tuesday, Nov. 3, is Election Day, and BCPS schools and offices are closed.
+**Baltimore County Public Schools (BCPS) students are off from Thursday, Dec. 24, 2026 through Friday, Jan. 1, 2027, and the last day of classes is Thursday, June 17, 2027**, according to the district's "2026-2027 School Year Calendar, Pre-Labor Day Start" (PDF), adopted Nov. 4, 2025. The first day for students was Monday, Aug. 31, 2026. June 17 assumes all three emergency closure days are used; with none, the year ends Monday, June 14. The next days off are Thursday and Friday, Nov. 26-27, for Thanksgiving, and Wednesday, Nov. 25 is a 3-hour early dismissal.
 
 ## What are the BCPS winter break dates for 2026?
 
@@ -144,7 +145,7 @@ On these seven days all schools close 3 hours early.
 | Date | Weekday | Calendar note |
 |---|---|---|
 | Oct. 30, 2026 | Friday | Marking period ends |
-| Nov. 25, 2026 | Wednesday | Day before Thanksgiving; a school day, not a day off |
+| Nov. 25, 2026 | Wednesday | Thanksgiving holiday begins at the end of the school day; a school day, with schools and offices closing 3 hours early |
 | Jan. 15, 2027 | Friday | Early dismissal |
 | Feb. 10, 2027 | Wednesday | Early dismissal |
 | April 2, 2027 | Friday | Early dismissal |
