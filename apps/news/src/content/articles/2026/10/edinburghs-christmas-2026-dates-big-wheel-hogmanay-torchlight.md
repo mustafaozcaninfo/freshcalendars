@@ -4,6 +4,7 @@ seoTitle: "Edinburgh's Christmas 2026 Dates: Big Wheel, Hogmanay"
 description: "Edinburgh's Christmas runs Saturday 14 November 2026 to Sunday 3 January 2027, per its official website. The Torchlight Procession is Tuesday 29 December."
 type: news
 publishedAt: "2026-10-30T02:25:00-04:00"
+updatedAt: "2026-11-07T11:19:00-05:00"
 authors: [christina-gerland]
 category: uk-canada
 keywords: ["Edinburgh's Christmas 2026 dates", "Edinburgh Christmas market 2026", "Edinburgh Big Wheel 2026 opening times", "Edinburgh Hogmanay 2026 torchlight procession date"]
@@ -22,7 +23,7 @@ hero:
 summary:
   - "Edinburgh's Christmas runs from Saturday 14 November 2026 to Sunday 3 January 2027, according to the official website, edwinterfest.com."
   - "The Big Wheel is open 10:00 to 22:00 (last admission 21:30), with changed hours on 17 November, 24 to 26 December, 31 December, 1 January and 3 January, and closed on Christmas Day."
-  - "The Torchlight Procession is Tuesday 29 December 2026 at 18:30, and the Hogmanay Street Party is Thursday 31 December from 20:00."
+  - "The Torchlight Procession is Tuesday 29 December 2026 at 18:30, the Night Afore Party with The Fratellis is Wednesday 30 December at 18:00, and the Hogmanay Street Party is Thursday 31 December from 20:00, with prices from £10."
   - "By our count the season lasts 51 days, counting both the first and last date. Market stall hours have not yet been published on the official site."
 faq:
   - q: "When does Edinburgh's Christmas 2026 start and end?"
@@ -32,7 +33,7 @@ faq:
   - q: "When is the Edinburgh Hogmanay Torchlight Procession in 2026?"
     a: "Tuesday 29 December 2026 at 18:30, according to the official Edinburgh's Hogmanay website. The event page says prices start from £5.75."
   - q: "When is the Edinburgh Hogmanay Street Party in 2026?"
-    a: "Thursday 31 December 2026 from 20:00, according to the official website. Street Party prices are not yet published there."
+    a: "Thursday 31 December 2026 from 20:00, according to the official website. The official listing gives prices from £10."
   - q: "Are the Edinburgh Christmas market opening hours published?"
     a: "Not yet. The official site publishes daily hours only for the Big Wheel so far, so check edwinterfest.com for stall hours and closed days."
 sources:
@@ -49,7 +50,16 @@ sources:
     url: "https://edwinterfest.com/hogmanay"
     publisher: "Edinburgh's Hogmanay (Unique Assembly)"
   - title: "Torchlight Procession"
-    url: "https://edwinterfest.com/whats-on/torchlight-procession"
+    url: "https://edwinterfest.com/hogmanay/whats-on/torchlight-procession"
+    publisher: "Edinburgh's Hogmanay (Unique Assembly)"
+  - title: "The Fratellis | 30 December | Edinburgh's Hogmanay"
+    url: "https://edwinterfest.com/hogmanay/whats-on/night-afore-party"
+    publisher: "Edinburgh's Hogmanay (Unique Assembly)"
+  - title: "Hogmanay Street Party"
+    url: "https://edwinterfest.com/hogmanay/whats-on/street-party"
+    publisher: "Edinburgh's Hogmanay (Unique Assembly)"
+  - title: "Hogmanay in the Gardens with Underworld"
+    url: "https://edwinterfest.com/hogmanay/whats-on/hogmanay-in-the-gardens-with-underworld"
     publisher: "Edinburgh's Hogmanay (Unique Assembly)"
   - title: "Early-bird release for Edinburgh's Hogmanay 2026 tickets"
     url: "https://edwinterfest.com/news/hugely-successful-winter-festivals-season-sees-overwhelming-demand-for-edinburghs-hogmanay-2026-tickets-resulting-in-early-bird-release-this-friday"
@@ -90,8 +100,8 @@ assets:
     group: edinburgh-christmas-2026
     title: "Edinburgh's Christmas and Hogmanay 2026 Dates"
     subtitle: "Season opening, Big Wheel changes and Hogmanay events"
+    noKit: "Mixed list of one festival: Big Wheel hours changes plus event dates and times; no kit fits it, rows kept from the earlier sheet."
     layout: list
-    inkSaver: true
     rows:
       - ["Sat., Nov. 14", "Edinburgh's Christmas opens"]
       - ["Tue., Nov. 17", "Big Wheel 5pm-10pm"]
@@ -100,6 +110,7 @@ assets:
       - ["Fri., Dec. 25", "Big Wheel closed"]
       - ["Sat., Dec. 26", "Big Wheel noon-8pm"]
       - ["Tue., Dec. 29", "Torchlight Procession 6:30pm"]
+      - ["Wed., Dec. 30", "Night Afore Party 6pm"]
       - ["Thu., Dec. 31", "Big Wheel to 5pm, Street Party 8pm"]
       - ["Jan. 1, 2027 (Fri.)", "Big Wheel noon-8pm"]
       - ["Jan. 3, 2027 (Sun.)", "Season ends"]
@@ -119,9 +130,10 @@ Daily hours are published only for the Big Wheel so far. The official site has n
 | Edinburgh's Christmas | Saturday 14 November 2026 to Sunday 3 January 2027 | Edinburgh's Christmas website |
 | Big Wheel | 14 November 2026 to 3 January 2027, 10:00 to 22:00 | Big Wheel page |
 | Family Ice Experience | 21 November 2026 to 3 January 2027, 30-minute sessions | Family Ice Experience page |
-| Torchlight Procession | Tuesday 29 December 2026, 18:30 | Edinburgh's Hogmanay website |
-| Hogmanay Street Party | Thursday 31 December 2026, from 20:00 | Edinburgh's Hogmanay website |
-| Hogmanay in the Gardens with Underworld | 31 December 2026, 20:00 | Edinburgh's Hogmanay website |
+| Torchlight Procession | Tuesday 29 December 2026, 18:30, from £5.75 | Torchlight Procession page |
+| Night Afore Party with The Fratellis | Wednesday 30 December 2026, 18:00, from £42 | Night Afore Party page |
+| Hogmanay Street Party | Thursday 31 December 2026, from 20:00, from £10 | Street Party page |
+| Hogmanay in the Gardens with Underworld | 31 December 2026, doors 20:00, stage live from 20:50, from £79 | Underworld event page |
 
 By our count the season lasts 51 days, counting both 14 November and 3 January. That assumes the attractions run on every date; the Big Wheel, for one, is closed on Christmas Day.
 
@@ -143,9 +155,13 @@ Seven dates have different hours. We added the weekdays:
 
 ## When is the Edinburgh Hogmanay 2026 Torchlight Procession?
 
-The Torchlight Procession is on Tuesday 29 December 2026 at 18:30, according to the official Edinburgh's Hogmanay website. The event page says prices start from £5.75.
+The Torchlight Procession is on Tuesday 29 December 2026 at 18:30, according to the official Edinburgh's Hogmanay website. The event page says prices start from £5.75, and the meeting point is The Meadows (Melville Dr).
 
-The Hogmanay Street Party is on Thursday 31 December 2026 from 20:00, billed on the official site as "Ring in 2027". Street Party prices are not yet published there. The same evening, "Hogmanay in the Gardens with Underworld" is listed for 20:00.
+The Night Afore Party with The Fratellis is on Wednesday 30 December 2026 at 18:00 in West Princes Street Gardens, billed as a party beneath Edinburgh Castle with Scots rockers The Fratellis. The official listing says prices start from £42.
+
+The Hogmanay Street Party is on Thursday 31 December 2026 from 20:00 on Princes Street, billed on the official site as "Ring in 2027". The official listing gives prices from £10, and a 50p charity donation is collected with each Street Party ticket purchase.
+
+The same evening, "Hogmanay in the Gardens with Underworld" is in West Princes Street Gardens: doors open at 20:00 and the stage is live from 20:50. The listing says prices start from £79 and names "Underworld + Special Guests" without naming the guests. The Hogmanay page says Underworld make their Edinburgh's Hogmanay debut.
 
 Early-bird tickets for the 2026 Street Party and Torchlight Procession went on sale on 9 January 2026 at 2025 prices, according to the festival's news page of that date.
 
@@ -155,7 +171,7 @@ The official site does not yet say whether the Christmas market is free to enter
 
 ## Which dates should you mark?
 
-The printable lists ten dates: the opening, the Big Wheel changes (including Christmas Day), the Family Ice Experience start, the Torchlight Procession, the Street Party and the last day. Print it, then add the dates to the [November 2026 printable calendar](/november-calendars.html) and the [December 2026 printable calendar](/december-calendars.html).
+The printable lists eleven dates: the opening, the Big Wheel changes (including Christmas Day), the Family Ice Experience start, the Torchlight Procession, the Night Afore Party, the Street Party and the last day. Print it, then add the dates to the [November 2026 printable calendar](/november-calendars.html) and the [December 2026 printable calendar](/december-calendars.html).
 
 ## What else falls in the same weeks?
 
