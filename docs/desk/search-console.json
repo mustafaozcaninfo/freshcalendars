@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-07T15:40:10.775Z",
+ "generatedAt": "2026-11-07T17:07:53.950Z",
  "site": "sc-domain:freshcalendars.com",
  "windows": [
   {
@@ -135,7 +135,7 @@
  "gate": [
   {
    "rule": "At least 60% of /news/ URLs published 7 to 21 days ago are indexed",
-   "value": "98% (54 of 55 sampled)",
+   "value": "98% (55 of 56 sampled)",
    "pass": true
   },
   {
@@ -2224,9 +2224,9 @@
   ]
  },
  "indexed": {
-  "checked": 55,
+  "checked": 56,
   "sampled": 90,
-  "indexed": 54,
+  "indexed": 55,
   "notIndexed": [
    {
     "url": "https://freshcalendars.com/news/college-basketball-2026-27-key-dates-season-start-march-madness-printable/",
