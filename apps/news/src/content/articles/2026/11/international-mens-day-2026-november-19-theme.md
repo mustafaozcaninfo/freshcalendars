@@ -112,7 +112,7 @@ internalLinks:
     label: "November 2026 printable calendar"
   - href: "/printable-weekly-calendar.html"
     label: "printable weekly calendar"
-related: [movember-2026-dates-shave-day-60-km-move-challenge-tracker, november-2026-important-dates-days-until, international-day-elimination-violence-against-women-2026-november-25-16-days]
+related: [national-days-this-week-november-16-22-2026, november-2026-important-dates-days-until, international-day-elimination-violence-against-women-2026-november-25-16-days]
 downloads:
   - group: "International Men's Day 2026 Checklist for Schools and Workplaces printables"
     title: "International Men's Day 2026 Checklist for Schools and Workplaces"
