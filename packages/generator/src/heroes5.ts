@@ -386,6 +386,10 @@ export const PUZZLE_HEROES: [string, string, string, string, string, string, str
   ["nyt-crossword-answers-november-4-2026", "crossword", "#172033", "#f9a8d4", "NYT Crossword · Wed., Nov. 4, 2026", "NYT Crossword answers", "A hint for all 74 clues first, the full solved grid at the end."],
   ["nyt-crossword-answers-november-5-2026", "crossword", "#172033", "#93c5fd", "NYT Crossword · Thu., Nov. 5, 2026", "NYT Crossword answers", "A hint for all 78 clues first, the full solved grid at the end."],
   ["nyt-crossword-answers-november-6-2026", "crossword", "#172033", "#fcd34d", "NYT Crossword · Fri., Nov. 6, 2026", "NYT Crossword answers", "A hint for all 70 clues first, the full solved grid at the end."],
+  ["nyt-mini-crossword-answers-november-7-2026", "mini", "#0f1d2e", "#93c5fd", "NYT Mini · Sat., Nov. 7, 2026", "NYT Mini answers", "A hint for every clue first, the full grid at the end."],
+  ["nyt-midi-crossword-answers-november-7-2026", "midi", "#13213a", "#fcd34d", "NYT Midi · Sat., Nov. 7, 2026", "NYT Midi answers", "A hint for every clue and the theme first, the full grid at the end."],
+  ["nyt-crossword-answers-november-7-2026", "crossword", "#172033", "#c4b5fd", "NYT Crossword · Sat., Nov. 7, 2026", "NYT Crossword answers", "A hint for all 66 clues first, the full solved grid at the end."],
+  ["nyt-letter-boxed-answer-hints-november-9-2026", "letterboxed", "#3d1f1a", "#93c5fd", "Letter Boxed · Mon., Nov. 9, 2026", "Letter Boxed hints", "Starting letters and word lengths first, the answer at the end."],
 ];
 
 export async function buildHeroes5(only?: string): Promise<void> {

@@ -141,7 +141,7 @@ The rules for the daily grid are collected on our [NYT Crossword page](/news/top
 
 Mark the solving days on our [printable weekly calendar](/printable-weekly-calendar.html) or the [November 2026 printable calendar](/november-calendars.html).
 
-More of Friday's puzzles: [Wordle hints](/news/wordle-hint-answer-today-november-6-2026-1966/), [Connections hints](/news/nyt-connections-hints-answers-november-6-2026-1244/), [Strands hints](/news/nyt-strands-hints-answers-november-6-2026-978/), [Spelling Bee hints](/news/nyt-spelling-bee-hints-answers-november-6-2026/) and [Pips hints](/news/nyt-pips-hints-answers-november-6-2026/). The smaller siblings for the same date are our [Mini answers for Nov. 6](/news/nyt-mini-crossword-answers-november-6-2026/) and our [Midi answers for Nov. 6](/news/nyt-midi-crossword-answers-november-6-2026/).
+More of Friday's puzzles: [Wordle hints](/news/wordle-hint-answer-today-november-6-2026-1966/), [Connections hints](/news/nyt-connections-hints-answers-november-6-2026-1244/), [Strands hints](/news/nyt-strands-hints-answers-november-6-2026-978/), [Spelling Bee hints](/news/nyt-spelling-bee-hints-answers-november-6-2026/) and [Pips hints](/news/nyt-pips-hints-answers-november-6-2026/). The smaller siblings for the same date are our [Mini answers for Nov. 6](/news/nyt-mini-crossword-answers-november-6-2026/) and our [Midi answers for Nov. 6](/news/nyt-midi-crossword-answers-november-6-2026/). Saturday's full-size grid is in our [Crossword answers for Nov. 7](/news/nyt-crossword-answers-november-7-2026/).
 
 ## Today's NYT Crossword answers (spoilers)
 

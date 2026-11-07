@@ -74,7 +74,7 @@ Today's width is part of why the entries differ so much in length; the rules for
 
 Track a solving streak on our [printable weekly calendar](/printable-weekly-calendar.html) or the [November 2026 printable calendar](/november-calendars.html).
 
-More of Friday's puzzles: [Wordle hints](/news/wordle-hint-answer-today-november-6-2026-1966/), [Connections hints](/news/nyt-connections-hints-answers-november-6-2026-1244/), [Strands hints](/news/nyt-strands-hints-answers-november-6-2026-978/), [Spelling Bee hints](/news/nyt-spelling-bee-hints-answers-november-6-2026/) and [Pips hints](/news/nyt-pips-hints-answers-november-6-2026/). The bigger themed grid for Friday is our [Midi answers for Nov. 6](/news/nyt-midi-crossword-answers-november-6-2026/). Thursday's grid is in our [Mini answers for Nov. 5](/news/nyt-mini-crossword-answers-november-5-2026/).
+More of Friday's puzzles: [Wordle hints](/news/wordle-hint-answer-today-november-6-2026-1966/), [Connections hints](/news/nyt-connections-hints-answers-november-6-2026-1244/), [Strands hints](/news/nyt-strands-hints-answers-november-6-2026-978/), [Spelling Bee hints](/news/nyt-spelling-bee-hints-answers-november-6-2026/) and [Pips hints](/news/nyt-pips-hints-answers-november-6-2026/). The bigger themed grid for Friday is our [Midi answers for Nov. 6](/news/nyt-midi-crossword-answers-november-6-2026/). Thursday's grid is in our [Mini answers for Nov. 5](/news/nyt-mini-crossword-answers-november-5-2026/). Saturday's grid is in our [Mini answers for Nov. 7](/news/nyt-mini-crossword-answers-november-7-2026/).
 
 ## Today's NYT Mini answers (spoilers)
 
