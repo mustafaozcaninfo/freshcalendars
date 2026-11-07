@@ -1,6 +1,6 @@
 ---
 title: "NYT Pips Hints and Answers for Friday, Nov. 13, 2026: Easy, Medium and Hard"
-seoTitle: "Pips Hints & Answers, Nov. 13, 2026: Easy, Medium, Hard"
+seoTitle: "NYT Pips Hints & Answers Today, November 13, 2026"
 description: "Friday, Nov. 13, 2026 Pips: the Hard board reuses Nov. 7's domino set with new values. Opening moves, two hints per level, then every placement."
 type: explainer
 publishedAt: "2026-11-12T00:05:00-05:00"

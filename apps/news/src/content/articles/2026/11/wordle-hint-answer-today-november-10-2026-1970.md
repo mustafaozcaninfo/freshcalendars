@@ -1,6 +1,6 @@
 ---
 title: "Wordle #1970 on Tuesday, Nov. 10, 2026: Stepwise Hints, Then the Answer"
-seoTitle: "Wordle #1970 Hints, Tuesday Nov. 10, 2026 and Answer"
+seoTitle: "Wordle #1970 Hints & Answer Today, November 10, 2026"
 description: "Hints for Wordle #1970 on Tuesday, Nov. 10, 2026, from the letter layout through the meaning, then the answer and a closer look at its near twins."
 type: explainer
 publishedAt: "2026-11-09T00:05:00-05:00"

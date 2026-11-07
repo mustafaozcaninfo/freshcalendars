@@ -1,6 +1,6 @@
 ---
 title: "Contexto #1513 for Monday, Nov. 9, 2026: Hints, Rank Bands for 30 Close Words and Two Dead Ends"
-seoTitle: "Contexto #1513 Hints and Rank Bands, Nov. 9, 2026"
+seoTitle: "Contexto #1513 Hints & Answer Today, November 9, 2026"
 description: "Contexto #1513 for Monday, Nov. 9, 2026: hints, the game's 30 closest words in four groups, what ranks 2 to 100 look like, two cold guesses, then the answer."
 type: explainer
 publishedAt: "2026-11-08T00:05:00-05:00"

@@ -1,6 +1,6 @@
 ---
 title: "Wordle #1972 for Thursday, Nov. 12, 2026: Hints Built Around a Repeated A"
-seoTitle: "Wordle #1972 Hints, Thursday Nov. 12, 2026: Answer"
+seoTitle: "Wordle #1972 Hints & Answer Today, November 12, 2026"
 description: "Wordle #1972 on Thursday, Nov. 12, 2026: six hints around a repeated letter, then the answer and a note on how few past answers open the same way."
 type: explainer
 publishedAt: "2026-11-11T00:05:00-05:00"

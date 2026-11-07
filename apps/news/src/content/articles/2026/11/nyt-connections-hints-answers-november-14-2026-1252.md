@@ -1,6 +1,6 @@
 ---
 title: "NYT Connections Hints and Answers for Saturday, Nov. 14, 2026 (#1252): Two Hints per Group, Then the Answers"
-seoTitle: "Connections Hints & Answers Today, Nov. 14, 2026 (#1252)"
+seoTitle: "Connections #1252 Hints & Answers Today, November 14, 2026"
 description: "Connections #1252 for Saturday, Nov. 14, 2026: two hints for every color, a war-themed trap, one two-letter tile, and the full answers at the end."
 type: explainer
 publishedAt: "2026-11-13T00:05:00-05:00"

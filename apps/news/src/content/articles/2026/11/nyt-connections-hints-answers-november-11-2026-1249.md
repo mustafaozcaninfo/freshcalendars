@@ -1,6 +1,6 @@
 ---
 title: "NYT Connections Hints and Answers for Wednesday, Nov. 11, 2026 (#1249): Two Hints per Group, Then the Answers"
-seoTitle: "Connections Hints & Answers Today, Nov. 11, 2026 (#1249)"
+seoTitle: "Connections #1249 Hints & Answers Today, November 11, 2026"
 description: "Connections #1249 for Wednesday, Nov. 11, 2026: two hints for every color, a teatime trap that runs through four groups, and the full solution last."
 type: explainer
 publishedAt: "2026-11-10T00:05:00-05:00"

@@ -81,7 +81,7 @@ export function rehypePuzzleBoards() {
     const spoiler = sections.find((s) => s.h2 && SPOILER.test(text(s.h2)));
     // "Try a guess" tools above the spoiler heading: they answer only what the reader asks.
     if (spoiler) {
-      const tool = p.game === "wordle" ? wordleTester(data) : p.game === "connections" ? connectionsTester(data) : p.game === "strands" ? strandsTester(data, p.date) : "";
+      const tool = p.game === "wordle" ? wordleTester(data, p.date) : p.game === "connections" ? connectionsTester(data, p.date) : p.game === "strands" ? strandsTester(data, p.date) : p.game === "pips" ? pipsTapBoards(data) : "";
       if (tool) inserts.push([kids.indexOf(spoiler.h2), tool]);
     }
     if (spoiler) {
@@ -320,25 +320,27 @@ const b64 = (s) => Buffer.from(s, "utf8").toString("base64");
 const hide = (s) => b64([...s].reverse().join(""));
 
 /** Wordle: type a guess and see its colors against today's answer, without spending a row in the game. */
-function wordleTester(d) {
-  return `<form class="tool-box pz-track pz-guess" data-wordle-try data-k="${hide(d.solution.toUpperCase())}" data-n="${d.days_since_launch}" hidden novalidate>`
+function wordleTester(d, date) {
+  return `<form class="tool-box pz-track pz-guess" data-wordle-try data-k="${hide(d.solution.toUpperCase())}" data-n="${d.days_since_launch}" data-date="${date}" hidden novalidate>`
     + `<p class="tool-title">Test a guess without using a try</p>`
     + `<label for="pz-wt-in">Type a five-letter word to see its green, yellow and gray tiles for Wordle #${d.days_since_launch}. Nothing is sent anywhere, and the answer stays hidden unless your guess is right.</label>`
     + `<span class="pz-track-row"><input id="pz-wt-in" autocomplete="off" autocapitalize="characters" spellcheck="false" maxlength="5"><button type="submit">Test</button></span>`
     + `<span class="tool-out" aria-live="polite"></span>`
+    + `<span class="pz-kb" aria-label="Letters you have tested: green in place, yellow elsewhere in the word, gray not in it"></span>`
+    + `<span class="pz-track-tools"><button type="button" data-wordle-reset>Clear my tests</button></span>`
     + `</form>`;
 }
 
 /** Connections: pick four tiles and check them, with "one away", and no mistakes counted. */
-function connectionsTester(d) {
+function connectionsTester(d, date) {
   const cards = d.categories.flatMap((c, g) => c.cards.map((x) => ({ w: title(x.content), g, pos: x.position ?? 0 }))).sort((a, b) => a.pos - b.pos);
   const groups = d.categories.map((c) => title(c.title));
   const key = hide(JSON.stringify({ groups, cards: cards.map((c) => [c.w, c.g]) }));
-  return `<form class="tool-box pz-track pz-conn" data-conn-try data-k="${key}" hidden novalidate>`
+  return `<form class="tool-box pz-track pz-conn" data-conn-try data-k="${key}" data-date="${date}" hidden novalidate>`
     + `<p class="tool-title">Test a group without losing a mistake</p>`
     + `<p class="pz-conn-help">Tap four entries, then Check. You will see whether they form a group or are one away. The board below follows today's layout.</p>`
     + `<span class="pz-conn-grid" role="group" aria-label="Today's 16 entries"></span>`
-    + `<span class="pz-track-row"><button type="submit">Check these four</button><button type="button" data-conn-clear>Deselect</button></span>`
+    + `<span class="pz-track-row"><button type="submit">Check these four</button><button type="button" data-conn-clear>Deselect</button><button type="button" data-conn-shuffle>Shuffle</button></span>`
     + `<span class="tool-out" aria-live="polite"></span>`
     + `</form>`;
 }
@@ -415,6 +417,40 @@ function strandsBoard(d) {
   const label = `Solved Strands board: spangram ${d.spangram} in yellow, theme words ${d.themeWords.join(", ")} in blue`;
   const svg = `<svg class="pz-svg" viewBox="0 0 ${cols * S} ${rows * S}" role="img" aria-label="${esc(label)}"><g>${paths.join("")}</g><g font-family="Sora,sans-serif" font-weight="700" font-size="22" fill="#1a1a1a">${cells.join("")}</g></svg>`;
   return figure("pz-strands", svg, `The solved board: the spangram in yellow and the theme words in blue, each traced through its letters. ${FROM_DATA}`);
+}
+
+/**
+ * Pips, before the spoilers: each board's regions and conditions with every cell blank; tap a cell
+ * to see only that cell's pips. The values are in the encoded key, decoded by the page script.
+ */
+function pipsTapBoards(d) {
+  const PALETTE = ["#f9c6d0", "#c9e4b4", "#b9d7f2", "#f6dd9c", "#d8c6f0", "#f5c9a8", "#b8e3dc", "#e7d1b0", "#cfd8e3", "#f2b8e0"];
+  const SYM = { equals: "=", unequal: "≠" };
+  const boards = ["easy", "medium", "hard"].filter((lvl) => d[lvl]?.regions).map((lvl) => {
+    const L = d[lvl], name = lvl[0].toUpperCase() + lvl.slice(1);
+    const values = pipsValues(L);
+    const cells = L.regions.flatMap((r) => r.indices);
+    const cols = Math.max(...cells.map(([, c]) => c)) + 1;
+    const out = [];
+    L.regions.forEach((rg, k) => {
+      const fill = rg.type === "empty" ? "#eceff3" : PALETTE[k % PALETTE.length];
+      const first = [...rg.indices].sort((p, q) => p[0] - q[0] || p[1] - q[1])[0];
+      const lbl = rg.type === "empty" ? "" : SYM[rg.type] ?? (rg.type === "less" ? `<${rg.target}` : rg.type === "greater" ? `>${rg.target}` : String(rg.target));
+      for (const [r, c] of rg.indices) {
+        const badge = lbl && r === first[0] && c === first[1] ? `<i>${esc(lbl)}</i>` : "";
+        out.push(`<button type="button" style="grid-row:${r + 1};grid-column:${c + 1};background:${fill}" data-c="${r},${c}" aria-label="Row ${r + 1}, column ${c + 1}${lbl ? `, region ${esc(pipsRule(rg))}` : ""}: tap to show its pips">${badge}<b></b></button>`);
+      }
+    });
+    const key = hide(JSON.stringify(Object.fromEntries(values)));
+    return `<div class="pz-pt-board"><p class="pz-pt-name">${name}</p><div class="pz-pt" data-k="${key}" style="grid-template-columns:repeat(${cols},minmax(0,3rem))" role="group" aria-label="${name} board, ${values.size} cells">${out.join("")}</div></div>`;
+  });
+  if (!boards.length) return "";
+  return `<div class="tool-box pz-track pz-pips-tap" data-pips-tap hidden>`
+    + `<p class="tool-title">Check one cell at a time</p>`
+    + `<p class="pz-conn-help">Each board shows its regions and conditions with the cells blank. Tap a cell to see how many pips go there, and only that cell; tap it again to hide it.</p>`
+    + `<div class="pz-pt-boards">${boards.join("")}</div>`
+    + `<span class="pz-track-tools"><button type="button" data-pips-hide>Hide every cell</button></span>`
+    + `</div>`;
 }
 
 /** Pips board: colored regions with their conditions, and every domino in place with its pips. */
@@ -675,7 +711,7 @@ function beeTracker(d, date) {
     + `<label for="pz-bee-in">Type a word you found in today's puzzle</label>`
     + `<span class="pz-track-row"><input id="pz-bee-in" autocomplete="off" autocapitalize="characters" spellcheck="false" maxlength="20"><button type="submit">Add</button></span>`
     + `<span class="tool-out" aria-live="polite"></span>`
-    + `<span class="pz-track-tools"><button type="button" data-bee-reset>Clear my list</button></span>`
+    + `<span class="pz-track-tools"><button type="button" data-bee-hint>Hint: a word I have not found</button> <button type="button" data-bee-reset>Clear my list</button></span>`
     + `</form>`;
 }
 

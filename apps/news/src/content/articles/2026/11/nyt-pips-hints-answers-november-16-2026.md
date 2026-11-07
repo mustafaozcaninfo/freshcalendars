@@ -1,6 +1,6 @@
 ---
 title: "NYT Pips Hints and Answers for Monday, Nov. 16, 2026: Easy, Medium and Hard Domino Placements"
-seoTitle: "Pips Hints & Answers, Nov. 16, 2026: Easy, Medium, Hard"
+seoTitle: "NYT Pips Hints & Answers Today, November 16, 2026"
 description: "Pips for Monday, Nov. 16, 2026: the forced first move on each board, two hints per level, then every domino placement for Easy, Medium and Hard."
 type: explainer
 publishedAt: "2026-11-15T00:05:00-05:00"

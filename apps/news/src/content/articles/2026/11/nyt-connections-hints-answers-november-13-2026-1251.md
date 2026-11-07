@@ -1,6 +1,6 @@
 ---
 title: "NYT Connections Hints and Answers for Friday, Nov. 13, 2026 (#1251): Two Hints per Group, Then the Answers"
-seoTitle: "Connections Hints & Answers Today, Nov. 13, 2026 (#1251)"
+seoTitle: "Connections #1251 Hints & Answers Today, November 13, 2026"
 description: "Connections #1251 for Friday, Nov. 13, 2026: two hints for every color, a watery trap, a movie-preview pair that splits up, and the full answers last."
 type: explainer
 publishedAt: "2026-11-12T00:05:00-05:00"

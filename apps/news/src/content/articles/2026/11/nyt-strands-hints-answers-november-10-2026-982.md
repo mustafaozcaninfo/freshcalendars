@@ -1,6 +1,6 @@
 ---
 title: "NYT Strands Answers for Tuesday, Nov. 10, 2026 (#982): Hints First, Spoilers Last"
-seoTitle: "Strands #982: Nov. 10, 2026 Hints, Answers"
+seoTitle: "Strands #982 Hints & Answers Today, November 10, 2026"
 description: "Strands #982 for Tuesday, Nov. 10, 2026 has the clue \"Influentially online.\" Hints and a board map for six theme words and the spangram; answers last."
 type: explainer
 publishedAt: "2026-11-09T00:05:00-05:00"

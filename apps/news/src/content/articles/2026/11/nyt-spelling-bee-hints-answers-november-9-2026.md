@@ -1,6 +1,6 @@
 ---
 title: "NYT Spelling Bee Hints and Answers for Monday, Nov. 9, 2026: T in the Center, 62 Words, One Pangram"
-seoTitle: "Spelling Bee Nov. 9, 2026: Hints and 62 Answers"
+seoTitle: "Spelling Bee Hints & Answers Today, November 9, 2026"
 description: "Monday's Spelling Bee for Nov. 9, 2026 from the New York Times has T in the center, 62 words and 239 points, Genius at 167. Clues come first."
 type: explainer
 publishedAt: "2026-11-08T00:05:00-05:00"

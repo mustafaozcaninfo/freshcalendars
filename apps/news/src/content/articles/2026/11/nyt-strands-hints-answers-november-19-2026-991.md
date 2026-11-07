@@ -1,6 +1,6 @@
 ---
 title: "NYT Strands Hints and Answers for Thursday, Nov. 19, 2026 (#991): Spangram and Six Theme Words"
-seoTitle: "Strands Hints, Spangram & Answers, Nov. 19, 2026 (#991)"
+seoTitle: "Strands #991 Hints & Answers Today, November 19, 2026"
 description: "Strands #991 for Thursday, Nov. 19, 2026: graded hints, a start cell and first direction for every theme word, and spoiler-marked answers for all seven words."
 type: explainer
 publishedAt: "2026-11-18T00:05:00-05:00"

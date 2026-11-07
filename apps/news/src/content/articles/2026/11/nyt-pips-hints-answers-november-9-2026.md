@@ -1,6 +1,6 @@
 ---
 title: "NYT Pips Hints and Answers for Monday, Nov. 9, 2026: Easy, Medium and Hard"
-seoTitle: "Pips Hints & Answers, Nov. 9, 2026: Easy, Medium, Hard"
+seoTitle: "NYT Pips Hints & Answers Today, November 9, 2026"
 description: "Monday, Nov. 9, 2026 Pips: a Medium board with no sum region and a square of four 0s. Opening moves, two hints per level, then every placement."
 type: explainer
 publishedAt: "2026-11-08T00:05:00-05:00"

@@ -1,6 +1,6 @@
 ---
 title: "NYT Strands Answers for Friday, Nov. 13, 2026 (#985): Hints First, Spoilers Last"
-seoTitle: "Strands #985: Nov. 13, 2026 Hints, Answers"
+seoTitle: "Strands #985 Hints & Answers Today, November 13, 2026"
 description: "Strands #985 for Friday, Nov. 13, 2026 has the clue \"Not a good sign.\" Hints and a board map for six theme words and the spangram; answers last."
 type: explainer
 publishedAt: "2026-11-12T00:05:00-05:00"

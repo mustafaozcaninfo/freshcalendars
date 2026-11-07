@@ -1,6 +1,6 @@
 ---
 title: "NYT Spelling Bee Hints and Answers for Friday, Nov. 13, 2026: C Starts 25 of 35 Words, One 9-Letter Pangram"
-seoTitle: "Spelling Bee Nov. 13, 2026: Hints and 35 Answers"
+seoTitle: "Spelling Bee Hints & Answers Today, November 13, 2026"
 description: "Friday's Spelling Bee for Nov. 13, 2026 from the New York Times has C at the center: 35 words, 160 points, Genius at 112, and no answers of 7 or 8 letters."
 type: explainer
 publishedAt: "2026-11-12T00:05:00-05:00"

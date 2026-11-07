@@ -1,6 +1,6 @@
 ---
 title: "NYT Connections Hints and Answers for Monday, Nov. 16, 2026 (#1254): Two Hints per Group, Then the Answers"
-seoTitle: "Connections Hints & Answers Today, Nov. 16, 2026 (#1254)"
+seoTitle: "Connections #1254 Hints & Answers Today, November 16, 2026"
 description: "Connections #1254 for Monday, Nov. 16, 2026: two hints for every group, a map of the look-alike entries, then the full answers at the very end."
 type: explainer
 publishedAt: "2026-11-15T00:05:00-05:00"

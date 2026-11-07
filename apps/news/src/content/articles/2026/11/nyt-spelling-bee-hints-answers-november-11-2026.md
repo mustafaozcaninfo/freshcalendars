@@ -1,6 +1,6 @@
 ---
 title: "NYT Spelling Bee Hints and Answers for Wednesday, Nov. 11, 2026: V in the Center and Only 21 Words"
-seoTitle: "Spelling Bee Nov. 11, 2026: Hints and 21 Answers"
+seoTitle: "Spelling Bee Hints & Answers Today, November 11, 2026"
 description: "Wednesday's Spelling Bee for Nov. 11, 2026 from the New York Times puts V in the center with just 21 words and 124 points; Genius is 87. Hints, then answers."
 type: explainer
 publishedAt: "2026-11-10T00:05:00-05:00"

@@ -1,6 +1,6 @@
 ---
 title: "NYT Connections Hints and Answers for Monday, Nov. 9, 2026 (#1247): Two Hints per Group, Then the Answers"
-seoTitle: "Connections Hints & Answers Today, Nov. 9, 2026 (#1247)"
+seoTitle: "Connections #1247 Hints & Answers Today, November 9, 2026"
 description: "Connections #1247 for Monday, Nov. 9, 2026: two hints for every color on a board of mostly two-word tiles, a card-table decoy, and the answers last."
 type: explainer
 publishedAt: "2026-11-08T00:05:00-05:00"

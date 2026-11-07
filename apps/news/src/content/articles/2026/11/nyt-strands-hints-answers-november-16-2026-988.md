@@ -1,6 +1,6 @@
 ---
 title: "NYT Strands Hints and Answers for Monday, Nov. 16, 2026 (#988): Hints for the Spangram and Six Theme Words"
-seoTitle: "Strands Hints, Spangram & Answers, Nov. 16, 2026 (#988)"
+seoTitle: "Strands #988 Hints & Answers Today, November 16, 2026"
 description: "Strands #988 for Monday, Nov. 16, 2026: letter counts, hints and a board map for the spangram and six theme words, then the answers in a spoiler section."
 type: explainer
 publishedAt: "2026-11-15T00:05:00-05:00"
