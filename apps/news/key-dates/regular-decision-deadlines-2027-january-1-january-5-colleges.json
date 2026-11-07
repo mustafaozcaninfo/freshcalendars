@@ -4,7 +4,15 @@
     "label": "Harvard regular decision deadline"
   },
   {
+    "date": "2027-01-04",
+    "label": "MIT Regular Action deadline"
+  },
+  {
     "date": "2027-01-05",
     "label": "Stanford, Penn and Brown regular decision deadlines"
+  },
+  {
+    "date": "2027-01-06",
+    "label": "Georgia Tech regular decision deadline"
   }
 ]
