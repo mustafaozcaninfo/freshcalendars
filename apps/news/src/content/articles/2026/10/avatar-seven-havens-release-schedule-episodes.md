@@ -1,10 +1,10 @@
 ---
-title: "Avatar: Seven Havens Release Schedule: When Episodes 7-9 and the Finale Arrive"
-seoTitle: "Avatar: Seven Havens Release Schedule"
-description: "Avatar: Seven Havens released episodes 7-9 on Oct. 23, 2026, on Paramount+ (Paramount Plus), and the Book One finale, episodes 10-13, arrived Friday, Oct. 30."
+title: "Avatar: Seven Havens Release Schedule: Book One Is Complete, Book Two Date Not Yet Set"
+seoTitle: "Avatar: Seven Havens Book Two Release Date and Schedule"
+description: "All 13 Avatar: Seven Havens Book One episodes are on Paramount+ (Paramount Plus) since the Oct. 30 finale. Book Two has no release date yet."
 type: news
 publishedAt: "2026-10-23T15:02:00-04:00"
-updatedAt: "2026-11-01T02:41:00-05:00"
+updatedAt: "2026-11-06T19:25:00-05:00"
 authors: [jessica-hartwell]
 category: entertainment
 keywords: ["Avatar: Seven Havens release schedule", "Avatar Seven Havens episode 10 release date", "when does Avatar Seven Havens come out", "Seven Havens finale date"]
@@ -33,21 +33,21 @@ hero:
   src: ../../../../assets/news/avatar-seven-havens-release-schedule-episodes/avatar-seven-havens-release-schedule-episodes.jpg
   alt: "Avatar: Seven Havens release schedule illustration with an October 2026 calendar and the Oct. 30 Book One finale marked"
   title: "Finale Fri., Oct. 30"
-  caption: "Avatar: Seven Havens releases episodes 7-9 on Friday, Oct. 23, 2026. The Book One finale batch follows on Friday, Oct. 30, the day before Halloween."
+  caption: "Avatar: Seven Havens released its Book One finale batch, episodes 10-13, on Friday, Oct. 30, 2026, the day before Halloween."
 summary:
-  - "Avatar: Seven Havens released episodes 7-9 on Friday, Oct. 23, 2026, on Paramount+ (Paramount Plus)."
-  - "The Book One finale batch, episodes 10-13, arrived Friday, Oct. 30, the day before Halloween, so all 13 Book One episodes are now out."
+  - "Avatar: Seven Havens Book Two has no release date yet, per Paramount+ (Paramount Plus), checked Nov. 7, 2026."
+  - "All 13 Book One episodes have streamed since the Oct. 30, 2026 finale batch, episodes 10-13, the day before Halloween."
   - "The series premiered Friday, Oct. 9, 2026, and runs 26 half-hour episodes across two books of 13."
-  - "Paramount has not announced a Book Two release date, and no release time of day for new episodes is confirmed."
+  - "Paramount+ says the series has already been renewed for Books 3 and 4; no release time of day for new episodes is confirmed."
 faq:
-  - q: "When does Avatar: Seven Havens come out each week?"
-    a: "New batches have arrived on Fridays. Episodes 7-9 release Friday, Oct. 23, 2026, and the Book One finale, episodes 10-13, releases Friday, Oct. 30, according to TheWrap. Paramount+ has not published a confirmed release time of day; new episodes appear on the release day, so check the app."
-  - q: "What is the Avatar: Seven Havens episode 10 release date?"
-    a: "Episode 10 arrives in the final Book One batch on Friday, Oct. 30, 2026, alongside episodes 11, 12 and 13, per TheWrap's schedule."
-  - q: "When is the Seven Havens finale?"
-    a: "The Book One finale batch, episodes 10 through 13, releases Friday, Oct. 30, 2026, on Paramount+. Book One runs 13 episodes."
-  - q: "Is there a Book Two of Avatar: Seven Havens?"
-    a: "Paramount ordered 26 episodes as two books of 13, so Book Two is planned. A Book Two release date has not been announced."
+  - q: "When did Avatar: Seven Havens come out each week?"
+    a: "New batches arrived on Fridays. Episodes 7-9 released Friday, Oct. 23, 2026, and the Book One finale, episodes 10-13, released Friday, Oct. 30, according to Paramount+ and TheWrap. Paramount+ has not published a confirmed release time of day."
+  - q: "What was the Avatar: Seven Havens episode 10 release date?"
+    a: "Episode 10 arrived in the final Book One batch on Friday, Oct. 30, 2026, alongside episodes 11, 12 and 13, per Paramount+'s Book 1 schedule."
+  - q: "When was the Seven Havens finale?"
+    a: "The Book One finale batch, episodes 10 through 13, released Friday, Oct. 30, 2026, on Paramount+. Paramount+ says all 13 episodes are available to watch on demand."
+  - q: "When does Avatar: Seven Havens Book Two come out?"
+    a: "Paramount+ said on Nov. 4, 2026, that a release date for Book 2 has not yet been announced. Book 2 will contain 13 half-hour episodes, just like Book 1."
 sources:
   - title: "Comic-Con 2026 Paramount/CBS Announcements"
     url: "https://www.paramountplus.com/sneak-peak/comic-con-2026-paramount-cbs-announcements/"
@@ -61,6 +61,14 @@ sources:
     url: "https://www.thewrap.com/creative-content/tv-shows/avatar-seven-havens-release-schedule-when-do-new-episodes-come-out/"
     publisher: "TheWrap"
     date: "2026-10-09"
+  - title: "Avatar: Seven Havens Book 2: Everything You Need To Know"
+    url: "https://www.paramountplus.com/sneak-peak/avatar-seven-havens-book-2-everything-you-need-to-know/"
+    publisher: "Paramount+"
+    date: "2026-11-04"
+  - title: "Avatar: Seven Havens Book 1: Everything You Need To Know"
+    url: "https://www.paramountplus.com/sneak-peak/everything-you-need-to-know-about-avatar-seven-havens/"
+    publisher: "Paramount+"
+    date: "2026-11-02"
 internalLinks:
   - href: "/october-calendars.html"
     label: "October 2026 printable calendar"
@@ -89,13 +97,13 @@ downloads:
 draft: false
 ---
 
-Avatar: Seven Havens released episodes 7-9 on Friday, Oct. 23, 2026, on Paramount+ (Paramount Plus). The Book One finale batch, episodes 10 through 13, followed on Friday, Oct. 30, the day before Halloween, so all 13 Book One episodes are now available to stream.
+**Avatar: Seven Havens Book Two has no release date yet, per Paramount+ (checked Nov. 6, 2026); all 13 Book One episodes have been streaming since the Oct. 30 finale.**
 
-The animated series premiered Friday, Oct. 9, 2026. Paramount+ confirmed the premiere date, which was revealed with a teaser at the Avatar Studios panel at San Diego Comic-Con on July 23, 2026. The weekly batch pattern below is reported by TheWrap; Paramount's press site was not reachable for us, so we attribute the week-by-week schedule to TheWrap.
+The animated series premiered Friday, Oct. 9, 2026, and the finale batch, episodes 10 through 13, followed on Oct. 30, the day before Halloween. Paramount+ lists the four-batch Book One schedule below, and TheWrap reported the same weekly pattern. The premiere date was revealed with a teaser at the Avatar Studios panel at San Diego Comic-Con on July 23, 2026.
 
 ## Avatar: Seven Havens release schedule
 
-New episodes arrived in Friday batches. All four batches have now been released.
+New episodes arrived in Friday batches. All four batches have been released.
 
 | Date | Weekday | Episodes | Status |
 |---|---|---|---|
@@ -106,19 +114,21 @@ New episodes arrived in Friday batches. All four batches have now been released.
 
 Book One runs 13 episodes. The full series is 26 half-hour episodes ordered as two books of 13, according to Animation World Network (AWN).
 
+## What we know about Book Two
+
+Paramount+ wrote on Nov. 4, 2026: "A release date for Avatar: Seven Havens Book 2 has not yet been announced." It added that "the release cadence and premiere date for Book 2 will be announced in the future." Book 2 will contain 13 half-hour episodes, just like Book 1.
+
+Paramount+ also says the series "has already been renewed for Books 3 and 4." Episode counts for those books have not been announced.
+
 ## How to watch
 
-Avatar: Seven Havens streams on Paramount+, which requires a subscription. Paramount has not published a confirmed release time of day for new episodes, and we are not listing plan prices because we could not confirm them from an official source. New Paramount+ episodes appear on the release day, so open the app on the Friday to watch.
+Avatar: Seven Havens streams on Paramount+, which requires a subscription. Paramount+ says all 13 Book One episodes are available to watch on demand. Paramount has not published a confirmed release time of day for new episodes, and we are not listing plan prices because we could not confirm them from an official source.
 
 ## What the show is
 
 Avatar: Seven Havens is set after Avatar: The Last Airbender and The Legend of Korra. A young Earthbender discovers she is the new Avatar in a world shattered by a cataclysm, and she is seen as humanity's destroyer rather than its savior. The story follows Pavi, voiced by Saheli Khan, and her long-lost twin Nisha, voiced by Aishu Devan.
 
 The series is co-created and executive produced by Michael Dante DiMartino and Bryan Konietzko. Other cast listed by Animation World Network includes Akshay Khanna as Karthik, Major Curda as Jae, Sakina Jaffrey as Agam, Darren Barnet as Daemin, Dianne Doan as Zi, and Dee Bradley Baker as Geet and Ruhi.
-
-## What we know about Book Two
-
-Paramount ordered the series as two books of 13 episodes each, so a second book is planned. A Book Two release date has not been announced. Reports of further seasons are not officially confirmed by Paramount.
 
 ## Mark the finale
 
