@@ -43,7 +43,7 @@ internalLinks:
     label: "November 2026 printable calendar"
   - href: "/december-calendars.html"
     label: "December 2026 printable calendar"
-related: [chicago-public-schools-calendar-2026-27-breaks, kindergarten-registration-2027-28-dates-age-cutoffs-by-district, boston-public-schools-calendar-2026-27-breaks]
+related: [chicago-public-schools-calendar-2026-27-breaks, kindergarten-registration-2027-28-dates-age-cutoffs-by-district, nyc-high-school-admissions-fall-2027-deadline-december-4]
 downloads:
   - group: "NYC schools printable"
     title: "NYC Public Schools Calendar 2026-27"
