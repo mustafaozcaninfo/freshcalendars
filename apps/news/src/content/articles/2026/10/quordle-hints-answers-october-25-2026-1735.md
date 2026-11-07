@@ -6,6 +6,7 @@ type: explainer
 publishedAt: "2026-10-24T13:45:00-04:00"
 authors: [news-desk]
 category: puzzles
+noindex: true
 keywords: ["Quordle hints today", "Quordle 1735", "Quordle answers October 25 2026", "Quordle today", "Quordle answer"]
 dateline: "New York"
 hero:
@@ -40,7 +41,7 @@ internalLinks:
     label: "October 2026 printable calendar"
   - href: "/printable-weekly-calendar.html"
     label: "Printable weekly calendar"
-related: [wordle-hint-answer-today-october-25-2026-1954, nyt-connections-hints-answers-october-25-2026-1232, nyt-strands-hints-answers-october-25-2026-966]
+related: [wordle-answers-october-2026-all-words, nyt-connections-hints-answers-october-25-2026-1232, nyt-strands-hints-answers-october-25-2026-966]
 draft: false
 ---
 **Today's Quordle from Merriam-Webster is puzzle #1735, for Sunday, Oct. 25, 2026.** All four words are common, but two end in Y and two end in D, which makes the last letters a good first target. Work through the clues below one board at a time; the answers are in a marked spoiler section at the end.
@@ -77,7 +78,7 @@ A first guess with R, A, I, N and S touches at least three of the four boards. A
 
 Keep a streak log on our [printable weekly calendar](/printable-weekly-calendar.html) or the [October 2026 printable calendar](/october-calendars.html).
 
-More of today's puzzles: [Wordle hints](/news/wordle-hint-answer-today-october-25-2026-1954/), [Connections hints](/news/nyt-connections-hints-answers-october-25-2026-1232/) and [Strands hints](/news/nyt-strands-hints-answers-october-25-2026-966/).
+More of today's puzzles: [Wordle hints](/news/wordle-answers-october-2026-all-words/), [Connections hints](/news/nyt-connections-hints-answers-october-25-2026-1232/) and [Strands hints](/news/nyt-strands-hints-answers-october-25-2026-966/).
 
 ## Today's Quordle answers (spoilers)
 

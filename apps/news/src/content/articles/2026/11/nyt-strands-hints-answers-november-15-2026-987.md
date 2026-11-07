@@ -14,17 +14,17 @@ hero:
   title: "Strands #987 hints, Nov. 15, 2026"
   caption: "Strands puzzle #987 for Sunday, Nov. 15, 2026: hints for the spangram and theme words first, all answers only at the end."
 summary:
-  - "Strands #987 falls on Sunday, Nov. 15, 2026, and its theme is a Gotham rogues' gallery."
-  - "The spangram runs 13 letters and touches the left and right edges; the board holds five theme words."
-  - "Hints come first, then a map of where the words sit on the board."
-  - "Every answer is held back in the last section, behind a spoiler marker."
+  - "Strands #987 is Sunday's board for Nov. 15, 2026, clued \"Foiled again!\""
+  - "The theme is a Gotham rogues' gallery; three of the five foes are exactly seven letters."
+  - "A thirteen-letter spangram twists through the center with ten turns, touching the left and right edges."
+  - "Hints come first; the answers wait in the spoiler section."
 faq:
-  - q: "Where do the theme words cluster in Strands #987?"
-    a: "The bottom-right quarter is the densest, with 9 theme tiles out of 12."
-  - q: "What time does the next Strands puzzle arrive?"
-    a: "Puzzle #988 is the next one, available at midnight."
+  - q: "What is the theme on Nov. 15?"
+    a: "A Gotham rogues' gallery: every theme word is an enemy of the Caped Crusader, and the clue \"Foiled again!\" is the cry of a scheme gone wrong."
+  - q: "When does the next Strands puzzle arrive?"
+    a: "Puzzle #988 is next, live at midnight."
   - q: "What are the Strands answers for Nov. 15, 2026?"
-    a: "Spoilers: the theme words are Firefly, Joker, Penguin, Riddler, Scarecrow, and the spangram is Batman Villain."
+    a: "Spoilers: the theme words are Firefly, Joker, Penguin, Riddler and Scarecrow, and the spangram is Batman Villain."
 sources:
   - title: "Strands"
     url: "https://www.nytimes.com/games/strands"
@@ -37,53 +37,43 @@ internalLinks:
 related: [wordle-hint-answer-today-november-15-2026-1975, nyt-connections-hints-answers-november-15-2026-1253, nyt-pips-hints-answers-november-15-2026]
 draft: false
 ---
-**Today's Strands from The New York Times (NYT) is puzzle #987, for Sunday, Nov. 15, 2026, and its theme is a Gotham rogues' gallery.** Tracy Bennett constructed and edited this one. Hints for the spangram and each theme word come first; the answers wait in a marked spoiler section at the end.
-
-With 5 theme words and a 13-letter spangram filling all 48 tiles, today's board follows the usual rules, which are on our [Strands page](/news/topic/nyt-strands/#how-it-works). The printed clue reads "Foiled again!" and every word below answers it.
+**Sunday's Strands is puzzle #987, dated Nov. 15, 2026, and The New York Times (NYT) runs the clue "Foiled again!"** The theme is a Gotham rogues' gallery, so think of the crooks who scheme against the Caped Crusader. Tracy Bennett is credited as both constructor and editor. A thirteen-letter spangram names the group; what a spangram has to span is on our [Strands page](/news/topic/nyt-strands/#how-it-works). Hints come first, and the answers wait in the spoiler section at the end.
 
 ## Spangram hints
 
-- Hint 1: Someone who plots against the Caped Crusader.
-- Hint 2: Two words: a hero's name, then a word for a bad guy.
-- Hint 3: Thirteen letters, opening with B.
+- Hint 1: the catch-all for any crook who schemes against the Caped Crusader.
+- Hint 2: two words; the first is the hero's own name, the second a word for a bad guy.
+- Hint 3: thirteen letters across two words, starting with B.
 
 ## Theme word hints
 
-Five theme words, each a Batman foe:
+Every answer is a foe of the Dark Knight, shortest to longest:
 
-- **5 letters, starts with J:** the Clown Prince of Crime.
-- **7 letters, starts with F:** a Gotham arsonist whose name is also a glowing insect.
-- **7 letters, starts with P:** the umbrella-carrying Oswald Cobblepot.
-- **7 letters, starts with R:** the one who leaves puzzles for the hero.
-- **9 letters, starts with S:** Jonathan Crane, who uses fear gas.
+- **5 letters, starts with J:** the grinning Clown Prince of Crime.
+- **7 letters, starts with F:** a Gotham arsonist whose name doubles as a glowing night insect.
+- **7 letters, starts with P:** the top-hatted Oswald Cobblepot, fond of trick umbrellas.
+- **7 letters, starts with R:** the foe who leaves question-mark clues for the hero to solve.
+- **9 letters, starts with S:** Jonathan Crane, who attacks with fear gas.
 
-## Where today's spangram and theme words sit
+## A twisting spangram and a Sunday rogues' gallery
 
-Trace the spangram from row 4, column 1 to row 6, column 4. It touches the left and right edges of the board, spans rows 2 to 6 and columns 1 to 6, and changes direction 10 times, with 3 tiles in its longest straight run.
+The spangram is a twisting two-word phrase that never settles. It enters on the left edge in the fourth row, zigzags up and back down through the center in ten short turns, and exits on the right edge, staying between the second and sixth rows. No straight run tops three tiles.
 
-Look at the bottom-right quarter (rows 5 to 8, columns 4 to 6) first. 9 of its 12 tiles are theme tiles, 3 are spangram tiles. Whole theme words that fit inside it: the 7-letter P word.
-
-The longest theme word is the 9-letter S word, at 9 letters; the shortest is the 5-letter J word, at 5 letters. The spangram, at 13 letters, is 4 longer than the longest theme word. Theme tiles per quarter: top-left 8, top-right 8, bottom-left 10, bottom-right 9.
-
-| Theme word | Rows | Columns | Where it sits |
-|---|---|---|---|
-| 7-letter F word | 6 to 8 | 2 to 4 | mostly bottom-left (5 of 7 tiles) |
-| 5-letter J word | 1 to 3 | 1 to 2 | entirely top-left |
-| 7-letter P word | 5 to 8 | 5 to 6 | entirely bottom-right |
-| 7-letter R word | 1 to 3 | 3 to 6 | mostly top-right (6 of 7 tiles) |
-| 9-letter S word | 4 to 8 | 1 to 5 | mostly bottom-left (5 of 9 tiles) |
+The five foes ring that twist. The nine-letter S word, the longest, sweeps across the lower rows from the left. The seven-letter P word is boxed whole into the bottom-right corner, and the seven-letter F word sits in the lower-left. Up top, the five-letter J word fills the top-left corner and the seven-letter R word runs across the top-right. The lower-left quarter is the densest, ten of its twelve tiles themed. Three of the five foes share the same length, exactly seven letters.
 
 ## Solving tips
 
-Start with the longest theme word, which has nine letters. Our [November 2026 printable calendar](/november-calendars.html) and [printable weekly calendar](/printable-weekly-calendar.html) are handy for a daily log.
+Three of the five foes are exactly seven letters, so once you land one of that length, test the same count elsewhere. Start with the longest answer sweeping the lower rows, which clears the most tiles at once.
 
-More puzzles for this date: [Wordle](/news/wordle-hint-answer-today-november-15-2026-1975/), [Connections](/news/nyt-connections-hints-answers-november-15-2026-1253/) and [Pips](/news/nyt-pips-hints-answers-november-15-2026/).
+Logging a Sunday solve? The [printable weekly calendar](/printable-weekly-calendar.html) and the [November 2026 printable calendar](/november-calendars.html) both work.
+
+Sunday's other puzzles: [Wordle](/news/wordle-hint-answer-today-november-15-2026-1975/), [Connections](/news/nyt-connections-hints-answers-november-15-2026-1253/) and [Pips](/news/nyt-pips-hints-answers-november-15-2026/).
 
 ## Today's Strands answers (spoilers)
 
-Last chance to turn back before the answers.
+Spoilers from here down.
 
 - **Spangram:** Batman Villain
 - **Theme words:** Firefly, Joker, Penguin, Riddler, Scarecrow
 
-The five theme words are each an enemy of the Dark Knight, and the spangram names the group they belong to.
+Each theme word is a foe of the Dark Knight, and the spangram, Batman Villain, names the rogues' gallery they belong to.

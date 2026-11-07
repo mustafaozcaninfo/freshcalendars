@@ -37,7 +37,7 @@ internalLinks:
     label: "October 2026 printable calendar"
   - href: "/november-calendars.html"
     label: "November 2026 printable calendar"
-related: [wordle-hint-answer-today-october-31-2026-1960, wordle-hint-answer-today-october-30-2026-1959, wordle-hint-answer-today-october-29-2026-1958]
+related: []
 draft: false
 downloads:
   - group: "Wordle Answers printables"
@@ -132,7 +132,7 @@ assets:
 | Oct. 30 | Fri. | #1959 | Slide |
 | Oct. 31 | Sat. | #1960 | Yahoo |
 
-Source: The New York Times, [Wordle](https://www.nytimes.com/games/wordle/index.html), puzzle data for Oct. 1 to Oct. 31, 2026. The last six days have their own hint pages: [Oct. 26](/news/wordle-hint-answer-today-october-26-2026-1955/), [Oct. 27](/news/wordle-hint-answer-today-october-27-2026-1956/), [Oct. 28](/news/wordle-hint-answer-today-october-28-2026-1957/), [Oct. 29](/news/wordle-hint-answer-today-october-29-2026-1958/), [Oct. 30](/news/wordle-hint-answer-today-october-30-2026-1959/), [Oct. 31](/news/wordle-hint-answer-today-october-31-2026-1960/). For earlier and later puzzles, see the [Wordle hub](/news/topic/wordle/).
+Source: The New York Times, [Wordle](https://www.nytimes.com/games/wordle/index.html), puzzle data for Oct. 1 to Oct. 31, 2026. The last six days have their own hint pages: [Oct. 26](/news/wordle-hint-answer-today-october-26-2026-1955/), Oct. 27, Oct. 28, Oct. 29, Oct. 30, Oct. 31. For earlier and later puzzles, see the [Wordle hub](/news/topic/wordle/).
 
 ## Which letters showed up most often?
 

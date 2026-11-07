@@ -49,7 +49,7 @@ internalLinks:
     label: "October 2026 printable calendar"
   - href: "/printable-weekly-calendar.html"
     label: "Printable weekly calendar"
-related: [nyt-connections-hints-answers-october-31-2026-1238, linkedin-games-answers-today-october-31-2026-queens-tango-zip, nyt-spelling-bee-hints-answers-october-31-2026]
+related: [nyt-connections-hints-answers-october-31-2026-1238, linkedin-games-answers-today-october-31-2026-queens-tango-zip, nyt-spelling-bee-answers-october-2026-all-pangrams]
 draft: false
 ---
 
@@ -74,7 +74,7 @@ Saturday's board mixes snacks, football plays, players and pop culture names.
 
 Watch for the overlap: one purple tile is a food that could pass for a stand item, and another is tied to the holiday.
 
-More of Saturday's puzzles: [Connections hints](/news/nyt-connections-hints-answers-october-31-2026-1238/), [Spelling Bee hints](/news/nyt-spelling-bee-hints-answers-october-31-2026/), [LinkedIn games answers](/news/linkedin-games-answers-today-october-31-2026-queens-tango-zip/) and [Pips hints](/news/nyt-pips-hints-answers-october-31-2026/). Friday's page is still up: [Connections: Sports Edition #767](/news/nyt-connections-sports-edition-hints-answers-october-30-2026-767/). Keep a streak log on our [printable weekly calendar](/printable-weekly-calendar.html).
+More of Saturday's puzzles: [Connections hints](/news/nyt-connections-hints-answers-october-31-2026-1238/), [Spelling Bee hints](/news/nyt-spelling-bee-answers-october-2026-all-pangrams/), [LinkedIn games answers](/news/linkedin-games-answers-today-october-31-2026-queens-tango-zip/) and [Pips hints](/news/nyt-pips-hints-answers-october-31-2026/). Friday's page is still up: [Connections: Sports Edition #767](/news/nyt-connections-sports-edition-hints-answers-october-30-2026-767/). Keep a streak log on our [printable weekly calendar](/printable-weekly-calendar.html).
 
 ## Saturday's answers, #768, Oct. 31, 2026 (spoilers)
 

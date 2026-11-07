@@ -36,7 +36,7 @@ internalLinks:
     label: "October 2026 printable calendar"
   - href: "/november-calendars.html"
     label: "November 2026 printable calendar"
-related: [nyt-strands-hints-answers-october-31-2026-972, wordle-answers-october-2026-all-words, nyt-strands-hints-answers-october-30-2026-971]
+related: [wordle-answers-october-2026-all-words]
 draft: false
 downloads:
   - group: "NYT Strands Answers printables"
@@ -129,7 +129,7 @@ assets:
 | Oct. 30 | Fri. | #971 | All charged up | Plugged in |
 | Oct. 31 | Sat. | #972 | It's in the bag | Trick or treat |
 
-Source: The New York Times, [Strands](https://www.nytimes.com/games/strands), puzzle data for Oct. 1 to Oct. 31, 2026. Spangrams are shown as words; the puzzle itself runs them together. Several late-month days have their own hint pages: [Oct. 21](/news/nyt-strands-hints-answers-october-21-2026-962/), [Oct. 25](/news/nyt-strands-hints-answers-october-25-2026-966/), [Oct. 26](/news/nyt-strands-hints-answers-october-26-2026-967/), [Oct. 27](/news/nyt-strands-hints-answers-october-27-2026-968/), [Oct. 28](/news/nyt-strands-hints-answers-october-28-2026-969/), [Oct. 29](/news/nyt-strands-hints-answers-october-29-2026-970/), [Oct. 30](/news/nyt-strands-hints-answers-october-30-2026-971/), [Oct. 31](/news/nyt-strands-hints-answers-october-31-2026-972/). For earlier and later puzzles, see the [Strands hub](/news/topic/nyt-strands/).
+Source: The New York Times, [Strands](https://www.nytimes.com/games/strands), puzzle data for Oct. 1 to Oct. 31, 2026. Spangrams are shown as words; the puzzle itself runs them together. Several late-month days have their own hint pages: [Oct. 21](/news/nyt-strands-hints-answers-october-21-2026-962/), [Oct. 25](/news/nyt-strands-hints-answers-october-25-2026-966/), Oct. 26, Oct. 27, Oct. 28, Oct. 29, Oct. 30, Oct. 31. For earlier and later puzzles, see the [Strands hub](/news/topic/nyt-strands/).
 
 ## What were the theme words for each day?
 

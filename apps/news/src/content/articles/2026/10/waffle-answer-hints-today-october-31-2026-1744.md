@@ -6,6 +6,7 @@ type: explainer
 publishedAt: "2026-10-31T07:25:00-04:00"
 authors: [news-desk]
 category: puzzles
+noindex: true
 keywords: ["Waffle answer today", "Waffle 1744", "Waffle hints", "Waffle answer October 31 2026", "Waffle game today"]
 dateline: "New York"
 hero:
@@ -36,7 +37,7 @@ internalLinks:
     label: "October 2026 printable calendar"
   - href: "/printable-weekly-calendar.html"
     label: "Printable weekly calendar"
-related: [wordle-hint-answer-today-october-31-2026-1960, nyt-connections-hints-answers-october-31-2026-1238, blossom-word-game-answers-october-30-2026]
+related: [wordle-answers-october-2026-all-words, nyt-connections-hints-answers-october-31-2026-1238, blossom-word-game-answers-october-30-2026]
 draft: false
 ---
 **Today's Waffle (wafflegame.net) is puzzle #1744, for Saturday, Oct. 31, 2026, and it hides six five-letter words in one waffle-shaped grid.** Three words read across and three read down, and every word is an ordinary English word. Use the clues below one word at a time; the answers, and a swap-by-swap route to the five-star score, are in a marked spoiler section at the end.
@@ -73,7 +74,7 @@ Start with the corners, because each one serves two words. In today's starting g
 
 Keep a streak log on our [printable weekly calendar](/printable-weekly-calendar.html) or the [October 2026 printable calendar](/october-calendars.html).
 
-More of today's puzzles: [Wordle hints](/news/wordle-hint-answer-today-october-31-2026-1960/), [Connections hints](/news/nyt-connections-hints-answers-october-31-2026-1238/) and [Strands hints](/news/nyt-strands-hints-answers-october-31-2026-972/).
+More of today's puzzles: [Wordle hints](/news/wordle-answers-october-2026-all-words/), [Connections hints](/news/nyt-connections-hints-answers-october-31-2026-1238/) and [Strands hints](/news/nyt-strands-answers-october-2026-all-spangrams/).
 
 ## Today's Waffle answers (spoilers)
 

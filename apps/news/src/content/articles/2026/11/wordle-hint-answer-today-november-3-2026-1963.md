@@ -4,6 +4,7 @@ seoTitle: "Wordle Hint Today, #1963 (Nov. 3, 2026): Clues & Answer"
 description: "Wordle #1963 for Tuesday, Nov. 3, 2026: six graded clues, from the letter pattern to a strong nudge, then the answer in a spoiler section at the end."
 type: explainer
 publishedAt: "2026-11-02T00:05:00-05:00"
+updatedAt: "2026-11-07T12:53:00-05:00"
 authors: [news-desk]
 category: puzzles
 keywords: ["Wordle hint today", "Wordle 1963", "Wordle answer November 3 2026", "Wordle today", "Wordle clues"]
@@ -14,19 +15,19 @@ hero:
   title: "Wordle #1963 hints, Nov. 3, 2026"
   caption: "Wordle #1963 for Tuesday, Nov. 3, 2026; graded clues come first and the answer only in the final section."
 summary:
-  - "Today's Wordle is puzzle #1963, for Tuesday, Nov. 3, 2026, from The New York Times."
-  - "The answer has two vowel letters and no repeated letter, so every tile is a different letter."
-  - "Six clues below go from gentle to strong; stop when it clicks."
-  - "The answer is in the last section, marked as a spoiler."
+  - "The Tuesday, Nov. 3, 2026 puzzle is Wordle #1963 from The New York Times."
+  - "Its two vowels sit next to each other, and no letter repeats."
+  - "Clues run from the part of speech down to a strong nudge."
+  - "The answer waits in the last section, behind a spoiler marker."
 faq:
-  - q: "What number is today's Wordle?"
-    a: "Wordle #1963, for Tuesday, Nov. 3, 2026."
-  - q: "Does today's Wordle have a repeated letter?"
-    a: "No. All five letters are different, and the two vowels, O and U, are side by side in the second and third spots."
+  - q: "What number is the Nov. 3, 2026 Wordle?"
+    a: "It is Wordle #1963, for Tuesday, Nov. 3, 2026."
+  - q: "Does the Nov. 3, 2026 Wordle repeat a letter?"
+    a: "No. All five letters are different, and the two vowels sit together in the middle."
   - q: "What is the Wordle answer for Nov. 3, 2026?"
     a: "Spoiler: Pouch."
-  - q: "When does the next Wordle come out?"
-    a: "At midnight in your local time. Wednesday's puzzle is #1964."
+  - q: "When is the next Wordle after #1963?"
+    a: "Wednesday's puzzle, #1964, opens at midnight local time."
 sources:
   - title: "Wordle"
     url: "https://www.nytimes.com/games/wordle/index.html"
@@ -39,35 +40,33 @@ internalLinks:
 related: [nyt-connections-hints-answers-november-3-2026-1241, nyt-strands-hints-answers-november-3-2026-975, nyt-pips-hints-answers-november-3-2026]
 draft: false
 ---
-**Today's Wordle from The New York Times (NYT) is puzzle #1963, for Tuesday, Nov. 3, 2026, edited by Tracy Bennett.** The answer has no repeated letter, and its two vowels sit next to each other, which changes how you plan your first guesses. Take the clues one at a time, and only scroll to the last section if you want the answer itself.
-
-## How Wordle works
-
-You get six tries to find a five-letter word. After each guess, a green tile means the right letter in the right spot, yellow means the letter is in the word but in another spot, and gray means it is not in the word at all. A letter that appears twice is only marked twice if you guess it twice. Gray tiles matter too.
+**Today's Wordle from The New York Times (NYT) is puzzle #1963, for Tuesday, Nov. 3, 2026, edited by Tracy Bennett.** Its two vowels sit back to back, which changes how you spend the opening guesses; the rules live on the [Wordle hub](/news/topic/wordle/#how-it-works), and the answer stays out of sight until the end.
 
 ## Six clues, gentle to strong
 
-1. **Part of speech:** it is a noun.
-2. **Topic:** a small bag or container that closes at the top.
-3. **Vowels:** two vowel letters, O and U, side by side in the second and third spots.
-4. **Repeated letter:** none. All five letters are different.
+1. **Part of speech:** a noun.
+2. **Topic:** a small drawstring bag.
+3. **Vowels:** two, O and U, sitting side by side in the second and third spots.
+4. **Repeated letter:** none; every letter is different.
 5. **First letter:** P.
-6. **Strong nudge:** a kangaroo carries its young in one: "A kangaroo keeps its baby in a ___."
+6. **Strong nudge:** the pocket of skin a kangaroo carries its joey in.
 
 ## Guessing tips for today
 
-Once both vowels show up yellow or green, stop spending tiles on vowels and switch to common consonants. Because no letter repeats, each new guess should use five letters you have not tried yet, so no tile is wasted. Gray tiles count too: drop those letters for good.
+Because both vowels are neighbors, an opener that tests common vowels shows at once whether they land together in the middle. After that, switch entirely to consonants, since the rest of the word is built from them. With nothing repeated, make every guess five new letters and cross off each gray tile for good.
 
-Keep your streak on our [printable weekly calendar](/printable-weekly-calendar.html) or the [November 2026 printable calendar](/november-calendars.html).
-
-More of today's puzzles: [Connections hints](/news/nyt-connections-hints-answers-november-3-2026-1241/), [Strands hints](/news/nyt-strands-hints-answers-november-3-2026-975/) and [Pips hints](/news/nyt-pips-hints-answers-november-3-2026/).
+Working through the rest of the day? Line up [Connections](/news/nyt-connections-hints-answers-november-3-2026-1241/), [Strands](/news/nyt-strands-hints-answers-november-3-2026-975/) and [Pips](/news/nyt-pips-hints-answers-november-3-2026/). Keep your streak on the [printable weekly calendar](/printable-weekly-calendar.html) or the [November 2026 printable calendar](/november-calendars.html).
 
 ## Today's Wordle answer (spoilers)
 
-Stop here if you still want to solve it yourself.
+Last chance to solve it before the reveal.
 
 **The answer to Wordle #1963 is Pouch.**
 
-A pouch is a small bag or sack. The letters are P, O, U, C and H, all different.
+A pouch is a small bag that closes at the top. Its five letters are all different.
 
-We checked the answer against the puzzle's official data before posting. Wordle #1964 arrives at midnight.
+## Answer history check (spoilers)
+
+In the saved data from #0 to #1962, this answer has never come up before. Its consonant, vowel, vowel, consonant, consonant shape fits 155 earlier answers. Fourteen of them began with the same two letters, and 47 ended with the same final pair. The first letter P has opened 119 earlier answers, and the last letter H has closed 117. The O in the second spot sits there in 247 earlier answers, and the U in the third in 142. Four earlier answers match it in four of five positions: Vouch (#340), Touch (#916), Porch (#1132) and Couch (#1802). Another 22 line up in three positions, including Pound (#49), Perch (#157), Peach (#181) and Pluck (#185). Six earlier answers share four of its five letters in any order: Epoch (#170), Vouch (#340), Touch (#916), Porch (#1132), Chump (#1744) and Couch (#1802). None is a true anagram.
+
+Wordle #1964 arrives at midnight.

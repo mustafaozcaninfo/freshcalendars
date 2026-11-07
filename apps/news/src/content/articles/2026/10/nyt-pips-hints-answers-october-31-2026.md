@@ -39,7 +39,7 @@ internalLinks:
     label: "October 2026 printable calendar"
   - href: "/printable-weekly-calendar.html"
     label: "Printable weekly calendar"
-related: [wordle-hint-answer-today-october-31-2026-1960, nyt-connections-hints-answers-october-31-2026-1238, nyt-spelling-bee-hints-answers-october-31-2026]
+related: [wordle-answers-october-2026-all-words, nyt-connections-hints-answers-october-31-2026-1238, nyt-spelling-bee-answers-october-2026-all-pangrams]
 draft: false
 ---
 
@@ -70,7 +70,7 @@ You place every domino so that each colored region meets its condition. A number
 
 Look for single cells with a sum target: a cell that must add up to 1, 2, 3 or 6 can only hold that value. An "equal" region shrinks your options fast once one value is known; with four cells, as in Saturday's Hard board, you need four matching halves, and a double can supply two of them. On the Hard board, count the blanks: there are three 0 halves among the 14 dominoes.
 
-More of Saturday's puzzles: [Wordle hints](/news/wordle-hint-answer-today-october-31-2026-1960/), [Connections hints](/news/nyt-connections-hints-answers-october-31-2026-1238/) and [Spelling Bee hints](/news/nyt-spelling-bee-hints-answers-october-31-2026/). Track your solve times on our [printable weekly calendar](/printable-weekly-calendar.html) or the [October 2026 calendar](/october-calendars.html).
+More of Saturday's puzzles: [Wordle hints](/news/wordle-answers-october-2026-all-words/), [Connections hints](/news/nyt-connections-hints-answers-october-31-2026-1238/) and [Spelling Bee hints](/news/nyt-spelling-bee-answers-october-2026-all-pangrams/). Track your solve times on our [printable weekly calendar](/printable-weekly-calendar.html) or the [October 2026 calendar](/october-calendars.html).
 
 ## Saturday's Pips answers, Oct. 31, 2026 (spoilers)
 

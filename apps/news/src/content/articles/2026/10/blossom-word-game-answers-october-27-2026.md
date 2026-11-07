@@ -6,6 +6,7 @@ type: explainer
 publishedAt: "2026-10-27T03:05:00-04:00"
 authors: [news-desk]
 category: puzzles
+noindex: true
 keywords: ["Blossom answers today", "Blossom word game October 27 2026", "Blossom pangram today", "Blossom hints", "Merriam-Webster Blossom"]
 dateline: "New York"
 hero:
@@ -43,7 +44,7 @@ internalLinks:
     label: "October 2026 printable calendar"
   - href: "/printable-weekly-calendar.html"
     label: "Printable weekly calendar"
-related: [nyt-spelling-bee-hints-answers-october-27-2026, wordle-hint-answer-today-october-27-2026-1956, quordle-hints-answers-october-27-2026-1737]
+related: [nyt-spelling-bee-hints-answers-october-27-2026, wordle-answers-october-2026-all-words, quordle-hints-answers-october-27-2026-1737]
 draft: false
 ---
 **Today's Blossom from Merriam-Webster, for Tuesday, Oct. 27, 2026, puts I in the center with the petals A, C, D, N, O and R.** Two everyday words use all seven letters, one a musical instrument and one a word for a harsh rule. Below are the rules, words to try and hints for the pangrams, which are revealed in a marked spoiler section at the end.
@@ -68,7 +69,7 @@ With I in the middle and C, D, N and R around it, plenty of short words fall out
 
 Keep a streak log on our [printable weekly calendar](/printable-weekly-calendar.html) or the [October 2026 printable calendar](/october-calendars.html).
 
-More of today's puzzles: [Spelling Bee hints](/news/nyt-spelling-bee-hints-answers-october-27-2026/), [Wordle hints](/news/wordle-hint-answer-today-october-27-2026-1956/), [Mini Crossword answers](/news/nyt-mini-crossword-answers-october-27-2026/) and [Quordle hints](/news/quordle-hints-answers-october-27-2026-1737/). Monday's letters are on our [Blossom page for Oct. 26](/news/blossom-word-game-answers-october-26-2026/).
+More of today's puzzles: [Spelling Bee hints](/news/nyt-spelling-bee-hints-answers-october-27-2026/), [Wordle hints](/news/wordle-answers-october-2026-all-words/), [Mini Crossword answers](/news/nyt-mini-crossword-answers-october-27-2026/) and [Quordle hints](/news/quordle-hints-answers-october-27-2026-1737/). Monday's letters are on our [Blossom page for Oct. 26](/news/blossom-word-game-answers-october-26-2026/).
 
 ## Today's Blossom pangrams (spoilers)
 

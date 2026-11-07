@@ -36,7 +36,7 @@ internalLinks:
     label: "October 2026 printable calendar"
   - href: "/november-calendars.html"
     label: "November 2026 printable calendar"
-related: [nyt-spelling-bee-hints-answers-october-31-2026, wordle-answers-october-2026-all-words, nyt-strands-answers-october-2026-all-spangrams]
+related: [wordle-answers-october-2026-all-words, nyt-strands-answers-october-2026-all-spangrams]
 draft: false
 downloads:
   - group: "NYT Spelling Bee Pangrams printables"
@@ -129,7 +129,7 @@ assets:
 | Fri., Oct. 30 | C | A, E, L, N, O, V | Conclave, Covalence | 66 | 333 | 233 |
 | Sat., Oct. 31 | A | G, H, I, N, T, U | Haunting | 59 | 303 | 212 |
 
-Source: The New York Times, [Spelling Bee](https://www.nytimes.com/puzzles/spelling-bee), puzzle data for Oct. 1 to Oct. 31, 2026. Words, points and the Genius score are our calculation from that data: the puzzle file lists pangrams apart from the other answers, so we combined the two lists. Four-letter words score 1 point, longer words score their length, and a pangram adds 7. Genius is 70% of the day's points, rounded to the nearest whole point. Spelling Bee has no puzzle numbers, so the table goes by date. The last week has its own hint pages: [Oct. 25](/news/nyt-spelling-bee-hints-answers-october-25-2026/), [Oct. 26](/news/nyt-spelling-bee-hints-answers-october-26-2026/), [Oct. 27](/news/nyt-spelling-bee-hints-answers-october-27-2026/), [Oct. 28](/news/nyt-spelling-bee-hints-answers-october-28-2026/), [Oct. 29](/news/nyt-spelling-bee-hints-answers-october-29-2026/), [Oct. 30](/news/nyt-spelling-bee-hints-answers-october-30-2026/) and [Oct. 31](/news/nyt-spelling-bee-hints-answers-october-31-2026/). For earlier and later puzzles, see the [Spelling Bee hub](/news/topic/nyt-spelling-bee/).
+Source: The New York Times, [Spelling Bee](https://www.nytimes.com/puzzles/spelling-bee), puzzle data for Oct. 1 to Oct. 31, 2026. Words, points and the Genius score are our calculation from that data: the puzzle file lists pangrams apart from the other answers, so we combined the two lists. Four-letter words score 1 point, longer words score their length, and a pangram adds 7. Genius is 70% of the day's points, rounded to the nearest whole point. Spelling Bee has no puzzle numbers, so the table goes by date. The last week has its own hint pages: [Oct. 25](/news/nyt-spelling-bee-hints-answers-october-25-2026/), [Oct. 26](/news/nyt-spelling-bee-hints-answers-october-26-2026/), [Oct. 27](/news/nyt-spelling-bee-hints-answers-october-27-2026/), [Oct. 28](/news/nyt-spelling-bee-hints-answers-october-28-2026/), Oct. 29, [Oct. 30](/news/nyt-spelling-bee-hints-answers-october-30-2026/) and Oct. 31. For earlier and later puzzles, see the [Spelling Bee hub](/news/topic/nyt-spelling-bee/).
 
 ## Which October puzzles were the biggest and the smallest?
 

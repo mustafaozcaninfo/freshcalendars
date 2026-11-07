@@ -105,7 +105,7 @@ internalLinks:
     label: "When is Thanksgiving?"
   - href: "/november-calendars.html"
     label: "November 2026 printable calendar"
-related: [thanksgiving-trash-pickup-2026-by-city, state-offices-closed-christmas-eve-2026-by-state, whats-open-thanksgiving-2026-grocery-stores-walmart-costco]
+related: [thanksgiving-trash-pickup-2026-by-city, black-friday-2026-post-office-banks-stock-market-open, whats-open-thanksgiving-2026-grocery-stores-walmart-costco]
 downloads:
   - group: "Day After Thanksgiving 2026 printables"
     title: "Day After Thanksgiving 2026: State Holiday Check by State"

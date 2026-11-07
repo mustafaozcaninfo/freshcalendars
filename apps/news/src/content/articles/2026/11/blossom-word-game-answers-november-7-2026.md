@@ -56,6 +56,8 @@ draft: false
 - **Center:** D (every word must include it)
 - **Petals:** C, E, N, P, R, T
 
+Every word today needs the D in the center; the rules and the scoring are on our [Blossom page](/news/topic/blossom/#how-it-works).
+
 E is the single vowel letter on the board. Words have to lean on it, and the lists we checked show that long words repeat it again and again.
 
 ## Long words built on one vowel

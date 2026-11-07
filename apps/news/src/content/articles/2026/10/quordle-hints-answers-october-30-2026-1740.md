@@ -6,6 +6,7 @@ type: explainer
 publishedAt: "2026-10-30T07:45:00-04:00"
 authors: [news-desk]
 category: puzzles
+noindex: true
 keywords: ["Quordle hints today", "Quordle 1740", "Quordle answers October 30 2026", "Quordle today", "Quordle answer"]
 dateline: "New York"
 hero:
@@ -40,7 +41,7 @@ internalLinks:
     label: "October 2026 printable calendar"
   - href: "/printable-weekly-calendar.html"
     label: "Printable weekly calendar"
-related: [quordle-hints-answers-october-29-2026-1739, wordle-hint-answer-today-october-30-2026-1959, nyt-connections-hints-answers-october-30-2026-1237]
+related: [quordle-hints-answers-october-29-2026-1739, wordle-answers-october-2026-all-words, nyt-connections-hints-answers-october-30-2026-1237]
 draft: false
 ---
 **Today's Quordle from Merriam-Webster is puzzle #1740, for Friday, Oct. 30, 2026.** Two words start with B and the other two start with D and U, and all four are common English words. The clues below are grouped by each word's first letter, because the published solutions we checked agree on the words but not all list them without saying which board each one is on. The answers are in a marked spoiler section at the end.
@@ -74,7 +75,7 @@ A first guess such as Crane, with C, R, A, N and E, puts at least one letter int
 
 Keep a streak log on our [printable weekly calendar](/printable-weekly-calendar.html) or the [October 2026 printable calendar](/october-calendars.html).
 
-More of today's puzzles: [Wordle hints](/news/wordle-hint-answer-today-october-30-2026-1959/), [Connections hints](/news/nyt-connections-hints-answers-october-30-2026-1237/) and [Strands hints](/news/nyt-strands-hints-answers-october-30-2026-971/). Thursday's boards are on our [Quordle #1739 page](/news/quordle-hints-answers-october-29-2026-1739/).
+More of today's puzzles: [Wordle hints](/news/wordle-answers-october-2026-all-words/), [Connections hints](/news/nyt-connections-hints-answers-october-30-2026-1237/) and [Strands hints](/news/nyt-strands-answers-october-2026-all-spangrams/). Thursday's boards are on our [Quordle #1739 page](/news/quordle-hints-answers-october-29-2026-1739/).
 
 ## Today's Quordle answers (spoilers)
 

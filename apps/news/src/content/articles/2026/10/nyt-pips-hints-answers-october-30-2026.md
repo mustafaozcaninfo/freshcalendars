@@ -39,7 +39,7 @@ internalLinks:
     label: "October 2026 printable calendar"
   - href: "/printable-weekly-calendar.html"
     label: "Printable weekly calendar"
-related: [nyt-pips-hints-answers-october-29-2026, wordle-hint-answer-today-october-30-2026-1959, nyt-connections-hints-answers-october-30-2026-1237]
+related: [nyt-pips-hints-answers-october-29-2026, wordle-answers-october-2026-all-words, nyt-connections-hints-answers-october-30-2026-1237]
 draft: false
 ---
 
@@ -70,7 +70,7 @@ You place every domino so that each colored region meets its condition. A number
 
 Look for single cells with a sum target: a cell that must add up to 0, 3 or 6 can only hold that value. An "equal" region shrinks your options fast once one value is known; with three cells, as in Friday's Hard board, you need three matching halves, and a double can supply two of them. On the Hard board, count the blanks: there are two 0 halves among the 13 dominoes.
 
-More of Friday's puzzles: [Wordle hints](/news/wordle-hint-answer-today-october-30-2026-1959/) and [Connections hints](/news/nyt-connections-hints-answers-october-30-2026-1237/). Track your solve times on our [printable weekly calendar](/printable-weekly-calendar.html) or the [October 2026 calendar](/october-calendars.html).
+More of Friday's puzzles: [Wordle hints](/news/wordle-answers-october-2026-all-words/) and [Connections hints](/news/nyt-connections-hints-answers-october-30-2026-1237/). Track your solve times on our [printable weekly calendar](/printable-weekly-calendar.html) or the [October 2026 calendar](/october-calendars.html).
 
 ## Friday's Pips answers, Oct. 30, 2026 (spoilers)
 

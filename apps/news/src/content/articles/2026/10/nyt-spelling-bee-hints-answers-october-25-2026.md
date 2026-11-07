@@ -48,7 +48,7 @@ internalLinks:
     label: "October 2026 printable calendar"
   - href: "/printable-weekly-calendar.html"
     label: "Printable weekly calendar"
-related: [wordle-hint-answer-today-october-25-2026-1954, nyt-connections-hints-answers-october-25-2026-1232, nyt-pips-hints-answers-october-25-2026]
+related: [wordle-answers-october-2026-all-words, nyt-connections-hints-answers-october-25-2026-1232, nyt-pips-hints-answers-october-25-2026]
 draft: false
 ---
 
@@ -86,7 +86,7 @@ Two-letter starts: AB-1, AM-4, AN-2, BA-2, BI-2, BL-2, BO-2, IA-2, IM-1, LA-4, L
 
 Look for doubles. M repeats in many of today's answers, often twice in a row, and O doubles up in several more. Try animals too.
 
-More of Sunday's games: [Wordle hints](/news/wordle-hint-answer-today-october-25-2026-1954/), [Connections hints](/news/nyt-connections-hints-answers-october-25-2026-1232/) and [Pips hints](/news/nyt-pips-hints-answers-october-25-2026/). Track a Genius streak on our [printable weekly calendar](/printable-weekly-calendar.html) or the [October 2026 calendar](/october-calendars.html).
+More of Sunday's games: [Wordle hints](/news/wordle-answers-october-2026-all-words/), [Connections hints](/news/nyt-connections-hints-answers-october-25-2026-1232/) and [Pips hints](/news/nyt-pips-hints-answers-october-25-2026/). Track a Genius streak on our [printable weekly calendar](/printable-weekly-calendar.html) or the [October 2026 calendar](/october-calendars.html).
 
 ## Sunday's Spelling Bee answers, Oct. 25, 2026 (spoilers)
 

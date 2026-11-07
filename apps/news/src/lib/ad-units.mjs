@@ -48,6 +48,7 @@ export function rehypeMidArticleAd() {
     // Stories only: policy pages in src/content/policies stay ad-free.
     if (!ADS_ENABLED || !/[\\/]content[\\/]articles[\\/]/.test(file?.path ?? file?.history?.[0] ?? "")) return;
     const fm = file.data?.astro?.frontmatter;
+    if (fm?.noindex) return; // a story kept out of the index carries no ads (01-ADS-CENTER)
     const kids = tree.children;
     const h2 = kids.map((n, i) => (n.type === "element" && n.tagName === "h2" ? i : -1)).filter((i) => i >= 0);
     if (h2.length < NEWS_AD_RULES.minSections) return;

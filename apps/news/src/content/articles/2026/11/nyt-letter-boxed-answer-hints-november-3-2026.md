@@ -6,6 +6,7 @@ type: explainer
 publishedAt: "2026-11-02T00:05:00-05:00"
 authors: [news-desk]
 category: puzzles
+noindex: true
 keywords: ["Letter Boxed answer today", "Letter Boxed hints", "NYT Letter Boxed November 3 2026", "Letter Boxed solution", "Letter Boxed par"]
 dateline: "New York"
 hero:

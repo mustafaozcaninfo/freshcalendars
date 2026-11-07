@@ -249,6 +249,24 @@ export const TOPICS: Topic[] = [
     },
   },
   {
+    slug: "blossom",
+    puzzle: true,
+    name: "Blossom Answers and Hints",
+    description: "Every Blossom page, newest first: the day's seven letters, hints for the pangrams and long words, then the answers in a marked spoiler section.",
+    match: ["blossom"],
+    // Rules: the game page's own description (seven letters, 12 words, bonus letters and pangrams)
+    // and, for the details its in-game help holds, two guides that agree on every point: Beebom
+    // (June 15, 2026) and Insider Gaming (Sept. 30, 2026), both read 2026-11-07.
+    guide: {
+      heading: "How Blossom works",
+      paras: [
+        "Blossom is Merriam-Webster's daily word game. Seven letters sit on a flower, one in the center and six on the petals, and you get only 12 words to score with.",
+        "Every word must use the center letter and have at least four letters, and any letter can be used more than once. Words are checked against Merriam-Webster's own word list, so proper nouns and hyphenated words do not count.",
+        "Scoring, as the guides from Beebom and Insider Gaming describe it: a four-letter word earns 2 points, five letters 4, six letters 6 and seven letters 12, and every letter past seven adds 3. One petal is highlighted as the bonus letter and adds 5 points each time it appears in your word; it changes after every word. A pangram, a word that uses all seven letters, adds 7 points.",
+      ],
+    },
+  },
+  {
     slug: "waffle",
     puzzle: true,
     name: "Waffle Answers and Hints",
@@ -269,6 +287,16 @@ export const TOPICS: Topic[] = [
     name: "LinkedIn Games Answers",
     description: "Every LinkedIn games page, newest first: hints and answers for Queens, Tango, Zip, Pinpoint, Crossclimb and Mini Sudoku, checked before they are posted.",
     match: ["linkedin games", "linkedin"],
+    // Rules from LinkedIn's Help Center, read 2026-11-07: "Games on LinkedIn" (answer a6863543),
+    // "Play Queens game on LinkedIn" (a6269510) and "Play Zip game on LinkedIn" (a7445030).
+    guide: {
+      heading: "How the LinkedIn games work",
+      paras: [
+        "LinkedIn releases a new puzzle for each of its games every day at midnight Pacific Time (PT), and the previous day's puzzles can no longer be played.",
+        "Queens: place one crown in every row, column and colored region of the grid, and no two crowns may touch, not even diagonally. Tango: fill the grid with two symbols so every row and column holds the same number of each, with no more than two of the same symbol side by side. Mini Sudoku: fill the grid so every row, column and shaded region holds each number exactly once.",
+        "Zip: draw one path that visits the numbered cells in order and fills every cell, without crossing a wall. Pinpoint: guess the category that links a set of words, using as few of the five clues as you can. Crossclimb: put the words of a ladder in order so each differs from the next by one letter, which unlocks the clues for the top and bottom words.",
+      ],
+    },
   },
 ];
 

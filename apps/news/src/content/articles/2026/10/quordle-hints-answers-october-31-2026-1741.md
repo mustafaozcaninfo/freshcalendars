@@ -6,6 +6,7 @@ type: explainer
 publishedAt: "2026-10-31T10:19:00-04:00"
 authors: [news-desk]
 category: puzzles
+noindex: true
 keywords: ["Quordle hints today", "Quordle 1741", "Quordle answers October 31 2026", "Quordle today", "Quordle answer"]
 dateline: "New York"
 hero:
@@ -43,7 +44,7 @@ internalLinks:
     label: "October 2026 printable calendar"
   - href: "/printable-weekly-calendar.html"
     label: "Printable weekly calendar"
-related: [quordle-hints-answers-october-30-2026-1740, wordle-hint-answer-today-october-31-2026-1960, nyt-connections-hints-answers-october-31-2026-1238]
+related: [quordle-hints-answers-october-30-2026-1740, wordle-answers-october-2026-all-words, nyt-connections-hints-answers-october-31-2026-1238]
 draft: false
 ---
 **Today's Quordle from Merriam-Webster is puzzle #1741, for Saturday, Oct. 31, 2026.** The four words start with A, S, C and R, and every one of them has an A inside. The clues below are grouped by each word's first letter, because the published solutions we checked agree on the words, but only one says which board each word is on. The answers are in a marked spoiler section at the end.
@@ -80,7 +81,7 @@ A first guess such as Slate, with S, L, A, T and E, puts at least one letter int
 
 Keep a streak log on our [printable weekly calendar](/printable-weekly-calendar.html) or the [October 2026 printable calendar](/october-calendars.html).
 
-More of today's puzzles: [Wordle hints](/news/wordle-hint-answer-today-october-31-2026-1960/), [Connections hints](/news/nyt-connections-hints-answers-october-31-2026-1238/) and [Strands hints](/news/nyt-strands-hints-answers-october-31-2026-972/). Friday's boards are on our [Quordle #1740 page](/news/quordle-hints-answers-october-30-2026-1740/).
+More of today's puzzles: [Wordle hints](/news/wordle-answers-october-2026-all-words/), [Connections hints](/news/nyt-connections-hints-answers-october-31-2026-1238/) and [Strands hints](/news/nyt-strands-answers-october-2026-all-spangrams/). Friday's boards are on our [Quordle #1740 page](/news/quordle-hints-answers-october-30-2026-1740/).
 
 ## Today's Quordle answers (spoilers)
 

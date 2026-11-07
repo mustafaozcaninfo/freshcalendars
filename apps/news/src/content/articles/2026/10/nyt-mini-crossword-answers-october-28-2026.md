@@ -34,7 +34,7 @@ internalLinks:
     label: "October 2026 printable calendar"
   - href: "/printable-weekly-calendar.html"
     label: "Printable weekly calendar"
-related: [wordle-hint-answer-today-october-28-2026-1957, nyt-connections-hints-answers-october-28-2026-1235, nyt-spelling-bee-hints-answers-october-28-2026]
+related: [wordle-answers-october-2026-all-words, nyt-connections-hints-answers-october-28-2026-1235, nyt-spelling-bee-hints-answers-october-28-2026]
 draft: false
 ---
 **The New York Times (NYT) Mini Crossword for Wednesday, Oct. 28, 2026, is a five-by-five grid with 10 clues by Tracy Bennett.** Black squares sit in the top left and bottom right corners, so 1-Across and 8-Across have four letters each. Below is a hint for every clue, each one hidden until you open it, then the full answers in a marked spoiler section.
@@ -63,7 +63,7 @@ Start with 6-Across, the button on a remote, and 1-Down, the instrument. They cr
 
 Keep a streak log on our [printable weekly calendar](/printable-weekly-calendar.html) or the [October 2026 printable calendar](/october-calendars.html).
 
-More of Wednesday's puzzles: [Wordle hints](/news/wordle-hint-answer-today-october-28-2026-1957/), [Connections hints](/news/nyt-connections-hints-answers-october-28-2026-1235/), [Strands hints](/news/nyt-strands-hints-answers-october-28-2026-969/), [Spelling Bee hints](/news/nyt-spelling-bee-hints-answers-october-28-2026/) and [Pips hints](/news/nyt-pips-hints-answers-october-28-2026/). Tuesday's grid is in our [Mini answers for Oct. 27](/news/nyt-mini-crossword-answers-october-27-2026/), and Thursday's in our [Mini answers for Oct. 29](/news/nyt-mini-crossword-answers-october-29-2026/).
+More of Wednesday's puzzles: [Wordle hints](/news/wordle-answers-october-2026-all-words/), [Connections hints](/news/nyt-connections-hints-answers-october-28-2026-1235/), [Strands hints](/news/nyt-strands-answers-october-2026-all-spangrams/), [Spelling Bee hints](/news/nyt-spelling-bee-hints-answers-october-28-2026/) and [Pips hints](/news/nyt-pips-hints-answers-october-28-2026/). Tuesday's grid is in our [Mini answers for Oct. 27](/news/nyt-mini-crossword-answers-october-27-2026/), and Thursday's in our [Mini answers for Oct. 29](/news/nyt-mini-crossword-answers-october-29-2026/).
 
 ## NYT Mini answers for Oct. 28, 2026 (spoilers)
 

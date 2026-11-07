@@ -39,7 +39,7 @@ internalLinks:
     label: "October 2026 printable calendar"
   - href: "/printable-weekly-calendar.html"
     label: "Printable weekly calendar"
-related: [wordle-hint-answer-today-october-25-2026-1954, nyt-connections-hints-answers-october-25-2026-1232, quordle-hints-answers-october-25-2026-1735]
+related: [wordle-answers-october-2026-all-words, nyt-connections-hints-answers-october-25-2026-1232, quordle-hints-answers-october-25-2026-1735]
 draft: false
 ---
 **Today's Strands from The New York Times (NYT) is puzzle #966, for Sunday, Oct. 25, 2026, and the theme clue is "Something to build on."** Think of what holds up a building, or a plan. Below are hints for the spangram and each theme word; the answers wait in a marked spoiler section at the end.
@@ -69,7 +69,7 @@ Start with the spangram. At 11 letters it crosses the board from one side to the
 
 Keep a streak log on our [printable weekly calendar](/printable-weekly-calendar.html) or the [October 2026 printable calendar](/october-calendars.html).
 
-More of today's puzzles: [Wordle hints](/news/wordle-hint-answer-today-october-25-2026-1954/), [Connections hints](/news/nyt-connections-hints-answers-october-25-2026-1232/) and [Quordle hints](/news/quordle-hints-answers-october-25-2026-1735/).
+More of today's puzzles: [Wordle hints](/news/wordle-answers-october-2026-all-words/), [Connections hints](/news/nyt-connections-hints-answers-october-25-2026-1232/) and [Quordle hints](/news/quordle-hints-answers-october-25-2026-1735/).
 
 ## Today's Strands answers (spoilers)
 

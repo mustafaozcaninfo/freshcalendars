@@ -34,7 +34,7 @@ internalLinks:
     label: "October 2026 printable calendar"
   - href: "/printable-weekly-calendar.html"
     label: "Printable weekly calendar"
-related: [wordle-hint-answer-today-october-27-2026-1956, nyt-connections-hints-answers-october-27-2026-1234, nyt-spelling-bee-hints-answers-october-27-2026]
+related: [wordle-answers-october-2026-all-words, nyt-connections-hints-answers-october-27-2026-1234, nyt-spelling-bee-hints-answers-october-27-2026]
 draft: false
 ---
 **The New York Times (NYT) Mini Crossword for Tuesday, Oct. 27, 2026, is a five-by-five grid with 10 clues by Joel Fagliano.** Two of them are wordplay, and two black squares in the bottom right corner shorten the last answers. Below is a hint for every clue, each one hidden until you open it, then the full answers in a marked spoiler section.
@@ -63,7 +63,7 @@ Start with the gimmes. 6-Across is a number, 4-Down is a fruit and 5-Down comes 
 
 Keep a streak log on our [printable weekly calendar](/printable-weekly-calendar.html) or the [October 2026 printable calendar](/october-calendars.html).
 
-More of today's puzzles: [Wordle hints](/news/wordle-hint-answer-today-october-27-2026-1956/), [Connections hints](/news/nyt-connections-hints-answers-october-27-2026-1234/), [Strands hints](/news/nyt-strands-hints-answers-october-27-2026-968/), [Spelling Bee hints](/news/nyt-spelling-bee-hints-answers-october-27-2026/) and [Pips hints](/news/nyt-pips-hints-answers-october-27-2026/). Monday's grid is in our [Mini answers for Oct. 26](/news/nyt-mini-crossword-answers-october-26-2026/).
+More of today's puzzles: [Wordle hints](/news/wordle-answers-october-2026-all-words/), [Connections hints](/news/nyt-connections-hints-answers-october-27-2026-1234/), [Strands hints](/news/nyt-strands-answers-october-2026-all-spangrams/), [Spelling Bee hints](/news/nyt-spelling-bee-hints-answers-october-27-2026/) and [Pips hints](/news/nyt-pips-hints-answers-october-27-2026/). Monday's grid is in our [Mini answers for Oct. 26](/news/nyt-mini-crossword-answers-october-26-2026/).
 
 ## Today's NYT Mini answers (spoilers)
 

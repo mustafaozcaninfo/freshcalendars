@@ -6,6 +6,7 @@ type: explainer
 publishedAt: "2026-11-03T07:20:00-05:00"
 authors: [news-desk]
 category: puzzles
+noindex: true
 keywords: ["Waffle answer today", "Waffle 1747", "Waffle hints", "Waffle answer November 3 2026", "Waffle game today"]
 dateline: "New York"
 hero:
