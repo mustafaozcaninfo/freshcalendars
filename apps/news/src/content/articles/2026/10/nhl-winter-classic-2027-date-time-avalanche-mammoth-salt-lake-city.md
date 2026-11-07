@@ -64,7 +64,7 @@ internalLinks:
     label: "When is New Year's Eve?"
   - href: "/printable-weekly-calendar.html"
     label: "Printable weekly calendar"
-related: [pittsburgh-penguins-schedule-november-2026-game-times-tv-printable, toronto-maple-leafs-schedule-november-2026-game-times-tv-printable, world-juniors-2027-schedule-canada-usa-game-times-printable]
+related: [nhl-global-series-2026-helsinki-dusseldorf-dates-start-times, pittsburgh-penguins-schedule-november-2026-game-times-tv-printable, toronto-maple-leafs-schedule-november-2026-game-times-tv-printable]
 assets:
   overlay: true
   kicker: "NHL Winter Classic · Thu., Dec. 31, 2026"
