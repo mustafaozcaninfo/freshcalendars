@@ -102,7 +102,7 @@ export function clarityRow(clarity, day) {
 const fmt = (n) => Math.round(n).toLocaleString("en-US");
 const pct = (a, b) => (b ? `${a >= b ? "+" : ""}${(((a - b) / b) * 100).toFixed(0)}%` : "new");
 
-export function readersMd({ now, leavers, flags, cats, uxExperiments }) {
+export function readersMd({ now, leavers, flags, cats, uxExperiments, inp }) {
   const out = ["# Reader signals (generated, do not edit)", "",
     `Built ${now.toISOString().slice(0, 16)} UTC by \`scripts/news-readers.mjs\` from the first-party beacon (last 7 days, \`traffic.md\`) and Microsoft Clarity (last 24 hours, \`clarity.md\`). What each desk does with it: \`docs/DESK.md\`, "Reader data". Puzzle pages are left out of the desk lists (the puzzle desk owns them).`, ""];
   out.push("## Readers leave fast (search desk: UX briefs)", "", `Story pages with ${RULES.minViews}+ beacon views whose readers stay under ${RULES.fastShare * 100}% of the site's average time or scroll less than ${RULES.lowScroll}% of the page.`, "");
@@ -112,6 +112,13 @@ export function readersMd({ now, leavers, flags, cats, uxExperiments }) {
   out.push(...(desk.length ? ["| Story | Sessions | Problem |", "|---|---:|---|", ...desk.slice(0, 20).map((f) => `| ${f.slug} | ${fmt(f.sessions)} | ${f.desk} |`)] : ["- none today"]), "");
   out.push("## For the manager (code, layout or ads)", "", `Script errors in ${RULES.scriptError}%+ of sessions come from code or ad scripts, never from a story's text.`, "");
   out.push(...(mgr.length ? mgr.slice(0, 15).map((f) => `- ${f.slug}: ${f.manager} of ${fmt(f.sessions)} sessions`) : ["- none today"]), "");
+  const slowPages = (inp?.pages ?? []).filter((r) => r.n >= 20 && r.slow / r.n > 0.25);
+  if (slowPages.length || inp?.causes?.length) {
+    out.push("Slow taps (Interaction to Next Paint over 200 ms, beacon, 7 days): fix the element or the script named, then compare the share the week after.", "");
+    for (const r of slowPages.slice(0, 10)) out.push(`- ${r.k}: ${fmt(r.slow)} of ${fmt(r.n)} views with a tap were slow (avg. ${fmt(r.inp)} ms)`);
+    for (const r of (inp?.causes ?? []).slice(0, 5)) out.push(`- element ${r.k || "(not recorded)"}, script ${r.script || "(none over 50 ms)"}: ${fmt(r.n)} slow taps, avg. ${fmt(r.inp)} ms, input delay ${fmt(r.delay)} ms`);
+    out.push("");
+  }
   out.push("## Reading by category (research desk: weigh topics)", "", "Beacon views of the last 7 days against the 7 before, per category, and views per story read.", "",
     ...(cats.length ? ["| Category | Views | Week before | Change | Stories read | Views per story | Avg. seconds |", "|---|---:|---:|---:|---:|---:|---:|", ...cats.map((c) => `| ${c.category} | ${fmt(c.views)} | ${fmt(c.prev)} | ${pct(c.views, c.prev)} | ${c.stories} | ${fmt(c.perStory)} | ${fmt(c.sec)} |`)] : ["- no beacon data yet"]), "");
   if (uxExperiments?.length) out.push("## Reader experiments", "", ...uxExperiments.map((e) => `- ${e.slug} (changed ${e.changedAt}): ${e.result ?? "waiting for 8 days of data"}`), "");
@@ -159,7 +166,7 @@ if (import.meta.url === `file://${process.argv[1]}`) {
   const cats = beacon.pages ? byCategory(beacon.pages, beacon.pagesPrev, stories) : [];
   let history = read("clarity-history.json") ?? [];
   if (clarity?.devices && !clarity.failed?.length && clarity.generatedAt?.slice(0, 10) === day) history = [...history.filter((r) => r.day !== day), clarityRow(clarity, day)].slice(-120);
-  const readers = readersMd({ now, leavers, flags, cats, uxExperiments: beacon.experiments });
+  const readers = readersMd({ now, leavers, flags, cats, uxExperiments: beacon.experiments, inp: { pages: beacon.inpPages, causes: beacon.inpCauses } });
   const weekly = weeklyMd({ now, beacon, history, gsc, cats });
   if (process.argv.includes("--stdout")) console.log(readers + "\n\n" + weekly);
   else {

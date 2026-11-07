@@ -55,13 +55,23 @@ export const PV_ENABLED = process.env.NEWS_PV !== "0";
 export const PV_JS = `
 (function(){
   if(!navigator.sendBeacon) return;
-  var t0=Date.now(),max=0,sent=0;
-  function sc(){var h=document.documentElement,b=h.scrollHeight-h.clientHeight,y=window.scrollY||h.scrollTop;var p=b>0?Math.round(100*y/b):100;if(p>max)max=p;}
-  addEventListener('scroll',sc,{passive:true});
+  var t0=Date.now(),max=0,sent=0,q=0;
+  function sc(){q=0;var h=document.documentElement,b=h.scrollHeight-h.clientHeight,y=window.scrollY||h.scrollTop;var p=b>0?Math.round(100*y/b):100;if(p>max)max=p;}
+  // Scroll depth is read at most once a frame, never inside the scroll event itself.
+  addEventListener('scroll',function(){if(!q){q=1;requestAnimationFrame(sc);}},{passive:true});
+  // Interaction to Next Paint (INP) in the field: the slowest tap, click or key on this page, the
+  // element it hit, its input delay, and the script that ran longest in that frame (Long Animation
+  // Frames), so the daily report names the page, the element and the script that slow readers down.
+  var inp=0,ist=0,idl=0,it='',lf=[];
+  try{new PerformanceObserver(function(l){l.getEntries().forEach(function(e){if(e.interactionId&&e.duration>inp){inp=e.duration;ist=e.startTime;idl=e.processingStart-e.startTime;var x=e.target;it=x&&x.tagName?x.tagName.toLowerCase()+(x.id?'#'+x.id:'')+(x.classList&&x.classList[0]?'.'+x.classList[0]:''):'';}});}).observe({type:'event',durationThreshold:40,buffered:true});}catch(e){}
+  try{new PerformanceObserver(function(l){l.getEntries().forEach(function(f){lf.push(f);if(lf.length>30)lf.shift();});}).observe({type:'long-animation-frame',buffered:true});}catch(e){}
+  function culprit(){var best='',d=0;lf.forEach(function(f){if(ist>=f.startTime-50&&ist<=f.startTime+f.duration)(f.scripts||[]).forEach(function(s){if(s.duration>d){d=s.duration;try{best=s.sourceURL?new URL(s.sourceURL).hostname:'inline';}catch(e){best='inline';}}});});return best;}
   function send(){
     if(sent) return; sent=1; sc();
     var r=''; try{ r=document.referrer?new URL(document.referrer).hostname:''; }catch(e){}
-    navigator.sendBeacon('/api/pv',JSON.stringify({p:location.pathname,r:r,t:Math.round((Date.now()-t0)/1000),s:Math.min(100,max)}));
+    var d={p:location.pathname,r:r,t:Math.round((Date.now()-t0)/1000),s:Math.min(100,max)};
+    if(inp){d.i=Math.round(inp);d.id=Math.round(idl);d.it=it.slice(0,60);d.is=culprit();}
+    navigator.sendBeacon('/api/pv',JSON.stringify(d));
   }
   addEventListener('pagehide',send);
   document.addEventListener('visibilitychange',function(){ if(document.visibilityState==='hidden') send(); });

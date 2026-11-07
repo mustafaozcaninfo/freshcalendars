@@ -268,7 +268,9 @@ const puzzleDay = pzThis ? {
           if (show !== sb.classList.contains("show")) { sb.classList.toggle("show", show); if (!show) close(); }
         }
       };
-      addEventListener("scroll", () => requestAnimationFrame(tick), { passive: true }); addEventListener("resize", tick); tick();
+      // One pending frame at a time: several scroll events in a frame no longer queue several layout reads.
+      let ticking = false;
+      addEventListener("scroll", () => { if (!ticking) { ticking = true; requestAnimationFrame(() => { ticking = false; tick(); }); } }, { passive: true }); addEventListener("resize", tick); tick();
       if (sb) {
         sbBtn.addEventListener("click", () => { const open = sbList.hidden; sbList.hidden = !open; sbBtn.setAttribute("aria-expanded", String(open)); });
         sbList.addEventListener("click", (e) => { if (e.target.closest("a")) close(); });

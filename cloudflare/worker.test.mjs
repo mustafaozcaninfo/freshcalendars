@@ -84,8 +84,14 @@ test("page-view beacon writes one data point for a same-origin view and ignores 
   const ok = await beacon(JSON.stringify({ p: "/news/story/", r: "www.bing.com", t: 42.4, s: 130 }));
   assert.equal(ok.status, 204);
   assert.equal(points.length, 1);
-  assert.deepEqual(points[0].blobs, ["/news/story/", "www.bing.com", "", "mobile"]);
-  assert.deepEqual(points[0].doubles, [42, 100]);
+  assert.deepEqual(points[0].blobs, ["/news/story/", "www.bing.com", "", "mobile", "", ""]);
+  assert.deepEqual(points[0].doubles, [42, 100, 0, 0]);
+  await beacon(JSON.stringify({ p: "/news/story/", i: 312.4, id: 120, it: "button.pz-ct", is: "pagead2.googlesyndication.com" }));
+  assert.deepEqual(points[1].blobs.slice(4), ["button.pz-ct", "pagead2.googlesyndication.com"]);
+  assert.deepEqual(points[1].doubles.slice(2), [312, 120]);
+  await beacon(JSON.stringify({ p: "/news/story/", i: 50, it: "<script>", is: "a b" }));
+  assert.deepEqual(points[2].blobs.slice(4), ["", ""]);
+  points.length = 1;
   assert.equal((await beacon("{}", { "Sec-Fetch-Site": "cross-site" })).status, 204);
   await beacon(JSON.stringify({ p: "/news/x/" }), { "User-Agent": "Googlebot/2.1" });
   await beacon(JSON.stringify({ p: "https://evil.example/" }));
