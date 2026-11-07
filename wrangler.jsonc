@@ -29,6 +29,9 @@
     { "binding": "STATE", "bucket_name": "freshcalendars-state" }
   ],
   "send_email": [{ "name": "CONTACT_MAIL" }],
+  // Page views from the /api/pv beacon (cloudflare/worker.js pageView); created on first write.
+  // Free plan: 100,000 data points and 10,000 read queries a day, kept three months.
+  "analytics_engine_datasets": [{ "binding": "PV", "dataset": "fc_pageviews" }],
   "vars": { "CONTACT_FROM": "contact@notify.freshcalendars.com" },
   // Secrets (wrangler secret put): TURNSTILE_SECRET, CONTACT_TO, GH_DISPATCH_TOKEN.
   "observability": { "enabled": true, "head_sampling_rate": 0.1 }
