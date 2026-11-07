@@ -92,7 +92,7 @@ internalLinks:
     label: "When is Thanksgiving?"
   - href: "/when-is/black-friday/"
     label: "When is Black Friday?"
-related: [macys-thanksgiving-day-parade-2026-start-time-route-tv-balloons, cbs-holiday-specials-2026-schedule-kids-choice-awards-soul-train-new-years-eve, thanksgiving-parades-2026-detroit-houston-philadelphia-chicago-start-times-tv]
+related: [macys-thanksgiving-day-parade-2026-start-time-route-tv-balloons, charlie-brown-thanksgiving-2026-free-apple-tv-november-14-15, thanksgiving-parades-2026-detroit-houston-philadelphia-chicago-start-times-tv]
 downloads:
   - group: "Thanksgiving 2026 TV Schedule printables"
     title: "Thanksgiving 2026 TV Schedule, Nov. 25-27"
