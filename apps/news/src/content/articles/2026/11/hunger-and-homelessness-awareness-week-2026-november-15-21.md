@@ -110,7 +110,7 @@ draft: false
 
 The organizers give the dates as "November 15-21, 2026." By our calendar check that is Sunday, Nov. 15 through Saturday, Nov. 21. The organizers say the week is held "during the week prior to Thanksgiving," and Thanksgiving 2026 is Thursday, Nov. 26. See the [November 2026 important dates](/news/november-2026-important-dates-days-until/) and the [Thanksgiving 2026 planner](/news/thanksgiving-2026-planner-countdown-checklist/) for the rest of the month.
 
-The event started at Villanova University in 1975, so 2026 is its 51st year by our count. The organizers' site links an event finder at hhweek.org/events and a registration page at hhweek.org/register. Their resources page offers an "H&H Week 2026 Organizing Toolkit" for campuses and communities, plus a printable handout and a poster for 2026. We did not check local events, so times and places come from that finder.
+The organizers say the week was first held at Villanova University in 1975. The organizers' site links an event finder at hhweek.org/events and a registration page at hhweek.org/register. Their resources page offers an "H&H Week 2026 Organizing Toolkit" for campuses and communities, plus a printable handout and a poster for 2026. We did not check local events, so times and places come from that finder.
 
 ## Hunger and Homelessness Awareness Week plan for each day
 

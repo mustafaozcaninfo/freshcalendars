@@ -10,7 +10,7 @@ category: money-benefits
 keywords: ["federal use or lose leave deadline 2026", "use or lose annual leave 2026", "opm leave year 2026", "federal leave year 2026 end date"]
 hero:
   src: ../../../../assets/news/federal-use-or-lose-annual-leave-deadline-2026-november-28/federal-use-or-lose-annual-leave-deadline-2026-november-28.webp
-  alt: "Sign for the Theodore Roosevelt Building at 1900 E Street NW in Washington, headquarters of the Office of Personnel Management, which sets the 2026 use-or-lose leave deadline"
+  alt: "Sign for the Theodore Roosevelt Building in Washington, home of the Office of Personnel Management, which sets the 2026 use-or-lose leave deadline"
   caption: "File photo of the sign outside the Theodore Roosevelt Building in Washington, where the Office of Personnel Management has its headquarters. OPM lists Nov. 28, 2026 as the 2026 use-or-lose deadline."
   credit: "Photo: Tony Webster / Wikimedia Commons, cropped, edited"
   license:
@@ -44,18 +44,18 @@ assets:
     alt: "Printable sheet of federal leave year dates with the Nov. 28, 2026 deadline to schedule use-or-lose annual leave"
     data:
       target: { date: "2027-01-09", label: "2026 leave year ends" }
-      columns: ["What it marks"]
+      columns: ["Leave year"]
       rows:
         - date: "2026-01-11"
-          cells: { "What it marks": "2026 leave year begins" }
+          cells: { "Leave year": "2026 leave year begins" }
           src: 1
           quote: "2026 | January 11, 2026 | January 09, 2027 | November 28, 2026"
         - date: "2026-11-28"
-          cells: { "What it marks": "Deadline to schedule use-or-lose annual leave, 2026 leave year" }
+          cells: { "Leave year": "Deadline to schedule use-or-lose annual leave, 2026 leave year" }
           src: 1
           quote: "2026 | January 11, 2026 | January 09, 2027 | November 28, 2026"
         - date: "2027-01-09"
-          cells: { "What it marks": "2026 leave year ends" }
+          cells: { "Leave year": "2026 leave year ends" }
           src: 1
           quote: "2026 | January 11, 2026 | January 09, 2027 | November 28, 2026"
 summary:

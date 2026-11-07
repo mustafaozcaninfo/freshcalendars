@@ -94,7 +94,7 @@ International Education Week (IEW) 2026 will be held Nov. 16-20, 2026, according
 
 ## International Education Week 2026 dates and partners
 
-NAFSA's release, "NAFSA and Partners Continue International Education Week Tradition", names four partners besides NAFSA: the Association of International Education Administrators (AIEA), the Alliance for International Exchange, the Association of International Enrollment Management (AIRC) and the Forum on Education Abroad. It describes IEW as historically a joint effort of the U.S. Departments of State and Education, and says the week gives U.S. institutions a chance to showcase global connections among students, faculty and staff.
+NAFSA's release, "NAFSA and Partners Continue International Education Week Tradition", names four partners besides NAFSA: the Association of International Education Administrators (AIEA), the Alliance for International Exchange, the Association of International Enrollment Management (AIRC) and the Forum on Education Abroad. It describes IEW as historically a joint effort of the U.S. Departments of State and Education, and says the week gives U.S. institutions a chance to highlight global connections among students, faculty and staff.
 
 The release as we read it does not say whether those two departments sponsor the 2026 week, so we do not claim they do. It also names no 2026 theme.
 
