@@ -112,7 +112,7 @@ downloads:
     pages: 1
 ---
 
-**The 2027 IndyCar season has 17 races, opening on the Streets of St. Petersburg on Sun., Mar. 7, 2027, and ending at WeatherTech Raceway Laguna Seca on Sun., Sept. 5, 2027, according to IndyCar's 2027 schedule.** The 111th Indianapolis 500 is Sun., May 30. IndyCar released the schedule in two phases, on Aug. 12 and Oct. 23, 2026, and start times are not yet announced.
+**The 2027 IndyCar season has 17 races, opening on the Streets of St. Petersburg on Sun., Mar. 7, 2027, and ending at WeatherTech Raceway Laguna Seca on Sun., Sept. 5, 2027, according to IndyCar's 2027 schedule.** The 111th Indianapolis 500 is Sun., May 30. IndyCar released the schedule in two phases, on Aug. 12 and Oct. 23, 2026. Start times are not out yet.
 
 The table below lists every race with its weekday, computed from the dates IndyCar published, and a track type that is our own count from the venue names. A one-page copy is in the downloads box with this story. To fit the races against other plans, use the [2027 printable yearly calendar](/printable-yearly-calendar.html).
 
@@ -162,7 +162,7 @@ The longest break between races is 27 days, from Long Beach on Apr. 18 to the IM
 
 ## Which 2027 IndyCar races are new or notable?
 
-IndyCar calls Barcelona on July 18 "the historic addition of Circuit de Barcelona-Catalunya," the one race outside North America. Markham, Ontario, hosts the only race in Canada on Aug. 15. Phoenix on Mar. 13 is described as "the series' return to historic Phoenix Raceway." Road America on June 27 will be the series' 37th race there, and St. Petersburg will be the 17th time the championship opens in the Sunshine City. The Milwaukee Mile hosts what IndyCar calls "a pivotal doubleheader Saturday and Sunday, Aug. 28-29," and the season ends on Sunday, Sept. 5.
+IndyCar calls Barcelona on July 18 "the historic addition of Circuit de Barcelona-Catalunya," the one race outside North America. Markham, Ontario, hosts the only race in Canada on Aug. 15. Phoenix on Mar. 13 is described as "the series' return to historic Phoenix Raceway." Road America on June 27 will be the series' 37th race there, and St. Petersburg will be the 17th time the championship opens in the Sunshine City. The Milwaukee Mile hosts a doubleheader on Saturday and Sunday, Aug. 28-29, the only weekend with two races. Then comes the finale. It is at Laguna Seca on Sunday, Sept. 5.
 
 For other 2027 motorsport lists, see the [Formula 1 calendar for 2027](/news/f1-calendar-2027-race-dates-sprint-weekends-printable/) and the [National Association for Stock Car Auto Racing (NASCAR) Cup schedule for 2027](/news/nascar-cup-schedule-2027-daytona-500-february-21-full-race-list/). To see the opener and the Phoenix race by day, use the [March printable calendar](/march-calendars.html).
 
