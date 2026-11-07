@@ -4,11 +4,11 @@ Three tools, three different questions. Their numbers never match, and that is e
 
 | Tool | Answers | Counts | Misses |
 |---|---|---|---|
-| Cloudflare edge analytics (`docs/desk/traffic.md`, daily) | How many pages and printables did readers open, and where from? | Every HTML page and PDF the edge served to a browser | Unlabeled bots are counted; no behaviour inside the page |
+| Cloudflare edge analytics (`docs/desk/traffic.md`, daily) | How many pages and printables did readers open, and where from? | Every HTML page and PDF the edge served to a client that does not call itself a bot | Unlabeled bots are counted (the first run, Nov. 7, 2026, showed 94% desktop, so bots inflate the totals); no referrer on this plan; no behaviour inside the page |
 | Google Analytics 4 (`G-VT08H0GXHZ`, `apps/news/src/lib/analytics.ts`) | What did readers do on the page (engagement, events)? | Visits whose browser ran gtag.js | Ad-blocked visits, and readers who leave before window load (gtag.js loads after it, on purpose, for page speed) |
 | Search Console and Bing Webmaster Tools | How did we do in search results? | Clicks and impressions on the search page | Everything after the click |
 
-So: **traffic totals come from the Cloudflare report**, search performance from Search Console, behaviour from GA4 and Clarity.
+So: **the Cloudflare report is an upper bound and a ranking**, GA4 a lower bound; search performance from Search Console, behaviour from GA4 and Clarity.
 
 ## Cloudflare traffic report
 

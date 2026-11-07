@@ -69,7 +69,7 @@ export function sourceOf(host) {
 export function report({ days, now, sections }) {
   const fmt = (n) => n.toLocaleString("en-US");
   const out = [`# Traffic (generated, do not edit)`, "",
-    `Read ${iso(now).slice(0, 16)} UTC from Cloudflare's edge analytics for ${HOST}, last ${days} days (UTC days). Every page the edge served to a real browser counts, so these numbers are higher than Google Analytics, which misses ad-blocked visits and readers who leave before the page finishes loading. Self-declared bots are left out; unlabeled bots are not. Source: \`scripts/news-traffic.mjs\`, daily.`, ""];
+    `Read ${iso(now).slice(0, 16)} UTC from Cloudflare's edge analytics for ${HOST}, last ${days} days (UTC days). Every page the edge served to a real browser counts, so these numbers are higher than Google Analytics, which misses ad-blocked visits and readers who leave before the page finishes loading. Self-declared bots are left out; unlabeled bots are not, and they are many: real search traffic is mostly mobile, so a desktop share far above half means bots and crawlers inflate these totals. Treat them as an upper bound and use the trend and the story ranking. Source: \`scripts/news-traffic.mjs\`, daily.`, ""];
   const s = sections;
   if (s.newsDaily && s.calendarDaily && s.pdfDaily) {
     out.push("## Page views per day", "", "| Day | /news/ stories | Calendar pages | Printable PDFs |", "|---|---:|---:|---:|");
@@ -117,7 +117,8 @@ if (import.meta.url === `file://${process.argv[1]}`) {
   const jobs = {
     newsDaily: ["news", null], calendarDaily: ["calendar", null], pdfDaily: ["pdf", null],
     topNews: ["news", "clientRequestPath"], topCalendar: ["calendar", "clientRequestPath"],
-    sources: ["news", "clientRefererHost"], countries: ["news", "clientCountryName"], devices: ["news", "clientDeviceType"],
+    // Referrer (clientRefererHost) is not available on this zone's plan; sources need a first-party beacon.
+    countries: ["news", "clientCountryName"], devices: ["news", "clientDeviceType"],
   };
   for (const [name, [kind, dim]] of Object.entries(jobs)) {
     try {
