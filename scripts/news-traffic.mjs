@@ -83,6 +83,10 @@ export const BEACON_SQL = {
   pagesPrev: (n) => `SELECT ${PAGE_COLS} FROM fc_pageviews WHERE ${AE_WHERE(2 * n, n)} GROUP BY k ORDER BY n DESC LIMIT 1000`,
   devices: (n) => `SELECT blob4 AS k, ${AE_RATE} AS n, ${AE_AVG("double1")} AS sec, ${AE_AVG("double2")} AS scroll FROM fc_pageviews WHERE ${AE_WHERE(n)} GROUP BY k ORDER BY n DESC`,
   countries: (n) => `SELECT blob3 AS k, ${AE_RATE} AS n FROM fc_pageviews WHERE ${AE_WHERE(n)} GROUP BY k ORDER BY n DESC LIMIT 15`,
+  // Interaction to Next Paint (INP), from views where the reader tapped, clicked or typed (double3 > 0).
+  inpDevices: (n) => `SELECT blob4 AS k, ${AE_RATE} AS n, SUM(if(double3 > 200, _sample_interval, 0)) AS slow, ${AE_AVG("double3")} AS inp FROM fc_pageviews WHERE ${AE_WHERE(n)} AND double3 > 0 GROUP BY k ORDER BY n DESC`,
+  inpPages: (n) => `SELECT blob1 AS k, ${AE_RATE} AS n, SUM(if(double3 > 200, _sample_interval, 0)) AS slow, ${AE_AVG("double3")} AS inp FROM fc_pageviews WHERE ${AE_WHERE(n)} AND double3 > 0 GROUP BY k ORDER BY slow DESC LIMIT 25`,
+  inpCauses: (n) => `SELECT blob5 AS k, blob6 AS script, ${AE_RATE} AS n, ${AE_AVG("double3")} AS inp, ${AE_AVG("double4")} AS delay FROM fc_pageviews WHERE ${AE_WHERE(n)} AND double3 > 200 GROUP BY k, script ORDER BY n DESC LIMIT 20`,
 };
 
 /** One page's views, seconds and scroll between two UTC days (YYYY-MM-DD, end excluded). */
@@ -133,6 +137,14 @@ export function beaconReport(b, days) {
   if (b.pages) out.push("### Top pages", "", "| Page | Views | Avg. seconds | Avg. deepest scroll |", "|---|---:|---:|---:|",
     ...b.pages.slice(0, 40).map((r) => `| ${r.k} | ${fmt(r.n)} | ${fmt(r.sec)} | ${fmt(r.scroll)}% |`), "");
   if (b.devices) out.push("Devices: " + b.devices.map((r) => `${r.k || "(unknown)"} ${fmt(r.n)} (${fmt(r.sec)} s, ${fmt(r.scroll)}% scroll)`).join(" · "), "");
+  if (b.inpDevices?.length) {
+    out.push("### Interaction to Next Paint (INP): how fast the page answers a tap", "", "Views where the reader tapped, clicked or typed. Google counts a page as good when its slow interactions stay rare; slow means over 200 ms.", "",
+      "| Device | Views with a tap | Over 200 ms | Avg. slowest interaction |", "|---|---:|---:|---:|",
+      ...b.inpDevices.map((r) => `| ${r.k || "(unknown)"} | ${fmt(r.n)} | ${r.n ? ((100 * r.slow) / r.n).toFixed(1) : 0}% | ${fmt(r.inp)} ms |`), "");
+    const pages = (b.inpPages ?? []).filter((r) => r.slow > 0);
+    if (pages.length) out.push("Pages with the most slow taps:", "", "| Page | Views with a tap | Over 200 ms | Avg. |", "|---|---:|---:|---:|", ...pages.slice(0, 15).map((r) => `| ${r.k} | ${fmt(r.n)} | ${fmt(r.slow)} | ${fmt(r.inp)} ms |`), "");
+    if (b.inpCauses?.length) out.push("What was tapped, and the script that ran longest in that frame:", "", "| Element | Script | Slow taps | Avg. INP | Avg. input delay |", "|---|---|---:|---:|---:|", ...b.inpCauses.map((r) => `| ${r.k || "(not recorded)"} | ${r.script || "(none over 50 ms)"} | ${fmt(r.n)} | ${fmt(r.inp)} ms | ${fmt(r.delay)} ms |`), "");
+  }
   if (b.experiments?.length) out.push("### Reader experiments (UX briefs, 7 days before and after)", "", "| Story | Changed | Before: views, s, scroll | After: views, s, scroll | Result |", "|---|---|---|---|---|",
     ...b.experiments.map((e) => `| ${e.slug} | ${e.changedAt} | ${e.before ? `${fmt(e.before.n)}, ${fmt(e.before.sec)}, ${fmt(e.before.scroll)}%` : "-"} | ${e.after ? `${fmt(e.after.n)}, ${fmt(e.after.sec)}, ${fmt(e.after.scroll)}%` : "waiting"} | ${e.result ?? "waiting"} |`), "");
   if (b.countries) out.push("Countries: " + b.countries.map((r) => `${r.k || "(unknown)"} ${fmt(r.n)}`).join(" · "), "");
@@ -212,7 +224,7 @@ if (import.meta.url === `file://${process.argv[1]}`) {
       });
       const text = await res.text();
       if (!res.ok) throw new Error(`${res.status}: ${text.slice(0, 200)}`);
-      return (JSON.parse(text).data ?? []).map((r) => ({ ...r, n: Number(r.n ?? 0), sec: Number(r.sec ?? 0), scroll: Number(r.scroll ?? 0) }));
+      return (JSON.parse(text).data ?? []).map((r) => ({ ...r, n: Number(r.n ?? 0), sec: Number(r.sec ?? 0), scroll: Number(r.scroll ?? 0), slow: Number(r.slow ?? 0), inp: Number(r.inp ?? 0), delay: Number(r.delay ?? 0) }));
     };
     sections.beacon = {};
     for (const [name, q] of Object.entries(BEACON_SQL)) {

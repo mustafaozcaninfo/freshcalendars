@@ -59,11 +59,24 @@ export const ADS_LOADER_JS = `
   window.adsbygoogle=window.adsbygoogle||[];
   // Sidebar rail units: a 300×600 half page when the window can show it whole under the header.
   var tall=innerHeight>=760;
+  // Units are requested one per idle period: each request makes AdSense do a burst of work, and
+  // a burst of several at once kept the main thread busy when a reader tapped (INP, Nov. 7, 2026).
+  var queue=[],busy=false;
+  var idle=window.requestIdleCallback?function(f){requestIdleCallback(f,{timeout:800});}:function(f){setTimeout(f,50);};
+  function drain(){
+    var ins=queue.shift();
+    if(!ins){busy=false;return;}
+    if(!ins.dataset.pushed&&ins.offsetWidth){
+      if(tall&&ins.parentNode.classList.contains('ad-slot--side')) ins.style.height='600px';
+      ins.dataset.pushed='1';
+      try{window.adsbygoogle.push({});}catch(e){}
+    }
+    idle(drain);
+  }
   function push(ins){
-    if(ins.dataset.pushed||!ins.offsetWidth) return;
-    if(tall&&ins.parentNode.classList.contains('ad-slot--side')) ins.style.height='600px';
-    ins.dataset.pushed='1';
-    try{window.adsbygoogle.push({});}catch(e){}
+    if(ins.dataset.pushed||!ins.offsetWidth||queue.indexOf(ins)>=0) return;
+    queue.push(ins);
+    if(!busy){busy=true;idle(drain);}
   }
   // Units within ${NEWS_AD_RULES.lazyMargin} of a screen are requested now, the rest as the reader nears
   // them: a reader who leaves early never loads the end-of-page units, and every unit fills while

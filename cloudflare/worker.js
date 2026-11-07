@@ -213,7 +213,9 @@ const PV_TABLET = /iPad|Tablet/i;
  * tab (sendBeacon on pagehide or visibilitychange), so ad blockers, late gtag.js and readers who
  * leave in two seconds are all counted, and bots that run no JavaScript are not. Stored in the
  * Workers Analytics Engine dataset fc_pageviews (binding PV, three months, read by
- * scripts/news-traffic.mjs): blob1 path, blob2 referrer host, blob3 country, blob4 device;
+ * scripts/news-traffic.mjs): blob1 path, blob2 referrer host, blob3 country, blob4 device,
+ * blob5 the element of the slowest interaction, blob6 the script host that ran longest in its frame;
+ * double3 that interaction's Interaction to Next Paint (INP) in ms, double4 its input delay;
  * double1 seconds on page (capped at 30 minutes, so a tab left open does not skew averages), double2 deepest scroll in percent. No cookie, no IP, no user id.
  * Always answers 204 so a refused or broken beacon never shows an error to the reader.
  */
@@ -234,11 +236,12 @@ export async function pageView(request, env) {
   const ref = typeof d.r === "string" && /^[a-z0-9.-]{1,100}$/i.test(d.r) ? d.r.toLowerCase() : "";
   const num = (v, max) => (Number.isFinite(v) ? Math.max(0, Math.min(max, Math.round(v))) : 0);
   const device = PV_TABLET.test(ua) ? "tablet" : PV_MOBILE.test(ua) ? "mobile" : "desktop";
+  const tag = (v, re) => (typeof v === "string" && re.test(v) ? v : "");
   try {
     env.PV.writeDataPoint({
       indexes: [p.slice(0, 96)],
-      blobs: [p, ref, (request.cf && request.cf.country) || "", device],
-      doubles: [num(d.t, 1800), num(d.s, 100)],
+      blobs: [p, ref, (request.cf && request.cf.country) || "", device, tag(d.it, /^[a-z0-9#._-]{1,60}$/i), tag(d.is, /^[a-z0-9.-]{1,80}$/i)],
+      doubles: [num(d.t, 1800), num(d.s, 100), num(d.i, 10000), num(d.id, 10000)],
     });
   } catch (err) {
     // Over the free daily allowance or a dataset error: drop the view, never the page.
