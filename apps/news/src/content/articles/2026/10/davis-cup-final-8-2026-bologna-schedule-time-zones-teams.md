@@ -72,7 +72,7 @@ internalLinks:
     label: "When is Thanksgiving?"
   - href: "/december-calendars.html"
     label: "December 2026 printable calendar"
-related: [atp-finals-2026-turin-dates-schedule-time-zones-tv-qualified-players, paris-masters-2026-schedule-final-time-by-time-zone, wta-finals-2026-indian-wells-dates-qualified-players-time-zones]
+related: [atp-finals-2026-turin-dates-schedule-time-zones-tv-qualified-players, paris-masters-2026-schedule-final-time-by-time-zone, world-chess-championship-2026-gukesh-sindarov-geneva-dates-time]
 assets:
   overlay: true
   kicker: "Davis Cup Final 8 · Nov. 24-29, 2026"

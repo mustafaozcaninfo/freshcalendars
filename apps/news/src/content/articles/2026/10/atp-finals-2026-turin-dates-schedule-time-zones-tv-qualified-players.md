@@ -118,7 +118,7 @@ internalLinks:
     label: "November 2026 printable calendar"
   - href: "/printable-weekly-calendar.html"
     label: "printable weekly calendar"
-related: [wta-finals-2026-indian-wells-dates-qualified-players-time-zones, paris-masters-2026-schedule-final-time-by-time-zone, golf-schedule-november-2026-pga-tour-lpga-rsm-classic-cme-hero-world-challenge]
+related: [wta-finals-2026-indian-wells-dates-qualified-players-time-zones, paris-masters-2026-schedule-final-time-by-time-zone, world-chess-championship-2026-gukesh-sindarov-geneva-dates-time]
 assets:
   overlay: true
   kicker: "ATP Finals · Nov. 15-22, 2026"

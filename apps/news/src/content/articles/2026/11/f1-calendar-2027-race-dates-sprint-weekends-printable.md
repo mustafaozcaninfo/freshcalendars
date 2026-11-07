@@ -99,7 +99,7 @@ internalLinks:
     label: "2027 printable yearly calendar"
   - href: "/march-calendars.html"
     label: "March printable calendar"
-related: [dakar-rally-2027-dates-portugal-morocco-stages, abu-dhabi-grand-prix-2026-schedule-race-time-by-time-zone, nascar-cup-schedule-2027-daytona-500-february-21-full-race-list]
+related: [indycar-schedule-2027-17-races-indy-500-may-30, abu-dhabi-grand-prix-2026-schedule-race-time-by-time-zone, nascar-cup-schedule-2027-daytona-500-february-21-full-race-list]
 draft: false
 downloads:
   - group: "F1 Calendar 2027 printables"
