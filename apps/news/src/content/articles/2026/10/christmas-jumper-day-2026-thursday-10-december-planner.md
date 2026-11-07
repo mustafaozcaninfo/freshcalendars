@@ -70,7 +70,7 @@ internalLinks:
     label: "November 2026 printable calendar"
   - href: "/when-is/christmas-day/"
     label: "When is Christmas Day?"
-related: [ugly-christmas-sweater-day-2026, christmas-2026-calendar-printable-countdown, human-rights-day-2026-december-10]
+related: [ugly-christmas-sweater-day-2026, christmas-2026-calendar-printable-countdown, elf-day-2026-december-2-alzheimers-society]
 downloads:
   - group: "Christmas Jumper Day 2026 Planner printables"
     title: "Christmas Jumper Day 2026 Planner, Thursday 10 December"
