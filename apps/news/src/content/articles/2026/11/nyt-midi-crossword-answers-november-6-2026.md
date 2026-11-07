@@ -84,7 +84,7 @@ With only 19 clues today, the rules for a Midi are quick to review on our [Midi 
 
 Mark the solving days on our [printable weekly calendar](/printable-weekly-calendar.html) or the [November 2026 printable calendar](/november-calendars.html).
 
-More of Friday's puzzles: [Wordle hints](/news/wordle-hint-answer-today-november-6-2026-1966/), [Connections hints](/news/nyt-connections-hints-answers-november-6-2026-1244/), [Strands hints](/news/nyt-strands-hints-answers-november-6-2026-978/), [Spelling Bee hints](/news/nyt-spelling-bee-hints-answers-november-6-2026/) and [Pips hints](/news/nyt-pips-hints-answers-november-6-2026/). The smaller sibling for the same date is our [Mini answers for Nov. 6](/news/nyt-mini-crossword-answers-november-6-2026/). Thursday's grid is in our [Midi answers for Nov. 5](/news/nyt-midi-crossword-answers-november-5-2026/).
+More of Friday's puzzles: [Wordle hints](/news/wordle-hint-answer-today-november-6-2026-1966/), [Connections hints](/news/nyt-connections-hints-answers-november-6-2026-1244/), [Strands hints](/news/nyt-strands-hints-answers-november-6-2026-978/), [Spelling Bee hints](/news/nyt-spelling-bee-hints-answers-november-6-2026/) and [Pips hints](/news/nyt-pips-hints-answers-november-6-2026/). The smaller sibling for the same date is our [Mini answers for Nov. 6](/news/nyt-mini-crossword-answers-november-6-2026/). Thursday's grid is in our [Midi answers for Nov. 5](/news/nyt-midi-crossword-answers-november-5-2026/). The next themed grid, for Saturday, is in our [Midi answers for Nov. 7](/news/nyt-midi-crossword-answers-november-7-2026/).
 
 ## Today's NYT Midi answers (spoilers)
 
