@@ -1,9 +1,10 @@
 ---
 title: "Killington World Cup 2026: Giant Slalom Nov. 28, Slalom Nov. 29, TV Times"
 seoTitle: "Killington World Cup 2026: Race Days and TV Times"
-description: "Stifel Killington Cup 2026: women's giant slalom Sat., Nov. 28, slalom Sun., Nov. 29. TV from 9:30 a.m. Eastern Time (ET) Saturday; race starts not posted."
+description: "Stifel Killington Cup 2026: women's giant slalom Sat., Nov. 28 from 9:30 a.m. Eastern Time (ET), slalom Sun., Nov. 29 from 10:30 a.m. ET, per Killington."
 type: news
 publishedAt: "2026-11-04T12:55:00-05:00"
+updatedAt: "2026-11-07T17:32:00-05:00"
 authors: [jessica-hartwell]
 category: sports
 keywords: ["killington world cup 2026", "killington cup 2026 tv schedule", "stifel killington cup 2026", "killington world cup tickets"]
@@ -19,7 +20,7 @@ assets:
     group: killington-cup-2026
     title: "Killington Cup 2026 Watch Card: TV Windows in ET, CT, MT and PT"
     subtitle: "Women's World Cup giant slalom Nov. 28 and slalom Nov. 29"
-    note: "Source: Killington Resort 2026 Broadcast Schedule (killington.com); Eastern Time from Sports Video Group's report of NBC Sports' announcement. Times are TV windows, not race starts."
+    note: "Source: Killington Resort 2026 Broadcast Schedule (killington.com); Eastern Time from Killington's event schedule. Times can shift with weather; check killington.com on race day."
     description: "A Killington Cup 2026 watch card: the four TV windows for the women's World Cup giant slalom and slalom in Eastern, Central, Mountain and Pacific Time."
     alt: "Killington Cup 2026 watch card listing four TV windows for the women's World Cup races in ET, CT, MT and PT"
     data:
@@ -27,38 +28,38 @@ assets:
       events:
         - start: "2026-11-28T09:30-05:00"
           title: "Women's giant slalom, first run (NBC Sports Network)"
-          detail: "Window ends 12:30 p.m. ET; race start not posted."
+          detail: "Run 1 at 9:30 a.m. ET; TV to 12:30 p.m. ET"
           channel: "NBC Sports Network"
           stream: "Peacock"
           airing: live
           src: 1
-          quote: "\"NBC Sports Network\" / \"November 28\" / \"9:30 a.m.\" / \"12:30 p.m.\" / \"1st Run (Live)\""
+          quote: "\"Giant Slalom Run 1\" / \"9:30 a.m.\" / \"Superstar Trail\"; \"NBC Sports Network\" / \"November 28\" / \"9:30 a.m.\" / \"12:30 p.m.\" / \"1st Run (Live)\""
         - start: "2026-11-28T12:30-05:00"
           title: "Women's giant slalom, second run (NBC)"
-          detail: "Window ends 2:00 p.m. ET."
+          detail: "Run 2 at 12:30 p.m. ET; TV to 2:00 p.m. ET"
           channel: "NBC"
           stream: "Peacock"
           airing: live
           src: 1
-          quote: "\"NBC\" / \"November 28\" / \"12:30 p.m.\" / \"2:00 p.m.\" / \"2nd Run (Live)\""
+          quote: "\"Giant Slalom Run 2\" / \"12:30 p.m.\" / \"Superstar Trail\"; \"NBC\" / \"November 28\" / \"12:30 p.m.\" / \"2:00 p.m.\" / \"2nd Run (Live)\""
         - start: "2026-11-29T10:30-05:00"
           title: "Women's slalom, first run (NBC Sports Network)"
-          detail: "Window ends 12:30 p.m. ET; race start not posted."
+          detail: "Run 1 at 10:30 a.m. ET; TV to 12:30 p.m. ET"
           channel: "NBC Sports Network"
           stream: "Peacock"
           airing: live
           src: 1
-          quote: "\"NBC Sports Network\" / \"November 29\" / \"10:30 a.m.\" / \"12:30 p.m.\" / \"1st Run (Live)\""
+          quote: "\"Slalom Run 1\" / \"10:30 a.m.\" / \"Superstar Trail\"; \"NBC Sports Network\" / \"November 29\" / \"10:30 a.m.\" / \"12:30 p.m.\" / \"1st Run (Live)\""
         - start: "2026-11-29T13:30-05:00"
           title: "Women's slalom, second run (NBC)"
-          detail: "Window ends 2:00 p.m. ET."
+          detail: "Run 2 at 1:30 p.m. ET; TV to 2:00 p.m. ET"
           channel: "NBC"
           stream: "Peacock"
           airing: live
           src: 1
-          quote: "\"NBC\" / \"November 29\" / \"1:30 p.m.\" / \"2:00 p.m.\" / \"2nd Run (Live)\""
+          quote: "\"Slalom Run 2\" / \"1:30 p.m.\" / \"Superstar Trail\"; \"NBC\" / \"November 29\" / \"1:30 p.m.\" / \"2:00 p.m.\" / \"2nd Run (Live)\""
       unconfirmed:
-        - { label: "Race start times, 1st and 2nd run, both days", why: "Not posted on killington.com, FIS or NBC pages as of Nov. 4, 2026" }
+        - { label: "Run time changes on race day", why: "Killington's event schedule lists the times as of Nov. 7, 2026; FIS lists dates only; check killington.com on race day" }
         - { label: "Time zone on Killington's broadcast table", why: "The table gives no zone; ET comes from Sports Video Group's report of NBC's announcement" }
 hero:
   src: ../../../../assets/news/killington-cup-2026-world-cup-ski-race-times-tv/killington-cup-2026-world-cup-ski-race-times-tv.webp
@@ -74,24 +75,24 @@ hero:
 summary:
   - "The Stifel Killington Cup runs Nov. 27-29, 2026 in Vermont, with the women's giant slalom on Sat., Nov. 28 and the slalom on Sun., Nov. 29, per Killington Resort."
   - "Killington's broadcast table has the first run on NBC Sports Network from 9:30 a.m. Saturday and 10:30 a.m. Sunday, with the second runs on NBC; all are also on Peacock."
-  - "Those times are TV windows, not race starts. Start times for the runs are not yet posted."
+  - "Killington's event schedule lists Giant Slalom Run 1 at 9:30 a.m. ET and Run 2 at 12:30 p.m. Saturday, and Slalom Run 1 at 10:30 a.m. and Run 2 at 1:30 p.m. Sunday, all on Superstar Trail."
   - "Admission is free Friday, Nov. 27; Saturday and Sunday general admission is $10 per day."
 faq:
   - q: "When is the Killington World Cup 2026?"
     a: "The Stifel Killington Cup is Nov. 27-29, 2026. Killington Resort lists the women's giant slalom on Saturday, Nov. 28 and the slalom on Sunday, Nov. 29."
   - q: "What time do the Killington World Cup races start?"
-    a: "Race start times are not yet posted. Killington's broadcast table lists TV windows: Saturday 9:30 a.m. to 2:00 p.m. and Sunday 10:30 a.m. to 2:00 p.m., in ET per NBC's announcement."
+    a: "Killington's event schedule lists the giant slalom on Saturday, Nov. 28 with Run 1 at 9:30 a.m. ET and Run 2 at 12:30 p.m., and the slalom on Sunday, Nov. 29 with Run 1 at 10:30 a.m. and Run 2 at 1:30 p.m. All are on Superstar Trail. Times can shift with weather, so check killington.com on race day."
   - q: "What channel is the Killington World Cup on?"
     a: "NBC Sports Network carries the first runs and NBC the second runs, per Killington's broadcast schedule. Killington also says the races are live on Peacock."
   - q: "How much are Killington World Cup tickets?"
-    a: "General admission is $10 per day on Saturday and Sunday. Grandstand is $50 Saturday and $45 Sunday, and Premier Grandstand is $110 Saturday and $100 Sunday, per killington.com. Friday admission is free."
+    a: "General admission is $10 per day on Saturday and Sunday. Grandstand is $50 Saturday and $45 Sunday, and Premier Grandstand is $110 Saturday and $100 Sunday, per killington.com. Friday admission is free. K-1 Paid Preferred Parking is sold out for Saturday and Sunday, and the Killington World Cup Foundation Silver, Gold and Platinum packages are sold out."
   - q: "Is the Killington World Cup the same as the Stifel Killington Cup?"
     a: "Yes. Killington's event page calls it the Stifel Killington Cup, and the International Ski and Snowboard Federation (FIS) calendar lists it as Killington (USA), women, 28-29 Nov 2026."
 sources:
   - title: "Stifel Killington Cup: Women's Alpine Racing & Entertainment in Vermont"
     url: "https://killington.com/the-killington-cup"
     publisher: "Killington Resort"
-    date: "2026-11-04"
+    date: "2026-11-07"
   - title: "NBC Sports to Present Every Alpine World Cup and World Championship Race Under New Rights Agreements With U.S. Ski & Snowboard, FIS"
     url: "https://www.sportsvideo.org/2026/10/22/nbc-sports-to-present-every-alpine-world-cup-and-world-championship-race-under-new-rights-agreements-with-u-s-ski-snowboard-fis/"
     publisher: "Sports Video Group"
@@ -124,7 +125,7 @@ draft: false
 
 **The Stifel Killington Cup 2026 puts the women's World Cup giant slalom on Saturday, Nov. 28 and the slalom on Sunday, Nov. 29 at Killington, Vermont, with TV coverage starting at 9:30 a.m. Eastern Time (ET) on Saturday, according to Killington Resort.** The resort's page lists the event as Thanksgiving weekend, Nov. 27-29, on its Superstar trail.
 
-The times on Killington's broadcast table are TV windows, not race starts. Start times for the runs are not yet posted on the resort's page, and the International Ski and Snowboard Federation (FIS) calendar lists the dates only.
+Killington's event schedule lists Giant Slalom Run 1 at 9:30 a.m. ET and Run 2 at 12:30 p.m. on Saturday, and Slalom Run 1 at 10:30 a.m. and Run 2 at 1:30 p.m. on Sunday, all on Superstar Trail. Awards follow Run 2 each day. Times can shift with weather, so check the resort's page on race day. The International Ski and Snowboard Federation (FIS) calendar lists the dates only, with no run times.
 
 ## Killington World Cup TV schedule in ET, CT, MT and PT
 
@@ -137,15 +138,15 @@ Killington's "2026 Broadcast Schedule" table gives no time zone. Sports Video Gr
 | Sun., Nov. 29 | Slalom, 1st run | NBC Sports Network | 10:30 a.m. to 12:30 p.m. | 9:30 to 11:30 a.m. | 8:30 to 10:30 a.m. | 7:30 to 9:30 a.m. |
 | Sun., Nov. 29 | Slalom, 2nd run | NBC | 1:30 to 2:00 p.m. | 12:30 to 1:00 p.m. | 11:30 a.m. to noon | 10:30 to 11:00 a.m. |
 
-Killington marks all four windows "Live". It also says the races are live on Peacock, and Sports Video Group reports that NBC Sports will stream all World Cup races on Peacock. Killington's table lists no other channel. Every window falls on the same calendar day in all four zones.
+The TV windows begin at the posted run times. Killington marks all four windows "Live". It also says the races are live on Peacock, and Sports Video Group reports that NBC Sports will stream all World Cup races on Peacock. Killington's table lists no other channel. Every window falls on the same calendar day in all four zones.
 
 ## What is the Killington Cup weekend schedule?
 
 | Day | What Killington lists |
 |---|---|
 | Fri., Nov. 27 | Athlete bib draw and a fireworks display; free admission, including a live performance by Congress The Band |
-| Sat., Nov. 28 | Women's giant slalom; Aluna DJ set between runs, then The Revivalists |
-| Sun., Nov. 29 | Women's slalom; Dillon Francis between runs |
+| Sat., Nov. 28 | Women's giant slalom, Run 1 at 9:30 a.m. and Run 2 at 12:30 p.m.; Aluna immediately following Run 1, then The Revivalists at 2:00 p.m. |
+| Sun., Nov. 29 | Women's slalom, Run 1 at 10:30 a.m. and Run 2 at 1:30 p.m.; Dillon Francis immediately following Run 1 |
 
 The Mountain Times, in a June 17, 2026 report, also gives Friday, Nov. 27 as the bib draw date. Killington places the music on the Kona Big Wave Stage in the Festival Village behind the K-1 Lodge. Other listed events include a World Cup party at The Foundry on Friday, and a HERoic Panel and Movie Screening at Snowshed Lodge and a World Cup Rebels Apres Ski Party at Pickle Barrel on Saturday.
 
@@ -157,7 +158,7 @@ The Mountain Times, in a June 17, 2026 report, also gives Friday, Nov. 27 as the
 | Grandstand | $50 | $45 |
 | Premier Grandstand | $110 | $100 |
 
-Prices are from killington.com, which says admission is free on Friday, Nov. 27. It says "an event admission ticket is required to see Aluna perform on Saturday, November 28, 2026," and that a valid ticket is required for all attendees, including infants and children.
+Prices are from killington.com, which says admission is free on Friday, Nov. 27. It says "an event admission ticket is required to see Aluna perform on Saturday, November 28, 2026," and that a valid ticket is required for all attendees, including infants and children. Killington says K-1 Paid Preferred Parking ($100 Saturday, $90 Sunday) is now sold out for both days, free parking and shuttles continue to be available around the resort, and overnight parking is not permitted Killington Cup weekend. The Killington World Cup Foundation Silver, Gold and Platinum packages are also sold out.
 
 ## Where is Killington in the 2026-27 women's World Cup?
 
@@ -167,4 +168,4 @@ Skiers heading to Vermont or the Rockies can compare the [2026-27 ski resort ope
 
 ## Killington Cup dates to mark on a November 2026 calendar
 
-Mark Nov. 27, 28 and 29 on the [November 2026 printable calendar](/november-calendars.html); Thanksgiving falls on Thursday, Nov. 26, per our [when is Thanksgiving](/when-is/thanksgiving/) page. The watch card printable puts the four TV windows on one sheet in ET, CT, MT and PT. Race start times and any change to the schedule are not yet announced, so check Killington's page before race day.
+Mark Nov. 27, 28 and 29 on the [November 2026 printable calendar](/november-calendars.html); Thanksgiving falls on Thursday, Nov. 26, per our [when is Thanksgiving](/when-is/thanksgiving/) page. The watch card printable puts the four TV windows on one sheet in ET, CT, MT and PT. The run times are the ones on Killington's event schedule; they can shift with weather, so check Killington's page before race day.
