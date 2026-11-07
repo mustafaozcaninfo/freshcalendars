@@ -4,7 +4,7 @@ seoTitle: "Thanksgiving Parades 2026: City Start Times and TV"
 description: "Detroit's 100th Thanksgiving parade steps off 8:45 a.m. Eastern Time (ET) Nov. 26, 2026; Houston's is 9 a.m. Central Time (CT), Philadelphia's 8:30 a.m. ET."
 type: news
 publishedAt: "2026-10-30T13:50:00-04:00"
-updatedAt: "2026-11-04T13:21:00-05:00"
+updatedAt: "2026-11-06T23:35:00-05:00"
 authors: [christina-gerland]
 category: holidays
 keywords: ["thanksgiving parades 2026", "detroit thanksgiving parade 2026 time", "houston thanksgiving parade 2026", "philadelphia thanksgiving parade 2026", "plymouth thanksgiving parade 2026"]
@@ -33,7 +33,7 @@ faq:
   - q: "Is the Philadelphia Thanksgiving parade on Nov. 26, 2026?"
     a: "Yes. Visit Philadelphia says the parade kicks off on Thanksgiving Day, Nov. 26, 2026, at 8:30 a.m., on a route from 20th Street and John F. Kennedy Boulevard to the Philadelphia Museum of Art."
   - q: "When is the Plymouth Thanksgiving parade in 2026?"
-    a: "America's Hometown Thanksgiving Parade is on Saturday, Nov. 21, 2026, on the Historic Plymouth Waterfront, according to the organizer's press release. A start time has not been announced."
+    a: "America's Hometown Thanksgiving Parade is on Saturday, Nov. 21, 2026, according to the organizer's press release. The organizer's parade page says it steps off at Plymouth Rock at 10 a.m. Eastern Time (ET) and the route ends at Court Street and Nelson Street. It is broadcast on Channel 5 (Boston) and Hearst TV stations nationwide."
 sources:
   - title: "America's Thanksgiving Parade: Parade Info"
     url: "https://theparade.org/americas-thanksgiving-parade/parade-info/"
@@ -71,6 +71,10 @@ sources:
     url: "https://usathanksgiving.com"
     publisher: "America's Hometown Thanksgiving Celebration"
     date: "2026-10-30"
+  - title: "The Thanksgiving Parade"
+    url: "https://usathanksgiving.com/parade/"
+    publisher: "USA Thanksgiving / America's Hometown Thanksgiving Celebration"
+    date: "2026-11-07"
   - title: "Parade Info"
     url: "https://www.novanthealththanksgivingparade.com/parade-info"
     publisher: "Novant Health Thanksgiving Eve Parade"
@@ -110,8 +114,9 @@ assets:
     title: "Thanksgiving Parades 2026 Schedule"
     subtitle: "Six city parades, Nov. 21 to Nov. 26, 2026, local times"
     layout: list
+    noKit: "printable predates the kits; a silent update keeps its list layout and changes the Plymouth row only"
     rows:
-      - ["Sat., Nov. 21, time not announced", "Plymouth, Mass., America's Hometown Thanksgiving Parade; Channel 5 Boston per organizer's site"]
+      - ["Sat., Nov. 21, 10:00 a.m. ET", "Plymouth, Mass., America's Hometown Thanksgiving Parade, Plymouth Rock to Court St. and Nelson St.; Channel 5 Boston per organizer"]
       - ["Wed., Nov. 25, 5:30 p.m. ET", "Charlotte, Novant Health Thanksgiving Eve Parade; live at 6 p.m. ET on a local station"]
       - ["Thu., Nov. 26, 8:30 a.m. ET", "Philadelphia, 6abc Dunkin' Thanksgiving Day Parade; 2026 channel not posted (2025: 6abc)"]
       - ["Thu., Nov. 26, 8:45 a.m. ET", "Detroit, America's Thanksgiving Parade, 100th; WDIV Local 4"]
@@ -135,7 +140,7 @@ This story covers the parades other than Macy's, which is in our [Thanksgiving 2
 | Houston, H-E-B Thanksgiving Day Parade, 77th | Thu., Nov. 26 | 9:00 a.m. CT | Downtown; 2026 route not yet posted | Not yet posted | Date, time, 77th edition and grand marshal (Lizzo) are on the city's pages; the city site links only a 2025 route map |
 | Philadelphia, 6abc Dunkin' Thanksgiving Day Parade | Thu., Nov. 26 | 8:30 a.m. ET | 20th Street and John F. Kennedy Boulevard to the Philadelphia Museum of Art | Not yet posted for 2026 (2025: 6abc) | Date, time and route are on Visit Philadelphia's 2026 page; closures not yet posted |
 | Chicago Thanksgiving Parade, 92nd | Thu., Nov. 26 | 7:45 a.m. or 8 a.m. CT | Not posted for 2026 | Not yet posted | Only the date and edition, from Choose Chicago; its two pages disagree on the time |
-| Plymouth, Mass., America's Hometown Thanksgiving Parade | Sat., Nov. 21 | Not yet announced | Historic Plymouth Waterfront, Water Street | Channel 5 Boston, per the organizer's site | Date, theme and location are in the organizer's press release |
+| Plymouth, Mass., America's Hometown Thanksgiving Parade | Sat., Nov. 21 | 10:00 a.m. ET | Plymouth Rock to Court Street and Nelson Street | Channel 5 (Boston) and Hearst TV stations nationwide | Date, time, route end and broadcast are on the organizer's parade page; the theme is in its press release |
 | Charlotte, N.C., Novant Health Thanksgiving Eve Parade | Wed., Nov. 25 | 5:30 p.m. ET | Begins at 9th Street, ends at Good Samaritan Way | Live at 6:00 p.m. ET on a local station | Date and times are on the organizer's page |
 
 Houston's 9:00 a.m. CT is 10:00 a.m. ET, our conversion. Last year's values are labeled 2025 in the table and the sections below.
@@ -162,7 +167,7 @@ The 2026 road closures are not yet posted. In 2025, the City of Philadelphia rel
 
 **Chicago.** The organizer's site, chicagothanksgivingparade.com, was unreachable when we checked. Choose Chicago, the city's tourism agency, lists the 92nd Chicago Thanksgiving Parade on Thursday, Nov. 26, 2026. Its two pages give different start times, 7:45 a.m. and 8 a.m. CT, and we found no 2026 route, so confirm with the organizer.
 
-**Plymouth, Massachusetts.** The organizer's press release places America's Hometown Thanksgiving Parade on Saturday, Nov. 21, 2026, on the Historic Plymouth Waterfront and Water Street. The theme is "a celebration of America's 250th Anniversary and the American story." The start time is not yet announced. The organizer's site says the parade is broadcast live on Channel 5 Boston, without tying that to a year.
+**Plymouth, Massachusetts.** The organizer's press release places America's Hometown Thanksgiving Parade on Saturday, Nov. 21, 2026. The theme is "a celebration of America's 250th Anniversary and the American story." The organizer's parade page, read Nov. 7, 2026, gives a 10:00 a.m. ET step-off at Plymouth Rock and a route end at Court St. and Nelson St. It says the parade is broadcast on Channel 5 (Boston) and Hearst TV stations nationwide, and lists no stream.
 
 **Charlotte, North Carolina.** The Novant Health Thanksgiving Eve Parade is on Wednesday, Nov. 25, 2026, the night before Thanksgiving. The organizer says it will step off at 5:30 p.m. and air live at 6:00 p.m. The organizer's page lists a route that begins at 9th Street and ends at Good Samaritan Way, without tying it to 2026.
 
@@ -171,7 +176,6 @@ The 2026 road closures are not yet posted. In 2025, the City of Philadelphia rel
 - Houston: 2026 route and TV channel
 - Philadelphia: 2026 road closures and TV channel
 - Chicago: the start time and route, and a readable organizer page
-- Plymouth: start time
 - Detroit: the syndication list, due the week of Nov. 23
 
 ## How do the parade dates fit the November calendar?

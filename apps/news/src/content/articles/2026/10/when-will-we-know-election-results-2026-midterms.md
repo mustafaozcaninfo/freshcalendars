@@ -4,7 +4,7 @@ seoTitle: "When Will We Know 2026 Midterm Election Results?"
 description: "Polls closed Nov. 3, 2026, but counting takes days in some states. When mail ballots are counted in 17 key states, late-ballot rules and certification dates."
 type: explainer
 publishedAt: "2026-10-21T00:30:00-04:00"
-updatedAt: "2026-11-05T07:45:00-05:00"
+updatedAt: "2026-11-06T23:35:00-05:00"
 authors: [christina-gerland]
 category: elections
 keywords: ["when will we know election results 2026", "when will election results start coming in", "2026 midterm results timeline", "election results by state 2026", "when are election results certified"]
@@ -116,7 +116,7 @@ The Secretary of State's canvass page sets the rest of California's schedule rel
 
 In Clark County, Nevada, voters can fix a mail ballot signature problem until 5 p.m. on Nov. 9, according to the county Election Department.
 
-Three more states are still receiving or curing ballots. Oregon's Secretary of State says ballots postmarked by Election Day can reach the county elections office up to 7 days after Election Day, which is Tuesday, Nov. 10. Voters with a signature challenge have until 21 days after the election to resolve it, which is Tuesday, Nov. 24 (both dates computed from those rules), and Oregon says final results "will be certified and made available on December 10." In Colorado, the Secretary of State's Nov. 2 release says counties "upload results periodically through the night," and gives Nov. 12, 2026, as the signature cure deadline.
+Three more states are still receiving or curing ballots. Oregon's Secretary of State now lists the dates on its current-election page: the "Last day for counties to receive valid postmarked ballots by mail" is Tuesday, Nov. 10, the "Last day to resolve ballot challenges" is Tuesday, Nov. 24, and Oregon says final results "will be certified and made available on December 10." In Colorado, the Secretary of State's Nov. 2 release says counties "upload results periodically through the night," and gives Nov. 12, 2026, as the signature cure deadline.
 
 The Pennsylvania Department of State lists Nov. 10 as the last day for county election offices to receive completed military and overseas absentee ballots that were submitted for delivery no later than 11:59 p.m. on Nov. 2, so Pennsylvania counties can still receive those ballots.
 
@@ -194,7 +194,7 @@ In Watson v. Republican National Committee, decided June 29, 2026, the U.S. Supr
 | Nov. 4-10 | Late mail ballots arrive in grace-period states (Texas Nov. 4, Nevada Nov. 7, California, New York and Oregon Nov. 10); Pennsylvania receives military and overseas ballots until Nov. 10 |
 | Nov. 12 | Colorado signature cure deadline |
 | Nov. 16 | California counties finish reporting all ballots, with some exceptions (computed from the Secretary of State's 13-day rule) |
-| Nov. 24 | Oregon signature-challenge deadline (computed from the 21-day rule) |
+| Nov. 24 | Oregon's last day to resolve ballot challenges, per the Secretary of State |
 | Mid-November | Counties finish canvassing; ranked-choice rounds in Maine and Alaska |
 | Dec. 1 | Georgia runoff, if needed |
 | Dec. 3 | California counties send final results to the Secretary of State (computed from the 30-day rule) |
