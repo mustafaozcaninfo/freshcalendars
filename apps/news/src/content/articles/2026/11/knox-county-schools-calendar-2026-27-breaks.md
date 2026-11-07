@@ -49,7 +49,7 @@ internalLinks:
     label: "December 2026 printable calendar"
   - href: "/march-calendars.html"
     label: "March 2027 printable calendar"
-related: [metro-nashville-public-schools-calendar-2026-27-breaks, thanksgiving-break-2026-school-districts-dates, winter-break-2026-school-districts-dates]
+related: [metro-nashville-public-schools-calendar-2026-27-breaks, williamson-county-schools-calendar-2026-27-breaks, winter-break-2026-school-districts-dates]
 downloads:
   - group: "Knox County Schools Calendar 2026-27 printables"
     title: "Knox County Schools Calendar 2026-27"
