@@ -8,7 +8,7 @@
 //   node scripts/news-traffic.mjs [--days 7] [--stdout]
 // Optional: without CF_ANALYTICS_TOKEN / CF_ZONE_ID it warns and exits 0. A section Cloudflare
 // refuses is reported as unavailable; the rest of the report is still written.
-import { writeFileSync } from "node:fs";
+import { readFileSync, writeFileSync } from "node:fs";
 import path from "node:path";
 
 const ROOT = path.join(import.meta.dirname, "..");
@@ -66,17 +66,50 @@ export function sourceOf(host) {
   return "Other sites";
 }
 
-const AE_WHERE = (days) => `timestamp > NOW() - INTERVAL '${days}' DAY`;
+/** Rows from `from` days ago up to `to` days ago (0 = now). */
+const AE_WHERE = (from, to = 0) => `timestamp > NOW() - INTERVAL '${from}' DAY` + (to ? ` AND timestamp <= NOW() - INTERVAL '${to}' DAY` : "");
 const AE_RATE = "SUM(_sample_interval)";
 const AE_AVG = (col) => `SUM(_sample_interval * ${col}) / SUM(_sample_interval)`;
-/** SQL for the beacon dataset (fc_pageviews, cloudflare/worker.js pageView). */
+const PAGE_COLS = `blob1 AS k, ${AE_RATE} AS n, ${AE_AVG("double1")} AS sec, ${AE_AVG("double2")} AS scroll`;
+/**
+ * SQL for the beacon dataset (fc_pageviews, cloudflare/worker.js pageView). `n` is the report
+ * window in days; the *Prev queries read the window before it, for week-over-week numbers.
+ */
 export const BEACON_SQL = {
-  daily: (n) => `SELECT toStartOfDay(timestamp) AS k, ${AE_RATE} AS n, ${AE_AVG("double1")} AS sec FROM fc_pageviews WHERE ${AE_WHERE(n)} GROUP BY k ORDER BY k`,
+  daily: (n) => `SELECT toStartOfDay(timestamp) AS k, ${AE_RATE} AS n, ${AE_AVG("double1")} AS sec, ${AE_AVG("double2")} AS scroll FROM fc_pageviews WHERE ${AE_WHERE(2 * n)} GROUP BY k ORDER BY k`,
   sources: (n) => `SELECT blob2 AS k, ${AE_RATE} AS n FROM fc_pageviews WHERE ${AE_WHERE(n)} GROUP BY k ORDER BY n DESC LIMIT 300`,
-  pages: (n) => `SELECT blob1 AS k, ${AE_RATE} AS n, ${AE_AVG("double1")} AS sec, ${AE_AVG("double2")} AS scroll FROM fc_pageviews WHERE ${AE_WHERE(n)} GROUP BY k ORDER BY n DESC LIMIT 40`,
+  sourcesPrev: (n) => `SELECT blob2 AS k, ${AE_RATE} AS n FROM fc_pageviews WHERE ${AE_WHERE(2 * n, n)} GROUP BY k ORDER BY n DESC LIMIT 300`,
+  pages: (n) => `SELECT ${PAGE_COLS} FROM fc_pageviews WHERE ${AE_WHERE(n)} GROUP BY k ORDER BY n DESC LIMIT 1000`,
+  pagesPrev: (n) => `SELECT ${PAGE_COLS} FROM fc_pageviews WHERE ${AE_WHERE(2 * n, n)} GROUP BY k ORDER BY n DESC LIMIT 1000`,
+  devices: (n) => `SELECT blob4 AS k, ${AE_RATE} AS n, ${AE_AVG("double1")} AS sec, ${AE_AVG("double2")} AS scroll FROM fc_pageviews WHERE ${AE_WHERE(n)} GROUP BY k ORDER BY n DESC`,
   countries: (n) => `SELECT blob3 AS k, ${AE_RATE} AS n FROM fc_pageviews WHERE ${AE_WHERE(n)} GROUP BY k ORDER BY n DESC LIMIT 15`,
-  devices: (n) => `SELECT blob4 AS k, ${AE_RATE} AS n FROM fc_pageviews WHERE ${AE_WHERE(n)} GROUP BY k ORDER BY n DESC`,
 };
+
+/** One page's views, seconds and scroll between two UTC days (YYYY-MM-DD, end excluded). */
+export const windowSql = (pagePath, from, to) =>
+  `SELECT ${AE_RATE} AS n, ${AE_AVG("double1")} AS sec, ${AE_AVG("double2")} AS scroll FROM fc_pageviews WHERE blob1 = '${pagePath.replace(/[^\w\-./]/g, "")}' AND timestamp >= toDateTime('${from} 00:00:00') AND timestamp < toDateTime('${to} 00:00:00')`;
+
+const addDays = (day, d) => new Date(Date.parse(`${day}T00:00:00Z`) + d * 86_400_000).toISOString().slice(0, 10);
+
+/**
+ * Reader experiments (search desk "UX brief" items, `"kind": "ux"` in
+ * docs/desk/search-experiments.json): the 7 days before the change against the 7 days after it,
+ * the change day left out, once 8 days have passed.
+ */
+export function uxWindows(exp, today) {
+  const before = [addDays(exp.changedAt, -7), exp.changedAt];
+  const after = [addDays(exp.changedAt, 1), addDays(exp.changedAt, 8)];
+  return after[1] <= today ? { before, after } : null;
+}
+
+/** win, loss, flat or small, from the before and after windows of a reader experiment. */
+export function judgeUx(b, a) {
+  if (!b || !a || b.n < 50 || a.n < 50) return "too small to judge";
+  const sec = (a.sec - b.sec) / (b.sec || 1), scroll = a.scroll - b.scroll;
+  if (sec >= 0.2 || scroll >= 10) return sec <= -0.2 || scroll <= -10 ? "flat" : "win";
+  if (sec <= -0.2 || scroll <= -10) return "loss";
+  return "flat";
+}
 
 /** The beacon part of the report: real readers whose browser ran the page. */
 export function beaconReport(b, days) {
@@ -84,8 +117,9 @@ export function beaconReport(b, days) {
   const out = ["## Real readers (first-party beacon)", "",
     `Page views sent by the reader's own browser to /api/pv when they leave the page (cloudflare/worker.js). Ad blockers do not stop it and bots that run no JavaScript never send it, so this is the number to report. Last ${days} days.`, ""];
   if (b.daily) {
-    out.push("| Day | Views | Avg. seconds on page |", "|---|---:|---:|", ...b.daily.map((r) => `| ${String(r.k).slice(0, 10)} | ${fmt(r.n)} | ${fmt(r.sec)} |`));
-    out.push(`| **Total** | **${fmt(b.daily.reduce((s, r) => s + r.n, 0))}** | |`, "");
+    const shown = b.daily.slice(-days);
+    out.push("| Day | Views | Avg. seconds on page | Avg. deepest scroll |", "|---|---:|---:|---:|", ...shown.map((r) => `| ${String(r.k).slice(0, 10)} | ${fmt(r.n)} | ${fmt(r.sec)} | ${fmt(r.scroll)}% |`));
+    out.push(`| **Total** | **${fmt(shown.reduce((s, r) => s + r.n, 0))}** | | |`, "");
   }
   if (b.sources) {
     const by = new Map();
@@ -97,8 +131,10 @@ export function beaconReport(b, days) {
     if (other.length) out.push("Other sites, top 10: " + other.map((r) => `${r.k} (${fmt(r.n)})`).join(", "), "");
   }
   if (b.pages) out.push("### Top pages", "", "| Page | Views | Avg. seconds | Avg. deepest scroll |", "|---|---:|---:|---:|",
-    ...b.pages.map((r) => `| ${r.k} | ${fmt(r.n)} | ${fmt(r.sec)} | ${fmt(r.scroll)}% |`), "");
-  if (b.devices) out.push("Devices: " + b.devices.map((r) => `${r.k || "(unknown)"} ${fmt(r.n)}`).join(" · "), "");
+    ...b.pages.slice(0, 40).map((r) => `| ${r.k} | ${fmt(r.n)} | ${fmt(r.sec)} | ${fmt(r.scroll)}% |`), "");
+  if (b.devices) out.push("Devices: " + b.devices.map((r) => `${r.k || "(unknown)"} ${fmt(r.n)} (${fmt(r.sec)} s, ${fmt(r.scroll)}% scroll)`).join(" · "), "");
+  if (b.experiments?.length) out.push("### Reader experiments (UX briefs, 7 days before and after)", "", "| Story | Changed | Before: views, s, scroll | After: views, s, scroll | Result |", "|---|---|---|---|---|",
+    ...b.experiments.map((e) => `| ${e.slug} | ${e.changedAt} | ${e.before ? `${fmt(e.before.n)}, ${fmt(e.before.sec)}, ${fmt(e.before.scroll)}%` : "-"} | ${e.after ? `${fmt(e.after.n)}, ${fmt(e.after.sec)}, ${fmt(e.after.scroll)}%` : "waiting"} | ${e.result ?? "waiting"} |`), "");
   if (b.countries) out.push("Countries: " + b.countries.map((r) => `${r.k || "(unknown)"} ${fmt(r.n)}`).join(" · "), "");
   return out;
 }
@@ -170,19 +206,41 @@ if (import.meta.url === `file://${process.argv[1]}`) {
   // The beacon dataset: needs an Account Analytics Read token (CF_AE_TOKEN) and the account id.
   const aeToken = process.env.CF_AE_TOKEN, account = process.env.CF_ACCOUNT_ID;
   if (aeToken && account) {
+    const sql = async (q) => {
+      const res = await fetch(`https://api.cloudflare.com/client/v4/accounts/${account}/analytics_engine/sql`, {
+        method: "POST", headers: { authorization: `Bearer ${aeToken}` }, body: `${q} FORMAT JSON`, signal: AbortSignal.timeout(30_000),
+      });
+      const text = await res.text();
+      if (!res.ok) throw new Error(`${res.status}: ${text.slice(0, 200)}`);
+      return (JSON.parse(text).data ?? []).map((r) => ({ ...r, n: Number(r.n ?? 0), sec: Number(r.sec ?? 0), scroll: Number(r.scroll ?? 0) }));
+    };
     sections.beacon = {};
-    for (const [name, sql] of Object.entries(BEACON_SQL)) {
+    for (const [name, q] of Object.entries(BEACON_SQL)) {
       try {
-        const res = await fetch(`https://api.cloudflare.com/client/v4/accounts/${account}/analytics_engine/sql`, {
-          method: "POST", headers: { authorization: `Bearer ${aeToken}` }, body: `${sql(days)} FORMAT JSON`, signal: AbortSignal.timeout(30_000),
-        });
-        const text = await res.text();
-        if (!res.ok) throw new Error(`${res.status}: ${text.slice(0, 200)}`);
-        sections.beacon[name] = (JSON.parse(text).data ?? []).map((r) => ({ ...r, n: Number(r.n), sec: Number(r.sec ?? 0), scroll: Number(r.scroll ?? 0) }));
+        sections.beacon[name] = await sql(q(days));
       } catch (e) {
         sections.failed.push(`beacon ${name}: ${e.message}`);
         console.log(`::warning::traffic: beacon ${name}: ${e.message}`);
       }
+    }
+    // Reader experiments of the search desk: measured here, judged by the rule in docs/DESK.md.
+    try {
+      const exps = JSON.parse(readFileSync(path.join(ROOT, "docs/desk/search-experiments.json"), "utf8"));
+      const list = (Array.isArray(exps) ? exps : exps.experiments ?? []).filter((e) => e.kind === "ux" && e.slug && e.changedAt);
+      const today = iso(now).slice(0, 10);
+      sections.beacon.experiments = [];
+      for (const e of list) {
+        const w = uxWindows(e, today), page = `/news/${e.slug}/`;
+        const row = { slug: e.slug, changedAt: e.changedAt, what: e.what };
+        if (w) {
+          row.before = (await sql(windowSql(page, ...w.before)))[0];
+          row.after = (await sql(windowSql(page, ...w.after)))[0];
+          row.result = judgeUx(row.before, row.after);
+        }
+        sections.beacon.experiments.push(row);
+      }
+    } catch (e) {
+      if (e.code !== "ENOENT") sections.failed.push(`beacon experiments: ${e.message}`);
     }
   } else sections.failed.push("beacon: CF_AE_TOKEN or CF_ACCOUNT_ID not set (Account Analytics Read token, see docs/ANALYTICS.md)");
   const md = report({ days, now, sections });

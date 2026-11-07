@@ -31,3 +31,7 @@ Every /news/ page sets up a tiny script in its inline script (`PV_JS` in `apps/n
 - Limits on the Workers Free plan: 100,000 data points written and 10,000 read queries a day, kept three months; each beacon is also one Worker request (100,000 a day on Free). At about 30,000 real views a day there is room; past 70,000 a day, move to Workers Paid or sample.
 - Reading: the daily workflow queries the SQL API with `CF_AE_TOKEN`, a token with **Account > Account Analytics > Read** only, and `CLOUDFLARE_ACCOUNT_ID`. Until the owner adds `CF_AE_TOKEN` as a GitHub Actions secret, the report says the beacon section is unavailable.
 - Off: `NEWS_PV=0` at build time.
+
+## What the desks do with it
+
+`scripts/news-readers.mjs` runs last in the daily workflow and needs no secret. It writes `docs/desk/readers.md` (fast-leaving pages, Clarity problems, reading per category, reader experiments), `docs/desk/weekly.md` (the owner's one page: this week against the week before) and `docs/desk/clarity-history.json` (one Clarity row a day, since the API only reaches back 3 days). Thresholds are in `RULES` at the top of the script; `docs/DESK.md` "Reader data" says which desk acts on which list: the search desk writes UX briefs (measured with the beacon, 7 days before and after, in `scripts/news-traffic.mjs`), the research desk weighs topics by reading per category, the update desk makes the change, the manager takes code, layout and ads.

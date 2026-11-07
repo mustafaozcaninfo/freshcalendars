@@ -49,16 +49,21 @@ jobs:
         env:
           CLARITY_API_TOKEN: ${{ secrets.CLARITY_API_TOKEN }}
         run: node scripts/news-clarity.mjs
+      - name: Reader signals and the weekly page
+        # docs/desk/readers.md (what the desks act on), weekly.md (the owner's page) and the Clarity
+        # history, from the files above (scripts/news-readers.mjs; no network).
+        continue-on-error: true
+        run: node scripts/news-readers.mjs
       - name: Commit the data
         run: |
           # The identity must be set for the whole step: the rebase below re-commits when main has moved.
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          for f in search-console.json search-console.md traffic.json traffic.md clarity.json clarity.md; do
+          for f in search-console.json search-console.md traffic.json traffic.md clarity.json clarity.md clarity-history.json readers.md weekly.md; do
             if [ -f "docs/desk/$f" ]; then git add "docs/desk/$f"; fi
           done
           if git diff --cached --quiet; then echo "nothing new"; exit 0; fi
-          git commit -q -m "desk: Search Console data of $(date -u +%F)"
+          git commit -q -m "desk: Search Console and reader data of $(date -u +%F)"
           for i in 1 2 3; do
             git pull -q --rebase origin main && git push -q origin HEAD:main && exit 0
             git rebase --abort 2>/dev/null || true
