@@ -77,7 +77,7 @@ internalLinks:
     label: "Printable school calendar"
   - href: "/when-is/thanksgiving/"
     label: "When is Thanksgiving?"
-related: [thanksgiving-break-2026-school-districts-dates, november-2026-important-dates-days-until, international-day-of-education-2027-sunday-january-24]
+related: [thanksgiving-break-2026-school-districts-dates, international-education-week-2026-november-16-20-events, november-2026-important-dates-days-until]
 draft: false
 ---
 
