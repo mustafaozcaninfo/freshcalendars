@@ -26,12 +26,12 @@ assets:
       pick: false
       layout: table
       events:
-        - { date: "2026-10-17", time: TBA, title: "It's the Great Pumpkin, Charlie Brown: free day 1", detail: "Past", src: 1, quote: "Stream for free Saturday, October 17 to Sunday, October 18." }
-        - { date: "2026-10-18", time: TBA, title: "It's the Great Pumpkin, Charlie Brown: free day 2", detail: "Past", src: 1, quote: "Stream for free Saturday, October 17 to Sunday, October 18." }
-        - { date: "2026-11-14", time: TBA, title: "A Charlie Brown Thanksgiving: free day 1", detail: "Free on Apple TV", src: 1, quote: "Stream for free Saturday, November 14 to Sunday, November 15." }
-        - { date: "2026-11-15", time: TBA, title: "A Charlie Brown Thanksgiving: free day 2", detail: "Free on Apple TV", src: 1, quote: "Stream for free Saturday, November 14 to Sunday, November 15." }
-        - { date: "2026-12-12", time: TBA, title: "A Charlie Brown Christmas: free day 1", detail: "Free on Apple TV", src: 1, quote: "Stream for free Saturday, December 12 to Sunday, December 13." }
-        - { date: "2026-12-13", time: TBA, title: "A Charlie Brown Christmas: free day 2", detail: "Free on Apple TV", src: 1, quote: "Stream for free Saturday, December 12 to Sunday, December 13." }
+        - { date: "2026-10-17", time: TBA, title: "It's the Great Pumpkin, Charlie Brown: free Saturday", detail: "Past", src: 1, quote: "Stream for free Saturday, October 17 to Sunday, October 18." }
+        - { date: "2026-10-18", time: TBA, title: "It's the Great Pumpkin, Charlie Brown: free Sunday", detail: "Past", src: 1, quote: "Stream for free Saturday, October 17 to Sunday, October 18." }
+        - { date: "2026-11-14", time: TBA, title: "A Charlie Brown Thanksgiving: free Saturday", detail: "Free on Apple TV", src: 1, quote: "Stream for free Saturday, November 14 to Sunday, November 15." }
+        - { date: "2026-11-15", time: TBA, title: "A Charlie Brown Thanksgiving: free Sunday", detail: "Free on Apple TV", src: 1, quote: "Stream for free Saturday, November 14 to Sunday, November 15." }
+        - { date: "2026-12-12", time: TBA, title: "A Charlie Brown Christmas: free Saturday", detail: "Free on Apple TV", src: 1, quote: "Stream for free Saturday, December 12 to Sunday, December 13." }
+        - { date: "2026-12-13", time: TBA, title: "A Charlie Brown Christmas: free Sunday", detail: "Free on Apple TV", src: 1, quote: "Stream for free Saturday, December 12 to Sunday, December 13." }
       unconfirmed:
         - { label: "Start and end hours of each free window", why: "Apple TV Press does not state them" }
 hero:
