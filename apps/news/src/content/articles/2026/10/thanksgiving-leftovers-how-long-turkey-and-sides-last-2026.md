@@ -96,7 +96,7 @@ internalLinks:
     label: "When is Thanksgiving?"
   - href: "/november-calendars.html"
     label: "November 2026 printable calendar"
-related: [when-to-thaw-thanksgiving-turkey-2026, thanksgiving-2026-planner-countdown-checklist, meal-planning-calendar-2027-printable]
+related: [when-to-thaw-thanksgiving-turkey-2026, thanksgiving-2026-planner-countdown-checklist, turkey-hotlines-2026-butterball-talk-line-usda-hours]
 draft: false
 ---
 
