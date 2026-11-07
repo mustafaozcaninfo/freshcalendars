@@ -56,7 +56,7 @@ internalLinks:
     label: "Printable school-year calendar 2026-27"
   - href: "/march-calendars.html"
     label: "March 2027 printable calendar"
-related: [spring-break-2027-dates-school-districts, winter-break-2026-school-districts-dates, dallas-isd-calendar-2026-27-holidays-breaks]
+related: [spring-break-2027-dates-school-districts, winter-break-2026-school-districts-dates, wichita-public-schools-calendar-2026-27]
 assets:
   overlay: true
   kicker: "Tulsa Public Schools · 2026-27"
