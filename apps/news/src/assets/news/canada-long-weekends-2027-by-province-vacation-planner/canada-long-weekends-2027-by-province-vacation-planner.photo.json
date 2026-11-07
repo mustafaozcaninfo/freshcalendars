@@ -1,0 +1,22 @@
+{
+  "ref": "commons:File:CanoeLake.JPG",
+  "source": "Wikimedia Commons",
+  "title": "CanoeLake",
+  "page": "https://commons.wikimedia.org/wiki/File:CanoeLake.JPG",
+  "file": "https://upload.wikimedia.org/wikipedia/commons/d/dc/CanoeLake.JPG",
+  "width": 3888,
+  "height": 2592,
+  "thumb": "https://commons.wikimedia.org/wiki/Special:FilePath/CanoeLake.JPG?width=640",
+  "license": "Public domain",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "author": "Markabq",
+  "authorUrl": "https://commons.wikimedia.org/wiki/User:Markabq",
+  "ok": true,
+  "slug": "canada-long-weekends-2027-by-province-vacation-planner",
+  "fetchedAt": "2026-11-06T23:38:45.812Z",
+  "original": "3888×2592",
+  "output": "2400×1350",
+  "cropped": true,
+  "credit": "Photo: Markabq / Wikimedia Commons, cropped, edited",
+  "overlay": true
+}
