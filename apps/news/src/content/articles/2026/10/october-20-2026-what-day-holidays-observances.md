@@ -62,7 +62,7 @@ internalLinks:
     label: "November 2026 printable calendar"
   - href: "/holidays/"
     label: "2026 US holiday list"
-related: [hunters-moon-october-2026-full-moon-time, halloween-2026-saturday-sunset-trick-or-treat-times, november-2026-important-dates-days-until]
+related: [hunters-moon-october-2026-full-moon-time, halloween-2026-saturday-sunset-trick-or-treat-times, national-days-this-week-november-16-22-2026]
 downloads:
   - group: "Late October printable"
     title: "What's On: Oct. 20-Nov. 1, 2026"
