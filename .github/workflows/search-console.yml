@@ -1,6 +1,6 @@
 name: Search Console
 
-# Daily read of Search Console for the desk (scripts/news-gsc.mjs): clicks, impressions, the pages
+# Daily read of Search Console and of Cloudflare traffic (docs/desk/traffic.md) for the desk (scripts/news-gsc.mjs): clicks, impressions, the pages
 # and queries worth improving, an indexing sample and the numbers of the phase gate in
 # docs/DESK.md. It commits docs/desk/search-console.{json,md} straight to main; the research and
 # update desks read them there. Docs only, so nothing is built or deployed (a push with the
@@ -32,12 +32,20 @@ jobs:
           GSC_SERVICE_ACCOUNT_JSON: ${{ secrets.GSC_SERVICE_ACCOUNT_JSON }}
           GSC_SITE: ${{ secrets.GSC_SITE }}
         run: node scripts/news-gsc.mjs
+      - name: Read Cloudflare traffic
+        # Edge page views, sources (Google, Bing...), countries, devices and PDF downloads
+        # (scripts/news-traffic.mjs); optional, a Cloudflare failure leaves the old report in place.
+        continue-on-error: true
+        env:
+          CF_ANALYTICS_TOKEN: ${{ secrets.CF_ANALYTICS_TOKEN }}
+          CF_ZONE_ID: ${{ secrets.CF_ZONE_ID }}
+        run: node scripts/news-traffic.mjs
       - name: Commit the data
         run: |
           # The identity must be set for the whole step: the rebase below re-commits when main has moved.
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add docs/desk/search-console.json docs/desk/search-console.md
+          git add docs/desk/search-console.json docs/desk/search-console.md docs/desk/traffic.json docs/desk/traffic.md 2>/dev/null || git add docs/desk/search-console.json docs/desk/search-console.md
           if git diff --cached --quiet; then echo "nothing new"; exit 0; fi
           git commit -q -m "desk: Search Console data of $(date -u +%F)"
           for i in 1 2 3; do
