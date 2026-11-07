@@ -1,7 +1,7 @@
 ---
 title: "International Education Week 2026: Nov. 16-20 Dates, Hashtags and Toolkit"
 seoTitle: "International Education Week 2026: Nov. 16-20"
-description: "International Education Week (IEW) 2026 runs Nov. 16-20, NAFSA says, with hashtags #IEW2026 and #ChampionIE, a social media toolkit and a campus planner."
+description: "International Education Week (IEW) 2026 runs Nov. 16-20, says the Association of International Educators (NAFSA), with two hashtags and a toolkit."
 type: news
 publishedAt: "2026-11-08T09:30:00-05:00"
 updatedAt: "2026-11-08T09:30:00-05:00"
@@ -45,12 +45,21 @@ hero:
   src: ../../../../assets/news/international-education-week-2026-november-16-20-events/international-education-week-2026-november-16-20-events.webp
   alt: "Shattuck Hall on the Portland State University campus in Portland, Oregon, a U.S. campus for International Education Week 2026"
   caption: "File photo of Shattuck Hall at Portland State University in Oregon. A generic U.S. campus picture, not an International Education Week event."
-  credit: "Photo: Gary Halvorson, Oregon State Archives / Wikimedia Commons, cropped"
+  credit: "Photo: Gary Halvorson, Oregon State Archives / Wikimedia Commons, cropped, edited"
   license:
     name: "CC BY 4.0"
     url: "https://creativecommons.org/licenses/by/4.0"
     source: "https://commons.wikimedia.org/wiki/File:Shattuck_Hall,_Portland_State_University,_Portland_-_DPLA_-_75e56adbf4ef1337e18219484685391d.jpg"
     author: "Gary Halvorson, Oregon State Archives"
+downloads:
+  - group: "International Education Week 2026 Campus Planner printables"
+    title: "International Education Week 2026 Campus Planner, Nov. 16-20"
+    description: "One-page International Education Week 2026 sheet: the Nov. 16-20 dates, the two hashtags and a checklist of campus ideas."
+    preview: ../../../../assets/news/international-education-week-2026/international-education-week-2026-campus-planner.png
+    alt: "Printable International Education Week 2026 campus planner with the Nov. 16-20 dates, hashtags and a checklist"
+    pdf: "/news/downloads/international-education-week-2026/international-education-week-2026-campus-planner.pdf"
+    png: "/news/downloads/international-education-week-2026/international-education-week-2026-campus-planner.png"
+    pages: 1
 summary:
   - "International Education Week (IEW) 2026 will be held Nov. 16-20, 2026, Monday to Friday, according to NAFSA: Association of International Educators."
   - "NAFSA names two hashtags, #IEW2026 and #ChampionIE, and says a toolkit with sample posts and graphics has been prepared."

@@ -36,7 +36,7 @@ assets:
           items:
             - "Sun.: find an event on hhweek.org/events"
             - "Mon.: sort pantry food to donate"
-            - "Tue.: read the HUD homelessness report"
+            - "Tue.: read the federal homelessness report"
             - "Wed.: sign up for a volunteer shift"
             - "Thu.: share one fact with a friend"
             - "Fri.: drop off food or supplies"
@@ -120,8 +120,8 @@ The organizers' three words are volunteer, donate and educate. The table below i
 |---|---|---|---|
 | Sun., Nov. 15 | Find an event on the organizers' finder | Check what food or supplies a local group asks for | Read the figures below |
 | Mon., Nov. 16 | Ask a local group about shifts | Sort pantry food you will not use | Share one fact with a friend |
-| Tue., Nov. 17 | Sign up for a shift | Set aside a money gift | Read the HUD report |
-| Wed., Nov. 18 | Invite a friend or coworker | Gather coats, socks or hygiene items | Read the USDA report |
+| Tue., Nov. 17 | Sign up for a shift | Set aside a money gift | Read the federal housing report |
+| Wed., Nov. 18 | Invite a friend or coworker | Gather coats, socks or hygiene items | Read the federal food report |
 | Thu., Nov. 19 | Confirm your shift time | Pack the items | Post what you learned |
 | Fri., Nov. 20 | Prepare what you need | Drop off food or supplies | Talk with family about a plan |
 | Sat., Nov. 21 | Volunteer or join an event | Give if you did not earlier | Note what you will do after the week |
@@ -135,8 +135,8 @@ Two federal reports give the latest national counts. Both come from government a
 | People homeless on a single night, January 2025 | 745,652 | U.S. Department of Housing and Urban Development (HUD), 2025 Annual Homeless Assessment Report (AHAR), May 29, 2026 |
 | People living unsheltered on a single night, January 2025 | 266,320 | HUD, May 29, 2026 |
 | Change in the homeless count since 2024 | 3% decrease | HUD, May 29, 2026 |
-| Households food insecure at some time in 2024 | 13.7 percent | U.S. Department of Agriculture Economic Research Service (USDA ERS), released Dec. 30, 2025 |
-| Households with very low food security in 2024 | 5.4 percent | USDA ERS, released Dec. 30, 2025 |
+| Households food insecure at some time in 2024 | 13.7 percent | U.S. Department of Agriculture (USDA) Economic Research Service (ERS), released Dec. 30, 2025 |
+| Households with very low food security in 2024 | 5.4 percent | ERS, released Dec. 30, 2025 |
 
 HUD's release said "745,652 individuals were homeless on a single night in January 2025" and that "266,320 individuals were living unsheltered." The USDA report says 13.7 percent of households were food insecure at least some time during 2024, and "5.4 percent of households experienced very low food security."
 

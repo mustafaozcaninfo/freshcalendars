@@ -103,7 +103,7 @@ internalLinks:
     label: "When is Thanksgiving"
   - href: "/when-is/veterans-day/"
     label: "When is Veterans Day"
-related: [federal-holidays-2027-observed-dates-list, federal-pay-raise-2027-civilian-freeze-military-raise-timeline, federal-benefits-open-season-2026-dates-fehb-premiums]
+related: [federal-holidays-2027-observed-dates-list, federal-use-or-lose-annual-leave-deadline-2026-november-28, federal-benefits-open-season-2026-dates-fehb-premiums]
 downloads:
   - group: "Federal Pay Period Calendar 2027 (NFC) printables"
     title: "Federal Pay Period Calendar 2027 (NFC)"

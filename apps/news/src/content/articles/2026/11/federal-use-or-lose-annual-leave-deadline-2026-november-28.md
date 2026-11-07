@@ -10,15 +10,24 @@ category: money-benefits
 keywords: ["federal use or lose leave deadline 2026", "use or lose annual leave 2026", "opm leave year 2026", "federal leave year 2026 end date"]
 hero:
   src: ../../../../assets/news/federal-use-or-lose-annual-leave-deadline-2026-november-28/federal-use-or-lose-annual-leave-deadline-2026-november-28.webp
-  alt: "The Theodore Roosevelt Federal Building in Washington, headquarters of the Office of Personnel Management, which sets the federal use-or-lose leave deadline for 2026"
-  caption: "File photo of the Theodore Roosevelt Federal Building in Washington, where the Office of Personnel Management has its headquarters. OPM lists Nov. 28, 2026 as the 2026 use-or-lose deadline."
-  credit: "Photo: ajay_suresh / Wikimedia Commons, cropped"
+  alt: "Sign for the Theodore Roosevelt Building at 1900 E Street NW in Washington, headquarters of the Office of Personnel Management, which sets the 2026 use-or-lose leave deadline"
+  caption: "File photo of the sign outside the Theodore Roosevelt Building in Washington, where the Office of Personnel Management has its headquarters. OPM lists Nov. 28, 2026 as the 2026 use-or-lose deadline."
+  credit: "Photo: Tony Webster / Wikimedia Commons, cropped, edited"
   license:
-    name: "CC BY 4.0"
-    url: "https://creativecommons.org/licenses/by/4.0"
-    source: "https://commons.wikimedia.org/wiki/File:U.S._Office_of_Personnel_Management_-_Theodore_Roosevelt_Federal_Building_(55267117485).jpg"
-    author: "ajay_suresh"
-    authorUrl: "https://www.flickr.com/people/83136374@N05"
+    name: "CC BY 2.0"
+    url: "https://creativecommons.org/licenses/by/2.0"
+    source: "https://commons.wikimedia.org/wiki/File:Theodore_Roosevelt_Building_Signage_-_1900_E_Street_NW_-_U.S._Office_of_Personnel_Management_(OPM)_(53829423242).jpg"
+    author: "Tony Webster"
+    authorUrl: "https://www.flickr.com/people/87296837@N00"
+downloads:
+  - group: "Federal Use-or-Lose Leave Dates 2026 printables"
+    title: "Federal Use-or-Lose Leave Dates 2026"
+    description: "A one-page sheet with the 2026 use-or-lose annual leave deadline, the 2026 leave year dates, and boxes to tick off when leave is scheduled."
+    preview: ../../../../assets/news/federal-leave-2026/federal-use-or-lose-leave-dates-2026.png
+    alt: "Printable sheet of federal leave year dates with the Nov. 28, 2026 deadline to schedule use-or-lose annual leave"
+    pdf: "/news/downloads/federal-leave-2026/federal-use-or-lose-leave-dates-2026.pdf"
+    png: "/news/downloads/federal-leave-2026/federal-use-or-lose-leave-dates-2026.png"
+    pages: 1
 assets:
   overlay: true
   kicker: "Federal leave year 2026 · OPM"
@@ -28,15 +37,19 @@ assets:
     kit: deadline-matrix
     slug: federal-use-or-lose-leave-dates-2026
     group: federal-leave-2026
-    title: "Federal Use-or-Lose Leave Dates 2026 and 2027"
+    title: "Federal Use-or-Lose Leave Dates 2026"
     subtitle: "OPM leave year dates and the deadline to schedule annual leave in writing"
     note: "Source: Office of Personnel Management (OPM), Leave Year Beginning and Ending Dates. Some agency payroll systems use a different pay period schedule; confirm the dates with your agency."
-    description: "A one-page sheet with the 2026 use-or-lose annual leave deadline, the leave year dates for 2026 and 2027, and boxes to tick off when leave is scheduled."
+    description: "A one-page sheet with the 2026 use-or-lose annual leave deadline, the 2026 leave year dates, and boxes to tick off when leave is scheduled."
     alt: "Printable sheet of federal leave year dates with the Nov. 28, 2026 deadline to schedule use-or-lose annual leave"
     data:
-      target: { date: "2026-11-28", label: "Schedule use-or-lose annual leave in writing" }
+      target: { date: "2027-01-09", label: "2026 leave year ends" }
       columns: ["What it marks"]
       rows:
+        - date: "2026-01-11"
+          cells: { "What it marks": "2026 leave year begins" }
+          src: 1
+          quote: "2026 | January 11, 2026 | January 09, 2027 | November 28, 2026"
         - date: "2026-11-28"
           cells: { "What it marks": "Deadline to schedule use-or-lose annual leave, 2026 leave year" }
           src: 1
@@ -45,14 +58,6 @@ assets:
           cells: { "What it marks": "2026 leave year ends" }
           src: 1
           quote: "2026 | January 11, 2026 | January 09, 2027 | November 28, 2026"
-        - date: "2027-01-10"
-          cells: { "What it marks": "2027 leave year begins" }
-          src: 1
-          quote: "2027 | January 10, 2027 | January 08, 2028 | November 27, 2027"
-        - date: "2027-11-27"
-          cells: { "What it marks": "Deadline to schedule use-or-lose annual leave, 2027 leave year" }
-          src: 1
-          quote: "2027 | January 10, 2027 | January 08, 2028 | November 27, 2027"
 summary:
   - "The Office of Personnel Management (OPM) lists Saturday, Nov. 28, 2026 as the deadline to schedule use-or-lose annual leave in the 2026 leave year, which ends Saturday, Jan. 9, 2027."
   - "OPM's annual leave fact sheet sets the carryover ceiling at 30 days for employees stationed in the United States, 45 days overseas and 90 days for Senior Executive Service (SES), Senior-Level and Scientific and Professional employees."
