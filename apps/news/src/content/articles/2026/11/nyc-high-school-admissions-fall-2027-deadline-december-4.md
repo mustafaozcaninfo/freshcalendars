@@ -154,7 +154,7 @@ NYC says that "beginning in fall 2026, the SHSAT will move to a computer-adaptiv
 
 The fall 2026 score release and the specialized high school offer date were not listed when we checked on Nov. 7. Last year, the NYC Public Schools page said "As of March 5, results are now available" for the Fall 2025 test. Treat that as last year's timing, not this year's date.
 
-## What has not been announced?
+## Which NYC admissions dates are not posted yet?
 
 As of Nov. 7, 2026, we found no LaGuardia audition dates, SHSAT make-up dates or waitlist and appeal dates on the pages above. The closing time on Dec. 4 is also missing. Check MySchools and your child's school for updates.
 
