@@ -16,7 +16,7 @@ export const GA_ENABLED = process.env.NEWS_GA !== "0";
  * signal is sent: in the EEA, UK and Switzerland Clarity then runs without cookies until a
  * consent banner exists (see docs/ANALYTICS.md).
  */
-export const CLARITY_ID = "";
+export const CLARITY_ID = "z9rxjv1l0s";
 export const GA_ORIGINS = ["https://www.googletagmanager.com", "https://analytics.google.com", ...(CLARITY_ID ? ["https://www.clarity.ms"] : [])];
 
 const CLARITY_LOAD = CLARITY_ID
