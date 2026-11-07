@@ -69,7 +69,7 @@ internalLinks:
     label: "February 2027 printable calendar"
   - href: "/march-calendars.html"
     label: "March 2027 printable calendar"
-related: [grammy-nominations-2027-date-69th-grammys-february-7, critics-choice-awards-2027-date-how-to-watch, sundance-film-festival-2027-boulder-dates]
+related: [grammy-nominations-2027-date-69th-grammys-february-7, critics-choice-awards-2027-date-how-to-watch, word-of-the-year-2026-dictionary-com-collins-oxford-cambridge-merriam-webster]
 assets:
   overlay: true
   kicker: "Awards season 2027"
