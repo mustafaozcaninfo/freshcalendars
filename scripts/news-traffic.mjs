@@ -66,11 +66,49 @@ export function sourceOf(host) {
   return "Other sites";
 }
 
+const AE_WHERE = (days) => `timestamp > NOW() - INTERVAL '${days}' DAY`;
+const AE_RATE = "SUM(_sample_interval)";
+const AE_AVG = (col) => `SUM(_sample_interval * ${col}) / SUM(_sample_interval)`;
+/** SQL for the beacon dataset (fc_pageviews, cloudflare/worker.js pageView). */
+export const BEACON_SQL = {
+  daily: (n) => `SELECT toStartOfDay(timestamp) AS k, ${AE_RATE} AS n, ${AE_AVG("double1")} AS sec FROM fc_pageviews WHERE ${AE_WHERE(n)} GROUP BY k ORDER BY k`,
+  sources: (n) => `SELECT blob2 AS k, ${AE_RATE} AS n FROM fc_pageviews WHERE ${AE_WHERE(n)} GROUP BY k ORDER BY n DESC LIMIT 300`,
+  pages: (n) => `SELECT blob1 AS k, ${AE_RATE} AS n, ${AE_AVG("double1")} AS sec, ${AE_AVG("double2")} AS scroll FROM fc_pageviews WHERE ${AE_WHERE(n)} GROUP BY k ORDER BY n DESC LIMIT 40`,
+  countries: (n) => `SELECT blob3 AS k, ${AE_RATE} AS n FROM fc_pageviews WHERE ${AE_WHERE(n)} GROUP BY k ORDER BY n DESC LIMIT 15`,
+  devices: (n) => `SELECT blob4 AS k, ${AE_RATE} AS n FROM fc_pageviews WHERE ${AE_WHERE(n)} GROUP BY k ORDER BY n DESC`,
+};
+
+/** The beacon part of the report: real readers whose browser ran the page. */
+export function beaconReport(b, days) {
+  const fmt = (n) => Math.round(n).toLocaleString("en-US");
+  const out = ["## Real readers (first-party beacon)", "",
+    `Page views sent by the reader's own browser to /api/pv when they leave the page (cloudflare/worker.js). Ad blockers do not stop it and bots that run no JavaScript never send it, so this is the number to report. Last ${days} days.`, ""];
+  if (b.daily) {
+    out.push("| Day | Views | Avg. seconds on page |", "|---|---:|---:|", ...b.daily.map((r) => `| ${String(r.k).slice(0, 10)} | ${fmt(r.n)} | ${fmt(r.sec)} |`));
+    out.push(`| **Total** | **${fmt(b.daily.reduce((s, r) => s + r.n, 0))}** | |`, "");
+  }
+  if (b.sources) {
+    const by = new Map();
+    for (const r of b.sources) by.set(sourceOf(r.k), (by.get(sourceOf(r.k)) ?? 0) + r.n);
+    const all = [...by.values()].reduce((a, c) => a + c, 0) || 1;
+    out.push("### Where readers came from", "", "| Source | Views | Share |", "|---|---:|---:|",
+      ...[...by].sort((a, c) => c[1] - a[1]).map(([k, n]) => `| ${k} | ${fmt(n)} | ${((100 * n) / all).toFixed(1)}% |`), "");
+    const other = b.sources.filter((r) => sourceOf(r.k) === "Other sites").slice(0, 10);
+    if (other.length) out.push("Other sites, top 10: " + other.map((r) => `${r.k} (${fmt(r.n)})`).join(", "), "");
+  }
+  if (b.pages) out.push("### Top pages", "", "| Page | Views | Avg. seconds | Avg. deepest scroll |", "|---|---:|---:|---:|",
+    ...b.pages.map((r) => `| ${r.k} | ${fmt(r.n)} | ${fmt(r.sec)} | ${fmt(r.scroll)}% |`), "");
+  if (b.devices) out.push("Devices: " + b.devices.map((r) => `${r.k || "(unknown)"} ${fmt(r.n)}`).join(" · "), "");
+  if (b.countries) out.push("Countries: " + b.countries.map((r) => `${r.k || "(unknown)"} ${fmt(r.n)}`).join(" · "), "");
+  return out;
+}
+
 export function report({ days, now, sections }) {
   const fmt = (n) => n.toLocaleString("en-US");
   const out = [`# Traffic (generated, do not edit)`, "",
     `Read ${iso(now).slice(0, 16)} UTC from Cloudflare's edge analytics for ${HOST}, last ${days} days (UTC days). Every page the edge served to a real browser counts, so these numbers are higher than Google Analytics, which misses ad-blocked visits and readers who leave before the page finishes loading. Self-declared bots are left out; unlabeled bots are not, and they are many: real search traffic is mostly mobile, so a desktop share far above half means bots and crawlers inflate these totals. Treat them as an upper bound and use the trend and the story ranking. Source: \`scripts/news-traffic.mjs\`, daily.`, ""];
   const s = sections;
+  if (s.beacon) out.push(...beaconReport(s.beacon, days), "## Edge requests (upper bound)", "");
   if (s.newsDaily && s.calendarDaily && s.pdfDaily) {
     out.push("## Page views per day", "", "| Day | /news/ stories | Calendar pages | Printable PDFs |", "|---|---:|---:|---:|");
     s.newsDaily.forEach((r, i) => out.push(`| ${r.day} | ${fmt(r.count)} | ${fmt(s.calendarDaily[i]?.count ?? 0)} | ${fmt(s.pdfDaily[i]?.count ?? 0)} |`));
@@ -129,6 +167,24 @@ if (import.meta.url === `file://${process.argv[1]}`) {
       console.log(`::warning::traffic: ${name}: ${e.message}`);
     }
   }
+  // The beacon dataset: needs an Account Analytics Read token (CF_AE_TOKEN) and the account id.
+  const aeToken = process.env.CF_AE_TOKEN, account = process.env.CF_ACCOUNT_ID;
+  if (aeToken && account) {
+    sections.beacon = {};
+    for (const [name, sql] of Object.entries(BEACON_SQL)) {
+      try {
+        const res = await fetch(`https://api.cloudflare.com/client/v4/accounts/${account}/analytics_engine/sql`, {
+          method: "POST", headers: { authorization: `Bearer ${aeToken}` }, body: `${sql(days)} FORMAT JSON`, signal: AbortSignal.timeout(30_000),
+        });
+        const text = await res.text();
+        if (!res.ok) throw new Error(`${res.status}: ${text.slice(0, 200)}`);
+        sections.beacon[name] = (JSON.parse(text).data ?? []).map((r) => ({ ...r, n: Number(r.n), sec: Number(r.sec ?? 0), scroll: Number(r.scroll ?? 0) }));
+      } catch (e) {
+        sections.failed.push(`beacon ${name}: ${e.message}`);
+        console.log(`::warning::traffic: beacon ${name}: ${e.message}`);
+      }
+    }
+  } else sections.failed.push("beacon: CF_AE_TOKEN or CF_ACCOUNT_ID not set (Account Analytics Read token, see docs/ANALYTICS.md)");
   const md = report({ days, now, sections });
   if (args.includes("--stdout")) console.log(md);
   else {

@@ -1927,7 +1927,7 @@ ${faqSection(meta)}`;
   <div class="eyebrow">Fresh Calendars · Legal</div>
   <h1>${esc(meta.title.split("|")[0]!.trim())}</h1>
   <p class="lead">${esc(lead)}</p>
-  <p class="lead" style="font-size:.95rem">Last updated: October 25, 2026</p>
+  <p class="lead" style="font-size:.95rem">Last updated: November 7, 2026</p>
 </div></section>
 ${adBand(ADS.inArticle, `FreshCalendars_${label}_Top`)}`;
   const legalMain = `
@@ -1968,6 +1968,14 @@ function privacyPolicyBody(): string {
   <li>Deliver and measure advertising (see Advertising below)</li>
 </ul>
 <p>You can control cookies in your browser settings. Blocking some cookies may affect ads or optional features; core printable downloads remain available.</p>
+
+<h3>2.4 Analytics</h3>
+<p>To see which pages readers use and where pages are hard to use, we use:</p>
+<ul>
+  <li><strong>Google Analytics 4</strong> (Google), which uses cookies to count visits and measure engagement. See <a href="https://policies.google.com/technologies/partner-sites" rel="noopener noreferrer" target="_blank">how Google uses information from sites that use its services</a>.</li>
+  <li><strong>Microsoft Clarity</strong> (Microsoft), which records how visitors move, click and scroll on our news pages (heatmaps and session replays, with text you type masked) and may use cookies. Microsoft processes this data under the <a href="https://privacy.microsoft.com/privacystatement" rel="noopener noreferrer" target="_blank">Microsoft Privacy Statement</a>.</li>
+  <li>Our own <strong>page-view count</strong>: when you leave a news page, your browser sends us the page address, the site you came from, the time spent and how far you scrolled. It sets no cookie and stores no IP address or identifier; we keep only these counts with your country, for three months.</li>
+</ul>
 
 <h2>3. Advertising (Google AdSense)</h2>
 <p>We use <strong>Google AdSense</strong> to show ads so we can keep printable calendars free. Google and its partners may use cookies or device identifiers to serve ads based on your visit to this Site and other sites.</p>

@@ -73,3 +73,26 @@ test("range requests, HEAD and unhashed files go to R2 as before", async () => {
   assert.equal(o.status, 200);
   assert.equal(o.headers.get("X-Edge-Cache"), null);
 });
+
+test("page-view beacon writes one data point for a same-origin view and ignores the rest", async () => {
+  const points = [];
+  const pvEnv = { ...env, PV: { writeDataPoint: (d) => points.push(d) } };
+  const ua = "Mozilla/5.0 (iPhone; CPU iPhone OS 18_0 like Mac OS X) Mobile/15E148 Safari/604.1";
+  const beacon = (body, headers = {}) => worker.fetch(new Request("https://freshcalendars.com/api/pv", {
+    method: "POST", body, headers: { "Sec-Fetch-Site": "same-origin", "User-Agent": ua, ...headers },
+  }), pvEnv, ctx);
+  const ok = await beacon(JSON.stringify({ p: "/news/story/", r: "www.bing.com", t: 42.4, s: 130 }));
+  assert.equal(ok.status, 204);
+  assert.equal(points.length, 1);
+  assert.deepEqual(points[0].blobs, ["/news/story/", "www.bing.com", "", "mobile"]);
+  assert.deepEqual(points[0].doubles, [42, 100]);
+  assert.equal((await beacon("{}", { "Sec-Fetch-Site": "cross-site" })).status, 204);
+  await beacon(JSON.stringify({ p: "/news/x/" }), { "User-Agent": "Googlebot/2.1" });
+  await beacon(JSON.stringify({ p: "https://evil.example/" }));
+  await beacon("not json");
+  await beacon("x".repeat(2000));
+  assert.equal((await worker.fetch(new Request("https://freshcalendars.com/api/pv"), pvEnv, ctx)).status, 204);
+  assert.equal(points.length, 1);
+  // No binding (local runs, or before the first deploy): still 204, nothing written.
+  assert.equal((await worker.fetch(new Request("https://freshcalendars.com/api/pv", { method: "POST", body: "{}" }), env, ctx)).status, 204);
+});
