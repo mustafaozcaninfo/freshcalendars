@@ -137,7 +137,7 @@ At 5:45 p.m. in Las Vegas on all ten nights. For East Coast viewers that is 8:45
 
 ## Are the NFR 2026 dates Dec. 3-12 or Dec. 4-13?
 
-Dec. 3-12 is 2026. The NFR Experience's news post of Nov. 4, 2026, says "The annual showcase is scheduled for Dec. 3-12 at the Thomas & Mack Center," and Las Vegas Events also shows Dec. 3-12, 2026. Dec. 4-13 was the 2025 schedule: the NFR Experience said on Oct. 22, 2025, that the showcase was "scheduled for Dec. 4-13." Pages that have not been updated still show those dates.
+Dec. 3-12 is 2026. The NFR Experience's news post of Nov. 4, 2026, says the rodeo "is scheduled for Dec. 3-12 at the Thomas & Mack Center," and Las Vegas Events also shows Dec. 3-12, 2026. Dec. 4-13 was the 2025 schedule: the NFR Experience said on Oct. 22, 2025, that the rodeo was "scheduled for Dec. 4-13." Pages that have not been updated still show those dates.
 
 ## How to watch the NFR on TV and streaming in 2026
 
