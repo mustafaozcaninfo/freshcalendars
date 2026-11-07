@@ -4,7 +4,7 @@ seoTitle: "Runoff Election 2026 Dates: Georgia and Louisiana"
 description: "Georgia's runoff, if needed, is Tuesday, Dec. 1, 2026; Louisiana's second round is Saturday, Dec. 12. Deadlines for each state, with a printable."
 type: news
 publishedAt: "2026-10-30T19:45:00-04:00"
-updatedAt: "2026-11-06T19:25:00-05:00"
+updatedAt: "2026-11-07T01:23:00-05:00"
 authors: [christina-gerland]
 category: elections
 keywords: ["runoff election 2026 dates", "georgia runoff 2026 date", "when is the georgia runoff", "louisiana december 12 election"]
@@ -159,7 +159,7 @@ draft: false
 
 | Milestone | Georgia | Louisiana | Mississippi |
 |---|---|---|---|
-| Election Nov. 3 | General election | U.S. Senate (General), U.S. Representative (Open Primary) | General election |
+| Election Nov. 3 | General election | U.S. Senate General, open U.S. Representative primary | General election |
 | Register to vote | Mon., Nov. 2 | Thu., Nov. 12 (in person, by mail or at an Office of Motor Vehicles (OMV) office); Sat., Nov. 21 (online, GeauxVote) | Mon., Nov. 2 |
 | Request a mail or absentee ballot | Fri., Nov. 20 | Tue., Dec. 8, 4:30 p.m. | Not covered here |
 | Early or in-person absentee voting | Mon., Nov. 23-Wed., Nov. 25 | Sat., Nov. 28-Sat., Dec. 5 (no Sunday, Nov. 29), 8:30 a.m. to 6 p.m. | In-person absentee ends Sat., Nov. 28 at noon |
@@ -186,7 +186,7 @@ The Brennan Center for Justice, in an analysis updated Oct. 13, 2026, cites Offi
 
 ## What is Louisiana's Dec. 12 election?
 
-The Louisiana Secretary of State's Election Dates page lists Nov. 3 as "U.S. Senate (General), U.S. Representative (Open Primary)." It names Saturday, Dec. 12 the "Open U.S. Representative General/Open General/Special Primary (State Senator, 14th Senatorial District, Parish of East Baton Rouge) Election." Dec. 12 is the second round in Louisiana's open system. The calendar adds a note: "Per Act 7 of the 2026 Regular Session, U.S. Representative is no longer considered a closed party office."
+The Louisiana Secretary of State's Election Dates page lists Nov. 3 as "U.S. Senate General/Open U.S. Representative Primary/Open Primary Election." It names Saturday, Dec. 12 the "Open U.S. Representative General/Open General/Special Primary (State Senator, 14th Senatorial District, Parish of East Baton Rouge) Election." Dec. 12 is the second round in Louisiana's open system. The calendar adds a note: "Per Act 7 of the 2026 Regular Session, U.S. Representative is no longer considered a closed party office."
 
 | Louisiana deadline for Dec. 12 | Date |
 |---|---|
