@@ -6,35 +6,55 @@ Read 2026-11-07T17:00 UTC from Cloudflare's edge analytics for freshcalendars.co
 
 Page views sent by the reader's own browser to /api/pv when they leave the page (cloudflare/worker.js). Ad blockers do not stop it and bots that run no JavaScript never send it, so this is the number to report. Last 7 days.
 
-| Day | Views | Avg. seconds on page |
-|---|---:|---:|
-| 2026-11-07 | 8 | 12 |
-| **Total** | **8** | |
+| Day | Views | Avg. seconds on page | Avg. deepest scroll |
+|---|---:|---:|---:|
+| 2026-11-07 | 44 | 26 | 20% |
+| **Total** | **44** | | |
 
 ### Where readers came from
 
 | Source | Views | Share |
 |---|---:|---:|
-| Direct or app (no referrer) | 2 | 25.0% |
-| Bing | 2 | 25.0% |
-| Inside the site | 2 | 25.0% |
-| Google | 1 | 12.5% |
-| Yahoo | 1 | 12.5% |
+| Google | 12 | 27.3% |
+| DuckDuckGo | 8 | 18.2% |
+| Inside the site | 8 | 18.2% |
+| Bing | 6 | 13.6% |
+| Yahoo | 6 | 13.6% |
+| Direct or app (no referrer) | 3 | 6.8% |
+| Other sites | 1 | 2.3% |
+
+Other sites, top 10: www.ecosia.org (1)
 
 ### Top pages
 
 | Page | Views | Avg. seconds | Avg. deepest scroll |
 |---|---:|---:|---:|
-| /news/ | 2 | 6 | 12% |
+| /news/army-navy-game-2026-date-kickoff-time-metlife-stadium-tv/ | 11 | 22 | 10% |
+| /news/ | 4 | 11 | 9% |
+| /news/veterans-day-free-meals-discounts/ | 4 | 36 | 16% |
+| /news/senior-deduction-2026-6000-age-65-phase-out/ | 3 | 3 | 1% |
+| /news/ncaa-volleyball-tournament-2026-bracket-schedule-final-four-san-antonio/ | 2 | 115 | 21% |
 | /news/world-chess-championship-2026-gukesh-sindarov-geneva-dates-time/ | 2 | 7 | 40% |
+| /news/nyt-spelling-bee-hints-answers-november-7-2026/ | 2 | 52 | 46% |
+| /news/moon-phase-tonight-december-2026-moon-calendar/ | 2 | 7 | 45% |
+| /news/nyt-pips-hints-answers-november-8-2026/ | 1 | 3 | 0% |
 | /news/thanksgiving-football-schedule-2026-nfl-college-games/ | 1 | 21 | 47% |
-| /news/army-navy-game-2026-date-kickoff-time-metlife-stadium-tv/ | 1 | 38 | 9% |
-| /news/senior-deduction-2026-6000-age-65-phase-out/ | 1 | 4 | 3% |
-| /news/veterans-day-free-meals-discounts/ | 1 | 9 | 13% |
+| /news/ramadan-2027-calendar-dates-timetable/ | 1 | 49 | 23% |
+| /news/savers-match-2027-1000-federal-match-income-limits/ | 1 | 3 | 9% |
+| /news/category/sky-events/ | 1 | 15 | 0% |
+| /news/london-fireworks-2026-battersea-alexandra-palace-blackheath-wimbledon-times-tickets/ | 1 | 60 | 27% |
+| /news/black-friday-canada-2026-november-27-sale-dates-canadian-tire-november-5/ | 1 | 27 | 16% |
+| /news/survivor-series-wargames-2026-date-start-time-houston-espn/ | 1 | 8 | 11% |
+| /news/pret-christmas-menu-2026/ | 1 | 49 | 53% |
+| /news/boston-public-schools-calendar-2026-27-breaks/ | 1 | 25 | 12% |
+| /news/geminid-meteor-shower-2026-peak-december-13-14-moon-viewing-times/ | 1 | 2 | 0% |
+| /news/national-days-this-week-november-16-22-2026/ | 1 | 25 | 16% |
+| /news/nyt-midi-crossword-answers-november-7-2026/ | 1 | 6 | 55% |
+| /news/nyt-connections-hints-answers-november-7-2026-1245/ | 1 | 41 | 100% |
 
-Devices: desktop 5 · mobile 3
+Devices: mobile 23 (32 s, 20% scroll) · desktop 21 (18 s, 21% scroll)
 
-Countries: TR 5 · US 3
+Countries: US 21 · TR 17 · CA 2 · GB 2 · IN 2
 
 ## Edge requests (upper bound)
 

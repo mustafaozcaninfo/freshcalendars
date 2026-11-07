@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-07T17:08:08.785Z",
+ "generatedAt": "2026-11-07T17:20:37.003Z",
  "pages": [
   {
    "metricName": "DeadClickCount",
@@ -157,7 +157,7 @@
      "Url": "https://freshcalendars.com/news/northside-isd-calendar-2026-27-breaks/"
     },
     {
-     "sessionsCount": 2,
+     "sessionsCount": 3,
      "sessionsWithMetricPercentage": 0,
      "sessionsWithoutMetricPercentage": 100,
      "pagesViews": 0,
@@ -310,11 +310,11 @@
     },
     {
      "sessionsCount": 1,
-     "sessionsWithMetricPercentage": 0,
-     "sessionsWithoutMetricPercentage": 100,
-     "pagesViews": 0,
-     "subTotal": 0,
-     "Url": "https://freshcalendars.com/news/pdc-world-darts-championship-2026-27-schedule-dates-alexandra-palace/#google_vignette"
+     "sessionsWithMetricPercentage": 100,
+     "sessionsWithoutMetricPercentage": 0,
+     "pagesViews": 1,
+     "subTotal": 1,
+     "Url": "https://freshcalendars.com/news/miami-dade-school-calendar-2026-27-breaks/"
     },
     {
      "sessionsCount": 9,
@@ -326,11 +326,11 @@
     },
     {
      "sessionsCount": 1,
-     "sessionsWithMetricPercentage": 100,
-     "sessionsWithoutMetricPercentage": 0,
-     "pagesViews": 1,
-     "subTotal": 1,
-     "Url": "https://freshcalendars.com/news/miami-dade-school-calendar-2026-27-breaks/"
+     "sessionsWithMetricPercentage": 0,
+     "sessionsWithoutMetricPercentage": 100,
+     "pagesViews": 0,
+     "subTotal": 0,
+     "Url": "https://freshcalendars.com/news/pdc-world-darts-championship-2026-27-schedule-dates-alexandra-palace/#google_vignette"
     },
     {
      "sessionsCount": 1,
@@ -658,7 +658,7 @@
      "sessionsWithoutMetricPercentage": 100,
      "pagesViews": 0,
      "subTotal": 0,
-     "Url": "https://freshcalendars.com/news/linkedin-games-answers-today-november-6-2026-queens-tango-zip/"
+     "Url": "https://freshcalendars.com/news/iphone-duo-october-24-availability/"
     },
     {
      "sessionsCount": 1,
@@ -666,7 +666,7 @@
      "sessionsWithoutMetricPercentage": 100,
      "pagesViews": 0,
      "subTotal": 0,
-     "Url": "https://freshcalendars.com/news/whats-open-thanksgiving-2026-grocery-stores-walmart-costco/"
+     "Url": "https://freshcalendars.com/news/linkedin-games-answers-today-november-6-2026-queens-tango-zip/"
     },
     {
      "sessionsCount": 1,
@@ -685,12 +685,28 @@
      "Url": "https://freshcalendars.com/news/moon-phases-2027-full-moon-calendar/"
     },
     {
+     "sessionsCount": 1,
+     "sessionsWithMetricPercentage": 0,
+     "sessionsWithoutMetricPercentage": 100,
+     "pagesViews": 0,
+     "subTotal": 0,
+     "Url": "https://freshcalendars.com/news/whats-open-thanksgiving-2026-grocery-stores-walmart-costco/"
+    },
+    {
      "sessionsCount": 2,
      "sessionsWithMetricPercentage": 0,
      "sessionsWithoutMetricPercentage": 100,
      "pagesViews": 0,
      "subTotal": 0,
      "Url": "https://freshcalendars.com/news/ottawa-santa-claus-parade-2026-november-21-route-time/"
+    },
+    {
+     "sessionsCount": 1,
+     "sessionsWithMetricPercentage": 0,
+     "sessionsWithoutMetricPercentage": 100,
+     "pagesViews": 0,
+     "subTotal": 0,
+     "Url": "https://freshcalendars.com/news/seasons-2027-equinox-solstice-dates-times/"
     },
     {
      "sessionsCount": 1,
@@ -706,7 +722,7 @@
      "sessionsWithoutMetricPercentage": 100,
      "pagesViews": 0,
      "subTotal": 0,
-     "Url": "https://freshcalendars.com/news/seasons-2027-equinox-solstice-dates-times/"
+     "Url": "https://freshcalendars.com/news/stellar-blade-switch-2-release-time-november-5/"
     },
     {
      "sessionsCount": 1,
@@ -773,7 +789,7 @@
      "Url": "https://freshcalendars.com/news/irs-employer-tax-deadlines-november-2026-form-941-payroll-tips/"
     },
     {
-     "sessionsCount": 11,
+     "sessionsCount": 13,
      "sessionsWithMetricPercentage": 0,
      "sessionsWithoutMetricPercentage": 100,
      "pagesViews": 0,
@@ -805,20 +821,20 @@
      "Url": "https://freshcalendars.com/news/week-numbers-2027-calendar-printable/"
     },
     {
-     "sessionsCount": 3,
-     "sessionsWithMetricPercentage": 0,
-     "sessionsWithoutMetricPercentage": 100,
-     "pagesViews": 0,
-     "subTotal": 0,
-     "Url": "https://freshcalendars.com/news/weekends-until-christmas-2026-saturday-planner-shipping-deadlines/"
-    },
-    {
      "sessionsCount": 1,
      "sessionsWithMetricPercentage": 0,
      "sessionsWithoutMetricPercentage": 100,
      "pagesViews": 0,
      "subTotal": 0,
      "Url": "https://freshcalendars.com/news/operation-christmas-child-2026-national-collection-week-drop-off/#google_vignette"
+    },
+    {
+     "sessionsCount": 3,
+     "sessionsWithMetricPercentage": 0,
+     "sessionsWithoutMetricPercentage": 100,
+     "pagesViews": 0,
+     "subTotal": 0,
+     "Url": "https://freshcalendars.com/news/weekends-until-christmas-2026-saturday-planner-shipping-deadlines/"
     },
     {
      "sessionsCount": 1,
@@ -837,11 +853,11 @@
      "Url": "https://freshcalendars.com/news/survivor-series-wargames-2026-date-start-time-houston-espn/"
     },
     {
-     "sessionsCount": 51,
-     "sessionsWithMetricPercentage": 25.49,
-     "sessionsWithoutMetricPercentage": 74.51,
-     "pagesViews": 13,
-     "subTotal": 19,
+     "sessionsCount": 52,
+     "sessionsWithMetricPercentage": 26.92,
+     "sessionsWithoutMetricPercentage": 73.08,
+     "pagesViews": 14,
+     "subTotal": 21,
      "Url": "https://freshcalendars.com/news/veterans-day-free-meals-discounts/"
     },
     {
@@ -965,6 +981,14 @@
      "Url": "https://freshcalendars.com/news/nyt-spelling-bee-hints-answers-november-7-2026/"
     },
     {
+     "sessionsCount": 1,
+     "sessionsWithMetricPercentage": 0,
+     "sessionsWithoutMetricPercentage": 100,
+     "pagesViews": 0,
+     "subTotal": 0,
+     "Url": "https://freshcalendars.com/news/kohls-black-friday-2026-dates-early-access-november-6-store-hours/"
+    },
+    {
      "sessionsCount": 2,
      "sessionsWithMetricPercentage": 0,
      "sessionsWithoutMetricPercentage": 100,
@@ -994,7 +1018,7 @@
      "sessionsWithoutMetricPercentage": 100,
      "pagesViews": 0,
      "subTotal": 0,
-     "Url": "https://freshcalendars.com/news/government-funding-deadline-december-11-2026-shutdown/"
+     "Url": "https://freshcalendars.com/news/bonus-tax-withholding-2026-22-percent-flat-rate/"
     },
     {
      "sessionsCount": 1,
@@ -1002,7 +1026,7 @@
      "sessionsWithoutMetricPercentage": 100,
      "pagesViews": 0,
      "subTotal": 0,
-     "Url": "https://freshcalendars.com/news/bonus-tax-withholding-2026-22-percent-flat-rate/"
+     "Url": "https://freshcalendars.com/news/government-funding-deadline-december-11-2026-shutdown/"
     },
     {
      "sessionsCount": 2,
@@ -1018,7 +1042,7 @@
      "sessionsWithoutMetricPercentage": 100,
      "pagesViews": 0,
      "subTotal": 0,
-     "Url": "https://freshcalendars.com/news/november-2026-important-dates-days-until/"
+     "Url": "https://freshcalendars.com/news/lego-advent-calendars-2026-prices-whats-inside/"
     },
     {
      "sessionsCount": 1,
@@ -1026,7 +1050,7 @@
      "sessionsWithoutMetricPercentage": 100,
      "pagesViews": 0,
      "subTotal": 0,
-     "Url": "https://freshcalendars.com/news/lego-advent-calendars-2026-prices-whats-inside/"
+     "Url": "https://freshcalendars.com/news/november-2026-important-dates-days-until/"
     },
     {
      "sessionsCount": 1,
@@ -1053,20 +1077,20 @@
      "Url": "https://freshcalendars.com/news/caribou-coffee-holiday-menu-2026-cookie-butter-white-mocha/"
     },
     {
-     "sessionsCount": 2,
-     "sessionsWithMetricPercentage": 0,
-     "sessionsWithoutMetricPercentage": 100,
-     "pagesViews": 0,
-     "subTotal": 0,
-     "Url": "https://freshcalendars.com/news/nyt-letter-boxed-answer-hints-november-7-2026/"
-    },
-    {
      "sessionsCount": 1,
      "sessionsWithMetricPercentage": 0,
      "sessionsWithoutMetricPercentage": 100,
      "pagesViews": 0,
      "subTotal": 0,
      "Url": "https://freshcalendars.com/news/metro-nashville-public-schools-calendar-2026-27-breaks/"
+    },
+    {
+     "sessionsCount": 2,
+     "sessionsWithMetricPercentage": 0,
+     "sessionsWithoutMetricPercentage": 100,
+     "pagesViews": 0,
+     "subTotal": 0,
+     "Url": "https://freshcalendars.com/news/nyt-letter-boxed-answer-hints-november-7-2026/"
     },
     {
      "sessionsCount": 5,
@@ -1093,20 +1117,20 @@
      "Url": "https://freshcalendars.com/news/elf-on-the-shelf-2026-arrival-ideas-calendar-printable/"
     },
     {
-     "sessionsCount": 1,
-     "sessionsWithMetricPercentage": 0,
-     "sessionsWithoutMetricPercentage": 100,
-     "pagesViews": 0,
-     "subTotal": 0,
-     "Url": "https://freshcalendars.com/news/starbucks-holiday-menu-2026-red-cup-day-date/"
-    },
-    {
      "sessionsCount": 2,
      "sessionsWithMetricPercentage": 0,
      "sessionsWithoutMetricPercentage": 100,
      "pagesViews": 0,
      "subTotal": 0,
      "Url": "https://freshcalendars.com/news/school-calendar-2027-28-approval-tracker/"
+    },
+    {
+     "sessionsCount": 1,
+     "sessionsWithMetricPercentage": 0,
+     "sessionsWithoutMetricPercentage": 100,
+     "pagesViews": 0,
+     "subTotal": 0,
+     "Url": "https://freshcalendars.com/news/starbucks-holiday-menu-2026-red-cup-day-date/"
     },
     {
      "sessionsCount": 5,
@@ -1306,7 +1330,7 @@
      "Url": "https://freshcalendars.com/news/northside-isd-calendar-2026-27-breaks/"
     },
     {
-     "sessionsCount": 2,
+     "sessionsCount": 3,
      "sessionsWithMetricPercentage": 0,
      "sessionsWithoutMetricPercentage": 100,
      "pagesViews": 0,
@@ -1722,22 +1746,6 @@
      "Url": "https://freshcalendars.com/news/january-2027-calendar-printable/"
     },
     {
-     "sessionsCount": 1,
-     "sessionsWithMetricPercentage": 0,
-     "sessionsWithoutMetricPercentage": 100,
-     "pagesViews": 0,
-     "subTotal": 0,
-     "Url": "https://freshcalendars.com/news/nyt-connections-hints-answers-november-4-2026-1242/#pz-answer"
-    },
-    {
-     "sessionsCount": 1,
-     "sessionsWithMetricPercentage": 0,
-     "sessionsWithoutMetricPercentage": 100,
-     "pagesViews": 0,
-     "subTotal": 0,
-     "Url": "https://freshcalendars.com/news/veterans-day-parades-2026-by-city/"
-    },
-    {
      "sessionsCount": 3,
      "sessionsWithMetricPercentage": 0,
      "sessionsWithoutMetricPercentage": 100,
@@ -1751,7 +1759,23 @@
      "sessionsWithoutMetricPercentage": 100,
      "pagesViews": 0,
      "subTotal": 0,
+     "Url": "https://freshcalendars.com/news/nyt-connections-hints-answers-november-4-2026-1242/#pz-answer"
+    },
+    {
+     "sessionsCount": 1,
+     "sessionsWithMetricPercentage": 0,
+     "sessionsWithoutMetricPercentage": 100,
+     "pagesViews": 0,
+     "subTotal": 0,
      "Url": "https://freshcalendars.com/news/planets-visible-november-2026-night-sky-calendar-moon-venus-uranus-opposition/#google_vignette"
+    },
+    {
+     "sessionsCount": 1,
+     "sessionsWithMetricPercentage": 0,
+     "sessionsWithoutMetricPercentage": 100,
+     "pagesViews": 0,
+     "subTotal": 0,
+     "Url": "https://freshcalendars.com/news/veterans-day-parades-2026-by-city/"
     },
     {
      "sessionsCount": 2,
@@ -1807,7 +1831,7 @@
      "sessionsWithoutMetricPercentage": 100,
      "pagesViews": 0,
      "subTotal": 0,
-     "Url": "https://freshcalendars.com/news/linkedin-games-answers-today-november-6-2026-queens-tango-zip/"
+     "Url": "https://freshcalendars.com/news/iphone-duo-october-24-availability/"
     },
     {
      "sessionsCount": 1,
@@ -1815,7 +1839,7 @@
      "sessionsWithoutMetricPercentage": 100,
      "pagesViews": 0,
      "subTotal": 0,
-     "Url": "https://freshcalendars.com/news/whats-open-thanksgiving-2026-grocery-stores-walmart-costco/"
+     "Url": "https://freshcalendars.com/news/linkedin-games-answers-today-november-6-2026-queens-tango-zip/"
     },
     {
      "sessionsCount": 1,
@@ -1834,12 +1858,28 @@
      "Url": "https://freshcalendars.com/news/moon-phases-2027-full-moon-calendar/"
     },
     {
+     "sessionsCount": 1,
+     "sessionsWithMetricPercentage": 0,
+     "sessionsWithoutMetricPercentage": 100,
+     "pagesViews": 0,
+     "subTotal": 0,
+     "Url": "https://freshcalendars.com/news/whats-open-thanksgiving-2026-grocery-stores-walmart-costco/"
+    },
+    {
      "sessionsCount": 2,
      "sessionsWithMetricPercentage": 0,
      "sessionsWithoutMetricPercentage": 100,
      "pagesViews": 0,
      "subTotal": 0,
      "Url": "https://freshcalendars.com/news/ottawa-santa-claus-parade-2026-november-21-route-time/"
+    },
+    {
+     "sessionsCount": 1,
+     "sessionsWithMetricPercentage": 0,
+     "sessionsWithoutMetricPercentage": 100,
+     "pagesViews": 0,
+     "subTotal": 0,
+     "Url": "https://freshcalendars.com/news/seasons-2027-equinox-solstice-dates-times/"
     },
     {
      "sessionsCount": 1,
@@ -1855,7 +1895,7 @@
      "sessionsWithoutMetricPercentage": 100,
      "pagesViews": 0,
      "subTotal": 0,
-     "Url": "https://freshcalendars.com/news/seasons-2027-equinox-solstice-dates-times/"
+     "Url": "https://freshcalendars.com/news/stellar-blade-switch-2-release-time-november-5/"
     },
     {
      "sessionsCount": 1,
@@ -1922,7 +1962,7 @@
      "Url": "https://freshcalendars.com/news/irs-employer-tax-deadlines-november-2026-form-941-payroll-tips/"
     },
     {
-     "sessionsCount": 11,
+     "sessionsCount": 13,
      "sessionsWithMetricPercentage": 0,
      "sessionsWithoutMetricPercentage": 100,
      "pagesViews": 0,
@@ -1986,7 +2026,7 @@
      "Url": "https://freshcalendars.com/news/survivor-series-wargames-2026-date-start-time-houston-espn/"
     },
     {
-     "sessionsCount": 51,
+     "sessionsCount": 52,
      "sessionsWithMetricPercentage": 0,
      "sessionsWithoutMetricPercentage": 100,
      "pagesViews": 0,
@@ -2114,6 +2154,14 @@
      "Url": "https://freshcalendars.com/news/nyt-spelling-bee-hints-answers-november-7-2026/"
     },
     {
+     "sessionsCount": 1,
+     "sessionsWithMetricPercentage": 0,
+     "sessionsWithoutMetricPercentage": 100,
+     "pagesViews": 0,
+     "subTotal": 0,
+     "Url": "https://freshcalendars.com/news/kohls-black-friday-2026-dates-early-access-november-6-store-hours/"
+    },
+    {
      "sessionsCount": 2,
      "sessionsWithMetricPercentage": 0,
      "sessionsWithoutMetricPercentage": 100,
@@ -2143,7 +2191,7 @@
      "sessionsWithoutMetricPercentage": 100,
      "pagesViews": 0,
      "subTotal": 0,
-     "Url": "https://freshcalendars.com/news/government-funding-deadline-december-11-2026-shutdown/"
+     "Url": "https://freshcalendars.com/news/bonus-tax-withholding-2026-22-percent-flat-rate/"
     },
     {
      "sessionsCount": 1,
@@ -2151,7 +2199,7 @@
      "sessionsWithoutMetricPercentage": 100,
      "pagesViews": 0,
      "subTotal": 0,
-     "Url": "https://freshcalendars.com/news/bonus-tax-withholding-2026-22-percent-flat-rate/"
+     "Url": "https://freshcalendars.com/news/government-funding-deadline-december-11-2026-shutdown/"
     },
     {
      "sessionsCount": 2,
@@ -2455,7 +2503,7 @@
      "Url": "https://freshcalendars.com/news/northside-isd-calendar-2026-27-breaks/"
     },
     {
-     "sessionsCount": 2,
+     "sessionsCount": 3,
      "sessionsWithMetricPercentage": 0,
      "sessionsWithoutMetricPercentage": 100,
      "pagesViews": 0,
@@ -2508,7 +2556,7 @@
      "sessionsWithoutMetricPercentage": 100,
      "pagesViews": 0,
      "subTotal": 0,
-     "Url": "https://freshcalendars.com/news/advent-of-code-2026-start-time-puzzle-unlock-time-zones/"
+     "Url": "https://freshcalendars.com/news/printables/"
     },
     {
      "sessionsCount": 1,
@@ -2516,7 +2564,7 @@
      "sessionsWithoutMetricPercentage": 100,
      "pagesViews": 0,
      "subTotal": 0,
-     "Url": "https://freshcalendars.com/news/printables/"
+     "Url": "https://freshcalendars.com/news/advent-of-code-2026-start-time-puzzle-unlock-time-zones/"
     },
     {
      "sessionsCount": 1,
@@ -2871,6 +2919,14 @@
      "Url": "https://freshcalendars.com/news/january-2027-calendar-printable/"
     },
     {
+     "sessionsCount": 1,
+     "sessionsWithMetricPercentage": 0,
+     "sessionsWithoutMetricPercentage": 100,
+     "pagesViews": 0,
+     "subTotal": 0,
+     "Url": "https://freshcalendars.com/news/planets-visible-november-2026-night-sky-calendar-moon-venus-uranus-opposition/#google_vignette"
+    },
+    {
      "sessionsCount": 3,
      "sessionsWithMetricPercentage": 0,
      "sessionsWithoutMetricPercentage": 100,
@@ -2885,14 +2941,6 @@
      "pagesViews": 0,
      "subTotal": 0,
      "Url": "https://freshcalendars.com/news/nyt-connections-hints-answers-november-4-2026-1242/#pz-answer"
-    },
-    {
-     "sessionsCount": 1,
-     "sessionsWithMetricPercentage": 0,
-     "sessionsWithoutMetricPercentage": 100,
-     "pagesViews": 0,
-     "subTotal": 0,
-     "Url": "https://freshcalendars.com/news/planets-visible-november-2026-night-sky-calendar-moon-venus-uranus-opposition/#google_vignette"
     },
     {
      "sessionsCount": 1,
@@ -2956,7 +3004,7 @@
      "sessionsWithoutMetricPercentage": 100,
      "pagesViews": 0,
      "subTotal": 0,
-     "Url": "https://freshcalendars.com/news/linkedin-games-answers-today-november-6-2026-queens-tango-zip/"
+     "Url": "https://freshcalendars.com/news/iphone-duo-october-24-availability/"
     },
     {
      "sessionsCount": 1,
@@ -2964,7 +3012,7 @@
      "sessionsWithoutMetricPercentage": 100,
      "pagesViews": 0,
      "subTotal": 0,
-     "Url": "https://freshcalendars.com/news/whats-open-thanksgiving-2026-grocery-stores-walmart-costco/"
+     "Url": "https://freshcalendars.com/news/linkedin-games-answers-today-november-6-2026-queens-tango-zip/"
     },
     {
      "sessionsCount": 1,
@@ -2983,12 +3031,28 @@
      "Url": "https://freshcalendars.com/news/moon-phases-2027-full-moon-calendar/"
     },
     {
+     "sessionsCount": 1,
+     "sessionsWithMetricPercentage": 0,
+     "sessionsWithoutMetricPercentage": 100,
+     "pagesViews": 0,
+     "subTotal": 0,
+     "Url": "https://freshcalendars.com/news/whats-open-thanksgiving-2026-grocery-stores-walmart-costco/"
+    },
+    {
      "sessionsCount": 2,
      "sessionsWithMetricPercentage": 0,
      "sessionsWithoutMetricPercentage": 100,
      "pagesViews": 0,
      "subTotal": 0,
      "Url": "https://freshcalendars.com/news/ottawa-santa-claus-parade-2026-november-21-route-time/"
+    },
+    {
+     "sessionsCount": 1,
+     "sessionsWithMetricPercentage": 0,
+     "sessionsWithoutMetricPercentage": 100,
+     "pagesViews": 0,
+     "subTotal": 0,
+     "Url": "https://freshcalendars.com/news/nyt-pips-hints-answers-november-2-2026/"
     },
     {
      "sessionsCount": 1,
@@ -3004,7 +3068,7 @@
      "sessionsWithoutMetricPercentage": 100,
      "pagesViews": 0,
      "subTotal": 0,
-     "Url": "https://freshcalendars.com/news/nyt-pips-hints-answers-november-2-2026/"
+     "Url": "https://freshcalendars.com/news/stellar-blade-switch-2-release-time-november-5/"
     },
     {
      "sessionsCount": 1,
@@ -3071,7 +3135,7 @@
      "Url": "https://freshcalendars.com/news/irs-employer-tax-deadlines-november-2026-form-941-payroll-tips/"
     },
     {
-     "sessionsCount": 11,
+     "sessionsCount": 13,
      "sessionsWithMetricPercentage": 0,
      "sessionsWithoutMetricPercentage": 100,
      "pagesViews": 0,
@@ -3135,7 +3199,7 @@
      "Url": "https://freshcalendars.com/news/survivor-series-wargames-2026-date-start-time-houston-espn/"
     },
     {
-     "sessionsCount": 51,
+     "sessionsCount": 52,
      "sessionsWithMetricPercentage": 0,
      "sessionsWithoutMetricPercentage": 100,
      "pagesViews": 0,
@@ -3263,6 +3327,14 @@
      "Url": "https://freshcalendars.com/news/nyt-spelling-bee-hints-answers-november-7-2026/"
     },
     {
+     "sessionsCount": 1,
+     "sessionsWithMetricPercentage": 0,
+     "sessionsWithoutMetricPercentage": 100,
+     "pagesViews": 0,
+     "subTotal": 0,
+     "Url": "https://freshcalendars.com/news/kohls-black-friday-2026-dates-early-access-november-6-store-hours/"
+    },
+    {
      "sessionsCount": 2,
      "sessionsWithMetricPercentage": 0,
      "sessionsWithoutMetricPercentage": 100,
@@ -3292,7 +3364,7 @@
      "sessionsWithoutMetricPercentage": 100,
      "pagesViews": 0,
      "subTotal": 0,
-     "Url": "https://freshcalendars.com/news/bonus-tax-withholding-2026-22-percent-flat-rate/"
+     "Url": "https://freshcalendars.com/news/government-funding-deadline-december-11-2026-shutdown/"
     },
     {
      "sessionsCount": 1,
@@ -3300,7 +3372,7 @@
      "sessionsWithoutMetricPercentage": 100,
      "pagesViews": 0,
      "subTotal": 0,
-     "Url": "https://freshcalendars.com/news/government-funding-deadline-december-11-2026-shutdown/"
+     "Url": "https://freshcalendars.com/news/bonus-tax-withholding-2026-22-percent-flat-rate/"
     },
     {
      "sessionsCount": 2,
@@ -3391,20 +3463,20 @@
      "Url": "https://freshcalendars.com/news/elf-on-the-shelf-2026-arrival-ideas-calendar-printable/"
     },
     {
-     "sessionsCount": 1,
-     "sessionsWithMetricPercentage": 0,
-     "sessionsWithoutMetricPercentage": 100,
-     "pagesViews": 0,
-     "subTotal": 0,
-     "Url": "https://freshcalendars.com/news/starbucks-holiday-menu-2026-red-cup-day-date/"
-    },
-    {
      "sessionsCount": 2,
      "sessionsWithMetricPercentage": 0,
      "sessionsWithoutMetricPercentage": 100,
      "pagesViews": 0,
      "subTotal": 0,
      "Url": "https://freshcalendars.com/news/school-calendar-2027-28-approval-tracker/"
+    },
+    {
+     "sessionsCount": 1,
+     "sessionsWithMetricPercentage": 0,
+     "sessionsWithoutMetricPercentage": 100,
+     "pagesViews": 0,
+     "subTotal": 0,
+     "Url": "https://freshcalendars.com/news/starbucks-holiday-menu-2026-red-cup-day-date/"
     },
     {
      "sessionsCount": 5,
@@ -3431,20 +3503,20 @@
      "Url": "https://freshcalendars.com/news/ramadan-2027-calendar-dates-timetable/"
     },
     {
-     "sessionsCount": 2,
-     "sessionsWithMetricPercentage": 0,
-     "sessionsWithoutMetricPercentage": 100,
-     "pagesViews": 0,
-     "subTotal": 0,
-     "Url": "https://freshcalendars.com/news/royal-agricultural-winter-fair-2026-dates-hours-horse-show-toronto/"
-    },
-    {
      "sessionsCount": 3,
      "sessionsWithMetricPercentage": 0,
      "sessionsWithoutMetricPercentage": 100,
      "pagesViews": 0,
      "subTotal": 0,
      "Url": "https://freshcalendars.com/news/pdc-world-darts-championship-2026-27-schedule-dates-alexandra-palace/"
+    },
+    {
+     "sessionsCount": 2,
+     "sessionsWithMetricPercentage": 0,
+     "sessionsWithoutMetricPercentage": 100,
+     "pagesViews": 0,
+     "subTotal": 0,
+     "Url": "https://freshcalendars.com/news/royal-agricultural-winter-fair-2026-dates-hours-horse-show-toronto/"
     }
    ]
   },
@@ -3604,7 +3676,7 @@
      "Url": "https://freshcalendars.com/news/northside-isd-calendar-2026-27-breaks/"
     },
     {
-     "sessionsCount": 2,
+     "sessionsCount": 3,
      "sessionsWithMetricPercentage": 0,
      "sessionsWithoutMetricPercentage": 100,
      "pagesViews": 0,
@@ -3653,19 +3725,19 @@
     },
     {
      "sessionsCount": 1,
-     "sessionsWithMetricPercentage": 100,
-     "sessionsWithoutMetricPercentage": 0,
-     "pagesViews": 1,
-     "subTotal": 1,
-     "Url": "https://freshcalendars.com/news/advent-of-code-2026-start-time-puzzle-unlock-time-zones/"
-    },
-    {
-     "sessionsCount": 1,
      "sessionsWithMetricPercentage": 0,
      "sessionsWithoutMetricPercentage": 100,
      "pagesViews": 0,
      "subTotal": 0,
      "Url": "https://freshcalendars.com/news/printables/"
+    },
+    {
+     "sessionsCount": 1,
+     "sessionsWithMetricPercentage": 100,
+     "sessionsWithoutMetricPercentage": 0,
+     "pagesViews": 1,
+     "subTotal": 1,
+     "Url": "https://freshcalendars.com/news/advent-of-code-2026-start-time-puzzle-unlock-time-zones/"
     },
     {
      "sessionsCount": 1,
@@ -4033,7 +4105,7 @@
      "sessionsWithoutMetricPercentage": 100,
      "pagesViews": 0,
      "subTotal": 0,
-     "Url": "https://freshcalendars.com/news/veterans-day-parades-2026-by-city/"
+     "Url": "https://freshcalendars.com/news/nyt-connections-hints-answers-november-4-2026-1242/#pz-answer"
     },
     {
      "sessionsCount": 1,
@@ -4041,7 +4113,7 @@
      "sessionsWithoutMetricPercentage": 100,
      "pagesViews": 0,
      "subTotal": 0,
-     "Url": "https://freshcalendars.com/news/nyt-connections-hints-answers-november-4-2026-1242/#pz-answer"
+     "Url": "https://freshcalendars.com/news/veterans-day-parades-2026-by-city/"
     },
     {
      "sessionsCount": 1,
@@ -4105,6 +4177,14 @@
      "sessionsWithoutMetricPercentage": 100,
      "pagesViews": 0,
      "subTotal": 0,
+     "Url": "https://freshcalendars.com/news/iphone-duo-october-24-availability/"
+    },
+    {
+     "sessionsCount": 1,
+     "sessionsWithMetricPercentage": 0,
+     "sessionsWithoutMetricPercentage": 100,
+     "pagesViews": 0,
+     "subTotal": 0,
      "Url": "https://freshcalendars.com/news/linkedin-games-answers-today-november-6-2026-queens-tango-zip/"
     },
     {
@@ -4113,7 +4193,7 @@
      "sessionsWithoutMetricPercentage": 100,
      "pagesViews": 0,
      "subTotal": 0,
-     "Url": "https://freshcalendars.com/news/whats-open-thanksgiving-2026-grocery-stores-walmart-costco/"
+     "Url": "https://freshcalendars.com/news/what-is-a-leap-year/"
     },
     {
      "sessionsCount": 1,
@@ -4121,7 +4201,7 @@
      "sessionsWithoutMetricPercentage": 100,
      "pagesViews": 0,
      "subTotal": 0,
-     "Url": "https://freshcalendars.com/news/what-is-a-leap-year/"
+     "Url": "https://freshcalendars.com/news/whats-open-thanksgiving-2026-grocery-stores-walmart-costco/"
     },
     {
      "sessionsCount": 1,
@@ -4145,6 +4225,14 @@
      "sessionsWithoutMetricPercentage": 100,
      "pagesViews": 0,
      "subTotal": 0,
+     "Url": "https://freshcalendars.com/news/nyt-pips-hints-answers-november-2-2026/"
+    },
+    {
+     "sessionsCount": 1,
+     "sessionsWithMetricPercentage": 0,
+     "sessionsWithoutMetricPercentage": 100,
+     "pagesViews": 0,
+     "subTotal": 0,
      "Url": "https://freshcalendars.com/news/seasons-2027-equinox-solstice-dates-times/"
     },
     {
@@ -4153,7 +4241,7 @@
      "sessionsWithoutMetricPercentage": 100,
      "pagesViews": 0,
      "subTotal": 0,
-     "Url": "https://freshcalendars.com/news/nyt-pips-hints-answers-november-2-2026/"
+     "Url": "https://freshcalendars.com/news/stellar-blade-switch-2-release-time-november-5/"
     },
     {
      "sessionsCount": 1,
@@ -4220,7 +4308,7 @@
      "Url": "https://freshcalendars.com/news/irs-employer-tax-deadlines-november-2026-form-941-payroll-tips/"
     },
     {
-     "sessionsCount": 11,
+     "sessionsCount": 13,
      "sessionsWithMetricPercentage": 0,
      "sessionsWithoutMetricPercentage": 100,
      "pagesViews": 0,
@@ -4284,9 +4372,9 @@
      "Url": "https://freshcalendars.com/news/survivor-series-wargames-2026-date-start-time-houston-espn/"
     },
     {
-     "sessionsCount": 51,
-     "sessionsWithMetricPercentage": 1.96,
-     "sessionsWithoutMetricPercentage": 98.04,
+     "sessionsCount": 52,
+     "sessionsWithMetricPercentage": 1.92,
+     "sessionsWithoutMetricPercentage": 98.08,
      "pagesViews": 1,
      "subTotal": 1,
      "Url": "https://freshcalendars.com/news/veterans-day-free-meals-discounts/"
@@ -4412,6 +4500,14 @@
      "Url": "https://freshcalendars.com/news/nyt-spelling-bee-hints-answers-november-7-2026/"
     },
     {
+     "sessionsCount": 1,
+     "sessionsWithMetricPercentage": 0,
+     "sessionsWithoutMetricPercentage": 100,
+     "pagesViews": 0,
+     "subTotal": 0,
+     "Url": "https://freshcalendars.com/news/kohls-black-friday-2026-dates-early-access-november-6-store-hours/"
+    },
+    {
      "sessionsCount": 2,
      "sessionsWithMetricPercentage": 0,
      "sessionsWithoutMetricPercentage": 100,
@@ -4441,7 +4537,7 @@
      "sessionsWithoutMetricPercentage": 100,
      "pagesViews": 0,
      "subTotal": 0,
-     "Url": "https://freshcalendars.com/news/bonus-tax-withholding-2026-22-percent-flat-rate/"
+     "Url": "https://freshcalendars.com/news/government-funding-deadline-december-11-2026-shutdown/"
     },
     {
      "sessionsCount": 1,
@@ -4449,7 +4545,7 @@
      "sessionsWithoutMetricPercentage": 100,
      "pagesViews": 0,
      "subTotal": 0,
-     "Url": "https://freshcalendars.com/news/government-funding-deadline-december-11-2026-shutdown/"
+     "Url": "https://freshcalendars.com/news/bonus-tax-withholding-2026-22-percent-flat-rate/"
     },
     {
      "sessionsCount": 2,
@@ -4540,20 +4636,20 @@
      "Url": "https://freshcalendars.com/news/elf-on-the-shelf-2026-arrival-ideas-calendar-printable/"
     },
     {
-     "sessionsCount": 1,
-     "sessionsWithMetricPercentage": 0,
-     "sessionsWithoutMetricPercentage": 100,
-     "pagesViews": 0,
-     "subTotal": 0,
-     "Url": "https://freshcalendars.com/news/starbucks-holiday-menu-2026-red-cup-day-date/"
-    },
-    {
      "sessionsCount": 2,
      "sessionsWithMetricPercentage": 0,
      "sessionsWithoutMetricPercentage": 100,
      "pagesViews": 0,
      "subTotal": 0,
      "Url": "https://freshcalendars.com/news/school-calendar-2027-28-approval-tracker/"
+    },
+    {
+     "sessionsCount": 1,
+     "sessionsWithMetricPercentage": 0,
+     "sessionsWithoutMetricPercentage": 100,
+     "pagesViews": 0,
+     "subTotal": 0,
+     "Url": "https://freshcalendars.com/news/starbucks-holiday-menu-2026-red-cup-day-date/"
     },
     {
      "sessionsCount": 5,
@@ -4617,20 +4713,20 @@
      "Url": "https://freshcalendars.com/news/snap-payment-schedule-november-2026-deposit-dates-by-state/"
     },
     {
-     "sessionsCount": 3,
-     "sessionsWithMetricPercentage": 33.33,
-     "sessionsWithoutMetricPercentage": 66.67,
-     "pagesViews": 1,
-     "subTotal": 1,
-     "Url": "https://freshcalendars.com/news/boxing-schedule-december-2026-fight-dates-times/"
-    },
-    {
      "sessionsCount": 1,
      "sessionsWithMetricPercentage": 0,
      "sessionsWithoutMetricPercentage": 100,
      "pagesViews": 0,
      "subTotal": 0,
      "Url": "https://freshcalendars.com/news/nyt-midi-crossword-answers-november-2-2026/"
+    },
+    {
+     "sessionsCount": 3,
+     "sessionsWithMetricPercentage": 33.33,
+     "sessionsWithoutMetricPercentage": 66.67,
+     "pagesViews": 1,
+     "subTotal": 1,
+     "Url": "https://freshcalendars.com/news/boxing-schedule-december-2026-fight-dates-times/"
     },
     {
      "sessionsCount": 2,
@@ -4753,9 +4849,9 @@
      "Url": "https://freshcalendars.com/news/northside-isd-calendar-2026-27-breaks/"
     },
     {
-     "sessionsCount": 2,
-     "sessionsWithMetricPercentage": 50,
-     "sessionsWithoutMetricPercentage": 50,
+     "sessionsCount": 3,
+     "sessionsWithMetricPercentage": 33.33,
+     "sessionsWithoutMetricPercentage": 66.67,
      "pagesViews": 1,
      "subTotal": 1,
      "Url": "https://freshcalendars.com/news/paris-masters-2026-schedule-final-time-by-time-zone/"
@@ -4806,7 +4902,7 @@
      "sessionsWithoutMetricPercentage": 100,
      "pagesViews": 0,
      "subTotal": 0,
-     "Url": "https://freshcalendars.com/news/advent-of-code-2026-start-time-puzzle-unlock-time-zones/"
+     "Url": "https://freshcalendars.com/news/printables/"
     },
     {
      "sessionsCount": 1,
@@ -4814,7 +4910,7 @@
      "sessionsWithoutMetricPercentage": 100,
      "pagesViews": 0,
      "subTotal": 0,
-     "Url": "https://freshcalendars.com/news/printables/"
+     "Url": "https://freshcalendars.com/news/advent-of-code-2026-start-time-puzzle-unlock-time-zones/"
     },
     {
      "sessionsCount": 1,
@@ -4906,11 +5002,11 @@
     },
     {
      "sessionsCount": 1,
-     "sessionsWithMetricPercentage": 100,
-     "sessionsWithoutMetricPercentage": 0,
-     "pagesViews": 1,
-     "subTotal": 4,
-     "Url": "https://freshcalendars.com/news/miami-dade-school-calendar-2026-27-breaks/"
+     "sessionsWithMetricPercentage": 0,
+     "sessionsWithoutMetricPercentage": 100,
+     "pagesViews": 0,
+     "subTotal": 0,
+     "Url": "https://freshcalendars.com/news/pdc-world-darts-championship-2026-27-schedule-dates-alexandra-palace/#google_vignette"
     },
     {
      "sessionsCount": 9,
@@ -4922,11 +5018,11 @@
     },
     {
      "sessionsCount": 1,
-     "sessionsWithMetricPercentage": 0,
-     "sessionsWithoutMetricPercentage": 100,
-     "pagesViews": 0,
-     "subTotal": 0,
-     "Url": "https://freshcalendars.com/news/pdc-world-darts-championship-2026-27-schedule-dates-alexandra-palace/#google_vignette"
+     "sessionsWithMetricPercentage": 100,
+     "sessionsWithoutMetricPercentage": 0,
+     "pagesViews": 1,
+     "subTotal": 4,
+     "Url": "https://freshcalendars.com/news/miami-dade-school-calendar-2026-27-breaks/"
     },
     {
      "sessionsCount": 1,
@@ -5169,6 +5265,22 @@
      "Url": "https://freshcalendars.com/news/january-2027-calendar-printable/"
     },
     {
+     "sessionsCount": 1,
+     "sessionsWithMetricPercentage": 0,
+     "sessionsWithoutMetricPercentage": 100,
+     "pagesViews": 0,
+     "subTotal": 0,
+     "Url": "https://freshcalendars.com/news/planets-visible-november-2026-night-sky-calendar-moon-venus-uranus-opposition/#google_vignette"
+    },
+    {
+     "sessionsCount": 1,
+     "sessionsWithMetricPercentage": 0,
+     "sessionsWithoutMetricPercentage": 100,
+     "pagesViews": 0,
+     "subTotal": 0,
+     "Url": "https://freshcalendars.com/news/nyt-connections-hints-answers-november-4-2026-1242/#pz-answer"
+    },
+    {
      "sessionsCount": 3,
      "sessionsWithMetricPercentage": 33.33,
      "sessionsWithoutMetricPercentage": 66.67,
@@ -5183,22 +5295,6 @@
      "pagesViews": 0,
      "subTotal": 0,
      "Url": "https://freshcalendars.com/news/veterans-day-parades-2026-by-city/"
-    },
-    {
-     "sessionsCount": 1,
-     "sessionsWithMetricPercentage": 0,
-     "sessionsWithoutMetricPercentage": 100,
-     "pagesViews": 0,
-     "subTotal": 0,
-     "Url": "https://freshcalendars.com/news/nyt-connections-hints-answers-november-4-2026-1242/#pz-answer"
-    },
-    {
-     "sessionsCount": 1,
-     "sessionsWithMetricPercentage": 0,
-     "sessionsWithoutMetricPercentage": 100,
-     "pagesViews": 0,
-     "subTotal": 0,
-     "Url": "https://freshcalendars.com/news/planets-visible-november-2026-night-sky-calendar-moon-venus-uranus-opposition/#google_vignette"
     },
     {
      "sessionsCount": 2,
@@ -5250,19 +5346,19 @@
     },
     {
      "sessionsCount": 1,
+     "sessionsWithMetricPercentage": 100,
+     "sessionsWithoutMetricPercentage": 0,
+     "pagesViews": 1,
+     "subTotal": 2,
+     "Url": "https://freshcalendars.com/news/iphone-duo-october-24-availability/"
+    },
+    {
+     "sessionsCount": 1,
      "sessionsWithMetricPercentage": 0,
      "sessionsWithoutMetricPercentage": 100,
      "pagesViews": 0,
      "subTotal": 0,
      "Url": "https://freshcalendars.com/news/linkedin-games-answers-today-november-6-2026-queens-tango-zip/"
-    },
-    {
-     "sessionsCount": 1,
-     "sessionsWithMetricPercentage": 100,
-     "sessionsWithoutMetricPercentage": 0,
-     "pagesViews": 1,
-     "subTotal": 1,
-     "Url": "https://freshcalendars.com/news/whats-open-thanksgiving-2026-grocery-stores-walmart-costco/"
     },
     {
      "sessionsCount": 1,
@@ -5279,6 +5375,14 @@
      "pagesViews": 0,
      "subTotal": 0,
      "Url": "https://freshcalendars.com/news/moon-phases-2027-full-moon-calendar/"
+    },
+    {
+     "sessionsCount": 1,
+     "sessionsWithMetricPercentage": 100,
+     "sessionsWithoutMetricPercentage": 0,
+     "pagesViews": 1,
+     "subTotal": 1,
+     "Url": "https://freshcalendars.com/news/whats-open-thanksgiving-2026-grocery-stores-walmart-costco/"
     },
     {
      "sessionsCount": 2,
@@ -5303,6 +5407,14 @@
      "pagesViews": 0,
      "subTotal": 0,
      "Url": "https://freshcalendars.com/news/seasons-2027-equinox-solstice-dates-times/"
+    },
+    {
+     "sessionsCount": 1,
+     "sessionsWithMetricPercentage": 100,
+     "sessionsWithoutMetricPercentage": 0,
+     "pagesViews": 1,
+     "subTotal": 2,
+     "Url": "https://freshcalendars.com/news/stellar-blade-switch-2-release-time-november-5/"
     },
     {
      "sessionsCount": 1,
@@ -5369,9 +5481,9 @@
      "Url": "https://freshcalendars.com/news/irs-employer-tax-deadlines-november-2026-form-941-payroll-tips/"
     },
     {
-     "sessionsCount": 11,
-     "sessionsWithMetricPercentage": 18.18,
-     "sessionsWithoutMetricPercentage": 81.82,
+     "sessionsCount": 13,
+     "sessionsWithMetricPercentage": 15.38,
+     "sessionsWithoutMetricPercentage": 84.62,
      "pagesViews": 2,
      "subTotal": 5,
      "Url": "https://freshcalendars.com/news/army-navy-game-2026-date-kickoff-time-metlife-stadium-tv/"
@@ -5433,9 +5545,9 @@
      "Url": "https://freshcalendars.com/news/survivor-series-wargames-2026-date-start-time-houston-espn/"
     },
     {
-     "sessionsCount": 51,
-     "sessionsWithMetricPercentage": 45.1,
-     "sessionsWithoutMetricPercentage": 54.9,
+     "sessionsCount": 52,
+     "sessionsWithMetricPercentage": 44.23,
+     "sessionsWithoutMetricPercentage": 55.77,
      "pagesViews": 24,
      "subTotal": 70,
      "Url": "https://freshcalendars.com/news/veterans-day-free-meals-discounts/"
@@ -5559,6 +5671,14 @@
      "pagesViews": 7,
      "subTotal": 20,
      "Url": "https://freshcalendars.com/news/nyt-spelling-bee-hints-answers-november-7-2026/"
+    },
+    {
+     "sessionsCount": 1,
+     "sessionsWithMetricPercentage": 0,
+     "sessionsWithoutMetricPercentage": 100,
+     "pagesViews": 0,
+     "subTotal": 0,
+     "Url": "https://freshcalendars.com/news/kohls-black-friday-2026-dates-early-access-november-6-store-hours/"
     },
     {
      "sessionsCount": 2,
@@ -5902,7 +6022,7 @@
      "Url": "https://freshcalendars.com/news/northside-isd-calendar-2026-27-breaks/"
     },
     {
-     "sessionsCount": 2,
+     "sessionsCount": 3,
      "sessionsWithMetricPercentage": 0,
      "sessionsWithoutMetricPercentage": 100,
      "pagesViews": 0,
@@ -6059,7 +6179,7 @@
      "sessionsWithoutMetricPercentage": 100,
      "pagesViews": 0,
      "subTotal": 0,
-     "Url": "https://freshcalendars.com/news/pdc-world-darts-championship-2026-27-schedule-dates-alexandra-palace/#google_vignette"
+     "Url": "https://freshcalendars.com/news/miami-dade-school-calendar-2026-27-breaks/"
     },
     {
      "sessionsCount": 9,
@@ -6075,7 +6195,7 @@
      "sessionsWithoutMetricPercentage": 100,
      "pagesViews": 0,
      "subTotal": 0,
-     "Url": "https://freshcalendars.com/news/miami-dade-school-calendar-2026-27-breaks/"
+     "Url": "https://freshcalendars.com/news/pdc-world-darts-championship-2026-27-schedule-dates-alexandra-palace/#google_vignette"
     },
     {
      "sessionsCount": 1,
@@ -6318,6 +6438,14 @@
      "Url": "https://freshcalendars.com/news/january-2027-calendar-printable/"
     },
     {
+     "sessionsCount": 1,
+     "sessionsWithMetricPercentage": 0,
+     "sessionsWithoutMetricPercentage": 100,
+     "pagesViews": 0,
+     "subTotal": 0,
+     "Url": "https://freshcalendars.com/news/nyt-connections-hints-answers-november-4-2026-1242/#pz-answer"
+    },
+    {
      "sessionsCount": 3,
      "sessionsWithMetricPercentage": 0,
      "sessionsWithoutMetricPercentage": 100,
@@ -6332,14 +6460,6 @@
      "pagesViews": 0,
      "subTotal": 0,
      "Url": "https://freshcalendars.com/news/veterans-day-parades-2026-by-city/"
-    },
-    {
-     "sessionsCount": 1,
-     "sessionsWithMetricPercentage": 0,
-     "sessionsWithoutMetricPercentage": 100,
-     "pagesViews": 0,
-     "subTotal": 0,
-     "Url": "https://freshcalendars.com/news/nyt-connections-hints-answers-november-4-2026-1242/#pz-answer"
     },
     {
      "sessionsCount": 1,
@@ -6403,6 +6523,14 @@
      "sessionsWithoutMetricPercentage": 100,
      "pagesViews": 0,
      "subTotal": 0,
+     "Url": "https://freshcalendars.com/news/iphone-duo-october-24-availability/"
+    },
+    {
+     "sessionsCount": 1,
+     "sessionsWithMetricPercentage": 0,
+     "sessionsWithoutMetricPercentage": 100,
+     "pagesViews": 0,
+     "subTotal": 0,
      "Url": "https://freshcalendars.com/news/linkedin-games-answers-today-november-6-2026-queens-tango-zip/"
     },
     {
@@ -6411,7 +6539,7 @@
      "sessionsWithoutMetricPercentage": 100,
      "pagesViews": 0,
      "subTotal": 0,
-     "Url": "https://freshcalendars.com/news/whats-open-thanksgiving-2026-grocery-stores-walmart-costco/"
+     "Url": "https://freshcalendars.com/news/what-is-a-leap-year/"
     },
     {
      "sessionsCount": 1,
@@ -6419,7 +6547,7 @@
      "sessionsWithoutMetricPercentage": 100,
      "pagesViews": 0,
      "subTotal": 0,
-     "Url": "https://freshcalendars.com/news/what-is-a-leap-year/"
+     "Url": "https://freshcalendars.com/news/whats-open-thanksgiving-2026-grocery-stores-walmart-costco/"
     },
     {
      "sessionsCount": 1,
@@ -6443,6 +6571,14 @@
      "sessionsWithoutMetricPercentage": 100,
      "pagesViews": 0,
      "subTotal": 0,
+     "Url": "https://freshcalendars.com/news/nyt-pips-hints-answers-november-2-2026/"
+    },
+    {
+     "sessionsCount": 1,
+     "sessionsWithMetricPercentage": 0,
+     "sessionsWithoutMetricPercentage": 100,
+     "pagesViews": 0,
+     "subTotal": 0,
      "Url": "https://freshcalendars.com/news/seasons-2027-equinox-solstice-dates-times/"
     },
     {
@@ -6451,7 +6587,7 @@
      "sessionsWithoutMetricPercentage": 100,
      "pagesViews": 0,
      "subTotal": 0,
-     "Url": "https://freshcalendars.com/news/nyt-pips-hints-answers-november-2-2026/"
+     "Url": "https://freshcalendars.com/news/stellar-blade-switch-2-release-time-november-5/"
     },
     {
      "sessionsCount": 1,
@@ -6518,7 +6654,7 @@
      "Url": "https://freshcalendars.com/news/irs-employer-tax-deadlines-november-2026-form-941-payroll-tips/"
     },
     {
-     "sessionsCount": 11,
+     "sessionsCount": 13,
      "sessionsWithMetricPercentage": 0,
      "sessionsWithoutMetricPercentage": 100,
      "pagesViews": 0,
@@ -6582,7 +6718,7 @@
      "Url": "https://freshcalendars.com/news/survivor-series-wargames-2026-date-start-time-houston-espn/"
     },
     {
-     "sessionsCount": 51,
+     "sessionsCount": 52,
      "sessionsWithMetricPercentage": 0,
      "sessionsWithoutMetricPercentage": 100,
      "pagesViews": 0,
@@ -6710,6 +6846,14 @@
      "Url": "https://freshcalendars.com/news/nyt-spelling-bee-hints-answers-november-7-2026/"
     },
     {
+     "sessionsCount": 1,
+     "sessionsWithMetricPercentage": 0,
+     "sessionsWithoutMetricPercentage": 100,
+     "pagesViews": 0,
+     "subTotal": 0,
+     "Url": "https://freshcalendars.com/news/kohls-black-friday-2026-dates-early-access-november-6-store-hours/"
+    },
+    {
      "sessionsCount": 2,
      "sessionsWithMetricPercentage": 0,
      "sessionsWithoutMetricPercentage": 100,
@@ -6739,7 +6883,7 @@
      "sessionsWithoutMetricPercentage": 100,
      "pagesViews": 0,
      "subTotal": 0,
-     "Url": "https://freshcalendars.com/news/bonus-tax-withholding-2026-22-percent-flat-rate/"
+     "Url": "https://freshcalendars.com/news/government-funding-deadline-december-11-2026-shutdown/"
     },
     {
      "sessionsCount": 1,
@@ -6747,7 +6891,7 @@
      "sessionsWithoutMetricPercentage": 100,
      "pagesViews": 0,
      "subTotal": 0,
-     "Url": "https://freshcalendars.com/news/government-funding-deadline-december-11-2026-shutdown/"
+     "Url": "https://freshcalendars.com/news/bonus-tax-withholding-2026-22-percent-flat-rate/"
     },
     {
      "sessionsCount": 2,
@@ -6763,7 +6907,7 @@
      "sessionsWithoutMetricPercentage": 100,
      "pagesViews": 0,
      "subTotal": 0,
-     "Url": "https://freshcalendars.com/news/november-2026-important-dates-days-until/"
+     "Url": "https://freshcalendars.com/news/lego-advent-calendars-2026-prices-whats-inside/"
     },
     {
      "sessionsCount": 1,
@@ -6771,7 +6915,7 @@
      "sessionsWithoutMetricPercentage": 100,
      "pagesViews": 0,
      "subTotal": 0,
-     "Url": "https://freshcalendars.com/news/lego-advent-calendars-2026-prices-whats-inside/"
+     "Url": "https://freshcalendars.com/news/november-2026-important-dates-days-until/"
     },
     {
      "sessionsCount": 1,
@@ -6975,7 +7119,7 @@
      "Url": "https://freshcalendars.com/news/northside-isd-calendar-2026-27-breaks/"
     },
     {
-     "averageScrollDepth": 11,
+     "averageScrollDepth": 15,
      "Url": "https://freshcalendars.com/news/paris-masters-2026-schedule-final-time-by-time-zone/"
     },
     {
@@ -6999,12 +7143,12 @@
      "Url": "https://freshcalendars.com/news/printable-nfl-pickem-sheets-2026/"
     },
     {
-     "averageScrollDepth": 38,
-     "Url": "https://freshcalendars.com/news/advent-of-code-2026-start-time-puzzle-unlock-time-zones/"
-    },
-    {
      "averageScrollDepth": 7,
      "Url": "https://freshcalendars.com/news/printables/"
+    },
+    {
+     "averageScrollDepth": 38,
+     "Url": "https://freshcalendars.com/news/advent-of-code-2026-start-time-puzzle-unlock-time-zones/"
     },
     {
      "averageScrollDepth": 14,
@@ -7051,16 +7195,16 @@
      "Url": "https://freshcalendars.com/news/iheartradio-jingle-ball-2026-dates-lineup-by-city-abc-special/"
     },
     {
-     "averageScrollDepth": 14,
-     "Url": "https://freshcalendars.com/news/pdc-world-darts-championship-2026-27-schedule-dates-alexandra-palace/#google_vignette"
+     "averageScrollDepth": 53,
+     "Url": "https://freshcalendars.com/news/miami-dade-school-calendar-2026-27-breaks/"
     },
     {
      "averageScrollDepth": 31.89,
      "Url": "https://freshcalendars.com/news/nyt-connections-hints-answers-november-8-2026-1246/"
     },
     {
-     "averageScrollDepth": 53,
-     "Url": "https://freshcalendars.com/news/miami-dade-school-calendar-2026-27-breaks/"
+     "averageScrollDepth": 14,
+     "Url": "https://freshcalendars.com/news/pdc-world-darts-championship-2026-27-schedule-dates-alexandra-palace/#google_vignette"
     },
     {
      "averageScrollDepth": 54,
@@ -7183,20 +7327,20 @@
      "Url": "https://freshcalendars.com/news/january-2027-calendar-printable/"
     },
     {
-     "averageScrollDepth": 17,
-     "Url": "https://freshcalendars.com/news/costco-holiday-hours-closures-2026-2027/"
+     "averageScrollDepth": 26.5,
+     "Url": "https://freshcalendars.com/news/nyt-connections-hints-answers-november-4-2026-1242/#pz-answer"
     },
     {
      "averageScrollDepth": 16,
      "Url": "https://freshcalendars.com/news/veterans-day-parades-2026-by-city/"
     },
     {
-     "averageScrollDepth": 7,
-     "Url": "https://freshcalendars.com/news/planets-visible-november-2026-night-sky-calendar-moon-venus-uranus-opposition/#google_vignette"
+     "averageScrollDepth": 17,
+     "Url": "https://freshcalendars.com/news/costco-holiday-hours-closures-2026-2027/"
     },
     {
-     "averageScrollDepth": 26.5,
-     "Url": "https://freshcalendars.com/news/nyt-connections-hints-answers-november-4-2026-1242/#pz-answer"
+     "averageScrollDepth": 7,
+     "Url": "https://freshcalendars.com/news/planets-visible-november-2026-night-sky-calendar-moon-venus-uranus-opposition/#google_vignette"
     },
     {
      "averageScrollDepth": 19.5,
@@ -7221,6 +7365,10 @@
     {
      "averageScrollDepth": 9,
      "Url": "https://freshcalendars.com/news/advent-calendar-2026-dates-free-printable/?utm_source=chatgpt.com"
+    },
+    {
+     "averageScrollDepth": 34,
+     "Url": "https://freshcalendars.com/news/iphone-duo-october-24-availability/"
     },
     {
      "averageScrollDepth": 6,
@@ -7249,6 +7397,10 @@
     {
      "averageScrollDepth": 19,
      "Url": "https://freshcalendars.com/news/seasons-2027-equinox-solstice-dates-times/"
+    },
+    {
+     "averageScrollDepth": 21,
+     "Url": "https://freshcalendars.com/news/stellar-blade-switch-2-release-time-november-5/"
     },
     {
      "averageScrollDepth": 5,
@@ -7283,7 +7435,7 @@
      "Url": "https://freshcalendars.com/news/irs-employer-tax-deadlines-november-2026-form-941-payroll-tips/"
     },
     {
-     "averageScrollDepth": 16.08,
+     "averageScrollDepth": 15.67,
      "Url": "https://freshcalendars.com/news/army-navy-game-2026-date-kickoff-time-metlife-stadium-tv/"
     },
     {
@@ -7299,12 +7451,12 @@
      "Url": "https://freshcalendars.com/news/week-numbers-2027-calendar-printable/"
     },
     {
-     "averageScrollDepth": 12.33,
-     "Url": "https://freshcalendars.com/news/weekends-until-christmas-2026-saturday-planner-shipping-deadlines/"
-    },
-    {
      "averageScrollDepth": 5,
      "Url": "https://freshcalendars.com/news/operation-christmas-child-2026-national-collection-week-drop-off/#google_vignette"
+    },
+    {
+     "averageScrollDepth": 12.33,
+     "Url": "https://freshcalendars.com/news/weekends-until-christmas-2026-saturday-planner-shipping-deadlines/"
     },
     {
      "averageScrollDepth": 55,
@@ -7315,7 +7467,7 @@
      "Url": "https://freshcalendars.com/news/survivor-series-wargames-2026-date-start-time-houston-espn/"
     },
     {
-     "averageScrollDepth": 33.03,
+     "averageScrollDepth": 34.15,
      "Url": "https://freshcalendars.com/news/veterans-day-free-meals-discounts/"
     },
     {
@@ -7379,6 +7531,10 @@
      "Url": "https://freshcalendars.com/news/nyt-spelling-bee-hints-answers-november-7-2026/"
     },
     {
+     "averageScrollDepth": 36.5,
+     "Url": "https://freshcalendars.com/news/kohls-black-friday-2026-dates-early-access-november-6-store-hours/"
+    },
+    {
      "averageScrollDepth": 13,
      "Url": "https://freshcalendars.com/news/diwali-2026-date-lakshmi-puja-time-usa/"
     },
@@ -7403,12 +7559,12 @@
      "Url": "https://freshcalendars.com/news/nyt-connections-hints-answers-november-4-2026-1242/"
     },
     {
-     "averageScrollDepth": 5,
-     "Url": "https://freshcalendars.com/news/november-2026-important-dates-days-until/"
-    },
-    {
      "averageScrollDepth": 38,
      "Url": "https://freshcalendars.com/news/lego-advent-calendars-2026-prices-whats-inside/"
+    },
+    {
+     "averageScrollDepth": 5,
+     "Url": "https://freshcalendars.com/news/november-2026-important-dates-days-until/"
     },
     {
      "averageScrollDepth": 66.33,
@@ -7423,12 +7579,12 @@
      "Url": "https://freshcalendars.com/news/caribou-coffee-holiday-menu-2026-cookie-butter-white-mocha/"
     },
     {
-     "averageScrollDepth": 49,
-     "Url": "https://freshcalendars.com/news/nyt-letter-boxed-answer-hints-november-7-2026/"
-    },
-    {
      "averageScrollDepth": 22.5,
      "Url": "https://freshcalendars.com/news/metro-nashville-public-schools-calendar-2026-27-breaks/"
+    },
+    {
+     "averageScrollDepth": 49,
+     "Url": "https://freshcalendars.com/news/nyt-letter-boxed-answer-hints-november-7-2026/"
     },
     {
      "averageScrollDepth": 41,
@@ -7443,12 +7599,12 @@
      "Url": "https://freshcalendars.com/news/elf-on-the-shelf-2026-arrival-ideas-calendar-printable/"
     },
     {
-     "averageScrollDepth": 4,
-     "Url": "https://freshcalendars.com/news/starbucks-holiday-menu-2026-red-cup-day-date/"
-    },
-    {
      "averageScrollDepth": 20,
      "Url": "https://freshcalendars.com/news/school-calendar-2027-28-approval-tracker/"
+    },
+    {
+     "averageScrollDepth": 4,
+     "Url": "https://freshcalendars.com/news/starbucks-holiday-menu-2026-red-cup-day-date/"
     },
     {
      "averageScrollDepth": 21.33,
@@ -7463,12 +7619,12 @@
      "Url": "https://freshcalendars.com/news/ramadan-2027-calendar-dates-timetable/"
     },
     {
-     "averageScrollDepth": 29.67,
-     "Url": "https://freshcalendars.com/news/pdc-world-darts-championship-2026-27-schedule-dates-alexandra-palace/"
-    },
-    {
      "averageScrollDepth": 29.5,
      "Url": "https://freshcalendars.com/news/royal-agricultural-winter-fair-2026-dates-hours-horse-show-toronto/"
+    },
+    {
+     "averageScrollDepth": 29.67,
+     "Url": "https://freshcalendars.com/news/pdc-world-darts-championship-2026-27-schedule-dates-alexandra-palace/"
     }
    ]
   },
@@ -7644,9 +7800,9 @@
      "Url": "https://freshcalendars.com/news/northside-isd-calendar-2026-27-breaks/"
     },
     {
-     "totalSessionCount": 2,
+     "totalSessionCount": 3,
      "totalBotSessionCount": 0,
-     "distinctUserCount": 2,
+     "distinctUserCount": 3,
      "pagesPerSessionPercentage": 1,
      "Url": "https://freshcalendars.com/news/paris-masters-2026-schedule-final-time-by-time-zone/"
     },
@@ -8169,6 +8325,13 @@
      "Url": "https://freshcalendars.com/news/advent-calendar-2026-dates-free-printable/?utm_source=chatgpt.com"
     },
     {
+     "totalSessionCount": 1,
+     "totalBotSessionCount": 0,
+     "distinctUserCount": 1,
+     "pagesPerSessionPercentage": 1,
+     "Url": "https://freshcalendars.com/news/iphone-duo-october-24-availability/"
+    },
+    {
      "totalSessionCount": 0,
      "totalBotSessionCount": 2,
      "distinctUserCount": 0,
@@ -8230,6 +8393,13 @@
      "distinctUserCount": 1,
      "pagesPerSessionPercentage": 1,
      "Url": "https://freshcalendars.com/news/nyt-pips-hints-answers-november-2-2026/"
+    },
+    {
+     "totalSessionCount": 1,
+     "totalBotSessionCount": 0,
+     "distinctUserCount": 1,
+     "pagesPerSessionPercentage": 1,
+     "Url": "https://freshcalendars.com/news/stellar-blade-switch-2-release-time-november-5/"
     },
     {
      "totalSessionCount": 1,
@@ -8302,10 +8472,10 @@
      "Url": "https://freshcalendars.com/news/irs-employer-tax-deadlines-november-2026-form-941-payroll-tips/"
     },
     {
-     "totalSessionCount": 11,
+     "totalSessionCount": 13,
      "totalBotSessionCount": 0,
-     "distinctUserCount": 10,
-     "pagesPerSessionPercentage": 1.2727272727272727,
+     "distinctUserCount": 12,
+     "pagesPerSessionPercentage": 1.2307692307692308,
      "Url": "https://freshcalendars.com/news/army-navy-game-2026-date-kickoff-time-metlife-stadium-tv/"
     },
     {
@@ -8365,10 +8535,10 @@
      "Url": "https://freshcalendars.com/news/survivor-series-wargames-2026-date-start-time-houston-espn/"
     },
     {
-     "totalSessionCount": 51,
+     "totalSessionCount": 52,
      "totalBotSessionCount": 3,
-     "distinctUserCount": 49,
-     "pagesPerSessionPercentage": 1.2549019607843137,
+     "distinctUserCount": 50,
+     "pagesPerSessionPercentage": 1.25,
      "Url": "https://freshcalendars.com/news/veterans-day-free-meals-discounts/"
     },
     {
@@ -8510,6 +8680,13 @@
      "distinctUserCount": 11,
      "pagesPerSessionPercentage": 1.0909090909090908,
      "Url": "https://freshcalendars.com/news/nyt-spelling-bee-hints-answers-november-7-2026/"
+    },
+    {
+     "totalSessionCount": 1,
+     "totalBotSessionCount": 0,
+     "distinctUserCount": 1,
+     "pagesPerSessionPercentage": 2,
+     "Url": "https://freshcalendars.com/news/kohls-black-friday-2026-dates-early-access-november-6-store-hours/"
     },
     {
      "totalSessionCount": 2,
@@ -8808,8 +8985,8 @@
      "Url": "https://freshcalendars.com/news/northside-isd-calendar-2026-27-breaks/"
     },
     {
-     "totalTime": 170,
-     "activeTime": 11,
+     "totalTime": 229,
+     "activeTime": 122,
      "Url": "https://freshcalendars.com/news/paris-masters-2026-schedule-final-time-by-time-zone/"
     },
     {
@@ -9118,6 +9295,11 @@
      "Url": "https://freshcalendars.com/news/advent-calendar-2026-dates-free-printable/?utm_source=chatgpt.com"
     },
     {
+     "totalTime": 30,
+     "activeTime": 30,
+     "Url": "https://freshcalendars.com/news/iphone-duo-october-24-availability/"
+    },
+    {
      "totalTime": 483,
      "activeTime": 19,
      "Url": "https://freshcalendars.com/news/moon-phases-2027-full-moon-calendar/"
@@ -9151,6 +9333,11 @@
      "totalTime": 1,
      "activeTime": 0,
      "Url": "https://freshcalendars.com/news/nyt-pips-hints-answers-november-2-2026/"
+    },
+    {
+     "totalTime": 24,
+     "activeTime": 24,
+     "Url": "https://freshcalendars.com/news/stellar-blade-switch-2-release-time-november-5/"
     },
     {
      "totalTime": 157,
@@ -9193,8 +9380,8 @@
      "Url": "https://freshcalendars.com/news/irs-employer-tax-deadlines-november-2026-form-941-payroll-tips/"
     },
     {
-     "totalTime": 67,
-     "activeTime": 64,
+     "totalTime": 79,
+     "activeTime": 76,
      "Url": "https://freshcalendars.com/news/army-navy-game-2026-date-kickoff-time-metlife-stadium-tv/"
     },
     {
@@ -9233,8 +9420,8 @@
      "Url": "https://freshcalendars.com/news/survivor-series-wargames-2026-date-start-time-houston-espn/"
     },
     {
-     "totalTime": 222,
-     "activeTime": 174,
+     "totalTime": 232,
+     "activeTime": 186,
      "Url": "https://freshcalendars.com/news/veterans-day-free-meals-discounts/"
     },
     {
@@ -9311,6 +9498,11 @@
      "totalTime": 176,
      "activeTime": 138,
      "Url": "https://freshcalendars.com/news/nyt-spelling-bee-hints-answers-november-7-2026/"
+    },
+    {
+     "totalTime": 55,
+     "activeTime": 53,
+     "Url": "https://freshcalendars.com/news/kohls-black-friday-2026-dates-early-access-november-6-store-hours/"
     },
     {
      "totalTime": 58,
@@ -9430,618 +9622,8 @@
    ]
   }
  ],
- "channels": [
-  {
-   "metricName": "DeadClickCount",
-   "information": [
-    {
-     "sessionsCount": 215,
-     "sessionsWithMetricPercentage": 10.23,
-     "sessionsWithoutMetricPercentage": 89.77,
-     "pagesViews": 24,
-     "subTotal": 35,
-     "Channel": "OrganicSearch"
-    },
-    {
-     "sessionsCount": 9,
-     "sessionsWithMetricPercentage": 0,
-     "sessionsWithoutMetricPercentage": 100,
-     "pagesViews": 0,
-     "subTotal": 0,
-     "Channel": "Direct"
-    },
-    {
-     "sessionsCount": 24,
-     "sessionsWithMetricPercentage": 8.33,
-     "sessionsWithoutMetricPercentage": 91.67,
-     "pagesViews": 2,
-     "subTotal": 2,
-     "Channel": "Referral"
-    },
-    {
-     "sessionsCount": 63,
-     "sessionsWithMetricPercentage": 1.59,
-     "sessionsWithoutMetricPercentage": 98.41,
-     "pagesViews": 1,
-     "subTotal": 1,
-     "Channel": "Other"
-    },
-    {
-     "sessionsCount": 2,
-     "sessionsWithMetricPercentage": 0,
-     "sessionsWithoutMetricPercentage": 100,
-     "pagesViews": 0,
-     "subTotal": 0,
-     "Channel": "AiPlatform"
-    }
-   ]
-  },
-  {
-   "metricName": "ExcessiveScroll",
-   "information": [
-    {
-     "sessionsCount": 215,
-     "sessionsWithMetricPercentage": 0,
-     "sessionsWithoutMetricPercentage": 100,
-     "pagesViews": 0,
-     "subTotal": 0,
-     "Channel": "OrganicSearch"
-    },
-    {
-     "sessionsCount": 9,
-     "sessionsWithMetricPercentage": 0,
-     "sessionsWithoutMetricPercentage": 100,
-     "pagesViews": 0,
-     "subTotal": 0,
-     "Channel": "Direct"
-    },
-    {
-     "sessionsCount": 24,
-     "sessionsWithMetricPercentage": 0,
-     "sessionsWithoutMetricPercentage": 100,
-     "pagesViews": 0,
-     "subTotal": 0,
-     "Channel": "Referral"
-    },
-    {
-     "sessionsCount": 63,
-     "sessionsWithMetricPercentage": 0,
-     "sessionsWithoutMetricPercentage": 100,
-     "pagesViews": 0,
-     "subTotal": 0,
-     "Channel": "Other"
-    },
-    {
-     "sessionsCount": 2,
-     "sessionsWithMetricPercentage": 0,
-     "sessionsWithoutMetricPercentage": 100,
-     "pagesViews": 0,
-     "subTotal": 0,
-     "Channel": "AiPlatform"
-    }
-   ]
-  },
-  {
-   "metricName": "RageClickCount",
-   "information": [
-    {
-     "sessionsCount": 215,
-     "sessionsWithMetricPercentage": 0,
-     "sessionsWithoutMetricPercentage": 100,
-     "pagesViews": 0,
-     "subTotal": 0,
-     "Channel": "OrganicSearch"
-    },
-    {
-     "sessionsCount": 9,
-     "sessionsWithMetricPercentage": 0,
-     "sessionsWithoutMetricPercentage": 100,
-     "pagesViews": 0,
-     "subTotal": 0,
-     "Channel": "Direct"
-    },
-    {
-     "sessionsCount": 24,
-     "sessionsWithMetricPercentage": 0,
-     "sessionsWithoutMetricPercentage": 100,
-     "pagesViews": 0,
-     "subTotal": 0,
-     "Channel": "Referral"
-    },
-    {
-     "sessionsCount": 63,
-     "sessionsWithMetricPercentage": 0,
-     "sessionsWithoutMetricPercentage": 100,
-     "pagesViews": 0,
-     "subTotal": 0,
-     "Channel": "Other"
-    },
-    {
-     "sessionsCount": 2,
-     "sessionsWithMetricPercentage": 0,
-     "sessionsWithoutMetricPercentage": 100,
-     "pagesViews": 0,
-     "subTotal": 0,
-     "Channel": "AiPlatform"
-    }
-   ]
-  },
-  {
-   "metricName": "QuickbackClick",
-   "information": [
-    {
-     "sessionsCount": 215,
-     "sessionsWithMetricPercentage": 2.33,
-     "sessionsWithoutMetricPercentage": 97.67,
-     "pagesViews": 12,
-     "subTotal": 12,
-     "Channel": "OrganicSearch"
-    },
-    {
-     "sessionsCount": 9,
-     "sessionsWithMetricPercentage": 22.22,
-     "sessionsWithoutMetricPercentage": 77.78,
-     "pagesViews": 7,
-     "subTotal": 7,
-     "Channel": "Direct"
-    },
-    {
-     "sessionsCount": 24,
-     "sessionsWithMetricPercentage": 0,
-     "sessionsWithoutMetricPercentage": 100,
-     "pagesViews": 0,
-     "subTotal": 0,
-     "Channel": "Referral"
-    },
-    {
-     "sessionsCount": 63,
-     "sessionsWithMetricPercentage": 0,
-     "sessionsWithoutMetricPercentage": 100,
-     "pagesViews": 0,
-     "subTotal": 0,
-     "Channel": "Other"
-    },
-    {
-     "sessionsCount": 2,
-     "sessionsWithMetricPercentage": 0,
-     "sessionsWithoutMetricPercentage": 100,
-     "pagesViews": 0,
-     "subTotal": 0,
-     "Channel": "AiPlatform"
-    }
-   ]
-  },
-  {
-   "metricName": "ScriptErrorCount",
-   "information": [
-    {
-     "sessionsCount": 215,
-     "sessionsWithMetricPercentage": 51.63,
-     "sessionsWithoutMetricPercentage": 48.37,
-     "pagesViews": 115,
-     "subTotal": 256,
-     "Channel": "OrganicSearch"
-    },
-    {
-     "sessionsCount": 9,
-     "sessionsWithMetricPercentage": 55.56,
-     "sessionsWithoutMetricPercentage": 44.44,
-     "pagesViews": 5,
-     "subTotal": 11,
-     "Channel": "Direct"
-    },
-    {
-     "sessionsCount": 24,
-     "sessionsWithMetricPercentage": 29.17,
-     "sessionsWithoutMetricPercentage": 70.83,
-     "pagesViews": 7,
-     "subTotal": 14,
-     "Channel": "Referral"
-    },
-    {
-     "sessionsCount": 63,
-     "sessionsWithMetricPercentage": 25.4,
-     "sessionsWithoutMetricPercentage": 74.6,
-     "pagesViews": 16,
-     "subTotal": 29,
-     "Channel": "Other"
-    },
-    {
-     "sessionsCount": 2,
-     "sessionsWithMetricPercentage": 50,
-     "sessionsWithoutMetricPercentage": 50,
-     "pagesViews": 1,
-     "subTotal": 2,
-     "Channel": "AiPlatform"
-    }
-   ]
-  },
-  {
-   "metricName": "ErrorClickCount",
-   "information": [
-    {
-     "sessionsCount": 215,
-     "sessionsWithMetricPercentage": 0.93,
-     "sessionsWithoutMetricPercentage": 99.07,
-     "pagesViews": 2,
-     "subTotal": 2,
-     "Channel": "OrganicSearch"
-    },
-    {
-     "sessionsCount": 9,
-     "sessionsWithMetricPercentage": 0,
-     "sessionsWithoutMetricPercentage": 100,
-     "pagesViews": 0,
-     "subTotal": 0,
-     "Channel": "Direct"
-    },
-    {
-     "sessionsCount": 24,
-     "sessionsWithMetricPercentage": 0,
-     "sessionsWithoutMetricPercentage": 100,
-     "pagesViews": 0,
-     "subTotal": 0,
-     "Channel": "Referral"
-    },
-    {
-     "sessionsCount": 63,
-     "sessionsWithMetricPercentage": 0,
-     "sessionsWithoutMetricPercentage": 100,
-     "pagesViews": 0,
-     "subTotal": 0,
-     "Channel": "Other"
-    },
-    {
-     "sessionsCount": 2,
-     "sessionsWithMetricPercentage": 0,
-     "sessionsWithoutMetricPercentage": 100,
-     "pagesViews": 0,
-     "subTotal": 0,
-     "Channel": "AiPlatform"
-    }
-   ]
-  },
-  {
-   "metricName": "ScrollDepth",
-   "information": [
-    {
-     "averageScrollDepth": 32.43,
-     "Channel": "OrganicSearch"
-    },
-    {
-     "averageScrollDepth": 45.59,
-     "Channel": "Direct"
-    },
-    {
-     "averageScrollDepth": 22.93,
-     "Channel": "Referral"
-    },
-    {
-     "averageScrollDepth": 19.81,
-     "Channel": "Other"
-    },
-    {
-     "averageScrollDepth": 31.5,
-     "Channel": "AiPlatform"
-    }
-   ]
-  },
-  {
-   "metricName": "Traffic",
-   "information": [
-    {
-     "totalSessionCount": 215,
-     "totalBotSessionCount": 13,
-     "distinctUserCount": 212,
-     "pagesPerSessionPercentage": 1.172093023255814,
-     "Channel": "OrganicSearch"
-    },
-    {
-     "totalSessionCount": 9,
-     "totalBotSessionCount": 0,
-     "distinctUserCount": 9,
-     "pagesPerSessionPercentage": 2.5555555555555554,
-     "Channel": "Direct"
-    },
-    {
-     "totalSessionCount": 24,
-     "totalBotSessionCount": 0,
-     "distinctUserCount": 23,
-     "pagesPerSessionPercentage": 1.125,
-     "Channel": "Referral"
-    },
-    {
-     "totalSessionCount": 63,
-     "totalBotSessionCount": 48,
-     "distinctUserCount": 62,
-     "pagesPerSessionPercentage": 1.1111111111111112,
-     "Channel": "Other"
-    },
-    {
-     "totalSessionCount": 2,
-     "totalBotSessionCount": 0,
-     "distinctUserCount": 2,
-     "pagesPerSessionPercentage": 1,
-     "Channel": "AiPlatform"
-    }
-   ]
-  },
-  {
-   "metricName": "EngagementTime",
-   "information": [
-    {
-     "totalTime": 137,
-     "activeTime": 95,
-     "Channel": "OrganicSearch"
-    },
-    {
-     "totalTime": 166,
-     "activeTime": 78,
-     "Channel": "Direct"
-    },
-    {
-     "totalTime": 147,
-     "activeTime": 85,
-     "Channel": "Referral"
-    },
-    {
-     "totalTime": 47,
-     "activeTime": 32,
-     "Channel": "Other"
-    },
-    {
-     "totalTime": 16,
-     "activeTime": 15,
-     "Channel": "AiPlatform"
-    }
-   ]
-  }
- ],
- "devices": [
-  {
-   "metricName": "DeadClickCount",
-   "information": [
-    {
-     "sessionsCount": 155,
-     "sessionsWithMetricPercentage": 6.45,
-     "sessionsWithoutMetricPercentage": 93.55,
-     "pagesViews": 11,
-     "subTotal": 13,
-     "Device": "Mobile"
-    },
-    {
-     "sessionsCount": 25,
-     "sessionsWithMetricPercentage": 8,
-     "sessionsWithoutMetricPercentage": 92,
-     "pagesViews": 2,
-     "subTotal": 3,
-     "Device": "Tablet"
-    },
-    {
-     "sessionsCount": 128,
-     "sessionsWithMetricPercentage": 10.16,
-     "sessionsWithoutMetricPercentage": 89.84,
-     "pagesViews": 14,
-     "subTotal": 22,
-     "Device": "PC"
-    }
-   ]
-  },
-  {
-   "metricName": "ExcessiveScroll",
-   "information": [
-    {
-     "sessionsCount": 155,
-     "sessionsWithMetricPercentage": 0,
-     "sessionsWithoutMetricPercentage": 100,
-     "pagesViews": 0,
-     "subTotal": 0,
-     "Device": "Mobile"
-    },
-    {
-     "sessionsCount": 25,
-     "sessionsWithMetricPercentage": 0,
-     "sessionsWithoutMetricPercentage": 100,
-     "pagesViews": 0,
-     "subTotal": 0,
-     "Device": "Tablet"
-    },
-    {
-     "sessionsCount": 128,
-     "sessionsWithMetricPercentage": 0,
-     "sessionsWithoutMetricPercentage": 100,
-     "pagesViews": 0,
-     "subTotal": 0,
-     "Device": "PC"
-    }
-   ]
-  },
-  {
-   "metricName": "RageClickCount",
-   "information": [
-    {
-     "sessionsCount": 155,
-     "sessionsWithMetricPercentage": 0,
-     "sessionsWithoutMetricPercentage": 100,
-     "pagesViews": 0,
-     "subTotal": 0,
-     "Device": "Mobile"
-    },
-    {
-     "sessionsCount": 25,
-     "sessionsWithMetricPercentage": 0,
-     "sessionsWithoutMetricPercentage": 100,
-     "pagesViews": 0,
-     "subTotal": 0,
-     "Device": "Tablet"
-    },
-    {
-     "sessionsCount": 128,
-     "sessionsWithMetricPercentage": 0,
-     "sessionsWithoutMetricPercentage": 100,
-     "pagesViews": 0,
-     "subTotal": 0,
-     "Device": "PC"
-    }
-   ]
-  },
-  {
-   "metricName": "QuickbackClick",
-   "information": [
-    {
-     "sessionsCount": 155,
-     "sessionsWithMetricPercentage": 2.58,
-     "sessionsWithoutMetricPercentage": 97.42,
-     "pagesViews": 4,
-     "subTotal": 4,
-     "Device": "Mobile"
-    },
-    {
-     "sessionsCount": 25,
-     "sessionsWithMetricPercentage": 0,
-     "sessionsWithoutMetricPercentage": 100,
-     "pagesViews": 0,
-     "subTotal": 0,
-     "Device": "Tablet"
-    },
-    {
-     "sessionsCount": 128,
-     "sessionsWithMetricPercentage": 2.34,
-     "sessionsWithoutMetricPercentage": 97.66,
-     "pagesViews": 15,
-     "subTotal": 15,
-     "Device": "PC"
-    }
-   ]
-  },
-  {
-   "metricName": "ScriptErrorCount",
-   "information": [
-    {
-     "sessionsCount": 155,
-     "sessionsWithMetricPercentage": 40,
-     "sessionsWithoutMetricPercentage": 60,
-     "pagesViews": 63,
-     "subTotal": 118,
-     "Device": "Mobile"
-    },
-    {
-     "sessionsCount": 25,
-     "sessionsWithMetricPercentage": 52,
-     "sessionsWithoutMetricPercentage": 48,
-     "pagesViews": 14,
-     "subTotal": 25,
-     "Device": "Tablet"
-    },
-    {
-     "sessionsCount": 128,
-     "sessionsWithMetricPercentage": 49.22,
-     "sessionsWithoutMetricPercentage": 50.78,
-     "pagesViews": 67,
-     "subTotal": 169,
-     "Device": "PC"
-    }
-   ]
-  },
-  {
-   "metricName": "ErrorClickCount",
-   "information": [
-    {
-     "sessionsCount": 155,
-     "sessionsWithMetricPercentage": 0.65,
-     "sessionsWithoutMetricPercentage": 99.35,
-     "pagesViews": 1,
-     "subTotal": 1,
-     "Device": "Mobile"
-    },
-    {
-     "sessionsCount": 25,
-     "sessionsWithMetricPercentage": 0,
-     "sessionsWithoutMetricPercentage": 100,
-     "pagesViews": 0,
-     "subTotal": 0,
-     "Device": "Tablet"
-    },
-    {
-     "sessionsCount": 128,
-     "sessionsWithMetricPercentage": 0.78,
-     "sessionsWithoutMetricPercentage": 99.22,
-     "pagesViews": 1,
-     "subTotal": 1,
-     "Device": "PC"
-    }
-   ]
-  },
-  {
-   "metricName": "ScrollDepth",
-   "information": [
-    {
-     "averageScrollDepth": 24.06,
-     "Device": "Mobile"
-    },
-    {
-     "averageScrollDepth": 29.52,
-     "Device": "Tablet"
-    },
-    {
-     "averageScrollDepth": 36.87,
-     "Device": "PC"
-    }
-   ]
-  },
-  {
-   "metricName": "Traffic",
-   "information": [
-    {
-     "totalSessionCount": 155,
-     "totalBotSessionCount": 35,
-     "distinctUserCount": 151,
-     "pagesPerSessionPercentage": 1.1483870967741936,
-     "Device": "Mobile"
-    },
-    {
-     "totalSessionCount": 25,
-     "totalBotSessionCount": 9,
-     "distinctUserCount": 25,
-     "pagesPerSessionPercentage": 1.16,
-     "Device": "Tablet"
-    },
-    {
-     "totalSessionCount": 128,
-     "totalBotSessionCount": 7,
-     "distinctUserCount": 127,
-     "pagesPerSessionPercentage": 1.21875,
-     "Device": "PC"
-    },
-    {
-     "totalSessionCount": 0,
-     "totalBotSessionCount": 10,
-     "distinctUserCount": 0,
-     "pagesPerSessionPercentage": null,
-     "Device": "Other"
-    }
-   ]
-  },
-  {
-   "metricName": "EngagementTime",
-   "information": [
-    {
-     "totalTime": 84,
-     "activeTime": 52,
-     "Device": "Mobile"
-    },
-    {
-     "totalTime": 137,
-     "activeTime": 121,
-     "Device": "Tablet"
-    },
-    {
-     "totalTime": 165,
-     "activeTime": 111,
-     "Device": "PC"
-    }
-   ]
-  }
- ],
- "failed": []
+ "failed": [
+  "channels: 429: Exceeded daily limit",
+  "devices: 429: Exceeded daily limit"
+ ]
 }

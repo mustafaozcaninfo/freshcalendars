@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-07T17:07:53.950Z",
+ "generatedAt": "2026-11-07T17:20:23.266Z",
  "site": "sc-domain:freshcalendars.com",
  "windows": [
   {
@@ -135,7 +135,7 @@
  "gate": [
   {
    "rule": "At least 60% of /news/ URLs published 7 to 21 days ago are indexed",
-   "value": "98% (55 of 56 sampled)",
+   "value": "100% (56 of 56 sampled)",
    "pass": true
   },
   {
@@ -2226,18 +2226,18 @@
  "indexed": {
   "checked": 56,
   "sampled": 90,
-  "indexed": 55,
+  "indexed": 56,
   "notIndexed": [
    {
-    "url": "https://freshcalendars.com/news/college-basketball-2026-27-key-dates-season-start-march-madness-printable/",
+    "url": "https://freshcalendars.com/news/catholic-liturgical-calendar-2027-year-b/",
     "status": "not indexed",
-    "state": "Crawled - currently not indexed",
-    "age": 11
+    "state": "Excluded by ‘noindex’ tag",
+    "age": 3
    }
   ],
   "states": {
    "Submitted and indexed": 89,
-   "Crawled - currently not indexed": 1
+   "Excluded by ‘noindex’ tag": 1
   },
   "unknown": 0
  },
