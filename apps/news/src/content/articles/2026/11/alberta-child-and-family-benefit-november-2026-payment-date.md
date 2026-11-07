@@ -13,7 +13,7 @@ hero:
   src: ../../../../assets/news/alberta-child-and-family-benefit-november-2026-payment-date/alberta-child-and-family-benefit-november-2026-payment-date.webp
   alt: "Alberta Legislature Building in Edmonton among autumn trees, for the Alberta Child and Family Benefit November 2026 payment date"
   caption: "The Alberta Legislature Building in Edmonton, file photo. The Canada Revenue Agency lists Nov. 27, 2026 as the Alberta Child and Family Benefit payment date."
-  credit: "Photo: Chris Woodrich / Wikimedia Commons, cropped"
+  credit: "Photo: Chris Woodrich / Wikimedia Commons, cropped, edited"
   license:
     name: "CC BY-SA 4.0"
     url: "https://creativecommons.org/licenses/by-sa/4.0"
@@ -54,6 +54,23 @@ internalLinks:
     label: "Printable yearly calendar"
 related: [canada-benefit-payment-dates-november-december-2026-cpp-oas-ccb, ontario-trillium-benefit-november-2026-payment-date-otb]
 draft: false
+downloads:
+  - group: "Alberta Child and Family Benefit Maximums 2026-27 printables"
+    title: "Alberta Child and Family Benefit Maximums 2026-27"
+    description: "One page with the 2026-27 Alberta Child and Family Benefit maximums by number of children and the Nov. 27, 2026 payment date."
+    preview: ../../../../assets/news/alberta-child-and-family-benefit-2026/alberta-child-and-family-benefit-amounts-2026-27.png
+    alt: "Printable table of 2026-27 Alberta Child and Family Benefit maximums by number of children"
+    pdf: "/news/downloads/alberta-child-and-family-benefit-2026/alberta-child-and-family-benefit-amounts-2026-27.pdf"
+    png: "/news/downloads/alberta-child-and-family-benefit-2026/alberta-child-and-family-benefit-amounts-2026-27.png"
+    pages: 1
+  - group: "Alberta Child and Family Benefit Maximums 2026-27 printables"
+    title: "Alberta Child and Family Benefit Maximums 2026-27 (A4)"
+    description: "One page with the 2026-27 Alberta Child and Family Benefit maximums by number of children and the Nov. 27, 2026 payment date. A4 paper."
+    preview: ../../../../assets/news/alberta-child-and-family-benefit-2026/alberta-child-and-family-benefit-amounts-2026-27-a4.png
+    alt: "Printable table of 2026-27 Alberta Child and Family Benefit maximums by number of children, A4"
+    pdf: "/news/downloads/alberta-child-and-family-benefit-2026/alberta-child-and-family-benefit-amounts-2026-27-a4.pdf"
+    png: "/news/downloads/alberta-child-and-family-benefit-2026/alberta-child-and-family-benefit-amounts-2026-27-a4.png"
+    pages: 1
 assets:
   overlay: true
   kicker: "Alberta Child and Family Benefit · 2026"
@@ -103,7 +120,7 @@ The CRA's page shows four ACFB dates for 2026. We computed the weekdays.
 | August | Aug. 27, 2026 | Thursday |
 | November | Nov. 27, 2026 | Friday |
 
-The CRA says ACFB payments are made separately from Canada Child Benefit (CCB) payments and issued in August, November, February and May. For the CCB, CPP and OAS dates in the same months, see our [Canada benefit payment dates for November and December 2026](/news/canada-benefit-payment-dates-november-december-2026-cpp-oas-ccb/). Ontario's separate credit is covered in the [Ontario Trillium Benefit November 2026 story](/news/ontario-trillium-benefit-november-2026-payment-date-otb/).
+The CRA says ACFB payments are made separately from Canada Child Benefit (CCB) payments and issued in August, November, February and May. For the dates of CCB, Canada Pension Plan (CPP) and Old Age Security (OAS) payments in the same months, see our [Canada benefit payment dates for November and December 2026](/news/canada-benefit-payment-dates-november-december-2026-cpp-oas-ccb/). Ontario's separate credit is covered in the [Ontario Trillium Benefit November 2026 story](/news/ontario-trillium-benefit-november-2026-payment-date-otb/).
 
 ## What are the 2026-27 Alberta Child and Family Benefit maximums?
 
