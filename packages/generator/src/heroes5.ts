@@ -390,6 +390,13 @@ export const PUZZLE_HEROES: [string, string, string, string, string, string, str
   ["nyt-midi-crossword-answers-november-7-2026", "midi", "#13213a", "#fcd34d", "NYT Midi · Sat., Nov. 7, 2026", "NYT Midi answers", "A hint for every clue and the theme first, the full grid at the end."],
   ["nyt-crossword-answers-november-7-2026", "crossword", "#172033", "#c4b5fd", "NYT Crossword · Sat., Nov. 7, 2026", "NYT Crossword answers", "A hint for all 66 clues first, the full solved grid at the end."],
   ["nyt-letter-boxed-answer-hints-november-9-2026", "letterboxed", "#3d1f1a", "#93c5fd", "Letter Boxed · Mon., Nov. 9, 2026", "Letter Boxed hints", "Starting letters and word lengths first, the answer at the end."],
+  ["wordle-hint-answer-today-november-19-2026-1979", "wordle", "#121213", "#c9b458", "Wordle #1979 · Thu., Nov. 19, 2026", "Wordle hints today", "Six clues from gentle to strong, the answer only at the end."],
+  ["nyt-connections-hints-answers-november-19-2026-1257", "connections", "#2a1f12", "#f9df6d", "Connections #1257 · Thu., Nov. 19, 2026", "Connections hints", "Gentle hints for every group first, answers only at the end.", "nyt-connections-november-19-a"],
+  ["nyt-strands-hints-answers-november-19-2026-991", "strands", "#0f2f3a", "#aedfee", "Strands #991 · Thu., Nov. 19, 2026", "Strands hints today", "Spangram and theme-word hints first, answers at the end."],
+  ["nyt-pips-hints-answers-november-19-2026", "pips", "#1e293b", "#86efac", "Pips · Thu., Nov. 19, 2026", "Pips hints today", "Hints for Easy, Medium and Hard, placements at the end."],
+  ["nyt-spelling-bee-hints-answers-november-19-2026", "bee", "#1c1917", "#fde68a", "Spelling Bee · Thu., Nov. 19, 2026", "Spelling Bee hints", "Hint grid and two-letter list first, the word list at the end."],
+  ["nyt-letter-boxed-answer-hints-november-10-2026", "letterboxed", "#3d1f1a", "#fcd34d", "Letter Boxed · Tue., Nov. 10, 2026", "Letter Boxed hints", "Starting letters and word lengths first, the answer at the end."],
+  ["contexto-answer-hints-november-12-2026-1516", "contexto", "#0f172a", "#fda4af", "Contexto #1516 · Thu., Nov. 12, 2026", "Contexto hints", "Close words and hints first, the secret word only at the end."],
 ];
 
 export async function buildHeroes5(only?: string): Promise<void> {
