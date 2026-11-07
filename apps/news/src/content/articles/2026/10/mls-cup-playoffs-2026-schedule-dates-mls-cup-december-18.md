@@ -4,7 +4,7 @@ seoTitle: "MLS Cup Playoffs 2026 Schedule and Dates"
 description: "Major League Soccer (MLS) says MLS Cup 2026 is Fri., Dec. 18 and Decision Day is Sat., Nov. 7. See every playoff round by date, the format and where to watch."
 type: explainer
 publishedAt: "2026-10-25T20:18:00-04:00"
-updatedAt: "2026-10-31T11:43:00-04:00"
+updatedAt: "2026-11-07T15:25:00-05:00"
 authors: [jessica-hartwell]
 category: sports
 keywords: ["MLS Cup playoffs 2026 schedule", "MLS Cup 2026 date", "MLS playoffs 2026 format", "MLS Decision Day 2026"]
@@ -15,13 +15,14 @@ assets:
   date: "2026-12-18"
   card: { top: "MLS Cup Playoffs 2026", big: "MLS Cup Fri., Dec. 18", bottom: "Decision Day Nov. 7, all games on Apple TV" }
   printable:
+    noKit: "Round date ranges (Round One Game One Nov. 20 to 24) fit no kit; the fact sheet has no per-row source quotes."
     slug: mls-cup-playoffs-2026
     group: mls-playoffs-2026
     title: "MLS Cup Playoffs 2026 Schedule"
     subtitle: "Decision Day to MLS Cup, with every round dated"
     rows:
       - ["Sat., Nov. 7", "Decision Day"]
-      - ["Wed., Nov. 18", "Wild Card"]
+      - ["Thu., Nov. 19", "Wild Card"]
       - ["Fri., Nov. 20 to Tue., Nov. 24", "Round One, Game One"]
       - ["Fri., Nov. 27 to Sat., Nov. 28", "Round One, Game Two"]
       - ["Tue., Dec. 1 to Wed., Dec. 2", "Round One, Game Three (if necessary)"]
@@ -29,7 +30,6 @@ assets:
       - ["Fri., Dec. 11 to Sat., Dec. 12", "Conference Finals"]
       - ["Fri., Dec. 18", "MLS Cup presented by Audi"]
     note: "Source: Major League Soccer (mlssoccer.com). Dates subject to change."
-    inkSaver: true
     description: "Dated Major League Soccer 2026 playoff schedule from Decision Day on Nov. 7 to MLS Cup on Dec. 18, one page."
     alt: "Printable MLS Cup playoffs 2026 schedule timeline from Decision Day on Nov. 7 to MLS Cup on Dec. 18"
 hero:
@@ -45,7 +45,7 @@ hero:
     authorUrl: "https://www.flickr.com/photos/65699349@N00"
 summary:
   - "Major League Soccer (MLS) lists MLS Cup presented by Audi for Fri., Dec. 18, 2026, and Decision Day for Sat., Nov. 7."
-  - "The Wild Card is Wed., Nov. 18. Round One is a best-of-3 series from Fri., Nov. 20 to Wed., Dec. 2, then the conference semifinals and finals follow."
+  - "The Wild Card is Thu., Nov. 19. Round One is a best-of-3 series from Fri., Nov. 20 to Wed., Dec. 2, then the conference semifinals and finals follow."
   - "MLS says every playoff match is on Apple TV, and select games including MLS Cup also air on FOX Sports in the U.S. and on TSN and RDS in Canada."
   - "MLS says all dates are subject to change."
 faq:
@@ -88,18 +88,10 @@ downloads:
     pdf: "/news/downloads/mls-playoffs-2026/mls-cup-playoffs-2026.pdf"
     png: "/news/downloads/mls-playoffs-2026/mls-cup-playoffs-2026.png"
     pages: 1
-  - group: "MLS Cup Playoffs 2026 Schedule printables"
-    title: "MLS Cup Playoffs 2026 Schedule (ink saver)"
-    description: "Dated Major League Soccer 2026 playoff schedule from Decision Day on Nov. 7 to MLS Cup on Dec. 18, one page. Ink-saver version."
-    preview: ../../../../assets/news/mls-playoffs-2026/mls-cup-playoffs-2026-ink.png
-    alt: "Printable MLS Cup playoffs 2026 schedule timeline from Decision Day on Nov. 7 to MLS Cup on Dec. 18, ink-saver version"
-    pdf: "/news/downloads/mls-playoffs-2026/mls-cup-playoffs-2026-ink.pdf"
-    png: "/news/downloads/mls-playoffs-2026/mls-cup-playoffs-2026-ink.png"
-    pages: 1
 draft: false
 ---
 
-**Major League Soccer's (MLS) regular season ends on Decision Day, Saturday, Nov. 7, 2026 (Eastern Conference at 4 p.m. Eastern Time (ET), Western Conference at 7 p.m. ET), the playoffs start with Wild Card matches on Wednesday, Nov. 18, and MLS Cup presented by Audi is on Friday, Dec. 18, according to the league's official playoff key dates.** MLS announced the schedule on Mar. 16, 2026, and says the dates are subject to change.
+**Major League Soccer's (MLS) regular season ends on Decision Day, Saturday, Nov. 7, 2026 (Eastern Conference at 4 p.m. Eastern Time (ET), Western Conference at 7 p.m. ET), the playoffs start with Wild Card matches on Thursday, Nov. 19, and MLS Cup presented by Audi is on Friday, Dec. 18, according to the league's official playoff key dates.** MLS announced the schedule on Mar. 16, 2026, and says the dates are subject to change.
 
 This page lays out each round by date with its weekday, explains how the field is set, and says where the games air. A one-page printable of the timeline is below.
 
@@ -110,7 +102,7 @@ MLS publishes one date or range for each stage. Round One is a best-of-3 series 
 | Stage | Dates |
 |---|---|
 | Decision Day | Sat., Nov. 7 |
-| Wild Card | Wed., Nov. 18 |
+| Wild Card | Thu., Nov. 19 |
 | Round One, Game One | Fri., Nov. 20 to Tue., Nov. 24 |
 | Round One, Game Two | Fri., Nov. 27 to Sat., Nov. 28 |
 | Round One, Game Three (if necessary) | Tue., Dec. 1 to Wed., Dec. 2 |
@@ -122,7 +114,7 @@ Source: Major League Soccer, 2026. MLS has not yet announced playoff kickoff tim
 
 ## When is MLS Decision Day 2026?
 
-Decision Day is Sat., Nov. 7, 2026, per MLS, and all 30 clubs play: the East at 4 p.m. ET and the West at 7 p.m. ET. After it, MLS says it will observe the November Fédération Internationale de Football Association (FIFA) international window, and the Wild Card does not start until Wed., Nov. 18.
+Decision Day is Sat., Nov. 7, 2026, per MLS, and all 30 clubs play: the East at 4 p.m. ET and the West at 7 p.m. ET. After it, MLS says it will observe the November Fédération Internationale de Football Association (FIFA) international window, and the Wild Card does not start until Thu., Nov. 19.
 
 ## How does the MLS playoffs 2026 format work?
 
@@ -136,7 +128,7 @@ MLS names the host rule for every round. The Wild Card and Round One dates are t
 
 | Round | Dates | Who hosts |
 |---|---|---|
-| Wild Card (No. 8 vs. No. 9 seed, single game) | Wed., Nov. 18 | The higher seed; winners face their conference's No. 1 seed |
+| Wild Card (No. 8 vs. No. 9 seed, single game) | Thu., Nov. 19 | The higher seed; winners face their conference's No. 1 seed |
 | Round One, Game One (best-of-3) | Fri., Nov. 20 to Tue., Nov. 24 | The higher seed |
 | Round One, Game Two | Fri., Nov. 27 to Sat., Nov. 28 | The lower seed |
 | Round One, Game Three (if necessary) | Tue., Dec. 1 to Wed., Dec. 2 | The higher seed |
