@@ -4,6 +4,7 @@ seoTitle: "Pearl Harbor Remembrance Day 2026: Dec. 7 Flags"
 description: "National Pearl Harbor Remembrance Day 2026 is Monday, Dec. 7, the 85th anniversary. Federal law asks for half-staff flags; it is not a federal holiday."
 type: explainer
 publishedAt: "2026-11-02T12:58:00-05:00"
+updatedAt: "2026-11-07T05:30:00-05:00"
 authors: [christina-gerland]
 category: holidays
 keywords: ["pearl harbor remembrance day 2026", "flags half staff december 7 2026", "pearl harbor day 2026", "is pearl harbor day a federal holiday", "85th anniversary pearl harbor"]
@@ -18,8 +19,8 @@ assets:
     group: pearl-harbor-remembrance-day-2026
     title: "Pearl Harbor Remembrance Day 2026 Flag Checklist"
     subtitle: "Monday, Dec. 7, 2026: half-staff steps and what to check"
+    noKit: "Flag half-staff steps and a ceremony-time check, not a dated kit list"
     notesLabel: "Notes"
-    inkSaver: true
     rows:
       - { when: "Mon., Dec. 7", what: "National Pearl Harbor Remembrance Day, 85th anniversary", section: "The date" }
       - { when: "Mon., Dec. 7", what: "Law asks for the U.S. flag at half-staff each December 7", section: "The date" }
@@ -27,9 +28,10 @@ assets:
       - { when: "", what: "Hoist the flag to the peak for an instant", section: "How to half-staff" }
       - { when: "", what: "Then lower it to the half-staff position", section: "How to half-staff" }
       - { when: "", what: "Raise it to the peak again before lowering it for the day", section: "How to half-staff" }
-      - { when: "", what: "Check for the 2026 proclamation (not issued as of Nov. 2)", section: "Check" }
-      - { when: "", what: "Check nps.gov/perl for the ceremony time and livestream", section: "Check" }
-    note: "Source: 36 U.S. Code 129; 4 U.S. Code 7; National Park Service, Pearl Harbor National Memorial; Proclamation 10996 (2025)."
+      - { when: "", what: "Check for the 2026 proclamation (not issued as of Nov. 7)", section: "Check" }
+      - { when: "", what: "Ceremony: 7:30 a.m. Hawaii time (12:30 p.m. ET, 9:30 a.m. PT)", section: "Check" }
+      - { when: "", what: "Check nps.gov/perl for its own schedule and the livestream", section: "Check" }
+    note: "Source: 36 U.S. Code 129; 4 U.S. Code 7; National Park Service; Pacific Historic Parks; Honolulu Star-Advertiser; Proclamation 10996 (2025)."
     description: "One-page Pearl Harbor Remembrance Day 2026 checklist: Monday, Dec. 7, what the law asks, flag half-staff steps and what to check."
     alt: "Printable Pearl Harbor Remembrance Day 2026 flag checklist with tick boxes for half-staff steps and items to check"
 hero:
@@ -44,18 +46,18 @@ hero:
     author: "NPS photo"
 summary:
   - "National Pearl Harbor Remembrance Day 2026 is Monday, Dec. 7, the 85th anniversary of the 1941 attack."
-  - "Federal law asks for the U.S. flag at half-staff each Dec. 7 and for a yearly presidential proclamation; the 2026 proclamation has not been issued as of Nov. 2."
+  - "Federal law asks for the U.S. flag at half-staff each Dec. 7 and for a yearly presidential proclamation; the 2026 proclamation has not been issued as of Nov. 7."
   - "Dec. 7 is not on the federal holiday list, so it is a regular workday for federal offices."
-  - "The National Park Service has not posted the 2026 ceremony time; last year's program started at 7:50 a.m. Hawaii Standard Time, which is 12:50 p.m. Eastern."
+  - "The National Pearl Harbor Remembrance Ceremony starts at 7:30 a.m. Hawaii time on Dec. 7 (12:30 p.m. Eastern, 9:30 a.m. Pacific) and runs to 9 a.m., per Pacific Historic Parks; the National Park Service has not posted its own schedule as of Nov. 7."
 faq:
   - q: "Is Pearl Harbor Day a federal holiday?"
     a: "No. The Office of Personnel Management (OPM) 2026 federal holiday list does not include Dec. 7, so federal offices keep a normal Monday schedule."
   - q: "Should flags be at half-staff on Dec. 7, 2026?"
-    a: "Federal law asks the President to call on federal agencies and the public to fly the U.S. flag at half-staff each December 7. The 2026 proclamation had not been issued as of Nov. 2, so check it closer to the date."
+    a: "Federal law asks the President to call on federal agencies and the public to fly the U.S. flag at half-staff each December 7. The 2026 proclamation had not been issued as of Nov. 7, so check it closer to the date."
   - q: "Does the law say what time the flag goes down and comes back up?"
     a: "No. The law says each December 7 and leaves the details to the yearly proclamation."
   - q: "What time is the Pearl Harbor ceremony in 2026?"
-    a: "The National Park Service (NPS) had not posted the 2026 schedule or livestream as of Nov. 2. In 2025, the 84th Anniversary Commemorative Program ran 7:50 to 9 a.m. Hawaii Standard Time."
+    a: "The National Pearl Harbor Remembrance Ceremony starts at 7:30 a.m. Hawaii Standard Time (HST) on Monday, Dec. 7, which is 12:30 p.m. Eastern Time (ET) and 9:30 a.m. Pacific Time (PT). Pacific Historic Parks lists it as 7:30 to 9 a.m., open to the public, with a livestream or recording. The National Park Service (NPS) had not posted its own 2026 schedule as of Nov. 7."
   - q: "How many people died at Pearl Harbor?"
     a: "It depends on the source. The NPS says 2,390 Americans, 2,341 service members and 49 civilians, lost their lives. The 2025 presidential proclamation says 2,403 American service members and civilians."
 sources:
@@ -84,6 +86,13 @@ sources:
     url: "https://www.nps.gov/perl/index.htm"
     publisher: "National Park Service"
     date: "2026-07-30"
+  - title: "Memorial events for Pearl Harbor anniversary announced"
+    url: "https://www.staradvertiser.com/2026/10/11/hawaii-news/memorial-events-for-pearl-harbor-anniversary-announced/"
+    publisher: "Honolulu Star-Advertiser"
+    date: "2026-10-11"
+  - title: "National Pearl Harbor Remembrance Ceremony"
+    url: "https://www.pacifichistoricparks.org/event-details/national-pearl-harbor-remembrance-ceremony"
+    publisher: "Pacific Historic Parks"
   - title: "Official U.S. time by zone"
     url: "https://time.gov/"
     publisher: "National Institute of Standards and Technology"
@@ -101,19 +110,11 @@ downloads:
     pdf: "/news/downloads/pearl-harbor-remembrance-day-2026/pearl-harbor-remembrance-day-2026-flag-checklist.pdf"
     png: "/news/downloads/pearl-harbor-remembrance-day-2026/pearl-harbor-remembrance-day-2026-flag-checklist.png"
     pages: 1
-  - group: "Pearl Harbor Remembrance Day 2026 Flag Checklist printables"
-    title: "Pearl Harbor Remembrance Day 2026 Flag Checklist (ink saver)"
-    description: "One-page Pearl Harbor Remembrance Day 2026 checklist: Monday, Dec. 7, what the law asks, flag half-staff steps and what to check. Ink-saver version."
-    preview: ../../../../assets/news/pearl-harbor-remembrance-day-2026/pearl-harbor-remembrance-day-2026-flag-checklist-ink.png
-    alt: "Printable Pearl Harbor Remembrance Day 2026 flag checklist with tick boxes for half-staff steps and items to check, ink-saver version"
-    pdf: "/news/downloads/pearl-harbor-remembrance-day-2026/pearl-harbor-remembrance-day-2026-flag-checklist-ink.pdf"
-    png: "/news/downloads/pearl-harbor-remembrance-day-2026/pearl-harbor-remembrance-day-2026-flag-checklist-ink.png"
-    pages: 1
 draft: false
 related: [veterans-day-2026-wednesday-november-11, bill-of-rights-day-2026-december-15, december-2026-important-dates-holidays-days-until]
 ---
 
-**National Pearl Harbor Remembrance Day 2026 is Monday, Dec. 7, the 85th anniversary of the 1941 attack, and federal law asks that the U.S. flag fly at half-staff that day.** The law, 36 U.S. Code § 129 (Cornell Legal Information Institute), says "December 7 is National Pearl Harbor Remembrance Day." It is not a federal holiday. The 2026 presidential proclamation had not been issued as of Nov. 2, 2026.
+**National Pearl Harbor Remembrance Day 2026 is Monday, Dec. 7, the 85th anniversary of the 1941 attack, and federal law asks that the U.S. flag fly at half-staff that day.** The law, 36 U.S. Code § 129 (Cornell Legal Information Institute), says "December 7 is National Pearl Harbor Remembrance Day." It is not a federal holiday. The 2026 presidential proclamation had not been issued as of Nov. 7, 2026.
 
 ## What federal law says about Dec. 7
 
@@ -130,7 +131,7 @@ No. The Office of Personnel Management (OPM) 2026 federal holiday list does not 
 
 ## Has the 2026 proclamation been issued?
 
-Not as of Nov. 2, 2026. Last year, Proclamation 10996, "National Pearl Harbor Remembrance Day, 2025," was signed Dec. 5, 2025 and published in the Federal Register on Dec. 10, 2025. It said "I do hereby proclaim December 7, 2025, as National Pearl Harbor Remembrance Day" and asked all to "fly the flag of the United States at half-staff in honor of those American patriots who died." It added that "the surprise offensive claimed the lives of 2,403 American service members and civilians."
+Not as of Nov. 7, 2026. Last year, Proclamation 10996, "National Pearl Harbor Remembrance Day, 2025," was signed Dec. 5, 2025 and published in the Federal Register on Dec. 10, 2025. It said "I do hereby proclaim December 7, 2025, as National Pearl Harbor Remembrance Day" and asked all to "fly the flag of the United States at half-staff in honor of those American patriots who died." It added that "the surprise offensive claimed the lives of 2,403 American service members and civilians."
 
 In 2025, then, the proclamation was signed two days before the date and appeared in the Federal Register three days after it. Check the Federal Register for the 2026 text.
 
@@ -140,22 +141,24 @@ In 2025, then, the proclamation was signed two days before the date and appeared
 
 ## When is the Pearl Harbor ceremony, and what time is it in your zone?
 
-The National Park Service (NPS) runs the commemoration at Pearl Harbor National Memorial. Its page, updated July 30, 2026, had not posted the 2026 schedule, start time or livestream as of Nov. 2.
+The National Pearl Harbor Remembrance Ceremony starts at 7:30 a.m. Hawaii Standard Time (HST) on Monday, Dec. 7, 2026. Pacific Historic Parks, the memorial's nonprofit partner, lists the event as "Dec 07, 2026," "7:30 AM – 9:00 AM," open to the public, with a livestream or recording available. The Honolulu Star-Advertiser reported on Oct. 11, 2026 that the ceremony begins at 7:30 a.m. and that events run "from Dec. 6 to 8 at the Pearl Harbor National Memorial and other sites."
 
-In 2025, for the 84th anniversary, the NPS listed a "7:50- 9 a.m. HST 84th Anniversary Commemorative Program," with gates opening at 6 a.m. and a United States Ship (USS) Oklahoma ceremony from 1 to 2 p.m. HST. Livestream links were posted. Hawaii Standard Time (HST) is 10 hours behind Coordinated Universal Time (UTC-10), and Hawaii does not use daylight saving time. In December, Eastern Time (ET) is UTC-5, so HST runs 5 hours behind ET. This table converts last year's program start; the 2026 time may differ.
+The National Park Service (NPS) runs the memorial. Its page, updated July 30, 2026, had not posted its own 2026 schedule or livestream as of Nov. 7. HST is 10 hours behind Coordinated Universal Time (UTC-10), and Hawaii does not use daylight saving time. In December, Eastern Time (ET) is UTC-5, so HST runs 5 hours behind ET. The table converts the 7:30 to 9 a.m. window.
 
-| Zone | 2025 program start | 2025 gates open |
+| Zone | 2026 ceremony start | 2026 ceremony end |
 |---|---|---|
-| Hawaii | 7:50 a.m. | 6:00 a.m. |
-| Alaska | 8:50 a.m. | 7:00 a.m. |
-| Pacific | 9:50 a.m. | 8:00 a.m. |
-| Mountain | 10:50 a.m. | 9:00 a.m. |
-| Central | 11:50 a.m. | 10:00 a.m. |
-| Eastern | 12:50 p.m. | 11:00 a.m. |
+| Hawaii | 7:30 a.m. | 9:00 a.m. |
+| Alaska | 8:30 a.m. | 10:00 a.m. |
+| Pacific | 9:30 a.m. | 11:00 a.m. |
+| Mountain | 10:30 a.m. | 12:00 p.m. |
+| Central | 11:30 a.m. | 1:00 p.m. |
+| Eastern | 12:30 p.m. | 2:00 p.m. |
+
+For comparison, in 2025 the NPS listed a "7:50- 9 a.m. HST 84th Anniversary Commemorative Program," with gates opening at 6 a.m.
 
 ## How many people died at Pearl Harbor?
 
-Counts differ by source, and this story gives each as the source states it. The NPS says "2,390 Americans, including both service members and civilians, lost their lives": 2,341 service members and 49 civilians (page updated Sept. 20, 2024). It lists 1,177 service members who died on the USS Arizona and 429 fatalities on the USS Oklahoma. The 2025 proclamation says 2,403 American service members and civilians.
+Counts differ by source, and this story gives each as the source states it. The NPS says "2,390 Americans, including both service members and civilians, lost their lives": 2,341 service members and 49 civilians (page updated Sept. 20, 2024). It lists 1,177 service members who died on the United States Ship (USS) Arizona and 429 fatalities on the USS Oklahoma. The 2025 proclamation says 2,403 American service members and civilians.
 
 ## Dec. 7 weekdays, 2026 to 2031
 
