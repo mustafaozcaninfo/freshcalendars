@@ -4,7 +4,7 @@ seoTitle: "Runoff Election 2026 Dates: Georgia and Louisiana"
 description: "Georgia's runoff, if needed, is Tuesday, Dec. 1, 2026; Louisiana's second round is Saturday, Dec. 12. Deadlines for each state, with a printable."
 type: news
 publishedAt: "2026-10-30T19:45:00-04:00"
-updatedAt: "2026-11-05T11:25:00-05:00"
+updatedAt: "2026-11-06T19:25:00-05:00"
 authors: [christina-gerland]
 category: elections
 keywords: ["runoff election 2026 dates", "georgia runoff 2026 date", "when is the georgia runoff", "louisiana december 12 election"]
@@ -90,7 +90,7 @@ sources:
   - title: "Election Dates"
     url: "https://www.sos.la.gov/elections-voting/election-dates"
     publisher: "Louisiana Secretary of State"
-    date: "2026-10-30"
+    date: "2026-11-06"
   - title: "2026 Elections (calendar, revised 07/2026)"
     url: "https://www.sos.la.gov/media/p31j4zkc/elections-calendar-2026.pdf"
     publisher: "Louisiana Secretary of State"
@@ -197,6 +197,19 @@ The Louisiana Secretary of State's Election Dates page lists Nov. 3 as "U.S. Sen
 | Mail ballot must be received | Fri., Dec. 11, by 4:30 p.m. |
 
 As of Nov. 5, two Louisiana congressional districts go to the Saturday, Dec. 12 runoff. The Rapides Parish Journal and KPLC reported that the 5th District runoff is between state Rep. Patricia "Pat" Moore (Democrat) and state Rep. Gabe Firment (Republican). WAFB (Nov. 3) and WBRZ (Nov. 4) reported that the 6th District runoff is between Chauna Banks (Democrat) and Blake Miguez (Republican). The Rapides Parish Journal and KPLC said no candidate won more than 50% in the nine-candidate Nov. 3 open primary in the 5th District. The Rapides Parish Journal noted that "all results from the Nov. 3 election remain unofficial and subject to certification." The Louisiana Secretary of State had not posted a runoff list we could open, so other contests may be added to the Dec. 12 ballot.
+
+The Dec. 12 vote is only the first round for the 14th Senatorial District seat in East Baton Rouge Parish. The same Secretary of State page lists a "January 9, 2027 - Special General (State Senator, 14th Senatorial District, Parish of East Baton Rouge) Election."
+
+| Louisiana deadline for the Jan. 9, 2027 special general (Senate District 14) | Date |
+|---|---|
+| Register in person, by mail or at an OMV office | Wed., Dec. 9, 2026 |
+| Register online (GeauxVote) | Sat., Dec. 19, 2026 |
+| Early voting, 8:30 a.m. to 6 p.m. | Wed., Dec. 23, 2026-Sat., Jan. 2, 2027, except Dec. 24, Dec. 25, Dec. 27, Dec. 31 and Jan. 1 |
+| Request a mail ballot | Tue., Jan. 5, 2027, by 4:30 p.m. |
+| Mail ballot must be received | Fri., Jan. 8, 2027, by 4:30 p.m. |
+| Election day, polls open 7 a.m. to 8 p.m. | Sat., Jan. 9, 2027 |
+
+The mail ballot deadlines on that page do not apply to military and overseas voters.
 
 Louisiana readers can also look at our [Louisiana sample ballot guide](/news/louisiana-sample-ballot-2026-senate-amendments/) for the Nov. 3 ballot.
 
