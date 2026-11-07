@@ -3,6 +3,7 @@
 //   - /news/downloads/*  printables, read from R2 with the story canonical as a Link header, and kept
 //                        in the edge cache under their content hash (a new file, a new entry);
 //   - /api/contact       the contact form (Turnstile, then email to the owner and a copy in R2);
+//   - /api/pv            the first-party page-view beacon (Workers Analytics Engine, see pageView);
 //   - anything no file answers: old calendar URLs (301) or the site's 404 page.
 // Its cron trigger starts the timed GitHub Actions jobs (cron.js).
 // Everything else that used to need PHP or nginx (/news/ 301s, image moves) is in _redirects.
@@ -26,6 +27,7 @@ export default {
     const path = url.pathname;
     try {
       if (path === "/api/contact" || path === "/api/contact.php") return await contact(request, env, ctx);
+      if (path === "/api/pv") return await pageView(request, env);
       if (path.startsWith("/news/downloads/")) return await download(request, env, path, ctx);
       const target = legacyRedirect(path, url.search);
       if (target) return Response.redirect(target, 301);
@@ -200,4 +202,47 @@ async function mailOwner(env, r) {
     subject,
     text,
   });
+}
+
+const PV_BOTS = /bot|crawl|spider|slurp|headless|lighthouse|pagespeed|preview|monitor|curl|wget|python|axios|node-fetch|go-http/i;
+const PV_MOBILE = /Mobi|Android|iPhone|iPod/i;
+const PV_TABLET = /iPad|Tablet/i;
+
+/**
+ * First-party page-view beacon. News pages send one small POST when the reader leaves or hides the
+ * tab (sendBeacon on pagehide or visibilitychange), so ad blockers, late gtag.js and readers who
+ * leave in two seconds are all counted, and bots that run no JavaScript are not. Stored in the
+ * Workers Analytics Engine dataset fc_pageviews (binding PV, three months, read by
+ * scripts/news-traffic.mjs): blob1 path, blob2 referrer host, blob3 country, blob4 device;
+ * double1 seconds on page (capped at 30 minutes, so a tab left open does not skew averages), double2 deepest scroll in percent. No cookie, no IP, no user id.
+ * Always answers 204 so a refused or broken beacon never shows an error to the reader.
+ */
+export async function pageView(request, env) {
+  const done = new Response(null, { status: 204, headers: { "Cache-Control": "no-store" } });
+  if (request.method !== "POST" || !env.PV) return done;
+  const site = request.headers.get("Sec-Fetch-Site");
+  const origin = request.headers.get("Origin");
+  if (site ? site !== "same-origin" : origin && origin !== new URL(request.url).origin) return done;
+  const ua = request.headers.get("User-Agent") || "";
+  if (!ua || PV_BOTS.test(ua)) return done;
+  const raw = await request.text();
+  if (raw.length > 1024) return done;
+  let d;
+  try { d = JSON.parse(raw); } catch { return done; }
+  const p = typeof d.p === "string" ? d.p : "";
+  if (!/^\/[\w\-./%]{0,200}$/.test(p)) return done;
+  const ref = typeof d.r === "string" && /^[a-z0-9.-]{1,100}$/i.test(d.r) ? d.r.toLowerCase() : "";
+  const num = (v, max) => (Number.isFinite(v) ? Math.max(0, Math.min(max, Math.round(v))) : 0);
+  const device = PV_TABLET.test(ua) ? "tablet" : PV_MOBILE.test(ua) ? "mobile" : "desktop";
+  try {
+    env.PV.writeDataPoint({
+      indexes: [p.slice(0, 96)],
+      blobs: [p, ref, (request.cf && request.cf.country) || "", device],
+      doubles: [num(d.t, 1800), num(d.s, 100)],
+    });
+  } catch (err) {
+    // Over the free daily allowance or a dataset error: drop the view, never the page.
+    console.error("pv", err && err.message ? err.message : err);
+  }
+  return done;
 }

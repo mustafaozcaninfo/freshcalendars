@@ -39,13 +39,24 @@ jobs:
         env:
           CF_ANALYTICS_TOKEN: ${{ secrets.CF_ANALYTICS_TOKEN }}
           CF_ZONE_ID: ${{ secrets.CF_ZONE_ID }}
+          CF_AE_TOKEN: ${{ secrets.CF_AE_TOKEN }}
+          CF_ACCOUNT_ID: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
         run: node scripts/news-traffic.mjs
+      - name: Read Microsoft Clarity
+        # Per page, channel and device for the last 24 hours (scripts/news-clarity.mjs, 3 of the
+        # API's 10 daily requests); optional, a refused request leaves the old report in place.
+        continue-on-error: true
+        env:
+          CLARITY_API_TOKEN: ${{ secrets.CLARITY_API_TOKEN }}
+        run: node scripts/news-clarity.mjs
       - name: Commit the data
         run: |
           # The identity must be set for the whole step: the rebase below re-commits when main has moved.
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add docs/desk/search-console.json docs/desk/search-console.md docs/desk/traffic.json docs/desk/traffic.md 2>/dev/null || git add docs/desk/search-console.json docs/desk/search-console.md
+          for f in search-console.json search-console.md traffic.json traffic.md clarity.json clarity.md; do
+            if [ -f "docs/desk/$f" ]; then git add "docs/desk/$f"; fi
+          done
           if git diff --cached --quiet; then echo "nothing new"; exit 0; fi
           git commit -q -m "desk: Search Console data of $(date -u +%F)"
           for i in 1 2 3; do
