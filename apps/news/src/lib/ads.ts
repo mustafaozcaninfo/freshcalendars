@@ -73,9 +73,12 @@ export const ADS_LOADER_JS = `
     slots.forEach(function(ins){ if(ins.offsetWidth) near.observe(ins); });
   } else slots.forEach(push);
   // AdSense first sizes a responsive unit to its largest candidate, then shrinks it to the ad it
-  // serves; a slot keeps the tallest height it reached, so content below never jumps up.
+  // serves; a slot keeps the tallest height it reached, so content below never jumps up. The new
+  // min-height is set in the next frame: setting it inside the callback resized the observed slot
+  // in the same frame, and browsers reported "ResizeObserver loop completed with undelivered
+  // notifications" in 98% of sessions (Clarity, Nov. 7, 2026).
   if('ResizeObserver' in window){
-    var ro=new ResizeObserver(function(es){ es.forEach(function(e){ var s=e.target, h=s.offsetHeight; if(h>(+s.dataset.maxh||0)){ s.dataset.maxh=h; s.style.minHeight=h+'px'; } }); });
+    var ro=new ResizeObserver(function(es){ requestAnimationFrame(function(){ es.forEach(function(e){ var s=e.target, h=s.offsetHeight; if(h>(+s.dataset.maxh||0)){ s.dataset.maxh=h; s.style.minHeight=h+'px'; } }); }); });
     [].forEach.call(document.querySelectorAll('.ad-slot'),function(s){ if(s.offsetWidth) ro.observe(s); });
   }
   // An unfilled unit (not the top unit or the banner) collapses only while it is off screen, so the story the
