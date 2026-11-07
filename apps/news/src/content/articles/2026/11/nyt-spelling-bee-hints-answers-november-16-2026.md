@@ -1,6 +1,6 @@
 ---
 title: "NYT Spelling Bee Hints and Answers for Monday, Nov. 16, 2026: 21 Words, Genius Is 68 Points"
-seoTitle: "Spelling Bee Hints & Answers Today, Nov. 16, 2026"
+seoTitle: "Spelling Bee Hints & Answers Today, November 16, 2026"
 description: "Monday's Spelling Bee from The New York Times (NYT) for Nov. 16, 2026: center C, 21 words, 97 points, Genius at 68, a points split and a pangram clue."
 type: explainer
 publishedAt: "2026-11-15T00:05:00-05:00"

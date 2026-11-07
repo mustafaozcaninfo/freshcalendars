@@ -1,6 +1,6 @@
 ---
 title: "Wordle Hints and Answer Today, #1978 for Wednesday, Nov. 18, 2026: Clues, Then a Repeat"
-seoTitle: "Wordle Hint Today, #1978 (Nov. 18, 2026): Clues & Answer"
+seoTitle: "Wordle #1978 Hints & Answer Today, November 18, 2026"
 description: "Wordle #1978 for Wednesday, Nov. 18, 2026: five graded clues, a check of whether the word was an answer before, and its letters against every past answer."
 type: explainer
 publishedAt: "2026-11-17T00:05:00-05:00"

@@ -737,6 +737,10 @@ const { SIMILAR_SINCE, SIMILAR_MAX, similarityProblems, modelProblems } = await 
 const similar = similarityProblems(ARTICLES_SRC);
 check("13-PUZZLE-MODEL", `Daily puzzle pages for ${SIMILAR_SINCE} on: written in the new model (no rules section on the page; the hub's rules linked with #how-it-works)`, () => modelProblems(ARTICLES_SRC));
 check("13-PUZZLE-SIMILAR", `Daily puzzle pages for ${SIMILAR_SINCE} on: under ${SIMILAR_MAX} of their three-word runs shared with any of the previous three pages of the same game (Markdown source, scheduled pages included)`, () => similar.fails);
+const { titleProblems } = await import("./news-puzzle-titles.mjs");
+const { TITLE_SINCE } = await import("./lib/puzzle-titles.mjs");
+check("13-PUZZLE-TITLE", `Daily puzzle pages for ${TITLE_SINCE} on carry the standard seoTitle: game, number, "Hints & Answers Today", month spelled out (scripts/lib/puzzle-titles.mjs; fix with node scripts/news-puzzle-titles.mjs)`, () =>
+  titleProblems(ARTICLES_SRC).map(([, slug, cur, want]) => `${slug}: "${cur}" should be "${want}"`));
 warn("13-PUZZLE-SIMILAR-NEAR", "Daily puzzle pages drifting toward the similarity limit (0.25 to 0.35 shared with a recent page): rewrite the repeated sentences before they fail — review", () =>
   similar.near.length ? [`${similar.near.length} pages`, ...similar.near.slice(0, 10)] : []);
 warn("13-PUZZLE-SIMILAR-OLD", "Older daily puzzle pages that repeat the previous days' text (rewrite when you update them) — informational", () =>

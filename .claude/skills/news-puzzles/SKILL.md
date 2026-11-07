@@ -55,7 +55,7 @@ The headline, `seoTitle`, description, key points, hero text, lede, and every se
 
 ### Titles match the query
 
-`seoTitle` carries both words people type: `Connections Hints & Answers Today, Nov. 2, 2026 (#1240)`, `Strands Hints, Spangram & Answers, …`, `Pips Hints & Answers, …: Easy, Medium, Hard`, `Spelling Bee Hints & Answers Today, …`, `Wordle Hint Today, #N (…): Clues & Answer`. 60 characters at most.
+`seoTitle` is not written by hand: `node scripts/news-puzzle-titles.mjs` sets it for every page from Nov. 9, 2026 on, and audit `13-PUZZLE-TITLE` fails a page that differs. The formula (`scripts/lib/puzzle-titles.mjs`) is the game, its number, what the page gives, "Today" and the date with the month spelled out, the first that fits in 60 characters: `Connections #1245 Hints & Answers Today, November 7, 2026`, `Spelling Bee Hints & Answers Today, November 7, 2026`. Search Console shows readers type the full month name and the puzzle number. The `title` (the H1) keeps the AP date style and the day's angle.
 
 What we add that most results lack: the guess testers and one-answer reveals, the drawn solved boards, Pips placements checked cell by cell and region-by-region Pips hints, trap explanations for Connections, the Spelling Bee hint grid with points and Genius and its found-words tracker, the Wordle used-word checker, every two-word Letter Boxed solution, and yesterday's solution on the same page. Connections: Sports Edition readers often do not know the names: after its answers, add one line per group saying who or what each entry is ("quarterbacks who won a Super Bowl with the Rams"), using only facts confirmed on a league, team or other authoritative page. No competitor does this. Keep adding: a fact others missed (a repeated Wordle answer, a double letter, a rare pangram) belongs in the summary.
 
@@ -89,6 +89,7 @@ Two scheduled routines run this workflow every day (`docs/PUZZLE-ROUTINES.md`): 
 5. **Check**, all must pass:
 
    ```bash
+   node scripts/news-puzzle-titles.mjs   # sets the standard seoTitle on every new page (13-PUZZLE-TITLE)
    pnpm news:puzzle-check          # answers vs saved official data (seconds; run it after every edit)
    pnpm news:build && pnpm news:verify && pnpm news:seo-audit && pnpm test
    ```

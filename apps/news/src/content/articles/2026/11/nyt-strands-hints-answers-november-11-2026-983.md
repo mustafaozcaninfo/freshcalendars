@@ -1,6 +1,6 @@
 ---
 title: "NYT Strands #983 for Wednesday, Nov. 11, 2026: Hints, Spangram Route and Answers"
-seoTitle: "Strands #983 Hints and Answers, Nov. 11, 2026"
+seoTitle: "Strands #983 Hints & Answers Today, November 11, 2026"
 description: "Strands #983, Wednesday, Nov. 11, 2026: clue \"Work it out.\" Hints for the spangram and six theme words, a map of the spangram's route, and answers last."
 type: explainer
 publishedAt: "2026-11-10T00:05:00-05:00"

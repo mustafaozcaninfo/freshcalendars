@@ -1,6 +1,6 @@
 ---
 title: "NYT Pips Hints and Answers for Wednesday, Nov. 18, 2026: Easy, Medium and Hard Boards Solved"
-seoTitle: "Pips Hints & Answers, Nov. 18, 2026: Easy, Medium, Hard"
+seoTitle: "NYT Pips Hints & Answers Today, November 18, 2026"
 description: "Pips for Wednesday, Nov. 18, 2026: each board's domino inventory, the move it forces, two hints per level, then every domino placement."
 type: explainer
 publishedAt: "2026-11-17T00:05:00-05:00"

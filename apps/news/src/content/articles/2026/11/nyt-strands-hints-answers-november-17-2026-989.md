@@ -1,6 +1,6 @@
 ---
 title: "NYT Strands Hints and Answers for Tuesday, Nov. 17, 2026 (#989): Spangram and Six Theme Words"
-seoTitle: "Strands Hints, Spangram & Answers, Nov. 17, 2026 (#989)"
+seoTitle: "Strands #989 Hints & Answers Today, November 17, 2026"
 description: "Strands #989 for Tuesday, Nov. 17, 2026, clue 'It's going down': graded hints, a board map and the answers for the spangram and six theme words in a spoiler."
 type: explainer
 publishedAt: "2026-11-16T00:05:00-05:00"

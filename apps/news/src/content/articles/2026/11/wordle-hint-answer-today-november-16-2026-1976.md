@@ -1,6 +1,6 @@
 ---
 title: "Wordle Hints and Answer Today, #1976 for Monday, Nov. 16, 2026: Clues, Then the Full-History Check"
-seoTitle: "Wordle Hint Today, #1976 (Nov. 16, 2026): Clues & Answer"
+seoTitle: "Wordle #1976 Hints & Answer Today, November 16, 2026"
 description: "Wordle #1976 for Monday, Nov. 16, 2026: six graded clues, then the answer checked against every past Wordle answer, with near matches, in a spoiler section."
 type: explainer
 publishedAt: "2026-11-15T00:05:00-05:00"

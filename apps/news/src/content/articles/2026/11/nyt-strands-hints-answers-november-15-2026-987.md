@@ -1,6 +1,6 @@
 ---
 title: "Strands #987, Sunday, Nov. 15, 2026: Hints for Five Theme Words and the Spangram"
-seoTitle: "Strands Hints, Nov. 15, 2026 (#987) and Answers"
+seoTitle: "Strands #987 Hints & Answers Today, November 15, 2026"
 description: "Stuck on Strands #987 (Sunday, Nov. 15, 2026, a Gotham rogues' gallery)? Hints for the spangram and theme words, a board map, and answers at the end."
 type: explainer
 publishedAt: "2026-11-14T00:05:00-05:00"

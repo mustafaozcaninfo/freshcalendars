@@ -602,6 +602,16 @@ const puzzleDay = pzThis ? {
           render(nice + " added, " + pts(w) + (pts(w) === 1 ? " point" : " points") + (pang.has(w) ? ". That is a pangram!" : "."));
         });
         bt.querySelector("[data-bee-reset]").addEventListener("click", () => { found = []; save(); render("Your list is cleared."); });
+        // Hint: the shortest word not found yet, first its start and length, then the word on a second tap.
+        let hinted = null, step = 0;
+        bt.querySelector("[data-bee-hint]").addEventListener("click", () => {
+          const left = words.filter((w) => !found.includes(w)).sort((a, b) => a.length - b.length || a.localeCompare(b));
+          if (!left.length) return render("You have found every word.");
+          if (hinted !== left[0]) { hinted = left[0]; step = 0; }
+          step++;
+          const nice = hinted[0] + hinted.slice(1).toLowerCase();
+          render(step === 1 ? "Try a " + hinted.length + "-letter word that starts with " + nice.slice(0, 2) + ". Tap again to see it." : "The word is " + nice + ". Type it in to add it to your list.");
+        });
         render(); show(bt);
       }
 
@@ -636,28 +646,52 @@ const puzzleDay = pzThis ? {
       const wt = document.querySelector("[data-wordle-try]");
       if (wt) {
         const ans = unhide(wt.dataset.k), input = wt.querySelector("input"), out = wt.querySelector(".tool-out");
-        const rows = [];
+        const kb = wt.querySelector(".pz-kb"), tkey = "fc-wordle-try-" + wt.dataset.date;
+        const rows = [], tested = [];
+        const RANK = { gray: 1, yellow: 2, green: 3 };
+        // On-screen keyboard: each letter takes the best color it has had in any test.
+        const keys = () => {
+          const best = {};
+          for (const [g, res] of tested) res.forEach((r, i) => { if ((RANK[r] || 0) > (RANK[best[g[i]]] || 0)) best[g[i]] = r; });
+          kb.replaceChildren(...["QWERTYUIOP", "ASDFGHJKL", "ZXCVBNM"].map((line) => {
+            const row = document.createElement("span");
+            row.className = "pz-kb-row";
+            for (const ch of line) row.append(Object.assign(document.createElement("span"), { textContent: ch, className: "pz-k" + (best[ch] ? " pz-t-" + best[ch] : "") }));
+            return row;
+          }));
+        };
         const score = (g) => {
           const res = Array(5).fill("gray"), left = {};
           for (let i = 0; i < 5; i++) if (g[i] === ans[i]) res[i] = "green"; else left[ans[i]] = (left[ans[i]] || 0) + 1;
           for (let i = 0; i < 5; i++) if (res[i] !== "green" && left[g[i]]) { res[i] = "yellow"; left[g[i]]--; }
           return res;
         };
+        const addRow = (g, res) => {
+          const row = document.createElement("ol");
+          row.className = "pz-try-row";
+          row.setAttribute("aria-label", g + ": " + res.map((r, i) => g[i] + " " + r).join(", "));
+          res.forEach((r, i) => row.append(Object.assign(document.createElement("li"), { className: "pz-t-" + r, textContent: g[i] })));
+          rows.unshift(row);
+          tested.push([g, res]);
+        };
+        // Tests made earlier today on this device come back, so a reader who returns keeps the board.
+        for (const g of load(tkey) || []) if (/^[A-Z]{5}$/.test(g)) addRow(g, score(g));
+        if (tested.length) out.replaceChildren(para(tested.length + (tested.length === 1 ? " test" : " tests") + " saved on this device."), ...rows);
+        keys();
         wt.addEventListener("submit", (e) => {
           e.preventDefault();
           const g = input.value.toUpperCase().replace(/[^A-Z]/g, "");
           if (g.length !== 5) { out.replaceChildren(para("Enter a five-letter word."), ...rows); return; }
           input.value = "";
           const res = score(g);
-          const row = document.createElement("ol");
-          row.className = "pz-try-row";
-          row.setAttribute("aria-label", g + ": " + res.map((r, i) => g[i] + " " + r).join(", "));
-          res.forEach((r, i) => row.append(Object.assign(document.createElement("li"), { className: "pz-t-" + r, textContent: g[i] })));
-          rows.unshift(row);
+          addRow(g, res);
+          store(tkey, tested.map(([w]) => w));
+          keys();
           const greens = res.filter((r) => r === "green").length, yellows = res.filter((r) => r === "yellow").length;
           const msg = g === ans ? "That is today's answer." : greens + " green and " + yellows + " yellow. Gray letters are not in the word (or not again).";
           out.replaceChildren(para(msg), ...rows);
         });
+        wt.querySelector("[data-wordle-reset]").addEventListener("click", () => { rows.length = 0; tested.length = 0; store(tkey); keys(); out.replaceChildren(para("Your tests are cleared.")); });
         show(wt);
       }
 
@@ -667,7 +701,7 @@ const puzzleDay = pzThis ? {
         const { groups, cards } = JSON.parse(unhide(ct.dataset.k));
         const grid = ct.querySelector(".pz-conn-grid"), out = ct.querySelector(".tool-out");
         const COLORS = ["yellow", "green", "blue", "purple"];
-        const solved = new Set();
+        const solved = new Set(), ckey = "fc-conn-" + ct.dataset.date;
         const tiles = cards.map(([w, g]) => {
           const b = Object.assign(document.createElement("button"), { type: "button", textContent: w, className: "pz-ct" });
           b.dataset.g = g;
@@ -697,6 +731,14 @@ const puzzleDay = pzThis ? {
         // Again once the web font is in: it sets wider than the fallback the first pass measured.
         document.fonts?.ready.then(fit);
         addEventListener("resize", fit);
+        const lock = (g) => {
+          solved.add(g);
+          for (const t of tiles.filter((x) => +x.dataset.g === g)) { t.disabled = true; t.setAttribute("aria-pressed", "false"); t.classList.add("pz-ct-" + COLORS[g]); }
+          // Solved groups move to the top, in the order they were found.
+          grid.prepend(...[...solved].flatMap((s) => tiles.filter((t) => +t.dataset.g === s)));
+        };
+        for (const g of load(ckey) || []) if (g >= 0 && g < 4 && !solved.has(g)) lock(g);
+        if (solved.size) out.replaceChildren(para(solved.size + (solved.size === 1 ? " group" : " groups") + " solved earlier on this device."));
         const picked = () => tiles.filter((t) => t.getAttribute("aria-pressed") === "true");
         const clear = () => picked().forEach((t) => t.setAttribute("aria-pressed", "false"));
         ct.addEventListener("submit", (e) => {
@@ -708,16 +750,34 @@ const puzzleDay = pzThis ? {
           const best = Math.max(...Object.values(count));
           if (best === 4) {
             const g = +p[0].dataset.g;
-            solved.add(g);
-            for (const t of p) { t.disabled = true; t.setAttribute("aria-pressed", "false"); t.classList.add("pz-ct-" + COLORS[g]); }
-            // Solved groups move to the top, in the order they were found.
-            const order = [...solved].flatMap((s) => tiles.filter((t) => +t.dataset.g === s));
-            grid.prepend(...order);
+            lock(g);
+            store(ckey, [...solved]);
             out.replaceChildren(para("Correct: " + COLORS[g] + ", " + groups[g] + "." + (solved.size === 4 ? " Board solved." : "")));
           } else out.replaceChildren(para(best === 3 ? "One away: three of these four belong together." : "Not a group. No mistake counted, try again."));
         });
         ct.querySelector("[data-conn-clear]").addEventListener("click", () => { clear(); out.replaceChildren(); });
+        // Shuffle the unsolved tiles, as the game's own button does: a new layout breaks a fixed reading.
+        ct.querySelector("[data-conn-shuffle]").addEventListener("click", () => {
+          const open = tiles.filter((t) => !t.disabled);
+          for (let i = open.length - 1; i > 0; i--) { const j = Math.floor(Math.random() * (i + 1)); [open[i], open[j]] = [open[j], open[i]]; }
+          grid.append(...open);
+        });
         show(ct);
+      }
+
+      // Pips: blank boards; a tap shows one cell's pips and a second tap hides it again.
+      const pt = document.querySelector("[data-pips-tap]");
+      if (pt) {
+        for (const board of pt.querySelectorAll(".pz-pt")) {
+          const v = JSON.parse(unhide(board.dataset.k));
+          for (const b of board.querySelectorAll("button")) b.addEventListener("click", () => {
+            const on = b.classList.toggle("pz-pt-on");
+            b.querySelector("b").textContent = on ? String(v[b.dataset.c]) : "";
+            b.setAttribute("aria-label", b.getAttribute("aria-label").replace(/: (tap to show its pips|\d+ pips?, tap to hide)$/, on ? ": " + v[b.dataset.c] + (v[b.dataset.c] === 1 ? " pip" : " pips") + ", tap to hide" : ": tap to show its pips"));
+          });
+        }
+        pt.querySelector("[data-pips-hide]").addEventListener("click", () => pt.querySelectorAll(".pz-pt-on").forEach((b) => b.click()));
+        show(pt);
       }
 
       // Strands: check a typed word against the theme words and the spangram; found words are kept
@@ -919,6 +979,19 @@ const puzzleDay = pzThis ? {
   .prose-news :global(.pz-track-tools button){min-height:44px;margin-top:.6rem;color:var(--focus);background:var(--paper);border:1px solid var(--focus)}
   .prose-news :global(.pz-track input:focus-visible),.prose-news :global(.pz-track button:focus-visible){outline:3px solid var(--focus);outline-offset:2px}
   .prose-news :global(.pz-track[hidden]){display:none}
+  .prose-news :global(.pz-kb){display:grid;gap:.3rem;margin:.6rem 0 0;justify-items:center}
+  .prose-news :global(.pz-kb-row){display:flex;gap:.25rem}
+  .prose-news :global(.pz-k){display:inline-grid;place-items:center;min-width:1.9rem;height:2.4rem;padding:0 .2rem;border-radius:5px;background:#e3e7ea;color:#1f2937;font:700 .95rem/1 Sora,sans-serif}
+  .prose-news :global(.pz-k.pz-t-green){background:#4f8a3c;color:#fff}
+  .prose-news :global(.pz-k.pz-t-yellow){background:#b8961f;color:#fff}
+  .prose-news :global(.pz-k.pz-t-gray){background:#6b7280;color:#fff}
+  .prose-news :global(.pz-pt-boards){display:flex;flex-wrap:wrap;gap:1rem 1.5rem;margin:.4rem 0}
+  .prose-news :global(.pz-pt-name){margin:0 0 .3rem;font-weight:700}
+  .prose-news :global(.pz-pt){display:grid;gap:3px}
+  .prose-news :global(.pz-pt button){position:relative;aspect-ratio:1;min-width:2.75rem;min-height:2.75rem;border:1px solid #9aa4ae;border-radius:6px;color:#1f2937;font:700 1.15rem/1 Sora,sans-serif;cursor:pointer}
+  .prose-news :global(.pz-pt button i){position:absolute;top:2px;left:3px;padding:0 3px;border-radius:4px;background:#1f2937;color:#fff;font:700 .65rem/1.4 Sora,sans-serif;font-style:normal}
+  .prose-news :global(.pz-pt button.pz-pt-on){outline:2px solid #1f2937;background-image:linear-gradient(rgba(255,255,255,.55),rgba(255,255,255,.55))}
+  .prose-news :global(.pz-pt button:focus-visible){outline:3px solid var(--focus);outline-offset:2px}
   /* One-answer reveals inside a hint, and Wordle's letter-by-letter reveal. */
   .prose-news :global(details.pz-reveal){margin:.45rem 0 .1rem}
   .prose-news :global(details.pz-reveal summary){display:inline-flex;align-items:center;min-height:44px;padding:0 .8rem;border:1px dashed var(--focus);border-radius:999px;cursor:pointer;font-weight:700;font-size:.9rem;color:var(--focus);list-style:none}

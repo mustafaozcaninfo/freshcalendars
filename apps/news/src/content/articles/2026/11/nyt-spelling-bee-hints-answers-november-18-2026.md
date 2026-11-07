@@ -1,6 +1,6 @@
 ---
 title: "NYT Spelling Bee Hints and Answers for Wednesday, Nov. 18, 2026: 57 Words, Genius Is 204"
-seoTitle: "Spelling Bee Hints & Answers Today, Nov. 18, 2026"
+seoTitle: "Spelling Bee Hints & Answers Today, November 18, 2026"
 description: "Wednesday's Spelling Bee from The New York Times (NYT) for Nov. 18, 2026: center D, 57 words, 292 points, Genius at 204 and points by word length."
 type: explainer
 publishedAt: "2026-11-17T00:05:00-05:00"

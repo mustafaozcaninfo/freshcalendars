@@ -1,6 +1,6 @@
 ---
 title: "Strands #981, Monday, Nov. 9, 2026: Hints for Five Theme Words and the Spangram"
-seoTitle: "Strands Hints, Nov. 9, 2026 (#981) and Answers"
+seoTitle: "Strands #981 Hints & Answers Today, November 9, 2026"
 description: "Stuck on Strands #981 (Monday, Nov. 9, 2026, clue \"Idle chatter\")? Hints for the spangram and theme words, a board map, and answers at the end."
 type: explainer
 publishedAt: "2026-11-08T00:05:00-05:00"

@@ -1,6 +1,6 @@
 ---
 title: "NYT Spelling Bee Hints and Answers for Saturday, Nov. 14, 2026: 62 Words, Two Pangrams, Z in Only 5"
-seoTitle: "Spelling Bee Nov. 14, 2026: Hints and 62 Answers"
+seoTitle: "Spelling Bee Hints & Answers Today, November 14, 2026"
 description: "Saturday's Spelling Bee from The New York Times (NYT) for Nov. 14, 2026: center L, 62 words, 358 points, Genius at 251, two pangrams and a letter count."
 type: explainer
 publishedAt: "2026-11-13T00:05:00-05:00"

@@ -1,6 +1,6 @@
 ---
 title: "NYT Pips Hints and Answers for Saturday, Nov. 14, 2026: Easy, Medium and Hard"
-seoTitle: "Pips Hints & Answers, Nov. 14, 2026: Easy, Medium, Hard"
+seoTitle: "NYT Pips Hints & Answers Today, November 14, 2026"
 description: "Pips for Saturday, Nov. 14, 2026: why the 6-6 must cover R1C2 on Hard, two hints per level, then every Easy, Medium and Hard domino placement."
 type: explainer
 publishedAt: "2026-11-13T00:05:00-05:00"

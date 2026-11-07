@@ -1,6 +1,6 @@
 ---
 title: "NYT Spelling Bee Hints and Answers for Tuesday, Nov. 17, 2026: 47 Words, Genius Is 128 Points"
-seoTitle: "Spelling Bee Hints & Answers Today, Nov. 17, 2026"
+seoTitle: "Spelling Bee Hints & Answers Today, November 17, 2026"
 description: "Tuesday's Spelling Bee from The New York Times (NYT) for Nov. 17, 2026: center O, 47 words, 183 points, Genius at 128, a length table and a pangram clue."
 type: explainer
 publishedAt: "2026-11-16T00:05:00-05:00"
