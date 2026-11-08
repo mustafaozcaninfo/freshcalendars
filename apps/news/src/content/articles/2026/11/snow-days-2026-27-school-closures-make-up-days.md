@@ -74,7 +74,7 @@ internalLinks:
     label: "January 2027 printable calendar"
   - href: "/february-calendars.html"
     label: "February 2027 printable calendar"
-related: [chicago-public-schools-calendar-2026-27-breaks, montgomery-county-public-schools-calendar-2026-27-breaks, seattle-public-schools-calendar-2026-27-breaks]
+related: [chicago-public-schools-calendar-2026-27-breaks, montgomery-county-public-schools-calendar-2026-27-breaks, anchorage-school-district-calendar-2026-27]
 faq:
   - q: "When does Philadelphia announce a snow day?"
     a: "The School District of Philadelphia's Inclement Weather Policy lists the superintendent's final decision by 4:00 a.m., confirmed by 4:30 a.m., with the notification cascade by 4:45 a.m."
