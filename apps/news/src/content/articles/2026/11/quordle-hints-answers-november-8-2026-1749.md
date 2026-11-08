@@ -1,7 +1,7 @@
 ---
 title: "Quordle Hints and Answers Today, #1749 for Sunday, Nov. 8, 2026: Shared Letters Mapped"
 seoTitle: "Quordle Hints & Answers Today, Nov. 8, 2026 (#1749)"
-description: "Quordle #1749 for Sunday, Nov. 8, 2026: a clue for each of the four words, a map of shared letters and vowel counts, then the answers in a marked spoiler section."
+description: "Quordle #1749 for Sunday, Nov. 8, 2026: a clue for each of the four words, a map of shared letters and vowel counts, then the answers in a spoiler section."
 type: explainer
 publishedAt: "2026-11-08T07:23:00-05:00"
 updatedAt: "2026-11-08T07:23:00-05:00"
@@ -55,7 +55,7 @@ Nine guesses cover all four boards, and the rules are on our [Quordle page](/new
 
 ## Clues for each word
 
-Our sources did not agree on board positions, so the words go by number only, Word 1 to Word 4, matching the answer list at the end.
+Only one of the solutions we checked named board positions. So the words go by number, Word 1 to Word 4, in the same order as the answer list at the end.
 
 **Word 1**
 
@@ -90,7 +90,7 @@ The set has 20 tiles but only 13 different letters. Each row counts the differen
 | Word 2 and Word 4 | 2 |
 | Word 3 and Word 4 | 1 |
 
-Vowel load runs 2, 2, 1 and 3 across Words 1 to 4, using only A, E, I, O and U. Word 3 gets its sound from a seventh letter that sometimes acts as a vowel. Six letters sit in two words each, seven letters sit in just one word, and no letter reaches three words. Word 1 is the loner: a hit there tells you almost nothing about Words 3 and 4.
+Vowel load runs 2, 2, 1 and 3 across Words 1 to 4, using only A, E, I, O and U. Word 3 gets its sound from a seventh letter that sometimes acts as a vowel. Six letters sit in two words each, seven letters sit in just one word, and no letter reaches three words. Word 1 is the loner. A hit there tells you almost nothing about Words 3 and 4, so spend an early guess on letters that Words 2, 3 and 4 have in common instead.
 
 Keep score on the [November 2026 printable calendar](/november-calendars.html) or the [printable weekly calendar](/printable-weekly-calendar.html).
 
@@ -98,11 +98,11 @@ More of today's puzzles: [Wordle hints](/news/wordle-hint-answer-today-november-
 
 ## Today's Quordle answers (spoilers)
 
-Stop here if you still want to solve it yourself.
+Last chance to look away.
 
 - **Word 1: Greed**
 - **Word 2: Spine**
 - **Word 3: Stony**
 - **Word 4: Opium**
 
-Greed is the only word with a repeated letter: its two E tiles sit side by side. E links Greed and Spine, S and N link Spine and Stony, P and I link Spine and Opium, and O links Stony and Opium. G, R, D, T, Y, U and M each appear once. Opium has three vowel letters, Greed and Spine have two, and Stony has one plus a Y. This page covers the daily Classic game; other Quordle modes use different answers. Board positions are left out because the solutions we checked did not agree on them; all four words match those solutions.
+Greed is the only word with a repeated letter: its two E tiles sit side by side. E links Greed and Spine, S and N link Spine and Stony, P and I link Spine and Opium, and O links Stony and Opium. G, R, D, T, Y, U and M each appear once. Opium has three vowel letters, Greed and Spine have two, and Stony has one plus a Y. This page covers the daily Classic game; other Quordle modes use different answers. Board positions are left out, since only one of the solutions we checked printed them. The words match all three.
