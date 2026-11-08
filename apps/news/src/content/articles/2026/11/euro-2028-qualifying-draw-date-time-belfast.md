@@ -3,8 +3,8 @@ title: "Euro 2028 Qualifying Draw: Sunday, Dec. 6 in Belfast, Start Time in UK, 
 seoTitle: "Euro 2028 Qualifying Draw: Dec. 6, Belfast, Time"
 description: "The Union of European Football Associations (UEFA) holds the Euro 2028 qualifying draw in Belfast on Sunday, Dec. 6, 2026: 5 p.m. UK, noon Eastern Time (ET)."
 type: news
-publishedAt: "2026-11-07T22:43:00-05:00"
-updatedAt: "2026-11-07T22:43:00-05:00"
+publishedAt: "2026-11-07T23:13:00-05:00"
+updatedAt: "2026-11-07T23:13:00-05:00"
 authors: [jessica-hartwell]
 category: sports
 keywords: ["euro 2028 qualifying draw", "euro 2028 qualifying draw time", "euro 2028 qualifiers draw date", "euro 2028 qualifying format"]
@@ -147,7 +147,7 @@ Twenty direct places plus up to four others make 24. The two host places and the
 
 ## Who plays in the qualifying draw, and why Belfast?
 
-UEFA says hosts England, Republic of Ireland, Scotland and Wales also take part in qualifying, "drawn into separate groups." Northern Ireland is not named among those qualifying hosts; UEFA describes it as "a valuable partner" that "will contribute to the tournament's success and celebration," and the draw is held at the ICC in Belfast. The 2028 tournament itself runs from June 9 to July 9, 2028, with 24 teams in six groups.
+UEFA says hosts England, Republic of Ireland, Scotland and Wales also take part in qualifying, "drawn into separate groups." Northern Ireland is not named among those qualifying hosts; UEFA describes it as a partner that "will contribute to the tournament's success and celebration," and the draw is held at the ICC in Belfast. The 2028 tournament itself runs from June 9 to July 9, 2028, with 24 teams in six groups.
 
 For the other home-nation games before the qualifying draw, see our [Nations League November 2026 fixtures and kick-off times](/news/nations-league-november-2026-fixtures-kick-off-times-england-scotland-wales-ireland/).
 

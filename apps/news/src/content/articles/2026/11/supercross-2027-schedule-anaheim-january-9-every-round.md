@@ -3,8 +3,8 @@ title: "Supercross 2027 Schedule: Anaheim Opens Jan. 9, All 17 Rounds and the SM
 seoTitle: "Supercross 2027 Schedule: Anaheim Jan. 9, 17 Rounds"
 description: "Supercross 2027 opens Sat., Jan. 9 at Angel Stadium in Anaheim, runs 17 rounds to Salt Lake City on May 15, then the SuperMotocross (SMX) Final on Sept. 25."
 type: news
-publishedAt: "2026-11-07T22:40:00-05:00"
-updatedAt: "2026-11-07T22:40:00-05:00"
+publishedAt: "2026-11-07T23:13:00-05:00"
+updatedAt: "2026-11-07T23:13:00-05:00"
 authors: [jessica-hartwell]
 category: sports
 keywords: ["supercross 2027 schedule", "supercross schedule 2027", "anaheim supercross 2027", "smx 2027 schedule"]
@@ -19,7 +19,7 @@ assets:
     group: supercross-2027
     title: "Supercross 2027 Schedule: All 17 Rounds"
     subtitle: "Saturdays from Anaheim on Jan. 9 to Salt Lake City on May 15, then Pro Motocross and the SMX playoffs"
-    note: "Source: Monster Energy AMA Supercross schedule page and the SuperMotocross World Championship schedule page, read Nov. 8, 2026. Start times for most rounds, and the playoff and Final venues, are not yet posted."
+    note: "Source: Monster Energy AMA Supercross schedule page and the SuperMotocross World Championship schedule page, read Nov. 7, 2026. Start times for most rounds, and the playoff and Final venues, are not yet posted."
     description: "One-page printable 2027 Supercross schedule with all 17 rounds, the cities and stadiums, plus the Pro Motocross and SuperMotocross playoff dates."
     alt: "Printable 2027 Supercross schedule listing all 17 rounds with date, city, stadium and 250 class, plus Pro Motocross and playoff dates"
     data:
@@ -48,7 +48,7 @@ assets:
         - { cells: { rd: "15", date: "Sat., Apr. 24", city: "Pittsburgh, PA", stadium: "Acrisure Stadium", cls: "250 East/West Showdown" }, src: 1, quote: "Apr 24" }
         - { cells: { rd: "16", date: "Sat., May 8", city: "Denver, CO", stadium: "Empower Field at Mile High", cls: "250SX West" }, src: 1, quote: "May 08" }
         - { cells: { rd: "17", date: "Sat., May 15", city: "Salt Lake City, UT", stadium: "Rice-Eccles Stadium", cls: "250 East/West Showdown" }, src: 1, quote: "May 15" }
-        - { cells: { rd: "18-28", date: "Sat., May 29 to Sat., Aug. 28", city: "Pro Motocross, 11 rounds", stadium: "Pala, CA to Crawfordsville, IN", cls: "Outdoor motocross" }, src: 1, quote: "May 29" }
+        - { cells: { rd: "18-28", date: "Sat., May 29 to Sat., Aug. 28", city: "Pro Motocross, 11 rounds", stadium: "Pala, CA to Crawfordsville, IN", cls: "Pro Motocross" }, src: 1, quote: "May 29" }
         - { cells: { rd: "SMX", date: "Sat., Sept. 11", city: "Playoff 1", stadium: "Venue to be announced", cls: "SuperMotocross playoff" }, src: 2, quote: "Sep 11, 2027" }
         - { cells: { rd: "SMX", date: "Sat., Sept. 18", city: "Playoff 2", stadium: "Venue to be announced", cls: "SuperMotocross playoff" }, src: 2, quote: "Sep 18, 2027" }
         - { cells: { rd: "SMX", date: "Sat., Sept. 25", city: "World Championship Final", stadium: "Venue to be announced", cls: "SuperMotocross Final" }, src: 2, quote: "Sep 25, 2027" }
@@ -91,11 +91,11 @@ sources:
   - title: "Tickets | Schedule | Monster Energy AMA Supercross"
     url: "https://www.supercrosslive.com/schedule"
     publisher: "Monster Energy AMA Supercross"
-    date: "2026-11-08"
+    date: "2026-11-07"
   - title: "Schedule | SuperMotocross World Championship"
     url: "https://www.supermotocross.com/schedule"
     publisher: "SuperMotocross World Championship"
-    date: "2026-11-08"
+    date: "2026-11-07"
   - title: "2027 SuperMotocross regular season schedule announced, San Antonio and Baltimore join Supercross"
     url: "https://www.nbcsports.com/motor-sports/news/2027-supermotocross-regular-season-schedule-announced-san-antonio-and-baltimore-join-supercross"
     publisher: "NBC Sports"
