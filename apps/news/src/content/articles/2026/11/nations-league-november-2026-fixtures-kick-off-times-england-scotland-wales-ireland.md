@@ -114,7 +114,7 @@ internalLinks:
     label: "November 2026 printable calendar"
   - href: "/printable-weekly-calendar.html"
     label: "Printable weekly calendar"
-related: [premier-league-fixtures-november-6-8-2026-gameweek-10-kickoff-times-tv, champions-league-november-2026-schedule-kickoff-times-et-matchday-4-5, nations-championship-rugby-november-2026-fixtures-kick-off-times-uk-us]
+related: [premier-league-fixtures-november-6-8-2026-gameweek-10-kickoff-times-tv, champions-league-november-2026-schedule-kickoff-times-et-matchday-4-5, euro-2028-qualifying-draw-date-time-belfast]
 draft: false
 ---
 

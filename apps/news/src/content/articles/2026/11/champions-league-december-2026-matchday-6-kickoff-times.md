@@ -92,7 +92,7 @@ internalLinks:
     label: "December 2026 printable calendar"
   - href: "/printable-weekly-calendar.html"
     label: "Printable weekly calendar"
-related: [champions-league-november-2026-schedule-kickoff-times-et-matchday-4-5, fifa-intercontinental-cup-2026-qatar-dates, europa-league-conference-league-november-2026-schedule-kickoff-times-et]
+related: [champions-league-november-2026-schedule-kickoff-times-et-matchday-4-5, euro-2028-qualifying-draw-date-time-belfast, europa-league-conference-league-november-2026-schedule-kickoff-times-et]
 draft: false
 ---
 

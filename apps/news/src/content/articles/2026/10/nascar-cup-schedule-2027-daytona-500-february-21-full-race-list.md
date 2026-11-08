@@ -83,7 +83,7 @@ internalLinks:
     label: "Printable yearly calendar"
   - href: "/february-calendars.html"
     label: "February 2027 printable calendar"
-related: [indycar-schedule-2027-17-races-indy-500-may-30, super-bowl-lxi-2027-date-sofi-stadium-channel-halftime, nba-all-star-2027-date-phoenix-rising-stars-schedule]
+related: [indycar-schedule-2027-17-races-indy-500-may-30, super-bowl-lxi-2027-date-sofi-stadium-channel-halftime, supercross-2027-schedule-anaheim-january-9-every-round]
 draft: false
 downloads:
   - group: "NASCAR Cup Series Schedule 2027 printables"
