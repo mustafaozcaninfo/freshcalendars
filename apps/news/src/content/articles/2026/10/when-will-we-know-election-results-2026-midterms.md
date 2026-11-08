@@ -4,7 +4,7 @@ seoTitle: "When Will We Know 2026 Midterm Election Results?"
 description: "Polls closed Nov. 3, 2026, but counting takes days in some states. When mail ballots are counted in 17 key states, late-ballot rules and certification dates."
 type: explainer
 publishedAt: "2026-10-21T00:30:00-04:00"
-updatedAt: "2026-11-07T13:25:00-05:00"
+updatedAt: "2026-11-07T21:19:00-05:00"
 authors: [christina-gerland]
 category: elections
 keywords: ["when will we know election results 2026", "when will election results start coming in", "2026 midterm results timeline", "election results by state 2026", "when are election results certified"]
@@ -126,13 +126,13 @@ draft: false
 
 ## Where the 2026 count stands on Saturday, Nov. 7
 
-Election-night totals are unofficial, and counting continues on Saturday, Nov. 7. It goes on in states that accept late mail ballots (Nevada until 5 p.m. today, Nov. 7, California and New York through Nov. 10; Texas's 5 p.m. Nov. 4 deadline has passed) and in ranked-choice states such as Maine and Alaska. California's Secretary of State says "in the days afterwards, the results will be updated each day throughout the canvass as counties count the remaining ballots," and that official certified results "will be posted by December 11, 2026."
+Election-night totals are unofficial, and counting continues on Saturday, Nov. 7. It goes on in states that accept late mail ballots (California and New York through Nov. 10; Nevada's deadline, 5 p.m. Saturday, Nov. 7, and Texas's 5 p.m. Nov. 4 deadline have passed) and in ranked-choice states such as Maine and Alaska. California's Secretary of State says counties "must count and report on all ballots (with some exceptions) by the 13th day after the election," that its office "will post this 'unprocessed ballots report' online and provide daily updates," and that "the frequency of updated results will vary based on the size of each county."
 
 California's Secretary of State now prints the main dates on its elections page: vote-by-mail ballots "must be postmarked on or before Election Day and received by November 10, 2026," "County elections officials must complete final official results by December 3, 2026," and "The Secretary of State will certify results on December 11, 2026." Its canvass page adds one more step, computed from its 13-day rule: counties must count and report all ballots, with some exceptions, by Monday, Nov. 16.
 
 In Clark County, Nevada, voters can fix a mail ballot signature problem until 5 p.m. on Nov. 9, according to the county Election Department.
 
-Three more states are still receiving or curing ballots. Oregon's Secretary of State now lists the dates on its current-election page: the "Last day for counties to receive valid postmarked ballots by mail" is Tuesday, Nov. 10, the "Last day to resolve ballot challenges" is Tuesday, Nov. 24, and Oregon says final results "will be certified and made available on December 10." In Colorado, the Secretary of State's Nov. 2 release says counties "upload results periodically through the night," and its Nov. 6 release repeats the cure deadline: "Voters have until November 12 to correct any signature or ID issue with their 2026 General Election ballot," through their county or the Colorado BallotCure tool on GoVoteColorado.gov.
+Three more states are still receiving or curing ballots. Oregon's Secretary of State now lists the dates on its current-election page: the "Last day for counties to receive valid postmarked ballots by mail" is Tuesday, Nov. 10, the "Last day to resolve ballot challenges" is Tuesday, Nov. 24, and Oregon says final results "will be certified and made available on December 10." In Colorado, the Secretary of State's Nov. 2 release says results "will be updated at least once every weekday by 4:00 PM MT through the cure deadline on November 12," which is 4 p.m. Mountain Time (MT), or 6 p.m. ET, and that "after that, election workers will continue to count ballots." Its Nov. 6 release repeats the cure deadline: "Voters have until November 12 to correct any signature or ID issue with their 2026 General Election ballot," through their county or the Colorado BallotCure tool on GoVoteColorado.gov. The same release lists two later dates: Tuesday, Nov. 24, the "Deadline for county audit boards to report results of the bipartisan Risk Limiting Audit to the Secretary of State's Office," and Wednesday, Nov. 25, the "Deadline for county canvass boards to complete canvass and submit official election abstract to Secretary of State's Office."
 
 The Pennsylvania Department of State lists Nov. 10 as the last day for county election offices to receive completed military and overseas absentee ballots that were submitted for delivery no later than 11:59 p.m. on Nov. 2, so Pennsylvania counties can still receive those ballots.
 
@@ -208,9 +208,10 @@ In Watson v. Republican National Committee, decided June 29, 2026, the U.S. Supr
 | Date | What happens |
 |---|---|
 | Nov. 4-10 | Late mail ballots arrive in grace-period states (Texas Nov. 4, Nevada Nov. 7, California, New York and Oregon Nov. 10); Pennsylvania receives military and overseas ballots until Nov. 10 |
-| Nov. 12 | Colorado signature cure deadline |
+| Nov. 12 | Colorado signature cure deadline; Colorado's weekday results updates by 4 p.m. MT run through this date |
 | Nov. 16 | California counties finish reporting all ballots, with some exceptions (computed from the Secretary of State's 13-day rule) |
-| Nov. 24 | Oregon's last day to resolve ballot challenges, per the Secretary of State |
+| Nov. 24 | Oregon's last day to resolve ballot challenges, per the Secretary of State; Colorado county audit boards report Risk Limiting Audit results, per the Colorado Secretary of State |
+| Nov. 25 | Colorado county canvass boards complete the canvass and submit the official election abstract, per the Colorado Secretary of State |
 | Mid-November | Counties finish canvassing; ranked-choice rounds in Maine; Alaska's tabulation is scheduled for Nov. 18 |
 | Dec. 1 | Georgia runoff, if needed |
 | Dec. 3 | California counties complete final official results, per the Secretary of State |
