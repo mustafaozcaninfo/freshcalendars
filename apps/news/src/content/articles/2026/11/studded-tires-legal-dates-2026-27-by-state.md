@@ -78,7 +78,7 @@ internalLinks:
     label: "November 2026 printable calendar"
   - href: "/april-calendars.html"
     label: "April 2027 printable calendar"
-related: [winter-tires-canada-2026-27-quebec-december-1-bc-highway-rules, winter-parking-bans-2026-27-by-city]
+related: [winter-tires-canada-2026-27-quebec-december-1-bc-highway-rules, winter-parking-bans-2026-27-by-city, winter-car-emergency-kit-checklist-2026-printable]
 downloads:
   - group: "Studded Tire Dates by State 2026-27 printables"
     title: "Studded Tire Dates by State 2026-27"
