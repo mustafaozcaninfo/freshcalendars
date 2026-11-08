@@ -4,12 +4,20 @@
     "label": "Georgia runoff early voting begins (through Nov. 25), if a runoff is required"
   },
   {
+    "date": "2026-11-30",
+    "label": "Austin runoff early voting begins (through Dec. 8)"
+  },
+  {
     "date": "2026-12-01",
     "label": "Georgia and Mississippi runoff day, if required"
   },
   {
     "date": "2026-12-12",
     "label": "Louisiana open general and special primary election"
+  },
+  {
+    "date": "2026-12-12",
+    "label": "Austin and Corpus Christi, Texas, local runoff election"
   },
   {
     "date": "2027-01-09",
