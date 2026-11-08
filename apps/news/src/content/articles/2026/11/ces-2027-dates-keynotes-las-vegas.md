@@ -74,7 +74,7 @@ internalLinks:
     label: "January 2027 printable calendar"
   - href: "/printable-yearly-calendar.html"
     label: "Printable yearly calendar"
-related: [video-game-release-dates-2027-calendar, iphone-duo-october-24-availability]
+related: [video-game-release-dates-2027-calendar, world-usability-day-2026-november-12]
 assets:
   overlay: true
   kicker: "CES 2027 · Las Vegas"

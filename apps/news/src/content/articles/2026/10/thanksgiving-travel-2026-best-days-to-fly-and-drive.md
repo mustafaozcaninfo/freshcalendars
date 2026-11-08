@@ -159,7 +159,7 @@ The car-rental company Hertz expected Wednesday to be its busiest pick-up day in
 
 AAA's 2025 data showed a roundtrip domestic flight averaging about $700. The group noted that it is cheaper to fly on Thanksgiving Day itself, but the flight home drives the ticket price up because Sunday and Monday are the busiest return days. In recent years, except for 2020, the number of Thanksgiving air travelers has run between 5 and 6 million.
 
-Two rules matter at the airport. First, REAL ID enforcement began May 7, 2025. To board a domestic flight you need a REAL ID-compliant license, a passport or another accepted form of identification. The Transportation Security Administration (TSA) says travelers without an acceptable ID must pay a $45 fee.
+Two rules matter at the airport. First, REAL ID enforcement began May 7, 2025. To board a domestic flight you need a REAL ID-compliant license, a passport or another accepted form of identification. The Transportation Security Administration (TSA) says travelers without an acceptable ID must pay a $45 fee; the [TSA ConfirmID fee and 10-day window](/news/tsa-confirmid-45-fee-no-real-id-holiday-travel-2026/) are explained in a separate story.
 
 Second, a U.S. Department of Transportation (DOT) rule announced April 24, 2024 requires airlines to issue an automatic cash refund when a flight is canceled or significantly changed and the passenger declines rebooking or a travel credit. "Significant" includes a departure or arrival time change of more than three hours for a domestic flight or six hours for an international flight, a different airport, added connections or a downgrade. Refunds are due within seven business days for credit-card purchases and 20 calendar days for other payments.
 

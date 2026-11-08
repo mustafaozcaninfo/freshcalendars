@@ -115,7 +115,7 @@ internalLinks:
     label: "Printable weekly calendar"
   - href: "/when-is/cyber-monday/"
     label: "When is Cyber Monday?"
-related: [black-friday-2026-price-match-policy-stores, black-friday-2026-price-adjustment-policies]
+related: [black-friday-2026-price-match-policy-stores, black-friday-2026-price-adjustment-policies, global-entrepreneurship-week-2026-november-16-22]
 draft: false
 ---
 

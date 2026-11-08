@@ -75,7 +75,7 @@ internalLinks:
     label: "November 2026 printable calendar"
   - href: "/printable-weekly-calendar.html"
     label: "Printable weekly calendar"
-related: [november-2026-important-dates-days-until, world-kindness-day-2026-friday-november-13-kindness-dates-printable, world-toilet-day-2026-november-19]
+related: [november-2026-important-dates-days-until, world-kindness-day-2026-friday-november-13-kindness-dates-printable, radiologic-technology-week-2026-november-8-14-radiating-love]
 downloads:
   - group: "National NP Week 2026 Dates and Ideas Sheet printables"
     title: "National NP Week 2026 Dates and Ideas Sheet"

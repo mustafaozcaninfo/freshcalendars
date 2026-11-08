@@ -3,7 +3,7 @@ title: "Runoff Election 2026 Dates: Georgia Dec. 1, Louisiana Dec. 12"
 description: "Runoff election 2026 dates: Georgia and Mississippi Dec. 1 if required, Louisiana Saturday, Dec. 12. Early voting and deadlines by state, with a printable."
 type: news
 publishedAt: "2026-10-30T19:45:00-04:00"
-updatedAt: "2026-11-08T05:27:00-05:00"
+updatedAt: "2026-11-08T13:24:00-05:00"
 authors: [christina-gerland]
 category: elections
 keywords: ["runoff election 2026 dates", "georgia runoff 2026 date", "when is the georgia runoff", "louisiana december 12 election"]
@@ -242,7 +242,7 @@ The Mississippi Secretary of State lists Tuesday, Dec. 1 as "General Election/Sp
 
 ## Do Texas and Alabama have general election runoffs?
 
-Texas local runoffs are called by each city, school district or other local body, so check its own page. Two cities have announced Saturday, Dec. 12, 2026 for runoffs from the Nov. 3 local elections, according to their own pages. The City of Austin lists Thursday, Nov. 12 as the last day to register, early voting in person from Monday, Nov. 30 to Tuesday, Dec. 8, and Tuesday, Dec. 1 as the last day to apply for a ballot by mail (it must be received by the early voting clerk). The Austin Chronicle reported on Nov. 4 that City Council Districts 1, 3 and 5 go to the runoff, and Austin's calendar shows the canvass of the Nov. 3 results on Nov. 17, so those pairings remain unofficial until then. The City of Corpus Christi will hold its runoff from 7:00 a.m. to 7:00 p.m. for Mayor, At-Large Council Member (two positions) and Council Member Districts 1 to 5. For other Texas cities and counties, check their own election pages. Our [Texas election calendar](/news/texas-election-calendar-2026-early-voting-dates-deadlines/) covers the state's other dates. Alabama has runoffs only in primaries, and the Alabama Secretary of State lists the 2026 primary runoff as June 16. No Alabama general election runoff appears in that calendar.
+Texas local runoffs are called by each city, school district or other local body, so check its own page. Two cities have announced Saturday, Dec. 12, 2026 for runoffs from the Nov. 3 local elections, according to their own pages. The City of Austin lists Thursday, Nov. 12 as the last day to register, early voting in person from Monday, Nov. 30 to Tuesday, Dec. 8, and Tuesday, Dec. 1 as the last day to apply for a ballot by mail (it must be received by the early voting clerk). The Austin Chronicle reported on Nov. 4 that City Council Districts 1, 3 and 5 go to the runoff, and Austin's calendar shows the canvass of the Nov. 3 results on Nov. 17, so those pairings remain unofficial until then. The City of Corpus Christi will hold its runoff from 7:00 a.m. to 7:00 p.m. for Mayor, At-Large Council Member (two positions) and Council Member Districts 1 to 5. Its City Council canvasses the Nov. 3 results on Nov. 17, early voting for the runoff runs from Monday, Nov. 30 through Tuesday, Dec. 8, and the city says early voting and election day locations will be announced later. For other Texas cities and counties, check their own election pages. Our [Texas election calendar](/news/texas-election-calendar-2026-early-voting-dates-deadlines/) covers the state's other dates. Alabama has runoffs only in primaries, and the Alabama Secretary of State lists the 2026 primary runoff as June 16. No Alabama general election runoff appears in that calendar.
 
 ## Print the runoff dates
 

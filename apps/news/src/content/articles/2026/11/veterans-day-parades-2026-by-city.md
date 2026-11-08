@@ -99,7 +99,7 @@ internalLinks:
     label: "When is Veterans Day?"
   - href: "/november-calendars.html"
     label: "November 2026 printable calendar"
-related: [veterans-day-free-meals-discounts, veterans-day-2026-wednesday-november-11, nyc-veterans-day-parade-2026-time-route-grand-marshal-suni-williams]
+related: [operation-green-light-veterans-2026-november-4-11, veterans-day-2026-wednesday-november-11, nyc-veterans-day-parade-2026-time-route-grand-marshal-suni-williams]
 downloads:
   - group: "Veterans Day Parades 2026 Watch Guide by City printables"
     title: "Veterans Day Parades 2026 Watch Guide by City"
