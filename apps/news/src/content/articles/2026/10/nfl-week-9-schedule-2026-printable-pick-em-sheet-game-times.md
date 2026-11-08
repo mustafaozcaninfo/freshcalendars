@@ -4,7 +4,7 @@ seoTitle: "NFL Week 9 Schedule 2026: Times and Pick'em Sheet"
 description: "National Football League (NFL) Week 9: 15 games, Thu., Nov. 5 to Mon., Nov. 9, 2026, with Eastern Time (ET) kickoffs, TV channels and a printable pick'em sheet."
 type: news
 publishedAt: "2026-10-29T03:43:00-04:00"
-updatedAt: "2026-11-05T12:23:00-05:00"
+updatedAt: "2026-11-08T06:33:00-05:00"
 authors: [jessica-hartwell]
 category: sports
 keywords: ["NFL Week 9 schedule 2026", "NFL Week 9 pick em sheet printable", "NFL Week 9 game times TV", "Bengals Falcons Madrid time"]
@@ -14,6 +14,7 @@ assets:
   date: "2026-11-08"
   card: { top: "NFL Week 9: 15 games", big: "9:30 a.m. ET Sun.", bottom: "Bengals vs. Falcons in Madrid" }
   printable:
+    noKit: "a 15-game pick'em sheet with blanks for picks and scores; the fact sheet has the source's own words for only a few of the games, so a watch-guide kit cannot quote each kickoff"
     slug: nfl-week-9-pick-em-sheet-2026
     group: nfl-week-9-2026
     title: "NFL Week 9 Pick'em Sheet 2026"
@@ -21,12 +22,12 @@ assets:
     columns: ["Kickoff (ET)", "Game and network · Pick · Score"]
     layout: list
     rows:
-      - ["Thu., Nov. 5 · 8:15 p.m.", "Jaguars at Ravens (Prime Video)  Pick: ______  Score: ______"]
+      - ["Thu., Nov. 5 · 8:15 p.m.", "Jaguars at Ravens (Prime Video)  Final: Jaguars 33, Ravens 10"]
       - ["Sun., Nov. 8 · 9:30 a.m.", "Bengals vs. Falcons, Madrid (NFL Network)  Pick: ______  Score: ______"]
       - ["Sun., Nov. 8 · 1:00 p.m.", "Browns at Saints (CBS)  Pick: ______  Score: ______"]
       - ["Sun., Nov. 8 · 1:00 p.m.", "Cowboys at Colts (FOX)  Pick: ______  Score: ______"]
       - ["Sun., Nov. 8 · 1:00 p.m.", "Broncos at Panthers (CBS)  Pick: ______  Score: ______"]
-      - ["Sun., Nov. 8 · 1:00 p.m.", "Lions at Dolphins (FOX)  Pick: ______  Score: ______"]
+      - ["Sun., Nov. 8 · 1:00 p.m.", "Lions at Dolphins (CBS)  Pick: ______  Score: ______"]
       - ["Sun., Nov. 8 · 1:00 p.m.", "Rams at Commanders (FOX)  Pick: ______  Score: ______"]
       - ["Sun., Nov. 8 · 1:00 p.m.", "Giants at Eagles (FOX)  Pick: ______  Score: ______"]
       - ["Sun., Nov. 8 · 1:00 p.m.", "Jets at Chiefs (CBS)  Pick: ______  Score: ______"]
@@ -35,10 +36,9 @@ assets:
       - ["Sun., Nov. 8 · 4:25 p.m.", "Raiders at 49ers (FOX)  Pick: ______  Score: ______"]
       - ["Sun., Nov. 8 · 4:25 p.m.", "Packers at Patriots (FOX)  Pick: ______  Score: ______"]
       - ["Sun., Nov. 8 · 8:20 p.m.", "Buccaneers at Bears (NBC)  Pick: ______  Score: ______"]
-      - ["Mon., Nov. 9 · 8:15 p.m.", "Bills at Vikings (ESPN, ABC, ESPN2, NFL Network)  Pick: ______  Score: ______"]
+      - ["Mon., Nov. 9 · 8:15 p.m.", "Bills at Vikings (ESPN, ESPN Deportes, ABC)  Pick: ______  Score: ______"]
       - ["Tiebreaker · Mon., Nov. 9", "Total points, Bills at Vikings: ______"]
-    note: "Source: National Football League, NFL.com schedule (Oct. 28, 2026). Byes: Steelers, Titans. Times can change; check NFL.com."
-    inkSaver: true
+    note: "Source: National Football League, NFL.com schedule and Week 9 viewing guide (Nov. 8, 2026). Byes: Steelers, Titans. Times can change; check NFL.com."
     description: "A one-page NFL Week 9 2026 pick'em sheet with all 15 games, Eastern Time kickoffs, TV networks, blanks for picks and scores, and a tiebreaker line."
     alt: "Printable NFL Week 9 2026 pick'em sheet listing 15 games with kickoff, network and blanks for picks and scores"
 hero:
@@ -54,21 +54,32 @@ hero:
     authorUrl: "https://commons.wikimedia.org/wiki/User:BullDawg2021"
 summary:
   - "The National Football League (NFL) lists 15 Week 9 games from Thu., Nov. 5 to Mon., Nov. 9, 2026, per NFL.com; every kickoff is Eastern Time (ET)."
-  - "Bengals vs. Falcons in Madrid kicks off Sun., Nov. 8 at 9:30 a.m. ET on NFL Network, which is 3:30 p.m. in Madrid and 2:30 p.m. in the United Kingdom."
+  - "Bengals vs. Falcons in Madrid kicks off Sun., Nov. 8 at 9:30 a.m. ET on NFL Network, which is 3:30 p.m. in Madrid and 2:30 p.m. in the United Kingdom; NFL.com also lists NFL+ streaming."
   - "Sunday has the Madrid game, seven games at 1 p.m. ET, one at 4:05 p.m., three at 4:25 p.m. and Buccaneers at Bears at 8:20 p.m. on NBC."
-  - "The Steelers and Titans are on bye. A free one-page pick'em sheet with a Monday total-points tiebreaker is below."
+  - "The Thursday game is final: Jaguars 33, Ravens 10, per NFL.com. The Steelers and Titans are on bye, and a free pick'em sheet with a Monday tiebreaker is below."
 faq:
   - q: "What time is the NFL game in Madrid on Nov. 8, 2026?"
-    a: "Bengals vs. Falcons kicks off at 9:30 a.m. ET on Sunday, Nov. 8, per NFL.com, on NFL Network. That is 8:30 a.m. Central, 7:30 a.m. Mountain, 6:30 a.m. Pacific, 2:30 p.m. in the United Kingdom and 3:30 p.m. in Madrid, by our conversion."
+    a: "Bengals vs. Falcons kicks off at 9:30 a.m. ET on Sunday, Nov. 8, per NFL.com, on NFL Network. That is 8:30 a.m. Central, 7:30 a.m. Mountain, 6:30 a.m. Pacific, 2:30 p.m. in the United Kingdom and 3:30 p.m. in Madrid, by our conversion. The Atlanta Falcons say \"3:30 p.m. local time in Madrid\" and list NFL Network nationally, with NFL+ and ESPN streaming platforms."
   - q: "What time do NFL games start on Sunday, Nov. 8, 2026?"
-    a: "NFL.com lists 9:30 a.m. ET (Madrid), seven games at 1 p.m. ET, one at 4:05 p.m. ET, three at 4:25 p.m. ET and one at 8:20 p.m. ET."
+    a: "NFL.com lists 9:30 a.m. ET (Madrid), seven games at 1 p.m. ET (four on CBS, three on FOX), one at 4:05 p.m. ET, three at 4:25 p.m. ET and one at 8:20 p.m. ET."
   - q: "Which teams are on bye in NFL Week 9?"
     a: "The Pittsburgh Steelers and Tennessee Titans, per NFL.com."
   - q: "What channel is Monday Night Football in Week 9?"
-    a: "Bills at Vikings is on Mon., Nov. 9 at 8:15 p.m. ET on ESPN, ABC, ESPN2 and NFL Network, per NFL.com."
+    a: "Bills at Vikings is on Mon., Nov. 9 at 8:15 p.m. ET on ESPN, ESPN Deportes and ABC, per NFL.com, which also says to stream on mobile with NFL+."
   - q: "Are Week 9 times on Eastern Standard Time?"
     a: "Yes. Clocks fall back on Sun., Nov. 1, 2026, so every Week 9 kickoff is on Eastern Standard Time (EST)."
 sources:
+  - title: "NFL+: How to watch Week 9 NFL games, schedule, Madrid game details, and more"
+    url: "https://www.nfl.com/news/nfl-how-to-watch-week-9-nfl-games-schedule-madrid-game-details-and-more"
+    publisher: "National Football League"
+    date: "2026-11-08"
+  - title: "Where to watch Cincinnati Bengals vs. Atlanta Falcons"
+    url: "https://www.atlantafalcons.com/news/where-watch-atlanta-falcons-cincinnati-bengals-madrid-stream-tv-radio"
+    publisher: "Atlanta Falcons"
+    date: "2026-11-04"
+  - title: "How To Watch Bengals at Falcons Week 9 in Madrid: TV, Streaming and Radio Information"
+    url: "https://www.bengals.com/news/how-to-watch-listen-stream-falcons-bengals-week-9-2026-madrid"
+    publisher: "Cincinnati Bengals"
   - title: "Raiders 2026 Schedule"
     url: "https://www.raiders.com/schedule/"
     publisher: "Las Vegas Raiders"
@@ -76,7 +87,7 @@ sources:
   - title: "NFL Schedule"
     url: "https://www.nfl.com/schedules/"
     publisher: "National Football League"
-    date: "2026-10-28"
+    date: "2026-11-08"
   - title: "Daylight Saving Time (DST)"
     url: "https://www.nist.gov/pml/time-and-frequency-division/popular-links/daylight-saving-time-dst"
     publisher: "National Institute of Standards and Technology"
@@ -85,7 +96,7 @@ internalLinks:
     label: "November 2026 printable calendar"
   - href: "/printable-weekly-calendar.html"
     label: "printable weekly calendar"
-related: [thursday-night-football-tonight-jaguars-ravens-tnf-schedule-2026, monday-night-football-tonight-bills-vikings-mnf-november-9-2026, printable-nfl-pickem-sheets-2026]
+related: [bengals-falcons-madrid-2026-kickoff-time-tv-streaming, monday-night-football-tonight-bills-vikings-mnf-november-9-2026, printable-nfl-pickem-sheets-2026]
 downloads:
   - group: "NFL Week 9 Pick'em Sheet 2026 printables"
     title: "NFL Week 9 Pick'em Sheet 2026"
@@ -95,14 +106,6 @@ downloads:
     pdf: "/news/downloads/nfl-week-9-2026/nfl-week-9-pick-em-sheet-2026.pdf"
     png: "/news/downloads/nfl-week-9-2026/nfl-week-9-pick-em-sheet-2026.png"
     pages: 1
-  - group: "NFL Week 9 Pick'em Sheet 2026 printables"
-    title: "NFL Week 9 Pick'em Sheet 2026 (ink saver)"
-    description: "A one-page NFL Week 9 2026 pick'em sheet with all 15 games, Eastern Time kickoffs, TV networks, blanks for picks and scores, and a tiebreaker line. Ink-saver version."
-    preview: ../../../../assets/news/nfl-week-9-2026/nfl-week-9-pick-em-sheet-2026-ink.png
-    alt: "Printable NFL Week 9 2026 pick'em sheet listing 15 games with kickoff, network and blanks for picks and scores, ink-saver version"
-    pdf: "/news/downloads/nfl-week-9-2026/nfl-week-9-pick-em-sheet-2026-ink.pdf"
-    png: "/news/downloads/nfl-week-9-2026/nfl-week-9-pick-em-sheet-2026-ink.png"
-    pages: 1
 draft: false
 ---
 
@@ -110,16 +113,16 @@ draft: false
 
 ## What is the NFL Week 9 schedule for 2026?
 
-Every kickoff in this table is in ET, taken from NFL.com's Week 9 page. Clocks fall back on Sunday, Nov. 1, so every Week 9 kickoff is on Eastern Standard Time (EST), as the National Institute of Standards and Technology (NIST) says daylight saving time in 2026 ends "November 1 at 2 a.m. (local time)". The Steelers and Titans are on bye, and Monday's game is on ESPN, the American Broadcasting Company (ABC), ESPN2 and NFL Network. The schedule matches our [printable NFL schedule for 2026-2027](/news/printable-nfl-schedule-2026-2027-pdf/), which was reconciled with NFL.com on Oct. 23, 2026.
+Every kickoff in this table is in ET, taken from NFL.com's Week 9 page. Clocks fall back on Sunday, Nov. 1, so every Week 9 kickoff is on Eastern Standard Time (EST), as the National Institute of Standards and Technology (NIST) says daylight saving time in 2026 ends "November 1 at 2 a.m. (local time)". The Steelers and Titans are on bye, and Monday's game is on ESPN, ESPN Deportes and the American Broadcasting Company (ABC), per NFL.com. The Thursday game is over: NFL.com lists Jaguars 33, Ravens 10, final. The schedule matches our [printable NFL schedule for 2026-2027](/news/printable-nfl-schedule-2026-2027-pdf/), which was reconciled with NFL.com on Oct. 23, 2026.
 
 | Day | Kickoff (ET) | Game | TV |
 |---|---|---|---|
-| Thu., Nov. 5 | 8:15 p.m. | Jaguars at Ravens | Prime Video |
+| Thu., Nov. 5 | 8:15 p.m. | Jaguars at Ravens | Prime Video (final: Jaguars 33, Ravens 10) |
 | Sun., Nov. 8 | 9:30 a.m. | Bengals vs. Falcons (Madrid) | NFL Network |
 | Sun., Nov. 8 | 1 p.m. | Browns at Saints | CBS |
 | Sun., Nov. 8 | 1 p.m. | Cowboys at Colts | FOX |
 | Sun., Nov. 8 | 1 p.m. | Broncos at Panthers | CBS |
-| Sun., Nov. 8 | 1 p.m. | Lions at Dolphins | FOX |
+| Sun., Nov. 8 | 1 p.m. | Lions at Dolphins | CBS |
 | Sun., Nov. 8 | 1 p.m. | Rams at Commanders | FOX |
 | Sun., Nov. 8 | 1 p.m. | Giants at Eagles | FOX |
 | Sun., Nov. 8 | 1 p.m. | Jets at Chiefs | CBS |
@@ -128,7 +131,7 @@ Every kickoff in this table is in ET, taken from NFL.com's Week 9 page. Clocks f
 | Sun., Nov. 8 | 4:25 p.m. | Raiders at 49ers | FOX |
 | Sun., Nov. 8 | 4:25 p.m. | Packers at Patriots | FOX |
 | Sun., Nov. 8 | 8:20 p.m. | Buccaneers at Bears | NBC |
-| Mon., Nov. 9 | 8:15 p.m. | Bills at Vikings | ESPN, ABC, ESPN2, NFL Network |
+| Mon., Nov. 9 | 8:15 p.m. | Bills at Vikings | ESPN, ESPN Deportes, ABC |
 
 The three prime-time games each have their own guide: [Thursday Night Football, Jaguars at Ravens](/news/thursday-night-football-tonight-jaguars-ravens-tnf-schedule-2026/), [Sunday Night Football, Buccaneers at Bears](/news/sunday-night-football-tonight-buccaneers-bears-snf-november-8-2026/) and [Monday Night Football, Bills at Vikings](/news/monday-night-football-tonight-bills-vikings-mnf-november-9-2026/).
 
@@ -148,7 +151,7 @@ We worked out the Central Time (CT), Mountain Time (MT), Pacific Time (PT) and U
 
 ## What time is Bengals vs. Falcons in Madrid?
 
-NFL.com lists Bengals vs. Falcons on Sunday, Nov. 8 at 9:30 a.m. ET on NFL Network. In Madrid, on Central European Time (CET, UTC+1), that is 3:30 p.m. In the United Kingdom it is 2:30 p.m. Our [NFL international games story](/news/nfl-international-games-november-2026-madrid-munich-mexico-city-kickoff-times/) has the stadium, Bernabéu Stadium, and the Munich and Mexico City games that follow.
+NFL.com lists Bengals vs. Falcons on Sunday, Nov. 8 at 9:30 a.m. ET on NFL Network, with a mobile stream on NFL+. The Atlanta Falcons list the game on NFL Network nationally and on Atlanta News First locally, with NFL+ and ESPN streaming platforms. The Cincinnati Bengals list NFL Network nationally and a local Cincinnati station. Our [Bengals vs. Falcons Madrid guide](/news/bengals-falcons-madrid-2026-kickoff-time-tv-streaming/) has the full viewing details. In Madrid, on Central European Time (CET, UTC+1), that is 3:30 p.m. In the United Kingdom it is 2:30 p.m. Our [NFL international games story](/news/nfl-international-games-november-2026-madrid-munich-mexico-city-kickoff-times/) has the stadium, Bernabéu Stadium, and the Munich and Mexico City games that follow.
 
 ## How many Week 9 games kick off in primetime?
 
@@ -156,7 +159,7 @@ Three Week 9 games stand alone in national primetime: Jaguars at Ravens on Thurs
 
 ## Week 9 rest days: Jaguars and Ravens play on four days, four teams return from bye
 
-Counting calendar days between each team's previous game and its Week 9 game in the NFL.com schedule data, the shortest turnaround belongs to the Jacksonville Jaguars and Baltimore Ravens. Both played on Sunday, Nov. 1 and meet on Thursday, Nov. 5, four days later. The Seattle Seahawks and Chicago Bears played the Monday game of Week 8 on Nov. 2 and get six days. The New Orleans Saints, New York Giants, Houston Texans and San Francisco 49ers last played on Oct. 25 and come back after 14 days. The Steelers and Titans are on bye this week.
+Counting calendar days between each team's previous game and its Week 9 game in the NFL.com schedule data, the shortest turnaround belongs to the Jacksonville Jaguars and Baltimore Ravens. Both played on Sunday, Nov. 1 and meet on Thursday, Nov. 5, four days later. The Seattle Seahawks and Chicago Bears played the Monday game of Week 8 on Nov. 2 and get six days. The New Orleans Saints, New York Giants, Houston Texans and San Francisco 49ers last played on Oct. 25 and come back after 14 days. The Steelers and Titans are on bye in Week 9.
 
 | Team | Previous game | Days of rest | Week 9 game (ET) |
 |---|---|---|---|
@@ -173,16 +176,16 @@ Days of rest are the calendar days between the two dates, our calculation from t
 
 ## Is there a printable NFL Week 9 pick'em sheet?
 
-Yes, and it is free. The one-page PDF lists the 15 games in kickoff order, shows each network, and gives every game two blanks, one for your pick and one for the final score. A tick box on each row lets you mark a game off when it ends. The tiebreaker line asks for the combined points in Monday's Bills at Vikings game. Pin it near the [November 2026 printable calendar](/november-calendars.html) or a [printable weekly calendar](/printable-weekly-calendar.html) and finish your picks before the Thursday opener.
+Yes, and it is free. The one-page PDF lists the 15 games in kickoff order, shows each network, and gives every game two blanks, one for your pick and one for the final score. A tick box on each row lets you mark a game off when it ends. The tiebreaker line asks for the combined points in Monday's Bills at Vikings game. Pin it near the [November 2026 printable calendar](/november-calendars.html) or a [printable weekly calendar](/printable-weekly-calendar.html) and fill in your picks before each kickoff. The Thursday game is already final, so that row shows the score.
 
 ## Which games are on Sunday, Nov. 8?
 
 NFL.com lists five Sunday start times, all ET.
 
 - 9:30 a.m.: Bengals vs. Falcons in Madrid on NFL Network.
-- 1 p.m.: seven games, three on CBS and four on FOX.
+- 1 p.m.: seven games, four on CBS (including Lions at Dolphins) and three on FOX.
 - 4:05 p.m.: Texans at Chargers on CBS.
-- 4:25 p.m.: Cardinals at Seahawks, Packers at Patriots and Raiders at 49ers, all on FOX. Raiders at 49ers moved from 4:05 p.m. on CBS, per the Raiders and 49ers schedules.
+- 4:25 p.m.: Cardinals at Seahawks, Packers at Patriots and Raiders at 49ers, all on FOX.
 - 8:20 p.m.: Buccaneers at Bears on NBC.
 
 The week before, our [NFL Week 8 schedule](/news/nfl-week-8-schedule-2026-game-times-tv-clock-change/) covers the games on either side of the Nov. 1 clock change. Kickoffs can still change, so look at NFL.com on game day.

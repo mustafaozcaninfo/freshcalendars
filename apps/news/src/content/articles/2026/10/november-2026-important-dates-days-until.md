@@ -4,7 +4,7 @@ seoTitle: "November 2026 Holidays: Calendar With Every Key Date"
 description: "Holidays in November 2026: Election Day Nov. 3, Veterans Day Nov. 11, Thanksgiving Nov. 26, Black Friday Nov. 27. Every date, days until each and a printable."
 type: explainer
 publishedAt: "2026-10-19T08:00:00-04:00"
-updatedAt: "2026-11-02T14:10:00-05:00"
+updatedAt: "2026-11-08T06:40:00-05:00"
 authors: [jessica-hartwell]
 category: calendar-guides
 keywords: ["November 2026 holidays", "November 2026 important dates", "holidays in November 2026", "Thanksgiving 2026 calendar", "days until Thanksgiving 2026"]
@@ -47,6 +47,33 @@ sources:
   - title: "Where to Vote"
     url: "https://www.votetexas.gov/voting/where.html"
     publisher: "Texas Secretary of State (VoteTexas.gov)"
+  - title: "How to watch, listen and stream Falcons vs. Bengals, Week 9 2026, Madrid"
+    url: "https://www.bengals.com/news/how-to-watch-listen-stream-falcons-bengals-week-9-2026-madrid"
+    publisher: "Cincinnati Bengals"
+  - title: "Indigenous Veterans Day ceremony, Ottawa"
+    url: "https://veterans.gc.ca/en/remembrance/get-involved/commemorative-events/calendar-events/indigenous-veterans-day-ceremony-ottawa"
+    publisher: "Veterans Affairs Canada"
+  - title: "National Fried Chicken Sandwich Day"
+    url: "https://www.jollibeefoods.com/national-fried-chicken-sandwich-day"
+    publisher: "Jollibee USA"
+  - title: "TRICARE Open Season"
+    url: "https://tricare.mil/OpenSeason"
+    publisher: "TRICARE (Defense Health Agency)"
+  - title: "Emirates FA Cup second round draw to be broadcast on TNT Sports"
+    url: "https://www.thefa.com/news/2026/nov/06/emirates-fa-cup-second-round-draw-to-be-broadcast-on-tnt-sports-20260611"
+    publisher: "The Football Association (The FA)"
+  - title: "Children's Book Week 2026 activities"
+    url: "https://videolibrarian.com/articles/news/childrens-book-week-2026-activities/"
+    publisher: "Video Librarian"
+  - title: "World Nursery Rhyme Week"
+    url: "https://www.worldnurseryrhymeweek.com/"
+    publisher: "World Nursery Rhyme Week (Music Bugs)"
+  - title: "DeCA honors 251 years of the U.S. Marine Corps"
+    url: "https://prod.commissaries.com/our-agency/newsroom/news-releases/deca-honors-251-years-us-marine-corps"
+    publisher: "Defense Commissary Agency"
+  - title: "Anti-Bullying Week 2026"
+    url: "https://s4s.wandsworth.gov.uk/Article/188185"
+    publisher: "Wandsworth Council schools service"
 internalLinks:
   - href: "/november-calendars.html"
     label: "November 2026 printable calendar"
@@ -56,7 +83,7 @@ internalLinks:
     label: "When is Black Friday"
   - href: "/when-is/veterans-day/"
     label: "When is Veterans Day"
-related: [why-thanksgiving-2026-is-november-26, world-kindness-day-2026-friday-november-13-kindness-dates-printable, nurse-practitioner-week-2026-november-8-14-aanp-events]
+related: [why-thanksgiving-2026-is-november-26, world-kindness-day-2026-friday-november-13-kindness-dates-printable, tricare-open-season-2026-november-9-december-8-dates]
 downloads:
   - group: "November 2026 printables"
     title: "November 2026 Calendar With Holidays (Sunday Start)"
@@ -126,9 +153,11 @@ A federal holiday does not close every business or school. Banks, stores, transi
 | Nov. 3 | Tuesday | Election Day | 1 |
 | Nov. 5 | Thursday | Guy Fawkes Night in the U.K. | 3 |
 | Nov. 6 | Friday | Dhanteras, first day of Diwali | 4 |
-| Nov. 8 | Sunday | Diwali and Lakshmi Puja | 6 |
-| Nov. 10 | Tuesday | Bhai Dooj, last day of Diwali | 8 |
+| Nov. 8 | Sunday | Diwali and Lakshmi Puja; National Indigenous Veterans Day ceremonies in Canada; Bengals vs. Falcons in Madrid, 9:30 a.m. ET | 6 |
+| Nov. 9 | Monday | Military health Open Season begins; Children's Book Week and World Nursery Rhyme Week begin; National Chicken Sandwich Day; FA Cup second round draw, about 1:45 p.m. ET | 7 |
+| Nov. 10 | Tuesday | Bhai Dooj, last day of Diwali; Marine Corps 251st birthday | 8 |
 | Nov. 11 | Wednesday | Veterans Day (federal holiday); Remembrance Day in Canada and the U.K. | 9 |
+| Nov. 16 | Monday | Anti-Bullying Week begins in the U.K. (to Nov. 20) | 14 |
 | Nov. 19 | Thursday | Grand Theft Auto VI launches | 17 |
 | Nov. 24 | Tuesday | Beaver Moon, full at 9:53 a.m. EST | 22 |
 | Nov. 25 | Wednesday | Day before Thanksgiving, a peak travel day | 23 |
@@ -149,6 +178,10 @@ To count from a different day, take the days left in the current month and add t
 
 **Nov. 6 to 10, Diwali.** The five days run from Dhanteras on Friday to Bhai Dooj on Tuesday, with Lakshmi Puja on Sunday evening, Nov. 8. Our [Diwali 2026 guide](/news/diwali-2026-date-lakshmi-puja-time-usa/) lists evening puja times for 12 U.S. cities.
 
+**Nov. 8, also on the calendar.** Veterans Affairs Canada lists [National Indigenous Veterans Day ceremonies](/news/national-indigenous-veterans-day-2026-canada-november-8/), and the Bengals and Falcons play in Madrid at 9:30 a.m. Eastern ([kickoff time and TV](/news/bengals-falcons-madrid-2026-kickoff-time-tv-streaming/)).
+
+**Nov. 9 to 16.** Monday, Nov. 9 brings [National Chicken Sandwich Day deals](/news/national-chicken-sandwich-day-2026-deals-november-9/) and the [FA Cup second round draw](/news/fa-cup-second-round-draw-2026-time-tv-ball-numbers/), at about 1:45 p.m. Eastern. [Children's Book Week](/news/childrens-book-week-november-2026-november-9-15/) runs Nov. 9 to 15 and [World Nursery Rhyme Week](/news/world-nursery-rhyme-week-2026-november-9-13-rhymes/) Nov. 9 to 13. The Marine Corps turns 251 on Nov. 10 ([DeCA release](/news/marine-corps-birthday-2026-november-10-251st/)), and [Anti-Bullying Week](/news/anti-bullying-week-2026-uk-november-16-20-odd-socks-day/) runs in the U.K. from Nov. 16 to 20.
+
 ## Mid-month: Veterans Day and a big game launch
 
 Veterans Day falls on Wednesday, Nov. 11. Federal offices, banks and post offices close, while most stores stay open. Our [Veterans Day story](/news/veterans-day-2026-wednesday-november-11/) lists what is open.
@@ -166,10 +199,11 @@ Thanksgiving is Thursday, Nov. 26. It is always the fourth Thursday of November,
 | Deadline | Date |
 |---|---|
 | Medicare open enrollment ends | Monday, Dec. 7 |
+| Military health Open Season ends | Tuesday, Dec. 8 |
 | Federal government funding runs out | Friday, Dec. 11 |
 | First SSI payment with the 3.6% COLA | Thursday, Dec. 31 |
 
-The [Medicare open enrollment guide](/news/medicare-open-enrollment-2026-december-7-90-dollar-rebate/) and [Social Security COLA report](/news/social-security-cola-2027-3-6-percent-payment-dates/) have the details.
+The [military health Open Season dates](/news/tricare-open-season-2026-november-9-december-8-dates/) run Nov. 9 to Dec. 8, with changes effective Jan. 1, 2027. The [Medicare open enrollment guide](/news/medicare-open-enrollment-2026-december-7-90-dollar-rebate/) and [Social Security COLA report](/news/social-security-cola-2027-3-6-percent-payment-dates/) have the details.
 
 ## Put it on the wall
 

@@ -85,7 +85,7 @@ internalLinks:
     label: "November 2026 printable calendar"
   - href: "/printable-weekly-calendar.html"
     label: "printable weekly calendar"
-related: [national-authors-day-2026-november-1-history-reading-log, international-day-of-education-2027-sunday-january-24, world-braille-day-2027-monday-january-4]
+related: [national-authors-day-2026-november-1-history-reading-log, international-day-of-education-2027-sunday-january-24, childrens-book-week-november-2026-november-9-15]
 draft: false
 ---
 

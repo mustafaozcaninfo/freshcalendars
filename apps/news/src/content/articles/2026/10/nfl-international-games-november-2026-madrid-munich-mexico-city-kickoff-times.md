@@ -48,7 +48,7 @@ internalLinks:
     label: "November 2026 printable calendar"
   - href: "/printable-weekly-calendar.html"
     label: "Printable weekly calendar"
-related: [printable-nfl-schedule-2026-2027-pdf, thanksgiving-football-schedule-2026-nfl-college-games, college-football-conference-championship-games-2026-schedule-times-tv]
+related: [bengals-falcons-madrid-2026-kickoff-time-tv-streaming, printable-nfl-schedule-2026-2027-pdf, thanksgiving-football-schedule-2026-nfl-college-games]
 assets:
   overlay: true
   kicker: "NFL abroad · Nov. 8, 15 and 22, 2026"
