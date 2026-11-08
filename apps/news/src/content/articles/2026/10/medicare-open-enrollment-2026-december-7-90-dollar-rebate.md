@@ -4,7 +4,7 @@ seoTitle: "Medicare Open Enrollment 2026 Deadline: Dec. 7"
 description: "Medicare open enrollment for 2027 coverage ends Monday, Dec. 7, 2026. See a live countdown, the key dates and who gets the one-time $90 Part B rebate."
 type: news
 publishedAt: "2026-10-18T08:40:00-04:00"
-updatedAt: "2026-10-24T00:50:00-04:00"
+updatedAt: "2026-11-07T21:18:00-05:00"
 authors: [aaron-kessler]
 category: money-benefits
 keywords: ["medicare open enrollment 2026 deadline", "Medicare open enrollment 2026", "Medicare deadline December 7", "$90 Medicare rebate", "Part D out-of-pocket cap 2027"]
@@ -29,7 +29,7 @@ faq:
   - q: "Do Medicare Advantage members get the $90?"
     a: "No. CMS says beneficiaries enrolled in Medicare Advantage plans are not eligible, even though most still pay a Part B premium."
   - q: "Do I need to apply for the $90 rebate?"
-    a: "No. Most eligible people received a direct deposit from the Social Security Administration on or around Oct. 8, 2026. Others get a paper check from the Treasury later in October."
+    a: "Neither CMS nor Medicare.gov describes any claim form or application. Medicare.gov tells people to look for a direct deposit or a check in the mail from the U.S. Treasury. CMS said most payments would arrive by direct deposit on or around Oct. 8, 2026, and the rest as paper checks later in October."
   - q: "What if I miss Dec. 7?"
     a: "If you are in a Medicare Advantage plan, you can make one change from Jan. 1 to March 31, 2027. Otherwise, changes generally have to wait for next year's open enrollment unless you qualify for a special enrollment period."
 sources:
@@ -50,6 +50,13 @@ sources:
   - title: "Understanding Medicare Advantage & Medicare Drug Plan Enrollment Periods"
     url: "https://www.medicare.gov/publications/11219-Understanding-Medicare-Advantage-Medicare-Drug-Plan-Enrollment-Periods.pdf"
     publisher: "Medicare.gov"
+  - title: "One-time premium rebate letter"
+    url: "https://www.medicare.gov/basics/forms-publications-mailings/mailings/other/one-time-premium-rebate-letter"
+    publisher: "Medicare.gov"
+  - title: "Medicare Part D 2027 National Average Monthly Bid Amount Information"
+    url: "https://www.cms.gov/newsroom/fact-sheets/medicare-part-d-2027-national-average-monthly-bid-amount-information"
+    publisher: "Centers for Medicare & Medicaid Services"
+    date: "2026-07-28"
 internalLinks:
   - href: "/december-calendars.html"
     label: "December 2026 printable calendar"
@@ -111,24 +118,23 @@ Plans can change their costs, drug lists and networks every year. That includes 
 
 The White House announced the payment on Oct. 2, 2026, and CMS published its rules the next day. CMS calls it the Medicare Improvement Fund Premium Rebate. It is paid from the Medicare Improvement Fund, which the White House says Congress funded with $2 billion and which had not been used before.
 
-| Question | Answer from CMS |
+| Question | Answer |
 |---|---|
 | How much | One payment of $90 |
 | Who qualifies | People in Original Medicare Part B who live in the U.S., do not get Part B premium help from Medicaid, and do not pay an income-related monthly adjustment amount (IRMAA) |
 | How many people | About 20.8 million |
 | Who does not qualify | Medicare Advantage enrollees, people whose premium is paid through Medicaid, people who pay IRMAA |
-| How it is paid | Most by direct deposit from the Social Security Administration on or around Oct. 8; others by Treasury paper check later in October |
-| Application | None; it is automatic |
+| How it is paid | Direct deposit, or a U.S. Treasury check by mail; no claim step described. CMS said most would be paid by direct deposit on or around Oct. 8 and the rest by paper check later in October |
 | Questions about eligibility | 1-800-MEDICARE (1-800-633-4227) |
 | Questions about payment status | Social Security, 1-800-772-1213, starting Oct. 15 |
 
-The rebate does not change your monthly Part B premium. It is a single payment. The standard 2026 premium is $202.90, so the $90 covers less than half of one month.
+The rebate does not change your monthly Part B premium. It is a single payment. The 2026 standard premium is $202.90, so the $90 covers less than half of one month.
 
 ## Drug costs change on Jan. 1
 
-For 2027, the annual cap on what you pay out of pocket for covered Part D drugs rises to **$2,400**, from $2,100 in 2026, according to Medicare.gov. The highest deductible a Medicare drug plan can charge rises to $700, from $615. Once you reach the cap, you pay nothing more for covered drugs for the rest of the year. The cap resets every January.
+For 2027, the annual cap on what you pay out of pocket for covered Part D drugs rises to **$2,400**, from $2,100 in 2026, according to Medicare.gov. The highest deductible a Medicare drug plan can charge rises to $700, from $615. Once you reach the cap, you pay nothing more for covered drugs for the rest of the year. The cap resets every January. The Centers for Medicare & Medicaid Services (CMS) also said that for 2027, the base beneficiary premium will be $41.33. That figure is used to calculate Part D late-enrollment penalties and premium subsidies; it is not what any plan charges.
 
-The 2027 Part B premium had not been announced as of Oct. 18. Our guide to the [projected 2027 Part B premium](/news/medicare-part-b-premium-2027-projected-209-50-when-cms-announces/) explains what the trustees project. Our [Social Security COLA story](/news/social-security-cola-2027-3-6-percent-payment-dates/) covers the 3.6% benefit increase and how premiums are deducted from January payments.
+The 2027 Part B premium and deductible had not been announced as of Nov. 7, 2026. Our guide to the [projected 2027 Part B premium](/news/medicare-part-b-premium-2027-projected-209-50-when-cms-announces/) explains what the trustees project. Our [Social Security COLA story](/news/social-security-cola-2027-3-6-percent-payment-dates/) covers the 3.6% benefit increase and how premiums are deducted from January payments.
 
 ## Before you decide
 
