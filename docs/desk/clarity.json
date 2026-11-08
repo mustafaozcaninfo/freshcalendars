@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-07T17:20:37.003Z",
+ "generatedAt": "2026-11-08T08:03:50.063Z",
  "pages": [
   {
    "metricName": "DeadClickCount",
@@ -9623,6 +9623,7 @@
   }
  ],
  "failed": [
+  "pages: 429: Exceeded daily limit",
   "channels: 429: Exceeded daily limit",
   "devices: 429: Exceeded daily limit"
  ]

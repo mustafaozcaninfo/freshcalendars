@@ -1,6 +1,6 @@
 # Traffic (generated, do not edit)
 
-Read 2026-11-07T17:00 UTC from Cloudflare's edge analytics for freshcalendars.com, last 7 days (UTC days). Every page the edge served to a real browser counts, so these numbers are higher than Google Analytics, which misses ad-blocked visits and readers who leave before the page finishes loading. Self-declared bots are left out; unlabeled bots are not, and they are many: real search traffic is mostly mobile, so a desktop share far above half means bots and crawlers inflate these totals. Treat them as an upper bound and use the trend and the story ranking. Source: `scripts/news-traffic.mjs`, daily.
+Read 2026-11-08T08:00 UTC from Cloudflare's edge analytics for freshcalendars.com, last 7 days (UTC days). Every page the edge served to a real browser counts, so these numbers are higher than Google Analytics, which misses ad-blocked visits and readers who leave before the page finishes loading. Self-declared bots are left out; unlabeled bots are not, and they are many: real search traffic is mostly mobile, so a desktop share far above half means bots and crawlers inflate these totals. Treat them as an upper bound and use the trend and the story ranking. Source: `scripts/news-traffic.mjs`, daily.
 
 ## Real readers (first-party beacon)
 
@@ -8,53 +8,113 @@ Page views sent by the reader's own browser to /api/pv when they leave the page 
 
 | Day | Views | Avg. seconds on page | Avg. deepest scroll |
 |---|---:|---:|---:|
-| 2026-11-07 | 44 | 26 | 20% |
-| **Total** | **44** | | |
+| 2026-11-07 | 617 | 55 | 23% |
+| 2026-11-08 | 384 | 63 | 21% |
+| **Total** | **1,001** | | |
 
 ### Where readers came from
 
 | Source | Views | Share |
 |---|---:|---:|
-| Google | 12 | 27.3% |
-| DuckDuckGo | 8 | 18.2% |
-| Inside the site | 8 | 18.2% |
-| Bing | 6 | 13.6% |
-| Yahoo | 6 | 13.6% |
-| Direct or app (no referrer) | 3 | 6.8% |
-| Other sites | 1 | 2.3% |
+| Google | 216 | 21.6% |
+| Direct or app (no referrer) | 187 | 18.7% |
+| DuckDuckGo | 172 | 17.2% |
+| Bing | 167 | 16.7% |
+| Inside the site | 139 | 13.9% |
+| Yahoo | 101 | 10.1% |
+| Other sites | 18 | 1.8% |
+| Social | 1 | 0.1% |
 
-Other sites, top 10: www.ecosia.org (1)
+Other sites, top 10: www.ecosia.org (13), search.brave.com (4), www.startpage.com (1)
 
 ### Top pages
 
 | Page | Views | Avg. seconds | Avg. deepest scroll |
 |---|---:|---:|---:|
-| /news/army-navy-game-2026-date-kickoff-time-metlife-stadium-tv/ | 11 | 22 | 10% |
-| /news/ | 4 | 11 | 9% |
-| /news/veterans-day-free-meals-discounts/ | 4 | 36 | 16% |
-| /news/senior-deduction-2026-6000-age-65-phase-out/ | 3 | 3 | 1% |
-| /news/ncaa-volleyball-tournament-2026-bracket-schedule-final-four-san-antonio/ | 2 | 115 | 21% |
-| /news/world-chess-championship-2026-gukesh-sindarov-geneva-dates-time/ | 2 | 7 | 40% |
-| /news/nyt-spelling-bee-hints-answers-november-7-2026/ | 2 | 52 | 46% |
-| /news/moon-phase-tonight-december-2026-moon-calendar/ | 2 | 7 | 45% |
-| /news/nyt-pips-hints-answers-november-8-2026/ | 1 | 3 | 0% |
-| /news/thanksgiving-football-schedule-2026-nfl-college-games/ | 1 | 21 | 47% |
-| /news/ramadan-2027-calendar-dates-timetable/ | 1 | 49 | 23% |
-| /news/savers-match-2027-1000-federal-match-income-limits/ | 1 | 3 | 9% |
-| /news/category/sky-events/ | 1 | 15 | 0% |
-| /news/london-fireworks-2026-battersea-alexandra-palace-blackheath-wimbledon-times-tickets/ | 1 | 60 | 27% |
-| /news/black-friday-canada-2026-november-27-sale-dates-canadian-tire-november-5/ | 1 | 27 | 16% |
-| /news/survivor-series-wargames-2026-date-start-time-houston-espn/ | 1 | 8 | 11% |
-| /news/pret-christmas-menu-2026/ | 1 | 49 | 53% |
-| /news/boston-public-schools-calendar-2026-27-breaks/ | 1 | 25 | 12% |
-| /news/geminid-meteor-shower-2026-peak-december-13-14-moon-viewing-times/ | 1 | 2 | 0% |
-| /news/national-days-this-week-november-16-22-2026/ | 1 | 25 | 16% |
-| /news/nyt-midi-crossword-answers-november-7-2026/ | 1 | 6 | 55% |
-| /news/nyt-connections-hints-answers-november-7-2026-1245/ | 1 | 41 | 100% |
+| /news/veterans-day-free-meals-discounts/ | 135 | 142 | 37% |
+| /news/army-navy-game-2026-date-kickoff-time-metlife-stadium-tv/ | 86 | 43 | 9% |
+| /news/ | 41 | 4 | 13% |
+| /news/nyt-connections-hints-answers-november-7-2026-1245/ | 37 | 60 | 22% |
+| /news/day-of-the-dead-2026-dia-de-los-muertos-dates/ | 31 | 86 | 9% |
+| /news/paris-masters-2026-schedule-final-time-by-time-zone/ | 30 | 44 | 22% |
+| /news/london-fireworks-2026-battersea-alexandra-palace-blackheath-wimbledon-times-tickets/ | 25 | 25 | 7% |
+| /news/nyt-strands-hints-answers-november-8-2026-980/ | 17 | 36 | 38% |
+| /news/snl-hosts-november-2026-halloween-episode-inde-navarrette-schedule/ | 16 | 60 | 20% |
+| /news/thanksgiving-football-schedule-2026-nfl-college-games/ | 15 | 51 | 17% |
+| /news/nations-championship-rugby-november-2026-fixtures-kick-off-times-uk-us/ | 13 | 81 | 30% |
+| /news/cbs-holiday-specials-2026-schedule-kids-choice-awards-soul-train-new-years-eve/ | 12 | 59 | 42% |
+| /news/black-friday-2026-post-office-banks-stock-market-open/ | 12 | 5 | 22% |
+| /news/nyt-connections-hints-answers-november-8-2026-1246/ | 11 | 82 | 19% |
+| /news/ncaa-volleyball-tournament-2026-bracket-schedule-final-four-san-antonio/ | 11 | 45 | 17% |
+| /news/nyt-pips-hints-answers-november-8-2026/ | 11 | 21 | 27% |
+| /news/printable-nfl-pickem-sheets-2026/ | 10 | 14 | 16% |
+| /news/when-do-2026-election-winners-take-office-congress-governors/ | 9 | 66 | 24% |
+| /news/costco-holiday-hours-closures-2026-2027/ | 9 | 33 | 20% |
+| /news/world-chess-championship-2026-gukesh-sindarov-geneva-dates-time/ | 9 | 5 | 23% |
+| /news/printables/ | 8 | 5 | 5% |
+| /news/diwali-2026-date-lakshmi-puja-time-usa/ | 8 | 43 | 19% |
+| /news/nyt-midi-crossword-answers-november-7-2026/ | 8 | 19 | 29% |
+| /news/2027-tax-brackets-401k-hsa-limits-irs/ | 8 | 14 | 70% |
+| /news/bonfire-night-2026-thursday-november-5-fireworks-rules/ | 8 | 6 | 13% |
+| /news/winter-solstice-2026-december-21-shortest-day-sunset-times/ | 7 | 25 | 8% |
+| /news/holiday-menus-2026-every-chain-tracker/ | 7 | 34 | 29% |
+| /news/ramadan-2027-calendar-dates-timetable/ | 7 | 19 | 14% |
+| /news/snap-payment-schedule-november-2026-deposit-dates-by-state/ | 7 | 41 | 18% |
+| /news/black-friday-2026-ad-tracker-walmart-target-best-buy/ | 6 | 399 | 30% |
+| /news/remembrance-sunday-2026-cenotaph-timings-8-november-festival-of-remembrance/ | 6 | 37 | 28% |
+| /news/great-american-christmas-2026-movie-schedule-great-american-family/ | 6 | 40 | 28% |
+| /news/nyt-connections-hints-answers-november-9-2026-1247/ | 6 | 43 | 25% |
+| /news/printable-nfl-schedule-2026-2027-pdf/ | 6 | 30 | 7% |
+| /news/category/puzzles/ | 5 | 4 | 8% |
+| /news/rosa-parks-day-2026-december-1-states/ | 5 | 5 | 15% |
+| /news/nyt-spelling-bee-hints-answers-november-8-2026/ | 5 | 11 | 21% |
+| /news/what-calendar-year-is-the-same-as-2027/ | 5 | 25 | 14% |
+| /news/great-british-bake-off-2026-free-from-week-tuesday-3-november-episode-schedule/ | 5 | 18 | 13% |
+| /news/when-are-2026-election-results-certified-deadlines-by-state/ | 5 | 39 | 16% |
 
-Devices: mobile 23 (32 s, 20% scroll) · desktop 21 (18 s, 21% scroll)
+Devices: desktop 516 (62 s, 25% scroll) · mobile 472 (54 s, 19% scroll) · tablet 13 (76 s, 23% scroll)
 
-Countries: US 21 · TR 17 · CA 2 · GB 2 · IN 2
+### Interaction to Next Paint (INP): how fast the page answers a tap
+
+Views where the reader tapped, clicked or typed. Google counts a page as good when its slow interactions stay rare; slow means over 200 ms.
+
+| Device | Views with a tap | Over 200 ms | Avg. slowest interaction |
+|---|---:|---:|---:|
+| mobile | 71 | 7.0% | 83 ms |
+| desktop | 48 | 14.6% | 169 ms |
+| tablet | 1 | 0.0% | 40 ms |
+
+Pages with the most slow taps:
+
+| Page | Views with a tap | Over 200 ms | Avg. |
+|---|---:|---:|---:|
+| /news/veterans-day-free-meals-discounts/ | 24 | 3 | 196 ms |
+| /news/day-of-the-dead-2026-dia-de-los-muertos-dates/ | 3 | 2 | 212 ms |
+| /news/mail-ballot-deadlines-2026-by-state/ | 1 | 1 | 528 ms |
+| /news/bonfire-night-2026-thursday-november-5-fireworks-rules/ | 1 | 1 | 248 ms |
+| /news/cracker-barrel-holiday-menu-2026-thanksgiving-heat-and-serve/ | 1 | 1 | 984 ms |
+| /news/snap-payment-schedule-november-2026-deposit-dates-by-state/ | 1 | 1 | 240 ms |
+| /news/celtics-schedule-december-2026-game-times-tv-christmas-printable/ | 1 | 1 | 264 ms |
+| /news/ | 4 | 1 | 99 ms |
+| /news/nyt-pips-hints-answers-november-8-2026/ | 2 | 1 | 180 ms |
+
+What was tapped, and the script that ran longest in that frame:
+
+| Element | Script | Slow taps | Avg. INP | Avg. input delay |
+|---|---|---:|---:|---:|
+| body | (none over 50 ms) | 2 | 1,606 ms | 0 ms |
+| html.news | (none over 50 ms) | 1 | 984 ms | 1 ms |
+| div.grippy-host | (none over 50 ms) | 1 | 312 ms | 64 ms |
+| body | pagead2.googlesyndication.com | 1 | 264 ms | 56 ms |
+| img | (none over 50 ms) | 1 | 296 ms | 292 ms |
+| div.article-layout | (none over 50 ms) | 1 | 288 ms | 1 ms |
+| button.test | inline | 1 | 250 ms | 90 ms |
+| (not recorded) | (none over 50 ms) | 1 | 248 ms | 8 ms |
+| a | pagead2.googlesyndication.com | 1 | 272 ms | 15 ms |
+| a | (none over 50 ms) | 1 | 240 ms | 9 ms |
+| p.news-lede | (none over 50 ms) | 1 | 528 ms | 513 ms |
+
+Countries: US 650 · TR 160 · GB 45 · CA 34 · AU 28 · FR 9 · ID 5 · PL 5 · NZ 5 · NL 5 · PT 3 · HT 3 · CO 3 · ZA 3 · PH 3
 
 ## Edge requests (upper bound)
 
@@ -62,85 +122,85 @@ Countries: US 21 · TR 17 · CA 2 · GB 2 · IN 2
 
 | Day | /news/ stories | Calendar pages | Printable PDFs |
 |---|---:|---:|---:|
-| 2026-10-31 | 39,929 | 534 | 1,248 |
-| 2026-11-01 | 26,341 | 688 | 1,236 |
-| 2026-11-02 | 28,949 | 921 | 1,591 |
-| 2026-11-03 | 26,549 | 647 | 1,619 |
-| 2026-11-04 | 19,053 | 533 | 3,796 |
-| 2026-11-05 | 17,157 | 595 | 2,437 |
-| 2026-11-06 | 17,461 | 629 | 4,330 |
-| **Total** | **175,439** | **4,547** | **16,257** |
+| 2026-11-01 | 26,041 | 685 | 1,160 |
+| 2026-11-02 | 26,777 | 945 | 1,604 |
+| 2026-11-03 | 27,364 | 563 | 1,587 |
+| 2026-11-04 | 21,171 | 582 | 3,585 |
+| 2026-11-05 | 18,579 | 621 | 2,566 |
+| 2026-11-06 | 17,256 | 610 | 4,426 |
+| 2026-11-07 | 16,980 | 603 | 1,557 |
+| **Total** | **154,168** | **4,609** | **16,485** |
 
 ## Top /news/ stories
 
 | Story | Views |
 |---|---:|
-| /news/daylight-saving-time-ends-november-1-2026/ | 24,529 |
-| /news/black-friday-canada-2026-november-27-sale-dates-canadian-tire-november-5/ | 9,923 |
-| /news/black-friday-2026-ad-tracker-walmart-target-best-buy/ | 6,814 |
-| /news/november-2026-meteor-showers-taurids-leonids/ | 5,947 |
-| /news/snap-payment-schedule-november-2026-deposit-dates-by-state/ | 4,764 |
-| /news/veterans-day-free-meals-discounts/ | 4,688 |
-| /news/canada-clocks-fall-back-november-1-2026-which-provinces-no-time-change/ | 4,525 |
-| /news/day-of-the-dead-2026-dia-de-los-muertos-dates/ | 3,342 |
-| /news/when-will-we-know-election-results-2026-midterms/ | 3,192 |
-| /news/sunset-times-after-daylight-saving-time-ends-2026/ | 2,154 |
-| /news/florida-amendments-2026-ballot-senate-special-election/ | 1,586 |
-| /news/holiday-menus-2026-every-chain-tracker/ | 1,566 |
-| /news/planets-visible-november-2026-night-sky-calendar-moon-venus-uranus-opposition/ | 1,467 |
-| /news/diwali-2026-date-lakshmi-puja-time-usa/ | 1,439 |
-| /news/election-day-2026-results-map/ | 1,426 |
-| /news/california-propositions-2026-november-ballot-explained/ | 1,349 |
-| /news/pokemon-go-november-2026-events-calendar-community-day-pawniard/ | 1,249 |
-| /news/new-york-ballot-2026-sample-ballot-governor-nyc-proposals/ | 1,205 |
-| /news/advent-calendar-2026-dates-free-printable/ | 1,204 |
-| /news/sephora-savings-event-november-2026-dates-ulta-black-friday-beauty-sales/ | 1,169 |
-| /news/sat-act-test-dates-2026-27-registration-deadlines/ | 1,136 |
-| /news/what-time-do-polls-close-election-day-2026/ | 1,117 |
-| /news/nyc-holiday-calendar-2026-rockefeller-tree-macys-parade/ | 1,113 |
-| /news/free-rides-to-the-polls-2026-lyft-uber-transit/ | 1,009 |
-| /news/statue-of-liberty-140th-anniversary-october-28-2026-timeline-visit/ | 935 |
-| /news/printable-pumpkin-carving-templates/ | 915 |
-| /news/supermoon-2026-beaver-moon-cold-moon-geminids-solstice/ | 897 |
-| /news/spotify-wrapped-2026-release-date-past-launch-dates/ | 876 |
-| /news/jobs-report-november-6-2026-time-bls-release-schedule-2027/ | 860 |
-| /news/when-do-2026-election-winners-take-office-congress-governors/ | 845 |
-| /news/deer-season-2026-opening-day-gun-season-dates-by-state/ | 840 |
-| /news/amazon-black-friday-2026-sale-dates-when-does-it-start/ | 830 |
-| /news/wta-finals-2026-indian-wells-dates-qualified-players-time-zones/ | 755 |
-| /news/black-friday-2026-price-adjustment-policies/ | 737 |
-| /news/gta-6-october-22-2026-what-is-confirmed-release-countdown/ | 736 |
-| /news/native-american-heritage-month-2026-theme-events-books-activities/ | 736 |
-| /news/nfl-week-9-schedule-2026-printable-pick-em-sheet-game-times/ | 734 |
-| /news/best-buy-black-friday-2026-doorbusters-october-30-holiday-calendar/ | 707 |
-| /news/veterans-day-2026-wednesday-november-11/ | 706 |
-| /news/is-election-day-a-holiday-2026-whats-open/ | 651 |
+| /news/black-friday-canada-2026-november-27-sale-dates-canadian-tire-november-5/ | 10,258 |
+| /news/black-friday-2026-ad-tracker-walmart-target-best-buy/ | 6,574 |
+| /news/daylight-saving-time-ends-november-1-2026/ | 6,487 |
+| /news/veterans-day-free-meals-discounts/ | 5,359 |
+| /news/november-2026-meteor-showers-taurids-leonids/ | 4,808 |
+| /news/snap-payment-schedule-november-2026-deposit-dates-by-state/ | 4,793 |
+| /news/when-will-we-know-election-results-2026-midterms/ | 3,208 |
+| /news/day-of-the-dead-2026-dia-de-los-muertos-dates/ | 2,660 |
+| /news/canada-clocks-fall-back-november-1-2026-which-provinces-no-time-change/ | 2,357 |
+| /news/diwali-2026-date-lakshmi-puja-time-usa/ | 2,073 |
+| /news/holiday-menus-2026-every-chain-tracker/ | 1,960 |
+| /news/planets-visible-november-2026-night-sky-calendar-moon-venus-uranus-opposition/ | 1,449 |
+| /news/election-day-2026-results-map/ | 1,446 |
+| /news/pokemon-go-november-2026-events-calendar-community-day-pawniard/ | 1,330 |
+| /news/california-propositions-2026-november-ballot-explained/ | 1,308 |
+| /news/sunset-times-after-daylight-saving-time-ends-2026/ | 1,268 |
+| /news/spotify-wrapped-2026-release-date-past-launch-dates/ | 1,261 |
+| /news/advent-calendar-2026-dates-free-printable/ | 1,258 |
+| /news/sephora-savings-event-november-2026-dates-ulta-black-friday-beauty-sales/ | 1,255 |
+| /news/nyc-holiday-calendar-2026-rockefeller-tree-macys-parade/ | 1,252 |
+| /news/new-york-ballot-2026-sample-ballot-governor-nyc-proposals/ | 1,167 |
+| /news/sat-act-test-dates-2026-27-registration-deadlines/ | 1,152 |
+| /news/what-time-do-polls-close-election-day-2026/ | 1,086 |
+| /news/2027-tax-brackets-401k-hsa-limits-irs/ | 985 |
+| /news/free-rides-to-the-polls-2026-lyft-uber-transit/ | 950 |
+| /news/veterans-day-2026-wednesday-november-11/ | 917 |
+| /news/supermoon-2026-beaver-moon-cold-moon-geminids-solstice/ | 917 |
+| /news/florida-amendments-2026-ballot-senate-special-election/ | 917 |
+| /news/deer-season-2026-opening-day-gun-season-dates-by-state/ | 894 |
+| /news/when-do-2026-election-winners-take-office-congress-governors/ | 851 |
+| /news/statue-of-liberty-140th-anniversary-october-28-2026-timeline-visit/ | 851 |
+| /news/jobs-report-november-6-2026-time-bls-release-schedule-2027/ | 783 |
+| /news/black-friday-2026-price-adjustment-policies/ | 750 |
+| /news/native-american-heritage-month-2026-theme-events-books-activities/ | 741 |
+| /news/nfl-week-9-schedule-2026-printable-pick-em-sheet-game-times/ | 740 |
+| /news/best-buy-black-friday-2026-doorbusters-october-30-holiday-calendar/ | 690 |
+| /news/printable-pumpkin-carving-templates/ | 620 |
+| /news/amazon-black-friday-2026-sale-dates-when-does-it-start/ | 608 |
+| /news/wta-finals-2026-indian-wells-dates-qualified-players-time-zones/ | 596 |
+| /news/when-are-2026-election-results-certified-deadlines-by-state/ | 589 |
 
 ## Top calendar pages
 
 | Page | Views |
 |---|---:|
-| /november-calendars.html | 731 |
-| /december-calendars.html | 434 |
-| /printable-calendars.html | 317 |
-| /blank-calendars.html | 268 |
-| /printable-weekly-calendar.html | 226 |
-| /september-calendars.html | 224 |
-| /printable-yearly-calendar.html | 221 |
-| /guides/classroom-printable-calendars.html | 209 |
-| /january-calendars.html | 197 |
-| /printable-school-calendar.html | 193 |
-| /october-calendars.html | 179 |
-| /print-guide.html | 178 |
-| /june-calendars.html | 164 |
-| /april-calendars.html | 155 |
-| /may-calendars.html | 140 |
+| /november-calendars.html | 745 |
+| /december-calendars.html | 436 |
+| /printable-calendars.html | 289 |
+| /blank-calendars.html | 265 |
+| /september-calendars.html | 242 |
+| /printable-weekly-calendar.html | 227 |
+| /printable-yearly-calendar.html | 223 |
+| /guides/classroom-printable-calendars.html | 200 |
+| /january-calendars.html | 196 |
+| /printable-school-calendar.html | 194 |
+| /print-guide.html | 186 |
+| /october-calendars.html | 183 |
+| /april-calendars.html | 168 |
+| /june-calendars.html | 167 |
+| /may-calendars.html | 144 |
 
 ## Countries (/news/)
 
-US 140,783 · TR 5,889 · PL 3,765 · DE 2,516 · GB 2,489 · SG 1,892 · CA 1,889 · BR 1,617 · HK 1,577 · FR 962 · AU 937 · IN 843
+US 118,919 · TR 5,813 · PL 3,790 · GB 2,543 · DE 2,500 · SG 1,969 · CA 1,852 · BR 1,684 · HK 1,575 · NL 988 · FR 983 · MX 852
 
 ## Devices (/news/)
 
-desktop 163,304 · mobile 11,635 · tablet 500
+desktop 142,549 · mobile 11,136 · tablet 483
 
