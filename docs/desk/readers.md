@@ -1,6 +1,6 @@
 # Reader signals (generated, do not edit)
 
-Built 2026-11-08T08:13 UTC by `scripts/news-readers.mjs` from the first-party beacon (last 7 days, `traffic.md`) and Microsoft Clarity (last 24 hours, `clarity.md`). What each desk does with it: `docs/DESK.md`, "Reader data". Puzzle pages are left out of the desk lists (the puzzle desk owns them).
+Built 2026-11-08T08:18 UTC by `scripts/news-readers.mjs` from the first-party beacon (last 7 days, `traffic.md`) and Microsoft Clarity (last 24 hours, `clarity.md`). What each desk does with it: `docs/DESK.md`, "Reader data". Puzzle pages are left out of the desk lists (the puzzle desk owns them).
 
 ## Readers leave fast (search desk: UX briefs)
 
@@ -9,7 +9,7 @@ Story pages with 30+ beacon views whose readers stay under 60% of the site's ave
 | Story | Views | Avg. seconds (site) | Avg. scroll | Why |
 |---|---:|---:|---:|---|
 | army-navy-game-2026-date-kickoff-time-metlife-stadium-tv | 86 | 43 (95) | 9% | leave fast, low scroll |
-| day-of-the-dead-2026-dia-de-los-muertos-dates | 31 | 86 (95) | 9% | low scroll |
+| day-of-the-dead-2026-dia-de-los-muertos-dates | 32 | 83 (95) | 11% | low scroll |
 | paris-masters-2026-schedule-final-time-by-time-zone | 30 | 44 (95) | 22% | leave fast |
 
 ## Clarity: what readers struggle with (search desk: UX briefs)
@@ -43,10 +43,10 @@ Beacon views of the last 7 days against the 7 before, per category, and views pe
 
 | Category | Views | Week before | Change | Stories read | Views per story | Avg. seconds |
 |---|---:|---:|---:|---:|---:|---:|
-| holidays | 243 | 0 | new | 34 | 7 | 102 |
+| holidays | 244 | 0 | new | 34 | 7 | 101 |
 | sports | 223 | 0 | new | 46 | 5 | 40 |
 | puzzles | 128 | 0 | new | 27 | 5 | 41 |
-| uk-canada | 72 | 0 | new | 17 | 4 | 63 |
+| uk-canada | 73 | 0 | new | 17 | 4 | 62 |
 | entertainment | 58 | 0 | new | 16 | 4 | 39 |
 | retail-dates | 55 | 0 | new | 20 | 3 | 88 |
 | school-calendars | 32 | 0 | new | 20 | 2 | 20 |
