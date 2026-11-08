@@ -106,7 +106,7 @@ assets:
 
 **Newark Public Schools (NPS) students have Thanksgiving off on Thursday and Friday, Nov. 26-27, 2026, and the district's calendar lists no school days from Thursday, Dec. 24, 2026 to Friday, Jan. 1, 2027**, according to the Newark Board of Education's [2026-2027 school calendar](https://www.nps.k12.nj.us/wp-content/uploads/2026/02/School-Calendar-SY-2026-27.pdf), approved Jan. 22, 2026. Spring Recess is March 29 to April 2, 2027, and the last day of school is Monday, June 28, 2027.
 
-Classes began Tuesday, Sept. 8, 2026, so this story looks ahead from Nov. 8. It adds the weekday and the weekdays off for every closure still to come, a list of the 1 p.m. early-dismissal days, the district's weather make-up rule and a printable school-year calendar.
+Classes began Tuesday, Sept. 8, 2026, the day after Labor Day, and the fall's first holiday, Indigenous Peoples' Day, was Monday, Oct. 12, so this story looks ahead from Nov. 8. It adds the weekday and the weekdays off for every closure still to come, a list of the 1 p.m. early-dismissal days, the district's weather make-up rule and a printable school-year calendar.
 
 ## Newark Public Schools breaks still ahead in 2026-27
 

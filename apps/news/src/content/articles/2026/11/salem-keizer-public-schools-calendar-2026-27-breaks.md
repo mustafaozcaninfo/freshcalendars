@@ -104,13 +104,13 @@ assets:
 
 **Salem-Keizer Public Schools (SKPS) lists no school Wednesday, Nov. 25 through Friday, Nov. 27, 2026 for Thanksgiving break, Monday, Dec. 21, 2026 through Friday, Jan. 1, 2027 for winter break, and Monday, March 22 through Friday, March 26, 2027 for spring break**, according to the district's [2026-27 key dates](https://resources.finalsite.net/images/v1784670902/salkeizk12orus/evcu41jsehpraddo1iwb/calendar-families-2026-27-en.pdf). The last day is June 16, 2027 for kindergarten through fifth grade (K-5) and June 17, 2027 for grades 6-11.
 
-The staff calendar cover says it was adopted in January 2026, and the families PDF is revised June 2026. This story adds the weekday and the weekdays off for every remaining no-school day, flags a run of days before spring break that other calendars split up, and ends with a printable school-year calendar.
+The staff calendar cover says it was adopted in January 2026, and the families PDF is revised June 2026. Below are the weekday and the weekdays off for every remaining no-school day (weekday counts are our arithmetic throughout), the run of days before spring break that other calendars split up, and a printable school-year calendar.
 
 ## Salem-Keizer 2026-27 breaks at a glance
 
-The key dates list "Nov. 25-27: No school - Thanksgiving break", "Dec. 21-Jan. 1: No school - Winter break" and "Mar. 22-26: No school - Spring break". Weekdays off are our arithmetic.
+The key dates list "Nov. 25-27: No school - Thanksgiving break", "Dec. 21-Jan. 1: No school - Winter break" and "Mar. 22-26: No school - Spring break".
 
-| Break | District's dates | Weekdays off (our count) |
+| Break | District's dates | Weekdays off |
 |---|---|---|
 | Thanksgiving break | Wed., Nov. 25 to Fri., Nov. 27, 2026 | 3 |
 | Winter break | Mon., Dec. 21, 2026 to Fri., Jan. 1, 2027 | 10 |
@@ -120,19 +120,19 @@ The district's [Calendar page](https://www.salkeiz.k12.or.us/about/calendar) agr
 
 ## Are Salem-Keizer students off March 17 to 26, 2027?
 
-Yes, by the district's own list. Spring break is "Mar. 22-26", and the three days before it are also no-school days: "Mar. 17: No school - Grading day/Staff development", "Mar. 18: No school - Spring conferences" and "Mar. 19: No school". Students are therefore off from Wednesday, March 17 through Friday, March 26, 2027. That is 8 weekdays by our count, longer than the 5 days a reader sees if they look only at "Spring break".
+Yes, by the district's own list. Spring break is "Mar. 22-26", and the three days before it are also no-school days: "Mar. 17: No school - Grading day/Staff development", "Mar. 18: No school - Spring conferences" and "Mar. 19: No school". Students are therefore off from Wednesday, March 17 through Friday, March 26, 2027. That is 8 weekdays, longer than the 5 days a reader sees if they look only at "Spring break".
 
 The district lists Mar. 29 as the start of trimester three for middle schools. Families planning a trip can use the [March 2027 printable calendar](/march-calendars.html) to mark the full stretch. For other districts, our [spring break 2027 school districts](/news/spring-break-2027-dates-school-districts/) story lists more dates.
 
 ## What are the Nov. 30 and Jan. 4 "Professional Development" dates?
 
-The key dates list "Nov. 30: Professional Development/District Directed" and "Jan. 4: Professional Development/District Directed". The Calendar page labels Jan. 4 "Professional Development Day". Neither entry uses the words "No school", so this story does not say whether students attend those days or when they return after winter break. Check with your child's school.
+The key dates list "Nov. 30: Professional Development/District Directed" and "Jan. 4: Professional Development/District Directed". The Calendar page labels Jan. 4 "Professional Development Day". Neither entry uses the words "No school", so we do not say whether students attend those days or when they return after winter break. Check with your child's school.
 
 ## Every remaining Salem-Keizer no-school day, with weekdays
 
-The table lists the no-school days still ahead as of Nov. 8, 2026, in the district's words. Weekdays off are our count.
+The table lists the no-school days still ahead as of Nov. 8, 2026, in the district's words.
 
-| Date | What the district lists | Weekdays off (our count) |
+| Date | What the district lists | Weekdays off |
 |---|---|---|
 | Wed., Nov. 11, 2026 | No school, district offices are closed | 1 |
 | Wed., Nov. 25 to Fri., Nov. 27, 2026 | No school - Thanksgiving break | 3 |
@@ -147,13 +147,13 @@ The table lists the no-school days still ahead as of Nov. 8, 2026, in the distri
 | Mon., May 31, 2027 | No school, district offices are closed | 1 |
 | Mon., June 21, 2027 | No school - Grading day/Staff development | 1 |
 
-Those rows add up to 29 weekdays by our count; it is not a count of student days. The district does not name the holidays behind Nov. 11, Jan. 18, Feb. 15 or May 31, but they fall on Veterans Day, Martin Luther King Jr. Day, Presidents' Day and Memorial Day. Earlier this fall the district listed no school on Sept. 7 and Oct. 9, on Oct. 28-29 for fall conferences and on Oct. 30.
+Those rows add up to 29 weekdays; it is not a count of student days. The district does not name the holidays behind Nov. 11, Jan. 18, Feb. 15 or May 31, but they fall on Veterans Day, Martin Luther King Jr. Day, Presidents' Day and Memorial Day. Earlier this fall the district listed no school on Sept. 7 and Oct. 9, on Oct. 28-29 for fall conferences and on Oct. 30.
 
 ## When is the last day of school at Salem-Keizer in 2027?
 
 The last day depends on grade. The key dates list "June 16: Last day for K-5 grade students" and "June 17: Last day for 6-11 grade students". Those are a Wednesday and a Thursday. The calendar lists high school graduation on June 9-11 and does not print a last day for grade 12.
 
-The district also lists "June 18: District offices are closed" and "June 21: No school - Grading day/Staff development". The calendar does not give a student-day count, so this story does not either.
+The district also lists "June 18: District offices are closed" and "June 21: No school - Grading day/Staff development". The calendar does not give a student-day count.
 
 ## When did the 2026-27 school year start in Salem-Keizer?
 
