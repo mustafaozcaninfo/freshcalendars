@@ -149,6 +149,12 @@ export function weeklyMd({ now, beacon, history, gsc, cats }) {
       `| Mobile scroll | ${fmt(avg(hc, (r) => r.scroll?.Mobile ?? 0))}% | ${hp.length ? `${fmt(avg(hp, (r) => r.scroll?.Mobile ?? 0))}%` : "-"} |`,
       `| Mobile active seconds | ${fmt(avg(hc, (r) => r.activeTime?.Mobile ?? 0))} | ${hp.length ? fmt(avg(hp, (r) => r.activeTime?.Mobile ?? 0)) : "-"} |`, "");
   }
+  const bing = read("bing.json");
+  if (bing?.daily?.length) {
+    const d = bing.daily.slice(-14), cur = d.slice(-7), prev = d.slice(0, -7);
+    const s = (rows, f) => rows.reduce((a, r) => a + Number(r[f] ?? 0), 0);
+    out.push("## Bing search (also Yahoo and DuckDuckGo)", "", `- last 7 days with data: ${fmt(s(cur, "Clicks"))} clicks, ${fmt(s(cur, "Impressions"))} impressions (week before: ${fmt(s(prev, "Clicks"))} clicks, ${pct(s(cur, "Clicks"), s(prev, "Clicks"))})`, "");
+  }
   const wk = Array.isArray(gsc?.weeks?.news) ? gsc.weeks.news : gsc?.weeks?.news?.web;
   if (Array.isArray(wk) && wk.length) out.push("## Google search (/news/, web)", "", ...wk.slice(0, 2).map((w) => `- ${w.start ?? w.from}..${w.end ?? w.to}: ${fmt(w.clicks)} clicks, ${fmt(w.impressions)} impressions`), "");
   if (cats?.length) out.push("## Most read categories", "", ...cats.slice(0, 6).map((c) => `- ${c.category}: ${fmt(c.views)} views (${pct(c.views, c.prev)}), ${fmt(c.perStory)} per story`), "");

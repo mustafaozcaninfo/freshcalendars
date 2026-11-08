@@ -154,8 +154,8 @@ export function beaconReport(b, days) {
 /**
  * Cloudflare Web Analytics (the beacon Cloudflare adds to every page, bots left out): Core Web
  * Vitals as Google scores them, per device, per page and per element. Account-level RUM datasets,
- * read with the same Account Analytics Read token as the beacon (CF_AE_TOKEN). Times are reported
- * in microseconds by the API when they are large; `ms` converts.
+ * read with the same Account Analytics Read token as the beacon (CF_AE_TOKEN). Times come in
+ * microseconds; `ms` converts.
  */
 const RUM_FILTER = (since, until) => `{ AND: [{ datetime_geq: "${since}", datetime_lt: "${until}" }, { requestHost: "freshcalendars.com" }, { bot: 0 }] }`;
 const VITALS_SUM = "lcpGood lcpNeedsImprovement lcpPoor lcpTotal inpGood inpNeedsImprovement inpPoor inpTotal clsGood clsNeedsImprovement clsPoor clsTotal";
@@ -167,8 +167,8 @@ export const RUM_QUERIES = {
   lcpElements: (f) => `rumWebVitalsEventsAdaptiveGroups(limit: 10, filter: ${f}, orderBy: [count_DESC]) { count quantiles { largestContentfulPaintP75 } dimensions { largestContentfulPaintElement } }`,
   visits: (f) => `rumPageloadEventsAdaptiveGroups(limit: 10, filter: ${f}, orderBy: [date_ASC]) { count sum { visits } dimensions { date } }`,
 };
-/** Milliseconds from a RUM time that may come in microseconds. */
-export const ms = (v) => { const n = Number(v ?? 0); return n > 60000 ? n / 1000 : n; };
+/** Milliseconds from a RUM time: the API reports LCP and INP in microseconds (an INP p75 of 40000 is 40 ms). */
+export const ms = (v) => Number(v ?? 0) / 1000;
 const share = (good, total) => (total ? `${Math.round((100 * good) / total)}%` : "-");
 
 /** The Core Web Vitals section of the report. */
