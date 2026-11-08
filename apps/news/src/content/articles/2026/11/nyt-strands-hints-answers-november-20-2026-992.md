@@ -3,8 +3,8 @@ title: "NYT Strands Hints and Answers for Friday, Nov. 20, 2026 (#992): Spangram
 seoTitle: "Strands #992 Hints & Answers Today, November 20, 2026"
 description: "Strands #992 for Friday, Nov. 20, 2026: graded hints, a start cell and first direction for every theme word, a path map, and spoiler-marked answers."
 type: explainer
-publishedAt: "2026-11-08T05:32:00-05:00"
-updatedAt: "2026-11-08T05:32:00-05:00"
+publishedAt: "2026-11-19T00:05:00-05:00"
+updatedAt: "2026-11-19T00:05:00-05:00"
 authors: [news-desk]
 category: puzzles
 keywords: ["Strands hints today", "NYT Strands November 20 2026", "Strands 992", "Strands spangram today", "Strands answers today"]

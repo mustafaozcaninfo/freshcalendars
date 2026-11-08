@@ -3,8 +3,8 @@ title: "NYT Letter Boxed Hints and Answer for Wednesday, Nov. 11, 2026: Par 6 an
 seoTitle: "Letter Boxed Hints & Answer Today, November 11, 2026"
 description: "Letter Boxed from The New York Times (NYT) for Wednesday, Nov. 11, 2026, par 6: sides A/I/U, T/N/Y, S/H/L and P/X/B, 33 two-word routes, hints, then the answer."
 type: explainer
-publishedAt: "2026-11-08T05:32:00-05:00"
-updatedAt: "2026-11-08T05:32:00-05:00"
+publishedAt: "2026-11-10T00:05:00-05:00"
+updatedAt: "2026-11-10T00:05:00-05:00"
 authors: [news-desk]
 category: puzzles
 keywords: ["Letter Boxed answer today", "Letter Boxed hints", "NYT Letter Boxed November 11 2026", "Letter Boxed solution", "Letter Boxed two-word solutions"]

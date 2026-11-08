@@ -3,8 +3,8 @@ title: "Wordle Hints and Answer Today, #1980 for Friday, Nov. 20, 2026: Clues, T
 seoTitle: "Wordle #1980 Hints & Answer Today, November 20, 2026"
 description: "Wordle #1980 for Friday, Nov. 20, 2026: five graded clues, then archive-wide counts of past answers that share its ending, its letters or its spots."
 type: explainer
-publishedAt: "2026-11-08T05:32:00-05:00"
-updatedAt: "2026-11-08T05:32:00-05:00"
+publishedAt: "2026-11-19T00:05:00-05:00"
+updatedAt: "2026-11-19T00:05:00-05:00"
 authors: [news-desk]
 category: puzzles
 keywords: ["Wordle hint today", "Wordle 1980", "Wordle answer November 20 2026", "Wordle today", "Wordle clues"]

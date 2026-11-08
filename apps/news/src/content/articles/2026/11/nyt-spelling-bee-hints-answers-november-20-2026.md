@@ -3,8 +3,8 @@ title: "NYT Spelling Bee Hints and Answers for Friday, Nov. 20, 2026: 49 Words, 
 seoTitle: "Spelling Bee Hints & Answers Today, November 20, 2026"
 description: "Friday's Spelling Bee from The New York Times (NYT) for Nov. 20, 2026: center T, 49 words, 229 points, Genius at 160 and how often T touches each letter."
 type: explainer
-publishedAt: "2026-11-08T05:32:00-05:00"
-updatedAt: "2026-11-08T05:32:00-05:00"
+publishedAt: "2026-11-19T00:05:00-05:00"
+updatedAt: "2026-11-19T00:05:00-05:00"
 authors: [news-desk]
 category: puzzles
 keywords: ["Spelling Bee hints today", "Spelling Bee answers today", "NYT Spelling Bee November 20 2026", "Spelling Bee pangram today", "Spelling Bee hint grid"]

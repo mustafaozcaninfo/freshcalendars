@@ -3,8 +3,8 @@ title: "NYT Pips Hints and Answers for Friday, Nov. 20, 2026: Easy, Medium and H
 seoTitle: "NYT Pips Hints & Answers Today, November 20, 2026"
 description: "Pips for Friday, Nov. 20, 2026: rule counts for each board, the opening move each one forces, two hints per level, then every domino placement."
 type: explainer
-publishedAt: "2026-11-08T05:32:00-05:00"
-updatedAt: "2026-11-08T05:32:00-05:00"
+publishedAt: "2026-11-19T00:05:00-05:00"
+updatedAt: "2026-11-19T00:05:00-05:00"
 authors: [news-desk]
 category: puzzles
 keywords: ["Pips hints today", "NYT Pips answers today", "Pips November 20 2026", "Pips hard answer", "NYT Pips solution"]

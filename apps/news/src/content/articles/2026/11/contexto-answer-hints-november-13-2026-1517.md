@@ -3,8 +3,8 @@ title: "Contexto #1517 for Friday, Nov. 13, 2026: Hints, 30 Closest Words, Two C
 seoTitle: "Contexto #1517 Hints & Answer Today, November 13, 2026"
 description: "Contexto #1517 for Friday, Nov. 13, 2026: three hints, the game's 30 closest words in six groups, a rank-band table, two cold guesses, then the answer."
 type: explainer
-publishedAt: "2026-11-08T05:32:00-05:00"
-updatedAt: "2026-11-08T05:32:00-05:00"
+publishedAt: "2026-11-12T00:05:00-05:00"
+updatedAt: "2026-11-12T00:05:00-05:00"
 authors: [news-desk]
 category: puzzles
 keywords: ["Contexto answer today", "Contexto 1517", "Contexto hints", "Contexto November 13 2026", "Contexto today"]
