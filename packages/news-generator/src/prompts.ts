@@ -41,29 +41,38 @@ async function fillPlaceholders(text: string): Promise<string> {
     BANNED_EN: rules.BANNED_EN.join(", "),
     BANNED_NEW: rules.BANNED_NEW.join(", "),
     MAX_EM_DASHES: String(rules.MAX_EM_DASHES),
+    OUTPUT_FORMAT:
+      "Output format: start each section with its marker on a line of its own, exactly as written " +
+      "(for example `=== ARTICLE ===`), and nothing before the first marker. Markdown headings inside " +
+      "the article are fine; the markers are what separate the sections.",
   };
   return text.replace(/\{\{(\w+)\}\}/g, (m, k: string) => vars[k] ?? m);
 }
 
-/** Core skill + house rules (sorted by file name) + the stage's role. */
-export async function buildSystemPrompt(stage: StageName): Promise<string> {
+/**
+ * Core skill + house rules (sorted by file name), then the stage's role, as two
+ * blocks: the first is the same for every stage, so it is the cache breakpoint
+ * and stages on the same model (writer and chief) read it from the cache.
+ */
+export async function buildSystemBlocks(stage: StageName): Promise<[string, string]> {
   const core = read(resolve(SKILLS, "elite-english-content-engine/SKILL.md"));
   const houseDir = resolve(SKILLS, "house-rules");
   const house = readdirSync(houseDir)
     .filter((f) => f.endsWith(".md"))
     .sort()
     .map((f) => read(resolve(houseDir, f)));
-  const role = read(resolve(SKILLS, "stages", STAGES[stage].file));
-
-  const text = [
+  const shared = [
     core,
     "------------------------------------------------------------------------",
     "# HOUSE RULES (these override the content engine above where they disagree)",
     ...house,
-    "------------------------------------------------------------------------",
-    role,
   ].join("\n\n");
-  return fillPlaceholders(text);
+  const role = ["------------------------------------------------------------------------", read(resolve(SKILLS, "stages", STAGES[stage].file))].join("\n\n");
+  return [await fillPlaceholders(shared), await fillPlaceholders(role)];
+}
+
+export async function buildSystemPrompt(stage: StageName): Promise<string> {
+  return (await buildSystemBlocks(stage)).join("\n\n");
 }
 
 export function stageSettings(stage: StageName, cfg = getConfig()) {

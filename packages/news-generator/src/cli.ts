@@ -12,11 +12,16 @@
  *     --stage writer|editor|chief   use that stage's skill prompt and model
  *     --model <id>  --effort low|medium|high|xhigh|max  --system "<text>"
  *     --file <brief.md>             read the prompt from a file
+ *   pnpm news-gen run <brief.md>    writer -> SEO editor -> chief editor, one
+ *     [--revisions n]               revision round by default; replies, final.md
+ *                                   and run.json go to packages/news-generator/out/
  */
 import Anthropic from "@anthropic-ai/sdk";
 import { generate, MissingKeyError } from "./client.js";
 import { readFileSync } from "node:fs";
-import { getConfig } from "./config.js";
+import { getConfig, ROOT } from "./config.js";
+import { basename, resolve } from "node:path";
+import { runPipeline } from "./pipeline.js";
 import { buildSystemPrompt, isStage, stageSettings, STAGES } from "./prompts.js";
 
 function flag(args: string[], name: string): string | undefined {
@@ -78,8 +83,25 @@ async function main(): Promise<void> {
       printUsage(r);
       return;
     }
+    case "run": {
+      const revisions = flag(args, "revisions");
+      const file = args[0];
+      if (!file) throw new Error("Usage: pnpm news-gen run <brief.md> [--revisions n]");
+      const stamp = new Date().toISOString().replace(/[:.]/g, "-").slice(0, 19);
+      const dir = resolve(ROOT, "packages/news-generator/out", `${basename(file, ".md")}-${stamp}`);
+      const r = await runPipeline(readFileSync(file, "utf8"), dir, {
+        maxRevisions: revisions === undefined ? 1 : Number(revisions),
+      });
+      console.log(`\nVerdict: ${r.verdict.approved ? "APPROVED" : "REVISE"} (${r.verdict.score ?? "?"}/100)`);
+      console.log(`Headline (${r.article.headline.length}): ${r.article.headline}`);
+      console.log(`Description (${r.article.description.length}): ${r.article.description}`);
+      console.log(r.problems.length ? `House checks:\n  - ${r.problems.join("\n  - ")}` : "House checks: all pass");
+      console.log(`Cost ≈ $${r.costUsd.toFixed(4)} over ${r.steps.length} calls\nOutput: ${r.dir}`);
+      if (!r.verdict.approved || r.problems.length) process.exitCode = 2;
+      return;
+    }
     default:
-      console.log("Commands: config | ping | prompt <stage> | ask \"<prompt>\" [--stage s] [--file f] [--model id] [--effort level] [--system text]");
+      console.log("Commands: config | ping | prompt <stage> | run <brief.md> [--revisions n] | ask \"<prompt>\" [--stage s] [--file f] [--model id] [--effort level] [--system text]");
       if (cmd) process.exitCode = 1;
   }
 }

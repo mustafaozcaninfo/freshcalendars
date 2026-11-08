@@ -19,7 +19,30 @@ pnpm news-gen ping                   # cheapest possible test call
 pnpm news-gen prompt writer          # composed skill prompt for a stage (no API call)
 pnpm news-gen ask "question"         # free-form call
 pnpm news-gen ask --stage writer --file brief.md   # one stage of the skill on a brief
+pnpm news-gen run briefs/<brief>.md  # full pipeline: writer -> SEO editor -> chief editor
 ```
+
+## Pipeline (`run`)
+
+1. **Writer** (Opus, effort high) drafts from the brief only.
+2. **SEO editor** (Sonnet 5.5, effort medium) gets the brief and the full draft.
+3. **Chief editor** (Opus, effort high) gets the brief, the writer's sources and
+   open facts, and the edited version; returns `APPROVED`/`REVISE` and a score.
+   Below 90 or `REVISE`: one more editor pass with the chief's report, then the
+   chief judges again (`--revisions n` to change).
+4. The final headline, description and body go through the same checks as
+   `pnpm news:abbrev` plus the length rules (headline 40-70, description
+   120-155, body 300+ words).
+
+Every reply, `final.md` and `run.json` (verdict, checks, usage, cost per call,
+chief's report) land in `out/<brief>-<time>/` (git-ignored). Nothing is written
+into `apps/news`; a human editor reads the report before anything is published.
+Exit code 2 means not approved or a check failed.
+
+A brief holds the target query, category, verified facts with their sources,
+the only internal links the model may use, and what the page adds. Example:
+`briefs/test-charlie-brown-christmas-2026.md`. First test run (Nov. 8, 2026):
+approved at 91/100, all checks passed, about $0.52 and 3 minutes.
 
 ## Models (`.env` overrides)
 
@@ -43,5 +66,5 @@ The editorial method and the site rules are in `skills/` (see
 Calendars house rules on top (they win on conflict, banned words come from
 `scripts/lib/writing-rules.mjs`), and one role file per stage.
 
-Not built yet: the stage-to-stage pipeline, writing the story file with
-frontmatter, and running `pnpm news:abbrev` / the audit on the output.
+Not built yet: research (briefs are written by hand), writing the story file
+with frontmatter into `apps/news`, hero and printable, and the full build audit.

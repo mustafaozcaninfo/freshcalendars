@@ -2,7 +2,8 @@ import Anthropic from "@anthropic-ai/sdk";
 import { getConfig, PRICES, type GenConfig } from "./config.js";
 
 export interface GenerateOptions {
-  system?: string;
+  /** One string, or [cached prefix, uncached rest]. */
+  system?: string | [string, string];
   prompt: string;
   model?: string;
   effort?: GenConfig["effort"];
@@ -24,6 +25,13 @@ export class MissingKeyError extends Error {
         "ANTHROPIC_API_KEY=sk-ant-... (NEWS_GEN_ANTHROPIC_API_KEY takes precedence if both are set).",
     );
   }
+}
+
+function systemBlocks(system: string | [string, string]): Anthropic.Beta.BetaTextBlockParam[] {
+  const [prefix, rest] = typeof system === "string" ? [system, ""] : system;
+  const blocks: Anthropic.Beta.BetaTextBlockParam[] = [{ type: "text", text: prefix, cache_control: { type: "ephemeral" } }];
+  if (rest) blocks.push({ type: "text", text: rest });
+  return blocks;
 }
 
 let cached: Anthropic | undefined;
@@ -51,9 +59,7 @@ export async function generate(opts: GenerateOptions): Promise<GenerateResult> {
     fallbacks: "default",
     output_config: { effort: opts.effort ?? cfg.effort },
     // The skill prompt is large and identical across stories: cache it.
-    ...(opts.system
-      ? { system: [{ type: "text" as const, text: opts.system, cache_control: { type: "ephemeral" as const } }] }
-      : {}),
+    ...(opts.system ? { system: systemBlocks(opts.system) } : {}),
     messages: [{ role: "user", content: opts.prompt }],
   });
   const msg = await stream.finalMessage();
