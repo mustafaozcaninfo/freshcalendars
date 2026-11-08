@@ -1,6 +1,5 @@
 ---
-title: "March Madness 2027 Printable Bracket: 76 Teams, Selection Sunday, Game Dates and Sites"
-seoTitle: "March Madness 2027 Printable Bracket: 76 Teams"
+title: "March Madness 2027 Printable Bracket: 76-Team Field, Dates and Sites"
 description: "Free March Madness 2027 printable bracket for the 76-team men's field: the National Collegiate Athletic Association (NCAA) names teams Sun., Mar. 14."
 type: news
 publishedAt: "2027-02-15T09:00:00-05:00"

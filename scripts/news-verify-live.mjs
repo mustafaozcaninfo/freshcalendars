@@ -14,6 +14,7 @@ import { appendFileSync, mkdirSync, readFileSync, readdirSync } from "node:fs";
 import path from "node:path";
 import { fileURLToPath } from "node:url";
 import YAML from "yaml";
+import { TITLE_H1_SINCE } from "./lib/story-patterns.mjs";
 
 const ROOT = path.resolve(path.dirname(fileURLToPath(import.meta.url)), "..");
 const ARTICLES = path.join(ROOT, "apps/news/src/content/articles");
@@ -81,7 +82,9 @@ async function verify(slug) {
   const h1 = decode(h.match(/<h1[^>]*>([\s\S]*?)<\/h1>/)?.[1] ?? "");
   add("H1 = title", h1 === fm.title, h1 || "missing");
   const title = decode(h.match(/<title>([^<]*)<\/title>/)?.[1] ?? "");
-  add("<title>", title.startsWith(fm.seoTitle ?? fm.title), title || "missing");
+  // The H1 is the <title> from TITLE_H1_SINCE on; older stories may still carry a seoTitle (lib/seo.ts pageTitle).
+  const wantTitle = fm.seoTitle && (fm.publishedAt instanceof Date ? fm.publishedAt.toISOString() : String(fm.publishedAt)).slice(0, 10) < TITLE_H1_SINCE ? fm.seoTitle : fm.title;
+  add("<title>", title === wantTitle, title || "missing");
   const published = h.match(/"datePublished":"([^"]+)"/)?.[1];
   add("datePublished", sameInstant(published, fm.publishedAt), `${published} vs ${fm.publishedAt}`);
   const modified = h.match(/"dateModified":"([^"]+)"/)?.[1];

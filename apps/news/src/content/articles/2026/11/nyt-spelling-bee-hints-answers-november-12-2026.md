@@ -1,6 +1,5 @@
 ---
-title: "NYT Spelling Bee Hints and Answers for Thursday, Nov. 12, 2026: T-Centered, 54 Words, Three Eight-Letter Finds"
-seoTitle: "Spelling Bee Hints & Answers Today, November 12, 2026"
+title: "Spelling Bee Hints & Answers Today, November 12, 2026"
 description: "Thursday's Spelling Bee for Nov. 12, 2026 from the New York Times has T in the center, 54 words and 233 points, with Genius at 163. Hint grid and counts below."
 type: explainer
 publishedAt: "2026-11-11T00:05:00-05:00"

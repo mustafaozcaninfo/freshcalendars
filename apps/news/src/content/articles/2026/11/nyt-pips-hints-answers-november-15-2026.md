@@ -1,6 +1,5 @@
 ---
-title: "NYT Pips Hints and Answers for Sunday, Nov. 15, 2026: Easy, Medium and Hard"
-seoTitle: "NYT Pips Hints & Answers Today, November 15, 2026"
+title: "NYT Pips Hints & Answers Today, November 15, 2026"
 description: "Sunday, Nov. 15, 2026 Pips: two equal squares on the Hard board must split the 6-6 and the 0-0. Opening moves, two hints per level, then every placement."
 type: explainer
 publishedAt: "2026-11-14T00:05:00-05:00"

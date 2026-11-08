@@ -1,6 +1,5 @@
 ---
-title: "Strands #984, Thursday, Nov. 12, 2026: Hints for Five Theme Words and the Spangram"
-seoTitle: "Strands #984 Hints & Answers Today, November 12, 2026"
+title: "Strands #984 Hints & Answers Today, November 12, 2026"
 description: "Stuck on Strands #984 (Thursday, Nov. 12, 2026, clue \"Facing the music\")? Hints for the spangram and theme words, a board map, and answers at the end."
 type: explainer
 publishedAt: "2026-11-11T00:05:00-05:00"

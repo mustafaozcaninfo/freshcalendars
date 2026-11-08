@@ -1,6 +1,5 @@
 ---
-title: "Wordle for Wednesday, Nov. 11, 2026 (#1971): Hints on the Double Letter and More"
-seoTitle: "Wordle #1971 Hints & Answer Today, November 11, 2026"
+title: "Wordle #1971 Hints & Answer Today, November 11, 2026"
 description: "Wordle #1971, Wednesday, Nov. 11, 2026: six hints that include a doubled letter and the meaning, and the answer with a count of how rare that ending is."
 type: explainer
 publishedAt: "2026-11-10T00:05:00-05:00"

@@ -1,7 +1,6 @@
 ---
-title: "Super Bowl LXI Squares 2027: Free Printable 10x10 Grid and How It Works"
-seoTitle: "Super Bowl LXI Squares 2027: Free 10x10 Grid"
-description: "Super Bowl 61 (LXI) is Feb. 14, 2027, says the National Football League (NFL). Free printable 10x10 squares grid, with how the scoring plays move each digit."
+title: "Super Bowl LXI Squares 2027: Free Printable 10x10 Grid and Rules"
+description: "Super Bowl 61 (LXI) is Feb. 14, 2027, says the NFL. Free printable 10x10 squares grid, with how the scoring plays move each digit."
 type: explainer
 publishedAt: "2027-01-12T06:00:00-05:00"
 authors: [jessica-hartwell]

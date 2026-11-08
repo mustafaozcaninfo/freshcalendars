@@ -1,7 +1,6 @@
 ---
-title: "Black History Month 2027: Dates, 2026 Theme Recap and a Free 28-Day Printable Calendar"
-seoTitle: "Black History Month 2027: Dates and Printable Calendar"
-description: "Black History Month 2027 runs Mon., Feb. 1 to Sun., Feb. 28. The Association for the Study of African American Life and History (ASALH) has no 2027 theme yet."
+title: "Black History Month 2027: Dates and a Free 28-Day Printable Calendar"
+description: "Black History Month 2027 runs Mon., Feb. 1 to Sun., Feb. 28. The Association for the Study of African American Life and History (ASALH) has no 2027 theme."
 type: explainer
 publishedAt: "2027-01-12T06:00:00-05:00"
 authors: [christina-gerland]

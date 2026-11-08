@@ -1,6 +1,5 @@
 ---
-title: "NYT Letter Boxed Hints and Answer for Monday, Nov. 9, 2026: Par 5 and 248 Two-Word Routes"
-seoTitle: "Letter Boxed Hints & Answer Today, November 9, 2026"
+title: "Letter Boxed Hints & Answer Today, November 9, 2026"
 description: "Letter Boxed from The New York Times (NYT) for Monday, Nov. 9, 2026, par 5: a 1,947-word list, 248 two-word routes, five hints, then the answer."
 type: explainer
 publishedAt: "2026-11-08T00:05:00-05:00"

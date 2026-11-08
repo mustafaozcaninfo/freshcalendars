@@ -46,7 +46,7 @@ These tools start hidden and are switched on by the story page's script (`apps/n
 
 ### Spoiler discipline (checked by `news:puzzle-check` from Nov. 2, 2026 on)
 
-The headline, `seoTitle`, description, key points, hero text, lede, and every section above the spoiler are what a searcher reads before deciding to look. None of them may give the answer away:
+The headline (also the `<title>`), description, key points, hero text, lede, and every section above the spoiler are what a searcher reads before deciding to look. None of them may give the answer away:
 
 - No answer word there: the Wordle answer, Strands spangram and theme words (also not used inside another word's hint: no "a singer of ballads" when Singer is an answer), Spelling Bee pangrams, Letter Boxed solution words, Mini answers of five letters or more, Connections group names.
 - Connections: no sentence that lists three or more entries of one group; the lede and title do not describe the four groups ("One group is …" gives every Hint 1 away). Title tail: `Two Hints per Group, Then the Answers`.
@@ -55,7 +55,7 @@ The headline, `seoTitle`, description, key points, hero text, lede, and every se
 
 ### Titles match the query
 
-`seoTitle` is not written by hand: `node scripts/news-puzzle-titles.mjs` sets it for every page from Nov. 9, 2026 on, and audit `13-PUZZLE-TITLE` fails a page that differs. The formula (`scripts/lib/puzzle-titles.mjs`) is the game, its number, what the page gives, "Today" and the date with the month spelled out, the first that fits in 60 characters: `Connections #1245 Hints & Answers Today, November 7, 2026`, `Spelling Bee Hints & Answers Today, November 7, 2026`. Search Console shows readers type the full month name and the puzzle number. The `title` (the H1) keeps the AP date style and the day's angle.
+The headline (`title`) is not written by hand: `node scripts/news-puzzle-titles.mjs` sets it for every page from Nov. 9, 2026 on (the H1 is the `<title>`, so there is no `seoTitle`), and audit `13-PUZZLE-TITLE` fails a page that differs or still carries a `seoTitle`. The formula (`scripts/lib/puzzle-titles.mjs`) is the game, its number, what the page gives, "Today" and the date with the month spelled out, the first that fits in 60 characters: `Connections #1245 Hints & Answers Today, November 7, 2026`, `Spelling Bee Hints & Answers Today, November 7, 2026`. Search Console shows readers type the full month name and the puzzle number. The `title` (the H1) keeps the AP date style and the day's angle.
 
 What we add that most results lack: the guess testers and one-answer reveals, the drawn solved boards, Pips placements checked cell by cell and region-by-region Pips hints, trap explanations for Connections, the Spelling Bee hint grid with points and Genius and its found-words tracker, the Wordle used-word checker, every two-word Letter Boxed solution, and yesterday's solution on the same page. Connections: Sports Edition readers often do not know the names: after its answers, add one line per group saying who or what each entry is ("quarterbacks who won a Super Bowl with the Rams"), using only facts confirmed on a league, team or other authoritative page. No competitor does this. Keep adding: a fact others missed (a repeated Wordle answer, a double letter, a rare pangram) belongs in the summary.
 
@@ -89,7 +89,7 @@ Two scheduled routines run this workflow every day (`docs/PUZZLE-ROUTINES.md`): 
 5. **Check**, all must pass:
 
    ```bash
-   node scripts/news-puzzle-titles.mjs   # sets the standard seoTitle on every new page (13-PUZZLE-TITLE)
+   node scripts/news-puzzle-titles.mjs   # sets the standard title (H1 and <title>) on every new page (13-PUZZLE-TITLE)
    pnpm news:abbrev                # 1 second: abbreviations and the audit's writing rules (banned words, superlatives) on the pages you changed
    pnpm news:puzzle-check          # answers vs saved official data (seconds; run it after every edit)
    pnpm news:build && pnpm news:verify && pnpm news:seo-audit && pnpm test

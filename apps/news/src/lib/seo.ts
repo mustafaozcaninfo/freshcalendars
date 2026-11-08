@@ -71,8 +71,22 @@ export function categoryPath(slug: string): string {
   return `/news/category/${slug}/`;
 }
 
-export function pageTitle(a: Pick<ArticleSeo, "title" | "seoTitle">): string {
-  return a.seoTitle ?? a.title;
+/**
+ * Stories published from this date on use the H1 as the <title> (owner decision 2026-11-08: most
+ * newsrooms do, and Google builds its title link from the <title>, the H1 and og:title, so one
+ * text for all three leaves it nothing to rewrite). Keep in step with TITLE_H1_SINCE in
+ * scripts/lib/story-patterns.mjs.
+ */
+export const TITLE_H1_SINCE = "2026-11-09";
+
+/**
+ * The <title> of a story: its H1. Older stories keep their seoTitle until the update desk
+ * rewrites the H1 to the 70-character formula and deletes the seoTitle, so 1,100 ranking titles
+ * do not all change on one day.
+ */
+export function pageTitle(a: Pick<ArticleSeo, "title" | "seoTitle" | "publishedAt">): string {
+  const legacy = a.publishedAt.toISOString().slice(0, 10) < TITLE_H1_SINCE;
+  return legacy && a.seoTitle ? a.seoTitle : a.title;
 }
 
 /** W3C datetime with offset, no milliseconds (sitemaps, schema, article:* tags). */

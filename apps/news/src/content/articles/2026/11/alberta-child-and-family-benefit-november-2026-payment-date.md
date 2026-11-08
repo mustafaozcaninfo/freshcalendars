@@ -1,6 +1,5 @@
 ---
-title: "Alberta Child and Family Benefit November 2026: Payment Arrives Friday, Nov. 27"
-seoTitle: "Alberta Child and Family Benefit November 2026: Nov. 27"
+title: "Alberta Child and Family Benefit November 2026: Paid Friday, Nov. 27"
 description: "The Canada Revenue Agency (CRA) lists Friday, Nov. 27, 2026 as the Alberta Child and Family Benefit (ACFB) payment date. 2026-27 maximums by child inside."
 type: news
 publishedAt: "2026-11-11T09:30:00-05:00"

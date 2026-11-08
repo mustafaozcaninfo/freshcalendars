@@ -1,7 +1,6 @@
 ---
 title: "Dry January 2027: Free 31-Day Tracker, Starting Friday, Jan. 1"
-seoTitle: "Dry January 2027: Free 31-Day Tracker, Jan. 1-31"
-description: "Dry January 2027 runs 31 days, Fri., Jan. 1 to Sun., Jan. 31. Alcohol Change UK has not posted its 2027 page yet; our free one-page tracker is ready to print."
+description: "Dry January 2027 runs 31 days, Fri., Jan. 1 to Sun., Jan. 31. Alcohol Change UK has not posted its 2027 page yet; our one-page tracker is ready to print."
 type: explainer
 publishedAt: "2026-12-01T06:00:00-05:00"
 authors: [jessica-hartwell]

@@ -1,5 +1,6 @@
 /**
- * One seoTitle formula per daily puzzle game (owner decision 2026-11-07). Search Console shows
+ * One title formula per daily puzzle game (owner decision 2026-11-07; since 2026-11-08 it is the
+ * headline itself, because the H1 is the <title>). Search Console shows
  * readers type the full month name ("connections 30 october 2026" outdraws "connections nov 1
  * 2026") and the puzzle number ("connections 1237"), and the top results all carry "hints and
  * answers" with the date. So every daily page's <title> is the game, its number, what the page
@@ -38,7 +39,7 @@ export function parseDaily(slug) {
   return { prefix: m[1], date: `${m[4]}-${String(month + 1).padStart(2, "0")}-${m[3].padStart(2, "0")}`, number: m[5] ? Number(m[5]) : null };
 }
 
-/** The seoTitle a daily puzzle page must carry, or null for a slug that is not a daily page. */
+/** The title (H1 and <title>) a daily puzzle page must carry, or null for a slug that is not a daily page. */
 export function puzzleSeoTitle(slug) {
   const p = parseDaily(slug);
   if (!p) return null;
