@@ -1,0 +1,7061 @@
+{
+ "generatedAt": "2026-11-08T09:13:49.786Z",
+ "site": "https://freshcalendars.com/",
+ "daily": [
+  {
+   "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
+   "Clicks": 0,
+   "Date": "/Date(1751932800000)/",
+   "Impressions": 532
+  },
+  {
+   "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
+   "Clicks": 0,
+   "Date": "/Date(1752019200000)/",
+   "Impressions": 535
+  },
+  {
+   "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
+   "Clicks": 0,
+   "Date": "/Date(1752105600000)/",
+   "Impressions": 2574
+  },
+  {
+   "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
+   "Clicks": 0,
+   "Date": "/Date(1752192000000)/",
+   "Impressions": 3786
+  },
+  {
+   "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
+   "Clicks": 1,
+   "Date": "/Date(1752278400000)/",
+   "Impressions": 2295
+  },
+  {
+   "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
+   "Clicks": 2,
+   "Date": "/Date(1752364800000)/",
+   "Impressions": 3891
+  },
+  {
+   "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
+   "Clicks": 3,
+   "Date": "/Date(1752451200000)/",
+   "Impressions": 9557
+  },
+  {
+   "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
+   "Clicks": 5,
+   "Date": "/Date(1752537600000)/",
+   "Impressions": 9611
+  },
+  {
+   "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
+   "Clicks": 1,
+   "Date": "/Date(1752624000000)/",
+   "Impressions": 9255
+  },
+  {
+   "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
+   "Clicks": 2,
+   "Date": "/Date(1752710400000)/",
+   "Impressions": 9090
+  },
+  {
+   "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
+   "Clicks": 2,
+   "Date": "/Date(1752796800000)/",
+   "Impressions": 7332
+  },
+  {
+   "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
+   "Clicks": 3,
+   "Date": "/Date(1752883200000)/",
+   "Impressions": 3589
+  },
+  {
+   "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
+   "Clicks": 2,
+   "Date": "/Date(1752969600000)/",
+   "Impressions": 4366
+  },
+  {
+   "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
+   "Clicks": 6,
+   "Date": "/Date(1753056000000)/",
+   "Impressions": 11119
+  },
+  {
+   "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
+   "Clicks": 2,
+   "Date": "/Date(1753142400000)/",
+   "Impressions": 10522
+  },
+  {
+   "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
+   "Clicks": 3,
+   "Date": "/Date(1753228800000)/",
+   "Impressions": 11360
+  },
+  {
+   "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
+   "Clicks": 4,
+   "Date": "/Date(1753315200000)/",
+   "Impressions": 9954
+  },
+  {
+   "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
+   "Clicks": 3,
+   "Date": "/Date(1753401600000)/",
+   "Impressions": 7672
+  },
+  {
+   "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
+   "Clicks": 0,
+   "Date": "/Date(1753488000000)/",
+   "Impressions": 3656
+  },
+  {
+   "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
+   "Clicks": 1,
+   "Date": "/Date(1753574400000)/",
+   "Impressions": 4904
+  },
+  {
+   "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
+   "Clicks": 2,
+   "Date": "/Date(1753660800000)/",
+   "Impressions": 12054
+  },
+  {
+   "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
+   "Clicks": 5,
+   "Date": "/Date(1753747200000)/",
+   "Impressions": 11651
+  },
+  {
+   "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
+   "Clicks": 3,
+   "Date": "/Date(1753833600000)/",
+   "Impressions": 11312
+  },
+  {
+   "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
+   "Clicks": 2,
+   "Date": "/Date(1753920000000)/",
+   "Impressions": 13006
+  },
+  {
+   "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
+   "Clicks": 5,
+   "Date": "/Date(1754006400000)/",
+   "Impressions": 9963
+  },
+  {
+   "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
+   "Clicks": 2,
+   "Date": "/Date(1754092800000)/",
+   "Impressions": 4578
+  },
+  {
+   "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
+   "Clicks": 3,
+   "Date": "/Date(1754179200000)/",
+   "Impressions": 5582
+  },
+  {
+   "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
+   "Clicks": 4,
+   "Date": "/Date(1754265600000)/",
+   "Impressions": 11773
+  },
+  {
+   "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
+   "Clicks": 3,
+   "Date": "/Date(1754352000000)/",
+   "Impressions": 12068
+  },
+  {
+   "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
+   "Clicks": 5,
+   "Date": "/Date(1754438400000)/",
+   "Impressions": 11932
+  },
+  {
+   "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
+   "Clicks": 3,
+   "Date": "/Date(1754524800000)/",
+   "Impressions": 10154
+  },
+  {
+   "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
+   "Clicks": 1,
+   "Date": "/Date(1754611200000)/",
+   "Impressions": 8074
+  },
+  {
+   "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
+   "Clicks": 1,
+   "Date": "/Date(1754697600000)/",
+   "Impressions": 4173
+  },
+  {
+   "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
+   "Clicks": 5,
+   "Date": "/Date(1754784000000)/",
+   "Impressions": 4787
+  },
+  {
+   "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
+   "Clicks": 3,
+   "Date": "/Date(1754870400000)/",
+   "Impressions": 11123
+  },
+  {
+   "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
+   "Clicks": 8,
+   "Date": "/Date(1754956800000)/",
+   "Impressions": 11909
+  },
+  {
+   "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
+   "Clicks": 1,
+   "Date": "/Date(1755043200000)/",
+   "Impressions": 10364
+  },
+  {
+   "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
+   "Clicks": 3,
+   "Date": "/Date(1755129600000)/",
+   "Impressions": 9521
+  },
+  {
+   "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
+   "Clicks": 2,
+   "Date": "/Date(1755216000000)/",
+   "Impressions": 8269
+  },
+  {
+   "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
+   "Clicks": 0,
+   "Date": "/Date(1755302400000)/",
+   "Impressions": 3978
+  },
+  {
+   "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
+   "Clicks": 2,
+   "Date": "/Date(1755388800000)/",
+   "Impressions": 4637
+  },
+  {
+   "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
+   "Clicks": 3,
+   "Date": "/Date(1755475200000)/",
+   "Impressions": 12342
+  },
+  {
+   "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
+   "Clicks": 4,
+   "Date": "/Date(1755561600000)/",
+   "Impressions": 12914
+  },
+  {
+   "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
+   "Clicks": 6,
+   "Date": "/Date(1755648000000)/",
+   "Impressions": 14029
+  },
+  {
+   "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
+   "Clicks": 8,
+   "Date": "/Date(1755734400000)/",
+   "Impressions": 12169
+  },
+  {
+   "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
+   "Clicks": 8,
+   "Date": "/Date(1755820800000)/",
+   "Impressions": 10523
+  },
+  {
+   "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
+   "Clicks": 1,
+   "Date": "/Date(1755907200000)/",
+   "Impressions": 4615
+  },
+  {
+   "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
+   "Clicks": 2,
+   "Date": "/Date(1755993600000)/",
+   "Impressions": 5981
+  },
+  {
+   "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
+   "Clicks": 12,
+   "Date": "/Date(1756080000000)/",
+   "Impressions": 16746
+  },
+  {
+   "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
+   "Clicks": 5,
+   "Date": "/Date(1756166400000)/",
+   "Impressions": 15213
+  },
+  {
+   "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
+   "Clicks": 4,
+   "Date": "/Date(1756252800000)/",
+   "Impressions": 13425
+  },
+  {
+   "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
+   "Clicks": 4,
+   "Date": "/Date(1756339200000)/",
+   "Impressions": 12450
+  },
+  {
+   "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
+   "Clicks": 5,
+   "Date": "/Date(1756425600000)/",
+   "Impressions": 10141
+  },
+  {
+   "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
+   "Clicks": 1,
+   "Date": "/Date(1756512000000)/",
+   "Impressions": 4068
+  },
+  {
+   "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
+   "Clicks": 3,
+   "Date": "/Date(1756598400000)/",
+   "Impressions": 5581
+  },
+  {
+   "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
+   "Clicks": 1,
+   "Date": "/Date(1756684800000)/",
+   "Impressions": 7761
+  },
+  {
+   "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
+   "Clicks": 5,
+   "Date": "/Date(1756771200000)/",
+   "Impressions": 13817
+  },
+  {
+   "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
+   "Clicks": 7,
+   "Date": "/Date(1756857600000)/",
+   "Impressions": 12518
+  },
+  {
+   "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
+   "Clicks": 1,
+   "Date": "/Date(1756944000000)/",
+   "Impressions": 11082
+  },
+  {
+   "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
+   "Clicks": 2,
+   "Date": "/Date(1757030400000)/",
+   "Impressions": 8689
+  },
+  {
+   "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
+   "Clicks": 2,
+   "Date": "/Date(1757116800000)/",
+   "Impressions": 4573
+  },
+  {
+   "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
+   "Clicks": 3,
+   "Date": "/Date(1757203200000)/",
+   "Impressions": 4926
+  },
+  {
+   "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
+   "Clicks": 6,
+   "Date": "/Date(1757289600000)/",
+   "Impressions": 12640
+  },
+  {
+   "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
+   "Clicks": 5,
+   "Date": "/Date(1757376000000)/",
+   "Impressions": 12620
+  },
+  {
+   "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
+   "Clicks": 5,
+   "Date": "/Date(1757462400000)/",
+   "Impressions": 11716
+  },
+  {
+   "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
+   "Clicks": 3,
+   "Date": "/Date(1757548800000)/",
+   "Impressions": 11599
+  },
+  {
+   "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
+   "Clicks": 1,
+   "Date": "/Date(1757635200000)/",
+   "Impressions": 9005
+  },
+  {
+   "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
+   "Clicks": 0,
+   "Date": "/Date(1757721600000)/",
+   "Impressions": 3905
+  },
+  {
+   "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
+   "Clicks": 2,
+   "Date": "/Date(1757808000000)/",
+   "Impressions": 4978
+  },
+  {
+   "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
+   "Clicks": 6,
+   "Date": "/Date(1757894400000)/",
+   "Impressions": 11689
+  },
+  {
+   "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
+   "Clicks": 5,
+   "Date": "/Date(1757980800000)/",
+   "Impressions": 11857
+  },
+  {
+   "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
+   "Clicks": 8,
+   "Date": "/Date(1758067200000)/",
+   "Impressions": 12133
+  },
+  {
+   "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
+   "Clicks": 5,
+   "Date": "/Date(1758153600000)/",
+   "Impressions": 10587
+  },
+  {
+   "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
+   "Clicks": 6,
+   "Date": "/Date(1758240000000)/",
+   "Impressions": 9112
+  },
+  {
+   "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
+   "Clicks": 2,
+   "Date": "/Date(1758326400000)/",
+   "Impressions": 4066
+  },
+  {
+   "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
+   "Clicks": 1,
+   "Date": "/Date(1758412800000)/",
+   "Impressions": 4868
+  },
+  {
+   "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
+   "Clicks": 8,
+   "Date": "/Date(1758499200000)/",
+   "Impressions": 12724
+  },
+  {
+   "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
+   "Clicks": 3,
+   "Date": "/Date(1758585600000)/",
+   "Impressions": 12750
+  },
+  {
+   "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
+   "Clicks": 6,
+   "Date": "/Date(1758672000000)/",
+   "Impressions": 11128
+  },
+  {
+   "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
+   "Clicks": 3,
+   "Date": "/Date(1758758400000)/",
+   "Impressions": 10091
+  },
+  {
+   "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
+   "Clicks": 3,
+   "Date": "/Date(1758844800000)/",
+   "Impressions": 8368
+  },
+  {
+   "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
+   "Clicks": 4,
+   "Date": "/Date(1758931200000)/",
+   "Impressions": 3895
+  },
+  {
+   "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
+   "Clicks": 1,
+   "Date": "/Date(1759017600000)/",
+   "Impressions": 4939
+  },
+  {
+   "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
+   "Clicks": 12,
+   "Date": "/Date(1759104000000)/",
+   "Impressions": 14348
+  },
+  {
+   "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
+   "Clicks": 10,
+   "Date": "/Date(1759190400000)/",
+   "Impressions": 14491
+  },
+  {
+   "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
+   "Clicks": 7,
+   "Date": "/Date(1759276800000)/",
+   "Impressions": 13601
+  },
+  {
+   "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
+   "Clicks": 7,
+   "Date": "/Date(1759363200000)/",
+   "Impressions": 11816
+  },
+  {
+   "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
+   "Clicks": 2,
+   "Date": "/Date(1759449600000)/",
+   "Impressions": 9359
+  },
+  {
+   "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
+   "Clicks": 2,
+   "Date": "/Date(1759536000000)/",
+   "Impressions": 4185
+  },
+  {
+   "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
+   "Clicks": 4,
+   "Date": "/Date(1759622400000)/",
+   "Impressions": 4891
+  },
+  {
+   "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
+   "Clicks": 5,
+   "Date": "/Date(1759708800000)/",
+   "Impressions": 11147
+  },
+  {
+   "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
+   "Clicks": 0,
+   "Date": "/Date(1759795200000)/",
+   "Impressions": 8987
+  },
+  {
+   "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
+   "Clicks": 5,
+   "Date": "/Date(1759881600000)/",
+   "Impressions": 8967
+  },
+  {
+   "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
+   "Clicks": 3,
+   "Date": "/Date(1759968000000)/",
+   "Impressions": 8524
+  },
+  {
+   "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
+   "Clicks": 4,
+   "Date": "/Date(1760054400000)/",
+   "Impressions": 6659
+  },
+  {
+   "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
+   "Clicks": 1,
+   "Date": "/Date(1760140800000)/",
+   "Impressions": 3136
+  },
+  {
+   "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
+   "Clicks": 1,
+   "Date": "/Date(1760227200000)/",
+   "Impressions": 3898
+  },
+  {
+   "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
+   "Clicks": 6,
+   "Date": "/Date(1760313600000)/",
+   "Impressions": 8793
+  },
+  {
+   "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
+   "Clicks": 3,
+   "Date": "/Date(1760400000000)/",
+   "Impressions": 9151
+  },
+  {
+   "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
+   "Clicks": 2,
+   "Date": "/Date(1760486400000)/",
+   "Impressions": 8961
+  },
+  {
+   "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
+   "Clicks": 6,
+   "Date": "/Date(1760572800000)/",
+   "Impressions": 8454
+  },
+  {
+   "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
+   "Clicks": 3,
+   "Date": "/Date(1760659200000)/",
+   "Impressions": 6927
+  },
+  {
+   "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
+   "Clicks": 1,
+   "Date": "/Date(1760745600000)/",
+   "Impressions": 3245
+  },
+  {
+   "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
+   "Clicks": 2,
+   "Date": "/Date(1760832000000)/",
+   "Impressions": 3519
+  },
+  {
+   "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
+   "Clicks": 6,
+   "Date": "/Date(1760918400000)/",
+   "Impressions": 9856
+  },
+  {
+   "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
+   "Clicks": 2,
+   "Date": "/Date(1761004800000)/",
+   "Impressions": 9903
+  },
+  {
+   "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
+   "Clicks": 5,
+   "Date": "/Date(1761091200000)/",
+   "Impressions": 9719
+  },
+  {
+   "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
+   "Clicks": 2,
+   "Date": "/Date(1761177600000)/",
+   "Impressions": 8849
+  },
+  {
+   "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
+   "Clicks": 8,
+   "Date": "/Date(1761264000000)/",
+   "Impressions": 6617
+  },
+  {
+   "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
+   "Clicks": 3,
+   "Date": "/Date(1761350400000)/",
+   "Impressions": 2925
+  },
+  {
+   "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
+   "Clicks": 2,
+   "Date": "/Date(1761436800000)/",
+   "Impressions": 3420
+  },
+  {
+   "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
+   "Clicks": 7,
+   "Date": "/Date(1761523200000)/",
+   "Impressions": 8769
+  },
+  {
+   "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
+   "Clicks": 8,
+   "Date": "/Date(1761609600000)/",
+   "Impressions": 9345
+  },
+  {
+   "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
+   "Clicks": 4,
+   "Date": "/Date(1761696000000)/",
+   "Impressions": 9534
+  },
+  {
+   "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
+   "Clicks": 4,
+   "Date": "/Date(1761782400000)/",
+   "Impressions": 8922
+  },
+  {
+   "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
+   "Clicks": 9,
+   "Date": "/Date(1761868800000)/",
+   "Impressions": 8186
+  },
+  {
+   "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
+   "Clicks": 3,
+   "Date": "/Date(1761955200000)/",
+   "Impressions": 4176
+  },
+  {
+   "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
+   "Clicks": 4,
+   "Date": "/Date(1762041600000)/",
+   "Impressions": 6401
+  },
+  {
+   "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
+   "Clicks": 5,
+   "Date": "/Date(1762128000000)/",
+   "Impressions": 15297
+  },
+  {
+   "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
+   "Clicks": 4,
+   "Date": "/Date(1762214400000)/",
+   "Impressions": 12771
+  },
+  {
+   "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
+   "Clicks": 5,
+   "Date": "/Date(1762300800000)/",
+   "Impressions": 13740
+  },
+  {
+   "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
+   "Clicks": 5,
+   "Date": "/Date(1762387200000)/",
+   "Impressions": 13558
+  },
+  {
+   "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
+   "Clicks": 6,
+   "Date": "/Date(1762473600000)/",
+   "Impressions": 11220
+  },
+  {
+   "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
+   "Clicks": 1,
+   "Date": "/Date(1762560000000)/",
+   "Impressions": 4843
+  },
+  {
+   "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
+   "Clicks": 3,
+   "Date": "/Date(1762646400000)/",
+   "Impressions": 5594
+  },
+  {
+   "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
+   "Clicks": 10,
+   "Date": "/Date(1762732800000)/",
+   "Impressions": 14704
+  },
+  {
+   "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
+   "Clicks": 2,
+   "Date": "/Date(1762819200000)/",
+   "Impressions": 11745
+  },
+  {
+   "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
+   "Clicks": 4,
+   "Date": "/Date(1762905600000)/",
+   "Impressions": 14286
+  },
+  {
+   "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
+   "Clicks": 4,
+   "Date": "/Date(1762992000000)/",
+   "Impressions": 13601
+  },
+  {
+   "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
+   "Clicks": 2,
+   "Date": "/Date(1763078400000)/",
+   "Impressions": 10428
+  },
+  {
+   "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
+   "Clicks": 3,
+   "Date": "/Date(1763164800000)/",
+   "Impressions": 4631
+  },
+  {
+   "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
+   "Clicks": 2,
+   "Date": "/Date(1763251200000)/",
+   "Impressions": 5707
+  },
+  {
+   "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
+   "Clicks": 3,
+   "Date": "/Date(1763337600000)/",
+   "Impressions": 11574
+  },
+  {
+   "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
+   "Clicks": 8,
+   "Date": "/Date(1763424000000)/",
+   "Impressions": 10322
+  },
+  {
+   "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
+   "Clicks": 5,
+   "Date": "/Date(1763510400000)/",
+   "Impressions": 9444
+  },
+  {
+   "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
+   "Clicks": 6,
+   "Date": "/Date(1763596800000)/",
+   "Impressions": 8310
+  },
+  {
+   "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
+   "Clicks": 6,
+   "Date": "/Date(1763683200000)/",
+   "Impressions": 7236
+  },
+  {
+   "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
+   "Clicks": 1,
+   "Date": "/Date(1763769600000)/",
+   "Impressions": 3077
+  },
+  {
+   "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
+   "Clicks": 2,
+   "Date": "/Date(1763856000000)/",
+   "Impressions": 4104
+  },
+  {
+   "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
+   "Clicks": 4,
+   "Date": "/Date(1763942400000)/",
+   "Impressions": 10842
+  },
+  {
+   "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
+   "Clicks": 5,
+   "Date": "/Date(1764028800000)/",
+   "Impressions": 9925
+  },
+  {
+   "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
+   "Clicks": 7,
+   "Date": "/Date(1764115200000)/",
+   "Impressions": 8297
+  },
+  {
+   "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
+   "Clicks": 2,
+   "Date": "/Date(1764201600000)/",
+   "Impressions": 4425
+  },
+  {
+   "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
+   "Clicks": 3,
+   "Date": "/Date(1764288000000)/",
+   "Impressions": 5431
+  },
+  {
+   "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
+   "Clicks": 2,
+   "Date": "/Date(1764374400000)/",
+   "Impressions": 4050
+  },
+  {
+   "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
+   "Clicks": 0,
+   "Date": "/Date(1764460800000)/",
+   "Impressions": 5655
+  },
+  {
+   "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
+   "Clicks": 8,
+   "Date": "/Date(1764547200000)/",
+   "Impressions": 16256
+  },
+  {
+   "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
+   "Clicks": 6,
+   "Date": "/Date(1764633600000)/",
+   "Impressions": 14180
+  },
+  {
+   "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
+   "Clicks": 6,
+   "Date": "/Date(1764720000000)/",
+   "Impressions": 13022
+  },
+  {
+   "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
+   "Clicks": 5,
+   "Date": "/Date(1764806400000)/",
+   "Impressions": 11800
+  },
+  {
+   "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
+   "Clicks": 7,
+   "Date": "/Date(1764892800000)/",
+   "Impressions": 10696
+  },
+  {
+   "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
+   "Clicks": 5,
+   "Date": "/Date(1764979200000)/",
+   "Impressions": 4008
+  },
+  {
+   "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
+   "Clicks": 2,
+   "Date": "/Date(1765065600000)/",
+   "Impressions": 4274
+  },
+  {
+   "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
+   "Clicks": 3,
+   "Date": "/Date(1765152000000)/",
+   "Impressions": 11127
+  },
+  {
+   "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
+   "Clicks": 2,
+   "Date": "/Date(1765238400000)/",
+   "Impressions": 10391
+  },
+  {
+   "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
+   "Clicks": 3,
+   "Date": "/Date(1765324800000)/",
+   "Impressions": 9596
+  },
+  {
+   "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
+   "Clicks": 5,
+   "Date": "/Date(1765411200000)/",
+   "Impressions": 9814
+  },
+  {
+   "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
+   "Clicks": 0,
+   "Date": "/Date(1765497600000)/",
+   "Impressions": 7610
+  },
+  {
+   "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
+   "Clicks": 3,
+   "Date": "/Date(1765584000000)/",
+   "Impressions": 3651
+  },
+  {
+   "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
+   "Clicks": 2,
+   "Date": "/Date(1765670400000)/",
+   "Impressions": 3934
+  },
+  {
+   "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
+   "Clicks": 5,
+   "Date": "/Date(1765756800000)/",
+   "Impressions": 9280
+  },
+  {
+   "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
+   "Clicks": 4,
+   "Date": "/Date(1765843200000)/",
+   "Impressions": 16516
+  },
+  {
+   "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
+   "Clicks": 8,
+   "Date": "/Date(1765929600000)/",
+   "Impressions": 15259
+  },
+  {
+   "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
+   "Clicks": 1,
+   "Date": "/Date(1766016000000)/",
+   "Impressions": 12377
+  },
+  {
+   "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
+   "Clicks": 4,
+   "Date": "/Date(1766102400000)/",
+   "Impressions": 8884
+  },
+  {
+   "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
+   "Clicks": 2,
+   "Date": "/Date(1766188800000)/",
+   "Impressions": 3713
+  },
+  {
+   "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
+   "Clicks": 0,
+   "Date": "/Date(1766275200000)/",
+   "Impressions": 3225
+  },
+  {
+   "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
+   "Clicks": 7,
+   "Date": "/Date(1766361600000)/",
+   "Impressions": 9263
+  },
+  {
+   "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
+   "Clicks": 2,
+   "Date": "/Date(1766448000000)/",
+   "Impressions": 8762
+  },
+  {
+   "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
+   "Clicks": 2,
+   "Date": "/Date(1766534400000)/",
+   "Impressions": 4391
+  },
+  {
+   "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
+   "Clicks": 3,
+   "Date": "/Date(1766620800000)/",
+   "Impressions": 2375
+  },
+  {
+   "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
+   "Clicks": 4,
+   "Date": "/Date(1766707200000)/",
+   "Impressions": 6400
+  },
+  {
+   "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
+   "Clicks": 2,
+   "Date": "/Date(1766793600000)/",
+   "Impressions": 4279
+  },
+  {
+   "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
+   "Clicks": 1,
+   "Date": "/Date(1766880000000)/",
+   "Impressions": 4551
+  },
+  {
+   "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
+   "Clicks": 5,
+   "Date": "/Date(1766966400000)/",
+   "Impressions": 12260
+  },
+  {
+   "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
+   "Clicks": 2,
+   "Date": "/Date(1767052800000)/",
+   "Impressions": 12377
+  },
+  {
+   "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
+   "Clicks": 2,
+   "Date": "/Date(1767139200000)/",
+   "Impressions": 10216
+  },
+  {
+   "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
+   "Clicks": 3,
+   "Date": "/Date(1767225600000)/",
+   "Impressions": 6999
+  },
+  {
+   "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
+   "Clicks": 2,
+   "Date": "/Date(1767312000000)/",
+   "Impressions": 13062
+  },
+  {
+   "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
+   "Clicks": 3,
+   "Date": "/Date(1767398400000)/",
+   "Impressions": 5500
+  },
+  {
+   "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
+   "Clicks": 2,
+   "Date": "/Date(1767484800000)/",
+   "Impressions": 7182
+  },
+  {
+   "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
+   "Clicks": 5,
+   "Date": "/Date(1767571200000)/",
+   "Impressions": 19579
+  },
+  {
+   "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
+   "Clicks": 3,
+   "Date": "/Date(1767657600000)/",
+   "Impressions": 15360
+  },
+  {
+   "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
+   "Clicks": 8,
+   "Date": "/Date(1767744000000)/",
+   "Impressions": 12868
+  },
+  {
+   "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
+   "Clicks": 4,
+   "Date": "/Date(1767830400000)/",
+   "Impressions": 10932
+  },
+  {
+   "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
+   "Clicks": 3,
+   "Date": "/Date(1767916800000)/",
+   "Impressions": 8772
+  },
+  {
+   "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
+   "Clicks": 0,
+   "Date": "/Date(1768003200000)/",
+   "Impressions": 3435
+  },
+  {
+   "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
+   "Clicks": 5,
+   "Date": "/Date(1768089600000)/",
+   "Impressions": 4600
+  },
+  {
+   "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
+   "Clicks": 6,
+   "Date": "/Date(1768176000000)/",
+   "Impressions": 10835
+  },
+  {
+   "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
+   "Clicks": 2,
+   "Date": "/Date(1768262400000)/",
+   "Impressions": 9404
+  },
+  {
+   "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
+   "Clicks": 3,
+   "Date": "/Date(1768348800000)/",
+   "Impressions": 8836
+  },
+  {
+   "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
+   "Clicks": 5,
+   "Date": "/Date(1768435200000)/",
+   "Impressions": 8582
+  },
+  {
+   "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
+   "Clicks": 3,
+   "Date": "/Date(1768521600000)/",
+   "Impressions": 5376
+  },
+  {
+   "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
+   "Clicks": 0,
+   "Date": "/Date(1768608000000)/",
+   "Impressions": 2478
+  },
+  {
+   "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
+   "Clicks": 1,
+   "Date": "/Date(1768694400000)/",
+   "Impressions": 2738
+  },
+  {
+   "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
+   "Clicks": 0,
+   "Date": "/Date(1768780800000)/",
+   "Impressions": 5662
+  },
+  {
+   "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
+   "Clicks": 2,
+   "Date": "/Date(1768867200000)/",
+   "Impressions": 5542
+  },
+  {
+   "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
+   "Clicks": 2,
+   "Date": "/Date(1768953600000)/",
+   "Impressions": 5269
+  },
+  {
+   "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
+   "Clicks": 1,
+   "Date": "/Date(1769040000000)/",
+   "Impressions": 4452
+  },
+  {
+   "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
+   "Clicks": 0,
+   "Date": "/Date(1769126400000)/",
+   "Impressions": 3103
+  },
+  {
+   "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
+   "Clicks": 0,
+   "Date": "/Date(1769212800000)/",
+   "Impressions": 1743
+  },
+  {
+   "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
+   "Clicks": 0,
+   "Date": "/Date(1769299200000)/",
+   "Impressions": 2004
+  },
+  {
+   "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
+   "Clicks": 1,
+   "Date": "/Date(1769385600000)/",
+   "Impressions": 4570
+  },
+  {
+   "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
+   "Clicks": 0,
+   "Date": "/Date(1769472000000)/",
+   "Impressions": 4473
+  },
+  {
+   "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
+   "Clicks": 1,
+   "Date": "/Date(1769558400000)/",
+   "Impressions": 5069
+  },
+  {
+   "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
+   "Clicks": 0,
+   "Date": "/Date(1769644800000)/",
+   "Impressions": 5480
+  },
+  {
+   "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
+   "Clicks": 2,
+   "Date": "/Date(1769731200000)/",
+   "Impressions": 4287
+  },
+  {
+   "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
+   "Clicks": 2,
+   "Date": "/Date(1769817600000)/",
+   "Impressions": 1998
+  },
+  {
+   "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
+   "Clicks": 2,
+   "Date": "/Date(1769904000000)/",
+   "Impressions": 2715
+  },
+  {
+   "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
+   "Clicks": 1,
+   "Date": "/Date(1769990400000)/",
+   "Impressions": 5748
+  },
+  {
+   "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
+   "Clicks": 1,
+   "Date": "/Date(1770076800000)/",
+   "Impressions": 5476
+  },
+  {
+   "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
+   "Clicks": 3,
+   "Date": "/Date(1770163200000)/",
+   "Impressions": 5295
+  },
+  {
+   "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
+   "Clicks": 4,
+   "Date": "/Date(1770249600000)/",
+   "Impressions": 4605
+  },
+  {
+   "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
+   "Clicks": 0,
+   "Date": "/Date(1770336000000)/",
+   "Impressions": 3747
+  },
+  {
+   "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
+   "Clicks": 1,
+   "Date": "/Date(1770422400000)/",
+   "Impressions": 1828
+  },
+  {
+   "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
+   "Clicks": 1,
+   "Date": "/Date(1770508800000)/",
+   "Impressions": 2242
+  },
+  {
+   "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
+   "Clicks": 1,
+   "Date": "/Date(1770595200000)/",
+   "Impressions": 5496
+  },
+  {
+   "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
+   "Clicks": 1,
+   "Date": "/Date(1770681600000)/",
+   "Impressions": 5046
+  },
+  {
+   "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
+   "Clicks": 1,
+   "Date": "/Date(1770768000000)/",
+   "Impressions": 4540
+  },
+  {
+   "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
+   "Clicks": 3,
+   "Date": "/Date(1770854400000)/",
+   "Impressions": 4491
+  },
+  {
+   "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
+   "Clicks": 0,
+   "Date": "/Date(1770940800000)/",
+   "Impressions": 3481
+  },
+  {
+   "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
+   "Clicks": 0,
+   "Date": "/Date(1771027200000)/",
+   "Impressions": 1437
+  },
+  {
+   "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
+   "Clicks": 2,
+   "Date": "/Date(1771113600000)/",
+   "Impressions": 1888
+  },
+  {
+   "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
+   "Clicks": 0,
+   "Date": "/Date(1771200000000)/",
+   "Impressions": 4310
+  },
+  {
+   "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
+   "Clicks": 3,
+   "Date": "/Date(1771286400000)/",
+   "Impressions": 4859
+  },
+  {
+   "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
+   "Clicks": 0,
+   "Date": "/Date(1771372800000)/",
+   "Impressions": 4947
+  },
+  {
+   "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
+   "Clicks": 0,
+   "Date": "/Date(1771459200000)/",
+   "Impressions": 4868
+  },
+  {
+   "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
+   "Clicks": 1,
+   "Date": "/Date(1771545600000)/",
+   "Impressions": 3702
+  },
+  {
+   "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
+   "Clicks": 0,
+   "Date": "/Date(1771632000000)/",
+   "Impressions": 1709
+  },
+  {
+   "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
+   "Clicks": 2,
+   "Date": "/Date(1771718400000)/",
+   "Impressions": 2082
+  },
+  {
+   "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
+   "Clicks": 4,
+   "Date": "/Date(1771804800000)/",
+   "Impressions": 5533
+  },
+  {
+   "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
+   "Clicks": 9,
+   "Date": "/Date(1771891200000)/",
+   "Impressions": 4676
+  },
+  {
+   "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
+   "Clicks": 2,
+   "Date": "/Date(1771977600000)/",
+   "Impressions": 4248
+  },
+  {
+   "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
+   "Clicks": 1,
+   "Date": "/Date(1772064000000)/",
+   "Impressions": 4031
+  },
+  {
+   "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
+   "Clicks": 2,
+   "Date": "/Date(1772150400000)/",
+   "Impressions": 4047
+  },
+  {
+   "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
+   "Clicks": 1,
+   "Date": "/Date(1772236800000)/",
+   "Impressions": 1671
+  },
+  {
+   "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
+   "Clicks": 3,
+   "Date": "/Date(1772323200000)/",
+   "Impressions": 2568
+  },
+  {
+   "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
+   "Clicks": 1,
+   "Date": "/Date(1772409600000)/",
+   "Impressions": 5276
+  },
+  {
+   "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
+   "Clicks": 5,
+   "Date": "/Date(1772496000000)/",
+   "Impressions": 4045
+  },
+  {
+   "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
+   "Clicks": 2,
+   "Date": "/Date(1772582400000)/",
+   "Impressions": 3618
+  },
+  {
+   "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
+   "Clicks": 3,
+   "Date": "/Date(1772668800000)/",
+   "Impressions": 3116
+  },
+  {
+   "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
+   "Clicks": 1,
+   "Date": "/Date(1772755200000)/",
+   "Impressions": 2356
+  },
+  {
+   "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
+   "Clicks": 0,
+   "Date": "/Date(1772841600000)/",
+   "Impressions": 1131
+  },
+  {
+   "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
+   "Clicks": 0,
+   "Date": "/Date(1772928000000)/",
+   "Impressions": 1449
+  },
+  {
+   "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
+   "Clicks": 4,
+   "Date": "/Date(1773014400000)/",
+   "Impressions": 3510
+  },
+  {
+   "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
+   "Clicks": 1,
+   "Date": "/Date(1773100800000)/",
+   "Impressions": 3326
+  },
+  {
+   "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
+   "Clicks": 5,
+   "Date": "/Date(1773187200000)/",
+   "Impressions": 3352
+  },
+  {
+   "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
+   "Clicks": 0,
+   "Date": "/Date(1773273600000)/",
+   "Impressions": 3377
+  },
+  {
+   "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
+   "Clicks": 0,
+   "Date": "/Date(1773360000000)/",
+   "Impressions": 2898
+  },
+  {
+   "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
+   "Clicks": 0,
+   "Date": "/Date(1773446400000)/",
+   "Impressions": 1309
+  },
+  {
+   "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
+   "Clicks": 2,
+   "Date": "/Date(1773532800000)/",
+   "Impressions": 1715
+  },
+  {
+   "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
+   "Clicks": 0,
+   "Date": "/Date(1773619200000)/",
+   "Impressions": 3894
+  },
+  {
+   "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
+   "Clicks": 1,
+   "Date": "/Date(1773705600000)/",
+   "Impressions": 3738
+  },
+  {
+   "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
+   "Clicks": 2,
+   "Date": "/Date(1773792000000)/",
+   "Impressions": 3641
+  },
+  {
+   "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
+   "Clicks": 3,
+   "Date": "/Date(1773878400000)/",
+   "Impressions": 2959
+  },
+  {
+   "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
+   "Clicks": 2,
+   "Date": "/Date(1773964800000)/",
+   "Impressions": 2100
+  },
+  {
+   "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
+   "Clicks": 1,
+   "Date": "/Date(1774051200000)/",
+   "Impressions": 983
+  },
+  {
+   "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
+   "Clicks": 3,
+   "Date": "/Date(1774137600000)/",
+   "Impressions": 1050
+  },
+  {
+   "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
+   "Clicks": 3,
+   "Date": "/Date(1774224000000)/",
+   "Impressions": 2703
+  },
+  {
+   "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
+   "Clicks": 0,
+   "Date": "/Date(1774310400000)/",
+   "Impressions": 3026
+  },
+  {
+   "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
+   "Clicks": 4,
+   "Date": "/Date(1774396800000)/",
+   "Impressions": 3082
+  },
+  {
+   "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
+   "Clicks": 2,
+   "Date": "/Date(1774483200000)/",
+   "Impressions": 2517
+  },
+  {
+   "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
+   "Clicks": 2,
+   "Date": "/Date(1774569600000)/",
+   "Impressions": 2310
+  },
+  {
+   "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
+   "Clicks": 2,
+   "Date": "/Date(1774656000000)/",
+   "Impressions": 1010
+  },
+  {
+   "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
+   "Clicks": 0,
+   "Date": "/Date(1774742400000)/",
+   "Impressions": 1159
+  },
+  {
+   "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
+   "Clicks": 4,
+   "Date": "/Date(1774828800000)/",
+   "Impressions": 2887
+  },
+  {
+   "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
+   "Clicks": 1,
+   "Date": "/Date(1774915200000)/",
+   "Impressions": 3146
+  },
+  {
+   "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
+   "Clicks": 3,
+   "Date": "/Date(1775001600000)/",
+   "Impressions": 3481
+  },
+  {
+   "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
+   "Clicks": 9,
+   "Date": "/Date(1775088000000)/",
+   "Impressions": 2933
+  },
+  {
+   "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
+   "Clicks": 1,
+   "Date": "/Date(1775174400000)/",
+   "Impressions": 1897
+  },
+  {
+   "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
+   "Clicks": 1,
+   "Date": "/Date(1775260800000)/",
+   "Impressions": 840
+  },
+  {
+   "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
+   "Clicks": 1,
+   "Date": "/Date(1775347200000)/",
+   "Impressions": 979
+  },
+  {
+   "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
+   "Clicks": 2,
+   "Date": "/Date(1775433600000)/",
+   "Impressions": 2447
+  },
+  {
+   "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
+   "Clicks": 2,
+   "Date": "/Date(1775520000000)/",
+   "Impressions": 2712
+  },
+  {
+   "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
+   "Clicks": 1,
+   "Date": "/Date(1775606400000)/",
+   "Impressions": 2175
+  },
+  {
+   "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
+   "Clicks": 1,
+   "Date": "/Date(1775692800000)/",
+   "Impressions": 1859
+  },
+  {
+   "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
+   "Clicks": 4,
+   "Date": "/Date(1775779200000)/",
+   "Impressions": 1563
+  },
+  {
+   "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
+   "Clicks": 0,
+   "Date": "/Date(1775865600000)/",
+   "Impressions": 719
+  },
+  {
+   "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
+   "Clicks": 6,
+   "Date": "/Date(1775952000000)/",
+   "Impressions": 902
+  },
+  {
+   "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
+   "Clicks": 4,
+   "Date": "/Date(1776038400000)/",
+   "Impressions": 2011
+  },
+  {
+   "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
+   "Clicks": 2,
+   "Date": "/Date(1776124800000)/",
+   "Impressions": 1928
+  },
+  {
+   "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
+   "Clicks": 6,
+   "Date": "/Date(1776211200000)/",
+   "Impressions": 1745
+  },
+  {
+   "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
+   "Clicks": 1,
+   "Date": "/Date(1776297600000)/",
+   "Impressions": 1678
+  },
+  {
+   "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
+   "Clicks": 2,
+   "Date": "/Date(1776384000000)/",
+   "Impressions": 1439
+  },
+  {
+   "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
+   "Clicks": 1,
+   "Date": "/Date(1776470400000)/",
+   "Impressions": 621
+  },
+  {
+   "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
+   "Clicks": 2,
+   "Date": "/Date(1776556800000)/",
+   "Impressions": 710
+  },
+  {
+   "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
+   "Clicks": 4,
+   "Date": "/Date(1776643200000)/",
+   "Impressions": 1836
+  },
+  {
+   "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
+   "Clicks": 3,
+   "Date": "/Date(1776729600000)/",
+   "Impressions": 1821
+  },
+  {
+   "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
+   "Clicks": 1,
+   "Date": "/Date(1776816000000)/",
+   "Impressions": 1515
+  },
+  {
+   "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
+   "Clicks": 0,
+   "Date": "/Date(1776902400000)/",
+   "Impressions": 1941
+  },
+  {
+   "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
+   "Clicks": 3,
+   "Date": "/Date(1776988800000)/",
+   "Impressions": 1709
+  },
+  {
+   "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
+   "Clicks": 3,
+   "Date": "/Date(1777075200000)/",
+   "Impressions": 788
+  },
+  {
+   "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
+   "Clicks": 2,
+   "Date": "/Date(1777161600000)/",
+   "Impressions": 909
+  },
+  {
+   "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
+   "Clicks": 4,
+   "Date": "/Date(1777248000000)/",
+   "Impressions": 2613
+  },
+  {
+   "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
+   "Clicks": 7,
+   "Date": "/Date(1777334400000)/",
+   "Impressions": 2556
+  },
+  {
+   "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
+   "Clicks": 2,
+   "Date": "/Date(1777420800000)/",
+   "Impressions": 2161
+  },
+  {
+   "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
+   "Clicks": 2,
+   "Date": "/Date(1777507200000)/",
+   "Impressions": 1938
+  },
+  {
+   "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
+   "Clicks": 2,
+   "Date": "/Date(1777593600000)/",
+   "Impressions": 1693
+  },
+  {
+   "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
+   "Clicks": 3,
+   "Date": "/Date(1777680000000)/",
+   "Impressions": 794
+  },
+  {
+   "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
+   "Clicks": 1,
+   "Date": "/Date(1777766400000)/",
+   "Impressions": 913
+  },
+  {
+   "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
+   "Clicks": 4,
+   "Date": "/Date(1777852800000)/",
+   "Impressions": 2141
+  },
+  {
+   "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
+   "Clicks": 4,
+   "Date": "/Date(1777939200000)/",
+   "Impressions": 2100
+  },
+  {
+   "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
+   "Clicks": 1,
+   "Date": "/Date(1778025600000)/",
+   "Impressions": 2210
+  },
+  {
+   "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
+   "Clicks": 5,
+   "Date": "/Date(1778112000000)/",
+   "Impressions": 2050
+  },
+  {
+   "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
+   "Clicks": 4,
+   "Date": "/Date(1778198400000)/",
+   "Impressions": 1493
+  },
+  {
+   "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
+   "Clicks": 0,
+   "Date": "/Date(1778284800000)/",
+   "Impressions": 649
+  },
+  {
+   "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
+   "Clicks": 4,
+   "Date": "/Date(1778371200000)/",
+   "Impressions": 790
+  },
+  {
+   "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
+   "Clicks": 6,
+   "Date": "/Date(1778457600000)/",
+   "Impressions": 2326
+  },
+  {
+   "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
+   "Clicks": 8,
+   "Date": "/Date(1778544000000)/",
+   "Impressions": 1984
+  },
+  {
+   "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
+   "Clicks": 1,
+   "Date": "/Date(1778630400000)/",
+   "Impressions": 1871
+  },
+  {
+   "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
+   "Clicks": 5,
+   "Date": "/Date(1778716800000)/",
+   "Impressions": 2201
+  },
+  {
+   "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
+   "Clicks": 4,
+   "Date": "/Date(1778803200000)/",
+   "Impressions": 1729
+  },
+  {
+   "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
+   "Clicks": 2,
+   "Date": "/Date(1778889600000)/",
+   "Impressions": 706
+  },
+  {
+   "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
+   "Clicks": 0,
+   "Date": "/Date(1778976000000)/",
+   "Impressions": 901
+  },
+  {
+   "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
+   "Clicks": 4,
+   "Date": "/Date(1779062400000)/",
+   "Impressions": 1886
+  },
+  {
+   "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
+   "Clicks": 6,
+   "Date": "/Date(1779148800000)/",
+   "Impressions": 1928
+  },
+  {
+   "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
+   "Clicks": 4,
+   "Date": "/Date(1779235200000)/",
+   "Impressions": 1568
+  },
+  {
+   "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
+   "Clicks": 3,
+   "Date": "/Date(1779321600000)/",
+   "Impressions": 1460
+  },
+  {
+   "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
+   "Clicks": 6,
+   "Date": "/Date(1779408000000)/",
+   "Impressions": 1096
+  },
+  {
+   "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
+   "Clicks": 1,
+   "Date": "/Date(1779494400000)/",
+   "Impressions": 463
+  },
+  {
+   "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
+   "Clicks": 0,
+   "Date": "/Date(1779580800000)/",
+   "Impressions": 653
+  },
+  {
+   "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
+   "Clicks": 0,
+   "Date": "/Date(1779667200000)/",
+   "Impressions": 860
+  },
+  {
+   "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
+   "Clicks": 7,
+   "Date": "/Date(1779753600000)/",
+   "Impressions": 1422
+  },
+  {
+   "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
+   "Clicks": 3,
+   "Date": "/Date(1779840000000)/",
+   "Impressions": 1403
+  },
+  {
+   "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
+   "Clicks": 8,
+   "Date": "/Date(1779926400000)/",
+   "Impressions": 1423
+  },
+  {
+   "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
+   "Clicks": 2,
+   "Date": "/Date(1780012800000)/",
+   "Impressions": 1195
+  },
+  {
+   "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
+   "Clicks": 2,
+   "Date": "/Date(1780099200000)/",
+   "Impressions": 524
+  },
+  {
+   "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
+   "Clicks": 2,
+   "Date": "/Date(1780185600000)/",
+   "Impressions": 640
+  },
+  {
+   "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
+   "Clicks": 3,
+   "Date": "/Date(1780272000000)/",
+   "Impressions": 1752
+  },
+  {
+   "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
+   "Clicks": 6,
+   "Date": "/Date(1780358400000)/",
+   "Impressions": 1639
+  },
+  {
+   "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
+   "Clicks": 2,
+   "Date": "/Date(1780444800000)/",
+   "Impressions": 1336
+  },
+  {
+   "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
+   "Clicks": 5,
+   "Date": "/Date(1780531200000)/",
+   "Impressions": 1106
+  },
+  {
+   "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
+   "Clicks": 8,
+   "Date": "/Date(1780617600000)/",
+   "Impressions": 794
+  },
+  {
+   "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
+   "Clicks": 0,
+   "Date": "/Date(1780704000000)/",
+   "Impressions": 356
+  },
+  {
+   "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
+   "Clicks": 1,
+   "Date": "/Date(1780790400000)/",
+   "Impressions": 421
+  },
+  {
+   "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
+   "Clicks": 0,
+   "Date": "/Date(1780876800000)/",
+   "Impressions": 1115
+  },
+  {
+   "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
+   "Clicks": 1,
+   "Date": "/Date(1780963200000)/",
+   "Impressions": 889
+  },
+  {
+   "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
+   "Clicks": 1,
+   "Date": "/Date(1781049600000)/",
+   "Impressions": 832
+  },
+  {
+   "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
+   "Clicks": 1,
+   "Date": "/Date(1781136000000)/",
+   "Impressions": 778
+  },
+  {
+   "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
+   "Clicks": 0,
+   "Date": "/Date(1781222400000)/",
+   "Impressions": 615
+  },
+  {
+   "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
+   "Clicks": 1,
+   "Date": "/Date(1781308800000)/",
+   "Impressions": 311
+  },
+  {
+   "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
+   "Clicks": 1,
+   "Date": "/Date(1781395200000)/",
+   "Impressions": 342
+  },
+  {
+   "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
+   "Clicks": 1,
+   "Date": "/Date(1781481600000)/",
+   "Impressions": 903
+  },
+  {
+   "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
+   "Clicks": 0,
+   "Date": "/Date(1781568000000)/",
+   "Impressions": 757
+  },
+  {
+   "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
+   "Clicks": 7,
+   "Date": "/Date(1781654400000)/",
+   "Impressions": 789
+  },
+  {
+   "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
+   "Clicks": 3,
+   "Date": "/Date(1781740800000)/",
+   "Impressions": 892
+  },
+  {
+   "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
+   "Clicks": 2,
+   "Date": "/Date(1781827200000)/",
+   "Impressions": 651
+  },
+  {
+   "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
+   "Clicks": 0,
+   "Date": "/Date(1781913600000)/",
+   "Impressions": 316
+  },
+  {
+   "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
+   "Clicks": 0,
+   "Date": "/Date(1782000000000)/",
+   "Impressions": 435
+  },
+  {
+   "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
+   "Clicks": 2,
+   "Date": "/Date(1782086400000)/",
+   "Impressions": 1163
+  },
+  {
+   "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
+   "Clicks": 1,
+   "Date": "/Date(1782172800000)/",
+   "Impressions": 1301
+  },
+  {
+   "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
+   "Clicks": 1,
+   "Date": "/Date(1782259200000)/",
+   "Impressions": 1261
+  },
+  {
+   "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
+   "Clicks": 5,
+   "Date": "/Date(1782345600000)/",
+   "Impressions": 1210
+  },
+  {
+   "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
+   "Clicks": 0,
+   "Date": "/Date(1782432000000)/",
+   "Impressions": 999
+  },
+  {
+   "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
+   "Clicks": 0,
+   "Date": "/Date(1782518400000)/",
+   "Impressions": 481
+  },
+  {
+   "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
+   "Clicks": 0,
+   "Date": "/Date(1782604800000)/",
+   "Impressions": 615
+  },
+  {
+   "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
+   "Clicks": 2,
+   "Date": "/Date(1782691200000)/",
+   "Impressions": 1464
+  },
+  {
+   "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
+   "Clicks": 0,
+   "Date": "/Date(1782777600000)/",
+   "Impressions": 1846
+  },
+  {
+   "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
+   "Clicks": 1,
+   "Date": "/Date(1782864000000)/",
+   "Impressions": 1617
+  },
+  {
+   "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
+   "Clicks": 2,
+   "Date": "/Date(1782950400000)/",
+   "Impressions": 1226
+  },
+  {
+   "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
+   "Clicks": 0,
+   "Date": "/Date(1783036800000)/",
+   "Impressions": 700
+  },
+  {
+   "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
+   "Clicks": 0,
+   "Date": "/Date(1783123200000)/",
+   "Impressions": 395
+  },
+  {
+   "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
+   "Clicks": 0,
+   "Date": "/Date(1783209600000)/",
+   "Impressions": 497
+  },
+  {
+   "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
+   "Clicks": 4,
+   "Date": "/Date(1783296000000)/",
+   "Impressions": 1131
+  },
+  {
+   "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
+   "Clicks": 1,
+   "Date": "/Date(1783382400000)/",
+   "Impressions": 1206
+  },
+  {
+   "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
+   "Clicks": 2,
+   "Date": "/Date(1783468800000)/",
+   "Impressions": 1248
+  },
+  {
+   "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
+   "Clicks": 0,
+   "Date": "/Date(1783555200000)/",
+   "Impressions": 1219
+  },
+  {
+   "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
+   "Clicks": 4,
+   "Date": "/Date(1783641600000)/",
+   "Impressions": 1035
+  },
+  {
+   "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
+   "Clicks": 2,
+   "Date": "/Date(1783728000000)/",
+   "Impressions": 405
+  },
+  {
+   "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
+   "Clicks": 0,
+   "Date": "/Date(1783814400000)/",
+   "Impressions": 559
+  },
+  {
+   "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
+   "Clicks": 0,
+   "Date": "/Date(1783900800000)/",
+   "Impressions": 1138
+  },
+  {
+   "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
+   "Clicks": 5,
+   "Date": "/Date(1783987200000)/",
+   "Impressions": 1207
+  },
+  {
+   "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
+   "Clicks": 2,
+   "Date": "/Date(1784073600000)/",
+   "Impressions": 1177
+  },
+  {
+   "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
+   "Clicks": 1,
+   "Date": "/Date(1784160000000)/",
+   "Impressions": 1092
+  },
+  {
+   "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
+   "Clicks": 2,
+   "Date": "/Date(1784246400000)/",
+   "Impressions": 872
+  },
+  {
+   "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
+   "Clicks": 2,
+   "Date": "/Date(1784332800000)/",
+   "Impressions": 399
+  },
+  {
+   "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
+   "Clicks": 1,
+   "Date": "/Date(1784419200000)/",
+   "Impressions": 561
+  },
+  {
+   "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
+   "Clicks": 2,
+   "Date": "/Date(1784505600000)/",
+   "Impressions": 1299
+  },
+  {
+   "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
+   "Clicks": 0,
+   "Date": "/Date(1784592000000)/",
+   "Impressions": 946
+  },
+  {
+   "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
+   "Clicks": 1,
+   "Date": "/Date(1784678400000)/",
+   "Impressions": 815
+  },
+  {
+   "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
+   "Clicks": 2,
+   "Date": "/Date(1784764800000)/",
+   "Impressions": 716
+  },
+  {
+   "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
+   "Clicks": 2,
+   "Date": "/Date(1784851200000)/",
+   "Impressions": 642
+  },
+  {
+   "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
+   "Clicks": 0,
+   "Date": "/Date(1784937600000)/",
+   "Impressions": 283
+  },
+  {
+   "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
+   "Clicks": 0,
+   "Date": "/Date(1785024000000)/",
+   "Impressions": 330
+  },
+  {
+   "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
+   "Clicks": 1,
+   "Date": "/Date(1785110400000)/",
+   "Impressions": 777
+  },
+  {
+   "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
+   "Clicks": 1,
+   "Date": "/Date(1785196800000)/",
+   "Impressions": 839
+  },
+  {
+   "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
+   "Clicks": 0,
+   "Date": "/Date(1785283200000)/",
+   "Impressions": 684
+  },
+  {
+   "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
+   "Clicks": 0,
+   "Date": "/Date(1785369600000)/",
+   "Impressions": 679
+  },
+  {
+   "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
+   "Clicks": 0,
+   "Date": "/Date(1785456000000)/",
+   "Impressions": 686
+  },
+  {
+   "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
+   "Clicks": 3,
+   "Date": "/Date(1785542400000)/",
+   "Impressions": 305
+  },
+  {
+   "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
+   "Clicks": 0,
+   "Date": "/Date(1785628800000)/",
+   "Impressions": 295
+  },
+  {
+   "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
+   "Clicks": 1,
+   "Date": "/Date(1785715200000)/",
+   "Impressions": 738
+  },
+  {
+   "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
+   "Clicks": 2,
+   "Date": "/Date(1785801600000)/",
+   "Impressions": 761
+  },
+  {
+   "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
+   "Clicks": 2,
+   "Date": "/Date(1785888000000)/",
+   "Impressions": 675
+  },
+  {
+   "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
+   "Clicks": 3,
+   "Date": "/Date(1785974400000)/",
+   "Impressions": 747
+  },
+  {
+   "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
+   "Clicks": 0,
+   "Date": "/Date(1786060800000)/",
+   "Impressions": 537
+  },
+  {
+   "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
+   "Clicks": 2,
+   "Date": "/Date(1786147200000)/",
+   "Impressions": 285
+  },
+  {
+   "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
+   "Clicks": 0,
+   "Date": "/Date(1786233600000)/",
+   "Impressions": 267
+  },
+  {
+   "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
+   "Clicks": 1,
+   "Date": "/Date(1786320000000)/",
+   "Impressions": 595
+  },
+  {
+   "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
+   "Clicks": 0,
+   "Date": "/Date(1786406400000)/",
+   "Impressions": 527
+  },
+  {
+   "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
+   "Clicks": 2,
+   "Date": "/Date(1786492800000)/",
+   "Impressions": 365
+  },
+  {
+   "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
+   "Clicks": 0,
+   "Date": "/Date(1786579200000)/",
+   "Impressions": 277
+  },
+  {
+   "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
+   "Clicks": 0,
+   "Date": "/Date(1786665600000)/",
+   "Impressions": 237
+  },
+  {
+   "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
+   "Clicks": 0,
+   "Date": "/Date(1786752000000)/",
+   "Impressions": 119
+  },
+  {
+   "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
+   "Clicks": 0,
+   "Date": "/Date(1786838400000)/",
+   "Impressions": 133
+  },
+  {
+   "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
+   "Clicks": 0,
+   "Date": "/Date(1786924800000)/",
+   "Impressions": 358
+  },
+  {
+   "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
+   "Clicks": 0,
+   "Date": "/Date(1787011200000)/",
+   "Impressions": 394
+  },
+  {
+   "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
+   "Clicks": 0,
+   "Date": "/Date(1787097600000)/",
+   "Impressions": 367
+  },
+  {
+   "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
+   "Clicks": 0,
+   "Date": "/Date(1787184000000)/",
+   "Impressions": 351
+  },
+  {
+   "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
+   "Clicks": 1,
+   "Date": "/Date(1787270400000)/",
+   "Impressions": 275
+  },
+  {
+   "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
+   "Clicks": 2,
+   "Date": "/Date(1787356800000)/",
+   "Impressions": 168
+  },
+  {
+   "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
+   "Clicks": 0,
+   "Date": "/Date(1787443200000)/",
+   "Impressions": 182
+  },
+  {
+   "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
+   "Clicks": 0,
+   "Date": "/Date(1787529600000)/",
+   "Impressions": 380
+  },
+  {
+   "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
+   "Clicks": 1,
+   "Date": "/Date(1787616000000)/",
+   "Impressions": 515
+  },
+  {
+   "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
+   "Clicks": 1,
+   "Date": "/Date(1787702400000)/",
+   "Impressions": 429
+  },
+  {
+   "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
+   "Clicks": 3,
+   "Date": "/Date(1787788800000)/",
+   "Impressions": 349
+  },
+  {
+   "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
+   "Clicks": 2,
+   "Date": "/Date(1787875200000)/",
+   "Impressions": 332
+  },
+  {
+   "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
+   "Clicks": 0,
+   "Date": "/Date(1787961600000)/",
+   "Impressions": 146
+  },
+  {
+   "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
+   "Clicks": 0,
+   "Date": "/Date(1788048000000)/",
+   "Impressions": 179
+  },
+  {
+   "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
+   "Clicks": 4,
+   "Date": "/Date(1788134400000)/",
+   "Impressions": 467
+  },
+  {
+   "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
+   "Clicks": 1,
+   "Date": "/Date(1788220800000)/",
+   "Impressions": 477
+  },
+  {
+   "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
+   "Clicks": 1,
+   "Date": "/Date(1788307200000)/",
+   "Impressions": 480
+  },
+  {
+   "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
+   "Clicks": 0,
+   "Date": "/Date(1788393600000)/",
+   "Impressions": 492
+  },
+  {
+   "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
+   "Clicks": 1,
+   "Date": "/Date(1788480000000)/",
+   "Impressions": 402
+  },
+  {
+   "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
+   "Clicks": 2,
+   "Date": "/Date(1788566400000)/",
+   "Impressions": 173
+  },
+  {
+   "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
+   "Clicks": 0,
+   "Date": "/Date(1788652800000)/",
+   "Impressions": 251
+  },
+  {
+   "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
+   "Clicks": 1,
+   "Date": "/Date(1788739200000)/",
+   "Impressions": 294
+  },
+  {
+   "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
+   "Clicks": 0,
+   "Date": "/Date(1788825600000)/",
+   "Impressions": 412
+  },
+  {
+   "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
+   "Clicks": 0,
+   "Date": "/Date(1788912000000)/",
+   "Impressions": 378
+  },
+  {
+   "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
+   "Clicks": 4,
+   "Date": "/Date(1788998400000)/",
+   "Impressions": 349
+  },
+  {
+   "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
+   "Clicks": 0,
+   "Date": "/Date(1789084800000)/",
+   "Impressions": 348
+  },
+  {
+   "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
+   "Clicks": 0,
+   "Date": "/Date(1789171200000)/",
+   "Impressions": 142
+  },
+  {
+   "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
+   "Clicks": 0,
+   "Date": "/Date(1789257600000)/",
+   "Impressions": 168
+  },
+  {
+   "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
+   "Clicks": 0,
+   "Date": "/Date(1789344000000)/",
+   "Impressions": 397
+  },
+  {
+   "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
+   "Clicks": 1,
+   "Date": "/Date(1789430400000)/",
+   "Impressions": 429
+  },
+  {
+   "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
+   "Clicks": 0,
+   "Date": "/Date(1789516800000)/",
+   "Impressions": 422
+  },
+  {
+   "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
+   "Clicks": 1,
+   "Date": "/Date(1789603200000)/",
+   "Impressions": 407
+  },
+  {
+   "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
+   "Clicks": 2,
+   "Date": "/Date(1789689600000)/",
+   "Impressions": 581
+  },
+  {
+   "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
+   "Clicks": 1,
+   "Date": "/Date(1789776000000)/",
+   "Impressions": 249
+  },
+  {
+   "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
+   "Clicks": 1,
+   "Date": "/Date(1789862400000)/",
+   "Impressions": 327
+  },
+  {
+   "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
+   "Clicks": 0,
+   "Date": "/Date(1789948800000)/",
+   "Impressions": 953
+  },
+  {
+   "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
+   "Clicks": 1,
+   "Date": "/Date(1790035200000)/",
+   "Impressions": 902
+  },
+  {
+   "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
+   "Clicks": 0,
+   "Date": "/Date(1790121600000)/",
+   "Impressions": 986
+  },
+  {
+   "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
+   "Clicks": 1,
+   "Date": "/Date(1790208000000)/",
+   "Impressions": 896
+  },
+  {
+   "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
+   "Clicks": 0,
+   "Date": "/Date(1790294400000)/",
+   "Impressions": 677
+  },
+  {
+   "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
+   "Clicks": 0,
+   "Date": "/Date(1790380800000)/",
+   "Impressions": 267
+  },
+  {
+   "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
+   "Clicks": 0,
+   "Date": "/Date(1790467200000)/",
+   "Impressions": 367
+  },
+  {
+   "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
+   "Clicks": 0,
+   "Date": "/Date(1790553600000)/",
+   "Impressions": 1154
+  },
+  {
+   "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
+   "Clicks": 0,
+   "Date": "/Date(1790640000000)/",
+   "Impressions": 676
+  },
+  {
+   "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
+   "Clicks": 0,
+   "Date": "/Date(1790726400000)/",
+   "Impressions": 634
+  },
+  {
+   "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
+   "Clicks": 2,
+   "Date": "/Date(1790812800000)/",
+   "Impressions": 683
+  },
+  {
+   "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
+   "Clicks": 1,
+   "Date": "/Date(1790899200000)/",
+   "Impressions": 552
+  },
+  {
+   "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
+   "Clicks": 2,
+   "Date": "/Date(1790985600000)/",
+   "Impressions": 387
+  },
+  {
+   "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
+   "Clicks": 1,
+   "Date": "/Date(1791072000000)/",
+   "Impressions": 369
+  },
+  {
+   "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
+   "Clicks": 3,
+   "Date": "/Date(1791158400000)/",
+   "Impressions": 1089
+  },
+  {
+   "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
+   "Clicks": 1,
+   "Date": "/Date(1791244800000)/",
+   "Impressions": 2125
+  },
+  {
+   "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
+   "Clicks": 2,
+   "Date": "/Date(1791331200000)/",
+   "Impressions": 3503
+  },
+  {
+   "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
+   "Clicks": 3,
+   "Date": "/Date(1791417600000)/",
+   "Impressions": 3108
+  },
+  {
+   "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
+   "Clicks": 2,
+   "Date": "/Date(1791504000000)/",
+   "Impressions": 3063
+  },
+  {
+   "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
+   "Clicks": 0,
+   "Date": "/Date(1791590400000)/",
+   "Impressions": 1835
+  },
+  {
+   "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
+   "Clicks": 0,
+   "Date": "/Date(1791676800000)/",
+   "Impressions": 2269
+  },
+  {
+   "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
+   "Clicks": 3,
+   "Date": "/Date(1791763200000)/",
+   "Impressions": 5411
+  },
+  {
+   "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
+   "Clicks": 2,
+   "Date": "/Date(1791849600000)/",
+   "Impressions": 5604
+  },
+  {
+   "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
+   "Clicks": 1,
+   "Date": "/Date(1791936000000)/",
+   "Impressions": 3075
+  },
+  {
+   "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
+   "Clicks": 1,
+   "Date": "/Date(1792022400000)/",
+   "Impressions": 3330
+  },
+  {
+   "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
+   "Clicks": 2,
+   "Date": "/Date(1792108800000)/",
+   "Impressions": 2071
+  },
+  {
+   "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
+   "Clicks": 0,
+   "Date": "/Date(1792195200000)/",
+   "Impressions": 936
+  },
+  {
+   "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
+   "Clicks": 15,
+   "Date": "/Date(1792281600000)/",
+   "Impressions": 2078
+  },
+  {
+   "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
+   "Clicks": 63,
+   "Date": "/Date(1792368000000)/",
+   "Impressions": 7705
+  },
+  {
+   "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
+   "Clicks": 65,
+   "Date": "/Date(1792454400000)/",
+   "Impressions": 8769
+  },
+  {
+   "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
+   "Clicks": 106,
+   "Date": "/Date(1792540800000)/",
+   "Impressions": 11451
+  },
+  {
+   "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
+   "Clicks": 121,
+   "Date": "/Date(1792627200000)/",
+   "Impressions": 14261
+  },
+  {
+   "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
+   "Clicks": 104,
+   "Date": "/Date(1792713600000)/",
+   "Impressions": 13598
+  },
+  {
+   "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
+   "Clicks": 60,
+   "Date": "/Date(1792800000000)/",
+   "Impressions": 10653
+  },
+  {
+   "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
+   "Clicks": 184,
+   "Date": "/Date(1792886400000)/",
+   "Impressions": 18045
+  },
+  {
+   "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
+   "Clicks": 693,
+   "Date": "/Date(1792972800000)/",
+   "Impressions": 63053
+  },
+  {
+   "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
+   "Clicks": 229,
+   "Date": "/Date(1793059200000)/",
+   "Impressions": 32916
+  },
+  {
+   "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
+   "Clicks": 211,
+   "Date": "/Date(1793145600000)/",
+   "Impressions": 35499
+  },
+  {
+   "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
+   "Clicks": 546,
+   "Date": "/Date(1793232000000)/",
+   "Impressions": 51345
+  },
+  {
+   "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
+   "Clicks": 446,
+   "Date": "/Date(1793318400000)/",
+   "Impressions": 51638
+  },
+  {
+   "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
+   "Clicks": 468,
+   "Date": "/Date(1793404800000)/",
+   "Impressions": 54105
+  },
+  {
+   "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
+   "Clicks": 446,
+   "Date": "/Date(1793491200000)/",
+   "Impressions": 49710
+  },
+  {
+   "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
+   "Clicks": 656,
+   "Date": "/Date(1793577600000)/",
+   "Impressions": 105923
+  },
+  {
+   "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
+   "Clicks": 507,
+   "Date": "/Date(1793664000000)/",
+   "Impressions": 67155
+  },
+  {
+   "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
+   "Clicks": 558,
+   "Date": "/Date(1793750400000)/",
+   "Impressions": 65369
+  },
+  {
+   "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
+   "Clicks": 451,
+   "Date": "/Date(1793836800000)/",
+   "Impressions": 63726
+  }
+ ],
+ "queries": [
+  {
+   "key": "dia de los muertos 2026",
+   "clicks": 324,
+   "impressions": 16139,
+   "posW": 32278,
+   "position": 2,
+   "ctr": 0.02007559328335089
+  },
+  {
+   "key": "day of the dead 2026",
+   "clicks": 69,
+   "impressions": 5506,
+   "posW": 12496,
+   "position": 2.2695241554667636,
+   "ctr": 0.012531783508899382
+  },
+  {
+   "key": "ballon d'or 2026 start time",
+   "clicks": 45,
+   "impressions": 3004,
+   "posW": 3004,
+   "position": 1,
+   "ctr": 0.014980026631158456
+  },
+  {
+   "key": "when is halloween 2026",
+   "clicks": 2,
+   "impressions": 2974,
+   "posW": 24324,
+   "position": 8.178883658372563,
+   "ctr": 0.0006724949562878278
+  },
+  {
+   "key": "day light savings 2026",
+   "clicks": 2,
+   "impressions": 2956,
+   "posW": 26604,
+   "position": 9,
+   "ctr": 0.0006765899864682003
+  },
+  {
+   "key": "what time is the ballon d'or ceremony",
+   "clicks": 25,
+   "impressions": 2574,
+   "posW": 7722,
+   "position": 3,
+   "ctr": 0.009712509712509712
+  },
+  {
+   "key": "brewers parade 2026 details",
+   "clicks": 38,
+   "impressions": 2413,
+   "posW": 8966,
+   "position": 3.7157065893079153,
+   "ctr": 0.015748031496062992
+  },
+  {
+   "key": "what day is halloween 2026",
+   "clicks": 4,
+   "impressions": 2313,
+   "posW": 13157,
+   "position": 5.6882836143536535,
+   "ctr": 0.0017293558149589277
+  },
+  {
+   "key": "veterans day 2026 free meals",
+   "clicks": 108,
+   "impressions": 2242,
+   "posW": 9768,
+   "position": 4.356824264049956,
+   "ctr": 0.04817127564674398
+  },
+  {
+   "key": "movember 2026",
+   "clicks": 12,
+   "impressions": 2061,
+   "posW": 12366,
+   "position": 6,
+   "ctr": 0.005822416302765648
+  },
+  {
+   "key": "dias de los muertos 2026",
+   "clicks": 31,
+   "impressions": 1936,
+   "posW": 5561,
+   "position": 2.872417355371901,
+   "ctr": 0.016012396694214875
+  },
+  {
+   "key": "when is dia de los muertos 2026",
+   "clicks": 59,
+   "impressions": 1847,
+   "posW": 2727,
+   "position": 1.476448294531673,
+   "ctr": 0.03194369247428262
+  },
+  {
+   "key": "ballon d'or 2026 date",
+   "clicks": 7,
+   "impressions": 1750,
+   "posW": 8750,
+   "position": 5,
+   "ctr": 0.004
+  },
+  {
+   "key": "when is the ballon d'or 2026",
+   "clicks": 3,
+   "impressions": 1421,
+   "posW": 7105,
+   "position": 5,
+   "ctr": 0.00211118930330753
+  },
+  {
+   "key": "when is remembrance sunday 2026",
+   "clicks": 1,
+   "impressions": 1396,
+   "posW": 11168,
+   "position": 8,
+   "ctr": 0.0007163323782234957
+  },
+  {
+   "key": "halloween 2026 date",
+   "clicks": 1,
+   "impressions": 1316,
+   "posW": 10398,
+   "position": 7.901215805471125,
+   "ctr": 0.0007598784194528875
+  },
+  {
+   "key": "ballon d'or time",
+   "clicks": 27,
+   "impressions": 1176,
+   "posW": 2352,
+   "position": 2,
+   "ctr": 0.02295918367346939
+  },
+  {
+   "key": "ballon d'or 2026 time",
+   "clicks": 34,
+   "impressions": 1166,
+   "posW": 2332,
+   "position": 2,
+   "ctr": 0.029159519725557463
+  },
+  {
+   "key": "bonfire night 2026",
+   "clicks": 4,
+   "impressions": 1141,
+   "posW": 7987,
+   "position": 7,
+   "ctr": 0.0035056967572304996
+  },
+  {
+   "key": "time change fall 2026",
+   "clicks": 3,
+   "impressions": 1126,
+   "posW": 8362,
+   "position": 7.426287744227354,
+   "ctr": 0.0026642984014209592
+  },
+  {
+   "key": "milwaukee brewers parade 2026",
+   "clicks": 25,
+   "impressions": 1077,
+   "posW": 2874,
+   "position": 2.668523676880223,
+   "ctr": 0.02321262766945218
+  },
+  {
+   "key": "native american heritage month 2026",
+   "clicks": 11,
+   "impressions": 1012,
+   "posW": 5060,
+   "position": 5,
+   "ctr": 0.010869565217391304
+  },
+  {
+   "key": "what time does trick or treat start 2026",
+   "clicks": 3,
+   "impressions": 1008,
+   "posW": 5040,
+   "position": 5,
+   "ctr": 0.002976190476190476
+  },
+  {
+   "key": "home depot black friday 2026",
+   "clicks": 22,
+   "impressions": 970,
+   "posW": 3880,
+   "position": 4,
+   "ctr": 0.02268041237113402
+  },
+  {
+   "key": "when is day of the dead 2026",
+   "clicks": 12,
+   "impressions": 958,
+   "posW": 2223,
+   "position": 2.3204592901878915,
+   "ctr": 0.012526096033402923
+  },
+  {
+   "key": "time change november 2026",
+   "clicks": 7,
+   "impressions": 957,
+   "posW": 4898,
+   "position": 5.118077324973877,
+   "ctr": 0.0073145245559038665
+  },
+  {
+   "key": "ballon d'or 2026 date and time",
+   "clicks": 2,
+   "impressions": 925,
+   "posW": 3700,
+   "position": 4,
+   "ctr": 0.002162162162162162
+  },
+  {
+   "key": "when is halloween 2026 calendar",
+   "clicks": 1,
+   "impressions": 823,
+   "posW": 4115,
+   "position": 5,
+   "ctr": 0.001215066828675577
+  },
+  {
+   "key": "day of the dead 2026 date",
+   "clicks": 17,
+   "impressions": 810,
+   "posW": 2624,
+   "position": 3.2395061728395063,
+   "ctr": 0.020987654320987655
+  },
+  {
+   "key": "when is bonfire night 2026",
+   "clicks": 1,
+   "impressions": 756,
+   "posW": 2268,
+   "position": 3,
+   "ctr": 0.0013227513227513227
+  },
+  {
+   "key": "when is ballon d'or 2026",
+   "clicks": 2,
+   "impressions": 737,
+   "posW": 4422,
+   "position": 6,
+   "ctr": 0.0027137042062415195
+  },
+  {
+   "key": "tesco christmas delivery slots 2026",
+   "clicks": 7,
+   "impressions": 701,
+   "posW": 3505,
+   "position": 5,
+   "ctr": 0.009985734664764621
+  },
+  {
+   "key": "ballon dor time",
+   "clicks": 7,
+   "impressions": 675,
+   "posW": 2025,
+   "position": 3,
+   "ctr": 0.01037037037037037
+  },
+  {
+   "key": "milwaukee brewers parade route",
+   "clicks": 4,
+   "impressions": 628,
+   "posW": 2889,
+   "position": 4.600318471337579,
+   "ctr": 0.006369426751592357
+  },
+  {
+   "key": "brewers parade route",
+   "clicks": 4,
+   "impressions": 623,
+   "posW": 3993,
+   "position": 6.409309791332263,
+   "ctr": 0.006420545746388443
+  },
+  {
+   "key": "nfl schedule 2026 2027 season",
+   "clicks": 6,
+   "impressions": 610,
+   "posW": 4880,
+   "position": 8,
+   "ctr": 0.009836065573770493
+  },
+  {
+   "key": "when is trick or treat 2026",
+   "clicks": 6,
+   "impressions": 593,
+   "posW": 2372,
+   "position": 4,
+   "ctr": 0.01011804384485666
+  },
+  {
+   "key": "clocks change october 2026",
+   "clicks": 0,
+   "impressions": 586,
+   "posW": 4688,
+   "position": 8,
+   "ctr": 0
+  },
+  {
+   "key": "what time is ballon d'or",
+   "clicks": 10,
+   "impressions": 562,
+   "posW": 1124,
+   "position": 2,
+   "ctr": 0.017793594306049824
+  },
+  {
+   "key": "when is the ballon d'or 2026 time",
+   "clicks": 1,
+   "impressions": 562,
+   "posW": 1686,
+   "position": 3,
+   "ctr": 0.0017793594306049821
+  },
+  {
+   "key": "ballon d'or ceremony time",
+   "clicks": 14,
+   "impressions": 545,
+   "posW": 1090,
+   "position": 2,
+   "ctr": 0.025688073394495414
+  },
+  {
+   "key": "brewers parade",
+   "clicks": 1,
+   "impressions": 544,
+   "posW": 3264,
+   "position": 6,
+   "ctr": 0.001838235294117647
+  },
+  {
+   "key": "what time does the ballon d'or start",
+   "clicks": 12,
+   "impressions": 516,
+   "posW": 1032,
+   "position": 2,
+   "ctr": 0.023255813953488372
+  },
+  {
+   "key": "what time is the ballon d'or",
+   "clicks": 9,
+   "impressions": 510,
+   "posW": 1020,
+   "position": 2,
+   "ctr": 0.01764705882352941
+  },
+  {
+   "key": "dia de los muertos 2026 dates",
+   "clicks": 22,
+   "impressions": 508,
+   "posW": 537,
+   "position": 1.0570866141732282,
+   "ctr": 0.04330708661417323
+  },
+  {
+   "key": "when does trick or treating start 2026",
+   "clicks": 1,
+   "impressions": 502,
+   "posW": 2510,
+   "position": 5,
+   "ctr": 0.00199203187250996
+  },
+  {
+   "key": "national black cat day 2026",
+   "clicks": 6,
+   "impressions": 497,
+   "posW": 1491,
+   "position": 3,
+   "ctr": 0.012072434607645875
+  },
+  {
+   "key": "world kindness day 2026",
+   "clicks": 1,
+   "impressions": 492,
+   "posW": 3936,
+   "position": 8,
+   "ctr": 0.0020325203252032522
+  },
+  {
+   "key": "milwaukee brewers parade",
+   "clicks": 6,
+   "impressions": 479,
+   "posW": 2395,
+   "position": 5,
+   "ctr": 0.012526096033402923
+  },
+  {
+   "key": "nevada day 2026",
+   "clicks": 9,
+   "impressions": 478,
+   "posW": 2753,
+   "position": 5.7594142259414225,
+   "ctr": 0.01882845188284519
+  },
+  {
+   "key": "week 9 pick sheet 2026",
+   "clicks": 8,
+   "impressions": 460,
+   "posW": 2760,
+   "position": 6,
+   "ctr": 0.017391304347826087
+  },
+  {
+   "key": "army navy game 2026",
+   "clicks": 5,
+   "impressions": 437,
+   "posW": 2185,
+   "position": 5,
+   "ctr": 0.011441647597254004
+  },
+  {
+   "key": "ballon d'or 2026 ceremony time",
+   "clicks": 6,
+   "impressions": 407,
+   "posW": 814,
+   "position": 2,
+   "ctr": 0.014742014742014743
+  },
+  {
+   "key": "when is thanksgiving 2026",
+   "clicks": 1,
+   "impressions": 404,
+   "posW": 3636,
+   "position": 9,
+   "ctr": 0.0024752475247524753
+  },
+  {
+   "key": "halloween 2026 date and time",
+   "clicks": 2,
+   "impressions": 386,
+   "posW": 1930,
+   "position": 5,
+   "ctr": 0.0051813471502590676
+  },
+  {
+   "key": "2027 calendar with week numbers",
+   "clicks": 2,
+   "impressions": 385,
+   "posW": 2368,
+   "position": 6.150649350649351,
+   "ctr": 0.005194805194805195
+  },
+  {
+   "key": "what time is trick or treating 2026",
+   "clicks": 2,
+   "impressions": 368,
+   "posW": 2208,
+   "position": 6,
+   "ctr": 0.005434782608695652
+  },
+  {
+   "key": "when is the next halloween on a saturday",
+   "clicks": 1,
+   "impressions": 358,
+   "posW": 1432,
+   "position": 4,
+   "ctr": 0.002793296089385475
+  },
+  {
+   "key": "what time is the ballon d'or ceremony 2026",
+   "clicks": 5,
+   "impressions": 350,
+   "posW": 1400,
+   "position": 4,
+   "ctr": 0.014285714285714285
+  },
+  {
+   "key": "national candy corn day",
+   "clicks": 2,
+   "impressions": 350,
+   "posW": 1750,
+   "position": 5,
+   "ctr": 0.005714285714285714
+  },
+  {
+   "key": "from season 5 release date",
+   "clicks": 3,
+   "impressions": 337,
+   "posW": 1685,
+   "position": 5,
+   "ctr": 0.008902077151335312
+  },
+  {
+   "key": "november 2026 calendar with holidays",
+   "clicks": 6,
+   "impressions": 334,
+   "posW": 2460,
+   "position": 7.365269461077844,
+   "ctr": 0.017964071856287425
+  },
+  {
+   "key": "what time is ballon d'or ceremony",
+   "clicks": 3,
+   "impressions": 324,
+   "posW": 972,
+   "position": 3,
+   "ctr": 0.009259259259259259
+  },
+  {
+   "key": "samhain 2026",
+   "clicks": 4,
+   "impressions": 316,
+   "posW": 1264,
+   "position": 4,
+   "ctr": 0.012658227848101266
+  },
+  {
+   "key": "breeders' cup 2026 schedule",
+   "clicks": 13,
+   "impressions": 313,
+   "posW": 939,
+   "position": 3,
+   "ctr": 0.04153354632587859
+  },
+  {
+   "key": "veterans day free meals 2026",
+   "clicks": 12,
+   "impressions": 297,
+   "posW": 2079,
+   "position": 7,
+   "ctr": 0.04040404040404041
+  },
+  {
+   "key": "ballon d'or 2026 live stream",
+   "clicks": 4,
+   "impressions": 294,
+   "posW": 2646,
+   "position": 9,
+   "ctr": 0.013605442176870748
+  },
+  {
+   "key": "remembrance sunday 2026",
+   "clicks": 1,
+   "impressions": 276,
+   "posW": 2760,
+   "position": 10,
+   "ctr": 0.0036231884057971015
+  },
+  {
+   "key": "2026 ballon d'or time",
+   "clicks": 5,
+   "impressions": 267,
+   "posW": 534,
+   "position": 2,
+   "ctr": 0.018726591760299626
+  },
+  {
+   "key": "breeders cup tv schedule",
+   "clicks": 1,
+   "impressions": 267,
+   "posW": 1869,
+   "position": 7,
+   "ctr": 0.003745318352059925
+  },
+  {
+   "key": "time change november 1 2026",
+   "clicks": 7,
+   "impressions": 259,
+   "posW": 518,
+   "position": 2,
+   "ctr": 0.02702702702702703
+  },
+  {
+   "key": "what time is the ballon dor",
+   "clicks": 3,
+   "impressions": 243,
+   "posW": 729,
+   "position": 3,
+   "ctr": 0.012345679012345678
+  },
+  {
+   "key": "trick or treat 2026",
+   "clicks": 5,
+   "impressions": 234,
+   "posW": 1170,
+   "position": 5,
+   "ctr": 0.021367521367521368
+  },
+  {
+   "key": "when is the next saturday halloween",
+   "clicks": 5,
+   "impressions": 233,
+   "posW": 932,
+   "position": 4,
+   "ctr": 0.02145922746781116
+  },
+  {
+   "key": "cps calendar 26-27 chicago",
+   "clicks": 8,
+   "impressions": 217,
+   "posW": 952,
+   "position": 4.387096774193548,
+   "ctr": 0.03686635944700461
+  },
+  {
+   "key": "ballon dor 2026 time",
+   "clicks": 7,
+   "impressions": 213,
+   "posW": 426,
+   "position": 2,
+   "ctr": 0.03286384976525822
+  },
+  {
+   "key": "are banks open on election day",
+   "clicks": 2,
+   "impressions": 199,
+   "posW": 1791,
+   "position": 9,
+   "ctr": 0.010050251256281407
+  },
+  {
+   "key": "brewers parade route 2026",
+   "clicks": 6,
+   "impressions": 197,
+   "posW": 394,
+   "position": 2,
+   "ctr": 0.030456852791878174
+  },
+  {
+   "key": "when does the ballon d'or start",
+   "clicks": 4,
+   "impressions": 192,
+   "posW": 576,
+   "position": 3,
+   "ctr": 0.020833333333333332
+  },
+  {
+   "key": "when do newly elected congressmen take office",
+   "clicks": 2,
+   "impressions": 192,
+   "posW": 1344,
+   "position": 7,
+   "ctr": 0.010416666666666666
+  },
+  {
+   "key": "october 22, 2026",
+   "clicks": 0,
+   "impressions": 190,
+   "posW": 950,
+   "position": 5,
+   "ctr": 0
+  },
+  {
+   "key": "what time does ballon d or start",
+   "clicks": 13,
+   "impressions": 189,
+   "posW": 189,
+   "position": 1,
+   "ctr": 0.06878306878306878
+  },
+  {
+   "key": "ballon d'or start time",
+   "clicks": 3,
+   "impressions": 186,
+   "posW": 372,
+   "position": 2,
+   "ctr": 0.016129032258064516
+  },
+  {
+   "key": "at what time is the ballon d'or ceremony",
+   "clicks": 2,
+   "impressions": 183,
+   "posW": 549,
+   "position": 3,
+   "ctr": 0.01092896174863388
+  },
+  {
+   "key": "black cat day 2026",
+   "clicks": 2,
+   "impressions": 182,
+   "posW": 546,
+   "position": 3,
+   "ctr": 0.01098901098901099
+  },
+  {
+   "key": "sample ballot by zip code",
+   "clicks": 5,
+   "impressions": 175,
+   "posW": 1553,
+   "position": 8.874285714285714,
+   "ctr": 0.02857142857142857
+  },
+  {
+   "key": "drug take back day 2026",
+   "clicks": 4,
+   "impressions": 174,
+   "posW": 1317,
+   "position": 7.568965517241379,
+   "ctr": 0.022988505747126436
+  },
+  {
+   "key": "ramadan 2027",
+   "clicks": 0,
+   "impressions": 171,
+   "posW": 1539,
+   "position": 9,
+   "ctr": 0
+  },
+  {
+   "key": "milwaukee brewers parade route 2026",
+   "clicks": 6,
+   "impressions": 170,
+   "posW": 510,
+   "position": 3,
+   "ctr": 0.03529411764705882
+  },
+  {
+   "key": "sample ballot by zip code 2026",
+   "clicks": 5,
+   "impressions": 169,
+   "posW": 965,
+   "position": 5.710059171597633,
+   "ctr": 0.029585798816568046
+  },
+  {
+   "key": "daylight savings november 2026",
+   "clicks": 8,
+   "impressions": 165,
+   "posW": 660,
+   "position": 4,
+   "ctr": 0.048484848484848485
+  },
+  {
+   "key": "mole day 2026",
+   "clicks": 15,
+   "impressions": 160,
+   "posW": 369,
+   "position": 2.30625,
+   "ctr": 0.09375
+  },
+  {
+   "key": "nfl week 9 schedule 2026",
+   "clicks": 2,
+   "impressions": 157,
+   "posW": 1099,
+   "position": 7,
+   "ctr": 0.012738853503184714
+  },
+  {
+   "key": "free veterans day meals 2026",
+   "clicks": 6,
+   "impressions": 154,
+   "posW": 770,
+   "position": 5,
+   "ctr": 0.03896103896103896
+  },
+  {
+   "key": "colorado amendments and propositions",
+   "clicks": 2,
+   "impressions": 152,
+   "posW": 760,
+   "position": 5,
+   "ctr": 0.013157894736842105
+  },
+  {
+   "key": "connections nov 5",
+   "clicks": 3,
+   "impressions": 148,
+   "posW": 888,
+   "position": 6,
+   "ctr": 0.02027027027027027
+  },
+  {
+   "key": "what day is dia de los muertos 2026",
+   "clicks": 8,
+   "impressions": 146,
+   "posW": 146,
+   "position": 1,
+   "ctr": 0.0547945205479452
+  },
+  {
+   "key": "connections nov 5 2026",
+   "clicks": 2,
+   "impressions": 128,
+   "posW": 768,
+   "position": 6,
+   "ctr": 0.015625
+  },
+  {
+   "key": "ramadan 2027 start date",
+   "clicks": 0,
+   "impressions": 126,
+   "posW": 1134,
+   "position": 9,
+   "ctr": 0
+  },
+  {
+   "key": "breeders' cup 2026 schedule printable",
+   "clicks": 9,
+   "impressions": 124,
+   "posW": 318,
+   "position": 2.564516129032258,
+   "ctr": 0.07258064516129033
+  },
+  {
+   "key": "brewers parade time 2026",
+   "clicks": 6,
+   "impressions": 121,
+   "posW": 227,
+   "position": 1.8760330578512396,
+   "ctr": 0.049586776859504134
+  },
+  {
+   "key": "ballon d'or date and time",
+   "clicks": 2,
+   "impressions": 121,
+   "posW": 363,
+   "position": 3,
+   "ctr": 0.01652892561983471
+  },
+  {
+   "key": "veterans day 2026 free meals list",
+   "clicks": 12,
+   "impressions": 118,
+   "posW": 590,
+   "position": 5,
+   "ctr": 0.1016949152542373
+  },
+  {
+   "key": "fall back time change 2026",
+   "clicks": 0,
+   "impressions": 116,
+   "posW": 696,
+   "position": 6,
+   "ctr": 0
+  },
+  {
+   "key": "clocks go back uk 25 october 2026",
+   "clicks": 0,
+   "impressions": 115,
+   "posW": 805,
+   "position": 7,
+   "ctr": 0
+  },
+  {
+   "key": "week 9 nfl schedule 2026",
+   "clicks": 2,
+   "impressions": 112,
+   "posW": 896,
+   "position": 8,
+   "ctr": 0.017857142857142856
+  },
+  {
+   "key": "2026 nfl week 9 pick em sheet",
+   "clicks": 4,
+   "impressions": 108,
+   "posW": 324,
+   "position": 3,
+   "ctr": 0.037037037037037035
+  },
+  {
+   "key": "time change october 2026 uk",
+   "clicks": 0,
+   "impressions": 107,
+   "posW": 963,
+   "position": 9,
+   "ctr": 0
+  },
+  {
+   "key": "ballon d'or date",
+   "clicks": 3,
+   "impressions": 105,
+   "posW": 420,
+   "position": 4,
+   "ctr": 0.02857142857142857
+  },
+  {
+   "key": "royal winter fair 2026 schedule",
+   "clicks": 11,
+   "impressions": 104,
+   "posW": 312,
+   "position": 3,
+   "ctr": 0.10576923076923077
+  },
+  {
+   "key": "thanksgiving 2026 date",
+   "clicks": 0,
+   "impressions": 103,
+   "posW": 927,
+   "position": 9,
+   "ctr": 0
+  },
+  {
+   "key": "brewers world series parade 2026",
+   "clicks": 3,
+   "impressions": 103,
+   "posW": 412,
+   "position": 4,
+   "ctr": 0.02912621359223301
+  },
+  {
+   "key": "day light saving end date",
+   "clicks": 0,
+   "impressions": 99,
+   "posW": 891,
+   "position": 9,
+   "ctr": 0
+  },
+  {
+   "key": "london to brighton veteran car run 2026",
+   "clicks": 2,
+   "impressions": 99,
+   "posW": 792,
+   "position": 8,
+   "ctr": 0.020202020202020204
+  },
+  {
+   "key": "thanksgiving 2026",
+   "clicks": 0,
+   "impressions": 98,
+   "posW": 886,
+   "position": 9.040816326530612,
+   "ctr": 0
+  },
+  {
+   "key": "halloween date 2026",
+   "clicks": 0,
+   "impressions": 97,
+   "posW": 679,
+   "position": 7,
+   "ctr": 0
+  },
+  {
+   "key": "thanksgiving day 2026",
+   "clicks": 0,
+   "impressions": 95,
+   "posW": 855,
+   "position": 9,
+   "ctr": 0
+  },
+  {
+   "key": "what day is thanksgiving 2026",
+   "clicks": 0,
+   "impressions": 94,
+   "posW": 752,
+   "position": 8,
+   "ctr": 0
+  },
+  {
+   "key": "fall back 2026",
+   "clicks": 0,
+   "impressions": 94,
+   "posW": 752,
+   "position": 8,
+   "ctr": 0
+  },
+  {
+   "key": "tesco christmas slots 2026",
+   "clicks": 3,
+   "impressions": 91,
+   "posW": 637,
+   "position": 7,
+   "ctr": 0.03296703296703297
+  },
+  {
+   "key": "what date is thanksgiving 2026",
+   "clicks": 0,
+   "impressions": 89,
+   "posW": 712,
+   "position": 8,
+   "ctr": 0
+  },
+  {
+   "key": "ballon d'or 2026 australia time",
+   "clicks": 6,
+   "impressions": 89,
+   "posW": 89,
+   "position": 1,
+   "ctr": 0.06741573033707865
+  },
+  {
+   "key": "christmas eve 2026",
+   "clicks": 0,
+   "impressions": 86,
+   "posW": 729,
+   "position": 8.476744186046512,
+   "ctr": 0
+  },
+  {
+   "key": "clocks go back october 2026",
+   "clicks": 0,
+   "impressions": 84,
+   "posW": 756,
+   "position": 9,
+   "ctr": 0
+  },
+  {
+   "key": "ballon d'or timing",
+   "clicks": 3,
+   "impressions": 82,
+   "posW": 82,
+   "position": 1,
+   "ctr": 0.036585365853658534
+  },
+  {
+   "key": "native american heritage month 2026 theme",
+   "clicks": 6,
+   "impressions": 82,
+   "posW": 246,
+   "position": 3,
+   "ctr": 0.07317073170731707
+  },
+  {
+   "key": "brewers parade 2026",
+   "clicks": 6,
+   "impressions": 81,
+   "posW": 324,
+   "position": 4,
+   "ctr": 0.07407407407407407
+  },
+  {
+   "key": "new year's eve 2026",
+   "clicks": 3,
+   "impressions": 79,
+   "posW": 471,
+   "position": 5.962025316455696,
+   "ctr": 0.0379746835443038
+  },
+  {
+   "key": "clocks change date october 2026",
+   "clicks": 0,
+   "impressions": 78,
+   "posW": 546,
+   "position": 7,
+   "ctr": 0
+  },
+  {
+   "key": "when is thanksgiving 2026 calendar",
+   "clicks": 0,
+   "impressions": 77,
+   "posW": 616,
+   "position": 8,
+   "ctr": 0
+  },
+  {
+   "key": "thanksgiving day 2026 date",
+   "clicks": 0,
+   "impressions": 74,
+   "posW": 666,
+   "position": 9,
+   "ctr": 0
+  },
+  {
+   "key": "when do clocks go back uk 2026",
+   "clicks": 0,
+   "impressions": 73,
+   "posW": 657,
+   "position": 9,
+   "ctr": 0
+  },
+  {
+   "key": "november 2026 calendar pdf download",
+   "clicks": 2,
+   "impressions": 71,
+   "posW": 355,
+   "position": 5,
+   "ctr": 0.028169014084507043
+  },
+  {
+   "key": "2027 federal pay period calendar",
+   "clicks": 2,
+   "impressions": 70,
+   "posW": 490,
+   "position": 7,
+   "ctr": 0.02857142857142857
+  },
+  {
+   "key": "daylight saving end date 2026",
+   "clicks": 0,
+   "impressions": 66,
+   "posW": 462,
+   "position": 7,
+   "ctr": 0
+  },
+  {
+   "key": "starbucks holiday menu 2026 pdf",
+   "clicks": 4,
+   "impressions": 66,
+   "posW": 132,
+   "position": 2,
+   "ctr": 0.06060606060606061
+  },
+  {
+   "key": "brewers parade 2026 route",
+   "clicks": 4,
+   "impressions": 65,
+   "posW": 130,
+   "position": 2,
+   "ctr": 0.06153846153846154
+  },
+  {
+   "key": "social security increase 2027 chart",
+   "clicks": 3,
+   "impressions": 64,
+   "posW": 192,
+   "position": 3,
+   "ctr": 0.046875
+  },
+  {
+   "key": "american thanksgiving 2026",
+   "clicks": 0,
+   "impressions": 63,
+   "posW": 504,
+   "position": 8,
+   "ctr": 0
+  },
+  {
+   "key": "trick or treating 2026",
+   "clicks": 3,
+   "impressions": 63,
+   "posW": 252,
+   "position": 4,
+   "ctr": 0.047619047619047616
+  },
+  {
+   "key": "fall time change 2026 november",
+   "clicks": 2,
+   "impressions": 63,
+   "posW": 252,
+   "position": 4,
+   "ctr": 0.031746031746031744
+  },
+  {
+   "key": "when is the day of the dead 2026",
+   "clicks": 2,
+   "impressions": 63,
+   "posW": 126,
+   "position": 2,
+   "ctr": 0.031746031746031744
+  },
+  {
+   "key": "when is thanksgiving day 2026",
+   "clicks": 0,
+   "impressions": 62,
+   "posW": 496,
+   "position": 8,
+   "ctr": 0
+  },
+  {
+   "key": "veterans day free meals list 2026",
+   "clicks": 9,
+   "impressions": 58,
+   "posW": 174,
+   "position": 3,
+   "ctr": 0.15517241379310345
+  },
+  {
+   "key": "free meals for veterans 2026",
+   "clicks": 4,
+   "impressions": 55,
+   "posW": 275,
+   "position": 5,
+   "ctr": 0.07272727272727272
+  },
+  {
+   "key": "texas sample ballot 2026",
+   "clicks": 0,
+   "impressions": 54,
+   "posW": 378,
+   "position": 7,
+   "ctr": 0
+  },
+  {
+   "key": "on a higher level strands",
+   "clicks": 0,
+   "impressions": 54,
+   "posW": 432,
+   "position": 8,
+   "ctr": 0
+  },
+  {
+   "key": "day of the dead date",
+   "clicks": 0,
+   "impressions": 53,
+   "posW": 371,
+   "position": 7,
+   "ctr": 0
+  },
+  {
+   "key": "date of thanksgiving 2026",
+   "clicks": 0,
+   "impressions": 53,
+   "posW": 424,
+   "position": 8,
+   "ctr": 0
+  },
+  {
+   "key": "when do governors take office",
+   "clicks": 2,
+   "impressions": 52,
+   "posW": 208,
+   "position": 4,
+   "ctr": 0.038461538461538464
+  },
+  {
+   "key": "fall back date 2026",
+   "clicks": 0,
+   "impressions": 51,
+   "posW": 459,
+   "position": 9,
+   "ctr": 0
+  },
+  {
+   "key": "uk clock change october 2026",
+   "clicks": 0,
+   "impressions": 51,
+   "posW": 459,
+   "position": 9,
+   "ctr": 0
+  },
+  {
+   "key": "2026 ballon d'or start time",
+   "clicks": 3,
+   "impressions": 50,
+   "posW": 50,
+   "position": 1,
+   "ctr": 0.06
+  },
+  {
+   "key": "thanksgiving date 2026",
+   "clicks": 0,
+   "impressions": 49,
+   "posW": 441,
+   "position": 9,
+   "ctr": 0
+  },
+  {
+   "key": "when ballon d'or 2026",
+   "clicks": 2,
+   "impressions": 49,
+   "posW": 196,
+   "position": 4,
+   "ctr": 0.04081632653061224
+  },
+  {
+   "key": "site:freshcalendars.com",
+   "clicks": 3,
+   "impressions": 48,
+   "posW": 209,
+   "position": 4.354166666666667,
+   "ctr": 0.0625
+  },
+  {
+   "key": "what time is the ballon dor ceremony",
+   "clicks": 2,
+   "impressions": 48,
+   "posW": 144,
+   "position": 3,
+   "ctr": 0.041666666666666664
+  },
+  {
+   "key": "world diabetes day 2026 theme",
+   "clicks": 2,
+   "impressions": 48,
+   "posW": 288,
+   "position": 6,
+   "ctr": 0.041666666666666664
+  },
+  {
+   "key": "breeders cup 2026 post times",
+   "clicks": 2,
+   "impressions": 45,
+   "posW": 360,
+   "position": 8,
+   "ctr": 0.044444444444444446
+  },
+  {
+   "key": "when do clocks fall back 2026",
+   "clicks": 0,
+   "impressions": 44,
+   "posW": 396,
+   "position": 9,
+   "ctr": 0
+  },
+  {
+   "key": "what amendments passed in colorado",
+   "clicks": 4,
+   "impressions": 44,
+   "posW": 132,
+   "position": 3,
+   "ctr": 0.09090909090909091
+  },
+  {
+   "key": "brewers parade shuttle",
+   "clicks": 6,
+   "impressions": 43,
+   "posW": 86,
+   "position": 2,
+   "ctr": 0.13953488372093023
+  },
+  {
+   "key": "milwaukee brewers parade time",
+   "clicks": 2,
+   "impressions": 43,
+   "posW": 129,
+   "position": 3,
+   "ctr": 0.046511627906976744
+  },
+  {
+   "key": "dea take back 2026",
+   "clicks": 0,
+   "impressions": 42,
+   "posW": 294,
+   "position": 7,
+   "ctr": 0
+  },
+  {
+   "key": "2026 thanksgiving date",
+   "clicks": 0,
+   "impressions": 41,
+   "posW": 369,
+   "position": 9,
+   "ctr": 0
+  },
+  {
+   "key": "uk time change 2026",
+   "clicks": 0,
+   "impressions": 41,
+   "posW": 246,
+   "position": 6,
+   "ctr": 0
+  },
+  {
+   "key": "when does mcat registration open 2027",
+   "clicks": 0,
+   "impressions": 41,
+   "posW": 287,
+   "position": 7,
+   "ctr": 0
+  },
+  {
+   "key": "when is halloween this year 2026",
+   "clicks": 0,
+   "impressions": 40,
+   "posW": 240,
+   "position": 6,
+   "ctr": 0
+  },
+  {
+   "key": "when do the clocks go back 2026",
+   "clicks": 0,
+   "impressions": 40,
+   "posW": 400,
+   "position": 10,
+   "ctr": 0
+  },
+  {
+   "key": "what time does the ballon dor start",
+   "clicks": 4,
+   "impressions": 39,
+   "posW": 39,
+   "position": 1,
+   "ctr": 0.10256410256410256
+  },
+  {
+   "key": "veterans day free meals",
+   "clicks": 4,
+   "impressions": 39,
+   "posW": 195,
+   "position": 5,
+   "ctr": 0.10256410256410256
+  },
+  {
+   "key": "what date is halloween 2026",
+   "clicks": 0,
+   "impressions": 38,
+   "posW": 228,
+   "position": 6,
+   "ctr": 0
+  },
+  {
+   "key": "beaujolais nouveau 2026",
+   "clicks": 3,
+   "impressions": 38,
+   "posW": 228,
+   "position": 6,
+   "ctr": 0.07894736842105263
+  },
+  {
+   "key": "day of the dead 2026 dates",
+   "clicks": 2,
+   "impressions": 38,
+   "posW": 114,
+   "position": 3,
+   "ctr": 0.05263157894736842
+  },
+  {
+   "key": "tesco christmas delivery slots 2026 early access",
+   "clicks": 2,
+   "impressions": 38,
+   "posW": 152,
+   "position": 4,
+   "ctr": 0.05263157894736842
+  },
+  {
+   "key": "nov 1 2026",
+   "clicks": 3,
+   "impressions": 35,
+   "posW": 105,
+   "position": 3,
+   "ctr": 0.08571428571428572
+  },
+  {
+   "key": "trick or treat times 2026",
+   "clicks": 2,
+   "impressions": 34,
+   "posW": 272,
+   "position": 8,
+   "ctr": 0.058823529411764705
+  },
+  {
+   "key": "end of daylight savings 2026",
+   "clicks": 1,
+   "impressions": 33,
+   "posW": 231,
+   "position": 7,
+   "ctr": 0.030303030303030304
+  },
+  {
+   "key": "federal pay period calendar 2027",
+   "clicks": 2,
+   "impressions": 32,
+   "posW": 192,
+   "position": 6,
+   "ctr": 0.0625
+  },
+  {
+   "key": "brewers championship parade 2026",
+   "clicks": 4,
+   "impressions": 31,
+   "posW": 62,
+   "position": 2,
+   "ctr": 0.12903225806451613
+  },
+  {
+   "key": "week 9 pick em sheet 2026",
+   "clicks": 3,
+   "impressions": 30,
+   "posW": 150,
+   "position": 5,
+   "ctr": 0.1
+  },
+  {
+   "key": "2026 veterans day free meals",
+   "clicks": 2,
+   "impressions": 30,
+   "posW": 240,
+   "position": 8,
+   "ctr": 0.06666666666666667
+  },
+  {
+   "key": "dia de los muertos 2026 date",
+   "clicks": 2,
+   "impressions": 28,
+   "posW": 56,
+   "position": 2,
+   "ctr": 0.07142857142857142
+  },
+  {
+   "key": "what day is christmas eve 2026",
+   "clicks": 0,
+   "impressions": 27,
+   "posW": 162,
+   "position": 6,
+   "ctr": 0
+  },
+  {
+   "key": "ramadan 2027 calendar",
+   "clicks": 1,
+   "impressions": 27,
+   "posW": 189,
+   "position": 7,
+   "ctr": 0.037037037037037035
+  },
+  {
+   "key": "dea take back day 2026",
+   "clicks": 1,
+   "impressions": 25,
+   "posW": 175,
+   "position": 7,
+   "ctr": 0.04
+  },
+  {
+   "key": "daylight saving time november 1 2026",
+   "clicks": 1,
+   "impressions": 25,
+   "posW": 25,
+   "position": 1,
+   "ctr": 0.04
+  },
+  {
+   "key": "ballon d'or 2026 timing",
+   "clicks": 4,
+   "impressions": 25,
+   "posW": 25,
+   "position": 1,
+   "ctr": 0.16
+  },
+  {
+   "key": "army navy game 2026 date",
+   "clicks": 2,
+   "impressions": 25,
+   "posW": 75,
+   "position": 3,
+   "ctr": 0.08
+  },
+  {
+   "key": "balloon d'or 2026 awards list pdf",
+   "clicks": 2,
+   "impressions": 24,
+   "posW": 24,
+   "position": 1,
+   "ctr": 0.08333333333333333
+  },
+  {
+   "key": "oct 22 2026",
+   "clicks": 1,
+   "impressions": 22,
+   "posW": 66,
+   "position": 3,
+   "ctr": 0.045454545454545456
+  },
+  {
+   "key": "home depot black friday sale 2026",
+   "clicks": 5,
+   "impressions": 22,
+   "posW": 66,
+   "position": 3,
+   "ctr": 0.22727272727272727
+  },
+  {
+   "key": "connections 5 november 2026",
+   "clicks": 2,
+   "impressions": 22,
+   "posW": 66,
+   "position": 3,
+   "ctr": 0.09090909090909091
+  },
+  {
+   "key": "what day is trick or treating 2026",
+   "clicks": 3,
+   "impressions": 21,
+   "posW": 70,
+   "position": 3.3333333333333335,
+   "ctr": 0.14285714285714285
+  },
+  {
+   "key": "christmas eve 2026 date",
+   "clicks": 1,
+   "impressions": 20,
+   "posW": 154,
+   "position": 7.7,
+   "ctr": 0.05
+  },
+  {
+   "key": "social security payment schedule 2026 calendar printable",
+   "clicks": 2,
+   "impressions": 20,
+   "posW": 100,
+   "position": 5,
+   "ctr": 0.1
+  },
+  {
+   "key": "shuttle to brewers parade",
+   "clicks": 4,
+   "impressions": 18,
+   "posW": 72,
+   "position": 4,
+   "ctr": 0.2222222222222222
+  },
+  {
+   "key": "ballondor 2026 timing",
+   "clicks": 2,
+   "impressions": 18,
+   "posW": 36,
+   "position": 2,
+   "ctr": 0.1111111111111111
+  },
+  {
+   "key": "trick or treat 2026 dates",
+   "clicks": 3,
+   "impressions": 18,
+   "posW": 36,
+   "position": 2,
+   "ctr": 0.16666666666666666
+  },
+  {
+   "key": "federal pay calendar 2027",
+   "clicks": 2,
+   "impressions": 18,
+   "posW": 126,
+   "position": 7,
+   "ctr": 0.1111111111111111
+  },
+  {
+   "key": "nfl week 9 pick sheet 2026",
+   "clicks": 2,
+   "impressions": 18,
+   "posW": 108,
+   "position": 6,
+   "ctr": 0.1111111111111111
+  },
+  {
+   "key": "when do the new governors take office",
+   "clicks": 2,
+   "impressions": 18,
+   "posW": 36,
+   "position": 2,
+   "ctr": 0.1111111111111111
+  },
+  {
+   "key": "tesco christmas delivery slots 2026 booking dates",
+   "clicks": 2,
+   "impressions": 18,
+   "posW": 54,
+   "position": 3,
+   "ctr": 0.1111111111111111
+  },
+  {
+   "key": "is costco open on veterans day",
+   "clicks": 2,
+   "impressions": 17,
+   "posW": 68,
+   "position": 4,
+   "ctr": 0.11764705882352941
+  },
+  {
+   "key": "día de los muertos 2026",
+   "clicks": 1,
+   "impressions": 16,
+   "posW": 32,
+   "position": 2,
+   "ctr": 0.0625
+  },
+  {
+   "key": "ballon d'or 2026 hour",
+   "clicks": 6,
+   "impressions": 16,
+   "posW": 16,
+   "position": 1,
+   "ctr": 0.375
+  },
+  {
+   "key": "nfl 2026 2027 schedule printable",
+   "clicks": 3,
+   "impressions": 16,
+   "posW": 64,
+   "position": 4,
+   "ctr": 0.1875
+  },
+  {
+   "key": "printable sample ballot by zip code",
+   "clicks": 3,
+   "impressions": 15,
+   "posW": 75,
+   "position": 5,
+   "ctr": 0.2
+  },
+  {
+   "key": "dia de muertos 2026",
+   "clicks": 2,
+   "impressions": 15,
+   "posW": 45,
+   "position": 3,
+   "ctr": 0.13333333333333333
+  },
+  {
+   "key": "daylight savings 2026 nov 1",
+   "clicks": 2,
+   "impressions": 14,
+   "posW": 14,
+   "position": 1,
+   "ctr": 0.14285714285714285
+  },
+  {
+   "key": "spelling bee 11/4/26",
+   "clicks": 2,
+   "impressions": 14,
+   "posW": 56,
+   "position": 4,
+   "ctr": 0.14285714285714285
+  },
+  {
+   "key": "royal winter fair 2026 hours",
+   "clicks": 2,
+   "impressions": 14,
+   "posW": 42,
+   "position": 3,
+   "ctr": 0.14285714285714285
+  },
+  {
+   "key": "brewers parade shuttles",
+   "clicks": 2,
+   "impressions": 13,
+   "posW": 52,
+   "position": 4,
+   "ctr": 0.15384615384615385
+  },
+  {
+   "key": "guy fawkes night 2026",
+   "clicks": 2,
+   "impressions": 13,
+   "posW": 104,
+   "position": 8,
+   "ctr": 0.15384615384615385
+  },
+  {
+   "key": "voting sample ballot by zip code printable",
+   "clicks": 4,
+   "impressions": 12,
+   "posW": 36,
+   "position": 3,
+   "ctr": 0.3333333333333333
+  },
+  {
+   "key": "chicago public school calendar 2026 2027",
+   "clicks": 1,
+   "impressions": 12,
+   "posW": 36,
+   "position": 3,
+   "ctr": 0.08333333333333333
+  },
+  {
+   "key": "nfl schedule 2026 printable free",
+   "clicks": 2,
+   "impressions": 12,
+   "posW": 72,
+   "position": 6,
+   "ctr": 0.16666666666666666
+  },
+  {
+   "key": "free meals on veterans day",
+   "clicks": 2,
+   "impressions": 12,
+   "posW": 60,
+   "position": 5,
+   "ctr": 0.16666666666666666
+  },
+  {
+   "key": "dade county school calendar 2026-27",
+   "clicks": 2,
+   "impressions": 12,
+   "posW": 36,
+   "position": 3,
+   "ctr": 0.16666666666666666
+  },
+  {
+   "key": "november gratitude calendar",
+   "clicks": 2,
+   "impressions": 12,
+   "posW": 24,
+   "position": 2,
+   "ctr": 0.16666666666666666
+  },
+  {
+   "key": "social security payment schedule 2026 pdf",
+   "clicks": 1,
+   "impressions": 11,
+   "posW": 55,
+   "position": 5,
+   "ctr": 0.09090909090909091
+  },
+  {
+   "key": "daylight savings nov 2026",
+   "clicks": 1,
+   "impressions": 11,
+   "posW": 33,
+   "position": 3,
+   "ctr": 0.09090909090909091
+  },
+  {
+   "key": "shuttles to brewers parade",
+   "clicks": 4,
+   "impressions": 11,
+   "posW": 33,
+   "position": 3,
+   "ctr": 0.36363636363636365
+  },
+  {
+   "key": "ssi payment calendar 2027 printable",
+   "clicks": 2,
+   "impressions": 11,
+   "posW": 22,
+   "position": 2,
+   "ctr": 0.18181818181818182
+  },
+  {
+   "key": "st georges day 2027",
+   "clicks": 0,
+   "impressions": 10,
+   "posW": 90,
+   "position": 9,
+   "ctr": 0
+  },
+  {
+   "key": "site:freshcalendars.com news",
+   "clicks": 2,
+   "impressions": 10,
+   "posW": 60,
+   "position": 6,
+   "ctr": 0.2
+  },
+  {
+   "key": "movember 2026 theme",
+   "clicks": 2,
+   "impressions": 10,
+   "posW": 50,
+   "position": 5,
+   "ctr": 0.2
+  },
+  {
+   "key": "november 1, 2026",
+   "clicks": 1,
+   "impressions": 8,
+   "posW": 16,
+   "position": 2,
+   "ctr": 0.125
+  },
+  {
+   "key": "acknowledgement to violence against women day",
+   "clicks": 3,
+   "impressions": 8,
+   "posW": 16,
+   "position": 2,
+   "ctr": 0.375
+  },
+  {
+   "key": "new year eve 2026",
+   "clicks": 0,
+   "impressions": 7,
+   "posW": 21,
+   "position": 3,
+   "ctr": 0
+  },
+  {
+   "key": "printable texas sample ballot 2026",
+   "clicks": 2,
+   "impressions": 6,
+   "posW": 30,
+   "position": 5,
+   "ctr": 0.3333333333333333
+  },
+  {
+   "key": "daylight savings 2026 november",
+   "clicks": 2,
+   "impressions": 6,
+   "posW": 6,
+   "position": 1,
+   "ctr": 0.3333333333333333
+  },
+  {
+   "key": "st george's day 2027",
+   "clicks": 0,
+   "impressions": 5,
+   "posW": 45,
+   "position": 9,
+   "ctr": 0
+  },
+  {
+   "key": "freshcalenders",
+   "clicks": 1,
+   "impressions": 4,
+   "posW": 12,
+   "position": 3,
+   "ctr": 0.25
+  },
+  {
+   "key": "cyber monday 2026",
+   "clicks": 0,
+   "impressions": 4,
+   "posW": 36,
+   "position": 9,
+   "ctr": 0
+  },
+  {
+   "key": "october 2026 calendar monday start",
+   "clicks": 0,
+   "impressions": 4,
+   "posW": 32,
+   "position": 8,
+   "ctr": 0
+  },
+  {
+   "key": "dios de la muerte 2026",
+   "clicks": 3,
+   "impressions": 4,
+   "posW": 12,
+   "position": 3,
+   "ctr": 0.75
+  },
+  {
+   "key": "sample ballot by address 2026",
+   "clicks": 4,
+   "impressions": 3,
+   "posW": 24,
+   "position": 8,
+   "ctr": 1.3333333333333333
+  },
+  {
+   "key": "columbus day 2026",
+   "clicks": 0,
+   "impressions": 2,
+   "posW": 8,
+   "position": 4,
+   "ctr": 0
+  },
+  {
+   "key": "monthly calendar starting on monday",
+   "clicks": 0,
+   "impressions": 2,
+   "posW": 10,
+   "position": 5,
+   "ctr": 0
+  },
+  {
+   "key": "new years eve 2026",
+   "clicks": 0,
+   "impressions": 2,
+   "posW": 20,
+   "position": 10,
+   "ctr": 0
+  },
+  {
+   "key": "what day is new years eve 2026",
+   "clicks": 0,
+   "impressions": 2,
+   "posW": 16,
+   "position": 8,
+   "ctr": 0
+  },
+  {
+   "key": "labour day 2027",
+   "clicks": 0,
+   "impressions": 2,
+   "posW": 20,
+   "position": 10,
+   "ctr": 0
+  },
+  {
+   "key": "what date is christmas eve 2026",
+   "clicks": 0,
+   "impressions": 2,
+   "posW": 8,
+   "position": 4,
+   "ctr": 0
+  },
+  {
+   "key": "2027 calendar april monday start of month",
+   "clicks": 0,
+   "impressions": 2,
+   "posW": 14,
+   "position": 7,
+   "ctr": 0
+  },
+  {
+   "key": "december to february calendar starting with mondays",
+   "clicks": 0,
+   "impressions": 2,
+   "posW": 18,
+   "position": 9,
+   "ctr": 0
+  },
+  {
+   "key": "what day of the week is new years eve 2026",
+   "clicks": 0,
+   "impressions": 2,
+   "posW": 8,
+   "position": 4,
+   "ctr": 0
+  },
+  {
+   "key": "october holidays 2026 pdf",
+   "clicks": 0,
+   "impressions": 2,
+   "posW": 4,
+   "position": 2,
+   "ctr": 0
+  },
+  {
+   "key": "when is halloween 2026 calendar date and time chart pdf",
+   "clicks": 0,
+   "impressions": 2,
+   "posW": 16,
+   "position": 8,
+   "ctr": 0
+  },
+  {
+   "key": "2026 october black and white calndar",
+   "clicks": 0,
+   "impressions": 2,
+   "posW": 8,
+   "position": 4,
+   "ctr": 0
+  },
+  {
+   "key": "blossom solver oct 21  2026",
+   "clicks": 2,
+   "impressions": 2,
+   "posW": 4,
+   "position": 2,
+   "ctr": 1
+  },
+  {
+   "key": "i need a start on monday calendar that has the month on the top half of the page and lines below it",
+   "clicks": 1,
+   "impressions": 2,
+   "posW": 4,
+   "position": 2,
+   "ctr": 0.5
+  },
+  {
+   "key": "daylight savings 2026 november 1st",
+   "clicks": 1,
+   "impressions": 2,
+   "posW": 4,
+   "position": 2,
+   "ctr": 0.5
+  },
+  {
+   "key": "time change in october 2026 calendar",
+   "clicks": 1,
+   "impressions": 2,
+   "posW": 14,
+   "position": 7,
+   "ctr": 0.5
+  },
+  {
+   "key": "time change november 1, 2026",
+   "clicks": 1,
+   "impressions": 2,
+   "posW": 8,
+   "position": 4,
+   "ctr": 0.5
+  },
+  {
+   "key": "november 5, 2026 strands hints",
+   "clicks": 4,
+   "impressions": 2,
+   "posW": 8,
+   "position": 4,
+   "ctr": 2
+  },
+  {
+   "key": "diwali 2026 usa calendar pdf download",
+   "clicks": 3,
+   "impressions": 2,
+   "posW": 6,
+   "position": 3,
+   "ctr": 1.5
+  },
+  {
+   "key": "nations championship rugby 2026 kick off times",
+   "clicks": 2,
+   "impressions": 2,
+   "posW": 4,
+   "position": 2,
+   "ctr": 1
+  },
+  {
+   "key": "printable calendar starting with mondays",
+   "clicks": 1,
+   "impressions": 1,
+   "posW": 10,
+   "position": 10,
+   "ctr": 1
+  },
+  {
+   "key": "12/31/26 is happy new year 2027 or 2026",
+   "clicks": 1,
+   "impressions": 1,
+   "posW": 5,
+   "position": 5,
+   "ctr": 1
+  },
+  {
+   "key": "free template monthly calendar 12 tab classic iso monday start",
+   "clicks": 1,
+   "impressions": 1,
+   "posW": 5,
+   "position": 5,
+   "ctr": 1
+  },
+  {
+   "key": "october black and whitwe calendar free print 2026",
+   "clicks": 1,
+   "impressions": 1,
+   "posW": 1,
+   "position": 1,
+   "ctr": 1
+  },
+  {
+   "key": "halloween 2026",
+   "clicks": 0,
+   "impressions": 1,
+   "posW": 10,
+   "position": 10,
+   "ctr": 0
+  },
+  {
+   "key": "when is new year's eve 2026",
+   "clicks": 0,
+   "impressions": 1,
+   "posW": 9,
+   "position": 9,
+   "ctr": 0
+  },
+  {
+   "key": "what day is new year's eve 2026",
+   "clicks": 0,
+   "impressions": 1,
+   "posW": 5,
+   "position": 5,
+   "ctr": 0
+  },
+  {
+   "key": "start monthly",
+   "clicks": 0,
+   "impressions": 1,
+   "posW": 9,
+   "position": 9,
+   "ctr": 0
+  },
+  {
+   "key": "october 2026 calendar black",
+   "clicks": 0,
+   "impressions": 1,
+   "posW": 9,
+   "position": 9,
+   "ctr": 0
+  },
+  {
+   "key": "printable fun november 2026 calendar, landscape",
+   "clicks": 0,
+   "impressions": 1,
+   "posW": 8,
+   "position": 8,
+   "ctr": 0
+  },
+  {
+   "key": "when was the last time boxing day landed on a saturday",
+   "clicks": 0,
+   "impressions": 1,
+   "posW": 10,
+   "position": 10,
+   "ctr": 0
+  },
+  {
+   "key": "date halloween 2026 calendar printable",
+   "clicks": 0,
+   "impressions": 1,
+   "posW": 10,
+   "position": 10,
+   "ctr": 0
+  },
+  {
+   "key": "what hoilday is in march 2027",
+   "clicks": 0,
+   "impressions": 1,
+   "posW": 7,
+   "position": 7,
+   "ctr": 0
+  },
+  {
+   "key": "monday, september 6, 2027",
+   "clicks": 0,
+   "impressions": 1,
+   "posW": 5,
+   "position": 5,
+   "ctr": 0
+  },
+  {
+   "key": "when is the labor day weekend in september 2027 date",
+   "clicks": 0,
+   "impressions": 1,
+   "posW": 5,
+   "position": 5,
+   "ctr": 0
+  },
+  {
+   "key": "octtober 2026 first monday publication",
+   "clicks": 0,
+   "impressions": 1,
+   "posW": 10,
+   "position": 10,
+   "ctr": 0
+  },
+  {
+   "key": "monthly calendar starting monday",
+   "clicks": 0,
+   "impressions": 1,
+   "posW": 3,
+   "position": 3,
+   "ctr": 0
+  },
+  {
+   "key": "calendar printing paper size bleed margins accessibility pdf",
+   "clicks": 0,
+   "impressions": 1,
+   "posW": 7,
+   "position": 7,
+   "ctr": 0
+  },
+  {
+   "key": "october 2026 start monday",
+   "clicks": 0,
+   "impressions": 1,
+   "posW": 9,
+   "position": 9,
+   "ctr": 0
+  },
+  {
+   "key": "jan 2027 monday start date",
+   "clicks": 0,
+   "impressions": 1,
+   "posW": 5,
+   "position": 5,
+   "ctr": 0
+  },
+  {
+   "key": "new year eve day 2026",
+   "clicks": 0,
+   "impressions": 1,
+   "posW": 7,
+   "position": 7,
+   "ctr": 0
+  },
+  {
+   "key": "empty reuse about monthy calander",
+   "clicks": 0,
+   "impressions": 1,
+   "posW": 9,
+   "position": 9,
+   "ctr": 0
+  },
+  {
+   "key": "monthly calendar 2026 october start monday",
+   "clicks": 0,
+   "impressions": 1,
+   "posW": 7,
+   "position": 7,
+   "ctr": 0
+  },
+  {
+   "key": "boxing day in canada vs usa in 2026 is same day?",
+   "clicks": 0,
+   "impressions": 1,
+   "posW": 4,
+   "position": 4,
+   "ctr": 0
+  },
+  {
+   "key": "what date a christmas eve 2026",
+   "clicks": 0,
+   "impressions": 1,
+   "posW": 10,
+   "position": 10,
+   "ctr": 0
+  },
+  {
+   "key": "labour day sept 2027",
+   "clicks": 0,
+   "impressions": 1,
+   "posW": 10,
+   "position": 10,
+   "ctr": 0
+  },
+  {
+   "key": "2026 holiday boxing day",
+   "clicks": 0,
+   "impressions": 1,
+   "posW": 9,
+   "position": 9,
+   "ctr": 0
+  },
+  {
+   "key": "october 2026 us holidays columbus day halloween",
+   "clicks": 0,
+   "impressions": 1,
+   "posW": 2,
+   "position": 2,
+   "ctr": 0
+  },
+  {
+   "key": "blank fouthday",
+   "clicks": 0,
+   "impressions": 1,
+   "posW": 7,
+   "position": 7,
+   "ctr": 0
+  },
+  {
+   "key": "2023-2026 monthys",
+   "clicks": 0,
+   "impressions": 1,
+   "posW": 8,
+   "position": 8,
+   "ctr": 0
+  },
+  {
+   "key": "boxing day – saturday, december 26, 2026?",
+   "clicks": 0,
+   "impressions": 1,
+   "posW": 8,
+   "position": 8,
+   "ctr": 0
+  },
+  {
+   "key": "december.   christmas.  eve.      2026.",
+   "clicks": 0,
+   "impressions": 1,
+   "posW": 5,
+   "position": 5,
+   "ctr": 0
+  },
+  {
+   "key": "calendar october 2026 starting monday",
+   "clicks": 0,
+   "impressions": 1,
+   "posW": 10,
+   "position": 10,
+   "ctr": 0
+  },
+  {
+   "key": "holidays from march 2027",
+   "clicks": 0,
+   "impressions": 1,
+   "posW": 10,
+   "position": 10,
+   "ctr": 0
+  },
+  {
+   "key": "november weekly reminder landscape calendar 2026",
+   "clicks": 2,
+   "impressions": 1,
+   "posW": 3,
+   "position": 3,
+   "ctr": 2
+  },
+  {
+   "key": "time change timing for 25 oct uk",
+   "clicks": 1,
+   "impressions": 1,
+   "posW": 4,
+   "position": 4,
+   "ctr": 1
+  },
+  {
+   "key": "month calendar  october  2026  black . white",
+   "clicks": 1,
+   "impressions": 1,
+   "posW": 2,
+   "position": 2,
+   "ctr": 1
+  },
+  {
+   "key": "when will it get the sunlight on the 1st of november 2026 time back",
+   "clicks": 1,
+   "impressions": 1,
+   "posW": 1,
+   "position": 1,
+   "ctr": 1
+  },
+  {
+   "key": "dec 11 government shutdown",
+   "clicks": 1,
+   "impressions": 1,
+   "posW": 6,
+   "position": 6,
+   "ctr": 1
+  },
+  {
+   "key": "clock go back one 1  hour beb",
+   "clicks": 1,
+   "impressions": 1,
+   "posW": 4,
+   "position": 4,
+   "ctr": 1
+  },
+  {
+   "key": "time difference between uk and netherlands 25 october 2026",
+   "clicks": 1,
+   "impressions": 1,
+   "posW": 4,
+   "position": 4,
+   "ctr": 1
+  },
+  {
+   "key": "what will the et time be next sunday when the clocks go back in the uk?",
+   "clicks": 1,
+   "impressions": 1,
+   "posW": 1,
+   "position": 1,
+   "ctr": 1
+  }
+ ],
+ "pages": [
+  {
+   "key": "https://freshcalendars.com/news/ballon-dor-2026-date-time-by-time-zone-nominees-london/",
+   "clicks": 579,
+   "impressions": 38712,
+   "posW": 154848,
+   "position": 4,
+   "ctr": 0.01495660260384377
+  },
+  {
+   "key": "https://freshcalendars.com/news/daylight-saving-time-ends-november-1-2026/",
+   "clicks": 219,
+   "impressions": 20692,
+   "posW": 124152,
+   "position": 6,
+   "ctr": 0.010583800502609705
+  },
+  {
+   "key": "https://freshcalendars.com/news/halloween-2026-what-day-trick-or-treating-start/",
+   "clicks": 81,
+   "impressions": 14705,
+   "posW": 88230,
+   "position": 6,
+   "ctr": 0.0055083304998299895
+  },
+  {
+   "key": "https://freshcalendars.com/news/day-of-the-dead-2026-dia-de-los-muertos-dates/",
+   "clicks": 302,
+   "impressions": 12392,
+   "posW": 34058,
+   "position": 2.74838605551969,
+   "ctr": 0.02437056165267915
+  },
+  {
+   "key": "https://freshcalendars.com/news/why-thanksgiving-2026-is-november-26/",
+   "clicks": 5,
+   "impressions": 9967,
+   "posW": 79736,
+   "position": 8,
+   "ctr": 0.0005016554630279924
+  },
+  {
+   "key": "https://freshcalendars.com/news/brewers-world-series-parade-2026-friday-october-30-time-route-rally/",
+   "clicks": 265,
+   "impressions": 9191,
+   "posW": 45955,
+   "position": 5,
+   "ctr": 0.02883255358502883
+  },
+  {
+   "key": "https://freshcalendars.com/news/uk-europe-clocks-go-back-october-25-2026-time-difference/",
+   "clicks": 28,
+   "impressions": 6675,
+   "posW": 46725,
+   "position": 7,
+   "ctr": 0.004194756554307116
+  },
+  {
+   "key": "https://freshcalendars.com/news/printable-nfl-schedule-2026-2027-pdf/",
+   "clicks": 37,
+   "impressions": 1992,
+   "posW": 13944,
+   "position": 7,
+   "ctr": 0.01857429718875502
+  },
+  {
+   "key": "https://freshcalendars.com/news/national-black-cat-day-2026-october-27/",
+   "clicks": 11,
+   "impressions": 1984,
+   "posW": 9920,
+   "position": 5,
+   "ctr": 0.005544354838709678
+  },
+  {
+   "key": "https://freshcalendars.com/news/sample-ballot-by-zip-code-2026-texas-ballot/",
+   "clicks": 108,
+   "impressions": 1772,
+   "posW": 11955,
+   "position": 6.746613995485327,
+   "ctr": 0.060948081264108354
+  },
+  {
+   "key": "https://freshcalendars.com/news/halloween-2026-saturday-sunset-trick-or-treat-times/",
+   "clicks": 4,
+   "impressions": 1422,
+   "posW": 9954,
+   "position": 7,
+   "ctr": 0.0028129395218002813
+  },
+  {
+   "key": "https://freshcalendars.com/news/downloads/breeders-cup-2026/breeders-cup-2026-schedule.pdf",
+   "clicks": 39,
+   "impressions": 1412,
+   "posW": 7060,
+   "position": 5,
+   "ctr": 0.02762039660056657
+  },
+  {
+   "key": "https://freshcalendars.com/news/downloads/chicago-public-schools-2026-27/cps-calendar-2026-27.pdf",
+   "clicks": 24,
+   "impressions": 1265,
+   "posW": 6087,
+   "position": 4.811857707509882,
+   "ctr": 0.018972332015810278
+  },
+  {
+   "key": "https://freshcalendars.com/news/sunset-times-after-daylight-saving-time-ends-2026/",
+   "clicks": 19,
+   "impressions": 1238,
+   "posW": 7428,
+   "position": 6,
+   "ctr": 0.015347334410339256
+  },
+  {
+   "key": "https://freshcalendars.com/news/ramadan-2027-calendar-dates-timetable/",
+   "clicks": 3,
+   "impressions": 1211,
+   "posW": 9688,
+   "position": 8,
+   "ctr": 0.002477291494632535
+  },
+  {
+   "key": "https://freshcalendars.com/news/dea-drug-take-back-day-october-24-2026-locations/",
+   "clicks": 18,
+   "impressions": 998,
+   "posW": 6986,
+   "position": 7,
+   "ctr": 0.018036072144288578
+  },
+  {
+   "key": "https://freshcalendars.com/news/from-season-5-release-date-mgm-plus-final-season/",
+   "clicks": 4,
+   "impressions": 815,
+   "posW": 4890,
+   "position": 6,
+   "ctr": 0.0049079754601227
+  },
+  {
+   "key": "https://freshcalendars.com/news/downloads/week-numbers-2027/week-number-calendar-2027.pdf",
+   "clicks": 7,
+   "impressions": 806,
+   "posW": 5703,
+   "position": 7.075682382133995,
+   "ctr": 0.008684863523573201
+  },
+  {
+   "key": "https://freshcalendars.com/news/movember-2026-dates-shave-day-60-km-move-challenge-tracker/",
+   "clicks": 11,
+   "impressions": 790,
+   "posW": 4740,
+   "position": 6,
+   "ctr": 0.013924050632911392
+  },
+  {
+   "key": "https://freshcalendars.com/news/sample-ballot-2026-by-state-official-lookup-links/",
+   "clicks": 17,
+   "impressions": 789,
+   "posW": 5523,
+   "position": 7,
+   "ctr": 0.021546261089987327
+  },
+  {
+   "key": "https://freshcalendars.com/news/mcat-2027-test-dates-registration-opens-october-20/",
+   "clicks": 0,
+   "impressions": 782,
+   "posW": 5474,
+   "position": 7,
+   "ctr": 0
+  },
+  {
+   "key": "https://freshcalendars.com/news/marine-corps-marathon-2026-start-times-road-closures-cutoffs/",
+   "clicks": 11,
+   "impressions": 782,
+   "posW": 5474,
+   "position": 7,
+   "ctr": 0.014066496163682864
+  },
+  {
+   "key": "https://freshcalendars.com/news/canada-clocks-fall-back-november-1-2026-which-provinces-no-time-change/",
+   "clicks": 7,
+   "impressions": 703,
+   "posW": 4921,
+   "position": 7,
+   "ctr": 0.00995732574679943
+  },
+  {
+   "key": "https://freshcalendars.com/news/october-22-2026-this-day-in-history-observances/",
+   "clicks": 6,
+   "impressions": 695,
+   "posW": 3475,
+   "position": 5,
+   "ctr": 0.008633093525179856
+  },
+  {
+   "key": "https://freshcalendars.com/news/bonfire-night-2026-thursday-november-5-fireworks-rules/",
+   "clicks": 2,
+   "impressions": 641,
+   "posW": 3846,
+   "position": 6,
+   "ctr": 0.0031201248049922
+  },
+  {
+   "key": "https://freshcalendars.com/news/national-first-responders-day-2026-october-28/",
+   "clicks": 2,
+   "impressions": 608,
+   "posW": 3648,
+   "position": 6,
+   "ctr": 0.003289473684210526
+  },
+  {
+   "key": "https://freshcalendars.com/news/downloads/social-security-2027/social-security-payment-calendar-2027.pdf",
+   "clicks": 28,
+   "impressions": 594,
+   "posW": 3206,
+   "position": 5.397306397306397,
+   "ctr": 0.04713804713804714
+  },
+  {
+   "key": "https://freshcalendars.com/news/veterans-day-free-meals-discounts/",
+   "clicks": 42,
+   "impressions": 580,
+   "posW": 4116,
+   "position": 7.096551724137931,
+   "ctr": 0.07241379310344828
+  },
+  {
+   "key": "https://freshcalendars.com/news/november-2026-calendar-printable/",
+   "clicks": 4,
+   "impressions": 572,
+   "posW": 4576,
+   "position": 8,
+   "ctr": 0.006993006993006993
+  },
+  {
+   "key": "https://freshcalendars.com/when-is/new-years-eve",
+   "clicks": 5,
+   "impressions": 547,
+   "posW": 3040,
+   "position": 5.557586837294333,
+   "ctr": 0.009140767824497258
+  },
+  {
+   "key": "https://freshcalendars.com/news/uk-bank-holidays-2027-dates-england-scotland-northern-ireland/",
+   "clicks": 1,
+   "impressions": 527,
+   "posW": 4743,
+   "position": 9,
+   "ctr": 0.0018975332068311196
+  },
+  {
+   "key": "https://freshcalendars.com/news/downloads/social-security-2026/social-security-payment-calendar-oct-dec-2026.pdf",
+   "clicks": 24,
+   "impressions": 523,
+   "posW": 2687,
+   "position": 5.137667304015296,
+   "ctr": 0.045889101338432124
+  },
+  {
+   "key": "https://freshcalendars.com/news/starbucks-holiday-menu-2026-red-cup-day-date/",
+   "clicks": 6,
+   "impressions": 496,
+   "posW": 3472,
+   "position": 7,
+   "ctr": 0.012096774193548387
+  },
+  {
+   "key": "https://freshcalendars.com/news/costco-holiday-hours-closures-2026-2027/",
+   "clicks": 5,
+   "impressions": 466,
+   "posW": 2330,
+   "position": 5,
+   "ctr": 0.01072961373390558
+  },
+  {
+   "key": "https://freshcalendars.com/news/when-will-we-know-election-results-2026-midterms/",
+   "clicks": 46,
+   "impressions": 459,
+   "posW": 1836,
+   "position": 4,
+   "ctr": 0.10021786492374728
+  },
+  {
+   "key": "https://freshcalendars.com/news/downloads/miami-dade-schools-2026-27/miami-dade-school-calendar-2026-27.pdf",
+   "clicks": 2,
+   "impressions": 421,
+   "posW": 2526,
+   "position": 6,
+   "ctr": 0.004750593824228029
+  },
+  {
+   "key": "https://freshcalendars.com/news/downloads/lunar-new-year-2027/lunar-new-year-2027-calendar.pdf",
+   "clicks": 10,
+   "impressions": 418,
+   "posW": 2856,
+   "position": 6.832535885167464,
+   "ctr": 0.023923444976076555
+  },
+  {
+   "key": "https://freshcalendars.com/news/mole-day-2026-october-23-6-02/",
+   "clicks": 18,
+   "impressions": 411,
+   "posW": 1974,
+   "position": 4.802919708029197,
+   "ctr": 0.043795620437956206
+  },
+  {
+   "key": "https://freshcalendars.com/news/nyc-marathon-2026-start-times-road-closures-where-to-watch/",
+   "clicks": 2,
+   "impressions": 406,
+   "posW": 2842,
+   "position": 7,
+   "ctr": 0.0049261083743842365
+  },
+  {
+   "key": "https://freshcalendars.com/news/fomc-meeting-dates-2027-fed-schedule-december-2026/",
+   "clicks": 3,
+   "impressions": 389,
+   "posW": 2723,
+   "position": 7,
+   "ctr": 0.007712082262210797
+  },
+  {
+   "key": "https://freshcalendars.com/news/downloads/social-security-2027/social-security-increase-2027-chart.pdf",
+   "clicks": 23,
+   "impressions": 370,
+   "posW": 1425,
+   "position": 3.8513513513513513,
+   "ctr": 0.062162162162162166
+  },
+  {
+   "key": "https://freshcalendars.com/news/downloads/nfl-2026-2027/printable-nfl-schedule-2026-2027.pdf",
+   "clicks": 9,
+   "impressions": 369,
+   "posW": 2583,
+   "position": 7,
+   "ctr": 0.024390243902439025
+  },
+  {
+   "key": "https://freshcalendars.com/news/nyt-connections-hints-answers-october-29-2026-1236/",
+   "clicks": 2,
+   "impressions": 369,
+   "posW": 2214,
+   "position": 6,
+   "ctr": 0.005420054200542005
+  },
+  {
+   "key": "https://freshcalendars.com/news/nevada-day-2026-friday-october-30-whats-closed-early-voting/",
+   "clicks": 4,
+   "impressions": 346,
+   "posW": 2422,
+   "position": 7,
+   "ctr": 0.011560693641618497
+  },
+  {
+   "key": "https://freshcalendars.com/news/california-propositions-2026-november-ballot-explained/",
+   "clicks": 7,
+   "impressions": 343,
+   "posW": 2401,
+   "position": 7,
+   "ctr": 0.02040816326530612
+  },
+  {
+   "key": "https://freshcalendars.com/news/downloads/king-tides-2026/king-tides-2026-27-california-dates-high-tide-times.pdf",
+   "clicks": 9,
+   "impressions": 342,
+   "posW": 1710,
+   "position": 5,
+   "ctr": 0.02631578947368421
+  },
+  {
+   "key": "https://freshcalendars.com/news/thanksgiving-football-schedule-2026-nfl-college-games/",
+   "clicks": 14,
+   "impressions": 332,
+   "posW": 1992,
+   "position": 6,
+   "ctr": 0.04216867469879518
+  },
+  {
+   "key": "https://freshcalendars.com/news/government-funding-deadline-december-11-2026-shutdown/",
+   "clicks": 17,
+   "impressions": 327,
+   "posW": 1771,
+   "position": 5.415902140672783,
+   "ctr": 0.05198776758409786
+  },
+  {
+   "key": "https://freshcalendars.com/news/is-christmas-eve-a-federal-holiday-2026/",
+   "clicks": 8,
+   "impressions": 322,
+   "posW": 1932,
+   "position": 6,
+   "ctr": 0.024844720496894408
+  },
+  {
+   "key": "https://freshcalendars.com/when-is/christmas-eve",
+   "clicks": 1,
+   "impressions": 307,
+   "posW": 2258,
+   "position": 7.355048859934853,
+   "ctr": 0.003257328990228013
+  },
+  {
+   "key": "https://freshcalendars.com/news/downloads/thanksgiving-2026/thanksgiving-football-schedule-2026.pdf",
+   "clicks": 8,
+   "impressions": 282,
+   "posW": 1692,
+   "position": 6,
+   "ctr": 0.028368794326241134
+  },
+  {
+   "key": "https://freshcalendars.com/news/tax-calendar-2027-irs-deadlines/",
+   "clicks": 0,
+   "impressions": 278,
+   "posW": 1668,
+   "position": 6,
+   "ctr": 0
+  },
+  {
+   "key": "https://freshcalendars.com/news/downloads/ballon-dor-2026/ballon-dor-2026-winners.pdf",
+   "clicks": 4,
+   "impressions": 274,
+   "posW": 548,
+   "position": 2,
+   "ctr": 0.014598540145985401
+  },
+  {
+   "key": "https://freshcalendars.com/news/thursday-night-football-tonight-panthers-packers-tnf-schedule-2026/",
+   "clicks": 6,
+   "impressions": 250,
+   "posW": 1750,
+   "position": 7,
+   "ctr": 0.024
+  },
+  {
+   "key": "https://freshcalendars.com/news/downloads/mlb-opening-day-2027/mlb-2027-baseball-calendar-dates.pdf",
+   "clicks": 3,
+   "impressions": 243,
+   "posW": 1215,
+   "position": 5,
+   "ctr": 0.012345679012345678
+  },
+  {
+   "key": "https://freshcalendars.com/news/nyt-connections-hints-answers-october-28-2026-1235/",
+   "clicks": 6,
+   "impressions": 241,
+   "posW": 1687,
+   "position": 7,
+   "ctr": 0.024896265560165973
+  },
+  {
+   "key": "https://freshcalendars.com/news/nyt-connections-hints-answers-october-27-2026-1234/",
+   "clicks": 1,
+   "impressions": 221,
+   "posW": 1547,
+   "position": 7,
+   "ctr": 0.004524886877828055
+  },
+  {
+   "key": "https://freshcalendars.com/news/november-2026-important-dates-days-until/",
+   "clicks": 2,
+   "impressions": 219,
+   "posW": 1533,
+   "position": 7,
+   "ctr": 0.0091324200913242
+  },
+  {
+   "key": "https://freshcalendars.com/news/downloads/nfl-2026-2027/2026-nfl-green-bay-packers-schedule.pdf",
+   "clicks": 2,
+   "impressions": 212,
+   "posW": 1484,
+   "position": 7,
+   "ctr": 0.009433962264150943
+  },
+  {
+   "key": "https://freshcalendars.com/news/diwali-2026-date-lakshmi-puja-time-usa/",
+   "clicks": 0,
+   "impressions": 204,
+   "posW": 1428,
+   "position": 7,
+   "ctr": 0
+  },
+  {
+   "key": "https://freshcalendars.com/news/downloads/oct24/world-series-2026-schedule-tracker-ink.pdf",
+   "clicks": 2,
+   "impressions": 201,
+   "posW": 1608,
+   "position": 8,
+   "ctr": 0.009950248756218905
+  },
+  {
+   "key": "https://freshcalendars.com/news/peak-ps5-price-crossplay-guide-2026/",
+   "clicks": 1,
+   "impressions": 195,
+   "posW": 1170,
+   "position": 6,
+   "ctr": 0.005128205128205128
+  },
+  {
+   "key": "https://freshcalendars.com/news/nyt-connections-hints-answers-october-21-2026-1228/",
+   "clicks": 0,
+   "impressions": 191,
+   "posW": 1337,
+   "position": 7,
+   "ctr": 0
+  },
+  {
+   "key": "https://freshcalendars.com/news/downloads/wcpss-2026-27/wcpss-no-school-days-2026-27.pdf",
+   "clicks": 2,
+   "impressions": 188,
+   "posW": 1128,
+   "position": 6,
+   "ctr": 0.010638297872340425
+  },
+  {
+   "key": "https://freshcalendars.com/news/mlb-offseason-2026-key-dates-free-agency-awards-cba/",
+   "clicks": 1,
+   "impressions": 182,
+   "posW": 1274,
+   "position": 7,
+   "ctr": 0.005494505494505495
+  },
+  {
+   "key": "https://freshcalendars.com/news/nyt-spelling-bee-hints-answers-october-29-2026/",
+   "clicks": 9,
+   "impressions": 170,
+   "posW": 1020,
+   "position": 6,
+   "ctr": 0.052941176470588235
+  },
+  {
+   "key": "https://freshcalendars.com/news/downloads/nfl-2026-2027/2026-nfl-dallas-cowboys-schedule.pdf",
+   "clicks": 3,
+   "impressions": 168,
+   "posW": 1176,
+   "position": 7,
+   "ctr": 0.017857142857142856
+  },
+  {
+   "key": "https://freshcalendars.com/news/lsat-test-dates-2026-27-registration-deadlines/",
+   "clicks": 1,
+   "impressions": 165,
+   "posW": 990,
+   "position": 6,
+   "ctr": 0.006060606060606061
+  },
+  {
+   "key": "https://freshcalendars.com/news/nyt-spelling-bee-hints-answers-october-28-2026/",
+   "clicks": 6,
+   "impressions": 158,
+   "posW": 948,
+   "position": 6,
+   "ctr": 0.0379746835443038
+  },
+  {
+   "key": "https://freshcalendars.com/news/downloads/election-2026/sample-ballot-lookup-by-state-2026.pdf",
+   "clicks": 4,
+   "impressions": 150,
+   "posW": 1010,
+   "position": 6.733333333333333,
+   "ctr": 0.02666666666666667
+  },
+  {
+   "key": "https://freshcalendars.com/news/federal-pay-period-calendar-2027-pay-dates-nfc-gsa-printable/",
+   "clicks": 4,
+   "impressions": 150,
+   "posW": 900,
+   "position": 6,
+   "ctr": 0.02666666666666667
+  },
+  {
+   "key": "https://freshcalendars.com/news/lifetime-christmas-movies-2026-schedule-its-a-wonderful-lifetime/",
+   "clicks": 2,
+   "impressions": 150,
+   "posW": 1050,
+   "position": 7,
+   "ctr": 0.013333333333333334
+  },
+  {
+   "key": "https://freshcalendars.com/news/hunger-games-sunrise-on-the-reaping-release-date-november-20-rewatch-countdown/",
+   "clicks": 1,
+   "impressions": 147,
+   "posW": 1029,
+   "position": 7,
+   "ctr": 0.006802721088435374
+  },
+  {
+   "key": "https://freshcalendars.com/news/downloads/nfl-2026-2027/2026-nfl-detroit-lions-schedule.pdf",
+   "clicks": 2,
+   "impressions": 145,
+   "posW": 1160,
+   "position": 8,
+   "ctr": 0.013793103448275862
+  },
+  {
+   "key": "https://freshcalendars.com/news/downloads/federal-pay-2027/federal-pay-period-calendar-2027-nfc.pdf",
+   "clicks": 2,
+   "impressions": 143,
+   "posW": 858,
+   "position": 6,
+   "ctr": 0.013986013986013986
+  },
+  {
+   "key": "https://freshcalendars.com/news/what-time-do-polls-close-election-day-2026/",
+   "clicks": 2,
+   "impressions": 140,
+   "posW": 980,
+   "position": 7,
+   "ctr": 0.014285714285714285
+  },
+  {
+   "key": "https://freshcalendars.com/news/downloads/halloween-2026/halloween-2026-trick-or-treat-times.pdf",
+   "clicks": 1,
+   "impressions": 135,
+   "posW": 690,
+   "position": 5.111111111111111,
+   "ctr": 0.007407407407407408
+  },
+  {
+   "key": "https://freshcalendars.com/news/nyt-spelling-bee-hints-answers-october-27-2026/",
+   "clicks": 2,
+   "impressions": 130,
+   "posW": 780,
+   "position": 6,
+   "ctr": 0.015384615384615385
+  },
+  {
+   "key": "https://freshcalendars.com/news/october-20-2026-what-day-holidays-observances/",
+   "clicks": 0,
+   "impressions": 129,
+   "posW": 903,
+   "position": 7,
+   "ctr": 0
+  },
+  {
+   "key": "https://freshcalendars.com/news/nhl-hometown-remix-jerseys-2026-27-unveil-date-game-schedule/",
+   "clicks": 1,
+   "impressions": 128,
+   "posW": 768,
+   "position": 6,
+   "ctr": 0.0078125
+  },
+  {
+   "key": "https://freshcalendars.com/news/nyt-strands-hints-answers-october-21-2026-962/",
+   "clicks": 1,
+   "impressions": 124,
+   "posW": 992,
+   "position": 8,
+   "ctr": 0.008064516129032258
+  },
+  {
+   "key": "https://freshcalendars.com/news/downloads/nfl-2026-2027/2026-nfl-cincinnati-bengals-schedule.pdf",
+   "clicks": 1,
+   "impressions": 123,
+   "posW": 984,
+   "position": 8,
+   "ctr": 0.008130081300813009
+  },
+  {
+   "key": "https://freshcalendars.com/news/texas-election-calendar-2026-early-voting-dates-deadlines/",
+   "clicks": 2,
+   "impressions": 108,
+   "posW": 806,
+   "position": 7.462962962962963,
+   "ctr": 0.018518518518518517
+  },
+  {
+   "key": "https://freshcalendars.com/news/army-navy-game-2026-date-kickoff-time-metlife-stadium-tv/",
+   "clicks": 4,
+   "impressions": 102,
+   "posW": 612,
+   "position": 6,
+   "ctr": 0.0392156862745098
+  },
+  {
+   "key": "https://freshcalendars.com/news/nyt-spelling-bee-hints-answers-october-25-2026/",
+   "clicks": 3,
+   "impressions": 99,
+   "posW": 594,
+   "position": 6,
+   "ctr": 0.030303030303030304
+  },
+  {
+   "key": "https://freshcalendars.com/news/nyt-strands-hints-answers-october-27-2026-968/",
+   "clicks": 2,
+   "impressions": 99,
+   "posW": 792,
+   "position": 8,
+   "ctr": 0.020202020202020204
+  },
+  {
+   "key": "https://freshcalendars.com/news/nyt-connections-hints-answers-october-20-2026-1227/",
+   "clicks": 0,
+   "impressions": 97,
+   "posW": 776,
+   "position": 8,
+   "ctr": 0
+  },
+  {
+   "key": "https://freshcalendars.com/news/sat-act-test-dates-2026-27-registration-deadlines/",
+   "clicks": 0,
+   "impressions": 90,
+   "posW": 720,
+   "position": 8,
+   "ctr": 0
+  },
+  {
+   "key": "https://freshcalendars.com/news/contexto-answer-hints-october-25-2026-1498/",
+   "clicks": 10,
+   "impressions": 86,
+   "posW": 344,
+   "position": 4,
+   "ctr": 0.11627906976744186
+  },
+  {
+   "key": "https://freshcalendars.com/news/contexto-answer-hints-october-28-2026-1501/",
+   "clicks": 6,
+   "impressions": 80,
+   "posW": 480,
+   "position": 6,
+   "ctr": 0.075
+  },
+  {
+   "key": "https://freshcalendars.com/news/nyt-pips-hints-answers-october-26-2026/",
+   "clicks": 5,
+   "impressions": 78,
+   "posW": 468,
+   "position": 6,
+   "ctr": 0.0641025641025641
+  },
+  {
+   "key": "https://freshcalendars.com/news/is-election-day-a-holiday-2026-whats-open/",
+   "clicks": 1,
+   "impressions": 76,
+   "posW": 456,
+   "position": 6,
+   "ctr": 0.013157894736842105
+  },
+  {
+   "key": "https://freshcalendars.com/news/downloads/mcat-2027/mcat-2027-test-dates.pdf",
+   "clicks": 0,
+   "impressions": 76,
+   "posW": 532,
+   "position": 7,
+   "ctr": 0
+  },
+  {
+   "key": "https://freshcalendars.com/news/contexto-answer-hints-october-29-2026-1502/",
+   "clicks": 3,
+   "impressions": 71,
+   "posW": 426,
+   "position": 6,
+   "ctr": 0.04225352112676056
+  },
+  {
+   "key": "https://freshcalendars.com/news/federal-holidays-2027-observed-dates-list/",
+   "clicks": 0,
+   "impressions": 70,
+   "posW": 560,
+   "position": 8,
+   "ctr": 0
+  },
+  {
+   "key": "https://freshcalendars.com/news/christmas-eve-christmas-day-2026-store-hours/",
+   "clicks": 2,
+   "impressions": 67,
+   "posW": 335,
+   "position": 5,
+   "ctr": 0.029850746268656716
+  },
+  {
+   "key": "https://freshcalendars.com/news/kwanzaa-2026-dates-seven-principles-calendar-printable/",
+   "clicks": 2,
+   "impressions": 67,
+   "posW": 469,
+   "position": 7,
+   "ctr": 0.029850746268656716
+  },
+  {
+   "key": "https://freshcalendars.com/news/world-series-2026-schedule-game-times-tv-channel/",
+   "clicks": 0,
+   "impressions": 63,
+   "posW": 504,
+   "position": 8,
+   "ctr": 0
+  },
+  {
+   "key": "https://freshcalendars.com/printable-monday-start-calendar.html",
+   "clicks": 2,
+   "impressions": 62,
+   "posW": 372,
+   "position": 6,
+   "ctr": 0.03225806451612903
+  },
+  {
+   "key": "https://freshcalendars.com/news/free-rides-to-the-polls-2026-lyft-uber-transit/",
+   "clicks": 11,
+   "impressions": 61,
+   "posW": 183,
+   "position": 3,
+   "ctr": 0.18032786885245902
+  },
+  {
+   "key": "https://freshcalendars.com/news/downloads/sunset-times-2026/sunset-times-after-clock-change-2026.pdf",
+   "clicks": 2,
+   "impressions": 60,
+   "posW": 420,
+   "position": 7,
+   "ctr": 0.03333333333333333
+  },
+  {
+   "key": "https://freshcalendars.com/news/downloads/nyc-public-schools-2026-27/nyc-public-schools-calendar-2026-27.pdf",
+   "clicks": 0,
+   "impressions": 59,
+   "posW": 295,
+   "position": 5,
+   "ctr": 0
+  },
+  {
+   "key": "https://freshcalendars.com/news/lego-advent-calendars-2026-prices-whats-inside/",
+   "clicks": 2,
+   "impressions": 57,
+   "posW": 342,
+   "position": 6,
+   "ctr": 0.03508771929824561
+  },
+  {
+   "key": "https://freshcalendars.com/news/quordle-hints-answers-october-27-2026-1737/",
+   "clicks": 5,
+   "impressions": 55,
+   "posW": 220,
+   "position": 4,
+   "ctr": 0.09090909090909091
+  },
+  {
+   "key": "https://freshcalendars.com/news/nyt-mini-crossword-answers-october-21-2026/",
+   "clicks": 1,
+   "impressions": 53,
+   "posW": 424,
+   "position": 8,
+   "ctr": 0.018867924528301886
+  },
+  {
+   "key": "https://freshcalendars.com/news/gta-6-october-22-2026-what-is-confirmed-release-countdown/",
+   "clicks": 1,
+   "impressions": 51,
+   "posW": 204,
+   "position": 4,
+   "ctr": 0.0196078431372549
+  },
+  {
+   "key": "https://freshcalendars.com/news/contexto-answer-hints-october-21-2026-1494/",
+   "clicks": 0,
+   "impressions": 50,
+   "posW": 400,
+   "position": 8,
+   "ctr": 0
+  },
+  {
+   "key": "https://freshcalendars.com/news/chicago-public-schools-calendar-2026-27-breaks/",
+   "clicks": 0,
+   "impressions": 49,
+   "posW": 392,
+   "position": 8,
+   "ctr": 0
+  },
+  {
+   "key": "https://freshcalendars.com/news/election-night-2026-tv-schedule-how-to-watch-results/",
+   "clicks": 2,
+   "impressions": 49,
+   "posW": 245,
+   "position": 5,
+   "ctr": 0.04081632653061224
+  },
+  {
+   "key": "https://freshcalendars.com/when-is/uk-st-georges-day/",
+   "clicks": 0,
+   "impressions": 48,
+   "posW": 432,
+   "position": 9,
+   "ctr": 0
+  },
+  {
+   "key": "https://freshcalendars.com/news/stock-market-holidays-2027-nyse-closed-dates/",
+   "clicks": 0,
+   "impressions": 48,
+   "posW": 384,
+   "position": 8,
+   "ctr": 0
+  },
+  {
+   "key": "https://freshcalendars.com/news/is-the-day-after-thanksgiving-a-state-holiday-2026-states-closed-november-27/",
+   "clicks": 2,
+   "impressions": 48,
+   "posW": 240,
+   "position": 5,
+   "ctr": 0.041666666666666664
+  },
+  {
+   "key": "https://freshcalendars.com/news/arizona-propositions-2026-ballot-explained/",
+   "clicks": 1,
+   "impressions": 44,
+   "posW": 352,
+   "position": 8,
+   "ctr": 0.022727272727272728
+  },
+  {
+   "key": "https://freshcalendars.com/news/black-friday-2026-store-hours-walmart-target-best-buy/",
+   "clicks": 1,
+   "impressions": 44,
+   "posW": 308,
+   "position": 7,
+   "ctr": 0.022727272727272728
+  },
+  {
+   "key": "https://freshcalendars.com/news/nyt-pips-hints-answers-october-28-2026/",
+   "clicks": 3,
+   "impressions": 36,
+   "posW": 216,
+   "position": 6,
+   "ctr": 0.08333333333333333
+  },
+  {
+   "key": "https://freshcalendars.com/news/downloads/rose-parade-2027/rose-parade-week-2027-schedule.pdf",
+   "clicks": 3,
+   "impressions": 35,
+   "posW": 140,
+   "position": 4,
+   "ctr": 0.08571428571428572
+  },
+  {
+   "key": "https://freshcalendars.com/news/new-on-disney-plus-november-2026-release-dates/",
+   "clicks": 3,
+   "impressions": 34,
+   "posW": 204,
+   "position": 6,
+   "ctr": 0.08823529411764706
+  },
+  {
+   "key": "https://freshcalendars.com/news/nyt-pips-hints-answers-october-27-2026/",
+   "clicks": 2,
+   "impressions": 33,
+   "posW": 198,
+   "position": 6,
+   "ctr": 0.06060606060606061
+  },
+  {
+   "key": "https://freshcalendars.com/news/iphone-duo-october-24-availability/",
+   "clicks": 2,
+   "impressions": 33,
+   "posW": 132,
+   "position": 4,
+   "ctr": 0.06060606060606061
+  },
+  {
+   "key": "https://freshcalendars.com/news/downloads/lunar-new-year-2027/chinese-lunar-calendar-2027.pdf",
+   "clicks": 3,
+   "impressions": 31,
+   "posW": 167,
+   "position": 5.387096774193548,
+   "ctr": 0.0967741935483871
+  },
+  {
+   "key": "https://freshcalendars.com/",
+   "clicks": 1,
+   "impressions": 28,
+   "posW": 196,
+   "position": 7,
+   "ctr": 0.03571428571428571
+  },
+  {
+   "key": "https://freshcalendars.com/news/nyt-connections-hints-answers-october-30-2026-1237/",
+   "clicks": 3,
+   "impressions": 26,
+   "posW": 130,
+   "position": 5,
+   "ctr": 0.11538461538461539
+  },
+  {
+   "key": "https://cdn.freshcalendars.com/assets/2026/monthly/october/monday-start/calendar.pdf",
+   "clicks": 0,
+   "impressions": 24,
+   "posW": 192,
+   "position": 8,
+   "ctr": 0
+  },
+  {
+   "key": "https://freshcalendars.com/news/hanukkah-2026-dates-calendar/",
+   "clicks": 0,
+   "impressions": 20,
+   "posW": 180,
+   "position": 9,
+   "ctr": 0
+  },
+  {
+   "key": "https://freshcalendars.com/news/nyt-spelling-bee-hints-answers-october-30-2026/",
+   "clicks": 5,
+   "impressions": 19,
+   "posW": 38,
+   "position": 2,
+   "ctr": 0.2631578947368421
+  },
+  {
+   "key": "https://freshcalendars.com/news/downloads/thanksgiving-2026/thanksgiving-2026-tv-schedule.pdf",
+   "clicks": 3,
+   "impressions": 14,
+   "posW": 70,
+   "position": 5,
+   "ctr": 0.21428571428571427
+  },
+  {
+   "key": "https://freshcalendars.com/news/downloads/moon-phases-2027/full-moon-calendar-2027.pdf",
+   "clicks": 2,
+   "impressions": 14,
+   "posW": 98,
+   "position": 7,
+   "ctr": 0.14285714285714285
+  },
+  {
+   "key": "https://freshcalendars.com/news/blossom-word-game-answers-october-21-2026/",
+   "clicks": 4,
+   "impressions": 12,
+   "posW": 48,
+   "position": 4,
+   "ctr": 0.3333333333333333
+  },
+  {
+   "key": "https://freshcalendars.com/news/orionid-meteor-shower-2026-peak-october-21-22/",
+   "clicks": 0,
+   "impressions": 12,
+   "posW": 84,
+   "position": 7,
+   "ctr": 0
+  },
+  {
+   "key": "https://freshcalendars.com/news/mail-ballot-deadlines-2026-by-state/",
+   "clicks": 0,
+   "impressions": 12,
+   "posW": 84,
+   "position": 7,
+   "ctr": 0
+  },
+  {
+   "key": "https://freshcalendars.com/news/broward-county-school-calendar-2026-27/",
+   "clicks": 0,
+   "impressions": 12,
+   "posW": 96,
+   "position": 8,
+   "ctr": 0
+  },
+  {
+   "key": "https://cdn.freshcalendars.com/assets/2026/monthly/october/classic-bw/calendar.pdf",
+   "clicks": 2,
+   "impressions": 11,
+   "posW": 41,
+   "position": 3.727272727272727,
+   "ctr": 0.18181818181818182
+  },
+  {
+   "key": "https://freshcalendars.com/when-is/ca-labour-day/",
+   "clicks": 0,
+   "impressions": 11,
+   "posW": 77,
+   "position": 7,
+   "ctr": 0
+  },
+  {
+   "key": "https://freshcalendars.com/news/2026-midterm-elections-whats-on-the-ballot-results-tracker/",
+   "clicks": 0,
+   "impressions": 11,
+   "posW": 88,
+   "position": 8,
+   "ctr": 0
+  },
+  {
+   "key": "https://freshcalendars.com/news/downloads/julian-date-calendar/2026/date-code-lookup-2026.pdf",
+   "clicks": 0,
+   "impressions": 11,
+   "posW": 77,
+   "position": 7,
+   "ctr": 0
+  },
+  {
+   "key": "https://freshcalendars.com/news/nyt-connections-sports-edition-hints-answers-october-26-2026-763/",
+   "clicks": 2,
+   "impressions": 11,
+   "posW": 44,
+   "position": 4,
+   "ctr": 0.18181818181818182
+  },
+  {
+   "key": "https://freshcalendars.com/when-is/ca-boxing-day/",
+   "clicks": 0,
+   "impressions": 10,
+   "posW": 80,
+   "position": 8,
+   "ctr": 0
+  },
+  {
+   "key": "https://freshcalendars.com/when-is/thanksgiving",
+   "clicks": 0,
+   "impressions": 8,
+   "posW": 64,
+   "position": 8,
+   "ctr": 0
+  },
+  {
+   "key": "https://cdn.freshcalendars.com/assets/2026/monthly/october/holidays/calendar.pdf",
+   "clicks": 0,
+   "impressions": 4,
+   "posW": 12,
+   "position": 3,
+   "ctr": 0
+  },
+  {
+   "key": "https://freshcalendars.com/when-is/halloween",
+   "clicks": 0,
+   "impressions": 3,
+   "posW": 30,
+   "position": 10,
+   "ctr": 0
+  },
+  {
+   "key": "https://cdn.freshcalendars.com/assets/2027/monthly/march/holidays/calendar.pdf",
+   "clicks": 0,
+   "impressions": 3,
+   "posW": 27,
+   "position": 9,
+   "ctr": 0
+  },
+  {
+   "key": "https://freshcalendars.com/blank-calendars.html",
+   "clicks": 0,
+   "impressions": 2,
+   "posW": 16,
+   "position": 8,
+   "ctr": 0
+  },
+  {
+   "key": "https://freshcalendars.com/when-is/christmas-day",
+   "clicks": 0,
+   "impressions": 2,
+   "posW": 12,
+   "position": 6,
+   "ctr": 0
+  },
+  {
+   "key": "https://freshcalendars.com/printable-yearly-calendar.html",
+   "clicks": 0,
+   "impressions": 2,
+   "posW": 16,
+   "position": 8,
+   "ctr": 0
+  },
+  {
+   "key": "https://freshcalendars.com/holidays/",
+   "clicks": 0,
+   "impressions": 1,
+   "posW": 3,
+   "position": 3,
+   "ctr": 0
+  },
+  {
+   "key": "https://freshcalendars.com/print-guide.html",
+   "clicks": 0,
+   "impressions": 1,
+   "posW": 7,
+   "position": 7,
+   "ctr": 0
+  },
+  {
+   "key": "https://cdn.freshcalendars.com/assets/2027/monthly/january/monday-start/calendar.pdf",
+   "clicks": 0,
+   "impressions": 1,
+   "posW": 10,
+   "position": 10,
+   "ctr": 0
+  },
+  {
+   "key": "https://freshcalendars.com/when-is/uk-guy-fawkes-night/",
+   "clicks": 0,
+   "impressions": 1,
+   "posW": 3,
+   "position": 3,
+   "ctr": 0
+  },
+  {
+   "key": "https://freshcalendars.com/news/downloads/julian-date-calendar/2026/astronomical-julian-day-chart-2026.pdf",
+   "clicks": 0,
+   "impressions": 1,
+   "posW": 9,
+   "position": 9,
+   "ctr": 0
+  }
+ ],
+ "crawl": [
+  {
+   "__type": "CrawlStats:#Microsoft.Bing.Webmaster.Api",
+   "AllOtherCodes": 19,
+   "BlockedByRobotsTxt": 0,
+   "Code2xx": 196,
+   "Code301": 170,
+   "Code302": 64,
+   "Code4xx": 26,
+   "Code5xx": 0,
+   "ConnectionTimeout": 0,
+   "ContainsMalware": 0,
+   "CrawledPages": 87,
+   "CrawlErrors": 32,
+   "Date": "/Date(1790985600000)/",
+   "DnsFailures": 0,
+   "InIndex": 166,
+   "InLinks": 266
+  },
+  {
+   "__type": "CrawlStats:#Microsoft.Bing.Webmaster.Api",
+   "AllOtherCodes": 17,
+   "BlockedByRobotsTxt": 0,
+   "Code2xx": 191,
+   "Code301": 162,
+   "Code302": 62,
+   "Code4xx": 22,
+   "Code5xx": 0,
+   "ConnectionTimeout": 0,
+   "ContainsMalware": 0,
+   "CrawledPages": 108,
+   "CrawlErrors": 27,
+   "Date": "/Date(1791072000000)/",
+   "DnsFailures": 0,
+   "InIndex": 165,
+   "InLinks": 266
+  },
+  {
+   "__type": "CrawlStats:#Microsoft.Bing.Webmaster.Api",
+   "AllOtherCodes": 17,
+   "BlockedByRobotsTxt": 0,
+   "Code2xx": 191,
+   "Code301": 162,
+   "Code302": 63,
+   "Code4xx": 18,
+   "Code5xx": 0,
+   "ConnectionTimeout": 0,
+   "ContainsMalware": 0,
+   "CrawledPages": 109,
+   "CrawlErrors": 26,
+   "Date": "/Date(1791158400000)/",
+   "DnsFailures": 0,
+   "InIndex": 165,
+   "InLinks": 266
+  },
+  {
+   "__type": "CrawlStats:#Microsoft.Bing.Webmaster.Api",
+   "AllOtherCodes": 16,
+   "BlockedByRobotsTxt": 0,
+   "Code2xx": 191,
+   "Code301": 154,
+   "Code302": 63,
+   "Code4xx": 31,
+   "Code5xx": 0,
+   "ConnectionTimeout": 0,
+   "ContainsMalware": 0,
+   "CrawledPages": 252,
+   "CrawlErrors": 70,
+   "Date": "/Date(1791244800000)/",
+   "DnsFailures": 0,
+   "InIndex": 164,
+   "InLinks": 265
+  },
+  {
+   "__type": "CrawlStats:#Microsoft.Bing.Webmaster.Api",
+   "AllOtherCodes": 16,
+   "BlockedByRobotsTxt": 0,
+   "Code2xx": 189,
+   "Code301": 151,
+   "Code302": 63,
+   "Code4xx": 17,
+   "Code5xx": 0,
+   "ConnectionTimeout": 0,
+   "ContainsMalware": 0,
+   "CrawledPages": 92,
+   "CrawlErrors": 21,
+   "Date": "/Date(1791331200000)/",
+   "DnsFailures": 0,
+   "InIndex": 164,
+   "InLinks": 263
+  },
+  {
+   "__type": "CrawlStats:#Microsoft.Bing.Webmaster.Api",
+   "AllOtherCodes": 15,
+   "BlockedByRobotsTxt": 0,
+   "Code2xx": 190,
+   "Code301": 147,
+   "Code302": 63,
+   "Code4xx": 37,
+   "Code5xx": 0,
+   "ConnectionTimeout": 0,
+   "ContainsMalware": 0,
+   "CrawledPages": 98,
+   "CrawlErrors": 43,
+   "Date": "/Date(1791417600000)/",
+   "DnsFailures": 0,
+   "InIndex": 164,
+   "InLinks": 262
+  },
+  {
+   "__type": "CrawlStats:#Microsoft.Bing.Webmaster.Api",
+   "AllOtherCodes": 15,
+   "BlockedByRobotsTxt": 0,
+   "Code2xx": 189,
+   "Code301": 145,
+   "Code302": 63,
+   "Code4xx": 15,
+   "Code5xx": 0,
+   "ConnectionTimeout": 0,
+   "ContainsMalware": 0,
+   "CrawledPages": 88,
+   "CrawlErrors": 19,
+   "Date": "/Date(1791504000000)/",
+   "DnsFailures": 0,
+   "InIndex": 162,
+   "InLinks": 262
+  },
+  {
+   "__type": "CrawlStats:#Microsoft.Bing.Webmaster.Api",
+   "AllOtherCodes": 15,
+   "BlockedByRobotsTxt": 0,
+   "Code2xx": 189,
+   "Code301": 140,
+   "Code302": 62,
+   "Code4xx": 29,
+   "Code5xx": 0,
+   "ConnectionTimeout": 0,
+   "ContainsMalware": 0,
+   "CrawledPages": 136,
+   "CrawlErrors": 40,
+   "Date": "/Date(1791590400000)/",
+   "DnsFailures": 0,
+   "InIndex": 163,
+   "InLinks": 262
+  },
+  {
+   "__type": "CrawlStats:#Microsoft.Bing.Webmaster.Api",
+   "AllOtherCodes": 14,
+   "BlockedByRobotsTxt": 0,
+   "Code2xx": 188,
+   "Code301": 131,
+   "Code302": 62,
+   "Code4xx": 33,
+   "Code5xx": 0,
+   "ConnectionTimeout": 0,
+   "ContainsMalware": 0,
+   "CrawledPages": 133,
+   "CrawlErrors": 38,
+   "Date": "/Date(1791676800000)/",
+   "DnsFailures": 0,
+   "InIndex": 166,
+   "InLinks": 284
+  },
+  {
+   "__type": "CrawlStats:#Microsoft.Bing.Webmaster.Api",
+   "AllOtherCodes": 15,
+   "BlockedByRobotsTxt": 0,
+   "Code2xx": 189,
+   "Code301": 140,
+   "Code302": 62,
+   "Code4xx": 25,
+   "Code5xx": 0,
+   "ConnectionTimeout": 0,
+   "ContainsMalware": 0,
+   "CrawledPages": 116,
+   "CrawlErrors": 28,
+   "Date": "/Date(1791763200000)/",
+   "DnsFailures": 0,
+   "InIndex": 163,
+   "InLinks": 262
+  },
+  {
+   "__type": "CrawlStats:#Microsoft.Bing.Webmaster.Api",
+   "AllOtherCodes": 15,
+   "BlockedByRobotsTxt": 0,
+   "Code2xx": 189,
+   "Code301": 140,
+   "Code302": 62,
+   "Code4xx": 27,
+   "Code5xx": 0,
+   "ConnectionTimeout": 0,
+   "ContainsMalware": 0,
+   "CrawledPages": 106,
+   "CrawlErrors": 32,
+   "Date": "/Date(1791849600000)/",
+   "DnsFailures": 0,
+   "InIndex": 163,
+   "InLinks": 262
+  },
+  {
+   "__type": "CrawlStats:#Microsoft.Bing.Webmaster.Api",
+   "AllOtherCodes": 14,
+   "BlockedByRobotsTxt": 0,
+   "Code2xx": 188,
+   "Code301": 131,
+   "Code302": 62,
+   "Code4xx": 25,
+   "Code5xx": 0,
+   "ConnectionTimeout": 0,
+   "ContainsMalware": 0,
+   "CrawledPages": 111,
+   "CrawlErrors": 28,
+   "Date": "/Date(1791936000000)/",
+   "DnsFailures": 0,
+   "InIndex": 166,
+   "InLinks": 284
+  },
+  {
+   "__type": "CrawlStats:#Microsoft.Bing.Webmaster.Api",
+   "AllOtherCodes": 15,
+   "BlockedByRobotsTxt": 0,
+   "Code2xx": 185,
+   "Code301": 132,
+   "Code302": 61,
+   "Code4xx": 24,
+   "Code5xx": 0,
+   "ConnectionTimeout": 0,
+   "ContainsMalware": 0,
+   "CrawledPages": 110,
+   "CrawlErrors": 23,
+   "Date": "/Date(1792022400000)/",
+   "DnsFailures": 0,
+   "InIndex": 165,
+   "InLinks": 284
+  },
+  {
+   "__type": "CrawlStats:#Microsoft.Bing.Webmaster.Api",
+   "AllOtherCodes": 15,
+   "BlockedByRobotsTxt": 0,
+   "Code2xx": 185,
+   "Code301": 132,
+   "Code302": 62,
+   "Code4xx": 26,
+   "Code5xx": 0,
+   "ConnectionTimeout": 0,
+   "ContainsMalware": 0,
+   "CrawledPages": 101,
+   "CrawlErrors": 28,
+   "Date": "/Date(1792108800000)/",
+   "DnsFailures": 0,
+   "InIndex": 165,
+   "InLinks": 284
+  },
+  {
+   "__type": "CrawlStats:#Microsoft.Bing.Webmaster.Api",
+   "AllOtherCodes": 17,
+   "BlockedByRobotsTxt": 0,
+   "Code2xx": 184,
+   "Code301": 128,
+   "Code302": 62,
+   "Code4xx": 24,
+   "Code5xx": 0,
+   "ConnectionTimeout": 0,
+   "ContainsMalware": 0,
+   "CrawledPages": 106,
+   "CrawlErrors": 26,
+   "Date": "/Date(1792195200000)/",
+   "DnsFailures": 0,
+   "InIndex": 166,
+   "InLinks": 331
+  },
+  {
+   "__type": "CrawlStats:#Microsoft.Bing.Webmaster.Api",
+   "AllOtherCodes": 16,
+   "BlockedByRobotsTxt": 0,
+   "Code2xx": 183,
+   "Code301": 128,
+   "Code302": 62,
+   "Code4xx": 30,
+   "Code5xx": 2,
+   "ConnectionTimeout": 0,
+   "ContainsMalware": 0,
+   "CrawledPages": 108,
+   "CrawlErrors": 33,
+   "Date": "/Date(1792281600000)/",
+   "DnsFailures": 0,
+   "InIndex": 166,
+   "InLinks": 331
+  },
+  {
+   "__type": "CrawlStats:#Microsoft.Bing.Webmaster.Api",
+   "AllOtherCodes": 17,
+   "BlockedByRobotsTxt": 0,
+   "Code2xx": 229,
+   "Code301": 126,
+   "Code302": 62,
+   "Code4xx": 27,
+   "Code5xx": 1,
+   "ConnectionTimeout": 0,
+   "ContainsMalware": 0,
+   "CrawledPages": 101,
+   "CrawlErrors": 30,
+   "Date": "/Date(1792368000000)/",
+   "DnsFailures": 0,
+   "InIndex": 209,
+   "InLinks": 332
+  },
+  {
+   "__type": "CrawlStats:#Microsoft.Bing.Webmaster.Api",
+   "AllOtherCodes": 22,
+   "BlockedByRobotsTxt": 0,
+   "Code2xx": 286,
+   "Code301": 123,
+   "Code302": 62,
+   "Code4xx": 31,
+   "Code5xx": 1,
+   "ConnectionTimeout": 0,
+   "ContainsMalware": 0,
+   "CrawledPages": 283,
+   "CrawlErrors": 36,
+   "Date": "/Date(1792454400000)/",
+   "DnsFailures": 0,
+   "InIndex": 267,
+   "InLinks": 332
+  },
+  {
+   "__type": "CrawlStats:#Microsoft.Bing.Webmaster.Api",
+   "AllOtherCodes": 27,
+   "BlockedByRobotsTxt": 0,
+   "Code2xx": 320,
+   "Code301": 122,
+   "Code302": 62,
+   "Code4xx": 21,
+   "Code5xx": 2,
+   "ConnectionTimeout": 0,
+   "ContainsMalware": 0,
+   "CrawledPages": 395,
+   "CrawlErrors": 24,
+   "Date": "/Date(1792540800000)/",
+   "DnsFailures": 0,
+   "InIndex": 307,
+   "InLinks": 332
+  },
+  {
+   "__type": "CrawlStats:#Microsoft.Bing.Webmaster.Api",
+   "AllOtherCodes": 34,
+   "BlockedByRobotsTxt": 0,
+   "Code2xx": 360,
+   "Code301": 121,
+   "Code302": 62,
+   "Code4xx": 32,
+   "Code5xx": 13,
+   "ConnectionTimeout": 0,
+   "ContainsMalware": 0,
+   "CrawledPages": 701,
+   "CrawlErrors": 45,
+   "Date": "/Date(1792627200000)/",
+   "DnsFailures": 0,
+   "InIndex": 358,
+   "InLinks": 332
+  },
+  {
+   "__type": "CrawlStats:#Microsoft.Bing.Webmaster.Api",
+   "AllOtherCodes": 35,
+   "BlockedByRobotsTxt": 0,
+   "Code2xx": 362,
+   "Code301": 121,
+   "Code302": 62,
+   "Code4xx": 27,
+   "Code5xx": 2,
+   "ConnectionTimeout": 0,
+   "ContainsMalware": 0,
+   "CrawledPages": 1058,
+   "CrawlErrors": 33,
+   "Date": "/Date(1792713600000)/",
+   "DnsFailures": 0,
+   "InIndex": 358,
+   "InLinks": 332
+  },
+  {
+   "__type": "CrawlStats:#Microsoft.Bing.Webmaster.Api",
+   "AllOtherCodes": 32,
+   "BlockedByRobotsTxt": 0,
+   "Code2xx": 431,
+   "Code301": 119,
+   "Code302": 62,
+   "Code4xx": 27,
+   "Code5xx": 2,
+   "ConnectionTimeout": 1,
+   "ContainsMalware": 0,
+   "CrawledPages": 1025,
+   "CrawlErrors": 33,
+   "Date": "/Date(1792800000000)/",
+   "DnsFailures": 0,
+   "InIndex": 428,
+   "InLinks": 333
+  },
+  {
+   "__type": "CrawlStats:#Microsoft.Bing.Webmaster.Api",
+   "AllOtherCodes": 39,
+   "BlockedByRobotsTxt": 0,
+   "Code2xx": 502,
+   "Code301": 120,
+   "Code302": 62,
+   "Code4xx": 28,
+   "Code5xx": 2,
+   "ConnectionTimeout": 1,
+   "ContainsMalware": 0,
+   "CrawledPages": 1424,
+   "CrawlErrors": 32,
+   "Date": "/Date(1792886400000)/",
+   "DnsFailures": 0,
+   "InIndex": 485,
+   "InLinks": 332
+  },
+  {
+   "__type": "CrawlStats:#Microsoft.Bing.Webmaster.Api",
+   "AllOtherCodes": 64,
+   "BlockedByRobotsTxt": 0,
+   "Code2xx": 643,
+   "Code301": 122,
+   "Code302": 62,
+   "Code4xx": 37,
+   "Code5xx": 2,
+   "ConnectionTimeout": 2,
+   "ContainsMalware": 0,
+   "CrawledPages": 2614,
+   "CrawlErrors": 60,
+   "Date": "/Date(1793145600000)/",
+   "DnsFailures": 0,
+   "InIndex": 662,
+   "InLinks": 333
+  },
+  {
+   "__type": "CrawlStats:#Microsoft.Bing.Webmaster.Api",
+   "AllOtherCodes": 78,
+   "BlockedByRobotsTxt": 0,
+   "Code2xx": 789,
+   "Code301": 125,
+   "Code302": 60,
+   "Code4xx": 36,
+   "Code5xx": 3,
+   "ConnectionTimeout": 0,
+   "ContainsMalware": 0,
+   "CrawledPages": 6310,
+   "CrawlErrors": 82,
+   "Date": "/Date(1793232000000)/",
+   "DnsFailures": 0,
+   "InIndex": 809,
+   "InLinks": 333
+  },
+  {
+   "__type": "CrawlStats:#Microsoft.Bing.Webmaster.Api",
+   "AllOtherCodes": 83,
+   "BlockedByRobotsTxt": 0,
+   "Code2xx": 1119,
+   "Code301": 123,
+   "Code302": 61,
+   "Code4xx": 31,
+   "Code5xx": 3,
+   "ConnectionTimeout": 6,
+   "ContainsMalware": 0,
+   "CrawledPages": 3305,
+   "CrawlErrors": 67,
+   "Date": "/Date(1793318400000)/",
+   "DnsFailures": 0,
+   "InIndex": 1136,
+   "InLinks": 350
+  },
+  {
+   "__type": "CrawlStats:#Microsoft.Bing.Webmaster.Api",
+   "AllOtherCodes": 94,
+   "BlockedByRobotsTxt": 0,
+   "Code2xx": 1632,
+   "Code301": 120,
+   "Code302": 60,
+   "Code4xx": 28,
+   "Code5xx": 7,
+   "ConnectionTimeout": 3,
+   "ContainsMalware": 0,
+   "CrawledPages": 3242,
+   "CrawlErrors": 56,
+   "Date": "/Date(1793404800000)/",
+   "DnsFailures": 0,
+   "InIndex": 1624,
+   "InLinks": 373
+  },
+  {
+   "__type": "CrawlStats:#Microsoft.Bing.Webmaster.Api",
+   "AllOtherCodes": 108,
+   "BlockedByRobotsTxt": 0,
+   "Code2xx": 1859,
+   "Code301": 121,
+   "Code302": 60,
+   "Code4xx": 42,
+   "Code5xx": 2,
+   "ConnectionTimeout": 1,
+   "ContainsMalware": 0,
+   "CrawledPages": 3854,
+   "CrawlErrors": 44,
+   "Date": "/Date(1793491200000)/",
+   "DnsFailures": 0,
+   "InIndex": 1836,
+   "InLinks": 376
+  },
+  {
+   "__type": "CrawlStats:#Microsoft.Bing.Webmaster.Api",
+   "AllOtherCodes": 108,
+   "BlockedByRobotsTxt": 0,
+   "Code2xx": 1859,
+   "Code301": 121,
+   "Code302": 60,
+   "Code4xx": 24,
+   "Code5xx": 2,
+   "ConnectionTimeout": 0,
+   "ContainsMalware": 0,
+   "CrawledPages": 4407,
+   "CrawlErrors": 26,
+   "Date": "/Date(1793577600000)/",
+   "DnsFailures": 0,
+   "InIndex": 1836,
+   "InLinks": 376
+  },
+  {
+   "__type": "CrawlStats:#Microsoft.Bing.Webmaster.Api",
+   "AllOtherCodes": 157,
+   "BlockedByRobotsTxt": 0,
+   "Code2xx": 2158,
+   "Code301": 127,
+   "Code302": 60,
+   "Code4xx": 25,
+   "Code5xx": 2,
+   "ConnectionTimeout": 0,
+   "ContainsMalware": 0,
+   "CrawledPages": 4485,
+   "CrawlErrors": 28,
+   "Date": "/Date(1793664000000)/",
+   "DnsFailures": 0,
+   "InIndex": 2146,
+   "InLinks": 376
+  }
+ ],
+ "failed": []
+}

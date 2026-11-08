@@ -105,7 +105,7 @@ draft: false
 
 **The Federal Open Market Committee (FOMC) has eight tentative meetings on its 2027 calendar, starting Jan. 26-27 and ending Dec. 7-8**, according to the Board of Governors of the Federal Reserve System. Before then comes the Oct. 27-28, 2026 meeting, and after it the Dec. 8-9, 2026 meeting, which is associated with a Summary of Economic Projections (SEP).
 
-<p class="callout"><b>Last updated Oct. 28, 2026, 2:03 p.m. ET.</b> The FOMC statement released at 2:00 p.m. Eastern Time (ET) today kept the federal funds target range at 3-3/4 to 4 percent. Lisa D. Cook and Beth M. Hammack voted against the action; the Fed says both preferred to raise the range by 1/4 percentage point. The next decision is Wednesday, Dec. 9, 2026.</p>
+The FOMC statement released at 2:00 p.m. Eastern Time (ET) on Oct. 28, 2026 kept the federal funds target range at 3-3/4 to 4 percent. Lisa D. Cook and Beth M. Hammack voted against the action; the Fed says both preferred to raise the range by 1/4 percentage point. The next decision is Wednesday, Dec. 9, 2026.
 
 ## What are the FOMC meeting dates for 2027?
 

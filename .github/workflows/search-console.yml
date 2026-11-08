@@ -1,6 +1,6 @@
 name: Search Console
 
-# Daily read of Search Console and of Cloudflare traffic (docs/desk/traffic.md) for the desk (scripts/news-gsc.mjs): clicks, impressions, the pages
+# Daily read of Search Console, Bing Webmaster Tools and of Cloudflare traffic (docs/desk/traffic.md) for the desk (scripts/news-gsc.mjs): clicks, impressions, the pages
 # and queries worth improving, an indexing sample and the numbers of the phase gate in
 # docs/DESK.md. It commits docs/desk/search-console.{json,md}, search-console-pages.json straight to main; the research and
 # update desks read them there. Docs only, so nothing is built or deployed (a push with the
@@ -42,6 +42,12 @@ jobs:
           CF_AE_TOKEN: ${{ secrets.CF_AE_TOKEN }}
           CF_ACCOUNT_ID: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
         run: node scripts/news-traffic.mjs
+      - name: Read Bing Webmaster Tools
+        # Bing also serves Yahoo and DuckDuckGo (scripts/news-bing.mjs); optional.
+        continue-on-error: true
+        env:
+          BING_API: ${{ secrets.BING_API }}
+        run: node scripts/news-bing.mjs
       - name: Read Microsoft Clarity
         # Per page, channel and device for the last 24 hours (scripts/news-clarity.mjs, 3 of the
         # API's 10 daily requests); optional, a refused request leaves the old report in place.
@@ -59,7 +65,7 @@ jobs:
           # The identity must be set for the whole step: the rebase below re-commits when main has moved.
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          for f in search-console.json search-console.md search-console-pages.json traffic.json traffic.md clarity.json clarity.md clarity-history.json readers.md weekly.md; do
+          for f in search-console.json search-console.md search-console-pages.json bing.json bing.md traffic.json traffic.md clarity.json clarity.md clarity-history.json readers.md weekly.md; do
             if [ -f "docs/desk/$f" ]; then git add "docs/desk/$f"; fi
           done
           if git diff --cached --quiet; then echo "nothing new"; exit 0; fi

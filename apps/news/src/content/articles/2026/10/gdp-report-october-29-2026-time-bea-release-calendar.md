@@ -112,7 +112,7 @@ assets:
     alt: "BEA economic release calendar printable listing 13 releases from Oct. 29 to Dec. 23, 2026"
 ---
 
-<p class="callout"><b>Last updated Oct. 29, 2026, 10:05 a.m. ET.</b> The Oct. 29 reports are out. We added the headline figures from both BEA releases below. The next GDP estimate is Wednesday, Nov. 25, at 8:30 a.m. ET.</p>
+The Oct. 29 reports are out. The next GDP estimate is Wednesday, Nov. 25, at 8:30 a.m. ET.
 
 **Real gross domestic product (GDP) increased at an annual rate of 3.4 percent in the third quarter of 2026 (July, August and September), according to the advance estimate the U.S. Bureau of Economic Analysis (BEA) released on Thursday, Oct. 29, 2026, at 8:30 a.m. Eastern Time (ET).** In the second quarter, real GDP increased 2.2 percent. The BEA released Personal Income and Outlays for September 2026 at the same time; the next GDP estimate comes on Wednesday, Nov. 25.
 

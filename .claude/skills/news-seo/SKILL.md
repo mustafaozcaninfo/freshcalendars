@@ -29,6 +29,8 @@ Run every candidate query through this tree (§04 l.1056-1084):
 - a countdown or computed weekday answer.
 A page that only restates one official page has no information gain and is the first thing a core update replaces (§02 l.464, l.589).
 
+**Not announced yet is not a story (owner, Nov. 8, 2026).** When the facts the query asks for (the date, the time, the channel, the price) are mostly "not yet announced", do not publish a page of last year's values and empty rows: put the item in the queue with a recheck date, or answer it as one section of a story that has facts. An editor review found two such stories (a turkey pardon page whose week table was all "not announced", a fight page without a start time); they rank for nothing and teach Google the section is thin.
+
 ## 2. Timing
 
 - **Publish before the searches peak**, not on the day: a race, holiday or deadline story 5 to 10 days ahead, a sky event a week ahead. Our Google News sitemap lists a story only for 48 hours after `publishedAt` (`09-NEWS-SITEMAP`), so that window should fall while people are searching.
@@ -51,13 +53,21 @@ A page that only restates one official page has no information gain and is the f
 
 ## 4. Writing that reads as human work
 
-The audit catches the banned list, em dashes, "not X but Y", wrap-up endings and low burstiness. Also avoid (§02 l.605-612):
+The audit catches the banned list, em dashes, "not X but Y", wrap-up endings and low burstiness; `pnpm news:abbrev` runs the same rules on your story in a second, before the push. From Nov. 9, 2026 a new story also fails on (`scripts/lib/writing-rules.mjs`, audit `02-WRITING-NEW`):
+- documented AI tells and press-release words: additionally, notably, boasts, nestled, multifaceted, garner, indelible, rich history, testament to, serves as, stands as, plays a vital role, bursting with, mouth-watering, must-have, must-see, perfect for, irresistible, indulgent, delectable (quote a company's wording as a quote, never as our description),
+- the page talking about itself more than twice ("This story", "This page", "The table below"): state the fact; the reader sees the table,
+- an FAQ answer that repeats the description: each FAQ answers something the lede does not.
+
+And it is warned (shown in the audit, fix when you touch the story) on: "our count / our reading / our calculation" more than four times (say once how a number was computed), "Mark ... on the printable calendar" more than once, "stated" or "pointed out" (AP style: "said"), and "currently", "right now", "soon", "recently", "this week" without a date. A sentence used word for word in five or more stories is reported too (`02-CROSS-STORY`).
+
+Also avoid (§02 l.605-612):
 - every section ending in a three-item list, or every paragraph of the same length,
 - the same hook in unrelated stories: the clock change ("U.S. clocks fall back Nov. 1") goes in the description or summary only when the story is about it (Time Change category or the headline says so); elsewhere it is one body sentence where it changes a time (`13-CLOCK-HOOK`),
 - a description or first summary bullet that copies another story's opening; start from this story's own fact,
 - a closing summary of what was just said,
 - opinion in factual prose (`08-NO-OPINION`); opinions only as attributed quotes, and election stories stay nonpartisan,
-- unsourced superlatives, invented people, quotes, counts or reviewers (§02 l.469, §07 l.2148).
+- unsourced superlatives, invented people, quotes, counts or reviewers (§02 l.469, §07 l.2148),
+- a trend claim the table next to it does not support: before writing "falls as", "rises every year", "the earliest since", check every row of the table you computed (an editor found "the per-person amount falls as the household grows" above a table where six people get more per person than five).
 Vary sentence length on purpose; the audit only enforces a floor.
 
 ## 5. AI Overviews and Discover

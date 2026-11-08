@@ -1,131 +1,131 @@
 {
- "generatedAt": "2026-11-07T17:20:23.266Z",
+ "generatedAt": "2026-11-08T09:13:16.031Z",
  "site": "sc-domain:freshcalendars.com",
  "windows": [
   {
-   "start": "2026-10-29",
-   "end": "2026-11-04"
+   "start": "2026-10-30",
+   "end": "2026-11-05"
   },
   {
-   "start": "2026-10-22",
-   "end": "2026-10-28"
+   "start": "2026-10-23",
+   "end": "2026-10-29"
   },
   {
-   "start": "2026-10-15",
-   "end": "2026-10-21"
+   "start": "2026-10-16",
+   "end": "2026-10-22"
   }
  ],
  "weeks": {
   "news": [
    {
-    "start": "2026-10-29",
-    "end": "2026-11-04",
-    "clicks": 3595,
-    "impressions": 642016,
+    "start": "2026-10-30",
+    "end": "2026-11-05",
+    "clicks": 3387,
+    "impressions": 595493,
     "days": 7
    },
    {
-    "start": "2026-10-22",
-    "end": "2026-10-28",
-    "clicks": 1620,
-    "impressions": 414115,
+    "start": "2026-10-23",
+    "end": "2026-10-29",
+    "clicks": 2002,
+    "impressions": 463795,
     "days": 7
    },
    {
-    "start": "2026-10-15",
-    "end": "2026-10-21",
-    "clicks": 451,
-    "impressions": 100275,
+    "start": "2026-10-16",
+    "end": "2026-10-22",
+    "clicks": 574,
+    "impressions": 154002,
     "days": 7
    }
   ],
   "calendar": [
    {
-    "start": "2026-10-29",
-    "end": "2026-11-04",
-    "clicks": 55,
-    "impressions": 5956,
-    "days": 7
-   },
-   {
-    "start": "2026-10-22",
-    "end": "2026-10-28",
-    "clicks": 58,
-    "impressions": 5252,
-    "days": 7
-   },
-   {
-    "start": "2026-10-15",
-    "end": "2026-10-21",
+    "start": "2026-10-30",
+    "end": "2026-11-05",
     "clicks": 46,
-    "impressions": 3433,
+    "impressions": 5974,
+    "days": 7
+   },
+   {
+    "start": "2026-10-23",
+    "end": "2026-10-29",
+    "clicks": 67,
+    "impressions": 5576,
+    "days": 7
+   },
+   {
+    "start": "2026-10-16",
+    "end": "2026-10-22",
+    "clicks": 48,
+    "impressions": 3591,
     "days": 7
    }
   ],
   "newsImage": [
    {
-    "start": "2026-10-29",
-    "end": "2026-11-04",
-    "clicks": 581,
-    "impressions": 308257,
+    "start": "2026-10-30",
+    "end": "2026-11-05",
+    "clicks": 571,
+    "impressions": 312384,
     "days": 7
    },
    {
-    "start": "2026-10-22",
-    "end": "2026-10-28",
-    "clicks": 391,
-    "impressions": 175015,
+    "start": "2026-10-23",
+    "end": "2026-10-29",
+    "clicks": 447,
+    "impressions": 201820,
     "days": 7
    },
    {
-    "start": "2026-10-15",
-    "end": "2026-10-21",
-    "clicks": 101,
-    "impressions": 25538,
+    "start": "2026-10-16",
+    "end": "2026-10-22",
+    "clicks": 125,
+    "impressions": 36189,
     "days": 7
    }
   ],
   "calendarImage": [
    {
-    "start": "2026-10-29",
-    "end": "2026-11-04",
-    "clicks": 67,
-    "impressions": 41911,
+    "start": "2026-10-30",
+    "end": "2026-11-05",
+    "clicks": 65,
+    "impressions": 43151,
     "days": 7
    },
    {
-    "start": "2026-10-22",
-    "end": "2026-10-28",
-    "clicks": 35,
-    "impressions": 15737,
+    "start": "2026-10-23",
+    "end": "2026-10-29",
+    "clicks": 40,
+    "impressions": 17615,
     "days": 7
    },
    {
-    "start": "2026-10-15",
-    "end": "2026-10-21",
-    "clicks": 30,
-    "impressions": 15123,
+    "start": "2026-10-16",
+    "end": "2026-10-22",
+    "clicks": 29,
+    "impressions": 15115,
     "days": 7
    }
   ],
   "newsDiscover": [
    {
-    "start": "2026-10-29",
-    "end": "2026-11-04",
+    "start": "2026-10-30",
+    "end": "2026-11-05",
     "clicks": 0,
     "impressions": 0,
     "days": 7
    },
    {
-    "start": "2026-10-22",
-    "end": "2026-10-28",
+    "start": "2026-10-23",
+    "end": "2026-10-29",
     "clicks": 0,
     "impressions": 0,
     "days": 7
    },
    {
-    "start": "2026-10-15",
-    "end": "2026-10-21",
+    "start": "2026-10-16",
+    "end": "2026-10-22",
     "clicks": 0,
     "impressions": 0,
     "days": 7
@@ -135,7 +135,7 @@
  "gate": [
   {
    "rule": "At least 60% of /news/ URLs published 7 to 21 days ago are indexed",
-   "value": "100% (56 of 56 sampled)",
+   "value": "100% (58 of 58 sampled)",
    "pass": true
   },
   {
@@ -153,10 +153,10 @@
   {
    "query": "thanksgiving 2026",
    "page": "https://freshcalendars.com/news/why-thanksgiving-2026-is-november-26/",
-   "impressions": 217674,
+   "impressions": 217832,
    "clicks": 41,
    "position": 3.2,
-   "missing": 21726
+   "missing": 21742
   },
   {
    "query": "sample ballot by zip code",
@@ -169,10 +169,10 @@
   {
    "query": "native american heritage month 2026 theme",
    "page": "https://freshcalendars.com/news/native-american-heritage-month-2026-theme-events-books-activities/",
-   "impressions": 2432,
+   "impressions": 2452,
    "clicks": 4,
    "position": 3.1,
-   "missing": 239
+   "missing": 241
   },
   {
    "query": "all souls day 2026",
@@ -193,7 +193,7 @@
   {
    "query": "sunset halloween 2026",
    "page": "https://freshcalendars.com/news/halloween-2026-saturday-sunset-trick-or-treat-times/",
-   "impressions": 1646,
+   "impressions": 1650,
    "clicks": 2,
    "position": 5.9,
    "missing": 56
@@ -207,20 +207,20 @@
    "missing": 55
   },
   {
+   "query": "black friday 2026 canada",
+   "page": "https://freshcalendars.com/news/black-friday-canada-2026-november-27-sale-dates-canadian-tire-november-5/",
+   "impressions": 5514,
+   "clicks": 1,
+   "position": 12.2,
+   "missing": 54
+  },
+  {
    "query": "ブリティッシュ ベイクオフ s17e7",
    "page": "https://freshcalendars.com/news/great-british-bake-off-2026-free-from-week-tuesday-3-november-episode-schedule/",
    "impressions": 1049,
    "clicks": 10,
    "position": 3.6,
    "missing": 53
-  },
-  {
-   "query": "black friday 2026 canada",
-   "page": "https://freshcalendars.com/news/black-friday-canada-2026-november-27-sale-dates-canadian-tire-november-5/",
-   "impressions": 5340,
-   "clicks": 1,
-   "position": 12.1,
-   "missing": 52
   },
   {
    "query": "halloween 2027 day of the week",
@@ -233,10 +233,18 @@
   {
    "query": "day of the dead 2026",
    "page": "https://freshcalendars.com/news/day-of-the-dead-2026-dia-de-los-muertos-dates/",
-   "impressions": 1511,
+   "impressions": 1528,
    "clicks": 2,
-   "position": 5.9,
+   "position": 6,
    "missing": 51
+  },
+  {
+   "query": "black friday ads 2026",
+   "page": "https://freshcalendars.com/news/black-friday-2026-ad-tracker-walmart-target-best-buy/",
+   "impressions": 2386,
+   "clicks": 3,
+   "position": 9.5,
+   "missing": 45
   },
   {
    "query": "is the dmv open on election day",
@@ -263,6 +271,14 @@
    "missing": 38
   },
   {
+   "query": "bcps calendar",
+   "page": "https://freshcalendars.com/news/baltimore-county-public-schools-calendar-2026-27-breaks/",
+   "impressions": 355,
+   "clicks": 0,
+   "position": 2.6,
+   "missing": 36
+  },
+  {
    "query": "chinese new year 2027",
    "page": "https://freshcalendars.com/news/lunar-new-year-2027-year-of-the-goat/",
    "impressions": 556,
@@ -277,14 +293,6 @@
    "clicks": 2,
    "position": 7.5,
    "missing": 32
-  },
-  {
-   "query": "bcps calendar",
-   "page": "https://freshcalendars.com/news/baltimore-county-public-schools-calendar-2026-27-breaks/",
-   "impressions": 300,
-   "clicks": 0,
-   "position": 2.6,
-   "missing": 30
   },
   {
    "query": "2027 stat holidays canada",
@@ -327,6 +335,14 @@
    "missing": 24
   },
   {
+   "query": "black friday 2026 ads",
+   "page": "https://freshcalendars.com/news/black-friday-2026-ad-tracker-walmart-target-best-buy/",
+   "impressions": 690,
+   "clicks": 0,
+   "position": 8,
+   "missing": 24
+  },
+  {
    "query": "ariel bell minion",
    "page": "https://freshcalendars.com/news/nyt-connections-hints-answers-october-20-2026-1227/",
    "impressions": 707,
@@ -337,7 +353,7 @@
   {
    "query": "september 2027 calendar",
    "page": "https://freshcalendars.com/september-calendars.html",
-   "impressions": 1270,
+   "impressions": 1267,
    "clicks": 2,
    "position": 9.1,
    "missing": 23
@@ -361,26 +377,18 @@
   {
    "query": "native american heritage month theme 2026",
    "page": "https://freshcalendars.com/news/native-american-heritage-month-2026-theme-events-books-activities/",
-   "impressions": 210,
+   "impressions": 214,
    "clicks": 1,
    "position": 3,
    "missing": 20
   },
   {
-   "query": "black friday 2026 ads",
-   "page": "https://freshcalendars.com/news/black-friday-2026-ad-tracker-walmart-target-best-buy/",
-   "impressions": 565,
-   "clicks": 0,
-   "position": 7.5,
+   "query": "ocps calendar 26-27",
+   "page": "https://freshcalendars.com/news/orange-county-public-schools-calendar-2026-27-breaks-holidays/",
+   "impressions": 210,
+   "clicks": 1,
+   "position": 2.7,
    "missing": 20
-  },
-  {
-   "query": "black friday ads 2026",
-   "page": "https://freshcalendars.com/news/black-friday-2026-ad-tracker-walmart-target-best-buy/",
-   "impressions": 1099,
-   "clicks": 3,
-   "position": 10.1,
-   "missing": 19
   },
   {
    "query": "jawn halloweek psychs",
@@ -388,14 +396,6 @@
    "impressions": 636,
    "clicks": 3,
    "position": 7.1,
-   "missing": 19
-  },
-  {
-   "query": "creature with lemon and nurse varieties",
-   "page": "https://freshcalendars.com/news/nyt-midi-crossword-answers-november-4-2026/",
-   "impressions": 958,
-   "clicks": 0,
-   "position": 9.3,
    "missing": 19
   },
   {
@@ -423,6 +423,14 @@
    "missing": 16
   },
   {
+   "query": "canada holidays 2027",
+   "page": "https://freshcalendars.com/news/canada-statutory-holidays-2027-federal-general-holidays/",
+   "impressions": 443,
+   "clicks": 0,
+   "position": 7.7,
+   "missing": 16
+  },
+  {
    "query": "double misnomer",
    "page": "https://freshcalendars.com/news/nyt-connections-hints-answers-october-21-2026-1228/",
    "impressions": 159,
@@ -439,19 +447,11 @@
    "missing": 15
   },
   {
-   "query": "canada holidays 2027",
-   "page": "https://freshcalendars.com/news/canada-statutory-holidays-2027-federal-general-holidays/",
-   "impressions": 421,
-   "clicks": 0,
-   "position": 7.6,
-   "missing": 15
-  },
-  {
    "query": "christmas 2026 date",
    "page": "https://freshcalendars.com/when-is/christmas-day/",
-   "impressions": 749,
+   "impressions": 755,
    "clicks": 0,
-   "position": 10.6,
+   "position": 10.5,
    "missing": 15
   },
   {
@@ -465,7 +465,7 @@
   {
    "query": "handle with care strands",
    "page": "https://freshcalendars.com/news/nyt-strands-hints-answers-november-5-2026-977/",
-   "impressions": 426,
+   "impressions": 433,
    "clicks": 1,
    "position": 5.9,
    "missing": 14
@@ -474,19 +474,19 @@
  "weakPages": [
   {
    "page": "https://freshcalendars.com/news/why-thanksgiving-2026-is-november-26/",
-   "impressions": 239726,
+   "impressions": 241376,
    "clicks": 49,
    "position": 3.3,
    "queries": [
     {
      "query": "thanksgiving 2026",
-     "impressions": 217674,
+     "impressions": 217832,
      "clicks": 41,
      "position": 3.2
     },
     {
      "query": "date of thanksgiving 2026",
-     "impressions": 910,
+     "impressions": 940,
      "clicks": 1,
      "position": 2.3
     },
@@ -498,27 +498,27 @@
     },
     {
      "query": "2026 thanksgiving",
-     "impressions": 618,
+     "impressions": 669,
      "clicks": 0,
      "position": 2.4
+    },
+    {
+     "query": "26 thanksgiving",
+     "impressions": 26,
+     "clicks": 0,
+     "position": 8.5
     },
     {
      "query": "2026 thanks giving",
      "impressions": 25,
      "clicks": 0,
      "position": 2.1
-    },
-    {
-     "query": "calendar 2026 thanksgiving",
-     "impressions": 23,
-     "clicks": 0,
-     "position": 1.6
     }
    ]
   },
   {
    "page": "https://freshcalendars.com/news/next-saturday-halloween-2037-halloween-day-of-week-every-year/",
-   "impressions": 48366,
+   "impressions": 48369,
    "clicks": 14,
    "position": 9.2,
    "queries": [
@@ -562,13 +562,13 @@
   },
   {
    "page": "https://freshcalendars.com/news/winter-solstice-2026-december-21-shortest-day-sunset-times/",
-   "impressions": 32942,
+   "impressions": 33216,
    "clicks": 3,
    "position": 2,
    "queries": [
     {
      "query": "winter solstice 2026",
-     "impressions": 19031,
+     "impressions": 19049,
      "clicks": 2,
      "position": 1.8
     },
@@ -598,15 +598,15 @@
     },
     {
      "query": "2026 shortest day",
-     "impressions": 16,
+     "impressions": 17,
      "clicks": 0,
-     "position": 8.9
+     "position": 9.1
     }
    ]
   },
   {
    "page": "https://freshcalendars.com/news/nyt-connections-hints-answers-november-1-2026-1239/",
-   "impressions": 28942,
+   "impressions": 28978,
    "clicks": 199,
    "position": 7.8,
    "queries": [
@@ -624,13 +624,13 @@
     },
     {
      "query": "hound head doggy tripping",
-     "impressions": 442,
+     "impressions": 444,
      "clicks": 3,
      "position": 9
     },
     {
      "query": "hound fiend doggy",
-     "impressions": 425,
+     "impressions": 426,
      "clicks": 1,
      "position": 7.2
     },
@@ -650,45 +650,45 @@
   },
   {
    "page": "https://freshcalendars.com/news/day-of-the-dead-2026-dia-de-los-muertos-dates/",
-   "impressions": 26544,
-   "clicks": 169,
+   "impressions": 27152,
+   "clicks": 172,
    "position": 7,
    "queries": [
     {
      "query": "day of the dead 2026",
-     "impressions": 1511,
+     "impressions": 1528,
      "clicks": 2,
-     "position": 5.9
+     "position": 6
     },
     {
      "query": "dia de los muertos 2026 timeline",
-     "impressions": 414,
+     "impressions": 420,
      "clicks": 7,
      "position": 7.6
     },
     {
      "query": "day of the dead calendar 2026",
-     "impressions": 383,
+     "impressions": 384,
      "clicks": 1,
      "position": 6.5
     },
     {
      "query": "dia de los muertos 2026 calendar",
-     "impressions": 373,
-     "clicks": 25,
+     "impressions": 376,
+     "clicks": 26,
      "position": 2.6
     },
     {
      "query": "day of the dead dates 2026",
-     "impressions": 340,
+     "impressions": 344,
      "clicks": 2,
      "position": 9.3
     },
     {
-     "query": "dia de los muertos 2026 dates",
-     "impressions": 290,
-     "clicks": 2,
-     "position": 9
+     "query": "dia de los muertos 2026 schedule",
+     "impressions": 300,
+     "clicks": 4,
+     "position": 6.2
     }
    ]
   },
@@ -738,7 +738,7 @@
   },
   {
    "page": "https://freshcalendars.com/news/national-black-cat-day-2026-october-27/",
-   "impressions": 24390,
+   "impressions": 24395,
    "clicks": 15,
    "position": 2.1,
    "queries": [
@@ -781,9 +781,47 @@
    ]
   },
   {
+   "page": "https://freshcalendars.com/news/guru-nanak-jayanti-2026-date-november-24-gurpurab-purnima-time-us/",
+   "impressions": 18114,
+   "clicks": 2,
+   "position": 1.5,
+   "queries": [
+    {
+     "query": "guru nanak jayanti 2026",
+     "impressions": 15326,
+     "clicks": 2,
+     "position": 1.5
+    },
+    {
+     "query": "2026 guru nanak jayanti",
+     "impressions": 70,
+     "clicks": 0,
+     "position": 1
+    },
+    {
+     "query": "2026 guru nanak birthday date",
+     "impressions": 2,
+     "clicks": 0,
+     "position": 1
+    },
+    {
+     "query": "3rd one",
+     "impressions": 1,
+     "clicks": 0,
+     "position": 3
+    },
+    {
+     "query": "birthday of guru nanak dev ji 2026",
+     "impressions": 1,
+     "clicks": 0,
+     "position": 1
+    }
+   ]
+  },
+  {
    "page": "https://freshcalendars.com/news/sunset-times-after-daylight-saving-time-ends-2026/",
-   "impressions": 17389,
-   "clicks": 23,
+   "impressions": 17454,
+   "clicks": 24,
    "position": 9.6,
    "queries": [
     {
@@ -826,25 +864,25 @@
   },
   {
    "page": "https://freshcalendars.com/news/uk-bank-holidays-2027-dates-england-scotland-northern-ireland/",
-   "impressions": 16977,
+   "impressions": 17054,
    "clicks": 0,
    "position": 1.7,
    "queries": [
     {
      "query": "bank holidays 2027",
-     "impressions": 10384,
+     "impressions": 10387,
      "clicks": 0,
      "position": 1.2
     },
     {
      "query": "2027 bank holidays",
-     "impressions": 2568,
+     "impressions": 2569,
      "clicks": 0,
      "position": 1
     },
     {
      "query": "bank holiday 2027",
-     "impressions": 1126,
+     "impressions": 1128,
      "clicks": 0,
      "position": 1.2
     },
@@ -869,40 +907,52 @@
    ]
   },
   {
-   "page": "https://freshcalendars.com/news/guru-nanak-jayanti-2026-date-november-24-gurpurab-purnima-time-us/",
-   "impressions": 16472,
-   "clicks": 1,
-   "position": 1.6,
+   "page": "https://freshcalendars.com/news/diwali-2026-date-lakshmi-puja-time-usa/",
+   "impressions": 16298,
+   "clicks": 12,
+   "position": 9.8,
    "queries": [
     {
-     "query": "guru nanak jayanti 2026",
-     "impressions": 13898,
+     "query": "2026 diwali",
+     "impressions": 44,
+     "clicks": 0,
+     "position": 8.8
+    },
+    {
+     "query": "diwali 2026 usa calendar",
+     "impressions": 33,
      "clicks": 1,
-     "position": 1.6
+     "position": 4.9
     },
     {
-     "query": "2026 guru nanak jayanti",
-     "impressions": 65,
+     "query": "5 days of diwali 2026 usa",
+     "impressions": 24,
      "clicks": 0,
-     "position": 1
+     "position": 9.2
     },
     {
-     "query": "2026 guru nanak birthday date",
-     "impressions": 2,
+     "query": "2026 diwali usa",
+     "impressions": 14,
      "clicks": 0,
-     "position": 1
+     "position": 8.4
     },
     {
-     "query": "3rd one",
-     "impressions": 1,
+     "query": "2026 diwali date usa",
+     "impressions": 11,
      "clicks": 0,
-     "position": 3
+     "position": 10.7
+    },
+    {
+     "query": "5 days of diwali 2026",
+     "impressions": 8,
+     "clicks": 0,
+     "position": 4.3
     }
    ]
   },
   {
    "page": "https://freshcalendars.com/news/nyt-connections-hints-answers-october-30-2026-1237/",
-   "impressions": 14442,
+   "impressions": 14449,
    "clicks": 75,
    "position": 7.9,
    "queries": [
@@ -946,7 +996,7 @@
   },
   {
    "page": "https://freshcalendars.com/news/nyt-connections-hints-answers-october-26-2026-1233/",
-   "impressions": 14236,
+   "impressions": 14241,
    "clicks": 136,
    "position": 7.9,
    "queries": [
@@ -989,52 +1039,52 @@
    ]
   },
   {
-   "page": "https://freshcalendars.com/news/diwali-2026-date-lakshmi-puja-time-usa/",
-   "impressions": 12933,
-   "clicks": 8,
-   "position": 9.6,
+   "page": "https://freshcalendars.com/news/hanukkah-2026-dates-calendar/",
+   "impressions": 12127,
+   "clicks": 5,
+   "position": 8.3,
    "queries": [
     {
-     "query": "2026 diwali",
-     "impressions": 44,
+     "query": "1st night of hanukkah 2026",
+     "impressions": 279,
      "clicks": 0,
-     "position": 8.8
+     "position": 8.2
     },
     {
-     "query": "diwali 2026 usa calendar",
-     "impressions": 28,
-     "clicks": 1,
-     "position": 4.5
+     "query": "2026 hanukkah",
+     "impressions": 110,
+     "clicks": 0,
+     "position": 10
     },
     {
-     "query": "5 days of diwali 2026 usa",
-     "impressions": 18,
-     "clicks": 0,
-     "position": 8.9
+     "query": "hanukkah 2026 calendar",
+     "impressions": 65,
+     "clicks": 2,
+     "position": 3.3
     },
     {
-     "query": "2026 diwali usa",
-     "impressions": 11,
+     "query": "2026 hanukkah dates",
+     "impressions": 63,
      "clicks": 0,
-     "position": 8.1
+     "position": 6.1
     },
     {
-     "query": "5 days of diwali 2026",
-     "impressions": 8,
+     "query": "1st day of hanukkah 2026",
+     "impressions": 46,
      "clicks": 0,
-     "position": 4.3
+     "position": 7.3
     },
     {
-     "query": "calendar 2026 diwali date",
-     "impressions": 7,
+     "query": "chanukah 2026 dates",
+     "impressions": 32,
      "clicks": 0,
-     "position": 1.6
+     "position": 6.3
     }
    ]
   },
   {
    "page": "https://freshcalendars.com/news/all-saints-day-2026-holy-day-of-obligation-all-souls-day/",
-   "impressions": 11938,
+   "impressions": 11986,
    "clicks": 2,
    "position": 9.9,
    "queries": [
@@ -1045,16 +1095,16 @@
      "position": 8.2
     },
     {
-     "query": "all souls day 2027",
-     "impressions": 401,
-     "clicks": 0,
-     "position": 9.5
-    },
-    {
      "query": "all saints day 2027",
-     "impressions": 399,
+     "impressions": 426,
      "clicks": 0,
      "position": 8.9
+    },
+    {
+     "query": "all souls day 2027",
+     "impressions": 403,
+     "clicks": 0,
+     "position": 9.6
     },
     {
      "query": "all souls' day 2026",
@@ -1070,53 +1120,9 @@
     },
     {
      "query": "all saints sunday 2027",
-     "impressions": 118,
+     "impressions": 130,
      "clicks": 0,
      "position": 8.9
-    }
-   ]
-  },
-  {
-   "page": "https://freshcalendars.com/news/hanukkah-2026-dates-calendar/",
-   "impressions": 11161,
-   "clicks": 4,
-   "position": 8.3,
-   "queries": [
-    {
-     "query": "1st night of hanukkah 2026",
-     "impressions": 259,
-     "clicks": 0,
-     "position": 8
-    },
-    {
-     "query": "2026 hanukkah",
-     "impressions": 93,
-     "clicks": 0,
-     "position": 9.9
-    },
-    {
-     "query": "2026 hanukkah dates",
-     "impressions": 58,
-     "clicks": 0,
-     "position": 6.1
-    },
-    {
-     "query": "hanukkah 2026 calendar",
-     "impressions": 55,
-     "clicks": 1,
-     "position": 3.4
-    },
-    {
-     "query": "1st day of hanukkah 2026",
-     "impressions": 34,
-     "clicks": 0,
-     "position": 7.3
-    },
-    {
-     "query": "chanukah 2026 dates",
-     "impressions": 27,
-     "clicks": 0,
-     "position": 6.1
     }
    ]
   }
@@ -1125,81 +1131,88 @@
   "decliners": [
    {
     "page": "https://freshcalendars.com/news/sunset-times-after-daylight-saving-time-ends-2026/",
-    "clicks": 4,
-    "prevClicks": 19,
-    "impressions": 1538,
-    "prevImpressions": 15851
+    "clicks": 3,
+    "prevClicks": 21,
+    "impressions": 1086,
+    "prevImpressions": 16368
+   },
+   {
+    "page": "https://freshcalendars.com/news/gta-6-october-22-2026-what-is-confirmed-release-countdown/",
+    "clicks": 2,
+    "prevClicks": 18,
+    "impressions": 110,
+    "prevImpressions": 1205
    }
   ],
   "risers": [
    {
     "page": "https://freshcalendars.com/news/is-election-day-a-holiday-2026-whats-open/",
-    "clicks": 446,
-    "prevClicks": 32,
-    "impressions": 15431,
-    "prevImpressions": 1614
+    "clicks": 441,
+    "prevClicks": 37,
+    "impressions": 15108,
+    "prevImpressions": 1945
    },
    {
     "page": "https://freshcalendars.com/news/free-rides-to-the-polls-2026-lyft-uber-transit/",
-    "clicks": 270,
-    "prevClicks": 12,
-    "impressions": 3167,
-    "prevImpressions": 139
+    "clicks": 262,
+    "prevClicks": 21,
+    "impressions": 3080,
+    "prevImpressions": 232
    },
    {
     "page": "https://freshcalendars.com/news/nyt-connections-hints-answers-november-1-2026-1239/",
     "clicks": 199,
     "prevClicks": 0,
-    "impressions": 28942,
+    "impressions": 28978,
     "prevImpressions": 0
    },
    {
     "page": "https://freshcalendars.com/news/day-of-the-dead-2026-dia-de-los-muertos-dates/",
     "clicks": 162,
-    "prevClicks": 7,
-    "impressions": 26313,
-    "prevImpressions": 231
+    "prevClicks": 10,
+    "impressions": 26728,
+    "prevImpressions": 424
+   },
+   {
+    "page": "https://freshcalendars.com/news/great-british-bake-off-2026-free-from-week-tuesday-3-november-episode-schedule/",
+    "clicks": 144,
+    "prevClicks": 0,
+    "impressions": 8520,
+    "prevImpressions": 0
    },
    {
     "page": "https://freshcalendars.com/news/nhl-hometown-remix-jerseys-2026-27-unveil-date-game-schedule/",
     "clicks": 143,
     "prevClicks": 0,
-    "impressions": 3154,
-    "prevImpressions": 0
-   },
-   {
-    "page": "https://freshcalendars.com/news/great-british-bake-off-2026-free-from-week-tuesday-3-november-episode-schedule/",
-    "clicks": 139,
-    "prevClicks": 0,
-    "impressions": 8269,
+    "impressions": 3159,
     "prevImpressions": 0
    },
    {
     "page": "https://freshcalendars.com/news/nyt-connections-hints-answers-october-26-2026-1233/",
     "clicks": 136,
     "prevClicks": 0,
-    "impressions": 14236,
+    "impressions": 14241,
     "prevImpressions": 0
    },
    {
     "page": "https://freshcalendars.com/news/downloads/november-2026-calendar/november-2026-gratitude-calendar.pdf",
-    "clicks": 103,
+    "clicks": 112,
     "prevClicks": 0,
-    "impressions": 420,
+    "impressions": 444,
     "prevImpressions": 0
    },
    {
     "page": "https://freshcalendars.com/news/printable-pumpkin-carving-templates/",
     "clicks": 82,
     "prevClicks": 0,
-    "impressions": 1671,
+    "impressions": 1679,
     "prevImpressions": 0
    },
    {
     "page": "https://freshcalendars.com/news/nyt-connections-hints-answers-november-4-2026-1242/",
     "clicks": 78,
     "prevClicks": 0,
-    "impressions": 6693,
+    "impressions": 6880,
     "prevImpressions": 0
    }
   ]
@@ -1210,43 +1223,43 @@
    "pages": [
     {
      "page": "https://freshcalendars.com/news/why-thanksgiving-2026-is-november-26/",
-     "impressions": 217674,
+     "impressions": 217832,
      "clicks": 41,
      "position": 3.2
     },
     {
      "page": "https://freshcalendars.com/when-is/thanksgiving/",
-     "impressions": 82,
+     "impressions": 89,
      "clicks": 1,
-     "position": 39.1
+     "position": 41.2
     }
    ],
-   "total": 217756
+   "total": 217921
   },
   {
    "query": "bank holidays 2027",
    "pages": [
     {
      "page": "https://freshcalendars.com/news/uk-bank-holidays-2027-dates-england-scotland-northern-ireland/",
-     "impressions": 10384,
+     "impressions": 10387,
      "clicks": 0,
      "position": 1.2
     },
     {
      "page": "https://freshcalendars.com/news/downloads/uk-bank-holidays-2027/uk-bank-holidays-2027.pdf",
-     "impressions": 38,
+     "impressions": 40,
      "clicks": 0,
-     "position": 69.3
+     "position": 69.2
     }
    ],
-   "total": 10422
+   "total": 10427
   },
   {
    "query": "black friday 2026",
    "pages": [
     {
      "page": "https://freshcalendars.com/news/black-friday-2026-ad-tracker-walmart-target-best-buy/",
-     "impressions": 1419,
+     "impressions": 1420,
      "clicks": 1,
      "position": 2.2
     },
@@ -1258,12 +1271,18 @@
     },
     {
      "page": "https://freshcalendars.com/news/black-friday-2026-uk-date-27-november-amazon-uk-sale-dates/",
-     "impressions": 48,
+     "impressions": 63,
      "clicks": 0,
-     "position": 60.8
+     "position": 66.5
+    },
+    {
+     "page": "https://freshcalendars.com/news/downloads/black-friday-2026-uk/black-friday-2026-uk-shopping-planner.pdf",
+     "impressions": 41,
+     "clicks": 0,
+     "position": 70.8
     }
    ],
-   "total": 1933
+   "total": 1990
   },
   {
    "query": "mini crossword answers",
@@ -1294,19 +1313,19 @@
     },
     {
      "page": "https://freshcalendars.com/news/native-american-heritage-month-2026-theme-events-books-activities/",
-     "impressions": 568,
+     "impressions": 578,
      "clicks": 5,
      "position": 1.1
     }
    ],
-   "total": 1428
+   "total": 1438
   },
   {
    "query": "2026 thanksgiving",
    "pages": [
     {
      "page": "https://freshcalendars.com/news/why-thanksgiving-2026-is-november-26/",
-     "impressions": 618,
+     "impressions": 669,
      "clicks": 0,
      "position": 2.4
     },
@@ -1317,53 +1336,59 @@
      "position": 1.3
     }
    ],
-   "total": 652
+   "total": 703
   },
   {
    "query": "cbs holiday schedule 2026",
    "pages": [
     {
      "page": "https://freshcalendars.com/news/cbs-holiday-specials-2026-schedule-kids-choice-awards-soul-train-new-years-eve/",
-     "impressions": 183,
-     "clicks": 12,
-     "position": 2.5
+     "impressions": 210,
+     "clicks": 13,
+     "position": 2.7
     },
     {
      "page": "https://freshcalendars.com/news/downloads/cbs-holiday-specials-2026/cbs-holiday-specials-2026-tv-schedule.pdf",
-     "impressions": 119,
+     "impressions": 130,
      "clicks": 3,
      "position": 5.9
     }
    ],
-   "total": 302
+   "total": 340
   },
   {
    "query": "freshcalendars",
    "pages": [
     {
+     "page": "https://freshcalendars.com/blank-calendars.html",
+     "impressions": 56,
+     "clicks": 4,
+     "position": 2.4
+    },
+    {
      "page": "https://freshcalendars.com/",
-     "impressions": 53,
+     "impressions": 55,
      "clicks": 31,
      "position": 1.2
     },
     {
-     "page": "https://freshcalendars.com/blank-calendars.html",
-     "impressions": 53,
-     "clicks": 3,
-     "position": 2.5
-    },
-    {
      "page": "https://freshcalendars.com/printable-calendars.html",
-     "impressions": 52,
+     "impressions": 54,
      "clicks": 2,
-     "position": 2.2
+     "position": 2.4
     }
    ],
-   "total": 158
+   "total": 165
   }
  ],
  "image": {
   "pages": [
+   {
+    "page": "https://freshcalendars.com/news/week-numbers-2027-calendar-printable/",
+    "clicks": 55,
+    "impressions": 3958,
+    "position": 33.1
+   },
    {
     "page": "https://freshcalendars.com/news/november-2026-calendar-printable/",
     "clicks": 53,
@@ -1371,22 +1396,16 @@
     "position": 47.8
    },
    {
-    "page": "https://freshcalendars.com/news/week-numbers-2027-calendar-printable/",
-    "clicks": 47,
-    "impressions": 3608,
-    "position": 33.9
-   },
-   {
     "page": "https://freshcalendars.com/news/daylight-saving-time-ends-november-1-2026/",
     "clicks": 45,
-    "impressions": 16238,
+    "impressions": 16253,
     "position": 25.5
    },
    {
     "page": "https://freshcalendars.com/news/ramadan-2027-calendar-dates-timetable/",
-    "clicks": 40,
-    "impressions": 7400,
-    "position": 26.2
+    "clicks": 44,
+    "impressions": 7831,
+    "position": 26.5
    },
    {
     "page": "https://freshcalendars.com/news/january-2027-calendar-printable/",
@@ -1396,165 +1415,177 @@
    },
    {
     "page": "https://freshcalendars.com/news/julian-date-calendar-2027-2026-printable/",
-    "clicks": 30,
-    "impressions": 5443,
-    "position": 24.1
+    "clicks": 32,
+    "impressions": 5707,
+    "position": 24.2
    },
    {
     "page": "https://freshcalendars.com/news/gta-6-october-22-2026-what-is-confirmed-release-countdown/",
     "clicks": 26,
-    "impressions": 3697,
-    "position": 43.4
+    "impressions": 4162,
+    "position": 44.7
    },
    {
     "page": "https://freshcalendars.com/december-calendars.html",
     "clicks": 25,
-    "impressions": 9599,
-    "position": 76.1
+    "impressions": 10445,
+    "position": 75.5
    },
    {
     "page": "https://freshcalendars.com/printable-yearly-calendar.html",
     "clicks": 24,
-    "impressions": 16941,
-    "position": 60.1
-   },
-   {
-    "page": "https://freshcalendars.com/blank-calendars.html",
-    "clicks": 20,
-    "impressions": 4026,
-    "position": 64
+    "impressions": 17615,
+    "position": 60.2
    },
    {
     "page": "https://freshcalendars.com/news/hanukkah-2026-dates-calendar/",
-    "clicks": 20,
-    "impressions": 3324,
-    "position": 15
+    "clicks": 24,
+    "impressions": 3749,
+    "position": 15.2
+   },
+   {
+    "page": "https://freshcalendars.com/blank-calendars.html",
+    "clicks": 22,
+    "impressions": 4081,
+    "position": 64
    },
    {
     "page": "https://freshcalendars.com/news/november-2026-important-dates-days-until/",
     "clicks": 19,
-    "impressions": 9029,
-    "position": 41.3
+    "impressions": 9593,
+    "position": 41
    },
    {
     "page": "https://freshcalendars.com/news/why-thanksgiving-2026-is-november-26/",
-    "clicks": 17,
-    "impressions": 22206,
-    "position": 30.5
+    "clicks": 18,
+    "impressions": 25259,
+    "position": 31
    },
    {
     "page": "https://freshcalendars.com/news/hunters-moon-october-2026-full-moon-time/",
-    "clicks": 17,
-    "impressions": 10778,
+    "clicks": 18,
+    "impressions": 10875,
     "position": 28.6
+   },
+   {
+    "page": "https://freshcalendars.com/news/veterans-day-2026-wednesday-november-11/",
+    "clicks": 17,
+    "impressions": 10641,
+    "position": 29.1
    },
    {
     "page": "https://freshcalendars.com/news/national-cat-day-2026-thursday-october-29/",
     "clicks": 17,
-    "impressions": 3187,
+    "impressions": 3188,
     "position": 25.2
    },
    {
     "page": "https://freshcalendars.com/news/nhl-hometown-remix-jerseys-2026-27-unveil-date-game-schedule/",
     "clicks": 16,
-    "impressions": 7006,
+    "impressions": 7019,
     "position": 43.7
+   },
+   {
+    "page": "https://freshcalendars.com/news/downloads/lunar-new-year-2027/chinese-lunar-calendar-2027.pdf",
+    "clicks": 16,
+    "impressions": 594,
+    "position": 44.3
    },
    {
     "page": "https://freshcalendars.com/november-calendars.html",
     "clicks": 15,
-    "impressions": 10580,
-    "position": 74.7
+    "impressions": 10907,
+    "position": 75
    },
    {
     "page": "https://freshcalendars.com/news/veterans-day-free-meals-discounts/",
     "clicks": 15,
-    "impressions": 529,
-    "position": 33.4
-   },
-   {
-    "page": "https://freshcalendars.com/news/downloads/lunar-new-year-2027/chinese-lunar-calendar-2027.pdf",
-    "clicks": 15,
-    "impressions": 527,
-    "position": 44.1
+    "impressions": 600,
+    "position": 34.3
    },
    {
     "page": "https://freshcalendars.com/news/sample-ballot-by-zip-code-2026-texas-ballot/",
     "clicks": 15,
-    "impressions": 500,
-    "position": 54.5
+    "impressions": 511,
+    "position": 54.9
    },
    {
     "page": "https://freshcalendars.com/news/printable-pumpkin-carving-templates/",
     "clicks": 13,
-    "impressions": 7380,
+    "impressions": 7419,
     "position": 70.1
    },
    {
     "page": "https://freshcalendars.com/news/moon-phases-2027-full-moon-calendar/",
     "clicks": 13,
-    "impressions": 1784,
-    "position": 36.3
+    "impressions": 1849,
+    "position": 36.5
    },
    {
     "page": "https://freshcalendars.com/news/lunar-new-year-2027-year-of-the-goat/",
     "clicks": 13,
-    "impressions": 1702,
-    "position": 48.7
+    "impressions": 1762,
+    "position": 49.1
+   },
+   {
+    "page": "https://freshcalendars.com/news/sunset-times-after-daylight-saving-time-ends-2026/",
+    "clicks": 12,
+    "impressions": 11066,
+    "position": 30.5
    },
    {
     "page": "https://freshcalendars.com/october-calendars.html",
     "clicks": 12,
-    "impressions": 6292,
-    "position": 59.7
+    "impressions": 6301,
+    "position": 59.5
+   },
+   {
+    "page": "https://freshcalendars.com/january-calendars.html",
+    "clicks": 12,
+    "impressions": 5289,
+    "position": 69
    },
    {
     "page": "https://freshcalendars.com/news/world-series-2026-schedule-game-times-tv-channel/",
     "clicks": 12,
-    "impressions": 2316,
-    "position": 24.5
+    "impressions": 2327,
+    "position": 24.7
+   },
+   {
+    "page": "https://freshcalendars.com/news/native-american-heritage-month-2026-theme-events-books-activities/",
+    "clicks": 12,
+    "impressions": 2019,
+    "position": 22.2
    },
    {
     "page": "https://freshcalendars.com/printable-blank-yearly-calendar.html",
     "clicks": 12,
-    "impressions": 716,
-    "position": 41.2
+    "impressions": 717,
+    "position": 41.1
    },
    {
-    "page": "https://freshcalendars.com/news/sunset-times-after-daylight-saving-time-ends-2026/",
+    "page": "https://freshcalendars.com/news/friday-the-13th-november-13-2026-next-friday-13th-dates/",
     "clicks": 11,
-    "impressions": 10942,
-    "position": 30.5
-   },
-   {
-    "page": "https://freshcalendars.com/news/veterans-day-2026-wednesday-november-11/",
-    "clicks": 11,
-    "impressions": 8351,
-    "position": 30
-   },
-   {
-    "page": "https://freshcalendars.com/january-calendars.html",
-    "clicks": 11,
-    "impressions": 4607,
-    "position": 70.4
-   },
-   {
-    "page": "https://freshcalendars.com/news/native-american-heritage-month-2026-theme-events-books-activities/",
-    "clicks": 11,
-    "impressions": 1910,
-    "position": 21.5
+    "impressions": 4963,
+    "position": 19
    },
    {
     "page": "https://freshcalendars.com/news/day-of-the-dead-2026-dia-de-los-muertos-dates/",
     "clicks": 10,
-    "impressions": 16297,
-    "position": 25.5
+    "impressions": 16623,
+    "position": 25.6
+   },
+   {
+    "page": "https://freshcalendars.com/june-calendars.html",
+    "clicks": 10,
+    "impressions": 2016,
+    "position": 46.9
    },
    {
     "page": "https://freshcalendars.com/news/canada-statutory-holidays-2027-federal-general-holidays/",
     "clicks": 10,
-    "impressions": 1216,
-    "position": 32.4
+    "impressions": 1251,
+    "position": 32.6
    },
    {
     "page": "https://freshcalendars.com/news/december-2026-calendar-printable/",
@@ -1563,46 +1594,34 @@
     "position": 43.9
    },
    {
-    "page": "https://freshcalendars.com/news/friday-the-13th-november-13-2026-next-friday-13th-dates/",
-    "clicks": 9,
-    "impressions": 4268,
-    "position": 19.4
-   },
-   {
     "page": "https://freshcalendars.com/february-calendars.html",
     "clicks": 9,
-    "impressions": 3888,
-    "position": 60.7
+    "impressions": 3915,
+    "position": 60.8
    },
    {
     "page": "https://freshcalendars.com/news/nations-championship-rugby-november-2026-fixtures-kick-off-times-uk-us/",
     "clicks": 9,
-    "impressions": 319,
-    "position": 29.4
+    "impressions": 392,
+    "position": 29.2
    },
    {
     "page": "https://freshcalendars.com/news/all-saints-day-2026-holy-day-of-obligation-all-souls-day/",
     "clicks": 8,
-    "impressions": 20068,
-    "position": 35
+    "impressions": 20144,
+    "position": 35.1
    },
    {
-    "page": "https://freshcalendars.com/june-calendars.html",
-    "clicks": 8,
-    "impressions": 1974,
-    "position": 46.8
+    "page": "https://freshcalendars.com/news/diwali-2026-date-lakshmi-puja-time-usa/",
+    "clicks": 7,
+    "impressions": 14946,
+    "position": 36.4
    },
    {
     "page": "https://freshcalendars.com/news/uk-europe-clocks-go-back-october-25-2026-time-difference/",
     "clicks": 7,
-    "impressions": 8214,
+    "impressions": 8220,
     "position": 24.3
-   },
-   {
-    "page": "https://freshcalendars.com/news/canada-clocks-fall-back-november-1-2026-which-provinces-no-time-change/",
-    "clicks": 7,
-    "impressions": 3649,
-    "position": 32.1
    }
   ],
   "gaps": [
@@ -1622,134 +1641,146 @@
    {
     "page": "https://freshcalendars.com/news/is-election-day-a-holiday-2026-whats-open/",
     "clicks": 478,
-    "impressions": 17045,
+    "impressions": 17053,
     "position": 6.7
    },
    {
     "page": "https://freshcalendars.com/news/sample-ballot-by-zip-code-2026-texas-ballot/",
     "clicks": 325,
-    "impressions": 29204,
+    "impressions": 29208,
     "position": 8.7
    },
    {
     "page": "https://freshcalendars.com/news/free-rides-to-the-polls-2026-lyft-uber-transit/",
-    "clicks": 282,
-    "impressions": 3306,
-    "position": 7.2
+    "clicks": 283,
+    "impressions": 3312,
+    "position": 7.3
    },
    {
     "page": "https://freshcalendars.com/news/nyt-connections-hints-answers-november-1-2026-1239/",
     "clicks": 199,
-    "impressions": 28942,
+    "impressions": 28978,
     "position": 7.8
    },
    {
     "page": "https://freshcalendars.com/news/day-of-the-dead-2026-dia-de-los-muertos-dates/",
-    "clicks": 169,
-    "impressions": 26544,
+    "clicks": 172,
+    "impressions": 27152,
     "position": 7
+   },
+   {
+    "page": "https://freshcalendars.com/news/great-british-bake-off-2026-free-from-week-tuesday-3-november-episode-schedule/",
+    "clicks": 144,
+    "impressions": 8520,
+    "position": 6.9
    },
    {
     "page": "https://freshcalendars.com/news/nhl-hometown-remix-jerseys-2026-27-unveil-date-game-schedule/",
     "clicks": 143,
-    "impressions": 3154,
+    "impressions": 3159,
     "position": 7.8
-   },
-   {
-    "page": "https://freshcalendars.com/news/great-british-bake-off-2026-free-from-week-tuesday-3-november-episode-schedule/",
-    "clicks": 139,
-    "impressions": 8269,
-    "position": 6.9
    },
    {
     "page": "https://freshcalendars.com/news/nyt-connections-hints-answers-october-26-2026-1233/",
     "clicks": 136,
-    "impressions": 14236,
+    "impressions": 14241,
     "position": 7.9
    },
    {
     "page": "https://freshcalendars.com/news/downloads/november-2026-calendar/november-2026-gratitude-calendar.pdf",
-    "clicks": 103,
-    "impressions": 420,
+    "clicks": 112,
+    "impressions": 444,
     "position": 3.1
    },
    {
     "page": "https://freshcalendars.com/news/printable-pumpkin-carving-templates/",
     "clicks": 82,
-    "impressions": 1671,
+    "impressions": 1679,
     "position": 10.1
    },
    {
     "page": "https://freshcalendars.com/news/nyt-connections-hints-answers-november-4-2026-1242/",
     "clicks": 78,
-    "impressions": 6693,
+    "impressions": 6880,
     "position": 7.4
    },
    {
     "page": "https://freshcalendars.com/news/nyt-connections-hints-answers-october-30-2026-1237/",
     "clicks": 75,
-    "impressions": 14442,
+    "impressions": 14449,
     "position": 7.9
    },
    {
     "page": "https://freshcalendars.com/news/printable-nfl-schedule-2026-2027-pdf/",
-    "clicks": 60,
-    "impressions": 1295,
-    "position": 6.9
+    "clicks": 75,
+    "impressions": 1773,
+    "position": 6.6
    },
    {
     "page": "https://freshcalendars.com/news/nyt-connections-hints-answers-november-5-2026-1243/",
-    "clicks": 53,
-    "impressions": 5464,
-    "position": 7
+    "clicks": 56,
+    "impressions": 8302,
+    "position": 7.5
    },
    {
     "page": "https://freshcalendars.com/news/brewers-world-series-parade-2026-friday-october-30-time-route-rally/",
     "clicks": 51,
-    "impressions": 2774,
+    "impressions": 2775,
     "position": 8.4
    },
    {
     "page": "https://freshcalendars.com/news/why-thanksgiving-2026-is-november-26/",
     "clicks": 49,
-    "impressions": 239726,
+    "impressions": 241376,
     "position": 3.3
    },
    {
     "page": "https://freshcalendars.com/news/nyt-spelling-bee-hints-answers-november-1-2026/",
     "clicks": 47,
-    "impressions": 1667,
+    "impressions": 1671,
     "position": 7.3
+   },
+   {
+    "page": "https://freshcalendars.com/news/thanksgiving-football-schedule-2026-nfl-college-games/",
+    "clicks": 45,
+    "impressions": 3298,
+    "position": 7
    },
    {
     "page": "https://freshcalendars.com/news/nyt-connections-hints-answers-november-3-2026-1241/",
     "clicks": 42,
-    "impressions": 3996,
+    "impressions": 4009,
     "position": 7
    },
    {
     "page": "https://freshcalendars.com/news/when-will-we-know-election-results-2026-midterms/",
     "clicks": 42,
-    "impressions": 871,
+    "impressions": 873,
     "position": 9.2
    },
    {
-    "page": "https://freshcalendars.com/news/thanksgiving-football-schedule-2026-nfl-college-games/",
+    "page": "https://freshcalendars.com/news/nyt-spelling-bee-hints-answers-november-4-2026/",
     "clicks": 41,
-    "impressions": 2709,
-    "position": 7.1
+    "impressions": 2046,
+    "position": 7
    },
    {
-    "page": "https://freshcalendars.com/news/nyt-spelling-bee-hints-answers-november-4-2026/",
-    "clicks": 38,
-    "impressions": 1928,
-    "position": 6.8
+    "page": "https://freshcalendars.com/news/downloads/lunar-new-year-2027/chinese-lunar-calendar-2027.pdf",
+    "clicks": 39,
+    "impressions": 602,
+    "position": 14.4
    },
    {
     "page": "https://freshcalendars.com/news/cbs-holiday-specials-2026-schedule-kids-choice-awards-soul-train-new-years-eve/",
-    "clicks": 36,
-    "impressions": 544,
-    "position": 4.1
+    "clicks": 38,
+    "impressions": 605,
+    "position": 4.3
+   },
+   {
+    "page": "https://freshcalendars.com/news/downloads/college-basketball-2026-27/feast-week-2026-college-basketball-tournament-calendar.pdf",
+    "clicks": 38,
+    "impressions": 166,
+    "position": 3.5
    },
    {
     "page": "https://freshcalendars.com/news/nyt-connections-hints-answers-october-27-2026-1234/",
@@ -1760,73 +1791,79 @@
    {
     "page": "https://freshcalendars.com/news/world-series-2026-schedule-game-times-tv-channel/",
     "clicks": 35,
-    "impressions": 2731,
+    "impressions": 2737,
     "position": 7.1
-   },
-   {
-    "page": "https://freshcalendars.com/news/downloads/lunar-new-year-2027/chinese-lunar-calendar-2027.pdf",
-    "clicks": 35,
-    "impressions": 572,
-    "position": 14.7
    },
    {
     "page": "https://freshcalendars.com/news/election-night-2026-tv-schedule-how-to-watch-results/",
     "clicks": 34,
-    "impressions": 585,
+    "impressions": 586,
     "position": 7.2
+   },
+   {
+    "page": "https://freshcalendars.com/news/week-numbers-2027-calendar-printable/",
+    "clicks": 33,
+    "impressions": 4713,
+    "position": 3.9
    },
    {
     "page": "https://freshcalendars.com/news/clark-county-school-district-calendar-2026-27-breaks/",
     "clicks": 31,
-    "impressions": 8660,
+    "impressions": 8665,
     "position": 6.3
    },
    {
     "page": "https://freshcalendars.com/news/nyt-connections-hints-answers-november-2-2026-1240/",
     "clicks": 31,
-    "impressions": 2874,
+    "impressions": 2882,
     "position": 7.6
-   },
-   {
-    "page": "https://freshcalendars.com/news/downloads/college-basketball-2026-27/feast-week-2026-college-basketball-tournament-calendar.pdf",
-    "clicks": 31,
-    "impressions": 129,
-    "position": 3.2
-   },
-   {
-    "page": "https://freshcalendars.com/news/week-numbers-2027-calendar-printable/",
-    "clicks": 29,
-    "impressions": 4496,
-    "position": 3.8
    },
    {
     "page": "https://freshcalendars.com/news/black-friday-2026-store-hours-walmart-target-best-buy/",
     "clicks": 29,
-    "impressions": 1532,
-    "position": 10.9
+    "impressions": 1656,
+    "position": 11.1
    },
    {
     "page": "https://freshcalendars.com/news/veterans-day-free-meals-discounts/",
     "clicks": 28,
-    "impressions": 3717,
+    "impressions": 3791,
     "position": 10.4
    },
    {
-    "page": "https://freshcalendars.com/news/native-american-heritage-month-2026-theme-events-books-activities/",
-    "clicks": 24,
-    "impressions": 6334,
-    "position": 2.1
+    "page": "https://freshcalendars.com/news/nyt-strands-hints-answers-november-5-2026-977/",
+    "clicks": 26,
+    "impressions": 3290,
+    "position": 7
    },
    {
     "page": "https://freshcalendars.com/news/black-friday-2026-ad-tracker-walmart-target-best-buy/",
+    "clicks": 25,
+    "impressions": 7764,
+    "position": 8
+   },
+   {
+    "page": "https://freshcalendars.com/news/native-american-heritage-month-2026-theme-events-books-activities/",
+    "clicks": 25,
+    "impressions": 6402,
+    "position": 2.2
+   },
+   {
+    "page": "https://freshcalendars.com/news/nyt-pips-hints-answers-november-5-2026/",
+    "clicks": 25,
+    "impressions": 879,
+    "position": 8.4
+   },
+   {
+    "page": "https://freshcalendars.com/news/sunset-times-after-daylight-saving-time-ends-2026/",
     "clicks": 24,
-    "impressions": 5840,
-    "position": 7.7
+    "impressions": 17454,
+    "position": 9.6
    },
    {
     "page": "https://freshcalendars.com/news/nyt-spelling-bee-hints-answers-october-30-2026/",
     "clicks": 24,
-    "impressions": 1317,
+    "impressions": 1319,
     "position": 6.8
    },
    {
@@ -1836,22 +1873,22 @@
     "position": 8.1
    },
    {
-    "page": "https://freshcalendars.com/news/sunset-times-after-daylight-saving-time-ends-2026/",
-    "clicks": 23,
-    "impressions": 17389,
-    "position": 9.6
-   },
-   {
     "page": "https://freshcalendars.com/news/nyt-spelling-bee-hints-answers-october-25-2026/",
     "clicks": 23,
-    "impressions": 1714,
-    "position": 7.3
+    "impressions": 1721,
+    "position": 7.4
    },
    {
     "page": "https://freshcalendars.com/news/nyt-spelling-bee-hints-answers-october-28-2026/",
     "clicks": 23,
-    "impressions": 1531,
+    "impressions": 1532,
     "position": 7.9
+   },
+   {
+    "page": "https://freshcalendars.com/news/feast-week-2026-college-basketball-tournaments-dates-maui-battle-4-atlantis-players-era/",
+    "clicks": 23,
+    "impressions": 314,
+    "position": 6.9
    },
    {
     "page": "https://freshcalendars.com/news/ballon-dor-2026-date-time-by-time-zone-nominees-london/",
@@ -1860,40 +1897,34 @@
     "position": 8.2
    },
    {
-    "page": "https://freshcalendars.com/news/nyt-strands-hints-answers-november-5-2026-977/",
-    "clicks": 22,
-    "impressions": 2335,
-    "position": 6.4
-   },
-   {
     "page": "https://freshcalendars.com/news/gta-6-october-22-2026-what-is-confirmed-release-countdown/",
     "clicks": 20,
-    "impressions": 1307,
+    "impressions": 1315,
     "position": 7.5
    },
    {
     "page": "https://freshcalendars.com/news/sports-on-tv-today-november-2-2026/",
     "clicks": 20,
-    "impressions": 1257,
+    "impressions": 1261,
     "position": 7.2
-   },
-   {
-    "page": "https://freshcalendars.com/news/nyt-pips-hints-answers-november-5-2026/",
-    "clicks": 20,
-    "impressions": 382,
-    "position": 6.7
    },
    {
     "page": "https://freshcalendars.com/news/wordle-hint-answer-today-november-1-2026-1961/",
     "clicks": 19,
-    "impressions": 5646,
+    "impressions": 5647,
     "position": 8.6
    },
    {
-    "page": "https://freshcalendars.com/news/feast-week-2026-college-basketball-tournaments-dates-maui-battle-4-atlantis-players-era/",
+    "page": "https://freshcalendars.com/news/downloads/social-security-2027/social-security-increase-2027-chart.pdf",
+    "clicks": 19,
+    "impressions": 339,
+    "position": 7.7
+   },
+   {
+    "page": "https://freshcalendars.com/news/julian-date-calendar-2027-2026-printable/",
     "clicks": 18,
-    "impressions": 277,
-    "position": 6.6
+    "impressions": 2484,
+    "position": 3.9
    },
    {
     "page": "https://freshcalendars.com/news/new-jersey-sample-ballot-2026-senate-early-voting/",
@@ -1908,12 +1939,6 @@
     "position": 2.7
    },
    {
-    "page": "https://freshcalendars.com/news/julian-date-calendar-2027-2026-printable/",
-    "clicks": 17,
-    "impressions": 2381,
-    "position": 3.9
-   },
-   {
     "page": "https://freshcalendars.com/news/nyt-spelling-bee-hints-answers-october-27-2026/",
     "clicks": 17,
     "impressions": 1484,
@@ -1922,8 +1947,8 @@
    {
     "page": "https://freshcalendars.com/news/mexico-city-day-of-the-dead-parade-2026-october-31-time-route-zocalo-ofrenda/",
     "clicks": 17,
-    "impressions": 979,
-    "position": 7.2
+    "impressions": 988,
+    "position": 7.3
    },
    {
     "page": "https://freshcalendars.com/news/november-2026-calendar-printable/",
@@ -1932,143 +1957,143 @@
     "position": 5.2
    },
    {
-    "page": "https://freshcalendars.com/news/downloads/social-security-2027/social-security-increase-2027-chart.pdf",
-    "clicks": 17,
-    "impressions": 308,
-    "position": 7.9
-   },
-   {
     "page": "https://freshcalendars.com/news/nyt-strands-hints-answers-november-3-2026-975/",
     "clicks": 16,
-    "impressions": 1884,
+    "impressions": 1888,
     "position": 7.2
    },
    {
     "page": "https://freshcalendars.com/news/king-tides-2026-dates-this-week-high-tide-times/",
     "clicks": 16,
-    "impressions": 1150,
+    "impressions": 1151,
     "position": 7.3
    },
    {
     "page": "https://freshcalendars.com/news/nyt-spelling-bee-hints-answers-november-2-2026/",
     "clicks": 16,
-    "impressions": 720,
-    "position": 6.3
+    "impressions": 737,
+    "position": 6.4
    },
    {
     "page": "https://freshcalendars.com/news/national-black-cat-day-2026-october-27/",
     "clicks": 15,
-    "impressions": 24390,
+    "impressions": 24395,
     "position": 2.1
    },
    {
     "page": "https://freshcalendars.com/news/wordle-hint-answer-today-october-26-2026-1955/",
     "clicks": 15,
-    "impressions": 4331,
+    "impressions": 4376,
     "position": 7.8
    },
    {
-    "page": "https://freshcalendars.com/news/next-saturday-halloween-2037-halloween-day-of-week-every-year/",
-    "clicks": 14,
-    "impressions": 48366,
-    "position": 9.2
+    "page": "https://freshcalendars.com/news/when-do-2026-election-winners-take-office-congress-governors/",
+    "clicks": 15,
+    "impressions": 288,
+    "position": 7.4
    },
    {
-    "page": "https://freshcalendars.com/news/nyt-connections-hints-answers-october-29-2026-1236/",
-    "clicks": 14,
-    "impressions": 4514,
-    "position": 7.4
+    "page": "https://freshcalendars.com/news/new-laws-january-1-2027-by-state/",
+    "clicks": 15,
+    "impressions": 195,
+    "position": 5.8
    }
   ],
   "calendar": [
    {
     "page": "https://freshcalendars.com/",
     "clicks": 65,
-    "impressions": 710,
-    "position": 33.3
+    "impressions": 698,
+    "position": 32.4
    },
    {
     "page": "https://freshcalendars.com/blank-calendars.html",
-    "clicks": 18,
-    "impressions": 449,
-    "position": 19.4
+    "clicks": 20,
+    "impressions": 460,
+    "position": 18.8
    },
    {
     "page": "https://freshcalendars.com/january-calendars.html",
     "clicks": 11,
-    "impressions": 387,
-    "position": 14.6
+    "impressions": 405,
+    "position": 14.2
    },
    {
     "page": "https://freshcalendars.com/monthly-calendars/",
     "clicks": 11,
-    "impressions": 174,
-    "position": 24
+    "impressions": 176,
+    "position": 23.7
    },
    {
     "page": "https://freshcalendars.com/october-calendars.html",
     "clicks": 7,
-    "impressions": 718,
-    "position": 10.5
-   },
-   {
-    "page": "https://freshcalendars.com/march-calendars.html",
-    "clicks": 6,
-    "impressions": 591,
-    "position": 8.4
+    "impressions": 696,
+    "position": 10.3
    },
    {
     "page": "https://freshcalendars.com/september-calendars.html",
     "clicks": 5,
-    "impressions": 2462,
-    "position": 7.7
+    "impressions": 2500,
+    "position": 7.6
    },
    {
     "page": "https://freshcalendars.com/april-calendars.html",
     "clicks": 5,
-    "impressions": 607,
-    "position": 8.9
+    "impressions": 679,
+    "position": 8.7
+   },
+   {
+    "page": "https://freshcalendars.com/march-calendars.html",
+    "clicks": 5,
+    "impressions": 554,
+    "position": 8.7
    },
    {
     "page": "https://freshcalendars.com/november-calendars.html",
     "clicks": 5,
-    "impressions": 405,
-    "position": 7.8
+    "impressions": 421,
+    "position": 7.6
    },
    {
     "page": "https://freshcalendars.com/printable-calendars.html",
     "clicks": 5,
-    "impressions": 271,
-    "position": 16.1
+    "impressions": 293,
+    "position": 16.7
    },
    {
     "page": "https://freshcalendars.com/calendars/",
     "clicks": 4,
-    "impressions": 69,
-    "position": 12.6
+    "impressions": 77,
+    "position": 12.9
    },
    {
     "page": "https://cdn.freshcalendars.com/assets/2027/yearly/monday-start/calendar.pdf",
     "clicks": 3,
-    "impressions": 154,
-    "position": 8.7
+    "impressions": 166,
+    "position": 8.6
    },
    {
     "page": "https://freshcalendars.com/canada-holidays/",
     "clicks": 2,
-    "impressions": 1057,
-    "position": 25.8
+    "impressions": 1063,
+    "position": 24.8
+   },
+   {
+    "page": "https://freshcalendars.com/may-calendars.html",
+    "clicks": 2,
+    "impressions": 388,
+    "position": 6.1
    },
    {
     "page": "https://freshcalendars.com/holidays/",
     "clicks": 2,
-    "impressions": 351,
-    "position": 41.9
+    "impressions": 359,
+    "position": 42.1
    },
    {
     "page": "https://freshcalendars.com/printable-yearly-calendar.html",
     "clicks": 2,
-    "impressions": 162,
+    "impressions": 181,
     "position": 5.6
    },
    {
@@ -2081,49 +2106,43 @@
     "page": "https://freshcalendars.com/when-is/christmas-day/",
     "clicks": 1,
     "impressions": 2351,
-    "position": 11.3
+    "position": 11.2
    },
    {
     "page": "https://freshcalendars.com/when-is/thanksgiving/",
     "clicks": 1,
-    "impressions": 671,
-    "position": 23.4
+    "impressions": 698,
+    "position": 23.8
    },
    {
     "page": "https://freshcalendars.com/when-is/new-years-day/",
     "clicks": 1,
-    "impressions": 634,
-    "position": 10.5
+    "impressions": 675,
+    "position": 10.4
    },
    {
     "page": "https://freshcalendars.com/uk-holidays/",
     "clicks": 1,
-    "impressions": 615,
+    "impressions": 632,
     "position": 49.1
    },
    {
     "page": "https://freshcalendars.com/june-calendars.html",
     "clicks": 1,
-    "impressions": 434,
+    "impressions": 440,
     "position": 10.1
-   },
-   {
-    "page": "https://freshcalendars.com/may-calendars.html",
-    "clicks": 1,
-    "impressions": 353,
-    "position": 6
    },
    {
     "page": "https://freshcalendars.com/printable-monday-start-calendar.html",
     "clicks": 1,
-    "impressions": 208,
-    "position": 36.1
+    "impressions": 213,
+    "position": 36.2
    },
    {
     "page": "https://freshcalendars.com/february-calendars.html",
     "clicks": 1,
-    "impressions": 138,
-    "position": 11.3
+    "impressions": 140,
+    "position": 11.5
    },
    {
     "page": "https://freshcalendars.com/printable-blank-yearly-calendar.html",
@@ -2134,8 +2153,8 @@
    {
     "page": "https://freshcalendars.com/page/about/",
     "clicks": 1,
-    "impressions": 106,
-    "position": 6.4
+    "impressions": 110,
+    "position": 6.3
    },
    {
     "page": "https://cdn.freshcalendars.com/assets/blank/classic/calendar.pdf",
@@ -2146,8 +2165,14 @@
    {
     "page": "https://freshcalendars.com/calendar-tools/",
     "clicks": 1,
-    "impressions": 20,
+    "impressions": 21,
     "position": 5.1
+   },
+   {
+    "page": "https://freshcalendars.com/assets/2027/yearly/holidays/calendar.pdf",
+    "clicks": 1,
+    "impressions": 5,
+    "position": 33.2
    },
    {
     "page": "https://cdn.freshcalendars.com/assets/2026/monthly/november/landscape-soft/calendar.pdf",
@@ -2162,12 +2187,6 @@
     "position": 1.7
    },
    {
-    "page": "https://freshcalendars.com/assets/2027/yearly/holidays/calendar.pdf",
-    "clicks": 1,
-    "impressions": 3,
-    "position": 36.7
-   },
-   {
     "page": "https://freshcalendars.com/assets/blank/landscape/calendar.pdf",
     "clicks": 1,
     "impressions": 3,
@@ -2176,14 +2195,14 @@
    {
     "page": "https://freshcalendars.com/august-calendars.html",
     "clicks": 0,
-    "impressions": 567,
-    "position": 7.4
+    "impressions": 639,
+    "position": 7.3
    },
    {
     "page": "https://freshcalendars.com/when-is/easter/",
     "clicks": 0,
-    "impressions": 498,
-    "position": 23.7
+    "impressions": 601,
+    "position": 21.2
    },
    {
     "page": "https://freshcalendars.com/printable-weekly-calendar.html",
@@ -2194,45 +2213,45 @@
    {
     "page": "https://freshcalendars.com/when-is/labor-day/",
     "clicks": 0,
-    "impressions": 373,
-    "position": 10.6
+    "impressions": 377,
+    "position": 10.5
    },
    {
     "page": "https://freshcalendars.com/when-is/columbus-day/",
     "clicks": 0,
-    "impressions": 226,
-    "position": 16.7
+    "impressions": 240,
+    "position": 15.7
    },
    {
     "page": "https://cdn.freshcalendars.com/assets/weekly/monday-start/calendar.pdf",
     "clicks": 0,
-    "impressions": 183,
+    "impressions": 191,
     "position": 48.9
    },
    {
     "page": "https://freshcalendars.com/when-is/new-years-eve/",
     "clicks": 0,
-    "impressions": 143,
-    "position": 34.4
+    "impressions": 144,
+    "position": 32.4
    },
    {
-    "page": "https://freshcalendars.com/december-calendars.html",
+    "page": "https://freshcalendars.com/july-calendars.html",
     "clicks": 0,
-    "impressions": 135,
-    "position": 12.6
+    "impressions": 139,
+    "position": 9.9
    }
   ]
  },
  "indexed": {
-  "checked": 56,
+  "checked": 58,
   "sampled": 90,
-  "indexed": 56,
+  "indexed": 58,
   "notIndexed": [
    {
     "url": "https://freshcalendars.com/news/catholic-liturgical-calendar-2027-year-b/",
     "status": "not indexed",
     "state": "Excluded by ‘noindex’ tag",
-    "age": 3
+    "age": 4
    }
   ],
   "states": {
@@ -2247,7 +2266,7 @@
    "errors": 0,
    "warnings": 0,
    "lastDownloaded": "2026-11-07T07:26:56.001Z",
-   "submitted": 1182
+   "submitted": 1224
   },
   {
    "path": "https://freshcalendars.com/news/news-sitemap.xml",
@@ -2276,7 +2295,7 @@
     "position": 6.8
    },
    "after": null,
-   "daysAfter": 1
+   "daysAfter": 2
   },
   {
    "slug": "julian-date-calendar-2027-2026-printable",
@@ -2336,9 +2355,9 @@
    "what": "title: \"GTA 6 Release Date Is Still Nov. 19: What Rockstar Has Confirmed and Every Date Until Launch\" → \"GTA 6 Release Date: Nov. 19, 2026, Pre-Load Nov. 10, Price and Every Official Date\"; seoTitle, description, first sentence",
    "before": {
     "clicks": 2,
-    "impressions": 102,
-    "ctr": 1.96,
-    "position": 6.2
+    "impressions": 110,
+    "ctr": 1.82,
+    "position": 6.1
    },
    "after": null,
    "daysAfter": 0
@@ -2349,8 +2368,8 @@
    "what": "seoTitle: \"What's Open on Thanksgiving 2026: Stores and Hours\" → \"Open or Closed on Thanksgiving 2026: Store Hours List\"; rows rechecked, new description",
    "before": {
     "clicks": 14,
-    "impressions": 1088,
-    "ctr": 1.29,
+    "impressions": 1097,
+    "ctr": 1.28,
     "position": 10.2
    },
    "after": null,
@@ -2362,9 +2381,9 @@
    "what": "title: \"Black Friday Canada 2026: Nov. 27 Date, Canadian Tire Deals From Nov. 5, Who Hasn't Announced\" → \"Black Friday 2026 Canada: Nov. 27 Sale Dates by Store, From Canadian Tire to Amazon.ca\"; seoTitle, description, rows rechecked",
    "before": {
     "clicks": 10,
-    "impressions": 10838,
+    "impressions": 11495,
     "ctr": 0.09,
-    "position": 10.8
+    "position": 10.9
    },
    "after": null,
    "daysAfter": 0
@@ -2375,9 +2394,48 @@
    "what": "title: \"Avatar: Seven Havens Release Schedule: When Episodes 7-9 and the Finale Arrive\" → \"Avatar: Seven Havens Release Schedule: Book One Is Complete, Book Two Date Not Yet Set\"; seoTitle, description, first sentence, Book Two section moved up",
    "before": {
     "clicks": 14,
-    "impressions": 4459,
+    "impressions": 4472,
     "ctr": 0.31,
     "position": 9
+   },
+   "after": null,
+   "daysAfter": 0
+  },
+  {
+   "slug": "baltimore-county-public-schools-calendar-2026-27-breaks",
+   "changedAt": "2026-11-07",
+   "what": "seoTitle: \"BCPS Calendar 2026-27: Breaks and Last Day\" → \"Baltimore County BCPS Calendar 2026-27: Breaks, Last Day\"; description and first paragraph lead with Thanksgiving Nov. 26-27",
+   "before": {
+    "clicks": 2,
+    "impressions": 1645,
+    "ctr": 0.12,
+    "position": 5.7
+   },
+   "after": null,
+   "daysAfter": 0
+  },
+  {
+   "slug": "thanksgiving-football-schedule-2026-nfl-college-games",
+   "changedAt": "2026-11-07",
+   "what": "title: \"Thanksgiving Football Schedule 2026: Every NFL and College Game From Wednesday to Saturday\" → \"Thanksgiving Football 2026: Bears-Lions, Eagles-Cowboys, Chiefs-Bills and College Games\"; seoTitle, description, first sentence",
+   "before": {
+    "clicks": 41,
+    "impressions": 3016,
+    "ctr": 1.36,
+    "position": 6.9
+   },
+   "after": null,
+   "daysAfter": 0
+  },
+  {
+   "slug": "king-tides-2026-dates-this-week-high-tide-times",
+   "changedAt": "2026-11-07",
+   "what": "seoTitle: \"King Tides 2026: California Dates and High Tide Times\" → \"King Tides 2026: Nov. 24-26 California Dates and Tide Times\"; description, first sentence and section order lead with Nov. 24-26",
+   "before": {
+    "clicks": 16,
+    "impressions": 1151,
+    "ctr": 1.39,
+    "position": 7.3
    },
    "after": null,
    "daysAfter": 0

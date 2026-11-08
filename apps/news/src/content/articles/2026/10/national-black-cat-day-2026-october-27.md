@@ -71,7 +71,7 @@ downloads:
 draft: false
 ---
 
-<p class="callout"><b>Last updated Wed. Oct. 28, 2026, 4:12 p.m. ET.</b> National Black Cat Day 2026 was Tuesday, Oct. 27. Next year the day falls on Wednesday, Oct. 27, 2027.</p>
+National Black Cat Day 2026 was Tuesday, Oct. 27. Next year the day falls on Wednesday, Oct. 27, 2027.
 
 **National Black Cat Day is observed on Oct. 27, which falls on a Tuesday in 2026.** Cats Protection, a charity in the United Kingdom (UK), says it launched the day on Oct. 27, 2011.
 

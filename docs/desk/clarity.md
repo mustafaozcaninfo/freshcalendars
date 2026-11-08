@@ -1,6 +1,6 @@
 # Microsoft Clarity (generated, do not edit)
 
-Read 2026-11-07T17:20 UTC from the Clarity Data Export API, last 24 hours (UTC). Sessions are Clarity's; bot sessions are counted apart. Heatmaps and recordings are in the Clarity dashboard. Source: `scripts/news-clarity.mjs`, daily.
+Read 2026-11-08T08:03 UTC from the Clarity Data Export API, last 24 hours (UTC). Sessions are Clarity's; bot sessions are counted apart. Heatmaps and recordings are in the Clarity dashboard. Source: `scripts/news-clarity.mjs`, daily.
 
 ## By page
 
@@ -276,6 +276,7 @@ Read 2026-11-07T17:20 UTC from the Clarity Data Export API, last 24 hours (UTC).
 
 ## Not available this run
 
+- pages: 429: Exceeded daily limit
 - channels: 429: Exceeded daily limit
 - devices: 429: Exceeded daily limit
 

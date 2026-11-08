@@ -151,12 +151,48 @@ export function beaconReport(b, days) {
   return out;
 }
 
+/**
+ * Cloudflare Web Analytics (the beacon Cloudflare adds to every page, bots left out): Core Web
+ * Vitals as Google scores them, per device, per page and per element. Account-level RUM datasets,
+ * read with the same Account Analytics Read token as the beacon (CF_AE_TOKEN). Times come in
+ * microseconds; `ms` converts.
+ */
+const RUM_FILTER = (since, until) => `{ AND: [{ datetime_geq: "${since}", datetime_lt: "${until}" }, { requestHost: "freshcalendars.com" }, { bot: 0 }] }`;
+const VITALS_SUM = "lcpGood lcpNeedsImprovement lcpPoor lcpTotal inpGood inpNeedsImprovement inpPoor inpTotal clsGood clsNeedsImprovement clsPoor clsTotal";
+const VITALS_Q = "largestContentfulPaintP75 interactionToNextPaintP75 cumulativeLayoutShiftP75";
+export const RUM_QUERIES = {
+  devices: (f) => `rumWebVitalsEventsAdaptiveGroups(limit: 10, filter: ${f}, orderBy: [count_DESC]) { count sum { ${VITALS_SUM} } quantiles { ${VITALS_Q} } dimensions { deviceType } }`,
+  pages: (f) => `rumWebVitalsEventsAdaptiveGroups(limit: 40, filter: ${f}, orderBy: [count_DESC]) { count sum { ${VITALS_SUM} } quantiles { ${VITALS_Q} } dimensions { requestPath } }`,
+  inpElements: (f) => `rumWebVitalsEventsAdaptiveGroups(limit: 12, filter: { AND: [${f}, { interactionToNextPaint_gt: 200 }] }, orderBy: [count_DESC]) { count dimensions { interactionToNextPaintElement interactionToNextPaintPath } }`,
+  lcpElements: (f) => `rumWebVitalsEventsAdaptiveGroups(limit: 10, filter: ${f}, orderBy: [count_DESC]) { count quantiles { largestContentfulPaintP75 } dimensions { largestContentfulPaintElement } }`,
+  visits: (f) => `rumPageloadEventsAdaptiveGroups(limit: 10, filter: ${f}, orderBy: [date_ASC]) { count sum { visits } dimensions { date } }`,
+};
+/** Milliseconds from a RUM time: the API reports LCP and INP in microseconds (an INP p75 of 40000 is 40 ms). */
+export const ms = (v) => Number(v ?? 0) / 1000;
+const share = (good, total) => (total ? `${Math.round((100 * good) / total)}%` : "-");
+
+/** The Core Web Vitals section of the report. */
+export function rumReport(r) {
+  const fmt = (n) => Math.round(n).toLocaleString("en-US");
+  const out = ["## Core Web Vitals (Cloudflare Web Analytics)", "", "Measured in real browsers by the Cloudflare beacon, bots left out, last 7 days. Google's \"good\" limits at the 75th percentile: Largest Contentful Paint (LCP) 2.5 s, Interaction to Next Paint (INP) 200 ms, Cumulative Layout Shift (CLS) 0.1.", ""];
+  if (r.visits?.length) out.push(`Page loads: ${r.visits.map((v) => `${v.dimensions.date} ${fmt(v.count)}`).join(" · ")}`, "");
+  const row = (label, x) => `| ${label} | ${fmt(x.count)} | ${(ms(x.quantiles?.largestContentfulPaintP75) / 1000).toFixed(2)} s (${share(x.sum?.lcpGood, x.sum?.lcpTotal)} good) | ${fmt(ms(x.quantiles?.interactionToNextPaintP75))} ms (${share(x.sum?.inpGood, x.sum?.inpTotal)} good) | ${Number(x.quantiles?.cumulativeLayoutShiftP75 ?? 0).toFixed(3)} (${share(x.sum?.clsGood, x.sum?.clsTotal)} good) |`;
+  if (r.devices?.length) out.push("| Device | Samples | LCP p75 | INP p75 | CLS p75 |", "|---|---:|---:|---:|---:|", ...r.devices.map((x) => row(x.dimensions.deviceType || "(unknown)", x)), "");
+  const slow = (r.pages ?? []).filter((x) => x.count >= 10 && (ms(x.quantiles?.largestContentfulPaintP75) > 2500 || ms(x.quantiles?.interactionToNextPaintP75) > 200 || Number(x.quantiles?.cumulativeLayoutShiftP75) > 0.1));
+  out.push("Pages over a limit (10+ samples):", "", ...(slow.length ? ["| Page | Samples | LCP p75 | INP p75 | CLS p75 |", "|---|---:|---:|---:|---:|", ...slow.slice(0, 15).map((x) => row(x.dimensions.requestPath, x))] : ["- none"]), "");
+  if (r.inpElements?.length) out.push("Elements behind slow taps (INP over 200 ms):", "", ...r.inpElements.map((x) => `- ${x.dimensions.interactionToNextPaintElement || "(unknown)"} on ${x.dimensions.interactionToNextPaintPath || "?"}: ${fmt(x.count)}`), "");
+  if (r.lcpElements?.length) out.push("What the largest paint is:", "", ...r.lcpElements.map((x) => `- ${x.dimensions.largestContentfulPaintElement || "(unknown)"}: ${fmt(x.count)} samples, p75 ${(ms(x.quantiles?.largestContentfulPaintP75) / 1000).toFixed(2)} s`), "");
+  return out;
+}
+
 export function report({ days, now, sections }) {
   const fmt = (n) => n.toLocaleString("en-US");
   const out = [`# Traffic (generated, do not edit)`, "",
     `Read ${iso(now).slice(0, 16)} UTC from Cloudflare's edge analytics for ${HOST}, last ${days} days (UTC days). Every page the edge served to a real browser counts, so these numbers are higher than Google Analytics, which misses ad-blocked visits and readers who leave before the page finishes loading. Self-declared bots are left out; unlabeled bots are not, and they are many: real search traffic is mostly mobile, so a desktop share far above half means bots and crawlers inflate these totals. Treat them as an upper bound and use the trend and the story ranking. Source: \`scripts/news-traffic.mjs\`, daily.`, ""];
   const s = sections;
-  if (s.beacon) out.push(...beaconReport(s.beacon, days), "## Edge requests (upper bound)", "");
+  if (s.beacon) out.push(...beaconReport(s.beacon, days));
+  if (s.rum) out.push(...rumReport(s.rum));
+  if (s.beacon || s.rum) out.push("## Edge requests (upper bound)", "");
   if (s.newsDaily && s.calendarDaily && s.pdfDaily) {
     out.push("## Page views per day", "", "| Day | /news/ stories | Calendar pages | Printable PDFs |", "|---|---:|---:|---:|");
     s.newsDaily.forEach((r, i) => out.push(`| ${r.day} | ${fmt(r.count)} | ${fmt(s.calendarDaily[i]?.count ?? 0)} | ${fmt(s.pdfDaily[i]?.count ?? 0)} |`));
@@ -255,6 +291,26 @@ if (import.meta.url === `file://${process.argv[1]}`) {
       if (e.code !== "ENOENT") sections.failed.push(`beacon experiments: ${e.message}`);
     }
   } else sections.failed.push("beacon: CF_AE_TOKEN or CF_ACCOUNT_ID not set (Account Analytics Read token, see docs/ANALYTICS.md)");
+  // Cloudflare Web Analytics (RUM): the same token, account-level GraphQL.
+  if (aeToken && account) {
+    sections.rum = {};
+    const until = iso(now), since = iso(new Date(now.getTime() - 7 * 86_400_000));
+    for (const [name, q] of Object.entries(RUM_QUERIES)) {
+      try {
+        const res = await fetch("https://api.cloudflare.com/client/v4/graphql", {
+          method: "POST", headers: { authorization: `Bearer ${aeToken}`, "content-type": "application/json" },
+          body: JSON.stringify({ query: `query { viewer { accounts(filter: { accountTag: "${account}" }) { ${q(RUM_FILTER(since, until))} } } }` }),
+          signal: AbortSignal.timeout(30_000),
+        });
+        const body = await res.json().catch(() => ({}));
+        if (!res.ok || body.errors?.length) throw new Error(`${res.status}: ${body.errors?.map((e) => e.message).join("; ") ?? "no body"}`);
+        sections.rum[name] = Object.values(body.data?.viewer?.accounts?.[0] ?? {})[0] ?? [];
+      } catch (e) {
+        sections.failed.push(`web analytics ${name}: ${e.message}`);
+        console.log(`::warning::traffic: web analytics ${name}: ${e.message}`);
+      }
+    }
+  }
   const md = report({ days, now, sections });
   if (args.includes("--stdout")) console.log(md);
   else {

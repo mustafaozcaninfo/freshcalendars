@@ -84,7 +84,7 @@ downloads:
 draft: false
 ---
 
-<p class="callout"><b>Last updated Oct. 28, 2026, 7:45 a.m. ET.</b> SoftBank won Game 4, 4-2, and swept the series 4-0. Games 5 to 7 will not be played. The schedule and times below are kept as a record.</p>
+SoftBank won Game 4, 4-2, and swept the series 4-0. Games 5 to 7 will not be played. The schedule and times below are kept as a record.
 
 **The Fukuoka SoftBank Hawks won the 2026 Japan Series on Wednesday, Oct. 28, beating the Yokohama DeNA BayStars 4-2 in Game 4 at Mizuho PayPay Dome Fukuoka, according to Nippon Professional Baseball (NPB).** Game 4 began at 6 p.m. Japan Standard Time (JST), which was 5 a.m. Eastern Time (ET). SoftBank swept the best-of-seven series 4-0, and NPB lists it as the club's second straight title and its 13th.
 

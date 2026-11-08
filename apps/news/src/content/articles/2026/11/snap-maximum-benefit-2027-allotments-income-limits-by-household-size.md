@@ -4,6 +4,7 @@ seoTitle: "SNAP Maximum Benefit 2027 by Household Size"
 description: "The Supplemental Nutrition Assistance Program (SNAP) maximum for fiscal year (FY) 2027 is $306 for one person and $1,023 for four, with income limits."
 type: news
 publishedAt: "2026-11-04T07:35:00-05:00"
+updatedAt: "2026-11-08T02:48:27-05:00"
 authors: [aaron-kessler]
 category: money-benefits
 keywords: ["snap maximum benefit 2027", "snap income limits 2027", "snap benefit amounts 2027", "how much snap for family of 4 2027"]
@@ -117,7 +118,7 @@ The table gives the maximum monthly allotment from the FNS COLA page for the 48 
 | 8 people | $1,841 | $230.13 |
 | Each additional person | $225 | Not applicable |
 
-A household of one gets the most per person, and the per-person amount falls as the household grows. FNS also lists a minimum benefit of $25 for households of one or two people in the 48 states and DC. The maximum is the most a household can get; it is not what every household receives.
+A household of one gets the most per person, and the per-person amount mostly falls as the household grows; the one exception is six people, at $243.83 a person, slightly more than the $243.40 for five. FNS also lists a minimum benefit of $25 for households of one or two people in the 48 states and DC. The maximum is the most a household can get; it is not what every household receives.
 
 ## What are the SNAP income limits for 2027?
 

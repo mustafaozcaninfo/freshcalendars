@@ -4,7 +4,7 @@ seoTitle: "When Will We Know 2026 Midterm Election Results?"
 description: "Polls closed Nov. 3, 2026, but counting takes days in some states. When mail ballots are counted in 17 key states, late-ballot rules and certification dates."
 type: explainer
 publishedAt: "2026-10-21T00:30:00-04:00"
-updatedAt: "2026-11-07T21:19:00-05:00"
+updatedAt: "2026-11-08T03:25:00-05:00"
 authors: [christina-gerland]
 category: elections
 keywords: ["when will we know election results 2026", "when will election results start coming in", "2026 midterm results timeline", "election results by state 2026", "when are election results certified"]
@@ -132,7 +132,7 @@ California's Secretary of State now prints the main dates on its elections page:
 
 In Clark County, Nevada, voters can fix a mail ballot signature problem until 5 p.m. on Nov. 9, according to the county Election Department.
 
-Three more states are still receiving or curing ballots. Oregon's Secretary of State now lists the dates on its current-election page: the "Last day for counties to receive valid postmarked ballots by mail" is Tuesday, Nov. 10, the "Last day to resolve ballot challenges" is Tuesday, Nov. 24, and Oregon says final results "will be certified and made available on December 10." In Colorado, the Secretary of State's Nov. 2 release says results "will be updated at least once every weekday by 4:00 PM MT through the cure deadline on November 12," which is 4 p.m. Mountain Time (MT), or 6 p.m. ET, and that "after that, election workers will continue to count ballots." Its Nov. 6 release repeats the cure deadline: "Voters have until November 12 to correct any signature or ID issue with their 2026 General Election ballot," through their county or the Colorado BallotCure tool on GoVoteColorado.gov. The same release lists two later dates: Tuesday, Nov. 24, the "Deadline for county audit boards to report results of the bipartisan Risk Limiting Audit to the Secretary of State's Office," and Wednesday, Nov. 25, the "Deadline for county canvass boards to complete canvass and submit official election abstract to Secretary of State's Office."
+Three more states are still receiving or curing ballots. Oregon's Secretary of State now lists the dates on its current-election page: the "Last day for counties to receive valid postmarked ballots by mail" is Tuesday, Nov. 10, the "Last day to resolve ballot challenges" is Tuesday, Nov. 24, and Oregon says final results "will be certified and made available on December 10." In Colorado, the Secretary of State's Nov. 2 release says results "will be updated at least once every weekday by 4:00 PM MT through the cure deadline on November 12," which is 4 p.m. Mountain Time (MT), or 6 p.m. ET, and that "after that, election workers will continue to count ballots." Its Nov. 6 release repeats the cure deadline: "Voters have until November 12 to correct any signature or ID issue with their 2026 General Election ballot," through their county or the Colorado BallotCure tool on GoVoteColorado.gov. The same release lists four later dates: Monday, Nov. 16, the "Deadline for the Secretary of State's Office to establish the 20-digit random seed for the bipartisan Risk Limiting Audit and notify counties of the ballots selected for audit"; Tuesday, Nov. 24, the "Deadline for county audit boards to report results of the bipartisan Risk Limiting Audit to the Secretary of State's Office"; Wednesday, Nov. 25, the "Deadline for county canvass boards to complete canvass and submit official election abstract to Secretary of State's Office"; and Friday, Nov. 27, the "Deadline for Secretary of State's Office to order a statutory recount, if required."
 
 The Pennsylvania Department of State lists Nov. 10 as the last day for county election offices to receive completed military and overseas absentee ballots that were submitted for delivery no later than 11:59 p.m. on Nov. 2, so Pennsylvania counties can still receive those ballots.
 
@@ -209,9 +209,10 @@ In Watson v. Republican National Committee, decided June 29, 2026, the U.S. Supr
 |---|---|
 | Nov. 4-10 | Late mail ballots arrive in grace-period states (Texas Nov. 4, Nevada Nov. 7, California, New York and Oregon Nov. 10); Pennsylvania receives military and overseas ballots until Nov. 10 |
 | Nov. 12 | Colorado signature cure deadline; Colorado's weekday results updates by 4 p.m. MT run through this date |
-| Nov. 16 | California counties finish reporting all ballots, with some exceptions (computed from the Secretary of State's 13-day rule) |
+| Nov. 16 | California counties finish reporting all ballots, with some exceptions (computed from the Secretary of State's 13-day rule); Colorado's Secretary of State sets the random seed for the Risk Limiting Audit and tells counties which ballots to audit |
 | Nov. 24 | Oregon's last day to resolve ballot challenges, per the Secretary of State; Colorado county audit boards report Risk Limiting Audit results, per the Colorado Secretary of State |
 | Nov. 25 | Colorado county canvass boards complete the canvass and submit the official election abstract, per the Colorado Secretary of State |
+| Nov. 27 | Colorado's deadline for the Secretary of State to order a statutory recount, if one is required |
 | Mid-November | Counties finish canvassing; ranked-choice rounds in Maine; Alaska's tabulation is scheduled for Nov. 18 |
 | Dec. 1 | Georgia runoff, if needed |
 | Dec. 3 | California counties complete final official results, per the Secretary of State |
