@@ -58,9 +58,11 @@ if (import.meta.url === `file://${process.argv[1]}`) {
   // last good data of a view that fails.
   let last = null;
   try { last = JSON.parse(readFileSync(path.join(ROOT, "docs/desk/clarity.json"), "utf8")); } catch {}
-  const fresh = last && !last.failed?.length && now - Date.parse(last.generatedAt) < 20 * 3_600_000;
-  if (fresh && !process.argv.includes("--force")) {
-    console.log(`clarity: last complete read ${last.generatedAt} is under 20 hours old; not read again`);
+  // The 10 requests are counted over a rolling 24 hours (a read at 08:00 UTC still got 429 after
+  // nine reads the afternoon before), so read only 23 hours after the last complete read.
+  const lastOk = last?.lastOk ?? (last && !last.failed?.length ? last.generatedAt : null);
+  if (lastOk && now - Date.parse(lastOk) < 23 * 3_600_000 && !process.argv.includes("--force")) {
+    console.log(`clarity: last complete read ${lastOk} is under 23 hours old; not read again (rolling daily limit)`);
     process.exit(0);
   }
   for (const [view, dim] of Object.entries(VIEWS)) {
@@ -82,7 +84,7 @@ if (import.meta.url === `file://${process.argv[1]}`) {
   if (process.argv.includes("--stdout")) console.log(md);
   else {
     writeFileSync(path.join(ROOT, "docs/desk/clarity.md"), md + "\n");
-    writeFileSync(path.join(ROOT, "docs/desk/clarity.json"), JSON.stringify({ generatedAt: now.toISOString(), ...data, failed }, null, 1) + "\n");
+    writeFileSync(path.join(ROOT, "docs/desk/clarity.json"), JSON.stringify({ generatedAt: now.toISOString(), lastOk: failed.length ? lastOk : now.toISOString(), ...data, failed }, null, 1) + "\n");
     console.log(`clarity: wrote docs/desk/clarity.{md,json} (${failed.length} view(s) unavailable)`);
   }
 }
