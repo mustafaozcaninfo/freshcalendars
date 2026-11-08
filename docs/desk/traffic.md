@@ -9,14 +9,14 @@ Page views sent by the reader's own browser to /api/pv when they leave the page 
 | Day | Views | Avg. seconds on page | Avg. deepest scroll |
 |---|---:|---:|---:|
 | 2026-11-07 | 617 | 55 | 23% |
-| 2026-11-08 | 384 | 63 | 21% |
-| **Total** | **1,001** | | |
+| 2026-11-08 | 385 | 63 | 21% |
+| **Total** | **1,002** | | |
 
 ### Where readers came from
 
 | Source | Views | Share |
 |---|---:|---:|
-| Google | 216 | 21.6% |
+| Google | 217 | 21.7% |
 | Direct or app (no referrer) | 187 | 18.7% |
 | DuckDuckGo | 172 | 17.2% |
 | Bing | 167 | 16.7% |
@@ -42,37 +42,37 @@ Other sites, top 10: www.ecosia.org (13), search.brave.com (4), www.startpage.co
 | /news/snl-hosts-november-2026-halloween-episode-inde-navarrette-schedule/ | 16 | 60 | 20% |
 | /news/thanksgiving-football-schedule-2026-nfl-college-games/ | 15 | 51 | 17% |
 | /news/nations-championship-rugby-november-2026-fixtures-kick-off-times-uk-us/ | 13 | 81 | 30% |
-| /news/cbs-holiday-specials-2026-schedule-kids-choice-awards-soul-train-new-years-eve/ | 12 | 59 | 42% |
 | /news/black-friday-2026-post-office-banks-stock-market-open/ | 12 | 5 | 22% |
-| /news/nyt-connections-hints-answers-november-8-2026-1246/ | 11 | 82 | 19% |
-| /news/ncaa-volleyball-tournament-2026-bracket-schedule-final-four-san-antonio/ | 11 | 45 | 17% |
+| /news/cbs-holiday-specials-2026-schedule-kids-choice-awards-soul-train-new-years-eve/ | 12 | 59 | 42% |
 | /news/nyt-pips-hints-answers-november-8-2026/ | 11 | 21 | 27% |
+| /news/ncaa-volleyball-tournament-2026-bracket-schedule-final-four-san-antonio/ | 11 | 45 | 17% |
+| /news/nyt-connections-hints-answers-november-8-2026-1246/ | 11 | 82 | 19% |
 | /news/printable-nfl-pickem-sheets-2026/ | 10 | 14 | 16% |
+| /news/world-chess-championship-2026-gukesh-sindarov-geneva-dates-time/ | 9 | 5 | 23% |
 | /news/when-do-2026-election-winners-take-office-congress-governors/ | 9 | 66 | 24% |
 | /news/costco-holiday-hours-closures-2026-2027/ | 9 | 33 | 20% |
-| /news/world-chess-championship-2026-gukesh-sindarov-geneva-dates-time/ | 9 | 5 | 23% |
-| /news/printables/ | 8 | 5 | 5% |
+| /news/2027-tax-brackets-401k-hsa-limits-irs/ | 8 | 14 | 70% |
 | /news/diwali-2026-date-lakshmi-puja-time-usa/ | 8 | 43 | 19% |
 | /news/nyt-midi-crossword-answers-november-7-2026/ | 8 | 19 | 29% |
-| /news/2027-tax-brackets-401k-hsa-limits-irs/ | 8 | 14 | 70% |
 | /news/bonfire-night-2026-thursday-november-5-fireworks-rules/ | 8 | 6 | 13% |
+| /news/printables/ | 8 | 5 | 5% |
 | /news/winter-solstice-2026-december-21-shortest-day-sunset-times/ | 7 | 25 | 8% |
 | /news/holiday-menus-2026-every-chain-tracker/ | 7 | 34 | 29% |
 | /news/ramadan-2027-calendar-dates-timetable/ | 7 | 19 | 14% |
 | /news/snap-payment-schedule-november-2026-deposit-dates-by-state/ | 7 | 41 | 18% |
+| /news/nyt-connections-hints-answers-november-9-2026-1247/ | 6 | 43 | 25% |
+| /news/great-american-christmas-2026-movie-schedule-great-american-family/ | 6 | 40 | 28% |
 | /news/black-friday-2026-ad-tracker-walmart-target-best-buy/ | 6 | 399 | 30% |
 | /news/remembrance-sunday-2026-cenotaph-timings-8-november-festival-of-remembrance/ | 6 | 37 | 28% |
-| /news/great-american-christmas-2026-movie-schedule-great-american-family/ | 6 | 40 | 28% |
-| /news/nyt-connections-hints-answers-november-9-2026-1247/ | 6 | 43 | 25% |
 | /news/printable-nfl-schedule-2026-2027-pdf/ | 6 | 30 | 7% |
-| /news/category/puzzles/ | 5 | 4 | 8% |
-| /news/rosa-parks-day-2026-december-1-states/ | 5 | 5 | 15% |
 | /news/nyt-spelling-bee-hints-answers-november-8-2026/ | 5 | 11 | 21% |
-| /news/what-calendar-year-is-the-same-as-2027/ | 5 | 25 | 14% |
-| /news/great-british-bake-off-2026-free-from-week-tuesday-3-november-episode-schedule/ | 5 | 18 | 13% |
+| /news/rosa-parks-day-2026-december-1-states/ | 5 | 5 | 15% |
 | /news/when-are-2026-election-results-certified-deadlines-by-state/ | 5 | 39 | 16% |
+| /news/what-calendar-year-is-the-same-as-2027/ | 5 | 25 | 14% |
+| /news/category/puzzles/ | 5 | 4 | 8% |
+| /news/great-british-bake-off-2026-free-from-week-tuesday-3-november-episode-schedule/ | 5 | 18 | 13% |
 
-Devices: desktop 516 (62 s, 25% scroll) · mobile 472 (54 s, 19% scroll) · tablet 13 (76 s, 23% scroll)
+Devices: desktop 517 (62 s, 25% scroll) · mobile 472 (54 s, 19% scroll) · tablet 13 (76 s, 23% scroll)
 
 ### Interaction to Next Paint (INP): how fast the page answers a tap
 
@@ -81,7 +81,7 @@ Views where the reader tapped, clicked or typed. Google counts a page as good wh
 | Device | Views with a tap | Over 200 ms | Avg. slowest interaction |
 |---|---:|---:|---:|
 | mobile | 71 | 7.0% | 83 ms |
-| desktop | 48 | 14.6% | 169 ms |
+| desktop | 49 | 14.3% | 167 ms |
 | tablet | 1 | 0.0% | 40 ms |
 
 Pages with the most slow taps:
@@ -114,7 +114,7 @@ What was tapped, and the script that ran longest in that frame:
 | a | (none over 50 ms) | 1 | 240 ms | 9 ms |
 | p.news-lede | (none over 50 ms) | 1 | 528 ms | 513 ms |
 
-Countries: US 650 · TR 160 · GB 45 · CA 34 · AU 28 · FR 9 · ID 5 · PL 5 · NZ 5 · NL 5 · PT 3 · HT 3 · CO 3 · ZA 3 · PH 3
+Countries: US 650 · TR 160 · GB 45 · CA 34 · AU 29 · FR 9 · ID 5 · PL 5 · NZ 5 · NL 5 · PT 3 · HT 3 · CO 3 · ZA 3 · PH 3
 
 ## Edge requests (upper bound)
 

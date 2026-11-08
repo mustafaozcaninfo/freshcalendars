@@ -1,6 +1,6 @@
 # Reader signals (generated, do not edit)
 
-Built 2026-11-08T08:03 UTC by `scripts/news-readers.mjs` from the first-party beacon (last 7 days, `traffic.md`) and Microsoft Clarity (last 24 hours, `clarity.md`). What each desk does with it: `docs/DESK.md`, "Reader data". Puzzle pages are left out of the desk lists (the puzzle desk owns them).
+Built 2026-11-08T08:13 UTC by `scripts/news-readers.mjs` from the first-party beacon (last 7 days, `traffic.md`) and Microsoft Clarity (last 24 hours, `clarity.md`). What each desk does with it: `docs/DESK.md`, "Reader data". Puzzle pages are left out of the desk lists (the puzzle desk owns them).
 
 ## Readers leave fast (search desk: UX briefs)
 
@@ -48,7 +48,7 @@ Beacon views of the last 7 days against the 7 before, per category, and views pe
 | puzzles | 128 | 0 | new | 27 | 5 | 41 |
 | uk-canada | 72 | 0 | new | 17 | 4 | 63 |
 | entertainment | 58 | 0 | new | 16 | 4 | 39 |
-| retail-dates | 54 | 0 | new | 19 | 3 | 89 |
+| retail-dates | 55 | 0 | new | 20 | 3 | 88 |
 | school-calendars | 32 | 0 | new | 20 | 2 | 20 |
 | calendar-guides | 29 | 0 | new | 15 | 2 | 101 |
 | money-benefits | 28 | 0 | new | 10 | 3 | 42 |

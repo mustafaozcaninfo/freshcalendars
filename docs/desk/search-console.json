@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-08T08:03:37.314Z",
+ "generatedAt": "2026-11-08T08:12:35.615Z",
  "site": "sc-domain:freshcalendars.com",
  "windows": [
   {
@@ -2246,9 +2246,17 @@
   "checked": 57,
   "sampled": 90,
   "indexed": 57,
-  "notIndexed": [],
+  "notIndexed": [
+   {
+    "url": "https://freshcalendars.com/news/catholic-liturgical-calendar-2027-year-b/",
+    "status": "not indexed",
+    "state": "Excluded by ‘noindex’ tag",
+    "age": 4
+   }
+  ],
   "states": {
-   "Submitted and indexed": 90
+   "Submitted and indexed": 89,
+   "Excluded by ‘noindex’ tag": 1
   },
   "unknown": 0
  },

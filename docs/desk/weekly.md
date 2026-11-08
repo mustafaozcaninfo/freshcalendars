@@ -1,17 +1,17 @@
 # The week in numbers (generated, do not edit)
 
-Built 2026-11-08T08:03 UTC. Last 7 days against the 7 before. Sources: `traffic.md` (beacon), `clarity.md`, `search-console.md`. How to read them: `docs/ANALYTICS.md`.
+Built 2026-11-08T08:13 UTC. Last 7 days against the 7 before. Sources: `traffic.md` (beacon), `clarity.md`, `search-console.md`. How to read them: `docs/ANALYTICS.md`.
 
 ## Real readers (beacon)
 
 | | This week | Week before | Change |
 |---|---:|---:|---:|
-| Page views | 1,001 | 0 | new |
+| Page views | 1,002 | 0 | new |
 | Avg. seconds on page | 58 | 0 | new |
 | Avg. deepest scroll | 22% | 0% | |
 | Views from inside the site | 13.9% | 0.0% | |
 
-Devices: desktop 516 (62 s, 25% scroll) · mobile 472 (54 s, 19% scroll) · tablet 13 (76 s, 23% scroll)
+Devices: desktop 517 (62 s, 25% scroll) · mobile 472 (54 s, 19% scroll) · tablet 13 (76 s, 23% scroll)
 
 ## Google search (/news/, web)
 
@@ -25,7 +25,7 @@ Devices: desktop 516 (62 s, 25% scroll) · mobile 472 (54 s, 19% scroll) · tabl
 - puzzles: 128 views (new), 5 per story
 - uk-canada: 72 views (new), 4 per story
 - entertainment: 58 views (new), 4 per story
-- retail-dates: 54 views (new), 3 per story
+- retail-dates: 55 views (new), 3 per story
 
 ## Most read stories
 
