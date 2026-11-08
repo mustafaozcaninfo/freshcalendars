@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-08T08:18:17.080Z",
+ "generatedAt": "2026-11-08T08:22:20.221Z",
  "site": "https://freshcalendars.com/",
  "daily": [
   {
@@ -4041,19 +4041,19 @@
    "ctr": 0.047619047619047616
   },
   {
-   "key": "fall time change 2026 november",
-   "clicks": 2,
-   "impressions": 63,
-   "posW": 252,
-   "position": 4,
-   "ctr": 0.031746031746031744
-  },
-  {
    "key": "when is the day of the dead 2026",
    "clicks": 2,
    "impressions": 63,
    "posW": 126,
    "position": 2,
+   "ctr": 0.031746031746031744
+  },
+  {
+   "key": "fall time change 2026 november",
+   "clicks": 2,
+   "impressions": 63,
+   "posW": 252,
+   "position": 4,
    "ctr": 0.031746031746031744
   },
   {
@@ -4081,19 +4081,19 @@
    "ctr": 0.07272727272727272
   },
   {
-   "key": "texas sample ballot 2026",
-   "clicks": 0,
-   "impressions": 54,
-   "posW": 378,
-   "position": 7,
-   "ctr": 0
-  },
-  {
    "key": "on a higher level strands",
    "clicks": 0,
    "impressions": 54,
    "posW": 432,
    "position": 8,
+   "ctr": 0
+  },
+  {
+   "key": "texas sample ballot 2026",
+   "clicks": 0,
+   "impressions": 54,
+   "posW": 378,
+   "position": 7,
    "ctr": 0
   },
   {
@@ -4121,7 +4121,7 @@
    "ctr": 0.038461538461538464
   },
   {
-   "key": "uk clock change october 2026",
+   "key": "fall back date 2026",
    "clicks": 0,
    "impressions": 51,
    "posW": 459,
@@ -4129,7 +4129,7 @@
    "ctr": 0
   },
   {
-   "key": "fall back date 2026",
+   "key": "uk clock change october 2026",
    "clicks": 0,
    "impressions": 51,
    "posW": 459,
@@ -4233,19 +4233,19 @@
    "ctr": 0
   },
   {
-   "key": "uk time change 2026",
-   "clicks": 0,
-   "impressions": 41,
-   "posW": 246,
-   "position": 6,
-   "ctr": 0
-  },
-  {
    "key": "when does mcat registration open 2027",
    "clicks": 0,
    "impressions": 41,
    "posW": 287,
    "position": 7,
+   "ctr": 0
+  },
+  {
+   "key": "uk time change 2026",
+   "clicks": 0,
+   "impressions": 41,
+   "posW": 246,
+   "position": 6,
    "ctr": 0
   },
   {
@@ -4513,22 +4513,6 @@
    "ctr": 0.16666666666666666
   },
   {
-   "key": "federal pay calendar 2027",
-   "clicks": 2,
-   "impressions": 18,
-   "posW": 126,
-   "position": 7,
-   "ctr": 0.1111111111111111
-  },
-  {
-   "key": "nfl week 9 pick sheet 2026",
-   "clicks": 2,
-   "impressions": 18,
-   "posW": 108,
-   "position": 6,
-   "ctr": 0.1111111111111111
-  },
-  {
    "key": "when do the new governors take office",
    "clicks": 2,
    "impressions": 18,
@@ -4542,6 +4526,22 @@
    "impressions": 18,
    "posW": 54,
    "position": 3,
+   "ctr": 0.1111111111111111
+  },
+  {
+   "key": "nfl week 9 pick sheet 2026",
+   "clicks": 2,
+   "impressions": 18,
+   "posW": 108,
+   "position": 6,
+   "ctr": 0.1111111111111111
+  },
+  {
+   "key": "federal pay calendar 2027",
+   "clicks": 2,
+   "impressions": 18,
+   "posW": 126,
+   "position": 7,
    "ctr": 0.1111111111111111
   },
   {
@@ -4657,6 +4657,14 @@
    "ctr": 0.16666666666666666
   },
   {
+   "key": "november gratitude calendar",
+   "clicks": 2,
+   "impressions": 12,
+   "posW": 24,
+   "position": 2,
+   "ctr": 0.16666666666666666
+  },
+  {
    "key": "free meals on veterans day",
    "clicks": 2,
    "impressions": 12,
@@ -4673,12 +4681,12 @@
    "ctr": 0.16666666666666666
   },
   {
-   "key": "november gratitude calendar",
-   "clicks": 2,
-   "impressions": 12,
-   "posW": 24,
-   "position": 2,
-   "ctr": 0.16666666666666666
+   "key": "daylight savings nov 2026",
+   "clicks": 1,
+   "impressions": 11,
+   "posW": 33,
+   "position": 3,
+   "ctr": 0.09090909090909091
   },
   {
    "key": "social security payment schedule 2026 pdf",
@@ -4686,14 +4694,6 @@
    "impressions": 11,
    "posW": 55,
    "position": 5,
-   "ctr": 0.09090909090909091
-  },
-  {
-   "key": "daylight savings nov 2026",
-   "clicks": 1,
-   "impressions": 11,
-   "posW": 33,
-   "position": 3,
    "ctr": 0.09090909090909091
   },
   {
@@ -4761,19 +4761,19 @@
    "ctr": 0
   },
   {
-   "key": "printable texas sample ballot 2026",
-   "clicks": 2,
-   "impressions": 6,
-   "posW": 30,
-   "position": 5,
-   "ctr": 0.3333333333333333
-  },
-  {
    "key": "daylight savings 2026 november",
    "clicks": 2,
    "impressions": 6,
    "posW": 6,
    "position": 1,
+   "ctr": 0.3333333333333333
+  },
+  {
+   "key": "printable texas sample ballot 2026",
+   "clicks": 2,
+   "impressions": 6,
+   "posW": 30,
+   "position": 5,
    "ctr": 0.3333333333333333
   },
   {
@@ -4825,14 +4825,6 @@
    "ctr": 1.3333333333333333
   },
   {
-   "key": "columbus day 2026",
-   "clicks": 0,
-   "impressions": 2,
-   "posW": 8,
-   "position": 4,
-   "ctr": 0
-  },
-  {
    "key": "monthly calendar starting on monday",
    "clicks": 0,
    "impressions": 2,
@@ -4841,15 +4833,15 @@
    "ctr": 0
   },
   {
-   "key": "new years eve 2026",
+   "key": "columbus day 2026",
    "clicks": 0,
    "impressions": 2,
-   "posW": 20,
-   "position": 10,
+   "posW": 8,
+   "position": 4,
    "ctr": 0
   },
   {
-   "key": "labour day 2027",
+   "key": "new years eve 2026",
    "clicks": 0,
    "impressions": 2,
    "posW": 20,
@@ -4862,14 +4854,6 @@
    "impressions": 2,
    "posW": 16,
    "position": 8,
-   "ctr": 0
-  },
-  {
-   "key": "december to february calendar starting with mondays",
-   "clicks": 0,
-   "impressions": 2,
-   "posW": 18,
-   "position": 9,
    "ctr": 0
   },
   {
@@ -4889,11 +4873,19 @@
    "ctr": 0
   },
   {
-   "key": "what date is christmas eve 2026",
+   "key": "december to february calendar starting with mondays",
    "clicks": 0,
    "impressions": 2,
-   "posW": 8,
-   "position": 4,
+   "posW": 18,
+   "position": 9,
+   "ctr": 0
+  },
+  {
+   "key": "labour day 2027",
+   "clicks": 0,
+   "impressions": 2,
+   "posW": 20,
+   "position": 10,
    "ctr": 0
   },
   {
@@ -4905,7 +4897,15 @@
    "ctr": 0
   },
   {
-   "key": "what day of the week is new years eve 2026",
+   "key": "2027 calendar april monday start of month",
+   "clicks": 0,
+   "impressions": 2,
+   "posW": 14,
+   "position": 7,
+   "ctr": 0
+  },
+  {
+   "key": "what date is christmas eve 2026",
    "clicks": 0,
    "impressions": 2,
    "posW": 8,
@@ -4913,11 +4913,11 @@
    "ctr": 0
   },
   {
-   "key": "2027 calendar april monday start of month",
+   "key": "what day of the week is new years eve 2026",
    "clicks": 0,
    "impressions": 2,
-   "posW": 14,
-   "position": 7,
+   "posW": 8,
+   "position": 4,
    "ctr": 0
   },
   {
@@ -4927,6 +4927,14 @@
    "posW": 4,
    "position": 2,
    "ctr": 1
+  },
+  {
+   "key": "time change november 1, 2026",
+   "clicks": 1,
+   "impressions": 2,
+   "posW": 8,
+   "position": 4,
+   "ctr": 0.5
   },
   {
    "key": "time change in october 2026 calendar",
@@ -4950,14 +4958,6 @@
    "impressions": 2,
    "posW": 4,
    "position": 2,
-   "ctr": 0.5
-  },
-  {
-   "key": "time change november 1, 2026",
-   "clicks": 1,
-   "impressions": 2,
-   "posW": 8,
-   "position": 4,
    "ctr": 0.5
   },
   {
@@ -4985,6 +4985,14 @@
    "ctr": 1
   },
   {
+   "key": "12/31/26 is happy new year 2027 or 2026",
+   "clicks": 1,
+   "impressions": 1,
+   "posW": 5,
+   "position": 5,
+   "ctr": 1
+  },
+  {
    "key": "october black and whitwe calendar free print 2026",
    "clicks": 1,
    "impressions": 1,
@@ -4993,7 +5001,7 @@
    "ctr": 1
   },
   {
-   "key": "12/31/26 is happy new year 2027 or 2026",
+   "key": "free template monthly calendar 12 tab classic iso monday start",
    "clicks": 1,
    "impressions": 1,
    "posW": 5,
@@ -5006,14 +5014,6 @@
    "impressions": 1,
    "posW": 10,
    "position": 10,
-   "ctr": 1
-  },
-  {
-   "key": "free template monthly calendar 12 tab classic iso monday start",
-   "clicks": 1,
-   "impressions": 1,
-   "posW": 5,
-   "position": 5,
    "ctr": 1
   },
   {
@@ -5041,19 +5041,35 @@
    "ctr": 0
   },
   {
-   "key": "start monthly",
+   "key": "december.   christmas.  eve.      2026.",
+   "clicks": 0,
+   "impressions": 1,
+   "posW": 5,
+   "position": 5,
+   "ctr": 0
+  },
+  {
+   "key": "october 2026 us holidays columbus day halloween",
+   "clicks": 0,
+   "impressions": 1,
+   "posW": 2,
+   "position": 2,
+   "ctr": 0
+  },
+  {
+   "key": "holidays from march 2027",
+   "clicks": 0,
+   "impressions": 1,
+   "posW": 10,
+   "position": 10,
+   "ctr": 0
+  },
+  {
+   "key": "empty reuse about monthy calander",
    "clicks": 0,
    "impressions": 1,
    "posW": 9,
    "position": 9,
-   "ctr": 0
-  },
-  {
-   "key": "new year eve day 2026",
-   "clicks": 0,
-   "impressions": 1,
-   "posW": 7,
-   "position": 7,
    "ctr": 0
   },
   {
@@ -5065,11 +5081,19 @@
    "ctr": 0
   },
   {
-   "key": "october 2026 us holidays columbus day halloween",
+   "key": "boxing day in canada vs usa in 2026 is same day?",
    "clicks": 0,
    "impressions": 1,
-   "posW": 2,
-   "position": 2,
+   "posW": 4,
+   "position": 4,
+   "ctr": 0
+  },
+  {
+   "key": "calendar october 2026 starting monday",
+   "clicks": 0,
+   "impressions": 1,
+   "posW": 10,
+   "position": 10,
    "ctr": 0
   },
   {
@@ -5089,35 +5113,11 @@
    "ctr": 0
   },
   {
-   "key": "boxing day – saturday, december 26, 2026?",
+   "key": "monthly calendar 2026 october start monday",
    "clicks": 0,
    "impressions": 1,
-   "posW": 8,
-   "position": 8,
-   "ctr": 0
-  },
-  {
-   "key": "calendar october 2026 starting monday",
-   "clicks": 0,
-   "impressions": 1,
-   "posW": 10,
-   "position": 10,
-   "ctr": 0
-  },
-  {
-   "key": "december.   christmas.  eve.      2026.",
-   "clicks": 0,
-   "impressions": 1,
-   "posW": 5,
-   "position": 5,
-   "ctr": 0
-  },
-  {
-   "key": "holidays from march 2027",
-   "clicks": 0,
-   "impressions": 1,
-   "posW": 10,
-   "position": 10,
+   "posW": 7,
+   "position": 7,
    "ctr": 0
   },
   {
@@ -5137,19 +5137,43 @@
    "ctr": 0
   },
   {
+   "key": "boxing day – saturday, december 26, 2026?",
+   "clicks": 0,
+   "impressions": 1,
+   "posW": 8,
+   "position": 8,
+   "ctr": 0
+  },
+  {
+   "key": "new year eve day 2026",
+   "clicks": 0,
+   "impressions": 1,
+   "posW": 7,
+   "position": 7,
+   "ctr": 0
+  },
+  {
+   "key": "what hoilday is in march 2027",
+   "clicks": 0,
+   "impressions": 1,
+   "posW": 7,
+   "position": 7,
+   "ctr": 0
+  },
+  {
+   "key": "start monthly",
+   "clicks": 0,
+   "impressions": 1,
+   "posW": 9,
+   "position": 9,
+   "ctr": 0
+  },
+  {
    "key": "labour day sept 2027",
    "clicks": 0,
    "impressions": 1,
    "posW": 10,
    "position": 10,
-   "ctr": 0
-  },
-  {
-   "key": "boxing day in canada vs usa in 2026 is same day?",
-   "clicks": 0,
-   "impressions": 1,
-   "posW": 4,
-   "position": 4,
    "ctr": 0
   },
   {
@@ -5161,43 +5185,11 @@
    "ctr": 0
   },
   {
-   "key": "empty reuse about monthy calander",
-   "clicks": 0,
-   "impressions": 1,
-   "posW": 9,
-   "position": 9,
-   "ctr": 0
-  },
-  {
-   "key": "monthly calendar 2026 october start monday",
-   "clicks": 0,
-   "impressions": 1,
-   "posW": 7,
-   "position": 7,
-   "ctr": 0
-  },
-  {
-   "key": "what date a christmas eve 2026",
-   "clicks": 0,
-   "impressions": 1,
-   "posW": 10,
-   "position": 10,
-   "ctr": 0
-  },
-  {
    "key": "2023-2026 monthys",
    "clicks": 0,
    "impressions": 1,
    "posW": 8,
    "position": 8,
-   "ctr": 0
-  },
-  {
-   "key": "calendar printing paper size bleed margins accessibility pdf",
-   "clicks": 0,
-   "impressions": 1,
-   "posW": 7,
-   "position": 7,
    "ctr": 0
   },
   {
@@ -5214,6 +5206,22 @@
    "impressions": 1,
    "posW": 3,
    "position": 3,
+   "ctr": 0
+  },
+  {
+   "key": "calendar printing paper size bleed margins accessibility pdf",
+   "clicks": 0,
+   "impressions": 1,
+   "posW": 7,
+   "position": 7,
+   "ctr": 0
+  },
+  {
+   "key": "what date a christmas eve 2026",
+   "clicks": 0,
+   "impressions": 1,
+   "posW": 10,
+   "position": 10,
    "ctr": 0
   },
   {
@@ -5249,14 +5257,6 @@
    "ctr": 0
   },
   {
-   "key": "what hoilday is in march 2027",
-   "clicks": 0,
-   "impressions": 1,
-   "posW": 7,
-   "position": 7,
-   "ctr": 0
-  },
-  {
    "key": "november weekly reminder landscape calendar 2026",
    "clicks": 2,
    "impressions": 1,
@@ -5265,27 +5265,11 @@
    "ctr": 2
   },
   {
-   "key": "does the us time difference change when uk clocks go back",
-   "clicks": 1,
-   "impressions": 1,
-   "posW": 4,
-   "position": 4,
-   "ctr": 1
-  },
-  {
    "key": "daylight savings 2026 usa november 1",
    "clicks": 1,
    "impressions": 1,
    "posW": 5,
    "position": 5,
-   "ctr": 1
-  },
-  {
-   "key": "when will it get the sunlight on the 1st of november 2026 time back",
-   "clicks": 1,
-   "impressions": 1,
-   "posW": 1,
-   "position": 1,
    "ctr": 1
   },
   {
@@ -5305,7 +5289,7 @@
    "ctr": 1
   },
   {
-   "key": "when are the results of the midterms in usa",
+   "key": "time change 25 october",
    "clicks": 1,
    "impressions": 1,
    "posW": 4,
@@ -5313,11 +5297,27 @@
    "ctr": 1
   },
   {
-   "key": "time change 25 october",
+   "key": "when will it get the sunlight on the 1st of november 2026 time back",
+   "clicks": 1,
+   "impressions": 1,
+   "posW": 1,
+   "position": 1,
+   "ctr": 1
+  },
+  {
+   "key": "does the us time difference change when uk clocks go back",
    "clicks": 1,
    "impressions": 1,
    "posW": 4,
    "position": 4,
+   "ctr": 1
+  },
+  {
+   "key": "month calendar  october  2026  black . white",
+   "clicks": 1,
+   "impressions": 1,
+   "posW": 2,
+   "position": 2,
    "ctr": 1
   }
  ],
@@ -6083,19 +6083,19 @@
    "ctr": 0
   },
   {
-   "key": "https://freshcalendars.com/news/kwanzaa-2026-dates-seven-principles-calendar-printable/",
-   "clicks": 2,
-   "impressions": 67,
-   "posW": 469,
-   "position": 7,
-   "ctr": 0.029850746268656716
-  },
-  {
    "key": "https://freshcalendars.com/news/christmas-eve-christmas-day-2026-store-hours/",
    "clicks": 2,
    "impressions": 67,
    "posW": 335,
    "position": 5,
+   "ctr": 0.029850746268656716
+  },
+  {
+   "key": "https://freshcalendars.com/news/kwanzaa-2026-dates-seven-principles-calendar-printable/",
+   "clicks": 2,
+   "impressions": 67,
+   "posW": 469,
+   "position": 7,
    "ctr": 0.029850746268656716
   },
   {
@@ -6259,19 +6259,19 @@
    "ctr": 0.08823529411764706
   },
   {
-   "key": "https://freshcalendars.com/news/nyt-pips-hints-answers-october-27-2026/",
-   "clicks": 2,
-   "impressions": 33,
-   "posW": 198,
-   "position": 6,
-   "ctr": 0.06060606060606061
-  },
-  {
    "key": "https://freshcalendars.com/news/iphone-duo-october-24-availability/",
    "clicks": 2,
    "impressions": 33,
    "posW": 132,
    "position": 4,
+   "ctr": 0.06060606060606061
+  },
+  {
+   "key": "https://freshcalendars.com/news/nyt-pips-hints-answers-october-27-2026/",
+   "clicks": 2,
+   "impressions": 33,
+   "posW": 198,
+   "position": 6,
    "ctr": 0.06060606060606061
   },
   {
@@ -6355,19 +6355,19 @@
    "ctr": 0
   },
   {
-   "key": "https://freshcalendars.com/news/broward-county-school-calendar-2026-27/",
-   "clicks": 0,
-   "impressions": 12,
-   "posW": 96,
-   "position": 8,
-   "ctr": 0
-  },
-  {
    "key": "https://freshcalendars.com/news/mail-ballot-deadlines-2026-by-state/",
    "clicks": 0,
    "impressions": 12,
    "posW": 84,
    "position": 7,
+   "ctr": 0
+  },
+  {
+   "key": "https://freshcalendars.com/news/broward-county-school-calendar-2026-27/",
+   "clicks": 0,
+   "impressions": 12,
+   "posW": 96,
+   "position": 8,
    "ctr": 0
   },
   {
