@@ -241,7 +241,7 @@ Status uses each page's own words. **Offices closed** means the page says office
 
 | State | Status | What the official page says |
 |---|---|---|
-| Alabama | State holiday | 2026 list: "Wednesday, November 11, Veterans' Day"; closure not stated ([Alabama State Personnel Department](https://personnel.alabama.gov/state-holidays/)) |
+| Alabama | State holiday | 2026 list: "Wednesday, November 11, Veterans' Day"; the page does not say whether offices close ([Alabama State Personnel Department](https://personnel.alabama.gov/state-holidays/)) |
 | Alaska | State holiday | Division of Motor Vehicles holiday list: "11/11/26: Veterans' Day" ([Alaska Division of Motor Vehicles](https://dmv.alaska.gov/locations/alaska-state-holidays/)) |
 | Arizona | Legal holiday (state law) | Arizona Revised Statutes 1-301: November 11, "Veterans' Day" ([Arizona Revised Statutes 1-301](https://www.azleg.gov/ars/1/00301.htm)) |
 | Arkansas | Offices closed | Shared Administrative Services lists state offices closed for Veterans Day, Nov. 11, 2026 ([Arkansas Shared Administrative Services](https://sas.arkansas.gov/events/state-offices-closed-veterans-day-3/)) |
