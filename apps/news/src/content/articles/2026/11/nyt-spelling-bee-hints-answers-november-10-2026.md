@@ -1,6 +1,5 @@
 ---
-title: "NYT Spelling Bee Hints and Answers for Tuesday, Nov. 10, 2026: F Leads 70 Words With an 11-Letter Pangram"
-seoTitle: "Spelling Bee Hints & Answers Today, November 10, 2026"
+title: "Spelling Bee Hints & Answers Today, November 10, 2026"
 description: "Tuesday's Spelling Bee for Nov. 10, 2026 from the New York Times centers on I: 70 words, 328 points, Genius at 230, and an 11-letter pangram. Hints come first."
 type: explainer
 publishedAt: "2026-11-09T00:05:00-05:00"

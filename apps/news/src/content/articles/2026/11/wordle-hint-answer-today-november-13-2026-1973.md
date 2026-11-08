@@ -1,6 +1,5 @@
 ---
-title: "Wordle Hints for Friday, Nov. 13, 2026: Puzzle #1973 and a Rare X"
-seoTitle: "Wordle #1973 Hints & Answer Today, November 13, 2026"
+title: "Wordle #1973 Hints & Answer Today, November 13, 2026"
 description: "Hints for Wordle #1973 on Friday, Nov. 13, 2026, including its uncommon letter in the middle, with the answer and a rarity check saved for the spoiler section."
 type: explainer
 publishedAt: "2026-11-12T00:05:00-05:00"

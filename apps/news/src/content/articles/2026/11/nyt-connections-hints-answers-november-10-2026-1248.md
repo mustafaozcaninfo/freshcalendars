@@ -1,6 +1,5 @@
 ---
-title: "NYT Connections Hints and Answers for Tuesday, Nov. 10, 2026 (#1248): Two Hints per Group, Then the Answers"
-seoTitle: "Connections #1248 Hints & Answers Today, November 10, 2026"
+title: "Connections #1248 Hints & Answers Today, November 10, 2026"
 description: "Connections #1248 for Tuesday, Nov. 10, 2026: a board of long, rare words, two hints for every color, one decoy that falls short, and the answers last."
 type: explainer
 publishedAt: "2026-11-09T00:05:00-05:00"

@@ -1,7 +1,6 @@
 ---
-title: "2027 Habit Tracker: Free Printable 365-Day Grid With Holidays and Week Numbers"
-seoTitle: "2027 Habit Tracker: Free Printable 365-Day Grid"
-description: "Free 2027 habit tracker: 365 boxes on one page, week 1 starts Mon., Jan. 4 and 11 federal holidays from the Office of Personnel Management (OPM) are marked."
+title: "2027 Habit Tracker: Free Printable 365-Day Grid With Week Numbers"
+description: "Free 2027 habit tracker: 365 boxes on one page, week 1 from Mon., Jan. 4, and 11 federal holidays from the Office of Personnel Management (OPM) marked."
 type: explainer
 publishedAt: "2026-11-20T06:00:00-05:00"
 authors: [jessica-hartwell]

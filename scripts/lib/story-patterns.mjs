@@ -7,6 +7,7 @@
 import { readFileSync, readdirSync, statSync } from "node:fs";
 import path from "node:path";
 import { fileURLToPath } from "node:url";
+import { COMMON } from "./abbrev.mjs";
 
 const ROOT = path.resolve(path.dirname(fileURLToPath(import.meta.url)), "../..");
 
@@ -14,8 +15,18 @@ const ROOT = path.resolve(path.dirname(fileURLToPath(import.meta.url)), "../..")
 export const PATTERNS_SINCE = "2026-10-31";
 /** A heading already used by this many other stories (outside the story's own series) is a template. */
 export const H2_REUSE_MAX = 3;
-/** Headline length for new stories; the schema still allows 110 for older ones. */
+/** Headline length for stories from PATTERNS_SINCE; the schema still allows 110 for older ones. */
 export const TITLE_MAX = 90;
+/**
+ * Owner decision 2026-11-08: from this date the H1 is also the <title> and og:title (no seoTitle),
+ * so it must fit a search result: at most TITLE_H1_MAX characters, query first, one fact after the
+ * colon. The description must fit the snippet (DESC_MAX) and spend no characters spelling out
+ * abbreviations every reader knows ("Eastern Time (ET)"). Keep the date in step with
+ * apps/news/src/lib/seo.ts. Daily puzzle titles follow scripts/lib/puzzle-titles.mjs instead.
+ */
+export const TITLE_H1_SINCE = "2026-11-09";
+export const TITLE_H1_MAX = 70;
+export const DESC_MAX = 155;
 
 const MONTHS = /^(january|february|march|april|may|june|july|august|september|october|november|december|jan|feb|mar|apr|jun|jul|aug|sep|sept|oct|nov|dec|monday|tuesday|wednesday|thursday|friday|saturday|sunday)$/;
 /** Stories in a dated series (nba-games-today-october-29-2026) share a key and may share headings. */
@@ -47,6 +58,7 @@ export function storySources(articlesDir = path.join(ROOT, "apps/news/src/conten
       out.push({
         slug: f.replace(/\.md$/, ""),
         title: field(fm, "title"),
+        seoTitle: field(fm, "seoTitle"),
         description: field(fm, "description"),
         category: field(fm, "category"),
         published: field(fm, "publishedAt").slice(0, 10),
@@ -64,7 +76,7 @@ export function storySources(articlesDir = path.join(ROOT, "apps/news/src/conten
 export function patternProblems(stories = storySources()) {
   const editorial = stories.filter((s) => s.category !== "puzzles");
   const fresh = editorial.filter((s) => s.published >= PATTERNS_SINCE);
-  const fails = { h2: [], hook: [], title: [], inbound: [] };
+  const fails = { h2: [], hook: [], title: [], inbound: [], titleH1: [], desc: [] };
 
   const usedBy = new Map();
   for (const s of editorial) for (const h of new Set(s.h2.map(normHeading))) {
@@ -84,6 +96,13 @@ export function patternProblems(stories = storySources()) {
       if (where) fail(fails.hook, s, `clock-change hook in the ${where[0]}; keep it in the body where it changes a time`);
     }
     if (s.title.length > TITLE_MAX) fail(fails.title, s, `headline is ${s.title.length} characters (max ${TITLE_MAX})`);
+    if (s.published >= TITLE_H1_SINCE) {
+      if (s.seoTitle) fail(fails.titleH1, s, `has a seoTitle; the H1 is the <title> now: delete seoTitle and make the headline the search title`);
+      if (s.title.length > TITLE_H1_MAX) fail(fails.titleH1, s, `headline is ${s.title.length} characters (max ${TITLE_H1_MAX}): keep the query and one fact, move the rest to the description`);
+      if (s.description.length > DESC_MAX) fail(fails.desc, s, `description is ${s.description.length} characters (max ${DESC_MAX}, the snippet cuts the rest)`);
+      const spelled = [...s.description.matchAll(/\(([A-Z][A-Z.]{1,6})\)/g)].map((m) => m[1]).filter((a) => COMMON.has(a));
+      if (spelled.length) fail(fails.desc, s, `description spells out ${spelled.join(", ")}, which every reader knows: write the abbreviation alone and spend the characters on the fact`);
+    }
     if (!inbound.get(s.slug)) fail(fails.inbound, s, "no other story links to it; add it to the related list or body of 1-2 stories on the same topic");
   }
   return fails;

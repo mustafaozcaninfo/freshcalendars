@@ -1,6 +1,5 @@
 ---
-title: "Wordle #1975 for Sunday, Nov. 15, 2026: Hints, Then the Answer in Spoiler Form"
-seoTitle: "Wordle #1975 Hints & Answer Today, November 15, 2026"
+title: "Wordle #1975 Hints & Answer Today, November 15, 2026"
 description: "Hints for Wordle #1975 on Sunday, Nov. 15, 2026, including its opening cluster, followed by the answer and a count of earlier answers that differ in one place."
 type: explainer
 publishedAt: "2026-11-14T00:05:00-05:00"

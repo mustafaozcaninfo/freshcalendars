@@ -91,7 +91,7 @@ faq:
     a: "Time Out and Fact Magazines both reported the lights were set to switch on on Sunday 1 November 2026. Leicester Square's own site shows no date or time."
   - q: "When is the Trafalgar Square Christmas tree lit in 2026?"
     a: "The 2026 date has not been announced. In 2025, the City of Oslo said the lighting ceremony would take place on Thursday 4 December at 18:00."
-related: [hyde-park-winter-wonderland-2026-dates-opening-times-tickets, manchester-birmingham-christmas-markets-2026-dates-opening-times, fenwick-christmas-window-2026-newcastle-public-viewing-monday-2-november]
+related: [uk-christmas-lights-switch-ons-2026-belfast-cardiff-manchester, manchester-birmingham-christmas-markets-2026-dates-opening-times, fenwick-christmas-window-2026-newcastle-public-viewing-monday-2-november]
 internalLinks:
   - href: "/december-calendars.html"
     label: "December 2026 printable calendar"

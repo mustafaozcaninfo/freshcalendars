@@ -1,6 +1,5 @@
 ---
-title: "NYT Strands Hints and Answers for Wednesday, Nov. 18, 2026 (#990): Spangram and Six Theme Words"
-seoTitle: "Strands #990 Hints & Answers Today, November 18, 2026"
+title: "Strands #990 Hints & Answers Today, November 18, 2026"
 description: "Strands #990 for Wednesday, Nov. 18, 2026: graded hints for a musical theme, a map of the spangram's path and spoiler-marked answers for all seven words."
 type: explainer
 publishedAt: "2026-11-17T00:05:00-05:00"

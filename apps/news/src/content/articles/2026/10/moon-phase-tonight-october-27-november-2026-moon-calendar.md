@@ -4,7 +4,7 @@ seoTitle: "Moon Phase Tonight and November 2026 Moon Calendar"
 description: "On Nov. 2, 2026 the Moon is a waning crescent, 41% lit, with no moonrise that date in New York, says the U.S. Naval Observatory (USNO). Calendar to Nov. 30."
 type: explainer
 publishedAt: "2026-10-27T13:44:00-04:00"
-updatedAt: "2026-11-02T14:10:00-05:00"
+updatedAt: "2026-11-08T06:38:00-05:00"
 authors: [jessica-hartwell]
 category: sky-events
 keywords: ["moon phase tonight", "moon tonight", "moon phase October 27 2026", "moon phases November 2026", "moon calendar November 2026"]
@@ -35,6 +35,10 @@ faq:
   - q: "Does the Nov. 1 clock change affect moonrise times?"
     a: "The USNO times in the table are local clock time: Eastern Daylight Time through Saturday, Oct. 31 and Eastern Standard Time from Sunday, Nov. 1. Moonrise on Nov. 1 is 11:14 p.m. EST, against 10:59 p.m. EDT on Oct. 31."
 sources:
+  - title: "Dates of Primary Phases of the Moon"
+    url: "https://aa.usno.navy.mil/calculated/moon/phases?date=2026-11-01&format=p&nump=8"
+    publisher: "U.S. Naval Observatory, Astronomical Applications Department"
+    date: "2026-11-08"
   - title: "Phases of the Moon"
     url: "https://aa.usno.navy.mil/data/MoonPhases"
     publisher: "U.S. Naval Observatory, Astronomical Applications Department"
@@ -61,6 +65,7 @@ assets:
     group: moon-calendar-2026
     title: "Moon Calendar Oct. 27 to Nov. 30, 2026"
     subtitle: "Daily phase, percent lit, New York moonrise and moonset"
+    noKit: "A 35-day moon table with phase, percent lit, moonrise and moonset; the sky-night kit draws one event, not a daily table"
     layout: list
     columns: ["Date", "Phase, % lit, New York moonrise and moonset"]
     rows:
@@ -83,7 +88,7 @@ assets:
       - { when: "Thu., Nov. 12", what: "Waxing Crescent 11%; rise 10:05 a.m., set 6:48 p.m." }
       - { when: "Fri., Nov. 13", what: "Waxing Crescent 17%; rise 10:51 a.m., set 7:46 p.m." }
       - { when: "Sat., Nov. 14", what: "Waxing Crescent 25%; rise 11:29 a.m., set 8:47 p.m." }
-      - { when: "Sun., Nov. 15", what: "Waxing Crescent 33%; rise 12:01 p.m., set 9:50 p.m." }
+      - { when: "Sun., Nov. 15", what: "Waxing Crescent 33%; rise 12:01 p.m., set 9:49 p.m." }
       - { when: "Mon., Nov. 16", what: "Waxing Crescent 43%; rise 12:28 p.m., set 10:53 p.m." }
       - { when: "Tue., Nov. 17", what: "Waxing Gibbous 52%; rise 12:52 p.m., set 11:56 p.m." }
       - { when: "Wed., Nov. 18", what: "Waxing Gibbous 62%; rise 1:14 p.m., set none" }
@@ -94,7 +99,6 @@ assets:
       - { when: "Mon., Nov. 23", what: "Waxing Gibbous 99%; rise 3:29 p.m., set 5:46 a.m." }
       - { when: "Mon., Nov. 23 to Mon., Nov. 30", what: "99% lit Nov. 23, full Nov. 24 (9:53 a.m. EST), 56% lit Nov. 30" }
     note: "Source: U.S. Naval Observatory, Phases of the Moon and Sun and Moon Data for One Day, New York City. Times are local: EDT through Oct. 31, EST from Nov. 1."
-    inkSaver: true
     description: "Daily moon phase, percent lit, and New York moonrise and moonset times from Oct. 27 to Nov. 30, 2026, from U.S. Naval Observatory data."
     alt: "Printable moon calendar for Oct. 27 to Nov. 30, 2026 listing the phase, percent lit, moonrise and moonset for New York each day"
 downloads:
@@ -171,7 +175,7 @@ New York City (40.71 N, 74.01 W). Phase names and percent lit are as USNO gives 
 | Thu., Nov. 12 | Waxing Crescent | 11% | 10:05 a.m. | 6:48 p.m. |
 | Fri., Nov. 13 | Waxing Crescent | 17% | 10:51 a.m. | 7:46 p.m. |
 | Sat., Nov. 14 | Waxing Crescent | 25% | 11:29 a.m. | 8:47 p.m. |
-| Sun., Nov. 15 | Waxing Crescent | 33% | 12:01 p.m. | 9:50 p.m. |
+| Sun., Nov. 15 | Waxing Crescent | 33% | 12:01 p.m. | 9:49 p.m. |
 | Mon., Nov. 16 | Waxing Crescent | 43% | 12:28 p.m. | 10:53 p.m. |
 | Tue., Nov. 17 | Waxing Gibbous | 52% | 12:52 p.m. | 11:56 p.m. |
 | Wed., Nov. 18 | Waxing Gibbous | 62% | 1:14 p.m. | none |
@@ -188,6 +192,16 @@ New York City (40.71 N, 74.01 W). Phase names and percent lit are as USNO gives 
 | Sun., Nov. 29 | Waning Gibbous | 67% | 10:17 p.m. | 11:39 a.m. |
 | Mon., Nov. 30 | Waning Gibbous | 56% | 11:28 p.m. | 12:06 p.m. |
 Times through Sat., Oct. 31 are EDT; from Sun., Nov. 1 they are EST. The printable below lists each day through Nov. 22 and sums up Nov. 23 to 30; the table here has every day.
+
+## When is the new moon in November 2026?
+
+USNO's table of primary phases lists the new moon at 07:02 UT on Monday, Nov. 9, 2026, which is 2:02 a.m. EST. In New York on Nov. 9 the Moon is 0% lit, rises at 7:07 a.m. and sets at 4:33 p.m., from USNO data saved on Oct. 20. The day before, Sunday, Nov. 8, it is a waning crescent, 1% lit, rising at 6:02 a.m. and setting at 4:01 p.m.
+
+| Date in New York | Phase | Lit | Moonrise | Moonset |
+|---|---|---|---|---|
+| Sun., Nov. 8 | Waning Crescent | 1% | 6:02 a.m. | 4:01 p.m. |
+| Mon., Nov. 9 | New Moon | 0% | 7:07 a.m. | 4:33 p.m. |
+| Tue., Nov. 10 | Waxing Crescent | 2% | 8:11 a.m. | 5:11 p.m. |
 
 ## What does the Moon look like on Halloween and Thanksgiving?
 

@@ -129,7 +129,7 @@ internalLinks:
     label: "November 2026 printable calendar"
   - href: "/december-calendars.html"
     label: "December 2026 printable calendar"
-related: [starbucks-holiday-menu-2026-red-cup-day-date, dunkin-holiday-menu-2026-november-4-avengers-doomsday-menu, mcdonalds-holiday-drinks-2026-cookie-butter-cranberry]
+related: [starbucks-holiday-menu-2026-red-cup-day-date, dunkin-holiday-menu-2026-november-4-avengers-doomsday-menu, national-chicken-sandwich-day-2026-deals-november-9]
 downloads:
   - group: "Holiday Menus 2026 Try List by Chain printables"
     title: "Holiday Menus 2026 Try List by Chain"

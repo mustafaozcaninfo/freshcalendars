@@ -35,7 +35,7 @@ faq:
     a: "Not always. Westminster says academies and voluntary-aided schools may set different dates, so check your child's school."
   - q: "When do Westminster schools break up for summer in 2027?"
     a: "The summer term runs from Monday 7 June to Thursday 22 July 2027 in the Westminster and Kensington and Chelsea dates."
-related: [uk-bank-holidays-2027-dates-england-scotland-northern-ireland, uk-annual-leave-2027-bank-holidays-double-your-days-off, nyc-public-schools-calendar-2026-27-breaks-holidays]
+related: [uk-bank-holidays-2027-dates-england-scotland-northern-ireland, uk-annual-leave-2027-bank-holidays-double-your-days-off, anti-bullying-week-2026-uk-november-16-20-odd-socks-day]
 sources:
   - title: "Bi-borough determined term and holiday dates 2026-27"
     url: "https://www.westminster.gov.uk/sites/default/files/media/documents/Bi-borough%20determined%20term%20and%20holiday%20dates%202026-27.pdf"

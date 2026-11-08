@@ -1,6 +1,5 @@
 ---
-title: "Contexto #1516 for Thursday, Nov. 12, 2026: Hints, 30 Closest Words, Two Cold Guesses"
-seoTitle: "Contexto #1516 Hints & Answer Today, November 12, 2026"
+title: "Contexto #1516 Hints & Answer Today, November 12, 2026"
 description: "Contexto #1516 for Thursday, Nov. 12, 2026: three hints, the game's 30 closest words in five groups, a rank-band table, two cold guesses, then the answer."
 type: explainer
 publishedAt: "2026-11-11T00:05:00-05:00"
