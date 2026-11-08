@@ -59,7 +59,7 @@ downloads:
 draft: false
 ---
 
-<p class="callout"><b>Last updated Wed. Oct. 28, 2026, 4:12 p.m. ET.</b> The Nov. 7, 2026 SAT registration and late-registration deadlines (Oct. 23 and Oct. 27) have passed. The next open deadlines are Friday, Nov. 6 to register for the Dec. 12 ACT and Friday, Nov. 20 to register for the Dec. 5 SAT (late by Tuesday, Nov. 24).</p>
+The Nov. 7, 2026 SAT registration and late-registration deadlines (Oct. 23 and Oct. 27) have passed. The next open deadlines are Friday, Nov. 6 to register for the Dec. 12 ACT and Friday, Nov. 20 to register for the Dec. 5 SAT (late by Tuesday, Nov. 24).
 
 **The next registration deadlines are Friday, Nov. 6 for the Dec. 12, 2026 ACT and Friday, Nov. 20 for the Dec. 5, 2026 SAT**, according to College Board and ACT. Registration for the Saturday, Nov. 7 SAT has closed, though the test still takes place. Between the two exams, SAT and ACT offer several more Saturdays this school year.
 

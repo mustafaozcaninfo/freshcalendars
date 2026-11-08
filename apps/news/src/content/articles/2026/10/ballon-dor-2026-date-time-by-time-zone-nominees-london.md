@@ -101,7 +101,7 @@ downloads:
 draft: false
 ---
 
-<p class="callout"><b>Last updated Tue. Oct. 27, 2026, 3:05 a.m. ET.</b> Harry Kane and Alexia Putellas won the 2026 Ballon d'Or at the ceremony in London on Monday, Oct. 26. This story has been updated with the full winners list.</p>
+Harry Kane and Alexia Putellas won the 2026 Ballon d'Or at the ceremony in London on Monday, Oct. 26.
 
 <iframe class="video-embed" src="https://www.youtube-nocookie.com/embed/HGWyEj23Qdk?autoplay=1&mute=1&playsinline=1&rel=0" title="Ballon d'Or 2026 ceremony" style="width:100%;aspect-ratio:16/9;height:auto;border:0;border-radius:10px;margin:0 0 1.25rem;display:block" loading="eager" allow="autoplay; encrypted-media; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 

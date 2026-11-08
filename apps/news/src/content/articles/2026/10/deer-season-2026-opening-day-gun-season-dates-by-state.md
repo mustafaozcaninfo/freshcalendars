@@ -129,7 +129,6 @@ downloads:
 draft: false
 ---
 
-<p class="callout"><b>Last updated Thu., Oct. 29, 2026, 5:10 a.m. ET.</b> Added Michigan and New York dates, with the source for each.</p>
 
 **Minnesota's firearms deer season opens Saturday, Nov. 7, 2026, according to the Minnesota Department of Natural Resources (DNR), the earliest start among the six states below.** Two later openers follow: Wisconsin's gun opener on Saturday, Nov. 21 (Wisconsin DNR) and Pennsylvania's regular firearms opener on Saturday, Nov. 28 (Pennsylvania Game Commission).
 

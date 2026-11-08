@@ -103,7 +103,7 @@ downloads:
 draft: false
 ---
 
-<p class="callout"><b>Last updated Wed. Oct. 28, 2026, 4:12 p.m. ET.</b> Tuesday, Oct. 27 has passed. The next and last fee-free day of 2026 is Veterans Day, Wednesday, Nov. 11, at National Park Service parks. The National Park Service has not published 2027 fee-free days.</p>
+Tuesday, Oct. 27 has passed. The next and last fee-free day of 2026 is Veterans Day, Wednesday, Nov. 11, at National Park Service parks. The National Park Service has not published 2027 fee-free days.
 
 **Veterans Day, Wednesday, Nov. 11, 2026, is the last entrance-fee-free day of the year at National Park Service (NPS) parks**, according to the National Park Service. The year's other free day, Tuesday, Oct. 27 (Theodore Roosevelt's birthday), has passed.
 

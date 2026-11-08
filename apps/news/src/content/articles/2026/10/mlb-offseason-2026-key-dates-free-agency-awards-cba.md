@@ -125,7 +125,7 @@ assets:
 draft: false
 ---
 
-<p class="callout"><b>Last updated Oct. 29, 2026, 3:55 a.m. ET.</b> The Brewers won the World Series in Game 5 on Wednesday night, so the dates below now use that finish, and the printable lists them: free agents from Thursday, Oct. 29, signings with new clubs from Monday, Nov. 2, 5 p.m. ET by our count.</p>
+The Brewers won the World Series in Game 5 on Wednesday night, so the dates below now use that finish, and the printable lists them: free agents from Thursday, Oct. 29, signings with new clubs from Monday, Nov. 2, 5 p.m. ET by our count.
 
 **Major League Baseball (MLB) free agency opened Thursday, Oct. 29, 2026, the day after the World Series ended, according to MLB.com's offseason rules guide.** MLB.com's awards guide (Oct. 26, 2026) then listed the Gold Glove Awards on Sunday, Nov. 1 through the Silver Slugger Awards on Tuesday, Nov. 17. The World Series ended on Wednesday, Oct. 28, when Milwaukee beat Tampa Bay 4-1 in Game 5, so free agency opened Thursday, Oct. 29, with signings with new clubs allowed from 5 p.m. Eastern Time (ET) on Monday, Nov. 2 by our count. The details are in our [2026 World Series schedule](/news/world-series-2026-schedule-game-times-tv-channel/).
 

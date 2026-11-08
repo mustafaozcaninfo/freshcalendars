@@ -61,7 +61,6 @@ related: [nyt-connections-hints-answers-october-25-2026-1232, world-series-2026-
 draft: false
 ---
 
-<p class="callout"><b>Last updated Oct. 25, 2026, 12:20 a.m. ET.</b> Sunday's #762 is live; hints for every group and the full answers are now below, checked against two published solutions. Saturday's #761 follows.</p>
 
 **Sunday's Connections: Sports Edition from The Athletic and New York Times (NYT) Games is puzzle #762, for Oct. 25, 2026, and it runs from hockey nicknames to Canadian stars, with two hints for each group below.** The full answers follow in a spoiler section, then Saturday's #761 with an explanation of its overlaps.
 

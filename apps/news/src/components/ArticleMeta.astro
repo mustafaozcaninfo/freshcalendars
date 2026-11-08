@@ -3,7 +3,9 @@ import { formatDateTimeET, isoDateTime } from "../lib/seo";
 import { Image } from "astro:assets";
 import type { ImageMetadata } from "astro";
 interface Props {
-  authors: { name: string; href: string; photo?: ImageMetadata }[];
+  /** role: the editor's beat ("Senior Editor, Public Holidays..."), shown after the name so the
+   *  reader sees at once who reviews the story and why (E-E-A-T, editor review Nov. 8, 2026). */
+  authors: { name: string; href: string; photo?: ImageMetadata; role?: string }[];
   publishedAt: Date;
   modifiedAt: Date;
   readingMinutes: number;
@@ -14,7 +16,7 @@ const updated = modifiedAt.getTime() - publishedAt.getTime() > 60_000;
 <div class="meta">
   {authors[0]?.photo && <Image class="byline-avatar" src={authors[0].photo} alt={`Illustrated avatar of ${authors[0].name}`} title={authors[0].name} width={36} height={36} format="webp" />}
   <div>
-  <p class="byline">By {authors.map((a, i) => <>{i > 0 && ", "}<a href={a.href} rel="author">{a.name}</a></>)}</p>
+  <p class="byline">By {authors.map((a, i) => <>{i > 0 && ", "}<a href={a.href} rel="author">{a.name}</a></>)}{authors.length === 1 && authors[0].role && <span class="byline-role">, {authors[0].role}</span>}</p>
   <p class="dates">
     <span>Published <time datetime={isoDateTime(publishedAt)}>{formatDateTimeET(publishedAt)}</time></span>
     {updated && <span>Updated <time datetime={isoDateTime(modifiedAt)}>{formatDateTimeET(modifiedAt)}</time></span>}
@@ -27,6 +29,7 @@ const updated = modifiedAt.getTime() - publishedAt.getTime() > 60_000;
   .meta p{margin:0 0 .25rem}
   .byline{font-weight:700}
   .byline a{color:var(--focus)}
+  .byline-role{font-weight:400}
   .dates{display:flex;flex-wrap:wrap;gap:.25rem 1rem}
   .meta{display:flex;gap:10px;align-items:center;font-size:13px;margin:0}
   .byline-avatar{border-radius:50%;width:36px;height:36px;object-fit:cover}

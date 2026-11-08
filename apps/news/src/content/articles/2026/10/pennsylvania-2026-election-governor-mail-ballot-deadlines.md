@@ -70,7 +70,7 @@ downloads:
 draft: false
 ---
 
-<p class="callout"><b>Last updated Wed. Oct. 28, 2026, 4:12 p.m. ET.</b> The deadline to apply for a mail ballot (5 p.m. Tuesday, Oct. 27) has passed. If you already have a mail ballot, your county must receive the completed ballot by 8 p.m. Tuesday, Nov. 3; a postmark is not enough. Otherwise, vote in person on Nov. 3, when polls are open 7 a.m. to 8 p.m., according to the Pennsylvania Department of State.</p>
+The deadline to apply for a mail ballot (5 p.m. Tuesday, Oct. 27) has passed. If you already have a mail ballot, your county must receive the completed ballot by 8 p.m. Tuesday, Nov. 3; a postmark is not enough. Otherwise, vote in person on Nov. 3, when polls are open 7 a.m. to 8 p.m., according to the Pennsylvania Department of State.
 
 **Election Day 2026 in Pennsylvania is Tuesday, Nov. 3, with polls open from 7 a.m. to 8 p.m.** Voters elect a governor and lieutenant governor. The deadline to apply for a mail ballot, 5 p.m. Tuesday, Oct. 27, has passed, according to the Pennsylvania Department of State. If you already have a mail ballot, completed mail ballots must reach your county election office by 8 p.m. on Election Day; one that arrives later is not counted, whatever its postmark.
 
