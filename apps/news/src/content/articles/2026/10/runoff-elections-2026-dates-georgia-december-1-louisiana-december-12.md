@@ -4,7 +4,7 @@ seoTitle: "Runoff Election 2026 Dates: Georgia and Louisiana"
 description: "Georgia's runoff, if needed, is Tuesday, Dec. 1, 2026; Louisiana's second round is Saturday, Dec. 12. Deadlines for each state, with a printable."
 type: news
 publishedAt: "2026-10-30T19:45:00-04:00"
-updatedAt: "2026-11-07T21:21:00-05:00"
+updatedAt: "2026-11-08T05:27:00-05:00"
 authors: [christina-gerland]
 category: elections
 keywords: ["runoff election 2026 dates", "georgia runoff 2026 date", "when is the georgia runoff", "louisiana december 12 election"]
@@ -177,7 +177,7 @@ downloads:
 draft: false
 ---
 
-**Georgia's General Election Runoff, if one is required, is Tuesday, Dec. 1, 2026, according to georgia.gov, and Louisiana's second round is Saturday, Dec. 12, according to the Louisiana Secretary of State.** Mississippi also lists Dec. 1 as a runoff day for judge and school board races. Every deadline below comes from those state calendars, and a runoff happens only if no race on the ballot is decided on Nov. 3 under the state's rules. As of Saturday, Nov. 7, Louisiana's 5th and 6th Congressional Districts are headed to the Dec. 12 runoff, according to the Rapides Parish Journal, the Lake Charles TV station (KPLC), the Alexandria TV station (KALB) and a Baton Rouge TV station (WBRZ). Georgia's U.S. Senate race was decided on Nov. 3 without a runoff, The Current and CBS News reported, while Atlanta News First and CBS News Atlanta reported that state House District 151 goes to Dec. 1. Austin and Corpus Christi also hold local runoffs on Saturday, Dec. 12, according to each city. Neither Georgia's nor Louisiana's election office had posted a runoff list we could open, and results stay unofficial until counties certify.
+**Georgia's General Election Runoff, if one is required, is Tuesday, Dec. 1, 2026, according to georgia.gov, and Louisiana's second round is Saturday, Dec. 12, according to the Louisiana Secretary of State.** Mississippi also lists Dec. 1 as a runoff day for judge and school board races. Every deadline below comes from those state calendars, and a runoff happens only if no race on the ballot is decided on Nov. 3 under the state's rules. As of Saturday, Nov. 7, Louisiana's 5th and 6th Congressional Districts are headed to the Dec. 12 runoff, according to the Rapides Parish Journal, the Lake Charles TV station (KPLC), the Alexandria TV station (KALB) and a Baton Rouge TV station (WBRZ). Georgia's U.S. Senate race was decided on Nov. 3 without a runoff, The Current and CBS News reported, while Atlanta News First reported that state House District 151 goes to Dec. 1. Austin and Corpus Christi also hold local runoffs on Saturday, Dec. 12, according to each city. Neither Georgia's nor Louisiana's election office had posted a runoff list we could open, and results stay unofficial until counties certify.
 
 ## Runoff and second-round dates by state
 
@@ -200,7 +200,7 @@ georgia.gov lists the General Election Runoff for Tuesday, Dec. 1, 2026, if need
 - **Absentee ballot:** the last day to request one is Friday, Nov. 20. Absentee ballots must be received by 7 p.m. on Dec. 1.
 - **Early voting:** Monday, Nov. 23 to Wednesday, Nov. 25. georgia.gov calls it "a very short early voting window, abbreviated due to the Thanksgiving holiday."
 
-The Current and CBS News reported that the U.S. Senate race in Georgia was decided on Nov. 3 without a runoff, so it will not go to Dec. 1. As of Saturday, Nov. 7, none of the sources we read reported a Georgia statewide runoff. Atlanta News First and CBS News Atlanta, both on Nov. 4, reported that state House District 151 goes to the Dec. 1 runoff between Republican incumbent Mike Cheokas and Democrat Ethan Wolfe. Atlanta News First wrote that no candidate crossed 50%, so the two "will advance to a general election runoff on Tuesday, Dec. 1, 2026." The Georgia Secretary of State had not posted a runoff list we could open, and other local or legislative contests may also go to Dec. 1. The full official list is not yet posted.
+The Current and CBS News reported that the U.S. Senate race in Georgia was decided on Nov. 3 without a runoff, so it will not go to Dec. 1. As of Saturday, Nov. 7, none of the sources we read reported a Georgia statewide runoff. Atlanta News First reported on Nov. 4 that state House District 151 goes to the Dec. 1 runoff between Republican incumbent Mike Cheokas and Democrat Ethan Wolfe, with independent Travis Lockhart third. It wrote that no candidate crossed 50%, so the two "will advance to a general election runoff on Tuesday, Dec. 1, 2026." CBS News Atlanta also reported on Nov. 4 that neither Cheokas nor Wolfe passed 50%. The Georgia Secretary of State had not posted a runoff list we could open, and other local or legislative contests may also go to Dec. 1. The full official list is not yet posted.
 
 For this election, the Georgia Election Guide on georgia.gov lists an Oct. 5 registration deadline and early voting from Oct. 13 to Oct. 30. Our [Georgia ballot and advance voting guide](/news/georgia-2026-ballot-amendments-advance-voting/) covers the Nov. 3 ballot.
 
