@@ -1,6 +1,6 @@
 # Reader signals (generated, do not edit)
 
-Built 2026-11-08T09:13 UTC by `scripts/news-readers.mjs` from the first-party beacon (last 7 days, `traffic.md`) and Microsoft Clarity (last 24 hours, `clarity.md`). What each desk does with it: `docs/DESK.md`, "Reader data". Puzzle pages are left out of the desk lists (the puzzle desk owns them).
+Built 2026-11-08T09:46 UTC by `scripts/news-readers.mjs` from the first-party beacon (last 7 days, `traffic.md`) and Microsoft Clarity (last 24 hours, `clarity.md`). What each desk does with it: `docs/DESK.md`, "Reader data". Puzzle pages are left out of the desk lists (the puzzle desk owns them).
 
 ## Readers leave fast (search desk: UX briefs)
 
@@ -8,9 +8,9 @@ Story pages with 30+ beacon views whose readers stay under 60% of the site's ave
 
 | Story | Views | Avg. seconds (site) | Avg. scroll | Why |
 |---|---:|---:|---:|---|
-| army-navy-game-2026-date-kickoff-time-metlife-stadium-tv | 87 | 42 (98) | 9% | leave fast, low scroll |
-| day-of-the-dead-2026-dia-de-los-muertos-dates | 33 | 80 (98) | 11% | low scroll |
-| paris-masters-2026-schedule-final-time-by-time-zone | 31 | 45 (98) | 22% | leave fast |
+| army-navy-game-2026-date-kickoff-time-metlife-stadium-tv | 87 | 42 (97) | 9% | leave fast, low scroll |
+| day-of-the-dead-2026-dia-de-los-muertos-dates | 33 | 80 (97) | 11% | low scroll |
+| paris-masters-2026-schedule-final-time-by-time-zone | 32 | 44 (97) | 21% | leave fast |
 
 ## Clarity: what readers struggle with (search desk: UX briefs)
 
@@ -43,12 +43,12 @@ Beacon views of the last 7 days against the 7 before, per category, and views pe
 
 | Category | Views | Week before | Change | Stories read | Views per story | Avg. seconds |
 |---|---:|---:|---:|---:|---:|---:|
-| holidays | 251 | 0 | new | 34 | 7 | 105 |
-| sports | 227 | 0 | new | 47 | 5 | 41 |
-| puzzles | 136 | 0 | new | 28 | 5 | 46 |
-| uk-canada | 75 | 0 | new | 18 | 4 | 62 |
-| entertainment | 60 | 0 | new | 16 | 4 | 39 |
-| retail-dates | 57 | 0 | new | 20 | 3 | 86 |
+| holidays | 252 | 0 | new | 34 | 7 | 104 |
+| sports | 228 | 0 | new | 47 | 5 | 40 |
+| puzzles | 140 | 0 | new | 28 | 5 | 46 |
+| uk-canada | 79 | 0 | new | 18 | 4 | 59 |
+| entertainment | 62 | 0 | new | 17 | 4 | 38 |
+| retail-dates | 58 | 0 | new | 20 | 3 | 85 |
 | school-calendars | 34 | 0 | new | 21 | 2 | 19 |
 | money-benefits | 30 | 0 | new | 12 | 3 | 44 |
 | calendar-guides | 29 | 0 | new | 15 | 2 | 101 |
@@ -56,6 +56,6 @@ Beacon views of the last 7 days against the 7 before, per category, and views pe
 | sky-events | 16 | 0 | new | 5 | 3 | 50 |
 | (other) | 9 | 0 | new | 2 | 5 | 7 |
 | planning | 8 | 0 | new | 5 | 2 | 21 |
+| gaming-tech | 5 | 0 | new | 3 | 2 | 9 |
 | time-change | 3 | 0 | new | 1 | 3 | 47 |
-| gaming-tech | 3 | 0 | new | 2 | 2 | 6 |
 

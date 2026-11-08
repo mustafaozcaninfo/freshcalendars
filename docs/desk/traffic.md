@@ -9,19 +9,19 @@ Page views sent by the reader's own browser to /api/pv when they leave the page 
 | Day | Views | Avg. seconds on page | Avg. deepest scroll |
 |---|---:|---:|---:|
 | 2026-11-07 | 617 | 55 | 23% |
-| 2026-11-08 | 416 | 66 | 22% |
-| **Total** | **1,033** | | |
+| 2026-11-08 | 431 | 64 | 22% |
+| **Total** | **1,048** | | |
 
 ### Where readers came from
 
 | Source | Views | Share |
 |---|---:|---:|
-| Google | 229 | 22.2% |
-| Direct or app (no referrer) | 192 | 18.6% |
-| DuckDuckGo | 178 | 17.2% |
-| Bing | 174 | 16.8% |
-| Inside the site | 139 | 13.5% |
-| Yahoo | 102 | 9.9% |
+| Google | 236 | 22.5% |
+| Direct or app (no referrer) | 196 | 18.7% |
+| DuckDuckGo | 179 | 17.1% |
+| Bing | 176 | 16.8% |
+| Inside the site | 140 | 13.4% |
+| Yahoo | 102 | 9.7% |
 | Other sites | 18 | 1.7% |
 | Social | 1 | 0.1% |
 
@@ -31,48 +31,48 @@ Other sites, top 10: www.ecosia.org (13), search.brave.com (4), www.startpage.co
 
 | Page | Views | Avg. seconds | Avg. deepest scroll |
 |---|---:|---:|---:|
-| /news/veterans-day-free-meals-discounts/ | 140 | 148 | 38% |
+| /news/veterans-day-free-meals-discounts/ | 141 | 147 | 38% |
 | /news/army-navy-game-2026-date-kickoff-time-metlife-stadium-tv/ | 87 | 42 | 9% |
 | /news/ | 41 | 4 | 13% |
 | /news/nyt-connections-hints-answers-november-7-2026-1245/ | 37 | 60 | 22% |
 | /news/day-of-the-dead-2026-dia-de-los-muertos-dates/ | 33 | 80 | 11% |
-| /news/paris-masters-2026-schedule-final-time-by-time-zone/ | 31 | 45 | 22% |
-| /news/london-fireworks-2026-battersea-alexandra-palace-blackheath-wimbledon-times-tickets/ | 26 | 25 | 7% |
+| /news/paris-masters-2026-schedule-final-time-by-time-zone/ | 32 | 44 | 21% |
+| /news/london-fireworks-2026-battersea-alexandra-palace-blackheath-wimbledon-times-tickets/ | 27 | 24 | 7% |
 | /news/snl-hosts-november-2026-halloween-episode-inde-navarrette-schedule/ | 17 | 60 | 21% |
 | /news/nyt-strands-hints-answers-november-8-2026-980/ | 17 | 36 | 38% |
 | /news/thanksgiving-football-schedule-2026-nfl-college-games/ | 15 | 51 | 17% |
 | /news/nations-championship-rugby-november-2026-fixtures-kick-off-times-uk-us/ | 14 | 78 | 31% |
 | /news/nyt-connections-hints-answers-november-8-2026-1246/ | 13 | 142 | 22% |
-| /news/cbs-holiday-specials-2026-schedule-kids-choice-awards-soul-train-new-years-eve/ | 12 | 59 | 42% |
 | /news/black-friday-2026-post-office-banks-stock-market-open/ | 12 | 5 | 22% |
-| /news/ncaa-volleyball-tournament-2026-bracket-schedule-final-four-san-antonio/ | 11 | 45 | 17% |
+| /news/cbs-holiday-specials-2026-schedule-kids-choice-awards-soul-train-new-years-eve/ | 12 | 59 | 42% |
 | /news/nyt-pips-hints-answers-november-8-2026/ | 11 | 21 | 27% |
+| /news/ncaa-volleyball-tournament-2026-bracket-schedule-final-four-san-antonio/ | 11 | 45 | 17% |
 | /news/printable-nfl-pickem-sheets-2026/ | 10 | 14 | 16% |
-| /news/world-chess-championship-2026-gukesh-sindarov-geneva-dates-time/ | 9 | 5 | 23% |
+| /news/remembrance-sunday-2026-cenotaph-timings-8-november-festival-of-remembrance/ | 9 | 31 | 22% |
 | /news/when-do-2026-election-winners-take-office-congress-governors/ | 9 | 66 | 24% |
+| /news/world-chess-championship-2026-gukesh-sindarov-geneva-dates-time/ | 9 | 5 | 23% |
 | /news/costco-holiday-hours-closures-2026-2027/ | 9 | 33 | 20% |
-| /news/diwali-2026-date-lakshmi-puja-time-usa/ | 8 | 43 | 19% |
-| /news/nyt-midi-crossword-answers-november-7-2026/ | 8 | 19 | 29% |
 | /news/2027-tax-brackets-401k-hsa-limits-irs/ | 8 | 14 | 70% |
-| /news/printables/ | 8 | 5 | 5% |
-| /news/ramadan-2027-calendar-dates-timetable/ | 8 | 20 | 20% |
-| /news/bonfire-night-2026-thursday-november-5-fireworks-rules/ | 8 | 6 | 13% |
 | /news/nyt-connections-hints-answers-november-9-2026-1247/ | 8 | 36 | 22% |
+| /news/ramadan-2027-calendar-dates-timetable/ | 8 | 20 | 20% |
+| /news/nyt-midi-crossword-answers-november-7-2026/ | 8 | 19 | 29% |
+| /news/bonfire-night-2026-thursday-november-5-fireworks-rules/ | 8 | 6 | 13% |
+| /news/diwali-2026-date-lakshmi-puja-time-usa/ | 8 | 43 | 19% |
+| /news/printables/ | 8 | 5 | 5% |
 | /news/holiday-menus-2026-every-chain-tracker/ | 7 | 34 | 29% |
 | /news/winter-solstice-2026-december-21-shortest-day-sunset-times/ | 7 | 25 | 8% |
 | /news/snap-payment-schedule-november-2026-deposit-dates-by-state/ | 7 | 41 | 18% |
-| /news/black-friday-2026-ad-tracker-walmart-target-best-buy/ | 6 | 399 | 30% |
-| /news/printable-nfl-schedule-2026-2027-pdf/ | 6 | 30 | 7% |
-| /news/remembrance-sunday-2026-cenotaph-timings-8-november-festival-of-remembrance/ | 6 | 37 | 28% |
 | /news/nyt-spelling-bee-hints-answers-november-8-2026/ | 6 | 17 | 26% |
+| /news/black-friday-2026-ad-tracker-walmart-target-best-buy/ | 6 | 399 | 30% |
 | /news/great-american-christmas-2026-movie-schedule-great-american-family/ | 6 | 40 | 28% |
-| /news/great-british-bake-off-2026-free-from-week-tuesday-3-november-episode-schedule/ | 5 | 18 | 13% |
-| /news/category/puzzles/ | 5 | 4 | 8% |
-| /news/when-are-2026-election-results-certified-deadlines-by-state/ | 5 | 39 | 16% |
+| /news/printable-nfl-schedule-2026-2027-pdf/ | 6 | 30 | 7% |
+| /news/home-depot-black-friday-2026-sale-dates-november-5-25-store-hours/ | 5 | 110 | 50% |
 | /news/what-calendar-year-is-the-same-as-2027/ | 5 | 25 | 14% |
+| /news/great-british-bake-off-2026-free-from-week-tuesday-3-november-episode-schedule/ | 5 | 18 | 13% |
+| /news/when-are-2026-election-results-certified-deadlines-by-state/ | 5 | 39 | 16% |
 | /news/rosa-parks-day-2026-december-1-states/ | 5 | 5 | 15% |
 
-Devices: desktop 532 (64 s, 25% scroll) · mobile 488 (55 s, 20% scroll) · tablet 13 (76 s, 23% scroll)
+Devices: desktop 542 (63 s, 25% scroll) · mobile 493 (54 s, 20% scroll) · tablet 13 (76 s, 23% scroll)
 
 ### Interaction to Next Paint (INP): how fast the page answers a tap
 
@@ -80,8 +80,8 @@ Views where the reader tapped, clicked or typed. Google counts a page as good wh
 
 | Device | Views with a tap | Over 200 ms | Avg. slowest interaction |
 |---|---:|---:|---:|
-| mobile | 77 | 7.8% | 86 ms |
-| desktop | 53 | 15.1% | 164 ms |
+| mobile | 79 | 8.9% | 89 ms |
+| desktop | 54 | 14.8% | 163 ms |
 | tablet | 1 | 0.0% | 40 ms |
 
 Pages with the most slow taps:
@@ -94,11 +94,12 @@ Pages with the most slow taps:
 | /news/paris-masters-2026-schedule-final-time-by-time-zone/ | 9 | 1 | 80 ms |
 | /news/bonfire-night-2026-thursday-november-5-fireworks-rules/ | 1 | 1 | 248 ms |
 | /news/cracker-barrel-holiday-menu-2026-thanksgiving-heat-and-serve/ | 1 | 1 | 984 ms |
-| /news/snap-payment-schedule-november-2026-deposit-dates-by-state/ | 1 | 1 | 240 ms |
 | /news/celtics-schedule-december-2026-game-times-tv-christmas-printable/ | 1 | 1 | 264 ms |
+| /news/snap-payment-schedule-november-2026-deposit-dates-by-state/ | 1 | 1 | 240 ms |
 | /news/ | 4 | 1 | 99 ms |
 | /news/nyt-pips-hints-answers-november-8-2026/ | 2 | 1 | 180 ms |
 | /news/nations-championship-rugby-november-2026-fixtures-kick-off-times-uk-us/ | 2 | 1 | 232 ms |
+| /news/nyt-spelling-bee-hints-answers-november-9-2026/ | 1 | 1 | 264 ms |
 
 What was tapped, and the script that ran longest in that frame:
 
@@ -113,22 +114,23 @@ What was tapped, and the script that ran longest in that frame:
 | div.article-layout | (none over 50 ms) | 1 | 288 ms | 1 ms |
 | button.test | inline | 1 | 250 ms | 90 ms |
 | a | pagead2.googlesyndication.com | 1 | 272 ms | 15 ms |
+| nav.pz-jump | fundingchoicesmessages.google.com | 1 | 264 ms | 209 ms |
 | a | (none over 50 ms) | 1 | 240 ms | 9 ms |
 | p.news-lede | (none over 50 ms) | 1 | 528 ms | 513 ms |
 
-Countries: US 670 · TR 163 · GB 50 · CA 34 · AU 31 · FR 9 · NZ 6 · ID 5 · PL 5 · NL 5 · PT 3 · HT 3 · CO 3 · ZA 3 · PH 3
+Countries: US 677 · TR 165 · GB 54 · CA 34 · AU 32 · FR 9 · NZ 6 · NL 5 · PL 5 · ID 5 · HT 3 · CO 3 · DO 3 · PT 3 · ZA 3
 
 ## Core Web Vitals (Cloudflare Web Analytics)
 
 Measured in real browsers by the Cloudflare beacon, bots left out, last 7 days. Google's "good" limits at the 75th percentile: Largest Contentful Paint (LCP) 2.5 s, Interaction to Next Paint (INP) 200 ms, Cumulative Layout Shift (CLS) 0.1.
 
-Page loads: 2026-11-01 2,260 · 2026-11-02 3,500 · 2026-11-03 3,100 · 2026-11-04 3,310 · 2026-11-05 2,170 · 2026-11-06 2,140 · 2026-11-07 1,930 · 2026-11-08 690
+Page loads: 2026-11-01 2,111 · 2026-11-02 3,513 · 2026-11-03 3,186 · 2026-11-04 3,179 · 2026-11-05 2,089 · 2026-11-06 2,196 · 2026-11-07 1,774 · 2026-11-08 608
 
 | Device | Samples | LCP p75 | INP p75 | CLS p75 |
 |---|---:|---:|---:|---:|
-| desktop | 8,875 | 0.82 s (95% good) | 40 ms (98% good) | 0.001 (99% good) |
-| mobile | 6,266 | 0.61 s (98% good) | 56 ms (96% good) | 0.000 (97% good) |
-| tablet | 452 | 1.44 s (92% good) | 184 ms (78% good) | 0.000 (99% good) |
+| desktop | 9,350 | 0.80 s (95% good) | 40 ms (99% good) | 0.001 (99% good) |
+| mobile | 6,080 | 0.58 s (98% good) | 56 ms (94% good) | 0.000 (98% good) |
+| tablet | 500 | 1.32 s (90% good) | 184 ms (82% good) | 0.000 (100% good) |
 
 Pages over a limit (10+ samples):
 
@@ -136,18 +138,18 @@ Pages over a limit (10+ samples):
 
 Elements behind slow taps (INP over 200 ms):
 
-- html.news>ins.adsbygoogle.adsbygoogle-noablate>div.grippy-host on /news/day-of-the-dead-2026-dia-de-los-muertos-dates/: 200
-- html.news>ins.adsbygoogle.adsbygoogle-noablate>div.grippy-host on /news/veterans-day-free-meals-discounts/: 160
-- #site-nav>a on /: 90
-- html.news>ins.adsbygoogle.adsbygoogle-noablate>div.grippy-host on /news/free-rides-to-the-polls-2026-lyft-uber-transit/: 80
-- html.news>ins.adsbygoogle.adsbygoogle-noablate>div.grippy-host on /news/when-do-2026-election-winners-take-office-congress-governors/: 70
-- #main>div.article-layout>article.article.news-wrap>div.prose-news>ul>li>details.pz-hint>summary on /news/nyt-connections-hints-answers-november-5-2026-1243/: 60
-- html.news on /news/veterans-day-free-meals-discounts/: 50
-- #main>div.article-layout>article.article.news-wrap>aside.print-tease>div.pt-body>div.pt-act>a.pt-btn on /news/veterans-day-free-meals-discounts/: 50
-- #main>div.home>div.news-concept-wrap>section.concept-news-lead>div.concept-latest>article>a>img on /news/: 50
-- (unknown) on /january-calendars.html: 50
-- #main>div.article-layout>article.article.news-wrap>div.prose-news>ul>li>details.pz-hint>summary on /news/nyt-connections-hints-answers-november-7-2026-1245/: 40
-- #main>div.home>div.news-concept-wrap>section.concept-news-lead>article.concept-feature>a>img on /news/: 40
+- html.news>ins.adsbygoogle.adsbygoogle-noablate>div.grippy-host on /news/day-of-the-dead-2026-dia-de-los-muertos-dates/: 191
+- html.news>ins.adsbygoogle.adsbygoogle-noablate>div.grippy-host on /news/veterans-day-free-meals-discounts/: 152
+- #site-nav>a on /: 94
+- html.news>body on /news/: 72
+- html.news on /news/veterans-day-free-meals-discounts/: 64
+- html.news>ins.adsbygoogle.adsbygoogle-noablate>div.grippy-host on /news/when-do-2026-election-winners-take-office-congress-governors/: 55
+- #main>div.article-layout>article.article.news-wrap>div.prose-news>ul>li>details.pz-hint>summary on /news/nyt-connections-hints-answers-november-7-2026-1245/: 49
+- html.news>ins.adsbygoogle.adsbygoogle-noablate>div.grippy-host on /news/free-rides-to-the-polls-2026-lyft-uber-transit/: 45
+- #main>div.article-layout>article.article.news-wrap>div.prose-news>ul>li>details.pz-hint>summary on /news/nyt-connections-hints-answers-november-5-2026-1243/: 41
+- html.news>ins.adsbygoogle.adsbygoogle-noablate>div.grippy-host on /news/nhl-hometown-remix-jerseys-2026-27-unveil-date-game-schedule/: 36
+- #main>div.home>div.news-concept-wrap>section.concept-news-lead>div.concept-latest>article>a>img on /news/: 32
+- html.news>body on /news/veterans-day-free-meals-discounts/: 31
 
 What the largest paint is:
 
@@ -217,10 +219,10 @@ What the largest paint is:
 | /news/native-american-heritage-month-2026-theme-events-books-activities/ | 742 |
 | /news/nfl-week-9-schedule-2026-printable-pick-em-sheet-game-times/ | 739 |
 | /news/best-buy-black-friday-2026-doorbusters-october-30-holiday-calendar/ | 690 |
+| /news/printable-pumpkin-carving-templates/ | 606 |
 | /news/amazon-black-friday-2026-sale-dates-when-does-it-start/ | 593 |
 | /news/when-are-2026-election-results-certified-deadlines-by-state/ | 591 |
-| /news/printable-pumpkin-carving-templates/ | 588 |
-| /news/is-election-day-a-holiday-2026-whats-open/ | 586 |
+| /news/arizona-propositions-2026-ballot-explained/ | 583 |
 
 ## Top calendar pages
 
