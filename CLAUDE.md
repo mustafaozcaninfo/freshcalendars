@@ -85,6 +85,7 @@ Do not run Lighthouse (`news:lighthouse`, `smoke:lighthouse`). The goal is fast,
 | `pnpm fc news-scenes`, `pnpm fc news-photo` | contact sheet of hero scenes; licensed photo search and download from Commons, NASA, Openverse and Pexels (`newsPhoto.ts`) |
 | `packages/generator/render3d/`, `src/news3d.ts`, `src/fx.ts` | 3D hero scenes (three.js in headless Chromium, models built from primitives), the two-layer hero renderer, and the finish (bloom, grade, vignette, seeded grain) |
 | `packages/generator/src/*.ts` + `cli.ts` (`news-*` commands) | custom hero and printable generators, only when `news-assets` is not enough |
+| `packages/news-generator/` (`pnpm news-gen`) | Claude API story generator, kept apart from `packages/generator`: its `skills/` folder holds the Elite English Content Engine, the house rules that override it, and one role per stage (writer, SEO editor, chief editor); needs `ANTHROPIC_API_KEY` in `.env` |
 | `.claude/skills/news-seo/`, `news-visuals/` | ranking decisions from the SEO playbook; hero and printable method |
 | `.claude/skills/news-puzzles/`, `apps/news/src/content/puzzles/` | daily puzzle pages: method, saved official data, `puzzle-boards.mjs` draws solved boards and tap-to-reveal hints |
 | `.claude/agents/news-researcher.md`, `news-writer.md` | Haiku research agent and Sonnet writing agent the skill delegates to |
