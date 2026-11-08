@@ -57,7 +57,7 @@ internalLinks:
     label: "When is Christmas Day?"
   - href: "/when-is/uk-boxing-day/"
     label: "When is Boxing Day in the UK?"
-related: [uk-christmas-bank-holidays-2026-boxing-day-substitute-december-28, royal-mail-last-posting-dates-christmas-2026-second-class-18-december, london-new-years-eve-fireworks-2026-tickets-times-closures]
+related: [uk-christmas-bank-holidays-2026-boxing-day-substitute-december-28, royal-mail-last-posting-dates-christmas-2026-second-class-18-december, nine-lessons-and-carols-2026-kings-college-time-ballot]
 assets:
   overlay: true
   kicker: "Christmas Day 2026"

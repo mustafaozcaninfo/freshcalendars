@@ -70,7 +70,7 @@ internalLinks:
     label: "Canada holidays"
   - href: "/march-calendars.html"
     label: "March 2027 printable calendar"
-related: [bc-sunrise-times-winter-2026-27-vancouver-no-fall-back-pacific-time, black-friday-canada-2026-november-27-sale-dates-canadian-tire-november-5, quebec-winter-carnival-2027-dates-night-parades]
+related: [bc-sunrise-times-winter-2026-27-vancouver-no-fall-back-pacific-time, quebec-winter-carnival-2027-dates-night-parades, studded-tires-legal-dates-2026-27-by-state]
 downloads:
   - group: "Canada Winter Tire Dates 2026-27 printables"
     title: "Canada Winter Tire Dates 2026-27"
