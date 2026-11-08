@@ -4,7 +4,7 @@ seoTitle: "MLS Cup Playoffs 2026 Schedule and Dates"
 description: "Major League Soccer (MLS) says MLS Cup 2026 is Fri., Dec. 18 and Decision Day is Sat., Nov. 7. See every playoff round by date, the format and where to watch."
 type: explainer
 publishedAt: "2026-10-25T20:18:00-04:00"
-updatedAt: "2026-11-07T15:25:00-05:00"
+updatedAt: "2026-11-07T23:20:00-05:00"
 authors: [jessica-hartwell]
 category: sports
 keywords: ["MLS Cup playoffs 2026 schedule", "MLS Cup 2026 date", "MLS playoffs 2026 format", "MLS Decision Day 2026"]
@@ -44,22 +44,32 @@ hero:
     author: "Rex Sorgatz"
     authorUrl: "https://www.flickr.com/photos/65699349@N00"
 summary:
-  - "Major League Soccer (MLS) lists MLS Cup presented by Audi for Fri., Dec. 18, 2026, and Decision Day for Sat., Nov. 7."
-  - "The Wild Card is Thu., Nov. 19. Round One is a best-of-3 series from Fri., Nov. 20 to Wed., Dec. 2, then the conference semifinals and finals follow."
+  - "Major League Soccer (MLS) lists MLS Cup presented by Audi for Fri., Dec. 18, 2026. Decision Day was Sat., Nov. 7, and all 18 playoff spots are confirmed."
+  - "The Wild Card is Thu., Nov. 19: Orlando City host FC Cincinnati at 7:30 p.m. ET and Seattle Sounders FC host Real Salt Lake at 10 p.m. ET. Round One is a best-of-3 series from Fri., Nov. 20 to Wed., Dec. 2, then the conference semifinals and finals follow."
   - "MLS says every playoff match is on Apple TV, and select games including MLS Cup also air on FOX Sports in the U.S. and on TSN and RDS in Canada."
   - "MLS says all dates are subject to change."
 faq:
   - q: "When is MLS Cup 2026?"
     a: "MLS Cup presented by Audi is Fri., Dec. 18, 2026, according to MLS."
   - q: "When is MLS Decision Day 2026?"
-    a: "Decision Day is Sat., Nov. 7, 2026, per MLS. After it, MLS will observe the November FIFA international window."
+    a: "Decision Day was Sat., Nov. 7, 2026, per MLS. After it, MLS will observe the November FIFA international window."
   - q: "How many teams make the MLS playoffs in 2026?"
-    a: "MLS says 18 teams qualify: the top nine in the East and the top nine in the West."
+    a: "MLS says 18 teams qualify: the top nine in the East and the top nine in the West. The field is complete, with all 18 spots confirmed after Decision Day."
   - q: "Where can I watch the MLS playoffs in 2026?"
     a: "MLS says every playoff match is broadcast live on Apple TV with English and Spanish commentary. Select games, including MLS Cup, also air on FOX Sports in the U.S. and on TSN and RDS in Canada."
   - q: "Can the playoff dates change?"
     a: "Yes. MLS states that the dates are subject to change, so check mlssoccer.com before you plan around one."
 sources:
+  - title: "Audi 2026 MLS Cup Playoffs: Round One & Wild Card matchups"
+    url: "https://www.mlssoccer.com/playoffs/2026/news/audi-2026-mls-cup-playoffs-round-one-wild-card-matchups"
+    publisher: "Major League Soccer"
+  - title: "Every team that's in: Audi 2026 MLS Cup Playoffs"
+    url: "https://www.mlssoccer.com/playoffs/2026/news/every-team-qualified-audi-2026-mls-cup-playoffs"
+    publisher: "Major League Soccer"
+  - title: "Renasant recap: Nashville Soccer Club wins 2026 MLS Supporters' Shield for first time"
+    url: "https://www.nashvillesc.com/news/renasant-recap-nashville-soccer-club-wins-2026-mls-supporters-shield-for-first-time"
+    publisher: "Nashville SC"
+    date: "2026-10-24"
   - title: "Audi 2026 MLS Cup Playoffs: Key dates & schedule information"
     url: "https://www.mlssoccer.com/playoffs/2026/news/audi-2026-mls-cup-playoffs-key-dates-schedule-information"
     publisher: "Major League Soccer"
@@ -91,9 +101,9 @@ downloads:
 draft: false
 ---
 
-**Major League Soccer's (MLS) regular season ends on Decision Day, Saturday, Nov. 7, 2026 (Eastern Conference at 4 p.m. Eastern Time (ET), Western Conference at 7 p.m. ET), the playoffs start with Wild Card matches on Thursday, Nov. 19, and MLS Cup presented by Audi is on Friday, Dec. 18, according to the league's official playoff key dates.** MLS announced the schedule on Mar. 16, 2026, and says the dates are subject to change.
+**Major League Soccer's (MLS) regular season ended on Decision Day, Saturday, Nov. 7, 2026 (Eastern Conference at 4 p.m. Eastern Time (ET), Western Conference at 7 p.m. ET), the playoffs start with Wild Card matches on Thursday, Nov. 19, and MLS Cup presented by Audi is on Friday, Dec. 18, according to the league's official playoff key dates.** MLS announced the schedule on Mar. 16, 2026, and says the dates are subject to change.
 
-This page lays out each round by date with its weekday, explains how the field is set, and says where the games air. A one-page printable of the timeline is below.
+This page lays out each round by date with its weekday, lists the final field and the matchups, and says where the games air. A one-page printable of the timeline is below.
 
 ## What is the MLS Cup playoffs 2026 schedule?
 
@@ -110,15 +120,48 @@ MLS publishes one date or range for each stage. Round One is a best-of-3 series 
 | Conference Finals | Fri., Dec. 11 to Sat., Dec. 12 |
 | MLS Cup presented by Audi | Fri., Dec. 18 |
 
-Source: Major League Soccer, 2026. MLS has not yet announced playoff kickoff times in these pages, so this story gives none. Mark them on the [November 2026 printable calendar](/november-calendars.html) and the [December 2026 printable calendar](/december-calendars.html).
+Source: Major League Soccer, 2026. MLS has posted the Wild Card kickoff times (below) but has not yet announced Round One game days or kickoff times, so this story gives none for Round One. Mark them on the [November 2026 printable calendar](/november-calendars.html) and the [December 2026 printable calendar](/december-calendars.html).
 
 ## When is MLS Decision Day 2026?
 
-Decision Day is Sat., Nov. 7, 2026, per MLS, and all 30 clubs play: the East at 4 p.m. ET and the West at 7 p.m. ET. After it, MLS says it will observe the November Fédération Internationale de Football Association (FIFA) international window, and the Wild Card does not start until Thu., Nov. 19.
+Decision Day was Sat., Nov. 7, 2026, per MLS, with the East at 4 p.m. ET and the West at 7 p.m. ET. MLS says the field is complete, with all 18 spots confirmed following Decision Day. Nashville SC won their first-ever Supporters' Shield, announced by the club on Oct. 24, 2026. After Decision Day, MLS says it will observe the November Fédération Internationale de Football Association (FIFA) international window, and the Wild Card does not start until Thu., Nov. 19.
 
 ## How does the MLS playoffs 2026 format work?
 
 MLS says 18 teams qualify, the top nine in the East and the top nine in the West. Seeds 1 to 7 in each conference go to Round One. Seeds 8 and 9 play single-game Wild Card matches, hosted by the higher seed.
+
+## Who is in the MLS playoffs 2026 and who plays whom?
+
+MLS confirmed the final seeds after Decision Day.
+
+| Seed | East | West |
+|---|---|---|
+| 1 | Nashville SC | Vancouver Whitecaps FC |
+| 2 | Inter Miami CF | FC Dallas |
+| 3 | New England Revolution | St. Louis City SC |
+| 4 | Chicago Fire FC | San Jose Earthquakes |
+| 5 | Charlotte FC | Houston Dynamo FC |
+| 6 | Philadelphia Union | Los Angeles Football Club (LAFC) |
+| 7 | Columbus Crew | Portland Timbers |
+| 8 | Orlando City | Seattle Sounders FC |
+| 9 | FC Cincinnati | Real Salt Lake |
+
+The higher seed hosts each Wild Card match. MLS lists Round One as follows, and says the day and time of every Round One game is to be announced.
+
+| Conference | Matchup | When | TV |
+|---|---|---|---|
+| East | (8) Orlando City vs. (9) FC Cincinnati (Wild Card) | Thu., Nov. 19, 7:30 p.m. ET | Apple TV |
+| West | (8) Seattle Sounders FC vs. (9) Real Salt Lake (Wild Card) | Thu., Nov. 19, 10 p.m. ET | Apple TV |
+| East | (1) Nashville SC vs. Wild Card winner (Orlando City or FC Cincinnati) | Round One, not yet announced | Not yet announced |
+| East | (2) Inter Miami CF vs. (7) Columbus Crew | Round One, not yet announced | Not yet announced |
+| East | (3) New England Revolution vs. (6) Philadelphia Union | Round One, not yet announced | Not yet announced |
+| East | (4) Chicago Fire FC vs. (5) Charlotte FC | Round One, not yet announced | Not yet announced |
+| West | (1) Vancouver Whitecaps FC vs. Wild Card winner (Seattle Sounders FC or Real Salt Lake) | Round One, not yet announced | Not yet announced |
+| West | (2) FC Dallas vs. (7) Portland Timbers | Round One, not yet announced | Not yet announced |
+| West | (3) St. Louis City SC vs. (6) LAFC | Round One, not yet announced | Not yet announced |
+| West | (4) San Jose Earthquakes vs. (5) Houston Dynamo FC | Round One, not yet announced | Not yet announced |
+
+Source: Major League Soccer, 2026.
 
 Round One is a best-of-3 series. Game Three is played only if it is needed, which is why MLS gives it a separate date range of Tue., Dec. 1 to Wed., Dec. 2. The conference semifinals and conference finals follow, and MLS Cup closes the season.
 
@@ -136,11 +179,11 @@ MLS names the host rule for every round. The Wild Card and Round One dates are t
 | Conference Finals | Fri., Dec. 11 to Sat., Dec. 12 | The team with the better regular-season record |
 | MLS Cup presented by Audi (primetime) | Fri., Dec. 18 | The finalist with the better regular-season record |
 
-Source: Major League Soccer, 2026. MLS says all 16 Round One teams play at least one home game. Seeds, matchups and the exact date of each Round One game are not yet announced, because the regular season is not finished.
+Source: Major League Soccer, 2026. MLS says all 16 Round One teams play at least one home game. The exact date of each Round One game is not yet announced.
 
 ## Where can I watch the MLS playoffs?
 
-MLS says every playoff match is broadcast live on Apple TV. Select games, including MLS Cup, also air on FOX Sports in the U.S. and on The Sports Network (TSN) and Réseau des sports (RDS) in Canada. MLS does not list in the pages used here which games besides MLS Cup are on those networks.
+MLS says every playoff match is broadcast live on Apple TV. Select games, including MLS Cup, also air on FOX Sports in the U.S. and on The Sports Network (TSN) and Réseau des sports (RDS) in Canada. MLS does not list in the pages used here which games besides MLS Cup are on those networks. The two Wild Card matches are on Apple TV; Round One TV per game is not yet announced.
 
 ## Who won MLS Cup last year?
 
