@@ -4,7 +4,7 @@ seoTitle: "Runoff Election 2026 Dates: Georgia and Louisiana"
 description: "Georgia's runoff, if needed, is Tuesday, Dec. 1, 2026; Louisiana's second round is Saturday, Dec. 12. Deadlines for each state, with a printable."
 type: news
 publishedAt: "2026-10-30T19:45:00-04:00"
-updatedAt: "2026-11-07T01:23:00-05:00"
+updatedAt: "2026-11-07T21:21:00-05:00"
 authors: [christina-gerland]
 category: elections
 keywords: ["runoff election 2026 dates", "georgia runoff 2026 date", "when is the georgia runoff", "louisiana december 12 election"]
@@ -107,10 +107,34 @@ sources:
     url: "https://www.kplctv.com/2026/11/04/runoff-needed-determine-who-takes-5th-congressional-district-seat/"
     publisher: "KPLC"
     date: "2026-11-04"
-  - title: "Chauna Banks, Blake Miguez advance to runoff for Louisiana's 6th Congressional District"
-    url: "https://www.wafb.com/2026/11/03/chauna-banks-blake-miguez-advance-runoff-louisianas-6th-congressional-district/"
-    publisher: "WAFB"
+  - title: "Incumbents keep 4 congressional seats, two districts headed to run-off elections"
+    url: "https://www.wbrz.com/news/incumbents-keep-4-congressional-seats-two-districts-headed-to-run-off-elections"
+    publisher: "WBRZ"
     date: "2026-11-03"
+  - title: "Gabe Firment, Patricia Moore head to runoff for Louisiana's 5th Congressional District seat"
+    url: "https://www.kalb.com/2026/11/04/gabe-firment-patricia-moore-head-runoff-louisianas-5th-congressional-district-seat/"
+    publisher: "KALB"
+    date: "2026-11-04"
+  - title: "Georgia Democrats flip state House, Republicans hold Senate majority"
+    url: "https://www.atlantanewsfirst.com/2026/11/04/georgia-democrats-flip-state-house-republicans-hold-senate-majority/"
+    publisher: "Atlanta News First"
+    date: "2026-11-04"
+  - title: "Democrats close in on having majority in Georgia House for first time in decades"
+    url: "https://www.cbsnews.com/atlanta/news/democrats-close-having-majority-in-georgia-house-for-first-time-in-decades-a-new-era-for-our-state/"
+    publisher: "CBS News Atlanta"
+    date: "2026-11-04"
+  - title: "Runoff Election Calendar, December 12, 2026 Runoff Election"
+    url: "https://services.austintexas.gov/edims/document.cfm?id=472487"
+    publisher: "City of Austin"
+    date: "2026-11-05"
+  - title: "City to Hold Runoff Election on December 12, 2026"
+    url: "https://www.corpuschristitx.gov/news/posts/city-to-hold-runoff-election-on-december-12-2026/"
+    publisher: "City of Corpus Christi"
+    date: "2026-11-05"
+  - title: "Three Out of Five Austin City Council Races Go to Runoff"
+    url: "https://www.austinchronicle.com/news/three-out-of-five-austin-city-council-races-go-to-runoff/"
+    publisher: "The Austin Chronicle"
+    date: "2026-11-04"
   - title: "'We're not letting our foot off the gas': Blake Miguez speaks on District 6 House runoff"
     url: "https://www.wbrz.com/news/we-re-not-letting-our-foot-off-the-gas-blake-miguez-speaks-on-district-6-house-runoff"
     publisher: "WBRZ"
@@ -153,7 +177,7 @@ downloads:
 draft: false
 ---
 
-**Georgia's General Election Runoff, if one is required, is Tuesday, Dec. 1, 2026, according to georgia.gov, and Louisiana's second round is Saturday, Dec. 12, according to the Louisiana Secretary of State.** Mississippi also lists Dec. 1 as a runoff day for judge and school board races. Every deadline below comes from those state calendars, and a runoff happens only if no race on the ballot is decided on Nov. 3 under the state's rules. As of Thursday, Nov. 5, Louisiana's 5th and 6th Congressional Districts are headed to the Dec. 12 runoff, according to the Rapides Parish Journal, the Lake Charles TV station (KPLC), a Baton Rouge TV station (WAFB) and another Baton Rouge TV station (WBRZ), while Georgia's U.S. Senate race was decided on Nov. 3 without a runoff, The Current and CBS News reported. Neither state's election office had posted a runoff list we could open, and results stay unofficial until counties certify.
+**Georgia's General Election Runoff, if one is required, is Tuesday, Dec. 1, 2026, according to georgia.gov, and Louisiana's second round is Saturday, Dec. 12, according to the Louisiana Secretary of State.** Mississippi also lists Dec. 1 as a runoff day for judge and school board races. Every deadline below comes from those state calendars, and a runoff happens only if no race on the ballot is decided on Nov. 3 under the state's rules. As of Saturday, Nov. 7, Louisiana's 5th and 6th Congressional Districts are headed to the Dec. 12 runoff, according to the Rapides Parish Journal, the Lake Charles TV station (KPLC), the Alexandria TV station (KALB) and a Baton Rouge TV station (WBRZ). Georgia's U.S. Senate race was decided on Nov. 3 without a runoff, The Current and CBS News reported, while Atlanta News First and CBS News Atlanta reported that state House District 151 goes to Dec. 1. Austin and Corpus Christi also hold local runoffs on Saturday, Dec. 12, according to each city. Neither Georgia's nor Louisiana's election office had posted a runoff list we could open, and results stay unofficial until counties certify.
 
 ## Runoff and second-round dates by state
 
@@ -176,7 +200,7 @@ georgia.gov lists the General Election Runoff for Tuesday, Dec. 1, 2026, if need
 - **Absentee ballot:** the last day to request one is Friday, Nov. 20. Absentee ballots must be received by 7 p.m. on Dec. 1.
 - **Early voting:** Monday, Nov. 23 to Wednesday, Nov. 25. georgia.gov calls it "a very short early voting window, abbreviated due to the Thanksgiving holiday."
 
-The Current and CBS News reported that the U.S. Senate race in Georgia was decided on Nov. 3 without a runoff, so it will not go to Dec. 1. As of Thursday, Nov. 5, none of the sources we read reported a Georgia statewide runoff. The Georgia Secretary of State had not posted a runoff list we could open, and local or legislative contests may still go to Dec. 1. The official list is not yet posted.
+The Current and CBS News reported that the U.S. Senate race in Georgia was decided on Nov. 3 without a runoff, so it will not go to Dec. 1. As of Saturday, Nov. 7, none of the sources we read reported a Georgia statewide runoff. Atlanta News First and CBS News Atlanta, both on Nov. 4, reported that state House District 151 goes to the Dec. 1 runoff between Republican incumbent Mike Cheokas and Democrat Ethan Wolfe. Atlanta News First wrote that no candidate crossed 50%, so the two "will advance to a general election runoff on Tuesday, Dec. 1, 2026." The Georgia Secretary of State had not posted a runoff list we could open, and other local or legislative contests may also go to Dec. 1. The full official list is not yet posted.
 
 For this election, the Georgia Election Guide on georgia.gov lists an Oct. 5 registration deadline and early voting from Oct. 13 to Oct. 30. Our [Georgia ballot and advance voting guide](/news/georgia-2026-ballot-amendments-advance-voting/) covers the Nov. 3 ballot.
 
@@ -196,7 +220,7 @@ The Louisiana Secretary of State's Election Dates page lists Nov. 3 as "U.S. Sen
 | Request a mail ballot | Tue., Dec. 8, by 4:30 p.m. |
 | Mail ballot must be received | Fri., Dec. 11, by 4:30 p.m. |
 
-As of Nov. 5, two Louisiana congressional districts go to the Saturday, Dec. 12 runoff. The Rapides Parish Journal and KPLC reported that the 5th District runoff is between state Rep. Patricia "Pat" Moore (Democrat) and state Rep. Gabe Firment (Republican). WAFB (Nov. 3) and WBRZ (Nov. 4) reported that the 6th District runoff is between Chauna Banks (Democrat) and Blake Miguez (Republican). The Rapides Parish Journal and KPLC said no candidate won more than 50% in the nine-candidate Nov. 3 open primary in the 5th District. The Rapides Parish Journal noted that "all results from the Nov. 3 election remain unofficial and subject to certification." The Louisiana Secretary of State had not posted a runoff list we could open, so other contests may be added to the Dec. 12 ballot.
+As of Nov. 7, two Louisiana congressional districts go to the Saturday, Dec. 12 runoff. The Rapides Parish Journal and KPLC reported that the 5th District runoff is between state Rep. Patricia "Pat" Moore (Democrat) and state Rep. Gabe Firment (Republican), and KALB (Nov. 4) and WBRZ (Nov. 3) also reported the 5th District runoff. WBRZ (Nov. 3 and Nov. 4) reported that the 6th District runoff is between Chauna Banks (Democrat) and Blake Miguez (Republican). The Rapides Parish Journal and KPLC said no candidate won more than 50% in the nine-candidate Nov. 3 open primary in the 5th District. The Rapides Parish Journal noted that "all results from the Nov. 3 election remain unofficial and subject to certification." The Louisiana Secretary of State had not posted a runoff list we could open, so other contests may be added to the Dec. 12 ballot.
 
 The Dec. 12 vote is only the first round for the 14th Senatorial District seat in East Baton Rouge Parish. The same Secretary of State page lists a "January 9, 2027 - Special General (State Senator, 14th Senatorial District, Parish of East Baton Rouge) Election."
 
@@ -215,11 +239,11 @@ Louisiana readers can also look at our [Louisiana sample ballot guide](/news/lou
 
 ## What is on the Mississippi runoff calendar for Dec. 1?
 
-The Mississippi Secretary of State lists Tuesday, Dec. 1 as "General Election/Special Election Runoff Day (if required) for Mississippi Supreme Court, Court of Appeals, Chancery, Circuit, and County Court Judges; School Board Members/Trustees," with polls open 7 a.m. to 7 p.m. The runoff registration deadline was Nov. 2. In-person absentee voting ends Saturday, Nov. 28 at noon. Mail ballots must be postmarked by runoff day and received by Dec. 8 at 5 p.m.
+The Mississippi Secretary of State lists Tuesday, Dec. 1 as "General Election/Special Election Runoff Day (if required) for Mississippi Supreme Court, Court of Appeals, Chancery, Circuit, and County Court Judges; School Board Members/Trustees," with polls open 7 a.m. to 7 p.m. The runoff registration deadline was Nov. 2. Circuit clerks' offices are open Saturday, Nov. 21, from 8 a.m. to 12 p.m. for runoff absentee voting, and in-person absentee voting ends Saturday, Nov. 28 at noon. The calendar also notes: "The regularly scheduled election for Mississippi Supreme Court is currently enjoined due to a federal court order." We could not confirm which contests, if any, will be on the Dec. 1 runoff ballot. Mail ballots must be postmarked by runoff day and received by Dec. 8 at 5 p.m.
 
 ## Do Texas and Alabama have general election runoffs?
 
-Texas local runoffs, if any, follow dates set by each city or district; check the Texas Secretary of State. Our [Texas election calendar](/news/texas-election-calendar-2026-early-voting-dates-deadlines/) covers the state's other dates. Alabama has runoffs only in primaries, and the Alabama Secretary of State lists the 2026 primary runoff as June 16. No Alabama general election runoff appears in that calendar.
+Texas local runoffs are called by each city, school district or other local body, so check its own page. Two cities have announced Saturday, Dec. 12, 2026 for runoffs from the Nov. 3 local elections, according to their own pages. The City of Austin lists Thursday, Nov. 12 as the last day to register, early voting in person from Monday, Nov. 30 to Tuesday, Dec. 8, and Tuesday, Dec. 1 as the last day to apply for a ballot by mail (it must be received by the early voting clerk). The Austin Chronicle reported on Nov. 4 that City Council Districts 1, 3 and 5 go to the runoff, and Austin's calendar shows the canvass of the Nov. 3 results on Nov. 17, so those pairings remain unofficial until then. The City of Corpus Christi will hold its runoff from 7:00 a.m. to 7:00 p.m. for Mayor, At-Large Council Member (two positions) and Council Member Districts 1 to 5. For other Texas cities and counties, check their own election pages. Our [Texas election calendar](/news/texas-election-calendar-2026-early-voting-dates-deadlines/) covers the state's other dates. Alabama has runoffs only in primaries, and the Alabama Secretary of State lists the 2026 primary runoff as June 16. No Alabama general election runoff appears in that calendar.
 
 ## Print the runoff dates
 
