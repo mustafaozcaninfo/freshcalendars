@@ -1,6 +1,6 @@
 import assert from "node:assert/strict";
 import { it } from "node:test";
-import { cannibalization, canonicalRows, expectedCtr, fellTwice, gate, imageGaps, measureExperiment, movers, opportunities, report, sample, section, weakPages, weeklyTotals, windows, ymd } from "../../../scripts/news-gsc.mjs";
+import { cannibalization, canonicalRows, expectedCtr, fellTwice, gate, imageGaps, measureExperiment, movers, opportunities, pageTable, report, sample, section, weakPages, weeklyTotals, windows, ymd } from "../../../scripts/news-gsc.mjs";
 
 const day = (date: string, clicks: number, impressions: number) => ({ keys: [date], clicks, impressions });
 
@@ -179,4 +179,24 @@ it("weakPages lists news pages with many impressions and few clicks, with their 
   const out = weakPages(pages, pairs);
   assert.deepEqual(out.map((p) => p.page), ["https://freshcalendars.com/news/a/"]);
   assert.deepEqual(out[0].queries.map((q) => q.query), ["big", "small"]);
+});
+
+it("pageTable keeps every /news/ story with web, image, Discover, halves and top queries", () => {
+  const u = (slug: string) => `https://freshcalendars.com/news/${slug}/`;
+  const r = (keys: string[], clicks: number, impressions: number, position = 5) => ({ keys, clicks, impressions, position });
+  const t = pageTable({
+    web: [r([u("a")], 3, 100, 4.24), r([u("b")], 0, 7, 30), r(["https://freshcalendars.com/when-is/x/"], 9, 99)],
+    image: [r([u("a")], 1, 50), r([u("c")], 0, 12)],
+    discover: [r([u("b")], 2, 40)],
+    cur: [r([u("a")], 2, 60)],
+    prev: [r([u("a")], 1, 40)],
+    pairs: [r(["q1", u("a")], 1, 30), r(["q2", u("a")], 2, 70), r(["q3", u("a")], 0, 5), r(["q9", u("zzz")], 0, 9)],
+  }, { queriesPerPage: 2 });
+  assert.deepEqual(Object.keys(t), ["a", "b", "c"]);
+  assert.deepEqual(t.a.web, { clicks: 3, impressions: 100, position: 4.2 });
+  assert.deepEqual(t.a.image, { clicks: 1, impressions: 50 });
+  assert.deepEqual([t.a.web14.impressions, t.a.webPrev14.impressions], [60, 40]);
+  assert.deepEqual(t.a.queries.map((q) => q.query), ["q2", "q1"]);
+  assert.equal(t.b.discover.impressions, 40);
+  assert.equal(t.c.web.impressions, 0);
 });
