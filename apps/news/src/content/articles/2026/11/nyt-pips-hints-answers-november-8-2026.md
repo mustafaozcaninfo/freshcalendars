@@ -1,6 +1,5 @@
 ---
-title: "NYT Pips Hints and Answers for Sunday, Nov. 8, 2026: Easy, Medium and Hard"
-seoTitle: "Pips Hints & Answers, Nov. 8, 2026: Easy, Medium, Hard"
+title: "NYT Pips Hints & Answers Today, November 8, 2026"
 description: "Pips for Sunday, Nov. 8, 2026: why the 2-2 must fill Easy's middle column, two hints per level, then every Easy, Medium and Hard placement."
 type: explainer
 publishedAt: "2026-11-07T00:05:00-05:00"

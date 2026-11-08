@@ -1,6 +1,5 @@
 ---
-title: "NYT Connections: Sports Edition Hints and Answers for Friday, Oct. 30, 2026 (#767)"
-seoTitle: "Connections Sports Edition Hints Today, Oct. 30 (#767)"
+title: "Connections Sports Edition #767 Answers, October 30, 2026"
 description: "Connections: Sports Edition #767 for Friday, Oct. 30, 2026, from The Athletic and New York Times (NYT) Games: a hint per group, then all answers and the traps."
 type: explainer
 publishedAt: "2026-10-30T14:55:00-04:00"

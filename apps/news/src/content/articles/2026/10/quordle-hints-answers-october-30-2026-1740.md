@@ -1,6 +1,5 @@
 ---
-title: "Quordle Hints and Answers Today, #1740 for Friday, Oct. 30, 2026: Clues for All Four Words"
-seoTitle: "Quordle Hints & Answers Today, Oct. 30, 2026 (#1740)"
+title: "Quordle #1740 Hints & Answers Today, October 30, 2026"
 description: "Quordle #1740 for Friday, Oct. 30, 2026: a clue for each of the four words, a starter strategy, then all answers in a marked spoiler section at the very end."
 type: explainer
 publishedAt: "2026-10-30T07:45:00-04:00"

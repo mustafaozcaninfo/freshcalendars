@@ -1,6 +1,5 @@
 ---
-title: "NYT Letter Boxed Hints and Answer for Tuesday, Oct. 27, 2026: The Four Sides, Par 5 and Graded Clues"
-seoTitle: "NYT Letter Boxed Hints and Answer, Oct. 27, 2026"
+title: "Letter Boxed Hints & Answer Today, October 27, 2026"
 description: "Letter Boxed for Tuesday, Oct. 27, 2026 from The New York Times (NYT): the four sides, par of 5 words, graded hints, then the solution in a marked spoiler."
 type: explainer
 publishedAt: "2026-10-26T01:45:00-04:00"

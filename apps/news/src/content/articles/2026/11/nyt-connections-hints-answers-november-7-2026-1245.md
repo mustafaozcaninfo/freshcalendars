@@ -1,6 +1,5 @@
 ---
-title: "NYT Connections Hints and Answers for Saturday, Nov. 7, 2026 (#1245): Two Hints per Group, Then the Answers"
-seoTitle: "Connections Hints & Answers Today, Nov. 7, 2026 (#1245)"
+title: "Connections #1245 Hints & Answers Today, November 7, 2026"
 description: "Connections #1245 for Saturday, Nov. 7, 2026: hints in two steps for every color, a holiday-shaped decoy, and the full grid solution at the bottom."
 type: explainer
 publishedAt: "2026-11-06T00:05:00-05:00"

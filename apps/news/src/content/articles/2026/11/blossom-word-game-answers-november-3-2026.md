@@ -1,6 +1,5 @@
 ---
-title: "Blossom Word Game Answers and Hints for Tuesday, Nov. 3, 2026: Today's Letters, Words to Try and Pangrams"
-seoTitle: "Blossom Answers Today, Nov. 3, 2026: Pangrams"
+title: "Blossom Hints & Answers Today, November 3, 2026"
 description: "Blossom for Tuesday, Nov. 3, 2026: today's center letter A and six petals, words to try, hints for the pangrams, then the answers at the end."
 type: explainer
 publishedAt: "2026-11-03T10:30:00-05:00"

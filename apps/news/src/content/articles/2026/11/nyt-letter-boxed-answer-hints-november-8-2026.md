@@ -1,6 +1,5 @@
 ---
-title: "NYT Letter Boxed Hints and Answer for Sunday, Nov. 8, 2026: Par 4 and 33 Two-Word Routes"
-seoTitle: "NYT Letter Boxed Nov. 8, 2026: Hints, Routes, Answer"
+title: "Letter Boxed Hints & Answer Today, November 8, 2026"
 description: "Letter Boxed from The New York Times (NYT) for Sunday, Nov. 8, 2026, par 4: how the 2,001-word list splits its 33 two-word routes, five hints, then the answer."
 type: explainer
 publishedAt: "2026-11-07T00:05:00-05:00"

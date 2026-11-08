@@ -1,6 +1,5 @@
 ---
-title: "Waffle Answer and Hints Today, #1749 for Thursday, Nov. 5, 2026: Six Clues, One Route"
-seoTitle: "Waffle Answer & Hints Today, #1749 (Nov. 5, 2026)"
+title: "Waffle #1749 Hints & Answers Today, November 5, 2026"
 description: "Waffle #1749 for Thursday, Nov. 5, 2026: a clue for each of the six words, then the answers, both grids and a 10-swap route in a marked spoiler section."
 type: explainer
 publishedAt: "2026-11-05T07:40:00-05:00"

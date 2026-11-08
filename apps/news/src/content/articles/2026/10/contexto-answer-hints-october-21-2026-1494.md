@@ -1,6 +1,5 @@
 ---
-title: "Contexto Answer and Hints Today, #1494 for Wednesday, Oct. 21, 2026: Close Words Before the Secret Word"
-seoTitle: "Contexto Answer Today, #1494 (Oct. 21, 2026): Hints"
+title: "Contexto #1494 Hints & Answer Today, October 21, 2026"
 description: "Contexto #1494 for Wednesday, Oct. 21, 2026: graded hints and words that rank close to the secret word, then the answer itself in a marked section at the end."
 type: explainer
 publishedAt: "2026-10-21T01:20:00-04:00"

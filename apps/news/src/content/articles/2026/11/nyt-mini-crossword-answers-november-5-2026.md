@@ -1,6 +1,5 @@
 ---
-title: "NYT Mini Crossword Answers and Hints for Thursday, Nov. 5, 2026: One Clue, Two Answers"
-seoTitle: "NYT Mini Crossword Answers Today, Nov. 5, 2026"
+title: "NYT Mini Crossword Answers Today, November 5, 2026"
 description: "The New York Times (NYT) Mini Crossword for Thursday, Nov. 5, 2026: a hint for each of Tracy Bennett's 10 clues, one printed twice, then the full answers."
 type: explainer
 publishedAt: "2026-11-04T22:30:00-05:00"

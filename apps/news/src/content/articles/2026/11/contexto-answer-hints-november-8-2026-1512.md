@@ -1,6 +1,5 @@
 ---
-title: "Contexto #1512 for Sunday, Nov. 8, 2026: Hints, Four Groups of Close Words and Two Dead Ends"
-seoTitle: "Contexto #1512 Hints and Close Words, Nov. 8, 2026"
+title: "Contexto #1512 Hints & Answer Today, November 8, 2026"
 description: "Contexto #1512, Sunday, Nov. 8, 2026: hints, the game's 30 closest words in four groups, two dead-end guesses with their ranks, and the answer at the end."
 type: explainer
 publishedAt: "2026-11-07T00:05:00-05:00"

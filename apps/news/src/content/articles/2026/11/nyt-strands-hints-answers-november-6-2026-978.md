@@ -1,6 +1,5 @@
 ---
-title: "Strands #978, Friday, Nov. 6, 2026: Hints for Seven Theme Words and the Spangram"
-seoTitle: "Strands Hints, Nov. 6, 2026 (#978) and Answers"
+title: "Strands #978 Hints & Answers Today, November 6, 2026"
 description: "Stuck on Strands #978 (Friday, Nov. 6, 2026, clue \"Autumn walk in the woods\")? Hints for the spangram and theme words, a board map, and answers at the end."
 type: explainer
 publishedAt: "2026-11-05T00:05:00-05:00"

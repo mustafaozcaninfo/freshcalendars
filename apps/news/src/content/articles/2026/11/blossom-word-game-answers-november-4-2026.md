@@ -1,6 +1,5 @@
 ---
-title: "Blossom Word Game Answers and Hints for Wednesday, Nov. 4, 2026: Letters, Words to Try and the Pangram"
-seoTitle: "Blossom Answers Today, Nov. 4, 2026: Pangram"
+title: "Blossom Hints & Answers Today, November 4, 2026"
 description: "Blossom for Wednesday, Nov. 4, 2026: center letter M and six petals, words to try, a scoring example, a hint for the pangram, then the answer at the end."
 type: explainer
 publishedAt: "2026-11-04T08:00:00-05:00"

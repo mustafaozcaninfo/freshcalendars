@@ -1,6 +1,5 @@
 ---
-title: "NYT Mini Crossword Answers and Hints for Friday, Oct. 30, 2026: A Vampire, a Ghost and a Skeleton"
-seoTitle: "NYT Mini Crossword Answers Today, Oct. 30, 2026"
+title: "NYT Mini Crossword Answers Today, October 30, 2026"
 description: "The New York Times Mini Crossword for Friday, Oct. 30, 2026: a hint for each of the 10 clues on a Halloween-themed grid, then every answer at the end."
 type: explainer
 publishedAt: "2026-10-29T22:47:00-04:00"

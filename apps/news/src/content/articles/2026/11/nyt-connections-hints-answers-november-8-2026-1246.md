@@ -1,6 +1,5 @@
 ---
-title: "NYT Connections Hints and Answers for Sunday, Nov. 8, 2026 (#1246): Two Hints per Group, Then the Answers"
-seoTitle: "Connections Hints & Answers Today, Nov. 8, 2026 (#1246)"
+title: "Connections #1246 Hints & Answers Today, November 8, 2026"
 description: "Connections #1246 for Sunday, Nov. 8, 2026: a pair of hints for each color, a jeweler's trap that spans the whole board, and the full answers last."
 type: explainer
 publishedAt: "2026-11-07T00:05:00-05:00"

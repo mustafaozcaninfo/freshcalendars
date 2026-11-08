@@ -1,6 +1,5 @@
 ---
-title: "NYT Connections Hints and Answers for Sunday, Nov. 1, 2026 (#1239): Teeth, Love and Four Dog Words"
-seoTitle: "Connections Hints Today, Nov. 1, 2026 (#1239)"
+title: "Connections #1239 Hints & Answers Today, November 1, 2026"
 description: "Connections #1239 for Sunday, Nov. 1, 2026: two levels of hints for every group, the decoy words to avoid, then the full answers at the very end."
 type: explainer
 publishedAt: "2026-10-31T00:05:00-04:00"

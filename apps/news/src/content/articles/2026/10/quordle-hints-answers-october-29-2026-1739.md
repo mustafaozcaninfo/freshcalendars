@@ -1,6 +1,5 @@
 ---
-title: "Quordle Hints and Answers Today, #1739 for Thursday, Oct. 29, 2026: Clues for All Four Words"
-seoTitle: "Quordle Hints & Answers Today, Oct. 29, 2026 (#1739)"
+title: "Quordle #1739 Hints & Answers Today, October 29, 2026"
 description: "Quordle #1739 for Thursday, Oct. 29, 2026: a clue for each of the four words, a starter strategy, then all answers in a marked spoiler section at the very end."
 type: explainer
 publishedAt: "2026-10-29T10:41:00-04:00"

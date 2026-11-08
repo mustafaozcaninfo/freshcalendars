@@ -1,6 +1,5 @@
 ---
-title: "NYT Letter Boxed Hints and Answer for Tuesday, Nov. 3, 2026: Sides, Par 6 and Graded Hints"
-seoTitle: "NYT Letter Boxed Hints and Answer, Nov. 3, 2026"
+title: "Letter Boxed Hints & Answer Today, November 3, 2026"
 description: "Letter Boxed for Tuesday, Nov. 3, 2026 from The New York Times (NYT): sides O/A/G, Q/Z/R, U/L/E, I/T/N, par 6, seven hints, then a marked spoiler."
 type: explainer
 publishedAt: "2026-11-02T00:05:00-05:00"

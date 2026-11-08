@@ -1,6 +1,5 @@
 ---
-title: "Connections: Sports Edition #776, Nov. 8, 2026: Two Hints per Group, Then the Answers"
-seoTitle: "Connections Sports Edition Hints Today, Nov. 8 (#776)"
+title: "Connections Sports Edition #776 Answers, November 8, 2026"
 description: "Connections: Sports Edition #776 for Sunday, Nov. 8, 2026, from The Athletic and New York Times (NYT) Games: two hints per group, answers and a who's-who table."
 type: explainer
 publishedAt: "2026-11-08T07:23:00-05:00"

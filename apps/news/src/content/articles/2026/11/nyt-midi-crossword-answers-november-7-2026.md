@@ -1,6 +1,5 @@
 ---
-title: "NYT Midi Crossword Answers and Hints for Saturday, Nov. 7, 2026: Leave Me Out of It, 29 Clues"
-seoTitle: "NYT Midi Crossword Answers Today, Nov. 7, 2026"
+title: "NYT Midi Crossword Answers Today, November 7, 2026"
 description: "The New York Times (NYT) Midi Crossword for Saturday, Nov. 7, 2026: a hint for each of John Kugelman's 29 clues, how Leave Me Out of It works, then answers."
 type: explainer
 publishedAt: "2026-11-06T22:30:00-05:00"

@@ -1,6 +1,5 @@
 ---
-title: "Quordle Hints and Answers Today, #1741 for Saturday, Oct. 31, 2026: Clues for All Words"
-seoTitle: "Quordle Hints & Answers Today, Oct. 31, 2026 (#1741)"
+title: "Quordle #1741 Hints & Answers Today, October 31, 2026"
 description: "Quordle #1741 for Saturday, Oct. 31, 2026: a clue for each of the four words, a starter strategy, then all answers in a marked spoiler section at the very end."
 type: explainer
 publishedAt: "2026-10-31T10:19:00-04:00"

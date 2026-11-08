@@ -1,6 +1,5 @@
 ---
-title: "NYT Connections Hints and Answers for Monday, Oct. 26, 2026 (#1233): Replies, Mats, Dogs and Movie Twists"
-seoTitle: "Connections Hints Today, Oct. 26, 2026 (#1233)"
+title: "Connections #1233 Hints & Answers Today, October 26, 2026"
 description: "Connections #1233 for Monday, Oct. 26, 2026: two levels of hints for every group, the decoy words to avoid, then the full answers at the very end."
 type: explainer
 publishedAt: "2026-10-24T17:20:00-04:00"

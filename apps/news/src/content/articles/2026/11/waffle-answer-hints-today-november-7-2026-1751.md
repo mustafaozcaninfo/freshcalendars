@@ -1,6 +1,5 @@
 ---
-title: "Waffle Answer and Hints Today, #1751 for Saturday, Nov. 7, 2026: A Swap Budget Explained"
-seoTitle: "Waffle Answer & Hints Today, #1751 (Nov. 7, 2026)"
+title: "Waffle #1751 Hints & Answers Today, November 7, 2026"
 description: "Waffle #1751 for Saturday, Nov. 7, 2026: a meaning for each word, how seven green tiles fit a 10-swap minimum within 15, then the answers and the route."
 type: explainer
 publishedAt: "2026-11-07T07:20:00-05:00"

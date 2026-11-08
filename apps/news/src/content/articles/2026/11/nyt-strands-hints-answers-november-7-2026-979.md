@@ -1,6 +1,5 @@
 ---
-title: "NYT Strands Answers for Saturday, Nov. 7, 2026 (#979): Hints First, Spoilers Last"
-seoTitle: "Strands #979: Nov. 7, 2026 Hints, Answers"
+title: "Strands #979 Hints & Answers Today, November 7, 2026"
 description: "Strands #979 for Saturday, Nov. 7, 2026 has the clue \"In the blink of an eye.\" Hints and a board map for seven theme words and the spangram; answers last."
 type: explainer
 publishedAt: "2026-11-06T00:05:00-05:00"

@@ -1,6 +1,5 @@
 ---
-title: "NYT Mini Crossword Answers and Hints for Monday, Nov. 2, 2026: A Five-by-Five Grid"
-seoTitle: "NYT Mini Crossword Answers Today, Nov. 2, 2026"
+title: "NYT Mini Crossword Answers Today, November 2, 2026"
 description: "The New York Times (NYT) Mini Crossword for Monday, Nov. 2, 2026: a hint for each of the 10 clues on Joel Fagliano's five-by-five grid, then the answers."
 type: explainer
 publishedAt: "2026-11-01T22:25:37-05:00"

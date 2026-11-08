@@ -1,6 +1,5 @@
 ---
-title: "NYT Strands Hints and Answers for Wednesday, Oct. 21, 2026 (#962): The 'On a Higher Level' Spangram"
-seoTitle: "Strands Hints Today, Oct. 21, 2026 (#962): Spangram"
+title: "Strands #962 Hints & Answers Today, October 21, 2026"
 description: "Strands #962 for Wednesday, Oct. 21, 2026, theme 'On a higher level': hints for the spangram and each theme word, then all answers at the very end."
 type: explainer
 publishedAt: "2026-10-21T01:14:00-04:00"

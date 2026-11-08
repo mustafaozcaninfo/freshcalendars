@@ -1,6 +1,5 @@
 ---
-title: "NYT Letter Boxed Hints and Answer for Sunday, Nov. 1, 2026: The Four Sides, Par 4 and Graded Clues"
-seoTitle: "NYT Letter Boxed Hints and Answer, Nov. 1, 2026"
+title: "Letter Boxed Hints & Answer Today, November 1, 2026"
 description: "Letter Boxed for Sunday, Nov. 1, 2026 from The New York Times (NYT): the four sides, par of 4 words, graded hints, then the solution in a marked spoiler."
 type: explainer
 publishedAt: "2026-10-31T00:05:00-04:00"

@@ -1,6 +1,5 @@
 ---
-title: "NYT Crossword Answers and Hints for Sunday, Nov. 8, 2026: Mixed Results Theme, 140 Clues"
-seoTitle: "NYT Crossword Answers Today, Nov. 8, 2026"
+title: "NYT Crossword Answers Today, November 8, 2026"
 description: "The New York Times (NYT) Crossword for Sunday, Nov. 8, 2026, \"Mixed Results\" by Simeon Seigel: a hint for all 140 clues, the theme explained, then answers."
 type: explainer
 publishedAt: "2026-11-07T22:30:00-05:00"

@@ -1,6 +1,5 @@
 ---
-title: "LinkedIn Games Answers for Friday, Oct. 30, 2026: Queens, Tango, Zip, Pinpoint and Crossclimb Hints"
-seoTitle: "LinkedIn Games Answers Today, Oct. 30: Queens, Zip, Tango"
+title: "LinkedIn Queens, Tango & Zip Answers Today, October 30, 2026"
 description: "LinkedIn games for Friday, Oct. 30, 2026: hints for Pinpoint #913, Crossclimb #913, Queens #913 and Tango #753, then confirmed answers in a spoiler section."
 type: explainer
 publishedAt: "2026-10-30T07:50:00-04:00"

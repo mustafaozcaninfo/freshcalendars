@@ -1,6 +1,5 @@
 ---
-title: "NYT Mini Crossword Answers and Hints for Sunday, Nov. 8, 2026: 5 by 5, 10 Clues"
-seoTitle: "NYT Mini Crossword Answers Today, Nov. 8, 2026"
+title: "NYT Mini Crossword Answers Today, November 8, 2026"
 description: "The New York Times (NYT) Mini Crossword for Sunday, Nov. 8, 2026: a hint for each of Joel Fagliano's 10 clues on a 5-by-5 grid with no black squares."
 type: explainer
 publishedAt: "2026-11-07T22:30:00-05:00"

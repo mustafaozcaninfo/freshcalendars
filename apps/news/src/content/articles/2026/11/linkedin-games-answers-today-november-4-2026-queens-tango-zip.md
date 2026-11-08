@@ -1,6 +1,5 @@
 ---
-title: "LinkedIn Games Answers, Wednesday, Nov. 4, 2026: Queens, Tango, Zip, Pinpoint, Crossclimb"
-seoTitle: "LinkedIn Games Answers Today, Nov. 4: Pinpoint, Crossclimb"
+title: "LinkedIn Queens, Tango & Zip Answers Today, November 4, 2026"
 description: "LinkedIn games for Wednesday, Nov. 4, 2026: Pinpoint and Crossclimb #918 hints, the day's five puzzle numbers, and both answers in a spoiler section."
 type: explainer
 publishedAt: "2026-11-04T10:30:00-05:00"

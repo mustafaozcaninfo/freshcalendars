@@ -1,6 +1,5 @@
 ---
-title: "NYT Midi Crossword Answers and Hints for Tuesday, Nov. 3, 2026: Ian Livengood's Grid"
-seoTitle: "NYT Midi Crossword Answers Today, Nov. 3, 2026"
+title: "NYT Midi Crossword Answers Today, November 3, 2026"
 description: "The New York Times (NYT) Midi Crossword for Tuesday, Nov. 3, 2026: a hint for each of the 32 clues on Ian Livengood's nine-by-nine grid, then the answers."
 type: explainer
 publishedAt: "2026-11-02T22:30:00-05:00"

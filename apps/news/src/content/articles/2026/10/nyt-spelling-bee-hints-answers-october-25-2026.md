@@ -1,6 +1,5 @@
 ---
-title: "NYT Spelling Bee Hints and Answers for Sunday, Oct. 25, 2026: Hint Grid, Two Pangrams and Saturday's Solution"
-seoTitle: "Spelling Bee Hints Today, Oct. 25, 2026"
+title: "Spelling Bee Hints & Answers Today, October 25, 2026"
 description: "Spelling Bee for Sunday, Oct. 25, 2026: center letter M with A, B, I, L, N and O, the hint grid, two-letter list and pangram hints, then all 66 words."
 type: explainer
 publishedAt: "2026-10-24T16:30:00-04:00"

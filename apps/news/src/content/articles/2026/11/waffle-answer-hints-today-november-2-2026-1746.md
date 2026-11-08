@@ -1,6 +1,5 @@
 ---
-title: "Waffle Answer and Hints Today, #1746 for Monday, Nov. 2, 2026: Clues for Six Words"
-seoTitle: "Waffle Answer & Hints Today, #1746 (Nov. 2, 2026)"
+title: "Waffle #1746 Hints & Answers Today, November 2, 2026"
 description: "Waffle #1746 for Monday, Nov. 2, 2026: a clue for each of the six words, then the answers in a marked spoiler section, with the starting and solved grids."
 type: explainer
 publishedAt: "2026-11-02T07:25:00-05:00"

@@ -1,6 +1,5 @@
 ---
-title: "Blossom Word Game Answers and Hints for Thursday, Nov. 5, 2026: Letters and Pangrams"
-seoTitle: "Blossom Answers Today, Nov. 5, 2026: Pangrams"
+title: "Blossom Hints & Answers Today, November 5, 2026"
 description: "Blossom for Thursday, Nov. 5, 2026: center letter D, the six petals, nine words to try and a count of the 13 pangrams by length, with answers at the end."
 type: explainer
 publishedAt: "2026-11-05T07:50:00-05:00"

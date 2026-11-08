@@ -1,6 +1,5 @@
 ---
-title: "NYT Pips Hints and Answers for Monday, Oct. 26, 2026: Easy, Medium and Hard Domino Placements"
-seoTitle: "Pips Hints Today, Oct. 26, 2026: Easy, Medium, Hard"
+title: "NYT Pips Hints & Answers Today, October 26, 2026"
 description: "Pips for Monday, Oct. 26, 2026: two hints for each board, then every domino placement for Easy, Medium and Hard from the official puzzle data."
 type: explainer
 publishedAt: "2026-10-24T17:20:00-04:00"

@@ -1,6 +1,5 @@
 ---
-title: "NYT Mini Crossword Answers and Hints for Wednesday, Nov. 4, 2026: A Six-Wide Grid"
-seoTitle: "NYT Mini Crossword Answers Today, Nov. 4, 2026"
+title: "NYT Mini Crossword Answers Today, November 4, 2026"
 description: "The New York Times (NYT) Mini Crossword for Wednesday, Nov. 4, 2026: a hint for each of the 11 clues on Christina Iverson's six-by-five grid, then the answers."
 type: explainer
 publishedAt: "2026-11-03T22:40:00-05:00"

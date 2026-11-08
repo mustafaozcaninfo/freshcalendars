@@ -1,6 +1,5 @@
 ---
-title: "Quordle Hints and Answers Today, #1748 for Saturday, Nov. 7, 2026: Clues by Word"
-seoTitle: "Quordle Hints & Answers Today, Nov. 7, 2026 (#1748)"
+title: "Quordle #1748 Hints & Answers Today, November 7, 2026"
 description: "Quordle #1748 for Saturday, Nov. 7, 2026: a clue for each of the four words, a count of shared endings and vowels, then the answers in a marked spoiler section."
 type: explainer
 publishedAt: "2026-11-07T07:15:00-05:00"

@@ -1,6 +1,5 @@
 ---
-title: "NYT Spelling Bee Hints and Answers for Friday, Nov. 6, 2026: L at the Center and Two Pangrams"
-seoTitle: "Spelling Bee Nov. 6, 2026: Hints and Both Pangrams"
+title: "Spelling Bee Hints & Answers Today, November 6, 2026"
 description: "Friday's Spelling Bee for Nov. 6, 2026 from the New York Times centers on L with two pangrams, 47 words and 178 points. Clues come first, then the word list."
 type: explainer
 publishedAt: "2026-11-05T00:05:00-05:00"

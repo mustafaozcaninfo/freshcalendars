@@ -1,6 +1,5 @@
 ---
-title: "Quordle Hints and Answers Today, #1745 for Wednesday, Nov. 4, 2026: Clues for All Words"
-seoTitle: "Quordle Hints & Answers Today, Nov. 4, 2026 (#1745)"
+title: "Quordle #1745 Hints & Answers Today, November 4, 2026"
 description: "Quordle #1745 for Wednesday, Nov. 4, 2026: a clue for each of the four words, an opening guess to try, then all answers in a marked spoiler section at the end."
 type: explainer
 publishedAt: "2026-11-04T07:50:00-05:00"

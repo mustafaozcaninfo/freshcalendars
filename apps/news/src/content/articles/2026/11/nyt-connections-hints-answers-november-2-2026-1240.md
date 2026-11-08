@@ -1,6 +1,5 @@
 ---
-title: "NYT Connections Hints and Answers for Monday, Nov. 2, 2026 (#1240): Two Hints per Group, Then the Answers"
-seoTitle: "Connections Hints & Answers Today, Nov. 2, 2026 (#1240)"
+title: "Connections #1240 Hints & Answers Today, November 2, 2026"
 description: "Connections #1240 for Monday, Nov. 2, 2026: two levels of hints for every group, the decoy words to avoid, then the full answers at the very end."
 type: explainer
 publishedAt: "2026-11-01T00:05:00-05:00"

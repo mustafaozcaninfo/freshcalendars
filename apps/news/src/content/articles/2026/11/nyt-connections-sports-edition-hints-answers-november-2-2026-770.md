@@ -1,6 +1,5 @@
 ---
-title: "NYT Connections: Sports Edition Hints and Answers for Monday, Nov. 2, 2026 (#770)"
-seoTitle: "Connections Sports Edition Hints Today, Nov. 2 (#770)"
+title: "Connections Sports Edition #770 Answers, November 2, 2026"
 description: "Connections: Sports Edition #770 for Monday, Nov. 2, 2026, from The Athletic and New York Times (NYT) Games: a hint for each group, then answers and traps."
 type: explainer
 publishedAt: "2026-11-02T11:20:00-05:00"

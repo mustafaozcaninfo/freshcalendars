@@ -1,6 +1,5 @@
 ---
-title: "NYT Connections Hints and Answers for Tuesday, Oct. 20, 2026 (#1227): A Purple Group You Have to Say Out Loud"
-seoTitle: "Connections Hints Today, Oct. 20, 2026 (#1227)"
+title: "Connections #1227 Hints & Answers Today, October 20, 2026"
 description: "Connections #1227 for Tuesday, Oct. 20, 2026: two levels of hints for every group, the traps to avoid, then the full answers in a marked section at the end."
 type: explainer
 publishedAt: "2026-10-20T02:35:00-04:00"

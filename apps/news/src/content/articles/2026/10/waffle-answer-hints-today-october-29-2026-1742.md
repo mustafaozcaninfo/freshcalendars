@@ -1,6 +1,5 @@
 ---
-title: "Waffle Answer and Hints Today, #1742 for Thursday, Oct. 29, 2026: Clues for Six Words"
-seoTitle: "Waffle Answer & Hints Today, #1742 (Oct. 29, 2026)"
+title: "Waffle #1742 Hints & Answers Today, October 29, 2026"
 description: "Waffle #1742 for Thursday, Oct. 29, 2026: a clue for each of the six words, then the answers and a 10-swap route to five stars in a marked spoiler section."
 type: explainer
 publishedAt: "2026-10-29T10:41:00-04:00"

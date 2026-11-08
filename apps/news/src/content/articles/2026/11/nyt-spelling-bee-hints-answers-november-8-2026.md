@@ -1,6 +1,5 @@
 ---
-title: "NYT Spelling Bee Hints and Answers for Sunday, Nov. 8, 2026: A Short 37-Word List With J and K"
-seoTitle: "Spelling Bee Nov. 8, 2026: Hints and 37 Answers"
+title: "Spelling Bee Hints & Answers Today, November 8, 2026"
 description: "Sunday's Spelling Bee for Nov. 8, 2026 from the New York Times centers on P with J and K among the outer letters: 37 words, 117 points, Genius at 82."
 type: explainer
 publishedAt: "2026-11-07T00:05:00-05:00"

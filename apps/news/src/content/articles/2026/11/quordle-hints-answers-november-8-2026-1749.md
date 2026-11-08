@@ -1,6 +1,5 @@
 ---
-title: "Quordle Hints and Answers Today, #1749 for Sunday, Nov. 8, 2026: Shared Letters Mapped"
-seoTitle: "Quordle Hints & Answers Today, Nov. 8, 2026 (#1749)"
+title: "Quordle #1749 Hints & Answers Today, November 8, 2026"
 description: "Quordle #1749 for Sunday, Nov. 8, 2026: a clue for each of the four words, a map of shared letters and vowel counts, then the answers in a spoiler section."
 type: explainer
 publishedAt: "2026-11-08T07:23:00-05:00"

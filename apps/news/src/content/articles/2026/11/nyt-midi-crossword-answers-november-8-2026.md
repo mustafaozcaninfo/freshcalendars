@@ -1,6 +1,5 @@
 ---
-title: "NYT Midi Crossword Answers and Hints for Sunday, Nov. 8, 2026: Delhi-cate Subject, 30 Clues"
-seoTitle: "NYT Midi Crossword Answers Today, Nov. 8, 2026"
+title: "NYT Midi Crossword Answers Today, November 8, 2026"
 description: "The New York Times (NYT) Midi Crossword for Sunday, Nov. 8, 2026: a hint for each of Tarun Krishnamurthy's 30 clues, the Delhi-cate Subject theme, answers."
 type: explainer
 publishedAt: "2026-11-07T22:30:00-05:00"

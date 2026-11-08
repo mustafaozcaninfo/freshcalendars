@@ -1,6 +1,5 @@
 ---
-title: "NYT Mini Crossword Answers and Hints for Saturday, Oct. 31, 2026: Three Candy Mashups"
-seoTitle: "NYT Mini Crossword Answers Today, Oct. 31, 2026"
+title: "NYT Mini Crossword Answers Today, October 31, 2026"
 description: "The New York Times (NYT) Mini Crossword for Saturday, Oct. 31, 2026: a hint for each of the 16 clues on a seven-by-seven Halloween candy grid, then the answers."
 type: explainer
 publishedAt: "2026-10-30T22:40:00-04:00"

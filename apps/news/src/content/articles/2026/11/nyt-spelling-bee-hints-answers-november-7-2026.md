@@ -1,6 +1,5 @@
 ---
-title: "NYT Spelling Bee Hints and Answers for Saturday, Nov. 7, 2026: I in the Middle and 77 Words to Find"
-seoTitle: "Spelling Bee Nov. 7, 2026: Hints, Grid and Answers"
+title: "Spelling Bee Hints & Answers Today, November 7, 2026"
 description: "Saturday's Spelling Bee for Nov. 7, 2026 from the New York Times has I at the center, 77 words and 306 points, with Genius at 214. Clues come first."
 type: explainer
 publishedAt: "2026-11-06T00:05:00-05:00"

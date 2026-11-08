@@ -1,6 +1,5 @@
 ---
-title: "NYT Strands Hints and Answers for Sunday, Oct. 25, 2026 (#966): The 'Something to Build On' Spangram"
-seoTitle: "Strands Hints Today, Oct. 25, 2026 (#966): Spangram"
+title: "Strands #966 Hints & Answers Today, October 25, 2026"
 description: "Strands #966 for Sunday, Oct. 25, 2026, theme 'Something to build on': hints for the spangram and each theme word, then all answers at the very end."
 type: explainer
 publishedAt: "2026-10-24T13:45:00-04:00"

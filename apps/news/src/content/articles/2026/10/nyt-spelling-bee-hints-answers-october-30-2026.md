@@ -1,6 +1,5 @@
 ---
-title: "NYT Spelling Bee Hints and Answers for Friday, Oct. 30, 2026: Hint Grid, Pangrams and Thursday's Solution"
-seoTitle: "Spelling Bee Hints Today, Oct. 30, 2026"
+title: "Spelling Bee Hints & Answers Today, October 30, 2026"
 description: "Friday's Spelling Bee for Oct. 30, 2026 from the New York Times centers on C, with 66 words, 333 points and two pangrams. Clues come first, then the answers."
 type: explainer
 publishedAt: "2026-10-29T00:05:00-04:00"

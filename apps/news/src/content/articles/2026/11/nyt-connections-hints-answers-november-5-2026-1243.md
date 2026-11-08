@@ -1,6 +1,5 @@
 ---
-title: "NYT Connections Hints and Answers for Thursday, Nov. 5, 2026 (#1243): Two Hints per Group, Then the Answers"
-seoTitle: "Connections Hints & Answers Today, Nov. 5, 2026 (#1243)"
+title: "Connections #1243 Hints & Answers Today, November 5, 2026"
 description: "Connections #1243 for Thursday, Nov. 5, 2026: graded hints for each color, a cat-shaped red herring, a drink-shaped one, and the solved grid at the end."
 type: explainer
 publishedAt: "2026-11-04T00:05:00-05:00"

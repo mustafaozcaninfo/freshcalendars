@@ -1,6 +1,5 @@
 ---
-title: "Contexto #1509 for Nov. 5, 2026: Four Hints, the Top 30 Closest Words and Two Misleading Guesses"
-seoTitle: "Contexto #1509 Hints and Top 30 Words, Nov. 5, 2026"
+title: "Contexto #1509 Hints & Answer Today, November 5, 2026"
 description: "Contexto #1509, Thursday, Nov. 5, 2026: four hints, the game's 30 closest words in groups, two far-off guesses, then the answer in a spoiler section."
 type: explainer
 publishedAt: "2026-11-04T00:05:00-05:00"

@@ -1,6 +1,5 @@
 ---
-title: "NYT Mini Crossword Answers and Hints for Friday, Nov. 6, 2026: A Wide Grid, Graded Clues"
-seoTitle: "NYT Mini Crossword Answers Today, Nov. 6, 2026"
+title: "NYT Mini Crossword Answers Today, November 6, 2026"
 description: "The New York Times (NYT) Mini Crossword for Friday, Nov. 6, 2026: a hint for each of Joel Fagliano's 11 clues, three of them school-grade riddles, then answers."
 type: explainer
 publishedAt: "2026-11-05T22:27:00-05:00"
