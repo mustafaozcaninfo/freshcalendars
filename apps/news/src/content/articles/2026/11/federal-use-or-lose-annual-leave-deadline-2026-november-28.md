@@ -1,6 +1,5 @@
 ---
 title: "Federal Use-or-Lose Leave 2026: Schedule It by Saturday, Nov. 28"
-seoTitle: "Federal Use-or-Lose Leave 2026 Deadline: Nov. 28"
 description: "The Office of Personnel Management (OPM) sets Saturday, Nov. 28, 2026 as the deadline to schedule use-or-lose annual leave. Dates, limits and a printable."
 type: news
 publishedAt: "2026-11-09T09:30:00-05:00"

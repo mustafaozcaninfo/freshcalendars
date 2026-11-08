@@ -1,6 +1,5 @@
 ---
-title: "NYT Connections Hints and Answers for Wednesday, Nov. 18, 2026 (#1256): Two Hints per Group, Then the Answers"
-seoTitle: "Connections #1256 Hints & Answers Today, November 18, 2026"
+title: "Connections #1256 Hints & Answers Today, November 18, 2026"
 description: "Connections #1256 for Wednesday, Nov. 18, 2026 from The New York Times (NYT): two hints per color, then the answers and a table of look-alike entries."
 type: explainer
 publishedAt: "2026-11-17T00:05:00-05:00"

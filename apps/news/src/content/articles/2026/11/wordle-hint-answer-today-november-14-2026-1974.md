@@ -1,6 +1,5 @@
 ---
-title: "Wordle #1974, Saturday, Nov. 14, 2026: Hints and a Look at Its Rhyming Cousins"
-seoTitle: "Wordle #1974 Hints & Answer Today, November 14, 2026"
+title: "Wordle #1974 Hints & Answer Today, November 14, 2026"
 description: "Wordle #1974 for Saturday, Nov. 14, 2026: six hints, then the answer and a tally of the earlier answers that match it in four of five letter places."
 type: explainer
 publishedAt: "2026-11-13T00:05:00-05:00"

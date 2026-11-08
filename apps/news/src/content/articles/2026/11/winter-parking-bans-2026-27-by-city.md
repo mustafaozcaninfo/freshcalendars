@@ -83,7 +83,7 @@ internalLinks:
     label: "December 2026 printable calendar"
   - href: "/january-calendars.html"
     label: "January 2027 printable calendar"
-related: [code-blue-2026-27-cold-weather-shelters-by-city, studded-tires-legal-dates-2026-27-by-state, snow-days-2026-27-school-closures-make-up-days]
+related: [code-blue-2026-27-cold-weather-shelters-by-city, studded-tires-legal-dates-2026-27-by-state, winter-car-emergency-kit-checklist-2026-printable]
 downloads:
   - group: "Winter Parking Ban Checklist 2026-27 printables"
     title: "Winter Parking Ban Checklist 2026-27"

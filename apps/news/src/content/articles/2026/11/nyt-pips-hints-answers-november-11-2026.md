@@ -1,6 +1,5 @@
 ---
-title: "NYT Pips Hints and Answers for Wednesday, Nov. 11, 2026: Easy, Medium and Hard"
-seoTitle: "NYT Pips Hints & Answers Today, November 11, 2026"
+title: "NYT Pips Hints & Answers Today, November 11, 2026"
 description: "Wednesday, Nov. 11, 2026 Pips: four 1s fill the bottom row of the Hard board. Opening moves, two hints per level, then every Easy, Medium and Hard placement."
 type: explainer
 publishedAt: "2026-11-10T00:05:00-05:00"

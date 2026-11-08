@@ -19,6 +19,8 @@ import { PREF_SRC_JS } from "../lib/preferred-source";
 interface Props {
   design?: string;
   title: string;
+  /** og:title and twitter:title when they differ from <title>: a story's H1, for the older stories that still carry a seoTitle. */
+  ogTitle?: string;
   description: string;
   /** Site-relative path with trailing slash, e.g. /news/ */
   path: string;
@@ -36,6 +38,7 @@ interface Props {
 
 const {
   title,
+  ogTitle,
   description,
   path,
   robots = ROBOTS_INDEX,
@@ -78,12 +81,12 @@ const fontPreload = [
 <meta name="theme-color" content="#007b48" />
 <meta property="og:locale" content="en_US" />
 <meta property="og:type" content={ogType} />
-<meta property="og:title" content={title} />
+<meta property="og:title" content={ogTitle ?? title} />
 <meta property="og:description" content={description} />
 <meta property="og:url" content={canonical} />
 <meta property="og:site_name" content={NEWS_NAME} />
 <meta name="twitter:card" content="summary_large_image" />
-<meta name="twitter:title" content={title} />
+<meta name="twitter:title" content={ogTitle ?? title} />
 <meta name="twitter:description" content={description} />
 <link rel="alternate" type="application/rss+xml" title="Fresh Calendars News" href="/news/feed.xml" />
 {headTags.map((t) => (t.tag === "meta" ? <meta {...t.attrs} /> : <link {...t.attrs} />))}

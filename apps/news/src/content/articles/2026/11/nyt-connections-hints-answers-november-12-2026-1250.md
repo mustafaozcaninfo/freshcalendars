@@ -1,6 +1,5 @@
 ---
-title: "NYT Connections Hints and Answers for Thursday, Nov. 12, 2026 (#1250): Two Hints per Group, Then the Answers"
-seoTitle: "Connections #1250 Hints & Answers Today, November 12, 2026"
+title: "Connections #1250 Hints & Answers Today, November 12, 2026"
 description: "Connections #1250 for Thursday, Nov. 12, 2026: every tile is two words, two hints per color, a 1985 time-travel film in disguise, and the answers last."
 type: explainer
 publishedAt: "2026-11-11T00:05:00-05:00"
