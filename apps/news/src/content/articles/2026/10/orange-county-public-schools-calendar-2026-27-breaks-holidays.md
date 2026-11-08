@@ -1,10 +1,10 @@
 ---
 title: "Orange County Public Schools Calendar 2026-27: Thanksgiving Break Nov. 23-27 and Key Dates"
-seoTitle: "OCPS Calendar 2026-27: Breaks and Holidays"
-description: "Orange County Public Schools (OCPS) students are off Nov. 23-27, 2026 for Thanksgiving, Dec. 21 to Jan. 1 for winter break; the last day is May 26, 2027."
+seoTitle: "OCPS Calendar 2026-27: Printable PDF, Breaks and Holidays"
+description: "Orange County Public Schools (OCPS) calendar 2026-27 as a free one-page PDF: Thanksgiving break Nov. 23-27, winter break Dec. 21 to Jan. 1, last day May 26."
 type: news
 publishedAt: "2026-10-31T13:20:00-04:00"
-updatedAt: "2026-11-02T14:10:00-05:00"
+updatedAt: "2026-11-08T07:24:00-05:00"
 authors: [aaron-kessler]
 category: school-calendars
 keywords: ["OCPS calendar 2026-27", "Orange County Public Schools calendar 2026-2027", "OCPS Thanksgiving break 2026", "OCPS winter break 2026", "OCPS spring break 2027"]
@@ -105,7 +105,7 @@ assets:
     alt: "Printable OCPS school calendar 2026-27 listing breaks, holidays and storm make-up days"
 ---
 
-**Orange County Public Schools (OCPS) students are off Monday through Friday, Nov. 23-27, 2026, for Thanksgiving Break**, the next break on the district's 2026-2027 School Calendar. Winter Break follows from Monday, Dec. 21, 2026 to Friday, Jan. 1, 2027, and the last day of school is Wednesday, May 26, 2027. Today is Monday, Nov. 2, so Thanksgiving Break starts in 21 days.
+**Orange County Public Schools (OCPS) students are off Monday through Friday, Nov. 23-27, 2026, for Thanksgiving Break**, the next break on the district's 2026-2027 School Calendar. Winter Break follows from Monday, Dec. 21, 2026 to Friday, Jan. 1, 2027, and the last day of school is Wednesday, May 26, 2027. Today is Sunday, Nov. 8, so Thanksgiving Break starts in 15 days. The whole year is on our [free one-page OCPS calendar PDF](/news/downloads/ocps-2026-27/ocps-school-calendar-2026-27.pdf).
 
 This story adds two things the calendar itself does not: a count of school days before each break, counted from Monday, Nov. 2, and the order in which holidays turn into school days if storms close schools. A free one-page list is below. You can also keep the dates on our [printable school calendar for 2026-27](/printable-school-calendar.html).
 
