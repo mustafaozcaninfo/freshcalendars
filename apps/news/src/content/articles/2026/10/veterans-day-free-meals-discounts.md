@@ -4,7 +4,7 @@ seoTitle: "Veterans Day Free Meals 2026: 48 Chains + Freebies"
 description: "48 chains confirmed free Veterans Day meals for Wednesday, Nov. 11, 2026, plus 16 discounts, Great Clips cards through Dec. 4, ID rules and a printable list."
 type: update
 publishedAt: "2026-10-20T16:55:00-04:00"
-updatedAt: "2026-11-07T00:31:00-05:00"
+updatedAt: "2026-11-08T07:24:00-05:00"
 authors: [christina-gerland]
 category: holidays
 keywords: ["Veterans Day free meals 2026", "Veterans Day discounts 2026", "Veterans Day restaurant deals", "free meals for veterans November 11", "Veterans Day freebies 2026"]
@@ -51,6 +51,22 @@ faq:
   - q: "Is Veterans Day 2026 a federal holiday?"
     a: "Yes. Veterans Day is a legal public holiday under federal law and always falls on Nov. 11, a Wednesday in 2026. Federal offices, banks and post offices close; stock markets are open."
 sources:
+  - title: "Our Military Discount Returns for Veterans Day"
+    url: "https://corporate.target.com/press/fact-sheet/2023/06/military-discount"
+    publisher: "Target Corporation"
+    date: "2026-11-05"
+  - title: "Tractor Supply Honors America's Heroes All Month Long"
+    url: "https://corporate.tractorsupply.com/newsroom/news-releases/news-releases-details/2026/Tractor-Supply-Honors-Americas-Heroes-All-Month-Long/default.aspx"
+    publisher: "Tractor Supply Company"
+    date: "2026-05-21"
+  - title: "2026 Veterans Day Retail Deals and Discounts"
+    url: "https://www.military.com/veterans-day/retailers-veterans-day-military-discounts.html"
+    publisher: "Military.com"
+    date: "2026-11-07"
+  - title: "Veterans Day 2026 deals include 20% off at Target, free Starbucks, more"
+    url: "https://shopping.yahoo.com/deals/articles/veterans-day-2026-deals-20-174631018.html"
+    publisher: "USA Today"
+    date: "2026-11-04"
   - title: "2026 Veterans Day Free Meals and Restaurant Deals and Discounts"
     url: "https://www.military.com/veterans-day/restaurants-veterans-day-military-discounts.html"
     publisher: "Military.com"
@@ -262,6 +278,12 @@ These chains offered the following on Nov. 11, 2025, according to Military.com, 
 ## Stores, haircuts and parks
 
 **Home Depot** gives veterans, service members and spouses 10% off eligible purchases, up to $400 a year, every day after you register in the store's app. **Lowe's** takes 10% off most full-price items, with no annual cap, once you verify your service through ID.me. Neither is a Veterans Day-only deal, so you can use them any week.
+
+**Target** gives verified military members, veterans and their families who belong to Target Circle 20% off one qualifying storewide purchase from Nov. 5 through Nov. 11, 2026, according to Target's Nov. 5 fact sheet. Target Circle is free to join, and you verify your status in the Target app.
+
+**Walgreens** takes 20% off eligible regular-priced items for veterans, active-duty service members and their families in its stores from Nov. 8 through Nov. 11, according to both USA Today and Military.com; Walgreens has not posted the offer on its own site.
+
+**Tractor Supply** lists Veterans Day, Nov. 11, among its 2026 "Honoring Heroes Days," when members of its free Neighbor's Club Hometown Heroes program get 10% off, according to the company's May 21 announcement. USA Today and Military.com both report the 10% discount for Nov. 11.
 
 **Great Clips** says veterans and active military service members can visit any of its 4,400+ U.S. salons on Veterans Day for a free haircut or a card to use on a later visit. The cards are redeemable through Dec. 4, 2026 at U.S. salons, according to the company's Oct. 20, 2026 announcement. The Department of Veterans Affairs adds that anyone getting a haircut that day can request a free haircut card to give a veteran.
 
