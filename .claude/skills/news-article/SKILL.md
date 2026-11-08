@@ -46,9 +46,8 @@ Path: `apps/news/src/content/articles/YYYY/MM/<slug>.md`. The slug is lowercase 
 
 ```markdown
 ---
-title: "<20-110 chars; the H1; main keyword first>"
-seoTitle: "<20-60 chars>"
-description: "<120-160 chars; renders as the lede; expand abbreviations: Eastern Time (ET)>"
+title: "<40-70 chars; the H1 and the <title>; the query first in the searcher's words, then one fact (news-seo \"Headline\")>"
+description: "<120-155 chars; the snippet and the lede: key fact, then what only this page has; ET, NFL alone; expand other abbreviations>"
 type: news            # news | explainer | analysis | update
 publishedAt: "2026-10-21T09:30:00-04:00"   # now or earlier, America/New_York
 authors: [christina-gerland]  # the editor who owns the category and reviews the story (see "Bylines" below); puzzles: [news-desk]

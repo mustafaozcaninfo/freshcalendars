@@ -1,6 +1,5 @@
 ---
-title: "NYT Strands Hints and Answers for Friday, Nov. 20, 2026 (#992): Spangram and Five Theme Words"
-seoTitle: "Strands #992 Hints & Answers Today, November 20, 2026"
+title: "Strands #992 Hints & Answers Today, November 20, 2026"
 description: "Strands #992 for Friday, Nov. 20, 2026: graded hints, a start cell and first direction for every theme word, a path map, and spoiler-marked answers."
 type: explainer
 publishedAt: "2026-11-19T00:05:00-05:00"

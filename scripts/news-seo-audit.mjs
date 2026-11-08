@@ -727,11 +727,13 @@ warn("12-HERO-REPEATS", "Older stories that share a hero picture (redraw with a 
 // ── 13 Repeated patterns and inbound links (story source) ──────────────────
 // A heading or hook copied across stories reads as a template; a story nothing links to depends on
 // automatic picks alone. Owner decision 2026-10-30; stories published before PATTERNS_SINCE are exempt.
-const { PATTERNS_SINCE, H2_REUSE_MAX, TITLE_MAX, patternProblems } = await import("./lib/story-patterns.mjs");
+const { PATTERNS_SINCE, H2_REUSE_MAX, TITLE_MAX, TITLE_H1_SINCE, TITLE_H1_MAX, DESC_MAX, patternProblems } = await import("./lib/story-patterns.mjs");
 const patterns = patternProblems();
 check("13-H2-REUSE", `Stories since ${PATTERNS_SINCE}: no H2 that ${H2_REUSE_MAX}+ other stories already use word for word (dated series excepted); headings name the subject`, () => patterns.h2);
 check("13-CLOCK-HOOK", `Stories since ${PATTERNS_SINCE}: the clock-change line stays out of the description and summary unless the story is about it (Time Change category or headline)`, () => patterns.hook);
 check("13-TITLE-LENGTH", `Stories since ${PATTERNS_SINCE}: headline at most ${TITLE_MAX} characters`, () => patterns.title);
+check("13-TITLE-IS-H1", `Stories since ${TITLE_H1_SINCE}: the H1 is the <title> (no seoTitle) and fits a search result, at most ${TITLE_H1_MAX} characters (news-seo "Headline")`, () => patterns.titleH1);
+check("13-DESC-SNIPPET", `Stories since ${TITLE_H1_SINCE}: description at most ${DESC_MAX} characters and no "Eastern Time (ET)" for abbreviations every reader knows (news-seo "Description")`, () => patterns.desc);
 check("13-INBOUND", `Stories since ${PATTERNS_SINCE}: at least one other story links to it (related list or body), not only the automatic picks`, () => patterns.inbound);
 // Daily puzzle pages: each one written fresh, not yesterday's text with new answers (owner, 2026-11-03).
 const { SIMILAR_SINCE, SIMILAR_MAX, similarityProblems, modelProblems } = await import("./lib/puzzle-similarity.mjs");
@@ -757,7 +759,7 @@ warn("02-CROSS-STORY", "Sentences repeated word for word in 5 or more stories (a
 });
 const { titleProblems } = await import("./news-puzzle-titles.mjs");
 const { TITLE_SINCE } = await import("./lib/puzzle-titles.mjs");
-check("13-PUZZLE-TITLE", `Daily puzzle pages for ${TITLE_SINCE} on carry the standard seoTitle: game, number, "Hints & Answers Today", month spelled out (scripts/lib/puzzle-titles.mjs; fix with node scripts/news-puzzle-titles.mjs)`, () =>
+check("13-PUZZLE-TITLE", `Daily puzzle pages for ${TITLE_SINCE} on carry the standard title as their H1 and <title>, no seoTitle: game, number, "Hints & Answers Today", month spelled out (scripts/lib/puzzle-titles.mjs; fix with node scripts/news-puzzle-titles.mjs)`, () =>
   titleProblems(ARTICLES_SRC).map(([, slug, cur, want]) => `${slug}: "${cur}" should be "${want}"`));
 warn("13-PUZZLE-SIMILAR-NEAR", "Daily puzzle pages drifting toward the similarity limit (0.25 to 0.35 shared with a recent page): rewrite the repeated sentences before they fail — review", () =>
   similar.near.length ? [`${similar.near.length} pages`, ...similar.near.slice(0, 10)] : []);

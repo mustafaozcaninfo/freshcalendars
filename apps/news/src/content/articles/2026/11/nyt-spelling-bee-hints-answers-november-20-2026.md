@@ -1,6 +1,5 @@
 ---
-title: "NYT Spelling Bee Hints and Answers for Friday, Nov. 20, 2026: 49 Words, Genius Is 160"
-seoTitle: "Spelling Bee Hints & Answers Today, November 20, 2026"
+title: "Spelling Bee Hints & Answers Today, November 20, 2026"
 description: "Friday's Spelling Bee from The New York Times (NYT) for Nov. 20, 2026: center T, 49 words, 229 points, Genius at 160 and how often T touches each letter."
 type: explainer
 publishedAt: "2026-11-19T00:05:00-05:00"

@@ -1,6 +1,5 @@
 ---
-title: "NYT Spelling Bee Hints and Answers for Thursday, Nov. 19, 2026: 41 Words, Genius Is 127"
-seoTitle: "Spelling Bee Hints & Answers Today, November 19, 2026"
+title: "Spelling Bee Hints & Answers Today, November 19, 2026"
 description: "Thursday's Spelling Bee from The New York Times (NYT) for Nov. 19, 2026: center K, 41 words, 182 points, Genius at 127 and the -ED word count."
 type: explainer
 publishedAt: "2026-11-18T00:05:00-05:00"

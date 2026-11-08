@@ -1,6 +1,5 @@
 ---
-title: "NYT Strands #986 for Saturday, Nov. 14, 2026: Hints, Spangram Route and Answers"
-seoTitle: "Strands #986 Hints & Answers Today, November 14, 2026"
+title: "Strands #986 Hints & Answers Today, November 14, 2026"
 description: "Strands #986, Saturday, Nov. 14, 2026: clue \"Preschool fun.\" Hints for the spangram and seven theme words, a map of the spangram's route, and answers last."
 type: explainer
 publishedAt: "2026-11-13T00:05:00-05:00"

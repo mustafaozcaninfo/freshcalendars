@@ -1,6 +1,5 @@
 ---
-title: "Wordle Hints and Answer Today, #1980 for Friday, Nov. 20, 2026: Clues, Then Archive Counts"
-seoTitle: "Wordle #1980 Hints & Answer Today, November 20, 2026"
+title: "Wordle #1980 Hints & Answer Today, November 20, 2026"
 description: "Wordle #1980 for Friday, Nov. 20, 2026: five graded clues, then archive-wide counts of past answers that share its ending, its letters or its spots."
 type: explainer
 publishedAt: "2026-11-19T00:05:00-05:00"

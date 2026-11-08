@@ -22,11 +22,13 @@ const ROOT = path.resolve(import.meta.dirname, "..");
 const ART = path.join(ROOT, "apps/news/src/content/articles");
 const only = process.argv[2];
 
-const MON = { Jan: 1, Feb: 2, Mar: 3, Apr: 4, May: 5, June: 6, July: 7, Aug: 8, Sept: 9, Oct: 10, Nov: 11, Dec: 12 };
-const MON_RE = "(Jan|Feb|Mar|Apr|May|June|July|Aug|Sept|Oct|Nov|Dec)\\.?";
+// AP short months ("Nov. 10") in headings, and full months ("November 10") in the standard title
+// (scripts/lib/puzzle-titles.mjs), which became the H1 on 2026-11-08.
+const MONTH_NUM = (name) => ["jan", "feb", "mar", "apr", "may", "jun", "jul", "aug", "sep", "oct", "nov", "dec"].indexOf(name.slice(0, 3).toLowerCase()) + 1;
+const MON_RE = "(January|February|March|April|August|September|October|November|December|Jan|Feb|Mar|Apr|May|June|July|Aug|Sept|Oct|Nov|Dec)\\.?";
 /** "Tuesday, Nov. 10, 2026" style dates in a string, as YYYY-MM-DD with the weekday written before them. */
 const datesIn = (s) => [...s.matchAll(new RegExp(`(?:(Monday|Tuesday|Wednesday|Thursday|Friday|Saturday|Sunday),? )?${MON_RE} (\\d{1,2}), (\\d{4})`, "g"))]
-  .map((m) => ({ wd: m[1], date: `${m[4]}-${String(MON[m[2]]).padStart(2, "0")}-${m[3].padStart(2, "0")}` }));
+  .map((m) => ({ wd: m[1], date: `${m[4]}-${String(MONTH_NUM(m[2])).padStart(2, "0")}-${m[3].padStart(2, "0")}` }));
 
 /** Case, quotes, parenthetical notes ("Arial (Ariel)") and spacing do not count as differences. */
 const norm = (s) => s.toLowerCase().replace(/[’‘“”"']/g, "").replace(/\s*\([^)]*\)/g, "").replace(/\s+/g, " ").replace(/[.\s]+$/, "").trim();

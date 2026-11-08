@@ -1,6 +1,5 @@
 ---
-title: "Wordle Hints and Clues for Monday, Nov. 9, 2026: Puzzle #1969 Before the Answer"
-seoTitle: "Wordle #1969 Hints & Answer Today, November 9, 2026"
+title: "Wordle #1969 Hints & Answer Today, November 9, 2026"
 description: "Monday's Wordle #1969 on Nov. 9, 2026: six hints about its vowel run, its meaning and its soil connection, then a spoiler section with the answer."
 type: explainer
 publishedAt: "2026-11-08T00:05:00-05:00"
