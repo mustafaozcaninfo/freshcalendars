@@ -46,7 +46,8 @@ export function applyFixes(body: string, fixesBlock: string | undefined): { body
   const failed: string[] = [];
   let applied = 0;
   for (const m of (fixesBlock ?? "").matchAll(/<<<FIND\n([\s\S]*?)\n>>>REPLACE\n?([\s\S]*?)\n?<<<END/g)) {
-    const [find, repl] = [m[1], m[2]];
+    // Models sometimes leave a stray marker line (">>>END") in the replacement.
+    const [find, repl] = [m[1], m[2].replace(/^(?:<<<|>>>)(?:FIND|REPLACE|END)\s*$\n?/gm, "")];
     const n = body.split(find).length - 1;
     if (n !== 1) {
       failed.push(`fix not applied (${n === 0 ? "text not found" : `${n} matches`}): "${find.slice(0, 70)}"`);
@@ -64,6 +65,7 @@ export async function houseChecks(a: { headline: string; description: string; bo
   const { writingProblems, BANNED_NEW } = await lib("writing-rules.mjs");
   const { unexpandedAbbrevs } = await lib("abbrev.mjs");
   const out: string[] = [];
+  if (/^(?:<<<|>>>|===)\s*[A-Z]/m.test(a.body)) out.push("leftover section or fix marker in the article body");
   const h = a.headline.length;
   if (h < 40 || h > 70) out.push(`headline is ${h} characters (40-70)`);
   const d = a.description.length;
