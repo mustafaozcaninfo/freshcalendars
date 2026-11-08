@@ -67,7 +67,7 @@ internalLinks:
     label: "December 2026 printable calendar"
   - href: "/january-calendars.html"
     label: "January 2027 printable calendar"
-related: [grand-slam-of-darts-2026-dates-november-14-22-format-prize-money-how-to-watch, uk-snooker-championship-2026-schedule-session-times-tv, boxing-schedule-december-2026-fight-dates-times]
+related: [grand-slam-of-darts-2026-dates-november-14-22-format-prize-money-how-to-watch, uk-snooker-championship-2026-schedule-session-times-tv, christmas-racing-2026-king-george-vi-chase-welsh-grand-national-december-28]
 assets:
   overlay: true
   kicker: "World Darts · Alexandra Palace"
