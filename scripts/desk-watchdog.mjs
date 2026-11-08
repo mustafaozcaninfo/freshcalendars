@@ -35,10 +35,13 @@ const git = (...a) => run("git", a);
 const gh = (...a) => run("gh", a);
 const did = [];
 const attention = [];
+// One failed action (GitHub refusing a push or a branch delete for a moment, as on Nov. 5, 2026:
+// "fatal error in commit_refs_rules") is reported and the run goes on; the next run retries it.
 const act = (msg, fn) => {
   console.log(`${DRY ? "[dry run] " : ""}${msg}`);
-  did.push(msg);
-  if (!DRY) fn();
+  if (DRY) { did.push(msg); return; }
+  try { fn(); did.push(msg); }
+  catch (e) { attention.push(`${msg}: failed, retried next run (${String(e.stderr || e.message || e).split("\n").find((l) => l.trim()) ?? "error"})`); }
 };
 const ago = (t) => `${Math.round((NOW - t) / H * 10) / 10} h ago`;
 
@@ -195,7 +198,11 @@ for (const b of branches) {
   else if (/^claude\/desk-run-/.test(b.name) && NOW - b.time > 24 * H) {
     attention.push(`${b.name}: unmerged run with no pull request (${ago(b.time)})`);
   }
-  if (why === "already in main") { if (!DRY) git("push", "-q", "origin", "--delete", b.name); else console.log(`[dry run] would delete ${b.name}`); cleaned.push(b.name); }
+  if (why === "already in main") {
+    if (DRY) console.log(`[dry run] would delete ${b.name}`);
+    else try { git("push", "-q", "origin", "--delete", b.name); } catch { continue; } // retried next run
+    cleaned.push(b.name);
+  }
   else if (why) act(`delete ${b.name}: ${why}`, () => git("push", "-q", "origin", "--delete", b.name));
 }
 
