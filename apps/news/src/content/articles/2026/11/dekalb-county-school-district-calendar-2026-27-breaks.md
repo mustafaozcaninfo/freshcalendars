@@ -49,7 +49,7 @@ internalLinks:
     label: "November 2026 printable calendar"
   - href: "/april-calendars.html"
     label: "April 2027 printable calendar"
-related: [forsyth-county-schools-calendar-2026-27-breaks, gwinnett-county-schools-calendar-2026-27-breaks, fulton-county-schools-calendar-2026-27-breaks]
+related: [henry-county-schools-calendar-2026-27, gwinnett-county-schools-calendar-2026-27-breaks, fulton-county-schools-calendar-2026-27-breaks]
 downloads:
   - group: "DeKalb County Schools Calendar 2026-27 printables"
     title: "DeKalb County Schools Calendar 2026-27"

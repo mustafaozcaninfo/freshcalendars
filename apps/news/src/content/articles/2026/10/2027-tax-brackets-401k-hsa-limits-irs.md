@@ -163,7 +163,7 @@ The married-filing-jointly deduction rises $1,000 from 2026. IR-2026-133 also se
 | Alternative Minimum Tax exemption, unmarried | $93,000, phase-out starts at $515,950 |
 | Alternative Minimum Tax exemption, married filing jointly | $144,700, phase-out starts at $1,031,900 |
 | Estate tax basic exclusion | $15,480,000 (2026: $15,000,000) |
-| Annual gift exclusion | $20,000 (2026: $19,000) |
+| Annual gift exclusion ([2027 gift tax exclusion and Form 709 dates](/news/gift-tax-exclusion-2027-20000-form-709/)) | $20,000 (2026: $19,000) |
 | Health flexible spending arrangement salary-reduction limit | $3,500 (up $100); carryover maximum $700 (up $20) |
 | Qualified transportation fringe and parking | $350 a month (up $10) |
 
