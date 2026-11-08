@@ -86,7 +86,7 @@ assets:
           quote: "Tricare Open Season is Nov. 9–Dec. 8, 2026."
           cells:
             Tricare Open Season: { text: "Closes", src: "https://tricare.mil/OpenSeason" }
-            Federal Benefits Open Season: { text: "Still open", src: "https://tricare.mil/OpenSeason" }
+            Federal Benefits Open Season: { text: "open until Dec. 14", src: "https://tricare.mil/OpenSeason" }
         - date: "2026-12-14"
           src: "https://www.opm.gov/news/news-releases/opm-announces-2026-federal-benefits-open-season-as-premium-growth-slows-for-second-consecutive-year/"
           quote: "the 2026 Federal Benefits Open Season will run from November 9 through December 14, 2026."

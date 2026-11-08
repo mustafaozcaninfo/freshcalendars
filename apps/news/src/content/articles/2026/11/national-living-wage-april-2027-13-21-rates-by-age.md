@@ -4,6 +4,7 @@ seoTitle: "National Living Wage 2027: £13.21 and Rates by Age"
 description: "The National Living Wage (NLW) rises 3.9% to £13.21 an hour from April 2027, GOV.UK says. Rates for 18-20, 16-17 and apprentices, with weekly and yearly pay."
 type: news
 publishedAt: "2026-11-04T09:09:00-05:00"
+updatedAt: "2026-11-08T07:22:00-05:00"
 authors: [christina-gerland]
 category: uk-canada
 keywords: ["national living wage 2027", "minimum wage april 2027 uk", "national minimum wage 2027 rates", "national living wage £13.21"]
@@ -68,12 +69,18 @@ sources:
     url: "https://www.livingwage.org.uk/news"
     publisher: "Living Wage Foundation"
     date: "2026-10-15"
+  - title: "Living Wage Week"
+    url: "https://www.livingwage.org.uk/living-wage-week"
+    publisher: "Living Wage Foundation"
+  - title: "For the real cost of living"
+    url: "https://www.livingwage.org.uk/"
+    publisher: "Living Wage Foundation"
 internalLinks:
   - href: "/april-calendars.html"
     label: "April 2027 printable calendar"
   - href: "/printable-yearly-calendar.html"
     label: "2027 printable yearly calendar"
-related: [uk-budget-2026-date-wednesday-28-october-what-time, state-pension-increase-april-2027-triple-lock-budget, free-childcare-january-2027-deadline-31-december-30-hours-england]
+related: [uk-budget-2026-date-wednesday-28-october-what-time, state-pension-increase-april-2027-triple-lock-budget, living-wage-week-2026-uk-november-9-15-rates]
 assets:
   overlay: true
   kicker: "UK minimum wage · April 2027"
@@ -184,7 +191,17 @@ The accommodation offset rises from £11.10 a day to £11.53 a day, GOV.UK says.
 
 ## How is the Real Living Wage different?
 
-The Living Wage Foundation announced a Real Living Wage of £14.10 an hour across the UK and £15.45 in London on Oct. 15, 2026. These are separate from the legal rates above. The Government's press release calls the UK Living Wage and London Living Wage "voluntary pay benchmarks that employers can choose to sign up to, not legally binding requirements".
+The National Living Wage is the statutory rate in the table above. The Real Living Wage is a voluntary rate from the Living Wage Foundation. Its website says the rate "is independently calculated and rooted in what is needed to cover living costs".
+
+The Foundation announced a Real Living Wage of £14.10 an hour across the UK and £15.45 in London on Oct. 15, 2026, for 2026-2027. These are separate from the legal rates above. The Government's press release calls the UK Living Wage and London Living Wage "voluntary pay benchmarks that employers can choose to sign up to, not legally binding requirements". The Foundation gives no start date for the new Real Living Wage rates, so we do not give one.
+
+| | National Living Wage | Real Living Wage |
+|---|---|---|
+| Set by | UK Government, on Low Pay Commission advice | Living Wage Foundation |
+| Rate | £13.21 from April 2027 | £14.10 UK, £15.45 London (2026-2027) |
+| Status | Legal minimum for ages 21 and over | Voluntary benchmark |
+
+Living Wage Week 2026 runs from Monday 9 to Sunday 15 November, according to the Foundation. Our [Living Wage Week 2026 story](/news/living-wage-week-2026-uk-november-9-15-rates/) has the week's dates and the Real Living Wage rates.
 
 ## What if an employer pays less than the minimum wage?
 

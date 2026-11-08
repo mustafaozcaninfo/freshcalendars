@@ -86,7 +86,7 @@ internalLinks:
     label: "Printable school calendar"
   - href: "/when-is/thanksgiving/"
     label: "When is Thanksgiving?"
-related: [american-education-week-2026-november-16-20-daily-themes, november-2026-important-dates-days-until]
+related: [american-education-week-2026-november-16-20-daily-themes, national-school-psychology-week-2026-november-9-13, november-2026-important-dates-days-until]
 draft: false
 ---
 

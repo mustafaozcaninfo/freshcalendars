@@ -151,7 +151,7 @@ No. The GOV.UK bank holiday list, last updated 24 November 2025, shows no bank h
 
 The one-page sheet holds the 16 to 20 November dates, the Break the Silence theme, the Coram webinar time and a list of what is not confirmed, a short checklist, and space to write how a class or family will take part. World Kindness Day falls three days earlier, on Friday 13 November; see the [World Kindness Day 2026 story](/world-kindness-day-2026-friday-november-13-kindness-dates-printable/).
 
-## What is not confirmed yet
+## Anti-Bullying Week 2026 details still to come
 
 - The ABA's own dates, theme wording and Odd Socks Day date: its pages returned an access error.
 - Any suggested donation for Odd Socks Day.

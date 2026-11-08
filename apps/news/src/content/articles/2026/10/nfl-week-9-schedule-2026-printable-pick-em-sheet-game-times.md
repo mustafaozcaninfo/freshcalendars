@@ -4,7 +4,7 @@ seoTitle: "NFL Week 9 Schedule 2026: Times and Pick'em Sheet"
 description: "National Football League (NFL) Week 9: 15 games, Thu., Nov. 5 to Mon., Nov. 9, 2026, with Eastern Time (ET) kickoffs, TV channels and a printable pick'em sheet."
 type: news
 publishedAt: "2026-10-29T03:43:00-04:00"
-updatedAt: "2026-11-08T06:33:00-05:00"
+updatedAt: "2026-11-08T07:24:00-05:00"
 authors: [jessica-hartwell]
 category: sports
 keywords: ["NFL Week 9 schedule 2026", "NFL Week 9 pick em sheet printable", "NFL Week 9 game times TV", "Bengals Falcons Madrid time"]
@@ -80,6 +80,7 @@ sources:
   - title: "How To Watch Bengals at Falcons Week 9 in Madrid: TV, Streaming and Radio Information"
     url: "https://www.bengals.com/news/how-to-watch-listen-stream-falcons-bengals-week-9-2026-madrid"
     publisher: "Cincinnati Bengals"
+    date: "2026-11-08"
   - title: "Raiders 2026 Schedule"
     url: "https://www.raiders.com/schedule/"
     publisher: "Las Vegas Raiders"

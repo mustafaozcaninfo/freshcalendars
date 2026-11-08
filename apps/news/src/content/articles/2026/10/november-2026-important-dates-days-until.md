@@ -4,7 +4,7 @@ seoTitle: "November 2026 Holidays: Calendar With Every Key Date"
 description: "Holidays in November 2026: Election Day Nov. 3, Veterans Day Nov. 11, Thanksgiving Nov. 26, Black Friday Nov. 27. Every date, days until each and a printable."
 type: explainer
 publishedAt: "2026-10-19T08:00:00-04:00"
-updatedAt: "2026-11-08T06:40:00-05:00"
+updatedAt: "2026-11-08T07:26:00-05:00"
 authors: [jessica-hartwell]
 category: calendar-guides
 keywords: ["November 2026 holidays", "November 2026 important dates", "holidays in November 2026", "Thanksgiving 2026 calendar", "days until Thanksgiving 2026"]
@@ -74,6 +74,18 @@ sources:
   - title: "Anti-Bullying Week 2026"
     url: "https://s4s.wandsworth.gov.uk/Article/188185"
     publisher: "Wandsworth Council schools service"
+  - title: "National School Psychology Week (NSPW)"
+    url: "https://www.nasponline.org/research-and-policy/advocacy/national-school-psychology-week-%28nspw%29"
+    publisher: "National Association of School Psychologists"
+  - title: "Living Wage Week | Living Wage Foundation"
+    url: "https://www.livingwage.org.uk/living-wage-week"
+    publisher: "Living Wage Foundation"
+  - title: "Events on November 9 – Berlin.de"
+    url: "https://www.berlin.de/en/events/specials/november-9/"
+    publisher: "Berlin.de, Berlin city government"
+  - title: "COP31 to take place 9-20 November 2026 in Antalya, Türkiye | United Nations"
+    url: "https://www.un.org/en/climatechange/cop31"
+    publisher: "United Nations"
 internalLinks:
   - href: "/november-calendars.html"
     label: "November 2026 printable calendar"
@@ -154,7 +166,7 @@ A federal holiday does not close every business or school. Banks, stores, transi
 | Nov. 5 | Thursday | Guy Fawkes Night in the U.K. | 3 |
 | Nov. 6 | Friday | Dhanteras, first day of Diwali | 4 |
 | Nov. 8 | Sunday | Diwali and Lakshmi Puja; National Indigenous Veterans Day ceremonies in Canada; Bengals vs. Falcons in Madrid, 9:30 a.m. ET | 6 |
-| Nov. 9 | Monday | Military health Open Season begins; Children's Book Week and World Nursery Rhyme Week begin; National Chicken Sandwich Day; FA Cup second round draw, about 1:45 p.m. ET | 7 |
+| Nov. 9 | Monday | Military health Open Season begins; Children's Book Week and World Nursery Rhyme Week begin; National School Psychology Week (to Nov. 13); Living Wage Week in the U.K. (to Nov. 15); COP31 climate summit opens in Antalya, Türkiye (to Nov. 20); 37th anniversary of the fall of the Berlin Wall; National Chicken Sandwich Day; FA Cup second round draw, about 1:45 p.m. ET | 7 |
 | Nov. 10 | Tuesday | Bhai Dooj, last day of Diwali; Marine Corps 251st birthday | 8 |
 | Nov. 11 | Wednesday | Veterans Day (federal holiday); Remembrance Day in Canada and the U.K. | 9 |
 | Nov. 16 | Monday | Anti-Bullying Week begins in the U.K. (to Nov. 20) | 14 |
@@ -180,7 +192,7 @@ To count from a different day, take the days left in the current month and add t
 
 **Nov. 8, also on the calendar.** Veterans Affairs Canada lists [National Indigenous Veterans Day ceremonies](/news/national-indigenous-veterans-day-2026-canada-november-8/), and the Bengals and Falcons play in Madrid at 9:30 a.m. Eastern ([kickoff time and TV](/news/bengals-falcons-madrid-2026-kickoff-time-tv-streaming/)).
 
-**Nov. 9 to 16.** Monday, Nov. 9 brings [National Chicken Sandwich Day deals](/news/national-chicken-sandwich-day-2026-deals-november-9/) and the [FA Cup second round draw](/news/fa-cup-second-round-draw-2026-time-tv-ball-numbers/), at about 1:45 p.m. Eastern. [Children's Book Week](/news/childrens-book-week-november-2026-november-9-15/) runs Nov. 9 to 15 and [World Nursery Rhyme Week](/news/world-nursery-rhyme-week-2026-november-9-13-rhymes/) Nov. 9 to 13. The Marine Corps turns 251 on Nov. 10 ([DeCA release](/news/marine-corps-birthday-2026-november-10-251st/)), and [Anti-Bullying Week](/news/anti-bullying-week-2026-uk-november-16-20-odd-socks-day/) runs in the U.K. from Nov. 16 to 20.
+**Nov. 9 to 16.** Monday, Nov. 9 brings [National Chicken Sandwich Day deals](/news/national-chicken-sandwich-day-2026-deals-november-9/) and the [FA Cup second round draw](/news/fa-cup-second-round-draw-2026-time-tv-ball-numbers/), at about 1:45 p.m. Eastern. [Children's Book Week](/news/childrens-book-week-november-2026-november-9-15/) runs Nov. 9 to 15 and [World Nursery Rhyme Week](/news/world-nursery-rhyme-week-2026-november-9-13-rhymes/) Nov. 9 to 13. [National School Psychology Week](/news/national-school-psychology-week-2026-november-9-13/) runs Nov. 9 to 13, per the National Association of School Psychologists, and [Living Wage Week](/news/living-wage-week-2026-uk-november-9-15-rates/) runs Nov. 9 to 15 in the U.K., per the Living Wage Foundation. The United Nations says [COP31 runs Nov. 9 to 20](/news/cop31-2026-antalya-dates-schedule-how-to-follow/) in Antalya, and Berlin.de marks the [37th anniversary of the fall of the Berlin Wall](/news/berlin-wall-fall-anniversary-2026-november-9-37-years/) on Nov. 9. The Marine Corps turns 251 on Nov. 10 ([DeCA release](/news/marine-corps-birthday-2026-november-10-251st/)), and [Anti-Bullying Week](/news/anti-bullying-week-2026-uk-november-16-20-odd-socks-day/) runs in the U.K. from Nov. 16 to 20.
 
 ## Mid-month: Veterans Day and a big game launch
 

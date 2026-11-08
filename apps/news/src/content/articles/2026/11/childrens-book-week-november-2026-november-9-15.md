@@ -3,8 +3,8 @@ title: "Children's Book Week November 2026: Nov. 9-15 Dates, Theme and a Printab
 seoTitle: "Children's Book Week November 2026: Nov. 9-15 Dates"
 description: "Children's Book Week runs Nov. 9-15, 2026, per Video Librarian and Delaware's state library guide. Theme: Books: Get Curious. Day table and free reading log."
 type: news
-publishedAt: "2026-11-08T06:18:00-05:00"
-updatedAt: "2026-11-08T06:18:00-05:00"
+publishedAt: "2026-11-08T06:56:00-05:00"
+updatedAt: "2026-11-08T06:56:00-05:00"
 authors: [aaron-kessler]
 category: school-calendars
 keywords: ["children's book week november 2026", "children's book week 2026", "books get curious", "national young readers week 2026"]
@@ -119,7 +119,7 @@ The week has two editions in 2026, and the dates differ.
 | November | Nov. 9-15 | Video Librarian, Nov. 3, 2026; Delaware Division of Libraries guide |
 | Spring | May 4-10 | Publishers Weekly, Feb. 10, 2026 |
 
-Only the November week is still ahead. Keep the two apart when you read posters or school notices: anything dated May 4-10 belongs to the spring edition. Nov. 9 is a Monday and Nov. 15 a Sunday, so the week covers one full school week plus a weekend. Our [November 2026 printable calendar](/november-calendars.html) shows both dates in the month.
+Only the November week is still ahead. Keep the two apart when you read posters or school notices: anything dated May 4-10 belongs to the spring edition. Nov. 9 is a Monday and Nov. 15 a Sunday. Our [November 2026 printable calendar](/november-calendars.html) shows both dates in the month.
 
 ## Countdown to Children's Book Week
 
@@ -158,7 +158,7 @@ The theme is "Books: Get Curious." Publishers Weekly reported it on Feb. 10, 202
 
 National Young Readers Week is a reading observance listed for the same week. One calendar listing gives Monday, Nov. 9 through Friday, Nov. 13, 2026, while another is reported to run Nov. 9-15. No organizer page was reachable, so the end date is not confirmed here. Sources also disagree on when it began and who sponsors it, so no origin year is given.
 
-## What is not confirmed yet?
+## Children's Book Week 2026 details not yet announced
 
 The organizer's own website was behind a waiting room when this story was written, so these items rest on the trade and library sources above or are left out:
 

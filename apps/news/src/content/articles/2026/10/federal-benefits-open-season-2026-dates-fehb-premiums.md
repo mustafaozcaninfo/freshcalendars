@@ -4,7 +4,7 @@ seoTitle: "Federal Open Season 2026: Nov. 9 to Dec. 14 Dates"
 description: "The Office of Personnel Management (OPM) set federal open season for Nov. 9 to Dec. 14, 2026. See 2027 health premium changes, deadlines and start dates."
 type: news
 publishedAt: "2026-10-24T16:48:00-04:00"
-updatedAt: "2026-11-08T06:32:00-05:00"
+updatedAt: "2026-11-08T07:23:00-05:00"
 authors: [aaron-kessler]
 category: money-benefits
 keywords: ["open season 2026 federal employees", "FEHB open season 2026 dates", "2027 FEHB premiums", "federal benefits open season 2026", "FSAFEDS 2027 reenroll"]
@@ -54,6 +54,9 @@ sources:
   - title: "IRS releases tax inflation adjustments for tax year 2027; taxpayers continue to benefit from the Working Families Tax Cuts"
     url: "https://www.irs.gov/newsroom/irs-releases-tax-inflation-adjustments-for-tax-year-2027-taxpayers-continue-to-benefit-from-the-working-families-tax-cuts"
     publisher: "Internal Revenue Service"
+  - title: "Premiums"
+    url: "https://www.opm.gov/healthcare-insurance/pshb/premiums/"
+    publisher: "U.S. Office of Personnel Management"
 internalLinks:
   - href: "/november-calendars.html"
     label: "November 2026 printable calendar"
@@ -102,7 +105,7 @@ assets:
         - { label: "FSAFEDS 2027 election limit", why: "not on OPM FSA page as of Nov. 6, 2026; not rechecked" }
 ---
 
-**The Office of Personnel Management (OPM) says the Federal Benefits Open Season for plan year 2027 runs from Monday, Nov. 9 through Monday, Dec. 14, 2026.** OPM announced the season at the end of September. The average Federal Employees Health Benefits (FEHB) enrollee share goes up 10.9% for 2027, after a 12.3% rise for 2026, according to OPM's Federal Benefits Open Season Highlights. Our free printable deadline grid puts the start and closing times on one page.
+**The Office of Personnel Management (OPM) says the Federal Benefits Open Season for plan year 2027 runs from Monday, Nov. 9 through Monday, Dec. 14, 2026.** The average Federal Employees Health Benefits (FEHB) enrollee share goes up 10.9% for 2027, after a 12.3% rise for 2026, according to OPM's Federal Benefits Open Season Highlights. Our free printable deadline grid puts the start and closing times on one page.
 
 ## What are the open season dates and deadlines?
 
@@ -145,9 +148,19 @@ Some plans end after 2026. OPM says nine FEHB plans end for 2027, and the defaul
 
 OPM's highlights give PSHB an overall average premium increase of 6.7%, down from 9% in 2026. The average enrollee share rises 8.2%, down from 11.3%, and the government contribution rises 6.0%, down from 8.0%. PSHB has 17 carriers and 65 plan options for 2027. UnitedHealthcare Insurance Company, Inc. (Choice Plus Primary Postal East) is the plan that ends, and the default plan is the Blue Cross and Blue Shield Service Benefit Plan, Blue Focus option. PSHB coverage starts Jan. 1, 2027, and the cancellation date is Dec. 31, 2026. OPM says the Postal Service Health Benefits System (PSHBS) has redesigned the Enrollee Portal, scheduled to launch during open season for the 2027 plan year.
 
+OPM's PSHB premiums page lists 2027 monthly program-wide weighted average premiums, including the government contribution, and the monthly maximum government contribution (72% of the weighted average).
+
+| Coverage | Weighted average premium, 2027 (monthly) | Maximum government contribution (monthly) |
+|---|---|---|
+| Self Only | $957.62 | $689.50 |
+| Self Plus One | $2,074.41 | $1,493.57 |
+| Self and Family | $2,252.58 | $1,621.86 |
+
+The page gives no percentage changes. See OPM's [PSHB premiums](https://www.opm.gov/healthcare-insurance/pshb/premiums/) page for the figures. Tricare is a separate program: its open season ends Dec. 8 (see [Tricare open season dates](/news/tricare-open-season-2026-november-9-december-8-dates/)).
+
 ## Where can you compare plans?
 
-OPM says full FEHB, PSHB and FEDVIP brochures go up on OPM.gov in early November. The Plan Comparison Tool is also on OPM.gov and on the PSHB site. For FEDVIP, a dental cost tool is on Benefeds.gov. OPM also says a redesign of the PSHB Enrollee Portal is scheduled to launch during open season.
+OPM says full FEHB, PSHB and FEDVIP brochures are available on OPM.gov in early November. The Plan Comparison Tool is also on OPM.gov and on the PSHB site. For FEDVIP, a dental cost tool is on Benefeds.gov. OPM also says a redesign of the PSHB Enrollee Portal is scheduled to launch during open season.
 
 ## When do 2027 coverage and cancellations take effect?
 

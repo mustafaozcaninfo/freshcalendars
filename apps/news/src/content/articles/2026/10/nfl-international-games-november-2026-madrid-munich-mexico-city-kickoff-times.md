@@ -4,7 +4,7 @@ seoTitle: "NFL Madrid, Munich, Mexico City 2026 Kickoff Times"
 description: "The National Football League (NFL) plays Bengals vs. Falcons in Madrid Sun., Nov. 8, 2026, at 9:30 a.m. Eastern Time (ET), 3:30 p.m. local, on NFL Network."
 type: news
 publishedAt: "2026-10-28T02:40:00-04:00"
-updatedAt: "2026-11-05T12:15:00-05:00"
+updatedAt: "2026-11-08T07:25:00-05:00"
 authors: [jessica-hartwell]
 category: sports
 keywords: ["NFL Madrid game 2026 kickoff time", "NFL Munich game 2026 time", "NFL Mexico City game 2026", "NFL international games 2026 schedule"]
@@ -43,6 +43,13 @@ sources:
     url: "https://www.patriots.com/news/patriots-to-face-lions-in-week-10-international-game-on-november-15-2026"
     publisher: "New England Patriots"
     date: "2026-05-14"
+  - title: "Bengals 2026 Madrid Game | NFL International Series"
+    url: "https://www.bengals.com/international-madrid-2026/"
+    publisher: "Cincinnati Bengals"
+  - title: "2026 NFL Schedule: Atlanta Falcons to host Cincinnati Bengals in Madrid"
+    url: "https://www.atlantafalcons.com/news/atlanta-falcons-madrid-international-game-2026-bernabeu"
+    publisher: "Atlanta Falcons"
+    date: "2026-05-12"
 internalLinks:
   - href: "/november-calendars.html"
     label: "November 2026 printable calendar"
@@ -94,7 +101,7 @@ draft: false
 
 ## When are the NFL international games in November 2026?
 
-NFL.com lists the three games below. NFL.com's game pages print "VS." and do not label a home team. NFL Football Operations says the 2026 season has "a record-breaking nine games played across four continents." The other six were Melbourne (Sept. 10), Rio de Janeiro (Sept. 27), London (Oct. 4, Oct. 11 and Oct. 18) and Paris (Oct. 25, Steelers and Saints at the Stade de France).
+NFL.com lists the three games below. NFL.com's game pages print "VS." and do not label a home team; the Atlanta Falcons say they are the home side in Madrid and give the start as 9:30 a.m. EST. NFL Football Operations says the 2026 season has "a record-breaking nine games played across four continents." The other six were Melbourne (Sept. 10), Rio de Janeiro (Sept. 27), London (Oct. 4, Oct. 11 and Oct. 18) and Paris (Oct. 25, Steelers and Saints at the Stade de France).
 
 | Week | Date | Game | Stadium | Kickoff (ET) | TV and streaming |
 |---|---|---|---|---|---|
@@ -125,6 +132,8 @@ The clock change does not move the kickoff; the Eastern times above are the ones
 ## Where can you watch each game?
 
 NFL.com lists NFL Network and NFL+ for Madrid, FOX, FOX One and NFL+ for Munich, and NBC, Peacock and NFL+ for Mexico City. Check each service for your local coverage.
+
+For Madrid, the Cincinnati Bengals say the game "will be broadcast nationally on NFL Network" and on a local station in Cincinnati. The Atlanta Falcons also list NFL Network. The Bengals' page adds that fans in Madrid not attending can watch on Cuatro, a free-to-air channel, and on streaming services the club names; only the club page states this, and a second source could not be checked. Our [Bengals vs. Falcons Madrid kickoff, TV and streaming guide](/news/bengals-falcons-madrid-2026-kickoff-time-tv-streaming/) covers that game on its own.
 
 ## Free NFL international games printable
 
