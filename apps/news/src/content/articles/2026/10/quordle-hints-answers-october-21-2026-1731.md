@@ -1,6 +1,5 @@
 ---
-title: "Quordle Hints and Answers Today, #1731 for Wednesday, Oct. 21, 2026: Clues for All Four Words"
-seoTitle: "Quordle Hints & Answers Today, Oct. 21, 2026 (#1731)"
+title: "Quordle #1731 Hints & Answers Today, October 21, 2026"
 description: "Quordle #1731 for Wednesday, Oct. 21, 2026: letter counts and a clue for each of the four words, a starter strategy, then all answers at the very end."
 type: explainer
 publishedAt: "2026-10-21T01:18:00-04:00"

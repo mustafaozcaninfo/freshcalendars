@@ -1,7 +1,6 @@
 ---
-title: "Why Excel Shows Dates as Numbers, and How to Fix It: 46388 Is Jan. 1, 2027"
-seoTitle: "Excel Date Showing as a Number: How to Fix It"
-description: "Excel stores dates as serial numbers counted from Jan. 1, 1900, per Microsoft, so 46388 shows instead of Jan. 1, 2027. Press Ctrl+1 and pick Date to fix it."
+title: "Excel Date Showing as a Number: 46388 Is Jan. 1, 2027"
+description: "Excel shows a date as a number, such as 46388 for Jan. 1, 2027, because it stores serial numbers. Press Ctrl+1 and pick Date. Free 2027 serial number card."
 type: explainer
 publishedAt: "2026-11-04T15:03:00-05:00"
 authors: [jessica-hartwell]

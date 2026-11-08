@@ -1,7 +1,6 @@
 ---
-title: "NBA Cup 2026 Schedule: Cup Nights, Group Play, Knockouts and the Dec. 11 Final in Indianapolis"
-seoTitle: "NBA Cup 2026 Schedule: Dates, Cup Nights and Final"
-description: "The National Basketball Association (NBA) Emirates NBA Cup 2026 runs Oct. 30 to Dec. 11, with the final at Hinkle Fieldhouse in Indianapolis."
+title: "NBA Cup 2026 Schedule: Oct. 30 to Dec. 11 Final in Indianapolis"
+description: "The NBA Cup 2026 runs Oct. 30 to Dec. 11, with the final at Hinkle Fieldhouse in Indianapolis. Group Play dates, knockout rounds and a printable schedule."
 type: explainer
 publishedAt: "2026-10-25T20:18:00-04:00"
 updatedAt: "2026-10-26T14:00:00-04:00"

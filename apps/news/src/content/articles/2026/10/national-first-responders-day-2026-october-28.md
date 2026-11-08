@@ -1,7 +1,6 @@
 ---
-title: "National First Responders Day 2026 Was Wednesday, Oct. 28: Proclamations and Resolutions by Year"
-seoTitle: "National First Responders Day 2026: Oct. 28 History"
-description: "National First Responders Day was Wednesday, Oct. 28, 2026. The Federal Register lists proclamations for 2022 to 2024 and none yet for 2025 or 2026."
+title: "National First Responders Day 2026: Oct. 28, Proclamations by Year"
+description: "National First Responders Day was Wednesday, Oct. 28, 2026. A year-by-year table of resolutions and proclamations; none listed for 2025 or 2026."
 type: news
 publishedAt: "2026-10-28T07:43:00-04:00"
 updatedAt: "2026-11-02T14:10:00-05:00"

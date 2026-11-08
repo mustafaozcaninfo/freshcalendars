@@ -1,6 +1,5 @@
 ---
-title: "Quordle Hints and Answers Today, #1746 for Thursday, Nov. 5, 2026: Clues by Board"
-seoTitle: "Quordle Hints & Answers Today, Nov. 5, 2026 (#1746)"
+title: "Quordle #1746 Hints & Answers Today, November 5, 2026"
 description: "Quordle #1746 for Thursday, Nov. 5, 2026: clues for each board, a table comparing four opening words, then all four answers in a marked spoiler section."
 type: explainer
 publishedAt: "2026-11-05T07:50:00-05:00"

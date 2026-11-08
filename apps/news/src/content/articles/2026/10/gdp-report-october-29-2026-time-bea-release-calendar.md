@@ -1,7 +1,6 @@
 ---
-title: "GDP Report Oct. 29, 2026: Third-Quarter Growth 3.4%, Consumer Prices Up 3.6%, BEA Calendar Through Dec. 23"
-seoTitle: "GDP Report Oct. 29, 2026: 3.4% Growth, Next BEA Dates"
-description: "Real gross domestic product (GDP) grew at a 3.4% annual rate in the third quarter, the Bureau of Economic Analysis (BEA) said Oct. 29. Next: Nov. 25."
+title: "BEA GDP Release Schedule 2026: Next Estimates Nov. 25, Dec. 23"
+description: "Gross domestic product (GDP) grew 3.4% in the third quarter of 2026, the Bureau of Economic Analysis (BEA) says. See all 13 releases through Dec. 23."
 type: news
 publishedAt: "2026-10-28T17:46:00-04:00"
 updatedAt: "2026-10-29T10:05:00-04:00"

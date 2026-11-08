@@ -1,7 +1,6 @@
 ---
-title: "New on Paramount+ November 2026: Yellowjackets Final Season on Nov. 20 and Every Date"
-seoTitle: "New on Paramount+ November 2026: Dates and Plans"
-description: "Paramount Press Express dates Yellowjackets final season for Fri., Nov. 20, 2026, after Dexter: Resurrection season 2 on Oct. 30. Plans needed and a printable."
+title: "New on Paramount+ November 2026: Yellowjackets Final Season Nov. 20"
+description: "Paramount Press Express dates the Yellowjackets final season for Nov. 20, 2026. Each dated title with the plan it needs, plus a free printable calendar."
 type: news
 publishedAt: "2026-10-28T15:50:00-04:00"
 updatedAt: "2026-11-01T02:42:00-05:00"

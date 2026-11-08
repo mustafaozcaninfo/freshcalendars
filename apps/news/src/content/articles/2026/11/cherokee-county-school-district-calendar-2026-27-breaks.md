@@ -1,7 +1,6 @@
 ---
-title: "Cherokee County School Calendar 2026-27: Thanksgiving Break Nov. 23-27, Last Day May 25"
-seoTitle: "Cherokee County School Calendar 2026-27 Breaks"
-description: "Cherokee County School District (CCSD) in Canton, Georgia, closes Nov. 23-27 and Dec. 21-Jan. 1; spring break is April 5-9, 2027, per its 2026-27 calendar."
+title: "Cherokee County School Calendar 2026-27: Thanksgiving Week Off, May 25"
+description: "Cherokee County School District (Georgia) calendar 2026-27: closed Nov. 23-27 and Dec. 21-Jan. 1, last day May 25. A table of every day off and remote day."
 type: news
 publishedAt: "2026-11-05T06:10:00-05:00"
 authors: [aaron-kessler]

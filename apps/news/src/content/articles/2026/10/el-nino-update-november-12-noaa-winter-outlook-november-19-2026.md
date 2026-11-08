@@ -1,7 +1,6 @@
 ---
-title: "El Niño Update Nov. 12 and NOAA Winter Outlook Update Nov. 19, 2026: Release Dates"
-seoTitle: "El Niño Update Nov. 12, NOAA Winter Outlook Nov. 19"
-description: "The National Oceanic and Atmospheric Administration (NOAA) Climate Prediction Center (CPC) issues its next El Niño update Nov. 12 and winter outlook Nov. 19."
+title: "El Niño Update Nov. 12, 2026: NOAA Winter Outlook Update Nov. 19"
+description: "The Climate Prediction Center schedules its El Niño update for Nov. 12 and winter outlook update for Nov. 19, 2026, plus the Oct. 8 strong El Niño odds."
 type: news
 publishedAt: "2026-10-30T10:30:00-04:00"
 updatedAt: "2026-10-30T13:05:00-04:00"

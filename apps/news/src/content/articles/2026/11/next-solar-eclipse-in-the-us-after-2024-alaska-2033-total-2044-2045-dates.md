@@ -1,7 +1,6 @@
 ---
-title: "Next Solar Eclipse in the US: Total in Alaska in 2033, Lower 48 on Aug. 22, 2044"
-seoTitle: "Next Solar Eclipse in the US: Alaska 2033, Lower 48 2044"
-description: "The National Aeronautics and Space Administration (NASA) lists the next U.S. total solar eclipse in Alaska on Mar. 30, 2033, then the lower 48 on Aug. 22, 2044."
+title: "Next Solar Eclipse in the US: Alaska Mar. 30, 2033, Lower 48 2044"
+description: "The next total solar eclipse in the U.S. is Mar. 30, 2033 over Alaska; the lower 48 states get one Aug. 22, 2044. Table of every eclipse, 2027 to 2046."
 type: explainer
 publishedAt: "2026-11-02T14:35:00-05:00"
 authors: [jessica-hartwell]

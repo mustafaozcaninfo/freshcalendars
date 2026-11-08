@@ -1,7 +1,6 @@
 ---
-title: "Wichita Public Schools Calendar 2026-27: Fall Recess Nov. 24-27 and Last Day May 25"
-seoTitle: "Wichita Public Schools Calendar 2026-27 (USD 259)"
-description: "Wichita's Unified School District (USD) 259 has no school Nov. 23-27, Dec. 21-Jan. 4 and March 15-19. The last day of school is Tuesday, May 25, 2027."
+title: "Wichita Public Schools Calendar 2026-27: No School Nov. 23-27"
+description: "Wichita Public Schools calendar 2026-27: no school Nov. 23-27, Dec. 21-Jan. 4 and March 15-19; last day May 25, 2027. Lists every day off with its weekday."
 type: explainer
 publishedAt: "2026-11-06T20:35:00-05:00"
 authors: [aaron-kessler]

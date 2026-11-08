@@ -1,7 +1,6 @@
 ---
-title: "Women's World Cup 2027 Schedule: June 24 to July 25 in Brazil, Kickoff Times Pending"
-seoTitle: "Women's World Cup 2027 Schedule and Dates"
-description: "The 2027 Women's World Cup runs June 24 to July 25 in Brazil, says the Fédération Internationale de Football Association (FIFA). Host cities and key dates."
+title: "Women's World Cup 2027 Start Date: June 24, Final July 25 in Brazil"
+description: "The 2027 Women's World Cup starts June 24 and ends July 25 in Brazil. Host cities, the Dec. 11 draw and a key-dates printable; kickoff times pending."
 type: news
 publishedAt: "2026-10-31T07:47:00-04:00"
 authors: [jessica-hartwell]

@@ -1,7 +1,6 @@
 ---
-title: "Santa at the Mall 2026: Arrival Dates, Pet Photo Nights and Sensory Sessions by Mall"
-seoTitle: "Santa at the Mall 2026: Arrival Dates by Mall"
-description: "Santa arrives at Simon Property Group malls from Fri., Nov. 6 to Sat., Nov. 21, 2026; 13 of 20 mall pages list Dec. 24 as the last day. Pet nights by mall."
+title: "Santa at the Mall 2026: Arrival Dates at 20 Simon Malls"
+description: "Santa at the mall 2026 began Fri., Nov. 6 at Simon Property Group malls, and 13 of 20 list Dec. 24 as the last day. Pet photo nights and a printable list."
 type: news
 publishedAt: "2026-11-05T06:45:00-05:00"
 updatedAt: "2026-11-05T06:45:00-05:00"

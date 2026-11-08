@@ -1,7 +1,6 @@
 ---
-title: "NYT Midi Crossword Answers and Hints for Thursday, Nov. 5, 2026: A Title Spelled in State Codes"
-seoTitle: "NYT Midi Crossword Answers Today, Nov. 5, 2026"
-description: "The New York Times (NYT) Midi Crossword for Thursday, Nov. 5, 2026: a hint for each of Evan Kalish's 30 clues, how the themed title works, then the answers."
+title: "NYT Midi Crossword Answers Today, November 5, 2026"
+description: "The New York Times (NYT) Midi Crossword for Thursday, Nov. 5, 2026: a hint for each of Evan Kalish's 30 clues, the state-code title, then answers."
 type: explainer
 publishedAt: "2026-11-04T22:30:00-05:00"
 authors: [news-desk]

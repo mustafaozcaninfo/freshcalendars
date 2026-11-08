@@ -1,7 +1,6 @@
 ---
-title: "Jewish Holidays 2027: Dates for Purim, Passover, Rosh Hashanah, Yom Kippur and Hanukkah"
-seoTitle: "Jewish Holidays 2027: Dates From Purim to Hanukkah"
-description: "Rosh Hashanah 2027 begins at sundown Friday, Oct. 1 and Yom Kippur at sundown Sunday, Oct. 10, per Hebcal. A 2027 table shows weekdays and Israel counts."
+title: "Jewish Holidays 2027: Hanukkah Dec. 24, Rosh Hashanah Oct. 1"
+description: "Jewish holidays 2027 begin at sundown: Hanukkah on Friday, Dec. 24, Passover on Wednesday, April 21. A table shows first full days for 11 holidays."
 type: explainer
 publishedAt: "2026-11-04T09:06:00-05:00"
 authors: [christina-gerland]

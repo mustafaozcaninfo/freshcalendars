@@ -1,7 +1,6 @@
 ---
-title: "North East ISD Calendar 2026-27: Winter Break Dec. 21 to Jan. 4, Spring Break March 8-12"
-seoTitle: "North East ISD Calendar 2026-27: Breaks and Dates"
-description: "North East Independent School District (ISD) in San Antonio, Texas: Thanksgiving break Nov. 23-27, winter break Dec. 21 to Jan. 4, spring break March 8-12."
+title: "North East ISD Calendar 2026-27: Winter Break Dec. 21 to Jan. 4"
+description: "North East Independent School District (ISD) calendar 2026-27: winter break Dec. 21 to Jan. 4, spring break March 8-12, plus weekdays off by month."
 type: news
 publishedAt: "2026-11-05T06:20:00-05:00"
 authors: [aaron-kessler]

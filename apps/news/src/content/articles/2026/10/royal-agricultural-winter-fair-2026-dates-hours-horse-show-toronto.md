@@ -1,7 +1,6 @@
 ---
-title: "Royal Agricultural Winter Fair 2026: Dates, Hours, Horse Show and Butter Sculpting Times"
-seoTitle: "Royal Winter Fair 2026: Dates, Hours and Horse Show"
-description: "The Royal Agricultural Winter Fair runs Nov. 6-15, 2026, at Toronto's Exhibition Place, per royalfair.org. See daily hours, Royal Horse Show times and more."
+title: "Royal Winter Fair 2026: Nov. 6 to 15, Daily Hours and Horse Show"
+description: "The Royal Agricultural Winter Fair runs Nov. 6 to 15, 2026, at Toronto's Exhibition Place. Daily hours, Horse Show tickets from $45, butter sculpting."
 type: news
 publishedAt: "2026-10-30T02:35:00-04:00"
 authors: [christina-gerland]

@@ -1,7 +1,6 @@
 ---
-title: "Who Won the 2020 Presidential Election: Electoral Votes, Popular Vote and Certification Dates"
-seoTitle: "Who Won the 2020 Presidential Election: Results"
-description: "Joe Biden won the 2020 presidential election with 306 electoral votes to Donald Trump's 232, per the National Archives; 270 of 538 were needed."
+title: "2020 Election Results: Biden 306, Trump 232 Electoral Votes"
+description: "Joe Biden won the 2020 presidential election with 306 electoral votes to Donald Trump's 232; 270 of 538 were needed. Popular vote and a printable timeline."
 type: explainer
 publishedAt: "2026-10-29T08:00:00-04:00"
 authors: [christina-gerland]

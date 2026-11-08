@@ -1,7 +1,6 @@
 ---
-title: "Deer Season 2026: Gun Season Dates in Six States, From Minnesota's Nov. 7 Opener to Pennsylvania's Nov. 28"
-seoTitle: "Deer Season 2026: Gun Season Dates by State"
-description: "Gun deer season 2026 opens Sat., Nov. 7 in Minnesota, per its Department of Natural Resources (DNR), then Wisconsin Nov. 21 and Pennsylvania Nov. 28."
+title: "Deer Season 2026 Opening Day: Minnesota Nov. 7, Pennsylvania Nov. 28"
+description: "Opening day of deer season 2026 was Sat., Nov. 7 in Minnesota, per its Department of Natural Resources. Wisconsin opens Nov. 21. Printable for six states."
 type: explainer
 publishedAt: "2026-10-28T01:41:00-04:00"
 updatedAt: "2026-11-02T14:10:00-05:00"

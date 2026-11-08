@@ -1,7 +1,6 @@
 ---
-title: "MotoGP 2026 Remaining Races: Qatar, Portugal and Valencia Race Times in ET, PT and UK Time"
-seoTitle: "MotoGP 2026 Remaining Races: Times in ET and UK"
-description: "Three MotoGP rounds are left in 2026: Qatar Nov. 6-8, Portugal Nov. 20-22 and Valencia Nov. 27-29. The finale is 8 a.m. Eastern Time (ET) on Nov. 29."
+title: "MotoGP 2026 Remaining Races: Portugal Nov. 22, Valencia Nov. 29"
+description: "Three MotoGP rounds are left in 2026: Qatar Nov. 6-8, Portugal Nov. 20-22 and Valencia Nov. 27-29. Race times in ET and UK time, plus a printable."
 type: explainer
 publishedAt: "2026-10-30T17:43:00-04:00"
 updatedAt: "2026-11-01T10:27:00-05:00"

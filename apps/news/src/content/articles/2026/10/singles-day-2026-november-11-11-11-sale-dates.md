@@ -1,7 +1,6 @@
 ---
-title: "Singles Day 2026 Is Wednesday, Nov. 11: 11.11 Sale Dates and U.S. Time Zones"
-seoTitle: "Singles Day 2026: Nov. 11 Date and 11.11 Sale Times"
-description: "Singles Day 2026 is Wednesday, Nov. 11. Alibaba's Alizila set the 11.11 sale start for Oct. 20 in China; midnight Nov. 11 there is 11 a.m. Eastern Time (ET)."
+title: "Singles Day 2026: 11.11 Sale Date Is Wednesday, Nov. 11"
+description: "The 11.11 sale date for Singles Day 2026 is Wednesday, Nov. 11. Midnight in China is 11 a.m. ET on Nov. 10, plus AliExpress U.S. dates, Nov. 1 to Nov. 18."
 type: explainer
 publishedAt: "2026-10-25T13:15:00-04:00"
 updatedAt: "2026-11-01T16:58:00-05:00"

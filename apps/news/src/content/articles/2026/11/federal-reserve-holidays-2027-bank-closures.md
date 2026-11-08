@@ -1,7 +1,6 @@
 ---
-title: "Federal Reserve Holidays 2027: When Banks Close and the Saturday Rule"
-seoTitle: "Federal Reserve Holidays 2027: Bank Closures"
-description: "The Federal Reserve observes 11 holidays in 2027; Reserve Banks open the Friday before a Saturday holiday. Office of Personnel Management (OPM) dates compared."
+title: "Federal Reserve Holidays 2027: 11 Days, Banks Open June 18"
+description: "The Federal Reserve observes 11 holidays in 2027. Reserve Banks are open Fri., June 18, Dec. 24 and Dec. 31 despite Saturday holidays. Printable included."
 type: explainer
 publishedAt: "2026-11-04T14:59:00-05:00"
 authors: [jessica-hartwell]

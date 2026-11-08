@@ -1,7 +1,6 @@
 ---
-title: "Kennedy Center Honors 2026: Monday, Dec. 7 at Capital One Arena, and What Is Not Yet Announced"
-seoTitle: "Kennedy Center Honors 2026: Date, Venue, TV Status"
-description: "The 49th Kennedy Center Honors are Monday, Dec. 7, 2026, at Capital One Arena in Washington, D.C. Five honorees are named; host and TV network are not."
+title: "Kennedy Center Honors 2026: Dec. 7 at Capital One Arena, Honorees Set"
+description: "The 49th Kennedy Center Honors are Monday, Dec. 7, 2026, at Capital One Arena. Honorees were named Nov. 2; host and TV network are not yet announced."
 type: news
 publishedAt: "2026-10-28T18:00:00-04:00"
 updatedAt: "2026-11-08T03:20:00-05:00"

@@ -1,7 +1,6 @@
 ---
-title: "Knox County Schools Calendar 2026-27: Fall Break, Winter Break, Spring Break and Last Day"
-seoTitle: "Knox County Schools Calendar 2026-27 Breaks"
-description: "Knox County Schools (KCS) in Knoxville, Tenn., has winter break Dec. 21, 2026 to Jan. 1, 2027 and spring break March 8-12, 2027, per the district calendar."
+title: "Knox County Schools Calendar 2026-27: Winter Break Dec. 21-Jan. 1"
+description: "Knox County Schools (KCS) 2026-27: winter break Dec. 21-Jan. 1, spring break March 8-12, last day May 26. Weekdays off by month and a printable calendar."
 type: explainer
 publishedAt: "2026-11-04T21:09:00-05:00"
 updatedAt: "2026-11-04T21:09:00-05:00"

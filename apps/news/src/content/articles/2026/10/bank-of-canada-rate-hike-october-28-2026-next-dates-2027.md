@@ -1,7 +1,6 @@
 ---
-title: "Bank of Canada Raises Interest Rate to 2.5% on Oct. 28, 2026; Next Decision Dec. 9 and 2027 Dates"
-seoTitle: "Bank of Canada Rate Hike Oct. 28, 2026 and 2027 Dates"
-description: "The Bank of Canada raised its overnight rate 25 basis points to 2.5% on Oct. 28, 2026. Next announcement: Dec. 9, 9:45 a.m. Eastern Time (ET); 2027 has eight."
+title: "Bank of Canada Rate Hike: 2.5% on Oct. 28, Next Decision Dec. 9"
+description: "The Bank of Canada raised its overnight rate to 2.5% on Oct. 28, 2026. Next decision is Dec. 9 at 9:45 a.m. ET; see all eight 2027 dates, starting Jan. 27."
 type: news
 publishedAt: "2026-10-28T09:55:00-04:00"
 authors: [christina-gerland]

@@ -1,7 +1,6 @@
 ---
-title: "National Pearl Harbor Remembrance Day 2026: Monday, Dec. 7, and Flags at Half-Staff"
-seoTitle: "Pearl Harbor Remembrance Day 2026: Dec. 7 Flags"
-description: "National Pearl Harbor Remembrance Day 2026 is Monday, Dec. 7, the 85th anniversary. Federal law asks for half-staff flags; it is not a federal holiday."
+title: "Pearl Harbor Remembrance Day 2026: Dec. 7, Ceremony Time by Zone"
+description: "National Pearl Harbor Remembrance Day 2026 is Monday, Dec. 7. Federal law asks for half-staff flags; ceremony starts 7:30 a.m. Hawaii time, 12:30 p.m. ET."
 type: explainer
 publishedAt: "2026-11-02T12:58:00-05:00"
 updatedAt: "2026-11-07T05:30:00-05:00"

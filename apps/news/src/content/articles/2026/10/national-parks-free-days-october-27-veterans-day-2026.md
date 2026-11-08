@@ -1,7 +1,6 @@
 ---
-title: "National Parks Free Days 2026: Tuesday, Oct. 27 and Veterans Day, Nov. 11"
-seoTitle: "National Parks Free Days 2026: Oct. 27 and Nov. 11"
-description: "Veterans Day, Wednesday, Nov. 11, 2026, is the last National Park Service (NPS) fee-free day of the year; Tuesday, Oct. 27 has passed."
+title: "National Parks Free Days 2026: Last One Is Veterans Day, Nov. 11"
+description: "National parks free days 2026: Veterans Day, Wednesday, Nov. 11, is the last fee-free day. Who qualifies and what the entrance waiver does not cover."
 type: news
 publishedAt: "2026-10-24T13:10:00-04:00"
 updatedAt: "2026-10-28T16:12:00-04:00"

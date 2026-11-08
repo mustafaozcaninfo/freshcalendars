@@ -1,6 +1,5 @@
 ---
-title: "Waffle Answer and Hints Today, #1752 for Sunday, Nov. 8, 2026: Five Green Tiles, All Shared"
-seoTitle: "Waffle Answer & Hints Today, #1752 (Nov. 8, 2026)"
+title: "Waffle #1752 Hints & Answers Today, November 8, 2026"
 description: "Waffle #1752 for Sunday, Nov. 8, 2026: a meaning for each word, why all five green tiles belong to two words each, then the answers and a 10-swap route."
 type: explainer
 publishedAt: "2026-11-08T07:20:00-05:00"

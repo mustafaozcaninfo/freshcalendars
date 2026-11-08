@@ -1,7 +1,6 @@
 ---
-title: "Kentucky Derby 2027 Is May 1: Post Time and the 2027 Triple Crown Dates"
-seoTitle: "Kentucky Derby 2027: May 1 Post Time, Triple Crown"
-description: "The Kentucky Derby is Saturday, May 1, 2027, at about 6:57 p.m. Eastern Time (ET), per the official site. Preakness is Sunday, May 23; Belmont is June 5."
+title: "Kentucky Derby 2027 Date: May 1 at About 6:57 p.m. ET"
+description: "Kentucky Derby 2027 is Saturday, May 1, post time about 6:57 p.m. ET. Also the Preakness on May 23, Belmont on June 5 and post times by U.S. time zone."
 type: news
 publishedAt: "2026-10-31T02:55:00-04:00"
 authors: [jessica-hartwell]

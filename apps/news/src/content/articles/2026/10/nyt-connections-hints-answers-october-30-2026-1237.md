@@ -1,6 +1,5 @@
 ---
-title: "NYT Connections Hints and Answers for Friday, Oct. 30, 2026 (#1237): Camera Parts and Window Covering Decoys"
-seoTitle: "Connections Hints Today, Oct. 30, 2026 (#1237)"
+title: "Connections #1237 Hints & Answers Today, October 30, 2026"
 description: "Connections #1237 for Friday, Oct. 30, 2026: two levels of hints for every group, the decoy words to avoid, then the full answers at the very end."
 type: explainer
 publishedAt: "2026-10-29T00:05:00-04:00"

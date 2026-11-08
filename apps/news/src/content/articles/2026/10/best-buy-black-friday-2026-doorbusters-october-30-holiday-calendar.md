@@ -1,7 +1,6 @@
 ---
-title: "Best Buy Black Friday 2026: DoorBOOsters Start Friday, Oct. 30, With Every Holiday Date Through Jan. 31"
-seoTitle: "Best Buy Black Friday 2026: Deals Start Oct. 30"
-description: "Best Buy's holiday deals start Friday, Oct. 30, 2026, with DoorBOOsters. Early Black Friday Deals begin Nov. 6 and Cyber Week Deals run Dec. 1-6."
+title: "Best Buy Black Friday 2026: Deals Nov. 6 and 19, Cyber Week Dec. 1-6"
+description: "Best Buy Black Friday 2026 deals: Early deals begin Nov. 6, and 10 days of Black Friday deals start Nov. 19. Every date to Jan. 31, 2027, and a printable."
 type: news
 publishedAt: "2026-10-28T21:50:00-04:00"
 updatedAt: "2026-11-01T05:36:00-05:00"

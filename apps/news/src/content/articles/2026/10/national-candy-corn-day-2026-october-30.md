@@ -1,7 +1,6 @@
 ---
-title: "National Candy Corn Day 2026 Was Friday, Oct. 30: Candy Corn History, Ingredients and a Party Checklist"
-seoTitle: "National Candy Corn Day 2026: Oct. 30 and a Printable"
-description: "National Candy Corn Day was Friday, Oct. 30, 2026, the day before Halloween. Where the candy came from, what the label lists, and a free party checklist."
+title: "National Candy Corn Day 2026: Oct. 30 History and Party Checklist"
+description: "Candy Corn Day 2026 was Friday, Oct. 30, the day before Halloween. Where the candy came from, what the label lists, and a free party checklist."
 type: explainer
 publishedAt: "2026-10-29T15:20:00-04:00"
 updatedAt: "2026-11-02T14:10:00-05:00"

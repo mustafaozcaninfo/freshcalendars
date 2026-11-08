@@ -1,7 +1,6 @@
 ---
-title: "Skate Canada International 2026 Results: Shimada, Aymoz, Pereira and Michaud, Fear and Gibson Win"
-seoTitle: "Skate Canada 2026 Results: All Four Champions"
-description: "Mao Shimada, Kevin Aymoz, Pereira and Michaud, and Fear and Gibson won Skate Canada International 2026 in Kelowna. Full podiums, scores and start times."
+title: "Skate Canada 2026 Results: All Four Podiums With Scores"
+description: "Mao Shimada won the women's event at Skate Canada International 2026 with 235.44 points. All four podiums with scores, plus the Grand Prix Final site."
 type: news
 publishedAt: "2026-10-30T21:43:00-04:00"
 updatedAt: "2026-11-03T07:09:00-05:00"

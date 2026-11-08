@@ -1,7 +1,6 @@
 ---
-title: "London New Year's Day Parade 2027: Start Time, Route and How to Watch From the U.S."
-seoTitle: "London New Year's Day Parade 2027: Time and Route"
-description: "London's New Year's Day Parade starts at 1 p.m. Greenwich Mean Time (GMT) on Fri., Jan. 1, 2027, or 8 a.m. Eastern Time (ET), Time Out and The Late Edition say."
+title: "London New Year's Day Parade 2027: Starts 1 p.m. UK, 8 a.m. ET"
+description: "London New Year's Day Parade 2027 starts at 1 p.m. UK time on Fri., Jan. 1, or 8 a.m. ET. Route from Piccadilly to Whitehall, US time zones, how to watch."
 type: explainer
 publishedAt: "2026-11-04T13:57:00-05:00"
 updatedAt: "2026-11-04T13:57:00-05:00"

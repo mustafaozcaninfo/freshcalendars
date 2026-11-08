@@ -1,7 +1,6 @@
 ---
-title: "Monday Night Football: Bears 34, Seahawks 17 on Nov. 2, 2026, and the MNF Schedule"
-seoTitle: "Monday Night Football: Bears 34, Seahawks 17"
-description: "Monday Night Football: the Chicago Bears beat the Seattle Seahawks 34-17 on Mon., Nov. 2, 2026. Kickoff was 8:15 p.m. Eastern Time (ET) on ESPN, per NFL.com."
+title: "Monday Night Football Schedule 2026: Bears 34, Seahawks 17 on Nov. 2"
+description: "The 2026 Monday Night Football schedule runs at 8:15 p.m. ET on ESPN through Jan. 4, 2027. Bears beat Seahawks 34-17 on Nov. 2; Bills at Vikings is Nov. 9."
 type: news
 publishedAt: "2026-10-25T14:15:00-04:00"
 updatedAt: "2026-11-05T12:13:00-05:00"

@@ -1,7 +1,6 @@
 ---
-title: "Chinese Lunar Calendar 2027: Every Month's Start Date and No Leap Month"
-seoTitle: "Chinese Lunar Calendar 2027: Month Dates, No Leap"
-description: "The Chinese lunar calendar 2027 has 12 months, no leap month, and starts Feb. 6, per the Hong Kong Observatory (HKO). Month dates and all 24 solar terms."
+title: "Chinese Lunar Calendar 2027: Starts Feb. 6, No Leap Month"
+description: "The Chinese lunar calendar 2027 has 12 months, no leap month, and begins Feb. 6. Each month's start date and all 24 solar terms, per Hong Kong Observatory."
 type: explainer
 publishedAt: "2026-11-04T15:55:00-05:00"
 updatedAt: "2026-11-04T15:55:00-05:00"

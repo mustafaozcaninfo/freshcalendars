@@ -1,7 +1,6 @@
 ---
-title: "Winterlude 2027: Jan. 29 to Feb. 15 in Ottawa-Gatineau, Three Weekends"
-seoTitle: "Winterlude 2027 Dates: Jan. 29 to Feb. 15"
-description: "Winterlude 2027 runs Jan. 29 to Feb. 15 in Canada's Capital Region, says Canadian Heritage. See the 18 days by weekday, Family Day, and a free weekend planner."
+title: "Winterlude 2027 Dates: Jan. 29 to Feb. 15 in Ottawa-Gatineau"
+description: "Winterlude 2027 runs Jan. 29 to Feb. 15 in Canada's Capital Region, says Canadian Heritage. The 18 days by weekday, Family Day and a free weekend planner."
 type: explainer
 publishedAt: "2026-11-04T06:10:00-05:00"
 authors: [christina-gerland]

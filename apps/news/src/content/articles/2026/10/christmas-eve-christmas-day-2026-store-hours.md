@@ -1,7 +1,6 @@
 ---
-title: "Christmas Eve and Christmas Day 2026 Store Hours: What Closes Early on Dec. 24 and What Is Open on Dec. 25"
-seoTitle: "Christmas Eve and Christmas Day 2026 Store Hours"
-description: "Store hours for Christmas Eve, Thursday, Dec. 24, 2026, and what is open on Christmas Day: stores, pharmacies, banks, mail and markets, plus a printable."
+title: "Christmas Day Store Hours 2026: Home Depot, Lowe's Closed Dec. 25"
+description: "Christmas Eve is Thursday, Dec. 24, 2026, and Christmas Day is Friday, Dec. 25. Home Depot closes at 5 p.m. Banks, mail and markets, plus a printable."
 type: update
 publishedAt: "2026-10-21T00:32:00-04:00"
 updatedAt: "2026-10-26T13:00:00-04:00"

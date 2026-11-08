@@ -1,6 +1,6 @@
 ---
 title: "Spelling Bee Hints & Answers Today, November 10, 2026"
-description: "Tuesday's Spelling Bee for Nov. 10, 2026 from the New York Times centers on I: 70 words, 328 points, Genius at 230, and an 11-letter pangram. Hints come first."
+description: "Spelling Bee hints and answers for Nov. 10, 2026: center I, 70 words, 328 points, Genius at 230. A pangram clue and letter counts come before the answers."
 type: explainer
 publishedAt: "2026-11-09T00:05:00-05:00"
 authors: [news-desk]

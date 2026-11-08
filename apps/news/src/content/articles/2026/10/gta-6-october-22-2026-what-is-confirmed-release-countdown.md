@@ -1,7 +1,6 @@
 ---
-title: "GTA 6 Release Date: Nov. 19, 2026, Pre-Load Nov. 10, Price and Every Official Date"
-seoTitle: "GTA 6 Release Date: Nov. 19, Pre-Load Nov. 10"
-description: "Grand Theft Auto (GTA) VI comes out Thursday, Nov. 19, 2026, on PlayStation 5 and Xbox Series X|S. Pre-load opens Nov. 10 and the price is $79.99."
+title: "GTA 6 Release Date: Nov. 19, Pre-Load Nov. 10, $79.99 Price"
+description: "Grand Theft Auto (GTA) VI comes out Thursday, Nov. 19, 2026, for $79.99. Pre-load opens Nov. 10, and every official date until launch is listed."
 type: news
 publishedAt: "2026-10-20T15:00:00-04:00"
 updatedAt: "2026-11-06T07:20:00-05:00"

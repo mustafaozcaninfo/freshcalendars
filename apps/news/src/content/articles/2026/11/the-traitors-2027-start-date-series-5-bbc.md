@@ -1,7 +1,6 @@
 ---
-title: "The Traitors 2027 Start Date: Series 5 Is Due on BBC One, Date Not Yet Set"
-seoTitle: "The Traitors 2027 Start Date: Series 5 on BBC One"
-description: "The British Broadcasting Corporation (BBC) says The Traitors series 5 comes to BBC One in 2027, but has not set a start date as of 6 November 2026."
+title: "The Traitors Series 5 Start Date: BBC One in 2027, Not Yet Set"
+description: "The Traitors series 5 is due on BBC One in 2027, with no start date set as of 6 November 2026. See series 4's dates and the renewal deal to at least 2030."
 type: news
 publishedAt: "2026-11-06T13:52:00-05:00"
 authors: [jessica-hartwell]

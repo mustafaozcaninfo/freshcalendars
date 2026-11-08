@@ -1,7 +1,6 @@
 ---
-title: "Quordle Hints and Answers Today, #1738 for Wednesday, Oct. 28, 2026: Clues for All Four Words"
-seoTitle: "Quordle Hints & Answers Today, Oct. 28, 2026 (#1738)"
-description: "Quordle #1738 for Wednesday, Oct. 28, 2026: a clue for each of the four words, a starter strategy, then all answers in a marked spoiler section at the very end."
+title: "Quordle #1738 Hints & Answers Today, October 28, 2026"
+description: "Quordle hint and answer today, #1738 for Wednesday, Oct. 28, 2026. A clue for each word, two opening guesses that cover most letters, answers hidden last."
 type: explainer
 publishedAt: "2026-10-28T17:50:00-04:00"
 authors: [news-desk]

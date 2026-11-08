@@ -1,6 +1,5 @@
 ---
-title: "NYT Mini Crossword Answers and Hints for Saturday, Nov. 7, 2026: 7 by 7, 20 Clues"
-seoTitle: "NYT Mini Crossword Answers Today, Nov. 7, 2026"
+title: "NYT Mini Crossword Answers Today, November 7, 2026"
 description: "The New York Times (NYT) Mini Crossword for Saturday, Nov. 7, 2026: a hint for each of Joel Fagliano's 20 clues on a 7-by-7 grid, then the answers."
 type: explainer
 publishedAt: "2026-11-06T22:30:00-05:00"

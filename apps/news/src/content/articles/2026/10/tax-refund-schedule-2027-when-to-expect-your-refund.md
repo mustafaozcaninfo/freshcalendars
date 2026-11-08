@@ -1,7 +1,6 @@
 ---
-title: "Tax Refund Schedule 2027: When to Expect Your Refund, From E-File to Deposit"
-seoTitle: "Tax Refund Schedule 2027: E-File to Deposit"
-description: "The Internal Revenue Service (IRS) issues most refunds in fewer than 21 days. See 2027 e-file dates plus 3 weeks, and mailed returns plus 6 weeks."
+title: "2027 Tax Refund Schedule: E-File Plus 3 Weeks, Mailed Plus 6"
+description: "The 2027 tax refund schedule follows the IRS guideline of fewer than 21 days. See e-file dates plus 3 weeks and mailed returns plus 6 weeks."
 type: explainer
 publishedAt: "2026-10-31T00:58:00-04:00"
 authors: [aaron-kessler]

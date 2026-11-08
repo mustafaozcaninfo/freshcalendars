@@ -1,7 +1,6 @@
 ---
-title: "NFL Trade Deadline 2026: Tuesday, Nov. 10 at 4 p.m. ET, After Week 9"
-seoTitle: "NFL Trade Deadline 2026: Nov. 10, 4 p.m. ET"
-description: "The National Football League (NFL) trade deadline is Tue., Nov. 10, 2026, at 1 p.m. Pacific Time, or 4 p.m. Eastern Time (ET). See every time zone."
+title: "NFL Trade Deadline 2026: Tuesday, Nov. 10 at 4 p.m. ET"
+description: "The NFL trade deadline 2026 is Tue., Nov. 10 at 4 p.m. ET (1 p.m. PT), after Week 9. See every time zone and a countdown printable to the Super Bowl."
 type: explainer
 publishedAt: "2026-10-25T23:40:00-04:00"
 updatedAt: "2026-11-05T12:15:00-05:00"

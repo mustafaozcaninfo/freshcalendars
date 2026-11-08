@@ -1,7 +1,6 @@
 ---
-title: "Black Friday 2026 UK: Date Is 27 November, Amazon UK Sale Dates Not Yet Announced"
-seoTitle: "Black Friday 2026 UK: 27 November, Amazon UK Dates"
-description: "Black Friday 2026 is Friday, 27 November in the United Kingdom (UK) and Cyber Monday is 30 November. Amazon UK had not announced 2026 sale dates by 28 October."
+title: "Black Friday 2026 UK Date: 27 November, Amazon UK Dates Not Announced"
+description: "Black Friday 2026 UK date is Friday, 27 November, and Cyber Monday is 30 November. Amazon UK has not announced sale dates; 2024 and 2025 starts listed."
 type: news
 dateline: "London"
 publishedAt: "2026-10-28T03:43:00-04:00"

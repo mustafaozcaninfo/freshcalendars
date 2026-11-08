@@ -1,7 +1,6 @@
 ---
-title: "ACT on Dec. 12, 2026: Register by Fri., Nov. 6, Late Deadline Nov. 29, Scores Dec. 17"
-seoTitle: "ACT Dec. 12, 2026: Register by Nov. 6, Scores Dec. 17"
-description: "Register for the Dec. 12, 2026 ACT by 11:59 p.m. Central Time (CT) on Fri., Nov. 6, or by Nov. 29 with a late fee. Online scores arrive Dec. 17, ACT says."
+title: "ACT December Registration Deadline: Nov. 6, Late by Nov. 29"
+description: "The ACT December registration deadline was Nov. 6; late registration with a $42 fee runs to Nov. 29. See the fee math and Dec. 17 online score date."
 type: news
 publishedAt: "2026-11-03T14:30:00-05:00"
 authors: [aaron-kessler]

@@ -1,7 +1,6 @@
 ---
-title: "NHL Global Series 2026: Helsinki Nov. 12 and 14, Düsseldorf Dec. 18 and 20, Start Times"
-seoTitle: "NHL Global Series 2026: Dates and Start Times"
-description: "The National Hockey League (NHL) opens its Global Series in Helsinki on Nov. 12, 2026, at 7 p.m. Eastern European Time (EET), which is noon Eastern Time (ET)."
+title: "NHL Global Series 2026: Helsinki Nov. 12, 14, Düsseldorf Dec. 18, 20"
+description: "The NHL Global Series 2026 opens in Helsinki on Nov. 12 at noon ET. A puck-drop table converts all four games to ET, with a free printable."
 type: news
 publishedAt: "2026-11-07T17:17:00-05:00"
 authors: [jessica-hartwell]

@@ -1,6 +1,5 @@
 ---
-title: "NYT Pips Hints and Answers for Thursday, Nov. 5, 2026: Easy, Medium and Hard"
-seoTitle: "Pips Hints & Answers, Nov. 5, 2026: Easy, Medium, Hard"
+title: "NYT Pips Hints & Answers Today, November 5, 2026"
 description: "Thursday, Nov. 5, 2026 Pips: three 6s are forced into a corner of the Hard board. Opening moves and two hints per level first, then every placement."
 type: explainer
 publishedAt: "2026-11-04T00:05:00-05:00"

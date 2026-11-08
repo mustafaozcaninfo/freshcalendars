@@ -1,7 +1,6 @@
 ---
-title: "Lakers Schedule December 2026: Game Times in PT and ET, TV and the Christmas Day Game"
-seoTitle: "Lakers Schedule December 2026: Times, TV, Christmas"
-description: "The Lakers open December at New Orleans on Wed., Dec. 2, 2026, at 5 p.m. Pacific Time (PT), 8 p.m. Eastern Time (ET), and host Philadelphia on Christmas Day."
+title: "Lakers Schedule December 2026: Christmas Day at 2 p.m. PT, 5 p.m. ET"
+description: "The Lakers December schedule for 2026 has 11 games, opening Dec. 2 at New Orleans. Times in PT and ET, TV, the Christmas Day game and a free printable."
 type: news
 publishedAt: "2026-11-02T11:18:00-05:00"
 authors: [jessica-hartwell]

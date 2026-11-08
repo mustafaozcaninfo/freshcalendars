@@ -1,7 +1,6 @@
 ---
-title: "Grey Cup 2026 Is Sunday, Nov. 15 in Calgary: Start Time by Time Zone and CFL Playoff Dates"
-seoTitle: "Grey Cup 2026: Date, Time and CFL Playoff Schedule"
-description: "The 113th Grey Cup is Sunday, Nov. 15, 2026, at 6 p.m. Eastern Time (ET) in Calgary, the Canadian Football League (CFL) says. See the time in every zone."
+title: "Grey Cup 2026 Start Time: Sunday, Nov. 15, 6 p.m. ET, by Time Zone"
+description: "The 113th Grey Cup is Sunday, Nov. 15, 2026, at 6 p.m. ET in Calgary. Start time in every zone, plus playoff dates, per the Canadian Football League (CFL)."
 type: explainer
 publishedAt: "2026-10-26T01:09:00-04:00"
 updatedAt: "2026-11-01T12:38:00-05:00"

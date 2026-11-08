@@ -1,7 +1,6 @@
 ---
-title: "Next Saturday Halloween: Oct. 31, 2037, 11 Years After 2026, With Dates to 2050"
-seoTitle: "Halloween 2027 Is a Sunday; Next Saturday: 2037"
-description: "Halloween 2027 is a Sunday. The next Saturday Halloween is Oct. 31, 2037, 11 years after 2026. Halloween weekday for every year to 2050, plus a printable list."
+title: "Halloween 2027 Day of the Week: Sunday, Next Saturday in 2037"
+description: "Halloween 2027 is a Sunday. The next Saturday Halloween is Oct. 31, 2037. See the weekday for every year to 2050, plus a printable list."
 type: explainer
 publishedAt: "2026-10-31T09:40:00-04:00"
 updatedAt: "2026-11-04T13:30:00-05:00"

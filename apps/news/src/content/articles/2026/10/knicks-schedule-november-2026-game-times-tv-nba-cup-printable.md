@@ -1,7 +1,6 @@
 ---
-title: "Knicks Schedule November 2026: Game Times in ET, TV and NBA Cup Games"
-seoTitle: "Knicks Schedule November 2026: Times, TV, Cup Games"
-description: "The Knicks host Brooklyn on Mon., Nov. 2, 2026, at 7:30 p.m. Eastern Time (ET), the first of 14 November games in the National Basketball Association (NBA)."
+title: "Knicks Schedule November 2026: 14 Games, NBA Cup Nov. 13, 25, 27"
+description: "The Knicks play 14 games in November 2026, nine at home and five on the road. Game times in ET, national TV and NBA Cup games, plus a free printable."
 type: news
 publishedAt: "2026-10-31T03:50:00-04:00"
 updatedAt: "2026-11-05T21:25:00-05:00"

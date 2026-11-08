@@ -1,7 +1,6 @@
 ---
-title: "Thunder Schedule November 2026: Game Times, TV and NBA Cup Games"
-seoTitle: "Thunder Schedule November 2026: Times, TV, Cup Games"
-description: "The Thunder play at Cleveland on Mon., Nov. 2, 2026, at 6 p.m. Central Time (CT), 7 p.m. Eastern Time (ET), first of 15 November games."
+title: "Thunder Schedule November 2026: 15 Games, Times in CT and ET"
+description: "The Thunder play at Cleveland Mon., Nov. 2, 2026, at 6 p.m. Central Time (CT), 7 p.m. ET. All 15 November games with TV, NBA Cup games and a printable."
 type: news
 publishedAt: "2026-11-02T11:20:00-05:00"
 updatedAt: "2026-11-05T21:25:00-05:00"

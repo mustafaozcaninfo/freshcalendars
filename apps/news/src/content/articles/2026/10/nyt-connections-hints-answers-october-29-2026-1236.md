@@ -1,6 +1,5 @@
 ---
-title: "NYT Connections Hints and Answers for Thursday, Oct. 29, 2026 (#1236): Coins, Penguins, Fonts and Three Colors"
-seoTitle: "Connections Hints Today, Oct. 29, 2026 (#1236)"
+title: "Connections #1236 Hints & Answers Today, October 29, 2026"
 description: "Connections #1236 for Thursday, Oct. 29, 2026: two levels of hints for every group, the decoy words to avoid, then the full answers at the very end."
 type: explainer
 publishedAt: "2026-10-28T00:05:00-04:00"

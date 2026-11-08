@@ -1,6 +1,5 @@
 ---
-title: "NYT Connections Hints and Answers for Sunday, Oct. 25, 2026 (#1232): Pasta, Toms and Things You Snap"
-seoTitle: "Connections Hints Today, Oct. 25, 2026 (#1232)"
+title: "Connections #1232 Hints & Answers Today, October 25, 2026"
 description: "Connections #1232 for Sunday, Oct. 25, 2026: two levels of hints for every group, the body-part decoys to avoid, then the full answers at the very end."
 type: explainer
 publishedAt: "2026-10-24T13:45:00-04:00"

@@ -1,7 +1,6 @@
 ---
-title: "Survivor Series 2026: WarGames Start Time Nov. 28 in Houston and How to Watch on ESPN"
-seoTitle: "Survivor Series 2026: Date, Start Time, How to Watch"
-description: "World Wrestling Entertainment (WWE) lists Survivor Series: WarGames for Sat., Nov. 28, 2026, at Daikin Park in Houston, at 6 p.m. Eastern Time (ET)."
+title: "Survivor Series 2026 Start Time: 6 p.m. ET on Nov. 28"
+description: "World Wrestling Entertainment (WWE) lists Survivor Series: WarGames for Sat., Nov. 28 in Houston at 6 p.m. ET. Times for every U.S. zone, the UK and Japan."
 type: news
 publishedAt: "2026-10-30T07:50:00-04:00"
 authors: [jessica-hartwell]

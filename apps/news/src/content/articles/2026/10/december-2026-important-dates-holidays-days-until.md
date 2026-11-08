@@ -1,7 +1,6 @@
 ---
-title: "December 2026 Holidays and Key Dates: Hanukkah, the Solstice, Christmas and Every Deadline, Days Until Each"
-seoTitle: "December 2026 Holidays: Calendar With Every Key Date"
-description: "Holidays in December 2026: Hanukkah from Dec. 4, the solstice Dec. 21, Christmas on Friday, Dec. 25, plus shipping and enrollment deadlines and days until each."
+title: "Holidays in December 2026: Hanukkah Dec. 4, Christmas Dec. 25"
+description: "Holidays in December 2026: Hanukkah from Dec. 4, the solstice Dec. 21, Christmas Dec. 25. Medicare enrollment ends Dec. 7; days until each date."
 type: explainer
 publishedAt: "2026-10-24T17:00:00-04:00"
 updatedAt: "2026-11-02T14:10:00-05:00"

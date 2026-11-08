@@ -1,7 +1,6 @@
 ---
-title: "Video Game Release Dates December 2026: 14 Games, Seven of Them on Dec. 3"
-seoTitle: "Video Game Release Dates December 2026: 14 Games"
-description: "Fourteen games have December 2026 release dates on their publishers' pages, with seven on Thursday, Dec. 3. Weekdays, platforms and sources for each."
+title: "Video Game Release Dates December 2026: 14 Games, 7 on Dec. 3"
+description: "Fourteen games have December 2026 release dates on publisher pages, seven on Thu., Dec. 3. Weekdays, platforms and sources, plus a printable calendar."
 type: news
 publishedAt: "2026-11-03T06:10:00-05:00"
 authors: [jessica-hartwell]

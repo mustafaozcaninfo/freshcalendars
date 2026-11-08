@@ -1,7 +1,6 @@
 ---
-title: "McDonald's Holiday Drinks 2026: Cookie Butter Frappé and Frosted Cranberry, From Nov. 3"
-seoTitle: "McDonald's Holiday Drinks 2026: Nov. 3 Start, 5 Drinks"
-description: "McDonald's five limited-time holiday drinks for 2026 were set to start Nov. 3: three Cookie Butter coffees and two Frosted Cranberry drinks, newsrooms report."
+title: "McDonald's Holiday Drinks 2026: Five Drinks Set for Nov. 3"
+description: "McDonald's holiday drinks 2026 were set to start Nov. 3 with five drinks: three Cookie Butter coffees and two Frosted Cranberry. A table lists each one."
 type: news
 publishedAt: "2026-11-04T15:00:00-05:00"
 updatedAt: "2026-11-04T15:00:00-05:00"

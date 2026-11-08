@@ -1,7 +1,6 @@
 ---
-title: "Statue of Liberty 140th Anniversary: Oct. 28, 2026 Timeline, Tickets and Visit Facts"
-seoTitle: "Statue of Liberty 140th Anniversary: Oct. 28, 2026"
-description: "Oct. 28, 2026 is 140 years since the Statue of Liberty was dedicated, per the National Park Service (NPS). See the timeline, 2026 ticket prices and ferry facts."
+title: "Statue of Liberty 140th Anniversary: Oct. 28 Timeline, Tickets"
+description: "The Statue of Liberty's 140th anniversary was Wednesday, Oct. 28, 2026, per the National Park Service. A timeline with weekdays and 2026 ticket prices."
 type: explainer
 publishedAt: "2026-10-27T17:40:00-04:00"
 updatedAt: "2026-10-30T01:05:00-04:00"

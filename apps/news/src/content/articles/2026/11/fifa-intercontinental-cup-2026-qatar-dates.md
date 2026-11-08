@@ -1,7 +1,6 @@
 ---
-title: "FIFA Intercontinental Cup 2026: PSG in the Dec. 16 Final in Qatar, Full Schedule"
-seoTitle: "Intercontinental Cup 2026: PSG Final Dec. 16, Schedule"
-description: "Paris Saint-Germain (PSG) plays the Intercontinental Cup final Wed., Dec. 16 in Al Rayyan, Qatar, per Fédération Internationale de Football Association (FIFA)."
+title: "FIFA Intercontinental Cup 2026: Dec. 9, Dec. 12 and Final Dec. 16"
+description: "The Intercontinental Cup 2026 final is Wed., Dec. 16 in Qatar, per Fédération Internationale de Football Association (FIFA). Every match date and venue."
 type: news
 publishedAt: "2026-11-04T10:50:00-05:00"
 authors: [jessica-hartwell]

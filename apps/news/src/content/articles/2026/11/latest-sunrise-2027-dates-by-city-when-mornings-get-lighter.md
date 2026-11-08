@@ -1,7 +1,6 @@
 ---
-title: "Latest Sunrise 2027: It Comes in Early January, With Dates for 20 U.S. Cities"
-seoTitle: "Latest Sunrise 2027 by City: Dates and Times"
-description: "The latest sunrise of winter comes after the Dec. 21 solstice: 7:20 a.m. in New York, Dec. 30-Jan. 10, per U.S. Naval Observatory (USNO) data for 20 cities."
+title: "Latest Sunrise 2027: New York 7:20 a.m. Dec. 30-Jan. 10, 20 Cities"
+description: "The latest sunrise of winter is 7:20 a.m. in New York, Dec. 30-Jan. 10, after the Dec. 21 solstice. Dates and times for 20 U.S. cities, plus a printable."
 type: explainer
 publishedAt: "2026-11-02T17:13:00-05:00"
 authors: [jessica-hartwell]

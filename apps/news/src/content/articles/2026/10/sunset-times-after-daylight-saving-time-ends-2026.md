@@ -1,7 +1,6 @@
 ---
-title: "Sunset Times After Daylight Saving Time Ends: When It Gets Dark in 20 U.S. Cities, and the Earliest Sunset"
-seoTitle: "Earliest Sunset 2026 by City: When It Gets Dark Now"
-description: "The earliest sunset of 2026 is 4:28 p.m. in New York on Dec. 6-9, before the solstice. U.S. Naval Observatory (USNO) times for 20 cities, and the Nov. 1 drop."
+title: "Sunset Time Nov. 1, 2026: New York 4:52 p.m., Earliest 4:28 p.m."
+description: "Sunset in New York moved from 5:53 p.m. to 4:52 p.m. on Nov. 1, 2026. Before-and-after times for 20 cities, and each city's earliest sunset in December."
 type: explainer
 publishedAt: "2026-10-20T01:20:00-04:00"
 updatedAt: "2026-11-05T19:20:00-05:00"

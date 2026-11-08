@@ -1,7 +1,6 @@
 ---
-title: "Christmas 2026: How Many Days Until Friday, Dec. 25, Plus a Live Countdown and Printable Calendar"
-seoTitle: "Christmas 2026: Days Until Dec. 25 and Printable"
-description: "Christmas Day 2026 is Friday, Dec. 25. Get a live countdown in your time zone, a December 2026 calendar with holidays and a free printable of key dates."
+title: "Christmas 2026 Countdown: Days Until Friday, Dec. 25, Printable"
+description: "Christmas 2026 is Friday, Dec. 25. A live countdown in your time zone, a December 2026 calendar with holidays and a free printable of key dates."
 type: explainer
 publishedAt: "2026-10-24T00:50:00-04:00"
 updatedAt: "2026-10-27T03:03:00-04:00"

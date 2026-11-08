@@ -1,7 +1,6 @@
 ---
-title: "Boston Public Schools Calendar 2026-27: February and April Recess, June 22 Last Day"
-seoTitle: "Boston Public Schools Calendar 2026-27 Breaks"
-description: "Boston Public Schools (BPS) 2026-27: no school Nov. 11, Nov. 26-27, Dec. 24-Jan. 1, Feb. 16-19 and April 20-23, 2027. The last day of school is June 22, 2027."
+title: "BPS Calendar 2026-27: Veterans Day Nov. 11, Last Day June 22"
+description: "Boston Public Schools (BPS) calendar 2026-27: no school Nov. 11, Nov. 26-27, Dec. 24-Jan. 1, Feb. 16-19 and April 20-23. The last day is June 22, 2027."
 type: explainer
 publishedAt: "2026-11-04T13:25:00-05:00"
 authors: [aaron-kessler]

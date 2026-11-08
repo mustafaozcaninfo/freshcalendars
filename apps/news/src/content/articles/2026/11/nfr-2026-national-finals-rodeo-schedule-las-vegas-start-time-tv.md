@@ -1,7 +1,6 @@
 ---
-title: "NFR 2026 Schedule: Dec. 3-12 in Las Vegas, 5:45 p.m. PT Start Times and How to Watch"
-seoTitle: "NFR 2026 Schedule: Dec. 3-12, Start Times and TV"
-description: "The 2026 National Finals Rodeo (NFR) runs Dec. 3-12 in Las Vegas, with all 10 rounds at 5:45 p.m. Pacific Time (PT), which is 8:45 p.m. Eastern Time (ET)."
+title: "NFR 2026 Schedule: Dec. 3-12, Nightly 5:45 p.m. PT Start"
+description: "The 2026 National Finals Rodeo (NFR) runs Dec. 3-12 in Las Vegas, starting 5:45 p.m. PT (8:45 p.m. ET), with a grid of all ten nights and how to watch."
 type: news
 publishedAt: "2026-11-07T06:00:00-05:00"
 authors: [jessica-hartwell]

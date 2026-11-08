@@ -1,7 +1,6 @@
 ---
-title: "Christmas Gift List and Budget Planner 2026: Free Printable With Shipping Deadlines"
-seoTitle: "Christmas Gift List and Budget Planner 2026 Printable"
-description: "Free printable Christmas gift list and budget planner for 2026, with ship-by dates from Dec. 15 (FedEx Ground Economy) to Dec. 23 (FedEx overnight)."
+title: "Christmas Gift List Printable 2026: 18 Gifts, Ship-By From Dec. 15"
+description: "Free printable Christmas gift list and budget planner for 2026 with 18 rows and ship-by dates from Dec. 15 (FedEx Ground Economy) to Dec. 23 (overnight)."
 type: explainer
 publishedAt: "2026-11-03T16:47:00-05:00"
 authors: [jessica-hartwell]

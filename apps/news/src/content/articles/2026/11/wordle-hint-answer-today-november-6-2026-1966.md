@@ -1,6 +1,5 @@
 ---
-title: "Today's Wordle #1966, Friday, Nov. 6, 2026: A Ladder of Hints Before the Answer"
-seoTitle: "Wordle #1966 Hints, Friday Nov. 6, 2026 and Answer"
+title: "Wordle #1966 Hints & Answer Today, November 6, 2026"
 description: "Wordle #1966 for Friday, Nov. 6, 2026: a ladder of hints about letters, meaning and sound, with the answer kept in a spoiler section after the clues."
 type: explainer
 publishedAt: "2026-11-05T00:05:00-05:00"

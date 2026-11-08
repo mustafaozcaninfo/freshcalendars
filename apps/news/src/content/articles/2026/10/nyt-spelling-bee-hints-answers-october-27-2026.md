@@ -1,7 +1,6 @@
 ---
-title: "NYT Spelling Bee Hints and Answers for Tuesday, Oct. 27, 2026: Hint Grid, Pangram and Monday's Solution"
-seoTitle: "Spelling Bee Hints Today, Oct. 27, 2026"
-description: "Tuesday's Spelling Bee for Oct. 27, 2026 from the New York Times centers on A, with 29 words, 116 points and one pangram. Clues come first, then the answers."
+title: "Spelling Bee Hints & Answers Today, October 27, 2026"
+description: "Spelling Bee hints and answers for Oct. 27, 2026: center A, 29 words, 116 points, Genius at 81. A pangram clue and a hint grid come before the answers."
 type: explainer
 publishedAt: "2026-10-26T01:45:00-04:00"
 updatedAt: "2026-11-07T12:52:00-05:00"

@@ -1,7 +1,6 @@
 ---
-title: "Arizona Time After Nov. 1, 2026: Phoenix Is 1 Hour Ahead of California, Same as Denver"
-seoTitle: "Arizona Time After Nov. 1, 2026 vs California"
-description: "Arizona stays on Mountain Standard Time (MST) when U.S. clocks fall back Nov. 1, 2026, so Phoenix is 1 hour ahead of California and matches Denver."
+title: "Arizona vs California Time: Phoenix 1 Hour Ahead Since Nov. 1, 2026"
+description: "Arizona and California are no longer on the same time: Phoenix is 1 hour ahead since Nov. 1, 2026. Table of Phoenix and Honolulu against five U.S. cities."
 type: explainer
 publishedAt: "2026-10-31T13:00:00-04:00"
 updatedAt: "2026-11-01T05:45:00-05:00"

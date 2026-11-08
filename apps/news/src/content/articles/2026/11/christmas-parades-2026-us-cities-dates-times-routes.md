@@ -1,7 +1,6 @@
 ---
-title: "Christmas Parades 2026: Chicago, Hollywood, Denver, Dallas and Fort Lauderdale Dates"
-seoTitle: "Christmas Parades 2026: Dates, Times and Routes"
-description: "Chicago's Christmas parade is Nov. 21, 2026, at 5:30 p.m. Central Time (CT); Hollywood is Nov. 29, Denver and Dallas Dec. 5, Fort Lauderdale Dec. 12."
+title: "Christmas Parades 2026: Chicago Nov. 21, Hollywood Nov. 29"
+description: "Christmas parades 2026 start with Chicago on Nov. 21 at 5:30 p.m. Central Time. One table lists five cities' dates, start times and how to watch."
 type: explainer
 publishedAt: "2026-11-04T18:35:00-05:00"
 updatedAt: "2026-11-04T18:35:00-05:00"

@@ -1,7 +1,6 @@
 ---
-title: "Toray Pan Pacific Open 2026: Diana Shnaider Beats Fernandez for the Tokyo Title"
-seoTitle: "Toray Pan Pacific Open 2026: Shnaider Wins Tokyo"
-description: "Diana Shnaider beat Leylah Fernandez 6-4, 5-7, 6-2 to win the 2026 Toray Pan Pacific Open in Tokyo, the Women's Tennis Association (WTA) says. See results."
+title: "Toray Pan Pacific Open 2026: Shnaider Beats Fernandez 6-4, 5-7, 6-2"
+description: "Diana Shnaider won the 2026 Toray Pan Pacific Open in Tokyo on Nov. 1, beating Leylah Fernandez 6-4, 5-7, 6-2. Semifinal scores and round-by-round results."
 type: news
 publishedAt: "2026-10-29T04:02:00-04:00"
 updatedAt: "2026-11-02T14:10:00-05:00"

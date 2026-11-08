@@ -1,7 +1,6 @@
 ---
-title: "SNAP Payment Schedule January 2027: Deposit Dates by State and New Year's Day"
-seoTitle: "SNAP Payment Schedule January 2027: Dates by State"
-description: "Supplemental Nutrition Assistance Program (SNAP) deposit days for January 2027 by state, with weekdays and flags for New Year's Day and Jan. 18."
+title: "SNAP Payment Schedule January 2027: Jan. 1 and Jan. 18 Flagged"
+description: "Supplemental Nutrition Assistance Program (SNAP) January 2027 deposits begin Friday, Jan. 1 in 5 places. Days by state; Martin Luther King Jr. Day flagged."
 type: news
 publishedAt: "2026-11-02T06:00:00-05:00"
 authors: [aaron-kessler]

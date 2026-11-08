@@ -1,6 +1,5 @@
 ---
-title: "NYT Mini Crossword Answers and Hints for Wednesday, Oct. 28, 2026: Two Chopin Clues and a Pun on Socks"
-seoTitle: "NYT Mini Crossword Answers, Oct. 28, 2026"
+title: "NYT Mini Crossword Answers Today, October 28, 2026"
 description: "The New York Times Mini Crossword for Oct. 28, 2026: a hint for each of the 10 clues on a five-by-five grid, then every Across and Down answer at the end."
 type: explainer
 publishedAt: "2026-10-29T04:15:00-04:00"

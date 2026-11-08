@@ -1,6 +1,5 @@
 ---
-title: "January 2027 School Holidays: MLK Day, Jan. 4 Staff Days and Days Off in 36 Districts"
-seoTitle: "January 2027 School Holidays by District"
+title: "January 2027 School Holidays: All 36 Districts Closed Jan. 18"
 description: "January 2027 school holidays in 36 districts: all close Jan. 18 for Martin Luther King Jr. (MLK) Day and 22 are off Jan. 4. Return dates and workdays."
 type: news
 publishedAt: "2026-11-04T13:03:00-05:00"

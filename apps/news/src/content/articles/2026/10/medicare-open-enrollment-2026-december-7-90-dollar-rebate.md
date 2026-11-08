@@ -1,7 +1,6 @@
 ---
-title: "Medicare Open Enrollment 2026 Deadline Is Dec. 7: Key Dates, Countdown and the $90 Part B Rebate"
-seoTitle: "Medicare Open Enrollment 2026 Deadline: Dec. 7"
-description: "Medicare open enrollment for 2027 coverage ends Monday, Dec. 7, 2026. See a live countdown, the key dates and who gets the one-time $90 Part B rebate."
+title: "Medicare Open Enrollment 2026 Ends Dec. 7: Countdown and Key Dates"
+description: "Medicare open enrollment 2026 ends Monday, Dec. 7. See a live countdown, key dates through 2027 and who gets the one-time $90 Part B rebate."
 type: news
 publishedAt: "2026-10-18T08:40:00-04:00"
 updatedAt: "2026-11-07T21:18:00-05:00"

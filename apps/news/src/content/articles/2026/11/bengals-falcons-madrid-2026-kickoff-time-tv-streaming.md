@@ -1,7 +1,6 @@
 ---
-title: "Bengals vs. Falcons in Madrid 2026: November 8 Kickoff Time, TV and Streaming"
-seoTitle: "Bengals vs. Falcons Madrid 2026: Kickoff Time, TV, Stream"
-description: "Bengals vs. Falcons in Madrid kicks off Sun., Nov. 8, 2026, at 9:30 a.m. Eastern Time (ET), 3:30 p.m. local, on NFL Network, per the Bengals and Falcons."
+title: "Bengals vs. Falcons in Madrid: 9:30 a.m. ET Kickoff on NFL Network"
+description: "Bengals vs. Falcons in Madrid kicks off Sun., Nov. 8 at 9:30 a.m. ET (3:30 p.m. local) on NFL Network. Times for every U.S. zone and a free printable."
 type: news
 publishedAt: "2026-11-08T06:04:00-05:00"
 updatedAt: "2026-11-08T06:04:00-05:00"

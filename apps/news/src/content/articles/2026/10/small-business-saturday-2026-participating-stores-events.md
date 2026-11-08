@@ -1,7 +1,6 @@
 ---
-title: "Small Business Saturday 2026 Is Nov. 28: How to Find Participating Stores and Events"
-seoTitle: "Small Business Saturday 2026: Find Stores, Events"
-description: "Small Business Saturday is Nov. 28, 2026, says the U.S. Small Business Administration (SBA). Four local events we checked, how to find stores and how to join."
+title: "Small Business Saturday 2026 Is Nov. 28: Four Local Events Listed"
+description: "Small Business Saturday is Nov. 28, 2026, says the U.S. Small Business Administration (SBA). Four local events we checked, how to find stores, how to join."
 type: explainer
 publishedAt: "2026-10-30T15:30:00-04:00"
 updatedAt: "2026-11-08T02:45:00-05:00"

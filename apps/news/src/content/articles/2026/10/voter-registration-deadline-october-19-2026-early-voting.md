@@ -1,7 +1,6 @@
 ---
-title: "Oct. 19 Voter Registration Deadline Has Passed; Same-Day Options Remain and Election Day Is Nov. 3"
-seoTitle: "Voter Registration Deadline Passed; Election Day Nov. 3"
-description: "The Oct. 19 voter registration deadline has passed in California, Pennsylvania and Michigan. Same-day options remain in some states; Election Day is Nov. 3."
+title: "Voter Registration Deadline Oct. 19, 2026: California, Pennsylvania"
+description: "The Oct. 19 voter registration deadline has passed in California, Pennsylvania and Michigan. California and Michigan allowed in-person sign-up to Nov. 3."
 type: news
 publishedAt: "2026-10-18T08:30:00-04:00"
 updatedAt: "2026-11-02T14:10:00-05:00"

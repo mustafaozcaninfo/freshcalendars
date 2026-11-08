@@ -1,6 +1,5 @@
 ---
-title: "Kindergarten Registration 2027-28: NYC Opens Dec. 9, Age Cutoffs and Dates by District"
-seoTitle: "Kindergarten Registration 2027-28 Dates and Age Cutoffs"
+title: "Kindergarten Registration 2027-28: NYC Opens Dec. 9, Age Cutoffs"
 description: "NYC kindergarten applications for 2027-28 open Dec. 9, 2026; Philadelphia registers Jan. 19. Age cutoffs and registration dates for large districts."
 type: news
 publishedAt: "2026-11-03T06:10:00-05:00"

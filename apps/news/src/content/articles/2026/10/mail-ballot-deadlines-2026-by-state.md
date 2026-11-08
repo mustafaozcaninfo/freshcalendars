@@ -1,7 +1,6 @@
 ---
-title: "Mail Ballot Deadlines 2026 by State: When Your Ballot Must Arrive, and Where a Nov. 3 Postmark Still Counts"
-seoTitle: "Mail Ballot Deadlines 2026 by State: Postmark Rules"
-description: "Most states need mail ballots to arrive by Nov. 3, 2026; about 15 count ones postmarked by then. Every state's deadline and the Supreme Court ruling."
+title: "Mail Ballot Deadlines 2026 by State: Where a Nov. 3 Postmark Counts"
+description: "Mail ballot deadlines for 2026: most states needed ballots received by Nov. 3; about 15 counted ones postmarked by then. Every state and the court ruling."
 type: explainer
 publishedAt: "2026-10-20T10:40:00-04:00"
 updatedAt: "2026-10-28T16:12:00-04:00"

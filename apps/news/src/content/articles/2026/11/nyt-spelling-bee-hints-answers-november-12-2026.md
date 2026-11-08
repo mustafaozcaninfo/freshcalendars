@@ -1,6 +1,6 @@
 ---
 title: "Spelling Bee Hints & Answers Today, November 12, 2026"
-description: "Thursday's Spelling Bee for Nov. 12, 2026 from the New York Times has T in the center, 54 words and 233 points, with Genius at 163. Hint grid and counts below."
+description: "Spelling Bee hints and answers for Nov. 12, 2026: center T, 54 words, 233 points, Genius at 163. A pangram clue and letter counts come before the answers."
 type: explainer
 publishedAt: "2026-11-11T00:05:00-05:00"
 authors: [news-desk]

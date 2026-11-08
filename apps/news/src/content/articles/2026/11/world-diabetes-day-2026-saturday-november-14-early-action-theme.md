@@ -1,7 +1,6 @@
 ---
-title: "World Diabetes Day 2026 Is Saturday, Nov. 14: Early Action Theme, Dates and Counts"
-seoTitle: "World Diabetes Day 2026, Nov. 14: Theme and Dates"
-description: "World Diabetes Day is Saturday, Nov. 14, 2026; the theme is Early action on diabetes, per the International Diabetes Federation (IDF). Dates, counts, checklist."
+title: "World Diabetes Day 2026: Saturday, Nov. 14, Early Action Theme"
+description: "World Diabetes Day is Saturday, Nov. 14, 2026, and the theme is Early action on diabetes. November dates, official counts and a free checklist."
 type: explainer
 publishedAt: "2026-10-31T23:40:00-04:00"
 authors: [christina-gerland]

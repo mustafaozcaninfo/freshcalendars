@@ -1,7 +1,6 @@
 ---
-title: "NHL Games Today: Sunday, Nov. 1, 2026 Schedule, 5 Games, Times and TV After the Clock Change"
-seoTitle: "NHL Games Today, Nov. 1, 2026: 5 Games and TV"
-description: "National Hockey League (NHL) games today, Sun., Nov. 1, 2026: 5 games from 1:00 to 8:00 p.m. Eastern Time (ET), with arenas, time zones and TV."
+title: "NHL Games Today, Nov. 1, 2026: 5 Games, 1:00 to 8:00 p.m. ET"
+description: "NHL games today, Sunday, Nov. 1, 2026: 5 games from 1:00 to 8:00 p.m. ET. Time-zone table for every game, Canadian TV channels, printable score sheet."
 type: news
 publishedAt: "2026-10-30T01:58:00-04:00"
 authors: [jessica-hartwell]

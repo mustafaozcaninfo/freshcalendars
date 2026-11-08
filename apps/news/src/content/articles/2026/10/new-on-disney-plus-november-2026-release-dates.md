@@ -1,7 +1,6 @@
 ---
-title: "New on Disney+ November 2026: Percy Jackson Season 3 Premieres Nov. 20, With Every Date by Week"
-seoTitle: "New on Disney+ November 2026: Release Dates"
-description: "Disney+ Press lists Percy Jackson and the Olympians season 3 for Fri., Nov. 20, 2026, plus a Nov. 4 start for the month. See every Disney+ date by week."
+title: "New on Disney+ November 2026: Percy Jackson Season 3 on Nov. 20"
+description: "Disney+ Press lists Percy Jackson and the Olympians season 3 for Fri., Nov. 20, 2026, with a two-episode premiere. First titles arrived Nov. 4."
 type: news
 publishedAt: "2026-10-25T23:18:00-04:00"
 authors: [jessica-hartwell]

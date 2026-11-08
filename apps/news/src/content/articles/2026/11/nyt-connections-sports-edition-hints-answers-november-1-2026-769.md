@@ -1,6 +1,5 @@
 ---
-title: "NYT Connections: Sports Edition Hints and Answers for Sunday, Nov. 1, 2026 (#769)"
-seoTitle: "Connections Sports Edition Hints Today, Nov. 1 (#769)"
+title: "Connections Sports Edition #769 Answers, November 1, 2026"
 description: "Connections: Sports Edition #769 for Sunday, Nov. 1, 2026, from The Athletic and New York Times (NYT) Games: a hint for each group, then answers and traps."
 type: explainer
 publishedAt: "2026-11-01T10:20:00-05:00"

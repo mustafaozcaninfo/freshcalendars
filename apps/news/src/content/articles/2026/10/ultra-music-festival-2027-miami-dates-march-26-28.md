@@ -1,7 +1,6 @@
 ---
-title: "Ultra Music Festival 2027: March 26-28 at Bayfront Park, Easter Weekend, and the First Lineup Names"
-seoTitle: "Ultra Music Festival 2027 Dates: March 26-28"
-description: "Ultra Music Festival 2027 is March 26-28 at Bayfront Park in Miami, over Easter weekend. Tickets are on sale for the 21-and-over event; Phase 1 is out."
+title: "Ultra Music Festival 2027: March 26-28 at Bayfront Park, Miami"
+description: "Ultra Music Festival 2027 is March 26-28 at Bayfront Park in Miami, over Easter weekend. Tickets are on sale for ages 21 and over; Phase 1 lineup is out."
 type: news
 publishedAt: "2026-10-19T11:36:00-04:00"
 authors: [jessica-hartwell]

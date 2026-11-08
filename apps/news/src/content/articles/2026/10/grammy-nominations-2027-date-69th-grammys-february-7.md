@@ -1,7 +1,6 @@
 ---
 title: "Grammy Nominations 2027: Announced Nov. 16, Ceremony Feb. 7"
-seoTitle: "Grammy Nominations 2027: Nov. 16 and Feb. 7 Dates"
-description: "The Recording Academy lists Grammy nominations 2027 for Monday, Nov. 16, 2026, and the 69th Annual Grammy Awards for Sunday, Feb. 7, 2027. See the timeline."
+description: "Grammy nominations 2027 are announced Monday, Nov. 16, 2026; the 69th Grammys are Feb. 7, 2027 on ABC. Timeline from eligibility window to Grammy night."
 type: news
 publishedAt: "2026-10-25T17:05:00-04:00"
 updatedAt: "2026-11-01T02:42:00-05:00"

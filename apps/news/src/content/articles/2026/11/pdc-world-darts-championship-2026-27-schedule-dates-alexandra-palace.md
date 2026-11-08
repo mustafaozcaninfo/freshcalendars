@@ -1,7 +1,6 @@
 ---
-title: "PDC World Darts Championship 2026-27: Dec. 11 to Jan. 3 Dates, Alexandra Palace, US Times"
-seoTitle: "PDC World Darts Championship 2026-27 Dates"
-description: "The Professional Darts Corporation (PDC) World Darts Championship runs Dec. 11, 2026 to Jan. 3, 2027 at Alexandra Palace, London. Times not yet announced."
+title: "PDC World Darts Championship 2026-27: Ally Pally Dec. 11-Jan. 3"
+description: "The Professional Darts Corporation (PDC) World Darts Championship is Dec. 11 to Jan. 3 at Ally Pally. Day-by-day calendar and a US time converter."
 type: news
 publishedAt: "2026-11-02T11:55:00-05:00"
 authors: [jessica-hartwell]

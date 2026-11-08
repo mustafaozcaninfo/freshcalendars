@@ -1,7 +1,6 @@
 ---
-title: "KFC Christmas Menu 2026: Gravymas Burger From 9 November to 3 January"
-seoTitle: "KFC Christmas Menu 2026: Gravymas Burger, Prices"
-description: "Kentucky Fried Chicken (KFC) runs its 2026 Christmas menu from 9 November to 3 January, Britbrief and Foodbible report; the Gravymas Burger is £7.99."
+title: "KFC Christmas Menu 2026: Gravymas Burger £7.99, From 9 November"
+description: "Kentucky Fried Chicken (KFC) Christmas menu 2026 starts 9 November, to 3 January, per Britbrief and Foodbible. Gravymas Burger £7.99; five prices."
 type: news
 publishedAt: "2026-11-04T14:55:00-05:00"
 updatedAt: "2026-11-04T14:55:00-05:00"

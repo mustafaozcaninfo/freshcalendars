@@ -1,6 +1,6 @@
 ---
 title: "Contexto #1514 Hints & Answer Today, November 10, 2026"
-description: "Contexto #1514 for Tuesday, Nov. 10, 2026: three hints, the game's 30 closest words in four groups, a rank-band table, two guesses that miss, then the answer."
+description: "Contexto #1514 answer and hints for Tuesday, Nov. 10, 2026: three hints, the 30 closest words in four groups, a rank-band table and two guesses that miss."
 type: explainer
 publishedAt: "2026-11-09T00:05:00-05:00"
 authors: [news-desk]

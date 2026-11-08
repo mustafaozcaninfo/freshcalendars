@@ -1,7 +1,6 @@
 ---
-title: "MCAT 2027 Test Dates: Registration Is Open, All 35 Exam Days and Every Score Release"
-seoTitle: "MCAT 2027 Test Dates and Open Registration"
-description: "Medical College Admission Test (MCAT) 2027 registration is now open for all groups. All 35 test dates, Jan. 15 to Sept. 11, 2027, plus fees and score releases."
+title: "MCAT 2027 Test Dates: 35 Exam Days, Jan. 15 to Sept. 11"
+description: "Medical College Admission Test (MCAT) 2027 test dates: registration is open for all groups. All 35 days, Jan. 15 to Sept. 11, plus fees and score releases."
 type: news
 publishedAt: "2026-10-19T11:24:00-04:00"
 updatedAt: "2026-11-02T14:10:00-05:00"

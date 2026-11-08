@@ -1,7 +1,6 @@
 ---
-title: "Zoo Lights 2026 Dates: National Zoo, Bronx, Lincoln Park, L.A., Denver, Houston and More"
-seoTitle: "Zoo Lights 2026 Dates: 12 Shows, Closed Nights, Prices"
-description: "Atlanta Botanical Garden's Garden Lights opens Sat., Nov. 14, 2026, and most zoo light shows start Nov. 19-21 and run to Jan. 3, 2027, per each site."
+title: "Zoo Lights 2026 Dates: 12 Shows, Nov. 14 to Jan. 3, Closed Nights"
+description: "Zoo lights 2026 start Nov. 14 at Atlanta Botanical Garden; most zoo shows open Nov. 19-21 and run to Jan. 3, 2027. Closed nights and prices for 12 shows."
 type: news
 publishedAt: "2026-10-31T19:45:00-04:00"
 authors: [christina-gerland]

@@ -1,7 +1,6 @@
 ---
-title: "College Football Rivalry Week 2026: Iron Bowl, The Game and Egg Bowl Times and TV"
-seoTitle: "Rivalry Week 2026: Iron Bowl, The Game, Egg Bowl"
-description: "Rivalry Week 2026 runs Nov. 26-28: Michigan at Ohio State at noon Eastern Time (ET) on FOX, the Egg Bowl Friday, and Iron Bowl time still to be set."
+title: "College Football Rivalry Week 2026: Egg Bowl Nov. 27, Game Nov. 28"
+description: "College football Rivalry Week 2026 is Nov. 26-28: Michigan at Ohio State at noon ET on FOX, the Egg Bowl Friday. Iron Bowl time not yet set. Viewing sheet."
 type: news
 publishedAt: "2026-11-01T01:30:00-05:00"
 authors: [jessica-hartwell]

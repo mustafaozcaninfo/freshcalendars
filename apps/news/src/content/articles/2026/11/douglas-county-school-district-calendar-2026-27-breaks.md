@@ -1,7 +1,6 @@
 ---
-title: "Douglas County School District Calendar 2026-27: Spring Break March 15-19, Last Day May 27"
-seoTitle: "Douglas County (CO) Schools Calendar 2026-27"
-description: "Douglas County School District (DCSD) in Colorado has Thanksgiving break Nov. 23-27, 2026, winter break Dec. 21-31 and spring break March 15-19, 2027."
+title: "Douglas County (Colo.) Schools Calendar 2026-27: Last Day May 27"
+description: "Douglas County School District (DCSD) in Colorado has winter break Dec. 21-31 and spring break March 15-19, 2027. Counts 30 student days off by label."
 type: news
 publishedAt: "2026-11-05T06:30:00-05:00"
 authors: [aaron-kessler]

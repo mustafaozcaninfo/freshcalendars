@@ -1,6 +1,5 @@
 ---
-title: "Blossom Word Game Answers and Hints for Wednesday, Oct. 21, 2026: Today's Letters and Both Pangrams"
-seoTitle: "Blossom Word Game Answers Today, Oct. 21, 2026"
+title: "Blossom Hints & Answers Today, October 21, 2026"
 description: "Blossom for Wednesday, Oct. 21, 2026: today's center letter and petals, how scoring works, words to try, then both pangrams in a marked spoiler section."
 type: explainer
 publishedAt: "2026-10-21T01:22:00-04:00"

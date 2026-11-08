@@ -1,7 +1,6 @@
 ---
-title: "Advent Calendar 2026: When to Start, Key Dates, Which Brand Calendars Are Confirmed and 4 Free Printables"
-seoTitle: "Advent Calendar 2026: Dates and Free Printables"
-description: "Advent 2026 begins Sunday, Nov. 29; advent calendars run Dec. 1 to 24. Key dates, which 2026 brand calendars are confirmed, and four free printables."
+title: "Advent Calendar 2026: Door 1 on Dec. 1, Advent Starts Nov. 29"
+description: "Advent 2026 begins Sunday, Nov. 29, and advent calendars run Dec. 1 to 24. Four free printables and which 2026 brand calendars are confirmed."
 type: explainer
 publishedAt: "2026-10-19T08:05:00-04:00"
 updatedAt: "2026-11-04T11:25:00-05:00"

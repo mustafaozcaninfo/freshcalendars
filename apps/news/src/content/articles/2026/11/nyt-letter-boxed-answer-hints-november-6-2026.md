@@ -1,7 +1,6 @@
 ---
-title: "NYT Letter Boxed Hints and Answer for Friday, Nov. 6, 2026: Stubborn V and K, 29 Two-Word Fits"
-seoTitle: "NYT Letter Boxed Nov. 6, 2026: Hints, V and K, Answer"
-description: "Letter Boxed from The New York Times (NYT) for Friday, Nov. 6, 2026, par 4: the letter pairs that never meet, 29 two-word fits, five hints, then the answer."
+title: "Letter Boxed Hints & Answer Today, November 6, 2026"
+description: "Letter Boxed from The New York Times (NYT) for Friday, Nov. 6, 2026, par 4: pairs that never meet, 29 two-word fits, five hints, then the answer."
 type: explainer
 publishedAt: "2026-11-05T00:05:00-05:00"
 updatedAt: "2026-11-05T00:51:00-05:00"

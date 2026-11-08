@@ -1,6 +1,5 @@
 ---
-title: "NYT Mini Crossword Answers and Hints for Thursday, Oct. 29, 2026: Three Rhyming Clues and an Acronym"
-seoTitle: "NYT Mini Crossword Answers Today, Oct. 29, 2026"
+title: "NYT Mini Crossword Answers Today, October 29, 2026"
 description: "The New York Times Mini Crossword for Oct. 29, 2026: a hint for each of the 10 clues on a five-by-five grid, then every Across and Down answer at the end."
 type: explainer
 publishedAt: "2026-10-28T22:26:00-04:00"

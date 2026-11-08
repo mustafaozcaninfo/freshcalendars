@@ -1,7 +1,6 @@
 ---
-title: "Santa Claus Parades 2026 in Canada: Hamilton Nov. 14, Mississauga Nov. 21 and More Cities"
-seoTitle: "Santa Claus Parades 2026 Canada: Hamilton, Mississauga"
-description: "Hamilton's Santa Claus Parade is Saturday, Nov. 14, 2026 at 2 p.m.; Mississauga's is Saturday, Nov. 21 at 6 p.m., say the organizer and the City of Mississauga."
+title: "Santa Claus Parades in Canada 2026: Hamilton Nov. 14, Halifax Nov. 21"
+description: "Santa Claus parades in Canada 2026: Hamilton Nov. 14 at 2 p.m., Mississauga Nov. 21 at 6 p.m. A table by city with start points and a printable list."
 type: news
 publishedAt: "2026-11-04T13:57:00-05:00"
 updatedAt: "2026-11-06T15:29:00-05:00"

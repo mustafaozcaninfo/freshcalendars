@@ -1,7 +1,6 @@
 ---
-title: "NYT Strands Answers October 2026: Every Spangram From #942 to #972"
-seoTitle: "Strands Answers October 2026: All 31 Spangrams"
-description: "The New York Times (NYT) Strands answers for October 2026: all 31 spangrams, #942 (Thu., Oct. 1) to #972 (Sat., Oct. 31), with every theme word."
+title: "Strands Answers October 2026: All 31 Spangrams, #942-#972"
+description: "Strands answers for October 2026: all 31 spangrams from #942 (Thu., Oct. 1) to #972 (Sat., Oct. 31), every theme word and a printable list."
 type: explainer
 publishedAt: "2026-10-31T00:20:00-04:00"
 authors: [news-desk]

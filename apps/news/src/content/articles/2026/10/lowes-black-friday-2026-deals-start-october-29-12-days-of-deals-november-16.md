@@ -1,7 +1,6 @@
 ---
-title: "Lowe's Black Friday 2026: Deals Start Oct. 29, 12 Days of Deals Begin Nov. 16, Stores Closed on Thanksgiving"
-seoTitle: "Lowe's Black Friday 2026: Deals Start Oct. 29"
-description: "Lowe's Black Friday deals began Thursday, Oct. 29, 2026. 12 Days of Deals begin Nov. 16, Doorbusters hit Nov. 27 and stores close on Thanksgiving Day."
+title: "Lowe's Black Friday 2026: Deals Began Oct. 29, 12 Days Start Nov. 16"
+description: "Lowe's Black Friday 2026 deals began Oct. 29, and 12 Days of Deals start Nov. 16. Stores close Thanksgiving; a printable calendar lists every phase."
 type: news
 publishedAt: "2026-10-29T05:40:00-04:00"
 updatedAt: "2026-11-02T14:10:00-05:00"

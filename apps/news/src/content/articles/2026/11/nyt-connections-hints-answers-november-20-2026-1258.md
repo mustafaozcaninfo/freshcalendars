@@ -1,6 +1,6 @@
 ---
 title: "Connections #1258 Hints & Answers Today, November 20, 2026"
-description: "Connections #1258 for Friday, Nov. 20, 2026 from The New York Times (NYT): two hints per color, then the answers, entry-by-entry traps and a map of the grid."
+description: "Connections #1258 hints and answers for Friday, Nov. 20, 2026 from The New York Times (NYT): two hints per color, entry-by-entry traps and a grid map."
 type: explainer
 publishedAt: "2026-11-19T00:05:00-05:00"
 updatedAt: "2026-11-19T00:05:00-05:00"

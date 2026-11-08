@@ -1,6 +1,5 @@
 ---
-title: "Blossom Word Game Answers and Hints for Friday, Oct. 30, 2026: Today's Letters, Words to Try and Pangrams"
-seoTitle: "Blossom Answers Today, Oct. 30, 2026: Pangrams"
+title: "Blossom Hints & Answers Today, October 30, 2026"
 description: "Blossom for Friday, Oct. 30, 2026: today's center letter P and six petals, words to try, hints for the six everyday pangrams, then the answers at the end."
 type: explainer
 publishedAt: "2026-10-30T07:55:00-04:00"

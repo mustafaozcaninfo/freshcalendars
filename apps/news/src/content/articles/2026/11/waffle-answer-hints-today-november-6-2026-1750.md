@@ -1,6 +1,5 @@
 ---
-title: "Waffle Answer and Hints Today, #1750 for Friday, Nov. 6, 2026: Six Meanings, a Swap Count"
-seoTitle: "Waffle Answer & Hints Today, #1750 (Nov. 6, 2026)"
+title: "Waffle #1750 Hints & Answers Today, November 6, 2026"
 description: "Waffle #1750 for Friday, Nov. 6, 2026: a meaning for each of the six words, a count of the swaps that fix two tiles, then the answers and a 10-swap route."
 type: explainer
 publishedAt: "2026-11-06T07:45:00-05:00"

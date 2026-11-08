@@ -1,6 +1,5 @@
 ---
-title: "Waffle Answer and Hints Today, #1745 for Sunday, Nov. 1, 2026: Clues for Six Words"
-seoTitle: "Waffle Answer & Hints Today, #1745 (Nov. 1, 2026)"
+title: "Waffle #1745 Hints & Answers Today, November 1, 2026"
 description: "Waffle #1745 for Sunday, Nov. 1, 2026: a clue for each of the six words, then the answers in a marked spoiler section, with the starting and solved grids."
 type: explainer
 publishedAt: "2026-11-01T07:21:00-05:00"

@@ -1,7 +1,6 @@
 ---
-title: "Orionid Meteor Shower 2026 Stays Active Through Nov. 7 After Its Oct. 22 Peak"
-seoTitle: "Orionids 2026 Active Through Nov. 7 After Oct. 22 Peak"
-description: "The Orionid meteor shower peaked Oct. 21-22 but stays active through Nov. 7, 2026. Watch after moonset before dawn; the Taurids and Leonids follow in November."
+title: "Orionid Meteor Shower 2026: Peaked Oct. 21-22, Active to Nov. 7"
+description: "The Orionid meteor shower 2026 peaked Oct. 21-22 and was active through Nov. 7. Best viewing was after moonset until dawn, with times by U.S. city."
 type: news
 publishedAt: "2026-10-18T04:10:00-04:00"
 updatedAt: "2026-11-02T14:10:00-05:00"

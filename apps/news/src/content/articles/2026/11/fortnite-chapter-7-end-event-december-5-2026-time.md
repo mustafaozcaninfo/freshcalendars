@@ -1,7 +1,6 @@
 ---
-title: "Fortnite Chapter 7 End Event: Saturday, Dec. 5, 2026, Start Time Not Yet Announced"
-seoTitle: "Fortnite Chapter 7 End Event: Dec. 5, 2026"
-description: "Epic Games says Fortnite's Chapter 7 end event lands Saturday, Dec. 5, 2026, but has not announced a start time. Treasure Hunters dates in Eastern Time (ET)."
+title: "Fortnite Chapter 7 End Event: Dec. 5, 2026, Time Not Announced"
+description: "Fortnite's Chapter 7 end event is Saturday, Dec. 5, 2026; Epic Games has not announced a start time. See Treasure Hunters dates and a printable list."
 type: news
 publishedAt: "2026-11-06T13:49:00-05:00"
 authors: [jessica-hartwell]

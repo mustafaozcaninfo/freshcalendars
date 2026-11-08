@@ -1,6 +1,5 @@
 ---
-title: "NYT Connections: Sports Edition Hints and Answers for Sunday, Oct. 25, 2026 (#762), Plus Saturday's Groups"
-seoTitle: "Connections Sports Edition Hints Today, Oct. 25 (#762)"
+title: "Connections Sports Edition #762 Answers, October 25, 2026"
 description: "Connections: Sports Edition #762 for Sunday, Oct. 25, 2026: two hints for each group, the full answers and why the traps work, plus Saturday's #761."
 type: explainer
 publishedAt: "2026-10-24T16:30:00-04:00"

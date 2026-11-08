@@ -1,7 +1,6 @@
 ---
-title: "International Volunteer Day 2026: Saturday, Dec. 5, in the UN Year of Volunteers"
-seoTitle: "International Volunteer Day 2026: Sat., Dec. 5"
-description: "International Volunteer Day (IVD) is Saturday, Dec. 5, 2026, a United Nations (UN) observance. U.S. volunteer figures, IRS tax rules and a free sheet."
+title: "International Volunteer Day 2026: Saturday, Dec. 5, Free Sheet"
+description: "International Volunteer Day is Saturday, Dec. 5, 2026. See U.S. volunteer numbers, Internal Revenue Service rules on volunteer expenses and a free sheet."
 type: explainer
 publishedAt: "2026-11-04T07:50:00-05:00"
 updatedAt: "2026-11-04T07:50:00-05:00"

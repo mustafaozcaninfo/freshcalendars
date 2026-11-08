@@ -1,7 +1,6 @@
 ---
-title: "NYT Midi Crossword Answers and Hints for Wednesday, Nov. 4, 2026: Seize the Moment"
-seoTitle: "NYT Midi Crossword Answers Today, Nov. 4, 2026"
-description: "The New York Times (NYT) Midi Crossword for Wednesday, Nov. 4, 2026: a hint for each of the 42 clues on Kareem Ayas's grid, Seize the Moment, then the answers."
+title: "NYT Midi Crossword Answers Today, November 4, 2026"
+description: "The New York Times (NYT) Midi Crossword for Wednesday, Nov. 4, 2026: a hint for each of the 42 clues on Kareem Ayas's grid, then the answers."
 type: explainer
 publishedAt: "2026-11-03T22:40:00-05:00"
 authors: [news-desk]

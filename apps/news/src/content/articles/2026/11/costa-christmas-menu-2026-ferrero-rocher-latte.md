@@ -1,7 +1,6 @@
 ---
-title: "Costa Christmas Menu 2026: Golden Hazel Latte With Ferrero Rocher and Festive Food"
-seoTitle: "Costa Christmas Menu 2026: Golden Hazel Latte, Food"
-description: "Costa Coffee's Christmas menu launched 22 October 2026 in the United Kingdom (UK) and Ireland, with a Golden Hazel Latte served with a Ferrero Rocher."
+title: "Costa Christmas Menu 2026: Golden Hazel Latte With Ferrero Rocher"
+description: "Costa Christmas menu 2026 launched 22 October in the UK and Ireland. A table lists every new and returning drink and bake, plus a printable menu card."
 type: news
 publishedAt: "2026-11-04T14:56:00-05:00"
 updatedAt: "2026-11-04T14:56:00-05:00"

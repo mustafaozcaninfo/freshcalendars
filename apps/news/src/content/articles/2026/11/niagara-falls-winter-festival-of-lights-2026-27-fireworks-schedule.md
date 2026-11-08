@@ -1,7 +1,6 @@
 ---
-title: "Niagara Falls Winter Festival of Lights 2026-27: Dates and Every Fireworks Night"
-seoTitle: "Winter Festival of Lights 2026: Niagara Falls Fireworks"
-description: "Niagara Falls Tourism lists 5-minute fireworks at 8 p.m. Eastern Time (ET) on 27 nights of the Winter Festival of Lights, Nov. 14, 2026 to Jan. 9, 2027."
+title: "Niagara Winter Festival of Lights 2026-27: 27 Fireworks Nights"
+description: "The Niagara Falls Winter Festival of Lights runs Nov. 14, 2026 to Jan. 10, 2027, with 5-minute fireworks at 8 p.m. on 27 nights. Table and printable."
 type: explainer
 publishedAt: "2026-11-05T13:09:00-05:00"
 authors: [christina-gerland]

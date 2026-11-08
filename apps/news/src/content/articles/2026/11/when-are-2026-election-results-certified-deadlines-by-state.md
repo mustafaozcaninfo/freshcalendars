@@ -1,7 +1,6 @@
 ---
-title: "When Are 2026 Election Results Certified? Deadlines by State"
-seoTitle: "When Are 2026 Election Results Certified? By State"
-description: "When 12 states certify 2026 election results: county canvasses begin Nov. 6, and state deadlines run from Nov. 19 in Minnesota to Dec. 10 in Oregon."
+title: "When Are 2026 Election Results Certified? Nov. 19 to Dec. 10"
+description: "2026 election results are certified from Nov. 19 in Minnesota to Dec. 10 in Oregon. County canvasses begin Nov. 6; a table gives the dates for 12 states."
 type: explainer
 publishedAt: "2026-11-02T07:09:00-05:00"
 updatedAt: "2026-11-03T21:29:00-05:00"

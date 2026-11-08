@@ -1,7 +1,6 @@
 ---
-title: "SNL Hosts November 2026: Inde Navarrette on Halloween, Then Druski and John Mulaney"
-seoTitle: "SNL Hosts November 2026: Navarrette, Druski, Mulaney"
-description: "Druski hosts Saturday Night Live (SNL) on Nov. 7, 2026 with The Strokes, then John Mulaney on Nov. 14; see every season 52 host and a free printable."
+title: "SNL Hosts November 2026: Druski Nov. 7, John Mulaney Nov. 14"
+description: "Saturday Night Live (SNL) hosts for November 2026: Druski on Nov. 7 with The Strokes, John Mulaney on Nov. 14. Every season 52 host and a free printable."
 type: news
 publishedAt: "2026-10-29T10:08:00-04:00"
 updatedAt: "2026-11-01T02:42:00-05:00"

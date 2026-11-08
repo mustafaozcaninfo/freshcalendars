@@ -1,7 +1,6 @@
 ---
-title: "How Many Weeks Are in a Year? 52 Weeks Plus 1 or 2 Days, and When 53 Appear"
-seoTitle: "How Many Weeks Are in a Year? 52 or 53 Explained"
-description: "A common year is 52 weeks plus 1 day and a leap year 52 weeks plus 2 days. See which years from 2024 to 2040 reach 53 numbered weeks, with a table."
+title: "How Many Weeks Are in a Year? 52, Plus 1 or 2 Days"
+description: "A year is 52 weeks plus 1 day, or plus 2 days in a leap year. A table for 2024 to 2040 shows which years reach 53 numbered weeks, 2026 and 2032 among them."
 type: explainer
 publishedAt: "2026-10-30T08:21:00-04:00"
 authors: [jessica-hartwell]

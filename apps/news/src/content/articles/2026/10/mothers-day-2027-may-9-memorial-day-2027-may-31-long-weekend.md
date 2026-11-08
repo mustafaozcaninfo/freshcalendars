@@ -1,7 +1,6 @@
 ---
-title: "Mother's Day 2027 Is May 9 and Memorial Day Is May 31: May 2027 Holiday Calendar"
-seoTitle: "Mother's Day 2027 May 9, Memorial Day May 31"
-description: "Mother's Day 2027 is Sunday, May 9 under 36 U.S.C. 117, and Memorial Day is Monday, May 31 under 5 U.S.C. 6103. See the May 2027 calendar and long weekend."
+title: "Mother's Day 2027: May 9, With Memorial Day on May 31"
+description: "Mother's Day 2027 is Sunday, May 9, and Memorial Day is Monday, May 31. See the May 2027 holiday calendar, the long weekend and dates through 2031."
 type: explainer
 publishedAt: "2026-10-31T02:55:16-04:00"
 authors: [christina-gerland]

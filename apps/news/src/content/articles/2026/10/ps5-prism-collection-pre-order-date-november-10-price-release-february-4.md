@@ -1,7 +1,6 @@
 ---
-title: "PS5 Prism Collection Pre-Orders Start Nov. 10 at 10 a.m. ET; Launch Feb. 4"
-seoTitle: "PS5 Prism Collection Pre-Order: Nov. 10, Price"
-description: "PlayStation 5 (PS5) Prism Collection pre-orders open Nov. 10, 2026 at 10 a.m. Eastern Time (ET). See prices, time zones and the Feb. 4, 2027 launch."
+title: "PS5 Prism Collection Pre-Order: Nov. 10 at 10 a.m. ET, Prices"
+description: "PS5 Prism Collection pre-orders open Tue., Nov. 10, 2026 at 10 a.m. ET (7 a.m. PT). Prices, start times by time zone and the Feb. 4, 2027 launch."
 type: news
 publishedAt: "2026-10-30T05:45:00-04:00"
 updatedAt: "2026-11-02T14:10:00-05:00"

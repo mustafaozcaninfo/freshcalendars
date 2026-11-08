@@ -1,7 +1,6 @@
 ---
-title: "WTA Finals 2026 at Indian Wells: Dates, Qualified Players and Match Times by Time Zone"
-seoTitle: "WTA Finals 2026 Dates, Qualified Players and Time Zones"
-description: "The Women's Tennis Association (WTA) Finals run Nov. 8-15, 2026 at Indian Wells. The eight singles players are in two groups, and Rybakina meets Noskova."
+title: "WTA Finals 2026: Nov. 8-15 at Indian Wells, Groups and Opener"
+description: "The 2026 Women's Tennis Association (WTA) Finals run Nov. 8-15 at Indian Wells; Rybakina meets Noskova first. Both groups and the Pacific Time gap to ET."
 type: news
 publishedAt: "2026-10-27T15:43:00-04:00"
 updatedAt: "2026-11-04T13:21:00-05:00"

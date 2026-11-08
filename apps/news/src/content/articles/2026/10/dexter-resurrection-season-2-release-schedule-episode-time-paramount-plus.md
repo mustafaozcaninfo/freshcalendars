@@ -1,7 +1,6 @@
 ---
-title: "Dexter: Resurrection Season 2 Release Schedule and Episode Times on Paramount+"
-seoTitle: "Dexter Resurrection Season 2 Release Schedule"
-description: "Dexter: Resurrection Season 2 premiered Oct. 30, 2026 on Paramount+ Premium and runs weekly. Episode 2 airs Fri., Nov. 6; reported 3:01 a.m. Eastern Time (ET)."
+title: "Dexter: Resurrection Season 2 Schedule: Episodes Through Jan. 1"
+description: "Dexter: Resurrection Season 2 premiered Oct. 30, 2026 on Paramount+ and drops weekly on Fridays. TheWrap reports 10 episodes through Jan. 1, 2027."
 type: news
 publishedAt: "2026-10-30T03:42:00-04:00"
 updatedAt: "2026-11-01T02:42:00-05:00"

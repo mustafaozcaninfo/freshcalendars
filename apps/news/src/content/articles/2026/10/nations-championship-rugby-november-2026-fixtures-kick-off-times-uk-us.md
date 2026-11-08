@@ -1,7 +1,6 @@
 ---
-title: "Nations Championship November 2026 Fixtures: Kick-Off Times in UK, ET and PT, Finals at Twickenham"
-seoTitle: "Nations Championship Nov. 2026 Fixtures and Kick-Off Times"
-description: "The Nations Championship runs Nov. 6-29, 2026, with England v New Zealand on Nov. 21 at 2:10pm Greenwich Mean Time (GMT), 9:10 a.m. Eastern Time (ET)."
+title: "Nations Championship November 2026: Kick-Off Times in UK and ET"
+description: "The Nations Championship November series runs Nov. 6-29, 2026, with England v New Zealand on Nov. 21 at 2:10pm London time, 9:10 a.m. ET. Finals dates."
 type: news
 publishedAt: "2026-10-28T00:02:00-04:00"
 updatedAt: "2026-11-07T03:24:00-05:00"

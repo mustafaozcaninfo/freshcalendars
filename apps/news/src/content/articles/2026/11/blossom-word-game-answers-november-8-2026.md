@@ -1,6 +1,5 @@
 ---
-title: "Blossom Word Game Answers and Hints for Sunday, Nov. 8, 2026: Letters and Pangrams"
-seoTitle: "Blossom Answers Today, Nov. 8, 2026: Pangrams"
+title: "Blossom Hints & Answers Today, November 8, 2026"
 description: "Blossom for Sunday, Nov. 8, 2026 from Merriam-Webster: center letter T, six petals, two pangrams one letter apart and 20 long words, with answers last."
 type: explainer
 publishedAt: "2026-11-08T07:23:00-05:00"

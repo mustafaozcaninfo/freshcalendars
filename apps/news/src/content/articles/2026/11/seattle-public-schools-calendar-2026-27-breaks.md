@@ -1,7 +1,6 @@
 ---
-title: "Seattle Public Schools Calendar 2026-27: Mid-Winter Break, Spring Break, June 21 Last Day"
-seoTitle: "Seattle Public Schools Calendar 2026-27 Breaks"
-description: "Seattle Public Schools (SPS) 2026-27: no school Nov. 26-27, Dec. 21-Jan. 1, Feb. 15-19 and April 12-16, 2027. The last day of school is Mon., June 21, 2027."
+title: "Seattle Public Schools Calendar 2026-27: Last Day June 21"
+description: "Seattle Public Schools (SPS) calendar 2026-27: no school Nov. 26-27, Dec. 21-Jan. 1, Feb. 15-19, April 12-16. Last day June 21, with 180 student days."
 type: explainer
 publishedAt: "2026-11-04T06:00:00-05:00"
 authors: [aaron-kessler]

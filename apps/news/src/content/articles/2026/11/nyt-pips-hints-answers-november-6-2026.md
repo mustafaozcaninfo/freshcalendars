@@ -1,6 +1,5 @@
 ---
-title: "NYT Pips Hints and Answers for Friday, Nov. 6, 2026: Easy, Medium and Hard"
-seoTitle: "Pips Hints & Answers, Nov. 6, 2026: Easy, Medium, Hard"
+title: "NYT Pips Hints & Answers Today, November 6, 2026"
 description: "Pips for Friday, Nov. 6, 2026: why the Easy board's top-right cell can only be a 5, two hints per level, then every Easy, Medium and Hard placement."
 type: explainer
 publishedAt: "2026-11-05T00:05:00-05:00"

@@ -1,7 +1,6 @@
 ---
-title: "Thanksgiving Trash Pickup 2026: Holiday Schedule Changes in 20 U.S. Cities"
-seoTitle: "Thanksgiving Trash Pickup 2026: Schedules by City"
-description: "Phoenix, Houston, San Diego, Philadelphia and Charlotte skip trash pickup on Thu., Nov. 26, 2026; the city-by-city table shows where each makeup day goes."
+title: "Thanksgiving Trash Pickup 2026: Schedules for 20 U.S. Cities"
+description: "Thanksgiving trash pickup 2026: Phoenix, Houston, San Diego, Philadelphia and Charlotte skip Thu., Nov. 26. The table shows each city's makeup day."
 type: explainer
 publishedAt: "2026-11-03T18:38:00-05:00"
 updatedAt: "2026-11-06T00:39:00-05:00"

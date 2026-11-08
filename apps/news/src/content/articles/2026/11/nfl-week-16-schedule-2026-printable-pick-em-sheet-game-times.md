@@ -1,7 +1,6 @@
 ---
-title: "NFL Week 16 Schedule 2026: Christmas Day Tripleheader, Saturday Games and a Pick'em Sheet"
-seoTitle: "NFL Week 16 Schedule 2026: Christmas Games, Pick'em"
-description: "National Football League (NFL) Week 16 has 16 games, no byes and three on Christmas Day, with Eastern Time (ET) kickoffs and a printable pick'em sheet."
+title: "NFL Week 16 Schedule 2026: Christmas Day Games and Times"
+description: "NFL Week 16 schedule 2026: three games on Christmas Day, Dec. 25, with ET kickoffs. Four games have no date yet; the free pick'em sheet leaves lines blank."
 type: news
 publishedAt: "2026-11-02T11:50:00-05:00"
 authors: [jessica-hartwell]

@@ -1,7 +1,6 @@
 ---
-title: "Medicare Part D 2027: $700 Deductible, $2,400 Out-of-Pocket Cap and the Dec. 7 Deadline"
-seoTitle: "Medicare Part D 2027: $700 Deductible, $2,400 Cap"
-description: "The Centers for Medicare & Medicaid Services (CMS) sets the 2027 Part D deductible at $700 and the out-of-pocket cap at $2,400, up from $615 and $2,100."
+title: "Medicare Part D 2027: $700 Deductible and $2,400 Out-of-Pocket Cap"
+description: "Medicare Part D 2027 deductible is $700 and the out-of-pocket cap is $2,400, up from $615 and $2,100. See the base premium and a worked cap example."
 type: news
 publishedAt: "2026-11-04T14:44:00-05:00"
 updatedAt: "2026-11-04T14:44:00-05:00"

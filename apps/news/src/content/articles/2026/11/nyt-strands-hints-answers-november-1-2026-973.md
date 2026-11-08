@@ -1,6 +1,5 @@
 ---
-title: "NYT Strands Hints and Answers for Sunday, Nov. 1, 2026 (#973): Hints for the Spangram and Seven Theme Words"
-seoTitle: "Strands Hints Today, Nov. 1, 2026 (#973): Spangram"
+title: "Strands #973 Hints & Answers Today, November 1, 2026"
 description: "Strands #973 for Sunday, Nov. 1, 2026: hints for the spangram and each of the seven theme words, then all the answers in a spoiler section at the end."
 type: explainer
 publishedAt: "2026-10-31T00:05:00-04:00"

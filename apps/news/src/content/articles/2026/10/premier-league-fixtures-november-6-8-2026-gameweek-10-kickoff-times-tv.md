@@ -1,7 +1,6 @@
 ---
-title: "Premier League Fixtures Nov. 6-8, 2026: Gameweek 10 Kick-Off Times and TV in the UK and US"
-seoTitle: "Premier League Fixtures Nov. 6-8: Gameweek 10 Times"
-description: "Gameweek 10 starts Fri., Nov. 6, 2026 with Everton v Coventry City at 8pm Greenwich Mean Time (GMT), 3 p.m. Eastern Time (ET), on Sky Sports, per the league."
+title: "Premier League Week 10 Fixtures 2026: Nov. 6-8 Times and TV"
+description: "Premier League Gameweek 10 runs Nov. 6-8, 2026, opening with Everton v Coventry City at 8pm UK time, 3 p.m. ET. Every kick-off in UK and US time, with TV."
 type: news
 publishedAt: "2026-10-31T15:48:00-04:00"
 authors: [jessica-hartwell]

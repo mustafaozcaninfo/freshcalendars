@@ -1,7 +1,6 @@
 ---
-title: "Osceola County Schools Calendar 2026-27: Winter Break, Spring Break and Rodeo Day"
-seoTitle: "Osceola County Schools Calendar 2026-27 Breaks"
-description: "The School District of Osceola County (Fla.) 2026-27: no school Nov. 23-27, Dec. 21-Jan. 1 and Mar. 15-19, plus Rodeo Day Feb. 19. Last day is May 26."
+title: "Osceola County Schools Calendar 2026-27: Winter Break Dec. 21-Jan. 1"
+description: "The School District of Osceola County (Fla.) calendar 2026-27: no school Nov. 23-27, Dec. 21-Jan. 1 and Mar. 15-19, plus Rodeo Day Feb. 19."
 type: explainer
 publishedAt: "2026-11-04T14:55:00-05:00"
 authors: [aaron-kessler]

@@ -1,7 +1,6 @@
 ---
-title: "Past Wordle Answers: Every Word Since 2021, by Date and A to Z"
-seoTitle: "Past Wordle Answers: Full List Since 2021"
-description: "The New York Times (NYT) Wordle answers from #0 to #1959: 1,960 puzzles since June 19, 2021, 1,931 different words and 29 repeats, by date and A to Z."
+title: "Past Wordle Answers: 1,960 Puzzles, #0 to #1959"
+description: "Past Wordle answers from #0 (June 19, 2021) to #1959: 1,960 puzzles, 1,931 different words and 29 repeats, listed by date and from A to Z."
 type: analysis
 publishedAt: "2026-10-31T04:41:00-04:00"
 authors: [news-desk]

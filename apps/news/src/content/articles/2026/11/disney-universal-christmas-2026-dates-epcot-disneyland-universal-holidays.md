@@ -1,7 +1,6 @@
 ---
-title: "EPCOT Festival of the Holidays 2026 Dates, Plus Disneyland and Universal Orlando Holidays"
-seoTitle: "EPCOT Festival of the Holidays 2026 Dates"
-description: "Experimental Prototype Community of Tomorrow (EPCOT) holds its Festival of the Holidays Nov. 27 to Dec. 30, 2026; Disneyland begins Nov. 13, Universal Nov. 14."
+title: "EPCOT Festival of the Holidays 2026: Nov. 27 to Dec. 30, 34 Days"
+description: "Experimental Prototype Community of Tomorrow (EPCOT) holds its Festival of the Holidays Nov. 27 to Dec. 30, 2026. Table of Disneyland and Universal dates."
 type: news
 publishedAt: "2026-11-05T23:25:00-05:00"
 authors: [jessica-hartwell]

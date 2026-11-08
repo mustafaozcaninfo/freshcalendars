@@ -1,7 +1,6 @@
 ---
-title: "B.C. Sunrise Times Winter 2026-27: Vancouver 8:01 a.m. on Nov. 1, Latest 9:08 a.m."
-seoTitle: "B.C. Sunrise Times Winter 2026-27 by City"
-description: "Sunrise in Vancouver was 8:01 a.m. Pacific time (PCT) on Nov. 1, 2026, per the U.S. Naval Observatory (USNO). B.C. clocks did not fall back; see six cities."
+title: "BC Sunrise Time: Vancouver 8:01 a.m. Nov. 1, Latest 9:08 a.m."
+description: "B.C. sunrise in Vancouver was 8:01 a.m. on Nov. 1, 2026, per the U.S. Naval Observatory. Sunrise and sunset tables for six cities and a printable chart."
 type: explainer
 publishedAt: "2026-11-01T06:47:00-05:00"
 updatedAt: "2026-11-02T14:10:00-05:00"

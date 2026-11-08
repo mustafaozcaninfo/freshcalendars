@@ -1,7 +1,6 @@
 ---
-title: "Make A Difference Day 2026 Is Saturday, Oct. 24: How to Find a Volunteer Project"
-seoTitle: "Make A Difference Day 2026, Oct. 24: Find a Project"
-description: "Make A Difference Day is Saturday, Oct. 24, 2026. Projects are organized locally: where to search, two local examples, campus dates and a free planner."
+title: "Make A Difference Day 2026: Oct. 24, Where to Find a Project"
+description: "Make A Difference Day 2026 was Saturday, Oct. 24; the next is Saturday, Oct. 23, 2027. Where to find a project, campus dates and a free planner."
 type: explainer
 publishedAt: "2026-10-23T02:41:00-04:00"
 updatedAt: "2026-10-25T17:35:00-04:00"

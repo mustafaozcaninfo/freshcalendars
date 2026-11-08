@@ -1,7 +1,6 @@
 ---
-title: "School Christmas Holidays 2026: Break-Up Dates by Council in England, Scotland and Wales"
-seoTitle: "School Christmas Holidays 2026: Break-Up Dates"
-description: "Edinburgh, 21 Welsh councils and seven English councils end term on Friday 18 December 2026; most return Monday 4 January 2027, Edinburgh on 6 January."
+title: "School Christmas Holidays 2026: Break-Up Dec. 18 by Council"
+description: "School Christmas holidays 2026 start after Friday 18 December for most councils; most return 4 January 2027, Edinburgh 6 January. Weekdays off by council."
 type: explainer
 publishedAt: "2026-11-06T06:37:00-05:00"
 updatedAt: "2026-11-06T06:37:00-05:00"

@@ -1,7 +1,6 @@
 ---
-title: "São Paulo Grand Prix 2026: Race Time by U.S. Time Zone on Sunday, Nov. 8, and Full Weekend Schedule"
-seoTitle: "São Paulo Grand Prix 2026: Schedule and Race Time"
-description: "The São Paulo Grand Prix race is Sunday, Nov. 8, 2026, at 2 p.m. local time, 12 p.m. Eastern Standard Time (EST), Formula 1 (F1) says."
+title: "São Paulo Grand Prix 2026 Start Time: Nov. 8, 12 p.m. EST"
+description: "The São Paulo Grand Prix start time is Sunday, Nov. 8, 2026: 2 p.m. local, 12 p.m. EST. Every session in U.S. time zones and a free printable schedule."
 type: explainer
 publishedAt: "2026-10-26T01:12:00-04:00"
 authors: [jessica-hartwell]

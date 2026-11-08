@@ -1,7 +1,6 @@
 ---
-title: "Thanksgiving Football 2026: Bears-Lions, Eagles-Cowboys, Chiefs-Bills and College Games"
-seoTitle: "Thanksgiving Football 2026: Lions, Cowboys, Bills Game Times"
-description: "Thanksgiving football 2026, Eastern Time (ET): Bears-Lions 1 p.m., Eagles-Cowboys 4:30, Chiefs-Bills 8:20 on Nov. 26, plus Packers-Rams and every college game."
+title: "Thanksgiving College Football 2026: Every Game, Nov. 26-28"
+description: "College football games on Thanksgiving 2026: a Texas Tech game Nov. 26 at 8 p.m. ET on ESPN. Every college and NFL game Nov. 25-28 in one table."
 type: news
 publishedAt: "2026-10-23T15:00:00-04:00"
 updatedAt: "2026-11-07T07:18:00-05:00"

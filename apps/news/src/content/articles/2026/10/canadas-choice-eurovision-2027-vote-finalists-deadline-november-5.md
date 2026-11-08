@@ -1,7 +1,6 @@
 ---
-title: "Canada's Choice Eurovision 2027 Vote: Five Finalists, Deadline Nov. 5 at 11:59 p.m. PT"
-seoTitle: "Canada Eurovision Vote: 5 Finalists, Closes Nov. 5"
-description: "Canada's Eurovision 2027 vote opened Oct. 27 and closes Nov. 5 at 11:59 p.m. Pacific Time (PT). See the five finalists and the deadline in each time zone."
+title: "Canada Eurovision Voting: Closed Nov. 5, Five 2027 Finalists"
+description: "Canada's Eurovision 2027 voting opened Oct. 27 and closed Nov. 5 at 11:59 p.m. Pacific Time. See the five finalists; the final choice is due by December."
 type: news
 publishedAt: "2026-10-27T15:46:00-04:00"
 updatedAt: "2026-11-01T10:27:00-05:00"

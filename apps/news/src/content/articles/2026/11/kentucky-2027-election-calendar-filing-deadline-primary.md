@@ -1,7 +1,6 @@
 ---
-title: "Kentucky 2027 Election Calendar: Jan. 8 Filing Deadline, May 18 Primary, Nov. 2 General"
-seoTitle: "Kentucky 2027 Election Calendar: Primary May 18"
-description: "Kentucky's 2027 candidate filing deadline is 4 p.m. Friday, Jan. 8; the primary is Tuesday, May 18 and the general Nov. 2, per the State Board of Elections."
+title: "Kentucky 2027 Election Dates: Primary May 18, General Nov. 2"
+description: "Kentucky's 2027 primary is Tuesday, May 18 and the general election Tuesday, Nov. 2; candidates file by Jan. 8. Registration deadlines, printable sheet."
 type: news
 publishedAt: "2026-11-04T06:40:00-05:00"
 authors: [christina-gerland]

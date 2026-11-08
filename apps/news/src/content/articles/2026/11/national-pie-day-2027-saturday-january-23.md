@@ -1,7 +1,6 @@
 ---
-title: "National Pie Day 2027: Saturday, Jan. 23, and How It Differs From Pi Day"
-seoTitle: "National Pie Day 2027: Saturday, Jan. 23"
-description: "National Pie Day falls on Saturday, Jan. 23, 2027, per the American Pie Council (APC). Weekdays through 2032, how it differs from Pi Day, and a free planner."
+title: "National Pie Day 2027: Saturday, Jan. 23, Weekdays to 2032"
+description: "National Pie Day 2027 is Saturday, Jan. 23, per the American Pie Council. Weekdays through 2032, how it differs from Pi Day, and a free plan sheet."
 type: explainer
 publishedAt: "2026-11-04T06:40:00-05:00"
 authors: [christina-gerland]

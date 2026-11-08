@@ -1,7 +1,6 @@
 ---
-title: "ISO Week Numbers Explained: How Week 1, Week 53 and 2026-W44-5 Work"
-seoTitle: "ISO Week Numbers Explained: Week 1 and Week 53"
-description: "International Organization for Standardization (ISO) week 1 is the Monday-to-Sunday week with Jan. 4. Start dates for 2024-2035, and how to read 2026-W44-5."
+title: "ISO Week Numbers 2027: Week 1 Starts Monday, Jan. 4"
+description: "International Organization for Standardization (ISO) week 1 of 2027 starts Monday, Jan. 4. Start dates for 2024-2035 and how to read 2026-W44-5."
 type: explainer
 publishedAt: "2026-10-30T08:20:00-04:00"
 authors: [jessica-hartwell]

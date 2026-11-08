@@ -1,7 +1,6 @@
 ---
-title: "From Season 5 Release Date: MGM+ Has Not Announced It for the Final Season"
-seoTitle: "From Season 5 Release Date: Not Yet Announced"
-description: "Metro-Goldwyn-Mayer (MGM) streaming service MGM+ has not announced a From Season 5 release date as of Oct. 26, 2026. Deadline reported it is the final season."
+title: "From Season 5 Release Date: Not Yet Announced, Reported for 2027"
+description: "Metro-Goldwyn-Mayer (MGM) streaming service MGM+ has not set a From Season 5 release date as of Oct. 26, 2026. The final season is reported for 2027."
 type: explainer
 publishedAt: "2026-10-25T13:16:00-04:00"
 updatedAt: "2026-10-26T06:02:00-04:00"

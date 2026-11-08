@@ -1,7 +1,6 @@
 ---
-title: "NYT Strands #980 for Sunday, Nov. 8, 2026: Hints, Spangram Route and Answers"
-seoTitle: "Strands #980 Hints and Answers, Nov. 8, 2026"
-description: "Strands #980, Sunday, Nov. 8, 2026: clue \"Disciplined combat.\" Hints for the spangram and five theme words, a map of the spangram's route, and answers last."
+title: "Strands #980 Hints & Answers Today, November 8, 2026"
+description: "Strands #980 hints for Sunday, Nov. 8, 2026, clue \"Disciplined combat\": graded hints, a map of the spangram's route and answers in a spoiler section."
 type: explainer
 publishedAt: "2026-11-07T00:05:00-05:00"
 updatedAt: "2026-11-07T13:12:00-05:00"

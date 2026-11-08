@@ -1,7 +1,6 @@
 ---
-title: "How to Find the Day of the Week for Any Date: Zeller, Doomsday and Spreadsheet Codes"
-seoTitle: "Find the Day of the Week for Any Date"
-description: "Zeller's congruence names the weekday of any Gregorian date. Two worked examples, doomsday anchors and spreadsheet weekday codes, plus the 1582 and 1752 limits."
+title: "Find the Day of the Week for Any Date: July 4, 1776 Was Thursday"
+description: "Zeller's congruence names the weekday of any Gregorian date: July 4, 1776 was a Thursday. Doomsday anchors, spreadsheet codes and a printable worksheet."
 type: explainer
 publishedAt: "2026-10-30T08:21:00-04:00"
 authors: [jessica-hartwell]

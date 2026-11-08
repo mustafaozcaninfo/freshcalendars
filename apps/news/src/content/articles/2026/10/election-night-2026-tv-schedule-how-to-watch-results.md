@@ -1,7 +1,6 @@
 ---
-title: "Election Night 2026 TV Schedule: When CNN, NBC, Fox News and CBS Coverage Starts and Where to Stream Results"
-seoTitle: "Election Night 2026 TV Schedule and Where to Stream"
-description: "CNN starts election night coverage at 4 p.m. Eastern Time (ET) on Nov. 3, 2026, NBC at 5, Fox News at 6 and CBS at 7. Anchors, free streams and poll closings."
+title: "Election Night 2026 TV Schedule: Start Times for CNN, NBC, Fox, CBS"
+description: "Election night 2026 coverage started at 4 p.m. ET on CNN, 5 on NBC, 6 on Fox News and 7 on CBS. Anchors, free streams and an hourly poll closing guide."
 type: news
 publishedAt: "2026-10-24T16:00:00-04:00"
 updatedAt: "2026-11-03T12:48:00-05:00"

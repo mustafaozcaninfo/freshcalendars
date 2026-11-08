@@ -1,7 +1,6 @@
 ---
-title: "USPS Holiday Shipping Deadlines 2026: Dec. 17 for Ground Advantage, Dec. 18 for Priority, Dec. 19 for Express"
-seoTitle: "USPS Holiday Shipping Deadlines 2026 for Christmas"
-description: "USPS 2026 holiday deadlines for Christmas delivery: Ground Advantage and First-Class Mail by Dec. 17, Priority Mail Dec. 18, Priority Mail Express Dec. 19."
+title: "USPS Holiday Shipping Deadlines 2026: Dec. 17 Ground, Dec. 19 Express"
+description: "USPS holiday shipping deadlines 2026: Ground Advantage Dec. 17, Priority Mail Dec. 18, Express Dec. 19. International dates and a free printable sheet."
 type: news
 publishedAt: "2026-10-19T10:55:00-04:00"
 updatedAt: "2026-10-24T00:50:00-04:00"

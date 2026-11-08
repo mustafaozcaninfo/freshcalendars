@@ -1,7 +1,6 @@
 ---
-title: "UK School Term Dates 2026-27 and 2027-28: Half Terms and Easter in Westminster and Leeds"
-seoTitle: "February Half Term 2027 UK: Dates by Council"
-description: "Six councils (Westminster, Leeds, Surrey, Essex, Lancashire, Bristol) set February half term for 15-19 February 2027 in the United Kingdom (UK)."
+title: "UK School Term Dates 2027: Half Term 15-19 February, Easter Differs"
+description: "2027 school term dates in the UK: six councils set February half term for 15-19 February. Westminster and Leeds Easter breaks are compared, plus 2027-28."
 type: explainer
 publishedAt: "2026-10-31T03:00:00-04:00"
 updatedAt: "2026-11-02T14:36:54-05:00"

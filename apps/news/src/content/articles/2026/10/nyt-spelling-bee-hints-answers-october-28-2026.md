@@ -1,6 +1,5 @@
 ---
-title: "NYT Spelling Bee Hints and Answers for Wednesday, Oct. 28, 2026: Hint Grid, Pangram and Tuesday's Solution"
-seoTitle: "Spelling Bee Hints Today, Oct. 28, 2026"
+title: "Spelling Bee Hints & Answers Today, October 28, 2026"
 description: "Wednesday's Spelling Bee for Oct. 28, 2026 from the New York Times centers on I, with 71 words, 355 points and one pangram. Hints first, then the answers."
 type: explainer
 publishedAt: "2026-10-27T00:05:00-04:00"

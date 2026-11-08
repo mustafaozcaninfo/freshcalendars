@@ -1,7 +1,6 @@
 ---
-title: "Total Solar Eclipse Aug. 2, 2027: Totality Times by City in Spain and Egypt"
-seoTitle: "Total Solar Eclipse Aug. 2, 2027: Times by City"
-description: "NASA puts greatest eclipse at 10:06 Universal Time (UT) on Aug. 2, 2027. Cádiz sees totality near 4:45 a.m. Eastern Time (ET), Luxor from 6:02 a.m. ET."
+title: "Total Solar Eclipse Aug. 2, 2027: Totality Times in Spain, Egypt"
+description: "The Aug. 2, 2027 total solar eclipse peaks at 6:06 a.m. ET. Cádiz sees totality near 4:45 a.m. ET, Luxor from 6:02 a.m. ET. Printable viewing card."
 type: explainer
 publishedAt: "2026-10-31T07:50:00-04:00"
 updatedAt: "2026-11-02T14:48:00-05:00"

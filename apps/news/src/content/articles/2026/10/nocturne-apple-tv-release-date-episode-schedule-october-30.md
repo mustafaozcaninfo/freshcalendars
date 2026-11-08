@@ -1,7 +1,6 @@
 ---
-title: "Nocturne Release Date: Apple TV Premiered Stephen Graham Crime Drama Oct. 30, Episode Schedule"
-seoTitle: "Nocturne Release Date and Episode Schedule"
-description: "Nocturne premiered Friday, Oct. 30, 2026 on Apple TV with two episodes, then one every Friday through Dec. 25, Apple TV Press says. See all 10 dates."
+title: "Nocturne Release Date: New Episodes Every Friday to Dec. 25"
+description: "Nocturne premiered Fri., Oct. 30, 2026 on Apple TV with two episodes, then one every Friday through Dec. 25. See all 10 episode dates and a printable."
 type: news
 publishedAt: "2026-10-29T05:50:00-04:00"
 updatedAt: "2026-11-02T14:10:00-05:00"

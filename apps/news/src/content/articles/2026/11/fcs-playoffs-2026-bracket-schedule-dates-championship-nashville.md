@@ -1,7 +1,6 @@
 ---
-title: "FCS Playoffs 2026: Selection Sunday, Round Dates and the Jan. 11 Title Game in Nashville"
-seoTitle: "FCS Playoffs 2026 Schedule: Dates, Times and TV"
-description: "Football Championship Subdivision (FCS) playoffs 2026: bracket Nov. 22, title Jan. 11 in Nashville, per the National Collegiate Athletic Association (NCAA)."
+title: "FCS Playoffs 2026: Selection Sunday Nov. 22, Title Game Jan. 11"
+description: "Football Championship Subdivision (FCS) playoffs 2026: bracket Nov. 22, title game Jan. 11 in Nashville. Every round date and a printable watch guide."
 type: news
 publishedAt: "2026-11-06T10:36:00-05:00"
 updatedAt: "2026-11-06T10:36:00-05:00"

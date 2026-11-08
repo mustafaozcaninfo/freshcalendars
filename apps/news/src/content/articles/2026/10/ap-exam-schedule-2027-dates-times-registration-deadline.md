@@ -1,7 +1,6 @@
 ---
-title: "AP Exam Schedule 2027: Dates, Times, Registration Deadline and Fully Digital Subjects"
-seoTitle: "AP Exam Schedule 2027: Dates and Deadlines"
-description: "Advanced Placement (AP) exams run May 3-7 and May 10-14, 2027, and orders are due Nov. 13, 2026, says College Board. Day-by-day schedule and fees inside."
+title: "AP Exam Registration Deadline 2027: Nov. 13, Exams May 3-14"
+description: "The Advanced Placement (AP) exam registration deadline for 2027 is Nov. 13, 2026, says College Board. Day-by-day exam grid for May 3-7 and May 10-14."
 type: explainer
 publishedAt: "2026-10-25T12:30:00-04:00"
 updatedAt: "2026-11-03T11:23:00-05:00"

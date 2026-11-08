@@ -1,6 +1,5 @@
 ---
-title: "Quordle Hints and Answers Today, #1747 for Friday, Nov. 6, 2026: Clues by Board"
-seoTitle: "Quordle Hints & Answers Today, Nov. 6, 2026 (#1747)"
+title: "Quordle #1747 Hints & Answers Today, November 6, 2026"
 description: "Quordle #1747 for Friday, Nov. 6, 2026: clues for each board, a table of letters shared by the four words, then all answers in a marked spoiler section."
 type: explainer
 publishedAt: "2026-11-06T07:45:00-05:00"

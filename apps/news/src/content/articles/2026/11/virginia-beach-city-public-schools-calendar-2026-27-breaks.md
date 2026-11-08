@@ -1,7 +1,6 @@
 ---
-title: "Virginia Beach City Public Schools Calendar 2026-27: Winter Break, Spring Break, Last Day"
-seoTitle: "Virginia Beach Schools Calendar 2026-27 Breaks"
-description: "Virginia Beach City Public Schools (VBCPS) 2026-27: no school Dec. 21-Jan. 1 and Mar. 29-Apr. 2. Students start Aug. 24; the last day is June 11, 2027."
+title: "Virginia Beach Schools Calendar 2026-27: Last Day June 11, 2027"
+description: "Virginia Beach school calendar 2026-27: no school Dec. 21-Jan. 1 and Mar. 29-Apr. 2; last day is June 11, 2027. Our table counts every weekday off."
 type: explainer
 publishedAt: "2026-11-04T14:56:00-05:00"
 authors: [aaron-kessler]

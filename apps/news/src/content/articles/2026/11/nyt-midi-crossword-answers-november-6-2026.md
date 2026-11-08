@@ -1,7 +1,6 @@
 ---
-title: "NYT Midi Crossword Answers and Hints for Friday, Nov. 6, 2026: The Maze Runner Theme, 19 Clues"
-seoTitle: "NYT Midi Crossword Answers Today, Nov. 6, 2026"
-description: "The New York Times (NYT) Midi Crossword for Friday, Nov. 6, 2026: a hint for each of Ian Livengood's 19 clues, how the title Maze Runner works, plus answers."
+title: "NYT Midi Crossword Answers Today, November 6, 2026"
+description: "The New York Times (NYT) Midi Crossword for Friday, Nov. 6, 2026: a hint for each of Ian Livengood's 19 clues, the Maze Runner title, then answers."
 type: explainer
 publishedAt: "2026-11-05T22:27:00-05:00"
 authors: [news-desk]

@@ -1,7 +1,6 @@
 ---
-title: "The Game Awards 2026: Tickets On Sale Oct. 29 at 10 a.m. PT, Show Dec. 10, Nominations Mid-November"
-seoTitle: "The Game Awards 2026: Tickets, Date, Nominations"
-description: "The Game Awards 2026 tickets went on sale Thursday, Oct. 29 at 10 a.m. Pacific Time (PT), 1 p.m. Eastern Time (ET), through AXS. The show is Thursday, Dec. 10."
+title: "The Game Awards 2026 Tickets: AXS Sale Oct. 29, Show Dec. 10"
+description: "The Game Awards 2026 tickets went on sale Oct. 29 at 10 a.m. PT (1 p.m. ET) via AXS. The show is Thu., Dec. 10. Sale times by zone and a countdown."
 type: news
 publishedAt: "2026-10-28T19:45:00-04:00"
 updatedAt: "2026-10-30T01:05:00-04:00"

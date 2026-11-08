@@ -1,7 +1,6 @@
 ---
-title: "Fenwick Christmas Window 2026: Newcastle Public Viewing Opens Monday 2 November"
-seoTitle: "Fenwick Christmas Window 2026 Newcastle Dates"
-description: "Fenwick's Christmas windows open for public viewing on Northumberland Street, Newcastle, on Monday 2 November 2026, per Fenwick. Market and lights dates inside."
+title: "Fenwick Christmas Window 2026: Open From Monday 2 November"
+description: "Fenwick's Christmas windows on Northumberland Street, Newcastle, opened to the public on Monday 2 November 2026. Lights switch-on and market dates inside."
 type: news
 publishedAt: "2026-11-01T14:40:00-05:00"
 authors: [christina-gerland]

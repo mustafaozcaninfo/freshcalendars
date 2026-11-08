@@ -1,7 +1,6 @@
 ---
-title: "Christmas Jumper Day 2026 Is Thursday, Dec. 10: Countdown Planner for Schools and Offices"
-seoTitle: "Christmas Jumper Day 2026: Thursday, Dec. 10"
-description: "Save the Children UK's Christmas Jumper Day 2026 is Thursday 10 December, and groups may pick another day. Suggested countdown dates and a printable planner."
+title: "Christmas Jumper Day 2026 Is Thursday, Dec. 10: Countdown Planner"
+description: "Christmas Jumper Day 2026 is Thursday 10 December, says Save the Children UK, though groups may pick another day. Countdown dates and a printable planner."
 type: news
 publishedAt: "2026-10-30T23:40:00-04:00"
 authors: [christina-gerland]

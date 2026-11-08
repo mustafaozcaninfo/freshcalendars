@@ -1,7 +1,6 @@
 ---
-title: "Marine Corps Birthday 2026: Tuesday, Nov. 10 Is the 251st Anniversary"
-seoTitle: "Marine Corps Birthday 2026: Nov. 10, 251st Anniversary"
-description: "The Marine Corps turns 251 on Tuesday, Nov. 10, 2026, the Defense Commissary Agency (DeCA) says. It is not a federal holiday; Veterans Day is the next day."
+title: "Marine Corps Birthday 2026: Tuesday, Nov. 10 Is the 251st"
+description: "The Marine Corps birthday 2026 is Tuesday, Nov. 10, the 251st, says the Defense Commissary Agency (DeCA). Not a federal holiday; Veterans Day is Nov. 11."
 type: news
 publishedAt: "2026-11-08T06:19:00-05:00"
 updatedAt: "2026-11-08T06:19:00-05:00"

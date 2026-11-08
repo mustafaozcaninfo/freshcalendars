@@ -1,7 +1,6 @@
 ---
-title: "Lord Mayor's Show 2026: Saturday, Nov. 14, 11 a.m. Start, Route and Road Closures"
-seoTitle: "Lord Mayor's Show 2026: Nov. 14 Time and Road Closures"
-description: "The Lord Mayor's Show 2026 sets off from Mansion House at 11 a.m. Greenwich Mean Time (GMT) on Saturday, Nov. 14, which is 6 a.m. Eastern Time (ET)."
+title: "Lord Mayor's Show 2026: Nov. 14 at 11 a.m., Route and Closures"
+description: "The Lord Mayor's Show 2026 is Saturday, Nov. 14, setting off from Mansion House at 11 a.m. London time. Timetable in ET, road closures, printable."
 type: explainer
 publishedAt: "2026-10-26T05:15:00-04:00"
 updatedAt: "2026-11-06T09:30:00-05:00"

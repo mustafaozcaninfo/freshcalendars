@@ -1,7 +1,6 @@
 ---
-title: "NHL Games Today: Saturday, Oct. 31, 2026 (Halloween) Schedule, 10 Games, Times and TV"
-seoTitle: "NHL Games Today, Oct. 31, 2026: 10 Games and TV"
-description: "National Hockey League (NHL) games today, Sat., Oct. 31, 2026 (Halloween): 10 games from 1:00 to 10:00 p.m. Eastern Time (ET), with arenas, time zones and TV."
+title: "NHL Games Today, Oct. 31, 2026: 10 Halloween Games From 1:00 p.m. ET"
+description: "NHL games today, Saturday, Oct. 31, 2026 (Halloween): 10 games from 1:00 to 10:00 p.m. ET. Time-zone table, TV notes and a printable score sheet."
 type: news
 publishedAt: "2026-10-29T19:53:00-04:00"
 updatedAt: "2026-10-29T21:06:00-04:00"

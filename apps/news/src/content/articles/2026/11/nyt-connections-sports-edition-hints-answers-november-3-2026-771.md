@@ -1,7 +1,6 @@
 ---
-title: "NYT Connections: Sports Edition Hints and Answers for Tuesday, Nov. 3, 2026 (#771)"
-seoTitle: "Connections Sports Edition Hints Today, Nov. 3 (#771)"
-description: "Connections: Sports Edition #771 for Tuesday, Nov. 3, 2026, from The Athletic and New York Times (NYT) Games: a hint for each group, then answers and traps."
+title: "Connections Sports Edition #771 Answers, November 3, 2026"
+description: "Connections: Sports Edition #771 hints and answers for Tuesday, Nov. 3, 2026, from The Athletic and New York Times (NYT) Games: a hint per group and traps."
 type: explainer
 publishedAt: "2026-11-03T14:40:00-05:00"
 updatedAt: "2026-11-03T14:40:00-05:00"

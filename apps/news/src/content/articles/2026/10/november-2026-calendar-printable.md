@@ -1,7 +1,6 @@
 ---
-title: "November 2026 Calendar: 14 Free Printable Templates With Holidays, Thanksgiving and Moon Phases"
-seoTitle: "November 2026 Calendar: 14 Free Printables With Holidays"
-description: "November 2026 calendar: 14 free printable PDFs with Veterans Day, Nov. 11 and Thanksgiving, Nov. 26 marked. The month starts on Sunday and has 19 working days."
+title: "November 2026 Calendar Printable: 14 Free PDFs With Holidays"
+description: "November 2026 starts Sunday, Nov. 1 and has 19 working days. 14 free printable PDFs mark Veterans Day, Nov. 11 and Thanksgiving, Nov. 26."
 type: explainer
 publishedAt: "2026-10-26T05:20:00-04:00"
 updatedAt: "2026-11-07T19:30:00-05:00"

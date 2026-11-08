@@ -1,7 +1,6 @@
 ---
-title: "Holiday Deals This Week, Nov. 2-8, 2026: Target, Best Buy, Starbucks, Home Depot Dates"
-seoTitle: "Holiday Sales Starting This Week, Nov. 2-8, 2026"
-description: "Eight holiday sales and menus start Nov. 2-8, 2026, including Target's Early Black Friday deals Nov. 5-7 and Best Buy's Nov. 6, each per its own announcement."
+title: "Holiday Deals This Week, Nov. 2-8: Target Nov. 5-7, Best Buy Nov. 6"
+description: "Eight holiday sales and menus start Nov. 2-8, 2026, including Target's Early Black Friday deals Nov. 5-7 and Best Buy's Nov. 6. Day-by-day table, printable"
 type: news
 publishedAt: "2026-10-31T23:44:00-04:00"
 authors: [jessica-hartwell]

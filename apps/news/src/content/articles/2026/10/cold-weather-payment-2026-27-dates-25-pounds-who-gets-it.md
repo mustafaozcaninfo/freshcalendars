@@ -1,7 +1,6 @@
 ---
-title: "Cold Weather Payment 2026 to 2027: £25 Dates, Who Gets It and How It Differs From Winter Fuel Payment"
-seoTitle: "Cold Weather Payment 2026-27: £25, Dates, Who Gets It"
-description: "Cold Weather Payment pays £25 for each 7-day freeze between 1 November 2026 and 31 March 2027, GOV.UK says. It is automatic, paid within 14 working days."
+title: "Cold Weather Payment 2026-27: £25 for Each 7-Day Freeze, Who Gets It"
+description: "Cold Weather Payment 2026-27 is £25 for each 7-day freeze from 1 November 2026 to 31 March 2027, GOV.UK says. Scotland has Winter Heating Payment instead."
 type: news
 publishedAt: "2026-10-26T12:40:00-04:00"
 updatedAt: "2026-11-02T14:10:00-05:00"

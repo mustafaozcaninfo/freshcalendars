@@ -1,7 +1,6 @@
 ---
-title: "Macy's Thanksgiving Day Parade 2026: Start Time, Route, TV Channel and Balloons"
-seoTitle: "Macy's Thanksgiving Day Parade 2026: Time, Route, TV"
-description: "The 100th Macy's Thanksgiving Day Parade steps off at 8:30 a.m. Eastern Time (ET) on Thu., Nov. 26, 2026, on NBC, Peacock and Telemundo. Route, zone times."
+title: "Macy's Thanksgiving Day Parade 2026 Time: 8:30 a.m. ET, Nov. 26"
+description: "The Macy's Thanksgiving Day Parade 2026 starts at 8:30 a.m. ET on Thursday, Nov. 26, on NBC, Peacock and Telemundo. Route and times by U.S. zone."
 type: explainer
 publishedAt: "2026-11-02T07:09:00-05:00"
 updatedAt: "2026-11-05T15:26:00-05:00"

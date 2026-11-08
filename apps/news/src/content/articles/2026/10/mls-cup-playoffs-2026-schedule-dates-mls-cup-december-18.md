@@ -1,7 +1,6 @@
 ---
-title: "MLS Cup Playoffs 2026 Schedule: Decision Day Nov. 7, MLS Cup on Fri., Dec. 18"
-seoTitle: "MLS Cup Playoffs 2026 Schedule and Dates"
-description: "Major League Soccer (MLS) says MLS Cup 2026 is Fri., Dec. 18 and Decision Day is Sat., Nov. 7. See every playoff round by date, the format and where to watch."
+title: "MLS Cup Playoffs 2026 Schedule: Wild Card Nov. 19, Cup Dec. 18"
+description: "The Major League Soccer (MLS) Cup playoffs 2026 start with Wild Card matches Thu., Nov. 19; MLS Cup is Fri., Dec. 18. Each round by date, TV, printable."
 type: explainer
 publishedAt: "2026-10-25T20:18:00-04:00"
 updatedAt: "2026-11-08T09:25:00-05:00"

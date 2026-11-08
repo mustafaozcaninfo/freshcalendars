@@ -1,7 +1,6 @@
 ---
-title: "New York Ballot 2026: Sample Ballot, the Governor's Race, NYC's 5 Charter Questions and Key Dates"
-seoTitle: "New York Ballot 2026: Sample Ballot and Races"
-description: "What's on New York's Nov. 3, 2026 ballot: governor, attorney general, comptroller, all 26 House seats, NYC's five charter questions and how to see your ballot."
+title: "New York Ballot 2026: Sample Ballot, Governor and 5 NYC Questions"
+description: "New York's Nov. 3, 2026 ballot had governor, attorney general, comptroller and all 26 House seats, plus NYC's five charter questions. See a sample ballot."
 type: explainer
 publishedAt: "2026-10-21T06:33:00-04:00"
 updatedAt: "2026-11-02T14:10:00-05:00"

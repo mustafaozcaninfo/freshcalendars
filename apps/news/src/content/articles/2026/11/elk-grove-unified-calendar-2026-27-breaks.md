@@ -1,7 +1,6 @@
 ---
-title: "Elk Grove Unified Calendar 2026-27: Winter Break Dec. 23-Jan. 1, Spring Break Mar. 15-19"
-seoTitle: "Elk Grove Unified Calendar 2026-27: Breaks, Last Day"
-description: "Elk Grove Unified School District (EGUSD) lists winter break Dec. 23 to Jan. 1 and spring break March 15-19 on its newer calendar; the last day is May 27, 2027."
+title: "Elk Grove Unified Calendar 2026-27: Winter Break Dec. 23-Jan. 1"
+description: "Elk Grove Unified School District (EGUSD) winter break is Dec. 23 to Jan. 1; spring break March 15-19. Compares the 2024 version and the Track calendars."
 type: news
 publishedAt: "2026-11-05T06:20:00-05:00"
 authors: [aaron-kessler]

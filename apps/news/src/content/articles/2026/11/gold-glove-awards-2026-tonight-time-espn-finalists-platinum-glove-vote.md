@@ -1,7 +1,6 @@
 ---
-title: "Gold Glove Awards 2026 Winners: Full List, Platinum Glove on Nov. 6 and MLB Awards Dates"
-seoTitle: "Gold Glove Awards 2026 Winners: Full List by Position"
-description: "The 2026 Rawlings Gold Glove winners were announced Sunday, Nov. 1 on ESPN. See all 20 by league and position, plus the Platinum Glove and MLB awards dates."
+title: "2026 Gold Glove Winners List: All 20, Named Nov. 1 on ESPN"
+description: "The 2026 Gold Glove winners were announced Nov. 1: 10 per league, by position. Also the Platinum Glove date, Nov. 6, and awards dates to Nov. 17."
 type: news
 publishedAt: "2026-11-01T04:45:00-05:00"
 updatedAt: "2026-11-01T22:42:29-05:00"

@@ -1,6 +1,5 @@
 ---
-title: "NYT Letter Boxed Hints and Answer for Thursday, Nov. 5, 2026: A Hard J and 26 Two-Word Fits"
-seoTitle: "NYT Letter Boxed Nov. 5, 2026: Hints, Hard J, Answer"
+title: "Letter Boxed Hints & Answer Today, November 5, 2026"
 description: "Letter Boxed from The New York Times (NYT) for Thursday, Nov. 5, 2026, par 5: why the J is hard, 26 two-word fits, five hints, then the answer."
 type: explainer
 publishedAt: "2026-11-04T00:05:00-05:00"

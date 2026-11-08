@@ -1,7 +1,6 @@
 ---
-title: "NFL Week 18 Schedule 2026: 16 Matchups, Saturday Slots and a Pick'em Sheet"
-seoTitle: "NFL Week 18 Schedule 2026: 16 Games, Pick'em Sheet"
-description: "National Football League (NFL) Week 18 has 16 division games on Jan. 9-10, 2027; every kickoff is still to be determined (TBD). Free printable pick'em sheet."
+title: "NFL Week 18 Schedule 2026: 16 Games on Jan. 9-10, Times TBD"
+description: "NFL Week 18 schedule 2026: 16 division games on Jan. 9-10, 2027, with every kickoff still to be determined. A free pick'em sheet has a day and time line."
 type: news
 publishedAt: "2026-11-02T23:01:00-05:00"
 authors: [jessica-hartwell]

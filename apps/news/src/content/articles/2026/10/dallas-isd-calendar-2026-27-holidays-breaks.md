@@ -1,7 +1,6 @@
 ---
-title: "Dallas ISD Calendar 2026-27: Winter Break Dec. 21 to Jan. 4, Spring Break March 15-19 and Last Day May 26"
-seoTitle: "Dallas ISD Calendar 2026-27: Breaks and Days Off"
-description: "Dallas Independent School District (ISD) 2026-27: Thanksgiving Break Nov. 23-27, Winter Break Dec. 21 to Jan. 4, Spring Break March 15-19, last day May 26."
+title: "Dallas ISD Calendar 2026-27: Winter Break Dec. 21 to Jan. 4"
+description: "Dallas Independent School District (ISD) calendar 2026-27: winter break Dec. 21 to Jan. 4, last day May 26. Weekday counts per break, early release days."
 type: news
 publishedAt: "2026-10-26T18:37:00-04:00"
 updatedAt: "2026-11-02T14:10:00-05:00"

@@ -1,7 +1,6 @@
 ---
-title: "What Is a Fiscal Year? Federal, State and UK Dates With Quarter Tables"
-seoTitle: "What Is a Fiscal Year? Dates and Quarters"
-description: "A fiscal year is 12 months that end on the last day of any month but December. The U.S. federal one runs Oct. 1 to Sept. 30; quarter dates are in the table."
+title: "What Is a Fiscal Year? Federal Year Runs Oct. 1 to Sept. 30"
+description: "A fiscal year is 12 months ending on the last day of any month but December. The U.S. federal year runs Oct. 1 to Sept. 30; 2027 quarter dates in a table."
 type: explainer
 publishedAt: "2026-10-30T08:22:00-04:00"
 authors: [jessica-hartwell]

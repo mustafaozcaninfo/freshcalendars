@@ -1,7 +1,6 @@
 ---
-title: "New Movies in Theaters December 2026: Avengers: Doomsday, Dune: Part Three, Werwulf"
-seoTitle: "New Movies in Theaters December 2026: Dates"
-description: "Studios date five films in theaters in December 2026: Violent Night 2 on Dec. 4, Avengers: Doomsday and Dune: Part Three on Dec. 18, Werwulf on Dec. 25."
+title: "New Movies in Theaters December 2026: Avengers and Dune on Dec. 18"
+description: "Five films have a December 2026 theater date, from Violent Night 2 on Dec. 4 to Werwulf on Dec. 25. Table by weekday and studio, plus a free printable."
 type: news
 publishedAt: "2026-11-02T23:01:00-05:00"
 authors: [jessica-hartwell]

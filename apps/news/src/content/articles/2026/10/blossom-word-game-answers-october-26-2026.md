@@ -1,6 +1,5 @@
 ---
-title: "Blossom Word Game Answers and Hints for Monday, Oct. 26, 2026: Today's Letters, Words to Try and Pangrams"
-seoTitle: "Blossom Answers Today, Oct. 26, 2026: Letters, Pangrams"
+title: "Blossom Hints & Answers Today, October 26, 2026"
 description: "Merriam-Webster's Blossom for Monday, Oct. 26, 2026: N in the center with A, D, E, L, M and T, words to try, pangram hints, then the pangrams at the end."
 type: explainer
 publishedAt: "2026-10-26T04:20:00-04:00"

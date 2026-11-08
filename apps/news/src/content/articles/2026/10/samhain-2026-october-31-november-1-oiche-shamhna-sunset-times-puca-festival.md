@@ -1,7 +1,6 @@
 ---
-title: "Samhain 2026: Oíche Shamhna Was Saturday, Oct. 31, Samhain Sunday, Nov. 1, With Sunset Times"
-seoTitle: "Samhain 2026: Oct. 31 Eve, Nov. 1 Date and Sunset Times"
-description: "Samhain eve was Saturday, Oct. 31, 2026, and Samhain was Sunday, Nov. 1, says the National Museum of Ireland (NMI). Dublin sunset on Oct. 31 was 4:55 p.m."
+title: "Samhain 2026: Oct. 31 Eve, Nov. 1 Date and Sunset Times"
+description: "Samhain 2026 was Sunday, Nov. 1, with Oíche Shamhna on Saturday, Oct. 31. Dublin sunset on Oct. 31 was 4:55 p.m., London 4:35 p.m., New York 5:53 p.m."
 type: explainer
 publishedAt: "2026-10-30T15:48:00-04:00"
 updatedAt: "2026-11-02T14:10:00-05:00"

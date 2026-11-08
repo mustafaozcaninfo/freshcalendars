@@ -1,7 +1,6 @@
 ---
-title: "Euro 2028 Qualifying Draw: Sunday, Dec. 6 in Belfast, Start Time in UK, ET and PT"
-seoTitle: "Euro 2028 Qualifying Draw: Dec. 6, Belfast, Time"
-description: "The Union of European Football Associations (UEFA) holds the Euro 2028 qualifying draw in Belfast on Sunday, Dec. 6, 2026: 5 p.m. UK, noon Eastern Time (ET)."
+title: "Euro 2028 Qualifying Draw: Dec. 6 in Belfast, Noon ET, 5 p.m. UK"
+description: "The Euro 2028 qualifying draw is Sunday, Dec. 6, 2026 in Belfast: 5 p.m. UK, noon ET. Start times for 11 time zones and how the 12 qualifying groups work."
 type: news
 publishedAt: "2026-11-07T23:13:00-05:00"
 updatedAt: "2026-11-07T23:13:00-05:00"

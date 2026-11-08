@@ -1,6 +1,5 @@
 ---
-title: "NYT Strands Hints and Answers for Tuesday, Nov. 3, 2026 (#975): Hints for the Spangram and Five Theme Words"
-seoTitle: "Strands Hints, Spangram & Answers, Nov. 3, 2026 (#975)"
+title: "Strands #975 Hints & Answers Today, November 3, 2026"
 description: "Strands #975 for Tuesday, Nov. 3, 2026: hints for the spangram and each of the five theme words, then all the answers in a spoiler section at the end."
 type: explainer
 publishedAt: "2026-11-02T00:05:00-05:00"

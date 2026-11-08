@@ -1,7 +1,6 @@
 ---
-title: "Groundhog Day 2027 Is Tuesday, February 2: Punxsutawney Phil's Forecast and His Record"
-seoTitle: "Groundhog Day 2027: Tuesday, Feb. 2 and Phil's Record"
-description: "Groundhog Day 2027 is Tue., Feb. 2. The National Oceanic and Atmospheric Administration (NOAA) says Punxsutawney Phil was right 30% of the time in 10 years."
+title: "Groundhog Day 2027 Is Tuesday, Feb. 2: Phil's Record"
+description: "Groundhog Day 2027 is Tue., Feb. 2. The National Oceanic and Atmospheric Administration (NOAA) says Phil was right 30% of the time in 10 years."
 type: explainer
 publishedAt: "2026-10-31T01:00:00-04:00"
 authors: [christina-gerland]

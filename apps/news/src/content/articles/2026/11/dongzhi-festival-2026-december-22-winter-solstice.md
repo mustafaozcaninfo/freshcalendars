@@ -1,7 +1,6 @@
 ---
-title: "Dongzhi Festival 2026: Tuesday, Dec. 22, the Solstice Minute in Asia and North America"
-seoTitle: "Dongzhi Festival 2026: Dec. 22 and Solstice Times"
-description: "Dongzhi is Tuesday, Dec. 22, 2026, per the Hong Kong Observatory (HKO). The solstice is 4:50 a.m. Hong Kong Time (HKT), 3:50 p.m. Eastern Time (ET) Dec. 21."
+title: "Dongzhi Festival 2026: Dec. 22, Solstice at 4:50 a.m. Hong Kong Time"
+description: "Dongzhi 2026 is Tuesday, Dec. 22, per the Hong Kong Observatory. The solstice is 4:50 a.m. Hong Kong Time, or 3:50 p.m. ET Dec. 21; zone table."
 type: explainer
 publishedAt: "2026-11-07T18:50:00-05:00"
 updatedAt: "2026-11-07T18:50:00-05:00"

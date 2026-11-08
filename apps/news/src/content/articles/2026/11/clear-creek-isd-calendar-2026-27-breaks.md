@@ -1,6 +1,5 @@
 ---
-title: "Clear Creek ISD Calendar 2026-27: Fall Break, Winter Break, Spring Break and Last Day"
-seoTitle: "Clear Creek ISD Calendar 2026-27: Breaks, Last Day"
+title: "Clear Creek ISD Calendar 2026-27: Break Nov. 23-27, Last Day May 20"
 description: "Clear Creek Independent School District (ISD) 2026-27: no school Nov. 23-27, Dec. 21-Jan. 1 and March 8-12. Students return Jan. 5; last day is May 20."
 type: explainer
 publishedAt: "2026-11-05T14:40:00-05:00"

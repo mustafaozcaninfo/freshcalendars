@@ -1,7 +1,6 @@
 ---
-title: "Quordle Hints and Answers Today, #1736 for Monday, Oct. 26, 2026: Clues for All Four Words"
-seoTitle: "Quordle Hints & Answers Today, Oct. 26, 2026 (#1736)"
-description: "Quordle #1736 for Monday, Oct. 26, 2026: a clue for each of the four words, a starter strategy, then all answers in a marked spoiler section at the very end."
+title: "Quordle #1736 Hints & Answers Today, October 26, 2026"
+description: "Quordle hints and answers today, #1736 for Monday, Oct. 26, 2026. A clue for each word, including a metalworking term, with answers hidden at the end."
 type: explainer
 publishedAt: "2026-10-26T04:20:00-04:00"
 authors: [news-desk]

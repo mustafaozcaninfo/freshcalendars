@@ -1,7 +1,6 @@
 ---
-title: "How Many Business Days Are in a Year? 260 to 262 Weekdays, Federal Counts 2024-2035"
-seoTitle: "Business Days in a Year: 260 to 262 Weekdays"
-description: "A year has 260 to 262 Monday-Friday days; subtract weekday holidays set by the Office of Personnel Management (OPM) and federal workdays run 249 to 251."
+title: "Business Days in a Year: 260 to 262, or 249 to 251 Federal"
+description: "A year has 260 to 262 business days, Monday to Friday. Federal workdays run 249 to 251 after weekday holidays. A table for 2024-2035 and a printable."
 type: explainer
 publishedAt: "2026-10-30T08:21:00-04:00"
 authors: [jessica-hartwell]

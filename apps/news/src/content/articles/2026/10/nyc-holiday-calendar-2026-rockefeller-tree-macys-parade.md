@@ -1,7 +1,6 @@
 ---
-title: "NYC Holiday Calendar 2026: Rockefeller Tree Lighting Dec. 2, the 100th Macy's Parade and Every Key Date"
-seoTitle: "NYC Holiday Calendar 2026: Tree Lighting, Parade"
-description: "New York's 2026 holiday season: the Rockefeller tree arrives Nov. 7 and is lit Dec. 2, the 100th Macy's parade is Nov. 26. Every official date to Jan. 10."
+title: "NYC Holiday Calendar 2026: Tree Lighting Dec. 2, Macy's Parade Nov. 26"
+description: "New York's 2026 holiday season: the Rockefeller tree is lit Dec. 2 and the 100th Macy's parade is Nov. 26. A printable lists 14 official dates to Jan. 10."
 type: explainer
 publishedAt: "2026-10-22T13:09:00-04:00"
 updatedAt: "2026-11-02T14:10:00-05:00"

@@ -1,7 +1,6 @@
 ---
-title: "Smoke Alarm Check After Clocks Fell Back Nov. 1, 2026: Test Now, Replace by Age"
-seoTitle: "Smoke Alarm Check When Clocks Fall Back Nov. 1, 2026"
-description: "Clocks fell back at 2 a.m. Sunday, Nov. 1, 2026. The U.S. Fire Administration (USFA) says test smoke alarms monthly and replace each alarm every 10 years."
+title: "Smoke Alarm Check: Test Monthly, Replace Every 10 Years, Printable"
+description: "Test smoke alarms monthly and replace each one every 10 years, says the U.S. Fire Administration. A table turns the year made into the replace-by year."
 type: explainer
 publishedAt: "2026-10-31T18:05:00-04:00"
 updatedAt: "2026-11-02T14:10:00-05:00"

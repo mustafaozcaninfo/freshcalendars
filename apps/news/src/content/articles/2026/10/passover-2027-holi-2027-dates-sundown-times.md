@@ -1,7 +1,6 @@
 ---
-title: "Passover 2027 Starts at Sundown April 21; Holi 2027 Is March 23 on India's List"
-seoTitle: "Passover 2027 Dates: Sundown April 21 to April 29"
-description: "Passover 2027 begins at sundown Wednesday, April 21 and ends April 29 outside Israel, per Chabad and Hebcal. India's government list sets Holi on March 23."
+title: "Passover 2027: Sundown April 21 to April 29, Seder Nights"
+description: "Passover 2027 begins at sundown Wednesday, April 21 and ends at nightfall April 29 outside Israel. Day-by-day table and Seder nights, April 21 and 22."
 type: explainer
 publishedAt: "2026-10-31T02:54:00-04:00"
 authors: [christina-gerland]

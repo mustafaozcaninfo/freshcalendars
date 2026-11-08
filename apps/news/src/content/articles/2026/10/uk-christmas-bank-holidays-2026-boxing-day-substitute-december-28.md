@@ -1,7 +1,6 @@
 ---
-title: "Christmas Bank Holidays 2026 in the UK: Boxing Day Moves to Monday, Dec. 28"
-seoTitle: "UK Christmas Bank Holidays 2026: Boxing Day Dec. 28"
-description: "Boxing Day 2026 is a bank holiday on Monday, Dec. 28, because Dec. 26 is a Saturday, GOV.UK says. See a leave planner, New Year dates and Royal Mail dates."
+title: "Boxing Day 2026 UK: Bank Holiday Moves to Monday, Dec. 28"
+description: "Boxing Day 2026 in the UK is a bank holiday on Monday, Dec. 28, because Dec. 26 is a Saturday. A leave planner, New Year dates and Royal Mail dates."
 type: explainer
 publishedAt: "2026-10-25T23:15:00-04:00"
 updatedAt: "2026-11-01T10:31:00-05:00"

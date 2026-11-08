@@ -1,7 +1,6 @@
 ---
-title: "State Pension Increase April 2027: 3.9% Rise Reported After the Budget"
-seoTitle: "State Pension April 2027: 3.9% Rise After Budget"
-description: "Budget 2026 keeps the State Pension triple lock to April 2029 and changes it from 2030. The April 2027 rise is reported at 3.9%; official rates come later."
+title: "State Pension 2027-28: 3.9% Rise Reported After the Budget"
+description: "The April 2027 State Pension rise is reported at 3.9%, taking the full new rate to £250.70 a week. Official rates come later, usually in late November."
 type: news
 publishedAt: "2026-10-27T09:59:00-04:00"
 updatedAt: "2026-10-30T02:05:00-04:00"

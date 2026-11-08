@@ -1,6 +1,5 @@
 ---
-title: "NYT Strands #977 for Thursday, Nov. 5, 2026: Hints, Spangram Route and Answers"
-seoTitle: "Strands #977 Hints and Answers, Nov. 5, 2026"
+title: "Strands #977 Hints & Answers Today, November 5, 2026"
 description: "Strands #977, Thursday, Nov. 5, 2026: clue \"Handle with care.\" Hints for the spangram and six theme words, a map of the spangram's route, and answers last."
 type: explainer
 publishedAt: "2026-11-04T00:05:00-05:00"

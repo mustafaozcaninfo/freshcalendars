@@ -1,7 +1,6 @@
 ---
-title: "Narnia: The Magician's Nephew Release Date: Theaters Feb. 12, 2027, Netflix April 2"
-seoTitle: "Narnia Release Date: Feb. 12, 2027 in Theaters"
-description: "Netflix says Greta Gerwig's Narnia: The Magician's Nephew opens in theaters Feb. 12, 2027, with IMAX previews Feb. 10, then streams April 2. Free planner."
+title: "Narnia: The Magician's Nephew Release Date: Feb. 12, Netflix April 2"
+description: "Narnia: The Magician's Nephew opens in theaters Feb. 12, 2027, with IMAX previews Feb. 10, then streams on Netflix April 2. Free countdown planner."
 type: news
 publishedAt: "2026-10-29T23:45:00-04:00"
 updatedAt: "2026-10-30T15:27:00-04:00"

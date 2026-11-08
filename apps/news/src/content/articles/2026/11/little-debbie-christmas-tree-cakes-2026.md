@@ -1,7 +1,6 @@
 ---
-title: "Little Debbie Christmas Tree Cakes 2026: Rollout Runs Mid-October to Mid-December"
-seoTitle: "Little Debbie Christmas Tree Cakes 2026 Lineup"
-description: "Little Debbie's 2026 Christmas snacks roll out to grocery, mass and convenience stores mid-October to mid-December; Hot Cocoa Mini Muffins are new, it said."
+title: "Little Debbie Christmas Tree Cakes 2026: Mid-October Rollout"
+description: "Little Debbie Christmas Tree Cakes 2026 roll out mid-October through mid-December, the company said. Every new and returning snack is in one table."
 type: news
 publishedAt: "2026-11-05T16:40:00-05:00"
 updatedAt: "2026-11-05T16:40:00-05:00"

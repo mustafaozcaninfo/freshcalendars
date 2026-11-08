@@ -1,6 +1,6 @@
 ---
 title: "Wordle #1979 Hints & Answer Today, November 19, 2026"
-description: "Wordle #1979 for Thursday, Nov. 19, 2026: five graded clues, then how the answer's letters line up with every past answer, with two near misses by position."
+description: "Wordle #1979 hints for Thursday, Nov. 19, 2026: five graded clues, then the answer's letters compared with every past answer, two near misses."
 type: explainer
 publishedAt: "2026-11-18T00:05:00-05:00"
 updatedAt: "2026-11-18T00:05:00-05:00"

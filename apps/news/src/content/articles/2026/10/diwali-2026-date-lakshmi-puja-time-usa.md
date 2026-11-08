@@ -1,6 +1,5 @@
 ---
-title: "Diwali 2026 in the USA Is Sunday, Nov. 8: Lakshmi Puja Time in Your Time Zone"
-seoTitle: "Diwali 2026 USA: Nov. 8 Date and Lakshmi Puja Time"
+title: "Diwali 2026 Date: Sunday, Nov. 8, Lakshmi Puja Time by City"
 description: "When is Diwali 2026 in the United States (USA)? Sunday, Nov. 8. Lakshmi Puja times for your U.S. city, then Govardhan Puja Nov. 9 and Bhai Dooj Nov. 10."
 type: explainer
 publishedAt: "2026-10-19T07:45:00-04:00"

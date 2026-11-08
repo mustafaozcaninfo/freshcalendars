@@ -1,7 +1,6 @@
 ---
-title: "Houston ISD Calendar 2026-27: Winter Recess Dec. 21-31, Spring Recess March 8-12 and Last Day May 28"
-seoTitle: "Houston ISD Calendar 2026-27: Breaks and Days Off"
-description: "Houston Independent School District (ISD) 2026-27: no classes Nov. 6, Thanksgiving recess Nov. 23-27, winter recess Dec. 21-31, spring recess March 8-12."
+title: "Houston ISD Calendar 2026-27: Winter Recess Dec. 21-31, Ends May 28"
+description: "Houston Independent School District (ISD) 2026-27: winter recess Dec. 21-31, spring recess March 8-12, last day May 28. Adds the March 26 recess."
 type: news
 publishedAt: "2026-10-26T14:45:00-04:00"
 authors: [aaron-kessler]

@@ -1,7 +1,6 @@
 ---
-title: "NFL Week 15 Schedule 2026: Two Saturday Games, No Byes and a Printable Pick'em Sheet"
-seoTitle: "NFL Week 15 Schedule 2026: Saturday Games, Pick'em"
-description: "National Football League (NFL) Week 15 runs Dec. 17 to 21, 2026: 16 games, no byes, two Saturday games, Eastern Time (ET) kickoffs and a pick'em sheet."
+title: "NFL Week 15 Schedule 2026: Two Saturday Games on Dec. 19"
+description: "NFL Week 15 schedule 2026: 16 games Dec. 17 to 21, no byes, and two Saturday games on Dec. 19. ET kickoffs, rest days and a free printable pick'em sheet."
 type: news
 publishedAt: "2026-11-02T06:10:00-05:00"
 updatedAt: "2026-11-05T09:22:00-05:00"

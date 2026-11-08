@@ -1,7 +1,6 @@
 ---
-title: "St. Nicholas Day 2026: Sunday, Dec. 6, and the Eve on Saturday, Dec. 5"
-seoTitle: "St. Nicholas Day 2026: Sun., Dec. 6"
-description: "St. Nicholas Day 2026 is Sunday, Dec. 6, and the United States Conference of Catholic Bishops (USCCB) does not list him that day; the eve is Saturday, Dec. 5."
+title: "St. Nicholas Day 2026: Sunday, Dec. 6, Eve on Dec. 5"
+description: "St. Nicholas Day 2026 is Sunday, Dec. 6, with the eve on Saturday, Dec. 5. Why U.S. Catholic calendars skip him that day, and the Sinterklaas date."
 type: explainer
 publishedAt: "2026-11-03T06:00:00-05:00"
 authors: [christina-gerland]

@@ -1,7 +1,6 @@
 ---
-title: "Outback Steakhouse Closing Locations 2026: Named Closures, Counts and Out West Bankruptcy"
-seoTitle: "Outback Steakhouse Closing Locations 2026: What's Confirmed"
-description: "Outback Steakhouse closing locations in 2026: closures named by newsrooms, Bloomin' Brands' count of 659 U.S. restaurants and the Out West bankruptcy of 61."
+title: "Outback Steakhouse Closing Locations 2026: Five Named Closures"
+description: "Outback Steakhouse closing locations in 2026: five closures named by newsrooms, Bloomin' Brands' count of 659 U.S. restaurants and the Out West bankruptcy."
 type: news
 publishedAt: "2026-11-05T02:10:00-05:00"
 updatedAt: "2026-11-05T02:10:00-05:00"

@@ -1,7 +1,6 @@
 ---
-title: "Christmas Horse Racing 2026: King George VI Chase Dec. 26, Welsh Grand National Dec. 28"
-seoTitle: "Christmas Racing 2026: King George VI Chase Time"
-description: "The King George VI Chase is Dec. 26, 2026 at 2:30 p.m. UK time, 9:30 a.m. Eastern Time (ET), says Kempton Park. The Welsh Grand National moves to Dec. 28."
+title: "Christmas Horse Racing 2026: King George VI Chase at 9:30 a.m. ET"
+description: "The King George VI Chase is Dec. 26, 2026 at 2:30 p.m. UK time, 9:30 a.m. ET. The Welsh Grand National moves to Dec. 28; racing runs Dec. 26 to 29."
 type: news
 publishedAt: "2026-11-08T06:00:00-05:00"
 updatedAt: "2026-11-08T06:00:00-05:00"

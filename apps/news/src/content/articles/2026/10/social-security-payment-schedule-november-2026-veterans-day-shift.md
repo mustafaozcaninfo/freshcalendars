@@ -1,7 +1,6 @@
 ---
-title: "Social Security Payment Schedule November 2026: Nov. 10 Payment Moves Up for Veterans Day"
-seoTitle: "Social Security Schedule November 2026: Nov. 10 Shift"
-description: "The Social Security Administration (SSA) pays the 1st-to-10th birthday group Tuesday, Nov. 10, 2026, a day early for Veterans Day. November and December dates."
+title: "Social Security Payment Schedule November 2026: Nov. 10 Is Early"
+description: "Social Security pays the 1st-to-10th birthday group Tuesday, Nov. 10, 2026, a day early for Veterans Day. Also Nov. 3, 18 and 25, plus December dates."
 type: news
 publishedAt: "2026-10-28T18:00:00-04:00"
 authors: [aaron-kessler]

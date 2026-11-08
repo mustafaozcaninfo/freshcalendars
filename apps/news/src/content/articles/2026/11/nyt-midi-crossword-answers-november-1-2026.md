@@ -1,6 +1,5 @@
 ---
-title: "NYT Midi Crossword Answers and Hints for Sunday, Nov. 1, 2026: Midi Golf"
-seoTitle: "NYT Midi Crossword Answers Today, Nov. 1, 2026"
+title: "NYT Midi Crossword Answers Today, November 1, 2026"
 description: "The New York Times (NYT) Midi Crossword for Sunday, Nov. 1, 2026: a hint for each of the 36 clues on Rebecca Goldstein's 10-by-10 grid, then the answers."
 type: explainer
 publishedAt: "2026-11-01T15:20:00-05:00"

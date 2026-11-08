@@ -1,7 +1,6 @@
 ---
-title: "NBA Games Today: Friday, Oct. 30, 2026 Schedule, Tip-Off Times and TV"
-seoTitle: "NBA Games Today, Oct. 30, 2026: Times and TV"
-description: "National Basketball Association (NBA) games Friday, Oct. 30, 2026: 10 games, first tip-off 7:00 p.m. Eastern Time (ET), on NBA Cup group play opening night."
+title: "NBA Games Today, Oct. 30, 2026: 10 Games on NBA Cup Opening Night"
+description: "NBA games today, Oct. 30, 2026: 10 games, first tip-off 7:00 p.m. ET. Knicks at 76ers and Lakers at Warriors are on Prime Video; times, TV and score sheet."
 type: news
 publishedAt: "2026-10-29T17:40:00-04:00"
 authors: [jessica-hartwell]

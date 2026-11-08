@@ -1,7 +1,6 @@
 ---
-title: "New Laws That Took Effect November 1, 2026: Oklahoma Collision Reports, Taxes and More"
-seoTitle: "New Laws Effective Nov. 1, 2026: Oklahoma and More"
-description: "Oklahoma has most of the laws that took effect Sunday, Nov. 1, 2026, per state agency pages. Table of 13 laws, the collision report change and a printable."
+title: "New Laws Effective Nov. 1, 2026: 13 Laws, Mostly Oklahoma"
+description: "Laws that took effect Sunday, Nov. 1, 2026: 11 of 13 confirmed ones are in Oklahoma, including the $3,000 collision report threshold. Printable list."
 type: news
 publishedAt: "2026-10-31T15:45:00-04:00"
 updatedAt: "2026-11-02T14:10:00-05:00"

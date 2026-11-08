@@ -1,7 +1,6 @@
 ---
-title: "Weekends Until Christmas 2026: 7 Full Weekends, Nov. 7 to Dec. 20, With Mail Deadlines"
-seoTitle: "Weekends Until Christmas 2026: 7 Full Weekends"
-description: "Seven full weekends fall before Christmas Day, Fri., Dec. 25, 2026. See what is due and what falls on each, with U.S. Postal Service (USPS) send-by dates."
+title: "Weekends Until Christmas 2026: 7 Full Weekends, Nov. 7 to Dec. 20"
+description: "There are 7 full weekends until Christmas 2026, Nov. 7-8 to Dec. 19-20. A table lists each weekend's events and USPS send-by dates."
 type: explainer
 publishedAt: "2026-10-31T17:55:00-04:00"
 updatedAt: "2026-11-02T14:10:00-05:00"

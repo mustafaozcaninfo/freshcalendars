@@ -1,7 +1,6 @@
 ---
-title: "Waffle Answer and Hints Today, #1748 for Wednesday, Nov. 4, 2026: Clues for Six Words"
-seoTitle: "Waffle Answer & Hints Today, #1748 (Nov. 4, 2026)"
-description: "Waffle #1748 for Wednesday, Nov. 4, 2026: a clue for each of the six words, then the answers in a marked spoiler section, with the starting and solved grids."
+title: "Waffle #1748 Hints & Answers Today, November 4, 2026"
+description: "Waffle answer and hints today, #1748 for Wednesday, Nov. 4, 2026. A clue for each of the six words, plus starting and solved grids in a spoiler section."
 type: explainer
 publishedAt: "2026-11-04T07:45:00-05:00"
 updatedAt: "2026-11-04T07:45:00-05:00"

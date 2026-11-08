@@ -1,6 +1,5 @@
 ---
-title: "NYT Mini Crossword Answers and Hints for Monday, Oct. 26, 2026: All 11 Clues on a Wide Six-Column Grid"
-seoTitle: "NYT Mini Crossword Answers Today, Oct. 26, 2026"
+title: "NYT Mini Crossword Answers Today, October 26, 2026"
 description: "The New York Times Mini Crossword for Oct. 26, 2026: a hint for each of the 11 clues on a six-by-five grid, then every Across and Down answer at the end."
 type: explainer
 publishedAt: "2026-10-26T04:20:00-04:00"

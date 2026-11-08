@@ -1,7 +1,6 @@
 ---
-title: "Is Election Day a Holiday? Is the DMV, Bank or Post Office Open?"
-seoTitle: "Is Election Day a Holiday? DMV, Bank, Post Office Hours"
-description: "Election Day is not a federal holiday, so banks and the post office stay open. Which states close offices for state workers, plus time off to vote and schools."
+title: "Is the DMV Open on Election Day 2026? Not a Federal Holiday"
+description: "Election Day was not a federal holiday, so banks and the post office stayed open Nov. 3, 2026. Six states list it as a state holiday; time off to vote."
 type: explainer
 publishedAt: "2026-10-20T10:50:00-04:00"
 updatedAt: "2026-11-05T03:22:58-05:00"

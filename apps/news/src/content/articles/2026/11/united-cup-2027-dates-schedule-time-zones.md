@@ -1,7 +1,6 @@
 ---
-title: "United Cup 2027: Jan. 1-10 in Perth and Sydney, Schedule by Round and Time Zone"
-seoTitle: "United Cup 2027 Dates, Schedule and Time Zones"
-description: "The United Cup 2027 runs Jan. 1-10 in Perth and Sydney; the draw is Nov. 12. See 2026 start times in Eastern Time (ET) and Pacific Time (PT)."
+title: "United Cup 2027: Jan. 1-10 in Perth and Sydney, Draw Nov. 12"
+description: "The United Cup 2027 runs Jan. 1-10 in Perth and Sydney; the draw is Nov. 12. Schedule by round, plus 2026 start times converted to ET and Pacific Time."
 type: explainer
 publishedAt: "2026-11-04T06:50:00-05:00"
 authors: [jessica-hartwell]

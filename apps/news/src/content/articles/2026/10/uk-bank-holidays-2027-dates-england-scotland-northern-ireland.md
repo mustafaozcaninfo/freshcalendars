@@ -1,7 +1,6 @@
 ---
-title: "UK Bank Holidays 2027: Printable List of Every Date for England, Scotland and Northern Ireland"
-seoTitle: "UK Bank Holidays 2027: Printable List and Dates"
-description: "UK bank holidays 2027: eight in England and Wales, nine in Scotland, 10 in Northern Ireland. Free printable calendar, and Easter is early on March 26-29."
+title: "Bank Holidays 2027: UK Dates and Free Printable List"
+description: "Bank holidays 2027 in the UK: eight in England and Wales, nine in Scotland, 10 in Northern Ireland. A free printable list, with Easter on March 26-29."
 type: explainer
 publishedAt: "2026-10-19T10:50:00-04:00"
 updatedAt: "2026-10-24T00:50:00-04:00"

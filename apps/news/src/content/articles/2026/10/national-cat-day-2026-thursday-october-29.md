@@ -1,7 +1,6 @@
 ---
-title: "National Cat Day 2026 Was Thursday, Oct. 29: Origin, Shelter Numbers and Dates Through 2030"
-seoTitle: "National Cat Day 2026, Thursday Oct. 29: Origin, Facts"
-description: "National Cat Day was Thursday, Oct. 29, 2026, founded in 2005. American Society for the Prevention of Cruelty to Animals (ASPCA) shelter data and dates to 2030."
+title: "National Cat Day 2026: Oct. 29, Shelter Numbers and Dates to 2030"
+description: "Cat Day 2026 was Thursday, Oct. 29, founded in 2005. American Society for the Prevention of Cruelty to Animals (ASPCA) shelter data and dates to 2030."
 type: explainer
 publishedAt: "2026-10-28T05:42:00-04:00"
 updatedAt: "2026-11-02T14:10:00-05:00"

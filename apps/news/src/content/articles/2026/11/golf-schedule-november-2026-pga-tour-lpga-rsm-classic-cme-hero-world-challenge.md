@@ -1,7 +1,6 @@
 ---
-title: "Golf Schedule November 2026: PGA Tour and LPGA Dates, RSM Classic and CME Group"
-seoTitle: "Golf Schedule November 2026: PGA Tour and LPGA Dates"
-description: "November 2026 golf: Professional Golfers' Association (PGA) Tour and Ladies Professional Golf Association (LPGA) dates from Nov. 5 to Dec. 6."
+title: "Golf Schedule November 2026: PGA Tour and LPGA Dates Nov. 5-Dec. 6"
+description: "November 2026 golf schedule: men's and women's pro events from Nov. 5 to Dec. 6, including the RSM Classic and CME Group Tour Championship on Nov. 19-22."
 type: news
 publishedAt: "2026-11-01T08:46:00-05:00"
 authors: [jessica-hartwell]

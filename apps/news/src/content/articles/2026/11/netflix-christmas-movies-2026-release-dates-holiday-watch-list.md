@@ -1,7 +1,6 @@
 ---
-title: "Netflix Christmas Movies 2026: Every Holiday Title Dated for November and December"
-seoTitle: "Netflix Christmas Movies 2026: Release Dates"
-description: "Netflix's Oct. 31 list dates 32 holiday titles from Nov. 1 to 28, 2026, and Tudum lists In a Holidaze for Dec. 2. See each date and print the watch list."
+title: "Netflix Christmas Movies 2026: 32 Holiday Titles Dated Nov. 1-28"
+description: "Netflix Christmas movies 2026: 32 holiday titles are dated Nov. 1 to 28, and In a Holidaze is Dec. 2. Each date by week, plus a printable watch list."
 type: news
 publishedAt: "2026-11-01T10:45:00-05:00"
 updatedAt: "2026-11-02T14:10:00-05:00"

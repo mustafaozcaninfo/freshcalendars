@@ -1,7 +1,6 @@
 ---
-title: "How to Count a Court Deadline: Federal Rule 6 and the Weekend Rule"
-seoTitle: "How to Count Court Deadline Days: Federal Rule 6"
-description: "Federal Rule of Civil Procedure (FRCP) 6(a): skip the trigger day, count every day, and move a weekend or holiday last day ahead. 2027 examples inside."
+title: "Court Deadline Days: Federal Rule 6(a), With 2027 Examples"
+description: "Federal Rule of Civil Procedure (FRCP) 6(a): skip the trigger day, count every day, and roll a weekend or holiday last day ahead. Rule 6(d) adds 3 days."
 type: explainer
 publishedAt: "2026-11-04T15:10:00-05:00"
 authors: [jessica-hartwell]

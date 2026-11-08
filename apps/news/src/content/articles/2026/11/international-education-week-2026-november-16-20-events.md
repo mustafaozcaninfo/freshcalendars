@@ -1,7 +1,6 @@
 ---
-title: "International Education Week 2026: Nov. 16-20 Dates, Hashtags and Toolkit"
-seoTitle: "International Education Week 2026: Nov. 16-20"
-description: "International Education Week (IEW) 2026 runs Nov. 16-20, says the Association of International Educators (NAFSA), with two hashtags and a toolkit."
+title: "International Education Week 2026: Nov. 16-20, Hashtags, Toolkit"
+description: "International Education Week (IEW) 2026 is Nov. 16-20, says the Association of International Educators (NAFSA). Two hashtags, a toolkit, a campus planner."
 type: news
 publishedAt: "2026-11-08T09:30:00-05:00"
 updatedAt: "2026-11-08T09:30:00-05:00"

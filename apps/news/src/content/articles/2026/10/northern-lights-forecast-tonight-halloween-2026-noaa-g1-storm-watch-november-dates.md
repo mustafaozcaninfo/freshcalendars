@@ -1,7 +1,6 @@
 ---
-title: "Northern Lights in November 2026: After the Halloween G1 Storm, the Kp 4 Dates to Watch"
-seoTitle: "Northern Lights November 2026: Next Kp 4 Dates"
-description: "The National Oceanic and Atmospheric Administration (NOAA) forecast a G1 (Minor) storm on Halloween; here are the next northern lights dates in November 2026."
+title: "Northern Lights in November 2026: Next Dates Nov. 9, 17 and 18"
+description: "The next northern lights dates in November 2026 are Nov. 9, 17 and 18, each with a planetary K-index of 4 in the 27-day outlook, after Halloween's storm."
 type: news
 publishedAt: "2026-10-31T01:42:00-04:00"
 updatedAt: "2026-11-02T14:10:00-05:00"

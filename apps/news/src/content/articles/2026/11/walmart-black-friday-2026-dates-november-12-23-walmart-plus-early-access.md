@@ -1,7 +1,6 @@
 ---
-title: "Walmart Black Friday 2026: Deals Start Nov. 12 and Nov. 23, Walmart+ Early Access Times"
-seoTitle: "Walmart Black Friday 2026: Dates and Early Access"
-description: "Walmart's three 2026 events start Nov. 12, 23 and 30 at 12:01 a.m. Eastern Time (ET) online, with Walmart+ early access. Nov. 27 stores open at 6 a.m."
+title: "Walmart Black Friday 2026 Starts Nov. 23; Early Deals Nov. 12"
+description: "Walmart Black Friday 2026 deals start Nov. 23 at 12:01 a.m. ET online, with early deals Nov. 12. Walmart+ access times, a time zone table and a printable."
 type: news
 publishedAt: "2026-10-31T23:41:00-04:00"
 updatedAt: "2026-11-03T09:22:00-05:00"

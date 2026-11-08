@@ -1,7 +1,6 @@
 ---
-title: "Quordle Hints and Answers Today, #1743 for Monday, Nov. 2, 2026: Clues for All Words"
-seoTitle: "Quordle Hints & Answers Today, Nov. 2, 2026 (#1743)"
-description: "Quordle #1743 for Monday, Nov. 2, 2026: a clue for each of the four words, a starter strategy, then all answers in a marked spoiler section at the very end."
+title: "Quordle #1743 Hints & Answers Today, November 2, 2026"
+description: "Quordle hints for #1743, Monday, Nov. 2, 2026: a clue for each of the four words, grouped by last letter, plus a strategy and spoiler-marked answers."
 type: explainer
 publishedAt: "2026-11-02T07:25:00-05:00"
 updatedAt: "2026-11-02T07:25:00-05:00"

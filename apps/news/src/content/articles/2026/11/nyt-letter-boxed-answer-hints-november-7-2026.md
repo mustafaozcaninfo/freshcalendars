@@ -1,7 +1,6 @@
 ---
-title: "NYT Letter Boxed Hints and Answer for Saturday, Nov. 7, 2026: A Hard X and Only One Two-Word Route"
-seoTitle: "NYT Letter Boxed Nov. 7, 2026: Hints, X Counts, Answer"
-description: "Letter Boxed from The New York Times (NYT) for Saturday, Nov. 7, 2026, par 6: word counts for every letter, one two-word route, five hints, then the answer."
+title: "Letter Boxed Hints & Answer Today, November 7, 2026"
+description: "Letter Boxed from The New York Times (NYT) for Saturday, Nov. 7, 2026, par 6: word counts per letter, one two-word route, five hints, then the answer."
 type: explainer
 publishedAt: "2026-11-06T00:05:00-05:00"
 authors: [news-desk]

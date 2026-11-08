@@ -1,7 +1,6 @@
 ---
-title: "Veterans Day Printables 2026: Free Activity Sheet, Quiz and the VA's 2026 Poster"
-seoTitle: "Veterans Day Printables 2026: Sheet, Quiz, Poster"
-description: "Veterans Day is Wed., Nov. 11, 2026. Print our free activity sheet and quiz, then get the Department of Veterans Affairs (VA) poster and teacher guide."
+title: "Veterans Day Printables 2026: Activity Sheet, Quiz, 32-Page Guide"
+description: "Veterans Day printables 2026: a free activity sheet with a quiz and thank-you note, plus the Department of Veterans Affairs (VA) poster and teacher guide."
 type: explainer
 publishedAt: "2026-11-04T15:48:00-05:00"
 updatedAt: "2026-11-04T15:48:00-05:00"

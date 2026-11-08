@@ -1,7 +1,6 @@
 ---
-title: "Texas Election Calendar 2026: Early Voting Ended Oct. 30, Election Day Is Nov. 3"
-seoTitle: "Texas Early Voting Ended Oct. 30; Election Day Nov. 3"
-description: "Texas early voting ended Friday, Oct. 30, 2026, and polls are open 7 a.m. to 7 p.m. on Election Day, Tuesday, Nov. 3. Every 2026 date, with a printable."
+title: "Texas Election Calendar 2026: Early Voting Ran Oct. 19-30"
+description: "Texas election calendar 2026: early voting ran Oct. 19-30 and Election Day was Nov. 3. Every 2026 date, from the March 3 primary to Dec. 12 local runoffs."
 type: news
 publishedAt: "2026-10-21T15:30:00-04:00"
 updatedAt: "2026-11-02T14:10:00-05:00"

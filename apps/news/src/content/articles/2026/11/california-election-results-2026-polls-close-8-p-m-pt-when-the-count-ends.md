@@ -1,7 +1,6 @@
 ---
-title: "California Election Results 2026: Polls Close at 8 p.m. PT, and Counting Can Run to Dec. 3"
-seoTitle: "California Election Results 2026: Times and Count Dates"
-description: "California polls close at 8 p.m. Pacific Time (PT), 11 p.m. Eastern Time (ET), on Nov. 3, 2026. Where results post, how long counting runs and key dates."
+title: "California Polls Close Time 2026: 8 p.m. PT, Count to Dec. 3"
+description: "California polls closed at 8 p.m. Pacific Time (PT), 11 p.m. ET, Nov. 3, 2026. Where results post, a day-by-day count timeline and the Dec. 3 deadline."
 type: explainer
 publishedAt: "2026-11-02T13:14:00-05:00"
 updatedAt: "2026-11-05T07:45:00-05:00"

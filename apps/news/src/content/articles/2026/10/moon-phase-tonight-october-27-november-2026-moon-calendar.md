@@ -1,7 +1,6 @@
 ---
-title: "Moon Phase Nov. 2, 2026: Waning Crescent, 41% Lit, Plus a Daily Moon Calendar to Nov. 30"
-seoTitle: "Moon Phase Tonight and November 2026 Moon Calendar"
-description: "On Nov. 2, 2026 the Moon is a waning crescent, 41% lit, with no moonrise that date in New York, says the U.S. Naval Observatory (USNO). Calendar to Nov. 30."
+title: "Moon Phase Tonight: November 2026 Calendar, New Moon Nov. 9"
+description: "Moon phase tonight, November 2026: new moon Nov. 9 at 2:02 a.m. EST, full Beaver Moon Nov. 24. Daily moonrise, moonset and percent lit for New York."
 type: explainer
 publishedAt: "2026-10-27T13:44:00-04:00"
 updatedAt: "2026-11-08T06:38:00-05:00"

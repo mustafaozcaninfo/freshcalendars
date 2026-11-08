@@ -1,7 +1,6 @@
 ---
-title: "Anne Arundel County Public Schools (AACPS) Calendar 2026-27: Breaks and Holidays"
-seoTitle: "AACPS Calendar 2026-27: Breaks and Holidays"
-description: "Anne Arundel County Public Schools (AACPS) 2026-27: students are off Nov. 23-27, Dec. 24-31 and Mar. 26-Apr. 2, 2027. The last day is Fri., June 11, 2027."
+title: "AACPS Calendar 2026-27: Thanksgiving Week Off, Last Day June 11"
+description: "Anne Arundel County Public Schools (AACPS) 2026-27: off Nov. 23-27, Dec. 24-31 and Mar. 26-Apr. 2, 2027. Last day is June 11; three make-up days included."
 type: explainer
 publishedAt: "2026-11-04T06:30:00-05:00"
 authors: [aaron-kessler]

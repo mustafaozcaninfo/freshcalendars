@@ -1,7 +1,6 @@
 ---
-title: "2027 Monthly Budget Planner: Printable Bill Calendar With Tax Dates and Paydays"
-seoTitle: "2027 Monthly Budget Planner Printable With Tax Dates"
-description: "Printable 2027 monthly budget planner with Internal Revenue Service (IRS) tax dates and three-paycheck months filled in, plus blank lines for income and bills."
+title: "Budget Planner 2027 Printable: Monthly Bill Calendar With Tax Dates"
+description: "Free printable budget planner 2027 with IRS tax dates and three-paycheck months filled in, plus blank lines for income and bills."
 type: explainer
 publishedAt: "2026-11-04T07:45:00-05:00"
 authors: [aaron-kessler]

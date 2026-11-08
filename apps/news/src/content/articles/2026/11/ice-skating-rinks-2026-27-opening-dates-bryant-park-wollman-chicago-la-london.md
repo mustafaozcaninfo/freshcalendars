@@ -1,6 +1,5 @@
 ---
-title: "Ice Skating Rinks 2026-27: Wollman, Bryant Park, Maggie Daley, Los Angeles, London Dates"
-seoTitle: "Ice Skating Rinks 2026-27: Opening Dates and Prices"
+title: "Ice Skating Rinks 2026-27: Bryant Park Oct. 28, Chicago Nov. 13"
 description: "Wollman Rink and the Bryant Park rink opened Wed., Oct. 28, 2026; Somerset House opens Nov. 11 and Maggie Daley Ice Ribbon Nov. 13, per each rink's site."
 type: news
 publishedAt: "2026-11-01T22:43:00-05:00"

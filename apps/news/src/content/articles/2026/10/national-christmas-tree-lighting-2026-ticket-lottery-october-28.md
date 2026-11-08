@@ -1,7 +1,6 @@
 ---
-title: "National Christmas Tree Lighting 2026: Free Ticket Lottery Opens Oct. 28, Ceremony Dec. 3"
-seoTitle: "National Christmas Tree Lighting 2026: Ticket Lottery Dates"
-description: "The National Park Service (NPS) free National Christmas Tree ticket lottery is open now through 3 p.m. Eastern Time (ET) Nov. 4; the ceremony is Dec. 3."
+title: "National Christmas Tree Lighting 2026: Dec. 3, Lottery Winners Nov. 12"
+description: "The National Christmas Tree lighting is Thursday, Dec. 3, 2026, on the Ellipse. The free ticket lottery closed Nov. 4; winners are notified Nov. 12."
 type: news
 publishedAt: "2026-10-25T15:19:00-04:00"
 updatedAt: "2026-10-31T15:50:00-04:00"

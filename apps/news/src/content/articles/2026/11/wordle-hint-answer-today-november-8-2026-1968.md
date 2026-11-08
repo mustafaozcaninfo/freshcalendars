@@ -1,6 +1,5 @@
 ---
-title: "Wordle #1968, Sunday, Nov. 8, 2026: Six Hints and a Repeat Answer Check"
-seoTitle: "Wordle #1968 Hints, Sunday Nov. 8, 2026 and Answer"
+title: "Wordle #1968 Hints & Answer Today, November 8, 2026"
 description: "Wordle #1968 for Sunday, Nov. 8, 2026: six hints on letters and meaning, then the answer and a check of whether the same word came up in an earlier puzzle."
 type: explainer
 publishedAt: "2026-11-07T00:05:00-05:00"

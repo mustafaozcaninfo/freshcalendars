@@ -1,7 +1,6 @@
 ---
-title: "Florida Amendments 2026: The 3 Measures on the Nov. 3 Ballot, a U.S. Senate Special and Key Dates"
-seoTitle: "Florida Amendments 2026 and the Senate Special"
-description: "Florida's Nov. 3, 2026 ballot has three amendments that each need 60%, a U.S. Senate special election and an open race for governor. Dates and rules."
+title: "Florida Amendments 2026: 3 Measures Need 60%, Plus Senate Special"
+description: "Florida's 2026 amendments on the Nov. 3 ballot: three measures that each need 60% to pass, plus a U.S. Senate special election and an open governor race."
 type: explainer
 publishedAt: "2026-10-20T11:10:00-04:00"
 updatedAt: "2026-11-02T14:10:00-05:00"

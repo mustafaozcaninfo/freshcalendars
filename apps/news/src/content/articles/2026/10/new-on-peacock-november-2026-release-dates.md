@@ -1,7 +1,6 @@
 ---
-title: "New on Peacock November 2026: The Good Daughter on Nov. 12 and Dig on Nov. 23, Every Date"
-seoTitle: "New on Peacock November 2026: Full Dated List"
-description: "Peacock lists The Good Daughter for Nov. 12, Nelly & Ashanti season 2 for Nov. 19 and Dig for Nov. 23, 2026. See every date by weekday and a free printable."
+title: "Coming to Peacock November 2026: The Good Daughter on Nov. 12"
+description: "Peacock lists The Good Daughter for Nov. 12, Nelly & Ashanti season 2 for Nov. 19 and Dig for Nov. 23, 2026. Dates by weekday, plus a free printable."
 type: news
 publishedAt: "2026-10-29T21:39:00-04:00"
 updatedAt: "2026-11-02T14:10:00-05:00"

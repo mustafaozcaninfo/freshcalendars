@@ -1,7 +1,6 @@
 ---
-title: "Voter ID on the Ballot 2026: North Carolina, Ohio, Arizona, Nevada and Colorado Compared"
-seoTitle: "Voter ID Amendment 2026: 5 States Compared"
-description: "Voters in five states decide voter ID measures on Nov. 3, 2026: North Carolina, Ohio, Arizona, Nevada and Colorado. Compare each, plus the federal rule."
+title: "Voter ID on the Ballot 2026: Five States Compared in One Table"
+description: "Voter ID on the ballot 2026: North Carolina, Ohio, Arizona, Nevada and Colorado voted on Nov. 3. One table compares each measure, plus the federal rule."
 type: explainer
 publishedAt: "2026-10-31T14:20:00-04:00"
 authors: [christina-gerland]

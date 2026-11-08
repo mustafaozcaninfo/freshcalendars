@@ -1,7 +1,6 @@
 ---
-title: "When Is Election Day 2026 in Pennsylvania? Tuesday, Nov. 3, and the Oct. 27 Mail Ballot Deadline"
-seoTitle: "Election Day 2026 in Pennsylvania: Tuesday, Nov. 3"
-description: "Election Day 2026 in Pennsylvania is Tuesday, Nov. 3; polls open 7 a.m. to 8 p.m. The mail ballot application deadline has passed; ballots must arrive by 8 p.m."
+title: "Election Day 2026 in Pennsylvania: Nov. 3, Polls 7 a.m.-8 p.m."
+description: "Election Day 2026 in Pennsylvania was Tuesday, Nov. 3, with polls open 7 a.m. to 8 p.m. Mail ballot deadlines, the Oct. 19 registration date and ID rules."
 type: explainer
 publishedAt: "2026-10-20T11:20:00-04:00"
 updatedAt: "2026-10-28T16:12:00-04:00"

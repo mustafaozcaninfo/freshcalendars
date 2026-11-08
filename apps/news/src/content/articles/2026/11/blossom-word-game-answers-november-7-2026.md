@@ -1,6 +1,5 @@
 ---
-title: "Blossom Word Game Answers and Hints for Saturday, Nov. 7, 2026: Letters and Pangrams"
-seoTitle: "Blossom Answers Today, Nov. 7, 2026: Pangrams"
+title: "Blossom Hints & Answers Today, November 7, 2026"
 description: "Blossom for Saturday, Nov. 7, 2026 from Merriam-Webster: center letter D, six petals, two pangrams that are anagrams and 16 long words, with answers last."
 type: explainer
 publishedAt: "2026-11-07T07:20:00-05:00"

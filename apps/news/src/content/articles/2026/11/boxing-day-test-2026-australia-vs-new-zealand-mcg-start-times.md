@@ -1,7 +1,6 @@
 ---
-title: "Boxing Day Test 2026: Australia vs New Zealand at the MCG, Start Times in US and UK"
-seoTitle: "Boxing Day Test 2026: Start Times in US and UK"
-description: "The Boxing Day Test at the Melbourne Cricket Ground (MCG) starts Sat., Dec. 26, 2026 at 10:30 a.m. local time, 6:30 p.m. Eastern Time (ET) on Fri., Dec. 25."
+title: "Boxing Day Test 2026 Start Time: 6:30 p.m. ET on Dec. 25"
+description: "The Boxing Day Test 2026 starts Sat., Dec. 26 at 10:30 a.m. local time in Melbourne, 6:30 p.m. ET on Dec. 25. Times for all four Tests and a printable."
 type: explainer
 publishedAt: "2026-11-03T11:02:00-05:00"
 updatedAt: "2026-11-03T11:02:00-05:00"

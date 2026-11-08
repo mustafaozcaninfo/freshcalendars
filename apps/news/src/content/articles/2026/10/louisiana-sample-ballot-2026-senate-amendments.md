@@ -1,7 +1,6 @@
 ---
-title: "Louisiana Sample Ballot 2026: How to See Yours, the U.S. Senate Race and All 10 Amendments on Nov. 3"
-seoTitle: "Louisiana Sample Ballot 2026: Senate and 10 Amendments"
-description: "Find your Louisiana sample ballot for Nov. 3, 2026 by name or address, with the U.S. Senate candidates, 10 constitutional amendments, House primaries and dates."
+title: "Louisiana Sample Ballot 2026: Senate Race and 10 Amendments"
+description: "Louisiana sample ballot for Nov. 3, 2026: a U.S. Senate race, 10 amendments and House primaries. Look yours up by name or address; printable checklist."
 type: news
 publishedAt: "2026-10-22T14:13:00-04:00"
 updatedAt: "2026-11-02T14:10:00-05:00"

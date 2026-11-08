@@ -1,7 +1,6 @@
 ---
-title: "Seasons 2027: First Day of Spring, Summer, Fall and Winter With Exact Times"
-seoTitle: "Seasons 2027: Equinox and Solstice Dates, Times"
-description: "Spring 2027 starts Mar. 20 at 20:25 Coordinated Universal Time (UTC), 4:25 p.m. Eastern Time (ET), per the U.S. Naval Observatory (USNO). All four seasons here."
+title: "Seasons 2027: Equinox and Solstice Dates, Spring Mar. 20"
+description: "Spring 2027 starts Mar. 20 at 4:25 p.m. ET; summer Jun. 21, fall Sep. 23, winter Dec. 21 in Eastern time. Times for U.S. zones and London."
 type: explainer
 publishedAt: "2026-11-04T22:43:00-05:00"
 authors: [jessica-hartwell]

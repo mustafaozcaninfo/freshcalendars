@@ -1,7 +1,6 @@
 ---
-title: "National School Psychology Week 2026: Nov. 9-13, With the 'Inspire Connection' Theme"
-seoTitle: "National School Psychology Week 2026: Nov. 9-13"
-description: "National School Psychology Week 2026 runs Nov. 9-13, says the National Association of School Psychologists (NASP). The theme is Inspire Connection."
+title: "National School Psychology Week 2026: Nov. 9-13, Next Year Nov. 1-5"
+description: "National School Psychology Week 2026 runs Nov. 9-13, says the National Association of School Psychologists (NASP). Theme is Inspire Connection."
 type: news
 publishedAt: "2026-11-08T06:58:00-05:00"
 updatedAt: "2026-11-08T06:58:00-05:00"

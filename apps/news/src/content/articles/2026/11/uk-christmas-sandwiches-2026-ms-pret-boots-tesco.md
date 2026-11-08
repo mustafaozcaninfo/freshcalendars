@@ -1,7 +1,6 @@
 ---
-title: "Christmas Sandwiches 2026: Tesco and Aldi Prices, Greggs and Costa Dates, Others Pending"
-seoTitle: "Christmas Sandwiches 2026: Tesco, Aldi, Greggs, Costa"
-description: "Tesco's Christmas meal deal is £3.85 with a Clubcard from 12 October and Aldi's sandwiches start at £1.99 from 14 October. Greggs and Costa began on 22 October."
+title: "Christmas Sandwiches 2026: Tesco Meal Deal £3.85, Aldi £1.99"
+description: "Christmas sandwiches 2026: Tesco's meal deal is £3.85 with a Clubcard and Aldi's start at £1.99. Greggs and Costa began on 22 October. Printable table."
 type: news
 publishedAt: "2026-11-04T15:00:00-05:00"
 updatedAt: "2026-11-04T15:00:00-05:00"

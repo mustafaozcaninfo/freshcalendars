@@ -1,7 +1,6 @@
 ---
-title: "SALT Deduction Cap 2026: $40,400, the $505,000 Phase-Out and a Table by Income"
-seoTitle: "SALT Deduction Cap 2026: $40,400 and Phase-Out"
-description: "The 2026 state and local tax (SALT) deduction cap is $40,400, per the Internal Revenue Service (IRS), and shrinks above $505,000 of income to a $10,000 floor."
+title: "SALT Deduction Cap 2026: $40,400, Phase-Out Above $505,000"
+description: "The 2026 state and local tax (SALT) deduction cap is $40,400, shrinking above $505,000 of income to $10,000. A table shows the cap at six income levels."
 type: explainer
 publishedAt: "2026-11-07T08:38:00-05:00"
 updatedAt: "2026-11-07T08:38:00-05:00"

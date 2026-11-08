@@ -1,7 +1,6 @@
 ---
-title: "Williamson County Schools Calendar 2026-27: Fall Break, Winter Break and Spring Break"
-seoTitle: "Williamson County Schools Calendar 2026-27"
-description: "Williamson County Schools (WCS) in Franklin, Tenn., has no school Nov. 23-27, Dec. 21-Jan. 4 and Mar. 15-19, 2027; the last day is May 27, 2027."
+title: "Williamson County Schools Calendar 2026-27: Last Day May 27"
+description: "Williamson County Schools calendar 2026-27: no school Nov. 23-27, Dec. 21-Jan. 4 and Mar. 15-19; last day May 27, 2027. Our table counts weekdays off."
 type: news
 publishedAt: "2026-11-07T14:38:00-05:00"
 updatedAt: "2026-11-07T14:38:00-05:00"

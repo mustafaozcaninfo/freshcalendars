@@ -1,7 +1,6 @@
 ---
-title: "Brewers World Series Parade 2026: Time, Start Point, Rally and Shuttles on Friday, Oct. 30"
-seoTitle: "Brewers Parade 2026: Time, Route, Rally, Shuttles"
-description: "The Brewers' Parade of Champions was Friday, Oct. 30, 2026, at 10 a.m. Central Time (CT), 11 a.m. Eastern Time (ET). Start point, rally, shuttles and bags."
+title: "Brewers World Series Parade 2026: Oct. 30 at 10 a.m. CT, Route"
+description: "The Brewers World Series parade was Friday, Oct. 30, 2026, at 10 a.m. Central Time (CT). Route, rally gates at Henry Maier Festival Park, $5 shuttles."
 type: news
 publishedAt: "2026-10-29T01:50:00-04:00"
 updatedAt: "2026-11-02T14:10:00-05:00"

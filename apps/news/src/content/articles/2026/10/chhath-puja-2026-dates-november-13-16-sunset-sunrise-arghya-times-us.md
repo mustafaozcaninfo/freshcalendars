@@ -1,7 +1,6 @@
 ---
-title: "Chhath Puja 2026 Is Nov. 13 to 16: Sandhya and Usha Arghya Sunset and Sunrise Times in US Cities"
-seoTitle: "Chhath Puja 2026: Nov. 13-16, Arghya Times in the US"
-description: "Chhath Puja 2026: Friday, Nov. 13 to Monday, Nov. 16, per India's Ministry of Tourism. US sunset and sunrise times from the U.S. Naval Observatory (USNO)."
+title: "Chhath Puja 2026 in the US: Nov. 13-16, Sunset and Sunrise Times"
+description: "Chhath Puja 2026 runs Friday, Nov. 13 to Monday, Nov. 16. US sunset and sunrise times for the two Arghya days come from the U.S. Naval Observatory."
 type: explainer
 publishedAt: "2026-10-29T03:43:00-04:00"
 authors: [christina-gerland]

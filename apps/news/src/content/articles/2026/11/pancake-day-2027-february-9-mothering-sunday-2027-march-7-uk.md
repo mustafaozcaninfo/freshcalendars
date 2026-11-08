@@ -1,7 +1,6 @@
 ---
-title: "Pancake Day 2027 Is Tuesday, 9 February; Mothering Sunday 2027 Is 7 March"
-seoTitle: "Pancake Day 2027: 9 Feb; Mothering Sunday: 7 March"
-description: "Pancake Day 2027 is Tuesday, 9 February, and UK Mothering Sunday is 7 March, worked out from the Church of England calendar. Dates to 2030 and US Mother's Day."
+title: "Pancake Day 2027: Tuesday, 9 February; Mothering Sunday 7 March"
+description: "Pancake Day 2027 is Tuesday, 9 February, and UK Mothering Sunday is 7 March, from the Church of England calendar. Dates to 2030 and US Mother's Day."
 type: explainer
 publishedAt: "2026-11-02T18:38:00-05:00"
 authors: [christina-gerland]

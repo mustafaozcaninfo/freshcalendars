@@ -1,7 +1,6 @@
 ---
-title: "College Spring Break 2027: Dates for 37 Universities, From Feb. 27 to Apr. 4"
-seoTitle: "College Spring Break 2027 Dates, 37 Universities"
-description: "College spring break 2027 at 37 universities runs from Feb. 27 to Apr. 4; 16 are off Mar. 15-19, according to each registrar's 2026-27 academic calendar."
+title: "College Spring Break 2027: Dates for 37 Universities, Feb. 27-Apr. 4"
+description: "College spring break 2027 runs Feb. 27 to Apr. 4 at 37 universities; 16 are off Mar. 15-19. A table of each school's dates and first day back."
 type: news
 publishedAt: "2026-11-04T13:00:41-05:00"
 updatedAt: "2026-11-04T13:00:41-05:00"

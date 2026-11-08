@@ -1,7 +1,6 @@
 ---
-title: "World Series 2026: Brewers Beat Rays in Five Games for First Title, Results and Schedule"
-seoTitle: "World Series 2026: Brewers Win First Title in 5 Games"
-description: "The Milwaukee Brewers won the 2026 World Series, beating the Tampa Bay Rays 4-1 in Game 5 on Oct. 28 for their first title. Every game score and the schedule."
+title: "World Series 2026 Schedule: Brewers Beat Rays 4-1 in Five Games"
+description: "The 2026 World Series schedule ended Oct. 28 when the Brewers beat the Rays 4-1 in Game 5. Every game score, start time and TV channel in one table."
 type: news
 publishedAt: "2026-10-21T05:45:00-04:00"
 updatedAt: "2026-11-02T14:10:00-05:00"

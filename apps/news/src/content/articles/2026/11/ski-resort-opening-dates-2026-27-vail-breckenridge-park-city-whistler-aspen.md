@@ -1,7 +1,6 @@
 ---
-title: "Ski Resort Opening Dates 2026-27: Vail, Breckenridge, Park City, Whistler, Aspen"
-seoTitle: "Ski Resort Opening Dates 2026-27 by Date"
-description: "Arapahoe Basin and Keystone have opened. Mammoth opens Nov. 5, Breckenridge and Copper Mountain Nov. 6, Vail Mountain Nov. 13. See the 2026-27 table."
+title: "Ski Resort Opening Dates 2026-27: Vail Nov. 13, Whistler Nov. 20"
+description: "Ski resort opening dates 2026-27: Vail Mountain plans Nov. 13, Whistler Blackcomb and Park City Nov. 20, Aspen Mountain Nov. 26. Table and printable."
 type: news
 publishedAt: "2026-11-01T12:47:00-05:00"
 updatedAt: "2026-11-04T13:41:00-05:00"

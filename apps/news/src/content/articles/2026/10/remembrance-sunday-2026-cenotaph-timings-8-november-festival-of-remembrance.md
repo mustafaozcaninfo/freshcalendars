@@ -1,7 +1,6 @@
 ---
-title: "Remembrance Sunday 2026: Cenotaph Timings for 8 November and the Festival of Remembrance"
-seoTitle: "Remembrance Sunday 2026: Cenotaph Times, Festival"
-description: "Cenotaph service: Sunday 8 November 2026, 11am Greenwich Mean Time (GMT), 6am Eastern Time (ET), says GOV.UK. Festival of Remembrance: Saturday 7 November."
+title: "Remembrance Sunday 2026: Cenotaph Service 11am on 8 November"
+description: "The Remembrance Sunday 2026 Cenotaph service is Sunday 8 November at 11am UK time, 6am ET. The Festival of Remembrance was Saturday 7 November, on BBC One."
 type: news
 publishedAt: "2026-10-31T14:23:00-04:00"
 updatedAt: "2026-11-02T14:10:00-05:00"

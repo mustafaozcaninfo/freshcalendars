@@ -1,7 +1,6 @@
 ---
-title: "Radiologic Technology Week 2026: Nov. 8-14 and the 'Radiating Love' Theme"
-seoTitle: "Radiologic Technology Week 2026: Nov. 8-14"
-description: "National Radiologic Technology Week (NRTW) 2026 runs Nov. 8-14 with the theme 'Radiating Love,' per the American Society of Radiologic Technologists (ASRT)."
+title: "Radiologic Technology Week 2026: Nov. 8-14, 'Radiating Love'"
+description: "Radiologic Technology Week 2026 runs Nov. 8-14 with the theme 'Radiating Love.' A day-by-day planner and a free one-page sheet are included."
 type: news
 publishedAt: "2026-11-06T14:05:00-05:00"
 updatedAt: "2026-11-08T07:24:00-05:00"

@@ -1,7 +1,6 @@
 ---
-title: "Snow Days 2026-27: How Seven Big School Districts Announce Closures and Make-Up Days"
-seoTitle: "Snow Day Rules 2026-27: Seven Big Districts"
-description: "Snow day rules for 2026-27: Philadelphia sets its final call by 4 a.m. Eastern Time (ET), Seattle by 5 a.m. Pacific Time (PT). Seven districts compared."
+title: "Snow Days 2026-27: Philadelphia Calls by 4 a.m., Seattle by 5 a.m."
+description: "Snow day rules for 2026-27: Philadelphia sets its final call by 4 a.m. ET, Seattle by 5 a.m. Pacific. Seven big districts compared, with make-up days."
 type: explainer
 publishedAt: "2026-11-04T12:55:00-05:00"
 updatedAt: "2026-11-04T12:55:00-05:00"

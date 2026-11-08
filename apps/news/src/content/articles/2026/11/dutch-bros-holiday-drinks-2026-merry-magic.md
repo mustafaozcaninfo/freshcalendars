@@ -1,7 +1,6 @@
 ---
-title: "Dutch Bros Holiday Drinks 2026: Merry Magic, Sprinkle Cookie and the Full List"
-seoTitle: "Dutch Bros Holiday Drinks 2026: Full Menu List"
-description: "Dutch Bros announced its 2026 holiday drinks on Nov. 1: new Merry Magic and Sprinkle Cookie, returning Hazelnut Truffle and Candy Cane, at 1,225+ shops."
+title: "Dutch Bros Holiday Drinks 2026: Merry Magic and Sprinkle Cookie"
+description: "Dutch Bros holiday drinks 2026 are on the menu now at 1,225+ shops: new Merry Magic and Sprinkle Cookie, plus returning Hazelnut Truffle. Printable table."
 type: news
 publishedAt: "2026-11-04T15:08:00-05:00"
 updatedAt: "2026-11-04T15:08:00-05:00"

@@ -1,7 +1,6 @@
 ---
-title: "Pittsburgh Public Schools Calendar 2026-27: Winter Break, Spring Break and Last Day"
-seoTitle: "Pittsburgh Public Schools Calendar 2026-27 Breaks"
-description: "Pittsburgh Public Schools (PPS) 2026-27: winter break Dec. 24 to Jan. 1, spring break March 22-26, 2027, and the last day for students is June 8, 2027."
+title: "Pittsburgh Public Schools Calendar 2026-27: Break Dec. 24-Jan. 1"
+description: "Pittsburgh Public Schools calendar 2026-27: winter break Dec. 24-Jan. 1, spring break March 22-26, last day June 8. Thanksgiving and half days included."
 type: news
 publishedAt: "2026-11-05T20:47:00-05:00"
 updatedAt: "2026-11-05T20:47:00-05:00"

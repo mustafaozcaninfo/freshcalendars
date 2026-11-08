@@ -1,7 +1,6 @@
 ---
-title: "Veganuary 2027: Dates and How to Sign Up in the US"
-seoTitle: "Veganuary 2027: Dates and How to Sign Up"
-description: "Veganuary 2027 means January 2027, Fri., Jan. 1 to Sun., Jan. 31. Veganuary's sign-up is free and can start now; its 2027 campaign details are not yet posted."
+title: "Veganuary 2027: Jan. 1 to Jan. 31 and How to Sign Up"
+description: "Veganuary 2027 runs Fri., Jan. 1 to Sun., Jan. 31. Sign-up is free and can start now; no 2027 theme was posted on Nov. 4. Includes a free meal tracker."
 type: explainer
 publishedAt: "2026-11-04T11:54:00-05:00"
 updatedAt: "2026-11-04T11:54:00-05:00"

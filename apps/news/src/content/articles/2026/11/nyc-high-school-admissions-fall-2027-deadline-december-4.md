@@ -1,7 +1,6 @@
 ---
-title: "NYC High School Admissions 2027: Applications Close Friday, Dec. 4; Offers Come March 3"
-seoTitle: "NYC High School Admissions 2027: Dec. 4 Deadline"
-description: "New York City (NYC) high school applications for fall 2027 close Friday, Dec. 4, 2026; offers are scheduled after 3 p.m. on March 3, 2027, NYC says."
+title: "NYC High School Admissions 2027: Apply by Dec. 4, Offers March 3"
+description: "NYC high school applications for fall 2027 close Friday, Dec. 4, 2026. Offers are scheduled for March 3, 2027; a countdown printable is included."
 type: news
 publishedAt: "2026-11-07T06:00:00-05:00"
 authors: [aaron-kessler]

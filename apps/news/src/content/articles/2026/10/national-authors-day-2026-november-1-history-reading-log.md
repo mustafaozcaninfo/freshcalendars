@@ -1,7 +1,6 @@
 ---
-title: "National Author's Day 2026 Was Sunday, Nov. 1: Where It Began and a Free Reading Log"
-seoTitle: "National Author's Day 2026: Sunday, Nov. 1"
-description: "National Author's Day was Sunday, Nov. 1, 2026. Illinois Times and The Hans India trace it to 1928 in Bement, Illinois. Weekdays to 2030 and a reading log."
+title: "National Authors Day 2026: Nov. 1 Origin and a Free Reading Log"
+description: "National Authors Day 2026 was Sunday, Nov. 1. Illinois Times and The Hans India trace it to 1928 in Bement, Illinois. Weekdays to 2030 and a reading log."
 type: explainer
 publishedAt: "2026-10-31T16:44:00-04:00"
 updatedAt: "2026-11-02T14:10:00-05:00"

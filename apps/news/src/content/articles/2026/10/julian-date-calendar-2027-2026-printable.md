@@ -1,7 +1,6 @@
 ---
-title: "Julian Date Calendar 2027 and 2026: Free Printable Day-of-Year Charts, Date Codes and Julian Day Numbers"
-seoTitle: "Julian Date Calendar 2026 and 2027: Free Printable PDFs"
-description: "Free printable Julian date calendars for 2026 and 2027: day-of-year charts, monthly pages, YYDDD code tables and astronomical Julian Day charts in PDF."
+title: "Julian Calendar 2027: Printable Day-of-Year Chart, Jan. 1 Is 001"
+description: "A Julian date calendar for 2027 numbers Jan. 1 as 001 and Dec. 31 as 365. Four free printable templates each for 2026 and 2027, plus YYDDD code tables."
 type: explainer
 publishedAt: "2026-10-18T09:20:00-04:00"
 updatedAt: "2026-11-05T07:30:00-05:00"

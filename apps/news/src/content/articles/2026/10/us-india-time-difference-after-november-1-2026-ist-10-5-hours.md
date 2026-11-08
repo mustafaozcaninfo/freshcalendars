@@ -1,7 +1,6 @@
 ---
-title: "US-India Time Difference: New York Is 10.5 Hours Behind India"
-seoTitle: "US-India Time Difference: New York to India"
-description: "New York is 10 hours 30 minutes behind Indian Standard Time (IST) while US clocks are on standard time, and India keeps UTC+5:30 all year. Tables included."
+title: "US-India Time Difference: 10 Hours 30 Minutes From Nov. 1"
+description: "New York is 10 hours 30 minutes behind India from Nov. 1, 2026, up from 9 hours 30 minutes. Tables for every US zone and a printable converter."
 type: explainer
 publishedAt: "2026-10-30T07:50:00-04:00"
 updatedAt: "2026-11-05T03:23:11-05:00"

@@ -1,7 +1,6 @@
 ---
-title: "W-2 Box 12 Codes TP and TT: How Tips and Overtime Show on Your 2026 W-2"
-seoTitle: "W-2 Box 12 Codes TP and TT for 2026"
-description: "The Internal Revenue Service (IRS) adds Form W-2 box 12 codes TP (cash tips) and TT (qualified overtime) plus box 14b for 2026. Copies are due Feb. 1, 2027."
+title: "W-2 Box 12 Codes TP and TT for 2026: Tips and Overtime"
+description: "W-2 box 12 code TP shows cash tips and code TT shows qualified overtime on 2026 forms. A worked overtime example and a checklist for when yours arrives."
 type: explainer
 publishedAt: "2026-11-04T14:48:00-05:00"
 updatedAt: "2026-11-04T14:48:00-05:00"

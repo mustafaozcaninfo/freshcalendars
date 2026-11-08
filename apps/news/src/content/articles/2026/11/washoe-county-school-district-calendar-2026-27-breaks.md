@@ -1,7 +1,6 @@
 ---
-title: "Washoe County School District Calendar 2026-27: Two-Week Spring Break, Last Day June 4"
-seoTitle: "Washoe County Schools Calendar 2026-27 Breaks"
-description: "Washoe County School District (WCSD) in Reno, Nev., has Thanksgiving break Nov. 25-27, winter break Dec. 21-Jan. 1 and a last day of June 4, 2027."
+title: "Washoe County School Calendar 2026-27: Last Day June 4, 2027"
+description: "Washoe County school calendar 2026-27: Thanksgiving break Nov. 25-27, winter break Dec. 21-Jan. 1, two-week spring break March 22-April 2. Last day June 4."
 type: news
 publishedAt: "2026-11-05T06:40:00-05:00"
 authors: [aaron-kessler]

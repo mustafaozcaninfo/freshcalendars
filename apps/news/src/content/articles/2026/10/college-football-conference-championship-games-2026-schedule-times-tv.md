@@ -1,7 +1,6 @@
 ---
-title: "Conference Championship Games 2026: Dates, Kickoff Times and TV for All 10 FBS Title Games"
-seoTitle: "Conference Championship Games 2026: Times and TV"
-description: "All 10 college football conference championship games are set for Fri., Dec. 4 and Sat., Dec. 5, 2026, from noon to 9 p.m. Eastern Time (ET), with TV and sites."
+title: "College Football Conference Championship Games 2026: All 10, Dec. 4-5"
+description: "College football conference championship games 2026: five on Fri., Dec. 4 and five on Sat., Dec. 5, noon to 9 p.m. ET. Table has TV, sites, a printable."
 type: news
 publishedAt: "2026-10-28T18:00:00-04:00"
 authors: [jessica-hartwell]

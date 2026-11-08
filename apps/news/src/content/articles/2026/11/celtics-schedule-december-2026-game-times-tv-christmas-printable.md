@@ -1,7 +1,6 @@
 ---
-title: "Celtics Schedule December 2026: Game Times in ET, TV and the Christmas Day Game"
-seoTitle: "Celtics Schedule December 2026: Times, TV, Christmas"
-description: "The Celtics host Charlotte on Wed., Dec. 2, 2026, at 7:30 p.m. Eastern Time (ET) and host Miami on Christmas Day at 2:30 p.m. ET, per the NBA schedule."
+title: "Celtics Schedule December 2026: 10 Games, Christmas vs Miami"
+description: "The Celtics schedule for December 2026 has 10 games, opening Wed., Dec. 2 at 7:30 p.m. ET. Christmas Day vs Miami is 2:30 p.m. ET, with a printable."
 type: explainer
 publishedAt: "2026-11-04T06:00:00-05:00"
 authors: [jessica-hartwell]

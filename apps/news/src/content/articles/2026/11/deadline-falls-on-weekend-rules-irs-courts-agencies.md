@@ -1,7 +1,6 @@
 ---
-title: "When a Deadline Falls on a Weekend: The IRS, Court and Agency Rules"
-seoTitle: "Deadline Falls on a Weekend: IRS and Court Rules"
-description: "A deadline on a Saturday, Sunday or holiday moves to the next business day under 26 U.S.C. 7503 for the Internal Revenue Service (IRS) and federal court rules."
+title: "Deadline on a Weekend: IRS Rule Moves Jan. 15, 2028 to Jan. 18"
+description: "A deadline on a Saturday, Sunday or legal holiday moves to the next business day under IRS and federal court rules. Jan. 15, 2028 becomes Tuesday, Jan. 18."
 type: explainer
 publishedAt: "2026-11-04T15:50:00-05:00"
 updatedAt: "2026-11-04T15:50:00-05:00"

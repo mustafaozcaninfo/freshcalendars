@@ -1,6 +1,5 @@
 ---
 title: "EI Premiums 2027: $1.64 Rate and $70,800 Maximum Insurable Earnings"
-seoTitle: "EI Premiums 2027: $1.64 and $70,800 Maximum"
 description: "Employment Insurance (EI) premiums for 2027 are $1.64 per $100 earned up to $70,800, a $1,161.12 maximum, Employment and Social Development Canada says."
 type: news
 publishedAt: "2026-11-04T06:30:00-05:00"

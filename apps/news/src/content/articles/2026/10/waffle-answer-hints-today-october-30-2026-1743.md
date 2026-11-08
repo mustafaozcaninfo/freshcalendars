@@ -1,6 +1,5 @@
 ---
-title: "Waffle Answer and Hints Today, #1743 for Friday, Oct. 30, 2026: Clues for Six Words"
-seoTitle: "Waffle Answer & Hints Today, #1743 (Oct. 30, 2026)"
+title: "Waffle #1743 Hints & Answers Today, October 30, 2026"
 description: "Waffle #1743 for Friday, Oct. 30, 2026: a clue for each of the six words, then the answers and a 10-swap route to five stars in a marked spoiler section."
 type: explainer
 publishedAt: "2026-10-30T07:40:00-04:00"

@@ -1,6 +1,5 @@
 ---
-title: "Connections: Sports Edition #773, Nov. 5, 2026: Two Hints per Group, Then the Answers"
-seoTitle: "Connections Sports Edition Hints Today, Nov. 5 (#773)"
+title: "Connections Sports Edition #773 Answers, November 5, 2026"
 description: "Connections: Sports Edition #773 for Thursday, Nov. 5, 2026, from The Athletic and New York Times (NYT) Games: two hints per group, answers and trap notes."
 type: explainer
 publishedAt: "2026-11-05T07:50:00-05:00"

@@ -1,7 +1,6 @@
 ---
-title: "Net 30, 60 and 90 Due Dates in 2027: A Calendar for Invoices"
-seoTitle: "Net 30, 60, 90 Due Dates 2027: Invoice Calendar"
-description: "A Net 30 invoice dated Jan. 1, 2027 falls due on Sunday, Jan. 31. Tables give net 15, 30, 60 and 90 due dates for 24 invoice dates, with holiday flags."
+title: "Net 30, 60, 90 Due Dates 2027: Jan. 1 Invoice Due Jan. 31"
+description: "A Net 30 invoice dated Jan. 1, 2027 is due Sunday, Jan. 31. Tables give net 15, 30, 60 and 90 due dates for 24 invoice dates, with holiday flags."
 type: explainer
 publishedAt: "2026-11-05T06:00:00-05:00"
 authors: [jessica-hartwell]

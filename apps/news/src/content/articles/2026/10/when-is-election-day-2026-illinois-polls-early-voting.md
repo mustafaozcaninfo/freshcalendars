@@ -1,7 +1,6 @@
 ---
-title: "When Is Election Day 2026 in Illinois? Polling Hours, Early Voting and Mail Deadlines"
-seoTitle: "Illinois Election Day 2026: Hours and Deadlines"
-description: "Election Day in Illinois is Tuesday, Nov. 3, 2026, with polls open 6 a.m. to 7 p.m. The Oct. 29 mail application deadline passed; early voting ends Nov. 2."
+title: "Illinois Election Day 2026: Polls Open 6 a.m. to 7 p.m."
+description: "Election Day in Illinois was Tuesday, Nov. 3, 2026, with polls open 6 a.m. to 7 p.m. Early voting dates, the Oct. 29 mail deadline and school closures."
 type: news
 publishedAt: "2026-10-24T00:54:00-04:00"
 updatedAt: "2026-11-02T14:10:00-05:00"

@@ -1,7 +1,6 @@
 ---
-title: "Christmas Movies on TV 2026: Freeform's 25 Days Schedule Night by Night, Dec. 1-25"
-seoTitle: "Christmas Movies on TV 2026: Freeform 25 Days Schedule"
-description: "Freeform's 25 Days of Christmas 2026 starts Tuesday, Dec. 1 and runs to Dec. 25. See each night's films, times in Eastern and Pacific Time, and a printable."
+title: "25 Days of Christmas 2026 Schedule: Freeform, Dec. 1-25"
+description: "Freeform's 25 Days of Christmas 2026 schedule runs Tuesday, Dec. 1 to Dec. 25. See all 235 airings by night in ET and PT, plus a free printable calendar."
 type: explainer
 publishedAt: "2026-11-04T06:43:00-05:00"
 authors: [jessica-hartwell]

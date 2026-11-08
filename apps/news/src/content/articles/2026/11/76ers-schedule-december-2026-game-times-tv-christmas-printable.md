@@ -1,7 +1,6 @@
 ---
-title: "76ers Schedule December 2026: Game Times in ET and PT, TV and the Christmas Day Game"
-seoTitle: "76ers Schedule December 2026: Times, TV, Christmas"
-description: "The 76ers open December 2026 at home against Memphis on Tue., Dec. 1 at 7 p.m. Eastern Time (ET) and play at the Lakers on Christmas Day at 5 p.m. ET."
+title: "76ers Schedule December 2026: Christmas Day at Lakers, 5 p.m. ET"
+description: "The 76ers open December 2026 at home against Memphis on Tue., Dec. 1 at 7 p.m. ET. All 11 games with local times, TV and a printable schedule."
 type: news
 publishedAt: "2026-11-04T06:10:00-05:00"
 authors: [jessica-hartwell]

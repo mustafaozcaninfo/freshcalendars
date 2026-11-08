@@ -1,7 +1,6 @@
 ---
-title: "SAT on Dec. 5, 2026: Registration Deadline Nov. 20, Test Day Checklist, Scores Dec. 18"
-seoTitle: "SAT Dec. 5, 2026: Register by Nov. 20, Scores Dec. 18"
-description: "Register for the Dec. 5, 2026 SAT by 11:59 p.m. Eastern Time (ET) on Fri., Nov. 20, College Board says. Student scores come Fri., Dec. 18."
+title: "SAT Dec. 5, 2026: Register by Nov. 20, Scores Dec. 18"
+description: "The SAT is Sat., Dec. 5, 2026; register by Nov. 20 (late Nov. 24). Scores reach students Dec. 18. Includes a day-by-day countdown and a printable sheet."
 type: news
 publishedAt: "2026-11-04T08:48:00-05:00"
 updatedAt: "2026-11-04T08:48:00-05:00"

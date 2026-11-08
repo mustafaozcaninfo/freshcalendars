@@ -1,6 +1,6 @@
 ---
 title: "Wordle #1973 Hints & Answer Today, November 13, 2026"
-description: "Hints for Wordle #1973 on Friday, Nov. 13, 2026, including its uncommon letter in the middle, with the answer and a rarity check saved for the spoiler section."
+description: "Wordle #1973 hints for Friday, Nov. 13, 2026: six clues, from the ending vowels to the rare middle letter, then the answer in a spoiler section."
 type: explainer
 publishedAt: "2026-11-12T00:05:00-05:00"
 authors: [news-desk]

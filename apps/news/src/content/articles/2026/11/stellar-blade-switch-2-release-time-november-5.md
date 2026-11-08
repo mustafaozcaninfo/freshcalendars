@@ -1,7 +1,6 @@
 ---
-title: "Stellar Blade Switch 2 Release Time: Thu., Nov. 5 at 10 a.m. ET, Nov. 6 in Asia"
-seoTitle: "Stellar Blade Switch 2 Release Time by Time Zone"
-description: "Stellar Blade Complete Edition launches on Nintendo Switch 2 at 10 a.m. Eastern Time (ET) Thu., Nov. 5, 2026, which is Nov. 6 in Korea and Japan."
+title: "Stellar Blade Switch 2 Release Time: Nov. 5 at 10 a.m. ET"
+description: "Stellar Blade Complete Edition launched on Nintendo Switch 2 at 10 a.m. ET Thu., Nov. 5, 2026, which was Nov. 6 in Korea and Japan. Times by time zone."
 type: news
 publishedAt: "2026-11-03T14:30:00-05:00"
 authors: [jessica-hartwell]

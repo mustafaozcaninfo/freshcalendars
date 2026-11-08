@@ -1,7 +1,6 @@
 ---
-title: "Avatar: Seven Havens Release Schedule: Book One Is Complete, Book Two Date Not Yet Set"
-seoTitle: "Avatar: Seven Havens Book Two Release Date and Schedule"
-description: "All 13 Avatar: Seven Havens Book One episodes are on Paramount+ (Paramount Plus) since the Oct. 30 finale. Book Two has no release date yet."
+title: "Avatar: Seven Havens Episode Release Dates: All 13 Out Oct. 30"
+description: "Avatar: Seven Havens episode release dates: all 13 Book One episodes are on Paramount+ since Oct. 30. Book Two has no date yet. Every batch is listed."
 type: news
 publishedAt: "2026-10-23T15:02:00-04:00"
 updatedAt: "2026-11-06T19:25:00-05:00"

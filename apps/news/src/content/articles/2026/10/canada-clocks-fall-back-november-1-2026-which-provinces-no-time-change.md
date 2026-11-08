@@ -1,7 +1,6 @@
 ---
-title: "Canada Clocks Fell Back Nov. 1, 2026: Which Provinces Did Not Change Time"
-seoTitle: "Canada Clock Change Nov. 1, 2026: Which Provinces Skipped It"
-description: "Clocks went back at 2 a.m. Sunday, Nov. 1, 2026, in Ontario, Quebec and Atlantic Canada; British Columbia, Alberta, Saskatchewan and Manitoba stayed put."
+title: "Canada Time Change 2026: Which Provinces Skipped Nov. 1"
+description: "Canada's 2026 time change was 2 a.m. Sunday, Nov. 1, in Ontario, Quebec and Atlantic Canada. A table lists each province and territory, plus a printable."
 type: news
 publishedAt: "2026-10-28T07:45:00-04:00"
 updatedAt: "2026-11-02T14:10:00-05:00"

@@ -1,7 +1,6 @@
 ---
-title: "UK Tax Year 2027-28: Starts 6 April 2027, and the Key HMRC Dates"
-seoTitle: "UK Tax Year 2027-28: Start Date and Key HMRC Dates"
-description: "The UK 2027-28 tax year runs from 6 April 2027 to 5 April 2028 on GOV.UK's pattern; HM Revenue and Customs (HMRC) dates from 6 April 2027 to May 2028 are below."
+title: "UK Tax Year 2027-28: Starts 6 April 2027, Key HMRC Dates"
+description: "The UK 2027-28 tax year starts Tuesday 6 April 2027 and ends 5 April 2028. A table lists 13 HM Revenue and Customs (HMRC) dates, plus a printable."
 type: explainer
 publishedAt: "2026-11-04T22:43:00-05:00"
 authors: [jessica-hartwell]

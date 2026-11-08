@@ -1,7 +1,6 @@
 ---
-title: "Arizona Propositions 2026: The 8 Measures on the Nov. 3 Ballot, What They Do, and Key Dates"
-seoTitle: "Arizona Propositions 2026: All 8 Explained"
-description: "Arizona's Nov. 3, 2026 ballot has eight propositions, all referred by the Legislature, plus governor and judicial retention. What each does, and key dates."
+title: "Arizona Propositions 2026: The 8 Measures and What Each Does"
+description: "Arizona's 2026 ballot had eight propositions, all referred by the Legislature, from voter ID to grocery taxes. What each does, and the early ballot rules."
 type: explainer
 publishedAt: "2026-10-20T11:30:00-04:00"
 updatedAt: "2026-11-02T14:10:00-05:00"

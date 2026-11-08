@@ -1,7 +1,6 @@
 ---
-title: "US-Philippines Time Difference: New York Is 13 Hours Behind Manila"
-seoTitle: "US-Philippines Time Difference: New York to Manila"
-description: "New York is 13 hours behind Philippine Standard Time (PHT) while US clocks are on standard time, and the Philippines keeps UTC+8 all year. Tables included."
+title: "US-Philippines Time Difference: 13 Hours From Nov. 1, Was 12"
+description: "New York is 13 hours behind Manila from Nov. 1, 2026, up from 12, because the Philippines keeps UTC+8 all year. Tables by US zone, printable converter."
 type: explainer
 publishedAt: "2026-10-30T17:44:00-04:00"
 updatedAt: "2026-11-05T15:26:00-05:00"

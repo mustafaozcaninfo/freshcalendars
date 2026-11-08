@@ -1,7 +1,6 @@
 ---
-title: "Presidents' Day 2027 Is Monday, February 15: What's Open and Closed"
-seoTitle: "Presidents' Day 2027: Monday, Feb. 15, What's Closed"
-description: "Presidents' Day 2027 is Monday, Feb. 15, per the Office of Personnel Management (OPM). Federal offices, USPS mail and the NYSE are closed; see the full list."
+title: "Presidents' Day 2027 Is Feb. 15: What's Closed and Open"
+description: "Presidents' Day 2027 is Monday, Feb. 15. Federal offices, mail, the stock exchange and Federal Reserve Banks are closed; a table names each source."
 type: news
 publishedAt: "2026-10-31T01:00:00-04:00"
 authors: [christina-gerland]

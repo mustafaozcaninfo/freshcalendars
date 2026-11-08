@@ -1,7 +1,6 @@
 ---
-title: "Critics Choice Awards 2027: Jan. 3 Date, Dec. 4 Nominations and How to Watch"
-seoTitle: "Critics Choice Awards 2027: Date and How to Watch"
-description: "The 32nd Critics Choice Awards air live Sunday, Jan. 3, 2027, from 7 p.m. Eastern Time (ET), with nominations on Friday, Dec. 4, 2026. Host, venue and channels."
+title: "Critics Choice Awards 2027: Jan. 3 at 7 p.m. ET, Nominations Dec. 4"
+description: "The Critics Choice Awards 2027 air live Sunday, Jan. 3 from 7 p.m. ET on USA Network. Nominations come Dec. 4; Janelle James hosts. Printable guide."
 type: news
 publishedAt: "2026-11-04T15:05:00-05:00"
 authors: [jessica-hartwell]

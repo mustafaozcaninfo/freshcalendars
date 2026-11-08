@@ -1,7 +1,6 @@
 ---
-title: "Wright Brothers Day 2026: Thursday, Dec. 17, and a Fee-Free Day at Kill Devil Hills"
-seoTitle: "Wright Brothers Day 2026: Thu., Dec. 17, Fee-Free"
-description: "Wright Brothers Day is Thursday, Dec. 17, 2026, and the National Park Service (NPS) waives fees at Wright Brothers National Memorial that day."
+title: "Wright Brothers Day 2026: Dec. 17, Fee-Free at Kill Devil Hills"
+description: "Wright Brothers Day is Thursday, Dec. 17, 2026, with fees waived at Wright Brothers National Memorial. The four 1903 flights in seconds and feet."
 type: explainer
 publishedAt: "2026-11-04T07:48:00-05:00"
 updatedAt: "2026-11-04T07:48:00-05:00"

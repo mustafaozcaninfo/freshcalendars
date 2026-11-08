@@ -1,7 +1,6 @@
 ---
-title: "EITC 2026: Earned Income Tax Credit Tops Out at $8,231, Filed in 2027"
-seoTitle: "EITC 2026: Up to $8,231 and Income Limits"
-description: "The Earned Income Tax Credit (EITC) reaches $8,231 for tax year 2026, says the Internal Revenue Service (IRS). See income limits and the change from 2025."
+title: "EITC 2026: Max Credit $8,231 and Income Limits, Filed in 2027"
+description: "The Earned Income Tax Credit (EITC) for tax year 2026 tops out at $8,231, up from $8,046. Income limit tables plus the 2027 top credit of $8,496."
 type: news
 publishedAt: "2026-11-04T08:41:00-05:00"
 updatedAt: "2026-11-06T17:19:00-05:00"

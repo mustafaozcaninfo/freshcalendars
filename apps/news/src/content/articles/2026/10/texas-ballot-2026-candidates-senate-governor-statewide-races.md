@@ -1,7 +1,6 @@
 ---
-title: "Texas Ballot 2026: Candidates for U.S. Senate, Governor and Every Statewide Race on Nov. 3"
-seoTitle: "Texas Ballot 2026: Candidates for Senate and Governor"
-description: "Who is on the Texas ballot on Nov. 3, 2026: U.S. Senate, governor, attorney general and every statewide race and court seat, as certified by the state."
+title: "Texas Ballot 2026: Senate, Governor and Seven Statewide Offices"
+description: "Texas ballot 2026 candidates: Ken Paxton, James Talarico, Greg Abbott and Gina Hinojosa lead the list. Every statewide race and court seat, as certified."
 type: explainer
 publishedAt: "2026-10-21T11:58:00-04:00"
 updatedAt: "2026-11-02T14:10:00-05:00"

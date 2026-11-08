@@ -1,7 +1,6 @@
 ---
-title: "DCPS Calendar 2026-27: Breaks, Holidays and the June 17 Last Day"
-seoTitle: "DCPS Calendar 2026-27: Breaks and Last Day"
-description: "District of Columbia Public Schools (DCPS) 2026-27: first day Aug. 24, no school Dec. 21 to Jan. 1 and March 22-26, last day for students June 17, 2027."
+title: "DCPS Spring Break 2027: March 22-26, Last Day June 17"
+description: "District of Columbia Public Schools (DCPS) spring break 2027 is March 22-26; winter break is Dec. 21 to Jan. 1. Every no-school day, with 180 student days."
 type: news
 publishedAt: "2026-11-04T08:41:00-05:00"
 updatedAt: "2026-11-04T08:41:00-05:00"

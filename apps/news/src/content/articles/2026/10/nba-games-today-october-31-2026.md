@@ -1,7 +1,6 @@
 ---
-title: "NBA Games Today: Saturday, Oct. 31, 2026 (Halloween) Schedule, Times and TV"
-seoTitle: "NBA Games Today, Oct. 31, 2026: Times and TV"
-description: "National Basketball Association (NBA) games Saturday, Oct. 31, 2026 (Halloween): 7 games, first tip-off 3:00 p.m. Eastern Time (ET), last 8:30 p.m. ET."
+title: "Halloween NBA Games 2026: 7 Games, 3 p.m. to 8:30 p.m. ET"
+description: "Halloween NBA games 2026: 7 games on Saturday, Oct. 31, first tip-off 3:00 p.m. ET. NBA TV has 76ers at Hornets and Thunder at Rockets; time zones too."
 type: news
 publishedAt: "2026-10-29T21:39:00-04:00"
 authors: [jessica-hartwell]

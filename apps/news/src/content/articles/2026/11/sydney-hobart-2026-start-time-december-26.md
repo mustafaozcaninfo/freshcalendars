@@ -1,7 +1,6 @@
 ---
-title: "Sydney Hobart 2026 Start Time: 1 p.m. Dec. 26 in Sydney Is 9 p.m. ET on Christmas Day"
-seoTitle: "Sydney Hobart 2026 Start Time in US and UK"
-description: "The Rolex Sydney Hobart starts at 1 p.m. Australian Eastern Daylight Time (AEDT) on Sat., Dec. 26, 2026: 9 p.m. Eastern Time (ET) on Fri., Dec. 25."
+title: "Sydney Hobart 2026 Start Time: 1 p.m. Dec. 26, 9 p.m. ET Dec. 25"
+description: "The Sydney Hobart 2026 starts at 1 p.m. Sydney time on Sat., Dec. 26: 9 p.m. ET on Dec. 25 and 2 a.m. in the UK. Every U.S. zone and the harbour rules."
 type: explainer
 publishedAt: "2026-11-04T07:30:00-05:00"
 updatedAt: "2026-11-04T07:30:00-05:00"

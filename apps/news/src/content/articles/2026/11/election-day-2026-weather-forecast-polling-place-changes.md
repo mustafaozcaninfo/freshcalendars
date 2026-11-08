@@ -1,7 +1,6 @@
 ---
-title: "Election Day 2026 Weather: Mississippi Valley Storms, Florida Flooding and Moved Polls"
-seoTitle: "Election Day 2026 Weather and Polling Place Changes"
-description: "Storms spread across the Mississippi Valley on Nov. 3, 2026, the National Weather Service says, and Miami-Dade moved 19 precincts. City forecasts, full list."
+title: "Election Day 2026 Weather: Mississippi Valley Storms, 19 Moved Polls"
+description: "Election Day 2026 weather: the National Weather Service expected storms across the Mississippi Valley on Nov. 3. Forecasts for 15 cities, 19 moved sites."
 type: news
 publishedAt: "2026-11-03T08:30:00-05:00"
 authors: [christina-gerland]

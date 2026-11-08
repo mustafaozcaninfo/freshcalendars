@@ -1,7 +1,6 @@
 ---
-title: "SFUSD Calendar 2026-27: Fall Recess Nov. 23-27, Winter Recess and Spring Recess Dates"
-seoTitle: "SFUSD Calendar 2026-27: Recess and Holiday Dates"
-description: "San Francisco Unified School District (SFUSD) is off Nov. 23-27, Dec. 21-Jan. 1 and March 26-April 2, 2027. The last day of school is June 2, 2027."
+title: "SFUSD Calendar 2026-27: Fall Recess Nov. 23-27, Last Day June 2"
+description: "San Francisco Unified School District (SFUSD) calendar 2026-27: fall recess Nov. 23-27, winter Dec. 21-Jan. 1, spring March 26-April 2. Last day June 2."
 type: explainer
 publishedAt: "2026-11-06T20:30:00-05:00"
 authors: [aaron-kessler]

@@ -1,7 +1,6 @@
 ---
-title: "Champions League Matchday 6 on Dec. 8-9, 2026: Every Kickoff in ET"
-seoTitle: "Champions League Matchday 6 Times in ET: Dec. 8-9, 2026"
-description: "Champions League matchday 6 is Tue., Dec. 8 and Wed., Dec. 9, 2026, at 12:45 p.m. or 3 p.m. Eastern Time (ET), which is 9:45 a.m. or noon Pacific Time (PT)."
+title: "Champions League Matchday 6 Kickoff Times: Dec. 8-9 in ET, PT, GMT"
+description: "Champions League matchday 6 kickoff times: Tue., Dec. 8 and Wed., Dec. 9, 2026, at 12:45 p.m. or 3 p.m. ET. All 18 games in Pacific and UK time."
 type: news
 publishedAt: "2026-11-04T10:50:00-05:00"
 authors: [jessica-hartwell]

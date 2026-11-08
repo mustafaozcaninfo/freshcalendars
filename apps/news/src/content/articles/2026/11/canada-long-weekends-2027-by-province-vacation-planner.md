@@ -1,7 +1,6 @@
 ---
-title: "Canada Long Weekends 2027: Every Province's Holiday Mondays and a Vacation Planner"
-seoTitle: "Canada Long Weekends 2027 by Province"
-description: "Canada's 2027 long weekends by province, with the Thursday holidays that one vacation day turns into four days off, from each government's holiday list."
+title: "Canada Long Weekends 2027: Five Three-Day Weekends by Province"
+description: "Canada's 2027 long weekends include five three-day weekends and Thursday holidays on July 1, Sept. 30 and Nov. 11. Tables show bridge days by province."
 type: explainer
 publishedAt: "2026-11-06T18:42:00-05:00"
 authors: [christina-gerland]

@@ -1,6 +1,5 @@
 ---
-title: "NYT Connections Hints and Answers for Saturday, Oct. 31, 2026 (#1238): Martini Orders and Hidden Dog Commands"
-seoTitle: "Connections Hints Today, Oct. 31, 2026 (#1238)"
+title: "Connections #1238 Hints & Answers Today, October 31, 2026"
 description: "Connections #1238 for Saturday, Oct. 31, 2026: two levels of hints for every group, the decoy words to avoid, then the full answers at the very end."
 type: explainer
 publishedAt: "2026-10-30T00:05:00-04:00"

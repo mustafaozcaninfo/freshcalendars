@@ -1,7 +1,6 @@
 ---
-title: "Premier League Fixtures This Weekend, Oct. 31-Nov. 2, 2026: Kick-Off Times and TV in the UK and US"
-seoTitle: "Premier League Fixtures This Weekend: Times and TV"
-description: "Chelsea v Manchester United opened the weekend Sat., Oct. 31, 2026 at 12:30pm Greenwich Mean Time (GMT), 8:30 a.m. Eastern Time (ET), per the Premier League."
+title: "Premier League Fixtures, Oct. 31-Nov. 2: UK and US Times and TV"
+description: "Premier League fixtures for Oct. 31-Nov. 2, 2026: Chelsea v Manchester United was 12:30pm UK time, 8:30 a.m. ET. Ten matches with UK and US TV channels."
 type: news
 publishedAt: "2026-10-29T15:50:00-04:00"
 updatedAt: "2026-11-02T14:10:00-05:00"

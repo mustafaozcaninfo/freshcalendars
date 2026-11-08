@@ -1,7 +1,6 @@
 ---
-title: "Rangers Schedule November 2026: Game Times in ET, TV on MSG and TNT"
-seoTitle: "Rangers Schedule November 2026: Times and TV"
-description: "The Rangers play 13 games in November 2026, starting Tue., Nov. 3, at 7 p.m. Eastern Time (ET) against St. Louis, per the National Hockey League (NHL) schedule."
+title: "Rangers Schedule November 2026: 13 Games, Times in ET and TV"
+description: "The Rangers schedule for November 2026 has 13 games, starting Tue., Nov. 3, at 7 p.m. ET against St. Louis. Times in ET, TV channels and a printable."
 type: news
 publishedAt: "2026-11-02T10:12:00-05:00"
 updatedAt: "2026-11-05T21:25:00-05:00"

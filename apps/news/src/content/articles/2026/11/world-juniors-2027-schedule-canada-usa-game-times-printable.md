@@ -1,7 +1,6 @@
 ---
-title: "World Juniors 2027 Schedule: Every Game Time, Canada and USA Dates, Dec. 26 to Jan. 5"
-seoTitle: "World Juniors 2027 Schedule: Game Times and Dates"
-description: "The 2027 International Ice Hockey Federation (IIHF) World Junior Championship (WJC) starts Dec. 26, 2026; Canada opens at 7 p.m. Eastern Time (ET) in Edmonton."
+title: "World Juniors 2027 Schedule: Canada, USA Times, Dec. 26-Jan. 5"
+description: "The World Juniors 2027 schedule starts Dec. 26, 2026, with Canada at 7 p.m. ET in Edmonton. Game times for Canada and the USA, plus a free printable."
 type: news
 publishedAt: "2026-10-31T19:44:00-04:00"
 authors: [christina-gerland]

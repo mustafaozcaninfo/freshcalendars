@@ -1,7 +1,6 @@
 ---
-title: "Great American Smokeout 2026 Is Thursday, Nov. 19: Quit-Day Planner and Milestone Dates"
-seoTitle: "Great American Smokeout 2026, Nov. 19: Quit Planner"
-description: "The Great American Smokeout is Thursday, Nov. 19, 2026, set by the American Cancer Society (ACS). A free quit-day planner, help lines and milestone dates."
+title: "Great American Smokeout 2026: Nov. 19 Quit-Day Planner"
+description: "The Great American Smokeout is Thursday, Nov. 19, 2026, set by the American Cancer Society. A free quit-day planner, help lines and milestone dates."
 type: explainer
 publishedAt: "2026-10-29T19:42:00-04:00"
 authors: [christina-gerland]

@@ -1,7 +1,6 @@
 ---
-title: "Northside ISD Calendar 2026-27: Thanksgiving, Winter Break and Spring Break March 8-12"
-seoTitle: "Northside ISD Calendar 2026-27: Breaks and Holidays"
-description: "Northside Independent School District (ISD) 2026-27: Thanksgiving break Nov. 23-27, winter break Dec. 21-Jan. 1, spring break March 8-12, last day May 26."
+title: "Northside ISD Calendar 2026-27: Winter Break Dec. 21-Jan. 1"
+description: "Northside Independent School District (ISD) calendar 2026-27: Thanksgiving break Nov. 23-27, spring break March 8-12 plus March 15, last day May 26."
 type: explainer
 publishedAt: "2026-11-03T15:09:00-05:00"
 authors: [aaron-kessler]

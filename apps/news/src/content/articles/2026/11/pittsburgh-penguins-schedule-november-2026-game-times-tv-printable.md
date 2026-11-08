@@ -1,7 +1,6 @@
 ---
-title: "Pittsburgh Penguins Schedule November 2026: Game Times in ET and TV"
-seoTitle: "Penguins Schedule November 2026: Times and TV"
-description: "The Pittsburgh Penguins play 13 games in November 2026, starting Tue., Nov. 3 at 7 p.m. Eastern Time (ET) vs. Vegas, per the National Hockey League schedule."
+title: "Pittsburgh Penguins Schedule November 2026: 13 Games, Times and TV"
+description: "The Pittsburgh Penguins play 13 games in November 2026, starting Tue., Nov. 3 at 7 p.m. ET vs. Vegas. TV for every game, the West Coast trip, a printable."
 type: news
 publishedAt: "2026-11-02T11:22:00-05:00"
 updatedAt: "2026-11-05T21:25:00-05:00"

@@ -1,7 +1,6 @@
 ---
-title: "LoL Worlds 2026 Schedule, Knockout Bracket Dates and Tickets"
-seoTitle: "LoL Worlds 2026 Schedule, Bracket and Tickets"
-description: "League of Legends (LoL) Worlds 2026 Knockout Stage starts Tuesday, Nov. 3, and the final is Saturday, Nov. 14, 2 p.m. Eastern Standard Time (EST) in Brooklyn."
+title: "League of Legends Worlds 2026 Calendar: Final Nov. 14 in Brooklyn"
+description: "The League of Legends Worlds 2026 calendar runs Oct. 15-Nov. 14, final at 2 p.m. EST in Brooklyn. Stage dates, venues, tickets and a printable bracket."
 type: news
 publishedAt: "2026-10-23T14:10:00-04:00"
 updatedAt: "2026-11-02T14:10:00-05:00"

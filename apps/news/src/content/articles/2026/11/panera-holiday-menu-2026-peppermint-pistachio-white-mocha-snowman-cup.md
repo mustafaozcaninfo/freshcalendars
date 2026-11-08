@@ -1,6 +1,5 @@
 ---
-title: "Panera Holiday Menu 2026: Peppermint and Pistachio White Mochas, Free Snowman Cup Dec. 3"
-seoTitle: "Panera Holiday Menu 2026: White Mochas, Snowman Cup"
+title: "Panera Holiday Menu 2026: Peppermint White Mocha, Snowman Cup Dec. 3"
 description: "Panera's 2026 holiday menu arrived the week of Nov. 5 with Peppermint and Pistachio White Mochas; on Dec. 3 the first 12 in-cafe $25 buyers get a free cup."
 type: news
 publishedAt: "2026-11-05T23:30:00-05:00"

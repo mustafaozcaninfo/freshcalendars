@@ -1,7 +1,6 @@
 ---
-title: "Bucks Schedule November 2026: Game Times, TV and NBA Cup Games"
-seoTitle: "Bucks Schedule November 2026: Times, TV, Cup Games"
-description: "The Bucks play at Minnesota on Mon., Nov. 2, 2026, at 7 p.m. Central Time (CT), 8 p.m. Eastern Time (ET), first of 16 November games."
+title: "Bucks Schedule November 2026: 16 Games, Cup Games Nov. 6, 13, 25, 27"
+description: "The Bucks schedule for November 2026 lists 16 games, 8 at home and 8 on the road, from Nov. 2 at Minnesota to Nov. 30. CT and ET times plus a printable."
 type: news
 publishedAt: "2026-11-02T11:20:00-05:00"
 updatedAt: "2026-11-05T21:25:00-05:00"

@@ -1,7 +1,6 @@
 ---
-title: "Planets Visible in December 2026: Night Sky Calendar With the Geminids and the Solstice"
-seoTitle: "Planets Visible in December 2026: Night Sky Calendar"
-description: "The Moon passes 1.4° from Jupiter on Dec. 27, the Geminids peak Dec. 13-14 and the solstice is Dec. 21 at 3:50 p.m. Eastern Standard Time (EST). Full table."
+title: "Planets in December 2026: Geminids Dec. 13-14, Solstice Dec. 21"
+description: "Planets visible in December 2026: Venus rises about 3:24 a.m. EST in New York on Dec. 15; Jupiter and Mars rise before midnight. Day-by-day sky table."
 type: explainer
 publishedAt: "2026-10-31T10:30:00-04:00"
 authors: [jessica-hartwell]

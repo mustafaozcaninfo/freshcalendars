@@ -1,7 +1,6 @@
 ---
-title: "Jalen Brunson's Law & Order: SVU Episode Airs Thursday, Nov. 5 at 9 p.m. ET on NBC"
-seoTitle: "Jalen Brunson SVU Episode Air Date and Time"
-description: "Jalen Brunson's Law & Order: Special Victims Unit (SVU) episode airs Thursday, Nov. 5, 2026, at 9 p.m. Eastern Time (ET) on NBC, then streams on Peacock."
+title: "Jalen Brunson SVU Episode: Thursday, Nov. 5 at 9 p.m. ET on NBC"
+description: "Jalen Brunson's Law & Order: Special Victims Unit (SVU) episode aired Thursday, Nov. 5, 2026 at 9 p.m. ET on NBC. He plays Detective Madison."
 type: news
 publishedAt: "2026-10-31T05:50:00-04:00"
 authors: [jessica-hartwell]

@@ -1,7 +1,6 @@
 ---
-title: "Golden Corral Military Appreciation Night 2026: Wednesday, Nov. 11, 4 p.m. to Close"
-seoTitle: "Golden Corral Military Appreciation Night 2026"
-description: "Golden Corral's Military Appreciation Night is Wednesday, Nov. 11, 2026, from 4 p.m. to close: a free buffet and beverage for anyone who served, dine-in only."
+title: "Golden Corral Military Appreciation Night 2026: Nov. 11, 4 p.m.-Close"
+description: "Golden Corral Military Appreciation Night 2026 is Wednesday, Nov. 11, from 4 p.m. to close. Free buffet and beverage for anyone who served, dine-in only."
 type: news
 publishedAt: "2026-11-04T15:52:00-05:00"
 updatedAt: "2026-11-04T15:52:00-05:00"

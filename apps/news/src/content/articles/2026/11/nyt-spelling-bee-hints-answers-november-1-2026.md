@@ -1,6 +1,5 @@
 ---
-title: "NYT Spelling Bee Hints and Answers for Sunday, Nov. 1, 2026: Hint Grid, Pangram and Saturday's Solution"
-seoTitle: "Spelling Bee Hints Today, Nov. 1, 2026"
+title: "Spelling Bee Hints & Answers Today, November 1, 2026"
 description: "Spelling Bee for Sunday, Nov. 1, 2026: center letter E with F, G, I, O, P and T, the hint grid, two-letter list and pangram hint, then all 27 words."
 type: explainer
 publishedAt: "2026-10-31T00:05:00-04:00"

@@ -1,6 +1,5 @@
 ---
-title: "NYT Midi Crossword Answers and Hints for Monday, Nov. 2, 2026: Going Back for Seconds"
-seoTitle: "NYT Midi Crossword Answers Today, Nov. 2, 2026"
+title: "NYT Midi Crossword Answers Today, November 2, 2026"
 description: "The New York Times (NYT) Midi Crossword for Monday, Nov. 2, 2026: a hint for each of the 34 clues on Adam Aaronson's 10-by-10 grid, then the answers."
 type: explainer
 publishedAt: "2026-11-02T22:30:00-05:00"

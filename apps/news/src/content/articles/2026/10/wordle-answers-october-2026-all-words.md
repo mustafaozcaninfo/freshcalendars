@@ -1,7 +1,6 @@
 ---
-title: "Wordle Answers October 2026: All 31 Words From #1930 to #1960"
-seoTitle: "Wordle Answers October 2026: All 31 Words"
-description: "The New York Times (NYT) Wordle answers for October 2026: all 31 words, #1930 (Thu., Oct. 1) to #1960 (Sat., Oct. 31), with letter stats."
+title: "Wordle Answers October 2026: All 31 Words, #1930 to #1960"
+description: "Wordle answers for October 2026: all 31 words, #1930 (Oct. 1) to #1960 (Oct. 31), with letter counts and a printable list of every answer."
 type: explainer
 publishedAt: "2026-10-31T00:10:00-04:00"
 updatedAt: "2026-10-31T04:46:00-04:00"

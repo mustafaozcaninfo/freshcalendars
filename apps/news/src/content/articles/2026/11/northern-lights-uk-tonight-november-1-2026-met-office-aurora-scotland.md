@@ -1,7 +1,6 @@
 ---
-title: "Northern Lights UK on Nov. 1, 2026: Met Office Aurora Chance in Scotland"
-seoTitle: "Northern Lights UK Nov. 1: Met Office Scotland Forecast"
-description: "On Sunday 1 November 2026 the Met Office gave a chance of aurora over northern Scotland; darkness fell about 18:32 to 18:50 Greenwich Mean Time (GMT)."
+title: "Northern Lights UK Nov. 1: Scotland Aurora Chance, Darkness Times"
+description: "The Met Office gave a chance of aurora over northern Scotland on Sunday 1 November 2026. Darkness times for eight UK cities and that night's forecast."
 type: news
 publishedAt: "2026-11-01T12:42:00-05:00"
 updatedAt: "2026-11-02T14:10:00-05:00"

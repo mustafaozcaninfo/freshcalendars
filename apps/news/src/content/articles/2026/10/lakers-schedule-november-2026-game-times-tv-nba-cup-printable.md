@@ -1,7 +1,6 @@
 ---
-title: "Lakers Schedule November 2026: Game Times in PT and ET, TV and NBA Cup Games"
-seoTitle: "Lakers Schedule November 2026: Times, TV, Cup Games"
-description: "The Lakers host the Heat on Mon., Nov. 2, 2026, at 7 p.m. Pacific Time (PT), 10 p.m. Eastern Time (ET), with no national TV listed, and all 15 November games."
+title: "Lakers Schedule November 2026: 15 Games, NBA Cup Nov. 6, 20 and 27"
+description: "The Lakers play 15 games in November 2026, from Nov. 1 against Toronto to Nov. 30 at Houston. Times in PT and ET, TV and NBA Cup games, plus a printable."
 type: news
 publishedAt: "2026-10-29T01:45:00-04:00"
 updatedAt: "2026-11-05T21:25:00-05:00"

@@ -1,7 +1,6 @@
 ---
-title: "Premios Billboard 2026 Winners: Full List, Bad Bunny's Artist of the Year and How to Watch"
-seoTitle: "Premios Billboard 2026 Winners: Full List"
-description: "Bad Bunny won Artist of the Year and Fuerza Regida led with 8 awards at the 2026 Billboard Latin Music Awards, per Telemundo. Full winners list, how to watch."
+title: "Premios Billboard 2026 Winners: Bad Bunny Artist of the Year"
+description: "Premios Billboard 2026 winners: Bad Bunny won Artist of the Year and Fuerza Regida led with 8 awards, per Telemundo. Full list by category, how to watch."
 type: news
 publishedAt: "2026-10-25T13:15:00-04:00"
 updatedAt: "2026-10-25T17:35:00-04:00"

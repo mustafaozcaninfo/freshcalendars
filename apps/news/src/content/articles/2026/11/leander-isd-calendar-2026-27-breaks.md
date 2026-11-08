@@ -1,7 +1,6 @@
 ---
-title: "Leander ISD Calendar 2026-27: Thanksgiving, Winter Break, Spring Break and Last Day"
-seoTitle: "Leander ISD Calendar 2026-27: Breaks and Last Day"
-description: "Leander Independent School District (ISD) 2026-27: no school Nov. 23-27, Dec. 21-Jan. 4 and Mar. 15-19, 2027. Students return Jan. 5; last day is May 27."
+title: "Leander ISD Calendar 2026-27: Spring Break Mar. 15-19, Last Day May 27"
+description: "Leander Independent School District (ISD) 2026-27: no school Nov. 23-27, Dec. 21-Jan. 4 and Mar. 15-19. Students return Jan. 5; last day is May 27."
 type: news
 publishedAt: "2026-11-07T14:38:00-05:00"
 updatedAt: "2026-11-07T14:38:00-05:00"

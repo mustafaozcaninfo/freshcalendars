@@ -1,6 +1,5 @@
 ---
-title: "Wordle Hints and Answer Today, #1962 for Monday, Nov. 2, 2026: Six Clues Before the Reveal"
-seoTitle: "Wordle Hint Today, #1962 (Nov. 2, 2026): Clues & Answer"
+title: "Wordle #1962 Hints & Answer Today, November 2, 2026"
 description: "Wordle #1962 for Monday, Nov. 2, 2026: six graded clues, from the letter pattern to a strong nudge, then the answer in a spoiler section at the end."
 type: explainer
 publishedAt: "2026-11-01T00:05:00-05:00"

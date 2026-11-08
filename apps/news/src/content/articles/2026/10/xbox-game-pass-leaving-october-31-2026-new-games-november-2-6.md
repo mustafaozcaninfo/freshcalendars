@@ -1,7 +1,6 @@
 ---
-title: "Games Leaving Xbox Game Pass Oct. 31, 2026: Nine Gone, New Games Arrive Nov. 2-5"
-seoTitle: "Games Leaving Xbox Game Pass Oct. 31, 2026"
-description: "Nine games left Xbox Game Pass on Oct. 31, 2026, per Xbox Wire. Football Manager 26 follows Nov. 10, and five new games are listed for Nov. 2 to 5."
+title: "Xbox Game Pass November 2026: Nine Leave Oct. 31, Five Arrive Nov. 2-5"
+description: "Xbox Game Pass November 2026 lost nine games Oct. 31, per Xbox Wire. A date-order table of exits and arrivals through Nov. 17 and a free printable."
 type: news
 publishedAt: "2026-10-31T03:45:00-04:00"
 updatedAt: "2026-11-05T01:32:00-05:00"

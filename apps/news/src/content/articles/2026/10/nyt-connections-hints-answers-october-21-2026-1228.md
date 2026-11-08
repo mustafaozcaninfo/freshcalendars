@@ -1,6 +1,5 @@
 ---
-title: "NYT Connections Hints and Answers for Wednesday, Oct. 21, 2026 (#1228): Paintings, Games and Misnomers"
-seoTitle: "Connections Hints Today, Oct. 21, 2026 (#1228)"
+title: "Connections #1228 Hints & Answers Today, October 21, 2026"
 description: "Connections #1228 for Wednesday, Oct. 21, 2026: two levels of hints for every group, the food-word traps to avoid, then the full answers at the very end."
 type: explainer
 publishedAt: "2026-10-21T01:12:00-04:00"

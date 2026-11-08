@@ -1,7 +1,6 @@
 ---
-title: "Garland ISD Calendar 2026-27: Fall Break, Winter Break, Spring Break and Last Day"
-seoTitle: "Garland ISD Calendar 2026-27: Breaks and Last Day"
-description: "Garland Independent School District (ISD) 2026-27: no school Nov. 23-27, Dec. 21-Jan. 1 and Mar. 15-19. Classes resume Jan. 5; the last day is May 27."
+title: "Garland ISD Calendar 2026-27: Winter Break Dec. 21-Jan. 1"
+description: "Garland Independent School District (ISD) calendar 2026-27: no school Nov. 23-27, Dec. 21-Jan. 1 and Mar. 15-19. Fall break Oct. 12-16 is in the PDF only."
 type: explainer
 publishedAt: "2026-11-05T09:13:00-05:00"
 authors: [aaron-kessler]

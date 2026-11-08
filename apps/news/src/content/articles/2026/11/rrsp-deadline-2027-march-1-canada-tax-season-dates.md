@@ -1,7 +1,6 @@
 ---
-title: "RRSP Deadline 2027: Monday, March 1, and the Canada Tax Season Dates for 2026 Returns"
-seoTitle: "RRSP Deadline 2027: Monday, March 1"
-description: "The Registered Retirement Savings Plan (RRSP) deadline for 2026 falls Mon., March 1, 2027 by the 60-day count; Canada Revenue Agency (CRA) has not posted it."
+title: "RRSP Deadline 2027: Monday, March 1, Plus Canada Tax Season Dates"
+description: "The Registered Retirement Savings Plan (RRSP) deadline for 2026 is Mon., March 1, 2027 by the 60-day count. Also: 2026 and 2027 limits and filing dates."
 type: explainer
 publishedAt: "2026-11-02T12:56:00-05:00"
 authors: [christina-gerland]

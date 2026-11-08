@@ -1,7 +1,6 @@
 ---
-title: "Winter Car Emergency Kit Checklist 2026: What Three Official Lists Say, Plus a Printable"
-seoTitle: "Winter Car Emergency Kit Checklist 2026"
-description: "Ready.gov's car page lists seven kit items but no flashlight, water or food. Its winter page and the National Weather Service (NWS) fill gaps. Printable."
+title: "Winter Car Emergency Kit Checklist 2026: Three Official Lists"
+description: "A winter car emergency kit checklist from Ready.gov and the National Weather Service: the car page names seven items, no flashlight or water. Printable."
 type: explainer
 publishedAt: "2026-11-08T07:10:00-05:00"
 updatedAt: "2026-11-08T07:10:00-05:00"

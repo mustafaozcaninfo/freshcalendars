@@ -1,7 +1,6 @@
 ---
-title: "Hunter's Moon 2026: October's Full Moon Peaks at 12:12 a.m. EDT on Oct. 26, With Moonrise Times for 20 Cities"
-seoTitle: "Hunter's Moon 2026: Full Moon Time and Moonrise"
-description: "The Hunter's Moon is full at 12:12 a.m. EDT Monday, Oct. 26, 2026, or 9:12 p.m. PDT Sunday. Moonrise times for 20 U.S. cities and the next full moons."
+title: "Hunter's Moon 2026: Full Oct. 26 at 12:12 a.m. EDT, 20 Cities"
+description: "The 2026 Hunter's Moon was full at 12:12 a.m. EDT on Monday, Oct. 26, or 11:12 p.m. Central Sunday. Moonrise times for 20 U.S. cities and next full moons."
 type: explainer
 publishedAt: "2026-10-20T01:25:00-04:00"
 updatedAt: "2026-11-02T14:10:00-05:00"

@@ -1,7 +1,6 @@
 ---
-title: "Our Lady of Guadalupe Day 2026 Is Saturday, Dec. 12; Las Posadas Runs Dec. 16-24"
-seoTitle: "Our Lady of Guadalupe 2026: Sat., Dec. 12"
-description: "Our Lady of Guadalupe Day 2026 is Saturday, Dec. 12, per the United States Conference of Catholic Bishops (USCCB); Las Posadas runs nine nights, Dec. 16-24."
+title: "Our Lady of Guadalupe Day 2026: Dec. 12, Las Posadas Dec. 16-24"
+description: "Our Lady of Guadalupe Day 2026 is Saturday, Dec. 12. Las Posadas runs nine nights, Dec. 16-24, with Los Angeles procession details and a printable."
 type: explainer
 publishedAt: "2026-11-02T18:40:00-05:00"
 authors: [christina-gerland]

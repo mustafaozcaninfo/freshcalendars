@@ -1,7 +1,6 @@
 ---
-title: "Christmas Tree Lightings 2026: Dates and Times in NYC, DC, Boston and More"
-seoTitle: "Christmas Tree Lightings 2026: Dates and Times"
-description: "The National Christmas Tree lights Dec. 3, 2026, says the National Park Service (NPS), as does Boston Common; Rockefeller Center's is reported for Dec. 2."
+title: "Christmas Tree Lighting 2026: National Dec. 3, Rockefeller Dec. 2"
+description: "Christmas tree lighting 2026 is Dec. 3 for the National Tree and Boston Common; Rockefeller Center is reported for Dec. 2. A table covers tickets and cost."
 type: news
 publishedAt: "2026-11-03T06:48:00-05:00"
 updatedAt: "2026-11-03T10:28:00-05:00"

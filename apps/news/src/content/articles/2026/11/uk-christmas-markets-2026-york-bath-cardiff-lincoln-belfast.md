@@ -1,7 +1,6 @@
 ---
-title: "Christmas Markets 2026 in York, Bath, Cardiff, Lincoln and Belfast: Dates and Hours"
-seoTitle: "Christmas Markets 2026: York, Bath, Cardiff, Belfast"
-description: "York and Cardiff Christmas markets open Thursday 12 November 2026, Bath on 26 November and Lincoln on 3 December, per each organiser's official page."
+title: "UK Christmas Markets 2026: York and Cardiff Open Nov. 12"
+description: "UK Christmas markets 2026 open Thursday 12 November in York and Cardiff, Bath on 26 November, Lincoln on 3 December. Hours, last days and a printable."
 type: explainer
 publishedAt: "2026-11-04T06:00:00-05:00"
 updatedAt: "2026-11-08T11:25:00-05:00"

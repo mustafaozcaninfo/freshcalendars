@@ -1,7 +1,6 @@
 ---
-title: "Minimum Wage Increases on January 1, 2027: New Rates by State"
-seoTitle: "Minimum Wage 2027 by State: Jan. 1 Rates"
-description: "Michigan, Rhode Island, California, Washington and 11 more places have 2027 minimum wage rates set, per agencies and news reports. Rates and percent change."
+title: "Minimum Wage 2027 by State: Jan. 1 Rates, Michigan to $15.00"
+description: "Minimum wage 2027 rises Jan. 1 in 13 states, Seattle and Denver. Michigan goes to $15.00 and Seattle to $22.14, with a table of rates and percent change."
 type: news
 updatedAt: "2026-11-08T05:26:00-05:00"
 publishedAt: "2026-10-30T15:49:00-04:00"

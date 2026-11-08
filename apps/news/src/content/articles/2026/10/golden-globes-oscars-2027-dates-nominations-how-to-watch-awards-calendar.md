@@ -1,7 +1,6 @@
 ---
-title: "Golden Globes and Oscars 2027: Dates, Nominations and the Full Awards Calendar"
-seoTitle: "Golden Globes and Oscars 2027 Dates and Calendar"
-description: "The 84th Golden Globes air Sunday, Jan. 10, 2027, on CBS; the 99th Oscars are Sunday, March 14 at 7 p.m. Eastern Time (ET) on ABC. Every nomination date."
+title: "Golden Globes 2027 Nominations: Dec. 7, Show on Jan. 10"
+description: "Golden Globes 2027 nominations come Monday, Dec. 7, 2026; the show airs Sunday, Jan. 10 on CBS. Oscars are March 14. A 14-event awards calendar to print."
 type: news
 publishedAt: "2026-10-31T01:00:00-04:00"
 updatedAt: "2026-11-07T09:20:00-05:00"

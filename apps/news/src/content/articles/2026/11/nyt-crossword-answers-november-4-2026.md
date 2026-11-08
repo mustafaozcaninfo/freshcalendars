@@ -1,6 +1,5 @@
 ---
-title: "NYT Crossword Answers and Hints for Wednesday, Nov. 4, 2026: Four Long Across Entries, One Idea"
-seoTitle: "NYT Crossword Answers Today, Nov. 4, 2026"
+title: "NYT Crossword Answers Today, November 4, 2026"
 description: "The New York Times (NYT) Crossword for Wednesday, Nov. 4, 2026: a hint for all 74 of Peggy Sue Marlin's clues, how four long entries connect, then answers."
 type: explainer
 publishedAt: "2026-11-06T12:40:00-05:00"

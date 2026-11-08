@@ -1,6 +1,5 @@
 ---
-title: "NYT Mini Crossword Answers and Hints for Tuesday, Nov. 3, 2026: One Black Square"
-seoTitle: "NYT Mini Crossword Answers Today, Nov. 3, 2026"
+title: "NYT Mini Crossword Answers Today, November 3, 2026"
 description: "The New York Times (NYT) Mini Crossword for Tuesday, Nov. 3, 2026: a hint for each of the 10 clues on Sam Ezersky's five-by-five grid, then the answers."
 type: explainer
 publishedAt: "2026-11-02T22:30:00-05:00"

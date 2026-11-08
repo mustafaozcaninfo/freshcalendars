@@ -1,7 +1,6 @@
 ---
-title: "Code Blue 2026-27: Cold-Weather Shelter Rules in NYC, Philadelphia, DC and Boston"
-seoTitle: "Code Blue 2026-27: Shelter Rules by City"
-description: "New York City's Code Blue starts at 32°F, Philadelphia's needs precipitation, DC's Cold Alert uses a range and Boston has a shelter amnesty. Numbers inside."
+title: "Code Blue 2026-27: Shelter Triggers in NYC, Philadelphia, DC, Boston"
+description: "Code Blue 2026-27 starts at 32°F in New York City; Philadelphia needs precipitation and DC's Cold Alert uses a range. Printable wallet card."
 type: news
 publishedAt: "2026-11-04T15:12:00-05:00"
 authors: [christina-gerland]

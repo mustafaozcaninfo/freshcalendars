@@ -1,6 +1,5 @@
 ---
-title: "NYT Crossword Answers and Hints for Saturday, Nov. 7, 2026: Four Wordplay Clues, 66 in All"
-seoTitle: "NYT Crossword Answers Today, Nov. 7, 2026"
+title: "NYT Crossword Answers Today, November 7, 2026"
 description: "The New York Times (NYT) Crossword for Saturday, Nov. 7, 2026: a hint for all 66 of Adrian Johnson's clues, four wordplay tricks explained, then answers."
 type: explainer
 publishedAt: "2026-11-06T22:30:00-05:00"

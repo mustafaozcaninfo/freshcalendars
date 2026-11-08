@@ -1,6 +1,5 @@
 ---
-title: "Blossom Word Game Answers and Hints for Sunday, Oct. 25, 2026: Today's Letters, Words to Try and Pangrams"
-seoTitle: "Blossom Answers Today, Oct. 25, 2026: Letters, Pangrams"
+title: "Blossom Hints & Answers Today, October 25, 2026"
 description: "Merriam-Webster's Blossom for Sunday, Oct. 25, 2026: S in the center with A, E, H, R, T and W, words to try, pangram hints, then the pangrams at the end."
 type: explainer
 publishedAt: "2026-10-25T01:10:00-04:00"

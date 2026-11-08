@@ -1,7 +1,6 @@
 ---
-title: "World Toilet Day 2026: Thursday, Nov. 19, and the 'Safe Toilets. Equal Futures.' Theme"
-seoTitle: "World Toilet Day 2026: Thu., Nov. 19 and Theme"
-description: "World Toilet Day is Thursday, Nov. 19, 2026; the United Nations (UN) campaign is 'Safe toilets. Equal futures.' Sanitation data and a free sheet."
+title: "World Toilet Day 2026: Nov. 19 and the Safe Toilets Theme"
+description: "World Toilet Day is Thursday, Nov. 19, 2026. The theme is 'Safe toilets. Equal futures.' See sanitation figures, weekdays through 2031 and a free sheet."
 type: explainer
 publishedAt: "2026-11-04T06:43:00-05:00"
 authors: [christina-gerland]

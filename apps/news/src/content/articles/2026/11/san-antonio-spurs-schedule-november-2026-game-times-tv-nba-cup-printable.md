@@ -1,7 +1,6 @@
 ---
-title: "Spurs Schedule November 2026: Game Times, TV and NBA Cup Games"
-seoTitle: "Spurs Schedule November 2026: Times, TV, Cup Games"
-description: "The Spurs host Utah on Mon., Nov. 2, 2026, at 7:30 p.m. Central Time (CT), 8:30 p.m. Eastern Time (ET), first of 16 November games."
+title: "Spurs Schedule November 2026: 16 Games, Times in CT and ET"
+description: "The Spurs schedule for November 2026 starts Mon., Nov. 2, at 7:30 p.m. CT against Utah. All 16 games in CT and ET, TV, four NBA Cup games and a printable."
 type: news
 publishedAt: "2026-11-02T11:20:00-05:00"
 updatedAt: "2026-11-05T21:25:00-05:00"

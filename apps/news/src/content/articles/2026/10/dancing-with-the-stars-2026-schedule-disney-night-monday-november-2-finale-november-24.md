@@ -1,7 +1,6 @@
 ---
-title: "Dancing with the Stars Schedule: Disney Night Is Monday, Nov. 2, Finale Nov. 24"
-seoTitle: "Dancing with the Stars Schedule: Disney Night Nov. 2"
-description: "Dancing with the Stars Disney Night airs Mon., Nov. 2, 2026, 8 to 10 p.m. Eastern Time (ET) on ABC. No Tuesday episode Nov. 3; finale reported for Nov. 24."
+title: "Dancing with the Stars Schedule: Grammy Night Nov. 10, Finale Nov. 24"
+description: "Dancing with the Stars schedule: TV Insider reports Grammy Night on Nov. 10, Semifinals Nov. 17 and the finale Nov. 24. Disney Night aired Monday, Nov. 2."
 type: news
 publishedAt: "2026-10-30T21:48:00-04:00"
 authors: [jessica-hartwell]

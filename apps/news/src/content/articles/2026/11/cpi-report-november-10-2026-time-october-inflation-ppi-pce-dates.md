@@ -1,7 +1,6 @@
 ---
-title: "CPI Report Nov. 10, 2026: 8:30 a.m. ET Release Time and Inflation Data Dates to March 2027"
-seoTitle: "CPI Report Nov. 10, 2026: Time and Inflation Dates"
-description: "The Bureau of Labor Statistics (BLS) releases October 2026 Consumer Price Index (CPI) data Nov. 10 at 8:30 a.m. Eastern Time (ET), with producer price dates."
+title: "BLS CPI Release Schedule: Nov. 10, 2026 at 8:30 a.m. ET"
+description: "The Bureau of Labor Statistics schedules the October 2026 Consumer Price Index (CPI) for Nov. 10 at 8:30 a.m. ET. Release dates run to March 2027."
 type: news
 publishedAt: "2026-11-01T22:44:00-05:00"
 authors: [aaron-kessler]

@@ -1,6 +1,5 @@
 ---
-title: "NYT Connections: Sports Edition Hints and Answers for Thursday, Oct. 29, 2026 (#766)"
-seoTitle: "Connections Sports Edition Hints Today, Oct. 29 (#766)"
+title: "Connections Sports Edition #766 Answers, October 29, 2026"
 description: "Connections: Sports Edition #766 for Thursday, Oct. 29, 2026: a hint for each group, from college football to hockey, then all four answers and the traps."
 type: explainer
 publishedAt: "2026-10-29T14:30:00-04:00"

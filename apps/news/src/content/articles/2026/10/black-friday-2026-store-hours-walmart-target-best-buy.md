@@ -1,7 +1,6 @@
 ---
-title: "Black Friday 2026 Store Hours: Walmart, Target, Best Buy Opening Times and Who Closes on Thanksgiving"
-seoTitle: "Black Friday 2026 Store Hours: Walmart, Target, Best Buy"
-description: "Black Friday is Nov. 27, 2026. Opening times for Walmart, Home Depot, Kohl's, JCPenney and more, which stores close on Thanksgiving, and a printable planner."
+title: "Black Friday 2026 Store Hours: Walmart, Target 6 a.m., Kohl's 5 a.m."
+description: "Black Friday 2026 store hours: Walmart, Target and Home Depot open at 6 a.m. on Nov. 27, Kohl's and JCPenney at 5 a.m. Who closes on Thanksgiving."
 type: update
 publishedAt: "2026-10-20T17:30:00-04:00"
 updatedAt: "2026-11-07T15:25:00-05:00"

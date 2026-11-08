@@ -1,7 +1,6 @@
 ---
-title: "Nations League Fixtures November 2026: England, Scotland, Wales and Ireland Kick-Off Times"
-seoTitle: "Nations League Fixtures Nov. 2026: Kick-Off Times"
-description: "Union of European Football Associations (UEFA) Nations League Matchdays 5 and 6 run Nov. 12-17, 2026, opening with England v Croatia, 7.45pm UK, 2:45 p.m. ET."
+title: "Nations League Fixtures November 2026: England v Croatia Nov. 12"
+description: "Nations League Matchdays 5 and 6 run Nov. 12-17, 2026, opening with England v Croatia at 7.45pm UK, 2:45 p.m. ET. Scotland, Wales and Ireland times too."
 type: news
 publishedAt: "2026-11-01T02:45:00-05:00"
 authors: [jessica-hartwell]

@@ -1,7 +1,6 @@
 ---
-title: "Election Night 2026 Live Blog: Results Map, Senate, House and Governor Races"
-seoTitle: "Election Night 2026 Live Blog: Results Map and Races"
-description: "Live updates on the Nov. 3, 2026 midterms: a state-by-state results map, Senate, House and governor races, and poll closings from 6 p.m. Eastern Time (ET)."
+title: "Election Night 2026 Map: Results for 35 Senate, 36 Governor Races"
+description: "Election night 2026 results map for the Nov. 3 midterms. Tables for all 35 Senate and 36 governor races; a race is called only when two outlets call it."
 type: news
 publishedAt: "2026-11-03T12:48:00-05:00"
 updatedAt: "2026-11-04T00:20:33-05:00"

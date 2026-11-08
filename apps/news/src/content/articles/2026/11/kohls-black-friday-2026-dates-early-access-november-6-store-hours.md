@@ -1,7 +1,6 @@
 ---
-title: "Kohl's Black Friday 2026: Early Access Nov. 6-8, Closed Thanksgiving, Opens 5 a.m. Nov. 27"
-seoTitle: "Kohl's Black Friday 2026: Early Access Nov. 6-8"
-description: "Kohl's Black Friday Early Access runs Nov. 6-8, 2026, then Black Friday Week Nov. 22-28. Stores are closed Thanksgiving and reopen at 5 a.m. Nov. 27."
+title: "Kohl's Black Friday 2026: Opens 5 a.m. Nov. 27, Week Nov. 22-28"
+description: "Kohl's Black Friday 2026 starts with Early Access Nov. 6-8. Stores close Thanksgiving and reopen 5 a.m. Nov. 27; a table and printable list every date."
 type: news
 publishedAt: "2026-11-01T18:50:00-05:00"
 authors: [jessica-hartwell]

@@ -1,7 +1,6 @@
 ---
-title: "Spring Break 2027: 19 Large U.S. School Districts, and Why Eight Are Off Mar. 22-26"
-seoTitle: "Spring Break 2027 Dates for Big School Districts"
-description: "Spring break 2027 in 19 big U.S. districts: eight are off Mar. 22-26, Charlotte-Mecklenburg Schools (CMS) Mar. 29-Apr. 2, New York City Apr. 22-30."
+title: "Spring Break 2027: Eight of 19 Big Districts Off Mar. 22-26"
+description: "Spring break 2027 in 19 large U.S. districts: eight are off Mar. 22-26, Houston Mar. 8-12, New York City Apr. 22-30. Table with weekdays off."
 type: news
 publishedAt: "2026-10-26T08:45:00-04:00"
 updatedAt: "2026-11-03T08:52:00-05:00"

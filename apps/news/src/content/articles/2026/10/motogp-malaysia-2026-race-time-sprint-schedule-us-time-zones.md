@@ -1,7 +1,6 @@
 ---
-title: "MotoGP Malaysia 2026 Results: Marc Marquez Wins at Sepang, Acosta Takes the Sprint; Race Times"
-seoTitle: "MotoGP Malaysia 2026: Results and Race Times"
-description: "Marc Marquez won the Malaysian Grand Prix (GP) by 4.1 seconds on Nov. 1, 2026, and leads by 44 points, MotoGP says. Results, Sprint winner and U.S. race times."
+title: "MotoGP Malaysia 2026 Results: Marc Marquez Wins by 4.1 Seconds"
+description: "Marc Marquez won the Malaysian Grand Prix on Nov. 1, 2026, by 4.1 seconds and leads by 44 points. Pedro Acosta won the Sprint; sessions in U.S. time zones."
 type: explainer
 publishedAt: "2026-10-30T01:45:00-04:00"
 updatedAt: "2026-11-03T07:09:00-05:00"

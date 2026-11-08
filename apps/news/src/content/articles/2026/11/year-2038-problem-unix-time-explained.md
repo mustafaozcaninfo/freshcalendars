@@ -1,7 +1,6 @@
 ---
-title: "The Year 2038 Problem: Why Some 32-Bit Clocks Run Out on Jan. 19, 2038"
-seoTitle: "Year 2038 Problem: Unix Time Ends Jan. 19, 2038"
-description: "A signed 32-bit Unix time counter reaches its limit at 03:14:07 Coordinated Universal Time (UTC) on Jan. 19, 2038. Times by zone, the 2106 limit, a checklist."
+title: "The Year 2038 Problem: 32-Bit Clocks Run Out Jan. 19, 2038"
+description: "The Year 2038 problem hits at 03:14:07 UTC on Jan. 19, 2038, when signed 32-bit Unix time maxes out. Times by zone, the 2106 limit and a checklist."
 type: explainer
 publishedAt: "2026-11-04T15:09:00-05:00"
 authors: [jessica-hartwell]

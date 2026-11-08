@@ -1,7 +1,6 @@
 ---
-title: "Federal Funding Runs Out Dec. 11: The Next Shutdown Deadline Lands Five Weeks After the Midterms"
-seoTitle: "Government Shutdown Deadline Dec. 11, 2026: Key Dates"
-description: "A stopgap law signed Sept. 2 funds federal agencies through Friday, Dec. 11, 2026. What the deadline means and the calendar Congress faces after Nov. 3."
+title: "Government Shutdown Deadline Dec. 11, 2026: Lame-Duck Calendar"
+description: "Federal funding runs out after Friday, Dec. 11, 2026 under a stopgap law signed Sept. 2. What a lapse would affect and the lame-duck calendar after Nov. 3."
 type: news
 publishedAt: "2026-10-18T08:50:00-04:00"
 authors: [christina-gerland]

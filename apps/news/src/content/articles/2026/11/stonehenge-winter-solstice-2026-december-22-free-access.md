@@ -1,7 +1,6 @@
 ---
-title: "Stonehenge Winter Solstice 2026: Free Access Tue. 22 December, Parking and Sunrise Time"
-seoTitle: "Stonehenge Winter Solstice 2026: Parking, Sunrise"
-description: "English Heritage gives free access to Stonehenge on Tuesday 22 December 2026: pre-booked car park opens 5:15am, sunrise 8:09am Greenwich Mean Time (GMT)."
+title: "Stonehenge Winter Solstice 2026: Free Access on 22 December"
+description: "English Heritage gives free access to Stonehenge on Tuesday 22 December 2026, with sunrise at 8:09am. Parking prices, a timeline and US Eastern times."
 type: explainer
 publishedAt: "2026-11-04T11:56:00-05:00"
 updatedAt: "2026-11-04T11:56:00-05:00"

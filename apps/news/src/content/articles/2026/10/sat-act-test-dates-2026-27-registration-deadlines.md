@@ -1,7 +1,6 @@
 ---
-title: "SAT and ACT Test Dates 2026-27: Every Remaining Exam, Registration and Late Deadline, and Score Day"
-seoTitle: "SAT and ACT Test Dates 2026-27 and Deadlines"
-description: "SAT dates left in 2026-27: Nov. 7, Dec. 5, March 6, May 1 and June 5. ACT dates: Dec. 12, Feb. 27, April 10, June 12 and July 10, with every deadline."
+title: "ACT Dates 2026-27: Next Test Dec. 12, With SAT Dates and Deadlines"
+description: "ACT dates 2026-27: Dec. 12, Feb. 27, April 10, June 12 and July 10. SAT dates: Dec. 5, March 6, May 1 and June 5, with every registration deadline."
 type: explainer
 publishedAt: "2026-10-19T11:28:00-04:00"
 updatedAt: "2026-10-28T16:12:00-04:00"

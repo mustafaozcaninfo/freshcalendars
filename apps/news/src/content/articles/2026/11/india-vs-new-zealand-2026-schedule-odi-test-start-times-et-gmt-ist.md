@@ -1,7 +1,6 @@
 ---
-title: "India vs New Zealand 2026: ODI and Test Schedule With Start Times in ET, GMT and IST"
-seoTitle: "India vs New Zealand 2026: Schedule and Times"
-description: "The fifth Twenty20 International (T20I) was Nov. 1 at 2 a.m. Eastern Time (ET); the first One Day International (ODI) starts Tue., Nov. 3 at 9 p.m. ET."
+title: "India vs New Zealand 2026: First Test Nov. 18 at 5 p.m. ET"
+description: "India vs New Zealand 2026: the first Test is Wed., Nov. 18 at 5 p.m. ET; the first One Day International (ODI) was Nov. 3 at 9 p.m. ET. Times in ET, GMT."
 type: news
 publishedAt: "2026-11-01T02:47:00-05:00"
 updatedAt: "2026-11-02T14:10:00-05:00"

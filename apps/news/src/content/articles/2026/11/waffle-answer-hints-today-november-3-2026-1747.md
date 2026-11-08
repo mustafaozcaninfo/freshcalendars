@@ -1,6 +1,5 @@
 ---
-title: "Waffle Answer and Hints Today, #1747 for Tuesday, Nov. 3, 2026: Clues for Six Words"
-seoTitle: "Waffle Answer & Hints Today, #1747 (Nov. 3, 2026)"
+title: "Waffle #1747 Hints & Answers Today, November 3, 2026"
 description: "Waffle #1747 for Tuesday, Nov. 3, 2026: a clue for each of the six words, then the answers in a marked spoiler section, with the starting and solved grids."
 type: explainer
 publishedAt: "2026-11-03T07:20:00-05:00"

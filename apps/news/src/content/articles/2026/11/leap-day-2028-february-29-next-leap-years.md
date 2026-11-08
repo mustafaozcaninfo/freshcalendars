@@ -1,7 +1,6 @@
 ---
-title: "Leap Day 2028 Falls on Tuesday, Feb. 29: Next Leap Years and Leap Birthday Rules"
-seoTitle: "Leap Day 2028: Tuesday, Feb. 29, Next Leap Years"
-description: "The next leap day is Tuesday, Feb. 29, 2028, under the U.S. Naval Observatory (USNO) rule. Every Feb. 29 to 2096 and the Nevada and Michigan birthday rules."
+title: "Leap Day 2028: Tuesday, Feb. 29, and Every Leap Day to 2096"
+description: "Leap day 2028 is Tuesday, Feb. 29. The weekday of every leap day to 2096, how Nevada and Michigan treat a Feb. 29 birthday, and a printable list."
 type: explainer
 publishedAt: "2026-11-04T16:40:00-05:00"
 authors: [jessica-hartwell]

@@ -1,6 +1,5 @@
 ---
-title: "NYT Connections Hints and Answers for Wednesday, Oct. 28, 2026 (#1235): Mars Rovers and Path Homophones"
-seoTitle: "Connections Hints Today, Oct. 28, 2026 (#1235)"
+title: "Connections #1235 Hints & Answers Today, October 28, 2026"
 description: "Connections #1235 for Wednesday, Oct. 28, 2026: two levels of hints for every group, the decoy words to avoid, then the full answers at the very end."
 type: explainer
 publishedAt: "2026-10-27T00:05:00-04:00"

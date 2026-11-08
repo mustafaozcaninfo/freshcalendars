@@ -1,6 +1,5 @@
 ---
-title: "Wordle Hints and Answer Today, #1964 for Wednesday, Nov. 4, 2026: Six Clues Before the Reveal"
-seoTitle: "Wordle Hint Today, #1964 (Nov. 4, 2026): Clues & Answer"
+title: "Wordle #1964 Hints & Answer Today, November 4, 2026"
 description: "Wordle #1964 for Wednesday, Nov. 4, 2026: six graded clues, from the letter pattern to a strong nudge, then the answer in a spoiler section at the end."
 type: explainer
 publishedAt: "2026-11-03T00:05:00-05:00"

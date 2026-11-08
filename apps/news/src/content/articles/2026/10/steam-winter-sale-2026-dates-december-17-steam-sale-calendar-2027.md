@@ -1,7 +1,6 @@
 ---
-title: "Steam Winter Sale 2026 Dates: Dec. 17 to Jan. 4, Plus Every Steam Sale and Fest Through June 2027"
-seoTitle: "Steam Winter Sale 2026 Dates and Sale Calendar 2027"
-description: "The Steam Winter Sale 2026 runs Thu., Dec. 17, 2026, to Mon., Jan. 4, 2027, per Valve's Steamworks page, with every Steam sale and Fest date through June 2027."
+title: "Steam Winter Sale 2026 Dates: Dec. 17 to Jan. 4, 2027"
+description: "The Steam Winter Sale 2026 runs Thu., Dec. 17 to Mon., Jan. 4, per Valve. Also every Steam sale and Fest date through June 2027, with a free printable."
 type: explainer
 publishedAt: "2026-10-28T19:43:00-04:00"
 authors: [jessica-hartwell]

@@ -1,7 +1,6 @@
 ---
-title: "Winter Break 2026: Dates for 39 U.S. School Districts, and Who Goes Back on Jan. 4, 5 or Later"
-seoTitle: "Winter Break 2026 Dates for Big School Districts"
-description: "Winter break 2026 in 39 school districts: most are off Dec. 21-Jan. 1, NYC from Dec. 24, Los Angeles until Jan. 8. Return dates and Thanksgiving breaks."
+title: "Winter Break 2026: 39 School Districts, Most Off Dec. 21-Jan. 1"
+description: "Christmas break for school in 2026: 34 of 39 districts are off Dec. 21-Jan. 1, New York City from Dec. 24, Los Angeles to Jan. 8. Return dates for each."
 type: news
 publishedAt: "2026-10-20T01:35:00-04:00"
 updatedAt: "2026-11-04T11:26:00-05:00"

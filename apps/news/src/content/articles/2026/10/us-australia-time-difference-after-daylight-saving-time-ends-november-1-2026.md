@@ -1,7 +1,6 @@
 ---
-title: "US-Australia Time Difference After Nov. 1, 2026: Sydney Is 16 Hours Ahead of New York"
-seoTitle: "US-Australia Time Difference After Nov. 1, 2026"
-description: "Sydney is 16 hours ahead of New York from Sunday, Nov. 1, 2026, when US clocks fall back. Tables for Australia, New Zealand and every US zone to April 2027."
+title: "US-Australia Time Difference: Sydney 16 Hours Ahead of New York"
+description: "Sydney is 16 hours ahead of New York from Nov. 1, 2026, when US clocks fell back. Tables for Australia, New Zealand and every US zone to April 2027."
 type: explainer
 publishedAt: "2026-10-30T01:58:00-04:00"
 updatedAt: "2026-11-01T05:45:00-05:00"

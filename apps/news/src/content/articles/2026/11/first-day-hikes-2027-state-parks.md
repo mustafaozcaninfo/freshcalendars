@@ -1,6 +1,5 @@
 ---
-title: "First Day Hikes 2027: Friday, Jan. 1 Guided Walks, State by State"
-seoTitle: "First Day Hikes 2027: Jan. 1 by State"
+title: "First Day Hikes 2027: Jan. 1 Hikes Posted by State"
 description: "First Day Hikes 2027 fall on Friday, Jan. 1. Texas, Minnesota, Virginia and Pennsylvania have posted hikes; New York, California and others have not yet."
 type: news
 publishedAt: "2026-11-04T06:43:00-05:00"

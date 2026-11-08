@@ -1,6 +1,5 @@
 ---
-title: "Blossom Word Game Answers and Hints for Friday, Nov. 6, 2026: Letters and Pangrams"
-seoTitle: "Blossom Answers Today, Nov. 6, 2026: Pangrams"
+title: "Blossom Hints & Answers Today, November 6, 2026"
 description: "Blossom for Friday, Nov. 6, 2026 from Merriam-Webster: center letter O, six petals, four pangrams counted by length and 23 long words, with answers last."
 type: explainer
 publishedAt: "2026-11-06T07:45:00-05:00"

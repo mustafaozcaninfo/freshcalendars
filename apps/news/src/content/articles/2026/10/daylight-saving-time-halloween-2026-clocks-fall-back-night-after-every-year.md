@@ -1,7 +1,6 @@
 ---
-title: "Daylight Saving Time and Halloween: Clocks Fall Back the Night After in 2026, and the Years It Happens Again"
-seoTitle: "Daylight Saving Time and Halloween 2026: Clocks Fall Back"
-description: "Daylight saving time (DST) ended 2 a.m. Sunday, Nov. 1, 2026, the night after Halloween. Federal law set the November date in 2007; the pattern returns in 2037."
+title: "Halloween on a Saturday After 2026: Next Time Is 2037"
+description: "Halloween next falls on a Saturday in 2037, after 2026. Clocks fell back the night after in 2026; earlier Saturday years were 2009, 2015 and 2020."
 type: explainer
 publishedAt: "2026-10-29T10:08:00-04:00"
 updatedAt: "2026-11-01T05:45:00-05:00"

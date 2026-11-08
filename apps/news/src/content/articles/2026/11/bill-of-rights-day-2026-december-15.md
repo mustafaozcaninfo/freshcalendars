@@ -1,7 +1,6 @@
 ---
-title: "Bill of Rights Day 2026: Tuesday, Dec. 15, and the 10 Amendments Ratified in 1791"
-seoTitle: "Bill of Rights Day 2026: Tue., Dec. 15"
-description: "Bill of Rights Day is Tuesday, Dec. 15, 2026, the date 10 amendments were ratified in 1791. It is not a federal holiday. See the amendments and a free sheet."
+title: "Bill of Rights Day 2026: Tuesday, Dec. 15, Not a Federal Holiday"
+description: "Bill of Rights Day is Tuesday, Dec. 15, 2026, and not a federal holiday. See the 10 amendments ratified in 1791, weekdays through 2031 and a free sheet."
 type: explainer
 publishedAt: "2026-11-04T07:48:00-05:00"
 updatedAt: "2026-11-04T07:48:00-05:00"

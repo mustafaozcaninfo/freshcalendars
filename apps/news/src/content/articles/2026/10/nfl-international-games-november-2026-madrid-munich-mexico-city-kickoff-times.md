@@ -1,7 +1,6 @@
 ---
-title: "NFL International Games 2026: Madrid, Munich and Mexico City Kickoff Times by Time Zone in November"
-seoTitle: "NFL Madrid, Munich, Mexico City 2026 Kickoff Times"
-description: "The National Football League (NFL) plays Bengals vs. Falcons in Madrid Sun., Nov. 8, 2026, at 9:30 a.m. Eastern Time (ET), 3:30 p.m. local, on NFL Network."
+title: "NFL International Games 2026: Madrid Nov. 8, Munich Nov. 15"
+description: "NFL international games in November 2026: Madrid Nov. 8 at 9:30 a.m. ET, Munich Nov. 15, Mexico City Nov. 22. Kickoffs by time zone and a free printable."
 type: news
 publishedAt: "2026-10-28T02:40:00-04:00"
 updatedAt: "2026-11-08T07:25:00-05:00"

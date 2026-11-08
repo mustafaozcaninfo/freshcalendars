@@ -1,7 +1,6 @@
 ---
-title: "IndyCar Schedule 2027: 17 Races From St. Petersburg on Mar. 7 to Laguna Seca on Sept. 5"
-seoTitle: "IndyCar Schedule 2027: 17 Races, Indy 500 on May 30"
-description: "The 2027 IndyCar schedule has 17 races, from St. Petersburg on Sun., Mar. 7 to Laguna Seca on Sept. 5, with the 111th Indianapolis 500 on Sun., May 30."
+title: "IndyCar Schedule 2027: 17 Races, Indy 500 on May 30"
+description: "The 2027 IndyCar schedule has 17 races, from St. Petersburg on Mar. 7 to Laguna Seca on Sept. 5. The 111th Indy 500 is May 30; printable copy included."
 type: news
 publishedAt: "2026-11-07T10:48:00-05:00"
 updatedAt: "2026-11-07T10:48:00-05:00"

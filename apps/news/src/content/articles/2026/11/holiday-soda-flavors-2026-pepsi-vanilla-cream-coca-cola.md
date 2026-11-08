@@ -1,7 +1,6 @@
 ---
-title: "Holiday Soda Flavors 2026: Pepsi Vanilla & Cream and Coca-Cola Holiday Creamy Vanilla"
-seoTitle: "Holiday Soda Flavors 2026: Pepsi and Coca-Cola"
-description: "Pepsi Vanilla & Cream went on sale Oct. 19, 2026, PepsiCo says; Coca-Cola Holiday Creamy Vanilla began Oct. 12, per Parade. Both come in 12-packs and bottles."
+title: "Holiday Soda Flavors 2026: Pepsi Oct. 19, Coca-Cola Oct. 12"
+description: "Holiday soda flavors 2026: Pepsi Vanilla & Cream went on sale Oct. 19, PepsiCo says; Coca-Cola Holiday Creamy Vanilla began Oct. 12. Printable comparison."
 type: news
 publishedAt: "2026-11-04T15:05:00-05:00"
 updatedAt: "2026-11-04T15:05:00-05:00"

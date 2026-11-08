@@ -1,7 +1,6 @@
 ---
-title: "Ugly Christmas Sweater Day 2026: Friday, Dec. 18, and Charity Sweater Runs"
-seoTitle: "Ugly Christmas Sweater Day 2026: Fri., Dec. 18"
-description: "Ugly Christmas Sweater Day 2026 is Friday, Dec. 18, the third Friday of December, per CBS News Detroit and FOX 5 Atlanta. It has no official status. Printable."
+title: "Ugly Sweater Day 2026: Friday, Dec. 18, Dates to 2031 and a Printable"
+description: "Ugly Christmas Sweater Day 2026 is Friday, Dec. 18, the third Friday of December. Dates through 2031, charity sweater runs and a free printable."
 type: explainer
 publishedAt: "2026-11-04T11:50:00-05:00"
 updatedAt: "2026-11-04T11:50:00-05:00"

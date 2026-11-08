@@ -1,7 +1,6 @@
 ---
-title: "American Education Week 2026: Nov. 16-20 Daily Themes From the NEA"
-seoTitle: "American Education Week 2026: Nov. 16-20 Daily Themes"
-description: "American Education Week 2026 runs Nov. 16-20, per the National Education Association (NEA), with five daily themes from Kickoff Day to Substitute Educators Day."
+title: "American Education Week 2026: Nov. 16-20, Theme for Each Day"
+description: "American Education Week 2026 runs Nov. 16-20, from Kickoff Day to Substitute Educators Day. See all five daily themes and a one-page printable."
 type: news
 publishedAt: "2026-11-06T14:05:00-05:00"
 authors: [aaron-kessler]

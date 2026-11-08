@@ -1,6 +1,5 @@
 ---
-title: "NYT Mini Crossword Answers and Hints for Wednesday, Oct. 21, 2026: All 10 Clues Solved, Plus a Hidden Whisper"
-seoTitle: "NYT Mini Crossword Answers Today, Oct. 21, 2026"
+title: "NYT Mini Crossword Answers Today, October 21, 2026"
 description: "The New York Times Mini Crossword for Oct. 21, 2026: a hint for each of the 10 clues, then every Across and Down answer and the circled-letter trick."
 type: explainer
 publishedAt: "2026-10-21T01:16:00-04:00"

@@ -1,7 +1,6 @@
 ---
-title: "Pret Christmas Menu 2026: Christmas Sandwich, New Hot Baguette and Festive Drinks"
-seoTitle: "Pret Christmas Menu 2026: Full List and Calories"
-description: "Pret A Manger's Christmas menu was live on its United Kingdom (UK) site on 5 November 2026, with a new Christmas Hot Baguette and the Christmas Sandwich back."
+title: "Pret Christmas Menu 2026: New Hot Baguette, Calories for Six Items"
+description: "Pret's Christmas menu 2026 was live on pret.co.uk on 5 November, with a new Christmas Hot Baguette. Calories for six items; no prices or launch date yet."
 type: news
 publishedAt: "2026-11-05T06:10:00-05:00"
 updatedAt: "2026-11-05T06:10:00-05:00"

@@ -1,7 +1,6 @@
 ---
-title: "Sports on TV Today: Saturday, Oct. 31, 2026 Schedule, 54 Events, Times and Channels"
-seoTitle: "Sports on TV Today, Oct. 31, 2026: 54 Events"
-description: "Sports on TV Saturday, Oct. 31, 2026: 54 events from 11:15 a.m. Eastern Time (ET), with channels for college football, the NBA, NHL and the Breeders' Cup."
+title: "Sports on TV Today, Oct. 31, 2026: 54 Events, From 11:15 a.m. ET"
+description: "Sports on TV Saturday, Oct. 31, 2026: 54 events from 11:15 a.m. ET, with the Breeders' Cup Classic at 6:16 p.m. ET. One time-ordered table with channels."
 type: news
 publishedAt: "2026-10-30T04:25:00-04:00"
 authors: [jessica-hartwell]

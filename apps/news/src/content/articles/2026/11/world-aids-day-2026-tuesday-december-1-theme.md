@@ -1,7 +1,6 @@
 ---
-title: "World AIDS Day 2026: Tuesday, Dec. 1, and the Theme, Access"
-seoTitle: "World AIDS Day 2026: Dec. 1 Date and Theme, Access"
-description: "The acquired immunodeficiency syndrome (AIDS) awareness day, World AIDS Day, is Tuesday, Dec. 1, 2026. Its 2026 theme is access."
+title: "World AIDS Day 2026: Tuesday, Dec. 1, Theme Is Access"
+description: "World acquired immunodeficiency syndrome (AIDS) Day is Tuesday, Dec. 1, 2026; the theme is access. Themes by year and free self-tests by mail."
 type: news
 publishedAt: "2026-11-03T06:10:00-05:00"
 updatedAt: "2026-11-04T13:20:00-05:00"

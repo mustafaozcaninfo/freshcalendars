@@ -1,7 +1,6 @@
 ---
-title: "Ottawa Santa Claus Parade 2026: Saturday, Nov. 21 at 11 a.m., Route and Start Point"
-seoTitle: "Ottawa Santa Claus Parade 2026: Nov. 21, 11 a.m. Route"
-description: "Ottawa's Help Santa Toy Parade is Saturday, Nov. 21, 2026 at 11 a.m. Eastern Time (ET), from Queen Elizabeth Driveway to Lansdowne Park, says its organizer."
+title: "Ottawa Christmas Parade 2026: Nov. 21 at 11 a.m., Route and Start"
+description: "Ottawa's Christmas parade, the Help Santa Toy Parade, is Saturday, Nov. 21, 2026 at 11 a.m. ET. Route to Lansdowne Park, plus a printable day guide."
 type: news
 publishedAt: "2026-11-04T09:12:00-05:00"
 authors: [christina-gerland]

@@ -1,6 +1,5 @@
 ---
-title: "Waffle Answer and Hints Today, #1744 for Saturday, Oct. 31, 2026: Clues for Six Words"
-seoTitle: "Waffle Answer & Hints Today, #1744 (Oct. 31, 2026)"
+title: "Waffle #1744 Hints & Answers Today, October 31, 2026"
 description: "Waffle #1744 for Saturday, Oct. 31, 2026: a clue for each of the six words, then the answers and a 10-swap route to five stars in a marked spoiler section."
 type: explainer
 publishedAt: "2026-10-31T07:25:00-04:00"

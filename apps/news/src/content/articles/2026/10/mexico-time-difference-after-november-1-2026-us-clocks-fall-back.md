@@ -1,7 +1,6 @@
 ---
-title: "Mexico Time Difference After Nov. 1, 2026: US Clocks Fall Back, Mexico Mostly Stays"
-seoTitle: "Mexico vs US Time Difference After Nov. 1, 2026"
-description: "US clocks go back at 2 a.m. Sunday, Nov. 1, 2026, but most of Mexico does not, so Mexico City matches Chicago. Tables of every zone and the border towns."
+title: "Mexico Time Difference After Nov. 1, 2026: Mexico City Matches Chicago"
+description: "Mexico City is on Chicago's time from Nov. 1, 2026, since most of Mexico did not fall back with US clocks. Tables of every zone and the border towns."
 type: explainer
 publishedAt: "2026-10-28T09:58:00-04:00"
 updatedAt: "2026-11-01T05:45:00-05:00"

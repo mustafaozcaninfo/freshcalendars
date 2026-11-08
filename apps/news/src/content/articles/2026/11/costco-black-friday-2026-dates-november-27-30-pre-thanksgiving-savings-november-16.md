@@ -1,7 +1,6 @@
 ---
-title: "Costco Black Friday 2026: Savings Nov. 27-30, Pre-Thanksgiving Deals From Nov. 16"
-seoTitle: "Costco Black Friday 2026: Nov. 27-30 Savings Dates"
-description: "Costco's Black Friday 2026 holiday savings are valid Nov. 27 to 30, with pre-Thanksgiving savings from Nov. 16. Warehouses are closed Thanksgiving, Nov. 26."
+title: "Costco Black Friday 2026: Nov. 27-30 Savings, Deals From Nov. 16"
+description: "Costco's Black Friday 2026 savings run Nov. 27 to 30, with pre-Thanksgiving savings from Nov. 16. A table of all four windows and a printable calendar."
 type: news
 publishedAt: "2026-11-01T12:46:00-05:00"
 authors: [jessica-hartwell]

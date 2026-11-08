@@ -1,7 +1,6 @@
 ---
-title: "Quordle Hints and Answers Today, #1744 for Tuesday, Nov. 3, 2026: Clues for All Words"
-seoTitle: "Quordle Hints & Answers Today, Nov. 3, 2026 (#1744)"
-description: "Quordle #1744 for Tuesday, Nov. 3, 2026: a clue for each of the four words, a starter strategy, then all answers in a marked spoiler section at the very end."
+title: "Quordle #1744 Hints & Answers Today, November 3, 2026"
+description: "Quordle hints for #1744, Tuesday, Nov. 3, 2026: a clue for each of the four words, grouped by first letter, plus a strategy and spoiler-marked answers."
 type: explainer
 publishedAt: "2026-11-03T07:20:00-05:00"
 updatedAt: "2026-11-03T07:20:00-05:00"

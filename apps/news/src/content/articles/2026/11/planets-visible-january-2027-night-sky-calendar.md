@@ -1,7 +1,6 @@
 ---
-title: "Planets Visible in January 2027: Night Sky Calendar With Moon and Quadrantids"
-seoTitle: "Planets Visible in January 2027: Night Sky Calendar"
-description: "Venus reaches greatest western elongation Jan. 3, 2027, about 1 p.m. Eastern Standard Time (EST), and the Quadrantids peak that night. Full sky table."
+title: "Planets Visible in January 2027: Venus Elongation Jan. 3"
+description: "Planets visible in January 2027: Venus reaches greatest western elongation Jan. 3 and the Quadrantids peak near 10:30 p.m. EST. Table with Moon phases."
 type: explainer
 publishedAt: "2026-11-04T12:52:00-05:00"
 authors: [jessica-hartwell]

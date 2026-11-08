@@ -1,7 +1,6 @@
 ---
-title: "Social Security Payment Schedule January 2027: Dates by Birthday and the First 3.6% Raise"
-seoTitle: "Social Security Schedule January 2027: First 3.6% Raise"
-description: "Social Security Administration (SSA) pays Jan. 13, 20 and 27, 2027 by birthday, the first checks with the 3.6% cost-of-living adjustment (COLA)."
+title: "Social Security Payment Schedule January 2027: Jan. 13, 20, 27"
+description: "Social Security payments in January 2027 are Jan. 13, 20 and 27 by birthday, the first with the 3.6% raise. A printable marks the Dec. 31 and Feb. 1 dates."
 type: news
 publishedAt: "2026-11-02T08:55:00-05:00"
 authors: [aaron-kessler]

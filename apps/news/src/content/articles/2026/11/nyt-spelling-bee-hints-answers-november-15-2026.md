@@ -1,6 +1,6 @@
 ---
 title: "Spelling Bee Hints & Answers Today, November 15, 2026"
-description: "Sunday's Spelling Bee from The New York Times (NYT) for Nov. 15, 2026: center T, 32 words, 144 points, Genius at 101, what four-letter words are worth, a hint."
+description: "Spelling Bee hints and answers for Nov. 15, 2026: center T, 32 words, 144 points, Genius at 101. A pangram clue and a hint grid come before the answers."
 type: explainer
 publishedAt: "2026-11-14T00:05:00-05:00"
 authors: [news-desk]

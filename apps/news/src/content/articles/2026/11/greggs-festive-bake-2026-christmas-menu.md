@@ -1,6 +1,5 @@
 ---
-title: "Greggs Christmas Menu 2026: Festive Bake in Shops From 22 October, All Six Items"
-seoTitle: "Greggs Christmas Menu 2026: Festive Bake, Six Items"
+title: "Greggs Christmas Menu 2026: Festive Bake From 22 October, Six Items"
 description: "Greggs says its 2026 Christmas menu is in shop from Thursday, 22 October, led by a new-recipe Festive Bake. It lists six items and no prices."
 type: news
 publishedAt: "2026-11-04T14:57:00-05:00"

@@ -1,6 +1,5 @@
 ---
-title: "NYT Mini Crossword Answers and Hints for Sunday, Oct. 25, 2026: All 10 Clues and Two Matching Music Genres"
-seoTitle: "NYT Mini Crossword Answers Today, Oct. 25, 2026"
+title: "NYT Mini Crossword Answers Today, October 25, 2026"
 description: "The New York Times Mini Crossword for Oct. 25, 2026: a hint for each of the 10 clues, then every Across and Down answer and the trick linking two of them."
 type: explainer
 publishedAt: "2026-10-25T01:00:00-04:00"

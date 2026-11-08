@@ -1,7 +1,6 @@
 ---
-title: "World Nursery Rhyme Week 2026: Nov. 9-13 Dates, the 5 Official Rhymes and a Printable"
-seoTitle: "World Nursery Rhyme Week 2026: Nov. 9-13 Rhymes"
-description: "World Nursery Rhyme Week 2026 runs Nov. 9-13, says the organiser's website, which lists five official rhymes and a free resource pack. Day table and printable."
+title: "World Nursery Rhyme Week 2026: Nov. 9-13 and the 5 Official Rhymes"
+description: "World Nursery Rhyme Week 2026 runs Nov. 9-13, per the organiser. A day-by-day table names the five official rhymes, with a printable activity sheet."
 type: news
 publishedAt: "2026-11-08T06:25:00-05:00"
 updatedAt: "2026-11-08T06:25:00-05:00"

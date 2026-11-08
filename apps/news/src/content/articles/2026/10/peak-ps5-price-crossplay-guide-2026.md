@@ -1,7 +1,6 @@
 ---
-title: "PEAK on PS5: $9.99 Price, Crossplay With Steam and What to Know Before You Buy"
-seoTitle: "PEAK on PS5: $9.99, Crossplay and What to Know"
-description: "PEAK launched on PlayStation 5 (PS5) on Thursday, Oct. 22, 2026, for $9.99 in the U.S., with crossplay with Steam, Xbox and Switch 2 but no cross-save."
+title: "Can You Play PEAK Split Screen on PS5? Online Co-op Only"
+description: "PEAK on PS5 has no split-screen listed; official pages describe online co-op only. It costs $9.99, has Steam crossplay, and a disc edition is due Dec. 9."
 type: news
 publishedAt: "2026-10-23T03:00:00-04:00"
 authors: [jessica-hartwell]

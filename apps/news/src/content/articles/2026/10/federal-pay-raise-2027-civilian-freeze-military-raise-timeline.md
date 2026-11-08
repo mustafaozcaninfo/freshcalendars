@@ -1,7 +1,6 @@
 ---
-title: "Federal Pay Raise 2027: Civilian Freeze Proposed, Military Raise of 5% to 7% and Key Dates"
-seoTitle: "Federal Pay Raise 2027: Civilian Freeze, Military 5-7%"
-description: "The President's alternative plan would freeze 2027 civilian federal pay and raise military pay 5% to 7%. See who gets what and the dates still ahead."
+title: "Federal Pay Raise 2027: Civilian Freeze Proposed, Military 5% to 7%"
+description: "The proposed 2027 federal pay raise freezes civilian pay at 2026 rates and raises military pay 5% to 7%. A table sets the plan beside two defense bills."
 type: news
 publishedAt: "2026-10-25T15:15:00-04:00"
 authors: [aaron-kessler]

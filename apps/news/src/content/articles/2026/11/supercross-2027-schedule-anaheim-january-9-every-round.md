@@ -1,7 +1,6 @@
 ---
-title: "Supercross 2027 Schedule: Anaheim Opens Jan. 9, All 17 Rounds and the SMX Final"
-seoTitle: "Supercross 2027 Schedule: Anaheim Jan. 9, 17 Rounds"
-description: "Supercross 2027 opens Sat., Jan. 9 at Angel Stadium in Anaheim, runs 17 rounds to Salt Lake City on May 15, then the SuperMotocross (SMX) Final on Sept. 25."
+title: "Supercross 2027 Schedule: Anaheim Jan. 9, All 17 Rounds to May 15"
+description: "Supercross 2027 schedule: Anaheim opens Sat., Jan. 9, with 17 rounds to Salt Lake City on May 15. Every round, 250 class and Triple Crown night in a table."
 type: news
 publishedAt: "2026-11-07T23:13:00-05:00"
 updatedAt: "2026-11-07T23:13:00-05:00"

@@ -1,7 +1,6 @@
 ---
-title: "FA Cup Second Round Draw 2026: Nov. 9 Time in ET and GMT, TV and Ball Numbers"
-seoTitle: "FA Cup Second Round Draw 2026: Time, TV, Balls"
-description: "The FA Cup second round draw is Monday, Nov. 9, 2026, at about 6.45pm Greenwich Mean Time (GMT), or 1:45 p.m. Eastern Time (ET), live on television."
+title: "FA Cup Second Round Draw 2026: Nov. 9 at 1:45 p.m. ET, TV"
+description: "The FA Cup second round draw is Monday, Nov. 9, 2026, at about 1:45 p.m. ET (6.45pm UK time), live on TV. Ball numbers and a printable draw sheet."
 type: news
 publishedAt: "2026-11-08T06:14:00-05:00"
 updatedAt: "2026-11-08T06:14:00-05:00"

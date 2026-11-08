@@ -1,7 +1,6 @@
 ---
-title: "World Chess Championship 2026: Gukesh vs. Sindarov Schedule and Game Times in ET"
-seoTitle: "World Chess Championship 2026: Schedule and Times"
-description: "The International Chess Federation (FIDE) lists Game 1 of Gukesh vs. Sindarov for Nov. 24 in Geneva at 3 p.m. local time, which is 9 a.m. Eastern Time (ET)."
+title: "World Chess Championship 2026: Game 1 Nov. 24, 9 a.m. ET"
+description: "World Chess Championship 2026 starts Nov. 24 in Geneva at 9 a.m. ET. See all 14 classical games, the Dec. 12 tie-break and the 6 a.m. Pacific start."
 type: news
 publishedAt: "2026-11-07T10:50:00-05:00"
 updatedAt: "2026-11-07T10:50:00-05:00"

@@ -1,7 +1,6 @@
 ---
-title: "MCPS Calendar 2026-27: Winter Break Dec. 24 to Jan. 1, Last Day of School June 11"
-seoTitle: "MCPS Calendar 2026-27: Breaks and Last Day"
-description: "Montgomery County Public Schools (MCPS) 2026-27: first day Aug. 25, no school Dec. 24 to Jan. 1 and Mar. 26 to Apr. 2, last day June 11, make-up days."
+title: "MCPS Calendar 2026-27: Winter Break Dec. 24-Jan. 1, Last Day June 11"
+description: "Montgomery County Public Schools (MCPS) calendar 2026-27: first day Aug. 25, no school Dec. 24 to Jan. 1, last day June 11, plus six possible make-up days."
 type: news
 publishedAt: "2026-11-02T14:40:00-05:00"
 authors: [aaron-kessler]

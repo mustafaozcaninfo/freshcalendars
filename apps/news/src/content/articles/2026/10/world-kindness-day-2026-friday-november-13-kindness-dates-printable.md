@@ -1,7 +1,6 @@
 ---
-title: "World Kindness Day 2026 Is Friday, Nov. 13: Dates, Ideas and a Free Week Planner"
-seoTitle: "World Kindness Day 2026: Friday, Nov. 13"
-description: "World Kindness Day is Friday, Nov. 13, 2026, per the Random Acts of Kindness (RAK) Foundation. School-year kindness dates and a free printable week planner."
+title: "World Kindness Day 2026: Friday, Nov. 13, Free Week Planner"
+description: "World Kindness Day is Friday, Nov. 13, 2026. School-year kindness dates through Feb. 24, 2027 and a free printable planner for Nov. 9 to 13."
 type: explainer
 publishedAt: "2026-10-30T19:45:00-04:00"
 authors: [christina-gerland]

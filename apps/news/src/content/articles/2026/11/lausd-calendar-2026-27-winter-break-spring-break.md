@@ -1,7 +1,6 @@
 ---
-title: "LAUSD Calendar 2026-27: Winter Break Dec. 21 to Jan. 8, Spring Break March 22-26"
-seoTitle: "LAUSD Calendar 2026-27: Winter and Spring Break"
-description: "Los Angeles Unified School District (LAUSD) 2026-27: winter recess Dec. 21 to Jan. 8, spring recess March 22-26, last day of instruction Fri., June 4, 2027."
+title: "LAUSD Calendar 2026-27: Winter Break Dec. 21-Jan. 8, Last Day June 4"
+description: "Los Angeles Unified School District (LAUSD) 2026-27: winter recess Dec. 21-Jan. 8, spring recess March 22-26, last day June 4. Every no-school day listed."
 type: news
 publishedAt: "2026-11-02T09:00:00-05:00"
 authors: [aaron-kessler]

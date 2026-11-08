@@ -1,6 +1,5 @@
 ---
-title: "NYT Connections Hints and Answers for Tuesday, Oct. 27, 2026 (#1234): Ear Parts and Two Bell Groups"
-seoTitle: "Connections Hints Today, Oct. 27, 2026 (#1234)"
+title: "Connections #1234 Hints & Answers Today, October 27, 2026"
 description: "Connections #1234 for Tuesday, Oct. 27, 2026: two levels of hints for every group, the decoy words to avoid, then the full answers at the very end."
 type: explainer
 publishedAt: "2026-10-26T01:45:00-04:00"

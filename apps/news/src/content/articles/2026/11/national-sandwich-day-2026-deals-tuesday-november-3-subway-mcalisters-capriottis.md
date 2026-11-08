@@ -1,7 +1,6 @@
 ---
-title: "National Sandwich Day 2026 Deals, Tue., Nov. 3: Subway, McAlister's $5, Capriotti's"
-seoTitle: "National Sandwich Day 2026 Deals: Subway, McAlister's"
-description: "National Sandwich Day is Tue., Nov. 3, 2026: Subway's Footlong deal runs Oct. 27-Nov. 8, McAlister's $5 sandwich Oct. 30-Nov. 3, Capriotti's deal one day."
+title: "National Sandwich Day 2026 Deals: Nov. 3 at Subway, McAlister's"
+description: "National Sandwich Day 2026 was Tuesday, Nov. 3. Subway's Footlong deal runs through Nov. 8; McAlister's $5 sandwich ended Nov. 3. Dates and fine print."
 type: news
 dateline: "New York"
 publishedAt: "2026-11-01T14:50:00-05:00"

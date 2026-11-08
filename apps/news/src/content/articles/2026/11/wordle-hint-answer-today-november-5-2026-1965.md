@@ -1,7 +1,6 @@
 ---
-title: "Wordle #1965 for Thursday, Nov. 5, 2026: Hints From Pattern to Strong Nudge"
-seoTitle: "Wordle #1965 Hints for Nov. 5, 2026 and the Answer"
-description: "Hints for Wordle #1965 on Thursday, Nov. 5, 2026, starting with the vowel count and ending with a fill-in-the-blank, plus a spoiler-marked answer at the bottom."
+title: "Wordle #1965 Hints & Answer Today, November 5, 2026"
+description: "Wordle #1965 hints for Thursday, Nov. 5, 2026: six clues from the lone vowel to a fill-in-the-blank, with the answer behind a spoiler heading."
 type: explainer
 publishedAt: "2026-11-04T00:05:00-05:00"
 updatedAt: "2026-11-05T00:51:00-05:00"

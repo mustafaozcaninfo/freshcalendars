@@ -1,7 +1,6 @@
 ---
-title: "Catholic Liturgical Calendar 2027: Year B, Ordinary Time and Season Dates"
-seoTitle: "Catholic Liturgical Calendar 2027: Year B Dates"
-description: "Catholic liturgical year B runs Nov. 29, 2026 to Nov. 21, 2027, with Ash Wednesday on Feb. 10, per the United States Conference of Catholic Bishops (USCCB)."
+title: "Catholic Liturgical Calendar 2027: Year B, Ash Wednesday Feb. 10"
+description: "The Catholic liturgical calendar 2027 is Year B, Nov. 29, 2026 to Nov. 21, 2027, with Ash Wednesday Feb. 10 and Easter March 28. Includes a printable."
 type: explainer
 publishedAt: "2026-11-04T14:59:00-05:00"
 authors: [jessica-hartwell]

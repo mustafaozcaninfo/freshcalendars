@@ -1,7 +1,6 @@
 ---
-title: "IRS Employer Tax Deadlines November 2026: Form 941, Deposits and Tip Reports"
-seoTitle: "IRS Employer Tax Deadlines November 2026"
-description: "The Internal Revenue Service (IRS) lists Nov. 10, 2026 as the Form 941 date for employers who paid on time, plus payroll deposit dates through Dec. 15."
+title: "IRS Employer Tax Deadlines November 2026: Form 941 on Nov. 10"
+description: "IRS employer tax deadlines for November 2026: Form 941 is due Nov. 10 if you deposited on time. Deposit dates through Dec. 15 and a printable matrix."
 type: news
 publishedAt: "2026-11-06T14:05:00-05:00"
 authors: [aaron-kessler]

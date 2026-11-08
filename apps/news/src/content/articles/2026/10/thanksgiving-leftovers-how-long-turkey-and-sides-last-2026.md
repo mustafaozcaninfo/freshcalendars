@@ -1,7 +1,6 @@
 ---
-title: "Thanksgiving Leftovers 2026: How Long Turkey and Sides Last, Day by Day"
-seoTitle: "Thanksgiving Leftovers 2026: How Long They Last"
-description: "Cooked turkey from Thursday, Nov. 26, 2026 lasts to Sunday, Nov. 29 or Monday, Nov. 30 in the fridge, says the Centers for Disease Control and Prevention (CDC)."
+title: "Thanksgiving Leftovers 2026: Turkey Lasts to Nov. 29 or Nov. 30"
+description: "Thanksgiving leftovers last 3 to 4 days in the fridge: cooked turkey from Nov. 26, 2026 is good to Nov. 29 or 30. Day-by-day dates and a printable tracker."
 type: explainer
 publishedAt: "2026-10-30T15:30:00-04:00"
 authors: [christina-gerland]

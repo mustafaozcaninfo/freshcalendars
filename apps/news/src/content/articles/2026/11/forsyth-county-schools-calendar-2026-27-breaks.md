@@ -1,7 +1,6 @@
 ---
-title: "Forsyth County Schools Calendar 2026-27: Winter Break Dec. 21-31, Spring Break Apr. 5-9"
-seoTitle: "Forsyth County Schools Calendar 2026-27 Breaks"
-description: "Forsyth County Schools (FCS) in Cumming, Ga., has Thanksgiving break Nov. 23-27, holiday break Dec. 21-31 and spring break Apr. 5-9, 2027, per the district."
+title: "Forsyth County Schools Calendar 2026-27: Winter Break Dec. 21-31"
+description: "Forsyth County Schools in Georgia calendar 2026-27: winter break Dec. 21-31, spring break Apr. 5-9. Every student day off in one table, plus a printable."
 type: news
 publishedAt: "2026-11-05T06:00:00-05:00"
 authors: [aaron-kessler]

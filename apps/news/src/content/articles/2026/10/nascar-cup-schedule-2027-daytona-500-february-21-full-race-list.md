@@ -1,7 +1,6 @@
 ---
-title: "NASCAR Schedule 2027: Daytona 500 on Feb. 21, All 39 Cup Dates and TV Windows"
-seoTitle: "NASCAR Schedule 2027: Daytona 500 Feb. 21, All Dates"
-description: "The 2027 National Association for Stock Car Auto Racing (NASCAR) Cup schedule opens with the Daytona 500 on Feb. 21 and ends Nov. 14, FOX Sports reports."
+title: "NASCAR Schedule 2027: Daytona 500 on Feb. 21, Finale Nov. 14"
+description: "The 2027 National Association for Stock Car Auto Racing (NASCAR) Cup schedule opens with the Daytona 500 on Feb. 21 and ends Nov. 14. Printable list."
 type: news
 publishedAt: "2026-10-28T18:00:00-04:00"
 updatedAt: "2026-10-30T15:27:00-04:00"

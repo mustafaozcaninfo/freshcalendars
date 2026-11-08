@@ -1,7 +1,6 @@
 ---
-title: "NFL Week 10 Schedule 2026: Game Times, TV Channels, Patriots-Lions in Munich, Pick'em Sheet"
-seoTitle: "NFL Week 10 Schedule 2026: Times and Pick'em Sheet"
-description: "National Football League (NFL) Week 10 has 14 games, Nov. 12 to 16, 2026: Eastern Time (ET) kickoffs, TV channels, Munich time and a printable pick'em sheet."
+title: "NFL Week 10 Schedule 2026: 14 Games, Nov. 12-16, Pick'em Sheet"
+description: "NFL Week 10 schedule 2026: 14 games, Nov. 12 to 16, with ET kickoffs and TV. Patriots at Lions in Munich is 9:30 a.m. ET; printable pick'em sheet included."
 type: news
 publishedAt: "2026-10-29T11:46:00-04:00"
 updatedAt: "2026-11-05T09:22:00-05:00"

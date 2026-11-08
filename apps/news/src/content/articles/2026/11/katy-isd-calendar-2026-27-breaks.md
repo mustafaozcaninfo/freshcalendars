@@ -1,7 +1,6 @@
 ---
-title: "Katy ISD Calendar 2026-27: Thanksgiving, Winter Break and Spring Break"
-seoTitle: "Katy ISD Calendar 2026-27: Breaks and Days Off"
-description: "Katy Independent School District (ISD) 2026-27: Thanksgiving break Nov. 23-27, winter break Dec. 21-Jan. 1, students back Jan. 5, spring break March 8-12."
+title: "Katy ISD Calendar 2026-27: Winter Break Dec. 21-Jan. 1, Back Jan. 5"
+description: "Katy Independent School District (ISD) 2026-27: Thanksgiving break Nov. 23-27, winter break Dec. 21-Jan. 1, spring break March 8-12, last day May 26."
 type: news
 publishedAt: "2026-11-04T08:42:00-05:00"
 updatedAt: "2026-11-04T08:42:00-05:00"

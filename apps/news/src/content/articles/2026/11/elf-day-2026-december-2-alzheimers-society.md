@@ -1,7 +1,6 @@
 ---
-title: "Elf Day 2026: Wednesday, Dec. 2, How to Sign Up and a Printable Elf Day Planner"
-seoTitle: "Elf Day 2026: Wednesday 2 December, How to Sign Up"
-description: "Alzheimer's Society Elf Day 2026 is Wednesday 2 December; sign-ups opened 1 September for a free digital pack. Countdown dates and a printable planner."
+title: "Elf Day 2026: Wednesday, Dec. 2, Sign-Up and Printable Planner"
+description: "Elf Day 2026 is Wednesday 2 December, Alzheimer's Society says. Sign-ups opened 1 September; includes countdown dates and a printable planner."
 type: news
 publishedAt: "2026-11-07T07:17:00-05:00"
 updatedAt: "2026-11-07T07:17:00-05:00"

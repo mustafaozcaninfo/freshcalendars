@@ -1,7 +1,6 @@
 ---
-title: "Christmas and New Year's Trash Pickup 2026: Holiday Schedules in 20 U.S. Cities"
-seoTitle: "Christmas Trash Pickup 2026: Schedules in 20 Cities"
-description: "Christmas Day and New Year's Day both fall on a Friday, so Phoenix and Oklahoma City move Friday trash to Saturday, Dec. 26 and Jan. 2; 20 cities checked."
+title: "Christmas Trash Pickup 2026: Friday Routes Move to Dec. 26, 20 Cities"
+description: "Christmas and New Year's Day both fall on a Friday, so Phoenix and Oklahoma City collect Saturday, Dec. 26 and Jan. 2. 20 cities checked."
 type: explainer
 publishedAt: "2026-11-03T18:42:00-05:00"
 updatedAt: "2026-11-06T00:39:00-05:00"

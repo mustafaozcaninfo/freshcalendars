@@ -1,7 +1,6 @@
 ---
-title: "Is 12 Noon a.m. or p.m.? Midnight, Noon and How to Avoid the Mix-Up"
-seoTitle: "Is 12 Noon a.m. or p.m.? Midnight vs. Noon"
-description: "12 p.m. is noon in Government Publishing Office (GPO) style, but the National Institute of Standards and Technology (NIST) calls 12 a.m. and 12 p.m. ambiguous."
+title: "Is 12 Noon a.m. or p.m.? Federal Sources Disagree"
+description: "12 noon is neither a.m. nor p.m. under federal time guidance, though federal style writes 12 p.m. A 24-row clock card and a printable end the mix-up."
 type: explainer
 publishedAt: "2026-11-04T15:00:00-05:00"
 authors: [jessica-hartwell]

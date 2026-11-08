@@ -1,6 +1,5 @@
 ---
-title: "Wordle Hints and Answer Today, #1963 for Tuesday, Nov. 3, 2026: Six Clues Before the Reveal"
-seoTitle: "Wordle Hint Today, #1963 (Nov. 3, 2026): Clues & Answer"
+title: "Wordle #1963 Hints & Answer Today, November 3, 2026"
 description: "Wordle #1963 for Tuesday, Nov. 3, 2026: six graded clues, from the letter pattern to a strong nudge, then the answer in a spoiler section at the end."
 type: explainer
 publishedAt: "2026-11-02T00:05:00-05:00"

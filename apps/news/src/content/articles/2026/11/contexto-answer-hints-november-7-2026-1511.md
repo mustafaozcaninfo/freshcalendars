@@ -1,6 +1,5 @@
 ---
-title: "Contexto #1511 on Saturday, Nov. 7, 2026: Hints, Close Words in Three Groups, Far-Off Guesses"
-seoTitle: "Contexto #1511 Hints and Close Words, Nov. 7, 2026"
+title: "Contexto #1511 Hints & Answer Today, November 7, 2026"
 description: "Contexto #1511 for Saturday, Nov. 7, 2026: hints, the game's 30 closest words in three groups, two guesses that miss by hundreds of ranks, then the answer."
 type: explainer
 publishedAt: "2026-11-06T00:05:00-05:00"

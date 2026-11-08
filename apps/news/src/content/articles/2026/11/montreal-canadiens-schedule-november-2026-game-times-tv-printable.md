@@ -1,7 +1,6 @@
 ---
-title: "Canadiens Schedule November 2026: Game Times in ET, TV in Canada and the U.S."
-seoTitle: "Canadiens Schedule November 2026: Times and TV"
-description: "The Canadiens play 14 games in November 2026, starting Tue., Nov. 3, at 7 p.m. Eastern Time (ET) against Winnipeg, per the National Hockey League (NHL)."
+title: "Canadiens Schedule November 2026: 14 Games, TV in Canada and U.S."
+description: "The Canadiens play 14 games in November 2026, from Nov. 3 to Nov. 30 at Utah. Every game time in ET, TV in Canada and the U.S., and a printable."
 type: news
 publishedAt: "2026-11-02T10:12:00-05:00"
 updatedAt: "2026-11-05T21:25:00-05:00"

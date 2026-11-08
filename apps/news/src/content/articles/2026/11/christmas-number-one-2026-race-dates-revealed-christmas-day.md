@@ -1,7 +1,6 @@
 ---
 title: "Christmas Number 1 2026: Race Opens Dec. 18, Revealed on Christmas Day"
-seoTitle: "Christmas Number 1 2026: Dates and Reveal"
-description: "The Official Christmas Number 1 of 2026 will be announced on Friday, Dec. 25, the Official Charts Company says, after a race that runs Dec. 18 to Dec. 24."
+description: "Christmas Number 1 2026 will be announced Friday, Dec. 25, the Official Charts Company says. The race closes Dec. 24 at 6.59pm ET, 3.59pm PT."
 type: news
 publishedAt: "2026-11-06T13:51:00-05:00"
 authors: [christina-gerland]

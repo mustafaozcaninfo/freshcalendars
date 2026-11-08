@@ -1,7 +1,6 @@
 ---
-title: "National Handwriting Day 2027: Saturday, Jan. 23, John Hancock's Birthday"
-seoTitle: "National Handwriting Day 2027: Sat., Jan. 23"
-description: "National Handwriting Day 2027 is Saturday, Jan. 23, John Hancock's birthday, per the Writing Instrument Manufacturers Association (WIMA). Free writing sheet."
+title: "National Handwriting Day 2027: Saturday, Jan. 23, Weekdays to 2032"
+description: "National Handwriting Day 2027 is Saturday, Jan. 23, John Hancock's birthday. Weekdays through 2032, the trade group's suggestions and a free writing sheet."
 type: explainer
 publishedAt: "2026-11-04T06:30:00-05:00"
 authors: [christina-gerland]

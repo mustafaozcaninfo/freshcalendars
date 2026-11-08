@@ -1,7 +1,6 @@
 ---
-title: "NYT Connections Answers October 2026: Every Group From #1208 to #1238"
-seoTitle: "NYT Connections Answers October 2026: All Groups"
-description: "The New York Times (NYT) Connections answers for October 2026: all 31 puzzles, #1208 to #1238, with every group, purple wordplay counts and tips."
+title: "NYT Connections Answers October 2026: Every Group, #1208-#1238"
+description: "The New York Times (NYT) Connections answers for October 2026: all 31 puzzles, #1208 to #1238, plus purple wordplay counts and a printable purple list."
 type: explainer
 publishedAt: "2026-10-31T00:15:00-04:00"
 authors: [news-desk]

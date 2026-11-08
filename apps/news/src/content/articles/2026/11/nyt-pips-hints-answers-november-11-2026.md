@@ -1,6 +1,6 @@
 ---
 title: "NYT Pips Hints & Answers Today, November 11, 2026"
-description: "Wednesday, Nov. 11, 2026 Pips: four 1s fill the bottom row of the Hard board. Opening moves, two hints per level, then every Easy, Medium and Hard placement."
+description: "Pips hints and answers for Wednesday, Nov. 11, 2026: the four bottom-row cells of Hard must all be 1s. Opening moves, two hints per level, every placement."
 type: explainer
 publishedAt: "2026-11-10T00:05:00-05:00"
 authors: [news-desk]

@@ -1,6 +1,5 @@
 ---
-title: "NYT Spelling Bee Hints and Answers for Monday, Oct. 26, 2026: Hint Grid, Pangram and Sunday's Solution"
-seoTitle: "Spelling Bee Hints Today, Oct. 26, 2026"
+title: "Spelling Bee Hints & Answers Today, October 26, 2026"
 description: "Spelling Bee for Monday, Oct. 26, 2026: center letter L, 43 words, 245 points and one pangram. Hint grid and two-letter list first, then every answer."
 type: explainer
 publishedAt: "2026-10-25T05:25:00-04:00"

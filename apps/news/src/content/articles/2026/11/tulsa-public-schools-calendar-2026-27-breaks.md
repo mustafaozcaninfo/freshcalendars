@@ -1,7 +1,6 @@
 ---
-title: "Tulsa Public Schools Calendar 2026-27: Fall Break, Winter Break, Spring Break and Last Day"
-seoTitle: "Tulsa Public Schools Calendar 2026-27: Breaks"
-description: "Tulsa Public Schools (TPS) 2026-27: no classes Nov. 23-27, Dec. 21-Jan. 1 and March 15-19. Students return Jan. 5; the last day is May 28."
+title: "Tulsa Public Schools Calendar 2026-27: Last Day May 28, Back Jan. 5"
+description: "Tulsa Public Schools calendar 2026-27: no classes Nov. 23-27, Dec. 21-Jan. 1 and March 15-19. Our table counts weekdays off; the last day is May 28, 2027."
 type: explainer
 publishedAt: "2026-11-05T14:42:00-05:00"
 authors: [aaron-kessler]

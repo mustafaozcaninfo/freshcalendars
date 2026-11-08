@@ -1,7 +1,6 @@
 ---
-title: "College Football Playoff Rankings 2026: Release Dates, Times and the Full Playoff Schedule"
-seoTitle: "CFP Rankings 2026: Release Dates and Playoff Schedule"
-description: "The first College Football Playoff (CFP) rankings come out Tuesday, Nov. 3, 2026, at 7 p.m. Eastern Time (ET) on ESPN. Selection Day is Sunday, Dec. 6."
+title: "CFP Rankings 2026 Release Dates: Nov. 10 and Selection Day Dec. 6"
+description: "College Football Playoff (CFP) rankings come out Tuesdays on ESPN: Nov. 10, 17, 24 and Dec. 1, then Selection Day Dec. 6. Full schedule and a printable."
 type: news
 publishedAt: "2026-10-24T00:50:00-04:00"
 updatedAt: "2026-11-02T14:10:00-05:00"

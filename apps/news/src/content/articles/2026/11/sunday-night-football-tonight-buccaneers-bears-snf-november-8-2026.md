@@ -1,7 +1,6 @@
 ---
-title: "Sunday Night Football: Buccaneers at Bears on Nov. 8, 2026, Time, Channel and Stream"
-seoTitle: "Sunday Night Football: Buccaneers at Bears Nov. 8"
-description: "Sunday Night Football: the Buccaneers visit the Bears at Soldier Field on Sunday, Nov. 8, 2026. Kickoff is 8:20 p.m. Eastern Time (ET) on NBC."
+title: "Bears Game Sunday Night: 7:20 p.m. Central on NBC, Nov. 8"
+description: "The Bears host the Buccaneers on Sunday Night Football, Nov. 8, 2026: kickoff is 7:20 p.m. Central, 8:20 p.m. ET on NBC. Every U.S. zone and London."
 type: news
 publishedAt: "2026-11-05T12:10:00-05:00"
 updatedAt: "2026-11-05T12:10:00-05:00"

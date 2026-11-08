@@ -1,7 +1,6 @@
 ---
-title: "DEA Drug Take Back Day Was Oct. 24, 2026: Hours, Items Accepted and Year-Round Drop-Off"
-seoTitle: "DEA Drug Take Back Day Oct. 24, 2026: What to Know"
-description: "Drug Enforcement Administration (DEA) Take Back Day was Saturday, Oct. 24, 2026, 10 a.m.-2 p.m. What sites accepted and where to drop off medicines year-round."
+title: "DEA Drug Take Back Day 2026: Held Oct. 24, Year-Round Drop-Off"
+description: "Drug Enforcement Administration (DEA) Take Back Day 2026 was Saturday, Oct. 24, 10 a.m.-2 p.m. What sites accepted and year-round drop-off options."
 type: news
 publishedAt: "2026-10-21T05:50:00-04:00"
 updatedAt: "2026-11-02T14:10:00-05:00"

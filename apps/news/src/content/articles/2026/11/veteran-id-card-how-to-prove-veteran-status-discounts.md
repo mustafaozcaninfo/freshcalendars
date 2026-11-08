@@ -1,7 +1,6 @@
 ---
-title: "How to Prove You're a Veteran for Discounts: VA ID Card, VHIC and Your Driver's License"
-seoTitle: "Veteran ID Card: How to Prove Veteran Status"
-description: "The Department of Veterans Affairs (VA) lists a Veteran Health Identification Card (VHIC), military ID or a state license designation as proof for discounts."
+title: "Veteran ID Card: How to Prove Veteran Status for Discounts"
+description: "A Veteran Health ID card, military ID or state license with a Veteran designation can prove status for discounts. Five state rules and a checklist."
 type: explainer
 publishedAt: "2026-11-04T21:05:00-05:00"
 updatedAt: "2026-11-04T21:05:00-05:00"

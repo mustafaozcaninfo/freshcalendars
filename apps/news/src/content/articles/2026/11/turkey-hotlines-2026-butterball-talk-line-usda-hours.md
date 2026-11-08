@@ -1,7 +1,6 @@
 ---
-title: "Butterball Turkey Talk-Line 2026: Hours, Phone and Text Numbers, Thanksgiving Times"
-seoTitle: "Butterball Hotline 2026: Talk-Line Hours by Time Zone"
-description: "Butterball's Turkey Talk-Line is open Thanksgiving Day, Nov. 26, 2026: 6 a.m. to 6 p.m. Central Standard Time (CST), or 7 a.m. to 7 p.m. Eastern Time (ET)."
+title: "Butterball Turkey Talk-Line 2026: Thanksgiving Hours by Time Zone"
+description: "Butterball Turkey Talk-Line hours on Thanksgiving, Nov. 26, 2026: 6 a.m. to 6 p.m. Central, or 7 a.m. to 7 p.m. ET. Phone and text numbers, all time zones."
 type: news
 publishedAt: "2026-11-07T06:00:00-05:00"
 authors: [christina-gerland]

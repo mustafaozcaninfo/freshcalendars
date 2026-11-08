@@ -1,6 +1,5 @@
 ---
-title: "NYT Pips Hints and Answers for Saturday, Nov. 7, 2026: Easy, Medium and Hard"
-seoTitle: "Pips Hints & Answers, Nov. 7, 2026: Easy, Medium, Hard"
+title: "NYT Pips Hints & Answers Today, November 7, 2026"
 description: "Saturday, Nov. 7, 2026 Pips: a Hard board where 31 of 32 cells show their value, plus opening moves, hints and every Easy, Medium and Hard placement."
 type: explainer
 publishedAt: "2026-11-06T00:05:00-05:00"

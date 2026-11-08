@@ -1,7 +1,6 @@
 ---
-title: "New Year’s Countdown 2027: When Midnight Arrives in Every Time Zone"
-seoTitle: "New Year 2027 Time Zones: Midnight in ET and UTC"
-description: "Kiritimati reaches 2027 at 5:00 a.m. Eastern Time (ET) on Dec. 31, 2026. Midnight in ET and Coordinated Universal Time (UTC) for 32 offsets, UTC+14 to UTC-11."
+title: "New Year's Countdown 2027: Kiritimati First at 5:00 a.m. ET"
+description: "Kiritimati reaches 2027 at 5:00 a.m. ET on Dec. 31, 2026. Table of midnight in ET and UTC for 32 offsets, from UTC+14 to UTC-11."
 type: explainer
 publishedAt: "2026-10-30T15:48:00-04:00"
 authors: [christina-gerland]

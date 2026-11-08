@@ -1,7 +1,6 @@
 ---
-title: "Living Wage Week 2026 in the UK: Nov. 9-15, With the £14.10 and £15.45 Rates"
-seoTitle: "Living Wage Week 2026: Nov. 9-15 and the Rates"
-description: "Living Wage Week 2026 runs 9-15 November, the Living Wage Foundation says. Its Real Living Wage is £14.10 UK, £15.45 London; the legal rate is £12.71."
+title: "Living Wage Week 2026: 9-15 November, Rates £14.10 and £15.45"
+description: "Living Wage Week 2026 runs 9-15 November. The Real Living Wage is £14.10 UK, £15.45 London; the legal rate is £12.71. Dates, theme and rates compared."
 type: news
 publishedAt: "2026-11-08T07:03:00-05:00"
 authors: [christina-gerland]

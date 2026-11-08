@@ -1,6 +1,5 @@
 ---
-title: "Contexto Answer and Hints Today, #1508 for Wednesday, Nov. 4, 2026: Close Words Before the Secret Word"
-seoTitle: "Contexto Answer Today, #1508 (Nov. 4, 2026): Hints"
+title: "Contexto #1508 Hints & Answer Today, November 4, 2026"
 description: "Contexto #1508 for Wednesday, Nov. 4, 2026: graded hints and words that rank close to the secret word, then the answer in a marked section at the end."
 type: explainer
 publishedAt: "2026-11-03T00:05:00-05:00"

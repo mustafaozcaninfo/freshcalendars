@@ -1,6 +1,6 @@
 ---
 title: "NYT Pips Hints & Answers Today, November 12, 2026"
-description: "Pips for Thursday, Nov. 12, 2026: three 0 cells and three 0 dominoes decide the Hard opening. Two hints per level, then every Easy, Medium and Hard placement."
+description: "Pips for Thursday, Nov. 12, 2026: three 0 cells and three 0 dominoes decide the Hard opening. Two hints per level, then every placement."
 type: explainer
 publishedAt: "2026-11-11T00:05:00-05:00"
 authors: [news-desk]

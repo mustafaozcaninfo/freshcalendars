@@ -1,7 +1,6 @@
 ---
-title: "NYT Connections Hints and Answers for Friday, Nov. 6, 2026 (#1244): Two Hints per Group, Then the Answers"
-seoTitle: "Connections Hints & Answers Today, Nov. 6, 2026 (#1244)"
-description: "Connections #1244 for Friday, Nov. 6, 2026: two tap-to-open hints per color, three tiles with the same ending to watch, and the full solution saved for last."
+title: "Connections #1244 Hints & Answers Today, November 6, 2026"
+description: "Connections #1244 hints and answers for Friday, Nov. 6, 2026: two tap-to-open hints per color, three tiles with the same ending, then the full solution."
 type: explainer
 publishedAt: "2026-11-05T00:05:00-05:00"
 updatedAt: "2026-11-05T00:46:00-05:00"

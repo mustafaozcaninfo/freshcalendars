@@ -1,7 +1,6 @@
 ---
-title: "NHL Games Today: Monday, Nov. 2, 2026 Schedule, 4 Games, Times and TV Channels"
-seoTitle: "NHL Games Today, Nov. 2, 2026: 4 Games and TV"
-description: "National Hockey League (NHL) games today, Mon., Nov. 2, 2026: 4 games from 7:00 to 9:00 p.m. Eastern Time (ET), with arenas, time zones and TV."
+title: "NHL Games Today, Nov. 2, 2026: 4 Games, First Faceoff 7:00 p.m. ET"
+description: "NHL games today, Monday, Nov. 2, 2026: 4 games from 7:00 to 9:00 p.m. ET. Time-zone table for every game, U.S. and Canada TV table, printable watch sheet."
 type: news
 publishedAt: "2026-10-31T21:44:00-04:00"
 authors: [jessica-hartwell]

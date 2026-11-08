@@ -1,7 +1,6 @@
 ---
-title: "Eclipses 2027: Five Dates and Times, Led by the Total Solar Eclipse on Aug. 2"
-seoTitle: "Eclipses 2027: Dates, Times and Total Eclipse Aug. 2"
-description: "The National Aeronautics and Space Administration (NASA) lists five eclipses in 2027, led by the Aug. 2 total solar eclipse. Neither solar path reaches the U.S."
+title: "Eclipses 2027: Total Solar Eclipse Aug. 2, Annular Feb. 6"
+description: "The 2027 solar eclipse dates are Feb. 6 (annular) and Aug. 2 (total), per NASA. Neither path reaches the U.S. All five eclipses with times and regions."
 type: explainer
 publishedAt: "2026-10-25T12:40:00-04:00"
 updatedAt: "2026-11-02T14:48:00-05:00"

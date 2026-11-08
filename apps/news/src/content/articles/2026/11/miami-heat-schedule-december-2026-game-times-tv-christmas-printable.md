@@ -1,7 +1,6 @@
 ---
-title: "Miami Heat Schedule December 2026: Game Times in ET, TV and Christmas Day at Boston"
-seoTitle: "Heat Schedule December 2026: Times, TV, Christmas"
-description: "The Miami Heat open December 2026 at home against Atlanta on Tue., Dec. 1 at 7:30 p.m. Eastern Time (ET) and play at Boston on Christmas Day at 2:30 p.m. ET."
+title: "Heat Schedule December 2026: Christmas at Boston, 13 Games"
+description: "The Heat schedule for December 2026 opens Tue., Dec. 1 at 7:30 p.m. ET and has Christmas Day at Boston at 2:30 p.m. ET. All 13 games, TV and a printable."
 type: explainer
 publishedAt: "2026-11-04T06:50:00-05:00"
 authors: [jessica-hartwell]

@@ -1,7 +1,6 @@
 ---
-title: "Turkey Pardon 2026: Date Not Announced Yet, and When Past Ceremonies Were Held"
-seoTitle: "Turkey Pardon 2026: Date Not Yet Announced"
-description: "The White House has not announced a 2026 turkey pardon date, time or turkeys as of Nov. 6. Thanksgiving falls Thursday, Nov. 26; see when past ceremonies fell."
+title: "Turkey Pardon 2026: Date Not Announced Yet, Past Dates From 2021"
+description: "The 2026 turkey pardon date is not yet announced as of Nov. 6; Thanksgiving is Nov. 26. A printable lists each ceremony's date and turkeys, 2021 to 2025."
 type: news
 publishedAt: "2026-11-06T13:47:52-05:00"
 authors: [christina-gerland]

@@ -1,7 +1,6 @@
 ---
-title: "Christmas Menus 2026 in the UK: Greggs, Costa, KFC, Burger King and Wetherspoon Dates"
-seoTitle: "Christmas Menus 2026 UK: Start Dates by Chain"
-description: "Greggs and Costa began Christmas menus on 22 October 2026; Burger King UK on 3 November, Kentucky Fried Chicken (KFC) on 9 November, Wetherspoon on 12 November."
+title: "Christmas Menus 2026 in the UK: Start Date by Chain"
+description: "UK Christmas menus 2026 began at Greggs and Costa on 22 October, Burger King on 3 November; Wetherspoon starts 12 November. Days on sale per chain."
 type: news
 dateline: "London"
 publishedAt: "2026-11-04T14:57:00-05:00"

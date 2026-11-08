@@ -1,7 +1,6 @@
 ---
-title: "Gwinnett County Schools Calendar 2026-27: No School Nov. 23-27, Dec. 21-Jan. 1 and Apr. 5-9"
-seoTitle: "Gwinnett Schools Calendar 2026-27: Breaks and Days Off"
-description: "Gwinnett County Public Schools (GCPS) 2026-27: Thanksgiving break Nov. 23-27, winter break Dec. 21-Jan. 1, spring break Apr. 5-9, last day May 26."
+title: "Gwinnett County Schools Calendar 2026-27: Winter Break Dec. 21-Jan. 1"
+description: "Gwinnett County Public Schools (GCPS) calendar 2026-27: winter break Dec. 21-Jan. 1 and spring break Apr. 5-9. Last day is May 26, with a printable."
 type: news
 publishedAt: "2026-10-26T14:40:00-04:00"
 updatedAt: "2026-11-02T14:10:00-05:00"

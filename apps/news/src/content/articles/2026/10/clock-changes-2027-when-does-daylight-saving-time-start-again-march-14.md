@@ -1,7 +1,6 @@
 ---
-title: "Clock Changes 2027: When Daylight Saving Time Starts Again on March 14 in the U.S., UK, Europe and Australia"
-seoTitle: "Clock Changes 2027: U.S., UK, EU and Australia Dates"
-description: "Daylight saving time (DST) starts again in the U.S. on Sunday, March 14, 2027. Every 2027 clock change in the U.S., UK, EU and Sydney, plus gap shifts."
+title: "Clocks Change 2027: U.S. March 14, UK and EU March 28"
+description: "Clocks change in the U.S. on Sunday, March 14, 2027, and in the UK and EU on March 28. Table of every 2027 change, with New York-London and Sydney gaps."
 type: explainer
 publishedAt: "2026-10-27T15:55:00-04:00"
 updatedAt: "2026-11-01T05:45:00-05:00"

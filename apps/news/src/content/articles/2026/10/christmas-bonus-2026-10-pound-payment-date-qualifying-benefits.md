@@ -1,7 +1,6 @@
 ---
-title: "Christmas Bonus 2026: £10 Payment Date, Qualifying Week and the 24 Benefits That Count"
-seoTitle: "Christmas Bonus 2026: £10, Date and 24 Benefits"
-description: "GOV.UK says the £10 Christmas Bonus is paid before Christmas, no claim needed. The Department for Work and Pensions (DWP) has not set the 2026 date or week."
+title: "Christmas Bonus 2026 Payment Date: £10, Not Yet Announced"
+description: "The £10 Christmas Bonus 2026 is paid before Christmas, no claim needed. The date is not yet announced. A printable checklist covers 24 qualifying benefits."
 type: explainer
 publishedAt: "2026-10-28T18:00:00-04:00"
 authors: [christina-gerland]

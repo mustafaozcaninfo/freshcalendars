@@ -1,7 +1,6 @@
 ---
-title: "Canada Statutory Holidays 2027: 10 Federal Holidays, Thanksgiving on Oct. 11"
-seoTitle: "Canada 2027 Stat Holidays: Federal List"
-description: "Canada's 2027 stat holidays are the 10 federal general holidays. Thanksgiving 2027 is Monday, Oct. 11; Boxing Day is Sunday, Dec. 26."
+title: "2027 Stat Holidays Canada: 10 Federal Holidays, Thanksgiving Oct. 11"
+description: "Canada's 2027 stat holidays are the 10 federal general holidays. Thanksgiving is Monday, Oct. 11. Every date and weekday, plus weekend rules."
 type: explainer
 publishedAt: "2026-10-19T11:08:00-04:00"
 updatedAt: "2026-11-03T06:42:00-05:00"

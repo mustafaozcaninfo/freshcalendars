@@ -1,7 +1,6 @@
 ---
-title: "Nutcracker 2026 Dates: New York, Boston, San Francisco, Seattle, Atlanta and London"
-seoTitle: "Nutcracker 2026 Dates: 7 Ballet Companies, Run Times"
-description: "New York City Ballet, Boston Ballet and Pacific Northwest Ballet (PNB) open The Nutcracker Fri., Nov. 27, 2026. San Francisco and Atlanta open Dec. 4-5."
+title: "Ballet Nutcracker 2026: Opening Dates for 7 Companies From Nov. 27"
+description: "Ballet Nutcracker 2026 opens Fri., Nov. 27 at New York City Ballet, Boston Ballet and Pacific Northwest Ballet. Table of 7 companies' openings, run times."
 type: news
 publishedAt: "2026-11-01T22:40:00-05:00"
 authors: [jessica-hartwell]

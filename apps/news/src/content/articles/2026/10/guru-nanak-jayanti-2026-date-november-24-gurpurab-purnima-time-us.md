@@ -1,7 +1,6 @@
 ---
-title: "Guru Nanak Jayanti 2026 Is Tuesday, Nov. 24: Gurpurab Date and Purnima Time in the US, UK and Canada"
-seoTitle: "Guru Nanak Jayanti 2026: Tuesday, Nov. 24"
-description: "Guru Nanak Jayanti 2026 is Tuesday, Nov. 24, per the Department of Personnel and Training (DoPT). Purnima times in Eastern Time (ET) and Pacific Time (PT)."
+title: "Guru Nanak Jayanti 2026 Is Tuesday, Nov. 24: Purnima Times"
+description: "Guru Nanak Jayanti 2026 is Tuesday, Nov. 24, on India's central government holiday list. Purnima start and end times in Eastern and Pacific Time."
 type: explainer
 publishedAt: "2026-10-28T23:45:00-04:00"
 updatedAt: "2026-11-08T09:25:00-05:00"

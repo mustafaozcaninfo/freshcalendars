@@ -1,7 +1,6 @@
 ---
-title: "CMA Awards 2026: Date, Time, Channel, Host and Nominees"
-seoTitle: "CMA Awards 2026 Date, Time, Channel and Host"
-description: "The Country Music Association (CMA) lists its awards for Nov. 18, 2026, 8 p.m. Eastern Time (ET), on American Broadcasting Company (ABC). Lainey Wilson hosts."
+title: "CMA Awards 2026: Nov. 18 at 8 p.m. ET on ABC, Lainey Wilson Hosts"
+description: "The Country Music Association (CMA) Awards air Wed., Nov. 18, 2026 at 8 p.m. ET on ABC, with Lainey Wilson hosting. Brooks & Dunn get a lifetime honor."
 type: news
 publishedAt: "2026-10-25T17:04:00-04:00"
 updatedAt: "2026-11-01T05:35:00-05:00"
