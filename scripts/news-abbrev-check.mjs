@@ -11,7 +11,7 @@ import { existsSync, readFileSync, readdirSync } from "node:fs";
 import path from "node:path";
 import { fileURLToPath } from "node:url";
 import { unexpandedAbbrevs } from "./lib/abbrev.mjs";
-import { writingProblems } from "./lib/writing-rules.mjs";
+import { storyRules, storyText, writingProblems } from "./lib/writing-rules.mjs";
 
 const ROOT = path.resolve(path.dirname(fileURLToPath(import.meta.url)), "..");
 const ARTICLES = "apps/news/src/content/articles";
@@ -33,32 +33,20 @@ function changedStories() {
   return [...new Set(names.filter((n) => n.endsWith(".md")))].map((n) => path.join(ROOT, n)).filter(existsSync);
 }
 
-/** The lede and body as the reader sees them: links reduced to their text, no images, URLs or code. */
-function storyText(md) {
-  const fm = md.match(/^---\n([\s\S]*?)\n---\n?/);
-  const raw = fm?.[1].match(/^description:\s*(.*)$/m)?.[1].trim() ?? "";
-  let lede = raw;
-  if (raw.startsWith('"')) { try { lede = JSON.parse(raw); } catch { lede = raw.slice(1, -1); } }
-  else if (raw.startsWith("'")) lede = raw.slice(1, -1).replaceAll("''", "'");
-  const body = md.slice(fm ? fm[0].length : 0)
-    .replace(/```[\s\S]*?```/g, " ")
-    .replace(/`[^`]*`/g, " ")
-    .replace(/!\[[^\]]*\]\([^)]*\)/g, " ") // alt text is not prose; the audit does not read it either
-    .replace(/\[([^\]]*)\]\([^)]*\)/g, "$1")
-    .replace(/<[^>]+>/g, " ")
-    .replace(/https?:\/\/\S+/g, " ");
-  return `${lede} ${body}`.replace(/\s+/g, " ");
-}
-
 const args = process.argv.slice(2);
 const files = args.includes("--all") ? allStories() : args.length ? args.map((f) => path.resolve(f)) : changedStories();
 let failed = 0, abbrevFailed = 0;
 for (const f of files) {
-  const text = storyText(readFileSync(f, "utf8"));
+  const md = readFileSync(f, "utf8");
+  const text = storyText(md);
   const missing = unexpandedAbbrevs(text);
+  // Second rule set (scripts/lib/writing-rules.mjs): errors for stories published from RULES_SINCE
+  // on, warnings (shown, never blocking) for every story this push changes.
+  const second = storyRules(md, text);
+  for (const w of second.warnings) console.log(`! ${path.relative(ROOT, f)}: ${w}`);
   // The audit's writing rules (scripts/lib/writing-rules.mjs) on the same text, so a banned word,
   // a superiority claim or an em-dash pile fails here in a second instead of on CI.
-  const style = writingProblems(text);
+  const style = [...writingProblems(text), ...second.errors];
   if (missing.length) { abbrevFailed++; console.error(`✗ ${path.relative(ROOT, f)}: not expanded on first use: ${missing.join(", ")}`); }
   for (const s of style) console.error(`✗ ${path.relative(ROOT, f)}: ${s}`);
   if (missing.length || style.length) failed++;

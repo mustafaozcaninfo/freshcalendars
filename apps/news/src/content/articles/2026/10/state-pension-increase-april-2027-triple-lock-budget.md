@@ -133,7 +133,6 @@ assets:
 draft: false
 ---
 
-<p class="callout"><b>Last updated Fri. Oct. 30, 2026, 2:05 a.m. ET.</b> Added the end date of the new Pension Tax Allowance from the Budget 2026 costings table (6 April 2027 to 5 April 2030). The Chancellor delivered the Budget on Oct. 28. This story now reflects the Budget's triple lock decision and the reported 3.9% April 2027 rise. The Department for Work and Pensions publishes the official 2027-28 rates later, usually in late November.</p>
 
 **The Budget on Wednesday, Oct. 28, 2026 kept the State Pension triple lock, and MoneySavingExpert reports the April 2027 increase at 3.9%, which would take the full new State Pension to £250.70 a week.** HM Treasury's Budget 2026 document says the State Pension "will continue to rise by the highest of 2.5%, inflation or earnings growth each year through to April 2029." The Department for Work and Pensions (DWP) publishes the official 2027-28 rates later, usually in late November. A one-page printable tracker is in the downloads.
 

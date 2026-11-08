@@ -95,7 +95,7 @@ downloads:
 draft: false
 ---
 
-<p class="callout"><b>Last updated Oct. 28, 2026, 11:12 p.m. ET.</b> The Brewers beat the Rays 4-1 in Game 5 at Tropicana Field on Wednesday night and won the World Series four games to one. Jacob Misiorowski got the win; Drew Rasmussen took the loss. Games 6 and 7 are off the schedule. Source: Major League Baseball (MLB) official game data.</p>
+The Brewers beat the Rays 4-1 in Game 5 at Tropicana Field on Wednesday night and won the World Series four games to one. Jacob Misiorowski got the win; Drew Rasmussen took the loss. Games 6 and 7 are off the schedule. Source: Major League Baseball (MLB) official game data.
 
 **The Milwaukee Brewers won the 2026 World Series on Wednesday, Oct. 28, beating the Tampa Bay Rays 4-1 in Game 5 at Tropicana Field to take the series four games to one, according to Major League Baseball (MLB) game data.** It was the franchise's first title. Milwaukee won Game 1, 3-2, Game 2, 5-4, and Game 3, 10-1, before Tampa Bay won Game 4, 4-3 in 12 innings. Every game started at 8 p.m. Eastern Time (ET) on FOX.
 

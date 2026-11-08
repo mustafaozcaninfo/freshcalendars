@@ -73,7 +73,7 @@ downloads:
 draft: false
 ---
 
-<p class="callout"><b>Last updated Wed. Oct. 28, 2026, 4:12 p.m. ET.</b> Mail-ballot application windows have closed in many states, including Pennsylvania (5 p.m. Oct. 27), Florida's vote-by-mail request (5 p.m. Oct. 22) and Georgia's absentee application (Oct. 23). Return deadlines are unchanged: in states that require arrival by Nov. 3, mailing now may not get there in time, so return your ballot in person or at an official drop box. Pennsylvania, Florida and Georgia must receive the completed ballot by Nov. 3, not just see a postmark.</p>
+Mail-ballot application windows have closed in many states, including Pennsylvania (5 p.m. Oct. 27), Florida's vote-by-mail request (5 p.m. Oct. 22) and Georgia's absentee application (Oct. 23). Return deadlines are unchanged: in states that require arrival by Nov. 3, mailing now may not get there in time, so return your ballot in person or at an official drop box. Pennsylvania, Florida and Georgia must receive the completed ballot by Nov. 3, not just see a postmark.
 
 **In most states, a mailed ballot has to arrive by Election Day, Tuesday, Nov. 3, 2026, to count.** A postmark is not enough there: the ballot must be in the election office's hands, usually by the time polls close. About 15 states and the District of Columbia are more forgiving and count ballots postmarked by Nov. 3 that arrive within a set window afterward. If you have not returned your ballot yet, the safest move now is to drop it off in person or at an official drop box rather than mail it.
 
