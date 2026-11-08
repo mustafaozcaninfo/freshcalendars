@@ -307,7 +307,7 @@ internalLinks:
     label: "Printable school-year calendar 2026-27"
   - href: "/when-is/thanksgiving/"
     label: "When is Thanksgiving?"
-related: [winter-break-2026-school-districts-dates, why-thanksgiving-2026-is-november-26, american-education-week-2026-november-16-20-daily-themes]
+related: [winter-break-2026-school-districts-dates, newark-public-schools-calendar-2026-27-breaks, why-thanksgiving-2026-is-november-26]
 downloads:
   - group: "Thanksgiving Break 2026 by School District printables"
     title: "Thanksgiving Break 2026 by School District"
