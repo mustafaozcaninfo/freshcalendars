@@ -57,7 +57,7 @@ internalLinks:
     label: "When is daylight saving time?"
   - href: "/printable-yearly-calendar.html"
     label: "2027 printable yearly calendar"
-related: [new-years-countdown-2027-midnight-every-time-zone, clock-changes-2027-when-does-daylight-saving-time-start-again-march-14, daylight-saving-time-ends-november-1-2026]
+related: [cop31-2026-antalya-dates-schedule-how-to-follow, clock-changes-2027-when-does-daylight-saving-time-start-again-march-14, daylight-saving-time-ends-november-1-2026]
 downloads:
   - group: "US Time Zones Card printables"
     title: "US Time Zones Card, 2026"

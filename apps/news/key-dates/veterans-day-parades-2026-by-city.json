@@ -1,4 +1,14 @@
 [
-  { "date": "2026-11-07", "label": "Veterans Day parades in Boston, Pittsburgh, Auburn (Wash.) and Orlando" },
-  { "date": "2026-11-11", "label": "Veterans Day parades in Birmingham, Houston and San Diego" }
+  {
+    "date": "2026-11-07",
+    "label": "Veterans Day parades in Boston, Pittsburgh, Auburn (Wash.) and Orlando"
+  },
+  {
+    "date": "2026-11-08",
+    "label": "National Veterans Day Parade and 5K, Washington, D.C. (parade at noon ET)"
+  },
+  {
+    "date": "2026-11-11",
+    "label": "Veterans Day parades in Birmingham, Houston and San Diego"
+  }
 ]

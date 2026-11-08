@@ -172,7 +172,7 @@ internalLinks:
   - href: "/when-is/memorial-day/"
     label: "When is Memorial Day?"
 draft: false
-related: [veterans-day-parades-2026-by-city, veterans-day-2026-national-ceremony-arlington-time, veterans-day-free-meals-discounts]
+related: [veterans-day-parades-2026-by-city, veterans-day-2026-national-ceremony-arlington-time, marine-corps-birthday-2026-november-10-251st]
 ---
 
 Veterans Day 2026 falls on **Wednesday, Nov. 11**, a federal holiday on the Office of Personnel Management (OPM) list. The U.S. Postal Service (USPS) says all Post Office locations close that day, and the Federal Reserve and the bond market close too. The New York Stock Exchange (NYSE) and Nasdaq trade as usual.

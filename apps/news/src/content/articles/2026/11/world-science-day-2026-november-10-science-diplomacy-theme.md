@@ -4,6 +4,7 @@ seoTitle: "World Science Day 2026: Tuesday, Nov. 10 Theme"
 description: "World Science Day is Tuesday, Nov. 10, 2026, per the United Nations Educational, Scientific and Cultural Organization (UNESCO). Theme and activity ideas."
 type: news
 publishedAt: "2026-11-06T14:05:00-05:00"
+updatedAt: "2026-11-08T07:23:00-05:00"
 authors: [christina-gerland]
 category: holidays
 keywords: ["world science day 2026", "world science day for peace and development 2026 theme", "unesco science day", "science diplomacy"]
@@ -91,6 +92,12 @@ sources:
   - title: "World Science Day for Peace and Development | UNESCO"
     url: "https://www.unesco.org/en/days/science-peace-development"
     publisher: "United Nations Educational, Scientific and Cultural Organization (UNESCO)"
+  - title: "World Science Day for Peace and Development - International Week | United Nations"
+    url: "https://www.un.org/en/node/106610"
+    publisher: "United Nations (UN)"
+  - title: "List of International Days and Weeks | United Nations"
+    url: "https://www.un.org/observances/list-days-weeks"
+    publisher: "United Nations (UN)"
 internalLinks:
   - href: "/november-calendars.html"
     label: "November 2026 printable calendar"
@@ -123,6 +130,8 @@ The date is Nov. 10 every year, so only the weekday changes. The weekdays are ou
 |---|---|
 | 2026 | Tuesday |
 | 2027 | Wednesday |
+
+The United Nations (UN) also observes an International Week of Science and Peace. Its list of international days gives "International Week of Science and Peace, 9-15 November," and a UN page says the week takes place "each year during the week in which 11 November falls." The UN says the first observance was in 1986, and General Assembly resolution 43/61 was adopted in December 1988. The UN list shows no year, so placing the week on Monday, Nov. 9, to Sunday, Nov. 15, 2026, is our calculation.
 
 Mark it on the [November 2026 printable calendar](/november-calendars.html) or see the other observances in [November 2026 important dates and days until](/news/november-2026-important-dates-days-until/).
 

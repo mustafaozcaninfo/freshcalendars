@@ -54,7 +54,7 @@ internalLinks:
     label: "November 2026 printable calendar"
   - href: "/when-is/veterans-day/"
     label: "When is Veterans Day?"
-related: [remembrance-day-2026-canada-statutory-holiday-remembrance-sunday-uk, lord-mayors-show-2026-date-time-route-november-14, bonfire-night-2026-thursday-november-5-fireworks-rules]
+related: [remembrance-day-2026-canada-statutory-holiday-remembrance-sunday-uk, lord-mayors-show-2026-date-time-route-november-14, berlin-wall-fall-anniversary-2026-november-9-37-years]
 downloads:
   - group: "Remembrance Weekend 2026 Timetable printables"
     title: "Remembrance Weekend 2026 Timetable, 7 to 11 November"
