@@ -74,7 +74,7 @@ internalLinks:
     label: "Printable school-year calendar 2026-27"
   - href: "/december-calendars.html"
     label: "December 2026 printable calendar"
-related: [fresno-unified-calendar-2026-27-breaks, lausd-calendar-2026-27-winter-break-spring-break, san-diego-unified-calendar-2026-27-breaks]
+related: [fresno-unified-calendar-2026-27-breaks, lausd-calendar-2026-27-winter-break-spring-break, sacramento-city-unified-calendar-2026-27-breaks]
 downloads:
   - group: "Elk Grove Unified Calendar 2026-27 printables"
     title: "Elk Grove Unified Calendar 2026-27"
