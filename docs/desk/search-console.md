@@ -1,10 +1,10 @@
 # Search Console (generated, do not edit)
 
-Read 2026-11-08T09:46 UTC for sc-domain:freshcalendars.com. Windows end 3 days before the read (Search Console data is late). Source: `scripts/news-gsc.mjs`, daily. Web, image and Discover results are separate: each section says which.
+Read 2026-11-08T15:59 UTC for sc-domain:freshcalendars.com. Windows end 3 days before the read (Search Console data is late). Source: `scripts/news-gsc.mjs`, daily. Web, image and Discover results are separate: each section says which.
 
 ## Gate for the phase decision (docs/DESK.md)
 
-- PASS: At least 60% of /news/ URLs published 7 to 21 days ago are indexed — 100% (58 of 58 sampled)
+- PASS: At least 60% of /news/ URLs published 7 to 21 days ago are indexed — 100% (57 of 57 sampled)
 - PASS: /news/ clicks and impressions did not fall two weeks in a row — no
 - CHECK: No manual action and no security issue — not in the API: check Search Console > Security & Manual Actions
 
@@ -272,9 +272,9 @@ Ranking in web results but absent from image results (hero alt text, caption, fi
 
 ## Indexing
 
-Sample of 90 stories published 2 to 21 days ago (the gate counts the 58 that are 7 to 21 days old): 89 Submitted and indexed, 1 Excluded by ‘noindex’ tag.
+Sample of 90 stories published 2 to 21 days ago (the gate counts the 57 that are 7 to 21 days old): 90 Submitted and indexed.
 
-- not indexed: /news/catholic-liturgical-calendar-2027-year-b/ (Excluded by ‘noindex’ tag), 4 days old
+- every sampled story is indexed
 
 ## Sitemaps
 
@@ -296,3 +296,4 @@ Sample of 90 stories published 2 to 21 days ago (the gate counts the 58 that are
 - baltimore-county-public-schools-calendar-2026-27-breaks (changed 2026-11-07): before 2 clicks, 1,645 impressions, CTR 0.12%, position 5.7; after: not yet (0 of 15 days)
 - thanksgiving-football-schedule-2026-nfl-college-games (changed 2026-11-07): before 41 clicks, 3,016 impressions, CTR 1.36%, position 6.9; after: not yet (0 of 15 days)
 - king-tides-2026-dates-this-week-high-tide-times (changed 2026-11-07): before 16 clicks, 1,151 impressions, CTR 1.39%, position 7.3; after: not yet (0 of 15 days)
+- november-2026-calendar-printable (changed 2026-11-07): before 17 clicks, 703 impressions, CTR 2.42%, position 5.2; after: not yet (0 of 15 days)

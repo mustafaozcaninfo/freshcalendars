@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-08T09:46:21.904Z",
+ "generatedAt": "2026-11-08T15:59:06.110Z",
  "site": "sc-domain:freshcalendars.com",
  "windows": [
   {
@@ -135,7 +135,7 @@
  "gate": [
   {
    "rule": "At least 60% of /news/ URLs published 7 to 21 days ago are indexed",
-   "value": "100% (58 of 58 sampled)",
+   "value": "100% (57 of 57 sampled)",
    "pass": true
   },
   {
@@ -2243,20 +2243,12 @@
   ]
  },
  "indexed": {
-  "checked": 58,
+  "checked": 57,
   "sampled": 90,
-  "indexed": 58,
-  "notIndexed": [
-   {
-    "url": "https://freshcalendars.com/news/catholic-liturgical-calendar-2027-year-b/",
-    "status": "not indexed",
-    "state": "Excluded by ‘noindex’ tag",
-    "age": 4
-   }
-  ],
+  "indexed": 57,
+  "notIndexed": [],
   "states": {
-   "Submitted and indexed": 89,
-   "Excluded by ‘noindex’ tag": 1
+   "Submitted and indexed": 90
   },
   "unknown": 0
  },
@@ -2436,6 +2428,19 @@
     "impressions": 1151,
     "ctr": 1.39,
     "position": 7.3
+   },
+   "after": null,
+   "daysAfter": 0
+  },
+  {
+   "slug": "november-2026-calendar-printable",
+   "changedAt": "2026-11-07",
+   "what": "description: \"November 2026 starts on Sunday, Nov. 1, when clocks fall back, ...\" → \"November 2026 calendar: 14 free printable PDFs with Veterans Day, Nov. 11 and Thanksgiving, Nov. 26 marked. ...\"; title unchanged, clock-change sentence cut from the first paragraph",
+   "before": {
+    "clicks": 17,
+    "impressions": 703,
+    "ctr": 2.42,
+    "position": 5.2
    },
    "after": null,
    "daysAfter": 0
