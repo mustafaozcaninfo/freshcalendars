@@ -4,7 +4,7 @@ seoTitle: "MLS Cup Playoffs 2026 Schedule and Dates"
 description: "Major League Soccer (MLS) says MLS Cup 2026 is Fri., Dec. 18 and Decision Day is Sat., Nov. 7. See every playoff round by date, the format and where to watch."
 type: explainer
 publishedAt: "2026-10-25T20:18:00-04:00"
-updatedAt: "2026-11-07T23:20:00-05:00"
+updatedAt: "2026-11-08T09:25:00-05:00"
 authors: [jessica-hartwell]
 category: sports
 keywords: ["MLS Cup playoffs 2026 schedule", "MLS Cup 2026 date", "MLS playoffs 2026 format", "MLS Decision Day 2026"]
@@ -46,7 +46,7 @@ hero:
 summary:
   - "Major League Soccer (MLS) lists MLS Cup presented by Audi for Fri., Dec. 18, 2026. Decision Day was Sat., Nov. 7, and all 18 playoff spots are confirmed."
   - "The Wild Card is Thu., Nov. 19: Orlando City host FC Cincinnati at 7:30 p.m. ET and Seattle Sounders FC host Real Salt Lake at 10 p.m. ET. Round One is a best-of-3 series from Fri., Nov. 20 to Wed., Dec. 2, then the conference semifinals and finals follow."
-  - "MLS says every playoff match is on Apple TV, and select games including MLS Cup also air on FOX Sports in the U.S. and on TSN and RDS in Canada."
+  - "MLS says every playoff match is on Apple TV; MLS Cup also airs on FOX and FOX Deportes in the U.S. and TSN and RDS in Canada, and select matches on FS1."
   - "MLS says all dates are subject to change."
 faq:
   - q: "When is MLS Cup 2026?"
@@ -56,7 +56,7 @@ faq:
   - q: "How many teams make the MLS playoffs in 2026?"
     a: "MLS says 18 teams qualify: the top nine in the East and the top nine in the West. The field is complete, with all 18 spots confirmed after Decision Day."
   - q: "Where can I watch the MLS playoffs in 2026?"
-    a: "MLS says every playoff match is broadcast live on Apple TV with English and Spanish commentary. Select games, including MLS Cup, also air on FOX Sports in the U.S. and on TSN and RDS in Canada."
+    a: "MLS says every playoff match is broadcast live on Apple TV with English and Spanish commentary. MLS Cup also airs on FOX and FOX Deportes in the U.S. and on TSN and RDS in Canada, and select other playoff matches air on FS1, FOX Deportes, TSN and RDS."
   - q: "Can the playoff dates change?"
     a: "Yes. MLS states that the dates are subject to change, so check mlssoccer.com before you plan around one."
 sources:
@@ -70,6 +70,10 @@ sources:
     url: "https://www.nashvillesc.com/news/renasant-recap-nashville-soccer-club-wins-2026-mls-supporters-shield-for-first-time"
     publisher: "Nashville SC"
     date: "2026-10-24"
+  - title: "Audi 2026 MLS Cup Playoffs Field Set and Wild Card Match Schedule Announced"
+    url: "https://www.mlssoccer.com/news/audi-2026-mls-cup-playoffs-field-set-and-wild-card-match-schedule-announced"
+    publisher: "Major League Soccer"
+    date: "2026-11-07"
   - title: "Audi 2026 MLS Cup Playoffs: Key dates & schedule information"
     url: "https://www.mlssoccer.com/playoffs/2026/news/audi-2026-mls-cup-playoffs-key-dates-schedule-information"
     publisher: "Major League Soccer"
@@ -183,7 +187,7 @@ Source: Major League Soccer, 2026. MLS says all 16 Round One teams play at least
 
 ## Where can I watch the MLS playoffs?
 
-MLS says every playoff match is broadcast live on Apple TV. Select games, including MLS Cup, also air on FOX Sports in the U.S. and on The Sports Network (TSN) and Réseau des sports (RDS) in Canada. MLS does not list in the pages used here which games besides MLS Cup are on those networks. The two Wild Card matches are on Apple TV; Round One TV per game is not yet announced.
+MLS says every playoff match is broadcast live on Apple TV. MLS's Nov. 7 release says MLS Cup airs on FOX and FOX Deportes in the U.S. and on The Sports Network (TSN) and Réseau des sports (RDS) in Canada, "while select additional playoff matches will air on FS1, FOX Deportes, TSN and RDS." MLS has not yet named which matches those are. The two Wild Card matches are on Apple TV. The same release says the full Round One schedule "will be announced on Sunday, November 8"; until it is posted, Round One days, kickoffs and TV per game stay "to be announced."
 
 ## Who won MLS Cup last year?
 

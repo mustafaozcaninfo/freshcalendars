@@ -4,6 +4,7 @@ seoTitle: "Guru Nanak Jayanti 2026: Tuesday, Nov. 24"
 description: "Guru Nanak Jayanti 2026 is Tuesday, Nov. 24, per the Department of Personnel and Training (DoPT). Purnima times in Eastern Time (ET) and Pacific Time (PT)."
 type: explainer
 publishedAt: "2026-10-28T23:45:00-04:00"
+updatedAt: "2026-11-08T09:25:00-05:00"
 authors: [christina-gerland]
 category: holidays
 keywords: ["Guru Nanak Jayanti 2026", "Gurpurab 2026 date", "Guru Nanak birthday 2026", "Guru Nanak Jayanti 2026 USA time"]
@@ -32,7 +33,7 @@ faq:
   - q: "How many years since Guru Nanak was born?"
     a: "Guru Nanak was born in 1469, so 2026 is the 557th anniversary by our count (2026 minus 1469)."
   - q: "Is Guru Nanak Jayanti a holiday in India in 2026?"
-    a: "It is a closed (compulsory) holiday for central government offices on the DoPT list. Whether banks and stock exchanges close on Nov. 24 has not been checked: the Reserve Bank of India has not posted November, so confirm with your own bank."
+    a: "It is a closed (compulsory) holiday for central government offices on the DoPT list. Banks are closed on Nov. 24 under the Negotiable Instruments Act in 21 of 34 Reserve Bank of India (RBI) regional office cities, including New Delhi, Mumbai, Kolkata, Chandigarh, Hyderabad, Jaipur and Lucknow, and open in Bengaluru, Chennai, Ahmedabad and 10 other cities, per the RBI holiday matrix read on Nov. 8, 2026. We did not check stock exchanges."
   - q: "When is Guru Nanak Jayanti 2027?"
     a: "The 2027 date is not yet published on the official lists we found."
 sources:
@@ -47,6 +48,10 @@ sources:
   - title: "Guru Nanak Jayanti 2026 date and Purnima tithi (New Delhi)"
     url: "https://www.drikpanchang.com/calendars/indian/sikh-festivals/jayanti/guru-nanak-jayanti-date.html?year=2026"
     publisher: "Drik Panchang"
+  - title: "Holidays (Holiday Matrix, November 2026)"
+    url: "https://www.rbi.org.in/Scripts/HolidayMatrixDisplay.aspx"
+    publisher: "Reserve Bank of India"
+    date: "2026-11-08"
 internalLinks:
   - href: "/november-calendars.html"
     label: "November 2026 printable calendar"
@@ -127,7 +132,16 @@ For a reader in the Eastern, Central, Mountain or Pacific zones, the tithi ends 
 
 ## Is Guru Nanak Jayanti a holiday?
 
-In India it is a closed holiday for central government offices, as the DoPT list shows, and the Accountant General (Punjab) lists it among Punjab holidays. We did not check whether Indian stock exchanges are closed on Nov. 24, and the Reserve Bank of India has not posted its November list, so do not assume markets or banks are shut: ask your bank. We found no official proclamation of the day in the United States, United Kingdom or Canada.
+In India it is a closed holiday for central government offices, as the DoPT list shows, and the Accountant General (Punjab) lists it among Punjab holidays. We did not check whether Indian stock exchanges are closed on Nov. 24. For banks, the Reserve Bank of India (RBI) holiday matrix for November 2026, read on Nov. 8, lists Nov. 24 as "Guru Nanak Jayanti/Karthika Purnima/Rahas Purnima", a "Holiday under Negotiable Instruments Act", in 21 of its 34 regional office cities. We found no official proclamation of the day in the United States, United Kingdom or Canada.
+
+## Bank holiday on Nov. 24 by RBI city
+
+| Status on Nov. 24 | RBI regional office cities |
+|---|---|
+| Holiday under Negotiable Instruments Act (21) | Aizawl, Belapur, Bhopal, Bhubaneswar, Chandigarh, Dehradun, Hyderabad, Itanagar, Jaipur, Jammu, Kanpur, Kohima, Kolkata, Lucknow, Mumbai, Nagpur, New Delhi, Raipur, Ranchi, Shimla, Srinagar |
+| Not marked, banks open (13) | Agartala, Ahmedabad, Bengaluru, Chennai, Gangtok, Guwahati, Imphal, Kochi, Panaji, Patna, Shillong, Thiruvananthapuram, Vijayawada |
+
+The matrix covers RBI regional office cities only, so for any other town or for a specific branch, ask your bank.
 
 The Shiromani Gurdwara Parbandhak Committee (SGPC) publishes a Nanakshahi calendar for 2026-27 at sgpc.net, but we could not find the Guru Nanak date line on it, so we do not cite a date from it.
 
