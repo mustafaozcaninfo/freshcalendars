@@ -131,7 +131,6 @@ related: [nba-games-today-october-30-2026, nhl-games-today-october-30-2026, bree
 draft: false
 ---
 
-<p class="callout"><b>Last updated Oct. 30, 2026, 4:30 a.m. ET.</b> Added Apple TV as the U.S. channel for both F1 practice sessions; Saturday's schedule is in <a href="/news/sports-on-tv-today-october-31-2026/">sports on TV today, Oct. 31</a>.</p>
 
 
 **There are 20 sports events on the schedule for Friday, Oct. 30, 2026, starting at 1 p.m. Eastern Time (ET), according to the National Basketball Association (NBA), National Hockey League (NHL), National Collegiate Athletic Association (NCAA), Breeders' Cup and Formula 1 (F1) listings.** That is 10 NBA games, 3 NHL games, 4 college football games, 2 F1 practice sessions and the Breeders' Cup card at Keeneland. The table below puts all of them in one time-ordered list with the channel.

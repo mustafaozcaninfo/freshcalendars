@@ -89,7 +89,7 @@ downloads:
 draft: false
 ---
 
-<p class="callout"><b>Last updated Mon. Nov. 2, 2026, 2:10 p.m. ET.</b> The Latin Recording Academy's Oct. 20 press release confirms the venue, the Univision broadcast and the start time: 8 p.m. Eastern Standard Time (EST) on Thursday, Nov. 12. The Latin Grammy Premiere time is still to be announced.</p>
+The Latin Recording Academy's Oct. 20 press release confirms the venue, the Univision broadcast and the start time: 8 p.m. Eastern Standard Time (EST) on Thursday, Nov. 12. The Latin Grammy Premiere time is still to be announced.
 
 **The 27th Annual Latin Grammy Awards air live from the Metro-Goldwyn-Mayer (MGM) Grand Garden Arena in Las Vegas on Thursday, Nov. 12, 2026, beginning at 8 p.m. Eastern Standard Time (EST) on Univision, the Latin Recording Academy says.** The three-hour telecast follows a one-hour pre-show at 7 p.m. EST. Roselyn Sánchez returns as host for the tenth time.
 

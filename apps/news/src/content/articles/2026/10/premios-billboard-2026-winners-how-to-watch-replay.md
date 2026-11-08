@@ -125,7 +125,6 @@ corrections:
 draft: false
 ---
 
-<p class="callout"><b>Last updated Oct. 25, 2026, 5:35 p.m. ET.</b> Telemundo's winners article, updated Oct. 23, lists the winners by artist. We replaced our partial list with every category it names, led by Bad Bunny as Artist of the Year.</p>
 
 **Bad Bunny won Artist of the Year at the 2026 Billboard Latin Music Awards (Premios Billboard), and Fuerza Regida took home the most awards, eight, according to Telemundo, which aired the show live on Thursday, Oct. 22, at 8 p.m. Eastern Time (ET) from the James L. Knight Center in Miami.** Bad Bunny won seven awards in all and Karol G four. Fuerza Regida's "Malboro rojo" won Hot Latin Song of the Year, and Peso Pluma and Tito Double P won Top Latin Album of the Year for DINASTIA. NBCUniversal said Carmen Villalobos and Javier Poza hosted the night, which included 16 musical performances. Below is the full winners list by category, how the show aired and where to look for it now.
 

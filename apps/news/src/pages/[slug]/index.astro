@@ -190,7 +190,7 @@ const puzzleDay = pzThis ? {
       </nav>
     )}
     <div class="article-byline-row"><ArticleMeta
-      authors={authors.map((a) => ({ name: a.data.name, href: authorPath(a.id), photo: a.data.photo }))}
+      authors={authors.map((a) => ({ name: a.data.name, href: authorPath(a.id), photo: a.data.photo, role: a.data.role }))}
       publishedAt={d.publishedAt}
       modifiedAt={modifiedAt}
       readingMinutes={minutes}

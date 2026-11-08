@@ -1,42 +1,46 @@
 # The week in numbers (generated, do not edit)
 
-Built 2026-11-07T17:20 UTC. Last 7 days against the 7 before. Sources: `traffic.md` (beacon), `clarity.md`, `search-console.md`. How to read them: `docs/ANALYTICS.md`.
+Built 2026-11-08T08:22 UTC. Last 7 days against the 7 before. Sources: `traffic.md` (beacon), `clarity.md`, `search-console.md`. How to read them: `docs/ANALYTICS.md`.
 
 ## Real readers (beacon)
 
 | | This week | Week before | Change |
 |---|---:|---:|---:|
-| Page views | 44 | 0 | new |
-| Avg. seconds on page | 26 | 0 | new |
-| Avg. deepest scroll | 20% | 0% | |
-| Views from inside the site | 18.2% | 0.0% | |
+| Page views | 1,005 | 0 | new |
+| Avg. seconds on page | 58 | 0 | new |
+| Avg. deepest scroll | 22% | 0% | |
+| Views from inside the site | 13.8% | 0.0% | |
 
-Devices: mobile 23 (32 s, 20% scroll) · desktop 21 (18 s, 21% scroll)
+Devices: desktop 519 (61 s, 25% scroll) · mobile 473 (54 s, 19% scroll) · tablet 13 (76 s, 23% scroll)
+
+## Bing search (also Yahoo and DuckDuckGo)
+
+- last 7 days with data: 3,532 clicks, 457,626 impressions (week before: 2,027 clicks, +74%)
 
 ## Google search (/news/, web)
 
-- 2026-10-29..2026-11-04: 3,595 clicks, 642,016 impressions
-- 2026-10-22..2026-10-28: 1,620 clicks, 414,115 impressions
+- 2026-10-30..2026-11-05: 3,387 clicks, 595,493 impressions
+- 2026-10-23..2026-10-29: 2,002 clicks, 463,795 impressions
 
 ## Most read categories
 
-- sports: 16 views (new), 4 per story
-- holidays: 6 views (new), 2 per story
-- puzzles: 5 views (new), 1 per story
-- money-benefits: 4 views (new), 2 per story
-- sky-events: 3 views (new), 2 per story
-- uk-canada: 2 views (new), 1 per story
+- holidays: 244 views (new), 7 per story
+- sports: 223 views (new), 5 per story
+- puzzles: 129 views (new), 5 per story
+- uk-canada: 73 views (new), 4 per story
+- entertainment: 58 views (new), 4 per story
+- retail-dates: 55 views (new), 3 per story
 
 ## Most read stories
 
-- /news/army-navy-game-2026-date-kickoff-time-metlife-stadium-tv/: 11 views, 22 s
-- /news/: 4 views, 11 s
-- /news/veterans-day-free-meals-discounts/: 4 views, 36 s
-- /news/senior-deduction-2026-6000-age-65-phase-out/: 3 views, 3 s
-- /news/ncaa-volleyball-tournament-2026-bracket-schedule-final-four-san-antonio/: 2 views, 115 s
-- /news/world-chess-championship-2026-gukesh-sindarov-geneva-dates-time/: 2 views, 7 s
-- /news/nyt-spelling-bee-hints-answers-november-7-2026/: 2 views, 52 s
-- /news/moon-phase-tonight-december-2026-moon-calendar/: 2 views, 7 s
-- /news/nyt-pips-hints-answers-november-8-2026/: 1 views, 3 s
-- /news/thanksgiving-football-schedule-2026-nfl-college-games/: 1 views, 21 s
+- /news/veterans-day-free-meals-discounts/: 135 views, 142 s
+- /news/army-navy-game-2026-date-kickoff-time-metlife-stadium-tv/: 86 views, 43 s
+- /news/: 41 views, 4 s
+- /news/nyt-connections-hints-answers-november-7-2026-1245/: 37 views, 60 s
+- /news/day-of-the-dead-2026-dia-de-los-muertos-dates/: 32 views, 83 s
+- /news/paris-masters-2026-schedule-final-time-by-time-zone/: 30 views, 44 s
+- /news/london-fireworks-2026-battersea-alexandra-palace-blackheath-wimbledon-times-tickets/: 26 views, 25 s
+- /news/nyt-strands-hints-answers-november-8-2026-980/: 17 views, 36 s
+- /news/snl-hosts-november-2026-halloween-episode-inde-navarrette-schedule/: 16 views, 60 s
+- /news/thanksgiving-football-schedule-2026-nfl-college-games/: 15 views, 51 s
 

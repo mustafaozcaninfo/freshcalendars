@@ -1,1264 +1,1244 @@
 {
- "generatedAt": "2026-11-07T17:00:00Z",
+ "generatedAt": "2026-11-08T08:00:00Z",
  "days": 7,
  "failed": [],
  "newsDaily": [
   {
-   "day": "2026-10-31",
-   "count": 39929
-  },
-  {
    "day": "2026-11-01",
-   "count": 26341
+   "count": 26041
   },
   {
    "day": "2026-11-02",
-   "count": 28949
+   "count": 26777
   },
   {
    "day": "2026-11-03",
-   "count": 26549
+   "count": 27364
   },
   {
    "day": "2026-11-04",
-   "count": 19053
+   "count": 21171
   },
   {
    "day": "2026-11-05",
-   "count": 17157
+   "count": 18579
   },
   {
    "day": "2026-11-06",
-   "count": 17461
+   "count": 17256
+  },
+  {
+   "day": "2026-11-07",
+   "count": 16980
   }
  ],
  "calendarDaily": [
   {
-   "day": "2026-10-31",
-   "count": 534
-  },
-  {
    "day": "2026-11-01",
-   "count": 688
+   "count": 685
   },
   {
    "day": "2026-11-02",
-   "count": 921
+   "count": 945
   },
   {
    "day": "2026-11-03",
-   "count": 647
+   "count": 563
   },
   {
    "day": "2026-11-04",
-   "count": 533
+   "count": 582
   },
   {
    "day": "2026-11-05",
-   "count": 595
+   "count": 621
   },
   {
    "day": "2026-11-06",
-   "count": 629
+   "count": 610
+  },
+  {
+   "day": "2026-11-07",
+   "count": 603
   }
  ],
  "pdfDaily": [
   {
-   "day": "2026-10-31",
-   "count": 1248
-  },
-  {
    "day": "2026-11-01",
-   "count": 1236
+   "count": 1160
   },
   {
    "day": "2026-11-02",
-   "count": 1591
+   "count": 1604
   },
   {
    "day": "2026-11-03",
-   "count": 1619
+   "count": 1587
   },
   {
    "day": "2026-11-04",
-   "count": 3796
+   "count": 3585
   },
   {
    "day": "2026-11-05",
-   "count": 2437
+   "count": 2566
   },
   {
    "day": "2026-11-06",
-   "count": 4330
+   "count": 4426
+  },
+  {
+   "day": "2026-11-07",
+   "count": 1557
   }
  ],
  "topNews": [
   {
-   "key": "/news/daylight-saving-time-ends-november-1-2026/",
-   "count": 24529
-  },
-  {
    "key": "/news/black-friday-canada-2026-november-27-sale-dates-canadian-tire-november-5/",
-   "count": 9923
+   "count": 10258
   },
   {
    "key": "/news/black-friday-2026-ad-tracker-walmart-target-best-buy/",
-   "count": 6814
+   "count": 6574
   },
   {
-   "key": "/news/november-2026-meteor-showers-taurids-leonids/",
-   "count": 5947
-  },
-  {
-   "key": "/news/snap-payment-schedule-november-2026-deposit-dates-by-state/",
-   "count": 4764
+   "key": "/news/daylight-saving-time-ends-november-1-2026/",
+   "count": 6487
   },
   {
    "key": "/news/veterans-day-free-meals-discounts/",
-   "count": 4688
+   "count": 5359
   },
   {
-   "key": "/news/canada-clocks-fall-back-november-1-2026-which-provinces-no-time-change/",
-   "count": 4525
+   "key": "/news/november-2026-meteor-showers-taurids-leonids/",
+   "count": 4808
   },
   {
-   "key": "/news/day-of-the-dead-2026-dia-de-los-muertos-dates/",
-   "count": 3342
+   "key": "/news/snap-payment-schedule-november-2026-deposit-dates-by-state/",
+   "count": 4793
   },
   {
    "key": "/news/when-will-we-know-election-results-2026-midterms/",
-   "count": 3192
+   "count": 3208
   },
   {
-   "key": "/news/sunset-times-after-daylight-saving-time-ends-2026/",
-   "count": 2154
+   "key": "/news/day-of-the-dead-2026-dia-de-los-muertos-dates/",
+   "count": 2660
   },
   {
-   "key": "/news/florida-amendments-2026-ballot-senate-special-election/",
-   "count": 1586
-  },
-  {
-   "key": "/news/holiday-menus-2026-every-chain-tracker/",
-   "count": 1566
-  },
-  {
-   "key": "/news/planets-visible-november-2026-night-sky-calendar-moon-venus-uranus-opposition/",
-   "count": 1467
+   "key": "/news/canada-clocks-fall-back-november-1-2026-which-provinces-no-time-change/",
+   "count": 2357
   },
   {
    "key": "/news/diwali-2026-date-lakshmi-puja-time-usa/",
-   "count": 1439
+   "count": 2073
+  },
+  {
+   "key": "/news/holiday-menus-2026-every-chain-tracker/",
+   "count": 1960
+  },
+  {
+   "key": "/news/planets-visible-november-2026-night-sky-calendar-moon-venus-uranus-opposition/",
+   "count": 1449
   },
   {
    "key": "/news/election-day-2026-results-map/",
-   "count": 1426
-  },
-  {
-   "key": "/news/california-propositions-2026-november-ballot-explained/",
-   "count": 1349
+   "count": 1446
   },
   {
    "key": "/news/pokemon-go-november-2026-events-calendar-community-day-pawniard/",
-   "count": 1249
+   "count": 1330
   },
   {
-   "key": "/news/new-york-ballot-2026-sample-ballot-governor-nyc-proposals/",
-   "count": 1205
+   "key": "/news/california-propositions-2026-november-ballot-explained/",
+   "count": 1308
   },
   {
-   "key": "/news/advent-calendar-2026-dates-free-printable/",
-   "count": 1204
-  },
-  {
-   "key": "/news/sephora-savings-event-november-2026-dates-ulta-black-friday-beauty-sales/",
-   "count": 1169
-  },
-  {
-   "key": "/news/sat-act-test-dates-2026-27-registration-deadlines/",
-   "count": 1136
-  },
-  {
-   "key": "/news/what-time-do-polls-close-election-day-2026/",
-   "count": 1117
-  },
-  {
-   "key": "/news/nyc-holiday-calendar-2026-rockefeller-tree-macys-parade/",
-   "count": 1113
-  },
-  {
-   "key": "/news/free-rides-to-the-polls-2026-lyft-uber-transit/",
-   "count": 1009
-  },
-  {
-   "key": "/news/statue-of-liberty-140th-anniversary-october-28-2026-timeline-visit/",
-   "count": 935
-  },
-  {
-   "key": "/news/printable-pumpkin-carving-templates/",
-   "count": 915
-  },
-  {
-   "key": "/news/supermoon-2026-beaver-moon-cold-moon-geminids-solstice/",
-   "count": 897
+   "key": "/news/sunset-times-after-daylight-saving-time-ends-2026/",
+   "count": 1268
   },
   {
    "key": "/news/spotify-wrapped-2026-release-date-past-launch-dates/",
-   "count": 876
+   "count": 1261
   },
   {
-   "key": "/news/jobs-report-november-6-2026-time-bls-release-schedule-2027/",
-   "count": 860
+   "key": "/news/advent-calendar-2026-dates-free-printable/",
+   "count": 1258
   },
   {
-   "key": "/news/when-do-2026-election-winners-take-office-congress-governors/",
-   "count": 845
+   "key": "/news/sephora-savings-event-november-2026-dates-ulta-black-friday-beauty-sales/",
+   "count": 1255
   },
   {
-   "key": "/news/deer-season-2026-opening-day-gun-season-dates-by-state/",
-   "count": 840
+   "key": "/news/nyc-holiday-calendar-2026-rockefeller-tree-macys-parade/",
+   "count": 1252
   },
   {
-   "key": "/news/amazon-black-friday-2026-sale-dates-when-does-it-start/",
-   "count": 830
+   "key": "/news/new-york-ballot-2026-sample-ballot-governor-nyc-proposals/",
+   "count": 1167
   },
   {
-   "key": "/news/wta-finals-2026-indian-wells-dates-qualified-players-time-zones/",
-   "count": 755
+   "key": "/news/sat-act-test-dates-2026-27-registration-deadlines/",
+   "count": 1152
   },
   {
-   "key": "/news/black-friday-2026-price-adjustment-policies/",
-   "count": 737
-  },
-  {
-   "key": "/news/gta-6-october-22-2026-what-is-confirmed-release-countdown/",
-   "count": 736
-  },
-  {
-   "key": "/news/native-american-heritage-month-2026-theme-events-books-activities/",
-   "count": 736
-  },
-  {
-   "key": "/news/nfl-week-9-schedule-2026-printable-pick-em-sheet-game-times/",
-   "count": 734
-  },
-  {
-   "key": "/news/best-buy-black-friday-2026-doorbusters-october-30-holiday-calendar/",
-   "count": 707
-  },
-  {
-   "key": "/news/veterans-day-2026-wednesday-november-11/",
-   "count": 706
-  },
-  {
-   "key": "/news/is-election-day-a-holiday-2026-whats-open/",
-   "count": 651
-  },
-  {
-   "key": "/news/king-tides-2026-dates-this-week-high-tide-times/",
-   "count": 611
+   "key": "/news/what-time-do-polls-close-election-day-2026/",
+   "count": 1086
   },
   {
    "key": "/news/2027-tax-brackets-401k-hsa-limits-irs/",
+   "count": 985
+  },
+  {
+   "key": "/news/free-rides-to-the-polls-2026-lyft-uber-transit/",
+   "count": 950
+  },
+  {
+   "key": "/news/veterans-day-2026-wednesday-november-11/",
+   "count": 917
+  },
+  {
+   "key": "/news/supermoon-2026-beaver-moon-cold-moon-geminids-solstice/",
+   "count": 917
+  },
+  {
+   "key": "/news/florida-amendments-2026-ballot-senate-special-election/",
+   "count": 917
+  },
+  {
+   "key": "/news/deer-season-2026-opening-day-gun-season-dates-by-state/",
+   "count": 894
+  },
+  {
+   "key": "/news/when-do-2026-election-winners-take-office-congress-governors/",
+   "count": 851
+  },
+  {
+   "key": "/news/statue-of-liberty-140th-anniversary-october-28-2026-timeline-visit/",
+   "count": 851
+  },
+  {
+   "key": "/news/jobs-report-november-6-2026-time-bls-release-schedule-2027/",
+   "count": 783
+  },
+  {
+   "key": "/news/black-friday-2026-price-adjustment-policies/",
+   "count": 750
+  },
+  {
+   "key": "/news/native-american-heritage-month-2026-theme-events-books-activities/",
+   "count": 741
+  },
+  {
+   "key": "/news/nfl-week-9-schedule-2026-printable-pick-em-sheet-game-times/",
+   "count": 740
+  },
+  {
+   "key": "/news/best-buy-black-friday-2026-doorbusters-october-30-holiday-calendar/",
+   "count": 690
+  },
+  {
+   "key": "/news/printable-pumpkin-carving-templates/",
+   "count": 620
+  },
+  {
+   "key": "/news/amazon-black-friday-2026-sale-dates-when-does-it-start/",
+   "count": 608
+  },
+  {
+   "key": "/news/wta-finals-2026-indian-wells-dates-qualified-players-time-zones/",
    "count": 596
   },
   {
-   "key": "/news/arizona-propositions-2026-ballot-explained/",
-   "count": 591
+   "key": "/news/when-are-2026-election-results-certified-deadlines-by-state/",
+   "count": 589
   },
   {
-   "key": "/news/november-2026-calendar-printable/",
-   "count": 591
+   "key": "/news/is-election-day-a-holiday-2026-whats-open/",
+   "count": 587
+  },
+  {
+   "key": "/news/arizona-propositions-2026-ballot-explained/",
+   "count": 584
+  },
+  {
+   "key": "/news/king-tides-2026-dates-this-week-high-tide-times/",
+   "count": 566
+  },
+  {
+   "key": "/news/cpi-report-november-10-2026-time-october-inflation-ppi-pce-dates/",
+   "count": 558
   },
   {
    "key": "/news/singles-day-2026-november-11-11-11-sale-dates/",
-   "count": 542
+   "count": 546
   },
   {
    "key": "/news/lsat-test-dates-2026-27-registration-deadlines/",
    "count": 530
   },
   {
-   "key": "/news/nyt-connections-hints-answers-november-1-2026-1239/",
-   "count": 524
-  },
-  {
-   "key": "/news/when-are-2026-election-results-certified-deadlines-by-state/",
-   "count": 522
-  },
-  {
    "key": "/news/avengers-doomsday-release-date-december-18-countdown-tickets-runtime/",
-   "count": 498
+   "count": 515
   },
   {
-   "key": "/news/london-fireworks-2026-battersea-alexandra-palace-blackheath-wimbledon-times-tickets/",
-   "count": 495
-  },
-  {
-   "key": "/news/federal-holidays-2027-observed-dates-list/",
-   "count": 486
-  },
-  {
-   "key": "/news/november-2026-important-dates-days-until/",
-   "count": 478
-  },
-  {
-   "key": "/news/costco-black-friday-2026-dates-november-27-30-pre-thanksgiving-savings-november-16/",
-   "count": 465
-  },
-  {
-   "key": "/news/cpi-report-november-10-2026-time-october-inflation-ppi-pce-dates/",
-   "count": 458
-  },
-  {
-   "key": "/news/2026-midterm-elections-whats-on-the-ballot-results-tracker/",
-   "count": 433
-  },
-  {
-   "key": "/news/premier-league-fixtures-november-6-8-2026-gameweek-10-kickoff-times-tv/",
-   "count": 424
+   "key": "/news/november-2026-calendar-printable/",
+   "count": 504
   },
   {
    "key": "/news/mcdonalds-holiday-drinks-2026-cookie-butter-cranberry/",
-   "count": 417
+   "count": 491
   },
   {
-   "key": "/news/powerball-drawing-tonight-monday-november-2-2026-time-jackpot-793-million/",
-   "count": 414
+   "key": "/news/november-2026-important-dates-days-until/",
+   "count": 483
+  },
+  {
+   "key": "/news/federal-holidays-2027-observed-dates-list/",
+   "count": 482
+  },
+  {
+   "key": "/news/london-fireworks-2026-battersea-alexandra-palace-blackheath-wimbledon-times-tickets/",
+   "count": 479
+  },
+  {
+   "key": "/news/costco-black-friday-2026-dates-november-27-30-pre-thanksgiving-savings-november-16/",
+   "count": 468
+  },
+  {
+   "key": "/news/gta-6-october-22-2026-what-is-confirmed-release-countdown/",
+   "count": 464
   },
   {
    "key": "/news/federal-benefits-open-season-2026-dates-fehb-premiums/",
-   "count": 396
+   "count": 452
   },
   {
-   "key": "/news/skate-canada-international-2026-schedule-kelowna-times-tv/",
-   "count": 393
+   "key": "/news/premier-league-fixtures-november-6-8-2026-gameweek-10-kickoff-times-tv/",
+   "count": 435
   },
   {
-   "key": "/news/nyt-connections-hints-answers-november-5-2026-1243/",
-   "count": 391
+   "key": "/news/2026-midterm-elections-whats-on-the-ballot-results-tracker/",
+   "count": 427
+  },
+  {
+   "key": "/news/powerball-drawing-tonight-monday-november-2-2026-time-jackpot-793-million/",
+   "count": 421
   },
   {
    "key": "/news/printables/",
-   "count": 389
+   "count": 392
+  },
+  {
+   "key": "/news/nyt-connections-hints-answers-november-5-2026-1243/",
+   "count": 377
+  },
+  {
+   "key": "/news/skate-canada-international-2026-schedule-kelowna-times-tv/",
+   "count": 375
+  },
+  {
+   "key": "/news/ap-exam-schedule-2027-dates-times-registration-deadline/",
+   "count": 372
+  },
+  {
+   "key": "/news/how-many-people-voted-early-2026-59-million-early-votes/",
+   "count": 371
   },
   {
    "key": "/news/texas-ballot-2026-candidates-senate-governor-statewide-races/",
    "count": 366
   },
   {
-   "key": "/news/el-nino-update-november-12-noaa-winter-outlook-november-19-2026/",
+   "key": "/news/great-british-bake-off-2026-free-from-week-tuesday-3-november-episode-schedule/",
    "count": 366
   },
   {
-   "key": "/news/great-british-bake-off-2026-free-from-week-tuesday-3-november-episode-schedule/",
-   "count": 361
-  },
-  {
-   "key": "/news/ap-exam-schedule-2027-dates-times-registration-deadline/",
-   "count": 355
-  },
-  {
-   "key": "/news/motogp-2026-final-races-qatar-portugal-valencia-race-times-us-uk/",
-   "count": 335
+   "key": "/news/nyt-connections-hints-answers-november-7-2026-1245/",
+   "count": 357
   },
   {
    "key": "/news/black-friday-2026-store-hours-walmart-target-best-buy/",
-   "count": 333
+   "count": 352
   },
   {
-   "key": "/news/how-many-people-voted-early-2026-59-million-early-votes/",
-   "count": 332
+   "key": "/news/motogp-2026-final-races-qatar-portugal-valencia-race-times-us-uk/",
+   "count": 350
   },
   {
-   "key": "/news/fomc-meeting-dates-2027-fed-schedule-december-2026/",
-   "count": 328
-  },
-  {
-   "key": "/news/mlb-offseason-2026-key-dates-free-agency-awards-cba/",
-   "count": 328
+   "key": "/news/el-nino-update-november-12-noaa-winter-outlook-november-19-2026/",
+   "count": 335
   },
   {
    "key": "/news/new-on-hulu-november-2026-release-dates/",
-   "count": 320
+   "count": 331
   },
   {
-   "key": "/news/champions-league-november-2026-schedule-kickoff-times-et-matchday-4-5/",
-   "count": 314
+   "key": "/news/fomc-meeting-dates-2027-fed-schedule-december-2026/",
+   "count": 326
   },
   {
-   "key": "/news/snl-hosts-november-2026-halloween-episode-inde-navarrette-schedule/",
-   "count": 311
+   "key": "/news/mlb-offseason-2026-key-dates-free-agency-awards-cba/",
+   "count": 325
+  },
+  {
+   "key": "/news/winter-solstice-2026-december-21-shortest-day-sunset-times/",
+   "count": 315
   },
   {
    "key": "/news/remembrance-sunday-2026-cenotaph-timings-8-november-festival-of-remembrance/",
-   "count": 307
+   "count": 310
   },
   {
-   "key": "/news/nyt-connections-hints-answers-november-7-2026-1245/",
-   "count": 303
+   "key": "/news/college-basketball-opening-night-2026-top-25-games-times-tv-champions-classic/",
+   "count": 308
   },
   {
-   "key": "/news/nhl-hometown-remix-jerseys-2026-27-unveil-date-game-schedule/",
-   "count": 299
+   "key": "/news/nations-championship-rugby-november-2026-fixtures-kick-off-times-uk-us/",
+   "count": 305
+  },
+  {
+   "key": "/news/champions-league-november-2026-schedule-kickoff-times-et-matchday-4-5/",
+   "count": 305
+  },
+  {
+   "key": "/news/starbucks-holiday-menu-2026-red-cup-day-date/",
+   "count": 300
+  },
+  {
+   "key": "/news/mls-cup-playoffs-2026-schedule-dates-mls-cup-december-18/",
+   "count": 298
+  },
+  {
+   "key": "/news/snl-hosts-november-2026-halloween-episode-inde-navarrette-schedule/",
+   "count": 297
   },
   {
    "key": "/news/why-thanksgiving-2026-is-november-26/",
-   "count": 298
+   "count": 297
   },
   {
    "key": "/news/government-funding-deadline-december-11-2026-shutdown/",
-   "count": 298
+   "count": 297
   },
   {
-   "key": "/news/xbox-game-pass-leaving-october-31-2026-new-games-november-2-6/",
+   "key": "/news/ramadan-2027-calendar-dates-timetable/",
    "count": 296
   },
   {
+   "key": "/news/army-navy-game-2026-date-kickoff-time-metlife-stadium-tv/",
+   "count": 293
+  },
+  {
    "key": "/news/holiday-deals-this-week-november-2-8-2026-target-best-buy-starbucks/",
-   "count": 291
+   "count": 292
   },
   {
    "key": "/news/nba-games-today-november-2-2026/",
    "count": 290
   },
   {
-   "key": "/news/ramadan-2027-calendar-dates-timetable/",
+   "key": "/news/nhl-hometown-remix-jerseys-2026-27-unveil-date-game-schedule/",
    "count": 288
   },
   {
-   "key": "/news/nations-championship-rugby-november-2026-fixtures-kick-off-times-uk-us/",
-   "count": 287
-  },
-  {
-   "key": "/news/college-basketball-opening-night-2026-top-25-games-times-tv-champions-classic/",
-   "count": 285
-  },
-  {
-   "key": "/news/winter-solstice-2026-december-21-shortest-day-sunset-times/",
+   "key": "/news/costco-holiday-hours-closures-2026-2027/",
    "count": 283
   },
   {
-   "key": "/news/mls-cup-playoffs-2026-schedule-dates-mls-cup-december-18/",
-   "count": 282
-  },
-  {
-   "key": "/news/starbucks-holiday-menu-2026-red-cup-day-date/",
-   "count": 278
-  },
-  {
-   "key": "/news/once-upon-a-farm-tractor-wheels-recall-fda-warning-2026/",
-   "count": 271
-  },
-  {
-   "key": "/news/moon-phase-tonight-october-27-november-2026-moon-calendar/",
-   "count": 270
-  },
-  {
-   "key": "/news/sample-ballot-by-zip-code-2026-texas-ballot/",
-   "count": 270
-  },
-  {
-   "key": "/news/costco-holiday-hours-closures-2026-2027/",
-   "count": 269
-  },
-  {
-   "key": "/news/europa-league-conference-league-november-2026-schedule-kickoff-times-et/",
-   "count": 265
+   "key": "/news/texas-election-results-2026-polls-close-where-to-follow-canvass-dates/",
+   "count": 279
   },
   {
    "key": "/news/ski-resort-opening-dates-2026-27-vail-breckenridge-park-city-whistler-aspen/",
+   "count": 279
+  },
+  {
+   "key": "/news/europa-league-conference-league-november-2026-schedule-kickoff-times-et/",
+   "count": 278
+  },
+  {
+   "key": "/news/cbs-holiday-specials-2026-schedule-kids-choice-awards-soul-train-new-years-eve/",
+   "count": 277
+  },
+  {
+   "key": "/news/moon-phase-tonight-october-27-november-2026-moon-calendar/",
+   "count": 266
+  },
+  {
+   "key": "/news/colorado-ballot-measures-2026-amendments-propositions-explained/",
    "count": 264
   },
   {
-   "key": "/news/nba-games-today-november-1-2026/",
-   "count": 263
-  },
-  {
-   "key": "/news/new-on-paramount-plus-november-2026-yellowjackets-final-season/",
-   "count": 261
-  },
-  {
-   "key": "/news/texas-election-results-2026-polls-close-where-to-follow-canvass-dates/",
+   "key": "/news/sample-ballot-by-zip-code-2026-texas-ballot/",
    "count": 259
   },
   {
    "key": "/news/week-numbers-2027-calendar-printable/",
-   "count": 258
-  },
-  {
-   "key": "/news/next-saturday-halloween-2037-halloween-day-of-week-every-year/",
    "count": 257
   },
   {
-   "key": "/news/cbs-holiday-specials-2026-schedule-kids-choice-awards-soul-train-new-years-eve/",
-   "count": 255
-  },
-  {
-   "key": "/news/colorado-ballot-measures-2026-amendments-propositions-explained/",
-   "count": 250
-  },
-  {
    "key": "/news/lol-worlds-2026-schedule-tickets/",
-   "count": 247
+   "count": 253
   },
   {
-   "key": "/news/nyc-public-schools-calendar-2026-27-breaks-holidays/",
-   "count": 245
-  },
-  {
-   "key": "/news/lego-advent-calendars-2026-prices-whats-inside/",
-   "count": 241
-  },
-  {
-   "key": "/news/election-night-2026-tv-schedule-how-to-watch-results/",
-   "count": 238
-  },
-  {
-   "key": "/news/new-movies-in-theaters-november-2026-release-dates-hunger-games-hexed/",
-   "count": 237
-  },
-  {
-   "key": "/news/us-japan-korea-china-time-difference-after-november-1-2026-tokyo-14-hours/",
-   "count": 232
-  },
-  {
-   "key": "/news/clark-county-school-district-calendar-2026-27-breaks/",
-   "count": 221
-  },
-  {
-   "key": "/news/halloween-2026-what-day-trick-or-treating-start/",
-   "count": 220
-  },
-  {
-   "key": "/news/college-football-week-11-schedule-2026-miami-notre-dame-game-times-tv/",
-   "count": 219
-  },
-  {
-   "key": "/news/iphone-duo-october-24-availability/",
-   "count": 219
-  },
-  {
-   "key": "/news/charlotte-mecklenburg-schools-calendar-2026-27-breaks/",
-   "count": 218
-  },
-  {
-   "key": "/news/nyt-connections-hints-answers-november-4-2026-1242/",
-   "count": 218
-  },
-  {
-   "key": "/news/premier-league-fixtures-this-weekend-october-31-november-2-2026-kickoff-times-tv/",
-   "count": 216
-  },
-  {
-   "key": "/news/runoff-elections-2026-dates-georgia-december-1-louisiana-december-12/",
-   "count": 215
-  },
-  {
-   "key": "/news/mcat-2027-test-dates-registration-opens-october-20/",
-   "count": 215
+   "key": "/news/new-on-paramount-plus-november-2026-yellowjackets-final-season/",
+   "count": 251
   },
   {
    "key": "/news/paris-masters-2026-schedule-final-time-by-time-zone/",
-   "count": 214
+   "count": 247
   },
   {
-   "key": "/news/mexico-time-difference-after-november-1-2026-us-clocks-fall-back/",
-   "count": 214
+   "key": "/news/once-upon-a-farm-tractor-wheels-recall-fda-warning-2026/",
+   "count": 243
   },
   {
-   "key": "/news/nfl-week-8-schedule-2026-game-times-tv-clock-change/",
-   "count": 214
+   "key": "/news/mcat-2027-test-dates-registration-opens-october-20/",
+   "count": 231
   },
   {
-   "key": "/news/breeders-cup-2026-post-times-tv-schedule-keeneland/",
-   "count": 213
+   "key": "/news/college-football-week-11-schedule-2026-miami-notre-dame-game-times-tv/",
+   "count": 230
   },
   {
-   "key": "/news/arizona-time-after-november-1-2026-one-hour-ahead-of-california/",
-   "count": 211
+   "key": "/news/us-japan-korea-china-time-difference-after-november-1-2026-tokyo-14-hours/",
+   "count": 229
+  },
+  {
+   "key": "/news/lego-advent-calendars-2026-prices-whats-inside/",
+   "count": 225
+  },
+  {
+   "key": "/news/nba-games-today-november-1-2026/",
+   "count": 223
+  },
+  {
+   "key": "/news/iphone-duo-october-24-availability/",
+   "count": 221
+  },
+  {
+   "key": "/news/new-movies-in-theaters-november-2026-release-dates-hunger-games-hexed/",
+   "count": 221
+  },
+  {
+   "key": "/news/runoff-elections-2026-dates-georgia-december-1-louisiana-december-12/",
+   "count": 217
+  },
+  {
+   "key": "/news/nyt-connections-hints-answers-november-4-2026-1242/",
+   "count": 217
   },
   {
    "key": "/news/mega-millions-drawing-tuesday-november-3-2026-time-jackpot-482-million/",
+   "count": 214
+  },
+  {
+   "key": "/news/election-night-2026-tv-schedule-how-to-watch-results/",
+   "count": 214
+  },
+  {
+   "key": "/news/nyt-connections-hints-answers-november-1-2026-1239/",
+   "count": 212
+  },
+  {
+   "key": "/news/clark-county-school-district-calendar-2026-27-breaks/",
    "count": 210
   },
   {
-   "key": "/news/hunters-moon-october-2026-full-moon-time/",
-   "count": 210
+   "key": "/news/76ers-schedule-november-2026-game-times-tv-nba-cup-printable/",
+   "count": 208
   },
   {
-   "key": "/news/walmart-black-friday-2026-dates-november-12-23-walmart-plus-early-access/",
+   "key": "/news/mexico-time-difference-after-november-1-2026-us-clocks-fall-back/",
+   "count": 208
+  },
+  {
+   "key": "/news/xbox-game-pass-leaving-october-31-2026-new-games-november-2-6/",
+   "count": 208
+  },
+  {
+   "key": "/news/arizona-time-after-november-1-2026-one-hour-ahead-of-california/",
    "count": 207
   },
   {
-   "key": "/news/new-jersey-sample-ballot-2026-senate-early-voting/",
-   "count": 206
+   "key": "/news/lunar-new-year-2027-year-of-the-goat/",
+   "count": 205
+  },
+  {
+   "key": "/news/premier-league-fixtures-this-weekend-october-31-november-2-2026-kickoff-times-tv/",
+   "count": 203
   },
   {
    "key": "/news/mail-ballot-deadlines-2026-by-state/",
-   "count": 204
+   "count": 203
   },
   {
-   "key": "/news/lunar-new-year-2027-year-of-the-goat/",
+   "key": "/news/fsa-2026-year-end-deadline-use-it-or-lose-it/",
    "count": 202
-  },
-  {
-   "key": "/news/houston-isd-calendar-2026-27-holidays-breaks/",
-   "count": 202
-  },
-  {
-   "key": "/news/soccer-on-tv-this-weekend-october-30-november-2-2026-us-channels/",
-   "count": 199
-  },
-  {
-   "key": "/news/hawaii-public-schools-calendar-2026-27-breaks/",
-   "count": 199
   },
   {
    "key": "/news/december-2026-important-dates-holidays-days-until/",
+   "count": 201
+  },
+  {
+   "key": "/news/walmart-black-friday-2026-dates-november-12-23-walmart-plus-early-access/",
+   "count": 200
+  },
+  {
+   "key": "/news/hawaii-public-schools-calendar-2026-27-breaks/",
+   "count": 200
+  },
+  {
+   "key": "/news/new-jersey-sample-ballot-2026-senate-early-voting/",
+   "count": 200
+  },
+  {
+   "key": "/news/houston-isd-calendar-2026-27-holidays-breaks/",
+   "count": 199
+  },
+  {
+   "key": "/news/us-australia-time-difference-after-daylight-saving-time-ends-november-1-2026/",
+   "count": 198
+  },
+  {
+   "key": "/news/winter-break-2026-school-districts-dates/",
    "count": 198
   },
   {
    "key": "/news/gold-glove-awards-2026-tonight-time-espn-finalists-platinum-glove-vote/",
+   "count": 195
+  },
+  {
+   "key": "/news/nations-league-november-2026-fixtures-kick-off-times-england-scotland-wales-ireland/",
    "count": 194
   },
   {
-   "key": "/news/winter-break-2026-school-districts-dates/",
-   "count": 194
+   "key": "/news/avatar-seven-havens-release-schedule-episodes/",
+   "count": 192
   },
   {
-   "key": "/news/army-navy-game-2026-date-kickoff-time-metlife-stadium-tv/",
-   "count": 193
-  },
-  {
-   "key": "/news/gdp-report-october-29-2026-time-bea-release-calendar/",
-   "count": 193
-  },
-  {
-   "key": "/news/mexico-city-grand-prix-2026-schedule-race-time-by-time-zone/",
-   "count": 193
-  },
-  {
-   "key": "/news/76ers-schedule-november-2026-game-times-tv-nba-cup-printable/",
+   "key": "/news/moon-phases-2027-full-moon-calendar/",
    "count": 191
   },
   {
-   "key": "/news/us-australia-time-difference-after-daylight-saving-time-ends-november-1-2026/",
+   "key": "/news/holiday-return-policies-2026-return-deadlines-by-store/",
    "count": 191
   },
   {
-   "key": "/news/fsa-2026-year-end-deadline-use-it-or-lose-it/",
+   "key": "/news/charlotte-mecklenburg-schools-calendar-2026-27-breaks/",
+   "count": 190
+  },
+  {
+   "key": "/news/soccer-on-tv-this-weekend-october-30-november-2-2026-us-channels/",
    "count": 189
   },
   {
-   "key": "/news/i-bond-rate-november-2026-5-51-percent-fixed-rate-1-40/",
+   "key": "/news/printable-nfl-schedule-2026-2027-pdf/",
    "count": 188
   },
   {
    "key": "/news/us-brazil-time-difference-after-november-1-2026-sao-paulo-2-hours/",
-   "count": 185
+   "count": 187
   },
   {
-   "key": "/news/moon-phases-2027-full-moon-calendar/",
-   "count": 185
-  },
-  {
-   "key": "/news/lowes-black-friday-2026-deals-start-october-29-12-days-of-deals-november-16/",
-   "count": 185
-  },
-  {
-   "key": "/news/texas-election-calendar-2026-early-voting-dates-deadlines/",
-   "count": 178
-  },
-  {
-   "key": "/news/printable-nfl-schedule-2026-2027-pdf/",
-   "count": 174
-  },
-  {
-   "key": "/news/us-india-time-difference-after-november-1-2026-ist-10-5-hours/",
-   "count": 173
-  },
-  {
-   "key": "/news/holiday-return-policies-2026-return-deadlines-by-store/",
-   "count": 172
+   "key": "/news/gdp-report-october-29-2026-time-bea-release-calendar/",
+   "count": 186
   },
   {
    "key": "/news/macys-thanksgiving-day-parade-2026-start-time-route-tv-balloons/",
-   "count": 171
+   "count": 185
   },
   {
-   "key": "/news/nations-league-november-2026-fixtures-kick-off-times-england-scotland-wales-ireland/",
-   "count": 170
+   "key": "/news/nyc-public-schools-calendar-2026-27-breaks-holidays/",
+   "count": 185
+  },
+  {
+   "key": "/news/next-saturday-halloween-2037-halloween-day-of-week-every-year/",
+   "count": 185
   },
   {
    "key": "/news/sports-on-tv-today-november-2-2026/",
-   "count": 170
+   "count": 180
   },
   {
-   "key": "/news/avatar-seven-havens-release-schedule-episodes/",
-   "count": 169
+   "key": "/news/mexico-city-grand-prix-2026-schedule-race-time-by-time-zone/",
+   "count": 180
   },
   {
-   "key": "/news/nyt-spelling-bee-hints-answers-november-1-2026/",
-   "count": 168
-  },
-  {
-   "key": "/news/thanksgiving-football-schedule-2026-nfl-college-games/",
-   "count": 167
-  },
-  {
-   "key": "/news/mercury-retrograde-2026-ends-november-13-dates-times-2027/",
-   "count": 166
-  },
-  {
-   "key": "/news/latin-grammys-2026-date-las-vegas-how-to-watch/",
-   "count": 165
-  },
-  {
-   "key": "/news/georgia-2026-ballot-amendments-advance-voting/",
-   "count": 164
-  },
-  {
-   "key": "/news/nfl-international-games-november-2026-madrid-munich-mexico-city-kickoff-times/",
-   "count": 163
-  },
-  {
-   "key": "/news/michigan-ballot-2026-proposals-candidates/",
-   "count": 163
-  },
-  {
-   "key": "/news/nascar-championship-2026-homestead-start-time-tv-schedule/",
-   "count": 157
-  },
-  {
-   "key": "/news/nyt-spelling-bee-hints-answers-november-4-2026/",
-   "count": 156
-  },
-  {
-   "key": "/news/sao-paulo-grand-prix-2026-schedule-race-time-by-time-zone/",
-   "count": 155
-  },
-  {
-   "key": "/news/monday-night-football-tonight-cowboys-eagles-mnf-schedule-2026/",
-   "count": 154
-  },
-  {
-   "key": "/news/spring-break-2027-dates-school-districts/",
-   "count": 152
-  },
-  {
-   "key": "/news/college-football-week-10-schedule-2026-halloween-top-25-game-times-tv/",
-   "count": 149
-  },
-  {
-   "key": "/news/from-season-5-release-date-mgm-plus-final-season/",
-   "count": 149
+   "key": "/news/lowes-black-friday-2026-deals-start-october-29-12-days-of-deals-november-16/",
+   "count": 179
   },
   {
    "key": "/news/montreal-canadiens-schedule-november-2026-game-times-tv-printable/",
-   "count": 148
+   "count": 178
   },
   {
-   "key": "/news/all-saints-day-2026-holy-day-of-obligation-all-souls-day/",
-   "count": 148
+   "key": "/news/michigan-ballot-2026-proposals-candidates/",
+   "count": 175
   },
   {
-   "key": "/news/clock-changes-2027-when-does-daylight-saving-time-start-again-march-14/",
-   "count": 147
+   "key": "/news/spring-break-2027-dates-school-districts/",
+   "count": 173
   },
   {
-   "key": "/news/home-depot-black-friday-2026-sale-dates-november-5-25-store-hours/",
-   "count": 145
+   "key": "/news/texas-election-calendar-2026-early-voting-dates-deadlines/",
+   "count": 172
   },
   {
-   "key": "/news/brewers-world-series-parade-2026-friday-october-30-time-route-rally/",
-   "count": 144
+   "key": "/news/thanksgiving-football-schedule-2026-nfl-college-games/",
+   "count": 169
+  },
+  {
+   "key": "/news/sao-paulo-grand-prix-2026-schedule-race-time-by-time-zone/",
+   "count": 165
+  },
+  {
+   "key": "/news/i-bond-rate-november-2026-5-51-percent-fixed-rate-1-40/",
+   "count": 165
   },
   {
    "key": "/news/fpl-deadlines-2026-27-every-gameweek-deadline-time-uk-us-chip-dates/",
-   "count": 143
+   "count": 164
+  },
+  {
+   "key": "/news/nfl-week-8-schedule-2026-game-times-tv-clock-change/",
+   "count": 162
+  },
+  {
+   "key": "/news/mercury-retrograde-2026-ends-november-13-dates-times-2027/",
+   "count": 161
+  },
+  {
+   "key": "/news/nfl-international-games-november-2026-madrid-munich-mexico-city-kickoff-times/",
+   "count": 161
+  },
+  {
+   "key": "/news/home-depot-black-friday-2026-sale-dates-november-5-25-store-hours/",
+   "count": 160
+  },
+  {
+   "key": "/news/georgia-2026-ballot-amendments-advance-voting/",
+   "count": 158
+  },
+  {
+   "key": "/news/from-season-5-release-date-mgm-plus-final-season/",
+   "count": 157
   },
   {
    "key": "/news/northern-lights-forecast-tonight-halloween-2026-noaa-g1-storm-watch-november-dates/",
-   "count": 143
+   "count": 154
+  },
+  {
+   "key": "/news/nyt-spelling-bee-hints-answers-november-4-2026/",
+   "count": 154
+  },
+  {
+   "key": "/news/godzilla-minus-zero-release-date-imax-november-3-nationwide-november-6/",
+   "count": 154
+  },
+  {
+   "key": "/news/us-india-time-difference-after-november-1-2026-ist-10-5-hours/",
+   "count": 152
+  },
+  {
+   "key": "/news/nascar-championship-2026-homestead-start-time-tv-schedule/",
+   "count": 147
+  },
+  {
+   "key": "/news/latin-grammys-2026-date-las-vegas-how-to-watch/",
+   "count": 147
   },
   {
    "key": "/news/nyt-connections-hints-answers-november-3-2026-1241/",
-   "count": 140
+   "count": 146
+  },
+  {
+   "key": "/news/california-election-results-2026-polls-close-8-p-m-pt-when-the-count-ends/",
+   "count": 145
   },
   {
    "key": "/news/friday-the-13th-november-13-2026-next-friday-13th-dates/",
    "count": 139
   },
   {
-   "key": "/news/sports-on-tv-today-november-1-2026/",
+   "key": "/news/thanksgiving-break-2026-school-districts-dates/",
    "count": 137
   },
   {
+   "key": "/news/monday-night-football-tonight-cowboys-eagles-mnf-schedule-2026/",
+   "count": 135
+  },
+  {
+   "key": "/news/london-christmas-lights-switch-on-2026-dates-regent-street-carnaby-covent-garden/",
+   "count": 134
+  },
+  {
+   "key": "/news/celtics-schedule-november-2026-game-times-tv-nba-cup-printable/",
+   "count": 134
+  },
+  {
+   "key": "/news/category/holidays/",
+   "count": 133
+  },
+  {
    "key": "/news/stellar-blade-switch-2-release-time-november-5/",
-   "count": 136
-  },
-  {
-   "key": "/news/editorial-policy/",
    "count": 132
   },
   {
-   "key": "/news/godzilla-minus-zero-release-date-imax-november-3-nationwide-november-6/",
-   "count": 132
+   "key": "/news/clock-changes-2027-when-does-daylight-saving-time-start-again-march-14/",
+   "count": 130
   },
   {
-   "key": "/news/cleveland-cavaliers-schedule-november-2026-game-times-tv-nba-cup-printable/",
-   "count": 126
+   "key": "/news/lausd-calendar-2026-27-winter-break-spring-break/",
+   "count": 129
   },
   {
-   "key": "/news/us-dubai-saudi-israel-time-difference-after-november-1-2026/",
-   "count": 125
-  },
-  {
-   "key": "/news/miami-dade-school-calendar-2026-27-breaks/",
+   "key": "/news/all-saints-day-2026-holy-day-of-obligation-all-souls-day/",
    "count": 124
   },
   {
-   "key": "/news/california-election-results-2026-polls-close-8-p-m-pt-when-the-count-ends/",
-   "count": 123
+   "key": "/news/cleveland-cavaliers-schedule-november-2026-game-times-tv-nba-cup-printable/",
+   "count": 122
   },
   {
-   "key": "/news/daylight-saving-time-halloween-2026-clocks-fall-back-night-after-every-year/",
+   "key": "/news/college-football-conference-championship-games-2026-schedule-times-tv/",
    "count": 120
+  },
+  {
+   "key": "/news/dunkin-holiday-menu-2026-november-4-avengers-doomsday-menu/",
+   "count": 119
   },
   {
    "key": "/news/gta-6-countdown-release-time-by-time-zone/",
    "count": 119
   },
   {
-   "key": "/news/category/puzzles/",
+   "key": "/news/editorial-policy/",
    "count": 118
   },
   {
-   "key": "/news/nyt-connections-hints-answers-november-2-2026-1240/",
+   "key": "/news/halloween-2026-what-day-trick-or-treating-start/",
    "count": 118
-  },
-  {
-   "key": "/news/wow-forever-launch-time-by-time-zone-november-4/",
-   "count": 117
   },
   {
    "key": "/news/melbourne-cup-2026-time-us-uk-derby-day-oaks-carnival-schedule/",
-   "count": 117
+   "count": 116
   },
   {
-   "key": "/news/thanksgiving-break-2026-school-districts-dates/",
+   "key": "/news/college-football-week-10-schedule-2026-halloween-top-25-game-times-tv/",
+   "count": 115
+  },
+  {
+   "key": "/news/brewers-world-series-parade-2026-friday-october-30-time-route-rally/",
    "count": 114
   },
   {
-   "key": "/news/celtics-schedule-november-2026-game-times-tv-nba-cup-printable/",
-   "count": 112
-  },
-  {
-   "key": "/news/halloween-2026-saturday-sunset-trick-or-treat-times/",
-   "count": 112
-  },
-  {
-   "key": "/news/when-is-election-day-2026-illinois-polls-early-voting/",
-   "count": 111
-  },
-  {
-   "key": "/news/early-voting-2026-which-states-are-voting-now/",
-   "count": 110
-  },
-  {
-   "key": "/news/author/christina-gerland/",
-   "count": 108
-  },
-  {
-   "key": "/news/lausd-calendar-2026-27-winter-break-spring-break/",
-   "count": 104
-  },
-  {
-   "key": "/news/pennsylvania-2026-election-governor-mail-ballot-deadlines/",
-   "count": 103
-  },
-  {
-   "key": "/news/working-days-2027-business-days-by-month-federal-nyse/",
-   "count": 102
-  },
-  {
-   "key": "/news/thursday-night-football-tonight-panthers-packers-tnf-schedule-2026/",
-   "count": 102
-  },
-  {
-   "key": "/news/tax-calendar-2027-irs-deadlines/",
-   "count": 99
-  },
-  {
-   "key": "/news/london-christmas-lights-switch-on-2026-dates-regent-street-carnaby-covent-garden/",
-   "count": 97
-  },
-  {
-   "key": "/news/college-football-conference-championship-games-2026-schedule-times-tv/",
-   "count": 95
-  },
-  {
    "key": "/news/tesco-christmas-delivery-slots-2026-booking-dates-uk-supermarkets/",
-   "count": 95
+   "count": 113
+  },
+  {
+   "key": "/news/coachella-stagecoach-2027-dates-lineup-indio/",
+   "count": 112
   },
   {
    "key": "/news/spring-semester-2027-start-dates-colleges/",
-   "count": 94
-  },
-  {
-   "key": "/news/category/holidays/",
-   "count": 93
-  },
-  {
-   "key": "/news/boxing-day-2026-canada-saturday-december-26-day-off-monday-december-28/",
-   "count": 91
-  },
-  {
-   "key": "/news/u2-tickets-2027-tour-uk-europe-presale-general-sale-november-6-time/",
-   "count": 91
-  },
-  {
-   "key": "/news/nfl-week-12-schedule-2026-printable-pick-em-sheet-game-times/",
-   "count": 91
-  },
-  {
-   "key": "/news/dunkin-holiday-menu-2026-november-4-avengers-doomsday-menu/",
-   "count": 90
-  },
-  {
-   "key": "/news/christmas-2026-calendar-printable-countdown/",
-   "count": 86
-  },
-  {
-   "key": "/news/hanukkah-2026-dates-calendar/",
-   "count": 85
-  },
-  {
-   "key": "/news/golf-schedule-november-2026-pga-tour-lpga-rsm-classic-cme-hero-world-challenge/",
-   "count": 84
-  },
-  {
-   "key": "/news/nhl-games-today-november-2-2026/",
-   "count": 84
+   "count": 112
   },
   {
    "key": "/news/cracker-barrel-holiday-menu-2026-thanksgiving-heat-and-serve/",
-   "count": 83
+   "count": 112
+  },
+  {
+   "key": "/news/nyt-connections-hints-answers-november-2-2026-1240/",
+   "count": 110
+  },
+  {
+   "key": "/news/christmas-2026-calendar-printable-countdown/",
+   "count": 109
+  },
+  {
+   "key": "/news/miami-dade-school-calendar-2026-27-breaks/",
+   "count": 107
   },
   {
    "key": "/news/dexter-resurrection-season-2-release-schedule-episode-time-paramount-plus/",
-   "count": 83
-  },
-  {
-   "key": "/news/can-i-drop-off-my-mail-in-ballot-on-election-day-2026/",
-   "count": 83
-  },
-  {
-   "key": "/news/remembrance-day-2026-canada-statutory-holiday-remembrance-sunday-uk/",
-   "count": 79
-  },
-  {
-   "key": "/news/nyt-spelling-bee-hints-answers-november-6-2026/",
-   "count": 79
-  },
-  {
-   "key": "/news/2027-elections-calendar-governor-races-kentucky-louisiana-mississippi/",
-   "count": 77
-  },
-  {
-   "key": "/news/julian-date-calendar-2027-2026-printable/",
-   "count": 77
-  },
-  {
-   "key": "/news/social-security-payment-schedule-january-2027-first-cola-checks/",
-   "count": 76
-  },
-  {
-   "key": "/news/outback-steakhouse-closing-locations-list-2026/",
-   "count": 75
-  },
-  {
-   "key": "/news/radio-city-christmas-spectacular-2026-dates-show-times-rockettes/",
-   "count": 75
+   "count": 106
   },
   {
    "key": "/news/fantasy-football-playoffs-2026-weeks-trade-deadlines-espn-yahoo-sleeper/",
-   "count": 75
+   "count": 106
   },
   {
-   "key": "/news/wordle-hint-answer-today-november-3-2026-1963/",
-   "count": 75
+   "key": "/news/golf-schedule-november-2026-pga-tour-lpga-rsm-classic-cme-hero-world-challenge/",
+   "count": 104
   },
   {
-   "key": "/news/playstation-plus-november-2026-games-dead-island-2-tomb-raider-monster-train-2/",
-   "count": 74
+   "key": "/news/us-dubai-saudi-israel-time-difference-after-november-1-2026/",
+   "count": 102
   },
   {
-   "key": "/news/nyt-strands-hints-answers-november-3-2026-975/",
-   "count": 73
+   "key": "/news/nhl-games-today-november-2-2026/",
+   "count": 102
   },
   {
-   "key": "/news/liga-mx-liguilla-apertura-2026-dates-quarterfinals-semifinals-final-schedule/",
-   "count": 72
+   "key": "/news/category/puzzles/",
+   "count": 101
   },
   {
-   "key": "/news/village-halloween-parade-2026-nyc-start-time-route-ny1-subway/",
-   "count": 72
+   "key": "/news/hanukkah-2026-dates-calendar/",
+   "count": 101
   },
   {
-   "key": "/news/nyt-strands-hints-answers-november-5-2026-977/",
-   "count": 71
+   "key": "/news/thursday-night-football-tonight-panthers-packers-tnf-schedule-2026/",
+   "count": 101
   },
   {
-   "key": "/news/category/school-calendars/",
-   "count": 71
+   "key": "/news/sports-on-tv-today-november-1-2026/",
+   "count": 101
+  },
+  {
+   "key": "/news/remembrance-day-2026-canada-statutory-holiday-remembrance-sunday-uk/",
+   "count": 98
+  },
+  {
+   "key": "/news/julian-date-calendar-2027-2026-printable/",
+   "count": 98
   },
   {
    "key": "/news/ballot-cure-deadlines-2026-fix-mail-ballot-signature/",
-   "count": 70
+   "count": 97
   },
   {
-   "key": "/news/black-friday-2026-uk-date-27-november-amazon-uk-sale-dates/",
-   "count": 69
+   "key": "/news/radio-city-christmas-spectacular-2026-dates-show-times-rockettes/",
+   "count": 96
+  },
+  {
+   "key": "/news/author/christina-gerland/",
+   "count": 96
+  },
+  {
+   "key": "/news/mlb-opening-day-2027-date-march-25-spring-training-all-star/",
+   "count": 95
+  },
+  {
+   "key": "/news/qatar-grand-prix-2026-schedule-race-time-by-time-zone/",
+   "count": 95
+  },
+  {
+   "key": "/news/social-security-payment-schedule-january-2027-first-cola-checks/",
+   "count": 94
+  },
+  {
+   "key": "/news/outback-steakhouse-closing-locations-list-2026/",
+   "count": 90
   },
   {
    "key": "/news/edmonton-oilers-schedule-november-2026-game-times-tv-printable/",
-   "count": 68
+   "count": 89
   },
   {
-   "key": "/news/three-paycheck-months-2027-biweekly-payday-calendar/",
-   "count": 67
+   "key": "/news/black-friday-2026-uk-date-27-november-amazon-uk-sale-dates/",
+   "count": 89
   },
   {
-   "key": "/news/iso-week-numbers-explained/",
-   "count": 66
+   "key": "/news/u2-tickets-2027-tour-uk-europe-presale-general-sale-november-6-time/",
+   "count": 89
+  },
+  {
+   "key": "/news/nyt-spelling-bee-hints-answers-november-6-2026/",
+   "count": 88
+  },
+  {
+   "key": "/news/tax-calendar-2027-irs-deadlines/",
+   "count": 88
+  },
+  {
+   "key": "/news/wow-forever-launch-time-by-time-zone-november-4/",
+   "count": 88
+  },
+  {
+   "key": "/news/liga-mx-liguilla-apertura-2026-dates-quarterfinals-semifinals-final-schedule/",
+   "count": 87
+  },
+  {
+   "key": "/news/when-is-election-day-2026-illinois-polls-early-voting/",
+   "count": 86
+  },
+  {
+   "key": "/news/pennsylvania-2026-election-governor-mail-ballot-deadlines/",
+   "count": 85
+  },
+  {
+   "key": "/news/nyt-strands-hints-answers-november-5-2026-977/",
+   "count": 84
+  },
+  {
+   "key": "/news/early-voting-2026-which-states-are-voting-now/",
+   "count": 82
+  },
+  {
+   "key": "/news/breeders-cup-2026-post-times-tv-schedule-keeneland/",
+   "count": 82
+  },
+  {
+   "key": "/news/louisiana-sample-ballot-2026-senate-amendments/",
+   "count": 79
+  },
+  {
+   "key": "/news/nyt-strands-hints-answers-november-3-2026-975/",
+   "count": 78
+  },
+  {
+   "key": "/news/automatic-recount-rules-2026-thresholds-deadlines-by-state/",
+   "count": 77
+  },
+  {
+   "key": "/news/author/jessica-hartwell/",
+   "count": 77
+  },
+  {
+   "key": "/news/wordle-hint-answer-today-november-3-2026-1963/",
+   "count": 76
+  },
+  {
+   "key": "/news/medicare-part-d-2027-deductible-700-out-of-pocket-cap-2400/",
+   "count": 75
+  },
+  {
+   "key": "/news/can-i-drop-off-my-mail-in-ballot-on-election-day-2026/",
+   "count": 75
+  },
+  {
+   "key": "/news/holiday-soda-flavors-2026-pepsi-vanilla-cream-coca-cola/",
+   "count": 74
+  },
+  {
+   "key": "/news/2027-elections-calendar-governor-races-kentucky-louisiana-mississippi/",
+   "count": 74
+  },
+  {
+   "key": "/news/daylight-saving-time-halloween-2026-clocks-fall-back-night-after-every-year/",
+   "count": 74
+  },
+  {
+   "key": "/news/how-many-weeks-in-a-year/",
+   "count": 73
+  },
+  {
+   "key": "/news/massachusetts-ballot-questions-2026-what-yes-no-votes-do-early-voting-ends-october-30/",
+   "count": 71
+  },
+  {
+   "key": "/news/halloween-2026-saturday-sunset-trick-or-treat-times/",
+   "count": 71
   },
   {
    "key": "/news/toray-pan-pacific-open-2026-tokyo-schedule-osaka-final-time-us/",
+   "count": 70
+  },
+  {
+   "key": "/news/hunters-moon-october-2026-full-moon-time/",
+   "count": 69
+  },
+  {
+   "key": "/news/nyt-spelling-bee-hints-answers-november-1-2026/",
+   "count": 69
+  },
+  {
+   "key": "/news/working-days-2027-business-days-by-month-federal-nyse/",
+   "count": 67
+  },
+  {
+   "key": "/news/nyt-spelling-bee-hints-answers-november-3-2026/",
    "count": 66
   },
   {
-   "key": "/news/heisman-trophy-2026-ceremony-date-finalists-voting-deadline/",
-   "count": 65
+   "key": "/news/federal-pay-period-calendar-2027-pay-dates-nfc-gsa-printable/",
+   "count": 66
   },
   {
-   "key": "/news/medicare-part-b-premium-2027-projected-209-50-when-cms-announces/",
-   "count": 65
+   "key": "/news/grey-cup-2026-date-kickoff-time-calgary-cfl-playoffs/",
+   "count": 64
   },
   {
    "key": "/news/pittsburgh-penguins-schedule-november-2026-game-times-tv-printable/",
    "count": 64
   },
   {
-   "key": "/news/uk-europe-clocks-go-back-october-25-2026-time-difference/",
+   "key": "/news/heisman-trophy-2026-ceremony-date-finalists-voting-deadline/",
    "count": 64
   },
   {
-   "key": "/news/automatic-recount-rules-2026-thresholds-deadlines-by-state/",
-   "count": 63
-  },
-  {
-   "key": "/news/holiday-soda-flavors-2026-pepsi-vanilla-cream-coca-cola/",
-   "count": 62
-  },
-  {
-   "key": "/news/grey-cup-2026-date-kickoff-time-calgary-cfl-playoffs/",
-   "count": 61
-  },
-  {
-   "key": "/news/mexico-city-day-of-the-dead-parade-2026-october-31-time-route-zocalo-ofrenda/",
-   "count": 61
-  },
-  {
-   "key": "/news/total-solar-eclipse-august-2-2027-path-times-by-city-travel/",
-   "count": 60
-  },
-  {
    "key": "/news/sunday-night-football-tonight-eagles-commanders-snf-november-1-2026/",
-   "count": 60
+   "count": 64
   },
   {
    "key": "/news/nyt-spelling-bee-hints-answers-november-5-2026/",
-   "count": 59
+   "count": 62
   },
   {
-   "key": "/news/louisiana-sample-ballot-2026-senate-amendments/",
-   "count": 59
+   "key": "/news/category/school-calendars/",
+   "count": 62
   },
   {
-   "key": "/news/wordle-hint-answer-today-november-1-2026-1961/",
+   "key": "/news/moon-phase-tonight-december-2026-moon-calendar/",
+   "count": 61
+  },
+  {
+   "key": "/news/jcps-calendar-2026-27-jefferson-county-public-schools-breaks/",
+   "count": 61
+  },
+  {
+   "key": "/news/premier-league-fixtures-november-21-29-2026-kickoff-times-tv/",
    "count": 58
   },
   {
-   "key": "/news/steam-winter-sale-2026-dates-december-17-steam-sale-calendar-2027/",
-   "count": 56
+   "key": "/news/ballon-dor-2026-date-time-by-time-zone-nominees-london/",
+   "count": 58
   },
   {
-   "key": "/news/planets-2027-calendar-jupiter-mars-opposition-saturn-venus-elongation-dates/",
-   "count": 55
-  },
-  {
-   "key": "/news/qatar-grand-prix-2026-schedule-race-time-by-time-zone/",
-   "count": 55
-  },
-  {
-   "key": "/news/how-many-weeks-in-a-year/",
-   "count": 55
-  },
-  {
-   "key": "/news/mlb-opening-day-2027-date-march-25-spring-training-all-star/",
-   "count": 55
-  },
-  {
-   "key": "/news/great-american-christmas-2026-movie-schedule-great-american-family/",
-   "count": 54
-  },
-  {
-   "key": "/news/us-philippines-time-difference-after-november-1-2026-manila-13-hours/",
+   "key": "/news/panera-holiday-menu-2026-peppermint-pistachio-white-mocha-snowman-cup/",
    "count": 53
   },
   {
-   "key": "/news/bonfire-night-2026-thursday-november-5-fireworks-rules/",
-   "count": 52
+   "key": "/news/uk-europe-clocks-go-back-october-25-2026-time-difference/",
+   "count": 53
   },
   {
-   "key": "/news/massachusetts-ballot-questions-2026-what-yes-no-votes-do-early-voting-ends-october-30/",
-   "count": 51
-  },
-  {
-   "key": "/news/kennedy-center-honors-2026-date-december-7-capital-one-arena-broadcast/",
-   "count": 51
-  },
-  {
-   "key": "/news/nba-games-today-october-31-2026/",
+   "key": "/news/new-movies-in-theaters-december-2026-release-dates-avengers-doomsday-dune/",
    "count": 50
   },
   {
-   "key": "/news/national-sandwich-day-2026-deals-tuesday-november-3-subway-mcalisters-capriottis/",
+   "key": "/news/great-american-christmas-2026-movie-schedule-great-american-family/",
    "count": 49
   },
   {
-   "key": "/news/lakers-schedule-november-2026-game-times-tv-nba-cup-printable/",
+   "key": "/news/nfl-week-12-schedule-2026-printable-pick-em-sheet-game-times/",
+   "count": 49
+  },
+  {
+   "key": "/news/boxing-day-2026-canada-saturday-december-26-day-off-monday-december-28/",
    "count": 48
-  },
-  {
-   "key": "/news/denver-public-schools-calendar-2026-27-breaks/",
-   "count": 48
-  },
-  {
-   "key": "/news/nhl-games-today-november-1-2026/",
-   "count": 48
-  },
-  {
-   "key": "/news/college-football-rivalry-week-2026-iron-bowl-the-game-egg-bowl-times-tv/",
-   "count": 47
-  },
-  {
-   "key": "/news/nhl-games-today-october-31-2026-halloween/",
-   "count": 47
-  },
-  {
-   "key": "/news/ballon-dor-2026-date-time-by-time-zone-nominees-london/",
-   "count": 46
-  },
-  {
-   "key": "/news/nyt-spelling-bee-hints-answers-november-3-2026/",
-   "count": 46
   },
   {
    "key": "/news/is-the-day-after-thanksgiving-a-state-holiday-2026-states-closed-november-27/",
+   "count": 47
+  },
+  {
+   "key": "/news/world-aids-day-2026-tuesday-december-1-theme/",
+   "count": 46
+  },
+  {
+   "key": "/news/three-paycheck-months-2027-biweekly-payday-calendar/",
    "count": 45
   },
   {
-   "key": "/news/austin-isd-calendar-2026-27-holidays-breaks/",
+   "key": "/news/nyt-connections-hints-answers-november-8-2026-1246/",
    "count": 44
   },
   {
-   "key": "/news/social-security-payment-schedule-october-2026-who-gets-paid-today/",
+   "key": "/news/calendar-quarters-2027-q1-q4-dates-days/",
    "count": 44
   },
   {
-   "key": "/news/federal-pay-period-calendar-2027-pay-dates-nfc-gsa-printable/",
+   "key": "/news/iso-week-numbers-explained/",
+   "count": 44
+  },
+  {
+   "key": "/news/mexico-city-day-of-the-dead-parade-2026-october-31-time-route-zocalo-ofrenda/",
+   "count": 44
+  },
+  {
+   "key": "/news/little-debbie-christmas-tree-cakes-2026/",
    "count": 43
   },
   {
-   "key": "/news/sports-on-tv-today-october-31-2026/",
+   "key": "/news/what-calendar-year-is-the-same-as-2027/",
    "count": 43
   },
   {
-   "key": "/news/narnia-the-magicians-nephew-release-date-imax-february-12-2027-netflix-april-2/",
+   "key": "/news/playstation-plus-november-2026-games-dead-island-2-tomb-raider-monster-train-2/",
+   "count": 43
+  },
+  {
+   "key": "/news/ncaa-volleyball-tournament-2026-bracket-schedule-final-four-san-antonio/",
+   "count": 42
+  },
+  {
+   "key": "/news/mcdonalds-pokemon-happy-meal-2026-release-date-toys-cards/",
    "count": 42
   },
   {
    "key": "/news/archive/",
-   "count": 41
+   "count": 42
   },
   {
-   "key": "/news/india-vs-new-zealand-2026-schedule-odi-test-start-times-et-gmt-ist/",
-   "count": 41
-  },
-  {
-   "key": "/news/bank-of-england-interest-rate-dates-2027-mpc-5-november/",
-   "count": 40
-  },
-  {
-   "key": "/news/samhain-2026-october-31-november-1-oiche-shamhna-sunset-times-puca-festival/",
-   "count": 40
-  },
-  {
-   "key": "/news/target-black-friday-2026-early-sale-november-5-7-price-match-dates/",
+   "key": "/news/planets-2027-calendar-jupiter-mars-opposition-saturn-venus-elongation-dates/",
    "count": 39
   },
   {
-   "key": "/news/author/jessica-hartwell/",
+   "key": "/news/nhl-games-today-november-1-2026/",
    "count": 39
   },
   {
-   "key": "/news/new-movies-in-theaters-december-2026-release-dates-avengers-doomsday-dune/",
+   "key": "/news/ces-2027-dates-keynotes-las-vegas/",
    "count": 38
   },
   {
-   "key": "/news/child-tax-credit-2026-2200-per-child-refundable-actc/",
+   "key": "/news/planets-visible-december-2026-night-sky-calendar-geminids-solstice/",
+   "count": 38
+  },
+  {
+   "key": "/news/first-day-hikes-2027-state-parks/",
    "count": 37
+  },
+  {
+   "key": "/news/uk-school-term-dates-2026-27-2027-28-half-term-easter-holidays/",
+   "count": 36
+  },
+  {
+   "key": "/news/child-tax-credit-2026-2200-per-child-refundable-actc/",
+   "count": 36
   },
   {
    "key": "/news/nyt-pips-hints-answers-november-5-2026/",
    "count": 36
   },
   {
-   "key": "/news/jcps-calendar-2026-27-jefferson-county-public-schools-breaks/",
+   "key": "/news/denver-public-schools-calendar-2026-27-breaks/",
    "count": 36
   },
   {
-   "key": "/news/nyc-marathon-2026-start-times-road-closures-where-to-watch/",
-   "count": 36
-  },
-  {
-   "key": "/news/world-series-2026-schedule-game-times-tv-channel/",
-   "count": 36
-  },
-  {
-   "key": "/news/category/sports/",
+   "key": "/news/savers-match-2027-1000-federal-match-income-limits/",
    "count": 35
   },
   {
-   "key": "/news/nfl-playoff-schedule-2027-wild-card-divisional-championship-super-bowl-lxi/",
+   "key": "/news/seasons-2027-equinox-solstice-dates-times/",
+   "count": 35
+  },
+  {
+   "key": "/news/christkindlmarket-chicago-2026-dates-hours-wrigleyville-aurora-mugs/",
+   "count": 35
+  },
+  {
+   "key": "/news/bonfire-night-2026-thursday-november-5-fireworks-rules/",
    "count": 34
   },
   {
-   "key": "/news/new-on-apple-tv-november-2026-release-dates/",
+   "key": "/news/category/sports/",
    "count": 34
   },
   {
-   "key": "/news/knicks-schedule-december-2026-game-times-tv-christmas-printable/",
+   "key": "/news/college-football-rivalry-week-2026-iron-bowl-the-game-egg-bowl-times-tv/",
    "count": 34
   },
   {
-   "key": "/news/medicare-part-d-2027-deductible-700-out-of-pocket-cap-2400/",
+   "key": "/news/nyt-strands-hints-answers-november-8-2026-980/",
    "count": 33
   },
   {
-   "key": "/news/knicks-schedule-november-2026-game-times-tv-nba-cup-printable/",
+   "key": "/news/wordle-hint-answer-today-november-7-2026-1967/",
    "count": 33
   },
   {
@@ -1266,35 +1246,27 @@
    "count": 33
   },
   {
-   "key": "/news/moon-phase-tonight-december-2026-moon-calendar/",
+   "key": "/news/eurovision-2027-dates-burgas-semi-finals-grand-final-may-15/",
+   "count": 33
+  },
+  {
+   "key": "/news/long-weekends-2027-pto-planner-bridge-days/",
+   "count": 33
+  },
+  {
+   "key": "/news/medicare-part-b-premium-2027-projected-209-50-when-cms-announces/",
    "count": 33
   },
   {
    "key": "/news/category/money-benefits/",
-   "count": 33
-  },
-  {
-   "key": "/news/nyt-pips-hints-answers-november-2-2026/",
-   "count": 33
-  },
-  {
-   "key": "/news/contexto-answer-hints-november-3-2026-1507/",
    "count": 32
   },
   {
-   "key": "/news/us-time-zones-explained-map-dot/",
+   "key": "/news/nyt-pips-hints-answers-november-8-2026/",
    "count": 31
   },
   {
-   "key": "/news/eurovision-2027-dates-burgas-semi-finals-grand-final-may-15/",
-   "count": 31
-  },
-  {
-   "key": "/news/long-weekends-2027-pto-planner-bridge-days/",
-   "count": 31
-  },
-  {
-   "key": "/news/secret-santa-2026-printable/",
+   "key": "/news/us-philippines-time-difference-after-november-1-2026-manila-13-hours/",
    "count": 31
   },
   {
@@ -1302,95 +1274,91 @@
    "count": 31
   },
   {
-   "key": "/news/nfl-week-18-schedule-2026-printable-pick-em-sheet-game-times/",
+   "key": "/news/christmas-tree-lightings-2026-dates-times-nyc-dc-boston/",
    "count": 30
   },
   {
-   "key": "/news/thanksgiving-travel-2026-best-days-to-fly-and-drive/",
+   "key": "/news/nyt-pips-hints-answers-november-2-2026/",
    "count": 30
   },
   {
-   "key": "/news/printable-nfl-pickem-sheets-2026/",
-   "count": 30
-  },
-  {
-   "key": "/news/calendar-quarters-2027-q1-q4-dates-days/",
+   "key": "/news/new-on-apple-tv-november-2026-release-dates/",
    "count": 29
-  },
-  {
-   "key": "/news/nyt-strands-hints-answers-november-4-2026-976/",
-   "count": 29
-  },
-  {
-   "key": "/news/uk-trains-christmas-2026-no-trains-december-25-26-paddington-closed/",
-   "count": 29
-  },
-  {
-   "key": "/news/what-is-a-midterm-election-2026-what-the-nov-3-vote-decides/",
-   "count": 29
-  },
-  {
-   "key": "/news/nfl-week-16-schedule-2026-printable-pick-em-sheet-game-times/",
-   "count": 29
-  },
-  {
-   "key": "/news/national-black-cat-day-2026-october-27/",
-   "count": 29
-  },
-  {
-   "key": "/news/thursday-night-football-tonight-jaguars-ravens-tnf-schedule-2026/",
-   "count": 28
-  },
-  {
-   "key": "/news/beaujolais-nouveau-day-2026-november-19-release-dates/",
-   "count": 28
-  },
-  {
-   "key": "/news/first-day-hikes-2027-state-parks/",
-   "count": 28
-  },
-  {
-   "key": "/news/motogp-malaysia-2026-race-time-sprint-schedule-us-time-zones/",
-   "count": 27
-  },
-  {
-   "key": "/news/premier-league-fixtures-november-21-29-2026-kickoff-times-tv/",
-   "count": 26
-  },
-  {
-   "key": "/news/little-debbie-christmas-tree-cakes-2026/",
-   "count": 26
   },
   {
    "key": "/news/san-diego-unified-calendar-2026-27-breaks/",
-   "count": 26
+   "count": 29
   },
   {
-   "key": "/news/topic/thanksgiving-2026/",
-   "count": 26
+   "key": "/news/thanksgiving-trash-pickup-2026-by-city/",
+   "count": 29
+  },
+  {
+   "key": "/news/video-game-release-dates-december-2026/",
+   "count": 29
+  },
+  {
+   "key": "/news/printable-nfl-pickem-sheets-2026/",
+   "count": 29
+  },
+  {
+   "key": "/news/world-chess-championship-2026-gukesh-sindarov-geneva-dates-time/",
+   "count": 28
+  },
+  {
+   "key": "/news/wordle-hint-answer-today-november-2-2026-1962/",
+   "count": 28
+  },
+  {
+   "key": "/news/nfl-week-16-schedule-2026-printable-pick-em-sheet-game-times/",
+   "count": 28
   },
   {
    "key": "/news/topic/nyt-connections/",
+   "count": 28
+  },
+  {
+   "key": "/news/the-gilded-age-season-4-premiere-time-november-1-hbo-max/",
+   "count": 28
+  },
+  {
+   "key": "/news/steam-winter-sale-2026-dates-december-17-steam-sale-calendar-2027/",
+   "count": 28
+  },
+  {
+   "key": "/news/thursday-night-football-tonight-jaguars-ravens-tnf-schedule-2026/",
+   "count": 27
+  },
+  {
+   "key": "/news/lakers-schedule-november-2026-game-times-tv-nba-cup-printable/",
+   "count": 27
+  },
+  {
+   "key": "/news/beaujolais-nouveau-day-2026-november-19-release-dates/",
+   "count": 27
+  },
+  {
+   "key": "/news/christmas-bird-count-2026-27-dates-how-to-join/",
    "count": 26
   },
   {
-   "key": "/news/bank-of-canada-rate-hike-october-28-2026-next-dates-2027/",
+   "key": "/news/us-time-zones-explained-map-dot/",
    "count": 26
   },
   {
-   "key": "/news/nyt-connections-hints-answers-october-31-2026-1238/",
+   "key": "/news/knicks-schedule-december-2026-game-times-tv-christmas-printable/",
    "count": 26
   },
   {
-   "key": "/news/what-calendar-year-is-the-same-as-2027/",
+   "key": "/news/kennedy-center-honors-2026-date-december-7-capital-one-arena-broadcast/",
+   "count": 26
+  },
+  {
+   "key": "/news/target-black-friday-2026-early-sale-november-5-7-price-match-dates/",
    "count": 25
   },
   {
-   "key": "/news/elf-on-the-shelf-2026-arrival-ideas-calendar-printable/",
-   "count": 25
-  },
-  {
-   "key": "/news/virginia-constitutional-amendments-2026-ballot-questions-explained/",
+   "key": "/news/uk-trains-christmas-2026-no-trains-december-25-26-paddington-closed/",
    "count": 25
   },
   {
@@ -1398,410 +1366,382 @@
    "count": 25
   },
   {
+   "key": "/news/national-sandwich-day-2026-deals-tuesday-november-3-subway-mcalisters-capriottis/",
+   "count": 25
+  },
+  {
+   "key": "/news/topic/thanksgiving-2026/",
+   "count": 25
+  },
+  {
+   "key": "/news/lewes-bonfire-night-2026-thursday-5-november-road-closures-last-trains/",
+   "count": 24
+  },
+  {
+   "key": "/news/bank-of-england-interest-rate-dates-2027-mpc-5-november/",
+   "count": 24
+  },
+  {
+   "key": "/news/secret-santa-2026-printable/",
+   "count": 24
+  },
+  {
+   "key": "/news/narnia-the-magicians-nephew-release-date-imax-february-12-2027-netflix-april-2/",
+   "count": 24
+  },
+  {
    "key": "/news/geminid-meteor-shower-2026-peak-december-13-14-moon-viewing-times/",
-   "count": 25
-  },
-  {
-   "key": "/news/nyt-spelling-bee-hints-answers-november-2-2026/",
-   "count": 25
-  },
-  {
-   "key": "/news/cpkc-holiday-train-2026-schedule-stops-times/",
    "count": 24
   },
   {
-   "key": "/news/wordle-hint-answer-today-november-7-2026-1967/",
-   "count": 24
-  },
-  {
-   "key": "/news/philadelphia-school-district-calendar-2026-27-holidays/",
-   "count": 24
-  },
-  {
-   "key": "/news/social-security-payment-schedule-december-2026-ssi-december-31/",
-   "count": 24
-  },
-  {
-   "key": "/news/the-gilded-age-season-4-premiere-time-november-1-hbo-max/",
-   "count": 24
-  },
-  {
-   "key": "/news/mcdonalds-pokemon-happy-meal-2026-release-date-toys-cards/",
+   "key": "/news/blossom-word-game-answers-november-6-2026/",
    "count": 23
   },
   {
-   "key": "/news/strictly-come-dancing-2026-final-date-19-december-remaining-weeks/",
+   "key": "/news/nfl-playoff-schedule-2027-wild-card-divisional-championship-super-bowl-lxi/",
    "count": 23
   },
   {
-   "key": "/news/international-mens-day-2026-november-19-theme/",
+   "key": "/news/category/retail-dates/",
    "count": 23
   },
   {
-   "key": "/news/new-netflix-shows-november-2026-black-doves-empress-hunting-wives/",
+   "key": "/news/election-day-2026-weather-forecast-polling-place-changes/",
    "count": 23
   },
   {
-   "key": "/news/planets-visible-december-2026-night-sky-calendar-geminids-solstice/",
-   "count": 22
-  },
-  {
-   "key": "/news/nyt-midi-crossword-answers-november-7-2026/",
-   "count": 22
-  },
-  {
-   "key": "/news/stock-market-holidays-2027-nyse-closed-dates/",
-   "count": 22
-  },
-  {
-   "key": "/news/dune-part-three-release-date-december-18-2026-tickets/",
-   "count": 22
-  },
-  {
-   "key": "/news/nyt-connections-hints-answers-november-8-2026-1246/",
-   "count": 22
-  },
-  {
-   "key": "/news/fortnite-chapter-7-end-event-december-5-2026-time/",
-   "count": 22
-  },
-  {
-   "key": "/news/world-aids-day-2026-tuesday-december-1-theme/",
-   "count": 22
-  },
-  {
-   "key": "/news/christmas-bird-count-2026-27-dates-how-to-join/",
-   "count": 22
-  },
-  {
-   "key": "/news/wordle-hint-answer-today-october-31-2026-1960/",
-   "count": 22
-  },
-  {
-   "key": "/news/nyt-spelling-bee-hints-answers-november-7-2026/",
-   "count": 21
-  },
-  {
-   "key": "/news/panera-holiday-menu-2026-peppermint-pistachio-white-mocha-snowman-cup/",
-   "count": 21
-  },
-  {
-   "key": "/news/ces-2027-dates-keynotes-las-vegas/",
-   "count": 21
-  },
-  {
-   "key": "/news/nevada-ballot-questions-2026-question-6-question-7-explained/",
-   "count": 21
-  },
-  {
-   "key": "/news/christmas-new-year-trash-pickup-2026-by-city/",
-   "count": 21
-  },
-  {
-   "key": "/news/kindergarten-registration-2027-28-dates-age-cutoffs-by-district/",
-   "count": 21
-  },
-  {
-   "key": "/news/feast-week-2026-college-basketball-tournaments-dates-maui-battle-4-atlantis-players-era/",
-   "count": 21
-  },
-  {
-   "key": "/news/dancing-with-the-stars-2026-schedule-disney-night-monday-november-2-finale-november-24/",
-   "count": 21
-  },
-  {
-   "key": "/news/northern-lights-uk-tonight-november-1-2026-met-office-aurora-scotland/",
-   "count": 21
-  },
-  {
-   "key": "/news/nyt-strands-hints-answers-november-7-2026-979/",
-   "count": 20
-  },
-  {
-   "key": "/news/royal-agricultural-winter-fair-2026-dates-hours-horse-show-toronto/",
-   "count": 20
-  },
-  {
-   "key": "/news/sat-november-7-2026-test-day-checklist-what-to-bring-score-release-date/",
-   "count": 20
-  },
-  {
-   "key": "/news/girl-scout-cookies-2027-new-cookies-season-dates/",
-   "count": 20
-  },
-  {
-   "key": "/news/thanksgiving-trash-pickup-2026-by-city/",
-   "count": 20
-  },
-  {
-   "key": "/news/snap-payment-schedule-december-2026-deposit-dates-by-state/",
-   "count": 20
-  },
-  {
-   "key": "/news/ps5-prism-collection-pre-order-date-november-10-price-release-february-4/",
-   "count": 20
+   "key": "/news/india-vs-new-zealand-2026-schedule-odi-test-start-times-et-gmt-ist/",
+   "count": 23
   },
   {
    "key": "/news/hello-kitty-birthday-2026-sunday-november-1-sanrio-facts/",
-   "count": 20
+   "count": 23
   },
   {
-   "key": "/news/halloween-free-food-2026-chipotle-boorito-krispy-kreme-costume-deals-october-31/",
-   "count": 20
+   "key": "/news/rangers-schedule-november-2026-game-times-tv-printable/",
+   "count": 22
   },
   {
-   "key": "/news/nyt-strands-hints-answers-november-8-2026-980/",
-   "count": 19
+   "key": "/news/canada-statutory-holidays-2027-federal-general-holidays/",
+   "count": 22
   },
   {
-   "key": "/news/free-christmas-parking-2026-uk-towns-council-dates/",
-   "count": 19
+   "key": "/news/wordle-hint-answer-today-november-8-2026-1968/",
+   "count": 22
   },
   {
-   "key": "/news/uk-school-term-dates-2026-27-2027-28-half-term-easter-holidays/",
-   "count": 19
-  },
-  {
-   "key": "/news/new-on-hbo-max-november-2026-release-dates-city-of-god-tony/",
-   "count": 19
-  },
-  {
-   "key": "/news/seasons-2027-equinox-solstice-dates-times/",
-   "count": 19
-  },
-  {
-   "key": "/news/canada-long-weekends-2027-by-province-vacation-planner/",
-   "count": 19
-  },
-  {
-   "key": "/news/wwe-events-december-2026-dates-start-times/",
-   "count": 19
-  },
-  {
-   "key": "/news/disney-universal-christmas-2026-dates-epcot-disneyland-universal-holidays/",
-   "count": 19
-  },
-  {
-   "key": "/news/monday-night-football-tonight-bills-vikings-mnf-november-9-2026/",
-   "count": 19
+   "key": "/news/nyt-strands-hints-answers-november-7-2026-979/",
+   "count": 22
   },
   {
    "key": "/news/nyt-midi-crossword-answers-november-6-2026/",
-   "count": 19
+   "count": 22
   },
   {
-   "key": "/news/utc-vs-gmt-difference-explained/",
-   "count": 19
+   "key": "/news/thanksgiving-travel-2026-best-days-to-fly-and-drive/",
+   "count": 22
   },
   {
-   "key": "/news/coachella-stagecoach-2027-dates-lineup-indio/",
-   "count": 19
+   "key": "/news/nyt-spelling-bee-hints-answers-november-2-2026/",
+   "count": 22
   },
   {
-   "key": "/news/london-to-brighton-veteran-car-run-2026-sunday-1-november-start-time-route/",
-   "count": 19
+   "key": "/news/patrick-stewart-dies-86-life-career-timeline/",
+   "count": 22
   },
   {
-   "key": "/news/sports-on-tv-today-october-30-2026/",
-   "count": 19
+   "key": "/news/black-friday-2026-post-office-banks-stock-market-open/",
+   "count": 21
   },
   {
-   "key": "/news/nba-games-today-october-30-2026/",
-   "count": 19
+   "key": "/news/boston-public-schools-calendar-2026-27-breaks/",
+   "count": 21
   },
   {
-   "key": "/news/hunger-games-sunrise-on-the-reaping-release-date-november-20-rewatch-countdown/",
-   "count": 19
+   "key": "/news/new-on-hbo-max-november-2026-release-dates-city-of-god-tony/",
+   "count": 21
   },
   {
-   "key": "/news/ihsaa-football-tournament-2026-schedule-sectionals-regionals-state-finals/",
-   "count": 18
+   "key": "/news/fortnite-chapter-7-end-event-december-5-2026-time/",
+   "count": 21
   },
   {
-   "key": "/news/christmas-number-one-2026-race-dates-revealed-christmas-day/",
-   "count": 18
+   "key": "/news/knicks-schedule-november-2026-game-times-tv-nba-cup-printable/",
+   "count": 21
   },
   {
-   "key": "/news/nyt-connections-hints-answers-november-6-2026-1244/",
-   "count": 18
+   "key": "/news/girl-scout-cookies-2027-new-cookies-season-dates/",
+   "count": 21
   },
   {
-   "key": "/news/world-childrens-day-2026-friday-november-20-rights-of-the-child/",
-   "count": 18
+   "key": "/news/nyt-midi-crossword-answers-november-4-2026/",
+   "count": 21
   },
   {
    "key": "/news/uk-bank-holidays-2027-dates-england-scotland-northern-ireland/",
-   "count": 18
+   "count": 21
   },
   {
-   "key": "/news/wichita-public-schools-calendar-2026-27/",
-   "count": 17
+   "key": "/news/nyt-connections-sports-edition-hints-answers-november-4-2026-772/",
+   "count": 21
   },
   {
-   "key": "/news/veterans-day-2026-national-ceremony-arlington-time/",
-   "count": 17
+   "key": "/news/nyt-strands-hints-answers-november-4-2026-976/",
+   "count": 21
   },
   {
-   "key": "/news/arlington-isd-calendar-2026-27-breaks/",
-   "count": 17
+   "key": "/news/baltimore-county-public-schools-calendar-2026-27-breaks/",
+   "count": 21
+  },
+  {
+   "key": "/news/category/elections/",
+   "count": 21
+  },
+  {
+   "key": "/news/nyc-marathon-2026-start-times-road-closures-where-to-watch/",
+   "count": 21
+  },
+  {
+   "key": "/news/national-black-cat-day-2026-october-27/",
+   "count": 21
   },
   {
    "key": "/news/smoke-alarm-check-daylight-saving-time-ends-november-1-2026-checklist/",
+   "count": 21
+  },
+  {
+   "key": "/news/author/alex-morgan/",
+   "count": 21
+  },
+  {
+   "key": "/news/ihsaa-football-tournament-2026-schedule-sectionals-regionals-state-finals/",
+   "count": 20
+  },
+  {
+   "key": "/news/cpkc-holiday-train-2026-schedule-stops-times/",
+   "count": 20
+  },
+  {
+   "key": "/news/dune-part-three-release-date-december-18-2026-tickets/",
+   "count": 20
+  },
+  {
+   "key": "/news/stock-market-holidays-2027-nyse-closed-dates/",
+   "count": 20
+  },
+  {
+   "key": "/news/elf-on-the-shelf-2026-arrival-ideas-calendar-printable/",
+   "count": 20
+  },
+  {
+   "key": "/news/category/planning/",
+   "count": 20
+  },
+  {
+   "key": "/news/nba-games-today-october-31-2026/",
+   "count": 20
+  },
+  {
+   "key": "/news/winter-break-2026-27-school-districts-dates/",
+   "count": 20
+  },
+  {
+   "key": "/news/author/jordan-bennett/",
+   "count": 20
+  },
+  {
+   "key": "/news/nyt-midi-crossword-answers-november-7-2026/",
+   "count": 19
+  },
+  {
+   "key": "/news/nyc-high-school-admissions-fall-2027-deadline-december-4/",
+   "count": 19
+  },
+  {
+   "key": "/news/national-dog-show-2026-thanksgiving-time-tv-channel-peacock-oaks-tickets/",
+   "count": 19
+  },
+  {
+   "key": "/news/euro-2028-qualifying-draw-date-time-belfast/",
+   "count": 19
+  },
+  {
+   "key": "/news/international-mens-day-2026-november-19-theme/",
+   "count": 19
+  },
+  {
+   "key": "/news/college-spring-break-2027-dates-universities/",
+   "count": 19
+  },
+  {
+   "key": "/news/strictly-come-dancing-2026-final-date-19-december-remaining-weeks/",
+   "count": 19
+  },
+  {
+   "key": "/news/arlington-isd-calendar-2026-27-breaks/",
+   "count": 19
+  },
+  {
+   "key": "/news/dancing-with-the-stars-2026-schedule-disney-night-monday-november-2-finale-november-24/",
+   "count": 19
+  },
+  {
+   "key": "/news/wordle-hint-answer-today-november-1-2026-1961/",
+   "count": 19
+  },
+  {
+   "key": "/news/royal-agricultural-winter-fair-2026-dates-hours-horse-show-toronto/",
+   "count": 18
+  },
+  {
+   "key": "/news/fresno-unified-calendar-2026-27-breaks/",
+   "count": 18
+  },
+  {
+   "key": "/news/dongzhi-festival-2026-december-22-winter-solstice/",
    "count": 17
   },
   {
-   "key": "/news/college-football-games-today-october-30-2026/",
+   "key": "/news/nyt-connections-hints-answers-november-9-2026-1247/",
    "count": 17
   },
   {
-   "key": "/news/nhl-games-today-october-30-2026/",
+   "key": "/news/canada-budget-2026-date-november-5-what-to-know/",
    "count": 17
   },
   {
-   "key": "/news/world-diabetes-day-2026-saturday-november-14-early-action-theme/",
+   "key": "/news/monday-night-football-tonight-bills-vikings-mnf-november-9-2026/",
    "count": 17
   },
   {
-   "key": "/news/orionid-meteor-shower-2026-peak-october-21-22/",
-   "count": 17
+   "key": "/news/nyt-spelling-bee-hints-answers-november-7-2026/",
+   "count": 16
+  },
+  {
+   "key": "/news/sat-december-5-2026-test-day-checklist-score-release-december-18/",
+   "count": 16
+  },
+  {
+   "key": "/news/aaa-tow-to-go-2026-thanksgiving-christmas-free-tow-ride-home/",
+   "count": 16
+  },
+  {
+   "key": "/news/boxing-schedule-december-2026-fight-dates-times/",
+   "count": 16
+  },
+  {
+   "key": "/news/veterans-day-parades-2026-by-city/",
+   "count": 16
+  },
+  {
+   "key": "/news/indycar-schedule-2027-17-races-indy-500-may-30/",
+   "count": 16
+  },
+  {
+   "key": "/news/bc-sunrise-times-winter-2026-27-vancouver-no-fall-back-pacific-time/",
+   "count": 16
+  },
+  {
+   "key": "/news/kohls-black-friday-2026-dates-early-access-november-6-store-hours/",
+   "count": 16
   },
   {
    "key": "/news/sunday-night-football-tonight-buccaneers-bears-snf-november-8-2026/",
    "count": 16
-  },
-  {
-   "key": "/news/boston-public-schools-calendar-2026-27-breaks/",
-   "count": 16
-  },
-  {
-   "key": "/news/womens-world-cup-2027-schedule-brazil-us-uk-canada-times/",
-   "count": 16
-  },
-  {
-   "key": "/news/meteor-showers-2027-calendar-peak-dates-moon-phase-best-nights/",
-   "count": 16
-  },
-  {
-   "key": "/news/early-decision-deadlines-2026-november-1-sunday-college-list-uc-november-30/",
-   "count": 16
-  },
-  {
-   "key": "/news/wordle-hint-answer-today-november-2-2026-1962/",
-   "count": 16
-  },
-  {
-   "key": "/news/bayern-vs-dortmund-prediction-last-5-matches-where-to-watch-2026/",
-   "count": 16
-  },
-  {
-   "key": "/news/video-game-release-dates-november-2026-gta-6-ocarina-of-time/",
-   "count": 15
-  },
-  {
-   "key": "/news/japan-series-2026-schedule-softbank-hawks-dena-baystars-us-time/",
-   "count": 15
-  },
-  {
-   "key": "/news/ford-fathom-release-date-price-range-specs/",
-   "count": 15
-  },
-  {
-   "key": "/news/halloween-costume-stores-open-october-29-31-2026-spirit-party-city/",
-   "count": 15
   }
  ],
  "topCalendar": [
   {
    "key": "/november-calendars.html",
-   "count": 731
+   "count": 745
   },
   {
    "key": "/december-calendars.html",
-   "count": 434
+   "count": 436
   },
   {
    "key": "/printable-calendars.html",
-   "count": 317
+   "count": 289
   },
   {
    "key": "/blank-calendars.html",
-   "count": 268
-  },
-  {
-   "key": "/printable-weekly-calendar.html",
-   "count": 226
+   "count": 265
   },
   {
    "key": "/september-calendars.html",
-   "count": 224
+   "count": 242
+  },
+  {
+   "key": "/printable-weekly-calendar.html",
+   "count": 227
   },
   {
    "key": "/printable-yearly-calendar.html",
-   "count": 221
+   "count": 223
   },
   {
    "key": "/guides/classroom-printable-calendars.html",
-   "count": 209
+   "count": 200
   },
   {
    "key": "/january-calendars.html",
-   "count": 197
+   "count": 196
   },
   {
    "key": "/printable-school-calendar.html",
-   "count": 193
-  },
-  {
-   "key": "/october-calendars.html",
-   "count": 179
+   "count": 194
   },
   {
    "key": "/print-guide.html",
-   "count": 178
+   "count": 186
   },
   {
-   "key": "/june-calendars.html",
-   "count": 164
+   "key": "/october-calendars.html",
+   "count": 183
   },
   {
    "key": "/april-calendars.html",
-   "count": 155
+   "count": 168
+  },
+  {
+   "key": "/june-calendars.html",
+   "count": 167
   },
   {
    "key": "/may-calendars.html",
-   "count": 140
+   "count": 144
   },
   {
    "key": "/march-calendars.html",
-   "count": 130
+   "count": 135
   },
   {
    "key": "/august-calendars.html",
-   "count": 125
-  },
-  {
-   "key": "/february-calendars.html",
-   "count": 117
+   "count": 130
   },
   {
    "key": "/july-calendars.html",
-   "count": 117
+   "count": 119
+  },
+  {
+   "key": "/february-calendars.html",
+   "count": 114
   },
   {
    "key": "/printable-monday-start-calendar.html",
-   "count": 79
+   "count": 85
   },
   {
    "key": "/guides/fiscal-year-calendar.html",
-   "count": 52
+   "count": 62
   },
   {
    "key": "/guides/monday-start-calendar.html",
-   "count": 47
+   "count": 53
   },
   {
    "key": "/printable-blank-yearly-calendar.html",
-   "count": 43
+   "count": 45
   },
   {
    "key": "/404.html",
@@ -1811,258 +1751,270 @@
  "countries": [
   {
    "key": "US",
-   "count": 140783
+   "count": 118919
   },
   {
    "key": "TR",
-   "count": 5889
+   "count": 5813
   },
   {
    "key": "PL",
-   "count": 3765
-  },
-  {
-   "key": "DE",
-   "count": 2516
+   "count": 3790
   },
   {
    "key": "GB",
-   "count": 2489
+   "count": 2543
+  },
+  {
+   "key": "DE",
+   "count": 2500
   },
   {
    "key": "SG",
-   "count": 1892
+   "count": 1969
   },
   {
    "key": "CA",
-   "count": 1889
+   "count": 1852
   },
   {
    "key": "BR",
-   "count": 1617
+   "count": 1684
   },
   {
    "key": "HK",
-   "count": 1577
-  },
-  {
-   "key": "FR",
-   "count": 962
-  },
-  {
-   "key": "AU",
-   "count": 937
-  },
-  {
-   "key": "IN",
-   "count": 843
-  },
-  {
-   "key": "MX",
-   "count": 821
-  },
-  {
-   "key": "JP",
-   "count": 811
-  },
-  {
-   "key": "CN",
-   "count": 797
+   "count": 1575
   },
   {
    "key": "NL",
-   "count": 641
+   "count": 988
+  },
+  {
+   "key": "FR",
+   "count": 983
+  },
+  {
+   "key": "MX",
+   "count": 852
+  },
+  {
+   "key": "IN",
+   "count": 835
+  },
+  {
+   "key": "JP",
+   "count": 820
+  },
+  {
+   "key": "CN",
+   "count": 795
+  },
+  {
+   "key": "AU",
+   "count": 788
   },
   {
    "key": "ES",
-   "count": 619
+   "count": 627
   },
   {
    "key": "PT",
-   "count": 471
+   "count": 484
   },
   {
    "key": "ZA",
-   "count": 465
+   "count": 476
   },
   {
    "key": "FI",
-   "count": 457
+   "count": 456
   },
   {
    "key": "CO",
-   "count": 305
-  },
-  {
-   "key": "NZ",
-   "count": 244
-  },
-  {
-   "key": "PH",
-   "count": 238
-  },
-  {
-   "key": "SE",
-   "count": 236
-  },
-  {
-   "key": "IE",
-   "count": 235
+   "count": 316
   },
   {
    "key": "AR",
-   "count": 233
-  },
-  {
-   "key": "ID",
-   "count": 195
-  },
-  {
-   "key": "IT",
-   "count": 186
+   "count": 265
   },
   {
    "key": "VN",
-   "count": 182
+   "count": 243
+  },
+  {
+   "key": "SE",
+   "count": 232
+  },
+  {
+   "key": "IE",
+   "count": 231
+  },
+  {
+   "key": "PH",
+   "count": 221
+  },
+  {
+   "key": "ID",
+   "count": 203
+  },
+  {
+   "key": "NZ",
+   "count": 194
+  },
+  {
+   "key": "IT",
+   "count": 190
+  },
+  {
+   "key": "BD",
+   "count": 148
   },
   {
    "key": "AT",
    "count": 137
   },
   {
-   "key": "BD",
-   "count": 108
-  },
-  {
    "key": "UA",
-   "count": 106
-  },
-  {
-   "key": "BE",
-   "count": 102
-  },
-  {
-   "key": "PK",
-   "count": 93
+   "count": 111
   },
   {
    "key": "MA",
-   "count": 92
+   "count": 99
+  },
+  {
+   "key": "PK",
+   "count": 98
+  },
+  {
+   "key": "BE",
+   "count": 98
+  },
+  {
+   "key": "VE",
+   "count": 89
   },
   {
    "key": "LT",
    "count": 87
   },
   {
-   "key": "VE",
-   "count": 86
+   "key": "EC",
+   "count": 85
   },
   {
    "key": "CL",
-   "count": 81
-  },
-  {
-   "key": "EC",
-   "count": 75
-  },
-  {
-   "key": "RU",
-   "count": 70
-  },
-  {
-   "key": "TW",
-   "count": 68
-  },
-  {
-   "key": "IL",
-   "count": 67
-  },
-  {
-   "key": "AE",
-   "count": 63
-  },
-  {
-   "key": "MY",
-   "count": 61
+   "count": 84
   },
   {
    "key": "IS",
-   "count": 60
+   "count": 72
+  },
+  {
+   "key": "RU",
+   "count": 71
+  },
+  {
+   "key": "TW",
+   "count": 69
+  },
+  {
+   "key": "IL",
+   "count": 68
+  },
+  {
+   "key": "AE",
+   "count": 67
+  },
+  {
+   "key": "MY",
+   "count": 66
   },
   {
    "key": "TH",
-   "count": 55
+   "count": 58
   },
   {
    "key": "KZ",
-   "count": 54
+   "count": 57
   },
   {
    "key": "AZ",
-   "count": 52
-  },
-  {
-   "key": "NO",
-   "count": 51
-  },
-  {
-   "key": "DK",
-   "count": 49
-  },
-  {
-   "key": "PE",
-   "count": 49
+   "count": 57
   },
   {
    "key": "SA",
+   "count": 54
+  },
+  {
+   "key": "PE",
+   "count": 50
+  },
+  {
+   "key": "NO",
+   "count": 50
+  },
+  {
+   "key": "TN",
    "count": 47
   },
   {
+   "key": "IQ",
+   "count": 45
+  },
+  {
    "key": "PY",
-   "count": 44
+   "count": 45
+  },
+  {
+   "key": "BY",
+   "count": 45
+  },
+  {
+   "key": "DK",
+   "count": 45
   },
   {
    "key": "CH",
    "count": 43
   },
   {
-   "key": "BY",
-   "count": 43
+   "key": "CZ",
+   "count": 39
   },
   {
    "key": "KR",
-   "count": 43
-  },
-  {
-   "key": "TN",
-   "count": 42
-  },
-  {
-   "key": "IQ",
-   "count": 40
-  },
-  {
-   "key": "NG",
    "count": 38
   },
   {
-   "key": "CZ",
+   "key": "RO",
+   "count": 37
+  },
+  {
+   "key": "NG",
    "count": 36
   },
   {
-   "key": "RO",
-   "count": 35
-  },
-  {
-   "key": "GR",
+   "key": "DO",
    "count": 33
   },
   {
-   "key": "HU",
+   "key": "DZ",
    "count": 32
   },
   {
-   "key": "DO",
+   "key": "HR",
+   "count": 32
+  },
+  {
+   "key": "GR",
+   "count": 32
+  },
+  {
+   "key": "KE",
+   "count": 31
+  },
+  {
+   "key": "QA",
    "count": 31
   },
   {
@@ -2070,24 +2022,16 @@
    "count": 30
   },
   {
-   "key": "KE",
-   "count": 30
-  },
-  {
-   "key": "HR",
+   "key": "HU",
    "count": 29
-  },
-  {
-   "key": "QA",
-   "count": 29
-  },
-  {
-   "key": "DZ",
-   "count": 28
   },
   {
    "key": "RS",
-   "count": 25
+   "count": 27
+  },
+  {
+   "key": "PA",
+   "count": 26
   },
   {
    "key": "UY",
@@ -2095,6 +2039,10 @@
   },
   {
    "key": "AL",
+   "count": 24
+  },
+  {
+   "key": "NP",
    "count": 23
   },
   {
@@ -2102,11 +2050,15 @@
    "count": 23
   },
   {
-   "key": "PA",
+   "key": "BG",
    "count": 22
   },
   {
-   "key": "SK",
+   "key": "BH",
+   "count": 22
+  },
+  {
+   "key": "JO",
    "count": 21
   },
   {
@@ -2114,43 +2066,51 @@
    "count": 21
   },
   {
+   "key": "SK",
+   "count": 21
+  },
+  {
+   "key": "LV",
+   "count": 21
+  },
+  {
    "key": "KH",
    "count": 20
   },
   {
-   "key": "JO",
+   "key": "CR",
    "count": 20
+  },
+  {
+   "key": "EG",
+   "count": 19
+  },
+  {
+   "key": "GT",
+   "count": 19
+  },
+  {
+   "key": "BA",
+   "count": 18
   },
   {
    "key": "PR",
-   "count": 20
-  },
-  {
-   "key": "BH",
-   "count": 20
-  },
-  {
-   "key": "BG",
-   "count": 20
-  },
-  {
-   "key": "LV",
-   "count": 20
+   "count": 18
   },
   {
    "key": "GP",
    "count": 18
   },
   {
-   "key": "NP",
-   "count": 18
-  },
-  {
-   "key": "LB",
+   "key": "ET",
    "count": 17
   },
   {
-   "key": "BA",
+   "key": "HN",
+   "count": 17
+  },
+  {
+   "key": "GE",
    "count": 16
   },
   {
@@ -2158,23 +2118,11 @@
    "count": 16
   },
   {
-   "key": "ET",
+   "key": "LB",
    "count": 16
   },
   {
    "key": "AM",
-   "count": 16
-  },
-  {
-   "key": "HN",
-   "count": 16
-  },
-  {
-   "key": "CR",
-   "count": 16
-  },
-  {
-   "key": "EG",
    "count": 16
   },
   {
@@ -2186,7 +2134,7 @@
    "count": 15
   },
   {
-   "key": "GT",
+   "key": "BO",
    "count": 14
   },
   {
@@ -2194,20 +2142,24 @@
    "count": 14
   },
   {
-   "key": "BO",
-   "count": 14
+   "key": "TG",
+   "count": 13
   },
   {
    "key": "CY",
    "count": 13
   },
   {
-   "key": "JM",
-   "count": 13
+   "key": "MD",
+   "count": 12
   },
   {
-   "key": "GE",
-   "count": 12
+   "key": "KW",
+   "count": 11
+  },
+  {
+   "key": "PS",
+   "count": 11
   },
   {
    "key": "LA",
@@ -2218,7 +2170,11 @@
    "count": 11
   },
   {
-   "key": "TG",
+   "key": "JM",
+   "count": 10
+  },
+  {
+   "key": "MT",
    "count": 10
   },
   {
@@ -2226,19 +2182,11 @@
    "count": 10
   },
   {
-   "key": "MD",
+   "key": "BF",
    "count": 9
   },
   {
-   "key": "PS",
-   "count": 9
-  },
-  {
-   "key": "MT",
-   "count": 9
-  },
-  {
-   "key": "KW",
+   "key": "GH",
    "count": 9
   },
   {
@@ -2246,23 +2194,19 @@
    "count": 8
   },
   {
-   "key": "GH",
-   "count": 8
+   "key": "TZ",
+   "count": 7
   },
   {
-   "key": "SI",
-   "count": 8
+   "key": "NI",
+   "count": 7
   },
   {
    "key": "GA",
    "count": 7
   },
   {
-   "key": "BF",
-   "count": 7
-  },
-  {
-   "key": "NI",
+   "key": "SI",
    "count": 7
   },
   {
@@ -2274,19 +2218,7 @@
    "count": 6
   },
   {
-   "key": "MK",
-   "count": 6
-  },
-  {
-   "key": "TZ",
-   "count": 6
-  },
-  {
    "key": "CW",
-   "count": 6
-  },
-  {
-   "key": "CD",
    "count": 6
   },
   {
@@ -2294,11 +2226,31 @@
    "count": 6
   },
   {
+   "key": "HT",
+   "count": 5
+  },
+  {
+   "key": "MK",
+   "count": 5
+  },
+  {
+   "key": "LU",
+   "count": 5
+  },
+  {
+   "key": "CD",
+   "count": 5
+  },
+  {
    "key": "CG",
    "count": 5
   },
   {
-   "key": "ZW",
+   "key": "T1",
+   "count": 4
+  },
+  {
+   "key": "LK",
    "count": 4
   },
   {
@@ -2306,7 +2258,7 @@
    "count": 4
   },
   {
-   "key": "MZ",
+   "key": "ZW",
    "count": 4
   },
   {
@@ -2314,7 +2266,7 @@
    "count": 4
   },
   {
-   "key": "IR",
+   "key": "MZ",
    "count": 4
   },
   {
@@ -2322,16 +2274,24 @@
    "count": 4
   },
   {
-   "key": "T1",
-   "count": 4
-  },
-  {
-   "key": "LU",
+   "key": "IR",
    "count": 4
   },
   {
    "key": "RE",
    "count": 4
+  },
+  {
+   "key": "PG",
+   "count": 3
+  },
+  {
+   "key": "SY",
+   "count": 3
+  },
+  {
+   "key": "FJ",
+   "count": 3
   },
   {
    "key": "CV",
@@ -2350,11 +2310,7 @@
    "count": 3
   },
   {
-   "key": "BZ",
-   "count": 3
-  },
-  {
-   "key": "LK",
+   "key": "CM",
    "count": 3
   },
   {
@@ -2362,23 +2318,23 @@
    "count": 3
   },
   {
-   "key": "AO",
-   "count": 3
-  },
-  {
-   "key": "CM",
-   "count": 3
-  },
-  {
    "key": "IM",
    "count": 3
   },
   {
-   "key": "SY",
+   "key": "AO",
+   "count": 3
+  },
+  {
+   "key": "MM",
    "count": 2
   },
   {
-   "key": "PG",
+   "key": "SX",
+   "count": 2
+  },
+  {
+   "key": "RW",
    "count": 2
   },
   {
@@ -2390,20 +2346,12 @@
    "count": 2
   },
   {
-   "key": "FJ",
+   "key": "BZ",
    "count": 2
   },
   {
    "key": "GU",
    "count": 2
-  },
-  {
-   "key": "HT",
-   "count": 2
-  },
-  {
-   "key": "GY",
-   "count": 1
   },
   {
    "key": "YE",
@@ -2414,19 +2362,11 @@
    "count": 1
   },
   {
-   "key": "MM",
+   "key": "GY",
    "count": 1
   },
   {
    "key": "IO",
-   "count": 1
-  },
-  {
-   "key": "MU",
-   "count": 1
-  },
-  {
-   "key": "VC",
    "count": 1
   },
   {
@@ -2442,7 +2382,11 @@
    "count": 1
   },
   {
-   "key": "KY",
+   "key": "VC",
+   "count": 1
+  },
+  {
+   "key": "MU",
    "count": 1
   },
   {
@@ -2450,19 +2394,7 @@
    "count": 1
   },
   {
-   "key": "BS",
-   "count": 1
-  },
-  {
-   "key": "SX",
-   "count": 1
-  },
-  {
-   "key": "MQ",
-   "count": 1
-  },
-  {
-   "key": "GG",
+   "key": "KY",
    "count": 1
   },
   {
@@ -2470,269 +2402,4306 @@
    "count": 1
   },
   {
-   "key": "TC",
+   "key": "GG",
    "count": 1
   },
   {
-   "key": "RW",
+   "key": "BS",
+   "count": 1
+  },
+  {
+   "key": "MQ",
+   "count": 1
+  },
+  {
+   "key": "TC",
    "count": 1
   }
  ],
  "devices": [
   {
    "key": "desktop",
-   "count": 163304
+   "count": 142549
   },
   {
    "key": "mobile",
-   "count": 11635
+   "count": 11136
   },
   {
    "key": "tablet",
-   "count": 500
+   "count": 483
   }
  ],
  "beacon": {
   "daily": [
    {
     "k": "2026-11-07 00:00:00",
-    "n": 44,
-    "sec": 25.59090909090909,
-    "scroll": 20.09090909090909
+    "n": 617,
+    "sec": 55.38411669367909,
+    "scroll": 22.904376012965965,
+    "slow": 0,
+    "inp": 0,
+    "delay": 0
+   },
+   {
+    "k": "2026-11-08 00:00:00",
+    "n": 388,
+    "sec": 62.128865979381445,
+    "scroll": 20.99484536082474,
+    "slow": 0,
+    "inp": 0,
+    "delay": 0
    }
   ],
   "sources": [
    {
     "k": "www.google.com",
-    "n": 12,
+    "n": 216,
     "sec": 0,
-    "scroll": 0
-   },
-   {
-    "k": "duckduckgo.com",
-    "n": 8,
-    "sec": 0,
-    "scroll": 0
-   },
-   {
-    "k": "freshcalendars.com",
-    "n": 8,
-    "sec": 0,
-    "scroll": 0
-   },
-   {
-    "k": "www.bing.com",
-    "n": 6,
-    "sec": 0,
-    "scroll": 0
-   },
-   {
-    "k": "search.yahoo.com",
-    "n": 5,
-    "sec": 0,
-    "scroll": 0
+    "scroll": 0,
+    "slow": 0,
+    "inp": 0,
+    "delay": 0
    },
    {
     "k": "",
-    "n": 3,
+    "n": 188,
     "sec": 0,
-    "scroll": 0
+    "scroll": 0,
+    "slow": 0,
+    "inp": 0,
+    "delay": 0
+   },
+   {
+    "k": "duckduckgo.com",
+    "n": 171,
+    "sec": 0,
+    "scroll": 0,
+    "slow": 0,
+    "inp": 0,
+    "delay": 0
+   },
+   {
+    "k": "www.bing.com",
+    "n": 167,
+    "sec": 0,
+    "scroll": 0,
+    "slow": 0,
+    "inp": 0,
+    "delay": 0
+   },
+   {
+    "k": "freshcalendars.com",
+    "n": 139,
+    "sec": 0,
+    "scroll": 0,
+    "slow": 0,
+    "inp": 0,
+    "delay": 0
+   },
+   {
+    "k": "search.yahoo.com",
+    "n": 95,
+    "sec": 0,
+    "scroll": 0,
+    "slow": 0,
+    "inp": 0,
+    "delay": 0
    },
    {
     "k": "www.ecosia.org",
-    "n": 1,
+    "n": 13,
     "sec": 0,
-    "scroll": 0
+    "scroll": 0,
+    "slow": 0,
+    "inp": 0,
+    "delay": 0
+   },
+   {
+    "k": "search.brave.com",
+    "n": 4,
+    "sec": 0,
+    "scroll": 0,
+    "slow": 0,
+    "inp": 0,
+    "delay": 0
    },
    {
     "k": "us.search.yahoo.com",
+    "n": 3,
+    "sec": 0,
+    "scroll": 0,
+    "slow": 0,
+    "inp": 0,
+    "delay": 0
+   },
+   {
+    "k": "ca.search.yahoo.com",
+    "n": 2,
+    "sec": 0,
+    "scroll": 0,
+    "slow": 0,
+    "inp": 0,
+    "delay": 0
+   },
+   {
+    "k": "search.google.com",
+    "n": 2,
+    "sec": 0,
+    "scroll": 0,
+    "slow": 0,
+    "inp": 0,
+    "delay": 0
+   },
+   {
+    "k": "m.facebook.com",
     "n": 1,
     "sec": 0,
-    "scroll": 0
+    "scroll": 0,
+    "slow": 0,
+    "inp": 0,
+    "delay": 0
+   },
+   {
+    "k": "noai.duckduckgo.com",
+    "n": 1,
+    "sec": 0,
+    "scroll": 0,
+    "slow": 0,
+    "inp": 0,
+    "delay": 0
+   },
+   {
+    "k": "uk.search.yahoo.com",
+    "n": 1,
+    "sec": 0,
+    "scroll": 0,
+    "slow": 0,
+    "inp": 0,
+    "delay": 0
+   },
+   {
+    "k": "www.startpage.com",
+    "n": 1,
+    "sec": 0,
+    "scroll": 0,
+    "slow": 0,
+    "inp": 0,
+    "delay": 0
+   },
+   {
+    "k": "html.duckduckgo.com",
+    "n": 1,
+    "sec": 0,
+    "scroll": 0,
+    "slow": 0,
+    "inp": 0,
+    "delay": 0
    }
   ],
   "sourcesPrev": [],
   "pages": [
    {
+    "k": "/news/veterans-day-free-meals-discounts/",
+    "n": 135,
+    "sec": 141.85185185185185,
+    "scroll": 37.237037037037034,
+    "slow": 0,
+    "inp": 0,
+    "delay": 0
+   },
+   {
     "k": "/news/army-navy-game-2026-date-kickoff-time-metlife-stadium-tv/",
-    "n": 11,
-    "sec": 21.90909090909091,
-    "scroll": 10.090909090909092
+    "n": 86,
+    "sec": 42.52325581395349,
+    "scroll": 8.918604651162791,
+    "slow": 0,
+    "inp": 0,
+    "delay": 0
    },
    {
     "k": "/news/",
-    "n": 4,
-    "sec": 10.75,
-    "scroll": 9
+    "n": 41,
+    "sec": 3.5853658536585367,
+    "scroll": 12.853658536585366,
+    "slow": 0,
+    "inp": 0,
+    "delay": 0
    },
    {
-    "k": "/news/veterans-day-free-meals-discounts/",
-    "n": 4,
-    "sec": 35.5,
-    "scroll": 15.75
+    "k": "/news/nyt-connections-hints-answers-november-7-2026-1245/",
+    "n": 37,
+    "sec": 59.7027027027027,
+    "scroll": 22.405405405405407,
+    "slow": 0,
+    "inp": 0,
+    "delay": 0
    },
    {
-    "k": "/news/senior-deduction-2026-6000-age-65-phase-out/",
-    "n": 3,
-    "sec": 2.6666666666666665,
-    "scroll": 1
+    "k": "/news/day-of-the-dead-2026-dia-de-los-muertos-dates/",
+    "n": 32,
+    "sec": 82.96875,
+    "scroll": 10.625,
+    "slow": 0,
+    "inp": 0,
+    "delay": 0
+   },
+   {
+    "k": "/news/paris-masters-2026-schedule-final-time-by-time-zone/",
+    "n": 30,
+    "sec": 43.833333333333336,
+    "scroll": 21.8,
+    "slow": 0,
+    "inp": 0,
+    "delay": 0
+   },
+   {
+    "k": "/news/london-fireworks-2026-battersea-alexandra-palace-blackheath-wimbledon-times-tickets/",
+    "n": 26,
+    "sec": 25.076923076923077,
+    "scroll": 7.038461538461538,
+    "slow": 0,
+    "inp": 0,
+    "delay": 0
+   },
+   {
+    "k": "/news/nyt-strands-hints-answers-november-8-2026-980/",
+    "n": 17,
+    "sec": 35.705882352941174,
+    "scroll": 37.588235294117645,
+    "slow": 0,
+    "inp": 0,
+    "delay": 0
+   },
+   {
+    "k": "/news/snl-hosts-november-2026-halloween-episode-inde-navarrette-schedule/",
+    "n": 16,
+    "sec": 59.75,
+    "scroll": 20.1875,
+    "slow": 0,
+    "inp": 0,
+    "delay": 0
+   },
+   {
+    "k": "/news/thanksgiving-football-schedule-2026-nfl-college-games/",
+    "n": 15,
+    "sec": 51.2,
+    "scroll": 17,
+    "slow": 0,
+    "inp": 0,
+    "delay": 0
+   },
+   {
+    "k": "/news/nations-championship-rugby-november-2026-fixtures-kick-off-times-uk-us/",
+    "n": 13,
+    "sec": 81.07692307692308,
+    "scroll": 29.692307692307693,
+    "slow": 0,
+    "inp": 0,
+    "delay": 0
+   },
+   {
+    "k": "/news/cbs-holiday-specials-2026-schedule-kids-choice-awards-soul-train-new-years-eve/",
+    "n": 12,
+    "sec": 59.166666666666664,
+    "scroll": 41.833333333333336,
+    "slow": 0,
+    "inp": 0,
+    "delay": 0
+   },
+   {
+    "k": "/news/black-friday-2026-post-office-banks-stock-market-open/",
+    "n": 12,
+    "sec": 5.25,
+    "scroll": 21.5,
+    "slow": 0,
+    "inp": 0,
+    "delay": 0
+   },
+   {
+    "k": "/news/nyt-connections-hints-answers-november-8-2026-1246/",
+    "n": 11,
+    "sec": 82.27272727272727,
+    "scroll": 19.454545454545453,
+    "slow": 0,
+    "inp": 0,
+    "delay": 0
    },
    {
     "k": "/news/ncaa-volleyball-tournament-2026-bracket-schedule-final-four-san-antonio/",
-    "n": 2,
-    "sec": 114.5,
-    "scroll": 20.5
+    "n": 11,
+    "sec": 44.90909090909091,
+    "scroll": 17.454545454545453,
+    "slow": 0,
+    "inp": 0,
+    "delay": 0
+   },
+   {
+    "k": "/news/nyt-pips-hints-answers-november-8-2026/",
+    "n": 11,
+    "sec": 21.09090909090909,
+    "scroll": 27.09090909090909,
+    "slow": 0,
+    "inp": 0,
+    "delay": 0
+   },
+   {
+    "k": "/news/printable-nfl-pickem-sheets-2026/",
+    "n": 10,
+    "sec": 13.8,
+    "scroll": 16.3,
+    "slow": 0,
+    "inp": 0,
+    "delay": 0
    },
    {
     "k": "/news/world-chess-championship-2026-gukesh-sindarov-geneva-dates-time/",
-    "n": 2,
+    "n": 9,
+    "sec": 4.888888888888889,
+    "scroll": 22.555555555555557,
+    "slow": 0,
+    "inp": 0,
+    "delay": 0
+   },
+   {
+    "k": "/news/when-do-2026-election-winners-take-office-congress-governors/",
+    "n": 9,
+    "sec": 66.44444444444444,
+    "scroll": 23.88888888888889,
+    "slow": 0,
+    "inp": 0,
+    "delay": 0
+   },
+   {
+    "k": "/news/costco-holiday-hours-closures-2026-2027/",
+    "n": 9,
+    "sec": 33.22222222222222,
+    "scroll": 20.11111111111111,
+    "slow": 0,
+    "inp": 0,
+    "delay": 0
+   },
+   {
+    "k": "/news/nyt-midi-crossword-answers-november-7-2026/",
+    "n": 8,
+    "sec": 19.375,
+    "scroll": 28.75,
+    "slow": 0,
+    "inp": 0,
+    "delay": 0
+   },
+   {
+    "k": "/news/2027-tax-brackets-401k-hsa-limits-irs/",
+    "n": 8,
+    "sec": 13.75,
+    "scroll": 69.625,
+    "slow": 0,
+    "inp": 0,
+    "delay": 0
+   },
+   {
+    "k": "/news/diwali-2026-date-lakshmi-puja-time-usa/",
+    "n": 8,
+    "sec": 42.5,
+    "scroll": 19.375,
+    "slow": 0,
+    "inp": 0,
+    "delay": 0
+   },
+   {
+    "k": "/news/printables/",
+    "n": 8,
+    "sec": 4.875,
+    "scroll": 5.375,
+    "slow": 0,
+    "inp": 0,
+    "delay": 0
+   },
+   {
+    "k": "/news/bonfire-night-2026-thursday-november-5-fireworks-rules/",
+    "n": 8,
+    "sec": 6.375,
+    "scroll": 13.375,
+    "slow": 0,
+    "inp": 0,
+    "delay": 0
+   },
+   {
+    "k": "/news/winter-solstice-2026-december-21-shortest-day-sunset-times/",
+    "n": 7,
+    "sec": 25.285714285714285,
+    "scroll": 7.857142857142857,
+    "slow": 0,
+    "inp": 0,
+    "delay": 0
+   },
+   {
+    "k": "/news/holiday-menus-2026-every-chain-tracker/",
+    "n": 7,
+    "sec": 33.714285714285715,
+    "scroll": 29.285714285714285,
+    "slow": 0,
+    "inp": 0,
+    "delay": 0
+   },
+   {
+    "k": "/news/ramadan-2027-calendar-dates-timetable/",
+    "n": 7,
+    "sec": 19.285714285714285,
+    "scroll": 14,
+    "slow": 0,
+    "inp": 0,
+    "delay": 0
+   },
+   {
+    "k": "/news/nyt-connections-hints-answers-november-9-2026-1247/",
+    "n": 7,
+    "sec": 37.142857142857146,
+    "scroll": 22.142857142857142,
+    "slow": 0,
+    "inp": 0,
+    "delay": 0
+   },
+   {
+    "k": "/news/snap-payment-schedule-november-2026-deposit-dates-by-state/",
+    "n": 7,
+    "sec": 41.285714285714285,
+    "scroll": 18.428571428571427,
+    "slow": 0,
+    "inp": 0,
+    "delay": 0
+   },
+   {
+    "k": "/news/black-friday-2026-ad-tracker-walmart-target-best-buy/",
+    "n": 6,
+    "sec": 399.1666666666667,
+    "scroll": 30.333333333333332,
+    "slow": 0,
+    "inp": 0,
+    "delay": 0
+   },
+   {
+    "k": "/news/great-american-christmas-2026-movie-schedule-great-american-family/",
+    "n": 6,
+    "sec": 40.166666666666664,
+    "scroll": 28.333333333333332,
+    "slow": 0,
+    "inp": 0,
+    "delay": 0
+   },
+   {
+    "k": "/news/remembrance-sunday-2026-cenotaph-timings-8-november-festival-of-remembrance/",
+    "n": 6,
+    "sec": 36.666666666666664,
+    "scroll": 28.333333333333332,
+    "slow": 0,
+    "inp": 0,
+    "delay": 0
+   },
+   {
+    "k": "/news/printable-nfl-schedule-2026-2027-pdf/",
+    "n": 6,
+    "sec": 29.833333333333332,
+    "scroll": 6.5,
+    "slow": 0,
+    "inp": 0,
+    "delay": 0
+   },
+   {
+    "k": "/news/great-british-bake-off-2026-free-from-week-tuesday-3-november-episode-schedule/",
+    "n": 5,
+    "sec": 17.6,
+    "scroll": 12.8,
+    "slow": 0,
+    "inp": 0,
+    "delay": 0
+   },
+   {
+    "k": "/news/nyt-spelling-bee-hints-answers-november-8-2026/",
+    "n": 5,
+    "sec": 11.2,
+    "scroll": 21,
+    "slow": 0,
+    "inp": 0,
+    "delay": 0
+   },
+   {
+    "k": "/news/rosa-parks-day-2026-december-1-states/",
+    "n": 5,
+    "sec": 5.4,
+    "scroll": 14.6,
+    "slow": 0,
+    "inp": 0,
+    "delay": 0
+   },
+   {
+    "k": "/news/when-are-2026-election-results-certified-deadlines-by-state/",
+    "n": 5,
+    "sec": 39.4,
+    "scroll": 15.6,
+    "slow": 0,
+    "inp": 0,
+    "delay": 0
+   },
+   {
+    "k": "/news/what-calendar-year-is-the-same-as-2027/",
+    "n": 5,
+    "sec": 24.6,
+    "scroll": 14.4,
+    "slow": 0,
+    "inp": 0,
+    "delay": 0
+   },
+   {
+    "k": "/news/category/puzzles/",
+    "n": 5,
+    "sec": 4.2,
+    "scroll": 7.8,
+    "slow": 0,
+    "inp": 0,
+    "delay": 0
+   },
+   {
+    "k": "/news/moon-phases-2027-full-moon-calendar/",
+    "n": 4,
+    "sec": 127,
+    "scroll": 34.25,
+    "slow": 0,
+    "inp": 0,
+    "delay": 0
+   },
+   {
+    "k": "/news/author/christina-gerland/",
+    "n": 4,
+    "sec": 12.75,
+    "scroll": 36.75,
+    "slow": 0,
+    "inp": 0,
+    "delay": 0
+   },
+   {
+    "k": "/news/spotify-wrapped-2026-release-date-past-launch-dates/",
+    "n": 4,
+    "sec": 7.75,
+    "scroll": 10,
+    "slow": 0,
+    "inp": 0,
+    "delay": 0
+   },
+   {
+    "k": "/news/williamson-county-schools-calendar-2026-27-breaks/",
+    "n": 4,
+    "sec": 5.25,
+    "scroll": 4,
+    "slow": 0,
+    "inp": 0,
+    "delay": 0
+   },
+   {
+    "k": "/news/little-debbie-christmas-tree-cakes-2026/",
+    "n": 4,
+    "sec": 24.75,
+    "scroll": 15.25,
+    "slow": 0,
+    "inp": 0,
+    "delay": 0
+   },
+   {
+    "k": "/news/indycar-schedule-2027-17-races-indy-500-may-30/",
+    "n": 4,
     "sec": 6.5,
-    "scroll": 40
+    "scroll": 25.25,
+    "slow": 0,
+    "inp": 0,
+    "delay": 0
+   },
+   {
+    "k": "/news/advent-calendar-2026-dates-free-printable/",
+    "n": 4,
+    "sec": 29.25,
+    "scroll": 17.75,
+    "slow": 0,
+    "inp": 0,
+    "delay": 0
+   },
+   {
+    "k": "/news/black-friday-canada-2026-november-27-sale-dates-canadian-tire-november-5/",
+    "n": 4,
+    "sec": 31.25,
+    "scroll": 28.5,
+    "slow": 0,
+    "inp": 0,
+    "delay": 0
+   },
+   {
+    "k": "/news/november-2026-important-dates-days-until/",
+    "n": 4,
+    "sec": 13,
+    "scroll": 13,
+    "slow": 0,
+    "inp": 0,
+    "delay": 0
+   },
+   {
+    "k": "/news/boxing-schedule-december-2026-fight-dates-times/",
+    "n": 4,
+    "sec": 126,
+    "scroll": 40,
+    "slow": 0,
+    "inp": 0,
+    "delay": 0
    },
    {
     "k": "/news/nyt-spelling-bee-hints-answers-november-7-2026/",
+    "n": 4,
+    "sec": 26.25,
+    "scroll": 31.75,
+    "slow": 0,
+    "inp": 0,
+    "delay": 0
+   },
+   {
+    "k": "/news/girl-scout-cookies-2027-new-cookies-season-dates/",
+    "n": 4,
+    "sec": 98.25,
+    "scroll": 48.75,
+    "slow": 0,
+    "inp": 0,
+    "delay": 0
+   },
+   {
+    "k": "/news/colorado-ballot-measures-2026-amendments-propositions-explained/",
+    "n": 4,
+    "sec": 107,
+    "scroll": 25,
+    "slow": 0,
+    "inp": 0,
+    "delay": 0
+   },
+   {
+    "k": "/news/boston-public-schools-calendar-2026-27-breaks/",
+    "n": 4,
+    "sec": 15.5,
+    "scroll": 16,
+    "slow": 0,
+    "inp": 0,
+    "delay": 0
+   },
+   {
+    "k": "/news/senior-deduction-2026-6000-age-65-phase-out/",
+    "n": 4,
+    "sec": 5,
+    "scroll": 5.75,
+    "slow": 0,
+    "inp": 0,
+    "delay": 0
+   },
+   {
+    "k": "/news/nyt-pips-hints-answers-november-7-2026/",
+    "n": 4,
+    "sec": 83.25,
+    "scroll": 20.25,
+    "slow": 0,
+    "inp": 0,
+    "delay": 0
+   },
+   {
+    "k": "/news/home-depot-black-friday-2026-sale-dates-november-5-25-store-hours/",
+    "n": 3,
+    "sec": 144.33333333333334,
+    "scroll": 35.666666666666664,
+    "slow": 0,
+    "inp": 0,
+    "delay": 0
+   },
+   {
+    "k": "/news/veterans-day-parades-2026-by-city/",
+    "n": 3,
+    "sec": 13.666666666666666,
+    "scroll": 16,
+    "slow": 0,
+    "inp": 0,
+    "delay": 0
+   },
+   {
+    "k": "/news/monday-start-vs-sunday-start-calendar/",
+    "n": 3,
+    "sec": 646,
+    "scroll": 33.666666666666664,
+    "slow": 0,
+    "inp": 0,
+    "delay": 0
+   },
+   {
+    "k": "/news/week-numbers-2027-calendar-printable/",
+    "n": 3,
+    "sec": 12,
+    "scroll": 35.666666666666664,
+    "slow": 0,
+    "inp": 0,
+    "delay": 0
+   },
+   {
+    "k": "/news/sunset-times-after-daylight-saving-time-ends-2026/",
+    "n": 3,
+    "sec": 46.666666666666664,
+    "scroll": 23.666666666666668,
+    "slow": 0,
+    "inp": 0,
+    "delay": 0
+   },
+   {
+    "k": "/news/rugby-league-world-cup-2026-semi-finals-final-schedule-kick-off-times-uk-us/",
+    "n": 3,
+    "sec": 73,
+    "scroll": 42.666666666666664,
+    "slow": 0,
+    "inp": 0,
+    "delay": 0
+   },
+   {
+    "k": "/news/wordle-hint-answer-today-november-8-2026-1968/",
+    "n": 3,
+    "sec": 20,
+    "scroll": 38.333333333333336,
+    "slow": 0,
+    "inp": 0,
+    "delay": 0
+   },
+   {
+    "k": "/news/turkey-pardon-2026-date-time-white-house/",
+    "n": 3,
+    "sec": 34,
+    "scroll": 8.333333333333334,
+    "slow": 0,
+    "inp": 0,
+    "delay": 0
+   },
+   {
+    "k": "/news/grey-cup-2026-date-kickoff-time-calgary-cfl-playoffs/",
+    "n": 3,
+    "sec": 38,
+    "scroll": 6.666666666666667,
+    "slow": 0,
+    "inp": 0,
+    "delay": 0
+   },
+   {
+    "k": "/news/euro-2028-qualifying-draw-date-time-belfast/",
+    "n": 3,
+    "sec": 4,
+    "scroll": 0,
+    "slow": 0,
+    "inp": 0,
+    "delay": 0
+   },
+   {
+    "k": "/news/lego-advent-calendars-2026-prices-whats-inside/",
+    "n": 3,
+    "sec": 51,
+    "scroll": 39,
+    "slow": 0,
+    "inp": 0,
+    "delay": 0
+   },
+   {
+    "k": "/news/national-dog-show-2026-thanksgiving-time-tv-channel-peacock-oaks-tickets/",
+    "n": 3,
+    "sec": 16.666666666666668,
+    "scroll": 6.333333333333333,
+    "slow": 0,
+    "inp": 0,
+    "delay": 0
+   },
+   {
+    "k": "/news/ihsaa-football-tournament-2026-schedule-sectionals-regionals-state-finals/",
+    "n": 3,
+    "sec": 94.66666666666667,
+    "scroll": 47,
+    "slow": 0,
+    "inp": 0,
+    "delay": 0
+   },
+   {
+    "k": "/news/hunger-and-homelessness-awareness-week-2026-november-15-21/",
+    "n": 3,
+    "sec": 0.3333333333333333,
+    "scroll": 0,
+    "slow": 0,
+    "inp": 0,
+    "delay": 0
+   },
+   {
+    "k": "/news/wordle-hint-answer-today-november-9-2026-1969/",
+    "n": 3,
+    "sec": 19.333333333333332,
+    "scroll": 24,
+    "slow": 0,
+    "inp": 0,
+    "delay": 0
+   },
+   {
+    "k": "/news/dongzhi-festival-2026-december-22-winter-solstice/",
+    "n": 3,
+    "sec": 7.333333333333333,
+    "scroll": 30,
+    "slow": 0,
+    "inp": 0,
+    "delay": 0
+   },
+   {
+    "k": "/news/sephora-savings-event-november-2026-dates-ulta-black-friday-beauty-sales/",
     "n": 2,
-    "sec": 51.5,
-    "scroll": 46
+    "sec": 7,
+    "scroll": 6,
+    "slow": 0,
+    "inp": 0,
+    "delay": 0
+   },
+   {
+    "k": "/news/cpkc-holiday-train-2026-schedule-stops-times/",
+    "n": 2,
+    "sec": 15,
+    "scroll": 3,
+    "slow": 0,
+    "inp": 0,
+    "delay": 0
+   },
+   {
+    "k": "/news/jobs-report-november-6-2026-time-bls-release-schedule-2027/",
+    "n": 2,
+    "sec": 351.5,
+    "scroll": 25.5,
+    "slow": 0,
+    "inp": 0,
+    "delay": 0
+   },
+   {
+    "k": "/news/norad-tracks-santa-2026-when-tracking-starts-phone-number/",
+    "n": 2,
+    "sec": 18.5,
+    "scroll": 20,
+    "slow": 0,
+    "inp": 0,
+    "delay": 0
+   },
+   {
+    "k": "/news/nyt-midi-crossword-answers-november-6-2026/",
+    "n": 2,
+    "sec": 5.5,
+    "scroll": 29.5,
+    "slow": 0,
+    "inp": 0,
+    "delay": 0
+   },
+   {
+    "k": "/news/blossom-word-game-answers-november-7-2026/",
+    "n": 2,
+    "sec": 5.5,
+    "scroll": 32,
+    "slow": 0,
+    "inp": 0,
+    "delay": 0
+   },
+   {
+    "k": "/news/wwe-events-december-2026-dates-start-times/",
+    "n": 2,
+    "sec": 18,
+    "scroll": 5.5,
+    "slow": 0,
+    "inp": 0,
+    "delay": 0
+   },
+   {
+    "k": "/news/chinese-lunar-calendar-2027-months-no-leap-month/",
+    "n": 2,
+    "sec": 4.5,
+    "scroll": 2,
+    "slow": 0,
+    "inp": 0,
+    "delay": 0
+   },
+   {
+    "k": "/news/government-funding-deadline-december-11-2026-shutdown/",
+    "n": 2,
+    "sec": 45,
+    "scroll": 27.5,
+    "slow": 0,
+    "inp": 0,
+    "delay": 0
+   },
+   {
+    "k": "/news/nyt-spelling-bee-hints-answers-november-4-2026/",
+    "n": 2,
+    "sec": 26,
+    "scroll": 50,
+    "slow": 0,
+    "inp": 0,
+    "delay": 0
+   },
+   {
+    "k": "/news/sonic-holiday-menu-2026-santa-slush-float/",
+    "n": 2,
+    "sec": 15.5,
+    "scroll": 19,
+    "slow": 0,
+    "inp": 0,
+    "delay": 0
+   },
+   {
+    "k": "/news/fortnite-chapter-7-end-event-december-5-2026-time/",
+    "n": 2,
+    "sec": 8.5,
+    "scroll": 7,
+    "slow": 0,
+    "inp": 0,
+    "delay": 0
+   },
+   {
+    "k": "/news/sat-november-7-2026-test-day-checklist-what-to-bring-score-release-date/",
+    "n": 2,
+    "sec": 36,
+    "scroll": 12,
+    "slow": 0,
+    "inp": 0,
+    "delay": 0
+   },
+   {
+    "k": "/news/category/retail-dates/",
+    "n": 2,
+    "sec": 1,
+    "scroll": 0,
+    "slow": 0,
+    "inp": 0,
+    "delay": 0
+   },
+   {
+    "k": "/news/high-school-football-state-championships-2026-dates-by-state/",
+    "n": 2,
+    "sec": 16,
+    "scroll": 2,
+    "slow": 0,
+    "inp": 0,
+    "delay": 0
+   },
+   {
+    "k": "/news/fenwick-christmas-window-2026-newcastle-public-viewing-monday-2-november/",
+    "n": 2,
+    "sec": 79,
+    "scroll": 53,
+    "slow": 0,
+    "inp": 0,
+    "delay": 0
+   },
+   {
+    "k": "/news/survivor-series-wargames-2026-date-start-time-houston-espn/",
+    "n": 2,
+    "sec": 8.5,
+    "scroll": 9,
+    "slow": 0,
+    "inp": 0,
+    "delay": 0
+   },
+   {
+    "k": "/news/planets-visible-november-2026-night-sky-calendar-moon-venus-uranus-opposition/",
+    "n": 2,
+    "sec": 48.5,
+    "scroll": 63.5,
+    "slow": 0,
+    "inp": 0,
+    "delay": 0
+   },
+   {
+    "k": "/news/nascar-championship-2026-homestead-start-time-tv-schedule/",
+    "n": 2,
+    "sec": 23,
+    "scroll": 5,
+    "slow": 0,
+    "inp": 0,
+    "delay": 0
+   },
+   {
+    "k": "/news/orange-county-public-schools-calendar-2026-27-breaks-holidays/",
+    "n": 2,
+    "sec": 79,
+    "scroll": 13,
+    "slow": 0,
+    "inp": 0,
+    "delay": 0
+   },
+   {
+    "k": "/news/botanical-garden-holiday-lights-2026-dates-nybg-atlanta-longwood-denver-brooklyn/",
+    "n": 2,
+    "sec": 36.5,
+    "scroll": 28.5,
+    "slow": 0,
+    "inp": 0,
+    "delay": 0
+   },
+   {
+    "k": "/news/seasons-2027-equinox-solstice-dates-times/",
+    "n": 2,
+    "sec": 43.5,
+    "scroll": 11.5,
+    "slow": 0,
+    "inp": 0,
+    "delay": 0
+   },
+   {
+    "k": "/news/lausd-calendar-2026-27-winter-break-spring-break/",
+    "n": 2,
+    "sec": 5,
+    "scroll": 5,
+    "slow": 0,
+    "inp": 0,
+    "delay": 0
+   },
+   {
+    "k": "/news/nfl-week-9-schedule-2026-printable-pick-em-sheet-game-times/",
+    "n": 2,
+    "sec": 10.5,
+    "scroll": 21.5,
+    "slow": 0,
+    "inp": 0,
+    "delay": 0
+   },
+   {
+    "k": "/news/federal-benefits-open-season-2026-dates-fehb-premiums/",
+    "n": 2,
+    "sec": 0.5,
+    "scroll": 0,
+    "slow": 0,
+    "inp": 0,
+    "delay": 0
+   },
+   {
+    "k": "/news/pret-christmas-menu-2026/",
+    "n": 2,
+    "sec": 45,
+    "scroll": 46,
+    "slow": 0,
+    "inp": 0,
+    "delay": 0
+   },
+   {
+    "k": "/news/hyde-park-winter-wonderland-2026-dates-opening-times-tickets/",
+    "n": 2,
+    "sec": 15,
+    "scroll": 0,
+    "slow": 0,
+    "inp": 0,
+    "delay": 0
+   },
+   {
+    "k": "/news/panera-holiday-menu-2026-peppermint-pistachio-white-mocha-snowman-cup/",
+    "n": 2,
+    "sec": 55,
+    "scroll": 23.5,
+    "slow": 0,
+    "inp": 0,
+    "delay": 0
+   },
+   {
+    "k": "/news/lord-mayors-show-2026-date-time-route-november-14/",
+    "n": 2,
+    "sec": 23,
+    "scroll": 9.5,
+    "slow": 0,
+    "inp": 0,
+    "delay": 0
+   },
+   {
+    "k": "/news/aaa-tow-to-go-2026-thanksgiving-christmas-free-tow-ride-home/",
+    "n": 2,
+    "sec": 9.5,
+    "scroll": 0,
+    "slow": 0,
+    "inp": 0,
+    "delay": 0
+   },
+   {
+    "k": "/news/leander-isd-calendar-2026-27-breaks/",
+    "n": 2,
+    "sec": 1,
+    "scroll": 0,
+    "slow": 0,
+    "inp": 0,
+    "delay": 0
+   },
+   {
+    "k": "/news/world-toilet-day-2026-november-19/",
+    "n": 2,
+    "sec": 3.5,
+    "scroll": 0,
+    "slow": 0,
+    "inp": 0,
+    "delay": 0
+   },
+   {
+    "k": "/news/veterans-day-printables-2026-activity-sheet-quiz-thank-you-note/",
+    "n": 2,
+    "sec": 15.5,
+    "scroll": 56,
+    "slow": 0,
+    "inp": 0,
+    "delay": 0
+   },
+   {
+    "k": "/news/atp-finals-2026-turin-dates-schedule-time-zones-tv-qualified-players/",
+    "n": 2,
+    "sec": 164.5,
+    "scroll": 28.5,
+    "slow": 0,
+    "inp": 0,
+    "delay": 0
+   },
+   {
+    "k": "/news/columbus-city-schools-calendar-2026-27-breaks/",
+    "n": 2,
+    "sec": 10.5,
+    "scroll": 51.5,
+    "slow": 0,
+    "inp": 0,
+    "delay": 0
+   },
+   {
+    "k": "/news/powerball-drawing-tonight-monday-november-2-2026-time-jackpot-793-million/",
+    "n": 2,
+    "sec": 18,
+    "scroll": 12,
+    "slow": 0,
+    "inp": 0,
+    "delay": 0
+   },
+   {
+    "k": "/news/category/money-benefits/",
+    "n": 2,
+    "sec": 37,
+    "scroll": 4,
+    "slow": 0,
+    "inp": 0,
+    "delay": 0
+   },
+   {
+    "k": "/news/operation-christmas-child-2026-national-collection-week-drop-off/",
+    "n": 2,
+    "sec": 717.5,
+    "scroll": 31,
+    "slow": 0,
+    "inp": 0,
+    "delay": 0
    },
    {
     "k": "/news/moon-phase-tonight-december-2026-moon-calendar/",
     "n": 2,
     "sec": 6.5,
-    "scroll": 44.5
+    "scroll": 44.5,
+    "slow": 0,
+    "inp": 0,
+    "delay": 0
    },
    {
-    "k": "/news/nyt-pips-hints-answers-november-8-2026/",
+    "k": "/news/topic/quordle/",
+    "n": 2,
+    "sec": 13,
+    "scroll": 83.5,
+    "slow": 0,
+    "inp": 0,
+    "delay": 0
+   },
+   {
+    "k": "/news/topic/wordle/",
+    "n": 2,
+    "sec": 6.5,
+    "scroll": 9,
+    "slow": 0,
+    "inp": 0,
+    "delay": 0
+   },
+   {
+    "k": "/news/topic/blossom/",
+    "n": 2,
+    "sec": 7,
+    "scroll": 95.5,
+    "slow": 0,
+    "inp": 0,
+    "delay": 0
+   },
+   {
+    "k": "/news/how-often-does-the-calendar-repeat/",
+    "n": 2,
+    "sec": 20,
+    "scroll": 13.5,
+    "slow": 0,
+    "inp": 0,
+    "delay": 0
+   },
+   {
+    "k": "/news/liga-mx-liguilla-apertura-2026-dates-quarterfinals-semifinals-final-schedule/",
+    "n": 2,
+    "sec": 9.5,
+    "scroll": 6.5,
+    "slow": 0,
+    "inp": 0,
+    "delay": 0
+   },
+   {
+    "k": "/news/remembrance-day-2026-canada-statutory-holiday-remembrance-sunday-uk/",
+    "n": 2,
+    "sec": 7.5,
+    "scroll": 6,
+    "slow": 0,
+    "inp": 0,
+    "delay": 0
+   },
+   {
+    "k": "/news/nyc-public-schools-calendar-2026-27-breaks-holidays/",
+    "n": 2,
+    "sec": 17.5,
+    "scroll": 47.5,
+    "slow": 0,
+    "inp": 0,
+    "delay": 0
+   },
+   {
+    "k": "/news/page/53/",
     "n": 1,
-    "sec": 3,
-    "scroll": 0
+    "sec": 1,
+    "scroll": 0,
+    "slow": 0,
+    "inp": 0,
+    "delay": 0
    },
    {
-    "k": "/news/thanksgiving-football-schedule-2026-nfl-college-games/",
+    "k": "/news/quordle-hints-answers-november-7-2026-1748/",
+    "n": 1,
+    "sec": 4,
+    "scroll": 23,
+    "slow": 0,
+    "inp": 0,
+    "delay": 0
+   },
+   {
+    "k": "/news/ballot-cure-deadlines-2026-fix-mail-ballot-signature/",
+    "n": 1,
+    "sec": 5,
+    "scroll": 9,
+    "slow": 0,
+    "inp": 0,
+    "delay": 0
+   },
+   {
+    "k": "/news/christkindlmarket-chicago-2026-dates-hours-wrigleyville-aurora-mugs/",
+    "n": 1,
+    "sec": 111,
+    "scroll": 33,
+    "slow": 0,
+    "inp": 0,
+    "delay": 0
+   },
+   {
+    "k": "/news/holiday-soda-flavors-2026-pepsi-vanilla-cream-coca-cola/",
+    "n": 1,
+    "sec": 8,
+    "scroll": 15,
+    "slow": 0,
+    "inp": 0,
+    "delay": 0
+   },
+   {
+    "k": "/news/catholic-liturgical-calendar-2027-year-b/",
+    "n": 1,
+    "sec": 203,
+    "scroll": 76,
+    "slow": 0,
+    "inp": 0,
+    "delay": 0
+   },
+   {
+    "k": "/news/killington-cup-2026-world-cup-ski-race-times-tv/",
+    "n": 1,
+    "sec": 57,
+    "scroll": 81,
+    "slow": 0,
+    "inp": 0,
+    "delay": 0
+   },
+   {
+    "k": "/news/what-is-iso-8601/",
+    "n": 1,
+    "sec": 1,
+    "scroll": 0,
+    "slow": 0,
+    "inp": 0,
+    "delay": 0
+   },
+   {
+    "k": "/news/volusia-county-schools-calendar-2026-27-breaks/",
+    "n": 1,
+    "sec": 12,
+    "scroll": 20,
+    "slow": 0,
+    "inp": 0,
+    "delay": 0
+   },
+   {
+    "k": "/news/new-movies-in-theaters-november-2026-release-dates-hunger-games-hexed/",
+    "n": 1,
+    "sec": 15,
+    "scroll": 0,
+    "slow": 0,
+    "inp": 0,
+    "delay": 0
+   },
+   {
+    "k": "/news/act-december-12-2026-registration-deadline-november-6/",
+    "n": 1,
+    "sec": 127,
+    "scroll": 35,
+    "slow": 0,
+    "inp": 0,
+    "delay": 0
+   },
+   {
+    "k": "/news/dependent-care-fsa-limit-2026-2027-7500/",
+    "n": 1,
+    "sec": 5,
+    "scroll": 57,
+    "slow": 0,
+    "inp": 0,
+    "delay": 0
+   },
+   {
+    "k": "/news/nyt-spelling-bee-hints-answers-november-9-2026/",
+    "n": 1,
+    "sec": 9,
+    "scroll": 94,
+    "slow": 0,
+    "inp": 0,
+    "delay": 0
+   },
+   {
+    "k": "/news/iheartradio-jingle-ball-2026-dates-lineup-by-city-abc-special/",
+    "n": 1,
+    "sec": 17,
+    "scroll": 16,
+    "slow": 0,
+    "inp": 0,
+    "delay": 0
+   },
+   {
+    "k": "/news/author/aaron-kessler/",
+    "n": 1,
+    "sec": 12,
+    "scroll": 32,
+    "slow": 0,
+    "inp": 0,
+    "delay": 0
+   },
+   {
+    "k": "/news/knicks-schedule-december-2026-game-times-tv-christmas-printable/",
+    "n": 1,
+    "sec": 40,
+    "scroll": 41,
+    "slow": 0,
+    "inp": 0,
+    "delay": 0
+   },
+   {
+    "k": "/news/nyt-midi-crossword-answers-november-8-2026/",
+    "n": 1,
+    "sec": 6,
+    "scroll": 11,
+    "slow": 0,
+    "inp": 0,
+    "delay": 0
+   },
+   {
+    "k": "/news/holy-days-of-obligation-2027-us-dates/",
+    "n": 1,
+    "sec": 74,
+    "scroll": 28,
+    "slow": 0,
+    "inp": 0,
+    "delay": 0
+   },
+   {
+    "k": "/news/nfl-week-10-schedule-2026-printable-pick-em-sheet-game-times/",
+    "n": 1,
+    "sec": 27,
+    "scroll": 82,
+    "slow": 0,
+    "inp": 0,
+    "delay": 0
+   },
+   {
+    "k": "/news/rangers-schedule-november-2026-game-times-tv-printable/",
+    "n": 1,
+    "sec": 12,
+    "scroll": 14,
+    "slow": 0,
+    "inp": 0,
+    "delay": 0
+   },
+   {
+    "k": "/news/nfl-week-18-schedule-2026-printable-pick-em-sheet-game-times/",
+    "n": 1,
+    "sec": 5,
+    "scroll": 0,
+    "slow": 0,
+    "inp": 0,
+    "delay": 0
+   },
+   {
+    "k": "/news/premier-league-fixtures-november-21-29-2026-kickoff-times-tv/",
+    "n": 1,
+    "sec": 18,
+    "scroll": 12,
+    "slow": 0,
+    "inp": 0,
+    "delay": 0
+   },
+   {
+    "k": "/news/american-education-week-2026-november-16-20-daily-themes/",
+    "n": 1,
+    "sec": 40,
+    "scroll": 63,
+    "slow": 0,
+    "inp": 0,
+    "delay": 0
+   },
+   {
+    "k": "/news/native-american-heritage-month-2026-theme-events-books-activities/",
+    "n": 1,
+    "sec": 0,
+    "scroll": 0,
+    "slow": 0,
+    "inp": 0,
+    "delay": 0
+   },
+   {
+    "k": "/news/macys-thanksgiving-day-parade-2026-start-time-route-tv-balloons/",
+    "n": 1,
+    "sec": 7,
+    "scroll": 3,
+    "slow": 0,
+    "inp": 0,
+    "delay": 0
+   },
+   {
+    "k": "/news/veterans-day-2026-wednesday-november-11/",
+    "n": 1,
+    "sec": 8,
+    "scroll": 100,
+    "slow": 0,
+    "inp": 0,
+    "delay": 0
+   },
+   {
+    "k": "/news/free-rides-to-the-polls-2026-lyft-uber-transit/",
+    "n": 1,
+    "sec": 1,
+    "scroll": 0,
+    "slow": 0,
+    "inp": 0,
+    "delay": 0
+   },
+   {
+    "k": "/news/fomc-meeting-dates-2027-fed-schedule-december-2026/",
+    "n": 1,
+    "sec": 1,
+    "scroll": 0,
+    "slow": 0,
+    "inp": 0,
+    "delay": 0
+   },
+   {
+    "k": "/news/nevada-ballot-questions-2026-question-6-question-7-explained/",
+    "n": 1,
+    "sec": 35,
+    "scroll": 23,
+    "slow": 0,
+    "inp": 0,
+    "delay": 0
+   },
+   {
+    "k": "/news/waffle-answer-hints-today-november-7-2026-1751/",
+    "n": 1,
+    "sec": 5,
+    "scroll": 47,
+    "slow": 0,
+    "inp": 0,
+    "delay": 0
+   },
+   {
+    "k": "/news/santa-claus-parades-2026-canada-hamilton-mississauga-halifax-winnipeg/",
+    "n": 1,
+    "sec": 1800,
+    "scroll": 37,
+    "slow": 0,
+    "inp": 0,
+    "delay": 0
+   },
+   {
+    "k": "/news/godzilla-minus-zero-release-date-imax-november-3-nationwide-november-6/",
+    "n": 1,
+    "sec": 10,
+    "scroll": 11,
+    "slow": 0,
+    "inp": 0,
+    "delay": 0
+   },
+   {
+    "k": "/news/is-christmas-eve-a-federal-holiday-2026/",
+    "n": 1,
+    "sec": 11,
+    "scroll": 23,
+    "slow": 0,
+    "inp": 0,
+    "delay": 0
+   },
+   {
+    "k": "/news/tesco-christmas-delivery-slots-2026-booking-dates-uk-supermarkets/",
+    "n": 1,
+    "sec": 124,
+    "scroll": 89,
+    "slow": 0,
+    "inp": 0,
+    "delay": 0
+   },
+   {
+    "k": "/news/kennedy-center-honors-2026-date-december-7-capital-one-arena-broadcast/",
+    "n": 1,
+    "sec": 47,
+    "scroll": 32,
+    "slow": 0,
+    "inp": 0,
+    "delay": 0
+   },
+   {
+    "k": "/news/monday-night-football-tonight-bills-vikings-mnf-november-9-2026/",
+    "n": 1,
+    "sec": 34,
+    "scroll": 7,
+    "slow": 0,
+    "inp": 0,
+    "delay": 0
+   },
+   {
+    "k": "/news/blossom-word-game-answers-november-6-2026/",
+    "n": 1,
+    "sec": 11,
+    "scroll": 0,
+    "slow": 0,
+    "inp": 0,
+    "delay": 0
+   },
+   {
+    "k": "/news/burns-night-2027-january-25-burns-supper-order-of-events/",
+    "n": 1,
+    "sec": 10,
+    "scroll": 17,
+    "slow": 0,
+    "inp": 0,
+    "delay": 0
+   },
+   {
+    "k": "/news/london-new-years-day-parade-2027-start-time-route-tickets/",
+    "n": 1,
+    "sec": 20,
+    "scroll": 9,
+    "slow": 0,
+    "inp": 0,
+    "delay": 0
+   },
+   {
+    "k": "/news/christmas-2026-calendar-printable-countdown/",
+    "n": 1,
+    "sec": 104,
+    "scroll": 50,
+    "slow": 0,
+    "inp": 0,
+    "delay": 0
+   },
+   {
+    "k": "/news/pokemon-go-november-2026-events-calendar-community-day-pawniard/",
+    "n": 1,
+    "sec": 2,
+    "scroll": 0,
+    "slow": 0,
+    "inp": 0,
+    "delay": 0
+   },
+   {
+    "k": "/news/united-cup-2027-dates-schedule-time-zones/",
     "n": 1,
     "sec": 21,
-    "scroll": 47
+    "scroll": 24,
+    "slow": 0,
+    "inp": 0,
+    "delay": 0
    },
    {
-    "k": "/news/ramadan-2027-calendar-dates-timetable/",
+    "k": "/news/nyt-mini-crossword-answers-november-7-2026/",
     "n": 1,
-    "sec": 49,
-    "scroll": 23
-   },
-   {
-    "k": "/news/savers-match-2027-1000-federal-match-income-limits/",
-    "n": 1,
-    "sec": 3,
-    "scroll": 9
+    "sec": 69,
+    "scroll": 53,
+    "slow": 0,
+    "inp": 0,
+    "delay": 0
    },
    {
     "k": "/news/category/sky-events/",
     "n": 1,
     "sec": 15,
-    "scroll": 0
+    "scroll": 0,
+    "slow": 0,
+    "inp": 0,
+    "delay": 0
    },
    {
-    "k": "/news/london-fireworks-2026-battersea-alexandra-palace-blackheath-wimbledon-times-tickets/",
+    "k": "/news/royal-agricultural-winter-fair-2026-dates-hours-horse-show-toronto/",
+    "n": 1,
+    "sec": 88,
+    "scroll": 47,
+    "slow": 0,
+    "inp": 0,
+    "delay": 0
+   },
+   {
+    "k": "/news/lifetime-christmas-movies-2026-schedule-its-a-wonderful-lifetime/",
+    "n": 1,
+    "sec": 4,
+    "scroll": 3,
+    "slow": 0,
+    "inp": 0,
+    "delay": 0
+   },
+   {
+    "k": "/news/downloads/bonfire-night-2026/london-fireworks-planner-2026",
+    "n": 1,
+    "sec": 1,
+    "scroll": 0,
+    "slow": 0,
+    "inp": 0,
+    "delay": 0
+   },
+   {
+    "k": "/news/ottawa-santa-claus-parade-2026-november-21-route-time/",
+    "n": 1,
+    "sec": 77,
+    "scroll": 52,
+    "slow": 0,
+    "inp": 0,
+    "delay": 0
+   },
+   {
+    "k": "/news/starbucks-holiday-menu-2026-red-cup-day-date/",
+    "n": 1,
+    "sec": 43,
+    "scroll": 22,
+    "slow": 0,
+    "inp": 0,
+    "delay": 0
+   },
+   {
+    "k": "/news/turkey-trot-2026-start-times-thanksgiving-races-by-city/",
+    "n": 1,
+    "sec": 228,
+    "scroll": 51,
+    "slow": 0,
+    "inp": 0,
+    "delay": 0
+   },
+   {
+    "k": "/news/nyt-strands-hints-answers-november-7-2026-979/",
+    "n": 1,
+    "sec": 0,
+    "scroll": 0,
+    "slow": 0,
+    "inp": 0,
+    "delay": 0
+   },
+   {
+    "k": "/news/contexto-answer-hints-november-9-2026-1513/",
+    "n": 1,
+    "sec": 2,
+    "scroll": 0,
+    "slow": 0,
+    "inp": 0,
+    "delay": 0
+   },
+   {
+    "k": "/news/maine-ranked-choice-voting-2026-senate-house-how-it-works/",
+    "n": 1,
+    "sec": 1,
+    "scroll": 0,
+    "slow": 0,
+    "inp": 0,
+    "delay": 0
+   },
+   {
+    "k": "/news/nyt-midi-crossword-answers-november-4-2026/",
+    "n": 1,
+    "sec": 1,
+    "scroll": 19,
+    "slow": 0,
+    "inp": 0,
+    "delay": 0
+   },
+   {
+    "k": "/news/college-football-rivalry-week-2026-iron-bowl-the-game-egg-bowl-times-tv/",
+    "n": 1,
+    "sec": 10,
+    "scroll": 2,
+    "slow": 0,
+    "inp": 0,
+    "delay": 0
+   },
+   {
+    "k": "/news/nba-cup-2026-schedule-dates-group-play-knockouts-final-indianapolis/",
+    "n": 1,
+    "sec": 152,
+    "scroll": 65,
+    "slow": 0,
+    "inp": 0,
+    "delay": 0
+   },
+   {
+    "k": "/news/sports-on-tv-today-november-2-2026/",
+    "n": 1,
+    "sec": 2,
+    "scroll": 0,
+    "slow": 0,
+    "inp": 0,
+    "delay": 0
+   },
+   {
+    "k": "/news/uk-snooker-championship-2026-schedule-session-times-tv/",
     "n": 1,
     "sec": 60,
-    "scroll": 27
+    "scroll": 70,
+    "slow": 0,
+    "inp": 0,
+    "delay": 0
    },
    {
-    "k": "/news/black-friday-canada-2026-november-27-sale-dates-canadian-tire-november-5/",
-    "n": 1,
-    "sec": 27,
-    "scroll": 16
-   },
-   {
-    "k": "/news/survivor-series-wargames-2026-date-start-time-houston-espn/",
+    "k": "/news/netflix-christmas-movies-2026-release-dates-holiday-watch-list/",
     "n": 1,
     "sec": 8,
-    "scroll": 11
+    "scroll": 16,
+    "slow": 0,
+    "inp": 0,
+    "delay": 0
    },
    {
-    "k": "/news/pret-christmas-menu-2026/",
+    "k": "/news/supercross-2027-schedule-anaheim-january-9-every-round/",
     "n": 1,
-    "sec": 49,
-    "scroll": 53
+    "sec": 2,
+    "scroll": 0,
+    "slow": 0,
+    "inp": 0,
+    "delay": 0
    },
    {
-    "k": "/news/boston-public-schools-calendar-2026-27-breaks/",
+    "k": "/news/nba-games-today-november-2-2026/",
     "n": 1,
-    "sec": 25,
-    "scroll": 12
+    "sec": 1,
+    "scroll": 0,
+    "slow": 0,
+    "inp": 0,
+    "delay": 0
+   },
+   {
+    "k": "/news/wordle-hint-answer-today-november-7-2026-1967/",
+    "n": 1,
+    "sec": 65,
+    "scroll": 30,
+    "slow": 0,
+    "inp": 0,
+    "delay": 0
+   },
+   {
+    "k": "/news/world-kindness-day-2026-friday-november-13-kindness-dates-printable/",
+    "n": 1,
+    "sec": 24,
+    "scroll": 41,
+    "slow": 0,
+    "inp": 0,
+    "delay": 0
+   },
+   {
+    "k": "/news/gocps-2027-28-application-deadline-november-13-offers/",
+    "n": 1,
+    "sec": 2,
+    "scroll": 3,
+    "slow": 0,
+    "inp": 0,
+    "delay": 0
+   },
+   {
+    "k": "/news/nyt-pips-hints-answers-november-5-2026/",
+    "n": 1,
+    "sec": 7,
+    "scroll": 0,
+    "slow": 0,
+    "inp": 0,
+    "delay": 0
+   },
+   {
+    "k": "/news/why-thanksgiving-2026-is-november-26/",
+    "n": 1,
+    "sec": 4,
+    "scroll": 4,
+    "slow": 0,
+    "inp": 0,
+    "delay": 0
+   },
+   {
+    "k": "/news/is-12-noon-am-or-pm-midnight/",
+    "n": 1,
+    "sec": 330,
+    "scroll": 78,
+    "slow": 0,
+    "inp": 0,
+    "delay": 0
+   },
+   {
+    "k": "/news/st-patricks-day-2027-wednesday-march-17-parades-by-city/",
+    "n": 1,
+    "sec": 29,
+    "scroll": 8,
+    "slow": 0,
+    "inp": 0,
+    "delay": 0
+   },
+   {
+    "k": "/news/champions-league-november-2026-schedule-kickoff-times-et-matchday-4-5/",
+    "n": 1,
+    "sec": 2,
+    "scroll": 0,
+    "slow": 0,
+    "inp": 0,
+    "delay": 0
+   },
+   {
+    "k": "/news/small-business-saturday-2026-participating-stores-events/",
+    "n": 1,
+    "sec": 147,
+    "scroll": 66,
+    "slow": 0,
+    "inp": 0,
+    "delay": 0
+   },
+   {
+    "k": "/news/outback-steakhouse-closing-locations-list-2026/",
+    "n": 1,
+    "sec": 132,
+    "scroll": 70,
+    "slow": 0,
+    "inp": 0,
+    "delay": 0
+   },
+   {
+    "k": "/news/secret-santa-2026-printable/",
+    "n": 1,
+    "sec": 7,
+    "scroll": 7,
+    "slow": 0,
+    "inp": 0,
+    "delay": 0
+   },
+   {
+    "k": "/news/boxing-day-test-2026-australia-vs-new-zealand-mcg-start-times/",
+    "n": 1,
+    "sec": 1,
+    "scroll": 0,
+    "slow": 0,
+    "inp": 0,
+    "delay": 0
+   },
+   {
+    "k": "/news/mcdonalds-pokemon-happy-meal-2026-release-date-toys-cards/",
+    "n": 1,
+    "sec": 29,
+    "scroll": 59,
+    "slow": 0,
+    "inp": 0,
+    "delay": 0
+   },
+   {
+    "k": "/news/seminole-county-public-schools-calendar-2026-27-breaks/",
+    "n": 1,
+    "sec": 2,
+    "scroll": 0,
+    "slow": 0,
+    "inp": 0,
+    "delay": 0
+   },
+   {
+    "k": "/news/sample-ballot-by-zip-code-2026-texas-ballot/",
+    "n": 1,
+    "sec": 37,
+    "scroll": 0,
+    "slow": 0,
+    "inp": 0,
+    "delay": 0
+   },
+   {
+    "k": "/news/election-night-2026-tv-schedule-how-to-watch-results/",
+    "n": 1,
+    "sec": 5,
+    "scroll": 3,
+    "slow": 0,
+    "inp": 0,
+    "delay": 0
+   },
+   {
+    "k": "/news/soccer-on-tv-this-weekend-october-30-november-2-2026-us-channels/",
+    "n": 1,
+    "sec": 1,
+    "scroll": 0,
+    "slow": 0,
+    "inp": 0,
+    "delay": 0
+   },
+   {
+    "k": "/news/europa-league-conference-league-november-2026-schedule-kickoff-times-et/",
+    "n": 1,
+    "sec": 1,
+    "scroll": 0,
+    "slow": 0,
+    "inp": 0,
+    "delay": 0
+   },
+   {
+    "k": "/news/ufc-334-madison-square-garden-november-14-start-time-gane-hokit-ufc-schedule/",
+    "n": 1,
+    "sec": 27,
+    "scroll": 12,
+    "slow": 0,
+    "inp": 0,
+    "delay": 0
+   },
+   {
+    "k": "/news/montreal-canadiens-schedule-november-2026-game-times-tv-printable/",
+    "n": 1,
+    "sec": 2,
+    "scroll": 0,
+    "slow": 0,
+    "inp": 0,
+    "delay": 0
+   },
+   {
+    "k": "/news/all-saints-day-2026-holy-day-of-obligation-all-souls-day/",
+    "n": 1,
+    "sec": 16,
+    "scroll": 15,
+    "slow": 0,
+    "inp": 0,
+    "delay": 0
+   },
+   {
+    "k": "/news/target-black-friday-2026-early-sale-november-5-7-price-match-dates/",
+    "n": 1,
+    "sec": 16,
+    "scroll": 5,
+    "slow": 0,
+    "inp": 0,
+    "delay": 0
+   },
+   {
+    "k": "/news/christmas-tree-lightings-2026-dates-times-nyc-dc-boston/",
+    "n": 1,
+    "sec": 3,
+    "scroll": 29,
+    "slow": 0,
+    "inp": 0,
+    "delay": 0
+   },
+   {
+    "k": "/news/dakar-rally-2027-dates-portugal-morocco-stages/",
+    "n": 1,
+    "sec": 20,
+    "scroll": 11,
+    "slow": 0,
+    "inp": 0,
+    "delay": 0
+   },
+   {
+    "k": "/news/strictly-come-dancing-2026-final-date-19-december-remaining-weeks/",
+    "n": 1,
+    "sec": 9,
+    "scroll": 14,
+    "slow": 0,
+    "inp": 0,
+    "delay": 0
+   },
+   {
+    "k": "/news/whats-open-thanksgiving-2026-grocery-stores-walmart-costco/",
+    "n": 1,
+    "sec": 3,
+    "scroll": 0,
+    "slow": 0,
+    "inp": 0,
+    "delay": 0
+   },
+   {
+    "k": "/news/snap-payment-schedule-december-2026-deposit-dates-by-state/",
+    "n": 1,
+    "sec": 28,
+    "scroll": 7,
+    "slow": 0,
+    "inp": 0,
+    "delay": 0
+   },
+   {
+    "k": "/news/feast-week-2026-college-basketball-tournaments-dates-maui-battle-4-atlantis-players-era/",
+    "n": 1,
+    "sec": 15,
+    "scroll": 40,
+    "slow": 0,
+    "inp": 0,
+    "delay": 0
+   },
+   {
+    "k": "/news/northside-isd-calendar-2026-27-breaks/",
+    "n": 1,
+    "sec": 5,
+    "scroll": 63,
+    "slow": 0,
+    "inp": 0,
+    "delay": 0
+   },
+   {
+    "k": "/news/december-2026-important-dates-holidays-days-until/",
+    "n": 1,
+    "sec": 4,
+    "scroll": 0,
+    "slow": 0,
+    "inp": 0,
+    "delay": 0
+   },
+   {
+    "k": "/news/sat-act-test-dates-2026-27-registration-deadlines/",
+    "n": 1,
+    "sec": 0,
+    "scroll": 0,
+    "slow": 0,
+    "inp": 0,
+    "delay": 0
+   },
+   {
+    "k": "/news/beaver-creek-birds-of-prey-2026-world-cup-race-times/",
+    "n": 1,
+    "sec": 16,
+    "scroll": 0,
+    "slow": 0,
+    "inp": 0,
+    "delay": 0
+   },
+   {
+    "k": "/news/clark-county-school-district-calendar-2026-27-breaks/",
+    "n": 1,
+    "sec": 4,
+    "scroll": 0,
+    "slow": 0,
+    "inp": 0,
+    "delay": 0
+   },
+   {
+    "k": "/news/nyt-connections-hints-answers-october-26-2026-1233/",
+    "n": 1,
+    "sec": 10,
+    "scroll": 1,
+    "slow": 0,
+    "inp": 0,
+    "delay": 0
+   },
+   {
+    "k": "/news/dallas-mavericks-schedule-november-2026-game-times-tv-nba-cup-printable/",
+    "n": 1,
+    "sec": 57,
+    "scroll": 30,
+    "slow": 0,
+    "inp": 0,
+    "delay": 0
+   },
+   {
+    "k": "/news/savers-match-2027-1000-federal-match-income-limits/",
+    "n": 1,
+    "sec": 3,
+    "scroll": 9,
+    "slow": 0,
+    "inp": 0,
+    "delay": 0
+   },
+   {
+    "k": "/news/elf-on-the-shelf-2026-arrival-ideas-calendar-printable/",
+    "n": 1,
+    "sec": 33,
+    "scroll": 13,
+    "slow": 0,
+    "inp": 0,
+    "delay": 0
+   },
+   {
+    "k": "/news/turkey-hotlines-2026-butterball-talk-line-usda-hours/",
+    "n": 1,
+    "sec": 1,
+    "scroll": 0,
+    "slow": 0,
+    "inp": 0,
+    "delay": 0
+   },
+   {
+    "k": "/news/nrf-4-5-4-calendar-2027-fiscal-year-dates-53-week-year-2028-printable/",
+    "n": 1,
+    "sec": 5,
+    "scroll": 0,
+    "slow": 0,
+    "inp": 0,
+    "delay": 0
+   },
+   {
+    "k": "/news/holy-days-of-obligation-2026-us-dates/",
+    "n": 1,
+    "sec": 27,
+    "scroll": 0,
+    "slow": 0,
+    "inp": 0,
+    "delay": 0
+   },
+   {
+    "k": "/news/contexto-answer-hints-november-7-2026-1511/",
+    "n": 1,
+    "sec": 33,
+    "scroll": 16,
+    "slow": 0,
+    "inp": 0,
+    "delay": 0
+   },
+   {
+    "k": "/news/hello-kitty-birthday-2026-sunday-november-1-sanrio-facts/",
+    "n": 1,
+    "sec": 1,
+    "scroll": 0,
+    "slow": 0,
+    "inp": 0,
+    "delay": 0
+   },
+   {
+    "k": "/news/cracker-barrel-holiday-menu-2026-thanksgiving-heat-and-serve/",
+    "n": 1,
+    "sec": 155,
+    "scroll": 50,
+    "slow": 0,
+    "inp": 0,
+    "delay": 0
+   },
+   {
+    "k": "/news/nyc-holiday-calendar-2026-rockefeller-tree-macys-parade/",
+    "n": 1,
+    "sec": 16,
+    "scroll": 21,
+    "slow": 0,
+    "inp": 0,
+    "delay": 0
+   },
+   {
+    "k": "/news/motogp-2026-final-races-qatar-portugal-valencia-race-times-us-uk/",
+    "n": 1,
+    "sec": 28,
+    "scroll": 10,
+    "slow": 0,
+    "inp": 0,
+    "delay": 0
+   },
+   {
+    "k": "/news/is-the-day-after-thanksgiving-a-state-holiday-2026-states-closed-november-27/",
+    "n": 1,
+    "sec": 37,
+    "scroll": 19,
+    "slow": 0,
+    "inp": 0,
+    "delay": 0
    },
    {
     "k": "/news/geminid-meteor-shower-2026-peak-december-13-14-moon-viewing-times/",
     "n": 1,
     "sec": 2,
-    "scroll": 0
+    "scroll": 0,
+    "slow": 0,
+    "inp": 0,
+    "delay": 0
+   },
+   {
+    "k": "/news/celtics-schedule-december-2026-game-times-tv-christmas-printable/",
+    "n": 1,
+    "sec": 34,
+    "scroll": 68,
+    "slow": 0,
+    "inp": 0,
+    "delay": 0
    },
    {
     "k": "/news/national-days-this-week-november-16-22-2026/",
     "n": 1,
     "sec": 25,
-    "scroll": 16
+    "scroll": 16,
+    "slow": 0,
+    "inp": 0,
+    "delay": 0
    },
    {
-    "k": "/news/nyt-midi-crossword-answers-november-7-2026/",
+    "k": "/news/sacramento-city-unified-calendar-2026-27-breaks/",
     "n": 1,
-    "sec": 6,
-    "scroll": 55
+    "sec": 3,
+    "scroll": 0,
+    "slow": 0,
+    "inp": 0,
+    "delay": 0
    },
    {
-    "k": "/news/nyt-connections-hints-answers-november-7-2026-1245/",
+    "k": "/news/premier-league-fixtures-this-weekend-october-31-november-2-2026-kickoff-times-tv/",
     "n": 1,
-    "sec": 41,
-    "scroll": 100
+    "sec": 1,
+    "scroll": 0,
+    "slow": 0,
+    "inp": 0,
+    "delay": 0
+   },
+   {
+    "k": "/news/november-2026-calendar-printable/",
+    "n": 1,
+    "sec": 8,
+    "scroll": 1,
+    "slow": 0,
+    "inp": 0,
+    "delay": 0
+   },
+   {
+    "k": "/news/deer-season-2026-opening-day-gun-season-dates-by-state/",
+    "n": 1,
+    "sec": 20,
+    "scroll": 5,
+    "slow": 0,
+    "inp": 0,
+    "delay": 0
+   },
+   {
+    "k": "/news/is-election-day-a-holiday-2026-whats-open/",
+    "n": 1,
+    "sec": 2,
+    "scroll": 0,
+    "slow": 0,
+    "inp": 0,
+    "delay": 0
+   },
+   {
+    "k": "/news/category/school-calendars/",
+    "n": 1,
+    "sec": 2,
+    "scroll": 0,
+    "slow": 0,
+    "inp": 0,
+    "delay": 0
+   },
+   {
+    "k": "/news/spring-break-2027-dates-school-districts/",
+    "n": 1,
+    "sec": 16,
+    "scroll": 5,
+    "slow": 0,
+    "inp": 0,
+    "delay": 0
+   },
+   {
+    "k": "/news/cpi-report-november-10-2026-time-october-inflation-ppi-pce-dates/",
+    "n": 1,
+    "sec": 3,
+    "scroll": 0,
+    "slow": 0,
+    "inp": 0,
+    "delay": 0
+   },
+   {
+    "k": "/news/mail-ballot-deadlines-2026-by-state/",
+    "n": 1,
+    "sec": 66,
+    "scroll": 12,
+    "slow": 0,
+    "inp": 0,
+    "delay": 0
+   },
+   {
+    "k": "/news/pasco-county-schools-calendar-2026-27-breaks/",
+    "n": 1,
+    "sec": 13,
+    "scroll": 9,
+    "slow": 0,
+    "inp": 0,
+    "delay": 0
+   },
+   {
+    "k": "/news/college-football-playoff-rankings-2026-schedule-dates-times/",
+    "n": 1,
+    "sec": 26,
+    "scroll": 58,
+    "slow": 0,
+    "inp": 0,
+    "delay": 0
+   },
+   {
+    "k": "/news/category/holidays/",
+    "n": 1,
+    "sec": 2,
+    "scroll": 5,
+    "slow": 0,
+    "inp": 0,
+    "delay": 0
+   },
+   {
+    "k": "/news/topic/christmas-and-winter-holidays-2026/",
+    "n": 1,
+    "sec": 0,
+    "scroll": 0,
+    "slow": 0,
+    "inp": 0,
+    "delay": 0
+   },
+   {
+    "k": "/news/hunger-games-sunrise-on-the-reaping-release-date-november-20-rewatch-countdown/",
+    "n": 1,
+    "sec": 13,
+    "scroll": 22,
+    "slow": 0,
+    "inp": 0,
+    "delay": 0
+   },
+   {
+    "k": "/news/category/sports/",
+    "n": 1,
+    "sec": 10,
+    "scroll": 0,
+    "slow": 0,
+    "inp": 0,
+    "delay": 0
+   },
+   {
+    "k": "/news/topic/nyt-strands/",
+    "n": 1,
+    "sec": 2,
+    "scroll": 100,
+    "slow": 0,
+    "inp": 0,
+    "delay": 0
+   },
+   {
+    "k": "/news/motogp-malaysia-2026-race-time-sprint-schedule-us-time-zones/",
+    "n": 1,
+    "sec": 11,
+    "scroll": 0,
+    "slow": 0,
+    "inp": 0,
+    "delay": 0
+   },
+   {
+    "k": "/news/february-2027-bar-exam-dates-application-deadlines-by-state/",
+    "n": 1,
+    "sec": 31,
+    "scroll": 38,
+    "slow": 0,
+    "inp": 0,
+    "delay": 0
+   },
+   {
+    "k": "/news/leap-day-2028-february-29-next-leap-years/",
+    "n": 1,
+    "sec": 5,
+    "scroll": 15,
+    "slow": 0,
+    "inp": 0,
+    "delay": 0
+   },
+   {
+    "k": "/news/downloads/federal-pay-2026/federal-pay-period-calendar-2027-nfc.pdf",
+    "n": 1,
+    "sec": 10,
+    "scroll": 6,
+    "slow": 0,
+    "inp": 0,
+    "delay": 0
    }
   ],
   "pagesPrev": [],
   "devices": [
    {
-    "k": "mobile",
-    "n": 23,
-    "sec": 32.08695652173913,
-    "scroll": 19.608695652173914
+    "k": "desktop",
+    "n": 519,
+    "sec": 61.47591522157996,
+    "scroll": 24.813102119460503,
+    "slow": 0,
+    "inp": 0,
+    "delay": 0
    },
    {
-    "k": "desktop",
-    "n": 21,
-    "sec": 18.476190476190474,
-    "scroll": 20.61904761904762
+    "k": "mobile",
+    "n": 473,
+    "sec": 53.66173361522199,
+    "scroll": 19.22832980972516,
+    "slow": 0,
+    "inp": 0,
+    "delay": 0
+   },
+   {
+    "k": "tablet",
+    "n": 13,
+    "sec": 76.15384615384616,
+    "scroll": 23.46153846153846,
+    "slow": 0,
+    "inp": 0,
+    "delay": 0
    }
   ],
   "countries": [
    {
     "k": "US",
-    "n": 21,
+    "n": 653,
     "sec": 0,
-    "scroll": 0
+    "scroll": 0,
+    "slow": 0,
+    "inp": 0,
+    "delay": 0
    },
    {
     "k": "TR",
-    "n": 17,
+    "n": 160,
     "sec": 0,
-    "scroll": 0
-   },
-   {
-    "k": "CA",
-    "n": 2,
-    "sec": 0,
-    "scroll": 0
+    "scroll": 0,
+    "slow": 0,
+    "inp": 0,
+    "delay": 0
    },
    {
     "k": "GB",
-    "n": 2,
+    "n": 45,
     "sec": 0,
-    "scroll": 0
+    "scroll": 0,
+    "slow": 0,
+    "inp": 0,
+    "delay": 0
+   },
+   {
+    "k": "CA",
+    "n": 34,
+    "sec": 0,
+    "scroll": 0,
+    "slow": 0,
+    "inp": 0,
+    "delay": 0
+   },
+   {
+    "k": "AU",
+    "n": 29,
+    "sec": 0,
+    "scroll": 0,
+    "slow": 0,
+    "inp": 0,
+    "delay": 0
+   },
+   {
+    "k": "FR",
+    "n": 9,
+    "sec": 0,
+    "scroll": 0,
+    "slow": 0,
+    "inp": 0,
+    "delay": 0
+   },
+   {
+    "k": "ID",
+    "n": 5,
+    "sec": 0,
+    "scroll": 0,
+    "slow": 0,
+    "inp": 0,
+    "delay": 0
+   },
+   {
+    "k": "NZ",
+    "n": 5,
+    "sec": 0,
+    "scroll": 0,
+    "slow": 0,
+    "inp": 0,
+    "delay": 0
+   },
+   {
+    "k": "PL",
+    "n": 5,
+    "sec": 0,
+    "scroll": 0,
+    "slow": 0,
+    "inp": 0,
+    "delay": 0
+   },
+   {
+    "k": "NL",
+    "n": 5,
+    "sec": 0,
+    "scroll": 0,
+    "slow": 0,
+    "inp": 0,
+    "delay": 0
+   },
+   {
+    "k": "PT",
+    "n": 3,
+    "sec": 0,
+    "scroll": 0,
+    "slow": 0,
+    "inp": 0,
+    "delay": 0
+   },
+   {
+    "k": "DO",
+    "n": 3,
+    "sec": 0,
+    "scroll": 0,
+    "slow": 0,
+    "inp": 0,
+    "delay": 0
+   },
+   {
+    "k": "HT",
+    "n": 3,
+    "sec": 0,
+    "scroll": 0,
+    "slow": 0,
+    "inp": 0,
+    "delay": 0
+   },
+   {
+    "k": "CO",
+    "n": 3,
+    "sec": 0,
+    "scroll": 0,
+    "slow": 0,
+    "inp": 0,
+    "delay": 0
    },
    {
     "k": "IN",
-    "n": 2,
+    "n": 3,
     "sec": 0,
-    "scroll": 0
+    "scroll": 0,
+    "slow": 0,
+    "inp": 0,
+    "delay": 0
+   }
+  ],
+  "inpDevices": [
+   {
+    "k": "mobile",
+    "n": 71,
+    "slow": 5,
+    "inp": 83.07042253521126,
+    "sec": 0,
+    "scroll": 0,
+    "delay": 0
+   },
+   {
+    "k": "desktop",
+    "n": 49,
+    "slow": 7,
+    "inp": 166.75510204081633,
+    "sec": 0,
+    "scroll": 0,
+    "delay": 0
+   },
+   {
+    "k": "tablet",
+    "n": 1,
+    "slow": 0,
+    "inp": 40,
+    "sec": 0,
+    "scroll": 0,
+    "delay": 0
+   }
+  ],
+  "inpPages": [
+   {
+    "k": "/news/veterans-day-free-meals-discounts/",
+    "n": 24,
+    "slow": 3,
+    "inp": 196,
+    "sec": 0,
+    "scroll": 0,
+    "delay": 0
+   },
+   {
+    "k": "/news/day-of-the-dead-2026-dia-de-los-muertos-dates/",
+    "n": 3,
+    "slow": 2,
+    "inp": 211.66666666666666,
+    "sec": 0,
+    "scroll": 0,
+    "delay": 0
+   },
+   {
+    "k": "/news/mail-ballot-deadlines-2026-by-state/",
+    "n": 1,
+    "slow": 1,
+    "inp": 528,
+    "sec": 0,
+    "scroll": 0,
+    "delay": 0
+   },
+   {
+    "k": "/news/bonfire-night-2026-thursday-november-5-fireworks-rules/",
+    "n": 1,
+    "slow": 1,
+    "inp": 248,
+    "sec": 0,
+    "scroll": 0,
+    "delay": 0
+   },
+   {
+    "k": "/news/cracker-barrel-holiday-menu-2026-thanksgiving-heat-and-serve/",
+    "n": 1,
+    "slow": 1,
+    "inp": 984,
+    "sec": 0,
+    "scroll": 0,
+    "delay": 0
+   },
+   {
+    "k": "/news/snap-payment-schedule-november-2026-deposit-dates-by-state/",
+    "n": 1,
+    "slow": 1,
+    "inp": 240,
+    "sec": 0,
+    "scroll": 0,
+    "delay": 0
+   },
+   {
+    "k": "/news/celtics-schedule-december-2026-game-times-tv-christmas-printable/",
+    "n": 1,
+    "slow": 1,
+    "inp": 264,
+    "sec": 0,
+    "scroll": 0,
+    "delay": 0
+   },
+   {
+    "k": "/news/",
+    "n": 4,
+    "slow": 1,
+    "inp": 98.5,
+    "sec": 0,
+    "scroll": 0,
+    "delay": 0
+   },
+   {
+    "k": "/news/nyt-pips-hints-answers-november-8-2026/",
+    "n": 2,
+    "slow": 1,
+    "inp": 180,
+    "sec": 0,
+    "scroll": 0,
+    "delay": 0
+   },
+   {
+    "k": "/news/ottawa-santa-claus-parade-2026-november-21-route-time/",
+    "n": 1,
+    "slow": 0,
+    "inp": 200,
+    "sec": 0,
+    "scroll": 0,
+    "delay": 0
+   },
+   {
+    "k": "/news/nyt-spelling-bee-hints-answers-november-8-2026/",
+    "n": 2,
+    "slow": 0,
+    "inp": 88,
+    "sec": 0,
+    "scroll": 0,
+    "delay": 0
+   },
+   {
+    "k": "/news/london-fireworks-2026-battersea-alexandra-palace-blackheath-wimbledon-times-tickets/",
+    "n": 2,
+    "slow": 0,
+    "inp": 116,
+    "sec": 0,
+    "scroll": 0,
+    "delay": 0
+   },
+   {
+    "k": "/news/diwali-2026-date-lakshmi-puja-time-usa/",
+    "n": 1,
+    "slow": 0,
+    "inp": 56,
+    "sec": 0,
+    "scroll": 0,
+    "delay": 0
+   },
+   {
+    "k": "/news/united-cup-2027-dates-schedule-time-zones/",
+    "n": 1,
+    "slow": 0,
+    "inp": 48,
+    "sec": 0,
+    "scroll": 0,
+    "delay": 0
+   },
+   {
+    "k": "/news/london-new-years-day-parade-2027-start-time-route-tickets/",
+    "n": 1,
+    "slow": 0,
+    "inp": 160,
+    "sec": 0,
+    "scroll": 0,
+    "delay": 0
+   },
+   {
+    "k": "/news/when-do-2026-election-winners-take-office-congress-governors/",
+    "n": 2,
+    "slow": 0,
+    "inp": 40,
+    "sec": 0,
+    "scroll": 0,
+    "delay": 0
+   },
+   {
+    "k": "/news/turkey-pardon-2026-date-time-white-house/",
+    "n": 1,
+    "slow": 0,
+    "inp": 40,
+    "sec": 0,
+    "scroll": 0,
+    "delay": 0
+   },
+   {
+    "k": "/news/paris-masters-2026-schedule-final-time-by-time-zone/",
+    "n": 8,
+    "slow": 0,
+    "inp": 62,
+    "sec": 0,
+    "scroll": 0,
+    "delay": 0
+   },
+   {
+    "k": "/news/nations-championship-rugby-november-2026-fixtures-kick-off-times-uk-us/",
+    "n": 1,
+    "slow": 0,
+    "inp": 80,
+    "sec": 0,
+    "scroll": 0,
+    "delay": 0
+   },
+   {
+    "k": "/news/nyt-connections-hints-answers-november-8-2026-1246/",
+    "n": 1,
+    "slow": 0,
+    "inp": 80,
+    "sec": 0,
+    "scroll": 0,
+    "delay": 0
+   },
+   {
+    "k": "/news/holiday-menus-2026-every-chain-tracker/",
+    "n": 4,
+    "slow": 0,
+    "inp": 80,
+    "sec": 0,
+    "scroll": 0,
+    "delay": 0
+   },
+   {
+    "k": "/news/lego-advent-calendars-2026-prices-whats-inside/",
+    "n": 1,
+    "slow": 0,
+    "inp": 40,
+    "sec": 0,
+    "scroll": 0,
+    "delay": 0
+   },
+   {
+    "k": "/news/nyt-strands-hints-answers-november-8-2026-980/",
+    "n": 2,
+    "slow": 0,
+    "inp": 44,
+    "sec": 0,
+    "scroll": 0,
+    "delay": 0
+   },
+   {
+    "k": "/news/category/money-benefits/",
+    "n": 1,
+    "slow": 0,
+    "inp": 56,
+    "sec": 0,
+    "scroll": 0,
+    "delay": 0
+   },
+   {
+    "k": "/news/cbs-holiday-specials-2026-schedule-kids-choice-awards-soul-train-new-years-eve/",
+    "n": 2,
+    "slow": 0,
+    "inp": 64,
+    "sec": 0,
+    "scroll": 0,
+    "delay": 0
+   }
+  ],
+  "inpCauses": [
+   {
+    "k": "body",
+    "script": "",
+    "n": 2,
+    "inp": 1605.5,
+    "delay": 0,
+    "sec": 0,
+    "scroll": 0,
+    "slow": 0
+   },
+   {
+    "k": "html.news",
+    "script": "",
+    "n": 1,
+    "inp": 984,
+    "delay": 1,
+    "sec": 0,
+    "scroll": 0,
+    "slow": 0
+   },
+   {
+    "k": "div.grippy-host",
+    "script": "",
+    "n": 1,
+    "inp": 312,
+    "delay": 64,
+    "sec": 0,
+    "scroll": 0,
+    "slow": 0
+   },
+   {
+    "k": "body",
+    "script": "pagead2.googlesyndication.com",
+    "n": 1,
+    "inp": 264,
+    "delay": 56,
+    "sec": 0,
+    "scroll": 0,
+    "slow": 0
+   },
+   {
+    "k": "img",
+    "script": "",
+    "n": 1,
+    "inp": 296,
+    "delay": 292,
+    "sec": 0,
+    "scroll": 0,
+    "slow": 0
+   },
+   {
+    "k": "div.article-layout",
+    "script": "",
+    "n": 1,
+    "inp": 288,
+    "delay": 1,
+    "sec": 0,
+    "scroll": 0,
+    "slow": 0
+   },
+   {
+    "k": "button.test",
+    "script": "inline",
+    "n": 1,
+    "inp": 250,
+    "delay": 90,
+    "sec": 0,
+    "scroll": 0,
+    "slow": 0
+   },
+   {
+    "k": "",
+    "script": "",
+    "n": 1,
+    "inp": 248,
+    "delay": 8,
+    "sec": 0,
+    "scroll": 0,
+    "slow": 0
+   },
+   {
+    "k": "a",
+    "script": "pagead2.googlesyndication.com",
+    "n": 1,
+    "inp": 272,
+    "delay": 15,
+    "sec": 0,
+    "scroll": 0,
+    "slow": 0
+   },
+   {
+    "k": "a",
+    "script": "",
+    "n": 1,
+    "inp": 240,
+    "delay": 9,
+    "sec": 0,
+    "scroll": 0,
+    "slow": 0
+   },
+   {
+    "k": "p.news-lede",
+    "script": "",
+    "n": 1,
+    "inp": 528,
+    "delay": 513,
+    "sec": 0,
+    "scroll": 0,
+    "slow": 0
    }
   ],
   "experiments": []
+ },
+ "rum": {
+  "devices": [
+   {
+    "count": 8873,
+    "dimensions": {
+     "deviceType": "desktop"
+    },
+    "quantiles": {
+     "cumulativeLayoutShiftP75": 0.001,
+     "interactionToNextPaintP75": 40000,
+     "largestContentfulPaintP75": 817000
+    },
+    "sum": {
+     "clsGood": 7132,
+     "clsNeedsImprovement": 55,
+     "clsPoor": 51,
+     "clsTotal": 7238,
+     "inpGood": 3608,
+     "inpNeedsImprovement": 33,
+     "inpPoor": 25,
+     "inpTotal": 3666,
+     "lcpGood": 7235,
+     "lcpNeedsImprovement": 204,
+     "lcpPoor": 151,
+     "lcpTotal": 7590
+    }
+   },
+   {
+    "count": 6277,
+    "dimensions": {
+     "deviceType": "mobile"
+    },
+    "quantiles": {
+     "cumulativeLayoutShiftP75": 0,
+     "interactionToNextPaintP75": 56000,
+     "largestContentfulPaintP75": 611000
+    },
+    "sum": {
+     "clsGood": 1293,
+     "clsNeedsImprovement": 15,
+     "clsPoor": 19,
+     "clsTotal": 1327,
+     "inpGood": 1965,
+     "inpNeedsImprovement": 72,
+     "inpPoor": 20,
+     "inpTotal": 2057,
+     "lcpGood": 4384,
+     "lcpNeedsImprovement": 56,
+     "lcpPoor": 45,
+     "lcpTotal": 4485
+    }
+   },
+   {
+    "count": 452,
+    "dimensions": {
+     "deviceType": "tablet"
+    },
+    "quantiles": {
+     "cumulativeLayoutShiftP75": 0,
+     "interactionToNextPaintP75": 184000,
+     "largestContentfulPaintP75": 1416000
+    },
+    "sum": {
+     "clsGood": 202,
+     "clsNeedsImprovement": 1,
+     "clsPoor": 1,
+     "clsTotal": 204,
+     "inpGood": 96,
+     "inpNeedsImprovement": 17,
+     "inpPoor": 10,
+     "inpTotal": 123,
+     "lcpGood": 268,
+     "lcpNeedsImprovement": 10,
+     "lcpPoor": 14,
+     "lcpTotal": 292
+    }
+   }
+  ],
+  "pages": [
+   {
+    "count": 1378,
+    "dimensions": {
+     "requestPath": "/news/veterans-day-free-meals-discounts/"
+    },
+    "quantiles": {
+     "cumulativeLayoutShiftP75": 0.004,
+     "interactionToNextPaintP75": 56000,
+     "largestContentfulPaintP75": 908000
+    },
+    "sum": {
+     "clsGood": 844,
+     "clsNeedsImprovement": 4,
+     "clsPoor": 3,
+     "clsTotal": 851,
+     "inpGood": 574,
+     "inpNeedsImprovement": 18,
+     "inpPoor": 6,
+     "inpTotal": 598,
+     "lcpGood": 964,
+     "lcpNeedsImprovement": 27,
+     "lcpPoor": 30,
+     "lcpTotal": 1021
+    }
+   },
+   {
+    "count": 1072,
+    "dimensions": {
+     "requestPath": "/news/day-of-the-dead-2026-dia-de-los-muertos-dates/"
+    },
+    "quantiles": {
+     "cumulativeLayoutShiftP75": 0.005,
+     "interactionToNextPaintP75": 40000,
+     "largestContentfulPaintP75": 632000
+    },
+    "sum": {
+     "clsGood": 373,
+     "clsNeedsImprovement": 4,
+     "clsPoor": 1,
+     "clsTotal": 378,
+     "inpGood": 344,
+     "inpNeedsImprovement": 7,
+     "inpPoor": 5,
+     "inpTotal": 356,
+     "lcpGood": 865,
+     "lcpNeedsImprovement": 10,
+     "lcpPoor": 6,
+     "lcpTotal": 881
+    }
+   },
+   {
+    "count": 498,
+    "dimensions": {
+     "requestPath": "/news/"
+    },
+    "quantiles": {
+     "cumulativeLayoutShiftP75": 0,
+     "interactionToNextPaintP75": 16000,
+     "largestContentfulPaintP75": 437000
+    },
+    "sum": {
+     "clsGood": 426,
+     "clsNeedsImprovement": 4,
+     "clsPoor": 2,
+     "clsTotal": 432,
+     "inpGood": 327,
+     "inpNeedsImprovement": 2,
+     "inpPoor": 0,
+     "inpTotal": 329,
+     "lcpGood": 446,
+     "lcpNeedsImprovement": 1,
+     "lcpPoor": 0,
+     "lcpTotal": 447
+    }
+   },
+   {
+    "count": 409,
+    "dimensions": {
+     "requestPath": "/"
+    },
+    "quantiles": {
+     "cumulativeLayoutShiftP75": 0,
+     "interactionToNextPaintP75": 16000,
+     "largestContentfulPaintP75": 521000
+    },
+    "sum": {
+     "clsGood": 297,
+     "clsNeedsImprovement": 3,
+     "clsPoor": 0,
+     "clsTotal": 300,
+     "inpGood": 197,
+     "inpNeedsImprovement": 3,
+     "inpPoor": 1,
+     "inpTotal": 201,
+     "lcpGood": 315,
+     "lcpNeedsImprovement": 8,
+     "lcpPoor": 4,
+     "lcpTotal": 327
+    }
+   },
+   {
+    "count": 328,
+    "dimensions": {
+     "requestPath": "/news/when-do-2026-election-winners-take-office-congress-governors/"
+    },
+    "quantiles": {
+     "cumulativeLayoutShiftP75": 0.002,
+     "interactionToNextPaintP75": 40000,
+     "largestContentfulPaintP75": 640000
+    },
+    "sum": {
+     "clsGood": 133,
+     "clsNeedsImprovement": 1,
+     "clsPoor": 0,
+     "clsTotal": 134,
+     "inpGood": 107,
+     "inpNeedsImprovement": 0,
+     "inpPoor": 1,
+     "inpTotal": 108,
+     "lcpGood": 250,
+     "lcpNeedsImprovement": 1,
+     "lcpPoor": 1,
+     "lcpTotal": 252
+    }
+   },
+   {
+    "count": 297,
+    "dimensions": {
+     "requestPath": "/november-calendars.html"
+    },
+    "quantiles": {
+     "cumulativeLayoutShiftP75": 0,
+     "interactionToNextPaintP75": 56000,
+     "largestContentfulPaintP75": 388000
+    },
+    "sum": {
+     "clsGood": 165,
+     "clsNeedsImprovement": 0,
+     "clsPoor": 0,
+     "clsTotal": 165,
+     "inpGood": 122,
+     "inpNeedsImprovement": 1,
+     "inpPoor": 0,
+     "inpTotal": 123,
+     "lcpGood": 187,
+     "lcpNeedsImprovement": 2,
+     "lcpPoor": 1,
+     "lcpTotal": 190
+    }
+   },
+   {
+    "count": 277,
+    "dimensions": {
+     "requestPath": "/news/nyt-connections-hints-answers-november-5-2026-1243/"
+    },
+    "quantiles": {
+     "cumulativeLayoutShiftP75": 0.001,
+     "interactionToNextPaintP75": 56000,
+     "largestContentfulPaintP75": 785000
+    },
+    "sum": {
+     "clsGood": 68,
+     "clsNeedsImprovement": 2,
+     "clsPoor": 1,
+     "clsTotal": 71,
+     "inpGood": 111,
+     "inpNeedsImprovement": 4,
+     "inpPoor": 0,
+     "inpTotal": 115,
+     "lcpGood": 179,
+     "lcpNeedsImprovement": 2,
+     "lcpPoor": 0,
+     "lcpTotal": 181
+    }
+   },
+   {
+    "count": 271,
+    "dimensions": {
+     "requestPath": "/news/london-fireworks-2026-battersea-alexandra-palace-blackheath-wimbledon-times-tickets/"
+    },
+    "quantiles": {
+     "cumulativeLayoutShiftP75": 0,
+     "interactionToNextPaintP75": -1,
+     "largestContentfulPaintP75": 776000
+    },
+    "sum": {
+     "clsGood": 271,
+     "clsNeedsImprovement": 0,
+     "clsPoor": 0,
+     "clsTotal": 271,
+     "inpGood": 0,
+     "inpNeedsImprovement": 0,
+     "inpPoor": 0,
+     "inpTotal": 0,
+     "lcpGood": 263,
+     "lcpNeedsImprovement": 1,
+     "lcpPoor": 7,
+     "lcpTotal": 271
+    }
+   },
+   {
+    "count": 259,
+    "dimensions": {
+     "requestPath": "/news/nyt-connections-hints-answers-november-7-2026-1245/"
+    },
+    "quantiles": {
+     "cumulativeLayoutShiftP75": 0,
+     "interactionToNextPaintP75": 56000,
+     "largestContentfulPaintP75": 664000
+    },
+    "sum": {
+     "clsGood": 50,
+     "clsNeedsImprovement": 0,
+     "clsPoor": 1,
+     "clsTotal": 51,
+     "inpGood": 109,
+     "inpNeedsImprovement": 3,
+     "inpPoor": 1,
+     "inpTotal": 113,
+     "lcpGood": 165,
+     "lcpNeedsImprovement": 2,
+     "lcpPoor": 1,
+     "lcpTotal": 168
+    }
+   },
+   {
+    "count": 227,
+    "dimensions": {
+     "requestPath": "/news/free-rides-to-the-polls-2026-lyft-uber-transit/"
+    },
+    "quantiles": {
+     "cumulativeLayoutShiftP75": 0.003,
+     "interactionToNextPaintP75": 40000,
+     "largestContentfulPaintP75": 688000
+    },
+    "sum": {
+     "clsGood": 76,
+     "clsNeedsImprovement": 1,
+     "clsPoor": 5,
+     "clsTotal": 82,
+     "inpGood": 73,
+     "inpNeedsImprovement": 2,
+     "inpPoor": 1,
+     "inpTotal": 76,
+     "lcpGood": 164,
+     "lcpNeedsImprovement": 0,
+     "lcpPoor": 1,
+     "lcpTotal": 165
+    }
+   },
+   {
+    "count": 222,
+    "dimensions": {
+     "requestPath": "/news/election-day-2026-results-map/"
+    },
+    "quantiles": {
+     "cumulativeLayoutShiftP75": 0,
+     "interactionToNextPaintP75": 40000,
+     "largestContentfulPaintP75": 780000
+    },
+    "sum": {
+     "clsGood": 144,
+     "clsNeedsImprovement": 1,
+     "clsPoor": 2,
+     "clsTotal": 147,
+     "inpGood": 95,
+     "inpNeedsImprovement": 2,
+     "inpPoor": 1,
+     "inpTotal": 98,
+     "lcpGood": 175,
+     "lcpNeedsImprovement": 8,
+     "lcpPoor": 4,
+     "lcpTotal": 187
+    }
+   },
+   {
+    "count": 205,
+    "dimensions": {
+     "requestPath": "/news/is-election-day-a-holiday-2026-whats-open/"
+    },
+    "quantiles": {
+     "cumulativeLayoutShiftP75": 0,
+     "interactionToNextPaintP75": 56000,
+     "largestContentfulPaintP75": 1000000
+    },
+    "sum": {
+     "clsGood": 99,
+     "clsNeedsImprovement": 1,
+     "clsPoor": 1,
+     "clsTotal": 101,
+     "inpGood": 60,
+     "inpNeedsImprovement": 5,
+     "inpPoor": 2,
+     "inpTotal": 67,
+     "lcpGood": 156,
+     "lcpNeedsImprovement": 2,
+     "lcpPoor": 5,
+     "lcpTotal": 163
+    }
+   },
+   {
+    "count": 203,
+    "dimensions": {
+     "requestPath": "/news/daylight-saving-time-ends-november-1-2026/"
+    },
+    "quantiles": {
+     "cumulativeLayoutShiftP75": 0,
+     "interactionToNextPaintP75": 48000,
+     "largestContentfulPaintP75": 768000
+    },
+    "sum": {
+     "clsGood": 108,
+     "clsNeedsImprovement": 0,
+     "clsPoor": 0,
+     "clsTotal": 108,
+     "inpGood": 47,
+     "inpNeedsImprovement": 1,
+     "inpPoor": 2,
+     "inpTotal": 50,
+     "lcpGood": 159,
+     "lcpNeedsImprovement": 3,
+     "lcpPoor": 4,
+     "lcpTotal": 166
+    }
+   },
+   {
+    "count": 182,
+    "dimensions": {
+     "requestPath": "/news/nyt-connections-hints-answers-november-1-2026-1239/"
+    },
+    "quantiles": {
+     "cumulativeLayoutShiftP75": 0,
+     "interactionToNextPaintP75": 48000,
+     "largestContentfulPaintP75": 577000
+    },
+    "sum": {
+     "clsGood": 34,
+     "clsNeedsImprovement": 0,
+     "clsPoor": 1,
+     "clsTotal": 35,
+     "inpGood": 59,
+     "inpNeedsImprovement": 0,
+     "inpPoor": 2,
+     "inpTotal": 61,
+     "lcpGood": 120,
+     "lcpNeedsImprovement": 1,
+     "lcpPoor": 2,
+     "lcpTotal": 123
+    }
+   },
+   {
+    "count": 174,
+    "dimensions": {
+     "requestPath": "/news/when-will-we-know-election-results-2026-midterms/"
+    },
+    "quantiles": {
+     "cumulativeLayoutShiftP75": 0,
+     "interactionToNextPaintP75": 40000,
+     "largestContentfulPaintP75": 856000
+    },
+    "sum": {
+     "clsGood": 127,
+     "clsNeedsImprovement": 0,
+     "clsPoor": 1,
+     "clsTotal": 128,
+     "inpGood": 22,
+     "inpNeedsImprovement": 2,
+     "inpPoor": 0,
+     "inpTotal": 24,
+     "lcpGood": 144,
+     "lcpNeedsImprovement": 9,
+     "lcpPoor": 4,
+     "lcpTotal": 157
+    }
+   },
+   {
+    "count": 170,
+    "dimensions": {
+     "requestPath": "/news/nyt-connections-hints-answers-november-4-2026-1242/"
+    },
+    "quantiles": {
+     "cumulativeLayoutShiftP75": 0.002,
+     "interactionToNextPaintP75": 64000,
+     "largestContentfulPaintP75": 812000
+    },
+    "sum": {
+     "clsGood": 47,
+     "clsNeedsImprovement": 1,
+     "clsPoor": 0,
+     "clsTotal": 48,
+     "inpGood": 66,
+     "inpNeedsImprovement": 3,
+     "inpPoor": 0,
+     "inpTotal": 69,
+     "lcpGood": 109,
+     "lcpNeedsImprovement": 2,
+     "lcpPoor": 1,
+     "lcpTotal": 112
+    }
+   },
+   {
+    "count": 154,
+    "dimensions": {
+     "requestPath": "/news/army-navy-game-2026-date-kickoff-time-metlife-stadium-tv/"
+    },
+    "quantiles": {
+     "cumulativeLayoutShiftP75": 0,
+     "interactionToNextPaintP75": 48000,
+     "largestContentfulPaintP75": 658000
+    },
+    "sum": {
+     "clsGood": 62,
+     "clsNeedsImprovement": 1,
+     "clsPoor": 0,
+     "clsTotal": 63,
+     "inpGood": 32,
+     "inpNeedsImprovement": 1,
+     "inpPoor": 2,
+     "inpTotal": 35,
+     "lcpGood": 121,
+     "lcpNeedsImprovement": 1,
+     "lcpPoor": 1,
+     "lcpTotal": 123
+    }
+   },
+   {
+    "count": 148,
+    "dimensions": {
+     "requestPath": "/december-calendars.html"
+    },
+    "quantiles": {
+     "cumulativeLayoutShiftP75": 0,
+     "interactionToNextPaintP75": 48000,
+     "largestContentfulPaintP75": 516000
+    },
+    "sum": {
+     "clsGood": 90,
+     "clsNeedsImprovement": 0,
+     "clsPoor": 1,
+     "clsTotal": 91,
+     "inpGood": 75,
+     "inpNeedsImprovement": 0,
+     "inpPoor": 0,
+     "inpTotal": 75,
+     "lcpGood": 110,
+     "lcpNeedsImprovement": 2,
+     "lcpPoor": 2,
+     "lcpTotal": 114
+    }
+   },
+   {
+    "count": 148,
+    "dimensions": {
+     "requestPath": "/news/nhl-hometown-remix-jerseys-2026-27-unveil-date-game-schedule/"
+    },
+    "quantiles": {
+     "cumulativeLayoutShiftP75": 0.005,
+     "interactionToNextPaintP75": 48000,
+     "largestContentfulPaintP75": 660000
+    },
+    "sum": {
+     "clsGood": 57,
+     "clsNeedsImprovement": 2,
+     "clsPoor": 1,
+     "clsTotal": 60,
+     "inpGood": 54,
+     "inpNeedsImprovement": 1,
+     "inpPoor": 0,
+     "inpTotal": 55,
+     "lcpGood": 113,
+     "lcpNeedsImprovement": 0,
+     "lcpPoor": 0,
+     "lcpTotal": 113
+    }
+   },
+   {
+    "count": 135,
+    "dimensions": {
+     "requestPath": "/news/sample-ballot-by-zip-code-2026-texas-ballot/"
+    },
+    "quantiles": {
+     "cumulativeLayoutShiftP75": 0.004,
+     "interactionToNextPaintP75": 64000,
+     "largestContentfulPaintP75": 724000
+    },
+    "sum": {
+     "clsGood": 63,
+     "clsNeedsImprovement": 0,
+     "clsPoor": 0,
+     "clsTotal": 63,
+     "inpGood": 54,
+     "inpNeedsImprovement": 1,
+     "inpPoor": 1,
+     "inpTotal": 56,
+     "lcpGood": 88,
+     "lcpNeedsImprovement": 1,
+     "lcpPoor": 0,
+     "lcpTotal": 89
+    }
+   },
+   {
+    "count": 133,
+    "dimensions": {
+     "requestPath": "/news/nyt-spelling-bee-hints-answers-november-4-2026/"
+    },
+    "quantiles": {
+     "cumulativeLayoutShiftP75": 0.003,
+     "interactionToNextPaintP75": 56000,
+     "largestContentfulPaintP75": 832000
+    },
+    "sum": {
+     "clsGood": 37,
+     "clsNeedsImprovement": 0,
+     "clsPoor": 0,
+     "clsTotal": 37,
+     "inpGood": 36,
+     "inpNeedsImprovement": 2,
+     "inpPoor": 3,
+     "inpTotal": 41,
+     "lcpGood": 92,
+     "lcpNeedsImprovement": 2,
+     "lcpPoor": 0,
+     "lcpTotal": 94
+    }
+   },
+   {
+    "count": 130,
+    "dimensions": {
+     "requestPath": "/news/native-american-heritage-month-2026-theme-events-books-activities/"
+    },
+    "quantiles": {
+     "cumulativeLayoutShiftP75": 0.004,
+     "interactionToNextPaintP75": 72000,
+     "largestContentfulPaintP75": 908000
+    },
+    "sum": {
+     "clsGood": 106,
+     "clsNeedsImprovement": 0,
+     "clsPoor": 1,
+     "clsTotal": 107,
+     "inpGood": 63,
+     "inpNeedsImprovement": 2,
+     "inpPoor": 0,
+     "inpTotal": 65,
+     "lcpGood": 93,
+     "lcpNeedsImprovement": 3,
+     "lcpPoor": 3,
+     "lcpTotal": 99
+    }
+   },
+   {
+    "count": 127,
+    "dimensions": {
+     "requestPath": "/news/2026-midterm-elections-whats-on-the-ballot-results-tracker/"
+    },
+    "quantiles": {
+     "cumulativeLayoutShiftP75": 0.008,
+     "interactionToNextPaintP75": 48000,
+     "largestContentfulPaintP75": 720000
+    },
+    "sum": {
+     "clsGood": 61,
+     "clsNeedsImprovement": 0,
+     "clsPoor": 1,
+     "clsTotal": 62,
+     "inpGood": 38,
+     "inpNeedsImprovement": 0,
+     "inpPoor": 0,
+     "inpTotal": 38,
+     "lcpGood": 86,
+     "lcpNeedsImprovement": 4,
+     "lcpPoor": 2,
+     "lcpTotal": 92
+    }
+   },
+   {
+    "count": 123,
+    "dimensions": {
+     "requestPath": "/news/colorado-ballot-measures-2026-amendments-propositions-explained/"
+    },
+    "quantiles": {
+     "cumulativeLayoutShiftP75": 0.007,
+     "interactionToNextPaintP75": 32000,
+     "largestContentfulPaintP75": 736000
+    },
+    "sum": {
+     "clsGood": 66,
+     "clsNeedsImprovement": 0,
+     "clsPoor": 1,
+     "clsTotal": 67,
+     "inpGood": 52,
+     "inpNeedsImprovement": 0,
+     "inpPoor": 1,
+     "inpTotal": 53,
+     "lcpGood": 109,
+     "lcpNeedsImprovement": 0,
+     "lcpPoor": 1,
+     "lcpTotal": 110
+    }
+   },
+   {
+    "count": 122,
+    "dimensions": {
+     "requestPath": "/january-calendars.html"
+    },
+    "quantiles": {
+     "cumulativeLayoutShiftP75": 0,
+     "interactionToNextPaintP75": 40000,
+     "largestContentfulPaintP75": 256000
+    },
+    "sum": {
+     "clsGood": 88,
+     "clsNeedsImprovement": 0,
+     "clsPoor": 1,
+     "clsTotal": 89,
+     "inpGood": 69,
+     "inpNeedsImprovement": 0,
+     "inpPoor": 0,
+     "inpTotal": 69,
+     "lcpGood": 88,
+     "lcpNeedsImprovement": 1,
+     "lcpPoor": 2,
+     "lcpTotal": 91
+    }
+   },
+   {
+    "count": 104,
+    "dimensions": {
+     "requestPath": "/news/thanksgiving-football-schedule-2026-nfl-college-games/"
+    },
+    "quantiles": {
+     "cumulativeLayoutShiftP75": 0.012,
+     "interactionToNextPaintP75": 48000,
+     "largestContentfulPaintP75": 596000
+    },
+    "sum": {
+     "clsGood": 34,
+     "clsNeedsImprovement": 0,
+     "clsPoor": 0,
+     "clsTotal": 34,
+     "inpGood": 29,
+     "inpNeedsImprovement": 0,
+     "inpPoor": 1,
+     "inpTotal": 30,
+     "lcpGood": 79,
+     "lcpNeedsImprovement": 0,
+     "lcpPoor": 0,
+     "lcpTotal": 79
+    }
+   },
+   {
+    "count": 104,
+    "dimensions": {
+     "requestPath": "/news/cbs-holiday-specials-2026-schedule-kids-choice-awards-soul-train-new-years-eve/"
+    },
+    "quantiles": {
+     "cumulativeLayoutShiftP75": 0.001,
+     "interactionToNextPaintP75": 56000,
+     "largestContentfulPaintP75": 856000
+    },
+    "sum": {
+     "clsGood": 61,
+     "clsNeedsImprovement": 0,
+     "clsPoor": 0,
+     "clsTotal": 61,
+     "inpGood": 37,
+     "inpNeedsImprovement": 1,
+     "inpPoor": 0,
+     "inpTotal": 38,
+     "lcpGood": 83,
+     "lcpNeedsImprovement": 2,
+     "lcpPoor": 1,
+     "lcpTotal": 86
+    }
+   },
+   {
+    "count": 102,
+    "dimensions": {
+     "requestPath": "/news/printable-nfl-schedule-2026-2027-pdf/"
+    },
+    "quantiles": {
+     "cumulativeLayoutShiftP75": 0.013,
+     "interactionToNextPaintP75": 96000,
+     "largestContentfulPaintP75": 871000
+    },
+    "sum": {
+     "clsGood": 49,
+     "clsNeedsImprovement": 1,
+     "clsPoor": 1,
+     "clsTotal": 51,
+     "inpGood": 46,
+     "inpNeedsImprovement": 1,
+     "inpPoor": 0,
+     "inpTotal": 47,
+     "lcpGood": 73,
+     "lcpNeedsImprovement": 3,
+     "lcpPoor": 1,
+     "lcpTotal": 77
+    }
+   },
+   {
+    "count": 97,
+    "dimensions": {
+     "requestPath": "/news/nyt-connections-hints-answers-november-3-2026-1241/"
+    },
+    "quantiles": {
+     "cumulativeLayoutShiftP75": 0,
+     "interactionToNextPaintP75": 56000,
+     "largestContentfulPaintP75": 754000
+    },
+    "sum": {
+     "clsGood": 24,
+     "clsNeedsImprovement": 0,
+     "clsPoor": 0,
+     "clsTotal": 24,
+     "inpGood": 32,
+     "inpNeedsImprovement": 3,
+     "inpPoor": 0,
+     "inpTotal": 35,
+     "lcpGood": 59,
+     "lcpNeedsImprovement": 1,
+     "lcpPoor": 2,
+     "lcpTotal": 62
+    }
+   },
+   {
+    "count": 96,
+    "dimensions": {
+     "requestPath": "/news/nyt-spelling-bee-hints-answers-november-6-2026/"
+    },
+    "quantiles": {
+     "cumulativeLayoutShiftP75": 0,
+     "interactionToNextPaintP75": 56000,
+     "largestContentfulPaintP75": 772000
+    },
+    "sum": {
+     "clsGood": 17,
+     "clsNeedsImprovement": 0,
+     "clsPoor": 0,
+     "clsTotal": 17,
+     "inpGood": 28,
+     "inpNeedsImprovement": 0,
+     "inpPoor": 0,
+     "inpTotal": 28,
+     "lcpGood": 57,
+     "lcpNeedsImprovement": 1,
+     "lcpPoor": 0,
+     "lcpTotal": 58
+    }
+   },
+   {
+    "count": 90,
+    "dimensions": {
+     "requestPath": "/printable-yearly-calendar.html"
+    },
+    "quantiles": {
+     "cumulativeLayoutShiftP75": 0.001,
+     "interactionToNextPaintP75": 48000,
+     "largestContentfulPaintP75": 240000
+    },
+    "sum": {
+     "clsGood": 58,
+     "clsNeedsImprovement": 1,
+     "clsPoor": 0,
+     "clsTotal": 59,
+     "inpGood": 61,
+     "inpNeedsImprovement": 1,
+     "inpPoor": 0,
+     "inpTotal": 62,
+     "lcpGood": 71,
+     "lcpNeedsImprovement": 0,
+     "lcpPoor": 1,
+     "lcpTotal": 72
+    }
+   },
+   {
+    "count": 88,
+    "dimensions": {
+     "requestPath": "/news/printables/"
+    },
+    "quantiles": {
+     "cumulativeLayoutShiftP75": 0,
+     "interactionToNextPaintP75": 56000,
+     "largestContentfulPaintP75": 920000
+    },
+    "sum": {
+     "clsGood": 72,
+     "clsNeedsImprovement": 1,
+     "clsPoor": 0,
+     "clsTotal": 73,
+     "inpGood": 46,
+     "inpNeedsImprovement": 0,
+     "inpPoor": 4,
+     "inpTotal": 50,
+     "lcpGood": 74,
+     "lcpNeedsImprovement": 0,
+     "lcpPoor": 0,
+     "lcpTotal": 74
+    }
+   },
+   {
+    "count": 82,
+    "dimensions": {
+     "requestPath": "/news/great-british-bake-off-2026-free-from-week-tuesday-3-november-episode-schedule/"
+    },
+    "quantiles": {
+     "cumulativeLayoutShiftP75": 0.002,
+     "interactionToNextPaintP75": 56000,
+     "largestContentfulPaintP75": 812000
+    },
+    "sum": {
+     "clsGood": 40,
+     "clsNeedsImprovement": 2,
+     "clsPoor": 1,
+     "clsTotal": 43,
+     "inpGood": 31,
+     "inpNeedsImprovement": 0,
+     "inpPoor": 0,
+     "inpTotal": 31,
+     "lcpGood": 66,
+     "lcpNeedsImprovement": 2,
+     "lcpPoor": 0,
+     "lcpTotal": 68
+    }
+   },
+   {
+    "count": 79,
+    "dimensions": {
+     "requestPath": "/news/nfl-week-9-schedule-2026-printable-pick-em-sheet-game-times/"
+    },
+    "quantiles": {
+     "cumulativeLayoutShiftP75": 0.002,
+     "interactionToNextPaintP75": 40000,
+     "largestContentfulPaintP75": 720000
+    },
+    "sum": {
+     "clsGood": 49,
+     "clsNeedsImprovement": 0,
+     "clsPoor": 0,
+     "clsTotal": 49,
+     "inpGood": 19,
+     "inpNeedsImprovement": 0,
+     "inpPoor": 1,
+     "inpTotal": 20,
+     "lcpGood": 60,
+     "lcpNeedsImprovement": 1,
+     "lcpPoor": 1,
+     "lcpTotal": 62
+    }
+   },
+   {
+    "count": 78,
+    "dimensions": {
+     "requestPath": "/news/arizona-propositions-2026-ballot-explained/"
+    },
+    "quantiles": {
+     "cumulativeLayoutShiftP75": 0.001,
+     "interactionToNextPaintP75": 40000,
+     "largestContentfulPaintP75": 1061000
+    },
+    "sum": {
+     "clsGood": 37,
+     "clsNeedsImprovement": 0,
+     "clsPoor": 0,
+     "clsTotal": 37,
+     "inpGood": 19,
+     "inpNeedsImprovement": 0,
+     "inpPoor": 0,
+     "inpTotal": 19,
+     "lcpGood": 57,
+     "lcpNeedsImprovement": 1,
+     "lcpPoor": 1,
+     "lcpTotal": 59
+    }
+   },
+   {
+    "count": 78,
+    "dimensions": {
+     "requestPath": "/news/week-numbers-2027-calendar-printable/"
+    },
+    "quantiles": {
+     "cumulativeLayoutShiftP75": 0.024,
+     "interactionToNextPaintP75": 104000,
+     "largestContentfulPaintP75": 1212000
+    },
+    "sum": {
+     "clsGood": 57,
+     "clsNeedsImprovement": 3,
+     "clsPoor": 0,
+     "clsTotal": 60,
+     "inpGood": 18,
+     "inpNeedsImprovement": 1,
+     "inpPoor": 1,
+     "inpTotal": 20,
+     "lcpGood": 62,
+     "lcpNeedsImprovement": 0,
+     "lcpPoor": 4,
+     "lcpTotal": 66
+    }
+   },
+   {
+    "count": 72,
+    "dimensions": {
+     "requestPath": "/news/november-2026-calendar-printable/"
+    },
+    "quantiles": {
+     "cumulativeLayoutShiftP75": 0.006,
+     "interactionToNextPaintP75": 56000,
+     "largestContentfulPaintP75": 772000
+    },
+    "sum": {
+     "clsGood": 48,
+     "clsNeedsImprovement": 2,
+     "clsPoor": 2,
+     "clsTotal": 52,
+     "inpGood": 23,
+     "inpNeedsImprovement": 0,
+     "inpPoor": 0,
+     "inpTotal": 23,
+     "lcpGood": 53,
+     "lcpNeedsImprovement": 0,
+     "lcpPoor": 3,
+     "lcpTotal": 56
+    }
+   },
+   {
+    "count": 69,
+    "dimensions": {
+     "requestPath": "/news/black-friday-canada-2026-november-27-sale-dates-canadian-tire-november-5/"
+    },
+    "quantiles": {
+     "cumulativeLayoutShiftP75": 0,
+     "interactionToNextPaintP75": 40000,
+     "largestContentfulPaintP75": 668000
+    },
+    "sum": {
+     "clsGood": 39,
+     "clsNeedsImprovement": 0,
+     "clsPoor": 0,
+     "clsTotal": 39,
+     "inpGood": 28,
+     "inpNeedsImprovement": 0,
+     "inpPoor": 0,
+     "inpTotal": 28,
+     "lcpGood": 58,
+     "lcpNeedsImprovement": 3,
+     "lcpPoor": 0,
+     "lcpTotal": 61
+    }
+   },
+   {
+    "count": 66,
+    "dimensions": {
+     "requestPath": "/news/home-depot-black-friday-2026-sale-dates-november-5-25-store-hours/"
+    },
+    "quantiles": {
+     "cumulativeLayoutShiftP75": 0.002,
+     "interactionToNextPaintP75": 40000,
+     "largestContentfulPaintP75": 748000
+    },
+    "sum": {
+     "clsGood": 40,
+     "clsNeedsImprovement": 0,
+     "clsPoor": 0,
+     "clsTotal": 40,
+     "inpGood": 29,
+     "inpNeedsImprovement": 0,
+     "inpPoor": 0,
+     "inpTotal": 29,
+     "lcpGood": 53,
+     "lcpNeedsImprovement": 1,
+     "lcpPoor": 1,
+     "lcpTotal": 55
+    }
+   },
+   {
+    "count": 63,
+    "dimensions": {
+     "requestPath": "/news/ramadan-2027-calendar-dates-timetable/"
+    },
+    "quantiles": {
+     "cumulativeLayoutShiftP75": 0,
+     "interactionToNextPaintP75": 96000,
+     "largestContentfulPaintP75": 1276000
+    },
+    "sum": {
+     "clsGood": 57,
+     "clsNeedsImprovement": 0,
+     "clsPoor": 0,
+     "clsTotal": 57,
+     "inpGood": 20,
+     "inpNeedsImprovement": 3,
+     "inpPoor": 0,
+     "inpTotal": 23,
+     "lcpGood": 52,
+     "lcpNeedsImprovement": 1,
+     "lcpPoor": 3,
+     "lcpTotal": 56
+    }
+   }
+  ],
+  "inpElements": [
+   {
+    "count": 191,
+    "dimensions": {
+     "interactionToNextPaintElement": "html.news>ins.adsbygoogle.adsbygoogle-noablate>div.grippy-host",
+     "interactionToNextPaintPath": "/news/day-of-the-dead-2026-dia-de-los-muertos-dates/"
+    }
+   },
+   {
+    "count": 151,
+    "dimensions": {
+     "interactionToNextPaintElement": "html.news>ins.adsbygoogle.adsbygoogle-noablate>div.grippy-host",
+     "interactionToNextPaintPath": "/news/veterans-day-free-meals-discounts/"
+    }
+   },
+   {
+    "count": 94,
+    "dimensions": {
+     "interactionToNextPaintElement": "#site-nav>a",
+     "interactionToNextPaintPath": "/"
+    }
+   },
+   {
+    "count": 72,
+    "dimensions": {
+     "interactionToNextPaintElement": "html.news>body",
+     "interactionToNextPaintPath": "/news/"
+    }
+   },
+   {
+    "count": 64,
+    "dimensions": {
+     "interactionToNextPaintElement": "html.news",
+     "interactionToNextPaintPath": "/news/veterans-day-free-meals-discounts/"
+    }
+   },
+   {
+    "count": 55,
+    "dimensions": {
+     "interactionToNextPaintElement": "html.news>ins.adsbygoogle.adsbygoogle-noablate>div.grippy-host",
+     "interactionToNextPaintPath": "/news/when-do-2026-election-winners-take-office-congress-governors/"
+    }
+   },
+   {
+    "count": 49,
+    "dimensions": {
+     "interactionToNextPaintElement": "#main>div.article-layout>article.article.news-wrap>div.prose-news>ul>li>details.pz-hint>summary",
+     "interactionToNextPaintPath": "/news/nyt-connections-hints-answers-november-7-2026-1245/"
+    }
+   },
+   {
+    "count": 45,
+    "dimensions": {
+     "interactionToNextPaintElement": "html.news>ins.adsbygoogle.adsbygoogle-noablate>div.grippy-host",
+     "interactionToNextPaintPath": "/news/free-rides-to-the-polls-2026-lyft-uber-transit/"
+    }
+   },
+   {
+    "count": 41,
+    "dimensions": {
+     "interactionToNextPaintElement": "#main>div.article-layout>article.article.news-wrap>div.prose-news>ul>li>details.pz-hint>summary",
+     "interactionToNextPaintPath": "/news/nyt-connections-hints-answers-november-5-2026-1243/"
+    }
+   },
+   {
+    "count": 36,
+    "dimensions": {
+     "interactionToNextPaintElement": "html.news>ins.adsbygoogle.adsbygoogle-noablate>div.grippy-host",
+     "interactionToNextPaintPath": "/news/nhl-hometown-remix-jerseys-2026-27-unveil-date-game-schedule/"
+    }
+   },
+   {
+    "count": 32,
+    "dimensions": {
+     "interactionToNextPaintElement": "#main>div.home>div.news-concept-wrap>section.concept-news-lead>div.concept-latest>article>a>img",
+     "interactionToNextPaintPath": "/news/"
+    }
+   },
+   {
+    "count": 31,
+    "dimensions": {
+     "interactionToNextPaintElement": "#main>div.article-layout>article.article.news-wrap>div.prose-news>ul>li>details.pz-hint>summary",
+     "interactionToNextPaintPath": "/news/nyt-connections-hints-answers-november-1-2026-1239/"
+    }
+   }
+  ],
+  "lcpElements": [
+   {
+    "count": 3834,
+    "dimensions": {
+     "largestContentfulPaintElement": "#main>div.article-layout>article.article.news-wrap>figure.hero>picture>img"
+    },
+    "quantiles": {
+     "largestContentfulPaintP75": 940000
+    }
+   },
+   {
+    "count": 3359,
+    "dimensions": {
+     "largestContentfulPaintElement": ""
+    },
+    "quantiles": {
+     "largestContentfulPaintP75": 327000
+    }
+   },
+   {
+    "count": 3275,
+    "dimensions": {
+     "largestContentfulPaintElement": "#main>div.article-layout>article.article.news-wrap>h1.long"
+    },
+    "quantiles": {
+     "largestContentfulPaintP75": 708000
+    }
+   },
+   {
+    "count": 1666,
+    "dimensions": {
+     "largestContentfulPaintElement": "#main>div.article-layout>article.article.news-wrap>p.news-lede"
+    },
+    "quantiles": {
+     "largestContentfulPaintP75": 708000
+    }
+   },
+   {
+    "count": 633,
+    "dimensions": {
+     "largestContentfulPaintElement": "#main>div.article-layout>article.article.news-wrap>h1"
+    },
+    "quantiles": {
+     "largestContentfulPaintP75": 608000
+    }
+   },
+   {
+    "count": 441,
+    "dimensions": {
+     "largestContentfulPaintElement": "section.calendar-detail.concept-wrap>div.studio-columns>div.studio-visual>div.studio-preview>img"
+    },
+    "quantiles": {
+     "largestContentfulPaintP75": 516000
+    }
+   },
+   {
+    "count": 372,
+    "dimensions": {
+     "largestContentfulPaintElement": "#main>div.home>header.concept-news-hero>img"
+    },
+    "quantiles": {
+     "largestContentfulPaintP75": 408000
+    }
+   },
+   {
+    "count": 305,
+    "dimensions": {
+     "largestContentfulPaintElement": "#main>section.home-hero>img.hero-photograph"
+    },
+    "quantiles": {
+     "largestContentfulPaintP75": 521000
+    }
+   },
+   {
+    "count": 187,
+    "dimensions": {
+     "largestContentfulPaintElement": "#main>div.article-layout>article.article.news-wrap>div.prose-news>p"
+    },
+    "quantiles": {
+     "largestContentfulPaintP75": 2880000
+    }
+   },
+   {
+    "count": 182,
+    "dimensions": {
+     "largestContentfulPaintElement": "div.news-workspace>div.listing.news-wrap.tile-listing>div.list.tiles>article.card.tile>a.thumb>img"
+    },
+    "quantiles": {
+     "largestContentfulPaintP75": 580000
+    }
+   }
+  ],
+  "visits": [
+   {
+    "count": 2164,
+    "dimensions": {
+     "date": "2026-11-01"
+    },
+    "sum": {
+     "visits": 1718
+    }
+   },
+   {
+    "count": 3513,
+    "dimensions": {
+     "date": "2026-11-02"
+    },
+    "sum": {
+     "visits": 2746
+    }
+   },
+   {
+    "count": 3186,
+    "dimensions": {
+     "date": "2026-11-03"
+    },
+    "sum": {
+     "visits": 2307
+    }
+   },
+   {
+    "count": 3179,
+    "dimensions": {
+     "date": "2026-11-04"
+    },
+    "sum": {
+     "visits": 2332
+    }
+   },
+   {
+    "count": 2089,
+    "dimensions": {
+     "date": "2026-11-05"
+    },
+    "sum": {
+     "visits": 1617
+    }
+   },
+   {
+    "count": 2196,
+    "dimensions": {
+     "date": "2026-11-06"
+    },
+    "sum": {
+     "visits": 1639
+    }
+   },
+   {
+    "count": 1774,
+    "dimensions": {
+     "date": "2026-11-07"
+    },
+    "sum": {
+     "visits": 1345
+    }
+   },
+   {
+    "count": 568,
+    "dimensions": {
+     "date": "2026-11-08"
+    },
+    "sum": {
+     "visits": 439
+    }
+   }
+  ]
  }
 }

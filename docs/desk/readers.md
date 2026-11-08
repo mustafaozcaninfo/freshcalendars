@@ -1,12 +1,16 @@
 # Reader signals (generated, do not edit)
 
-Built 2026-11-07T17:20 UTC by `scripts/news-readers.mjs` from the first-party beacon (last 7 days, `traffic.md`) and Microsoft Clarity (last 24 hours, `clarity.md`). What each desk does with it: `docs/DESK.md`, "Reader data". Puzzle pages are left out of the desk lists (the puzzle desk owns them).
+Built 2026-11-08T08:22 UTC by `scripts/news-readers.mjs` from the first-party beacon (last 7 days, `traffic.md`) and Microsoft Clarity (last 24 hours, `clarity.md`). What each desk does with it: `docs/DESK.md`, "Reader data". Puzzle pages are left out of the desk lists (the puzzle desk owns them).
 
 ## Readers leave fast (search desk: UX briefs)
 
 Story pages with 30+ beacon views whose readers stay under 60% of the site's average time or scroll less than 20% of the page.
 
-- none this week (or not enough beacon data yet)
+| Story | Views | Avg. seconds (site) | Avg. scroll | Why |
+|---|---:|---:|---:|---|
+| army-navy-game-2026-date-kickoff-time-metlife-stadium-tv | 86 | 43 (95) | 9% | leave fast, low scroll |
+| day-of-the-dead-2026-dia-de-los-muertos-dates | 32 | 83 (95) | 11% | low scroll |
+| paris-masters-2026-schedule-final-time-by-time-zone | 30 | 44 (95) | 22% | leave fast |
 
 ## Clarity: what readers struggle with (search desk: UX briefs)
 
@@ -25,19 +29,33 @@ Script errors in 30%+ of sessions come from code or ad scripts, never from a sto
 - nations-championship-rugby-november-2026-fixtures-kick-off-times-uk-us: script errors 41% of 17 sessions
 - nyt-spelling-bee-hints-answers-november-7-2026: script errors 64% of 11 sessions
 
+Slow taps (Interaction to Next Paint over 200 ms, beacon, 7 days): fix the element or the script named, then compare the share the week after.
+
+- element body, script (none over 50 ms): 2 slow taps, avg. 1,606 ms, input delay 0 ms
+- element html.news, script (none over 50 ms): 1 slow taps, avg. 984 ms, input delay 1 ms
+- element div.grippy-host, script (none over 50 ms): 1 slow taps, avg. 312 ms, input delay 64 ms
+- element body, script pagead2.googlesyndication.com: 1 slow taps, avg. 264 ms, input delay 56 ms
+- element img, script (none over 50 ms): 1 slow taps, avg. 296 ms, input delay 292 ms
+
 ## Reading by category (research desk: weigh topics)
 
 Beacon views of the last 7 days against the 7 before, per category, and views per story read.
 
 | Category | Views | Week before | Change | Stories read | Views per story | Avg. seconds |
 |---|---:|---:|---:|---:|---:|---:|
-| sports | 16 | 0 | new | 4 | 4 | 32 |
-| holidays | 6 | 0 | new | 3 | 2 | 36 |
-| puzzles | 5 | 0 | new | 4 | 1 | 31 |
-| money-benefits | 4 | 0 | new | 2 | 2 | 3 |
-| sky-events | 3 | 0 | new | 2 | 2 | 5 |
-| uk-canada | 2 | 0 | new | 2 | 1 | 55 |
-| retail-dates | 1 | 0 | new | 1 | 1 | 27 |
-| entertainment | 1 | 0 | new | 1 | 1 | 8 |
-| school-calendars | 1 | 0 | new | 1 | 1 | 25 |
+| holidays | 244 | 0 | new | 34 | 7 | 101 |
+| sports | 223 | 0 | new | 46 | 5 | 40 |
+| puzzles | 129 | 0 | new | 27 | 5 | 41 |
+| uk-canada | 73 | 0 | new | 17 | 4 | 62 |
+| entertainment | 58 | 0 | new | 16 | 4 | 39 |
+| retail-dates | 55 | 0 | new | 20 | 3 | 88 |
+| school-calendars | 32 | 0 | new | 20 | 2 | 20 |
+| calendar-guides | 29 | 0 | new | 15 | 2 | 101 |
+| money-benefits | 28 | 0 | new | 10 | 3 | 42 |
+| elections | 25 | 0 | new | 10 | 3 | 55 |
+| sky-events | 16 | 0 | new | 5 | 3 | 50 |
+| (other) | 9 | 0 | new | 2 | 5 | 7 |
+| planning | 8 | 0 | new | 5 | 2 | 21 |
+| time-change | 3 | 0 | new | 1 | 3 | 47 |
+| gaming-tech | 3 | 0 | new | 2 | 2 | 6 |
 

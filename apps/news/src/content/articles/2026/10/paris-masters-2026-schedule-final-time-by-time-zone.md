@@ -107,7 +107,7 @@ assets:
 draft: false
 ---
 
-<p class="callout"><b>Last updated Oct. 29, 2026, 3:50 p.m. ET.</b> The tournament published its full schedule on Oct. 29. The singles draw ceremony was set for Friday, Oct. 30 from 6:30 p.m. Paris time, which is 5:30 p.m. Greenwich Mean Time (GMT), 1:30 p.m. Eastern Daylight Time (EDT) and 10:30 a.m. Pacific Daylight Time (PDT), and has passed. The singles final stays at 3 p.m. Paris time on Sunday, Nov. 8, after the doubles final at 12:30 p.m. This page does not cover the draw itself.</p>
+The tournament published its full schedule on Oct. 29. The singles draw ceremony was set for Friday, Oct. 30 from 6:30 p.m. Paris time, which is 5:30 p.m. Greenwich Mean Time (GMT), 1:30 p.m. Eastern Daylight Time (EDT) and 10:30 a.m. Pacific Daylight Time (PDT), and has passed. The singles final stays at 3 p.m. Paris time on Sunday, Nov. 8, after the doubles final at 12:30 p.m. This page does not cover the draw itself.
 
 **The Rolex Paris Masters runs Saturday, Oct. 31 to Sunday, Nov. 8, 2026, and its provisional programme puts the singles final at 3 p.m. Paris time on Sunday, which is 9 a.m. Eastern Standard Time (EST), the tournament says.** Paris time here is Central European Time (CET), Coordinated Universal Time (UTC) plus 1 hour. This is the 40th anniversary edition, held at the Plenitude Arena in Nanterre. The U.S. columns below are our conversion, and the programme is labeled provisional ("programme prévisionnel").
 

@@ -48,7 +48,6 @@ related: [nyt-spelling-bee-hints-answers-october-25-2026, nyt-connections-hints-
 draft: false
 ---
 
-<p class="callout"><b>Last updated Oct. 24, 2026, 5:16 p.m. ET.</b> Sunday's hints and full solutions for all three boards are now below, from the Pips puzzle data The New York Times has published for Oct. 25.</p>
 
 **Sunday's Pips from The New York Times (NYT), for Oct. 25, 2026, has an Easy board by Ian Livengood and Medium and Hard boards by Rodolfo Kurchan, and the hints and every domino placement are below.** Each solution comes from the puzzle data the Times publishes for the game and was checked against every region's rule. The boards go live in the app at midnight in your time zone. Saturday's solutions follow at the end.
 

@@ -738,6 +738,23 @@ const { SIMILAR_SINCE, SIMILAR_MAX, similarityProblems, modelProblems } = await 
 const similar = similarityProblems(ARTICLES_SRC);
 check("13-PUZZLE-MODEL", `Daily puzzle pages for ${SIMILAR_SINCE} on: written in the new model (no rules section on the page; the hub's rules linked with #how-it-works)`, () => modelProblems(ARTICLES_SRC));
 check("13-PUZZLE-SIMILAR", `Daily puzzle pages for ${SIMILAR_SINCE} on: under ${SIMILAR_MAX} of their three-word runs shared with any of the previous three pages of the same game (Markdown source, scheduled pages included)`, () => similar.fails);
+// Second writing rule set on the Markdown of every story (scripts/lib/writing-rules.mjs).
+const { storyRules, storyText, crossStoryRepeats, RULES_SINCE } = await import("./lib/writing-rules.mjs");
+const storyFiles = (function walk(d) { return readdirSync(d, { withFileTypes: true }).flatMap((e) => e.isDirectory() ? walk(path.join(d, e.name)) : e.name.endsWith(".md") ? [path.join(d, e.name)] : []); })(ARTICLES_SRC);
+const storyResults = storyFiles.map((f) => { const md = readFileSync(f, "utf8"); const text = storyText(md); return { slug: path.basename(f, ".md"), md, text, ...storyRules(md, text) }; }).filter((s) => !/^draft:\s*true/m.test(s.md));
+check("02-WRITING-NEW", `Stories published from ${RULES_SINCE} on: no AI tells or promotional words, the page talks about itself at most twice, FAQ answers do not repeat the description; no story keeps a "Last updated" callout`, () =>
+  storyResults.flatMap((s) => s.errors.map((e) => `${s.slug}: ${e}`)));
+warn("02-WRITING-WATCH", "Writing habits to cut (older stories, and warnings on new ones): self-reference, repeated FAQ, hedge frames, CTA, attribution verbs, stale time words — review", () => {
+  const all = storyResults.flatMap((s) => s.warnings.map((w) => [s.slug, w]));
+  if (!all.length) return [];
+  const kinds = new Map();
+  for (const [, w] of all) { const k = w.replace(/\d+/g, "N").split(/[:(]/)[0].trim(); kinds.set(k, (kinds.get(k) ?? 0) + 1); }
+  return [`${all.length} findings in ${new Set(all.map(([s]) => s)).size} stories`, ...[...kinds].sort((a, b) => b[1] - a[1]).slice(0, 8).map(([k, n]) => `${n} × ${k}`)];
+});
+warn("02-CROSS-STORY", "Sentences repeated word for word in 5 or more stories (a template, not reporting) — review", () => {
+  const reps = crossStoryRepeats(storyResults.filter((s) => !/^category:\s*"?puzzles/m.test(s.md)).map((s) => [s.slug, s.text]));
+  return reps.length ? [`${reps.length} sentences`, ...reps.slice(0, 8).map(([s, l]) => `${l.length} stories: "${s.slice(0, 90)}"`)] : [];
+});
 const { titleProblems } = await import("./news-puzzle-titles.mjs");
 const { TITLE_SINCE } = await import("./lib/puzzle-titles.mjs");
 check("13-PUZZLE-TITLE", `Daily puzzle pages for ${TITLE_SINCE} on carry the standard seoTitle: game, number, "Hints & Answers Today", month spelled out (scripts/lib/puzzle-titles.mjs; fix with node scripts/news-puzzle-titles.mjs)`, () =>
