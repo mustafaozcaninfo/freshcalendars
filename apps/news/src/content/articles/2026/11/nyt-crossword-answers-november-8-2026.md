@@ -1,5 +1,5 @@
 ---
-title: "NYT Crossword Answers and Hints for Sunday, Nov. 8, 2026: \"Mixed Results,\" 140 Clues"
+title: "NYT Crossword Answers and Hints for Sunday, Nov. 8, 2026: Mixed Results Theme, 140 Clues"
 seoTitle: "NYT Crossword Answers Today, Nov. 8, 2026"
 description: "The New York Times (NYT) Crossword for Sunday, Nov. 8, 2026, \"Mixed Results\" by Simeon Seigel: a hint for all 140 clues, the theme explained, then answers."
 type: explainer
@@ -197,7 +197,7 @@ With six 13-letter blends to untangle, the rules for the daily grid are on our [
 - **53-Down** (6 letters), *Get-togethers, slangily*: slang clipped from "sessions", in the plural.
 - **54-Down** (5 letters), *Main ingredient in a German Zwiebelkuchen cake*: "Zwiebel" is the German word; chopping it brings tears.
 - **55-Down** (3 letters), *Dubious, in modern lingo*: slang clipped from a word for shady or suspicious.
-- **56-Down** (3 letters), *Primer número*: Spanish for the number one; also a card game in which you shout at your last card.
+- **56-Down** (3 letters), *Primer número*: the Spanish word for 1; also a card game in which you shout at your last card.
 - **57-Down** (3 letters), *Jon M. ___, director of the "Wicked" movies*: surname of the director behind "Wicked" and "Wicked: For Good", with the "ch" sound as in "chew".
 - **58-Down** (5 letters), *Social grouping*: a hereditary social class, as in a rigid ranking by birth.
 - **59-Down** (5 letters), *Device in a hydrogen atomic clock*: the microwave cousin of the laser; the M stands for microwave.
