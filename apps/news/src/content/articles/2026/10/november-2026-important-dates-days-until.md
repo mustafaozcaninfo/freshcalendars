@@ -4,36 +4,36 @@ seoTitle: "November 2026 Holidays: Calendar With Every Key Date"
 description: "Holidays in November 2026: Election Day Nov. 3, Veterans Day Nov. 11, Thanksgiving Nov. 26, Black Friday Nov. 27. Every date, days until each and a printable."
 type: explainer
 publishedAt: "2026-10-19T08:00:00-04:00"
-updatedAt: "2026-11-02T14:10:00-05:00"
+updatedAt: "2026-11-08T07:23:00-05:00"
 authors: [jessica-hartwell]
 category: calendar-guides
 keywords: ["November 2026 holidays", "November 2026 important dates", "holidays in November 2026", "Thanksgiving 2026 calendar", "days until Thanksgiving 2026"]
 dateline: "New York"
 hero:
   src: ../../../../assets/news/november-2026-important-dates-days-until/november-2026-important-dates-days-until.jpg
-  alt: "November 2026 important dates: a November 2026 calendar page with Election Day, Diwali, Veterans Day, GTA VI and Thanksgiving highlighted"
+  alt: "November 2026 calendar with holidays marked: Election Day Nov. 3, Diwali Nov. 8, Veterans Day Nov. 11, the GTA VI release Nov. 19 and Thanksgiving Nov. 26"
   title: "November 2026 important dates and how many days until each"
-  caption: "November 2026 starts with the clock change on Sunday, Nov. 1 and ends with Cyber Monday on Nov. 30; Thanksgiving is Thursday, Nov. 26."
+  caption: "November 2026 holidays at a glance: Veterans Day is Wednesday, Nov. 11, and Thanksgiving is Thursday, Nov. 26, the fourth Thursday of the month."
 summary:
   - "November 2026 begins with clocks falling back at 2 a.m. on Sunday, Nov. 1. Election Day is Tuesday, Nov. 3."
   - "Diwali is Sunday, Nov. 8, Veterans Day is Wednesday, Nov. 11, and Grand Theft Auto VI launches Thursday, Nov. 19."
   - "Thanksgiving is Thursday, Nov. 26, followed by Black Friday on Nov. 27 and Cyber Monday on Nov. 30."
-  - "As of Monday, Nov. 2, there is 1 day until Election Day and 24 days until Thanksgiving. A free printable calendar with every holiday comes in Sunday- and Monday-start versions."
+  - "As of Sunday, Nov. 8, there are 3 days until Veterans Day and 18 days until Thanksgiving. A free printable calendar with every holiday comes in Sunday- and Monday-start versions."
 faq:
   - q: "How many days until Nov. 5, 2026?"
-    a: "3 days from Monday, Nov. 2, 2026. Nov. 5 is a Thursday. It is Guy Fawkes Night in the U.K. and the release day for several video games."
+    a: "It has passed: Nov. 5, 2026 was a Thursday. It was Guy Fawkes Night in the U.K. and the release day for several video games."
   - q: "How many days until Nov. 8, 2026?"
-    a: "6 days from Monday, Nov. 2. Sunday, Nov. 8, 2026 is Diwali, the Hindu festival of lights."
+    a: "It is today, Sunday, Nov. 8, 2026. Nov. 8 is Diwali, the Hindu festival of lights."
   - q: "How many days until Nov. 25, 2026?"
-    a: "23 days from Monday, Nov. 2. Wednesday, Nov. 25 is the day before Thanksgiving, usually one of the busiest travel days of the year."
+    a: "17 days from Sunday, Nov. 8. Wednesday, Nov. 25 is the day before Thanksgiving, usually one of the busiest travel days of the year."
   - q: "How many days until Thanksgiving 2026?"
-    a: "24 days from Monday, Nov. 2. Thanksgiving is Thursday, Nov. 26, 2026, the fourth Thursday of November."
+    a: "18 days from Sunday, Nov. 8. Thanksgiving is Thursday, Nov. 26, 2026, the fourth Thursday of November."
   - q: "Does November 2026 start on a Sunday?"
     a: "Yes. Nov. 1, 2026 is a Sunday and Nov. 30 is a Monday, so a Sunday-start calendar has five full rows and a Monday-start calendar needs six."
   - q: "What federal holidays are in November 2026?"
     a: "Two: Veterans Day on Wednesday, Nov. 11 and Thanksgiving Day on Thursday, Nov. 26. Election Day is not a federal holiday, although some states give workers time off to vote."
   - q: "How do I count the days until a date myself?"
-    a: "Count the days left in the current month, then add the date in the target month. From Nov. 2, there are 28 days left in the month (Nov. 3 to 30), so Nov. 26 is 26 - 2 = 24 days away."
+    a: "Count the days left in the current month, then add the date in the target month. From Nov. 8, there are 22 days left in the month (Nov. 9 to 30), so Nov. 26 is 26 - 8 = 18 days away."
 sources:
   - title: "Federal Holidays"
     url: "https://www.opm.gov/policy-data-oversight/pay-leave/federal-holidays/"
@@ -85,7 +85,7 @@ downloads:
 draft: false
 ---
 
-**November 2026 opens with the clock change on Sunday, Nov. 1 and closes with Cyber Monday on Nov. 30.** In between come Election Day on Nov. 3, Diwali on Nov. 8, Veterans Day on Nov. 11, the launch of Grand Theft Auto VI on Nov. 19 and Thanksgiving on Thursday, Nov. 26. The countdowns below are counted from Monday, Nov. 2, 2026.
+**November 2026 opens with the clock change on Sunday, Nov. 1 and closes with Cyber Monday on Nov. 30.** In between come Election Day on Nov. 3, Diwali on Nov. 8, Veterans Day on Nov. 11, the launch of Grand Theft Auto VI on Nov. 19 and Thanksgiving on Thursday, Nov. 26. The countdowns below are counted from Sunday, Nov. 8, 2026.
 
 ## November 2026 calendar at a glance
 
@@ -119,25 +119,25 @@ A federal holiday does not close every business or school. Banks, stores, transi
 
 <p class="days-live" data-days-until="2026" hidden></p>
 
-| Date | Day | What happens | Days from Nov. 2 |
+| Date | Day | What happens | Days from Nov. 8 |
 |---|---|---|---|
 | Nov. 1 | Sunday | Daylight saving time ended at 2 a.m.; All Saints' Day | Passed |
-| Nov. 2 | Monday | Day of the Dead (Día de los Muertos); All Souls' Day | Today |
-| Nov. 3 | Tuesday | Election Day | 1 |
-| Nov. 5 | Thursday | Guy Fawkes Night in the U.K. | 3 |
-| Nov. 6 | Friday | Dhanteras, first day of Diwali | 4 |
-| Nov. 8 | Sunday | Diwali and Lakshmi Puja | 6 |
-| Nov. 10 | Tuesday | Bhai Dooj, last day of Diwali | 8 |
-| Nov. 11 | Wednesday | Veterans Day (federal holiday); Remembrance Day in Canada and the U.K. | 9 |
-| Nov. 19 | Thursday | Grand Theft Auto VI launches | 17 |
-| Nov. 24 | Tuesday | Beaver Moon, full at 9:53 a.m. EST | 22 |
-| Nov. 25 | Wednesday | Day before Thanksgiving, a peak travel day | 23 |
-| Nov. 26 | Thursday | Thanksgiving Day (federal holiday) | 24 |
-| Nov. 27 | Friday | Black Friday | 25 |
-| Nov. 29 | Sunday | First Sunday of Advent | 27 |
-| Nov. 30 | Monday | Cyber Monday | 28 |
+| Nov. 2 | Monday | Day of the Dead (Día de los Muertos); All Souls' Day | Passed |
+| Nov. 3 | Tuesday | Election Day | Passed |
+| Nov. 5 | Thursday | Guy Fawkes Night in the U.K. | Passed |
+| Nov. 6 | Friday | Dhanteras, first day of Diwali | Passed |
+| Nov. 8 | Sunday | Diwali and Lakshmi Puja | Today |
+| Nov. 10 | Tuesday | Bhai Dooj, last day of Diwali | 2 |
+| Nov. 11 | Wednesday | Veterans Day (federal holiday); Remembrance Day in Canada and the U.K. | 3 |
+| Nov. 19 | Thursday | Grand Theft Auto VI launches | 11 |
+| Nov. 24 | Tuesday | Beaver Moon, full at 9:53 a.m. EST | 16 |
+| Nov. 25 | Wednesday | Day before Thanksgiving, a peak travel day | 17 |
+| Nov. 26 | Thursday | Thanksgiving Day (federal holiday) | 18 |
+| Nov. 27 | Friday | Black Friday | 19 |
+| Nov. 29 | Sunday | First Sunday of Advent | 21 |
+| Nov. 30 | Monday | Cyber Monday | 22 |
 
-To count from a different day, take the days left in the current month and add the date you are counting to. From Nov. 2 there are 28 days left in the month, so Nov. 30 is 28 days away, and Nov. 8 is 8 - 2 = 6 days away.
+To count from a different day, take the days left in the current month and add the date you are counting to. From Nov. 8 there are 22 days left in the month, so Nov. 30 is 22 days away, and Nov. 19 is 19 - 8 = 11 days away.
 
 ## The first week: clocks, ballots and Diwali
 
