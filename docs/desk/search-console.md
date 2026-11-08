@@ -1,10 +1,10 @@
 # Search Console (generated, do not edit)
 
-Read 2026-11-08T08:21 UTC for sc-domain:freshcalendars.com. Windows end 3 days before the read (Search Console data is late). Source: `scripts/news-gsc.mjs`, daily. Web, image and Discover results are separate: each section says which.
+Read 2026-11-08T09:13 UTC for sc-domain:freshcalendars.com. Windows end 3 days before the read (Search Console data is late). Source: `scripts/news-gsc.mjs`, daily. Web, image and Discover results are separate: each section says which.
 
 ## Gate for the phase decision (docs/DESK.md)
 
-- PASS: At least 60% of /news/ URLs published 7 to 21 days ago are indexed — 100% (57 of 57 sampled)
+- PASS: At least 60% of /news/ URLs published 7 to 21 days ago are indexed — 100% (58 of 58 sampled)
 - PASS: /news/ clicks and impressions did not fall two weeks in a row — no
 - CHECK: No manual action and no security issue — not in the API: check Search Console > Security & Manual Actions
 
@@ -272,7 +272,7 @@ Ranking in web results but absent from image results (hero alt text, caption, fi
 
 ## Indexing
 
-Sample of 90 stories published 2 to 21 days ago (the gate counts the 57 that are 7 to 21 days old): 89 Submitted and indexed, 1 Excluded by ‘noindex’ tag.
+Sample of 90 stories published 2 to 21 days ago (the gate counts the 58 that are 7 to 21 days old): 89 Submitted and indexed, 1 Excluded by ‘noindex’ tag.
 
 - not indexed: /news/catholic-liturgical-calendar-2027-year-b/ (Excluded by ‘noindex’ tag), 4 days old
 
