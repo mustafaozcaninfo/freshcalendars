@@ -99,7 +99,7 @@ internalLinks:
     label: "May printable calendar"
   - href: "/march-calendars.html"
     label: "March printable calendar"
-related: [f1-calendar-2027-race-dates-sprint-weekends-printable, nascar-cup-schedule-2027-daytona-500-february-21-full-race-list]
+related: [f1-calendar-2027-race-dates-sprint-weekends-printable, nascar-cup-schedule-2027-daytona-500-february-21-full-race-list, supercross-2027-schedule-anaheim-january-9-every-round]
 draft: false
 downloads:
   - group: "IndyCar Schedule 2027 printables"
