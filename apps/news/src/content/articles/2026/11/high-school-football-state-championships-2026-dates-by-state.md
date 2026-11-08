@@ -85,7 +85,7 @@ internalLinks:
     label: "December 2026 printable calendar"
   - href: "/november-calendars.html"
     label: "November 2026 printable calendar"
-related: [ihsaa-football-tournament-2026-schedule-sectionals-regionals-state-finals, ohsaa-football-playoffs-2026-schedule-regional-dates-state-finals-canton, fcs-playoffs-2026-bracket-schedule-dates-championship-nashville]
+related: [ihsaa-football-tournament-2026-schedule-sectionals-regionals-state-finals, ohsaa-football-playoffs-2026-schedule-regional-dates-state-finals-canton, mhsaa-football-finals-2026-ford-field-schedule-kickoff-times]
 assets:
   overlay: true
   kicker: "State title games · Nov. 21-Dec. 19"

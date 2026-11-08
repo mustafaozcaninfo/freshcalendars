@@ -104,7 +104,7 @@ internalLinks:
     label: "November 2026 printable calendar"
   - href: "/when-is/thanksgiving/"
     label: "When is Thanksgiving?"
-related: [hunger-games-sunrise-on-the-reaping-release-date-november-20-rewatch-countdown, netflix-new-movies-november-2026-release-dates, new-movies-in-theaters-december-2026-release-dates-avengers-doomsday-dune]
+related: [hunger-games-sunrise-on-the-reaping-release-date-november-20-rewatch-countdown, netflix-new-movies-november-2026-release-dates, focker-in-law-release-date-november-25-cast-watch-order]
 downloads:
   - group: "November 2026 Movie Release Calendar printables"
     title: "November 2026 Movie Release Calendar"
