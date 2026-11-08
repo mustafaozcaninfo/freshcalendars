@@ -64,6 +64,16 @@
       "slug": "november-2026-calendar-printable",
       "changedAt": "2026-11-07",
       "what": "description: \"November 2026 starts on Sunday, Nov. 1, when clocks fall back, ...\" → \"November 2026 calendar: 14 free printable PDFs with Veterans Day, Nov. 11 and Thanksgiving, Nov. 26 marked. ...\"; title unchanged, clock-change sentence cut from the first paragraph"
+    },
+    {
+      "slug": "orange-county-public-schools-calendar-2026-27-breaks-holidays",
+      "changedAt": "2026-11-08",
+      "what": "seoTitle: \"OCPS Calendar 2026-27: Breaks and Holidays\" → \"OCPS Calendar 2026-27: Printable PDF, Breaks and Holidays\"; description leads with the free one-page PDF; first paragraph links the PDF (same day as the Nov. 8 headline migration)"
+    },
+    {
+      "slug": "november-2026-important-dates-days-until",
+      "changedAt": "2026-11-08",
+      "what": "image: hero alt names Election Day Nov. 3, Diwali Nov. 8, Veterans Day Nov. 11, GTA VI Nov. 19 and Thanksgiving Nov. 26; caption no longer opens on the clock change (measure image impressions and clicks; same day as the Nov. 8 headline migration)"
     }
   ]
 }
