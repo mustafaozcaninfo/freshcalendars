@@ -68,7 +68,7 @@ internalLinks:
     label: "November 2026 printable calendar"
   - href: "/december-calendars.html"
     label: "December 2026 printable calendar"
-related: [strictly-come-dancing-2026-halloween-week-saturday-31-october-blackpool-21-november, blue-planet-iii-start-time-tonight-bbc-one-episode-guide-dates, the-traitors-2027-start-date-series-5-bbc]
+related: [strictly-come-dancing-2026-final-date-19-december-remaining-weeks, blue-planet-iii-start-time-tonight-bbc-one-episode-guide-dates, the-traitors-2027-start-date-series-5-bbc]
 downloads:
   - group: "Bake Off 2026 Viewing Tracker printables"
     title: "Bake Off 2026 Viewing Tracker"
@@ -161,7 +161,7 @@ In 2025, Channel 4 said Jasmine, 23, from London won Series 16, which had 12 bak
 
 ## Print the Bake Off 2026 viewing tracker
 
-The one-page sheet lists weeks 1 to 7 with their Channel 4 dates and leaves three lines for weeks 8 to 10, marked "date to be announced". Add the dates to a [November 2026 printable calendar](/november-calendars.html) and a [December 2026 printable calendar](/december-calendars.html) once Channel 4 confirms them. Another British TV show has its own date list in our [Strictly Come Dancing 2026 story](/news/strictly-come-dancing-2026-halloween-week-saturday-31-october-blackpool-21-november/), and charity night is covered in our [Children in Need 2026 story](/news/children-in-need-2026-date-friday-13-november-appeal-night/).
+The one-page sheet lists weeks 1 to 7 with their Channel 4 dates and leaves three lines for weeks 8 to 10, marked "date to be announced". Add the dates to a [November 2026 printable calendar](/november-calendars.html) and a [December 2026 printable calendar](/december-calendars.html) once Channel 4 confirms them. Another British TV show has its own date list in our [Strictly Come Dancing 2026 story](/news/strictly-come-dancing-2026-final-date-19-december-remaining-weeks/), and charity night is covered in our [Children in Need 2026 story](/news/children-in-need-2026-date-friday-13-november-appeal-night/).
 
 ## Which Bake Off 2026 details has Channel 4 not announced?
 

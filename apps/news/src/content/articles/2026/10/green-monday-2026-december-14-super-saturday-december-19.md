@@ -59,7 +59,7 @@ internalLinks:
     label: "When is Christmas Day?"
   - href: "/when-is/cyber-monday/"
     label: "When is Cyber Monday?"
-related: [small-business-saturday-2026-november-28-cyber-monday-november-30, usps-holiday-shipping-deadlines-2026, christmas-eve-christmas-day-2026-store-hours]
+related: [small-business-saturday-2026-participating-stores-events, usps-holiday-shipping-deadlines-2026, christmas-eve-christmas-day-2026-store-hours]
 assets:
   overlay: true
   kicker: "December shopping 2026"
@@ -116,7 +116,7 @@ The weekdays and day counts are computed from the 2026 calendar. For the holiday
 
 ## When is Green Monday, and who named it?
 
-Green Monday falls on the second Monday of December, which is Dec. 14 in 2026. In a Dec. 7, 2017 newsroom post, eBay said it named the day "Green Monday" and tied it to a 2007 sales day held on the second Monday of December. The earlier Cyber Monday, on Nov. 30, 2026, is covered in our [Small Business Saturday and Cyber Monday story](/news/small-business-saturday-2026-november-28-cyber-monday-november-30/) and on the [Cyber Monday date page](/when-is/cyber-monday/).
+Green Monday falls on the second Monday of December, which is Dec. 14 in 2026. In a Dec. 7, 2017 newsroom post, eBay said it named the day "Green Monday" and tied it to a 2007 sales day held on the second Monday of December. The earlier Cyber Monday, on Nov. 30, 2026, is covered in our [Small Business Saturday story](/news/small-business-saturday-2026-participating-stores-events/) and on the [Cyber Monday date page](/when-is/cyber-monday/).
 
 ## When is Super Saturday 2026, and how many people shop?
 

@@ -4,6 +4,7 @@ seoTitle: "Small Business Saturday 2026: Find Stores, Events"
 description: "Small Business Saturday is Nov. 28, 2026, says the U.S. Small Business Administration (SBA). Four local events we checked, how to find stores and how to join."
 type: explainer
 publishedAt: "2026-10-30T15:30:00-04:00"
+updatedAt: "2026-11-08T02:45:00-05:00"
 authors: [jessica-hartwell]
 category: retail-dates
 keywords: ["small business saturday 2026 participating stores", "small business saturday events near me", "shop small 2026", "small business saturday 2026"]
@@ -59,6 +60,22 @@ downloads:
     pdf: "/news/downloads/small-business-saturday-2026/small-business-saturday-2026-shop-small-planner-ink.pdf"
     png: "/news/downloads/small-business-saturday-2026/small-business-saturday-2026-shop-small-planner-ink.png"
     pages: 1
+  - group: "Thanksgiving Weekend Dates 2026 printables"
+    title: "Thanksgiving Weekend Dates 2026, Nov. 26 to 30"
+    description: "One-page Thanksgiving weekend 2026 date sheet: Thanksgiving Nov. 26, Black Friday Nov. 27, Small Business Saturday Nov. 28 and Cyber Monday Nov. 30."
+    preview: ../../../../assets/news/thanksgiving-weekend-2026/thanksgiving-weekend-dates-2026.png
+    alt: "Printable Thanksgiving weekend 2026 calendar marking Nov. 26, 27, 28 and 30"
+    pdf: "/news/downloads/thanksgiving-weekend-2026/thanksgiving-weekend-dates-2026.pdf"
+    png: "/news/downloads/thanksgiving-weekend-2026/thanksgiving-weekend-dates-2026.png"
+    pages: 1
+  - group: "Thanksgiving Weekend Dates 2026 printables"
+    title: "Thanksgiving Weekend Dates 2026, Nov. 26 to 30 (ink saver)"
+    description: "One-page Thanksgiving weekend 2026 date sheet: Thanksgiving Nov. 26, Black Friday Nov. 27, Small Business Saturday Nov. 28 and Cyber Monday Nov. 30. Ink-saver version."
+    preview: ../../../../assets/news/thanksgiving-weekend-2026/thanksgiving-weekend-dates-2026-ink.png
+    alt: "Printable Thanksgiving weekend 2026 calendar marking Nov. 26, 27, 28 and 30, ink-saver version"
+    pdf: "/news/downloads/thanksgiving-weekend-2026/thanksgiving-weekend-dates-2026-ink.pdf"
+    png: "/news/downloads/thanksgiving-weekend-2026/thanksgiving-weekend-dates-2026-ink.png"
+    pages: 1
 summary:
   - "Small Business Saturday 2026 is Saturday, Nov. 28, according to the U.S. Small Business Administration (SBA)."
   - "Four local organizers list 2026 events: Rutland, Vermont; Moultrie, Georgia; Littleton, Colorado; and New Oxford, Pennsylvania."
@@ -74,6 +91,9 @@ faq:
 sources:
   - title: "Small Business Saturday"
     url: "https://www.sba.gov/about-sba/organization/observances/small-business-saturday/"
+    publisher: "U.S. Small Business Administration"
+  - title: "Small Business Saturday"
+    url: "https://www.sba.gov/about-sba/organization/sba-initiatives/small-business-saturday"
     publisher: "U.S. Small Business Administration"
   - title: "Small Business Saturday 2026"
     url: "https://downtownrutland.com/small-business-saturday-2026"
@@ -94,13 +114,15 @@ internalLinks:
     label: "When is Black Friday?"
   - href: "/printable-weekly-calendar.html"
     label: "Printable weekly calendar"
-related: [small-business-saturday-2026-november-28-cyber-monday-november-30, black-friday-2026-price-match-policy-stores, black-friday-2026-price-adjustment-policies]
+  - href: "/when-is/cyber-monday/"
+    label: "When is Cyber Monday?"
+related: [black-friday-2026-price-match-policy-stores, black-friday-2026-price-adjustment-policies]
 draft: false
 ---
 
 Small Business Saturday 2026 is Saturday, Nov. 28, according to the [U.S. Small Business Administration (SBA)](https://www.sba.gov/about-sba/organization/observances/small-business-saturday/), which asks shoppers to "#ShopSmall" that day. Local organizers post their own event pages, and we checked four of them on Oct. 30.
 
-For the other dates that weekend, see our story on [Thanksgiving weekend dates, including Cyber Monday](/news/small-business-saturday-2026-november-28-cyber-monday-november-30/). This story is about finding the shops and events.
+The other dates that weekend, including Cyber Monday, are in the Thanksgiving week section below. The rest of this story is about finding the shops and events.
 
 ## Which Small Business Saturday 2026 events are listed?
 
@@ -129,7 +151,19 @@ The SBA page links to free Small Business Saturday marketing materials, includin
 
 ## Where does Small Business Saturday fall in Thanksgiving week?
 
-Thanksgiving is Thu., Nov. 26, [Black Friday](/when-is/black-friday/) is Fri., Nov. 27, and [Cyber Monday](/when-is/cyber-monday/) is Mon., Nov. 30. Mark the weekend on the [November 2026 printable calendar](/november-calendars.html) or the [printable weekly calendar](/printable-weekly-calendar.html).
+Thanksgiving is Thu., Nov. 26, [Black Friday](/when-is/black-friday/) is Fri., Nov. 27, and [Cyber Monday](/when-is/cyber-monday/) is Mon., Nov. 30. All of these days are counted from Thanksgiving, the fourth Thursday of November. Cyber Monday is a retail marketing term, not a federal holiday.
+
+<p class="days-live" data-days-until="2026" hidden></p>
+
+| Date | Day | What happens | Days from today |
+|---|---|---|---|
+| Nov. 26 | Thursday | Thanksgiving Day | - |
+| Nov. 27 | Friday | Black Friday | - |
+| Nov. 28 | Saturday | Small Business Saturday | - |
+| Nov. 29 | Sunday | Quiet day before Cyber Monday | - |
+| Nov. 30 | Monday | Cyber Monday | - |
+
+The free Thanksgiving weekend date sheet below lists the four dates on one page. Mark the weekend on the [November 2026 printable calendar](/november-calendars.html) or the [printable weekly calendar](/printable-weekly-calendar.html).
 
 ## Shop Small planner to print
 

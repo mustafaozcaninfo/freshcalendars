@@ -42,7 +42,7 @@ internalLinks:
     label: "October 2026 printable calendar"
   - href: "/printable-weekly-calendar.html"
     label: "Printable weekly calendar"
-related: [october-20-2026-what-day-holidays-observances, hunters-moon-october-2026-full-moon-time]
+related: [hunters-moon-october-2026-full-moon-time]
 draft: false
 ---
 
@@ -82,7 +82,7 @@ You sort the 16 words into four groups of four that share a link. You can make f
 
 Start with the group you are surest of, but before you submit, check whether any of your four could belong somewhere else. Today, several words look like they could finish a sentence, and at least two of them belong elsewhere. Saving the purple group for last is often the safest move, since its link only appears once the other words are gone.
 
-Today is also International Chefs Day and the National Day on Writing; see [what else is on the calendar for Oct. 20](/news/october-20-2026-what-day-holidays-observances/). Keep a streak log on our [printable weekly calendar](/printable-weekly-calendar.html) or the [October 2026 printable calendar](/october-calendars.html).
+Today is also International Chefs Day and the National Day on Writing. Keep a streak log on our [printable weekly calendar](/printable-weekly-calendar.html) or the [October 2026 printable calendar](/october-calendars.html).
 
 ## Today's Connections answers (spoilers)
 

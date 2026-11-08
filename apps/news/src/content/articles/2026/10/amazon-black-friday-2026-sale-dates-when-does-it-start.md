@@ -171,6 +171,6 @@ For comparison, Amazon's 2025 policy said "most items purchased between November
 - Thu., Dec. 31: the last purchase day in the reported return window.
 - Fri., Jan. 15 and Sun., Jan. 31, 2027: the reported return deadlines for Apple products and most other items.
 
-Put them on the [printable Amazon holiday timeline](#downloads). For store sales, see our [Black Friday 2026 ad tracker for Walmart, Target and Best Buy](/news/black-friday-2026-ad-tracker-walmart-target-best-buy/) and the [store hours list](/news/black-friday-2026-store-hours-walmart-target-best-buy/). The next day in the sale calendar is covered in [Small Business Saturday on Nov. 28 and Cyber Monday on Nov. 30](/news/small-business-saturday-2026-november-28-cyber-monday-november-30/).
+Put them on the [printable Amazon holiday timeline](#downloads). For store sales, see our [Black Friday 2026 ad tracker for Walmart, Target and Best Buy](/news/black-friday-2026-ad-tracker-walmart-target-best-buy/) and the [store hours list](/news/black-friday-2026-store-hours-walmart-target-best-buy/). The next day in the sale calendar is covered in [Small Business Saturday on Nov. 28 and Cyber Monday on Nov. 30](/news/small-business-saturday-2026-participating-stores-events/).
 
 Not covered here: prices, specific deals and Prime membership terms. This story gives no figures for them.

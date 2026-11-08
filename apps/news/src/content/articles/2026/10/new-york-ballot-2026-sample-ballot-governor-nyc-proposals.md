@@ -61,7 +61,7 @@ internalLinks:
     label: "October 2026 printable calendar"
   - href: "/printable-weekly-calendar.html"
     label: "Printable weekly planner"
-related: [early-voting-starts-october-24-michigan-new-york-2026, sample-ballot-by-zip-code-2026-texas-ballot, 2026-midterm-elections-whats-on-the-ballot-results-tracker]
+related: [early-voting-2026-which-states-are-voting-now, sample-ballot-by-zip-code-2026-texas-ballot, 2026-midterm-elections-whats-on-the-ballot-results-tracker]
 downloads:
   - group: "Election 2026 printables"
     title: "New York Ballot Checklist, Nov. 3, 2026"
@@ -122,7 +122,7 @@ The commission says the changes would, for example, cut the outdoor dining appli
 | Mon., Nov. 2 (today) | Last day to apply for a mail ballot in person at your county board |
 | Tue., Nov. 3 | Election Day, polls open 6 a.m. to 9 p.m.; mail ballots must be postmarked by today |
 
-You do not need to show ID to vote unless you did not provide identification when you registered; first-time voters must give it on or with their registration form. The early voting sites and hours, including New York City's day-by-day schedule, are in our [Michigan and New York early voting guide](/news/early-voting-starts-october-24-michigan-new-york-2026/). For how fast results come in, see [when we will know the 2026 election results](/news/when-will-we-know-election-results-2026-midterms/).
+You do not need to show ID to vote unless you did not provide identification when you registered; first-time voters must give it on or with their registration form. The early voting sites and hours, including New York City's day-by-day schedule, are in our [Michigan and New York early voting guide](/news/early-voting-2026-which-states-are-voting-now/). For how fast results come in, see [when we will know the 2026 election results](/news/when-will-we-know-election-results-2026-midterms/).
 
 ## Print your checklist
 

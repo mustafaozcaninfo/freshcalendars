@@ -1,9 +1,10 @@
 ---
 title: "Strictly Come Dancing 2026 Final: Saturday 19 December, and Every Live Show Left"
 seoTitle: "Strictly 2026 Final: Saturday 19 December"
-description: "Strictly Come Dancing's 2026 final is on Saturday 19 December, per TV Zone UK and ticket agency Donaheys, with seven live Saturday shows still to air."
+description: "Strictly Come Dancing's 2026 final is on Saturday 19 December, per TV Zone UK and ticket agency Donaheys, with seven live Saturday shows from 7 November."
 type: news
 publishedAt: "2026-11-06T13:50:00-05:00"
+updatedAt: "2026-11-08T02:45:00-05:00"
 authors: [jessica-hartwell]
 category: entertainment
 keywords: ["strictly final 2026 date", "when is the strictly final 2026", "strictly 2026 remaining weeks", "strictly live tour 2027 dates"]
@@ -62,6 +63,10 @@ sources:
     url: "https://www.expressandstar.com/showbiz/2025/12/20/karen-carney-and-carlos-gu-win-strictly-come-dancing-in-emotional-final"
     publisher: "Express & Star"
     date: "2025-12-20"
+  - title: "Strictly Come Dancing 2026 - Everything you need to know about the series"
+    url: "https://www.bbc.co.uk/mediacentre/articles/2026/strictly-come-dancing-2026"
+    publisher: "BBC Media Centre"
+    date: "2026-10-26"
 internalLinks:
   - href: "/december-calendars.html"
     label: "December 2026 printable calendar"
@@ -69,7 +74,7 @@ internalLinks:
     label: "November 2026 printable calendar"
   - href: "/when-is/uk-christmas-day/"
     label: "When is Christmas Day in the UK?"
-related: [strictly-come-dancing-2026-halloween-week-saturday-31-october-blackpool-21-november, children-in-need-2026-date-friday-13-november-appeal-night, the-traitors-2027-start-date-series-5-bbc]
+related: [children-in-need-2026-date-friday-13-november-appeal-night, the-traitors-2027-start-date-series-5-bbc, im-a-celebrity-2026-start-date-monday-16-november-itv]
 downloads:
   - group: "Strictly Come Dancing 2026 printables"
     title: "Strictly Come Dancing 2026: Remaining Live Shows"
@@ -91,7 +96,7 @@ assets:
     group: strictly-final-2026
     title: "Strictly Come Dancing 2026: Remaining Live Shows"
     subtitle: "Every live Saturday left, from 7 November to the 19 December final"
-    note: "Source: Donaheys audience tickets; Live Blackpool; TV Zone UK. Start times not yet announced."
+    note: "Source: Donaheys audience tickets; Live Blackpool; TV Zone UK; BBC Media Centre (Musicals Week). Start times not yet announced."
     description: "A one-page list of the Strictly Come Dancing 2026 live shows still to air, from Week 7 on 7 November to the Grand Final on 19 December."
     alt: "Printable list of the Strictly Come Dancing 2026 remaining live Saturdays, from 7 November to the 19 December final."
     data:
@@ -101,15 +106,15 @@ assets:
         - { date: "2026-11-14", time: TBA, title: "Week 8 live show", src: 2, quote: "7th, 14th & 28th November, 5th, 12th & 19th December 2026 [Nov. 14]" }
         - { date: "2026-11-21", time: TBA, title: "Blackpool Week (Week 9)", src: 3, quote: "on Saturday 21 November 2026" }
         - { date: "2026-11-28", time: TBA, title: "Week 10 live show", src: 2, quote: "7th, 14th & 28th November, 5th, 12th & 19th December 2026 [Nov. 28]" }
-        - { date: "2026-12-05", time: TBA, title: "Week 11 live show", src: 2, quote: "7th, 14th & 28th November, 5th, 12th & 19th December 2026 [Dec. 5]" }
+        - { date: "2026-12-05", time: TBA, title: "Musicals Week (Week 11)", src: 10, quote: "Musicals Week - 5 December" }
         - { date: "2026-12-12", time: TBA, title: "Week 12 live show", src: 2, quote: "7th, 14th & 28th November, 5th, 12th & 19th December 2026 [Dec. 12]" }
         - { date: "2026-12-19", time: TBA, title: "Grand Final (Week 13)", src: 1, quote: "conclude with its live final on Saturday 19th December" }
       unconfirmed:
         - { label: "Start times", why: "not announced for the remaining shows as of 6 November 2026" }
-        - { label: "Theme weeks", why: "not announced for the remaining shows" }
+        - { label: "Other theme weeks", why: "the BBC lists Musicals Week (5 December) and no other theme week for the remaining shows" }
 ---
 
-**Strictly Come Dancing's 2026 live final is set for Saturday 19 December 2026, according to the entertainment site TV Zone UK and the audience-ticket agency Donaheys, with seven live Saturday shows left before the series ends.** TV Zone UK, citing the series, says the run will "conclude with its live final on Saturday 19th December", and Donaheys lists the same date. The British broadcaster's own pages were not reachable for this story, so every fact below carries two independent sources that agree.
+**Strictly Come Dancing's 2026 live final is set for Saturday 19 December 2026, according to the entertainment site TV Zone UK and the audience-ticket agency Donaheys, with seven live Saturday shows left before the series ends.** TV Zone UK, citing the series, says the run will "conclude with its live final on Saturday 19th December", and Donaheys lists the same date. The British Broadcasting Corporation (BBC) Media Centre's series page of 26 October 2026 confirms the Blackpool and Musicals Week dates; for the other dates, two independent sources agree.
 
 The weekly live shows, the Blackpool special and the final are set out in the table below and in a one-page printable you can keep by the sofa.
 
@@ -123,7 +128,7 @@ Donaheys, which sells tickets to the studio audience, lists every live Saturday 
 | Week 8 | Saturday 14 November | 8 | 8 |
 | Blackpool Week | Saturday 21 November | 9 | 15 |
 | Week 10 | Saturday 28 November | 10 | 22 |
-| Week 11 | Saturday 5 December | 11 | 29 |
+| Musicals Week | Saturday 5 December | 11 | 29 |
 | Week 12 | Saturday 12 December | 12 | 36 |
 | Grand Final | Saturday 19 December | 13 | 43 |
 
@@ -131,9 +136,27 @@ Start times for the remaining shows have not been announced in these sources, so
 
 ## Strictly Blackpool 2026 date
 
-Blackpool Week is on Saturday 21 November 2026, the series' only show away from its usual studio. TV Zone UK says the show will "head to Blackpool for its annual special on Saturday 21st November", Donaheys lists "Blackpool Week: 21st November 2026", and the tourism site Live Blackpool says the Blackpool Tower Ballroom special is on "Saturday 21 November 2026". It is Week 9 of the run.
+Blackpool Week is on Saturday 21 November 2026, the series' only show away from its usual studio. TV Zone UK says the show will "head to Blackpool for its annual special on Saturday 21st November", Donaheys lists "Blackpool Week: 21st November 2026", and the tourism site Live Blackpool says the Blackpool Tower Ballroom special is on "Saturday 21 November 2026". It is Week 9 of the run. The BBC Media Centre agrees, calling the "annual visit to the iconic Blackpool Tower Ballroom" one of "the most iconic milestones of the series" and saying: "That's on 21 November."
+
+## Strictly Musicals Week 2026 date
+
+The BBC's list of theme weeks, given as "some dates for your diary", puts Musicals Week on Saturday 5 December 2026, Week 11 of the run. It is the only theme week the BBC page lists after Halloween Week on 31 October; Movies Week (3 October) and Icons Week (17 October) came earlier.
 
 Ahead of Blackpool, our guide to [Children in Need 2026](/news/children-in-need-2026-date-friday-13-november-appeal-night/) covers that appeal night for readers following the autumn schedule.
+
+## Strictly Come Dancing 2026 eliminations and the triple dance-off
+
+The BBC said the Halloween Week results show would feature "Strictly's first ever triple dance-off". As the BBC described it, the three couples with the lowest combined judges' scores and public votes danced again, and the judges then voted to eliminate one couple. Earlier results shows in 2026 each ended with a dance-off between two couples. Lawrence Robb and Jowita Przystał left after that three-couple dance-off against Bethany Antonia and Nancy Xu and Jaime Winstone and Carlos Gu, with Shirley Ballas, Anton Du Beke and Craig Revel Horwood all voting to eliminate them, the BBC's results record says.
+
+The BBC's Halloween Week song and dance list named 11 couples, out of the 15 celebrities in the Class of 2026, so 10 couples went into Week 7. Five couples had left by the end of Halloween Week, according to the BBC's results record:
+
+| Results show | Couple who left |
+|---|---|
+| Movie Week (first results show) | Chris Appleton and Amy Dowden |
+| Week 3 | Melanie Walters and Aljaž Škorjanec |
+| Icons Week | Dame Sarah Storey and Julian Caillon |
+| Week 5 | Shaun Wright-Phillips and Alexis Warr |
+| Halloween Week (triple dance-off) | Lawrence Robb and Jowita Przystał |
 
 ## Strictly Come Dancing 2026 final compared with 2025
 
@@ -156,4 +179,4 @@ The 2026 hosts are the presenter Emma Willis, the professional dancer Johannes R
 
 ## What Strictly Come Dancing has not announced for the 2026 run
 
-Start times for the remaining live shows and the results shows have not been published in these sources, and nor have the theme weeks for the rest of the run or the running order of couples. We will not guess any of them. The dates above come from TV Zone UK, Donaheys and Live Blackpool; check them again for changes, and compare the final's date with [Christmas Day in the UK](/when-is/uk-christmas-day/), which falls the following Friday.
+Start times for the remaining live shows and the results shows have not been published in these sources, and nor have any theme weeks beyond Musicals Week or the running order of couples. We will not guess any of them. The dates above come from TV Zone UK, Donaheys, Live Blackpool and the BBC Media Centre; check them again for changes, and compare the final's date with [Christmas Day in the UK](/when-is/uk-christmas-day/), which falls the following Friday.

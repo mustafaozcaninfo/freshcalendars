@@ -50,7 +50,7 @@ internalLinks:
     label: "October 2026 printable calendar"
   - href: "/printable-weekly-calendar.html"
     label: "Printable weekly planner"
-related: [october-20-2026-what-day-holidays-observances, medicare-open-enrollment-2026-december-7-90-dollar-rebate]
+related: [medicare-open-enrollment-2026-december-7-90-dollar-rebate]
 downloads:
   - group: "Take Back Day printables"
     title: "Medicine Cabinet Cleanout Checklist for Take Back Day 2026"
@@ -98,4 +98,4 @@ The 30th Take Back Day, on April 25, 2026, collected 642,410 pounds of medicines
 
 ## Clean out your medicine cabinet
 
-Our free checklist lists what to bring and what to leave home, has an inventory table for the medicines in your cabinet, and repeats the year-round options. Keep it with our [October 2026 printable calendar](/october-calendars.html) or a [weekly planner](/printable-weekly-calendar.html). Oct. 24 was also the first day of [early voting in Michigan and New York](/news/early-voting-starts-october-24-michigan-new-york-2026/) and the night of World Series Game 2; see the [World Series 2026 schedule](/news/world-series-2026-schedule-game-times-tv-channel/). Other deadlines this season, such as [Medicare open enrollment](/news/medicare-open-enrollment-2026-december-7-90-dollar-rebate/), are in [November 2026 important dates](/news/november-2026-important-dates-days-until/).
+Our free checklist lists what to bring and what to leave home, has an inventory table for the medicines in your cabinet, and repeats the year-round options. Keep it with our [October 2026 printable calendar](/october-calendars.html) or a [weekly planner](/printable-weekly-calendar.html). Oct. 24 was also the first day of [early voting in Michigan and New York](/news/early-voting-2026-which-states-are-voting-now/) and the night of World Series Game 2; see the [World Series 2026 schedule](/news/world-series-2026-schedule-game-times-tv-channel/). Other deadlines this season, such as [Medicare open enrollment](/news/medicare-open-enrollment-2026-december-7-90-dollar-rebate/), are in [November 2026 important dates](/news/november-2026-important-dates-days-until/).

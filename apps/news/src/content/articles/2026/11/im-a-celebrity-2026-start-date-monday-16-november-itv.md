@@ -91,7 +91,7 @@ internalLinks:
     label: "November 2026 printable calendar"
   - href: "/december-calendars.html"
     label: "December 2026 printable calendar"
-related: [children-in-need-2026-date-friday-13-november-appeal-night, strictly-come-dancing-2026-halloween-week-saturday-31-october-blackpool-21-november, the-traitors-2027-start-date-series-5-bbc]
+related: [children-in-need-2026-date-friday-13-november-appeal-night, strictly-come-dancing-2026-final-date-19-december-remaining-weeks, the-traitors-2027-start-date-series-5-bbc]
 draft: false
 ---
 
@@ -136,4 +136,4 @@ The spin-off I'm A Celebrity…Unpacked returns live on ITV2, Capital reports, h
 
 In 2025, the series began on Sunday, 16 November and ended with the final on Sunday, 7 December, a run of 21 days, Capital and Heart report; Angry Ginge won. ITV has not announced the 2026 final date or the official line-up, so reported campmate names remain unconfirmed.
 
-The launch joins a run of autumn British television. To mark the dates, see our [November 2026 printable calendar](/november-calendars.html) and [December 2026 printable calendar](/december-calendars.html); other entries this season include [Children in Need on Friday, 13 November](/news/children-in-need-2026-date-friday-13-november-appeal-night/), [Strictly Come Dancing](/news/strictly-come-dancing-2026-halloween-week-saturday-31-october-blackpool-21-november/) and the next series of [The Traitors](/news/the-traitors-2027-start-date-series-5-bbc/).
+The launch joins a run of autumn British television. To mark the dates, see our [November 2026 printable calendar](/november-calendars.html) and [December 2026 printable calendar](/december-calendars.html); other entries this season include [Children in Need on Friday, 13 November](/news/children-in-need-2026-date-friday-13-november-appeal-night/), [Strictly Come Dancing](/news/strictly-come-dancing-2026-final-date-19-december-remaining-weeks/) and the next series of [The Traitors](/news/the-traitors-2027-start-date-series-5-bbc/).

@@ -99,7 +99,7 @@ internalLinks:
     label: "February 2027 printable calendar"
   - href: "/printable-yearly-calendar.html"
     label: "Printable yearly calendar"
-related: [february-2027-important-dates-holidays-days-until, valentines-day-2027-sunday-february-14-dates-printables, super-bowl-lxi-2027-date-sofi-stadium-channel-halftime]
+related: [february-2027-calendar-printable, valentines-day-2027-sunday-february-14-dates-printables, super-bowl-lxi-2027-date-sofi-stadium-channel-halftime]
 assets:
   overlay: true
   kicker: "Lewes Polar Bear Plunge · Sun., Feb. 7, 2027"
@@ -167,7 +167,7 @@ draft: false
 
 The 36th annual Lewes Polar Bear Plunge is set for Sunday, Feb. 7, 2027, with the in-person plunge at 1:00 p.m. in Rehoboth Beach, Delaware, according to plungede.org, the Plunge DE site of Special Olympics Delaware. It is the first in-person plunge since 2025, because the City of Rehoboth Beach canceled the 2026 event.
 
-This story covers the date and time, why 2026 had no plunge, the most recent schedule of events the site lists, how to register, what to bring and which other 2027 polar plunges have posted dates. A printable checklist is at the end. Our [February 2027 printable calendar](/february-calendars.html) shows where Feb. 7 falls, and the month's other dates are in [February 2027 important dates](/news/february-2027-important-dates-holidays-days-until/).
+This story covers the date and time, why 2026 had no plunge, the most recent schedule of events the site lists, how to register, what to bring and which other 2027 polar plunges have posted dates. A printable checklist is at the end. Our [February 2027 printable calendar](/february-calendars.html) shows where Feb. 7 falls, and the month's other dates are in our [February 2027 calendar with holidays and key dates](/news/february-2027-calendar-printable/).
 
 ## Lewes Polar Bear Plunge 2027 date and time
 

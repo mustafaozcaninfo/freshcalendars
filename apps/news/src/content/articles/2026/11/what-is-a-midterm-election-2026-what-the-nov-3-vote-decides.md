@@ -155,7 +155,7 @@ It falls in the middle of a president's four-year term. The Constitution gives t
 
 The House has had 435 voting members since Congress capped its size, according to the House's History, Art & Archives office. The Senate's own lists show 33 Class II seats with terms expiring in 2027 and Class III seats held by senators from Ohio and Florida. Our [midterm tracker](/news/2026-midterm-elections-whats-on-the-ballot-results-tracker/) explains why those two states hold special elections and lists every Senate and governor's race.
 
-Beyond Congress, ballots differ by state. Many include governors, state legislators, judges, ballot measures and city or county offices. To see yours, use the [official sample ballot lookup for your state](/news/sample-ballot-2026-by-state-official-lookup-links/). California's My Voter Status, Pennsylvania's Voter Registration Status and North Carolina's Voter Search are three examples.
+Beyond Congress, ballots differ by state. Many include governors, state legislators, judges, ballot measures and city or county offices. To see yours, use the [official sample ballot lookup for your state](/news/sample-ballot-by-zip-code-2026-texas-ballot/). California's My Voter Status, Pennsylvania's Voter Registration Status and North Carolina's Voter Search are three examples.
 
 ## How many races are on the ballot on Nov. 3?
 

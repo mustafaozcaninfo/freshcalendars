@@ -4,7 +4,7 @@ seoTitle: "2026 Election Results and Certification by State"
 description: "See where each state posts official election results, when the Nov. 3 vote is certified, any runoff dates, and how to look up your sample ballot."
 type: news
 publishedAt: "2026-10-19T07:50:00-04:00"
-updatedAt: "2026-11-05T03:22:50-05:00"
+updatedAt: "2026-11-08T02:45:00-05:00"
 authors: [christina-gerland]
 category: elections
 keywords: ["printable sample ballot by zip code 2026", "sample ballot by zip code", "sample ballot for my zip code", "printable sample ballot 2026", "Texas sample ballot 2026"]
@@ -135,6 +135,30 @@ sources:
   - title: "Voters"
     url: "https://www.eac.gov/voters"
     publisher: "U.S. Election Assistance Commission"
+  - title: "Can I Vote"
+    url: "https://www.nass.org/can-i-vote"
+    publisher: "National Association of Secretaries of State"
+    date: "2026-10-25"
+  - title: "Find Your Polling Place"
+    url: "https://www.nass.org/can-i-vote/find-your-polling-place"
+    publisher: "National Association of Secretaries of State"
+    date: "2026-10-25"
+  - title: "My Voter Status"
+    url: "https://voterstatus.sos.ca.gov/"
+    publisher: "California Secretary of State"
+    date: "2026-10-28"
+  - title: "Polling Place Information"
+    url: "https://www.pavoterservices.pa.gov/pages/pollingplaceinfo.aspx"
+    publisher: "Pennsylvania Department of State"
+    date: "2026-10-28"
+  - title: "Election Day Polling Place Search"
+    url: "https://vt.ncsbe.gov/PPLkup/"
+    publisher: "North Carolina State Board of Elections"
+    date: "2026-10-28"
+  - title: "Virginia Voter Information - Citizen Portal"
+    url: "https://vote.elections.virginia.gov/"
+    publisher: "Virginia Department of Elections"
+    date: "2026-10-28"
 internalLinks:
   - href: "/november-calendars.html"
     label: "November 2026 printable calendar"
@@ -286,6 +310,19 @@ Each state's election office runs a voter lookup. In 18 states and Washington, D
 | Wyoming | [Wyoming Secretary of State: Elections](https://sos.wyo.gov/Elections/) | County or local office |
 
 If your state portal shows only your registration, search for your county name plus "elections." Nonpartisan guides such as VOTE411, run by the League of Women Voters Education Fund, and Ballotpedia's sample ballot lookup also build a ballot from your address. If an official sample ballot and a third-party guide disagree, the official version is the one that counts.
+
+## Polling place lookups and the Can I Vote tool
+
+Most state portals in the table above also show your polling place next to your registration. Four states run a separate official polling-place page, confirmed Oct. 28, 2026, and you can use them again for a runoff or a later election:
+
+| State | Official polling-place lookup | What the page says |
+|---|---|---|
+| California | [My Voter Status](https://voterstatus.sos.ca.gov/), California Secretary of State | Lists "Find your polling place." |
+| Pennsylvania | [Polling Place Information](https://www.pavoterservices.pa.gov/pages/pollingplaceinfo.aspx), Pennsylvania Department of State | "The Polling Place Search tool will help you locate a polling place for Election day." |
+| North Carolina | [Election Day Polling Place Search](https://vt.ncsbe.gov/PPLkup/), North Carolina State Board of Elections | Search by address or precinct. |
+| Virginia | [Virginia Voter Information Citizen Portal](https://vote.elections.virginia.gov/), Virginia Department of Elections | Lets you view your polling place. |
+
+For any other state, the National Association of Secretaries of State (NASS) runs the [Can I Vote page](https://www.nass.org/can-i-vote); canivote.org redirects there. NASS says the tool "links directly to state election websites and trusted resources" and "does not capture any information." On its [polling place page](https://www.nass.org/can-i-vote/find-your-polling-place), you "select your place of residence in the drop down menu." Many states offer an online lookup for your voting site there, and others list contact details for local election officials. Early voting sites can differ from Election Day sites, so check which kind your lookup shows.
 
 ## Texas: results, certification and vote centers
 

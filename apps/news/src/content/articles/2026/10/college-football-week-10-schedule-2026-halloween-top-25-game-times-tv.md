@@ -4,7 +4,7 @@ seoTitle: "College Football Week 10 2026: Scores, Times, TV"
 description: "University of Southern California (USC) beat No. 2 Ohio State 30-18 on Oct. 31, 2026, and Miami won 38-35. Week 10 scores, kickoff times, TV, a pick'em sheet."
 type: news
 publishedAt: "2026-10-29T23:45:00-04:00"
-updatedAt: "2026-11-03T07:09:00-05:00"
+updatedAt: "2026-11-08T02:45:00-05:00"
 authors: [jessica-hartwell]
 category: sports
 keywords: ["college football week 10 scores 2026", "college football schedule week 10 2026", "college football games today", "top 25 college football games Saturday Oct 31"]
@@ -110,6 +110,17 @@ sources:
     url: "https://georgiadogs.com/news/2026/6/10/football-given-another-kickoff-time-eight-more-windows-for-2026-games"
     publisher: "Georgia Athletics"
     date: "2026-06-10"
+  - title: "Football 2026 schedule"
+    url: "https://ucfknights.com/sports/football/schedule"
+    publisher: "UCF Athletics"
+  - title: "Football to have school-record five games on network television in 2026"
+    url: "https://hornetsports.com/news/2026/5/27/football-football-to-have-school-record-five-games-on-network-television-in-2026.aspx"
+    publisher: "Sacramento State Athletics"
+    date: "2026-05-27"
+  - title: "Football's Matchup Against Harvard Rescheduled, Will Air on ESPNU"
+    url: "https://dartmouthsports.com/news/2026/6/10/footballs-matchup-against-harvard-rescheduled-will-air-on-espnu"
+    publisher: "Dartmouth Athletics"
+    date: "2026-06-10"
 internalLinks:
   - href: "/november-calendars.html"
     label: "November 2026 printable calendar"
@@ -179,7 +190,7 @@ ESPN and FBSchedules listed the same games and times, all ET. Rankings are the A
 | 7:45 p.m. | SEC Network | (23) Missouri at Arkansas |
 | 10:00 p.m. | The CW | Texas State at (20) Boise State |
 
-Miami's own schedule confirms Miami at North Carolina at 7:30 p.m. ET in Chapel Hill. Alabama, Kentucky, Louisiana State University (LSU), Tennessee and Houston did not play on Oct. 31, according to ESPN's schedule. No ranked team played Thursday, Oct. 29 or Friday, Oct. 30.
+Miami's own schedule confirms Miami at North Carolina at 7:30 p.m. ET in Chapel Hill. Alabama, Kentucky, Louisiana State University (LSU), Tennessee and Houston did not play on Oct. 31, according to ESPN's schedule. No ranked team played Thursday, Oct. 29 or Friday, Oct. 30; the four Friday games are listed below.
 
 ## What time was each window in my time zone?
 
@@ -191,6 +202,19 @@ The Central Time (CT), Mountain Time (MT) and Pacific Time (PT) columns are our 
 | Afternoon games | 3:30 p.m. | 2:30 p.m. | 1:30 p.m. | 12:30 p.m. |
 | Evening games | 7:30 p.m. | 6:30 p.m. | 5:30 p.m. | 4:30 p.m. |
 | Late game | 10:00 p.m. | 9:00 p.m. | 8:00 p.m. | 7:00 p.m. |
+
+## Which college football games were on Friday, Oct. 30?
+
+The NCAA.com TV schedule of Oct. 29 listed four Friday games, none with a ranked team. The CT, MT and PT times are our conversion from the ET start.
+
+| Game | ET | CT | MT | PT | TV |
+|---|---|---|---|---|---|
+| Tulane at Charlotte | 7:00 p.m. | 6:00 p.m. | 5:00 p.m. | 4:00 p.m. | ESPN2 |
+| Harvard at Dartmouth | 7:00 p.m. | 6:00 p.m. | 5:00 p.m. | 4:00 p.m. | ESPNU |
+| Baylor at University of Central Florida (UCF) | 7:30 p.m. | 6:30 p.m. | 5:30 p.m. | 4:30 p.m. | ESPN |
+| Kent State at Sacramento State | 10:30 p.m. | 9:30 p.m. | 8:30 p.m. | 7:30 p.m. | ESPN2 |
+
+UCF Athletics listed the Baylor game at 7:30 p.m. ET at the Acrisure Bounce House in Orlando. Sacramento State Athletics said in May that its home game against Kent State would air on ESPN2 at 7:30 p.m. Pacific, and Dartmouth Athletics announced on June 10 that the rescheduled Harvard game would air on ESPNU.
 
 ## Where was Florida vs. Georgia played in 2026?
 

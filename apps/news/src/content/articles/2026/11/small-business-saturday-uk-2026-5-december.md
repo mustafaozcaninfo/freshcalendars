@@ -100,7 +100,7 @@ internalLinks:
     label: "December 2026 printable calendar"
   - href: "/uk-holidays/"
     label: "UK holidays"
-related: [small-business-saturday-2026-november-28-cyber-monday-november-30, uk-christmas-markets-2026-york-bath-cardiff-lincoln-belfast, royal-mail-last-posting-dates-christmas-2026-second-class-18-december]
+related: [small-business-saturday-2026-participating-stores-events, uk-christmas-markets-2026-york-bath-cardiff-lincoln-belfast, royal-mail-last-posting-dates-christmas-2026-second-class-18-december]
 downloads:
   - group: "Small Business Saturday UK 2026 Shop Checklist printables"
     title: "Small Business Saturday UK 2026 Shop Checklist"
@@ -155,7 +155,7 @@ The organiser's own accounts are Instagram (smallbizsatuk), TikTok (@smallbizsat
 | Who runs or supports it | Small Business Saturday UK, "proudly supported by American Express" | American Express founded it in 2010; the SBA has co-sponsored since 2011 |
 | Source | [smallbusinesssaturdayuk.com](https://www.smallbusinesssaturdayuk.com/) | [sba.gov/Saturday](https://www.sba.gov/Saturday) |
 
-In 2025 the UK day was Saturday 6 December, according to GOV.UK. For the US day, see our [Small Business Saturday and Cyber Monday 2026 guide](/news/small-business-saturday-2026-november-28-cyber-monday-november-30/). To find shops taking part, see our guide to [participating stores and events](/news/small-business-saturday-2026-participating-stores-events/).
+In 2025 the UK day was Saturday 6 December, according to GOV.UK. For the US day and the shops taking part, see our guide to [US participating stores and events](/news/small-business-saturday-2026-participating-stores-events/).
 
 ## Countdown for shop owners to 5 December
 

@@ -220,7 +220,7 @@ The date is fixed at Dec. 10. The weekdays are our calculation.
 | 2030 | Dec. 10 | Tuesday |
 | 2031 | Dec. 10 | Wednesday |
 
-Mark it on the [December 2026 printable calendar](/december-calendars.html) or the [printable weekly calendar](/printable-weekly-calendar.html). The same day is [Christmas Jumper Day in the UK](/news/christmas-jumper-day-2026-thursday-10-december-planner/), and [International Volunteer Day](/news/international-volunteer-day-2026-december-5/) comes five days earlier, on Dec. 5. Another United Nations observance is [Disarmament Week](/news/disarmament-week-2026-october-24-30/).
+Mark it on the [December 2026 printable calendar](/december-calendars.html) or the [printable weekly calendar](/printable-weekly-calendar.html). The same day is [Christmas Jumper Day in the UK](/news/christmas-jumper-day-2026-thursday-10-december-planner/), and [International Volunteer Day](/news/international-volunteer-day-2026-december-5/) comes five days earlier, on Dec. 5.
 
 ## How can you mark Human Rights Day?
 

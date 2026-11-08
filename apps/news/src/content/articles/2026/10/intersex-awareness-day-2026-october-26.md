@@ -38,7 +38,7 @@ internalLinks:
     label: "October 2026 printable calendar"
   - href: "/november-calendars.html"
     label: "November 2026 printable calendar"
-related: [october-20-2026-what-day-holidays-observances]
+related: []
 draft: false
 ---
 
@@ -67,4 +67,4 @@ Nov. 8 is Intersex Day of Solidarity, which is a Sunday in 2026, six days after 
 
 Oct. 26 falls on a different weekday each year, so the date, not the weekday, defines the observance. In 2026 it landed on a Monday, which put it at the start of a two-week stretch that closes on Sunday, Nov. 8. Counting both days, that is 14 days.
 
-To see what else falls in the month, read our [October 2026 holidays and observances](/news/october-20-2026-what-day-holidays-observances/) story, and mark both dates on the [October](/october-calendars.html) and [November](/november-calendars.html) printable calendars.
+Mark both dates on the [October](/october-calendars.html) and [November](/november-calendars.html) printable calendars.

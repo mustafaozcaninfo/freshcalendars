@@ -76,7 +76,7 @@ internalLinks:
     label: "November 2026 printable calendar"
   - href: "/december-calendars.html"
     label: "December 2026 printable calendar"
-related: [black-friday-cyber-monday-2026-sales-tax-holiday, small-business-saturday-2026-november-28-cyber-monday-november-30, black-friday-2026-ad-tracker-walmart-target-best-buy]
+related: [black-friday-cyber-monday-2026-sales-tax-holiday, small-business-saturday-2026-participating-stores-events, black-friday-2026-ad-tracker-walmart-target-best-buy]
 downloads:
   - group: "November 2026 Sale Calendar printables"
     title: "November 2026 Sale Calendar"
@@ -146,7 +146,7 @@ Singles Day comes first in November. The U.S. dates below come from our linked s
 | Nov. 28 | Saturday | Small Business Saturday |
 | Nov. 30 | Monday | Cyber Monday |
 
-For the U.S. side of the month, see our [Black Friday and Cyber Monday sales tax holiday story](/news/black-friday-cyber-monday-2026-sales-tax-holiday/), the [Small Business Saturday and Cyber Monday dates](/news/small-business-saturday-2026-november-28-cyber-monday-november-30/) and the [Black Friday 2026 ad tracker](/news/black-friday-2026-ad-tracker-walmart-target-best-buy/).
+For the U.S. side of the month, see our [Black Friday and Cyber Monday sales tax holiday story](/news/black-friday-cyber-monday-2026-sales-tax-holiday/), the [Small Business Saturday and Cyber Monday dates](/news/small-business-saturday-2026-participating-stores-events/) and the [Black Friday 2026 ad tracker](/news/black-friday-2026-ad-tracker-walmart-target-best-buy/).
 
 ## What should shoppers check before ordering?
 

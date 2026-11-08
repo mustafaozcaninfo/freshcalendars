@@ -155,7 +155,7 @@ Mail to a military address has earlier dates: Ground Advantage by Wednesday, Nov
 
 ## What happens on the Thanksgiving and Small Business Saturday weekends?
 
-Thanksgiving is Thursday, Nov. 26, and Black Friday is the next day, Friday, Nov. 27. Small Business Saturday follows on Saturday, Nov. 28. The U.S. Small Business Administration (SBA) lists the day, and Cyber Monday is Monday, Nov. 30. Our [Small Business Saturday and Cyber Monday story](/news/small-business-saturday-2026-november-28-cyber-monday-november-30/) has the details.
+Thanksgiving is Thursday, Nov. 26, and Black Friday is the next day, Friday, Nov. 27. Small Business Saturday follows on Saturday, Nov. 28. The U.S. Small Business Administration (SBA) lists the day, and Cyber Monday is Monday, Nov. 30. Our [Small Business Saturday and Cyber Monday story](/news/small-business-saturday-2026-participating-stores-events/) has the details.
 
 ## What falls on the last Saturday before Christmas?
 

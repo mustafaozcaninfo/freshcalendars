@@ -55,7 +55,7 @@ internalLinks:
     label: "November 2026 printable calendar"
   - href: "/printable-weekly-calendar.html"
     label: "Printable weekly calendar"
-related: [strictly-come-dancing-2026-halloween-week-saturday-31-october-blackpool-21-november, great-british-bake-off-2026-free-from-week-tuesday-3-november-episode-schedule, the-traitors-2027-start-date-series-5-bbc]
+related: [strictly-come-dancing-2026-final-date-19-december-remaining-weeks, great-british-bake-off-2026-free-from-week-tuesday-3-november-episode-schedule, the-traitors-2027-start-date-series-5-bbc]
 downloads:
   - group: "Blue Planet III Episode Tracker printables"
     title: "Blue Planet III Episode Tracker, Nov. 2026"
@@ -113,7 +113,7 @@ The United Kingdom (UK) has been on GMT since 25 October, and the United States 
 | US Mountain | 1 p.m. standard time |
 | US Pacific | noon standard time |
 
-The same conversions apply on Sunday 8 November, when episode 2 is listed at 8pm. Our [Strictly Come Dancing story](/news/strictly-come-dancing-2026-halloween-week-saturday-31-october-blackpool-21-november/) and [Great British Bake Off schedule](/news/great-british-bake-off-2026-free-from-week-tuesday-3-november-episode-schedule/) use the same GMT-to-Eastern conversion for other BBC shows.
+The same conversions apply on Sunday 8 November, when episode 2 is listed at 8pm. Our [Great British Bake Off schedule](/news/great-british-bake-off-2026-free-from-week-tuesday-3-november-episode-schedule/) uses the same GMT-to-Eastern conversion, and our [Strictly Come Dancing story](/news/strictly-come-dancing-2026-final-date-19-december-remaining-weeks/) lists that show's remaining live Saturdays.
 
 ## Blue Planet III episode guide and air dates
 

@@ -73,7 +73,7 @@ internalLinks:
     label: "October 2026 printable calendar"
   - href: "/printable-weekly-calendar.html"
     label: "Printable weekly planner"
-related: [october-20-2026-what-day-holidays-observances, dea-drug-take-back-day-october-24-2026-locations, make-a-difference-day-2026-october-24]
+related: [dea-drug-take-back-day-october-24-2026-locations, make-a-difference-day-2026-october-24]
 downloads:
   - group: "Polio Vaccine Check printables"
     title: "Polio Vaccine Check, World Polio Day Oct. 24, 2026"
@@ -96,7 +96,7 @@ draft: false
 
 <p class="callout"><b>Updated Sun., Oct. 25, 2026.</b> World Polio Day 2026, Saturday, Oct. 24, has passed. It is Oct. 24 every year; in 2027 it falls on a Sunday. The Global Polio Eradication Initiative (GPEI) keeps posting case counts weekly.</p>
 
-**World Polio Day is Saturday, Oct. 24, 2026.** It falls on Oct. 24 every year. Rotary International set it up to commemorate Jonas Salk, who led the team that developed the first polio vaccine. It is an awareness day, not a holiday, so offices, schools and banks keep their usual hours. The same date is United Nations Day, one of several observances listed in our [Oct. 20 guide to what day it is](/news/october-20-2026-what-day-holidays-observances/).
+**World Polio Day is Saturday, Oct. 24, 2026.** It falls on Oct. 24 every year. Rotary International set it up to commemorate Jonas Salk, who led the team that developed the first polio vaccine. It is an awareness day, not a holiday, so offices, schools and banks keep their usual hours. The same date is United Nations Day.
 
 ## A correction about Salk's birthday
 

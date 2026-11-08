@@ -88,7 +88,7 @@ internalLinks:
     label: "October 2026 printable calendar"
   - href: "/november-calendars.html"
     label: "November 2026 printable calendar"
-related: [what-time-do-polls-close-election-day-2026, early-voting-starts-october-24-michigan-new-york-2026, when-is-election-day-2026-illinois-polls-early-voting]
+related: [what-time-do-polls-close-election-day-2026, early-voting-2026-which-states-are-voting-now, when-is-election-day-2026-illinois-polls-early-voting]
 downloads:
   - group: "Winnipeg Election Day Checklist printables"
     title: "Winnipeg Election Day Checklist, Oct. 28, 2026"

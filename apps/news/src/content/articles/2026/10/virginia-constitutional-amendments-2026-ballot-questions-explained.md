@@ -73,7 +73,7 @@ internalLinks:
     label: "November 2026 printable calendar"
   - href: "/printable-weekly-calendar.html"
     label: "Printable weekly planner"
-related: [what-time-do-polls-close-election-day-2026, mail-ballot-deadlines-2026-by-state, sample-ballot-2026-by-state-official-lookup-links]
+related: [what-time-do-polls-close-election-day-2026, mail-ballot-deadlines-2026-by-state, sample-ballot-by-zip-code-2026-texas-ballot]
 assets:
   overlay: true
   kicker: "Virginia · Nov. 3, 2026"
@@ -152,7 +152,7 @@ A redistricting amendment that Virginians voted on April 21, 2026 is not on the 
 
 ## What else is on the Virginia ballot?
 
-Virginia's U.S. Senate seat and its 11 U.S. House seats are also on the Nov. 3 ballot. Local referenda vary by locality, so check your sample ballot; our [sample ballot lookup guide](/news/sample-ballot-2026-by-state-official-lookup-links/) links each state's official tool.
+Virginia's U.S. Senate seat and its 11 U.S. House seats are also on the Nov. 3 ballot. Local referenda vary by locality, so check your sample ballot; our [sample ballot lookup guide](/news/sample-ballot-by-zip-code-2026-texas-ballot/) links each state's official tool.
 
 ## Virginia voting deadlines for Nov. 3 to Nov. 6
 

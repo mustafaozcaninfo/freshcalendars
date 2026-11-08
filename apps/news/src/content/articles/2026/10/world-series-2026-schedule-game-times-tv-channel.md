@@ -74,7 +74,7 @@ internalLinks:
     label: "November 2026 printable calendar"
   - href: "/when-is/halloween/"
     label: "When is Halloween?"
-related: [october-20-2026-what-day-holidays-observances, japan-series-2026-schedule-softbank-hawks-dena-baystars-us-time, brewers-world-series-parade-2026-friday-october-30-time-route-rally]
+related: [japan-series-2026-schedule-softbank-hawks-dena-baystars-us-time, brewers-world-series-parade-2026-friday-october-30-time-route-rally]
 downloads:
   - group: "World Series printables"
     title: "World Series 2026 Schedule and Score Tracker (Color)"
@@ -136,4 +136,4 @@ A Game 7 had been set for 8 p.m. ET on Saturday, Oct. 31, Halloween night, and w
 
 ## Plan the week
 
-Our free schedule and score tracker lists all seven games with the date, home team, start time and channel, plus boxes for each final score and a running series tally, in color or an ink-saver version. Put the games on our [October 2026 printable calendar](/october-calendars.html), and see everything else on the calendar this month in [October 20, 2026: what day it is and what's coming up](/news/october-20-2026-what-day-holidays-observances/). The series had been set to run into the weekend of [Halloween](/when-is/halloween/), at the start of our [November 2026 calendar](/november-calendars.html).
+Our free schedule and score tracker lists all seven games with the date, home team, start time and channel, plus boxes for each final score and a running series tally, in color or an ink-saver version. Put the games on our [October 2026 printable calendar](/october-calendars.html). The series had been set to run into the weekend of [Halloween](/when-is/halloween/), at the start of our [November 2026 calendar](/november-calendars.html).

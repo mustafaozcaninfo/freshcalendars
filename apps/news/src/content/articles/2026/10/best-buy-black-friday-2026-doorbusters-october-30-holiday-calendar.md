@@ -164,7 +164,7 @@ Best Buy says stores will be closed on Thanksgiving Day, Thursday, Nov. 26, with
 
 ## How does Best Buy compare with Walmart and Target?
 
-Walmart announced Early Black Friday Deals Nov. 12-15 and Black Friday Deals Nov. 23-29 on Oct. 26, 2026, and Target set Early Black Friday deals for Nov. 5-7 with a Deal of the Day from Nov. 1 to Dec. 24, in its Oct. 21 release. Our [Black Friday 2026 ad tracker](/news/black-friday-2026-ad-tracker-walmart-target-best-buy/) follows all three, and the [Small Business Saturday and Cyber Monday guide](/news/small-business-saturday-2026-november-28-cyber-monday-november-30/) covers the weekend after.
+Walmart announced Early Black Friday Deals Nov. 12-15 and Black Friday Deals Nov. 23-29 on Oct. 26, 2026, and Target set Early Black Friday deals for Nov. 5-7 with a Deal of the Day from Nov. 1 to Dec. 24, in its Oct. 21 release. Our [Black Friday 2026 ad tracker](/news/black-friday-2026-ad-tracker-walmart-target-best-buy/) follows all three, and the [Small Business Saturday and Cyber Monday guide](/news/small-business-saturday-2026-participating-stores-events/) covers the weekend after.
 
 Patrick McGinnis, chief revenue officer at Best Buy, said in the announcement: "Everyone does their holiday shopping a little differently. Some start in October and are done by Thanksgiving, and some don't start until the last minute."
 

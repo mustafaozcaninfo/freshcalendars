@@ -79,7 +79,7 @@ internalLinks:
     label: "October 2026 printable calendar"
   - href: "/printable-weekly-calendar.html"
     label: "Printable weekly planner"
-related: [october-20-2026-what-day-holidays-observances, dea-drug-take-back-day-october-24-2026-locations, world-kindness-day-2026-friday-november-13-kindness-dates-printable]
+related: [dea-drug-take-back-day-october-24-2026-locations, world-kindness-day-2026-friday-november-13-kindness-dates-printable]
 downloads:
   - group: "Volunteer Day Plan printables"
     title: "Volunteer Day Plan, Make A Difference Day Oct. 24, 2026"
@@ -129,4 +129,4 @@ This is general advice, not a rule from any organizer. Sign up ahead if you can,
 
 Our free printable has four short checklists: find, confirm, bring and after. Mark the day on the [October 2026 printable calendar](/october-calendars.html) or a [weekly planner](/printable-weekly-calendar.html).
 
-Saturday has other dates. See the [Take Back Day guide](/news/dea-drug-take-back-day-october-24-2026-locations/) and our [Oct. 20 list of observances](/news/october-20-2026-what-day-holidays-observances/). The clocks also change soon: see [Daylight Saving Time ends Nov. 1](/news/daylight-saving-time-ends-november-1-2026/). World Polio Day is the same date; see our [World Polio Day explainer](/news/world-polio-day-2026-october-24/).
+Saturday has other dates. See the [Take Back Day guide](/news/dea-drug-take-back-day-october-24-2026-locations/). The clocks also change soon: see [Daylight Saving Time ends Nov. 1](/news/daylight-saving-time-ends-november-1-2026/). World Polio Day is the same date; see our [World Polio Day explainer](/news/world-polio-day-2026-october-24/).

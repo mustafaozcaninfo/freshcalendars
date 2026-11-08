@@ -266,7 +266,7 @@ Many employers and some state governments do close on the Friday. North Carolina
 
 Paid time off on Thanksgiving itself is also up to the employer in the private sector. The U.S. Department of Labor says the Fair Labor Standards Act (FLSA) "does not require payment for time not worked, such as vacations or holidays," and treats holiday pay as a matter of agreement between employer and employee. Your company's 2026 holiday calendar, an employment contract or a union agreement decides whether Thursday and Friday are paid.
 
-For those who get both days, the long weekend runs Thursday, Nov. 26 through Sunday, Nov. 29, four days. The [New York Stock Exchange (NYSE)](https://www.nyse.com/trade/hours-calendars) closes early at 1:00 p.m. Eastern Time on the Friday. Many school districts close the whole week; our [Thanksgiving break 2026 school district dates](/news/thanksgiving-break-2026-school-districts-dates/) lists them. The weekend's shopping days continue with [Small Business Saturday and Cyber Monday](/news/small-business-saturday-2026-november-28-cyber-monday-november-30/).
+For those who get both days, the long weekend runs Thursday, Nov. 26 through Sunday, Nov. 29, four days. The [New York Stock Exchange (NYSE)](https://www.nyse.com/trade/hours-calendars) closes early at 1:00 p.m. Eastern Time on the Friday. Many school districts close the whole week; our [Thanksgiving break 2026 school district dates](/news/thanksgiving-break-2026-school-districts-dates/) lists them. The weekend's shopping days continue with [Small Business Saturday and Cyber Monday](/news/small-business-saturday-2026-participating-stores-events/).
 
 ## What is closed on Thanksgiving 2026
 

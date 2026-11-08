@@ -4,6 +4,7 @@ seoTitle: "February 2027 Calendar: Free Printable (PDF)"
 description: "February 2027 starts on Monday, Feb. 1, has 28 days and one federal holiday, Washington's Birthday on Feb. 15. Free printable calendar with Moon phases."
 type: explainer
 publishedAt: "2026-10-31T10:40:00-04:00"
+updatedAt: "2026-11-08T02:45:00-05:00"
 authors: [jessica-hartwell]
 category: calendar-guides
 keywords: ["february 2027 calendar", "february 2027 calendar printable", "february 2027 calendar with holidays", "february 2027 moon phases"]
@@ -68,6 +69,16 @@ sources:
   - title: "Holiday regulations (Nova Scotia Heritage Day)"
     url: "https://novascotia.ca/just/Regulations/regs/fholiday.htm"
     publisher: "Government of Nova Scotia"
+  - title: "Gregorian-Lunar Calendar Conversion Table of 2027"
+    url: "https://www.hko.gov.hk/en/gts/time/calendar/text/files/T2027e.txt"
+    publisher: "Hong Kong Observatory"
+  - title: "99th Oscars and Academy key dates"
+    url: "https://www.oscars.org/99th-oscars-and-academy-key-dates"
+    publisher: "Academy of Motion Picture Arts and Sciences"
+  - title: "Super Bowl LXI on Disney+"
+    url: "https://thewaltdisneycompany.com/news/super-bowl-disney-plus/"
+    publisher: "The Walt Disney Company"
+    date: "2026-10-07"
 internalLinks:
   - href: "/february-calendars.html"
     label: "February printable calendars by year"
@@ -75,7 +86,7 @@ internalLinks:
     label: "Printable monthly calendar"
   - href: "/printable-yearly-calendar.html"
     label: "2027 printable yearly calendar"
-related: [january-2027-calendar-printable, february-2027-important-dates-holidays-days-until, march-2027-calendar-printable]
+related: [january-2027-calendar-printable, march-2027-calendar-printable]
 assets:
   overlay: true
   kicker: "February 2027"
@@ -168,9 +179,33 @@ The IRS instructions set the W-2 date at Monday, Feb. 1, 2027, the first day of 
 
 Valentine's Day and Presidents' Day sit back to back this year, a Sunday and a Monday. Our [Valentine's Day 2027](/news/valentines-day-2027-sunday-february-14-dates-printables/) story covers that weekend, and the Mardi Gras and Lent dates are in [Mardi Gras 2027 and the Lent calendar](/news/mardi-gras-2027-february-9-ash-wednesday-february-10-lent-calendar/). Groundhog Day has its own [Groundhog Day 2027](/news/groundhog-day-2027-tuesday-february-2-time-where-to-watch/) story, and the game date is in the [NFL playoff schedule for 2027](/news/nfl-playoff-schedule-2027-wild-card-divisional-championship-super-bowl-lxi/). Canadian readers can check [Family Day 2027](/news/family-day-2027-canada-february-15-provinces-whats-closed/) for the provinces.
 
+## Days until each February 2027 date
+
+The counts below start from Sunday, Nov. 8, 2026. With JavaScript on, the last column counts from today instead.
+
+<p class="days-live" data-days-until="2027" hidden></p>
+
+| Date | Day | What happens | Days from Nov. 8 |
+|---|---|---|---|
+| Feb. 1 | Monday | W-2 forms due to employees and the SSA | 85 |
+| Feb. 2 | Tuesday | Groundhog Day | 86 |
+| Feb. 6 | Saturday | Lunar New Year's Day; new moon | 90 |
+| Feb. 7 | Sunday | 69th Grammy Awards | 91 |
+| Feb. 8 | Monday | Ramadan expected to begin | 92 |
+| Feb. 9 | Tuesday | Mardi Gras | 93 |
+| Feb. 10 | Wednesday | Ash Wednesday, first day of Lent | 94 |
+| Feb. 14 | Sunday | Super Bowl LXI; Valentine's Day | 98 |
+| Feb. 15 | Monday | Presidents' Day; Family Day in Alberta and Ontario | 99 |
+| Feb. 20 | Saturday | Lantern Festival; full moon | 104 |
+| Feb. 25 | Thursday | Oscars final voting begins | 109 |
+
+Three of these dates are not on the printable. Ramadan is expected to begin on Monday, Feb. 8, as our [Ramadan 2027 calendar](/news/ramadan-2027-calendar-dates-timetable/) explains. The Lantern Festival closes the Lunar New Year season on Saturday, Feb. 20, by the Hong Kong Observatory's conversion table, the same day as the full moon. Final voting for the Oscars begins Thursday, Feb. 25 and runs through March 4, with the show on March 14, according to the Academy of Motion Picture Arts and Sciences; our [Golden Globes and Oscars 2027 calendar](/news/golden-globes-oscars-2027-dates-nominations-how-to-watch-awards-calendar/) lists every awards date.
+
+Super Bowl LXI is at SoFi Stadium in Inglewood, California, according to the National Football League (NFL). The Walt Disney Company says ESPN and ABC carry the traditional presentation and Disney+ livestreams it; our guide to the [Super Bowl LXI date, stadium and channel](/news/super-bowl-lxi-2027-date-sofi-stadium-channel-halftime/) has the details. Law graduates can check the [February 2027 bar exam](/news/february-2027-bar-exam-dates-application-deadlines-by-state/) dates and deadlines by state.
+
 ## Free printable February 2027 calendar with key dates
 
-The sheet is a US Letter calendar grid for Monday, Feb. 1 to Sunday, Feb. 28, 2027. Each of the 14 dates above is numbered on its day, with a legend that gives the time for every Moon phase. It prints in color or, with the ink-saver file, in black and white. The links to the PDF and PNG files sit under the preview of the printable on this page.
+The sheet is a US Letter calendar grid for Monday, Feb. 1 to Sunday, Feb. 28, 2027. Each of the 14 dates in the holidays and Moon phases table is numbered on its day, with a legend that gives the time for every Moon phase. It prints in color or, with the ink-saver file, in black and white. The links to the PDF and PNG files sit under the preview of the printable on this page.
 
 ## How to print a February 2027 calendar
 

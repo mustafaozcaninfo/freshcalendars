@@ -65,7 +65,7 @@ internalLinks:
     label: "January 2027 printable calendar"
   - href: "/printable-yearly-calendar.html"
     label: "Printable yearly calendar"
-related: [strictly-come-dancing-2026-halloween-week-saturday-31-october-blackpool-21-november, great-british-bake-off-2026-free-from-week-tuesday-3-november-episode-schedule, im-a-celebrity-2026-start-date-monday-16-november-itv]
+related: [strictly-come-dancing-2026-final-date-19-december-remaining-weeks, great-british-bake-off-2026-free-from-week-tuesday-3-november-episode-schedule, im-a-celebrity-2026-start-date-monday-16-november-itv]
 downloads:
   - group: "The Traitors and Celebrity Traitors 2026-2027 Release Tracker printables"
     title: "The Traitors and Celebrity Traitors 2026-2027 Release Tracker"

@@ -66,7 +66,7 @@ internalLinks:
     label: "November 2026 printable calendar"
   - href: "/when-is/halloween/"
     label: "When is Halloween?"
-related: [october-20-2026-what-day-holidays-observances, mole-day-2026-october-23-6-02]
+related: [mole-day-2026-october-23-6-02]
 downloads:
   - group: "This day in history printables"
     title: "On This Day: October 22 History Timeline"
@@ -116,12 +116,12 @@ Born on this day: Doris Lessing, the British novelist and 2007 Nobel Prize in Li
 |---|---|
 | Thu., Oct. 22 | The Orionid meteor shower peaks before dawn; Florida's deadline to request a mail ballot |
 | Fri., Oct. 23 | [Mole Day](/news/mole-day-2026-october-23-6-02/), 6:02 a.m. to 6:02 p.m.; [World Series Game 1](/news/world-series-2026-schedule-game-times-tv-channel/), 8 p.m. Eastern Time (ET) on FOX |
-| Sat., Oct. 24 | [Early voting opens in Michigan and New York](/news/early-voting-starts-october-24-michigan-new-york-2026/); [Drug Enforcement Administration (DEA) Take Back Day](/news/dea-drug-take-back-day-october-24-2026-locations/), 10 a.m. to 2 p.m. |
+| Sat., Oct. 24 | [Early voting opens in Michigan and New York](/news/early-voting-2026-which-states-are-voting-now/); [Drug Enforcement Administration (DEA) Take Back Day](/news/dea-drug-take-back-day-october-24-2026-locations/), 10 a.m. to 2 p.m. |
 | Mon., Oct. 26 | The Hunter's Moon is full at 12:12 a.m. EDT |
 | Wed., Oct. 28 | [Social Security payments](/news/social-security-payment-schedule-october-2026-who-gets-paid-today/) for birthdays on the 21st to the 31st |
 | Sat., Oct. 31 | [Halloween](/news/halloween-2026-saturday-sunset-trick-or-treat-times/), and clocks fall back the next morning |
 
-See how to watch the meteors in our [Orionid meteor shower guide](/news/orionid-meteor-shower-2026-peak-october-21-22/), and the rest of the month in [October 20, 2026: what day it is](/news/october-20-2026-what-day-holidays-observances/).
+See how to watch the meteors in our [Orionid meteor shower guide](/news/orionid-meteor-shower-2026-peak-october-21-22/).
 
 ## Print the timeline
 

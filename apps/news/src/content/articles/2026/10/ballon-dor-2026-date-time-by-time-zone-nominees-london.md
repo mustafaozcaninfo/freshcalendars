@@ -4,7 +4,7 @@ seoTitle: "Ballon d'Or 2026 Winners: Kane and Putellas Win"
 description: "Harry Kane and Alexia Putellas won the 2026 Ballon d'Or in London on Monday, Oct. 26, the organizers say. See the full winners list by award and time."
 type: news
 publishedAt: "2026-10-25T13:05:00-04:00"
-updatedAt: "2026-10-27T03:05:00-04:00"
+updatedAt: "2026-11-08T02:45:00-05:00"
 authors: [jessica-hartwell]
 category: sports
 keywords: ["Ballon d'Or 2026 winners", "Ballon d'Or 2026 winner", "who won the Ballon d'Or 2026", "Ballon d'Or 2026 nominees"]
@@ -53,6 +53,13 @@ sources:
     url: "https://www.uefa.com/news-media/news/02a9-218afc0b9ae8-b59f54b95799-1000--nominees-announced-for-2026-ballon-d-or-awards/"
     publisher: "UEFA"
     date: "2026-09-08"
+  - title: "Where to watch the 2026 Ballon d'Or ceremony: TV broadcast partners, live streams"
+    url: "https://www.uefa.com/ballondor/news/02aa-21e300b43166-1cde2af6c1f4-1000--where-to-watch-the-2026-ballon-d-or-ceremony-tv-broadcast-p/"
+    publisher: "UEFA"
+    date: "2026-10-22"
+  - title: "Ballon d'Or to air worldwide live and free on DAZN"
+    url: "https://news-frontend.news.indazn.com/en-US/news/soccer/ballon-dor-dazn-broadcast-live-worldwide-global-free/puz047gzvrfh1xslr50qk6m8k"
+    publisher: "DAZN"
   - title: "2025 Ballon d'Or ceremony: When and where, all the nominees"
     url: "https://www.uefa.com/womenschampionsleague/news/029d-1ec2c3cf6f25-45f93870ea1c-1000--2025-ballon-d-or-ceremony-when-and-where-all-the-nominees-h"
     publisher: "UEFA"
@@ -144,7 +151,9 @@ The table below converts the 20:00 GMT start into local times; it is our convers
 | New York | 4 p.m. | Eastern Daylight Time (EDT) |
 | Chicago | 3 p.m. | Central Daylight Time (CDT) |
 | Denver | 2 p.m. | Mountain Daylight Time (MDT) |
+| Phoenix | 1 p.m. | Mountain Standard Time (MST), Arizona does not observe daylight saving time |
 | Los Angeles | 1 p.m. | Pacific Daylight Time (PDT) |
+| Anchorage | Noon | Alaska Daylight Time (AKDT) |
 | Honolulu | 10 a.m. | Hawaii-Aleutian Standard Time (HST) |
 | São Paulo | 5 p.m. | Brasília Time (BRT), 3 hours behind GMT |
 | Lagos | 9 p.m. | West Africa Time (WAT) |
@@ -152,6 +161,31 @@ The table below converts the 20:00 GMT start into local times; it is our convers
 | Sydney | 7 a.m. Tuesday, Oct. 27 | Australian Eastern Daylight Time (AEDT) |
 
 Europe left summer time on Sunday, Oct. 25, 2026, and the United States ends daylight saving time on Nov. 1. For that one week New York was 4 hours behind London instead of the usual 5, which is why a 20:00 GMT start landed at 4 p.m. ET and not 3 p.m. Our story on the [UK and Europe clock change](/news/uk-europe-clocks-go-back-october-25-2026-time-difference/) has the full time difference table.
+
+## Which channels showed the Ballon d'Or 2026?
+
+UEFA's broadcaster list gave Dazn the global rights outside the 20 territories it named, all in Europe and Central Asia. The United States was not on that list, so Dazn was the official option for U.S. viewers; no U.S. cable or broadcast channel was named by UEFA or Dazn. Dazn said the ceremony would be free to fans in 200 markets. In Hungary the partner was the Hungarian channel of the group founded as Radio Télévision Luxembourg (RTL). Local start times are our conversion from 20:00 GMT.
+
+| Country | Official broadcaster | Local start |
+|---|---|---|
+| France | L'Équipe | 9 p.m. |
+| Monaco | L'Équipe | 9 p.m. |
+| Spain | Telefónica | 9 p.m. |
+| Norway | TV 2 | 9 p.m. |
+| Czechia | TV Nova | 9 p.m. |
+| Slovakia | TV Nova | 9 p.m. |
+| Hungary | RTL Hungary | 9 p.m. |
+| Bulgaria | Btv | 10 p.m. |
+| Romania | Clever Media | 10 p.m. |
+| Türkiye | Türk Telekom | 11 p.m. |
+| Georgia | Setanta Sports / Silknet | Midnight (start of Tuesday) |
+| Armenia | Fast Media | Midnight |
+| Azerbaijan | Quest Media | Midnight |
+| Russia, Belarus | Quest Media | 11 p.m. |
+| Kazakhstan | Quest Media | 1 a.m. Tuesday |
+| Kyrgyzstan | Quest Media | 2 a.m. Tuesday |
+| Tajikistan, Turkmenistan, Uzbekistan | Quest Media | 1 a.m. Tuesday |
+| United States, United Kingdom and all other countries | Dazn | See the city table above; 8 p.m. in London |
 
 ## Who were the Ballon d'Or 2026 nominees?
 

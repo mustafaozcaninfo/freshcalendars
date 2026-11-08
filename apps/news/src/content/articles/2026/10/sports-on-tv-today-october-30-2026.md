@@ -186,7 +186,7 @@ The NHL lists Devils at Golden Knights at 6 p.m. ET, Jets at Panthers at 7 p.m. 
 
 ## College football on Friday: 4 games
 
-NCAA.com's TV schedule, published Oct. 29, lists Tulane at Charlotte (7 p.m. ET, ESPN2), Harvard at Dartmouth (7 p.m. ET, ESPNU), Baylor at UCF (7:30 p.m. ET, ESPN) and Kent State at Sacramento State (10:30 p.m. ET, ESPN2). Our [college football games today](/news/college-football-games-today-october-30-2026/) story covers them.
+NCAA.com's TV schedule, published Oct. 29, lists Tulane at Charlotte (7 p.m. ET, ESPN2), Harvard at Dartmouth (7 p.m. ET, ESPNU), Baylor at UCF (7:30 p.m. ET, ESPN) and Kent State at Sacramento State (10:30 p.m. ET, ESPN2). Our [college football Week 10 story](/news/college-football-week-10-schedule-2026-halloween-top-25-game-times-tv/) covers them.
 
 ## Breeders' Cup Friday at Keeneland
 

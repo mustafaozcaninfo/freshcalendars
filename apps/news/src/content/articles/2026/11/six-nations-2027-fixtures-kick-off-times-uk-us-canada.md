@@ -83,7 +83,7 @@ internalLinks:
     label: "February 2027 printable calendar"
   - href: "/march-calendars.html"
     label: "March 2027 printable calendar"
-related: [nations-championship-rugby-november-2026-fixtures-kick-off-times-uk-us, world-juniors-2027-schedule-canada-usa-game-times-printable, february-2027-important-dates-holidays-days-until]
+related: [nations-championship-rugby-november-2026-fixtures-kick-off-times-uk-us, world-juniors-2027-schedule-canada-usa-game-times-printable, february-2027-calendar-printable]
 assets:
   overlay: true
   kicker: "Six Nations 2027 · Fri., Feb. 5"
@@ -202,4 +202,4 @@ Planet Rugby reported on May 13, 2026 that the women's championship starts on Sa
 
 ## Free Six Nations 2027 fixture list to print
 
-Our printable lists all 15 men's matches with UK and Eastern Time kick-offs and a lined area for your predictions. For more rugby dates, see our [Nations Championship November 2026 fixtures](/news/nations-championship-rugby-november-2026-fixtures-kick-off-times-uk-us/) story, and for other winter sport on North American clocks, the [World Juniors 2027 game times](/news/world-juniors-2027-schedule-canada-usa-game-times-printable/). Key dates for the month are in [February 2027 important dates](/news/february-2027-important-dates-holidays-days-until/).
+Our printable lists all 15 men's matches with UK and Eastern Time kick-offs and a lined area for your predictions. For more rugby dates, see our [Nations Championship November 2026 fixtures](/news/nations-championship-rugby-november-2026-fixtures-kick-off-times-uk-us/) story, and for other winter sport on North American clocks, the [World Juniors 2027 game times](/news/world-juniors-2027-schedule-canada-usa-game-times-printable/). Key dates for the month are in our [February 2027 calendar with holidays and key dates](/news/february-2027-calendar-printable/).
