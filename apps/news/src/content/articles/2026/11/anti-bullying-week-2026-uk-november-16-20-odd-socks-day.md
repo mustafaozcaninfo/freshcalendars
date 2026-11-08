@@ -94,7 +94,7 @@ internalLinks:
     label: "Printable school calendar"
   - href: "/uk-holidays/"
     label: "UK holidays"
-related: [uk-school-term-dates-2026-27-2027-28-half-term-easter-holidays, world-kindness-day-2026-friday-november-13-kindness-dates-printable, uk-school-christmas-holidays-2026-break-up-dates-by-council]
+related: [ontario-bullying-awareness-prevention-week-2026-november-15-21, world-kindness-day-2026-friday-november-13-kindness-dates-printable, uk-school-christmas-holidays-2026-break-up-dates-by-council]
 downloads:
   - group: "Anti-Bullying Week 2026 UK Fact Sheet printables"
     title: "Anti-Bullying Week 2026 UK Fact Sheet"
