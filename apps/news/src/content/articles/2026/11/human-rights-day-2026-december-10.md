@@ -137,7 +137,7 @@ internalLinks:
     label: "December 2026 printable calendar"
   - href: "/printable-weekly-calendar.html"
     label: "Printable weekly calendar"
-related: [bill-of-rights-day-2026-december-15, international-day-elimination-violence-against-women-2026-november-25-16-days, international-volunteer-day-2026-december-5]
+related: [international-day-for-tolerance-2026-november-16, international-day-elimination-violence-against-women-2026-november-25-16-days, international-volunteer-day-2026-december-5]
 downloads:
   - group: "Human Rights Day 2026 printables"
     title: "Human Rights Day 2026: The 30 Articles Checklist"
