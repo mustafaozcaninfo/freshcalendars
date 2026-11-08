@@ -90,6 +90,7 @@ Two scheduled routines run this workflow every day (`docs/PUZZLE-ROUTINES.md`): 
 
    ```bash
    node scripts/news-puzzle-titles.mjs   # sets the standard seoTitle on every new page (13-PUZZLE-TITLE)
+   pnpm news:abbrev                # 1 second: abbreviations and the audit's writing rules (banned words, superlatives) on the pages you changed
    pnpm news:puzzle-check          # answers vs saved official data (seconds; run it after every edit)
    pnpm news:build && pnpm news:verify && pnpm news:seo-audit && pnpm test
    ```

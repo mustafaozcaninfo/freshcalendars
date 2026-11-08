@@ -33,6 +33,9 @@ const mainText = (h) => {
   const m = h.match(/<main id="main"[^>]*>([\s\S]*?)<\/main>/);
   return (m ? m[1] : h).replace(/<script[\s\S]*?<\/script>|<style[\s\S]*?<\/style>/g, " ").replace(/<[^>]+>/g, " ").replace(/&[a-z#0-9]+;/g, " ").replace(/\s+/g, " ");
 };
+/** HTML text with every entity decoded (&quot;, &#39;, &#x2019;, &amp;...), to compare with JSON-LD strings. */
+const decode = (s) => s.replace(/&(#x[0-9a-f]+|#\d+|[a-z]+);/gi, (m, e) => e[0] === "#" ? String.fromCodePoint(e[1].toLowerCase() === "x" ? parseInt(e.slice(2), 16) : +e.slice(1))
+  : ({ amp: "&", quot: '"', apos: "'", lt: "<", gt: ">", nbsp: "\u00a0", rsquo: "\u2019", lsquo: "\u2018", ldquo: "\u201c", rdquo: "\u201d", ndash: "\u2013", mdash: "\u2014", hellip: "\u2026" })[e.toLowerCase()] ?? m);
 const isArticle = (h) => types(h).some((t) => /NewsArticle$/.test(t));
 const articleUrls = urls.filter((u) => isArticle(html[u]));
 
@@ -193,11 +196,8 @@ check("02-LANG", "html lang + hreflang en/x-default (§02 C)", () =>
   each(urls, (u, h) => (/<html lang="en"/.test(h) && /hreflang="en"/.test(h) && /hreflang="x-default"/.test(h) ? null : "lang/hreflang missing")));
 
 // Writing rules: banned AI-tell words and structures (§02 B l.598-622, §08)
-// §02 B l.603 verbatim list (+ obvious inflections).
-const BANNED_EN = ["delve", "tapestry", "testament", "interplay", "intricate", "meticulous", "meticulously", "pivotal", "crucial", "underscore", "underscores",
-  "showcase", "showcases", "align", "aligns", "valuable", "realm", "nuanced", "robust", "seamless", "seamlessly", "leverage", "leveraging", "foster",
-  "navigate", "navigating", "elevate", "embark", "unleash", "unlock", "harness", "bustling", "vibrant", "ever-evolving", "game-changer", "cutting-edge",
-  "dive in", "dive into", "in today's digital world", "it's important to note", "it is important to note", "when it comes to", "in conclusion", "moreover", "furthermore"];
+// Writing rules shared with the pre-push check (scripts/lib/writing-rules.mjs).
+const { BANNED_EN, bannedIn, NOT_X_BUT_Y, WRAP_UP, SUPERLATIVE, MAX_EM_DASHES } = await import("./lib/writing-rules.mjs");
 const words = (u) => mainText(html[u]).toLowerCase();
 /**
  * Text a daily puzzle page quotes verbatim from the official puzzle data (Connections group names
@@ -225,22 +225,23 @@ const officialText = (u) => {
 };
 // Only the quoted form is skipped: capitalized as the puzzle prints it ("Cutting-Edge"), never the
 // same words in lowercase running text, which is ours.
-const ownWords = (u) => officialText(u).reduce(
+const ownText = (u) => officialText(u).reduce(
   (t, s) => t.replace(new RegExp(s.replace(/[.*+?^${}()|[\]\\]/g, "\\$&"), "gi"), (m) => (m === m.toLowerCase() ? m : " ")),
   mainText(html[u]),
-).toLowerCase();
+);
+const ownWords = (u) => ownText(u).toLowerCase();
 check("02-BANNED-WORDS", "No banned AI-tell words/phrases in article or policy text (§02 B l.603)", () =>
-  each(urls.filter((u) => !/\/page\/\d+\/$/.test(u)), (u) => { const text = ownWords(u); const hit = BANNED_EN.filter((w) => new RegExp(`\\b${w.replace(/[-']/g, ".")}\\b`).test(text)); return hit.length ? hit.join(", ") : null; }));
+  each(urls.filter((u) => !/\/page\/\d+\/$/.test(u)), (u) => { const hit = bannedIn(ownText(u)); return hit.length ? hit.join(", ") : null; }));
 check("02-EMDASH", "Em-dash overuse avoided (≤2 per article) (§02 B l.605)", () =>
   each(articleUrls, (u, h) => {
     const prose = (h.match(/<div class="prose-news[^>]*>([\s\S]*?)<\/div>/)?.[1] ?? "") + (h.match(/<p class="news-lede[^>]*>([\s\S]*?)<\/p>/)?.[1] ?? "");
     const n = (prose.match(/—/g) ?? []).length;
-    return n > 2 ? `${n} em dashes in article prose` : null;
+    return n > MAX_EM_DASHES ? `${n} em dashes in article prose` : null;
   }));
 check("02-NOT-X-BUT-Y", "No 'not X, but Y' / 'it's not just X' constructions (§02 B l.606)", () =>
-  each(articleUrls, (u) => { const m = words(u).match(/\b(it'?s|is|isn't) not (just|only|merely)\b[^.]{0,60}\b(but|it'?s)\b|\bnot just\b[^.]{0,60}\bbut\b/); return m ? `"${m[0].slice(0, 60)}"` : null; }));
+  each(articleUrls, (u) => { const m = words(u).match(NOT_X_BUT_Y); return m ? `"${m[0].slice(0, 60)}"` : null; }));
 check("02-ENDINGS", "Paragraphs/sections do not end with formulaic wrap-ups (§02 B l.607)", () =>
-  each(articleUrls, (u) => (/\b(in summary|to sum up|all in all|in conclusion)\b|(^|[.!?:]\s+)(ultimately|overall|in short|in the end),/.test(words(u)) ? "formulaic wrap-up" : null)));
+  each(articleUrls, (u) => (WRAP_UP.test(words(u)) ? "formulaic wrap-up" : null)));
 
 // ── 09 Google News technical checklist (Publisher Center answer 6204050, 9607104; Article structured data) ──
 check("09-NEWSARTICLE-TYPE", "Story JSON-LD uses NewsArticle (Google recognizes Article, NewsArticle, BlogPosting only)", () =>
@@ -303,7 +304,7 @@ check("08-SCHEMA-FORBIDDEN", "No FAQPage/QAPage/DiscussionForumPosting/Review/Ag
 check("08-SCHEMA-VISIBLE", "Schema describes visible content: headline = H1, dates and author shown on page (§01 l.302, §08)", () =>
   each(articleUrls, (u, h) => {
     const a = nodes(h).find((n) => /NewsArticle$/.test(n["@type"]));
-    const h1 = h.match(/<h1[^>]*>([\s\S]*?)<\/h1>/)[1].replace(/<[^>]+>/g, "").replace(/&#39;|&apos;/g, "'").replace(/&amp;/g, "&").trim();
+    const h1 = decode(h.match(/<h1[^>]*>([\s\S]*?)<\/h1>/)[1].replace(/<[^>]+>/g, "")).trim();
     if (a.headline !== h1) return `headline ≠ H1`;
     if (!h.includes(`datetime="${a.datePublished}"`)) return "datePublished not visible";
     if (a.dateModified !== a.datePublished && !h.includes(`datetime="${a.dateModified}"`)) return "dateModified not visible";
@@ -459,7 +460,7 @@ check("02-BURSTINESS", "Sentence length varies (coefficient of variation ≥ 0.3
   }));
 check("02-SUPERLATIVES", "No unverifiable superiority claims ('best', '#1', 'leading', 'ultimate', 'most trusted') (§F R036, §06 l.1611)", () =>
   each(urls, (u, h) => { // Claims about ourselves or a product; "the best time to watch" is advice, not a superiority claim.
-    const m = plain(proseOf(h) || mainText(h)).match(/\b(the best (calendar|site|source|resource|website|place to)|#1|number one|leading provider|ultimate guide|most trusted|world-class|unbeatable)\b/i); return m ? `"${m[0]}"` : null; }));
+    const m = plain(proseOf(h) || mainText(h)).match(SUPERLATIVE); return m ? `"${m[0]}"` : null; }));
 check("06-SPONSORED", "Outbound commercial links carry rel=sponsored/nofollow + disclosure (§06 l.1622)", () =>
   each(urls, (u, h) => {
     // Only real outbound hrefs count; the word "affiliate" in a disclosure is fine.

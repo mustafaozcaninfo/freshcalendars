@@ -11,6 +11,7 @@ import { existsSync, readFileSync, readdirSync } from "node:fs";
 import path from "node:path";
 import { fileURLToPath } from "node:url";
 import { unexpandedAbbrevs } from "./lib/abbrev.mjs";
+import { writingProblems } from "./lib/writing-rules.mjs";
 
 const ROOT = path.resolve(path.dirname(fileURLToPath(import.meta.url)), "..");
 const ARTICLES = "apps/news/src/content/articles";
@@ -51,17 +52,23 @@ function storyText(md) {
 
 const args = process.argv.slice(2);
 const files = args.includes("--all") ? allStories() : args.length ? args.map((f) => path.resolve(f)) : changedStories();
-let failed = 0;
+let failed = 0, abbrevFailed = 0;
 for (const f of files) {
-  const missing = unexpandedAbbrevs(storyText(readFileSync(f, "utf8")));
-  if (missing.length) {
-    failed++;
-    console.error(`✗ ${path.relative(ROOT, f)}: not expanded on first use: ${missing.join(", ")}`);
-  }
+  const text = storyText(readFileSync(f, "utf8"));
+  const missing = unexpandedAbbrevs(text);
+  // The audit's writing rules (scripts/lib/writing-rules.mjs) on the same text, so a banned word,
+  // a superiority claim or an em-dash pile fails here in a second instead of on CI.
+  const style = writingProblems(text);
+  if (missing.length) { abbrevFailed++; console.error(`✗ ${path.relative(ROOT, f)}: not expanded on first use: ${missing.join(", ")}`); }
+  for (const s of style) console.error(`✗ ${path.relative(ROOT, f)}: ${s}`);
+  if (missing.length || style.length) failed++;
 }
 if (failed) {
-  console.error(`\n${failed} stor${failed === 1 ? "y" : "ies"} need "Full Name (ABBR)" at the first use of each abbreviation (08-ABBREV).`);
-  console.error(`If it is a proper name everyone knows (like NBC), tell the site owner; only they add words to COMMON in scripts/lib/abbrev.mjs.`);
+  if (abbrevFailed) {
+    console.error(`\n${abbrevFailed} stor${abbrevFailed === 1 ? "y" : "ies"} need "Full Name (ABBR)" at the first use of each abbreviation (08-ABBREV).`);
+    console.error(`If it is a proper name everyone knows (like NBC), tell the site owner; only they add words to COMMON in scripts/lib/abbrev.mjs.`);
+  }
+  console.error(`Fix the lines above, then push again (the SEO audit checks the same rules on CI).`);
   process.exit(1);
 }
-console.log(`abbreviations OK in ${files.length} stor${files.length === 1 ? "y" : "ies"}`);
+console.log(`abbreviations and writing rules OK in ${files.length} stor${files.length === 1 ? "y" : "ies"}`);

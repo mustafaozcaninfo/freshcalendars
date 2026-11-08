@@ -61,7 +61,8 @@ function dailyPages(dir) {
       if (/^draft:\s*true/m.test(md)) continue;
       if (!games.has(puzzle.game)) games.set(puzzle.game, []);
       const body = md.split(/^---$/m).slice(2).join("---");
-      games.get(puzzle.game).push({ slug, date: puzzle.date, body, runs: shingles(prose(md)), noindex: /^noindex:\s*true/m.test(md) });
+      const publishedAt = /^publishedAt:\s*"?([^"\n]+)/m.exec(md)?.[1] ?? "";
+      games.get(puzzle.game).push({ slug, date: puzzle.date, body, publishedAt, runs: shingles(prose(md)), noindex: /^noindex:\s*true/m.test(md) });
     }
   })(dir);
   for (const list of games.values()) list.sort((a, b) => a.date.localeCompare(b.date));
@@ -86,6 +87,10 @@ export function modelProblems(dir) {
       const rules = page.body.match(RULES_H2)?.[0].trim();
       if (rules) fails.push(`${page.slug}: rules section "${rules}" on a daily page; link the hub's #how-it-works instead`);
       else if (!page.body.includes("#how-it-works")) fails.push(`${page.slug}: no link to the hub's rules (#how-it-works)`);
+      // A page goes live the day before its puzzle (or the same day). One published days earlier
+      // links to neighbours that are not live yet and breaks the link check on main (Nov. 5, 2026).
+      const pub = page.publishedAt.slice(0, 10), earliest = new Date(Date.parse(`${page.date}T12:00:00Z`) - 2 * 864e5).toISOString().slice(0, 10);
+      if (pub && pub < earliest) fails.push(`${page.slug}: publishedAt ${pub} is more than 2 days before the puzzle date ${page.date}; use 12:05 a.m. ET the day before`);
       // The link must land on a rules section: the hub needs a `guide` in topics.ts.
       for (const [, hub] of page.body.matchAll(/\/news\/topic\/([a-z0-9-]+)\/#how-it-works/g))
         if (!guides.has(hub)) fails.push(`${page.slug}: links /news/topic/${hub}/#how-it-works, but that hub has no rules section (add a guide in apps/news/src/lib/topics.ts)`);
