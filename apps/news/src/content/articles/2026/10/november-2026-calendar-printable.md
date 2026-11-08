@@ -1,10 +1,10 @@
 ---
 title: "November 2026 Calendar: 14 Free Printable Templates With Holidays, Thanksgiving and Moon Phases"
 seoTitle: "November 2026 Calendar: 14 Free Printables With Holidays"
-description: "November 2026 starts on Sunday, Nov. 1, when clocks fall back, and has two federal holidays. Get 14 free printable November 2026 calendars as PDF or image."
+description: "November 2026 calendar: 14 free printable PDFs with Veterans Day, Nov. 11 and Thanksgiving, Nov. 26 marked. The month starts on Sunday and has 19 working days."
 type: explainer
 publishedAt: "2026-10-26T05:20:00-04:00"
-updatedAt: "2026-10-27T03:00:00-04:00"
+updatedAt: "2026-11-07T19:30:00-05:00"
 corrections:
   - date: "2026-10-27T03:00:00-04:00"
     text: "An earlier version swapped two Moon phases. The Moon is at last quarter on Sun., Nov. 1 and new on Mon., Nov. 9, per the U.S. Naval Observatory; the moon phase sheet and daily list are corrected."
@@ -191,7 +191,7 @@ downloads:
 draft: false
 ---
 
-**November 2026 starts on Sunday, Nov. 1 and has 30 days, two federal holidays and 19 working days.** The holidays are Veterans Day on Wednesday, Nov. 11 and Thanksgiving Day on Thursday, Nov. 26, according to the U.S. Office of Personnel Management (OPM). The month opens with the clock change: daylight saving time ends at 2 a.m. on Nov. 1, per the National Institute of Standards and Technology (NIST). Below are 14 free November 2026 calendar templates, each drawn by Fresh Calendars and saved as a one-page PDF with real, selectable text. Click any picture to open its PDF.
+**November 2026 starts on Sunday, Nov. 1 and has 30 days, two federal holidays and 19 working days.** The holidays are Veterans Day on Wednesday, Nov. 11 and Thanksgiving Day on Thursday, Nov. 26, according to the U.S. Office of Personnel Management (OPM). Below are 14 free November 2026 calendar templates, each drawn by Fresh Calendars and saved as a one-page PDF with real, selectable text. Click any picture to open its PDF.
 
 ## November 2026 at a glance
 
@@ -199,7 +199,7 @@ A Sunday start makes November 2026 a tidy month on paper: five full rows, Nov. 1
 
 | | November 2026 |
 |---|---|
-| First day | Sunday, Nov. 1 (clocks fall back 1 hour at 2 a.m.) |
+| First day | Sunday, Nov. 1 |
 | Last day | Monday, Nov. 30 |
 | Days | 30 (21 weekdays, 9 weekend days) |
 | Federal holidays | Veterans Day, Wed., Nov. 11 · Thanksgiving Day, Thu., Nov. 26 |
@@ -220,7 +220,7 @@ Only Veterans Day and Thanksgiving are federal holidays. The rest of the table l
 | Date | What | Source |
 |---|---|---|
 | Fri., Oct. 30 | November Supplemental Security Income (SSI) paid early, because Nov. 1 is a Sunday | Social Security Administration (SSA) |
-| Sun., Nov. 1, 2 a.m. | Daylight saving time ends; clocks fall back 1 hour | NIST |
+| Sun., Nov. 1, 2 a.m. | Daylight saving time ends; clocks fall back 1 hour | National Institute of Standards and Technology (NIST) |
 | Sun., Nov. 1 | HealthCare.gov open enrollment for 2027 plans begins | HealthCare.gov |
 | Sun., Nov. 1, 3:28 p.m. EST | Last quarter Moon | U.S. Naval Observatory (USNO) |
 | Tue., Nov. 3 | Election Day; Social Security for people paid on the 3rd | State election offices; SSA |

@@ -4,6 +4,7 @@ seoTitle: "Broward County School Calendar 2026-27"
 description: "Broward County Public Schools 2026-27: Thanksgiving break Nov. 23-27, winter break Dec. 21-Jan. 1, spring break March 22-26 and a May 28, 2027 last day."
 type: news
 publishedAt: "2026-10-19T11:20:00-04:00"
+updatedAt: "2026-11-07T19:45:00-05:00"
 authors: [aaron-kessler]
 category: school-calendars
 keywords: ["Broward County school calendar 2026-27", "Broward schools winter break 2026", "Broward spring break 2027", "Broward last day of school 2027", "Broward County Public Schools calendar"]
@@ -34,6 +35,10 @@ sources:
     url: "https://www.browardschools.com/p/~board/district-news-news-room-135038/post/bcps-announces-school-calendars-have-been-approved"
     publisher: "Broward County Public Schools"
     date: "2025-12-18"
+  - title: "2026/27 School Calendar - Broward County Public Schools"
+    url: "https://www.browardschools.com/bcps-departments/office-of-communications/accessible-school-year-calendar/202627-school-calendar"
+    publisher: "Broward County Public Schools"
+    date: "2026-11-07"
 internalLinks:
   - href: "/printable-school-calendar.html"
     label: "Printable school-year calendar 2026-27"
@@ -52,10 +57,11 @@ draft: false
 | Date | What |
 |---|---|
 | Monday, Aug. 10, 2026 | First day of school |
+| Wednesday, Nov. 11, 2026 | Schools and administrative offices closed (Veterans Day) |
 | Mon.-Fri., Nov. 23-27, 2026 | Thanksgiving break |
 | Mon., Dec. 21, 2026 to Fri., Jan. 1, 2027 | Winter break |
 | Mon.-Fri., March 22-26, 2027 | Spring break |
-| Friday, May 28, 2027 | Last day of school |
+| Friday, May 28, 2027 | Last day of school (early release day) |
 
 With weekends, Thanksgiving break runs nine days, from Saturday, Nov. 21 through Sunday, Nov. 29, and winter break 16 days, from Saturday, Dec. 19 through Sunday, Jan. 3. Spring break runs Saturday, March 20 through Sunday, March 28, which takes in Good Friday on March 26 and Easter Sunday on March 28.
 
@@ -63,7 +69,22 @@ The last day falls on the Friday before Memorial Day, May 31. Summer starts with
 
 ## Single days off
 
-Not every day off is a break. Broward's full calendar also lists federal holidays, early release days and teacher planning days, and some schools, including charter schools and those with special programs, may follow schedules of their own, so check the calendar posted on the district website or your school's site before booking travel around a Monday holiday.
+Not every day off is a break. Broward's accessible 2026-27 calendar, read Nov. 7, 2026, lists these single days:
+
+| Date | What |
+|---|---|
+| Wednesday, Nov. 11, 2026 | Schools and administrative offices closed (Veterans Day) |
+| Friday, Dec. 18, 2026 | Early release day |
+| Monday, Jan. 4, 2027 | Employee planning day, no school for students; students return Tuesday, Jan. 5 after winter break |
+| Monday, Jan. 18, 2027 | Schools and administrative offices closed (Martin Luther King Jr. Day) |
+| Friday, Feb. 12, 2027 | Early release day |
+| Monday, Feb. 15, 2027 | Schools and administrative offices closed |
+| Wednesday, March 10, 2027 | Schools closed |
+| Thursday, March 18, 2027 | Early release day |
+| Friday, March 19, 2027 | Employee planning day, no school for students |
+| Friday, May 28, 2027 | Early release day and last day of school |
+
+Some schools, including charter schools and those with special programs, may follow schedules of their own, so check the calendar posted on the district website or your school's site before booking travel around a Monday holiday.
 
 ## Broward, Miami-Dade and Palm Beach side by side
 
