@@ -125,7 +125,7 @@ internalLinks:
     label: "November 2026 printable calendar"
   - href: "/december-calendars.html"
     label: "December 2026 printable calendar"
-related: [human-rights-day-2026-december-10, world-aids-day-2026-tuesday-december-1-theme, international-volunteer-day-2026-december-5]
+related: [human-rights-day-2026-december-10, world-aids-day-2026-tuesday-december-1-theme, december-6-national-day-of-remembrance-2026-canada-flags-half-mast]
 downloads:
   - group: "16 Days of Activism 2026 printables"
     title: "16 Days of Activism 2026: Nov. 25 to Dec. 10 Calendar"
