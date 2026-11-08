@@ -72,7 +72,7 @@ internalLinks:
     label: "December 2026 printable calendar"
   - href: "/printable-weekly-calendar.html"
     label: "Printable weekly calendar"
-related: [winter-solstice-2026-december-21-shortest-day-sunset-times, ursid-meteor-shower-2026-peak-december-21-22-moonset-times]
+related: [winter-solstice-2026-december-21-shortest-day-sunset-times, ursid-meteor-shower-2026-peak-december-21-22-moonset-times, dongzhi-festival-2026-december-22-winter-solstice]
 downloads:
   - group: "Stonehenge Winter Solstice 2026 Morning Plan printables"
     title: "Stonehenge Winter Solstice 2026 Morning Plan"
